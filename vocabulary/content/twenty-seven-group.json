@@ -7,21 +7,24 @@
     "u"
   ],
   "pos": "noun",
-  "concept": "Twenty-Seven-Group / Third Ternary Scale",
-  "description": "A noun representing a group of twenty-seven (3³), the third scale in Phi's ternary numeral system. Exact forms count it with 'ta' or 'wi'; bare 'lau' gives an approximate magnitude around twenty-seven and often has the pragmatic force of 'many.' Twenty-seven is not a perceptual or universal human-scale boundary, and exact counting remains available above it through 242.",
-  "sound_symbolism": "The two syllables of 'lau' provide a mnemonic image of flow across a larger grouping. The lateral 'l' opens a channel around the tongue, 'a' gives the form space, and the separate rounded 'u' closes it with a sense of extent. The image can evoke abundance, but the sound does not make a quantity abundant or beyond comprehension.",
-  "grammatical_notes": "Functions as a scale noun representing twenty-seven. 'Ta lau' is exactly 27 and 'wi lau' is exactly 54; lower scales and units may follow. Bare 'lau' before a noun is approximate, as in 'lau shiro' (trees on roughly a twenty-seven-group scale, often 'many trees'). It appears at most once in an exact numeral, after 'rei' and before 'phoi', 'shao', and final units. It is not a word for a month or for literal uncountability.",
-  "pillars": {
-    "solarpunk-values": "Bare 'lau' can describe resources at the scale of a grove, gathering, or shared stock when an estimate is adequate. The numeral does not determine resilience, distribution, excess, or whether everyone has enough.",
-    "secular-buddhist-philosophy": "The longer exact forms above 'lau' can invite reflection on whether precision serves the present purpose. They do not make counting suffering or require quantitative thought to yield to qualitative experience.",
-    "peace-linguistics-practices": "Bare 'lau' makes an approximate register readily available, while exact forms through 242 remain possible. Neither choice prevents wealth comparison, accumulation, or hoarding; peaceful distribution requires explicit decisions and institutions.",
-    "pre-industrial-wisdom": "Communities have used embodied groups, containers, tallies, and natural cycles for practical quantity. 'Lau' can evoke grouped abundance without assigning one counting philosophy to traditional or Indigenous societies."
-  },
+  "search_terms": [
+    "twenty-seven",
+    "many"
+  ],
+  "description": "The third scale word, 'lau', is a group of twenty-seven, equal to three nine-groups. A preceding 'ta' or 'wi' makes the quantity exact. Used bare before a noun, 'lau' estimates around twenty-seven and may read naturally as 'many'; exact Phi counting continues beyond this learned grouping.",
+  "articulatory_notes": "The tongue tip contacts the alveolar ridge for 'l'; air passes along its sides as the mouth opens into central 'a'. The lips then round and the back of the tongue rises for a separate high-back 'u'. Penultimate stress places the weight on 'la', before the audible hiatus.",
+  "usage_notes": "The exact form 'ta lau' is twenty-seven and 'wi lau' is fifty-four; lower scales and units may follow. Bare 'lau' before a noun supplies an estimate around twenty-seven, often translated as 'many' when the scale matters more than a close count. In exact composition it appears once at most, after 'rei' and before 'phoi', 'shao', and final units.",
+  "examples": [
+    {
+      "phi": "ta lau himo miona mua silawo nai.",
+      "translation": "Twenty-seven people are in the village."
+    },
+    {
+      "phi": "lau shiro mua shelira nai.",
+      "translation": "About twenty-seven trees are in the forest."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "Names three groups of nine; exact recognition normally requires counting or learned grouping",
-    "community": "Can estimate a gathering or shared stock without claiming sufficiency",
-    "nature": "Can estimate grouped natural quantities such as trees or birds",
-    "temporal": "Can estimate a span near twenty-seven when a day count is intended; it is not a month unit",
-    "wisdom": "Makes the choice between exact and approximate description audible"
+    "cognition": "a group of twenty-seven used as the third ternary scale and as an approximate magnitude"
   }
 }

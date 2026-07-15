@@ -7,16 +7,24 @@
     "o"
   ],
   "pos": "noun",
-  "concept": "Three-Group / First Ternary Scale",
-  "description": "A noun representing a group of three, the first scale in Phi's ternary numeral system. Exact forms count it with 'ta' or 'wi'; a bare 'shao' before a noun gives an approximate magnitude around three. Three commonly falls within the small range adults can identify without serial counting under suitable viewing conditions, but the word makes no claim that every triad is perceptually immediate or naturally complete.",
-  "sound_symbolism": "The two syllables 'sha.o' offer a mnemonic image of gathering. The sustained fricative 'sh' /ʃ/ can suggest separate grains moving together, the open 'a' releases the sound, and the final rounded 'o' suggests a bounded group. These associations support recall; they do not describe a universal cognitive response to the sound.",
-  "grammatical_notes": "Functions as a scale noun representing three. 'Ta shao' is exactly 3 and 'wi shao' is exactly 6; a following 'ta' or 'wi' supplies units, as in 'ta shao wi' (5). Bare 'shao' before a noun is approximate, as in 'shao philo' (about three days). Unlike a classifier, 'shao' contributes quantity. It appears at most once in an exact numeral, after any larger scale and before final units.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Triads such as the Three Jewels and Three Marks of Existence give 'shao' useful mnemonic associations for Buddhist discussion. Those doctrinal triads do not establish base three as a natural or spiritually privileged numeral system.",
-    "pre-industrial-wisdom": "Triadic patterns such as beginning, middle, and end occur in storytelling and practical organization. 'Shao' can evoke that familiar grouping without claiming that all traditional societies counted in threes or that triads are universally complete."
-  },
+  "search_terms": [
+    "three",
+    "triad"
+  ],
+  "description": "The word 'shao' is the first scale noun in Phi's ternary numerals: one group of three. A preceding 'ta' or 'wi' counts exact three-groups, while bare 'shao' before a noun estimates around three. Adults can often recognize three without serial counting under suitable viewing conditions, though the word works just as well after a deliberate count.",
+  "articulatory_notes": "The tongue blade approaches the postalveolar area for voiceless 'sh'; air passes through the narrow channel into open central 'a'. The lips then round for a separate mid-back 'o'. Stress rests on 'sha', with the vowel hiatus still clearly audible.",
+  "usage_notes": "The exact form 'ta shao' is three and 'wi shao' is six; a final 'ta' or 'wi' supplies units, as in 'ta shao wi' (five). Bare 'shao' before a noun is approximate, as in 'shao philo' (about three days). In exact composition, the scale appears once at most, after every larger scale and before any final units.",
+  "examples": [
+    {
+      "phi": "ta shao himo miona mua silawo nai.",
+      "translation": "Three people are in the village."
+    },
+    {
+      "phi": "shao miona mua silawo nai.",
+      "translation": "About three people are in the village."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "Names a small group that often falls within the adult subitizing range under suitable viewing conditions",
-    "wisdom": "Makes triadic grouping available as a design association rather than a universal claim"
+    "cognition": "a group of three used as the first scale in exact or approximate enumeration"
   }
 }
