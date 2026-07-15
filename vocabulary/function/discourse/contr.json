@@ -8,12 +8,23 @@
     "i"
   ],
   "pos": "discourse",
-  "concept": "Contrasting / However / Alternative View",
-  "description": "A discourse marker introducing contrast or an alternative perspective without opposition. 'Whekai' turns the discourse toward a different view while leaving the previous statement standing.",
-  "sound_symbolism": "The word begins with 'whe', the voiceless breath — the coolest sound in Phi's inventory, air turning before it speaks. Every discourse marker opens with such a breath, and 'whekai' is the turn itself: after the breath, 'ka' plants a clean pivot, the stop marking the exact point where the thought changes direction, and the word opens through the hiatus into 'i', the sharp bright vowel of the new line of sight. Breath, pivot, fresh direction — spoken, 'whekai' enacts the small pause an honest speaker takes before saying: and yet, consider the other side.",
-  "grammatical_notes": "As a discourse marker, functions sentence-initially to introduce contrasting thoughts or perspectives. When sentence-initial, appears after Slot 0 particles but before the subject. Unlike negation, maintains the validity of what came before while presenting an alternative viewpoint. Example: 'whekai mia manolu' (However, I stay).",
+  "search_terms": [
+    "however",
+    "yet",
+    "on the other hand",
+    "discourse contrast"
+  ],
+  "description": "With 'whekai', the discourse turns toward a sentence that qualifies or pushes against the preceding line of thought. In English, this is usually however or on the other hand. 'thona' (ADVRS) keeps a local contrast inside one coordination; 'whekai' redirects after a sentence boundary.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiceless 'wh', then unround into middle-height front 'e'. Seal the tongue dorsum against the soft palate for 'k' and release it into stressed central 'a'. Preserve the hiatus before lifting the tongue into high-front unrounded 'i'. Stress 'ka'.",
+  "sound_symbolism": "The voiceless 'wh' supplies the breath shared by Phi's discourse markers. Closure at 'k' and release across the final hiatus make a small audible pivot before the contrasting thought.",
+  "usage_notes": "'whekai' follows any Slot 0 particle and precedes the subject of the contrasting sentence. It can introduce a counterpoint or a correction without turning the two sentences into one coordination.",
+  "examples": [
+    {
+      "phi": "mia to shonela. whekai mia shelomu ma nai.",
+      "translation": "I learned. However, I do not understand."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The discourse marker embodies the Middle Way—avoiding extremes of either denying differences or creating false oppositions. Truth often lies in holding multiple perspectives simultaneously.",
-    "peace-linguistics-practices": "By enabling contrast without conflict, 'whekai' supports dialogue across differences. It transforms potential opposition into collaborative exploration of multiple truths."
+    "peace-linguistics-practices": "By announcing a discourse-level turn before its content, 'whekai' gives the listener a moment to register disagreement or qualification before the new claim arrives."
   }
 }
