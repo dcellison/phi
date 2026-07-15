@@ -299,7 +299,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (502)
+## noun (505)
 
 | Word | Gloss |
 |---|---|
@@ -313,6 +313,7 @@
 | `henora` | capacity |
 | `herani` | trend |
 | `heru` | herb |
+| `heshowa` | gas |
 | `hesura` | ash |
 | `hisae` | skin |
 | `hisaro` | clinical finding |
@@ -386,6 +387,7 @@
 | `kuroi` | muscle |
 | `kurona` | horn |
 | `laenu` | commons |
+| `larewu` | liquid |
 | `lathoe` | tongue |
 | `lau` | twenty-seven-group |
 | `lawe` | left |
@@ -544,6 +546,7 @@
 | `palowe` | shoe |
 | `palu` | plate |
 | `panuri` | resource |
+| `patoku` | solid |
 | `pelaku` | severity |
 | `pelio` | arm |
 | `pelori` | bird |

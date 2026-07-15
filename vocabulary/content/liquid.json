@@ -1,0 +1,32 @@
+{
+  "word": "larewu",
+  "gloss": "liquid",
+  "ipa": "/lä.ˈre̞.wu/",
+  "syllables": [
+    "la",
+    "re",
+    "wu"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "liquid matter",
+    "liquid phase"
+  ],
+  "description": "Oil settles into the shape of a jar and follows the jar when poured. It is 'larewu': material that, under the conditions at hand, keeps roughly the same volume while taking its container's shape. 'selu' (flow) reports movement; the phase remains 'larewu' while the oil rests.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l', let voiced air pass around its sides, and open into central 'a'. Make a tap or short trill at the alveolar ridge for 'r', then release into stressed true-mid front 'e'. Round the lips and raise the back of the tongue toward the soft palate for voiced 'w', and continue into rounded high-back 'u'.",
+  "sound_symbolism": "Voice continues while the tongue and lips reshape 'larewu': lateral, rhotic, then rounded glide. The unbroken voicing gives the liquid category a moving contour.",
+  "usage_notes": "'larewu muralo' means liquid material. As a predicate with 'nai' (be), 'larewu' gives the subject's current phase; 'phialu' (water), by contrast, identifies the substance across phase changes.",
+  "examples": [
+    {
+      "phi": "loesi larewu nai.",
+      "translation": "Oil is liquid."
+    },
+    {
+      "phi": "patoku muralo larewu kelu.",
+      "translation": "The solid material becomes liquid."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "matter that keeps roughly its volume while taking the shape of its container"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "word": "patoku",
+  "gloss": "solid",
+  "ipa": "/pä.ˈt̪o̞.ku/",
+  "syllables": [
+    "pa",
+    "to",
+    "ku"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "solid matter",
+    "solid phase"
+  ],
+  "description": "A sponge keeps its shape when lifted even though it yields under a hand. It is 'patoku': material that, under the conditions at hand, retains its own shape and roughly its volume during ordinary handling. 'kethua' (hard) concerns indentation, while 'tinako' (rigid) concerns bending or adjustment.",
+  "articulatory_notes": "Close the lips for voiceless 'p' and release into open central 'a'. Place the tongue tip against the back of the upper teeth for dental 't', then release into stressed rounded true-mid back 'o'. Raise the back of the tongue against the soft palate for 'k' and release into rounded high-back 'u'.",
+  "sound_symbolism": "The mouth closes at three different places as 'patoku' proceeds: lips, teeth, soft palate. That stepwise resistance gives the solid category a tactile mnemonic.",
+  "usage_notes": "'patoku muralo' names solid material. In a predicate with 'nai' (be), 'patoku' classifies the subject. Temperature, pressure, or timescale can be added when it affects the classification.",
+  "examples": [
+    {
+      "phi": "kerithe patoku nai.",
+      "translation": "Ice is solid."
+    },
+    {
+      "phi": "ha patoku muralo kethua ma nai.",
+      "translation": "This solid material is not hard."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "matter that retains its own shape and roughly its volume under the conditions at hand"
+  }
+}

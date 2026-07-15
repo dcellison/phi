@@ -31,7 +31,7 @@
 0.47	1	philu	candle	content	phelu	hold	content	197
 0.47	1	loa	give	content	lua	lovely	interjection	163
 0.47	1	phaelo	feel	content	phaelu	peaceful	content	161
-0.47	1	kelu	become	content	kelo	frame	content	154
+0.47	1	kelu	become	content	kelo	frame	content	156
 0.47	1	welao	good	content	wilao	long-for	content	124
 0.47	1	shero	night	content	shiro	tree	content	99
 0.47	1	solae	explain	content	sulae	warm	content	98
@@ -99,7 +99,7 @@
 0.50	1	nia	ON	function	mia	1SG	function	1805
 0.50	1	sa	HON.RESPECT	function	ha	PROX	function	696
 0.50	1	na	NEC	function	ma	NEG	function	605
-0.50	1	nua	COM	function	mua	LOC	function	487
+0.50	1	nua	COM	function	mua	LOC	function	488
 0.50	1	ta	one	content	ka	CAUS	function	467
 0.50	1	ta	one	content	pa	INCH	function	361
 0.50	1	shola	QUOT.COMP	function	sola	DISJ	function	295

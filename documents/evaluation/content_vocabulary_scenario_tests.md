@@ -258,12 +258,26 @@ The account gives the material's arrival and one dangerous property, yet it cann
 
 The three categories belong together. A speaker needs to distinguish material that retains its own shape during ordinary handling, material that takes the shape of its container while keeping roughly the same volume, and material that spreads through the available volume. Substance names and behaviour clauses can describe examples, but they cannot give the category itself.
 
-Phi should add base nouns for solid, liquid, and gas. Nouns fit because these are kinds of material rather than scalar qualities. Phi's ordinary noun-as-descriptor rule will also let each category modify `muralo` (material), so parallel adjective entries would add nothing.
+Phi uses `patoku` (solid), `larewu` (liquid), and `heshowa` (gas). Nouns fit because these are kinds of material rather than scalar qualities. Phi's ordinary noun-as-descriptor rule also lets each category modify `muralo` (material), so parallel adjective entries would add nothing.
+
+```
+kerithe patoku nai. loesi larewu nai.
+ice solid be. oil liquid be.
+(Ice is solid. Oil is liquid.)
+
+soli heshowa mua womu nai.
+SOME gas LOC home be.
+(Some gas is in the home.)
+
+patoku muralo larewu kelu. larewu muralo heshowa kelu.
+solid material liquid become. liquid material gas become.
+(The solid material becomes liquid. The liquid material becomes gas.)
+```
 
 Their definitions belong at the scale of ordinary handling rather than pocket thermodynamics. The familiar three do not exhaust the phases of matter or settle every gel or plasma. Specialist modules and exact source material can carry finer classifications when the distinction itself becomes the subject.
 
 This distinction reaches daily life before it reaches technical study. Medicine may come as a tablet or a liquid dose; a container label and a fuel warning depend on the same categories. Ecological and Systems material can teach conditions, transitions, and further phases, but speakers should not need an optional module to state the ordinary distinction.
 
-No separate base root for material phase is recommended. Within the analytical modules, `muralo mirela` (material state) can introduce the selected condition, while the proposed category noun supplies its value. `kaero` remains the stage of a process rather than acquiring another English sense.
+No separate base root for material phase is needed. Within the analytical modules, `muralo mirela` (material state) can introduce the selected condition, while one of the three category nouns supplies its value. `kaero` remains the stage of a process rather than acquiring another English sense.
 
-This recommendation awaits a maintainer ruling before forms are generated. If accepted, the three nouns belong in one coinage pass, where their definitions, contrasts, and phonetic neighbourhoods can be judged together.
+All three forms pass the phonology and character collision checks, and the phonetic audit finds no existing entry within its review threshold. Their contours keep the set apart in the mouth: `patoku` closes three times, `larewu` keeps its voice through each consonant, and `heshowa` begins in breath before opening at the end.

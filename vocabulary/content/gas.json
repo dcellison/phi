@@ -1,0 +1,33 @@
+{
+  "word": "heshowa",
+  "gloss": "gas",
+  "ipa": "/he̞.ˈʃo̞.wä/",
+  "syllables": [
+    "he",
+    "sho",
+    "wa"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "gaseous matter",
+    "gaseous phase",
+    "vapour"
+  ],
+  "description": "'heshowa' spreads through whatever room a vessel gives it. Under the conditions at hand, the material keeps neither its own shape nor its own volume. Air is one gaseous mixture, and water vapour is water in this phase. 'haowu' (air) identifies that mixture; 'thumiro' (smoke) includes gases and suspended particles.",
+  "articulatory_notes": "Begin with voiceless 'h' at the glottis and let the breath pass into true-mid front 'e'. Raise the tongue blade behind the alveolar ridge for 'sh', and direct voiceless air through the narrow channel into stressed rounded true-mid back 'o'. Round the lips and raise the back of the tongue for voiced 'w', then unround and open into central 'a'.",
+  "sound_symbolism": "Open breath narrows into sustained 'sh', then rounded 'w' releases into broad 'a'. The widening finish recalls matter spreading through the volume available to it.",
+  "usage_notes": "'heshowa' classifies a material without saying that it burns; it is a phase noun, not a fuel word. 'heshowa muralo' names gaseous material. In a predicate with 'nai' (be), 'heshowa' gives the subject's current phase.",
+  "examples": [
+    {
+      "phi": "soli heshowa mua womu nai.",
+      "translation": "Some gas is in the home."
+    },
+    {
+      "phi": "larewu muralo heshowa kelu.",
+      "translation": "The liquid material becomes gas."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "matter that spreads through the available volume under the conditions at hand"
+  }
+}
