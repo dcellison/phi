@@ -7,16 +7,26 @@
     "ni"
   ],
   "pos": "adjective",
-  "concept": "Intuitive / Knowing Directly / Understanding Without Reasoning",
-  "description": "Using or based on what one feels to be true without conscious reasoning. 'Thuni' names the quality of direct knowing—understanding that arrives whole, perception that bypasses analysis.",
-  "sound_symbolism": "The word knows directly. 'Thu' /θu/ begins with inner breath, knowing from within. Then 'ni' arrives with immediate certainty, understanding complete.",
-  "grammatical_notes": "Functions as an adjective: 'thuni miona' (intuitive person). Related to 'seloi' (insightful) but emphasizes the directness of knowing rather than depth of seeing.",
+  "search_terms": [
+    "instinctive",
+    "non-analytical",
+    "felt without explicit reasoning"
+  ],
+  "description": "An intuition may arrive before a person can give the steps behind it. 'thuni' describes a thought, judgement, or response that comes without a consciously followed chain of reasoning, perhaps from long practice, bodily recognition, or an immediate impression. It may still be accurate or mistaken; 'hiru' is the verb intuit, while 'seloi' (insightful) concerns the depth of what was perceived.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth and pass unvoiced air for 'th', then raise the back of the tongue for rounded high-back 'u'. Touch the tongue tip to the upper teeth for voiced dental 'n' and finish with unrounded high-front 'i'. Stress falls on 'thu'.",
+  "sound_symbolism": "Breath passes the teeth into the dark rounding of 'u', then the brief dental nasal turns towards clear 'i'. The short contour may recall an impression arriving whole before a longer account has been spoken.",
+  "usage_notes": "The quality-noun rule supplies intuition. Calling a judgement intuitive reports its route into awareness; it does not establish truth, evidence, expertise, or a right to act on another person.",
+  "examples": [
+    {
+      "phi": "ha remo thuni nai.",
+      "translation": "This thought is intuitive."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Intuitive wisdom arises from practice—the trained mind perceives directly what reasoning approaches slowly.",
-    "pre-industrial-wisdom": "Traditional knowledge included intuitive understanding—the feel for weather, soil, animals that comes from deep familiarity."
+    "pre-industrial-wisdom": "Repeated work with weather, soil, materials, or tools can produce recognition before a practitioner can explain every cue. 'thuni' names that route without making experience infallible."
   },
   "semantic_domains": {
-    "cognition": "Direct knowing",
-    "wisdom": "Non-analytical understanding"
+    "cognition": "a thought or response arising without consciously followed reasoning",
+    "wisdom": "immediate judgement that may draw on experience and still remains open to checking"
   }
 }

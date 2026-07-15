@@ -8,16 +8,29 @@
     "lo"
   ],
   "pos": "adjective",
-  "concept": "Curious / Eager to Learn / Drawn to Wonder",
-  "description": "Eager to know or learn; showing interest in exploring the unknown. 'Kuelo' names the quality of wonder-driven attention—the mind that delights in questions and seeks understanding.",
-  "sound_symbolism": "The word reaches toward mystery. 'Ku' begins with quiet focus, attention gathering. The vowel 'e' opens to the unknown, wonder awakening. Then 'lo' moves forward into exploration, curiosity in motion.",
-  "grammatical_notes": "Functions as an adjective: 'kuelo lopia' (curious child). Related to 'seloi' (insightful) but emphasizes the seeking rather than the finding.",
+  "search_terms": [
+    "inquisitive",
+    "eager to learn"
+  ],
+  "description": "Curiosity in Phi points towards what is not yet known. A 'kuelo' person, question, or manner is drawn towards learning, examination, or encounter. 'thilou' (inquire) names the act of asking, and 'waora' (wondrous) names a response to something that exceeds expectation; the English use of curious for strange belongs elsewhere.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for 'k' and release into rounded high-back 'u'. Keep true-mid front unrounded 'e' in a separate stressed syllable across the 'u.e' hiatus. Touch the tongue tip to the alveolar ridge for 'l', then finish with rounded true-mid back 'o'.",
+  "sound_symbolism": "The back closure of 'k' releases into 'u', then the mouth crosses an open hiatus towards the stressed front vowel. 'Lo' rounds the word to a gentle finish. Its widening middle resembles a question making room for an answer.",
+  "usage_notes": "Curiosity is interest, not intrusive entitlement. It grants no access to another person's private experience, records, or body.",
+  "examples": [
+    {
+      "phi": "lopia kuelo nai.",
+      "translation": "The child is curious."
+    },
+    {
+      "phi": "kuelo miona thilou.",
+      "translation": "A curious person inquires."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Curious minds discover solutions—the willingness to question assumptions enables innovation.",
-    "secular-buddhist-philosophy": "Curiosity opens the mind to investigation—the quality that asks 'what is this?' rather than assuming knowledge."
+    "solarpunk-values": "Curiosity supports shared experiment, practical learning, and the willingness to ask how a familiar system might work differently. It does not predetermine the answer."
   },
   "semantic_domains": {
-    "cognition": "Wonder-seeking",
-    "wisdom": "Openness to learning"
+    "cognition": "interest directed towards learning or examining what is not yet known",
+    "wisdom": "openness to inquiry without pretending that inquiry has already reached understanding"
   }
 }

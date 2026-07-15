@@ -7,16 +7,31 @@
     "wo"
   ],
   "pos": "adjective",
-  "concept": "True / Genuine / In Accordance with Reality",
-  "description": "In accordance with fact or reality; genuine and authentic. 'Shewo' covers factual accuracy and also the genuineness of being what one appears to be.",
-  "sound_symbolism": "The word speaks truth. 'She' /ʃe/ begins with soft certainty, honesty present. Then 'wo' rounds into wholeness, truth complete.",
-  "grammatical_notes": "Functions as an adjective: 'shewo phelui' (a true word). Related to 'noemi' (authentic) but emphasizes correspondence with reality rather than faithfulness to self. The noun is 'theloa' (truth).",
+  "search_terms": [
+    "factual",
+    "genuine",
+    "real"
+  ],
+  "description": "'shewo' has two established uses. A true claim or story accords with reality; a true thing is genuine rather than an imitation or pretence, the sense carried by a real stone or the Real rabbit in Phi's literary corpus. 'telua' (accurate) asks how well a representation matches its reference, while 'noemi' (authentic) concerns faithfulness to one's own nature or beliefs.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region and pass unvoiced air for 'sh', then use true-mid front unrounded 'e'. Round the lips and raise the back of the tongue for 'w', continuing into rounded true-mid back 'o'. Stress falls on 'she'.",
+  "sound_symbolism": "A hush-like opening narrows the airflow before the word rounds through 'w' into 'o'. The compact contour may recall a claim gathered carefully and set down whole.",
+  "usage_notes": "The adjective covers truth or genuineness, never general intensity or proof that a speaker is honest. Negated 'shewo ma nai' supplies false or not genuine when context makes the contrast clear.",
+  "examples": [
+    {
+      "phi": "ha nophi shewo nai.",
+      "translation": "This story is true."
+    },
+    {
+      "phi": "shia shewo tupiwa nai.",
+      "translation": "They are a real rabbit."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Truth (sacca) is foundational—right speech begins with speaking what is true.",
-    "peace-linguistics-practices": "True communication requires both factual accuracy and authentic intention—truth in content and manner."
+    "secular-buddhist-philosophy": "Right Speech gives truthfulness an ethical place while leaving knowledge, intention, kindness, and benefit as further questions.",
+    "peace-linguistics-practices": "A truth claim remains open to evidence and correction. 'shewo' assesses the claim rather than granting the speaker moral or social authority."
   },
   "semantic_domains": {
-    "cognition": "Truthfulness",
-    "wisdom": "Reality correspondence"
+    "cognition": "accord between a claim or account and reality",
+    "wisdom": "truth or genuineness kept separate from certainty and status"
   }
 }

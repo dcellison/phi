@@ -8,16 +8,32 @@
     "i"
   ],
   "pos": "adjective",
-  "concept": "Thoughtful / Considerate / Thinking of Others",
-  "description": "Showing careful consideration for others; thinking deeply before acting. 'Phenui' names the quality of considered attention—the mind that pauses to think of how actions affect others.",
-  "sound_symbolism": "The word considers carefully. 'Phe' /ɸe/ begins with gentle breath, consideration forming. Then 'nu' turns inward, thought deepening. Finally 'i' arrives at understanding, consideration complete.",
-  "grammatical_notes": "Functions as an adjective: 'phenui miona' (thoughtful person). Related to 'thesa' (careful) but emphasizes consideration of others rather than attention to detail.",
+  "search_terms": [
+    "considerate",
+    "reflective",
+    "deliberate"
+  ],
+  "description": "A thoughtful gift shows that someone considered its recipient. 'phenui' carries that quality into remarks, choices, arrangements, and people: careful thought includes another person's needs, circumstances, or likely experience. 'thesa' (careful) attends to detail and risk, 'thesua' (mindful) to the present act, and 'phue' (wise) to sound judgement more broadly.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then use true-mid front unrounded 'e'. Touch the tongue tip to the upper teeth for voiced dental 'n' and continue into stressed rounded high-back 'u'. Keep the final unrounded high-front 'i' separate across the 'u.i' hiatus.",
+  "sound_symbolism": "The opening bilabial breath gives way to the nasal hold of stressed 'nu'. From there, the mouth releases into a separate bright 'i'. The contour can suggest consideration gathered inward and carried back towards another person.",
+  "usage_notes": "Consideration must be visible in the act or arrangement. 'phenui' need not praise the outcome as wise or fitting, and a quiet manner alone does not earn it.",
+  "examples": [
+    {
+      "phi": "ha loami phenui nai.",
+      "translation": "This gift is thoughtful."
+    },
+    {
+      "phi": "shia phenui haolu.",
+      "translation": "They speak considerately."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Right speech requires thoughtfulness—considering whether words are true, kind, and timely before uttering them.",
-    "peace-linguistics-practices": "Thoughtful communication considers impact before speaking—words chosen with awareness of how they will be received."
+    "solarpunk-values": "Shared work becomes more humane when plans account for who has access, who carries the burden, and who will live with the result.",
+    "peace-linguistics-practices": "Thoughtful speech considers how wording, timing, and power may affect another person while leaving that person's own response for them to state."
   },
   "semantic_domains": {
-    "cognition": "Considered thinking",
-    "wisdom": "Care for others"
+    "cognition": "careful thought that includes another person's needs or circumstances",
+    "dialogue": "consideration made visible in speech or response",
+    "wisdom": "reflection on likely effects before action"
   }
 }

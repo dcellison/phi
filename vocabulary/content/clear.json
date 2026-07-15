@@ -7,16 +7,31 @@
     "wi"
   ],
   "pos": "adjective",
-  "concept": "Clear / Transparent / Without Obstruction",
-  "description": "Easy to perceive, understand, or see through; free from obstruction or confusion. 'Nuwi' names the quality of transparency—water one can see through, thoughts one can follow, communication without ambiguity.",
-  "sound_symbolism": "The word sees through cleanly. 'Nu' begins with nasal openness, nothing blocking. Then 'wi' passes through, vision unobstructed.",
-  "grammatical_notes": "An adjective: 'nuwi phialu' (clear water). Clarity, the noun, comes by the quality-noun rule; clearing or clarifying is caused becoming ('ka kelu'). Central to discussions of understanding, perception, and communication.",
+  "search_terms": [
+    "transparent",
+    "unobstructed",
+    "easy to follow",
+    "plainly expressed"
+  ],
+  "description": "Clear water lets sight pass without much obstruction; in Phi it is 'nuwi'. The same word fits a meaning, explanation, or situation whose relevant parts can be followed without a tangle. 'hiso' (clean) concerns unwanted material, 'keru' (bright) concerns light, and 'lilea' (clarify) names the work of making something clearer.",
+  "articulatory_notes": "Touch the tongue tip to the upper teeth for voiced dental 'n' and let the voice resonate through the nose into rounded high-back 'u'. Round the lips and raise the back of the tongue for the glide 'w', then move to unrounded high-front 'i'. Stress falls on 'nu'.",
+  "sound_symbolism": "The word begins in nasal resonance and rounded 'u', then sweeps through 'w' into the narrow brightness of 'i'. The quick change may feel like a view or thought coming into focus.",
+  "usage_notes": "The physical and cognitive uses share the idea of low obstruction. 'nuwi' does not guarantee truth, simplicity, or agreement: a clear explanation may be mistaken, and a complex argument may become clear once its relations are shown.",
+  "examples": [
+    {
+      "phi": "phialu nuwi nai.",
+      "translation": "The water is clear."
+    },
+    {
+      "phi": "ha reo nuwi nai.",
+      "translation": "This meaning is clear."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Clear mind is the goal of practice—perception undistorted by craving, aversion, or delusion.",
-    "peace-linguistics-practices": "Clear communication prevents misunderstanding—speaking so meaning passes through without distortion."
+    "peace-linguistics-practices": "Clear wording lets participants examine the same claim and ask for repair where the meaning remains obstructed. Clarity supports dialogue without making agreement compulsory."
   },
   "semantic_domains": {
-    "cognition": "Transparent quality",
-    "physical": "Without obstruction"
+    "cognition": "meaning or structure that can be followed without a tangle",
+    "physical": "low visual obstruction in water, air, or another material"
   }
 }

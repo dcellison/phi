@@ -8,16 +8,31 @@
     "a"
   ],
   "pos": "adjective",
-  "concept": "Mindful / Attentive Presence",
-  "description": "The active practice of maintaining moment-to-moment awareness of thoughts, feelings, bodily sensations, and the surrounding environment with gentle, non-judgmental attention.",
-  "sound_symbolism": "The contemplative 'the' invites the slow breath of attention - mindfulness begins with pausing. This pause meets 'su', the simple being of what is, neither grasping nor pushing away. The open 'a' completes the practice, creating space for experience without judgment. Three syllables trace mindfulness itself: deliberate attention, simple being, spacious awareness. The word teaches its meaning through sound - slow beginning, centered middle, open ending.",
-  "grammatical_notes": "An adjective, similar to Pali sati and Sanskrit smṛti. As predicate: 'mia thesua nai.' (I am mindful.) Mindfulness itself — the state or practice — comes by the quality-noun rule.",
+  "search_terms": [
+    "attentive",
+    "present",
+    "deliberately aware"
+  ],
+  "description": "With 'thesua', attention is deliberately present to current experience and action. Sensation, thought, speech, and response can all receive it before judgement takes over. Mindfulness prescribes no speaking speed and proves nothing by itself about kindness, truth, or fit; 'selua' (aware) is broader and may be unchosen, while 'theonu' (attend) names the act of directing focus.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth and let unvoiced air pass for 'th', then use true-mid front unrounded 'e'. Hold the tongue close to the alveolar ridge for 's' and continue into rounded high-back 'u' in the stressed syllable. Keep the final open unrounded 'a' separate across the 'u.a' hiatus.",
+  "sound_symbolism": "The word begins in unvoiced dental breath, steadies through the hiss of stressed 'su', and then asks the mouth to cross a full hiatus into open 'a'. That audible boundary offers a small occasion to notice breath and articulation while the word is being spoken.",
+  "usage_notes": "The adjective may stand before a noun, with 'nai' (be), or as a manner before an action. Its quality noun is mindfulness. A fluent speaker may act mindfully at any pace that preserves attention and intelligibility.",
+  "examples": [
+    {
+      "phi": "mia thesua nai.",
+      "translation": "I am mindful."
+    },
+    {
+      "phi": "shia thesua haolu.",
+      "translation": "They speak mindfully."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Mindfulness as the practice of present-moment awareness without judgment is foundational to understanding the nature of experience. This isn't about emptying the mind but clearly seeing what arises - thoughts, sensations, emotions - without being swept away. Through mindful observation, we discover the impermanent nature of all phenomena and find peace within change.",
-    "peace-linguistics-practices": "Mindful communication requires full presence with our words and their impact, pausing before speaking to consider whether our words will help or harm. This practice prevents reactive speech that escalates conflict, creating space for responses that build understanding. Mindfulness in dialogue means attending not just to what we say but how we say it."
+    "secular-buddhist-philosophy": "Mindfulness returns attention to present experience, including speech while it is still happening. It is a practice of noticing, not a claim to purity or permanent calm.",
+    "peace-linguistics-practices": "Mindful speech makes room to notice intention, evidence, relationship, and likely effect before an utterance is treated as finished."
   },
   "semantic_domains": {
-    "cognition": "involves mental awareness and focused attention",
-    "wisdom": "requires non-judgmental understanding and clear seeing"
+    "cognition": "deliberate attention to present experience or action",
+    "wisdom": "a practice of noticing before judgement and response"
   }
 }

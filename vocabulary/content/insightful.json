@@ -8,16 +8,25 @@
     "i"
   ],
   "pos": "adjective",
-  "concept": "Insightful / Seeing Deeply / Perceiving Truth",
-  "description": "Having or showing an accurate and deep understanding; perceiving the inner nature of things. 'Seloi' names the quality of penetrating vision—seeing past surface to structure, understanding what lies beneath.",
-  "sound_symbolism": "The word sees through. 'Se' begins with sensing attention, perception reaching. Then 'lo' goes deep, penetrating below surface. Finally 'i' pierces to the core, insight complete.",
-  "grammatical_notes": "Functions as an adjective: 'seloi wheo' (insightful elder). Related to 'thuni' (intuitive) but emphasizes depth of seeing rather than directness of knowing.",
+  "search_terms": [
+    "perceptive",
+    "discerning"
+  ],
+  "description": "'seloi' fits a question, observation, interpretation, or person that reveals a relation or significance easy to miss at the surface. Such insight may deepen understanding and still be wrong. 'sorai' is the noun insight, 'thuni' (intuitive) concerns how an impression arrives, and 'phue' (wise) is the wider quality of sound judgement.",
+  "articulatory_notes": "Hold the tongue close to the alveolar ridge for unvoiced 's' and pass air into true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for 'l', then use rounded true-mid back 'o' in the stressed syllable. Keep the final unrounded high-front 'i' separate across the 'o.i' hiatus.",
+  "sound_symbolism": "The word moves from a fine hiss into the liquid, rounded centre of 'lo', then leaves that vowel for a separate, bright 'i'. That last small opening may resemble a detail coming into view after the larger shape has been held.",
+  "usage_notes": "Depth and usefulness are the point here, not proof. Evidence and accuracy remain separate questions.",
+  "examples": [
+    {
+      "phi": "ha thilou seloi nai.",
+      "translation": "This question is insightful."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Insight (vipassana) sees things as they are—penetrating the three marks of impermanence, unsatisfactoriness, and non-self.",
-    "peace-linguistics-practices": "Insightful listening perceives what's beneath words—the feelings, needs, and meanings that speech often obscures."
+    "secular-buddhist-philosophy": "Insight attends to conditions and relations beneath a first appearance. The word leaves room to test that perception rather than treating insight as revelation."
   },
   "semantic_domains": {
-    "cognition": "Deep perception",
-    "wisdom": "Penetrating understanding"
+    "cognition": "perception of a relation or significance that is not immediately apparent",
+    "wisdom": "depth of understanding kept distinct from certainty or authority"
   }
 }

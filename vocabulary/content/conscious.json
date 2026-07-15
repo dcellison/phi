@@ -8,16 +8,26 @@
     "li"
   ],
   "pos": "adjective",
-  "concept": "Conscious / Aware / Awakened State",
-  "description": "The state of being aware; having subjective experience of self and world. 'Waeli' names what wakes—the difference between sleeping and knowing.",
-  "sound_symbolism": "The word wakes gently. 'Wa' opens with wondering awareness, attention stirring. 'E' eases into present clarity. Then 'li' lifts with light recognition, consciousness bright.",
-  "grammatical_notes": "Functions as an adjective: 'waeli miona' (conscious person). Consciousness itself, the noun, comes by the quality-noun rule. Related to 'selua' (aware) but deeper—full sentient experience rather than awareness of a particular thing.",
+  "search_terms": [
+    "awake",
+    "sentient",
+    "experiencing"
+  ],
+  "description": "'waeli' names the presence of subjective experience, especially in contrast with sleep or unconsciousness. That state is broader than noticing one fact: 'selua' gives directed awareness, while 'thesua' gives deliberate mindful attention. Calling another being conscious remains an assessment from available signs; their experience is not directly ours to inspect.",
+  "articulatory_notes": "Begin with rounded lips and a raised back tongue for 'w', then open into unrounded 'a'. Keep the following true-mid front unrounded 'e' in its own stressed syllable across the 'a.e' hiatus. Touch the tongue tip to the alveolar ridge for 'l' and finish with unrounded high-front 'i'.",
+  "sound_symbolism": "Rounded 'w' opens into broad 'a', and the full 'a.e' hiatus gives the middle of the word unusual space. The final 'li' lifts lightly. The contour can recall waking as experience gathers and becomes present.",
+  "usage_notes": "The quality-noun rule supplies consciousness. Here 'waeli' stays with experience or wakefulness; careful, ethical, and mindful conduct require their own words.",
+  "examples": [
+    {
+      "phi": "shia waeli nai.",
+      "translation": "They are conscious."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Conscious choice—the aware decision-making that creates positive futures.",
-    "secular-buddhist-philosophy": "Consciousness as foundation—awareness being the ground of all experience, to be investigated."
+    "secular-buddhist-philosophy": "Conscious experience is the field in which sensation, thought, and attention arise. Naming that field does not make every conscious act mindful."
   },
   "semantic_domains": {
-    "cognition": "Awareness state",
-    "wisdom": "Awakened quality"
+    "cognition": "the presence of subjective experience or wakefulness",
+    "wisdom": "the experiential field that can be noticed without being treated as a fixed self"
   }
 }

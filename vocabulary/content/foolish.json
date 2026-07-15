@@ -8,15 +8,30 @@
     "mo"
   ],
   "pos": "adjective",
-  "concept": "Foolish / Acting Without Pause / Sense Left Behind",
-  "description": "Acting or speaking without the pause proper thought needs: a hasty word, a plan not looked at twice, a step taken before the ground was checked. The natural opposite of phue (wise), built with a deliberately different sound rather than a negation of it, since a language of mindful speech needs its own word for the thing mindfulness is not, not just 'not-wise'.",
-  "sound_symbolism": "'Ta' opens on a stop, a decision cut short before it was finished. 'Wi' is quick and closed, the haste itself. 'Mo' trails open, the consequence left hanging where a pause would have caught it.",
-  "grammatical_notes": "Functions as an adjective: 'tawimo helui' (a foolish change). Predicative with 'nai': 'mia tawimo nai' (I was foolish). The quality noun, foolishness, comes by rule: 'mia tawimo phaelo' (I feel my own foolishness).",
+  "search_terms": [
+    "unwise",
+    "ill-judged",
+    "imprudent"
+  ],
+  "description": "Call a choice, action, or remark 'tawimo' when it went ahead without the attention or judgement its consequences called for. In a particular moment the word can describe a person too, especially in self-appraisal, but it names no permanent kind of person. 'phelira' (mistaken) concerns error; 'phue' (wise) concerns sound judgement grounded in understanding and experience.",
+  "articulatory_notes": "Place the tongue tip against the upper teeth for unvoiced dental 't' and release into unrounded open 'a'. Round the lips for 'w' and move into unrounded high-front 'i' in the stressed middle syllable. Close the lips for voiced 'm', then finish with rounded true-mid back 'o'.",
+  "sound_symbolism": "The dental stop gives way to the quick, bright movement of stressed 'wi', before the lips close again for 'm' and round into the final vowel. The compact turn can recall an act completed before a needed pause arrived.",
+  "usage_notes": "Prefer 'tawimo' for an identifiable decision, statement, or lapse. When it describes a person, keep the relevant act and time visible; the word is unsuitable as a contemptuous label for someone's worth or ability.",
+  "examples": [
+    {
+      "phi": "ha kanu tawimo nai.",
+      "translation": "This choice is foolish."
+    },
+    {
+      "phi": "mia tawimo to nai.",
+      "translation": "I was foolish."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Mindfulness is defined as much by what it is not as by what it is; a word for hasty, unconsidered action sharpens the word for its opposite by real contrast.",
-    "peace-linguistics-practices": "Naming one's own haste plainly, rather than reaching for a vague 'bad', is honest self-correction, which mindful communication depends on."
+    "secular-buddhist-philosophy": "Mindful reflection notices when haste, attachment, or inattention shaped an act. 'tawimo' can name that lapse without turning it into an unchanging identity.",
+    "peace-linguistics-practices": "Criticism stays less violent when it identifies the ill-judged act and its effects instead of declaring that a person belongs to an inferior class."
   },
   "semantic_domains": {
-    "cognition": "The pause thought needed and did not get"
+    "cognition": "an act or choice made without enough attention or sound judgement"
   }
 }
