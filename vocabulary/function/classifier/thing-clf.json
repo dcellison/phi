@@ -7,14 +7,23 @@
     "mo"
   ],
   "pos": "classifier",
-  "concept": "Thing Classifier / Detached or Crafted Object Category",
-  "description": "The optional classifier for detached and crafted physical objects: a stone, fallen branch, book, tool, building, or vessel. It does not serve as a universal classifier for water, rivers, clouds, places, or all physical matter. 'Themo' distinguishes its object category from living beings ('lipha') and abstractions or events ('nophe').",
-  "sound_symbolism": "The word begins with fricative 'the', which can suggest attention settling on a boundary, and moves into grounded nasal, rounded 'mo', which can suggest a bounded physical object. The image is mnemonic rather than a claim that articulation creates conscious engagement with matter.",
-  "grammatical_notes": "Functions as an optional classifier between a numeral and a detached or crafted object noun. Examples: 'ta themo shelu' (one book) and 'wi shao themo wiru' (six baskets). 'Wia' may also precede it in a quantity question. Ordinary quantifiers modify the noun directly and do not take a classifier. A living part uses 'lipha' while attached to a living being and may use 'themo' once detached or crafted. Never use 'themo' for a living being or abstract event. A numeral or quantifier already marks quantity, so the phrase never also takes plural 'lo'.",
-  "pillars": {
-    "solarpunk-values": "Choosing 'themo' can foreground a crafted or detached object's material status. Repair, reuse, provenance, and sustainable treatment still require their own claims and practices.",
-    "secular-buddhist-philosophy": "An explicit object category can support attention to the physical things in use. The classifier does not make attention mindful or determine whether a river, substance, or living body should be analyzed as an object.",
-    "art-nouveau-aesthetics": "Natural materials and crafted objects both participate in Art Nouveau design, but 'themo' classifies bounded detached or crafted things rather than unifying the whole material world.",
-    "pre-industrial-wisdom": "Craft traditions attend closely to materials and tools. 'Themo' can mark the resulting object category without attributing one material ontology to traditional cultures."
-  }
+  "search_terms": [
+    "object classifier",
+    "crafted object classifier",
+    "detached object classifier"
+  ],
+  "description": "Optional 'themo' classifies bounded physical objects that are detached or crafted. A book or a fallen branch can take it. Water and clouds are physical, but they are neither detached nor crafted objects. Under the nature-now rule, an attached living branch takes 'lipha' (LIFE.CLF) and the same branch on the woodpile takes 'themo'.",
+  "articulatory_notes": "'th' starts with the tip resting lightly between the upper and lower teeth. Carry the breath straight into unrounded 'e' by drawing the tongue inward and holding the jaw half open. Seal the lips and voice nasal 'm', then reopen them with rounding for 'o'. Accent 'the'.",
+  "sound_symbolism": "The word begins in narrow interdental airflow; the lips then close for 'm' and round into 'o'. That turn from open breath to firm contact offers a tactile echo of loose material becoming a bounded thing.",
+  "usage_notes": "In a numeral phrase, optional 'themo' comes after the full number expression. A quantity question may put 'wia' in that position. Quantifiers take the noun without a classifier, and neither pattern adds 'lo' (PL).",
+  "examples": [
+    {
+      "phi": "mia ta shao themo shelu phelu.",
+      "translation": "I have three books."
+    },
+    {
+      "phi": "thia wia themo noru phelu.",
+      "translation": "How many bowls do you have?"
+    }
+  ]
 }

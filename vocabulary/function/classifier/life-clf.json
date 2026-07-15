@@ -7,13 +7,26 @@
     "pha"
   ],
   "pos": "classifier",
-  "concept": "Living Classifier / Non-Human Life Category",
-  "description": "The optional classifier for non-human living beings, living parts of living beings, and forms canonically treated as life in waiting. Animals, plants, fungi, a living ear, a seed, and an egg can take 'lipha'; people take 'himo'. The classifier states a category without proving the referent's biological status or preventing it from being treated as inventory.",
-  "sound_symbolism": "The word opens with liquid 'li', which can evoke sap or blood in motion, and moves into breathy 'pha', which can evoke respiration and exchange. These are mnemonic images of living processes, not a claim that all life shares one visible force or sound.",
-  "grammatical_notes": "Functions as an optional classifier between a numeral and a non-human living noun. Examples: 'wi lipha shiro' (two trees) and 'wi lipha nolika' (two animals). 'Wia' may also precede it in a quantity question: 'wia lipha shiro' (how many trees?). Ordinary quantifiers modify the noun directly and do not take a classifier. Living parts of living beings also take 'lipha'; detached or crafted objects take 'themo'. Never use it with a human noun, which takes optional 'himo'. A numeral or quantifier already marks quantity, so the phrase never also takes plural 'lo'.",
+  "search_terms": [
+    "living thing classifier",
+    "animal classifier",
+    "plant classifier"
+  ],
+  "description": "The optional classifier 'lipha' places non-human living beings and their living parts in the life category. Seeds and eggs also belong here as life in waiting. People use 'himo' (HUM.CLF); a part removed from a body or made into an object may instead take 'themo' (THING.CLF) as its present nature changes.",
+  "articulatory_notes": "For 'li', place the tip against the upper tooth ridge while voice escapes along its sides, then rise into unrounded high 'i'. Form 'ph' with nearly closed lips alone; the teeth stay clear as breath rubs between them. Open fully onto the vowel 'a', and accent 'li'.",
+  "sound_symbolism": "The tongue releases from lateral 'l' into high 'i', then 'pha' becomes audible breath before opening to 'a'. That move from liquid contact to breath can recall the ordinary motions of a living body.",
+  "usage_notes": "'lipha' may follow a numeral or 'wia'; the noun comes next. Both 'wi shiro' and 'wi lipha shiro' are complete. Quantifiers attach directly to their nouns, while plural 'lo' is absent once quantity has been marked.",
+  "examples": [
+    {
+      "phi": "wi lipha shiro ha nai.",
+      "translation": "Two trees are here."
+    },
+    {
+      "phi": "thia wia lipha powea nila.",
+      "translation": "How many eggs do you see?"
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Choosing 'lipha' can keep living status explicit in discussion of organisms and ecological relations. Regenerative treatment requires action and evidence; the classifier does not supply either.",
-    "secular-buddhist-philosophy": "The life category can support attention to non-harm and interdependence. It does not make a speaker compassionate or settle which forms of life are sentient.",
-    "pre-industrial-wisdom": "Communities hold diverse, specific accounts of non-human life, animacy, and agency. 'Lipha' is Phi's broad category and should not be presented as a summary of Indigenous or traditional worldviews."
+    "solarpunk-values": "During a habitat or care discussion, 'lipha' lets a count foreground that the trees are living. The category is available when it matters and optional when it does not."
   }
 }

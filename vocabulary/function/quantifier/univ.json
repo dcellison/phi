@@ -8,13 +8,24 @@
     "la"
   ],
   "pos": "quantifier",
-  "concept": "All / Every / The Totality",
-  "description": "The universal quantifier: every member of a set, none left out. 'Theula' refers to all of a known or contextually established set rather than an abstract 'everything'. It never combines with the plural particle 'lo' or with classifiers.",
-  "sound_symbolism": "The word opens with 'the', where the soft dental fricative 'θ' breathes across the tongue like a gentle wind touching every surface, missing nothing. The mid vowel 'e' establishes presence before opening into 'u', the rounded vowel of encompassing embrace. Finally, 'la' flows outward with liquid 'l', suggesting the gathering that includes rather than excludes. Together, 'theula' creates the sound of completion—breath touching all, then gathering into wholeness.",
-  "grammatical_notes": "Functions as a quantifier preceding nouns: 'theula miona' (all people), 'theula philo' (all days). Following modifier-first principle, appears before what it quantifies. Never combines with the plural particle 'lo'—the quantifier itself implies plurality: 'theula melu' (all friends). Unlike numerals, does not combine with classifiers—totality transcends categorization. Implies definite reference: 'theula' refers to all of a known or contextually established set.",
-  "pillars": {
-    "solarpunk-values": "Regenerative thinking requires whole-systems awareness. 'Theula' supports the solarpunk recognition that solutions must work for all, not just some—that true sustainability includes every element of the system.",
-    "secular-buddhist-philosophy": "The concept of totality without exception reflects the Buddhist understanding of interconnection—when we say 'all beings,' we truly mean all, without the mental habit of excluding those we find difficult. 'Theula' practices inclusive awareness.",
-    "peace-linguistics-practices": "By providing a word for genuine totality, Phi enables speakers to make truly universal statements about peace, dignity, and care. 'Theula miona shea na phaelo' (all people must feel peace) leaves no one outside the circle of concern."
-  }
+  "search_terms": [
+    "all",
+    "every",
+    "everyone",
+    "everything"
+  ],
+  "description": "Every member of a relevant set falls under 'theula': all people, every day, the whole amount. Context may supply the set when it is not named. 'theli' (EACH) distributes a claim member by member; 'theula' presents the total scope together.",
+  "articulatory_notes": "Begin with voiceless dental 'th', the tongue slightly exposed and air continuous, then withdraw into front 'e' at half-open height with unrounded lips. Preserve the hiatus before rounded high-back 'u', which carries stress. For 'la', make lateral contact at the alveolar ridge and finish with open central 'a'.",
+  "sound_symbolism": "Because the opening is shared with 'theli' (EACH), the universal pair are easy to hear as kin. The hiatus gives 'theula' a broader span before 'la' opens outward, a contour that can suggest the set taken together.",
+  "usage_notes": "A noun quantified by 'theula' carries no second quantity form. The quantifier may stand alone when the domain is understood, as in 'theula kelu', everything becomes. With 'thimu' (time), 'theula thimu' gives the canonical always.",
+  "examples": [
+    {
+      "phi": "theula miona ha nai.",
+      "translation": "Everyone is here."
+    },
+    {
+      "phi": "theula kelu.",
+      "translation": "Everything becomes."
+    }
+  ]
 }

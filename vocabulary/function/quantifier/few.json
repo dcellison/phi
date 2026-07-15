@@ -7,12 +7,23 @@
     "na"
   ],
   "pos": "quantifier",
-  "concept": "Few / A Small Number / Sparse",
-  "description": "The quantifier marking a contextually small indefinite quantity. It has no fixed numerical boundary and does not imply that the amount is inadequate. It contrasts with 'sheloi' (many), while 'soli' (some) leaves relative size unstated.",
-  "sound_symbolism": "The gentle bilabial breath 'phi' barely stirs the air — a quantity almost too small to disturb anything. The grounding 'na' settles it into fact. A small number, softly stated and firmly present.",
-  "grammatical_notes": "Precedes what it quantifies, per the modifier-first principle: 'phina melu' (few friends), 'phina philo' (a few days). Like all ordinary quantifiers, it never combines with plural 'lo' or a classifier. Classifiers belong to numeral phrases and 'wia' questions.",
-  "pillars": {
-    "secular-buddhist-philosophy": "A contextually small quantity is not necessarily an inadequate one. 'Phina' leaves adequacy to a separate judgment and may support reflection on contentment without producing it.",
-    "peace-linguistics-practices": "'Phina' can state that a quantity is contextually small without adding alarm or shame. Because the boundary is contextual, the claim can still be disputed or used misleadingly."
-  }
+  "search_terms": [
+    "a few",
+    "small number",
+    "small amount"
+  ],
+  "description": "A 'phina' quantity is small relative to its context. 'sheloi' (MANY) marks the other end of that scale, while 'soli' (SOME) leaves relative size unstated. Smallness alone says nothing about sufficiency, which is judged with 'henoi' (ENOUGH).",
+  "articulatory_notes": "'ph' uses friction from unvoiced air at narrowly parted lips; opening them wider carries the sound up to high 'i'. Dental 'n' follows with contact against upper incisors and nasal voice. Lower into central 'a' by opening the jaw. Accent 'phi'.",
+  "sound_symbolism": "The faint friction of 'ph' narrows toward the high front vowel 'i'; nasal contact then settles on open 'a'. The quick, lightly held first syllable offers a mnemonic for a small but present amount.",
+  "usage_notes": "'phina' modifies its noun directly, without an added number or classifier. With 'shemu' (moment), the phrase 'phina shemu' is the regular Phi expression for rarely.",
+  "examples": [
+    {
+      "phi": "phina miona ha nai.",
+      "translation": "Few people are here."
+    },
+    {
+      "phi": "mia phina shemu thalo.",
+      "translation": "I rarely walk."
+    }
+  ]
 }
