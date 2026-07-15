@@ -375,9 +375,23 @@ A listener can recover the phrase, but it calls the villages far before the comp
 
 ### Decision
 
-The three missing nouns each remove a judgement that the adjective system rightly keeps. Size names overall scale without calling it large or small. Length names end-to-end spatial extent without calling it long or short. Distance names separation between referents without calling them near or far.
+The adjective system rightly keeps each judgement. `ponalu` gives the overall scale itself; `whalo` and `thiku` say where it sits. `waleru` does the same for the long-short axis, and `hirawo` for near-far separation.
 
-Phi should add one base noun for each distinction and coin them together, so their boundaries can be tested against one another. Height, width, and depth keep their present meanings.
+```
+ha wi themo molupa ponalu kolo nai.
+PROX two THING.CLF box size equal be.
+(These two boxes are equal in size.)
+
+wi wetha lonai kolo nai. wi wetha waleru ma kolo nai.
+two cloth width equal be. two cloth length NEG equal be.
+(The two pieces of cloth have equal width but different lengths.)
+
+shia thei wi silawo hirawo masue.
+3SG BETWEEN two village distance measure.
+(They measure the distance between the two villages.)
+```
+
+Height, width, and depth keep their present meanings.
 
 The new length noun should stop at space. `mosha` already gives Phi a neutral period or duration, so copying every English use of "length" would create overlap rather than coverage. Distance likewise remains distinct from the length of a chosen route and from the time or effort required to travel it.
 
@@ -385,4 +399,6 @@ These nouns do not reopen Phi's unit system. They let a speaker discuss a magnit
 
 All three belong in base vocabulary. The need begins at a shelf or worktable and reaches ordinary route planning before any specialist analysis begins. Relevant modules can index the same nouns for their own uses without making them optional study.
 
-No general base noun for dimension is recommended. `mirela` (state) and `masue` (measure) can frame analysis at a broader level, while the specific noun tells the listener what is at issue. If the recommendation is accepted, size, length, and distance should enter in one coordinated coinage pass.
+No general base noun for dimension is needed. `mirela` (state) and `masue` (measure) can frame analysis at a broader level, while the specific noun tells the listener what is at issue.
+
+Each form is phonologically legal and free of edit-distance-one neighbours; the phonetic audit flags no existing entry at its review threshold. They also feel different in the mouth. `ponalu` moves from a lip closure through dental contact to a lateral. `waleru` stays voiced while the lips and tongue change position. `hirawo` begins in open breath and crosses the vowel space.

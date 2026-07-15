@@ -1,0 +1,32 @@
+{
+  "word": "waleru",
+  "gloss": "length",
+  "ipa": "/wä.ˈle̞.ru/",
+  "syllables": [
+    "wa",
+    "le",
+    "ru"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "spatial length",
+    "end-to-end extent"
+  ],
+  "description": "Lay a cord along a workbench: its 'waleru' is its end-to-end spatial extent along the course being compared. Cloth and boards have one too; so does a path that wanders. 'laeno' and 'teku' judge the extent, while 'mosha' (period) names bounded duration.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then open into central 'a'. Touch the tongue tip to the alveolar ridge for 'l', pass the voice around its sides, and release into stressed true-mid front 'e'. Make a tap or short trill at the alveolar ridge for 'r' and finish with rounded high-back 'u'.",
+  "sound_symbolism": "Nothing interrupts the voice as the lips and tongue change position. The sound can be followed from first syllable to last, a simple memory aid for end-to-end extent.",
+  "usage_notes": "For a curved object or route, 'waleru' follows the course being compared. Where several courses are possible, the comparison follows the one the speaker has made clear. Duration belongs to 'mosha' (period), and an exact value keeps its source notation beside the Phi account.",
+  "examples": [
+    {
+      "phi": "wi wetha lonai kolo nai. wi wetha waleru ma kolo nai.",
+      "translation": "The two pieces of cloth have equal width but different lengths."
+    },
+    {
+      "phi": "mia nira waleru masue.",
+      "translation": "I measure the cord's length."
+    }
+  ],
+  "semantic_domains": {
+    "spatial": "end-to-end extent along an object, path, or chosen course"
+  }
+}

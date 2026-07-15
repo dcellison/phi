@@ -299,7 +299,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (505)
+## noun (508)
 
 | Word | Gloss |
 |---|---|
@@ -315,6 +315,7 @@
 | `heru` | herb |
 | `heshowa` | gas |
 | `hesura` | ash |
+| `hirawo` | distance |
 | `hisae` | skin |
 | `hisaro` | clinical finding |
 | `hisophi` | contaminant |
@@ -609,6 +610,7 @@
 | `piloe` | spot |
 | `pilomu` | sycamore |
 | `piru` | trader |
+| `ponalu` | size |
 | `ponu` | door |
 | `porewi` | side effect |
 | `porua` | purpose |
@@ -770,6 +772,7 @@
 | `tupiwa` | rabbit |
 | `turelo` | feedback |
 | `waero` | sky |
+| `waleru` | length |
 | `wapile` | wing |
 | `welamu` | elm |
 | `welisha` | color |

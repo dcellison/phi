@@ -1,0 +1,33 @@
+{
+  "word": "ponalu",
+  "gloss": "size",
+  "ipa": "/po̞.ˈn̪ä.lu/",
+  "syllables": [
+    "po",
+    "na",
+    "lu"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "overall size",
+    "physical scale"
+  ],
+  "description": "Two boxes may differ in shape and material yet take up much the same room. Their 'ponalu' is their overall physical size, considered as a whole rather than along one chosen dimension. 'whalo' and 'thiku' judge that size as large or small; 'henora' (capacity) concerns what something can hold.",
+  "articulatory_notes": "Close the lips for voiceless 'p' and release into rounded true-mid back 'o'. Place the tongue tip against the back of the upper teeth for dental 'n'. Keep the voice and nasal airflow going as the mouth opens into stressed central 'a'. Move the tongue tip to the alveolar ridge for 'l', pass the air around its sides, and finish with rounded high-back 'u'.",
+  "sound_symbolism": "The mouth begins rounded, opens fully for stressed 'a', then rounds once more. The contour expands and gathers, a physical echo of seeing an object's outline as a whole.",
+  "usage_notes": "'ponalu' names overall physical size without supplying a value or unit. When one dimension matters separately, 'raeli' (height), 'lonai' (width), 'nusho' (depth), or 'waleru' (length) names it. A source record carries any exact value or unit that must keep its form.",
+  "examples": [
+    {
+      "phi": "ha wi themo molupa ponalu kolo nai.",
+      "translation": "These two boxes are equal in size."
+    },
+    {
+      "phi": "molupa ponalu helui.",
+      "translation": "The box's size changes."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "the overall extent of a physical thing",
+    "spatial": "scale considered across a thing's dimensions as a whole"
+  }
+}

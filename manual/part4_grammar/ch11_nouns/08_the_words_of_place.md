@@ -93,7 +93,7 @@ dog AWAY fire walk.
 (The dog walks away from the fire.)
 ```
 
-## Near, far, and the missing ruler
+## Near, far, and the natural ruler
 
 *pai* (near) and *woe* (far) complete the set, and they carry no numbers:
 
@@ -109,7 +109,23 @@ mountain FAR village be.
 (The mountain is far from the village.)
 ```
 
-How near is near? Phi will not say, because Phi has no meter, no mile, no kilogram, no liter, and never will. This is the clock refusal from chapter 14 extended to the ruler and the scale, and the reasoning is the same: a unit no body can feel exists so that things can be priced, ranked, and raced. What the language offers instead is honest gauging. *masue* (measure) means comparing against a shared standard, not counting units:
+Near and far are judgements. When you need the separation before making either judgement, use *hirawo* (distance):
+
+```
+shia thei wi silawo hirawo masue.
+3SG BETWEEN two village distance measure.
+(They measure the distance between the two villages.)
+```
+
+A road is under no obligation to be straight. Its *waleru* (length) may grow when a bridge closes while the villages' *hirawo* stays put. *ponalu* (size) names a thing's overall physical scale before anyone calls it large or small:
+
+```
+ha wi themo molupa ponalu kolo nai.
+PROX two THING.CLF box size equal be.
+(These two boxes are equal in size.)
+```
+
+None of these words contains a metre, mile, kilogram, or litre. Phi extends the clock refusal from chapter 14 to the ruler and the scale. It offers honest gauging instead. *masue* (measure) means comparing against a shared standard, not counting units:
 
 ```
 shia sheo pelio wetha masue.
@@ -125,7 +141,7 @@ mountain THAN tree CMPR tall be.
 (The mountain is taller than the tree.)
 ```
 
-Journey-scale distance is counted time of travel, one noun phrase describing another:
+Travel time can still describe the scale of a journey, one noun phrase describing another:
 
 ```
 ruela wi philo thalo nai.
@@ -133,6 +149,15 @@ path two day walk be.
 (The path is a two-day walk.)
 ```
 
-And when you need to talk about a dimension itself, the nouns exist without units: *raeli* (height), *lonai* (width), *nusho* (depth), each with its adjective (*raelu* tall, *losha* wide, *nulo* deep).
+The neutral noun says what is being gauged. The adjectives make the judgement.
 
-A language that will not slice the day into minutes will not slice the road into meters. The arm, the day's walk, and the sky do the measuring, and you are never without them.
+| Neutral noun | What it isolates | Judging words |
+|---|---|---|
+| *ponalu* (size) | overall physical scale | *whalo* large, *thiku* small |
+| *waleru* (length) | end-to-end spatial extent | *laeno* long, *teku* short |
+| *hirawo* (distance) | spatial separation | *noshi* near, *wuero* far |
+| *raeli* (height) | vertical extent | *raelu* tall, *mulu* low |
+| *lonai* (width) | side-to-side extent | *losha* wide, *hieru* narrow |
+| *nusho* (depth) | extent below a surface or into a thing | *nulo* deep, *saphei* shallow |
+
+A language that will not slice the day into minutes will not slice the road into metres. The arm, the day's walk, and the sky remain close at hand. When repair, health, science, testimony, or shared work needs an exact value, its source record stands beside the Phi sentence that identifies and discusses it.

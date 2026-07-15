@@ -1444,7 +1444,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (344)
+## physical (345)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1650,6 +1650,7 @@
 | `pilomu` | sycamore | Tall broad-leaved shade tree |
 | `pilu` | take | taking objects with one's hands |
 | `pisha` | split | Parting in two |
+| `ponalu` | size | the overall extent of a physical thing |
 | `porewi` | side effect | a bodily effect beyond an intervention's stated target |
 | `poru` | productive | Generating output |
 | `pothu` | stink | The smell the nose refuses |
@@ -1837,13 +1838,14 @@
 | `whola` | invite | involves ceremonial protocols and formal gestures of welcome |
 | `whunei` | breathe | Central to meditation practice |
 
-## spatial (151)
+## spatial (154)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `hekawi` | find | Coming upon what was elsewhere |
 | `hieru` | narrow | limited span from one side to the other |
 | `hinawu` | accommodate | altering an environment or route for access |
+| `hirawo` | distance | separation between places, objects, or other spatial referents |
 | `kalei` | climb | From low to high |
 | `kamo` | arrive | Reaching destination |
 | `keiro` | way | Route or method |
@@ -1923,6 +1925,7 @@
 | `phewani` | neighbor | defined by proximity and shared physical space |
 | `phirae` | different | the relationship of non-equivalence |
 | `pholeni` | depart | Leaving a place |
+| `ponalu` | size | scale considered across a thing's dimensions as a whole |
 | `ponu` | door | Entry barrier |
 | `raeli` | height | Upward extent |
 | `raelu` | tall | a high vertical position or extent relative to a reference level |
@@ -1975,6 +1978,7 @@
 | `tupi` | jump | Across and over |
 | `turema` | return | Coming back to origin |
 | `waero` | sky | The great above |
+| `waleru` | length | end-to-end extent along an object, path, or chosen course |
 | `wapho` | throw | Sending across a gap |
 | `wapi` | fly | Travel through air |
 | `wema` | belong | grounded in place with deep connection to home |
