@@ -1,0 +1,31 @@
+{
+  "word": "pukeri",
+  "gloss": "damage",
+  "ipa": "/pu.ˈke̞.ri/",
+  "syllables": [
+    "pu",
+    "ke",
+    "ri"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "be damaged",
+    "sustain damage"
+  ],
+  "description": "To undergo an adverse change that leaves condition or function worse than before. A cracked handle or a flooded garden can each 'pukeri' while remaining recognizably itself. A damaged thing may remain whole; 'pukate' (break) names the more complete loss of wholeness.",
+  "articulatory_notes": "Close the lips for 'p' and release into rounded high-back 'u'. Press the back of the tongue against the soft palate for 'k', then release into stressed true-mid front 'e'. Finish with a tap or short trill at the alveolar ridge followed by high-front 'i'.",
+  "sound_symbolism": "The shared opening 'pu' gives 'pukeri' an audible kinship with 'pukate' (break). 'pukate' continues through two more stops; 'pukeri' leaves the velar release for a brief tap, which makes the word feel less final.",
+  "usage_notes": "The affected thing is the subject at base. Causative 'ka' adds the agent or force responsible, and the event-noun rule supplies damage as a noun.",
+  "examples": [
+    {
+      "phi": "lopha to pukeri.",
+      "translation": "The vessel was damaged."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "The intransitive base can report the changed condition before a speaker knows its cause; responsibility remains available through the causative or a separate clause."
+  },
+  "semantic_domains": {
+    "physical": "adverse change to the condition or function of a tangible thing"
+  }
+}

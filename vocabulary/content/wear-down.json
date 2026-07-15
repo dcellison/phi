@@ -1,0 +1,32 @@
+{
+  "word": "rohemi",
+  "gloss": "wear down",
+  "ipa": "/ro̞.ˈhe̞.mi/",
+  "syllables": [
+    "ro",
+    "he",
+    "mi"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "wear",
+    "become worn"
+  ],
+  "description": "To change gradually under repeated use or exposure. Cloth can thin and a step can grow smooth through this process, sometimes without becoming unusable. Unlike 'pukeri' (damage), 'rohemi' does not by itself say that the change is harmful.",
+  "articulatory_notes": "Tap or briefly trill the tongue at the alveolar ridge for 'r', then round into true-mid back 'o'. Let air pass through the open glottis for 'h' and continue into stressed true-mid front 'e'. Close the lips for voiced 'm', carry the voice through the nose, and finish with high-front 'i'.",
+  "sound_symbolism": "'rohemi' shares its opening 'ro' and following breath with 'rohi' (rub), one common source of wear. After the tap and open airflow, the word settles into a nasal rather than a stop; that quieter ending suits a change accumulated by degrees.",
+  "usage_notes": "'rohemi' takes the changing thing as its unmarked subject. Causative 'ka' can introduce what wears it down; used as an event noun, the same form means wear.",
+  "examples": [
+    {
+      "phi": "ruela rohemi.",
+      "translation": "The path wears down."
+    }
+  ],
+  "pillars": {
+    "pre-industrial-wisdom": "A worn step or tool handle records use and helps a keeper decide when maintenance is due."
+  },
+  "semantic_domains": {
+    "physical": "gradual alteration of a surface or working condition through repeated exposure",
+    "temporal": "a change distinguished by its accumulation over time"
+  }
+}

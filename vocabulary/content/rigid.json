@@ -1,0 +1,33 @@
+{
+  "word": "tinako",
+  "gloss": "rigid",
+  "ipa": "/t̪i.ˈn̪ä.ko̞/",
+  "syllables": [
+    "ti",
+    "na",
+    "ko"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "inflexible",
+    "stiff"
+  ],
+  "description": "A fired clay tile is 'tinako' when it resists bending or twisting under the force at hand. A plan can also be 'tinako' when its steps leave little room for adjustment. 'kethua' (hard) concerns indentation; 'luwi' (flexible) concerns changing shape or arrangement without damage.",
+  "articulatory_notes": "Place the tongue tip against the back of the upper teeth for dental 't' and release into high-front 'i'. Return the tongue tip to the teeth for dental nasal 'n', carry the voice through the nose, then release into stressed open central 'a'. Close the back of the tongue against the soft palate for 'k' and release into rounded true-mid back 'o'.",
+  "sound_symbolism": "Each syllable begins with firm contact: the tongue closes at the teeth twice, then at the soft palate. That repeated resistance makes rigidity easier to remember.",
+  "usage_notes": "The adjective naturally modifies a plan or procedure when little adjustment is available. It describes that arrangement rather than the worth or character of the person following it.",
+  "examples": [
+    {
+      "phi": "muralo tinako nai.",
+      "translation": "The material is rigid."
+    },
+    {
+      "phi": "winora tinako nai.",
+      "translation": "The plan is rigid."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "limited adjustability in a plan or procedure",
+    "physical": "resistance to bending, twisting, or rearrangement under force"
+  }
+}

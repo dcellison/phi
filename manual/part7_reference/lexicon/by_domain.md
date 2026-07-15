@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (168)
+## activity (169)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -156,6 +156,7 @@
 | `thosami` | compatible | components working together for a selected purpose |
 | `thunaro` | train | guided practice toward a stated practical capacity |
 | `thunesi` | asynchronous | actions contributing to one process at different times |
+| `tinako` | rigid | limited adjustability in a plan or procedure |
 | `tiwa` | tie | Fastening with cord |
 | `tukelu` | recycle | processing recovered or discarded material into another input or material |
 | `tukiro` | review | systematically reconsidering a prior matter |
@@ -1443,7 +1444,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (335)
+## physical (339)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1465,6 +1466,7 @@
 | `hisophi` | contaminant | a substance, organism, or agent present in a sample, place, or process |
 | `hola` | laugh | Vocal release of joy |
 | `horuma` | thunder | Sound felt in the chest |
+| `huwa` | weak | limited capacity to exert or withstand force in the relevant situation |
 | `kaelo` | sweet | Pleasant taste |
 | `kalei` | climb | Grip and pull upward |
 | `kalora` | horse | The road's living engine |
@@ -1651,6 +1653,7 @@
 | `powea` | egg | The round self-contained case |
 | `pukate` | break | Wholeness coming apart |
 | `pukea` | danger | The nearness of possible harm |
+| `pukeri` | damage | adverse change to the condition or function of a tangible thing |
 | `puko` | bitter | Sharp taste |
 | `puro` | strength | Power capacity |
 | `puse` | spit | The mouth's expulsion |
@@ -1662,6 +1665,7 @@
 | `rewa` | oar | Sustained effort |
 | `rihe` | rise | Coming up |
 | `riola` | labor | bodily effort and sustained activity |
+| `rohemi` | wear down | gradual alteration of a surface or working condition through repeated exposure |
 | `rohi` | rub | Repeated pressured strokes |
 | `rokai` | back | Posterior torso surface and spine region |
 | `roke` | move | Bodily change of position |
@@ -1730,6 +1734,7 @@
 | `thumai` | finger | Fine digits for manipulation and touch |
 | `thumiro` | smoke | Gray drift that reports |
 | `thuroi` | resilient | return toward workable form or function after stress |
+| `tinako` | rigid | resistance to bending, twisting, or rearrangement under force |
 | `tipika` | fingernail | The finger's hard tip |
 | `tiripe` | quiver | Small fast involuntary motion |
 | `tiso` | sharp | a fine edge or point able to cut or pierce readily |
@@ -1983,7 +1988,7 @@
 | `womuri` | household | daily life organized around a dwelling |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (172)
+## temporal (173)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2085,6 +2090,7 @@
 | `reshi` | fast | an action or change that proceeds quickly |
 | `rihe` | rise | The shape of beginnings |
 | `ritako` | workload | work considered over a stated interval |
+| `rohemi` | wear down | a change distinguished by its accumulation over time |
 | `rolu` | wheel | Cyclical motion |
 | `rulami` | adventure | Days given to the unmapped |
 | `runae` | resin | Preserving substance |

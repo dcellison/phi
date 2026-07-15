@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1168 words.*
+*1172 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -65,6 +65,7 @@
 | `howeli` | wind | /ho̞.ˈwe̞.li/ | noun |
 | `howenu` | weather | /ho̞.ˈwe̞.n̪u/ | noun |
 | `hurao` | patient | /hu.ˈrä.o̞/ | adjective |
+| `huwa` | weak | /ˈhu.wä/ | adjective |
 | `ka` | CAUS | /ˈkä/ | particle |
 | `kaeli` | like | /kä.ˈe̞.li/ | verb |
 | `kaelo` | sweet | /kä.ˈe̞.lo̞/ | adjective |
@@ -662,6 +663,7 @@
 | `powea` | egg | /po̞.ˈwe̞.ä/ | noun |
 | `pukate` | break | /pu.ˈkä.t̪e̞/ | verb |
 | `pukea` | danger | /pu.ˈke̞.ä/ | noun |
+| `pukeri` | damage | /pu.ˈke̞.ri/ | verb |
 | `puko` | bitter | /ˈpu.ko̞/ | adjective |
 | `pula` | wish | /ˈpu.lä/ | verb |
 | `punoa` | society | /pu.ˈn̪o̞.ä/ | noun |
@@ -703,6 +705,7 @@
 | `roe` | INS | /ˈro̞.e̞/ | preposition |
 | `roela` | scroll | /ro̞.ˈe̞.lä/ | noun |
 | `roena` | copper | /ro̞.ˈe̞.n̪ä/ | noun |
+| `rohemi` | wear down | /ro̞.ˈhe̞.mi/ | verb |
 | `rohi` | rub | /ˈro̞.hi/ | verb |
 | `rokai` | back | /ro̞.ˈkä.i/ | noun |
 | `roke` | move | /ˈro̞.ke̞/ | verb |
@@ -1029,6 +1032,7 @@
 | `thuroa` | grow | /θu.ˈro̞.ä/ | verb |
 | `thuroi` | resilient | /θu.ˈro̞.i/ | adjective |
 | `ti` | REP | /ˈt̪i/ | particle |
+| `tinako` | rigid | /t̪i.ˈn̪ä.ko̞/ | adjective |
 | `tinoa` | dye | /t̪i.ˈn̪o̞.ä/ | noun |
 | `tipika` | fingernail | /t̪i.ˈpi.kä/ | noun |
 | `tiripe` | quiver | /t̪i.ˈri.pe̞/ | verb |
