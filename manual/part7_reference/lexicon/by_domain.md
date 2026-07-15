@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (171)
+## activity (176)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -20,6 +20,7 @@
 | `helolu` | redress | acting to address a stated institutional or social harm |
 | `hewe` | wipe | The clearing stroke |
 | `hinawu` | accommodate | changing a practice so a stated action becomes possible |
+| `kaeshu` | bold | readiness to step forward or risk an uncertain action |
 | `kalei` | climb | Ascent by effort |
 | `kanuwa` | authorize | granting bounded permission or decision power |
 | `kasira` | vote | formally registering a choice or stance |
@@ -29,6 +30,7 @@
 | `kawhera` | coerce | constraining practical choice through a stated power or threat |
 | `kelasu` | usable | practical use for a stated person and purpose |
 | `kelitho` | function | performance of a characteristic or required system operation |
+| `kesu` | determined | resolve that sustains effort towards a chosen purpose |
 | `kethua` | hard | a task or condition that demands substantial effort |
 | `ketora` | control | adjustment or constraint of a technical process |
 | `kiranu` | qualified | eligibility for a stated role or activity |
@@ -41,6 +43,7 @@
 | `kopharu` | barrier | a condition obstructing a stated action |
 | `kupe` | hide | Placing out of sight |
 | `kuremi` | grind | The kitchen's oldest transformation |
+| `liroa` | playful | a play-seeking manner brought to an action or interaction |
 | `loatho` | delegate | entrusting a bounded role or action to a recipient |
 | `lokane` | accessible | practical availability for a stated use |
 | `loshenu` | clearance | free room for a stated movement or operation |
@@ -59,6 +62,7 @@
 | `muholi` | dig | Earth-work |
 | `mukesi` | spoil | loss of suitability for an intended practical use |
 | `muphera` | stock | items held for future practical use |
+| `muro` | stubborn | persistence in a course despite reasons to adjust it |
 | `napako` | bake | cooking food through surrounding dry heat |
 | `naphelu` | assistive | supporting a chosen function or action |
 | `nashaku` | enforce | applying authority or procedure in relation to compliance |
@@ -149,6 +153,7 @@
 | `thekamu` | intervene | a deliberate action within bodily care |
 | `therapi` | boil | heating liquid to sustained bubbling |
 | `therilu` | rest | fundamental human activity of resting |
+| `therua` | eager | readiness to begin or join a wanted action |
 | `thesani` | skill | a learned capacity for practical action |
 | `thimelo` | pace | rate and rhythm of a continuing action |
 | `thimora` | schedule | an intended arrangement of actions or events |
@@ -270,7 +275,7 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `wira` | window | View portal |
 
-## cognition (237)
+## cognition (238)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -343,6 +348,7 @@
 | `mothare` | premise | a proposition serving as a starting point in inference |
 | `muko` | careless | Inattentive |
 | `murethi` | impairment | a stated difference in cognitive function |
+| `muro` | stubborn | resistance to reconsidering a position or judgement |
 | `nai` | be | establishing identity and predication |
 | `nasholu` | rule | a stated normative prescription with conditions and scope |
 | `natheri` | entail | a necessary truth-preserving relation between propositions |
@@ -631,7 +637,7 @@
 | `whekate` | refute | a decisive challenge supported by reasons or evidence |
 | `whishela` | whisper | Speech made of breath |
 
-## community (281)
+## community (282)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -729,6 +735,7 @@
 | `naweso` | consensus | a defined collective decision condition |
 | `nawo` | agree | Accord between people |
 | `nephoru` | treat | an intervention relation among a person and care participants |
+| `nilua` | shy | reserve felt under other people's attention |
 | `nireku` | insect | Foundation of ecosystems |
 | `noa` | position | Enables discussion of roles and places within social structures |
 | `noeli` | warm (emotional) | Interpersonal warmth |
@@ -1089,7 +1096,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## emotion (99)
+## emotion (98)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1101,32 +1108,31 @@
 | `horae` | radiant | delight made visible in a face or manner |
 | `hurao` | patient | willing endurance without being driven by agitation |
 | `kaeli` | like | the feeling of preference and affinity |
-| `kaeshu` | bold | Confident daring |
+| `kaeshu` | bold | felt daring before the outcome is known |
 | `kapura` | shout | intensity breaking into voice |
 | `kela` | rejoice | Experiencing deep gladness |
 | `keloe` | companion | Abiding presence |
 | `kelomi` | accept | Opening to what is present |
-| `kesu` | determined | Firm resolve |
+| `kesu` | determined | felt firmness after a direction has been chosen |
 | `kipona` | pain | Hurt of heart borrowing the body's word |
 | `korua` | heart | the metaphorical seat of feeling and courage |
 | `lei` | harmony | creates feelings of peace and rightness when elements unite |
-| `liroa` | playful | Lighthearted joy |
+| `liroa` | playful | lighthearted readiness for play |
 | `loshi` | joyful | the character of something that awakens or expresses joy |
 | `lothea` | love | Deep affection and care |
 | `lumani` | family | nurtures deep bonds of love, care, and mutual support |
-| `luroi` | nervous | Anxious state |
+| `luroi` | nervous | apprehension about an uncertain or exposed moment |
 | `melira` | song | Feeling given melodic shape |
 | `meloa` | persevere | Steady resolve |
 | `melu` | friend | inherently involves emotional bonds of affection, care, and concern |
 | `menai` | dedicate | Deep commitment |
 | `meropi` | cherish | Tender protective valuing |
 | `mishoa` | express | manifests feelings from inner to outer world |
-| `monelu` | amused | The lighter feeling laughter sometimes follows |
+| `monelu` | amused | light pleasure in finding something funny or entertaining |
 | `motu` | humble | Without arrogance |
-| `muro` | stubborn | Inflexible |
 | `nelu` | revere | Deep respect |
 | `nemo` | grateful | appreciation felt in response to benefit or support |
-| `nilua` | shy | Social hesitance |
+| `nilua` | shy | social hesitation or self-conscious unease |
 | `noalu` | tranquil | deep calm that has remained undisturbed |
 | `noeli` | warm (emotional) | Welcoming kindness |
 | `nolami` | bond | creates tender embrace through care and presence |
@@ -1154,7 +1160,7 @@
 | `seniku` | smile | Expressing warmth and pleasure |
 | `shaelo` | brave | resolve shown while fear, danger, or pain is present |
 | `shea` | peace | peace felt as an inward condition |
-| `sheli` | impatient | Unable to wait |
+| `sheli` | impatient | agitation felt during an unwanted delay |
 | `shena` | calm | low agitation in present feeling or manner |
 | `shorui` | weary | Need for rest |
 | `shurano` | safe | The felt state of being out of danger |
@@ -1171,7 +1177,7 @@
 | `themoka` | treasure | Recognizing and holding value |
 | `themui` | faith | cultivates trust through mindful confidence in process |
 | `theomi` | trust | emotional vulnerability and courage |
-| `therua` | eager | Keen enthusiasm |
+| `therua` | eager | keen anticipation before an action or event |
 | `thiro` | serene | calm settled into a poised manner |
 | `tholira` | forgive | Releasing resentment and grievance |
 | `thomari` | courage | resolve felt while facing fear, pain, or danger |
@@ -1190,7 +1196,7 @@
 | `wilao` | long-for | internal experience of yearning and desire |
 | `wile` | play | Experiencing lightness and joy |
 | `wipha` | restless | felt agitation or difficulty settling |
-| `wiroa` | hopeful | Positive anticipation |
+| `wiroa` | hopeful | felt expectation that a desired outcome remains possible |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
 ## ethics (12)
@@ -1527,7 +1533,7 @@
 | `lupho` | float | Rest without sinking |
 | `luphonu` | boat | The built hull |
 | `lurepa` | nutrient | a substance whose biological role depends on form, amount, and conditions |
-| `luroi` | nervous | Uneasy energy |
+| `luroi` | nervous | bodily arousal that accompanies nervous anticipation |
 | `luwae` | graceful | controlled motion with little visible strain or interruption |
 | `luwi` | flexible | bending or changing shape without damage |
 | `maeli` | quiet | little or no sound in a source, event, or place |
@@ -2015,7 +2021,7 @@
 | `womuri` | household | daily life organized around a dwelling |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (172)
+## temporal (171)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2129,7 +2135,7 @@
 | `seroli` | mature | Fully developed |
 | `seru` | commit | Pledge moment |
 | `sethoni` | handoff | movement from one stage or custodian to the next |
-| `sheli` | impatient | Rushing |
+| `sheli` | impatient | difficulty allowing waiting to continue |
 | `shemu` | moment | Brief duration |
 | `shero` | night | Dark hours |
 | `sheru` | slow | an action or change that proceeds slowly |
@@ -2158,7 +2164,6 @@
 | `thenoki` | sustain | Maintaining through time |
 | `therema` | tradition | bridging time and connecting past to present |
 | `therilu` | rest | the pause within the rhythm of activity |
-| `therua` | eager | Ready to begin |
 | `thilonu` | prepare | Creating conditions for future action |
 | `thimelo` | pace | movement distributed through time |
 | `thimora` | schedule | planned relations among times and stages |
@@ -2188,11 +2193,11 @@
 | `wireki` | prognosis | an expected course or outcome over time |
 | `wireo` | future | After now |
 | `wiresu` | postpone | later placement without cancellation |
-| `wiroa` | hopeful | Future-oriented |
+| `wiroa` | hopeful | anticipation directed towards a future condition |
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (153)
+## wisdom (148)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2202,13 +2207,11 @@
 | `hiru` | intuit | Immediate knowing |
 | `hiso` | clean | Clarity of state |
 | `howela` | receive | requires understanding how to receive with grace |
-| `kaeshu` | bold | Willingness to risk |
 | `kanu` | choose | Where deliberation becomes direction |
 | `kathu` | seal | Confirmation |
 | `keiro` | way | Manner of approach |
 | `keli` | device | Crafted complexity |
 | `kesho` | middle | Balance position |
-| `kesu` | determined | Unwavering purpose |
 | `kethira` | infer | recognizing the mind's movement beyond what was directly given |
 | `kira` | key | Access granted |
 | `kirae` | crystal | Clarity symbol |
@@ -2223,7 +2226,6 @@
 | `leiro` | release | Offers release as a metaphor without prescribing acceptance |
 | `letharo` | consistent | holding plurality without confusing compatibility with truth |
 | `liona` | live | Engaged presence in existence |
-| `liroa` | playful | Fun-loving spirit |
 | `luera` | past | Memory's domain |
 | `luma` | lamp | Illumination |
 | `lumae` | end | Completion |
@@ -2239,10 +2241,8 @@
 | `motha` | foundation | Essential support |
 | `motu` | humble | Right-sized self |
 | `muko` | careless | Lacking care |
-| `muro` | stubborn | Resistant to change |
 | `nai` | be | recognizing and accepting what is |
 | `nawea` | respect | understanding inherent worth and dignity |
-| `nilua` | shy | Sensitive reserve |
 | `noa` | position | Understanding position as relational rather than hierarchical |
 | `noetha` | essential | Fundamental understanding |
 | `nomi` | present | Here-and-now quality |

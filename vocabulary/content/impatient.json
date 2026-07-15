@@ -7,16 +7,25 @@
     "li"
   ],
   "pos": "adjective",
-  "concept": "Impatient / Unable to Wait / Restless for Action",
-  "description": "Having or showing a tendency to be quickly irritated or provoked; restlessly eager. 'Sheli' names the quality of impatience—the inability to wait, the urge to rush.",
-  "sound_symbolism": "The word pushes forward. 'She' /ʃe/ begins with pressed breath, waiting difficult. Then 'li' moves quickly, patience exhausted.",
-  "grammatical_notes": "Functions as an adjective: 'sheli miona' (impatient person). Opposite of 'hurao' (patient). Names state that often causes harm through rushing.",
+  "search_terms": [
+    "unable to wait",
+    "restive at delay"
+  ],
+  "description": "Delay presses on a 'sheli' person until waiting becomes an urge to hurry. The state may show as irritation or a rushed next move. 'hurao' (patient) can remain with the delay; 'wipha' (restless) may have no delay or goal at all.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region and let unvoiced air pass for 'sh', then move into stressed true-mid front 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l', let air pass along its sides, and finish with unrounded high-front 'i'.",
+  "sound_symbolism": "Air runs through 'sh' before the compact turn through 'l' to 'i'. The two short syllables can give the word the quick forward pressure of impatience.",
+  "usage_notes": "With 'nai' (be), 'sheli' describes the person's state. Before an action, it gives impatient manner: 'sheli hasi' means wait impatiently.",
+  "examples": [
+    {
+      "phi": "shia sheli hasi.",
+      "translation": "They wait impatiently."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Impatience is aversion to the present moment—wanting things to be other than they are, faster than they are.",
-    "peace-linguistics-practices": "Impatient communication interrupts and rushes—not allowing others time to think or speak fully."
+    "peace-linguistics-practices": "In conversation, impatience can become the pressure that cuts another speaker's turn short. Calling that pressure 'sheli' separates it from the decision to interrupt."
   },
   "semantic_domains": {
-    "emotion": "Unable to wait",
-    "temporal": "Rushing"
+    "emotion": "agitation felt during an unwanted delay",
+    "temporal": "difficulty allowing waiting to continue"
   }
 }

@@ -8,16 +8,24 @@
     "a"
   ],
   "pos": "adjective",
-  "concept": "Hopeful / Feeling Hope / Expecting Good",
-  "description": "Feeling or inspiring optimism about a future outcome. 'Wiroa' names the quality of positive anticipation—the heart that looks toward possibility with confidence.",
-  "sound_symbolism": "The word reaches toward tomorrow. 'Wi' begins with openness, possibility welcomed. 'Ro' rolls forward with momentum, hope building. Finally 'a' opens to the future, anticipation bright.",
-  "grammatical_notes": "Functions as an adjective: 'wiroa miona' (hopeful person). Essential to solarpunk vision—hope as practice, not passive wishing. The verb is 'soliru' (hope).",
+  "search_terms": [
+    "optimistic",
+    "optimism"
+  ],
+  "description": "Someone is 'wiroa' when they see a desired outcome as possible. The expectation may be tentative. 'soliru' (hope) names hoping as an act or sustained orientation; 'pula' (wish) can desire an outcome without expecting it.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then move forward and unround into high-front 'i'. Make a tap or short trill for 'r' and draw the tongue back into stressed true-mid rounded 'o'. After 'o', begin a fresh syllable for central 'a' by unrounding the lips and opening the jaw without inserting a glide.",
+  "usage_notes": "The adjective predicates with 'nai' (be). A clause with 'soliru' (hope) can name the hoped-for outcome; 'wiroa' itself gives the person's present quality.",
+  "examples": [
+    {
+      "phi": "lo mia wiroa nai.",
+      "translation": "We are hopeful."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Hope is active—believing better futures are possible while working to create them.",
-    "secular-buddhist-philosophy": "Wise hope recognizes impermanence—things can change, suffering is not permanent, liberation is possible."
+    "solarpunk-values": "A solarpunk project needs people who can see changed conditions as possible before the work is finished. 'wiroa' names that anticipation."
   },
   "semantic_domains": {
-    "emotion": "Positive anticipation",
-    "temporal": "Future-oriented"
+    "emotion": "felt expectation that a desired outcome remains possible",
+    "temporal": "anticipation directed towards a future condition"
   }
 }

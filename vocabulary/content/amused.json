@@ -8,15 +8,22 @@
     "lu"
   ],
   "pos": "adjective",
-  "concept": "Amused / Delighted by Something Small / Entertained Without Being Told To Be",
-  "description": "Finding something quietly funny or entertaining: an old mistake that looks lighter in hindsight, a private joke, a thought that catches its own absurdity. Related to siora (joy) but narrower: siora is felt happiness in general, monelu is specifically the lighter, laughing-adjacent pleasure of being entertained, whether or not it reaches hola (laugh) itself.",
-  "sound_symbolism": "'Mo' opens warm and internal, a nasal held rather than released. 'Ne' continues the same internal warmth. 'Lu' opens it outward, the held amusement finally letting go.",
-  "grammatical_notes": "Functions as an adjective: predication 'mia monelu nai' (I am amused). The quality noun, amusement, comes by rule: 'mia monelu phaelo' (I feel amusement). Related: siora (joy, the broader feeling), hola (laugh, the act it can lead to).",
-  "pillars": {
-    "secular-buddhist-philosophy": "A light, undemanding pleasure that needs nothing from the world to justify it is close to non-attachment: amusement asks to be noticed, not kept.",
-    "art-nouveau-aesthetics": "Delight taken in something small and unforced is the same unhurried pleasure the movement's own ornament rewards a slow look with."
-  },
+  "search_terms": [
+    "amusement",
+    "entertained",
+    "quiet amusement"
+  ],
+  "description": "A private joke or an old mistake seen from a kinder distance can leave someone 'monelu'. This is the light pleasure of finding something funny or entertaining. 'siora' (joy) is wider, while 'hola' (laugh) is an act amusement may never reach.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm', carry the voice through the nose, then draw the tongue back and round the lips for true-mid 'o'. Place the tongue tip against the backs of the upper teeth for dental nasal 'n' and move into stressed true-mid front 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l', let air pass along its sides, and finish with rounded high-back 'u'.",
+  "sound_symbolism": "The first two consonants are nasal, so the word returns to resonance before the final lateral release. Its quiet movement into 'u' can recall amusement held close before laughter.",
+  "usage_notes": "The adjective predicates with 'nai' (be). In noun position, the quality-noun rule supplies amusement, so 'mia monelu phaelo' means I feel amusement.",
+  "examples": [
+    {
+      "phi": "mia monelu phaelo.",
+      "translation": "I feel amusement."
+    }
+  ],
   "semantic_domains": {
-    "emotion": "The lighter feeling laughter sometimes follows"
+    "emotion": "light pleasure in finding something funny or entertaining"
   }
 }

@@ -8,16 +8,26 @@
     "i"
   ],
   "pos": "adjective",
-  "concept": "Nervous / Anxious / Uneasy",
-  "description": "Easily agitated or apprehensive; feeling worry or unease. 'Luroi' names the quality of nervousness—the body's alert to perceived threat, energy unsettled.",
-  "sound_symbolism": "The word trembles slightly. 'Lu' begins with uncertain flow, stability wavering. 'Ro' rolls with uneasy energy. Finally 'i' arrives tense, nervousness present.",
-  "grammatical_notes": "Functions as an adjective: 'luroi miona' (nervous person). Names a state, not character flaw—nervousness signals need for reassurance or preparation.",
+  "search_terms": [
+    "anxious",
+    "uneasy",
+    "apprehensive"
+  ],
+  "description": "Before speaking to a room or opening awaited news, a person may be 'luroi': apprehensive and unsure how the next moment will go. 'sukima' (fear) is alarm at perceived danger. 'wipha' (restless) is difficulty settling; nervousness may include either without requiring both.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for lateral 'l', let air pass along its sides, then raise the back of the tongue and round the lips for high-back 'u'. Make a tap or short trill for 'r' and move into stressed true-mid rounded 'o'. Keep final 'i' separate across the 'o.i' hiatus by unrounding the lips and bringing the tongue high and forward.",
+  "sound_symbolism": "The stressed rounded 'o' gives way to a separate high-front 'i' with a quick narrowing and unrounding. That tightening can echo the bodily constriction of nervous anticipation.",
+  "usage_notes": "'mia luroi nai' reports the state. Before a verb, the adjective describes manner, as in 'luroi haolu' (speak nervously). The awaited event or perceived source can follow in a nearby clause.",
+  "examples": [
+    {
+      "phi": "mia luroi haolu.",
+      "translation": "I speak nervously."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Noticing nervousness without judgment begins its release—awareness of anxiety is the first step toward calm.",
-    "peace-linguistics-practices": "Nervous speakers need patience—rushing them increases anxiety while spaciousness allows settling."
+    "peace-linguistics-practices": "A nervous speaker may need a longer pause or a gentler turn. The word lets others notice that need without treating hesitation as refusal."
   },
   "semantic_domains": {
-    "emotion": "Anxious state",
-    "physical": "Uneasy energy"
+    "emotion": "apprehension about an uncertain or exposed moment",
+    "physical": "bodily arousal that accompanies nervous anticipation"
   }
 }

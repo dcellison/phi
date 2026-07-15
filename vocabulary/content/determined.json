@@ -7,16 +7,26 @@
     "su"
   ],
   "pos": "adjective",
-  "concept": "Determined / Firmly Resolved / Unwavering in Purpose",
-  "description": "Having made a firm decision and being resolved not to change it. 'Kesu' names the quality of determination—the steadfast will that persists toward its aim.",
-  "sound_symbolism": "The word holds firm. 'Ke' begins with clear resolve, decision made. Then 'su' sustains with steady force, determination maintained.",
-  "grammatical_notes": "Functions as an adjective: 'kesu miona' (determined person). Related to 'kolu' (steady) but emphasizes purposeful resolve rather than general stability.",
+  "search_terms": [
+    "resolved",
+    "resolute",
+    "determination"
+  ],
+  "description": "Once a direction is chosen, a 'kesu' person keeps effort aimed there through difficulty. The word describes resolve with a purpose. 'kolu' (steady) concerns regularity; 'muro' (stubborn) resists reconsideration even when the purpose or evidence changes.",
+  "articulatory_notes": "Raise the back of the tongue to the soft palate for unvoiced 'k' and release it into stressed true-mid front 'e'. Bring the tongue blade close to the alveolar ridge for unvoiced 's', keep the air moving, then raise the back of the tongue and round the lips for high-back 'u'.",
+  "sound_symbolism": "The 'k' gives the first syllable a firm release, while 's' keeps air moving instead of ending in another stop. The compact form can recall resolve that has chosen a direction and continues.",
+  "usage_notes": "With 'nai' (be), 'kesu' describes settled resolve. Before an action it supplies determined manner, and a nearby clause can name the goal when it matters.",
+  "examples": [
+    {
+      "phi": "shia loshi nela kesu nai.",
+      "translation": "They are joyful and determined."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Determined communities persist—the resolve to build better futures despite obstacles.",
-    "secular-buddhist-philosophy": "Right effort requires determination—the resolve to continue practice despite difficulty."
+    "solarpunk-values": "Shared repair and long ecological work often continue after novelty has gone. 'kesu' names the resolve that keeps effort aimed at the chosen purpose."
   },
   "semantic_domains": {
-    "emotion": "Firm resolve",
-    "wisdom": "Unwavering purpose"
+    "activity": "resolve that sustains effort towards a chosen purpose",
+    "emotion": "felt firmness after a direction has been chosen"
   }
 }

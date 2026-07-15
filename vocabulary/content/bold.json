@@ -8,16 +8,25 @@
     "shu"
   ],
   "pos": "adjective",
-  "concept": "Bold / Confident and Daring / Willing to Take Risks",
-  "description": "Showing an ability to take risks; confident and courageous. 'Kaeshu' names the quality of boldness—the willingness to step forward, to speak up, to act despite uncertainty.",
-  "sound_symbolism": "The word steps forward. 'Ka' begins with clear presence, confidence established. The vowel 'e' opens to possibility. Then 'shu' /ʃu/ moves with decisive energy, boldness complete.",
-  "grammatical_notes": "Functions as an adjective: 'kaeshu miona' (bold person). Opposite of 'nilua' (shy). Related to 'shaelo' (brave) but emphasizes confidence rather than courage in facing danger.",
+  "search_terms": [
+    "daring",
+    "ready to risk"
+  ],
+  "description": "'kaeshu' describes readiness to step forward or take a risk while the outcome is uncertain. A proposal can be bold, as can the person who voices it. 'shaelo' (brave) faces fear, danger, or pain already present; boldness can come before any of them.",
+  "articulatory_notes": "Raise the back of the tongue to the soft palate for unvoiced 'k' and release it into central 'a'. Keep following stressed 'e' in a separate syllable across the 'a.e' hiatus by moving the tongue forward without inserting a glide. Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and finish with rounded high-back 'u'.",
+  "sound_symbolism": "The initial stop releases, the 'a.e' hiatus opens a clear middle space, and final 'sh' keeps breath moving into 'u'. That sequence can feel like hesitation crossed and speech carried forward.",
+  "usage_notes": "The adjective can qualify a person or proposal and can describe manner before a verb. 'kaeshu haolu' means speak boldly; degree marking can distinguish a small step forward from strong daring.",
+  "examples": [
+    {
+      "phi": "shia kaeshu haolu.",
+      "translation": "They speak boldly."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Bold vision imagines transformation—the confidence to propose change despite resistance.",
-    "peace-linguistics-practices": "Bold speech can be peaceful—courage to speak truth directly while remaining kind."
+    "peace-linguistics-practices": "Peaceful speech sometimes requires readiness to name harm or disagreement in company. 'kaeshu' makes that readiness sayable without confusing it with aggression."
   },
   "semantic_domains": {
-    "emotion": "Confident daring",
-    "wisdom": "Willingness to risk"
+    "activity": "readiness to step forward or risk an uncertain action",
+    "emotion": "felt daring before the outcome is known"
   }
 }
