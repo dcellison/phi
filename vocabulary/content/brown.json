@@ -8,16 +8,17 @@
     "li"
   ],
   "pos": "adjective",
-  "concept": "Brown / Earth-Color / Soil-Hue",
-  "description": "The adjective naming the hue of earth, bark, and autumn, the color of grounding and returning. In Phi, brown carries associations with humility (from humus, earth), with the fertile soil that receives and transforms, with the wooden structures that shelter. This word names the color of what sustains and supports, the foundation beneath brighter things.",
-  "sound_symbolism": "The word opens with 'mu', where the grounding nasal meets the deep 'u'—the earthiness of brown, its soil-like presence. This moves through 're', where the rolling 'r' adds the varied textures of brown things, the bark and loam and clay. The final 'li' lightens with the 'l' liquid and bright 'i'—brown's warmth, not heaviness. The arc traces brown: earth-depth, texture, warm lightness.",
-  "grammatical_notes": "Functions as an adjective preceding nouns: 'mureli muila' (brown earth). Describes objects, surfaces, or natural materials. Often used for wood, soil, bark, and autumn leaves.",
-  "pillars": {
-    "art-nouveau-aesthetics": "Brown woods formed the frames for Art Nouveau's organic designs. 'Mureli' names the natural material color.",
-    "pre-industrial-wisdom": "Brown was the color of work, of earth-contact, of humble materials that sustained life. 'Mureli' honors this grounding hue."
-  },
+  "description": "Soil and tree bark are often 'mureli'. A glazed bowl can be 'mureli' too; the word does not claim that the bowl is made of earth or wood.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm' and carry the resonance into rounded high-back 'u'. Begin the stressed second syllable with a tap or short trill for 'r' and true-mid front 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l', then move into high-front 'i'.",
+  "usage_notes": "A brown spot is 'mureli piloe'. The color adjective stands before the mark it describes.",
+  "examples": [
+    {
+      "phi": "muila mureli nai.",
+      "translation": "The soil is brown."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "visual quality of earth tones",
-    "nature": "the color of soil and bark"
+    "aesthetic": "brown across ordinary light and dark shades",
+    "nature": "earth and bark provide common natural comparisons"
   }
 }

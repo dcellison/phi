@@ -7,16 +7,16 @@
     "lo"
   ],
   "pos": "adjective",
-  "concept": "Red / Blood-Color / Fire-Hue",
-  "description": "The adjective naming the warm hue of blood, fire, ripe fruit, and sunset. In Phi, red carries associations with vitality, urgency, and life's essence flowing through veins. This word names the color of blood that means life, of fire that means warmth, of berries that mean ripeness—the spectrum from gentle rose through vivid scarlet to deep crimson.",
-  "sound_symbolism": "The word opens with 'ru', where the rolling 'r' vibrates with energy—red is dynamic, active, alive. The deep 'u' carries the color's intensity and depth. This flows into 'lo', where the liquid spreads the color outward, while 'o' rounds into the fullness of red's presence. Two syllables make the color word accessible for frequent use.",
-  "grammatical_notes": "Functions as an adjective preceding nouns: 'rulo peloru' (red flower). Can describe objects, light, or metaphorically emotional states (anger, passion, embarrassment in some cultures).",
-  "pillars": {
-    "art-nouveau-aesthetics": "Red appears in Art Nouveau's organic palette—the red of poppies, of autumn leaves, of precious jewels. 'Rulo' names that hue.",
-    "pre-industrial-wisdom": "Red was the first color humans named across cultures, after light and dark. 'Rulo' honors this primal recognition of the blood-color, the fire-hue."
-  },
+  "description": "Blood and ripe strawberries can be 'rulo'. The word covers ordinary reds at any brightness. 'keru rulo' (bright red) and 'nuelo rulo' (dark red) make that brightness explicit.",
+  "articulatory_notes": "Begin with a tap or short trill for 'r' and move into rounded high-back 'u'. The tongue tip then touches the alveolar ridge for lateral 'l' before rounded mid-back 'o'. Stress falls on 'ru'.",
+  "examples": [
+    {
+      "phi": "peloru rulo nai.",
+      "translation": "The flower is red."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "visual quality of warm hue",
-    "nature": "the color of blood, fire, and ripe fruit"
+    "aesthetic": "ordinary reds, whether bright or dark",
+    "nature": "blood and ripe red fruit give concrete points of comparison"
   }
 }

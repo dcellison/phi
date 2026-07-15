@@ -199,7 +199,7 @@
 | `leko` | surface | Visible face |
 | `lerua` | exterior | Facing out |
 | `lina` | string (instrument) | Musical tone |
-| `liro` | green | visual quality of life-hue |
+| `liro` | green | green color on living and made surfaces |
 | `liru` | fabric | Texture |
 | `lonai` | width | Breadth |
 | `loriphi` | rainbow | Natural light spectrum |
@@ -210,11 +210,11 @@
 | `melothe` | pond | Contemplative water feature |
 | `mioru` | beauty | Delighting quality |
 | `mueli` | plain (unadorned) | Undecorated |
-| `mureli` | brown | visual quality of earth tones |
+| `mureli` | brown | brown across ordinary light and dark shades |
 | `muwi` | interior | Within |
 | `noporu` | design | shaping form in relation to material and use |
 | `nuelo` | dark | a dim scene or a color seen as a dark shade |
-| `nuko` | black | visual quality of light absence |
+| `nuko` | black | the achromatic category at the low end of perceived lightness |
 | `palethu` | tactile | form and texture encountered through touch |
 | `pelori` | bird | Beauty in flight and song |
 | `peloru` | flower | embodiment of natural beauty |
@@ -231,14 +231,14 @@
 | `phuliro` | stream | Gentle flowing water |
 | `phuri` | brush | Flowing marks |
 | `roena` | copper | Aging beauty |
-| `rulo` | red | visual quality of warm hue |
+| `rulo` | red | ordinary reds, whether bright or dark |
 | `sena` | pattern | Repeated design |
 | `shaemu` | organic | Growth-shaped form |
 | `shela` | art | Expressive form |
 | `sheloa` | bloom | Beauty reaching full expression |
 | `shemoli` | harmonize | Creating pleasing unity from diversity |
 | `shiloa` | pure | purity as a quality of form and essence |
-| `shilu` | blue | visual quality of cool hue |
+| `shilu` | blue | blue on surfaces and in visible light |
 | `shioli` | silver | Lunar beauty |
 | `shonuwa` | sound | The medium of music and speech |
 | `shumu` | moss | Soft ancient growth |
@@ -248,7 +248,7 @@
 | `siloma` | simple | elegance and beauty of minimal forms |
 | `simoe` | rich | Full of quality |
 | `solai` | gold | Solar beauty |
-| `soriu` | yellow | bright warm hue |
+| `soriu` | yellow | yellow across pale and saturated shades |
 | `sulai` | musician | Sound creation |
 | `telui` | rhythm | Regular beat |
 | `theriko` | frost | Crystalline natural pattern |
@@ -256,12 +256,12 @@
 | `thiro` | serene | Luminous calm |
 | `thurai` | vibrant | Intense vitality |
 | `tinoa` | dye | Color transformation |
-| `welisha` | color | What the hues have in common |
+| `welisha` | color | the visual category used to name and compare colors |
 | `weloa` | loom | Pattern maker |
 | `weru` | poet | Word craft |
 | `wheiru` | mist | Ethereal obscuring |
 | `whilaru` | comb | The tool worth carving |
-| `whilo` | white | visual quality of maximum light |
+| `whilo` | white | achromatic color at high perceived lightness |
 | `whoa` | whole | harmony and completeness |
 | `wira` | window | View portal |
 
@@ -1252,7 +1252,7 @@
 | `limoe` | creature | Any living animate being |
 | `linua` | fiber | Raw material |
 | `lioru` | life | Animating force |
-| `liro` | green | the color of plants and growth |
+| `liro` | green | leaves and grass are common natural examples |
 | `lirowa` | leaf | Plant foliage |
 | `litero` | ecosystem | relations among living beings, materials, energy, water, and place |
 | `liweso` | ecological community | several living populations considered together in ecological relation |
@@ -1302,7 +1302,7 @@
 | `munari` | sediment | particulate material moved or deposited by environmental processes |
 | `muphia` | mud | Earth and water met |
 | `muraki` | harvest | Gathering mature crops |
-| `mureli` | brown | the color of soil and bark |
+| `mureli` | brown | earth and bark provide common natural comparisons |
 | `muriwe` | worm | The soil's quiet maker |
 | `muroa` | fertile | Life-producing quality |
 | `napuro` | grain | The seed-crop of the year |
@@ -1316,7 +1316,7 @@
 | `nolika` | animal | Living beings with movement and awareness |
 | `norawhi` | dusk | Light's recession |
 | `nowhu` | cave | Underground hollow |
-| `nuko` | black | the color of night and shadow |
+| `nuko` | black | charcoal and dark feathers are familiar black referents |
 | `nunoa` | forager | Wild harvesting |
 | `nuora` | food | the gifts of earth that nourish us |
 | `nuphari` | fog | Dense ground-level cloud |
@@ -1356,7 +1356,7 @@
 | `roena` | copper | Elemental metal |
 | `ronua` | south | The open expanse of the turning sky |
 | `ruka` | complex | Interconnected systems |
-| `rulo` | red | the color of blood, fire, and ripe fruit |
+| `rulo` | red | blood and ripe red fruit give concrete points of comparison |
 | `ruloi` | flourish | Vigorous, abundant growth |
 | `runae` | resin | Tree secretion |
 | `selu` | flow | embodies natural phenomena of water currents and organic movement patterns |
@@ -1368,7 +1368,7 @@
 | `sheloa` | bloom | Flowering, opening of blossoms |
 | `shero` | night | Rest period |
 | `shila` | winter | Dormancy time |
-| `shilu` | blue | the color of sky and water |
+| `shilu` | blue | daylight sky and water give natural comparisons |
 | `shioli` | silver | Precious metal |
 | `shiro` | tree | the great standing plants bridging earth and sky |
 | `shomelu` | shadow | The dark that light casts |
@@ -1383,7 +1383,7 @@
 | `solai` | gold | Precious metal |
 | `sophae` | cotton | Plant fiber |
 | `sorila` | cultivate | Working land for growth |
-| `soriu` | yellow | color of ripe grain and many flowers |
+| `soriu` | yellow | grain at harvest and yellow flowers offer recurring examples |
 | `suilo` | dew | Condensed atmospheric moisture |
 | `sukaro` | hot | weather or environmental heat that is strongly felt |
 | `sulae` | warm | moderate warmth in air, water, sunlight, or weather |
@@ -1432,7 +1432,7 @@
 | `whelina` | grass | Ground-covering plant |
 | `wheraku` | erode | a geomorphic process driven by water, wind, ice, gravity, organisms, or people |
 | `whesu` | blow | The motion of wind and air |
-| `whilo` | white | the color of snow and cloud |
+| `whilo` | white | fresh snow and pale clouds give familiar white examples |
 | `wirae` | spring (season) | Growth beginning |
 | `wiralu` | runoff | water moving across land or built surfaces |
 | `wiru` | basket | Natural materials |
@@ -1749,7 +1749,7 @@
 | `weilo` | balanced | equilibrium among weights or forces |
 | `welathi` | contagious | transmission capability under stated bodily and environmental conditions |
 | `welira` | thrive | Healthy, successful development |
-| `welisha` | color | The washed surface of seeing |
+| `welisha` | color | a perceived property of surfaces or light |
 | `weloni` | body | The whole living frame |
 | `welotu` | mix | parts moving through one another in a vessel or space |
 | `welua` | fragile | Easily broken |
