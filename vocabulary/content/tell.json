@@ -16,7 +16,7 @@
     "pre-industrial-wisdom": "News, weather, and warning traveled by telling long before writing; the teller's accuracy was the village's safety."
   },
   "semantic_domains": {
-    "community": "How news and stories move between people",
-    "dialogue": "Directed recounting to a listener"
+    "communication": "Directed recounting to a listener",
+    "community": "How news and stories move between people"
   }
 }

@@ -18,8 +18,8 @@
   },
   "semantic_domains": {
     "cognition": "a reference against which properties and performance may be assessed",
-    "creation": "an explicit set of requirements for design, work, or technical provision",
-    "dialogue": "a shareable statement of requirements that may still be disputed or revised"
+    "communication": "a shareable statement of requirements that may still be disputed or revised",
+    "creation": "an explicit set of requirements for design, work, or technical provision"
   },
   "modules": [
     "systems-and-shared-infrastructure",

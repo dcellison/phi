@@ -19,6 +19,6 @@
     }
   ],
   "semantic_domains": {
-    "cognition": "the exact singular quantity and the coefficient one used to build ternary numerals"
+    "quantity": "the exact quantity one and the coefficient one in ternary numerals"
   }
 }

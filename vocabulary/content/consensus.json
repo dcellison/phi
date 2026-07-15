@@ -17,8 +17,8 @@
     "peace-linguistics-practices": "A bounded term prevents silence, exhaustion, compliance, or the absence of a recorded objection from being celebrated automatically as shared agreement."
   },
   "semantic_domains": {
-    "community": "a defined collective decision condition",
-    "dialogue": "public stances considered under a stated consensus rule"
+    "communication": "public stances considered under a stated consensus rule",
+    "community": "a defined collective decision condition"
   },
   "modules": [
     "commons-and-collective-governance"

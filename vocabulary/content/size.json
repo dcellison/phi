@@ -28,6 +28,7 @@
   ],
   "semantic_domains": {
     "physical": "the overall extent of a physical thing",
+    "quantity": "overall extent treated as a dimension for comparison or measurement",
     "spatial": "scale considered across a thing's dimensions as a whole"
   }
 }

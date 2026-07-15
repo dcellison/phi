@@ -32,6 +32,7 @@
     "peace-linguistics-practices": "Criticism stays less violent when it identifies the ill-judged act and its effects instead of declaring that a person belongs to an inferior class."
   },
   "semantic_domains": {
-    "cognition": "an act or choice made without enough attention or sound judgement"
+    "cognition": "an act or choice made without enough attention to what it requires",
+    "wisdom": "sound judgement absent where the circumstances call for it"
   }
 }

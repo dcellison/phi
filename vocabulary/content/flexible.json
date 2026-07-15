@@ -22,7 +22,6 @@
     }
   ],
   "semantic_domains": {
-    "physical": "bending or changing shape without damage",
-    "wisdom": "plans or responses able to adjust without losing purpose"
+    "physical": "bending or changing shape without damage"
   }
 }

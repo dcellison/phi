@@ -18,7 +18,7 @@
   },
   "semantic_domains": {
     "cognition": "tools for thought extending memory and enabling complex reasoning",
-    "dialogue": "asynchronous communication between writer and reader across time",
+    "communication": "asynchronous communication between writer and reader across time",
     "physical": "tangible objects that can be held, carried, and preserved"
   }
 }

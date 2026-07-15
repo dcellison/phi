@@ -18,8 +18,8 @@
   },
   "semantic_domains": {
     "activity": "seeking a view before a pending action",
-    "community": "considering an affected person's knowledge or experience",
-    "dialogue": "an exchange intended to inform later action"
+    "communication": "an exchange intended to inform later action",
+    "community": "considering an affected person's knowledge or experience"
   },
   "modules": [
     "accessibility-and-participation",

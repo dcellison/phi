@@ -26,8 +26,7 @@
     "peace-linguistics-practices": "Separating a task from its assignment and acceptance keeps an expected action from being mistaken for consent."
   },
   "semantic_domains": {
-    "activity": "one bounded unit of intended or discussed work",
-    "cognition": "a selected scope for planning and status description"
+    "activity": "one bounded unit of intended or discussed work"
   },
   "modules": [
     "household-and-daily-life",

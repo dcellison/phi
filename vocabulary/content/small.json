@@ -22,6 +22,7 @@
   ],
   "semantic_domains": {
     "physical": "small overall size or amount relative to the immediate comparison",
+    "quantity": "a small amount when the comparison concerns quantity rather than spatial extent",
     "spatial": "limited extent considered as a whole rather than along one axis"
   }
 }

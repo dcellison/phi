@@ -18,7 +18,7 @@
   },
   "semantic_domains": {
     "cognition": "demonstrating that a claim or inference fails",
-    "dialogue": "a decisive challenge supported by reasons or evidence"
+    "communication": "a decisive challenge supported by reasons or evidence"
   },
   "modules": [
     "philosophical-reasoning"

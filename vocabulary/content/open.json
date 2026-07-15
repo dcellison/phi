@@ -33,7 +33,7 @@
   },
   "semantic_domains": {
     "activity": "the act that produces an open state",
-    "dialogue": "beginning access to an exchange or response",
+    "communication": "beginning access to an exchange or response",
     "spatial": "removing or moving a closure so passage, access, flow, or view becomes possible"
   }
 }

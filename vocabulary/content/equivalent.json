@@ -18,7 +18,7 @@
   },
   "semantic_domains": {
     "cognition": "a selected match in meaning or function",
-    "dialogue": "comparison between different expressions or formats"
+    "communication": "comparison between different expressions or formats"
   },
   "modules": [
     "accessibility-and-participation",

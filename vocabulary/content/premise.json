@@ -18,7 +18,7 @@
   },
   "semantic_domains": {
     "cognition": "a proposition serving as a starting point in inference",
-    "dialogue": "a claim participants can grant, question, or revise explicitly"
+    "communication": "a claim participants can grant, question, or revise explicitly"
   },
   "modules": [
     "philosophical-reasoning"

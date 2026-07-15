@@ -18,7 +18,7 @@
   },
   "semantic_domains": {
     "cognition": "a scoped case that disproves a general claim as stated",
-    "dialogue": "a concrete way to challenge overgeneralization",
+    "communication": "a concrete way to challenge overgeneralization",
     "wisdom": "attention to particulars that resist an overly broad rule"
   },
   "modules": [

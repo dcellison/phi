@@ -19,8 +19,6 @@
     "secular-buddhist-philosophy": "Phi compares numerical zero with an empty interval when discussing absence or pause. That metaphor is narrower than Buddhist emptiness and does not translate it."
   },
   "semantic_domains": {
-    "cognition": "the exact mathematical value for absence of quantity",
-    "temporal": "zero in a counted span and metaphorical pauses between events",
-    "wisdom": "a Phi-specific comparison between numerical zero and an empty interval"
+    "quantity": "the exact numerical value for no counted members"
   }
 }

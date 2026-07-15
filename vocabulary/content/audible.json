@@ -18,7 +18,7 @@
   },
   "semantic_domains": {
     "aesthetic": "sound distinguishable within an acoustic setting",
-    "dialogue": "speech available to a stated listener",
+    "communication": "speech available to a stated listener",
     "physical": "hearing under particular bodily and environmental conditions"
   },
   "modules": [

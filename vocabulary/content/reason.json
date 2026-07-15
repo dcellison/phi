@@ -19,7 +19,7 @@
   },
   "semantic_domains": {
     "cognition": "a consideration that supports acceptance or action",
-    "dialogue": "a ground offered so others can examine a claim or choice",
+    "communication": "a ground offered so others can examine a claim or choice",
     "wisdom": "deliberative support whose relevance and limits can be considered"
   }
 }

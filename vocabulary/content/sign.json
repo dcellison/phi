@@ -17,7 +17,7 @@
     "peace-linguistics-practices": "Signs enable communication—shared symbols allowing understanding across languages."
   },
   "semantic_domains": {
-    "creation": "Communication object",
-    "dialogue": "Visual message"
+    "communication": "Visual message",
+    "creation": "Communication object"
   }
 }

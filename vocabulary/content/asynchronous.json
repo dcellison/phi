@@ -18,7 +18,7 @@
   },
   "semantic_domains": {
     "activity": "actions contributing to one process at different times",
-    "dialogue": "an exchange without simultaneous presence",
+    "communication": "an exchange without simultaneous presence",
     "temporal": "participation separated across time"
   },
   "modules": [

@@ -25,7 +25,6 @@
   "semantic_domains": {
     "aesthetic": "an unmixed colour, tone, or formal quality",
     "cognition": "one intention, factor, or line of thought considered without another mixed through it",
-    "physical": "material treated as unmixed under the stated conditions",
-    "wisdom": "purity used in a philosophical source without turning it into a judgement of human worth"
+    "physical": "material treated as unmixed under the stated conditions"
   }
 }

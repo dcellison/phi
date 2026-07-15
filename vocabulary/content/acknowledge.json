@@ -18,7 +18,7 @@
   },
   "semantic_domains": {
     "cognition": "requires mindful attention to truly see another",
-    "community": "confirms someone's presence within social fabric",
-    "dialogue": "validates and recognizes others through communication"
+    "communication": "validates and recognizes others through communication",
+    "community": "confirms someone's presence within social fabric"
   }
 }

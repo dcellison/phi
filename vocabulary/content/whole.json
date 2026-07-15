@@ -29,10 +29,7 @@
     "solarpunk-values": "Regenerative work often asks whether a repair restores relations around the damaged part. 'whoa' can name the resulting wholeness once the boundary and the included parts are clear."
   },
   "semantic_domains": {
-    "aesthetic": "a form perceived as intact and unified",
-    "cognition": "all parts selected for an analysis considered together",
-    "community": "members included in the community understood as one connected body",
     "physical": "an object or body whose relevant parts are present and joined",
-    "wisdom": "attention to relations among parts without losing sight of the whole"
+    "quantity": "all relevant parts included in the total under discussion"
   }
 }

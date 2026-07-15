@@ -27,7 +27,8 @@
     "peace-linguistics-practices": "A sincere apology or promise reports a real intention, but sincerity does not settle effect or repair. Keeping those questions apart protects candour from becoming self-excuse."
   },
   "semantic_domains": {
-    "dialogue": "expression that matches the feeling or intention it presents",
-    "emotion": "genuine feeling made present in words or gesture"
+    "communication": "expression that matches the feeling or intention it presents",
+    "emotion": "genuine feeling made present in words or gesture",
+    "ethics": "a claimed feeling or intention matched by its expression"
   }
 }

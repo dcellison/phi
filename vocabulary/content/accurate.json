@@ -32,7 +32,6 @@
     "peace-linguistics-practices": "Calling a record inaccurate directs attention to the mismatch that can be checked and repaired. It need not turn the person who made it into the object of blame."
   },
   "semantic_domains": {
-    "cognition": "agreement between a representation and the fact or reference it represents",
-    "wisdom": "factual care that remains open to checking and correction"
+    "cognition": "agreement between a representation and the fact or reference it represents"
   }
 }

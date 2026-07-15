@@ -18,7 +18,7 @@
   },
   "semantic_domains": {
     "cognition": "identifying a specific problem in reasoning",
-    "dialogue": "placing a challenge into discussion for response"
+    "communication": "placing a challenge into discussion for response"
   },
   "modules": [
     "commons-and-collective-governance",

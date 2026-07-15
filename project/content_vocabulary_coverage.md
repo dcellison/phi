@@ -29,6 +29,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Aesthetic and formal qualities | **DONE** | Thirteen inherited base adjectives now use the target prose contract, with `mioru` as the already-migrated anchor. Applied ornament remains a review question rather than a hurried coinage. |
 | Awareness and epistemic qualities | **DONE** | Fifteen inherited entries now use the target prose contract. The scan of confusion, uncertainty, distraction, non-knowledge, obviousness, and general cognitive ability found no missing base root. |
 | Ethics, care, and candour | **DONE** | Eleven inherited entries now use the target prose contract, with `thua` (fair) as an already-migrated anchor. Deliberate or callous infliction of suffering remains a lexical review question. |
+| Semantic-domain contract and target-entry audit | **DONE** | The stable browse catalogue now has fifteen domains. All 133 target-contract content entries have been checked against its retrieval rule. |
 | Resume inherited content prose migration | **NEXT** | Continue after the ethics, care, and candour batch. Each semantic group passes through this coverage gate. |
 
 ## Batch overview
@@ -45,6 +46,29 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Aesthetic and formal qualities | [PR #364](https://github.com/dcellison/phi/pull/364) | **REVIEW** | The ordinary distinctions are covered. Phi can describe ornamented work but does not yet name an applied ornament or the act of decorating directly. |
 | Awareness and epistemic qualities | [PR #365](https://github.com/dcellison/phi/pull/365) and [PR #366](https://github.com/dcellison/phi/pull/366) | **COVERED** | Direct words and established constructions keep consciousness, attention, truth, accuracy, error, uncertainty, insight, intuition, understanding, and judgement apart without a new base root. |
 | Ethics, care, and candour | [PR #367](https://github.com/dcellison/phi/pull/367) | **REVIEW** | The ordinary distinctions are covered. Phi can describe cruel conduct in clauses, but recurring ethical use makes a direct word for deliberate or callous infliction of suffering worth testing. |
+
+## Semantic batches and stable domains
+
+A semantic batch is a temporary work package. It brings neighbouring content words through prose migration and the coverage gate together. A semantic domain is a lasting browse route in the lexicon. The two structures should agree about meaning, but they do not need matching names or boundaries.
+
+The crosswalk below records where each completed batch puts the most pressure on the stable catalogue. It is an audit aid, not a rule that assigns every word in a row to every named domain.
+
+| Migration batch | Stable domains most often exercised | Boundary to keep visible |
+|---|---|---|
+| Core material qualities | `physical` | Material response does not make every word an act of `creation`. |
+| Environmental and spatial qualities | `nature`, `physical`, `spatial` | Environmental examples do not turn every physical quality into a nature word. |
+| Size, extent, and distance | `spatial`, `physical`, `quantity` | Comparative adjectives and named measurement dimensions remain distinct. |
+| Pace, motion, and equilibrium | `temporal`, `physical`, `activity` | Rate, movement, and the act being timed each keep their own route. |
+| Color | `aesthetic`, `physical` | A natural comparison for a hue is an example, not a `nature` assignment. |
+| Strength, deformation, and recovery | `physical`, `activity`, `creation` | Force, adjustment in a plan, and the construction of a sturdy object are separate senses. |
+| Sensory and perceptual qualities | `physical`, `cognition`, `aesthetic` | A bodily channel, the perception it yields, and appreciation of the result need not coincide. |
+| Aesthetic and formal qualities | `aesthetic`, `physical`, `cognition` | Formal simplicity or precision may concern an explanation without becoming `wisdom`. |
+| Awareness and epistemic qualities | `cognition`, `wisdom`, `communication` | Attention is cognitive; sound judgement is wisdom; an account offered to another person is communication. |
+| Ethics, care, and candour | `ethics`, `community`, `communication`, `emotion` | Conduct, social relation, expression, and feeling remain separately retrievable. |
+
+The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
+
+The rename from `dialogue` to `communication` applies across the lexicon because two identifiers would split one browse route. This audit adds `ethics` and `quantity` where they belong and applies the stricter pruning rule to all 133 target-contract content entries. Legacy entries keep their present assignments until their prose batch reaches this gate, so raw domain totals are migration counts rather than a comparison of the subjects' importance.
 
 ## Audit method
 

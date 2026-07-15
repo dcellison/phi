@@ -17,8 +17,8 @@
     "peace-linguistics-practices": "An interface names the conditions of interaction without assuming that either side understands, accepts, or can use what the other presents."
   },
   "semantic_domains": {
+    "communication": "an informational interface can mediate exchange without guaranteeing understanding",
     "creation": "a designed means through which systems or components interact",
-    "dialogue": "an informational interface can mediate exchange without guaranteeing understanding",
     "spatial": "a boundary or contact location across which exchange occurs"
   },
   "modules": [

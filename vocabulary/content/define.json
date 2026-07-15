@@ -18,7 +18,7 @@
   },
   "semantic_domains": {
     "cognition": "setting out a term's meaning or conditions of application",
-    "dialogue": "making a proposed usage boundary explicit for others",
+    "communication": "making a proposed usage boundary explicit for others",
     "wisdom": "examining both the usefulness and limits of categories"
   },
   "modules": [

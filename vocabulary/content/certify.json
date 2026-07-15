@@ -18,8 +18,8 @@
   "semantic_domains": {
     "activity": "issuing or maintaining a formal criteria claim",
     "cognition": "a recorded conclusion based on stated criteria",
-    "community": "a status attributed by a named person or institution",
-    "dialogue": "a formal claim whose source and scope can be challenged"
+    "communication": "a formal claim whose source and scope can be challenged",
+    "community": "a status attributed by a named person or institution"
   },
   "modules": [
     "work-craft-and-repair"

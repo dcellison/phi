@@ -18,7 +18,7 @@
   },
   "semantic_domains": {
     "cognition": "a particular case used to illuminate a broader idea",
-    "dialogue": "a case speakers can offer, compare, and discuss explicitly"
+    "communication": "a case speakers can offer, compare, and discuss explicitly"
   },
   "modules": [
     "philosophical-reasoning"

@@ -10,7 +10,7 @@ The JSON entries in this directory are Phi's canonical lexicon. Each file record
 | [`function/`](function/) | Grammatical words, divided into their function classes. |
 | [`interjection/`](interjection/) | Conventional whole utterances such as greetings and reactions. |
 | [`schema.json`](schema.json) | The machine-readable entry contract and the canonical identifiers for fields, parts of speech, pillars, semantic domains, and modules. |
-| [`semantic_domains.md`](semantic_domains.md) | The thirteen semantic domains and the guidance for assigning them. |
+| [`semantic_domains.md`](semantic_domains.md) | The fifteen semantic domains and the guidance for assigning them. |
 
 Module membership does not create a second lexicon. A content entry may name several optional learning paths in its `modules` array, while the absence of that field places the word in base vocabulary. Either way, the word follows the same grammar.
 

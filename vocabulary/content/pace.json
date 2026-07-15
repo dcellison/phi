@@ -18,7 +18,7 @@
   },
   "semantic_domains": {
     "activity": "rate and rhythm of a continuing action",
-    "dialogue": "speed at which an exchange proceeds",
+    "communication": "speed at which an exchange proceeds",
     "temporal": "movement distributed through time"
   },
   "modules": [

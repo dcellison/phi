@@ -18,7 +18,7 @@
   },
   "semantic_domains": {
     "cognition": "the proposition reached from stated premises",
-    "dialogue": "the result of an argument that participants may assess separately"
+    "communication": "the result of an argument that participants may assess separately"
   },
   "modules": [
     "philosophical-reasoning"
