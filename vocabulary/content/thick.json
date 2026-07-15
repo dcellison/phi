@@ -7,16 +7,22 @@
     "ru"
   ],
   "pos": "adjective",
-  "concept": "Thick / Of Great Depth or Density / Substantial",
-  "description": "With opposite sides or surfaces relatively far apart; dense or substantial. 'Theru' names the quality of thickness—material depth, substantial presence.",
-  "sound_symbolism": "The word has substance. 'The' /θe/ begins with solid breath, density forming. Then 'ru' fills with presence, thickness established.",
-  "grammatical_notes": "Functions as an adjective: 'theru moru' (thick wall). Opposite of 'lemi' (thin). Can describe physical thickness or density of liquids, fog, etc.",
-  "pillars": {
-    "art-nouveau-aesthetics": "Thick lines created emphasis—varying line weight gave drawings depth and focus.",
-    "pre-industrial-wisdom": "Thick walls held warmth—substantial construction protected against elements."
-  },
+  "search_terms": [
+    "dense",
+    "substantial",
+    "viscous"
+  ],
+  "description": "The adjective 'theru' applies when the distance between opposing surfaces or the breadth of a cross-section is substantial. It also covers material with dense or viscous body, as in 'theru loesi' (thick oil), and a form well filled out. Width is 'losha' (wide), a different measurement from thickness.",
+  "articulatory_notes": "The tongue approaches the upper teeth for voiceless 'th', with air continuing into true-mid front 'e'. A tap or short trill begins the second syllable and releases into rounded high-back 'u'. Stress rests on 'the'.",
+  "usage_notes": "The phrase 'theru moru' describes a thick wall, and 'theru nuko loesi' is thick black oil. For a wall, thickness runs between its faces; 'nulo' (deep) instead follows distance inward or downward.",
+  "examples": [
+    {
+      "phi": "moru theru nai.",
+      "translation": "The wall is thick."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Great depth",
-    "spatial": "Substantial presence"
+    "physical": "substantial material thickness, density, or viscosity",
+    "spatial": "a relatively large distance between opposing surfaces or across a cross-section"
   }
 }

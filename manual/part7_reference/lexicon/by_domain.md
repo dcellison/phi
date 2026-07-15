@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (166)
+## activity (168)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -29,6 +29,7 @@
 | `kawhera` | coerce | constraining practical choice through a stated power or threat |
 | `kelasu` | usable | practical use for a stated person and purpose |
 | `kelitho` | function | performance of a characteristic or required system operation |
+| `kethua` | hard | a task or condition that demands substantial effort |
 | `ketora` | control | adjustment or constraint of a technical process |
 | `kiranu` | qualified | eligibility for a stated role or activity |
 | `kisome` | assess | evaluating a performance, state, or result |
@@ -158,6 +159,7 @@
 | `tiwa` | tie | Fastening with cord |
 | `tukelu` | recycle | processing recovered or discarded material into another input or material |
 | `tukiro` | review | systematically reconsidering a prior matter |
+| `tumoa` | heavy | work or obligation experienced as burdensome through metaphorical weight |
 | `tupeka` | burden | a difficult demand borne through action or responsibility |
 | `tupi` | jump | The body's spring |
 | `turelo` | feedback | a returned effect that alters an ongoing process |
@@ -179,15 +181,13 @@
 | `wiresu` | postpone | moving a planned action to a later time |
 | `wishe` | swim | The body's water-travel |
 
-## aesthetic (81)
+## aesthetic (78)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `helia` | youth | the beauty of new growth |
-| `helu` | smooth | Flowing texture |
 | `hewasu` | audible | sound distinguishable within an acoustic setting |
 | `horae` | radiant | Light-emanating |
-| `keloa` | rough | Textured |
 | `keru` | bright | Strong light |
 | `kire` | shape | Discovering and creating beauty in form |
 | `kirero` | quality | a possible dimension of quality when explicitly named |
@@ -263,7 +263,6 @@
 | `whilo` | white | visual quality of maximum light |
 | `whoa` | whole | harmony and completeness |
 | `wira` | window | View portal |
-| `wuloe` | soft | Comfortable quality |
 
 ## cognition (245)
 
@@ -436,7 +435,7 @@
 | `sholei` | gather | Names arithmetic addition through a gathering metaphor |
 | `shonela` | learn | fundamental process of acquiring and integrating knowledge |
 | `shoraku` | interpret | understanding one expression well enough to convey its meaning |
-| `shoru` | dull | Not acute |
+| `shoru` | dull | attention or thought with reduced acuity |
 | `sikanu` | certify | a recorded conclusion based on stated criteria |
 | `sirami` | record | a durable account with source and version |
 | `sirelu` | disclose | movement of previously held knowledge |
@@ -485,7 +484,7 @@
 | `thunai` | student | Receptive mind |
 | `thunaro` | train | structured learning through instruction and feedback |
 | `thuni` | intuitive | Direct knowing |
-| `tiso` | sharp | Keen perception |
+| `tiso` | sharp | keen attention or thought that detects fine distinctions |
 | `tukiro` | review | reassessment under stated evidence and criteria |
 | `turelo` | feedback | a relation used to explain changing system behavior |
 | `waeli` | conscious | Awareness state |
@@ -801,7 +800,7 @@
 | `wonepa` | table | Where the meal gathers |
 | `woru` | keeper | Guardian role |
 
-## creation (168)
+## creation (167)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -821,7 +820,6 @@
 | `kenoa` | hemp | Durable fiber |
 | `keritha` | workshop | Craft place |
 | `keruko` | sturdy | Durable quality |
-| `kethua` | hard | the property enabling tool and shelter |
 | `ketora` | control | a designed relation used to influence system behavior |
 | `kima` | scribe | Written preservation |
 | `kiphira` | fault | a condition relevant to diagnosis, repair, and maintained function |
@@ -974,7 +972,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## dialogue (110)
+## dialogue (111)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -986,6 +984,7 @@
 | `howela` | receive | receiving is fundamental to exchange and reciprocity |
 | `kapura` | shout | forceful or urgent vocalization |
 | `kela` | rejoice | Expressing joy to others |
+| `keloa` | rough | an abrasive texture extended to the delivery of a voice or utterance |
 | `kiroa` | sign | Visual message |
 | `kirothe` | define | making a proposed usage boundary explicit for others |
 | `kirowi` | signal | a technical communication relation that does not guarantee shared meaning |
@@ -1089,7 +1088,7 @@
 | `whekate` | refute | a decisive challenge supported by reasons or evidence |
 | `whishela` | whisper | Speech made of breath |
 
-## emotion (111)
+## emotion (110)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1152,7 +1151,6 @@
 | `phamo` | console | Accompanying grief |
 | `phelora` | beautiful | catches breath with recognition and resonant joy |
 | `phena` | kind | expresses care and compassion through feeling and action |
-| `pheno` | full | Complete satisfaction |
 | `phesua` | inspire | transforms states from dormancy to excitement and urge |
 | `phimela` | kiss | Affection made touch |
 | `puko` | bitter | Unpleasant quality |
@@ -1192,7 +1190,7 @@
 | `thuo` | prosper | Abundant flourishing |
 | `thurai` | vibrant | Energized state |
 | `towe` | well | Wellness |
-| `tumoa` | heavy | Burdened |
+| `tumoa` | heavy | felt heaviness such as grief or restlessness |
 | `wakomi` | surprise | The felt jolt of the unexpected |
 | `waora` | wondrous | The lift of exceeded expectation |
 | `warosha` | reconcile | Processing hurt toward restoration |
@@ -1452,7 +1450,7 @@
 | `hea` | hear | involves the bodily sense and physiological perception of sound |
 | `helanu` | recover | movement toward a prior or desired health state |
 | `helia` | youth | bodily growth and vitality |
-| `helu` | smooth | Even surface quality |
+| `helu` | smooth | an even surface or passage with little catching against touch or motion |
 | `hemilo` | honey | Sweetness that keeps |
 | `heno` | satisfy | Need met |
 | `henora` | capacity | a conditioned amount or rate a material system can hold or handle |
@@ -1475,13 +1473,13 @@
 | `kawepa` | catch | The hand closing on arrival |
 | `kaworu` | injury | a health-relevant bodily change or damage |
 | `kehota` | cough | The airway's clearing burst |
-| `keloa` | rough | Uneven surface |
+| `keloa` | rough | an uneven or coarse surface that catches against touch or motion |
 | `kema` | strong | Having power |
 | `kenua` | energy | Power capacity |
 | `kerou` | stone | solid, heavy, enduring matter |
 | `keru` | bright | High luminosity |
 | `keruko` | sturdy | Strongly built |
-| `kethua` | hard | the quality of solid resistance |
+| `kethua` | hard | resistance to indentation or deformation under pressure |
 | `kiphira` | fault | an abnormal condition in a technical component or relation |
 | `kipona` | pain | The body's sharp signal |
 | `kirato` | lock | a device released by a matching key or method |
@@ -1509,7 +1507,7 @@
 | `kurona` | horn | Living solidity extended |
 | `lathoe` | tongue | Flexible oral muscle |
 | `lawe` | left | Side of the body |
-| `lemi` | thin | Little thickness |
+| `lemi` | thin | little material thickness or sparse substance |
 | `lepa` | fall | Downward motion under gravity |
 | `lima` | alive | Animate state |
 | `limu` | young | Not yet mature |
@@ -1623,13 +1621,13 @@
 | `phareme` | ingredient | an edible substance before or during preparation |
 | `pharoe` | chest | Upper torso containing heart and lungs |
 | `phelasi` | shelf | a level support for kept objects |
-| `phelo` | light | Low weight |
+| `phelo` | light | low physical weight relative to the force needed for lifting or support |
 | `phelona` | require | bodily requirements for sustenance |
 | `phelotu` | format | a sensory form such as audible, visual, or tactile presentation |
 | `phelu` | hold | sustained bodily action of grasping and maintaining possession |
 | `pheluka` | lightning | Electrical light across the sky |
 | `phelure` | store | storage of matter or energy in a bounded arrangement |
-| `pheno` | full | Containing maximum |
+| `pheno` | full | a vessel or form filled to relevant capacity or rounded by its contents |
 | `pheomu` | leftovers | prepared food remaining after an eating occasion |
 | `phialu` | water | tangible substance that can be directly experienced |
 | `philea` | feather | The lightest made thing |
@@ -1684,7 +1682,7 @@
 | `shonui` | ear | Organ of hearing |
 | `shonuwa` | sound | The heard category |
 | `shorenu` | immune | partial or conditional bodily protection |
-| `shoru` | dull | Lacking edge |
+| `shoru` | dull | an edge or point that no longer cuts or pierces readily |
 | `shorui` | weary | Depleted energy |
 | `shorupo` | protect | Creating safety through presence |
 | `shuneki` | vaccinate | an intervention intended to induce bodily protection |
@@ -1716,7 +1714,7 @@
 | `thephaku` | inflammation | a local or systemic bodily response pattern |
 | `therapi` | boil | a liquid state with continuous rising bubbles |
 | `therilu` | rest | the bodily state of stillness and recovery |
-| `theru` | thick | Great depth |
+| `theru` | thick | substantial material thickness, density, or viscosity |
 | `thewuni` | legible | reading conditions involving sight or touch |
 | `thiku` | small | spatial extent and containment |
 | `thinu` | put | deliberate action of positioning objects |
@@ -1730,7 +1728,7 @@
 | `thuroi` | resilient | Able to recover |
 | `tipika` | fingernail | The finger's hard tip |
 | `tiripe` | quiver | Small fast involuntary motion |
-| `tiso` | sharp | Fine edge |
+| `tiso` | sharp | a fine edge or point able to cut or pierce readily |
 | `tiwa` | tie | Made fast against slipping |
 | `toka` | hammer | Shaping force |
 | `tolae` | leg | Lower limbs for support and locomotion |
@@ -1738,7 +1736,7 @@
 | `tukelu` | recycle | a material process with inputs, outputs, losses, and changed properties |
 | `tuko` | sour | Acidic taste |
 | `tulira` | tail | Anatomy past the body |
-| `tumoa` | heavy | Great weight |
+| `tumoa` | heavy | weight that requires substantial force to move or support |
 | `tupeka` | burden | a weight supported by a living body |
 | `tupi` | jump | Leaving the ground |
 | `tupiwa` | rabbit | Softness at speed |
@@ -1779,7 +1777,7 @@
 | `wishe` | swim | Motion through water |
 | `wolu` | healthy | Good condition |
 | `wonepa` | table | The social flat of the house |
-| `wuloe` | soft | Yielding texture |
+| `wuloe` | soft | a yielding texture or contact that cushions pressure |
 
 ## ritual (39)
 
@@ -1825,7 +1823,7 @@
 | `whola` | invite | involves ceremonial protocols and formal gestures of welcome |
 | `whunei` | breathe | Central to meditation practice |
 
-## spatial (152)
+## spatial (153)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1853,7 +1851,7 @@
 | `laniru` | journey | Purposeful travel over distance |
 | `lawe` | left | Body-relative direction |
 | `leko` | surface | Outer layer |
-| `lemi` | thin | Slender form |
+| `lemi` | thin | a small distance between opposing surfaces or across a cross-section |
 | `lepa` | fall | Movement from high to low |
 | `leru` | beach | Wave-shaped land edge |
 | `lerua` | exterior | Outer surface |
@@ -1907,6 +1905,7 @@
 | `phelasi` | shelf | storage arranged along a raised edge |
 | `phemi` | guest | crosses thresholds entering new domains as honored visitor |
 | `phemila` | host | creates and holds open sanctuary spaces for others |
+| `pheno` | full | the degree to which contents occupy a bounded space |
 | `phesari` | flee | movement away from a threatening or intolerable situation |
 | `phewani` | neighbor | defined by proximity and shared physical space |
 | `phirae` | different | the relationship of non-equivalence |
@@ -1950,7 +1949,7 @@
 | `thenoi` | falls-short | Frames relative position in numerical space—one quantity does not extend to another |
 | `thenui` | direct | Guiding toward |
 | `thepalu` | garden | defined location transformed through intentional relationship with land |
-| `theru` | thick | Substantial presence |
+| `theru` | thick | a relatively large distance between opposing surfaces or across a cross-section |
 | `thiku` | small | relationship of scale and dimension |
 | `thinu` | put | establishing specific location and arrangement in space |
 | `thiru` | exit | Outward movement |
@@ -1973,7 +1972,7 @@
 | `whalo` | large | relationship of scale and dimension |
 | `whano` | stand | vertical positioning that establishes presence and place |
 | `whelani` | welcome | movement from outside to inside, crossing thresholds |
-| `whemoa` | empty | Containing nothing |
+| `whemoa` | empty | a bounded container or place with no contents or occupants |
 | `whenola` | wander | Undirected movement through space |
 | `whola` | invite | explicitly opens spaces and creates paths for others to enter |
 | `wira` | window | Light opening |
@@ -2157,7 +2156,7 @@
 | `wiroa` | hopeful | Future-oriented |
 | `woru` | keeper | Maintaining presence |
 
-## wisdom (199)
+## wisdom (198)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2242,7 +2241,6 @@
 | `phaelu` | peaceful | Core Phi quality |
 | `phari` | pen | Recording thought |
 | `phelira` | mistaken | awareness that invites correction |
-| `phelo` | light | Unburdened |
 | `pheloma` | serve | understanding interdependence and collective wellbeing |
 | `phelu` | hold | knowing how to maintain without clinging |
 | `phena` | kind | requires mindful awareness and cultivated response |
@@ -2350,7 +2348,7 @@
 | `wesoma` | mutual | understanding interdependence requires deep insight |
 | `whamoi` | doubt | recognition that judgment may remain open while inquiry continues |
 | `whano` | stand | standing meditation and practice of mindful presence |
-| `whemoa` | empty | Openness |
+| `whemoa` | empty | the quality noun used in Phi philosophical texts when emptiness itself is examined |
 | `whemura` | dream | Source of insight and vision |
 | `whenola` | wander | Openness to unplanned discovery |
 | `wheo` | elder | holds experiential knowledge from long living |

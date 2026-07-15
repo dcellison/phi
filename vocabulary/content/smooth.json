@@ -7,16 +7,20 @@
     "lu"
   ],
   "pos": "adjective",
-  "concept": "Smooth / Without Roughness / Flowing Evenly",
-  "description": "Having an even surface without bumps or ridges; flowing without interruption. 'Helu' names the quality of frictionless passage—surfaces that glide, transitions that flow, movement without obstacle.",
-  "sound_symbolism": "The word glides without friction. 'He' begins with open breath, air passing freely. Then 'lu' flows liquid and easy, the smooth continuation.",
-  "grammatical_notes": "An adjective: 'helu kerou' (smooth stone). Smoothness, the noun, comes by the quality-noun rule; smoothing is caused becoming ('ka kelu'). Related to 'luwae' (graceful) in implying ease of flow.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Smooth mind, smooth action—the quality of moving through life without creating friction or resistance.",
-    "art-nouveau-aesthetics": "Smooth curves and flowing lines defined Art Nouveau—surfaces without harsh edges, forms that flow into each other."
-  },
+  "search_terms": [
+    "even surface"
+  ],
+  "description": "A surface is 'helu' when it is even, with few bumps or ridges to catch touch or motion. The adjective can also describe hair or movement that proceeds without jolts. The word 'luwae' (graceful) adds an aesthetic judgement; 'helu' reports physical continuity.",
+  "articulatory_notes": "Open breath through the glottis carries 'h' into true-mid front 'e'. The tongue tip then contacts the alveolar ridge for 'l', and air escapes along its sides into rounded high-back 'u'. The first syllable carries the word's stress.",
+  "sound_symbolism": "Breath passes freely through 'h' and then continues around the sides of the tongue at 'l'. That uninterrupted route can help a speaker remember an even surface.",
+  "usage_notes": "The phrase 'helu kerou' means smooth stone. Applied to motion, 'helu' reports passage without a catch or jolt.",
+  "examples": [
+    {
+      "phi": "kerou helu nai.",
+      "translation": "The stone is smooth."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Flowing texture",
-    "physical": "Even surface quality"
+    "physical": "an even surface or passage with little catching against touch or motion"
   }
 }

@@ -8,16 +8,21 @@
     "a"
   ],
   "pos": "adjective",
-  "concept": "Hard / Firm-Solid / Resistance-Full",
-  "description": "The adjective naming the quality of resisting pressure, the firmness that does not yield to touch or force. In Phi, hardness is understood as structural integrity, the quality that enables support, protection, and endurance. This word names the property that makes tools possible, shelters reliable, and bones sturdy.",
-  "sound_symbolism": "The word opens with 'ke', where the velar stop creates definite resistance—the moment of touching hard surface and finding it does not give. This breathes through 'thu', where the dental fricative adds solidity's subtle quality, its textured presence. The final 'a' opens to hardness as quality, as fullness of resistance. The arc traces hardness: resistance, solid presence, completeness.",
-  "grammatical_notes": "Functions as an adjective preceding nouns: 'kethua kerou' (hard stone). Describes physical objects or metaphorically difficult situations. Often contrasted with 'wuloe' (soft).",
-  "pillars": {
-    "art-nouveau-aesthetics": "Art Nouveau worked with hard materials—iron, stone, glass—to create flowing forms. 'Kethua' names the resistance that art shapes.",
-    "pre-industrial-wisdom": "Hard materials enabled tools, shelter, and survival. 'Kethua' names the quality that craft requires."
-  },
+  "search_terms": [
+    "firm",
+    "difficult"
+  ],
+  "description": "Material is 'kethua' when it resists indentation or deformation under ordinary pressure. The adjective also marks a task or condition that demands substantial effort. Glass shows why hard is not the same as 'kema' (strong) or 'keruko' (sturdy): a hard surface may still break.",
+  "articulatory_notes": "The back of the tongue closes against the soft palate for 'k' and releases into true-mid front 'e'. The tongue then approaches the upper teeth for voiceless 'th', with breath continuing into rounded high-back 'u'. Stress falls on 'thu'; final 'a' opens as a separate unstressed syllable.",
+  "usage_notes": "The phrase 'kethua kerou' means hard stone. When difficulty is intended, the task or condition takes the adjective. The word 'kema' describes capacity for force, while 'keruko' describes construction that withstands use.",
+  "examples": [
+    {
+      "phi": "kerou kethua nai.",
+      "translation": "The stone is hard."
+    }
+  ],
   "semantic_domains": {
-    "creation": "the property enabling tool and shelter",
-    "physical": "the quality of solid resistance"
+    "activity": "a task or condition that demands substantial effort",
+    "physical": "resistance to indentation or deformation under pressure"
   }
 }

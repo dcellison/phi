@@ -8,16 +8,25 @@
     "a"
   ],
   "pos": "adjective",
-  "concept": "Empty / Containing Nothing / Void of Contents",
-  "description": "Containing nothing; not filled or occupied. 'Muloe' names the quality of emptiness—space that holds no contents, vessel ready to receive.",
-  "sound_symbolism": "The word begins with 'whe', the voiceless breath moving over the void—the most immaterial sound the mouth can make, air shaped by almost nothing. At its center is 'mo', where the nasal 'm' gives the emptiness an interior—a hollow, not an absence—and the round 'o' curves like the inside of an unfilled bowl. The word opens completely in the final 'a': pure space, nothing held, everything possible. Breath, hollow, opening—'whemoa' empties as it is spoken, ending with the mouth at its widest and nothing in the way.",
-  "grammatical_notes": "Functions as an adjective: 'whemoa noru' (empty bowl). Opposite of 'pheno' (full).",
+  "search_terms": [
+    "vacant",
+    "unoccupied"
+  ],
+  "description": "A vessel or bounded place is 'whemoa' when it has nothing inside it. The adjective contrasts with 'pheno' (full), while 'mu' (zero) and 'mawha' (NONE) state quantity rather than the condition of the vessel or place. In a noun position, the same form names emptiness.",
+  "articulatory_notes": "Rounded lips and a raised back tongue form voiceless 'wh', then unround into true-mid front 'e'. The lips close for nasal 'm' and reopen into rounded mid-back 'o'. Stress falls on 'mo'; final open central 'a' follows as a separate unstressed syllable.",
+  "sound_symbolism": "The word moves from unvoiced breath through the closed lips of 'm' and ends with the mouth open on 'a'. That passage through enclosure into open space can recall an emptied vessel.",
+  "usage_notes": "The phrase 'whemoa noru' means an empty bowl. In a noun position, 'whemoa' means emptiness, the form used in the Heart Sutra rendering.",
+  "examples": [
+    {
+      "phi": "noru whemoa nai.",
+      "translation": "The bowl is empty."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Emptiness (sunyata) is not nothingness but openness—empty of fixed self, full of possibility.",
-    "art-nouveau-aesthetics": "Empty space shaped design—negative space as essential as positive form."
+    "secular-buddhist-philosophy": "The Heart Sutra rendering uses the quality noun 'whemoa' for emptiness while the ordinary image of an empty vessel remains audible; the sutra, not the adjective alone, carries the metaphysical argument."
   },
   "semantic_domains": {
-    "spatial": "Containing nothing",
-    "wisdom": "Openness"
+    "spatial": "a bounded container or place with no contents or occupants",
+    "wisdom": "the quality noun used in Phi philosophical texts when emptiness itself is examined"
   }
 }

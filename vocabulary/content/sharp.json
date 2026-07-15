@@ -7,16 +7,22 @@
     "so"
   ],
   "pos": "adjective",
-  "concept": "Sharp / Having Fine Edge or Point / Keen",
-  "description": "Having an edge or point able to cut or pierce; keen and precise. 'Tiso' names the quality of sharpness—fine edge, pointed precision.",
-  "sound_symbolism": "The word cuts clean. 'Ti' begins with precise point, edge defined. Then 'so' completes with clean certainty, sharpness achieved.",
-  "grammatical_notes": "Functions as an adjective: 'tiso kiru' (a sharp chisel). Opposite of 'shoru' (dull). Can describe physical edges or mental acuity.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Sharp awareness cuts through confusion—the keen mind perceives clearly.",
-    "pre-industrial-wisdom": "Sharp tools required less force—well-maintained edges made work easier and safer."
-  },
+  "search_terms": [
+    "keen",
+    "cutting edge"
+  ],
+  "description": "An edge or point is 'tiso' when it is fine enough to cut or pierce readily. The adjective extends to perception or thought that detects distinctions keenly. The word 'kiro' (precise) concerns exactness against a standard; sharp perception may still reach an imprecise conclusion.",
+  "articulatory_notes": "The tongue tip closes against the upper teeth for dental 't' and releases into high-front 'i'. A narrow groove along the tongue directs voiceless 's' before the lips round for mid-back 'o'. Stress falls on the first syllable.",
+  "sound_symbolism": "The clean dental release into high 'i' and the narrow hiss of 's' give 'tiso' a crisp, fine-edged contour. That contour offers a mnemonic for a keen edge.",
+  "usage_notes": "The phrase 'tiso kiru' means a sharp chisel. Established figurative uses include 'tiso remo' (sharp thought) and 'tiso mirae' (sharp eye).",
+  "examples": [
+    {
+      "phi": "kiru tiso nai.",
+      "translation": "The chisel is sharp."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "Keen perception",
-    "physical": "Fine edge"
+    "cognition": "keen attention or thought that detects fine distinctions",
+    "physical": "a fine edge or point able to cut or pierce readily"
   }
 }
