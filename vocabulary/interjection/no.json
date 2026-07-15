@@ -7,14 +7,21 @@
     "a"
   ],
   "pos": "interjection",
-  "concept": "No / Negation / Refusal",
-  "description": "An interjection expressing negation, disagreement, or refusal. It answers questions, declines requests, and corrects statements; the CVV structure keeps the refusal clear without making it sharp.",
-  "sound_symbolism": "The interjection begins with 't', a clear dental stop that creates definite contact—tongue against teeth like a gentle but firm boundary. This meets 'u', the deep back vowel that provides grounding and substance. The hiatus opens into 'a', allowing the boundary to be expressed openly and clearly. The progression from firm grounding ('tu') to open expression ('a') mirrors the movement from internal resolve to external clarity. The sound is clear and definite without being harsh—the stop consonant establishes the boundary while the open vowel softens it.",
-  "grammatical_notes": "Functions as a complete utterance expressing negation. Can respond to questions, requests, or statements. Context and prosody determine whether 'tua' expresses simple factual negation ('no, that's not correct'), personal boundary ('no, I won't do that'), or gentle disagreement ('no, I see it differently'). Can be repeated for emphasis ('tua tua' for firm refusal). May combine with gesture or intonation to convey different shades of refusal.",
+  "search_terms": [
+    "negative answer",
+    "refusal",
+    "disagreement"
+  ],
+  "description": "When the answer is no, 'tua' is a complete utterance. It answers a polar question negatively, declines requests, or rejects a claim. 'ma' (NEG) negates a clause and 'naweri' (refuse) states refusal as a verb; 'tua' handles the conversational turn by itself.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper front teeth for unvoiced dental 't' and release it as the tongue draws back and the lips round for high-back 'u'. The jaw then lowers into open central 'a' in a separate syllable. Stress 'tu'.",
+  "usage_notes": "A bare 'tua' is sufficient. A speaker may follow it with an explanation, but the grammar does not require one.",
+  "examples": [
+    {
+      "phi": "tua.",
+      "translation": "No."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Building sustainable systems requires the ability to say no to harmful practices. 'Tua' provides the linguistic tool for clear refusal essential to protecting resources, energy, and community wellbeing from exploitation.",
-    "secular-buddhist-philosophy": "The interjection embodies Right Speech in its negative form—the wisdom to know when negation serves truth and compassion. Like the Buddhist understanding that 'no' to one thing is 'yes' to another, 'tua' acknowledges that conscious refusal can be as spiritual as acceptance.",
-    "peace-linguistics-practices": "By providing a clear but non-aggressive way to express negation, 'tua' enables healthy boundaries without verbal violence. It transforms 'no' from rejection to clarification, making disagreement a form of honest communication rather than conflict.",
-    "pre-industrial-wisdom": "Traditional communities understand that clear boundaries maintain healthy relationships. 'Tua' carries the wisdom that saying no when necessary preserves the integrity needed for genuine yes, that refusal can be a gift when offered with respect."
+    "peace-linguistics-practices": "A full utterance of refusal gives a boundary equal grammatical weight to assent and requires no justification."
   }
 }

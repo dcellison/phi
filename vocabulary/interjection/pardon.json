@@ -7,13 +7,21 @@
     "o"
   ],
   "pos": "interjection",
-  "concept": "What? / Pardon? / Clarification Request",
-  "description": "An interjection requesting clarification or repetition when something was not heard or understood. It treats the gap as ordinary: asking again is part of how understanding gets built, not a failure of it.",
-  "sound_symbolism": "The interjection begins with 'h', the gentlest consonant—pure breath without obstruction, like a soft exhalation of confusion. This meets 'a', the most open vowel, creating space for the unknown. The hiatus between 'a' and 'o' creates a natural pause—a breath between not-knowing and seeking-to-know. The final 'o' rounds into receptivity, opening space for clarification. The CVV structure with vowel hiatus makes the word feel like a gentle opening rather than a sharp demand.",
-  "grammatical_notes": "Functions as a complete utterance, typically with rising intonation to signal its interrogative nature. Stands alone without requiring syntactic integration. The same form serves whether the issue is acoustic (didn't hear), linguistic (didn't understand the words), or conceptual (didn't grasp the meaning). Tone and context disambiguate the specific type of clarification needed. The vowel hiatus allows for natural prosodic variation.",
+  "search_terms": [
+    "what",
+    "say that again",
+    "clarification"
+  ],
+  "description": "A sentence goes past unheard or half understood; 'hao' asks for it again. It covers missed sound and missing sense, and context or a fuller question identifies which gap needs repair. The listener need not pretend comprehension.",
+  "articulatory_notes": "Open the glottis for unvoiced 'h' and lower the jaw into central 'a'. Keep the vowels in separate syllables as the tongue draws back and the lips round for mid-back 'o'. Stress 'ha'.",
+  "usage_notes": "Rising intonation commonly carries the request. When repetition alone would not help, a more specific question can follow.",
+  "examples": [
+    {
+      "phi": "hao.",
+      "translation": "Pardon?"
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The interjection embodies beginner's mind—the willingness to acknowledge not-knowing without shame. Like the practice of inquiry in meditation, 'hao' creates space for patient clarification rather than pretending to understand.",
-    "peace-linguistics-practices": "By using the softest possible sounds for clarification requests, 'hao' prevents the potential violence of sharp 'WHAT?' demands. It transforms moments of non-understanding from confrontation into collaboration, making it safe to admit when we haven't understood.",
-    "pre-industrial-wisdom": "Oral cultures understand that knowledge transmission requires active checking and re-checking. 'Hao' carries this wisdom that understanding is iterative, that asking for clarification honors both the message and the messenger."
+    "peace-linguistics-practices": "A repair request exposes the gap before the listener guesses, so dialogue can resume from what was actually heard or understood."
   }
 }

@@ -7,13 +7,18 @@
     "i"
   ],
   "pos": "interjection",
-  "concept": "Hey / Excuse Me / Attention Please",
-  "description": "An interjection used to gently request someone's attention or to signal that one has something to communicate. More than interruption, 'hei' acknowledges that attention is a gift to be requested, not a resource to be seized, creating space for consensual communication.",
-  "sound_symbolism": "The interjection begins with 'h', the softest consonant—pure breath that announces presence without aggression. This meets 'e', a mid-front vowel that carries clarity without sharpness. The hiatus lifts into 'i', the highest vowel that rises like a gentle hand raised for attention. The progression from breathy announcement ('he') to lifted request ('i') mirrors the movement from signaling presence to inviting connection. The CVV structure makes the call noticeable without being jarring.",
-  "grammatical_notes": "Functions as a complete utterance to initiate communication or redirect attention. Can be used to address individuals or groups, to begin conversations or to politely interrupt. Unlike sharp attention-getters, 'hei' requests rather than demands, allowing the addressee to choose their response. Prosody indicates urgency level while the word itself remains gentle.",
-  "pillars": {
-    "solarpunk-values": "Collaborative work requires the ability to coordinate attention without hierarchy. 'Hei' provides a tool for distributed organizing where anyone can respectfully request the group's focus without claiming authority or dominance.",
-    "secular-buddhist-philosophy": "The interjection embodies mindful communication—recognizing that others' attention is precious and should be requested with care. Like the meditation bell that invites rather than commands awareness, 'hei' creates space for conscious connection.",
-    "peace-linguistics-practices": "By using soft sounds to request attention, 'hei' prevents the verbal violence of sharp demands or aggressive interruptions. It transforms attention-seeking from seizure to invitation, respecting others' mental space while expressing legitimate need for connection."
-  }
+  "search_terms": [
+    "attention",
+    "attention call",
+    "excuse me"
+  ],
+  "description": "Across a room, or at the edge of someone else's turn, 'hei' asks for attention. The call is a bid to begin or briefly redirect contact, not permission to seize the conversation; 'teo' (watch out) is the urgent call when danger is the point.",
+  "articulatory_notes": "Open the glottis and let breath form 'h', then bring the tongue forward for middle-height unrounded 'e'. Raise the tongue into high-front 'i' for the second syllable without inserting a glide. Stress 'he'.",
+  "usage_notes": "Once attention is available, the message follows in its own phrase or sentence.",
+  "examples": [
+    {
+      "phi": "hei.",
+      "translation": "Hey."
+    }
+  ]
 }

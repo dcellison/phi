@@ -7,14 +7,18 @@
     "i"
   ],
   "pos": "interjection",
-  "concept": "Go On / You Can Do It / Encouragement",
-  "description": "An interjection of encouragement, offered to someone in the middle of an effort. 'Hoi' says: keep going, someone sees you and believes you can. It is support during the struggle, not praise after it.",
-  "sound_symbolism": "The interjection begins with 'ho', where 'h' is the breath of support—like someone breathing alongside you in effort. The round vowel 'o' creates a supportive, containing sound, like arms ready to catch or circles of protection. The hiatus lifts into 'i', the bright vowel that rises upward with energy and possibility. The progression from supportive breath ('ho') to uplifting energy ('i') mirrors encouragement itself—first the grounding support, then the lift toward success. The word moves from round warmth to bright height.",
-  "grammatical_notes": "Functions as a complete utterance offered during another's effort, whether physical, mental, or emotional. Can be used proactively when someone begins a challenge or reactively when they show signs of flagging. Prosody varies with the type of encouragement needed: gentle for delicate efforts, energetic for physical challenges, warm for emotional struggles. Can be repeated for sustained support.",
-  "pillars": {
-    "solarpunk-values": "Building resilient communities requires mutual support and encouragement for experimentation and growth. 'Hoi' provides the social technology for collective encouragement essential to innovation and positive change.",
-    "secular-buddhist-philosophy": "The interjection embodies the practice of mudita (sympathetic joy)—the ability to celebrate others' efforts and potential successes. Like the bodhisattva vow to support all beings' liberation, 'hoi' offers linguistic support for others' journeys.",
-    "peace-linguistics-practices": "By providing positive support without pressure or judgment, 'hoi' creates an environment where people feel safe to try, fail, and try again. It transforms potential criticism into constructive energy, building confidence through witnessed belief.",
-    "pre-industrial-wisdom": "Traditional communities understand that individual efforts succeed within webs of support. 'Hoi' carries this wisdom that encouragement is not empty words but active participation in another's success, that we rise together."
-  }
+  "search_terms": [
+    "keep going",
+    "encouragement",
+    "you can do it"
+  ],
+  "description": "Halfway up the hill, someone falters and 'hoi' offers encouragement from beside the path. It means 'keep going' or 'you can do it' while effort is underway. The support invites continuation without commanding it.",
+  "articulatory_notes": "Let breath through the open glottis for 'h' and round the lips around mid-back 'o'. Preserve the syllable break as the tongue moves forward and the lips unround for high-front 'i'. Stress 'ho'.",
+  "usage_notes": "It can be quiet or energetic. Repetition can sustain encouragement through a longer effort.",
+  "examples": [
+    {
+      "phi": "hoi.",
+      "translation": "Onward."
+    }
+  ]
 }

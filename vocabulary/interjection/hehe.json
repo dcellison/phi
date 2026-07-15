@@ -7,14 +7,22 @@
     "o"
   ],
   "pos": "interjection",
-  "concept": "Hehe / Playfulness / Light Humor",
-  "description": "An interjection marking playful intent, gentle teasing, or humorous observation. It signals that what it frames is meant in play; the humor it licenses is the kind without a victim.",
-  "sound_symbolism": "The interjection begins with 'p', the lightest plosive—lips popping open like a small bubble of joy. This meets 'i', the brightest vowel, high and light like a giggle. The hiatus rounds into 'o', creating wholeness and inclusion. The progression from light burst ('pi') to inclusive roundness ('o') mirrors the movement from personal amusement to shared play. The CVV structure keeps the sound buoyant and inviting.",
-  "grammatical_notes": "Functions as a complete utterance marking playful intent or acknowledging humor. Can precede playful statements to signal non-serious intent, follow jokes to invite shared laughter, or stand alone as response to amusing situations. Prosody varies from quiet appreciation of subtle humor to bright celebration of joyful absurdity. Critical for preventing misunderstandings in cultures that value both directness and play.",
+  "search_terms": [
+    "laughter",
+    "playfulness",
+    "joking"
+  ],
+  "description": "A small laugh has its own word: 'pio'. It covers quiet amusement or gentle teasing and makes the speaker's playful intention audible, but the marker cannot make a hurtful joke harmless. 'wao' (wow) marks surprise rather than amusement.",
+  "articulatory_notes": "Seal the lips for unvoiced 'p' and release them as the tongue rises into high-front unrounded 'i'. The tongue then draws back and the lips round for mid-back 'o' in a separate syllable. Stress 'pi'.",
+  "sound_symbolism": "The quick release of 'p' into high 'i', followed by rounded 'o', gives 'pio' a light popping contour that may recall a small laugh.",
+  "usage_notes": "'pio' may sit before or after a playful remark, or carry the laugh alone.",
+  "examples": [
+    {
+      "phi": "pio.",
+      "translation": "Hehe."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Building joyful futures requires maintaining hope and humor even while doing serious work. 'Pio' provides the emotional technology for keeping spirits light during long efforts, for finding joy in the work of transformation.",
-    "secular-buddhist-philosophy": "The interjection embodies the light heart that doesn't take itself too seriously. Like the Zen tradition of playful wisdom, 'pio' acknowledges that truth often arrives wrapped in laughter, that joy is as sacred as solemnity.",
-    "art-nouveau-aesthetics": "Like the whimsical elements in Art Nouveau—the hidden faces, the playful curves—'pio' brings levity to communication. It acknowledges that beauty includes joy, that ornament can be playful as well as serious.",
-    "peace-linguistics-practices": "By clearly marking playful intent, 'pio' prevents humor from becoming harm. It creates safe space for the beneficial aspects of play—creativity, bonding, perspective—while signaling that no harm is intended."
+    "peace-linguistics-practices": "'pio' makes playful intent audible while leaving its effect on listeners open to correction."
   }
 }

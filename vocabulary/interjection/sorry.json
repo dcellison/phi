@@ -7,14 +7,18 @@
     "a"
   ],
   "pos": "interjection",
-  "concept": "Sorry / Apology / Regret",
-  "description": "An interjection expressing regret for harm caused or mistakes made, intentional or accidental. It ranges from small social slips to real hurt, and it opens repair without self-abasement.",
-  "sound_symbolism": "The interjection begins with 's', the soft sibilant that flows like a gentle admission. This meets 'o', the round vowel of completeness and taking responsibility. The hiatus opens into 'a', creating space for the other's response. The progression from soft acknowledgment ('so') to open receptivity ('a') mirrors the movement from recognizing harm to being available for repair. The CVV structure allows the apology to feel genuine without being overwrought.",
-  "grammatical_notes": "Functions as a complete utterance acknowledging mistakes or expressing regret. Can be used for minor social infractions (bumping someone) or deeper harms (breaking trust). Context and prosody indicate severity and sincerity. Unlike elaborate apology formulas, 'soa' maintains simplicity that focuses on acknowledgment rather than performance. Can stand alone or introduce specific acknowledgment of what occurred.",
-  "pillars": {
-    "solarpunk-values": "Building regenerative communities requires the ability to acknowledge and learn from mistakes. 'Soa' provides the social technology for accountability that enables growth rather than punishment, supporting cultures of experimentation and learning.",
-    "secular-buddhist-philosophy": "The interjection embodies the practice of taking responsibility without falling into guilt or shame. Like the understanding that we all cause harm sometimes, 'soa' acknowledges imperfection while maintaining dignity and commitment to doing better.",
-    "peace-linguistics-practices": "By providing a simple, sincere way to acknowledge harm, 'soa' enables repair without elaborate self-punishment or defensive justification. It transforms potential conflict into opportunity for reconnection through honest acknowledgment.",
-    "pre-industrial-wisdom": "Traditional communities understand that small repairs maintain social fabric. 'Soa' carries this wisdom that quick acknowledgment of mistakes prevents them from festering into larger conflicts, that humility serves community cohesion."
-  }
+  "search_terms": [
+    "apology",
+    "regret",
+    "I am sorry"
+  ],
+  "description": "After a mistake or harm, 'soa' says 'sorry'. It expresses regret and can open an apology, but the words and actions that follow must do the repair. 'hao' (pardon) asks for repetition; despite the overlap in English, it is not an apology.",
+  "articulatory_notes": "Hold the tongue blade near the alveolar ridge and send unvoiced air through its central groove for 's', then draw the tongue back and round the lips for mid-back 'o'. Release the rounding and lower the jaw into open central 'a' for the separate second syllable. Stress 'so'.",
+  "usage_notes": "For a small bump, 'soa' may be the whole exchange. When harm is larger, it can begin a fuller acknowledgement and repair.",
+  "examples": [
+    {
+      "phi": "soa.",
+      "translation": "Sorry."
+    }
+  ]
 }

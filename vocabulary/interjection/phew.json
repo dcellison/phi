@@ -7,13 +7,19 @@
     "o"
   ],
   "pos": "interjection",
-  "concept": "Phew / Relief / Tension Release",
-  "description": "An interjection of relief after stress, worry, or exertion has passed. 'Phuo' works for physical relief after effort, emotional relief after worry, or the release when a hard problem finally gives. Lengthening the final 'o' deepens it.",
-  "sound_symbolism": "The interjection begins with 'ɸ', the bilabial fricative formed by lips barely parted—like the controlled release of held breath. This meets 'u', the deep back vowel that resonates with the depths from which relief rises. The hiatus opens into 'o', rounding into completion and wholeness. The progression from controlled release ('phu') to rounded completion ('o') mirrors the journey from tension to ease. The fricative + vowel structure makes the word itself feel like a sigh of relief.",
-  "grammatical_notes": "Functions as a complete utterance following the resolution of tension, completion of effort, or passing of worry. Can be used for physical relief (after exertion), emotional relief (after anxiety), or cognitive relief (after solving a problem). Natural prolongation of the vowels, especially the final 'o', can express the depth of relief felt. Often accompanied by physical gestures of release.",
-  "pillars": {
-    "secular-buddhist-philosophy": "The interjection embodies the cycle of tension and release that characterizes existence—acknowledging that suffering passes, that all states are impermanent. Like the relief felt at the end of a difficult meditation sit, 'phuo' marks the sweetness of emergence.",
-    "peace-linguistics-practices": "By providing a way to express relief without dismissing the difficulty that preceded it, 'phuo' validates both struggle and release. It prevents the minimization of others' efforts while celebrating their completion.",
-    "pre-industrial-wisdom": "Traditional life rhythms understand the necessity of both effort and rest—the relief after harvest, the ease after storms pass. 'Phuo' carries this wisdom that relief is earned through endurance, that ease is sweeter after effort."
-  }
+  "search_terms": [
+    "relief",
+    "what a relief",
+    "tension release"
+  ],
+  "description": "The stuck door finally opens, or the heavy basket reaches the ground: 'phuo' releases the breath held through the effort. It expresses relief after strain or worry has eased. 'hoi' (onward) encourages effort that is still underway.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then round them tightly for high-back 'u'. The tongue lowers slightly for mid-back 'o' in a separate syllable while the rounding relaxes. Stress 'phu'.",
+  "sound_symbolism": "Unvoiced breath begins between the lips before voice enters two rounded vowels; the contour can resemble a controlled exhale after tension passes.",
+  "usage_notes": "It comes after the release or resolution, not during the effort itself. The final 'o' can be lengthened when relief arrives slowly.",
+  "examples": [
+    {
+      "phi": "phuo.",
+      "translation": "Phew."
+    }
+  ]
 }
