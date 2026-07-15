@@ -7,14 +7,18 @@
     "e"
   ],
   "pos": "preposition",
-  "concept": "With / By means of / Instrumental",
-  "description": "Marks the instrumental case, indicating the tool, means, or method by which an action is accomplished—concrete tools, materials, and abstract means alike. Accompaniment is not its job; that belongs to 'nua'.",
-  "sound_symbolism": "The tapped 'r' is the most active sound in the word, the tongue striking the ridge as a tool strikes its work. The round 'o' narrows to the focused 'e': broad means brought to a specific application.",
-  "grammatical_notes": "Functions as the instrumental preposition, marking both concrete tools and abstract means. Precedes the noun it modifies: 'roe toka' (with a hammer), 'roe wolea' (with wood), 'roe theama' (with care). Does not mark accompaniment—that function belongs to 'nua'. The distinction maintains clarity between tools (which extend capability) and companions (who share experience).",
-  "pillars": {
-    "solarpunk-values": "Appropriate technology requires understanding tools as means rather than ends, choosing instruments that enhance rather than replace human capability. 'Roe' marks this conscious relationship with our tools, whether hammers or computers.",
-    "secular-buddhist-philosophy": "The word embodies upaya (skillful means)—using appropriate methods and tools for liberation. Just as different teachings serve different students, 'roe' acknowledges that wisdom includes knowing which instruments serve which purposes.",
-    "art-nouveau-aesthetics": "The movement celebrated both traditional craftsmanship and new techniques, understanding that beauty emerges from the marriage of vision and method. 'Roe' captures this attention to how things are made, not just what is made.",
-    "pre-industrial-wisdom": "Traditional crafts honor the relationship between maker and tool—the harmony that develops through practice until tool becomes extension of hand. 'Roe' acknowledges this intimate partnership where skill and instrument unite in creation."
-  }
+  "search_terms": [
+    "with",
+    "by means of",
+    "instrumental"
+  ],
+  "description": "In a sentence about cutting wood, 'roe' introduces the chisel. The same preposition covers other tools, means, and methods by which an action is carried out. A companion who shares the work takes 'nua' (COM) instead.",
+  "articulatory_notes": "Tap or briefly trill the tongue tip at the alveolar ridge for 'r', then draw the tongue back and round the lips for mid-back 'o'. The second syllable moves the tongue forward and unrounds the lips for middle-height front 'e'. Stress 'ro'. The two vowels remain distinct.",
+  "usage_notes": "The instrument comes immediately after 'roe'. An instrumental phrase precedes a direct object: S PP O V.",
+  "examples": [
+    {
+      "phi": "mia roe kiru wolea kati.",
+      "translation": "I cut the wood with the chisel."
+    }
+  ]
 }

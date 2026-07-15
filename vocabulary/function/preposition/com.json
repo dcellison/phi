@@ -7,14 +7,21 @@
     "a"
   ],
   "pos": "preposition",
-  "concept": "With / Together with / In Company of",
-  "description": "Marks accompaniment: shared presence or parallel participation, 'with' in the sense of company. The contrast with instrumental 'roe' is the contrast between a companion and a tool; 'nua' is for who is alongside, not what is used.",
-  "sound_symbolism": "The word begins with 'nu', where the nasal 'n' creates connection through resonance—sound vibrating through bone, linking speaker to spoken. The back vowel 'u' suggests intimacy, the closeness of shared space. This intimate beginning opens into 'a', the most expansive vowel, acknowledging that true companionship requires space for each being's fullness. The acoustic journey from connected intimacy to mutual spaciousness mirrors how healthy togetherness works—close enough to resonate, spacious enough to breathe.",
-  "grammatical_notes": "Functions as the comitative preposition marking accompaniment rather than instrument. Precedes the noun it modifies: 'nua lo melu' (with friends), 'nua sila' (with the community). Critical distinction from 'roe' (instrumental): 'nua' implies mutual presence and potential reciprocity, while 'roe' marks unidirectional use. Can mark physical accompaniment, shared states, or parallel actions. Often implies equality of participation though not required.",
+  "search_terms": [
+    "with",
+    "together with",
+    "accompaniment"
+  ],
+  "description": "'nua' belongs with the friend sharing your walk or the neighbour joining the work. It marks company and participation in a shared event. A chisel used during that work takes 'roe' (INS), since it is a means rather than company.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper front teeth for voiced dental 'n'. Air continues through the nose as the tongue draws back and the lips round for high-back 'u'. The jaw then lowers into open central 'a' in a separate syllable. Stress 'nu'.",
+  "usage_notes": "The companion stands directly after 'nua'. In conversation, agreement with a person can use 'nua', while agreement with a proposition takes a 'mena ... meno' clause.",
+  "examples": [
+    {
+      "phi": "mia nua melu thalo.",
+      "translation": "I walk with the friend."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Resilient communities are built on accompaniment—working with rather than for or against. 'Nua' serves the collaborative relationships essential for creating systems of mutual aid and shared flourishing.",
-    "secular-buddhist-philosophy": "The word embodies sangha—the community of practice where awakening happens not in isolation but through shared journey. The opening from 'u' to 'a' mirrors how individual practice opens into collective wisdom.",
-    "peace-linguistics-practices": "By distinguishing companionship from instrumentality, 'nua' makes it linguistically natural to think of others as companions rather than tools. This grammatical choice shapes consciousness toward collaboration rather than exploitation.",
-    "pre-industrial-wisdom": "Traditional labor was communal—harvesting with neighbors, raising barns with community, mourning with family. 'Nua' carries this understanding that meaningful work and life happen in companionship, that 'with' creates both efficiency and joy."
+    "peace-linguistics-practices": "'nua' assigns a companion a different grammatical relation from the instrument marked by 'roe'. The distinction keeps shared participation separate from using a tool."
   }
 }

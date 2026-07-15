@@ -7,14 +7,17 @@
     "a"
   ],
   "pos": "preposition",
-  "concept": "As / Like / In the Manner of",
-  "description": "Marks relationships of similarity, indicating that something shares qualities or characteristics with another. 'Phea' compares by likeness rather than identity; it is the preposition of analogy, of understanding one thing through another.",
-  "sound_symbolism": "The word begins with 'phe', where the soft bilabial fricative 'ɸ' breathes connection between separate things—the gentlest possible link. The mid vowel 'e' suggests the specific point of similarity being observed. This focused attention then opens into 'a', embracing the full nature of what is compared. The acoustic journey from gentle connection through specific similarity to open acknowledgment mirrors how recognition works—we notice a specific likeness that opens understanding of the whole.",
-  "grammatical_notes": "Functions as an equative preposition marking similarity rather than identity. Precedes the noun it modifies: 'phea phialu' (like water), 'phea miona' (as a person). Distinct from comparative 'sheo' (than) which marks difference; 'phea' marks sameness. Can precede noun phrases, creating adverbial expressions of manner or similarity. Often used in explanations, teachings, and poetic expressions where understanding comes through likeness.",
-  "pillars": {
-    "secular-buddhist-philosophy": "The word embodies the teaching method of the Buddha, who constantly used similes—suffering as arrow wound, consciousness as flame, mind as monkey. 'Phea' enables this pedagogical practice of making the abstract concrete through likeness.",
-    "art-nouveau-aesthetics": "The movement found endless inspiration in natural forms—seeing tree branches as architectural supports, flower stems as decorative lines. 'Phea' serves this aesthetic practice of recognition, of seeing the patterns that connect disparate forms.",
-    "peace-linguistics-practices": "Understanding through similarity creates bridges between different experiences and perspectives. 'Phea' facilitates empathy by allowing speakers to say 'this is like that,' finding common ground through shared qualities rather than focusing on differences.",
-    "pre-industrial-wisdom": "Traditional knowledge transmission relied on natural analogies—teaching children to be 'steady as mountain,' 'flowing as water,' understanding human qualities through nature's patterns. 'Phea' carries this pedagogical tradition of learning through likeness to the known world."
-  }
+  "search_terms": [
+    "as",
+    "like",
+    "in the manner of"
+  ],
+  "description": "'phea' lets a child's song take a bird as its model. It expresses likeness or manner while keeping the two things distinct; it can also frame a relationship, as in people acting as siblings. A measured or ranked comparison instead uses 'sheo' (THAN).",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then spread them for middle-height front 'e'. The jaw lowers into open central 'a' for the separate second syllable. Stress 'phe'.",
+  "examples": [
+    {
+      "phi": "lopia phea pelori meliho.",
+      "translation": "The child sings like a bird."
+    }
+  ]
 }

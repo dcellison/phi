@@ -7,14 +7,19 @@
     "i"
   ],
   "pos": "preposition",
-  "concept": "To / For / Dative Relationship",
-  "description": "Marks the dative case, indicating the recipient or beneficiary of an action. 'Wei' names who a giving or a doing is for. It does not mark movement through space; that work belongs to other prepositions.",
-  "sound_symbolism": "The word begins with 'we', where the welcoming 'w' creates the most open consonant possible—lips rounded but not closed, breath flowing freely like generosity itself. This openness focuses through the vowel progression from 'e' to 'i', moving from the giver's expansive gesture to the specific recipient. The acoustic journey from welcoming openness to focused arrival mirrors the path of every gift, every kindness, every word meant for another. The sound itself becomes an offering, shaped by the mouth into directional care.",
-  "grammatical_notes": "Functions as the primary dative preposition, marking indirect objects (recipients of giving verbs), beneficiaries (those for whom actions are performed), and experiencers (those to whom things happen or appear). Precedes the noun it modifies: 'wei mia' (to me), 'wei miona' (to a person). Unlike English 'to', does not mark directional movement—that function belongs to other prepositions. Can precede both animate recipients and abstract purposes ('wei shea' = for peace), though animate uses are more common.",
-  "pillars": {
-    "solarpunk-values": "In gift economies and mutual aid networks, 'to/for' relationships form the basic circulation that sustains community. 'Wei' marks these flows of reciprocal care that create resilience through interdependence rather than independence.",
-    "secular-buddhist-philosophy": "The word embodies dana (generosity), the first perfection. The vowel progression from open to focused mirrors how true giving begins with open heart and arrives at specific beings. 'Wei' grammaticalizes the flow of merit and kindness.",
-    "peace-linguistics-practices": "By beginning with the welcoming 'w', the preposition makes every act of giving linguistically gentle. 'Wei' transforms potential power dynamics in transfer situations into opportunities for connection, making generosity easier to express than withholding.",
-    "pre-industrial-wisdom": "Traditional societies understood giving as creating bonds—gifts to ancestors, to land, to community—that maintain the fabric of relationship. 'Wei' carries this knowledge that 'to give' is to weave oneself into the web of reciprocal obligation and care."
-  }
+  "search_terms": [
+    "to",
+    "for",
+    "recipient",
+    "beneficiary"
+  ],
+  "description": "A gift needs someone to receive it, and 'wei' identifies that person. The dative also marks a beneficiary, or the being to whom something comes or happens. A destination reached by motion instead takes 'kau' (ALL).",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then unround into middle-height front 'e'. Keep the next vowel in its own syllable while the tongue rises into high-front unrounded 'i'. Stress 'we'.",
+  "usage_notes": "The recipient or beneficiary is the object of 'wei' and precedes any direct object of the verb. With 'nuhemi' (grieve), the same relation names the person grieved for.",
+  "examples": [
+    {
+      "phi": "mia wei thia loami loa.",
+      "translation": "I give you a gift."
+    }
+  ]
 }
