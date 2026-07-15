@@ -7,16 +7,21 @@
     "sha"
   ],
   "pos": "adjective",
-  "concept": "Wide / Of Great Breadth / Extending Far",
-  "description": "Of great or more than average width; extending far from side to side. 'Losha' names the quality of breadth—horizontal extension, spaciousness across.",
-  "sound_symbolism": "The word spreads outward. 'Lo' flows horizontally, extension beginning. Then 'sha' /ʃa/ breathes into space, width achieved.",
-  "grammatical_notes": "Functions as an adjective: 'losha luphore' (wide river). Opposite of 'hieru' (narrow). Related to 'nulo' (deep) as another spatial dimension.",
-  "pillars": {
-    "solarpunk-values": "Wide perspectives see interconnection—breadth of vision recognizes how systems connect.",
-    "art-nouveau-aesthetics": "Wide forms created flow—expansive designs that guided the eye across surfaces."
-  },
+  "search_terms": [
+    "broad"
+  ],
+  "description": "Breadth across something is 'losha': the span between a river's banks or the clear width of a route. It can also widen the reach of an attitude, as 'losha ruesha' (wide compassion) does. 'whalo' (large) considers overall size, while 'lonai' (width) names the dimension itself.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and move into rounded mid-back 'o'. Raise the tongue blade toward the postalveolar region for voiceless 'sh', then open the mouth into central 'a'. Stress falls on 'lo'.",
+  "sound_symbolism": "The mouth moves from rounded 'o' to open 'a' while 'sh' sustains the airflow between them. The gesture widens in the mouth, much as breadth does across a route.",
+  "usage_notes": "'losha luphore' gives a wide river and 'losha shoeka' a wide route. Figurative use describes breadth of reach rather than the size of an object.",
+  "examples": [
+    {
+      "phi": "shoeka losha nai.",
+      "translation": "The route is wide."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Great breadth",
-    "spatial": "Horizontal extension"
+    "physical": "large width across an opening or a span of land or water",
+    "spatial": "breadth measured from one side to the other"
   }
 }

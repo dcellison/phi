@@ -8,16 +8,22 @@
     "no"
   ],
   "pos": "adjective",
-  "concept": "Long / Extended / Stretched Out",
-  "description": "The adjective naming spatial extension in one dimension, the quality of reaching far from beginning to end. In Phi, length is observed as relationship—long relative to something, extended in comparison. This word names the quality of stretched-out existence in space or, metaphorically, in time.",
-  "sound_symbolism": "The word opens with 'la', where the liquid 'l' immediately begins extending—the sound of reaching, of flowing outward, of continuing. The standalone 'e' creates space in the middle, the extension happening. The final 'no' grounds the far end, the destination of length reached. Three syllables themselves extend the word, embodying length.",
-  "grammatical_notes": "Functions as an adjective preceding nouns: 'laeno ruela' (long path). Can describe physical objects, durations, or distances. Distinguished from 'teku' (short) as dimensional opposite.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Long and short are relative—the same duration seems long or short depending on experience. 'Laeno' names the extension; perspective supplies the judgment.",
-    "pre-industrial-wisdom": "Traditional journeys were often long by modern standards, teaching patience and presence through extended travel. 'Laeno' preserves awareness of extent."
-  },
+  "search_terms": [
+    "lengthy",
+    "extended"
+  ],
+  "description": "A path that takes much walking is 'laeno'; so is an interval that takes much waiting. The same adjective covers spatial length and temporal duration. Vertical height is 'raelu' (tall), while 'teku' (short) marks limited extent on the end-to-end scale.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and open into central 'a'. Release that vowel before a separate stressed front 'e'. The tongue tip then moves to the upper teeth for dental nasal 'n' before rounded mid-back 'o'.",
+  "sound_symbolism": "The vowel break holds 'laeno' across three distinct syllables. The word takes its time through the hiatus, much like the path or interval it describes.",
+  "usage_notes": "A long path is 'laeno ruela'; a long time is 'laeno thimu'. Context supplies the comparison and any exact measurement.",
+  "examples": [
+    {
+      "phi": "ruela laeno nai.",
+      "translation": "The path is long."
+    }
+  ],
   "semantic_domains": {
-    "spatial": "dimensional extent in space",
-    "temporal": "duration and extended time"
+    "spatial": "substantial end-to-end extent in a path or object",
+    "temporal": "a duration that continues for a substantial interval"
   }
 }

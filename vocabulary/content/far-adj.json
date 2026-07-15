@@ -8,16 +8,23 @@
     "ro"
   ],
   "pos": "adjective",
-  "concept": "Far / At Great Distance / Remote",
-  "description": "At, to, or by a great distance; remote in space. 'Wuero' names the quality of farness—great separation, significant distance requiring substantial travel.",
-  "sound_symbolism": "The word extends far. 'Wu' begins with outward breath, distance starting. The vowel 'e' opens to the gap. Then 'ro' rolls into remoteness, farness confirmed.",
-  "grammatical_notes": "Functions as an adjective: 'wuero lokue' (far place). Distinct from preposition 'woe' (far/from). Synonym of 'thaeru' (distant) with slightly different connotation.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Nothing is truly far—all things are connected, distance is convention not ultimate truth.",
-    "pre-industrial-wisdom": "Far places held mystery—distant lands where different peoples lived, different rules applied."
-  },
+  "search_terms": [
+    "far away",
+    "distant",
+    "remote"
+  ],
+  "description": "The ordinary adjective for substantial distance is 'wuero'. It describes a far village or someone dwelling far away. Time uses it too: a distant moment may be 'wuero'. The journey or discussion supplies the scale; the preposition 'woe' (FAR) introduces the reference object in a far-from relation.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then continue into high-back 'u'. Break cleanly before a separate front 'e', which takes the stress as the lips unround. A tap or short trill begins the final syllable before rounded mid-back 'o'.",
+  "sound_symbolism": "The hiatus carries 'wuero' across three audible syllables, and the lips travel from full rounding through unrounded 'e' and back again. The mouth makes a small journey inside the word; the movement suits distance that takes time to cross.",
+  "usage_notes": "'wuero silawo' gives a far village and 'wuero menui' dwelling far away. Its near counterpart is Phi 'noshi'.",
+  "examples": [
+    {
+      "phi": "silawo wuero nai.",
+      "translation": "The village is far away."
+    }
+  ],
   "semantic_domains": {
-    "spatial": "Great distance",
-    "wisdom": "Remote"
+    "spatial": "substantial separation from a contextual place or object",
+    "temporal": "a time well removed from the present or another stated moment"
   }
 }

@@ -7,16 +7,22 @@
     "lo"
   ],
   "pos": "adjective",
-  "concept": "Large / Big / Expansive",
-  "description": "The adjective naming greatness of size, extent, or scope. In Phi, largeness is observed without implicit superiority—to be large is simply to occupy more space, require more resources, have wider reach. This word names the quality of spatial extent without conflating size with value, importance, or worth.",
-  "sound_symbolism": "The word opens with 'wha', where the breathy labiovelar fricative 'wh' creates expansive breath—the sound of space opening, of air filling. The open 'a' suggests amplitude and expanse. This flows into 'lo', where the liquid carries the expansion outward and the rounded 'o' creates a sense of encompassing wholeness. Two syllables create accessible description for common use while the breath-filled opening and rounded closing embody the concept of largeness.",
-  "grammatical_notes": "Functions as an adjective preceding nouns in modifier-first position: 'whalo shiro' (large tree). Can be used predicatively with 'nai' (be): 'shiro whalo nai.' (The tree is large.) Distinguished from words of quality or importance—largeness is observation, not evaluation.",
-  "pillars": {
-    "secular-buddhist-philosophy": "All sizes arise and pass; large and small are relative. 'Whalo' names the quality without attachment to size as identity or worth.",
-    "peace-linguistics-practices": "Separating size from value enables clear observation. 'Whalo' describes extent without implying that larger is better or more important."
-  },
+  "search_terms": [
+    "big",
+    "great"
+  ],
+  "description": "Taken as a whole, a tree or village is 'whalo' when its size is large for the comparison at hand. The word also works for amounts and changes with broad scope. When one dimension matters, 'losha' (wide) and 'laeno' (long) say which one.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiceless 'wh', then open into central 'a'. The tongue tip meets the alveolar ridge for 'l' before rounded mid-back 'o'. Stress falls on 'wha'.",
+  "sound_symbolism": "The breathy opening and open 'a' give the first syllable room. The lateral movement into rounded 'o' lets it taper rather than stop; heard as a whole, the contour feels broad.",
+  "usage_notes": "No unit or fixed threshold comes with 'whalo'. A village may be large beside nearby settlements and small beside a city.",
+  "examples": [
+    {
+      "phi": "shiro whalo nai.",
+      "translation": "The tree is large."
+    }
+  ],
   "semantic_domains": {
-    "physical": "spatial extent and size",
-    "spatial": "relationship of scale and dimension"
+    "physical": "overall size or amount considered against a contextual scale",
+    "spatial": "considerable extent without selecting a particular dimension"
   }
 }
