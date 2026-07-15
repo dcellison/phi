@@ -179,7 +179,7 @@
 | `wiresu` | postpone | moving a planned action to a later time |
 | `wishe` | swim | The body's water-travel |
 
-## aesthetic (82)
+## aesthetic (81)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -229,7 +229,6 @@
 | `phui` | flute | Breath music |
 | `phuliro` | stream | Gentle flowing water |
 | `phuri` | brush | Flowing marks |
-| `rei` | eighty-one-group | Can present a large visible pattern through approximate magnitude rather than an unsupported exact tally |
 | `roena` | copper | Aging beauty |
 | `rulo` | red | visual quality of warm hue |
 | `sena` | pattern | Repeated design |
@@ -312,7 +311,7 @@
 | `kuelo` | curious | Wonder-seeking |
 | `kuewa` | strange | The unfamiliar, named without verdict |
 | `kupela` | secret | The known and untold |
-| `lau` | twenty-seven-group | Names three groups of nine; exact recognition normally requires counting or learned grouping |
+| `lau` | twenty-seven-group | a group of twenty-seven used as the third ternary scale and as an approximate magnitude |
 | `leiro` | release | Names arithmetic subtraction through a release metaphor |
 | `lesawi` | consent | a specific decision whose understanding and conditions remain examinable |
 | `letharo` | consistent | the quality of propositions that can be true together |
@@ -387,7 +386,7 @@
 | `phisuwa` | example | a particular case used to illuminate a broader idea |
 | `phiwapi` | butterfly | Change made visible and winged |
 | `phiwheki` | counterexample | a scoped case that disproves a general claim as stated |
-| `phoi` | nine-group | Names a quantity beyond ordinary subitizing that can be learned as three triads |
+| `phoi` | nine-group | a group of nine learned as three triads and used as the second ternary scale |
 | `phoka` | lens | Focusing clarity |
 | `phue` | wise | Mature insight |
 | `pokera` | competent | an evidence-based judgment of situated practical capacity |
@@ -397,7 +396,7 @@
 | `pukate` | break | The event named so mending can follow |
 | `pula` | wish | Orientation toward desired futures |
 | `pushali` | overload | information or sensory input exceeding current processing capacity |
-| `rei` | eighty-one-group | Names a learned group of eighty-one, not a perceptual or cognitive limit |
+| `rei` | eighty-one-group | a group of eighty-one used as the highest exact scale and as a large approximate magnitude |
 | `relo` | symbol | Representation |
 | `remo` | think | considering, remembering, imagining, and following ideas |
 | `remole` | concept | an organized idea used to relate or classify experience |
@@ -420,7 +419,7 @@
 | `senao` | same | the perception of identity |
 | `seru` | commit | Binding decision |
 | `shalimo` | alliance | held together by a shared conviction, an idea before it is a bond |
-| `shao` | three-group | Names a small group that often falls within the adult subitizing range under suitable viewing conditions |
+| `shao` | three-group | a group of three used as the first scale in exact or approximate enumeration |
 | `sharemi` | persuade | movement toward a belief or judgment through communication |
 | `shareo` | discuss | builds understanding by examining multiple perspectives |
 | `sharino` | conscience | the faculty of judging one's own conduct against held values |
@@ -453,7 +452,7 @@
 | `sorai` | insight | Deep seeing |
 | `soranu` | screen | identifying possible need for further evaluation |
 | `sowelu` | disabled | disability involving cognitive access or identity |
-| `ta` | one | fundamental cognitive concept for counting and establishing singular identity |
+| `ta` | one | the exact singular quantity and the coefficient one used to build ternary numerals |
 | `takori` | load | a quantity interpreted in relation to capacity and conditions |
 | `tawi` | count | Exact or approximate counting within Phi's documented limits |
 | `tawimo` | foolish | The pause thought needed and did not get |
@@ -509,14 +508,14 @@
 | `wheparu` | discriminate | an assigned or perceived category directing action |
 | `whinu` | smell | Direct pathway to memory and emotion |
 | `whoa` | whole | holistic thinking and systems understanding |
-| `wi` | two | fundamental concept for understanding plurality and relationship |
+| `wi` | two | the exact quantity of two and the largest spoken coefficient in ternary numeral composition |
 | `wiero` | imaginative | Creative vision |
 | `wilao` | long-for | awareness of the mind's movement toward objects |
 | `winora` | plan | forming a revisable structure for future action |
 | `wireki` | prognosis | a conditional inference about a health course |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (284)
+## community (281)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -554,7 +553,6 @@
 | `kuma` | drum | Collective voice |
 | `kumoli` | hungry | What the shared table answers |
 | `laenu` | commons | Collective resource |
-| `lau` | twenty-seven-group | Can estimate a gathering or shared stock without claiming sufficiency |
 | `lei` | harmony | weaves diverse voices into collective resonance |
 | `lesawi` | consent | a permission relation among affected participants |
 | `loa` | give | creating bonds through sharing |
@@ -664,7 +662,6 @@
 | `phewani` | neighbor | fundamental to local social bonds and collective life |
 | `phewo` | sage | Wisdom role |
 | `phitura` | well (water) | The shared water-place |
-| `phoi` | nine-group | Can describe a small gathering without defining its cohesion or sufficiency |
 | `phomila` | offspring | fundamental to family bonds and social continuity |
 | `phowe` | share | foundational act of community building |
 | `pilora` | exploit | a social relation involving asymmetrical benefit and burden |
@@ -794,7 +791,6 @@
 | `whishela` | whisper | The voice standing close |
 | `whoa` | whole | flourishing through inclusion and interdependence |
 | `whola` | invite | creates and strengthens bonds through inclusive gestures |
-| `wi` | two | the beginning of social connection, the first 'we' |
 | `wilemo` | toy | Made for a child's hands |
 | `wiresu` | postpone | a schedule change affecting shared participation |
 | `wisola` | exchange | weaves relationships through reciprocal giving and receiving |
@@ -978,7 +974,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## dialogue (111)
+## dialogue (110)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1092,7 +1088,6 @@
 | `whaline` | thank | Verbal expression of gratitude |
 | `whekate` | refute | a decisive challenge supported by reasons or evidence |
 | `whishela` | whisper | Speech made of breath |
-| `wi` | two | the minimum number for conversation, exchange, and reciprocity |
 
 ## emotion (111)
 
@@ -1210,7 +1205,7 @@
 | `wiroa` | hopeful | Positive anticipation |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
-## nature (236)
+## nature (234)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1249,7 +1244,6 @@
 | `kurathi` | dry | the condition after water's departure |
 | `kurisha` | storm | Violent weather |
 | `kurona` | horn | The head's hard growth |
-| `lau` | twenty-seven-group | Can estimate grouped natural quantities such as trees or birds |
 | `lei` | harmony | reflects ecosystems in balance and natural cooperation |
 | `lepa` | fall | What leaves, rain, and ripe fruit do |
 | `leru` | beach | Sandy shoreline |
@@ -1360,7 +1354,6 @@
 | `pisha` | split | How seeds and paths divide |
 | `powea` | egg | Life's sealed beginning |
 | `pukea` | danger | The edge conditions of the living world |
-| `rei` | eighty-one-group | Can estimate large natural quantities without claiming infinity |
 | `rihe` | rise | Effortless ascent |
 | `roena` | copper | Elemental metal |
 | `ronua` | south | The open expanse of the turning sky |
@@ -1989,7 +1982,7 @@
 | `womuri` | household | daily life organized around a dwelling |
 | `wuero` | far (adj) | Great distance |
 
-## temporal (171)
+## temporal (170)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2023,7 +2016,6 @@
 | `kurisha` | storm | Transformative force |
 | `laeno` | long | duration and extended time |
 | `laniru` | journey | Extended movement through time |
-| `lau` | twenty-seven-group | Can estimate a span near twenty-seven when a day count is intended; it is not a month unit |
 | `liloni` | population | a living group described for a stated time or period |
 | `limu` | young | Early in life |
 | `lioru` | life | Living duration |
@@ -2165,7 +2157,7 @@
 | `wiroa` | hopeful | Future-oriented |
 | `woru` | keeper | Maintaining presence |
 
-## wisdom (203)
+## wisdom (199)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2194,7 +2186,6 @@
 | `kowela` | council | cultivates patient consensus through collective insight |
 | `kuelo` | curious | Openness to learning |
 | `kulo` | guide | Sharing knowledge of the way |
-| `lau` | twenty-seven-group | Makes the choice between exact and approximate description audible |
 | `lei` | harmony | requires understanding the middle way and patient adjustment |
 | `leiro` | release | Offers release as a metaphor without prescribing acceptance |
 | `letharo` | consistent | holding plurality without confusing compatibility with truth |
@@ -2261,7 +2252,6 @@
 | `phewo` | sage | Insight earned through living |
 | `phiro` | elegant | Tasteful quality |
 | `phiwheki` | counterexample | attention to particulars that resist an overly broad rule |
-| `phoi` | nine-group | Keeps exact, approximate, and sufficient quantity as separate claims |
 | `pholui` | bamboo | Flexible strength |
 | `pholuo` | luminous | Inner illumination |
 | `phue` | wise | Deep understanding |
@@ -2270,7 +2260,6 @@
 | `punoa` | society | Collective order |
 | `raeli` | height | Elevation |
 | `ralu` | free | Unbound state |
-| `rei` | eighty-one-group | Keeps exact eighty-one, approximate eighty-one-scale, and literal uncountability distinct |
 | `relua` | mirror | Self-seeing |
 | `remo` | think | thinking examined as a revisable activity rather than a settled answer |
 | `remole` | concept | a revisable mental pattern whose boundaries can be examined |
@@ -2287,7 +2276,6 @@
 | `selua` | aware | Knowing presence |
 | `serao` | old | accumulated experience and endurance |
 | `shaelo` | brave | Facing difficulty |
-| `shao` | three-group | Makes triadic grouping available as a design association rather than a universal claim |
 | `sharino` | conscience | moral self-appraisal that remains open to examination and correction |
 | `shea` | peace | requires understanding and active cultivation |
 | `sheluo` | listen | involves mindful awareness and receptive presence |

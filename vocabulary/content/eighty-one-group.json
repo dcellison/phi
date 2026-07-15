@@ -7,19 +7,25 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Eighty-One-Group / Fourth and Highest Ternary Scale",
-  "description": "A noun for a group of eighty-one (3⁴), the fourth and highest scale in Phi's ternary numeral system. 'Ta rei' is exactly 81, while bare 'rei' before a noun gives an approximate magnitude around eighty-one and often has the pragmatic force of 'a great many' or 'too many to count for this purpose.' It never means literal infinity or uncountability. Exact composition continues through 242.",
-  "sound_symbolism": "'Re' opens with the light liquid 'r', and the hiatus 'e.i' rises from mid to high across two distinct syllables—a small ascent fitting a word that stands at the top of the counting scale.",
-  "grammatical_notes": "Functions as a scale noun representing eighty-one. 'Ta rei' is exactly 81 and 'wi rei' is exactly 162; lower scales and units may follow. Bare 'rei' before a noun is approximate, as in 'rei silero' (stars on roughly an eighty-one-group scale; a great many stars). It appears at most once and is never recursively counted. With all lower coefficients at 'wi', the exact system ends at 'wi rei wi lau wi phoi wi shao wi' (242). Never combine a numeral or quantified phrase with plural 'lo'.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Bare 'rei' can support reflection on situations where exact counting is unnecessary or unavailable. It does not claim that phenomena, causes, or beings are inherently uncountable.",
-    "art-nouveau-aesthetics": "Repeated natural patterns can exceed what a viewer chooses to tally; bare 'rei' offers an approximate scale for that experience without calling it infinite.",
-    "pre-industrial-wisdom": "Restricted and grouped numeral practices exist in human languages, but no single threshold represents traditional societies. In Phi, 'rei' is a designed highest scale with both exact and approximate uses."
-  },
+  "search_terms": [
+    "eighty-one",
+    "great many"
+  ],
+  "description": "The scale ladder ends at 'rei', a group of eighty-one. With 'ta' or 'wi' before it, the word contributes an exact eighty-one-group. Bare 'rei' before a noun estimates around eighty-one and may read naturally as 'a great many'; the word names a large learned grouping, not infinity.",
+  "articulatory_notes": "A tap or short trill begins 're' and releases into true-mid front 'e'. The tongue then rises high and forward for a separate 'i'. Stress stays on 're'; the second vowel is lighter but still distinct.",
+  "sound_symbolism": "The hiatus rises from mid 'e' to high 'i'. As Phi's highest scale word, 'rei' can make that small upward movement useful as a mnemonic.",
+  "usage_notes": "The exact form 'ta rei' is eighty-one and 'wi rei' is one hundred sixty-two. Lower scales and final units may follow. The scale 'rei' appears once at most and is never recursively counted; with every coefficient at 'wi', the exact range ends at 242. Bare 'rei' before a noun is approximate, as in 'rei silero' (a great many stars).",
+  "examples": [
+    {
+      "phi": "ta rei himo miona mua silawo nai.",
+      "translation": "Eighty-one people are in the village."
+    },
+    {
+      "phi": "rei silero leo silawo nai.",
+      "translation": "A great many stars are above the village."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Can present a large visible pattern through approximate magnitude rather than an unsupported exact tally",
-    "cognition": "Names a learned group of eighty-one, not a perceptual or cognitive limit",
-    "nature": "Can estimate large natural quantities without claiming infinity",
-    "wisdom": "Keeps exact eighty-one, approximate eighty-one-scale, and literal uncountability distinct"
+    "cognition": "a group of eighty-one used as the highest exact scale and as a large approximate magnitude"
   }
 }

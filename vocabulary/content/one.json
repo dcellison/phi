@@ -6,15 +6,19 @@
     "ta"
   ],
   "pos": "numeral",
-  "concept": "One / Unity / Wholeness",
-  "description": "The first numeral. As a quantity it counts one thing; as a concept it names unity: wholeness rather than isolation, the seed that holds the tree.",
-  "sound_symbolism": "The single syllable 'ta' embodies singularity through its crisp clarity. The dental stop 't' makes definite contact—a clear point of articulation that establishes presence with gentle certainty. The open vowel 'a' that follows is the most basic, primal vowel—the first sound, the beginning of voice itself. Together, 'ta' creates the sound of definitive singularity: one clear point opening into infinite possibility.",
-  "grammatical_notes": "Both a numeral (the first counting number) and a determiner. As a determiner it directly precedes the noun, and no further singular marking is needed: 'ta miona' (one person). In arithmetic it is the multiplicative identity. It can also assert unity: 'lo mia ta nai.' (We are one.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "The numeral embodies the teaching of non-duality—that apparent separation is illusion, that all phenomena arise from and return to fundamental unity. Like the understanding that self and other are not two, 'ta' represents wholeness before division.",
-    "pre-industrial-wisdom": "The concept of 'one' as the beginning, the seed, the individual that contains the whole—found in traditional counting systems that begin with unity rather than zero."
-  },
+  "search_terms": [
+    "single"
+  ],
+  "description": "The exact numeral one: a counted quantity of one and the coefficient one in Phi's ternary composition. It counts either an individual referent or one named scale group, as in 'ta shao' (one three-group, exactly three). A philosophical passage may draw unity or wholeness from one, but that is the passage's metaphor rather than the numeral's fixed meaning.",
+  "articulatory_notes": "The tongue tip closes against the upper teeth for voiceless dental 't' and releases into open central, unrounded 'a'. The single syllable carries full stress.",
+  "usage_notes": "The numeral 'ta' may stand alone or count a following noun. An optional classifier comes between them, as in 'ta himo miona' (one person). Before a scale, it counts one group: 'ta shao' is exactly three. The ordinal form is 'nu ta' (first), and one is the multiplicative identity in arithmetic.",
+  "examples": [
+    {
+      "phi": "lopia ta lipha powea phelu.",
+      "translation": "The child holds one egg."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "fundamental cognitive concept for counting and establishing singular identity"
+    "cognition": "the exact singular quantity and the coefficient one used to build ternary numerals"
   }
 }

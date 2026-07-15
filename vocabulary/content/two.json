@@ -6,17 +6,19 @@
     "wi"
   ],
   "pos": "numeral",
-  "concept": "Two / Balance / Relationship",
-  "description": "The numeral two. Beyond counting, 'wi' carries duality and pairing: the first plural, the minimum for dialogue, the point where 'I' meets 'you'.",
-  "sound_symbolism": "The glide into 'w' and the bright final 'i' offer Phi a mnemonic image of movement into relation. This is a designed association with pairing, not a claim that the sounds inherently encode duality or produce awareness of relationship.",
-  "grammatical_notes": "Functions dually as a numeral (the second counting number) and as a determiner (specifying dual quantity). When functioning as a determiner, directly precedes nouns to indicate a pair: 'wi miona' (two people). It is the largest digit value in the ternary system, not the largest numeral. It builds larger exact forms before scale nouns, as in 'wi shao' (two three-groups = 6), and may carry contextual associations with pairing, balance, dialogue, or reciprocity.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Phi can use two as an image for apparent duality and interdependence: self and other, or paired concepts that define one another. The numeral does not summarize Buddhist accounts of nonduality or establish that every pair is balanced.",
-    "pre-industrial-wisdom": "Day and night, paired hands, and reciprocal tasks provide practical images of pairing. 'Wi' can evoke those relations without claiming that completeness always requires a pair or that traditional cultures share one symbolism of two."
-  },
+  "search_terms": [
+    "pair"
+  ],
+  "description": "The word 'wi' gives the exact quantity two and is the largest digit in Phi's ternary composition. It counts a pair of referents or two named scale groups, as in 'wi shao' (two three-groups, exactly six). Pairing makes two available for images of reciprocity or dialogue when the surrounding passage earns that reading.",
+  "articulatory_notes": "The lips round as the back of the tongue approaches the soft palate for voiced 'w'. They unround while the tongue moves high and forward into 'i'. As a one-syllable word, 'wi' takes full stress.",
+  "usage_notes": "A following noun may be counted directly with 'wi'; an optional classifier sits between the numeral and noun, as in 'wi himo miona' (two people). With a scale word it supplies the coefficient two, so 'wi shao' is exactly six. The form 'nu wi' is second. Although 'wi' is Phi's largest digit, compound numerals continue through 242.",
+  "examples": [
+    {
+      "phi": "wi himo piru mua silawo nai.",
+      "translation": "Two traders are at the village."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "fundamental concept for understanding plurality and relationship",
-    "community": "the beginning of social connection, the first 'we'",
-    "dialogue": "the minimum number for conversation, exchange, and reciprocity"
+    "cognition": "the exact quantity of two and the largest spoken coefficient in ternary numeral composition"
   }
 }
