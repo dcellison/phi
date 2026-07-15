@@ -7,16 +7,17 @@
     "ko"
   ],
   "pos": "adjective",
-  "concept": "Black / Dark-Color / Night-Hue",
-  "description": "The adjective naming the hue of night, shadow, and light's absence, the presence of all colors absorbed. In Phi, black carries associations with depth, rest, and the fertile darkness from which things emerge. This word names the color of night that means rest, of soil that means fertility, of shadow that means the price of light.",
-  "sound_symbolism": "The nasal 'n' and deep back vowel 'u' of 'nu' sit low and closed in the mouth, matching the darkness the word names. The velar stop 'k' of 'ko' gives the color a definite edge, and the rounded 'o' closes the word.",
-  "grammatical_notes": "Functions as an adjective preceding nouns: 'nuko shero' (black night). Can describe objects, darkness, or metaphorically mystery or mourning in some traditions. Related to 'nuelo' (dark): 'nuko' names the hue a surface wears, 'nuelo' how much light reaches the scene; a room at dusk is 'nuelo' though nothing in it is 'nuko'.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Darkness is where vision rests, where distinctions dissolve, where sleep restores. 'Nuko' names this necessary darkness.",
-    "pre-industrial-wisdom": "Black marked night, mystery, and the fertile darkness of soil and womb. 'Nuko' names the generative dark without negative judgment."
-  },
+  "description": "Charcoal and blackbird feathers are 'nuko'. Their color remains black in strong light. 'nuelo' (dark) instead reports low illumination; before another color, it marks a dark shade.",
+  "articulatory_notes": "Place the tongue tip at the upper teeth for dental nasal 'n' and carry the voice through the nose into rounded high-back 'u'. Close the back of the tongue against the soft palate for 'k', then release into rounded mid-back 'o'. Stress falls on 'nu'.",
+  "usage_notes": "'nuko kerou' is a black stone. The registered compound 'nuko pelori' names a blackbird through the same ordinary adjective pattern.",
+  "examples": [
+    {
+      "phi": "kerou nuko nai.",
+      "translation": "The stone is black."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "visual quality of light absence",
-    "nature": "the color of night and shadow"
+    "aesthetic": "the achromatic category at the low end of perceived lightness",
+    "nature": "charcoal and dark feathers are familiar black referents"
   }
 }

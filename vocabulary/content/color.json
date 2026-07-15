@@ -8,16 +8,21 @@
     "sha"
   ],
   "pos": "noun",
-  "concept": "Color / The Category of Hues",
-  "description": "Color: the category the individual hues belong to. Phi had every color and no word for color itself until this one. It also unlocks composition: 'haoni welisha' (voice-color) is timbre, registered in the compound registry.",
-  "sound_symbolism": "Liquid 'we'-'li' flows into 'sha', the softest of the fricatives: the word washes, as color does.",
-  "grammatical_notes": "Noun: 'mia welisha nila.' (I see color.) 'waero welisha helui.' (The sky's color changes.)",
-  "pillars": {
-    "art-nouveau-aesthetics": "The movement thought in color before it thought in line: Tiffany glass, enamel, the mural's palette. This word names their shared medium.",
-    "pre-industrial-wisdom": "Every color was once a recipe — madder red, woad blue, ochre from the hillside. Naming the category honors the craft that made its members."
-  },
+  "search_terms": [
+    "hue",
+    "colour"
+  ],
+  "description": "The visual quality that distinguishes a red flower from a blue one is 'welisha'. A source noun can stand before it: 'kerou welisha' (stone color) is gray. The registered compound 'haoni welisha' (voice color) carries the same image into timbre.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then unround into true-mid front 'e'. Touch the tongue tip to the alveolar ridge for 'l' and move into stressed high-front 'i'. Raise the tongue blade toward the postalveolar region for voiceless 'sh', then open into central 'a'.",
+  "usage_notes": "As a noun, 'welisha' takes a source before it. This pattern covers shades outside the seven adjective roots; 'horathe welisha' is dawn color, pink.",
+  "examples": [
+    {
+      "phi": "ha hina welisha nai.",
+      "translation": "What color is this?"
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "What the hues have in common",
-    "physical": "The washed surface of seeing"
+    "aesthetic": "the visual category used to name and compare colors",
+    "physical": "a perceived property of surfaces or light"
   }
 }

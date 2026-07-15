@@ -8,16 +8,17 @@
     "u"
   ],
   "pos": "adjective",
-  "concept": "Yellow / Warm Bright Hue",
-  "description": "The adjective for yellow, the hue of ripe grain, many flowers, and lamplight. The word 'soriu' covers pale and saturated yellows; mixtures and narrower shades use the ordinary color constructions when their source matters.",
-  "sound_symbolism": "Rounded 'so' sends a fine hiss across open 'o'. The quick tongue tap of stressed 'ri' narrows toward high 'i', then the final hiatus lets that brightness sink separately into deep 'u'. The word flashes at its center and keeps a little warmth after it.",
-  "grammatical_notes": "Adjective before a noun: 'soriu peloru' (yellow flower). It may describe an object, reflected light, or a color sample; 'welisha' (color) names color itself.",
-  "pillars": {
-    "solarpunk-values": "Yellow appears on solar diagrams, warning paint, and flowers planted for pollinators. The hue can mark both gathered energy and the living systems around it.",
-    "pre-industrial-wisdom": "Ripe grain and dry straw make yellow a harvest color, read in the field before the crop reaches the hand."
-  },
+  "description": "Ripe grain and many flowers are 'soriu'. Pale and saturated yellows both keep the word. A source before 'welisha' (color) can narrow the shade when that source matters.",
+  "articulatory_notes": "Bring the tongue blade close to the alveolar ridge for voiceless 's' and round into mid-back 'o'. Start the stressed second syllable with a tap or short trill for 'r' and high-front 'i'. Keep final rounded high-back 'u' separate from 'i', so the word ends with two distinct vowel beats.",
+  "sound_symbolism": "The stressed tap and high-front 'i' make the middle syllable the word's sharpest point. Final 'u' stays separate and rounds the sound after it. That bright centre can help recall yellow.",
+  "examples": [
+    {
+      "phi": "peloru soriu nai.",
+      "translation": "The flower is yellow."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "bright warm hue",
-    "nature": "color of ripe grain and many flowers"
+    "aesthetic": "yellow across pale and saturated shades",
+    "nature": "grain at harvest and yellow flowers offer recurring examples"
   }
 }

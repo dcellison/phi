@@ -7,16 +7,17 @@
     "lu"
   ],
   "pos": "adjective",
-  "concept": "Blue / Sky-Color / Water-Hue",
-  "description": "The adjective naming the cool hue of sky, water, and distant mountains. In Phi, blue carries associations with vastness, depth, and calm—the infinite overhead, the depths below, the far horizon. This word names the color of clear sky that means openness, of deep water that means mystery, of twilight that means transition.",
-  "sound_symbolism": "The fricative 'sh' opens the word on a hushed note, and the bright 'i' suits the clarity of open sky. 'Lu' follows with the liquid 'l' moving like water and the close 'u' settling toward depth.",
-  "grammatical_notes": "Functions as an adjective preceding nouns: 'shilu phialu' (blue water). Can describe objects, sky, or metaphorically emotional states (melancholy in some cultures, though this metaphor may not transfer).",
-  "pillars": {
-    "art-nouveau-aesthetics": "Blue appears throughout Art Nouveau—the blue of irises, of peacock feathers, of stained glass skies. 'Shilu' names this cooling, calming hue.",
-    "pre-industrial-wisdom": "Many traditional languages combined blue with green or black—the separate naming of blue came relatively late. 'Shilu' names the distinct sky-water hue."
-  },
+  "description": "A clear sky and some deep water appear 'shilu'. Dyed cloth can show the same color. Calm and sadness require context and other words; the hue alone supplies neither.",
+  "articulatory_notes": "Raise the tongue blade toward the postalveolar region for voiceless 'sh', then move into high-front 'i'. Touch the tongue tip to the alveolar ridge for lateral 'l' before rounded high-back 'u'. Stress falls on 'shi'.",
+  "usage_notes": "'nuelo shilu' is dark blue; 'whilo shilu' is pale blue.",
+  "examples": [
+    {
+      "phi": "mia shilu waero nila.",
+      "translation": "I see the blue sky."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "visual quality of cool hue",
-    "nature": "the color of sky and water"
+    "aesthetic": "blue on surfaces and in visible light",
+    "nature": "daylight sky and water give natural comparisons"
   }
 }

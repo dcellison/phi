@@ -7,16 +7,17 @@
     "ro"
   ],
   "pos": "adjective",
-  "concept": "Green / Leaf-Color / Growth-Hue",
-  "description": "The adjective naming the hue of living plants, of growth and renewal. In Phi, green carries associations with life, fertility, and the continuing presence of the plant world. This word names the color of leaves that mean photosynthesis, of grass that means the living earth, of spring that means renewal.",
-  "sound_symbolism": "The word opens with 'li', where the liquid 'l' flows with life—green is the living color, the continuous growth. The bright 'i' catches leaf-light, sunlight through leaves. This flows into 'ro', where the rolling 'r' continues like growth itself, ongoing and rolling forward, while 'o' rounds into the fullness of green abundance. Two syllables keep the word as fresh as new growth.",
-  "grammatical_notes": "Functions as an adjective preceding nouns: 'liro shiro' (green tree). Can describe plants, objects, or the quality of living growth.",
-  "pillars": {
-    "solarpunk-values": "Green is the color of solarpunk futures—living cities, flourishing ecosystems, nature integrated with human life. 'Liro' names the hue of this vision.",
-    "art-nouveau-aesthetics": "Green pervades Art Nouveau—the green of vines, of lily pads, of verdigris. 'Liro' names this life-affirming hue."
-  },
+  "description": "Many fresh leaves and blades of grass are 'liro'. A painted wall can be 'liro' too. The color alone says nothing about whether the thing is alive or ecologically sound.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for lateral 'l' and move into high-front 'i'. Begin the second syllable with a tap or short trill for 'r', then round into mid-back 'o'. Stress falls on 'li'.",
+  "usage_notes": "'liro lioru' literally describes green life and can describe lush vegetation when the context supports it.",
+  "examples": [
+    {
+      "phi": "whelina liro nai.",
+      "translation": "The grass is green."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "visual quality of life-hue",
-    "nature": "the color of plants and growth"
+    "aesthetic": "green color on living and made surfaces",
+    "nature": "leaves and grass are common natural examples"
   }
 }
