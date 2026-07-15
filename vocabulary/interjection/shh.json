@@ -7,14 +7,19 @@
     "u"
   ],
   "pos": "interjection",
-  "concept": "Shh / Quiet Please / Gentle Hushing",
-  "description": "An interjection requesting quiet or silence, used to calm situations or create space for careful listening. More than demanding silence, 'shiu' acknowledges that quietness is sometimes necessary for deeper communication, that pause can be as meaningful as speech.",
-  "sound_symbolism": "The interjection begins with 'ʃ', the soft postalveolar fricative that is itself a hushing sound—the very noise of quieting. This meets 'i', the high thin vowel that maintains minimal acoustic space. The hiatus descends into 'u', the deep back vowel that suggests settling into quietness. The progression from hushing ('shi') to depth ('u') mirrors the movement from active quieting to settled silence. The CVV structure allows the word itself to demonstrate the gradual settling it requests.",
-  "grammatical_notes": "Functions as a complete utterance requesting reduction in volume or cessation of speech. Can be used for practical needs (quieting for someone sleeping), safety (hearing important sounds), or contemplative purposes (creating space for reflection). Prosody and repetition indicate urgency—a single gentle 'shiu' differs from repeated urgent ones. Duration can be extended to model the quietness requested.",
-  "pillars": {
-    "secular-buddhist-philosophy": "The interjection embodies the value of noble silence—recognizing that sometimes the deepest communication happens in quietness. Like the meditation practice of settling the mind, 'shiu' creates space for what can only be heard in stillness.",
-    "art-nouveau-aesthetics": "Like the visual quiet spaces in Art Nouveau design that allow ornate elements to breathe, 'shiu' creates acoustic space. It acknowledges that beauty sometimes requires pause, that patterns emerge more clearly against backgrounds of quiet.",
-    "peace-linguistics-practices": "By using the softest possible sounds to request quiet, 'shiu' avoids the paradox of loud demands for silence. It models the behavior it requests, creating quiet through quiet rather than using verbal force to suppress sound.",
-    "pre-industrial-wisdom": "Living close to nature requires the ability to quiet human noise to hear environmental signals—approaching weather, animal warnings, water sounds. 'Shiu' carries this practical wisdom that silence is not empty but full of information."
-  }
+  "search_terms": [
+    "quiet",
+    "hush",
+    "silence please"
+  ],
+  "description": "A sleeping child or a faint sound may call for quiet. 'shiu' asks the room to settle, but the request itself grants no authority over other speakers.",
+  "articulatory_notes": "Raise the tongue blade toward the postalveolar area and send unvoiced air through its central groove for 'sh', then lift the tongue into high-front unrounded 'i'. Draw the tongue back and round the lips for high-back 'u' in the second syllable. Stress 'shi'.",
+  "sound_symbolism": "'shiu' begins with a sustained 'sh', so the request demonstrates the quieter sound it asks for.",
+  "usage_notes": "Lengthening the opening fricative can extend the hush while the word remains a request.",
+  "examples": [
+    {
+      "phi": "shiu.",
+      "translation": "Shh."
+    }
+  ]
 }

@@ -7,13 +7,22 @@
     "i"
   ],
   "pos": "interjection",
-  "concept": "Ouch / Ow / Pain Expression",
-  "description": "An interjection expressing physical or emotional pain, or sudden unpleasant sensation. Saying 'sai' both releases the hurt and signals it—an invitation to care without a demand for rescue.",
-  "sound_symbolism": "The interjection begins with 's', the sharp sibilant that hisses like the intake of breath when pain strikes. This meets 'a', the open vowel of release and expression. The hiatus lifts into 'i', the high tense vowel that carries the acute quality of pain. The CVV structure allows the word to move from the sharp recognition of hurt ('sa') to its peaked intensity ('i'), mirroring the experience of pain itself.",
-  "grammatical_notes": "Functions as a complete utterance in response to painful stimuli, whether physical or emotional. The vowel hiatus allows for prosodic extension when pain lingers. Context determines whether the pain is physical, emotional, or metaphorical. Tone and duration indicate severity while maintaining the basic pain-signaling function.",
+  "search_terms": [
+    "ow",
+    "pain",
+    "that hurts"
+  ],
+  "description": "A hand meets a hot pan and 'sai' is out before a full sentence arrives. It expresses sudden physical pain and can also report an emotional sting. The cry tells others that something hurts; whether help is wanted belongs to what follows.",
+  "articulatory_notes": "Raise the tongue blade near the alveolar ridge and send unvoiced air through its central groove for 's', then lower the jaw into open central 'a'. The tongue rises into high-front unrounded 'i' for the separate second syllable. Stress 'sa'.",
+  "sound_symbolism": "The hiss of 's' opens into broad 'a' and narrows toward high 'i', a quick contour suggestive of the acute edge of sudden pain.",
+  "usage_notes": "'halu' (aww) responds to another person's hurt or tenderness instead of reporting the speaker's own pain.",
+  "examples": [
+    {
+      "phi": "sai.",
+      "translation": "Ouch."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The interjection embodies the First Noble Truth—the acknowledgment of suffering as part of existence. Rather than denying or dramatizing pain, 'sai' provides a middle way of honest expression that neither suppresses nor amplifies the experience.",
-    "peace-linguistics-practices": "By providing a clear way to express pain without blame or aggression, 'sai' prevents the violence that can arise from unexpressed hurt. It allows pain to be communicated as information rather than accusation, inviting compassion rather than conflict.",
-    "pre-industrial-wisdom": "Traditional healing begins with acknowledging pain rather than hiding it. 'Sai' carries this wisdom that expressing hurt is not weakness but the first step toward care, that pain shared in community becomes more bearable."
+    "peace-linguistics-practices": "Before blame or diagnosis, 'sai' reports pain as a fact others can respond to."
   }
 }

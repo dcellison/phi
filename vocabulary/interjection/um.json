@@ -7,14 +7,18 @@
     "o"
   ],
   "pos": "interjection",
-  "concept": "Um / Uh / Thinking Pause",
-  "description": "An interjection that holds conversational space while the speaker formulates a thought or searches for a word. 'Nuo' keeps the turn open without faking content: it signals that thinking is still under way.",
-  "sound_symbolism": "The interjection begins with 'n', the nasal consonant that resonates internally—appropriate for marking internal processing. This meets 'u', the deep back vowel that suggests depth and contemplation. The hiatus creates natural suspension before rounding into 'o', suggesting ongoing process. The progression from internal resonance ('nu') to open continuation ('o') mirrors the state of active thinking that hasn't yet crystallized into words. The CVV structure provides duration for the thinking process.",
-  "grammatical_notes": "Functions as a conversational placeholder, signaling that the speaker is actively engaged but needs processing time. Can occur at any point where thought is required: sentence beginnings, between phrases, or mid-word when searching for precise expression. Duration can be extended through prolongation of the vowels, especially the final 'o'. Unlike silence, 'nuo' maintains the speaker's turn while acknowledging the need for time.",
-  "pillars": {
-    "solarpunk-values": "Collaborative decision-making requires time for processing complex information and considering multiple perspectives. 'Nuo' provides linguistic permission for the thinking time necessary for thoughtful collective action rather than rushed individual reactions.",
-    "secular-buddhist-philosophy": "The interjection embodies the space between thoughts—those pregnant pauses where wisdom can emerge. Like the gaps between breaths in meditation, 'nuo' acknowledges that emptiness is not absence but potential, that pause can be as meaningful as speech.",
-    "peace-linguistics-practices": "By normalizing thinking time, 'nuo' reduces the pressure for instant response that can lead to unconsidered words. It makes thoughtful speech possible, preventing the reactive communication that often escalates conflict.",
-    "pre-industrial-wisdom": "Oral traditions understand that good stories and wise counsel require pacing. 'Nuo' carries this wisdom that thought-time is not inefficiency but necessary preparation, that words worth hearing often need moments of silence to form."
-  }
+  "search_terms": [
+    "uh",
+    "hesitation",
+    "thinking pause"
+  ],
+  "description": "A word refuses to arrive on time; 'nuo' keeps the floor while the speaker waits for it. This audible thinking pause works at the start of a turn or midway through one. Unlike 'mio' (mmhm), it comes from the current speaker rather than the listener.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper front teeth for voiced dental 'n' and let air pass through the nose as the tongue draws back and the lips round for high-back 'u'. Lower the tongue slightly into mid-back 'o' for the second syllable and relax the rounding. Stress 'nu'.",
+  "usage_notes": "Either vowel may be prolonged to match the pause. The interjection can also stand alone while a response takes shape.",
+  "examples": [
+    {
+      "phi": "nuo.",
+      "translation": "Um."
+    }
+  ]
 }

@@ -7,13 +7,21 @@
     "lu"
   ],
   "pos": "interjection",
-  "concept": "Aww / I Feel With You / Empathetic Response",
-  "description": "An interjection expressing empathetic connection with another's experience—joy, sorrow, or anything between. 'Halu' resonates with the other's feeling without taking it over: 'I feel this with you,' not 'poor you.'",
-  "sound_symbolism": "The interjection begins with 'h', the gentlest consonant—a breath of recognition, the soft exhale of understanding. This meets 'a', the open vowel of acknowledgment and presence. The transition to 'lu' brings the liquid 'l' that flows with feeling, ending in 'u' that holds and contains emotion. The progression from breath ('ha') to flowing containment ('lu') mirrors empathy's movement from recognition to holding space for another's experience.",
-  "grammatical_notes": "Functions as a complete utterance in response to another's emotional expression or situation. Tone and context determine the specific empathetic quality: gentle for acknowledging pain, warm for sharing joy, soft for recognizing vulnerability. Can stand alone or be followed by supportive words. Unlike sympathy markers that might distance the speaker ('poor you'), 'halu' maintains connection while respecting boundaries.",
+  "search_terms": [
+    "tenderness",
+    "sympathy",
+    "fellow feeling"
+  ],
+  "description": "Someone shows you a mended toy, or tells you where it still hurts, and 'halu' answers the tenderness of the moment. It shares warmth or sympathy without claiming the other person's feeling as your own. 'sai' (ouch) speaks from the hurt itself; 'halu' responds from beside it.",
+  "articulatory_notes": "Let breath pass through the open glottis for 'h', then lower the jaw into open central 'a'. Touch the tongue tip to the alveolar ridge for 'l' and let voice escape along its sides as the tongue draws back and the lips round for high-back 'u'. Stress 'ha'.",
+  "usage_notes": "Tone can lean toward sympathy or delight. A fuller response can follow when the moment needs words or action.",
+  "examples": [
+    {
+      "phi": "halu.",
+      "translation": "Aww."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The interjection embodies compassion (karuna) in its most direct form—the spontaneous arising of fellow-feeling. Like the Buddhist practice of metta that begins with resonance, 'halu' acknowledges our fundamental interconnection through shared capacity for feeling.",
-    "peace-linguistics-practices": "By providing a way to acknowledge others' feelings without judgment or advice, 'halu' creates space for emotional validation. It transforms potential isolation into connection, making it safe to express vulnerability knowing it will be met with resonance rather than fixing.",
-    "pre-industrial-wisdom": "Traditional communities understand that shared feeling creates social bonds stronger than rules. 'Halu' carries this wisdom that empathy is not weakness but the thread that weaves individuals into community, that feeling-with is as important as thinking-about."
+    "peace-linguistics-practices": "'halu' acknowledges another person's feeling without recasting it as a problem for the listener to solve."
   }
 }

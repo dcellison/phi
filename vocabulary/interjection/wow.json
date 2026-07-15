@@ -7,14 +7,19 @@
     "o"
   ],
   "pos": "interjection",
-  "concept": "Wow / Oh My / Surprise",
-  "description": "An interjection expressing surprise, wonder, or astonishment at the unexpected. 'Wao' marks the moment reality exceeds expectation—larger, stranger, or more beautiful than assumed.",
-  "sound_symbolism": "The interjection begins with 'w', the most open consonant—lips rounded in the shape of wonder itself. This meets 'a', the most open vowel, creating maximum acoustic space for amazement. The hiatus suspends this openness before rounding into 'o', like wonder settling into appreciation. The progression from wide opening ('wa') to rounded completion ('o') mirrors the movement from initial surprise to integrated wonder. The CVV structure allows the word to expand with the expanding awareness.",
-  "grammatical_notes": "Functions as a complete utterance in response to surprising stimuli, whether positive, negative, or simply unexpected. Prosody and context determine the specific quality: rising intonation for questions arising from surprise, falling for settled amazement, extended vowels for overwhelming wonder. Can stand alone or introduce elaborating statements about the surprising element.",
-  "pillars": {
-    "solarpunk-values": "Innovation and discovery require the capacity for surprise—seeing old problems with new eyes, recognizing unexpected solutions. 'Wao' provides the emotional-linguistic recognition for those breakthrough moments when possibilities suddenly expand.",
-    "secular-buddhist-philosophy": "The interjection embodies the teaching of perpetual newness—that reality constantly exceeds our concepts. Like the Zen tradition of maintaining beginner's mind, 'wao' keeps us open to being surprised by a world that is always more than we think.",
-    "art-nouveau-aesthetics": "Like the Art Nouveau celebration of natural forms that surprise with their complexity and beauty, 'wao' creates linguistic space for aesthetic wonder. It acknowledges that beauty and strangeness often arrive together, demanding new ways of seeing.",
-    "pre-industrial-wisdom": "Living close to nature means daily encounters with the unexpected—weather changes, animal behaviors, seasonal variations. 'Wao' carries this acceptance that surprise is not failure of prediction but recognition of reality's genuine complexity."
-  }
+  "search_terms": [
+    "surprise",
+    "astonishment",
+    "wonder"
+  ],
+  "description": "The first glimpse over a ridge can draw 'wao' before any description is ready. It expresses surprise or astonishment, pleasant or otherwise. 'nea' (aha) means that understanding has arrived; 'wao' only says that expectation has been exceeded.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then release the rounding as the jaw opens into central 'a'. Round the lips again and draw the tongue back for mid-back 'o' in the separate second syllable. Stress 'wa'.",
+  "sound_symbolism": "The mouth moves from rounded 'w' into fully open 'a' before rounding again for 'o', a conspicuous opening that offers an embodied mnemonic for surprise.",
+  "usage_notes": "Pitch and vowel length can show the size or character of the surprise. Context supplies whether it is welcome or alarming.",
+  "examples": [
+    {
+      "phi": "wao.",
+      "translation": "Wow."
+    }
+  ]
 }

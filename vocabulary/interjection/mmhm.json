@@ -7,13 +7,22 @@
     "o"
   ],
   "pos": "interjection",
-  "concept": "Mm-hm / I See / I'm Following",
-  "description": "An interjection signaling that the listener is following, offered during another's speech without taking the turn. It confirms reception, not agreement, and gives the speaker enough feedback to keep going.",
-  "sound_symbolism": "The interjection begins with 'm', the humming consonant of internal resonance—lips closed in contemplation, vibration felt within. This meets 'i', the bright vowel of mental clarity and attention. The hiatus opens into 'o', the round vowel of ongoing reception. The progression from internal processing ('mi') to continued openness ('o') mirrors the state of active listening that both comprehends and remains receptive. The CVV structure allows the sound to flow without interrupting the speaker.",
-  "grammatical_notes": "Functions as a backchannel response during another's speech, signaling comprehension without taking the conversational turn. Can be interspersed throughout listening to provide ongoing feedback. Unlike 'lia' which expresses agreement, 'mio' simply confirms understanding—one can understand without necessarily agreeing. Prosody varies from quiet acknowledgment to engaged enthusiasm while maintaining its supportive rather than interruptive quality.",
+  "search_terms": [
+    "I am listening",
+    "I follow",
+    "backchannel"
+  ],
+  "description": "While another person is still speaking, 'mio' says that their words are landing. This backchannel shows attention or comprehension, not agreement. A positive answer belongs to 'lia' (yes).",
+  "articulatory_notes": "Close the lips for voiced 'm' and let its resonance pass through the nose as the tongue rises into high-front 'i'. Keep the next vowel separate while the tongue draws back and the lips round for mid-back 'o'. Stress 'mi'.",
+  "sound_symbolism": "The closed-lip nasal gives 'mio' a subdued, hummed opening that can recall a listener's quiet acknowledgement.",
+  "usage_notes": "It usually occurs during another person's turn and does not claim the floor. Tone can show how closely the listener is following without changing reception into assent.",
+  "examples": [
+    {
+      "phi": "mio.",
+      "translation": "Mm-hm."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The interjection embodies the practice of deep listening—being fully present to another's words without immediately judging or responding. Like mindful awareness that simply notes without interfering, 'mio' acknowledges without redirecting.",
-    "peace-linguistics-practices": "By providing a way to signal understanding without interruption, 'mio' supports collaborative dialogue. It prevents the violence of cutting others off while avoiding the coldness of silent reception, creating a middle way of engaged listening.",
-    "pre-industrial-wisdom": "Oral traditions rely on active listening signals to confirm transmission of knowledge. 'Mio' carries this wisdom that communication is circular—speakers need to know their words land, and listeners need to signal their engagement for the circle to complete."
+    "peace-linguistics-practices": "A listener can signal reception with 'mio' without interrupting or surrendering disagreement."
   }
 }
