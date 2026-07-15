@@ -8,16 +8,23 @@
     "sa"
   ],
   "pos": "adjective",
-  "concept": "Loud / Producing Strong Sound / High Volume",
-  "description": "Producing or capable of producing much noise; strongly audible. 'Theisa' names the quality of loudness—sound that carries, volume that demands attention.",
-  "sound_symbolism": "The word projects. 'The' /θe/ begins with breath released, sound forming. The vowel 'i' rises with intensity, volume building. Then 'sa' sustains outward, loudness complete.",
-  "grammatical_notes": "Functions as an adjective: 'theisa haoni' (loud voice). Opposite of 'maeli' (quiet). Phi generally values quietness, but loud sounds have their place—celebration, warning, call.",
+  "search_terms": [
+    "high volume"
+  ],
+  "description": "A bell heard across a square can be 'theisa'. The adjective describes sound with high perceived intensity or a source producing it. It reports volume without judging manner or intent; 'kapura' (shout) names a forceful vocal act, while 'keloa haolu' (rough speaking) names abrasive delivery.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth for voiceless dental 'th' and let air pass into true-mid front 'e'. Keep the following high-front 'i' as its own stressed hiatus syllable. Raise the tongue blade towards the alveolar ridge for voiceless 's', release the narrow airflow, and open into final central 'a'.",
+  "usage_notes": "Before a noun, 'theisa' describes a loud source or sound. Before a verb, it can describe audible manner, as in 'theisa hola' (laugh loudly). Its quality noun supplies loudness.",
+  "examples": [
+    {
+      "phi": "teli theisa nai.",
+      "translation": "The bell is loud."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Loud speech can overwhelm—awareness of volume respects others' auditory space.",
-    "pre-industrial-wisdom": "Loud sounds served community—drums calling gatherings, bells marking time, voices carrying news."
+    "peace-linguistics-practices": "Reporting volume without turning it into aggression keeps an acoustic fact separate from a judgement about the person making it."
   },
   "semantic_domains": {
-    "dialogue": "Strong sound",
-    "physical": "High volume"
+    "dialogue": "high perceived intensity in a voice or spoken utterance",
+    "physical": "high perceived intensity in a sound or its source"
   }
 }

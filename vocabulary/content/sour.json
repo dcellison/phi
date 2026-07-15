@@ -7,16 +7,21 @@
     "ko"
   ],
   "pos": "adjective",
-  "concept": "Sour / Having Acidic Taste / Tart",
-  "description": "Having an acidic taste like lemon or vinegar; tart and sharp. 'Tuko' names the quality of sourness—the taste that puckers, that signals fermentation or unripeness.",
-  "sound_symbolism": "The word puckers. 'Tu' begins with tongue pressed forward, tartness forming. Then 'ko' catches with sharp clarity, sourness confirmed.",
-  "grammatical_notes": "Functions as an adjective: 'tuko lureko' (sour fruit). Related to 'puko' (bitter) but describes acidic tang rather than sharp unpleasantness.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Sour experiences test patience—accepting discomfort without aversion, tasting fully what arises.",
-    "pre-industrial-wisdom": "Sour tastes signaled preservation—fermented foods carried beneficial sourness that indicated safe transformation."
-  },
+  "search_terms": [
+    "acidic",
+    "tart"
+  ],
+  "description": "Citrus, vinegar, and many fermented foods are 'tuko'. The adjective names acidic taste, distinct from 'puko' (bitter), and a food can carry both qualities. Sourness alone does not establish spoilage; 'mukesi' (spoil) names that deterioration.",
+  "articulatory_notes": "Place the tongue tip against the back of the upper teeth for voiceless dental 't' and release into high-back rounded 'u'. Close the back of the tongue against the soft palate for 'k', then release into rounded true-mid back 'o'. Stress falls on 'tu'.",
+  "usage_notes": "The adjective applies to taste rather than to a person's mood or manner. Its quality noun supplies sourness. Because 'tuko' and 'puko' differ only at the opening consonant, careful speech keeps the dental contact of 't' distinct from the lip closure of 'p'.",
+  "examples": [
+    {
+      "phi": "lureko tuko nai.",
+      "translation": "The fruit is sour."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Fermentation quality",
-    "physical": "Acidic taste"
+    "aesthetic": "an acidic taste encountered in food and drink",
+    "physical": "gustatory acidity such as citrus or vinegar"
   }
 }

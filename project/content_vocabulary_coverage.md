@@ -25,7 +25,8 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Retrospective audit of completed content batches | **DONE** | All six concept maps and their findings appear below. |
 | Review concepts with direct corpus pressure | **DONE** | Base `pukeri` damage, `rohemi` wear down, `huwa` weak, and `tinako` rigid now carry the four accepted distinctions. |
 | Test concepts without corpus pressure | **DONE** | Base `shumeko` resolves adhesion, base `selawi` resolves traction, base `patoku`, `larewu`, and `heshowa` resolve ordinary material phase, and base `ponalu`, `waleru`, and `hirawo` supply the three neutral spatial magnitudes. |
-| Resume inherited content prose migration | **NEXT** | Continue after the strength and recovery batch and apply the coverage gate to every new semantic batch. |
+| Sensory and perceptual qualities | **DONE** | Fifteen inherited entries now use the target prose contract. `pothu` (stink) remains unchanged while its lexical framing is reviewed. |
+| Resume inherited content prose migration | **NEXT** | Continue after the sensory and perceptual batch. Each semantic group passes through this coverage gate. |
 
 ## Batch overview
 
@@ -37,6 +38,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Pace, motion, and equilibrium | [PR #349](https://github.com/dcellison/phi/pull/349) | **COVERED** | Changes of rate remain ordinary constructions. |
 | Color | [PR #350](https://github.com/dcellison/phi/pull/350) | **SETTLED** | Canon closes the system at seven adjective roots and an open construction built from a source noun and color. |
 | Strength, deformation, and recovery | [PR #351](https://github.com/dcellison/phi/pull/351) and D020 | **COVERED** | Four base roots now close the damage, wear, weakness, and rigidity questions exposed by the retrospective. |
+| Sensory and perceptual qualities | Current migration batch | **REVIEW** | The channels and ordinary qualities are covered. `pothu` remains under review as the dedicated strongly unpleasant odour verb. |
 
 ## Audit method
 
@@ -151,6 +153,28 @@ The migrated words now separate force from construction and susceptibility to da
 | Deformation as an event | `helui` (change), `kire` (shape), `norelu` (form), and state vocabulary | **COMPOSITIONAL** | Technical discussion can state the changed shape and conditions. A dedicated term belongs in Systems or Work only if connected use needs it. |
 
 The four direct review items now have base roots. Their definitions keep the axes separate: a thing may be damaged without breaking, worn without being harmed, weak without being fragile, or rigid without being hard. The remaining questions below still need connected use before Phi decides whether they deserve roots.
+
+## Sensory and perceptual qualities
+
+A bell can be heard without being listened to. A warm bowl can be touched, sensed, and felt in three different claims. This field keeps those distinctions intact and separates a sensory channel from the speaker's evaluation of what arrived through it. The difference matters most with smell, where an honest report of aversion can easily become a judgement about a place or person.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| General perception without naming one channel | `morae` (sense), with `phaelo` (feel) and `sano` (know) as neighbours | **COVERED** | `morae` reports perceptual detection. `phaelo` gives the bodily or emotional experience, while `sano` makes the resulting knowledge claim. |
+| Visual perception and close observation | `nila` (see) and `somela` (observe) | **COVERED** | Ordinary sight uses `nila`; sustained attention to details or patterns uses `somela`. Visual understanding does not need a second English-shaped sense of see. |
+| Sound reaching perception and attention directed towards it | `hea` (hear) and `sheluo` (listen) | **COVERED** | Hearing reports reception. Listening adds chosen attention without promising agreement or comprehension. |
+| Neutral sound and contextual noise | `shonuwa` (sound) and `kohura` (noise) | **COVERED** | Sound is the broad physical category. Noise is sound heard as irregular, indistinct, or interfering in a particular setting, not a claim that the source lacks pattern or worth. |
+| High and low perceived sound intensity | `theisa` (loud), `maeli` (quiet), and quality nouns by rule | **COVERED** | Loudness does not imply aggression, and quietness does not imply calm or stillness. Degree and context locate intermediate volume. |
+| Physical contact, tactile information, and felt experience | `palo` (touch), `palethu` (tactile), `phaelo` (feel), and the migrated texture words | **COVERED** | Contact, information available through contact, and the resulting sensation remain three separate facts. The accessibility module keeps `palethu` available where the channel itself matters. |
+| Olfactory perception and a neutral odour | `whinu` (smell), including its event noun | **COVERED** | The verb names perception through smell, and the event noun names the odour. A source can possess or give that smell without a second emission verb. |
+| Pleasant or source-specific scent | `kaelo whinu` (sweet scent), source nouns before `whinu`, and ordinary clauses about response | **COMPOSITIONAL** | Phi can identify what a scent resembles or how a person responds to it without turning pleasantness into an objective property of every nose. |
+| Strongly unpleasant odour | `pothu` (stink), currently a dedicated intransitive verb | **REVIEW** | The distinction is useful for direct warnings and description, but the inherited entry treats aversion as a smell "gone wrong" and invites the contemptuous English use against people. Its one active literary use reports an underground railway carriage. The form and that use remain unchanged while Phi decides whether to redefine the verb contextually or replace it with a `whinu` construction. |
+| Flavour perception and a named flavour | `thorima` (taste), its event noun, and source nouns used as descriptors | **COVERED** | `thorima` stays with bodily flavour rather than copying the English homonym for aesthetic judgement. A source such as `morisa` (salt) can describe the flavour directly. |
+| Recurring taste qualities | `kaelo` (sweet), `tuko` (sour), `puko` (bitter), and `morisa thorima` (salt taste) | **COVERED** | Three adjectives cover established recurring qualities, while a transparent noun description supplies saltiness. The limited corpus extensions `kaelo whinu`, `kaelo haolu`, and `puko pelui` remain explicit comparisons rather than unrestricted emotional senses. |
+| A scientific basic-taste inventory | Exact source taxonomy beside ordinary Phi taste descriptions | **DEFERRED** | Phi need not encode one scientific inventory in base roots. A culinary or medical text can describe a source-linked flavour, preserve an exact taxonomy outside Phi, or expose a recurring distinction later. |
+| Visibility and sensory availability | `po nila` (can see), `hewasu` (audible), `palethu` (tactile), and `thewuni` (legible) | **COMPOSITIONAL** | Base grammar states whether someone can see under present conditions. Accessibility vocabulary names the narrower cases where sound, touch, or text must carry usable information for a participant. |
+
+No new root follows from this pass. The useful distinctions already have direct words or ordinary constructions, with one deliberate exception: `pothu` stays in review because Phi needs candour about unpleasant odours without borrowing the contempt that English packs into "stink".
 
 ## Resolved review decisions
 

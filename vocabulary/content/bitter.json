@@ -7,16 +7,17 @@
     "ko"
   ],
   "pos": "adjective",
-  "concept": "Bitter / Sharp Unpleasant Taste / Acrid",
-  "description": "Having a sharp, pungent taste that is not sweet; often unpleasant but sometimes valued. 'Puko' names the quality of bitterness—the taste that warns, that wakes, that medicines often carry.",
-  "sound_symbolism": "The word puckers. 'Pu' begins with slight rejection, taste encountered. Then 'ko' catches sharply, bitterness confirmed.",
-  "grammatical_notes": "Functions as an adjective: 'puko nepha' (bitter medicine). Opposite of 'kaelo' (sweet); neighbor of 'tuko' (sour). Can describe taste or metaphorical bitterness of experience.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Bitter experiences can teach—difficulty sometimes offers lessons sweetness cannot.",
-    "pre-industrial-wisdom": "Bitter tastes often signaled medicine—healing herbs frequently carried sharp, unpleasant flavors."
-  },
+  "description": "Coffee and many medicinal herbs are 'puko'. The adjective names bitter taste, distinct from the acidity of 'tuko' (sour). The established phrase 'puko pelui' extends bitterness to a severe, unpleasant cold; resentment and hardship are described directly.",
+  "articulatory_notes": "Close the lips fully for voiceless 'p' and release into high-back rounded 'u'. Raise the back of the tongue against the soft palate for 'k', make a complete closure, and release into rounded true-mid back 'o'. Stress falls on 'pu'.",
+  "usage_notes": "Literal taste is the ordinary use, and the quality-noun rule supplies bitterness. 'puko pelui' (bitter cold) is an established sensory extension. Careful speech keeps the opening lip closure distinct from dental 't' in 'tuko' (sour).",
+  "examples": [
+    {
+      "phi": "heru puko nai.",
+      "translation": "The herb is bitter."
+    }
+  ],
   "semantic_domains": {
-    "emotion": "Unpleasant quality",
-    "physical": "Sharp taste"
+    "aesthetic": "bitterness encountered and sometimes sought in food, drink, or medicine",
+    "physical": "a bitter gustatory quality distinct from acidity"
   }
 }

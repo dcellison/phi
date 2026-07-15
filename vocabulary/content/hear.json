@@ -7,17 +7,18 @@
     "a"
   ],
   "pos": "verb",
-  "concept": "Hear / The Passive Reception of Sound",
-  "description": "To perceive sound passively and physically: the simple reception of auditory vibration, without the necessary layer of mindful attention that defines listening.",
-  "sound_symbolism": "The breathy 'h' opens the word like ears opening to sound, creating immediate receptivity. The vowel sequence 'e.a' forms an acoustic chamber - the focused 'e' channeling sound inward, expanding into the open 'a' where vibrations resonate. This two-syllable simplicity mirrors hearing's fundamental nature: not active listening but the basic physiological gift of perceiving sound waves as they wash over us.",
-  "grammatical_notes": "'mia melira hea.' (I hear a song.) Hearing as a noun follows from the event-noun rule. Distinguished from 'sheluo' (listen), which adds deliberate attention to the bare reception hea names.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Hearing represents the foundational awareness that precedes deeper listening - the simple acknowledgment that sounds arise and pass away in consciousness. This basic receptivity teaches us about the nature of experience itself: how phenomena appear in awareness without our choosing, inviting us to notice what is present before we add interpretation or judgment."
-  },
+  "description": "A bell across the square may reach perception while someone is busy elsewhere. 'hea' reports that the sound was heard, though attention may have been elsewhere. 'sheluo' (listen) adds directed attention; 'hewasu' (audible) asks whether sound is available to a stated listener under the conditions at hand.",
+  "articulatory_notes": "Let unvoiced air pass freely through the open glottis for 'h', then shape true-mid front 'e'. Keep the following open central 'a' as its own hiatus syllable. Stress falls on 'he'.",
+  "usage_notes": "The source or content heard stands before the verb. Without an object, the verb can report hearing as an ability or event. In noun position, 'hea' is hearing.",
+  "examples": [
+    {
+      "phi": "mia teli hea.",
+      "translation": "I hear a bell."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "processes auditory information through mental reception",
-    "dialogue": "provides foundational reception for verbal exchange",
-    "nature": "connects to environmental awareness through natural soundscapes",
-    "physical": "involves the bodily sense and physiological perception of sound"
+    "cognition": "sound arriving in perception",
+    "dialogue": "spoken language becoming available to a hearer",
+    "physical": "auditory reception through the body"
   }
 }

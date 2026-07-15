@@ -8,16 +8,20 @@
     "lo"
   ],
   "pos": "adjective",
-  "concept": "Sweet / Having Pleasant Taste / Sugary",
-  "description": "Having the pleasant taste characteristic of sugar or honey; not bitter or sour. 'Kaelo' names the quality of sweetness—the taste that pleases, that signals ripeness, that rewards.",
-  "sound_symbolism": "The word pleases. 'Ka' begins with clear presence, taste arriving. The vowel 'e' opens to pleasure, sweetness spreading. Then 'lo' flows with satisfaction, enjoyment complete.",
-  "grammatical_notes": "Functions as an adjective: 'kaelo lureko' (sweet fruit). Opposite of 'puko' (bitter). Can describe taste or metaphorical sweetness of experience.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Sweet experiences are impermanent—enjoying without grasping, appreciating without demanding more.",
-    "pre-industrial-wisdom": "Sweet tastes signaled nutrition—ripeness and energy in fruits and honey, nature's rewards."
-  },
+  "search_terms": [
+    "sugary"
+  ],
+  "description": "Honey and many ripe fruits are 'kaelo', with the taste characteristic of sugar. Established sensory extensions include 'kaelo whinu' (sweet scent), and News from Nowhere uses 'kaelo haolu' for pleasing, flattering speech. These are comparisons with sweetness rather than a general word for goodness; 'welao' (good) carries an explicit positive judgement.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for 'k' and release into open central 'a'. Keep the following true-mid front 'e' as its own stressed hiatus syllable. Touch the tongue tip to the alveolar ridge for lateral 'l' and finish with rounded true-mid back 'o'.",
+  "usage_notes": "Literal taste is the default. A named sensory channel or established expression makes an extension clear. The quality-noun rule supplies sweetness; 'ru kaelo haolu' is overly sweet or flattering speech.",
+  "examples": [
+    {
+      "phi": "hemilo kaelo nai.",
+      "translation": "Honey is sweet."
+    }
+  ],
   "semantic_domains": {
-    "emotion": "Enjoyable quality",
-    "physical": "Pleasant taste"
+    "aesthetic": "sweetness appreciated in flavour, scent, or an established sensory comparison",
+    "physical": "the taste associated with sugar, honey, and ripe fruit"
   }
 }
