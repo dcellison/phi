@@ -59,9 +59,11 @@ Phi has six words in peace's neighborhood, and each holds its own ground. *shea*
 
 The joy pair carves the same way: *siora* is felt joy, the upwelling in the one who feels it, and *loshi* is the joy-giving character of things, a festival day, good news, a bright morning.
 
-## The composed heart
+## The named and composed heart
 
-The felt basics are the whole coined emotion lexicon, and this is settled canon: complex emotions are never given roots. They compose from their mechanisms, and the compound registry keeps the results. Anger is *korua thero*, heart-fire, and hatred is the same fire spoken of the same way. Contempt is *thiku nila*, seeing-as-small, an act rather than a verdict. Envy is *phelu pula*, the holding-wish, the wish aimed at what another holds. Loneliness is *sonu* plus *nuhe*, the sadness of being alone. Each compound shows its working, and showing the working is the point: a person who says *phelu pula* has already begun to see what the feeling is made of.
+The list above gives a learner the core feeling patterns, but Phi's heart has more than one shelf. Beyond it are *monelu* (amused), *wiroa* (hopeful), *luroi* (nervous), and *nilua* (shy). *therua* (eager), *sheli* (impatient), and *wipha* (restless) belong there too. Each word has a useful carve of its own.
+
+Several other feelings keep their parts visible. Anger is *korua thero*, heart-fire, and hatred is the same fire spoken of the same way. Contempt is *thiku nila*, seeing-as-small, an act rather than a verdict. Envy is *phelu pula*, the holding-wish, the wish aimed at what another holds. Loneliness is *sonu* plus *nuhe*, the sadness of being alone. Each expression shows its working: a person who says *phelu pula* has already begun to see what the feeling is made of. Composition here is a choice about meaning. A direct word remains possible when it carries a clear, useful distinction.
 
 Wonder needs no compound at all, because wonder is a question held as a feeling, and Phi can put a whole question inside *phaelo*:
 
