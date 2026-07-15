@@ -7,13 +7,18 @@
     "i"
   ],
   "pos": "preposition",
-  "concept": "Near / Close to / In Proximity",
-  "description": "Marks location within close range of a reference point, near enough that interaction is possible. 'Pai' names relative closeness rather than measured distance.",
-  "sound_symbolism": "The word begins with 'pa', where the plosive 'p' creates a precise point—lips coming together to mark a definite position. This firm beginning immediately brightens into 'i', the highest, most forward vowel, like awareness reaching out from that point. The acoustic journey from precise position to bright extension mirrors how nearness begins with specific location but radiates into relational space. The crisp, quick articulation suggests the immediacy that nearness enables—no long journeys of sound, just the brief bright statement of proximity.",
-  "grammatical_notes": "Functions as a spatial preposition marking relative closeness without specifying exact distance—what counts as 'near' depends on context and scale. Precedes the noun it modifies: 'pai thero' (near the fire), 'pai lumae' (near the end), 'pai korua' (near the heart). Unlike adjacency prepositions, 'pai' implies potential for interaction rather than mere position. Gradable—can be modified to indicate degrees of nearness.",
-  "pillars": {
-    "solarpunk-values": "Localized systems depend on nearness—nearby food sources, close community ties, proximate resources. 'Pai' serves the solarpunk emphasis on human-scale relationships and bioregional awareness where nearness enables resilience.",
-    "peace-linguistics-practices": "Conflict often arises from distance—misunderstanding grows in the gaps between us. 'Pai' acknowledges that nearness enables understanding, that proximity (physical or emotional) creates conditions for peaceful relationship.",
-    "pre-industrial-wisdom": "Traditional communities understood nearness as responsibility—those near to us have first claim on our care. 'Pai' carries this understanding that proximity creates relationship, that what is near is ours to tend."
-  }
+  "search_terms": [
+    "near",
+    "close to",
+    "almost"
+  ],
+  "description": "A village may be near when the road is easy and far when you are carrying a heavy load. 'pai' places it close to a reference point, with the relevant scale left to context. The relation also works for an approaching time or state, where English may use 'nearly' or 'almost'. 'woe' (FAR) gives the distant side of the pair.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release them into open central 'a'. Keep the vowel break as the tongue rises into high-front unrounded 'i'. Stress 'pa'.",
+  "usage_notes": "The reference point follows 'pai'. With a state or boundary as its object, the phrase describes approach without saying that the endpoint has been reached.",
+  "examples": [
+    {
+      "phi": "shelira pai silawo nai.",
+      "translation": "The forest is near the village."
+    }
+  ]
 }

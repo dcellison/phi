@@ -7,13 +7,19 @@
     "i"
   ],
   "pos": "preposition",
-  "concept": "Until / Up To / Reaching The Point Of",
-  "description": "Marks a temporal or conceptual endpoint—the boundary at which continuation ceases or transformation occurs. 'Tei' indicates duration or extent that reaches but does not cross a limit. This preposition acknowledges that endpoints matter, that knowing when something ends is as important as knowing when it begins.",
-  "sound_symbolism": "The word begins with 't', the dental stop that creates clear acoustic boundaries—the tongue touching the ridge to mark a definite point. This precise consonant meets 'e', the balanced mid vowel of measured approach, neither rushing toward nor retreating from the endpoint. Finally, 'i' focuses to the highest, thinnest vowel, pointing precisely at the terminus. Speaking 'tei' creates the acoustic shape of reaching a limit: clear beginning, measured progress, focused arrival at the boundary.",
-  "grammatical_notes": "Functions as a temporal/extent preposition marking endpoints. Precedes its object: 'tei kelua' (until morning), 'tei lumae' (until the end). Indicates that the action or state continues up to but not beyond the specified point. Can mark temporal endpoints: 'tei weno' (until when), or extent endpoints: 'tei ha tholu' (up to this space). Distinguished from 'phoe' (before) which positions events in sequence without implying continuous duration.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Understanding endpoints supports practice—sitting until the bell, practicing until insight, persisting until liberation. 'Tei' grammaticalizes this recognition that limits are not failures but necessary boundaries that give shape to effort.",
-    "peace-linguistics-practices": "Clear communication about limits prevents misunderstanding and resentment. 'Tei' provides precise language for boundaries, supporting agreements that are kept because they are understood.",
-    "pre-industrial-wisdom": "Traditional knowledge is full of 'untils'—working until dusk, waiting until the season turns, keeping watch until relief comes. 'Tei' carries this understanding that sustainable effort requires clear endpoints."
-  }
+  "search_terms": [
+    "until",
+    "up to",
+    "as far as",
+    "endpoint"
+  ],
+  "description": "Dusk may end a child's play, and 'tei norawhi' says that the play lasts to that point. 'tei' marks the endpoint reached by an ongoing event or extent. 'phoe' (ANT) merely places one event before another; it does not say that the earlier event continues to that boundary.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper front teeth for unvoiced dental 't' and release it into middle-height front 'e'. The tongue then rises into high-front unrounded 'i' for the separate second syllable. Stress 'te'.",
+  "usage_notes": "The endpoint follows 'tei'. It may be a time such as dusk or a named boundary such as 'lumae' (end).",
+  "examples": [
+    {
+      "phi": "lopia tei norawhi wile.",
+      "translation": "The child plays until dusk."
+    }
+  ]
 }
