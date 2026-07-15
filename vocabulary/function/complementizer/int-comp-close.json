@@ -7,12 +7,17 @@
     "lo"
   ],
   "pos": "complementizer",
-  "concept": "End embedded question / Close interrogative clause",
-  "description": "The required closing counterpart of the interrogative complementizer 'wela'. Marks the end of an embedded yes/no question, providing explicit boundary marking so the main verb can follow without ambiguity. Together, 'wela...welo' functions as spoken brackets around embedded questions.",
-  "sound_symbolism": "Shares the 'we' onset with 'wela', maintaining the acoustic signature of questioning. The final rounded 'o' signals closure, following the consistent Phi pattern in which openers end open and closers end rounded, resolving the openness of the question's frame.",
-  "grammatical_notes": "Required counterpart to 'wela'. Appears immediately after the final word of the embedded question, before the main verb resumes. Structure: [Subject] wela [embedded question] welo [main verb]. Required because Phi's SOV word order places the main verb after the embedded clause, and without 'welo' the boundary between the embedded verb and the main verb would be ambiguous.",
-  "pillars": {
-    "secular-buddhist-philosophy": "The closing marker completes the framing of uncertainty. By clearly ending the embedded question, 'welo' allows the mind to hold the question as a bounded object of contemplation.",
-    "peace-linguistics-practices": "Clear demarcation of where the embedded question ends supports transparent communication. The listener knows precisely where uncertainty is being expressed and where the speaker's own assertion resumes."
-  }
+  "search_terms": [
+    "whether clause closer",
+    "embedded question boundary"
+  ],
+  "description": "At 'welo', a binary question begun by 'wela' (INT.COMP) ends before the surrounding predicate continues. The uncertainty may remain unresolved because the word completes a grammatical frame, not an answer.",
+  "articulatory_notes": "Shape 'w' by rounding the lips while raising the tongue dorsum, then draw them apart and advance the tongue for middle-height 'e'. To form 'l', the blade touches the alveolar area; voiced air exits laterally, and the lips return to 'o', rounded at the back. Accent 'we'.",
+  "usage_notes": "'welo' pairs only with 'wela' and cannot be replaced by a pause. In a nested sentence, it resolves the nearest unmatched 'wela' before the outer structure continues.",
+  "examples": [
+    {
+      "phi": "shia wela mia so kamo welo ma sano.",
+      "translation": "They do not know whether I will arrive."
+    }
+  ]
 }

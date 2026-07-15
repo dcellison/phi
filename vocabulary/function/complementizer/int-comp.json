@@ -7,12 +7,18 @@
     "la"
   ],
   "pos": "complementizer",
-  "concept": "Whether / Interrogative Complementizer",
-  "description": "The complementizer that introduces embedded yes/no questions, announcing that what follows is an uncertainty being considered, wondered about, or investigated. Together with its required closer 'welo', the pair frames embedded questions the way 'mena'/'meno' frames embedded statements.",
-  "sound_symbolism": "The word opens with 'we', the glide that reaches outward into possibility, into the unknown. The liquid 'la' flows toward whatever answer might come. Speaking 'wela' feels like opening a door to uncertainty, inviting a question to unfold before resolving it.",
-  "grammatical_notes": "Introduces embedded yes/no questions. Always paired with closer 'welo'. Structure: [Subject] wela [embedded question] welo [main verb]. Example: 'mia wela shia so shua welo phaelo' (I wonder whether they will arrive). Distinguished from 'wa' (direct question particle) which marks questions expecting an answer; 'wela'/'welo' embeds questions as objects of verbs like 'wonder', 'ask', 'know'.",
-  "pillars": {
-    "secular-buddhist-philosophy": "The word acknowledges that not-knowing is a valid state. Embedded questions honor uncertainty rather than rushing past it, supporting the practice of holding questions openly.",
-    "peace-linguistics-practices": "Embedding questions rather than demanding answers supports non-coercive communication. 'Wela' allows speakers to express uncertainty without forcing resolution, creating space for genuine inquiry."
-  }
+  "search_terms": [
+    "whether",
+    "embedded yes or no question",
+    "interrogative complement"
+  ],
+  "description": "With 'wela', a question whose possible answers are yes and no becomes the content of a larger statement. Its partner 'welo' (INT.COMP.CLOSE) ends the uncertainty, and the larger statement's predicate follows. Direct questions use 'wa' (Q); embedded content questions put a gap-word in place and need no frame.",
+  "articulatory_notes": "Begin 'w' with rounded lips and a raised tongue dorsum; as you move into 'e', spread the lips and shift the tongue forward. For 'la', press the blade behind upper incisors, allow voiced air around its sides, then lower the jaw into open 'a'. Stress 'we'.",
+  "usage_notes": "The questioned clause occupies object position between 'wela' and 'welo'. It uses the usual clause order and independent tense marking, but it never takes 'wa'. With 'phaelo' (feel) the frame means wonder; 'sano' (know) makes it something known or not known.",
+  "examples": [
+    {
+      "phi": "mia wela shia to wepu welo phaelo.",
+      "translation": "I wonder whether they left."
+    }
+  ]
 }

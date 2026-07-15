@@ -7,12 +7,17 @@
     "no"
   ],
   "pos": "complementizer",
-  "concept": "End declarative clause / Close embedded statement",
-  "description": "The required closing counterpart of the declarative complementizer 'mena'. Marks the end of an embedded declarative clause, providing explicit boundary marking so the main verb can follow without ambiguity. Together, 'mena...meno' functions as spoken brackets around embedded statements, giving listeners an unambiguous signal of where reported content begins and ends.",
-  "sound_symbolism": "Shares the 'me' onset with 'mena', maintaining the acoustic signature of declarative embedding. The final rounded 'o' signals closure, completing the consistent Phi pattern in which openers end open and closers end rounded.",
-  "grammatical_notes": "Required counterpart to 'mena'. Appears immediately after the final word of the embedded declarative clause, before the main verb resumes. Structure: [Subject] mena [embedded statement] meno [main verb]. Required because Phi's SOV word order places the main verb after the complement clause, and without 'meno' the boundary between the embedded verb and the main verb would be ambiguous. Follows the Phi pattern where opener ends in '-a' and closer ends in '-o'.",
-  "pillars": {
-    "secular-buddhist-philosophy": "The closing marker completes the act of reporting another's thought. By clearly ending the embedded clause, 'meno' returns responsibility for subsequent words to the current speaker, maintaining the boundary between reported content and one's own expression.",
-    "peace-linguistics-practices": "Required boundary marking supports the principle of transparent communication. Listeners always know precisely where reported content ends and the speaker's own assertion resumes, preventing the ambiguity that can lead to misattribution."
-  }
+  "search_terms": [
+    "that clause closer",
+    "embedded statement boundary"
+  ],
+  "description": "In a declarative frame, 'meno' ends the content introduced by 'mena' (DECL.COMP). The governing predicate follows; this audible boundary prevents its verb from being heard as part of the embedded statement.",
+  "articulatory_notes": "Press the lips together for voiced 'm' and open onto 'e', unrounded at mid height near the front. Dental 'n' follows at the upper incisors, with the tongue apex touching from behind. Keep voice on while the mouth rounds toward back 'o' at middle height. Accent 'me'.",
+  "usage_notes": "After the subject, 'mena' opens the statement and 'meno' closes it before the matrix predicate. Its internal verb takes the tense appropriate to that statement. A pause never substitutes for 'meno', and nested pairs close from the inside out.",
+  "examples": [
+    {
+      "phi": "shia mena thia so kamo meno haolu.",
+      "translation": "They say that you will arrive."
+    }
+  ]
 }
