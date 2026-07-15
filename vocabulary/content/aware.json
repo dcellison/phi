@@ -8,16 +8,26 @@
     "a"
   ],
   "pos": "adjective",
-  "concept": "Aware / Conscious Of / Perceiving",
-  "description": "Having knowledge or perception of a situation or fact; conscious. 'Selua' names the quality of knowing presence—sensing what is, perceiving surroundings, consciousness turned toward experience.",
-  "sound_symbolism": "The word opens to perception. 'Se' begins with sensing attention, awareness reaching. Then 'lu' flows with open receptivity. Finally 'a' awakens fully, perception complete.",
-  "grammatical_notes": "Functions as an adjective: 'selua miona' (aware person). Related to 'thesua' (mindful) but broader—awareness of anything, not specifically mindful attention.",
+  "search_terms": [
+    "cognizant",
+    "noticing"
+  ],
+  "description": "'selua' describes awareness of something particular: a present fact, a sensation, an event, or a surrounding condition. Someone may notice it briefly or already know it. 'waeli' (conscious) names the wider presence of subjective experience, 'thesua' (mindful) adds deliberate attention to the present act, and 'sano' (know) makes a knowledge claim.",
+  "articulatory_notes": "Hold the tongue close to the alveolar ridge and pass unvoiced air through the narrow channel for 's', then use true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for 'l' and continue into rounded high-back 'u'. Keep the final open unrounded 'a' separate across the 'u.a' hiatus. Stress falls on 'lu'.",
+  "sound_symbolism": "A narrow hiss opens into the voiced liquid of the stressed middle syllable, then the mouth widens across the final hiatus. The contour can suggest attention moving towards something and leaving room for what it finds.",
+  "usage_notes": "The adjective stands before a noun or with 'nai' (be). When the object of awareness matters, state the perceived fact or event in the surrounding sentence instead of forcing the English phrase 'aware of' into the adjective.",
+  "examples": [
+    {
+      "phi": "mia selua nai.",
+      "translation": "I am aware."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Awareness is the foundation of practice—knowing what is happening while it is happening.",
-    "peace-linguistics-practices": "Aware communication notices impact—sensing how words land, perceiving the other's state."
+    "secular-buddhist-philosophy": "Present awareness begins with noticing what is happening, including sensations and thoughts, before deciding what they mean.",
+    "peace-linguistics-practices": "Awareness of another person's words, limits, and response can inform compassionate speech without claiming access to their inner life."
   },
   "semantic_domains": {
-    "cognition": "Conscious perception",
-    "wisdom": "Knowing presence"
+    "cognition": "awareness directed towards a present fact, sensation, event, or condition",
+    "wisdom": "noticing that can precede reflection or response"
   }
 }

@@ -7,18 +7,33 @@
     "e"
   ],
   "pos": "verb",
-  "concept": "Open / Receptive Space",
-  "description": "The quality of being receptive, unguarded, and welcoming to new experiences, ideas, and connections. Openness encompasses transparency, vulnerability, and the creation of space for others to be themselves.",
-  "sound_symbolism": "The word opens with 'pha', where the soft fricative 'ph' /ɸ/ creates space rather than filling it - the exhale that makes room for what wishes to enter. This spaciousness extends through 'e', the most minimal vowel, barely there yet fully present. The vowel hiatus between 'a' and 'e' embodies openness itself: no consonant barrier, just breath flowing into breath. The sound teaches its meaning - to be open is to breathe space into being.",
-  "grammatical_notes": "A verb: 'mia ponu phae' (I open the door); imperative 'no ponu phae.' (Open the door.) Mirrors verb-only 'tapu' (close). Similar to Mandarin kāi (开). The open state is its result — 'ponu ki phae' (the door stands open, PFV) — and an opening, the noun, comes by the event-noun rule.",
+  "search_terms": [
+    "unseal",
+    "uncover",
+    "admit entry",
+    "make accessible"
+  ],
+  "description": "To 'phae' is to move or remove a closure so that passage, access, flow, or view becomes possible. Doors and containers open, but so can a route or a discussion. The receptive gesture stops short of agreement, consent, complete disclosure, or the loss of a boundary.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then open into unrounded 'a'. Keep true-mid front unrounded 'e' in a separate syllable across the 'a.e' hiatus. Stress falls on 'pha'.",
+  "sound_symbolism": "The word begins as breath through a narrow lip opening, then widens into 'a' and crosses to a second vowel with no consonant barrier. The whole contour can feel like a small release of space.",
+  "usage_notes": "The verb is transitive when someone opens something: 'mia ponu phae' means I open the door. A resulting open state can use perfective 'ki phae'. 'tapu' (close) is the opposing verb. Metaphorical uses should preserve an actual opening of access or participation rather than treating openness as unlimited availability.",
+  "examples": [
+    {
+      "phi": "mia ponu phae.",
+      "translation": "I open the door."
+    },
+    {
+      "phi": "shia shareo phae.",
+      "translation": "They open the discussion."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Open-source philosophy drives solarpunk innovation - sharing designs, data, and discoveries freely accelerates collective problem-solving. This transparency extends beyond technology to governance, economics, and social structures, proving that openness creates abundance while secrecy breeds scarcity.",
-    "secular-buddhist-philosophy": "Open awareness accepts what arises without clinging or aversion, recognizing that resistance to experience creates suffering. This isn't passive acceptance but active receptivity - meeting each moment freshly without the burden of expectation. Openness allows the fluid nature of reality to flow without obstruction.",
-    "peace-linguistics-practices": "Openness in communication creates the conditions for genuine dialogue - when we approach conversations without predetermined outcomes, authentic understanding becomes possible. This receptivity to others' perspectives, especially those that challenge our own, transforms potential conflict into opportunities for growth and connection."
+    "solarpunk-values": "Opening a route, meeting, tool, or store can make shared participation possible. The word leaves ownership, consent, and the conditions of access to be stated separately.",
+    "peace-linguistics-practices": "A speaker may open a discussion or make room for a response without requiring agreement. Receptivity remains compatible with refusal and boundaries."
   },
   "semantic_domains": {
-    "dialogue": "fundamental to genuine communication and exchange",
-    "spatial": "literally about creating and being space",
-    "wisdom": "requires understanding and receptive awareness"
+    "activity": "the act that produces an open state",
+    "dialogue": "beginning access to an exchange or response",
+    "spatial": "removing or moving a closure so passage, access, flow, or view becomes possible"
   }
 }

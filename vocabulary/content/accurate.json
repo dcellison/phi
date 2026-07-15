@@ -8,16 +8,31 @@
     "a"
   ],
   "pos": "adjective",
-  "concept": "Accurate / Correct / True to Fact",
-  "description": "Conforming exactly to truth or to a standard; free from error. 'Telua' names the quality of correctness—alignment between representation and reality, between claim and fact.",
-  "sound_symbolism": "The word aligns with truth. 'Te' begins with definite clarity, fact established. Then 'lu' flows toward alignment, matching reality. Finally 'a' opens to confirmation, accuracy achieved.",
-  "grammatical_notes": "Functions as an adjective: 'telua sano' (accurate knowledge). Related to 'shewo' (true) but emphasizes factual correctness rather than authenticity of being.",
+  "search_terms": [
+    "correct",
+    "exact",
+    "factually faithful"
+  ],
+  "description": "'telua' marks agreement between a representation and the fact or reference it is meant to represent. It suits a count, map, measurement, record, or factual statement. Accuracy says nothing by itself about fine detail or the speaker's honesty: 'kiro' (precise) concerns narrow limits, 'shewo' (true) concerns reality or genuineness, and 'phelira' (mistaken) names a state of error.",
+  "articulatory_notes": "Place the tongue tip against the upper teeth for unvoiced dental 't' and release it into true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for 'l', then raise the back of the tongue for rounded high-back 'u'. Keep the final unrounded open 'a' in a separate syllable, with no glide across the 'u.a' hiatus. Stress falls on 'lu'.",
+  "sound_symbolism": "The dental release gives the word a clean beginning, while 'l' carries the voice into a rounded centre. The final hiatus opens from 'u' into broad 'a'. That measured movement can recall a mark checked against the thing it was meant to record.",
+  "usage_notes": "The relevant fact, observation, source, or standard belongs in context whenever it is not already shared. A claim can be accurate but imprecise, and a precise figure can still be inaccurate.",
+  "examples": [
+    {
+      "phi": "ha tawi telua nai.",
+      "translation": "This count is accurate."
+    },
+    {
+      "phi": "ha sirami telua ma nai.",
+      "translation": "This record is not accurate."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Accurate perception sees things as they are, not as we wish them to be—the foundation of insight.",
-    "peace-linguistics-practices": "Accurate communication builds trust—misrepresentation, even unintentional, damages relationship."
+    "secular-buddhist-philosophy": "Truthful speech includes care about whether a statement agrees with what can presently be known. 'telua' keeps that factual question separate from a speaker's status or confidence.",
+    "peace-linguistics-practices": "Calling a record inaccurate directs attention to the mismatch that can be checked and repaired. It need not turn the person who made it into the object of blame."
   },
   "semantic_domains": {
-    "cognition": "Correctness",
-    "wisdom": "Alignment with truth"
+    "cognition": "agreement between a representation and the fact or reference it represents",
+    "wisdom": "factual care that remains open to checking and correction"
   }
 }

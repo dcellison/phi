@@ -7,16 +7,27 @@
     "e"
   ],
   "pos": "adjective",
-  "concept": "Wise / Having Wisdom / Deeply Understanding",
-  "description": "Having or showing experience, knowledge, and good judgment. 'Phue' names the quality of deep understanding—not mere cleverness but genuine insight, the knowing that comes from experience and reflection.",
-  "sound_symbolism": "The word breathes insight. 'Phu' /ɸu/ begins with thoughtful breath, wisdom gathering. Then 'e' opens to clarity, understanding revealed.",
-  "grammatical_notes": "Functions as an adjective: 'phue wheo' (wise elder). Central to Phi's philosophical vocabulary. Related to 'prajna' in Buddhist thought—wisdom that sees things as they are.",
+  "search_terms": [
+    "judicious",
+    "sagacious",
+    "sound in judgement"
+  ],
+  "description": "Wisdom here is sound judgement about what matters and what may follow, supported by understanding and experience. 'phue' can describe a person, choice, teaching, or response, though none becomes infallible by receiving the word. 'seloi' (insightful) concerns a revealing perception, 'thuni' (intuitive) concerns how a judgement arrives, and expertise remains specific to a field.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then raise the back of the tongue for rounded high-back 'u'. Keep true-mid front unrounded 'e' in a separate syllable across the 'u.e' hiatus. Stress falls on 'phu'.",
+  "sound_symbolism": "The word starts in a soft bilabial breath and gathers in rounded 'u', then opens across a full hiatus into the lighter front vowel. The small release can suggest judgement held long enough to make room for another view.",
+  "usage_notes": "Tie the judgement to a particular person, act, or teaching. Age, confidence, office, and expertise do not guarantee wisdom, and a wise person may still be mistaken.",
+  "examples": [
+    {
+      "phi": "ha kanu phue nai.",
+      "translation": "This choice is wise."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Wisdom (prajna) is one of the three trainings—seeing clearly the nature of reality, impermanence, and interconnection.",
-    "pre-industrial-wisdom": "Elders were honored as wisdom-keepers—those whose experience had distilled into genuine understanding."
+    "secular-buddhist-philosophy": "Wisdom includes seeing conditions and consequences without clinging to one's present view as a possession. It remains a practice rather than a rank.",
+    "pre-industrial-wisdom": "Long attention to land, materials, seasons, and shared life can mature into sound judgement. Experience matters here because it has been reflected upon, not merely accumulated."
   },
   "semantic_domains": {
-    "cognition": "Mature insight",
-    "wisdom": "Deep understanding"
+    "cognition": "sound judgement informed by understanding and experience",
+    "wisdom": "practical and reflective understanding applied to what matters"
   }
 }

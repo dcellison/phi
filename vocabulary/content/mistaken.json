@@ -8,17 +8,31 @@
     "ra"
   ],
   "pos": "adjective",
-  "concept": "Mistaken / In-Error / Off-Course",
-  "description": "The adjective naming the quality of being in error, of having departed from accuracy or appropriate alignment. Unlike moral 'wrong,' this word describes a state that can be corrected rather than a fault to be punished. In Phi, being mistaken is understood as a natural part of learning and navigation—we correct course, we don't condemn the traveler. Something phelira invites adjustment, not judgment.",
-  "sound_symbolism": "The word opens with 'phe', where the bilabial fricative breathes softly—errors are named gently in Phi. This flows through 'li', the liquid suggesting movement that has drifted. The final 'ra' rolls with the quality of being off-course, still in motion but needing redirection. The arc traces: gentle recognition, flowing state, rolling adjustment. The sound itself models how to acknowledge error: softly, without harshness.",
-  "grammatical_notes": "Functions as an adjective describing statements, beliefs, actions, or directions that have departed from accuracy or appropriateness. Does not imply moral fault—only factual or relational error. Often used in self-reflection ('mia phelira nai.' — I am mistaken) without shame. Contrasted with theali (fitting). Can take degree markers for severity of error.",
+  "search_terms": [
+    "in error",
+    "factually wrong",
+    "incorrectly understood"
+  ],
+  "description": "'phelira' says that a person, belief, statement, or direction contains an error or has departed from the relevant facts. It names a correctable state, not moral fault or anyone's worth. 'kanelu' (err) is the event of making an error, 'telua' (accurate) gives the corresponding quality of agreement, and 'theali' (fitting) asks another question about context or purpose.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then use true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for 'l' and continue into stressed unrounded high-front 'i'. Make a tap or short trill at the same ridge for 'r', then finish with open unrounded 'a'.",
+  "sound_symbolism": "A soft bilabial breath moves into the liquid centre of 'li', then the tongue returns for the tap of 'r' before broad 'a'. The course bends without becoming harsh, a shape that can recall noticing an error and turning towards repair.",
+  "usage_notes": "The word belongs with a stated belief, claim, perception, calculation, or course. It also serves a calm self-correction: 'mia phelira nai' says I am mistaken without shame or evasion.",
+  "examples": [
+    {
+      "phi": "mia phelira nai.",
+      "translation": "I am mistaken."
+    },
+    {
+      "phi": "ha remo phelira nai.",
+      "translation": "This thought is mistaken."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Adaptive systems require honest error recognition. 'Phelira' supports the feedback loops that sustainable communities need—acknowledging what isn't working so it can be adjusted.",
-    "secular-buddhist-philosophy": "Recognizing our errors without self-condemnation is essential practice. 'Phelira' names the state that requires correction while honoring the being who errs as still worthy of compassion.",
-    "peace-linguistics-practices": "By framing error as 'mistaken' rather than 'wrong,' 'phelira' enables accountability without attack. We can acknowledge mistakes—our own and others'—without triggering defensive reactions."
+    "secular-buddhist-philosophy": "A mistaken view can be noticed and revised without attachment to being right. The adjective keeps error available for examination.",
+    "peace-linguistics-practices": "Naming a mistaken claim or present stance leaves room for correction without condemning the speaker as a person."
   },
   "semantic_domains": {
-    "cognition": "recognition of error state",
-    "wisdom": "awareness that invites correction"
+    "cognition": "a person, belief, statement, or course presently in error",
+    "wisdom": "recognition of error as an occasion for correction rather than shame"
   }
 }

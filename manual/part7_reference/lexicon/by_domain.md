@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (170)
+## activity (171)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -80,6 +80,7 @@
 | `perawi` | expose | contact between an entity and a stated environmental agent |
 | `pesa` | push | Outbound force from the body |
 | `pesenu` | pollute | an introduced agent causing or contributing to environmental impairment |
+| `phae` | open | the act that produces an open state |
 | `phaluwe` | flood | water covering or overflowing beyond a stated usual boundary |
 | `phanuli` | allocate | assigning a resource, opportunity, or burden under a criterion |
 | `pharelo` | cook | fundamental human activity of cooking |
@@ -312,7 +313,7 @@
 | `koluri` | reliable | an evidence-bounded claim about performance under conditions |
 | `koma` | head | seat of mental processes |
 | `korei` | fulfill | Realization |
-| `kuelo` | curious | Wonder-seeking |
+| `kuelo` | curious | interest directed towards learning or examining what is not yet known |
 | `kuewa` | strange | The unfamiliar, named without verdict |
 | `kupela` | secret | The known and untold |
 | `lau` | twenty-seven-group | a group of twenty-seven used as the third ternary scale and as an approximate magnitude |
@@ -366,7 +367,7 @@
 | `nulomi` | guts | The seat of wordless knowing |
 | `nuphari` | fog | Perception limited |
 | `nurawi` | chronic | a clinical classification under a stated duration |
-| `nuwi` | clear | Transparent quality |
+| `nuwi` | clear | meaning or structure that can be followed without a tangle |
 | `palethu` | tactile | information distinguished through tactile perception |
 | `pekira` | toxic | a conditioned assessment of biological harm capability |
 | `pelaku` | severity | a criterion-relative judgment of degree |
@@ -375,9 +376,9 @@
 | `phaelo` | feel | conscious awareness of an internal experience |
 | `phamori` | symptom | a noticed and reported health-relevant experience |
 | `phanoi` | portion | Names arithmetic division through a portioning metaphor |
-| `phelira` | mistaken | recognition of error state |
+| `phelira` | mistaken | a person, belief, statement, or course presently in error |
 | `phelui` | word | the carrier of meaning between minds |
-| `phenui` | thoughtful | Considered thinking |
+| `phenui` | thoughtful | careful thought that includes another person's needs or circumstances |
 | `pherami` | depend | an analyzed requirement relation between system elements |
 | `phiketu` | contradict | logical incompatibility between claims under shared conditions |
 | `philima` | biodiversity | a scoped and measured account of living variation |
@@ -392,7 +393,7 @@
 | `phiwheki` | counterexample | a scoped case that disproves a general claim as stated |
 | `phoi` | nine-group | a group of nine learned as three triads and used as the second ternary scale |
 | `phoka` | lens | Focusing clarity |
-| `phue` | wise | Mature insight |
+| `phue` | wise | sound judgement informed by understanding and experience |
 | `pokera` | competent | an evidence-based judgment of situated practical capacity |
 | `porewi` | side effect | an attributed additional effect with stated uncertainty |
 | `porua` | purpose | Goal orientation |
@@ -416,9 +417,9 @@
 | `samethu` | equivalent | a selected match in meaning or function |
 | `sano` | know | mental state of integrated understanding and awareness |
 | `sanowu` | predictable | an event or pattern that can be anticipated from available information |
-| `seloi` | insightful | Deep perception |
+| `seloi` | insightful | perception of a relation or significance that is not immediately apparent |
 | `selu` | flow | creates mental state of optimal experience and effortless concentration |
-| `selua` | aware | Conscious perception |
+| `selua` | aware | awareness directed towards a present fact, sensation, event, or condition |
 | `sena` | pattern | Recognizable structure |
 | `senao` | same | the perception of identity |
 | `seru` | commit | Binding decision |
@@ -434,7 +435,7 @@
 | `sheluo` | listen | attention deliberately directed towards sound |
 | `sheori` | communicate | connects minds across the illusion of separation |
 | `sherewa` | claim | a proposition deliberately put forward for assessment |
-| `shewo` | true | Truthfulness |
+| `shewo` | true | accord between a claim or account and reality |
 | `shiloa` | pure | one intention, factor, or line of thought considered without another mixed through it |
 | `shiwolu` | integrate | Synthesizing into coherent whole |
 | `sholei` | gather | Names arithmetic addition through a gathering metaphor |
@@ -459,8 +460,8 @@
 | `ta` | one | the exact singular quantity and the coefficient one used to build ternary numerals |
 | `takori` | load | a quantity interpreted in relation to capacity and conditions |
 | `tawi` | count | Exact or approximate counting within Phi's documented limits |
-| `tawimo` | foolish | The pause thought needed and did not get |
-| `telua` | accurate | Correctness |
+| `tawimo` | foolish | an act or choice made without enough attention or sound judgement |
+| `telua` | accurate | agreement between a representation and the fact or reference it represents |
 | `terura` | system | a bounded unit selected for analysis and explanation |
 | `theali` | fitting | assessment of alignment with reality |
 | `thekao` | acknowledge | requires mindful attention to truly see another |
@@ -478,7 +479,7 @@
 | `thesa` | careful | Attentive awareness |
 | `thesani` | skill | procedural knowledge developed through learning and repetition |
 | `thesori` | evidence | information offered in support of or against a claim |
-| `thesua` | mindful | involves mental awareness and focused attention |
+| `thesua` | mindful | deliberate attention to present experience or action |
 | `thewuni` | legible | written marks available for reading |
 | `thilou` | inquire | the mind's movement in curiosity and seeking |
 | `thimu` | time | the framework through which we understand change |
@@ -489,11 +490,11 @@
 | `thueli` | intend | Directed will |
 | `thunai` | student | Receptive mind |
 | `thunaro` | train | structured learning through instruction and feedback |
-| `thuni` | intuitive | Direct knowing |
+| `thuni` | intuitive | a thought or response arising without consciously followed reasoning |
 | `tiso` | sharp | keen attention or thought that detects fine distinctions |
 | `tukiro` | review | reassessment under stated evidence and criteria |
 | `turelo` | feedback | a relation used to explain changing system behavior |
-| `waeli` | conscious | Awareness state |
+| `waeli` | conscious | the presence of subjective experience or wakefulness |
 | `wakomi` | surprise | The mind caught open |
 | `waora` | wondrous | What outruns what was looked for |
 | `welura` | spread | Names arithmetic multiplication through a spreading metaphor |
@@ -978,7 +979,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## dialogue (110)
+## dialogue (111)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1025,11 +1026,12 @@
 | `numike` | negotiate | Structured discussion toward agreement |
 | `pawela` | participate | engaging in collective processes and exchange |
 | `peshu` | lie | False speech; the breaking of communicative trust |
-| `phae` | open | fundamental to genuine communication and exchange |
+| `phae` | open | beginning access to an exchange or response |
 | `phamori` | symptom | the person's own account of bodily or mental experience |
 | `pharune` | include | Affirming membership |
 | `phelotu` | format | a communication form selected for sending and receiving meaning |
 | `phelui` | word | the basic unit of speech |
+| `phenui` | thoughtful | consideration made visible in speech or response |
 | `phesua` | inspire | transmits energy between consciousnesses |
 | `phiketu` | contradict | a precise conflict that clarification may confirm or dissolve |
 | `phiremo` | relate | Establishing relationship in communication |
@@ -1599,7 +1601,7 @@
 | `nuora` | food | what sustains bodily life |
 | `nurome` | meal | a bounded preparation of food |
 | `nuwera` | bed | The household place of sleep |
-| `nuwi` | clear | Without obstruction |
+| `nuwi` | clear | low visual obstruction in water, air, or another material |
 | `palethu` | tactile | touch as the relevant sensory channel |
 | `palo` | touch | bodily or material contact at a surface |
 | `paloi` | foot | the body member contacting earth |
@@ -1911,7 +1913,7 @@
 | `nusho` | depth | Downward extent |
 | `paloi` | foot | the means of walking through space |
 | `pesa` | push | Motion imparted outward |
-| `phae` | open | literally about creating and being space |
+| `phae` | open | removing or moving a closure so passage, access, flow, or view becomes possible |
 | `phaero` | transit | Crossing through |
 | `phaewi` | studio | Creative space |
 | `phaluwe` | flood | water extending into a place outside its stated usual extent |
@@ -2174,7 +2176,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (185)
+## wisdom (184)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2201,7 +2203,7 @@
 | `kolo` | equal | Balanced recognition |
 | `koma` | head | dwelling of understanding and awareness |
 | `kowela` | council | cultivates patient consensus through collective insight |
-| `kuelo` | curious | Openness to learning |
+| `kuelo` | curious | openness to inquiry without pretending that inquiry has already reached understanding |
 | `kulo` | guide | Sharing knowledge of the way |
 | `lei` | harmony | requires understanding the middle way and patient adjustment |
 | `leiro` | release | Offers release as a metaphor without prescribing acceptance |
@@ -2251,20 +2253,19 @@
 | `nuwoe` | stage | Growth position |
 | `pelua` | paper | Receptive potential |
 | `peshu` | lie | What truthfulness is defined against |
-| `phae` | open | requires understanding and receptive awareness |
 | `phaelu` | peaceful | Core Phi quality |
 | `phari` | pen | Recording thought |
-| `phelira` | mistaken | awareness that invites correction |
+| `phelira` | mistaken | recognition of error as an occasion for correction rather than shame |
 | `pheloma` | serve | understanding interdependence and collective wellbeing |
 | `phelu` | hold | knowing how to maintain without clinging |
 | `phena` | kind | requires mindful awareness and cultivated response |
-| `phenui` | thoughtful | Care for others |
+| `phenui` | thoughtful | reflection on likely effects before action |
 | `pheru` | endure | Persistence |
 | `phesua` | inspire | involves skillful awakening without forcing |
 | `phewo` | sage | Insight earned through living |
 | `phiwheki` | counterexample | attention to particulars that resist an overly broad rule |
 | `pholui` | bamboo | Flexible strength |
-| `phue` | wise | Deep understanding |
+| `phue` | wise | practical and reflective understanding applied to what matters |
 | `pina` | sew | Patience in small, repeated acts |
 | `porua` | purpose | Meaningful direction |
 | `punoa` | society | Collective order |
@@ -2281,15 +2282,15 @@
 | `ruela` | path | ways of practice and understanding |
 | `ruesha` | compassionate | Response to suffering |
 | `sano` | know | accumulated knowledge and experiential understanding |
-| `seloi` | insightful | Penetrating understanding |
+| `seloi` | insightful | depth of understanding kept distinct from certainty or authority |
 | `selomi` | weave | Understanding interconnection through making |
-| `selua` | aware | Knowing presence |
+| `selua` | aware | noticing that can precede reflection or response |
 | `serao` | old | accumulated experience and endurance |
 | `shaelo` | brave | Facing difficulty |
 | `sharino` | conscience | moral self-appraisal that remains open to examination and correction |
 | `shea` | peace | requires understanding and active cultivation |
 | `shemu` | moment | Present experience |
-| `shewo` | true | Reality correspondence |
+| `shewo` | true | truth or genuineness kept separate from certainty and status |
 | `shiloa` | pure | purity used in a philosophical source without turning it into a judgement of human worth |
 | `shimalo` | discipline | aligns actions with deeper intentions through skillful training |
 | `shiroka` | repair | the diagnosis and skilled work needed to make a device usable again |
@@ -2306,7 +2307,7 @@
 | `soneho` | tradeoff | attention to what every available option preserves and relinquishes |
 | `sonu` | alone | Solitude as contemplative ground |
 | `sorai` | insight | Penetrating understanding |
-| `telua` | accurate | Alignment with truth |
+| `telua` | accurate | factual care that remains open to checking and correction |
 | `temoe` | tend | Attentive, ongoing presence |
 | `tenoa` | tool | Appropriate technology |
 | `thaemo` | precious | Worth protecting |
@@ -2329,7 +2330,7 @@
 | `thesa` | careful | Preventive care |
 | `thesani` | skill | practical understanding refined through experience |
 | `thesori` | evidence | material whose source, relevance, and limits can be examined |
-| `thesua` | mindful | requires non-judgmental understanding and clear seeing |
+| `thesua` | mindful | a practice of noticing before judgement and response |
 | `thilonu` | prepare | Foresight and planning |
 | `thinu` | put | mindful intention in determining proper placement |
 | `thoepa` | sacred | Ultimate meaning |
@@ -2340,12 +2341,12 @@
 | `thoru` | proud | Appropriate self-respect |
 | `thorui` | beginning | Fresh start |
 | `thumela` | teach | awakening understanding and nurturing growth |
-| `thuni` | intuitive | Non-analytical understanding |
+| `thuni` | intuitive | immediate judgement that may draw on experience and still remains open to checking |
 | `tiroe` | instant | Immediate point |
 | `tisu` | needle | Precise craft |
 | `tolu` | staff | Journey companion |
 | `tumeki` | root | Foundation and origin |
-| `waeli` | conscious | Awakened quality |
+| `waeli` | conscious | the experiential field that can be noticed without being treated as a fixed self |
 | `waeshi` | wild | Natural freedom |
 | `weilo` | balanced | workable proportion among competing needs or considerations |
 | `welao` | good | discernment of beneficial quality |

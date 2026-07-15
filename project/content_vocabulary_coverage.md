@@ -27,7 +27,8 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Test concepts without corpus pressure | **DONE** | Base `shumeko` resolves adhesion, base `selawi` resolves traction, base `patoku`, `larewu`, and `heshowa` resolve ordinary material phase, and base `ponalu`, `waleru`, and `hirawo` supply the three neutral spatial magnitudes. |
 | Sensory and perceptual qualities | **DONE** | Fifteen inherited entries now use the target prose contract. `pothu` (stink) remains unchanged while its lexical framing is reviewed. |
 | Aesthetic and formal qualities | **DONE** | Thirteen inherited base adjectives now use the target prose contract, with `mioru` as the already-migrated anchor. Applied ornament remains a review question rather than a hurried coinage. |
-| Resume inherited content prose migration | **NEXT** | Continue after the aesthetic and formal qualities batch. Each semantic group passes through this coverage gate. |
+| Awareness and epistemic qualities | **DONE** | Fourteen inherited entries now use the target prose contract. The scan of confusion, uncertainty, distraction, non-knowledge, obviousness, and general cognitive ability found no missing base root. |
+| Resume inherited content prose migration | **NEXT** | Continue after the awareness and epistemic qualities batch. Each semantic group passes through this coverage gate. |
 
 ## Batch overview
 
@@ -41,6 +42,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Strength, deformation, and recovery | [PR #351](https://github.com/dcellison/phi/pull/351) and D020 | **COVERED** | Four base roots now close the damage, wear, weakness, and rigidity questions exposed by the retrospective. |
 | Sensory and perceptual qualities | [PR #362](https://github.com/dcellison/phi/pull/362) | **REVIEW** | The channels and ordinary qualities are covered. `pothu` remains under review as the dedicated strongly unpleasant odour verb. |
 | Aesthetic and formal qualities | [PR #364](https://github.com/dcellison/phi/pull/364) | **REVIEW** | The ordinary distinctions are covered. Phi can describe ornamented work but does not yet name an applied ornament or the act of decorating directly. |
+| Awareness and epistemic qualities | [PR #365](https://github.com/dcellison/phi/pull/365) | **COVERED** | Direct words and established constructions keep consciousness, attention, truth, accuracy, error, uncertainty, insight, intuition, understanding, and judgement apart without a new base root. |
 
 ## Audit method
 
@@ -200,6 +202,30 @@ A plain bowl can be beautiful, and an elegant mechanism can still be difficult t
 
 The thirteen inherited base adjectives in this field now use the target prose contract. Their definitions remove several old shortcuts: purity is composition rather than moral essence, richness is not personal wealth, harmony permits disagreement, and serenity makes no promise about another person's state. No new root is coined in this pass. Applied ornament remains the one direct lexical question.
 
+## Awareness and epistemic qualities
+
+A person can be conscious without attending, aware without understanding, and confident while mistaken. This field keeps those differences visible. It also asks where Phi should use grammar or transparent composition instead of giving every English judgement about a mind its own root.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Conscious experience, directed awareness, and mindful attention | `waeli` (conscious), `selua` (aware), `thesua` (mindful), and `theonu` (attend) | **COVERED** | Consciousness is the presence of experience, awareness notices something particular, mindfulness deliberately attends to the present act, and attending directs focus. None implies the others automatically. |
+| Truth, accuracy, and error | `shewo` (true), `telua` (accurate), `phelira` (mistaken), and `kanelu` (err) | **COVERED** | Truth concerns accord with reality, accuracy compares a representation with its reference, mistaken describes a present error, and err names the event of making one. Negated `shewo` supplies false where the context makes that contrast clear. |
+| Clarity, clarification, and understanding | `nuwi` (clear), `lilea` (clarify), and `shelomu` (understand) | **COVERED** | Clarity is low obstruction in the material or meaning at hand, clarification changes how something can be followed, and understanding is the resulting cognitive relation. |
+| Curiosity and receptive opening | `kuelo` (curious), `thilou` (inquire), and `phae` (open) | **COVERED** | Curiosity supplies interest, inquiry asks, and opening creates access. None grants entitlement to another person's knowledge, attention, records, or body. |
+| Insight, intuition, consideration, and wisdom | `seloi` (insightful), `sorai` (insight), `thuni` (intuitive), `hiru` (intuit), `phenui` (thoughtful), and `phue` (wise) | **COVERED** | Insight concerns depth, intuition concerns a non-analytical route, thoughtfulness includes effects on others, and wisdom concerns sound judgement informed by understanding and experience. None guarantees factual accuracy. |
+| Foolish action without a permanent person class | `tawimo` (foolish), with the act and circumstances stated | **COVERED** | The adjective can assess an ill-judged choice or a person's conduct at one time. It does not establish a fixed class of foolish people. |
+| Puzzlement or confusion | Registered `remo tiwa` (thought-tying), `nuwi` (clear), and `lilea` (clarify) | **COVERED** | The compound already names confusion as thoughts tangled in the present matter. It has carried the distinction repeatedly in *News from Nowhere* and points naturally towards clarification. |
+| Non-knowledge, uncertainty, and suspended judgement | `ma sano` (not know), embedded questions, evidential `ho`, and Philosophical Reasoning `whamoi` (doubt) and `norethi` (confident) | **COMPOSITIONAL** | Base Phi can state exactly what is not known or remains in question. The optional module adds stance strength and doubt where sustained reasoning needs them, without forcing those roots into the base lexicon. |
+| Attention that stops or turns elsewhere | Negative or cessative marking with `theonu`, followed by the new object of attention when it matters | **COMPOSITIONAL** | Distracted can hide several events: attention ceased, shifted, was interrupted, or never began. Phi can state the event and its cause rather than choosing one vague adjective in advance. |
+| Ignorance or lack of awareness | `ma sano` (not know) and negated `selua` (aware) | **COMPOSITIONAL** | These forms identify the missing knowledge or awareness without making ignorance a permanent property of a person. A connected text can name the subject matter and the available access. |
+| Recognition versus understanding | `miratu` (recognize) and `shelomu` (understand) | **COVERED** | Recognition connects a present perception with prior knowledge; understanding grasps meaning or relation. A person can do either without doing the other. |
+| Obviousness or evident appearance | `nuwi` for a clear meaning or relation, `hi` and `ke` for direct and inferred sources, and `thesori` for evidence | **COMPOSITIONAL** | English obvious often hides whether something was directly seen, inferred, easy to follow, or merely expected by the speaker. Phi states the relevant basis and leaves room for another participant not to share it. |
+| Correction and revision | `telua`, `phelira`, `kanelu`, `helui` (change), `lilea`, and established repair forms | **COVERED** | Phi can identify the error, revise the understanding or wording, and reassess accuracy as separate acts. Correction need not become punishment or erasure. |
+| Belief supported by reasons or evidence versus intuition | `nohero` (believe), `remotha` (reason), `thesori` (evidence), the evidentials, and `thuni` | **COMPOSITIONAL** | Phi can state a belief, what supports it, how the speaker encountered that support, and whether the judgement arrived intuitively. Intuition is not smuggled in as justification. |
+| General intelligence or smartness | `shonela` (learn), `shelomu`, `sano`, `seloi`, `phue`, pace words, and domain-specific skill or expertise | **COMPOSITIONAL** | One scalar label would collapse learning, memory, speed, insight, knowledge, judgement, and practiced skill into a ranking of people. The actual ability or act can be named instead. |
+
+The fourteen inherited entries in this batch now use the target prose contract. No new root follows from the coverage pass. The most tempting apparent gaps already have a stable compound, a direct contrast, or a construction that says more precisely what happened. Connected use can reopen any of those decisions, but none is being kept off the page as an unexamined absence.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -240,4 +266,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete. The inherited content prose migration has now passed through sensory and perceptual qualities and through aesthetic and formal qualities. The next semantic neighbourhood begins after this batch with the same coverage gate in place; `pothu` and applied ornament remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete. The inherited content prose migration has now passed through sensory and perceptual qualities, aesthetic and formal qualities, and awareness and epistemic qualities. The next semantic neighbourhood begins after this batch with the same coverage gate in place; `pothu` and applied ornament remain recorded review questions rather than hidden gaps.
