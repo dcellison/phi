@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1172 words.*
+*1173 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -823,6 +823,7 @@
 | `shorui` | weary | /ʃo̞.ˈru.i/ | adjective |
 | `shorupo` | protect | /ʃo̞.ˈru.po̞/ | verb |
 | `shua` | come | /ˈʃu.ä/ | verb |
+| `shumeko` | sticky | /ʃu.ˈme̞.ko̞/ | adjective |
 | `shumu` | moss | /ˈʃu.mu/ | noun |
 | `shuna` | edge | /ˈʃu.n̪ä/ | noun |
 | `shuneki` | vaccinate | /ʃu.ˈn̪e̞.ki/ | verb |

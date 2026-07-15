@@ -1,0 +1,33 @@
+{
+  "word": "shumeko",
+  "gloss": "sticky",
+  "ipa": "/ʃu.ˈme̞.ko̞/",
+  "syllables": [
+    "shu",
+    "me",
+    "ko"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "adhesive",
+    "tacky",
+    "adhesion"
+  ],
+  "description": "A substance or surface is 'shumeko' when it clings to another surface after contact and does not separate from it easily. Honey can be 'shumeko' on a spoon, and uncured repair paste can be 'shumeko' before a joint is complete. 'wirua' (wet) reports liquid on or within a surface; 'lorea' (connect) reports the relation made between pieces.",
+  "articulatory_notes": "Raise the tongue blade toward the postalveolar region for voiceless 'sh' and let air pass through the narrow channel into rounded high-back 'u'. Close the lips for voiced nasal 'm', carry the voice through the nose, then open into stressed true-mid front 'e'. Raise the back of the tongue against the soft palate for 'k' and release into rounded true-mid back 'o'.",
+  "sound_symbolism": "The sustained opening fricative gives way to firm contact at the lips and then the soft palate. In Phi, that interrupted path offers a tactile mnemonic for material that catches on contact instead of releasing at once.",
+  "usage_notes": "The quality-noun rule supplies stickiness or adhesion. A change of state is 'shumeko kelu' (become sticky), and causative 'ka' can introduce what caused the change.",
+  "examples": [
+    {
+      "phi": "hemilo shumeko nai.",
+      "translation": "The honey is sticky."
+    },
+    {
+      "phi": "mia shumeko runae palo.",
+      "translation": "I touch the sticky resin."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "a material or surface that adheres on contact and resists easy separation"
+  }
+}

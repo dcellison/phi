@@ -1444,7 +1444,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (339)
+## physical (340)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1692,6 +1692,7 @@
 | `shoru` | dull | an edge or point that no longer cuts or pierces readily |
 | `shorui` | weary | Depleted energy |
 | `shorupo` | protect | Creating safety through presence |
+| `shumeko` | sticky | a material or surface that adheres on contact and resists easy separation |
 | `shuneki` | vaccinate | an intervention intended to induce bodily protection |
 | `shurano` | safe | Bodily security |
 | `siwe` | sweat | The skin's water |
