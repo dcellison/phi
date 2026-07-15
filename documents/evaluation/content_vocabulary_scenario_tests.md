@@ -89,3 +89,80 @@ resin sticky be.
 This belongs in base vocabulary. The property occurs at meals and in ordinary cleaning before it reaches a workshop, while the same adjective remains useful for natural substances and repair. Optional modules can teach their characteristic uses without making the word itself specialized.
 
 `shumeko` has no character edit-distance-one neighbour, and the phonetic audit finds no existing entry within its review threshold. The canonical entry records its complete spoken path and examples.
+
+## 2. Traction on the floor, path, and tool
+
+A washed floor shines under the kitchen light. On a rough path, loose sand shifts underfoot; at a bench, oil has reached the part of a tool held in the hand. Each scene permits the same unwanted sideways movement before the person can correct it. The test is whether Phi can name that disposition before anyone falls or drops anything.
+
+### The washed floor
+
+The floor is wet, and a person crosses it:
+
+```
+tomae wirua nai.
+floor wet be.
+(The floor is wet.)
+
+miona nia tomae thalo. shia paloi reshi roke. shia lepa.
+person ON floor walk. 3SG foot fast move. 3SG fall.
+(A person walks on the floor. Their foot moves quickly, and they fall.)
+```
+
+The clauses keep the wet floor and everything that follows. The foot moves and the person falls, but the words never say that ordinary contact with the floor offers too little resistance to sideways motion. A wet floor may still provide secure footing, and a person may fall on a surface that is not wet.
+
+### The sandy path
+
+Loose sand lies over a path whose underlying surface is rough:
+
+```
+kirua nia keloa ruela nai.
+sand ON rough path be.
+(Sand is on the rough path.)
+
+miona nia ruela thalo. shia paloi reshi roke. shia lepa.
+person ON path walk. 3SG foot fast move. 3SG fall.
+(A person walks on the path. Their foot moves quickly, and they fall.)
+```
+
+Here `keloa` (rough) is true and still fails to predict the contact behaviour. Sand grains can roll or shear across one another, so a rough path can let the planted foot move. The Phi account reaches the motion only after it happens. It cannot warn about the surface's disposition beforehand.
+
+### The tool in the hand
+
+Oil has reached a hand tool, and the person tries to keep hold of it:
+
+```
+loesi nia tenoa nai.
+oil ON tool be.
+(Oil is on the tool.)
+
+mia tenoa phelu. tenoa mua mia manuwe reshi roke. tenoa mue mia manuwe lepa.
+1SG tool hold. tool LOC 1SG hand fast move. tool OUT.OF 1SG hand fall.
+(I hold the tool. It moves quickly in my hand. It falls out of my hand.)
+```
+
+The account keeps the oil and the attempted grasp, then shows the movement and fall. The same sequence could follow a weak grasp or an unexpectedly heavy tool, and it could even be a deliberate adjustment. Nothing in it identifies the low traction between hand and tool. Nor does the tool have to fall for that property to matter; a small shift can already spoil careful work.
+
+### Neighbour test
+
+| Existing resource | What it preserves | Why it does not close the question |
+|---|---|---|
+| `wirua` (wet) | Liquid on or within a surface | Wetness can reduce traction, but some wet surfaces still hold well and loose dry material can permit sliding. |
+| `helu` (smooth) and `keloa` (rough) | Surface regularity and interruption | Texture often affects traction without determining it. Smooth rubber may hold well, while sand can move over rough ground. |
+| `roke` (move), optionally modified by `reshi` (fast) | Motion after it begins | The clause reports an event rather than the surface's tendency to permit sliding under contact. |
+| `lepa` (fall) | One possible outcome | A fall has many causes, and low traction matters before a fall occurs. |
+| `phelu` (hold) and `huwa` (weak) | A maintained grasp and limited force | They locate success or failure in the holder's action or capacity, not in the contact between hand and object. |
+| `mureo` (stable) | A state or position that survives disturbance | Stability reports the larger result; it does not identify why one contacting surface moves across another. |
+| `shumeko` (sticky) | Resistance to easy separation after contact | Adhesion concerns surfaces staying attached; traction concerns resistance to sideways sliding while contact remains. |
+| `pukea` (danger) and `shurano` (safe) | A practical judgement about possible harm | A warning can guide action without naming the physical condition that prompted it. |
+
+### Recommendation for decision
+
+The shared fact is low resistance to sideways motion where two surfaces meet. A foot or held object can slide readily during ordinary use even while contact remains. Wetness, oil, loose grains, and polished material may produce the condition, but none defines it.
+
+One adjective would cover the useful range. It could modify either surface or the object in contact, while the quality-noun rule would supply slipperiness or low traction. Context supplies the expected contact: a floor offers traction to a foot, and a tool to a hand. A dedicated verb would duplicate `roke` (move) and describe the event after the warning was needed.
+
+The working gloss should be `slippery`, with `low traction`, `slick`, and `easy to slide on` as search terms rather than separate roots. `helu` would continue to describe an even surface, `wirua` the presence of liquid, and `pukea` the resulting danger when harm is possible.
+
+This belongs in base vocabulary. The need appears at home as soon as a wet floor or dish becomes hard to hold, well before specialist route or tool safety. Accessibility and Work can teach those uses, but neither module owns the need to warn someone before their next step.
+
+No form is proposed here. The maintainer decision is whether to accept the semantic slot, adjective class, and base placement; form generation and the complete vocabulary entry would follow in a separate coinage pass.
