@@ -7,12 +7,23 @@
     "na"
   ],
   "pos": "complementizer",
-  "concept": "Which / That / Relative Connector",
-  "description": "A complementizer that introduces relative clauses, creating the grammatical space where nouns can be modified by entire sentences. More than mechanical subordination, 'rena' acknowledges that understanding often requires stories—that to know what something is, we must know what it does, where it comes from, how it relates.",
-  "sound_symbolism": "The word begins with 'r', the liquid consonant that rolls and connects—the tongue creating rapid contact points like a needle stitching clauses together. This meets 'e', the neutral mid vowel that maintains clarity. The second syllable 'na' grounds the connection with the nasal 'n' resonating through bone, linking description to described, while 'a' opens into the relative clause that follows. Together, 'rena' sounds like relation grounded: the rolling 'r' creates connection, the 'e' keeps the link transparent, and the grounding 'na' anchors the description to its noun.",
-  "grammatical_notes": "Introduces headed relative clauses that modify the immediately following noun. Creates the structure: [rena CLAUSE] NOUN, where the clause describes the noun. Takes no closer—the head noun itself bounds the clause, unlike the paired complementizers 'mena'/'meno', 'wela'/'welo', and 'shola'/'sholo'. Example: 'rena mia to nila shelu' (the book that I saw). Headless relatives use a pronoun as head: 'rena lothea shelomu shia' (the one who understands love). Maintains Phi's head-final structure even in complex sentences. The relativizer is invariant—same form regardless of the grammatical role of the head noun within the relative clause. Gap strategy is used (the head noun's role in the relative clause is simply absent, recoverable from context).",
-  "pillars": {
-    "secular-buddhist-philosophy": "The word embodies dependent origination in syntax—showing how things gain identity through their relationships and actions. Like the teaching that nothing exists independently, 'rena' grammaticalizes the truth that even nouns need verbs, that being emerges through doing and relating.",
-    "pre-industrial-wisdom": "Traditional knowledge systems understand things through their relationships—the tree that shelters, the spring that never dries, the person who helped during famine. 'Rena' carries this contextual understanding that identity emerges from story and connection."
-  }
+  "search_terms": [
+    "relative clause",
+    "who",
+    "which",
+    "that"
+  ],
+  "description": "'rena' lets a whole clause do the work of a modifier: a person who helped, a book that changed hands. The head noun arrives after the clause and closes the frame without an '-o' partner. One role inside the description is left empty for that noun.",
+  "articulatory_notes": "Tap or briefly trill 'r' against the alveolar ridge and release into unrounded front 'e'. For dental 'n', set the tongue tip at the backs of the front teeth, then open the jaw for central 'a'. Stress 're'.",
+  "usage_notes": "A headed relative begins with 'rena' and ends when its noun arrives. The missing role may be the subject or an object. If a preposition governs the gap, it stays in its ordinary position; when context supplies the head, the entire 'rena' clause can fill a noun-phrase slot.",
+  "examples": [
+    {
+      "phi": "mia rena mia to theo shelu lothea.",
+      "translation": "I love the book that I read."
+    },
+    {
+      "phi": "mia rena thia to kealo theo.",
+      "translation": "I read what you created."
+    }
+  ]
 }

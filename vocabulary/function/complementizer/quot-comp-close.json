@@ -7,12 +7,18 @@
     "lo"
   ],
   "pos": "complementizer",
-  "concept": "End quote / Close direct speech",
-  "description": "The closing counterpart of the quotative complementizer 'shola'. Marks the end of directly quoted material, resolving the quotation that 'shola' opened. Together, the pair 'shola...sholo' functions as spoken quotation marks, giving listeners an unambiguous signal of where quoted speech begins and ends.",
-  "sound_symbolism": "Shares the 'sho' onset with 'shola', maintaining the acoustic signature of quotation. The final rounded 'o' enacts closure, the vowel rounding inward as the quote wraps up. The liquid 'l' in both words creates continuity across the pair, while the final vowel signals resolution.",
-  "grammatical_notes": "Appears immediately after the final word of a direct quotation, before the verb of speaking resumes in the main clause. Required counterpart to 'shola'. Structure: [Subject] shola [quoted material] sholo [verb of speaking]. Follows the Phi correlative pattern where opener ends in '-a' and closer ends in '-o'.",
-  "pillars": {
-    "secular-buddhist-philosophy": "The closing marker completes the act of faithful transmission. By clearly ending the quote, 'sholo' returns responsibility for subsequent words to the current speaker, maintaining the boundary between one's own speech and another's.",
-    "peace-linguistics-practices": "Clear demarcation of where quotation ends prevents the ambiguity that can lead to misattribution. The listener knows precisely which words belong to the quoted speaker and which belong to the current speaker, supporting accurate and honest communication."
-  }
+  "search_terms": [
+    "quotation closer",
+    "quote boundary",
+    "end quote"
+  ],
+  "description": "A grammatical Phi quotation opened by 'shola' (QUOT.COMP) reaches its boundary at 'sholo'. The surrounding clause then resumes with a verb that says whether those words were spoken or heard.",
+  "articulatory_notes": "Start with grooved unvoiced 'sh' in the postalveolar region and move into mid-back rounded 'o'. At 'l', the tongue point settles against the gumline above the teeth; continue lateral voicing and keep the same lip rounding through final 'o'. Accent 'sho'.",
+  "usage_notes": "'haolu', 'shemui', and 'thilou' report spoken words; 'hea' reports words received by hearing. Slot 1 marking stands between 'sholo' and that verb where it normally belongs. When quotations nest, this closer matches the nearest open 'shola'.",
+  "examples": [
+    {
+      "phi": "mia shola thia ha nai sholo to hea.",
+      "translation": "I heard \"You are here.\""
+    }
+  ]
 }
