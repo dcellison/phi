@@ -189,15 +189,15 @@
 |---|---|---|
 | `helia` | youth | the beauty of new growth |
 | `hewasu` | audible | sound distinguishable within an acoustic setting |
-| `horae` | radiant | Light-emanating |
+| `horae` | radiant | light or visible delight perceived as spreading outward |
 | `kaelo` | sweet | sweetness appreciated in flavour, scent, or an established sensory comparison |
 | `keru` | bright | a strongly lit scene or a hue seen at high visual intensity |
 | `kire` | shape | Discovering and creating beauty in form |
 | `kirero` | quality | a possible dimension of quality when explicitly named |
-| `kiro` | precise | Clear definition |
+| `kiro` | precise | cleanly controlled detail or execution in a made form |
 | `kiru` | chisel | Revealing form |
 | `kolai` | pigment | Visual material |
-| `koru` | harmonious | Pleasing unity |
+| `koru` | harmonious | parts perceived as fitting together into a pleasing whole |
 | `lei` | harmony | creates beauty through balance and pleasing resonance |
 | `leko` | surface | Visible face |
 | `lerua` | exterior | Facing out |
@@ -207,13 +207,13 @@
 | `lonai` | width | Breadth |
 | `loriphi` | rainbow | Natural light spectrum |
 | `lowi` | vine | Curving organic line |
-| `luwae` | graceful | Beautiful movement |
+| `luwae` | graceful | flowing movement or form perceived as graceful |
 | `maeli` | quiet | quiet or silence used as part of an audible composition |
 | `malomi` | balance | finds beauty in dynamic equilibrium and organic harmony |
 | `meliphe` | music | Sound organized on purpose |
 | `melothe` | pond | Contemplative water feature |
 | `mioru` | beautiful | a speaker's aesthetic appreciation of a form, sound, movement, or presence |
-| `mueli` | plain (unadorned) | Undecorated |
+| `mueli` | plain (unadorned) | a form or surface with little or no applied ornament |
 | `mureli` | brown | brown across ordinary light and dark shades |
 | `muwi` | interior | Within |
 | `noporu` | design | shaping form in relation to material and use |
@@ -227,8 +227,8 @@
 | `phanu` | canvas | Creative potential |
 | `phero` | fern | Spiral frond beauty |
 | `phielo` | glass | Light-bearer |
-| `phiro` | elegant | Refined beauty |
-| `pholuo` | luminous | Soft light quality |
+| `phiro` | elegant | refinement perceived in the proportion, economy, or manner of a form |
+| `pholuo` | luminous | steady or diffused light perceived as filling a source or surface |
 | `phui` | flute | Breath music |
 | `phuliro` | stream | Gentle flowing water |
 | `phuri` | brush | Flowing marks |
@@ -240,7 +240,7 @@
 | `shela` | art | Expressive form |
 | `sheloa` | bloom | Beauty reaching full expression |
 | `shemoli` | harmonize | Creating pleasing unity from diversity |
-| `shiloa` | pure | purity as a quality of form and essence |
+| `shiloa` | pure | an unmixed colour, tone, or formal quality |
 | `shilu` | blue | blue on surfaces and in visible light |
 | `shioli` | silver | Lunar beauty |
 | `shonuwa` | sound | the audible material of music and other sound art |
@@ -248,16 +248,16 @@
 | `shuna` | edge | Defining line |
 | `sihewa` | breeze | Soft atmospheric touch |
 | `sileo` | silk | Luxurious material |
-| `siloma` | simple | elegance and beauty of minimal forms |
-| `simoe` | rich | Full of quality |
+| `siloma` | simple | few-part or minimally arranged form |
+| `simoe` | rich | perceptible depth or concentration in colour, flavour, sound, or texture |
 | `solai` | gold | Solar beauty |
 | `soriu` | yellow | yellow across pale and saturated shades |
 | `sulai` | musician | Sound creation |
 | `telui` | rhythm | Regular beat |
 | `theriko` | frost | Crystalline natural pattern |
 | `thewuni` | legible | distinguishable visual or tactile form |
-| `thiro` | serene | Luminous calm |
-| `thurai` | vibrant | Intense vitality |
+| `thiro` | serene | visible or audible composure in a person, scene, or work |
+| `thurai` | vibrant | strongly perceptible intensity in colour, sound, movement, or a scene |
 | `tinoa` | dye | Color transformation |
 | `tuko` | sour | an acidic taste encountered in food and drink |
 | `welisha` | color | the visual category used to name and compare colors |
@@ -266,7 +266,7 @@
 | `wheiru` | mist | Ethereal obscuring |
 | `whilaru` | comb | The tool worth carving |
 | `whilo` | white | achromatic color at high perceived lightness |
-| `whoa` | whole | harmony and completeness |
+| `whoa` | whole | a form perceived as intact and unified |
 | `wira` | window | View portal |
 
 ## cognition (246)
@@ -300,7 +300,7 @@
 | `kirema` | criterion | a standard used in classification or judgment |
 | `kirero` | quality | a multidimensional evaluation relative to criteria |
 | `kirethu` | legitimate | an evaluation of how an authority or decision is grounded |
-| `kiro` | precise | Exactness |
+| `kiro` | precise | narrow scope, exact expression, or little unintended variation |
 | `kirothe` | define | setting out a term's meaning or conditions of application |
 | `kirowi` | signal | a detectable variation interpreted as carrying information |
 | `kisholu` | specification | a reference against which properties and performance may be assessed |
@@ -435,7 +435,7 @@
 | `sheori` | communicate | connects minds across the illusion of separation |
 | `sherewa` | claim | a proposition deliberately put forward for assessment |
 | `shewo` | true | Truthfulness |
-| `shiloa` | pure | mental clarity and freedom from distortion |
+| `shiloa` | pure | one intention, factor, or line of thought considered without another mixed through it |
 | `shiwolu` | integrate | Synthesizing into coherent whole |
 | `sholei` | gather | Names arithmetic addition through a gathering metaphor |
 | `shonela` | learn | fundamental process of acquiring and integrating knowledge |
@@ -512,7 +512,7 @@
 | `whemura` | dream | Mental imagery during sleep or imagination |
 | `wheparu` | discriminate | an assigned or perceived category directing action |
 | `whinu` | smell | an odour becoming perceptible and recognisable |
-| `whoa` | whole | holistic thinking and systems understanding |
+| `whoa` | whole | all parts selected for an analysis considered together |
 | `wi` | two | the exact quantity of two and the largest spoken coefficient in ternary numeral composition |
 | `wiero` | imaginative | Creative vision |
 | `wilao` | long-for | awareness of the mind's movement toward objects |
@@ -551,7 +551,7 @@
 | `kolo` | equal | Same standing |
 | `koluma` | unite | Bringing together into wholeness |
 | `kopharu` | barrier | an arrangement that restricts participation |
-| `koru` | harmonious | Working together |
+| `koru` | harmonious | different participants maintaining a workable relation |
 | `kowela` | council | gathers collective voices for communal decisions |
 | `kuewa` | strange | The not-yet-met |
 | `kulo` | guide | Leading others along paths |
@@ -794,7 +794,7 @@
 | `whepelo` | retaliate | retaliation through a social or institutional power relation |
 | `whetuma` | appeal | an institutional appeal with stated recipient and standing |
 | `whishela` | whisper | The voice standing close |
-| `whoa` | whole | flourishing through inclusion and interdependence |
+| `whoa` | whole | members included in the community understood as one connected body |
 | `whola` | invite | creates and strengthens bonds through inclusive gestures |
 | `wilemo` | toy | Made for a child's hands |
 | `wiresu` | postpone | a schedule change affecting shared participation |
@@ -1103,7 +1103,7 @@
 | `hola` | laugh | Expressing amusement |
 | `holia` | festival | Communal joy |
 | `holume` | loss | What remains of holding |
-| `horae` | radiant | Glowing quality |
+| `horae` | radiant | delight made visible in a face or manner |
 | `hurao` | patient | Accepting delay |
 | `kaeli` | like | the feeling of preference and affinity |
 | `kaeshu` | bold | Confident daring |
@@ -1182,14 +1182,14 @@
 | `themui` | faith | cultivates trust through mindful confidence in process |
 | `theomi` | trust | emotional vulnerability and courage |
 | `therua` | eager | Keen enthusiasm |
-| `thiro` | serene | Radiant peace |
+| `thiro` | serene | calm settled into a poised manner |
 | `tholira` | forgive | Releasing resentment and grievance |
 | `thomari` | courage | transforms fear through compassionate presence |
 | `thoru` | proud | Dignified satisfaction |
 | `thuleni` | comfort | Responding to others' distress |
 | `thunoa` | dignified | Noble bearing |
 | `thuo` | prosper | Abundant flourishing |
-| `thurai` | vibrant | Energized state |
+| `thurai` | vibrant | lively energy apparent in a manner or shared activity |
 | `towe` | well | Wellness |
 | `tumoa` | heavy | felt heaviness such as grief or restlessness |
 | `wakomi` | surprise | The felt jolt of the unexpected |
@@ -1378,7 +1378,7 @@
 | `sileo` | silk | Insect fiber |
 | `silero` | star | luminous celestial body |
 | `sileta` | sun | the particular star that gives Earth daylight |
-| `simoe` | rich | Deeply fertile |
+| `simoe` | rich | dense nutrients, organic matter, or living variety in land and habitat |
 | `solai` | gold | Precious metal |
 | `sophae` | cotton | Plant fiber |
 | `sorila` | cultivate | Working land for growth |
@@ -1440,7 +1440,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (345)
+## physical (348)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1462,6 +1462,7 @@
 | `hiso` | clean | Free from dirt |
 | `hisophi` | contaminant | a substance, organism, or agent present in a sample, place, or process |
 | `hola` | laugh | Vocal release of joy |
+| `horae` | radiant | light visibly extending from a source |
 | `horuma` | thunder | Sound felt in the chest |
 | `huwa` | weak | limited capacity to exert or withstand force in the relevant situation |
 | `kaelo` | sweet | the taste associated with sugar, honey, and ripe fruit |
@@ -1528,7 +1529,7 @@
 | `luphonu` | boat | The built hull |
 | `lurepa` | nutrient | a substance whose biological role depends on form, amount, and conditions |
 | `luroi` | nervous | Uneasy energy |
-| `luwae` | graceful | Elegant form |
+| `luwae` | graceful | controlled motion with little visible strain or interruption |
 | `luwi` | flexible | bending or changing shape without damage |
 | `maeli` | quiet | little or no sound in a source, event, or place |
 | `malomi` | balance | encompasses bodily balance alongside emotional and spiritual |
@@ -1637,6 +1638,7 @@
 | `phisuri` | sample | a material, organism, place, or record portion taken for examination |
 | `phitura` | well (water) | Water at the end of effort |
 | `phoa` | do | performing actions and activities |
+| `pholuo` | luminous | a source or material that emits, transmits, or appears suffused with light |
 | `phulae` | mouth | the body opening for eating and speaking |
 | `phurewa` | sweep | surface cleaning through bristle contact |
 | `phurilo` | broom | bristles moving loose material across a surface |
@@ -1686,6 +1688,7 @@
 | `shelu` | book | tangible objects that can be held, carried, and preserved |
 | `shena` | calm | low turbulence in water or breath |
 | `sheru` | slow | a low rate of bodily or material movement |
+| `shiloa` | pure | material treated as unmixed under the stated conditions |
 | `sholu` | complete | All parts present |
 | `shonui` | ear | Organ of hearing |
 | `shonuwa` | sound | an acoustic event or the medium available to hearing |
@@ -1779,7 +1782,7 @@
 | `whila` | hair | Fine body covering that grows and flows |
 | `whilaru` | comb | Teeth that untangle |
 | `whinu` | smell | olfactory perception through the nose |
-| `whoa` | whole | bodily and tangible completeness |
+| `whoa` | whole | an object or body whose relevant parts are present and joined |
 | `whunei` | breathe | Air cycle sustaining life |
 | `wilemo` | toy | The crafted companion |
 | `wipha` | restless | recurrent movement or an urge to move |
@@ -2171,7 +2174,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (188)
+## wisdom (185)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2223,7 +2226,6 @@
 | `motha` | foundation | Essential support |
 | `motu` | humble | Right-sized self |
 | `mu` | zero | a Phi-specific comparison between numerical zero and an empty interval |
-| `mueli` | plain (unadorned) | Simple sufficiency |
 | `muko` | careless | Lacking care |
 | `muro` | stubborn | Resistant to change |
 | `nai` | be | recognizing and accepting what is |
@@ -2260,10 +2262,8 @@
 | `pheru` | endure | Persistence |
 | `phesua` | inspire | involves skillful awakening without forcing |
 | `phewo` | sage | Insight earned through living |
-| `phiro` | elegant | Tasteful quality |
 | `phiwheki` | counterexample | attention to particulars that resist an overly broad rule |
 | `pholui` | bamboo | Flexible strength |
-| `pholuo` | luminous | Inner illumination |
 | `phue` | wise | Deep understanding |
 | `pina` | sew | Patience in small, repeated acts |
 | `porua` | purpose | Meaningful direction |
@@ -2290,14 +2290,14 @@
 | `shea` | peace | requires understanding and active cultivation |
 | `shemu` | moment | Present experience |
 | `shewo` | true | Reality correspondence |
-| `shiloa` | pure | requires understanding of essential nature |
+| `shiloa` | pure | purity used in a philosophical source without turning it into a judgement of human worth |
 | `shimalo` | discipline | aligns actions with deeper intentions through skillful training |
 | `shiroka` | repair | the diagnosis and skilled work needed to make a device usable again |
 | `shoeka` | route | Way chosen |
 | `sholu` | complete | Nothing lacking |
 | `shonela` | learn | involves understanding and transformation of perspective |
 | `silero` | star | guide for routes and seasons |
-| `siloma` | simple | knowing what is enough and seeing clearly |
+| `siloma` | simple | deliberate reduction of complexity where fewer parts make attention easier |
 | `sima` | thread | Connection |
 | `siru` | marker | Path guide |
 | `soliru` | hope | requires understanding causes and conditions for change |
@@ -2358,7 +2358,7 @@
 | `whemura` | dream | Source of insight and vision |
 | `whenola` | wander | Openness to unplanned discovery |
 | `wheo` | elder | holds experiential knowledge from long living |
-| `whoa` | whole | understanding undivided nature of reality |
+| `whoa` | whole | attention to relations among parts without losing sight of the whole |
 | `whori` | mend | Ethic of care and repair |
 | `wiero` | imaginative | Seeing possibility |
 | `wireo` | future | Possibility's domain |

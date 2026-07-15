@@ -8,16 +8,24 @@
     "li"
   ],
   "pos": "adjective",
-  "concept": "Plain / Unadorned / Without Decoration",
-  "description": "Without decoration or elaborate features; simple and unembellished. 'Mueli' names the quality of plainness as aesthetic choice—beauty in simplicity, sufficiency without ornament.",
-  "sound_symbolism": "The word rests simply. 'Mu' grounds with quiet presence, nothing added. The vowel 'e' opens to clarity, decoration absent. Then 'li' settles lightly, plainness complete.",
-  "grammatical_notes": "Functions as an adjective: 'mueli noru' (plain bowl). Distinct from 'wemo' (plain as flat land). Related to 'siloma' (simple) but emphasizes absence of decoration.",
+  "search_terms": [
+    "unadorned",
+    "undecorated"
+  ],
+  "description": "A bowl with no painted band or carved edge is 'mueli'. The adjective says that ornament is absent; it makes no judgement about whether the object is crude or beautiful. 'siloma' (simple) concerns the arrangement of parts, so a plain mechanism may still be complex.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm' and carry the voice through the nose into rounded high-back 'u'. Preserve the hiatus as the lips unround and the tongue moves forward for stressed true-mid front 'e'. Touch the tongue tip to the alveolar ridge for 'l' and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The word moves through three clear vowel shapes with only nasal 'm' and lateral 'l' interrupting them. Its spare, evenly paced contour can serve as a mnemonic for an unadorned surface.",
+  "usage_notes": "'mueli' marks the absence of decoration. The noun 'wemo' names a broad, flat stretch of land and does not share this adjective's aesthetic sense.",
+  "examples": [
+    {
+      "phi": "noru mueli nai.",
+      "translation": "The bowl is plain."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Plain living supports clarity—simplicity in material life reduces distraction and craving.",
-    "art-nouveau-aesthetics": "Plain surfaces created visual rest—even ornate designs needed undecorated spaces to breathe."
+    "art-nouveau-aesthetics": "An undecorated surface gives a neighbouring curve or carved joint room to be seen. 'mueli' names that plain surface without turning restraint into a universal rule."
   },
   "semantic_domains": {
-    "aesthetic": "Undecorated",
-    "wisdom": "Simple sufficiency"
+    "aesthetic": "a form or surface with little or no applied ornament"
   }
 }

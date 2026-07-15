@@ -8,16 +8,27 @@
     "i"
   ],
   "pos": "adjective",
-  "concept": "Vibrant / Full of Energy / Intensely Alive",
-  "description": "Full of energy and life; pulsing with vitality. 'Thurai' names the quality of heightened aliveness—colors that sing, beings that radiate energy, presence that fills and enlivens space.",
-  "sound_symbolism": "The word pulses with energy. 'Thu' /θu/ begins with breath released, energy stirring. Then 'ra' radiates outward, vitality spreading. Finally 'i' rises with intensity, the vibrant peak.",
-  "grammatical_notes": "Functions as an adjective: 'thurai loriphi' (vibrant rainbow). Stronger than 'lima' (alive)—implies intensity and radiance of life force.",
+  "search_terms": [
+    "vivid",
+    "lively",
+    "energetic",
+    "intense"
+  ],
+  "description": "A colour is 'thurai' when its intensity commands attention; music or a busy square can carry the same lively force. The word reports perceptible energy in a scene or quality rather than offering general praise. 'keru' (bright) covers light intensity, and 'lima' (alive) says that a being lives.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth for voiceless dental 'th' and let air pass into rounded high-back 'u'. Make a tap or short trill at the alveolar ridge for 'r' and open into stressed central 'a'. Preserve the hiatus as the tongue rises and moves forward for final high-front unrounded 'i'.",
+  "sound_symbolism": "The vowels travel from high-back 'u' through open 'a' to high-front 'i', with the tap of 'r' at the centre. That wide movement gives the word an audible intensity suited to vivid colour or lively sound.",
+  "usage_notes": "A place is 'thurai' when its colour, sound, movement, or activity is strongly perceptible. Health and social value need their own claims.",
+  "examples": [
+    {
+      "phi": "loriphi thurai nai.",
+      "translation": "The rainbow is vibrant."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Vibrant ecosystems indicate health—biodiversity and energy flow creating resilient, living communities.",
-    "art-nouveau-aesthetics": "Vibrant colors and forms characterized Art Nouveau—life expressed at full intensity, nature's energy made visible."
+    "art-nouveau-aesthetics": "Saturated glass and poster colour give 'thurai' concrete uses in Art Nouveau work. The adjective stays with visible intensity rather than praising the style as a whole."
   },
   "semantic_domains": {
-    "aesthetic": "Intense vitality",
-    "emotion": "Energized state"
+    "aesthetic": "strongly perceptible intensity in colour, sound, movement, or a scene",
+    "emotion": "lively energy apparent in a manner or shared activity"
   }
 }

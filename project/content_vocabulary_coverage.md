@@ -26,7 +26,8 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Review concepts with direct corpus pressure | **DONE** | Base `pukeri` damage, `rohemi` wear down, `huwa` weak, and `tinako` rigid now carry the four accepted distinctions. |
 | Test concepts without corpus pressure | **DONE** | Base `shumeko` resolves adhesion, base `selawi` resolves traction, base `patoku`, `larewu`, and `heshowa` resolve ordinary material phase, and base `ponalu`, `waleru`, and `hirawo` supply the three neutral spatial magnitudes. |
 | Sensory and perceptual qualities | **DONE** | Fifteen inherited entries now use the target prose contract. `pothu` (stink) remains unchanged while its lexical framing is reviewed. |
-| Resume inherited content prose migration | **NEXT** | Continue after the sensory and perceptual batch. Each semantic group passes through this coverage gate. |
+| Aesthetic and formal qualities | **DONE** | Thirteen inherited base adjectives now use the target prose contract, with `mioru` as the already-migrated anchor. Applied ornament remains a review question rather than a hurried coinage. |
+| Resume inherited content prose migration | **NEXT** | Continue after the aesthetic and formal qualities batch. Each semantic group passes through this coverage gate. |
 
 ## Batch overview
 
@@ -39,6 +40,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Color | [PR #350](https://github.com/dcellison/phi/pull/350) | **SETTLED** | Canon closes the system at seven adjective roots and an open construction built from a source noun and color. |
 | Strength, deformation, and recovery | [PR #351](https://github.com/dcellison/phi/pull/351) and D020 | **COVERED** | Four base roots now close the damage, wear, weakness, and rigidity questions exposed by the retrospective. |
 | Sensory and perceptual qualities | [PR #362](https://github.com/dcellison/phi/pull/362) | **REVIEW** | The channels and ordinary qualities are covered. `pothu` remains under review as the dedicated strongly unpleasant odour verb. |
+| Aesthetic and formal qualities | Pending publication | **REVIEW** | The ordinary distinctions are covered. Phi can describe ornamented work but does not yet name an applied ornament or the act of decorating directly. |
 
 ## Audit method
 
@@ -176,6 +178,28 @@ A bell can be heard without being listened to. A warm bowl can be touched, sense
 
 No new root follows from this pass. The useful distinctions already have direct words or ordinary constructions, with one deliberate exception: `pothu` stays in review because Phi needs candour about unpleasant odours without borrowing the contempt that English packs into "stink".
 
+## Aesthetic and formal qualities
+
+A plain bowl can be beautiful, and an elegant mechanism can still be difficult to use. This field keeps those judgements from collapsing into one word of praise. It distinguishes a speaker's response from the form being noticed, then separates qualities of light and composure from questions of exactness or integrity.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| General aesthetic appreciation and wonder | `mioru` (beautiful), `kaeli` (like), `woraka` (appreciate), and `waora` (wondrous) | **COVERED** | Beauty is the speaker's aesthetic judgement, liking states preference, appreciation recognizes value, and wonder begins when experience exceeds expectation. None has to stand in for the others. |
+| Refinement and flowing form | `phiro` (elegant) and `luwae` (graceful) | **COVERED** | Elegance attends to considered proportion and economy. Grace follows motion, gesture, or a line that seems ready to move. |
+| Relation among parts | `koru` (harmonious), `weilo` (balanced), `lei` (harmonize), and `shemoli` (harmonize something) | **COVERED** | Harmony concerns how different parts fit; balance concerns equilibrium or workable proportion. The two verbs distinguish parts harmonizing from someone tuning one thing to another. |
+| Character and spread of light | `pholuo` (luminous), `horae` (radiant), and `keru` (bright) | **COVERED** | Luminosity appears held in or steadily given by a source or surface. Radiance reaches outward, while brightness states intensity. |
+| Absence of ornament and low complexity | `mueli` (plain), `siloma` (simple), and `ruka` (complex) | **COVERED** | Plainness says ornament is absent. Simplicity and complexity concern how many parts or relations must be followed, so either can occur in decorated or undecorated work. |
+| Precision, accuracy, and fit | `kiro` (precise), `telua` (accurate), and `theali` (fitting) | **COVERED** | Precision narrows variation or scope, accuracy agrees with a reference or fact, and fittingness relates a thing to its present context or purpose. |
+| Unmixed composition, cleanliness, and clarity | `shiloa` (pure), `hiso` (clean), and `nuwi` (clear) | **COVERED** | Purity concerns mixture in a stated respect. Cleanliness concerns unwanted material, while clarity concerns sight or understanding. `shiloa` does not grade a person's moral worth. |
+| Depth and perceptible intensity | `simoe` (rich), `thurai` (vibrant), and `lorua` (abundant) | **COVERED** | Richness concerns concentration or depth within a quality. Vibrancy concerns force that can be perceived, and abundance concerns quantity available. |
+| Calm made visible or audible | `thiro` (serene), `shena` (calm), and `noalu` (tranquil) | **COVERED** | Serenity is settled composure in manner or scene. Calm reports low present agitation, while tranquility has remained undisturbed. |
+| Integrity and completion | `whoa` (whole) and `sholu` (complete) | **COVERED** | A whole thing holds together as one. A complete set or process has everything its stated requirement calls for. |
+| Negative aesthetic response | `mioru ma nai` (is not beautiful), `ma kaeli` (do not like), degree, and the concrete feature being judged | **COMPOSITIONAL** | Phi can own the response and name what prompted it without treating ugliness as an objective property, especially of a person. Connected writing may reopen the question if strong aesthetic aversion repeatedly needs a direct adjective. |
+| Applied ornament or decorating | `mueli ma nai` (is not plain), with `noporu` (design), `kire` (shape), `shela` (art), and making verbs | **REVIEW** | Current words can describe the resulting pattern or form, but none directly names an ornament added to a thing or the act of adding it. Art and craft writing should test whether that recurring distinction belongs in base vocabulary or an optional domain. |
+| Symmetry and asymmetry | `kolo` (equal), `sena` (pattern), repeated spatial relations, and exact source description | **DEFERRED** | Ordinary description can compare corresponding parts. A dedicated term should wait for connected design or technical use that needs symmetry as one recurring property. |
+
+The thirteen inherited base adjectives in this field now use the target prose contract. Their definitions remove several old shortcuts: purity is composition rather than moral essence, richness is not personal wealth, harmony permits disagreement, and serenity makes no promise about another person's state. No new root is coined in this pass. Applied ornament remains the one direct lexical question.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -216,4 +240,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete. Base `shumeko` closes adhesion, base `selawi` closes traction, `patoku`, `larewu`, and `heshowa` close ordinary material phase, and `ponalu`, `waleru`, and `hirawo` close the three neutral spatial magnitudes. The inherited content prose migration now resumes after the strength and recovery batch with this gate in place.
+The retrospective review queue is complete. The inherited content prose migration has now passed through sensory and perceptual qualities and through aesthetic and formal qualities. The next semantic neighbourhood begins after this batch with the same coverage gate in place; `pothu` and applied ornament remain recorded review questions rather than hidden gaps.

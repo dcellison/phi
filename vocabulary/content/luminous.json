@@ -8,16 +8,27 @@
     "o"
   ],
   "pos": "adjective",
-  "concept": "Luminous / Softly Glowing / Full of Light",
-  "description": "Full of or shedding light; bright and shining, especially in the dark. 'Pholuo' names the quality of gentle radiance—the moon's glow, the firefly's signal, light that illuminates without overwhelming.",
-  "sound_symbolism": "The word glows softly. 'Pho' /ɸo/ begins with soft breath, gentle light forming. Then 'lu' carries liquid luminescence, light flowing. Finally 'o' opens with fullness, the glow complete.",
-  "grammatical_notes": "Functions as an adjective: 'pholuo lunei' (luminous moon). Softer than 'horae' (radiant)—implies gentle, diffuse light rather than bright emanation.",
+  "search_terms": [
+    "glowing",
+    "light-filled",
+    "luminescent",
+    "suffused with light"
+  ],
+  "description": "Moonlight through mist and a lamp behind paper can both be 'pholuo': each gives or seems filled with steady, diffused light. 'keru' (bright) describes intensity, while 'horae' (radiant) draws attention to light spreading outward from its source.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass voiceless air through the gap for 'ph', then round into true-mid back 'o'. Touch the tongue tip to the alveolar ridge for 'l' and release along its sides into stressed high-back rounded 'u'. Keep final true-mid back 'o' in a separate syllable by lowering the back of the tongue and relaxing the lip rounding after the hiatus.",
+  "sound_symbolism": "Breathy 'ph' and lateral 'l' keep the airflow audible, while the three rounded vowels change shape gradually. The resulting contour can recall light held in fog or glass rather than a sharp flash.",
+  "usage_notes": "A source or a lit or translucent surface may be 'pholuo'. Degree words place its luminosity anywhere from faint to strong.",
+  "examples": [
+    {
+      "phi": "lunei pholuo nai.",
+      "translation": "The moon is luminous."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Luminous awareness is mind's natural state—clear light that illuminates all experience without distortion.",
-    "art-nouveau-aesthetics": "Luminous quality was prized in Art Nouveau—glass, jewels, and surfaces that held and released soft light."
+    "art-nouveau-aesthetics": "Layered glass and shaded lamps give 'pholuo' a material home: light appears held inside a surface before it reaches the room."
   },
   "semantic_domains": {
-    "aesthetic": "Soft light quality",
-    "wisdom": "Inner illumination"
+    "aesthetic": "steady or diffused light perceived as filling a source or surface",
+    "physical": "a source or material that emits, transmits, or appears suffused with light"
   }
 }

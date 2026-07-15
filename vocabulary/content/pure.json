@@ -8,16 +8,24 @@
     "a"
   ],
   "pos": "adjective",
-  "concept": "Pure / Unclouded Essence",
-  "description": "The quality of being unmixed and true to one's essential nature, free from harmful intent or unnecessary complexity. It is not a moralistic state, but one of clear intention and pristine, uncomplicated being.",
-  "sound_symbolism": "The whispering 'sh' suggests something refined and distilled to its essence. The open 'lo' creates spaciousness where only truth can exist, while the final 'a' releases into complete openness. This progression from refinement through spaciousness to openness mirrors the journey to purity - removing what is unnecessary, creating space for essence, then resting in simple truth.",
-  "grammatical_notes": "An adjective, similar to Sanskrit śuddha (शुद्ध) and Japanese jun (純): 'shiloa phialu' (pure water). Purity itself — the state or quality — comes by the quality-noun rule.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Purity in Buddhist understanding isn't moral perfection but clarity of intention and freedom from the three poisons - greed, hatred, and delusion. This purity emerges through practice, gradually clearing the mind's habitual distortions to perceive reality without the overlay of craving or aversion."
-  },
+  "search_terms": [
+    "unmixed",
+    "unalloyed"
+  ],
+  "description": "Water may be 'shiloa' when no other substance is mixed into it for the purpose at hand. A tone or intention can be pure in the same sense: one quality is present without another running through it. The word describes composition, never a person's moral worth.",
+  "articulatory_notes": "Raise the tongue blade toward the postalveolar region for voiceless 'sh' and pass air through the narrow channel into high-front unrounded 'i'. Touch the tongue tip to the alveolar ridge for 'l' and release along its sides into stressed rounded true-mid back 'o'. Keep final central 'a' in a separate syllable by opening the jaw and releasing the lip rounding after the hiatus.",
+  "sound_symbolism": "The narrow airflow of 'shi' opens through rounded 'lo' into a separate final 'a'. That gradual widening can suggest a mixture being clarified until one contour remains audible.",
+  "usage_notes": "When exact composition matters, the relevant substance, method, or source standard belongs beside the Phi description. 'hiso' (clean) says unwanted material has been removed; 'shiloa' says the named mixture is absent in the respect being discussed.",
+  "examples": [
+    {
+      "phi": "phialu shiloa nai.",
+      "translation": "The water is pure."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "purity as a quality of form and essence",
-    "cognition": "mental clarity and freedom from distortion",
-    "wisdom": "requires understanding of essential nature"
+    "aesthetic": "an unmixed colour, tone, or formal quality",
+    "cognition": "one intention, factor, or line of thought considered without another mixed through it",
+    "physical": "material treated as unmixed under the stated conditions",
+    "wisdom": "purity used in a philosophical source without turning it into a judgement of human worth"
   }
 }
