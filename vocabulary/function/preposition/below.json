@@ -7,13 +7,19 @@
     "u"
   ],
   "pos": "preposition",
-  "concept": "Under / Below / Lower Than",
-  "description": "Marks location at a lower elevation than a reference point, whether directly underneath or simply lower. 'Phou' is position, not rank: below carries no judgment of worth. Its complement is 'leo' (above).",
-  "sound_symbolism": "The word begins with 'pho', where the soft bilabial fricative 'ɸ' releases breath downward, like a sigh settling toward earth. The round vowel 'o' maintains this sense of fullness and substance. This deepens into 'u', the vowel formed furthest back and lowest in the mouth, physically embodying depth and lowness. The acoustic journey from soft release to deep grounding mirrors how 'below' is not mere absence of height but presence of foundation. The gentle fricative avoids any harsh judgment, acknowledging that depth has its own dignity.",
-  "grammatical_notes": "Functions as a spatial preposition marking vertical relationships without contact, the complementary partner to 'leo' (above). Precedes the noun it modifies: 'phou tomora' (below the mountain), 'phou leko' (below the surface). Does not distinguish between directly underneath and generally lower positions. Can mark physical position, supporting relationships, or metaphorical depth. Maintains neutrality regarding value—being below implies position, not worth.",
-  "pillars": {
-    "solarpunk-values": "Regenerative design recognizes that health below determines flourishing above—soil biology, mycelial networks, aquifer systems. 'Phou' serves the practice of tending invisible foundations, understanding that sustainable abundance grows from depths.",
-    "secular-buddhist-philosophy": "The lotus grows from mud: the tradition roots awakening in depth, not in escape upward. 'Phou' names the low position plainly, without making it the lesser one.",
-    "pre-industrial-wisdom": "Traditional wisdom honors what lies below—roots that feed trees, soil that nourishes crops, ancestors who support descendants. 'Phou' acknowledges that what is below often holds up what is above, that depth enables height."
-  }
+  "search_terms": [
+    "below",
+    "under",
+    "underneath",
+    "lower than"
+  ],
+  "description": "For a fish below a bridge, 'phou' marks the lower position without contact. It works whether the lower thing is directly underneath or off to one side. Its counterpart is 'leo' (ABOVE), and neither preposition turns height into worth.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then round them for mid-back 'o'. Hold the syllable boundary as the back of the tongue rises and the lips round more tightly for high-back 'u'. Stress 'pho'.",
+  "usage_notes": "Place 'phou' before the higher landmark. The preposition compares elevation without requiring a shared vertical line.",
+  "examples": [
+    {
+      "phi": "lo shalu phou repha wepu.",
+      "translation": "The fish pass below the bridge."
+    }
+  ]
 }
