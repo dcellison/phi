@@ -7,12 +7,19 @@
     "no"
   ],
   "pos": "discourse",
-  "concept": "Furthermore / Additionally / Building Upon",
-  "description": "A discourse marker of additive progression, introducing a sentence that supports or extends what has just been established. It signals that the new material builds on the old rather than opening a fresh topic.",
-  "sound_symbolism": "The word begins with 'ʃ', the soft postalveolar fricative that whispers like shared secrets, suggesting gentle addition rather than forceful insertion. This flows through 'e' to 'no', where the nasal 'n' creates connection and the open 'o' provides space for expansion. The progression from soft sharing to connected openness mirrors how knowledge builds—gently, connectedly, spaciously.",
-  "grammatical_notes": "As a discourse marker, appears sentence-initially to introduce additional supporting information or arguments. When sentence-initial, follows Slot 0 particles but precedes the subject. Creates a sense of accumulating understanding rather than mere listing, operating at the sentence level to relate entire propositions. Example: 'sheno mia thia naphe' (Furthermore, I help you).",
-  "pillars": {
-    "solarpunk-values": "Building regenerative systems requires layering solutions—each intervention supporting and strengthening others. 'Sheno' embodies this additive approach where progress comes through patient accumulation rather than single dramatic changes.",
-    "pre-industrial-wisdom": "Traditional knowledge builds through generations, each adding their observations to the collective understanding. 'Sheno' carries this recognition that wisdom accumulates through patient addition rather than revolutionary replacement."
-  }
+  "search_terms": [
+    "furthermore",
+    "moreover",
+    "in addition"
+  ],
+  "description": "'sheno' adds another sentence to the same developing line of thought. It is Phi's furthermore or in addition. The new sentence contributes a further point; 'phisu' (EXMP) instead supplies a concrete case of the point already made.",
+  "articulatory_notes": "Raise the tongue blade toward the postalveolar area and send unvoiced air through its central groove for 'sh', then open onto unrounded front 'e'. Place the tongue tip against the backs of the upper front teeth for voiced dental 'n' and round the lips around mid-back 'o'. Stress 'she'.",
+  "sound_symbolism": "The opening fricative is the breath Phi places before a discourse turn. Here the compact 'she.no' movement gives the addition a light contour before the next sentence begins.",
+  "usage_notes": "If a Slot 0 particle is present, it comes first; 'sheno' follows and the subject comes next. Unlike 'nela' (COORD), the marker relates propositions across a sentence boundary rather than items inside one coordination.",
+  "examples": [
+    {
+      "phi": "mia shea phaelo. sheno mia lothea phaelo.",
+      "translation": "I feel peace. Furthermore, I feel love."
+    }
+  ]
 }

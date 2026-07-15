@@ -8,13 +8,23 @@
     "la"
   ],
   "pos": "discourse",
-  "concept": "In Other Words / That Is / To Put It Another Way",
-  "description": "A discourse marker signaling that what follows restates the previous thought in different form. 'Shorela' acknowledges that understanding often requires multiple approaches—the same truth viewed from different angles, the same meaning clothed in different words. It marks not repetition but reformulation, the generous act of offering another path to the same destination.",
-  "sound_symbolism": "The word opens with 'sho' /ʃo/, connecting to the quotative complementizer 'shola' and the realm of expressed meaning—what is being re-expressed. The central 're' carries the sense of return, revisiting, circling back to say again. Finally, 'la' flows with liquid connection, linking the new formulation to the old. The acoustic journey from expression through return to connection mirrors the act of rephrasing: we return to what was said and connect it anew. The three syllables create a deliberate pace, giving listeners time to prepare for reformulation rather than new information.",
-  "grammatical_notes": "As a discourse marker, appears sentence-initially to signal that what follows is a reformulation of the preceding statement, not new information. Positioned after Slot 0 particles but before the subject. Useful for clarification, emphasis, or offering simpler/more complex versions of the same idea. Does not imply the first formulation was wrong—rather that multiple expressions illuminate meaning from different angles. Example: 'shorela mia thia lothea' (In other words, I love you).",
+  "search_terms": [
+    "in other words",
+    "that is",
+    "put another way",
+    "reformulation"
+  ],
+  "description": "'shorela' says that the next sentence reformulates the previous one, the move English makes with \"in other words\" or \"put another way\". It asks the second wording to preserve the central claim while changing its expression. 'shekoi' (SPEC) narrows a claim; 'shorela' tries to say the same thing again.",
+  "articulatory_notes": "Lift the tongue blade toward the postalveolar area for unvoiced 'sh' and round the lips around mid-back 'o'. Tap or briefly trill 'r' at the alveolar ridge before stressed front 'e'. Return the tongue tip to the ridge for 'l', then open the jaw into central 'a'. Stress 're'.",
+  "sound_symbolism": "After the discourse family's opening breath, tapped or trilled 'r' and lateral 'l' give 'shorela' a looping, continuous contour. That shape can recall a return to the same claim in different words.",
+  "usage_notes": "Any Slot 0 particle comes before 'shorela', and the subject of the reformulation follows it. The marker reports the speaker's intention to preserve the claim, while the listener remains free to question what changed between the two formulations.",
+  "examples": [
+    {
+      "phi": "shia ma haolu. shorela shia maeli nai.",
+      "translation": "They do not speak. In other words, they are quiet."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Truth is approached through many doors; no single formulation captures all. 'Shorela' embodies this understanding that skillful teaching requires multiple framings, meeting different minds where they are.",
-    "peace-linguistics-practices": "Misunderstanding often stems from different interpretive frames. By explicitly marking rephrasing, 'shorela' supports clarification without blame—not 'you didn't understand' but 'let me say it another way.' This preserves face while pursuing mutual understanding.",
-    "pre-industrial-wisdom": "Traditional teaching often circles back, approaching the same wisdom through stories, metaphors, and direct statements. 'Shorela' honors this pedagogical pattern of saying the same truth many ways until it takes root."
+    "peace-linguistics-practices": "'shorela' lets a speaker take responsibility for trying a second formulation instead of making the listener's understanding the whole problem."
   }
 }

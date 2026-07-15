@@ -8,13 +8,23 @@
     "i"
   ],
   "pos": "discourse",
-  "concept": "Specifically / In Particular / To Be Precise",
-  "description": "A discourse marker that narrows focus from general to particular, signaling that what follows specifies, clarifies, or singles out one instance from a broader category. 'Shekoi' is the grammar of zooming in—moving from the wide view to the telling detail, from principle to example, from category to member.",
-  "sound_symbolism": "The word begins with 'sh' /ʃ/, the signifying fricative shared with other discourse markers, establishing its role in structuring meaning. This soft opening moves through 'e' to 'ko', where the velar stop 'k' creates a clear pointing gesture—the tongue touching the back of the mouth to indicate direction. Finally, 'i' focuses to the highest, narrowest vowel, the acoustic equivalent of pointing to a single spot. Speaking 'shekoi' enacts narrowing: from soft signification through clear pointing to precise focus.",
-  "grammatical_notes": "As a discourse marker, appears sentence-initially to signal that what follows narrows or specifies the preceding general statement. Positioned after Slot 0 particles but before the subject. Often used after broad claims to provide the particular instance that illustrates or qualifies them. Distinguished from 'phisu' (for example) which introduces illustrations without necessarily narrowing—'shekoi' implies 'this one in particular' while 'phisu' implies 'such as this among others.' Example: 'shekoi mia ha shelu kaeli' (Specifically, I like this book).",
+  "search_terms": [
+    "specifically",
+    "in particular",
+    "to be precise",
+    "narrowing"
+  ],
+  "description": "'shekoi' takes a preceding general statement and narrows it to the particular case or detail the speaker means. English commonly renders it specifically or in particular. 'phisu' (EXMP) offers one illustration among possible examples; 'shekoi' identifies the part now at issue.",
+  "articulatory_notes": "Raise the tongue blade for unvoiced postalveolar 'sh' and release it into unrounded front 'e'. Close the tongue dorsum against the soft palate for 'k', then release into stressed rounded mid-back 'o'. Keep final high-front 'i' in its own syllable and unround the lips cleanly. Stress 'ko'.",
+  "sound_symbolism": "The discourse breath in 'sh' gives way to a firm closure at 'k' and two distinct vowel syllables. That brief tightening can be felt as the marker narrowing attention to one point.",
+  "usage_notes": "A Slot 0 particle precedes 'shekoi'; the subject of the narrowed sentence follows. That sentence may repeat the broader predicate or replace it with the more exact claim the speaker intends.",
+  "examples": [
+    {
+      "phi": "mia lo shiro lothea. shekoi mia ha serao shiro lothea.",
+      "translation": "I love trees. Specifically, I love this old tree."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Wisdom requires both the general and the particular—principles mean nothing without specific application. 'Shekoi' supports this practice of grounding abstraction in concrete instance, preventing understanding from floating free of reality.",
-    "peace-linguistics-practices": "Vague accusations harm; specific observations help. 'Shekoi' supports constructive dialogue by providing language for moving from general concern to particular instance, enabling addressable rather than diffuse communication.",
-    "pre-industrial-wisdom": "Traditional knowledge moves constantly between general principle and specific application—the general shape of the season, the specific field to plant today. 'Shekoi' serves this practice of particularizing general wisdom."
+    "peace-linguistics-practices": "'shekoi' gives a speaker a grammatical way to replace a broad charge with the particular event or claim at issue."
   }
 }

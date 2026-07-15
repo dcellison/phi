@@ -8,13 +8,20 @@
     "o"
   ],
   "pos": "discourse",
-  "concept": "Consequent / Following From / Therefore",
-  "description": "A discourse marker expressing logical consequence or natural result: 'therefore', 'so'. It presents what follows as the conclusion of what came before, linking whole sentences rather than parts of one.",
-  "sound_symbolism": "The word begins with 'θ', the thoughtful fricative that requires deliberate tongue placement, suggesting careful consideration. This flows through 'e' into 'la', liquid sounds that connect smoothly, before rounding into 'o'. The whole word flows like logical progression itself—from thoughtful beginning through smooth connection to complete conclusion.",
-  "grammatical_notes": "As a discourse marker, typically appears sentence-initially to connect whole thoughts, showing logical progression. When sentence-initial, appears after Slot 0 particles but before the subject. Unlike other function words, discourse markers operate at the sentence level, relating entire propositions rather than modifying individual constituents. Example: 'thelao mia wepu' (Therefore, I go).",
-  "pillars": {
-    "secular-buddhist-philosophy": "The discourse marker embodies dependent origination—nothing arises in isolation but emerges from causes and conditions. 'Thelao' grammaticalizes this wisdom that all phenomena arise from what preceded them.",
-    "peace-linguistics-practices": "By framing consequences as natural flow rather than imposed punishment, 'thelao' enables discussion of results without blame, supporting restorative rather than punitive thinking.",
-    "pre-industrial-wisdom": "Traditional knowledge systems understand consequence through natural observation—rain brings growth, neglect brings decay. 'Thelao' carries this recognition of natural sequences."
-  }
+  "search_terms": [
+    "therefore",
+    "consequently",
+    "so",
+    "conclusion"
+  ],
+  "description": "'thelao' presents the next sentence as a consequence or conclusion drawn from the preceding discourse, the work of English therefore or consequently. The marker makes the inference explicit but does not supply any missing premise. 'lao' (BECAUSE) places a reason before a claim inside one sentence; 'thelao' looks back across a sentence boundary.",
+  "articulatory_notes": "Extend the tongue tip slightly between the teeth and pass unvoiced air around it for 'th', then withdraw into unrounded front 'e'. Touch the alveolar ridge for 'l' and open into stressed central 'a'. Keep the final 'o' in a separate syllable while the tongue draws back and the lips round. Stress 'la'.",
+  "sound_symbolism": "Dental friction at the opening carries the breath shared by every Phi discourse marker. The two final vowel syllables keep 'thelao' audible before the conclusion begins.",
+  "usage_notes": "'thelao' stands before the conclusion's subject and after a Slot 0 particle when one is present. Choosing the marker commits the speaker to the stated inference; mere sequence can be left as separate sentences or expressed with temporal wording.",
+  "examples": [
+    {
+      "phi": "mia to theo nela to shelomu. thelao mia so thumela.",
+      "translation": "I read and understood. Therefore, I will teach."
+    }
+  ]
 }

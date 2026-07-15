@@ -8,13 +8,20 @@
     "o"
   ],
   "pos": "discourse",
-  "concept": "In Summary / To Conclude / In Short",
-  "description": "A discourse marker signaling that what follows gathers and distills what has come before. 'Shelao' announces the transition from elaboration to essence, from many threads to their weaving together. It prepares the listener for synthesis rather than new information, for the crystallization of understanding from the solution of prior discourse.",
-  "sound_symbolism": "The word begins with 'sh' /ʃ/, the fricative of signification that appears in words of meaning-making and expression. This hush-like opening calls attention, preparing listeners for something essential. The liquid 'la' follows, gathering and flowing like streams converging—the many becoming one. Finally, 'o' completes with its round fullness, the sound of wholeness and completion. Speaking 'shelao' enacts the very gesture of summarizing: drawing attention, gathering together, arriving at completeness. The word echoes its sibling 'thelao' (consequently), marking them both as discourse connectors through shared CV.la.o structure.",
-  "grammatical_notes": "As a discourse marker, appears sentence-initially to signal that what follows summarizes preceding discourse. Positioned after Slot 0 particles but before the subject. Operates at the discourse level, relating entire propositions rather than modifying individual words. Typically introduces the final synthesis of an extended discussion, signaling to listeners that the speaker is consolidating rather than adding new points. Example: 'shelao lo mia towe nai' (In summary, we are well).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Summarizing is a practice of discernment—separating the essential from the elaborative, the heart from the flourishes. 'Shelao' marks this mindful act of distillation, recognizing that wisdom often lies in condensation rather than expansion.",
-    "peace-linguistics-practices": "By explicitly marking transitions to summary, 'shelao' supports clear communication and shared understanding. Listeners know to shift from detail-gathering to synthesis, reducing misunderstanding about whether new information or consolidation follows.",
-    "pre-industrial-wisdom": "Oral traditions require skilled summarizing—the elder who can distill a long teaching into its memorable essence. 'Shelao' serves this practice of crystallizing wisdom for transmission across generations."
-  }
+  "search_terms": [
+    "in summary",
+    "to conclude",
+    "in short",
+    "synthesis"
+  ],
+  "description": "After a stretch of discourse, 'shelao' introduces a synthesis: in summary or in short. It can compress several claims into one account of their common point. 'shorela' (REPH) recasts one claim; 'shelao' gathers a longer span.",
+  "articulatory_notes": "Form unvoiced 'sh' with the tongue blade raised toward the postalveolar area, then open into unrounded front 'e'. Touch the alveolar ridge for 'l' and lower the jaw into stressed central 'a'. Preserve the hiatus before rounding the lips for final mid-back 'o'. Stress 'la'.",
+  "sound_symbolism": "'shelao' and 'thelao' (CONS) share final 'la.o', an audible kinship between two markers that look back over prior discourse. Initial 'sh' supplies the breath of the wider marker family before that vowel ending.",
+  "usage_notes": "In a summary sentence, the order is a Slot 0 particle when present, then 'shelao', then the subject. Its scope comes from the preceding discourse; any qualification meant to survive must appear in the summary sentence itself.",
+  "examples": [
+    {
+      "phi": "mia to theo nela to shonela. shelao mia shelomu.",
+      "translation": "I read and learned. In summary, I understand."
+    }
+  ]
 }
