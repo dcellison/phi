@@ -515,7 +515,7 @@
 | `wireki` | prognosis | a conditional inference about a health course |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (280)
+## community (281)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -762,6 +762,7 @@
 | `thunaro` | train | a bounded relationship between trainer and participant |
 | `thunoa` | dignified | Respected presence |
 | `thuo` | prosper | Collective thriving |
+| `thuroi` | resilient | shared capacities restored after disruption |
 | `tokemi` | fungus | Underground connectors |
 | `toloi` | messenger | Connecting role |
 | `tomi` | pot | Daily nourishment |
@@ -819,7 +820,7 @@
 | `keluo` | metal | Forged material |
 | `kenoa` | hemp | Durable fiber |
 | `keritha` | workshop | Craft place |
-| `keruko` | sturdy | Durable quality |
+| `keruko` | sturdy | construction able to withstand its expected use |
 | `ketora` | control | a designed relation used to influence system behavior |
 | `kima` | scribe | Written preservation |
 | `kiphira` | fault | a condition relevant to diagnosis, repair, and maintained function |
@@ -1108,7 +1109,7 @@
 | `kela` | rejoice | Experiencing deep gladness |
 | `keloe` | companion | Abiding presence |
 | `kelomi` | accept | Opening to what is present |
-| `kema` | strong | Capable force |
+| `kema` | strong | strength of resolve under difficulty |
 | `kesu` | determined | Firm resolve |
 | `kipona` | pain | Hurt of heart borrowing the body's word |
 | `korua` | heart | the metaphorical seat of feeling and courage |
@@ -1474,11 +1475,11 @@
 | `kaworu` | injury | a health-relevant bodily change or damage |
 | `kehota` | cough | The airway's clearing burst |
 | `keloa` | rough | an uneven or coarse surface that catches against touch or motion |
-| `kema` | strong | Having power |
+| `kema` | strong | force exerted or withstood by bodies and materials |
 | `kenua` | energy | Power capacity |
 | `kerou` | stone | solid, heavy, enduring matter |
 | `keru` | bright | a high amount of emitted or reflected light |
-| `keruko` | sturdy | Strongly built |
+| `keruko` | sturdy | resistance to damage during handling or use |
 | `kethua` | hard | resistance to indentation or deformation under pressure |
 | `kiphira` | fault | an abnormal condition in a technical component or relation |
 | `kipona` | pain | The body's sharp signal |
@@ -1528,7 +1529,7 @@
 | `lurepa` | nutrient | a substance whose biological role depends on form, amount, and conditions |
 | `luroi` | nervous | Uneasy energy |
 | `luwae` | graceful | Elegant form |
-| `luwi` | flexible | Able to bend |
+| `luwi` | flexible | bending or changing shape without damage |
 | `maeli` | quiet | Low sound |
 | `malomi` | balance | encompasses bodily balance alongside emotional and spiritual |
 | `manuwe` | hand | the body member of grasping and making |
@@ -1728,7 +1729,7 @@
 | `thorima` | taste | Gustatory perception |
 | `thumai` | finger | Fine digits for manipulation and touch |
 | `thumiro` | smoke | Gray drift that reports |
-| `thuroi` | resilient | Able to recover |
+| `thuroi` | resilient | return toward workable form or function after stress |
 | `tipika` | fingernail | The finger's hard tip |
 | `tiripe` | quiver | Small fast involuntary motion |
 | `tiso` | sharp | a fine edge or point able to cut or pierce readily |
@@ -1752,7 +1753,7 @@
 | `welisha` | color | a perceived property of surfaces or light |
 | `weloni` | body | The whole living frame |
 | `welotu` | mix | parts moving through one another in a vessel or space |
-| `welua` | fragile | Easily broken |
+| `welua` | fragile | easy breakage or damage under comparatively small force |
 | `wenu` | tonic | Vitality |
 | `wesha` | lazy | Avoiding effort |
 | `wetha` | cloth | Covering |
@@ -2159,7 +2160,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (194)
+## wisdom (192)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2200,7 +2201,7 @@
 | `lumae` | end | Completion |
 | `lumishe` | mentor | core function of sharing insight and understanding |
 | `lumoi` | lantern | Guiding illumination |
-| `luwi` | flexible | Adaptive quality |
+| `luwi` | flexible | plans or responses able to adjust without losing purpose |
 | `maeli` | quiet | Enabling stillness |
 | `malomi` | balance | navigates opposing forces through skillful equilibrium |
 | `manawi` | compromise | a practical but morally nonautomatic response to conflict |
@@ -2333,7 +2334,6 @@
 | `thorui` | beginning | Fresh start |
 | `thumela` | teach | awakening understanding and nurturing growth |
 | `thuni` | intuitive | Non-analytical understanding |
-| `thuroi` | resilient | Adaptive strength |
 | `tiroe` | instant | Immediate point |
 | `tisu` | needle | Precise craft |
 | `tolu` | staff | Journey companion |
@@ -2343,7 +2343,6 @@
 | `weilo` | balanced | workable proportion among competing needs or considerations |
 | `welao` | good | discernment of beneficial quality |
 | `weloni` | body | The first foundation of mindfulness |
-| `welua` | fragile | Requiring care |
 | `wero` | honest | Without deception |
 | `wesoma` | mutual | understanding interdependence requires deep insight |
 | `whamoi` | doubt | recognition that judgment may remain open while inquiry continues |

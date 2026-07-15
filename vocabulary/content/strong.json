@@ -7,16 +7,21 @@
     "ma"
   ],
   "pos": "adjective",
-  "concept": "Strong / Having Power / Able to Withstand",
-  "description": "Having the power to move, lift, or withstand great force; powerful in effect or intensity. 'Kema' names the quality of capable force—muscles that can lift, materials that hold, presence that cannot be ignored.",
-  "sound_symbolism": "The word holds firm. 'Ke' begins with solid contact, force established. Then 'ma' embodies the power, strength made flesh.",
-  "grammatical_notes": "Functions as an adjective: 'kema shiro' (strong tree). Neutral term for power—can describe physical strength, emotional fortitude, or material durability.",
-  "pillars": {
-    "secular-buddhist-philosophy": "True strength includes gentleness—the strong can afford to be soft, while the weak must be rigid.",
-    "pre-industrial-wisdom": "Strength came from work and necessity—bodies strengthened by labor, communities strengthened by cooperation."
-  },
+  "search_terms": [
+    "forceful",
+    "intense"
+  ],
+  "description": "A person lifting a heavy beam is 'kema'; so is a wind pressing hard against a door. The word covers force exerted or withstood, strength of resolve, and sensory intensity. 'keruko' (sturdy) instead describes construction that resists ordinary damage.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for 'k' and release into true-mid front 'e'. Close the lips for voiced nasal 'm' and carry the voice through the nose. Final central 'a' opens the second syllable. Stress falls on 'ke'.",
+  "usage_notes": "'kema howeli' is a strong wind. Before a verb, 'kema' describes forceful manner: 'kema natu' means pull strongly.",
+  "examples": [
+    {
+      "phi": "howeli kema nai.",
+      "translation": "The wind is strong."
+    }
+  ],
   "semantic_domains": {
-    "emotion": "Capable force",
-    "physical": "Having power"
+    "emotion": "strength of resolve under difficulty",
+    "physical": "force exerted or withstood by bodies and materials"
   }
 }

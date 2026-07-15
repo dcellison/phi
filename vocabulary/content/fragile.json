@@ -8,16 +8,20 @@
     "a"
   ],
   "pos": "adjective",
-  "concept": "Fragile / Easily Broken / Delicate",
-  "description": "Easily broken or damaged; requiring careful handling. 'Welua' names the quality of fragility—the delicacy that calls for gentleness, the vulnerability that demands care.",
-  "sound_symbolism": "The word asks for care. 'We' opens with gentle awareness, delicacy present. 'Lu' moves with careful flow, caution maintained. Finally 'a' opens to vulnerability, fragility acknowledged.",
-  "grammatical_notes": "Functions as an adjective: 'welua lopha' (fragile vessel). Related to 'phaeli' (tender) but emphasizes susceptibility to damage rather than softness of quality.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Recognizing fragility awakens compassion—seeing how easily things break opens the heart to protection.",
-    "pre-industrial-wisdom": "Fragile things taught care—handling delicate objects developed gentleness and attention."
-  },
+  "search_terms": [
+    "delicate",
+    "easily damaged"
+  ],
+  "description": "A thin glass cup is 'welua' if a small impact could crack it. A young plant can be 'welua' when even ordinary pressure may damage it. Fragility and strength can coexist when the forces or conditions differ.",
+  "articulatory_notes": "For voiced 'w', round the lips and lift the back of the tongue before unrounding into true-mid front 'e'. Set the tongue tip against the alveolar ridge for 'l', then move into stressed rounded high-back 'u'. Keep final central 'a' separate in hiatus.",
+  "usage_notes": "'welua lopha' is a fragile vessel. A thing may be 'kethua' (hard) and still 'welua'; glass is the familiar case.",
+  "examples": [
+    {
+      "phi": "lopha welua nai.",
+      "translation": "The vessel is fragile."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Easily broken",
-    "wisdom": "Requiring care"
+    "physical": "easy breakage or damage under comparatively small force"
   }
 }

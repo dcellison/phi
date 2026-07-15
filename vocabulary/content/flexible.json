@@ -7,16 +7,22 @@
     "wi"
   ],
   "pos": "adjective",
-  "concept": "Flexible / Able to Bend / Adaptable",
-  "description": "Capable of bending without breaking; able to adapt to different circumstances. 'Luwi' names the quality of adaptive strength—the willow that bends in wind, the mind that adjusts to change, resilience through yielding.",
-  "sound_symbolism": "The word bends and flows. 'Lu' begins with liquid yielding, willingness to move. Then 'wi' winds smoothly, adapting to pressure.",
-  "grammatical_notes": "Functions as an adjective: 'luwi lowi' (flexible vine). Related to 'mureo' (stable) as complementary quality—flexibility and stability together create resilience.",
-  "pillars": {
-    "solarpunk-values": "Flexible systems adapt to change—resilient communities can adjust to new conditions without breaking.",
-    "secular-buddhist-philosophy": "Flexibility of mind prevents suffering—rigid attachment breaks, while flexible acceptance bends and recovers."
-  },
+  "search_terms": [
+    "adaptable",
+    "bendable"
+  ],
+  "description": "A green twig that bends without cracking is 'luwi'. A plan can be 'luwi' when it changes with circumstances without losing its purpose. 'thuroi' (resilient) concerns recovery after disruption rather than the ability to change shape or arrangement.",
+  "articulatory_notes": "Begin with lateral 'l': touch the tongue tip to the alveolar ridge and let air pass along the sides of the tongue into rounded high-back 'u'. For 'w', round the lips and raise the back of the tongue, then move forward and unround into high-front 'i'. Stress falls on 'lu'.",
+  "sound_symbolism": "No stop interrupts 'luwi': lateral 'l' passes into rounded 'u', then the lips and tongue shift together through 'wi'. That uninterrupted motion is the word's small mnemonic for flexibility.",
+  "usage_notes": "'luwi kelu' means become flexible or bend. For a garment, 'luwi' describes the material, while 'ralu' (free) describes being loose or unconstrained.",
+  "examples": [
+    {
+      "phi": "lowi luwi nai.",
+      "translation": "The vine is flexible."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Able to bend",
-    "wisdom": "Adaptive quality"
+    "physical": "bending or changing shape without damage",
+    "wisdom": "plans or responses able to adjust without losing purpose"
   }
 }

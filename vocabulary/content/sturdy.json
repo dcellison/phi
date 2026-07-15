@@ -8,16 +8,22 @@
     "ko"
   ],
   "pos": "adjective",
-  "concept": "Sturdy / Strongly Built / Robust",
-  "description": "Strongly and solidly built; able to withstand rough use. 'Keruko' names the quality of sturdiness—construction that endures, form that resists damage.",
-  "sound_symbolism": "The word stands like stone. 'Ke' begins with velar firmness, the decisive weight of something well-made. 'Ru' grounds with depth, roots reaching down into the earth. Then 'ko' closes with solid permanence, sturdiness confirmed. The hard consonants throughout mirror what sturdiness feels like: unyielding, reliable, built to last.",
-  "grammatical_notes": "Functions as an adjective: 'keruko lopha' (sturdy vessel). Opposite of 'welua' (fragile). Related to 'kema' (strong) but emphasizes resistance to damage rather than power.",
-  "pillars": {
-    "solarpunk-values": "Sturdy design reduces waste—things built to last don't need constant replacement.",
-    "pre-industrial-wisdom": "Sturdy construction served generations—well-built tools and structures passed from parent to child."
-  },
+  "search_terms": [
+    "robust",
+    "well-built"
+  ],
+  "description": "A workbench that withstands years of ordinary use is 'keruko'. It describes construction that resists damage. 'kema' (strong) instead refers to force exerted or withstood. A sturdy thing may still fail when used far beyond what it was built to handle.",
+  "articulatory_notes": "Make initial 'k' by pressing the back of the tongue to the soft palate, then release into true-mid front 'e'. The stressed second syllable starts with a tap or short trill before rounded high-back 'u'. Close at the velum once more for final 'k' and release into rounded mid-back 'o'.",
+  "sound_symbolism": "The tongue makes the same complete velar closure twice, at the beginning and near the end of 'keruko'. Between them, the brief tap keeps the word from sounding heavy throughout. That return to full contact provides a small echo of sturdy construction.",
+  "usage_notes": "'keruko lopha' is a sturdy vessel. Expected use sets the comparison; a sturdy basket and a sturdy bridge face different demands.",
+  "examples": [
+    {
+      "phi": "lopha keruko nai.",
+      "translation": "The vessel is sturdy."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Durable quality",
-    "physical": "Strongly built"
+    "creation": "construction able to withstand its expected use",
+    "physical": "resistance to damage during handling or use"
   }
 }
