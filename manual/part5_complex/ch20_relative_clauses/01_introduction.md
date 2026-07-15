@@ -6,17 +6,17 @@ English handles this with words like "who," "which," and "that": it places the r
 
 ## The logic of pre-nominal relatives
 
-Consider how Phi handles simple description. The noun phrase `phelora peloru` ("beautiful flower") places the adjective before the noun. Relative clauses follow the same logic, just with a clause instead of a single word:
+Consider how Phi handles simple description. The noun phrase `mioru peloru` ("beautiful flower") places the adjective before the noun. Relative clauses follow the same logic, just with a clause instead of a single word:
 
 ```
-rena mia to nila peloru phelora nai.
+rena mia to nila peloru mioru nai.
 REL 1SG PST see flower beautiful be.
 (The flower that I saw is beautiful.)
 ```
 
 The clause `mia to nila` ("i saw") describes the flower, and `rena` announces that description, just as an adjective would. The listener knows they're receiving descriptive information before they know what's being described. The complete noun phrase `rena mia to nila peloru` is then the subject of `nai`.
 
-This feels backwards to English speakers at first. But it's the same principle that makes `phelora peloru` feel natural once you've learned it. All modification precedes what it modifies. Relative clauses are just larger modifiers.
+This feels backwards to English speakers at first. But it's the same principle that makes `mioru peloru` feel natural once you've learned it. All modification precedes what it modifies. Relative clauses are just larger modifiers.
 
 ## Why this matters
 
@@ -25,7 +25,7 @@ Pre-nominal relative clauses have a practical advantage: they're bounded natural
 This structure also supports topic-drop. Once you've described something with a relative clause, you can continue talking about it without repeating or using a pronoun:
 
 ```
-rena mia to nila peloru phelora nai. thuroa.
+rena mia to nila peloru mioru nai. thuroa.
 REL 1SG PST see flower beautiful be. grow.
 (The flower that I saw is beautiful. [it] grows.)
 ```

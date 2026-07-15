@@ -38,7 +38,7 @@ The tables below summarize every Phi sound in International Phonetic Alphabet no
 
 ## Syllable boundaries and stress
 
-Vowel pairs always show a syllable break with a dot: `au` is /ä.u/, `oi` is /o̞.i/, never a single glided sound. Stress falls on the penultimate syllable of every word: `mia` is /ˈmi.ä/, `haolu` is /hä.ˈo̞.lu/, `phelora` is /ɸe̞.ˈlo̞.rä/. A single-syllable word takes its stress on that one syllable, as in `mu` /ˈmu/.
+Vowel pairs always show a syllable break with a dot: `au` is /ä.u/, `oi` is /o̞.i/, never a single glided sound. Stress falls on the penultimate syllable of every word: `mia` is /ˈmi.ä/, `haolu` is /hä.ˈo̞.lu/, and `mioru` is /mi.ˈo̞.ru/. A single-syllable word takes its stress on that one syllable, as in `mu` /ˈmu/.
 
 ## Reference and accent
 

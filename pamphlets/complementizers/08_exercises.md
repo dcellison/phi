@@ -155,7 +155,7 @@ Transform each pair of sentences into a single sentence with embedding.
 
 For each sentence, identify which complementizer type is used and what it embeds.
 
-57. **mia mena sileta phelora nai meno nila**
+57. **mia mena sileta mioru nai meno nila**
     Type: _____ Embeds: _____
 
 58. **shia wela melu so turema welo phaelo**
@@ -189,7 +189,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 
 ## Part A: Translation (English to Phi)
 
-1. **mia mena sileta phelora nai meno sano**
+1. **mia mena sileta mioru nai meno sano**
    1SG DECL.COMP sun beautiful be DECL.COMP.CLOSE know
 
 2. **shia mena pheralu so shua meno nohero**
@@ -231,13 +231,13 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 14. **lo shia wela mia to naphe welo to thilou**
     PL 3SG INT.COMP 1SG PST help INT.COMP.CLOSE PST ask
 
-15. **mia wela nophi phelora nai welo ma phaelo**
+15. **mia wela nophi mioru nai welo ma phaelo**
     1SG INT.COMP story beautiful be INT.COMP.CLOSE NEG feel
 
 16. **shia shola mia wepu sholo to haolu**
     3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE PST say
 
-17. **melu shola sileta phelora nai sholo to haolu**
+17. **melu shola sileta mioru nai sholo to haolu**
     friend QUOT.COMP sun beautiful be QUOT.COMP.CLOSE PST say
 
 18. **shia shola wa thia towe nai sholo to thilou**
@@ -374,7 +374,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 64. **mia mena thia mena shia loshi nai meno phaelo meno nohero**
     I believe that you feel that they are happy.
 
-65. **rena mena melu towe nai meno sano miona phelora nai**
+65. **rena mena melu towe nai meno sano miona mioru nai**
     The person who knows that the friend is well is beautiful.
 
 ---

@@ -214,7 +214,7 @@ railway wagon LOC 3SG railway place PST CESS go.
 (As he formed the words, the railway wagon stopped at his station.)
 morris: "As he formed the words, the train stopped at his station"
 
-womu sio luphore leo rena phelora ma nai suro repha to nai.
+womu sio luphore leo rena mioru ma nai suro repha to nai.
 home BESIDE river ABOVE REL beautiful NEG be rope bridge PST be.
 (His home stood beside the river, above the not-beautiful rope-bridge.)
 morris: "five minutes' walk from his own house, which stood on the banks of the Thames, a little way above an ugly suspension bridge"
@@ -228,7 +228,7 @@ The turned-over arguments keep their own weight: `rena`, the pre-nominal relativ
 
 The wish is the chapter's first direct quotation. Morris's `mia`, first person, sits inside `shola ... sholo`; `su` makes the longing audible and `wei miso` gives it its only listener. One day, `ta philo`, preserves the modest size of the request. As he forms the words, `nurako rolutha`, the railway wagon, ceases going at his station. His home stands beside the river and above a rope-bridge described simply as not beautiful. The five-minute measure and the source names remain in Morris's line beside the Phi.
 
-### shero phelora — The beautiful night
+### shero mioru — The beautiful night
 
 ```
 shia mue nurako lokue to thiru.
@@ -251,7 +251,7 @@ ANT 3SG TOWARD river long walk UNIV restless COORD heavy ABL 3SG PST INFER fall.
 (Before he had walked long toward the river, all the restlessness and the heaviness seemed to fall away from him.)
 morris: "but had not gone many steps towards the river before (says our friend who tells the story) all that discontent and trouble seemed to slip off him."
 
-theriko meluna thorui shero phelora to nai.
+theriko meluna thorui shero mioru to nai.
 frost season beginning night beautiful PST be.
 (The night of the frost-season's beginning was beautiful.)
 morris: "It was a beautiful night of early winter,"
@@ -291,7 +291,7 @@ moon AMONG tall old elm PL branch PST be.
 (The moon was among the branches of the tall old elm.)
 morris: "tangled in the branches of a tall old elm,"
 
-lokue serao to nai. lokue phelora to ma nai.
+lokue serao to nai. lokue mioru to ma nai.
 place old PST be. place beautiful PST NEG be.
 (The place was worn and not beautiful.)
 morris: "the shabby London suburb where he was,"
@@ -316,7 +316,7 @@ morris: "pleasanter, indeed, than the deep country was as he had known it."
 
 The night is winter's: `theriko meluna`, the frost season, composes the season the calendar lacks a word for, and its `thorui` (beginning) makes the winter early, the same beginning the discussion had. The air's recovery keeps its cause: `pheo sukaro lokue`, after the hot room; the carriage's half of Morris's contrast already stands two sections earlier at its own moment, and the citations split between the two units accordingly, while "just sharp enough" leaves its precise measure to the recovery the sentence itself states. The wind gets its whole sentence back: `lue sileta lumae wea nitho` (from the west toward the north) with `thiku rato` (turned a little) for "a point or two," and the clearing is `nuwi`'s own entry speaking, which prescribes caused becoming (`ka kelu`) for exactly this: the wind made the sky become clear. What survives the clearing is fenced by `li`: only a few light, small clouds (`phelo thiku neparu`). They cross the sky fast (`thue waero to reshi wepu`), so "of all cloud" is carried by the restriction itself, everything but these gone; "down the heavens" travels as through-the-sky, the traversal kept, the downward slope let go.
 
-The moon hangs at `waero kesho`, the sky's middle, "halfway up"; the one who sees it is `rena kau womu wepu miona`, the person going home, Morris's "home-farer" given a name built the way the chapter builds its other epithets; and the tree it hangs in is `raelu serao welamu`, the tall old elm, `serao` (old) standing against the moon's own `limu` (young), the same pairing Morris's image turns on. "Tangled in the branches" is `thoa lo loremi`: among the branches, with `loremi` (branch) naming the limb itself, since the moon is not in the tree's trunk but caught in what reaches out of it, and `thoa` (among) carrying the tangle. The shabby suburb takes the same carve as the bridge, `lokue phelora to ma nai`, the place was not beautiful, and the failure to hold it in mind is `po ma` (could scarcely), the exact pattern the council's listeners already use, on `halemu` (remember) with the oblique relative `rena shia mua whano lokue`, the place he stood in, the preposition keeping its post over a gapped object as canon rules. What he feels instead is framed as feeling, `mena ... meno phaelo`, so "as if" lives where Morris put it, in experience rather than fact: he felt himself in `loshi pelowa muila`, joyful meadow-land, the countryside composed from the meadow and the earth; and the comparison closes the paragraph as `sheo` closes comparisons, `ru mo loshi` (truly more joy-giving, "indeed" inside `ru`) than `nulo pelowa muila`, the deep meadow-land, in the relative clause of what he had known (`rena shia to ki sano`). London gives up its name as the Thames did, "suburb" stays an administrative category Phi does not keep, and "lately" leaves the wind's turn to the pluperfect that already places it.
+The moon hangs at `waero kesho`, the sky's middle, "halfway up"; the one who sees it is `rena kau womu wepu miona`, the person going home, Morris's "home-farer" given a name built the way the chapter builds its other epithets; and the tree it hangs in is `raelu serao welamu`, the tall old elm, `serao` (old) standing against the moon's own `limu` (young), the same pairing Morris's image turns on. "Tangled in the branches" is `thoa lo loremi`: among the branches, with `loremi` (branch) naming the limb itself, since the moon is not in the tree's trunk but caught in what reaches out of it, and `thoa` (among) carrying the tangle. The shabby suburb takes the same carve as the bridge, `lokue mioru to ma nai`, the place was not beautiful, and the failure to hold it in mind is `po ma` (could scarcely), the exact pattern the council's listeners already use, on `halemu` (remember) with the oblique relative `rena shia mua whano lokue`, the place he stood in, the preposition keeping its post over a gapped object as canon rules. What he feels instead is framed as feeling, `mena ... meno phaelo`, so "as if" lives where Morris put it, in experience rather than fact: he felt himself in `loshi pelowa muila`, joyful meadow-land, the countryside composed from the meadow and the earth; and the comparison closes the paragraph as `sheo` closes comparisons, `ru mo loshi` (truly more joy-giving, "indeed" inside `ru`) than `nulo pelowa muila`, the deep meadow-land, in the relative clause of what he had known (`rena shia to ki sano`). London gives up its name as the Thames did, "suburb" stays an administrative category Phi does not keep, and "lately" leaves the wind's turn to the pluperfect that already places it.
 
 ### luphore — The river
 
@@ -346,7 +346,7 @@ river ALL island PST bright turn.
 (The river swirled, bright, up to the island.)
 morris: "go swirling and glittering up to Chiswick Eyot:"
 
-shia rena phelora ma nai suro repha to ma morae.
+shia rena mioru ma nai suro repha to ma morae.
 3SG REL beautiful NEG be rope bridge PST NEG sense.
 (He did not notice the not-beautiful rope-bridge.)
 morris: "as for the ugly bridge below, he did not notice it"
@@ -399,7 +399,7 @@ morris: "for days of peace and rest, and cleanness and smiling goodwill."
 
 **Notes:** the riverside arrival and the pause both keep their own sentences: `kamo` takes `mua` because arrival is an event at a place (canon's own carve), `kerime` (shore) names the river-side itself, and the lingering is `to teku manolu`, a short staying, `teku` standing as manner the way the chapter's other manners do. What he watches is `lunei luphore`, the moon's river, the possessive doing the work of "moonlit": tonight the river belongs to the moon. Its state and its motion each get a clause: `pai pheno` (near fullness, `pheno`'s quality noun by the ordinary rule) is "near upon high water," and `keru rato` (bright turning) carries "swirling and glittering" in one manner-verb pair, the swirl in `rato`'s own rotation and the glitter in `keru`, with `kau mola` (up to the island) keeping the water's destination; Chiswick Eyot gives up its proper name the same way the Thames does, but the river island itself stays.
 
-The not-beautiful rope-bridge returns exactly as the house sentence built it (`rena phelora ma nai suro repha`), and Morris's two denials stay two: `ma morae` (did not sense) and `ma remo` (did not think), `thena` (thing) standing for the bridge the second time as plainly as Morris's "it." The one exception Morris allows gets the fullest sentence in the section: `whekai` turns it, `ta shemu` (one moment) bounds it, and `ti` (REP) re-marks the frame inside it, because Morris himself breaks in here to say "(says our friend)," re-citing his source at the exact moment the story first turns strange; at the second strange beat, the discontent's fall, the seeming itself carries the distance instead (`ke`), so each of the two carries the mark its own sentence asks for; what strikes the man is felt, not reasoned (`mena ... meno phaelo`, the grammar's own "feel that"), and its content counts an absence the way the corpus already counts them, `mu luma` (zero lamps) at `mua luphore lumae`, the river's end, downstream, the same `lumae` that already names the sun's end and the discussion's end.
+The not-beautiful rope-bridge returns exactly as the house sentence built it (`rena mioru ma nai suro repha`), and Morris's two denials stay two: `ma morae` (did not sense) and `ma remo` (did not think), `thena` (thing) standing for the bridge the second time as plainly as Morris's "it." The one exception Morris allows gets the fullest sentence in the section: `whekai` turns it, `ta shemu` (one moment) bounds it, and `ti` (REP) re-marks the frame inside it, because Morris himself breaks in here to say "(says our friend)," re-citing his source at the exact moment the story first turns strange; at the second strange beat, the discontent's fall, the seeming itself carries the distance instead (`ke`), so each of the two carries the mark its own sentence asks for; what strikes the man is felt, not reasoned (`mena ... meno phaelo`, the grammar's own "feel that"), and its content counts an absence the way the corpus already counts them, `mu luma` (zero lamps) at `mua luphore lumae`, the river's end, downstream, the same `lumae` that already names the sun's end and the discussion's end.
 
 The homecoming is three acts, each with its own verb: `wei womu ponu rato` turns him toward his own door, the turn-toward pattern `rato`'s entry itself teaches; `muo womu miso to ka koema` lets him in with nobody's welcome but his own, the causative on a reflexive, he causes himself to enter, which is exactly what "let himself in" says of a man alone at his door; and `sui ponu tapu` (during the door's closing) times the forgetting the way Morris times it, "even as he shut the door to." What vanishes is `lo keru tiso remo` (the bright, sharp thoughts), the same `tiso remo` he turned over in the carriage, now bright with the brilliance Morris grants them at the moment of their vanishing, so `keru` carries "brilliant... which had so illuminated" on the thoughts themselves rather than as a clause of its own; beside them goes `wireo nila`, the future's seeing, foresight composed from the same two words as the wish itself, so the man loses the very sight he has just asked for. Then the ledger closes: `mu thena manolu` (zero things stayed) for "no trace," `li rena se ma norelu soliru` (only a hope not formed) for "save a vague hope," vagueness as formlessness, and `mua nosa loshi ki kelu` for the hope's turn into pleasure, `loshi` being the lexicon's own word for the joy-giving character of things. The days themselves return to the hope's object: `lo ... philo`, days possessed by all four goods at once, with `rena seniku phena` (kindness that smiles) giving Morris's "smiling goodwill" its smile back. "Then" is left to sentence order, "right down" to `kamo`'s own promise of completed arrival, "below" to the geography the house sentence already fixed, and "the row" to the counted absence itself; nothing else in the paragraph is dropped, and nothing was coined.
 

@@ -28,7 +28,7 @@ In Phi, this shows up as `sila`: community as foundation, not afterthought.
 
 Solarpunk refuses the split between useful and beautiful. A solar panel can mimic forest-floor dappling, and a water system can double as public sculpture. A bridge can be structurally elegant *and* striking.
 
-Phi treats goodness (`welao`) and beauty (`phelora`) as deeply connected. Things work well *because* they're in harmony with their surroundings. The industrial separation of engineering from art was always a mistake.
+Phi keeps goodness and beauty close without making them identical. `welao` means good; `mioru` means beautiful and, in a noun position, beauty. A thing may join function and beauty when it fits its surroundings, but neither quality proves the other.
 
 ## A language for builders
 

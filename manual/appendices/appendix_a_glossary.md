@@ -14,7 +14,7 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **source material**: Foreign wording, source-script names, exact records, formulas, identifiers, quotations, and other unassimilated artifacts preserved outside a Phi passage in the surrounding medium. Phi may point to, translate, or analyze that material without treating its tokens as Phi syntax.
 
-**copula**: The verb *to be* linking a subject to a description. Phi's `nai`; the predicate comes before it (`shelira phelora nai` — the forest is beautiful).
+**copula**: The verb *to be* linking a subject to a description. Phi's `nai`; the predicate comes before it (`shelira mioru nai` — the forest is beautiful).
 
 **demonstrative**: A pointing word. Phi: `ha` (this, near) and `ra` (that, far).
 

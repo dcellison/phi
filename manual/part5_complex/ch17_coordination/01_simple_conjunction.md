@@ -15,7 +15,7 @@ mia shea nela lothea phaelo.
 ```
 
 ```
-shiro phelora nela whalo nai.
+shiro mioru nela whalo nai.
 tree beautiful COORD large be.
 (The tree is beautiful and large.)
 ```
@@ -33,7 +33,7 @@ Notice that `nela` carries no implications beyond connection. It doesn't suggest
 When `nela` connects phrases, each phrase maintains its internal structure:
 
 ```
-mia [phelora peloru] nela [whalo shiro] nila.
+mia [mioru peloru] nela [whalo shiro] nila.
 1SG [beautiful flower] COORD [large tree] see.
 (I see a beautiful flower and a large tree.)
 ```

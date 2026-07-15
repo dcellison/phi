@@ -55,7 +55,7 @@ Learning any new language involves unlearning habits from your native tongue. He
 - Keep your lower lip away from your upper teeth
 - Think of it as a whispered, breathy "p"
 
-**Test words**: `phelora`, `nophi`
+**Test words**: `phiro`, `nophi`
 
 ## Voicing th
 

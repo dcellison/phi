@@ -11,7 +11,7 @@ The proximal particle *ha* marks something as near the speaker, either physicall
 **ha philo** — this day (the present day)
 
 **mia ha nai.** — I am here.  
-**ha shiro phelora nai.** — This tree is beautiful.  
+**ha shiro mioru nai.** — This tree is beautiful.  
 **wa thia ha womu sano.** — Do you know this home?
 
 ## ra: there / that (distal)

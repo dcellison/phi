@@ -29,7 +29,7 @@ mia rena mia to theo shelu lothea.
 ```
 
 ```
-rena mua shelira nai ruela phelora nai.
+rena mua shelira nai ruela mioru nai.
 REL LOC forest be path beautiful be.
 (The path that is in the forest is beautiful.)
 ```

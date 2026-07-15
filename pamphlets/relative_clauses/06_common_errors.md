@@ -54,14 +54,14 @@ After processing a complex relative clause, learners sometimes forget to produce
 
 **What you said:**
 ```
-rena shia to kealo phelora nai
+rena shia to kealo mioru nai
 REL 3SG PST create beautiful be
 (what they created is beautiful.)
 ```
 
 **What you meant:**
 ```
-rena shia to kealo nophi phelora nai
+rena shia to kealo nophi mioru nai
 REL 3SG PST create story beautiful be
 (the story that they created is beautiful.)
 ```
@@ -114,7 +114,7 @@ When a pronoun immediately follows `rena`, treat it as the subject of the descri
 Long relative clauses can overload working memory:
 
 ```
-rena mia mua serao shelira nia phelora ruela kau to thalo womu
+rena mia mua serao shelira nia mioru ruela kau to thalo womu
 REL 1SG LOC old forest ON beautiful path ALL PST walk home
 (the home that i walked to on a beautiful path in the old forest)
 ```
@@ -183,7 +183,7 @@ When parsing relative clauses:
 Stop, say `rena`, rebuild the clause, then say the noun again.
 
 **If you forget the noun:**
-Pause and add it: "rena mia to theo. shelu. phelora nai."
+Pause and add it: "rena mia to theo. shelu. mioru nai."
 
 **If you nest too deeply:**
 Stop, start a new sentence, establish the inner referent, then continue.
@@ -192,24 +192,24 @@ Stop, start a new sentence, establish the inner referent, then continue.
 
 Find and fix the errors in these sentences (careful: one of them is merely vague, not wrong):
 
-1. `*shelu rena mia to theo phelora nai`
+1. `*shelu rena mia to theo mioru nai`
 
 2. `*mia rena mia to thalo shelira sano`
 
-3. `*rena mia to kealo reno nophi phelora nai`
+3. `*rena mia to kealo reno nophi mioru nai`
 
-4. `*rena mia rena to nila shelu phelora nai`
+4. `*rena mia rena to nila shelu mioru nai`
 
 5. `*mia rena shia to thumela sano`
 
 **Answers:**
 
-1. Noun before clause. Fix: `rena mia to theo shelu phelora nai`
+1. Noun before clause. Fix: `rena mia to theo shelu mioru nai`
 
 2. Dropped preposition. When the relativized noun is a preposition's object, the preposition stays in place and its object is gapped. Fix: `mia rena mia mua to thalo shelira sano` ("i know the forest that i walked in")
 
-3. False closer `reno`. Fix: `rena mia to kealo nophi phelora nai`
+3. False closer `reno`. Fix: `rena mia to kealo nophi mioru nai`
 
-4. `rena` repeated as if it were a pronoun. `rena` appears once, at the beginning; the gap stays empty. Fix: `rena mia to nila shelu phelora nai` ("the book that i saw is beautiful")
+4. `rena` repeated as if it were a pronoun. `rena` appears once, at the beginning; the gap stays empty. Fix: `rena mia to nila shelu mioru nai` ("the book that i saw is beautiful")
 
 5. Not an error: `rena shia to thumela` is a valid headless relative, "i know the one whom they taught." The risk is vagueness, not ungrammaticality. If you meant the child, name the head: `mia rena shia to thumela lopia sano` ("i know the child whom they taught")

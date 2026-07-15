@@ -104,7 +104,7 @@ Steps 2 through 5 decide what each sentence says. This step checks how it stands
 - **SOV, with adjuncts between subject and object**: S PP O V, circumstances announced before the thing acted on (canon's adjunct-order bullet).
 - **Every preposition precedes its object**, always: `mua shalimo`, never `shalimo mua`. Nested relators are legal in that same order (`wei leo waero`, to the sky above). The one licensed surface exception is the oblique relative, where the object is gapped and the preposition stands directly before the verb phrase (`rena mia mua to thalo shelira`).
 - **The Slot 1 cluster attaches to the verb**, in canon order (Tense > Aspect > Voice > Evidentiality > Modality > Negation): `to ro nai`, `to si nai`, `to ki ka kelu`. No aspect particle floats earlier in the sentence; if a particle is not immediately in front of the verb with its cluster, it is in the wrong place.
-- **Manner runs [Slot 1][descriptor][verb]** (`to ru noeli pholeni`), and a predicate stands before the Slot 1 cluster and `nai` (`shero phelora to nai`).
+- **Manner runs [Slot 1][descriptor][verb]** (`to ru noeli pholeni`), and a predicate stands before the Slot 1 cluster and `nai` (`shero mioru to nai`).
 - **Discourse adverbs stand after any Slot 0 particle, before the subject**; possessors precede the possessed; quantifiers and numerals precede their nouns; a `rena` clause precedes its head.
 
 The validator now nets the mechanically detectable slice of this (a preposition followed by a Slot 1 particle, or standing sentence-final), but the net is deliberately narrow: a postposed relator followed by a plain noun reads the same as a well-formed phrase, so this read-back is the real check, every sentence, every time.

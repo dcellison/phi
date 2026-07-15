@@ -63,6 +63,7 @@
 | `luwae` | graceful |
 | `luwi` | flexible |
 | `maeli` | quiet |
+| `mioru` | beautiful |
 | `mirewu` | private |
 | `moesha` | still |
 | `mokela` | sick |
@@ -108,7 +109,6 @@
 | `phaelu` | peaceful |
 | `phelira` | mistaken |
 | `phelo` | light |
-| `phelora` | beautiful |
 | `phena` | kind |
 | `pheno` | full |
 | `phenui` | thoughtful |
@@ -299,7 +299,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (508)
+## noun (507)
 
 | Word | Gloss |
 |---|---|
@@ -458,7 +458,6 @@
 | `mikasu` | dose |
 | `milura` | milk |
 | `miona` | person |
-| `mioru` | beauty |
 | `mirae` | eye |
 | `mirela` | state |
 | `mirulo` | berry |

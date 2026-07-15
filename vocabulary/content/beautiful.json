@@ -1,24 +1,43 @@
 {
-  "word": "phelora",
+  "word": "mioru",
   "gloss": "beautiful",
-  "ipa": "/ɸe̞.ˈlo̞.rä/",
+  "ipa": "/mi.ˈo̞.ru/",
   "syllables": [
-    "phe",
-    "lo",
-    "ra"
+    "mi",
+    "o",
+    "ru"
   ],
   "pos": "adjective",
-  "concept": "Beautiful / Aesthetic Harmony",
-  "description": "The holistic quality that evokes deep appreciation through form, pattern, or presence. In Phi, beauty is understood not as surface polish but as the result of harmonious integration. Related to 'mioru' (beauty, the noun) and 'welao' (good).",
-  "sound_symbolism": "The word begins with the soft bilabial fricative 'ph' /ɸ/, like the breath drawn when beauty catches us unaware. The liquid 'lo' follows the sinuous curve of a vine or a swan's neck, and 'ra' adds a final flourish of movement.",
-  "grammatical_notes": "Functions as an adjective before nouns: 'phelora peloru' (beautiful flower). Also serves as the predicate in copular sentences, placed before 'nai': 'shelira phelora nai.' (The forest is beautiful.) Beauty, the noun, comes by the quality-noun rule.",
+  "search_terms": [
+    "beauty",
+    "aesthetic quality",
+    "lovely",
+    "pretty",
+    "handsome"
+  ],
+  "description": "'mioru' describes something a speaker finds beautiful: a flower's shape, a melody worth hearing again, or the grain left visible in a repaired table. The judgement may rest on one feature or on how several work together. Moral goodness remains a separate question: a thing may be 'mioru' without being 'welao' (good), and another person may see it differently.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm' and carry voice through the nose into unrounded high-front 'i'. Keep the following 'o' in a separate stressed syllable: lower and retract the tongue to the true-mid back position while rounding the lips, without inserting a glide. A tap or short trill begins the final syllable before rounded high-back 'u'.",
+  "sound_symbolism": "The word begins in a hum, then the 'i.o' hiatus opens from a narrow front vowel into the rounded stressed syllable. The final 'r' gathers that opening into 'u'. In Phi, the motion can recall the small inward pause that comes when something beautiful asks for a second look.",
+  "usage_notes": "'mioru' stands before a noun as a descriptor and before 'nai' (be) as a predicate. In a noun position, the quality-noun rule supplies the sense beauty without a second root. Use 'phiro' (elegant) when refinement is the point, 'koru' (harmonious) when parts form a pleasing whole, and 'waora' (wondrous) when exceeded expectation is what matters.",
+  "examples": [
+    {
+      "phi": "peloru mioru nai.",
+      "translation": "The flower is beautiful."
+    },
+    {
+      "phi": "shia mioru melira meliho.",
+      "translation": "They sing a beautiful song."
+    },
+    {
+      "phi": "shela mioru mishoa.",
+      "translation": "Art expresses beauty."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Beautiful in the solarpunk sense goes beyond surface aesthetics to encompass regenerative design that nurtures both people and planet. It's the beauty of solar panels that mimic flower petals, vertical gardens that breathe life into cities, and technology that enhances rather than dominates nature - proving that sustainable futures can be visually and spiritually uplifting.",
-    "art-nouveau-aesthetics": "Beauty in the Art Nouveau tradition celebrates organic forms, flowing lines, and the integration of art into everyday life. This movement understood beauty not as decoration but as essential to human flourishing - that surroundings shaped by natural curves and botanical motifs could elevate the spirit and create harmony between human life and nature."
+    "secular-buddhist-philosophy": "Attention to beauty need not turn into ownership. A blossom can be seen fully while its passing remains part of what is seen.",
+    "art-nouveau-aesthetics": "Art Nouveau gives 'mioru' recurring examples in Phi: a doorway whose line grows like a stem, a chair whose joinery remains visible, or ornament that belongs to an object's use. The style informs Phi's taste without defining beauty for every speaker."
   },
   "semantic_domains": {
-    "aesthetic": "embodies harmonious integration evoking deep appreciation",
-    "emotion": "catches breath with recognition and resonant joy",
-    "nature": "celebrates organic forms and flowing natural patterns"
+    "aesthetic": "a speaker's aesthetic appreciation of a form, sound, movement, or presence"
   }
 }

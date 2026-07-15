@@ -31,7 +31,7 @@ mia rena serao nai shelu theo.
 A location describes the noun:
 
 ```
-rena nia tomora nai womu phelora nai.
+rena nia tomora nai womu mioru nai.
 REL ON mountain be home beautiful be.
 (The home that is on the mountain is beautiful.)
 ```
@@ -79,7 +79,7 @@ mia rena mia mua serao shelira to thalo ruela lothea.
 ```
 
 ```
-rena shia wei lopia phelora nophi to haolu miona ha nai.
+rena shia wei lopia mioru nophi to haolu miona ha nai.
 REL 3SG DAT child beautiful story PST speak person PROX be.
 (The person who told a beautiful story to the child is here.)
 ```
@@ -91,7 +91,7 @@ The key is that everything before the head noun is part of the description. No m
 A noun can receive multiple descriptions by stacking adjectives and relative clauses:
 
 ```
-mia rena mia to nila serao phelora shelu lothea.
+mia rena mia to nila serao mioru shelu lothea.
 1SG REL 1SG PST see old beautiful book love.
 (I love the old beautiful book that I saw.)
 ```

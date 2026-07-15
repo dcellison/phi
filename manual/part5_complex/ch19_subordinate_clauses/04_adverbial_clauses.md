@@ -111,7 +111,7 @@ CONC rain PST NEG be PL flower grow.
 ```
 
 ```
-shai shelira thiku nai phelora nai.
+shai shelira thiku nai mioru nai.
 CONC forest small be beautiful be.
 (Although the forest is small, [it] is beautiful.)
 ```

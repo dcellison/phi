@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1180 words.*
+*1179 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -333,7 +333,7 @@
 | `milura` | milk | /mi.ˈlu.rä/ | noun |
 | `mio` | mmhm | /ˈmi.o̞/ | interjection |
 | `miona` | person | /mi.ˈo̞.n̪ä/ | noun |
-| `mioru` | beauty | /mi.ˈo̞.ru/ | noun |
+| `mioru` | beautiful | /mi.ˈo̞.ru/ | adjective |
 | `mirae` | eye | /mi.ˈrä.e̞/ | noun |
 | `miratu` | recognize | /mi.ˈrä.t̪u/ | verb |
 | `mirela` | state | /mi.ˈre̞.lä/ | noun |
@@ -577,7 +577,6 @@
 | `phelo` | light | /ˈɸe̞.lo̞/ | adjective |
 | `pheloma` | serve | /ɸe̞.ˈlo̞.mä/ | verb |
 | `phelona` | require | /ɸe̞.ˈlo̞.n̪ä/ | verb |
-| `phelora` | beautiful | /ɸe̞.ˈlo̞.rä/ | adjective |
 | `phelotu` | format | /ɸe̞.ˈlo̞.t̪u/ | noun |
 | `phelu` | hold | /ˈɸe̞.lu/ | verb |
 | `phelui` | word | /ɸe̞.ˈlu.i/ | noun |

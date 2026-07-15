@@ -13,8 +13,8 @@ Here are a few more:
 **shea** (peace)  
 *shay-ah*. The hushing *sh* calms; the open *a* gives space to breathe.
 
-**phelora** (beautiful)  
-*feh-lor-ah*. A breathy beginning, a liquid middle, an open end. The word curves like the things it names.
+**mioru** (beautiful)  
+*mee-oh-roo*. The word begins in a hum, opens at the stressed middle vowel, and closes with a brief *r* into rounded *u*.
 
 **kia** (hello)  
 *kee-ah*. Bright and welcoming, like eyes meeting.

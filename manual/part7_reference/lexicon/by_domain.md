@@ -183,7 +183,7 @@
 | `wiresu` | postpone | moving a planned action to a later time |
 | `wishe` | swim | The body's water-travel |
 
-## aesthetic (82)
+## aesthetic (81)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -212,7 +212,7 @@
 | `malomi` | balance | finds beauty in dynamic equilibrium and organic harmony |
 | `meliphe` | music | Sound organized on purpose |
 | `melothe` | pond | Contemplative water feature |
-| `mioru` | beauty | Delighting quality |
+| `mioru` | beautiful | a speaker's aesthetic appreciation of a form, sound, movement, or presence |
 | `mueli` | plain (unadorned) | Undecorated |
 | `mureli` | brown | brown across ordinary light and dark shades |
 | `muwi` | interior | Within |
@@ -225,7 +225,6 @@
 | `pelowa` | meadow | Pastoral beauty |
 | `phaewi` | studio | Art place |
 | `phanu` | canvas | Creative potential |
-| `phelora` | beautiful | embodies harmonious integration evoking deep appreciation |
 | `phero` | fern | Spiral frond beauty |
 | `phielo` | glass | Light-bearer |
 | `phiro` | elegant | Refined beauty |
@@ -1094,7 +1093,7 @@
 | `whekate` | refute | a decisive challenge supported by reasons or evidence |
 | `whishela` | whisper | Speech made of breath |
 
-## emotion (108)
+## emotion (106)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1128,7 +1127,6 @@
 | `melu` | friend | inherently involves emotional bonds of affection, care, and concern |
 | `menai` | dedicate | Deep commitment |
 | `meropi` | cherish | Tender protective valuing |
-| `mioru` | beauty | Wonder source |
 | `mishoa` | express | manifests feelings from inner to outer world |
 | `moli` | gentle | Tender quality |
 | `monelu` | amused | The lighter feeling laughter sometimes follows |
@@ -1154,7 +1152,6 @@
 | `phaelo` | feel | an emotional state as it is experienced |
 | `phaelu` | peaceful | State of harmony |
 | `phamo` | console | Accompanying grief |
-| `phelora` | beautiful | catches breath with recognition and resonant joy |
 | `phena` | kind | expresses care and compassion through feeling and action |
 | `phesua` | inspire | transforms states from dormancy to excitement and urge |
 | `phimela` | kiss | Affection made touch |
@@ -1207,7 +1204,7 @@
 | `wiroa` | hopeful | Positive anticipation |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
-## nature (232)
+## nature (231)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1333,7 +1330,6 @@
 | `pesenu` | pollute | harmful change in ecological media, conditions, or use |
 | `peshiro` | infection | an infectious agent acting in relation to a host |
 | `phaluwe` | flood | an event involving rivers, coasts, rain, melt, drainage, or storage |
-| `phelora` | beautiful | celebrates organic forms and flowing natural patterns |
 | `pheluka` | lightning | A storm's sudden flash |
 | `pheralu` | rain | Atmospheric water cycle |
 | `phero` | fern | A vascular plant that reproduces through spores |

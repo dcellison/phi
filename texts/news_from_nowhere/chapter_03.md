@@ -29,7 +29,7 @@ LOC FRONT PL 1SG wall long PL window PST be. PL window ALL low place PST go. LOC
 (In the wall that fronted us were long windows. They came down to a rather low place, and in them was stone thread-work.)
 morris: "and long traceried windows coming rather low down set in the wall that faced us."
 
-lo miona roe rulo mueri kerou ha womu to ki ru phelora lorima. toru tumoa keluo to nai.
+lo miona roe rulo mueri kerou ha womu to ki ru mioru lorima. toru tumoa keluo to nai.
 PL person INS red clay stone PROX home PST PFV INTS beautiful build. roof heavy metal PST be.
 (People had built the house very handsomely of red clay-stone, and the roof was of the heavy metal.)
 morris: "It was very handsomely built of red brick with a lead roof;"
@@ -95,7 +95,7 @@ PL shape AS OUT.OF home PL shape PST be.
 (The shapes were like the shapes outside the house.)
 morris: "with similar subjects to those of the frieze outside;"
 
-theula thena mua ha lokue phelora to nai. lo miona roe heloi kema thena ha lokue to kealo.
+theula thena mua ha lokue mioru to nai. lo miona roe heloi kema thena ha lokue to kealo.
 UNIV thing LOC PROX place beautiful PST be. PL person INS generous strong thing PROX place PST create.
 (Everything in this place was handsome, and it had been made of generous, strong material.)
 morris: "everything about the place was handsome and generously solid as to material;"
@@ -171,12 +171,12 @@ PL person see INTS joyful thing PST be. PL person face shape INTS kind COORD joy
 (Seeing them was a truly pleasant thing: the expression of their faces was so kind and happy.)
 morris: "As to the women themselves, it was pleasant indeed to see them, they were so kind and happy-looking in expression of face,"
 
-lo miona weloni kema nela phelora kire to nai. lo miona ru towe nela kema to ke nai.
+lo miona weloni kema nela mioru kire to nai. lo miona ru towe nela kema to ke nai.
 PL person body strong COORD beautiful shape PST be. PL person INTS well COORD strong PST INFER be.
 (Their bodies were strong and beautifully shaped, and they looked thoroughly healthy and strong.)
 morris: "so shapely and well-knit of body, and thoroughly healthy-looking and strong."
 
-theula phelora to nai. ta miona ru phelora to nai. shia menoa kire koru to nai.
+theula mioru to nai. ta miona ru mioru to nai. shia menoa kire koru to nai.
 UNIV beautiful PST be. one person INTS beautiful PST be. 3SG face shape harmonious PST be.
 (All were comely; and one was very handsome, the shape of her face harmonious.)
 morris: "All were at least comely, and one of them very handsome and regular of feature."
@@ -425,7 +425,7 @@ morris: "but I was born and bred on the edge of Epping Forest; Walthamstow and W
 ## shelira — The forest
 
 ```
-ne kulo muo haolu to pukate. shia shola ra lokue we phelora nai. sholo to haolu.
+ne kulo muo haolu to pukate. shia shola ra lokue we mioru nai. sholo to haolu.
 NAME kulo INTO speak PST break. 3SG QUOT.COMP DIST place ALSO beautiful be. QUOT.COMP.CLOSE PST speak.
 (Dick broke into the talk: "A pretty place, too," he said.)
 morris: "\"A pretty place, too,\" broke in Dick;"
@@ -465,7 +465,7 @@ mia mena mia kua nela weno nai meno to ma remo. mia muo mera to lepa. thelao mia
 (I gave no thought to where, and when, I was; I fell into the net, and began on it.)
 morris: "and I fell into the trap without any thought of where and when I was; so I began on it,"
 
-mua ra thimu ra ru phelora miona wea mia to shua. shia nia tomae lo kaelo whinu heru thiku loremi to si thiwera.
+mua ra thimu ra ru mioru miona wea mia to shua. shia nia tomae lo kaelo whinu heru thiku loremi to si thiwera.
 LOC DIST time DIST INTS beautiful person TOWARD 1SG PST come. 3SG ON floor PL sweet smell herb small branch PST IPFV scatter.
 (Meanwhile the handsome one came toward me; she had been scattering little branches of sweet-smelling herbs on the floor.)
 morris: "while one of the girls, the handsome one, who had been scattering little twigs of lavender and other sweet-smelling herbs about the floor, came near to listen,"
@@ -536,7 +536,7 @@ LOC DIST moment 1SG DECL.COMP PL person ABOVE UNIV DIST place PST PFV build DECL
 morris: "I was very much shocked then to see how it was built-over and altered;"
 
 mua ta noshi philo lo mia mena rena mioru thiku nila lo miona ra shelira thepalu ka kelu pula meno to ti hea.
-LOC one near day PL 1SG DECL.COMP REL beauty small see PL person DIST forest garden CAUS become wish DECL.COMP.CLOSE PST REP hear.
+LOC one near day PL 1SG DECL.COMP REL beautiful small see PL person DIST forest garden CAUS become wish DECL.COMP.CLOSE PST REP hear.
 (And the other day we heard it said that the people who see beauty small meant to make the forest into a garden.)
 morris: "and the other day we heard that the philistines were going to landscape-garden it."
 
@@ -566,7 +566,7 @@ CONTR 2SG how many year hold.
 ("But, I say: how many years do you hold?")
 morris: "\"But, I say, how old are you?\""
 
-ne kulo nela ra phelora miona to pa theisa hola.
+ne kulo nela ra mioru miona to pa theisa hola.
 NAME kulo COORD DIST beautiful person PST INCH loud laugh.
 (Dick and the pretty girl both burst out laughing.)
 morris: "Dick and the pretty girl both burst out laughing,"
@@ -701,7 +701,7 @@ PL person now PST true laugh. 1SG ALSO PST laugh. BECAUSE 1SG PL think AS past P
 (Well, they did laugh, and I joined them again, my reasons being as before.)
 morris: "Well, they _did_ laugh, and I joined them again, for the above-stated reasons."
 
-mua lumae ra phelora miona roe moli haoni to haolu.
+mua lumae ra mioru miona roe moli haoni to haolu.
 LOC end DIST beautiful person INS gentle voice PST speak.
 (But at last the pretty woman spoke, with a gentle, coaxing voice:)
 morris: "But at last the pretty woman said coaxingly--"
@@ -731,7 +731,7 @@ PL person MANY moment DECL.COMP COND person AMONG REL sadness feel PL person dwe
 (It has often been said, and no doubt truly, that one ages very quickly if one lives amongst unhappy people.)
 morris: "It has often been said, and no doubt truly, that one ages very quickly if one lives amongst unhappy people."
 
-sheno lo miona mena mua ha muila ronua phanoi miona phelora ro manolu meno ti haolu.
+sheno lo miona mena mua ha muila ronua phanoi miona mioru ro manolu meno ti haolu.
 ADD PL person DECL.COMP LOC PROX earth south portion person beautiful HAB stay DECL.COMP.CLOSE REP speak.
 (Also they say that in the south of this land a person's good looks stay.)
 morris: "Also they say that southern England is a good place for keeping good looks.\""
@@ -781,7 +781,7 @@ shia hisae phea tholau helu to nai. shia menoa pheno nela sorui kire to nai. shi
 (Her skin was smooth as polished bone, her cheeks full and round, her lips as red as the roses she had brought in.)
 morris: "her skin was as smooth as ivory, her cheeks full and round, her lips as red as the roses she had brought in;"
 
-shia phelora lo pelio lue talua tei manuwe kema to nai. shia wei riola lue lo pelio wethalu to ki leiro.
+shia mioru lo pelio lue talua tei manuwe kema to nai. shia wei riola lue lo pelio wethalu to ki leiro.
 3SG beautiful PL arm ABL shoulder UNTIL hand strong PST be. 3SG DAT labor ABL PL arm garment PST PFV release.
 (Her beautiful arms were firm and strong from shoulder to wrist; she had bared them for her work.)
 morris: "her beautiful arms, which she had bared for her work, firm and well-knit from shoulder to wrist."
@@ -816,7 +816,7 @@ POST short time MANY labor LOC PROX FUT arrive. 1SG DECL.COMP 1SG ALL end PROX l
 (We shall be rather busy here presently, and I want to carry my work quickly to its end.)
 morris: "We shall be rather busy here presently; and I want to clear it off soon,"
 
-lao mia mua luera philo phelora serao shelu to pa theo. mia mena mia mua ha kelua ha shelu mo theo meno pula.
+lao mia mua luera philo mioru serao shelu to pa theo. mia mena mia mua ha kelua ha shelu mo theo meno pula.
 BECAUSE 1SG LOC past day beautiful old book PST INCH read. 1SG DECL.COMP 1SG LOC PROX morning PROX book CMPR read DECL.COMP.CLOSE wish.
 (For I began to read a pretty old book yesterday, and I want to get on with it this morning.)
 morris: "for I began to read a pretty old book yesterday, and I want to get on with it this morning:"
@@ -963,12 +963,12 @@ Q 1SG REL CMPR FOC accept person NEG be.
 morris: "Am I not the most tolerant man in the world?"
 
 wa mia nuloe ma nai. li lu thia mia tawi remo ka sano. sola lu thia mia muo thia newu mioru sano ka wepu.
-Q 1SG content NEG be. RESTR COND 2SG 1SG count think CAUS know. DISJ COND 2SG 1SG INTO 2SG new beauty know CAUS go.
+Q 1SG content NEG be. RESTR COND 2SG 1SG count think CAUS know. DISJ COND 2SG 1SG INTO 2SG new beautiful know CAUS go.
 (Am I not quite contented, unless you make me learn mathematics, or make me go into your new beauty-lore?)
 morris: "Am I not quite contented so long as you don't make me learn mathematics, or go into your new science of aesthetics,"
 
 lu mia roe mia solai nela tesu nela thero whesu keli nela welao thiku toka thiku mioru po kealo mia nuloe nai.
-COND 1SG INS 1SG gold COORD iron COORD fire blow device COORD good small hammer small beauty POT create 1SG content be.
+COND 1SG INS 1SG gold COORD iron COORD fire blow device COORD good small hammer small beautiful POT create 1SG content be.
 (So long as I may make a little beauty with my gold and steel, and the fire-blowing pipe, and the nice little hammer, I am content.)
 morris: "and let me do a little practical aesthetics with my gold and steel, and the blowpipe and the nice little hammer?"
 
@@ -1013,7 +1013,7 @@ CONS sun ABL 3SG PST bright quiver. 3SG AS REL INS gold garment PASS embrace per
 (So that the sun flashed back from him, as if he were a man wrapped all in garments of gold.)
 morris: "so that the sun flashed back from him as if he had been clad in golden armour."
 
-shia raelu to nai. shia whila nuko to nai. shia ru phelora to nai.
+shia raelu to nai. shia whila nuko to nai. shia ru mioru to nai.
 3SG tall PST be. 3SG hair black PST be. 3SG INTS beautiful PST be.
 (The man himself was tall, dark-haired, and exceedingly handsome.)
 morris: "The man himself was tall, dark-haired, and exceedingly handsome,"
@@ -1024,7 +1024,7 @@ shia menoa kire phea lo phirae miona menoa kire phena to nai. whekai shia roe th
 morris: "and though his face was no less kindly in expression than that of the others, he moved with that somewhat haughty mien"
 
 whalo mioru ha kire wei theula miona ro loa.
-large beauty PROX shape DAT UNIV person HAB give.
+large beautiful PROX shape DAT UNIV person HAB give.
 (Great beauty is apt to give that bearing to anyone.)
 morris: "which great beauty is apt to give to both men and women."
 

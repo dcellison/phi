@@ -74,7 +74,7 @@ Practice each digraph in isolation, then in words:
 
 | Digraph | Isolation | Word practice |
 |---------|-----------|---------------|
-| ph | /ɸ/ (blow through lips) | phelora, nophi |
+| ph | /ɸ/ (blow through lips) | phiro, nophi |
 | th | /θ/ (tongue between teeth) | thomari, thesua |
 | sh | /ʃ/ (tongue raised to palate) | shea, shiro, shelira |
 | wh | /ʍ/ (whispered w) | *whemura*, *whelani*, *whunei* |
@@ -91,11 +91,11 @@ Mark stress on these words, then read aloud:
 | shiro | 2 | SHI-ro |
 | lothea | 3 | lo-THE-a |
 | lumani | 3 | lu-MA-ni |
-| phelora | 3 | phe-LO-ra |
+| mioru | 3 | mi-O-ru |
 | shelomu | 3 | she-LO-mu |
 
 Read sentences applying consistent penultimate stress:
-- lo phelora shiro (the beautiful tree)
+- lo mioru shiro (the beautiful tree)
 - mia shelomu (I understand)
 
 ## Exercise 7: Complete words
@@ -109,13 +109,13 @@ Practice these common words with full attention to all features:
 | welao | /we̞.ˈlä.o̞/ | vowel purity, hiatus, stress |
 | thomari | /θo̞.ˈmä.ri/ | th voiceless, dental n, stress |
 | shelira | /ʃe̞.ˈli.rä/ | sh fricative, r trill/tap, stress |
-| phelora | /ɸe̞.ˈlo̞.rä/ | ph bilabial, vowel purity, stress |
+| mioru | /mi.ˈo̞.ru/ | nasal opening, hiatus, r trill/tap, stress |
 
 ## Exercise 8: Minimal attention
 
 This exercise develops automatic production. Read the following text aloud while focusing on meaning rather than pronunciation:
 
-> lumani shea phelu. mia lo shelira lothea. lo shiro phelora nai.
+> lumani shea phelu. mia lo shelira lothea. lo shiro mioru nai.
 
 If your pronunciation remains accurate without conscious effort, you're internalizing the system. If errors creep in, return to earlier exercises.
 

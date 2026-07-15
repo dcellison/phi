@@ -45,12 +45,12 @@ Focus is useful for contrast and clarification. It answers the implied question 
 The particle *mo* forms comparatives, equivalent to English "-er" or "more."
 
 **mo welao** — better (more good)  
-**mo phelora** — more beautiful  
+**mo mioru** — more beautiful  
 **mo thiku** — smaller
 
 To express what something is being compared to, use the preposition *sheo* ("than"):
 
-**thepalu sheo shelira mo phelora nai.**  
+**thepalu sheo shelira mo mioru nai.**  
 *garden THAN forest CMPR beautiful be*  
 "The garden is more beautiful than the forest."
 
@@ -59,9 +59,9 @@ To express what something is being compared to, use the preposition *sheo* ("tha
 Combining *mo* with the focus particle *ko* creates the superlative, equivalent to "-est" or "most."
 
 **mo ko welao** — best  
-**mo ko phelora** — most beautiful  
+**mo ko mioru** — most beautiful  
 
-**ha thepalu mo ko phelora nai.**  
+**ha thepalu mo ko mioru nai.**  
 *PROX garden CMPR FOC beautiful be*  
 "This garden is the most beautiful."
 
@@ -89,11 +89,11 @@ The particle *ra* marks something as far from the speaker, equivalent to "that" 
 
 The particle *ru* intensifies adjectives and verbs, equivalent to "very" or "really."
 
-**ru phelora** — very beautiful  
+**ru mioru** — very beautiful  
 **ru welao** — very good  
 **ru thiku** — very small
 
-**ha peloru ru phelora nai.** — This flower is very beautiful.
+**ha peloru ru mioru nai.** — This flower is very beautiful.
 
 ## we: Additive
 
@@ -158,7 +158,7 @@ Multiple Slot 2 particles can modify the same word, and their order is the modif
 
 **ha lo melu** — these friends  
 **ra nu wi shiro** — that second tree  
-**ha mo ko phelora peloru** — this most beautiful flower  
+**ha mo ko mioru peloru** — this most beautiful flower  
 **we ha melu** — this friend too  
 **li ha lo melu** — only these friends
 
