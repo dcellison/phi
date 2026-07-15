@@ -8,7 +8,7 @@
 *Content words appear under their listed lexical class. A rule-supplied event or quality noun does not add another class to the entry. Function words are grouped by grammatical class.*
 
 
-## adjective (199)
+## adjective (201)
 
 | Word | Gloss |
 |---|---|
@@ -20,6 +20,7 @@
 | `hiso` | clean |
 | `horae` | radiant |
 | `hurao` | patient |
+| `huwa` | weak |
 | `kaelo` | sweet |
 | `kaeshu` | bold |
 | `kasuno` | selfish |
@@ -183,6 +184,7 @@
 | `thunoa` | dignified |
 | `thurai` | vibrant |
 | `thuroi` | resilient |
+| `tinako` | rigid |
 | `tiso` | sharp |
 | `towe` | well |
 | `tuko` | sour |
@@ -906,7 +908,7 @@
 | `theula` | UNIV |
 | `wheli` | ANY |
 
-## verb (334)
+## verb (336)
 
 | Word | Gloss |
 |---|---|
@@ -1077,6 +1079,7 @@
 | `pisha` | split |
 | `pothu` | stink |
 | `pukate` | break |
+| `pukeri` | damage |
 | `pula` | wish |
 | `puse` | spit |
 | `pushali` | overload |
@@ -1089,6 +1092,7 @@
 | `rihe` | rise |
 | `rilowa` | assign |
 | `riola` | labor |
+| `rohemi` | wear down |
 | `rohi` | rub |
 | `roke` | move |
 | `romishe` | contemplate |

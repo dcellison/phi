@@ -276,9 +276,9 @@ Light promises become commitments made in a light manner, then `ro` turns poor f
 ### Chapter 76: the soft outlasts the hard
 
 ```
-miona mua thowia thimu luwi nela welua nai. miona mua lumeo thimu kethua nela kema nai.
-person LOC born time flexible COORD fragile be. person LOC die time hard COORD strong be.
-(At birth a person is flexible and fragile. At death a person is hard and strong.)
+miona mua thowia thimu luwi nela huwa nai. miona mua lumeo thimu tinako nela kema nai.
+person LOC born time flexible COORD weak be. person LOC die time rigid COORD strong be.
+(At birth a person is flexible and weak. At death a person is rigid and strong.)
 legge: "76. 1. Man at his birth is supple and weak; at his death, firm and strong."
 
 theula thena we phea ha nai.
@@ -297,12 +297,12 @@ PL 3SG LOC die time dry be. PL 3SG CESS grow.
 legge: "at their death, dry and withered."
 ```
 
-The human pair uses `luwi`, flexible, and `welua`, fragile, where Legge has supple and weak. Plants begin with `wuloe`, soft, and the same fragility. No Phi root covers withering, so the last line states the visible dry state and the end of growth. That account is narrower than Legge's image and leaves decay itself outside the sentence.
+The human pair now follows Legge directly: `luwi`, flexible, and `huwa`, weak, then `tinako`, rigid, and `kema`, strong. Plants begin with `wuloe`, soft, and `welua`, fragile, which carries brittle susceptibility without adding a separate brittle root. No Phi root covers withering, so the last line states the visible dry state and the end of growth. That account is narrower than Legge's image and leaves decay itself outside the sentence.
 
 ```
-kethua nela kema lumeo melu nai. wuloe nela welua liona melu nai.
-hard COORD strong die friend be. soft COORD fragile live friend be.
-(The hard and strong are companions of death. The soft and fragile are companions of life.)
+tinako nela kema lumeo melu nai. wuloe nela huwa liona melu nai.
+rigid COORD strong die friend be. soft COORD weak live friend be.
+(The rigid and strong are companions of death. The soft and weak are companions of life.)
 legge: "2. Thus it is that firmness and strength are the concomitants of death; softness and weakness, the concomitants of life."
 
 [rena miso [rena roe puro phoa] lo miona puro theomi] miona miso porua ma korei.
@@ -315,9 +315,9 @@ strong tree [REL 3SG embrace] PL arm full CAUS be. CONS [REL PL tree cut] person
 (A strong tree fills the arms that embrace it. Therefore a person who cuts trees chooses it.)
 legge: "and a tree which is strong will fill the out-stretched arms, (and thereby invites the feller.)"
 
-kethua nela kema noa mulu nai. wuloe nela welua noa raelu nai.
-hard COORD strong position low be. soft COORD fragile position tall be.
-(The position of the hard and strong is low. The position of the soft and fragile is high.)
+tinako nela kema noa mulu nai. wuloe nela huwa noa raelu nai.
+rigid COORD strong position low be. soft COORD weak position tall be.
+(The position of the rigid and strong is low. The position of the soft and weak is high.)
 legge: "4. Therefore the place of what is firm and strong is below, and that of what is soft and weak is above."
 ```
 
@@ -346,9 +346,9 @@ phoe lo riola meloa phelona [rena ha keiro thole] miona lo riola thilonu. [rena 
 
 [rena phelo seru] miona phina seru ro korei. [rena mena lo riola meloa ma phelona meno theula thimu remo] miona [rena meloa phelona] lo riola ro hekawi. shai miona riola phelo nila phewo mua riola tupeka nila. thelao phewo mawha thimu tupeka phelu.
 
-miona mua thowia thimu luwi nela welua nai. miona mua lumeo thimu kethua nela kema nai. theula thena we phea ha nai. lo shiro nela lo phireo mua limu thuroa thimu wuloe nela welua nai. lo shia mua lumeo thimu kurathi nai. lo shia te thuroa.
+miona mua thowia thimu luwi nela huwa nai. miona mua lumeo thimu tinako nela kema nai. theula thena we phea ha nai. lo shiro nela lo phireo mua limu thuroa thimu wuloe nela welua nai. lo shia mua lumeo thimu kurathi nai. lo shia te thuroa.
 
-kethua nela kema lumeo melu nai. wuloe nela welua liona melu nai. [rena miso [rena roe puro phoa] lo miona puro theomi] miona miso porua ma korei. kema shiro [rena shia lomare] lo pelio pheno ka nai. thelao [rena lo shiro kati] miona shia kanu. kethua nela kema noa mulu nai. wuloe nela welua noa raelu nai.
+tinako nela kema lumeo melu nai. wuloe nela huwa liona melu nai. [rena miso [rena roe puro phoa] lo miona puro theomi] miona miso porua ma korei. kema shiro [rena shia lomare] lo pelio pheno ka nai. thelao [rena lo shiro kati] miona shia kanu. tinako nela kema noa mulu nai. wuloe nela huwa noa raelu nai.
 ```
 
 ### Translation limits
@@ -370,7 +370,7 @@ kethua nela kema lumeo melu nai. wuloe nela welua liona melu nai. [rena miso [re
 | easy; difficult | work that does or does not require perseverance; light work and burden | The distinction shifts to effort and felt weight because no general adjective pair covers it. |
 | lightly promises; is sure to | commits lightly; habitual fulfillment or difficulty under `ro` | Commitment covers both pledge and follow-through. `ro` states a pattern instead of Legge's certainty. |
 | injury recompensed | if a person acts harmfully toward you, give kindness to them | Phi turns recompense into a condition and request, so its accounting shape is lost. |
-| weak; brittle; withered | fragile; dry and no longer growing | Fragility covers susceptibility to breaking. Withering takes two observable changes instead of one process word. |
+| brittle; withered | fragile; dry and no longer growing | Fragility covers susceptibility to breaking. Withering takes two observable changes instead of one process word. |
 | concomitants | companions of death or life | Phi turns association into a social relation. |
 | forces; conquer | people who act through strength; failure to fulfill their purpose | Phi preserves reliance on force and failure, but it does not specify a military body. Conquest is explicit only in Legge's source line. |
 | feller | a person who cuts trees | The role is a transparent action, not a permanent person class. |
@@ -528,9 +528,9 @@ legge: "Therefore the sage, while he never does what is great, is able on that a
 The excerpt is the chapter entire. Its military warning is recast as fruitless reliance on strength before wind teaches through the tree.
 
 ```
-miona mua thowia thimu luwi nela welua nai. miona mua lumeo thimu kethua nela kema nai.
-person LOC born time flexible COORD fragile be. person LOC die time hard COORD strong be.
-(At the time of birth, a person is flexible and fragile; at the time of death, hard and strong.)
+miona mua thowia thimu luwi nela huwa nai. miona mua lumeo thimu tinako nela kema nai.
+person LOC born time flexible COORD weak be. person LOC die time rigid COORD strong be.
+(At the time of birth, a person is flexible and weak; at the time of death, rigid and strong.)
 legge: "76. 1. Man at his birth is supple and weak; at his death, firm and strong."
 
 theula thena we phea ha nai.
@@ -548,9 +548,9 @@ PL 3SG LOC die time dry be.
 (At the time of death, they are dry.)
 legge: "at their death, dry and withered."
 
-kethua nela kema lumeo melu nai. wuloe nela welua liona melu nai.
-hard COORD strong die friend be. soft COORD fragile live friend be.
-(The hard and the strong are death's companions; the soft and the fragile are life's companions.)
+tinako nela kema lumeo melu nai. wuloe nela huwa liona melu nai.
+rigid COORD strong die friend be. soft COORD weak live friend be.
+(The rigid and the strong are death's companions; the soft and the weak are life's companions.)
 legge: "2. Thus it is that firmness and strength are the concomitants of death; softness and weakness, the concomitants of life."
 
 rena li kema theomi miona mawha lureko thola.
@@ -558,18 +558,18 @@ REL RESTR strong trust person NONE fruit bring.
 (The person who trusts only strength brings no fruit.)
 legge: "Hence he who (relies on) the strength of his forces does not conquer;"
 
-lu whalo howeli shua. rena kethua nai shiro lepa. rena luwi nai shiro manolu.
-COND large wind come. REL hard be tree fall. REL flexible be tree stay.
-(When the great wind comes, the tree that is hard falls, and the tree that is flexible stays.)
+lu whalo howeli shua. rena tinako nai shiro lepa. rena luwi nai shiro manolu.
+COND large wind come. REL rigid be tree fall. REL flexible be tree stay.
+(When the great wind comes, the tree that is rigid falls, and the tree that is flexible stays.)
 legge: "and a tree which is strong will fill the out-stretched arms, (and thereby invites the feller.)"
 
-kethua nela kema noa mulu nai. wuloe nela welua noa raelu nai.
-hard COORD strong position low be. soft COORD fragile position tall be.
-(The position of the hard and the strong is low; the position of the soft and the fragile is high.)
+tinako nela kema noa mulu nai. wuloe nela huwa noa raelu nai.
+rigid COORD strong position low be. soft COORD weak position tall be.
+(The position of the rigid and the strong is low; the position of the soft and the weak is high.)
 legge: "4. Therefore the place of what is firm and strong is below, and that of what is soft and weak is above."
 ```
 
-Legge's pairs stay on `nela`: `luwi nela welua`, flexible and fragile, then `kethua nela kema`, hard and strong. Each pair belongs to a life stage under `thimu`. `kurathi`, dry, is all this version says about withering. Before the wind reaches the tree, the military warning has already changed: `li kema theomi`, trust only strength, brings `mawha lureko`, no fruit. The hard tree falls and the flexible one stays. The feller is gone, but reliance on force is still visible before the final low and high positions.
+Legge's pairs stay on `nela`: `luwi nela huwa`, flexible and weak, then `tinako nela kema`, rigid and strong. Each pair belongs to a life stage under `thimu`. The plant line keeps `welua`, fragile, for brittle, while `kurathi`, dry, is all this version says about withering. Before the wind reaches the tree, the military warning has already changed: `li kema theomi`, trust only strength, brings `mawha lureko`, no fruit. The rigid tree falls and the flexible one stays. The feller is gone, but reliance on force is still visible before the final low and high positions.
 
 ---
 
@@ -597,7 +597,7 @@ Legge's pairs stay on `nela`: `luwi nela welua`, flexible and fragile, then `ket
 | feller | great wind |
 | below and above | `noa mulu` and `noa raelu` |
 
-No new root is coined.
+The passage uses the current base roots for weakness and rigidity; withering remains a visible dry state rather than a dedicated process word.
 
 ### The moves, for transmuters working by hand
 
@@ -615,8 +615,8 @@ Both renderings begin with water and end with the place of what yields. The clos
 | the wheel | Thirty wooden pieces meet at one center, whose open space admits a support rod. | The wheel is omitted; pot, door, and window carry the chapter. | Translation owes Legge all three objects. Transmutation keeps the household crafts its first readers can make and inspect. |
 | political relation | Chapter 8 describes good guidance; chapter 17 describes authority holders in society. | The rulers become people who guide, then disappear from the people's final claim. | Translation must preserve power even when Phi declines a ruler class. Transmutation tests Legge's ideal by removing authority from the relation altogether. |
 | action and difficulty | Chapter 63 includes acting without thought of action, flavor without distinction, light commitments, preparation, and hidden burden. | `no maeli phoa`, do quietly, carries *wu wei*. Four selected moments replace the chapter's full chain. | Translation exposes the places where Phi needs descriptive phrases. Transmutation chooses one compact practice and allows omission to shape its pace. |
-| force and the tree | Someone trusts the strength of people who act through force, then fails at the purpose Legge calls conquest. A broad tree draws the tree cutter. | Trust in strength brings no fruit. A hard tree falls in wind while a flexible tree stays. | Translation states Legge's violent purpose without making it ordinary vocabulary. Transmutation rejects the target and lets weather teach the same warning. |
-| the final reversal | Hard strength belongs low; soft fragility belongs high. | The same paired qualities and positions remain. | No ethical reframe is needed. Both renderings can let the paradox stand in ordinary Phi qualities. |
+| force and the tree | Someone trusts the strength of people who act through force, then fails at the purpose Legge calls conquest. A broad tree draws the tree cutter. | Trust in strength brings no fruit. A rigid tree falls in wind while a flexible tree stays. | Translation states Legge's violent purpose without making it ordinary vocabulary. Transmutation rejects the target and lets weather teach the same warning. |
+| the final reversal | Rigidity and strength belong low; softness and weakness belong high. | The same paired qualities and positions remain. | No ethical reframe is needed. Both renderings can let the paradox stand in ordinary Phi qualities. |
 
 ### Solarpunk values
 
@@ -624,7 +624,7 @@ The wheel works because there is room around its axle. The next chapter asks wha
 
 ### Secular Buddhist philosophy
 
-Legge's *wu wei* does not arrive as a Phi technical term. One version leaves it as action without thought of action and admits the limit. The other tries `maeli phoa`, quiet doing, which is easier to practice but more specific than the source. Hardness stays a quality in both. A life can change without turning the quality into an identity.
+Legge's *wu wei* does not arrive as a Phi technical term. One version leaves it as action without thought of action and admits the limit. The other tries `maeli phoa`, quiet doing, which is easier to practice but more specific than the source. Rigidity stays a quality in both. A life can change without turning the quality into an identity.
 
 ### Art Nouveau aesthetics
 

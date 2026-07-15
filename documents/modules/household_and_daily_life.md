@@ -32,7 +32,7 @@ The profile uses these ordinary Phi resources without moving them into the modul
 | Interior and furniture | `nuroa` kitchen, `nuwera` bed, `wonepa` table, `meipa` seat, `ponu` door, `wira` window, `moru` wall, `tomae` floor, `toru` roof, `tholu` space | The main parts and furnishings of a dwelling already have direct words. |
 | Food and vessels | `nuora` food, `napa` bread, `sulopa` soup, `phialu` water, `nuola` eat, `milau` drink, `pharelo` cook, `noru` bowl, `soeli` cup, `palu` plate, `tomi` pot, `lopha` vessel, `molu` container, `wiru` basket | General eating, cooking, and holding remain core; the module adds recurring forms and preparation distinctions around them. |
 | Cloth, rest, and temperature | `wetha` cloth, `liru` fabric, `wethalu` garment, `nulae` sleep, `therilu` rest, `sukaro` hot, `sulae` warm, `wuloe` soft, `kurathi` dry, `wirua` wet | Cloth and bodily conditions remain available beyond any domestic object made from them. |
-| Upkeep and repair | `sawa` wash, `hewe` wipe, `hiso` clean, `muhena` dust, `phuri` brush, `shiroka` repair, `talome` restore, `tenoa` tool, `thinu` put, `phelu` hold | The core already carries the ordinary actions around which the module objects gather. |
+| Upkeep and repair | `sawa` wash, `hewe` wipe, `hiso` clean, `muhena` dust, `phuri` brush, `pukeri` damage, `rohemi` wear down, `shiroka` repair, `talome` restore, `tenoa` tool, `thinu` put, `phelu` hold | The core already carries ordinary upkeep and can distinguish a damaged object from one gradually worn through use. |
 | Choice and relations | `mirewu` private, `kanu` choose, `lesawi` consent, `nawo` agree, `naweri` refuse, `theama` care, `phowe` share, `nuawe` together | Privacy, consent, refusal, care, and sharing remain independent of family, ownership, and domestic role. |
 | Plans and open matters | `winora` plan, `hasoru` pending, `sirami` record | A household can organize an intended action, leave a request unresolved, or keep a durable account without treating daily life as specialist work or governance. |
 | Materials and conditions | `muralo` material, `panuri` resource, `howenu` weather, `phelure` store | Matter, availability for a purpose, present weather, and storage all have ordinary domestic uses before ecological or systems analysis begins. |
@@ -107,7 +107,7 @@ PL 1SG rest.
 (We rest.)
 ```
 
-The scene still works without a module word. It moves from noticing wear to repair, eating, and rest in five short exchanges. The later vocabulary can ask whether the people are one `womuri` household, whether the food is a `nurome` meal, what remains as `pheomu` leftovers, and which `riporu` task follows, but none of those questions makes the original composition obsolete.
+The scene still works without a module word. It moves from noticing age to repair, eating, and rest in five short exchanges. Base `rohemi` can replace the broader `serao` when gradual wear is the actual observation. The module vocabulary can ask whether the people are one `womuri` household, whether the food is a `nurome` meal, what remains as `pheomu` leftovers, and which `riporu` task follows, but none of those questions makes the original composition obsolete.
 
 ## Continued development
 

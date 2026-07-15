@@ -23,8 +23,8 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Work package | Status | Result or next action |
 |---|---|---|
 | Retrospective audit of completed content batches | **DONE** | All six concept maps and their findings appear below. |
-| Review concepts with direct corpus pressure | **NEXT** | Decide the lexical treatment of damage, wear, weakness, and rigidity. |
-| Test concepts without corpus pressure | **READY** | Use small practical scenarios for adhesion, traction, material phase, and neutral measurement vocabulary. |
+| Review concepts with direct corpus pressure | **DONE** | Base `pukeri` damage, `rohemi` wear down, `huwa` weak, and `tinako` rigid now carry the four accepted distinctions. |
+| Test concepts without corpus pressure | **NEXT** | Use small practical scenarios for adhesion, traction, material phase, and neutral measurement vocabulary. |
 | Resume inherited content prose migration | **READY** | Continue after the review queue and apply the coverage gate to every new semantic batch. |
 
 ## Batch overview
@@ -36,7 +36,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Size, extent, and distance | [PR #348](https://github.com/dcellison/phi/pull/348) | **REVIEW** | Neutral nouns for overall size, length, and distance may still be useful. |
 | Pace, motion, and equilibrium | [PR #349](https://github.com/dcellison/phi/pull/349) | **COVERED** | Changes of rate remain ordinary constructions. |
 | Color | [PR #350](https://github.com/dcellison/phi/pull/350) | **SETTLED** | Canon closes the system at seven adjective roots and an open construction built from a source noun and color. |
-| Strength, deformation, and recovery | [PR #351](https://github.com/dcellison/phi/pull/351) | **REVIEW** | Damage, wear, weakness, and rigidity have distinct pressure that current paraphrases do not fully remove. |
+| Strength, deformation, and recovery | [PR #351](https://github.com/dcellison/phi/pull/351) and D020 | **COVERED** | Four base roots now close the damage, wear, weakness, and rigidity questions exposed by the retrospective. |
 
 ## Audit method
 
@@ -141,27 +141,34 @@ The migrated words now separate force from construction and susceptibility to da
 | Susceptibility to comparatively small force | `welua` (fragile) | **COVERED** | Fragility does not mean general weakness or softness. |
 | Bending or adaptation without damage | `luwi` (flexible) | **COVERED** | The same root can describe material and a plan that changes without losing purpose. |
 | Recovery after disruption | `thuroi` (resilient), `shiroka` (repair), `talome` (restore), `helanu` (recover) | **COVERED** | The adjective covers capacity; the verbs distinguish technical repair, restoration, and medical recovery. |
-| Lack of force or capacity | Negation of `kema`; earlier texts sometimes pressed `welua` into this role | **REVIEW** | Weakness is not identical to fragility. The Tao Te Ching renderings already mark the loss, which gives this concept direct corpus pressure. |
-| Resistance to bending or rearrangement | Negation of `luwi`, plus `kethua` (hard) where pressure is involved | **REVIEW** | Rigidity is not hardness, and mere non-flexibility does not say why a thing keeps its shape. Craft, systems, and Phi's own design prose use the distinction often enough to examine a root. |
-| General damage and damaged condition | `pukate` (break), `kaworu` (injury), `kiphira` (fault), `thonuki` (fail), and the documented `ma sholu nai` (not be complete) workaround | **REVIEW** | The existing words divide bodily, technical, and complete breakage. None neutrally names partial physical damage across domains, and `ma sholu nai` also describes unfinished things that were never damaged. |
-| Gradual wear through use or time | Oldness, thinness, breakage, repair, and clauses describing the visible change | **REVIEW** | Household material and the Velveteen Rabbit repeatedly paraphrase worn condition. Wear deserves a separate decision after general damage because gradual use is not one damaging event. |
+| Lack of force or capacity | `huwa` (weak), contrasted with `kema` (strong) | **COVERED** | Weakness now names relatively little capacity to exert or withstand the force relevant to a situation. `welua` remains fragility rather than doing two jobs. |
+| Resistance to bending or rearrangement | `tinako` (rigid), contrasted with `luwi` (flexible) and `kethua` (hard) | **COVERED** | Rigidity concerns resistance to bending or adjustment; hardness remains resistance to indentation. The adjective also extends to plans and procedures with little room to adjust. |
+| General damage and damaged condition | `pukeri` (damage), with `pukate` (break), `kaworu` (injury), `kiphira` (fault), and `thonuki` (fail) retaining narrower work | **COVERED** | The intransitive root names adverse change in condition or function without requiring complete breakage. Its event noun supplies damage, and the causative can name what caused it. |
+| Gradual wear through use or time | `rohemi` (wear down) | **COVERED** | Wear now names change accumulated through use or exposure without deciding that the result is harmful or unusable. Its event noun supplies wear. |
 | Brittle response | `kethua` (hard) together with `welua` (fragile) | **COMPOSITIONAL** | Glass gives the model: it resists indentation and still cracks under a small impact. |
 | Elastic response | `luwi` (flexible) together with `thuroi` (resilient) | **COMPOSITIONAL** | One word supplies shape change without damage and the other supplies return toward a workable state. |
 | Toughness or durability | `kema` (strong), `keruko` (sturdy), `luwi` (flexible), and `pheru` (endure), selected by the actual test | **COMPOSITIONAL** | English gathers several material behaviours under these labels. The intended test determines which Phi word fits. |
 | Deformation as an event | `helui` (change), `kire` (shape), `norelu` (form), and state vocabulary | **COMPOSITIONAL** | Technical discussion can state the changed shape and conditions. A dedicated term belongs in Systems or Work only if connected use needs it. |
 
-Four concepts merit direct review. Damage, wear, and weakness have already cost detail in active texts; rigidity has a clean physical meaning that the existing hardness and flexibility axes do not absorb.
+The four direct review items now have base roots. Their definitions keep the axes separate: a thing may be damaged without breaking, worn without being harmed, weak without being fragile, or rigid without being hard. The remaining questions below still need connected use before Phi decides whether they deserve roots.
 
-## Consolidated review queue
+## Resolved review decisions
 
-This queue contains questions, not eight promised roots. The first four have corpus evidence or a sharp everyday distinction. The next four need a short scenario before we know whether a root would help.
+Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
+
+| Concept | Decision | Boundary kept visible |
+|---|---|---|
+| General damage | `pukeri`, an intransitive verb whose event noun supplies damage | `pukate` is complete breakage; `kaworu` is bodily injury; technical faults and failures retain their own roots. |
+| Gradual wear | `rohemi`, an intransitive process verb whose event noun supplies wear | Wear accumulates through use or exposure and may leave a thing useful; damage says its condition or function became worse. |
+| Weak | `huwa`, a contextual adjective for relatively little force | `welua` remains susceptibility to damage, and uncertainty in evidence keeps its own vocabulary. |
+| Rigid | `tinako`, an adjective for resistance to bending or adjustment | `kethua` concerns indentation, while `luwi` concerns change in shape or arrangement without damage. |
+
+## Scenario-test queue
+
+These four questions have no comparable corpus pressure. A short practical scenario comes before any decision to coin.
 
 | Review item | Evidence | Likely placement if coined | Decision needed |
 |---|---|---|---|
-| General damage | The transmutation manual explicitly works around the missing word with `ma sholu nai`; repair and module vocabulary divide only particular kinds of damage. | Base vocabulary, with possible module memberships | Decide whether a neutral verb should cover causing or undergoing partial loss of condition, with its event noun supplying damage. |
-| Gradual wear | Household material and literary texts repeatedly paraphrase worn surfaces, cloth, joints, and places. | Base vocabulary or shared Household and Work vocabulary | Decide whether wear is one process root or remains damage qualified by use and time. |
-| Weak | The Tao Te Ching renderings substitute fragile for weak and record the loss. | Base vocabulary | Decide whether negated strong is enough or whether limited force and capacity deserve a positive root. |
-| Rigid | Hard and inflexible do not identify the same response; craft, design, and systems prose already discuss rigidity. | Base vocabulary or shared Work and Systems vocabulary | Decide whether the root should describe material shape, procedural rigidity, or both. |
 | Sticky or adhesive | Common food, resin, paste, and repair situations share adhesion, but no active text has needed a root. | Base vocabulary or Household and Work modules | Test preparation, repair, and cleaning scenes before deciding whether one word covers tackiness and deliberate adhesion. |
 | Slippery or low traction | Route safety and tool handling can require the distinction, but the active corpus has no physical case. | Base vocabulary or shared Accessibility and Work vocabulary | Test a wet floor, path, and tool grip; keep smoothness separate from low traction. |
 | Material phase categories | Specific materials and state vocabulary exist, but solid, liquid, and gas do not. | Base vocabulary or Ecological and Systems modules | Test whether speakers need general categories rather than naming the material and its observed behaviour. |
@@ -185,4 +192,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective mapping is complete. The next decision set is damage, wear, weakness, and rigidity, followed by scenario tests for the four questions with no corpus pressure. Once those decisions are recorded and any accepted vocabulary is implemented, the inherited content prose migration resumes after the strength and recovery batch with this gate in place.
+The retrospective mapping and its four direct lexical decisions are complete. Next come scenario tests for adhesion, traction, material phase, and neutral measurement vocabulary. Once those decisions are recorded, the inherited content prose migration resumes after the strength and recovery batch with this gate in place.

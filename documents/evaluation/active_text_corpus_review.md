@@ -192,9 +192,9 @@ The ground truth is James Legge's complete chapters 8, 11, 17, 63, and 76 from h
 | Political relation | Chapter 17 describes people who hold `karami`, authority, in society. | The rulers become people who guide. |
 | Easy and difficult | Affairs do or do not require `meloa`, perseverance; the sage sees a burden even in light work. | The promises, flavors, preparation, and difficulty chain stay outside the selection. |
 | Force and conquest | A person trusts the strength of their own people who act through force, then fails to fulfill the purpose Legge names as conquest. | Trust in strength brings no fruit. |
-| Feller and wind | A broad tree is chosen by a tree cutter. | A hard tree falls in wind while a flexible tree stays. |
+| Feller and wind | A broad tree is chosen by a tree cutter. | A rigid tree falls in wind while a flexible tree stays. |
 
-No new root is needed. Systems `pherami`, depend, states chapter 11's repeated mechanical relation, and `karami` keeps chapter 17's authority visible. The harder gaps remain descriptions: axle is a support rod, difficulty requires perseverance, and conquest stays named in the source citation. Chapter 76 draws the clearest boundary. Translation does not hide people acting through force or the feller; transmutation may refuse their direction after the source has been heard.
+Base `huwa` now carries Legge's weak and `tinako` carries firm or rigid in chapter 76. Systems `pherami`, depend, states chapter 11's repeated mechanical relation, and `karami` keeps chapter 17's authority visible. The harder gaps remain descriptions: axle is a support rod, difficulty requires perseverance, and conquest stays named in the source citation. Translation does not hide people acting through force or the feller; transmutation may refuse their direction after the source has been heard.
 
 ## Transmutation review: the original shelf pass
 

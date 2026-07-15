@@ -1,0 +1,26 @@
+{
+  "word": "huwa",
+  "gloss": "weak",
+  "ipa": "/ˈhu.wä/",
+  "syllables": [
+    "hu",
+    "wa"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "feeble"
+  ],
+  "description": "A grip that cannot hold its load and a wind that barely moves a curtain can both be 'huwa'. The word marks relatively little capacity to exert or withstand the force relevant to the situation. 'welua' (fragile) instead concerns how readily something is damaged.",
+  "articulatory_notes": "Start 'h' with unvoiced airflow at the glottis, then add voice for rounded high-back 'u'. Keep the lips rounded and raise the back of the tongue for 'w', then open into central 'a'. Stress falls on 'hu'.",
+  "sound_symbolism": "No complete closure interrupts 'huwa': breath opens the word, and the rounded movement through 'u' and 'w' gives way to open 'a'. In Phi, that lightly resisted path offers a mnemonic for limited force.",
+  "usage_notes": "'huwa' contrasts with 'kema' (strong) on force, but the comparison remains contextual. The same wind may be weak for a turbine and strong enough to scatter papers.",
+  "examples": [
+    {
+      "phi": "howeli huwa nai.",
+      "translation": "The wind is weak."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "limited capacity to exert or withstand force in the relevant situation"
+  }
+}
