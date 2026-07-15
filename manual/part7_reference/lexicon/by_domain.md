@@ -181,14 +181,14 @@
 | `wiresu` | postpone | moving a planned action to a later time |
 | `wishe` | swim | The body's water-travel |
 
-## aesthetic (78)
+## aesthetic (79)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `helia` | youth | the beauty of new growth |
 | `hewasu` | audible | sound distinguishable within an acoustic setting |
 | `horae` | radiant | Light-emanating |
-| `keru` | bright | Strong light |
+| `keru` | bright | a strongly lit scene or a hue seen at high visual intensity |
 | `kire` | shape | Discovering and creating beauty in form |
 | `kirero` | quality | a possible dimension of quality when explicitly named |
 | `kiro` | precise | Clear definition |
@@ -213,6 +213,7 @@
 | `mureli` | brown | visual quality of earth tones |
 | `muwi` | interior | Within |
 | `noporu` | design | shaping form in relation to material and use |
+| `nuelo` | dark | a dim scene or a color seen as a dark shade |
 | `nuko` | black | visual quality of light absence |
 | `palethu` | tactile | form and texture encountered through touch |
 | `pelori` | bird | Beauty in flight and song |
@@ -1239,7 +1240,7 @@
 | `kosha` | field | Cultivation area |
 | `koshira` | grove | Small woodland |
 | `kuramo` | drought | a sustained water deficit relative to a stated reference or need |
-| `kurathi` | dry | the condition after water's departure |
+| `kurathi` | dry | low moisture in air, soil, plants, or weather |
 | `kurisha` | storm | Violent weather |
 | `kurona` | horn | The head's hard growth |
 | `lei` | harmony | reflects ecosystems in balance and natural cooperation |
@@ -1309,7 +1310,7 @@
 | `nekuma` | meat | The animal become food |
 | `nelore` | preserve | Conserving what sustains life |
 | `neparu` | cloud | Atmospheric water vapor |
-| `neri` | cool | Refreshing quality |
+| `neri` | cool | moderately low temperature in air, water, shade, or weather |
 | `nireku` | insect | Small essential creatures |
 | `niro` | web | Woven pattern |
 | `nitho` | north | The still point of the wheeling sky |
@@ -1324,7 +1325,7 @@
 | `pelori` | bird | Aerial life |
 | `peloru` | flower | the blooming structure of plants |
 | `pelowa` | meadow | Open grassland |
-| `pelui` | cold | absence of heat energy |
+| `pelui` | cold | low temperature in air, water, weather, or a season |
 | `perawi` | expose | an ecological relation among organisms, places, materials, and energy |
 | `perola` | rose | The layered garden flower |
 | `pesenu` | pollute | harmful change in ecological media, conditions, or use |
@@ -1359,7 +1360,6 @@
 | `rulo` | red | the color of blood, fire, and ripe fruit |
 | `ruloi` | flourish | Vigorous, abundant growth |
 | `runae` | resin | Tree secretion |
-| `saphei` | shallow | Water near its floor |
 | `selu` | flow | embodies natural phenomena of water currents and organic movement patterns |
 | `sewaro` | transmit | movement of an infectious agent through a biological pathway |
 | `shaemu` | organic | Life-derived quality |
@@ -1386,7 +1386,8 @@
 | `sorila` | cultivate | Working land for growth |
 | `soriu` | yellow | color of ripe grain and many flowers |
 | `suilo` | dew | Condensed atmospheric moisture |
-| `sulae` | warm | energy from sun and fire |
+| `sukaro` | hot | weather or environmental heat that is strongly felt |
+| `sulae` | warm | moderate warmth in air, water, sunlight, or weather |
 | `suliwa` | snake | The flowing legless animal |
 | `sunai` | health | Body wholeness |
 | `sunoe` | regenerate | Restoring vitality |
@@ -1436,13 +1437,13 @@
 | `wirae` | spring (season) | Growth beginning |
 | `wiralu` | runoff | water moving across land or built surfaces |
 | `wiru` | basket | Natural materials |
-| `wirua` | wet | the condition of water-contact |
+| `wirua` | wet | moisture present in land, weather, air, or living surfaces |
 | `wishe` | swim | What fish and swimmers share |
 | `woeli` | natural | Of the living world |
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (332)
+## physical (334)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1477,7 +1478,7 @@
 | `kema` | strong | Having power |
 | `kenua` | energy | Power capacity |
 | `kerou` | stone | solid, heavy, enduring matter |
-| `keru` | bright | High luminosity |
+| `keru` | bright | a high amount of emitted or reflected light |
 | `keruko` | sturdy | Strongly built |
 | `kethua` | hard | resistance to indentation or deformation under pressure |
 | `kiphira` | fault | an abnormal condition in a technical component or relation |
@@ -1500,7 +1501,7 @@
 | `kumoe` | stomach | Digestive organ of transformation |
 | `kumoli` | hungry | The belly's asking |
 | `kunoa` | knee | Central leg joint enabling bending |
-| `kurathi` | dry | the state of moisture absence |
+| `kurathi` | dry | little liquid present on a surface or within a material |
 | `kuremi` | grind | Reduction between surfaces |
 | `kuri` | right | Side of the body |
 | `kuroi` | muscle | Movement tissue creating action |
@@ -1578,7 +1579,7 @@
 | `nekuma` | meat | Weight on the table |
 | `nepha` | medicine | Restoration |
 | `nephoru` | treat | an action directed toward bodily or health change |
-| `neri` | cool | Low temperature |
+| `neri` | cool | temperature below warm but milder than cold |
 | `newai` | fresh | Not depleted |
 | `nila` | see | sensory perception through eyes |
 | `nira` | cord | Flexible connection |
@@ -1588,7 +1589,7 @@
 | `nomira` | collect | Gathering tangible objects |
 | `nophae` | nose | Central facial feature and breath channel |
 | `norupe` | spoon | a small hollow carried at the end of a handle |
-| `nuelo` | dark | Low light |
+| `nuelo` | dark | little light reaching a place, surface, or viewer |
 | `nuhewa` | weep | The body's release of grief |
 | `nulae` | sleep | fundamentally a bodily process of physical restoration and repair |
 | `nulomi` | guts | The belly's inner workings |
@@ -1608,7 +1609,7 @@
 | `pekira` | toxic | a property of substances, mixtures, materials, or agents under exposure |
 | `pelaku` | severity | degree of bodily or health effect |
 | `pelio` | arm | Upper limbs for reaching and working |
-| `pelui` | cold | thermal sensation of cold |
+| `pelui` | cold | temperature felt as a strong chill rather than mild coolness |
 | `pemaru` | hazard | a material, energy source, condition, or process capable of harm |
 | `perawi` | expose | contact through a route over a duration |
 | `perola` | rose | Thorned flowering shrub bloom |
@@ -1668,6 +1669,7 @@
 | `rolutha` | wagon | Wheels made a carrier |
 | `rotiku` | dance | Rhythmic body movement |
 | `ruemi` | lie down | The horizontal resting posture |
+| `saphei` | shallow | a vessel, cut, or body of water with little depth |
 | `sawa` | wash | Restoration to cleanness |
 | `sawathi` | soap | material that loosens oil and dirt in water |
 | `sekaru` | transfer | movement of matter or energy between components or systems |
@@ -1690,8 +1692,9 @@
 | `siwe` | sweat | The skin's water |
 | `sophae` | cotton | Soft covering |
 | `sowelu` | disabled | disability involving bodily or sensory access |
+| `sukaro` | hot | high temperature strongly felt through contact or surrounding air |
 | `sukima` | fear | The tightening before danger |
-| `sulae` | warm | thermal sensation of heat |
+| `sulae` | warm | a readily felt temperature above cool and below hot |
 | `suliwa` | snake | Motion as pure curve |
 | `sulopa` | soup | Warm water and patience |
 | `suloru` | fever | an elevated bodily temperature state |
@@ -1773,7 +1776,7 @@
 | `wilemo` | toy | The crafted companion |
 | `wipha` | restless | Excess energy |
 | `wiralu` | runoff | a mobile body of surface water that may carry material |
-| `wirua` | wet | the state of moisture presence |
+| `wirua` | wet | liquid coating a surface or absorbed into a material |
 | `wishe` | swim | Motion through water |
 | `wolu` | healthy | Good condition |
 | `wonepa` | table | The social flat of the house |
@@ -1892,7 +1895,7 @@
 | `nowhu` | cave | Sheltered inner space |
 | `nowiso` | interface | a boundary or contact location across which exchange occurs |
 | `nuawe` | together | Side by side in the verb |
-| `nulo` | deep | Vertical extension |
+| `nulo` | deep | substantial distance inward or downward from a reference surface |
 | `nuroa` | kitchen | Food space |
 | `nusho` | depth | Downward extent |
 | `paloi` | foot | the means of walking through space |
@@ -1920,7 +1923,7 @@
 | `ruela` | path | routes through physical space |
 | `runaki` | wayfind | finding a route through a physical or informational place |
 | `ruweli` | access | access to a place or route under stated conditions |
-| `saphei` | shallow | Depth you can stand in |
+| `saphei` | shallow | small distance from a surface or opening to the bottom |
 | `sekaru` | transfer | a source-to-goal relation across a boundary |
 | `selu` | flow | traces movement through space along natural trajectories |
 | `seluto` | pour | movement from a source container toward a destination |
@@ -1981,7 +1984,7 @@
 | `womuri` | household | daily life organized around a dwelling |
 | `wuero` | far (adj) | Great distance |
 
-## temporal (170)
+## temporal (169)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2058,7 +2061,6 @@
 | `noruwa` | generation | The interval of inheritance |
 | `nosa` | now | Present time |
 | `nowae` | awaken | daily transition marking time's rhythm |
-| `nuelo` | dark | Night quality |
 | `nulae` | sleep | structures temporal experience through daily cycles and circadian rhythms |
 | `nurawi` | chronic | a persisting, recurring, or ongoing course |
 | `nuri` | cycle | Recurring pattern |
@@ -2229,7 +2231,7 @@
 | `norethi` | confident | firmness that remains distinguishable from knowledge and certainty |
 | `nosa` | now | Current moment |
 | `nukesa` | expert | knowledge refined through sustained practice and reflection |
-| `nulo` | deep | Profundity |
+| `nulo` | deep | sustained inquiry or knowing that reaches beneath an initial account |
 | `nuloe` | content | Acceptance of enough |
 | `numelo` | nurture | Patient, attentive care |
 | `nuri` | cycle | Understanding of return |

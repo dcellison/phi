@@ -1,6 +1,6 @@
-# Lexicon Expansion Survey (2026-07-10)
+# Lexicon Expansion Survey (2026-07-15)
 
-This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,163 entries: 1,033 content words, 110 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become rich where speakers need specialized discussion.
+This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,169 entries: 1,039 content words, 110 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become rich where speakers need specialized discussion.
 
 A missing English headword is not automatically a Phi gap. A concept may already be covered elegantly by a broader root, ordinary composition, an event noun, a registered compound, or a separately presented source artifact plus Phi analysis. That observation does not prohibit coinage: a concept may receive a dedicated word because it is important, useful, beautiful, or worth making easy to discuss.
 
@@ -27,7 +27,7 @@ The previous survey described a 906-word snapshot and must not be used as a curr
 
 Phi is rich enough to write substantial material about household life, craft, food preparation, nature-as-place, weather, bodies, relationships, emotion, ritual, repair, reflection, and ordinary community life. It also already has strong solarpunk anchors: `laenu` (commons), `shiroka` (repair), `sunoe` (regenerate), `thenoki` (sustain), `theluo` (steward), `phaliso` (network), `kowela` (council), `theloma` (justice), and `thonai` (responsible).
 
-The basic thermal field is covered. `sulae` spans warm through hot, `neri` is cool, and `pelui` is cold. A separate word for hot remains unnecessary while that range feels natural. The Ecological Systems and Material Life module keeps heatwave compositional as `sharoi sulae mosha`, an exceeding-warm period whose place, duration, reference, and exact threshold must be stated; the Medical and Bodily Care module now adds `suloru` fever while keeping overheating, environmental heat exposure, exact readings, and bodily thermal safety distinct.
+The basic thermal field distinguishes `sukaro` hot, `sulae` warm, `neri` cool, and `pelui` cold. The Ecological Systems and Material Life module keeps heatwave compositional as `sharoi sukaro mosha`, a period of excessive heat whose place, duration, reference, and exact threshold can be stated; the Medical and Bodily Care module adds `suloru` fever while keeping environmental heat, bodily temperature, and a diagnosed condition distinct.
 
 Likewise, several apparent English gaps already have honest Phi resources: `phelona` for requiring or needing, `phelu` for holding or having, `riola` for labor/work, `laniru` for journey/travel, and `ruela` for a path or route. A vocabulary pass should begin from those meanings so any new term adds a wanted distinction rather than accidentally duplicating one.
 

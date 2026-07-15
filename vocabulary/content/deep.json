@@ -7,16 +7,21 @@
     "lo"
   ],
   "pos": "adjective",
-  "concept": "Deep / Extending Far Down / Profound",
-  "description": "Extending far down from the top or surface; profound in quality or feeling. 'Nulo' names the quality of depth—physical extension downward and metaphorical profundity of meaning.",
-  "sound_symbolism": "The word descends. 'Nu' begins low, depth initiated. Then 'lo' continues downward, profundity reached.",
-  "grammatical_notes": "Functions as an adjective: 'nulo phialu' (deep water), 'nulo sano' (deep knowledge). Works both physically and metaphorically.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Deep practice penetrates surface—insight comes from going beneath habitual patterns.",
-    "art-nouveau-aesthetics": "Deep appreciation sees beyond surface beauty—understanding the organic principles that generate form."
-  },
+  "search_terms": [
+    "far below"
+  ],
+  "description": "Substantial distance inward or downward from a reference surface is 'nulo'. The established expression 'nulo sano' means deep knowing, so the same spatial adjective can characterize understanding. 'Theru' (thick) measures between opposing surfaces, while 'nusho' (depth) names a distance that can be measured.",
+  "articulatory_notes": "The tongue tip contacts the upper teeth for dental nasal 'n', with voice resonating through the nose into rounded high-back 'u'. The tongue tip then meets the alveolar ridge for 'l' before rounded mid-back 'o'. Stress falls on 'nu'.",
+  "sound_symbolism": "Both vowels in 'nulo' are formed toward the back of the mouth with rounded lips. That compact, inward contour offers a mnemonic for distance below a surface.",
+  "usage_notes": "The phrases 'nulo phialu' and 'nulo sano' mean deep water and deep knowing. In a noun position, 'nulo' names the quality of being deep; a measured depth is 'nusho'.",
+  "examples": [
+    {
+      "phi": "thelomi nulo nai.",
+      "translation": "The lake is deep."
+    }
+  ],
   "semantic_domains": {
-    "spatial": "Vertical extension",
-    "wisdom": "Profundity"
+    "spatial": "substantial distance inward or downward from a reference surface",
+    "wisdom": "sustained inquiry or knowing that reaches beneath an initial account"
   }
 }

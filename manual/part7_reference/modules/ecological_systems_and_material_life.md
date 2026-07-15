@@ -13,7 +13,7 @@ The module does not replace what Phi already says about land, water, weather, an
 | Area | Core Phi resources |
 |---|---|
 | Land and water | `muila` earth or soil, `phialu` water, `luphore` river, `phuliro` stream, `thelomi` lake, `moriwhe` sea, `thula` spring, `kosha` field |
-| Sky and immediate conditions | `pheralu` rain, `sileta` sun, `howeli` wind, `neparu` cloud, `kurisha` storm, `howenu` weather, `sulae` warm, `neri` cool, `pelui` cold, `wirua` wet, `kurathi` dry |
+| Sky and immediate conditions | `pheralu` rain, `sileta` sun, `howeli` wind, `neparu` cloud, `kurisha` storm, `howenu` weather, `sukaro` hot, `sulae` warm, `neri` cool, `pelui` cold, `wirua` wet, `kurathi` dry |
 | Living beings and places | `lima` alive, `lioru` life, `limoe` creature, `nolika` animal, `phireo` plant, `shiro` tree, `shelira` forest, `koshira` grove, `thepalu` garden, `tokemi` fungus |
 | Relations and transformations | `menui` dwell, `nuola` eat, `lumera` nourish, `panoru` support, `lorea` connect, `selu` flow, `kelu` become, `thuroa` grow, `lumeo` die, `nuri` cycle, `turema` return |
 | Care and renewal | `theama` care, `shorupo` protect, `thenoki` sustain, `talome` restore, `sunoe` regenerate, `thiranu` maintain, `shiroka` repair |
@@ -190,7 +190,7 @@ PROX garden drought hold.
 (The garden has a drought.)
 ```
 
-A heatwave stays the transparent `sharoi sulae mosha`, an exceeding-warm period, with its place, its duration, and its threshold each stated in the sentence rather than folded into one word.
+A heatwave stays the transparent `sharoi sukaro mosha`, a period of excessive heat, with its place, duration, and threshold available to state in the sentence rather than folded into one word.
 
 ## Contamination, pollution, toxicity, and exposure
 
@@ -342,7 +342,7 @@ Some ecological expressions remain clearer as combinations because their parts e
 | `muila phialu` | groundwater; earth-water | Claims no particular aquifer, flow path, or legal category. |
 | `wirua muila menuro` | wetland; wet-land habitat | Leaves the exact scientific or legal classification for when it matters. |
 | `phialu muo muila koema` | infiltration; water enters earth | States entry only, not recharge, rate, or destination. |
-| `sharoi sulae mosha` | heatwave; exceeding-warm period | Requires a place, a duration, and a threshold to mean anything. |
+| `sharoi sukaro mosha` | heatwave; period of excessive heat | Keeps the place, duration, and threshold available to state. |
 | `leiro thirulo` | emission; released output | Keeps the source, the agent, and the destination part of the sentence. |
 | `pesenu muralo` | pollutant; polluting material | Requires an actual pollution relation, not mere contamination. |
 | `shaemu muralo` | organic matter | Reuses existing vocabulary; exact fractions stay in the source record. |

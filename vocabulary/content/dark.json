@@ -8,16 +8,21 @@
     "lo"
   ],
   "pos": "adjective",
-  "concept": "Dark / With Little or No Light / Shadowed",
-  "description": "With little or no light; not illuminated. 'Nuelo' names the quality of darkness—absence of light, presence of shadow.",
-  "sound_symbolism": "The word descends into shadow. 'Nu' begins with inward turning, light fading. The vowel 'e' passes through dimness. Then 'lo' settles into darkness, shadow complete.",
-  "grammatical_notes": "Functions as an adjective: 'nuelo shero' (dark night). Opposite of 'keru' (bright). Can describe physical darkness or metaphorical obscurity. Related to 'nuko' (black), the hue: 'nuelo' is the illumination of a scene, not the color of a surface.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Dark times teach patience—sitting with difficulty rather than fleeing from it.",
-    "pre-industrial-wisdom": "Darkness structured life—nights for rest, caves for storage, shadow for cooling."
-  },
+  "search_terms": [
+    "dim",
+    "low light"
+  ],
+  "description": "A scene or place is 'nuelo' when little light reaches it. Before a color word, the adjective marks a dark shade, as in 'nuelo shilu' (dark blue). 'Nuko' (black) is a hue; 'nuelo' concerns illumination.",
+  "articulatory_notes": "The tongue tip contacts the upper teeth for dental nasal 'n', and the lips round into high-back 'u'. True-mid front 'e' follows in hiatus and carries the stress. The tongue tip then meets the alveolar ridge for 'l' before rounded mid-back 'o'.",
+  "usage_notes": "A dark night is 'nuelo shero'. 'Shomelu' (shadow) is the local shape made when an object interrupts light, while 'nuelo' can describe the condition of the whole scene.",
+  "examples": [
+    {
+      "phi": "ha tholu nuelo nai.",
+      "translation": "This space is dark."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Low light",
-    "temporal": "Night quality"
+    "aesthetic": "a dim scene or a color seen as a dark shade",
+    "physical": "little light reaching a place, surface, or viewer"
   }
 }

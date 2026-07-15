@@ -8,16 +8,20 @@
     "e"
   ],
   "pos": "adjective",
-  "concept": "Warm / Hot / Heat-Having",
-  "description": "The adjective naming elevated temperature, the quality of heat presence. In Phi, warmth is understood as fundamental to life—the warmth of sun that drives growth, of bodies that signal vitality, of hearths that gather community. This word names thermal presence from comfortable warmth through to intense heat, the continuum of fire's influence.",
-  "sound_symbolism": "The sibilant 's' of 'su' is heat's hiss, the sound of fire and steam, and the deep 'u' holds the intensity in. The liquid 'l' of 'la' spreads the warmth outward. The final 'e' ends on the felt sensation, light and clear.",
-  "grammatical_notes": "Functions as an adjective preceding nouns: 'sulae phialu' (warm water). Can describe objects, air, bodies, or metaphorically relationships and welcomes. Distinguished from 'thero' (fire) as the quality rather than the source; opposite end of the scale from 'pelui' (cold) and 'neri' (cool).",
-  "pillars": {
-    "solarpunk-values": "Sustainable warmth from sun, from insulation, from community design is fundamental. 'Sulae' names the quality that sustainable systems must provide.",
-    "pre-industrial-wisdom": "Traditional life revolved around warmth—fire tending, sun seeking, body heat sharing. 'Sulae' honors warmth as precious resource requiring relationship."
-  },
+  "search_terms": [
+    "moderate heat"
+  ],
+  "description": "Moderate warmth is 'sulae': a temperature above cool that is readily felt without being intense. It suits bath water or a blanket warmed by the sun. Strong heat is 'sukaro' (hot), while 'noeli' (warm (emotional)) describes welcoming feeling or manner.",
+  "articulatory_notes": "A narrow groove along the tongue directs voiceless 's' into rounded high-back 'u'. The tongue tip then contacts the alveolar ridge for 'l' and releases into open central 'a'. Final true-mid front 'e' follows in hiatus as a separate syllable. Stress falls on 'la'.",
+  "usage_notes": "Warm water is 'sulae phialu'; a warm blanket is 'sulae wethamo'. The form 'ru sulae' remains very warm, while 'sukaro' names hot directly.",
+  "examples": [
+    {
+      "phi": "ha phialu sulae nai.",
+      "translation": "This water is warm."
+    }
+  ],
   "semantic_domains": {
-    "nature": "energy from sun and fire",
-    "physical": "thermal sensation of heat"
+    "nature": "moderate warmth in air, water, sunlight, or weather",
+    "physical": "a readily felt temperature above cool and below hot"
   }
 }
