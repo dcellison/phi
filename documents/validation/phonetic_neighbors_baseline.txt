@@ -5,7 +5,7 @@
 0.47	1	shea	peace	content	shia	3SG	function	1407
 0.47	1	nila	see	content	nela	COORD	function	658
 0.47	1	so	FUT	function	su	OPT	function	368
-0.47	1	sholu	complete	content	sholo	QUOT.COMP.CLOSE	function	275
+0.47	1	sholu	complete	content	sholo	QUOT.COMP.CLOSE	function	274
 0.47	1	wi	two	content	we	ALSO	function	243
 0.47	1	ro	HAB	function	ru	INTS	function	233
 0.47	1	mu	zero	content	mo	CMPR	function	229
@@ -69,7 +69,6 @@
 0.47	1	thiru	exit	content	theru	thick	content	12
 0.47	1	thola	bring	content	thula	spring	content	12
 0.47	1	shela	art	content	shila	winter	content	11
-0.47	1	welua	fragile	content	weloa	loom	content	10
 0.47	1	keloe	companion	content	keloi	summer	content	9
 0.47	1	thenui	direct	content	thenoi	falls-short	content	9
 0.47	1	kiru	chisel	content	kiro	precise	content	8
@@ -85,6 +84,7 @@
 0.47	1	tesu	iron	content	tisu	needle	content	5
 0.47	1	lunai	vision	content	lonai	width	content	4
 0.47	1	moeli	hearth	content	mueli	plain (unadorned)	content	3
+0.47	1	welua	fragile	content	weloa	loom	content	3
 0.47	1	wero	honest	content	weru	poet	content	3
 0.47	1	lonae	respond	content	lonai	width	content	2
 0.47	1	wiru	basket	content	weru	poet	content	2
@@ -93,12 +93,12 @@
 0.47	1	thiru	exit	content	thiro	serene	content	1
 0.47	1	thorai	bless	content	thorae	facilitator	content	1
 0.47	1	thorai	bless	content	thurai	vibrant	content	1
-0.50	1	po	POT	function	to	PST	function	2077
+0.50	1	po	POT	function	to	PST	function	2078
+0.50	1	ko	FOC	function	to	PST	function	1874
 0.50	1	thia	2SG	function	shia	3SG	function	1874
-0.50	1	ko	FOC	function	to	PST	function	1873
 0.50	1	nia	ON	function	mia	1SG	function	1789
 0.50	1	sa	HON.RESPECT	function	ha	PROX	function	694
-0.50	1	na	NEC	function	ma	NEG	function	603
+0.50	1	na	NEC	function	ma	NEG	function	602
 0.50	1	nua	COM	function	mua	LOC	function	486
 0.50	1	ta	one	content	ka	CAUS	function	467
 0.50	1	ta	one	content	pa	INCH	function	361
@@ -194,7 +194,7 @@
 0.50	1	thero	fire	content	shero	night	content	61
 0.50	1	phao	parent	content	hao	pardon	interjection	58
 0.50	1	keru	bright	content	teru	process	content	56
-0.50	1	sholu	complete	content	tholu	space	content	54
+0.50	1	sholu	complete	content	tholu	space	content	53
 0.50	1	thuroa	grow	content	shuroa	shelter	content	53
 0.50	1	shelira	forest	content	phelira	mistaken	content	50
 0.50	1	sila	community	content	shila	winter	content	50
