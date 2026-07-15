@@ -8,7 +8,7 @@
 *Content words appear under their listed lexical class. A rule-supplied event or quality noun does not add another class to the entry. Function words are grouped by grammatical class.*
 
 
-## adjective (199)
+## adjective (200)
 
 | Word | Gloss |
 |---|---|
@@ -154,6 +154,7 @@
 | `sonu` | alone |
 | `soriu` | yellow |
 | `sowelu` | disabled |
+| `sukaro` | hot |
 | `sulae` | warm |
 | `tawimo` | foolish |
 | `teku` | short |

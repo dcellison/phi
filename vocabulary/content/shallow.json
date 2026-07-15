@@ -8,15 +8,21 @@
     "i"
   ],
   "pos": "adjective",
-  "concept": "Shallow / Water You Can Stand In",
-  "description": "Shallow: of water and vessels, near the bottom of not much. The opposite of 'nulo' (deep), and built maximally unlike it, per Phi's rule for opposites: no minimal pairs between words a wader needs to keep apart.",
-  "sound_symbolism": "Open 'sa' and the bright rising 'e'-'i' sit high in the mouth where 'nulo' sits low and closed. The two opposites share no sound at all.",
-  "grammatical_notes": "Adjective, before the noun: 'saphei phialu' (shallow water). 'lopia mua saphei phialu wishe.' (The child swims in the shallow water.)",
-  "pillars": {
-    "pre-industrial-wisdom": "The ford is where the river says yes. Knowing the shallow places was the traveler's map and the parent's rule for where the children may swim."
-  },
+  "search_terms": [
+    "little depth"
+  ],
+  "description": "Water, a vessel, or a cut is 'saphei' when the bottom lies near its surface or opening. 'Lemi' (thin) measures material between opposing surfaces; a shallow bowl may still have thick walls.",
+  "articulatory_notes": "A narrow groove along the tongue directs voiceless 's' into open central 'a'. The lips then narrow without closing for voiceless bilabial 'ph' and release into true-mid front 'e'. Final high-front 'i' follows in hiatus as a separate syllable. Stress falls on 'phe'.",
+  "sound_symbolism": "The open 'sa' and airy 'ph' move into front-vowel hiatus. The result is a lighter contour than rounded 'nulo' (deep), and the opposites share no syllable to blur the practical contrast.",
+  "usage_notes": "The phrases 'saphei phialu' and 'saphei noru' mean shallow water and a shallow bowl. The noun 'nusho' measures how much depth either one has.",
+  "examples": [
+    {
+      "phi": "phialu saphei nai.",
+      "translation": "The water is shallow."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Water near its floor",
-    "spatial": "Depth you can stand in"
+    "physical": "a vessel, cut, or body of water with little depth",
+    "spatial": "small distance from a surface or opening to the bottom"
   }
 }

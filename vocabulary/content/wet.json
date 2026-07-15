@@ -8,16 +8,21 @@
     "a"
   ],
   "pos": "adjective",
-  "concept": "Wet / Water-Touched / Moisture-Present",
-  "description": "The adjective naming the state of having water or liquid on or within, the quality of being touched by moisture. In Phi, wetness carries associations with life-giving water, with transformation (dry to wet, hard to soft), and with the presence of the element that sustains all beings. This word names the condition of being in relationship with water.",
-  "sound_symbolism": "The word opens with 'wi', where the gliding 'w' flows like water itself while 'i' brightens with freshness. This rolls through 'ru', the liquid 'r' spreading moisture across surfaces. The final 'a' opens fully—wetness as openness to water, permeability, receptivity. The arc traces wetness: flowing arrival, spreading, saturation.",
-  "grammatical_notes": "Functions as an adjective preceding nouns: 'wirua muila' (wet earth). Describes objects, surfaces, air, or conditions. Often contrasted with dry (kurathi).",
-  "pillars": {
-    "solarpunk-values": "Water presence indicates healthy ecosystems. 'Wirua' names what drought removes and what we must protect.",
-    "pre-industrial-wisdom": "Wetness marked rain, fertility, and the blessing of water. 'Wirua' names the gift-state of having received moisture."
-  },
+  "search_terms": [
+    "damp",
+    "moist"
+  ],
+  "description": "A surface or material is 'wirua' when liquid lies on it or has soaked in. The word also covers wet weather and air laden with moisture. Water is the usual liquid, but spilled oil can make cloth wet as well; context and degree words carry the amount.",
+  "articulatory_notes": "Rounded lips and a raised back tongue form 'w' before high-front 'i'. A tap or short trill begins the stressed second syllable and releases into rounded high-back 'u'. Final open central 'a' follows in hiatus as a separate syllable.",
+  "usage_notes": "Wet earth is 'wirua muila', and wet cloth is 'wirua wetha'. The form 'wirua howenu' describes wet weather. The ecological expression 'wirua muila menuro' describes a wet-land habitat without assigning a scientific or legal wetland category.",
+  "examples": [
+    {
+      "phi": "wetha wirua nai.",
+      "translation": "The cloth is wet."
+    }
+  ],
   "semantic_domains": {
-    "nature": "the condition of water-contact",
-    "physical": "the state of moisture presence"
+    "nature": "moisture present in land, weather, air, or living surfaces",
+    "physical": "liquid coating a surface or absorbed into a material"
   }
 }

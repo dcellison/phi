@@ -7,16 +7,22 @@
     "ru"
   ],
   "pos": "adjective",
-  "concept": "Bright / Giving Off Much Light / Vivid",
-  "description": "Giving off or reflecting much light; vivid and bold. 'Keru' names simple, strong light—the quality of clear illumination, colors that stand out, visibility without shadow.",
-  "sound_symbolism": "The word strikes with clarity. 'Ke' begins with crisp contact, light appearing. Then 'ru' radiates strongly, brightness filling space.",
-  "grammatical_notes": "Functions as an adjective: 'keru silero' (bright star). Simpler and stronger than 'pholuo' (luminous)—direct light rather than gentle glow.",
-  "pillars": {
-    "solarpunk-values": "Bright futures are possible futures—light as metaphor for hope, clarity, and positive vision.",
-    "secular-buddhist-philosophy": "Bright awareness sees clearly—the quality of mind that perceives without distortion."
-  },
+  "search_terms": [
+    "high luminosity",
+    "vivid"
+  ],
+  "description": "Strong light from a source, surface, or scene is 'keru'. The adjective can also intensify a visible hue, as in 'keru rulo' (bright red). 'Pholuo' (luminous) and 'horae' (radiant) add particular ways of shining; 'keru' reports the resulting brightness.",
+  "articulatory_notes": "The back of the tongue closes against the soft palate for 'k' and releases into true-mid front 'e'. A tap or short trill begins the second syllable before rounded high-back 'u'. Stress falls on 'ke'.",
+  "sound_symbolism": "The clean release of 'k' and quick tap in the second syllable give 'keru' a crisp contour. That brief catch can recall a bright surface drawing the eye.",
+  "usage_notes": "The registered expression 'keru loa' (give brightness) means to shine. Before a color adjective, 'keru' marks a bright shade rather than adding another hue.",
+  "examples": [
+    {
+      "phi": "sileta keru nai.",
+      "translation": "The sun is bright."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Strong light",
-    "physical": "High luminosity"
+    "aesthetic": "a strongly lit scene or a hue seen at high visual intensity",
+    "physical": "a high amount of emitted or reflected light"
   }
 }

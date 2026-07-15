@@ -8,16 +8,21 @@
     "thi"
   ],
   "pos": "adjective",
-  "concept": "Dry / Moisture-Absent / Water-Departed",
-  "description": "The adjective naming the state of lacking moisture, the quality of water having departed or never arrived. In Phi, dryness is understood not as mere absence but as its own quality—the crispness of autumn leaves, the readiness of stored grain, the preservation that dryness enables. This word names both lack and the particular qualities that emerge when water withdraws.",
-  "sound_symbolism": "The word opens with 'ku', where the velar stop creates crisp boundary—the definite edge of dry things. This moves through 'ra', where the rolling 'r' suggests the parched quality of dried surfaces. The final 'thi' breathes with the lightness of moisture-free air, the soft sound of dry things rustling. The arc traces dryness: crisp definition, textured surface, airy lightness.",
-  "grammatical_notes": "Functions as an adjective preceding nouns: 'kurathi shiro' (dry tree). Describes objects, conditions, or metaphorically emotional states. Often contrasted with wet (wirua).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Dryness teaches about absence—what remains when something departs. 'Kurathi' names this particular absence.",
-    "pre-industrial-wisdom": "Dryness meant preservation, storage, and preparation for lean times. 'Kurathi' names the useful quality that keeps food and fibers."
-  },
+  "search_terms": [
+    "arid",
+    "parched"
+  ],
+  "description": "A surface, material, or environment is 'kurathi' when it has little moisture. Dry grain often keeps well, while dry soil may need water; the word reports the condition without deciding whether it is useful. 'Kuramo' (drought) names a prolonged water deficit, not one dry object or afternoon.",
+  "articulatory_notes": "The back of the tongue closes against the soft palate for 'k' and releases into rounded high-back 'u'. A tap or short trill begins the stressed second syllable before open central 'a'. The tongue then approaches the upper teeth for voiceless 'th' before high-front 'i'.",
+  "usage_notes": "A dry tree is 'kurathi shiro'; dry ash is 'kurathi hesura'. A thirsty living being is 'kishu' (thirsty), which states bodily need rather than the moisture in a material.",
+  "examples": [
+    {
+      "phi": "wetha kurathi nai.",
+      "translation": "The cloth is dry."
+    }
+  ],
   "semantic_domains": {
-    "nature": "the condition after water's departure",
-    "physical": "the state of moisture absence"
+    "nature": "low moisture in air, soil, plants, or weather",
+    "physical": "little liquid present on a surface or within a material"
   }
 }

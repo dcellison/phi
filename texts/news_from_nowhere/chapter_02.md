@@ -19,9 +19,9 @@ mia mena mia roe lo paloi lo nuwera wethalu to ki pesa meno to nila.
 (I saw that I had pushed the bed's garments off with my feet.)
 morris: "and found that I had kicked my bedclothes off;"
 
-lokue ru sulae to nai.
-place INTS warm PST be.
-(The room was very hot.)
+lokue sukaro to nai.
+place hot PST be.
+(The room was hot.)
 morris: "for it was hot"
 
 sileta keru to keru loa.
@@ -63,8 +63,8 @@ morris: "In fact, I rather took it for granted that I was at home in my own room
 **Notes:** waking is `te` on sleep, sleep's own ceasing, exactly as the first chapter wakes its sleeper. The kicked bedclothes stay concrete: `lo nuwera wethalu`, the bed's garments, pushed (`pesa`, whose own entry directs force away from the body, so "off" needs no extra word) with the feet, which is what kicking in bed is. The room's heat and the sun's bright giving stand as the two causes before `thelao` delivers the no-wonder, the announce-then-deliver order Phi prefers even where Morris delivers first. The half-awake haze is carried by the mind not being clear and by the feeling of having slept a very long time, with `phea rena ... miona` building "as if I were one who..." the way the first chapter builds its home-farer. The signature of the whole opening is `ho`: Morris's "I rather took it for granted... than saw that it was so" is precisely the assumptive evidential standing where the direct one should be, and Phi says that in one particle where English needs a clause.
 
 ```
-pheo wethalu lomare mia mena lokue ru sulae nai meno to phaelo.
-POST garment embrace 1SG DECL.COMP place INTS warm be DECL.COMP.CLOSE PST feel.
+pheo wethalu lomare mia mena lokue ru sukaro nai meno to phaelo.
+POST garment embrace 1SG DECL.COMP place INTS hot be DECL.COMP.CLOSE PST feel.
 (After the dressing, I felt the room to be very hot.)
 morris: "When I was dressed, I felt the place so hot"
 

@@ -7,7 +7,7 @@
 0.47	1	so	FUT	function	su	OPT	function	368
 0.47	1	sholu	complete	content	sholo	QUOT.COMP.CLOSE	function	275
 0.47	1	wi	two	content	we	ALSO	function	243
-0.47	1	ro	HAB	function	ru	INTS	function	235
+0.47	1	ro	HAB	function	ru	INTS	function	233
 0.47	1	mu	zero	content	mo	CMPR	function	229
 0.47	1	ke	INFER	function	ki	PFV	function	207
 0.47	1	si	IPFV	function	se	PASS	function	189
@@ -33,9 +33,9 @@
 0.47	1	phaelo	feel	content	phaelu	peaceful	content	161
 0.47	1	kelu	become	content	kelo	frame	content	153
 0.47	1	welao	good	content	wilao	long-for	content	124
-0.47	1	solae	explain	content	sulae	warm	content	105
-0.47	1	sulai	musician	content	sulae	warm	content	101
 0.47	1	shero	night	content	shiro	tree	content	99
+0.47	1	solae	explain	content	sulae	warm	content	98
+0.47	1	sulai	musician	content	sulae	warm	content	94
 0.47	1	philo	day	content	phelo	light	content	82
 0.47	1	philu	candle	content	philo	day	content	76
 0.47	1	ruela	path	content	roela	scroll	content	69
@@ -171,12 +171,12 @@
 0.50	1	whalo	large	content	thalo	walk	content	138
 0.50	1	thinu	put	content	thimu	time	content	132
 0.50	1	nophi	story	content	mophi	wool	content	108
-0.50	1	phulae	mouth	content	sulae	warm	content	105
 0.50	1	wheo	elder	content	theo	read	content	103
 0.50	1	hea	hear	content	shea	peace	content	102
 0.50	1	shao	three-group	content	hao	pardon	interjection	102
 0.50	1	korua	heart	content	torua	year	content	100
 0.50	1	noshi	near (adj)	content	nophi	story	content	99
+0.50	1	phulae	mouth	content	sulae	warm	content	98
 0.50	1	korua	heart	content	porua	purpose	content	94
 0.50	1	siora	joy	content	phiora	spirit	content	90
 0.50	1	phewo	sage	content	shewo	true	content	81

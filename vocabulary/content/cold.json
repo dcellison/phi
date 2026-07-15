@@ -8,16 +8,21 @@
     "i"
   ],
   "pos": "adjective",
-  "concept": "Cold / Cool / Heat-Lacking",
-  "description": "The adjective naming lowered temperature, the quality of heat absence. In Phi, cold is understood as condition requiring response—the challenge that called forth fire-making, shelter-building, warmth-sharing. This word names thermal absence from pleasant coolness through to dangerous chill, the continuum of heat's withdrawal.",
-  "sound_symbolism": "The word opens with 'pe', where the soft stop 'p' creates crisp beginning—the bite of cold, the sharp contrast with warmth. The clear 'e' focuses sensation. This flows through 'lu', where the liquid carries coolness through, pervading and spreading. The final 'i' sharpens and crystallizes, like ice forming, like cold's bite becoming definite. Three syllables give appropriate weight to this primal challenge.",
-  "grammatical_notes": "Functions as an adjective preceding nouns: 'pelui haowu' (cold air). Can describe objects, weather, bodies, or metaphorically emotional distance. Distinguished from 'sulae' (warm) as thermal opposite; 'neri' (cool) covers the milder range.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Cold, like all sensation, can be observed without aversion. 'Pelui' names the quality that practice can meet with equanimity.",
-    "pre-industrial-wisdom": "Traditional wisdom knew cold as serious challenge requiring preparation, storage, shelter, and community warmth-sharing. 'Pelui' names the condition that taught us cooperation."
-  },
+  "search_terms": [
+    "chilled",
+    "frigid"
+  ],
+  "description": "The cold that brings a strong chill is 'pelui'. Air at this temperature can numb exposed skin, and cold water may take heat from a body quickly. 'Neri' (cool) covers the milder range.",
+  "articulatory_notes": "The lips close for voiceless 'p' and release into true-mid front 'e'. The tongue tip then contacts the alveolar ridge for 'l' before rounded high-back 'u'. Final high-front 'i' follows in hiatus as a separate syllable. Stress falls on 'lu'.",
+  "usage_notes": "Cold air is 'pelui haowu', and cold water is 'pelui phialu'. In 'mia pelui nai', the adjective describes the speaker directly: I am cold.",
+  "examples": [
+    {
+      "phi": "howeli pelui nai.",
+      "translation": "The wind is cold."
+    }
+  ],
   "semantic_domains": {
-    "nature": "absence of heat energy",
-    "physical": "thermal sensation of cold"
+    "nature": "low temperature in air, water, weather, or a season",
+    "physical": "temperature felt as a strong chill rather than mild coolness"
   }
 }

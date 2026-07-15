@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1168 words.*
+*1169 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -875,6 +875,7 @@
 | `sua` | who | /ˈsu.ä/ | interrogative |
 | `sui` | DUR | /ˈsu.i/ | preposition |
 | `suilo` | dew | /su.ˈi.lo̞/ | noun |
+| `sukaro` | hot | /su.ˈkä.ro̞/ | adjective |
 | `sukima` | fear | /su.ˈki.mä/ | noun |
 | `sulae` | warm | /su.ˈlä.e̞/ | adjective |
 | `sulai` | musician | /su.ˈlä.i/ | noun |

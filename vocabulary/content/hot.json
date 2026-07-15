@@ -1,0 +1,29 @@
+{
+  "word": "sukaro",
+  "gloss": "hot",
+  "ipa": "/su.ˈkä.ro̞/",
+  "syllables": [
+    "su",
+    "ka",
+    "ro"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "heated",
+    "high temperature"
+  ],
+  "description": "Something is 'sukaro' when its temperature is high and the heat plainly felt. A hot pan can burn unprotected skin, while hot weather limits how long a person can remain outside. 'Sulae' (warm) covers moderate heat; 'suloru' (fever) names a bodily condition rather than temperature alone.",
+  "articulatory_notes": "A narrow groove along the tongue directs voiceless 's' into rounded high-back 'u'. The back of the tongue then closes against the soft palate for 'k' and releases into open central 'a'. A tap or short trill begins the final syllable before rounded mid-back 'o'. Stress falls on 'ka'.",
+  "sound_symbolism": "The opening 'su' is shared with 'sulae' (warm) and 'suloru' (fever), an audible kinship rather than a productive affix. The closure of 'k' makes stressed open 'a' arrive abruptly, unlike the flowing hiatus of 'sulae'.",
+  "usage_notes": "The form 'sukaro phialu' is hot water; 'sukaro howenu' is hot weather. Exact temperatures and thresholds stay with the measurement or source record when they matter.",
+  "examples": [
+    {
+      "phi": "ha phialu sukaro nai.",
+      "translation": "This water is hot."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "weather or environmental heat that is strongly felt",
+    "physical": "high temperature strongly felt through contact or surrounding air"
+  }
+}

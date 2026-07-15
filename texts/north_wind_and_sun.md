@@ -131,9 +131,9 @@ person REFL head garment PST release. 3SG ABOVE REFL PL eye REFL face PST wipe.
 (The person released their head-garment. They wiped their face above their eyes.)
 aesop: "The man took off his cap and mopped his brow."
 
-pheo laeno shemu shia ru sulae to kelu. thelao shia miso wethalu lue miso weloni to natu. shia wethalu to leiro.
-POST long moment 3SG INTS warm PST become. CONS 3SG REFL garment ABL REFL body PST pull. 3SG garment PST release.
-(After a long moment, they became very warm. Therefore they pulled their garment from their body. They released it.)
+pheo laeno shemu shia ru sukaro to kelu. thelao shia miso wethalu lue miso weloni to natu. shia wethalu to leiro.
+POST long moment 3SG INTS hot PST become. CONS 3SG REFL garment ABL REFL body PST pull. 3SG garment PST release.
+(After a long moment, they became very hot. Therefore they pulled their garment from their body. They released it.)
 aesop: "At last he became so heated that he pulled off his cloak,"
 
 sio ruela ta shiro to whano. miona wea muila muo rena shia whelani shiro shomelu miso to wapho lila shia phei rena thape sileta keru loa wepu.
@@ -171,7 +171,7 @@ sileta shola su lo mia nawo sholo to haolu. shola rena lue ha laniru miona wetha
 
 roe nu ta teku kema howeli lo wethalu shuna roa laniru miona weloni to se wapho. whekai pheo mu thimu shia wethalu miso to noshi ka lomare. howeli mo kema to whesu. miona roa miso wethalu mo noshi to phelu. nitho howeli roe korua thero wethalu to ru kema natu. whekai theula rena shia to phoa whuo lureko to nai.
 
-pheo thena sileta to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. shia wethalu nia miso talua ralu to ka manolu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia leo miso lo mirae miso menoa to hewe. pheo laeno shemu shia ru sulae to kelu. thelao shia miso wethalu lue miso weloni to natu. shia wethalu to leiro. sio ruela ta shiro to whano. miona wea muila muo rena shia whelani shiro shomelu miso to wapho lila shia phei rena thape sileta keru loa wepu.
+pheo thena sileta to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. shia wethalu nia miso talua ralu to ka manolu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia leo miso lo mirae miso menoa to hewe. pheo laeno shemu shia ru sukaro to kelu. thelao shia miso wethalu lue miso weloni to natu. shia wethalu to leiro. sio ruela ta shiro to whano. miona wea muila muo rena shia whelani shiro shomelu miso to wapho lila shia phei rena thape sileta keru loa wepu.
 
 moli nela phena sharemi porua korei. kawhera nela theisa kapura porua ma korei.
 ```
@@ -330,9 +330,9 @@ person REFL head garment PST release. 3SG REFL face PST wipe.
 (The person released their head-garment. They wiped their face.)
 aesop: "The man took off his cap and mopped his brow."
 
-pheo laeno shemu shia ru sulae to kelu. thelao shia miso wethalu to leiro.
-POST long moment 3SG INTS warm PST become. CONS 3SG REFL garment PST release.
-(After a long moment, they became very warm. Therefore they released their garment.)
+pheo laeno shemu shia ru sukaro to kelu. thelao shia miso wethalu to leiro.
+POST long moment 3SG INTS hot PST become. CONS 3SG REFL garment PST release.
+(After a long moment, they became very hot. Therefore they released their garment.)
 aesop: "At last he became so heated that he pulled off his cloak,"
 
 sio ruela ta shiro to whano. miona muo rena whelani shomelu to reshi ruemi lila shia phei rena thape sileta keru loa wepu.
@@ -372,7 +372,7 @@ sileta shola su lo mia nawo sholo to haolu. shola rena ha laniru miona wethalu k
 
 roe nu ta howeli lo wethalu shuna roa laniru miona weloni to tiripe. whekai shia roa miso wethalu to reshi noshi phelu. howeli mo kema to whesu. miona roa miso wethalu mo noshi to phelu. nitho howeli roe korua thero wethalu to natu. whekai theula rena shia to phoa whuo lureko to nai.
 
-pheo thena sileta to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. shia wethalu nia miso talua to ma noshi phelu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso menoa to hewe. pheo laeno shemu shia ru sulae to kelu. thelao shia miso wethalu to leiro. sio ruela ta shiro to whano. miona muo rena whelani shomelu to reshi ruemi lila shia phei rena thape sileta keru loa wepu.
+pheo thena sileta to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. shia wethalu nia miso talua to ma noshi phelu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso menoa to hewe. pheo laeno shemu shia ru sukaro to kelu. thelao shia miso wethalu to leiro. sio ruela ta shiro to whano. miona muo rena whelani shomelu to reshi ruemi lila shia phei rena thape sileta keru loa wepu.
 
 moli nela phena haolu welao lureko thola. keloa haolu nela kawhera pholeni thola.
 ```
