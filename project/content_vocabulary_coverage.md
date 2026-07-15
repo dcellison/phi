@@ -49,7 +49,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Awareness and epistemic qualities | [PR #365](https://github.com/dcellison/phi/pull/365) and [PR #366](https://github.com/dcellison/phi/pull/366) | **COVERED** | Direct words and established constructions keep consciousness, attention, truth, accuracy, error, uncertainty, insight, intuition, understanding, and judgement apart without a new base root. |
 | Ethics, care, and candour | [PR #367](https://github.com/dcellison/phi/pull/367) | **REVIEW** | The ordinary distinctions are covered. Phi can describe cruel conduct in clauses, but recurring ethical use makes a direct word for deliberate or callous infliction of suffering worth testing. |
 | Core emotion inventory | [PR #369](https://github.com/dcellison/phi/pull/369) | **COVERED** | Canon now separates the core feeling lesson from wider affective vocabulary. Each registered expression keeps its settled form; complexity alone does not decide whether a direct root belongs. |
-| Affective response, anticipation, and resolve | Current batch | **REVIEW** | Existing words keep the main distinctions apart. Repeated corpus paraphrases show that sustained interest or engagement needs its own connected-use test. |
+| Affective response, anticipation, and resolve | [PR #371](https://github.com/dcellison/phi/pull/371) | **REVIEW** | Existing words keep the main distinctions apart. Repeated corpus paraphrases show that sustained interest or engagement needs its own connected-use test. |
 
 ## Semantic batches and stable domains
 
