@@ -281,3 +281,108 @@ This distinction reaches daily life before it reaches technical study. Medicine 
 No separate base root for material phase is needed. Within the analytical modules, `muralo mirela` (material state) can introduce the selected condition, while one of the three category nouns supplies its value. `kaero` remains the stage of a process rather than acquiring another English sense.
 
 All three forms pass the phonology and character collision checks, and the phonetic audit finds no existing entry within its review threshold. Their contours keep the set apart in the mouth: `patoku` closes three times, `larewu` keeps its voice through each consonant, and `heshowa` begins in breath before opening at the end.
+
+## 4. The box, the cloth, and the road between villages
+
+A box must return to a crowded shelf. Two pieces of cloth meet on a worktable, and a path joins villages that need to plan a journey. None of the three scenes asks for metres or miles. Each asks a simpler question first: what is being compared?
+
+### The box on the shelf
+
+A replacement box may differ from the old one in material or lid while taking up the same room on the shelf. Phi can say plainly that they are not the same:
+
+```
+ha wi themo molupa ma senao nai.
+PROX two THING.CLF box NEG same be.
+(These two boxes are not the same.)
+```
+
+That leaves their overall scale unstated. The nearest construction uses the quality noun of `whalo` (large):
+
+```
+ha wi themo molupa whalo kolo nai.
+PROX two THING.CLF box large equal be.
+(The two boxes have equal size.)
+```
+
+The grammar is regular, but the word still carries largeness. Two small boxes can match in size without either one being `whalo`; switching to `thiku` (small) simply puts the same judgement at the other end. Exact height, width, and depth can settle whether a particular box fits, yet an ordinary account may still need to say that overall size changed or stayed the same.
+
+### The cloth on the worktable
+
+Direct comparison already works. A maker can lay cloth against an arm or against the piece it must replace:
+
+```
+shia sheo pelio wetha masue.
+3SG THAN arm cloth measure.
+(They measure the cloth against an arm.)
+```
+
+The trouble appears when two axes must be discussed separately:
+
+```
+wi wetha lonai kolo nai. wi wetha laeno ma kolo nai.
+two cloth width equal be. two cloth long NEG equal be.
+(The two pieces of cloth have equal width but different length.)
+```
+
+`lonai` (width) is a neutral dimension. The second clause asks the quality noun of `laeno` (long) to mean length even when both pieces are short. `teku` (short) has the same problem from the opposite direction. The comparison is recoverable, but its most important dimension arrives already judged.
+
+Time does not need to follow the new noun. `mosha` (period) already supplies a bounded interval, while `laeno` and `teku` stay available for long and short durations. The missing term here is the end-to-end extent of an object or path.
+
+### The road between villages
+
+Near and far work when classification is the point:
+
+```
+ha silawo woe ra silawo nai.
+PROX village FAR DIST village be.
+(This village is far from that village.)
+```
+
+Phi can also measure a chosen path and describe the journey in bodily time:
+
+```
+shia thei wi silawo ruela masue.
+3SG BETWEEN two village path measure.
+(They measure the path between the two villages.)
+
+ruela wi philo thalo nai.
+path two day walk be.
+(The path is a two-day walk.)
+```
+
+These are useful facts, but neither gives the separation between the villages. A winding path may grow longer after a bridge closes while the villages stay where they are. Travel time changes again with the ground and the traveller. The quality noun of `wuero` (far) is marked in the same way as largeness and longness:
+
+```
+shia thei wi silawo wuero masue.
+3SG BETWEEN two village far measure.
+(They measure the farness between the two villages.)
+```
+
+A listener can recover the phrase, but it calls the villages far before the comparison has supplied a scale. `noshi` (near) would reverse the judgement rather than remove it. A neutral distance noun would state separation while leaving near, far, route length, and travel burden as separate claims.
+
+### Neighbour test
+
+| Existing resource | What it preserves | Why it does not close the question |
+|---|---|---|
+| `whalo` (large), `thiku` (small), and their quality nouns | Opposite judgements of overall scale | Largeness and smallness stay marked even when the speaker needs the neutral property that changed or matched. |
+| `laeno` (long), `teku` (short), and their quality nouns | Opposite judgements of end-to-end extent or duration | Neither quality noun gives an extent before the speaker decides which end of the scale it occupies. `mosha` already handles bounded duration. |
+| `noshi` (near), `wuero` (far), and their quality nouns | Opposite judgements of spatial or temporal separation | Nearness and farness depend on a contextual threshold; every pair of places has a separation before either judgement fits. |
+| `raeli` (height), `lonai` (width), and `nusho` (depth) | Three neutral spatial dimensions | They establish the useful pattern but cannot substitute for overall size, end-to-end length, or separation between referents. |
+| `masue` (measure) | The act and result of gauging against a standard | Its event noun can refer to a measurement but not which magnitude the measurement concerns. |
+| `senao` (same) and `kolo` (equal) | Identity or equivalence on a recoverable basis | The basis must still be named when shape, material, capacity, and several dimensions could differ. |
+| `ruela` (path), `shoeka` (route), and counted travel time | A travelled way, a selected course, and the effort or duration of a journey | A route can change without moving its endpoints, and two routes between them can differ in length. |
+| Separately preserved source material | Exact values, units, tolerances, maps, and specifications | Phi still needs to identify whether a source value concerns size, length, or distance when speakers discuss its relevance. |
+
+### Decision
+
+The three missing nouns each remove a judgement that the adjective system rightly keeps. Size names overall scale without calling it large or small. Length names end-to-end spatial extent without calling it long or short. Distance names separation between referents without calling them near or far.
+
+Phi should add one base noun for each distinction and coin them together, so their boundaries can be tested against one another. Height, width, and depth keep their present meanings.
+
+The new length noun should stop at space. `mosha` already gives Phi a neutral period or duration, so copying every English use of "length" would create overlap rather than coverage. Distance likewise remains distinct from the length of a chosen route and from the time or effort required to travel it.
+
+These nouns do not reopen Phi's unit system. They let a speaker discuss a magnitude or its change and identify what a source record measures. Exact values and technical tolerances remain in separately preserved source material whenever their form matters.
+
+All three belong in base vocabulary. The need begins at a shelf or worktable and reaches ordinary route planning before any specialist analysis begins. Relevant modules can index the same nouns for their own uses without making them optional study.
+
+No general base noun for dimension is recommended. `mirela` (state) and `masue` (measure) can frame analysis at a broader level, while the specific noun tells the listener what is at issue. If the recommendation is accepted, size, length, and distance should enter in one coordinated coinage pass.
