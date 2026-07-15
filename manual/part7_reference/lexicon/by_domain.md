@@ -1164,7 +1164,7 @@
 | `shaelo` | brave | Courage |
 | `shea` | peace | peace as fundamental emotional and spiritual state |
 | `sheli` | impatient | Unable to wait |
-| `shena` | calm | Still inner state |
+| `shena` | calm | low agitation in present feeling or manner |
 | `shorui` | weary | Need for rest |
 | `shurano` | safe | The felt state of being out of danger |
 | `siora` | joy | embodies radiant happiness and celebratory feeling states |
@@ -1199,7 +1199,7 @@
 | `whelani` | welcome | warmth and heartfelt reception |
 | `wilao` | long-for | internal experience of yearning and desire |
 | `wile` | play | Experiencing lightness and joy |
-| `wipha` | restless | Unable to settle |
+| `wipha` | restless | felt agitation or difficulty settling |
 | `wiroa` | hopeful | Positive anticipation |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
@@ -1442,7 +1442,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (334)
+## physical (335)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1488,7 +1488,7 @@
 | `kiwate` | bite | Teeth closing on |
 | `koewi` | input | matter or energy crossing into a selected system |
 | `kohura` | noise | Sound carrying no shape |
-| `kolu` | steady | Constant quality |
+| `kolu` | steady | motion or pressure that varies little while continuing |
 | `kolua` | carry | bearing a body or object while moving |
 | `koluma` | unite | Joining separate elements |
 | `kolupe` | bucket | an open rigid container with a handle |
@@ -1542,7 +1542,7 @@
 | `mirae` | eye | the organ of sight |
 | `mirela` | state | the term can describe measurable material and operational conditions |
 | `mirulo` | berry | Fruit at its smallest |
-| `moesha` | still | Motionless |
+| `moesha` | still | absence of movement at the relevant bodily or material scale |
 | `mokanu` | disease | a pattern or process affecting bodily health or function |
 | `mokela` | sick | The body out of accord |
 | `mokura` | belly | Central body region of digestion and feeling |
@@ -1568,7 +1568,7 @@
 | `muphera` | stock | a situated collection of tangible items |
 | `muphia` | mud | The soft give underfoot |
 | `muralo` | material | physical matter described through composition, condition, and movement |
-| `mureo` | stable | Firmly established |
+| `mureo` | stable | retention of position or form under disturbance |
 | `murethi` | impairment | a stated bodily or sensory functional difference |
 | `napa` | bread | Baked grain food |
 | `napako` | bake | heat reaching food from an enclosing chamber |
@@ -1657,7 +1657,7 @@
 | `raelu` | tall | height from base to top in a person or upright structure |
 | `rashelo` | run | intense bodily exertion and cardiovascular activity |
 | `rato` | turn | The body's and the wheel's motion |
-| `reshi` | fast | Rapid movement |
+| `reshi` | fast | a high rate of bodily or material movement |
 | `rewa` | oar | Sustained effort |
 | `rihe` | rise | Coming up |
 | `riola` | labor | bodily effort and sustained activity |
@@ -1678,7 +1678,8 @@
 | `shalu` | fish | Water-dwelling creatures |
 | `shalumi` | salmon | Silver-bodied swimmer of clean waters |
 | `shelu` | book | tangible objects that can be held, carried, and preserved |
-| `shena` | calm | Absence of turbulence |
+| `shena` | calm | low turbulence in water or breath |
+| `sheru` | slow | a low rate of bodily or material movement |
 | `sholu` | complete | All parts present |
 | `shonui` | ear | Organ of hearing |
 | `shonuwa` | sound | The heard category |
@@ -1745,7 +1746,7 @@
 | `wapho` | throw | The arm's arc and letting go |
 | `wapi` | fly | Lift and wingbeat |
 | `wapile` | wing | The bird's instrument |
-| `weilo` | balanced | Equilibrium |
+| `weilo` | balanced | equilibrium among weights or forces |
 | `welathi` | contagious | transmission capability under stated bodily and environmental conditions |
 | `welira` | thrive | Healthy, successful development |
 | `welisha` | color | The washed surface of seeing |
@@ -1773,7 +1774,7 @@
 | `whoa` | whole | bodily and tangible completeness |
 | `whunei` | breathe | Air cycle sustaining life |
 | `wilemo` | toy | The crafted companion |
-| `wipha` | restless | Excess energy |
+| `wipha` | restless | recurrent movement or an urge to move |
 | `wiralu` | runoff | a mobile body of surface water that may carry material |
 | `wirua` | wet | liquid coating a surface or absorbed into a material |
 | `wishe` | swim | Motion through water |
@@ -1825,7 +1826,7 @@
 | `whola` | invite | involves ceremonial protocols and formal gestures of welcome |
 | `whunei` | breathe | Central to meditation practice |
 
-## spatial (152)
+## spatial (151)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1881,7 +1882,6 @@
 | `moru` | wall | Vertical barrier |
 | `mulu` | low | position near the lower end of a vertical scale |
 | `muneki` | latrine | a bounded sanitation area in or near a dwelling |
-| `mureo` | stable | Resistant to change |
 | `muwi` | interior | Inner space |
 | `natu` | pull | Motion gathered homeward |
 | `nila` | see | visual awareness of space, distance, and form |
@@ -1982,7 +1982,7 @@
 | `womuri` | household | daily life organized around a dwelling |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (171)
+## temporal (172)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2009,7 +2009,7 @@
 | `kerithe` | ice | Winter's solid form |
 | `keshoa` | reptile | Deep time lineage |
 | `kirua` | sand | Product of deep time |
-| `kolu` | steady | Even and continuous |
+| `kolu` | steady | regularity maintained across an interval |
 | `koluri` | reliable | consistent performance across a stated duration |
 | `korei` | fulfill | Completion |
 | `kuramo` | drought | a condition defined partly by prolonged duration |
@@ -2047,6 +2047,7 @@
 | `mu` | zero | zero in a counted span and metaphorical pauses between events |
 | `muero` | autumn | Harvest season |
 | `mukesi` | spoil | condition worsening during storage or delay |
+| `mureo` | stable | a system or condition that persists through ordinary variation |
 | `murethi` | impairment | a function that may be temporary, lasting, or variable |
 | `nelore` | preserve | Maintaining across time |
 | `neparu` | cloud | Symbol of impermanence |
@@ -2080,7 +2081,7 @@
 | `phomila` | offspring | represents future generations and continuity through time |
 | `phuro` | renew | Cycling from depleted to fresh |
 | `rashelo` | run | movement expressing urgency or time-sensitive response |
-| `reshi` | fast | High speed |
+| `reshi` | fast | an action or change that proceeds quickly |
 | `rihe` | rise | The shape of beginnings |
 | `ritako` | workload | work considered over a stated interval |
 | `rolu` | wheel | Cyclical motion |
@@ -2097,7 +2098,7 @@
 | `sheli` | impatient | Rushing |
 | `shemu` | moment | Brief duration |
 | `shero` | night | Dark hours |
-| `sheru` | slow | Unhurried pace |
+| `sheru` | slow | an action or change that proceeds slowly |
 | `shila` | winter | Rest season |
 | `shimalo` | discipline | shapes growth through sustained gentle effort |
 | `sileta` | sun | an observable marker of days and seasons |
@@ -2158,7 +2159,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (196)
+## wisdom (194)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2206,7 +2207,6 @@
 | `manolu` | stay | patient presence bringing understanding |
 | `meilo` | sit | sitting meditation as practice for cultivating mindful awareness |
 | `menua` | counselor | Advisory presence |
-| `moesha` | still | Calm presence |
 | `moluki` | transform | Understanding deep change as possible |
 | `mosha` | period | Bounded duration |
 | `motha` | foundation | Essential support |
@@ -2280,7 +2280,6 @@
 | `shea` | peace | requires understanding and active cultivation |
 | `sheluo` | listen | involves mindful awareness and receptive presence |
 | `shemu` | moment | Present experience |
-| `sheru` | slow | Deliberate movement |
 | `shewo` | true | Reality correspondence |
 | `shiloa` | pure | requires understanding of essential nature |
 | `shimalo` | discipline | aligns actions with deeper intentions through skillful training |
@@ -2341,7 +2340,7 @@
 | `tumeki` | root | Foundation and origin |
 | `waeli` | conscious | Awakened quality |
 | `waeshi` | wild | Natural freedom |
-| `weilo` | balanced | Proper proportion |
+| `weilo` | balanced | workable proportion among competing needs or considerations |
 | `welao` | good | discernment of beneficial quality |
 | `weloni` | body | The first foundation of mindfulness |
 | `welua` | fragile | Requiring care |

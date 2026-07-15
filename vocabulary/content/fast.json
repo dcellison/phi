@@ -7,16 +7,22 @@
     "shi"
   ],
   "pos": "adjective",
-  "concept": "Fast / Moving Quickly / Happening Rapidly",
-  "description": "Moving or capable of moving at high speed; happening in a short time. 'Reshi' names the quality of speed—rapid movement, quick occurrence.",
-  "sound_symbolism": "The word moves swiftly. 'Re' releases with quick energy, motion initiated. Then 'shi' /ʃi/ rushes past, speed achieved.",
-  "grammatical_notes": "Functions as an adjective: 'reshi luphore' (fast river). Opposite of 'sheru' (slow). Phi philosophy generally favors slowness, but speed has its place in appropriate contexts.",
-  "pillars": {
-    "solarpunk-values": "Fast adaptation enables resilience—communities that respond quickly to change can survive disruption.",
-    "pre-industrial-wisdom": "Pre-industrial life needed speed in its place: quick action when the river rose, swift help for the hurt. 'Reshi' names that kind of fast."
-  },
+  "search_terms": [
+    "quick",
+    "rapid"
+  ],
+  "description": "A river in flood can be 'reshi', and so can a reply that arrives quickly. The word gives a high rate of movement or change. Care and attention are separate qualities. 'sheru' (slow) gives a lower rate, while 'kolu' (steady) tells whether that rate varies.",
+  "articulatory_notes": "Begin with a tap or short trill for 'r' and move into true-mid front 'e'. Raise the tongue blade toward the postalveolar region for voiceless 'sh', then lift into high-front unrounded 'i'. Stress falls on 're'.",
+  "sound_symbolism": "A tap gives way to a narrow fricative in two compact beats. That brisk passage can echo speed.",
+  "usage_notes": "'reshi wepu' means go quickly; 'reshi tapu' means close quickly. In both, the adjective stands before the verb as manner.",
+  "examples": [
+    {
+      "phi": "luphore reshi nai.",
+      "translation": "The river is fast."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Rapid movement",
-    "temporal": "High speed"
+    "physical": "a high rate of bodily or material movement",
+    "temporal": "an action or change that proceeds quickly"
   }
 }

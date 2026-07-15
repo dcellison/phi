@@ -8,16 +8,22 @@
     "lo"
   ],
   "pos": "adjective",
-  "concept": "Balanced / In Equilibrium / Properly Proportioned",
-  "description": "Keeping or showing a steady and even distribution; having different elements in proper proportion. 'Weilo' names the quality of balance—neither excess nor deficiency, all parts in right relation.",
-  "sound_symbolism": "The word finds center. 'We' opens with even awareness, attention distributed. The vowel 'i' finds the center point, equilibrium located. Then 'lo' settles into stability, balance held.",
-  "grammatical_notes": "Functions as an adjective: 'weilo lioru' (balanced life). Related to 'koru' (harmonious) but emphasizes equal distribution rather than pleasing unity.",
-  "pillars": {
-    "solarpunk-values": "Balanced systems sustain themselves—taking only what can be replenished, giving what is needed.",
-    "secular-buddhist-philosophy": "The Middle Way seeks balance—avoiding extremes of indulgence and denial."
-  },
+  "search_terms": [
+    "in equilibrium",
+    "evenly distributed",
+    "well-proportioned"
+  ],
+  "description": "A tool that sits evenly in the hand is 'weilo'. A plan can be 'weilo' when it gives competing needs workable weight. The word covers physical equilibrium and workable proportion. 'mureo' (stable) concerns endurance under disturbance, while 'koru' (harmonious) concerns how parts fit together.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then unround into true-mid front 'e'. Keep the following high-front 'i' as a separate stressed syllable. The tongue tip touches the alveolar ridge for lateral 'l' before rounded mid-back 'o'.",
+  "usage_notes": "A balanced tool is 'weilo tenoa'; a balanced life is 'weilo lioru'. Balance may use unequal parts when their effects counter one another; 'kolo' (equal) states equality instead.",
+  "examples": [
+    {
+      "phi": "tenoa weilo nai.",
+      "translation": "The tool is balanced."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Equilibrium",
-    "wisdom": "Proper proportion"
+    "physical": "equilibrium among weights or forces",
+    "wisdom": "workable proportion among competing needs or considerations"
   }
 }
