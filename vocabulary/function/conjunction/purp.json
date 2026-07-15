@@ -7,14 +7,26 @@
     "la"
   ],
   "pos": "conjunction",
-  "concept": "For / In order to / Purpose",
-  "description": "A subordinating conjunction that introduces clauses of purpose, linking an action to the intention behind it. Where causal conjunctions look back to reasons, 'lila' looks forward to aims. It marks conscious intention only, never unintended results.",
-  "sound_symbolism": "The word's perfect reduplication creates its own meaning: 'li' flows into 'la', the tongue making the same liquid movement twice, like a river running over smooth stones. This repetition is purpose made audible—the first 'li' initiates intention, the second 'la' carries it forward into manifestation. The liquid consonant 'l' itself embodies flow and connection, never stopping the breath but directing it, just as purpose directs action without constraining it. Speaking 'lila' requires the tongue to dance the same dance twice, teaching through articulation that purpose is not a single decision but a continuous alignment.",
-  "grammatical_notes": "Functions as a subordinating conjunction introducing purpose clauses. Unlike causal conjunctions that look backward to reasons, 'lila' looks forward to intentions. The subordinate clause typically follows the main clause, showing action flowing toward purpose. Example: 'mia theo lila mia shonela' (I read in order to learn). Cannot be used for unintended consequences—it specifically marks conscious intention rather than mere result.",
+  "search_terms": [
+    "in order to",
+    "so that",
+    "purpose",
+    "as to"
+  ],
+  "description": "'lila' introduces an intended outcome. English often renders it as in order to, so that, or as to. Unlike 'lao' (BECAUSE), it relates an action to an agent's purpose; an unintended result takes causal wording instead.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and let voiced air escape along both sides as the tongue rises into high-front unrounded 'i'. Repeat the lateral contact, then lower the jaw into open central 'a'. Stress 'li'.",
+  "usage_notes": "The purpose clause normally follows the action it explains. In the construction 'S lila V ralu nai', the form frames an action as the respect in which the subject is free; this is Phi's regular expression of 'need not'.",
+  "examples": [
+    {
+      "phi": "mia theo lila mia shonela.",
+      "translation": "I read in order to learn."
+    },
+    {
+      "phi": "thia lila wepu ralu nai.",
+      "translation": "You need not go."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Every sustainable system connects present actions to future flourishing. 'Lila' embodies this long-term thinking, linking what we do now to what we hope to cultivate. It's the grammatical expression of designing for seven generations ahead.",
-    "secular-buddhist-philosophy": "The word embodies Right Intention, the second step of the Noble Eightfold Path. By grammaticalizing the link between action and purpose, 'lila' encourages speakers to maintain awareness of their intentions, transforming unconscious behavior into mindful choice.",
-    "peace-linguistics-practices": "By making intentions explicit, 'lila' reduces misunderstandings that arise from hidden agendas or assumed purposes. It enables speakers to clearly express why they act, creating transparency that builds trust and prevents conflict born of misaligned expectations.",
-    "pre-industrial-wisdom": "Traditional knowledge systems deeply understood purpose—every tool shaped for specific use, every ritual serving community needs, every season's work directed toward survival and thriving. 'Lila' carries this understanding that meaningful action arises from clear intention."
+    "secular-buddhist-philosophy": "Right Intention asks how an aim relates to an action. 'lila' places that aim beside the action in the clause itself."
   }
 }

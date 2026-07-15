@@ -7,13 +7,23 @@
     "o"
   ],
   "pos": "conjunction",
-  "concept": "After / Following / Subsequent",
-  "description": "A temporal subordinating conjunction, English 'after'. The clause it introduces names the earlier event and comes first; the main clause names what follows.",
-  "sound_symbolism": "The word begins with 'phe', where the soft bilabial fricative 'ɸ' is formed by barely parted lips releasing breath—the gentlest possible consonant, like time itself passing. This breathy beginning suggests the ethereal nature of temporal boundaries. The vowel progression from 'e' to 'o' mirrors temporal flow: the focused 'e' represents a specific moment in time, which then opens into the rounded 'o', suggesting the expansive consequences that follow. This phonetic journey from point to openness embodies how events ripple outward through time.",
-  "grammatical_notes": "Functions as a subordinating conjunction, creating temporal dependency between clauses. The subordinate clause introduced by 'pheo' provides temporal context for the main clause and comes first, announcing the temporal frame before delivering the event. Example: 'pheo mia kealo mia shea phaelo' (After I create, I feel peace). Like the other clause-relators, 'pheo' also stands over counted time noun phrases (the temporal-distance ruling, settled 2026-07-06): 'mia pheo wi philo so shua' (I will come in two days), the phrase in the ordinary adjunct slot, with future 'so' on the verb pointing the direction. Taught in manual ch15 and ch20.",
-  "pillars": {
-    "solarpunk-values": "The conjunction serves long-term thinking essential to sustainable design—understanding what comes after our interventions, how today's choices shape tomorrow's possibilities. 'Pheo' enables speakers to trace consequences forward, supporting the solarpunk practice of designing for regeneration rather than extraction.",
-    "secular-buddhist-philosophy": "The word manifests the teaching of dependent origination—phenomena arise not in isolation but in sequence, each moment conditioned by what preceded it. 'Pheo' grammaticalizes karma in its most basic sense: actions have consequences that unfold through time.",
-    "pre-industrial-wisdom": "In cyclical time, 'after' can mark a return as well as a step forward: after winter, spring, and after spring, winter again. 'Pheo' serves both readings."
-  }
+  "search_terms": [
+    "after",
+    "following",
+    "later"
+  ],
+  "description": "'pheo' orders two events as after. The dependent clause following it gives the earlier event, and the main clause gives what happens later. With a counted duration, it places an event that many units in the future.",
+  "articulatory_notes": "Bring the lips close together and pass unvoiced air through the narrow opening for 'ph', then spread them slightly for unrounded front 'e' at middle height. Keep the vowels in separate syllables as the tongue draws back and the lips round for mid-back 'o'. Stress 'phe'.",
+  "sound_symbolism": "The reversed vowel order of 'pheo' and 'phoe' (ANT) makes the temporal pair audible. Their mirror is a mnemonic for opposite temporal ordering; the vowels themselves carry their ordinary sounds.",
+  "usage_notes": "A dependent clause opened by 'pheo' ends at its verb and needs no closer; the main clause follows. A counted duration occupies the ordinary adjunct position, and 'so' (FUT) on the main verb points forward from now.",
+  "examples": [
+    {
+      "phi": "pheo mia to theo mia shea phaelo.",
+      "translation": "After I read, I feel peace."
+    },
+    {
+      "phi": "mia pheo wi philo so shua.",
+      "translation": "I will come in two days."
+    }
+  ]
 }

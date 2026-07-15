@@ -7,13 +7,25 @@
     "na"
   ],
   "pos": "conjunction",
-  "concept": "But / However / Contrast",
-  "description": "An adversative coordinating conjunction that introduces contrast or exception without negating what came before. Both coordinated statements stay true; 'thona' marks the difference between them.",
-  "sound_symbolism": "The word begins with 'tho', where the thoughtful fricative 'θ' requires the tongue to carefully position itself between the teeth—a physical pause that mirrors the mental shift required when encountering contrast. This deliberate articulation creates space for reconsideration without rejection. The second syllable 'na' provides grounding through its nasal resonance, anchoring the contrasting idea in solid reality rather than leaving it floating as mere opposition. Together, the sounds move from thoughtful consideration to grounded acceptance, teaching speakers to embrace complexity rather than demand simplicity.",
-  "grammatical_notes": "Functions as a pure adversative conjunction, coordinating clauses of equal grammatical status while marking semantic contrast. Unlike some languages where adversative conjunctions can subordinate, 'thona' maintains strict coordination. It cannot begin a sentence (unlike English 'But...') as it requires a preceding element to contrast with. The contrast it marks is semantic rather than logical—both coordinated elements remain true, but their relationship requires acknowledgment of difference. Example: 'mia lothea shelomu thona shia ma shelomu' (I understand love, but the other does not).",
+  "search_terms": [
+    "but",
+    "contrast",
+    "adversative"
+  ],
+  "description": "'thona' places two equally ranked elements in contrast: Phi's 'but'. Both remain asserted, but the second sits against an expectation or tendency raised by the first. 'whekai' (CONTR) handles a turn between sentences; 'thona' keeps the contrast inside one coordination.",
+  "articulatory_notes": "Extend the tongue tip slightly between the teeth and pass unvoiced air around it for 'th', then withdraw into rounded mid-back 'o'. Set the tip against the upper front teeth for voiced dental 'n' and keep the air nasal as the mouth opens onto central 'a'. Stress 'tho'.",
+  "usage_notes": "'thona' stands between the words, phrases, or clauses it coordinates. A contrast that begins after a period takes the discourse marker 'whekai' (CONTR) instead.",
+  "examples": [
+    {
+      "phi": "mia shelomu thona thia ma shelomu.",
+      "translation": "I understand, but you do not."
+    },
+    {
+      "phi": "sileta sulae nai thona howeli pelui nai.",
+      "translation": "The sun is warm, but the wind is cold."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The word manifests the Middle Way teaching—reality is rarely either/or but more often both/and. 'Thona' grammaticalizes the wisdom of holding paradox, acknowledging that truth often lies not in choosing sides but in understanding how apparent opposites relate and inform each other.",
-    "peace-linguistics-practices": "Where aggressive speech creates opposition, 'thona' creates distinction. It embodies the practice of 'yes, and' thinking, allowing different perspectives to coexist without cancellation. This conjunction refuses the violence of negation, instead making space for complexity and nuance in dialogue.",
-    "pre-industrial-wisdom": "Traditional knowledge holds apparent contradictions as complementary truths—the sea gives life but takes it, fire warms but burns. 'Thona' carries this understanding that wisdom often requires acknowledging both aspects of dual-natured phenomena without resolving the tension."
+    "peace-linguistics-practices": "A local contrast with 'thona' keeps the first assertion present while the second qualifies it. The speaker marks that relationship instead of leaving the listener to guess."
   }
 }
