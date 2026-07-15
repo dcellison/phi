@@ -1,0 +1,32 @@
+{
+  "word": "hirawo",
+  "gloss": "distance",
+  "ipa": "/hi.ˈrä.wo̞/",
+  "syllables": [
+    "hi",
+    "ra",
+    "wo"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "spatial distance",
+    "separation"
+  ],
+  "description": "Two villages have a 'hirawo' even before anyone calls them near or far. It is the spatial separation between referents, considered directly rather than by the length of a chosen route or the time and effort needed to travel it. 'noshi' and 'wuero' judge the separation as near or far.",
+  "articulatory_notes": "Begin with voiceless 'h' at the glottis and let the breath pass into high-front 'i'. Make a tap or short trill at the alveolar ridge for 'r', then release into stressed open central 'a'. Round the lips and raise the back of the tongue for voiced 'w', then settle into rounded true-mid back 'o'.",
+  "sound_symbolism": "The vowels begin high and front, cross open central space, and finish rounded at the back. By the final 'o', the word has travelled through much of the mouth's vowel space. Its articulation has covered some ground.",
+  "usage_notes": "'hirawo' names spatial separation before the speaker decides whether it is near or far. 'waleru' gives the length of an object, path, or route; travel time is a different fact. A map or exact unit stays in the surrounding source material when its form matters.",
+  "examples": [
+    {
+      "phi": "shia thei wi silawo hirawo masue.",
+      "translation": "They measure the distance between the two villages."
+    },
+    {
+      "phi": "wi silawo hirawo ma helui.",
+      "translation": "The distance between the two villages does not change."
+    }
+  ],
+  "semantic_domains": {
+    "spatial": "separation between places, objects, or other spatial referents"
+  }
+}

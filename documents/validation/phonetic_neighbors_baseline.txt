@@ -2,11 +2,11 @@
 # score	unit_edits	left	left_gloss	left_kind	right	right_gloss	right_kind	corpus_attestations
 0.47	1	mia	1SG	function	mea	thanks	interjection	1739
 0.47	1	lu	COND	function	lo	PL	function	1556
-0.47	1	shea	peace	content	shia	3SG	function	1417
+0.47	1	shea	peace	content	shia	3SG	function	1419
 0.47	1	nila	see	content	nela	COORD	function	659
 0.47	1	so	FUT	function	su	OPT	function	368
 0.47	1	sholu	complete	content	sholo	QUOT.COMP.CLOSE	function	274
-0.47	1	wi	two	content	we	ALSO	function	252
+0.47	1	wi	two	content	we	ALSO	function	258
 0.47	1	ro	HAB	function	ru	INTS	function	233
 0.47	1	mu	zero	content	mo	CMPR	function	229
 0.47	1	ke	INFER	function	ki	PFV	function	207
@@ -43,7 +43,7 @@
 0.47	1	shelu	book	content	shelo	signify	content	67
 0.47	1	shilu	blue	content	shelu	book	content	67
 0.47	1	keru	bright	content	kiru	chisel	content	57
-0.47	1	kolo	equal	content	kulo	guide	content	53
+0.47	1	kolo	equal	content	kulo	guide	content	57
 0.47	1	menua	counselor	content	menoa	face	content	46
 0.47	1	kima	scribe	content	kema	strong	content	43
 0.47	1	thero	fire	content	theru	thick	content	43
@@ -56,12 +56,12 @@
 0.47	1	phui	flute	content	phue	wise	content	27
 0.47	1	solae	explain	content	solai	gold	content	22
 0.47	1	kenua	energy	content	kenoa	hemp	content	21
+0.47	1	kolo	equal	content	kolu	steady	content	20
 0.47	1	seru	commit	content	siru	marker	content	20
 0.47	1	helui	change	content	heloi	generous	content	18
 0.47	1	solai	gold	content	sulai	musician	content	18
 0.47	1	tisu	needle	content	tiso	sharp	content	18
 0.47	1	kirua	sand	content	kiroa	sign	content	16
-0.47	1	kolo	equal	content	kolu	steady	content	16
 0.47	1	palu	plate	content	palo	touch	content	16
 0.47	1	kori	leather	content	kuri	right	content	14
 0.47	1	luwi	flexible	content	lowi	vine	content	14
@@ -78,12 +78,12 @@
 0.47	1	pheru	endure	content	phero	fern	content	8
 0.47	1	sheloa	bloom	content	shiloa	pure	content	8
 0.47	1	thonai	responsible	content	thunai	student	content	8
+0.47	1	lunai	vision	content	lonai	width	content	6
 0.47	1	heru	herb	content	hiru	intuit	content	5
 0.47	1	kolai	pigment	content	kulai	tooth	content	5
 0.47	1	lumira	descendant	content	lumera	nourish	content	5
-0.47	1	lunai	vision	content	lonai	width	content	5
 0.47	1	tesu	iron	content	tisu	needle	content	5
-0.47	1	lonae	respond	content	lonai	width	content	3
+0.47	1	lonae	respond	content	lonai	width	content	4
 0.47	1	moeli	hearth	content	mueli	plain (unadorned)	content	3
 0.47	1	welua	fragile	content	weloa	loom	content	3
 0.47	1	wero	honest	content	weru	poet	content	3
@@ -94,11 +94,11 @@
 0.47	1	thorai	bless	content	thorae	facilitator	content	1
 0.47	1	thorai	bless	content	thurai	vibrant	content	1
 0.50	1	po	POT	function	to	PST	function	2080
-0.50	1	thia	2SG	function	shia	3SG	function	1884
+0.50	1	thia	2SG	function	shia	3SG	function	1886
 0.50	1	ko	FOC	function	to	PST	function	1874
 0.50	1	nia	ON	function	mia	1SG	function	1805
-0.50	1	sa	HON.RESPECT	function	ha	PROX	function	699
-0.50	1	na	NEC	function	ma	NEG	function	607
+0.50	1	sa	HON.RESPECT	function	ha	PROX	function	701
+0.50	1	na	NEC	function	ma	NEG	function	608
 0.50	1	nua	COM	function	mua	LOC	function	488
 0.50	1	ta	one	content	ka	CAUS	function	467
 0.50	1	ta	one	content	pa	INCH	function	361
@@ -142,14 +142,14 @@
 0.50	1	thenoi	falls-short	content	henoi	ENOUGH	function	32
 0.50	1	pheno	full	content	sheno	ADD	function	28
 0.50	1	thua	fair	content	sua	who	function	24
+0.50	1	phei	AWAY	function	thei	BETWEEN	function	21
 0.50	1	kua	where	function	tua	no	interjection	20
-0.50	1	phei	AWAY	function	thei	BETWEEN	function	19
 0.50	1	shela	art	content	thela	how	function	19
 0.50	1	thoa	AMONG	function	soa	sorry	interjection	19
 0.50	1	heno	satisfy	content	sheno	ADD	function	18
 0.50	1	whoa	whole	content	thoa	AMONG	function	15
+0.50	1	thei	BETWEEN	function	hei	hey	interjection	14
 0.50	1	shai	CONC	function	sai	ouch	interjection	13
-0.50	1	thei	BETWEEN	function	hei	hey	interjection	12
 0.50	1	phei	AWAY	function	hei	hey	interjection	9
 0.50	1	wemo	plain	content	weno	when	function	8
 0.50	1	sheli	impatient	content	theli	EACH	function	2
@@ -212,10 +212,10 @@
 0.50	1	wemi	ally	content	weni	imagine	content	33
 0.50	1	telua	accurate	content	kelua	morning	content	32
 0.50	1	thola	bring	content	hola	laugh	content	30
+0.50	1	wetha	cloth	content	wesha	lazy	content	30
 0.50	1	phoi	nine-group	content	hoi	onward	interjection	29
 0.50	1	thelomi	lake	content	selomi	weave	content	29
 0.50	1	kelua	morning	content	pelua	paper	content	28
-0.50	1	wetha	cloth	content	wesha	lazy	content	28
 0.50	1	norae	method	content	morae	sense	content	26
 0.50	1	whila	hair	content	shila	winter	content	26
 0.50	1	nuwi	clear	content	muwi	interior	content	24

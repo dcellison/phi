@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1177 words.*
+*1180 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -48,6 +48,7 @@
 | `hina` | what | /ˈhi.n̪ä/ | interrogative |
 | `hinawu` | accommodate | /hi.ˈn̪ä.wu/ | verb |
 | `hinolu` | adapt | /hi.ˈn̪o̞.lu/ | verb |
+| `hirawo` | distance | /hi.ˈrä.wo̞/ | noun |
 | `hiru` | intuit | /ˈhi.ru/ | verb |
 | `hisae` | skin | /hi.ˈsä.e̞/ | noun |
 | `hisaro` | clinical finding | /hi.ˈsä.ro̞/ | noun |
@@ -657,6 +658,7 @@
 | `pisha` | split | /ˈpi.ʃä/ | verb |
 | `po` | POT | /ˈpo̞/ | particle |
 | `pokera` | competent | /po̞.ˈke̞.rä/ | adjective |
+| `ponalu` | size | /po̞.ˈn̪ä.lu/ | noun |
 | `ponu` | door | /ˈpo̞.n̪u/ | noun |
 | `porewi` | side effect | /po̞.ˈre̞.wi/ | noun |
 | `poru` | productive | /ˈpo̞.ru/ | adjective |
@@ -1074,6 +1076,7 @@
 | `waero` | sky | /wä.ˈe̞.ro̞/ | noun |
 | `waeshi` | wild | /wä.ˈe̞.ʃi/ | adjective |
 | `wakomi` | surprise | /wä.ˈko̞.mi/ | verb |
+| `waleru` | length | /wä.ˈle̞.ru/ | noun |
 | `wao` | wow | /ˈwä.o̞/ | interjection |
 | `waora` | wondrous | /wä.ˈo̞.rä/ | adjective |
 | `wapho` | throw | /ˈwä.ɸo̞/ | verb |

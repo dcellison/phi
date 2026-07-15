@@ -121,8 +121,8 @@ fausboll: "either feeble or strong,"
 (Those who are long or those who are very large.)
 fausboll: "all either long or great,"
 
-[rena kesho whalo phelu] sola [rena teku nai].
-[REL middle large hold] DISJ [REL short be].
+[rena kesho ponalu phelu] sola [rena teku nai].
+[REL middle size hold] DISJ [REL short be].
 (Those who have middle size or those who are short.)
 fausboll: "middle-sized, short,"
 
@@ -132,7 +132,7 @@ fausboll: "middle-sized, short,"
 fausboll: "small or large,"
 ```
 
-**Notes:** `welua` means fragile, not feeble. The new line therefore composes feebleness as having little strength and leaves fragility out of the verse. Fausböll uses both "great" and "large." Phi distinguishes them here by degree: `ru whalo`, very large, for the first and plain `whalo` for the second. The quality-noun rule makes middle size `kesho whalo`, middle largeness.
+**Notes:** `welua` means fragile, not feeble, so feebleness is composed as having little strength. Fausböll then uses both "great" and "large." Phi distinguishes them by degree: `ru whalo`, very large, carries the first and plain `whalo` the second. The neutral noun lets `kesho ponalu` say middle size without calling the creature large.
 
 ### Verse 5: Seen and unseen
 
@@ -289,7 +289,7 @@ su theula limoe siora korua phelu.
 theula lima limoe.
 [rena phina puro phelu] sola [rena kema nai].
 [rena laeno nai] sola [rena ru whalo nai].
-[rena kesho whalo phelu] sola [rena teku nai].
+[rena kesho ponalu phelu] sola [rena teku nai].
 [rena thiku nai] sola [rena whalo nai].
 
 [rena se nila] sola [rena se ma nila].
