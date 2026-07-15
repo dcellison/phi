@@ -8,16 +8,27 @@
     "e"
   ],
   "pos": "adjective",
-  "concept": "Radiant / Shining Outward / Emanating Light",
-  "description": "Sending out light; shining brightly; emanating joy or health. 'Horae' names the quality of shining forth—light that reaches outward, beauty that cannot be contained, inner glow made visible.",
-  "sound_symbolism": "The word shines outward. 'Ho' begins with open breath, warmth released. Then 'ra' radiates in all directions, light spreading. Finally 'e' opens to completion, the radiance fully expressed.",
-  "grammatical_notes": "Adjective before a noun: 'horae horathe' (radiant dawn). Compare 'sileta' (sun), which names the object rather than its radiance.",
+  "search_terms": [
+    "shining",
+    "beaming",
+    "glowing outward"
+  ],
+  "description": "Dawn is 'horae' when light appears to stream from it, and a face can be radiant when delight is plainly visible. The adjective presents brightness as something reaching outward. 'pholuo' (luminous) suits steady or diffused light, while 'keru' (bright) states intensity.",
+  "articulatory_notes": "Let voiceless air pass through the open glottis for 'h', then draw the tongue back and round the lips for true-mid back 'o'. Make a tap or short trill at the alveolar ridge for 'r' and open into stressed central 'a'. Preserve the hiatus as the tongue moves forward and the lips remain unrounded for final true-mid front 'e'.",
+  "sound_symbolism": "The word begins in open breath, touches 'r', and then spreads across the 'a.e' hiatus. Its widening final motion can recall light moving beyond its source.",
+  "usage_notes": "'horae' applies when the outward appearance of light, delight, or health is the point. It reports what can be perceived while leaving the cause of a person's appearance open.",
+  "examples": [
+    {
+      "phi": "horathe horae nai.",
+      "translation": "The dawn is radiant."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Radiant energy from the sun powers sustainable life—the original source freely giving light to all.",
-    "secular-buddhist-philosophy": "Radiance arises from inner clarity—when the mind is clear, its light naturally shines forth."
+    "art-nouveau-aesthetics": "Coloured glass can make a window appear to send light into the room. 'horae' describes that outward reach, whether the source is sunlight or a lamp."
   },
   "semantic_domains": {
-    "aesthetic": "Light-emanating",
-    "emotion": "Glowing quality"
+    "aesthetic": "light or visible delight perceived as spreading outward",
+    "emotion": "delight made visible in a face or manner",
+    "physical": "light visibly extending from a source"
   }
 }

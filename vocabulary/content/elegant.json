@@ -7,16 +7,24 @@
     "ro"
   ],
   "pos": "adjective",
-  "concept": "Elegant / Refined / Pleasingly Graceful",
-  "description": "Pleasingly graceful and stylish in appearance or manner; refined and tasteful. 'Phiro' names beauty shaped by taste and care—the polish that comes from attention.",
-  "sound_symbolism": "The word carries refined poise. 'Phi' /ɸi/ begins with soft precision, breath shaped carefully. Then 'ro' holds steady presence, the elegant composure.",
-  "grammatical_notes": "Functions as an adjective: 'phiro thepalu' (elegant garden). Related to 'luwae' (graceful) but emphasizes refinement and taste rather than natural flow.",
+  "search_terms": [
+    "refined",
+    "understated"
+  ],
+  "description": "An arrangement is 'phiro' when careful proportion and economy make it feel refined. A garden path may earn the word because each turn seems considered, while a quiet piece of joinery may earn it by leaving no clumsy joint to catch the eye. 'mioru' (beautiful) gives the broader aesthetic judgement, while 'luwae' (graceful) follows movement and flowing form.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass voiceless air through the gap for 'ph', then raise the tongue into high-front unrounded 'i'. Make a tap or short trill at the alveolar ridge for 'r' and finish with rounded true-mid back 'o'. Stress falls on 'phi'.",
+  "sound_symbolism": "The narrow, breathy opening gives way to one rounded syllable and stops cleanly. That compact contour recalls a form refined until nothing protrudes by accident.",
+  "usage_notes": "The adjective works for appearance and manner. A solution whose arrangement shows restraint may also be 'phiro'. 'mioru' covers beauty more broadly, and 'kiro' (precise) deals with exactness.",
+  "examples": [
+    {
+      "phi": "thepalu phiro nai.",
+      "translation": "The garden is elegant."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "True elegance arises from simplicity—the refined quality that remains when all excess is removed.",
-    "art-nouveau-aesthetics": "Elegance combines beauty with intention—Art Nouveau sought forms that were both natural and refined."
+    "art-nouveau-aesthetics": "Art Nouveau joinery and ornament often let one line answer another. 'phiro' fits the refinement of that relation, not ornament merely because it is elaborate."
   },
   "semantic_domains": {
-    "aesthetic": "Refined beauty",
-    "wisdom": "Tasteful quality"
+    "aesthetic": "refinement perceived in the proportion, economy, or manner of a form"
   }
 }

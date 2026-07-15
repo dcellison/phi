@@ -8,16 +8,30 @@
     "e"
   ],
   "pos": "adjective",
-  "concept": "Graceful / Moving with Elegance / Fluid in Motion",
-  "description": "Having or showing grace, elegance, and beauty of movement or form. 'Luwae' names the quality of beautiful flow—movement that delights the eye, form that pleases without effort, the natural elegance of living things.",
-  "sound_symbolism": "The word has no stops and no fricatives: the liquid 'l' begins the motion, the glide 'w' carries it forward, and the final 'a' and 'e' meet in open hiatus, letting the movement end without an edge.",
-  "grammatical_notes": "Functions as an adjective: 'luwae phero' (graceful fern). Related to 'phiro' (elegant) but emphasizes movement and flow rather than refined form.",
+  "search_terms": [
+    "fluid",
+    "poised",
+    "flowing"
+  ],
+  "description": "A fern uncurling or a hand turning a bowl can be 'luwae' when the movement flows with control and little visible strain. The adjective also fits a curved form that seems ready to move. 'phiro' (elegant) concerns refinement; 'luwae' follows the line or gesture.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and let voice pass along its sides into rounded high-back 'u'. Round the lips for 'w', then open into stressed central 'a'. Keep final true-mid front 'e' in a separate syllable by moving the tongue forward and releasing the lip rounding after the hiatus.",
+  "sound_symbolism": "No stop interrupts the word. Lateral 'l', gliding 'w', and the open 'a.e' ending let the voice travel through three syllables without a hard edge. The mouth feels the same continuity that the adjective notices in motion.",
+  "usage_notes": "'luwae' follows a motion or gesture, and it can describe a form through its flowing line. It also modifies an action directly, as in 'luwae rotiku' (dance gracefully).",
+  "examples": [
+    {
+      "phi": "phero luwae nai.",
+      "translation": "The fern is graceful."
+    },
+    {
+      "phi": "shia luwae rotiku.",
+      "translation": "They dance gracefully."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Graceful action arises from presence—when fully aware, movement becomes naturally elegant.",
-    "art-nouveau-aesthetics": "Grace was Art Nouveau's guiding principle—the flowing line, the organic curve, beauty in natural movement."
+    "art-nouveau-aesthetics": "The long plant curve and the moving human figure give Art Nouveau recurring uses for 'luwae'. The word attends to the path of the line rather than treating every natural form as graceful."
   },
   "semantic_domains": {
-    "aesthetic": "Beautiful movement",
-    "physical": "Elegant form"
+    "aesthetic": "flowing movement or form perceived as graceful",
+    "physical": "controlled motion with little visible strain or interruption"
   }
 }

@@ -7,16 +7,25 @@
     "ro"
   ],
   "pos": "adjective",
-  "concept": "Serene / Radiantly Calm / Peacefully Clear",
-  "description": "Calm, peaceful, and untroubled. 'Thiro' names a stillness that shows: a serene person or scene settles the people around it. It is stronger than 'shena' (calm).",
-  "sound_symbolism": "The word radiates stillness. 'Thi' /θi/ begins with breath held still, the serene pause. Then 'ro' opens with quiet radiance, peace glowing outward.",
-  "grammatical_notes": "Functions as an adjective: 'thiro norawhi' (serene dusk). More elevated than 'shena' (calm)—implies a quality that extends beyond the self to affect surroundings.",
+  "search_terms": [
+    "composed",
+    "poised calm"
+  ],
+  "description": "A dusk or a person's manner is 'thiro' when calm has settled into visible composure. 'shena' (calm) describes low agitation in the present moment, while 'noalu' (tranquil) describes quiet that has remained undisturbed. 'thiro' adds poise: the calm has a form that can be seen or heard.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth for voiceless dental 'th' and let air pass into high-front unrounded 'i'. Make a tap or short trill at the alveolar ridge for 'r', then draw the tongue back and round the lips for true-mid back 'o'. Stress falls on 'thi'.",
+  "sound_symbolism": "The word keeps voiceless airflow through 'th' before the brief tap of 'r' settles into rounded 'o'. Its two measured syllables can suggest composure without silence.",
+  "usage_notes": "'thiro' stays with a perceivable manner, expression, scene, or work. Each listener's own state remains their own.",
+  "examples": [
+    {
+      "phi": "norawhi thiro nai.",
+      "translation": "The dusk is serene."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Serenity is calm that has deepened into radiance—the peaceful presence that naturally calms others.",
-    "art-nouveau-aesthetics": "Serene beauty was Art Nouveau's highest aim—grace that soothes rather than excites."
+    "secular-buddhist-philosophy": "A settled posture or an even reply may be 'thiro' when composure is actually present. The word describes what is observed without treating serenity as proof of wisdom."
   },
   "semantic_domains": {
-    "aesthetic": "Luminous calm",
-    "emotion": "Radiant peace"
+    "aesthetic": "visible or audible composure in a person, scene, or work",
+    "emotion": "calm settled into a poised manner"
   }
 }

@@ -8,15 +8,26 @@
     "ma"
   ],
   "pos": "adjective",
-  "concept": "Simple / Essential Nature",
-  "description": "The quality of being uncomplicated, essential, and free from unnecessary complexity. Simplicity encompasses the elegance of minimal forms, the clarity that comes from removing excess, and the wisdom of knowing what is enough.",
-  "sound_symbolism": "The clear 'si' cuts through complexity like a blade finding the essential core. The open 'lo' creates spaciousness where only what matters can exist, while the grounding 'ma' provides the stable foundation of truth. This progression from clarity through spaciousness to groundedness mirrors the journey to simplicity - first seeing clearly, then creating space by removing excess, finally resting in essential truth.",
-  "grammatical_notes": "An adjective, similar to Mandarin jiǎndān (简单) and Hindi saral (सरल): 'siloma womu' (a simple home). Simplicity itself — the quality or state — comes by the quality-noun rule.",
+  "search_terms": [
+    "uncomplicated",
+    "few-part",
+    "low complexity"
+  ],
+  "description": "A route is 'siloma' when it has few steps or relations to track, and the same adjective fits a tool or explanation whose arrangement is uncomplicated. 'mueli' (plain) means unadorned; a plain object may still be complex, and a simple one may carry ornament.",
+  "articulatory_notes": "Raise the tongue blade near the alveolar ridge and direct voiceless air through its central groove for 's', then move into high-front unrounded 'i'. Touch the tongue tip to the alveolar ridge for 'l' and release along its sides into stressed rounded true-mid back 'o'. Close the lips for voiced nasal 'm', carry the voice through the nose, and open into final central 'a'.",
+  "sound_symbolism": "Three open syllables proceed through fricative 's', lateral 'l', and nasal 'm' without a cluster or hiatus. The regular sequence gives the word a practical mnemonic for low complexity.",
+  "usage_notes": "'siloma' stays with the number or arrangement of parts, steps, or relations. A simple tool can still be difficult to use; 'welao' (good) and 'theali' (fitting) carry separate judgements.",
+  "examples": [
+    {
+      "phi": "womu siloma nai.",
+      "translation": "The home is simple."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Simplicity as spiritual practice means releasing attachment to complexity, status, and accumulation. This isn't about deprivation but discovering that suffering often comes from unnecessary elaboration - in possessions, thoughts, and relationships. The simple life allows clear seeing of what truly matters: awareness, compassion, and liberation from the burden of excess."
+    "secular-buddhist-philosophy": "Voluntary simplicity can reduce the number of possessions or commitments asking for attention. 'siloma' describes that reduced complexity without turning it into a measure of virtue."
   },
   "semantic_domains": {
-    "aesthetic": "elegance and beauty of minimal forms",
-    "wisdom": "knowing what is enough and seeing clearly"
+    "aesthetic": "few-part or minimally arranged form",
+    "wisdom": "deliberate reduction of complexity where fewer parts make attention easier"
   }
 }

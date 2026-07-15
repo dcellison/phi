@@ -8,16 +8,26 @@
     "e"
   ],
   "pos": "adjective",
-  "concept": "Rich / Full of Quality / Deeply Abundant",
-  "description": "Having wealth or valuable resources; full of interesting or significant quality. 'Simoe' names the quality of deep value—soil rich in nutrients, experiences rich in meaning, lives rich in connection.",
-  "sound_symbolism": "The word fills with value. 'Si' begins saturated, quality present. Then 'mo' holds much, value accumulated. Finally 'e' expands outward, richness evident.",
-  "grammatical_notes": "Functions as an adjective: 'simoe muila' (rich soil). Can describe material wealth but more often describes quality—rich colors, rich flavors, rich experiences.",
+  "search_terms": [
+    "concentrated",
+    "full-bodied",
+    "deep in quality"
+  ],
+  "description": "Soil is 'simoe' when nutrients or living variety are densely present, and the adjective also fits a colour or flavour with noticeable depth. 'lorua' (abundant) says there is plenty; 'simoe' says much is held within what is being sensed or used.",
+  "articulatory_notes": "Raise the tongue blade near the alveolar ridge and direct voiceless air through its central groove for 's', then move into high-front unrounded 'i'. Close the lips for voiced nasal 'm' and carry the voice through the nose into stressed rounded true-mid back 'o'. Preserve the hiatus as the lips unround and the tongue moves forward for final true-mid front 'e'.",
+  "sound_symbolism": "The middle syllable closes at the lips and opens into rounded stressed 'o'. This gives the word a full centre before final 'e' releases that density into a lighter edge.",
+  "usage_notes": "'simoe' belongs to depth or concentration within soil, colour, flavour, or another quality. People are not ranked by their possessions; material quantity is counted or described with words such as 'lorua' (abundant).",
+  "examples": [
+    {
+      "phi": "ha menuro philima simoe nai.",
+      "translation": "This habitat's biodiversity is rich."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Rich colors, rich textures, rich ornamentation—Art Nouveau celebrated sensory abundance and detailed beauty.",
-    "pre-industrial-wisdom": "Rich soil meant everything—the wealth that mattered was fertility, the ability of land to produce life."
+    "pre-industrial-wisdom": "A grower can call soil 'simoe' after seeing what it holds and supports. The judgement stays with the soil's condition rather than becoming a measure of a person's standing."
   },
   "semantic_domains": {
-    "aesthetic": "Full of quality",
-    "nature": "Deeply fertile"
+    "aesthetic": "perceptible depth or concentration in colour, flavour, sound, or texture",
+    "nature": "dense nutrients, organic matter, or living variety in land and habitat"
   }
 }
