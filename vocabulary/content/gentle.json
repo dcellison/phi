@@ -7,16 +7,31 @@
     "li"
   ],
   "pos": "adjective",
-  "concept": "Gentle / Tender / Mild in Action",
-  "description": "Having or showing a mild, kind, or tender temperament; not harsh or severe. 'Moli' names the quality of soft strength—power that does not harm, touch that does not bruise, presence that does not overwhelm.",
-  "sound_symbolism": "The word touches softly. 'Mo' begins with nasal gentleness, lips meeting without force. Then 'li' lightens further, liquid and delicate.",
-  "grammatical_notes": "Functions as an adjective: 'moli sihewa' (gentle breeze). Related to 'wuloe' (soft) but emphasizes manner of action rather than texture. Central to Phi's non-violent vocabulary.",
+  "search_terms": [
+    "mild",
+    "tender",
+    "low in force"
+  ],
+  "description": "A touch, voice, movement, or person is 'moli' when force and pressure are mild enough for the situation; gentleness may accompany kindness, yet a careful technical movement may be gentle without expressing affection. 'wuloe' (soft) belongs to texture or yielding material; 'moli' belongs to manner.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm', carry the voice through the nose, and open into rounded true-mid back 'o'. Touch the tongue tip to the alveolar ridge for 'l', let the voice pass along its sides, and move into high-front unrounded 'i'. Stress falls on 'mo'.",
+  "sound_symbolism": "The lips meet for the nasal and open into rounded 'o', then a light lateral contact lifts towards 'i', like pressure easing from a hand.",
+  "usage_notes": "The quality-noun rule supplies gentleness. Before a verb, 'moli' describes manner, as in 'moli palo' (touch gently), without claiming that the act is kind, welcome, or harmless.",
+  "examples": [
+    {
+      "phi": "shia moli palo.",
+      "translation": "They touch gently."
+    },
+    {
+      "phi": "ha haoni moli nai.",
+      "translation": "This voice is gentle."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Gentle action (ahimsa in practice) touches the world without leaving wounds.",
-    "peace-linguistics-practices": "Gentleness in speech and action is core to non-violent communication—strength expressed without harm."
+    "peace-linguistics-practices": "'moli' lets speech and contact be assessed by the pressure they bring. A gentle manner leaves another person more room to answer or refuse."
   },
   "semantic_domains": {
-    "emotion": "Tender quality",
-    "physical": "Mild in force"
+    "dialogue": "speech delivered with mild pressure or force",
+    "emotion": "a mild and tender manner in relation to others",
+    "physical": "contact or movement kept low in force for its situation"
   }
 }

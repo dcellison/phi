@@ -8,16 +8,27 @@
     "i"
   ],
   "pos": "adjective",
-  "concept": "Responsible / Accountable / Bearing Duty",
-  "description": "Having duty or obligation; being accountable for one's actions and their consequences. 'Thonai' names the weight willingly carried—duty accepted, not imposed.",
-  "sound_symbolism": "The word bears with acceptance. 'Tho' breathes with thoughtful weight, responsibility recognized. 'Na' settles with grounded acceptance, duty taken up. Then 'i' rises to accountable standing.",
-  "grammatical_notes": "Functions as adjective: 'thonai miona' (responsible person). Describes one who honors 'seru' (commit) and acts with 'sorai' (insight).",
+  "search_terms": [
+    "takes responsibility",
+    "willingly responsible",
+    "responsibility"
+  ],
+  "description": "A person or group is 'thonai' when they willingly take a matter as theirs to care for or answer for. A promise, bond, shared holding, or accepted role may ground that responsibility, though the adjective itself leaves the source and scope unstated. 'lothoni' (accountable) adds a requirement to answer under review. 'naseru' (obligation) names a requirement that may be imposed or disputed.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth and let unvoiced air pass for 'th', then draw the tongue back and round the lips for true-mid 'o'. Return the tongue tip to the upper teeth for voiced dental 'n', carry the voice through the nose, and open into stressed central 'a'. Keep final high-front unrounded 'i' in its own syllable across the 'a.i' hiatus.",
+  "sound_symbolism": "The tongue returns to the dental place after rounded 'o', then the word opens through stressed 'a' into a separate final 'i'. Its deliberate three-syllable course lends weight without ending in a hard closure.",
+  "usage_notes": "The quality-noun rule supplies responsibility. A nearby clause identifies the work, relationship, or consequence being taken up. 'thonai kelu' means become responsible, the form used for the fox's teaching in Phi's transmutation of The Little Prince.",
+  "examples": [
+    {
+      "phi": "mia ha riola kelomi. mia thonai nai.",
+      "translation": "I accept this work. I am responsible."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Collective responsibility—each person accountable for community and planet.",
-    "secular-buddhist-philosophy": "Responsibility as karma—recognizing that actions have consequences, choosing wisely."
+    "solarpunk-values": "Responsibility for shared land, tools, or care may be held by several people who take it up together. Institutional accountability remains a separate relation rather than hiding inside goodwill.",
+    "peace-linguistics-practices": "Taking responsibility for repair does not claim sole causation or accept punishment. 'thonai' leaves those further relations available for plain speech."
   },
   "semantic_domains": {
-    "community": "Accountable role",
-    "wisdom": "Duty bearing"
+    "community": "willing acceptance of care or answerability for a shared matter",
+    "wisdom": "recognition that a matter has become one's own to address"
   }
 }

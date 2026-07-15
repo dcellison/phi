@@ -8,16 +8,28 @@
     "sha"
   ],
   "pos": "adjective",
-  "concept": "Compassionate / Feeling With Others / Moved by Suffering",
-  "description": "Feeling or showing concern for others' suffering. 'Ruesha' describes active compassion: being moved to stay present and to help. 'Phena' (kind) is the neighbor for general benevolence; 'ruesha' is specifically a response to suffering.",
-  "sound_symbolism": "The word reaches toward suffering. 'Ru' rolls outward, attention extending. The vowel 'e' opens to another's experience. Then 'sha' /ʃa/ softens into gentle response, compassion flowing.",
-  "grammatical_notes": "Functions as an adjective: 'ruesha wheo' (compassionate elder). Related to 'phena' (kind) but emphasizes response to suffering rather than general benevolence.",
+  "search_terms": [
+    "concerned for suffering",
+    "empathetic",
+    "humane"
+  ],
+  "description": "A person, response, or practice is 'ruesha' when it meets suffering with concern and a wish to ease it. Compassion may stay beside pain when no remedy is known; it does not require a quick solution. 'phena' (kind) covers benevolent conduct more broadly, while 'theama' (care) names work actually done for someone or something.",
+  "articulatory_notes": "Make a tap or short trill at the alveolar ridge for 'r', then raise the back of the tongue and round the lips for high-back 'u'. Release the rounding and move the tongue forward for stressed true-mid 'e' in its own syllable. Raise the tongue blade towards the postalveolar region for unvoiced 'sh', direct air through the narrow channel, and finish with open central 'a'.",
+  "sound_symbolism": "The tap and rounded opening cross a full hiatus into clear 'e', then the final fricative releases as a hush into open 'a'. The contour may recall attention travelling towards pain and arriving softly enough to remain there.",
+  "usage_notes": "The quality-noun rule supplies compassion. A compassionate person may be unable to help, while effective care remains possible without claiming access to another person's inner state.",
+  "examples": [
+    {
+      "phi": "shia ruesha sheluo.",
+      "translation": "They listen compassionately."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Compassion (karuna) is one of the four sublime states—the heart that trembles in response to suffering and wishes to relieve it.",
-    "peace-linguistics-practices": "Compassionate listening receives pain without judgment—creating space for suffering to be witnessed and eased."
+    "secular-buddhist-philosophy": "'ruesha' corresponds to compassion directed towards suffering. Its wish to ease pain remains distinct from certainty about what another person needs.",
+    "peace-linguistics-practices": "Compassionate listening receives an account of pain before advice or defence begins. The adjective holds that orientation without claiming that listening alone repairs the harm."
   },
   "semantic_domains": {
-    "emotion": "Fellow-feeling",
-    "wisdom": "Response to suffering"
+    "community": "concern for suffering that shapes a response to another person",
+    "emotion": "fellow-feeling joined to a wish that suffering ease",
+    "wisdom": "attention that remains with suffering without assuming a quick remedy"
   }
 }

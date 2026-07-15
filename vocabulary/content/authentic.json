@@ -8,16 +8,30 @@
     "mi"
   ],
   "pos": "adjective",
-  "concept": "Authentic / Genuine / True to Self",
-  "description": "Representing one's true nature or beliefs; not false or copied. 'Noemi' names the quality of self-authenticity—being genuinely what one is, without pretense or performance.",
-  "sound_symbolism": "The word rings genuine. 'No' begins with grounded presence, self established. The vowel 'e' opens to expression, truth emerging. Then 'mi' completes with intimate certainty, authenticity confirmed.",
-  "grammatical_notes": "Functions as an adjective: 'noemi haoni' (authentic voice). Related to 'shewo' (true) but emphasizes faithfulness to inner nature rather than correspondence with external reality.",
+  "search_terms": [
+    "true to oneself",
+    "unfeigned",
+    "authenticity"
+  ],
+  "description": "Expression or conduct is 'noemi' when it is faithful to a person's own commitments and lived character rather than performed to imitate an expected image; creative work may carry the same quality. The word does not claim that a person has one fixed hidden essence, and people may change while remaining authentic. 'thaemu' (sincere) concerns whether a present expression matches actual feeling or intention. 'shewo' (true) concerns reality or genuineness.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and open into rounded true-mid back 'o'. Release the rounding and move the tongue forward for stressed true-mid 'e' in its own syllable. Close the lips for voiced nasal 'm', then raise the tongue into high-front unrounded 'i'.",
+  "sound_symbolism": "The dental and bilabial nasals hold the vowels at either side of the stressed hiatus. As 'o.e.i' moves forward and unrounds, the word seems to bring a voice gradually into view.",
+  "usage_notes": "The quality-noun rule supplies authenticity. 'noemi' often accompanies 'haoni' (voice), conduct, or creative work; the relevant commitment, practice, or tradition may appear in context when it matters.",
+  "examples": [
+    {
+      "phi": "shia noemi haolu.",
+      "translation": "They speak authentically."
+    },
+    {
+      "phi": "ha haoni noemi nai.",
+      "translation": "This voice is authentic."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Authentic living aligns outer action with inner truth—the practice of integrity between being and doing.",
-    "peace-linguistics-practices": "Authentic communication expresses genuine feeling and need—pretense blocks true connection."
+    "secular-buddhist-philosophy": "Within a non-self account, authenticity cannot depend on a permanent hidden essence. 'noemi' stays with commitments and conduct that a changing person still recognizes as their own."
   },
   "semantic_domains": {
-    "emotion": "Genuine being",
-    "wisdom": "Self-truth"
+    "dialogue": "a voice or expression faithful to the speaker's lived commitments",
+    "wisdom": "integrity that permits growth rather than presuming a fixed self"
   }
 }

@@ -8,16 +8,28 @@
     "i"
   ],
   "pos": "adjective",
-  "concept": "Generous / Giving Freely / Abundant in Sharing",
-  "description": "Ready to give more than is necessary or expected; showing kindness in sharing. 'Heloi' names the quality of open-handed giving—the heart that finds joy in sharing abundance.",
-  "sound_symbolism": "The word gives freely. 'He' breathes outward, offering begun. 'Lo' flows with ease, giving without grasping. Finally 'i' completes with lightness, generosity fulfilled.",
-  "grammatical_notes": "Functions as an adjective: 'heloi sila' (generous community). Related to 'lorua' (abundant) but emphasizes the act of sharing rather than having plenty. Neighbors: loa (give), phowe (share).",
+  "search_terms": [
+    "giving",
+    "open-handed",
+    "ready to share"
+  ],
+  "description": "A person or act is 'heloi' when they give or share readily without making possession the only concern; the gift may be time, attention, knowledge, or material goods, and neither wealth nor self-denial is required. 'loa' (give) reports a transfer and 'phowe' (share) makes something available to others, while 'heloi' judges the manner or disposition.",
+  "articulatory_notes": "Let unvoiced air pass through the open glottis for 'h', then move into true-mid front 'e'. Touch the tongue tip to the alveolar ridge for 'l' and let the voice pass along its sides into stressed rounded true-mid back 'o'. Release the tongue contact and keep final high-front unrounded 'i' in its own syllable across the 'o.i' hiatus.",
+  "sound_symbolism": "Every consonant releases into a vowel, and the stressed 'lo.i' ending refuses to close quickly. The spacious finish may recall an offering left in open hands.",
+  "usage_notes": "The quality-noun rule supplies generosity. Generosity describes how something is offered, while the recipient's wish, the gift's usefulness, and the giver's remaining needs stay available for separate judgement.",
+  "examples": [
+    {
+      "phi": "shia nuora heloi phowe.",
+      "translation": "They share food generously."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Generous systems share abundance rather than hoarding—communities where surplus flows to need.",
-    "secular-buddhist-philosophy": "Generosity (dana) is the first perfection—the practice that loosens attachment and creates connection through giving."
+    "solarpunk-values": "Tools, food, knowledge, and time circulate through a community rather than gathering wherever possession is already strongest. 'heloi' praises the readiness to share without hiding anyone's material limits.",
+    "secular-buddhist-philosophy": "Generosity loosens attachment through an actual gift or act of sharing. The word leaves coerced sacrifice outside that praise."
   },
   "semantic_domains": {
-    "community": "Sharing",
-    "emotion": "Open-heartedness"
+    "community": "readiness to give or share with regard for others",
+    "emotion": "an open disposition towards giving",
+    "wisdom": "giving that does not confuse generosity with self-erasure"
   }
 }
