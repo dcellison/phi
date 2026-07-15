@@ -15,7 +15,7 @@ Boundaries fall before each consonant and between adjacent vowels:
 | Word | Syllabification | Note |
 |------|-----------------|------|
 | `lothea` | lo.the.a | th stays together; e.a is hiatus |
-| `phelora` | phe.lo.ra | ph stays together |
+| `mioru` | mi.o.ru | i.o is hiatus |
 | `thesua` | the.su.a | u.a is hiatus |
 | `thomari` | tho.ma.ri | courage, three even steps |
 

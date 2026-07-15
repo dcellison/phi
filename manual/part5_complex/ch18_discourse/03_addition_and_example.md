@@ -7,7 +7,7 @@ These two markers support a point that's already been made: one by piling on fur
 `sheno` signals that what follows adds to or reinforces the previous thought. It is Phi's "furthermore," "in addition," "moreover."
 
 ```
-shelira phelora nai. sheno luphore maeli nai.
+shelira mioru nai. sheno luphore maeli nai.
 forest beautiful be. ADD river quiet be.
 (The forest is beautiful. Furthermore the river is quiet.)
 ```
@@ -31,7 +31,7 @@ Where `nela` (and) joins items as grammatical equals, `sheno` builds a rhetorica
 `phisu` signals that what follows illustrates or concretizes a preceding general statement. It is Phi's "for example," "for instance," "such as."
 
 ```
-lo peloru phelora nai. phisu ha peloru newu nai.
+lo peloru mioru nai. phisu ha peloru newu nai.
 PL flower beautiful be. EXMP PROX flower new be.
 (The flowers are beautiful. For example this flower is new.)
 ```

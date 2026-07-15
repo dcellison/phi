@@ -7,7 +7,7 @@ The exclamation mark fell like the others, but it fell differently: no single wo
 `ru` (INTS, Slot 2) intensifies exactly the word it stands before, not the sentence, not the speaker's volume, the word:
 
 ```
-ha peloru ru phelora nai.
+ha peloru ru mioru nai.
 PROX flower INTS beautiful be.
 (This flower is very beautiful.)
 ```

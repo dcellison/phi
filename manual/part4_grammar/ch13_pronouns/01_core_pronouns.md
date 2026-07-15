@@ -32,7 +32,7 @@ The third-person pronoun *shia* refers to someone other than the speaker or list
 
 **shia shua.** — They arrive. (He/she arrives.)  
 **mia shia sano.** — I know them.  
-**shia womu phelora nai.** — Their home is beautiful.
+**shia womu mioru nai.** — Their home is beautiful.
 
 The use of "they" for a singular person matches growing usage in English and sidesteps the question of gender entirely. In Phi, grammatical gender simply does not exist. *shia* refers to any single person without encoding assumptions about their identity.
 
@@ -59,7 +59,7 @@ Phi allows speakers to omit the subject when it is clear from context. This is c
 Once a topic has been established, subsequent clauses can leave the subject position empty if the referent is obvious:
 
 ```
-shai shelira thiku nai phelora nai.
+shai shelira thiku nai mioru nai.
 CONC forest small be beautiful be.
 (Although the forest is small, [it] is beautiful.)
 ```

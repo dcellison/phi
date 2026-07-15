@@ -20,7 +20,7 @@ This consistent rule creates a nested rhythm of "context before conclusion," whe
 
 The simplest application of this principle can be seen with adjectives and other descriptors. In Phi, to describe a noun is to first present its quality, then reveal the noun that possesses it.
 
-For example, to express "a beautiful garden," a speaker first evokes the quality of beauty, `phelora`, and then presents the noun, `thepalu`. The resulting phrase, `phelora thepalu`, layers the ideas in sequence: first the quality, then the thing itself.
+For example, to express "a beautiful garden," a speaker places the adjective `mioru` before the noun `thepalu`. The resulting phrase, `mioru thepalu`, layers the ideas in sequence: first the quality, then the thing itself.
 
 This structure applies to all forms of simple description, from color to size to any other attribute. The pattern `[DESCRIPTOR] [NOUN]` is the fundamental building block of the noun phrase: the listener pictures a quality before learning what embodies it.
 

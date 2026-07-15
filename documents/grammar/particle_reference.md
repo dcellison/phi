@@ -381,7 +381,7 @@ INTS good.
 **Function**: Announces comparative degree ("more")
 **Example**:
 ```
-thepalu sheo shelira mo phelora nai.
+thepalu sheo shelira mo mioru nai.
 garden THAN forest CMPR beautiful be.
 (The garden is more beautiful than the forest.)
 ```
@@ -390,7 +390,7 @@ garden THAN forest CMPR beautiful be.
 **Function**: Announces superlative degree ("most")
 **Example**:
 ```
-ha thepalu mo ko phelora nai.
+ha thepalu mo ko mioru nai.
 PROX garden CMPR FOC beautiful be.
 (This garden is the most beautiful.)
 ```
@@ -529,7 +529,7 @@ mia shea nela sila lothea.
 1SG peace COORD community love.
 (I love peace and community.)
 
-wa [shia phelora] sola [thiku].
+wa [shia mioru] sola [thiku].
 Q [3SG beautiful] OR [small].
 (Is it beautiful or small?)
 ```

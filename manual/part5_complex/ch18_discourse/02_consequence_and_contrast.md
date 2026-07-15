@@ -31,7 +31,7 @@ shia to ma haolu. thelao lo miona to ma shelomu.
 `whekai` introduces a thought that stands in tension with what came before. It is Phi's "however," "on the other hand," "yet."
 
 ```
-shiro phelora nai. whekai shelira thiku nai.
+shiro mioru nai. whekai shelira thiku nai.
 tree beautiful be. CONTR forest small be.
 (The tree is beautiful. However the forest is small.)
 ```

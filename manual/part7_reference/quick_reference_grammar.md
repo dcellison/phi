@@ -12,7 +12,7 @@ One page of the whole system. Details: `documents/grammar/`; authority order: `/
 |---|---|---|
 | Intransitive | S V | `mia nulae.` (I sleep.) |
 | Transitive | S O V | `mia nophi kealo.` (I create a story.) |
-| Copular | S PRED nai | `shelira phelora nai.` (The forest is beautiful.) |
+| Copular | S PRED nai | `shelira mioru nai.` (The forest is beautiful.) |
 | With adverbial | S [Adv] O V | `mia nosa nophi kealo.` (I now create a story.) |
 | Question | wa + statement | `wa thia towe nai.` (Are you well?) |
 | Imperative | no + predicate | `no lumani naphe.` (Help the family.) |
@@ -48,7 +48,7 @@ Embedded clauses carry their own tense, and clause frames nest in matched pairs.
 ## Noun phrase order
 
 Slot order: **[Quantifier] [Demonstrative] [Number or `lo`] [Classifier] [Adjective] [Noun]**. Quantity strategies are alternatives: an ordinary quantifier does not combine with a number, `lo`, or classifier; a numeral may take an optional classifier; `lo` marks only unquantified plurality.
-`ha wi himo phelora melu` — these two beautiful friends (as humans).
+`ha wi himo mioru melu` — these two beautiful friends (as humans).
 
 Possessor first: `sila nophi` (the community's story). No articles.
 

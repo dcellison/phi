@@ -40,6 +40,14 @@ Implementation status, dependencies, optional evaluation work, and the next deve
 | D022 | Accepted | Add base adjective `selawi` for slippery contact. | Floor, path, and tool scenarios exposed low resistance to sideways sliding that wetness, texture, movement, and danger could not carry. `selawi` describes the contact behaviour without fixing the two surfaces in advance; its quality noun supplies slipperiness or low traction. The form passes phonology and both collision checks, and everyday warnings keep it outside optional modules. |
 | D023 | Accepted | Add base nouns `patoku` solid, `larewu` liquid, and `heshowa` gas. | Substance names and behaviour clauses could not classify unknown material or state a general phase change. The nouns describe ordinary material categories under the conditions at hand, while `mirela` retains the analytical state and `kaero` the stage of a process. All three forms pass phonology and both collision checks. Their everyday use in handling and safety keeps them outside optional modules. |
 | D024 | Accepted | Add base nouns `ponalu` size, `waleru` spatial length, and `hirawo` distance. | Quality nouns derived from large, long, and far kept an unwanted judgement at one end of each scale. `ponalu` leaves the separate dimensions intact; `waleru` stops at space rather than duration; `hirawo` does not absorb route choice or travel time. Exact values remain source material. All three forms pass phonology and both collision checks, and their ordinary use keeps them outside optional modules. |
+| D025 | Accepted | Use `mioru` for beautiful and for beauty through the quality-noun rule; retire `phelora`. | The separate adjective and noun duplicated a distinction Phi already handles by syntax, and the maintainer found `phelora` uncomfortable in ordinary speech. Reclassifying `mioru` as an adjective preserves its established noun use through the quality-noun rule while giving both senses one comfortable form. `mioru` already occupied this sound shape; the migration creates no new form and retains its grandfathered edit-distance neighbours `lioru` and `moru`. The active corpus is migrated without an alias, and `phelora` is unavailable for lexical reassignment while remaining eligible as an onym under D015. |
+
+## Completed discretionary lexical migrations
+
+| Decision | Former form | Current form | Result |
+|---|---|---|---|
+| D014 | `sorae` (sun) | `sileta` (sun) | The new root forms an audible family with `silero` (star); the former root is retired. |
+| D025 | `phelora` (beautiful) and noun-class `mioru` (beauty) | adjective-class `mioru` (beautiful; beauty by rule) | One adjective now serves both grammatical uses; `phelora` is retired and the separate noun entry is removed. |
 
 ## Release milestones
 

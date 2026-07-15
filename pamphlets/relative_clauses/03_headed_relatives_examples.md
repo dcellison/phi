@@ -15,7 +15,7 @@ REL story create person wise be
 ```
 
 ```
-rena mua shelira nai ruela phelora nai
+rena mua shelira nai ruela mioru nai
 REL LOC forest be path beautiful be
 (the path that is in the forest is beautiful.)
 ```
@@ -33,13 +33,13 @@ REL child teach person PROX be
 ```
 
 ```
-rena thuroa peloru phelora nai
+rena thuroa peloru mioru nai
 REL grow flower beautiful be
 (the flower that grows is beautiful.)
 ```
 
 ```
-rena phelora nai womu mia womu nai
+rena mioru nai womu mia womu nai
 REL beautiful be home 1SG home be
 (the home that is beautiful is my home.)
 ```
@@ -59,7 +59,7 @@ REL FUT come person 3SG be
 ```
 
 ```
-rena to thuroa peloru phelora nai
+rena to thuroa peloru mioru nai
 REL PST grow flower beautiful be
 (the flower that grew is beautiful.)
 ```
@@ -105,7 +105,7 @@ mia rena mia to nila shelu lothea
 ```
 
 ```
-rena thia to kealo nophi phelora nai
+rena thia to kealo nophi mioru nai
 REL 2SG PST create story beautiful be
 (the story that you created is beautiful.)
 ```
@@ -123,7 +123,7 @@ REL 1SG PST read book old be
 ```
 
 ```
-rena shia to howela peloru phelora nai
+rena shia to howela peloru mioru nai
 REL 3SG PST receive flower beautiful be
 (the flower that they received is beautiful.)
 ```
@@ -151,7 +151,7 @@ REL 1SG FUT read book PROX be
 ```
 
 ```
-rena shia ro kealo nophi phelora nai
+rena shia ro kealo nophi mioru nai
 REL 3SG HAB create story beautiful be
 (the stories that they habitually create are beautiful.)
 ```
@@ -177,7 +177,7 @@ The head noun fills a prepositional phrase inside the relative clause.
 ### Location
 
 ```
-rena mia mua to thalo shelira phelora nai
+rena mia mua to thalo shelira mioru nai
 REL 1SG LOC PST walk forest beautiful be
 (the forest that i walked in is beautiful.)
 ```
@@ -261,7 +261,7 @@ Q 2SG REL 1SG PST see person know
 ```
 
 ```
-mia rena phelora nai peloru lothea
+mia rena mioru nai peloru lothea
 1SG REL beautiful be flower love
 (i love the flower that is beautiful.)
 ```
@@ -305,7 +305,7 @@ mia wei rena shea kealo miona haolu
 Multiple descriptors can precede the noun: relative clause, then adjectives.
 
 ```
-mia rena mia to nila phelora serao shelu lothea
+mia rena mia to nila mioru serao shelu lothea
 1SG REL 1SG PST see beautiful old book love
 (i love the beautiful old book that i saw.)
 ```
@@ -313,13 +313,13 @@ mia rena mia to nila phelora serao shelu lothea
 The order is: [relative clause] + [adjectives] + [noun]
 
 ```
-rena thuroa whalo phelora shiro mia shiro nai
+rena thuroa whalo mioru shiro mia shiro nai
 REL grow large beautiful tree 1SG tree be
 (the large beautiful tree that grows is my tree.)
 ```
 
 ```
-mia rena shia to kealo newu phelora nophi theo
+mia rena shia to kealo newu mioru nophi theo
 1SG REL 3SG PST create new beautiful story read
 (i read the new beautiful story that they created.)
 ```
@@ -335,7 +335,7 @@ mia serao miona sano. rena peloru thumela miona phue nai.
 1SG old person know. REL flower teach person wise be.
 (i know an old person. the person who teaches about flowers is wise.)
 
-shia rena mia to nila peloru ka thuroa. phelora nai.
+shia rena mia to nila peloru ka thuroa. mioru nai.
 3SG REL 1SG PST see flower CAUS grow. beautiful be.
 (they grow the flowers that i saw. [the flowers] are beautiful.)
 ```
@@ -355,7 +355,7 @@ REL 1SG PST understand story 1SG feel.
 ### The path home
 
 ```
-rena mua shelira nai ruela phelora nai.
+rena mua shelira nai ruela mioru nai.
 REL LOC forest be path beautiful be.
 (the path that is in the forest is beautiful.)
 

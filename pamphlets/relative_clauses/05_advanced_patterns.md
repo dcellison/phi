@@ -55,7 +55,7 @@ Splitting reduces nesting and aids comprehension.
 Sometimes the nested structure is exactly what you need:
 
 ```
-rena rena mia lothea miona to kealo nophi phelora nai
+rena rena mia lothea miona to kealo nophi mioru nai
 REL REL 1SG love person PST create story beautiful be
 (the story that the person whom i love created is beautiful.)
 ```
@@ -132,7 +132,7 @@ Topic-drop and relative clauses work together. A noun introduced with a relative
 ### Establishing and continuing
 
 ```
-rena mia to nila peloru phelora nai. thuroa. mia lothea.
+rena mia to nila peloru mioru nai. thuroa. mia lothea.
 REL 1SG PST see flower beautiful be. grow. 1SG love.
 (the flower that i saw is beautiful. [it] grows. i love [it].)
 ```
@@ -144,7 +144,7 @@ The flower, once introduced with its full description, becomes the understood to
 When you want to change the topic, introduce a new noun (with or without a relative clause):
 
 ```
-rena mia to nila peloru phelora nai. shiro ha nai. whalo nai.
+rena mia to nila peloru mioru nai. shiro ha nai. whalo nai.
 REL 1SG PST see flower beautiful be. tree PROX be. large be.
 (the flower that i saw is beautiful. a tree is here. [it] is large.)
 ```
@@ -158,7 +158,7 @@ mia serao miona to nila. rena nophi kealo miona phue nai.
 1SG old person PST see. REL story create person wise be.
 (i saw an old person. the person who creates stories is wise.)
 
-shia wei mia nophi to haolu. rena mia to hea nophi phelora nai.
+shia wei mia nophi to haolu. rena mia to hea nophi mioru nai.
 3SG DAT 1SG story PST speak. REL 1SG PST hear story beautiful be.
 (they told me a story. the story that i heard is beautiful.)
 
@@ -176,7 +176,7 @@ When quoting or reporting speech that contains relative clauses, the structure e
 ### Direct quotation
 
 ```
-shia shola rena mia to kealo shelu phelora nai sholo to haolu
+shia shola rena mia to kealo shelu mioru nai sholo to haolu
 3SG QUOT.COMP REL 1SG PST create book beautiful be QUOT.COMP.CLOSE PST speak
 (they said "the book that i created is beautiful.")
 ```
@@ -186,7 +186,7 @@ The relative clause `rena mia to kealo shelu` sits inside the quotation.
 ### Indirect report
 
 ```
-shia mena rena shia to kealo shelu phelora nai meno to haolu
+shia mena rena shia to kealo shelu mioru nai meno to haolu
 3SG DECL.COMP REL 3SG PST create book beautiful be DECL.COMP.CLOSE PST speak
 (they said that the book that they created is beautiful.)
 ```
@@ -218,7 +218,7 @@ Here the possessed phrase `shia peloru` ("their flower") is the object, and the 
 Let's build a paragraph using multiple relative clauses, complementizers, and topic-drop:
 
 ```
-mia mua rena mua shelira nai womu to kamo. phelora nai.
+mia mua rena mua shelira nai womu to kamo. mioru nai.
 1SG LOC REL LOC forest be home PST arrive. beautiful be.
 (i arrived at the home that is in the forest. [it] is beautiful.)
 

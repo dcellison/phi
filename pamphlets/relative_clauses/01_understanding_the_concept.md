@@ -44,12 +44,12 @@ Readers initially parse "raced" as the main verb, then must backtrack when they 
 Phi places relative clauses before the noun they modify:
 
 ```
-rena mia to theo shelu phelora nai
+rena mia to theo shelu mioru nai
 REL 1SG PST read book beautiful be
 (the book that i read is beautiful.)
 ```
 
-The relative clause `rena mia to theo` ("that I read") comes first, announced by the relativizer `rena`. Then the noun `shelu` ("book") arrives, receiving all that description. Finally, the main clause continues with `phelora nai` ("is beautiful").
+The relative clause `rena mia to theo` ("that I read") comes first, announced by the relativizer `rena`. Then the noun `shelu` ("book") arrives, receiving all that description. Finally, the main clause continues with `mioru nai` ("is beautiful").
 
 This is called pre-nominal position: description first, noun last.
 
@@ -65,7 +65,7 @@ And the listener knows from the moment they hear `rena` that a description is co
 
 If you've grown up with post-nominal relatives, Phi's approach requires a mental shift. You're used to anchoring on the noun first, then accumulating details about it. Phi asks you to gather details first, then discover what they describe.
 
-This is the same adjustment required for Phi's basic word order. In "beautiful flower" vs. `phelora peloru`, English and Phi both put the adjective first, and that feels natural. But in "the flower that I saw" vs. `rena mia to nila peloru`, English puts the noun first while Phi puts the clause first. The principle is the same (modifier before modified), but relative clauses make it more conspicuous.
+This is the same adjustment required for Phi's basic word order. In "beautiful flower" vs. `mioru peloru`, English and Phi both put the adjective first, and that feels natural. But in "the flower that I saw" vs. `rena mia to nila peloru`, English puts the noun first while Phi puts the clause first. The principle is the same (modifier before modified), but relative clauses make it more conspicuous.
 
 The good news: this isn't arbitrary. Phi's entire grammar follows the modifier-first principle. Once you've internalized "description before described," relative clauses are just a larger application of what you already know.
 

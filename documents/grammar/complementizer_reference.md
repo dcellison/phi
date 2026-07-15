@@ -52,7 +52,7 @@ The frame verb may be a verb of speaking (`haolu`, `shemui`, `thilou`) or of rec
 
 **Examples**:
 ```
-shia shola sileta phelora nai sholo haolu
+shia shola sileta mioru nai sholo haolu
 3SG QUOT.COMP sun beautiful be QUOT.COMP.CLOSE speak
 (They say, "The sun is beautiful.")
 
@@ -121,7 +121,7 @@ shia wela mia to nila welo to thilou
 3SG INT.COMP 1SG PST see INT.COMP.CLOSE PST inquire
 (They asked whether I had seen.)
 
-lo mia wela sileta phelora nai welo ma shelomu
+lo mia wela sileta mioru nai welo ma shelomu
 PL 1SG INT.COMP sun beautiful be INT.COMP.CLOSE NEG understand
 (We don't know whether the sun is beautiful.)
 ```

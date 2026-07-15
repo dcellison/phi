@@ -69,6 +69,6 @@ When multiple Slot 0 particles appear, *pi* typically comes first, followed by *
 A sentence without any Slot 0 particle is a simple declarative statement:
 
 **mia thia lothea.** — I love you.  
-**shiro phelora nai.** — The tree is beautiful.
+**shiro mioru nai.** — The tree is beautiful.
 
 This is the most common sentence type. Slot 0 particles add specific framing; their absence is itself meaningful: it signals a straightforward assertion.

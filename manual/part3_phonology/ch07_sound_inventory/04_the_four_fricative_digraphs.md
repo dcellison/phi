@@ -26,7 +26,7 @@ To produce this sound:
 Imagine blowing out a candle with a soft, controlled puff. The sound that emerges is very close to **ph**. Japanese speakers will recognize this sound from words like *Fuji*.
 
 **Practice words:**
-- `phelora` /ɸe̞.ˈlo̞.rä/ (beautiful)
+- `phiro` /ˈɸi.ro̞/ (elegant)
 - `nophi` /ˈn̪o̞.ɸi/ (story)
 
 ## The dental stream: th

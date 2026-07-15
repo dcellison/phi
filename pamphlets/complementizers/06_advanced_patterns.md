@@ -163,7 +163,7 @@ mia wela rena mia to nila shelu shewo nai welo phaelo
 ### `shola`/`sholo` containing relative clause
 
 ```
-shia shola rena mia kealo nophi phelora nai sholo to haolu
+shia shola rena mia kealo nophi mioru nai sholo to haolu
 3SG QUOT.COMP REL 1SG create story beautiful be QUOT.COMP.CLOSE PST speak
 (They said: "The story that I created is beautiful.")
 ```

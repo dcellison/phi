@@ -135,7 +135,7 @@ lothea shelomu phue nai
 | shua | come | come |
 | kamo | arrive | arrive (at a place, with `mua`) |
 | thalo | walk | walk |
-| phelora | beautiful | beautiful |
+| mioru | beautiful | beautiful |
 | phue | wise | wise |
 | serao | old | old |
 | whalo | large | large |

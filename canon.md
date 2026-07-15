@@ -49,7 +49,7 @@ These were explicitly decided and should not silently fork again:
   The conjunction `thoe` is retired.
 - **`wela`/`welo`** is the interrogative complementizer pair. The old
   content word `wela` ("good/beautiful") is retired; use `welao`
-  (good), `towe` (well), `phelora` (beautiful).
+  (good), `towe` (well), `mioru` (beautiful).
 - **Slot 0 combination order**: politeness first — `pi wa …`, `pi no …`.
 - **Punctuation** (revised 2026-07-10): the period is Phi's only visible punctuation. Phi's punctuation is spoken: the question mark is `wa`, the quotation marks are `shola` and `sholo`, the comma of address is `kona`, the clause commas are the closers and Slot 0 announcers, and the capital letter of a name is `ne`. A silent mark is justified only where no word is visible to do its work; sentence-end is the one such place, so the period is the one such mark. Pauses are free and cannot change a Phi sentence's meaning. Source material presented outside Phi follows the punctuation convention of its own medium and is not parsed as part of the Phi sentence. The validator enforces the Phi rule.
 - **Letters** (revised 2026-07-10): Phi has no capital letters, including for names. Romanization is one mode of writing among peers, including Tengwar and the glyph mode; a mark may carry Phi meaning only if every mode can carry it, while case belongs only to some outside writing systems. What capitals do for Phi-form names, `ne` does aloud. Source material outside a Phi passage retains its own script and case without becoming Phi. The validator enforces lowercase in Phi text.
@@ -58,6 +58,7 @@ These were explicitly decided and should not silently fork again:
 - **Name register and source names** (revised 2026-07-12): formal, neutral, portable, and machine-validated Phi keeps `ne` at every mention. Conversational or household speech may omit it after a referent is established and while reference remains unambiguous; keeping `ne` is always correct. Phi-form names are lowercase everywhere. A source name with five or more syllables, multiple tokens, a non-Phi shape, or dependence on another script remains outside the Phi passage unless the bearer or naming community accepts a valid Phi-form onym.
 - **Three-syllable lexical ceiling** (settled 2026-07-10; completed 2026-07-12): every current and future Phi lexicon word is limited to one, two, or three syllables. Modules receive no exception, and the validator has no temporary allowance. Productive onyms are proper designations rather than lexical words and may have two, three, or four syllables under their separate charter. The four-syllable migration ledger records the 112 completed replacements; it is a history of lexical change, not a list of forms reserved from names.
 - **Sun and star lexical family** (settled 2026-07-12): `sileta` names the sun, the particular star Earth orbits, while `silero` names the wider class of stars. Their shared `si.le` opening marks audible kinship without creating a productive affix or a minimal pair. The former sun word `sorae` is retired from vocabulary and unavailable for lexical reassignment; it remains an eligible onym under the productive-name charter.
+- **Beautiful and beauty share one root** (settled 2026-07-15): `mioru` is the adjective beautiful, and the ordinary quality-noun rule gives it the noun use beauty without a second lexical entry. The former adjective `phelora` is retired from vocabulary and unavailable for lexical reassignment; it remains an eligible onym under the productive-name charter.
 - **Warm and hot lexical boundary** (settled 2026-07-15): `sulae` names moderate warmth, while `sukaro` names heat that is strongly felt. `neri` remains cool and `pelui` cold. The form `ru sulae` remains very warm; `sukaro` states hot without asking the intensifier to supply a second lexical meaning. The shared `su` opening in `sulae`, `sukaro`, and `suloru` gives the thermal family an audible link without creating a productive affix.
 - **Basic dimension and distance boundaries** (settled 2026-07-15): `ponalu` names overall physical size before a speaker judges it large or small. `waleru` names spatial end-to-end length, while `mosha` retains bounded duration. `hirawo` names spatial separation; route length, travel time, and effort remain separate facts. `whalo` and `thiku` describe overall size; `laeno` and `teku` describe end-to-end length or duration; `losha` and `hieru` describe width; `raelu` and `mulu` describe vertical extent or position. `noshi` and `wuero` are the ordinary adjectival near/far pair for space and time, while `pai` and `woe` introduce an explicit reference object. The unused adjective `thaeru` is retired because it duplicated `wuero`; the form remains eligible as an onym under the productive-name charter but cannot return to the lexicon.
 - **Source material remains outside Phi** (settled 2026-07-10): foreign wording, source-script names, source-form exact values and records, identifiers, formulas, quotations, legal text, medical records, citations, and other unassimilated artifacts appear beside or around Phi through the surrounding document, interface, or conversation. Phi may point to, describe, translate, or analyze that material, but source tokens occupy no Phi syntactic position. An exact integer within Phi's numeral range may also be rendered as Phi when that rendering is adequate; the source form remains separately preserved whenever its notation, unit, identity, or fidelity matters. This separation preserves script parity and does not imply approval, condemnation, or loss of precision.
@@ -184,9 +185,9 @@ These were explicitly decided and should not silently fork again:
   verb, inside the Slot 1 block: `to shena haolu` (said calmly),
   `to reshi wepu` (moved fast), both from the complementizers
   pamphlet. The verb phrase thus mirrors the noun phrase — function
-  words, then descriptors, then the head: `ha phelora thepalu` /
+  words, then descriptors, then the head: `ha mioru thepalu` /
   `to reshi kolua`. Depictives share the position (`thia ma
-  phelora nila`, see you as unbeautiful — Velveteen). Two early
+  mioru nila`, see you as unbeautiful — Velveteen). Two early
   texts had the descriptor outside the Slot 1 block; both were
   realigned (Schleicher fable, Velveteen). Evidence in
   `archive/manner_placement_study.md`; taught in ch10 §4.
@@ -328,8 +329,8 @@ These were explicitly decided and should not silently fork again:
   drawing), a singing (`meliho`); the coined artifacts of the
   voice are `melira` (song), `meliphe` (music), and `nophi`
   (story), and a poem is `melira`, because Phi's page is a score
-  for the voice. `shela` (art) is the whole category and `mioru`
-  (beauty) what it expresses. The two coined instruments are
+  for the voice. `shela` (art) is the whole category; `mioru`
+  (beautiful) supplies its quality noun, beauty, for what art expresses. The two coined instruments are
   named for their own voices, `kuma` carrying rhythm and `phui`
   carrying melody; further instruments may be coined by the full
   protocol when the household genuinely meets one, in the same
@@ -399,7 +400,7 @@ These were explicitly decided and should not silently fork again:
 - **Slot 2 nests** (settled 2026-07-05): within a phrase, wider
   relations stand earlier — `we`/`li` > `ha`/`ra` > `lo`/numerals >
   `ko` > `ru`/`mo` > the word — modifier-first applied inside the
-  phrase (attested: `ha lo ru phelora peloru`). `we` and `li` do not
+  phrase (attested: `ha lo ru mioru peloru`). `we` and `li` do not
   stack with each other; the pair micro-orders stand (`mo ko`, `ne`
   before any honorific, `nu` before its numeral).
 

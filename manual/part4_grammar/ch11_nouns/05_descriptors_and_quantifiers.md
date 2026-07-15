@@ -6,7 +6,7 @@ We have seen that possessors precede their nouns and that adjectives do likewise
 
 The basic rule is simple: everything that modifies a noun comes before it. This includes:
 
-- Adjectives: `phelora thepalu` (beautiful garden)
+- Adjectives: `mioru thepalu` (beautiful garden)
 - Possessors: `mia shelu` (my book)
 - Quantifiers: `sheloi melu` (many friends)
 - Deictics: `ha kerou` (this stone)
@@ -21,11 +21,11 @@ Adjectives in Phi are descriptors that characterize the noun's qualities. They a
 |-----|-------|---------|
 | `serao shiro` | old tree | an old tree |
 | `welao nuora` | good food | good food |
-| `phelora lei` | beautiful harmony | beautiful harmony |
+| `mioru lei` | beautiful harmony | beautiful harmony |
 
 Multiple adjectives can stack, and each one adds another layer of description:
 
-**serao phelora shelu**  
+**serao mioru shelu**  
 *old beautiful book*  
 "an old, beautiful book"
 
@@ -117,7 +117,7 @@ The quantity choices are alternatives: an ordinary quantifier does not combine w
 "many good friends"
 
 ```text
-ta shao phelora thepalu
+ta shao mioru thepalu
 one three-group beautiful garden
 (exactly three beautiful gardens)
 ```

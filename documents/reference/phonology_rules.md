@@ -112,7 +112,7 @@ Phi uses **penultimate stress**: primary stress falls on the second-to-last syll
 |------|-----------|-----------------|-----|
 | `mia` | mi-a | first (penultimate) | /ˈmi.ä/ |
 | `haolu` | ha-o-lu | second (penultimate) | /hä.ˈo̞.lu/ |
-| `phelora` | phe-lo-ra | second (penultimate) | /ɸe̞.ˈlo̞.rä/ |
+| `mioru` | mi-o-ru | second (penultimate) | /mi.ˈo̞.ru/ |
 | `mu` | mu | only syllable | /ˈmu/ |
 
 **Single-syllable words** receive stress on their only syllable.

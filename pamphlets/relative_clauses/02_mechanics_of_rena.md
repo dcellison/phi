@@ -86,7 +86,7 @@ Without `meno`, the sentence would be ambiguous: where does the embedded clause 
 Relative clauses with `rena` are followed by a noun:
 
 ```
-rena shia to kealo nophi phelora nai
+rena shia to kealo nophi mioru nai
 REL 3SG PST create story beautiful be
 (the story that they created is beautiful.)
 ```
@@ -137,7 +137,7 @@ REL [gap] PST come person PROX be
 ```
 
 ```
-rena ___ phelora nai peloru thuroa
+rena ___ mioru nai peloru thuroa
 REL [gap] beautiful be flower grow
 (the flower that is beautiful grows.)
 ```
@@ -161,7 +161,7 @@ Analysis:
 More examples:
 
 ```
-rena thia ___ to kealo nophi phelora nai
+rena thia ___ to kealo nophi mioru nai
 REL 2SG [gap] PST create story beautiful be
 (the story that you created is beautiful.)
 ```
@@ -177,7 +177,7 @@ mia rena shia ___ thumela lopia sano
 When the head noun is part of a prepositional phrase inside the relative clause:
 
 ```
-rena mia mua ___ to thalo shelira phelora nai
+rena mia mua ___ to thalo shelira mioru nai
 REL 1SG LOC [gap] PST walk forest beautiful be
 (the forest that i walked in is beautiful.)
 ```

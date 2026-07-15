@@ -103,7 +103,7 @@ REL BESIDE river stand PL tree DAT 1SG PROX PST CAUS see.
 (The trees that stand beside the river showed this to me.)
 morris: "by witness of the river-side trees,"
 
-phelora keru kelua to nai. kelua lue keloi thorui to ke nai.
+mioru keru kelua to nai. kelua lue keloi thorui to ke nai.
 beautiful bright morning PST be. morning ABL summer beginning PST INFER be.
 (It was a beautiful, bright morning, seemingly from the beginning of summer.)
 morris: "a beautiful bright morning seemingly of early June."
@@ -337,7 +337,7 @@ mia shola pi no luphonu ka teku manolu. mia mena mia roa mia teku nila meno pula
 ("Please hold her a little," I answered. "I want to look about me a bit.")
 morris: "as I answered, \"Please to hold her a little; I want to look about me a bit.\""
 
-shia shola lia. ha lokue phea ra welamu lokue phelora nai. sholo to haolu.
+shia shola lia. ha lokue phea ra welamu lokue mioru nai. sholo to haolu.
 3SG QUOT.COMP yes. PROX place AS DIST elm place beautiful be. QUOT.COMP.CLOSE PST speak.
 ("All right," he said. "It's as pretty here, in its way, as at the elm-grounds.")
 morris: "\"All right,\" he said; \"it's no less pretty in its way here than it is off Barn Elms;"
@@ -368,7 +368,7 @@ now 1SG INS clear head COORD PL clear eye 3SG PST POT see.
 (Now I could look at him with a clear head and clear eyes.)
 morris: "now that I had time to look at him and see him with my head and eyes clear."
 
-shia phelora limu miona to nai.
+shia mioru limu miona to nai.
 3SG beautiful young person PST be.
 (He was a handsome young fellow.)
 morris: "He was a handsome young fellow,"
@@ -418,7 +418,7 @@ shia roa kesho mureli kori tiwa to phelu.
 (He wore a brown leather belt round his waist.)
 morris: "He had a brown leather belt round his waist,"
 
-mia mena tiwa tapu tesu nai meno to morae. tesu lo selu kire to phelu. tesu se phelora kati to nai.
+mia mena tiwa tapu tesu nai meno to morae. tesu lo selu kire to phelu. tesu se mioru kati to nai.
 1SG DECL.COMP tie close iron be DECL.COMP.CLOSE PST sense. iron PL flow shape PST hold. iron PASS beautiful cut PST be.
 (I noticed that the belt's clasp was of steel that held flowing patterns, beautifully wrought.)
 morris: "and I noticed that its clasp was of damascened steel beautifully wrought."
@@ -565,7 +565,7 @@ mia phea ha repha to ki po whemura. whekai mia phea ha repha mue rena lo kolai p
 (I had perhaps dreamed of such a bridge, but never seen such a one outside a painted book.)
 morris: "I had perhaps dreamed of such a bridge, but never seen such an one out of an illuminated manuscript;"
 
-rena mia sano ru phelora lo repha pai ha we to ma kamo.
+rena mia sano ru mioru lo repha pai ha we to ma kamo.
 REL 1SG know INTS beautiful PL bridge NEAR PROX ALSO PST NEG arrive.
 (Even the most beautiful bridges I had known came nowhere near it.)
 morris: "for not even the Ponte Vecchio at Florence came anywhere near it."
@@ -619,7 +619,7 @@ oar person 1SG eager surprise face shape PST sense. 3SG AS REL 1SG PL think hear
 (The sculler noticed my eager, astonished expression, and spoke as if in answer to my thoughts--)
 morris: "The sculler noted my eager astonished look, and said, as if in answer to my thoughts--"
 
-lia. repha phelora nai. wa thia nawo.
+lia. repha mioru nai. wa thia nawo.
 yes. bridge beautiful be. Q 2SG agree.
 ("Yes, it is a pretty bridge, isn't it?")
 morris: "\"Yes, it _is_ a pretty bridge, isn't it?"
@@ -685,7 +685,7 @@ morris: "though this is what I saw up to the bridge and a little beyond; say as 
 ## lo womu nela thepalu — The houses and the garden
 
 ```
-nia wi kerime ru phelora lo womu to whano. lo womu mulu to nai. lo womu whalo ma nai.
+nia wi kerime ru mioru lo womu to whano. lo womu mulu to nai. lo womu whalo ma nai.
 ON two shore INTS beautiful PL home PST stand. PL home low PST be. PL home large NEG be.
 (On both shores stood a line of very pretty houses, low and not large.)
 morris: "Both shores had a line of very pretty houses, low and not large,"
@@ -956,12 +956,12 @@ thia lo thena wei rena phina thena phelu halemu womu po loa.
 (You might give them to some scantily-furnished memory-house.)
 morris: "you might give them to some scantily-furnished museum."
 
-lo mia halemu womu henoi phea ra lo thena phelu. halemu womu sheloi mo serao lo thena we phelu. sheloi ra lo thena phelora nai.
+lo mia halemu womu henoi phea ra lo thena phelu. halemu womu sheloi mo serao lo thena we phelu. sheloi ra lo thena mioru nai.
 PL 1SG remember home ENOUGH AS DIST PL thing hold. remember home MANY CMPR old PL thing ALSO hold. MANY DIST PL thing beautiful be.
 (Ours has enough of such things, besides many older ones, and many of those are beautiful.)
 morris: "Ours has enough of such coins, besides a fair number of earlier ones, many of which are beautiful,"
 
-whekai ha lo thena ru phelora ma nai. wa thia nawo.
+whekai ha lo thena ru mioru ma nai. wa thia nawo.
 CONTR PROX PL thing INTS beautiful NEG be. Q 2SG agree.
 (Whereas these are so thoroughly unbeautiful, aren't they?)
 morris: "whereas these nineteenth century ones are so beastly ugly, ain't they?"
@@ -1122,7 +1122,7 @@ CONS PL 1SG PFV agree. 1SG DAT friend sign FUT send.
 ("Well, then, that's settled. I will give my friend a call.)
 morris: "\"Well, then, that's settled. I will give my friend a call;"
 
-shia phea thia mua phemi womu menui. lu shia si nulae shia mua ha phelora keloi kelua te na nulae.
+shia phea thia mua phemi womu menui. lu shia si nulae shia mua ha mioru keloi kelua te na nulae.
 3SG AS 2SG LOC guest home dwell. COND 3SG IPFV sleep 3SG LOC PROX beautiful summer morning CESS NEC sleep.
 (He is living in the Guest House like you; and if he isn't up yet, he ought to be, on this fine summer morning.)
 morris: "he is living in the Guest House like you, and if he isn't up yet, he ought to be this fine summer morning.\""
@@ -1148,7 +1148,7 @@ mia ha womu mo thena so shane.
 (Of this house, more hereafter.)
 morris: "(of which more hereafter)"
 
-mia rewa melu sheo shia mo phelora nela mo kema to nai.
+mia rewa melu sheo shia mo mioru nela mo kema to nai.
 1SG oar friend THAN 3SG CMPR beautiful COORD CMPR strong PST be.
 (My sculler friend was better-looking and more strongly made than he.)
 morris: "He was not so well-looking or so strongly made as my sculler friend,"

@@ -9,7 +9,7 @@ Discourse relation, then which set, then how many, then the singled-out word, th
 ```
 ha lo melu — these friends
 ra nu wi shiro — that second tree
-ha mo ko phelora peloru — this most beautiful flower
+ha mo ko mioru peloru — this most beautiful flower
 we ha melu — this friend too
 li ha lo melu — only these friends
 ```

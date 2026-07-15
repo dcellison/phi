@@ -62,7 +62,7 @@ Every work these verbs produce is named by the rule you already know: a weaving,
 
 ## What the making is for
 
-*shela* (art) is the category, *mioru* (beauty) what it expresses, *lunai* (vision) what guides it, and the far end of the studio opens onto the square: *pharuki* (celebrate), *kela* (rejoice), *holia* (festival, joy where *thorea* is ritual), *rotiku* (dance).
+*shela* (art) is the category. *mioru* means beautiful, and its quality noun, beauty, names what art may express; *lunai* (vision) guides the work. At the far end of the studio, the doors open onto the square: *pharuki* (celebrate), *kela* (rejoice), *holia* (festival, joy where *thorea* is ritual), and *rotiku* (dance).
 
 ```
 sila holia thilonu.

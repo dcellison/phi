@@ -98,7 +98,7 @@ The number-related alternatives are `[numeral] ([classifier]) [noun]`, `[quantif
 | Phi | Components | English |
 |---|---|---|
 | `shelu` | N | book or books |
-| `phelora shelu` | ADJ + N | beautiful book |
+| `mioru shelu` | ADJ + N | beautiful book |
 | `mia shelu` | POSS + N | my book |
 | `wi shelu` | NUM + N | two books |
 | `wi themo shelu` | NUM + CLF + N | two books, classified as objects |

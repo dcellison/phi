@@ -68,7 +68,7 @@ thia mena mia to naphe meno remo
 ### Perception verbs (seeing, hearing, feeling)
 
 ```
-mia mena sileta phelora nai meno nila
+mia mena sileta mioru nai meno nila
 1SG DECL.COMP sun beautiful be DECL.COMP.CLOSE see
 (I see that the sun is beautiful.)
 ```
@@ -270,7 +270,7 @@ shia mena melu mua womu nai meno sano
 Many embedded statements are copular sentences using `nai`:
 
 ```
-mia mena sileta phelora nai meno nila
+mia mena sileta mioru nai meno nila
 1SG DECL.COMP sun beautiful be DECL.COMP.CLOSE see
 (I see that the sun is beautiful.)
 ```

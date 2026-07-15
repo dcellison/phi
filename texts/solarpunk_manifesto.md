@@ -24,8 +24,8 @@ solarpunk: "Solarpunk is a movement in speculative fiction, art, fashion, and ac
 ### An aesthetic of joined contrasts
 
 ```
-ha moenu mioru towe kelitho nela phelora shemoli. shia towe noporu nela liro pheno thuroa shemoli. shia keru welisha mioru nela phea muila kethua mioru shemoli.
-PROX culture beauty well function COORD beautiful harmonize. 3SG well design COORD green full grow harmonize. 3SG bright color beauty COORD AS earth hard beauty harmonize.
+ha moenu mioru towe kelitho nela mioru shemoli. shia towe noporu nela liro pheno thuroa shemoli. shia keru welisha mioru nela phea muila kethua mioru shemoli.
+PROX culture beautiful well function COORD beautiful harmonize. 3SG well design COORD green full grow harmonize. 3SG bright color beautiful COORD AS earth hard beautiful harmonize.
 (This culture's beauty harmonizes what functions well with what is beautiful. It harmonizes good design with green, full growth. It harmonizes bright, colorful beauty with earthy, solid beauty.)
 solarpunk: "The aesthetics of solarpunk merge the practical with the beautiful, the well-designed with the green and lush, the bright and colorful with the earthy and solid."
 ```
@@ -35,7 +35,7 @@ solarpunk: "The aesthetics of solarpunk merge the practical with the beautiful, 
 ### Hope amid calamity
 
 ```
-ha moenu phelora wireo weni po nai. shia li wiroa po nai. sola shia wea mo welao muila lo rena miona meloa keiro po theama. thona shia mawha peloma wireo weni nai. lao muila lo pukea nela lo kipona phelu. lo mia lo heloa phelona. li lo pukea shanewi henoi ma nai.
+ha moenu mioru wireo weni po nai. shia li wiroa po nai. sola shia wea mo welao muila lo rena miona meloa keiro po theama. thona shia mawha peloma wireo weni nai. lao muila lo pukea nela lo kipona phelu. lo mia lo heloa phelona. li lo pukea shanewi henoi ma nai.
 PROX culture beautiful future imagine POT be. 3SG RESTR hopeful POT be. DISJ 3SG TOWARD CMPR good earth PL REL person persevere way POT care. ADVRS 3SG NONE harmful future imagine be. BECAUSE earth PL danger COORD PL pain hold. PL 1SG PL remedy require. RESTR PL danger notify ENOUGH NEG be.
 (This culture can imagine a beautiful future. It can be simply hopeful, or it can care about the ways people persevere toward a better world, but it is no imagining of a harmful future. Because the world holds dangers and pain, we need remedies. Warnings of danger alone are not enough.)
 solarpunk: "Solarpunk can be utopian, just optimistic, or concerned with the struggles en route to a better world ,  but never dystopian. As our world roils with calamity, we need solutions, not only warnings."
@@ -260,7 +260,7 @@ solarpunk: "Solarpunk is the idea of humanity achieving a social evolution that 
 
 ```
 ha moenu rena se nila mioru lo newu thena po pharune. shia si molei. mua nosa shia ha lo keiro nuawe shemoli.
-PROX culture REL PASS see beauty PL new thing POT include. 3SG IPFV evolve. LOC now 3SG PROX PL way together harmonize.
+PROX culture REL PASS see beautiful PL new thing POT include. 3SG IPFV evolve. LOC now 3SG PROX PL way together harmonize.
 (This culture's visible beauty can include new things. It is evolving. At present it harmonizes the following ways together.)
 solarpunk: "The visual aesthetics of Solarpunk are open and evolving. As it stands, it is a mash-up of the following:"
 ```
@@ -373,7 +373,7 @@ solarpunk: "has room for spirituality and science to coexist"
 ```
 
 ```
-shia phelora nai.
+shia mioru nai.
 3SG beautiful be.
 (It is beautiful.)
 solarpunk: "is beautiful"
@@ -397,9 +397,9 @@ sileta kenua wireo moenu lo sherewa.
 
 ha sileta kenua wireo moenu lo wireo weni nophi nela shela nela wetha kire nela shaweri sila rinoka nai. shia thenoki punoa phea hina nai solae pula. shia lo mia thela kau ha wireo kamo solae pula. shia ha keiro liona pula.
 
-ha moenu mioru towe kelitho nela phelora shemoli. shia towe noporu nela liro pheno thuroa shemoli. shia keru welisha mioru nela phea muila kethua mioru shemoli.
+ha moenu mioru towe kelitho nela mioru shemoli. shia towe noporu nela liro pheno thuroa shemoli. shia keru welisha mioru nela phea muila kethua mioru shemoli.
 
-ha moenu phelora wireo weni po nai. shia li wiroa po nai. sola shia wea mo welao muila lo rena miona meloa keiro po theama. thona shia mawha peloma wireo weni nai. lao muila lo pukea nela lo kipona phelu. lo mia lo heloa phelona. li lo pukea shanewi henoi ma nai.
+ha moenu mioru wireo weni po nai. shia li wiroa po nai. sola shia wea mo welao muila lo rena miona meloa keiro po theama. thona shia mawha peloma wireo weni nai. lao muila lo pukea nela lo kipona phelu. lo mia lo heloa phelona. li lo pukea shanewi henoi ma nai.
 
 lo heloa ha lo porua phelu. lo mia whuo lo rena lue tholua lioru se phelure kenua welira. lu lo panuri henoi ma nai. lo mia lo shia thua phanuli. lu lo panuri lorua nai. lo mia lo shia phowe. lo mia li lo telua sherewa shaweri. lo mia wei wiso nela wei rena lo mia phowe muila mo phena phoa.
 
@@ -467,7 +467,7 @@ shia lo phirae miona nela remole nela thole pharune.
 
 mua shia phiora therema nela thesori somaki sano nuawe po nai.
 
-shia phelora nai.
+shia mioru nai.
 
 shia mua nosa po kelu.
 ```

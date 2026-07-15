@@ -68,7 +68,7 @@ Slot 0 particles frame; Slot 1 particles shape the verb:
 
 Slot 2 particles attach to their target words wherever those words appear:
 
-**pi wa thia ha lo ru phelora peloru so nila.**  
+**pi wa thia ha lo ru mioru peloru so nila.**  
 *POL Q 2SG PROX PL INTS beautiful flower FUT see*  
 "Could you please see these very beautiful flowers?"
 
@@ -76,7 +76,7 @@ Breaking it down:
 - *pi* (Slot 0): politeness
 - *wa* (Slot 0): question
 - *thia*: subject
-- *ha lo ru phelora peloru* (Slot 2 stack + noun): these very beautiful flowers
+- *ha lo ru mioru peloru* (Slot 2 stack + noun): these very beautiful flowers
 - *so* (Slot 1): future
 - *nila*: verb
 

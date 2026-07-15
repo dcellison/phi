@@ -105,7 +105,7 @@ how many HUM.CLF person FUT come.
 ```
 
 ```
-shiro phelora nela whalo nai.
+shiro mioru nela whalo nai.
 tree beautiful COORD large be.
 (The tree is beautiful and large.)
 ```
@@ -123,13 +123,13 @@ mia mena shia to wepu meno sano.
 ```
 
 ```
-rena mia to theo shelu phelora nai.
+rena mia to theo shelu mioru nai.
 REL 1SG PST read book beautiful be.
 (The book that I read is beautiful.)
 ```
 
 ```
-rena shia to kealo nophi phelora nai.
+rena shia to kealo nophi mioru nai.
 REL 3SG PST create story beautiful be.
 (The story that they created is beautiful.)
 ```

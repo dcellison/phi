@@ -47,16 +47,16 @@ The system is transparent. The listener understands that because the pronoun is 
 
 ## Meaning provides clarity
 
-This unified system might raise a question: if both an adjective like `phelora` (beautiful) and a possessor like `phao` (parent) appear in the same slot before a noun, how does the listener distinguish "a beautiful book" from "the parent's book"?
+This unified system might raise a question: if both an adjective like `mioru` (beautiful) and a possessor like `phao` (parent) appear in the same slot before a noun, how does the listener distinguish "a beautiful book" from "the parent's book"?
 
-The distinction comes not from grammatical markers but from meaning itself. Because Phi's vocabulary is built on holistic concepts, a listener intuitively understands that `phelora` describes a *quality*, while `phao` describes a *participant*.
+The distinction comes from lexical class and context rather than a possessive marker. `mioru` is an adjective and normally describes a quality here, while `phao` is a noun and normally names a participant in a relationship.
 
-One is an attribute; the other is an actor. Therefore:
+The ordinary readings are therefore:
 
-- `phelora shelu` can only be interpreted as a book that possesses beauty
-- `phao shelu` can only be interpreted as a book with a relationship to a parent
+- `mioru shelu`: a beautiful book
+- `phao shelu`: a book with a relationship to a parent
 
-The grammar provides consistent structure; the meaning of the words provides clarity.
+The quality-noun rule means an adjective can also stand in a noun position, so syntax does not forbid every unlikely alternative. Ordinary context handles most cases; when a rare reading genuinely matters, a speaker can state the relationship in a separate clause.
 
 ## Layering possessors with descriptors
 

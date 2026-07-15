@@ -42,8 +42,10 @@ class ProductiveNameFormTests(unittest.TestCase):
                 self.assertEqual(name_forms.form_errors(form), [])
 
     def test_lexical_retirement_does_not_affect_names(self):
-        self.assertIn("sorae", validate_examples.RETIRED_FORMS)
-        self.assertEqual(name_forms.form_errors("sorae"), [])
+        for form in ("sorae", "phelora"):
+            with self.subTest(form=form):
+                self.assertIn(form, validate_examples.RETIRED_FORMS)
+                self.assertEqual(name_forms.form_errors(form), [])
 
     def test_form_must_be_content_shaped(self):
         self.assertTrue(name_forms.form_errors("sa"))

@@ -26,7 +26,7 @@ Read these aloud, giving every vowel its full beat and keeping every border clea
 **shea womu nai.** — Peace is home.
 *sheh-ah woh-moo nah-ee*
 
-**mia phelora peloru nila.** — I see a beautiful flower.
-*mee-ah feh-loh-rah peh-loh-roo nee-lah*
+**mia mioru peloru nila.** — I see a beautiful flower.
+*mee-ah mee-oh-roo peh-loh-roo nee-lah*
 
 If you feel yourself folding the vowel pairs together, that is another sound system doing familiar work. Let each vowel finish. The technical rules arrive in Part III; for now, teach your mouth the walk.

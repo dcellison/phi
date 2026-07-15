@@ -59,7 +59,7 @@ BETWEEN 3SG foot one winter green branch PST be.
 (Between his paws was a sprig of the winter's green.)
 williams: "with a sprig of holly between his paws,"
 
-shia ru phelora to nai.
+shia ru mioru to nai.
 3SG INTS beautiful PST be.
 (He was altogether charming.)
 williams: "the effect was charming."
@@ -120,7 +120,7 @@ soft cloth rabbit PST PASS forget.
 williams: "the Velveteen Rabbit was forgotten."
 ```
 
-**Notes:** `horae` (radiant) carries "really splendid": light reaching outward, beauty that cannot be contained, which is what a new toy's splendor is; "charming" closes the scene at `ru phelora`, the plainer beauty of the whole effect. The rabbit's body is `theru nela wuloe`, plump and soft, and Williams's aside "as a rabbit should be" keeps its own sentence and its own obligation: `tupiwa na theru nela wuloe nai`, the gnomic `na` making rabbit-shape a law of nature. `piloe` (spot), coined for this text, carries the spotted coat here and waits for the story's last scene, where the spots are how the child almost knows him again. The stocking is `lopia paloi wethalu`, the child's foot-garment, its top the garment's `thorui`, the opening; being "wedged" there is `se peki`, squeezed, the sitting folded into the squeeze. The holly sprig is `shila liro loremi`, a branch of the winter's green, named by what holly is in the festival: the green that winter cannot take. Canon refuses clock time, so "at least two hours" becomes `ta laeno shemu`, one long moment, keeping the joke's shape (a love both real and brief) without the hour-count; and canon refuses gendered person-words, so Aunts and Uncles arrive as `lo thaluni`, the kinfolk. The stocking's plenty is itemized, not summarized: nuts are `kerou lureko`, stone-fruit, the fruit hard as stone; oranges are `thero welisha lureko`, fruit of the fire color the compound registry already names; chocolate almonds are the same stone-fruit made sweet; and the clockwork mouse is `keli misuki`, the device-mouse, `misuki` coined for the smallest housemate. The scene ends where Williams ends it, on the passive `se sahu`: the rabbit was forgotten, no one in particular doing the forgetting.
+**Notes:** `horae` (radiant) carries "really splendid": light reaching outward, beauty that cannot be contained, which is what a new toy's splendor is; "charming" closes the scene at `ru mioru`, the plainer beauty of the whole effect. The rabbit's body is `theru nela wuloe`, plump and soft, and Williams's aside "as a rabbit should be" keeps its own sentence and its own obligation: `tupiwa na theru nela wuloe nai`, the gnomic `na` making rabbit-shape a law of nature. `piloe` (spot), coined for this text, carries the spotted coat here and waits for the story's last scene, where the spots are how the child almost knows him again. The stocking is `lopia paloi wethalu`, the child's foot-garment, its top the garment's `thorui`, the opening; being "wedged" there is `se peki`, squeezed, the sitting folded into the squeeze. The holly sprig is `shila liro loremi`, a branch of the winter's green, named by what holly is in the festival: the green that winter cannot take. Canon refuses clock time, so "at least two hours" becomes `ta laeno shemu`, one long moment, keeping the joke's shape (a love both real and brief) without the hour-count; and canon refuses gendered person-words, so Aunts and Uncles arrive as `lo thaluni`, the kinfolk. The stocking's plenty is itemized, not summarized: nuts are `kerou lureko`, stone-fruit, the fruit hard as stone; oranges are `thero welisha lureko`, fruit of the fire color the compound registry already names; chocolate almonds are the same stone-fruit made sweet; and the clockwork mouse is `keli misuki`, the device-mouse, `misuki` coined for the smallest housemate. The scene ends where Williams ends it, on the passive `se sahu`: the rabbit was forgotten, no one in particular doing the forgetting.
 
 ## lopia tholu — The nursery
 
@@ -422,7 +422,7 @@ QUOT.COMP CONTR PL PROX thing INTS small be QUOT.COMP.CLOSE.
 ("But these things are altogether small.")
 williams: "But these things don't matter at all,"
 
-shola lu thia shewo kelu. li rena ma shelomu miona thia ma phelora nila sholo.
+shola lu thia shewo kelu. li rena ma shelomu miona thia ma mioru nila sholo.
 QUOT.COMP COND 2SG true become. RESTR REL NEG understand person 2SG NEG beautiful see QUOT.COMP.CLOSE.
 ("Once you become Real, only the people who do not understand see you as unbeautiful.")
 williams: "because once you are Real you can't be ugly, except to people who don't understand.\""
@@ -715,7 +715,7 @@ small rabbit INTS joyful PST be.
 (The little rabbit was very joyful.)
 williams: "and the little Rabbit was very happy-"
 
-thelao shia mawha thimu mena miso phelora whila mo serao kelu meno to nila.
+thelao shia mawha thimu mena miso mioru whila mo serao kelu meno to nila.
 CONS 3SG NONE time DECL.COMP REFL beautiful hair CMPR old become DECL.COMP.CLOSE PST see.
 (So joyful that he never once saw his own beautiful fur becoming ever more worn.)
 williams: "so happy that he never noticed how his beautiful velveteen fur was getting shabbier and shabbier,"
@@ -761,7 +761,7 @@ PL 3SG ON grass PST together eat.
 (They ate together on the grass.)
 williams: "and picnics on the grass,"
 
-lopia phou lo mirulo loremi wei shia lo phelora thiku whekelu womu to lorima.
+lopia phou lo mirulo loremi wei shia lo mioru thiku whekelu womu to lorima.
 child BELOW PL berry branch DAT 3SG PL beautiful small magic home PST build.
 (Under the berry canes, the child built lovely little magic houses for him.)
 williams: "and lovely fairy huts built for him under the raspberry canes"
@@ -822,7 +822,7 @@ space keeper INS 3SG craft garment edge rabbit PST wipe.
 williams: "as she rubbed him off with a corner of her apron."
 ```
 
-**Notes:** the wheelbarrow is `manuwe rolutha`, the hand-wagon, and the picnics are what picnics are, eating together on the grass. The fairy huts become the coined magic's second scene: `lo phelora thiku whekelu womu`, lovely little magic-houses, built under `lo mirulo loremi`, the berry canes, `mirulo` (berry) placing the raspberry thicket that will anchor three more scenes. "Wherever he went" and "unless he was there" both build from the grammar's own small parts: the bare question-word under `lu` for wherever, and the deictic `ra` negated for the empty bedside. The dusk vigil nests its relators as the corpus already nests them, `tei pheo norawhi laeno shemu`, until a long moment after dusk; the search rides inside `hekawi` (find), whose own entry holds the seeking, and the grumble is `roe thiku korua thero`, speech with a small heart-fire, anger at the size Nana actually feels it. The apron is her `theko wethalu`, work-garment, its corner the garment's `shuna`, edge.
+**Notes:** the wheelbarrow is `manuwe rolutha`, the hand-wagon, and the picnics are what picnics are, eating together on the grass. The fairy huts become the coined magic's second scene: `lo mioru thiku whekelu womu`, lovely little magic-houses, built under `lo mirulo loremi`, the berry canes, `mirulo` (berry) placing the raspberry thicket that will anchor three more scenes. "Wherever he went" and "unless he was there" both build from the grammar's own small parts: the bare question-word under `lu` for wherever, and the deictic `ra` negated for the empty bedside. The dusk vigil nests its relators as the corpus already nests them, `tei pheo norawhi laeno shemu`, until a long moment after dusk; the search rides inside `hekawi` (find), whose own entry holds the seeking, and the grumble is `roe thiku korua thero`, speech with a small heart-fire, anger at the size Nana actually feels it. The apron is her `theko wethalu`, work-garment, its corner the garment's `shuna`, edge.
 
 ## shewo haolu — The declaration
 
@@ -918,7 +918,7 @@ PL 3SG ANT long time PST CESS bright give.
 williams: "that had long ago lost their polish,"
 
 muo lo ha mirae nulo sano nela mioru nila to shua.
-INTO PL PROX eye deep know COORD beauty see PST come.
+INTO PL PROX eye deep know COORD beautiful see PST come.
 (Into those eyes there came a look of deep knowing and of beauty.)
 williams: "there came a look of wisdom and beauty,"
 
@@ -1395,7 +1395,7 @@ RESTR DAT child 3SG rabbit PST be.
 (Only to the child was he still a rabbit.)
 williams: "except to the Boy."
 
-wei shia tupiwa theula thimu phelora to nai.
+wei shia tupiwa theula thimu mioru to nai.
 DAT 3SG rabbit UNIV time beautiful PST be.
 (To him, the rabbit was always beautiful.)
 williams: "To him he was always beautiful,"
@@ -1833,7 +1833,7 @@ shia mena theula ha shemu neo miso wepu meno to ho nila.
 (He seemed to see all those hours pass before him.)
 williams: "He seemed to see them all pass before him,"
 
-theula sheo phirae mo phelora to nai.
+theula sheo phirae mo mioru to nai.
 UNIV THAN different CMPR beautiful PST be.
 (Each more beautiful than the last.)
 williams: "each more beautiful than the other,"
@@ -1869,7 +1869,7 @@ shia theula kori kalora haolu to remo.
 williams: "and all that he had told him."
 
 lu theula thena lumae phea ha nai. lothea nela mioru lepa nela shewo kelu wei hina nai.
-COND UNIV thing end AS PROX be. love COORD beauty fall COORD true become DAT what be.
+COND UNIV thing end AS PROX be. love COORD beautiful fall COORD true become DAT what be.
 (If the end of it all is like this, for what is the loving, and the falling of beauty, and the becoming Real?)
 williams: "Of what use was it to be loved and lose one's beauty and become Real if it all ended like this?"
 
@@ -1924,7 +1924,7 @@ LOC leaf middle one blossom AS gold cup PST be.
 (And in the middle of the leaves was a blossom like a golden cup.)
 williams: "and in the centre of the leaves a blossom like a golden cup."
 
-shia ru phelora to nai. thelao thiku tupiwa nuhewa to sahu.
+shia ru mioru to nai. thelao thiku tupiwa nuhewa to sahu.
 3SG INTS beautiful PST be. CONS small rabbit weep PST forget.
 (It was so beautiful that the little rabbit forgot to weep.)
 williams: "It was so beautiful that the little Rabbit forgot to cry,"
@@ -1944,7 +1944,7 @@ ABL 3SG one magic person PST come.
 (And out of it came a magic person.)
 williams: "and out of it there stepped a fairy."
 
-shia mua theula muila mo ko phelora whekelu miona to nai.
+shia mua theula muila mo ko mioru whekelu miona to nai.
 3SG LOC UNIV earth CMPR FOC beautiful magic person PST be.
 (She was the most beautiful magic person in the whole world.)
 williams: "She was quite the loveliest fairy in the whole world."
@@ -2040,7 +2040,7 @@ BECAUSE moon PST PFV come night bright PST be.
 (Because the moon had risen, the night was bright.)
 williams: "It was light now, for the moon had risen."
 
-theula shelira phelora to nai.
+theula shelira mioru to nai.
 UNIV forest beautiful PST be.
 (All the forest was beautiful.)
 williams: "All the forest was beautiful,"

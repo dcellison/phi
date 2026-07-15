@@ -40,9 +40,9 @@ The Slot 1 particles keep their ranked place before the whole of it, so the verb
 
 | | function words | descriptor | head |
 |---|---|---|---|
-| noun phrase | `ha` | `phelora` | `thepalu` |
+| noun phrase | `ha` | `mioru` | `thepalu` |
 | verb phrase | `to` | `reshi` | `kolua` |
 
-"This beautiful garden"; "carried swiftly". One shape, two phrases. The same position serves when the description belongs to how something is perceived rather than how it is done: the Velveteen text's `thia ma phelora nila`, "see you as unbeautiful".
+"This beautiful garden"; "carried swiftly". One shape, two phrases. The same position serves when the description belongs to how something is perceived rather than how it is done: the Velveteen text's `thia ma mioru nila`, "see you as unbeautiful".
 
 That is the whole method, and it scales to everything ahead: a reliable default, and explicit, audible instructions for every departure from it. The speaker carries the burden of clarity so the listener never has to guess. Phi considers that a fair division of labor.

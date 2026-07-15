@@ -6,7 +6,7 @@ The particle *hi* marks information as directly witnessed through the speaker's 
 
 **mia hi nila.** — I see (this). (I am directly witnessing it.)  
 **shia to hi wepu.** — They left. (I saw them leave.)  
-**peloru hi phelora nai.** — The flower is beautiful. (I see it myself.)
+**peloru hi mioru nai.** — The flower is beautiful. (I see it myself.)
 
 The *hi* particle emphasizes that the speaker has firsthand sensory knowledge, not inference, report, or assumption.
 

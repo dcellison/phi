@@ -153,7 +153,7 @@ The English sentence hangs every pair on the verb "merge." The Phi version gives
 #### 3. Read the result
 
 *   **Phi:** `mua lei ruela porua welao nela mioru lorea. thesua lorima nela liro lioru lorea. keru nela muroa lorea.`
-*   **Gloss:** `in harmony path [purpose-good and beauty] connect. [mindful-build and green life] connect. [bright and earthy] connect.`
+*   **Gloss:** `in harmony path [purpose-good and beautiful] connect. [mindful-build and green life] connect. [bright and earthy] connect.`
 *   **Translation:** In the path of harmony, the practical and the beautiful connect. The well-designed and the green and lush connect. The bright and the earthy connect.
 
 The final form is Phi, but it does not claim to preserve every detail of the English sentence. It keeps the relationships the exercise chose and lets the rest fall away. That deliberate change is transmutation.

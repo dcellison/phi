@@ -3,7 +3,7 @@
 Where `nela` says "and," `thona` says "but." It connects elements that stand in some kind of tension: two things are true even though they pull in different directions.
 
 ```
-shiro phelora nai thona thiku nai.
+shiro mioru nai thona thiku nai.
 tree beautiful be ADVRS small be.
 (The tree is beautiful, but it is small.)
 ```
@@ -28,12 +28,12 @@ brave ADVRS mindful.
 
 Compare two ways of handling a complex observation:
 
-Without contrast: `shiro phelora nai. shiro thiku nai.`
+Without contrast: `shiro mioru nai. shiro thiku nai.`
 (The tree is beautiful. The tree is small.)
 
 Two separate statements, sitting next to each other without acknowledged tension.
 
-With contrast: `shiro phelora nai thona thiku nai.`
+With contrast: `shiro mioru nai thona thiku nai.`
 (The tree is beautiful, but it is small.)
 
 A single observation that holds both truths together and lets the listener feel the relationship between them.
