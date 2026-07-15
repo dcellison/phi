@@ -7,19 +7,31 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Peace / Harmonious Stillness",
-  "description": "A state of harmony characterized by the absence of violence and the presence of justice, understanding, and mutual flourishing. Peace encompasses inner tranquility, social harmony, and the active work of creating conditions where all beings can thrive.",
-  "sound_symbolism": "The fricative 'sh' is the hushing sound speakers already use to quiet a room. It opens across a vowel hiatus into 'a', the most open vowel, so the word ends on a held-open breath. The pause of the hiatus puts a small rest inside the word itself.",
-  "grammatical_notes": "A noun. Predicative use places it before 'nai': 'su sila shea nai.' (May the community be at peace.) Before another noun it modifies by position (peaceful). Related to 'phaelu' (peaceful, as settled quality) and 'shena' (calm).",
+  "search_terms": [
+    "harmony",
+    "inner peace",
+    "social peace"
+  ],
+  "description": "Peace has two ordinary homes in Phi. A person may feel 'shea' inwardly, and a community may share it as freedom from violence and workable accord. 'phaelu' (peaceful) describes a lasting disposition, while 'shena' (calm) belongs to low agitation in the present moment. Disagreement can remain inside peace when people meet it without violence and keep the relationship workable.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and direct air through the narrow channel into stressed true-mid front 'e'. Keep the following open central 'a' in its own syllable across the 'e.a' hiatus.",
+  "sound_symbolism": "The sustained hush of 'sh' crosses an exposed vowel hiatus and ends with the mouth open. In Phi, that release offers a mnemonic for peace as room left for breath and reply.",
+  "usage_notes": "With 'phaelo' (feel), 'shea' names the inward feeling. With 'nai', it can predicate a social condition, and ordinary noun position lets it describe a following noun.",
+  "examples": [
+    {
+      "phi": "mia shea phaelo.",
+      "translation": "I feel peace."
+    },
+    {
+      "phi": "su sila shea nai.",
+      "translation": "May the community be at peace."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Sustainable peace requires addressing root causes - inequality, resource scarcity, and damaged ecosystems. Solarpunk peace-building creates regenerative systems where cooperation yields more than competition, where abundance is shared, and where human flourishing doesn't depend on others' deprivation.",
-    "secular-buddhist-philosophy": "Inner peace arises from understanding the impermanent nature of all phenomena - when we stop grasping at what must change, agitation ceases. This isn't detachment from the world but deeper engagement without the friction of resistance. Peace begins within and radiates outward through our actions.",
-    "peace-linguistics-practices": "Peace through language requires active cultivation - choosing words that heal rather than harm, creating space for all voices, and transforming conflict through dialogue. This practice sees peace not as mere absence of conflict but as the presence of justice, understanding, and structures that support mutual thriving.",
-    "pre-industrial-wisdom": "Traditional peacemaking focused on restoring relationships rather than punishing wrongdoers - understanding that community harmony matters more than individual vindication. These practices of restorative justice, talking circles, and ritual reconciliation offer time-tested alternatives to cycles of vengeance."
+    "secular-buddhist-philosophy": "Inner peace is a condition that can be noticed without being mistaken for withdrawal from the world. 'shea' also leaves room for the work needed to restore peace between people.",
+    "peace-linguistics-practices": "Peaceful speech does not erase disagreement. It lets people speak truth without treating the relationship itself as expendable."
   },
   "semantic_domains": {
-    "community": "social harmony and collective thriving",
-    "emotion": "peace as fundamental emotional and spiritual state",
-    "wisdom": "requires understanding and active cultivation"
+    "community": "accord among people or groups without violence",
+    "emotion": "peace felt as an inward condition"
   }
 }

@@ -29,8 +29,9 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Aesthetic and formal qualities | **DONE** | Thirteen inherited base adjectives now use the target prose contract, with `mioru` as the already-migrated anchor. Applied ornament remains a review question rather than a hurried coinage. |
 | Awareness and epistemic qualities | **DONE** | Fifteen inherited entries now use the target prose contract. The scan of confusion, uncertainty, distraction, non-knowledge, obviousness, and general cognitive ability found no missing base root. |
 | Ethics, care, and candour | **DONE** | Eleven inherited entries now use the target prose contract, with `thua` (fair) as an already-migrated anchor. Deliberate or callous infliction of suffering remains a lexical review question. |
+| Core emotion inventory | **DONE** | The fifteen remaining legacy entries in canon's felt-basic inventory now use the target prose contract. Complex feelings retain their settled compositional treatment, while the relation between canon's claim of a complete inventory and several older state adjectives is recorded for review. |
 | Semantic-domain contract and target-entry audit | **DONE** | [PR #368](https://github.com/dcellison/phi/pull/368) establishes the fifteen-domain browse catalogue and checks all 133 target-contract content entries against its retrieval rule. |
-| Resume inherited content prose migration | **NEXT** | Continue after the ethics, care, and candour batch. Each semantic group passes through this coverage gate. |
+| Resume inherited content prose migration | **NEXT** | Continue after the core emotion inventory. Each semantic group passes through this coverage gate. |
 
 ## Batch overview
 
@@ -46,6 +47,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Aesthetic and formal qualities | [PR #364](https://github.com/dcellison/phi/pull/364) | **REVIEW** | The ordinary distinctions are covered. Phi can describe ornamented work but does not yet name an applied ornament or the act of decorating directly. |
 | Awareness and epistemic qualities | [PR #365](https://github.com/dcellison/phi/pull/365) and [PR #366](https://github.com/dcellison/phi/pull/366) | **COVERED** | Direct words and established constructions keep consciousness, attention, truth, accuracy, error, uncertainty, insight, intuition, understanding, and judgement apart without a new base root. |
 | Ethics, care, and candour | [PR #367](https://github.com/dcellison/phi/pull/367) | **REVIEW** | The ordinary distinctions are covered. Phi can describe cruel conduct in clauses, but recurring ethical use makes a direct word for deliberate or callous infliction of suffering worth testing. |
+| Core emotion inventory | [PR #369](https://github.com/dcellison/phi/pull/369) | **REVIEW** | Canon settles the core feeling grammar and the compositional treatment of complex emotions. Its claim that the listed basics are the whole coined emotion lexicon still needs reconciliation with older state adjectives outside that list. |
 
 ## Semantic batches and stable domains
 
@@ -65,6 +67,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Aesthetic and formal qualities | `aesthetic`, `physical`, `cognition` | Formal simplicity or precision may concern an explanation without becoming `wisdom`. |
 | Awareness and epistemic qualities | `cognition`, `wisdom`, `communication` | Attention is cognitive; sound judgement is wisdom; an account offered to another person is communication. |
 | Ethics, care, and candour | `ethics`, `community`, `communication`, `emotion` | Conduct, social relation, expression, and feeling remain separately retrievable. |
+| Core emotion inventory | `emotion`, `community`, `physical`, `temporal`, `aesthetic` | A feeling, its bodily response, a social condition, willingness through time, and perceivable composure remain separate routes. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -274,6 +277,30 @@ A person can be honest and mistaken, sincere and harmful, generous and intrusive
 
 The eleven inherited adjectives in this batch now use the target prose contract, with already-migrated `thua` as the fairness anchor. No new root is coined here. Only cruelty remains under review. Harmfulness alone does not cover a person who recognizes suffering yet chooses to cause it or let it continue. The next step is a short scenario that varies intention, indifference, power, and effect before Phi decides whether that pattern deserves a base word.
 
+## Core emotion inventory
+
+Canon names this inventory outright. Five feeling nouns take `phaelo` (feel), and fourteen adjective states predicate with `nai` (be). Four of those adjectives already had the target prose contract; this batch migrates the other fifteen entries. The `emotion` browse domain is wider than the teaching inventory because it also retrieves actions, relationships, bodily states, and things that prompt an affective response.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Basic feeling grammar | Nouns `shea`, `nuhe`, `sukima`, `nupira`, and `thomari`; adjective states `siora`, `loshi`, `shena`, `phaelu`, `noalu`, `thiro`, `nuloe`, `nemo`, `kuelo`, `phaeli`, `hurao`, `shaelo`, `phena`, and `thoru` | **SETTLED** | The two grammatical patterns keep a felt noun from becoming the person's identity and let an adjective describe the state actually present. |
+| Felt joy and a joy-giving occasion | `siora` (joy) and `loshi` (joyful) | **COVERED** | `siora` belongs to the person who feels gladness. `loshi` belongs to the day, message, place, or event that awakens or expresses it. |
+| Peace and neighbouring forms of calm | `shea` (peace), `phaelu` (peaceful), `shena` (calm), `noalu` (tranquil), `thiro` (serene), and `nuloe` (content) | **COVERED** | Peace itself, a sustained peaceful disposition, present low agitation, quiet that has endured, visible composure, and satisfaction with enough each keep their own word. |
+| Gratitude, appreciation, and thanks | `nemo` (grateful), `woraka` (appreciate), and `whaline` (thank) | **COVERED** | Gratitude is the state, appreciation recognises value, and thanking expresses the response to another person. |
+| Emotional tenderness, gentle force, and material softness | `phaeli` (tender), `moli` (gentle), and `wuloe` (soft) | **COVERED** | Tenderness is the feeling that may guide an act. Gentleness describes its low force or mild manner, while softness describes how material yields to contact. |
+| Patience, calm, and steadiness | `hurao` (patient), `shena` (calm), and `kolu` (steady) | **COVERED** | Patience is willingness through delay or difficulty. Calm reports present agitation, and steadiness reports regularity through time. |
+| Courage, bravery, and boldness | `thomari` (courage), `shaelo` (brave), and `kaeshu` (bold) | **COVERED** | Courage is the felt quality, bravery describes facing fear or danger, and boldness describes readiness to step forward or take a risk. None decides whether the resulting act is wise or kind. |
+| Pride, dignity, and contempt | `thoru` (proud), `thunoa` (dignified), and registered `thiku nila` (seeing as small) | **COVERED** | Pride is satisfaction or self-respect, dignity is composed self-possession in conduct or treatment, and contempt is the separate act of seeing someone as lesser. |
+| Anger and hatred | Registered `korua thero` (heart-fire) | **SETTLED** | Canon keeps both feelings compositional so the bodily heat and its place in the heart remain visible instead of disappearing behind a label. |
+| Envy and jealousy | Registered `phelu pula` (holding-wish) | **SETTLED** | The compound shows a wish aimed at what another holds. Canon uses this row as the model for complex feelings rather than coining a dedicated root. |
+| Loneliness | `sonu` (alone) with `nuhe` (sadness) | **SETTLED** | The composition distinguishes the circumstance of being alone from sadness about it, so chosen solitude remains sayable without being diagnosed as loneliness. |
+| Wonder as an inner question | Interrogative complementizers `wela ... welo` inside `phaelo` | **SETTLED** | Phi says what the speaker wonders rather than turning the open question into an unanalysed feeling noun. `waora` (wondrous) still describes something that exceeds expectation. |
+| Actions and relations of the heart | `lothea` (love), `soliru` (hope), `pula` (wish), `theomi` (trust), `nuhemi` (grieve), `nelu` (revere), `woraka` (appreciate), and `whaline` (thank) | **COVERED** | These verbs name what a person does or sustains in relation to someone, something, or a possible outcome. Their event nouns do not enlarge the basic state inventory. |
+| Other complex affective experiences | Existing base vocabulary and ordinary clauses | **SETTLED** | Canon closes further roots for complex feelings. Connected use may register a stable composition, but an English headword such as guilt, anxiety, boredom, disgust, or excitement does not reopen coinage by itself. |
+| Older state adjectives outside the declared inventory | In particular `monelu` (amused), `wiroa` (hopeful), `luroi` (nervous), `nilua` (shy), `therua` (eager), `sheli` (impatient), and `wipha` (restless) | **REVIEW** | These entries already exist, yet canon calls the listed felt basics the whole coined emotion lexicon. A later ruling should say whether they are non-core dispositions outside that phrase or whether canon and the lexicon have drifted apart. This batch leaves their forms and prose untouched. |
+
+The fifteen migrated entries now have full target prose and validated examples. Their sound notes separate physical articulation from embodied sound symbolism, and their domain rationales follow the new retrieval rule. No root is added. The core carves are complete; the remaining question concerns the boundary around the inventory rather than an obvious missing feeling word.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -314,4 +341,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete. The inherited content prose migration has now passed through sensory and perceptual qualities, aesthetic and formal qualities, awareness and epistemic qualities, and ethics, care, and candour. The next semantic neighbourhood begins after this batch with the same coverage gate in place; `pothu`, applied ornament, and deliberate or callous infliction of suffering remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete. The inherited content prose migration has now passed through sensory and perceptual qualities, aesthetic and formal qualities, awareness and epistemic qualities, ethics, care, and candour, and the core emotion inventory. The next semantic neighbourhood begins after this batch with the same coverage gate in place; `pothu`, applied ornament, deliberate or callous infliction of suffering, and the boundary around canon's emotion inventory remain recorded review questions rather than hidden gaps.

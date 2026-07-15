@@ -8,16 +8,24 @@
     "lu"
   ],
   "pos": "adjective",
-  "concept": "Tranquil / Deeply Peaceful / Undisturbed",
-  "description": "Free from disturbance or turmoil; deeply peaceful. 'Noalu' names the still lake without ripple, the mind without wave—the state where nothing disturbs the underlying quiet.",
-  "sound_symbolism": "The word rests in deep stillness. 'No' begins with inward nasal, turning within. The vowel hiatus 'o.a' opens inner space, vast and still. Then 'lu' settles into liquid rest, the depths undisturbed.",
-  "grammatical_notes": "Functions as an adjective: 'noalu thelomi' (tranquil lake). Deeper than 'shena' (calm)—implies settled, lasting peace rather than momentary stillness.",
+  "search_terms": [
+    "deeply calm",
+    "undisturbed"
+  ],
+  "description": "A lake after the wind drops and a mind after agitation settles can both be 'noalu'. The word describes deep tranquillity whose quiet has endured. 'shena' (calm) reports low agitation at the present moment, while 'thiro' (serene) adds visible or audible composure.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and draw the tongue back with rounded lips for true-mid 'o'. Open into stressed central 'a' in its own syllable across the 'o.a' hiatus. Touch the tongue tip to the alveolar ridge for 'l', let the voice pass along its sides, and finish with rounded high-back 'u'.",
+  "sound_symbolism": "The dental nasal and rounded opening give way to a broad stressed vowel, then the lateral lets the word settle into rounded 'u' without a hard closure. The spacious middle and quiet finish suggest water after its ripples have gone.",
+  "examples": [
+    {
+      "phi": "thelomi noalu nai.",
+      "translation": "The lake is tranquil."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Tranquility is the fruit of practice—the deep peace that remains undisturbed even when surface conditions change.",
-    "pre-industrial-wisdom": "Traditional peoples sought tranquil places for healing and ceremony—the settled quiet that restores."
+    "secular-buddhist-philosophy": "Tranquillity can grow through practice and remain present while experience continues. The word describes the settled condition without claiming that nothing difficult exists."
   },
   "semantic_domains": {
-    "emotion": "Deep peace",
-    "wisdom": "Undisturbed state"
+    "aesthetic": "settled quiet perceived in a place, scene, or manner",
+    "emotion": "deep calm that has remained undisturbed"
   }
 }

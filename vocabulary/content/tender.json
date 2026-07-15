@@ -8,16 +8,23 @@
     "li"
   ],
   "pos": "adjective",
-  "concept": "Tender / Soft and Gentle / Easily Affected",
-  "description": "Showing gentleness and concern; soft or delicate in substance. 'Phaeli' names the quality of tenderness—gentle touch, soft feeling, vulnerability that opens to care.",
-  "sound_symbolism": "The word touches gently. 'Pha' /ɸa/ begins with soft breath, gentleness present. The vowel 'e' opens to feeling, sensitivity awakening. Then 'li' rests lightly, tenderness complete.",
-  "grammatical_notes": "Functions as an adjective: 'phaeli korua' (tender heart). Can describe physical softness or emotional gentleness. Related to 'moli' (gentle) and 'wuloe' (soft).",
+  "search_terms": [
+    "affectionate",
+    "emotionally gentle"
+  ],
+  "description": "A hand approaching a bruise and a reply to a frightened child may both be 'phaeli', emotionally tender towards someone vulnerable or dear. 'moli' (gentle) describes low force or mild manner, and 'wuloe' (soft) describes material that yields to contact. Tenderness is the feeling that may guide a careful touch or reply, whether or not it becomes visible.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then open into central 'a'. Move the tongue forward for stressed true-mid unrounded 'e' in its own syllable across the 'a.e' hiatus. Touch the tongue tip to the alveolar ridge for 'l', let the voice pass along its sides, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "A breathy opening crosses the exposed hiatus, and the final lateral releases lightly into 'i' without closing the mouth. The shape brings to mind a touch that approaches carefully and does not press.",
+  "examples": [
+    {
+      "phi": "shia phaeli lonae.",
+      "translation": "They respond tenderly."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Tender awareness notices suffering—the soft heart that feels with others rather than hardening against pain.",
-    "peace-linguistics-practices": "Tender communication touches gently—words that acknowledge vulnerability and respond with care."
+    "peace-linguistics-practices": "A tender response recognises vulnerability in its timing and manner. It can remain truthful while reducing needless force."
   },
   "semantic_domains": {
-    "emotion": "Gentle feeling",
-    "physical": "Soft quality"
+    "emotion": "gentle feeling towards someone or something held dear or vulnerable"
   }
 }

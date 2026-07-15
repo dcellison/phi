@@ -8,16 +8,23 @@
     "lo"
   ],
   "pos": "adjective",
-  "concept": "Brave / Courageous / Facing Fear with Resolve",
-  "description": "Ready to face and endure danger or pain; showing courage. 'Shaelo' names the quality of courage—not fearlessness but the willingness to act rightly despite fear.",
-  "sound_symbolism": "The word faces forward. 'Sha' /ʃa/ begins with breath released, fear acknowledged. The vowel 'e' opens to what must be faced. Then 'lo' moves forward with steady resolve, courage embodied.",
-  "grammatical_notes": "Functions as an adjective: 'shaelo miona' (brave person). Phi courage is not aggressive—it faces difficulty without causing harm, protects without attacking.",
+  "search_terms": [
+    "courageous",
+    "facing fear"
+  ],
+  "description": "A person or act is 'shaelo' when it faces fear, danger, or pain with resolve. Bravery allows fear to remain present; it is the willingness to proceed or stay rather than an absence of alarm. 'thomari' (courage) names the felt quality, while 'kaeshu' (bold) describes readiness to step forward or take a risk.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and direct air through the narrow channel into open central 'a'. Move the tongue forward for stressed true-mid unrounded 'e' in its own syllable across the 'a.e' hiatus. Touch the tongue tip to the alveolar ridge for 'l', let the voice pass along its sides, and finish with rounded true-mid back 'o'.",
+  "sound_symbolism": "The sustained fricative opens into 'a', the stressed hiatus leaves the middle exposed, and the lateral carries the word into rounded 'o' without a hard stop. In Phi, that steady release can recall fear met without hardening against it.",
+  "examples": [
+    {
+      "phi": "shia shaelo nai.",
+      "translation": "They are brave."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Building sustainable futures requires courage—the willingness to change despite uncertainty and resist harmful systems.",
-    "secular-buddhist-philosophy": "True courage faces suffering directly—the bravery to see things as they are and act from compassion despite difficulty."
+    "peace-linguistics-practices": "Bravery may be needed to speak plainly, hear an unwelcome account, or remain in repair. Aggression is one possible act under fear, not evidence that the act was brave."
   },
   "semantic_domains": {
-    "emotion": "Courage",
-    "wisdom": "Facing difficulty"
+    "emotion": "resolve shown while fear, danger, or pain is present"
   }
 }

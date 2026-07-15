@@ -184,7 +184,7 @@
 | `wiresu` | postpone | moving a planned action to a later time |
 | `wishe` | swim | The body's water-travel |
 
-## aesthetic (80)
+## aesthetic (81)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -217,6 +217,7 @@
 | `mueli` | plain (unadorned) | a form or surface with little or no applied ornament |
 | `mureli` | brown | brown across ordinary light and dark shades |
 | `muwi` | interior | Within |
+| `noalu` | tranquil | settled quiet perceived in a place, scene, or manner |
 | `noporu` | design | shaping form in relation to material and use |
 | `nuelo` | dark | a dim scene or a color seen as a dark shade |
 | `nuko` | black | the achromatic category at the low end of perceived lightness |
@@ -745,7 +746,7 @@
 | `numelo` | nurture | Supporting growth of others |
 | `numike` | negotiate | Resolving differences through communication |
 | `nunoa` | forager | Gathering role |
-| `nupira` | shame | What honest repair must pass through |
+| `nupira` | shame | self-conscious pain shaped by exposure or social judgement |
 | `nuroa` | kitchen | Nourishment place |
 | `nurome` | meal | food gathered for solitary or shared eating |
 | `nuwera` | bed | The rest a household provides its members |
@@ -755,6 +756,7 @@
 | `pawela` | participate | participation is inherently social and collective |
 | `peloma` | harmful | effects that diminish another person's or a community's wellbeing |
 | `pemaru` | hazard | a condition whose exposure and consequences may be shared or unequal |
+| `phaelu` | peaceful | a nonviolent and workable condition among people |
 | `phaeno` | week | Work rhythm |
 | `phaliso` | network | fundamentally about collective relationships and mutual support |
 | `phamo` | console | Supporting the bereaved |
@@ -809,7 +811,7 @@
 | `shane` | tell | How news and stories move between people |
 | `shanewi` | notify | formal notice directed to identified recipients |
 | `shaweri` | advocate | support for a person's expressed interests or a shared cause |
-| `shea` | peace | social harmony and collective thriving |
+| `shea` | peace | accord among people or groups without violence |
 | `shelira` | forest | Tree community gathering |
 | `shemoli` | harmonize | Bringing differences into accord |
 | `shemui` | utter | connecting people through shared words |
@@ -827,7 +829,6 @@
 | `sikanu` | certify | a status attributed by a named person or institution |
 | `sila` | community | fundamentally about social relationships and collective organization |
 | `silawo` | village | The gathered homes |
-| `siora` | joy | multiplies through sharing and builds collective resilience |
 | `sirami` | record | an institutional or shared record with access conditions |
 | `sirelu` | disclose | changing who may know bounded information |
 | `sithora` | role | a social or institutional role with bounded scope |
@@ -1098,7 +1099,7 @@
 | `holia` | festival | Communal joy |
 | `holume` | loss | What remains of holding |
 | `horae` | radiant | delight made visible in a face or manner |
-| `hurao` | patient | Accepting delay |
+| `hurao` | patient | willing endurance without being driven by agitation |
 | `kaeli` | like | the feeling of preference and affinity |
 | `kaeshu` | bold | Confident daring |
 | `kapura` | shout | intensity breaking into voice |
@@ -1110,7 +1111,7 @@
 | `korua` | heart | the metaphorical seat of feeling and courage |
 | `lei` | harmony | creates feelings of peace and rightness when elements unite |
 | `liroa` | playful | Lighthearted joy |
-| `loshi` | joyful | Deep happiness |
+| `loshi` | joyful | the character of something that awakens or expresses joy |
 | `lothea` | love | Deep affection and care |
 | `lumani` | family | nurtures deep bonds of love, care, and mutual support |
 | `luroi` | nervous | Anxious state |
@@ -1124,23 +1125,23 @@
 | `motu` | humble | Without arrogance |
 | `muro` | stubborn | Inflexible |
 | `nelu` | revere | Deep respect |
-| `nemo` | grateful | Thankfulness |
+| `nemo` | grateful | appreciation felt in response to benefit or support |
 | `nilua` | shy | Social hesitance |
-| `noalu` | tranquil | Deep peace |
+| `noalu` | tranquil | deep calm that has remained undisturbed |
 | `noeli` | warm (emotional) | Welcoming kindness |
 | `nolami` | bond | creates tender embrace through care and presence |
 | `nomela` | encourage | gives hope and confidence through heartfelt support |
 | `nophei` | loyal | Steadfast commitment |
 | `norethi` | confident | felt steadiness in one's understanding or ability |
-| `nuhe` | sadness | The heavy feeling of loss or sorrow |
+| `nuhe` | sadness | the felt heaviness of sorrow or unhappiness |
 | `nuhemi` | grieve | The sustained carrying of sadness after loss |
 | `nuhewa` | weep | Sadness flowing out |
-| `nuloe` | content | Peaceful satisfaction |
+| `nuloe` | content | satisfaction with present circumstances or sufficiency |
 | `numea` | nestle | Trust performed in the muscles |
-| `nupira` | shame | The inward fold of being seen |
-| `phaeli` | tender | Gentle feeling |
+| `nupira` | shame | the painful feeling of being diminished or exposed |
+| `phaeli` | tender | gentle feeling towards someone or something held dear or vulnerable |
 | `phaelo` | feel | an emotional state as it is experienced |
-| `phaelu` | peaceful | State of harmony |
+| `phaelu` | peaceful | peacefulness held as a settled disposition |
 | `phamo` | console | Accompanying grief |
 | `phesua` | inspire | transforms states from dormancy to excitement and urge |
 | `phimela` | kiss | Affection made touch |
@@ -1151,16 +1152,16 @@
 | `rimawu` | drudgery | the experienced tedium, aversion, or loss of meaning |
 | `ruesha` | compassionate | fellow-feeling joined to a wish that suffering ease |
 | `seniku` | smile | Expressing warmth and pleasure |
-| `shaelo` | brave | Courage |
-| `shea` | peace | peace as fundamental emotional and spiritual state |
+| `shaelo` | brave | resolve shown while fear, danger, or pain is present |
+| `shea` | peace | peace felt as an inward condition |
 | `sheli` | impatient | Unable to wait |
 | `shena` | calm | low agitation in present feeling or manner |
 | `shorui` | weary | Need for rest |
 | `shurano` | safe | The felt state of being out of danger |
-| `siora` | joy | embodies radiant happiness and celebratory feeling states |
+| `siora` | joy | joy experienced as present gladness or delight |
 | `soliru` | hope | embodies confident expectation and positive feeling about possibilities |
 | `sonu` | alone | The felt state of being by oneself |
-| `sukima` | fear | The body's alarm before danger |
+| `sukima` | fear | alarm felt in response to perceived danger |
 | `thaemo` | precious | Cherished value |
 | `thaemu` | sincere | genuine feeling made present in words or gesture |
 | `thaluni` | kin | embodies deep bonds of love and connection |
@@ -1173,8 +1174,8 @@
 | `therua` | eager | Keen enthusiasm |
 | `thiro` | serene | calm settled into a poised manner |
 | `tholira` | forgive | Releasing resentment and grievance |
-| `thomari` | courage | transforms fear through compassionate presence |
-| `thoru` | proud | Dignified satisfaction |
+| `thomari` | courage | resolve felt while facing fear, pain, or danger |
+| `thoru` | proud | satisfaction or dignity connected to achievement, identity, or relationship |
 | `thuleni` | comfort | Responding to others' distress |
 | `thunoa` | dignified | Noble bearing |
 | `thuo` | prosper | Abundant flourishing |
@@ -1438,7 +1439,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (349)
+## physical (348)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1617,7 +1618,6 @@
 | `pesa` | push | Pressing away |
 | `pesenu` | pollute | movement or presence of matter, organisms, or energy with harmful effects |
 | `peshiro` | infection | a biological process in or on a body |
-| `phaeli` | tender | Soft quality |
 | `phaelo` | feel | bodily sensation such as warmth or pain |
 | `phamori` | symptom | a health-relevant experience located in or through the body |
 | `phareme` | ingredient | an edible substance before or during preparation |
@@ -1702,7 +1702,7 @@
 | `sophae` | cotton | Soft covering |
 | `sowelu` | disabled | disability involving bodily or sensory access |
 | `sukaro` | hot | high temperature strongly felt through contact or surrounding air |
-| `sukima` | fear | The tightening before danger |
+| `sukima` | fear | the bodily tightening and arousal of fear |
 | `sulae` | warm | a readily felt temperature above cool and below hot |
 | `suliwa` | snake | Motion as pure curve |
 | `sulopa` | soup | Warm water and patience |
@@ -2015,7 +2015,7 @@
 | `womuri` | household | daily life organized around a dwelling |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (171)
+## temporal (172)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2031,6 +2031,7 @@
 | `howai` | evening | Day's end |
 | `howeli` | wind | Agent of change |
 | `howenu` | weather | a short-duration environmental condition or event |
+| `hurao` | patient | a disposition towards delay and processes that take time |
 | `kaero` | phase | Cycle segment |
 | `kamo` | arrive | Moment of journey's completion |
 | `katheo` | acute | a recent, rapid, or comparatively short course |
@@ -2191,7 +2192,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (163)
+## wisdom (153)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2201,7 +2202,6 @@
 | `hiru` | intuit | Immediate knowing |
 | `hiso` | clean | Clarity of state |
 | `howela` | receive | requires understanding how to receive with grace |
-| `hurao` | patient | Enduring quality |
 | `kaeshu` | bold | Willingness to risk |
 | `kanu` | choose | Where deliberation becomes direction |
 | `kathu` | seal | Confirmation |
@@ -2224,7 +2224,6 @@
 | `letharo` | consistent | holding plurality without confusing compatibility with truth |
 | `liona` | live | Engaged presence in existence |
 | `liroa` | playful | Fun-loving spirit |
-| `loshi` | joyful | Wholehearted gladness |
 | `luera` | past | Memory's domain |
 | `luma` | lamp | Illumination |
 | `lumae` | end | Completion |
@@ -2243,10 +2242,8 @@
 | `muro` | stubborn | Resistant to change |
 | `nai` | be | recognizing and accepting what is |
 | `nawea` | respect | understanding inherent worth and dignity |
-| `nemo` | grateful | Appreciating gifts |
 | `nilua` | shy | Sensitive reserve |
 | `noa` | position | Understanding position as relational rather than hierarchical |
-| `noalu` | tranquil | Undisturbed state |
 | `noetha` | essential | Fundamental understanding |
 | `nomi` | present | Here-and-now quality |
 | `nomira` | collect | Selective accumulation over time |
@@ -2256,14 +2253,12 @@
 | `nosa` | now | Current moment |
 | `nukesa` | expert | knowledge refined through sustained practice and reflection |
 | `nulo` | deep | sustained inquiry or knowing that reaches beneath an initial account |
-| `nuloe` | content | Acceptance of enough |
 | `numelo` | nurture | Patient, attentive care |
 | `nuri` | cycle | Understanding of return |
 | `nusho` | depth | Profundity |
 | `nuwoe` | stage | Growth position |
 | `pelua` | paper | Receptive potential |
 | `peshu` | lie | What truthfulness is defined against |
-| `phaelu` | peaceful | Core Phi quality |
 | `phari` | pen | Recording thought |
 | `pheloma` | serve | understanding interdependence and collective wellbeing |
 | `phelu` | hold | knowing how to maintain without clinging |
@@ -2291,9 +2286,7 @@
 | `seloi` | insightful | depth of understanding kept distinct from certainty or authority |
 | `selomi` | weave | Understanding interconnection through making |
 | `serao` | old | accumulated experience and endurance |
-| `shaelo` | brave | Facing difficulty |
 | `sharino` | conscience | moral self-appraisal that remains open to examination and correction |
-| `shea` | peace | requires understanding and active cultivation |
 | `shemu` | moment | Present experience |
 | `shimalo` | discipline | aligns actions with deeper intentions through skillful training |
 | `shoeka` | route | Way chosen |
@@ -2336,8 +2329,6 @@
 | `thoepa` | sacred | Ultimate meaning |
 | `tholu` | space | Enabling emptiness |
 | `tholua` | ancient | Time-tested quality |
-| `thomari` | courage | faces reality with mindful awareness and integrity |
-| `thoru` | proud | Appropriate self-respect |
 | `thorui` | beginning | Fresh start |
 | `thumela` | teach | awakening understanding and nurturing growth |
 | `thuni` | intuitive | immediate judgement that may draw on experience and still remains open to checking |

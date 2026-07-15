@@ -7,15 +7,25 @@
     "he"
   ],
   "pos": "noun",
-  "concept": "Sadness / Sorrow / The Heavy Feeling",
-  "description": "The heavy, downward feeling of loss, disappointment, or grief — named plainly so it can be acknowledged, sat with, and consoled ('phamo'). Phi treats sadness as weather of the heart: real, passing, and speakable without shame.",
-  "sound_symbolism": "The grounding nasal 'n' sinks into the deepest vowel 'u' — the weight itself, low in the body. Then 'he': an exhale, the breath moving through the heaviness rather than holding it. To say 'nuhe' is to feel the weight and breathe it out in one word.",
-  "grammatical_notes": "Noun: 'mia nuhe phaelo' (I feel sadness). A counted episode may take the optional classifier of abstractions and events: 'ta nophe nuhe' (one episode of sadness); 'ta nuhe' is also grammatical. Companion words: 'phamo' (console), 'siora' (joy) as its complement, 'therilu' (rest) as its medicine.",
+  "search_terms": [
+    "sorrow",
+    "unhappiness"
+  ],
+  "description": "Loss, disappointment, separation, or a hurt with no easy name may leave 'nuhe', the felt heaviness of sadness. It may pass quickly or stay for a long while; 'nuhemi' (grieve) is the continuing process of mourning a loss, whereas sadness itself needs no known cause.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and raise the back of the tongue with rounded lips for stressed high-back 'u'. Release the dental contact, let unvoiced air pass through the open glottis for 'h', and move into true-mid front 'e'.",
+  "sound_symbolism": "The dental nasal holds the rounded opening low and close before 'h' lets the breath out into front 'e'. The whole form may feel like weight finding an exhale.",
+  "usage_notes": "'nuhe' takes 'phaelo' (feel) in the ordinary feeling construction. A counted episode may take optional classifier 'nophe', as in 'ta nophe nuhe' (one episode of sadness).",
+  "examples": [
+    {
+      "phi": "mia nuhe phaelo.",
+      "translation": "I feel sadness."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The first noble truth speaks plainly of sorrow. Naming sadness without euphemism is the beginning of compassion toward it — feeling acknowledged is feeling already easing.",
-    "peace-linguistics-practices": "A speakable sadness needs no aggression to be heard. 'Nuhe' gives grief a gentle word so it need not become a sharp one."
+    "secular-buddhist-philosophy": "Naming sadness makes it available to present attention without turning it into a permanent account of the person who feels it.",
+    "peace-linguistics-practices": "A speaker can name sadness and ask for company or care before the feeling has to speak for them as accusation or withdrawal."
   },
   "semantic_domains": {
-    "emotion": "The heavy feeling of loss or sorrow"
+    "emotion": "the felt heaviness of sorrow or unhappiness"
   }
 }
