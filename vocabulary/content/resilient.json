@@ -8,16 +8,21 @@
     "i"
   ],
   "pos": "adjective",
-  "concept": "Resilient / Able to Recover / Springing Back",
-  "description": "Able to withstand or recover quickly from difficult conditions. 'Thuroi' names the quality of adaptive strength—bending without breaking, recovering from setback, returning to wholeness after stress.",
-  "sound_symbolism": "The word bends and springs back. 'Thu' /θu/ begins with breath under pressure, stress applied. Then 'ro' holds and returns, form maintained. Finally 'i' springs up, recovery complete.",
-  "grammatical_notes": "Functions as an adjective: 'thuroi sila' (resilient community). Related to 'luwi' (flexible) and 'mureo' (stable)—resilience combines flexibility with underlying stability.",
-  "pillars": {
-    "solarpunk-values": "Resilient systems can absorb shocks and continue functioning—the key quality for sustainable communities facing change.",
-    "secular-buddhist-philosophy": "Resilience comes from non-attachment—when we don't cling rigidly, we can adapt and recover."
-  },
+  "search_terms": [
+    "able to recover",
+    "recovering after disruption"
+  ],
+  "description": "A reed bed that grows back after a flood can be 'thuroi'. The same word fits a community that restores shared services after disruption. What matters is recovery toward a workable state, whether the capacity lies in one thing or in its relationships.",
+  "articulatory_notes": "Place the tongue near the upper teeth for voiceless 'th' and let air pass into rounded high-back 'u'. Tap or briefly trill the tongue against the alveolar ridge for 'r' at the start of stressed 'ro', then continue into rounded mid-back 'o'. Keep final high-front 'i' separate from 'o' in hiatus.",
+  "usage_notes": "'mureo' (stable) keeps its state through disturbance; 'luwi' (flexible) changes without breaking. 'thuroi' applies when recovery after disruption is the point.",
+  "examples": [
+    {
+      "phi": "sila thuroi nai.",
+      "translation": "The community is resilient."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Able to recover",
-    "wisdom": "Adaptive strength"
+    "community": "shared capacities restored after disruption",
+    "physical": "return toward workable form or function after stress"
   }
 }
