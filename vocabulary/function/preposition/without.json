@@ -7,14 +7,19 @@
     "o"
   ],
   "pos": "preposition",
-  "concept": "Without / Lacking / In Absence of",
-  "description": "Marks absence or lack, indicating what is missing from a situation: 'whuo tenoa' (without tools). The absence is stated as fact; whether it is loss or relief is left to context.",
-  "sound_symbolism": "The voiceless 'wh' is breath over emptiness — wind through a space where something is not. It falls from the deep 'u' to the open 'o': absence, plainly held open. Recoined from 'whia' to end the near-collision with 'wia' (how many); the breathy onset of absence is kept.",
-  "grammatical_notes": "Functions as a privative preposition marking absence or lack. Precedes the noun it modifies: 'whuo tenoa' (without tools), 'whuo soliru' (without hope), 'whuo lo wheo' (without the elders). Does not imply judgment about whether the absence is positive or negative—context determines evaluative force. Distinct from negation particles which modify verbs.",
-  "pillars": {
-    "solarpunk-values": "Regenerative design often means learning to thrive without—without fossil fuels, without exploitation, without waste. 'Whuo' serves this practice of creative constraint, finding abundance through conscious absence of harmful elements.",
-    "secular-buddhist-philosophy": "The word embodies the teaching of emptiness—absence is not mere void but the space that allows presence. Like the pause between breaths that makes breathing possible, 'whuo' acknowledges that what is missing shapes what is present.",
-    "peace-linguistics-practices": "By beginning with breath rather than harsh sounds, 'whuo' makes absence gentle rather than violent. It allows speakers to acknowledge lack without creating additional harm, to note what is missing without assigning blame.",
-    "pre-industrial-wisdom": "Traditional knowledge includes understanding absence—reading what is missing from an ecosystem, noting which community members are away. 'Whuo' carries this wisdom that absence is information, that what is not present teaches as surely as what is."
-  }
+  "search_terms": [
+    "without",
+    "lacking",
+    "in the absence of"
+  ],
+  "description": "Even an absent lantern has a place in the sentence: 'whuo lumoi' marks what is missing from the walk. Less tangible things such as hope or custom can be absent too. Context decides whether the absence is a hardship, a relief, or simply a fact. Negation particles do different work by denying an event or predicate.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiceless 'wh'. Air passes without vocal-fold vibration and the rounding continues into high-back 'u'. The tongue lowers slightly for mid-back 'o' in a separate syllable, and the lip rounding relaxes. Stress 'whu'.",
+  "sound_symbolism": "For a Phi speaker, the rounded breath at the opening may offer a small mnemonic for an absent thing.",
+  "usage_notes": "The absent element follows 'whuo'. A direct object, when present, comes after the whole phrase.",
+  "examples": [
+    {
+      "phi": "mia whuo lumoi thalo.",
+      "translation": "I walk without a lantern."
+    }
+  ]
 }
