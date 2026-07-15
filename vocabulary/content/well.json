@@ -7,16 +7,25 @@
     "we"
   ],
   "pos": "adjective",
-  "concept": "Well / Wellness / Good State",
-  "description": "A state of being good, healthy, or satisfactory; wellness in its fullness. 'Towe' names the good state—when things are as they should be.",
-  "sound_symbolism": "The word flows with wellness. 'To' touches with grounded stability, foundation sound. 'We' flows with gentle goodness, wellness spreading.",
-  "grammatical_notes": "An adjective: 'towe miona' (well person); predicative: 'mia towe nai.' (I am well.) Wellness, the state, comes by the quality-noun rule. Related to 'sunai' (health) as state to condition.",
+  "search_terms": [
+    "in good condition",
+    "wellness"
+  ],
+  "description": "Someone who answers 'towe' reports an overall good state in the frame that matters. The same adjective can describe a community's welfare or compare how people and groups fare without reducing the judgement to one symptom. Underlying health is 'sunai', and 'wolu' (healthy) describes a person or system in that condition. A person may have an ongoing condition and still answer 'towe' when they are well today.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into stressed true-mid back rounded 'o'. Round the lips and raise the back of the tongue for voiced 'w', then move forward and unround into true-mid front 'e'.",
+  "sound_symbolism": "The dental stop gives 'towe' a firm beginning, then rounded 'o' opens forward through 'we'. The compact move from contact into open voice feels settled without going flat.",
+  "usage_notes": "'towe' usually predicates with 'nai'. The quality-noun rule also permits 'towe' with 'phaelo' (feel), as in 'mia towe phaelo' (I feel well).",
+  "examples": [
+    {
+      "phi": "mia towe nai.",
+      "translation": "I am well."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Wellbeing for all—communities organized around collective flourishing.",
-    "secular-buddhist-philosophy": "Well-being as balance—the state arising from harmony of body, mind, and community."
+    "secular-buddhist-philosophy": "'su theula towe nai' wishes that all be well. 'towe' states the condition being wished for without claiming to know one form of wellness for every person."
   },
   "semantic_domains": {
-    "emotion": "Wellness",
-    "physical": "Good state"
+    "community": "the overall welfare of a person or group",
+    "physical": "a present report that one's bodily condition is good"
   }
 }

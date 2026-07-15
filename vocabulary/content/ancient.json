@@ -8,16 +8,20 @@
     "a"
   ],
   "pos": "adjective",
-  "concept": "Ancient / From Long Ago / Deeply Old",
-  "description": "Belonging to the very distant past; having existed for a very long time. 'Tholua' names the quality of deep time—stones older than memory, traditions from before history, the long perspective that dwarfs human lifespans.",
-  "sound_symbolism": "The word reaches into deep time. 'Tho' /θo/ begins with breath from ages past, time beyond counting. Then 'lu' stretches long, duration extended. Finally 'a' opens to vastness, ages upon ages.",
-  "grammatical_notes": "Functions as an adjective: 'tholua shumu' (ancient moss). Deeper than 'serao' (old)—implies ages, eras, geological or cosmic time scales.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Contemplating the ancient develops perspective—our concerns shrink against the backdrop of deep time.",
-    "pre-industrial-wisdom": "Ancient knowledge carries tested wisdom—practices refined over generations, understanding earned by deep time."
-  },
+  "search_terms": [
+    "very old",
+    "deep past"
+  ],
+  "description": "Deep historical, ecological, geological, or cosmic time is 'tholua'. An ancient forest, practice, stone, or star belongs to a timescale larger than one ordinary life. 'serao' (old) is relative to the immediate context; 'tholua' makes the exceptional duration part of the claim.",
+  "articulatory_notes": "Place the tongue tip lightly at or between the teeth for unvoiced 'th' and let air pass into true-mid back rounded 'o'. Touch the tongue tip to the alveolar ridge for lateral 'l', release along the sides into stressed high-back rounded 'u', then open into a separate central 'a' syllable without inserting a glide.",
+  "sound_symbolism": "The sustained dental fricative opens into rounded vowels before the final 'u.a' hiatus widens to unrounded 'a'. The drawn-out opening gives a bodily cue to the long span the word describes.",
+  "examples": [
+    {
+      "phi": "ha shumu tholua nai.",
+      "translation": "This moss is ancient."
+    }
+  ],
   "semantic_domains": {
-    "temporal": "From deep past",
-    "wisdom": "Time-tested quality"
+    "temporal": "existence or origin in a past far beyond ordinary age"
   }
 }

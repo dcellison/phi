@@ -8,16 +8,25 @@
     "i"
   ],
   "pos": "adjective",
-  "concept": "Fresh / Recently Made / Not Yet Faded",
-  "description": "Recently made, produced, or harvested; not stale, spoiled, or faded. 'Newai' names the quality of recent vitality—bread just baked, air after rain, energy not yet depleted.",
-  "sound_symbolism": "'Ne' opens gently and 'wa' glides forward, a waking movement. The final 'i' stands alone in hiatus, bright and light.",
-  "grammatical_notes": "Functions as an adjective: 'newai lureko' (fresh fruit). Related to 'newu' (new) but emphasizes vitality and recent origin rather than novelty.",
+  "search_terms": [
+    "recently made",
+    "unspoiled",
+    "unfaded"
+  ],
+  "description": "Something recently made, gathered, or arrived is 'newai' while it keeps the condition expected of it. Fresh fruit has not yet spoiled; fresh air has newly entered and is pleasant to breathe. 'newu' (new) marks recent introduction or possession, while 'wolu' (healthy) concerns a living system's condition rather than recency.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n' and carry the voice through the nose into true-mid front 'e'. Round the lips and raise the back of the tongue for voiced 'w', then open into stressed central 'a'. Raise the front of the tongue for a separate high-front unrounded 'i' syllable. Keep the 'a.i' hiatus clear.",
+  "sound_symbolism": "The shared 'ne.w' opening keeps 'newai' close to 'newu' (new). Its final 'a.i' hiatus moves sharply from open central 'a' to high-front 'i'; the quick brightening suggests something newly uncovered.",
+  "examples": [
+    {
+      "phi": "ha haowu newai nai.",
+      "translation": "This air is fresh."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Fresh local food reduces transport and storage—freshness as both quality and sustainable practice.",
-    "pre-industrial-wisdom": "Fresh food, fresh water—traditional life depended on knowing freshness, preserving what could be preserved, using what must be used."
+    "pre-industrial-wisdom": "Before powered refrigeration, people needed daily practical judgement about whether food and water were still 'newai'."
   },
   "semantic_domains": {
-    "physical": "Not depleted",
-    "temporal": "Recently made or harvested"
+    "physical": "retention of an expected recent quality before spoilage or fading",
+    "temporal": "recent making, gathering, arrival, or exposure"
   }
 }
