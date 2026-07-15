@@ -8,17 +8,24 @@
     "ma"
   ],
   "pos": "adjective",
-  "concept": "Mutual / Shared Between",
-  "description": "The state of deep interdependence where each supports and is supported by the other. It is the recognition that individual and collective wellbeing are inseparably linked.",
-  "sound_symbolism": "The communal 'we' establishes the foundation of togetherness. The sustained 'so' holds that togetherness steady—the soft fricative like breath shared between beings, belonging to neither alone. The grounding 'ma' anchors this connection in stable truth. This progression from togetherness through sustained holding to grounded reality captures mutuality—not just being together, but being interwoven in ways that support and strengthen all. Its audible kinship with 'wiso' (each other) and 'wisola' (exchange) places it in the small family of sounds where Phi keeps reciprocity.",
-  "grammatical_notes": "An adjective: 'lo mia wesoma theomi phelu.' (We hold mutual trust.) Mutuality itself, the noun, comes by the quality-noun rule. Related: wiso (RECP pronoun), wisola (exchange), naphe (help).",
+  "search_terms": [
+    "reciprocal",
+    "shared between"
+  ],
+  "description": "A 'wesoma' relation runs in more than one direction among its participants. Mutual trust means each trusts the other; mutual aid places each person within both giving and receiving, though the contributions need not match at every moment. 'wiso' (RECP) marks participants acting on one another inside a clause, while 'wesoma' qualifies the relation itself. 'nuawe' (together) requires only shared participation.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then unround and move the tongue forward into true-mid front 'e'. Raise the tongue blade close to the alveolar ridge for unvoiced 's' and direct air through its central groove into stressed true-mid back rounded 'o'. Close the lips for voiced 'm', carry the resonance through the nose, and open into central 'a'.",
+  "sound_symbolism": "The opening and sibilant middle echo 'wiso' (RECP) and 'wisola' (exchange). That audible family can help keep Phi's reciprocal relations together in memory.",
+  "usage_notes": "The adjective can qualify a relational noun, and its noun use is mutuality. When plural participants act on one another inside a clause, 'wiso' usually carries the reciprocal syntax.",
+  "examples": [
+    {
+      "phi": "lo mia wesoma theomi phelu.",
+      "translation": "We hold mutual trust."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Mutuality is the cornerstone of solarpunk economics - mutual aid networks, tool libraries, skill shares, and gift economies that prove abundance emerges through sharing. This isn't charity but recognition that resilient communities are built on reciprocal support where everyone both gives and receives according to ability and need.",
-    "secular-buddhist-philosophy": "Mutuality embodies the fundamental teaching of interdependence - that nothing exists in isolation but only through reciprocal relationships. This understanding sees individual wellbeing as inseparable from collective thriving, recognizing that what harms one ultimately harms all, and what heals one contributes to universal healing.",
-    "peace-linguistics-practices": "Mutual relationships create conditions for peace by establishing equality and shared investment in outcomes. When relationships are truly mutual rather than hierarchical, domination becomes impossible and cooperation becomes natural. This practice transforms power dynamics from 'over' to 'with', creating sustainable foundations for peaceful coexistence."
+    "solarpunk-values": "Tool libraries and mutual-aid circles depend on people entering both sides of provision over time. 'wesoma' names that reciprocal structure without requiring identical contributions."
   },
   "semantic_domains": {
-    "community": "fundamental to social bonds and reciprocal relationships",
-    "wisdom": "understanding interdependence requires deep insight"
+    "community": "reciprocity among people in a shared relationship"
   }
 }

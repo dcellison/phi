@@ -8,17 +8,26 @@
     "wu"
   ],
   "pos": "adjective",
-  "concept": "Private / Under Chosen Limits of Access or Attention",
-  "description": "Kept from uninvited access or attention by a person or group choosing that boundary. The adjective applies to a place, conversation, record, or stretch of time even when nobody has hidden it. 'kupe' (hide) concerns concealment; 'mirewu' concerns who may enter, observe, or know.",
-  "sound_symbolism": "Closed lips hold 'mi' in a small bright nasal chamber. Stressed 're' turns the tongue through balanced 'e', while final 'wu' gathers at rounded lips and sinks into deep 'u'. A close center passes through one turn and becomes a low, quiet glide.",
-  "grammatical_notes": "A predicative or attributive adjective: 'ha lokue mirewu nai.' (This place is private.) The quality-noun rule supplies privacy. Unlike 'kupela' (secret) or 'sonu' (alone), it describes a limit on access rather than hidden information or the absence of company.",
+  "search_terms": [
+    "confidential",
+    "reserved"
+  ],
+  "description": "'mirewu' marks a chosen limit on who may enter, observe, or know. A room, conversation, record, or stretch of time can be private even when nothing is hidden. 'kupe' (hide) concerns concealment, while 'kupela' (secret) concerns deliberately untold information. 'sonu' (alone) says who is present; privacy says who has access.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the resonance through the nose, and move into high-front unrounded 'i'. Make a tap or short trill at the alveolar ridge and release into stressed true-mid front 'e'. Round the lips and raise the back of the tongue for voiced 'w', then continue into high-back rounded 'u'.",
+  "sound_symbolism": "Closed lips begin 'mi' inside nasal resonance. The word then turns through the tapped 'r' and gathers into rounded 'wu'; that movement from close resonance to a rounded finish can suggest a boundary quietly drawn.",
+  "usage_notes": "'mirewu' can modify a noun or stand with 'nai' as a predicate. Its quality noun is privacy.",
+  "examples": [
+    {
+      "phi": "ha lokue mirewu nai.",
+      "translation": "This place is private."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Privacy leaves room for rest and reflection without treating solitude as disappearance.",
-    "peace-linguistics-practices": "With 'mirewu', a closed door or withheld record becomes a stated limit rather than a rebuke."
+    "peace-linguistics-practices": "'mirewu' lets a closed door or withheld record state a limit on access without rejecting the person outside it."
   },
   "semantic_domains": {
-    "cognition": "chosen limits on access to attention or information",
-    "community": "a personal or shared boundary respected by others",
+    "communication": "chosen limits on access to a conversation, record, or information",
+    "community": "a personal or shared boundary respected by other people",
     "spatial": "a place reserved from uninvited entry or observation"
   }
 }

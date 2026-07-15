@@ -7,16 +7,24 @@
     "su"
   ],
   "pos": "adjective",
-  "concept": "Modest / Unassuming / Not Boastful",
-  "description": "Unassuming in the estimation of one's abilities or achievements; not given to showing off. 'Thasu' names the quality of modesty—presenting oneself without exaggeration or display.",
-  "sound_symbolism": "The word steps back. 'Tha' /θa/ begins with gentle breath, presence understated. Then 'su' settles quietly, modesty embodied.",
-  "grammatical_notes": "Functions as an adjective: 'thasu miona' (modest person). Related to 'motu' (humble) but emphasizes outward presentation rather than inner attitude toward self.",
+  "search_terms": [
+    "unassuming",
+    "not boastful"
+  ],
+  "description": "A 'thasu' person presents ability or achievement without exaggeration or display. The adjective can also qualify a claim whose certainty stays close to its support. 'motu' (humble) concerns inward self-appraisal; a confident person may still describe their work modestly.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth for unvoiced 'th' and let air pass into stressed open central 'a'. Raise the tongue blade close to the alveolar ridge for unvoiced 's', direct air through its central groove, and finish with high-back rounded 'u'.",
+  "usage_notes": "Placed before a speech or presentation verb, 'thasu' gives the manner. As a quality noun it gives modesty.",
+  "examples": [
+    {
+      "phi": "shia thasu haolu.",
+      "translation": "They speak modestly."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Modest speech avoids boasting—presenting achievements without diminishing others or inflating self.",
-    "pre-industrial-wisdom": "Modest claims were trusted—communities valued those who let their work speak rather than their words."
+    "peace-linguistics-practices": "A modest claim leaves room for evidence and other speakers without asking anyone to conceal competence."
   },
   "semantic_domains": {
-    "communication": "Not boastful",
-    "wisdom": "Unassuming"
+    "communication": "ability, achievement, or certainty presented without exaggeration",
+    "community": "unshowy self-presentation in relation to other people"
   }
 }

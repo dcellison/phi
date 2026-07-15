@@ -7,16 +7,26 @@
     "lo"
   ],
   "pos": "adjective",
-  "concept": "Equal / Same Standing / Balanced Measure",
-  "description": "Having the same value, measure, or status; balanced in worth. 'Kolo' names the recognition of same standing—not identical but equivalent in dignity.",
-  "sound_symbolism": "The word balances evenly. 'Ko' completes with measured wholeness, equality recognized. 'Lo' opens with same standing, balance held.",
-  "grammatical_notes": "An adjective: 'kolo miona' (equal person). Equality, the noun, comes by the quality-noun rule; equalizing is caused becoming ('ka kelu'). Recognizes 'rolia' (worth) in all. Foundation of 'theloma' (justice).",
+  "search_terms": [
+    "same amount",
+    "same standing"
+  ],
+  "description": "'kolo' says that two or more things have the same amount, measure, rank, or standing on the basis at issue. Equal lengths share a measurement; equal standing gives participants the same place in a relation. 'senao' (same) concerns identity or broad sameness, and 'samethu' (equivalent) concerns a bounded match in function or effect. 'thua' (fair) asks whether relevant differences make equal treatment inequitable.",
+  "articulatory_notes": "Raise the back of the tongue against the soft palate for unvoiced 'k' and release it into stressed true-mid back rounded 'o'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and continue into true-mid back rounded 'o'.",
+  "sound_symbolism": "The two syllables answer one another with the same rounded 'o', while the opening contact changes from 'k' to 'l'. That audible return can suggest two terms brought to one measure.",
+  "usage_notes": "When context leaves the basis uncertain, a preceding quality can supply it. 'ponalu kolo', for example, means equal in size; the adjective's noun use gives equality.",
+  "examples": [
+    {
+      "phi": "ha wi themo molupa ponalu kolo nai.",
+      "translation": "These two boxes are equal in size."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Equal worth—all beings possess same fundamental dignity.",
-    "peace-linguistics-practices": "Equal voice—communication where all participants have same standing to speak."
+    "peace-linguistics-practices": "'kolo' can give participants the same standing without pretending that equal quantities always produce a fair result."
   },
   "semantic_domains": {
-    "community": "Same standing",
-    "wisdom": "Balanced recognition"
+    "community": "equal standing among participants within a group",
+    "ethics": "equality considered separately from fairness and inherent worth",
+    "quantity": "sameness in a stated amount, measure, or rank"
   }
 }

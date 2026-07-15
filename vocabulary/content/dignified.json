@@ -8,16 +8,23 @@
     "a"
   ],
   "pos": "adjective",
-  "concept": "Dignified / Noble Bearing / Honored Presence",
-  "description": "Having or showing dignity; a quality of composed, worthy presence. 'Thunoa' names the bearing that commands respect—not through force but through inherent nobility.",
-  "sound_symbolism": "The word breathes with noble presence. 'Thu' opens with thoughtful dignity, composure beginning. 'No' settles with grounded bearing, stability found. Then 'a' opens to acceptance of this state.",
-  "grammatical_notes": "Functions as adjective: 'thunoa miona' (dignified person). Describes bearing that reflects 'rolia' (worth). Quality honored through 'nelu' (revere).",
+  "search_terms": [
+    "self-possessed",
+    "with dignity"
+  ],
+  "description": "'thunoa' applies to a person or manner that shows self-possession and respect for human worth, especially under scrutiny or strain. It can also describe treatment that accords dignity to another person. The dignity in view is displayed or accorded; 'rolia' (worth) belongs to every person whether or not they appear composed. 'thoru' (proud) concerns satisfaction or self-respect; 'thunoa' concerns how someone carries or is treated.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth for unvoiced 'th' and let air pass into high-back rounded 'u'. Return the tongue tip to the backs of the upper teeth for dental 'n', carry the voice through the nose, and release into stressed true-mid rounded 'o'. Keep final open central 'a' in its own syllable across the 'o.a' hiatus by lowering the tongue and releasing the lip rounding.",
+  "examples": [
+    {
+      "phi": "shia thunoa haolu.",
+      "translation": "They speak with dignity."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Dignified presence—the composure that comes from inner peace, not external validation.",
-    "peace-linguistics-practices": "Dignified communication—speaking and listening with respect for all participants."
+    "peace-linguistics-practices": "Dignified speech preserves another person's standing during disagreement without asking either participant to hide the disagreement."
   },
   "semantic_domains": {
-    "community": "Respected presence",
-    "emotion": "Noble bearing"
+    "community": "composed conduct or treatment between people",
+    "ethics": "conduct or treatment that acknowledges a person's inherent worth"
   }
 }
