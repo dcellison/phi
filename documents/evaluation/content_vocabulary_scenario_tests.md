@@ -1,6 +1,6 @@
 # Content vocabulary scenario tests
 
-This file tests content-vocabulary questions that ordinary use has not yet forced into the active corpus. Each scenario begins with a physical situation, attempts the closest Phi rendering with the current lexicon, and asks which fact survives. A missing English headword is not enough to justify a root; the test has to expose a distinction that the available words repeatedly leave behind.
+This file tests content-vocabulary questions that ordinary use has not yet forced into the active corpus. Each scenario begins with a physical situation, preserves the closest Phi rendering available before its decision, and asks which fact survives. The before-state stays beside the result so the work done by a new root remains visible. A missing English headword is not enough to justify one; the test has to expose a distinction that the available words repeatedly leave behind.
 
 ## 1. Adhesion at the spoon, bench, and table
 
@@ -36,7 +36,7 @@ mia roe runae wi themo wolea lorea.
 (I connect two pieces of wood with resin.)
 ```
 
-This is a useful repair account. `welura` (spread) gives the application, `runae` (resin) identifies the material, and `lorea` (connect) gives the intended result. The resin's behaviour while it catches the second surface has no word. A peg or cord could connect the same pieces, and a substance other than resin could have the same contact property. The English definition of `runae` already calls resin sticky, but a Phi speaker cannot carry that predicate to another material.
+This is a useful repair account. `welura` (spread) gives the application, `runae` (resin) identifies the material, and `lorea` (connect) gives the intended result. Before the new adjective, the resin's behaviour while it caught the second surface had no word. A peg or cord could connect the same pieces, and a substance other than resin could have the same contact property. The English definition of `runae` already called resin sticky, but the Phi predicate could not move to another material.
 
 The English gloss of `nolami` is "bond," but that resemblance must not pull the word into material science. `nolami` concerns a relation formed between beings through shared experience and care. A physical bond in wood is another English sense, not an established Phi sense.
 
@@ -68,14 +68,24 @@ The sequence records an unsuccessful wipe. It does not say why the material resi
 | `lorea` (connect) | The achieved relation between pieces | It describes the result equally well when a peg, cord, or fitted joint makes the connection. |
 | `nolami` (bond) | A relation between beings | Its English gloss has a physical homonym, but the Phi word does not carry that sense. |
 
-### Recommendation for decision
+### Decision
 
-Across the three scenes, the missing fact is the same: contact makes a material or surface remain attached to another surface and resist easy separation. Current Phi can narrate the surrounding events, but the property itself gives way to location, persistence, material identity, or a completed connection.
+Across the three scenes, the missing fact is the same: contact makes a material or surface remain attached to another surface and resist easy separation. The clauses above narrate the surrounding events, but the property itself gives way to location, persistence, material identity, or a completed connection.
 
-An adjective fits the gap. It could modify a substance or surface, predicate the condition directly, and supply stickiness or adhesion through the existing quality-noun rule. A verb would blur the contact property with applying a material or joining two things, acts Phi can already express.
+An adjective fits the gap because it can stand before a substance or surface and predicate the condition directly. The existing quality-noun rule then supplies stickiness or adhesion. A verb would blur the contact property with applying a material or joining two things, acts Phi can already express.
 
-The working gloss should be `sticky`, with `adhesive`, `tacky`, and `adhesion` as search terms rather than separate roots. It would cover the honey and residue here as well as sap or repair paste when their contact behaviour is the point. `lorea` would still state that a connection was made, and exact bond strength or curing requirements would remain in their technical source record.
+Phi uses `shumeko` (sticky), with `adhesive`, `tacky`, and `adhesion` as search terms rather than separate roots. It covers the honey and residue here as well as sap or repair paste when their contact behaviour is the point. `lorea` still states that a connection was made, and exact bond strength or curing requirements remain in their technical source record.
+
+```
+hemilo shumeko nai.
+honey sticky be.
+(The honey is sticky.)
+
+runae shumeko nai.
+resin sticky be.
+(The resin is sticky.)
+```
 
 This belongs in base vocabulary. The property occurs at meals and in ordinary cleaning before it reaches a workshop, while the same adjective remains useful for natural substances and repair. Optional modules can teach their characteristic uses without making the word itself specialized.
 
-No form is proposed in this scenario. The maintainer decision is whether to accept the semantic slot, adjective class, and base placement; form generation and the full vocabulary schema follow in a separate coinage pass.
+`shumeko` has no character edit-distance-one neighbour, and the phonetic audit finds no existing entry within its review threshold. The canonical entry records its complete spoken path and examples.

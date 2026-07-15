@@ -8,7 +8,7 @@
 *Content words appear under their listed lexical class. A rule-supplied event or quality noun does not add another class to the entry. Function words are grouped by grammatical class.*
 
 
-## adjective (201)
+## adjective (202)
 
 | Word | Gloss |
 |---|---|
@@ -148,6 +148,7 @@
 | `shorenu` | immune |
 | `shoru` | dull |
 | `shorui` | weary |
+| `shumeko` | sticky |
 | `shurano` | safe |
 | `siloma` | simple |
 | `simoe` | rich |
