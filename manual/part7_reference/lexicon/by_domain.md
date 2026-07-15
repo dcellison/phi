@@ -324,7 +324,7 @@
 | `lilea` | clarify | illuminates meaning by clearing mental confusion |
 | `limoe` | creature | General category for life |
 | `litero` | ecosystem | a bounded analytical whole selected for ecological explanation |
-| `loetha` | open (receptive) | Receptive thinking |
+| `loetha` | open (receptive) | willingness to consider an unfamiliar idea or account |
 | `lunai` | vision | Forward seeing |
 | `luseri` | provenance | a sourced account with explicit gaps and confidence |
 | `masue` | measure | Comparison with an explicit or recoverable standard |
@@ -2210,7 +2210,7 @@
 | `letharo` | consistent | holding plurality without confusing compatibility with truth |
 | `liona` | live | Engaged presence in existence |
 | `liroa` | playful | Fun-loving spirit |
-| `loetha` | open (receptive) | Willing to consider |
+| `loetha` | open (receptive) | receptivity that leaves judgement and refusal intact |
 | `loshi` | joyful | Wholehearted gladness |
 | `luera` | past | Memory's domain |
 | `luma` | lamp | Illumination |
