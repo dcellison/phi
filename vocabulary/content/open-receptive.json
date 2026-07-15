@@ -8,16 +8,30 @@
     "tha"
   ],
   "pos": "adjective",
-  "concept": "Open (Receptive) / Open-Minded / Willing to Consider",
-  "description": "Receptive to new ideas or arguments; willing to consider different perspectives. 'Loetha' names the quality of mental openness—the mind that receives rather than deflects, that considers rather than dismisses.",
-  "sound_symbolism": "The word receives willingly. 'Lo' flows with easy reception, barriers down. The vowel 'e' opens to what comes. Then 'tha' breathes in gently, the soft dental fricative completing the openness with gentle acceptance.",
-  "grammatical_notes": "Functions as an adjective: 'loetha korua' (an open heart). Distinct from 'phae' (physically open). Names the quality of receptivity to ideas, feelings, and perspectives.",
+  "search_terms": [
+    "open-minded",
+    "willing to consider"
+  ],
+  "description": "A difficult account can arrive before the listener knows what they think of it. Such a listener is 'loetha': willing to receive the unfamiliar long enough to consider it. Receptivity promises no agreement; an open listener may still object or refuse. 'kuelo' (curious) supplies the wish to learn, while 'phae' (open) is the verb for moving a closure or starting access.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and continue into rounded true-mid back 'o'. Keep the following true-mid front unrounded 'e' in its own stressed syllable across the 'o.e' hiatus. Place the tongue tip lightly against the upper teeth and pass unvoiced air for 'th', then finish with open unrounded 'a'.",
+  "sound_symbolism": "Rounded 'lo' crosses a full hiatus into the front vowel, then the last syllable lets air pass the teeth before the mouth opens on 'a'. The contour can recall making room for something without swallowing it whole.",
+  "usage_notes": "The adjective stands before a noun or with 'nai' (be). The familiar 'loetha korua' means an open heart. A separate clause can name what the person is willing to consider, and 'nawo' (agree) remains its own verb.",
+  "examples": [
+    {
+      "phi": "mia loetha nai. whekai mia ma nawo.",
+      "translation": "I am receptive. However, I do not agree."
+    },
+    {
+      "phi": "shia loetha korua phelu.",
+      "translation": "They have an open heart."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Open mind is beginner's mind—the receptivity that allows learning, unburdened by certainty.",
-    "peace-linguistics-practices": "Open listening receives without pre-judgment—hearing what is said rather than what we expect."
+    "secular-buddhist-philosophy": "Receptive attention lets an unfamiliar account arrive before a settled view answers it. That openness supports inquiry without turning credulity into a virtue.",
+    "peace-linguistics-practices": "A receptive listener lets another person's account arrive. Being heard asks for attention, not agreement or surrender."
   },
   "semantic_domains": {
-    "cognition": "Receptive thinking",
-    "wisdom": "Willing to consider"
+    "cognition": "willingness to consider an unfamiliar idea or account",
+    "wisdom": "receptivity that leaves judgement and refusal intact"
   }
 }
