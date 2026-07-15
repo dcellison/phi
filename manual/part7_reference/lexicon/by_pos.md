@@ -8,7 +8,7 @@
 *Content words appear under their listed lexical class. A rule-supplied event or quality noun does not add another class to the entry. Function words are grouped by grammatical class.*
 
 
-## adjective (202)
+## adjective (203)
 
 | Word | Gloss |
 |---|---|
@@ -131,6 +131,7 @@
 | `samethu` | equivalent |
 | `sanowu` | predictable |
 | `saphei` | shallow |
+| `selawi` | slippery |
 | `seloi` | insightful |
 | `selua` | aware |
 | `senao` | same |

@@ -65,10 +65,10 @@
 0.47	1	kori	leather	content	kuri	right	content	14
 0.47	1	luwi	flexible	content	lowi	vine	content	14
 0.47	1	kolo	equal	content	kolu	steady	content	13
+0.47	1	tinoa	dye	content	tenoa	tool	content	13
 0.47	1	phiro	elegant	content	phero	fern	content	12
 0.47	1	thiru	exit	content	theru	thick	content	12
 0.47	1	thola	bring	content	thula	spring	content	12
-0.47	1	tinoa	dye	content	tenoa	tool	content	12
 0.47	1	shela	art	content	shila	winter	content	11
 0.47	1	keloe	companion	content	keloi	summer	content	9
 0.47	1	thenui	direct	content	thenoi	falls-short	content	9
@@ -245,8 +245,8 @@
 0.50	1	hiru	intuit	content	siru	marker	content	10
 0.50	1	seru	commit	content	pheru	endure	content	10
 0.50	1	heloa	remedy	content	theloa	truth	content	9
+0.50	1	kenoa	hemp	content	tenoa	tool	content	9
 0.50	1	lopha	vessel	content	losha	wide	content	9
 0.50	1	nea	aha	interjection	mea	thanks	interjection	9
 0.50	1	selu	flow	content	helu	smooth	content	9
 0.50	1	sheloa	bloom	content	heloa	remedy	content	9
-0.50	1	kenoa	hemp	content	tenoa	tool	content	8

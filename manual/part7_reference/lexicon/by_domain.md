@@ -1444,7 +1444,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (340)
+## physical (341)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1677,6 +1677,7 @@
 | `sawa` | wash | Restoration to cleanness |
 | `sawathi` | soap | material that loosens oil and dirt in water |
 | `sekaru` | transfer | movement of matter or energy between components or systems |
+| `selawi` | slippery | contact that permits comparatively easy sliding between surfaces |
 | `seluto` | pour | a controlled flow across the lip of a vessel |
 | `seroli` | mature | Ripened state |
 | `sewaro` | transmit | passage between hosts, reservoirs, or environments |
