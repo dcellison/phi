@@ -24,14 +24,14 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 |---|---|---|
 | Retrospective audit of completed content batches | **DONE** | All six concept maps and their findings appear below. |
 | Review concepts with direct corpus pressure | **DONE** | Base `pukeri` damage, `rohemi` wear down, `huwa` weak, and `tinako` rigid now carry the four accepted distinctions. |
-| Test concepts without corpus pressure | **NEXT** | Base `shumeko` resolves adhesion and base `selawi` resolves traction; material phase and neutral measurement still need practical tests. |
+| Test concepts without corpus pressure | **NEXT** | Base `shumeko` resolves adhesion and base `selawi` resolves traction; the material-phase test recommends one base noun for each ordinary category and awaits a ruling; neutral measurement still needs a practical test. |
 | Resume inherited content prose migration | **READY** | Continue after the review queue and apply the coverage gate to every new semantic batch. |
 
 ## Batch overview
 
 | Semantic batch | Migration | Coverage status | Open question |
 |---|---|---|---|
-| Core material qualities | [PR #346](https://github.com/dcellison/phi/pull/346) | **REVIEW** | `shumeko` covers surface adhesion and `selawi` covers low traction; general material phase remains open. |
+| Core material qualities | [PR #346](https://github.com/dcellison/phi/pull/346) | **REVIEW** | `shumeko` covers surface adhesion and `selawi` covers low traction; material phase now has a base-noun recommendation for review. |
 | Environmental and spatial qualities | [PR #347](https://github.com/dcellison/phi/pull/347) | **COVERED** | No obvious base vocabulary gap remains after the addition of `sukaro` (hot). |
 | Size, extent, and distance | [PR #348](https://github.com/dcellison/phi/pull/348) | **REVIEW** | Neutral nouns for overall size, length, and distance may still be useful. |
 | Pace, motion, and equilibrium | [PR #349](https://github.com/dcellison/phi/pull/349) | **COVERED** | Changes of rate remain ordinary constructions. |
@@ -62,10 +62,10 @@ This field asks how an object responds to force, contact, contents, and light. T
 | Visibility through matter | `nuwi` (clear), illumination words, and ordinary negation | **COMPOSITIONAL** | A separate transparent or opaque pair would duplicate coverage unless practical use exposes a narrower distinction. |
 | Adhesion to another surface | `shumeko` (sticky), with `lorea` (connect) for the resulting relation | **COVERED** | The adjective names a material or surface that clings after contact and resists easy separation. Its quality noun supplies stickiness or adhesion. |
 | Low traction or easy sliding | `selawi` (slippery) | **COVERED** | The adjective describes contact that permits easy sideways sliding during ordinary use. A floor is understood against foot contact, and a tool against the hand. |
-| General material phase | `muralo` (material), `mirela` (state), and specific substances | **REVIEW** | Phi has water, air, ice, metal, oil, and many other materials but no general solid, liquid, or gas vocabulary. The distinction may belong in base vocabulary or in Ecological and Systems modules if speakers discuss phase itself. |
+| General material phase | `muralo` (material), `mirela` (state), and specific substances | **REVIEW** | The [material-phase scenario](../documents/evaluation/content_vocabulary_scenario_tests.md#3-ice-a-container-and-the-closed-room) finds that substance lists and behaviour clauses cannot classify unknown matter or state a general transition. It recommends base nouns for solid, liquid, and gas. |
 | Interior structure | `whemoa` (empty) covers an unfilled bounded place | **DEFERRED** | Hollow, porous, and dense concern structure rather than the six migrated scales. They belong in a later shape or material structure audit. |
 
-The batch is complete on the six axes it contains. `shumeko` covers adhesion, and `selawi` covers slipperiness or low traction. Material phase still needs a use case before Phi decides how general it should become.
+The batch is complete on the six axes it contains. `shumeko` covers adhesion, and `selawi` covers slipperiness or low traction. The material-phase scenes support three base category nouns, with finer classifications left to connected specialist use.
 
 ## Environmental and spatial qualities
 
@@ -172,11 +172,16 @@ Two scenario decisions are complete:
 | Sticky or adhesive | Base adjective `shumeko`; its quality noun supplies stickiness or adhesion | `wirua` remains moisture, `lorea` remains the resulting connection, and relational `nolami` does not acquire the physical English homonym. |
 | Slippery or low traction | Base adjective `selawi`; its quality noun supplies slipperiness or low traction | `helu` remains surface regularity, `wirua` remains moisture, `roke` remains actual movement, and `pukea` remains the practical judgement of danger. |
 
-Two questions remain without comparable corpus pressure. A short practical scenario comes before any decision to coin.
+One recommendation awaits a maintainer decision:
+
+| Concept | Recommendation | Boundary kept visible |
+|---|---|---|
+| Solid, liquid, and gas | One base noun for each ordinary material category | Substance words still identify what the material is; `mirela` still selects an analytical state; `kaero` still names a stage in a process. Finer categories can enter through connected module use or exact source material. |
+
+One question remains without comparable corpus pressure. A short practical scenario comes before any decision to coin.
 
 | Review item | Evidence | Likely placement if coined | Decision needed |
 |---|---|---|---|
-| Material phase categories | Specific materials and state vocabulary exist, but solid, liquid, and gas do not. | Base vocabulary or Ecological and Systems modules | Test whether speakers need general categories rather than naming the material and its observed behaviour. |
 | Neutral size, length, and distance nouns | Height, width, and depth have nouns; the other dimensions rely on adjective quality nouns and context. | Base vocabulary | Test measurement, route, and craft sentences for ambiguity before adding parallel roots. |
 
 Hollow, porous, and dense remain deferred to a later shape and material structure field. They are recorded here so that absence is not mistaken for a completed decision.
@@ -197,4 +202,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective mapping and its four direct lexical decisions are complete. Base `shumeko` closes adhesion, and base `selawi` closes traction. Material phase and neutral measurement follow; once those decisions are recorded, the inherited content prose migration resumes after the strength and recovery batch with this gate in place.
+The retrospective mapping and its four direct lexical decisions are complete. Base `shumeko` closes adhesion, base `selawi` closes traction, and material phase awaits a ruling on its proposed three-noun set. Neutral measurement follows; once both decisions are recorded, the inherited content prose migration resumes after the strength and recovery batch with this gate in place.
