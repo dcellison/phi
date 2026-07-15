@@ -7,16 +7,22 @@
     "no"
   ],
   "pos": "adjective",
-  "concept": "Full / Containing All / Nothing Lacking",
-  "description": "Containing or holding as much or as many as possible; having no empty space. 'Pheno' names the quality of completeness—vessels that cannot take more, lives that lack nothing essential, states of satisfaction.",
-  "sound_symbolism": "The word fills completely. 'Phe' /ɸe/ begins with breath filling, space occupied. Then 'no' closes with nothing lacking, fullness complete.",
-  "grammatical_notes": "Functions as an adjective: 'pheno lunei' (full moon). Opposite of empty. Related to 'lorua' (abundant) but emphasizes completeness rather than overflow.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Fullness of presence—when fully here, nothing is lacking. The present moment is always complete.",
-    "pre-industrial-wisdom": "Full barns meant survival—the satisfaction of provision, the security of enough."
-  },
+  "search_terms": [
+    "filled",
+    "at capacity"
+  ],
+  "description": "A bounded thing is 'pheno' when its contents fill the relevant capacity or give its visible form a rounded fullness. This is a degree of filling; 'sholu' (complete) instead says that every required part or step is present. Whether the contents meet a need is the separate judgement 'henoi' (ENOUGH).",
+  "articulatory_notes": "The lips narrow without closing for voiceless bilabial 'ph' and release into true-mid front 'e'. The tongue tip then contacts the upper teeth for dental nasal 'n', with voice resonating through the nose into rounded mid-back 'o'. Stress falls on the first syllable.",
+  "sound_symbolism": "The airy opening closes into the nasal centre of 'pheno' before the lips round at the end. That compact enclosure can recall a vessel with its space taken up.",
+  "usage_notes": "The phrases 'pheno noru' and 'pheno lunei' mean a full bowl and a full moon. In a noun position, 'pheno' means fullness, as in 'pai pheno' (near fullness).",
+  "examples": [
+    {
+      "phi": "noru pheno nai.",
+      "translation": "The bowl is full."
+    }
+  ],
   "semantic_domains": {
-    "emotion": "Complete satisfaction",
-    "physical": "Containing maximum"
+    "physical": "a vessel or form filled to relevant capacity or rounded by its contents",
+    "spatial": "the degree to which contents occupy a bounded space"
   }
 }

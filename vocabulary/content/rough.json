@@ -8,16 +8,24 @@
     "a"
   ],
   "pos": "adjective",
-  "concept": "Rough / Having Uneven Surface / Not Smooth",
-  "description": "Having an uneven or irregular surface; not smooth or level. 'Keloa' names the quality of roughness—texture that catches, surface with variation.",
-  "sound_symbolism": "The word has texture. 'Ke' begins with slight catch, surface encountered. 'Lo' moves across unevenly, variation felt. Finally 'a' opens to the full texture, roughness known.",
-  "grammatical_notes": "Functions as an adjective: 'keloa kerou' (rough stone). Opposite of 'helu' (smooth). Can describe physical texture or metaphorical difficulty.",
+  "search_terms": [
+    "coarse",
+    "uneven"
+  ],
+  "description": "A surface is 'keloa' when its grain or other irregularities catch the hand or resist easy passage. The adjective extends to abrasive delivery in 'keloa haoni' (rough voice) and 'keloa haolu' (rough speaking). That extension concerns manner: loudness is 'theisa' (loud), while constrained choice is named by 'kawhera' (coerce).",
+  "articulatory_notes": "The back of the tongue closes at the soft palate for 'k' and releases into true-mid front 'e'. The tongue tip then meets the alveolar ridge for 'l' before rounded mid-back 'o'. Stress falls on 'lo', and final open central 'a' follows in a distinct hiatus syllable.",
+  "usage_notes": "The phrase 'keloa kerou' means rough stone. Its contrast with 'helu' (smooth) reports texture or passage, not workmanship or suitability.",
+  "examples": [
+    {
+      "phi": "kerou keloa nai.",
+      "translation": "The stone is rough."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Rough textures added interest—contrast between smooth and rough created visual depth.",
-    "pre-industrial-wisdom": "Rough surfaces had purpose—grip for tools, traction for paths, texture for holding."
+    "peace-linguistics-practices": "The North Wind transmutation places 'keloa haolu' (rough speaking) beside 'kawhera' (coerce). Abrasive manner and constrained choice remain separate facts."
   },
   "semantic_domains": {
-    "aesthetic": "Textured",
-    "physical": "Uneven surface"
+    "dialogue": "an abrasive texture extended to the delivery of a voice or utterance",
+    "physical": "an uneven or coarse surface that catches against touch or motion"
   }
 }

@@ -7,16 +7,21 @@
     "mi"
   ],
   "pos": "adjective",
-  "concept": "Thin / Of Little Thickness / Slender",
-  "description": "With opposite sides or surfaces close together; not thick or dense. 'Lemi' names the quality of thinness—minimal depth, slender form.",
-  "sound_symbolism": "The word slips through. 'Le' begins with light ease, substance minimal. Then 'mi' completes delicately, thinness achieved.",
-  "grammatical_notes": "Functions as an adjective: 'lemi moru' (thin wall). Opposite of 'theru' (thick). Can describe physical thinness or sparse density.",
-  "pillars": {
-    "art-nouveau-aesthetics": "Thin lines created delicacy—fine strokes suggesting lightness and grace.",
-    "pre-industrial-wisdom": "Thin materials required skill—working with minimal substance demanded precise technique."
-  },
+  "search_terms": [
+    "slender",
+    "sparse"
+  ],
+  "description": "A thin object has little distance between opposing surfaces or little substance across its cross-section. Phi also uses 'lemi' for sparse material or a slender body. Width is separately 'hieru' (narrow); a narrow object need not be thin.",
+  "articulatory_notes": "The tongue tip contacts the alveolar ridge for 'l' and releases into true-mid front 'e'. The lips then close for voiced nasal 'm' and reopen into high-front 'i'. Stress falls on the first syllable.",
+  "usage_notes": "The phrase 'lemi moru' describes a thin wall, while 'lemi sima' describes thin thread or strands. The contrast with 'theru' (thick) concerns cross-section or material body rather than overall size.",
+  "examples": [
+    {
+      "phi": "moru lemi nai.",
+      "translation": "The wall is thin."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Little thickness",
-    "spatial": "Slender form"
+    "physical": "little material thickness or sparse substance",
+    "spatial": "a small distance between opposing surfaces or across a cross-section"
   }
 }

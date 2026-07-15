@@ -8,16 +8,21 @@
     "e"
   ],
   "pos": "adjective",
-  "concept": "Soft / Yielding / Not Hard",
-  "description": "Easy to mold, compress, or yield to pressure; not hard or firm. 'Wuloe' names the quality of yielding—surfaces that give way, textures that comfort, resistance that accepts rather than fights.",
-  "sound_symbolism": "The word yields gently. 'Wu' begins with rounded yielding, lips giving way. Then 'lo' flows low, pressure released. Finally 'e' opens and releases, the softness complete.",
-  "grammatical_notes": "Functions as an adjective: 'wuloe shumu' (soft moss). Opposite of hard. Related to 'moli' (gentle) but emphasizes texture and physical quality rather than manner.",
-  "pillars": {
-    "art-nouveau-aesthetics": "Softness in texture and form was beloved by Art Nouveau—the yielding curve, the gentle surface.",
-    "peace-linguistics-practices": "Soft speech, soft approach—the quality that de-escalates and welcomes."
-  },
+  "search_terms": [
+    "yielding",
+    "compressible"
+  ],
+  "description": "A material or surface is 'wuloe' when it yields readily to pressure or cushions contact. The word can also describe a physically soft landing. By contrast, 'moli' (gentle) belongs to manner and temperament; 'wuloe' stays with yielding texture and physical contact.",
+  "articulatory_notes": "Rounded lips and a raised back tongue form 'w' and continue directly into high-back 'u'. The tongue tip then contacts the alveolar ridge for 'l' and releases into rounded mid-back 'o'. Stress rests on 'lo'; final true-mid front 'e' remains a separate syllable after the hiatus.",
+  "sound_symbolism": "The rounded opening of 'wuloe' passes through lateral 'l' without a stop. Its yielding contour offers a small mnemonic for a surface that gives under pressure.",
+  "usage_notes": "The phrase 'wuloe shumu' describes soft moss. The corpus also places 'wuloe' before 'lepa' (fall) for a soft landing, where bodily contact remains the source of the image. A kind action or restrained voice takes 'moli' (gentle).",
+  "examples": [
+    {
+      "phi": "shumu wuloe nai.",
+      "translation": "The moss is soft."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Comfortable quality",
-    "physical": "Yielding texture"
+    "physical": "a yielding texture or contact that cushions pressure"
   }
 }

@@ -7,16 +7,21 @@
     "ru"
   ],
   "pos": "adjective",
-  "concept": "Dull / Lacking Sharpness / Blunt",
-  "description": "Lacking a sharp edge or point; not keen or acute. 'Shoru' names the quality of dullness—edges that don't cut, points that don't pierce.",
-  "sound_symbolism": "The word slides past. 'Sho' /ʃo/ begins with soft pressure, edge absent. Then 'ru' rolls without cutting, dullness confirmed.",
-  "grammatical_notes": "Functions as an adjective: 'shoru kiru' (dull chisel). Opposite of 'tiso' (sharp). Can describe physical bluntness or mental sluggishness.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Dull awareness misses subtlety—the unsharpened mind overlooks what's present.",
-    "pre-industrial-wisdom": "Dull tools taught maintenance—the consequence of neglect reminded craftspeople to care for their instruments."
-  },
+  "search_terms": [
+    "blunt",
+    "unsharpened"
+  ],
+  "description": "An edge or point is 'shoru' when it does not cut or pierce readily. The adjective may extend to attention or thought whose acuity has faded. Low illumination belongs to 'nuelo' (dark), so 'shoru' does not inherit the English light-sense of dull.",
+  "articulatory_notes": "The tongue blade approaches the postalveolar area for voiceless 'sh', and the lips round into mid-back 'o'. A tap or short trill begins the second syllable before rounded high-back 'u'. Stress falls on 'sho'.",
+  "usage_notes": "The phrase 'shoru kiru' means a dull chisel. Its physical contrast is 'tiso' (sharp). Figurative use stays with reduced acuity rather than dim light or a judgement that something is boring.",
+  "examples": [
+    {
+      "phi": "kiru shoru nai.",
+      "translation": "The chisel is dull."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "Not acute",
-    "physical": "Lacking edge"
+    "cognition": "attention or thought with reduced acuity",
+    "physical": "an edge or point that no longer cuts or pierces readily"
   }
 }
