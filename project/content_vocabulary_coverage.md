@@ -1,0 +1,188 @@
+# Content vocabulary coverage
+
+This ledger checks whether Phi's completed semantic batches cover the concepts they set out to handle. It looks only at content vocabulary. The grammar and its closed function word systems have already been migrated and validated; a missing content distinction is not a reason to reopen particles, conjunctions, prepositions, or other function classes.
+
+Completeness here does not mean reproducing an English dictionary. English can suggest a question, but it does not decide which distinctions Phi should lexicalize. A field is adequate when ordinary Phi can preserve its useful contrasts through an existing root, a natural construction, an established grammatical rule, or a deliberate decision to leave specialized precision to a module or separate source material.
+
+The initial retrospective covers the six semantic batches completed in PRs #346 through #351. It records possible gaps without coining words. A `REVIEW` row sends a question to the maintainer before any root is coined.
+
+## Status vocabulary
+
+| Status | Meaning |
+|---|---|
+| **COVERED** | Existing vocabulary directly handles the ordinary distinction. |
+| **COMPOSITIONAL** | Existing words or grammar express the distinction naturally enough that no dedicated root is presently needed. |
+| **REVIEW** | Phi can work around the concept, but corpus pressure or a clean semantic distinction makes dedicated vocabulary worth considering. |
+| **DEFERRED** | The concept belongs to a later semantic batch, an optional module, or a scenario that can establish whether it matters. |
+| **SETTLED** | Canon deliberately closes the lexical question. |
+
+Work package states in the next table use the [roadmap status vocabulary](roadmap.md#status-vocabulary).
+
+## Current position
+
+| Work package | Status | Result or next action |
+|---|---|---|
+| Retrospective audit of completed content batches | **DONE** | All six concept maps and their findings appear below. |
+| Review concepts with direct corpus pressure | **NEXT** | Decide the lexical treatment of damage, wear, weakness, and rigidity. |
+| Test concepts without corpus pressure | **READY** | Use small practical scenarios for adhesion, traction, material phase, and neutral measurement vocabulary. |
+| Resume inherited content prose migration | **READY** | Continue after the review queue and apply the coverage gate to every new semantic batch. |
+
+## Batch overview
+
+| Semantic batch | Migration | Coverage status | Open question |
+|---|---|---|---|
+| Core material qualities | [PR #346](https://github.com/dcellison/phi/pull/346) | **REVIEW** | Surface adhesion and traction; general material phase vocabulary. |
+| Environmental and spatial qualities | [PR #347](https://github.com/dcellison/phi/pull/347) | **COVERED** | No obvious base vocabulary gap remains after the addition of `sukaro` (hot). |
+| Size, extent, and distance | [PR #348](https://github.com/dcellison/phi/pull/348) | **REVIEW** | Neutral nouns for overall size, length, and distance may still be useful. |
+| Pace, motion, and equilibrium | [PR #349](https://github.com/dcellison/phi/pull/349) | **COVERED** | Changes of rate remain ordinary constructions. |
+| Color | [PR #350](https://github.com/dcellison/phi/pull/350) | **SETTLED** | Canon closes the system at seven adjective roots and an open construction built from a source noun and color. |
+| Strength, deformation, and recovery | [PR #351](https://github.com/dcellison/phi/pull/351) | **REVIEW** | Damage, wear, weakness, and rigidity have distinct pressure that current paraphrases do not fully remove. |
+
+## Audit method
+
+1. Define the field through physical or communicative tests rather than through a list of English synonyms.
+2. Inventory existing roots, quality and event nouns, and registered compounds. Check available constructions, module vocabulary, and relevant corpus uses too.
+3. Check opposing values, intermediate conditions, changes of state, and resulting states where the field actually distinguishes them.
+4. Mark a concept `REVIEW` only when its meaning remains distinct after composition or when Phi texts repeatedly work around it.
+5. Keep exact standards, measurements, taxonomies, and source identities outside Phi when their original form matters.
+6. Record the decision before a semantic batch closes, even when the decision is to leave the concept compositional.
+
+## Core material qualities
+
+This field asks how an object responds to force, contact, contents, and light. The migrated batch covers six paired everyday scales cleanly. The remaining questions concern kinds of contact and matter that those scales never claimed to describe.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Force needed to lift or support | `tumoa` (heavy), `phelo` (light) | **COVERED** | Context supplies the comparison, so Phi does not need a fixed weight boundary. |
+| Response to ordinary pressure | `kethua` (hard), `wuloe` (soft) | **COVERED** | Hardness concerns resistance to indentation; softness concerns yielding contact. |
+| Surface regularity | `keloa` (rough), `helu` (smooth) | **COVERED** | These words report bumps, ridges, and continuity rather than beauty or loudness. |
+| Readiness to cut or pierce | `tiso` (sharp), `shoru` (dull) | **COVERED** | The pair works for edges and for established cognitive extensions. |
+| Substance across a cross-section | `theru` (thick), `lemi` (thin) | **COVERED** | Width and depth remain separate dimensions. |
+| Contents relative to a boundary or capacity | `pheno` (full), `whemoa` (empty) | **COVERED** | Completeness, sufficiency, zero, and absence remain distinct. |
+| Visibility through matter | `nuwi` (clear), illumination words, and ordinary negation | **COMPOSITIONAL** | A separate transparent or opaque pair would duplicate coverage unless practical use exposes a narrower distinction. |
+| Adhesion to another surface | No dedicated content root | **REVIEW** | Sticky food, paste, resin, and repair materials share a physical behaviour that roughness and wetness do not capture. No current corpus passage has yet forced the issue. |
+| Low traction or easy sliding | No dedicated content root | **REVIEW** | Slipperiness matters to handling, routes, and bodily safety. A scenario should test whether a clause about smoothness and movement remains natural enough. |
+| General material phase | `muralo` (material), `mirela` (state), and specific substances | **REVIEW** | Phi has water, air, ice, metal, oil, and many other materials but no general solid, liquid, or gas vocabulary. The distinction may belong in base vocabulary or in Ecological and Systems modules if speakers discuss phase itself. |
+| Interior structure | `whemoa` (empty) covers an unfilled bounded place | **DEFERRED** | Hollow, porous, and dense concern structure rather than the six migrated scales. They belong in a later shape or material structure audit. |
+
+The batch is complete on the six axes it contains. Adhesion and traction are the strongest adjacent everyday questions; material phase needs a use case before Phi decides how general it should become.
+
+## Environmental and spatial qualities
+
+This field now has a four-step thermal scale and paired coverage for moisture, illumination, and depth. The addition of `sukaro` (hot) repaired the one conspicuous hole in an otherwise coherent group.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Temperature felt in ordinary life | `sukaro` (hot), `sulae` (warm), `neri` (cool), `pelui` (cold) | **COVERED** | The four roots preserve intense and moderate ranges without pretending that everyone experiences one fixed threshold. |
+| Moisture in air, surfaces, or material | `wirua` (wet), `kurathi` (dry) | **COVERED** | `wirua` already reaches dampness, soaking, wet weather, and moisture-laden air; degree and context supply amount. |
+| Amount of light | `keru` (bright), `nuelo` (dark) | **COVERED** | `pholuo` (luminous), `horae` (radiant), and `shomelu` (shadow) add source and pattern where needed. |
+| Distance below a surface | `nulo` (deep), `saphei` (shallow), `nusho` (depth) | **COVERED** | Depth remains distinct from thickness and vertical height. |
+| Changes involving these qualities | `kelu` (become), the causative, and specific verbs such as `therapi` (boil) | **COMPOSITIONAL** | Phi can state becoming hot, cooling, drying, wetting, freezing into ice, or boiling without storing a separate verb for every transition. |
+| Exact temperature, humidity, or illumination as a measured parameter | System state, source measurements, and contextual quality statements | **DEFERRED** | Neutral measurement nouns may help technical work later, but their absence does not leave ordinary environmental speech without hot, wet, or bright. |
+
+No further base root is an obvious omission in this batch. Technical measurement language can return through Systems or Ecological use rather than enlarging the daily scale in advance.
+
+## Size, extent, and distance
+
+Phi divides spatial judgement by the dimension a speaker is actually considering. One general opposition between large and small does not have to do every job.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Overall scale or amount | `whalo` (large), `thiku` (small) | **COVERED** | The comparison remains contextual and can apply beyond physical objects. |
+| End-to-end extent or duration | `laeno` (long), `teku` (short) | **COVERED** | One pair handles paths and periods without confusing length with height. |
+| Side-to-side extent | `losha` (wide), `hieru` (narrow), `lonai` (width) | **COVERED** | The dimension has adjectives and a neutral measurement noun. |
+| Vertical extent or position | `raelu` (tall), `mulu` (low), `raeli` (height) | **COVERED** | Phi does not need separate roots for tall extent and high position; `raelu` carries both. |
+| Inward or downward extent | `nulo` (deep), `saphei` (shallow), `nusho` (depth) | **COVERED** | The environmental batch completes this spatial axis. |
+| Proximity | `noshi` (near), `wuero` (far), with established near and far prepositions | **COVERED** | Adjectives describe the quality, while grammar introduces an explicit reference object. |
+| Intermediate or equal extent | Context, comparison, degree, and `kolo` (equal) | **COMPOSITIONAL** | A compulsory medium-sized root would add an English label where an unmarked contextual middle often does the work. |
+| Neutral measurement dimensions | `raeli` (height), `lonai` (width), and `nusho` (depth) exist; quality nouns supply longness, largeness, nearness, and farness | **REVIEW** | Phi has no unambiguous neutral nouns for overall size, length, or distance. A measurement scenario should test whether the adjective quality nouns are read naturally as dimensions or only as marked qualities. |
+
+The adjective system is complete for ordinary comparison. The remaining question is narrower: whether measurement and craft need neutral dimension nouns parallel to height, width, and depth.
+
+## Pace, motion, and equilibrium
+
+This group separates rate from movement, then keeps variation and disturbance apart. Proportion and agitation have their own words. Several English words that look like missing opposites turn out to be plain changes or negations once those axes are kept apart.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| High or low rate | `reshi` (fast), `sheru` (slow), `thimelo` (pace) | **COVERED** | Speed says nothing by itself about care, attention, or steadiness. |
+| Movement and its absence | `roke` (move), `moesha` (still), `therilu` (rest) | **COVERED** | Stillness concerns motion; rest concerns an activity or body's pause. |
+| Variation through time | `kolu` (steady), `helui` (change), `telui` (rhythm), `sena` (pattern) | **COVERED** | A steady course may be fast or slow, and a repeated rhythm need not be motionless. |
+| Survival of disturbance | `mureo` (stable), `thuroi` (resilient) | **COVERED** | Stability retains a state; resilience recovers after disruption. |
+| Equilibrium or workable proportion | `weilo` (balanced), `malomi` (balance) | **COVERED** | Physical equilibrium and competing needs share the word without becoming moral approval. |
+| Agitation | `shena` (calm), `wipha` (restless), `noalu` (tranquil) | **COVERED** | Calm and restlessness can occur without a change in visible motion. |
+| Acceleration and deceleration | `reshi kelu` (become fast), `sheru kelu` (become slow) | **COMPOSITIONAL** | The transparent state change says what happened without requiring two dedicated verbs in base vocabulary. |
+| Sudden or gradual change | `tiroe` (instant), rate words, periods, and change clauses | **COMPOSITIONAL** | A scenario can state how long the transition took and how quickly it proceeded. No current text shows pressure for dedicated roots. |
+
+No obvious everyday gap remains here. Future prose can reopen a distinction if the composition becomes clumsy, but the present system covers the field without equating mindful speech with slowness.
+
+## Color
+
+Color is the one retrospective field whose boundary is already settled in canon. Seven adjective roots cover the recurring perceptual categories, and an open noun construction names other hues from a source that carries them.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Core hue adjectives | `nuko` (black), `whilo` (white), `rulo` (red), `liro` (green), `soriu` (yellow), `shilu` (blue), `mureli` (brown) | **SETTLED** | Canon permits no eighth color adjective root. |
+| Color as a property | `welisha` (color) | **COVERED** | A source noun before `welisha` names a hue without pretending that every community divides the spectrum alike. |
+| Recurring additional hues | `kerou welisha` (gray), `thero welisha` (orange), `horathe welisha` (pink), `norawhi welisha` (violet or purple) | **SETTLED** | These registered compounds preserve their stone, fire, dawn, and dusk sources. |
+| Bright and dark shades | `keru` (bright), `nuelo` (dark), followed by a hue | **COMPOSITIONAL** | Illumination modifies color without adding another root. |
+| Exact color standards or source-specific names | Separate source material plus a Phi description | **COMPOSITIONAL** | Exact identity remains outside Phi when a standard, pigment, product, or tradition-specific label matters. |
+
+This audit records the closure rather than reopening it. A future text may add another registered compound built from a source and `welisha`, but it will not add an eighth adjective root.
+
+## Strength, deformation, and recovery
+
+The migrated words now separate force from construction and susceptibility to damage from the ability to change shape. Recovery has its own test. That sharper map also exposes several places where older texts borrowed a neighbour because the intended word was absent.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Force exerted or withstood | `kema` (strong) | **COVERED** | The word reaches bodies, materials, resolve, and sensory intensity while remaining distinct from sturdy construction. |
+| Construction under expected use | `keruko` (sturdy), `pheru` (endure) | **COVERED** | Sturdiness concerns how something is built; endurance can state that it continues through time or difficulty. |
+| Susceptibility to comparatively small force | `welua` (fragile) | **COVERED** | Fragility does not mean general weakness or softness. |
+| Bending or adaptation without damage | `luwi` (flexible) | **COVERED** | The same root can describe material and a plan that changes without losing purpose. |
+| Recovery after disruption | `thuroi` (resilient), `shiroka` (repair), `talome` (restore), `helanu` (recover) | **COVERED** | The adjective covers capacity; the verbs distinguish technical repair, restoration, and medical recovery. |
+| Lack of force or capacity | Negation of `kema`; earlier texts sometimes pressed `welua` into this role | **REVIEW** | Weakness is not identical to fragility. The Tao Te Ching renderings already mark the loss, which gives this concept direct corpus pressure. |
+| Resistance to bending or rearrangement | Negation of `luwi`, plus `kethua` (hard) where pressure is involved | **REVIEW** | Rigidity is not hardness, and mere non-flexibility does not say why a thing keeps its shape. Craft, systems, and Phi's own design prose use the distinction often enough to examine a root. |
+| General damage and damaged condition | `pukate` (break), `kaworu` (injury), `kiphira` (fault), `thonuki` (fail), and the documented `ma sholu nai` (not be complete) workaround | **REVIEW** | The existing words divide bodily, technical, and complete breakage. None neutrally names partial physical damage across domains, and `ma sholu nai` also describes unfinished things that were never damaged. |
+| Gradual wear through use or time | Oldness, thinness, breakage, repair, and clauses describing the visible change | **REVIEW** | Household material and the Velveteen Rabbit repeatedly paraphrase worn condition. Wear deserves a separate decision after general damage because gradual use is not one damaging event. |
+| Brittle response | `kethua` (hard) together with `welua` (fragile) | **COMPOSITIONAL** | Glass gives the model: it resists indentation and still cracks under a small impact. |
+| Elastic response | `luwi` (flexible) together with `thuroi` (resilient) | **COMPOSITIONAL** | One word supplies shape change without damage and the other supplies return toward a workable state. |
+| Toughness or durability | `kema` (strong), `keruko` (sturdy), `luwi` (flexible), and `pheru` (endure), selected by the actual test | **COMPOSITIONAL** | English gathers several material behaviours under these labels. The intended test determines which Phi word fits. |
+| Deformation as an event | `helui` (change), `kire` (shape), `norelu` (form), and state vocabulary | **COMPOSITIONAL** | Technical discussion can state the changed shape and conditions. A dedicated term belongs in Systems or Work only if connected use needs it. |
+
+Four concepts merit direct review. Damage, wear, and weakness have already cost detail in active texts; rigidity has a clean physical meaning that the existing hardness and flexibility axes do not absorb.
+
+## Consolidated review queue
+
+This queue contains questions, not eight promised roots. The first four have corpus evidence or a sharp everyday distinction. The next four need a short scenario before we know whether a root would help.
+
+| Review item | Evidence | Likely placement if coined | Decision needed |
+|---|---|---|---|
+| General damage | The transmutation manual explicitly works around the missing word with `ma sholu nai`; repair and module vocabulary divide only particular kinds of damage. | Base vocabulary, with possible module memberships | Decide whether a neutral verb should cover causing or undergoing partial loss of condition, with its event noun supplying damage. |
+| Gradual wear | Household material and literary texts repeatedly paraphrase worn surfaces, cloth, joints, and places. | Base vocabulary or shared Household and Work vocabulary | Decide whether wear is one process root or remains damage qualified by use and time. |
+| Weak | The Tao Te Ching renderings substitute fragile for weak and record the loss. | Base vocabulary | Decide whether negated strong is enough or whether limited force and capacity deserve a positive root. |
+| Rigid | Hard and inflexible do not identify the same response; craft, design, and systems prose already discuss rigidity. | Base vocabulary or shared Work and Systems vocabulary | Decide whether the root should describe material shape, procedural rigidity, or both. |
+| Sticky or adhesive | Common food, resin, paste, and repair situations share adhesion, but no active text has needed a root. | Base vocabulary or Household and Work modules | Test preparation, repair, and cleaning scenes before deciding whether one word covers tackiness and deliberate adhesion. |
+| Slippery or low traction | Route safety and tool handling can require the distinction, but the active corpus has no physical case. | Base vocabulary or shared Accessibility and Work vocabulary | Test a wet floor, path, and tool grip; keep smoothness separate from low traction. |
+| Material phase categories | Specific materials and state vocabulary exist, but solid, liquid, and gas do not. | Base vocabulary or Ecological and Systems modules | Test whether speakers need general categories rather than naming the material and its observed behaviour. |
+| Neutral size, length, and distance nouns | Height, width, and depth have nouns; the other dimensions rely on adjective quality nouns and context. | Base vocabulary | Test measurement, route, and craft sentences for ambiguity before adding parallel roots. |
+
+Hollow, porous, and dense remain deferred to a later shape and material structure field. They are recorded here so that absence is not mistaken for a completed decision.
+
+## Coverage gate for future batches
+
+Every future content batch follows this sequence before its migration PR closes:
+
+1. Add the batch to this ledger with its intended semantic axes.
+2. Inventory existing roots, grammatical derivations, and registered compounds. Check module coverage and active corpus paraphrases too.
+3. Test opposites, intermediate conditions, changes, and resulting states only where the field itself makes those distinctions useful.
+4. Classify every plausible gap as covered, compositional, review, deferred, or settled.
+5. Bring review items to the maintainer before coining. A missing English headword alone never satisfies this step.
+6. Implement accepted roots in their own bounded vocabulary work. Each addition needs complete schema fields and the required prose passes. Run collision checks before coinage; examples and generated references follow, and the validator closes the implementation.
+7. Record deliberate non-coinage just as clearly as coinage, then mark the batch closed for coverage.
+
+The gate applies only to content vocabulary. Phi's closed grammar remains closed unless connected use reveals an actual grammatical failure, which is a separate language-design question rather than a vocabulary-coverage result.
+
+## Resume point
+
+The retrospective mapping is complete. The next decision set is damage, wear, weakness, and rigidity, followed by scenario tests for the four questions with no corpus pressure. Once those decisions are recorded and any accepted vocabulary is implemented, the inherited content prose migration resumes after the strength and recovery batch with this gate in place.
