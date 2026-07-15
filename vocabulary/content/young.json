@@ -7,16 +7,21 @@
     "mu"
   ],
   "pos": "adjective",
-  "concept": "Young / Early in Life / Not Yet Mature",
-  "description": "Having lived or existed for only a short time; in an early stage of life or development. 'Limu' names the quality of being near the beginning—full of potential, not yet formed by time, carrying the energy of new life.",
-  "sound_symbolism": "The word springs with new life. 'Li' begins with liquid aliveness, life starting. Then 'mu' holds new form, being not yet hardened.",
-  "grammatical_notes": "Functions as an adjective: 'limu shiro' (young tree). Opposite of 'serao' (old). Related to potential, growth, and early stages of any development.",
-  "pillars": {
-    "solarpunk-values": "Young people inherit the future we create—their perspective and energy essential to building sustainable worlds.",
-    "pre-industrial-wisdom": "Youth was both protected and prepared—the young carried forward the knowledge and practices of their people."
-  },
+  "search_terms": [
+    "youthful",
+    "early in development"
+  ],
+  "description": "Near the early part of its growth, an organism or developing thing is 'limu'. A young tree and a young person are still becoming, and the stage says nothing by itself about worth or ability. 'seroli' (mature) marks full development, while 'serao' (old) concerns long duration. 'helia' (youth) is the period or a young person rather than the quality.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l' and let air pass along the sides into stressed high-front unrounded 'i'. Close the lips for voiced nasal 'm', keep the voice in the nose, then raise the back of the tongue and round the lips for high-back 'u'.",
+  "sound_symbolism": "The 'li' opening places 'limu' beside Phi's audible life family. After the lateral flow, closed lips and rounded 'u' give the word a small, gathered finish.",
+  "examples": [
+    {
+      "phi": "ha shiro limu nai.",
+      "translation": "This tree is young."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Not yet mature",
-    "temporal": "Early in life"
+    "physical": "early bodily or organismal development",
+    "temporal": "a position near the beginning of a life or developmental course"
   }
 }

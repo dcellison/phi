@@ -7,16 +7,25 @@
     "lu"
   ],
   "pos": "adjective",
-  "concept": "Healthy / In Good Health / Functioning Well",
-  "description": "In good physical or mental condition; functioning well. 'Wolu' names the quality of well-being—bodies that work as they should, minds that function clearly, systems that operate in balance.",
-  "sound_symbolism": "The word flows with well-being. 'Wo' begins with rounded wholeness, wellness present. Then 'lu' flows with life-force, health moving through.",
-  "grammatical_notes": "Functions as an adjective: 'wolu miona' (healthy person). Applies to individuals, communities, ecosystems—anything that can be in good or poor condition.",
+  "search_terms": [
+    "in good health",
+    "sound condition"
+  ],
+  "description": "A person, community, or ecosystem is 'wolu' when the functions that sustain its life are in sound condition. Health takes its shape from the being and context at hand, not from one prescribed body. 'sunai' (health) is the condition itself, while 'towe' (well) commonly reports how someone is now.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then continue into stressed true-mid back rounded 'o'. Touch the tongue tip to the alveolar ridge for lateral 'l', let air pass along its sides, and raise the back of the tongue for high-back rounded 'u'.",
+  "sound_symbolism": "Both syllables keep rounded back vowels, joined by the open passage around lateral 'l'. The uninterrupted voiced flow resembles easy, unstrained breath, a mnemonic rather than a test of health.",
+  "examples": [
+    {
+      "phi": "ha shiro wolu nai.",
+      "translation": "This tree is healthy."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Healthy ecosystems, healthy communities, healthy individuals—all connected, each supporting the others.",
-    "secular-buddhist-philosophy": "Health of body supports health of mind—the Buddha taught care for the body as foundation for practice."
+    "solarpunk-values": "A forest and a community can each be 'wolu' when their relations let life continue. Solarpunk work has reason to examine health at both scales."
   },
   "semantic_domains": {
-    "community": "Well-functioning",
-    "physical": "Good condition"
+    "community": "collective conditions that support people in continuing life",
+    "nature": "sound life-supporting relations in an organism or ecosystem",
+    "physical": "a living body's health in the context relevant to that body"
   }
 }

@@ -7,16 +7,24 @@
     "ri"
   ],
   "pos": "adjective",
-  "concept": "Vital / Essential to Life / Full of Energy",
-  "description": "Having the quality of life-sustaining importance; full of living energy. 'Lori' names what is essential to life—the irreducible core without which living cannot continue.",
-  "sound_symbolism": "The word pulses with life force. 'Lo' opens with life-giving presence, essence flowing. 'Ri' rises with vital energy, life asserting itself.",
-  "grammatical_notes": "Functions as adjective: 'lori miona' (vital person). Describes what sustains 'lioru' (life). Related to 'sunai' (health) and 'kenua' (energy).",
+  "search_terms": [
+    "life-sustaining",
+    "vigorous"
+  ],
+  "description": "'lori' has two closely related uses: continued life may depend on something, or a living being may show vigorous energy. Water is vital to a garden; a person can look vital after recovery. 'noetha' (essential) covers necessity in any task, while 'kenua' (energy) is the capacity for action rather than its living expression.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced lateral 'l' and release into stressed true-mid back rounded 'o'. Make a tap or short trill at the same ridge, then raise the front of the tongue for high-front unrounded 'i'.",
+  "sound_symbolism": "'lori' echoes the liquid movement and vowels of 'lioru' (life) without matching it exactly. Across the tap, rounded 'o' rises towards narrow unrounded 'i'. The quick upward turn suits its vigorous sense.",
+  "examples": [
+    {
+      "phi": "phialu wei shiro lori nai.",
+      "translation": "Water is vital to the tree."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Vital systems—recognizing what is essential to sustaining life and community.",
-    "secular-buddhist-philosophy": "'Lori' names the quality of being fully alive in the present moment, aliveness treated as something to cultivate rather than assume."
+    "solarpunk-values": "Water and functioning ecosystems are 'lori' when continued life depends on them. The adjective keeps life at the centre of the claim."
   },
   "semantic_domains": {
-    "nature": "Life essence",
-    "physical": "Essential quality"
+    "nature": "conditions and relations on which living systems depend",
+    "physical": "vigorous energy expressed by a living body"
   }
 }

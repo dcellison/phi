@@ -7,15 +7,24 @@
     "shu"
   ],
   "pos": "adjective",
-  "concept": "Thirsty / Dry-Throated / In Need of Water",
-  "description": "Thirsty: the dry counterpart of 'kumoli' (hungry), answered by 'phialu' (water) and 'milau' (drink).",
-  "sound_symbolism": "'ki' catches dry in the throat and 'shu' is the parched whisper — the word sounds like needing water.",
-  "grammatical_notes": "Predicative: 'shia kishu nai.' (They are thirsty.) With the answer: 'no wei shia phialu loa.' (Give them water.)",
+  "search_terms": [
+    "thirst",
+    "needing water"
+  ],
+  "description": "A living being is 'kishu' when the body needs water or another drink. A dry mouth may accompany thirst, but 'kurathi' (dry) describes moisture in material. 'phialu' (water) and 'milau' (drink) give the ordinary answer.",
+  "articulatory_notes": "Raise the back of the tongue to the soft palate for unvoiced 'k' and release into stressed high-front unrounded 'i'. Raise the tongue blade toward the postalveolar region for unvoiced 'sh', keep air moving along its centre, then raise the back of the tongue and round the lips for high-back 'u'.",
+  "sound_symbolism": "The stop in 'ki' releases sharply, while 'sh' keeps unvoiced air moving into rounded 'u'. The contrast can feel like a catch followed by an exhale, a useful memory cue for thirst.",
+  "usage_notes": "With 'nai', 'kishu' reports thirst directly. What the person drinks and how much are separate information.",
+  "examples": [
+    {
+      "phi": "shia kishu nai.",
+      "translation": "They are thirsty."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Water offered to the thirsty is hospitality's first act in every tradition; the adjective is its request form.",
-    "pre-industrial-wisdom": "Wells, springs, and carried gourds — settlement followed the answers to thirst; the word walked ahead of every path to water."
+    "peace-linguistics-practices": "Offering water answers 'kishu' directly. The word lets bodily need enter the exchange before explanation or persuasion."
   },
   "semantic_domains": {
-    "physical": "The dry throat's need"
+    "physical": "the need for water or another drink as felt in the body"
   }
 }

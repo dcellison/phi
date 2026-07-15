@@ -8,16 +8,25 @@
     "i"
   ],
   "pos": "adjective",
-  "concept": "Weary / Tired / Depleted of Energy",
-  "description": "Feeling or showing tiredness, especially from sustained effort. 'Shorui' names the quality of weariness—the body and mind calling for rest.",
-  "sound_symbolism": "The word droops with fatigue. 'Sho' /ʃo/ begins with soft exhale, energy fading. 'Ru' rolls slowly, momentum lost. Finally 'i' arrives weakly, weariness complete.",
-  "grammatical_notes": "Functions as an adjective: 'shorui miona' (weary person). Predicative: 'mia shorui nai.' (I am weary.)",
+  "search_terms": [
+    "tired",
+    "fatigued"
+  ],
+  "description": "After sustained effort, wakefulness, strain, or illness, a person may be 'shorui' in body or mind. Weariness calls for rest, though the person may still choose to continue. 'therilu' (rest) is the restorative pause and 'nulae' (sleep) the cyclic unconscious state; a sleepy speaker can pair weariness with a wish to sleep. The separate 'wesha' (lazy) judges a pattern of avoiding effort, while weariness alone gives no such evidence.",
+  "articulatory_notes": "Raise the tongue blade toward the postalveolar region for unvoiced 'sh' and send air along its centre into true-mid back rounded 'o'. Make a tap or short trill at the alveolar ridge and release into stressed high-back rounded 'u'. Raise the front of the tongue for a separate high-front unrounded 'i' syllable. Keep the 'u.i' hiatus clear without a glide.",
+  "sound_symbolism": "The long unvoiced opening and the final 'u.i' hiatus ask the speaker to sustain air and finish with one more vowel movement. Its drawn contour suits effort continuing after ease has gone.",
+  "usage_notes": "'shorui' predicates with 'nai'. 'ru shorui' covers exhausted or deeply weary when degree, rather than a separate kind of state, is the point.",
+  "examples": [
+    {
+      "phi": "mia shorui nai.",
+      "translation": "I am weary."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Acknowledging weariness enables care—the tired body teaches us to rest rather than push through.",
-    "pre-industrial-wisdom": "Weary workers rested—traditional rhythms included time for recovery, not endless productivity."
+    "secular-buddhist-philosophy": "Attention to 'shorui' can change the next act from pushing through to resting. The adjective names the limit before the speaker chooses."
   },
   "semantic_domains": {
-    "emotion": "Need for rest",
-    "physical": "Depleted energy"
+    "cognition": "mental depletion that reduces capacity for attention or thought",
+    "physical": "bodily depletion after effort, wakefulness, strain, or illness"
   }
 }

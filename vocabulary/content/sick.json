@@ -8,16 +8,24 @@
     "la"
   ],
   "pos": "adjective",
-  "concept": "Sick / Ill / The Body Out of Accord",
-  "description": "Sick: the body out of its accord — fevered, weakened, unwell. The state 'nepha' (medicine), 'theala' (heal), and 'temoe' (tend) exist to answer. Its recovery-side companions: 'sunai' (health), 'wolu' (healthy).",
-  "sound_symbolism": "'mo' is the grounded body, 'ke' the catch where something has gone wrong, 'la' the settling into the state — illness as a place one is, temporarily.",
-  "grammatical_notes": "Predicative: 'lopia mokela nai.' (The child is sick.) 'mia mokela to nai.' (I was sick.) The caring question: 'wa thia mokela nai.' (Are you sick?)",
+  "search_terms": [
+    "ill",
+    "unwell"
+  ],
+  "description": "Illness affecting a person is 'mokela', whether or not a diagnosis is known. The word works as an ordinary self-report; 'mokanu' (disease) in Medical and Bodily Care is a classified pattern or process. Sickness and disability are separate claims, so a disabled person may be 'wolu' (healthy) or sick like anyone else.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm', carry the voice through the nose, and open into true-mid back rounded 'o'. Raise the back of the tongue to the soft palate for unvoiced 'k' and release into stressed true-mid front 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l', let air pass along the sides, then open into central 'a'.",
+  "sound_symbolism": "A voiced nasal opening meets the abrupt closure of 'k' at the stressed middle syllable, then releases through lateral 'l' into open 'a'. The brief catch suggests illness interrupting ordinary bodily ease.",
+  "usage_notes": "'mokela' predicates with 'nai'. Past 'mia mokela to nai' means I was sick, while the yes or no question 'wa thia mokela nai' asks whether you are sick.",
+  "examples": [
+    {
+      "phi": "lopia mokela nai.",
+      "translation": "The child is sick."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "'I am sick' is a sentence that asks for care without begging — the plain adjective dignifies the asking.",
-    "pre-industrial-wisdom": "The sickbed organized the household: who tends, who fetches, who takes the field-work. Illness was communal logistics before it was diagnosis."
+    "peace-linguistics-practices": "The plain report 'mia mokela nai' can ask for care without requiring a diagnosis or an apology."
   },
   "semantic_domains": {
-    "community": "The state that summons tending",
-    "physical": "The body out of accord"
+    "physical": "illness experienced as a bodily or whole-person state"
   }
 }

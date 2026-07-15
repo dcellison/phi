@@ -8,16 +8,26 @@
     "li"
   ],
   "pos": "adjective",
-  "concept": "Mature / Fully Developed / Ripened",
-  "description": "Fully developed physically or mentally; having reached an advanced stage of development. 'Seroli' names the quality of ripeness—fruit ready to eat, person ready to act wisely, process that has reached its fullness.",
-  "sound_symbolism": "The word settles into fullness. 'Se' begins settled, development advanced. Then 'ro' has grown solid, form achieved. Finally 'li' lives fully, maturity reached.",
-  "grammatical_notes": "An adjective: 'seroli lureko' (mature fruit). Ripening is becoming: 'lureko seroli kelu.' (The fruit matures.) Maturity, the noun, comes by the quality-noun rule. Between 'limu' (young) and 'serao' (old)—the stage of full development.",
+  "search_terms": [
+    "fully developed",
+    "ripe"
+  ],
+  "description": "'seroli' is full development or ripeness. Fruit reaches this state when ready to eat or set seed; a person, practice, or society is mature when its capacities have had time to develop. The word sits between 'limu' (young) and 'serao' (old) in the life arc, but its threshold depends on what is developing rather than on one fixed age.",
+  "articulatory_notes": "Bring the tongue blade close to the alveolar ridge for unvoiced 's' and send air along its centre into true-mid front 'e'. Make a tap or short trill at the ridge and release into stressed true-mid back rounded 'o'. Return the tongue tip to the ridge for lateral 'l', let air pass along the sides, then raise the front of the tongue for high-front unrounded 'i'.",
+  "sound_symbolism": "'seroli' shares its opening sibilant and tap with 'serao' (old). This keeps two points of the age arc audibly near, while the alternating front and back vowels give the three syllables a measured motion.",
+  "usage_notes": "With 'kelu' (become), 'seroli' expresses maturation or ripening. In a noun position, the same form means maturity.",
+  "examples": [
+    {
+      "phi": "lureko seroli kelu.",
+      "translation": "The fruit matures."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Mature practice comes from sustained effort—wisdom and compassion that have ripened through experience.",
-    "pre-industrial-wisdom": "Knowing when fruit is mature, when grain is ready—traditional knowledge of ripeness and timing."
+    "pre-industrial-wisdom": "Harvest depends on recognising when fruit or grain is 'seroli'. The adjective names that practical timing without turning age alone into readiness."
   },
   "semantic_domains": {
-    "physical": "Ripened state",
-    "temporal": "Fully developed"
+    "nature": "developmental maturity in organisms and crops",
+    "physical": "ripeness or full bodily development",
+    "temporal": "a stage reached after sufficient development"
   }
 }

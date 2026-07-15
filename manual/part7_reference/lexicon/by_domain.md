@@ -277,7 +277,7 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `wira` | window | View portal |
 
-## cognition (237)
+## cognition (238)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -442,6 +442,7 @@
 | `shonela` | learn | fundamental process of acquiring and integrating knowledge |
 | `shoraku` | interpret | understanding one expression well enough to convey its meaning |
 | `shoru` | dull | attention or thought with reduced acuity |
+| `shorui` | weary | mental depletion that reduces capacity for attention or thought |
 | `sikanu` | certify | a recorded conclusion based on stated criteria |
 | `siloma` | simple | an explanation or arrangement with few parts or relations to follow |
 | `sirami` | record | a durable account with source and version |
@@ -640,7 +641,7 @@
 | `whekate` | refute | a decisive challenge supported by reasons or evidence |
 | `whishela` | whisper | Speech made of breath |
 
-## community (286)
+## community (285)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -676,7 +677,6 @@
 | `kuewa` | strange | The not-yet-met |
 | `kulo` | guide | Leading others along paths |
 | `kuma` | drum | Collective voice |
-| `kumoli` | hungry | What the shared table answers |
 | `laenu` | commons | Collective resource |
 | `lei` | harmony | weaves diverse voices into collective resonance |
 | `lesawi` | consent | a permission relation among affected participants |
@@ -719,7 +719,6 @@
 | `misuki` | mouse | The neighbor underfoot |
 | `moeli` | hearth | Gathering place |
 | `moenu` | culture | Shared ways |
-| `mokela` | sick | The state that summons tending |
 | `molawi` | cooperate | harmonizes diverse roles toward common purpose |
 | `moloi` | apprentice | Learning role |
 | `monae` | integral | Whole-making |
@@ -898,6 +897,7 @@
 | `tokemi` | fungus | Underground connectors |
 | `toloi` | messenger | Connecting role |
 | `tomi` | pot | Daily nourishment |
+| `towe` | well | the overall welfare of a person or group |
 | `tupeka` | burden | weight or demand located on an affected bearer |
 | `warosha` | reconcile | Healing relationships after conflict |
 | `welira` | thrive | Collective wellness |
@@ -925,7 +925,7 @@
 | `wiresu` | postpone | a schedule change affecting shared participation |
 | `wisola` | exchange | weaves relationships through reciprocal giving and receiving |
 | `woenu` | tame | Human-animal bond |
-| `wolu` | healthy | Well-functioning |
+| `wolu` | healthy | collective conditions that support people in continuing life |
 | `womu` | home | the felt relation that turns a dwelling into a place of rest and return |
 | `womuri` | household | a person or group sharing domestic arrangements |
 | `wonepa` | table | Where the meal gathers |
@@ -999,7 +999,7 @@
 | `napako` | bake | turning dough or other food into a baked result |
 | `naphelu` | assistive | a device or practice shaped for an access purpose |
 | `nepha` | medicine | Healing substance |
-| `newu` | new | fresh emergence into being |
+| `newu` | new | a work or object recently brought into being |
 | `nilaki` | inspect | a practice supporting maintenance, repair, and checked workmanship |
 | `nira` | cord | Binding line |
 | `noporu` | design | guiding making through an intentional specification |
@@ -1103,7 +1103,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## emotion (93)
+## emotion (91)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1166,7 +1166,6 @@
 | `shea` | peace | peace felt as an inward condition |
 | `sheli` | impatient | agitation felt during an unwanted delay |
 | `shena` | calm | low agitation in present feeling or manner |
-| `shorui` | weary | Need for rest |
 | `shurano` | safe | The felt state of being out of danger |
 | `siora` | joy | joy experienced as present gladness or delight |
 | `soliru` | hope | embodies confident expectation and positive feeling about possibilities |
@@ -1188,7 +1187,6 @@
 | `thuleni` | comfort | Responding to others' distress |
 | `thuo` | prosper | Abundant flourishing |
 | `thurai` | vibrant | lively energy apparent in a manner or shared activity |
-| `towe` | well | Wellness |
 | `wakomi` | surprise | The felt jolt of the unexpected |
 | `waora` | wondrous | The lift of exceeded expectation |
 | `warosha` | reconcile | Processing hurt toward restoration |
@@ -1222,7 +1220,7 @@
 | `welao` | good | the broad favourable term when conduct or its effects are being weighed |
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 
-## nature (224)
+## nature (226)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1266,7 +1264,7 @@
 | `lewonu` | valley | Low land between heights |
 | `likori` | species | a source-defined grouping of living organisms |
 | `liloni` | population | organisms of a stated biological category within a selected scope |
-| `lima` | alive | Having life |
+| `lima` | alive | the living condition shared by organisms |
 | `limoe` | creature | Any living animate being |
 | `linua` | fiber | Raw material |
 | `lioru` | life | Animating force |
@@ -1277,7 +1275,7 @@
 | `lohau` | dog | The companion animal |
 | `lopia` | child | unfolds inherent potential through organic growth |
 | `loremi` | branch | The tree's reaching limb |
-| `lori` | vital | Life essence |
+| `lori` | vital | conditions and relations on which living systems depend |
 | `loriphi` | rainbow | Optical atmospheric phenomenon |
 | `lorua` | abundant | Plentiful supply |
 | `lorui` | afternoon | Mellowing hours |
@@ -1373,6 +1371,7 @@
 | `ruloi` | flourish | Vigorous, abundant growth |
 | `runae` | resin | Tree secretion |
 | `selu` | flow | embodies natural phenomena of water currents and organic movement patterns |
+| `seroli` | mature | developmental maturity in organisms and crops |
 | `sewaro` | transmit | movement of an infectious agent through a biological pathway |
 | `shaemu` | organic | Life-derived quality |
 | `shalu` | fish | Aquatic life |
@@ -1450,6 +1449,7 @@
 | `woeli` | natural | Of the living world |
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
+| `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 
 ## physical (349)
 
@@ -1496,7 +1496,7 @@
 | `kipona` | pain | The body's sharp signal |
 | `kirato` | lock | a device released by a matching key or method |
 | `kirowi` | signal | a signal requires a detectable material or symbolic form |
-| `kishu` | thirsty | The dry throat's need |
+| `kishu` | thirsty | the need for water or another drink as felt in the body |
 | `kiwate` | bite | Teeth closing on |
 | `koewi` | input | matter or energy crossing into a selected system |
 | `kohura` | noise | sound heard as irregular, indistinct, or interfering in context |
@@ -1510,7 +1510,7 @@
 | `korua` | heart | the pumping organ of blood circulation |
 | `kulai` | tooth | Hard structures for processing food |
 | `kumoe` | stomach | Digestive organ of transformation |
-| `kumoli` | hungry | The belly's asking |
+| `kumoli` | hungry | the body's present need for food |
 | `kunoa` | knee | Central leg joint enabling bending |
 | `kurathi` | dry | little liquid present on a surface or within a material |
 | `kuremi` | grind | Reduction between surfaces |
@@ -1522,8 +1522,8 @@
 | `lawe` | left | Side of the body |
 | `lemi` | thin | little material thickness or sparse substance |
 | `lepa` | fall | Downward motion under gravity |
-| `lima` | alive | Animate state |
-| `limu` | young | Not yet mature |
+| `lima` | alive | the bodily distinction between being alive and having died |
+| `limu` | young | early bodily or organismal development |
 | `liona` | live | State of biological aliveness |
 | `lirupa` | bag | a soft-sided holder that changes shape around its contents |
 | `loa` | give | transferring objects between people |
@@ -1531,7 +1531,7 @@
 | `lomura` | liver | The inner anatomy's quiet worker |
 | `lophani` | bottle | a portable holder for liquid |
 | `loremi` | branch | Living structure that holds and sways |
-| `lori` | vital | Essential quality |
+| `lori` | vital | vigorous energy expressed by a living body |
 | `lorika` | blood | The fluid circulating through the body |
 | `losha` | wide | large width across an opening or a span of land or water |
 | `lumera` | nourish | Sustaining life through giving |
@@ -1557,7 +1557,7 @@
 | `mirulo` | berry | Fruit at its smallest |
 | `moesha` | still | absence of movement at the relevant bodily or material scale |
 | `mokanu` | disease | a pattern or process affecting bodily health or function |
-| `mokela` | sick | The body out of accord |
+| `mokela` | sick | illness experienced as a bodily or whole-person state |
 | `mokura` | belly | Central body region of digestion and feeling |
 | `moli` | gentle | contact or movement kept low in force for its situation |
 | `molu` | container | Holding space |
@@ -1592,7 +1592,7 @@
 | `nepha` | medicine | Restoration |
 | `nephoru` | treat | an action directed toward bodily or health change |
 | `neri` | cool | temperature below warm but milder than cold |
-| `newai` | fresh | Not depleted |
+| `newai` | fresh | retention of an expected recent quality before spoilage or fading |
 | `nila` | see | perception through sight |
 | `nira` | cord | Flexible connection |
 | `nolue` | neck | Connecting passage between head and body |
@@ -1693,7 +1693,7 @@
 | `sekaru` | transfer | movement of matter or energy between components or systems |
 | `selawi` | slippery | contact that permits comparatively easy sliding between surfaces |
 | `seluto` | pour | a controlled flow across the lip of a vessel |
-| `seroli` | mature | Ripened state |
+| `seroli` | mature | ripeness or full bodily development |
 | `sewaro` | transmit | passage between hosts, reservoirs, or environments |
 | `shalu` | fish | Water-dwelling creatures |
 | `shalumi` | salmon | Silver-bodied swimmer of clean waters |
@@ -1706,7 +1706,7 @@
 | `shonuwa` | sound | an acoustic event or the medium available to hearing |
 | `shorenu` | immune | partial or conditional bodily protection |
 | `shoru` | dull | an edge or point that no longer cuts or pierces readily |
-| `shorui` | weary | Depleted energy |
+| `shorui` | weary | bodily depletion after effort, wakefulness, strain, or illness |
 | `shorupo` | protect | Creating safety through presence |
 | `shumeko` | sticky | a material or surface that adheres on contact and resists easy separation |
 | `shuneki` | vaccinate | an intervention intended to induce bodily protection |
@@ -1758,7 +1758,7 @@
 | `tiwa` | tie | Made fast against slipping |
 | `toka` | hammer | Shaping force |
 | `tolae` | leg | Lower limbs for support and locomotion |
-| `towe` | well | Good state |
+| `towe` | well | a present report that one's bodily condition is good |
 | `tukelu` | recycle | a material process with inputs, outputs, losses, and changed properties |
 | `tuko` | sour | gustatory acidity such as citrus or vinegar |
 | `tulira` | tail | Anatomy past the body |
@@ -1801,7 +1801,7 @@
 | `wiralu` | runoff | a mobile body of surface water that may carry material |
 | `wirua` | wet | liquid coating a surface or absorbed into a material |
 | `wishe` | swim | Motion through water |
-| `wolu` | healthy | Good condition |
+| `wolu` | healthy | a living body's health in the context relevant to that body |
 | `wonepa` | table | The social flat of the house |
 | `wuloe` | soft | a yielding texture or contact that cushions pressure |
 
@@ -2065,7 +2065,7 @@
 | `laeno` | long | a duration that continues for a substantial interval |
 | `laniru` | journey | Extended movement through time |
 | `liloni` | population | a living group described for a stated time or period |
-| `limu` | young | Early in life |
+| `limu` | young | a position near the beginning of a life or developmental course |
 | `lioru` | life | Living duration |
 | `lirowa` | leaf | Seasonal cycle marker |
 | `lopia` | child | embodies process of becoming and living future |
@@ -2098,8 +2098,8 @@
 | `murethi` | impairment | a function that may be temporary, lasting, or variable |
 | `nelore` | preserve | Maintaining across time |
 | `neparu` | cloud | Symbol of impermanence |
-| `newai` | fresh | Recently made or harvested |
-| `newu` | new | recent arising in time |
+| `newai` | fresh | recent making, gathering, arrival, or exposure |
+| `newu` | new | recent arrival, acquisition, introduction, or beginning |
 | `noa` | position | Marks place within sequences and cycles |
 | `nomi` | present | This moment |
 | `noraku` | blocked | a potentially temporary stoppage |
@@ -2139,8 +2139,8 @@
 | `sanowu` | predictable | advance knowability of timing or sequence |
 | `selu` | flow | transforms time experience into rhythmic continuous phenomena |
 | `seluwhe` | outage | a bounded period of unavailability or interruption |
-| `serao` | old | extended duration in time |
-| `seroli` | mature | Fully developed |
+| `serao` | old | long duration judged within the context at hand |
+| `seroli` | mature | a stage reached after sufficient development |
 | `seru` | commit | Pledge moment |
 | `sethoni` | handoff | movement from one stage or custodian to the next |
 | `sheli` | impatient | difficulty allowing waiting to continue |
@@ -2179,7 +2179,7 @@
 | `thinoe` | seed | the present form of future growth |
 | `thiranu` | maintain | Ongoing attention across time |
 | `thole` | practice | Repeated action |
-| `tholua` | ancient | From deep past |
+| `tholua` | ancient | existence or origin in a past far beyond ordinary age |
 | `thophe` | sow | Beginning cycles of cultivation |
 | `thorea` | ceremony | marks transitions and milestones in communal time |
 | `thorui` | beginning | Origin point |
@@ -2205,7 +2205,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (143)
+## wisdom (141)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2291,7 +2291,6 @@
 | `sano` | know | accumulated knowledge and experiential understanding |
 | `seloi` | insightful | depth of understanding kept distinct from certainty or authority |
 | `selomi` | weave | Understanding interconnection through making |
-| `serao` | old | accumulated experience and endurance |
 | `sharino` | conscience | moral self-appraisal that remains open to examination and correction |
 | `shemu` | moment | Present experience |
 | `shimalo` | discipline | aligns actions with deeper intentions through skillful training |
@@ -2332,7 +2331,6 @@
 | `thinu` | put | mindful intention in determining proper placement |
 | `thoepa` | sacred | Ultimate meaning |
 | `tholu` | space | Enabling emptiness |
-| `tholua` | ancient | Time-tested quality |
 | `thorui` | beginning | Fresh start |
 | `thumela` | teach | awakening understanding and nurturing growth |
 | `thuni` | intuitive | immediate judgement that may draw on experience and still remains open to checking |

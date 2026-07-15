@@ -33,7 +33,8 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Affective response, anticipation, and resolve | **DONE** | Ten inherited adjectives now use the target prose contract, with `wipha` (restless) as an already-migrated anchor. Sustained interest or engagement remains a lexical review question. |
 | Semantic-domain contract and target-entry audit | **DONE** | [PR #368](https://github.com/dcellison/phi/pull/368) establishes the fifteen-domain browse catalogue and checks all 133 target-contract content entries against its retrieval rule. |
 | Social relation, standing, and personal boundaries | **DONE** | Eleven inherited base adjectives now use the target prose contract. Public status and betrayal remain deliberate compositions because their ordinary English senses divide across different Phi relations. |
-| Resume inherited content prose migration | **NEXT** | Continue after social relation, standing, and personal boundaries. Each semantic group passes through this coverage gate. |
+| Life, age, and bodily condition | **DONE** | Fourteen inherited base adjectives now use the target prose contract. The scan keeps living state, age, health, illness, bodily need, and fatigue apart without adding a root. |
+| Resume inherited content prose migration | **NEXT** | Continue after life, age, and bodily condition. Each semantic group passes through this coverage gate. |
 
 ## Batch overview
 
@@ -52,6 +53,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Core emotion inventory | [PR #369](https://github.com/dcellison/phi/pull/369) | **COVERED** | Canon now separates the core feeling lesson from wider affective vocabulary. Each registered expression keeps its settled form; complexity alone does not decide whether a direct root belongs. |
 | Affective response, anticipation, and resolve | [PR #371](https://github.com/dcellison/phi/pull/371) | **REVIEW** | Existing words keep the main distinctions apart. Repeated corpus paraphrases show that sustained interest or engagement needs its own connected-use test. |
 | Social relation, standing, and personal boundaries | [PR #372](https://github.com/dcellison/phi/pull/372) | **COVERED** | Company, reciprocity, equal standing, self-presentation, agency, privacy, and interpersonal warmth remain distinct. No new root follows from the coverage pass. |
+| Life, age, and bodily condition | PR pending | **COVERED** | The life arc, newness, present wellness, classified illness, hunger, thirst, and weariness remain distinct. Phi already has settled or natural constructions for dead, newborn, satiated, exhausted, and sleepy. |
 
 ## Semantic batches and stable domains
 
@@ -74,6 +76,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Core emotion inventory | `emotion`, `community`, `physical`, `temporal`, `aesthetic` | A feeling, its bodily response, a social condition, willingness through time, and perceivable composure remain separate routes. |
 | Affective response, anticipation, and resolve | `emotion`, `activity`, `temporal`, `cognition`, `community`, `physical` | A felt response, readiness to act, bodily arousal, and a judgement about reconsideration remain distinct. |
 | Social relation, standing, and personal boundaries | `activity`, `communication`, `community`, `emotion`, `ethics`, `physical`, `quantity`, `spatial`, `wisdom` | Shared action, reciprocal relation, equal measure, personal agency, access, and displayed manner remain separate claims. |
+| Life, age, and bodily condition | `nature`, `physical`, `temporal`, `creation`, `cognition`, `community` | Living state, developmental stage, recency, health, self-report, and reduced capacity remain separate claims. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -348,6 +351,30 @@ This batch gathers eleven base adjectives used when people act together, judge s
 
 The eleven inherited adjectives now use the target prose contract. No root is added. Public status stays compositional because its common senses divide among access, collective concern, and outward visibility. The same decision fits betrayal: naming the trust, commitment, or confidence that failed says what happened.
 
+## Life, age, and bodily condition
+
+Fourteen base adjectives sit across the life arc and the body's ordinary reports. The age words describe development and duration without assigning worth. Health stays separate from a person's present account, while hunger, thirst, and weariness say what the body needs before anyone explains why.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Living state, life, and living | `lima` (alive), `lioru` (life), `liona` (live), and `limoe` (creature) | **COVERED** | The adjective states that an organism is alive, the noun names life, the verb presents living or dwelling as an activity, and the creature noun identifies a living being. Consciousness and health remain separate questions. |
+| Birth, death, dying, and the dead | `thowia` (born), `lumeo` (die), event nouns from both verbs, and canonical `rena to lumeo` (the one who died) | **SETTLED** | Phi names birth and death directly. Canon refuses a softened death synonym, and the relative expression already identifies someone who has died without a separate dead adjective. |
+| Vitality, necessity, and energy | `lori` (vital), `noetha` (essential), and `kenua` (energy) | **COVERED** | Vitality keeps continued life in view. General necessity and capacity for action have their own words. |
+| Young, mature, old, and ancient | `limu` (young), `seroli` (mature), `serao` (old), and `tholua` (ancient) | **COVERED** | The sequence separates early development, full development, contextual age, and deep time. Wisdom, weakness, and rank require their own claims. |
+| Child, youth, adult, elder, and sage | `lopia` (child), `helia` (youth), `pharea` (adult), `wheo` (elder), and `phewo` (sage) | **COVERED** | Life-stage and recognised community roles remain nouns. The age adjectives can describe the person without turning a stage into a title. |
+| Chronological age and generations | `torua` (year), `phelu` (hold), `wia` (how many), and `noruwa` (generation) | **COMPOSITIONAL** | A person holds years when an age count matters. Generation names the relation between successive lives without asking an adjective to carry an exact number. |
+| Newness, freshness, and youth | `newu` (new), `newai` (fresh), and `limu` (young) | **COVERED** | Newness is recent creation, arrival, or introduction. Freshness says a recent expected condition remains, while youth concerns development. |
+| Newborns and finer age bands | `newai` (fresh), `thowia` (born), life-stage nouns, and ordinary relative clauses | **COMPOSITIONAL** | A newly born child can be described directly. The broader stages express infant, adolescent, or middle-aged categories without forcing a detailed age taxonomy into base vocabulary. |
+| Health, healthy condition, and being well | `sunai` (health), `wolu` (healthy), and `towe` (well) | **COVERED** | Health is the condition, healthy describes what has it, and well reports an overall state in the frame at hand. A person with an ongoing condition can still report being well today. |
+| Sickness, disease, symptoms, and disability | `mokela` (sick), Medical `mokanu` (disease), `phamori` (symptom), and `sowelu` (disabled) | **COVERED** | Sickness is available as self-report before a diagnosis. Disease is a sourced classification, a symptom is an experienced or observed sign, and disability remains a separate relation between body and access. |
+| Healing and recovery | `theala` (heal), Medical `helanu` (recover), `therilu` (rest), and the state being sought | **COVERED** | Healing names repair in health, while recovery moves towards a condition the person and situation define. Rest may support either process without promising its outcome. |
+| Hunger, thirst, food, and water | `kumoli` (hungry), `kishu` (thirsty), `nuora` (food), `nuola` (eat), `phialu` (water), and `milau` (drink) | **COVERED** | The two bodily states keep food and fluid needs apart, and each has ordinary words for what answers it. Supply and scarcity remain separate facts. |
+| Satiation and hydration | Negated `kumoli` or `kishu`, `pheno` (full) where contents are meant, and clauses about eating or drinking | **COMPOSITIONAL** | Phi can say that the need has ended or that a person has eaten or drunk enough. The clause preserves whether food, water, or another change ended the need. |
+| Weariness, rest, sleep, and laziness | `shorui` (weary), `therilu` (rest), `nulae` (sleep), `kenua` (energy), and `wesha` (lazy) | **COVERED** | Weariness reports depleted capacity. Rest is a restorative pause, sleep is a cyclic state, and laziness is a separate judgement about a pattern of avoiding effort. |
+| Exhaustion and sleepiness | Degree-marked `shorui`, available energy, and a wish or need to `nulae` (sleep) | **COMPOSITIONAL** | Intense weariness supplies exhaustion. Sleepiness adds the direction towards sleep, which a short clause can state without losing the bodily condition. |
+
+No root is added. A person who has died remains `rena to lumeo`, and finer life stages use the stage and event already meant. Hunger, thirst, exhaustion, and sleepiness likewise keep the bodily need visible instead of replacing it with a broader label.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -388,4 +415,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete, and the inherited content prose migration has now reached the end of social relation, standing, and personal boundaries. The next semantic neighbourhood starts from here with the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete, and the inherited content prose migration has now reached the end of life, age, and bodily condition. The next semantic neighbourhood starts from here with the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.

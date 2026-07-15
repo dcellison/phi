@@ -8,16 +8,24 @@
     "li"
   ],
   "pos": "adjective",
-  "concept": "Hungry / The Hollow Asking / In Need of Food",
-  "description": "Hungry: the belly's emptiness announcing itself. With 'nuora' (food) and 'nuola' (eat) it completes eating's little grammar: state, object, act. Also, quietly, one of the most important words a peace language can have — most conflict history is hunger history.",
-  "sound_symbolism": "Hollow 'ku', grounded 'mo', and 'li' the thin asking sound — emptiness that speaks up.",
-  "grammatical_notes": "Predicative: 'mia kumoli nai.' (I am hungry.) The host's question: 'wa thia kumoli nai.' (Are you hungry?) With the answer: 'no nuola.' (Eat.)",
+  "search_terms": [
+    "hunger",
+    "needing food"
+  ],
+  "description": "The bodily need for food is 'kumoli', felt as an empty belly or weakness after too little food. A person can report the state without explaining its cause or degree. 'nuora' (food) and 'nuola' (eat) give the ordinary response; scarcity in a household or region is described through the available supply and the people affected.",
+  "articulatory_notes": "Raise the back of the tongue to the soft palate for unvoiced 'k' and release into high-back rounded 'u'. Close the lips for voiced nasal 'm', carry the voice through the nose, and open into stressed true-mid back rounded 'o'. Touch the tongue tip to the alveolar ridge for lateral 'l', let air pass along the sides, then raise the front of the tongue for high-front unrounded 'i'.",
+  "sound_symbolism": "'kumoli' begins with two rounded back vowels and closes on unrounded 'i'. Only in the final syllable does the tongue rise towards the hard palate. This gives hunger's bodily request a useful inward contour.",
+  "usage_notes": "'kumoli' predicates with 'nai', and its quality noun supplies hunger. 'ru kumoli' intensifies the state when very hungry is the intended claim.",
+  "examples": [
+    {
+      "phi": "mia kumoli nai.",
+      "translation": "I am hungry."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Feeding the hungry begins with hearing them; the plain adjective is the first sentence of every food-sharing culture.",
-    "pre-industrial-wisdom": "The year was planned around the hungry months; the word carried the calendar's most serious information."
+    "peace-linguistics-practices": "'mia kumoli nai' places bodily need before any judgement about why the speaker needs food."
   },
   "semantic_domains": {
-    "community": "What the shared table answers",
-    "physical": "The belly's asking"
+    "physical": "the body's present need for food"
   }
 }

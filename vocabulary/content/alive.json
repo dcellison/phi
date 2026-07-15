@@ -7,16 +7,21 @@
     "ma"
   ],
   "pos": "adjective",
-  "concept": "Alive / Living / Having Life",
-  "description": "Having life; not dead or inanimate. 'Lima' names the fundamental quality of living beings—the spark that animates, the breath that continues, the presence that distinguishes the quick from the still.",
-  "sound_symbolism": "The word breathes with life. 'Li' begins with liquid aliveness, life flowing. Then 'ma' grounds in embodiment, life made flesh.",
-  "grammatical_notes": "Functions as an adjective: 'lima phireo' (alive plant). Fundamental to discussions of life, death, and vitality. Related to 'limoe' (creature) through shared root.",
-  "pillars": {
-    "secular-buddhist-philosophy": "All that is alive shares the quality of sentience—'lima' names this common ground of living beings.",
-    "pre-industrial-wisdom": "Traditional cultures recognized aliveness as sacred—the animating force that demands respect in all its forms."
-  },
+  "search_terms": [
+    "living",
+    "animate"
+  ],
+  "description": "An organism is 'lima' while it has life, whether it is a person, animal, plant, or fungus. The word settles the living condition but does not decide consciousness, health, or moral standing. 'lioru' (life) names the condition, while 'liona' (live) presents living as an activity or way of dwelling. A person who has died is 'rena to lumeo' (the one who died).",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l' and let air pass along its sides into stressed high-front unrounded 'i'. Close the lips for voiced nasal 'm', carry the voice through the nose, then open into central 'a'.",
+  "sound_symbolism": "The shared 'li' opening links 'lima' with 'liona' (live) and 'lioru' (life) inside Phi. Air leaves around the sides of the tongue and continues until the lips close for 'm', a smooth motion that helps the family stay in memory.",
+  "examples": [
+    {
+      "phi": "ha shiro lima nai.",
+      "translation": "This tree is alive."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Having life",
-    "physical": "Animate state"
+    "nature": "the living condition shared by organisms",
+    "physical": "the bodily distinction between being alive and having died"
   }
 }
