@@ -17,8 +17,8 @@
     "peace-linguistics-practices": "The word keeps a denied claim audible when an institution rejects it; recognition and enforcement remain facts a speaker can state separately."
   },
   "semantic_domains": {
-    "community": "a normative claim held among people, groups, or institutions",
-    "dialogue": "a claim whose source and fulfillment can be examined"
+    "communication": "a claim whose source and fulfillment can be examined",
+    "community": "a normative claim held among people, groups, or institutions"
   },
   "modules": [
     "commons-and-collective-governance",

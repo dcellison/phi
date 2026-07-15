@@ -17,8 +17,8 @@
     "peace-linguistics-practices": "Naming the format makes it possible to ask whether communication reached someone in a form they could use."
   },
   "semantic_domains": {
+    "communication": "a communication form selected for sending and receiving meaning",
     "creation": "the shaped presentation of content",
-    "dialogue": "a communication form selected for sending and receiving meaning",
     "physical": "a sensory form such as audible, visual, or tactile presentation"
   },
   "modules": [

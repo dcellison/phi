@@ -23,6 +23,7 @@
   ],
   "semantic_domains": {
     "physical": "a vessel or form filled to relevant capacity or rounded by its contents",
+    "quantity": "contents reaching the capacity relevant to the present comparison",
     "spatial": "the degree to which contents occupy a bounded space"
   }
 }

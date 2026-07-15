@@ -17,8 +17,8 @@
     "peace-linguistics-practices": "Captions let speech remain available when hearing it is not, and they expose whether laughter, alarms, or speaker identity carried meaning that words alone missed."
   },
   "semantic_domains": {
+    "communication": "speech and meaningful sound presented in a readable form",
     "creation": "timed readable text made for a sounding event",
-    "dialogue": "speech and meaningful sound presented in a readable form",
     "temporal": "text synchronized with a live or recorded event"
   },
   "modules": [

@@ -173,18 +173,20 @@
       "propertyNames": {
         "enum": [
           "nature",
-          "community",
-          "wisdom",
-          "creation",
-          "dialogue",
-          "temporal",
-          "aesthetic",
-          "emotion",
           "physical",
-          "ritual",
-          "cognition",
           "spatial",
-          "activity"
+          "temporal",
+          "quantity",
+          "activity",
+          "creation",
+          "cognition",
+          "wisdom",
+          "emotion",
+          "communication",
+          "community",
+          "ethics",
+          "aesthetic",
+          "ritual"
         ]
       },
       "additionalProperties": {
@@ -192,7 +194,7 @@
         "minLength": 1
       },
       "minProperties": 1,
-      "description": "Semantic domains with brief rationales explaining how this word relates to each domain."
+      "description": "Semantic browse routes with brief rationales explaining why a speaker would expect to find this word in each domain."
     },
     "modules": {
       "type": "array",

@@ -17,8 +17,8 @@
     "peace-linguistics-practices": "Separating proposal from decision and obligation preserves genuine deliberation and prevents a powerful speaker's suggestion from silently becoming a command."
   },
   "semantic_domains": {
-    "community": "presenting a collective action or rule for consideration",
-    "dialogue": "a proposal remains open to response, amendment, and refusal"
+    "communication": "a proposal remains open to response, amendment, and refusal",
+    "community": "presenting a collective action or rule for consideration"
   },
   "modules": [
     "commons-and-collective-governance"

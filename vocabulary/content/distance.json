@@ -27,6 +27,7 @@
     }
   ],
   "semantic_domains": {
+    "quantity": "a measurable separation between two spatial referents",
     "spatial": "separation between places, objects, or other spatial referents"
   }
 }

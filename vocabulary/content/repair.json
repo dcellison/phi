@@ -27,7 +27,6 @@
     "pre-industrial-wisdom": "A tool or household object once had to be understood well enough to fix. The verb 'shiroka' names that skilled return to function."
   },
   "semantic_domains": {
-    "creation": "technical restoration of a damaged object's function",
-    "wisdom": "the diagnosis and skilled work needed to make a device usable again"
+    "creation": "technical restoration of a damaged object's function"
   }
 }

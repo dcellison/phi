@@ -33,7 +33,8 @@
   },
   "semantic_domains": {
     "cognition": "careful thought that includes another person's needs or circumstances",
-    "dialogue": "consideration made visible in speech or response",
+    "communication": "consideration made visible in speech or response",
+    "ethics": "attention to another person's likely needs or experience before action",
     "wisdom": "reflection on likely effects before action"
   }
 }

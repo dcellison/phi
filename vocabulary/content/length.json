@@ -27,6 +27,7 @@
     }
   ],
   "semantic_domains": {
+    "quantity": "a dimension that can be compared or measured along a chosen course",
     "spatial": "end-to-end extent along an object, path, or chosen course"
   }
 }

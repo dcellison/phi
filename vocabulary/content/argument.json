@@ -18,7 +18,7 @@
   },
   "semantic_domains": {
     "cognition": "an organized relation of premises to a conclusion",
-    "dialogue": "a reasoning structure shared for examination",
+    "communication": "a reasoning structure shared for examination",
     "wisdom": "a form through which beliefs can be tested and revised"
   },
   "modules": [

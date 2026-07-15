@@ -16,8 +16,8 @@
     "solarpunk-values": "Participatory design and governance lie at the heart of solarpunk organizing - decisions made with those affected, not for them. This active engagement breaks the consumer mindset, transforming people from users to co-creators of their communities. Participation distributes both power and responsibility."
   },
   "semantic_domains": {
+    "communication": "engaging in collective processes and exchange",
     "community": "participation is inherently social and collective",
-    "creation": "actively contributing implies co-creation",
-    "dialogue": "engaging in collective processes and exchange"
+    "creation": "actively contributing implies co-creation"
   }
 }

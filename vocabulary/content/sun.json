@@ -27,7 +27,6 @@
     "pre-industrial-wisdom": "The registered east and west expressions use the sun's daily passage, while 'sileta' also remains available for seasonal observation."
   },
   "semantic_domains": {
-    "nature": "the particular star that gives Earth daylight",
-    "temporal": "an observable marker of days and seasons"
+    "nature": "the particular star that gives Earth daylight"
   }
 }

@@ -17,7 +17,7 @@
   },
   "semantic_domains": {
     "cognition": "forming a clinical conclusion from evidence and criteria",
-    "dialogue": "stating a potentially revisable health conclusion"
+    "communication": "stating a potentially revisable health conclusion"
   },
   "modules": [
     "medical-and-bodily-care"

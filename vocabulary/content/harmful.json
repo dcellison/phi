@@ -33,7 +33,7 @@
   },
   "semantic_domains": {
     "community": "effects that diminish another person's or a community's wellbeing",
-    "physical": "damage, pain, or reduced capacity caused under stated conditions",
-    "wisdom": "ethical assessment grounded in effects rather than personal condemnation"
+    "ethics": "damage, suffering, or lost capacity as grounds for evaluating conduct and conditions",
+    "physical": "damage, pain, or reduced capacity caused under stated conditions"
   }
 }

@@ -17,8 +17,8 @@
     "peace-linguistics-practices": "Separating notification from receipt and understanding prevents institutions from blaming excluded people merely because information was sent or posted."
   },
   "semantic_domains": {
-    "community": "formal notice directed to identified recipients",
-    "dialogue": "information offered without presuming receipt or understanding"
+    "communication": "information offered without presuming receipt or understanding",
+    "community": "formal notice directed to identified recipients"
   },
   "modules": [
     "accessibility-and-participation",

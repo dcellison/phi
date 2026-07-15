@@ -18,7 +18,7 @@
   },
   "semantic_domains": {
     "cognition": "logical incompatibility between claims under shared conditions",
-    "dialogue": "a precise conflict that clarification may confirm or dissolve"
+    "communication": "a precise conflict that clarification may confirm or dissolve"
   },
   "modules": [
     "philosophical-reasoning"

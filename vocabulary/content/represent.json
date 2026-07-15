@@ -17,8 +17,8 @@
     "peace-linguistics-practices": "The word requires speakers to distinguish speaking with someone from speaking for them and to preserve refusal, correction, and limits on proxy power."
   },
   "semantic_domains": {
-    "community": "acting or communicating on behalf of a stated party",
-    "dialogue": "carrying another party's position under stated scope and authorization"
+    "communication": "carrying another party's position under stated scope and authorization",
+    "community": "acting or communicating on behalf of a stated party"
   },
   "modules": [
     "accessibility-and-participation",

@@ -18,7 +18,7 @@
   },
   "semantic_domains": {
     "cognition": "a detectable variation interpreted as carrying information",
-    "dialogue": "a technical communication relation that does not guarantee shared meaning",
+    "communication": "a technical communication relation that does not guarantee shared meaning",
     "physical": "a signal requires a detectable material or symbolic form"
   },
   "modules": [

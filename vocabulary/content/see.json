@@ -21,7 +21,6 @@
   ],
   "semantic_domains": {
     "cognition": "visual information entering awareness",
-    "physical": "perception through sight",
-    "spatial": "visual location and relation among things in view"
+    "physical": "perception through sight"
   }
 }

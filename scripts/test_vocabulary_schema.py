@@ -87,6 +87,35 @@ class VocabularySchemaTests(unittest.TestCase):
         del entry["semantic_domains"]
         self.assert_invalid(entry, "semantic_domains")
 
+    def test_semantic_domain_identifiers_match_the_catalogue(self):
+        expected = {
+            "activity",
+            "aesthetic",
+            "cognition",
+            "communication",
+            "community",
+            "creation",
+            "emotion",
+            "ethics",
+            "nature",
+            "physical",
+            "quantity",
+            "ritual",
+            "spatial",
+            "temporal",
+            "wisdom",
+        }
+        domain_schema = validate_examples.VOCABULARY_SCHEMA["properties"][
+            "semantic_domains"
+        ]
+        actual = set(domain_schema["propertyNames"]["enum"])
+        self.assertEqual(actual, expected)
+
+    def test_retired_dialogue_domain_is_rejected(self):
+        entry = copy.deepcopy(self.by_word["sileta"])
+        entry["semantic_domains"] = {"dialogue": "retired identifier"}
+        self.assert_invalid(entry, "semantic_domains")
+
     def test_retired_tags_field_is_rejected(self):
         entry = copy.deepcopy(self.by_word["sileta"])
         entry["tags"] = entry["semantic_domains"]

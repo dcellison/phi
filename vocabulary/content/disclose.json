@@ -18,8 +18,8 @@
   },
   "semantic_domains": {
     "cognition": "movement of previously held knowledge",
-    "community": "changing who may know bounded information",
-    "dialogue": "making information known to a new recipient"
+    "communication": "making information known to a new recipient",
+    "community": "changing who may know bounded information"
   },
   "modules": [
     "accessibility-and-participation",

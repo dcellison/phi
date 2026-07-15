@@ -18,7 +18,7 @@
   },
   "semantic_domains": {
     "cognition": "understanding one expression well enough to convey its meaning",
-    "dialogue": "carrying meaning between languages or communication modes",
+    "communication": "carrying meaning between languages or communication modes",
     "ritual": "interpretation where exact communal or ceremonial wording matters"
   },
   "modules": [

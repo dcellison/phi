@@ -23,6 +23,7 @@
   ],
   "semantic_domains": {
     "physical": "overall size or amount considered against a contextual scale",
+    "quantity": "a large amount when the comparison concerns quantity rather than spatial extent",
     "spatial": "considerable extent without selecting a particular dimension"
   }
 }

@@ -26,7 +26,7 @@
     "secular-buddhist-philosophy": "The Heart Sutra rendering uses the quality noun 'whemoa' for emptiness while the ordinary image of an empty vessel remains audible; the sutra, not the adjective alone, carries the metaphysical argument."
   },
   "semantic_domains": {
-    "spatial": "a bounded container or place with no contents or occupants",
-    "wisdom": "the quality noun used in Phi philosophical texts when emptiness itself is examined"
+    "quantity": "no contents or occupants within the boundary being considered",
+    "spatial": "a bounded container or place with no contents or occupants"
   }
 }

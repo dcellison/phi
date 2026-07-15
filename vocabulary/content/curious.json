@@ -30,7 +30,6 @@
     "solarpunk-values": "Curiosity supports shared experiment, practical learning, and the willingness to ask how a familiar system might work differently. It does not predetermine the answer."
   },
   "semantic_domains": {
-    "cognition": "interest directed towards learning or examining what is not yet known",
-    "wisdom": "openness to inquiry without pretending that inquiry has already reached understanding"
+    "cognition": "interest directed towards learning or examining what is not yet known"
   }
 }

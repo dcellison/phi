@@ -17,7 +17,7 @@
   },
   "semantic_domains": {
     "cognition": "a specific decision whose understanding and conditions remain examinable",
-    "community": "a permission relation among affected participants",
-    "dialogue": "a freely given, withheld, or withdrawn answer to a proposal"
+    "communication": "a freely given, withheld, or withdrawn answer to a proposal",
+    "community": "a permission relation among affected participants"
   }
 }

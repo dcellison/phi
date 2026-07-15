@@ -17,8 +17,8 @@
     "pre-industrial-wisdom": "A scribe could hold words beyond the breath that carried them, but the written line still bore the scribe's hearing and choices."
   },
   "semantic_domains": {
+    "communication": "carrying spoken or signed expression into writing",
     "creation": "making a stable textual rendering of language",
-    "dialogue": "carrying spoken or signed expression into writing",
     "temporal": "preserving passing language for later use"
   },
   "modules": [

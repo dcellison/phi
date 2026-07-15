@@ -18,8 +18,8 @@
   },
   "semantic_domains": {
     "activity": "acting in support of a stated position or change",
-    "community": "support for a person's expressed interests or a shared cause",
-    "dialogue": "speaking publicly for a position without implied representation authority"
+    "communication": "speaking publicly for a position without implied representation authority",
+    "community": "support for a person's expressed interests or a shared cause"
   },
   "modules": [
     "accessibility-and-participation",

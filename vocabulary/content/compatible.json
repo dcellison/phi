@@ -18,8 +18,8 @@
   },
   "semantic_domains": {
     "activity": "components working together for a selected purpose",
-    "creation": "designed fit across an interface",
-    "dialogue": "communication formats that can be exchanged or rendered together"
+    "communication": "communication formats that can be exchanged or rendered together",
+    "creation": "designed fit across an interface"
   },
   "modules": [
     "accessibility-and-participation",
