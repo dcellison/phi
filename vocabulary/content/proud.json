@@ -7,16 +7,24 @@
     "ru"
   ],
   "pos": "adjective",
-  "concept": "Proud / Feeling Dignified Satisfaction / Self-Respecting",
-  "description": "Feeling deep pleasure or satisfaction in one's achievements or qualities; having appropriate self-respect. 'Thoru' names the quality of healthy pride—dignity without arrogance, satisfaction without superiority.",
-  "sound_symbolism": "The word stands with awareness. 'Tho' begins with dental breath, the conscious recognition of one's own worth. 'Ru' grounds with depth, dignity rooted rather than performed. Pride as self-aware standing, not arrogance.",
-  "grammatical_notes": "Functions as an adjective: 'thoru miona' (proud person). Phi pride is not arrogance—it is right relationship with one's worth and achievements.",
+  "search_terms": [
+    "dignified satisfaction",
+    "pride",
+    "self-respect"
+  ],
+  "description": "A child showing a chair they repaired may be 'thoru', and so may the person who taught them. The word covers pride as satisfaction or dignity connected to one's own or another's achievement, identity, work, or relationship. It can be quiet self-respect or shared pride as readily as public celebration. Pride can stand beside other people's worth; comparison and 'thiku nila' (seeing as small) are separate acts.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth and let unvoiced air pass for 'th', then draw the tongue back and round the lips for stressed true-mid 'o'. Make a tap or short trill at the alveolar ridge for 'r', raise the back of the tongue, and finish with rounded high-back 'u'.",
+  "sound_symbolism": "Breath passes the teeth into rounded 'o', then the brief tap lifts the word into a close rounded finish. The compact shape suits satisfaction held upright without needing a grand display.",
+  "examples": [
+    {
+      "phi": "mia thoru nai.",
+      "translation": "I am proud."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Healthy pride acknowledges genuine achievement without inflating self or diminishing others.",
-    "peace-linguistics-practices": "Proud communication expresses satisfaction without comparison—celebrating self without competing."
+    "peace-linguistics-practices": "Pride can be expressed without ranking anyone else below the speaker. The distinction keeps dignity available while contempt remains nameable as its own act."
   },
   "semantic_domains": {
-    "emotion": "Dignified satisfaction",
-    "wisdom": "Appropriate self-respect"
+    "emotion": "satisfaction or dignity connected to achievement, identity, or relationship"
   }
 }

@@ -8,16 +8,24 @@
     "e"
   ],
   "pos": "adjective",
-  "concept": "Content / Satisfied / At Peace with What Is",
-  "description": "In a state of peaceful happiness and satisfaction. 'Nuloe' names the quality of contentment—the heart at rest, satisfied with what is present.",
-  "sound_symbolism": "The word settles satisfied. 'Nu' grounds with quiet presence, needing nothing. 'Lo' flows with ease, desire released. Finally 'e' opens to acceptance, contentment complete.",
-  "grammatical_notes": "Functions as an adjective: 'nuloe korua' (content heart). Related to 'thiro' (serene) but emphasizes satisfaction with circumstances rather than inner calm.",
+  "search_terms": [
+    "contentment",
+    "satisfied"
+  ],
+  "description": "Enough has its own feeling. 'nuloe' is satisfied ease with present circumstances or with what one has. 'shea' (peace) may exist while needs remain unmet, and 'thiro' (serene) is composure that can be perceived; contentment concerns the person's own sense of sufficiency. It can accompany further work because finding the present enough does not require every change to stop.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and round the lips around high-back 'u'. Touch the tongue tip to the alveolar ridge for 'l' and let the voice pass along its sides into stressed rounded true-mid back 'o'. Release the rounding and move the tongue forward for true-mid unrounded 'e' in its own syllable across the 'o.e' hiatus.",
+  "sound_symbolism": "The word begins close and rounded, flows through the lateral into stressed 'o', then gently unrounds across the final hiatus. That gradual easing offers a bodily mnemonic for the moment when enough is honestly enough.",
+  "examples": [
+    {
+      "phi": "mia nuloe nai.",
+      "translation": "I am content."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Contentment (santutthi) arises from releasing craving—satisfaction with what is present rather than grasping for more.",
-    "pre-industrial-wisdom": "Content communities thrived—satisfaction with enough enabled sustainable living."
+    "solarpunk-values": "A sense of enough can support material sufficiency and shared abundance without turning deprivation into a virtue.",
+    "secular-buddhist-philosophy": "Contentment loosens the pull towards needless acquisition while leaving actual needs and compassionate action visible."
   },
   "semantic_domains": {
-    "emotion": "Peaceful satisfaction",
-    "wisdom": "Acceptance of enough"
+    "emotion": "satisfaction with present circumstances or sufficiency"
   }
 }

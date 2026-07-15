@@ -8,16 +8,25 @@
     "lu"
   ],
   "pos": "adjective",
-  "concept": "Peaceful / At Peace / Free from Conflict",
-  "description": "Free from disturbance, conflict, or agitation; characterized by peace. 'Phaelu' names the quality Phi seeks to embody—the state of being where harmony prevails, where violence has no purchase, where presence is undisturbed.",
-  "sound_symbolism": "The word breathes peace itself. 'Pha' /ɸa/ begins with soft breath, non-violent presence. The vowel hiatus 'a.e' opens spaciousness, room for all. Then 'lu' settles into liquid rest, peace embodied.",
-  "grammatical_notes": "Functions as an adjective: 'phaelu miona' (peaceful person). Core vocabulary for Phi's peace-centered philosophy. Can modify any noun to indicate its peaceful quality or state. The noun is 'shea' (peace); 'shena' (calm) names stillness of the moment and 'noalu' (tranquil) the deeper settled form — 'phaelu' is the abiding disposition toward peace.",
+  "search_terms": [
+    "harmonious",
+    "nonviolent",
+    "peaceable"
+  ],
+  "description": "A gathering can disagree and still be 'phaelu' when peace is its sustained disposition rather than a brief lack of agitation. The noun 'shea' is peace itself; 'shena' (calm) stays with the present moment, while 'noalu' (tranquil) describes quiet that has endured.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then open into central 'a'. Move the tongue forward for stressed true-mid unrounded 'e' in its own syllable across the 'a.e' hiatus. Touch the tongue tip to the alveolar ridge for 'l', let the voice pass along its sides, and finish with rounded high-back 'u'.",
+  "sound_symbolism": "The word begins on breath, opens across the vowel hiatus, and leaves its final airflow unblocked along the sides of the tongue. Its even course offers a felt contour with room for more than one voice.",
+  "examples": [
+    {
+      "phi": "howeli phaelu nai.",
+      "translation": "The evening is peaceful."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Inner peace (shanti) is both path and destination—the peaceful mind sees clearly and acts wisely.",
-    "peace-linguistics-practices": "Peacefulness is Phi's core quality—the language exists to cultivate and express this state of being."
+    "peace-linguistics-practices": "A peaceful exchange can contain disagreement while keeping coercion and humiliation out of its method. 'phaelu' describes that sustained orientation, not a promise that tension will never arise."
   },
   "semantic_domains": {
-    "emotion": "State of harmony",
-    "wisdom": "Core Phi quality"
+    "community": "a nonviolent and workable condition among people",
+    "emotion": "peacefulness held as a settled disposition"
   }
 }

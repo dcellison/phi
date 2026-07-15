@@ -7,16 +7,20 @@
     "shi"
   ],
   "pos": "adjective",
-  "concept": "Joyful / Full of Joy / Experiencing Deep Happiness",
-  "description": "Feeling, expressing, or causing great pleasure and happiness. 'Loshi' names the quality of deep gladness—not mere pleasure but the wholehearted experience of joy.",
-  "sound_symbolism": "The word radiates gladness. 'Lo' flows with ease, happiness moving. Then 'shi' /ʃi/ lifts with lightness, joy complete.",
-  "grammatical_notes": "Functions as an adjective: 'loshi philo' (joyful day). Where 'siora' names felt joy — the experiencer's own upwelling — 'loshi' names the joy-giving character of things: days, festivals, news that shine. Related to 'wiroa' (hopeful) but names present happiness rather than anticipated good.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Sympathetic joy (mudita) celebrates others' happiness—joy that multiplies through sharing.",
-    "art-nouveau-aesthetics": "Joyful art celebrates life's beauty—forms that express delight in existence."
-  },
+  "search_terms": [
+    "gladdening",
+    "joy-giving"
+  ],
+  "description": "A festival day or welcome message can be 'loshi': its character gives or expresses joy. 'siora' (joy) describes the person who feels the gladness; 'loshi' belongs to what awakens or carries it. A joyful occasion can therefore be named without claiming that everyone present feels the same.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and let the voice pass along its sides into stressed rounded true-mid back 'o'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh', direct air through the narrow channel, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The rounded opening moves through the lateral into a soft rush of air, then rises to the close front vowel. That short upward turn lends the word the lightness of an occasion that lifts the people within it.",
+  "examples": [
+    {
+      "phi": "ha philo loshi nai.",
+      "translation": "This day is joyful."
+    }
+  ],
   "semantic_domains": {
-    "emotion": "Deep happiness",
-    "wisdom": "Wholehearted gladness"
+    "emotion": "the character of something that awakens or expresses joy"
   }
 }

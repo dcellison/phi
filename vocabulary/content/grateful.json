@@ -7,16 +7,23 @@
     "mo"
   ],
   "pos": "adjective",
-  "concept": "Grateful / Feeling Thankfulness / Appreciating Gifts",
-  "description": "Feeling or showing appreciation for something done or received. 'Nemo' names the quality of thankfulness—the heart that recognizes and appreciates what has been given.",
-  "sound_symbolism": "The word receives with thanks. 'Ne' settles into presence, gift recognized. Then 'mo' grounds in appreciation, gratitude embodied.",
-  "grammatical_notes": "Functions as an adjective: 'nemo korua' (grateful heart). Central to Phi's practice of appreciation and recognition of interdependence; the verb neighbor is 'whaline' (thank).",
+  "search_terms": [
+    "gratitude",
+    "thankful"
+  ],
+  "description": "After timely help or an unexpected gift, a person may be 'nemo': they recognise the benefit or support and feel appreciation in response. The feeling may remain quiet. 'woraka' (appreciate) names recognition of value, while 'whaline' (thank) gives gratitude outward expression.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and move into stressed true-mid front 'e'. Close the lips for voiced nasal 'm', continue the voice through the nose, then draw the tongue back and round the lips for true-mid 'o'.",
+  "sound_symbolism": "The two nasal consonants keep the voice resonant while the vowels move from unrounded 'e' to rounded 'o'. The brief, balanced form can feel like receiving something and letting its weight settle.",
+  "examples": [
+    {
+      "phi": "mia nemo nai.",
+      "translation": "I am grateful."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Gratitude counters taking for granted—the practice of noticing and appreciating what supports our lives.",
-    "pre-industrial-wisdom": "Traditional cultures practiced gratitude ritually—thanksgiving for harvest, rain, and the gifts of existence."
+    "secular-buddhist-philosophy": "Gratitude turns attention towards the conditions and labour that support a life, which makes interdependence easier to notice in ordinary moments."
   },
   "semantic_domains": {
-    "emotion": "Thankfulness",
-    "wisdom": "Appreciating gifts"
+    "emotion": "appreciation felt in response to benefit or support"
   }
 }

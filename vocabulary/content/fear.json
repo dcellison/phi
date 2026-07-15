@@ -8,16 +8,27 @@
     "ma"
   ],
   "pos": "noun",
-  "concept": "Fear / Bodily Alarm / Tightening Before Danger",
-  "description": "Fear is the tightening that rises before danger, whether the danger is real or imagined. 'pukea' (danger) names what threatens; 'sukima' names the body's alarm in answer. The noun sits beside 'shaelo' (brave) and 'thomari' (courage), neither of which means much without it.",
-  "sound_symbolism": "'su' begins as a narrow stream behind the teeth, then draws the lips into dark, rounded 'u'. At the stressed center, the back of the tongue seals against the soft palate for 'k' and releases into bright 'i'. The lips meet for 'm' before the jaw opens into final 'a'; the word gathers its pressure in the middle and lets it go at the end.",
-  "grammatical_notes": "Noun with 'phaelo': 'mia sukima phaelo.' (I feel fear.) With source: 'lopia lue kurisha sukima phaelo.' (The child feels fear of the storm.) Negated for comfort: 'no ma sukima phaelo. mia ha nai.' (Don't be afraid. I am here.)",
+  "search_terms": [
+    "alarm",
+    "afraid",
+    "fright"
+  ],
+  "description": "When danger seems near, 'sukima' is the alarm felt in the body, whether the threat is present, remembered, or anticipated. 'pukea' (danger) names the threatening condition; 'sukima' names the feeling it raises. 'shaelo' (brave) and 'thomari' (courage) describe ways of meeting fear, not its absence.",
+  "articulatory_notes": "Raise the tongue blade near the alveolar ridge and direct unvoiced air through its central groove for 's', then round the lips around high-back 'u'. Close the back of the tongue against the soft palate for unvoiced 'k' and release it into stressed high-front unrounded 'i'. Close the lips for voiced nasal 'm', carry the voice through the nose, and finish with open central 'a'.",
+  "sound_symbolism": "The word narrows through sustained 's' into rounded 'u', then the stressed 'k' release interrupts the airflow before the final nasal opens into 'a'. In Phi, that pressure and release echo an alarm rising through the body and finding a way out.",
+  "usage_notes": "Use 'sukima' as the object of 'phaelo' (feel). A nearby phrase or clause may identify the source of fear without treating the feeling itself as proof that danger is present.",
+  "examples": [
+    {
+      "phi": "mia sukima phaelo.",
+      "translation": "I feel fear."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Naming fear makes it available to attention before bodily alarm turns into reflex.",
-    "peace-linguistics-practices": "A speaker can name fear before it hardens into a threat or accusation."
+    "secular-buddhist-philosophy": "Fear can be attended to as a present bodily and emotional event before it becomes a complete story about what will happen.",
+    "peace-linguistics-practices": "A speaker who can say 'sukima' can disclose alarm without turning it immediately into a threat or an accusation."
   },
   "semantic_domains": {
-    "emotion": "The body's alarm before danger",
-    "physical": "The tightening before danger"
+    "emotion": "alarm felt in response to perceived danger",
+    "physical": "the bodily tightening and arousal of fear"
   }
 }

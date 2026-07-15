@@ -8,16 +8,23 @@
     "o"
   ],
   "pos": "adjective",
-  "concept": "Patient / Willing to Wait / Enduring Without Complaint",
-  "description": "Able to accept or tolerate delays, problems, or suffering without becoming annoyed or anxious. 'Hurao' names the quality of peaceful waiting—endurance without agitation, acceptance of time's own pace.",
-  "sound_symbolism": "The word waits with ease. 'Hu' begins with holding breath, willingness to pause. Then 'ra' remains steady, continuing presence. Finally 'o' opens to acceptance, waiting without strain.",
-  "grammatical_notes": "Functions as an adjective: 'hurao shiro' (patient tree). Related to 'kolu' (steady) but emphasizes willingness to wait rather than constancy of state.",
+  "search_terms": [
+    "willing to wait"
+  ],
+  "description": "Someone who can wait through delay or difficulty without being driven into hurried action is 'hurao'. The word concerns willingness over time; 'kolu' (steady) concerns regularity, while 'shena' (calm) concerns present agitation. Patience may be uncomfortable, but the discomfort has not taken over the next act.",
+  "articulatory_notes": "Let unvoiced air pass through the open glottis for 'h', then raise the back of the tongue and round the lips for high-back 'u'. Make a tap or short trill at the alveolar ridge for 'r' and open into stressed central 'a'. Draw the tongue back and round the lips for true-mid 'o' in its own syllable across the 'a.o' hiatus.",
+  "sound_symbolism": "The word opens on breath, turns once at the alveolar tap, and then holds its final rounded vowel in a separate syllable. Its unbroken course suggests waiting without either freezing or rushing ahead.",
+  "examples": [
+    {
+      "phi": "shia hurao numea.",
+      "translation": "They wait patiently."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Patience (khanti) is a paramita—perfection developed through practice, accepting what arises without reactivity.",
-    "pre-industrial-wisdom": "Patience was essential to traditional life—waiting for seasons, for growth, for processes that cannot be rushed."
+    "secular-buddhist-philosophy": "Patience keeps discomfort from deciding the next act by itself. Waiting becomes an attentive choice rather than a denial that difficulty is present."
   },
   "semantic_domains": {
-    "emotion": "Accepting delay",
-    "wisdom": "Enduring quality"
+    "emotion": "willing endurance without being driven by agitation",
+    "temporal": "a disposition towards delay and processes that take time"
   }
 }

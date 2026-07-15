@@ -8,16 +8,30 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Shame / Feeling Small Before Others / The Inward Fold",
-  "description": "Shame: the feeling of being seen wrongly, or seen truly in a moment one wishes were hidden. Named without judgment — shame felt is human; shame unspeakable curdles. Its healers are 'phamo' (console) and 'thekao' (acknowledge); its cousin 'thiku nila' (seeing-as-small) names shame inflicted from outside.",
-  "sound_symbolism": "'nu' folds inward, 'pi' is the smallness felt, 'ra' the open exposure that caused it — the whole event, inside to outside.",
-  "grammatical_notes": "Noun with 'phaelo': 'mia nupira phaelo.' (I feel shame.) Released: 'shia nupira to leiro.' (They released the shame.)",
+  "search_terms": [
+    "humiliation",
+    "self-reproach"
+  ],
+  "description": "Exposure can hurt even when no one else speaks. 'nupira' is the self-conscious pain of being rejected or diminished in one's own eyes or in the eyes of others. It may accompany responsibility for an act, but it can also grow from mistaken or imposed condemnation. 'thiku nila' (seeing as small) is contempt directed at someone; 'nupira' is the feeling carried by the person who experiences shame.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and round the lips around high-back 'u'. Close the lips for unvoiced 'p' and release into stressed high-front unrounded 'i'. Make a tap or short trill at the alveolar ridge for 'r', then finish with open central 'a'.",
+  "sound_symbolism": "The rounded nasal opening draws close, the lips close completely at the stressed centre, and the final tap releases into open 'a'. In Phi, that movement may echo the pull between wanting to withdraw and feeling exposed.",
+  "usage_notes": "'nupira' takes 'phaelo' (feel) as other feeling nouns do. A person may also release it with 'leiro' (release); neither construction decides whether the judgement that prompted the shame was fair.",
+  "examples": [
+    {
+      "phi": "mia nupira phaelo.",
+      "translation": "I feel shame."
+    },
+    {
+      "phi": "shia nupira to leiro.",
+      "translation": "They released the shame."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Shame observed with compassion dissolves; shame hidden compounds. The word exists to give the observing somewhere to stand.",
-    "peace-linguistics-practices": "Communities that can speak shame can repair without humiliation — the named feeling is the alternative to the defended one."
+    "secular-buddhist-philosophy": "Shame can be observed with compassion as a changing experience rather than accepted as a fixed identity.",
+    "peace-linguistics-practices": "Repair can pass through shame without using humiliation as its method. Naming the feeling leaves conduct, effect, and amends available for separate speech."
   },
   "semantic_domains": {
-    "community": "What honest repair must pass through",
-    "emotion": "The inward fold of being seen"
+    "community": "self-conscious pain shaped by exposure or social judgement",
+    "emotion": "the painful feeling of being diminished or exposed"
   }
 }
