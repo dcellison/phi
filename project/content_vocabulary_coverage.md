@@ -53,7 +53,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Core emotion inventory | [PR #369](https://github.com/dcellison/phi/pull/369) | **COVERED** | Canon now separates the core feeling lesson from wider affective vocabulary. Each registered expression keeps its settled form; complexity alone does not decide whether a direct root belongs. |
 | Affective response, anticipation, and resolve | [PR #371](https://github.com/dcellison/phi/pull/371) | **REVIEW** | Existing words keep the main distinctions apart. Repeated corpus paraphrases show that sustained interest or engagement needs its own connected-use test. |
 | Social relation, standing, and personal boundaries | [PR #372](https://github.com/dcellison/phi/pull/372) | **COVERED** | Company, reciprocity, equal standing, self-presentation, agency, privacy, and interpersonal warmth remain distinct. No new root follows from the coverage pass. |
-| Life, age, and bodily condition | PR pending | **COVERED** | The life arc, newness, present wellness, classified illness, hunger, thirst, and weariness remain distinct. Phi already has settled or natural constructions for dead, newborn, satiated, exhausted, and sleepy. |
+| Life, age, and bodily condition | [PR #373](https://github.com/dcellison/phi/pull/373) | **COVERED** | The life arc, newness, present wellness, classified illness, hunger, thirst, and weariness remain distinct. Phi already has settled or natural constructions for dead, newborn, satiated, exhausted, and sleepy. |
 
 ## Semantic batches and stable domains
 
