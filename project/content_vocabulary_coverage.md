@@ -32,7 +32,8 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Core emotion inventory | **DONE** | The fifteen remaining legacy entries in canon's core teaching inventory now use the target prose contract. Canon distinguishes that lesson set from the wider affective lexicon and treats each registered expression as its own lexical choice. |
 | Affective response, anticipation, and resolve | **DONE** | Ten inherited adjectives now use the target prose contract, with `wipha` (restless) as an already-migrated anchor. Sustained interest or engagement remains a lexical review question. |
 | Semantic-domain contract and target-entry audit | **DONE** | [PR #368](https://github.com/dcellison/phi/pull/368) establishes the fifteen-domain browse catalogue and checks all 133 target-contract content entries against its retrieval rule. |
-| Resume inherited content prose migration | **NEXT** | Continue after affective response, anticipation, and resolve. Each semantic group passes through this coverage gate. |
+| Social relation, standing, and personal boundaries | **DONE** | Eleven inherited base adjectives now use the target prose contract. Public status and betrayal remain deliberate compositions because their ordinary English senses divide across different Phi relations. |
+| Resume inherited content prose migration | **NEXT** | Continue after social relation, standing, and personal boundaries. Each semantic group passes through this coverage gate. |
 
 ## Batch overview
 
@@ -50,6 +51,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Ethics, care, and candour | [PR #367](https://github.com/dcellison/phi/pull/367) | **REVIEW** | The ordinary distinctions are covered. Phi can describe cruel conduct in clauses, but recurring ethical use makes a direct word for deliberate or callous infliction of suffering worth testing. |
 | Core emotion inventory | [PR #369](https://github.com/dcellison/phi/pull/369) | **COVERED** | Canon now separates the core feeling lesson from wider affective vocabulary. Each registered expression keeps its settled form; complexity alone does not decide whether a direct root belongs. |
 | Affective response, anticipation, and resolve | [PR #371](https://github.com/dcellison/phi/pull/371) | **REVIEW** | Existing words keep the main distinctions apart. Repeated corpus paraphrases show that sustained interest or engagement needs its own connected-use test. |
+| Social relation, standing, and personal boundaries | [PR #372](https://github.com/dcellison/phi/pull/372) | **COVERED** | Company, reciprocity, equal standing, self-presentation, agency, privacy, and interpersonal warmth remain distinct. No new root follows from the coverage pass. |
 
 ## Semantic batches and stable domains
 
@@ -71,6 +73,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Ethics, care, and candour | `ethics`, `community`, `communication`, `emotion` | Conduct, social relation, expression, and feeling remain separately retrievable. |
 | Core emotion inventory | `emotion`, `community`, `physical`, `temporal`, `aesthetic` | A feeling, its bodily response, a social condition, willingness through time, and perceivable composure remain separate routes. |
 | Affective response, anticipation, and resolve | `emotion`, `activity`, `temporal`, `cognition`, `community`, `physical` | A felt response, readiness to act, bodily arousal, and a judgement about reconsideration remain distinct. |
+| Social relation, standing, and personal boundaries | `activity`, `communication`, `community`, `emotion`, `ethics`, `physical`, `quantity`, `spatial`, `wisdom` | Shared action, reciprocal relation, equal measure, personal agency, access, and displayed manner remain separate claims. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -325,6 +328,26 @@ This batch follows the wider affective vocabulary recognised by canon. It migrat
 
 The ten migrated entries now carry the full target contract. Their domain routes separate feeling from action, social exposure, bodily arousal, and reconsideration. This pass also repairs the `hurao` (patient) example: patient waiting now uses `hasi` (wait), not `numea` (nestle). No root is added here. The interest and engagement question remains visible because the corpus has already pressed on it more than once.
 
+## Social relation, standing, and personal boundaries
+
+This batch gathers eleven base adjectives used when people act together, judge standing, or draw personal boundaries. It also covers the manner they bring to those relations. `sonu` (alone) reports company without deciding feeling, while `kolo` (equal) needs a comparison basis. `noeli` (warm in manner) describes warmth shown rather than a verdict on someone's character.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Company, solitude, belonging, and independence | `sonu` (alone), `nuawe` (together), `keloe` (companion), `wema` (belong), and Accessibility `ralemi` (independent) | **COVERED** | Alone and together report company or shared participation. Belonging concerns accepted place in a relation, companionship names a role, and independence concerns whose direction governs an action. |
+| Joint action, mutuality, and cooperation | `nuawe` (together), `wesoma` (mutual), reciprocal `wiso`, `molawi` (cooperate), and `wenola` (collaborate) | **COVERED** | Together places participants in one event. Mutuality makes the relation run in more than one direction, `wiso` supplies reciprocal syntax, cooperation coordinates effort, and collaboration creates something jointly. |
+| Equality, sameness, equivalence, and fairness | `kolo` (equal), `senao` (same), `samethu` (equivalent), and `thua` (fair) | **COVERED** | Equality needs a shared amount, measure, rank, or standing. Sameness concerns identity or broad match, equivalence selects a function or effect, and fairness considers relevant differences in circumstance. |
+| Unequal standing, rank, and power | Negated `kolo`, explicit comparison, and Commons terms for role, authority, coercion, allocation, and priority | **COMPOSITIONAL** | Inequality becomes clearer when the sentence says whether measure, standing, authority, or practical control differs. A single superior or inferior label would blur those relations and can wrongly turn power into worth. |
+| Dignity, worth, pride, and respect | `thunoa` (dignified), `rolia` (worth), `thoru` (proud), and `nawea` (respect) | **COVERED** | Dignified describes conduct or treatment, worth belongs to the person, pride is satisfaction or self-respect, and respect is the act of recognising worth or autonomy. |
+| Humility and modesty | `motu` (humble) and `thasu` (modest) | **COVERED** | Humility concerns one's estimate of self in relation to others. Modesty concerns how ability, achievement, or certainty is presented, so confidence can remain visible in modest speech. |
+| Loyalty, commitment, trust, and faith | `nophei` (loyal), `seru` (commit), `theomi` (trust), and `themui` (faith) | **COVERED** | Loyalty sustains a relation through difficulty, commitment binds a course, trust relies on another, and faith sustains confidence in a person or unfolding process. None makes obedience automatic. |
+| Betrayal or disloyalty | Clauses with `theomi` (trust), `seru` (commit), `mirewu` (private), `sirelu` (disclose), and the act that broke the relation | **COMPOSITIONAL** | English betrayal can mean broken trust, abandoned commitment, harmful disclosure, or involuntary self-revelation. Current Phi can name the event that occurred, and the active corpus shows no repeated workaround that calls for a broader root. |
+| Freedom, independence, permission, and coercion | `ralu` (free), Accessibility `ralemi` (independent), `kanu` (choose), `lesawi` (consent), possibility `po`, and `kawhera` (coerce) | **COVERED** | Freedom asks whether a constraint closes an available course. Independence asks whose direction governs it, while choice, consent, possibility, and coercion state different relations around the action. |
+| Privacy, secrecy, concealment, and public status | `mirewu` (private), `kupela` (secret), `kupe` (hide), `phae` (open), access clauses, and exact source categories | **COMPOSITIONAL** | Privacy limits access, secrecy withholds information, and hiding conceals. Public places, statements, institutions, and access conditions do not share one clean opposite; the relevant relation remains explicit, while exact legal categories stay with their source. |
+| Emotional warmth, kindness, welcome, and gentleness | `noeli` (warm in manner), `phena` (kind), `whelani` (welcome), and `moli` (gentle) | **COVERED** | Warmth is a receptive manner, kindness is benevolent conduct, welcome is an act of receiving, and gentleness concerns low force or mild delivery. |
+
+The eleven inherited adjectives now use the target prose contract. No root is added. Public status stays compositional because its common senses divide among access, collective concern, and outward visibility. The same decision fits betrayal: naming the trust, commitment, or confidence that failed says what happened.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -365,4 +388,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete. The inherited content prose migration has now passed through sensory and perceptual qualities, aesthetic and formal qualities, awareness and epistemic qualities, ethics, care, and candour, the core emotion inventory, and affective response, anticipation, and resolve. The next semantic neighbourhood begins after this batch with the same coverage gate in place; `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete, and the inherited content prose migration has now reached the end of social relation, standing, and personal boundaries. The next semantic neighbourhood starts from here with the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.

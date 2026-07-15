@@ -8,16 +8,24 @@
     "i"
   ],
   "pos": "adjective",
-  "concept": "Loyal / Faithful / Steadfast in Commitment",
-  "description": "Giving or showing firm and constant support or allegiance. 'Nophei' names the quality of faithfulness—remaining true to relationships, commitments, and values through changing circumstances.",
-  "sound_symbolism": "The word holds steady. 'No' grounds in presence, connection established. 'Phe' /ɸe/ breathes gentle constancy, commitment sustained. Finally 'i' arrives at certainty, loyalty confirmed.",
-  "grammatical_notes": "Functions as an adjective: 'nophei melu' (loyal friend). Phi loyalty is not blind obedience—it honors relationships while maintaining ethical discernment. Related: theomi (trust), seru (commit).",
+  "search_terms": [
+    "faithful",
+    "steadfast"
+  ],
+  "description": "The adjective 'nophei' applies to someone who continues to honour a relationship, community, promise, or cause through difficulty. Loyalty concerns the enduring relation; 'seru' (commit) is the act of binding oneself, and 'theomi' (trust) is reliance placed in another. A loyal person can question or refuse; when the relationship becomes harmful, loyalty does not forbid leaving.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and draw the tongue back into true-mid rounded 'o'. Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then move into stressed true-mid front 'e'. Keep final high-front unrounded 'i' in its own syllable across the 'e.i' hiatus.",
+  "usage_notes": "A 'wei' phrase can make the person, community, or cause of loyalty explicit when context does not. The adjective's noun use is loyalty.",
+  "examples": [
+    {
+      "phi": "ha melu nophei nai.",
+      "translation": "This friend is loyal."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Loyal communication maintains relationship through difficulty—staying present even when conversations become challenging.",
-    "pre-industrial-wisdom": "Traditional communities depended on loyal bonds—relationships that endured through seasons of abundance and scarcity."
+    "peace-linguistics-practices": "Loyalty can keep someone in a difficult conversation. Because 'nophei' names endurance rather than obedience, a loyal answer may still be a refusal."
   },
   "semantic_domains": {
-    "community": "Faithfulness",
-    "emotion": "Steadfast commitment"
+    "community": "steadfast continuation of a relationship, commitment, or allegiance",
+    "ethics": "loyalty weighed alongside refusal and the effects of remaining"
   }
 }

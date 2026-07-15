@@ -7,16 +7,25 @@
     "tu"
   ],
   "pos": "adjective",
-  "concept": "Humble / Modest / Without Arrogance",
-  "description": "Having a modest view of one's importance; not proud or arrogant. 'Motu' names the quality of right-sized selfhood—seeing oneself clearly, neither inflated nor diminished.",
-  "sound_symbolism": "The word settles low. 'Mo' grounds with quiet presence, ego released. Then 'tu' completes with simple clarity, humility at rest.",
-  "grammatical_notes": "Functions as an adjective: 'motu phewo' (humble sage). Phi humility is not self-deprecation—it is accurate self-perception and openness to learning. Neighbor of 'thasu' (modest).",
+  "search_terms": [
+    "humility",
+    "not arrogant"
+  ],
+  "description": "'motu' describes someone who assesses their own importance and knowledge without placing themselves above others. Humility permits confidence and expertise; it keeps both open to correction. 'thasu' (modest) concerns how someone presents abilities or achievements, while 'motu' concerns the person's stance towards self and others.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the resonance through the nose, and open into stressed true-mid back rounded 'o'. Place the tongue tip against the backs of the upper teeth for dental 't' and release it into high-back rounded 'u'.",
+  "sound_symbolism": "The closed lips and two rounded vowels keep 'motu' compact. Its unshowy rhythm can help recall a stance that leaves room for other people.",
+  "usage_notes": "'motu' can modify a person or stand before a verb such as 'haolu' (speak) to describe manner.",
+  "examples": [
+    {
+      "phi": "su shia motu nai.",
+      "translation": "May they be humble."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Humility arises naturally from understanding non-self—when the illusion of separate, superior selfhood dissolves.",
-    "pre-industrial-wisdom": "Traditional crafts taught humility—the material itself instructed, and mastery meant learning to follow rather than force."
+    "secular-buddhist-philosophy": "Humility leaves one's account of self open to correction, which supports attention to experience instead of defensive self-display."
   },
   "semantic_domains": {
-    "emotion": "Without arrogance",
-    "wisdom": "Right-sized self"
+    "community": "a stance that does not place one's importance above other people's",
+    "wisdom": "self-appraisal kept open to correction and further learning"
   }
 }

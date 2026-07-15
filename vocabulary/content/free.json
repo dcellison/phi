@@ -7,16 +7,28 @@
     "lu"
   ],
   "pos": "adjective",
-  "concept": "Free / Unbound / At Liberty",
-  "description": "Not confined, restricted, or imprisoned; able to act or move without constraint. 'Ralu' names the quality of liberation—freedom from what binds, openness to what calls.",
-  "sound_symbolism": "The word moves without constraint. 'Ra' releases with ease, bonds loosened. Then 'lu' flows freely, liberty embodied.",
-  "grammatical_notes": "Functions as an adjective: 'ralu miona' (free person). Phi freedom is not isolation—it is freedom from harmful constraints while remaining in relationship.",
+  "search_terms": [
+    "unbound",
+    "at liberty",
+    "unconstrained"
+  ],
+  "description": "A coat hanging loose and a person free to leave can both be 'ralu': a constraint no longer holds the thing or closes the course. The word also applies to a community free from coercion. In the standard freedom periphrasis, 'S lila V ralu nai' says that S need not perform V because either course remains open. 'ralemi' (independent) concerns whose direction governs an action; 'ralu' concerns whether a constraint closes it.",
+  "articulatory_notes": "Make a tap or short trill at the alveolar ridge for 'r' and release into stressed open central 'a'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and raise the back of the tongue for high-back rounded 'u'.",
+  "sound_symbolism": "The opening tap releases quickly into 'a', and the lateral lets voice pass around the tongue before rounded 'u'. That easy movement through brief contacts can recall an unbound course.",
+  "usage_notes": "The construction 'S lila V ralu nai' says that S need not V by leaving the action open. Used as a noun, 'ralu' gives freedom; caused becoming can express release or liberation.",
+  "examples": [
+    {
+      "phi": "theula miona ralu thowia.",
+      "translation": "All people are born free."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Freedom includes freedom from exploitation—communities where all can flourish without domination.",
-    "secular-buddhist-philosophy": "True freedom is liberation from craving and aversion—the mind unbound by reactive patterns."
+    "peace-linguistics-practices": "Phi's need-not construction states that the person remains free with respect to an action. The wording keeps an available choice in view instead of burying it under negated obligation."
   },
   "semantic_domains": {
-    "emotion": "Liberation",
-    "wisdom": "Unbound state"
+    "activity": "an available action left open rather than closed by constraint",
+    "community": "liberty within social and institutional relations",
+    "ethics": "freedom considered in relation to coercion and imposed restraint",
+    "physical": "an object released from fastening or confinement"
   }
 }

@@ -7,17 +7,24 @@
     "nu"
   ],
   "pos": "adjective",
-  "concept": "Alone / Solitude / Settled Aloneness",
-  "description": "Being by oneself — as a state, not a wound. Phi frames aloneness first as solitude: the settled, chosen quality of being singly present, as in meditation, a walk without company, a house at rest. Painful isolation is expressed by pairing it with feeling-words ('sonu nuhe', the sadness of aloneness) rather than built into the word itself.",
-  "sound_symbolism": "The soft 's' of quiet air, the whole round 'o' of a complete circle drawn around one person, then 'nu' — the grounding nasal turned inward to the deep 'u'. The sound settles downward into stillness: one being, sufficient, at rest.",
-  "grammatical_notes": "Predicative: 'mia sonu nai' (I am alone). Attributive, preceding its noun: 'sonu miona' (a person alone / a solitary person). Solitude itself, the noun, comes by the quality-noun rule. Value-neutral by design; combine with emotion words to specify the texture of the aloneness.",
+  "search_terms": [
+    "solitary",
+    "without company"
+  ],
+  "description": "Being 'sonu' means having no one else with you at the time in question. The state may be chosen solitude or unwanted isolation; the adjective itself does not decide how it feels. Loneliness is expressed as 'sonu' with 'nuhe' (sadness). 'ralemi' (independent) concerns control over an action, so a person may work independently among others or be alone while depending on help.",
+  "articulatory_notes": "Raise the tongue blade close to the alveolar ridge and send unvoiced air through its central groove for 's', then draw the tongue back and round the lips for stressed true-mid 'o'. Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and raise the back of the tongue for high-back rounded 'u'.",
+  "sound_symbolism": "Both syllables use rounded back vowels, with the dental nasal joining them at the middle. The narrowing from 'o' to 'u' can feel inward and settled, a useful mnemonic for one presence without company.",
+  "usage_notes": "'sonu' works before a noun or with 'nai'. The same form can name aloneness.",
+  "examples": [
+    {
+      "phi": "shia sonu nai.",
+      "translation": "They are alone."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Solitude is the ground of practice — the mind met without distraction. 'Sonu' names aloneness without the assumption of suffering, leaving room for it to be peace.",
-    "peace-linguistics-practices": "A culture that honors chosen solitude does not read withdrawal as offense; naming aloneness as a settled state protects the quiet from social suspicion.",
-    "pre-industrial-wisdom": "The shepherd's watch, the fisher's dawn, the forager's quiet path: traditional life honored productive solitude as a rhythm, not an affliction."
+    "secular-buddhist-philosophy": "Meditation and reflection can happen in chosen solitude. Neutral 'sonu' leaves that state free of an automatic sadness."
   },
   "semantic_domains": {
-    "emotion": "The felt state of being by oneself",
-    "wisdom": "Solitude as contemplative ground"
+    "community": "the social circumstance of being without company"
   }
 }

@@ -8,16 +8,25 @@
     "we"
   ],
   "pos": "adjective",
-  "concept": "Together / With, As a Way of Doing",
-  "description": "Together: the manner of doing something as more than one. Built on 'nua' (with): where 'nua' relates two nouns, 'nuawe' describes the doing itself. Like 'maeli' (quiet), it is an adjective that does its most common work in preverbal position, where Phi puts manner.",
-  "sound_symbolism": "'nua' carries the withness and 'we' softens it into manner. The word is the preposition taught to move.",
-  "grammatical_notes": "Adjective, most often preverbal like 'maeli' (quiet): 'lo mia nuawe thalo.' (We walk together.) 'lo mia nuawe menui.' (We dwell together.)",
+  "search_terms": [
+    "jointly",
+    "in company"
+  ],
+  "description": "'nuawe' makes an action or state shared by more than one participant. Before a verb it gives manner, as in 'nuawe riola' (work together); with 'nai' it can place people, objects, or ideas together in one place or relation. 'nua' (with) links one participant to another, while 'nuawe' makes joint participation part of the event. 'wesoma' (mutual) adds reciprocity among participants; people may do something together without agreeing or holding equal power.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and raise the back of the tongue for high-back rounded 'u'. Keep the following stressed open central 'a' in its own syllable by lowering the tongue and releasing the lip rounding across the hiatus. Round the lips and raise the back of the tongue for voiced 'w', then unround and move the tongue forward into true-mid front 'e'.",
+  "usage_notes": "The adjective most often appears before a verb as a manner word: 'nuawe riola' means work together. It can also predicate with 'nai' when togetherness itself is the claim.",
+  "examples": [
+    {
+      "phi": "lo mia nuawe riola.",
+      "translation": "We work together."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Nothing is done alone anyway; the word just admits it. Interdependence at the scale of a single verb.",
-    "peace-linguistics-practices": "Collaboration has a grammar, and this is its adverb: any verb, done as more than one, without merging anyone."
+    "peace-linguistics-practices": "'nuawe' lets joint action be named without merging the participants or assuming consensus among them."
   },
   "semantic_domains": {
-    "community": "More than one, one doing",
-    "spatial": "Side by side in the verb"
+    "activity": "an action carried out jointly by more than one participant",
+    "community": "people sharing an action or state while remaining distinct participants",
+    "spatial": "people or things present together in one place"
   }
 }

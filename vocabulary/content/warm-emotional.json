@@ -8,16 +8,28 @@
     "li"
   ],
   "pos": "adjective",
-  "concept": "Warm (Emotional) / Welcoming / Kind in Manner",
-  "description": "Having or showing enthusiasm, affection, or kindness; emotionally welcoming. 'Noeli' names the quality of emotional warmth—the heart that welcomes, the manner that makes others feel at ease.",
-  "sound_symbolism": "The word grounds and glows. 'No' begins with nasal presence, the grounded nearness of someone who is simply, fully here with you. The open 'e' breathes warmth outward, a heart unguarded. Then 'li' settles with connective light, the gentle bond that warmth creates between people. The whole word feels like what it names: close, present, kind.",
-  "grammatical_notes": "Functions as an adjective: 'noeli miona' (warm person). Predicative: 'mia phao noeli nai.' (My parent is warm.) Distinct from 'sulae' (warm in temperature). Names the quality of welcoming kindness in manner and feeling.",
+  "search_terms": [
+    "cordial",
+    "welcoming",
+    "affectionate"
+  ],
+  "description": "'noeli' is warmth another person can hear or feel in someone's manner. A greeting or parting may put someone at ease through open affection or goodwill. It can describe a person, but it points to warmth shown rather than a claim about their character. By contrast, 'phena' (kind) concerns benevolent conduct, 'sulae' (warm) names moderate physical heat, and 'whelani' (welcome) is the act of receiving someone.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and draw the tongue back into true-mid rounded 'o'. Keep the following stressed true-mid front 'e' in its own syllable across the 'o.e' hiatus by moving the tongue forward and releasing the lip rounding. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The dental nasal begins with close resonance, then the 'o.e' hiatus opens the mouth between two clear vowel beats. Final 'li' lets the voice pass along the tongue's sides; the whole form can feel like a guarded opening relaxing into an easy finish.",
+  "usage_notes": "In preverbal position, 'noeli' describes manner. It can also modify a noun or predicate with 'nai'. Its quality noun means emotional warmth.",
+  "examples": [
+    {
+      "phi": "shia noeli haolu.",
+      "translation": "They speak warmly."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Warm-heartedness (metta) radiates goodwill—the open heart that wishes well for all beings.",
-    "peace-linguistics-practices": "Warm communication creates safety—the welcoming manner that helps others feel heard and valued."
+    "secular-buddhist-philosophy": "'noeli' gives ordinary speech a place for metta's friendly warmth: goodwill can be heard in a greeting or parting without becoming a claim of intimacy.",
+    "peace-linguistics-practices": "A warm manner can keep disagreement from sounding like rejection while the disagreement itself remains plain."
   },
   "semantic_domains": {
-    "community": "Interpersonal warmth",
-    "emotion": "Welcoming kindness"
+    "communication": "warmth expressed through voice, greeting, or parting",
+    "community": "a receptive manner that puts another person at ease",
+    "emotion": "affection or goodwill felt in someone's manner"
   }
 }
