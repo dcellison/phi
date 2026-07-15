@@ -47,7 +47,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Aesthetic and formal qualities | [PR #364](https://github.com/dcellison/phi/pull/364) | **REVIEW** | The ordinary distinctions are covered. Phi can describe ornamented work but does not yet name an applied ornament or the act of decorating directly. |
 | Awareness and epistemic qualities | [PR #365](https://github.com/dcellison/phi/pull/365) and [PR #366](https://github.com/dcellison/phi/pull/366) | **COVERED** | Direct words and established constructions keep consciousness, attention, truth, accuracy, error, uncertainty, insight, intuition, understanding, and judgement apart without a new base root. |
 | Ethics, care, and candour | [PR #367](https://github.com/dcellison/phi/pull/367) | **REVIEW** | The ordinary distinctions are covered. Phi can describe cruel conduct in clauses, but recurring ethical use makes a direct word for deliberate or callous infliction of suffering worth testing. |
-| Core emotion inventory | Current batch | **REVIEW** | Canon settles the core feeling grammar and the compositional treatment of complex emotions. Its claim that the listed basics are the whole coined emotion lexicon still needs reconciliation with older state adjectives outside that list. |
+| Core emotion inventory | [PR #369](https://github.com/dcellison/phi/pull/369) | **REVIEW** | Canon settles the core feeling grammar and the compositional treatment of complex emotions. Its claim that the listed basics are the whole coined emotion lexicon still needs reconciliation with older state adjectives outside that list. |
 
 ## Semantic batches and stable domains
 
