@@ -1,0 +1,33 @@
+{
+  "word": "selawi",
+  "gloss": "slippery",
+  "ipa": "/se̞.ˈlä.wi/",
+  "syllables": [
+    "se",
+    "la",
+    "wi"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "low traction",
+    "slick",
+    "easy to slide on"
+  ],
+  "description": "A surface or object is 'selawi' when its usual contact allows sideways sliding with comparatively little force. A wet floor can be 'selawi' under a foot, and an oiled tool can be 'selawi' in the hand. 'helu' (smooth) reports surface regularity, while 'selawi' reports how readily one surface moves across another.",
+  "articulatory_notes": "Raise the tongue blade toward the alveolar ridge for voiceless 's' and let the narrow airflow continue into true-mid front 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l', keep air moving around its sides, and open into stressed central 'a'. Round the lips and raise the back of the tongue toward the soft palate for voiced 'w', then unround into high-front 'i'.",
+  "sound_symbolism": "Air keeps moving through 'selawi': the narrow stream of 's' passes around the sides of the tongue at 'l', then runs into the glide of 'w'. That unbroken route offers a mnemonic for contact that lets motion continue instead of catching.",
+  "usage_notes": "The quality-noun rule supplies slipperiness or low traction. A change of state is 'selawi kelu' (become slippery), and causative 'ka' can introduce what caused the change. The expected counterpart comes from context; a floor is usually judged against feet, and a tool against hands.",
+  "examples": [
+    {
+      "phi": "tomae selawi nai.",
+      "translation": "The floor is slippery."
+    },
+    {
+      "phi": "mia selawi tenoa phelu.",
+      "translation": "I hold the slippery tool."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "contact that permits comparatively easy sliding between surfaces"
+  }
+}

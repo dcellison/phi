@@ -155,14 +155,24 @@ The account keeps the oil and the attempted grasp, then shows the movement and f
 | `shumeko` (sticky) | Resistance to easy separation after contact | Adhesion concerns surfaces staying attached; traction concerns resistance to sideways sliding while contact remains. |
 | `pukea` (danger) and `shurano` (safe) | A practical judgement about possible harm | A warning can guide action without naming the physical condition that prompted it. |
 
-### Recommendation for decision
+### Decision
 
 The shared fact is low resistance to sideways motion where two surfaces meet. A foot or held object can slide readily during ordinary use even while contact remains. Wetness, oil, loose grains, and polished material may produce the condition, but none defines it.
 
-One adjective would cover the useful range. It could modify either surface or the object in contact, while the quality-noun rule would supply slipperiness or low traction. Context supplies the expected contact: a floor offers traction to a foot, and a tool to a hand. A dedicated verb would duplicate `roke` (move) and describe the event after the warning was needed.
+An adjective covers the useful range. It can modify either surface or the object in contact, while the quality-noun rule supplies slipperiness or low traction. Context supplies the expected contact: a floor offers traction to a foot, and a tool to a hand. A dedicated verb would duplicate `roke` (move) and describe the event after the warning was needed.
 
-The working gloss should be `slippery`, with `low traction`, `slick`, and `easy to slide on` as search terms rather than separate roots. `helu` would continue to describe an even surface, `wirua` the presence of liquid, and `pukea` the resulting danger when harm is possible.
+Phi uses `selawi` (slippery), with `low traction`, `slick`, and `easy to slide on` as search terms rather than separate roots. `helu` continues to describe an even surface, `wirua` the presence of liquid, and `pukea` the resulting danger when harm is possible.
+
+```
+tomae selawi nai.
+floor slippery be.
+(The floor is slippery.)
+
+tenoa selawi nai.
+tool slippery be.
+(The tool is slippery.)
+```
 
 This belongs in base vocabulary. The need appears at home as soon as a wet floor or dish becomes hard to hold, well before specialist route or tool safety. Accessibility and Work can teach those uses, but neither module owns the need to warn someone before their next step.
 
-No form is proposed here. The maintainer decision is whether to accept the semantic slot, adjective class, and base placement; form generation and the complete vocabulary entry would follow in a separate coinage pass.
+`selawi` has no character edit-distance-one neighbour, and the phonetic audit finds no existing entry within its review threshold. The canonical entry follows the word through the mouth and shows the adjective both as a predicate and before a noun.

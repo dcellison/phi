@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1173 words.*
+*1174 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -738,6 +738,7 @@
 | `sawathi` | soap | /sä.ˈwä.θi/ | noun |
 | `se` | PASS | /ˈse̞/ | particle |
 | `sekaru` | transfer | /se̞.ˈkä.ru/ | verb |
+| `selawi` | slippery | /se̞.ˈlä.wi/ | adjective |
 | `seloi` | insightful | /se̞.ˈlo̞.i/ | adjective |
 | `selomi` | weave | /se̞.ˈlo̞.mi/ | verb |
 | `selu` | flow | /ˈse̞.lu/ | verb |
