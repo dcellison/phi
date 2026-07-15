@@ -8,16 +8,20 @@
     "ru"
   ],
   "pos": "adjective",
-  "concept": "Narrow / Of Small Width / Limited in Breadth",
-  "description": "Of small width in comparison to length; limited in extent from side to side. 'Hieru' names the quality of narrowness—constrained breadth, focused passage.",
-  "sound_symbolism": "The word draws inward. 'Hi' begins with contained breath, width limiting. The vowel 'e' passes through carefully. Then 'ru' continues in constrained flow, narrowness held.",
-  "grammatical_notes": "Functions as an adjective: 'hieru ruela' (narrow path). Opposite of 'losha' (wide). Can describe physical space or metaphorical focus.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Narrow focus enables depth—concentration that excludes distraction penetrates further.",
-    "pre-industrial-wisdom": "Narrow paths required attention—single-file walking through forest demanded presence."
-  },
+  "search_terms": [
+    "small width"
+  ],
+  "description": "A small span from one side to the other is 'hieru'. A narrow doorway may lead into a large room, and a narrow plank may still be 'theru' (thick). 'lonai' (width) names the dimension being judged.",
+  "articulatory_notes": "Let unvoiced air pass through 'h' into high-front unrounded 'i'. Do not glide into the next vowel; begin a separate front 'e' and stress it. A tap or short trill starts the final syllable before rounded high-back 'u'.",
+  "usage_notes": "The adjective commonly describes passages and openings, as in 'hieru ruela' (narrow path). Figuratively, it can limit the breadth of an inquiry or focus.",
+  "examples": [
+    {
+      "phi": "ponu hieru nai.",
+      "translation": "The door is narrow."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Constrained width",
-    "spatial": "Limited breadth"
+    "physical": "restricted width in passages and openings",
+    "spatial": "limited span from one side to the other"
   }
 }

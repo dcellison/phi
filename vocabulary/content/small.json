@@ -7,16 +7,21 @@
     "ku"
   ],
   "pos": "adjective",
-  "concept": "Small / Little / Compact",
-  "description": "The adjective naming littleness of size, the quality of occupying less space, being contained and compact. In Phi, smallness is observed without implicit inferiority—to be small is simply to be contained, concentrated, requiring less. This word names spatial limitation without judgment, acknowledging that small things can be precious, powerful, and complete.",
-  "sound_symbolism": "The word opens with 'thi', where the dental fricative 'th' creates precise, contained sound—breath measured, not expansive. The bright 'i' focuses and narrows, the smallest vowel space. This closes into 'ku', where the stop 'k' creates boundary and the deep 'u' holds compact depth. Two syllables keep the word appropriately contained.",
-  "grammatical_notes": "Functions as an adjective preceding nouns: 'thiku kerou' (small stone). Can be used predicatively. Distinguished from words of inadequacy or insufficiency—smallness is observation, not criticism.",
-  "pillars": {
-    "solarpunk-values": "Small-scale solutions often prove most sustainable and appropriate. 'Thiku' supports valuing the small without diminishment.",
-    "peace-linguistics-practices": "Separating size from worth enables clear description. 'Thiku' describes extent without implying that smaller is lesser or inadequate."
-  },
+  "search_terms": [
+    "little"
+  ],
+  "description": "Phi uses 'thiku' at the small end of overall scale. It suits a little stone or a small person, and it also works for amounts and undertakings. 'hieru' (narrow) and 'teku' (short) select width and end-to-end extent.",
+  "articulatory_notes": "Place the tongue tip at the upper teeth for voiceless 'th' and let air pass into high-front unrounded 'i'. The back of the tongue then closes against the soft palate for 'k' and releases into rounded high-back 'u'. Stress falls on 'thi'.",
+  "sound_symbolism": "High-front 'i' keeps the first syllable compact, and the closure before 'k' briefly gathers the word again. The result feels neatly contained, an easy memory hook for little size.",
+  "usage_notes": "Scale comes from the scene. A small rabbit among larger rabbits is 'thiku' even when no measurement is given.",
+  "examples": [
+    {
+      "phi": "kerou thiku nai.",
+      "translation": "The stone is small."
+    }
+  ],
   "semantic_domains": {
-    "physical": "spatial extent and containment",
-    "spatial": "relationship of scale and dimension"
+    "physical": "small overall size or amount relative to the immediate comparison",
+    "spatial": "limited extent considered as a whole rather than along one axis"
   }
 }

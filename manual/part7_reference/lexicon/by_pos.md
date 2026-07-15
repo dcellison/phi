@@ -8,7 +8,7 @@
 *Content words appear under their listed lexical class. A rule-supplied event or quality noun does not add another class to the entry. Function words are grouped by grammatical class.*
 
 
-## adjective (200)
+## adjective (199)
 
 | Word | Gloss |
 |---|---|
@@ -161,7 +161,6 @@
 | `telua` | accurate |
 | `thaemo` | precious |
 | `thaemu` | sincere |
-| `thaeru` | distant |
 | `thasu` | modest |
 | `theali` | fitting |
 | `theisa` | loud |

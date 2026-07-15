@@ -8,16 +8,21 @@
     "lu"
   ],
   "pos": "adjective",
-  "concept": "Tall / High / Vertically Extended",
-  "description": "The adjective naming upward extent, the quality of rising high from base to top. In Phi, height is observed as one dimension among many—tall things reach toward sky, but reaching is not inherently superior to grounding. This word names vertical extent without valorizing height above other qualities.",
-  "sound_symbolism": "The word opens with 'ra', where the rolling 'r' rises upward—the sound of climbing, of ascending, of growth reaching. The standalone 'e' creates clarity in the ascent. The final 'lu' flows upward to height achieved, the liquid carrying the rise to completion. Three syllables create upward progression.",
-  "grammatical_notes": "Functions as an adjective preceding nouns: 'raelu shiro' (tall tree). Can describe beings, structures, or mountains. Distinguished from 'mulu' (low) as vertical opposite.",
-  "pillars": {
-    "secular-buddhist-philosophy": "High and low are relative to position and perspective. 'Raelu' describes vertical extent while remaining aware of perspective's role.",
-    "pre-industrial-wisdom": "Traditional cultures noted height without worshipping it—tall trees offered shade, tall mountains challenged travelers. 'Raelu' names extent without hierarchy."
-  },
+  "search_terms": [
+    "high",
+    "elevated"
+  ],
+  "description": "A tree is 'raelu' because it rises far from base to crown. A window can also be 'raelu' when it sits high above the floor, so the word covers tall extent and high position. 'raeli' (height) is the measurable dimension; 'mulu' (low) gives the other end of the vertical scale.",
+  "articulatory_notes": "Begin with a tap or short trill for 'r' and open into central 'a'. The vowel break leaves front 'e' on its own, where it takes the stress. The tongue tip then contacts the alveolar ridge for 'l' before rounded high-back 'u'.",
+  "usage_notes": "'raelu shiro' is a tall tree, while 'raelu noa' is a high position. 'teku' (short) concerns limited end-to-end length or duration.",
+  "examples": [
+    {
+      "phi": "shiro raelu nai.",
+      "translation": "The tree is tall."
+    }
+  ],
   "semantic_domains": {
-    "physical": "height of beings and structures",
-    "spatial": "vertical extent upward"
+    "physical": "height from base to top in a person or upright structure",
+    "spatial": "a high vertical position or extent relative to a reference level"
   }
 }

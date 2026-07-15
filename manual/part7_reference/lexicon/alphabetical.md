@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1169 words.*
+*1168 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -913,7 +913,6 @@
 | `tewema` | partner | /t̪e̞.ˈwe̞.mä/ | noun |
 | `thaemo` | precious | /θä.ˈe̞.mo̞/ | adjective |
 | `thaemu` | sincere | /θä.ˈe̞.mu/ | adjective |
-| `thaeru` | distant | /θä.ˈe̞.ru/ | adjective |
 | `thaeso` | midday | /θä.ˈe̞.so̞/ | noun |
 | `thalo` | walk | /ˈθä.lo̞/ | verb |
 | `thalume` | ancestor | /θä.ˈlu.me̞/ | noun |

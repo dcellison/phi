@@ -515,7 +515,7 @@
 | `wireki` | prognosis | a conditional inference about a health course |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## community (281)
+## community (280)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -626,7 +626,6 @@
 | `norui` | boundary | Relational border |
 | `norulo` | jurisdiction | the claimed social scope of an authority or institution |
 | `noruwa` | generation | The cohort moving together |
-| `noshi` | near (adj) | Proximity |
 | `nuawe` | together | More than one, one doing |
 | `numelo` | nurture | Supporting growth of others |
 | `numike` | negotiate | Resolving differences through communication |
@@ -1458,7 +1457,7 @@
 | `hesura` | ash | Weight almost gone |
 | `hewasu` | audible | hearing under particular bodily and environmental conditions |
 | `hewe` | wipe | Surface made clean |
-| `hieru` | narrow | Constrained width |
+| `hieru` | narrow | restricted width in passages and openings |
 | `hisae` | skin | Body's outer covering and sensing organ |
 | `hisaro` | clinical finding | an observation concerning bodily or health condition |
 | `hiso` | clean | Free from dirt |
@@ -1521,7 +1520,7 @@
 | `loremi` | branch | Living structure that holds and sways |
 | `lori` | vital | Essential quality |
 | `lorika` | blood | The fluid circulating through the body |
-| `losha` | wide | Great breadth |
+| `losha` | wide | large width across an opening or a span of land or water |
 | `lumera` | nourish | Sustaining life through giving |
 | `lupaki` | fold | repositioning material without separating it |
 | `lupho` | float | Rest without sinking |
@@ -1562,7 +1561,7 @@
 | `muholi` | dig | Working downward |
 | `muila` | earth | the ground we stand upon |
 | `mukesi` | spoil | a perishable thing changing beyond intended use |
-| `mulu` | low | groundedness and stability |
+| `mulu` | low | limited height in an object or structure |
 | `munari` | sediment | loose mineral, organic, or mixed particles |
 | `muneki` | latrine | a fixture or place receiving bodily waste |
 | `mupelo` | vomit | The stomach's refusal |
@@ -1655,7 +1654,7 @@
 | `puro` | strength | Power capacity |
 | `puse` | spit | The mouth's expulsion |
 | `pushali` | overload | bodily burden produced by excessive input or demand |
-| `raelu` | tall | height of beings and structures |
+| `raelu` | tall | height from base to top in a person or upright structure |
 | `rashelo` | run | intense bodily exertion and cardiovascular activity |
 | `rato` | turn | The body's and the wheel's motion |
 | `reshi` | fast | Rapid movement |
@@ -1719,7 +1718,7 @@
 | `therilu` | rest | the bodily state of stillness and recovery |
 | `theru` | thick | substantial material thickness, density, or viscosity |
 | `thewuni` | legible | reading conditions involving sight or touch |
-| `thiku` | small | spatial extent and containment |
+| `thiku` | small | small overall size or amount relative to the immediate comparison |
 | `thinu` | put | deliberate action of positioning objects |
 | `thiranu` | maintain | Keeping things in good condition |
 | `thirulo` | output | matter or energy crossing out of a selected system |
@@ -1760,7 +1759,7 @@
 | `wethalu` | garment | Worn covering for the body |
 | `wethamo` | blanket | a covering used to retain bodily warmth |
 | `wethate` | laundry | garments and household cloth gathered as one load |
-| `whalo` | large | spatial extent and size |
+| `whalo` | large | overall size or amount considered against a contextual scale |
 | `whano` | stand | fundamental upright bodily posture requiring balance and strength |
 | `whekaro` | adverse effect | a harmful or burdensome bodily effect |
 | `whelina` | grass | Low-growing vegetation |
@@ -1826,12 +1825,12 @@
 | `whola` | invite | involves ceremonial protocols and formal gestures of welcome |
 | `whunei` | breathe | Central to meditation practice |
 
-## spatial (153)
+## spatial (152)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `hekawi` | find | Coming upon what was elsewhere |
-| `hieru` | narrow | Limited breadth |
+| `hieru` | narrow | limited span from one side to the other |
 | `hinawu` | accommodate | altering an environment or route for access |
 | `kalei` | climb | From low to high |
 | `kamo` | arrive | Reaching destination |
@@ -1849,7 +1848,7 @@
 | `kosha` | field | Open land |
 | `kupe` | hide | The enclosed and covered place |
 | `kuri` | right | Body-relative direction |
-| `laeno` | long | dimensional extent in space |
+| `laeno` | long | substantial end-to-end extent in a path or object |
 | `laenu` | commons | Shared space |
 | `laniru` | journey | Purposeful travel over distance |
 | `lawe` | left | Body-relative direction |
@@ -1865,7 +1864,7 @@
 | `lokue` | place | location and position in space |
 | `lonai` | width | Horizontal extent |
 | `lorea` | connect | bridges separate points into unified relationship |
-| `losha` | wide | Horizontal extension |
+| `losha` | wide | breadth measured from one side to the other |
 | `loshenu` | clearance | width, height, depth, or turning room kept clear |
 | `luphano` | watershed | an area bounded by selected water-flow relations |
 | `luphonu` | boat | The water's vehicle |
@@ -1880,7 +1879,7 @@
 | `molira` | hill | Accessible rise |
 | `moriwhe` | sea | Bounded oceanic expanse |
 | `moru` | wall | Vertical barrier |
-| `mulu` | low | vertical extent near ground |
+| `mulu` | low | position near the lower end of a vertical scale |
 | `muneki` | latrine | a bounded sanitation area in or near a dwelling |
 | `mureo` | stable | Resistant to change |
 | `muwi` | interior | Inner space |
@@ -1891,7 +1890,7 @@
 | `noa` | position | Represents position within physical or conceptual arrangements |
 | `norui` | boundary | Defining limit |
 | `norulo` | jurisdiction | a jurisdiction may include stated places without being only territorial |
-| `noshi` | near (adj) | Close by |
+| `noshi` | near (adj) | small separation from a contextual place or object |
 | `nowhu` | cave | Sheltered inner space |
 | `nowiso` | interface | a boundary or contact location across which exchange occurs |
 | `nuawe` | together | Side by side in the verb |
@@ -1915,7 +1914,7 @@
 | `pholeni` | depart | Leaving a place |
 | `ponu` | door | Entry barrier |
 | `raeli` | height | Upward extent |
-| `raelu` | tall | vertical extent upward |
+| `raelu` | tall | a high vertical position or extent relative to a reference level |
 | `rashelo` | run | rapid movement through space, covering distance swiftly |
 | `rato` | turn | Rotation and change of facing |
 | `roke` | move | Movement through space |
@@ -1943,9 +1942,8 @@
 | `sonari` | isolate | a bounded separation between a source and possible hosts |
 | `sorui` | circle | Round form |
 | `tapu` | close | The boundary completed |
-| `teku` | short | limited dimensional extent |
+| `teku` | short | limited end-to-end extent in a path or object |
 | `teshori` | quarantine | a temporary boundary around contact and movement |
-| `thaeru` | distant | Far away |
 | `thalo` | walk | enables traversal of distance and exploration of place |
 | `thaluro` | ocean | Boundless expanse |
 | `thelui` | sanctuary | Sacred refuge |
@@ -1953,7 +1951,7 @@
 | `thenui` | direct | Guiding toward |
 | `thepalu` | garden | defined location transformed through intentional relationship with land |
 | `theru` | thick | a relatively large distance between opposing surfaces or across a cross-section |
-| `thiku` | small | relationship of scale and dimension |
+| `thiku` | small | limited extent considered as a whole rather than along one axis |
 | `thinu` | put | establishing specific location and arrangement in space |
 | `thiru` | exit | Outward movement |
 | `thola` | bring | directed movement toward specific destination |
@@ -1972,7 +1970,7 @@
 | `wemo` | plain | Unobstructed expanse |
 | `wepu` | go | involves transition from one location to another |
 | `wesho` | locate | Finding position |
-| `whalo` | large | relationship of scale and dimension |
+| `whalo` | large | considerable extent without selecting a particular dimension |
 | `whano` | stand | vertical positioning that establishes presence and place |
 | `whelani` | welcome | movement from outside to inside, crossing thresholds |
 | `whemoa` | empty | a bounded container or place with no contents or occupants |
@@ -1982,9 +1980,9 @@
 | `wiralu` | runoff | movement from a source surface toward a lower or receiving place |
 | `womu` | home | a dwelling understood as home rather than location alone |
 | `womuri` | household | daily life organized around a dwelling |
-| `wuero` | far (adj) | Great distance |
+| `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (169)
+## temporal (171)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2016,7 +2014,7 @@
 | `korei` | fulfill | Completion |
 | `kuramo` | drought | a condition defined partly by prolonged duration |
 | `kurisha` | storm | Transformative force |
-| `laeno` | long | duration and extended time |
+| `laeno` | long | a duration that continues for a substantial interval |
 | `laniru` | journey | Extended movement through time |
 | `liloni` | population | a living group described for a stated time or period |
 | `limu` | young | Early in life |
@@ -2060,6 +2058,7 @@
 | `norawhi` | dusk | Day's ending |
 | `noruwa` | generation | The interval of inheritance |
 | `nosa` | now | Present time |
+| `noshi` | near (adj) | a time close to the present or another stated moment |
 | `nowae` | awaken | daily transition marking time's rhythm |
 | `nulae` | sleep | structures temporal experience through daily cycles and circadian rhythms |
 | `nurawi` | chronic | a persisting, recurring, or ongoing course |
@@ -2112,7 +2111,7 @@
 | `suloru` | fever | a temperature state observed over a stated time |
 | `sunoe` | regenerate | Renewal cycle |
 | `talome` | restore | Bridging past and present through recovery |
-| `teku` | short | brief duration |
+| `teku` | short | a brief duration or interval |
 | `telui` | rhythm | Recurring pattern |
 | `teluno` | amphibian | Beings of metamorphosis |
 | `teru` | process | Unfolding sequence |
@@ -2157,8 +2156,9 @@
 | `wiresu` | postpone | later placement without cancellation |
 | `wiroa` | hopeful | Future-oriented |
 | `woru` | keeper | Maintaining presence |
+| `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (198)
+## wisdom (196)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2302,7 +2302,6 @@
 | `temoe` | tend | Attentive, ongoing presence |
 | `tenoa` | tool | Appropriate technology |
 | `thaemo` | precious | Worth protecting |
-| `thaeru` | distant | Remote |
 | `thasu` | modest | Unassuming |
 | `theala` | heal | requires understanding root causes and skillful means |
 | `theali` | fitting | recognition of appropriate relationship |
@@ -2359,4 +2358,3 @@
 | `wiero` | imaginative | Seeing possibility |
 | `wireo` | future | Possibility's domain |
 | `woeli` | natural | Authentic quality |
-| `wuero` | far (adj) | Remote |

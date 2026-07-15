@@ -7,16 +7,21 @@
     "shi"
   ],
   "pos": "adjective",
-  "concept": "Near / Close By / Not Far",
-  "description": "Located a short distance away; close in space. 'Noshi' names the quality of closeness—proximity that requires little effort to bridge, nearness that enables easy reaching.",
-  "sound_symbolism": "The word stays close. 'No' grounds with present nearness, proximity established. Then 'shi' /ʃi/ settles close, nearness confirmed.",
-  "grammatical_notes": "Functions as an adjective: 'noshi lokue' (a near place). Distinct from preposition 'pai' (near/at) which marks spatial relationship; this is the quality of being close. Contrast: wuero (far).",
-  "pillars": {
-    "secular-buddhist-philosophy": "What is near is available—the present moment, the immediate situation, what can actually be engaged.",
-    "peace-linguistics-practices": "Near presence enables connection—physical proximity supports emotional closeness."
-  },
+  "search_terms": [
+    "nearby",
+    "close by"
+  ],
+  "description": "Nearness as a quality or manner is 'noshi'. A nearby village is 'noshi', as is an animal held close. The word reaches into time for an event near the present, while the preposition 'pai' (NEAR) introduces an explicit reference object.",
+  "articulatory_notes": "Place the tongue tip at the upper teeth for dental nasal 'n' and carry the voice through rounded mid-back 'o'. Raise the tongue blade toward the postalveolar region for voiceless 'sh', then move into high-front unrounded 'i'. Stress falls on 'no'.",
+  "usage_notes": "A recent day is 'noshi philo'. In comparison, 'mo noshi' means nearer or closer.",
+  "examples": [
+    {
+      "phi": "silawo noshi nai.",
+      "translation": "The village is near."
+    }
+  ],
   "semantic_domains": {
-    "community": "Proximity",
-    "spatial": "Close by"
+    "spatial": "small separation from a contextual place or object",
+    "temporal": "a time close to the present or another stated moment"
   }
 }
