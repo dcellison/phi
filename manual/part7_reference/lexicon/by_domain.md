@@ -1444,7 +1444,7 @@
 | `woenu` | tame | Domesticated |
 | `wolea` | wood | Tree material |
 
-## physical (341)
+## physical (344)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1456,6 +1456,7 @@
 | `hemilo` | honey | Sweetness that keeps |
 | `heno` | satisfy | Need met |
 | `henora` | capacity | a conditioned amount or rate a material system can hold or handle |
+| `heshowa` | gas | matter that spreads through the available volume under the conditions at hand |
 | `hesura` | ash | Weight almost gone |
 | `hewasu` | audible | hearing under particular bodily and environmental conditions |
 | `hewe` | wipe | Surface made clean |
@@ -1508,6 +1509,7 @@
 | `kuri` | right | Side of the body |
 | `kuroi` | muscle | Movement tissue creating action |
 | `kurona` | horn | Living solidity extended |
+| `larewu` | liquid | matter that keeps roughly its volume while taking the shape of its container |
 | `lathoe` | tongue | Flexible oral muscle |
 | `lawe` | left | Side of the body |
 | `lemi` | thin | little material thickness or sparse substance |
@@ -1607,6 +1609,7 @@
 | `palowe` | shoe | Between foot and road |
 | `panoru` | support | Holding up, bearing weight |
 | `panuri` | resource | the term often concerns material, energy, land, water, or biological products |
+| `patoku` | solid | matter that retains its own shape and roughly its volume under the conditions at hand |
 | `peki` | squeeze | Pressure brought inward |
 | `pekira` | toxic | a property of substances, mixtures, materials, or agents under exposure |
 | `pelaku` | severity | degree of bodily or health effect |

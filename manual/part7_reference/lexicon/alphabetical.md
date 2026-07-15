@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1174 words.*
+*1177 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -38,6 +38,7 @@
 | `henora` | capacity | /he̞.ˈn̪o̞.rä/ | noun |
 | `herani` | trend | /he̞.ˈrä.n̪i/ | noun |
 | `heru` | herb | /ˈhe̞.ru/ | noun |
+| `heshowa` | gas | /he̞.ˈʃo̞.wä/ | noun |
 | `hesura` | ash | /he̞.ˈsu.rä/ | noun |
 | `hewasu` | audible | /he̞.ˈwä.su/ | adjective |
 | `hewe` | wipe | /ˈhe̞.we̞/ | verb |
@@ -197,6 +198,7 @@
 | `laenu` | commons | /lä.ˈe̞.n̪u/ | noun |
 | `laniru` | journey | /lä.ˈn̪i.ru/ | verb |
 | `lao` | BECAUSE | /ˈlä.o̞/ | conjunction |
+| `larewu` | liquid | /lä.ˈre̞.wu/ | noun |
 | `lathoe` | tongue | /lä.ˈθo̞.e̞/ | noun |
 | `lau` | twenty-seven-group | /ˈlä.u/ | noun |
 | `lawe` | left | /ˈlä.we̞/ | noun |
@@ -525,6 +527,7 @@
 | `panoru` | support | /pä.ˈn̪o̞.ru/ | verb |
 | `panuri` | resource | /pä.ˈn̪u.ri/ | noun |
 | `pao` | goodbye | /ˈpä.o̞/ | interjection |
+| `patoku` | solid | /pä.ˈt̪o̞.ku/ | noun |
 | `pawela` | participate | /pä.ˈwe̞.lä/ | verb |
 | `peki` | squeeze | /ˈpe̞.ki/ | verb |
 | `pekira` | toxic | /pe̞.ˈki.rä/ | adjective |

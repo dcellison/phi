@@ -35,7 +35,7 @@ The profile uses these ordinary Phi resources without moving them into the modul
 | Upkeep and repair | `sawa` wash, `hewe` wipe, `hiso` clean, `shumeko` sticky, `selawi` slippery, `muhena` dust, `phuri` brush, `pukeri` damage, `rohemi` wear down, `shiroka` repair, `talome` restore, `tenoa` tool, `thinu` put, `phelu` hold | The core can identify sticky residue or a slippery surface, distinguish damage from gradual wear, and describe the work that follows. |
 | Choice and relations | `mirewu` private, `kanu` choose, `lesawi` consent, `nawo` agree, `naweri` refuse, `theama` care, `phowe` share, `nuawe` together | Privacy, consent, refusal, care, and sharing remain independent of family, ownership, and domestic role. |
 | Plans and open matters | `winora` plan, `hasoru` pending, `sirami` record | A household can organize an intended action, leave a request unresolved, or keep a durable account without treating daily life as specialist work or governance. |
-| Materials and conditions | `muralo` material, `panuri` resource, `howenu` weather, `phelure` store | Matter, availability for a purpose, present weather, and storage all have ordinary domestic uses before ecological or systems analysis begins. |
+| Materials and conditions | `muralo` material, `patoku` solid, `larewu` liquid, `heshowa` gas, `panuri` resource, `howenu` weather, `phelure` store | A medicine instruction or fuel notice can classify material before ecological or systems analysis begins. |
 | Pressure and reprisal | `kawhera` coerce, `whepelo` retaliate | Harmful pressure and reprisal can be named inside intimate or domestic relations without requiring an institution as the setting. |
 
 ## Earlier roots classified here
