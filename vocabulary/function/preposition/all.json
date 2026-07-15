@@ -7,12 +7,19 @@
     "u"
   ],
   "pos": "preposition",
-  "concept": "To / Allative / The Goal of Motion",
-  "description": "The allative preposition: motion's goal, the place a going is going. 'kau phitura' is to the well — departure's answer, since 'lue' (from) names where motion leaves. Distinct from its neighbors by design: 'wea' (toward) points without promising arrival, 'mua' (at, in, on) locates an action where it happens, and 'kamo' (arrive) takes 'mua' because arrival is an event at a place. 'kau' is for the plain destination of going, walking, coming.",
-  "sound_symbolism": "The stop 'k' is a boundary, and a destination is exactly that: the boundary where motion ends. The vowels close from open 'a' to rounded 'u' — a journey coming to rest. Against its opposite 'lue', it shares no sound in any position, per the rule that natural opposites must be maximally dissimilar.",
-  "grammatical_notes": "Before its object, and the phrase before the direct object per the adjunct-order ruling: 'lopia kau phitura thalo.' (The child walks to the well.) 'lo mia kau silawo wepu.' (We go to the village.) Contrast: 'lopia wea phitura thalo.' (walks toward the well, arrival unpromised); 'mia mua womu kamo.' (I arrive at home.)",
-  "pillars": {
-    "peace-linguistics-practices": "Announcing the destination before the first step of the verb is transparent intention: anyone hearing 'kau phitura' knows where the sentence is going before it goes.",
-    "pre-industrial-wisdom": "Every path in a walking world is defined by its two ends; the language that has 'from' owes its speakers 'to'."
-  }
+  "search_terms": [
+    "to",
+    "destination",
+    "goal of motion",
+    "allative"
+  ],
+  "description": "A village or well at the end of a journey takes 'kau'. Phi's allative makes that landmark the promised point of arrival. 'wea' (TOWARD) supplies direction without that promise. 'mua' (LOC) marks where an event occurs, so 'kamo' (arrive) takes 'mua' rather than 'kau'.",
+  "articulatory_notes": "Press the back of the tongue against the soft palate for unvoiced 'k' and release it into open central 'a'. Keep the hiatus clear while raising the back of the tongue and rounding the lips for high-back 'u'. Stress 'ka'.",
+  "usage_notes": "The goal comes immediately after 'kau', and the whole phrase occupies the ordinary adjunct position before any direct object. 'lue' (ABL) supplies the source at the other end of the path.",
+  "examples": [
+    {
+      "phi": "mia kau silawo wepu.",
+      "translation": "I go to the village."
+    }
+  ]
 }

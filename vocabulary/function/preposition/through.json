@@ -7,15 +7,20 @@
     "e"
   ],
   "pos": "preposition",
-  "concept": "Through / Via / By Way of",
-  "description": "Marks movement or extension that passes through a space, medium, or duration: through the forest, through the night, through the storm. 'Thue' implies complete traversal, entering and exiting, rather than remaining within.",
-  "sound_symbolism": "The word begins with 'thu', where the interdental fricative 'th' requires careful threading of the tongue between teeth—physically enacting the precision of passing through. The back vowel 'u' suggests the interior space being traversed, the sense of being within rather than around. This interiority then opens to 'e', marking emergence on the other side. The acoustic journey from careful entry through deep passage to clear emergence mirrors the complete experience of moving through—entering, traversing, and exiting transformed.",
-  "grammatical_notes": "Functions as a perlative preposition marking passage through three-dimensional space, time periods, or abstract processes. Precedes the noun it modifies: 'thue shelira' (through the forest), 'thue shero' (through the night), 'thue kurisha' (through the storm). Implies complete traversal—entering and exiting—rather than remaining within. Often implies transformation or effort in the passage.",
-  "pillars": {
-    "solarpunk-values": "Understanding flows through systems—water through watersheds, nutrients through soil, energy through networks—enables regenerative design. 'Thue' serves the practice of tracing pathways, recognizing that healthy systems facilitate passage rather than creating blockages.",
-    "secular-buddhist-philosophy": "The word embodies the teaching of process—enlightenment is not a destination but a passing through delusion to clarity. Like the path that must be walked rather than simply known, 'thue' acknowledges that understanding comes through experience, not around it.",
-    "art-nouveau-aesthetics": "The movement celebrated transparency and layering—light through stained glass, sight through wrought iron screens. 'Thue' captures this aesthetic principle where beauty emerges from what passes through media, transformed by the journey.",
-    "peace-linguistics-practices": "Conflict resolution requires moving through disagreement, not around it. 'Thue' enables speaking about necessary passages—through grief, through difficulty, through misunderstanding—acknowledging that peace often lies on the other side of acknowledged conflict.",
-    "pre-industrial-wisdom": "Traditional initiation rites understand that transformation requires passage through difficulty—the forest, the fast, the vigil. 'Thue' carries this wisdom that some destinations can only be reached by passing through, not by avoiding."
-  }
+  "search_terms": [
+    "through",
+    "via",
+    "by way of",
+    "perlative"
+  ],
+  "description": "A route that enters one side of a forest and leaves by another takes 'thue'. It marks complete passage across a space or medium rather than location within it. 'thue' also works across a stretch of time or an abstract process. 'roa' (AROUND) skirts the landmark instead.",
+  "articulatory_notes": "Extend the tongue tip slightly between the teeth and pass unvoiced air around it for 'th', then withdraw the tongue as the lips round for high-back 'u'. Keep the hiatus distinct; release the rounding as the tongue advances to middle-height front 'e'. Stress 'thu'.",
+  "sound_symbolism": "The tongue begins in the narrow space between the teeth, then withdraws for 'u.e'. That physical passage offers a Phi-specific mnemonic for moving through a bounded space.",
+  "usage_notes": "The traversed space or duration follows 'thue'. If the subject remains within it, 'mua' (LOC) gives location instead.",
+  "examples": [
+    {
+      "phi": "shalu thue phialu wepu.",
+      "translation": "The fish goes through the water."
+    }
+  ]
 }

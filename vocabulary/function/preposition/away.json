@@ -7,13 +7,19 @@
     "i"
   ],
   "pos": "preposition",
-  "concept": "Away from / Departing / Receding",
-  "description": "Marks movement or orientation away from a reference point, with the emphasis on growing distance rather than on any destination. Where 'lue' (from) names a point of origin, 'phei' names the receding itself, and usually a gradual one.",
-  "sound_symbolism": "The word begins with 'phe', where the soft fricative 'ɸ' breathes outward like wind carrying something away. The vowel progression from 'e' to 'i' creates a sonic narrowing, like watching something recede into distance until it becomes a distant point. This acoustic diminishment from broader 'e' to thinner 'i' mirrors the visual experience of things moving away—growing smaller, more focused, until they vanish. The lightness of articulation suggests how leaving can be gentle, how distance can grow without violence.",
-  "grammatical_notes": "Functions as a directional preposition emphasizing movement away rather than toward. Precedes the noun it modifies: 'phei womu' (away from home), 'phei pukea' (away from danger). Unlike 'lue' (from) which marks point of origin, 'phei' marks the ongoing process of receding. Can describe physical movement, emotional distancing, or abstract separation. Often implies gradual rather than abrupt separation.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Letting go sometimes means moving away from what no longer serves. 'Phei' lets that separation be said gently—departure as release rather than rejection.",
-    "peace-linguistics-practices": "Creating space through moving away often prevents conflict from escalating. 'Phei' enables speakers to describe necessary separation without judgment, acknowledging that sometimes peace requires distance rather than confrontation.",
-    "pre-industrial-wisdom": "Traditional peoples understood necessary movement away—seasonal migrations, letting fields lie fallow, young adults leaving to find their path. 'Phei' carries this wisdom that moving away can be part of natural cycles, not abandonment but renewal."
-  }
+  "search_terms": [
+    "away from",
+    "receding",
+    "departing"
+  ],
+  "description": "A dog walking away from a fire leaves the fire as the reference point while distance grows. 'phei' marks that receding relation, whereas 'lue' (ABL) names the source from which movement began. Any destination needs its own phrase. The same relation can extend to emotional or abstract separation.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then spread them for middle-height front 'e'. Hold the hiatus as the tongue rises into high-front unrounded 'i'. Stress 'phe'.",
+  "sound_symbolism": "The vowels narrow from 'e' to 'i'. In Phi, the tightening can recall a figure becoming smaller as it recedes.",
+  "usage_notes": "The reference point stands immediately after 'phei'. The word often suits a gradual withdrawal, while the verb and context set the actual pace.",
+  "examples": [
+    {
+      "phi": "lohau phei thero thalo.",
+      "translation": "The dog walks away from the fire."
+    }
+  ]
 }

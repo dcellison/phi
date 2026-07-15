@@ -7,14 +7,21 @@
     "a"
   ],
   "pos": "preposition",
-  "concept": "Toward / In the Direction of / Approaching",
-  "description": "Marks movement or orientation in the direction of a reference point: approach, with no claim of arrival. 'Wea' marks the aiming, not the outcome.",
-  "sound_symbolism": "The word begins with 'we', where the welcoming 'w' opens with the same gesture as greeting—lips rounded in receptive formation. The mid vowel 'e' suggests focused intention, a specific direction chosen. This purposeful sound then opens dramatically into 'a', the most expansive vowel, like arms opening to receive what is approached. The acoustic journey from welcoming through intention to openness mirrors how moving toward requires both direction and receptivity—we must aim yet remain open to what we find.",
-  "grammatical_notes": "Functions as the allative preposition marking direction without requiring arrival. Precedes the noun it modifies: 'wea tomora' (toward the mountain), 'wea howai' (toward evening), 'wea shea' (toward peace). Unlike goal-marking prepositions, 'wea' emphasizes the journey rather than destination. Neutral regarding whether the goal will be reached—hope and effort matter more than outcome.",
+  "search_terms": [
+    "toward",
+    "in the direction of",
+    "approaching"
+  ],
+  "description": "A walker can head toward the east without claiming to reach it. 'wea' marks that direction or orientation and leaves the outcome open. It works with physical landmarks and extends to times or abstract aims. 'kau' (ALL) instead makes the landmark the promised destination.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then unround into middle-height front 'e'. Hold the syllable break while lowering the jaw into open central 'a'. Stress 'we'.",
+  "usage_notes": "The phrase begins with 'wea' and then names the landmark. The verb or later context can say whether the movement eventually reaches it.",
+  "examples": [
+    {
+      "phi": "mia wea sileta thorui thalo.",
+      "translation": "I walk toward the east."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Building regenerative futures requires moving toward vision without knowing exact outcomes. 'Wea' embodies this hopeful directionality—working toward sustainability, toward justice, toward flourishing, even when the path remains unclear.",
-    "secular-buddhist-philosophy": "'Wea' marks direction without promising arrival, the same shape as the path itself: one moves toward awakening without grasping at the result.",
-    "peace-linguistics-practices": "Peace work involves moving toward understanding rather than demanding immediate resolution. 'Wea' enables speakers to express approach and intention, creating linguistic space for gradual reconciliation and patient progress.",
-    "pre-industrial-wisdom": "Traditional peoples navigated by moving toward landmarks—toward the mountain, toward running water, toward winter grounds. 'Wea' carries this understanding that orientation matters more than position, that knowing what we move toward guides us even through unknown territory."
+    "secular-buddhist-philosophy": "A path toward awakening is still a direction rather than an achieved state; 'wea' keeps those claims distinct."
   }
 }
