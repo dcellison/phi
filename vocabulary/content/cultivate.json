@@ -8,16 +8,31 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Cultivate / Prepare and Develop / Work Toward Growth",
-  "description": "To prepare conditions for growth and work systematically toward development—whether tilling soil for planting, developing a skill through practice, or building a relationship through consistent attention. 'Sorila' emphasizes the active, intentional work that creates conditions for flourishing.",
-  "sound_symbolism": "The word begins with 's', the systematic sibilant of sustained effort—continuous, directed, purposeful. The 'o' opens space for work. Then 'ri' moves with rolling action, hands working soil or practice repeated. Finally 'la' flows into growth, cultivation bearing fruit.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia thepalu sorila.' (I cultivate the garden.) Extends metaphorically: 'mia shea sorila.' (I cultivate peace.) Implies intentional, skilled effort toward development.",
+  "search_terms": [
+    "work land",
+    "develop through practice"
+  ],
+  "description": "Work deliberately with land or living growth to support its development. The same verb can take a skill, relationship, or disposition when repeated practice prepares the conditions, as in the Metta Sutta's cultivated loving heart. 'temoe' (tend) gives regular attention to what is already in one's care; 'sorila' includes preparing and guiding its development.",
+  "articulatory_notes": "Hold the tongue near the alveolar ridge for unvoiced 's' and let air pass through the narrow channel into rounded middle-height back 'o'. Tap the tongue tip once for stressed 'r' and release into high-front 'i'. Return the tip to the ridge for 'l' and finish on open central 'a'.",
+  "sound_symbolism": "The word alternates a sustained opening, a brief tap, and a lateral release. Its changing contacts give it the rhythm of repeated work without making that labour hurried.",
+  "usage_notes": "The cultivated land, growth, skill, or disposition precedes 'sorila'. Noun use is cultivation. The verb describes intentional work on conditions; whether the subject flourishes is a later observation.",
+  "examples": [
+    {
+      "phi": "mia thepalu sorila.",
+      "translation": "I cultivate the garden."
+    },
+    {
+      "phi": "su shia mawha norui lothea korua sorila.",
+      "translation": "May they cultivate a loving heart without boundary."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Cultivation is the heart of regenerative practice—working with natural systems to increase fertility and abundance over time.",
-    "pre-industrial-wisdom": "Traditional agriculture understood cultivation as relationship—learning the land, responding to conditions, building soil over generations."
+    "secular-buddhist-philosophy": "The Metta Sutta uses 'sorila' for the repeated work of cultivating a loving heart. Its optative offers a practice, not a claim that the work is complete.",
+    "pre-industrial-wisdom": "Cultivation depends on observing one place across seasons and answering its soil and water with practical work. The verb leaves those local acts visible."
   },
   "semantic_domains": {
-    "creation": "Developing through intentional effort",
-    "nature": "Working land for growth"
+    "activity": "deliberate repeated work that supports development",
+    "cognition": "a skill or disposition developed through practice",
+    "nature": "work with land or plants to support growth"
   }
 }

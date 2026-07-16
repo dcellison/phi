@@ -8,18 +8,23 @@
     "a"
   ],
   "pos": "verb",
-  "concept": "Born / Birth / One Becomes Two",
-  "description": "To be born. The first threshold of the life-arc, partnered with 'lumeo' (die) at the other end. The word carries its own teaching: its heart is the syllable 'wi' (two); birth is the moment one life becomes two, the mother and the child, the world and its newest member.",
-  "sound_symbolism": "The wisdom-breath 'tho' opens the passage, the pair-syllable 'wi' holds the moment of becoming-two, and the fully open 'a' is arrival itself — the first cry, the open air. The vowels travel from the rounded interior 'o' through the focused 'i' to the widest openness: the whole journey of being born, sounded. Shares almost nothing with 'lumeo' (die), so the two great thresholds can never be mistaken for each other.",
-  "grammatical_notes": "'lopia to thowia' (the child was born; 'to' marks the past). The noun sense, a birth, comes by the event-noun rule: 'thia thowia philo' (the day of your birth). In the Metta Sutta, 'rena wea thowia shua' means those coming toward birth: the phrase points forward to birth but says nothing about intention.",
-  "pillars": {
-    "solarpunk-values": "Every birth is the community regenerating — the most literal form of the renewable future the pillar imagines.",
-    "secular-buddhist-philosophy": "Impermanence begins here: everything that arises, arises. Naming birth plainly honors the first noble fact of any life — that it started, and so will end. The word stands with 'lumeo' as the two thresholds mindfulness must be able to speak.",
-    "pre-industrial-wisdom": "Birth was the village's central event — attended, sung, counted by seasons. A language of embodied life names its beginning without euphemism."
-  },
+  "search_terms": [
+    "be born",
+    "hatch"
+  ],
+  "description": "For a child or other animal to be born or hatch. The arrival itself gets the verb; parenthood and the circumstances of birth belong to the surrounding clause. Plants ordinarily 'thuroa' (grow) from seed unless a speaker deliberately chooses a birth image.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th' and let the breath pass into rounded middle-height back 'o'. Round the lips and lift the back of the tongue for 'w', then move into stressed high-front 'i'. Keep the final open central 'a' in its own syllable.",
+  "sound_symbolism": "The form narrows to breath, brightens under stress, and opens once more: a small contour of arrival.",
+  "usage_notes": "Use 'thowia' intransitively. By the general rule, noun use means birth, as in 'thia thowia philo' (the day of your birth). Established phrases include 'thowia phao' (birth parent) and 'wea thowia shua' (come towards birth), which points forwards without assigning intention.",
+  "examples": [
+    {
+      "phi": "lopia to thowia.",
+      "translation": "The child was born."
+    }
+  ],
   "semantic_domains": {
-    "community": "The arrival of a new member",
-    "nature": "The universal beginning of living things",
-    "temporal": "The first threshold of a life"
+    "community": "birth as the relation that connects a child with a birth parent",
+    "nature": "birth or hatching among living animals",
+    "temporal": "a dated threshold in an animal's life"
   }
 }

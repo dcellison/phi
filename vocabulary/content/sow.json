@@ -7,16 +7,25 @@
     "phe"
   ],
   "pos": "verb",
-  "concept": "Sow / Plant Seeds / Begin Cultivation",
-  "description": "To plant seeds in prepared ground, initiating the cycle of growth. 'Thophe' is the act of faith that begins cultivation—placing potential into soil and trusting the process of germination, growth, and eventual harvest. Every sowing is a promise made to the future.",
-  "sound_symbolism": "The word places gently like seeds into soil. 'Tho' /θo/ opens with dental breath, the careful tending motion. The round 'o' is the hole receiving seed. Then 'phe' /ɸe/ breathes life-potential, the seed placed, the future planted.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia thinoe thophe.' (I sow seeds.) Can specify location: 'mia mua thepalu thinoe thophe.' (I sow seeds in the garden.) Begins the agricultural cycle that 'muraki' (harvest) completes.",
+  "search_terms": [
+    "plant seed",
+    "seed ground"
+  ],
+  "description": "Place seed in or on ground so that it may grow. Sowing can use rows, individual holes, or a broad cast; 'thiwera' (scatter) describes the wide distribution itself, whether seed is involved or not. The verb begins cultivation but makes no claim about germination or harvest.",
+  "articulatory_notes": "Rest the tongue tip against the upper teeth for unvoiced 'th' and breathe into rounded middle-height back 'o'. Bring the lips close together for unvoiced bilabial 'ph', send air through the narrow opening, and finish on middle-height front 'e'. Stress the first syllable.",
+  "sound_symbolism": "The two unvoiced fricatives make a soft, two-part exhalation, first at the teeth and then at the lips. Phi speakers may hear in that repeated breath the hand returning for another cast of seed.",
+  "usage_notes": "The seed comes before the verb as its object; give the ground in a locative phrase when needed. Once placed, the seed may 'thuroa' (grow). The placement leaves germination and harvest for later clauses.",
+  "examples": [
+    {
+      "phi": "mia mua thepalu thinoe thophe.",
+      "translation": "I sow seeds in the garden."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Sowing embodies investment in future abundance—the patient work of planting what others may harvest, thinking beyond immediate return.",
-    "secular-buddhist-philosophy": "Karma is often compared to sowing—actions planted now bear fruit later. 'Thophe' carries this understanding of cause ripening into effect."
+    "pre-industrial-wisdom": "Hand sowing joins seed choice, season, soil, and weather in one ordinary act. 'thophe' keeps the act concrete enough for that situated knowledge to be stated around it."
   },
   "semantic_domains": {
-    "nature": "Planting seeds for growth",
-    "temporal": "Beginning cycles of cultivation"
+    "activity": "the practical act of placing seed for cultivation",
+    "nature": "seed entering the conditions in which a plant may grow"
   }
 }

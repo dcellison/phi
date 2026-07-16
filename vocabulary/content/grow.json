@@ -8,16 +8,30 @@
     "a"
   ],
   "pos": "verb",
-  "concept": "Grow / Increase / Develop Naturally",
-  "description": "To increase in size, complexity, or maturity through natural process—the unfolding that living things do when conditions allow. 'Thuroa' applies to plants reaching toward light, children gaining height, skills deepening with practice, and understanding expanding through experience. It emphasizes organic development rather than forced change.",
-  "sound_symbolism": "The word begins with 'thu', the gentle dental fricative of slow, patient process—growth is not sudden but gradual, breath-like in its continuity. The deep 'u' grounds in soil and root. Then 'ro' rolls outward with expansion, growth spreading in all directions. Finally 'a' opens fully, reaching maturity.",
-  "grammatical_notes": "'phireo thuroa.' (The plant grows.) With adverbial modification: 'phireo reshi thuroa.' (The plant grows fast.) Growth, the noun, comes by the event-noun rule: 'welao thuroa' (good growth). Distinct from 'kelu' (become), which emphasizes transformation of state, and 'molei' (evolve), which stresses slow long-term change.",
-  "pillars": {
-    "solarpunk-values": "Growth that respects natural pace and limits is sustainable; forced growth depletes. Thuroa honors organic timing.",
-    "pre-industrial-wisdom": "Traditional cultivation works with growth rather than forcing it—observing, supporting, waiting for the plant's own rhythm."
-  },
+  "search_terms": [
+    "increase",
+    "develop"
+  ],
+  "description": "Increase in size, amount, maturity, or developed capacity over time. Plants and children grow; so can populations and understanding. 'molei' (evolve) requires accumulated change across an extended span, while 'welura' (spread) concerns extension or distribution.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth for unvoiced 'th' and breathe into rounded high-back 'u'. Tap the tongue tip once at the alveolar ridge for stressed 'r' and release into rounded middle-height back 'o'. Give the final open central 'a' a syllable of its own.",
+  "sound_symbolism": "Breath gives way to a brief tap and then two open syllable endings. The word seems to find more room as it proceeds.",
+  "usage_notes": "Growth usually appears intransitively. Causative 'ka' introduces whatever makes it happen. Germination or sprouting can be expressed as seed growth when the finer botanical stage is not needed.",
+  "examples": [
+    {
+      "phi": "phireo thuroa.",
+      "translation": "The plant grows."
+    },
+    {
+      "phi": "lo mia po nuawe thuroa.",
+      "translation": "We can grow together."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Organic increase and development",
-    "temporal": "Process unfolding over time"
+    "cognition": "understanding or a learned capacity developing over time",
+    "community": "growth in a community or shared practice",
+    "nature": "increase and development in organisms or populations",
+    "physical": "change in bodily or material size",
+    "quantity": "an amount becoming greater",
+    "temporal": "development traced across time"
   }
 }

@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (245)
+## activity (254)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -62,6 +62,7 @@
 | `lokane` | accessible | a route, tool, or arrangement available for a particular activity |
 | `lorima` | build | assembling components or layers into a larger structure |
 | `loshenu` | clearance | free room for a stated movement or operation |
+| `lumera` | nourish | providing material sustenance to a living recipient |
 | `lumethi` | deadline | a time boundary attached to an expected action or result |
 | `lupaki` | fold | laying one part of flexible material over another |
 | `lupho` | float | the continuing condition of being borne up |
@@ -83,6 +84,7 @@
 | `mukesi` | spoil | loss of suitability for an intended practical use |
 | `muko` | careless | an action performed without attention reasonably available for avoiding mistakes or harm |
 | `muphera` | stock | items held for future practical use |
+| `muraki` | harvest | the work of gathering a mature crop |
 | `muro` | stubborn | persistence in a course despite reasons to adjust it |
 | `napako` | bake | cooking food through surrounding dry heat |
 | `naphe` | help | adding effort or action that makes something easier to carry through |
@@ -102,6 +104,7 @@
 | `norupe` | spoon | a utensil used to scoop, eat, measure, or stir |
 | `nuawe` | together | an action carried out jointly by more than one participant |
 | `nukesa` | expert | deeply practised capacity within a stated domain |
+| `numelo` | nurture | sustained care directed towards development |
 | `numike` | negotiate | working through changeable terms towards a possible arrangement |
 | `nuola` | eat | taking food into the body as eating |
 | `nurome` | meal | an occasion of eating |
@@ -161,6 +164,7 @@
 | `rotiku` | dance | fundamental human activity of dancing |
 | `ruemi` | lie down | holding or entering a horizontal or reclining posture |
 | `rulami` | adventure | The journey into the unknown |
+| `ruloi` | flourish | a practice or art developing with abundant activity |
 | `runaki` | wayfind | maintaining orientation while moving |
 | `ruweli` | access | reaching or using a stated activity or resource |
 | `sawa` | wash | Water-cleansing as daily craft |
@@ -191,10 +195,12 @@
 | `somethi` | monitor | planned repeated observation, measurement, sampling, or recording |
 | `sonari` | isolate | separating a possible infectious source from transmission pathways |
 | `soranu` | screen | a systematic health check with a stated follow-up path |
+| `sorila` | cultivate | deliberate repeated work that supports development |
 | `takori` | load | required work or throughput relative to a technical function |
 | `talome` | restore | work directed towards a stated earlier or reference condition |
 | `tapu` | close | The keeper's daily verb |
 | `tawi` | count | Enumerating a set for a stated or recoverable purpose |
+| `temoe` | tend | recurring practical attention to what needs looking after |
 | `teru` | process | work carried through connected operations |
 | `terura` | system | an organized whole whose components participate in processes |
 | `teshori` | quarantine | restricting contact after possible exposure |
@@ -216,13 +222,15 @@
 | `thiranu` | maintain | recurring upkeep and adjustment |
 | `thiru` | exit | crossing outward from a bounded place or activity |
 | `thirulo` | output | something produced or released by a process |
-| `thiwera` | scatter | The sower's outward arc |
+| `thiwera` | scatter | deliberate distribution of separate things over an area |
 | `thola` | bring | bringing a person or thing towards a reference destination |
 | `thonuki` | fail | loss or absence of a required technical function |
+| `thophe` | sow | the practical act of placing seed for cultivation |
 | `thosami` | compatible | components working together for a selected purpose |
 | `thueli` | intend | an agent's present aim towards an action or outcome |
 | `thunaro` | train | guided practice toward a stated practical capacity |
 | `thunesi` | asynchronous | contributions joining one process at different times |
+| `thuo` | prosper | an undertaking faring well by its practical purpose |
 | `tinako` | rigid | limited adjustability in a plan or procedure |
 | `tiwa` | tie | fastening or binding with a flexible line |
 | `tukelu` | recycle | processing recovered or discarded material into another input or material |
@@ -235,6 +243,7 @@
 | `wapho` | throw | launching a person or thing through applied force and release |
 | `wapi` | fly | movement through air by a living or carried subject |
 | `welotu` | mix | combining materials by moving them together |
+| `welura` | spread | an agent distributing or extending something |
 | `wenola` | collaborate | working jointly on one undertaking or result |
 | `wepanu` | redundant | continued function through an alternate component, path, or method |
 | `wephari` | coordinate | arranging dependent work relations |
@@ -314,7 +323,7 @@
 | `sena` | pattern | Repeated design |
 | `shaemu` | organic | Growth-shaped form |
 | `shela` | art | Expressive form |
-| `sheloa` | bloom | Beauty reaching full expression |
+| `sheloa` | bloom | the visible opening of a flower |
 | `shemoli` | harmonize | Creating pleasing unity from diversity |
 | `shiloa` | pure | an unmixed colour, tone, or formal quality |
 | `shilu` | blue | blue on surfaces and in visible light |
@@ -344,7 +353,7 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `wira` | window | View portal |
 
-## cognition (236)
+## cognition (237)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -524,6 +533,7 @@
 | `soneho` | tradeoff | a constrained relation between competing valued outcomes |
 | `sorai` | insight | Deep seeing |
 | `soranu` | screen | identifying possible need for further evaluation |
+| `sorila` | cultivate | a skill or disposition developed through practice |
 | `sowelu` | disabled | cognitive disability and its relation to access |
 | `takori` | load | a quantity interpreted in relation to capacity and conditions |
 | `tawi` | count | Exact or approximate counting within Phi's documented limits |
@@ -558,13 +568,13 @@
 | `thunai` | student | Receptive mind |
 | `thunaro` | train | structured learning through instruction and feedback |
 | `thuni` | intuitive | a thought or response arising without consciously followed reasoning |
+| `thuroa` | grow | understanding or a learned capacity developing over time |
 | `tiso` | sharp | keen attention or thought that detects fine distinctions |
 | `tukiro` | review | reassessment under stated evidence and criteria |
 | `turelo` | feedback | a relation used to explain changing system behavior |
 | `waeli` | conscious | the presence of subjective experience or wakefulness |
 | `wakomi` | surprise | The mind caught open |
 | `waora` | wondrous | an experience judged to exceed the expectation brought to it |
-| `welura` | spread | Names arithmetic multiplication through a spreading metaphor |
 | `weni` | imagine | forming mental content beyond what is presently perceived |
 | `wephari` | coordinate | tracking order, information, and interfaces |
 | `wepuri` | progress | an interpreted relation between current and intended states |
@@ -585,7 +595,7 @@
 | `wireki` | prognosis | a conditional inference about a health course |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## communication (117)
+## communication (118)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -698,6 +708,7 @@
 | `thumela` | teach | knowledge transfer through communication |
 | `thunesi` | asynchronous | an exchange designed for replies without simultaneous presence |
 | `toloi` | messenger | Message carrying |
+| `welura` | spread | a story or account becoming present among more people |
 | `wero` | honest | speech or conduct free from knowing deception |
 | `whakeru` | object | placing a challenge into discussion for response |
 | `whaline` | thank | Verbal expression of gratitude |
@@ -707,7 +718,7 @@
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
-## community (279)
+## community (281)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -760,7 +771,7 @@
 | `lothea` | love | Foundation of relationship |
 | `lothoni` | accountable | answerability for a shared matter under a review relationship |
 | `lumani` | family | forms the fundamental unit of social bonds and belonging |
-| `lumera` | nourish | Providing for others' needs |
+| `lumera` | nourish | one person or group supplying another's nourishment |
 | `lumethi` | deadline | a potentially negotiated or imposed coordination point |
 | `lumira` | descendant | continues lineage as future bearers of collective legacy |
 | `lumishe` | mentor | builds knowledge continuity across generations |
@@ -787,7 +798,7 @@
 | `moreke` | mammal | Close animal kin |
 | `motu` | humble | a stance that does not place one's importance above other people's |
 | `muneki` | latrine | a sanitation place used within shared or solitary daily life |
-| `muraki` | harvest | Shared labor and celebration |
+| `muraki` | harvest | a harvest carried out or marked by a household or community |
 | `muriwe` | worm | The garden's smallest laborer |
 | `napa` | bread | The staple food of the shared table |
 | `naphe` | help | help directed towards another person or shared undertaking |
@@ -815,7 +826,7 @@
 | `norulo` | jurisdiction | the claimed social scope of an authority or institution |
 | `noruwa` | generation | The cohort moving together |
 | `nuawe` | together | people sharing an action or state while remaining distinct participants |
-| `numelo` | nurture | Supporting growth of others |
+| `numelo` | nurture | nurture within family, friendship, or another continuing relation |
 | `numike` | negotiate | seeking an arrangement among participants with differing positions |
 | `nunoa` | forager | Gathering role |
 | `nupira` | shame | self-conscious pain shaped by exposure or social judgement |
@@ -870,7 +881,7 @@
 | `rolia` | worth | Universal value |
 | `rolutha` | wagon | What moves the harvest to market |
 | `ruesha` | compassionate | concern for suffering that shapes a response to another person |
-| `ruloi` | flourish | Collective thriving |
+| `ruloi` | flourish | vigorous growth in a community or language |
 | `ruweli` | access | practical entry into shared services and processes |
 | `sano` | know | familiarity with people and knowledge held or exchanged within a group |
 | `seluwhe` | outage | loss of a stated shared or infrastructure service for affected participants |
@@ -915,6 +926,7 @@
 | `sulopa` | soup | The meal that stretches |
 | `suro` | rope | Binding connection |
 | `telo` | farmer | Growing role |
+| `temoe` | tend | practical tending of another person |
 | `temu` | guild | Craft association |
 | `teshori` | quarantine | a public-health relation with material and social obligations |
 | `tewema` | partner | fundamental social bond and relationship |
@@ -945,14 +957,15 @@
 | `thorai` | bless | Wishing wellbeing upon others |
 | `thorea` | ceremony | gathers collective presence for shared transformation |
 | `thorelu` | converse | informal talk through which people maintain relationships |
-| `thowia` | born | The arrival of a new member |
+| `thowia` | born | birth as the relation that connects a child with a birth parent |
 | `thua` | fair | equitable treatment assessed in relation to needs and circumstances |
 | `thuleni` | comfort | Caring for those who suffer |
 | `thumela` | teach | deeply relational act between teacher and student |
 | `thunai` | student | Learning role |
 | `thunaro` | train | a bounded relationship between trainer and participant |
 | `thunoa` | dignified | composed conduct or treatment between people |
-| `thuo` | prosper | Collective thriving |
+| `thuo` | prosper | material or practical prosperity in a person, household, or community |
+| `thuroa` | grow | growth in a community or shared practice |
 | `thuroi` | resilient | shared capacities restored after disruption |
 | `tokemi` | fungus | Underground connectors |
 | `toloi` | messenger | Connecting role |
@@ -960,7 +973,7 @@
 | `towe` | well | the overall welfare of a person or group |
 | `tupeka` | burden | weight or demand located on an affected bearer |
 | `warosha` | reconcile | Healing relationships after conflict |
-| `welira` | thrive | Collective wellness |
+| `welira` | thrive | a community developing in sustained good health |
 | `wema` | belong | roots in collective identity and mutual acceptance |
 | `wemari` | member | recognized membership in a stated group or institution |
 | `wemi` | ally | joins personal identity with collective struggle |
@@ -991,7 +1004,7 @@
 | `wonepa` | table | Where the meal gathers |
 | `woru` | keeper | Guardian role |
 
-## creation (166)
+## creation (165)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1117,7 +1130,6 @@
 | `sima` | thread | Spun fiber |
 | `sitheku` | transcribe | making a stable textual rendering of language |
 | `soeli` | cup | Drinking vessel |
-| `sorila` | cultivate | Developing through intentional effort |
 | `suro` | rope | Strong cord |
 | `talome` | restore | recovery of a feature or arrangement in a made thing |
 | `tapulo` | jar | a rigid storage vessel with a broad mouth |
@@ -1162,7 +1174,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## emotion (87)
+## emotion (86)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1242,7 +1254,6 @@
 | `thomari` | courage | resolve felt while facing fear, pain, or danger |
 | `thoru` | proud | satisfaction or dignity connected to achievement, identity, or relationship |
 | `thuleni` | comfort | Responding to others' distress |
-| `thuo` | prosper | Abundant flourishing |
 | `thurai` | vibrant | lively energy apparent in a manner or shared activity |
 | `wakomi` | surprise | The felt jolt of the unexpected |
 | `waora` | wondrous | a person, event, or thing that prompts a felt response of wonder |
@@ -1280,7 +1291,7 @@
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 | `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
-## nature (227)
+## nature (231)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1325,6 +1336,7 @@
 | `lima` | alive | the living condition shared by organisms |
 | `limoe` | creature | Any living animate being |
 | `linua` | fiber | Raw material |
+| `liona` | live | the ongoing life of a person or other organism |
 | `lioru` | life | Animating force |
 | `lirowa` | leaf | Plant foliage |
 | `litero` | ecosystem | relations among living beings, materials, energy, water, and place |
@@ -1338,7 +1350,8 @@
 | `lorua` | abundant | plentiful growth, water, food, or other provisions in a living system |
 | `lorui` | afternoon | Mellowing hours |
 | `lowi` | vine | Climbing plant |
-| `lumeo` | die | The universal ending of living things |
+| `lumeo` | die | the death of a person or other organism |
+| `lumera` | nourish | nutrients or food supporting an organism's growth |
 | `lunei` | moon | Earth's companion satellite |
 | `lunoa` | month | Moon rhythm |
 | `luphano` | watershed | land organized by drainage toward a shared water outlet |
@@ -1374,7 +1387,7 @@
 | `muila` | earth | elemental foundation of terrestrial life |
 | `munari` | sediment | particulate material moved or deposited by environmental processes |
 | `muphia` | mud | Earth and water met |
-| `muraki` | harvest | Gathering mature crops |
+| `muraki` | harvest | cultivated growth gathered at maturity |
 | `muriwe` | worm | The soil's quiet maker |
 | `muroa` | fertile | the capacity of soil, organisms, or conditions to support growth or reproduction |
 | `napuro` | grain | The seed-crop of the year |
@@ -1389,6 +1402,7 @@
 | `nomira` | collect | collecting specimens or useful material from a living or physical setting |
 | `norawhi` | dusk | Light's recession |
 | `nowhu` | cave | Underground hollow |
+| `numelo` | nurture | care that supports the development of a living thing |
 | `nunoa` | forager | Wild harvesting |
 | `nuola` | eat | feeding relations among living organisms |
 | `nuora` | food | the gifts of earth that nourish us |
@@ -1427,7 +1441,7 @@
 | `roena` | copper | Elemental metal |
 | `ronua` | south | The open expanse of the turning sky |
 | `ruka` | complex | a living or ecological system with many interacting relations |
-| `ruloi` | flourish | Vigorous, abundant growth |
+| `ruloi` | flourish | abundant growth in plants or a living place |
 | `runae` | resin | Tree secretion |
 | `selu` | flow | water and other environmental material moving in currents |
 | `seroli` | mature | developmental maturity in organisms and crops |
@@ -1436,7 +1450,7 @@
 | `shalu` | fish | Aquatic life |
 | `shalumi` | salmon | The returning river fish |
 | `shelira` | forest | Woodland ecosystem |
-| `sheloa` | bloom | Flowering, opening of blossoms |
+| `sheloa` | bloom | flowering in a plant |
 | `shero` | night | Rest period |
 | `shila` | winter | Dormancy time |
 | `shioli` | silver | Precious metal |
@@ -1452,7 +1466,7 @@
 | `simoe` | rich | dense nutrients, organic matter, or living variety in land and habitat |
 | `solai` | gold | Precious metal |
 | `sophae` | cotton | Plant fiber |
-| `sorila` | cultivate | Working land for growth |
+| `sorila` | cultivate | work with land or plants to support growth |
 | `suilo` | dew | Condensed atmospheric moisture |
 | `sukaro` | hot | weather or environmental heat that is strongly felt |
 | `sulae` | warm | moderate warmth in air, water, sunlight, or weather |
@@ -1462,7 +1476,7 @@
 | `talome` | restore | ecological work towards a selected reference condition |
 | `telo` | farmer | Land cultivation |
 | `teluno` | amphibian | Transforming dual-world creatures |
-| `temoe` | tend | Regular care of growing things |
+| `temoe` | tend | regular work with a garden, animal, or other living thing |
 | `tesu` | iron | Strong metal |
 | `thaeso` | midday | Solar zenith |
 | `thaluro` | ocean | Global saltwater body |
@@ -1474,12 +1488,12 @@
 | `theriko` | frost | Frozen surface moisture |
 | `thero` | fire | elemental force of transformation |
 | `thinoe` | seed | the reproductive kernel of plants |
-| `thiwera` | scatter | Seed flung wide |
-| `thophe` | sow | Planting seeds for growth |
-| `thowia` | born | The universal beginning of living things |
+| `thiwera` | scatter | seed, light, or organisms dispersed through a living place |
+| `thophe` | sow | seed entering the conditions in which a plant may grow |
+| `thowia` | born | birth or hatching among living animals |
 | `thula` | spring | Water source point |
 | `thumiro` | smoke | The fire's rising breath |
-| `thuroa` | grow | Organic increase and development |
+| `thuroa` | grow | increase and development in organisms or populations |
 | `tiripe` | quiver | The leaf's and the whisker's shared verb |
 | `tokemi` | fungus | Decomposers and network beings |
 | `tomora` | mountain | Major land elevation |
@@ -1493,7 +1507,8 @@
 | `wapile` | wing | Flight's limb |
 | `welamu` | elm | The tree of the riverside lane |
 | `welathi` | contagious | an infectious agent's capacity to pass between living hosts |
-| `welura` | spread | Offers spreading as a metaphor for multiplication |
+| `welira` | thrive | healthy development in an organism or population |
+| `welura` | spread | an organism or ecological occurrence extending through a place |
 | `wemo` | plain | Flat open land |
 | `weoli` | reed | Wetland plant |
 | `wheiru` | mist | Suspended water droplets |
@@ -1512,7 +1527,7 @@
 | `wolea` | wood | Tree material |
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 
-## physical (366)
+## physical (369)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1590,7 +1605,7 @@
 | `lepa` | fall | gravity-led movement after support is lost |
 | `lima` | alive | the bodily distinction between being alive and having died |
 | `limu` | young | early bodily or organismal development |
-| `liona` | live | State of biological aliveness |
+| `liona` | live | biological living as an activity or condition |
 | `lirupa` | bag | a soft-sided holder that changes shape around its contents |
 | `loa` | give | passing a material object into another person's use or keeping |
 | `lomare` | embrace | Bodily expression of care |
@@ -1601,7 +1616,8 @@
 | `lorika` | blood | The fluid circulating through the body |
 | `lorima` | build | joining material parts so that a structure stands or works |
 | `losha` | wide | large width across an opening or a span of land or water |
-| `lumera` | nourish | Sustaining life through giving |
+| `lumeo` | die | the bodily cessation of life |
+| `lumera` | nourish | material intake that supports bodily growth or health |
 | `lupaki` | fold | repositioning material without separating it |
 | `lupho` | float | buoyant support within a fluid |
 | `luphonu` | boat | The built hull |
@@ -1827,6 +1843,7 @@
 | `thorima` | taste | gustatory perception through the mouth |
 | `thumai` | finger | Fine digits for manipulation and touch |
 | `thumiro` | smoke | Gray drift that reports |
+| `thuroa` | grow | change in bodily or material size |
 | `thuroi` | resilient | return toward workable form or function after stress |
 | `tinako` | rigid | resistance to bending, twisting, or rearrangement under force |
 | `tipika` | fingernail | The finger's hard tip |
@@ -1848,11 +1865,12 @@
 | `wapile` | wing | The bird's instrument |
 | `weilo` | balanced | equilibrium among weights or forces |
 | `welathi` | contagious | transmission potential under stated bodily or environmental conditions |
-| `welira` | thrive | Healthy, successful development |
+| `welira` | thrive | a living body's health across development |
 | `welisha` | color | a perceived property of surfaces or light |
 | `weloni` | body | The whole living frame |
 | `welotu` | mix | parts moving through one another in a vessel or space |
 | `welua` | fragile | easy breakage or damage under comparatively small force |
+| `welura` | spread | material distributed across a surface or area |
 | `wenu` | tonic | Vitality |
 | `wetha` | cloth | Covering |
 | `wethaki` | towel | an absorbent textile receiving moisture |
@@ -1883,7 +1901,7 @@
 | `wonepa` | table | The social flat of the house |
 | `wuloe` | soft | a yielding texture or contact that cushions pressure |
 
-## quantity (20)
+## quantity (22)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1901,8 +1919,10 @@
 | `shao` | three-group | the three scale used in exact and approximate enumeration |
 | `ta` | one | the exact quantity one and the coefficient one in ternary numerals |
 | `thiku` | small | a small amount when the comparison concerns quantity rather than spatial extent |
+| `thuroa` | grow | an amount becoming greater |
 | `waleru` | length | a dimension that can be compared or measured along a chosen course |
 | `weilo` | balanced | proportions kept workable among competing needs or considerations |
+| `welura` | spread | multiplication in Phi's arithmetic construction |
 | `whalo` | large | a large amount when the comparison concerns quantity rather than spatial extent |
 | `whemoa` | empty | no contents or occupants within the boundary being considered |
 | `whoa` | whole | all relevant parts included in the total under discussion |
@@ -1918,7 +1938,7 @@
 | `koshira` | grove | Sacred tree-space |
 | `kowela` | council | creates sacred space through formal deliberation processes |
 | `lopha` | vessel | Sacred receptacle |
-| `lumeo` | die | The event around which mourning gathers |
+| `lumeo` | die | the event named in mourning and death ceremonies |
 | `maewo` | threshold | Liminal space |
 | `meipa` | seat | What receives the practice |
 | `melira` | song | Carrier of communal memory and ceremony |
@@ -1946,7 +1966,7 @@
 | `thunepa` | sacred place | Place of reverence |
 | `whunei` | breathe | breath used as an observable object in meditation practice |
 
-## spatial (155)
+## spatial (158)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1981,6 +2001,7 @@
 | `lerua` | exterior | Outer surface |
 | `lewonu` | valley | Sheltered depression |
 | `liloni` | population | a living group bounded by an area |
+| `liona` | live | living in a stated home, habitat, or other place |
 | `liweso` | ecological community | co-occurrence within a selected place or distributed area |
 | `lokane` | accessible | a path or place reachable for the movement at issue |
 | `lokue` | place | location and position in space |
@@ -2078,6 +2099,7 @@
 | `thiku` | small | limited extent considered as a whole rather than along one axis |
 | `thinu` | put | establishing a stated location or arrangement |
 | `thiru` | exit | movement from inside to outside |
+| `thiwera` | scatter | separate items or paths moving out from one place |
 | `thola` | bring | directed movement towards a place or participant |
 | `tholu` | space | Open area |
 | `tholupi` | room | a bounded space within a building |
@@ -2091,6 +2113,7 @@
 | `waleru` | length | end-to-end extent along an object, path, or chosen course |
 | `wapho` | throw | a launched path across a gap or into a target area |
 | `wapi` | fly | an airborne path across a place |
+| `welura` | spread | an extent widening or reaching more places |
 | `wema` | belong | grounded in place with deep connection to home |
 | `wemo` | plain | Unobstructed expanse |
 | `wepu` | go | directed travel through space |
@@ -2106,7 +2129,7 @@
 | `womuri` | household | daily life organized around a dwelling |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (164)
+## temporal (166)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2143,13 +2166,14 @@
 | `laniru` | journey | travel unfolding over an appreciable interval |
 | `liloni` | population | a living group described for a stated time or period |
 | `limu` | young | a position near the beginning of a life or developmental course |
+| `liona` | live | a life continuing through a stated span |
 | `lioru` | life | Living duration |
 | `lirowa` | leaf | Seasonal cycle marker |
 | `lopia` | child | embodies process of becoming and living future |
 | `lorui` | afternoon | Later day |
 | `luera` | past | Before now |
 | `lumae` | end | Final point |
-| `lumeo` | die | The second threshold of a life |
+| `lumeo` | die | the point at which a life ends |
 | `lumethi` | deadline | the stated latest time under a named source |
 | `lumira` | descendant | embodies future generations receiving present foundations |
 | `lunai` | vision | Future imagination |
@@ -2171,6 +2195,7 @@
 | `mothami` | baseline | often a documented earlier period or state against which change is assessed |
 | `muero` | autumn | Harvest season |
 | `mukesi` | spoil | condition worsening during storage or delay |
+| `muraki` | harvest | a crop gathered at the fitting stage or season |
 | `mureo` | stable | a system or condition that persists through ordinary variation |
 | `murethi` | impairment | a function that may be temporary, lasting, or variable |
 | `nelore` | preserve | continuity kept available across time |
@@ -2252,17 +2277,17 @@
 | `thiranu` | maintain | attention repeated between failures |
 | `thole` | practice | Repeated action |
 | `tholua` | ancient | existence or origin in a past far beyond ordinary age |
-| `thophe` | sow | Beginning cycles of cultivation |
 | `thorea` | ceremony | marks transitions and milestones in communal time |
 | `thorui` | beginning | Origin point |
-| `thowia` | born | The first threshold of a life |
+| `thowia` | born | a dated threshold in an animal's life |
 | `thunaro` | train | practice developed through a sequence of attempts |
 | `thunesi` | asynchronous | participation distributed across different moments |
-| `thuroa` | grow | Process unfolding over time |
+| `thuroa` | grow | development traced across time |
 | `tiroe` | instant | Infinitely brief |
 | `torua` | year | Full cycle |
 | `turelo` | feedback | a later state or output affects a continuing or subsequent process |
 | `turema` | return | an earlier relation providing the reference for what comes back later |
+| `welira` | thrive | good health and development continuing through time |
 | `wepuri` | progress | change across stages of an undertaking |
 | `weshaku` | outbreak | cases considered within a stated period |
 | `wheo` | elder | embodies accumulated time and life cycles |
@@ -2275,7 +2300,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (109)
+## wisdom (106)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2297,7 +2322,6 @@
 | `lei` | harmony | requires understanding the middle way and patient adjustment |
 | `leiro` | release | release considered as a practice of loosening attachment |
 | `letharo` | consistent | holding plurality without confusing compatibility with truth |
-| `liona` | live | Engaged presence in existence |
 | `luera` | past | Memory's domain |
 | `luma` | lamp | Illumination |
 | `lumae` | end | Completion |
@@ -2319,7 +2343,6 @@
 | `nosa` | now | Current moment |
 | `nukesa` | expert | understanding refined through long practice and reflection |
 | `nulo` | deep | sustained inquiry or knowing that reaches beneath an initial account |
-| `numelo` | nurture | Patient, attentive care |
 | `nuri` | cycle | Understanding of return |
 | `nusho` | depth | Profundity |
 | `nuwoe` | stage | Growth position |
@@ -2357,7 +2380,6 @@
 | `soneho` | tradeoff | attention to what every available option preserves and relinquishes |
 | `sorai` | insight | Penetrating understanding |
 | `tawimo` | foolish | sound judgement absent where the circumstances call for it |
-| `temoe` | tend | Attentive, ongoing presence |
 | `tenoa` | tool | Appropriate technology |
 | `theali` | fitting | selection of a response appropriate to the situation and relationship |
 | `thekiro` | write | Preserving knowledge across time |

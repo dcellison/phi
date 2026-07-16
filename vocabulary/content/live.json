@@ -8,16 +8,24 @@
     "na"
   ],
   "pos": "verb",
-  "concept": "Live / Be Alive / Dwell in Life",
-  "description": "To experience the state of being alive—breathing, sensing, changing, participating in the web of existence. 'Liona' encompasses both the biological fact of living and the richer sense of dwelling fully in one's life. It is not mere survival but engaged presence in the world.",
-  "sound_symbolism": "The word begins with 'l', the liquid consonant of life flowing—continuous, unbroken, moving forward. The bright 'i' sparks with vitality and awareness. Then 'o' opens into fullness, life expanding into its container. Finally 'na' grounds with nasal stability, life rooted in the present moment.",
-  "grammatical_notes": "Functions as an intransitive verb: 'mia liona.' (I live.) Can take locative phrases for dwelling: 'mia mua womu liona.' (I live at home.) Distinct from 'nai' (be) in emphasizing active living rather than mere existence; compare 'menui' (dwell).",
-  "pillars": {
-    "solarpunk-values": "To live well requires sustainable relationship with the systems that support life—air, water, soil, community.",
-    "secular-buddhist-philosophy": "Mindfulness is practiced in living itself: attention to breathing, sensing, and changing as they happen. 'Liona' is the verb for that attended aliveness."
-  },
+  "search_terms": [
+    "be alive",
+    "reside"
+  ],
+  "description": "For a person or other organism to have and continue a life. A location phrase says where that life is lived, so 'mia mua womu liona' means I live at home. 'menui' (dwell) describes habitation; 'liona' keeps the living subject in view.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and release into high-front 'i'. Keep stressed rounded middle-height back 'o' as a separate syllable. Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and finish on open central 'a'.",
+  "sound_symbolism": "The lateral and nasal keep the voice continuous through three changing vowels. Nothing snaps shut; the word carries on.",
+  "usage_notes": "Location, duration, and manner can accompany this intransitive verb. Its event noun refers to living as an activity or way of life, as in 'liona ruela' (way of living), while 'lioru' names life as a whole and 'lima' states that an organism is alive.",
+  "examples": [
+    {
+      "phi": "mia mua womu liona.",
+      "translation": "I live at home."
+    }
+  ],
   "semantic_domains": {
-    "physical": "State of biological aliveness",
-    "wisdom": "Engaged presence in existence"
+    "nature": "the ongoing life of a person or other organism",
+    "physical": "biological living as an activity or condition",
+    "spatial": "living in a stated home, habitat, or other place",
+    "temporal": "a life continuing through a stated span"
   }
 }

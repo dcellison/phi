@@ -8,16 +8,25 @@
     "a"
   ],
   "pos": "verb",
-  "concept": "Bloom / Flower / Open into Fullness",
-  "description": "To open from bud into flower, or metaphorically to reach the full expression of one's potential. 'Sheloa' captures the moment when what was closed and potential becomes open and actual—petals unfurling, talent expressing, understanding dawning. It is the verb of coming into one's own.",
-  "sound_symbolism": "The word begins with 'she', the soft fricative spreading outward like petals beginning to separate. The 'e' marks the first opening. Then 'lo' flows with liquid ease, the unfolding continuing, each petal finding its place. Finally 'a' opens fully, the bloom complete, face turned to the sun.",
-  "grammatical_notes": "'phireo sheloa.' (The plant blooms.) Often used metaphorically for people reaching full expression: 'lopia sheloa.' (The child blooms.) The noun sense comes by the event-noun rule: 'mioru sheloa' (beautiful bloom), 'lo sheloa' (blooms). Related to but distinct from 'ruloi' (flourish), which names broader thriving.",
+  "search_terms": [
+    "flower",
+    "open from bud"
+  ],
+  "description": "For a plant or flower bud to open into flower. The event noun names a bloom as an occurrence, while 'peloru' (flower) names the plant structure and 'phirali' (blossom) names a flower, especially one that may precede fruit. Broader development uses 'thuroa' (grow) or 'ruloi' (flourish) unless the flower image is deliberate.",
+  "articulatory_notes": "Raise the tongue blade near the postalveolar region for unvoiced 'sh' and let the sibilant air pass into middle-height front 'e'. Touch the tongue tip to the alveolar ridge for stressed 'l' and release into rounded middle-height back 'o'. Keep final open central 'a' separate.",
+  "sound_symbolism": "The opening sibilant narrows the breath before the stressed rounded vowel and final open 'a' give it room. A speaker may hear a bud's release in that small widening of the word.",
+  "usage_notes": "The verb is intransitive. A plant or its flowers may be the subject, and aspect can distinguish the first opening from a period of bloom. Figurative use remains available as an explicit flower image rather than a second dictionary sense.",
+  "examples": [
+    {
+      "phi": "lo peloru nosa sheloa.",
+      "translation": "The flowers are blooming now."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Blooming cannot be forced; it happens when conditions are right. This teaches patience and trust in natural unfolding.",
-    "art-nouveau-aesthetics": "The bloom is art nouveau's central image—organic beauty reaching full expression, the curve completing itself in the opened flower."
+    "art-nouveau-aesthetics": "Opening flowers are a recurring Art Nouveau form. 'sheloa' supplies the living action behind those unfurling lines rather than treating the flower as fixed ornament."
   },
   "semantic_domains": {
-    "aesthetic": "Beauty reaching full expression",
-    "nature": "Flowering, opening of blossoms"
+    "aesthetic": "the visible opening of a flower",
+    "nature": "flowering in a plant"
   }
 }

@@ -8,16 +8,26 @@
     "e"
   ],
   "pos": "verb",
-  "concept": "Tend / Care For / Attend To",
-  "description": "To regularly care for something, giving it needed attention—watering plants, checking on the sick, maintaining what requires upkeep. 'Temoe' emphasizes the ongoing, attentive quality of care rather than dramatic intervention. It is the quiet, consistent presence that keeps things well.",
-  "sound_symbolism": "The word begins with 't', the clear dental of attention—precise, directed, focused. The 'e' engages with what needs care. Then 'mo' softens with nasal gentleness, hands moving carefully. Finally 'e' returns with quiet awareness, the tender remaining present.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia thepalu temoe.' (I tend the garden.) Implies ongoing relationship rather than single act. Related to 'theama' (care) and 'numelo' (nurture) but emphasizes regular attention rather than growth-support or emotional warmth.",
+  "search_terms": [
+    "look after",
+    "attend to"
+  ],
+  "description": "Look after a person, living thing, place, or fire through recurring practical acts. Tending a garden may involve watering and pruning; tending a sick person calls for different work. 'theama' (care) is the wider relation, while 'thiranu' (maintain) keeps something near a required condition or function.",
+  "articulatory_notes": "Set the tongue tip against the backs of the upper teeth for dental 't' and release it into middle-height front 'e'. Close the lips for stressed 'm', carry the voice through the nose, and open into rounded middle-height back 'o'. Keep the final middle-height front 'e' separate.",
+  "sound_symbolism": "A small dental release leads to the held resonance of stressed 'mo', followed by one last open syllable. The measured sequence can cue attention that returns rather than a single intervention.",
+  "usage_notes": "The person, place, or living thing receiving attention precedes 'temoe'. The surrounding clause can give the actual work or interval. For emotional or protective care without this recurring practical focus, 'theama' remains the broader choice.",
+  "examples": [
+    {
+      "phi": "mia thepalu temoe.",
+      "translation": "I tend the garden."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Tending is the daily practice of stewardship—small, consistent acts that maintain healthy systems over time.",
-    "secular-buddhist-philosophy": "Tending cultivates mindfulness through attention to what is present, what needs care, what is changing."
+    "solarpunk-values": "The Solarpunk Manifesto calls its stewards people who tend gardens. 'temoe' grounds stewardship in work that returns to the same living place."
   },
   "semantic_domains": {
-    "nature": "Regular care of growing things",
-    "wisdom": "Attentive, ongoing presence"
+    "activity": "recurring practical attention to what needs looking after",
+    "community": "practical tending of another person",
+    "nature": "regular work with a garden, animal, or other living thing"
   }
 }

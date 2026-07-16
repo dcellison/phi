@@ -8,16 +8,27 @@
     "ra"
   ],
   "pos": "verb",
-  "concept": "Thrive / Prosper / Succeed in Living Well",
-  "description": "To prosper and grow strong, to succeed in developing healthily. 'Welira' emphasizes wellness and successful development—not just growth but growth toward health and wholeness. It carries the sense of doing well, of conditions being right for full expression of potential.",
-  "sound_symbolism": "The word begins with 'w', the soft glide of wellness—smooth, unobstructed, flowing easily. The 'e' engages with purpose. Then 'li' brings life itself, the liquid of vitality. Finally 'ra' continues forward, thriving sustained over time.",
-  "grammatical_notes": "Functions as an intransitive verb: 'lopia welira.' (The child thrives.) Can take locative phrases for conditions: 'lopia mua welao womu welira.' (The child thrives in a good home.) Related to but distinct from 'ruloi' (flourish); welira emphasizes health, ruloi emphasizes abundance.",
+  "search_terms": [
+    "develop healthily",
+    "do well"
+  ],
+  "description": "Develop or continue in good health under the surrounding conditions. A child, plant, animal, or community can thrive. 'ruloi' (flourish) describes abundant growth or activity; 'welira' asks how the living subject fares in health.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then open into middle-height front 'e'. Set the tongue tip at the alveolar ridge for stressed 'l' and release into high-front 'i'. Tap the ridge briefly for 'r' before final open central 'a'.",
+  "sound_symbolism": "Glide, lateral, and tap give the word a light forward rhythm without a full consonant closure after its opening. Its easy continuity recalls a life doing well in its conditions.",
+  "usage_notes": "A thriving subject takes no direct object. A 'mua' phrase can name the surrounding conditions. 'wolu' (healthy) states present health; 'welira' follows how health and development fare through time.",
+  "examples": [
+    {
+      "phi": "lopia mua welao womu welira.",
+      "translation": "The child thrives in a good home."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Thriving communities are the vision—not survival but genuine wellness, people and ecosystems succeeding together.",
-    "secular-buddhist-philosophy": "Thriving arises from right conditions—not forced but cultivated. Understanding conditions for thriving is wisdom."
+    "solarpunk-values": "The Solarpunk Manifesto uses 'welira' for life without energy stored from ancient life. The verb puts the claim on the health of lives and communities, where its consequences can be examined."
   },
   "semantic_domains": {
-    "community": "Collective wellness",
-    "physical": "Healthy, successful development"
+    "community": "a community developing in sustained good health",
+    "nature": "healthy development in an organism or population",
+    "physical": "a living body's health across development",
+    "temporal": "good health and development continuing through time"
   }
 }

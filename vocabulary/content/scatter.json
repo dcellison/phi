@@ -8,16 +8,27 @@
     "ra"
   ],
   "pos": "verb",
-  "concept": "Scatter / Broadcast / Spread Wide Like Seed",
-  "description": "To scatter: to spread wide and outward — seed broadcast over a field, light across water, people across the earth. The wild sibling of 'thophe' (sow), which places seeds in prepared ground; 'thiwera' flings them to the wind and trusts the ground to answer. In Phi the word carries planting's hope, never violence: what is scattered is given somewhere to grow.",
-  "sound_symbolism": "It opens on 'thi', the seed-syllable of 'thinoe', then spreads through 'we' to wide-open 'ra' — sowing audible inside scattering, which is the word's whole argument.",
-  "grammatical_notes": "Verb: 'telo thinoe thiwera.' (The farmer scatters seed.) 'sileta keru thiwera.' (The sun scatters light.) From the Babel text: 'muila phea lo thinoe lo miona to thiwera.' (The earth scattered the peoples like seeds.) Contrast 'thophe' (sow), placement into prepared ground.",
-  "pillars": {
-    "solarpunk-values": "Broadcast is the sowing of abundance and of letting go: seed spent generously on ground you do not control. Regeneration begins with a scattering.",
-    "pre-industrial-wisdom": "The oldest planting there is — the sower's arc across the field, seed flung by hand, the gesture every grain culture knows."
-  },
+  "search_terms": [
+    "disperse",
+    "broadcast"
+  ],
+  "description": "Distribute separate things over an area or send them in several directions. Seed, loose material, light, or a group leaving one place can be scattered. 'thophe' (sow) is planting; 'welura' (spread) can extend one material or pattern, while 'thiwera' keeps multiple items or paths in view.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth for unvoiced 'th' and let the breath pass into high-front 'i'. Round the lips and lift the back of the tongue for 'w', then open into stressed middle-height front 'e'. Tap the tongue tip at the alveolar ridge for 'r' and release into open central 'a'.",
+  "sound_symbolism": "The stressed middle syllable pulls away from the narrow dental opening, and the final 'ra' opens farther. That audible widening suits movement into several directions. Its resemblance to 'thinoe' (seed) is a felt association, not a derivation.",
+  "usage_notes": "The scattered thing is the object in a transitive clause; a group can also scatter intransitively. The Babel transmutation deliberately activates the sowing image by comparing people to seeds. Ordinary 'thiwera' does not promise that dispersal is welcome or that anything will grow.",
+  "examples": [
+    {
+      "phi": "telo thinoe thiwera.",
+      "translation": "The farmer scatters seed."
+    },
+    {
+      "phi": "sileta keru thiwera.",
+      "translation": "The sun scatters light."
+    }
+  ],
   "semantic_domains": {
-    "activity": "The sower's outward arc",
-    "nature": "Seed flung wide"
+    "activity": "deliberate distribution of separate things over an area",
+    "nature": "seed, light, or organisms dispersed through a living place",
+    "spatial": "separate items or paths moving out from one place"
   }
 }
