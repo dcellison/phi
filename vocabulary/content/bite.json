@@ -8,16 +8,22 @@
     "te"
   ],
   "pos": "verb",
-  "concept": "Bite / Close the Teeth On",
-  "description": "To bite: into the fruit, through the thread, the dog that doesn't. Teeth ('kulai') closing on something. Food-first, like all of Phi's edge-words.",
-  "sound_symbolism": "'ki' sharp, 'wa' the thing met, 'te' the teeth closing — the event in order.",
-  "grammatical_notes": "Transitive: 'mia lureko kiwate.' (I bite the fruit.) Reassurance: 'nolika ma kiwate.' (The animal doesn't bite.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "The mindful eater's first instruction is to notice the bite itself — the verb marks where attention meets appetite.",
-    "pre-industrial-wisdom": "The first test of food, rope, and coin alike was the bite — the mouth as the body's original instrument of judgment."
-  },
+  "search_terms": [
+    "bite into",
+    "close teeth on"
+  ],
+  "description": "A child may 'kiwate' an apple, and a dog may bite a toy and let go. 'kiwate' ends at the teeth's grip or mark; 'kati' (cut) says material is divided, while 'nuola' (eat) says food is taken in.",
+  "articulatory_notes": "Raise the back of the tongue to the soft palate for unvoiced 'k' and release into high-front 'i'. Round the lips for voiced 'w', then open into stressed central 'a'. Place the tongue tip against the backs of the upper teeth for dental 't', release it, and finish with middle-height front 'e'.",
+  "sound_symbolism": "Velar 'k' and dental 't' place two clean stops around broad stressed 'wa'. The mouth opens between contacts and closes farther forward, a compact physical mnemonic for teeth meeting something.",
+  "usage_notes": "The bitten person or thing stands before 'kiwate', and its event noun is a bite. The word reports tooth contact; any consequence needs its own clause.",
+  "examples": [
+    {
+      "phi": "mia lureko kiwate.",
+      "translation": "I bite the fruit."
+    }
+  ],
   "semantic_domains": {
-    "activity": "Eating's first act",
-    "physical": "Teeth closing on"
+    "activity": "teeth closing on or into a person or thing",
+    "physical": "tooth contact strong enough to grip or mark"
   }
 }

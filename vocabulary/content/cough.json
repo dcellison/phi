@@ -8,14 +8,21 @@
     "ta"
   ],
   "pos": "verb",
-  "concept": "Cough / Clear the Throat and Chest",
-  "description": "To cough: the body clearing its own airways. Winter's soundtrack, the healer's clue.",
-  "sound_symbolism": "'ke' the catch in the throat, 'ho' the breath gathering, 'ta' the burst that clears it — the event in three beats.",
-  "grammatical_notes": "Intransitive: 'shia sui shero to kehota.' (They coughed in the night.) The tender's report: 'lopia kehota. shia mokela po nai.' (The child coughs. They may be sick.)",
-  "pillars": {
-    "pre-industrial-wisdom": "Listening to the household's coughs was the family's nightly triage — care begins in the ear."
-  },
+  "search_terms": [
+    "coughing",
+    "cough reflex"
+  ],
+  "description": "During a cold, or after water goes the wrong way, someone may 'kehota'. A sudden forceful burst of air leaves the lungs, often involuntarily. It may clear an airway, but the cough itself does not identify its cause.",
+  "articulatory_notes": "Raise the back of the tongue to the soft palate for unvoiced 'k' and release into middle-height front 'e'. Let unvoiced air pass through the open throat for 'h', then round the lips for stressed middle-height back 'o'. Place the tongue tip against the backs of the upper teeth for dental 't', release it, and finish with central 'a'.",
+  "sound_symbolism": "Velar 'k' and dental 't' bracket a middle syllable made on open breath. The brief closures and unvoiced 'h' give the form a catch-and-release contour that can recall a cough without imitating it.",
+  "usage_notes": "'kehota' is normally intransitive, and its event noun is a cough. Medical 'phamori' (symptom) can classify a reported cough, while its onset, frequency, sound, and cause remain separate observations.",
+  "examples": [
+    {
+      "phi": "mia to kehota.",
+      "translation": "I coughed."
+    }
+  ],
   "semantic_domains": {
-    "physical": "The airway's clearing burst"
+    "physical": "a forceful expulsion of air from the lungs"
   }
 }

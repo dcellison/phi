@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (224)
+## activity (226)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -40,7 +40,7 @@
 | `kiranu` | qualified | eligibility for a stated role or activity |
 | `kisome` | assess | evaluating a performance, state, or result |
 | `kithawu` | triage | assessing and ordering care under constraints |
-| `kiwate` | bite | Eating's first act |
+| `kiwate` | bite | teeth closing on or into a person or thing |
 | `koema` | enter | crossing inward into a bounded place or activity |
 | `koewi` | input | something entering and participating in a process |
 | `kolua` | carry | supporting a person or thing throughout movement |
@@ -69,7 +69,7 @@
 | `meliho` | sing | fundamental human activity of singing |
 | `menai` | dedicate | setting work, effort, or self apart for a person or purpose |
 | `menui` | dwell | inhabiting a place as an ongoing abode or usual setting |
-| `milau` | drink | fundamental human activity of drinking |
+| `milau` | drink | taking liquid into the body as a drink |
 | `misharo` | consult | seeking a view before a pending action |
 | `molawi` | cooperate | adjusting separate actions so they work compatibly |
 | `morume` | decompose | biological or chemical breakdown of material |
@@ -86,7 +86,7 @@
 | `naweri` | refuse | declining participation, an offer, or a proposed course |
 | `nephoru` | treat | care intended to alter a health condition or course |
 | `nilaki` | inspect | systematic examination of condition against criteria |
-| `noluha` | swallow | Eating's completion |
+| `noluha` | swallow | carrying material from the mouth through the throat |
 | `nomira` | collect | selecting and accumulating physical items over one or more acts |
 | `noporu` | design | specifying an intended artifact, system, or intervention |
 | `noraku` | blocked | a work state stopped by an obstacle |
@@ -95,7 +95,7 @@
 | `nuawe` | together | an action carried out jointly by more than one participant |
 | `nukesa` | expert | deeply practised capacity within a stated domain |
 | `numike` | negotiate | working through changeable terms towards a possible arrangement |
-| `nuola` | eat | fundamental human activity of eating |
+| `nuola` | eat | taking food into the body as eating |
 | `nurome` | meal | an occasion of eating |
 | `palo` | touch | the act of making contact with a person or thing |
 | `palowe` | shoe | The walker's equipment |
@@ -133,7 +133,7 @@
 | `pokera` | competent | present ability to perform a stated activity to its criterion |
 | `poru` | productive | work or a process that reaches useful or intended results |
 | `poruli` | efficient | a relation between resources used and useful performance |
-| `puse` | spit | The palate's veto |
+| `puse` | spit | expelling material from the mouth |
 | `pushali` | overload | demand exceeding the capacity needed to continue an action |
 | `ralemi` | independent | an action directed by the person carrying it out |
 | `ralu` | free | an available action left open rather than closed by constraint |
@@ -230,7 +230,9 @@
 | `wheparu` | discriminate | category-shaped treatment producing disadvantage |
 | `whepelo` | retaliate | imposing a disadvantage in response to a stated prior action |
 | `wheraku` | erode | detachment and movement of earth or rock |
+| `whesu` | blow | a person or device sending a stream of air |
 | `whetuma` | appeal | requesting formal reconsideration of a prior matter |
+| `whunei` | breathe | breathing as a continuing bodily act |
 | `wile` | play | fundamental human activity of playing |
 | `winora` | plan | organizing intended actions and the conditions around them |
 | `wiresu` | postpone | moving a planned action to a later time |
@@ -1256,7 +1258,7 @@
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 | `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
-## nature (226)
+## nature (228)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1328,7 +1330,7 @@
 | `meluri` | climate | long-duration patterns of weather across a region |
 | `menui` | dwell | habitation by organisms in an environment |
 | `menuro` | habitat | the place and conditions in which a living group dwells |
-| `milau` | drink | participation in water cycle and natural systems |
+| `milau` | drink | living organisms taking liquid from available water sources |
 | `milura` | milk | The first nourishment |
 | `mirulo` | berry | The bramble's small yield |
 | `misheko` | cat | The self-possessed animal |
@@ -1367,6 +1369,7 @@
 | `norawhi` | dusk | Light's recession |
 | `nowhu` | cave | Underground hollow |
 | `nunoa` | forager | Wild harvesting |
+| `nuola` | eat | feeding relations among living organisms |
 | `nuora` | food | the gifts of earth that nourish us |
 | `nuphari` | fog | Dense ground-level cloud |
 | `panoru` | support | relations that allow organisms or ecological processes to continue |
@@ -1476,7 +1479,8 @@
 | `whekelu` | magic | The world's unforced transforming |
 | `whelina` | grass | Ground-covering plant |
 | `wheraku` | erode | a geomorphic process driven by water, wind, ice, gravity, organisms, or people |
-| `whesu` | blow | The motion of wind and air |
+| `whesu` | blow | wind and atmospheric air moving through an environment |
+| `whunei` | breathe | respiration among living organisms in their surrounding medium |
 | `wirae` | spring (season) | Growth beginning |
 | `wiralu` | runoff | water moving across land or built surfaces |
 | `wiru` | basket | Natural materials |
@@ -1522,7 +1526,7 @@
 | `katiru` | knife | The kitchen and workbench tool |
 | `kawepa` | catch | The hand closing on arrival |
 | `kaworu` | injury | a health-relevant bodily change or damage |
-| `kehota` | cough | The airway's clearing burst |
+| `kehota` | cough | a forceful expulsion of air from the lungs |
 | `keloa` | rough | an uneven or coarse surface that catches against touch or motion |
 | `kema` | strong | force exerted or withstood by bodies and materials |
 | `kenua` | energy | Power capacity |
@@ -1535,7 +1539,7 @@
 | `kirato` | lock | a device released by a matching key or method |
 | `kirowi` | signal | a signal requires a detectable material or symbolic form |
 | `kishu` | thirsty | the need for water or another drink as felt in the body |
-| `kiwate` | bite | Teeth closing on |
+| `kiwate` | bite | tooth contact strong enough to grip or mark |
 | `koewi` | input | matter or energy crossing into a selected system |
 | `kohura` | noise | sound heard as irregular, indistinct, or interfering in context |
 | `kolu` | steady | motion or pressure that varies little while continuing |
@@ -1589,7 +1593,7 @@
 | `meipa` | seat | Made for sitting |
 | `menoa` | face | The front of the head bearing features |
 | `mikasu` | dose | an amount intended or delivered to a body |
-| `milau` | drink | bodily act of receiving liquid |
+| `milau` | drink | oral intake of liquid |
 | `milura` | milk | The drink before all others |
 | `mirae` | eye | the organ of sight |
 | `mirela` | state | the term can describe measurable material and operational conditions |
@@ -1616,7 +1620,7 @@
 | `mulu` | low | limited height in an object or structure |
 | `munari` | sediment | loose mineral, organic, or mixed particles |
 | `muneki` | latrine | a fixture or place receiving bodily waste |
-| `mupelo` | vomit | The stomach's refusal |
+| `mupelo` | vomit | forceful expulsion of stomach contents through the mouth |
 | `muphera` | stock | a situated collection of tangible items |
 | `muphia` | mud | The soft give underfoot |
 | `muralo` | material | physical matter described through composition, condition, and movement |
@@ -1635,7 +1639,7 @@
 | `nila` | see | perception through sight |
 | `nira` | cord | Flexible connection |
 | `nolue` | neck | Connecting passage between head and body |
-| `noluha` | swallow | The throat's downward act |
+| `noluha` | swallow | the muscular movement that begins passage into the digestive tract |
 | `nomiki` | concentration | an amount of matter, organisms, or another agent per stated medium |
 | `nomira` | collect | bringing tangible objects into an accumulating group |
 | `nophae` | nose | Central facial feature and breath channel |
@@ -1646,7 +1650,7 @@
 | `nulae` | sleep | recurring bodily state of sleep |
 | `nulomi` | guts | The belly's inner workings |
 | `numea` | nestle | The settling into warmth |
-| `nuola` | eat | the bodily act of taking nourishment |
+| `nuola` | eat | oral intake of food |
 | `nuora` | food | what sustains bodily life |
 | `nurawi` | chronic | persistence or recurrence in a bodily health condition |
 | `nurome` | meal | a bounded preparation of food |
@@ -1710,7 +1714,7 @@
 | `pukeri` | damage | adverse change to the condition or function of a tangible thing |
 | `puko` | bitter | a bitter gustatory quality distinct from acidity |
 | `puro` | strength | Power capacity |
-| `puse` | spit | The mouth's expulsion |
+| `puse` | spit | an outward movement of material through the lips |
 | `pushali` | overload | bodily burden produced by excessive input or demand |
 | `raelu` | tall | height from base to top in a person or upright structure |
 | `ralu` | free | an object released from fastening or confinement |
@@ -1833,12 +1837,12 @@
 | `whemaki` | allergy | an immune-mediated bodily response to an agent |
 | `whemori` | waste | material or energy lacking further intended use in its present relation |
 | `wheraku` | erode | transport of soil, sediment, or rock from a surface |
-| `whesu` | blow | Moving air with breath or weather |
+| `whesu` | blow | directed motion of air |
 | `whila` | hair | Fine body covering that grows and flows |
 | `whilaru` | comb | Teeth that untangle |
 | `whinu` | smell | olfactory perception through the nose |
 | `whoa` | whole | an object or body whose relevant parts are present and joined |
-| `whunei` | breathe | Air cycle sustaining life |
+| `whunei` | breathe | respiration through exchange with the surrounding medium |
 | `wilemo` | toy | The crafted companion |
 | `wipha` | restless | recurrent movement or an urge to move |
 | `wiralu` | runoff | a mobile body of surface water that may carry material |
@@ -1874,7 +1878,7 @@
 | `whoa` | whole | all relevant parts included in the total under discussion |
 | `wi` | two | the exact quantity two and the coefficient two in ternary numerals |
 
-## ritual (34)
+## ritual (33)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1891,7 +1895,6 @@
 | `menai` | dedicate | dedication expressed through a repeated or ceremonial practice |
 | `nelu` | revere | Honoring practice |
 | `nuhemi` | grieve | The practice and season of mourning |
-| `nuola` | eat | the mindful practice of receiving food |
 | `pharuki` | celebrate | Marking significant moments |
 | `phemi` | guest | involves sacred obligations and ceremonial protocols of welcome |
 | `phemila` | host | carries sacred responsibility and ceremonial welcome protocols |
@@ -1911,7 +1914,7 @@
 | `thorea` | ceremony | performs prescribed actions in sacred structured space |
 | `thula` | spring | Sacred gift-place |
 | `thunepa` | sacred place | Place of reverence |
-| `whunei` | breathe | Central to meditation practice |
+| `whunei` | breathe | breath used as an observable object in meditation practice |
 
 ## spatial (153)
 

@@ -8,17 +8,23 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Eat / Nourish-Receive / The Taking-In",
-  "description": "The verb naming the act of receiving nourishment into the body, the transformation of outer world into inner sustenance. In Phi, eating is understood as a sacred exchange between self and world—we become what we consume, and what we consume becomes us. This word carries awareness of the gift of nourishment and the responsibility of mindful consumption.",
-  "sound_symbolism": "The word opens with 'nu', where the nasal grounds in bodily presence while 'u' creates the cupping, receiving shape of mouth and belly. This opens through 'o', the round fullness of satisfaction, before settling into 'la', where the liquid flows nourishment throughout the body. The arc traces eating's essence: grounded receiving, fullness, distribution.",
-  "grammatical_notes": "Functions as a verb taking an object of what is eaten: 'mia nuora nuola' (I eat food). Can be used with focus on the quality of eating (mindful, hurried, grateful). Often appears in contexts of ritual, gathering, and care.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Mindful eating is meditation practice. 'Nuola' invites awareness of each bite, each taste, each moment of nourishment.",
-    "pre-industrial-wisdom": "Eating was understood as connection to land, season, and community. 'Nuola' honors food as gift rather than commodity."
-  },
+  "search_terms": [
+    "have a meal",
+    "take food"
+  ],
+  "description": "A child eating soup and a deer cropping leaves both 'nuola'. The verb covers taking food into the body through the mouth as an eating event. 'lumera' (nourish) concerns what sustains growth or health, which a meal may or may not accomplish.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and continue into rounded high-back 'u'. Give stressed middle-height back rounded 'o' its own syllable. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and finish with central 'a'.",
+  "sound_symbolism": "'nuola' shares its opening 'nu.o' with 'nuora' (food), while lateral 'l' turns the final syllable away from food's tap. The audible kinship makes eating and food easy to remember as neighbours without making either form a derivation.",
+  "usage_notes": "Food normally stands before 'nuola', though context can supply it. A meal may include soup or milk, so eating and drinking can describe the same occasion from different angles. The event noun supplies an act or period of eating rather than the food itself.",
+  "examples": [
+    {
+      "phi": "lopia sulopa nuola.",
+      "translation": "The child eats soup."
+    }
+  ],
   "semantic_domains": {
-    "activity": "fundamental human activity of eating",
-    "physical": "the bodily act of taking nourishment",
-    "ritual": "the mindful practice of receiving food"
+    "activity": "taking food into the body as eating",
+    "nature": "feeding relations among living organisms",
+    "physical": "oral intake of food"
   }
 }

@@ -7,16 +7,26 @@
     "su"
   ],
   "pos": "verb",
-  "concept": "Blow / Move as Air / Stream of Breath or Wind",
-  "description": "The action of moving air: wind blowing across the land, breath blown to cool tea or coax a fire. The verb the air family was missing — 'haowu' (air), 'howeli' (wind), 'whunei' (breathe) name the substances; 'whesu' is what they do.",
-  "sound_symbolism": "The voiceless 'whe' IS the sound of blowing — air shaped by lips without voice, the word performing its own meaning. The soft 'su' is the stream continuing past. Say 'whesu' aloud and you have already done the thing it names.",
-  "grammatical_notes": "Intransitive with wind as subject: 'howeli ru kema whesu' (the wind blows very strong). With breath, directed by 'wei': 'mia wei thero whesu' (I blow on the fire). The North Wind fable places it under comparison: 'howeli mo kema to whesu.' (The wind blew more strongly.)",
+  "search_terms": [
+    "move air",
+    "blow on"
+  ],
+  "description": "Wind through a window and breath across hot tea both 'whesu': air moves in a directed stream, or a source sends it. 'whunei' (breathe) is respiration, even when no air is deliberately blown towards anything.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for unvoiced 'wh', letting air pass without vocal-fold vibration, then move into stressed middle-height front 'e'. Bring the tongue close to the alveolar ridge for unvoiced 's', keep the air moving, and finish with rounded high-back 'u'.",
+  "sound_symbolism": "The entire word can be spoken on a stream of unvoiced air: rounded 'wh' opens it and 's' keeps friction audible after the first vowel, an unusually direct mnemonic for moving air.",
+  "usage_notes": "Wind or air may be the subject of 'whesu'. A person can give blown breath a direction with 'wea', as in 'wea thero whesu' (blow towards the fire). Manner and degree remain separate from the motion itself.",
+  "examples": [
+    {
+      "phi": "howeli mo kema to whesu.",
+      "translation": "The wind blew more strongly."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The breath blown out and gone: the most available teacher of impermanence. The word for blowing is the meditation object in motion.",
-    "pre-industrial-wisdom": "Breath on embers, wind read for weather, air moved by bellows — the working knowledge of moving air in a world without machines."
+    "pre-industrial-wisdom": "Breath on embers and bellows at a forge use the same physical relation: air is sent where heat needs it."
   },
   "semantic_domains": {
-    "nature": "The motion of wind and air",
-    "physical": "Moving air with breath or weather"
+    "activity": "a person or device sending a stream of air",
+    "nature": "wind and atmospheric air moving through an environment",
+    "physical": "directed motion of air"
   }
 }

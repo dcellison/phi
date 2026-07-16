@@ -53,6 +53,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Basic motion, endpoints, and staying | **DONE** | Nine inherited base verbs now use the target prose contract. Motion, path, deictic approach, departure, arrival, boundary crossing, return, and continued presence remain separate without adding a root. |
 | Manner, trajectory, and extended movement | **DONE** | Thirteen inherited base verbs now separate gait, medium, trajectory, orientation, and route structure. The coverage scan found no missing root among the neighbouring everyday motions. |
 | Posture, rest, waiting, and residence | **DONE** | Nine inherited base verbs now use the target prose contract. Bodily posture, recovery, sleep, expectation, continued residence, and the beginning of residence remain distinct without adding a root. |
+| Breath, intake, and expulsion | **DONE** | Nine inherited base verbs now use the target prose contract. Respiration, directed air, eating, drinking, tooth contact, swallowing, coughing, spitting, and vomiting remain distinct. Nausea enters the review queue. |
 | Resume inherited content prose migration | **NEXT** | Continue with another inherited base noun or verb neighbourhood under the same coverage gate. |
 
 ## Batch overview
@@ -91,6 +92,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Basic motion, endpoints, and staying | [PR #389](https://github.com/dcellison/phi/pull/389) | **COVERED** | Nine base verbs separate motion itself, travel along a path, deictic approach, bounded departure and arrival, interior crossing, return, and continued presence. Start, stop, reach, approach, recession, and passage already use established grammar and relators. |
 | Manner, trajectory, and extended movement | [PR #390](https://github.com/dcellison/phi/pull/390) | **COVERED** | Thirteen base verbs separate bodily gait, vertical course, rotation, buoyancy, flow, extended travel, and an unsettled route. Crawling, sinking, sliding, rolling, drifting, and riding remain transparent compositions. |
 | Posture, rest, waiting, and residence | [PR #391](https://github.com/dcellison/phi/pull/391) | **COVERED** | Nine base verbs separate bodily position, rest, sleep, waking, waiting, dwelling, and settlement. Lower or supported postures, brief sleep, temporary residence, and dispute resolution remain transparent compositions. |
+| Breath, intake, and expulsion | PR pending | **REVIEW** | Nine base verbs keep the main bodily routes apart. Chewing, digestion, breath manner, choking, and passive regurgitation compose naturally; nausea remains a distinct subjective state worth testing for direct vocabulary. |
 
 ## Semantic batches and stable domains
 
@@ -132,6 +134,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Basic motion, endpoints, and staying | `activity`, `physical`, `spatial`, `temporal` | Motion itself, a route through space, orientation towards a reference point, bounded arrival or departure, interior crossing, return, and persistence through time remain separate claims. |
 | Manner, trajectory, and extended movement | `activity`, `cognition`, `nature`, `physical`, `spatial`, `temporal` | Bodily support, movement through a medium, vertical course, rotation, continuous current, route planning, and mental wandering remain separate claims. |
 | Posture, rest, waiting, and residence | `activity`, `cognition`, `community`, `nature`, `physical`, `spatial`, `temporal` | Bodily position, recovery, waking awareness, an expected later event, and continuing habitation remain separate claims. |
+| Breath, intake, and expulsion | `activity`, `nature`, `physical`, `ritual` | Respiration, directed airflow, feeding, drinking, oral movement, and health-relevant expulsions remain separate claims. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -779,6 +782,25 @@ At the end of a long meeting, one person remains seated while another stands at 
 
 No root is added. The nine migrated verbs cover the ordinary field, and inchoative `pa` already handles the common posture changes. The pass also removes two inherited assumptions: `menui` no longer makes ecological reciprocity part of residence, and `soki` no longer resolves a dispute merely because English uses the same word for both acts.
 
+## Breath, intake, and expulsion
+
+A child eats soup while a cat drinks from a bowl that was not, strictly speaking, offered. At the next table, a hurried swallow becomes a cough, and wind moves through the open window. Phi keeps the routes separate because breath, food, liquid, and stomach contents do not travel in quite the same way.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Breathing, breath, and blowing | Base `whunei` (breathe), event-noun breath, `whesu` (blow), `haowu` (air), and `howeli` (wind) | **COVERED** | Breathing is respiration, while blowing follows air moving in a directed stream. The same `whesu` relation can describe wind or breath without turning every breath into a deliberate outward act. |
+| Inhaling, exhaling, sighing, gasping, and panting | Base `whunei`, direction, duration, rate, repetition, and ability | **COMPOSITIONAL** | Inhalation and exhalation select phases of a breath. A long breath already supplies a sigh in the corpus, while rate, repetition, and present ability preserve the facts behind panting or gasping. |
+| Eating, drinking, and swallowing | Base `nuola` (eat), `milau` (drink), and `noluha` (swallow) | **COVERED** | Eating treats something as food in an eating event, drinking selects liquid intake, and swallowing follows one passage through the throat. Soup or milk may belong to both an eating occasion and a drinking act without collapsing the verbs. |
+| Biting, chewing, grinding, and cutting | Base `kiwate` (bite), `kuremi` (grind), `kulai` (tooth), `kati` (cut), repetition, and instrumental `roe` | **COMPOSITIONAL** | A bite is one closure of teeth on a person or thing. Teeth can be the instrument of `kuremi`, and repetition supplies the continuing action of chewing; cutting remains the separate result of divided material. |
+| Digestion, processing, and nourishment | Base `teru` (process), `kumoe` (stomach), `nuora` (food), and `lumera` (nourish), with Medical source terms where needed | **COMPOSITIONAL** | Digestion is the body's processing of food, while nourishment concerns the food's sustaining effect. Medical work names the relevant organ, disorder, test, or metabolic finding, and a source record keeps its exact classification. |
+| Coughing, choking, and airway obstruction | Base `kehota` (cough), `whunei`, `noluha`, possibility and negation, the obstructing material, and Medical findings | **COMPOSITIONAL** | A cough is its own forceful breath event. Choking can state whether breathing or swallowing has become impossible and what obstructs it, which is more useful in an urgent account than a broad label alone. |
+| Spitting, vomiting, and regurgitation | Base `puse` (spit), `mupelo` (vomit), the material's source, and its path | **COVERED** | Spitting begins with material in the mouth, while vomiting forcefully brings stomach contents through it. Passive return or regurgitation can state the source and movement without broadening either verb. |
+| Hunger, appetite, fullness, thirst, and intake | Base `kumoli` (hungry), `kishu` (thirsty), `rinu` (want), `henoi` (ENOUGH), `nuola`, and `milau` | **COMPOSITIONAL** | Hunger and thirst report bodily need. Appetite can be a wish to eat without hunger, and fullness can report that intake is enough; neither requires another state root. |
+| Nausea and vomiting | Base `mokela` (sick), `phaelo` (feel), potential `mupelo`, and Medical `phamori` (symptom) | **REVIEW** | Nausea is a present subjective state rather than vomiting or a diagnosis. Phi can describe feeling as though vomiting may occur, but the recurring self-report is cumbersome enough to test for a direct base or Medical word. |
+| Sneezing, hiccups, and belching | Breath, air, bodily source, repetition, and Medical or source-level description | **DEFERRED** | These are distinct observable events, but no active Phi passage currently needs one. A connected care or household scenario should decide whether any deserves a root instead of guessing from an English inventory. |
+
+No root is added. Each inherited verb now says what moves and where the act begins, while ordinary composition carries the neighbouring distinctions. Nausea stays visible because a person should not need to claim that they are sick or already vomiting merely to report the feeling beforehand.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -819,4 +841,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete, and the inherited base migration has now carried ordinary motion into posture, rest, waiting, and residence. The preceding verb neighbourhoods run from speech and cognition through social action and material circulation. Another 494 inherited base entries remain: 350 nouns and 144 verbs. Module batches remain paused. The next work package will select another coherent base noun or verb neighbourhood under the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, sustained interest or engagement, and neutral retraction remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete, and the inherited base migration has now carried ordinary motion into posture and onward through breath, intake, and expulsion. The preceding verb neighbourhoods run from speech and cognition through social action and material circulation. Another 485 inherited base entries remain: 350 nouns and 135 verbs. Module batches remain paused. The next work package will select another coherent base noun or verb neighbourhood under the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, sustained interest or engagement, neutral retraction, and nausea remain recorded review questions rather than hidden gaps.

@@ -8,18 +8,26 @@
     "u"
   ],
   "pos": "verb",
-  "concept": "Drink / Receive Liquid / Take In Water",
-  "description": "The verb of liquid receiving, naming the act of taking fluid nourishment into the body. In Phi, drinking is reframed as receiving rather than consuming—the body accepting what water offers, participating in the endless cycle where clouds become rivers become bodies become breath become clouds again. Every drink is communion with the planet's circulatory system, gratitude for what flows. This word honors both simple thirst-quenching and the mindful practice of receiving life's most essential gift.",
-  "sound_symbolism": "The word opens with 'mi', where the labial nasal 'm' creates the sound of lips meeting liquid—the most intimate consonant, mouth closing around what sustains. The focused 'i' directs the intake inward. This flows through 'la', where the liquid 'l' carries water's nature—smooth, continuous, life-giving—meeting open 'a' in release and flow. The final standalone 'u' settles deep, the rounded vowel of satisfaction and fullness, thirst quenched in the body's depths. The arc traces drinking: lips meeting water, flowing inward, settling deep.",
-  "grammatical_notes": "Functions as a transitive verb with the object before the verb: 'mia phialu milau' (I drink water). Can be used intransitively when context is clear. Often paired with specific beverages or qualified by manner and appreciation.",
+  "search_terms": [
+    "take a drink",
+    "drink liquid"
+  ],
+  "description": "With a cup or beside a stream, a person may 'milau'. Liquid enters the body through the mouth as a drink, whether or not it answers thirst. 'nuola' (eat) can present milk or soup as part of a meal, while 'milau' selects the act of drinking it.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the sound through the nose, and move into high-front 'i'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and open into stressed central 'a'. Give final rounded high-back 'u' its own syllable rather than gliding from 'a'.",
+  "sound_symbolism": "The lips meet at the beginning, then lateral 'l' opens into the 'a.u' hiatus without another consonant between its vowels. That unbroken move from open to rounded can recall a drink passing after its first contact at the lips.",
+  "usage_notes": "The liquid normally stands before 'milau', and context may leave it unstated. One drink or drinking event follows from the event-noun rule. What the drink does to the body depends on the liquid and the circumstances.",
+  "examples": [
+    {
+      "phi": "misheko phialu milau.",
+      "translation": "The cat drinks water."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Clean water access is fundamental to resilient communities. 'Milau' grounds discussions of water justice in the simple act of receiving what the earth provides.",
-    "secular-buddhist-philosophy": "Mindful drinking is meditation—feeling water touch lips, flow down throat, spread through body. 'Milau' supports this practice of presence in the most basic life-sustaining act.",
-    "pre-industrial-wisdom": "Traditional cultures revered water as sacred—blessing springs, honoring wells, understanding water as life itself. 'Milau' preserves this awareness that drinking connects us to water's journey through earth and sky and body."
+    "solarpunk-values": "A shared water system succeeds only when its water is safe for a person to drink. 'milau' connects the infrastructure claim to that bodily test."
   },
   "semantic_domains": {
-    "activity": "fundamental human activity of drinking",
-    "nature": "participation in water cycle and natural systems",
-    "physical": "bodily act of receiving liquid"
+    "activity": "taking liquid into the body as a drink",
+    "nature": "living organisms taking liquid from available water sources",
+    "physical": "oral intake of liquid"
   }
 }
