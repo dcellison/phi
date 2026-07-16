@@ -92,7 +92,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Basic motion, endpoints, and staying | [PR #389](https://github.com/dcellison/phi/pull/389) | **COVERED** | Nine base verbs separate motion itself, travel along a path, deictic approach, bounded departure and arrival, interior crossing, return, and continued presence. Start, stop, reach, approach, recession, and passage already use established grammar and relators. |
 | Manner, trajectory, and extended movement | [PR #390](https://github.com/dcellison/phi/pull/390) | **COVERED** | Thirteen base verbs separate bodily gait, vertical course, rotation, buoyancy, flow, extended travel, and an unsettled route. Crawling, sinking, sliding, rolling, drifting, and riding remain transparent compositions. |
 | Posture, rest, waiting, and residence | [PR #391](https://github.com/dcellison/phi/pull/391) | **COVERED** | Nine base verbs separate bodily position, rest, sleep, waking, waiting, dwelling, and settlement. Lower or supported postures, brief sleep, temporary residence, and dispute resolution remain transparent compositions. |
-| Breath, intake, and expulsion | PR pending | **REVIEW** | Nine base verbs keep the main bodily routes apart. Chewing, digestion, breath manner, choking, and passive regurgitation compose naturally; nausea remains a distinct subjective state worth testing for direct vocabulary. |
+| Breath, intake, and expulsion | [PR #392](https://github.com/dcellison/phi/pull/392) | **REVIEW** | Nine base verbs keep the main bodily routes apart. Chewing, digestion, breath manner, choking, and passive regurgitation compose naturally; nausea remains a distinct subjective state worth testing for direct vocabulary. |
 
 ## Semantic batches and stable domains
 
