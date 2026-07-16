@@ -8,16 +8,25 @@
     "mu"
   ],
   "pos": "verb",
-  "concept": "Understand / Comprehend / Grasp Meaning",
-  "description": "To grasp the meaning, significance, or nature of something—to move from confusion to clarity, from outside to inside a concept. 'Shelomu' names the moment when scattered information coheres into comprehension, when what was opaque becomes transparent. It is knowing that includes relationship, not mere data acquisition.",
-  "sound_symbolism": "The word unfolds gradually, as understanding itself does. 'She' /ʃe/ begins softly, approaching gently. Then 'lo' flows as the mind reaches toward meaning, and 'mu' turns inward with nasal depth, integrating new knowledge until it coheres with what is already known.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia thena shelomu.' (I understand the thing.) Clausal complements take the 'mena … meno' frame. Distinct from 'sano' (know), which implies established knowledge; shelomu emphasizes the process of coming to understand.",
+  "search_terms": [
+    "comprehend",
+    "grasp meaning"
+  ],
+  "description": "A learner may repeat every step of a method and still not 'shelomu' why it works. Understanding grasps the meaning or relation that connects those steps. 'sano' (know) reports the stored instructions or long familiarity with them.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for voiceless 'sh' and pass air through the narrow channel into true-mid front 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l' and shape stressed rounded true-mid back 'o'. Close the lips for voiced nasal 'm', carry the voice through the nose, and finish with high-back rounded 'u'.",
+  "usage_notes": "'shelomu' takes the material understood as a direct object. A proposition instead uses 'mena ... meno', and an embedded content question keeps its interrogative word. In noun position, 'shelomu' is understanding.",
+  "examples": [
+    {
+      "phi": "mia thena shelomu.",
+      "translation": "I understand the thing."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Right understanding (samma ditthi) is the first factor of the eightfold path. True comprehension sees things as they are, including impermanence and interdependence.",
-    "peace-linguistics-practices": "Understanding precedes peaceful resolution. To understand another's perspective—not just hear it—is the foundation of dialogue."
+    "secular-buddhist-philosophy": "Experience provides a test for understanding; a collection of correct phrases does not.",
+    "peace-linguistics-practices": "Understanding another person's account and agreeing with it are separate acts. 'shelomu' reports the first."
   },
   "semantic_domains": {
-    "cognition": "Grasping meaning and significance",
-    "communication": "Foundation for genuine communication"
+    "cognition": "meaning or relation grasped among facts, parts, or events",
+    "communication": "comprehension of another person's words or account"
   }
 }

@@ -8,16 +8,25 @@
     "mu"
   ],
   "pos": "verb",
-  "concept": "Remember / Recall / Bring to Mind",
-  "description": "To bring past experience or knowledge back into present awareness—reaching into memory and retrieving what was stored. 'Halemu' implies the active work of recollection, the mind traveling backward to gather what time has moved away from immediate access.",
-  "sound_symbolism": "The word begins with 'ha', the lightest consonant breathing like the faint trace of the past. The open 'a' reaches back into time. Then 'le' lifts with liquid motion, memory rising from depths. Finally 'mu' brings into mind with nasal resonance, the remembered thing now present.",
-  "grammatical_notes": "'mia thena halemu.' (I remember something.) Clausal objects take the 'mena … meno' frame. The event-noun rule yields the recalled experience itself or the faculty of remembrance: 'mia halemu' (my memory), 'welao halemu' (a good memory), 'lo halemu' (memories).",
+  "search_terms": [
+    "recall",
+    "memory"
+  ],
+  "description": "A name returning halfway through a conversation and a childhood event that never quite left are both work for 'halemu'. The verb covers something from the past remaining in or returning to present memory. 'miratu' (recognize) begins with something encountered now and connects it to prior knowledge; remembering may also begin from within, before anything new is encountered.",
+  "articulatory_notes": "Let unvoiced air pass freely through the open glottis for 'h', then shape open central 'a'. Touch the tongue tip to the alveolar ridge for lateral 'l' and release into stressed true-mid front 'e'. Close the lips for voiced nasal 'm', carry the voice through the nose, and finish with high-back rounded 'u'.",
+  "usage_notes": "Remembered content is a direct object; a proposition fits within 'mena ... meno'. Causative 'ka halemu' means that someone or something brings the memory back. In noun position, 'halemu' is remembering or a memory.",
+  "examples": [
+    {
+      "phi": "mia thena halemu.",
+      "translation": "I remember something."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Mindfulness includes remembering to be present—the recollection that returns us to awareness when we've wandered.",
-    "pre-industrial-wisdom": "Memory carries ancestors forward—their knowledge, their stories, their ways. To remember is to honor those who came before."
+    "secular-buddhist-philosophy": "Returning attention to a chosen practice depends on remembering the intention after the mind wanders.",
+    "pre-industrial-wisdom": "An unwritten route or story survives when people remember and retell it."
   },
   "semantic_domains": {
-    "cognition": "Retrieval of past experience",
-    "temporal": "Connecting present to past"
+    "cognition": "past experience or knowledge retained in or returned to present memory",
+    "temporal": "a cognitive relation that links something past with the present"
   }
 }

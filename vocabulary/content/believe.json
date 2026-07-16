@@ -8,16 +8,24 @@
     "ro"
   ],
   "pos": "verb",
-  "concept": "Believe / Hold as True / Trust in Understanding",
-  "description": "To hold something as true or trustworthy, to place confidence in an understanding or a person. 'Nohero' names the inner stance of trust—not blind faith but the settled sense that something can be relied upon, whether knowledge, person, or possibility.",
-  "sound_symbolism": "The word grounds belief in the body. 'No' begins with nasal steadiness, the self settling. Then 'he' breathes with open aspiration, space made for trust. Finally 'ro' rolls with warm certainty, belief held securely.",
-  "grammatical_notes": "'mia thena nohero.' (I believe something.) Clause complements use the 'mena … meno' frame: 'mia mena thia so shua meno nohero.' (I believe that you will come.) Can express trust in persons: 'mia thia nohero.' (I believe in you.) The noun sense (a belief) comes by the event-noun rule, possessor first: 'mia nohero' (my belief), 'lo nohero' (beliefs). Related to 'shelomu' (understand) and 'themui' (faith); shelomu is comprehension, nohero is holding as true.",
+  "search_terms": [
+    "belief",
+    "hold as true"
+  ],
+  "description": "When someone takes a proposition to be true, Phi uses 'nohero'. An evidential identifies witness, inference, report, or assumption as the belief's source. English 'I believe you' divides by meaning: 'nohero' accepts what the person said; 'theomi' (trust) describes reliance on the person.",
+  "articulatory_notes": "Place the tongue tip against the back of the upper teeth for dental 'n', carry the voice through the nose, and release into rounded true-mid back 'o'. Let unvoiced air pass freely through the open glottis for 'h', then shape stressed true-mid front 'e'. Tap or briefly trill the tongue at the alveolar ridge and finish with rounded true-mid back 'o'.",
+  "usage_notes": "'nohero' takes a proposition directly or receives it through 'mena ... meno'. Evidentials mark the speaker's claimed route to the belief. In noun position, 'nohero' is a belief; 'themui' (faith) is sustained confidence in a person or unfolding process.",
+  "examples": [
+    {
+      "phi": "mia mena thia so shua meno nohero.",
+      "translation": "I believe that you will come."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Belief examined becomes wisdom—we hold views provisionally, testing them against experience rather than grasping them absolutely.",
-    "peace-linguistics-practices": "Expressing belief without absolute certainty creates space for dialogue—'I believe' rather than 'it is' invites conversation."
+    "secular-buddhist-philosophy": "A person can state a held view with 'nohero' and later revise it when evidence changes. The grammar makes no identity claim.",
+    "peace-linguistics-practices": "Marking a proposition as something the speaker believes gives another participant room to question its support and leaves the speaker's experience intact."
   },
   "semantic_domains": {
-    "cognition": "Holding something as true",
-    "communication": "Expressing conviction with openness"
+    "cognition": "a proposition held to be true"
   }
 }
