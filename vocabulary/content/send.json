@@ -7,17 +7,22 @@
     "pho"
   ],
   "pos": "verb",
-  "concept": "Send / Dispatch / Cause to Travel to a Recipient",
-  "description": "To send: a letter, a gift, word ahead of one's arrival. Causing a thing to travel where one does not go oneself. Completes the transfer verbs: 'loa' (give, in presence), 'sepho' (give, at distance), 'howela' (receive), 'toloi' (messenger).",
-  "sound_symbolism": "'se' releases outward with a hiss of motion, 'pho' is the breath-push of dispatch — letting a thing go with direction.",
-  "grammatical_notes": "With recipient: 'mia wei melu shelu sepho.' (I send a book to my friend.) Word itself: 'shia wei sila nophi to sepho.' (They sent word to the community.)",
-  "pillars": {
-    "solarpunk-values": "A future of distributed communities runs on things well sent: seed stock, knowledge, help dispatched where it is needed.",
-    "pre-industrial-wisdom": "The sent thing carried the sender's trust across distance — messenger, letter, and gift were the village's long arms."
-  },
+  "search_terms": [
+    "dispatch"
+  ],
+  "description": "The writer stays home while a letter leaves the village in a messenger's bag. 'sepho' causes someone or something, including a message, to travel towards a recipient or destination. The sender need not make the journey; 'thola' (bring) normally follows the bearer towards the reference point.",
+  "articulatory_notes": "Bring the tongue near the alveolar ridge and pass unvoiced air through a narrow central channel for 's', then spread the lips for stressed middle-height front 'e'. Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then round them for middle-height back 'o'.",
+  "usage_notes": "Whoever or whatever is sent is the direct object. A recipient takes dative 'wei', while a physical destination can take allative 'kau'. The event-noun rule supplies sending or a dispatch. 'loa' (give) centres what a recipient is given, and module 'sekaru' (transfer) tracks movement between technical or ecological points.",
+  "examples": [
+    {
+      "phi": "mia wei shelu melu sepho.",
+      "translation": "I send a book to a friend."
+    }
+  ],
   "semantic_domains": {
-    "activity": "Dispatch and correspondence",
-    "community": "Transfer across distance",
-    "spatial": "Caused travel toward a recipient"
+    "activity": "causing someone or something to travel away towards a destination",
+    "communication": "sending a message, letter, or other communicative object",
+    "physical": "dispatching a material object for transport",
+    "spatial": "caused movement from the sender towards a recipient or place"
   }
 }

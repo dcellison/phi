@@ -8,18 +8,30 @@
     "i"
   ],
   "pos": "verb",
-  "concept": "Portion / Distribute / Divide (Mathematical)",
-  "description": "The verb of portioning a whole among recipients or groups, and Phi's word for arithmetic division. The metaphor makes distribution and its consequences visible rather than presenting division only as abstract splitting. In arithmetic, 'phanoi' identifies a quotient and, when necessary, a remainder. Equal numerical portions do not by themselves establish that a distribution is fair, sufficient, consensual, or responsive to different needs.",
-  "sound_symbolism": "The word begins with 'pha', where the bilabial fricative 'ɸ' suggests an abstract operation and echoes 'phoi' (nine-group). The open 'a' suggests space receiving what is distributed. The nasal 'n' in 'no' grounds the movement, while 'o' evokes the whole from which portions come. The final 'i' marks the quotient coming into focus. Three syllables give the operation a distinct audible shape without claiming that pronunciation makes the distribution fair or the calculation mindful.",
-  "grammatical_notes": "Functions as a verb taking two quantitative arguments: the total and the number of recipients or groups. In arithmetic, mandatory 'nela' separates them: '[total] nela [recipients or groups] phanoi. [quotient] kelai.' Example: 'ta phoi nela ta shao phanoi. ta shao kelai.' (Nine portions among three. Three results for each.) When nouns or classifiers are stated, the total names what is portioned, the second operand may name recipients or groups, and the quotient inherits the total's kind. State any integer remainder separately. Phi has no fractional numeral syntax; use source material when an exact fractional quotient is required. Can be nominalized.",
+  "search_terms": [
+    "divide",
+    "distribute"
+  ],
+  "description": "Bread is cut and passed around the table in pieces. 'phanoi' divides a total into portions associated with recipients or groups; everyday portions may differ. In arithmetic it is division, where the calculation gives a quotient and may leave a remainder.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then open into central 'a'. Place the tongue tip against the backs of the upper front teeth for voiced dental 'n', let air pass through the nose, and round the lips for stressed middle-height back 'o'. Keep the final vowel separate as the lips unround and the tongue moves forward into high-front 'i'.",
+  "usage_notes": "In ordinary use, the portioned whole is the direct object and recipients can take dative 'wei'. The event-noun rule supplies portioning or a portioning event. Arithmetic uses '[total] nela [number of groups] phanoi' followed by a result clause with 'kelai'; an integer remainder receives its own statement. Commons 'phanuli' (allocate) assigns resources or burdens under a collective criterion rather than merely dividing a total.",
+  "examples": [
+    {
+      "phi": "phao wei lo lopia napa phanoi.",
+      "translation": "The parent portions bread among the children."
+    },
+    {
+      "phi": "ta phoi nela ta shao phanoi. ta shao kelai.",
+      "translation": "Nine divided by three equals three."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Resource distribution lies at the heart of sustainable futures. 'Phanoi' keeps the recipients and resulting portions available for scrutiny, while judgments about sufficiency, waste, and need must be stated and negotiated separately.",
-    "secular-buddhist-philosophy": "The portioning metaphor can support attention to each recipient and to the consequences of distribution. Equal arithmetic shares are not identical to equanimity, equal respect, or care.",
-    "peace-linguistics-practices": "By framing division as portioning, 'phanoi' keeps the ethical question of distribution visible. It does not embed equity into arithmetic or guarantee that equal portions produce justice.",
-    "pre-industrial-wisdom": "Communities have carefully portioned meals, harvests, and the fruits of shared labor. 'Phanoi' can evoke that practical knowledge while leaving the fairness of any particular allocation open to examination."
+    "solarpunk-values": "A table can receive equal pieces while people's needs differ. 'phanoi' exposes the portions and recipients. Fairness remains a separate judgement expressed with 'thua' (fair)."
   },
   "semantic_domains": {
-    "cognition": "Names arithmetic division through a portioning metaphor",
-    "community": "Relates a total to recipients or groups without asserting fairness"
+    "activity": "dividing a whole into portions for recipients or uses",
+    "cognition": "carrying arithmetic division through a stated operation and result",
+    "community": "portioning shared food, materials, or other resources among participants",
+    "quantity": "relating a total to a number of groups and the resulting quotient"
   }
 }

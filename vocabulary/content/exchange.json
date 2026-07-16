@@ -8,16 +8,31 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Exchange / An Open Breath",
-  "description": "To give and receive in dynamic, reciprocal flow; the movement creates relationship and value. It is the breath of a community's economic and social life.",
-  "sound_symbolism": "The word carries the reciprocal pronoun 'wiso' (each other) inside it: 'wi' and 'so' are the two parties of every exchange, already bound into a single word for mutuality. The final 'la' sets that reciprocity flowing—the liquid 'l' streaming into open 'a' as the gift moves on. The alternating consonants (w-s-l) weave like hands passing goods back and forth, while the vowel journey from focused 'i' through rounded 'o' to open 'a' widens steadily outward: from the one, to the pair, to the open circle of the community. To speak 'wisola' is to set 'each other' in motion.",
-  "grammatical_notes": "Often takes the reciprocal pronoun 'wiso' to emphasize mutual exchange: 'lo mia wiso wisola' (we exchange with each other). The comitative preposition 'nua' (with) marks the exchange partner: 'mia nua thia wisola' (I exchange with you). Often appears with an object indicating what is exchanged: 'lo mia nophi wisola' (we exchange stories), 'lo mia naphe wisola' (we exchange help). The event-noun rule covers 'thua wisola' (fair exchange), the act or the system.",
+  "search_terms": [
+    "swap",
+    "trade"
+  ],
+  "description": "At the market, eggs go one way and honey returns the other. 'wisola' is an exchange in which participants each give and receive something within the understood arrangement. It does not promise equal amounts or a fair bargain.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then move forward and unround into high-front 'i'. Bring the tongue near the alveolar ridge and pass unvoiced air through a narrow central channel for 's', then round the lips for stressed middle-height back 'o'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and finish with open central 'a'.",
+  "sound_symbolism": "Reciprocal 'wiso' (each other) occupies the first two syllables intact. Final 'la' carries that compact form into one more open syllable, an easy mnemonic for exchange moving between participants.",
+  "usage_notes": "A plural subject can exchange, and reciprocal 'wiso' makes action towards one another explicit. A partner can take comitative 'nua', while the exchanged material or activity is the direct object. The event-noun rule supplies an exchange. 'loa' (give) may name one direction within it, and 'phowe' (share) concerns use with others rather than paired transfer.",
+  "examples": [
+    {
+      "phi": "lo mia wiso wisola.",
+      "translation": "We exchange with each other."
+    },
+    {
+      "phi": "lo mia nophi wisola.",
+      "translation": "We exchange stories."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Exchange in solarpunk vision moves beyond market transaction to regenerative circulation - sharing economies, tool libraries, seed swaps, and skill shares that multiply abundance through distribution. This practice recognizes that many forms of wealth grow rather than diminish when exchanged.",
-    "peace-linguistics-practices": "Exchange as reciprocal flow creates conditions for peace by establishing interdependence and shared investment in each other's wellbeing. When we exchange rather than take, we acknowledge the other as equal partner in creating value, preventing the violence of exploitation and building relationships based on mutual benefit.",
-    "pre-industrial-wisdom": "Exchange in traditional societies operates through gift economies and reciprocal relationships that build social bonds rather than accumulate individual wealth. This wisdom understands that true abundance comes from circulation, not hoarding - that gifts create obligations that weave communities together in webs of mutual support."
+    "solarpunk-values": "Seed swaps and tool exchanges can circulate useful things without a price. 'wisola' still leaves the participants free to judge whether the arrangement met their needs."
   },
   "semantic_domains": {
-    "community": "weaves relationships through reciprocal giving and receiving"
+    "activity": "participants giving and receiving within one reciprocal arrangement",
+    "communication": "exchanging stories, knowledge, or other communicative material",
+    "community": "reciprocal transfer among people or groups",
+    "physical": "exchanging material objects or substances"
   }
 }

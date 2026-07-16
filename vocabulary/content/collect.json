@@ -8,16 +8,25 @@
     "ra"
   ],
   "pos": "verb",
-  "concept": "Collect / Gather Objects / Accumulate Things",
-  "description": "To bring together and accumulate objects, specimens, or items over time. 'Nomira' names the deliberate gathering of physical things—whether foraging finds, curated objects, or resources assembled for purpose. Unlike sholei (mathematical gathering), nomira emphasizes tangible accumulation.",
-  "sound_symbolism": "The word draws inward like collecting itself. 'No' begins with nasal inwardness, reaching toward what will be gathered. Then 'mi' brings with careful handling, each item selected. Finally 'ra' stores with flowing continuity, the collection growing.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia lo thena nomira.' (I collect things.) Can specify what is collected: 'mia lo kerou nomira.' (I collect stones.) Distinct from sholei (gather, also mathematical addition) and muraki (harvest); nomira implies selective, ongoing accumulation.",
+  "search_terms": [
+    "gather objects",
+    "accumulate"
+  ],
+  "description": "After rain, a child picks up smooth stones one by one and places them in a basket. 'nomira' collects selected physical items into an accumulating group, often across more than one act. 'sholei' (gather) brings things or quantities together in one combination; 'nomira' follows the collection as it grows.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper front teeth for voiced dental 'n', let air pass through the nose, and round the lips for middle-height back 'o'. Close the lips for voiced 'm', keep the airflow nasal, and release into stressed high-front 'i'. Make a tap or short trill with the tongue tip for 'r', then finish with open central 'a'.",
+  "usage_notes": "The collected objects or specimens are the direct object, and the event-noun rule supplies collecting. 'muraki' (harvest) gathers a mature crop, while 'phelure' (store) arranges something for later retrieval. Module 'muphera' (stock) names items already held for future use, and 'sitawi' (inventory) names their record.",
+  "examples": [
+    {
+      "phi": "mia lo kerou nomira.",
+      "translation": "I collect stones."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Mindful collecting attends to what is truly needed versus what is grasped from craving. The collector asks: does this serve?",
-    "pre-industrial-wisdom": "Foraging and collecting sustained communities—knowledge of what to gather, when, and where was survival wisdom passed through generations."
+    "pre-industrial-wisdom": "Collecting food or useful material asks for knowledge of place and season. 'nomira' names the repeated gathering without deciding that every accumulation was needed."
   },
   "semantic_domains": {
-    "physical": "Gathering tangible objects",
-    "wisdom": "Selective accumulation over time"
+    "activity": "selecting and accumulating physical items over one or more acts",
+    "nature": "collecting specimens or useful material from a living or physical setting",
+    "physical": "bringing tangible objects into an accumulating group"
   }
 }

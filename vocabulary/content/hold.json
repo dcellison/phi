@@ -7,19 +7,30 @@
     "lu"
   ],
   "pos": "verb",
-  "concept": "Hold / Have / Keep Near",
-  "description": "To keep something in one's grasp with steady, gentle pressure, neither crushing nor releasing. Holding in Phi is stewardship rather than ownership: one keeps a thing safe and near for its purpose, whether an object, a space held for others, or an idea held in mind. Extended to cover possession: in Phi, to have something is to hold it. 'mia wi themo wiru phelu' (I have two baskets). This deliberate merger reflects the language's view of ownership — what you have is only what you presently hold, kept near rather than abstractly owned. Replaces the retired verb 'tai', which sat one letter from 'nai' (be).",
-  "sound_symbolism": "The word begins with 'phe', where the voiceless bilabial fricative 'ph' creates a soft but present pressure - like the gentle firmness of fingers maintaining grasp, breath held steady in concentration. This fricative beginning captures both the delicacy and determination of holding. The 'e' that follows is mid-open, neither tense nor relaxed, representing the balanced state of sustained holding without strain. The second syllable 'lu' flows liquid and continuous, the 'l' suggesting the ongoing nature of holding while 'u' closes slightly, creating a sense of secure containment. Together, 'phelu' embodies the complete experience of holding - gentle pressure flowing into sustained support, creating a sound portrait of protective, continuous grasp.",
-  "grammatical_notes": "Functions as a transitive verb requiring a direct object - the thing being held ('mia [object] phelu' - I hold [object]). Word order follows Phi's SOV pattern. Describes the sustained action or state of maintaining grasp, distinguished from 'pilu' (take) which is acquisitive, and 'kolua' (carry) which involves transport. Can be used literally for physical holding or metaphorically for maintaining abstract concepts (holding thoughts, holding space). The continuous aspect is inherent in the verb's meaning - holding is always an ongoing action.",
+  "search_terms": [
+    "have",
+    "keep"
+  ],
+  "description": "Soup is ladled into a pot that a child holds steady. 'phelu' keeps something in present grasp, control, or possession; it can also hold a position or thought. Canon uses the same verb for have, while Commons 'phenori' (ownership) names a wider social claim that present holding cannot settle.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then spread them for stressed middle-height front 'e'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and raise the back of the tongue while rounding the lips for high-back 'u'.",
+  "usage_notes": "The held person, object, position, or thought is the direct object. Predicative possession also uses this verb: 'mia wi themo wiru phelu' means I have two baskets. The event-noun rule supplies holding. 'pilu' (take) begins control, 'kolua' (carry) adds movement, and 'phelure' (store) arranges retention for later retrieval.",
+  "examples": [
+    {
+      "phi": "lopia tomi phelu.",
+      "translation": "The child holds the pot."
+    },
+    {
+      "phi": "mia wi themo wiru phelu.",
+      "translation": "I have two baskets."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Holding teaches the middle way between grasping and letting go. We learn to maintain without attachment, to support without clinging. The sustained nature of holding becomes a meditation on presence - being fully with what we hold without needing to possess it permanently. This practice reveals that true security comes not from tight grasping but from patient, gentle support.",
-    "peace-linguistics-practices": "The word 'phelu' reframes holding as protective care rather than possessive control. It emphasizes the supportive, safeguarding aspect of holding - we hold to protect, to comfort, to prevent harm, not to dominate or restrict. This linguistic choice shapes how speakers conceptualize possession itself, moving from ownership models to stewardship models of relationship with objects and beings.",
-    "pre-industrial-wisdom": "Before mechanization, human hands were the primary tools for all work, and the skill of holding - maintaining grasp without fatigue, adjusting pressure for different materials, knowing when to hold firm and when to hold light - was essential knowledge. Traditional cultures understand holding as fundamental to human capability, from holding tools to holding babies to holding ceremony. This wisdom recognizes the hand's capacity for both strength and gentleness."
+    "solarpunk-values": "A commons can distinguish who currently holds a tool from who may use, allocate, or claim ownership of it. 'phelu' gives the first fact without settling the rest."
   },
   "semantic_domains": {
-    "community": "supporting others through holding space or providing stability",
-    "physical": "sustained bodily action of grasping and maintaining possession",
-    "temporal": "continuous action requiring patient presence over time",
-    "wisdom": "knowing how to maintain without clinging"
+    "activity": "maintaining a present grasp, control, or possession",
+    "cognition": "holding a thought, view, or other mental content",
+    "community": "holding a role, entitlement, or shared resource within a social relation",
+    "physical": "keeping a person or object in a sustained grasp"
   }
 }

@@ -8,17 +8,27 @@
     "a"
   ],
   "pos": "verb",
-  "concept": "Carry / Transport / Bear",
-  "description": "To support something while moving it from one place toward another. 'Kolua' covers bodies, objects, messages, and figurative burdens; it says how they move. 'Tumoa' (heavy) gives the weight, 'tupeka' (burden) gives the bearer's difficulty, and a separate power word tells whether the work was imposed.",
-  "sound_symbolism": "The back of the tongue closes for 'k' and releases into rounded 'o'. Stressed 'lu' lets the tongue flow while deep 'u' holds the sound low, then the final hiatus opens cleanly into 'a'. The mouth supports one continuous contour but must carry it across all three syllables.",
-  "grammatical_notes": "A transitive verb with the carried being or thing as object: 'mia tupeka kolua.' (I carry the burden.) Directional phrases may name the route or destination. 'Thola' (bring) includes movement toward a destination; 'kolua' attends to support during transport. The event-noun rule supplies carrying.",
+  "search_terms": [
+    "transport",
+    "bear"
+  ],
+  "description": "Water sloshes in the child's vessel all the way from the well to home. 'kolua' supports a person or thing while it moves through space. It says nothing about ownership or arrival; 'thola' (bring) adds orientation towards a reference destination.",
+  "articulatory_notes": "Raise the back of the tongue to the soft palate for unvoiced 'k', release it, and round the lips for middle-height back 'o'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, then raise the back of the tongue and round the lips for stressed high-back 'u'. Keep the final vowel separate as the lips unround and the tongue lowers into open central 'a'.",
+  "sound_symbolism": "Stressed 'lu' opens across a clear hiatus into final 'a' without a consonant breaking the motion. That sustained contour can recall a load carried across a stretch of ground.",
+  "usage_notes": "The carried person or thing is the direct object, and directional phrases can name source, route, or destination. The event-noun rule supplies carrying or transport. 'sepho' (send) causes a journey without requiring the sender's company, while 'thinu' (put) gives an object a resulting position.",
+  "examples": [
+    {
+      "phi": "lopia lue phitura kau womu phialu kolua.",
+      "translation": "The child carries water from the well to home."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "A neutral carrying verb does not rename imposed transport as service. The bearer, burden, purpose, and surrounding power can each receive their own clause.",
-    "pre-industrial-wisdom": "Carrying craft joined trained posture to containers or harness. Its skill mattered because bodies still bore the load."
+    "peace-linguistics-practices": "A neutral carrying verb does not rename imposed transport as service. The bearer, load, and surrounding power can each be stated plainly.",
+    "pre-industrial-wisdom": "Carrying well joins posture, pacing, and the right container or harness. Bodies did the work long before engines made it easy to overlook."
   },
   "semantic_domains": {
-    "activity": "supporting something through movement",
-    "physical": "bearing a body or object while moving",
+    "activity": "supporting a person or thing throughout movement",
+    "physical": "bearing a body, object, or substance while moving",
     "spatial": "transport through space under continuous support"
   }
 }

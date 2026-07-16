@@ -7,17 +7,26 @@
     "a"
   ],
   "pos": "verb",
-  "concept": "Give / Offer / Share",
-  "description": "To pass something from oneself to another: material gifts, help, knowledge, time, attention. 'Loa' is the general transfer verb of generosity; the recipient is marked with 'wei'. Its neighbors are 'howela' (receive), 'phowe' (share), and 'wisola' (exchange).",
-  "sound_symbolism": "The word begins with 'lo', where the liquid consonant 'l' flows like the gesture of offering - smooth, continuous, connecting giver to receiver without break. This flowing movement meets 'o', the round vowel of wholeness and completion, suggesting the fullness of what is offered. The hiatus between 'o' and 'a' creates a moment of release - the space where possession transforms into gift, where holding becomes letting go. The final 'a' opens completely, the most open vowel expressing total release and acceptance. The whole word flows like the act of giving itself: 'lo' extends the offering, the vowel sequence 'o.a' completes the transfer from fullness to openness. It sounds like water poured from vessel to vessel, unbroken flow.",
-  "grammatical_notes": "A transfer verb. The gift is the direct object; the recipient is marked with 'wei' (DAT), which precedes the object and verb: 'mia wei thia peloru loa.' (I give a flower to you.) Abstract giving: 'mia wei thia shea loa.' (I give peace to you.) Related: howela (receive), phowe (share), wisola (exchange), heloi (generous).",
+  "search_terms": [
+    "hand over"
+  ],
+  "description": "At the garden gate, one neighbour passes a basket of beans to another. 'loa' gives something to a recipient. The verb reaches physical objects as readily as help or light. 'phowe' (share) centres use with others, while 'loa' centres what the recipient is given and leaves motive or return open.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and round the lips for stressed middle-height back 'o'. Keep the voice continuous across the syllable boundary while the lips unround and the tongue lowers into open central 'a'. Finish that second vowel clearly; stopping after 'o' would leave the plural particle 'lo'.",
+  "sound_symbolism": "The voiced lateral begins without a stop, then rounded 'o' opens across a clear hiatus into broad 'a'. That small widening can recall a hand opening as something passes onward.",
+  "usage_notes": "The given item is the direct object, and its recipient takes dative 'wei'. The event-noun rule supplies an act of giving; 'loami' (gift) names something treated as a gift. A giving may form one side of 'wisola' (exchange) or place something into shared work without becoming 'shorema' (contribute).",
+  "examples": [
+    {
+      "phi": "mia wei thia peloru loa.",
+      "translation": "I give you a flower."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Giving embodies the gift economy principle where wealth circulates rather than accumulates. 'Loa' supports mutual aid networks and resource sharing, understanding that resilient communities are built on generosity. It carries the solarpunk vision of abundance through circulation, where everyone's needs are met through collective giving.",
-    "secular-buddhist-philosophy": "Giving embodies dāna, the first of the six perfections (paramitas) - generosity without attachment or expectation. True giving recognizes we are temporary custodians, not owners, practicing non-clinging through release. 'Loa' grammaticalizes the understanding that what we give freely enriches us more than what we grasp, that letting go is the path to abundance.",
-    "pre-industrial-wisdom": "Traditional cultures measure wealth by what one gives away - the potlatch, the gift circle, the understanding that generosity creates social wealth. 'Loa' preserves reciprocal economies where giving establishes relationships and maintains community bonds, where the gift carries the spirit of the giver."
+    "solarpunk-values": "Phi's gift economy can say who gave what to whom before anyone praises the arrangement. 'loa' works for seed passed freely between neighbours and for a transfer made under pressure.",
+    "secular-buddhist-philosophy": "Generosity begins when giving is freely chosen and unattached to return. 'loa' still reports the act when those conditions are absent, which keeps the practice visible rather than automatic."
   },
   "semantic_domains": {
-    "community": "creating bonds through sharing",
-    "physical": "transferring objects between people"
+    "activity": "directing something towards a recipient through an act of giving",
+    "community": "giving objects, help, or other resources to another person or group",
+    "physical": "passing a material object into another person's use or keeping"
   }
 }
