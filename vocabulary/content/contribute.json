@@ -8,16 +8,25 @@
     "ma"
   ],
   "pos": "verb",
-  "concept": "Contribute / Give to Shared Effort / Add to Common Good",
-  "description": "To give something—effort, resources, ideas—to a shared endeavor or common pool. 'Shorema' names the act of adding one's part to what is collectively built or held. It recognizes that communities flourish through many contributions, each gift strengthening the whole.",
-  "sound_symbolism": "The word moves outward like contribution itself. 'Sho' /ʃo/ shares with soft fricative, the offering beginning. Then 're' reaches toward the collective, gift extending. Finally 'ma' makes together with nasal warmth, individual contribution joining common good.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia thena shorema' (I contribute something). Can specify recipient with 'wei' (to): 'mia wei sila thena shorema.' (I contribute something to the community.) Related to 'loa' (give) but emphasizes collective purpose.",
+  "search_terms": [
+    "add to"
+  ],
+  "description": "One person brings timber to a repair day; another contributes an account of where the old joint failed. 'shorema' adds effort, material, words, or another usable part to a shared undertaking or pool. 'loa' (give) centres a recipient, while a contribution is understood through the larger work it enters.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar area and send unvoiced air through its central groove for 'sh', then round the lips around middle-height back 'o'. Make a tap or short trill with the tongue tip for 'r' and release into stressed middle-height front unrounded 'e'. Close the lips for voiced 'm', keep the airflow nasal, and finish with open central unrounded 'a'.",
+  "usage_notes": "The contributed effort, material, or words are the direct object, and the receiving undertaking or group takes dative 'wei'. The event-noun rule supplies a contribution. Contributing neither establishes membership nor decides what claim the contributor gains over the result.",
+  "examples": [
+    {
+      "phi": "mia shiroka riola so shorema.",
+      "translation": "I will contribute repair labour."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Contribution to commons builds resilient communities—each giving what they can, all benefiting from the whole.",
-    "secular-buddhist-philosophy": "Contributing practices generosity without attachment—the gift given freely, the giver not grasping for recognition."
+    "solarpunk-values": "A commons can record what each person contributed without measuring the person by the amount. That makes labour visible while leaving worth alone."
   },
   "semantic_domains": {
-    "community": "Adding to shared endeavors",
-    "creation": "Building collective goods"
+    "activity": "adding effort or another usable part to shared work",
+    "communication": "contributing words or information to a shared exchange",
+    "community": "adding something to a collective undertaking or pool",
+    "creation": "contributing material or work to a made result"
   }
 }

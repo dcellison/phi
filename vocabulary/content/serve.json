@@ -8,17 +8,24 @@
     "ma"
   ],
   "pos": "verb",
-  "concept": "Serve / To Give with Grounded Joy",
-  "description": "The act of contributing one's gifts and energy to the collective wellbeing with joy and purpose. It is the understanding that individual and collective thriving are inseparable, expressed through action.",
-  "sound_symbolism": "The giving breath of 'ph' initiates the act of service. The connecting 'lo' links giver to receiver in flowing exchange, while the grounding 'ma' ensures this service comes from a place of stability and truth. Together they create a word that feels like a well giving water - naturally, continuously, from a deep source of abundance.",
-  "grammatical_notes": "'mia sila pheloma.' (I serve the community.) The event-noun rule adds the noun, service. Related to 'naphe' (help), which answers a moment's need, where pheloma names sustained contribution.",
+  "search_terms": [
+    "provide service",
+    "work for"
+  ],
+  "description": "A keeper opens the tool library each morning so neighbours can use it. 'pheloma' is doing work for the use or benefit of a person, group, purpose, or continuing activity. Service may be freely chosen or imposed; the verb reports who the work is for rather than judging the arrangement.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then spread them for middle-height front 'e'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and round the lips for stressed middle-height back 'o'. Close the lips for voiced 'm', keep the airflow nasal, and finish with open central unrounded 'a'. Keep the initial airflow continuous: a full lip closure would produce the 'p' heard in 'peloma' (harmful).",
+  "usage_notes": "Whatever the work serves is the direct object. The event-noun rule supplies service. 'naphe' (help) assists a particular activity, while 'shorema' (contribute) adds something to shared work. A clause with 'phelona' (require) states that the service was required; 'kawhera' (coerce) names constrained choice.",
+  "examples": [
+    {
+      "phi": "mia sila pheloma.",
+      "translation": "I serve the community."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Service in solarpunk contexts means contributing skills and energy to regenerative systems - tool libraries, repair cafes, community gardens, mutual aid networks. This isn't charity but participation in abundance-creating structures where everyone both gives and receives according to ability and need. Service becomes joyful when it strengthens the whole.",
-    "secular-buddhist-philosophy": "Service as practice dissolves the illusion of separation between self and other - when we serve from wisdom rather than ego, the distinction between helper and helped disappears. This isn't self-sacrifice but recognition that individual liberation is inseparable from collective wellbeing. True service flows naturally from understanding interdependence."
+    "solarpunk-values": "A tool library is served by the people who open and repair it. The verb can name that work without turning service into a moral rank."
   },
   "semantic_domains": {
-    "community": "service is inherently about collective contribution",
-    "creation": "active contribution and building of systems",
-    "wisdom": "understanding interdependence and collective wellbeing"
+    "activity": "performing work for a stated recipient, purpose, or continuing activity",
+    "community": "service directed towards a person or group"
   }
 }

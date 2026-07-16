@@ -7,16 +7,25 @@
     "phe"
   ],
   "pos": "verb",
-  "concept": "Help / Assist / Aid",
-  "description": "To assist another in what they are doing or trying to do—adding your effort to theirs, making their task easier, enabling what they couldn't do alone. 'Naphe' is the fundamental verb of mutual aid, the recognition that together we can do more than separately.",
-  "sound_symbolism": "The word is grounded and gentle, like a hand extended. 'Na' begins with nasal presence, the nearness of someone who shows up, who is right there beside you. Then 'phe' breathes with soft action, effort given without force, assistance that flows rather than pushes. The word feels as natural as help should: close, warm, immediate.",
-  "grammatical_notes": "'mia thia naphe.' (I help you.) Imperative: 'no lumani naphe.' (Help the family.) The event-noun rule gives the noun sense: 'welao naphe' (good help). Broader than 'panoru' (support); naphe implies active assistance in specific tasks.",
+  "search_terms": [
+    "assist",
+    "aid"
+  ],
+  "description": "A neighbour steadies the ladder while someone repairs the roof. 'naphe' adds effort or another useful act to make a person's activity, a process, or a change easier to carry through. The verb reports assistance; whether it was wanted or effective belongs in the next sentence.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper front teeth for voiced dental 'n' and let air pass through the nose into stressed open central unrounded 'a'. Bring the lips close without sealing them for unvoiced 'ph', pass air through the gap, and finish with middle-height front unrounded 'e'.",
+  "sound_symbolism": "The Accessibility adjective 'naphelu' (assistive) preserves the whole sound of 'naphe' at its opening. The shared dental onset and breathy close make the two forms easy to recognise as audible kin.",
+  "usage_notes": "The helped person, activity, or process is the direct object. The event-noun rule supplies help or an act of help. 'panoru' (support) provides what something depends on to continue, while 'naphelu' (assistive) describes a tool or practice in a supporting role.",
+  "examples": [
+    {
+      "phi": "mia thia naphe.",
+      "translation": "I help you."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Mutual aid—helping each other without expectation of return—is foundational to resilient communities.",
-    "peace-linguistics-practices": "Offering help builds community and trust. Asking for help acknowledges interdependence. Both are honored."
+    "solarpunk-values": "Reciprocal 'wiso naphe' gives mutual aid an ordinary transparent form: people help one another. The grammar shows the people directly instead of turning aid into an institution by default."
   },
   "semantic_domains": {
-    "communication": "Fundamental exchange of mutual aid",
-    "community": "Assisting others"
+    "activity": "adding effort or action that makes something easier to carry through",
+    "community": "help directed towards another person or shared undertaking"
   }
 }

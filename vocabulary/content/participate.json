@@ -8,16 +8,24 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Participate / To Join the Flow",
-  "description": "To actively take part in an event, activity, or process, contributing one's energy and presence to the collective whole.",
-  "sound_symbolism": "The initial 'pa' marks the beginning of engagement, like stepping into a stream. The communal 'we' acknowledges that participation is inherently social, while the flowing 'la' suggests the ease of joining an ongoing current. Together they create a word that feels like merging with a river - maintaining individual presence while becoming part of something larger.",
-  "grammatical_notes": "'mia mua holia pawela.' (I take part in the festival.) Participation as a noun is licensed by the event-noun rule. Related to 'shorema' (contribute), which names what is given, where pawela names the joining itself.",
+  "search_terms": [
+    "take part",
+    "join in"
+  ],
+  "description": "At a meeting, someone listens to the discussion and takes part in the decision. 'pawela' is active involvement in an activity or unfolding process; being present nearby is not enough. A person can participate without agreeing with the outcome or adding a separate contribution.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release them into open central unrounded 'a'. Round the lips and raise the back of the tongue for voiced 'w', then move forward and unround into stressed middle-height 'e'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and finish with open central 'a'.",
+  "usage_notes": "The activity or process commonly appears in a locative phrase with 'mua'. The event-noun rule supplies participation. 'ruweli' (access) may end at reaching or using something, 'wemari' (member) is a recognised status, and 'shorema' (contribute) adds something to shared work.",
+  "examples": [
+    {
+      "phi": "mia mua lona pawela.",
+      "translation": "I participate in the meeting."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Participatory design and governance lie at the heart of solarpunk organizing - decisions made with those affected, not for them. This active engagement breaks the consumer mindset, transforming people from users to co-creators of their communities. Participation distributes both power and responsibility."
+    "solarpunk-values": "Participatory practice gives affected people a way to enter the work itself. The word still leaves open whether access was practical and whether anyone listened."
   },
   "semantic_domains": {
-    "communication": "engaging in collective processes and exchange",
-    "community": "participation is inherently social and collective",
-    "creation": "actively contributing implies co-creation"
+    "activity": "taking an active part in an event or process",
+    "community": "participating in shared work or collective decisions"
   }
 }

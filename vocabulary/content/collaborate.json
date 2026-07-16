@@ -8,17 +8,25 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Collaborate / To Share Mind-Path",
-  "description": "The practice of creating together through shared effort and mutual respect. It is the weaving of diverse strengths to produce something that no single individual could have conceived.",
-  "sound_symbolism": "The word opens with 'we', immediately establishing collective identity and shared purpose. This flows through the grounding 'no', where individual minds meet and align. The liquid 'la' carries this alignment forward into flowing action—work that moves like water finding its course. This three-syllable rhythm creates the very feeling of collaboration: separate streams joining, finding common ground, then flowing together with increased power. The alternation of vowels and consonants gives the word a balanced, harmonious quality that mirrors the give-and-take of working together.",
-  "grammatical_notes": "'lo mia wenola.' (We collaborate.) The event-noun rule supplies 'a collaboration' when one is needed. Related to 'molawi' (cooperate) and 'shorema' (contribute) but emphasizes creating something together rather than dividing labor.",
+  "search_terms": [
+    "work jointly",
+    "create together"
+  ],
+  "description": "A chair sits between two makers, who revise the design as each sees what the other has built. 'wenola' is joint work on one undertaking or result, with the participants shaping it together. 'molawi' (cooperate) can divide compatible work among people; collaborators alter the same undertaking.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then move forward and unround into middle-height 'e'. Place the tongue tip against the backs of the upper front teeth for voiced dental 'n' and let air pass through the nose into stressed middle-height back rounded 'o'. Touch the tongue tip to the alveolar ridge for voiced 'l' and finish with open central unrounded 'a'.",
+  "usage_notes": "A plural subject may collaborate without an object; a counterpart can take comitative 'nua', and the shared undertaking can be stated directly. The event-noun rule supplies collaboration. Joint authorship or shaping belongs to 'wenola', while technical order among dependent tasks belongs to 'wephari' (coordinate).",
+  "examples": [
+    {
+      "phi": "lo mia wenola.",
+      "translation": "We collaborate."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Collaboration embodies solarpunk's core belief that collective creativity and mutual aid can solve challenges that competition and isolation cannot. It represents the movement's commitment to open-source solutions, skill-sharing, and recognizing that regenerative futures emerge from weaving together diverse perspectives and abilities rather than from individual genius.",
-    "peace-linguistics-practices": "True collaboration transforms potential conflict into creative synergy by establishing shared goals and mutual investment in outcomes. The practice of collaborative communication - deep listening, building on others' ideas, finding synthesis - creates relationships where differences become resources rather than divisions. Peace emerges through co-creation."
+    "solarpunk-values": "Open designs and shared repairs can be collaborative when several people shape the result rather than merely complete assigned pieces. The word records that shared authorship."
   },
   "semantic_domains": {
-    "cognition": "aligns minds along shared paths of understanding",
-    "community": "weaves diverse strengths through collective effort",
-    "creation": "produces together what none could conceive alone"
+    "activity": "working jointly on one undertaking or result",
+    "community": "participants shaping shared work together",
+    "creation": "jointly making or revising a shared result"
   }
 }

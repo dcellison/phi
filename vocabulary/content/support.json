@@ -8,16 +8,32 @@
     "ru"
   ],
   "pos": "verb",
-  "concept": "Support / Uphold / Provide Foundation",
-  "description": "To hold up, back, or provide foundation for—whether physical support like a pillar, emotional support like presence during difficulty, or social support like advocacy for another's cause. 'Panoru' names the underlying strength that enables others to stand.",
-  "sound_symbolism": "The word provides a base like support itself. 'Pa' plants with bilabial firmness, foundation established. Then 'no' holds with nasal stability, the steady presence beneath. Finally 'ru' rises with what is supported, the structure standing because the base holds.",
-  "grammatical_notes": "'mia thia panoru.' (I support you.) The domain can be marked with a locative phrase: 'mia mua korua thia panoru.' (I support you in heart.) The event-noun rule supplies 'welao panoru' (good support). More foundational than 'naphe' (help); panoru implies ongoing underlying support rather than task-specific assistance.",
+  "search_terms": [
+    "uphold",
+    "back"
+  ],
+  "description": "A post supports a roof. Evidence may support a claim, and water supports life around a pond. 'panoru' provides what something depends on to stand or continue. 'naphe' (help) enters a particular activity as assistance; support can be the condition underneath it.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release them into open central unrounded 'a'. Place the tongue tip against the backs of the upper front teeth for voiced dental 'n' and let air pass through the nose into stressed middle-height back rounded 'o'. Make a tap or short trill with the tongue tip for 'r', then raise the back of the tongue and round the lips for high-back 'u'.",
+  "usage_notes": "Whatever receives support is the direct object. The event-noun rule supplies support. Evidence can support a claim without settling whether the claim is true or the inference sound.",
+  "examples": [
+    {
+      "phi": "ha thesori ha sherewa panoru.",
+      "translation": "This evidence supports this claim."
+    },
+    {
+      "phi": "mia thia panoru.",
+      "translation": "I support you."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The sangha (community) provides support for practice—we hold each other up. Interdependence means we all need support and can all provide it.",
-    "peace-linguistics-practices": "Supporting others honors their autonomy while providing what they need to stand. Good support empowers rather than creates dependence."
+    "solarpunk-values": "Shared infrastructure can be tested by what it actually supports. A system called public can still leave people or ecological relations without what they need.",
+    "secular-buddhist-philosophy": "Support makes interdependence practical: a person or practice continues through conditions that no act of will supplies alone."
   },
   "semantic_domains": {
-    "community": "Providing foundation for others",
-    "physical": "Holding up, bearing weight"
+    "activity": "providing what another activity or condition depends on",
+    "cognition": "evidence or reasoning that supports a claim",
+    "community": "practical or social support for people and groups",
+    "nature": "relations that allow organisms or ecological processes to continue",
+    "physical": "bearing weight or holding a structure in place"
   }
 }

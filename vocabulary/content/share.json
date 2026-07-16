@@ -7,16 +7,27 @@
     "we"
   ],
   "pos": "verb",
-  "concept": "Sharing / A Generative Offering to the Collective",
-  "description": "The act of making what is one's own available for the use and benefit of others. It is a foundational act of community building, based on abundance rather than scarcity.",
-  "sound_symbolism": "The breath of 'pho' releases rather than holds - that generous exhalation when hands open to give. This offering flows directly into 'we', acknowledging that sharing creates community, transforms 'mine' into 'ours'. The word teaches its own lesson: sharing happens when breath meets collective.",
-  "grammatical_notes": "'mia nua thia nuora phowe.' (I share food with you.) The event-noun rule supplies the noun: the sharing, or the portion shared as its result. Related to 'wisola' (exchange) and 'loa' (give).",
+  "search_terms": [
+    "use together",
+    "make available"
+  ],
+  "description": "A household places one pot on the table and everyone eats from it. 'phowe' makes a thing, resource, information, or activity available for use with others. Unlike 'loa' (give), sharing need not transfer the thing away from its holder.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then round them around stressed middle-height back 'o'. Keep the vowels in separate syllables as the lips and back of the tongue form voiced 'w', then move forward and unround into middle-height 'e'.",
+  "sound_symbolism": "The opening breath passes through nearly closed lips without stopping, then continues as a voiced glide into the second syllable. The two-syllable contour can feel like one current handed onward without a hard break.",
+  "usage_notes": "The shared thing is the direct object, and a partner takes comitative 'nua'. The event-noun rule supplies sharing. 'loa' (give) transfers towards a recipient, 'wisola' (exchange) pairs giving with receiving, and 'phanoi' (portion) names one allotted part.",
+  "examples": [
+    {
+      "phi": "lo mia nuora phowe.",
+      "translation": "We share food."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Sharing forms the economic foundation of solarpunk futures - from open-source designs to community land trusts to gift economies. This practice proves that abundance emerges not through hoarding but through circulation, that wealth shared multiplies rather than diminishes. Sharing transforms scarcity mindset into recognition of collective plenty."
+    "solarpunk-values": "Tools, food, knowledge, and designs can be shared beyond one holder. 'phowe' names the use with others; the surrounding account still says who can actually reach what is shared."
   },
   "semantic_domains": {
-    "communication": "sharing is exchange and reciprocity",
-    "community": "foundational act of community building",
-    "creation": "creates abundance through circulation"
+    "activity": "making something available for use with others",
+    "communication": "sharing information or expression with other people",
+    "community": "shared use of things, resources, or activities",
+    "physical": "making a material thing available to several users"
   }
 }
