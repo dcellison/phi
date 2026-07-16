@@ -8,15 +8,25 @@
     "o"
   ],
   "pos": "verb",
-  "concept": "Reflect / To Consider the Inner Whole",
-  "description": "The act of deep, quiet, and careful consideration of one's own inner state, thoughts, or experiences. It is a turning of the mind inward to understand the self.",
-  "sound_symbolism": "The contemplative 'the' establishes the slow breath needed for turning inward - reflection cannot be rushed. This careful attention meets 'mi', the intimate self usually hidden beneath daily noise. The encompassing 'o' completes the circuit, gathering all fragments of self into wholeness for examination. Three syllables mirror reflection's journey: pausing to breathe, meeting the self, embracing the whole - like still water finally clear enough to show what lies beneath.",
-  "grammatical_notes": "'mia si themio.' (I am reflecting.) Reflection, act or process, is the event noun, as Mandarin fǎnsī (反思) and Arabic ta'ammul (تأمل) also pair one form with both senses. Related to 'romishe' (contemplate).",
+  "search_terms": [
+    "think back",
+    "reconsider experience"
+  ],
+  "description": "After an argument, someone turns the exchange over and notices what they missed. With 'themio', they return in thought to something already experienced or considered. 'romishe' (contemplate) may linger over any subject; reflection begins with something already lived or held in mind.",
+  "articulatory_notes": "Rest the tongue tip against the upper teeth for unvoiced 'th' and let the air continue into true-mid front unrounded 'e'. Close the lips for voiced 'm', open the nasal passage, and release into stressed high-front unrounded 'i'. Draw the tongue back and round the lips for final true-mid back 'o', and keep it separate across the 'i.o' hiatus rather than inserting a glide.",
+  "usage_notes": "A stated object identifies the experience or subject under reflection; context may supply it instead. Imperfective 'si' presents reflection as still underway. Noun 'themio' means reflection or one reflective episode.",
+  "examples": [
+    {
+      "phi": "mia si themio.",
+      "translation": "I am reflecting."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Reflection as mindfulness practice involves observing the mind's patterns without judgment - watching thoughts and emotions arise and pass like clouds across sky. This contemplative awareness reveals how our habitual reactions create suffering, opening space for wiser responses. Through patient self-observation, we discover the impermanent nature of all mental states."
+    "secular-buddhist-philosophy": "Reflection returns to an experience after the first reaction has loosened. That distance can expose a habit that was hard to see while it was happening.",
+    "peace-linguistics-practices": "After a difficult exchange, 'themio' returns a speaker to what they said and what followed before they speak again."
   },
   "semantic_domains": {
-    "cognition": "mental process of examining thoughts and patterns",
-    "wisdom": "develops self-understanding and awareness"
+    "cognition": "returning in thought to experience or material already considered",
+    "wisdom": "reconsideration of experience before judgement settles"
   }
 }

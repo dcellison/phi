@@ -8,16 +8,24 @@
     "na"
   ],
   "pos": "verb",
-  "concept": "Meditate / Practice Focused Awareness / Cultivate Mind",
-  "description": "To engage in deliberate practice of focused awareness—sitting with attention anchored, watching the mind, cultivating stillness and insight. 'Phirena' names the disciplined practice that develops over time, not a single moment of calm but the ongoing work of training attention.",
-  "sound_symbolism": "The word begins with 'phi' /ɸi/, breath entering gently as practice begins with breathing. The 'i' focuses inward, narrow and precise. Then 're' reflects, awareness turning to observe itself. Finally 'na' settles with nasal grounding, the stable base of established practice.",
-  "grammatical_notes": "Functions as an intransitive verb: 'mia phirena.' (I meditate.) Habitual practice takes the aspect particle 'ro': 'mia ro phirena.' (I meditate regularly.) Can take temporal phrases: 'mia sui kelua phirena.' (I meditate during the morning.)",
+  "search_terms": [
+    "meditation practice",
+    "contemplative practice"
+  ],
+  "description": "Following the breath and walking in silence are both 'phirena'. The verb covers deliberate meditation practice across methods and postures. 'theonu' (attend) directs attention in any setting; 'romishe' (contemplate) considers a subject at length.",
+  "articulatory_notes": "Bring the lips close without sealing them for unvoiced 'ph'. Send air through the gap before high-front unrounded 'i'. Tap or briefly trill at the alveolar ridge, then enter stressed true-mid front unrounded 'e'. Set the tongue tip against the backs of the upper teeth for voiced dental 'n'; lower the velum for the nasal and open into central 'a'.",
+  "usage_notes": "The verb usually stands without an object. Surrounding phrases can give time, place, posture, or method. Regular practice takes habitual 'ro'. Noun 'phirena' means meditation or a meditation session. Exact names of traditions and techniques remain in source material when their identity matters.",
+  "examples": [
+    {
+      "phi": "mia ro phirena.",
+      "translation": "I meditate regularly."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Meditation is the core practice—training the mind through sustained attention, developing insight into the nature of experience.",
-    "peace-linguistics-practices": "Meditation cultivates the inner stillness from which peaceful speech arises. The practice precedes and enables right communication."
+    "secular-buddhist-philosophy": "A restless session is still 'phirena'. Calm and insight are possible results, not tests for whether the practice occurred."
   },
   "semantic_domains": {
-    "cognition": "Training and focusing attention",
-    "ritual": "Formal contemplative practice"
+    "cognition": "deliberate contemplative practice involving attention and awareness",
+    "ritual": "meditation practised as a repeated personal or shared observance"
   }
 }

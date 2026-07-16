@@ -7,16 +7,25 @@
     "ru"
   ],
   "pos": "verb",
-  "concept": "Intuit / Know Directly / Perceive Without Reasoning",
-  "description": "To know or understand without conscious reasoning; direct perception of truth. 'Hiru' names knowing that arrives whole—not built from pieces but received complete.",
-  "sound_symbolism": "The word knows directly. 'Hi' breathes with inner perception, knowing arising. 'Ru' runs with immediate flow, understanding arriving without steps.",
-  "grammatical_notes": "Functions as verb: 'mia hiru.' (I intuit.) Accesses 'sorai' (insight) directly. Related to 'morae' (sense) but bypasses sensation.",
+  "search_terms": [
+    "have a hunch",
+    "form an impression"
+  ],
+  "description": "A potter expects the clay to crack before they can name every cue. With 'hiru', a person reaches that judgement or expectation without consciously following the reasoning steps. 'kethira' (infer) derives a conclusion from premises; 'sano' (know) states knowledge. An intuition may be accurate or mistaken.",
+  "articulatory_notes": "Let unvoiced air pass through the open glottis for 'h' and continue into stressed high-front unrounded 'i'. Make 'r' with a tap or brief trill at the alveolar ridge. The word ends as the back of the tongue rises and the lips round for high-back 'u'.",
+  "sound_symbolism": "Open glottal breath moves quickly into stressed 'i', then a tongue tap or short trill releases into rounded 'u'. The brief change may recall an impression arriving before its reasons are laid out.",
+  "usage_notes": "An object or a proposition in 'mena ... meno' states the intuited content. The noun refers to one intuition considered as an event. 'thuni' (intuitive) supplies the corresponding quality.",
+  "examples": [
+    {
+      "phi": "mia mena shia so shua meno hiru.",
+      "translation": "I intuit that they will come."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Direct knowing—prajna that arises from practice, not intellectual analysis.",
-    "pre-industrial-wisdom": "Intuitive knowing—the wisdom that comes from deep experience, beyond words."
+    "secular-buddhist-philosophy": "An intuition may be noticed as a mental event before anyone treats it as knowledge. Evidence can then test what arrived."
   },
   "semantic_domains": {
-    "cognition": "Direct perception",
-    "wisdom": "Immediate knowing"
+    "cognition": "a judgement or expectation arising without consciously followed reasoning",
+    "wisdom": "immediate judgement that may draw on accumulated experience before explanation"
   }
 }

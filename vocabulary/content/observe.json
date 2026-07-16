@@ -8,15 +8,24 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Observe / To See with Mindful Presence",
-  "description": "The act of watching something carefully and with attention, noticing details and patterns without judgment. It is a mindful seeing that leads to insight.",
-  "sound_symbolism": "The clear 'so' brings the light of awareness to what is being observed. The personal 'me' acknowledges that observation is never purely objective but involves the observer's presence. The flowing 'la' allows perception to move naturally, following what emerges rather than forcing interpretation. This creates a word that embodies contemplative observation - clear, present, and flowing with what is.",
-  "grammatical_notes": "'mia pelori somela.' (I observe a bird.) An observation, act or result, is the event noun by rule; compare Mandarin guānchá (观察), one form for both uses.",
+  "search_terms": [
+    "watch",
+    "notice patterns"
+  ],
+  "description": "A bird leaving the nest and a repaired wheel turning under load invite the same verb: 'somela'. It adds deliberate attention to perceivable details or patterns. 'nila' (see) is visual perception; 'nilaki' (inspect) compares a condition with stated criteria. The observer's neutrality and conclusion belong to the surrounding account.",
+  "articulatory_notes": "For 's', hold the tongue blade close to the alveolar ridge and send unvoiced air down its central groove; round the lips for true-mid back 'o'. Seal the lips for voiced nasal 'm' while air leaves through the nose, then open into stressed true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l', pass the voice along its sides, and release into central 'a'.",
+  "usage_notes": "What is observed comes before the verb. Imperfective 'si' keeps the observation underway; habitual 'ro' marks a repeated practice instead. The same form is a noun for an observation or the act of observing. 'somethi' (monitor) adds repeated observation and records across time; 'nilaki' (inspect) adds examination against stated criteria.",
+  "examples": [
+    {
+      "phi": "mia pelori somela.",
+      "translation": "I observe a bird."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Observation as mindfulness practice means seeing clearly without the distortion of judgment or expectation. This witnessing awareness notices what arises - thoughts, sensations, phenomena - without grasping or rejecting. Through patient observation, we discover the patterns of change and interconnection that underlie all experience."
+    "secular-buddhist-philosophy": "With 'somela', a person may observe a sensation or thought as it changes. Interpretation need not come at once."
   },
   "semantic_domains": {
-    "cognition": "involves mental processing and focused awareness",
-    "wisdom": "leads to insight through mindful seeing"
+    "cognition": "deliberate perceptual attention to details, events, or patterns",
+    "physical": "sustained sensory observation of a material object or change"
   }
 }
