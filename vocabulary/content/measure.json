@@ -8,17 +8,28 @@
     "e"
   ],
   "pos": "verb",
-  "concept": "Measure / Determine Magnitude / Compare With a Standard",
-  "description": "To determine or compare a magnitude: cloth against an arm, a doorway against a table, flour by a bowl, or an instrument reading against a defined unit. 'Masue' names the act without deciding whether the method, sample, standard, precision, or interpretation is valid. Exact units, readings, uncertainty, methods, identifiers, and technical records remain source material outside the Phi passage when their form matters.",
-  "sound_symbolism": "'Ma' suggests laying one thing alongside another, while 'su' and the final separate 'e' settle into a comparison. The image recalls direct practical measurement but does not restrict the word to body-scaled or non-instrumental methods.",
-  "grammatical_notes": "Transitive: 'mia wetha masue.' (I measure the cloth.) Against a standard: 'shia sheo pelio wetha masue.' (They measure the cloth against an arm.) State or preserve the relevant unit, method, time, place, uncertainty, baseline, and source when they affect the claim. Use 'nela' between two explicit quantities compared with 'sharoi' or 'thenoi'. See 'documents/design/psychological_violence_of_measurement.md' for the design argument and evidence boundaries.",
+  "search_terms": [
+    "gauge",
+    "determine magnitude",
+    "compare with a standard"
+  ],
+  "description": "A carpenter measures a board against a marked cord; a clinician may measure temperature with an instrument. 'masue' determines a magnitude by comparison with a standard. 'tawi' (count) enumerates distinguishable members, while 'sharoi' (exceed) and 'thenoi' (falls-short) compare quantities already available.",
+  "articulatory_notes": "Close the lips for 'm' and allow voiced nasal resonance to continue as the jaw opens onto central 'a'. In stressed 'su', hold the tongue blade near the alveolar ridge, direct unvoiced air through its centre, and round the lips around high-back 'u'. To cross the hiatus, bring the tongue forward and unround into a separate middle-height front 'e'.",
+  "sound_symbolism": "The word begins broad in 'ma', draws tight through rounded 'su', and clears across the hiatus into final 'e'. Its contour resembles an extent brought to a marked standard.",
+  "usage_notes": "The thing measured precedes the verb, and a 'sheo' phrase can name the standard. Method, time, uncertainty, and provenance can remain in a nearby account when they affect how the result should be used. Exact units and technically formatted readings stay in their source notation when their form matters.",
+  "examples": [
+    {
+      "phi": "shia sheo pelio wetha masue.",
+      "translation": "They measure the cloth against an arm."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "A measurement should expose its standard, purpose, and consequences rather than disguising a judgment as a neutral number. 'Masue' remains available for both caring and coercive practices, which context must distinguish.",
-    "pre-industrial-wisdom": "The cubit, hand, pace, and bowlful show how practical measurement can relate directly to bodies, materials, and tasks. Modern instruments extend rather than erase the need to name standards and conditions."
+    "peace-linguistics-practices": "A measurement can be inspected as a relation among a thing, a standard, and a method instead of arriving as an unexplained rank.",
+    "pre-industrial-wisdom": "An arm, pace, cord, or bowl can provide a practical standard close to the work. Instruments extend that practice but do not remove the need to know the reference."
   },
   "semantic_domains": {
-    "activity": "Determining a magnitude for a stated purpose",
-    "cognition": "Comparison with an explicit or recoverable standard",
-    "physical": "Supports embodied and instrument-based measurement"
+    "activity": "gauging something against a standard for a practical purpose",
+    "physical": "determining a magnitude of a body, object, or material",
+    "quantity": "measurement that produces or compares a magnitude"
   }
 }

@@ -8,17 +8,26 @@
     "i"
   ],
   "pos": "verb",
-  "concept": "Falls Short / Less Than / Does Not Reach",
-  "description": "The verb of magnitude comparison announcing that one quantity does not reach another in amount. It states a quantitative relation without lexically saying that the smaller quantity is inadequate or worse. Context still determines the relevant measure, whether the quantities are comparable, and whether the comparison is being used responsibly. A comparison may state both quantities or leave a reference threshold recoverable from context.",
-  "sound_symbolism": "The word offers a mnemonic image of a gap. 'The' begins with a sustained dental fricative, and 'noi' closes the comparison with a distinct contour. The association can help recall the direction of the relation; it does not make a comparison honest, mindful, or free of value judgment.",
-  "grammatical_notes": "With two explicit quantitative arguments, the evaluated quantity comes first and mandatory 'nela' marks the boundary before the reference: '[quantity 1] nela [quantity 2] thenoi'. Example: 'ta shao nela ta phoi thenoi.' (Three falls short of nine / 3 < 9.) The reference may be omitted only when context supplies it, as in falling short of an already named criterion. Can be negated with 'ma' to express 'does not fall short' (greater than or equal). Real-world uses should name comparable quantities and state the measure or criterion when it is not obvious. Can be nominalized to discuss falling short or deficit. Questions use 'wa': 'wa wi shao nela ta shao thenoi.' (Does six fall short of three? / Is 6 < 3?)",
+  "search_terms": [
+    "less than",
+    "below threshold",
+    "deficit"
+  ],
+  "description": "When three cups are needed and only two are present, 'thenoi' describes the amount: it falls short of the reference. The verb compares explicit quantities or a recoverable threshold without calling the smaller amount defective. Adjectival comparisons use 'mo' with 'sheo' (than), while 'thenoi' belongs to Phi's quantitative construction.",
+  "articulatory_notes": "At 'the', place the tongue tip lightly against the upper teeth and let unvoiced breath pass into middle-height front 'e'. Stressed 'no' moves the tip behind the upper incisors for dental nasal voice while the lips round around middle-height back 'o'. Release that rounding across the hiatus and lift the tongue into a separate high-front 'i'.",
+  "sound_symbolism": "The stressed nasal holds its rounded vowel before the mouth releases into separate high-front 'i'. The late lift follows a longer rounded centre, an embodied reminder of an amount that stops below its reference.",
+  "usage_notes": "The amount being tested comes before mandatory 'nela', followed by its reference: '[tested amount] nela [reference amount] thenoi.' Context may supply a threshold stated earlier. With 'ma', the verb says that the tested amount reaches or exceeds the reference.",
+  "examples": [
+    {
+      "phi": "ta shao nela ta phoi thenoi.",
+      "translation": "Three falls short of nine."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Separating a magnitude relation from an evaluation can support observation without automatically labeling the smaller quantity deficient. Three is not necessarily inadequate because it does not reach nine. The lexical distinction does not prevent comparison from being used harmfully.",
-    "peace-linguistics-practices": "'Thenoi' supports communication that distinguishes a factual magnitude claim from a claim of inadequacy. Speakers must still examine the selected measure, the purpose of comparison, and its effects.",
-    "pre-industrial-wisdom": "Practical comparisons such as one plot yielding less grain than another can remain descriptive rather than evaluative. 'Thenoi' supports that distinction without claiming that traditional measurement was uniformly free of hierarchy or judgment."
+    "peace-linguistics-practices": "The verb reports a shortfall in the chosen measure without turning it into a judgement about a person's adequacy. That second claim needs its own words and evidence."
   },
   "semantic_domains": {
-    "cognition": "Announces magnitude relationship requiring mental comparison",
-    "spatial": "Frames relative position in numerical space—one quantity does not extend to another"
+    "cognition": "a quantitative shortfall established by comparison",
+    "quantity": "one amount remaining below another amount or threshold"
   }
 }

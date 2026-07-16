@@ -8,18 +8,32 @@
     "i"
   ],
   "pos": "verb",
-  "concept": "Gather / Combine / Add (Mathematical)",
-  "description": "The verb of bringing quantities or things together, and Phi's word for arithmetic addition. It frames adding as gathering: streams joining, or a community pooling resources. In arithmetic the metaphor presents the operation as combination, but the word itself does not imply cooperation, accumulation, or a beneficial outcome.",
-  "sound_symbolism": "The word begins with 'sho', where the soft fricative 'ʃ' suggests quantities flowing toward each other and echoes the 'sh' of 'shao' (three-group). The round 'o' suggests a container receiving what gathers. The liquid 'l' in 'le' creates a smooth connection between elements being joined. The vowel progression from grounded 'o' through transitional 'e' to bright, high 'i' traces an imagined arc from separate parts through joining to a combined quantity. The three-syllable form gives the operation a distinct audible shape; it does not guarantee slower or more conscious reasoning.",
-  "grammatical_notes": "Functions as a verb taking two quantitative arguments. In arithmetic, mandatory 'nela' separates the operands, the verb follows them, and the result forms its own clause with 'kelai': '[quantity1] nela [quantity2] sholei. [result] kelai.' Example: 'wi nela ta shao sholei. ta shao wi kelai.' (Two and three gather. Five results.) Addition requires commensurable quantities; when nouns or classifiers are stated, both operands and the result name the same kind of quantity. Can be nominalized: 'ta shao sholei' (the gathering of three).",
+  "search_terms": [
+    "combine",
+    "add",
+    "addition"
+  ],
+  "description": "Hands bring cut grass into one place. 'sholei' gathers previously separate things or quantities; in arithmetic, the same verb is addition. 'nomira' (collect) emphasises accumulation selected over time, while 'sholei' attends to the act of combination.",
+  "articulatory_notes": "Form 'sh' with the tongue blade near the postalveolar area and a narrow stream of unvoiced air, carrying it into middle-height rounded 'o'. Stressed 'le' begins when the tongue tip touches the alveolar ridge; let voice escape at the sides as the lips unround for front 'e'. Lift the tongue into final high-front 'i' only after a clear syllable break.",
+  "sound_symbolism": "The rounded opening passes through the lateral and narrows across a clear hiatus into final 'i'. Air never comes to a full stop, and the contour draws the syllables towards a common course.",
+  "usage_notes": "Ordinary use may be transitive, with the gathered material as object, or intransitive when participants assemble. Noun-position 'sholei' is a gathering. Arithmetic places '[first quantity] nela [second quantity] sholei' before a separate result clause with 'kelai'; the operands and answer remain commensurable.",
+  "examples": [
+    {
+      "phi": "lo mia whelina sholei.",
+      "translation": "We gather grass."
+    },
+    {
+      "phi": "wi nela ta shao sholei. ta shao wi kelai.",
+      "translation": "Two plus three equals five."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "'Sholei' can describe communities pooling resources and coordinating contributions. Its gathering metaphor makes collective abundance available as an association, while an arithmetic sum by itself does not establish cooperation or synergy.",
-    "secular-buddhist-philosophy": "Addition as 'gathering' can support reflection on interdependence and on the relations among combined quantities. The metaphor invites that attention; pronouncing 'sholei' does not by itself prevent grasping or make a calculation mindful.",
-    "peace-linguistics-practices": "Framing addition as 'gathering together' offers a relational metaphor instead of a metaphor of acquisition. The arithmetic operation remains neutral: what is gathered, by whom, and with what consequences require separate claims.",
-    "pre-industrial-wisdom": "Communities have gathered harvests, pooled labor, and combined resources for shared work. 'Sholei' can evoke those practices, while addition also remains available for quantities with no social meaning."
+    "solarpunk-values": "People can gather food or materials into a shared store, but the verb does not claim that the gathering was voluntary or fairly distributed.",
+    "pre-industrial-wisdom": "Harvest work often gathers many small cuttings into a form that can be carried and kept. The registered compound 'whelina sholei' names haymaking through that visible act."
   },
   "semantic_domains": {
-    "cognition": "Names arithmetic addition through a gathering metaphor",
-    "community": "Offers gathering as a metaphor for combined quantities"
+    "activity": "bringing separate things or participants together",
+    "community": "people or shared materials assembled in one place",
+    "quantity": "addition expressed as the combination of commensurable quantities"
   }
 }

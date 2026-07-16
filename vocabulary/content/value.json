@@ -7,16 +7,26 @@
     "ne"
   ],
   "pos": "verb",
-  "concept": "Value / Worth / Importance",
-  "description": "To attribute importance or worth to something; to hold it precious. 'Sone' is the act of recognizing significance, of marking what matters.",
-  "sound_symbolism": "The word sustains worth. 'So' begins with warm energy, the enduring radiance of something that matters. 'Ne' settles with clarity. Value as sustaining force, not assigned but inherent.",
-  "grammatical_notes": "'mia shea sone.' (I value peace.) The noun sense, the worth attributed, comes by the event-noun rule. Related to 'rolia' (worth) as attributed versus inherent.",
+  "search_terms": [
+    "consider important",
+    "hold important",
+    "care about"
+  ],
+  "description": "A speaker may value peace or work done with care. 'sone' is the act of attributing importance or worth, and its event noun supplies a valuation. 'rolia' (worth) states dignity or worth as a property, while 'meropi' (cherish) adds tender protective regard.",
+  "articulatory_notes": "In stressed 'so', hold the tongue blade close to the alveolar ridge and drive unvoiced air through the centre before rounding the lips for middle-height back 'o'. Then place the tip behind the upper teeth for dental 'n'; keep the voice flowing through the nose into middle-height front unrounded 'e'.",
+  "sound_symbolism": "The first syllable opens on continuing air and a rounded vowel; final 'ne' settles into nasal resonance rather than a stop. The voice settles with it, giving attention somewhere to rest.",
+  "usage_notes": "The person, practice, thing, or outcome valued precedes the verb. A nearby clause may identify the valuer's reason or the purpose under which the valuation is made. A priority orders attention or work; valuing alone does not set that order.",
+  "examples": [
+    {
+      "phi": "mia shea sone.",
+      "translation": "I value peace."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Values as compass—what we value shapes what futures we build.",
-    "secular-buddhist-philosophy": "Examining values—investigating what we hold dear and why."
+    "secular-buddhist-philosophy": "Because value is a verb, the sentence keeps the valuer visible. An attribution can be examined instead of passing as an inherent fact about the valued thing."
   },
   "semantic_domains": {
-    "cognition": "Attributed importance",
-    "wisdom": "Worth recognition"
+    "cognition": "attributing importance or worth to someone or something",
+    "wisdom": "reflective judgement about what merits care or attention"
   }
 }

@@ -8,17 +8,22 @@
     "i"
   ],
   "pos": "verb",
-  "concept": "Become (Result) / Equal / Transform Into",
-  "description": "The verb that announces the result of an arithmetic operation or states equality between two quantities. In a result clause it can evoke an outcome becoming explicit after a process; in a comparison clause it states an ordinary mathematical equality without requiring a temporal change. Related to 'kelu' (become), 'kelai' specializes result and equality relations for mathematical contexts.",
-  "sound_symbolism": "The word begins with 'ke', echoing 'kelu' (become) and announcing transformation—the crisp 'k' marks a clear moment of change. The liquid 'l' in 'la' flows the transformation smoothly forward, connecting operation to outcome. The open 'a' receives the result with spaciousness. The final 'i' crystallizes into clear presence, bright and defined—the result now manifest. The progression from decisive 'k' through flowing 'la' to crystallized 'i' traces the journey from operation through process to outcome. The word sounds like arrival, like emergence into clarity.",
-  "grammatical_notes": "Functions as the result-announcing or equality verb in arithmetic sentences; like all Phi verbs it comes last in its clause. Result structure: '[operand 1] nela [operand 2] [operation]. [result] kelai.' Example: 'wi nela ta shao sholei. ta shao wi kelai.' (Two and three gather. Five results.) Pure equality also requires the audible operand boundary: 'ta shao ta nela ta shao ta kelai.' (Four equals four.) Asking for a result: 'ta shao nela wi sholei. hina kelai.' (Three and two gather. What results?)",
-  "pillars": {
-    "secular-buddhist-philosophy": "A result clause can invite attention to the operation and conditions from which an answer is derived. This association can support reflection on dependent origination, while a pure equality remains a relation rather than an event in time.",
-    "peace-linguistics-practices": "A separate result clause can make the claimed outcome easy to locate and question. 'Kelai' announces that a result or equality is being asserted; it does not ensure that the assertion is correct, complete, or honestly used.",
-    "pre-industrial-wisdom": "Cycles complete: seeds become harvests, labor becomes craft, ingredients become meal. 'Kelai' preserves the understanding that results mark the completion of process, the fruition of work done."
-  },
+  "search_terms": [
+    "result",
+    "be equal"
+  ],
+  "description": "In arithmetic, 'kelai' closes a result clause or states equality between two explicit quantities. After an operation, the answer stands in its own clause; in plain equality, 'nela' keeps the two sides audible. 'kolo' (equal) compares things on a stated basis outside this arithmetic construction.",
+  "articulatory_notes": "For 'ke', press the tongue back to the soft palate and release unvoiced 'k' into middle-height front 'e'. Move the tip to the alveolar ridge for 'la', with lateral airflow opening into stressed central 'a'. Hold the hiatus before raising the tongue front for final high-front 'i' in its own syllable.",
+  "sound_symbolism": "The opening 'kel' recalls 'kelu' (become), while the separate final 'i' gives the answer one more clear release. The kinship helps with result clauses even though plain equality describes a relation rather than a change.",
+  "usage_notes": "A result follows its operation as '[first operand] nela [second operand] [operation]. [result] kelai.' Plain equality instead uses '[left quantity] nela [right quantity] kelai.' Both operands remain explicit when context has not already supplied one of them.",
+  "examples": [
+    {
+      "phi": "ta shao ta nela ta shao ta kelai.",
+      "translation": "Four equals four."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "Announces mathematical results through explicit statement",
-    "temporal": "Can mark an operation's stated outcome; pure equality is not temporal"
+    "cognition": "the stated answer to an arithmetic operation",
+    "quantity": "equality between quantities or the result of a calculation"
   }
 }

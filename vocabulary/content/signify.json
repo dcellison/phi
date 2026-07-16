@@ -7,16 +7,22 @@
     "lo"
   ],
   "pos": "verb",
-  "concept": "Signify / Indicate / Point To Meaning",
-  "description": "To indicate or point toward meaning; to carry significance. 'Shelo' names what signs do—the pointing that connects symbol to substance.",
-  "sound_symbolism": "The word indicates gently. 'She' softly opens with subtle gesture, sign appearing. 'Lo' opens with clear direction, meaning indicated.",
-  "grammatical_notes": "Functions as verb: 'ha relo shea shelo.' (This symbol signifies peace.) What points to 'reo' (meaning). Related to 'relo' (symbol) as the act of symbolic pointing.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Signs as empty—signifiers point but have no inherent meaning, only conventional.",
-    "peace-linguistics-practices": "Clear signification—communicating so meaning reaches the listener accurately."
-  },
+  "search_terms": [
+    "indicate",
+    "be a sign of"
+  ],
+  "description": "Dark clouds may signify rain; a raised hand may signify a wish to speak. 'shelo' says that an observable sign points towards something beyond itself. 'reo' (meaning) gives the sense of an expression or symbol, while 'kiroa' (sign) names the perceivable thing that does the pointing.",
+  "articulatory_notes": "Make stressed 'she' with the tongue blade raised behind the alveolar ridge; unvoiced air continues through the groove into middle-height front 'e'. Then set the tongue tip on the ridge for voiced 'l', allow lateral airflow, and round the lips into middle-height back 'o'.",
+  "sound_symbolism": "The opening fricative keeps air moving before the tongue settles into lateral 'lo'. It feels more like a quiet point than a strike, a useful physical mnemonic for indication.",
+  "usage_notes": "The sign or evidence is the subject. Its indicated object stands immediately before 'shelo', and noun-position use gives signification. The verb states the relation without deciding whether an observer has interpreted it correctly.",
+  "examples": [
+    {
+      "phi": "ha relo shea shelo.",
+      "translation": "This symbol signifies peace."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "Semantic pointing",
-    "communication": "Meaningful indication"
+    "cognition": "an observed sign understood as pointing towards something else",
+    "communication": "indication carried by a sign, gesture, symbol, or signal"
   }
 }

@@ -8,14 +8,14 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (265)
+## activity (266)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `hasenu` | recess | a pause held inside a larger proceeding |
 | `hasi` | wait | continuing through an interval in expectation |
 | `hasoru` | pending | a task, request, or decision awaiting its next action or condition |
-| `hekawi` | find | The forager's and searcher's verb |
+| `hekawi` | find | coming upon a person, object, place, or answer |
 | `helaki` | amend | formally changing part of a continuing rule or record |
 | `helolu` | redress | acting to address a stated institutional or social harm |
 | `heno` | satisfy | a condition or criterion met by an action or result |
@@ -72,7 +72,7 @@
 | `luseri` | provenance | the traced movement and transformation of a thing |
 | `makelu` | abstain | formally registering no selection in a procedure |
 | `manolu` | stay | remaining in a place, state, or relation |
-| `masue` | measure | Determining a magnitude for a stated purpose |
+| `masue` | measure | gauging something against a standard for a practical purpose |
 | `masuro` | calibrate | comparison and adjustment of a device against a reference |
 | `meilo` | sit | holding or entering a seated posture |
 | `meliho` | sing | fundamental human activity of singing |
@@ -187,6 +187,7 @@
 | `shaweri` | advocate | acting in support of a stated position or change |
 | `shimalo` | discipline | self-guidance that keeps repeated action aligned with an intention |
 | `shiwolu` | integrate | coordinating parts within a wider arrangement |
+| `sholei` | gather | bringing separate things or participants together |
 | `sholu` | complete | a task or process with every required step finished |
 | `shonela` | learn | an ongoing practice through which knowledge or skill is acquired |
 | `shorema` | contribute | adding effort or another usable part to shared work |
@@ -206,7 +207,7 @@
 | `takori` | load | required work or throughput relative to a technical function |
 | `talome` | restore | work directed towards a stated earlier or reference condition |
 | `tapu` | close | The keeper's daily verb |
-| `tawi` | count | Enumerating a set for a stated or recoverable purpose |
+| `tawi` | count | enumerating the members of a set for a practical purpose |
 | `temoe` | tend | recurring practical attention to what needs looking after |
 | `teru` | process | work carried through connected operations |
 | `terura` | system | an organized whole whose components participate in processes |
@@ -366,14 +367,14 @@
 | `wira` | window | View portal |
 | `woraka` | appreciate | positive recognition of a sensory or artistic quality |
 
-## cognition (241)
+## cognition (237)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `halemu` | remember | past experience or knowledge retained in or returned to present memory |
 | `haoni` | voice | expression of thoughts and inner states |
 | `hea` | hear | sound arriving in perception |
-| `hekawi` | find | The moment of discovery |
+| `hekawi` | find | recognising that the sought or discovered thing has been found |
 | `helui` | change | revision of a belief, interpretation, or mental state |
 | `heno` | satisfy | judgement that stated requirements have been met |
 | `henora` | capacity | a specified limit whose interpretation depends on object, conditions, and time |
@@ -386,7 +387,7 @@
 | `kanelu` | err | a mistake made in thought, memory, judgement, or understanding |
 | `kanu` | choose | settling on one alternative from those considered or available |
 | `kanuro` | decision | a choice assigned settled or actionable status |
-| `kelai` | equals | Announces mathematical results through explicit statement |
+| `kelai` | equals | the stated answer to an arithmetic operation |
 | `kelomi` | accept | adopting something presented for consideration |
 | `kethira` | infer | deriving a conclusion from premises |
 | `ketora` | control | control depends on a selected state or range rather than an unspecified desire |
@@ -418,7 +419,6 @@
 | `loetha` | open (receptive) | willingness to consider an unfamiliar idea or account |
 | `lunai` | vision | Forward seeing |
 | `luseri` | provenance | a sourced account with explicit gaps and confidence |
-| `masue` | measure | Comparison with an explicit or recoverable standard |
 | `masuro` | calibrate | a practice that establishes how an indication relates to a reference |
 | `meluri` | climate | a scoped account of long-term atmospheric distribution and variability |
 | `mikasu` | dose | a specified intervention amount requiring exact source interpretation |
@@ -476,7 +476,7 @@
 | `philima` | biodiversity | a scoped and measured account of living variation |
 | `phiora` | spirit | Inner animation |
 | `phirae` | different | comparative recognition that things differ in the relevant respect |
-| `phiremo` | relate | Perceiving connections |
+| `phiremo` | relate | recognising a relation among people, things, or ideas |
 | `phirena` | meditate | deliberate contemplative practice involving attention and awareness |
 | `phisoe` | creative | inventive thought expressed in an approach, proposal, or solution |
 | `phisuri` | sample | a selected portion whose relation to a larger source must be justified |
@@ -496,7 +496,7 @@
 | `remole` | concept | an organized idea used to relate or classify experience |
 | `remotha` | reason | a consideration that supports acceptance or action |
 | `remuma` | conclusion | the proposition reached from stated premises |
-| `reo` | meaning | involves mental processing and comprehension |
+| `reo` | meaning | a sense understood in relation to an expression or symbol |
 | `reteru` | model | a structured representation used for explanation, comparison, exploration, or prediction |
 | `rinu` | want | directing ordinary desire towards a thing, action, or outcome |
 | `romishe` | contemplate | sustained consideration directed towards a subject or question |
@@ -515,17 +515,16 @@
 | `sharemi` | persuade | trying to influence another person's belief or judgement |
 | `shareo` | discuss | joint examination of a stated subject |
 | `sharino` | conscience | the faculty of judging one's own conduct against held values |
-| `sharoi` | exceed | Announces magnitude relationship requiring mental comparison |
-| `shelo` | signify | Semantic pointing |
+| `sharoi` | exceed | a quantitative relation established by comparison |
+| `shelo` | signify | an observed sign understood as pointing towards something else |
 | `shelomu` | understand | meaning or relation grasped among facts, parts, or events |
 | `shelu` | book | tools for thought extending memory and enabling complex reasoning |
 | `sheluo` | listen | attention deliberately directed towards sound |
-| `sherewa` | claim | a proposition deliberately put forward for assessment |
+| `sherewa` | claim | a proposition selected and put forward for assessment |
 | `shewo` | true | accord between a claim or account and reality |
 | `shiloa` | pure | one intention, factor, or line of thought considered without another mixed through it |
 | `shimalo` | discipline | attention and choice used to regulate one's own practice |
 | `shiwolu` | integrate | bringing information or ideas into a coherent account |
-| `sholei` | gather | Names arithmetic addition through a gathering metaphor |
 | `sholu` | complete | an account, set, or explanation containing what its stated scope requires |
 | `shonela` | learn | new knowledge or capacity becoming available to a learner |
 | `shoraku` | interpret | understanding one expression well enough to convey its meaning |
@@ -533,7 +532,6 @@
 | `shorui` | weary | mental depletion that reduces capacity for attention or thought |
 | `sikanu` | certify | a recorded conclusion based on stated criteria |
 | `siloma` | simple | an explanation or arrangement with few parts or relations to follow |
-| `sirami` | record | a durable account with source and version |
 | `sirelu` | disclose | movement of previously held knowledge |
 | `sitawi` | inventory | a structured representation of material state |
 | `solae` | explain | reasons and relations arranged so that they can be understood |
@@ -543,29 +541,28 @@
 | `somela` | observe | deliberate perceptual attention to details, events, or patterns |
 | `someru` | supervise | observing conditions and responding to performance |
 | `somethi` | monitor | a practice for detecting change and informing a stated decision |
-| `sone` | value | Attributed importance |
+| `sone` | value | attributing importance or worth to someone or something |
 | `soneho` | tradeoff | a constrained relation between competing valued outcomes |
 | `sorai` | insight | Deep seeing |
 | `soranu` | screen | identifying possible need for further evaluation |
 | `sorila` | cultivate | a skill or disposition developed through practice |
 | `sowelu` | disabled | cognitive disability and its relation to access |
 | `takori` | load | a quantity interpreted in relation to capacity and conditions |
-| `tawi` | count | Exact or approximate counting within Phi's documented limits |
+| `tawi` | count | keeping track of successive items during enumeration |
 | `tawimo` | foolish | an act or choice made without enough attention to what it requires |
 | `telua` | accurate | agreement between a representation and the fact or reference it represents |
 | `teru` | process | ordered handling of information |
 | `terura` | system | a bounded unit selected for analysis and explanation |
 | `theali` | fitting | a contextual judgement of suitability rather than factual accuracy |
 | `thekao` | acknowledge | recognising a person, message, act, or account as present |
-| `thekiro` | write | Externalizing thought |
 | `thekopa` | recipe | remembered or recorded knowledge for preparing food |
 | `theloa` | truth | discerning and aligning with reality |
 | `themio` | reflect | returning in thought to experience or material already considered |
 | `themoka` | treasure | Perceiving worth |
 | `themore` | argument | an organized relation of premises to a conclusion |
 | `thena` | thing | general reference in thought and speech |
-| `thenoi` | falls-short | Announces magnitude relationship requiring mental comparison |
-| `theo` | read | fundamentally a cognitive process of decoding and comprehension |
+| `thenoi` | falls-short | a quantitative shortfall established by comparison |
+| `theo` | read | decoding written marks as language or another readable system |
 | `theomi` | trust | judgement that a person, process, or thing can be relied upon in a stated respect |
 | `theonu` | attend | awareness deliberately directed or held towards a chosen object |
 | `thesa` | careful | attention directed towards the mistakes or consequences that matter in an act |
@@ -596,7 +593,7 @@
 | `wephari` | coordinate | tracking order, information, and interfaces |
 | `wepuri` | progress | an interpreted relation between current and intended states |
 | `weshaku` | outbreak | a cluster or excess defined against stated expectations |
-| `wesho` | locate | Discovery |
+| `wesho` | locate | determining where a person, thing, or place is |
 | `whakeru` | object | identifying a specific problem in reasoning |
 | `whamoi` | doubt | an unsettled stance toward a proposition or its support |
 | `whekaro` | adverse effect | a harm attribution with stated evidence and uncertainty |
@@ -612,7 +609,7 @@
 | `wireki` | prognosis | a conditional inference about a health course |
 | `woraka` | appreciate | attention that recognises value in a person, act, thing, or condition |
 
-## communication (116)
+## communication (118)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -666,14 +663,14 @@
 | `phena` | kind | consideration made audible in a reply or choice of words |
 | `phenui` | thoughtful | consideration made visible in speech or response |
 | `phiketu` | contradict | a precise conflict that clarification may confirm or dissolve |
-| `phiremo` | relate | Establishing relationship in communication |
+| `phiremo` | relate | making a claimed relation explicit for other speakers |
 | `phisuwa` | example | a case speakers can offer, compare, and discuss explicitly |
 | `phiwheki` | counterexample | a concrete way to challenge overgeneralization |
 | `phowe` | share | sharing information or expression with other people |
 | `phulae` | mouth | the gate through which speech emerges |
 | `remotha` | reason | a ground offered so others can examine a claim or choice |
 | `remuma` | conclusion | the result of an argument that participants may assess separately |
-| `reo` | meaning | central to communication and exchange of understanding |
+| `reo` | meaning | the relation through which an expression or symbol carries a sense |
 | `repora` | propose | a proposal remains open to response, amendment, and refusal |
 | `samethu` | equivalent | comparison between different expressions or formats |
 | `selomi` | weave | the established extension from interlaced thread to a story woven from events |
@@ -685,18 +682,19 @@
 | `sharemi` | persuade | using reasons or another communicative appeal to influence a listener |
 | `shareo` | discuss | spoken or written exchange centred on one topic |
 | `shaweri` | advocate | speaking publicly for a position without implied representation authority |
-| `shelo` | signify | Meaningful indication |
+| `shelo` | signify | indication carried by a sign, gesture, symbol, or signal |
 | `shelomu` | understand | comprehension of another person's words or account |
 | `shelu` | book | asynchronous communication between writer and reader across time |
 | `sheluo` | listen | attentive reception of another person's speech |
 | `shemui` | utter | a particular stretch of words produced aloud |
 | `sheori` | communicate | meaning made available through a usable medium |
 | `sherelo` | right (normative) | a claim whose source and fulfillment can be examined |
-| `sherewa` | claim | the public act of offering a proposition to others |
+| `sherewa` | claim | the act of asserting a proposition to other people |
 | `shonui` | ear | Essential for receiving communication |
 | `shoraku` | interpret | carrying meaning between languages or communication modes |
 | `shorema` | contribute | contributing words or information to a shared exchange |
 | `sikanu` | certify | a formal claim whose source and scope can be challenged |
+| `sirami` | record | an account preserved in a form that others can receive later |
 | `sirelu` | disclose | making information known to a new recipient |
 | `sitheku` | transcribe | carrying spoken or signed expression into writing |
 | `solae` | explain | an account of why or how offered to another person |
@@ -706,13 +704,14 @@
 | `theisa` | loud | high perceived intensity in a voice or spoken utterance |
 | `thekao` | acknowledge | making receipt or recognition explicit in an exchange |
 | `thekasi` | caption | speech and meaningful sound presented in a readable form |
+| `thekiro` | write | creating language in a form that can be read later |
 | `thelima` | describe | a verbal account of a thing, event, or condition |
 | `theloa` | truth | foundation for honest communication |
 | `theloma` | justice | involves hearing all perspectives and facilitating reconciliation |
 | `thelu` | dialogue | deliberate exchange among participants who attend to one another's views |
 | `themore` | argument | a reasoning structure shared for examination |
 | `thenui` | direct | an answer or statement that reaches its subject without evasion or an intermediary |
-| `theo` | read | receptive communication receiving encoded messages from another consciousness |
+| `theo` | read | receiving an expression preserved in readable form |
 | `theonu` | attend | attention kept on another participant's words or response |
 | `thereo` | mediator | facilitates communication and understanding between parties |
 | `thilou` | inquire | putting a question to another person |
@@ -918,7 +917,7 @@
 | `sherelo` | right (normative) | a normative claim held among people, groups, or institutions |
 | `shereni` | entitlement | a recognized and scoped claim under a stated source |
 | `shiwolu` | integrate | participation of distinct people or groups within a shared structure |
-| `sholei` | gather | Offers gathering as a metaphor for combined quantities |
+| `sholei` | gather | people or shared materials assembled in one place |
 | `shorai` | commune | Shared living |
 | `shorema` | contribute | adding something to a collective undertaking or pool |
 | `shorupo` | protect | Guarding the vulnerable |
@@ -928,7 +927,7 @@
 | `sikanu` | certify | a status attributed by a named person or institution |
 | `sila` | community | fundamentally about social relationships and collective organization |
 | `silawo` | village | The gathered homes |
-| `sirami` | record | an institutional or shared record with access conditions |
+| `sirami` | record | a shared or institutional account of events, observations, or decisions |
 | `sirelu` | disclose | changing who may know bounded information |
 | `sithora` | role | a social or institutional role with bounded scope |
 | `soeli` | cup | Shared refreshment |
@@ -1157,7 +1156,7 @@
 | `terura` | system | a structure whose relations can be designed, maintained, and revised |
 | `tewema` | partner | partners co-create their shared reality |
 | `thekasi` | caption | timed readable text made for a sounding event |
-| `thekiro` | write | Bringing lasting form into being |
+| `thekiro` | write | making a written text by hand or tool |
 | `theko` | craft | producing a deliberate work in a chosen material or medium |
 | `thekopa` | recipe | instructions relating ingredients to a prepared result |
 | `thelai` | balm | Soothing salve |
@@ -1647,7 +1646,7 @@
 | `maeli` | quiet | little or no sound in a source, event, or place |
 | `malomi` | balance | encompasses bodily balance alongside emotional and spiritual |
 | `manuwe` | hand | the body member of grasping and making |
-| `masue` | measure | Supports embodied and instrument-based measurement |
+| `masue` | measure | determining a magnitude of a body, object, or material |
 | `meilo` | sit | bodily posture supported by a seat or the haunches |
 | `meipa` | seat | Made for sitting |
 | `menoa` | face | The front of the head bearing features |
@@ -1920,15 +1919,17 @@
 | `wonepa` | table | The social flat of the house |
 | `wuloe` | soft | a yielding texture or contact that cushions pressure |
 
-## quantity (22)
+## quantity (28)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `hirawo` | distance | a measurable separation between two spatial referents |
+| `kelai` | equals | equality between quantities or the result of a calculation |
 | `kolo` | equal | sameness in a stated amount, measure, or rank |
 | `lau` | twenty-seven-group | the twenty-seven scale used in exact and approximate enumeration |
 | `leiro` | release | removing a selected amount from a starting quantity |
 | `lorua` | abundant | a supply large in relation to the scale or need under discussion |
+| `masue` | measure | measurement that produces or compares a magnitude |
 | `mu` | zero | the exact numerical value for no counted members |
 | `phanoi` | portion | relating a total to a number of groups and the resulting quotient |
 | `pheno` | full | contents reaching the capacity relevant to the present comparison |
@@ -1936,7 +1937,11 @@
 | `ponalu` | size | overall extent treated as a dimension for comparison or measurement |
 | `rei` | eighty-one-group | the eighty-one scale used in exact and approximate enumeration |
 | `shao` | three-group | the three scale used in exact and approximate enumeration |
+| `sharoi` | exceed | one amount standing above another amount or threshold |
+| `sholei` | gather | addition expressed as the combination of commensurable quantities |
 | `ta` | one | the exact quantity one and the coefficient one in ternary numerals |
+| `tawi` | count | determining how many members a set contains |
+| `thenoi` | falls-short | one amount remaining below another amount or threshold |
 | `thiku` | small | a small amount when the comparison concerns quantity rather than spatial extent |
 | `thuroa` | grow | an amount becoming greater |
 | `waleru` | length | a dimension that can be compared or measured along a chosen course |
@@ -1986,11 +1991,11 @@
 | `thunepa` | sacred place | Place of reverence |
 | `whunei` | breathe | breath used as an observable object in meditation practice |
 
-## spatial (159)
+## spatial (157)
 
 | Word | Gloss | In this domain |
 |---|---|---|
-| `hekawi` | find | Coming upon what was elsewhere |
+| `hekawi` | find | reaching something that had been elsewhere or unknown |
 | `hieru` | narrow | limited span from one side to the other |
 | `hinawu` | accommodate | altering an environment or route for access |
 | `hirawo` | distance | separation between places, objects, or other spatial referents |
@@ -2094,7 +2099,6 @@
 | `selu` | flow | a current following a channel or pathway |
 | `seluto` | pour | movement from a source container toward a destination |
 | `sepho` | send | caused movement from the sender towards a recipient or place |
-| `sharoi` | exceed | Frames relative position in numerical space—one quantity extends beyond another |
 | `shoeka` | route | Course of travel |
 | `shomelu` | shadow | Where the light is interrupted |
 | `shorai` | commune | Collective dwelling |
@@ -2113,7 +2117,6 @@
 | `thalo` | walk | a walking route across a place |
 | `thaluro` | ocean | Boundless expanse |
 | `thelui` | sanctuary | Sacred refuge |
-| `thenoi` | falls-short | Frames relative position in numerical space—one quantity does not extend to another |
 | `thenui` | direct | a route that reaches its destination without an intervening detour |
 | `thepalu` | garden | defined location transformed through intentional relationship with land |
 | `theru` | thick | a relatively large distance between opposing surfaces or across a cross-section |
@@ -2138,7 +2141,7 @@
 | `wema` | belong | belonging to a place experienced as home |
 | `wemo` | plain | Unobstructed expanse |
 | `wepu` | go | directed travel through space |
-| `wesho` | locate | Finding position |
+| `wesho` | locate | establishing a position within a place or route |
 | `whalo` | large | considerable extent without selecting a particular dimension |
 | `whano` | stand | vertical position relative to a surface |
 | `whemoa` | empty | a bounded container or place with no contents or occupants |
@@ -2150,7 +2153,7 @@
 | `womuri` | household | daily life organized around a dwelling |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (166)
+## temporal (165)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2170,7 +2173,6 @@
 | `kaero` | phase | Cycle segment |
 | `kamo` | arrive | the bounded moment when a journey or process reaches its endpoint |
 | `katheo` | acute | onset, development, and expected duration within a clinical course |
-| `kelai` | equals | Can mark an operation's stated outcome; pure equality is not temporal |
 | `keloi` | summer | Abundance season |
 | `kelu` | become | a transition with a named resulting state |
 | `kelua` | morning | Early day |
@@ -2321,7 +2323,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (99)
+## wisdom (97)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2380,7 +2382,6 @@
 | `relua` | mirror | Self-seeing |
 | `remole` | concept | a revisable mental pattern whose boundaries can be examined |
 | `remotha` | reason | deliberative support whose relevance and limits can be considered |
-| `reo` | meaning | requires understanding context and relationship |
 | `roela` | scroll | Preserved teaching |
 | `rolia` | worth | Inherent dignity |
 | `romishe` | contemplate | patient examination of a subject before judgement is settled |
@@ -2392,13 +2393,12 @@
 | `silero` | star | guide for routes and seasons |
 | `sima` | thread | Connection |
 | `siru` | marker | Path guide |
-| `sone` | value | Worth recognition |
+| `sone` | value | reflective judgement about what merits care or attention |
 | `soneho` | tradeoff | attention to what every available option preserves and relinquishes |
 | `sorai` | insight | Penetrating understanding |
 | `tawimo` | foolish | sound judgement absent where the circumstances call for it |
 | `tenoa` | tool | Appropriate technology |
 | `theali` | fitting | selection of a response appropriate to the situation and relationship |
-| `thekiro` | write | Preserving knowledge across time |
 | `theko` | craft | knowledge held and demonstrated through repeated practice |
 | `theloa` | truth | understanding deeper reality and skillful expression |
 | `theloma` | justice | requires understanding root causes and skillful responses |

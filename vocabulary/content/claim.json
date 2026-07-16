@@ -8,16 +8,26 @@
     "wa"
   ],
   "pos": "verb",
-  "concept": "Claim / Assert for Consideration",
-  "description": "To present a proposition publicly, for others to consider, question, or challenge. A claim is the public act; 'nohero' (believe) is what happens privately and needs no audience at all. A person can claim something provisionally, or even repeat a claim they reject, purely to hold it up for examination.",
-  "sound_symbolism": "Hushed 'she' shapes the first breath before it leaves the mouth. The tongue flicks through stressed 're' and gives the sound a direction beyond the speaker. At the end, 'wa' rounds at the lips and opens into broad 'a': controlled breath has crossed a living connection and arrived in shared air.",
-  "grammatical_notes": "A transitive verb. A nominal object names what is claimed; a full proposition uses the declarative complement frame: 'mia mena ha ruela welao nai meno sherewa.' (I claim that this path is good.) The event-noun rule supplies a claim as a noun. Distinct from 'nohero' (believe), an internal stance, and 'shane' (tell), the act of giving an account.",
+  "search_terms": [
+    "assert",
+    "put forward"
+  ],
+  "description": "A speaker puts forward a proposition so that others can consider it: the path is safe, or the water is clean. 'sherewa' reports that communicative act whether the speaker believes the proposition, doubts it, or repeats it for examination. 'nohero' (believe) is an inward stance, while 'shane' (tell) gives an account without necessarily asserting a proposition.",
+  "articulatory_notes": "Begin with the tongue blade raised towards the postalveolar area. Unvoiced air forms 'sh' and then opens onto middle-height front 'e'. At stressed 're', tap or briefly trill the tongue tip on the alveolar ridge. Shape voiced 'w' by rounding the lips and lifting the tongue back, then drop the jaw and unround into final central 'a'.",
+  "sound_symbolism": "The opening breath moves through a quick stressed tap and ends by opening from rounded 'w' into 'a'. It has the feel of something carried out of the mouth and left before another person.",
+  "usage_notes": "A nominal object names what is claimed. A complete proposition uses the declarative complement frame 'mena ... meno', and noun-position 'sherewa' is a claim. The verb attributes the assertion to its speaker without settling whether the proposition is true.",
+  "examples": [
+    {
+      "phi": "mia mena ha ruela welao nai meno sherewa.",
+      "translation": "I claim that this path is good."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Treating a claim as an act rather than an identity makes room for revision: a speaker can release or change a claim without treating the self as fixed by it.",
-    "peace-linguistics-practices": "A dedicated verb for claiming lets speakers locate disagreement in a proposition instead of turning it into a judgment of the person who voiced it."
+    "secular-buddhist-philosophy": "A claim is an act a speaker can revise or release; it need not harden into an identity that must be defended.",
+    "peace-linguistics-practices": "Disagreement can stay with the proposition when the language marks who claimed it. The person and the claim remain available for different judgements."
   },
   "semantic_domains": {
-    "cognition": "a proposition deliberately put forward for assessment",
-    "communication": "the public act of offering a proposition to others"
+    "cognition": "a proposition selected and put forward for assessment",
+    "communication": "the act of asserting a proposition to other people"
   }
 }
