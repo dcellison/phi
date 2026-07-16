@@ -7,16 +7,26 @@
     "ru"
   ],
   "pos": "verb",
-  "concept": "Commit / Pledge Firmly / Bind Oneself",
-  "description": "To bind oneself to a course of action; to pledge with intention to follow through. 'Seru' names the moment of decision—when possibility becomes promise.",
-  "sound_symbolism": "The word seals with purpose. 'Se' sets with firm intention, decision crystallizing. 'Ru' runs with committed follow-through, action flowing from pledge.",
-  "grammatical_notes": "Functions as verb: 'mia seru.' (I commit.) Takes an object of commitment. Related to 'menai' (dedicate) but emphasizes the binding moment over ongoing devotion.",
+  "search_terms": [
+    "pledge",
+    "undertake"
+  ],
+  "description": "Someone chooses to join a repair day, then commits to return each morning until the roof is secure. 'seru' is a self-binding undertaking to follow a stated course beyond the moment of selection. 'kanu' (choose) names the selection, 'naseru' (obligation) attributes a requirement from some source, and 'korei' (fulfill) reports that what was undertaken has been carried out.",
+  "articulatory_notes": "Keep the tongue blade close to the alveolar ridge for unvoiced 's' and release the air into stressed true-mid front unrounded 'e'. Make a tap or short trill with the tongue tip for 'r', then raise the back of the tongue and round the lips for high-back 'u'.",
+  "usage_notes": "A practice, project, or course can be the direct object of 'seru'; a complete action being undertaken takes the 'mena ... meno' frame. Noun 'seru' is a commitment or the act of committing. Its scope, conditions, and duration matter especially when others may rely on it.",
+  "examples": [
+    {
+      "phi": "mia mena mia so turema meno seru.",
+      "translation": "I commit to returning."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Commitment as vow—the intention that shapes practice, renewed moment by moment.",
-    "peace-linguistics-practices": "Committed dialogue—the pledge to remain in conversation even when difficult."
+    "secular-buddhist-philosophy": "A practice may depend on commitments renewed after distraction or failure. The word names the undertaking without pretending that resolve makes performance automatic.",
+    "peace-linguistics-practices": "A speaker can commit to returning to a difficult conversation while leaving the other person's participation and boundaries separate."
   },
   "semantic_domains": {
-    "cognition": "Binding decision",
-    "temporal": "Pledge moment"
+    "activity": "undertaking to follow a stated course of action",
+    "community": "a commitment on which another person or group may rely",
+    "temporal": "an undertaking meant to continue beyond the moment it is made"
   }
 }

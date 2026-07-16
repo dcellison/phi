@@ -369,8 +369,8 @@ CONS POL IMP 1SG AS NAME phemi utter. PROX 1SG family name be.
 (So please call me Guest, which is my family's name.)
 morris: "so suppose you call me Guest, which is a family name, you know,"
 
-lu lo thia pula lo thia nia ha ta phirae nomei po tiwa.
-COND PL 2SG wish PL 2SG ON PROX one different name POT tie.
+lu lo thia rinu lo thia nia ha ta phirae nomei po tiwa.
+COND PL 2SG want PL 2SG ON PROX one different name POT tie.
 (And if you please, you may tie another name onto it.)
 morris: "and add William to it if you please.\""
 
@@ -394,8 +394,8 @@ NAME kulo BELOW table INS foot 3SG PST IPFV push. PROX INTS clear PST be. CONTR 
 (Guide was quite clearly pushing at him with his foot under the table; but he was not much abashed, and awaited my words eagerly.)
 morris: "Dick was clearly kicking him underneath the table; but he was not much abashed, and awaited my answer somewhat eagerly."
 
-mia mena mia lue ha lokue shua meno haolu to pa pula.
-1SG DECL.COMP 1SG ABL PROX place come DECL.COMP.CLOSE speak PST INCH wish.
+mia mena mia lue ha lokue shua meno haolu to pa thueli.
+1SG DECL.COMP 1SG ABL PROX place come DECL.COMP.CLOSE speak PST INCH intend.
 (As for me, I was just about to blurt out that I came from this very place.)
 morris: "As for me, I was just going to blurt out \"Hammersmith,\""
 
@@ -535,8 +535,8 @@ LOC DIST moment 1SG DECL.COMP PL person ABOVE UNIV DIST place PST PFV build DECL
 (Then I saw that people had built over the whole place; it was utterly altered; and that sight shocked me deeply.)
 morris: "I was very much shocked then to see how it was built-over and altered;"
 
-mua ta noshi philo lo mia mena rena mioru thiku nila lo miona ra shelira thepalu ka kelu pula meno to ti hea.
-LOC one near day PL 1SG DECL.COMP REL beautiful small see PL person DIST forest garden CAUS become wish DECL.COMP.CLOSE PST REP hear.
+mua ta noshi philo lo mia mena rena mioru thiku nila lo miona ra shelira thepalu ka kelu thueli meno to ti hea.
+LOC one near day PL 1SG DECL.COMP REL beautiful small see PL person DIST forest garden CAUS become intend DECL.COMP.CLOSE PST REP hear.
 (And the other day we heard it said that the people who see beauty small meant to make the forest into a garden.)
 morris: "and the other day we heard that the philistines were going to landscape-garden it."
 
@@ -656,13 +656,13 @@ mia ha haolu to ki kawepa.
 (I had caught up that word.)
 morris: "(I had caught up that word),"
 
-lu mia po haolu mia wei lo thilou siora haolu. no wei mia rena lo thia pula sheloi thilou sepho. ha wei mia loshi thena nai.
-COND 1SG POT speak 1SG DAT PL inquire joy speak. IMP DAT 1SG REL PL 2SG wish MANY inquire send. PROX DAT 1SG joyful thing be.
+lu mia po haolu mia wei lo thilou siora haolu. no wei mia rena lo thia rinu sheloi thilou sepho. ha wei mia loshi thena nai.
+COND 1SG POT speak 1SG DAT PL inquire joy speak. IMP DAT 1SG REL PL 2SG want MANY inquire send. PROX DAT 1SG joyful thing be.
 (When I can, I answer questions with joy: send me as many as you please; it is fun for me.)
 morris: "I don't in the least mind answering questions, when I can do so: ask me as many as you please; it's fun for me."
 
-lu lo thia pula mia roa mia lopia thimu ra shelira wei lo thia theula so shane.
-COND PL 2SG wish 1SG AROUND 1SG child time DIST forest DAT PL 2SG UNIV FUT tell.
+lu lo thia rinu mia roa mia lopia thimu ra shelira wei lo thia theula so shane.
+COND PL 2SG want 1SG AROUND 1SG child time DIST forest DAT PL 2SG UNIV FUT tell.
 (I will tell you everything about the forest of my boyhood, if you please.)
 morris: "I will tell you all about Epping Forest when I was a boy, if you please;"
 
@@ -691,8 +691,8 @@ mia lue ta miona wea phirae miona roe remo tiwa mirae to nila. mua lumae mia to 
 (I looked from one to the other with puzzled eyes, and at last said:)
 morris: "while I looked from one to the other in a puzzled manner, and at last said:"
 
-pi no wei mia shane. hina thenoi. thia mena mia lue lo thia sano pula meno sano. no hola. whekai we no wei mia shane.
-POL IMP DAT 1SG tell. what falls-short. 2SG DECL.COMP 1SG ABL PL 2SG know wish DECL.COMP.CLOSE know. IMP laugh. CONTR ALSO IMP DAT 1SG tell.
+pi no wei mia shane. hina thenoi. thia mena mia lue lo thia sano rinu meno sano. no hola. whekai we no wei mia shane.
+POL IMP DAT 1SG tell. what falls-short. 2SG DECL.COMP 1SG ABL PL 2SG know want DECL.COMP.CLOSE know. IMP laugh. CONTR ALSO IMP DAT 1SG tell.
 ("Tell me, please: what is amiss? You know I want to learn from you. And please laugh; only tell me too.")
 morris: "\"Tell me, please, what is amiss: you know I want to learn from you.  And please laugh; only tell me.\""
 
@@ -811,13 +811,13 @@ VOC PL friend. old COORD young. 1SG now 1SG labor NEC take.
 ("Well, friends, old and young: I must get to my work now.")
 morris: "\"Well, lads, old and young, I must get to my work now."
 
-pheo teku thimu sheloi riola mua ha so kamo. mia mena mia kau lumae ha riola reshi kolua meno pula.
-POST short time MANY labor LOC PROX FUT arrive. 1SG DECL.COMP 1SG ALL end PROX labor fast carry DECL.COMP.CLOSE wish.
+pheo teku thimu sheloi riola mua ha so kamo. mia mena mia kau lumae ha riola reshi kolua meno rinu.
+POST short time MANY labor LOC PROX FUT arrive. 1SG DECL.COMP 1SG ALL end PROX labor fast carry DECL.COMP.CLOSE want.
 (We shall be rather busy here presently, and I want to carry my work quickly to its end.)
 morris: "We shall be rather busy here presently; and I want to clear it off soon,"
 
-lao mia mua luera philo mioru serao shelu to pa theo. mia mena mia mua ha kelua ha shelu mo theo meno pula.
-BECAUSE 1SG LOC past day beautiful old book PST INCH read. 1SG DECL.COMP 1SG LOC PROX morning PROX book CMPR read DECL.COMP.CLOSE wish.
+lao mia mua luera philo mioru serao shelu to pa theo. mia mena mia mua ha kelua ha shelu mo theo meno rinu.
+BECAUSE 1SG LOC past day beautiful old book PST INCH read. 1SG DECL.COMP 1SG LOC PROX morning PROX book CMPR read DECL.COMP.CLOSE want.
 (For I began to read a pretty old book yesterday, and I want to get on with it this morning.)
 morris: "for I began to read a pretty old book yesterday, and I want to get on with it this morning:"
 
@@ -862,8 +862,8 @@ mia shola lu mia wei thia lo thilou sepho lo thilou ru kethua so ma nai. sholo t
 ("If I ask you any questions," said I, "they will not be very severe.")
 morris: "\"If I ask you any questions, sir,\" said I, \"they will not be very severe;"
 
-whekai lao mia mena thia selomi miona nai meno ti hea mia wei thia roa ra riola soli thilou sepho pula.
-CONTR BECAUSE 1SG DECL.COMP 2SG weave person be DECL.COMP.CLOSE REP hear 1SG DAT 2SG AROUND DIST labor SOME inquire send wish.
+whekai lao mia mena thia selomi miona nai meno ti hea mia wei thia roa ra riola soli thilou sepho rinu.
+CONTR BECAUSE 1SG DECL.COMP 2SG weave person be DECL.COMP.CLOSE REP hear 1SG DAT 2SG AROUND DIST labor SOME inquire send want.
 (But since I hear that you are a weaver, I should like to ask you something about that craft.)
 morris: "but since I hear that you are a weaver, I should like to ask you something about that craft,"
 
@@ -897,8 +897,8 @@ ADD PROX device book labor INCH die. book create sick ALSO INCH small become.
 (And moreover this device book-work is beginning to die, as the sickness of book-making wanes with it.)
 morris: "and moreover machine printing is beginning to die out, along with the waning of the plague of book-making,"
 
-thelao mia wea rena mia pula lo phirae thena to na rato. mia tawi remo to pilu.
-CONS 1SG TOWARD REL 1SG wish PL different thing PST NEC turn. 1SG count think PST take.
+thelao mia wea rena mia kaeli lo phirae thena to na rato. mia tawi remo to pilu.
+CONS 1SG TOWARD REL 1SG like PL different thing PST NEC turn. 1SG count think PST take.
 (So I have had to turn toward other things that I have a taste for, and have taken to mathematics.)
 morris: "so I have had to turn to other things that I have a taste for, and have taken to mathematics;"
 
@@ -907,8 +907,8 @@ ADD 1SG AROUND DIST old society end time peace COORD home life book IPFV write.
 (Also I am writing a book about the peace, and the home-life so to say, of that old world's last days.)
 morris: "and also I am writing a sort of antiquarian book about the peaceable and private history, so to say, of the end of the nineteenth century,"
 
-mia mena ha shelu phoe rena lo miona wiso peloma phoa thimu muila kire ka nila meno pula.
-1SG DECL.COMP PROX book ANT REL PL person RECP harmful do time earth shape CAUS see DECL.COMP.CLOSE wish.
+mia mena ha shelu phoe rena lo miona wiso peloma phoa thimu muila kire ka nila meno thueli.
+1SG DECL.COMP PROX book ANT REL PL person RECP harmful do time earth shape CAUS see DECL.COMP.CLOSE intend.
 (More than anything, I want the book to show the shape of the land from before the time when people did harm to one another.)
 morris: "--more for the sake of giving a picture of the country before the fighting began than for anything else."
 
@@ -982,8 +982,8 @@ VOC NAME selomi. 2SG 1SG help NEC give. PL 1SG 3SG guardian NEC be.
 (I say, Weaver: you must help me. We must stand guardian over him now.)
 morris: "I say, Bob, you must help me to defend him now."
 
-pheo teku maeli shia to theisa haolu. kona ne solai. lo mia ha nai. lu thia ha na pula.
-POST short quiet 3SG PST loud speak. VOC NAME solai. PL 1SG PROX be. COND 2SG PROX NEC wish.
+pheo teku maeli shia to theisa haolu. kona ne solai. lo mia ha nai. lu thia ha na phelu.
+POST short quiet 3SG PST loud speak. VOC NAME solai. PL 1SG PROX be. COND 2SG PROX NEC hold.
 (After a short quiet he cried out: "Here, Gold! Here we are, if you must have it!")
 morris: "\"Here, Boffin,\" he cried out, after a pause; \"here we are, if you must have it!\""
 ```
@@ -1073,8 +1073,8 @@ LOC PROX NAME kulo INTO speak PST break. POL VOC NAME solai. IMP PROX now releas
 (Here Guide broke in: "Please, Gold! Let it alone for the present.")
 morris: "Here Dick broke in: \"No, please, Boffin! let it alone for the present."
 
-thia mena phemi siora nela therilu phelu meno pula. ha nuwi nai.
-2SG DECL.COMP guest joy COORD rest hold DECL.COMP.CLOSE wish. PROX clear be.
+thia mena phemi siora nela therilu phelu meno rinu. ha nuwi nai.
+2SG DECL.COMP guest joy COORD rest hold DECL.COMP.CLOSE want. PROX clear be.
 (Of course you want the guest to hold joy and rest.)
 morris: "Of course you want the guest to be happy and comfortable;"
 
@@ -1123,8 +1123,8 @@ CONC 3SG name ABL PL old story come 1SG DECL.COMP PROX person PROX PL strange pe
 (For though his name came out of the old stories, I thought this man must be at the least an elder-councillor of these strange people.)
 morris: "for I thought that this Mr. Boffin, in spite of his well-known name out of Dickens, must be at the least a senator of these strange people."
 
-whekai shia to rihe. shia shola lia. kona serao rewa miona. rena thia pula. sholo to haolu. mua ha philo mia phina riola phelu.
-CONTR 3SG PST rise. 3SG QUOT.COMP yes. VOC old oar person. REL 2SG wish. QUOT.COMP.CLOSE PST speak. LOC PROX day 1SG FEW labor hold.
+whekai shia to rihe. shia shola lia. kona serao rewa miona. rena thia kaeli. sholo to haolu. mua ha philo mia phina riola phelu.
+CONTR 3SG PST rise. 3SG QUOT.COMP yes. VOC old oar person. REL 2SG like. QUOT.COMP.CLOSE PST speak. LOC PROX day 1SG FEW labor hold.
 (However, he got up and said: "All right, old oar-wearer: whatever you like. This is not one of my busy days.)
 morris: "However, he got up and said, \"All right, old oar-wearer, whatever you like; this is not one of my busy days;"
 
@@ -1184,8 +1184,8 @@ one portion BECAUSE 3SG INS INTS bright garment REFL HAB embrace. 3SG AS ABL INT
 (And partly because he will wrap himself so brightly, and takes as much gold onto himself as a gold-wrapped man of a far older world.)
 morris: "and partly because he will dress so showily, and get as much gold on him as a baron of the Middle Ages."
 
-lu shia pula shia misa po ma phoa. lo mia shia whalo melu nai. thelao lo mia nua shia monelu haolu.
-COND 3SG wish 3SG why POT NEG do. PL 1SG 3SG large friend be. CONS PL 1SG COM 3SG amused speak.
+lu shia kaeli shia misa po ma phoa. lo mia shia whalo melu nai. thelao lo mia nua shia monelu haolu.
+COND 3SG like 3SG why POT NEG do. PL 1SG 3SG large friend be. CONS PL 1SG COM 3SG amused speak.
 (As why should he not, if he likes? Only, we are his great friends, you know, so of course we jest with him.)
 morris: "As why should he not if he likes? only we are his special friends, you know, so of course we jest with him.\""
 

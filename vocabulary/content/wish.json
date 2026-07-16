@@ -7,16 +7,25 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Wish / Hope For / Desire Outcome",
-  "description": "To hold hope for a particular outcome, to want something to come to pass. 'Pula' names the space between present and desired future—the heart's orientation toward what might be, held gently without grasping.",
-  "sound_symbolism": "The word is brief like a wish sent forth. 'Pu' pushes gently with labial release, desire emerging. Then 'la' flows with liquid ease, the wish traveling toward its hoped-for destination.",
-  "grammatical_notes": "'mia towe pula.' (I wish for well-being.) Clause complements take the 'mena … meno' frame. A wish is the event noun by rule: 'welao pula' (a good wish). Distinct from wanting (which implies lack)—pula holds hope lightly.",
+  "search_terms": [
+    "desire an outcome",
+    "make a wish"
+  ],
+  "description": "A traveller wishes for clear weather; a friend wishes that someone will recover. 'pula' presents an outcome the person would welcome without claiming that it is likely or within their control. 'rinu' (want) covers ordinary desire for a thing or action, while 'soliru' (hope) also regards the desired outcome as possible under uncertainty.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release them into stressed high-back rounded 'u'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and finish with open central unrounded 'a'.",
+  "usage_notes": "The wished-for thing is the direct object of 'pula'; the 'mena ... meno' frame holds a complete outcome. Noun 'pula' is a wish or the act of wishing. The Slot 0 particle 'su' makes an utterance optative, so it can express a wish without using the content verb 'pula'.",
+  "examples": [
+    {
+      "phi": "mia towe pula.",
+      "translation": "I wish for well-being."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Wishing practiced skillfully avoids attachment—we can hope for outcomes while accepting whatever arises.",
-    "peace-linguistics-practices": "Expressing wishes shares inner hopes without demanding—it invites rather than commands."
+    "secular-buddhist-philosophy": "Separating a wish from a prediction lets a speaker notice what they would welcome without mistaking preference for knowledge.",
+    "peace-linguistics-practices": "A stated wish owns the desired outcome as the speaker's. It does not turn that outcome into another person's duty."
   },
   "semantic_domains": {
-    "cognition": "Orientation toward desired futures",
-    "emotion": "Holding hope for outcomes"
+    "cognition": "representing an outcome as desired without asserting its likelihood",
+    "emotion": "wanting an outcome to occur"
   }
 }

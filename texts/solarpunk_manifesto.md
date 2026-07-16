@@ -13,9 +13,9 @@
 ### A movement and a question
 
 ```
-ha sileta kenua wireo moenu lo wireo weni nophi nela shela nela wetha kire nela shaweri sila rinoka nai. shia thenoki punoa phea hina nai solae pula. shia lo mia thela kau ha wireo kamo solae pula. shia ha keiro liona pula.
-PROX sun energy future culture PL future imagine story COORD art COORD cloth shape COORD advocate community project be. 3SG sustain society AS what be explain wish. 3SG PL 1SG how ALL PROX future arrive explain wish. 3SG PROX way live wish.
-(This solar-energy future culture is a community project of future-imagining stories, art, cloth-shaping, and advocacy. It wishes to explain what a sustainable society is like and how we can reach that future. It wishes to live this way.)
+ha sileta kenua wireo moenu lo wireo weni nophi nela shela nela wetha kire nela shaweri sila rinoka nai. shia thenoki punoa phea hina nai solae thueli. shia lo mia thela kau ha wireo kamo solae thueli. shia ha keiro liona thueli.
+PROX sun energy future culture PL future imagine story COORD art COORD cloth shape COORD advocate community project be. 3SG sustain society AS what be explain intend. 3SG PL 1SG how ALL PROX future arrive explain intend. 3SG PROX way live intend.
+(This solar-energy future culture is a community project of future-imagining stories, art, cloth-shaping, and advocacy. It intends to explain what a sustainable society is like and how we can reach that future. It intends to live this way.)
 solarpunk: "Solarpunk is a movement in speculative fiction, art, fashion, and activism that seeks to answer and embody the question “what does a sustainable civilization look like, and how can we get there?”"
 ```
 
@@ -395,7 +395,7 @@ solarpunk: "can happen. Now."
 ```
 sileta kenua wireo moenu lo sherewa.
 
-ha sileta kenua wireo moenu lo wireo weni nophi nela shela nela wetha kire nela shaweri sila rinoka nai. shia thenoki punoa phea hina nai solae pula. shia lo mia thela kau ha wireo kamo solae pula. shia ha keiro liona pula.
+ha sileta kenua wireo moenu lo wireo weni nophi nela shela nela wetha kire nela shaweri sila rinoka nai. shia thenoki punoa phea hina nai solae thueli. shia lo mia thela kau ha wireo kamo solae thueli. shia ha keiro liona thueli.
 
 ha moenu mioru towe kelitho nela mioru shemoli. shia towe noporu nela liro pheno thuroa shemoli. shia keru welisha mioru nela phea muila kethua mioru shemoli.
 

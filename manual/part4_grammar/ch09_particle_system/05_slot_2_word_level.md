@@ -148,7 +148,7 @@ The intimacy honorific *ni* marks closeness with a dear friend or family member.
 The role honorific *le* marks respect for someone's community function or position.
 
 **ne le siora** — respected siora (in their role)
-**mia ne le siora naphe wilao.** — I wish to help siora, in their role.
+**mia ne le siora naphe rinu.** — I want to help siora, in their role.
 
 ## Combining Slot 2 particles
 

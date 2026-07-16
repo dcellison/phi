@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (184)
+## activity (188)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -22,6 +22,7 @@
 | `hinawu` | accommodate | changing a practice so a stated action becomes possible |
 | `kaeshu` | bold | readiness to step forward or risk an uncertain action |
 | `kalei` | climb | Ascent by effort |
+| `kanu` | choose | selecting one action or course from alternatives |
 | `kanuwa` | authorize | granting bounded permission or decision power |
 | `kasira` | vote | formally registering a choice or stance |
 | `katemu` | offcut | a remainder produced during cutting or shaping |
@@ -56,6 +57,7 @@
 | `masuro` | calibrate | comparison and adjustment of a device against a reference |
 | `meilo` | sit | fundamental human activity of sitting |
 | `meliho` | sing | fundamental human activity of singing |
+| `menai` | dedicate | setting work, effort, or self apart for a person or purpose |
 | `milau` | drink | fundamental human activity of drinking |
 | `misharo` | consult | seeking a view before a pending action |
 | `morume` | decompose | biological or chemical breakdown of material |
@@ -133,6 +135,7 @@
 | `seluwhe` | outage | cessation or inadequate provision of a technical function |
 | `sepho` | send | Dispatch and correspondence |
 | `sephori` | supply | making a resource available for practical use |
+| `seru` | commit | undertaking to follow a stated course of action |
 | `sethoni` | handoff | transferring a bounded stage of work |
 | `shalimo` | alliance | oriented toward sustained collective action, not one decision |
 | `shaweri` | advocate | acting in support of a stated position or change |
@@ -168,6 +171,7 @@
 | `thiwera` | scatter | The sower's outward arc |
 | `thonuki` | fail | loss or absence of a required technical function |
 | `thosami` | compatible | components working together for a selected purpose |
+| `thueli` | intend | an agent's present aim towards an action or outcome |
 | `thunaro` | train | guided practice toward a stated practical capacity |
 | `thunesi` | asynchronous | contributions joining one process at different times |
 | `tinako` | rigid | limited adjustability in a plan or procedure |
@@ -193,7 +197,7 @@
 | `wheraku` | erode | detachment and movement of earth or rock |
 | `whetuma` | appeal | requesting formal reconsideration of a prior matter |
 | `wile` | play | fundamental human activity of playing |
-| `winora` | plan | organizing intended actions and conditions |
+| `winora` | plan | organizing intended actions and the conditions around them |
 | `wiresu` | postpone | moving a planned action to a later time |
 | `wishe` | swim | The body's water-travel |
 
@@ -299,7 +303,7 @@
 | `holume` | loss | The gone made nameable |
 | `kaeli` | like | the mental state of favorable regard |
 | `kanelu` | err | The wrong step, named without shame |
-| `kanu` | choose | The act of selecting among alternatives |
+| `kanu` | choose | settling on one alternative from those considered or available |
 | `kanuro` | decision | a choice assigned settled or actionable status |
 | `kelai` | equals | Announces mathematical results through explicit statement |
 | `kelomi` | accept | Acknowledging reality |
@@ -403,7 +407,7 @@
 | `porua` | purpose | Goal orientation |
 | `poruli` | efficient | an assessment whose result depends on selected inputs, outputs, and boundaries |
 | `pukate` | break | The event named so mending can follow |
-| `pula` | wish | Orientation toward desired futures |
+| `pula` | wish | representing an outcome as desired without asserting its likelihood |
 | `pushali` | overload | information or sensory input exceeding current processing capacity |
 | `relo` | symbol | Representation |
 | `remo` | think | considering, remembering, imagining, and following ideas |
@@ -412,6 +416,7 @@
 | `remuma` | conclusion | the proposition reached from stated premises |
 | `reo` | meaning | involves mental processing and comprehension |
 | `reteru` | model | a structured representation used for explanation, comparison, exploration, or prediction |
+| `rinu` | want | directing ordinary desire towards a thing, action, or outcome |
 | `romishe` | contemplate | sustained consideration directed towards a subject or question |
 | `ruka` | complex | an idea, explanation, or route with many relations to follow |
 | `runaki` | wayfind | using cues to establish location and direction |
@@ -424,7 +429,6 @@
 | `selua` | aware | awareness directed towards a present fact, sensation, event, or condition |
 | `sena` | pattern | Recognizable structure |
 | `senao` | same | identity or broad sameness established on a stated or recoverable basis |
-| `seru` | commit | Binding decision |
 | `shalimo` | alliance | held together by a shared conviction, an idea before it is a bond |
 | `sharemi` | persuade | movement toward a belief or judgment through communication |
 | `shareo` | discuss | joint examination of a stated subject |
@@ -451,6 +455,7 @@
 | `sitawi` | inventory | a structured representation of material state |
 | `solae` | explain | reasons and relations arranged so that they can be understood |
 | `soleha` | luck | The unearned part of outcomes |
+| `soliru` | hope | regarding a desired but unresolved outcome as possible |
 | `somaki` | test | gathering bounded evidence about a claim or criterion |
 | `somela` | observe | deliberate perceptual attention to details, events, or patterns |
 | `someru` | supervise | observing conditions and responding to performance |
@@ -488,7 +493,7 @@
 | `thonua` | scholar | Deep study |
 | `thonuki` | fail | a classification that requires a stated function and conditions |
 | `thorima` | taste | flavour becoming a conscious perception |
-| `thueli` | intend | Directed will |
+| `thueli` | intend | holding an action or outcome as what one means to bring about |
 | `thunai` | student | Receptive mind |
 | `thunaro` | train | structured learning through instruction and feedback |
 | `thuni` | intuitive | a thought or response arising without consciously followed reasoning |
@@ -515,8 +520,7 @@
 | `wheparu` | discriminate | an assigned or perceived category directing action |
 | `whinu` | smell | an odour becoming perceptible and recognisable |
 | `wiero` | imaginative | the capacity to form possibilities beyond what is presently perceived |
-| `wilao` | long-for | awareness of the mind's movement toward objects |
-| `winora` | plan | forming a revisable structure for future action |
+| `winora` | plan | forming a revisable arrangement for an undertaking |
 | `wireki` | prognosis | a conditional inference about a health course |
 | `woraka` | appreciate | Perceiving value clearly |
 
@@ -639,7 +643,7 @@
 | `whekate` | refute | a decisive challenge supported by reasons or evidence |
 | `whishela` | whisper | Speech made of breath |
 
-## community (287)
+## community (288)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -812,6 +816,7 @@
 | `seluwhe` | outage | loss of a stated shared or infrastructure service for affected participants |
 | `sepho` | send | Transfer across distance |
 | `sephori` | supply | provision between participants, processes, or places |
+| `seru` | commit | a commitment on which another person or group may rely |
 | `sethoni` | handoff | a transition between participants without implied acceptance |
 | `shalimo` | alliance | a bound group of people, not a single occasion of meeting |
 | `shalori` | represent | acting or communicating on behalf of a stated party |
@@ -931,7 +936,7 @@
 | `wonepa` | table | Where the meal gathers |
 | `woru` | keeper | Guardian role |
 
-## creation (169)
+## creation (168)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1059,7 +1064,6 @@
 | `sima` | thread | Spun fiber |
 | `sitheku` | transcribe | making a stable textual rendering of language |
 | `soeli` | cup | Drinking vessel |
-| `soliru` | hope | actively builds and creates envisioned futures |
 | `sorila` | cultivate | Developing through intentional effort |
 | `suro` | rope | Strong cord |
 | `talome` | restore | Returning to original wholeness |
@@ -1134,7 +1138,6 @@
 | `melira` | song | Feeling given melodic shape |
 | `meloa` | persevere | Steady resolve |
 | `melu` | friend | inherently involves emotional bonds of affection, care, and concern |
-| `menai` | dedicate | Deep commitment |
 | `meropi` | cherish | Tender protective valuing |
 | `mishoa` | express | an inward feeling made available through outward form |
 | `monelu` | amused | light pleasure in finding something funny or entertaining |
@@ -1158,10 +1161,11 @@
 | `phamo` | console | Accompanying grief |
 | `phesua` | inspire | transforms states from dormancy to excitement and urge |
 | `phimela` | kiss | Affection made touch |
-| `pula` | wish | Holding hope for outcomes |
+| `pula` | wish | wanting an outcome to occur |
 | `puro` | strength | Inner fortitude |
 | `renoa` | liberate | Release from bondage |
 | `rimawu` | drudgery | the experienced tedium, aversion, or loss of meaning |
+| `rinu` | want | the experience of wanting without a fixed degree or duration |
 | `ruesha` | compassionate | fellow-feeling joined to a wish that suffering ease |
 | `seniku` | smile | Expressing warmth and pleasure |
 | `shaelo` | brave | resolve shown while fear, danger, or pain is present |
@@ -1169,7 +1173,7 @@
 | `sheli` | impatient | agitation felt during an unwanted delay |
 | `shena` | calm | low agitation in present feeling or manner |
 | `siora` | joy | joy experienced as present gladness or delight |
-| `soliru` | hope | embodies confident expectation and positive feeling about possibilities |
+| `soliru` | hope | felt orientation towards an outcome one would welcome |
 | `sukima` | fear | alarm felt in response to perceived danger |
 | `thaemo` | precious | someone or something held dear by a stated person |
 | `thaemu` | sincere | genuine feeling made present in words or gesture |
@@ -1193,7 +1197,7 @@
 | `warosha` | reconcile | Processing hurt toward restoration |
 | `wema` | belong | feeling of being held and accepted within relationships |
 | `whelani` | welcome | warmth and heartfelt reception |
-| `wilao` | long-for | internal experience of yearning and desire |
+| `wilao` | long-for | sustained or intense desire for someone, something, or an outcome |
 | `wile` | play | Experiencing lightness and joy |
 | `wipha` | restless | felt agitation or difficulty settling |
 | `wiroa` | hopeful | felt expectation that a desired outcome remains possible |
@@ -1846,7 +1850,7 @@
 | `meilo` | sit | ceremonial significance in meditation, councils, and traditional gatherings |
 | `meipa` | seat | What receives the practice |
 | `melira` | song | Carrier of communal memory and ceremony |
-| `menai` | dedicate | Devotional act |
+| `menai` | dedicate | dedication expressed through a repeated or ceremonial practice |
 | `nelu` | revere | Honoring practice |
 | `nuhemi` | grieve | The practice and season of mourning |
 | `nuola` | eat | the mindful practice of receiving food |
@@ -2030,7 +2034,7 @@
 | `womuri` | household | daily life organized around a dwelling |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (171)
+## temporal (169)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2142,7 +2146,7 @@
 | `seluwhe` | outage | a bounded period of unavailability or interruption |
 | `serao` | old | long duration judged within the context at hand |
 | `seroli` | mature | a stage reached after sufficient development |
-| `seru` | commit | Pledge moment |
+| `seru` | commit | an undertaking meant to continue beyond the moment it is made |
 | `sethoni` | handoff | movement from one stage or custodian to the next |
 | `sheli` | impatient | difficulty allowing waiting to continue |
 | `shemu` | moment | Brief duration |
@@ -2153,7 +2157,6 @@
 | `sitawi` | inventory | a record explicitly bounded to a time |
 | `sitheku` | transcribe | preserving passing language for later use |
 | `soleha` | luck | The way things fall |
-| `soliru` | hope | orients toward future transformation and change |
 | `somethi` | monitor | attention repeated across a stated interval and duration |
 | `sonari` | isolate | separation for a stated period |
 | `suilo` | dew | Ephemeral morning phenomenon |
@@ -2185,7 +2188,6 @@
 | `thorea` | ceremony | marks transitions and milestones in communal time |
 | `thorui` | beginning | Origin point |
 | `thowia` | born | The first threshold of a life |
-| `thueli` | intend | Future orientation |
 | `thunaro` | train | practice developed through a sequence of attempts |
 | `thunesi` | asynchronous | participation distributed across different moments |
 | `thuroa` | grow | Process unfolding over time |
@@ -2197,7 +2199,7 @@
 | `wepuri` | progress | change across stages of an undertaking |
 | `weshaku` | outbreak | cases considered within a stated period |
 | `wheo` | elder | embodies accumulated time and life cycles |
-| `winora` | plan | relating intended actions across future order |
+| `winora` | plan | relating actions across a proposed order or schedule |
 | `wirae` | spring (season) | Renewal season |
 | `wireki` | prognosis | an expected course or outcome over time |
 | `wireo` | future | After now |
@@ -2206,7 +2208,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (129)
+## wisdom (127)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2215,7 +2217,6 @@
 | `hinolu` | adapt | Responsive flexibility |
 | `hiru` | intuit | immediate judgement that may draw on accumulated experience before explanation |
 | `howela` | receive | requires understanding how to receive with grace |
-| `kanu` | choose | Where deliberation becomes direction |
 | `kathu` | seal | Confirmation |
 | `keiro` | way | Manner of approach |
 | `keli` | device | Crafted complexity |
@@ -2297,7 +2298,6 @@
 | `silero` | star | guide for routes and seasons |
 | `sima` | thread | Connection |
 | `siru` | marker | Path guide |
-| `soliru` | hope | requires understanding causes and conditions for change |
 | `sone` | value | Worth recognition |
 | `soneho` | tradeoff | attention to what every available option preserves and relinquishes |
 | `sorai` | insight | Penetrating understanding |

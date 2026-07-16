@@ -1,0 +1,31 @@
+{
+  "word": "rinu",
+  "gloss": "want",
+  "ipa": "/ˈri.n̪u/",
+  "syllables": [
+    "ri",
+    "nu"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "desire",
+    "want to"
+  ],
+  "description": "A person wants water; after a long visit, they want to go home. 'rinu' names ordinary desire for a thing, action, or outcome without saying how strong or lasting it is. 'pula' (wish) presents an outcome one would welcome, while 'wilao' (long-for) gives the desire a sustained or intense pull.",
+  "articulatory_notes": "Make a tap or short trill with the tongue tip for 'r' and move into stressed high-front unrounded 'i'. Press the tongue tip behind the upper teeth for voiced dental 'n', let air pass through the nose, and finish with high-back rounded 'u'.",
+  "usage_notes": "The wanted thing or action appears before 'rinu'; a complete desired event takes the 'mena ... meno' frame. Used as a noun, 'rinu' is wanting or a want. Wanting does not itself make a request or establish a need: directive grammar supplies the request, while 'phelona' applies when circumstances require something.",
+  "examples": [
+    {
+      "phi": "mia phialu rinu.",
+      "translation": "I want water."
+    }
+  ],
+  "pillars": {
+    "secular-buddhist-philosophy": "A person can name desire before deciding whether to follow it, release it, or discover that it answers a need.",
+    "peace-linguistics-practices": "Saying what I want presents my own desire. It does not quietly turn that desire into another person's obligation."
+  },
+  "semantic_domains": {
+    "cognition": "directing ordinary desire towards a thing, action, or outcome",
+    "emotion": "the experience of wanting without a fixed degree or duration"
+  }
+}
