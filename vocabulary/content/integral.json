@@ -8,16 +8,26 @@
     "e"
   ],
   "pos": "adjective",
-  "concept": "Integral / Essential Part / Whole-Making",
-  "description": "Necessary for completeness; being an essential part of a whole. 'Monae' names what cannot be removed without breaking wholeness—the piece that completes.",
-  "sound_symbolism": "The word connects from within. 'Mo' begins with nasal wholeness, the inner sense that a part belongs to something larger. 'Nae' grounds with necessary presence. Integral as felt completeness, the mindful recognition that this piece matters.",
-  "grammatical_notes": "Functions as adjective: 'monae miona' (integral person). Related to 'noetha' (essential) but names a part's necessity to a whole; compare 'whoa' (whole).",
+  "search_terms": [
+    "indispensable part",
+    "necessary component",
+    "constitutive"
+  ],
+  "description": "A part is 'monae' when a particular whole needs it to remain complete or to function as defined. A 'monaki' (component) is identified by its role in a system, but only some components are integral. 'noetha' (essential) is broader because an external condition can be indispensable without being part of the whole.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm', carry the voice through the nose, and open into true-mid rounded back 'o'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', continue the nasal voice, and open into stressed central 'a'. Move the tongue forward and raise it slightly for a separate true-mid unrounded 'e', keeping the 'a.e' hiatus clear.",
+  "sound_symbolism": "Voice continues through both nasal consonants while the vowels open from rounded 'o' through 'a' to final 'e'. The three syllables stay audibly joined, like a part that remains inside its whole.",
+  "usage_notes": "The relevant whole may be stated nearby or already shared. For a person, context supplies the community or activity in which their participation is integral; 'rolia' (worth) remains independent of that role.",
+  "examples": [
+    {
+      "phi": "ha monaki monae nai.",
+      "translation": "This component is integral."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Integral systems—understanding how parts connect to create functioning wholes.",
-    "secular-buddhist-philosophy": "Integral being—recognizing oneself as essential part of larger wholes."
+    "solarpunk-values": "A repair plan can identify one integral component and keep the larger device in use instead of discarding the whole assembly."
   },
   "semantic_domains": {
-    "cognition": "Essential connection",
-    "community": "Whole-making"
+    "cognition": "a necessary part-to-whole relation identified in an analysis",
+    "creation": "a component a made system needs in order to remain complete or function as defined"
   }
 }

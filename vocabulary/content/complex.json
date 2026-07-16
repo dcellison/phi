@@ -7,16 +7,27 @@
     "ka"
   ],
   "pos": "adjective",
-  "concept": "Complex / Intricately Connected / Many-Parted",
-  "description": "Consisting of many interconnected parts; intricate rather than simple. 'Ruka' names the quality of rich interconnection—systems with many relationships, patterns with multiple layers, wholes made of interlocking parts.",
-  "sound_symbolism": "The word weaves connections. 'Ru' begins with rolling intricacy, parts gathering. Then 'ka' clicks into place, elements interlocking.",
-  "grammatical_notes": "Functions as an adjective: 'ruka nuri' (complex cycle). Opposite of 'siloma' (simple). Not negative—complexity can be beautiful, as in ecosystems or Art Nouveau designs.",
+  "search_terms": [
+    "intricate",
+    "many-parted",
+    "multi-step"
+  ],
+  "description": "'ruka' applies to an arrangement with many parts, steps, or relations whose connections matter. A route may be complex because its decisions interact, and a concept because several claims depend on one another. 'siloma' (simple) has few relations to follow; 'kethua' (hard) concerns the effort a task demands, so complexity and difficulty remain separate judgements.",
+  "articulatory_notes": "Make a tap or short trill with the tongue tip for 'r', then raise the back of the tongue into stressed high rounded 'u'. Close the back of the tongue against the soft palate for unvoiced 'k' and release it into open central unrounded 'a'.",
+  "sound_symbolism": "A brief tongue contact at the front of the mouth gives way to a full closure at the back. Two distinct points fit inside this compact word, much as several parts may fit inside one complex arrangement.",
+  "usage_notes": "Noun use supplies complexity. When English complicated means both many-parted and difficult, Phi can state 'ruka' and 'kethua' as two qualities instead of asking one adjective to carry both.",
+  "examples": [
+    {
+      "phi": "ha remole ruka nai.",
+      "translation": "This concept is complex."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Complex systems like ecosystems demonstrate resilience through interconnection—complexity as strength.",
-    "art-nouveau-aesthetics": "Art Nouveau embraced complex organic patterns—intricate designs that revealed new details on each viewing."
+    "art-nouveau-aesthetics": "An Art Nouveau grille may be 'ruka' because its stems and curves form a pattern with many relations. Complexity describes the arrangement before anyone praises it."
   },
   "semantic_domains": {
-    "cognition": "Multi-layered quality",
-    "nature": "Interconnected systems"
+    "cognition": "an idea, explanation, or route with many relations to follow",
+    "creation": "a designed object or system with interacting parts",
+    "nature": "a living or ecological system with many interacting relations"
   }
 }

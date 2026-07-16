@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (179)
+## activity (181)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -135,6 +135,7 @@
 | `sethoni` | handoff | transferring a bounded stage of work |
 | `shalimo` | alliance | oriented toward sustained collective action, not one decision |
 | `shaweri` | advocate | acting in support of a stated position or change |
+| `sholu` | complete | a task or process with every required step finished |
 | `shua` | come | basic human action of moving toward a reference point |
 | `shuneki` | vaccinate | administering a vaccine for a stated protective purpose |
 | `sikanu` | certify | issuing or maintaining a formal criteria claim |
@@ -153,6 +154,7 @@
 | `teshori` | quarantine | restricting contact after possible exposure |
 | `thalo` | walk | fundamental form of human locomotion |
 | `thape` | burn | The keeping of flame |
+| `theali` | fitting | an action or method suited to its present purpose and conditions |
 | `thekamu` | intervene | a deliberate action within bodily care |
 | `therapi` | boil | heating liquid to sustained bubbling |
 | `therilu` | rest | fundamental human activity of resting |
@@ -278,7 +280,7 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `wira` | window | View portal |
 
-## cognition (238)
+## cognition (239)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -343,7 +345,7 @@
 | `miratu` | recognize | Connecting perception to memory |
 | `mirela` | state | a selected description used to analyze change |
 | `mokanu` | disease | a health classification under stated criteria and source |
-| `monae` | integral | Essential connection |
+| `monae` | integral | a necessary part-to-whole relation identified in an analysis |
 | `morae` | sense | perception noticed before it becomes a conclusion or claim of knowledge |
 | `moreko` | articulate | Translating inner experience to speech |
 | `mothami` | baseline | a selected reference condition used for comparison |
@@ -357,7 +359,7 @@
 | `nathoku` | contraindicated | a source-bounded judgment against a proposed intervention |
 | `nila` | see | visual information entering awareness |
 | `nilaki` | inspect | a structured relation among observations, scope, and assessment |
-| `noetha` | essential | Core recognition |
+| `noetha` | essential | an indispensable condition identified for a purpose, identity, or result |
 | `nohero` | believe | Holding something as true |
 | `nomiki` | concentration | a ratio whose agent, denominator, method, and source shape interpretation |
 | `nophi` | story | cognitive structures for organizing events into meaningful sequences |
@@ -388,7 +390,7 @@
 | `phiketu` | contradict | logical incompatibility between claims under shared conditions |
 | `philima` | biodiversity | a scoped and measured account of living variation |
 | `phiora` | spirit | Inner animation |
-| `phirae` | different | the perception of distinction |
+| `phirae` | different | comparative recognition that things differ in the relevant respect |
 | `phiremo` | relate | Perceiving connections |
 | `phirena` | meditate | Training and focusing attention |
 | `phisoe` | creative | Inventive capacity |
@@ -413,7 +415,7 @@
 | `reo` | meaning | involves mental processing and comprehension |
 | `reteru` | model | a structured representation used for explanation, comparison, exploration, or prediction |
 | `romishe` | contemplate | Deep, sustained thinking |
-| `ruka` | complex | Multi-layered quality |
+| `ruka` | complex | an idea, explanation, or route with many relations to follow |
 | `runaki` | wayfind | using cues to establish location and direction |
 | `sahu` | forget | Memory's release, willed or not |
 | `samethu` | equivalent | a selected match in meaning or function |
@@ -423,7 +425,7 @@
 | `selu` | flow | creates mental state of optimal experience and effortless concentration |
 | `selua` | aware | awareness directed towards a present fact, sensation, event, or condition |
 | `sena` | pattern | Recognizable structure |
-| `senao` | same | the perception of identity |
+| `senao` | same | identity or broad sameness established on a stated or recoverable basis |
 | `seru` | commit | Binding decision |
 | `shalimo` | alliance | held together by a shared conviction, an idea before it is a bond |
 | `sharemi` | persuade | movement toward a belief or judgment through communication |
@@ -440,6 +442,7 @@
 | `shiloa` | pure | one intention, factor, or line of thought considered without another mixed through it |
 | `shiwolu` | integrate | Synthesizing into coherent whole |
 | `sholei` | gather | Names arithmetic addition through a gathering metaphor |
+| `sholu` | complete | an account, set, or explanation containing what its stated scope requires |
 | `shonela` | learn | fundamental process of acquiring and integrating knowledge |
 | `shoraku` | interpret | understanding one expression well enough to convey its meaning |
 | `shoru` | dull | attention or thought with reduced acuity |
@@ -465,7 +468,7 @@
 | `tawimo` | foolish | an act or choice made without enough attention to what it requires |
 | `telua` | accurate | agreement between a representation and the fact or reference it represents |
 | `terura` | system | a bounded unit selected for analysis and explanation |
-| `theali` | fitting | assessment of alignment with reality |
+| `theali` | fitting | a contextual judgement of suitability rather than factual accuracy |
 | `thekao` | acknowledge | requires mindful attention to truly see another |
 | `thekiro` | write | Externalizing thought |
 | `thekopa` | recipe | remembered or recorded knowledge for preparing food |
@@ -642,7 +645,7 @@
 | `whekate` | refute | a decisive challenge supported by reasons or evidence |
 | `whishela` | whisper | Speech made of breath |
 
-## community (284)
+## community (283)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -721,7 +724,6 @@
 | `moenu` | culture | Shared ways |
 | `molawi` | cooperate | harmonizes diverse roles toward common purpose |
 | `moloi` | apprentice | Learning role |
-| `monae` | integral | Whole-making |
 | `moreke` | mammal | Close animal kin |
 | `motu` | humble | a stance that does not place one's importance above other people's |
 | `muneki` | latrine | a sanitation place used within shared or solitary daily life |
@@ -931,7 +933,7 @@
 | `wonepa` | table | Where the meal gathers |
 | `woru` | keeper | Guardian role |
 
-## creation (166)
+## creation (168)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -989,6 +991,7 @@
 | `moloi` | apprentice | Craft training |
 | `molu` | container | Receptacle |
 | `molupa` | box | a rigid container assembled from flat sides |
+| `monae` | integral | a component a made system needs in order to remain complete or function as defined |
 | `monaki` | component | a functionally identified part of a designed or analyzed whole |
 | `moru` | wall | Boundary structure |
 | `motha` | foundation | Base structure |
@@ -1047,6 +1050,7 @@
 | `riola` | labor | producing and contributing through labor |
 | `roela` | scroll | Document form |
 | `rolu` | wheel | Rotating tool |
+| `ruka` | complex | a designed object or system with interacting parts |
 | `sawathi` | soap | a prepared cleansing substance |
 | `selomi` | weave | Interlacing into coherent whole |
 | `sephori` | supply | supporting making and repair through resource flow |
@@ -1366,7 +1370,7 @@
 | `rihe` | rise | Effortless ascent |
 | `roena` | copper | Elemental metal |
 | `ronua` | south | The open expanse of the turning sky |
-| `ruka` | complex | Interconnected systems |
+| `ruka` | complex | a living or ecological system with many interacting relations |
 | `ruloi` | flourish | Vigorous, abundant growth |
 | `runae` | resin | Tree secretion |
 | `selu` | flow | embodies natural phenomena of water currents and organic movement patterns |
@@ -1699,7 +1703,7 @@
 | `shena` | calm | low turbulence in water or breath |
 | `sheru` | slow | a low rate of bodily or material movement |
 | `shiloa` | pure | material treated as unmixed under the stated conditions |
-| `sholu` | complete | All parts present |
+| `sholu` | complete | an object or assembly with every required part present |
 | `shonui` | ear | Organ of hearing |
 | `shonuwa` | sound | an acoustic event or the medium available to hearing |
 | `shorenu` | immune | partial or conditional bodily protection |
@@ -1870,7 +1874,7 @@
 | `whola` | invite | involves ceremonial protocols and formal gestures of welcome |
 | `whunei` | breathe | Central to meditation practice |
 
-## spatial (153)
+## spatial (151)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1954,7 +1958,6 @@
 | `pheno` | full | the degree to which contents occupy a bounded space |
 | `phesari` | flee | movement away from a threatening or intolerable situation |
 | `phewani` | neighbor | defined by proximity and shared physical space |
-| `phirae` | different | the relationship of non-equivalence |
 | `pholeni` | depart | Leaving a place |
 | `ponalu` | size | scale considered across a thing's dimensions as a whole |
 | `ponu` | door | Entry barrier |
@@ -1971,7 +1974,6 @@
 | `sekaru` | transfer | a source-to-goal relation across a boundary |
 | `selu` | flow | traces movement through space along natural trajectories |
 | `seluto` | pour | movement from a source container toward a destination |
-| `senao` | same | the relationship of equivalence |
 | `sepho` | send | Caused travel toward a recipient |
 | `sharoi` | exceed | Frames relative position in numerical space—one quantity extends beyond another |
 | `shoeka` | route | Course of travel |
@@ -2204,7 +2206,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (138)
+## wisdom (137)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2249,7 +2251,7 @@
 | `nai` | be | recognizing and accepting what is |
 | `nawea` | respect | understanding inherent worth and dignity |
 | `noa` | position | Understanding position as relational rather than hierarchical |
-| `noetha` | essential | Fundamental understanding |
+| `noetha` | essential | practical judgement about what a course cannot lose and still meet its purpose |
 | `nomi` | present | Here-and-now quality |
 | `nomira` | collect | Selective accumulation over time |
 | `norae` | method | Ordered way |
@@ -2293,7 +2295,6 @@
 | `shemu` | moment | Present experience |
 | `shimalo` | discipline | aligns actions with deeper intentions through skillful training |
 | `shoeka` | route | Way chosen |
-| `sholu` | complete | Nothing lacking |
 | `shonela` | learn | involves understanding and transformation of perspective |
 | `silero` | star | guide for routes and seasons |
 | `sima` | thread | Connection |
@@ -2308,7 +2309,7 @@
 | `tenoa` | tool | Appropriate technology |
 | `thaemo` | precious | Worth protecting |
 | `theala` | heal | requires understanding root causes and skillful means |
-| `theali` | fitting | recognition of appropriate relationship |
+| `theali` | fitting | selection of a response appropriate to the situation and relationship |
 | `thekiro` | write | Preserving knowledge across time |
 | `theko` | craft | Embodied, practiced knowledge |
 | `theloa` | truth | understanding deeper reality and skillful expression |

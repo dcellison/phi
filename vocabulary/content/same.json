@@ -8,16 +8,22 @@
     "o"
   ],
   "pos": "adjective",
-  "concept": "Same / Identity-Shared / This-As-That",
-  "description": "The adjective naming the quality of being identical or equivalent, the relationship of matching or unity. In Phi, sameness is understood not as mere duplication but as recognition of shared essence—the way two things reveal themselves as one in some meaningful dimension. This word names the bridge of identity that connects apparently separate things.",
-  "sound_symbolism": "The word opens with 'se', where the sibilant flows smoothly—sameness as continuity, unbroken identity. This grounds through 'na', where the nasal anchors in stable presence—the reliability of sameness. The final 'o' rounds into completeness, the unity of same things. The arc traces sameness: smooth continuity, stable presence, rounded unity.",
-  "grammatical_notes": "Functions as an adjective or comparative marker: 'ha wi themo ruela senao nai.' (These two paths are the same.) Can describe identical objects or equivalent qualities. Often paired with demonstratives or used in comparative constructions. Contrasted with different (phirae).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Recognizing sameness across apparent difference is insight practice. 'Senao' names the perception of shared nature.",
-    "peace-linguistics-practices": "Finding sameness between self and other grounds empathy and peace. 'Senao' names what connects rather than divides."
-  },
+  "search_terms": [
+    "identical",
+    "matching",
+    "same referent"
+  ],
+  "description": "'senao' says that two descriptions point to one referent or that things match broadly in the respect under discussion. A pair of paths may be the same route even when speakers describe them from opposite ends. 'kolo' (equal) claims one measure or standing, while 'samethu' (equivalent) claims a bounded match in meaning, function, or effect.",
+  "articulatory_notes": "Raise the tongue blade towards the alveolar ridge for unvoiced 's' and direct the narrow airflow into true-mid front unrounded 'e'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and open into stressed central 'a'. Raise the back of the tongue and round the lips for a separate true-mid 'o', preserving the 'a.o' hiatus.",
+  "sound_symbolism": "The form moves from a narrow stream of air into a voiced nasal, then keeps that voice across the broad 'a.o' hiatus. Its continuing final contour can suggest one relation heard under two descriptions.",
+  "usage_notes": "For resemblance rather than identity, the shared property can be named, as in 'senao kire' (same shape), while another clause states what differs. The noun use is sameness.",
+  "examples": [
+    {
+      "phi": "ha wi themo ruela senao nai.",
+      "translation": "These two paths are the same."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "the perception of identity",
-    "spatial": "the relationship of equivalence"
+    "cognition": "identity or broad sameness established on a stated or recoverable basis"
   }
 }
