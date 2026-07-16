@@ -7,15 +7,25 @@
     "lu"
   ],
   "pos": "verb",
-  "concept": "Dialogue / A Deliberate, Deep Flow",
-  "description": "A more formal and intentional conversation aimed at co-creating meaning and deeper understanding. It is a structured, respectful exchange of perspectives with the goal of reaching a new, shared insight.",
-  "sound_symbolism": "The word opens with the thoughtful 'th' /θ/, establishing the deliberate attention that distinguishes dialogue from casual talk. This flows into the deep current of 'lu', suggesting exchange that moves beneath surface pleasantries into meaningful depths. Spoken with full hiatus, the word cannot be rushed; its pace enacts the pause and depth that dialogue itself requires.",
-  "grammatical_notes": "As a verb it takes a companion: 'mia nua melu thelu' (I dialogue with a friend). The noun, the exchange itself, comes by the event-noun rule: 'thelu shea kealo' (dialogue creates peace).",
+  "search_terms": [
+    "deliberate exchange",
+    "structured conversation"
+  ],
+  "description": "People may 'thelu' in a careful public exchange or in a private attempt to understand a disagreement. Participants enter deliberately and attend to one another's views. 'thorelu' (converse) is ordinary conversation; dialogue leaves consensus open.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', pass air along it, and release into stressed true-mid front 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l' and finish with high-back rounded 'u'.",
+  "usage_notes": "A companion can appear with 'nua', and a plural subject can supply all participants. In noun position, 'thelu' is the dialogue itself.",
+  "examples": [
+    {
+      "phi": "mia nua melu thelu.",
+      "translation": "I dialogue with a friend."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Dialogue embodies the practice of non-attachment to views - entering conversation willing to be changed by what we hear. It requires the humility to recognize our perspective as partial and the courage to let go of being right. Through dialogue, we practice seeing through another's eyes, understanding that multiple truths can coexist without contradiction.",
-    "peace-linguistics-practices": "Dialogue represents the highest form of peaceful communication - moving beyond debate or discussion to co-create understanding. In true dialogue, participants suspend judgment, listen deeply, and allow new meanings to emerge between them. This practice transforms potential conflict into collaborative exploration, recognizing that truth often lies not in one position or another but in the wisdom that emerges through respectful exchange."
+    "secular-buddhist-philosophy": "Dialogue allows a view to be stated without fastening identity to it. Another person's answer may change the account.",
+    "peace-linguistics-practices": "The verb keeps deliberate exchange distinct from victory in debate. Participants may leave with a clearer disagreement."
   },
   "semantic_domains": {
-    "communication": "co-creates meaning through structured exchange"
+    "communication": "deliberate exchange among participants who attend to one another's views",
+    "community": "a shared practice for examining disagreement while consensus stays open"
   }
 }

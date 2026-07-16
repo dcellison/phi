@@ -8,16 +8,25 @@
     "lu"
   ],
   "pos": "verb",
-  "concept": "Speak / To Give Voice to Thought",
-  "description": "The fundamental act of giving form to one's inner world through articulated sound. It is the bridge between the personal self and the shared world.",
-  "sound_symbolism": "The breathy 'ha' begins with the very essence of speech - breath itself. The resonant 'o' gives that breath shape and resonance, while the flowing 'lu' carries the formed words outward into the world. This progression mirrors the act of speaking: breath becomes voice, voice becomes words, words flow into communication.",
-  "grammatical_notes": "Functions as a verb: 'mia haolu.' (I speak.) For the noun, Phi turns to neighbors: 'haoni' (voice) or 'thelu' (dialogue). This verbal nature emphasizes speaking as action and process rather than static concept.",
+  "search_terms": [
+    "say aloud",
+    "use spoken language"
+  ],
+  "description": "'haolu' is the general act of using the voice to produce language. A person may speak without quoting particular words or addressing a named listener. 'shemui' (utter) picks out bounded words or content, while 'shane' (tell) directs an account to someone.",
+  "articulatory_notes": "Let unvoiced air pass freely through the open glottis for 'h', then shape open central 'a'. The stressed rounded true-mid back 'o' remains its own hiatus syllable. Touch the tongue tip to the alveolar ridge for 'l' and finish with high-back rounded 'u'.",
+  "sound_symbolism": "The word begins as open breath and lets the following vowels remain plainly separate. In Phi, that unimpeded path offers a physical mnemonic for speech leaving the body.",
+  "usage_notes": "The verb may stand alone for the activity of speaking. Reported clauses use 'mena ... meno', and direct quotations use 'shola ... sholo'. In noun position, 'haolu' is speech or speaking.",
+  "examples": [
+    {
+      "phi": "mia haolu.",
+      "translation": "I speak."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Right speech emerges from understanding the power of words to create reality - what we speak shapes both our own minds and the world around us. This isn't about censorship but mindful expression, recognizing that careless speech perpetuates suffering while careful speech can liberate. Speaking becomes a practice of awareness itself.",
-    "peace-linguistics-practices": "Speaking with awareness transforms words from weapons into bridges - each utterance carries the power to harm or heal, divide or connect. This practice requires pausing before speech to consider impact, choosing words that express truth without violence, and recognizing that how we speak matters as much as what we say."
+    "secular-buddhist-philosophy": "Before speaking, a person can notice the breath, the intention, and the claim about to leave the mouth. The verb itself makes no promise that the speech was wise.",
+    "peace-linguistics-practices": "Because 'haolu' names speaking rather than truth or kindness, Phi can examine a speaker's evidence and intent separately from the effect."
   },
   "semantic_domains": {
-    "cognition": "transforming thoughts into words",
-    "communication": "speaking is fundamental to communication"
+    "communication": "the general vocal production of language"
   }
 }

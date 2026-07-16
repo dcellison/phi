@@ -8,16 +8,25 @@
     "ko"
   ],
   "pos": "verb",
-  "concept": "Articulate / Express Clearly / Give Voice To",
-  "description": "To express thoughts or feelings with clarity and precision, giving clear voice to what might otherwise remain vague or unspoken. 'Moreko' names the skill of making inner experience communicable—finding words that accurately convey meaning.",
-  "sound_symbolism": "The word shapes meaning clearly. 'Mo' begins with nasal depth, drawing from inner understanding. Then 're' rolls outward with extending expression, meaning moving toward speech. Finally 'ko' defines with velar clarity, words precisely formed.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia lo remo moreko.' (I articulate thoughts.) Related to 'mishoa' (express) and 'sheori' (communicate) but emphasizes clarity and precision.",
+  "search_terms": [
+    "put into words",
+    "express clearly"
+  ],
+  "description": "A person may know what troubles them yet need time to 'moreko' it. This puts a thought or feeling into clear, exact words. 'mishoa' (express) also includes gesture or art, while 'lilea' (clarify) makes existing wording less ambiguous.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm', carry the voice through the nose, and release into rounded true-mid back 'o'. Tap or briefly trill the tongue at the alveolar ridge before stressed true-mid front 'e'. Close the back of the tongue against the soft palate for 'k' and release into rounded true-mid back 'o'.",
+  "sound_symbolism": "The word moves through three distinct contacts at the lips, the alveolar ridge, and the soft palate. Their measured sequence can recall the care of finding exact words.",
+  "usage_notes": "The thought, feeling, or position put into words is a direct object. In noun position, 'moreko' is articulation.",
+  "examples": [
+    {
+      "phi": "mia lo remo moreko.",
+      "translation": "I articulate thoughts."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Articulating experience helps us understand it—putting inner states into words brings awareness to what we feel and think.",
-    "peace-linguistics-practices": "Clear articulation prevents misunderstanding—when we express ourselves precisely, others can respond to what we actually mean."
+    "peace-linguistics-practices": "Exact wording gives another person something they can answer. It reduces the need to guess at what the speaker meant."
   },
   "semantic_domains": {
-    "cognition": "Translating inner experience to speech",
-    "communication": "Clear verbal expression"
+    "cognition": "a thought or feeling formed into exact words",
+    "communication": "clear verbal expression available for another person's response"
   }
 }

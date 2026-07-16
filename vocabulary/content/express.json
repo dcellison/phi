@@ -8,17 +8,27 @@
     "a"
   ],
   "pos": "verb",
-  "concept": "Express / To Make the Inner Self Open",
-  "description": "The act of conveying a thought or feeling in a perceivable form. It is the fundamental process of making the inner world manifest in the outer world.",
-  "sound_symbolism": "The word begins with 'mi', a soft nasal that resonates from deep within, where authentic expression originates. This inner vibration flows through 'sho', a gentle fricative that transforms internal feeling into external form—the breath that carries truth outward. The final 'a' opens completely, releasing what was held inside into the shared world. This three-part movement—from inner resonance through transformative breath to complete opening—mirrors the courage of true expression. The sound progression feels like a flower unfolding: first the bud ('mi'), then the gentle unfurling ('sho'), finally the full bloom ('a').",
-  "grammatical_notes": "A transitive verb: 'mia siora mishoa' (I express joy). An expression, the thing expressed, is available by the event-noun rule.",
+  "search_terms": [
+    "make perceptible",
+    "give form to a feeling"
+  ],
+  "description": "Joy may find perceptible form in words or music, and a pattern can show the maker's sense of balance. Phi uses 'mishoa' for making that outward form. 'moreko' (articulate) specifically finds clear words, while 'sheori' (communicate) directs meaning towards a recipient.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm', carry the voice through the nose, and release into high-front unrounded 'i'. Raise the tongue blade towards the postalveolar region for voiceless 'sh' and pass air into stressed rounded true-mid back 'o'. Finish on open central 'a' after a clear hiatus.",
+  "sound_symbolism": "The word begins behind closed lips, passes through audible breath, and ends fully open. In Phi, that movement can recall something inward finding an outward form.",
+  "usage_notes": "The thought, feeling, or quality expressed is a direct object; context can supply the medium. In noun position, 'mishoa' is expression.",
+  "examples": [
+    {
+      "phi": "mia siora mishoa.",
+      "translation": "I express joy."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "To express skillfully requires the practice of Right Speech - speaking from a place of mindful awareness rather than reactive emotion. True expression emerges when we have first understood our own inner landscape, allowing us to share our truth without aggression or manipulation, contributing to the reduction of suffering rather than its increase.",
-    "art-nouveau-aesthetics": "Expression embodies the Art Nouveau principle that inner essence must find outer form - that beauty emerges when natural forces are allowed to manifest without artificial constraint. Like the flowing lines that express the life force of plants, human expression at its best allows inner truth to shape external form organically.",
-    "peace-linguistics-practices": "Expression serves peace by making the invisible visible, allowing others to understand our inner reality rather than guess at it. When we express authentically, we prevent the violence of misunderstanding and create opportunities for genuine connection. This practice transforms potential conflict into shared understanding through the courage of vulnerability."
+    "art-nouveau-aesthetics": "Art Nouveau lets an inward impulse appear in line, sound, and worked material. 'mishoa' names that passage into perceptible form.",
+    "peace-linguistics-practices": "Expression makes an inner state available to others. Agreement remains a separate response."
   },
   "semantic_domains": {
-    "communication": "conveys inner truth through perceivable forms",
-    "emotion": "manifests feelings from inner to outer world"
+    "aesthetic": "a quality or artistic impulse made perceptible in a work",
+    "communication": "thought or feeling given a perceptible form",
+    "emotion": "an inward feeling made available through outward form"
   }
 }

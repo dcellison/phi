@@ -197,7 +197,7 @@
 | `wiresu` | postpone | moving a planned action to a later time |
 | `wishe` | swim | The body's water-travel |
 
-## aesthetic (80)
+## aesthetic (81)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -226,6 +226,7 @@
 | `meliphe` | music | Sound organized on purpose |
 | `melothe` | pond | Contemplative water feature |
 | `mioru` | beautiful | a speaker's aesthetic appreciation of a form, sound, movement, or presence |
+| `mishoa` | express | a quality or artistic impulse made perceptible in a work |
 | `mueli` | plain (unadorned) | a form or surface with little or no applied ornament |
 | `mureli` | brown | brown across ordinary light and dark shades |
 | `muwi` | interior | Within |
@@ -282,12 +283,11 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `wira` | window | View portal |
 
-## cognition (235)
+## cognition (232)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `halemu` | remember | Retrieval of past experience |
-| `haolu` | speak | transforming thoughts into words |
 | `haoni` | voice | expression of thoughts and inner states |
 | `hea` | hear | sound arriving in perception |
 | `hekawi` | find | The moment of discovery |
@@ -330,7 +330,7 @@
 | `lesawi` | consent | a specific decision whose understanding and conditions remain examinable |
 | `letharo` | consistent | the quality of propositions that can be true together |
 | `likori` | species | a biological category whose criteria and source must be recoverable |
-| `lilea` | clarify | illuminates meaning by clearing mental confusion |
+| `lilea` | clarify | ambiguity reduced in an existing meaning or situation |
 | `limoe` | creature | General category for life |
 | `litero` | ecosystem | a bounded analytical whole selected for ecological explanation |
 | `loetha` | open (receptive) | willingness to consider an unfamiliar idea or account |
@@ -347,7 +347,7 @@
 | `mokanu` | disease | a health classification under stated criteria and source |
 | `monae` | integral | a necessary part-to-whole relation identified in an analysis |
 | `morae` | sense | perception noticed before it becomes a conclusion or claim of knowledge |
-| `moreko` | articulate | Translating inner experience to speech |
+| `moreko` | articulate | a thought or feeling formed into exact words |
 | `mothami` | baseline | a selected reference condition used for comparison |
 | `mothare` | premise | a proposition serving as a starting point in inference |
 | `muko` | careless | insufficient attention to foreseeable consequences in a stated act |
@@ -427,14 +427,13 @@
 | `seru` | commit | Binding decision |
 | `shalimo` | alliance | held together by a shared conviction, an idea before it is a bond |
 | `sharemi` | persuade | movement toward a belief or judgment through communication |
-| `shareo` | discuss | builds understanding by examining multiple perspectives |
+| `shareo` | discuss | joint examination of a stated subject |
 | `sharino` | conscience | the faculty of judging one's own conduct against held values |
 | `sharoi` | exceed | Announces magnitude relationship requiring mental comparison |
 | `shelo` | signify | Semantic pointing |
 | `shelomu` | understand | Grasping meaning and significance |
 | `shelu` | book | tools for thought extending memory and enabling complex reasoning |
 | `sheluo` | listen | attention deliberately directed towards sound |
-| `sheori` | communicate | connects minds across the illusion of separation |
 | `sherewa` | claim | a proposition deliberately put forward for assessment |
 | `shewo` | true | accord between a claim or account and reality |
 | `shiloa` | pure | one intention, factor, or line of thought considered without another mixed through it |
@@ -450,7 +449,7 @@
 | `sirami` | record | a durable account with source and version |
 | `sirelu` | disclose | movement of previously held knowledge |
 | `sitawi` | inventory | a structured representation of material state |
-| `solae` | explain | guides minds along paths of comprehension |
+| `solae` | explain | reasons and relations arranged so that they can be understood |
 | `soleha` | luck | The unearned part of outcomes |
 | `somaki` | test | gathering bounded evidence about a claim or criterion |
 | `somela` | observe | involves mental processing and focused awareness |
@@ -470,7 +469,6 @@
 | `thekao` | acknowledge | requires mindful attention to truly see another |
 | `thekiro` | write | Externalizing thought |
 | `thekopa` | recipe | remembered or recorded knowledge for preparing food |
-| `thelima` | describe | observes mindfully to articulate without projection |
 | `theloa` | truth | discerning and aligning with reality |
 | `themio` | reflect | mental process of examining thoughts and patterns |
 | `themoka` | treasure | Perceiving worth |
@@ -484,7 +482,7 @@
 | `thesori` | evidence | information offered in support of or against a claim |
 | `thesua` | mindful | deliberate attention to present experience or action |
 | `thewuni` | legible | marks available for the act of reading |
-| `thilou` | inquire | the mind's movement in curiosity and seeking |
+| `thilou` | inquire | seeking information where knowledge is incomplete |
 | `thimu` | time | the framework through which we understand change |
 | `thirulo` | output | information or effect classified relative to an analytical boundary |
 | `thonua` | scholar | Deep study |
@@ -527,7 +525,7 @@
 | Word | Gloss | In this domain |
 |---|---|---|
 | `haluma` | language | The shared whole of speech |
-| `haolu` | speak | speaking is fundamental to communication |
+| `haolu` | speak | the general vocal production of language |
 | `haoni` | voice | fundamental medium for spoken communication |
 | `hea` | hear | spoken language becoming available to a hearer |
 | `hewasu` | audible | speech or a signal distinguishable to its intended listener |
@@ -544,10 +542,10 @@
 | `kupela` | secret | The silence that protects |
 | `lathoe` | tongue | Primary organ of speech production |
 | `lesawi` | consent | a freely given, withheld, or withdrawn answer to a proposal |
-| `lilea` | clarify | builds bridges of shared understanding through communication |
+| `lilea` | clarify | wording repaired so that its intended reference is easier to follow |
 | `lomare` | embrace | Non-verbal communication of acceptance |
 | `lona` | meeting | Shared gathering |
-| `lonae` | respond | completing the arc of verbal exchange |
+| `lonae` | respond | the return turn after a question or other prompt |
 | `lophae` | storyteller | Tale sharing |
 | `lumishe` | mentor | happens through communication and mutual exchange |
 | `manawi` | compromise | an outcome of negotiating differing aims |
@@ -555,9 +553,9 @@
 | `miratu` | recognize | Acknowledging identity in encounter |
 | `mirewu` | private | chosen limits on access to a conversation, record, or information |
 | `misharo` | consult | an exchange intended to inform later action |
-| `mishoa` | express | conveys inner truth through perceivable forms |
+| `mishoa` | express | thought or feeling given a perceptible form |
 | `moli` | gentle | speech delivered with mild pressure or force |
-| `moreko` | articulate | Clear verbal expression |
+| `moreko` | articulate | clear verbal expression available for another person's response |
 | `mothare` | premise | a claim participants can grant, question, or revise explicitly |
 | `naphe` | help | Fundamental exchange of mutual aid |
 | `nawea` | respect | foundation for respectful communication |
@@ -594,17 +592,17 @@
 | `samethu` | equivalent | comparison between different expressions or formats |
 | `seniku` | smile | Non-verbal communication of goodwill |
 | `shalori` | represent | carrying another party's position under stated scope and authorization |
-| `shane` | tell | Directed recounting to a listener |
+| `shane` | tell | an account directed to a listener |
 | `shanewi` | notify | information offered without presuming receipt or understanding |
 | `sharemi` | persuade | influence through reasons or communicative appeal |
-| `shareo` | discuss | explores topics through detailed communicative exchange |
+| `shareo` | discuss | spoken or written exchange centred on one topic |
 | `shaweri` | advocate | speaking publicly for a position without implied representation authority |
 | `shelo` | signify | Meaningful indication |
 | `shelomu` | understand | Foundation for genuine communication |
 | `shelu` | book | asynchronous communication between writer and reader across time |
 | `sheluo` | listen | attentive reception of another person's speech |
-| `shemui` | utter | fundamental act of verbal communication |
-| `sheori` | communicate | creates bridges of understanding through exchange |
+| `shemui` | utter | a particular stretch of words produced aloud |
+| `sheori` | communicate | meaning made available through a usable medium |
 | `sherelo` | right (normative) | a claim whose source and fulfillment can be examined |
 | `sherewa` | claim | the public act of offering a proposition to others |
 | `shonui` | ear | Essential for receiving communication |
@@ -612,27 +610,27 @@
 | `sikanu` | certify | a formal claim whose source and scope can be challenged |
 | `sirelu` | disclose | making information known to a new recipient |
 | `sitheku` | transcribe | carrying spoken or signed expression into writing |
-| `solae` | explain | illuminates understanding through detailed communication |
+| `solae` | explain | an account of why or how offered to another person |
 | `tewema` | partner | requires ongoing communication and mutual exchange |
 | `thaemu` | sincere | expression that matches the feeling or intention it presents |
 | `thasu` | modest | ability, achievement, or certainty presented without exaggeration |
 | `theisa` | loud | high perceived intensity in a voice or spoken utterance |
 | `thekao` | acknowledge | validates and recognizes others through communication |
 | `thekasi` | caption | speech and meaningful sound presented in a readable form |
-| `thelima` | describe | paints pictures with words for shared understanding |
+| `thelima` | describe | a verbal account of a thing, event, or condition |
 | `theloa` | truth | foundation for honest communication |
 | `theloma` | justice | involves hearing all perspectives and facilitating reconciliation |
-| `thelu` | dialogue | co-creates meaning through structured exchange |
+| `thelu` | dialogue | deliberate exchange among participants who attend to one another's views |
 | `themore` | argument | a reasoning structure shared for examination |
 | `thenui` | direct | an answer or statement that reaches its subject without evasion or an intermediary |
 | `theo` | read | receptive communication receiving encoded messages from another consciousness |
 | `theomi` | trust | foundation for genuine communication |
 | `theonu` | attend | Attentive presence |
 | `thereo` | mediator | facilitates communication and understanding between parties |
-| `thilou` | inquire | verbal reaching toward understanding |
+| `thilou` | inquire | putting a question to another person |
 | `thimelo` | pace | speed at which an exchange proceeds |
 | `thorae` | facilitator | Group enabling |
-| `thorelu` | converse | Verbal exchange between people |
+| `thorelu` | converse | spoken exchange conducted in turns |
 | `thosami` | compatible | communication formats able to be exchanged or rendered together |
 | `thumela` | teach | knowledge transfer through communication |
 | `thunesi` | asynchronous | an exchange designed for replies without simultaneous presence |
@@ -643,7 +641,7 @@
 | `whekate` | refute | a decisive challenge supported by reasons or evidence |
 | `whishela` | whisper | Speech made of breath |
 
-## community (286)
+## community (287)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -690,7 +688,7 @@
 | `lokue` | place | places as sites of gathering and meaning |
 | `lomea` | sibling | core family bond and peer relationship |
 | `lona` | meeting | Assembly event |
-| `lonae` | respond | fulfilling the obligation of response |
+| `lonae` | respond | recognition of another person's preceding act of communication |
 | `lophae` | storyteller | Narrative role |
 | `lopia` | child | held as sacred trust by collective responsibility |
 | `lorea` | connect | weaves relationships into visible interdependence |
@@ -819,13 +817,13 @@
 | `sethoni` | handoff | a transition between participants without implied acceptance |
 | `shalimo` | alliance | a bound group of people, not a single occasion of meeting |
 | `shalori` | represent | acting or communicating on behalf of a stated party |
-| `shane` | tell | How news and stories move between people |
+| `shane` | tell | news and stories passed from person to person |
 | `shanewi` | notify | formal notice directed to identified recipients |
 | `shaweri` | advocate | support for a person's expressed interests or a shared cause |
 | `shea` | peace | accord among people or groups without violence |
 | `shelira` | forest | Tree community gathering |
 | `shemoli` | harmonize | Bringing differences into accord |
-| `shemui` | utter | connecting people through shared words |
+| `sheori` | communicate | information exchanged among people through different forms of access |
 | `sherelo` | right (normative) | a normative claim held among people, groups, or institutions |
 | `shereni` | entitlement | a recognized and scoped claim under a stated source |
 | `shiwolu` | integrate | Creating functional unity |
@@ -868,6 +866,7 @@
 | `thekamu` | intervene | an action affecting a person within a care relation |
 | `thekao` | acknowledge | confirms someone's presence within social fabric |
 | `theloma` | justice | focuses on wholeness and reintegration of all parties |
+| `thelu` | dialogue | a shared practice for examining disagreement while consensus stays open |
 | `thelumo` | ritual | collective practices that create shared meaning |
 | `theluo` | steward | caring for collective resources and future generations |
 | `thema` | guardian | embodies protective responsibility within social networks |
@@ -886,7 +885,7 @@
 | `thorae` | facilitator | Process role |
 | `thorai` | bless | Wishing wellbeing upon others |
 | `thorea` | ceremony | gathers collective presence for shared transformation |
-| `thorelu` | converse | Building connection through speech |
+| `thorelu` | converse | informal talk through which people maintain relationships |
 | `thowia` | born | The arrival of a new member |
 | `thua` | fair | equitable treatment assessed in relation to needs and circumstances |
 | `thuleni` | comfort | Caring for those who suffer |
@@ -1139,7 +1138,7 @@
 | `melu` | friend | inherently involves emotional bonds of affection, care, and concern |
 | `menai` | dedicate | Deep commitment |
 | `meropi` | cherish | Tender protective valuing |
-| `mishoa` | express | manifests feelings from inner to outer world |
+| `mishoa` | express | an inward feeling made available through outward form |
 | `monelu` | amused | light pleasure in finding something funny or entertaining |
 | `nelu` | revere | Deep respect |
 | `nemo` | grateful | appreciation felt in response to benefit or support |

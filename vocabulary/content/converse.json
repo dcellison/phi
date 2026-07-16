@@ -8,16 +8,25 @@
     "lu"
   ],
   "pos": "verb",
-  "concept": "Converse / Exchange Words / Engage in Dialogue",
-  "description": "To engage in spoken exchange with another, sharing words back and forth in the flow of conversation. 'Thorelu' names the living exchange of speech—not monologue but mutual speaking and listening, the collaborative creation of meaning through verbal interchange.",
-  "sound_symbolism": "The word flows like conversation itself. 'Tho' /θo/ begins with gentle breath, speech offered softly. Then 're' rolls with exchange, words passing between. Finally 'lu' flows with liquid continuity, conversation ongoing.",
-  "grammatical_notes": "Functions as an intransitive or transitive verb: 'lo mia thorelu.' (We converse.) 'mia nua thia thorelu.' (I converse with you.) Related to 'thelu' (dialogue) and 'shareo' (discuss) but emphasizes the informal, flowing quality of conversation.",
+  "search_terms": [
+    "talk together",
+    "have a conversation"
+  ],
+  "description": "Friends walking together, or neighbours leaning over a gate, may 'thorelu'. This is ordinary spoken conversation, with words passing among people in turns. 'thelu' (dialogue) is more deliberate, while 'shareo' (discuss) gives the exchange a stated topic.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and shape rounded true-mid back 'o'. Tap or briefly trill the tongue at the alveolar ridge before stressed true-mid front 'e'. Return the tongue tip to the ridge for lateral 'l' and finish with high-back rounded 'u'.",
+  "usage_notes": "The verb may be intransitive with a plural subject. A companion can appear with 'nua'. In noun position, 'thorelu' is an ordinary conversation.",
+  "examples": [
+    {
+      "phi": "lo mia thorelu.",
+      "translation": "We converse."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Conversation is the basic unit of human connection—through speaking and listening together, we create shared understanding.",
-    "pre-industrial-wisdom": "Traditional cultures value conversation as art and practice—the oral exchange that builds community and transmits wisdom."
+    "peace-linguistics-practices": "Ordinary conversation gives each person repeated chances to speak, listen, and repair a mistaken turn before it hardens into conflict.",
+    "pre-industrial-wisdom": "Conversation beside work or along a road carried local news and practical knowledge as part of ordinary life."
   },
   "semantic_domains": {
-    "communication": "Verbal exchange between people",
-    "community": "Building connection through speech"
+    "communication": "spoken exchange conducted in turns",
+    "community": "informal talk through which people maintain relationships"
   }
 }

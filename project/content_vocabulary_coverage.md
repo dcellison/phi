@@ -42,7 +42,9 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | System fit, equivalence, and dependable performance | **DONE** | Six inherited module adjectives now use the target prose contract. Compatibility, bounded equivalence, efficiency, predictability, redundancy, and reliability remain distinct without adding a root. |
 | Work timing, status, capability, and answerability | **DONE** | Six inherited module adjectives now use the target prose contract. Different-time participation, blocked work, competence, expertise, qualification, and accountability remain distinct without adding a root. |
 | Medical course, transmission, and treatment response | **DONE** | Five inherited Medical module adjectives now use the target prose contract. Course, transmission potential, immune protection, and sourced advice remain distinct without adding a root. |
-| Resume inherited content prose migration | **NEXT** | Continue with confidence, consistency, legitimacy, and validity. Each semantic group passes through this coverage gate. |
+| Base-first sequencing | **IN PROGRESS** | The module queue is paused. Inherited base nouns and verbs now take precedence until the shared lexicon has completed its coverage and prose passes. |
+| Core speech and conversation | **DONE** | Fourteen inherited base verbs now use the target prose contract. The coverage pass found no missing root in ordinary speech or conversational exchange. |
+| Resume inherited content prose migration | **NEXT** | Continue with another inherited base noun or verb neighbourhood under the same coverage gate. |
 
 ## Batch overview
 
@@ -70,6 +72,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | System fit, equivalence, and dependable performance | [PR #379](https://github.com/dcellison/phi/pull/379) | **COVERED** | The six roots keep technical cooperation, a selected match, input-to-output performance, advance knowability, independent alternatives, and repeated function apart. Robustness, maintainability, and exact conformance remain compositions or source-level tests. |
 | Work timing, status, capability, and answerability | [PR #380](https://github.com/dcellison/phi/pull/380) | **COVERED** | The six roots keep participation across time, an obstacle to progress, present practical ability, deep domain practice, prerequisites met, and required answerability apart. Synchronous activity, experience, mastery, and legal status remain ordinary constructions or source-level distinctions. |
 | Medical course, transmission, and treatment response | [PR #381](https://github.com/dcellison/phi/pull/381) | **COVERED** | Acute and chronic course, contagiousness, immunity, and contraindication keep their own evidence and relations. Remission, susceptibility, treatment resistance, urgency, and exact clinical classifications remain explicit compositions or source-level claims. |
+| Core speech and conversation | PR pending | **COVERED** | The fourteen base verbs keep vocal action, directed accounts, questions and replies, conversational exchange, exposition, and expression apart. Voice and manner, neighbouring speech acts, reception, and understanding already have direct words or established grammar. |
 
 ## Semantic batches and stable domains
 
@@ -101,6 +104,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | System fit, equivalence, and dependable performance | `activity`, `cognition`, `communication`, `community`, `creation`, `temporal` | Working together, matching for one purpose, using resources well, anticipating an event, surviving one failure, and performing repeatedly remain separate claims. |
 | Work timing, status, capability, and answerability | `activity`, `cognition`, `communication`, `community`, `ethics`, `temporal`, `wisdom` | Timing, work state, demonstrated performance, learned depth, institutional standing, and answerability remain separate routes. |
 | Medical course, transmission, and treatment response | `cognition`, `nature`, `physical`, `temporal` | Clinical course, transmission capability, bodily protection, and a sourced judgement about an intervention remain separate claims. |
+| Core speech and conversation | `aesthetic`, `cognition`, `communication`, `community`, `emotion` | Vocal action, conversational relation, examination of a topic, inward feeling, and expression through a work remain separate browse routes. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -550,6 +554,24 @@ A chronic illness flares acutely while an infection is still contagious. One per
 
 No root is added. An acute episode can interrupt a chronic course without changing the meaning of either adjective. A vaccine can be given without establishing immunity, and a contraindication can be recorded without deciding for the person.
 
+## Core speech and conversation
+
+A person at the gate says that the pump has stopped. Their neighbour asks which pump, gets an answer, and then stays to discuss the repair. Phi already has words for each change in that exchange. The fourteen migrated verbs keep the boundaries visible instead of treating every useful turn as a deeper kind of dialogue.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Speaking, saying, uttering, telling, reporting, and notifying | Base `haolu` (speak), `shemui` (utter), and `shane` (tell), reportative `ti`, and Commons `shanewi` (notify) | **COVERED** | Speaking names the general vocal activity. An utterance selects bounded words, telling directs an account to a listener, reportative `ti` marks the source, and notice is a formal act of sending information. |
+| Direct questions, embedded questions, asking, and inquiry | Direct-question `wa`, base `thilou` (inquire), the `wela ... welo` yes-or-no frame, and Phi's content interrogatives | **COVERED** | The grammar marks a sentence as a question, while `thilou` names the act of seeking information. Embedded questions retain the distinction between an open content question and a yes-or-no question. |
+| Response, reply, answer, acknowledgement, refusal, and agreement | Base `lonae` (respond), `thekao` (acknowledge), `naweri` (refuse), and `nawo` (agree) | **COVERED** | `lonae` supplies the return turn and covers an answer when the earlier turn was a question. Acknowledgement, refusal, and agreement say what kind of response followed. |
+| Conversation, dialogue, discussion, argument, and debate | Base `thorelu` (converse), `thelu` (dialogue), and `shareo` (discuss), with `themore` (argument), `whakeru` (object), and ordinary turn-taking | **COMPOSITIONAL** | Conversation is ordinary reciprocal talk, dialogue is deliberate attention to views, and discussion keeps a topic in view. Debate adds opposed positions and responsive turns; it does not need a fourth near-synonym for talking together. |
+| Description, explanation, clarification, and articulation | Base `thelima` (describe), `solae` (explain), `lilea` (clarify), and `moreko` (articulate) | **COVERED** | Description gives relevant features, explanation gives reasons or workings, clarification repairs ambiguity, and articulation finds exact words for a thought or feeling. |
+| Communication, expression, reception, and understanding | Base `sheori` (communicate), `mishoa` (express), `hea` (hear), `sheluo` (listen), and `shelomu` (understand) | **COVERED** | Communication makes meaning available through a medium, while expression gives something a perceptible form. Hearing, listening, and understanding remain further events rather than hidden promises inside either verb. |
+| Mentioning, claiming, disclosing, rephrasing, and summarising | Base `shemui` (utter) and `sherewa` (claim), module `sirelu` (disclose), and discourse markers `shorela` (REPH) and `shelao` (SUMM) | **COMPOSITIONAL** | A brief bounded utterance can mention something without a new root. The other forms say whether the turn asserts a proposition, crosses an information boundary, changes wording, or condenses an account. |
+| Whispering, shouting, loudness, quietness, and vocal calm | Base `whishela` (whisper), `kapura` (shout), `theisa` (loud), `maeli` (quiet), `shena` (calm), and `haoni` (voice) | **COVERED** | Manner verbs handle the two common vocal extremes. Adjectives can describe the voice or the speaking where volume and composure matter separately. |
+| Requests, commands, commitments, warnings, and invitations | Directive `no`, polite `pi no`, base `seru` (commit), `pukea` (danger), and `whola` (invite), with an ordinary clause stating the requested or future act | **COMPOSITIONAL** | Phi marks directive force in grammar instead of hiding it in a general speech verb. Commitment, danger, and invitation have their own content, while the clause states what the speaker asks another person to do or undertakes to do. |
+
+No root is added. The field has room for a chat over a gate and a careful public dialogue without pretending they are the same occasion. It also keeps a modest fact in view: words can be spoken, sent, heard, and still misunderstood.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -590,4 +612,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete, and the inherited content prose migration has now reached the end of medical course, transmission, and treatment response. The next semantic neighbourhood begins with confidence, consistency, legitimacy, and validity under the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete, and the migration has returned to inherited base vocabulary with core speech and conversation. Module batches remain paused. The next work package will select another coherent base noun or verb neighbourhood under the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.

@@ -8,16 +8,24 @@
     "ri"
   ],
   "pos": "verb",
-  "concept": "Communicate / To Bridge Understanding",
-  "description": "The art of creating a bridge of understanding between minds and hearts. It is a two-way, collaborative process of sharing and receiving meaning that transforms all participants.",
-  "sound_symbolism": "The word begins with the soft fricative 'sh', creating the gentle, receptive space that true communication requires—like the hush before deep listening. This breath flows into the open vowel sequence 'e.o', a sonic bridge that spans from one openness to another, embodying how communication connects separate beings. The word culminates in 'ri', whose rolling liquid carries the message forward to its destination, completing the circuit of understanding. When spoken, it creates the very quality it names: a soft opening, a bridge, and a gentle arrival—the full arc of true communication.",
-  "grammatical_notes": "A verb of two-way exchange: 'mia nua thia sheori.' (I communicate with you.) The noun sense, an act of communication, comes by the event-noun rule. Related to 'haolu' (speak), 'sheluo' (listen), and 'thelu' (dialogue)—sheori names the two-way exchange as a whole.",
+  "search_terms": [
+    "convey meaning",
+    "exchange information"
+  ],
+  "description": "Speech is one way to 'sheori'; writing or a signed language may do the work instead. 'sheori' makes information or meaning available to another person, either one-way or reciprocally, without presuming understanding. 'mishoa' (express) can make an inner state perceptible without a recipient.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for voiceless 'sh' and pass air through the narrow channel into true-mid front 'e'. Keep stressed rounded true-mid back 'o' separate in hiatus. Tap or briefly trill the tongue at the alveolar ridge and finish with high-front unrounded 'i'.",
+  "usage_notes": "A reciprocal exchange uses companion 'nua', while an intended recipient can take dative 'wei'. Information may appear as a direct object or a clause in 'mena ... meno'. In noun position, 'sheori' is communication.",
+  "examples": [
+    {
+      "phi": "mia nua thia sheori.",
+      "translation": "I communicate with you."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Communication embodies Right Speech - speaking truthfully, harmoniously, and with beneficial intent. It requires mindful presence to both express our truth and receive others' perspectives without the filters of ego and assumption. True communication is a practice of setting aside the illusion of separation to touch the shared ground of understanding.",
-    "peace-linguistics-practices": "Communication is the primary tool for creating understanding across difference and preventing the violence that arises from misunderstanding. Peace linguistics recognizes that how we communicate - with deep listening, clear expression, and genuine care for mutual comprehension - shapes whether our interactions build connection or create division."
+    "peace-linguistics-practices": "Communication can cross a difference of medium while leaving receipt and understanding as questions in their own right."
   },
   "semantic_domains": {
-    "cognition": "connects minds across the illusion of separation",
-    "communication": "creates bridges of understanding through exchange"
+    "communication": "meaning made available through a usable medium",
+    "community": "information exchanged among people through different forms of access"
   }
 }
