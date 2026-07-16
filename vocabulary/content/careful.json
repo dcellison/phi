@@ -7,16 +7,26 @@
     "sa"
   ],
   "pos": "adjective",
-  "concept": "Careful / Attentive / Taking Care",
-  "description": "Done with or showing thought and attention; avoiding harm or mistakes. 'Thesa' names the quality of attentive caution—the awareness that prevents damage through foresight.",
-  "sound_symbolism": "The word attends with care. 'The' /θe/ begins with gentle breath, attention present. Then 'sa' completes with steady awareness, vigilance maintained.",
-  "grammatical_notes": "Functions as an adjective: 'thesa riola' (careful labor). Related to 'kiro' (precise) but emphasizes avoiding harm rather than achieving accuracy.",
+  "search_terms": [
+    "cautious",
+    "attentive to risk",
+    "taking care"
+  ],
+  "description": "An act is 'thesa' when it is carried out with attention to the mistakes or harmful consequences that matter in the situation. Careful cutting watches the mark and the hand; careful speech watches what is known and what belongs to another person to tell. 'kiro' (precise) narrows variation, while 'thesua' (mindful) is deliberate attention more broadly.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and move into stressed true-mid front unrounded 'e'. Raise the tongue blade towards the alveolar ridge for unvoiced 's', direct air through the narrow channel, and finish with open central 'a'.",
+  "sound_symbolism": "Unvoiced airflow continues through two different constrictions, first at the teeth and then behind them, without a full stop between. The even two-syllable movement suits attention carried through an act.",
+  "usage_notes": "The adjective commonly stands before an action to give careful manner, as in 'thesa kati' (cut carefully). A careful act can still fail; the word records the attention given, not a guaranteed result. Carefulness follows by ordinary noun use.",
+  "examples": [
+    {
+      "phi": "shia thesa kati.",
+      "translation": "They cut carefully."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Careful attention is the foundation of mindfulness—the awareness that notices before acting.",
-    "pre-industrial-wisdom": "Careful work was essential when materials were precious and replacement difficult—every action deserved full attention."
+    "pre-industrial-wisdom": "A craftsperson checks the grain before a cut because the board cannot be made uncut. 'thesa' belongs to that attention before the blade moves."
   },
   "semantic_domains": {
-    "cognition": "Attentive awareness",
-    "wisdom": "Preventive care"
+    "activity": "an action performed with attention to relevant mistakes or harmful consequences",
+    "cognition": "attention directed towards the mistakes or consequences that matter in an act"
   }
 }

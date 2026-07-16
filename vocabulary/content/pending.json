@@ -8,16 +8,26 @@
     "ru"
   ],
   "pos": "adjective",
-  "concept": "Pending / Awaiting a Needed Action or Condition",
-  "description": "Awaiting a stated action, decision, item, or condition before its status can change. Pending says only that something remains open and whose move it waits on; work may not have begun, and the expected event may never come. Its neighbor 'noraku' (blocked) is stronger: an obstacle, not a turn in the queue.",
-  "sound_symbolism": "Air moves freely through light 'ha' before stressed 'so' draws it into a narrower hiss and round vowel. Final 'ru' flicks the tongue and settles into deep 'u'. The contour opens wide, tightens at its center, then turns once before coming to rest.",
-  "grammatical_notes": "An adjective: 'ha riporu hasoru nai.' (This task is pending.) State what is awaited and who controls or is affected by the wait where relevant. The quality-noun rule supplies pending status. Distinct from 'noraku' (blocked), 'hasi' (wait), 'sholu' (complete), and future marking with 'so'.",
+  "search_terms": [
+    "awaiting action",
+    "unresolved",
+    "open status"
+  ],
+  "description": "A matter is 'hasoru' when its next change awaits a particular action, decision, item, or condition. A request can be pending while its answer is considered, and a repair while a part is due. 'noraku' (blocked) says that an obstacle prevents progress; pending may simply mean that the matter has not yet reached its turn.",
+  "articulatory_notes": "Let unvoiced air pass through the open glottis for 'h' and continue into central unrounded 'a'. Raise the tongue blade towards the alveolar ridge for unvoiced 's' and direct the narrow airflow into stressed true-mid rounded back 'o'. Make a tap or short trill with the tongue tip for 'r' and finish with high rounded back 'u'.",
+  "sound_symbolism": "Open breath narrows into the hiss and rounded vowel of stressed 'so', then a tongue tap turns towards final 'u'. The contour tightens at its centre and comes to rest without a hard closure, much like a matter waiting for its next move.",
+  "usage_notes": "A nearby clause can identify what is awaited and who is affected by the wait. As a noun, 'hasoru' is the pending status itself. 'hasi' (wait) is the action of waiting, while future 'so' places an event ahead without saying that an open matter depends on it.",
+  "examples": [
+    {
+      "phi": "ha riporu hasoru nai.",
+      "translation": "This task is pending."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Explicit pending status can expose unanswered requests and delayed decisions without blaming the person waiting or pretending the matter is resolved.",
-    "pre-industrial-wisdom": "Material, weather, drying, curing, growth, and shared availability can all require waiting; naming the state leaves its practical cause open."
+    "peace-linguistics-practices": "A pending label can keep an unanswered request visible without blaming the person who waits or pretending that silence resolved it."
   },
   "semantic_domains": {
-    "activity": "work or decision status awaiting a condition",
-    "temporal": "remaining unresolved until a later event"
+    "activity": "a task, request, or decision awaiting its next action or condition",
+    "temporal": "an open matter whose status may change after a later event"
   }
 }

@@ -8,18 +8,26 @@
     "no"
   ],
   "pos": "adjective",
-  "concept": "Safe / Out of Danger / The Sheltered State",
-  "description": "The felt state of being out of danger — safety as experienced from within rather than protection performed by another. Joins the shelter family: 'shuroa' (shelter, the structure), 'thelui' (sanctuary, the sacred refuge), 'shorupo' (protect, the act), and 'shurano' (safe, the state). Its opposite is 'pukea' (danger).",
-  "sound_symbolism": "Opens with the sheltering hush 'shu' — the same soft roof that covers 'shuroa' — then the open 'ra' of room to breathe, settling on the grounding 'no': feet on known floor. Safety sounded as a hush, a breath, and solid ground. Deliberately shares nothing with 'pukea' (danger), so the two states can never be misheard.",
-  "grammatical_notes": "Predicative: 'lo lopia shurano nai' (the children are safe). Attributive: 'shurano womu' (a safe home). Safety itself, the noun, comes by the quality-noun rule. The shared 'shu-' onset with 'shuroa' (shelter) makes the family legible while the words stay distinct.",
+  "search_terms": [
+    "out of danger",
+    "low risk",
+    "secure from harm"
+  ],
+  "description": "'shurano' says that relevant danger is absent or controlled enough for a person or activity under the conditions being discussed. A path may be safe in dry daylight and unsafe after ice, so safety belongs to the present use rather than to the path forever. 'pukea' (danger) names possible harm; 'shorupo' (protect) is the act of keeping it away.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for unvoiced 'sh', pass air through the narrow channel, and move into high rounded back 'u'. Make a tap or short trill with the tongue tip for 'r' and open into stressed central 'a'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with true-mid rounded back 'o'.",
+  "sound_symbolism": "'shurano' opens with the same 'shu.r' sequence heard in 'shuroa' (shelter). Here the tap opens into broad stressed 'a' before the dental nasal settles into rounded 'o', an audible kinship between shelter and the safe condition it may provide.",
+  "usage_notes": "The adjective works before a noun or as a predicate; in noun position it is safety. The practical judgement does not guarantee that no harm is possible. A person's felt safety remains a separate report from the conditions another observer assesses.",
+  "examples": [
+    {
+      "phi": "ha ruela shurano nai.",
+      "translation": "This path is safe."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Refuge is a foundational gesture: beings seek safety the way plants seek light. Naming the safe state honors that seeking without shame.",
-    "peace-linguistics-practices": "Felt safety is the precondition of every honest conversation — no one speaks truly while afraid. A peace language needs 'safe' as a basic word, because peace begins as the body's sense of it.",
-    "pre-industrial-wisdom": "Safety was the village's first shared project: the wall, the watch, the fire kept in — felt security as collective craft."
+    "peace-linguistics-practices": "One person may judge a room safe while another reports danger there. 'shurano' leaves both claims open to their conditions and evidence."
   },
   "semantic_domains": {
-    "community": "What a community owes its members",
-    "emotion": "The felt state of being out of danger",
-    "physical": "Bodily security"
+    "community": "conditions in a shared place or activity judged sufficiently free from danger",
+    "physical": "a body, path, object, or action assessed as sufficiently protected from relevant harm"
   }
 }

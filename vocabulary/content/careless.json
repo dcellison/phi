@@ -7,16 +7,26 @@
     "ko"
   ],
   "pos": "adjective",
-  "concept": "Careless / Not Giving Attention / Lacking Care",
-  "description": "Not giving sufficient attention or thought to avoiding harm or errors. 'Muko' names the quality of carelessness—attention absent, care neglected.",
-  "sound_symbolism": "The word neglects. 'Mu' begins with closed lips, mindfulness absent. 'Ko' cuts with hard indifference. Carelessness as the failure of inner attention, a mind that has stopped paying attention to what matters.",
-  "grammatical_notes": "Functions as an adjective: 'muko riola' (careless labor). Opposite of 'thesa' (careful). Names a state requiring correction—carelessness causes harm.",
+  "search_terms": [
+    "inattentive",
+    "heedless",
+    "negligent"
+  ],
+  "description": "An act or manner is 'muko' when it receives less attention than was reasonably available for avoiding a foreseeable mistake or harm. A careless cut may miss its mark; a careless message may expose a confidence. 'thesa' (careful) directs attention to such consequences, while 'thesua' (mindful) keeps deliberate attention on the present act more broadly.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm', carry the voice through the nose, and raise the back of the tongue into stressed high rounded 'u'. Close the back of the tongue against the soft palate for unvoiced 'k' and release it into true-mid rounded back 'o'.",
+  "sound_symbolism": "The lips close for a voiced hum, then the back of the tongue makes a full stop and releases. Two firm closures give this short warning word a clipped contour.",
+  "usage_notes": "Before an action, 'muko' gives careless manner. A person predicate is a judgement about conduct in context rather than a permanent identity. As a noun, the form means carelessness.",
+  "examples": [
+    {
+      "phi": "shia muko kati.",
+      "translation": "They cut carelessly."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Carelessness is absent mindfulness—the unaware mind that acts without seeing consequences.",
-    "pre-industrial-wisdom": "Careless work wasted precious materials—attention was essential when resources were hard-won."
+    "peace-linguistics-practices": "A careless act can be corrected without turning the actor into a fixed kind of person. 'muko' can stay on the conduct being discussed."
   },
   "semantic_domains": {
-    "cognition": "Inattentive",
-    "wisdom": "Lacking care"
+    "activity": "an action performed without attention reasonably available for avoiding mistakes or harm",
+    "cognition": "insufficient attention to foreseeable consequences in a stated act"
   }
 }

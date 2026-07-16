@@ -8,16 +8,30 @@
     "i"
   ],
   "pos": "adjective",
-  "concept": "Direct / Guide Toward / Straight and Clear",
-  "description": "To guide or aim toward a destination; without detour or ambiguity. 'Thenui' names clear guidance—pointing the way, removing confusion, showing the straight path.",
-  "sound_symbolism": "The word points clearly. 'The' /θe/ begins with clear breath, direction forming. 'Nu' grounds the aim, target established. Finally 'i' arrives with precision, direction clear.",
-  "grammatical_notes": "An adjective: 'thenui ruela' (direct path), 'thenui phelui' (direct words). Directness, the noun, comes by the quality-noun rule. Directing someone is guiding: see 'kulo' (guide). Related to 'keiro' (way).",
+  "search_terms": [
+    "without detour",
+    "without intermediary",
+    "straightforward"
+  ],
+  "description": "'thenui' describes a route or relation that reaches its object without an intervening detour or agent. A direct answer meets the question it was asked; a direct path does not send the traveller elsewhere first. 'nuwi' (clear) is about ease of understanding, while 'wero' (honest) excludes knowing deception.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and move into true-mid front unrounded 'e'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and raise the back of the tongue into stressed high rounded 'u'. Move the tongue forward into a separate high-front unrounded 'i', keeping the 'u.i' hiatus clear.",
+  "sound_symbolism": "The tongue returns to dental contact at 'n', then the final 'u.i' hiatus draws the mouth from a rounded back vowel to a narrow front one. That compact route can recall movement aimed without a detour.",
+  "usage_notes": "Before a verb, the adjective supplies direct manner: 'thenui haolu' means speak directly. Noun position yields directness. Directing another person is an act of guidance, so 'kulo' (guide) carries that verbal sense.",
+  "examples": [
+    {
+      "phi": "ha ruela thenui nai.",
+      "translation": "This path is direct."
+    },
+    {
+      "phi": "shia thenui haolu.",
+      "translation": "They speak directly."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Direct teaching transmits without obscuring—clear instruction that doesn't confuse with unnecessary complexity.",
-    "peace-linguistics-practices": "Direct communication states clearly—saying what is meant without manipulation or hidden agendas."
+    "peace-linguistics-practices": "A direct refusal can remain gentle while leaving no false promise for the other person to interpret."
   },
   "semantic_domains": {
-    "communication": "Clear communication",
-    "spatial": "Guiding toward"
+    "communication": "an answer or statement that reaches its subject without evasion or an intermediary",
+    "spatial": "a route that reaches its destination without an intervening detour"
   }
 }
