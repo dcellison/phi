@@ -8,17 +8,26 @@
     "wi"
   ],
   "pos": "verb",
-  "concept": "Find / Discover / Come Upon the Sought or Unsought",
-  "description": "To find: the key that was lost, the path through the forest, the word that was wanted. Discovery, whether after long search or by grace of accident. Pairs with 'thilou' (inquire — seeking by asking) and 'sahu' (forget) as its shadow.",
-  "sound_symbolism": "Three syllables trace the whole event: 'he', the searching breath; 'ka', the click of contact; 'wi', the brightness of the found thing in the hand. The word arrives the way finding does.",
-  "grammatical_notes": "Transitive: 'mia kira to hekawi.' (I found the key.) Of discoveries: 'lo mia mioru ruela hekawi.' (We find a beautiful path.) The perfective marks the completed find: 'mia ki hekawi.' (I have found it.)",
+  "search_terms": [
+    "discover",
+    "come upon"
+  ],
+  "description": "A hand slips beneath a cushion and finds the missing key. 'hekawi' is successful discovery, whether the thing was sought or encountered by accident. 'wesho' (locate) establishes where something is; finding reaches the thing itself and does not imply that a search occurred.",
+  "articulatory_notes": "Let breath escape through the open glottis for 'h' and settle on middle-height front 'e'. Stressed 'ka' closes the tongue back at the soft palate, releases unvoiced 'k', and opens onto central 'a'. Final 'wi' begins with a rounded voiced glide before the tongue advances and the lips spread for high-front 'i'.",
+  "sound_symbolism": "Open breath meets the firm closure and release of stressed 'ka', then moves quickly through final 'wi'. The middle contact gives the word its little moment of finding.",
+  "usage_notes": "The found person, thing, place, or answer precedes the verb. Perfective 'ki' can mark a completed discovery, while the surrounding clause can say whether it followed inquiry, observation, or chance.",
+  "examples": [
+    {
+      "phi": "mia kira to hekawi.",
+      "translation": "I found the key."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "What is sought with grasping hides; what is sought with open attention is found. The word's own arc — breath before click — keeps the order honest.",
-    "pre-industrial-wisdom": "The forager's whole craft: knowing where to look, and recognizing the found thing when it appears."
+    "pre-industrial-wisdom": "Foraging joins recognition to place: finding food or medicine depends on knowing what has appeared and where it grows. 'hekawi' names the successful encounter, not the knowledge that made it possible."
   },
   "semantic_domains": {
-    "activity": "The forager's and searcher's verb",
-    "cognition": "The moment of discovery",
-    "spatial": "Coming upon what was elsewhere"
+    "activity": "coming upon a person, object, place, or answer",
+    "cognition": "recognising that the sought or discovered thing has been found",
+    "spatial": "reaching something that had been elsewhere or unknown"
   }
 }

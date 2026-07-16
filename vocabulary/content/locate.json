@@ -7,16 +7,25 @@
     "sho"
   ],
   "pos": "verb",
-  "concept": "Locate / Find Position / Discover Where",
-  "description": "To discover the exact place or position of; to find. 'Wesho' names the finding of position—determining where something is, establishing location.",
-  "sound_symbolism": "The word finds. 'We' opens with searching awareness, looking begun. Then 'sho' /ʃo/ settles on the spot, location found.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia ruela wesho.' (I locate the path.) Related to 'lokue' (place)—locating is finding place.",
+  "search_terms": [
+    "find position",
+    "determine location"
+  ],
+  "description": "A trail marker helps a walker locate the spring on a map. 'wesho' determines or identifies where someone or something is. 'hekawi' (find) reports coming upon the thing itself; its location can instead be established from a map, report, or other evidence without reaching it.",
+  "articulatory_notes": "Start stressed 'we' with rounded lips and a voiced back glide, then advance the tongue and release the rounding into middle-height front 'e'. For 'sho', draw the tongue blade towards the postalveolar area and send unvoiced air along its narrow groove while rounding into middle-height back 'o'.",
+  "sound_symbolism": "The lips open out of rounded 'w' into stressed 'e', then return to a narrower channel and rounded 'o'. The mouth narrows again at the end, as if attention has settled on one spot.",
+  "usage_notes": "The person, thing, or place whose position is determined precedes the verb. A locative phrase or nearby record may give the resulting position. Noun-position 'wesho' is the act of locating, not the location itself; 'noa' names position.",
+  "examples": [
+    {
+      "phi": "mia ruela wesho.",
+      "translation": "I locate the path."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Locating oneself in present moment is practice—knowing where you are before deciding where to go.",
-    "pre-industrial-wisdom": "Locating was survival skill—finding water, food, shelter, the way home required reading landscape."
+    "pre-industrial-wisdom": "A route, water source, or shelter can be located from landmarks and remembered relations rather than coordinates. The verb leaves the method visible in the surrounding account."
   },
   "semantic_domains": {
-    "cognition": "Discovery",
-    "spatial": "Finding position"
+    "cognition": "determining where a person, thing, or place is",
+    "spatial": "establishing a position within a place or route"
   }
 }

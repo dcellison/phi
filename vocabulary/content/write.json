@@ -8,19 +8,27 @@
     "ro"
   ],
   "pos": "verb",
-  "concept": "Write / Inscribe / Give Lasting Form to Thought",
-  "description": "To set thought into lasting visible form — inscribing, drawing words, committing wisdom to a surface so it can travel beyond the moment of its making. The deliberate counterpart of 'theo' (read): where reading receives the voice of an absent other, writing offers one's voice to absent others, across distance and time.",
-  "sound_symbolism": "Opens with the soft fricative 'the' of the wisdom family (theo, theloa, thunai) — thought exhaled gently. The crisp 'ki' is the point of contact, the mark itself cut clean onto the surface. The flowing 'ro' is the line continuing, stroke after stroke, the recurrence of the hand's motion. Thought, mark, flow: the full gesture of writing in three syllables.",
-  "grammatical_notes": "Transitive verb: 'mia nophi thekiro' (I write a story). Pairs with 'theo' (read) as the two halves of the written word's journey. With the inchoative: 'mia pa thekiro' (I begin to write). The object precedes the verb per SOV order.",
+  "search_terms": [
+    "inscribe",
+    "compose text",
+    "put in writing"
+  ],
+  "description": "A writer puts words on paper, a screen, or a tactile surface so that someone can read them later. 'thekiro' creates written language, whether by hand or tool. 'sirami' (record) preserves an account: a written poem is writing even when it records no event, and a sound recording is a record without being writing.",
+  "articulatory_notes": "Begin 'the' by resting the tongue tip against the upper teeth and letting unvoiced breath pass before middle-height front 'e'. Raise the rear of the tongue against the soft palate for unvoiced 'k' and release into stressed high-front 'i'. Finish 'ro' by briefly tapping or trilling against the alveolar ridge, then move into rounded middle-height back 'o'.",
+  "sound_symbolism": "The word shares opening 'the' with 'theo' (read). Its middle closes sharply for 'k' before the tongue taps into final 'ro'; the contact and release give the longer member of the pair a hand-worked feel.",
+  "usage_notes": "The text or expression being written precedes the verb. Inchoative 'pa' marks the beginning of the activity; noun-position 'thekiro' is writing or a body of written work. The chosen script or medium can be stated separately when it matters.",
+  "examples": [
+    {
+      "phi": "mia nophi thekiro.",
+      "translation": "I write a story."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The journal and the copied text are writing as practice — attention made visible one stroke at a time, the hand slowing the mind to its own pace.",
-    "art-nouveau-aesthetics": "The written line is drawn by hand—each stroke a small organic curve. Writing joins meaning to visible flowing form.",
-    "peace-linguistics-practices": "Writing is speech that waits. It gives the writer time to choose words mindfully and the reader time to receive them without pressure — the slowest, most deliberate form of dialogue.",
-    "pre-industrial-wisdom": "The scribe's craft: knowledge entrusted to clay, bark, and paper so that the dead may teach the living. Writing extends memory beyond one mind and one lifetime."
+    "peace-linguistics-practices": "Writing can give a speaker time to revise before their words enter a relationship, and it gives the reader time to return before answering.",
+    "pre-industrial-wisdom": "Hand-copied records and stories carried knowledge beyond one memory and one lifetime. The work depended on surfaces, tools, and people willing to make the marks again."
   },
   "semantic_domains": {
-    "cognition": "Externalizing thought",
-    "creation": "Bringing lasting form into being",
-    "wisdom": "Preserving knowledge across time"
+    "communication": "creating language in a form that can be read later",
+    "creation": "making a written text by hand or tool"
   }
 }

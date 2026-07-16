@@ -8,16 +8,26 @@
     "mi"
   ],
   "pos": "verb",
-  "concept": "Record / Create or Preserve a Durable Account",
-  "description": "To create or preserve a durable account of something. A record's authority rests on its source, its time, and its provenance, not on the mere fact that something was written down.",
-  "sound_symbolism": "Hissing 'si' makes a fine bright trace at the beginning. Stressed 'ra' rolls that mark across broad 'a' and gives it a path through time. 'Mi' closes the lips around bright 'i' and holds the trace near. The record moves outward as an account, then settles where another speaker can find it.",
-  "grammatical_notes": "A transitive verb: 'lo mia ha kanuro sirami.' (We record this decision.) State recorder, source, time, format, provenance, version, access, and amendment history where relevant. The event-noun rule supplies a record. Distinct from 'thekiro' (write), 'shane' (tell), 'somethi' (monitor), an exact source artifact outside Phi, 'shanewi' (notify), memory, and official status.",
+  "search_terms": [
+    "document",
+    "make a record"
+  ],
+  "description": "Someone records a meeting's decision where the group can return to it. 'sirami' creates or keeps a durable account of an event, observation, or decision. 'thekiro' (write) makes written language; a record may use writing or another medium, and durability alone gives it no authority.",
+  "articulatory_notes": "Start 'si' by grooving unvoiced airflow between the raised tongue blade and alveolar ridge, then lift the tongue into high-front 'i'. For stressed 'ra', briefly tap or trill against the ridge before opening fully into central 'a'. End 'mi' by closing the lips while nasal voice continues into high-front unrounded 'i'.",
+  "sound_symbolism": "A fine trace opens in 'si', broadens through stressed 'ra', and comes to rest behind the closed lips of 'mi'. The shape suits an account meant to remain.",
+  "usage_notes": "The event, decision, observation, or other matter recorded precedes the verb. A nearby account can supply source, time, version, and access when those details matter. 'nelore' (preserve) protects an existing thing from loss; 'sirami' concerns the account itself.",
+  "examples": [
+    {
+      "phi": "mia nophi sirami.",
+      "translation": "I record a story."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Records carry maintenance, ecological observation, allocation, commitments, and institutional memory beyond one meeting or office holder.",
-    "peace-linguistics-practices": "A bounded record term preserves provenance and competing testimony instead of allowing written form or official status to silence lived accounts."
+    "solarpunk-values": "A maintenance note or ecological observation can outlast the person who first noticed the condition. The record remains useful because its source and access stay recoverable.",
+    "peace-linguistics-practices": "A durable account can keep testimony available after a meeting ends. Written or official form still does not erase competing accounts."
   },
   "semantic_domains": {
-    "cognition": "a durable account with source and version",
-    "community": "an institutional or shared record with access conditions"
+    "communication": "an account preserved in a form that others can receive later",
+    "community": "a shared or institutional account of events, observations, or decisions"
   }
 }

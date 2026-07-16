@@ -7,16 +7,26 @@
     "wi"
   ],
   "pos": "verb",
-  "concept": "Count / Enumerate / Say the Numbers Over Things",
-  "description": "To count or enumerate: people before a journey, jars at the season's end, or items in a record. In Phi the count may use an exact internal numeral from 0 through 242, an estimate or quantifier when appropriate, or a separately preserved source record for an out-of-range or technically formatted value. Counting can support care, surveillance, accountability, play, or harm; the verb does not determine its purpose.",
-  "sound_symbolism": "The word is the act: 'ta' then 'wi' — one, two — counting compressed into its own first gesture. No other coinage in the lexicon is this literal, and none needed to be.",
-  "grammatical_notes": "Transitive: 'mia lo lopia tawi.' (I count the children.) With an exact numeral and optional classifier: 'shia wi himo miona tawi.' (They count two people.) The object may instead carry a bare scale or quantifier when the count is approximate. Values above 242, units, and exact technical records remain source material outside the Phi passage when their form matters. 'Wia' asks how many; 'masue' measures against a standard.",
+  "search_terms": [
+    "enumerate",
+    "tally"
+  ],
+  "description": "A household counts its jars before winter; a group counts who has arrived. 'tawi' enumerates distinguishable people, things, or events, either exactly or by a contextual approximation. 'masue' (measure) compares a magnitude with a standard instead of saying how many members a set contains.",
+  "articulatory_notes": "Make unvoiced dental 't' by sealing the tongue tip against the backs of the upper incisors, then release into stressed central 'a'. For 'wi', round the lips and lift the tongue back for the voiced glide before moving forward and unrounding into high-front 'i'.",
+  "sound_symbolism": "The word places 'ta' (one) before 'wi' (two), so its two syllables perform the beginning of a count. This is deliberate audible kinship with Phi's first positive numerals.",
+  "usage_notes": "The counted set or its members precede the verb. Exact Phi numerals run from zero through 242; a bare scale or ordinary quantifier gives an approximation. Larger exact values and technically formatted tallies stay in their source form when the notation matters. 'wia' asks how many.",
+  "examples": [
+    {
+      "phi": "mia lo lopia tawi.",
+      "translation": "I count the children."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Counting breaths is one meditation technique, and a verb built from the first positive digits makes that association easy to remember. Counting itself is not necessarily mindful practice.",
-    "pre-industrial-wisdom": "A shepherd's evening count or a pantry's seasonal tally can be an act of care and preparation. Enumeration can also be an audit, and context must distinguish the uses."
+    "pre-industrial-wisdom": "An evening count of animals or a seasonal pantry tally can reveal a loss before hunger or weather makes it urgent. The verb names the enumeration and leaves its purpose open."
   },
   "semantic_domains": {
-    "activity": "Enumerating a set for a stated or recoverable purpose",
-    "cognition": "Exact or approximate counting within Phi's documented limits"
+    "activity": "enumerating the members of a set for a practical purpose",
+    "cognition": "keeping track of successive items during enumeration",
+    "quantity": "determining how many members a set contains"
   }
 }

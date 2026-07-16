@@ -8,17 +8,26 @@
     "i"
   ],
   "pos": "verb",
-  "concept": "Exceeds / Greater Than / Surpasses in Magnitude",
-  "description": "The verb of magnitude comparison announcing that one quantity surpasses another in amount. It states a quantitative relation without lexically saying that the larger quantity is better or preferable. Context still determines the relevant measure, whether the quantities are comparable, and whether the comparison is being used responsibly. A comparison may state both quantities or leave a reference threshold recoverable from context.",
-  "sound_symbolism": "The flowing 'sha' rises like water over a brim, the liquid 'ro' carries the overflow onward, and the high 'i' marks the point passed. Magnitude surpassed without triumph — a fact of flow, not of victory. Keeps the '-oi' shape of the magnitude verbs while sharing nothing else with its partner 'thenoi' (falls-short), so the two comparisons can never be confused.",
-  "grammatical_notes": "With two explicit quantitative arguments, the evaluated quantity comes first and mandatory 'nela' marks the boundary before the reference: '[quantity 1] nela [quantity 2] sharoi'. Example: 'ta phoi nela ta shao sharoi.' (Nine exceeds three / 9 > 3.) The reference may be omitted only when context supplies it, as in exceeding an already named threshold. Can be negated with 'ma' to express 'does not exceed' (less than or equal). Real-world uses should name comparable quantities and state the measure or criterion when it is not obvious. Can be nominalized to discuss exceeding or surplus. Questions use 'wa': 'wa ta shao nela wi shao sharoi.' (Does three exceed six? / Is 3 > 6?)",
+  "search_terms": [
+    "greater than",
+    "surpass",
+    "above threshold"
+  ],
+  "description": "A river may exceed a marked level, or one basket may hold more grain than another. 'sharoi' says that the first quantity is greater on the stated measure. Ordinary adjectival comparison uses 'mo' with 'sheo' (than); 'sharoi' belongs to explicit quantities and thresholds, and adds no claim that larger is better.",
+  "articulatory_notes": "For 'sha', hold the tongue blade close behind the alveolar ridge so unvoiced air passes through a narrow channel, then open fully into central 'a'. Start stressed 'ro' with a tap or short trill at the ridge and round the following middle-height back vowel. Separate final 'i' across the hiatus by advancing the tongue and releasing the lip rounding.",
+  "sound_symbolism": "The mouth moves from the rounded centre of stressed 'ro' to a separate high-front 'i'. The small physical rise makes an easy mnemonic for the higher side of a comparison.",
+  "usage_notes": "With two quantities, the evaluated amount comes first and mandatory 'nela' marks the reference: '[evaluated amount] nela [reference amount] sharoi.' A known threshold may supply the second term from context. Negated 'sharoi' means that the evaluated amount is no greater than its reference.",
+  "examples": [
+    {
+      "phi": "ta phoi nela ta shao sharoi.",
+      "translation": "Nine exceeds three."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Separating a magnitude relation from an evaluation can support clarity about what a sentence actually claims. Nine is not necessarily better than three; it simply exceeds it in the stated measure. The lexical distinction does not prevent comparison from being used harmfully.",
-    "peace-linguistics-practices": "'Sharoi' supports communication that distinguishes a factual magnitude claim from a claim about worth. Speakers must still examine the selected measure, the purpose of comparison, and its effects.",
-    "pre-industrial-wisdom": "Practical comparisons such as one basket holding more grain than another can remain descriptive rather than evaluative. 'Sharoi' supports that distinction without claiming that traditional measurement was uniformly non-hierarchical."
+    "peace-linguistics-practices": "A magnitude comparison can remain separate from a judgement of worth. The selected measure is still a claim that other speakers may examine."
   },
   "semantic_domains": {
-    "cognition": "Announces magnitude relationship requiring mental comparison",
-    "spatial": "Frames relative position in numerical space—one quantity extends beyond another"
+    "cognition": "a quantitative relation established by comparison",
+    "quantity": "one amount standing above another amount or threshold"
   }
 }

@@ -7,17 +7,25 @@
     "o"
   ],
   "pos": "verb",
-  "concept": "Read / Decode wisdom / Receive written voice",
-  "description": "To turn written symbols into meaning. 'Theo' applies to any written material: books, signs, letters. What it names is reception, hearing the recorded voice of a writer who may be distant, absent, or long dead.",
-  "sound_symbolism": "The word begins with 'the', where the thoughtful fricative 'θ' captures the contemplative act of decoding meaning—the careful consideration required to transform symbols into understanding—meeting 'e', the balanced vowel of measured comprehension. This flows through hiatus into 'o', the round vowel of wholeness and completed understanding. Together, 'theo' creates reading's essence: thoughtful decoding ('the'), complete reception ('o')—the mind's gentle transformation of written marks into living wisdom.",
-  "grammatical_notes": "Functions as a transitive verb typically requiring a direct object: 'mia shelu theo' (I read a book). Can appear without explicit object when context is clear: 'mia theo' (I read/am reading). Takes various objects including texts, symbols, signs, or any written material. Often appears with instrumental particles indicating reading medium or locative particles indicating where reading occurs.",
+  "search_terms": [
+    "decode writing",
+    "read text"
+  ],
+  "description": "A reader follows written marks and receives what they carry. 'theo' covers a book, sign, letter, or other readable material; it says that the writing is decoded, not that the reader understands or agrees with it. 'shelomu' (understand) makes that further claim.",
+  "articulatory_notes": "For stressed 'the', rest the tongue tip at the upper teeth while unvoiced air flows around it and opens into middle-height front 'e'. Do not glide into the next vowel; draw the tongue back and round the lips for a separate middle-height 'o'.",
+  "sound_symbolism": "Both 'theo' and 'thekiro' (write) begin with the same dental breath and front vowel. The shorter form opens directly into rounded 'o', giving the receiving half of the pair its own compact contour.",
+  "usage_notes": "The text or other readable object normally precedes the verb, though shared context can leave it unspoken. Aspect distinguishes reading begun, in progress, completed, or habitual. The event-noun rule supplies reading as an activity.",
+  "examples": [
+    {
+      "phi": "mia shelu theo.",
+      "translation": "I read a book."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Reading embodies the democratization of knowledge essential to solarpunk futures—where information flows freely, libraries are communal treasures, and literacy empowers every person to access technical knowledge for sustainable living. In solarpunk societies, reading connects us to both ancestral wisdom and emerging innovations, enabling participatory design and informed consent in technological choices. Digital and physical texts coexist, with reading as the gateway to understanding repair manuals, seed-saving guides, and community governance documents.",
-    "peace-linguistics-practices": "Reading is fundamentally an act of listening to another's voice through time and space—a peaceful reception of ideas that requires patience, openness, and the willingness to understand perspectives beyond our own. Unlike spoken debate which can escalate, reading allows for pause, reflection, and the careful consideration of challenging ideas without immediate reaction. It represents the non-violent exchange of knowledge, where understanding precedes response.",
-    "pre-industrial-wisdom": "Before widespread literacy, reading was a sacred act—monks illuminating manuscripts, scribes preserving cultural memory, storytellers 'reading' pictographic histories. Traditional societies understood written knowledge as powerful magic requiring reverence and responsibility. Even today, indigenous communities recognize that some knowledge should be 'read' only by those prepared to honor its teachings. Reading connects us to this lineage of careful knowledge preservation."
+    "peace-linguistics-practices": "Written speech lets a reader pause before answering and return to the same wording. 'theo' names that reception without claiming patience or agreement on the reader's behalf."
   },
   "semantic_domains": {
-    "cognition": "fundamentally a cognitive process of decoding and comprehension",
-    "communication": "receptive communication receiving encoded messages from another consciousness"
+    "cognition": "decoding written marks as language or another readable system",
+    "communication": "receiving an expression preserved in readable form"
   }
 }
