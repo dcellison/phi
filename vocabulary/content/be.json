@@ -7,16 +7,27 @@
     "i"
   ],
   "pos": "verb",
-  "concept": "Be / Existence / Presence",
-  "description": "The fundamental verb of existence and state, expressing that something exists, has a quality, or occupies a role. 'Nai' is presence stated as a verb.",
-  "sound_symbolism": "The grounding consonant 'na' roots existence in the here and now - not floating in abstraction but connected to this moment, this place. This foundation opens into 'i', the bright vowel of immediate presence and awareness. Together they create the simplest affirmation: 'na' grounds us while 'i' declares 'here I am.' The hiatus between the vowels creates a gentle pause, like the space between breaths where being simply is.",
-  "grammatical_notes": "Functions as both copula (linking subject to predicate) and existential verb. The predicate comes before 'nai': 'mia melu nai.' (I am a friend.) 'shelira mioru nai.' (The forest is beautiful.) Does not conjugate for person or number, maintaining Phi's analytical structure. Questions keep the same frame: 'wa thia towe nai.' (Are you well?)",
-  "pillars": {
-    "secular-buddhist-philosophy": "Being embodies the first noble truth - the simple acknowledgment of what is. Not grasping at becoming something else, not denying current reality, but residing fully in this moment's existence. 'Nai' grammaticalizes the practice of presence and mindfulness.",
-    "pre-industrial-wisdom": "Traditional understanding recognizes being as participation in the great web of existence - to be is to be in relationship. One exists not in isolation but as part of the living whole, connected to land, community, and ancestors."
-  },
+  "search_terms": [
+    "copula",
+    "exist",
+    "be present"
+  ],
+  "description": "Links a subject to a predicate that identifies, describes, or locates it. 'nai' also asserts that an event or condition exists or occurs. It states the relation in the clause; it does not imply permanence, approval, or a deeper essence.",
+  "articulatory_notes": "Set the tongue tip against the backs of the upper teeth for voiced dental 'n' and let the air pass through the nose into stressed open central 'a'. Keep the next vowel separate: raise the tongue towards high-front 'i' without adding a glide between the two syllables.",
+  "sound_symbolism": "The dental nasal gives this short copula a quiet voiced opening. Its two vowels remain plainly separate, so even the smallest Phi predicate has a little room inside it.",
+  "usage_notes": "The predicate stands before 'nai': an adjective, noun, place phrase, or the deictic 'ha' or 'ra' can fill that position. Questions and tense keep the same frame. A clause-initial pronoun remains the subject, so 'mia lohau nai' means 'I am a dog', not 'my dog exists'.",
+  "examples": [
+    {
+      "phi": "shelira mioru nai.",
+      "translation": "The forest is beautiful."
+    },
+    {
+      "phi": "mia ha nai.",
+      "translation": "I am here."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "establishing identity and predication",
-    "wisdom": "recognizing and accepting what is"
+    "cognition": "identity, classification, and attributed states",
+    "spatial": "location stated through a place predicate"
   }
 }

@@ -8,16 +8,27 @@
     "ki"
   ],
   "pos": "verb",
-  "concept": "Sustain / Maintain / Keep Going",
-  "description": "To keep something going over time, maintaining its existence or function through ongoing support. 'Thenoki' names the continuous effort that prevents decline: the maintenance that keeps a system running, the tending that keeps a fire burning, the attention that keeps a relationship alive.",
-  "sound_symbolism": "The word endures like sustaining itself. 'The' /θe/ begins with dental breath, gentle but persistent. Then 'no' continues with nasal steadiness, the ongoing nature of maintenance. Finally 'ki' keeps with velar firmness, the sustained thing held in being.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia sila thenoki' (I sustain the community). Can specify duration with 'sui': 'mia sui sheloi philo thero thenoki' (I sustain the fire for many days). Related to lumera (nourish) but emphasizes continuity over time rather than immediate provision.",
+  "search_terms": [
+    "keep going",
+    "support continuity"
+  ],
+  "description": "Provide the resources, support, or conditions that let a life, activity, community, or system continue. The verb reports continuing support, not indefinite endurance or proof that the supported arrangement is desirable.",
+  "articulatory_notes": "Rest the tongue tip near the upper teeth for unvoiced 'th' and let the breath pass into middle-height front 'e'. Put the tip against the backs of the upper teeth for stressed dental 'n' and carry the voice through the nose into rounded middle-height back 'o'. Close the back of the tongue at the soft palate for 'k' and release into high-front 'i'.",
+  "sound_symbolism": "Two dental gestures lead to the clear release of 'ki'. The rounded nasal centre lets the word rest for a moment, much as support lets an activity continue.",
+  "usage_notes": "The supported life, activity, community, or system is the object. Duration and the means of support may be stated separately. 'thiranu' (maintain) names upkeep of condition or function, while 'lumera' (nourish) concerns a living being's growth or wellbeing.",
+  "examples": [
+    {
+      "phi": "lo sila miso thenoki.",
+      "translation": "The communities sustain themselves."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Sustainability is the capacity to sustain—systems that can maintain themselves over time, practices that don't deplete their own foundations.",
-    "pre-industrial-wisdom": "Traditional life required sustaining attention—fires kept burning, stores maintained, relationships tended. Sustainability was daily practice."
+    "solarpunk-values": "A claim that something is sustainable needs the support, resources, duration, and costs behind it. 'thenoki' names the continuing relation while leaving those questions open."
   },
   "semantic_domains": {
-    "temporal": "Maintaining through time",
-    "wisdom": "Understanding what keeps things alive"
+    "activity": "support that lets an activity or system continue",
+    "community": "resources and work that keep a group functioning",
+    "nature": "conditions that continue a living system",
+    "temporal": "continuity made possible through ongoing support"
   }
 }

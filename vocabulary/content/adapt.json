@@ -8,16 +8,30 @@
     "lu"
   ],
   "pos": "verb",
-  "concept": "Adapt / Adjust to Conditions / Modify for Fit",
-  "description": "To adjust oneself or something to new conditions, making changes that improve fit with environment or circumstances. 'Hinolu' implies flexibility and responsiveness—not rigid resistance to change but intelligent adjustment that maintains function or wellbeing under altered conditions.",
-  "sound_symbolism": "The word begins with 'hi', the light breath of flexibility—ready to move, not fixed. The high 'i' perceives what conditions require. Then 'no' adjusts with nasal shaping, form finding new configuration. Finally 'lu' flows into the adapted state, settled but not rigid.",
-  "grammatical_notes": "Functions as intransitive or transitive verb: 'mia hinolu.' (I adapt.) 'mia norae hinolu.' (I adapt a method.) Related to 'helui' (change) but emphasizes purposeful adjustment rather than simple transformation.",
+  "search_terms": [
+    "adjust to conditions",
+    "modify to fit"
+  ],
+  "description": "Change a person, thing, or practice in response to altered conditions while retaining enough of its identity or purpose to continue. Adaptation may be chosen or imposed, helpful or harmful, and successful or unsuccessful; the verb settles none of those questions.",
+  "articulatory_notes": "Begin with unvoiced 'h' at the glottis and raise the tongue into high-front 'i'. Set the tongue tip against the backs of the upper teeth for voiced dental 'n' and release the nasal air into stressed rounded middle-height back 'o'. Move the tip to the alveolar ridge for 'l' and finish with rounded high-back 'u'.",
+  "sound_symbolism": "After the light opening, the word changes contact twice while the voice continues through nasal and lateral sounds. That controlled reshaping is a useful phonesthetic companion to adjustment.",
+  "usage_notes": "The verb may be intransitive or take the thing being adapted as its object. Accessibility-module 'hinawu' (accommodate) specifically answers a stated access requirement. 'molei' (evolve) concerns accumulated development over time, while 'helui' (change) simply reports difference.",
+  "examples": [
+    {
+      "phi": "mia norae hinolu.",
+      "translation": "I adapt the method."
+    },
+    {
+      "phi": "lo thena se po hinolu.",
+      "translation": "Things can be adapted."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Climate adaptation requires flexible response to changing conditions—communities that can adapt will survive and thrive.",
-    "secular-buddhist-philosophy": "Adaptation is wisdom in action—seeing conditions clearly and responding skillfully rather than insisting reality match our preferences."
+    "solarpunk-values": "Climate adaptation needs a neutral verb. Communities may alter tools, homes, or practices in response to changed conditions, while justice, burden, and actual protection still have to be stated."
   },
   "semantic_domains": {
-    "nature": "Following life's adaptive patterns",
-    "wisdom": "Responsive flexibility"
+    "activity": "deliberate or responsive adjustment to conditions",
+    "cognition": "revision of a method or practice after new information",
+    "nature": "organisms or living systems changing in relation to their surroundings"
   }
 }

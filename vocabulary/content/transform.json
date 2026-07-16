@@ -8,16 +8,26 @@
     "ki"
   ],
   "pos": "verb",
-  "concept": "Transform / Change Form Completely / Metamorphose",
-  "description": "To change completely in form, nature, or character: caterpillar to butterfly, grief to acceptance, conflict to reconciliation. Not gradual adjustment but metamorphosis. The original remains connected to the transformed, yet they are not the same.",
-  "sound_symbolism": "'Mo' begins nasal and closed, the original form held within itself. 'Lu' releases that form into flowing transition, and the velar stop of 'ki' ends the movement cleanly with the transformed form distinct.",
-  "grammatical_notes": "Functions as a transitive or intransitive verb: 'thena moluki' (the thing transforms). Source and result can be marked with 'lue' (from) and 'muo' (into). Stronger than helui (change); implies fundamental rather than superficial alteration.",
+  "search_terms": [
+    "reorganise",
+    "undergo major change"
+  ],
+  "description": "Undergo or cause a far-reaching change in form, function, or organisation. 'moluki' is stronger than 'helui' (change), but it does not promise that every part changed or that the result improved.",
+  "articulatory_notes": "Bring the lips together for voiced 'm' and let the air pass through the nose into rounded middle-height back 'o'. Touch the tongue tip to the alveolar ridge for stressed 'l' and continue into rounded high-back 'u'. Close the back of the tongue at the soft palate for 'k' and release into high-front 'i'.",
+  "sound_symbolism": "A rounded nasal moves through a broad lateral centre to the crisp release of final 'ki'. So much movement within three syllables suits Phi's stronger change verb.",
+  "usage_notes": "The transforming thing may be the subject, or an agent may take it as an object. 'lue' (from) and 'muo' (into) can name source and result. Extent, benefit, consent, and responsibility remain separate claims.",
+  "examples": [
+    {
+      "phi": "ha terura to moluki.",
+      "translation": "This system underwent a transformation."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Social transformation is necessary and possible—systems that harm can become systems that heal through committed collective change.",
-    "secular-buddhist-philosophy": "Transformation is possible because nothing has fixed essence—the self that suffers can transform into the self that is free."
+    "solarpunk-values": "Solarpunk often asks whether a harmful arrangement can be reorganised rather than merely adjusted. 'moluki' makes that larger claim available without calling the result just or successful."
   },
   "semantic_domains": {
-    "temporal": "Fundamental change over time",
-    "wisdom": "Understanding deep change as possible"
+    "activity": "extensive change caused or undergone",
+    "creation": "reorganisation of form or function",
+    "temporal": "a substantial difference established across time"
   }
 }

@@ -7,16 +7,24 @@
     "ro"
   ],
   "pos": "verb",
-  "concept": "Renew / Make New Again / Refresh",
-  "description": "To make fresh or new again—restoring vitality, replacing what is worn, refreshing what has faded. 'Phuro' carries the sense of new life breathed into old form, the cycle turning toward spring again after winter's depletion.",
-  "sound_symbolism": "The word begins with 'phu' /ɸu/, breath itself renewing—fresh air entering, life returning. The deep 'u' holds potential. Then 'ro' rises with rolling emergence, the renewed thing rising fresh.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia womu phuro.' (I renew the home.) Related to 'talome' (restore) but emphasizes freshness and vitality rather than return to original state.",
-  "pillars": {
-    "solarpunk-values": "Renewable systems are central to sustainable futures—energy, materials, and practices that can be renewed rather than depleted.",
-    "secular-buddhist-philosophy": "Each moment offers renewal—the breath just taken is new, the present instant fresh. Renewal is always available."
-  },
+  "search_terms": [
+    "refresh",
+    "reactivate",
+    "extend validity"
+  ],
+  "description": "Begin a fresh period of use, activity, validity, or commitment for something that already exists. Renewal may continue an earlier arrangement with changed terms. It differs from 'talome' (restore), which works towards a stated reference condition.",
+  "articulatory_notes": "Bring the lips close without sealing them for unvoiced bilabial 'ph' and pass breath between them into stressed rounded high-back 'u'. Make a tap or short trill at the alveolar ridge for 'r', then finish with rounded middle-height back 'o'.",
+  "sound_symbolism": "Breath leaves the lips without a stop and the word turns once at the tongue before settling into rounded 'o'. The brief second motion lends starting again a light contour.",
+  "usage_notes": "A commitment, permission, practice, or period of use can be the object. Changed terms and the people accepting them remain separate; the verb alone does not carry consent or authority.",
+  "examples": [
+    {
+      "phi": "mia seru phuro.",
+      "translation": "I renew the commitment."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Following natural patterns of renewal",
-    "temporal": "Cycling from depleted to fresh"
+    "activity": "beginning another period of use or practice",
+    "community": "continuation of a commitment or shared arrangement",
+    "temporal": "a fresh period for something already established"
   }
 }

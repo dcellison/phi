@@ -8,19 +8,30 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Heal / To Return to Wholeness",
-  "description": "The process of returning to balance and wholeness in body, mind, or spirit. To heal is to create conditions for natural restoration, not to impose cure from outside.",
-  "sound_symbolism": "The word begins with 'the', a gentle fricative that breathes tender care into being—healing as soft presence, not forceful intervention. This opens into the vowel hiatus 'a', creating space for what needs to emerge, the pause where true healing happens. The final 'la' carries this care forward as flowing path, acknowledging that healing is journey, not destination. This three-part movement—from gentle breath through open space to flowing continuation—captures the healer's art: creating conditions for wholeness to return rather than imposing cure. The sound itself feels therapeutic, each syllable a gentle touch.",
-  "grammatical_notes": "'heloa mia theala.' (The remedy heals me.) Healing, process or event, is the noun the rule provides. Related: sunai (health), wolu (healthy), talome (restore), heloa (remedy).",
+  "search_terms": [
+    "recover from injury",
+    "bring healing"
+  ],
+  "description": "For injured tissue or an ill person to recover, or for a remedy or caregiver to support that recovery. The same verb can describe recovery from emotional hurt when the context makes that hurt clear. Healing does not promise return to an earlier body; cure and reconciliation are separate.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth for unvoiced 'th' and let air pass into middle-height front 'e'. Keep the next stressed open central 'a' in a separate syllable. Touch the tongue tip to the alveolar ridge for 'l' and release into a second open central 'a'.",
+  "sound_symbolism": "Breath opens into two separate broad vowels, with the lateral arriving only near the end. The form is audibly close to 'theama' (care), a kinship of sound rather than a hidden derivation.",
+  "usage_notes": "A remedy or caregiver may be the subject and the affected person the object. Reflexive 'miso' centres healing in the subject, and injured tissue may heal intransitively. Medical-module 'helanu' (recover) names a person's broader movement towards a health, comfort, or functional state they help define.",
+  "examples": [
+    {
+      "phi": "heloa mia theala.",
+      "translation": "The remedy heals me."
+    },
+    {
+      "phi": "mia miso theala.",
+      "translation": "I heal myself."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Healing embodies the understanding that suffering has causes that can be addressed through skillful means. This isn't about denying pain but creating conditions where natural balance can restore itself. True healing often requires accepting what cannot be changed while working skillfully with what can, finding peace within imperfection.",
-    "pre-industrial-wisdom": "Traditional healing understands that true restoration comes from supporting the body's own wisdom rather than overriding it. This approach sees illness as imbalance in the whole person - body, mind, spirit, and community - requiring patient attention to root causes rather than just symptom suppression. Healing happens in relationship, never in isolation."
+    "peace-linguistics-practices": "Healing can be supported, requested, refused, or defined differently by the person living through it. The verb names recovery without turning illness or injury into a person's identity."
   },
   "semantic_domains": {
-    "community": "happens in relationship requiring collective support",
-    "emotion": "encompasses emotional restoration and returning to balance",
-    "nature": "follows natural processes and organic cycles of recovery",
-    "physical": "involves bodily restoration and tangible recovery processes",
-    "wisdom": "requires understanding root causes and skillful means"
+    "activity": "care or remedy supporting recovery",
+    "emotion": "recovery from a stated emotional hurt",
+    "physical": "living tissue or a body recovering from illness or injury"
   }
 }

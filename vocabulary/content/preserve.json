@@ -8,16 +8,27 @@
     "re"
   ],
   "pos": "verb",
-  "concept": "Preserve / Keep Intact / Maintain Over Time",
-  "description": "To keep something in its current state, protecting it from decay or change over time. 'Nelore' names the practice of conservation—maintaining what is valuable, whether traditions, ecosystems, relationships, or physical things, so they continue into the future.",
-  "sound_symbolism": "The word holds time gently. 'Ne' begins with nasal steadiness, continuity affirmed. Then 'lo' flows with liquid care, ongoing attention. Finally 're' receives with rolling patience, preservation as sustained practice.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia therema nelore.' (I preserve tradition.) 'mia shelira nelore.' (I preserve the forest.) Related to 'thiranu' (maintain) but emphasizes protection from change.",
+  "search_terms": [
+    "conserve",
+    "protect from loss"
+  ],
+  "description": "Protect a record, seed collection, habitat, or practice from loss, decay, or unwanted alteration. Preservation may allow careful change; it does not mean keeping everything untouched forever.",
+  "articulatory_notes": "Set the tongue tip against the backs of the upper teeth for voiced dental 'n' and let air pass through the nose into middle-height front 'e'. Move the tip to the alveolar ridge for stressed 'l' and round into middle-height back 'o'. Finish with a tap or short trill at the ridge followed by middle-height front 'e'.",
+  "sound_symbolism": "Voice continues through nasal, lateral, and rhotic contacts without a stop. That held thread recalls something kept available across change.",
+  "usage_notes": "Its object is what the speaker seeks to keep available. When the facts are disputed, the clause can identify the threatened loss and whose reference state applies. 'thiranu' (maintain) performs upkeep; 'talome' (restore) moves something back towards a stated earlier condition.",
+  "examples": [
+    {
+      "phi": "mia therema nelore.",
+      "translation": "I preserve the tradition."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Preservation of ecosystems, biodiversity, and sustainable practices ensures futures worth living.",
-    "pre-industrial-wisdom": "Traditional cultures preserve knowledge, seeds, and practices—carrying forward what sustains communities across time."
+    "pre-industrial-wisdom": "Seeds, tools, stories, and practices survive because someone attends to their particular risks. Preservation is work with a named object, not a vague devotion to the past."
   },
   "semantic_domains": {
-    "nature": "Conserving what sustains life",
-    "temporal": "Maintaining across time"
+    "activity": "protection against loss, decay, or unwanted alteration",
+    "cognition": "keeping records or knowledge available",
+    "nature": "protection of a living place, species, or ecological continuity",
+    "temporal": "continuity kept available across time"
   }
 }
