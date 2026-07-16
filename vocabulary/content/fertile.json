@@ -8,16 +8,26 @@
     "a"
   ],
   "pos": "adjective",
-  "concept": "Fertile / Able to Produce / Life-Giving",
-  "description": "Capable of producing abundant vegetation or offspring; highly productive. 'Muroa' names the quality of generative potential—soil that can grow, beings that can create, conditions that support new life.",
-  "sound_symbolism": "The word opens to life. 'Mu' begins with mother-earth grounding, the fertile source. Then 'ro' grows with generating force. Finally 'a' opens to possibility, life emerging.",
-  "grammatical_notes": "Functions as an adjective: 'muroa muila' (fertile earth). Related to 'lorua' (abundant) but emphasizes potential rather than current plenty—fertile ground may not yet be planted.",
+  "search_terms": [
+    "fertility",
+    "able to support growth",
+    "reproductively capable"
+  ],
+  "description": "Soil, an organism, or a set of conditions is 'muroa' when it can support growth or reproduction. Fertile soil may lie unplanted, so 'muroa' describes capacity rather than the actual yield of 'poru' (productive) or the present plenty of 'lorua' (abundant). For a person, it reports reproductive capacity; expectation and worth remain separate facts.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm', carry the voice through the nose, and open into high-back rounded 'u'. Make a tap or short trill for 'r', then move into stressed true-mid rounded back 'o'. Lower the tongue and unround the lips for final open central 'a', keeping the vowel separate across the 'o.a' hiatus.",
+  "sound_symbolism": "The lips begin closed for 'm' and the word gradually opens to final 'a'. This movement can feel like ground opening to receive a seed.",
+  "usage_notes": "In its noun use, 'muroa' means fertility. In medical or reproductive contexts, exact clinical classifications may require source wording beyond this general capacity term.",
+  "examples": [
+    {
+      "phi": "ha muila muroa nai.",
+      "translation": "This soil is fertile."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Fertile soil is the foundation of food sovereignty—regenerative agriculture restores fertility rather than depleting it.",
-    "pre-industrial-wisdom": "Fertility was sacred—the land's ability to produce was honored, protected, and celebrated."
+    "solarpunk-values": "Compost and crop rotation can preserve the soil's capacity to support another season instead of spending it all at once.",
+    "pre-industrial-wisdom": "A field's fertility is learned over seasons through what grows there and how the soil answers cultivation."
   },
   "semantic_domains": {
-    "creation": "Generative potential",
-    "nature": "Life-producing quality"
+    "nature": "the capacity of soil, organisms, or conditions to support growth or reproduction"
   }
 }

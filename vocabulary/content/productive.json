@@ -7,16 +7,26 @@
     "ru"
   ],
   "pos": "adjective",
-  "concept": "Productive / Yielding Results / Creating Output",
-  "description": "Producing or able to produce large amounts of goods, crops, or results. 'Poru' names the quality of effective output—work that yields results, processes that generate goods, efforts that bear fruit.",
-  "sound_symbolism": "The word produces steadily. 'Po' begins with purposeful release, output initiated. Then 'ru' rolls with continuous yield, production flowing.",
-  "grammatical_notes": "Functions as an adjective: 'poru thepalu' (productive garden). Related to 'muroa' (fertile) but emphasizes actual output rather than potential—productive work has already yielded results.",
+  "search_terms": [
+    "yielding results",
+    "effective output"
+  ],
+  "description": "An activity, process, workshop, or garden is 'poru' when it actually yields useful or intended results. 'muroa' (fertile) tells whether conditions can sustain growth; 'poruli' (efficient) compares result with the resources used, and 'thirulo' (output) is the result itself. A productive period describes what happened during that period, not the worth of the person who worked through it.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release them into stressed true-mid rounded back 'o'. Make a tap or short trill with the tongue tip for 'r', then raise the back of the tongue into high-back rounded 'u'.",
+  "sound_symbolism": "The compact release of 'po' gives way to the brief movement of 'r' and closes on rounded 'u'. Its two firm syllables bring to mind a task that reaches its result without fuss.",
+  "usage_notes": "Noun use supplies productivity. The adjective sits most naturally with an activity, period, process, place, or system.",
+  "examples": [
+    {
+      "phi": "ha thepalu poru nai.",
+      "translation": "This garden is productive."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Productive systems create what communities need—production aligned with genuine needs rather than artificial demand.",
-    "pre-industrial-wisdom": "Productive seasons determined survival—the rhythm of productive and fallow times structured traditional life."
+    "solarpunk-values": "A workshop may be productive because it repairs what the community needs, even when it produces no new goods. The useful result is the point.",
+    "pre-industrial-wisdom": "Productive seasons alternate with rest, maintenance, and fallow time; a year's yield depends on all of them."
   },
   "semantic_domains": {
-    "creation": "Yielding results",
-    "physical": "Generating output"
+    "activity": "work or a process that reaches useful or intended results",
+    "creation": "a workshop, garden, or system that yields an actual result"
   }
 }

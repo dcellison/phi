@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (178)
+## activity (179)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -103,6 +103,7 @@
 | `pina` | sew | fundamental human activity of sewing |
 | `pisha` | split | Division along the grain |
 | `pokera` | competent | ability to perform a stated activity to a criterion |
+| `poru` | productive | work or a process that reaches useful or intended results |
 | `poruli` | efficient | a relation between resources used and useful performance |
 | `puse` | spit | The palate's veto |
 | `pushali` | overload | demand exceeding the capacity needed to continue an action |
@@ -641,7 +642,7 @@
 | `whekate` | refute | a decisive challenge supported by reasons or evidence |
 | `whishela` | whisper | Speech made of breath |
 
-## community (285)
+## community (284)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -693,7 +694,6 @@
 | `lopia` | child | held as sacred trust by collective responsibility |
 | `lorea` | connect | weaves relationships into visible interdependence |
 | `lorima` | build | Creating shelter and shared spaces |
-| `lorua` | abundant | More than enough |
 | `lothea` | love | Foundation of relationship |
 | `lothoni` | accountable | answerability for a stated matter under a review relationship |
 | `lumani` | family | forms the fundamental unit of social bonds and belonging |
@@ -924,14 +924,14 @@
 | `wilemo` | toy | Made for a child's hands |
 | `wiresu` | postpone | a schedule change affecting shared participation |
 | `wisola` | exchange | weaves relationships through reciprocal giving and receiving |
-| `woenu` | tame | Human-animal bond |
+| `woenu` | tame | an individual animal's accustomed proximity to people |
 | `wolu` | healthy | collective conditions that support people in continuing life |
 | `womu` | home | the felt relation that turns a dwelling into a place of rest and return |
 | `womuri` | household | a person or group sharing domestic arrangements |
 | `wonepa` | table | Where the meal gathers |
 | `woru` | keeper | Guardian role |
 
-## creation (167)
+## creation (166)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -995,7 +995,6 @@
 | `mueri` | clay | Shaping medium |
 | `muphera` | stock | materials and components available to making and repair |
 | `muralo` | material | matter considered for making, repair, transformation, or reuse |
-| `muroa` | fertile | Generative potential |
 | `napako` | bake | turning dough or other food into a baked result |
 | `naphelu` | assistive | a device or practice shaped for an access purpose |
 | `nepha` | medicine | Healing substance |
@@ -1037,7 +1036,7 @@
 | `pina` | sew | Joining through needle and thread |
 | `piru` | trader | Goods movement |
 | `ponu` | door | Passage control |
-| `poru` | productive | Yielding results |
+| `poru` | productive | a workshop, garden, or system that yields an actual result |
 | `poruli` | efficient | a comparative quality of designed processes and systems |
 | `relo` | symbol | Meaning carrier |
 | `relua` | mirror | Reflecting surface |
@@ -1277,7 +1276,7 @@
 | `loremi` | branch | The tree's reaching limb |
 | `lori` | vital | conditions and relations on which living systems depend |
 | `loriphi` | rainbow | Optical atmospheric phenomenon |
-| `lorua` | abundant | Plentiful supply |
+| `lorua` | abundant | plentiful growth, water, food, or other provisions in a living system |
 | `lorui` | afternoon | Mellowing hours |
 | `lowi` | vine | Climbing plant |
 | `lumeo` | die | The universal ending of living things |
@@ -1318,7 +1317,7 @@
 | `muphia` | mud | Earth and water met |
 | `muraki` | harvest | Gathering mature crops |
 | `muriwe` | worm | The soil's quiet maker |
-| `muroa` | fertile | Life-producing quality |
+| `muroa` | fertile | the capacity of soil, organisms, or conditions to support growth or reproduction |
 | `napuro` | grain | The seed-crop of the year |
 | `nekuma` | meat | The animal become food |
 | `nelore` | preserve | Conserving what sustains life |
@@ -1428,7 +1427,7 @@
 | `tumeki` | root | Underground plant structure |
 | `tupiwa` | rabbit | The meadow's jumper |
 | `waero` | sky | Atmospheric expanse |
-| `waeshi` | wild | Untamed state |
+| `waeshi` | wild | plants, animals, or habitats living outside cultivation or domestication |
 | `wapi` | fly | The motion of birds and wind-borne things |
 | `wapile` | wing | Flight's limb |
 | `welamu` | elm | The tree of the riverside lane |
@@ -1446,12 +1445,12 @@
 | `wiru` | basket | Natural materials |
 | `wirua` | wet | moisture present in land, weather, air, or living surfaces |
 | `wishe` | swim | What fish and swimmers share |
-| `woeli` | natural | Of the living world |
-| `woenu` | tame | Domesticated |
+| `woeli` | natural | origins, patterns, or development arising from nature or from their own conditions |
+| `woenu` | tame | animal behaviour changed through familiarity with human presence or handling |
 | `wolea` | wood | Tree material |
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 
-## physical (349)
+## physical (348)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1470,7 +1469,7 @@
 | `hieru` | narrow | restricted width in passages and openings |
 | `hisae` | skin | Body's outer covering and sensing organ |
 | `hisaro` | clinical finding | an observation concerning bodily or health condition |
-| `hiso` | clean | Free from dirt |
+| `hiso` | clean | surfaces, objects, or materials free of unwanted matter for their present use |
 | `hisophi` | contaminant | a substance, organism, or agent present in a sample, place, or process |
 | `hola` | laugh | Vocal release of joy |
 | `horae` | radiant | light visibly extending from a source |
@@ -1661,7 +1660,6 @@
 | `pisha` | split | Parting in two |
 | `ponalu` | size | the overall extent of a physical thing |
 | `porewi` | side effect | a bodily effect beyond an intervention's stated target |
-| `poru` | productive | Generating output |
 | `pothu` | stink | The smell the nose refuses |
 | `powea` | egg | The round self-contained case |
 | `pukate` | break | Wholeness coming apart |
@@ -1805,13 +1803,14 @@
 | `wonepa` | table | The social flat of the house |
 | `wuloe` | soft | a yielding texture or contact that cushions pressure |
 
-## quantity (17)
+## quantity (18)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `hirawo` | distance | a measurable separation between two spatial referents |
 | `kolo` | equal | sameness in a stated amount, measure, or rank |
 | `lau` | twenty-seven-group | the twenty-seven scale used in exact and approximate enumeration |
+| `lorua` | abundant | a supply large in relation to the scale or need under discussion |
 | `mu` | zero | the exact numerical value for no counted members |
 | `pheno` | full | contents reaching the capacity relevant to the present comparison |
 | `phoi` | nine-group | the nine scale used in exact and approximate enumeration |
@@ -2205,7 +2204,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (141)
+## wisdom (138)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2213,7 +2212,6 @@
 | `helui` | change | Recognition of impermanence |
 | `hinolu` | adapt | Responsive flexibility |
 | `hiru` | intuit | Immediate knowing |
-| `hiso` | clean | Clarity of state |
 | `howela` | receive | requires understanding how to receive with grace |
 | `kanu` | choose | Where deliberation becomes direction |
 | `kathu` | seal | Confirmation |
@@ -2338,7 +2336,6 @@
 | `tisu` | needle | Precise craft |
 | `tolu` | staff | Journey companion |
 | `tumeki` | root | Foundation and origin |
-| `waeshi` | wild | Natural freedom |
 | `welao` | good | a contextual favourable judgement whose grounds remain open to examination |
 | `weloni` | body | The first foundation of mindfulness |
 | `whamoi` | doubt | recognition that judgment may remain open while inquiry continues |
@@ -2349,4 +2346,3 @@
 | `whori` | mend | Ethic of care and repair |
 | `wiero` | imaginative | Seeing possibility |
 | `wireo` | future | Possibility's domain |
-| `woeli` | natural | Authentic quality |

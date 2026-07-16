@@ -8,16 +8,26 @@
     "shi"
   ],
   "pos": "adjective",
-  "concept": "Wild / Untamed / In Natural State",
-  "description": "Living or growing in natural conditions; not domesticated or cultivated. 'Waeshi' names the quality of wildness—the untamed, the free-growing, nature uncontrolled.",
-  "sound_symbolism": "The word runs free. 'Wa' opens with expansive energy, freedom present. The vowel 'e' moves without constraint. Then 'shi' /ʃi/ releases into open space, wildness embodied.",
-  "grammatical_notes": "Functions as an adjective: 'waeshi pelowa' (wild meadow). Opposite of 'woenu' (tame). Related to 'ralu' (free) but emphasizes natural state rather than liberation from constraint.",
+  "search_terms": [
+    "uncultivated",
+    "undomesticated",
+    "free-growing"
+  ],
+  "description": "A plant, animal, or place is 'waeshi' when it lives or grows outside human cultivation or domestication. A wild rabbit may have little freedom in a damaged habitat, so 'ralu' (free) concerns available action rather than ecological history. An individual animal can become 'woenu' (tame) while its population remains wild.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then open into central 'a'. Move the tongue forward into a separate stressed true-mid 'e', keeping the 'a.e' hiatus distinct. Raise the tongue blade towards the postalveolar region for unvoiced 'sh', let the air pass through the narrow channel, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The wide 'a.e' hiatus opens into the sustained airflow of 'sh' before the word narrows to final 'i'. The long outward passage echoes growth continuing beyond a tended boundary.",
+  "usage_notes": "Noun-position 'waeshi' means wildness. 'waeshi pelowa' is a wild meadow, while 'waeshi tupiwa' is a wild rabbit; danger and the degree of habitat alteration take their own descriptions.",
+  "examples": [
+    {
+      "phi": "ha tupiwa waeshi nai.",
+      "translation": "This rabbit is wild."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Wild spaces sustain biodiversity—untamed nature provides ecosystem services that cultivation cannot.",
-    "pre-industrial-wisdom": "Wild foods supplemented cultivation—foraging from wild places complemented farming."
+    "solarpunk-values": "A settlement that leaves room for wild habitat accepts that some living systems will follow cycles outside cultivation.",
+    "pre-industrial-wisdom": "Wild food and medicine can complement cultivation when gathering leaves enough for the place to renew itself."
   },
   "semantic_domains": {
-    "nature": "Untamed state",
-    "wisdom": "Natural freedom"
+    "nature": "plants, animals, or habitats living outside cultivation or domestication"
   }
 }
