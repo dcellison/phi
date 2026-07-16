@@ -7,17 +7,23 @@
     "to"
   ],
   "pos": "verb",
-  "concept": "Turn / Rotate / Change Facing or Direction",
-  "description": "To turn: the head toward a voice, the boat toward shore, the wheel on its axle. Rotation and redirection, of oneself or of things. With 'lawe' and 'kuri' it gives Phi full navigation: 'turn to the left' is now speakable.",
-  "sound_symbolism": "The rolling 'r' is rotation itself, carried through the arc from open 'a' to rounded 'o' — the sound sweeps the curve it names.",
-  "grammatical_notes": "Intransitive or transitive: 'mia wei lawe rato.' (I turn to the left.) 'shia rolu rato.' (They turn the wheel.) Figuratively with attention: 'no wei sileta rato.' (Turn toward the sun.)",
-  "pillars": {
-    "art-nouveau-aesthetics": "The turn is where a line becomes a curve; every whiplash arc in the style is a committed turning.",
-    "pre-industrial-wisdom": "The turning wheel, the turned soil, the turning of the year — rotation is the oldest machine and the oldest metaphor."
-  },
+  "search_terms": [
+    "rotate",
+    "change direction"
+  ],
+  "description": "A person can 'rato' towards a voice, and a wheel can 'rato' on its axle. The verb changes facing or direction, or rotates a body or object. For a colour or condition becoming different, 'kelu' (become) carries the change of state.",
+  "articulatory_notes": "Tap or briefly trill the tongue tip at the alveolar ridge for 'r' and open into stressed central 'a'. Place the tongue tip against the backs of the upper teeth for unvoiced dental 't', release it, and round the lips for middle-height back 'o'.",
+  "sound_symbolism": "The tongue begins with a small roll, then moves forward to a dental stop before the lips round at the end. That change of contact gives the word an audible turn of its own.",
+  "usage_notes": "The verb is intransitive when the subject changes its own facing, and transitive when the subject turns an object. An intended direction takes 'wea' (TOWARD).",
+  "examples": [
+    {
+      "phi": "mia rolu rato.",
+      "translation": "I turn the wheel."
+    }
+  ],
   "semantic_domains": {
-    "activity": "The navigator's correction",
-    "physical": "The body's and the wheel's motion",
-    "spatial": "Rotation and change of facing"
+    "activity": "redirecting oneself or turning another object",
+    "physical": "rotation around a point or axis",
+    "spatial": "a change of facing or direction"
   }
 }

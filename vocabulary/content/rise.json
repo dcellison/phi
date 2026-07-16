@@ -7,17 +7,23 @@
     "he"
   ],
   "pos": "verb",
-  "concept": "Rise / Ascend Without Effort / Come Up",
-  "description": "To rise: smoke from the hearth, bread under its cloth, the sun over the ridge (though the sun has its own poetry), a person from sleep. Effortless or inward ascent — 'kalei' (climb) is its effortful cousin, 'lepa' (fall) its opposite, sharing almost no sounds with either.",
-  "sound_symbolism": "Bright 'ri' lifts, 'he' is the breath that carries it — rising as exhale, the smoke's own physics.",
-  "grammatical_notes": "Intransitive: 'whunei rihe.' (The breath rises.) 'lopia lue nuwera rihe.' (The child rises from bed.) Of bread: 'nuora rihe.' (The food rises.) Contrast 'kalei' (climb, effortful ascent) and 'lepa' (fall, its opposite).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Thoughts rise like bubbles — unbidden, unowned, observable. The verb of meditation's first discovery.",
-    "pre-industrial-wisdom": "The day was told by risings: sun, smoke, bread, birds. To rise was to begin."
-  },
+  "search_terms": [
+    "come up",
+    "ascend"
+  ],
+  "description": "Smoke above a hearth, bread under a cloth, and a person getting out of bed can all 'rihe'. The verb says that its subject moves upwards or becomes higher without fixing the mechanism. 'kalei' (climb) adds a route maintained through effort and contact.",
+  "articulatory_notes": "Tap or briefly trill the tongue tip at the alveolar ridge for 'r', then raise the front of the tongue for stressed high-front 'i'. Open the glottis for unvoiced 'h', let breath pass freely, and lower the tongue into middle-height front 'e'.",
+  "sound_symbolism": "A quick tongue tap enters bright 'i', and the second syllable opens into unobstructed breath. The light release can suggest something lifting clear.",
+  "usage_notes": "Causative 'ka' raises another person or thing. A speaker may extend the same vertical image to a level or feeling, as in a heart that rises; improvement remains a separate judgement.",
+  "examples": [
+    {
+      "phi": "sileta rihe.",
+      "translation": "The sun rises."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Effortless ascent",
-    "physical": "Coming up",
-    "temporal": "The shape of beginnings"
+    "activity": "an upward change treated as an event",
+    "physical": "a body or material becoming higher",
+    "spatial": "a path from a lower position to a higher one"
   }
 }

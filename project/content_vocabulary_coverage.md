@@ -51,6 +51,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Participation, cooperation, contribution, and mutual aid | **DONE** | Eleven inherited base verbs now use the target prose contract. Participation, joint work, contribution, shared use, help, support, service, inclusion, invitation, and welcome remain distinct without adding a root. |
 | Giving, receiving, keeping, and circulation | **DONE** | Thirteen inherited base entries now use the target prose contract. Giving, reception, taking, holding, exchange, portioning, collection, storage, release, and physical conveyance remain distinct without adding a root. |
 | Basic motion, endpoints, and staying | **DONE** | Nine inherited base verbs now use the target prose contract. Motion, path, deictic approach, departure, arrival, boundary crossing, return, and continued presence remain separate without adding a root. |
+| Manner, trajectory, and extended movement | **DONE** | Thirteen inherited base verbs now separate gait, medium, trajectory, orientation, and route structure. The coverage scan found no missing root among the neighbouring everyday motions. |
 | Resume inherited content prose migration | **NEXT** | Continue with another inherited base noun or verb neighbourhood under the same coverage gate. |
 
 ## Batch overview
@@ -87,6 +88,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Participation, cooperation, contribution, and mutual aid | [PR #387](https://github.com/dcellison/phi/pull/387) | **COVERED** | Eleven base verbs keep active participation, compatible effort, joint shaping, contribution, shared use, practical help, underlying support, service, inclusion, invitation, and welcome apart. Mutual aid and volunteering compose naturally from these relations. |
 | Giving, receiving, keeping, and circulation | [PR #388](https://github.com/dcellison/phi/pull/388) | **COVERED** | Thirteen base entries separate directed giving, gifts, reception, active taking, present holding, reciprocal exchange, portioning, collecting, storage, release, bringing, sending, and carrying. Lending, delivery, donation, and disputed taking remain transparent compositions. |
 | Basic motion, endpoints, and staying | [PR #389](https://github.com/dcellison/phi/pull/389) | **COVERED** | Nine base verbs separate motion itself, travel along a path, deictic approach, bounded departure and arrival, interior crossing, return, and continued presence. Start, stop, reach, approach, recession, and passage already use established grammar and relators. |
+| Manner, trajectory, and extended movement | PR pending | **COVERED** | Thirteen base verbs separate bodily gait, vertical course, rotation, buoyancy, flow, extended travel, and an unsettled route. Crawling, sinking, sliding, rolling, drifting, and riding remain transparent compositions. |
 
 ## Semantic batches and stable domains
 
@@ -126,6 +128,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Participation, cooperation, contribution, and mutual aid | `activity`, `cognition`, `communication`, `community`, `creation`, `nature`, `physical` | Taking part, fitting actions together, shaping one undertaking, adding a usable part, sharing access, assisting an act, sustaining a condition, serving a purpose, and opening or receiving participation remain separate claims. |
 | Giving, receiving, keeping, and circulation | `activity`, `cognition`, `communication`, `community`, `nature`, `physical`, `quantity`, `spatial`, `temporal`, `wisdom` | Direction of transfer, present holding, social ownership, reciprocal exchange, arithmetic operation, arranged storage, and physical support through movement remain separate claims. |
 | Basic motion, endpoints, and staying | `activity`, `physical`, `spatial`, `temporal` | Motion itself, a route through space, orientation towards a reference point, bounded arrival or departure, interior crossing, return, and persistence through time remain separate claims. |
+| Manner, trajectory, and extended movement | `activity`, `cognition`, `nature`, `physical`, `spatial`, `temporal` | Bodily support, movement through a medium, vertical course, rotation, continuous current, route planning, and mental wandering remain separate claims. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -732,6 +735,27 @@ One hand shifts a chair. Its owner crosses the doorway, reaches the well, and st
 
 No root is added. Cessative `te` already stops any verb, and the prepositions turn a small motion inventory into a route description without making `wepu` or `shua` swallow every point along the way. Walking, flying, swimming, and wandering stay for a later prose batch because they describe how a body travels, not the endpoints mapped here.
 
+## Manner, trajectory, and extended movement
+
+A child runs to the river, jumps from the bank, swims across, and later walks home. Nearby, a leaf floats while the water flows past it. Phi has direct verbs for each change in support or medium; the coverage questions begin where English hides two of those changes in one word.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Walking and running gait | Base `thalo` (walk), `rashelo` (run), `roke` (move), and contextual rate words | **COVERED** | Walking keeps returning support to the ground; running may include an interval with no supporting foot. Speed can be compared separately, and neither gait determines why the person moves. |
+| Climbing, jumping, falling, and rising | Base `kalei` (climb), `tupi` (jump), `lepa` (fall), and `rihe` (rise) | **COVERED** | Climbing keeps active contact with a route, jumping launches from support, falling descends after support is lost, and rising leaves the upward mechanism open. |
+| Flying, swimming, floating, and flowing | Base `wapi` (fly), `wishe` (swim), `lupho` (float), and `selu` (flow) | **COVERED** | Flight follows an airborne subject, swimming adds self-propulsion through water, floating reports buoyant support, and flow belongs to material or a current moving along a course. |
+| Turning and change of state | Base `rato` (turn) and `kelu` (become) | **COVERED** | `rato` handles rotation or changed facing. English turns red with a change-of-state verb, so Phi uses `kelu` and keeps physical turning audible. |
+| Journeys, wandering, wayfinding, and visits | Base `laniru` (journey) and `whenola` (wander), with Accessibility `runaki` (wayfind) and Household `phemiru` (visit) | **COVERED** | A journey gathers extended travel into one event, wandering leaves the route or destination open, wayfinding maintains orientation, and a visit is a bounded stay with a person or place. |
+| Crawling and wading | Base `roke`, `thalo`, `mulu` (low), body-part nouns, and the place and path relators | **COMPOSITIONAL** | Crawl covers several support patterns rather than one gait. A speaker can name a low body, the hands, knees, or belly supporting it, and the resulting movement; wading is walking through water. |
+| Sinking and diving | Base `lepa`, `lupho`, `tupi`, `wapi`, and `wishe`, with `mua` (LOC), `muo` (INTO), and cessative `te` | **COMPOSITIONAL** | `mua phialu lepa` locates a descent within water, while `muo phialu lepa` falls into it. A dive adds its launch or swimming manner, and `te lupho` can mark the loss of buoyant support. |
+| Sliding | Base `roke`, `selawi` (slippery), `helu` (smooth), and an explicit surface relation | **COMPOSITIONAL** | The contact can be slippery and the object can move along the surface. Those two facts preserve actual motion and low resistance without making every smooth thing slide. |
+| Rolling and tumbling | Base `rato`, `roke`, and `lepa` | **COMPOSITIONAL** | A rolling body rotates while its position changes. A tumble adds unsupported descent or repeated changes of facing, whichever the scene actually shows. |
+| Drifting | Base `lupho`, `selu`, `kolua` (carry), `howeli` (wind), and `whenola` | **COMPOSITIONAL** | A floating body can follow a current, and wind can carry another body. `whenola` supplies an unfixed course when that matters, but it does not pretend the mover was passive. |
+| Riding and vehicle travel | Base `kolua`, `wepu`, and `laniru`, instrumental `roe`, and the relevant animal or vehicle noun | **COMPOSITIONAL** | The carrier can carry the rider, or the traveller can go by means of the named animal or vehicle. The construction preserves who bears whose weight. |
+| Jogging, sprinting, hopping, hiking, soaring, and gliding | Base `rashelo`, `tupi`, `thalo`, `laniru`, and `wapi`, with contextual rate and path descriptions | **COMPOSITIONAL** | Jogging and sprinting refine a run, hopping repeats or narrows a jump, and a hike is an extended walk. Soaring and gliding refine flight through the stated use of wings, lift, or wind. |
+
+No new root follows from this scan. The six suspected gaps divide naturally across existing verbs, relators, body terms, and carriers. Connected use can reopen one of them, but none currently makes a Phi speaker dodge the physical facts.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -772,4 +796,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete, and the inherited base migration has now covered core speech, knowledge and memory, attention and imagination, desire and commitment, agreement and social pressure, participation and mutual aid, material circulation, and basic motion through its boundaries and endpoints. Module batches remain paused. The next work package will select another coherent base noun or verb neighbourhood under the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, sustained interest or engagement, and neutral retraction remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete, and the inherited base migration has now carried ordinary motion from departure through manner, trajectory, and extended travel. The preceding verb neighbourhoods run from speech and cognition through social action and material circulation. Another 503 inherited base entries remain: 350 nouns and 153 verbs. Module batches remain paused. The next work package will select another coherent base noun or verb neighbourhood under the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, sustained interest or engagement, and neutral retraction remain recorded review questions rather than hidden gaps.

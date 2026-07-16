@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (216)
+## activity (222)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -22,7 +22,7 @@
 | `hinawu` | accommodate | changing a practice so a stated action becomes possible |
 | `howela` | receive | coming into possession of an object or becoming the endpoint of a transfer |
 | `kaeshu` | bold | readiness to step forward or risk an uncertain action |
-| `kalei` | climb | Ascent by effort |
+| `kalei` | climb | effortful ascent along a supporting route |
 | `kamo` | arrive | reaching the endpoint of travel or another process |
 | `kanu` | choose | selecting one action or course from alternatives |
 | `kanuwa` | authorize | granting bounded permission or decision power |
@@ -48,7 +48,9 @@
 | `kopharu` | barrier | a condition obstructing a stated action |
 | `kupe` | hide | Placing out of sight |
 | `kuremi` | grind | The kitchen's oldest transformation |
+| `laniru` | journey | extended travel gathered into one event |
 | `leiro` | release | ending a hold or containment so something can move away |
+| `lepa` | fall | an event in which a body loses support and descends |
 | `lesawi` | consent | permitting a stated action that affects oneself or a relationship for which one may speak |
 | `liroa` | playful | a play-seeking manner brought to an action or interaction |
 | `loa` | give | directing something towards a recipient through an act of giving |
@@ -57,7 +59,7 @@
 | `loshenu` | clearance | free room for a stated movement or operation |
 | `lumethi` | deadline | a time boundary attached to an expected action or result |
 | `lupaki` | fold | laying one part of flexible material over another |
-| `lupho` | float | The swimmer's stillness |
+| `lupho` | float | the continuing condition of being borne up |
 | `luseri` | provenance | the traced movement and transformation of a thing |
 | `makelu` | abstain | formally registering no selection in a procedure |
 | `manolu` | stay | remaining in a place, state, or relation |
@@ -134,8 +136,9 @@
 | `pushali` | overload | demand exceeding the capacity needed to continue an action |
 | `ralemi` | independent | an action directed by the person carrying it out |
 | `ralu` | free | an available action left open rather than closed by constraint |
-| `rashelo` | run | fundamental human activity of running |
-| `rato` | turn | The navigator's correction |
+| `rashelo` | run | running for travel, play, or bodily exertion |
+| `rato` | turn | redirecting oneself or turning another object |
+| `rihe` | rise | an upward change treated as an event |
 | `rilowa` | assign | designating an expected performer for a task |
 | `rimawu` | drudgery | work structured or experienced as depleting |
 | `rinoka` | project | a bounded undertaking containing related work |
@@ -153,6 +156,7 @@
 | `sawathi` | soap | a material used during washing |
 | `sekaru` | transfer | directed movement from a source to a recipient |
 | `selomi` | weave | fundamental human activity of weaving |
+| `selu` | flow | continuous movement treated as an ongoing process |
 | `seluto` | pour | directing material out of a container |
 | `seluwhe` | outage | cessation or inadequate provision of a technical function |
 | `sepho` | send | causing someone or something to travel away towards a destination |
@@ -179,7 +183,7 @@
 | `tawi` | count | Enumerating a set for a stated or recoverable purpose |
 | `terura` | system | an organized whole whose components participate in processes |
 | `teshori` | quarantine | restricting contact after possible exposure |
-| `thalo` | walk | fundamental form of human locomotion |
+| `thalo` | walk | ordinary travel and practice on foot |
 | `thape` | burn | The keeping of flame |
 | `theali` | fitting | an action or method suited to its present purpose and conditions |
 | `thekamu` | intervene | a deliberate action within bodily care |
@@ -205,10 +209,11 @@
 | `tukiro` | review | systematically reconsidering a prior matter |
 | `tumoa` | heavy | work or obligation experienced as burdensome through metaphorical weight |
 | `tupeka` | burden | a difficult demand borne through action or responsibility |
-| `tupi` | jump | The body's spring |
+| `tupi` | jump | a jump treated as one bounded bodily act |
 | `turelo` | feedback | a returned effect that alters an ongoing process |
 | `turema` | return | coming or going back towards an earlier place, state, relation, or use |
 | `wapho` | throw | Release into flight |
+| `wapi` | fly | movement through air by a living or carried subject |
 | `welotu` | mix | combining materials by moving them together |
 | `wenola` | collaborate | working jointly on one undertaking or result |
 | `wepanu` | redundant | continued function through an alternate component, path, or method |
@@ -219,6 +224,7 @@
 | `wethaki` | towel | cloth used in wiping or drying |
 | `wethate` | laundry | cloth moving through washing, drying, or folding |
 | `whano` | stand | fundamental human activity of standing |
+| `whenola` | wander | movement allowed to find its course as it proceeds |
 | `wheparu` | discriminate | category-shaped treatment producing disadvantage |
 | `whepelo` | retaliate | imposing a disadvantage in response to a stated prior action |
 | `wheraku` | erode | detachment and movement of earth or rock |
@@ -226,7 +232,7 @@
 | `wile` | play | fundamental human activity of playing |
 | `winora` | plan | organizing intended actions and the conditions around them |
 | `wiresu` | postpone | moving a planned action to a later time |
-| `wishe` | swim | The body's water-travel |
+| `wishe` | swim | self-propelled passage through water |
 | `wisola` | exchange | participants giving and receiving within one reciprocal arrangement |
 
 ## aesthetic (81)
@@ -315,7 +321,7 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `wira` | window | View portal |
 
-## cognition (234)
+## cognition (235)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -456,7 +462,7 @@
 | `sano` | know | information, a person, a method, or an answer held in present knowledge |
 | `sanowu` | predictable | advance anticipation of an event or pattern from prior information |
 | `seloi` | insightful | perception of a relation or significance that is not immediately apparent |
-| `selu` | flow | creates mental state of optimal experience and effortless concentration |
+| `selu` | flow | a discernible course taken by thought or attention |
 | `selua` | aware | awareness directed towards a present fact, sensation, event, or condition |
 | `sena` | pattern | Recognizable structure |
 | `senao` | same | identity or broad sameness established on a stated or recoverable basis |
@@ -547,6 +553,7 @@
 | `whekelu` | magic | Change beyond explanation |
 | `whemaki` | allergy | a clinically bounded hypersensitivity claim |
 | `whemura` | dream | dream experience during sleep or a waking vision held as a dream |
+| `whenola` | wander | thought moving without a chosen conclusion |
 | `wheparu` | discriminate | an assigned or perceived category directing action |
 | `whinu` | smell | an odour becoming perceptible and recognisable |
 | `wiero` | imaginative | the capacity to form possibilities beyond what is presently perceived |
@@ -675,7 +682,7 @@
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
-## community (283)
+## community (282)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -830,7 +837,6 @@
 | `punoki` | institution | a continuing organized social arrangement with roles and procedures |
 | `ralemi` | independent | personal agency exercised with or without chosen support |
 | `ralu` | free | liberty within social and institutional relations |
-| `rashelo` | run | rushing to help, playing together through racing |
 | `renoa` | liberate | Freeing action |
 | `repha` | bridge | Connection maker |
 | `repora` | propose | presenting a collective action or rule for consideration |
@@ -1250,7 +1256,7 @@
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 | `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
-## nature (228)
+## nature (225)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1289,7 +1295,6 @@
 | `kurisha` | storm | Violent weather |
 | `kurona` | horn | The head's hard growth |
 | `lei` | harmony | reflects ecosystems in balance and natural cooperation |
-| `lepa` | fall | What leaves, rain, and ripe fruit do |
 | `leru` | beach | Sandy shoreline |
 | `lewonu` | valley | Low land between heights |
 | `likori` | species | a source-defined grouping of living organisms |
@@ -1314,7 +1319,6 @@
 | `lunei` | moon | Earth's companion satellite |
 | `lunoa` | month | Moon rhythm |
 | `luphano` | watershed | land organized by drainage toward a shared water outlet |
-| `lupho` | float | Borne on water |
 | `luphore` | river | Flowing waterway |
 | `lureko` | fruit | Plant reproductive structure |
 | `lurepa` | nutrient | material used or required by an organism or living process |
@@ -1396,13 +1400,12 @@
 | `pisha` | split | How seeds and paths divide |
 | `powea` | egg | Life's sealed beginning |
 | `pukea` | danger | The edge conditions of the living world |
-| `rihe` | rise | Effortless ascent |
 | `roena` | copper | Elemental metal |
 | `ronua` | south | The open expanse of the turning sky |
 | `ruka` | complex | a living or ecological system with many interacting relations |
 | `ruloi` | flourish | Vigorous, abundant growth |
 | `runae` | resin | Tree secretion |
-| `selu` | flow | embodies natural phenomena of water currents and organic movement patterns |
+| `selu` | flow | water and other environmental material moving in currents |
 | `seroli` | mature | developmental maturity in organisms and crops |
 | `sewaro` | transmit | movement of an infectious agent through a biological pathway |
 | `shaemu` | organic | Life-derived quality |
@@ -1461,7 +1464,7 @@
 | `tupiwa` | rabbit | The meadow's jumper |
 | `waero` | sky | Atmospheric expanse |
 | `waeshi` | wild | plants, animals, or habitats living outside cultivation or domestication |
-| `wapi` | fly | The motion of birds and wind-borne things |
+| `wapi` | fly | the ordinary flight of birds and wind-borne living material |
 | `wapile` | wing | Flight's limb |
 | `welamu` | elm | The tree of the riverside lane |
 | `welathi` | contagious | an infectious agent's capacity to pass between living hosts |
@@ -1477,13 +1480,13 @@
 | `wiralu` | runoff | water moving across land or built surfaces |
 | `wiru` | basket | Natural materials |
 | `wirua` | wet | moisture present in land, weather, air, or living surfaces |
-| `wishe` | swim | What fish and swimmers share |
+| `wishe` | swim | the motion of aquatic animals as well as human swimmers |
 | `woeli` | natural | origins, patterns, or development arising from nature or from their own conditions |
 | `woenu` | tame | animal behaviour changed through familiarity with human presence or handling |
 | `wolea` | wood | Tree material |
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 
-## physical (355)
+## physical (356)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1510,7 +1513,7 @@
 | `howela` | receive | taking delivery of a material object or substance |
 | `huwa` | weak | limited capacity to exert or withstand force in the relevant situation |
 | `kaelo` | sweet | the taste associated with sugar, honey, and ripe fruit |
-| `kalei` | climb | Grip and pull upward |
+| `kalei` | climb | bodily movement maintained through successive contact |
 | `kalora` | horse | The road's living engine |
 | `katemu` | offcut | a separated piece with its own dimensions and condition |
 | `katheo` | acute | recent onset, rapid development, or short duration in a bodily condition |
@@ -1556,7 +1559,7 @@
 | `lawe` | left | Side of the body |
 | `leiro` | release | letting a person, object, or substance leave restraint or containment |
 | `lemi` | thin | little material thickness or sparse substance |
-| `lepa` | fall | Downward motion under gravity |
+| `lepa` | fall | gravity-led movement after support is lost |
 | `lima` | alive | the bodily distinction between being alive and having died |
 | `limu` | young | early bodily or organismal development |
 | `liona` | live | State of biological aliveness |
@@ -1571,7 +1574,7 @@
 | `losha` | wide | large width across an opening or a span of land or water |
 | `lumera` | nourish | Sustaining life through giving |
 | `lupaki` | fold | repositioning material without separating it |
-| `lupho` | float | Rest without sinking |
+| `lupho` | float | buoyant support within a fluid |
 | `luphonu` | boat | The built hull |
 | `lurepa` | nutrient | a substance whose biological role depends on form, amount, and conditions |
 | `luroi` | nervous | bodily arousal that accompanies nervous anticipation |
@@ -1709,11 +1712,11 @@
 | `pushali` | overload | bodily burden produced by excessive input or demand |
 | `raelu` | tall | height from base to top in a person or upright structure |
 | `ralu` | free | an object released from fastening or confinement |
-| `rashelo` | run | intense bodily exertion and cardiovascular activity |
-| `rato` | turn | The body's and the wheel's motion |
+| `rashelo` | run | the running gait and its unsupported intervals |
+| `rato` | turn | rotation around a point or axis |
 | `reshi` | fast | a high rate of bodily or material movement |
 | `rewa` | oar | Sustained effort |
-| `rihe` | rise | Coming up |
+| `rihe` | rise | a body or material becoming higher |
 | `riola` | labor | bodily effort and sustained activity |
 | `rohemi` | wear down | gradual alteration of a surface or working condition through repeated exposure |
 | `rohi` | rub | Repeated pressured strokes |
@@ -1728,6 +1731,7 @@
 | `sawathi` | soap | material that loosens oil and dirt in water |
 | `sekaru` | transfer | movement of matter or energy between components or systems |
 | `selawi` | slippery | contact that permits comparatively easy sliding between surfaces |
+| `selu` | flow | fluid or loose matter passing continuously |
 | `seluto` | pour | a controlled flow across the lip of a vessel |
 | `sepho` | send | dispatching a material object for transport |
 | `seroli` | mature | ripeness or full bodily development |
@@ -1765,7 +1769,7 @@
 | `tapulo` | jar | a holder reached through an opening wider than a bottle neck |
 | `tapuri` | lid | a separate object meeting the rim of a container |
 | `tesu` | iron | Enduring strength |
-| `thalo` | walk | requires coordinated use of legs, feet, and balance |
+| `thalo` | walk | alternating bodily support on the feet |
 | `thape` | burn | Heat and light released |
 | `theala` | heal | involves bodily restoration and tangible recovery processes |
 | `theama` | care | maintains health and protects bodily welfare |
@@ -1802,10 +1806,10 @@
 | `tulira` | tail | Anatomy past the body |
 | `tumoa` | heavy | weight that requires substantial force to move or support |
 | `tupeka` | burden | a weight supported by a living body |
-| `tupi` | jump | Leaving the ground |
+| `tupi` | jump | the body's push away from a supporting surface |
 | `tupiwa` | rabbit | Softness at speed |
 | `wapho` | throw | The arm's arc and letting go |
-| `wapi` | fly | Lift and wingbeat |
+| `wapi` | fly | a body held aloft without surface support |
 | `wapile` | wing | The bird's instrument |
 | `weilo` | balanced | equilibrium among weights or forces |
 | `welathi` | contagious | transmission potential under stated bodily or environmental conditions |
@@ -1837,7 +1841,7 @@
 | `wipha` | restless | recurrent movement or an urge to move |
 | `wiralu` | runoff | a mobile body of surface water that may carry material |
 | `wirua` | wet | liquid coating a surface or absorbed into a material |
-| `wishe` | swim | Motion through water |
+| `wishe` | swim | propulsion of one's own body through water |
 | `wisola` | exchange | exchanging material objects or substances |
 | `wolu` | healthy | a living body's health in the context relevant to that body |
 | `wonepa` | table | The social flat of the house |
@@ -1909,7 +1913,7 @@
 | `whano` | stand | ceremonial stance for respect, witness, and participation |
 | `whunei` | breathe | Central to meditation practice |
 
-## spatial (149)
+## spatial (152)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1917,7 +1921,7 @@
 | `hieru` | narrow | limited span from one side to the other |
 | `hinawu` | accommodate | altering an environment or route for access |
 | `hirawo` | distance | separation between places, objects, or other spatial referents |
-| `kalei` | climb | From low to high |
+| `kalei` | climb | travel from a lower position towards a higher one |
 | `kamo` | arrive | arrival at a destination |
 | `keiro` | way | Route or method |
 | `kelo` | frame | Defining edge |
@@ -1935,11 +1939,11 @@
 | `kuri` | right | Body-relative direction |
 | `laeno` | long | substantial end-to-end extent in a path or object |
 | `laenu` | commons | Shared space |
-| `laniru` | journey | Purposeful travel over distance |
+| `laniru` | journey | a passage across a substantial route |
 | `lawe` | left | Body-relative direction |
 | `leko` | surface | Outer layer |
 | `lemi` | thin | a small distance between opposing surfaces or across a cross-section |
-| `lepa` | fall | Movement from high to low |
+| `lepa` | fall | a path from a higher position to a lower one |
 | `leru` | beach | Wave-shaped land edge |
 | `lerua` | exterior | Outer surface |
 | `lewonu` | valley | Sheltered depression |
@@ -1952,6 +1956,7 @@
 | `losha` | wide | breadth measured from one side to the other |
 | `loshenu` | clearance | width, height, depth, or turning room kept clear |
 | `luphano` | watershed | an area bounded by selected water-flow relations |
+| `lupho` | float | a supported level within or upon a fluid |
 | `luphonu` | boat | The water's vehicle |
 | `maewo` | threshold | Crossing point |
 | `manolu` | stay | continued presence at a location |
@@ -1998,8 +2003,9 @@
 | `ponu` | door | Entry barrier |
 | `raeli` | height | Upward extent |
 | `raelu` | tall | a high vertical position or extent relative to a reference level |
-| `rashelo` | run | rapid movement through space, covering distance swiftly |
-| `rato` | turn | Rotation and change of facing |
+| `rashelo` | run | rapid foot travel across a place |
+| `rato` | turn | a change of facing or direction |
+| `rihe` | rise | a path from a lower position to a higher one |
 | `roke` | move | change of position within space |
 | `ronua` | south | Cardinal direction opposite the axis point |
 | `ruela` | path | routes through physical space |
@@ -2007,7 +2013,7 @@
 | `ruweli` | access | access to a place or route under stated conditions |
 | `saphei` | shallow | small distance from a surface or opening to the bottom |
 | `sekaru` | transfer | a source-to-goal relation across a boundary |
-| `selu` | flow | traces movement through space along natural trajectories |
+| `selu` | flow | a current following a channel or pathway |
 | `seluto` | pour | movement from a source container toward a destination |
 | `sepho` | send | caused movement from the sender towards a recipient or place |
 | `sharoi` | exceed | Frames relative position in numerical space—one quantity extends beyond another |
@@ -2026,7 +2032,7 @@
 | `tapu` | close | The boundary completed |
 | `teku` | short | limited end-to-end extent in a path or object |
 | `teshori` | quarantine | a temporary boundary around contact and movement |
-| `thalo` | walk | enables traversal of distance and exploration of place |
+| `thalo` | walk | a walking route across a place |
 | `thaluro` | ocean | Boundless expanse |
 | `thelui` | sanctuary | Sacred refuge |
 | `thenoi` | falls-short | Frames relative position in numerical space—one quantity does not extend to another |
@@ -2043,12 +2049,12 @@
 | `tomae` | floor | Ground surface |
 | `tomora` | mountain | Earth reaching skyward |
 | `toru` | roof | Overhead cover |
-| `tupi` | jump | Across and over |
+| `tupi` | jump | a brief airborne path between positions |
 | `turema` | return | movement back towards a previous location |
 | `waero` | sky | The great above |
 | `waleru` | length | end-to-end extent along an object, path, or chosen course |
 | `wapho` | throw | Sending across a gap |
-| `wapi` | fly | Travel through air |
+| `wapi` | fly | an airborne path across a place |
 | `wema` | belong | grounded in place with deep connection to home |
 | `wemo` | plain | Unobstructed expanse |
 | `wepu` | go | directed travel through space |
@@ -2056,14 +2062,15 @@
 | `whalo` | large | considerable extent without selecting a particular dimension |
 | `whano` | stand | vertical positioning that establishes presence and place |
 | `whemoa` | empty | a bounded container or place with no contents or occupants |
-| `whenola` | wander | Undirected movement through space |
+| `whenola` | wander | a route or destination left unsettled |
 | `wira` | window | Light opening |
 | `wiralu` | runoff | movement from a source surface toward a lower or receiving place |
+| `wishe` | swim | a route within a body of water |
 | `womu` | home | a dwelling understood as home rather than location alone |
 | `womuri` | household | daily life organized around a dwelling |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (168)
+## temporal (165)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2097,7 +2104,7 @@
 | `kuramo` | drought | a condition defined partly by prolonged duration |
 | `kurisha` | storm | Transformative force |
 | `laeno` | long | a duration that continues for a substantial interval |
-| `laniru` | journey | Extended movement through time |
+| `laniru` | journey | travel unfolding over an appreciable interval |
 | `liloni` | population | a living group described for a stated time or period |
 | `limu` | young | a position near the beginning of a life or developmental course |
 | `lioru` | life | Living duration |
@@ -2160,9 +2167,7 @@
 | `pholeni` | depart | the bounded beginning of an absence or journey |
 | `phomila` | offspring | represents future generations and continuity through time |
 | `phuro` | renew | Cycling from depleted to fresh |
-| `rashelo` | run | movement expressing urgency or time-sensitive response |
 | `reshi` | fast | an action or change that proceeds quickly |
-| `rihe` | rise | The shape of beginnings |
 | `ritako` | workload | work considered over a stated interval |
 | `rohemi` | wear down | a change distinguished by its accumulation over time |
 | `rolu` | wheel | Cyclical motion |
@@ -2170,7 +2175,6 @@
 | `runae` | resin | Preserving substance |
 | `sahu` | forget | memory becoming unavailable as time and experience change |
 | `sanowu` | predictable | advance knowability of timing or sequence |
-| `selu` | flow | transforms time experience into rhythmic continuous phenomena |
 | `seluwhe` | outage | a bounded period of unavailability or interruption |
 | `serao` | old | long duration judged within the context at hand |
 | `seroli` | mature | a stage reached after sufficient development |
@@ -2236,7 +2240,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (122)
+## wisdom (121)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2358,7 +2362,6 @@
 | `weloni` | body | The first foundation of mindfulness |
 | `whamoi` | doubt | recognition that judgment may remain open while inquiry continues |
 | `whano` | stand | standing meditation and practice of mindful presence |
-| `whenola` | wander | Openness to unplanned discovery |
 | `wheo` | elder | holds experiential knowledge from long living |
 | `whori` | mend | Ethic of care and repair |
 | `wireo` | future | Possibility's domain |

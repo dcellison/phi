@@ -7,17 +7,23 @@
     "pi"
   ],
   "pos": "verb",
-  "concept": "Jump / Leap / Spring from the Ground",
-  "description": "To jump: over the stream, down from the wall, up for joy. The body's spring. Fills the gap the fable's frog first exposed — 'kamo' (arrive) carried the splash, but the leap itself now has its verb.",
-  "sound_symbolism": "'tu' loads the spring, 'pi' pops upward off it — compression then release, in the mouth as in the knees.",
-  "grammatical_notes": "Intransitive with path: 'lopia thue luphore tupi.' (The child jumps across the stream.) Of joy: 'shia siora tupi.' (They jump for joy.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "The leap is commitment made physical: both feet leave the known at once. A small daily practice of trust.",
-    "pre-industrial-wisdom": "The stream jumped rather than bridged, the wall vaulted rather than walked around — the body as its own equipment."
-  },
+  "search_terms": [
+    "leap",
+    "hop"
+  ],
+  "description": "A body 'tupi' when it pushes away from a supporting surface and passes briefly through the air. The jump may go upward, downward, or across a gap. 'tupi' follows the launch and airborne interval; 'kamo' (arrive) can give the landing its own clause. 'lepa' (fall) reports unsupported descent without the propulsive launch.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't', release it, and round the lips while raising the back of the tongue for stressed high-back 'u'. Close the lips for unvoiced 'p', then release them into high-front unrounded 'i'.",
+  "sound_symbolism": "The first stop releases into deep rounded 'u', then the lips close and spring apart into bright 'i'. The compact shift from gathered pressure to a lighter ending can recall a body leaving the ground.",
+  "usage_notes": "A source can take 'lue' (ABL), and a reached landing place takes 'kau' (ALL).",
+  "examples": [
+    {
+      "phi": "tupiwa mua whelina tupi.",
+      "translation": "The rabbit jumps in the grass."
+    }
+  ],
   "semantic_domains": {
-    "activity": "The body's spring",
-    "physical": "Leaving the ground",
-    "spatial": "Across and over"
+    "activity": "a jump treated as one bounded bodily act",
+    "physical": "the body's push away from a supporting surface",
+    "spatial": "a brief airborne path between positions"
   }
 }

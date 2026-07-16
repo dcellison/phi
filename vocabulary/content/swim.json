@@ -7,17 +7,23 @@
     "she"
   ],
   "pos": "verb",
-  "concept": "Swim / Move Through Water by One's Own Motion",
-  "description": "To swim: the child across the pond, the fish upriver — bodies moving through water under their own power. Water's own motion verbs stay distinct: 'selu' (flow) for the water, 'lupho' (float) for resting on it, 'wishe' for working through it.",
-  "sound_symbolism": "Bright 'wi' is the moving body, 'she' the hush of water parting around it. The word swims.",
-  "grammatical_notes": "Intransitive with path: 'lopia thue melothe wishe.' (The child swims through the pond.) Of fish: 'shalu mua luphore wishe.' (Fish swim in the stream.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "Swimming is effort in right relationship with a medium — push too hard and sink, surrender entirely and drift. The middle way, wet.",
-    "pre-industrial-wisdom": "Rivers were roads; swimming was the ferryless crossing, taught early where water bordered life."
-  },
+  "search_terms": [
+    "move through water"
+  ],
+  "description": "Fish and people 'wishe' when they propel their own bodies through water. 'lupho' (float) says that the water supports a body without active travel, while 'selu' (flow) follows the moving water or other medium.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then unround and move the tongue forward into stressed high-front 'i'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh', pass air through the narrow channel, and finish with middle-height front 'e'.",
+  "sound_symbolism": "The rounded glide narrows into bright 'i'; the second syllable lets a longer hush open into 'e'. Air keeps moving around both constrictions, a contour that can recall water parting around a swimmer.",
+  "usage_notes": "The swimmer is the subject. A locative phrase identifies the water, while 'thue' (THROUGH), 'wea' (TOWARD), or 'kau' (ALL) can describe the path.",
+  "examples": [
+    {
+      "phi": "lopia mua luphore wishe.",
+      "translation": "The child swims in the river."
+    }
+  ],
   "semantic_domains": {
-    "activity": "The body's water-travel",
-    "nature": "What fish and swimmers share",
-    "physical": "Motion through water"
+    "activity": "self-propelled passage through water",
+    "nature": "the motion of aquatic animals as well as human swimmers",
+    "physical": "propulsion of one's own body through water",
+    "spatial": "a route within a body of water"
   }
 }

@@ -7,17 +7,24 @@
     "pi"
   ],
   "pos": "verb",
-  "concept": "Fly / Move Through Air on Wings or Wind",
-  "description": "To fly: the bird ('pelori'), the seed on the wind, the kite. Motion through air. Deliberately kin in sound to 'wapho' (throw) — thrown things and flying things share the air — but a full syllable apart.",
-  "sound_symbolism": "'wa' is the air-glide, 'pi' the small lift-point of a wingbeat. Light sounds for weightless motion.",
-  "grammatical_notes": "Intransitive: 'pelori wapi.' (The bird flies.) With direction: 'lo pelori wei ronua wapi.' (The birds fly south.) Of seeds: 'thinoe nua howeli wapi.' (Seeds fly with the wind.)",
-  "pillars": {
-    "solarpunk-values": "Flight without combustion — bird, seed, kite — is the aesthetic of the possible future: lift borrowed from wind.",
-    "pre-industrial-wisdom": "The farmer read the year in what flew: first swallows, seed-drift, the geese going south — flight as calendar."
-  },
+  "search_terms": [
+    "be airborne",
+    "soar"
+  ],
+  "description": "A bird crossing a valley without touching the ground is 'wapi'. The verb follows movement through open air without surface support, whether the subject is a bird, seed, or kite. 'wapho' (throw) names a launching act; 'wapi' follows the resulting airborne motion.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then open the mouth into stressed central 'a'. Close the lips for unvoiced 'p', release them cleanly, and spread them slightly for high-front unrounded 'i'.",
+  "sound_symbolism": "The rounded opening releases into broad 'a', then the lips close and let the compact final syllable spring into bright 'i'. That small lift is also heard at the start of 'wapho' (throw), an audible family resemblance within Phi.",
+  "usage_notes": "The subject may supply its own lift or be carried by wind. Direction and destination use the ordinary motion prepositions, while height remains a separate spatial description.",
+  "examples": [
+    {
+      "phi": "pelori wapi.",
+      "translation": "The bird flies."
+    }
+  ],
   "semantic_domains": {
-    "nature": "The motion of birds and wind-borne things",
-    "physical": "Lift and wingbeat",
-    "spatial": "Travel through air"
+    "activity": "movement through air by a living or carried subject",
+    "nature": "the ordinary flight of birds and wind-borne living material",
+    "physical": "a body held aloft without surface support",
+    "spatial": "an airborne path across a place"
   }
 }
