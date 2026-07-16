@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (226)
+## activity (227)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -29,7 +29,7 @@
 | `kasira` | vote | formally registering a choice or stance |
 | `katemu` | offcut | a remainder produced during cutting or shaping |
 | `kati` | cut | The craft act of dividing material |
-| `kawepa` | catch | Receiving the moving thing |
+| `kawepa` | catch | intercepting a moving person or thing |
 | `kawhera` | coerce | using power or threat to constrain another person's practical choice |
 | `kelasu` | usable | a person able to carry out an intended purpose with a thing or process |
 | `kelitho` | function | performance of a characteristic or required system operation |
@@ -82,7 +82,7 @@
 | `naphe` | help | adding effort or action that makes something easier to carry through |
 | `naphelu` | assistive | a device or practice supporting a chosen action |
 | `nashaku` | enforce | applying authority or procedure in relation to compliance |
-| `natu` | pull | Inbound force to the body |
+| `natu` | pull | exerting force through a drawing action or held connection |
 | `naweri` | refuse | declining participation, an offer, or a proposed course |
 | `nephoru` | treat | care intended to alter a health condition or course |
 | `nilaki` | inspect | systematic examination of condition against criteria |
@@ -102,9 +102,9 @@
 | `panoru` | support | providing what another activity or condition depends on |
 | `panuri` | resource | something considered available for a stated purpose or process |
 | `pawela` | participate | taking an active part in an event or process |
-| `peki` | squeeze | Compression in the hand |
+| `peki` | squeeze | compressing a person or thing from opposing directions |
 | `perawi` | expose | contact between an entity and a stated environmental agent |
-| `pesa` | push | Outbound force from the body |
+| `pesa` | push | applying force through pressure against a person or thing |
 | `pesenu` | pollute | an introduced agent causing or contributing to environmental impairment |
 | `phae` | open | the act that produces an open state |
 | `phaluwe` | flood | water covering or overflowing beyond a stated usual boundary |
@@ -146,7 +146,7 @@
 | `riola` | labor | fundamental human activity of laboring |
 | `riporu` | task | one bounded unit of intended or discussed work |
 | `ritako` | workload | the combined demands of work under stated conditions |
-| `rohi` | rub | Friction as care |
+| `rohi` | rub | working through repeated or sustained sliding contact |
 | `roke` | move | changing position or continuing in motion |
 | `rotiku` | dance | fundamental human activity of dancing |
 | `ruemi` | lie down | holding or entering a horizontal or reclining posture |
@@ -196,6 +196,7 @@
 | `thesani` | skill | a learned capacity for practical action |
 | `thimelo` | pace | rate and rhythm of a continuing action |
 | `thimora` | schedule | an intended arrangement of actions or events |
+| `thinu` | put | placing a person or thing in a resulting position |
 | `thiru` | exit | crossing outward from a bounded place or activity |
 | `thirulo` | output | something produced or released by a process |
 | `thiwera` | scatter | The sower's outward arc |
@@ -214,7 +215,7 @@
 | `tupi` | jump | a jump treated as one bounded bodily act |
 | `turelo` | feedback | a returned effect that alters an ongoing process |
 | `turema` | return | coming or going back towards an earlier place, state, relation, or use |
-| `wapho` | throw | Release into flight |
+| `wapho` | throw | launching a person or thing through applied force and release |
 | `wapi` | fly | movement through air by a living or carried subject |
 | `welotu` | mix | combining materials by moving them together |
 | `wenola` | collaborate | working jointly on one undertaking or result |
@@ -686,7 +687,7 @@
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
-## community (280)
+## community (279)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -704,7 +705,6 @@
 | `karami` | authority | claimed or recognized decision power within a stated scope |
 | `kasira` | vote | a vote within a defined collective procedure |
 | `kasuno` | selfish | a choice or pattern that discounts other people's relevant needs or claims |
-| `kawepa` | catch | The other end of every throw |
 | `kawhera` | coerce | coercion within a social or institutional relation |
 | `keloe` | companion | Journey partner |
 | `kelomi` | accept | admitting another person's presence or participation |
@@ -1524,7 +1524,7 @@
 | `katheo` | acute | recent onset, rapid development, or short duration in a bodily condition |
 | `kati` | cut | Clean separation by an edge |
 | `katiru` | knife | The kitchen and workbench tool |
-| `kawepa` | catch | The hand closing on arrival |
+| `kawepa` | catch | bringing a moving body or object under immediate control |
 | `kaworu` | injury | a health-relevant bodily change or damage |
 | `kehota` | cough | a forceful expulsion of air from the lungs |
 | `keloa` | rough | an uneven or coarse surface that catches against touch or motion |
@@ -1630,7 +1630,7 @@
 | `napako` | bake | heat reaching food from an enclosing chamber |
 | `naphelu` | assistive | support for a bodily or sensory function |
 | `nathoku` | contraindicated | advice based on the relation between an intervention and bodily conditions |
-| `natu` | pull | Drawing closer |
+| `natu` | pull | force that draws a body or object along its line of contact |
 | `nekuma` | meat | Weight on the table |
 | `nepha` | medicine | Restoration |
 | `nephoru` | treat | an action directed toward bodily or health change |
@@ -1663,7 +1663,7 @@
 | `panoru` | support | bearing weight or holding a structure in place |
 | `panuri` | resource | the term often concerns material, energy, land, water, or biological products |
 | `patoku` | solid | matter that retains its own shape and roughly its volume under the conditions at hand |
-| `peki` | squeeze | Pressure brought inward |
+| `peki` | squeeze | pressure brought inward around a body or object |
 | `pekira` | toxic | a property of substances, mixtures, materials, or agents under exposure |
 | `pelaku` | severity | degree of bodily or health effect |
 | `pelio` | arm | Upper limbs for reaching and working |
@@ -1672,7 +1672,7 @@
 | `pemaru` | hazard | a material, energy source, condition, or process capable of harm |
 | `perawi` | expose | contact through a route over a duration |
 | `perola` | rose | Thorned flowering shrub bloom |
-| `pesa` | push | Pressing away |
+| `pesa` | push | outward force transmitted through direct contact |
 | `pesenu` | pollute | movement or presence of matter, organisms, or energy with harmful effects |
 | `peshiro` | infection | a biological process in or on a body |
 | `phaelo` | feel | bodily sensation such as warmth or pain |
@@ -1725,7 +1725,7 @@
 | `rihe` | rise | a body or material becoming higher |
 | `riola` | labor | bodily effort and sustained activity |
 | `rohemi` | wear down | gradual alteration of a surface or working condition through repeated exposure |
-| `rohi` | rub | Repeated pressured strokes |
+| `rohi` | rub | friction produced by pressured movement across a surface |
 | `rokai` | back | Posterior torso surface and spine region |
 | `roke` | move | motion of a body or material object |
 | `rokili` | spine | The column of the back |
@@ -1790,7 +1790,7 @@
 | `theru` | thick | substantial material thickness, density, or viscosity |
 | `thewuni` | legible | reading made possible under visual or tactile conditions |
 | `thiku` | small | small overall size or amount relative to the immediate comparison |
-| `thinu` | put | deliberate action of positioning objects |
+| `thinu` | put | moving and releasing a body or object into place |
 | `thiranu` | maintain | Keeping things in good condition |
 | `thirulo` | output | matter or energy crossing out of a selected system |
 | `thola` | bring | moving with a person or material object being brought |
@@ -1814,7 +1814,7 @@
 | `tupeka` | burden | a weight supported by a living body |
 | `tupi` | jump | the body's push away from a supporting surface |
 | `tupiwa` | rabbit | Softness at speed |
-| `wapho` | throw | The arm's arc and letting go |
+| `wapho` | throw | propulsion followed by unsupported movement |
 | `wapi` | fly | a body held aloft without surface support |
 | `wapile` | wing | The bird's instrument |
 | `weilo` | balanced | equilibrium among weights or forces |
@@ -1975,7 +1975,7 @@
 | `mulu` | low | position near the lower end of a vertical scale |
 | `muneki` | latrine | a bounded sanitation area in or near a dwelling |
 | `muwi` | interior | Inner space |
-| `natu` | pull | Motion gathered homeward |
+| `natu` | pull | movement towards a puller or along an attached course |
 | `niro` | web | Networked structure |
 | `nitho` | north | Cardinal direction of the turning axis |
 | `noa` | position | Represents position within physical or conceptual arrangements |
@@ -1989,7 +1989,7 @@
 | `nuroa` | kitchen | Food space |
 | `nusho` | depth | Downward extent |
 | `paloi` | foot | the means of walking through space |
-| `pesa` | push | Motion imparted outward |
+| `pesa` | push | movement away from the point of pushing contact |
 | `phae` | open | removing or moving a closure so passage, access, flow, or view becomes possible |
 | `phaero` | transit | Crossing through |
 | `phaewi` | studio | Creative space |
@@ -2044,7 +2044,7 @@
 | `thepalu` | garden | defined location transformed through intentional relationship with land |
 | `theru` | thick | a relatively large distance between opposing surfaces or across a cross-section |
 | `thiku` | small | limited extent considered as a whole rather than along one axis |
-| `thinu` | put | establishing specific location and arrangement in space |
+| `thinu` | put | establishing a stated location or arrangement |
 | `thiru` | exit | movement from inside to outside |
 | `thola` | bring | directed movement towards a place or participant |
 | `tholu` | space | Open area |
@@ -2057,7 +2057,7 @@
 | `turema` | return | movement back towards a previous location |
 | `waero` | sky | The great above |
 | `waleru` | length | end-to-end extent along an object, path, or chosen course |
-| `wapho` | throw | Sending across a gap |
+| `wapho` | throw | a launched path across a gap or into a target area |
 | `wapi` | fly | an airborne path across a place |
 | `wema` | belong | grounded in place with deep connection to home |
 | `wemo` | plain | Unobstructed expanse |
@@ -2244,7 +2244,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (119)
+## wisdom (118)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2352,7 +2352,6 @@
 | `thesani` | skill | practical understanding refined through experience |
 | `thesori` | evidence | material whose source, relevance, and limits can be examined |
 | `thilonu` | prepare | Foresight and planning |
-| `thinu` | put | mindful intention in determining proper placement |
 | `tholu` | space | Enabling emptiness |
 | `thorui` | beginning | Fresh start |
 | `thumela` | teach | awakening understanding and nurturing growth |

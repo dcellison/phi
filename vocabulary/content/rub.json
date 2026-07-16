@@ -7,16 +7,25 @@
     "hi"
   ],
   "pos": "verb",
-  "concept": "Rub / Work with Friction / Stroke Repeatedly with Pressure",
-  "description": "To rub: warmth into cold hands, oil into wood, the ache from a shoulder. Repeated pressured strokes — friction as care. Firmer than 'hewe' (wipe), warmer than 'peki' (squeeze).",
-  "sound_symbolism": "The rolling 'r' is the repetition itself, 'hi' the heat-breath friction makes. The word warms.",
-  "grammatical_notes": "Transitive: 'mia thumai rohi.' (I rub my fingers.) Into: 'shia loesi muo wolea rohi.' (They rub oil into the wood.) For an ache: 'mia talua rohi.' (I rub my shoulder.) Contrast 'hewe' (wipe), which cleans a surface; 'rohi' works by friction into the thing.",
+  "search_terms": [
+    "friction",
+    "massage"
+  ],
+  "description": "Cold hands slide against each other until friction warms them. 'rohi' keeps surfaces moving together under pressure. It can warm skin, polish wood, work oil in, or ease an ache. 'hewe' (wipe) moves across a surface to clear material; 'palo' (touch) needs contact but no sliding.",
+  "articulatory_notes": "Make a tap or short trill with the tongue tip at the alveolar ridge, then round the lips for stressed middle-height back 'o'. Open the glottis for unvoiced 'h', let breath pass freely, and raise the tongue into high-front unrounded 'i'.",
+  "sound_symbolism": "The opening tap makes one quick contact, and a short trill repeats it. Rounded 'o' then opens into airy 'h' before high-front 'i', a contact-and-release pattern that suits repeated strokes.",
+  "usage_notes": "The surface or body part being rubbed stands before the verb. 'roe' can introduce a hand, cloth, or tool, while material worked into a surface takes 'muo' (INTO). As a noun, 'rohi' is rubbing or frictional work.",
+  "examples": [
+    {
+      "phi": "mia talua rohi.",
+      "translation": "I rub my shoulder."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Warmth rubbed into a tired limb is compassion at skin level — care that needs no words to be understood.",
-    "pre-industrial-wisdom": "Fire from friction, shine from friction, warmth from friction — rubbing was heat before matches and medicine before pills."
+    "pre-industrial-wisdom": "Friction fire and hand polishing both depend on repeated contact under pressure. 'rohi' keeps the body's work visible beside the result."
   },
   "semantic_domains": {
-    "activity": "Friction as care",
-    "physical": "Repeated pressured strokes"
+    "activity": "working through repeated or sustained sliding contact",
+    "physical": "friction produced by pressured movement across a surface"
   }
 }

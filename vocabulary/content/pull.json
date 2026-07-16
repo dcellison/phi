@@ -7,17 +7,23 @@
     "tu"
   ],
   "pos": "verb",
-  "concept": "Pull / Draw Toward / Move by Force to the Body",
-  "description": "To pull: the net from the water, the rope taut, the door open toward you. Force that draws its object closer. The exact opposite of 'pesa' (push), sharing no sounds with it; between them they cover the working body's two directions.",
-  "sound_symbolism": "The grounding 'n' plants the feet, the open 'a' is the reach outward, and the deep 'u' draws the thing home — reach, grip, and gather in one small arc.",
-  "grammatical_notes": "Transitive: 'mia mera natu.' (I pull the net.) 'lopia suro natu.' (The child pulls the rope.) Toward a place: 'lo mia mera wei leru natu.' (We pull the net to the beach.) Opposite: 'pesa' (push) — the pair share no sounds.",
-  "pillars": {
-    "secular-buddhist-philosophy": "What we pull toward ourselves we are responsible for holding; the verb of drawing-close is quietly the verb of choosing attachments.",
-    "pre-industrial-wisdom": "Nets, wells, harnesses, roots: the harvest half of labor is pulling. The word carries the fisher's whole morning."
-  },
+  "search_terms": [
+    "draw",
+    "tug"
+  ],
+  "description": "Harness taut, a horse steps forward and the wagon follows. 'natu' draws something towards the puller or along a held connection. The wagon shows why distance alone cannot define the verb: it travels with the horse without coming up to its body. 'pesa' (push) sends force away from the pressing contact.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and open into stressed central 'a'. Return the tongue tip to the upper teeth for unvoiced dental 't', release it, then raise the back of the tongue and round the lips for high-back 'u'.",
+  "sound_symbolism": "The voiced dental nasal lets 'na' run without an oral release. The tongue then closes for 't' and the lips round around final 'u', so the form gathers from an open vowel into a compact ending.",
+  "usage_notes": "The object under tension stands before the verb. Directional phrases can name its path or destination, while manner and duration distinguish a tug from a sustained draw. 'natu' also names one pull as an event noun.",
+  "examples": [
+    {
+      "phi": "kalora rolutha natu.",
+      "translation": "The horse pulls the wagon."
+    }
+  ],
   "semantic_domains": {
-    "activity": "Inbound force to the body",
-    "physical": "Drawing closer",
-    "spatial": "Motion gathered homeward"
+    "activity": "exerting force through a drawing action or held connection",
+    "physical": "force that draws a body or object along its line of contact",
+    "spatial": "movement towards a puller or along an attached course"
   }
 }
