@@ -8,16 +8,26 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Receive / To Welcome What Flows",
-  "description": "The act of accepting what is offered with grace and presence. It is the equally important counterpart to giving that completes a cycle of generosity, and is done with dignity, not subservience.",
-  "sound_symbolism": "The warm, open 'ho' creates receptive space like cupped hands. The communal 'we' acknowledges that receiving connects us to others, while the flowing 'la' allows what is given to arrive naturally. This creates a word that feels like opening to rain - not grasping but simply allowing the gift to flow into welcoming space.",
-  "grammatical_notes": "'mia lue thia nophi howela.' (I receive the story from you.) The noun sense, a receiving, comes by the event-noun rule. Pairs with 'loa' (give) as the completing half of exchange; compare 'pilu' (take), which centers the act of acquisition.",
+  "search_terms": [
+    "get",
+    "be given"
+  ],
+  "description": "The letter reaches the household before anyone has decided what to do with it. 'howela' reports that a person, place, or process receives something. 'pilu' (take) views an active taking, while 'kelomi' (accept) adds willing uptake. Reception may happen before either.",
+  "articulatory_notes": "Keep the mouth open and pass unvoiced breath through the glottis for 'h', then round the lips for middle-height back 'o'. Raise the back of the tongue and round the lips for voiced 'w', then move forward and unround into stressed middle-height 'e'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and finish with open central 'a'.",
+  "usage_notes": "Whatever is received is the direct object, and its source can take ablative 'lue'. The event-noun rule supplies reception or an act of receiving. 'whelani' (welcome) receives an arrival as wanted, while 'howela' makes no claim about the recipient's response.",
+  "examples": [
+    {
+      "phi": "mia lue thia nophi howela.",
+      "translation": "I receive a story from you."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Receiving with open hands and open heart embodies non-attachment - accepting what comes without grasping, appreciating without possessing. This practice dissolves the ego's walls between self and other, recognizing that in the flow of giving and receiving, we participate in the universe's natural circulation of energy and care."
+    "peace-linguistics-practices": "Separating reception from acceptance prevents an arrival from being reported as consent. A person can receive a proposal or gift and still answer it freely."
   },
   "semantic_domains": {
-    "communication": "receiving is fundamental to exchange and reciprocity",
-    "community": "receiving connects us in cycles of generosity",
-    "wisdom": "requires understanding how to receive with grace"
+    "activity": "coming into possession of an object or becoming the endpoint of a transfer",
+    "communication": "receiving a message, account, or other communicative object",
+    "community": "receiving something from another participant in a social relation",
+    "physical": "taking delivery of a material object or substance"
   }
 }

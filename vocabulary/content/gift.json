@@ -8,16 +8,24 @@
     "mi"
   ],
   "pos": "noun",
-  "concept": "Gift / The Given Thing",
-  "description": "The gift: what changes hands with nothing owed back. The verb 'loa' (give) opens the word, so the noun carries its verb visibly. Distinct from a trade; the gift's whole meaning is that the ledger stays closed.",
-  "sound_symbolism": "The complete verb 'loa' (give) begins the word, already enacting the open-handed transfer. Closing 'mi' makes the thing intimate and held, a gift received into someone's keeping without opening a ledger.",
-  "grammatical_notes": "Noun: 'mia loami loa.' (I give a gift.) 'lopia loami howela.' (The child receives a gift.)",
+  "search_terms": [
+    "present",
+    "given thing"
+  ],
+  "description": "On the household table sits a pot wrapped in cloth. 'loami' is something treated as a gift rather than one side of an agreed exchange. No matching return belongs to the arrangement, though the gift may still change a relationship or carry a memory.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and round the lips for middle-height back 'o'. Keep the vowels separate as the lips unround and the tongue lowers into stressed open central 'a'. Close the lips for voiced 'm', let the resonance pass through the nose, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "Listeners hear all of 'loa' (give) across the first two syllables. Final 'mi' closes the lips and gives the longer noun a quiet resting point after the open hiatus.",
+  "usage_notes": "A gift is countable and can be possessed or described like any other noun. Clauses with 'loa' (give) and 'howela' (receive) identify its giver and recipient. When a required counterpart belongs to the arrangement, 'wisola' (exchange) names that relation more directly.",
+  "examples": [
+    {
+      "phi": "mia wei thia loami loa.",
+      "translation": "I give you a gift."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Generosity is the first perfection in the old lists, and the gift is its object: giving practiced until the hand opens before the mind counts.",
-    "pre-industrial-wisdom": "Gift economies are older than markets. Whole societies ran on what this word names: obligation converted into relationship."
+    "solarpunk-values": "A gift can move food or knowledge without turning the recipient into a debtor. The surrounding clauses still show who could give and who needed what arrived."
   },
   "semantic_domains": {
-    "community": "What changes hands unowed",
-    "ritual": "The ledger kept closed"
+    "community": "something given within a relationship without a required counterpart"
   }
 }

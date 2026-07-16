@@ -8,18 +8,32 @@
     "ro"
   ],
   "pos": "verb",
-  "concept": "Release / Let Go / Subtract (Mathematical)",
-  "description": "The verb of letting something go or allowing it to flow away, and Phi's word for arithmetic subtraction. Images such as water leaving a vessel, a gift being given, or seeds being scattered can support senses of generosity and non-attachment. In arithmetic, 'leiro' removes a selected quantity from a starting quantity to identify the remainder. The metaphor does not deny loss or depletion, and it does not imply that every release is voluntary or beneficial.",
-  "sound_symbolism": "The word begins with 'le', where the liquid 'l' initiates an imagined releasing flow. The hiatus into 'i' creates a perceptible separation, the point where what was held begins to move away. The final 'ro' continues the liquid motion with 'r' while grounding in 'o', suggesting attention returning to the remainder. Three syllables trace an interpretive arc of release: initiation, separation, remainder.",
-  "grammatical_notes": "Functions as a verb taking two quantitative arguments: the starting quantity and the quantity subtracted. In arithmetic, mandatory 'nela' separates them: '[starting quantity] nela [quantity subtracted] leiro. [remainder] kelai.' Example: 'ta phoi nela ta shao leiro. wi shao kelai.' (Nine releases three. Six results.) Subtraction requires commensurable quantities; when nouns or classifiers are stated, both operands and the remainder name the same kind of quantity. Can be nominalized for abstract discussion.",
+  "search_terms": [
+    "let go",
+    "subtract"
+  ],
+  "description": "One hand opens; a bird leaves. 'leiro' lets someone or something leave a present hold or containment. Arithmetic uses the same verb for subtraction and names the quantity that remains after a selected amount is released.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and spread the lips for middle-height front 'e'. Keep the vowels separate as the tongue rises into stressed high-front 'i'. Make a tap or short trill with the tongue tip for 'r', then raise the back of the tongue and round the lips for middle-height back 'o'.",
+  "sound_symbolism": "The clear hiatus between 'e' and stressed 'i' creates a small audible separation before final 'ro' rolls away. That contour can recall the instant when contact ends and motion continues.",
+  "usage_notes": "The released person, thing, substance, or constraint is the direct object, and the event-noun rule supplies release. 'renoa' (liberate) removes a person or group from imposed bondage or control. Arithmetic uses '[starting quantity] nela [quantity released] leiro' followed by the remainder with 'kelai'; both quantities remain commensurable.",
+  "examples": [
+    {
+      "phi": "mia pelori leiro.",
+      "translation": "I release the bird."
+    },
+    {
+      "phi": "ta phoi nela ta shao leiro. wi shao kelai.",
+      "translation": "Nine minus three equals six."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "'Leiro' can describe resources entering circulation rather than remaining hoarded. That association supports discussion of gift economies, but a subtraction can also represent depletion, extraction, or harm.",
-    "secular-buddhist-philosophy": "The release metaphor can support reflection on non-grasping and impermanence. It does not claim that letting go never diminishes a person or that every mathematical subtraction represents liberation.",
-    "peace-linguistics-practices": "Framing subtraction as 'releasing' offers a less adversarial metaphor than 'taking away.' Context must still identify whether the event is cooperative redistribution, deprivation, loss, or something else.",
-    "pre-industrial-wisdom": "Releasing can participate in natural and social cycles: seeds are scattered, grain is shared, and stories are passed on. 'Leiro' makes those associations available without claiming that every release returns or strengthens its source."
+    "secular-buddhist-philosophy": "In reflective practice, 'leiro' can describe loosening a grasp or attachment. The same word can also report an unwanted loss, so the surrounding sentence still matters."
   },
   "semantic_domains": {
-    "cognition": "Names arithmetic subtraction through a release metaphor",
-    "wisdom": "Offers release as a metaphor without prescribing acceptance"
+    "activity": "ending a hold or containment so something can move away",
+    "cognition": "carrying arithmetic subtraction through an operation and remainder",
+    "physical": "letting a person, object, or substance leave restraint or containment",
+    "quantity": "removing a selected amount from a starting quantity",
+    "wisdom": "release considered as a practice of loosening attachment"
   }
 }

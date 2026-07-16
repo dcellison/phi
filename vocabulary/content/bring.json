@@ -7,17 +7,22 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Bring / Carry Toward",
-  "description": "To carry something toward a destination and deliver it there: food to a shared meal, tools to a worksite, a person to a gathering. The word covers both the transport and the handing over. The destination is often the speaker's location and may be left implicit.",
-  "sound_symbolism": "The word carries with intention. 'Tho' begins with the awareness of what is held, the responsibility of transport. 'La' flows forward, the movement toward delivery. To bring as mindful conveyance.",
-  "grammatical_notes": "Functions as a transitive verb requiring a direct object - the thing being brought ('mia [object] thola' - I bring [object]). Word order follows Phi's SOV pattern. Can take source complements with 'lue' (from) and destination complements with 'wei' (to), though destination (often the speaker's location) may be implicit. The imperative uses the Slot 0 particle 'no': 'no nuora thola.' (Bring food.)",
-  "pillars": {
-    "peace-linguistics-practices": "The word 'thola' reframes bringing as an act of generous response rather than possession-focused transport. It emphasizes delivering aid where needed, bringing people together for connection, and responding to others' needs with purposeful action. This linguistic framing shapes how speakers think about transport - not as moving 'my things' but as creating connection through deliberate, caring delivery.",
-    "pre-industrial-wisdom": "Before mechanized transport, bringing required personal effort and created social bonds. Traditional cultures emphasize the ritual importance of bringing - bringing gifts when visiting, bringing food to shared meals, bringing materials for communal building. Each act of bringing involved deliberate choice and physical effort, creating reciprocal relationships between those who bring and those who receive."
-  },
+  "search_terms": [
+    "carry to",
+    "carry here"
+  ],
+  "description": "The missing hammer arrives at the repair day in a neighbour's hand. 'thola' brings a person or thing towards a reference destination, usually with the bearer travelling too. 'kolua' (carry) follows support during transport, while 'sepho' (send) can cause the journey without the sender going.",
+  "articulatory_notes": "Place the tongue tip lightly against or just beyond the upper front teeth and pass unvoiced air through the gap for 'th', then round the lips for stressed middle-height back 'o'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and finish with open central 'a'.",
+  "usage_notes": "The person or thing brought is the direct object. A source can take ablative 'lue', and a reached destination takes allative 'kau'; a destination understood from the conversation may remain unstated. The event-noun rule supplies bringing. The verb does not itself say that the brought item was handed over or received.",
+  "examples": [
+    {
+      "phi": "mia kau silawo nuora thola.",
+      "translation": "I bring food to the village."
+    }
+  ],
   "semantic_domains": {
-    "community": "delivering to others, bringing people and things together",
-    "physical": "bodily effort of carrying objects while moving",
-    "spatial": "directed movement toward specific destination"
+    "activity": "bringing a person or thing towards a reference destination",
+    "physical": "moving with a person or material object being brought",
+    "spatial": "directed movement towards a place or participant"
   }
 }

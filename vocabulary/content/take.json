@@ -7,17 +7,24 @@
     "lu"
   ],
   "pos": "verb",
-  "concept": "Take / Receive / Accept",
-  "description": "The verb of receiving and accepting—bringing something to oneself through conscious reception. Where 'loa' (give) flows outward, 'pilu' draws inward: not seizure or grasping but mindful acceptance, receiving what is offered and taking only what is needed. It covers physical reception, emotional acceptance, and the taking on of responsibilities, completing the circle that giving begins.",
-  "sound_symbolism": "The word begins with 'pi', where the soft plosive 'p' releases like hands opening to receive, followed by the high, bright 'i' that lifts in anticipation. The transition to 'lu' brings the movement inward—the liquid 'l' flows like something drawn close, while 'u' rounds and contains, a vessel for what is received.",
-  "grammatical_notes": "Takes a direct object in SOV order: 'mia nophi pilu.' (I take the story.) Abstract reception: 'mia shea pilu.' (I receive peace.) Forms natural pairs with 'loa' (give) in reciprocal exchange: 'thia loa. mia pilu.' (You give. I take.) Compare 'howela' (receive), which centers the receiver's welcome, and 'kelomi' (accept).",
+  "search_terms": [
+    "pick up",
+    "take hold of"
+  ],
+  "description": "The salt sits beyond a child's reach until one hand draws it close. 'pilu' is an agent's active taking of something into immediate control or use. 'howela' (receive) can happen without that action, and 'kelomi' (accept) concerns willing uptake rather than the practical taking itself.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release them into stressed high-front unrounded 'i'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, then raise the back of the tongue and round the lips for high-back 'u'.",
+  "usage_notes": "The taken person or thing is the direct object, and the event-noun rule supplies an act of taking. Consent and authority remain separate relations, so the same verb can report a welcomed taking or a disputed one. 'phelu' (hold) describes the continuing relation after something has been taken.",
+  "examples": [
+    {
+      "phi": "lopia morisa pilu.",
+      "translation": "The child takes the salt."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Taking embodies the circular economy principle where resources flow through systems rather than being hoarded. In gift economies and mutual aid networks, the ability to receive graciously is as important as the ability to give. 'Pilu' supports the understanding that sustainable communities require both generous givers and grateful receivers, creating cycles of reciprocity.",
-    "secular-buddhist-philosophy": "Taking embodies Right Livelihood and mindful consumption - taking only what is needed, receiving with gratitude rather than greed. The act of receiving requires presence and awareness of the gift being offered. 'Pilu' grammaticalizes the understanding that mindful reception honors both giver and receiver, that taking can be an act of compassion when it allows another to experience the joy of giving.",
-    "pre-industrial-wisdom": "Traditional cultures understand that receiving creates bonds of reciprocity and relationship. The act of taking establishes social debts and connections that weave communities together. Many indigenous practices involve formal protocols of receiving that honor the giver and the gift. 'Pilu' preserves this understanding that taking is a social act that creates ongoing relationships."
+    "peace-linguistics-practices": "Because 'pilu' does not smuggle permission into the verb, a text can name the taking and then ask whose consent or authority was present."
   },
   "semantic_domains": {
-    "community": "creating bonds through reciprocity",
-    "physical": "taking objects with one's hands"
+    "activity": "actively bringing something into immediate control or use",
+    "physical": "taking hold of a person or material object"
   }
 }
