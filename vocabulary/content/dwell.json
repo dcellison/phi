@@ -8,17 +8,25 @@
     "i"
   ],
   "pos": "verb",
-  "concept": "Dwell / Inhabit / Make Home In Place",
-  "description": "The verb of residing in relationship, naming the ongoing presence that makes somewhere home. In Phi, dwelling reframes residence as reciprocal—we are shaped by where we live as the land is shaped by our presence. This word names not mere location but belonging, not just staying but becoming part of a place. To dwell is to enter into relationship with specific land, water, air, and the beings who share that place. It is the rooted existence that contrasts with passing through.",
-  "sound_symbolism": "The word opens with the nasal 'm', lips together and breath contained, and deepens through a second nasal in 'nu': two nasals, doubled rootedness. The final 'i' narrows to a point, this place rather than anywhere.",
-  "grammatical_notes": "Functions as an intransitive verb taking locative complements with 'mua' (in/at): 'mia mua ha lokue menui.' (I dwell in this place.) Distinguished from verbs of temporary location—compare 'manolu' (stay)—by implying ongoing residence and reciprocal relationship with place. Related to 'liona' (live) and 'womu' (home).",
-  "pillars": {
-    "solarpunk-values": "Sustainable dwelling means living in relationship with place—understanding local ecosystems, depending on local resources, contributing to local resilience. 'Menui' supports bioregional consciousness, the understanding that where we dwell shapes how we should live.",
-    "secular-buddhist-philosophy": "Dwelling mindfully means being fully present where we are rather than constantly wishing to be elsewhere. 'Menui' supports the practice of contentment with place, making home in present location.",
-    "pre-industrial-wisdom": "Traditional cultures understood dwelling as sacred bond with land—knowing the plants, honoring the waters, belonging to place as place belongs to you. 'Menui' preserves this relational understanding against rootless transience."
-  },
+  "search_terms": [
+    "inhabit",
+    "reside",
+    "live in"
+  ],
+  "description": "People 'menui' in a house, insects in old wood, and reeds at the wet edge of a field. The word presents a place as an ongoing abode or usual setting rather than a momentary location. Ownership and consent are separate from residence.",
+  "articulatory_notes": "Close the lips for voiced 'm', let the sound resonate through the nose, and move into middle-height front 'e'. Place the tongue tip against the backs of the upper teeth for stressed dental 'n', keep the nasal airflow, and round the lips for high-back 'u'. Give final high-front 'i' its own syllable rather than gliding from 'u'.",
+  "sound_symbolism": "First the lips close for 'm'; the tongue then makes a second nasal contact in the stressed syllable. Final 'u.i' narrows from rounded depth to a clear point, giving the word a contained, steady contour.",
+  "usage_notes": "A dwelling place normally takes locative 'mua'. 'manolu' (stay) says that presence or a condition continues; 'menui' treats the place as an abode, and 'soki' begins or establishes that relation. Causative 'ka menui' can mean to house someone or something.",
+  "examples": [
+    {
+      "phi": "lo nireku mua wolea menui.",
+      "translation": "The insects dwell in the wood."
+    }
+  ],
   "semantic_domains": {
-    "community": "belonging to local place and connections",
-    "spatial": "relationship between being and place"
+    "activity": "inhabiting a place as an ongoing abode or usual setting",
+    "community": "residence among other people or beings in a place",
+    "nature": "habitation by organisms in an environment",
+    "spatial": "continuing residence in a location"
   }
 }

@@ -8,17 +8,26 @@
     "lu"
   ],
   "pos": "verb",
-  "concept": "Rest / Pause-Restore / The Gentle Ceasing",
-  "description": "The verb naming the conscious pause from activity, the intentional stillness that restores capacity. In Phi, rest is not laziness but essential rhythm—the breathing-out that makes breathing-in possible. This word honors the wisdom of knowing when to stop, the courage to cease doing, and the trust that stillness serves life.",
-  "sound_symbolism": "The word opens with 'the', where the dental fricative breathes softly while 'e' opens with gentle clarity—the conscious choice to pause. This flows through 'ri', the rolling movement slowing, before settling into 'lu', where the liquid 'l' releases tension and 'u' settles into deep stillness. The arc traces rest's nature: breath, slowing, arrival.",
-  "grammatical_notes": "Functions as a verb describing the state or act of resting: 'mia therilu' (I rest). Can take temporal markers for duration ('mia sui shero therilu' - I rest during the night) or location markers for where one rests. Often paired with words for renewal and restoration.",
+  "search_terms": [
+    "take a break",
+    "pause for recovery"
+  ],
+  "description": "After lifting stones, tending a fever, or thinking past the point of usefulness, someone may 'therilu'. The verb names a pause or reduction in activity that allows capacity to recover. Rest may be chosen or required, and it does not promise that recovery will follow.",
+  "articulatory_notes": "Place the tongue tip lightly between or against the upper teeth and let unvoiced air pass for 'th', then move into middle-height front 'e'. Make a tap or short trill at the alveolar ridge before stressed high-front 'i'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and finish with rounded high-back 'u'.",
+  "sound_symbolism": "Air slips past the teeth before the brief central tap, then lateral 'lu' releases the word into a rounded finish. The consonants keep moving, but none asks the mouth for much force.",
+  "usage_notes": "Choose 'therilu' when recovery or renewed capacity is the point of the pause. Cessative 'te' can end any activity without implying rest, 'nulae' names sleep, and module word 'hasenu' names a bounded recess expected to end with resumption.",
+  "examples": [
+    {
+      "phi": "mia weloni therilu.",
+      "translation": "My body rests."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Sustainable living requires sustainable rhythm. 'Therilu' honors rest as ecological wisdom, the fallow field, the sabbath principle.",
-    "secular-buddhist-philosophy": "Rest is not the opposite of practice but part of practice. 'Therilu' names the stillness that makes movement meaningful."
+    "solarpunk-values": "Plans for work and shared infrastructure can include the limits of bodies, tools, and ecosystems. 'therilu' makes recovery time speakable without treating it as failed production."
   },
   "semantic_domains": {
-    "activity": "fundamental human activity of resting",
-    "physical": "the bodily state of stillness and recovery",
-    "temporal": "the pause within the rhythm of activity"
+    "activity": "pausing or reducing activity for recovery",
+    "physical": "rest of a body or bodily capacity",
+    "temporal": "an interval between periods of greater activity"
   }
 }

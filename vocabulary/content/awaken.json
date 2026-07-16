@@ -8,16 +8,26 @@
     "e"
   ],
   "pos": "verb",
-  "concept": "Awaken / Emerge to Awareness / Rise from Sleep",
-  "description": "The verb of consciousness returning: the transition from sleep back to waking awareness. 'Nowae' covers both natural waking and the deliberate practice of arising with attention. Its counterpart in the daily rhythm is 'nulae' (sleep).",
-  "sound_symbolism": "The word opens with 'no', where the grounding nasal 'n' emerges from sleep's depths—consciousness stirring from within, the internal movement before external awareness. The rounded 'o' holds the enclosed state of sleeping self. This flows through 'wa', where the outward-reaching glide 'w' carries consciousness toward the world—the self extending into day—meeting open 'a' as awareness spreads. The final 'e' stands clear and balanced, the alert vowel of full presence achieved. The arc traces awakening: emerging from enclosure, reaching outward, arriving in clarity.",
-  "grammatical_notes": "Functions as an intransitive verb: 'mia nowae.' (I awaken.) Can take manner adverbs or temporal expressions. Distinguished from 'nulae' (sleep) as its complementary opposite in daily rhythm. Waking someone else uses the causative particle: 'mia thia ka nowae.' (I wake you.)",
+  "search_terms": [
+    "wake",
+    "wake up"
+  ],
+  "description": "When sleep ends and waking awareness returns, a person or animal 'nowae'. The verb covers the transition itself, whether it happens naturally or because the kettle has expressed a firm opinion. It does not by itself mean insight or getting out of bed.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for dental 'n', keep the airflow through the nose, and round the lips for middle-height back 'o'. Move through voiced 'w' into stressed central 'a'. Give final middle-height front 'e' its own syllable rather than gliding from 'a'.",
+  "sound_symbolism": "'nowae' shares its opening nasal and separate final 'e' with 'nulae' (sleep), giving the pair an audible kinship. Between them, rounded 'o' opens through 'w' into stressed 'a', so the mouth widens as the word moves towards waking.",
+  "usage_notes": "Causative 'ka nowae' means to wake someone. A source text may use ordinary waking as a metaphor for insight, but the metaphor does not create a second lexical sense for 'nowae'.",
+  "examples": [
+    {
+      "phi": "mia nowae.",
+      "translation": "I awaken."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Waking offers the first mindfulness opportunity of each day—the transition from unconsciousness provides practice in choosing presence from the very beginning. 'Nowae' supports the intention to awaken mindfully rather than reactively grasp at the day.",
-    "pre-industrial-wisdom": "Traditional cultures ritualized waking—greeting dawn, offering thanks, setting intentions with the rising sun. 'Nowae' preserves this understanding of awakening as sacred threshold, the daily gift of another chance."
+    "secular-buddhist-philosophy": "The Heart Sutra rendering uses ordinary waking as a source-guided metaphor for awakening to emptiness. The metaphor depends on context; 'nowae' itself remains the everyday transition out of sleep."
   },
   "semantic_domains": {
-    "cognition": "consciousness shift from sleep to awareness",
-    "temporal": "daily transition marking time's rhythm"
+    "cognition": "return of waking awareness after sleep",
+    "physical": "bodily transition out of sleep",
+    "temporal": "the boundary between a sleep period and wakefulness"
   }
 }
