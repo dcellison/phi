@@ -8,16 +8,25 @@
     "mi"
   ],
   "pos": "verb",
-  "concept": "Bond / A Strong Mental Connection",
-  "description": "To form an invisible thread between beings through shared experience, thought, and care. The connection it creates is foundational, built on mindful presence.",
-  "sound_symbolism": "The word begins with the grounding 'no', establishing shared understanding as the foundation of connection. This flows through the binding liquid 'l', which weaves between souls like thread through fabric. The progression culminates in 'mi', bringing the bond into personal, intimate space. This three-syllable journey—from shared awareness through flowing connection to personal holding—creates a sound that embodies both the strength and tenderness of human bonds. The liquids and nasals make the word itself feel like an embrace.",
-  "grammatical_notes": "The verb names the act of forming connection: 'lo mia wiso nolami' (we bond with each other), with the reciprocal pronoun 'wiso' emphasizing mutual connection. Aspect particles distinguish forming bonds ('pa nolami' - begin to bond) from maintaining them ('si nolami' - be bonding) and established bonds ('ki nolami' - have bonded). The bond itself is the rule-derived event noun; its possessor comes first, unmarked: 'lo mia nolami' (our bond).",
+  "search_terms": [
+    "form a bond",
+    "build mutual connection"
+  ],
+  "description": "Form or sustain a mutual connection between beings through shared experience, attention, affection, or care. 'lorea' (connect) is the general relation between things; 'nolami' belongs to participants who come to hold a bond with one another. An adhesive or material joint uses the physical joining process instead of borrowing the English homonym.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and open into middle-height back rounded 'o'. Touch the tongue tip to the alveolar ridge for stressed 'l' and release laterally into open central 'a'. Close the lips for voiced 'm', keep the nasal airflow, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "Nasals frame the stressed lateral centre, so the whole word stays voiced and connected even as the tongue and lips change their work. The contour offers a useful mnemonic for a relation formed across distinct participants.",
+  "usage_notes": "Participants may take reciprocal 'wiso' or a comitative phrase with 'nua'. In noun position, 'nolami' is the bond itself. Physical fastening uses 'tiwa' (tie), 'pina' (sew), or the actual joining method.",
+  "examples": [
+    {
+      "phi": "lo mia wiso nolami.",
+      "translation": "We bond with each other."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The concept embodies the understanding of interdependence - that all beings are connected through networks of cause and effect, mutual influence and shared experience. Bonds represent the recognition of our fundamental non-separation, reflecting the insight that our wellbeing is inextricably linked with the wellbeing of others, and that we exist only in relationship.",
-    "peace-linguistics-practices": "Bonds represent the foundation of nonviolent conflict resolution - when we recognize and honor the connections between us, violence becomes impossible. The practice of naming and strengthening bonds creates linguistic reality that affirms our mutual dependence and shared humanity, making it harder to dehumanize or harm those with whom we are connected."
+    "peace-linguistics-practices": "Because 'nolami' is mutual, it cannot make imposed restraint sound like relationship. A bond grows through what participants share rather than through one person's control of another."
   },
   "semantic_domains": {
-    "community": "links beings through invisible threads of connection",
-    "emotion": "creates tender embrace through care and presence"
+    "community": "a mutual connection formed and sustained between beings",
+    "emotion": "affection or care held within an enduring relational bond"
   }
 }

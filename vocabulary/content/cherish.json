@@ -8,16 +8,26 @@
     "pi"
   ],
   "pos": "verb",
-  "concept": "Cherish / Treasure Dearly / Hold Precious",
-  "description": "To hold something or someone as precious, treating with tender care and deep appreciation. 'Meropi' names the protective, nurturing aspect of love—the way we shelter what we value, attending to its wellbeing with devoted attention.",
-  "sound_symbolism": "The word cradles what it names. 'Me' begins with nasal tenderness, holding close. Then 'ro' rolls with warm protection, care surrounding. Finally 'pi' seals with soft precision, what is cherished held safe.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia thia meropi.' (I cherish you.) Can specify what: 'mia ha philo meropi.' (I cherish this day.) Related to 'lothea' (love) and 'themoka' (treasure)—'meropi' emphasizes the protective, nurturing quality of valuing.",
+  "search_terms": [
+    "hold dear",
+    "treasure dearly"
+  ],
+  "description": "Hold a person, living thing, place, object, or memory dear and give it sustained tender regard. Cherishing is more particular than 'lothea' (love): it attends to what is precious about this one relationship or thing. 'sone' (value) attributes importance, while 'meropi' includes the affection with which that value is held.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the voice through the nose, and open into middle-height front unrounded 'e'. Tap or briefly trill the tongue tip for stressed 'r', then round the lips for middle-height back 'o'. Close the lips fully for unvoiced 'p' and release into high-front unrounded 'i'.",
+  "sound_symbolism": "The word begins in nasal resonance, turns on a bright tap, and ends with a light clean release. Its shape can suggest something held close without making the holding heavy or possessive.",
+  "usage_notes": "A person can cherish another person, a thing, a place, or a memory. 'themoka' (treasure) names a precious thing; 'meropi' describes the continuing regard given to it.",
+  "examples": [
+    {
+      "phi": "mia ha philo meropi.",
+      "translation": "I cherish this day."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Cherishing practiced skillfully avoids possessive attachment—we hold dear without grasping, value without clinging.",
-    "pre-industrial-wisdom": "Traditional cultures cherish relationships, crafts, and knowledge—what is valuable is tended across generations."
+    "secular-buddhist-philosophy": "A person can hold someone or something dear while still allowing change and departure. Tender regard need not become possession.",
+    "pre-industrial-wisdom": "Cherishing an object often means learning its wear, repairing it, and letting its history remain visible instead of replacing it at the first mark."
   },
   "semantic_domains": {
-    "community": "Nurturing what we love",
-    "emotion": "Tender protective valuing"
+    "community": "tender regard sustained within a particular relationship",
+    "emotion": "affection towards someone or something held dear"
   }
 }

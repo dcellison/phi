@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (254)
+## activity (256)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -208,6 +208,7 @@
 | `thape` | burn | setting or allowing material to burn |
 | `theala` | heal | care or remedy supporting recovery |
 | `theali` | fitting | an action or method suited to its present purpose and conditions |
+| `theama` | care | attentive practical work directed towards need or wellbeing |
 | `thekamu` | intervene | a deliberate action within bodily care |
 | `theko` | craft | making carried out through learned practical skill |
 | `thenoki` | sustain | support that lets an activity or system continue |
@@ -228,6 +229,7 @@
 | `thophe` | sow | the practical act of placing seed for cultivation |
 | `thosami` | compatible | components working together for a selected purpose |
 | `thueli` | intend | an agent's present aim towards an action or outcome |
+| `thuleni` | comfort | an act intended to ease another person's distress or discomfort |
 | `thunaro` | train | guided practice toward a stated practical capacity |
 | `thunesi` | asynchronous | contributions joining one process at different times |
 | `thuo` | prosper | an undertaking faring well by its practical purpose |
@@ -267,12 +269,13 @@
 | `wishe` | swim | self-propelled passage through water |
 | `wisola` | exchange | participants giving and receiving within one reciprocal arrangement |
 
-## aesthetic (81)
+## aesthetic (83)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `helia` | youth | the beauty of new growth |
 | `horae` | radiant | light or visible delight perceived as spreading outward |
+| `kaeli` | like | a favourable response to a sensory or artistic quality |
 | `kaelo` | sweet | sweetness appreciated in flavour, scent, or an established sensory comparison |
 | `keru` | bright | a strongly lit scene or a hue seen at high visual intensity |
 | `kire` | shape | drawing and shaping visible form |
@@ -352,6 +355,7 @@
 | `whilaru` | comb | The tool worth carving |
 | `whilo` | white | achromatic color at high perceived lightness |
 | `wira` | window | View portal |
+| `woraka` | appreciate | positive recognition of a sensory or artistic quality |
 
 ## cognition (237)
 
@@ -369,7 +373,6 @@
 | `hisaro` | clinical finding | a method-bounded observation available for interpretation |
 | `hisophi` | contaminant | an agent classified relative to a stated expected condition |
 | `holume` | loss | The gone made nameable |
-| `kaeli` | like | the mental state of favorable regard |
 | `kanelu` | err | The wrong step, named without shame |
 | `kanu` | choose | settling on one alternative from those considered or available |
 | `kanuro` | decision | a choice assigned settled or actionable status |
@@ -552,6 +555,7 @@
 | `thena` | thing | general reference in thought and speech |
 | `thenoi` | falls-short | Announces magnitude relationship requiring mental comparison |
 | `theo` | read | fundamentally a cognitive process of decoding and comprehension |
+| `theomi` | trust | judgement that a person, process, or thing can be relied upon in a stated respect |
 | `theonu` | attend | awareness deliberately directed or held towards a chosen object |
 | `thesa` | careful | attention directed towards the mistakes or consequences that matter in an act |
 | `thesani` | skill | procedural knowledge developed through learning and repetition |
@@ -593,9 +597,9 @@
 | `wiero` | imaginative | the capacity to form possibilities beyond what is presently perceived |
 | `winora` | plan | forming a revisable arrangement for an undertaking |
 | `wireki` | prognosis | a conditional inference about a health course |
-| `woraka` | appreciate | Perceiving value clearly |
+| `woraka` | appreciate | attention that recognises value in a person, act, thing, or condition |
 
-## communication (118)
+## communication (117)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -608,6 +612,7 @@
 | `kapura` | shout | forceful or urgent vocalization |
 | `kela` | rejoice | Expressing joy to others |
 | `keloa` | rough | an abrasive texture extended to the delivery of a voice or utterance |
+| `keluro` | honor | respect or tribute deliberately expressed to others |
 | `kiroa` | sign | Visual message |
 | `kirothe` | define | making a proposed usage boundary explicit for others |
 | `kirowi` | signal | a technical communication relation that does not guarantee shared meaning |
@@ -618,7 +623,6 @@
 | `lathoe` | tongue | Primary organ of speech production |
 | `lesawi` | consent | giving, withholding, or withdrawing a bounded answer |
 | `lilea` | clarify | wording repaired so that its intended reference is easier to follow |
-| `lomare` | embrace | Non-verbal communication of acceptance |
 | `lona` | meeting | Shared gathering |
 | `lonae` | respond | the return turn after a question or other prompt |
 | `lophae` | storyteller | Tale sharing |
@@ -631,13 +635,13 @@
 | `moli` | gentle | speech delivered with mild pressure or force |
 | `moreko` | articulate | clear verbal expression available for another person's response |
 | `mothare` | premise | a claim participants can grant, question, or revise explicitly |
-| `nawea` | respect | foundation for respectful communication |
 | `naweri` | refuse | giving an explicit negative answer or rejecting a claim |
 | `naweso` | consensus | public stances considered under a stated consensus rule |
 | `nawo` | agree | stating accord on a proposition or proposed course |
 | `noeli` | warm (emotional) | warmth expressed through voice, greeting, or parting |
 | `noemi` | authentic | a voice or expression faithful to the speaker's lived commitments |
 | `nomei` | name | the word that calls and identifies |
+| `nomela` | encourage | words or gestures that give confidence or hope |
 | `nophi` | story | fundamentally acts of structured transmission from one consciousness to another |
 | `nowiso` | interface | an informational interface can mediate exchange without guaranteeing understanding |
 | `numike` | negotiate | discussing terms with one or more counterparts |
@@ -697,7 +701,6 @@
 | `themore` | argument | a reasoning structure shared for examination |
 | `thenui` | direct | an answer or statement that reaches its subject without evasion or an intermediary |
 | `theo` | read | receptive communication receiving encoded messages from another consciousness |
-| `theomi` | trust | foundation for genuine communication |
 | `theonu` | attend | attention kept on another participant's words or response |
 | `thereo` | mediator | facilitates communication and understanding between parties |
 | `thilou` | inquire | putting a question to another person |
@@ -711,14 +714,14 @@
 | `welura` | spread | a story or account becoming present among more people |
 | `wero` | honest | speech or conduct free from knowing deception |
 | `whakeru` | object | placing a challenge into discussion for response |
-| `whaline` | thank | Verbal expression of gratitude |
+| `whaline` | thank | gratitude expressed to another participant |
 | `whekate` | refute | a decisive challenge supported by reasons or evidence |
 | `whelani` | welcome | greeting an arrival or making reception explicit |
 | `whishela` | whisper | Speech made of breath |
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
-## community (281)
+## community (283)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -739,7 +742,7 @@
 | `kawhera` | coerce | coercion within a social or institutional relation |
 | `keloe` | companion | Journey partner |
 | `kelomi` | accept | admitting another person's presence or participation |
-| `keluro` | honor | Acknowledging worth within relationships |
+| `keluro` | honor | visible recognition of a person, contribution, or relationship |
 | `keno` | custom | Habitual way |
 | `kima` | scribe | Recording role |
 | `kiranu` | qualified | eligibility defined by a social or institutional source |
@@ -762,13 +765,14 @@
 | `lohau` | dog | The first interspecies friendship |
 | `lokane` | accessible | conditions that let a person enter shared activity |
 | `lokue` | place | places as sites of gathering and meaning |
+| `lomare` | embrace | an embrace used in affection, comfort, greeting, or reunion |
 | `lomea` | sibling | core family bond and peer relationship |
 | `lona` | meeting | Assembly event |
 | `lonae` | respond | recognition of another person's preceding act of communication |
 | `lophae` | storyteller | Narrative role |
 | `lopia` | child | held as sacred trust by collective responsibility |
 | `lorea` | connect | weaves relationships into visible interdependence |
-| `lothea` | love | Foundation of relationship |
+| `lothea` | love | deep affection and active care within a relationship or shared life |
 | `lothoni` | accountable | answerability for a shared matter under a review relationship |
 | `lumani` | family | forms the fundamental unit of social bonds and belonging |
 | `lumera` | nourish | one person or group supplying another's nourishment |
@@ -784,7 +788,7 @@
 | `menua` | counselor | Guidance role |
 | `menui` | dwell | residence among other people or beings in a place |
 | `mera` | net | Catching together |
-| `meropi` | cherish | Nurturing what we love |
+| `meropi` | cherish | tender regard sustained within a particular relationship |
 | `miona` | person | persons are the fundamental units of social structures |
 | `mirewu` | private | a personal or shared boundary respected by other people |
 | `misharo` | consult | considering an affected person's knowledge or experience |
@@ -806,7 +810,7 @@
 | `naseru` | obligation | a requirement attributed to an agent under a stated source |
 | `nashaku` | enforce | institutional enforcement with stated methods and review |
 | `nasholu` | rule | a rule claimed to apply within a social process |
-| `nawea` | respect | essential for social bonds and relationships |
+| `nawea` | respect | respect for another person's standing, agency, or boundary |
 | `naweri` | refuse | setting a boundary within a social relation |
 | `naweso` | consensus | a defined collective decision condition |
 | `nawo` | agree | a shared position among named participants |
@@ -815,10 +819,10 @@
 | `nireku` | insect | Foundation of ecosystems |
 | `noa` | position | Enables discussion of roles and places within social structures |
 | `noeli` | warm (emotional) | a receptive manner that puts another person at ease |
-| `nolami` | bond | links beings through invisible threads of connection |
+| `nolami` | bond | a mutual connection formed and sustained between beings |
 | `nolika` | animal | Fellow creatures sharing the world |
 | `nomei` | name | the marker of individual identity within collective |
-| `nomela` | encourage | builds bridges between hearts for mutual strength |
+| `nomela` | encourage | encouragement offered within a shared effort or relationship |
 | `nophei` | loyal | steadfast continuation of a relationship, commitment, or allegiance |
 | `norathu` | procedure | a governance procedure with participants and decision conditions |
 | `noru` | bowl | Nourishment |
@@ -842,7 +846,7 @@
 | `phaelu` | peaceful | a nonviolent and workable condition among people |
 | `phaeno` | week | Work rhythm |
 | `phaliso` | network | fundamentally about collective relationships and mutual support |
-| `phamo` | console | Supporting the bereaved |
+| `phamo` | console | solace offered to a bereaved or grieving person |
 | `phanoi` | portion | portioning shared food, materials, or other resources among participants |
 | `phanuli` | allocate | collective allocation among stated recipients or purposes |
 | `phao` | parent | fundamental to family bonds and social structure |
@@ -860,6 +864,7 @@
 | `phenori` | ownership | a socially defined set of powers and claims over something |
 | `phewani` | neighbor | fundamental to local social bonds and collective life |
 | `phewo` | sage | Wisdom role |
+| `phimela` | kiss | a kiss used within affection, greeting, blessing, or farewell |
 | `phitura` | well (water) | The shared water-place |
 | `phomila` | offspring | fundamental to family bonds and social continuity |
 | `phowe` | share | shared use of things, resources, or activities |
@@ -934,7 +939,7 @@
 | `thalume` | ancestor | forms the deep current of kinship and lineage |
 | `thaluni` | kin | fundamental to social structure and networks of belonging |
 | `thasu` | modest | unshowy self-presentation in relation to other people |
-| `theama` | care | provides mutual support for collective wellbeing |
+| `theama` | care | care given within a relationship or shared setting |
 | `thekamu` | intervene | an action affecting a person within a care relation |
 | `thekao` | acknowledge | acknowledging another participant or their stated position |
 | `theloma` | justice | focuses on wholeness and reintegration of all parties |
@@ -943,13 +948,13 @@
 | `theluo` | steward | caring for collective resources and future generations |
 | `thema` | guardian | embodies protective responsibility within social networks |
 | `thenoki` | sustain | resources and work that keep a group functioning |
-| `theomi` | trust | essential for building social bonds |
+| `theomi` | trust | reliance placed within a social relationship |
 | `therema` | tradition | social bonds and collective customs |
 | `thereo` | mediator | essential role in maintaining social harmony |
 | `thero` | fire | hearth fire as center of gathering |
 | `thimora` | schedule | a coordination artifact affecting participants |
 | `thoepa` | sacred | reverent standing held by an individual or group and expressed through practice |
-| `tholira` | forgive | Enabling healing after harm |
+| `tholira` | forgive | a changed relation to someone who caused harm |
 | `tholupi` | room | an interior place used in shared or solitary daily life |
 | `thonai` | responsible | willing acceptance of care or answerability for a shared matter |
 | `thonua` | scholar | Learning role |
@@ -959,7 +964,7 @@
 | `thorelu` | converse | informal talk through which people maintain relationships |
 | `thowia` | born | birth as the relation that connects a child with a birth parent |
 | `thua` | fair | equitable treatment assessed in relation to needs and circumstances |
-| `thuleni` | comfort | Caring for those who suffer |
+| `thuleni` | comfort | comfort offered within a caring relationship |
 | `thumela` | teach | deeply relational act between teacher and student |
 | `thunai` | student | Learning role |
 | `thunaro` | train | a bounded relationship between trainer and participant |
@@ -972,9 +977,9 @@
 | `tomi` | pot | Daily nourishment |
 | `towe` | well | the overall welfare of a person or group |
 | `tupeka` | burden | weight or demand located on an affected bearer |
-| `warosha` | reconcile | Healing relationships after conflict |
+| `warosha` | reconcile | work on a relationship after conflict, estrangement, or harm |
 | `welira` | thrive | a community developing in sustained good health |
-| `wema` | belong | roots in collective identity and mutual acceptance |
+| `wema` | belong | a lived relation of belonging within a group or relationship |
 | `wemari` | member | recognized membership in a stated group or institution |
 | `wemi` | ally | joins personal identity with collective struggle |
 | `wenola` | collaborate | participants shaping shared work together |
@@ -985,7 +990,7 @@
 | `weshaku` | outbreak | a health pattern within a selected population and place |
 | `wesoma` | mutual | reciprocity among people in a shared relationship |
 | `wethate` | laundry | a recurring domestic workload within a household |
-| `whaline` | thank | Completing the gift cycle |
+| `whaline` | thank | acknowledgement of a gift, act, presence, or contribution |
 | `whelani` | welcome | receiving another person's presence as wanted |
 | `whemori` | waste | a status assigned by a holder, process, or institution with consequences for others |
 | `wheo` | elder | serves as keeper of collective memory and story |
@@ -1174,7 +1179,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## emotion (86)
+## emotion (84)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1185,7 +1190,7 @@
 | `holume` | loss | What remains of holding |
 | `horae` | radiant | delight made visible in a face or manner |
 | `hurao` | patient | willing endurance without being driven by agitation |
-| `kaeli` | like | the feeling of preference and affinity |
+| `kaeli` | like | ordinary liking or affinity towards a person, activity, thing, or quality |
 | `kaeshu` | bold | felt daring before the outcome is known |
 | `kapura` | shout | intensity breaking into voice |
 | `kela` | rejoice | Experiencing deep gladness |
@@ -1196,35 +1201,34 @@
 | `lei` | harmony | creates feelings of peace and rightness when elements unite |
 | `liroa` | playful | lighthearted readiness for play |
 | `loshi` | joyful | the character of something that awakens or expresses joy |
-| `lothea` | love | Deep affection and care |
+| `lothea` | love | love felt towards a person, place, living thing, or way of life |
 | `lumani` | family | nurtures deep bonds of love, care, and mutual support |
 | `luroi` | nervous | apprehension about an uncertain or exposed moment |
 | `melira` | song | Feeling given melodic shape |
 | `meloa` | persevere | Steady resolve |
 | `melu` | friend | inherently involves emotional bonds of affection, care, and concern |
-| `meropi` | cherish | Tender protective valuing |
+| `meropi` | cherish | affection towards someone or something held dear |
 | `mishoa` | express | an inward feeling made available through outward form |
 | `monelu` | amused | light pleasure in finding something funny or entertaining |
-| `nelu` | revere | Deep respect |
+| `nelu` | revere | deep respect joined with awe |
 | `nemo` | grateful | appreciation felt in response to benefit or support |
 | `nilua` | shy | social hesitation or self-conscious unease |
 | `noalu` | tranquil | deep calm that has remained undisturbed |
 | `noeli` | warm (emotional) | affection or goodwill felt in someone's manner |
-| `nolami` | bond | creates tender embrace through care and presence |
-| `nomela` | encourage | gives hope and confidence through heartfelt support |
+| `nolami` | bond | affection or care held within an enduring relational bond |
+| `nomela` | encourage | confidence or hope strengthened in another person |
 | `norethi` | confident | felt steadiness in one's understanding or ability |
 | `nuhe` | sadness | the felt heaviness of sorrow or unhappiness |
 | `nuhemi` | grieve | The sustained carrying of sadness after loss |
 | `nuhewa` | weep | Sadness flowing out |
 | `nuloe` | content | satisfaction with present circumstances or sufficiency |
-| `numea` | nestle | Trust performed in the muscles |
+| `numea` | nestle | closeness sought as comfort or safety |
 | `nupira` | shame | the painful feeling of being diminished or exposed |
 | `phaeli` | tender | gentle feeling towards someone or something held dear or vulnerable |
 | `phaelo` | feel | an emotional state as it is experienced |
 | `phaelu` | peaceful | peacefulness held as a settled disposition |
-| `phamo` | console | Accompanying grief |
+| `phamo` | console | companionship and comfort directed specifically towards grief |
 | `phesua` | inspire | transforms states from dormancy to excitement and urge |
-| `phimela` | kiss | Affection made touch |
 | `pula` | wish | wanting an outcome to occur |
 | `puro` | strength | Inner fortitude |
 | `renoa` | liberate | Release from bondage |
@@ -1243,29 +1247,28 @@
 | `thaemu` | sincere | genuine feeling made present in words or gesture |
 | `thaluni` | kin | embodies deep bonds of love and connection |
 | `theala` | heal | recovery from a stated emotional hurt |
-| `theama` | care | nurtures through open-hearted presence and attention |
 | `thema` | guardian | involves care, vigilance, and compassionate bonds |
 | `themoka` | treasure | Recognizing and holding value |
 | `themui` | faith | cultivates trust through mindful confidence in process |
-| `theomi` | trust | emotional vulnerability and courage |
+| `theomi` | trust | felt confidence that permits reliance under uncertainty |
 | `therua` | eager | keen anticipation before an action or event |
 | `thiro` | serene | calm settled into a poised manner |
-| `tholira` | forgive | Releasing resentment and grievance |
+| `tholira` | forgive | release of resentment or continuing grievance |
 | `thomari` | courage | resolve felt while facing fear, pain, or danger |
 | `thoru` | proud | satisfaction or dignity connected to achievement, identity, or relationship |
-| `thuleni` | comfort | Responding to others' distress |
+| `thuleni` | comfort | relief or companionship offered in response to distress |
 | `thurai` | vibrant | lively energy apparent in a manner or shared activity |
 | `wakomi` | surprise | The felt jolt of the unexpected |
 | `waora` | wondrous | a person, event, or thing that prompts a felt response of wonder |
-| `warosha` | reconcile | Processing hurt toward restoration |
-| `wema` | belong | feeling of being held and accepted within relationships |
+| `wema` | belong | felt attachment to people or place |
+| `whaline` | thank | felt gratitude given outward form |
 | `wilao` | long-for | sustained or intense desire for someone, something, or an outcome |
 | `wile` | play | Experiencing lightness and joy |
 | `wipha` | restless | felt agitation or difficulty settling |
 | `wiroa` | hopeful | felt expectation that a desired outcome remains possible |
-| `woraka` | appreciate | Feeling gratitude and recognizing worth |
+| `woraka` | appreciate | the favourable response that accompanies recognised value |
 
-## ethics (21)
+## ethics (25)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1275,6 +1278,7 @@
 | `kolo` | equal | equality considered separately from fairness and inherent worth |
 | `lesawi` | consent | consent as a condition of respectful conduct and relationship |
 | `lothoni` | accountable | review that keeps answerability distinct from presumed blame |
+| `nawea` | respect | conduct shaped by recognition of another person's worth and autonomy |
 | `naweri` | refuse | refusal as a condition of consent and personal agency |
 | `noemi` | authentic | fidelity between a person's conduct and the commitments they recognize as their own |
 | `nophei` | loyal | loyalty weighed alongside refusal and the effects of remaining |
@@ -1284,14 +1288,17 @@
 | `ralu` | free | freedom considered in relation to coercion and imposed restraint |
 | `ruesha` | compassionate | a response that treats suffering as a reason for concern and possible care |
 | `thaemu` | sincere | a claimed feeling or intention matched by its expression |
+| `theama` | care | conduct that answers another being's welfare or a responsibility of upkeep |
+| `tholira` | forgive | forgiveness considered alongside harm, repair, and future boundaries |
 | `thonai` | responsible | willingly taking up care or answerability for a matter |
 | `thua` | fair | an arrangement weighed against the needs and circumstances that matter |
 | `thunoa` | dignified | conduct or treatment that acknowledges a person's inherent worth |
+| `warosha` | reconcile | reconciliation pursued alongside acknowledgement and repair |
 | `welao` | good | the broad favourable term when conduct or its effects are being weighed |
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 | `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
-## nature (231)
+## nature (232)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1481,6 +1488,7 @@
 | `thaeso` | midday | Solar zenith |
 | `thaluro` | ocean | Global saltwater body |
 | `thape` | burn | combustion in a hearth, field, or wildfire |
+| `theama` | care | care for a living thing, habitat, or ecological place |
 | `thelomi` | lake | Freshwater body |
 | `theluo` | steward | often involves tending land and ecosystems |
 | `thenoki` | sustain | conditions that continue a living system |
@@ -1527,7 +1535,7 @@
 | `wolea` | wood | Tree material |
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 
-## physical (369)
+## physical (370)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1608,7 +1616,7 @@
 | `liona` | live | biological living as an activity or condition |
 | `lirupa` | bag | a soft-sided holder that changes shape around its contents |
 | `loa` | give | passing a material object into another person's use or keeping |
-| `lomare` | embrace | Bodily expression of care |
+| `lomare` | embrace | arms, clothing, or another enclosing form surrounding a body or space |
 | `lomura` | liver | The inner anatomy's quiet worker |
 | `lophani` | bottle | a portable holder for liquid |
 | `loremi` | branch | Living structure that holds and sways |
@@ -1690,7 +1698,7 @@
 | `nuhewa` | weep | The body's release of grief |
 | `nulae` | sleep | recurring bodily state of sleep |
 | `nulomi` | guts | The belly's inner workings |
-| `numea` | nestle | The settling into warmth |
+| `numea` | nestle | the body settling into a close, sheltered, or warm position |
 | `nuola` | eat | oral intake of food |
 | `nuora` | food | what sustains bodily life |
 | `nurawi` | chronic | persistence or recurrence in a bodily health condition |
@@ -1732,7 +1740,7 @@
 | `pheomu` | leftovers | prepared food remaining after an eating occasion |
 | `phialu` | water | tangible substance that can be directly experienced |
 | `philea` | feather | The lightest made thing |
-| `phimela` | kiss | The lips' brief gift |
+| `phimela` | kiss | contact made by placing the lips against someone or something |
 | `phisuri` | sample | a material, organism, place, or record portion taken for examination |
 | `phitura` | well (water) | Water at the end of effort |
 | `phoa` | do | performing actions and activities |
@@ -1823,7 +1831,7 @@
 | `thalo` | walk | alternating bodily support on the feet |
 | `thape` | burn | consumption or damage through fire and intense heat |
 | `theala` | heal | living tissue or a body recovering from illness or injury |
-| `theama` | care | maintains health and protects bodily welfare |
+| `theama` | care | bodily care or practical attention to material condition |
 | `theisa` | loud | high perceived intensity in a sound or its source |
 | `thekamu` | intervene | an action on a body, health state, or bodily environment |
 | `thelai` | balm | External comfort |
@@ -1841,6 +1849,7 @@
 | `thola` | bring | moving with a person or material object being brought |
 | `tholau` | bone | Hard internal framework of the body |
 | `thorima` | taste | gustatory perception through the mouth |
+| `thuleni` | comfort | touch or changed bodily surroundings used to ease discomfort |
 | `thumai` | finger | Fine digits for manipulation and touch |
 | `thumiro` | smoke | Gray drift that reports |
 | `thuroa` | grow | change in bodily or material size |
@@ -1934,7 +1943,7 @@
 |---|---|---|
 | `hewe` | wipe | Care's smallest gesture |
 | `holia` | festival | Celebration gathering |
-| `keluro` | honor | Formal expressions of respect |
+| `keluro` | honor | formal or repeated acts of honour |
 | `koshira` | grove | Sacred tree-space |
 | `kowela` | council | creates sacred space through formal deliberation processes |
 | `lopha` | vessel | Sacred receptacle |
@@ -1943,7 +1952,7 @@
 | `meipa` | seat | What receives the practice |
 | `melira` | song | Carrier of communal memory and ceremony |
 | `menai` | dedicate | dedication expressed through a repeated or ceremonial practice |
-| `nelu` | revere | Honoring practice |
+| `nelu` | revere | the inward regard that may underlie veneration or ceremonial honour |
 | `nuhemi` | grieve | The practice and season of mourning |
 | `pharuki` | celebrate | Marking significant moments |
 | `phemi` | guest | involves sacred obligations and ceremonial protocols of welcome |
@@ -2114,7 +2123,7 @@
 | `wapho` | throw | a launched path across a gap or into a target area |
 | `wapi` | fly | an airborne path across a place |
 | `welura` | spread | an extent widening or reaching more places |
-| `wema` | belong | grounded in place with deep connection to home |
+| `wema` | belong | belonging to a place experienced as home |
 | `wemo` | plain | Unobstructed expanse |
 | `wepu` | go | directed travel through space |
 | `wesho` | locate | Finding position |
@@ -2300,7 +2309,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (106)
+## wisdom (105)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2333,7 +2342,6 @@
 | `mosha` | period | Bounded duration |
 | `motha` | foundation | Essential support |
 | `motu` | humble | self-appraisal kept open to correction and further learning |
-| `nawea` | respect | understanding inherent worth and dignity |
 | `noa` | position | Understanding position as relational rather than hierarchical |
 | `noetha` | essential | practical judgement about what a course cannot lose and still meet its purpose |
 | `nomi` | present | Here-and-now quality |

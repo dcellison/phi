@@ -8,16 +8,25 @@
     "a"
   ],
   "pos": "verb",
-  "concept": "Respect / To See the Worth of the Collective",
-  "description": "The practice of recognizing and honoring the intrinsic worth in all beings and in the collective itself. It is an active process of seeing and acknowledging dignity and autonomy.",
-  "sound_symbolism": "The grounding 'na' acknowledges inherent worth - that quality in every being that demands recognition, not earned but simply present. This recognition expands through 'we', honoring not just individuals but the sacred web that connects all life. The final 'a' opens heart and mind to truly see, creating space for dignity to be witnessed. Three movements of respect: recognizing worth, embracing connection, opening to presence - the foundation of peaceful coexistence.",
-  "grammatical_notes": "'mia lo wheo nawea.' (I respect the elders.) The noun, the attitude itself, comes by the event-noun rule. Related to 'keluro' (honor) and 'nelu' (revere), which mark stronger deference.",
+  "search_terms": [
+    "regard with respect",
+    "honour dignity"
+  ],
+  "description": "Recognise another person's worth, standing, agency, or stated boundary and let that recognition shape one's conduct. Respect can remain present through disagreement. 'keluro' (honor) gives marked or formal recognition, while 'nelu' (revere) adds deep regard and awe.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and open into central 'a'. Round the lips and raise the back of the tongue for stressed voiced 'w', then move into middle-height front unrounded 'e'. Keep final open central 'a' separate across the 'e.a' hiatus.",
+  "sound_symbolism": "The nasal opening gives way to a rounded glide, then the final hiatus leaves the word open. Its unbroken voicing can help a learner hear respect as a continuing relation rather than a ceremonial flourish.",
+  "usage_notes": "A person, boundary, decision, or standing may receive 'nawea' directly. Politeness particle 'pi' frames an utterance respectfully from the speaker's perspective; 'nawea' names the wider relation or conduct and still leaves its effect open to report.",
+  "examples": [
+    {
+      "phi": "mia lo wheo nawea.",
+      "translation": "I respect the elders."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Respect forms the foundation of nonviolent communication - when we truly see others' inherent worth, we cannot speak in ways that diminish or harm. This practice requires moving beyond surface disagreements to honor the human dignity beneath, creating space for dialogue even across deep differences. Respectful speech becomes a form of active peacemaking."
+    "peace-linguistics-practices": "Respect keeps another person's agency and boundaries visible even when speakers disagree about the matter before them."
   },
   "semantic_domains": {
-    "communication": "foundation for respectful communication",
-    "community": "essential for social bonds and relationships",
-    "wisdom": "understanding inherent worth and dignity"
+    "community": "respect for another person's standing, agency, or boundary",
+    "ethics": "conduct shaped by recognition of another person's worth and autonomy"
   }
 }

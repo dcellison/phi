@@ -8,16 +8,27 @@
     "ka"
   ],
   "pos": "verb",
-  "concept": "Appreciate / Recognize Value / Feel Grateful For",
-  "description": "To recognize and value the worth of something or someone, to feel gratitude for what is given or present. 'Woraka' combines perception of value with emotional response—seeing clearly what is good and feeling thankful for it.",
-  "sound_symbolism": "The word opens to value. 'Wo' begins with soft wonder, perceiving what deserves recognition. Then 'ra' reaches with rolling acknowledgment, appreciation extending. Finally 'ka' confirms with velar certainty, value recognized and gratitude felt.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia thena woraka.' (I appreciate something.) Can specify what is valued, with the possessor first: 'mia thia naphe woraka.' (I appreciate your help.) Related to 'whaline' (thank) but includes the perception of value, not just the expression of gratitude.",
+  "search_terms": [
+    "recognise value",
+    "be thankful for"
+  ],
+  "description": "Recognise and value a person, act, quality, or condition with an attentive positive response. Someone may appreciate timely help, careful work, a quiet hour, or the food already on the table. 'sone' (value) attributes importance, 'nemo' (grateful) is a feeling in response to benefit, and 'whaline' (thank) gives that response outward expression.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then open into middle-height back rounded 'o'. Tap or briefly trill the tongue tip for stressed 'r' and release into open central 'a'. Close the back of the tongue against the soft palate for 'k', then release into a final open central 'a'.",
+  "sound_symbolism": "The rounded opening gathers attention before the tap gives the middle of the word a small lift. Its final velar release makes the form feel more like something noticed and named than a feeling left indistinct.",
+  "usage_notes": "Whatever receives the appreciation appears before 'woraka'. The response can remain unspoken. 'whaline' addresses someone with thanks, while 'woraka' states the speaker's recognition of value.",
+  "examples": [
+    {
+      "phi": "mia thia naphe woraka.",
+      "translation": "I appreciate your help."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Appreciation is mindfulness applied to the good—noticing what supports us rather than fixating on what's lacking.",
-    "peace-linguistics-practices": "Expressing appreciation builds relationship—when we name what we value in others, connection deepens."
+    "secular-buddhist-philosophy": "Appreciation directs attention towards the labour, care, and ordinary conditions that support the present moment instead of letting them disappear into familiarity.",
+    "peace-linguistics-practices": "Specific appreciation can name what another person contributed without turning gratitude into a judgement about their whole character."
   },
   "semantic_domains": {
-    "cognition": "Perceiving value clearly",
-    "emotion": "Feeling gratitude and recognizing worth"
+    "aesthetic": "positive recognition of a sensory or artistic quality",
+    "cognition": "attention that recognises value in a person, act, thing, or condition",
+    "emotion": "the favourable response that accompanies recognised value"
   }
 }

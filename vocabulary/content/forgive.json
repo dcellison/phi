@@ -8,16 +8,27 @@
     "ra"
   ],
   "pos": "verb",
-  "concept": "Forgive / Release Grievance / Let Go of Resentment",
-  "description": "To release resentment toward one who has caused harm, freeing both self and other from the weight of grievance. 'Tholira' names the inner liberation that forgiveness brings—not condoning harm but choosing to set down the burden of bitterness, making space for healing.",
-  "sound_symbolism": "The word releases as it speaks. 'Tho' /θo/ begins with gentle breath, the decision to let go. Then 'li' lifts with liquid lightness, burden releasing. Finally 'ra' rolls outward with warm extension, forgiveness given.",
-  "grammatical_notes": "Functions as a transitive verb; the one forgiven is the direct object: 'mia thia tholira.' (I forgive you.) Related to 'leiro' (release) but specifically addresses grievance and harm. Compare 'warosha' (reconcile), which restores the relationship itself.",
+  "search_terms": [
+    "release resentment",
+    "let go of grievance"
+  ],
+  "description": "Release resentment or a continuing grievance towards someone who caused harm. Forgiveness changes the forgiver's relation to the injury; it does not erase the account of what happened or restore the relationship by itself. 'warosha' (reconcile) works on that relationship, while 'leiro' (release) is the broader act of letting something go.",
+  "articulatory_notes": "Rest the tongue tip near the upper teeth for unvoiced 'th' and let the breath pass into middle-height back rounded 'o'. Touch the tongue tip to the alveolar ridge for stressed 'l' and release laterally into high-front unrounded 'i'. Tap or briefly trill the tongue tip for 'r', then finish with open central 'a'.",
+  "sound_symbolism": "The opening fricative lets air pass continuously, then the tongue moves through a lateral into a final tap and open vowel. Its contacts grow lighter across the word, which can help a learner remember an act of setting down a grievance.",
+  "usage_notes": "'tholira' takes the forgiven person directly. After naming forgiveness, a speaker can still give distance, repair, accountability, and future contact their own clauses.",
+  "examples": [
+    {
+      "phi": "mia thia tholira.",
+      "translation": "I forgive you."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Forgiveness releases attachment to resentment—we suffer less when we set down the poison of grievance, regardless of whether others deserve our forgiveness.",
-    "peace-linguistics-practices": "Forgiveness enables relationship to continue or conclude peacefully—it transforms the meaning of past harm without erasing it."
+    "secular-buddhist-philosophy": "Letting go of grievance may loosen suffering in the person who carries it. The act concerns that release, not a verdict that the harm was acceptable.",
+    "peace-linguistics-practices": "Forgiveness and reconciliation have separate verbs, so releasing resentment need not promise renewed contact or conceal the work still owed after harm."
   },
   "semantic_domains": {
-    "community": "Enabling healing after harm",
-    "emotion": "Releasing resentment and grievance"
+    "community": "a changed relation to someone who caused harm",
+    "emotion": "release of resentment or continuing grievance",
+    "ethics": "forgiveness considered alongside harm, repair, and future boundaries"
   }
 }
