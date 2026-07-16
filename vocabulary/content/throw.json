@@ -7,17 +7,27 @@
     "pho"
   ],
   "pos": "verb",
-  "concept": "Throw / Send Through the Air / Release into Flight",
-  "description": "To throw: a stone into the pond, seed across the furrow, the rope to the boat. Sending a thing through the air by release. With 'pilu' (take) and 'loa' (give) it completes the hand's grammar; the sower and the child at the pond own this word, not the combatant.",
-  "sound_symbolism": "'wa' swings outward and 'pho' is the breath-burst of release — the word is an arm's arc ending in letting go.",
-  "grammatical_notes": "Transitive with target marked: 'lopia muo melothe kerou wapho.' (The child throws a stone into the pond.) 'mia wei thia suro wapho.' (I throw the rope to you.) Sowing: 'lo mia thinoe wapho.' (We throw seed.)",
+  "search_terms": [
+    "toss",
+    "hurl",
+    "cast"
+  ],
+  "description": "A child swings an arm and releases a stone across the pond's edge. 'wapho' propels something into unsupported motion by releasing it after an applied force. 'sepho' (send) arranges or causes a journey without describing a launch, while 'wapi' (fly) follows the airborne movement itself.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then open into stressed central 'a'. Bring the lips close without sealing them for unvoiced 'ph', pass air through the gap, and finish with middle-height back rounded 'o'.",
+  "sound_symbolism": "Rounded 'w' opens into broad 'a'. The lips then narrow for unvoiced 'ph' and release into rounded 'o'. That second syllable puts an audible puff at the point of release.",
+  "usage_notes": "Whatever is launched stands before the verb. 'wei' (DAT) names a recipient, while path relators name the target or direction. Manner can soften the action to a toss or strengthen it to a hurl. Its event noun is a throw.",
+  "examples": [
+    {
+      "phi": "lopia muo melothe kerou wapho.",
+      "translation": "The child throws a stone into the pond."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "The word's examples keep the arc innocent: stones to ponds, ropes to boats, seed to soil. What a language shows thrown is what its speakers first imagine.",
-    "pre-industrial-wisdom": "Broadcast sowing is throwing done with judgment — the oldest agricultural gesture, seed arcing from an open hand."
+    "pre-industrial-wisdom": "Broadcast sowing casts seed across prepared ground by hand. 'wapho' states the release and flight without turning the technique into a separate verb."
   },
   "semantic_domains": {
-    "activity": "Release into flight",
-    "physical": "The arm's arc and letting go",
-    "spatial": "Sending across a gap"
+    "activity": "launching a person or thing through applied force and release",
+    "physical": "propulsion followed by unsupported movement",
+    "spatial": "a launched path across a gap or into a target area"
   }
 }

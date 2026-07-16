@@ -7,16 +7,26 @@
     "ki"
   ],
   "pos": "verb",
-  "concept": "Squeeze / Press Together / Compress in the Hand",
-  "description": "To squeeze: the fruit for its juice, the sponge dry, a hand in reassurance. Pressure brought inward from both sides. With 'pesa' (push) and 'natu' (pull) it completes the hand's basic mechanics.",
-  "sound_symbolism": "'pe' presses, 'ki' is the tight point the pressing reaches — compression down to its focus.",
-  "grammatical_notes": "Transitive: 'mia lureko peki.' (I squeeze the fruit.) Gently, of hands: 'shia mia thumai peki.' (They squeeze my finger... my hand.) For juice: 'lo mia lureko lila phialu peki.' (We squeeze fruit for its water.)",
+  "search_terms": [
+    "compress",
+    "press together",
+    "pinch"
+  ],
+  "description": "Both hands close around a wet cloth, and water leaves it. 'peki' brings pressure inward around an object or from opposing sides. 'pesa' (push) sends pressure mainly along one direction, so pressing a door and squeezing a sponge are different actions.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release them into stressed middle-height front 'e'. Close the back of the tongue against the soft palate for unvoiced 'k', release it, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "Two unvoiced stops frame the word, first at the lips and then at the soft palate. Their quick closures make the two syllables feel compact, like pressure applied twice.",
+  "usage_notes": "What is compressed stands before the verb. A hand or press can appear with 'roe'. Pinching narrows the squeeze to a small area; crushing adds damage or breakage. As an event noun, 'peki' is a squeeze.",
+  "examples": [
+    {
+      "phi": "mia lureko peki.",
+      "translation": "I squeeze the fruit."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "The squeezed hand says what words sometimes cannot — pressure as tenderness, the gentlest use of force the body knows.",
-    "pre-industrial-wisdom": "Juice, oil, whey, dye: the press was the quiet engine of the pantry, and the hand was the first press."
+    "pre-industrial-wisdom": "Hand pressure and simple presses extract juice or oil by the same compression. 'peki' can name the body's work or the tool's."
   },
   "semantic_domains": {
-    "activity": "Compression in the hand",
-    "physical": "Pressure brought inward"
+    "activity": "compressing a person or thing from opposing directions",
+    "physical": "pressure brought inward around a body or object"
   }
 }

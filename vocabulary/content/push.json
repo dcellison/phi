@@ -7,17 +7,23 @@
     "sa"
   ],
   "pos": "verb",
-  "concept": "Push / Press Away / Move by Force from the Body",
-  "description": "To push: the boat from the shore, the cart up the lane, the door that sticks. Force directed away from oneself. The exact opposite of 'natu' (pull) — the pair share no sounds, so direction of force is always unmistakable.",
-  "sound_symbolism": "The 'p' bursts outward from closed lips — force leaving the body — and 'sa' carries it away in a hiss of motion. Effort, outbound.",
-  "grammatical_notes": "Transitive: 'mia ponu pesa.' (I push the door.) 'lo mia lopha pesa.' (We push the vessel.) With effort marked: 'shia ru kema pesa.' (They push with great strength.) Opposite: 'natu' (pull) — the pair share no sounds.",
-  "pillars": {
-    "solarpunk-values": "Human-scale force — the pushed cart, the pushed plough — is the renewable engine; the word dignifies muscle-work as technology.",
-    "pre-industrial-wisdom": "The plough, the cart, the mill-arm: most old work was pushing something patient through something resistant."
-  },
+  "search_terms": [
+    "press",
+    "shove"
+  ],
+  "description": "A shoulder meets a stuck door, and the door moves away from the contact. 'pesa' sends force through that pressure and away from it; a button or control can be pressed this way even when it hardly moves. 'natu' (pull) draws through a held connection, while 'peki' (squeeze) brings pressure inward from more than one side.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release them into stressed middle-height front 'e'. Raise the tongue blade near the alveolar ridge for unvoiced 's', send air through its central groove, and finish with open central 'a'.",
+  "sound_symbolism": "The lips hold and release the opening 'p'. The narrow stream of 's' carries the breath onward before open 'a', which can make the form feel like pressure breaking into motion.",
+  "usage_notes": "The thing under pressure is the direct object. A directional phrase can give its course, and 'kema' (strong) before the verb makes the manner forceful. When a kick drives something away, the foot is the instrument of the push.",
+  "examples": [
+    {
+      "phi": "mia ponu pesa.",
+      "translation": "I push the door."
+    }
+  ],
   "semantic_domains": {
-    "activity": "Outbound force from the body",
-    "physical": "Pressing away",
-    "spatial": "Motion imparted outward"
+    "activity": "applying force through pressure against a person or thing",
+    "physical": "outward force transmitted through direct contact",
+    "spatial": "movement away from the point of pushing contact"
   }
 }

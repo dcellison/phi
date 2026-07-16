@@ -7,17 +7,24 @@
     "nu"
   ],
   "pos": "verb",
-  "concept": "Put / Place / Position",
-  "description": "To place something deliberately in a specific location—the act that completes carrying or holding, setting an object where it belongs. Putting differs from dropping or releasing in that it chooses the place. Related: 'thola' (bring), 'kolua' (carry), 'pilu' (take).",
-  "sound_symbolism": "'Thi' opens with the soft dental fricative /θ/—the controlled approach of hand to surface. 'Nu' settles the word: the nasal grounds the object and the closed 'u' ends the motion, release followed by rest.",
-  "grammatical_notes": "Functions as a transitive verb in SOV order, with locative phrases before the verb: 'mia soeli nia palu thinu.' (I put the cup on the plate.) Takes locative prepositions ('mua' in, 'nia' on, 'phou' below) to specify placement. Unlike 'kolua' (carry), which describes sustained transport, 'thinu' describes the completed act of positioning.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Placing an object with full attention is a small, repeatable practice: the hand releases, the object rests, the action completes. Putting things down deliberately trains letting go.",
-    "peace-linguistics-practices": "'Thinu' frames placement as arrangement rather than disposal—an object is put where it belongs, not discarded. The word favors care over carelessness in the most ordinary of acts."
-  },
+  "search_terms": [
+    "place",
+    "position",
+    "set down"
+  ],
+  "description": "A cup leaves the hand and comes to rest on the plate. 'thinu' brings a short movement to rest at a stated location or arrangement. 'kolua' (carry) follows support during movement; 'thinu' centres the resulting position.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and raise the tongue into stressed high-front 'i'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with high-back rounded 'u'.",
+  "sound_symbolism": "Air slips through the dental opening of 'th', then voice returns through dental 'n' as the lips round for 'u'. The move from high-front 'i' to the rounded back vowel gives the word a small settling contour.",
+  "usage_notes": "The placed person or object stands before 'thinu'. Its resulting location takes the usual spatial preposition, such as 'mua' (LOC) or 'nia' (ON), before the verb. As a noun, 'thinu' is an act of putting.",
+  "examples": [
+    {
+      "phi": "mia soeli nia palu thinu.",
+      "translation": "I put the cup on the plate."
+    }
+  ],
   "semantic_domains": {
-    "physical": "deliberate action of positioning objects",
-    "spatial": "establishing specific location and arrangement in space",
-    "wisdom": "mindful intention in determining proper placement"
+    "activity": "placing a person or thing in a resulting position",
+    "physical": "moving and releasing a body or object into place",
+    "spatial": "establishing a stated location or arrangement"
   }
 }

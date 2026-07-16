@@ -54,6 +54,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Manner, trajectory, and extended movement | **DONE** | Thirteen inherited base verbs now separate gait, medium, trajectory, orientation, and route structure. The coverage scan found no missing root among the neighbouring everyday motions. |
 | Posture, rest, waiting, and residence | **DONE** | Nine inherited base verbs now use the target prose contract. Bodily posture, recovery, sleep, expectation, continued residence, and the beginning of residence remain distinct without adding a root. |
 | Breath, intake, and expulsion | **DONE** | Nine inherited base verbs now use the target prose contract. Respiration, directed air, eating, drinking, tooth contact, swallowing, coughing, spitting, and vomiting remain distinct. Nausea enters the review queue. |
+| Contact, force, and placement | **DONE** | Seven inherited base verbs now use the target prose contract. Direction of force, compression, friction, launch, interception, and resulting position remain distinct. A direct impact verb enters the review queue. |
 | Resume inherited content prose migration | **NEXT** | Continue with another inherited base noun or verb neighbourhood under the same coverage gate. |
 
 ## Batch overview
@@ -93,6 +94,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Manner, trajectory, and extended movement | [PR #390](https://github.com/dcellison/phi/pull/390) | **COVERED** | Thirteen base verbs separate bodily gait, vertical course, rotation, buoyancy, flow, extended travel, and an unsettled route. Crawling, sinking, sliding, rolling, drifting, and riding remain transparent compositions. |
 | Posture, rest, waiting, and residence | [PR #391](https://github.com/dcellison/phi/pull/391) | **COVERED** | Nine base verbs separate bodily position, rest, sleep, waking, waiting, dwelling, and settlement. Lower or supported postures, brief sleep, temporary residence, and dispute resolution remain transparent compositions. |
 | Breath, intake, and expulsion | [PR #392](https://github.com/dcellison/phi/pull/392) | **REVIEW** | Nine base verbs keep the main bodily routes apart. Chewing, digestion, breath manner, choking, and passive regurgitation compose naturally; nausea remains a distinct subjective state worth testing for direct vocabulary. |
+| Contact, force, and placement | [PR #393](https://github.com/dcellison/phi/pull/393) | **REVIEW** | Seven base verbs distinguish directed pressure, drawing force, compression, friction, placement, launch, and interception. Grasping, lifting, lowering, dropping, dragging, pinching, and scratching compose naturally; a direct word for physical impact remains under review. |
 
 ## Semantic batches and stable domains
 
@@ -135,6 +137,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Manner, trajectory, and extended movement | `activity`, `cognition`, `nature`, `physical`, `spatial`, `temporal` | Bodily support, movement through a medium, vertical course, rotation, continuous current, route planning, and mental wandering remain separate claims. |
 | Posture, rest, waiting, and residence | `activity`, `cognition`, `community`, `nature`, `physical`, `spatial`, `temporal` | Bodily position, recovery, waking awareness, an expected later event, and continuing habitation remain separate claims. |
 | Breath, intake, and expulsion | `activity`, `nature`, `physical`, `ritual` | Respiration, directed airflow, feeding, drinking, oral movement, and health-relevant expulsions remain separate claims. |
+| Contact, force, and placement | `activity`, `physical`, `spatial` | Direction of force, compression, surface friction, launch, interception, and resulting position remain separate claims. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -801,6 +804,26 @@ A child eats soup while a cat drinks from a bowl that was not, strictly speaking
 
 No root is added. Each inherited verb now says what moves and where the act begins, while ordinary composition carries the neighbouring distinctions. Nausea stays visible because a person should not need to claim that they are sick or already vomiting merely to report the feeling beforehand.
 
+## Contact, force, and placement
+
+A hand pushes a stubborn door, pulls a rope, sets down a cup, and catches the spoon that the cup has nudged from the table. Phi does not need one general verb for doing something forceful with a hand; it already tracks the direction and kind of contact.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Pushing, pulling, and direction of force | Base `pesa` (push), `natu` (pull), `kema` (strong), and the spatial relators | **COVERED** | Pushing sends force through pressure and away from its point of contact. Pulling draws through a held or tensioned connection, and can move a wagon without bringing it closer to the puller's body. Manner and path remain separate facts. |
+| Pressing, squeezing, pinching, and compression | Base `pesa`, `peki` (squeeze), `palo` (touch), and the relevant instrument | **COVERED** | A button can be pushed through a small displacement, while squeezing brings pressure inward from opposing directions or around a surface. A pinch narrows that squeeze to a small area; damage from crushing receives its own statement. |
+| Throwing, catching, sending, and flying | Base `wapho` (throw), `kawepa` (catch), `sepho` (send), `wapi` (fly), `howela` (receive), and `phelu` (hold) | **COVERED** | Throwing supplies force and release, catching intercepts the motion, sending causes a journey, and flying follows the unsupported path. Reception and continued holding describe what may happen after arrival. |
+| Putting, placing, carrying, and releasing | Base `thinu` (put), `lokue` (place), `kolua` (carry), and `leiro` (release) | **COVERED** | `thinu` gives a person or thing a resulting location. `lokue` names location itself, carrying supports movement along the way, and release ends a hold without choosing where the released thing comes to rest. |
+| Grasping, taking, holding, and catching | Base `palo`, `pilu` (take), `phelu`, and `kawepa` | **COVERED** | Touch establishes contact, taking begins immediate control, holding maintains it, and catching intercepts something already in motion. An ordinary grasp is the taking or holding relation with the hand or other contact point stated when useful. |
+| Lifting, lowering, and dropping | Base `rihe` (rise), `lepa` (fall), `leiro`, `mulu` (low), and causative `ka` | **COMPOSITIONAL** | Causative `rihe` lifts. A caused descent or change to `mulu` lowers; when support is released and the object falls, the two acts state a drop. |
+| Tugging, hauling, towing, and dragging | Base `natu`, with manner, duration, path, attachment, and means | **COMPOSITIONAL** | A tug is a brief or sharp pull. Once the sentence names what connects the load and whether it stays in ground contact, `natu` also covers hauling, towing, or dragging. |
+| Rubbing, wiping, brushing, scratching, and scraping | Base `rohi` (rub), `hewe` (wipe), `phuri` (brush), `tipika` (fingernail), `keloa` (rough), and `pukeri` (damage) | **COMPOSITIONAL** | Rubbing keeps surfaces sliding under pressure, wiping clears material, and a brush supplies its instrument. A fingernail or rough edge can narrow the contact to a scratch or scrape; any resulting damage is stated separately. |
+| Kicking and force through another body part | Base `pesa`, body-part nouns, instrumental `roe`, and manner words | **COMPOSITIONAL** | A kick that drives something away is a push with the foot as its instrument. A kick delivered as a blow belongs to the impact question below. |
+| Hitting, striking, and physical impact | Base `kema palo` (strong contact), `pesa`, `pukeri`, and `kaworu` (injure) | **REVIEW** | A brief impact is not quite sustained pushing, neutral contact, material damage, or bodily injury. A direct verb could report the event before intent and harm are known, especially in accounts of accidents or interpersonal violence. |
+| Physical catching and English extensions of catch | Base `kawepa`, `hea` (hear), `shelomu` (understand), and Medical `sewaro` (transmit) | **COVERED** | `kawepa` remains physical interception. Hearing or understanding a remark uses its own verb, and illness transmission keeps the participants and route that English hides inside catch. |
+
+No root is added. The seven verbs now divide force by contact pattern and movement result rather than by moral approval. A thrown thing may be seed or a weapon; `wapho` reports the launch and leaves purpose and harm to the surrounding sentence. Physical impact stays open because `kema palo` says strong contact but may understate what happened.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -841,4 +864,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete, and the inherited base migration has now carried ordinary motion into posture and onward through breath, intake, and expulsion. The preceding verb neighbourhoods run from speech and cognition through social action and material circulation. Another 485 inherited base entries remain: 350 nouns and 135 verbs. Module batches remain paused. The next work package will select another coherent base noun or verb neighbourhood under the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, sustained interest or engagement, neutral retraction, and nausea remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete, and the inherited base migration has now carried ordinary motion into posture, breath, and physical manipulation. The preceding verb neighbourhoods run from speech and cognition through social action and material circulation. Another 478 inherited base entries remain: 350 nouns and 128 verbs. Module batches remain paused. The next work package will select another coherent base noun or verb neighbourhood under the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, sustained interest or engagement, neutral retraction, nausea, and a direct physical-impact verb remain recorded review questions rather than hidden gaps.
