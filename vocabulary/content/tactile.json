@@ -8,18 +8,29 @@
     "thu"
   ],
   "pos": "adjective",
-  "concept": "Tactile / Perceivable or Distinguished Through Touch",
-  "description": "Perceivable, readable, or distinguishable through touch. A tactile format may use shape, texture, movement, pressure, or position to carry information. 'palo' (touch) names contact; 'palethu' says touch can do the relevant perceptual work.",
-  "sound_symbolism": "A full lip closure releases 'pa' into broad 'a'. Stressed 'le' lets the tongue flow through balanced 'e', then final 'thu' brings fine breath to the teeth and sinks into deep 'u'. Firm contact becomes liquid motion, then a soft textured close.",
-  "grammatical_notes": "A predicative or attributive adjective: 'ha phelotu palethu nai.' (This format is tactile.) It can modify a marker, surface, signal, map, or communication practice. The quality-noun rule supplies tactility.",
+  "search_terms": [
+    "tactility",
+    "perceptible by touch",
+    "touch-readable"
+  ],
+  "description": "A marker, map, or format is 'palethu' when touch can distinguish the feature or information it carries. Raised shape and changing texture are common means; pressure, position, or movement can do the same work. 'palo' (touch) names contact, while 'palethu' says that contact can support perception.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release them into open central 'a'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and move into stressed true-mid front unrounded 'e'. Rest the tongue tip lightly against the upper teeth for unvoiced 'th', pass air along it, and finish with high rounded back 'u'.",
+  "sound_symbolism": "The lip closure and broad vowel of opening 'pa' are shared with 'palo' (touch). 'palethu' then moves through a lateral into the fine airflow at the teeth, a change of contact that can recall a hand following texture.",
+  "usage_notes": "Before a noun, 'palethu' can modify a marker, map, surface, or communication format. Noun use supplies tactility. The same object may be tactile for one task and merely textured in another.",
+  "examples": [
+    {
+      "phi": "ha phelotu palethu nai.",
+      "translation": "This format is tactile."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Raised line, carved edge, woven change, and warm material let form speak to the hand as deliberately as color speaks to the eye.",
-    "peace-linguistics-practices": "The adjective gives touch equal standing as a way to receive information rather than treating it as a lesser copy of sight."
+    "art-nouveau-aesthetics": "A carved line or woven change lets the hand follow form as deliberately as the eye follows color.",
+    "peace-linguistics-practices": "'palethu' treats touch as an information channel in its own right rather than a lesser copy of sight."
   },
   "semantic_domains": {
-    "aesthetic": "form and texture encountered through touch",
+    "aesthetic": "form deliberately available to touch",
     "cognition": "information distinguished through tactile perception",
-    "physical": "touch as the relevant sensory channel"
+    "physical": "touch used as the sensory channel"
   },
   "modules": [
     "accessibility-and-participation"

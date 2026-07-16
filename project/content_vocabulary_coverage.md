@@ -38,7 +38,8 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Structure, identity, and fit | **DONE** | Seven inherited base adjectives now use the target prose contract. Completion, complexity, difference, sameness, necessity, part-to-whole relation, and contextual fit remain distinct without adding a root. |
 | Imagination, unfamiliarity, wonder, and reverence | **DONE** | Six inherited base adjectives now use the target prose contract. Unfamiliarity, imagined possibility, creative expression, wonder, cherished value, and sacred regard remain distinct without adding a root. |
 | Practical readiness, care, and effort | **DONE** | Six inherited base adjectives now use the target prose contract. Pending status, direct relation, attentive or careless conduct, avoidable reluctance, and condition-bound safety remain distinct without adding a root. |
-| Resume inherited content prose migration | **NEXT** | Continue after practical readiness, care, and effort. Each semantic group passes through this coverage gate. |
+| Access, perception, and independent participation | **DONE** | Eight inherited adjectives now use the target prose contract. Shared-core disability and seven Accessibility module qualities keep access, practical use, support, self-direction, and sensory availability distinct without adding a root. |
+| Resume inherited content prose migration | **NEXT** | Continue after access, perception, and independent participation. Each semantic group passes through this coverage gate. |
 
 ## Batch overview
 
@@ -62,6 +63,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Structure, identity, and fit | [PR #375](https://github.com/dcellison/phi/pull/375) | **COVERED** | The seven roots keep required completion, structural complexity, comparison, indispensable conditions, integral parts, and contextual suitability apart. Similarity, partiality, complicatedness, and unsuitable fit remain natural compositions. |
 | Imagination, unfamiliarity, wonder, and reverence | [PR #376](https://github.com/dcellison/phi/pull/376) | **COVERED** | The six roots keep unfamiliar encounter, imagined possibility, creative expression, exceeded expectation, cherished value, and sacred regard apart. Familiarity, originality, awe, importance, and non-sacred status remain natural compositions. |
 | Practical readiness, care, and effort | [PR #377](https://github.com/dcellison/phi/pull/377) | **COVERED** | The six roots keep open status, directness, care, effort, and safety apart. Readiness, availability, delay, diligence, negligence, recklessness, and felt safety remain explicit compositions rather than hidden senses. |
+| Access, perception, and independent participation | PR pending | **COVERED** | The eight roots keep access to an activity, operation at the point of use, support, disability, self-direction, and sensory availability apart. Negative qualities, visible availability, interdependence, and exact legal or technical classifications remain ordinary compositions or source material. |
 
 ## Semantic batches and stable domains
 
@@ -89,6 +91,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Structure, identity, and fit | `activity`, `cognition`, `creation`, `nature`, `physical`, `wisdom` | Completion under a criterion, multi-part arrangement, comparative identity, indispensable conditions, integral components, and contextual suitability remain separate claims. |
 | Imagination, unfamiliarity, wonder, and reverence | `cognition`, `community`, `creation`, `emotion`, `ritual` | What a person has not met, what a mind can envision, what appears in a work, and what receives personal or shared regard remain separate claims. |
 | Practical readiness, care, and effort | `activity`, `cognition`, `communication`, `community`, `physical`, `spatial`, `temporal` | Open status, route, attention, willingness to exert effort, and safety under present conditions remain separate claims. |
+| Access, perception, and independent participation | `activity`, `aesthetic`, `cognition`, `communication`, `community`, `creation`, `physical`, `spatial` | Reaching an activity, operating what has been provided, receiving support, directing one's act, and distinguishing information through a sensory channel remain separate claims. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -468,6 +471,26 @@ Six base adjectives cover a matter awaiting its next move, a route or answer wit
 
 No root is added. A repair can be pending because a part has not arrived even when every other preparation is complete. Someone may work slowly and carefully, rest without laziness, or speak directly without being harsh; a path remains safe only for the people, use, and conditions that make the claim true.
 
+## Access, perception, and independent participation
+
+Eight adjectives cover the relation between a person and an activity. They distinguish access from actual use, assistance from self-direction, and sensory availability from reception. One also names disabled identity or lived relation. Seven belong to the Accessibility and Participation module; `sowelu` remains in base vocabulary because disability should not require optional study to name.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Access, accessibility, barriers, participation, and inclusion | Accessibility `ruweli` (access), `lokane` (accessible), and `kopharu` (barrier), with base `pawela` (participate) and `pharune` (include) | **COVERED** | Access reaches or opens use, accessibility judges the relation under stated conditions, a barrier obstructs it, participation begins with taking part, and inclusion concerns the boundary of a group or activity. |
+| Accessible, usable, available, and compatible | `lokane` (accessible), `kelasu` (usable), the availability constructions recorded in the preceding batch, and `thosami` (compatible) | **COVERED** | A person may reach an opportunity that fails at the point of use. Availability says what is present or free, while compatibility tests whether selected things work together. |
+| Assistive, help, support, and accommodation | Accessibility `naphelu` (assistive) and `hinawu` (accommodate), with base `naphe` (help) and `panoru` (support) | **COVERED** | Assistive describes the role of a device or practice, help is an act of aid, support holds up an activity, and accommodation changes the conditions of access. |
+| Disabled, impairment, sick, and unable | Base `sowelu` (disabled), Accessibility `murethi` (impairment), `mokela` (sick), and possibility `po` with negation | **COVERED** | Disability may be identity or a lived relation with barriers. Impairment describes function, sickness reports health, and inability concerns whether the particular act is possible. |
+| Independent, alone, free, dependent, and interdependent | Accessibility `ralemi` (independent), `sonu` (alone), `ralu` (free), Systems `pherami` (depend), and explicit shared support or reciprocal dependence | **COMPOSITIONAL** | Independence asks who directs the act, solitude asks who is present, and freedom asks whether a constraint closes the course. Technical or mutual dependence states the relation and what it requires. |
+| Audible, loud, heard, and listened to | Accessibility `hewasu` (audible), `theisa` (loud), `hea` (hear), and `sheluo` (listen) | **COVERED** | Audibility concerns what a stated listener can distinguish. Loudness is perceived intensity, hearing reports reception, and listening adds directed attention. |
+| Legible, read, clear, understood, and accurate | Accessibility `thewuni` (legible), `theo` (read), `nuwi` (clear), `shelomu` (understand), and `telua` (accurate) | **COVERED** | Legibility reaches readable marks. Reading is the act, clarity concerns what can be followed, understanding belongs to the reader, and accuracy compares content with a reference. |
+| Tactile, touch, felt experience, and texture | Accessibility `palethu` (tactile), `palo` (touch), `phaelo` (feel), and the ordinary surface-quality adjectives | **COVERED** | Tactile information is distinguishable through contact, touch is the contact itself, feeling reports the experience, and texture describes the surface encountered. |
+| Visible, perceivable, and multimodal | `po nila` (can see), `morae` (sense), Accessibility `phelotu` (format), and the relevant audible, tactile, or legible quality | **COMPOSITIONAL** | Ordinary grammar says that someone can see a thing. Broader perception can name the channel or combine formats without adding a general visible adjective beside every sensory quality. |
+| Inaccessible, unusable, inaudible, and illegible | Negation with the corresponding adjective, followed by the person, activity, or condition when it matters | **COMPOSITIONAL** | The negative forms preserve the same relational claim and do not require four inverse roots. A barrier or failed use can then be named directly. |
+| Legal status, standards conformance, and certified accessibility | The practical Phi quality beside the exact source term, standard, measurement, or decision | **DEFERRED** | A broad adjective cannot reproduce a jurisdiction's legal test or a standard's test method. The source keeps that authority while Phi describes the access relation around it. |
+
+The gate adds no root. A doorway can be reachable while the tool beyond it resists use. A person can work independently with an assistive device, and a page may be legible without being clear or accurate.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -508,4 +531,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete, and the inherited content prose migration has now reached the end of practical readiness, care, and effort. The next semantic neighbourhood starts from here with the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete, and the inherited content prose migration has now reached the end of access, perception, and independent participation. The next semantic neighbourhood starts from here with the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.

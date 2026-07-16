@@ -8,17 +8,26 @@
     "lu"
   ],
   "pos": "adjective",
-  "concept": "Disabled / Disability as Identity or Lived Relation",
-  "description": "Describing a person who identifies with disability or whose participation is restricted through the interaction of personal characteristics and barriers. The word may name an identity, a lived condition, or both, and the person's own wording controls its use; disability does not require sickness or a treatment goal.",
-  "sound_symbolism": "Soft 'so' begins with a rounded hiss. The stress falls on 'we', where the lips remain round and the vowel opens into balanced 'e'. Final 'lu' releases the tongue and descends into deep 'u'. Each syllable flows smoothly into the next.",
-  "grammatical_notes": "An adjective that may also name disability through the quality-noun rule: 'mia sowelu nai.' (I am disabled.) It can modify 'miona' (person) when relevant. Exact community, legal, cultural, or personal identity terms remain separately preserved when this broad word would lose their meaning.",
+  "search_terms": [
+    "disability",
+    "disability identity"
+  ],
+  "description": "'sowelu' applies to a person who names disability as part of identity or whose participation is restricted by the relation between personal characteristics and barriers. It can carry identity, lived relation, or both. 'murethi' (impairment) identifies a functional difference, while 'mokela' (sick) reports illness; neither decides whether a person is disabled.",
+  "articulatory_notes": "Raise the tongue blade towards the alveolar ridge for unvoiced 's', direct air through the narrow channel, and round the lips into true-mid back 'o'. Keep the lips rounded and the back of the tongue raised for voiced 'w', then unround into stressed true-mid front 'e'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and finish with high rounded back 'u'.",
+  "usage_notes": "When it is known, the person's own wording governs the choice. In noun position, 'sowelu' is disability; before 'miona' (person), it means a disabled person. Exact identity and legal terms remain in source form when the broad Phi word would lose their meaning.",
+  "examples": [
+    {
+      "phi": "mia sowelu nai.",
+      "translation": "I am disabled."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Designing common life around varied bodies and minds begins by allowing disability to be named without locating every barrier inside the person.",
-    "peace-linguistics-practices": "A core word lets a person name disability directly instead of accepting a diagnosis-shaped paraphrase or another speaker's euphemism."
+    "solarpunk-values": "A ramp changes participation without changing the person's body; the word leaves room for that relation.",
+    "peace-linguistics-practices": "A person can name disability directly without accepting illness as a substitute."
   },
   "semantic_domains": {
-    "cognition": "disability involving cognitive access or identity",
-    "community": "an identity and relation shaped by participation barriers",
-    "physical": "disability involving bodily or sensory access"
+    "cognition": "cognitive disability and its relation to access",
+    "community": "disabled identity and participation in relation to barriers",
+    "physical": "bodily or sensory disability and its relation to access"
   }
 }

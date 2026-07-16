@@ -8,18 +8,28 @@
     "su"
   ],
   "pos": "adjective",
-  "concept": "Usable / Able to Perform a Stated Purpose in Practice",
-  "description": "Able to be operated or used for a stated purpose by a stated person under the relevant conditions. Something can be available yet confusing, painful, unreliable, or otherwise unusable in practice. 'lokane' (accessible) includes reaching the opportunity for use; 'kelasu' begins at the point of use itself.",
-  "sound_symbolism": "Crisp 'ke' releases at the velum into balanced 'e'. The tongue flows through stressed 'la' and the word's broadest vowel. Final 'su' narrows the air to a hiss before dropping into deep 'u'. A clean opening loosens in the middle, then gathers at the end.",
-  "grammatical_notes": "A predicative or attributive adjective: 'ha keli kelasu nai.' (This device is usable.) The clause can name the user, purpose, conditions, and evidence. The quality-noun rule supplies usability as a property under those limits.",
+  "search_terms": [
+    "usability",
+    "can be used",
+    "operable"
+  ],
+  "description": "A tool, process, or interface is 'kelasu' when the person in question can carry out its intended purpose in actual use. Provision does not settle the claim: a device on the table may still be painful or confusing to operate. 'lokane' (accessible) includes reaching the opportunity; 'kelasu' begins when use starts.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release it into true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and open into stressed central 'a'. Raise the tongue blade towards the alveolar ridge for unvoiced 's', direct air through the narrow channel, and finish with high rounded back 'u'.",
+  "sound_symbolism": "The velar release and following lateral in 'kelasu' echo the opening consonants of 'keli' (device). The form then opens through stressed 'la' and narrows into final 'su', a compact contour for a word often tested at the point where a tool meets use.",
+  "usage_notes": "'kelasu' can modify the thing being used or follow it with 'nai' (be); as a noun, the form is usability. The user and purpose return when the claim is disputed. A source standard, rather than the broad quality, supplies exact conformance.",
+  "examples": [
+    {
+      "phi": "ha keli kelasu nai.",
+      "translation": "This device is usable."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Repairable community tools matter only when people can operate them for the work they actually need to do.",
-    "peace-linguistics-practices": "The adjective gives a person a plain way to challenge the claim that provision alone solved the problem."
+    "solarpunk-values": "A repaired community tool earns the description when people can put it back to work, not when it merely returns to the shelf.",
+    "peace-linguistics-practices": "Someone can say a provided tool is unusable without having that experience recast as refusal."
   },
   "semantic_domains": {
-    "activity": "practical use for a stated person and purpose",
-    "cognition": "use that remains understandable enough to carry through",
-    "creation": "a designed object or process that can be operated in practice"
+    "activity": "a person able to carry out an intended purpose with a thing or process",
+    "creation": "a made object or interface that can be operated in practice"
   },
   "modules": [
     "accessibility-and-participation"

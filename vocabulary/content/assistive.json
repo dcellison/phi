@@ -8,18 +8,29 @@
     "lu"
   ],
   "pos": "adjective",
-  "concept": "Assistive / Supporting a Chosen Function or Access Need",
-  "description": "Designed or used to support a person's chosen activity, function, or access requirement. A device, communication practice, or arrangement may be assistive in one context and ordinary in another; 'naphe' (help) names an act of aid, while 'naphelu' marks the supporting role something has.",
-  "sound_symbolism": "Dental 'na' opens broadly with a steady nasal resonance. Stressed 'phe' brings unvoiced breath to the lips and repeats the second half of 'naphe' (help). Final 'lu' releases the tongue into deep 'u'. The complete sound of 'naphe' leads into a low liquid continuation.",
-  "grammatical_notes": "A predicative or attributive adjective: 'ha keli naphelu nai.' (This device is assistive.) It commonly modifies 'keli' (device), 'norae' (method), or 'phelotu' (format). The quality-noun rule supplies assistiveness when the property itself is discussed.",
+  "search_terms": [
+    "assistive technology",
+    "access aid",
+    "adaptive support"
+  ],
+  "description": "A device, practice, or arrangement is 'naphelu' when it supports a function or activity chosen by the person using it. A cane may be assistive on a journey; a phone may take that role in a conversation. 'naphe' (help) is an act of aid, while 'naphelu' marks the support's role in context.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and open into central 'a'. Bring the lips close without sealing them for unvoiced 'ph', pass air through the gap, and move into stressed true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and finish with high rounded back 'u'.",
+  "sound_symbolism": "The full sound of 'naphe' (help) remains audible before final 'lu'. That deliberate kinship makes the supporting role easier to remember without turning '-lu' into a productive suffix.",
+  "usage_notes": "The adjective often modifies 'keli' (device), 'norae' (method), or 'phelotu' (format), and it can also stand as a predicate. In noun position, it refers to assistiveness.",
+  "examples": [
+    {
+      "phi": "ha keli naphelu nai.",
+      "translation": "This device is assistive."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "A tool earns the description through the function and access it supports, whether it is handmade, digital, shared, or personal.",
-    "peace-linguistics-practices": "Calling a device assistive describes its role without making its user passive or granting anyone authority over its use."
+    "solarpunk-values": "An ordinary tool can become assistive through a careful alteration or a new use chosen by the person who needs it.",
+    "peace-linguistics-practices": "The adjective keeps direction with the user: assistance is support, not a transfer of authority."
   },
   "semantic_domains": {
-    "activity": "supporting a chosen function or action",
-    "creation": "a device or practice shaped for an access purpose",
-    "physical": "support for bodily or sensory access"
+    "activity": "a device or practice supporting a chosen action",
+    "creation": "a tool or arrangement shaped for an access purpose",
+    "physical": "support for a bodily or sensory function"
   },
   "modules": [
     "accessibility-and-participation"

@@ -8,17 +8,28 @@
     "mi"
   ],
   "pos": "adjective",
-  "concept": "Independent / Acting Under One's Own Direction",
-  "description": "Acting under one's own direction without another person substituting their will or withholding permission needed for the act. Independence can include a device, chosen assistance, or interdependence with others. 'sonu' (alone) describes company; 'ralemi' describes control over the action.",
-  "sound_symbolism": "Open 'ra' rolls the tongue through broad 'a'. Stressed 'le' continues that liquid motion in a quieter, balanced vowel before final 'mi' closes the lips and rises to bright 'i'. Two flowing syllables lead to one small, centered finish.",
-  "grammatical_notes": "A predicative or attributive adjective: 'shia ralemi nai.' (They are independent.) The surrounding phrase can name the activity and the support involved. The quality-noun rule supplies independence without implying isolation.",
+  "search_terms": [
+    "independence",
+    "self-directed",
+    "autonomous"
+  ],
+  "description": "With 'ralemi', an action remains under the person's own direction. Another person may assist, and a device or shared system may make the action possible, without taking over the choice that guides it. 'sonu' (alone) concerns company; 'ralu' (free) concerns an absent constraint.",
+  "articulatory_notes": "Make a tap or short trill with the tongue tip for 'r' and open into central 'a'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and move into stressed true-mid front unrounded 'e'. Close the lips for voiced nasal 'm', carry the voice through the nose, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "'ralemi' and 'ralu' (free) share an opening tap followed by a lateral. The audible kinship suits two related questions: who directs an action, and whether a constraint closes it. Their different endings keep the answers apart.",
+  "usage_notes": "The surrounding phrase can name the activity and any chosen support. Independence follows by ordinary noun use. For whether a system relies on a component, 'pherami' (depend) with negation states the technical relation more exactly.",
+  "examples": [
+    {
+      "phi": "mia roe ha naphelu keli ralemi nai.",
+      "translation": "I am independent using this assistive device."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Shared tools and mutual aid can increase independence when the person using them keeps direction over the act.",
-    "peace-linguistics-practices": "The word denies helpers an easy equation between receiving assistance and surrendering choice."
+    "solarpunk-values": "A shared ramp or device can increase independence when the person using it keeps direction over the act.",
+    "peace-linguistics-practices": "Receiving assistance does not by itself surrender direction; the word keeps those questions separate."
   },
   "semantic_domains": {
-    "activity": "acting under one's own direction",
-    "community": "agency that can coexist with chosen support"
+    "activity": "an action directed by the person carrying it out",
+    "community": "personal agency exercised with or without chosen support"
   },
   "modules": [
     "accessibility-and-participation"
