@@ -8,16 +8,22 @@
     "nu"
   ],
   "pos": "adjective",
-  "concept": "Tame / Domesticated / Accustomed to Humans",
-  "description": "Not dangerous or frightened of people; domesticated or gentle through familiarity. 'Woenu' names the quality of tameness—the trust built between species, wildness gentled through relationship.",
-  "sound_symbolism": "The word settles near. 'Wo' begins with gentle approach, wariness fading. The vowel 'e' opens to trust, fear releasing. Then 'nu' rests in proximity, tameness achieved.",
-  "grammatical_notes": "Functions as an adjective: 'woenu nolika' (tame animal). Predicative: 'ha nolika woenu nai.' (This animal is tame.) Opposite of 'waeshi' (wild). Implies relationship and trust rather than control.",
-  "pillars": {
-    "peace-linguistics-practices": "Tame presence calms—gentled beings create safety through their ease.",
-    "pre-industrial-wisdom": "Tame animals were partners—domestication created mutual relationships, not mere dominion."
-  },
+  "search_terms": [
+    "accustomed to humans",
+    "habituated animal"
+  ],
+  "description": "An animal is 'woenu' when familiarity has accustomed it to human presence or handling. Tameness belongs to an individual animal's present relation with people, whereas domestication describes the longer history of a population. 'moli' (gentle) and 'shurano' (safe) remain separate judgements.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then open into true-mid rounded back 'o'. Release the rounding and move into a separate stressed true-mid front 'e', keeping the 'o.e' hiatus clear. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with high-back rounded 'u'.",
+  "sound_symbolism": "The first two syllables share the open 'wo.e' contour of 'woeli' (natural), but the final dental nasal closes the distance before rounded 'u'. That settling motion suggests an animal remaining nearby instead of withdrawing.",
+  "usage_notes": "The adjective normally applies to an animal, as in 'woenu nolika' (tame animal). People are better described through the actions and relations they choose.",
+  "examples": [
+    {
+      "phi": "ha nolika woenu nai.",
+      "translation": "This animal is tame."
+    }
+  ],
   "semantic_domains": {
-    "community": "Human-animal bond",
-    "nature": "Domesticated"
+    "community": "an individual animal's accustomed proximity to people",
+    "nature": "animal behaviour changed through familiarity with human presence or handling"
   }
 }

@@ -34,7 +34,8 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Semantic-domain contract and target-entry audit | **DONE** | [PR #368](https://github.com/dcellison/phi/pull/368) establishes the fifteen-domain browse catalogue and checks all 133 target-contract content entries against its retrieval rule. |
 | Social relation, standing, and personal boundaries | **DONE** | Eleven inherited base adjectives now use the target prose contract. Public status and betrayal remain deliberate compositions because their ordinary English senses divide across different Phi relations. |
 | Life, age, and bodily condition | **DONE** | Fourteen inherited base adjectives now use the target prose contract. The scan keeps living state, age, health, illness, bodily need, and fatigue apart without adding a root. |
-| Resume inherited content prose migration | **NEXT** | Continue after life, age, and bodily condition. Each semantic group passes through this coverage gate. |
+| Cultivation, abundance, and wildness | **DONE** | Seven inherited base adjectives now use the target prose contract. Plenty, fertility, actual yield, natural development, tameness, wildness, and practical cleanliness remain distinct without adding a root. |
+| Resume inherited content prose migration | **NEXT** | Continue after cultivation, abundance, and wildness. Each semantic group passes through this coverage gate. |
 
 ## Batch overview
 
@@ -54,6 +55,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Affective response, anticipation, and resolve | [PR #371](https://github.com/dcellison/phi/pull/371) | **REVIEW** | Existing words keep the main distinctions apart. Repeated corpus paraphrases show that sustained interest or engagement needs its own connected-use test. |
 | Social relation, standing, and personal boundaries | [PR #372](https://github.com/dcellison/phi/pull/372) | **COVERED** | Company, reciprocity, equal standing, self-presentation, agency, privacy, and interpersonal warmth remain distinct. No new root follows from the coverage pass. |
 | Life, age, and bodily condition | [PR #373](https://github.com/dcellison/phi/pull/373) | **COVERED** | The life arc, newness, present wellness, classified illness, hunger, thirst, and weariness remain distinct. Phi already has settled or natural constructions for dead, newborn, satiated, exhausted, and sleepy. |
+| Cultivation, abundance, and wildness | PR pending | **COVERED** | Quantity, capacity for growth, actual yield, origin, human habituation, life outside cultivation, and ordinary cleanliness keep separate words. Scarcity, artificial origin, dirt, and exact sanitation remain compositions or source-level distinctions. |
 
 ## Semantic batches and stable domains
 
@@ -77,6 +79,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Affective response, anticipation, and resolve | `emotion`, `activity`, `temporal`, `cognition`, `community`, `physical` | A felt response, readiness to act, bodily arousal, and a judgement about reconsideration remain distinct. |
 | Social relation, standing, and personal boundaries | `activity`, `communication`, `community`, `emotion`, `ethics`, `physical`, `quantity`, `spatial`, `wisdom` | Shared action, reciprocal relation, equal measure, personal agency, access, and displayed manner remain separate claims. |
 | Life, age, and bodily condition | `nature`, `physical`, `temporal`, `creation`, `cognition`, `community` | Living state, developmental stage, recency, health, self-report, and reduced capacity remain separate claims. |
+| Cultivation, abundance, and wildness | `nature`, `physical`, `quantity`, `activity`, `creation`, `community` | Available plenty, capacity for growth, actual result, natural origin, ecological history, human familiarity, and cleanliness remain separate claims. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -375,6 +378,27 @@ Fourteen base adjectives sit across the life arc and the body's ordinary reports
 
 No root is added. A person who has died remains `rena to lumeo`, and finer life stages use the stage and event already meant. Hunger, thirst, exhaustion, and sleepiness likewise keep the bodily need visible instead of replacing it with a broader label.
 
+## Cultivation, abundance, and wildness
+
+Seven base adjectives describe what a place can support, what it currently yields, how life relates to cultivation, and whether an object is clean for use. The coverage test keeps potential apart from result. Naturalness, wildness, and cleanliness stay practical descriptions rather than moral verdicts.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Abundance, large number, sufficiency, and fullness | `lorua` (abundant), `sheloi` (MANY), `henoi` (enough), and `pheno` (full) | **COVERED** | Abundance judges available plenty against a place, time, or need. Many counts a large number, enough meets a requirement, and full concerns a bounded capacity. |
+| Scarcity and lack | `phina` (FEW), negated `henoi` (enough), `whemoa` (empty), and the resource and need under discussion | **COMPOSITIONAL** | Scarcity becomes a testable relation when Phi says what is insufficient, for whom, where, and when. Canon therefore keeps it out of labels for classes of people. |
+| Fertility, growth, productivity, and present plenty | `muroa` (fertile), `thuroa` (grow), `poru` (productive), and `lorua` (abundant) | **COVERED** | Fertility is capacity to support growth or reproduction, growth is a process, productivity reports actual useful result, and abundance reports what is available now. |
+| Infertile, barren, and sterile | Negated `muroa`, the subject and conditions under discussion, and exact medical or technical source language | **COMPOSITIONAL** | Ordinary speech can deny fertility without deciding whether soil, weather, biology, or treatment caused the result. A clinical diagnosis or sterility standard keeps its source precision. |
+| Productivity, efficiency, and output | `poru` (productive), Systems `poruli` (efficient), and Systems `thirulo` (output) | **COVERED** | Productive describes a process that reaches useful or intended results. Efficient compares those results with resources used, while output names the result itself. |
+| Productivity, rest, and human worth | `poru` (productive), `therilu` (rest), `rolia` (worth), and the activity or period being described | **COVERED** | Phi can assess whether a period or process yielded results without turning output into a person's worth. Rest remains part of living and working rather than a failed unit of production. |
+| Natural, organic, and wild | `woeli` (natural), Ecological `shaemu` (organic), and `waeshi` (wild) | **COVERED** | Natural concerns origin or development from a thing's own conditions, organic concerns living origin or growth-formed material, and wild concerns life outside cultivation or domestication. |
+| Artificial or deliberately made | Negated `woeli`, `pilewa` (make), `kealo` (create), and the material or process involved | **COMPOSITIONAL** | A Phi clause can say who made or shaped something and how. Exact product, material, and regulatory classifications remain with their source when the category carries technical force. |
+| Wild, tame, domesticated, and free | `waeshi` (wild), `woenu` (tame), `ralu` (free), and clauses about cultivation or population history | **COVERED** | Wildness records ecological relation, tameness records an individual animal's familiarity with people, and freedom concerns available action. Domestication is a population history and can be stated when it matters. |
+| Clean, pure, polluted, and safe | `hiso` (clean), `shiloa` (pure), Ecological `pesenu` (pollute), and `shurano` (safe) | **COVERED** | Cleanliness is practical freedom from unwanted matter for a present use. Purity concerns composition, pollution concerns impairment of surroundings, and safety concerns risk. |
+| Dirty or soiled | Negated `hiso`, the unwanted matter, and actions such as `sawa` (wash) | **COMPOSITIONAL** | Ordinary use can say that an object is not clean and name mud, dust, residue, or another obstruction when it matters. Naming the material is more useful than hiding it behind a broad dirt adjective. |
+| Sanitation, contamination, and sterility | Household sanitation terms, Ecological and Medical module vocabulary, exact procedures, and source standards | **DEFERRED** | `hiso` is enough for ordinary cleanliness. Medical asepsis, contaminant thresholds, and sanitation procedures need the relevant module vocabulary or exact instructions rather than a stronger base adjective guessed from appearance. |
+
+No root is added. The existing words already let a speaker distinguish a field ready to grow from a garden that actually yields, and a wild animal from a tame one without treating either as morally better. `hiso` stays an ordinary working judgement; the stronger claims name pollution, purity, risk, or a sourced standard directly.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -415,4 +439,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete, and the inherited content prose migration has now reached the end of life, age, and bodily condition. The next semantic neighbourhood starts from here with the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete, and the inherited content prose migration has now reached the end of cultivation, abundance, and wildness. The next semantic neighbourhood starts from here with the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.

@@ -8,16 +8,27 @@
     "a"
   ],
   "pos": "adjective",
-  "concept": "Abundant / Plentiful / More Than Enough",
-  "description": "Existing or available in large quantities; plentiful beyond need. 'Lorua' names the quality of overflow—harvests that exceed need, generosity that keeps giving, life that produces more than it consumes.",
-  "sound_symbolism": "The word overflows with plenty. 'Lo' begins laden, already holding much. Then 'ru' rolls with more arriving, overflow building. Finally 'a' opens to expansion, abundance spreading.",
-  "grammatical_notes": "Functions as an adjective: 'lorua lureko' (abundant fruit). Stronger than 'pheno' (full)—abundance implies excess beyond capacity, plenty to share.",
+  "search_terms": [
+    "plentiful",
+    "plenty",
+    "more than enough"
+  ],
+  "description": "'lorua' describes something plentiful relative to the place, time, or need under discussion. An abundant harvest may provide enough to store or share; who receives that plenty is a separate question. 'sheloi' (MANY) counts a large number, 'henoi' (enough) meets a requirement, and 'pheno' (full) fills a capacity. 'lorua' concerns the plenty available.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for lateral 'l', let the voice pass along its sides, and open into true-mid rounded back 'o'. Make a tap or short trill for 'r', then raise the back of the tongue into stressed high rounded 'u'. Lower the tongue and release the lip rounding for final open central 'a', keeping it in its own syllable across the 'u.a' hiatus.",
+  "sound_symbolism": "The word begins rounded, gathers its stress on 'ru', and then opens fully into final 'a'. The widening finish makes a useful bodily mnemonic for provisions extending beyond the immediate need.",
+  "usage_notes": "The noun use means abundance. A phrase such as 'lorua lureko' means abundant fruit; the noun or situation being described supplies the relevant scale.",
+  "examples": [
+    {
+      "phi": "ha thepalu lo lorua lureko phelu.",
+      "translation": "This garden holds abundant fruit."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Abundance thinking replaces scarcity—nature produces abundantly when systems are healthy, and human systems can too.",
-    "pre-industrial-wisdom": "Abundant harvests were celebrated—the overflow that allowed feasting, sharing, and provision for hard times."
+    "solarpunk-values": "An abundant harvest can meet present need and leave something to share or store. Distribution remains a separate community choice, which keeps plenty from being mistaken for fairness.",
+    "pre-industrial-wisdom": "A harvest beyond immediate need permits winter stores, seed for another season, and a meal shared now."
   },
   "semantic_domains": {
-    "community": "More than enough",
-    "nature": "Plentiful supply"
+    "nature": "plentiful growth, water, food, or other provisions in a living system",
+    "quantity": "a supply large in relation to the scale or need under discussion"
   }
 }

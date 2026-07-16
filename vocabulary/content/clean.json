@@ -7,16 +7,25 @@
     "so"
   ],
   "pos": "adjective",
-  "concept": "Clean / Free from Dirt / Purified",
-  "description": "Free from dirt, marks, or unwanted matter; having been washed or purified. 'Hiso' names the quality of cleanliness—surfaces without soil, water without pollution, states of being without contamination.",
-  "sound_symbolism": "The word clears and refreshes. 'Hi' begins with open breath, air clean. Then 'so' sweeps smoothly, dirt removed.",
-  "grammatical_notes": "An adjective: 'hiso phialu' (clean water). Cleanliness, the noun, comes by the quality-noun rule; cleaning is caused becoming — 'mia noru hiso ka kelu.' (I clean the bowl.) Related to 'shiloa' (pure) but more practical—about physical cleanliness rather than essential purity.",
+  "search_terms": [
+    "cleanliness",
+    "free of unwanted matter",
+    "washed"
+  ],
+  "description": "A surface, object, or material is 'hiso' when it is free of the unwanted matter or residue relevant to its present use. A bowl can be clean enough for a meal whatever the purity of its material. 'shiloa' (pure) concerns composition and 'pesenu' (pollute) concerns impaired surroundings; risk belongs to 'shurano' (safe).",
+  "articulatory_notes": "Let unvoiced air pass through the open glottis for 'h' and continue into stressed high-front unrounded 'i'. Raise the tongue blade towards the alveolar ridge for unvoiced 's', keep the narrow airflow moving, and round the lips into true-mid back 'o'.",
+  "sound_symbolism": "Unvoiced air continues through both consonants, first openly at 'h' and then through the narrow channel of 's'. The uninterrupted breath can recall a cloth passing across a surface in one clean stroke.",
+  "usage_notes": "Cleanliness comes from the quality-noun rule. Caused becoming gives 'hiso ka kelu' (clean), while 'sawa' (wash) names cleaning with water.",
+  "examples": [
+    {
+      "phi": "ha noru hiso nai.",
+      "translation": "This bowl is clean."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Clean water, clean air, clean soil—the foundations of healthy ecosystems and communities.",
-    "secular-buddhist-philosophy": "Clean surroundings support clean mind—environment and awareness influence each other."
+    "solarpunk-values": "Clean water and soil are shared conditions of daily life. Where pollution or toxicity matters, Phi uses the stronger words that identify them."
   },
   "semantic_domains": {
-    "physical": "Free from dirt",
-    "wisdom": "Clarity of state"
+    "physical": "surfaces, objects, or materials free of unwanted matter for their present use"
   }
 }

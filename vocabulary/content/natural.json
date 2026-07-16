@@ -8,16 +8,25 @@
     "li"
   ],
   "pos": "adjective",
-  "concept": "Natural / Of Nature / Unartificial",
-  "description": "Existing in or derived from nature; not made or caused by humankind. 'Woeli' names the quality of belonging to the living world—authentic, unforced, arising from the patterns of nature rather than human imposition.",
-  "sound_symbolism": "The word grows from earth. 'Wo' begins with organic roundness, nature's curves. The vowel hiatus 'o.e' opens to authenticity, nothing hidden. Then 'li' lives with liquid aliveness, the natural state.",
-  "grammatical_notes": "Functions as an adjective: 'woeli pelowa' (natural meadow). Related to 'shaemu' (organic) but broader—includes all that belongs to nature's patterns.",
+  "search_terms": [
+    "unforced",
+    "naturally occurring",
+    "arising from its own conditions"
+  ],
+  "description": "Something is 'woeli' when it arises from nature or follows a being's or system's own conditions rather than deliberate shaping. It can describe a meadow, an unforced manner, or a capacity that develops without being imposed. Naturalness brings no automatic claim of goodness or safety; 'shaemu' (organic) is narrower and concerns living origin or growth-formed material, while 'waeshi' (wild) records how a life or place relates to deliberate human tending.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then open into true-mid rounded back 'o'. Release the rounding and move the tongue forward into a separate stressed true-mid 'e', preserving the 'o.e' hiatus. Touch the tongue tip to the alveolar ridge for lateral 'l', let the voice pass along its sides, and finish on high-front unrounded 'i'.",
+  "sound_symbolism": "The rounded opening passes across a clear hiatus before the lateral finish. The contour unfolds without a stop consonant, which can make 'woeli' feel unforced in the mouth.",
+  "usage_notes": "As a noun, 'woeli' means naturalness. Context decides whether the word describes natural origin, an unforced manner, or development arising from the subject's own conditions.",
+  "examples": [
+    {
+      "phi": "ha pelowa woeli nai.",
+      "translation": "This meadow is natural."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Natural systems provide models for sustainable design—biomimicry learns from nature's solutions.",
-    "pre-industrial-wisdom": "Traditional life aligned with natural patterns—natural materials, natural rhythms, natural relationships."
+    "solarpunk-values": "A designer may learn from a natural pattern without treating nature as an automatic verdict; observation comes before imitation."
   },
   "semantic_domains": {
-    "nature": "Of the living world",
-    "wisdom": "Authentic quality"
+    "nature": "origins, patterns, or development arising from nature or from their own conditions"
   }
 }
