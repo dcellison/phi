@@ -8,13 +8,13 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (181)
+## activity (184)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `hasenu` | recess | a pause held inside a larger proceeding |
 | `hasi` | wait | The stillness that stays ready |
-| `hasoru` | pending | work or decision status awaiting a condition |
+| `hasoru` | pending | a task, request, or decision awaiting its next action or condition |
 | `hekawi` | find | The forager's and searcher's verb |
 | `helaki` | amend | formally changing part of a continuing rule or record |
 | `helolu` | redress | acting to address a stated institutional or social harm |
@@ -61,6 +61,7 @@
 | `morume` | decompose | biological or chemical breakdown of material |
 | `muholi` | dig | Earth-work |
 | `mukesi` | spoil | loss of suitability for an intended practical use |
+| `muko` | careless | an action performed without attention reasonably available for avoiding mistakes or harm |
 | `muphera` | stock | items held for future practical use |
 | `muro` | stubborn | persistence in a course despite reasons to adjust it |
 | `napako` | bake | cooking food through surrounding dry heat |
@@ -159,6 +160,7 @@
 | `therapi` | boil | heating liquid to sustained bubbling |
 | `therilu` | rest | fundamental human activity of resting |
 | `therua` | eager | readiness to begin or join a wanted action |
+| `thesa` | careful | an action performed with attention to relevant mistakes or harmful consequences |
 | `thesani` | skill | a learned capacity for practical action |
 | `thimelo` | pace | rate and rhythm of a continuing action |
 | `thimora` | schedule | an intended arrangement of actions or events |
@@ -182,6 +184,7 @@
 | `wephari` | coordinate | arranging dependent work relations |
 | `wepu` | go | basic human action of departure and locomotion |
 | `wepuri` | progress | movement toward a stated practical criterion |
+| `wesha` | lazy | avoidable reluctance to exert effort in a chosen or accepted activity |
 | `wethaki` | towel | cloth used in wiping or drying |
 | `wethate` | laundry | cloth moving through washing, drying, or folding |
 | `whano` | stand | fundamental human activity of standing |
@@ -350,7 +353,7 @@
 | `moreko` | articulate | Translating inner experience to speech |
 | `mothami` | baseline | a selected reference condition used for comparison |
 | `mothare` | premise | a proposition serving as a starting point in inference |
-| `muko` | careless | Inattentive |
+| `muko` | careless | insufficient attention to foreseeable consequences in a stated act |
 | `murethi` | impairment | a stated difference in cognitive function |
 | `muro` | stubborn | resistance to reconsidering a position or judgement |
 | `nai` | be | establishing identity and predication |
@@ -481,7 +484,7 @@
 | `thenoi` | falls-short | Announces magnitude relationship requiring mental comparison |
 | `theo` | read | fundamentally a cognitive process of decoding and comprehension |
 | `theonu` | attend | Directed focus |
-| `thesa` | careful | Attentive awareness |
+| `thesa` | careful | attention directed towards the mistakes or consequences that matter in an act |
 | `thesani` | skill | procedural knowledge developed through learning and repetition |
 | `thesori` | evidence | information offered in support of or against a claim |
 | `thesua` | mindful | deliberate attention to present experience or action |
@@ -626,7 +629,7 @@
 | `theloma` | justice | involves hearing all perspectives and facilitating reconciliation |
 | `thelu` | dialogue | co-creates meaning through structured exchange |
 | `themore` | argument | a reasoning structure shared for examination |
-| `thenui` | direct | Clear communication |
+| `thenui` | direct | an answer or statement that reaches its subject without evasion or an intermediary |
 | `theo` | read | receptive communication receiving encoded messages from another consciousness |
 | `theomi` | trust | foundation for genuine communication |
 | `theonu` | attend | Attentive presence |
@@ -645,7 +648,7 @@
 | `whekate` | refute | a decisive challenge supported by reasons or evidence |
 | `whishela` | whisper | Speech made of breath |
 
-## community (285)
+## community (286)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -837,7 +840,7 @@
 | `shorupo` | protect | Guarding the vulnerable |
 | `shua` | come | creates proximity and enables interaction and connection |
 | `shuneki` | vaccinate | a preventive action with individual and collective relations |
-| `shurano` | safe | What a community owes its members |
+| `shurano` | safe | conditions in a shared place or activity judged sufficiently free from danger |
 | `shuroa` | shelter | Refuge |
 | `sikanu` | certify | a status attributed by a named person or institution |
 | `sila` | community | fundamentally about social relationships and collective organization |
@@ -912,6 +915,7 @@
 | `wepanu` | redundant | a resilience practice for shared infrastructure and services |
 | `wephari` | coordinate | coordination among participants without implied hierarchy |
 | `weru` | poet | Creative role |
+| `wesha` | lazy | a bounded judgement about effort where an accepted contribution is at issue |
 | `weshaku` | outbreak | a health pattern within a selected population and place |
 | `wesoma` | mutual | reciprocity among people in a shared relationship |
 | `wethate` | laundry | a recurring domestic workload within a household |
@@ -1109,7 +1113,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## emotion (91)
+## emotion (89)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1172,7 +1176,6 @@
 | `shea` | peace | peace felt as an inward condition |
 | `sheli` | impatient | agitation felt during an unwanted delay |
 | `shena` | calm | low agitation in present feeling or manner |
-| `shurano` | safe | The felt state of being out of danger |
 | `siora` | joy | joy experienced as present gladness or delight |
 | `soliru` | hope | embodies confident expectation and positive feeling about possibilities |
 | `sukima` | fear | alarm felt in response to perceived danger |
@@ -1197,7 +1200,6 @@
 | `waora` | wondrous | a person, event, or thing that prompts a felt response of wonder |
 | `warosha` | reconcile | Processing hurt toward restoration |
 | `wema` | belong | feeling of being held and accepted within relationships |
-| `wesha` | lazy | Unwilling to work |
 | `whelani` | welcome | warmth and heartfelt reception |
 | `wilao` | long-for | internal experience of yearning and desire |
 | `wile` | play | Experiencing lightness and joy |
@@ -1457,7 +1459,7 @@
 | `wolea` | wood | Tree material |
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 
-## physical (348)
+## physical (347)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1715,7 +1717,7 @@
 | `shorupo` | protect | Creating safety through presence |
 | `shumeko` | sticky | a material or surface that adheres on contact and resists easy separation |
 | `shuneki` | vaccinate | an intervention intended to induce bodily protection |
-| `shurano` | safe | Bodily security |
+| `shurano` | safe | a body, path, object, or action assessed as sufficiently protected from relevant harm |
 | `siwe` | sweat | The skin's water |
 | `sophae` | cotton | Soft covering |
 | `sowelu` | disabled | disability involving bodily or sensory access |
@@ -1782,7 +1784,6 @@
 | `welotu` | mix | parts moving through one another in a vessel or space |
 | `welua` | fragile | easy breakage or damage under comparatively small force |
 | `wenu` | tonic | Vitality |
-| `wesha` | lazy | Avoiding effort |
 | `wetha` | cloth | Covering |
 | `wethaki` | towel | an absorbent textile receiving moisture |
 | `wethalu` | garment | Worn covering for the body |
@@ -1998,7 +1999,7 @@
 | `thaluro` | ocean | Boundless expanse |
 | `thelui` | sanctuary | Sacred refuge |
 | `thenoi` | falls-short | Frames relative position in numerical space—one quantity does not extend to another |
-| `thenui` | direct | Guiding toward |
+| `thenui` | direct | a route that reaches its destination without an intervening detour |
 | `thepalu` | garden | defined location transformed through intentional relationship with land |
 | `theru` | thick | a relatively large distance between opposing surfaces or across a cross-section |
 | `thiku` | small | limited extent considered as a whole rather than along one axis |
@@ -2040,7 +2041,7 @@
 | `halemu` | remember | Connecting present to past |
 | `hasenu` | recess | a bounded interval with an expected return |
 | `hasi` | wait | Presence across an interval |
-| `hasoru` | pending | remaining unresolved until a later event |
+| `hasoru` | pending | an open matter whose status may change after a later event |
 | `helanu` | recover | an uneven health course unfolding over time |
 | `helia` | youth | life stage of growth and transformation |
 | `helui` | change | Process of becoming different |
@@ -2209,7 +2210,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (134)
+## wisdom (132)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2250,7 +2251,6 @@
 | `mosha` | period | Bounded duration |
 | `motha` | foundation | Essential support |
 | `motu` | humble | self-appraisal kept open to correction and further learning |
-| `muko` | careless | Lacking care |
 | `nai` | be | recognizing and accepting what is |
 | `nawea` | respect | understanding inherent worth and dignity |
 | `noa` | position | Understanding position as relational rather than hierarchical |
@@ -2325,7 +2325,6 @@
 | `thenoki` | sustain | Understanding what keeps things alive |
 | `therema` | tradition | preserving collective knowledge through generations |
 | `thereo` | mediator | requires seeing all perspectives and finding middle way |
-| `thesa` | careful | Preventive care |
 | `thesani` | skill | practical understanding refined through experience |
 | `thesori` | evidence | material whose source, relevance, and limits can be examined |
 | `thilonu` | prepare | Foresight and planning |

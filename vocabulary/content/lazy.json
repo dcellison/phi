@@ -7,16 +7,26 @@
     "sha"
   ],
   "pos": "adjective",
-  "concept": "Lazy / Unwilling to Work / Avoiding Effort",
-  "description": "Unwilling to work or use energy; avoiding exertion. 'Wesha' names the quality of laziness—the reluctance to engage effort, the preference for ease over activity.",
-  "sound_symbolism": "The word slumps. 'We' begins with soft opening, energy low. Then 'sha' /ʃa/ exhales without force, effort avoided.",
-  "grammatical_notes": "Functions as an adjective: 'wesha miona' (lazy person). Distinct from 'shorui' (weary) which names legitimate tiredness. Laziness is choice, weariness is state.",
+  "search_terms": [
+    "avoiding effort",
+    "reluctant to work",
+    "indolent"
+  ],
+  "description": "'wesha' describes avoidable reluctance to exert effort in an activity a person has chosen or accepted. Someone lying down may instead be weary or resting; nothing in the posture alone establishes laziness. 'shorui' (weary) reports depleted capacity, while 'naweri' (refuse) states a boundary rather than a character judgement.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then unround and move the tongue forward into stressed true-mid front 'e'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh', pass air through the narrow channel, and finish with open central 'a'.",
+  "sound_symbolism": "A brief rounded glide opens into stressed 'e', then the longer postalveolar stream releases into broad 'a'. The final exhalation can recall effort trailing off.",
+  "usage_notes": "The adjective can modify an action or describe a bounded pattern of conduct. Applied to a person, it is strongest when context identifies the activity and evidence behind the judgement. The corresponding quality is laziness.",
+  "examples": [
+    {
+      "phi": "shia wesha riola.",
+      "translation": "They work lazily."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Sloth (thina) is a hindrance—but sometimes what appears lazy is needed rest, requiring discernment.",
-    "pre-industrial-wisdom": "Laziness threatened survival—communities depended on each member's contribution."
+    "peace-linguistics-practices": "Inactivity can be observed; laziness is inferred. Keeping those claims apart leaves room to hear about fatigue, rest, refusal, or an unseen limit."
   },
   "semantic_domains": {
-    "emotion": "Unwilling to work",
-    "physical": "Avoiding effort"
+    "activity": "avoidable reluctance to exert effort in a chosen or accepted activity",
+    "community": "a bounded judgement about effort where an accepted contribution is at issue"
   }
 }

@@ -37,7 +37,8 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Cultivation, abundance, and wildness | **DONE** | Seven inherited base adjectives now use the target prose contract. Plenty, fertility, actual yield, natural development, tameness, wildness, and practical cleanliness remain distinct without adding a root. |
 | Structure, identity, and fit | **DONE** | Seven inherited base adjectives now use the target prose contract. Completion, complexity, difference, sameness, necessity, part-to-whole relation, and contextual fit remain distinct without adding a root. |
 | Imagination, unfamiliarity, wonder, and reverence | **DONE** | Six inherited base adjectives now use the target prose contract. Unfamiliarity, imagined possibility, creative expression, wonder, cherished value, and sacred regard remain distinct without adding a root. |
-| Resume inherited content prose migration | **NEXT** | Continue after imagination, unfamiliarity, wonder, and reverence. Each semantic group passes through this coverage gate. |
+| Practical readiness, care, and effort | **DONE** | Six inherited base adjectives now use the target prose contract. Pending status, direct relation, attentive or careless conduct, avoidable reluctance, and condition-bound safety remain distinct without adding a root. |
+| Resume inherited content prose migration | **NEXT** | Continue after practical readiness, care, and effort. Each semantic group passes through this coverage gate. |
 
 ## Batch overview
 
@@ -60,6 +61,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Cultivation, abundance, and wildness | [PR #374](https://github.com/dcellison/phi/pull/374) | **COVERED** | Quantity, capacity for growth, actual yield, origin, human habituation, life outside cultivation, and ordinary cleanliness keep separate words. Scarcity, artificial origin, dirt, and exact sanitation remain compositions or source-level distinctions. |
 | Structure, identity, and fit | [PR #375](https://github.com/dcellison/phi/pull/375) | **COVERED** | The seven roots keep required completion, structural complexity, comparison, indispensable conditions, integral parts, and contextual suitability apart. Similarity, partiality, complicatedness, and unsuitable fit remain natural compositions. |
 | Imagination, unfamiliarity, wonder, and reverence | [PR #376](https://github.com/dcellison/phi/pull/376) | **COVERED** | The six roots keep unfamiliar encounter, imagined possibility, creative expression, exceeded expectation, cherished value, and sacred regard apart. Familiarity, originality, awe, importance, and non-sacred status remain natural compositions. |
+| Practical readiness, care, and effort | [PR #377](https://github.com/dcellison/phi/pull/377) | **COVERED** | The six roots keep open status, directness, care, effort, and safety apart. Readiness, availability, delay, diligence, negligence, recklessness, and felt safety remain explicit compositions rather than hidden senses. |
 
 ## Semantic batches and stable domains
 
@@ -86,6 +88,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Cultivation, abundance, and wildness | `nature`, `physical`, `quantity`, `activity`, `creation`, `community` | Available plenty, capacity for growth, actual result, natural origin, ecological history, human familiarity, and cleanliness remain separate claims. |
 | Structure, identity, and fit | `activity`, `cognition`, `creation`, `nature`, `physical`, `wisdom` | Completion under a criterion, multi-part arrangement, comparative identity, indispensable conditions, integral components, and contextual suitability remain separate claims. |
 | Imagination, unfamiliarity, wonder, and reverence | `cognition`, `community`, `creation`, `emotion`, `ritual` | What a person has not met, what a mind can envision, what appears in a work, and what receives personal or shared regard remain separate claims. |
+| Practical readiness, care, and effort | `activity`, `cognition`, `communication`, `community`, `physical`, `spatial`, `temporal` | Open status, route, attention, willingness to exert effort, and safety under present conditions remain separate claims. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -444,6 +447,27 @@ Six base adjectives describe what someone has not met, what a mind can imagine, 
 
 No root is added. A person may imagine a place that no one builds, while a practical repair can be creative without looking novel. A worn toy may be precious without being sacred, and a grove may be sacred to a community whose account another speaker can report without claiming as their own.
 
+## Practical readiness, care, and effort
+
+Six base adjectives cover a matter awaiting its next move, a route or answer without detour, the attention given to an act, a judgement about avoidable effort, and safety under present conditions. The coverage test keeps visible conduct apart from conclusions about capacity or character.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Pending, waiting, blocked, complete, and future | `hasoru` (pending), `hasi` (wait), Work `noraku` (blocked), `sholu` (complete), and future `so` | **COVERED** | Pending is an open status, waiting is an action, blocked names an obstacle, complete meets a criterion, and future marking places an event ahead. |
+| Delayed, deferred, and on hold | `hasoru`, the expected time or condition, `te` (cease), and the person or process that changed the timing | **COMPOSITIONAL** | A delay compares the present timing with an expectation, deferral records a decision to move action later, and a matter on hold has temporarily ceased. One adjective would hide those different events. |
+| Ready and prepared | Completed preparation through `thilonu` (prepare), `sholu`, `po` (possibility), and the action about to begin | **COMPOSITIONAL** | Readiness usually says that preparation is complete and the next act is possible. Willingness can be stated separately when it matters, so the language need not leave ready-for-what unspoken. |
+| Available and unavailable | `ruweli` (access), `henoi` (enough), `ralu` (free), inventories or supply, and the intended use | **COMPOSITIONAL** | Available may mean present in stock, reachable, not committed elsewhere, or free to act. The ordinary words state which condition actually holds. |
+| Direct, clear, honest, short, and straight | `thenui` (direct), `nuwi` (clear), `wero` (honest), `teku` (short), and exact shape or route description | **COMPOSITIONAL** | Directness removes an intermediary or detour, clarity is ease of understanding, honesty excludes knowing deception, length is measured separately, and geometric straightness stays an exact formal relation. |
+| Indirect, mediated, evasive, and circuitous | Negated `thenui`, the intermediary or route, the question left unanswered, and relevant movement vocabulary | **COMPOSITIONAL** | Indirect transfer and an evasive answer have different structures. Naming the intervening person, detour, or avoided question shows where directness was lost. |
+| Careful, mindful, precise, accurate, and caring | `thesa` (careful), `thesua` (mindful), `kiro` (precise), `telua` (accurate), and `theama` (care) | **COVERED** | Carefulness attends to foreseeable error or harm, mindfulness keeps deliberate present attention, precision narrows variation, accuracy agrees with a reference, and care provides for wellbeing or maintenance. |
+| Careless, mistaken, accidental, negligent, and reckless | `muko` (careless), `phelira` (mistaken), absence of intention, Commons `naseru` (obligation), and known `pukea` (danger) | **COMPOSITIONAL** | Carelessness records the attention given. Negligence adds a duty, recklessness adds known danger, a mistake contains error, and an accident turns on intention and causation. |
+| Lazy, weary, resting, unable, refusing, and idle | `wesha` (lazy), `shorui` (weary), `therilu` (rest), `po` with negation, `naweri` (refuse), and a stated absence of activity | **COVERED** | Laziness is a judgement about avoidable reluctance in an accepted activity. Weariness reports depleted capacity, rest is an act, inability closes possibility, refusal states a boundary, and idleness only reports that no activity is occurring. |
+| Diligent, industrious, and disciplined | `thesa`, `kesu` (determined), `kolu` (steady), `shimalo` (discipline), repeated effort, and the chosen purpose | **COMPOSITIONAL** | Diligence joins care with sustained effort. Industry adds amount or continuity of work, while discipline relates action to an intention over time. |
+| Safe, dangerous, harmful, protected, and sheltered | `shurano` (safe), `pukea` (danger), `peloma` (harmful), `shorupo` (protect), and `shuroa` (shelter) | **COVERED** | Safety judges current conditions, danger names possible harm, harmful describes effect, protection is an act, and shelter is the place or structure that may provide it. |
+| Felt safety, assessed safety, unsafe, and risky | `shurano`, `phaelo` (feel), negation, the relevant danger, and module terms for hazard, likelihood, or evidence | **COMPOSITIONAL** | Feeling safe and assessing conditions are different reports. Unsafe can deny the safety judgement or name the danger; technical risk needs its likelihood, consequence, and source rather than a broad adjective. |
+
+No root is added. A repair can be pending because a part has not arrived even when every other preparation is complete. Someone may work slowly and carefully, rest without laziness, or speak directly without being harsh; a path remains safe only for the people, use, and conditions that make the claim true.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -484,4 +508,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete, and the inherited content prose migration has now reached the end of imagination, unfamiliarity, wonder, and reverence. The next semantic neighbourhood starts from here with the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete, and the inherited content prose migration has now reached the end of practical readiness, care, and effort. The next semantic neighbourhood starts from here with the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.
