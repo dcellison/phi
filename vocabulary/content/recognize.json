@@ -8,16 +8,23 @@
     "tu"
   ],
   "pos": "verb",
-  "concept": "Recognize / Identify / See and Know Again",
-  "description": "To perceive something or someone and connect that perception to prior knowledge or understanding. 'Miratu' bridges present perception with memory—the moment when what is before us meets what we already know, creating identification and connection.",
-  "sound_symbolism": "The word moves from inner to outer knowing. 'Mi' begins with nasal inwardness, the self perceiving. Then 'ra' reaches outward with rolling awareness, perception extending. Finally 'tu' arrives with dental precision, identification confirmed.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia thia miratu.' (I recognize you.) Can specify what is recognized: 'mia welao thena miratu.' (I recognize a good thing.) Distinct from shelomu (understand)—miratu is identification, shelomu is comprehension.",
+  "search_terms": [
+    "identify",
+    "know again"
+  ],
+  "description": "A face in a crowd may become familiar before its name returns. That first connection is 'miratu': a present perception or proposition matches something already known. 'halemu' (remember) brings earlier knowledge to mind; 'shelomu' (understand) grasps what it means or how it fits with other things.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm', carry the voice through the nose, and release into high-front unrounded 'i'. Tap or briefly trill the tongue at the alveolar ridge before stressed open central 'a'. Place the tongue tip against the back of the upper teeth for dental 't' and release into high-back rounded 'u'.",
+  "usage_notes": "'miratu' takes the recognised material directly. For a proposition, 'mena ... meno' supplies the complement frame. In noun position, 'miratu' is recognition. 'thekao' (acknowledge) is the separate act of explicitly responding to a presence or communication.",
+  "examples": [
+    {
+      "phi": "mia thia miratu.",
+      "translation": "I recognize you."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Recognition is mindful perception meeting memory—seeing clearly what is present while connecting it to accumulated understanding.",
-    "peace-linguistics-practices": "Recognizing others affirms their existence and continuity—I see you as someone with history and identity."
+    "peace-linguistics-practices": "Recognising someone says that this is the same person encountered before. Their thoughts and character remain their own."
   },
   "semantic_domains": {
-    "cognition": "Connecting perception to memory",
-    "communication": "Acknowledging identity in encounter"
+    "cognition": "a present perception or proposition connected with prior knowledge"
   }
 }

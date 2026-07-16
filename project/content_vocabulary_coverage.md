@@ -44,6 +44,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Medical course, transmission, and treatment response | **DONE** | Five inherited Medical module adjectives now use the target prose contract. Course, transmission potential, immune protection, and sourced advice remain distinct without adding a root. |
 | Base-first sequencing | **IN PROGRESS** | The module queue is paused. Inherited base nouns and verbs now take precedence until the shared lexicon has completed its coverage and prose passes. |
 | Core speech and conversation | **DONE** | Fourteen inherited base verbs now use the target prose contract. The coverage pass found no missing root in ordinary speech or conversational exchange. |
+| Knowledge, understanding, belief, and memory | **DONE** | Six inherited base verbs now use the target prose contract. Knowledge, comprehension, belief, memory, forgetting, and recognition remain distinct without adding a root. |
 | Resume inherited content prose migration | **NEXT** | Continue with another inherited base noun or verb neighbourhood under the same coverage gate. |
 
 ## Batch overview
@@ -73,6 +74,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Work timing, status, capability, and answerability | [PR #380](https://github.com/dcellison/phi/pull/380) | **COVERED** | The six roots keep participation across time, an obstacle to progress, present practical ability, deep domain practice, prerequisites met, and required answerability apart. Synchronous activity, experience, mastery, and legal status remain ordinary constructions or source-level distinctions. |
 | Medical course, transmission, and treatment response | [PR #381](https://github.com/dcellison/phi/pull/381) | **COVERED** | Acute and chronic course, contagiousness, immunity, and contraindication keep their own evidence and relations. Remission, susceptibility, treatment resistance, urgency, and exact clinical classifications remain explicit compositions or source-level claims. |
 | Core speech and conversation | [PR #382](https://github.com/dcellison/phi/pull/382) | **COVERED** | The fourteen base verbs keep vocal action, directed accounts, questions and replies, conversational exchange, exposition, and expression apart. Voice and manner, neighbouring speech acts, reception, and understanding already have direct words or established grammar. |
+| Knowledge, understanding, belief, and memory | [PR #383](https://github.com/dcellison/phi/pull/383) | **COVERED** | Six base verbs distinguish having knowledge, grasping relations, holding a proposition true, retaining or losing a memory, and matching a present encounter with prior knowledge. Truth, confidence, evidence, trust, faith, and doubt remain separate claims. |
 
 ## Semantic batches and stable domains
 
@@ -105,6 +107,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Work timing, status, capability, and answerability | `activity`, `cognition`, `communication`, `community`, `ethics`, `temporal`, `wisdom` | Timing, work state, demonstrated performance, learned depth, institutional standing, and answerability remain separate routes. |
 | Medical course, transmission, and treatment response | `cognition`, `nature`, `physical`, `temporal` | Clinical course, transmission capability, bodily protection, and a sourced judgement about an intervention remain separate claims. |
 | Core speech and conversation | `aesthetic`, `cognition`, `communication`, `community`, `emotion` | Vocal action, conversational relation, examination of a topic, inward feeling, and expression through a work remain separate browse routes. |
+| Knowledge, understanding, belief, and memory | `cognition`, `communication`, `community`, `temporal` | Epistemic stance, comprehension of an account, familiarity among people, and memory across time remain separate routes. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -572,6 +575,26 @@ A person at the gate says that the pump has stopped. Their neighbour asks which 
 
 No root is added. The field has room for a chat over a gate and a careful public dialogue without pretending they are the same occasion. It also keeps a modest fact in view: words can be spoken, sent, heard, and still misunderstood.
 
+## Knowledge, understanding, belief, and memory
+
+Someone knows that the pump stopped, understands why, and still believes the repair will hold. Later they recognise the same fault, remember the last repair, or forget where the spare gasket went. Phi already has a different verb for each turn in that small domestic tragedy.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Thinking, knowing, understanding, and believing | Base `remo` (think), `sano` (know), `shelomu` (understand), and `nohero` (believe) | **COVERED** | Thinking follows ideas, knowing reports information or familiarity already held, understanding grasps how things fit, and belief holds a proposition true. |
+| Knowledge, truth, confidence, certainty, and evidence | Base `sano`, `shewo` (true), and the evidentials, with Philosophical Reasoning `norethi` (confident) | **COMPOSITIONAL** | A claim of knowledge can prove true or mistaken and can carry a stated source. Confidence reports how firmly someone holds a stance; certainty depends on the claim, evidence, and context rather than a second word for knowing. |
+| Belief, trust, faith, doubt, and assumption | Base `nohero`, `theomi` (trust), and `themui` (faith), assumptive `ho`, and Philosophical Reasoning `whamoi` (doubt) | **COMPOSITIONAL** | Belief concerns a proposition, trust concerns reliance, and faith sustains confidence through a process. Assumption marks a claimed source, while doubt leaves judgement unsettled. |
+| Remembering, forgetting, and recognition | Base `halemu` (remember), `sahu` (forget), and `miratu` (recognize) | **COVERED** | Remembering retains or returns earlier experience or knowledge to present memory. Forgetting loses that availability, while recognition begins with a present encounter and connects it with what was already known. |
+| Recall, memory, reminder, and memory lapse | Event-noun `halemu`, causative `ka halemu`, base `sahu`, and the remembered or forgotten content | **COVERED** | One form covers recalling and memory according to sentence position. Causative voice supplies reminding, while `sahu` identifies the lapse and leaves its cause to the surrounding sentence. |
+| Familiarity, recognition after absence, and knowing a person | Base `sano`, `miratu`, and `kuewa` (strange) or its negation with the relevant person or experience | **COMPOSITIONAL** | Familiarity is the continuing knowledge relation. Recognition is the event that reconnects a present encounter with it, and the sentence can name whose experience established either one. |
+| Misremembering, false memory, and misidentification | Base `phelira` (mistaken), `kanelu` (err), `halemu`, and `miratu`, with source and later correction where they matter | **COMPOSITIONAL** | Remembered or recognised content can be marked mistaken, or the person can err in the act. This keeps the memory event separate from the judgement that it matched reality. |
+| Not knowing, not understanding, and withholding belief | Negated `sano`, `shelomu`, and `nohero`, plus `nohero ma kanu` for declining to choose a framed belief | **COMPOSITIONAL** | Phi states which relation is absent. One negated verb need not turn non-knowledge, incomprehension, and suspended judgement into a single permanent trait. |
+| Realising, discovering, and learning | Inchoative `pa sano` or `pa shelomu`, base `hekawi` (find), and `shonela` (learn) | **COMPOSITIONAL** | Realising is a change into knowledge or understanding. Discovery concerns what was found, while learning is the process through which knowledge or skill develops. |
+| Opinion, expectation, suspicion, and conviction | Base `nohero`, the proposition's time and content, evidential `ke` or `ho`, and Philosophical Reasoning `norethi` | **COMPOSITIONAL** | These English labels mix subject matter, source, and strength of stance in different proportions. Phi can state the proposition, mark an inferred or assumed source, and add confidence when sustained reasoning needs it. |
+| Amnesia, dementia, impairment, and exact cognitive assessment | Ordinary descriptions of memory or understanding beside the preserved source diagnosis, test, or classification | **DEFERRED** | These terms depend on clinical criteria and evidence beyond a base verb. Medical scenarios can test whether a recurring relation deserves optional vocabulary. |
+
+No root is added. A person may know what was said and misunderstand it, or believe a memory that later proves mistaken. Certainty still requires its own claim. The spare gasket is, regrettably, wherever someone last put it.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -612,4 +635,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete, and the migration has returned to inherited base vocabulary with core speech and conversation. Module batches remain paused. The next work package will select another coherent base noun or verb neighbourhood under the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete, and the inherited base migration has now covered core speech and the six verbs of knowledge, understanding, belief, and memory. Module batches remain paused. The next work package will select another coherent base noun or verb neighbourhood under the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.

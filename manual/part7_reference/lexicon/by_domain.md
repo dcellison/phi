@@ -287,7 +287,7 @@
 
 | Word | Gloss | In this domain |
 |---|---|---|
-| `halemu` | remember | Retrieval of past experience |
+| `halemu` | remember | past experience or knowledge retained in or returned to present memory |
 | `haoni` | voice | expression of thoughts and inner states |
 | `hea` | hear | sound arriving in perception |
 | `hekawi` | find | The moment of discovery |
@@ -342,7 +342,7 @@
 | `mikasu` | dose | a specified intervention amount requiring exact source interpretation |
 | `miona` | person | personhood inherently involves consciousness and self-awareness |
 | `mirae` | eye | the bridge between world and awareness |
-| `miratu` | recognize | Connecting perception to memory |
+| `miratu` | recognize | a present perception or proposition connected with prior knowledge |
 | `mirela` | state | a selected description used to analyze change |
 | `mokanu` | disease | a health classification under stated criteria and source |
 | `monae` | integral | a necessary part-to-whole relation identified in an analysis |
@@ -360,7 +360,7 @@
 | `nila` | see | visual information entering awareness |
 | `nilaki` | inspect | a structured relation among observations, scope, and assessment |
 | `noetha` | essential | an indispensable condition identified for a purpose, identity, or result |
-| `nohero` | believe | Holding something as true |
+| `nohero` | believe | a proposition held to be true |
 | `nomiki` | concentration | a ratio whose agent, denominator, method, and source shape interpretation |
 | `nophi` | story | cognitive structures for organizing events into meaningful sequences |
 | `noporu` | design | developing and selecting among possible relations |
@@ -415,9 +415,9 @@
 | `romishe` | contemplate | Deep, sustained thinking |
 | `ruka` | complex | an idea, explanation, or route with many relations to follow |
 | `runaki` | wayfind | using cues to establish location and direction |
-| `sahu` | forget | Memory's release, willed or not |
+| `sahu` | forget | something no longer retained or presently available in memory |
 | `samethu` | equivalent | a selected match in meaning or function |
-| `sano` | know | mental state of integrated understanding and awareness |
+| `sano` | know | information, a person, a method, or an answer held in present knowledge |
 | `sanowu` | predictable | advance anticipation of an event or pattern from prior information |
 | `seloi` | insightful | perception of a relation or significance that is not immediately apparent |
 | `selu` | flow | creates mental state of optimal experience and effortless concentration |
@@ -431,7 +431,7 @@
 | `sharino` | conscience | the faculty of judging one's own conduct against held values |
 | `sharoi` | exceed | Announces magnitude relationship requiring mental comparison |
 | `shelo` | signify | Semantic pointing |
-| `shelomu` | understand | Grasping meaning and significance |
+| `shelomu` | understand | meaning or relation grasped among facts, parts, or events |
 | `shelu` | book | tools for thought extending memory and enabling complex reasoning |
 | `sheluo` | listen | attention deliberately directed towards sound |
 | `sherewa` | claim | a proposition deliberately put forward for assessment |
@@ -520,7 +520,7 @@
 | `wireki` | prognosis | a conditional inference about a health course |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## communication (116)
+## communication (114)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -550,7 +550,6 @@
 | `lumishe` | mentor | happens through communication and mutual exchange |
 | `manawi` | compromise | an outcome of negotiating differing aims |
 | `menoa` | face | Primary site of expressive communication |
-| `miratu` | recognize | Acknowledging identity in encounter |
 | `mirewu` | private | chosen limits on access to a conversation, record, or information |
 | `misharo` | consult | an exchange intended to inform later action |
 | `mishoa` | express | thought or feeling given a perceptible form |
@@ -564,7 +563,6 @@
 | `nawo` | agree | Where honest exchange arrives |
 | `noeli` | warm (emotional) | warmth expressed through voice, greeting, or parting |
 | `noemi` | authentic | a voice or expression faithful to the speaker's lived commitments |
-| `nohero` | believe | Expressing conviction with openness |
 | `nomei` | name | the word that calls and identifies |
 | `nophi` | story | fundamentally acts of structured transmission from one consciousness to another |
 | `nowiso` | interface | an informational interface can mediate exchange without guaranteeing understanding |
@@ -598,7 +596,7 @@
 | `shareo` | discuss | spoken or written exchange centred on one topic |
 | `shaweri` | advocate | speaking publicly for a position without implied representation authority |
 | `shelo` | signify | Meaningful indication |
-| `shelomu` | understand | Foundation for genuine communication |
+| `shelomu` | understand | comprehension of another person's words or account |
 | `shelu` | book | asynchronous communication between writer and reader across time |
 | `sheluo` | listen | attentive reception of another person's speech |
 | `shemui` | utter | a particular stretch of words produced aloud |
@@ -810,7 +808,7 @@
 | `ruesha` | compassionate | concern for suffering that shapes a response to another person |
 | `ruloi` | flourish | Collective thriving |
 | `ruweli` | access | practical entry into shared services and processes |
-| `sano` | know | knowing others and sharing collective knowledge |
+| `sano` | know | familiarity with people and knowledge held or exchanged within a group |
 | `seluwhe` | outage | loss of a stated shared or infrastructure service for affected participants |
 | `sepho` | send | Transfer across distance |
 | `sephori` | supply | provision between participants, processes, or places |
@@ -2035,7 +2033,7 @@
 
 | Word | Gloss | In this domain |
 |---|---|---|
-| `halemu` | remember | Connecting present to past |
+| `halemu` | remember | a cognitive relation that links something past with the present |
 | `hasenu` | recess | a bounded interval with an expected return |
 | `hasi` | wait | Presence across an interval |
 | `hasoru` | pending | an open matter whose status may change after a later event |
@@ -2137,7 +2135,7 @@
 | `rolu` | wheel | Cyclical motion |
 | `rulami` | adventure | Days given to the unmapped |
 | `runae` | resin | Preserving substance |
-| `sahu` | forget | What time does to the unrehearsed |
+| `sahu` | forget | memory becoming unavailable as time and experience change |
 | `sanowu` | predictable | advance knowability of timing or sequence |
 | `selu` | flow | transforms time experience into rhythmic continuous phenomena |
 | `seluwhe` | outage | a bounded period of unavailability or interruption |
@@ -2207,7 +2205,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (132)
+## wisdom (131)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2288,7 +2286,6 @@
 | `rolia` | worth | Inherent dignity |
 | `romishe` | contemplate | Patient approach to understanding |
 | `ruela` | path | ways of practice and understanding |
-| `sano` | know | accumulated knowledge and experiential understanding |
 | `seloi` | insightful | depth of understanding kept distinct from certainty or authority |
 | `selomi` | weave | Understanding interconnection through making |
 | `sharino` | conscience | moral self-appraisal that remains open to examination and correction |

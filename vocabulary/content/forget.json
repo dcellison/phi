@@ -7,16 +7,26 @@
     "hu"
   ],
   "pos": "verb",
-  "concept": "Forget / Lose from Memory / Let Slip Away",
-  "description": "To forget: names, appointments, grievances. The unwilled loss of what memory held — and sometimes the willed release of it. Companion and opposite of 'tole'-descended remembering words and of 'hekawi' (find); what is forgotten can be found again.",
-  "sound_symbolism": "Soft 's', open 'a', then 'hu' — the breath that carries the memory away. Nothing sharp: forgetting in Phi sounds like what it mostly is, a gentle leak rather than a theft.",
-  "grammatical_notes": "Transitive: 'mia nomei to sahu.' (I forgot the name.) Negated for reassurance: 'mia thia ma sahu.' (I do not forget you.) With the inchoative: 'mia pa sahu.' (I am beginning to forget.)",
+  "search_terms": [
+    "fail to remember",
+    "lose from memory"
+  ],
+  "description": "'sahu' covers a memory fading over years or a name unavailable when it is needed. It says that something is no longer retained or cannot be brought to mind. If an act of letting go matters, 'leiro' (release) can state it; forgetting itself has no built-in intention.",
+  "articulatory_notes": "Hold the tongue close to the alveolar ridge and direct voiceless air through a narrow groove for 's', then open into stressed central 'a'. Let unvoiced air pass through the open glottis for 'h' and finish with high-back rounded 'u'.",
+  "sound_symbolism": "The hiss of 's' opens into 'a' before the narrow tongue channel gives way to the breath of 'h'. In Phi, that loosening may recall a memory slipping out of reach as the word rounds into 'u'.",
+  "usage_notes": "The forgotten content comes before the verb as its direct object. Passive 'se sahu' presents something as forgotten; inchoative 'pa sahu' marks the beginning of forgetting. In noun position, 'sahu' is forgetting or a lapse of memory.",
+  "examples": [
+    {
+      "phi": "mia nomei to sahu.",
+      "translation": "I forgot the name."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Impermanence includes memory. Naming forgetting without shame lets speakers hold their own minds gently — and distinguishes the forgetting that wounds from the forgetting that frees.",
-    "peace-linguistics-practices": "Communities that can say 'I forgot' plainly need fewer excuses; the honest verb is the shorter path back to trust."
+    "secular-buddhist-philosophy": "Memory changes and fails with the rest of experience. 'sahu' names a lapse in memory, not a moral defect.",
+    "peace-linguistics-practices": "Plain 'sahu' distinguishes a forgotten promise or name from deliberate refusal or deception. Repair can begin with what actually happened."
   },
   "semantic_domains": {
-    "cognition": "Memory's release, willed or not",
-    "temporal": "What time does to the unrehearsed"
+    "cognition": "something no longer retained or presently available in memory",
+    "temporal": "memory becoming unavailable as time and experience change"
   }
 }
