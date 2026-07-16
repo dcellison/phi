@@ -8,17 +8,27 @@
     "ho"
   ],
   "pos": "verb",
-  "concept": "Sing / Produce Melody with Voice / Express Through Song",
-  "description": "To produce musical sounds with the voice—melody, harmony, rhythm shaped by breath and vocal cords into beauty that enters the ear and touches the heart. 'Meliho' names the transformation of breath into song, the voice's capacity to carry emotion beyond speech.",
-  "sound_symbolism": "The word rises like song itself. 'Me' begins with nasal melody, the humming that precedes words. Then 'li' lifts with liquid brightness, the voice ascending. Finally 'ho' breathes out with open release, song given to the air.",
-  "grammatical_notes": "Functions as intransitive verb: 'mia meliho' (I sing). Can take object for what is sung: 'mia melira meliho' (I sing a song). Related to haoni (voice) but specifically musical vocalization.",
+  "search_terms": [
+    "vocal music",
+    "sing a song"
+  ],
+  "description": "'meliho' is the voice making melody or another sustained musical line. The singing may carry words, wordless sound, a known 'melira' (song), or music made in the moment. Ordinary 'haolu' (speak) produces language with the voice; 'meliho' gives pitch and musical form the central work.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the voice through the nose, and release into middle-height front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and raise the tongue into stressed high-front 'i'. Let unvoiced air pass through the open glottis for 'h', then draw the tongue back and round the lips into middle-height 'o'.",
+  "sound_symbolism": "Closed-lip nasal 'm' can begin almost as a hum, lateral 'l' carries the stressed high vowel, and 'h' releases the last syllable on audible breath. The word also shares 'meli' with 'melira' (song), making the verb and its familiar object easy to hear as kin.",
+  "usage_notes": "'meliho' may stand alone or take the song or other vocal piece as a preceding object. A named occasion, listener, or accompaniment can appear nearby. In noun position, 'meliho' refers to singing as an act; 'melira' is the shaped song that may be sung.",
+  "examples": [
+    {
+      "phi": "shia mioru melira meliho.",
+      "translation": "They sing a beautiful song."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Singing together harmonizes literally—voices joining, differences subsumed in shared melody. Song builds unity.",
-    "pre-industrial-wisdom": "Song carries culture across generations—work songs, lullabies, ceremonial chants. Communities sing together what matters most."
+    "pre-industrial-wisdom": "Songs can keep work in rhythm and carry remembered words without depending on notation. 'meliho' is the embodied act through which that material continues to sound."
   },
   "semantic_domains": {
-    "activity": "fundamental human activity of singing",
-    "community": "Shared singing traditions",
-    "creation": "Musical vocal expression"
+    "activity": "the bodily and practised act of singing",
+    "aesthetic": "melody and vocal form perceived or shaped through singing",
+    "community": "singing shared in work, ceremony, teaching, or recreation",
+    "creation": "music or song produced through the voice"
   }
 }

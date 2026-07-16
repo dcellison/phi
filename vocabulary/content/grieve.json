@@ -8,17 +8,26 @@
     "mi"
   ],
   "pos": "verb",
-  "concept": "Grieve / Mourn / Carry Sadness Within",
-  "description": "To grieve or mourn: the sustained, living form of sadness that follows loss. Built visibly on 'nuhe' (sadness) plus the inward 'mi': grieving as carrying sadness within oneself, over time, as a practice rather than a single feeling. The derivation teaches itself — anyone who knows 'nuhe' can read 'nuhemi'.",
-  "sound_symbolism": "It begins as 'nuhe' begins — the grounded nasal sinking into the deepest vowel, the exhale through 'he' — but where sadness breathes out and ends, grief turns inward: the final 'mi' is the self, holding. Sadness carried, not dropped. The word is one syllable longer than 'nuhe' because grief lasts longer than sadness.",
-  "grammatical_notes": "Verb: 'mia nuhemi' (I grieve / I am mourning). With the object grieved for marked by 'wei': 'mia wei ni melu nuhemi' (I grieve for a dear friend). Companion words: 'nuhe' (sadness), 'lumeo' (die/death), 'phamo' (console), 'therilu' (rest).",
+  "search_terms": [
+    "mourn",
+    "grieve a loss"
+  ],
+  "description": "After a person, home, hope, or way of life is lost, someone may 'nuhemi': grieve or mourn over time. 'nuhe' (sadness) may have no identified loss and may pass quickly, while 'nuhewa' (weep) names tears rather than the process around them. A person can grieve without weeping, and tears can come for reasons other than grief.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and raise the back of the tongue for high-back rounded 'u'. Let unvoiced air pass through the open glottis into stressed middle-height front unrounded 'e'. Close the lips for voiced 'm', keep the airflow nasal, and release into high-front unrounded 'i'.",
+  "sound_symbolism": "'nuhemi' contains the full sound of 'nuhe' (sadness) and continues for one more syllable, closing through nasal 'mi'. That audible kinship keeps grief easy to remember beside the shorter sadness form.",
+  "usage_notes": "The person who grieves is the subject. The preposition 'wei' introduces a person or being grieved for; a separate cause clause can identify another kind of loss. Its event noun covers grief, mourning, or a period of grieving.",
+  "examples": [
+    {
+      "phi": "mia wei melu nuhemi.",
+      "translation": "I grieve for a friend."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Grief is attachment meeting impermanence — not a flaw to fix but a truth to sit with. 'Nuhemi' names the sitting-with, giving mourning the dignity of its own word.",
-    "peace-linguistics-practices": "Communities that can speak grief can share it. A dedicated word invites condolence, ritual, and accompaniment instead of silence.",
-    "pre-industrial-wisdom": "Mourning was structured time — worn, sung, and accompanied. The word honors grief as a season, not an inconvenience."
+    "secular-buddhist-philosophy": "Grief brings attachment and impermanence into the same lived moment. 'nuhemi' gives that process time without treating it as a failure of attention or practice.",
+    "pre-industrial-wisdom": "Mourning customs can give loss a season and companions. 'nuhemi' names the grieving while the particular community keeps the form of its observance."
   },
   "semantic_domains": {
-    "emotion": "The sustained carrying of sadness after loss",
-    "ritual": "The practice and season of mourning"
+    "emotion": "the continuing process of grief after a loss",
+    "ritual": "mourning carried through a funeral, memorial, or repeated observance"
   }
 }

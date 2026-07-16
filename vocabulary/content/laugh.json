@@ -7,16 +7,23 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Laugh / Express Amusement Vocally / Make Sound of Mirth",
-  "description": "To express amusement, joy, or mirth through characteristic vocal sounds—the involuntary release of breath in rhythmic bursts that signals delight, sometimes gentle, sometimes roaring. 'Hola' is the body's spontaneous celebration of the funny, the absurd, the joyful.",
-  "sound_symbolism": "The word releases like laughter itself. 'Ho' breathes out with open vowel, the expulsion of air that begins a laugh. Then 'la' flows freely with liquid release, laughter continuing, rolling onward.",
-  "grammatical_notes": "'mia hola.' (I laugh.) Intensified with 'ru': 'lopia ru hola.' (The child laughs hard.) The noun sense (a laugh) comes by the event-noun rule. Related to 'kela' (rejoice) but names the vocal, bodily expression; 'seniku' (smile) is the quieter neighbor.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Laughter releases attachment—we cannot laugh and cling simultaneously. Humor reveals the absurdity of taking things too seriously.",
-    "peace-linguistics-practices": "Shared laughter builds connection instantly—people who laugh together find it harder to harm each other."
-  },
+  "search_terms": [
+    "laughter",
+    "chuckle"
+  ],
+  "description": "A joke at supper may bring 'hola'; so may relief when a long worry ends. This is audible, breath-led laughter, from a quiet chuckle to a loud burst. The word reports the bodily act without deciding what the laughter means: 'seniku' (smile) needs no sound, and 'monelu' (amused) is the felt response that may never become laughter.",
+  "articulatory_notes": "Let unvoiced air pass through the open glottis for 'h' and draw the tongue back while rounding the lips into stressed middle-height 'o'. Touch the tongue tip to the alveolar ridge for voiced 'l', let the air pass along its sides, and open into central 'a'.",
+  "sound_symbolism": "The open glottal breath and two broad vowels let the word leave the mouth without a tight oral closure. Its easy exhaled contour can resemble a short laugh.",
+  "usage_notes": "No object is needed for 'hola'. Adjectives such as 'theisa' (loud) and 'maeli' (quiet) describe its manner, while aspect marks a burst or continuing laughter. Nominal 'hola' is a laugh or laughter as an event.",
+  "examples": [
+    {
+      "phi": "mia hola.",
+      "translation": "I laugh."
+    }
+  ],
   "semantic_domains": {
-    "emotion": "Expressing amusement",
-    "physical": "Vocal release of joy"
+    "communication": "an audible social response whose meaning comes from its occasion and manner",
+    "emotion": "laughter prompted by amusement, joy, relief, or another emotion",
+    "physical": "breath released through the characteristic bodily act of laughing"
   }
 }

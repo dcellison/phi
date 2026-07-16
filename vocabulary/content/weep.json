@@ -8,16 +8,25 @@
     "wa"
   ],
   "pos": "verb",
-  "concept": "Weep / Cry / Let Sadness Flow Out",
-  "description": "To weep: tears flowing. Completes the sadness family as its outward act: 'nuhe' (sadness, the feeling) → 'nuhemi' (grieve, carrying it) → 'nuhewa' (weep, letting it flow). Tears themselves are 'mirae phialu', eye-water.",
-  "sound_symbolism": "Begins as all the family begins — 'nu', the grounded deep, 'he', the exhale — and ends in 'wa', outward flow. Sadness leaving by the gentlest door.",
-  "grammatical_notes": "Intransitive: 'lopia nuhewa.' (The child weeps.) 'mia to nuhewa.' (I wept.) Consoled: 'shia nuhewa. mia wei shia phamo.' (They weep. I console them.)",
+  "search_terms": [
+    "cry",
+    "shed tears"
+  ],
+  "description": "A child in pain and an adult meeting long-awaited relief may both 'nuhewa': tears are flowing. Sadness and grief are common causes, but the verb leaves room for joy, bodily irritation, exhaustion, or a cause not yet known. 'nuhemi' (grieve) is the continuing process after loss; weeping is the visible bodily event.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and raise the back of the tongue for high-back rounded 'u'. Let unvoiced air pass through the open glottis into stressed middle-height front unrounded 'e'. Round the lips and raise the back of the tongue for voiced 'w', then open into central 'a'.",
+  "sound_symbolism": "'nuhe' (sadness) is heard whole at the opening of 'nuhewa' before the word rounds into 'wa'; 'nuhemi' (grieve) shares that opening but closes nasally. The family resemblance is audible, and the rounded glide gives 'nuhewa' its own open finish.",
+  "usage_notes": "Intransitive 'nuhewa' takes the person weeping as its subject. Tense and aspect can distinguish the onset, duration, or end, while a nearby phrase states the cause when that is known. The noun use gives weeping or an episode of tears; 'mirae phialu' names the tears themselves.",
+  "examples": [
+    {
+      "phi": "lopia nuhewa.",
+      "translation": "The child weeps."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Weeping is grief's completion, not its failure; the family of words is built so the flow has a name of its own.",
-    "peace-linguistics-practices": "Tears witnessed without correction are the beginning of consolation; the verb makes them speakable without apology."
+    "peace-linguistics-practices": "Visible distress can be named without assigning its cause or demanding that the person explain it. 'nuhewa' leaves the person room for privacy and makes care a response rather than an assumption."
   },
   "semantic_domains": {
-    "emotion": "Sadness flowing out",
-    "physical": "The body's release of grief"
+    "emotion": "tears accompanying grief, joy, pain, relief, or another felt response",
+    "physical": "the bodily event of tears flowing"
   }
 }
