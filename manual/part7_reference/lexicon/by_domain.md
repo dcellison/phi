@@ -421,7 +421,7 @@
 | `sahu` | forget | Memory's release, willed or not |
 | `samethu` | equivalent | a selected match in meaning or function |
 | `sano` | know | mental state of integrated understanding and awareness |
-| `sanowu` | predictable | an event or pattern that can be anticipated from available information |
+| `sanowu` | predictable | advance anticipation of an event or pattern from prior information |
 | `seloi` | insightful | perception of a relation or significance that is not immediately apparent |
 | `selu` | flow | creates mental state of optimal experience and effortless concentration |
 | `selua` | aware | awareness directed towards a present fact, sensation, event, or condition |
@@ -636,7 +636,7 @@
 | `thimelo` | pace | speed at which an exchange proceeds |
 | `thorae` | facilitator | Group enabling |
 | `thorelu` | converse | Verbal exchange between people |
-| `thosami` | compatible | communication formats that can be exchanged or rendered together |
+| `thosami` | compatible | communication formats able to be exchanged or rendered together |
 | `thumela` | teach | knowledge transfer through communication |
 | `thunesi` | asynchronous | an exchange without simultaneous presence |
 | `toloi` | messenger | Message carrying |
@@ -967,7 +967,7 @@
 | `kiroa` | sign | Communication object |
 | `kiru` | chisel | Carving tool |
 | `kisholu` | specification | an explicit set of requirements for design, work, or technical provision |
-| `koluri` | reliable | a quality of designed and maintained technical function |
+| `koluri` | reliable | a technical judgement about a designed or maintained function |
 | `kori` | leather | Durable covering |
 | `kuma` | drum | Rhythm maker |
 | `kuremi` | grind | Meal from grain |
@@ -1044,7 +1044,7 @@
 | `piru` | trader | Goods movement |
 | `ponu` | door | Passage control |
 | `poru` | productive | a workshop, garden, or system that yields an actual result |
-| `poruli` | efficient | a comparative quality of designed processes and systems |
+| `poruli` | efficient | an efficiency judgement applied to a designed process or system |
 | `relo` | symbol | Meaning carrier |
 | `relua` | mirror | Reflecting surface |
 | `repha` | bridge | Spanning structure |

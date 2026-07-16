@@ -8,17 +8,28 @@
     "ri"
   ],
   "pos": "adjective",
-  "concept": "Reliable / Consistently Performing a Required Function",
-  "description": "Consistently performing a required function under stated conditions, and the word is only ever as strong as the function, the conditions, and the duration actually named alongside it. It says nothing about a person's trustworthiness, which stays its own separate quality.",
-  "sound_symbolism": "Crisp 'ko' starts with a clean stop and measured round vowel. Stressed 'lu' releases the tongue into a long, even flow. 'Ri' adds a light repeated contact before ending on bright 'i', so one firm beginning supports two liquid movements and the feel of performance that can be heard again.",
-  "grammatical_notes": "An adjective placed before a noun or used predicatively: 'koluri monaki' (a reliable component); 'ha terura koluri nai.' (This system is reliable.) The quality-noun rule supplies reliability. State function, duration, conditions, evidence, and uncertainty where relevant. Distinct from 'kolu' (steady), 'mureo' (stable), 'telua' (accurate), and 'theomi' (trust).",
+  "search_terms": [
+    "reliability",
+    "dependable",
+    "repeatable performance"
+  ],
+  "description": "Something is 'koluri' when it consistently performs a named required function through the conditions and duration being discussed. A pump may be reliable under ordinary load without any claim about floodwater or a decade of neglect. 'kolu' (steady) concerns limited variation; 'mureo' (stable) concerns retaining a state through disturbance.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release it into true-mid rounded back 'o'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and move into stressed high rounded back 'u'. Make a tap or short trill with the tongue tip for 'r' and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "After the full velar closure of 'ko', stressed lateral 'lu' and final tapped or briefly trilled 'ri' keep the word moving through two clear tongue gestures. The firm opening and repeatable contacts can serve as a mnemonic for tested performance.",
+  "usage_notes": "'koluri' appears before a noun. Predicatively, it is placed ahead of 'nai' (be). As a noun, the form means reliability. The strongest account identifies the required job and its test setting, with duration or uncertainty when either matters. For a person, 'theomi' (trust) and the conduct supporting it avoid turning technical repeatability into a judgement of character.",
+  "examples": [
+    {
+      "phi": "ha terura koluri nai.",
+      "translation": "This system is reliable."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Reliable shared infrastructure depends on maintained evidence about actual function, not faith in a favored technology or institution.",
-    "peace-linguistics-practices": "The technical term avoids treating a machine's repeatable performance and a person's relational trustworthiness as the same judgment."
+    "solarpunk-values": "Shared infrastructure earns confidence through maintained performance under real conditions, not affection for a favoured design.",
+    "peace-linguistics-practices": "The technical word leaves a person's trustworthiness to evidence about conduct and relationship rather than borrowing a machine rating."
   },
   "semantic_domains": {
     "cognition": "an evidence-bounded claim about performance under conditions",
-    "creation": "a quality of designed and maintained technical function",
+    "creation": "a technical judgement about a designed or maintained function",
     "temporal": "consistent performance across a stated duration"
   },
   "modules": [

@@ -8,18 +8,28 @@
     "li"
   ],
   "pos": "adjective",
-  "concept": "Efficient / High Useful Output Relative to Selected Input",
-  "description": "Producing a high useful output relative to a selected input. Every efficiency claim carries a hidden boundary and a value choice inside it, since a process can be efficient by one measure while remaining harmful, unjust, or out of reach for the people who need it.",
-  "sound_symbolism": "'Po' starts with a brief closure and a rounded release. The stress rolls through 'ru'; energy remains in continuous motion as light 'li' lets the tongue glide into bright 'i'. The whole word spends one closure and carries the rest of its work through liquids, a compact path from effort to result.",
-  "grammatical_notes": "An adjective placed before a noun or used predicatively: 'poruli terura' (an efficient system); 'ha terura poruli nai.' (This system is efficient.) The quality-noun rule supplies efficiency. State the selected input, useful output, boundary, and conditions when the claim could mislead. Distinct from 'poru' (productive), 'thenoki' (sustain), and 'welao' (good).",
+  "search_terms": [
+    "efficiency",
+    "resource-efficient",
+    "input-output relation"
+  ],
+  "description": "A process or system is 'poruli' when it produces much useful output in relation to a selected input. The boundary matters: a stove may use little fuel but demand many hours of labour. It is efficient by one measure and not by the other. 'poru' (productive) reports useful results; 'poruli' compares them with what was spent.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release them into true-mid rounded back 'o'. Make a tap or short trill with the tongue tip for 'r' and move into stressed high rounded back 'u'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "'poruli' spends one complete closure on opening 'po'. The stressed tap or short trill and final lateral then carry the word without another stop, an economical contour that can help the meaning stay in memory.",
+  "usage_notes": "'poruli' modifies a following noun; when predicative, it precedes 'nai' (be). Its noun form means efficiency. An informative claim gives the input and useful output, then leaves its boundary open to inspection. Sustainability and goodness are separate judgements.",
+  "examples": [
+    {
+      "phi": "ha terura poruli nai.",
+      "translation": "This system is efficient."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Efficiency can reduce resource use, but the word explicitly keeps system boundaries, excluded harms, and chosen benefits available for ethical examination.",
-    "secular-buddhist-philosophy": "The definition resists attachment to a favorable metric by asking what was counted, what was omitted, and under which conditions."
+    "solarpunk-values": "A repair may save material while consuming scarce labour. Naming both sides keeps an efficiency claim useful without letting one favourable measure do all the talking."
   },
   "semantic_domains": {
     "activity": "a relation between resources used and useful performance",
     "cognition": "an assessment whose result depends on selected inputs, outputs, and boundaries",
-    "creation": "a comparative quality of designed processes and systems"
+    "creation": "an efficiency judgement applied to a designed process or system"
   },
   "modules": [
     "ecological-systems-and-material-life",

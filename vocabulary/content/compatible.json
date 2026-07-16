@@ -8,17 +8,28 @@
     "mi"
   ],
   "pos": "adjective",
-  "concept": "Compatible / Able to Work Together for a Stated Purpose",
-  "description": "Able to work together for a stated purpose and under stated interface conditions. Compatible devices or formats need not be identical, accessible, or reliable outside that pairing; 'nowiso' (interface) names where interaction occurs, while 'thosami' says the selected parts can cooperate there.",
-  "sound_symbolism": "Rounded 'tho' begins with breath along the teeth. Stressed 'sa' shifts that stream into a fine hiss and broad 'a'. Final 'mi' closes the lips around a bright nasal ending. Three places of contact meet cleanly, with the widest vowel held at the center.",
-  "grammatical_notes": "A predicative or attributive adjective, often with a plural subject: 'lo keli thosami nai.' (The devices are compatible.) A 'nua' phrase may name the other component. The quality-noun rule supplies compatibility.",
+  "search_terms": [
+    "compatibility",
+    "interoperable",
+    "technical fit",
+    "works together"
+  ],
+  "description": "Two or more components, formats, or methods are 'thosami' when they can work together for a chosen purpose through a stated interface. A plug and socket may fit physically while their electrical requirements remain incompatible. 'theali' (fitting) judges broader suitability; 'samethu' (equivalent) says that different things give a selected matching result.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and round the lips into true-mid back 'o'. Raise the tongue blade towards the alveolar ridge for unvoiced 's', direct air through the narrow channel, and open into stressed central 'a'. Close the lips for voiced nasal 'm', carry the voice through the nose, and finish with high-front unrounded 'i'.",
+  "usage_notes": "One component can carry the adjective attributively; after a plural subject, the predicate precedes final 'nai' (be). A 'nua' phrase may identify its counterpart. In noun position, 'thosami' means compatibility. Exact protocol and version names remain in their source form when it would not identify the tested pairing.",
+  "examples": [
+    {
+      "phi": "lo keli thosami nai.",
+      "translation": "The devices are compatible."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Open, repairable systems depend on parts that can meet across generations of tools instead of trapping every user inside one vendor or design.",
-    "peace-linguistics-practices": "Compatibility keeps a technical fit claim separate from the human questions of access, consent, and usefulness."
+    "solarpunk-values": "A community can keep an old tool in service when a new part meets its interface instead of forcing the whole system into the discard pile.",
+    "peace-linguistics-practices": "A claim about technical fit does not quietly decide whether the result is accessible, consensual, or useful to the person involved."
   },
   "semantic_domains": {
     "activity": "components working together for a selected purpose",
-    "communication": "communication formats that can be exchanged or rendered together",
+    "communication": "communication formats able to be exchanged or rendered together",
     "creation": "designed fit across an interface"
   },
   "modules": [
