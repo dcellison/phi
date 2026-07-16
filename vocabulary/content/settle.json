@@ -7,16 +7,26 @@
     "ki"
   ],
   "pos": "verb",
-  "concept": "Settle / Establish Residence / Come to Rest",
-  "description": "To establish oneself in a place, to stop traveling and put down roots. 'Soki' names the transition from motion to rest, from journeying to dwelling. It implies intention to stay—not a pause in travel but a choice of home, a commitment to place.",
-  "sound_symbolism": "The word comes to rest as settling does. 'So' begins with sibilant softness, movement slowing. The open 'o' surveys the chosen place. Then 'ki' places with velar definition, the decision made, roots beginning.",
-  "grammatical_notes": "Functions as intransitive verb: 'mia soki.' (I settle.) Takes locative: 'mia mua lokue soki.' (I settle in a place.) Can extend metaphorically: 'mia ha thena soki.' (I settle this matter.) Related to 'manolu' (stay) but implies longer commitment, and to 'menui' (dwell), the state that follows.",
+  "search_terms": [
+    "establish residence",
+    "make a home"
+  ],
+  "description": "A person or community that 'soki' begins or establishes continuing residence in a place. The word marks the transition towards 'menui' (dwell), not the end of every journey or the resolution of a dispute. Its subject may have chosen the move or been displaced. 'soki' records residence beginning, not whether that beginning was welcome or rightful.",
+  "articulatory_notes": "Bring the tongue close to the alveolar ridge for unvoiced 's' and keep the air moving into stressed rounded middle-height back 'o'. Raise the back of the tongue to the soft palate for unvoiced 'k', release it, and finish with high-front 'i'.",
+  "sound_symbolism": "Sibilant airflow continues into the rounded vowel, but the velar stop brings it to a definite interruption before final 'i'. The two compact syllables move from continuity through closure and release.",
+  "usage_notes": "A place of settlement normally takes locative 'mua'. 'soki' begins a residence relation, 'menui' presents that relation as ongoing, and 'manolu' only says that someone or something stays. A question or dispute needs the verb for what actually happened rather than the English extension of 'settle'.",
+  "examples": [
+    {
+      "phi": "lo shia mua wemo to soki.",
+      "translation": "They settled on the plain."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Settling sustainably means committing to place—learning its ecology, building community, thinking in generations.",
-    "pre-industrial-wisdom": "Settlement creates culture—knowledge of local seasons, relationships with land and neighbors, traditions rooted in place."
+    "peace-linguistics-practices": "A neutral residence verb can report that people established themselves in a place without quietly granting consent or a rightful claim. Those judgements remain available, but the speaker must make them separately."
   },
   "semantic_domains": {
-    "community": "Committing to location and relationships",
-    "spatial": "Establishing dwelling place"
+    "activity": "beginning or establishing continuing residence",
+    "community": "a person or group establishing residence in a shared place",
+    "spatial": "transition into residence at a location"
   }
 }

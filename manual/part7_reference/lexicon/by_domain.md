@@ -8,12 +8,12 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (222)
+## activity (224)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `hasenu` | recess | a pause held inside a larger proceeding |
-| `hasi` | wait | The stillness that stays ready |
+| `hasi` | wait | continuing through an interval in expectation |
 | `hasoru` | pending | a task, request, or decision awaiting its next action or condition |
 | `hekawi` | find | The forager's and searcher's verb |
 | `helaki` | amend | formally changing part of a continuing rule or record |
@@ -65,9 +65,10 @@
 | `manolu` | stay | remaining in a place, state, or relation |
 | `masue` | measure | Determining a magnitude for a stated purpose |
 | `masuro` | calibrate | comparison and adjustment of a device against a reference |
-| `meilo` | sit | fundamental human activity of sitting |
+| `meilo` | sit | holding or entering a seated posture |
 | `meliho` | sing | fundamental human activity of singing |
 | `menai` | dedicate | setting work, effort, or self apart for a person or purpose |
+| `menui` | dwell | inhabiting a place as an ongoing abode or usual setting |
 | `milau` | drink | fundamental human activity of drinking |
 | `misharo` | consult | seeking a view before a pending action |
 | `molawi` | cooperate | adjusting separate actions so they work compatibly |
@@ -148,7 +149,7 @@
 | `rohi` | rub | Friction as care |
 | `roke` | move | changing position or continuing in motion |
 | `rotiku` | dance | fundamental human activity of dancing |
-| `ruemi` | lie down | Lowering the body to rest |
+| `ruemi` | lie down | holding or entering a horizontal or reclining posture |
 | `rulami` | adventure | The journey into the unknown |
 | `runaki` | wayfind | maintaining orientation while moving |
 | `ruweli` | access | reaching or using a stated activity or resource |
@@ -173,6 +174,7 @@
 | `sitawi` | inventory | recording and reviewing held items |
 | `sithora` | role | a defined position associated with stated functions and obligations |
 | `siwe` | sweat | Effort's residue |
+| `soki` | settle | beginning or establishing continuing residence |
 | `somaki` | test | performing a defined evidential procedure |
 | `someru` | supervise | attending to another participant's work within a stated scope |
 | `somethi` | monitor | planned repeated observation, measurement, sampling, or recording |
@@ -188,7 +190,7 @@
 | `theali` | fitting | an action or method suited to its present purpose and conditions |
 | `thekamu` | intervene | a deliberate action within bodily care |
 | `therapi` | boil | heating liquid to sustained bubbling |
-| `therilu` | rest | fundamental human activity of resting |
+| `therilu` | rest | pausing or reducing activity for recovery |
 | `therua` | eager | readiness to begin or join a wanted action |
 | `thesa` | careful | an action performed with attention to relevant mistakes or harmful consequences |
 | `thesani` | skill | a learned capacity for practical action |
@@ -223,7 +225,7 @@
 | `wesha` | lazy | avoidable reluctance to exert effort in a chosen or accepted activity |
 | `wethaki` | towel | cloth used in wiping or drying |
 | `wethate` | laundry | cloth moving through washing, drying, or folding |
-| `whano` | stand | fundamental human activity of standing |
+| `whano` | stand | holding or entering an upright posture |
 | `whenola` | wander | movement allowed to find its course as it proceeds |
 | `wheparu` | discriminate | category-shaped treatment producing disadvantage |
 | `whepelo` | retaliate | imposing a disadvantage in response to a stated prior action |
@@ -406,9 +408,9 @@
 | `norea` | soul | Deep identity |
 | `norelu` | form | Understanding pattern and organization |
 | `norethi` | confident | the experienced strength of a belief or judgment |
-| `nowae` | awaken | consciousness shift from sleep to awareness |
+| `nowae` | awaken | return of waking awareness after sleep |
 | `nukesa` | expert | extensive domain understanding supported by practice and study |
-| `nulae` | sleep | alternative consciousness state essential for memory and mental processing |
+| `nulae` | sleep | reduced waking awareness and responsiveness during sleep |
 | `nulomi` | guts | The seat of wordless knowing |
 | `nuphari` | fog | Perception limited |
 | `nuwi` | clear | meaning or structure that can be followed without a tangle |
@@ -682,7 +684,7 @@
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
-## community (282)
+## community (280)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -744,12 +746,11 @@
 | `luseri` | provenance | custody, contribution, and transfer among participants |
 | `makelu` | abstain | an abstention distinct from absence, refusal, and exclusion |
 | `manawi` | compromise | a settlement reached through concessions among participants |
-| `meilo` | sit | essential posture for gatherings, councils, and shared activities |
 | `meliho` | sing | Shared singing traditions |
 | `meliphe` | music | What the gathering makes |
 | `melu` | friend | fundamentally a social relationship of voluntary interpersonal connection |
 | `menua` | counselor | Guidance role |
-| `menui` | dwell | belonging to local place and connections |
+| `menui` | dwell | residence among other people or beings in a place |
 | `mera` | net | Catching together |
 | `meropi` | cherish | Nurturing what we love |
 | `miona` | person | persons are the fundamental units of social structures |
@@ -880,7 +881,7 @@
 | `sirelu` | disclose | changing who may know bounded information |
 | `sithora` | role | a social or institutional role with bounded scope |
 | `soeli` | cup | Shared refreshment |
-| `soki` | settle | Committing to location and relationships |
+| `soki` | settle | a person or group establishing residence in a shared place |
 | `someru` | supervise | a bounded work relationship whose authority remains separately stated |
 | `sonari` | isolate | a protective relation requiring support and review |
 | `soneho` | tradeoff | a choice structure whose gains and burdens may fall on different people |
@@ -950,7 +951,6 @@
 | `wesoma` | mutual | reciprocity among people in a shared relationship |
 | `wethate` | laundry | a recurring domestic workload within a household |
 | `whaline` | thank | Completing the gift cycle |
-| `whano` | stand | posture of greeting, equality, and standing together |
 | `whelani` | welcome | receiving another person's presence as wanted |
 | `whemori` | waste | a status assigned by a holder, process, or institution with consequences for others |
 | `wheo` | elder | serves as keeper of collective memory and story |
@@ -1256,7 +1256,7 @@
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 | `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
-## nature (225)
+## nature (226)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1326,6 +1326,7 @@
 | `melothe` | pond | Small still water body |
 | `meluna` | season | Annual rhythm pattern |
 | `meluri` | climate | long-duration patterns of weather across a region |
+| `menui` | dwell | habitation by organisms in an environment |
 | `menuro` | habitat | the place and conditions in which a living group dwells |
 | `milau` | drink | participation in water cycle and natural systems |
 | `milura` | milk | The first nourishment |
@@ -1486,7 +1487,7 @@
 | `wolea` | wood | Tree material |
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 
-## physical (356)
+## physical (357)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1584,7 +1585,7 @@
 | `malomi` | balance | encompasses bodily balance alongside emotional and spiritual |
 | `manuwe` | hand | the body member of grasping and making |
 | `masue` | measure | Supports embodied and instrument-based measurement |
-| `meilo` | sit | fundamental bodily position and experience of supported rest |
+| `meilo` | sit | bodily posture supported by a seat or the haunches |
 | `meipa` | seat | Made for sitting |
 | `menoa` | face | The front of the head bearing features |
 | `mikasu` | dose | an amount intended or delivered to a body |
@@ -1639,9 +1640,10 @@
 | `nomira` | collect | bringing tangible objects into an accumulating group |
 | `nophae` | nose | Central facial feature and breath channel |
 | `norupe` | spoon | a small hollow carried at the end of a handle |
+| `nowae` | awaken | bodily transition out of sleep |
 | `nuelo` | dark | little light reaching a place, surface, or viewer |
 | `nuhewa` | weep | The body's release of grief |
-| `nulae` | sleep | fundamentally a bodily process of physical restoration and repair |
+| `nulae` | sleep | recurring bodily state of sleep |
 | `nulomi` | guts | The belly's inner workings |
 | `numea` | nestle | The settling into warmth |
 | `nuola` | eat | the bodily act of taking nourishment |
@@ -1725,7 +1727,7 @@
 | `rokili` | spine | The column of the back |
 | `rolutha` | wagon | Wheels made a carrier |
 | `rotiku` | dance | Rhythmic body movement |
-| `ruemi` | lie down | The horizontal resting posture |
+| `ruemi` | lie down | bodily posture supported along more than the feet or seat |
 | `saphei` | shallow | a vessel, cut, or body of water with little depth |
 | `sawa` | wash | Restoration to cleanness |
 | `sawathi` | soap | material that loosens oil and dirt in water |
@@ -1780,7 +1782,7 @@
 | `thepalu` | garden | tangible spaces involving soil, plants, and physical cultivation |
 | `thephaku` | inflammation | a local or systemic bodily response pattern |
 | `therapi` | boil | a liquid state with continuous rising bubbles |
-| `therilu` | rest | the bodily state of stillness and recovery |
+| `therilu` | rest | rest of a body or bodily capacity |
 | `theru` | thick | substantial material thickness, density, or viscosity |
 | `thewuni` | legible | reading made possible under visual or tactile conditions |
 | `thiku` | small | small overall size or amount relative to the immediate comparison |
@@ -1825,7 +1827,7 @@
 | `wethamo` | blanket | a covering used to retain bodily warmth |
 | `wethate` | laundry | garments and household cloth gathered as one load |
 | `whalo` | large | overall size or amount considered against a contextual scale |
-| `whano` | stand | fundamental upright bodily posture requiring balance and strength |
+| `whano` | stand | upright bodily posture or object orientation |
 | `whekaro` | adverse effect | a harmful or burdensome bodily effect |
 | `whelina` | grass | Low-growing vegetation |
 | `whemaki` | allergy | an immune-mediated bodily response to an agent |
@@ -1872,7 +1874,7 @@
 | `whoa` | whole | all relevant parts included in the total under discussion |
 | `wi` | two | the exact quantity two and the coefficient two in ternary numerals |
 
-## ritual (36)
+## ritual (34)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1884,7 +1886,6 @@
 | `lopha` | vessel | Sacred receptacle |
 | `lumeo` | die | The event around which mourning gathers |
 | `maewo` | threshold | Liminal space |
-| `meilo` | sit | ceremonial significance in meditation, councils, and traditional gatherings |
 | `meipa` | seat | What receives the practice |
 | `melira` | song | Carrier of communal memory and ceremony |
 | `menai` | dedicate | dedication expressed through a repeated or ceremonial practice |
@@ -1910,10 +1911,9 @@
 | `thorea` | ceremony | performs prescribed actions in sacred structured space |
 | `thula` | spring | Sacred gift-place |
 | `thunepa` | sacred place | Place of reverence |
-| `whano` | stand | ceremonial stance for respect, witness, and participation |
 | `whunei` | breathe | Central to meditation practice |
 
-## spatial (152)
+## spatial (153)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1960,8 +1960,8 @@
 | `luphonu` | boat | The water's vehicle |
 | `maewo` | threshold | Crossing point |
 | `manolu` | stay | continued presence at a location |
-| `meilo` | sit | establishes presence in a specific location, transforming space into place |
-| `menui` | dwell | relationship between being and place |
+| `meilo` | sit | seated position in relation to a place or supporting surface |
+| `menui` | dwell | continuing residence in a location |
 | `menuro` | habitat | a bounded or distributed area understood relative to an organism |
 | `mirewu` | private | a place reserved from uninvited entry or observation |
 | `moeli` | hearth | Home center |
@@ -2009,6 +2009,7 @@
 | `roke` | move | change of position within space |
 | `ronua` | south | Cardinal direction opposite the axis point |
 | `ruela` | path | routes through physical space |
+| `ruemi` | lie down | horizontal or reclined position against a surface |
 | `runaki` | wayfind | finding a route through a physical or informational place |
 | `ruweli` | access | access to a place or route under stated conditions |
 | `saphei` | shallow | small distance from a surface or opening to the bottom |
@@ -2026,7 +2027,7 @@
 | `shuroa` | shelter | Protective space |
 | `silawo` | village | The human-scale settlement |
 | `siru` | marker | Position indicator |
-| `soki` | settle | Establishing dwelling place |
+| `soki` | settle | transition into residence at a location |
 | `sonari` | isolate | a bounded separation between a source and possible hosts |
 | `sorui` | circle | Round form |
 | `tapu` | close | The boundary completed |
@@ -2060,7 +2061,7 @@
 | `wepu` | go | directed travel through space |
 | `wesho` | locate | Finding position |
 | `whalo` | large | considerable extent without selecting a particular dimension |
-| `whano` | stand | vertical positioning that establishes presence and place |
+| `whano` | stand | vertical position relative to a surface |
 | `whemoa` | empty | a bounded container or place with no contents or occupants |
 | `whenola` | wander | a route or destination left unsettled |
 | `wira` | window | Light opening |
@@ -2076,7 +2077,7 @@
 |---|---|---|
 | `halemu` | remember | a cognitive relation that links something past with the present |
 | `hasenu` | recess | a bounded interval with an expected return |
-| `hasi` | wait | Presence across an interval |
+| `hasi` | wait | an interval oriented towards a later person, event, or condition |
 | `hasoru` | pending | an open matter whose status may change after a later event |
 | `helanu` | recover | an uneven health course unfolding over time |
 | `helia` | youth | life stage of growth and transformation |
@@ -2148,8 +2149,8 @@
 | `noruwa` | generation | The interval of inheritance |
 | `nosa` | now | Present time |
 | `noshi` | near (adj) | a time close to the present or another stated moment |
-| `nowae` | awaken | daily transition marking time's rhythm |
-| `nulae` | sleep | structures temporal experience through daily cycles and circadian rhythms |
+| `nowae` | awaken | the boundary between a sleep period and wakefulness |
+| `nulae` | sleep | sleep occurring in periods and daily cycles |
 | `nurawi` | chronic | continuation or return across a duration set by a clinical source |
 | `nuri` | cycle | Recurring pattern |
 | `nuwoe` | stage | Development level |
@@ -2208,7 +2209,7 @@
 | `thelumo` | ritual | marks passages of time and transitions |
 | `thenoki` | sustain | Maintaining through time |
 | `therema` | tradition | bridging time and connecting past to present |
-| `therilu` | rest | the pause within the rhythm of activity |
+| `therilu` | rest | an interval between periods of greater activity |
 | `thilonu` | prepare | Creating conditions for future action |
 | `thimelo` | pace | movement distributed through time |
 | `thimora` | schedule | planned relations among times and stages |
@@ -2240,7 +2241,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (121)
+## wisdom (119)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2272,7 +2273,6 @@
 | `lumoi` | lantern | Guiding illumination |
 | `malomi` | balance | navigates opposing forces through skillful equilibrium |
 | `manawi` | compromise | a practical but morally nonautomatic response to conflict |
-| `meilo` | sit | sitting meditation as practice for cultivating mindful awareness |
 | `menua` | counselor | Advisory presence |
 | `moluki` | transform | Understanding deep change as possible |
 | `mosha` | period | Bounded duration |
@@ -2361,7 +2361,6 @@
 | `welao` | good | a contextual favourable judgement whose grounds remain open to examination |
 | `weloni` | body | The first foundation of mindfulness |
 | `whamoi` | doubt | recognition that judgment may remain open while inquiry continues |
-| `whano` | stand | standing meditation and practice of mindful presence |
 | `wheo` | elder | holds experiential knowledge from long living |
 | `whori` | mend | Ethic of care and repair |
 | `wireo` | future | Possibility's domain |

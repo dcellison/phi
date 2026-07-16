@@ -7,21 +7,26 @@
     "no"
   ],
   "pos": "verb",
-  "concept": "Stand / Be Upright",
-  "description": "To hold upright posture, feet grounded, spine vertical. 'Whano' covers both remaining upright and, with the inchoative 'pa', the act of rising. In Phi standing is the posture of witness and greeting: meeting others at full height, level, neither above nor below.",
-  "sound_symbolism": "The word begins with 'wha', where the breathy fricative 'wh' creates the sound of rising - like a gentle exhalation that lifts the body upward, the breath that accompanies the act of standing. This breathy beginning captures both effort and ease, the conscious choice to rise. The open 'a' that follows suggests the expansion of taking one's full space. The second syllable 'no' provides grounding through the nasal 'n' - sound resonating through bones into earth - while 'o' rounds out in completeness, whole and centered. Together, 'whano' embodies the full arc of standing: the breath of rising meeting the solidity of stance, creating a sound portrait of dignified, grounded presence.",
-  "grammatical_notes": "Functions as an intransitive verb describing the state or action of being upright ('mia whano' - I stand/I am standing). Can indicate the action of standing up when combined with inchoative aspect marker 'pa' ('mia pa whano' - I stand up/I rise to standing). Takes locative complements with prepositions to indicate where one stands. Like 'meilo' (sit), encompasses both the dynamic action of rising to stand and the stative condition of remaining upright. The verb carries connotations of readiness, dignity, and respectful presence.",
+  "search_terms": [
+    "be upright",
+    "stand up"
+  ],
+  "description": "A person waiting at a doorway may 'whano', and so may a bottle left upright on a shelf; both hold an upright posture or position, though the word says nothing about why. 'pa whano' marks the change into that position: to stand up.",
+  "articulatory_notes": "Round the lips as if for 'w' while letting unvoiced air pass through for 'wh', then open into stressed central 'a'. Place the tongue tip against the backs of the upper teeth for dental 'n', keep the airflow through the nose, and finish with rounded middle-height back 'o'.",
+  "sound_symbolism": "Breathy 'wh' opens into the broad stressed vowel, then the nasal and rounded ending draw the sound back into balance. The mouth opens fully before finding a quieter, steadier finish.",
+  "usage_notes": "'whano' names the posture or position itself. Inchoative 'pa' distinguishes standing up, while 'rihe' (rise) names upward movement more generally and need not end in a standing posture.",
+  "examples": [
+    {
+      "phi": "mia mua maewo whano.",
+      "translation": "I stand at the threshold."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Standing meditation, known as 'standing like a mountain,' is a recognized Buddhist practice that cultivates mindful presence through upright posture. The act of standing with awareness teaches us to find stability without rigidity, dignity without pride. In standing, we practice being fully present in our bodies while maintaining equanimity - neither collapsing nor straining, embodying the middle way.",
-    "peace-linguistics-practices": "Standing in Phi reframes vertical posture as peaceful presence rather than confrontation. We stand to greet others as equals, meeting eye to eye in mutual respect. Standing witness replaces standing against; standing together replaces standing over. The language shapes how we conceptualize uprightness itself - not as dominance but as taking our rightful place in the circle of beings.",
-    "pre-industrial-wisdom": "Standing upright is the defining posture of humanity, freeing our hands for tool use and enabling our evolution as cooperative beings. Traditional cultures recognize standing's ceremonial power - standing in circles for council, standing to show respect for elders, standing to bear witness to important moments. These practices preserve the understanding that how we stand reflects how we meet the world."
+    "secular-buddhist-philosophy": "Standing is one of the four ordinary bodily postures used for mindfulness practice. 'whano' names the posture, not a spiritual achievement, so attention must still be stated or supplied by context."
   },
   "semantic_domains": {
-    "activity": "fundamental human activity of standing",
-    "community": "posture of greeting, equality, and standing together",
-    "physical": "fundamental upright bodily posture requiring balance and strength",
-    "ritual": "ceremonial stance for respect, witness, and participation",
-    "spatial": "vertical positioning that establishes presence and place",
-    "wisdom": "standing meditation and practice of mindful presence"
+    "activity": "holding or entering an upright posture",
+    "physical": "upright bodily posture or object orientation",
+    "spatial": "vertical position relative to a surface"
   }
 }

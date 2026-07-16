@@ -7,16 +7,22 @@
     "si"
   ],
   "pos": "verb",
-  "concept": "Wait / Remain in Readiness / Stay for What Comes",
-  "description": "To wait: for a friend, for rain, for the bread to rise. Remaining present while time does its work. Kin to 'hurao' (patient, the quality) and 'manolu' (stay, the location) — waiting is staying with attention still on.",
-  "sound_symbolism": "The quiet 'h' is held breath, the open 'a' is duration itself, and 'si' continues — the same syllable that marks ongoing aspect, fittingly, since waiting is pure ongoingness.",
-  "grammatical_notes": "Intransitive: 'lo mia hasi.' (We wait.) With the awaited marked by 'wei': 'mia wei thia hasi.' (I wait for you.) With duration: 'shia sui howai to hasi.' (They waited through the evening.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "Waiting is the layperson's meditation: presence without action, attention without object. A culture's relationship to waiting is its relationship to time.",
-    "pre-industrial-wisdom": "Bread, seeds, seasons, births — the old crafts are mostly skilled waiting. Hurry was the industrial invention."
-  },
+  "search_terms": [
+    "await",
+    "wait for"
+  ],
+  "description": "Someone who 'hasi' continues through an interval with a later person, event, or condition in view. They may wait quietly, walk while waiting, or finish another task in the meantime; the verb neither praises patience nor makes the delay welcome.",
+  "articulatory_notes": "Let unvoiced air pass freely through the open throat for 'h', then open into stressed central 'a'. Bring the tongue close to the alveolar ridge for unvoiced 's' without stopping the airflow, and finish with high-front 'i'.",
+  "sound_symbolism": "Breath and a broad stressed vowel leave room before final 'si' carries the sound onwards. That full last syllable also echoes the imperfective particle 'si', a useful memory aid for an interval still in progress rather than a derivation.",
+  "usage_notes": "Mark the awaited person or thing with 'wei', as in 'wei thia hasi' (wait for you). 'manolu' (stay) concerns continued presence or condition, 'hasoru' (pending) names a status, and module word 'wiresu' (postpone) changes when a planned event will occur.",
+  "examples": [
+    {
+      "phi": "mia wei thia hasi.",
+      "translation": "I wait for you."
+    }
+  ],
   "semantic_domains": {
-    "activity": "The stillness that stays ready",
-    "temporal": "Presence across an interval"
+    "activity": "continuing through an interval in expectation",
+    "temporal": "an interval oriented towards a later person, event, or condition"
   }
 }

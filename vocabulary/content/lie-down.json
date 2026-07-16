@@ -8,16 +8,26 @@
     "mi"
   ],
   "pos": "verb",
-  "concept": "Lie Down / Recline / Lower the Body to Rest",
-  "description": "To lie down or recline: the body lowered into horizontal rest. Completes Phi's set of the four postures — 'whano' (stand), 'thalo' (walk), 'meilo' (sit), 'ruemi' (lie down) — the traditional postures in which mindfulness is sustained. Distinct from 'nulae' (sleep, the state) and 'therilu' (rest, the pause): 'ruemi' is the posture itself.",
-  "sound_symbolism": "The liquid 'ru' begins the easing downward, the open hiatus 'u.e' is the slow fall of the body giving its weight away, and the inward 'mi' arrives at stillness — the self, settled flat. Spoken with full hiatus, the word takes exactly as long as lying down should.",
-  "grammatical_notes": "Intransitive: 'mia ruemi' (I lie down). With place: 'mia nia nuwera ruemi' (I lie down on the bed). The Metta Sutta's ninth verse used 'therilu' (rest) for this posture before the word existed; both readings now stand.",
+  "search_terms": [
+    "recline",
+    "be lying"
+  ],
+  "description": "A person who 'ruemi' lies with the body horizontal or reclined against a supporting surface. They might sleep, read, receive care, or merely look under the bed from there. Neither 'therilu' (rest) nor 'nulae' (sleep) is part of the posture itself.",
+  "articulatory_notes": "Make a tap or short trill at the alveolar ridge and move into rounded high-back 'u'. Give stressed middle-height front 'e' a separate syllable. Close the lips for voiced 'm', keep the resonance in the nose, and finish with high-front 'i'.",
+  "sound_symbolism": "Rounded 'u' opens across the 'u.e' hiatus, giving the middle of the word time to lower without a rush. Final 'mi' closes the lips lightly and lets the sound come to a quiet stop.",
+  "usage_notes": "Inchoative 'pa ruemi' means to lie down. Without 'pa', 'ruemi' can present the horizontal or reclining posture as already held, and a locative preposition can mark its support.",
+  "examples": [
+    {
+      "phi": "mia nia nuwera ruemi.",
+      "translation": "I lie down on the bed."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The fourth posture of practice: mindfulness sustained even lying down. The sutta's instruction needed this word, and now has it.",
-    "pre-industrial-wisdom": "Rest honored as bodily wisdom — lying down at midday, with the sun, without shame."
+    "secular-buddhist-philosophy": "Lying down completes the traditional set of four postures in which mindfulness can be practised. The posture does not guarantee mindfulness; it merely keeps the practice possible when the body is horizontal."
   },
   "semantic_domains": {
-    "activity": "Lowering the body to rest",
-    "physical": "The horizontal resting posture"
+    "activity": "holding or entering a horizontal or reclining posture",
+    "physical": "bodily posture supported along more than the feet or seat",
+    "spatial": "horizontal or reclined position against a surface"
   }
 }

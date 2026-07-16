@@ -52,6 +52,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Giving, receiving, keeping, and circulation | **DONE** | Thirteen inherited base entries now use the target prose contract. Giving, reception, taking, holding, exchange, portioning, collection, storage, release, and physical conveyance remain distinct without adding a root. |
 | Basic motion, endpoints, and staying | **DONE** | Nine inherited base verbs now use the target prose contract. Motion, path, deictic approach, departure, arrival, boundary crossing, return, and continued presence remain separate without adding a root. |
 | Manner, trajectory, and extended movement | **DONE** | Thirteen inherited base verbs now separate gait, medium, trajectory, orientation, and route structure. The coverage scan found no missing root among the neighbouring everyday motions. |
+| Posture, rest, waiting, and residence | **DONE** | Nine inherited base verbs now use the target prose contract. Bodily posture, recovery, sleep, expectation, continued residence, and the beginning of residence remain distinct without adding a root. |
 | Resume inherited content prose migration | **NEXT** | Continue with another inherited base noun or verb neighbourhood under the same coverage gate. |
 
 ## Batch overview
@@ -89,6 +90,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Giving, receiving, keeping, and circulation | [PR #388](https://github.com/dcellison/phi/pull/388) | **COVERED** | Thirteen base entries separate directed giving, gifts, reception, active taking, present holding, reciprocal exchange, portioning, collecting, storage, release, bringing, sending, and carrying. Lending, delivery, donation, and disputed taking remain transparent compositions. |
 | Basic motion, endpoints, and staying | [PR #389](https://github.com/dcellison/phi/pull/389) | **COVERED** | Nine base verbs separate motion itself, travel along a path, deictic approach, bounded departure and arrival, interior crossing, return, and continued presence. Start, stop, reach, approach, recession, and passage already use established grammar and relators. |
 | Manner, trajectory, and extended movement | [PR #390](https://github.com/dcellison/phi/pull/390) | **COVERED** | Thirteen base verbs separate bodily gait, vertical course, rotation, buoyancy, flow, extended travel, and an unsettled route. Crawling, sinking, sliding, rolling, drifting, and riding remain transparent compositions. |
+| Posture, rest, waiting, and residence | [PR #391](https://github.com/dcellison/phi/pull/391) | **COVERED** | Nine base verbs separate bodily position, rest, sleep, waking, waiting, dwelling, and settlement. Lower or supported postures, brief sleep, temporary residence, and dispute resolution remain transparent compositions. |
 
 ## Semantic batches and stable domains
 
@@ -129,6 +131,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Giving, receiving, keeping, and circulation | `activity`, `cognition`, `communication`, `community`, `nature`, `physical`, `quantity`, `spatial`, `temporal`, `wisdom` | Direction of transfer, present holding, social ownership, reciprocal exchange, arithmetic operation, arranged storage, and physical support through movement remain separate claims. |
 | Basic motion, endpoints, and staying | `activity`, `physical`, `spatial`, `temporal` | Motion itself, a route through space, orientation towards a reference point, bounded arrival or departure, interior crossing, return, and persistence through time remain separate claims. |
 | Manner, trajectory, and extended movement | `activity`, `cognition`, `nature`, `physical`, `spatial`, `temporal` | Bodily support, movement through a medium, vertical course, rotation, continuous current, route planning, and mental wandering remain separate claims. |
+| Posture, rest, waiting, and residence | `activity`, `cognition`, `community`, `nature`, `physical`, `spatial`, `temporal` | Bodily position, recovery, waking awareness, an expected later event, and continuing habitation remain separate claims. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -756,6 +759,26 @@ A child runs to the river, jumps from the bank, swims across, and later walks ho
 
 No new root follows from this scan. The six suspected gaps divide naturally across existing verbs, relators, body terms, and carriers. Connected use can reopen one of them, but none currently makes a Phi speaker dodge the physical facts.
 
+## Posture, rest, waiting, and residence
+
+At the end of a long meeting, one person remains seated while another stands at the door and waits for the rain to stop. Home at last, someone lies down, sleeps, wakes, and discovers that the kettle has once again shown more initiative than the household. Phi keeps bodily position separate from rest and the passage of time.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Standing, sitting, lying, and walking | Base `whano` (stand), `meilo` (sit), `ruemi` (lie down), and `thalo` (walk) | **COVERED** | The first three hold a bodily posture, while walking repeats a supported gait. Posture reports where the body is; its purpose and voluntariness remain separate. |
+| Entering and leaving a posture | Inchoative `pa`, cessative `te`, base `rihe` (rise), and the posture verb | **SETTLED** | `pa whano`, `pa meilo`, and `pa ruemi` enter their named postures. `rihe` remains the broader upward movement, and cessative `te` ends a posture without choosing the next one. |
+| Kneeling, crouching, squatting, and leaning | Base `mulu` (low), `kunoa` (knee), `panoru` (support), other body terms, and locative relations | **COMPOSITIONAL** | These positions differ by height, flexion, and the surface or body part carrying weight. An ordinary clause can name those facts, while connected use can reopen a particular posture if speakers repeatedly need it whole. |
+| Rest, stillness, weariness, and sleep | Base `therilu` (rest), `moesha` (still), `shorui` (weary), and `nulae` (sleep) | **COVERED** | Rest pauses or reduces activity for recovery. Stillness concerns motion, weariness reports reduced capacity, and sleep is a recurring bodily state; none guarantees the others. |
+| Sleep, waking, wakefulness, and dreams | Base `nulae`, `nowae` (awaken), `waeli` (conscious), and `whemura` (dream) | **COVERED** | Sleep and dreams can occur together but remain different claims. Awakening is the transition out of sleep, while consciousness or negated sleep can report wakefulness without turning `nowae` into a continuing state. |
+| Naps, dozing, and broken sleep | Base `teku` (short), `nulae`, aspect, repetition, and the sleep's stated quality | **COMPOSITIONAL** | A nap is a short period of sleep. Light, interrupted, or recurring sleep can be described when the difference matters, and the active corpus shows no repeated detour around a missing narrower verb. |
+| Waiting, staying, pending status, and postponement | Base `hasi` (wait) and `manolu` (stay), with `hasoru` (pending) and module `wiresu` (postpone) | **COVERED** | Waiting looks towards a later person, event, or condition and can continue alongside another activity. Staying preserves presence or condition, pending describes an open status, and postponement changes a plan's timing. |
+| Dwelling, living, home, settlement, and visiting | Base `menui` (dwell), `liona` (live), `womu` (home), `soki` (settle), and Household `phemiru` (visit) | **COVERED** | Dwelling treats a place as an ongoing abode, living states the activity of life, home names the place, settlement begins residence, and a visit is a bounded guest stay. Residence is a fact apart from ownership or ecological conduct. |
+| Temporary residence, shelter, and camping | Base `manolu`, `menui`, `womu`, shelter terms, duration, and Household `phemiru` | **COMPOSITIONAL** | A speaker can say whether a person stays briefly, inhabits a place for a stated period, visits as a guest, or uses a named shelter. Camping does not need one base verb before connected use asks for it. |
+| Settlement, consent, ownership, welcome, and legitimacy | Base `soki`, `lesawi` (consent), and `whelani` (welcome), with Commons `phenori` (ownership) and exact source status | **COVERED** | `soki` reports that residence begins. It neither grants permission nor settles a claim to land; the social, legal, and ethical relations remain separate statements. |
+| Resolving a question or dispute | Base `nawo` (agree), `lonae` (respond), the result reached, and module `kanuro` (decision) where applicable | **COMPOSITIONAL** | English settle can hide an answer, agreement, decision, or imposed closure beneath one verb. Phi states what occurred, while `soki` stays with residence. |
+
+No root is added. The nine migrated verbs cover the ordinary field, and inchoative `pa` already handles the common posture changes. The pass also removes two inherited assumptions: `menui` no longer makes ecological reciprocity part of residence, and `soki` no longer resolves a dispute merely because English uses the same word for both acts.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -796,4 +819,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete, and the inherited base migration has now carried ordinary motion from departure through manner, trajectory, and extended travel. The preceding verb neighbourhoods run from speech and cognition through social action and material circulation. Another 503 inherited base entries remain: 350 nouns and 153 verbs. Module batches remain paused. The next work package will select another coherent base noun or verb neighbourhood under the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, sustained interest or engagement, and neutral retraction remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete, and the inherited base migration has now carried ordinary motion into posture, rest, waiting, and residence. The preceding verb neighbourhoods run from speech and cognition through social action and material circulation. Another 494 inherited base entries remain: 350 nouns and 144 verbs. Module batches remain paused. The next work package will select another coherent base noun or verb neighbourhood under the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, sustained interest or engagement, and neutral retraction remain recorded review questions rather than hidden gaps.

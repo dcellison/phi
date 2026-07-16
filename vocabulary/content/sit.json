@@ -8,21 +8,26 @@
     "lo"
   ],
   "pos": "verb",
-  "concept": "Sit / Rest in Seated Position",
-  "description": "To lower oneself into a supported resting position, the body's weight moving from feet to seat. The verb covers both the act of sitting down and the state of being seated. In Phi it is also the posture of deliberate stillness, of councils, students, and meditation: choosing to stop moving and stay.",
-  "sound_symbolism": "The word begins with 'mei', where the labial nasal 'm' creates the most grounded consonant - lips together, sound resonating through bone, the body's weight settling into earth. This grounding flows into the vowel pair 'ei' pronounced in hiatus as /e.i/, creating Phi's distinctive two-beat rhythm within a single written syllable. The 'e' begins the lowering motion, then 'i' represents the slight adjustment as we find our center. The final syllable 'lo' flows liquid and continuous, the 'l' rolling into settled stability while 'o' rounds out in complete rest, whole and centered. 'Meilo' captures the full journey of sitting - grounding, adjusting, settling into supported stillness.",
-  "grammatical_notes": "Functions as an intransitive verb describing the state or action of being seated ('mia meilo' - I sit/I am sitting). Can indicate the action of sitting down when combined with inchoative aspect marker 'pa' ('mia pa meilo' - I begin to sit/I sit down). Takes locative complements with prepositions (sitting on/in/at something). Unlike some languages, does not require reflexive construction. The verb encompasses both the dynamic action of sitting down and the stative condition of being seated.",
+  "search_terms": [
+    "be seated",
+    "sit down"
+  ],
+  "description": "At a meal, on a council floor, or alone on a step, a person may 'meilo'. The body's weight is supported by a seat or the haunches rather than chiefly by the feet. Whether the sitting is comfortable, voluntary, restful, or contemplative belongs to the context.",
+  "articulatory_notes": "Close the lips for voiced 'm', let the sound pass through the nose, and move into middle-height front 'e'. Give stressed 'i' its own syllable rather than gliding from 'e'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and finish with rounded middle-height back 'o'.",
+  "sound_symbolism": "Closed lips begin the word, and the separate 'e.i' vowels make a small two-step adjustment before lateral 'lo' completes it. The centre does not slide; it settles one vowel at a time.",
+  "usage_notes": "'meilo' covers being seated. Inchoative 'pa meilo' means to sit down, and a place or supporting surface can follow the ordinary locative prepositions.",
+  "examples": [
+    {
+      "phi": "theula miona mua thepalu meilo.",
+      "translation": "Everyone sits in the garden."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Sitting meditation (zazen) is perhaps the most fundamental Buddhist practice - the Buddha himself attained enlightenment while sitting beneath the Bodhi tree. The act of sitting still cultivates mindfulness, allowing practitioners to observe the arising and passing of thoughts without attachment. In sitting, we practice being present without doing.",
-    "peace-linguistics-practices": "Sitting together is a universal gesture of peace - we sit to show we come without aggression, to indicate readiness for dialogue, to demonstrate commitment to remaining present through difficult conversations. The seated position naturally slows speech and encourages thoughtful response rather than reactive confrontation.",
-    "pre-industrial-wisdom": "Traditional cultures worldwide recognize sitting in circles as essential for council, storytelling, and decision-making. The equality of the circle, where no position dominates, emerges naturally when people sit together. Sitting connects us to ancestral practices of gathering around fires, sharing wisdom, and building community through patient presence."
+    "secular-buddhist-philosophy": "Seated meditation is one familiar use of this posture. 'meilo' remains an ordinary bodily verb, leaving the practice, attention, and purpose to the rest of the sentence."
   },
   "semantic_domains": {
-    "activity": "fundamental human activity of sitting",
-    "community": "essential posture for gatherings, councils, and shared activities",
-    "physical": "fundamental bodily position and experience of supported rest",
-    "ritual": "ceremonial significance in meditation, councils, and traditional gatherings",
-    "spatial": "establishes presence in a specific location, transforming space into place",
-    "wisdom": "sitting meditation as practice for cultivating mindful awareness"
+    "activity": "holding or entering a seated posture",
+    "physical": "bodily posture supported by a seat or the haunches",
+    "spatial": "seated position in relation to a place or supporting surface"
   }
 }
