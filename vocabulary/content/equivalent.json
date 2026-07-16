@@ -8,13 +8,22 @@
     "thu"
   ],
   "pos": "adjective",
-  "concept": "Equivalent / Matching in a Stated Meaning, Function, or Effect",
-  "description": "Matching another thing in the meaning, function, or effect selected for comparison while differing in form. Two formats may be equivalent for one task and diverge where timing, detail, or interaction changes; 'senao' (same) claims identity or broad sameness, while 'samethu' names a bounded match.",
-  "sound_symbolism": "Hissing 'sa' opens across broad 'a'. Stressed 'me' closes the lips gently and holds the center in balanced 'e'. Final 'thu' releases a thin dental breath into deep 'u'. Three distinct textures carry vowels that descend from open to low.",
-  "grammatical_notes": "A predicative or attributive adjective, often with a plural subject: 'lo phelotu samethu nai.' (The formats are equivalent.) A comparison clause can name the selected meaning, function, evidence, and limits. The quality-noun rule supplies equivalence.",
+  "search_terms": [
+    "equivalence",
+    "functionally equivalent",
+    "same effect"
+  ],
+  "description": "Different things are 'samethu' when they match in the meaning, function, or effect selected for comparison. A caption and a transcript may carry equivalent words yet cease to be equivalent when timing matters. 'senao' (same) claims identity or broad sameness, while 'kolo' (equal) compares amount, measure, rank, or standing.",
+  "articulatory_notes": "Raise the tongue blade towards the alveolar ridge for unvoiced 's', direct air through the narrow channel, and open into central 'a'. Close the lips for voiced nasal 'm', carry the voice through the nose, and move into stressed true-mid front unrounded 'e'. Rest the tongue tip lightly against the upper teeth for unvoiced 'th', pass air along it, and finish with high rounded back 'u'.",
+  "usage_notes": "The things being compared often share one subject. A comparison clause can supply the criterion. The same form is the noun for equivalence. Legal and mathematical tests stay with their source when 'samethu' would omit a governing criterion.",
+  "examples": [
+    {
+      "phi": "lo phelotu samethu nai.",
+      "translation": "The formats are equivalent."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Different forms can carry the same chosen relation without becoming visually, materially, or sensorially identical.",
-    "peace-linguistics-practices": "A bounded equivalence claim can be checked and corrected when a paraphrase, caption, or interpretation loses what one participant needed."
+    "peace-linguistics-practices": "A participant can challenge an equivalence claim by naming the detail, timing, or effect that the comparison left out."
   },
   "semantic_domains": {
     "cognition": "a selected match in meaning or function",

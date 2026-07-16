@@ -8,16 +8,27 @@
     "wu"
   ],
   "pos": "adjective",
-  "concept": "Predictable / Reasonably Anticipated From Available Information",
-  "description": "Able to be reasonably anticipated from information available before the event. A schedule, sequence, interface, or recurring practice may be predictable enough for preparation without being certain or unchangeable. 'koluri' (reliable) concerns repeated function; 'sanowu' concerns what a person can know ahead of time.",
-  "sound_symbolism": "Fine 'sa' opens broadly before stressed 'no' gathers the sound into round nasal resonance. Those two syllables repeat the complete sound of 'sano' (know). Final 'wu' keeps the rounding at the lips and sinks into deep 'u'. The word ends in a long low glide.",
-  "grammatical_notes": "A predicative or attributive adjective: 'ha thimora sanowu nai.' (This schedule is predictable.) The information source, observer, time horizon, and remaining uncertainty can appear separately. The quality-noun rule supplies predictability.",
+  "search_terms": [
+    "predictability",
+    "foreseeable",
+    "anticipated"
+  ],
+  "description": "A course of events or recurring practice is 'sanowu' when information available beforehand lets someone reasonably anticipate how or when it will unfold. A meeting may have predictable stages while its exact length remains uncertain. 'koluri' (reliable) concerns repeated performance; 'sanowu' concerns what can be known ahead of time.",
+  "articulatory_notes": "Raise the tongue blade towards the alveolar ridge for unvoiced 's', direct air through the narrow channel, and open into central 'a'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and round the lips into stressed true-mid back 'o'. Keep the lips rounded and the back of the tongue raised for voiced 'w', then finish with high rounded back 'u'.",
+  "sound_symbolism": "The first two syllables of 'sanowu' repeat the complete sound of 'sano' (know). Final 'wu' keeps the lips rounded and glides into deep 'u', an audible kinship that suits something knowable before it arrives.",
+  "usage_notes": "The observer and information source can appear in the surrounding clause, along with the time horizon and remaining uncertainty. Noun use supplies predictability. The word supports preparation but never turns an expectation into certainty.",
+  "examples": [
+    {
+      "phi": "ha thimora sanowu nai.",
+      "translation": "This schedule is predictable."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Predictable timing lets a participant prepare instead of discovering every demand at the moment another person expects an answer.",
-    "pre-industrial-wisdom": "Seasonal work relied on patterns that could be read without pretending weather, birth, harvest, or illness would obey a perfect clock."
+    "peace-linguistics-practices": "Predictable timing gives a participant room to prepare instead of revealing every demand when an answer is already expected.",
+    "pre-industrial-wisdom": "Seasonal work reads recurring signs while leaving weather, birth, harvest, and illness free of the clockmaker's confidence."
   },
   "semantic_domains": {
-    "cognition": "an event or pattern that can be anticipated from available information",
+    "cognition": "advance anticipation of an event or pattern from prior information",
     "temporal": "advance knowability of timing or sequence"
   },
   "modules": [

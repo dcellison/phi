@@ -8,13 +8,24 @@
     "nu"
   ],
   "pos": "adjective",
-  "concept": "Redundant / Having Independent Alternative Means for a Function",
-  "description": "Having independent alternative means for a function, built so one failure does not by itself end the function. A shared cause, a fire under both wires, a flood over both roads, can still take every alternative down together, which is why redundancy alone never guarantees reliability.",
-  "sound_symbolism": "The glide of 'we' rounds into open 'e' and leaves more than one direction available. Stressed 'pa' makes a firm lip contact in the middle. Dental nasal 'nu' supplies a second kind of closure at the end, deeper and farther forward. The two supports answer the same opening from separate places in the mouth.",
-  "grammatical_notes": "An adjective placed before a noun or used predicatively: 'wepanu terura' (a redundant system); 'ha terura wepanu nai.' (This system is redundant.) The quality-noun rule supplies redundancy. State the preserved function and independence assumptions. Distinct from 'phowe' (share), 'thuroi' (resilient), and unnecessary duplication.",
+  "search_terms": [
+    "redundancy",
+    "independent backup",
+    "fault-tolerant"
+  ],
+  "description": "A system is 'wepanu' when independent alternative parts, paths, or methods preserve a chosen function after one fails. Two pumps sharing the same flooded electrical line may look redundant while sharing the failure that stops both. 'thuroi' (resilient) describes recovery after disruption; redundancy is one design that may support it.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then unround into true-mid front 'e'. Close the lips for unvoiced 'p' and release them into stressed open central 'a'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with high rounded back 'u'.",
+  "sound_symbolism": "'wepanu' makes one full closure at the lips in stressed 'pa' and another oral closure at the teeth in final 'nu'. Those separate places of contact offer an embodied mnemonic for alternatives that do not depend on one point alone.",
+  "usage_notes": "Phi uses 'wepanu' in the technical sense. As an attribute it modifies the system; after a subject, it comes before 'nai' (be). The corresponding quality noun is redundancy. A useful account makes the preserved function clear and explains why the alternatives are independent; unnecessary duplication is a separate judgement about need.",
+  "examples": [
+    {
+      "phi": "ha terura wepanu nai.",
+      "translation": "This system is redundant."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Independent alternatives can preserve essential shared functions through repair, scarcity, and changing conditions without promising invulnerability.",
-    "pre-industrial-wisdom": "Communities often maintain several routes, tools, stores, or skills so one loss does not erase a necessary practice."
+    "solarpunk-values": "A second water path helps only when the same broken pipe does not feed both. The word rewards practical independence rather than an impressive parts count.",
+    "pre-industrial-wisdom": "Several routes, tools, stores, or practised skills can keep one loss from ending a necessary community task."
   },
   "semantic_domains": {
     "activity": "continued function through an alternate component, path, or method",

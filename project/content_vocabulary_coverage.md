@@ -39,7 +39,8 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Imagination, unfamiliarity, wonder, and reverence | **DONE** | Six inherited base adjectives now use the target prose contract. Unfamiliarity, imagined possibility, creative expression, wonder, cherished value, and sacred regard remain distinct without adding a root. |
 | Practical readiness, care, and effort | **DONE** | Six inherited base adjectives now use the target prose contract. Pending status, direct relation, attentive or careless conduct, avoidable reluctance, and condition-bound safety remain distinct without adding a root. |
 | Access, perception, and independent participation | **DONE** | Eight inherited adjectives now use the target prose contract. Shared-core disability and seven Accessibility module qualities keep access, practical use, support, self-direction, and sensory availability distinct without adding a root. |
-| Resume inherited content prose migration | **NEXT** | Continue after access, perception, and independent participation. Each semantic group passes through this coverage gate. |
+| System fit, equivalence, and dependable performance | **DONE** | Six inherited module adjectives now use the target prose contract. Compatibility, bounded equivalence, efficiency, predictability, redundancy, and reliability remain distinct without adding a root. |
+| Resume inherited content prose migration | **NEXT** | Continue after system fit, equivalence, and dependable performance. Each semantic group passes through this coverage gate. |
 
 ## Batch overview
 
@@ -64,6 +65,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Imagination, unfamiliarity, wonder, and reverence | [PR #376](https://github.com/dcellison/phi/pull/376) | **COVERED** | The six roots keep unfamiliar encounter, imagined possibility, creative expression, exceeded expectation, cherished value, and sacred regard apart. Familiarity, originality, awe, importance, and non-sacred status remain natural compositions. |
 | Practical readiness, care, and effort | [PR #377](https://github.com/dcellison/phi/pull/377) | **COVERED** | The six roots keep open status, directness, care, effort, and safety apart. Readiness, availability, delay, diligence, negligence, recklessness, and felt safety remain explicit compositions rather than hidden senses. |
 | Access, perception, and independent participation | [PR #378](https://github.com/dcellison/phi/pull/378) | **COVERED** | The eight roots keep access to an activity, operation at the point of use, support, disability, self-direction, and sensory availability apart. Negative qualities, visible availability, interdependence, and exact legal or technical classifications remain ordinary compositions or source material. |
+| System fit, equivalence, and dependable performance | PR pending | **COVERED** | The six roots keep technical cooperation, a selected match, input-to-output performance, advance knowability, independent alternatives, and repeated function apart. Robustness, maintainability, and exact conformance remain compositions or source-level tests. |
 
 ## Semantic batches and stable domains
 
@@ -92,6 +94,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Imagination, unfamiliarity, wonder, and reverence | `cognition`, `community`, `creation`, `emotion`, `ritual` | What a person has not met, what a mind can envision, what appears in a work, and what receives personal or shared regard remain separate claims. |
 | Practical readiness, care, and effort | `activity`, `cognition`, `communication`, `community`, `physical`, `spatial`, `temporal` | Open status, route, attention, willingness to exert effort, and safety under present conditions remain separate claims. |
 | Access, perception, and independent participation | `activity`, `aesthetic`, `cognition`, `communication`, `community`, `creation`, `physical`, `spatial` | Reaching an activity, operating what has been provided, receiving support, directing one's act, and distinguishing information through a sensory channel remain separate claims. |
+| System fit, equivalence, and dependable performance | `activity`, `cognition`, `communication`, `community`, `creation`, `temporal` | Working together, matching for one purpose, using resources well, anticipating an event, surviving one failure, and performing repeatedly remain separate claims. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -491,6 +494,23 @@ Eight adjectives cover the relation between a person and an activity. They disti
 
 The gate adds no root. A doorway can be reachable while the tool beyond it resists use. A person can work independently with an assistive device, and a page may be legible without being clear or accurate.
 
+## System fit, equivalence, and dependable performance
+
+Six module adjectives describe how designed parts and practices meet, compare, and continue to work. Their boundaries matter most when a pleasing general claim meets an awkward real condition: the plug fits but the voltage does not, or the backup pump shares the cable that just flooded.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Compatibility, interoperability, physical fit, and suitability | Systems and Accessibility `thosami` (compatible), `nowiso` (interface), and base `theali` (fitting), with exact physical or protocol requirements | **COVERED** | Compatibility says that selected things work together through an interface for a purpose. Physical fit is one condition, while suitability judges the broader situation. Interoperability is the same practical relation when systems exchange or act through their interfaces. |
+| Equivalence, sameness, equality, and substitution | Systems, Accessibility, and Philosophy `samethu` (equivalent), with base `senao` (same), `kolo` (equal), and an explicit intended use | **COVERED** | Equivalence selects the criterion on which different things must match. Sameness makes a broader identity claim, equality compares a measure or standing, and substituting one thing for another also depends on the use at hand. |
+| Efficiency, productivity, effectiveness, and sustainability | Systems, Ecology, and Work `poruli` (efficient), base `poru` (productive), `kelitho` (function), `thirulo` (output), and `thenoki` (sustain) | **COMPOSITIONAL** | Efficiency compares useful result with a chosen input. Productivity reports results, effectiveness asks whether the intended function was achieved, and sustainability asks whether the practice can continue. One good ratio cannot answer all three questions. |
+| Predictability, certainty, scheduling, and reliability | Systems and Accessibility `sanowu` (predictable), `thimora` (schedule), Systems `koluri` (reliable), and Phi's claim and evidence grammar | **COVERED** | Predictability begins with what a person knew beforehand. Reliability looks back across repeated performance, a schedule records an arrangement, and certainty concerns knowledge rather than a property granted by the timetable. |
+| Redundancy, backup, duplication, fault tolerance, and resilience | Systems and Accessibility `wepanu` (redundant), `kiphira` (fault), and `thuroi` (resilient), with ordinary alternatives and copying | **COMPOSITIONAL** | Redundancy requires independent alternatives for one function. A backup can fill that role, duplication merely makes another instance, fault tolerance describes continued operation under specified faults, and resilience describes the return from disruption. |
+| Reliability, steadiness, stability, accuracy, and trust | Systems, Accessibility, and Work `koluri` (reliable), with base `kolu` (steady), `mureo` (stable), `telua` (accurate), and `theomi` (trust) | **COVERED** | Reliability tests a named function across conditions and time. Steadiness limits variation, stability resists disturbance without leaving its condition, accuracy compares with a reference, and trust belongs to a relationship supported by conduct. |
+| Robust, maintainable, and repairable | `keruko` (sturdy), `thuroi` (resilient), `thiranu` (maintain), `shiroka` (repair), possibility `po`, plus the relevant work and circumstances | **COMPOSITIONAL** | A robust design may be sturdy under force, reliable across a wide range, or resilient after disruption. Maintainable and repairable ask whether the relevant work is possible, for whom, and with which tools or parts. |
+| Standards conformance, protocol support, and certified performance | The broad Phi quality beside the exact source standard, protocol, version, test result, or certificate | **DEFERRED** | A Phi adjective can describe the practical relation but cannot replace the evidence and rule that give a conformance result its authority. |
+
+No root is added. A compatible replacement need not be equivalent to the original, and an efficient machine may still be unreliable. Redundancy fails when its alternatives quietly meet again at the same point of failure.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -531,4 +551,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete, and the inherited content prose migration has now reached the end of access, perception, and independent participation. The next semantic neighbourhood starts from here with the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete, and the inherited content prose migration has now reached the end of system fit, equivalence, and dependable performance. The next semantic neighbourhood starts from here with the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.
