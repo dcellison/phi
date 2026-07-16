@@ -7,16 +7,25 @@
     "a"
   ],
   "pos": "verb",
-  "concept": "Do / Act / Perform",
-  "description": "The fundamental verb of general action and performance, expressing the act of carrying out, executing, or engaging in activity. Unlike 'make' which creates something new, 'do' encompasses the performance of tasks, the execution of plans, and the carrying out of activities. It speaks to human agency in its most basic form - the ability to act intentionally in the world. In Phi, doing is understood as mindful action, where even routine tasks become opportunities for present awareness. The word acknowledges that through our actions, however small, we participate in the ongoing dance of cause and effect, each deed contributing to the larger pattern of existence.",
-  "sound_symbolism": "The word begins with 'pho', where the fricative 'ph' /ɸ/ releases breath into action - the exhale that accompanies effort, the breath that powers movement. This energetic release flows into the open 'o', creating space for action to unfold. The hiatus between 'o' and 'a' creates a moment of conscious transition, like the pause between intention and execution. The final 'a' opens wide, embracing the full scope of possible actions. The whole word breathes with the rhythm of doing: 'pho' initiates with purposeful breath, the vowel sequence 'o.a' maintains the flow of continuous action. It sounds like someone beginning a task - first the gathering breath, then the sustained engagement.",
-  "grammatical_notes": "Functions as a general action verb expressing performance, execution, and engagement in activity. As a light verb, can combine with nouns to form verbal expressions. Unlike English, does not serve auxiliary functions (questions/negations use particles). Cross-linguistically similar to: Japanese 'suru' (する) and Korean 'hada' (하다) as light verbs forming compounds; Russian 'delat'' (делать) for general action distinct from creation; Mandarin 'zuò' (做) requiring objects or complements. Distinguished from 'pilewa' (make, creative action) in Phi, maintaining the semantic distinction found in Russian, German, and other languages. Takes direct objects before the verb: 'mia riola phoa' (I do work).",
+  "search_terms": [
+    "act",
+    "perform an action"
+  ],
+  "description": "A person may close a gate or carry out an agreed task, but 'phoa' is useful when the kind of action is already known or no narrower verb is needed. It is Phi's general verb for deliberate performance. 'pilewa' (make) brings about a result or thing, while 'phoa' says only that someone acts.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then round them into stressed middle-height back 'o'. At the 'o.a' hiatus, begin a new syllable by lowering the jaw and relaxing the lip rounding for open central 'a'.",
+  "sound_symbolism": "Breath at the lips opens into two broad vowels. The form has the small outward motion of an act leaving thought and entering the world.",
+  "usage_notes": "The thing done comes before the verb. As a light verb, 'phoa' can carry an event noun whose action has already been announced, but it never becomes an auxiliary for questions or negation. In noun position, the same form is an act or deed.",
+  "examples": [
+    {
+      "phi": "mia riola phoa.",
+      "translation": "I do the work."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Doing embodies the solarpunk ethos of active engagement rather than passive hope. It represents the practical work of building regenerative systems, the daily actions that accumulate into systemic change. 'Phoa' carries the understanding that sustainable futures are built through countless intentional actions, each deed contributing to collective transformation.",
-    "secular-buddhist-philosophy": "Doing embodies Right Action (sammā-kammanta), one of the Noble Eightfold Path components. Every action creates karma, rippling outward in chains of cause and effect. 'Phoa' grammaticalizes the understanding that action should be mindful, intentional, and aware of consequences - transforming even routine tasks into opportunities for present awareness and ethical engagement."
+    "secular-buddhist-philosophy": "Mindful action begins by noticing what one is actually doing, what intention enters the act, and what follows from it. The general verb leaves all three available for separate statement.",
+    "peace-linguistics-practices": "A neutral action verb lets a speaker report conduct without granting it kindness, necessity, or good effect in advance."
   },
   "semantic_domains": {
-    "activity": "fundamental human activity of doing",
-    "physical": "performing actions and activities"
+    "activity": "general deliberate action when no narrower manner or result is being named"
   }
 }

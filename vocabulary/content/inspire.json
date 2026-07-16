@@ -8,19 +8,26 @@
     "a"
   ],
   "pos": "verb",
-  "concept": "Inspire / To Breathe Generative Life Into Being",
-  "description": "The act of filling someone with the urge or ability to do or feel something, especially to do something creative. It is the transmission of generative, life-affirming energy.",
-  "sound_symbolism": "The skillful breath 'phe' knows exactly how to kindle dormant sparks - not forcing but coaxing flame from ember. This awakening rises through 'su', the hopeful sound of possibility taking wing, potential transforming into flight. The final 'a' releases all limits, creating boundless space for what might emerge. Three syllables trace inspiration's arc: skillful touch, rising hope, infinite opening - the way one candle lights another without diminishing its own flame.",
-  "grammatical_notes": "'thia mia phesua.' (You inspire me.) The noun sense, inspiration, comes by the event-noun rule.",
+  "search_terms": [
+    "awaken possibility"
+  ],
+  "description": "A song may make a listener want to create, while a neighbour's experiment may open a course they had not imagined. 'phesua' awakens an urge, idea, or sense of possibility in another person, especially around creative action. 'nomela' (encourage) strengthens confidence for an action already in view.",
+  "articulatory_notes": "Narrow the space between the lips for unvoiced 'ph' and release the breath onto unrounded front 'e' at middle height. Bring the tongue blade near the alveolar ridge for stressed 's', send air through the groove, and round into high-back 'u'. Preserve the 'u.a' hiatus by opening the jaw into a separate final central 'a'.",
+  "sound_symbolism": "Soft breath narrows to the clear stream of 's', then the final hiatus opens the mouth wide. Possibility seems to gain room inside the form.",
+  "usage_notes": "The inspirer or source comes first, and the affected person comes before the verb. A later clause can name the idea, feeling, or work that follows, since inspiration does not guarantee a particular response. As a noun, 'phesua' is inspiration.",
+  "examples": [
+    {
+      "phi": "thia mia phesua.",
+      "translation": "You inspire me."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Inspiration in solarpunk context means awakening others to possibilities beyond current limitations - showing that regenerative futures are not just necessary but beautiful and achievable. This inspiration spreads through demonstration and invitation rather than preaching, igniting creative responses to crisis that transform despair into innovative action.",
-    "art-nouveau-aesthetics": "Art Nouveau artists thought of their organic lines as carrying a life force from nature into the made object. 'Phesua' names that transfer between people: creative energy passing from one maker to another, waking work that was dormant.",
-    "peace-linguistics-practices": "To inspire is to motivate through attraction rather than coercion, creating change through awakening desire rather than imposing will. This practice recognizes that sustainable transformation comes from internal motivation, and that our role is to kindle the spark already present in others rather than forcing external change."
+    "solarpunk-values": "A working garden, repair practice, or shared system can make a different future imaginable because someone can see it already taking form.",
+    "art-nouveau-aesthetics": "An organic line or crafted object may prompt another maker to see a form that was not available to them before. 'phesua' names that awakening without making imitation the required result."
   },
   "semantic_domains": {
-    "communication": "transmits energy between consciousnesses",
-    "creation": "awakens creative potential and generates new expressions",
-    "emotion": "transforms states from dormancy to excitement and urge",
-    "wisdom": "involves skillful awakening without forcing"
+    "cognition": "an idea or possibility becoming newly imaginable to someone",
+    "creation": "creative desire or direction awakened by another person, act, or work",
+    "emotion": "an urge or hopeful energy stirred in the inspired person"
   }
 }

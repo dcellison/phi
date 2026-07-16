@@ -7,16 +7,27 @@
     "le"
   ],
   "pos": "verb",
-  "concept": "Practice / Repeated Action / Intentional Doing",
-  "description": "Repeated action done to develop skill or as part of routine; intentional doing. 'Thole' names the doing that shapes—action repeated until it becomes capacity.",
-  "sound_symbolism": "The word breathes with repetition. 'Tho' opens with thoughtful beginning, practice starting. 'Le' lifts with ongoing effort, skill developing.",
-  "grammatical_notes": "'mia thole.' (I practice.) The noun sense, 'thole' (the practice), is the event-noun rule at work. Related to 'shimalo' (discipline): practice is the repeated doing; discipline is the commitment that sustains it.",
+  "search_terms": [
+    "rehearse",
+    "train by repetition"
+  ],
+  "description": "A musician repeats a difficult passage; a speaker returns to the same attentive greeting each morning. Both can 'thole'. The deliberate repetition develops skill or disposition, while 'shimalo' (discipline) guides the return to a chosen practice.",
+  "articulatory_notes": "Start 'tho' with the tongue tip resting lightly at the dental edge; unvoiced air passes into stressed middle-height rounded 'o'. For 'le', move to an alveolar lateral, accompany the voicing with side airflow, and finish on middle-height front unrounded 'e'.",
+  "sound_symbolism": "Two even syllables alternate breath and lateral voice without strain. Their compact rhythm makes the word easy to repeat, much like the action it recalls.",
+  "usage_notes": "The practised action may be understood from context or named nearby. Habitual 'ro' marks practice recurring across occasions. In noun position, the form is a practice or practice session; repetition with no aim to develop capacity need not be 'thole'.",
+  "examples": [
+    {
+      "phi": "mia nosa thole.",
+      "translation": "I practice now."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Practice as path—the repeated action that transforms, not the destination.",
-    "pre-industrial-wisdom": "Practice as craft—the doing that builds mastery over time."
+    "secular-buddhist-philosophy": "Attention becomes a practice through return, including the return after distraction. It centres the repeated act rather than a claim of attainment.",
+    "pre-industrial-wisdom": "A hand learns a tool through repeated contact with material and correction of small errors. Practice keeps that patient route to skill available outside formal instruction."
   },
   "semantic_domains": {
-    "creation": "Skill building",
-    "temporal": "Repeated action"
+    "activity": "deliberate repetition used to develop a skill or disposition",
+    "ritual": "a repeated observance whose form carries shared or personal meaning",
+    "temporal": "an action developed through return across occasions"
   }
 }

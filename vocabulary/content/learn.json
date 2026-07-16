@@ -8,15 +8,27 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Learn / To Receive Flowing Clarity",
-  "description": "The process of acquiring knowledge, skills, or understanding through study, experience, or teaching. It is an active state of receptive growth.",
-  "sound_symbolism": "The word opens with the soft fricative /ʃ/, a receptive rather than assertive start. The nasal 'n' grounds the middle syllable, and the liquid 'l' carries the word out in flow. Nothing in it stops the breath; learning is taken in, not seized.",
-  "grammatical_notes": "'mia lo phelui shonela.' (I learn words.) Learning as a noun, the ongoing process, comes by rule. Its counterpart across the exchange is 'thumela' (teach); related: 'shelomu' (understand) and 'sano' (know) as outcomes of learning.",
+  "search_terms": [
+    "study",
+    "acquire knowledge",
+    "acquire a skill"
+  ],
+  "description": "A learner hears a new word and later recognises it in a story. 'shonela' is the process of acquiring knowledge or skill through instruction, experience, or repeated study. 'sano' (know) reports what is already held, while 'thole' (practice) names repeated action used to develop capacity.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and send air through the narrow channel into middle-height rounded 'o'. For stressed 'ne', rest the tongue tip against the backs of the upper incisors and carry the voice through the nose before opening to 'e'. Finish on 'la' with an alveolar lateral followed by central 'a'.",
+  "sound_symbolism": "Air continues through the fricative, nasal, and lateral contacts without a hard stop. The quiet continuity suits something received and carried onward.",
+  "usage_notes": "What is learned comes before the verb. Habitual 'ro' can describe regular study. In noun position, 'shonela' is a learning; the verb itself claims neither understanding nor agreement.",
+  "examples": [
+    {
+      "phi": "mia phelui shonela.",
+      "translation": "I learn words."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Learning embodies beginner's mind - approaching each moment with fresh curiosity regardless of prior knowledge. This practice requires setting aside the ego that thinks it already knows, creating space for new understanding to arise. True learning transforms not just what we know but who we are, requiring the courage to let fixed views dissolve."
+    "secular-buddhist-philosophy": "A learner can return to an experience without pretending that prior knowledge has exhausted it. The verb leaves room for revision as attention and understanding deepen.",
+    "pre-industrial-wisdom": "Much practical knowledge passes through observation, explanation, and repeated work beside someone more experienced. 'shonela' covers that learning without requiring a formal school."
   },
   "semantic_domains": {
-    "cognition": "fundamental process of acquiring and integrating knowledge",
-    "wisdom": "involves understanding and transformation of perspective"
+    "activity": "an ongoing practice through which knowledge or skill is acquired",
+    "cognition": "new knowledge or capacity becoming available to a learner"
   }
 }

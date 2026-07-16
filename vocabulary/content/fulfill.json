@@ -8,16 +8,27 @@
     "i"
   ],
   "pos": "verb",
-  "concept": "Fulfill / Complete / Bring to Fruition",
-  "description": "To bring to completion; to realize fully what was intended or promised. 'Korei' names the completing—potential becoming actual, promise becoming reality.",
-  "sound_symbolism": "The word completes with resonance. 'Ko' gathers with concentrated wholeness, elements combining. 'Re' resonates with accomplishment spreading. Then 'i' rises to completion achieved.",
-  "grammatical_notes": "Functions as verb: 'mia korei.' (I fulfill.) Takes the object being fulfilled: 'mia pula korei.' (I fulfill a wish.) Related to 'heno' (satisfy) but emphasizes completion over contentment.",
+  "search_terms": [
+    "carry out a promise",
+    "realise a purpose"
+  ],
+  "description": "Someone promises to return with water and later does so. 'korei' reports that a purpose, wish, promise, or commitment has been carried into actuality. 'heno' (satisfy) asks whether a need or criterion is met, while 'sholu' (complete) asks whether the required parts or steps are finished.",
+  "articulatory_notes": "Begin 'ko' with an unvoiced velar closure, release it, and shape middle-height rounded 'o'. Make 'r' as a tap or short trill before stressed front 'e'. Start a fresh syllable for final high-front 'i'; the tongue lifts from 'e' with no added glide.",
+  "sound_symbolism": "A compact velar closure turns at 'r' and rises through the final hiatus. The bright ending lands cleanly, like a course reaching its mark.",
+  "usage_notes": "The fulfilled purpose, wish, promise, or commitment is the object. The subject is the person or cause that brings it about. Noun 'korei' is fulfilment, and the surrounding account can identify whose purpose or promise supplied the measure.",
+  "examples": [
+    {
+      "phi": "mia pula korei.",
+      "translation": "I fulfill a wish."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Fulfilled potential—communities enabling all members to realize their capacities.",
-    "secular-buddhist-philosophy": "Fulfillment as process—the completing that comes through practice, not grasping at results."
+    "solarpunk-values": "A shared purpose becomes more than an attractive proposal when people carry its work into actual practice. 'korei' marks that arrival without declaring the result just or sustainable by itself.",
+    "peace-linguistics-practices": "A promise can be kept, revised, or left unfulfilled, and each outcome affects the relationship differently. The verb reports performance rather than treating good intention as completion."
   },
   "semantic_domains": {
-    "cognition": "Realization",
-    "temporal": "Completion"
+    "activity": "a purpose or undertaking carried into actual performance",
+    "community": "a promise or commitment carried out where others may rely on it",
+    "temporal": "an intended course reaching its stated result"
   }
 }
