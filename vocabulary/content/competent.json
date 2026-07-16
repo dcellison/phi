@@ -8,17 +8,27 @@
     "ra"
   ],
   "pos": "adjective",
-  "concept": "Competent / Able to Meet a Stated Performance Criterion",
-  "description": "Able, now, to perform a stated activity to a stated criterion under the conditions at hand. Competence is the narrowest of the ability words: a claim about this task, these tools, today, with its evidence close by. It says nothing about consent or permission, and 'nukesa' (expert) runs deeper than any one criterion.",
-  "sound_symbolism": "Round 'po' starts with a complete meeting of the lips; stressed 'ke' shifts the contact to the velum for a clean, balanced release. Final 'ra' rolls the tongue into broad 'a'. Three different contacts make the word feel practiced and alert, with room at the end.",
-  "grammatical_notes": "An adjective: 'shia pokera nai.' (They are competent.) State the activity, criterion, conditions, and evidence in the surrounding clause or discourse. The quality-noun rule supplies competence as a state. Distinct from 'thesani' (skill), 'nukesa' (expert), 'kiranu' (qualified), 'kanuwa' (authorized), and 'koluri' (reliable).",
+  "search_terms": [
+    "competence",
+    "capable for a task",
+    "meets performance criterion"
+  ],
+  "description": "Someone is 'pokera' when they can perform a stated activity to its criterion under present conditions. A joiner may be competent with a familiar hand plane and not yet competent with a borrowed lathe. 'thesani' (skill) is learned capacity held between performances, while 'kiranu' (qualified) reports prerequisites met under a source. 'nukesa' (expert) reaches beyond one criterion into sustained domain practice.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release them into true-mid rounded back 'o'. Close the back of the tongue against the soft palate for unvoiced 'k' and release it into stressed true-mid front unrounded 'e'. Make a tap or short trill with the tongue tip for 'r' and finish with open central 'a'.",
+  "usage_notes": "A nearby clause can give the activity and criterion; evidence supports the judgement. Competence is the noun reading. Permission to act comes from 'kanuwa' (authorize), not from demonstrated ability.",
+  "examples": [
+    {
+      "phi": "shia pokera nai.",
+      "translation": "They are competent."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "A bounded competence claim avoids converting one demonstrated capacity into a judgment about the whole person or a grant of authority over others.",
-    "pre-industrial-wisdom": "Situated competence recognizes practical ability with particular tools, materials, and conditions instead of treating credentials as the only evidence of capability."
+    "peace-linguistics-practices": "A result on one task stays a result on one task; it does not become a verdict on the person's worth or authority.",
+    "pre-industrial-wisdom": "A craftsperson can demonstrate competence with the actual tool and material even when no institution has issued a credential."
   },
   "semantic_domains": {
-    "activity": "ability to perform a stated activity to a criterion",
-    "cognition": "an evidence-based judgment of situated practical capacity"
+    "activity": "present ability to perform a stated activity to its criterion",
+    "cognition": "a judgement of practical capacity grounded in evidence"
   },
   "modules": [
     "work-craft-and-repair"

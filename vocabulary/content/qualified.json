@@ -8,17 +8,27 @@
     "nu"
   ],
   "pos": "adjective",
-  "concept": "Qualified / Meeting Stated Prerequisites for a Role or Activity",
-  "description": "Meeting stated prerequisites for a role or activity, according to a named source or system. Qualification is a fact about a list: the exact credential, with its issuer and validity, stays in source material when precision matters. A qualified person may still be out of practice; competence is its own question.",
-  "sound_symbolism": "Narrow 'ki' starts with a crisp velar contact and bright 'i'. The stress rolls across open 'ra' and gives the center more breadth and motion. In final 'nu', the tongue settles at the teeth while the vowel drops into deep 'u'. A sharp opening becomes expansive, then gathers into a low close.",
-  "grammatical_notes": "An adjective: 'shia kiranu nai.' (They are qualified.) State the role or activity, qualifying source, scope, and validity period where relevant. The quality-noun rule supplies qualification as a state. Distinct from 'pokera' (competent), 'kanuwa' (authorized), 'sikanu' (certify), and 'sithora' (role).",
+  "search_terms": [
+    "qualification",
+    "eligible",
+    "meets prerequisites"
+  ],
+  "description": "Someone or something is 'kiranu' when they meet the prerequisites named by a source for a role or activity. A person may hold the required certificate and still be out of practice, so 'pokera' (competent) remains a separate judgement about present performance. 'kanuwa' (authorize) names a grant of permission; qualification says only that the stated list was met.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release it into high-front unrounded 'i'. Make a tap or short trill with the tongue tip for 'r' and open into stressed central 'a'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with high rounded back 'u'.",
+  "usage_notes": "Nearby clauses identify the role and qualifying source. The quality noun is qualification. An exact credential stays in source form when its issuer, scope, or validity matters.",
+  "examples": [
+    {
+      "phi": "shia kiranu nai.",
+      "translation": "They are qualified."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Separating qualification from competence, authority, consent, and worth prevents an institutional status from silently answering several different social questions."
+    "peace-linguistics-practices": "Keeping the checklist separate from present ability and consent stops an institutional status from answering questions it never tested."
   },
   "semantic_domains": {
     "activity": "eligibility for a stated role or activity",
-    "cognition": "a judgment against named prerequisites",
-    "community": "a status created by a stated social or institutional source"
+    "cognition": "a comparison with prerequisites named by a source",
+    "community": "eligibility defined by a social or institutional source"
   },
   "modules": [
     "work-craft-and-repair"

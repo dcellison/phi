@@ -8,18 +8,28 @@
     "sa"
   ],
   "pos": "adjective",
-  "concept": "Expert / Possessing Deep Domain Practice and Understanding",
-  "description": "Having deep knowledge and skill in a domain, built by sustained practice and study. Expertise is scoped and revisable: expert in one method, a beginner in the next. It grants no authority and ranks no one; it is the kind of practice that has opinions about the grain of the wood.",
-  "sound_symbolism": "Deep 'nu' holds the tongue at the teeth and resonance in the nose; stressed 'ke' then makes a crisp closure farther back. Final 'sa' releases through a fine hiss and opens broadly. The word rises from depth through a clear edge and finishes in open air.",
-  "grammatical_notes": "An adjective: 'shia nukesa nai.' (They are expert.) State the domain and basis of the claim where relevant. The quality-noun rule supplies expertise as a state. Distinct from 'sano' (know), 'thesani' (skill), 'pokera' (competent), 'kiranu' (qualified), and 'wheo' (elder).",
+  "search_terms": [
+    "expertise",
+    "specialist",
+    "deep domain knowledge"
+  ],
+  "description": "Someone is 'nukesa' when they have deep knowledge and skill in a stated domain, built through sustained practice and study. An old chair maker who can read a warped board at a glance may be expert without being 'kiranu' (qualified) under a new certification scheme. 'pokera' (competent) meets a present criterion; expertise covers a wider body of practice and understanding.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish the first syllable with high rounded back 'u'. Close the back of the tongue against the soft palate for unvoiced 'k' and release it into stressed true-mid front unrounded 'e'. Raise the tongue blade towards the alveolar ridge for unvoiced 's', direct air through the narrow channel, and open into central 'a'.",
+  "usage_notes": "Context supplies the domain and basis of the claim. As a noun, 'nukesa' is expertise. Decision power belongs to 'karami' (authority) or a bounded 'kanuwa' (authorize) relation.",
+  "examples": [
+    {
+      "phi": "shia nukesa nai.",
+      "translation": "They are expert."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Scoping expertise and separating it from authority allows communities to value knowledge while continuing to question claims and distribute decisions.",
-    "pre-industrial-wisdom": "Deep practice can reside in craftspeople, maintainers, growers, and local knowledge holders rather than only in formal institutions."
+    "peace-linguistics-practices": "An expert can be questioned without pretending their practice is shallow; the word honours knowledge and leaves decisions open.",
+    "pre-industrial-wisdom": "A grower who has watched one slope through forty winters may hold expertise that no certificate records."
   },
   "semantic_domains": {
-    "activity": "deeply practiced capacity within a stated domain",
-    "cognition": "extensive domain understanding supported by evidence",
-    "wisdom": "knowledge refined through sustained practice and reflection"
+    "activity": "deeply practised capacity within a stated domain",
+    "cognition": "extensive domain understanding supported by practice and study",
+    "wisdom": "understanding refined through long practice and reflection"
   },
   "modules": [
     "work-craft-and-repair"
