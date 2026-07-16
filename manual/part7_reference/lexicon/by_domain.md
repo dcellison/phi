@@ -293,7 +293,7 @@
 | `hekawi` | find | The moment of discovery |
 | `henora` | capacity | a specified limit whose interpretation depends on object, conditions, and time |
 | `herani` | trend | a pattern inferred from an ordered series of observations |
-| `hiru` | intuit | Direct perception |
+| `hiru` | intuit | a judgement or expectation arising without consciously followed reasoning |
 | `hisaro` | clinical finding | a method-bounded observation available for interpretation |
 | `hisophi` | contaminant | an agent classified relative to a stated expected condition |
 | `holume` | loss | The gone made nameable |
@@ -390,7 +390,7 @@
 | `phiora` | spirit | Inner animation |
 | `phirae` | different | comparative recognition that things differ in the relevant respect |
 | `phiremo` | relate | Perceiving connections |
-| `phirena` | meditate | Training and focusing attention |
+| `phirena` | meditate | deliberate contemplative practice involving attention and awareness |
 | `phisoe` | creative | inventive thought expressed in an approach, proposal, or solution |
 | `phisuri` | sample | a selected portion whose relation to a larger source must be justified |
 | `phisuwa` | example | a particular case used to illuminate a broader idea |
@@ -412,7 +412,7 @@
 | `remuma` | conclusion | the proposition reached from stated premises |
 | `reo` | meaning | involves mental processing and comprehension |
 | `reteru` | model | a structured representation used for explanation, comparison, exploration, or prediction |
-| `romishe` | contemplate | Deep, sustained thinking |
+| `romishe` | contemplate | sustained consideration directed towards a subject or question |
 | `ruka` | complex | an idea, explanation, or route with many relations to follow |
 | `runaki` | wayfind | using cues to establish location and direction |
 | `sahu` | forget | something no longer retained or presently available in memory |
@@ -452,7 +452,7 @@
 | `solae` | explain | reasons and relations arranged so that they can be understood |
 | `soleha` | luck | The unearned part of outcomes |
 | `somaki` | test | gathering bounded evidence about a claim or criterion |
-| `somela` | observe | involves mental processing and focused awareness |
+| `somela` | observe | deliberate perceptual attention to details, events, or patterns |
 | `someru` | supervise | observing conditions and responding to performance |
 | `somethi` | monitor | a practice for detecting change and informing a stated decision |
 | `sone` | value | Attributed importance |
@@ -470,13 +470,13 @@
 | `thekiro` | write | Externalizing thought |
 | `thekopa` | recipe | remembered or recorded knowledge for preparing food |
 | `theloa` | truth | discerning and aligning with reality |
-| `themio` | reflect | mental process of examining thoughts and patterns |
+| `themio` | reflect | returning in thought to experience or material already considered |
 | `themoka` | treasure | Perceiving worth |
 | `themore` | argument | an organized relation of premises to a conclusion |
 | `thena` | thing | general reference in thought and speech |
 | `thenoi` | falls-short | Announces magnitude relationship requiring mental comparison |
 | `theo` | read | fundamentally a cognitive process of decoding and comprehension |
-| `theonu` | attend | Directed focus |
+| `theonu` | attend | awareness deliberately directed or held towards a chosen object |
 | `thesa` | careful | attention directed towards the mistakes or consequences that matter in an act |
 | `thesani` | skill | procedural knowledge developed through learning and repetition |
 | `thesori` | evidence | information offered in support of or against a claim |
@@ -499,7 +499,7 @@
 | `wakomi` | surprise | The mind caught open |
 | `waora` | wondrous | an experience judged to exceed the expectation brought to it |
 | `welura` | spread | Names arithmetic multiplication through a spreading metaphor |
-| `weni` | imagine | Creative mental image formation |
+| `weni` | imagine | forming mental content beyond what is presently perceived |
 | `wenola` | collaborate | aligns minds along shared paths of understanding |
 | `wephari` | coordinate | tracking order, information, and interfaces |
 | `wepuri` | progress | an interpreted relation between current and intended states |
@@ -511,7 +511,7 @@
 | `whekate` | refute | demonstrating that a claim or inference fails |
 | `whekelu` | magic | Change beyond explanation |
 | `whemaki` | allergy | a clinically bounded hypersensitivity claim |
-| `whemura` | dream | Mental imagery during sleep or imagination |
+| `whemura` | dream | dream experience during sleep or a waking vision held as a dream |
 | `wheparu` | discriminate | an assigned or perceived category directing action |
 | `whinu` | smell | an odour becoming perceptible and recognisable |
 | `wiero` | imaginative | the capacity to form possibilities beyond what is presently perceived |
@@ -623,7 +623,7 @@
 | `thenui` | direct | an answer or statement that reaches its subject without evasion or an intermediary |
 | `theo` | read | receptive communication receiving encoded messages from another consciousness |
 | `theomi` | trust | foundation for genuine communication |
-| `theonu` | attend | Attentive presence |
+| `theonu` | attend | attention kept on another participant's words or response |
 | `thereo` | mediator | facilitates communication and understanding between parties |
 | `thilou` | inquire | putting a question to another person |
 | `thimelo` | pace | speed at which an exchange proceeds |
@@ -1091,7 +1091,7 @@
 | `tukelu` | recycle | transforming prior material for further making or use |
 | `weloa` | loom | Weaving device |
 | `welotu` | mix | distributing ingredients through a preparation |
-| `weni` | imagine | Source of artistic and visionary thinking |
+| `weni` | imagine | imagining a possible work, design, story, or arrangement before or during making |
 | `wenola` | collaborate | produces together what none could conceive alone |
 | `wenu` | tonic | Strengthening drink |
 | `weoli` | reed | Weaving material |
@@ -1452,7 +1452,7 @@
 | `wolea` | wood | Tree material |
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 
-## physical (349)
+## physical (350)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1714,6 +1714,7 @@
 | `shuneki` | vaccinate | an intervention intended to induce bodily protection |
 | `shurano` | safe | a body, path, object, or action assessed as sufficiently protected from relevant harm |
 | `siwe` | sweat | The skin's water |
+| `somela` | observe | sustained sensory observation of a material object or change |
 | `sophae` | cotton | Soft covering |
 | `sowelu` | disabled | bodily or sensory disability and its relation to access |
 | `sukaro` | hot | high temperature strongly felt through contact or surrounding air |
@@ -1853,7 +1854,7 @@
 | `phemi` | guest | involves sacred obligations and ceremonial protocols of welcome |
 | `phemila` | host | carries sacred responsibility and ceremonial welcome protocols |
 | `philu` | candle | Meditation focus |
-| `phirena` | meditate | Formal contemplative practice |
+| `phirena` | meditate | meditation practised as a repeated personal or shared observance |
 | `phoemu` | midnight | Liminal hour |
 | `rotiku` | dance | Expression through motion |
 | `sawa` | wash | The small ceremony of care for things |
@@ -2205,14 +2206,14 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (131)
+## wisdom (129)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `heloa` | remedy | Problem solving |
 | `helui` | change | Recognition of impermanence |
 | `hinolu` | adapt | Responsive flexibility |
-| `hiru` | intuit | Immediate knowing |
+| `hiru` | intuit | immediate judgement that may draw on accumulated experience before explanation |
 | `howela` | receive | requires understanding how to receive with grace |
 | `kanu` | choose | Where deliberation becomes direction |
 | `kathu` | seal | Confirmation |
@@ -2284,7 +2285,7 @@
 | `reo` | meaning | requires understanding context and relationship |
 | `roela` | scroll | Preserved teaching |
 | `rolia` | worth | Inherent dignity |
-| `romishe` | contemplate | Patient approach to understanding |
+| `romishe` | contemplate | patient examination of a subject before judgement is settled |
 | `ruela` | path | ways of practice and understanding |
 | `seloi` | insightful | depth of understanding kept distinct from certainty or authority |
 | `selomi` | weave | Understanding interconnection through making |
@@ -2297,7 +2298,6 @@
 | `sima` | thread | Connection |
 | `siru` | marker | Path guide |
 | `soliru` | hope | requires understanding causes and conditions for change |
-| `somela` | observe | leads to insight through mindful seeing |
 | `sone` | value | Worth recognition |
 | `soneho` | tradeoff | attention to what every available option preserves and relinquishes |
 | `sorai` | insight | Penetrating understanding |
@@ -2314,7 +2314,7 @@
 | `thelumo` | ritual | transmits knowledge through embodied practice |
 | `theluo` | steward | requires understanding of long-term impacts |
 | `thema` | guardian | requires accumulated understanding and careful judgment |
-| `themio` | reflect | develops self-understanding and awareness |
+| `themio` | reflect | reconsideration of experience before judgement settles |
 | `themore` | argument | a form through which beliefs can be tested and revised |
 | `thenoki` | sustain | Understanding what keeps things alive |
 | `therema` | tradition | preserving collective knowledge through generations |
@@ -2335,7 +2335,6 @@
 | `weloni` | body | The first foundation of mindfulness |
 | `whamoi` | doubt | recognition that judgment may remain open while inquiry continues |
 | `whano` | stand | standing meditation and practice of mindful presence |
-| `whemura` | dream | Source of insight and vision |
 | `whenola` | wander | Openness to unplanned discovery |
 | `wheo` | elder | holds experiential knowledge from long living |
 | `whori` | mend | Ethic of care and repair |

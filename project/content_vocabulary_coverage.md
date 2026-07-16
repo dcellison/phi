@@ -45,6 +45,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Base-first sequencing | **IN PROGRESS** | The module queue is paused. Inherited base nouns and verbs now take precedence until the shared lexicon has completed its coverage and prose passes. |
 | Core speech and conversation | **DONE** | Fourteen inherited base verbs now use the target prose contract. The coverage pass found no missing root in ordinary speech or conversational exchange. |
 | Knowledge, understanding, belief, and memory | **DONE** | Six inherited base verbs now use the target prose contract. Knowledge, comprehension, belief, memory, forgetting, and recognition remain distinct without adding a root. |
+| Attention, observation, reflection, and imagination | **DONE** | Eight inherited base verbs now use the target prose contract. Directed attention, observation, reflection, contemplation, meditation, intuition, imagination, and dreaming remain distinct without adding a root. |
 | Resume inherited content prose migration | **NEXT** | Continue with another inherited base noun or verb neighbourhood under the same coverage gate. |
 
 ## Batch overview
@@ -75,6 +76,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Medical course, transmission, and treatment response | [PR #381](https://github.com/dcellison/phi/pull/381) | **COVERED** | Acute and chronic course, contagiousness, immunity, and contraindication keep their own evidence and relations. Remission, susceptibility, treatment resistance, urgency, and exact clinical classifications remain explicit compositions or source-level claims. |
 | Core speech and conversation | [PR #382](https://github.com/dcellison/phi/pull/382) | **COVERED** | The fourteen base verbs keep vocal action, directed accounts, questions and replies, conversational exchange, exposition, and expression apart. Voice and manner, neighbouring speech acts, reception, and understanding already have direct words or established grammar. |
 | Knowledge, understanding, belief, and memory | [PR #383](https://github.com/dcellison/phi/pull/383) | **COVERED** | Six base verbs distinguish having knowledge, grasping relations, holding a proposition true, retaining or losing a memory, and matching a present encounter with prior knowledge. Truth, confidence, evidence, trust, faith, and doubt remain separate claims. |
+| Attention, observation, reflection, and imagination | PR pending | **COVERED** | Eight base verbs keep focus, perceptual study, reconsideration, sustained thought, meditation practice, intuition, imagination, and dreams apart. Focus and noticing compose naturally, while sustained interest remains a separate review question. |
 
 ## Semantic batches and stable domains
 
@@ -108,6 +110,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Medical course, transmission, and treatment response | `cognition`, `nature`, `physical`, `temporal` | Clinical course, transmission capability, bodily protection, and a sourced judgement about an intervention remain separate claims. |
 | Core speech and conversation | `aesthetic`, `cognition`, `communication`, `community`, `emotion` | Vocal action, conversational relation, examination of a topic, inward feeling, and expression through a work remain separate browse routes. |
 | Knowledge, understanding, belief, and memory | `cognition`, `communication`, `community`, `temporal` | Epistemic stance, comprehension of an account, familiarity among people, and memory across time remain separate routes. |
+| Attention, observation, reflection, and imagination | `cognition`, `communication`, `creation`, `physical`, `ritual`, `wisdom` | Directed attention, perceptual observation, reconsidered experience, contemplative practice, non-analytic judgement, imagined possibility, and dream experience remain separate routes. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -595,6 +598,26 @@ Someone knows that the pump stopped, understands why, and still believes the rep
 
 No root is added. A person may know what was said and misunderstand it, or believe a memory that later proves mistaken. Certainty still requires its own claim. The spare gasket is, regrettably, wherever someone last put it.
 
+## Attention, observation, reflection, and imagination
+
+A loose wheel draws a mechanic's attention. They observe it turning and reflect on the last repair. They contemplate another method, and experience may supply an intuition about the strain before every cue can be explained. By lunch the mechanic can meditate or imagine a new design. The wheel may appear repaired in a dream, which remains its only known gift to maintenance.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Consciousness, awareness, mindfulness, and directed attention | Base `waeli` (conscious), `selua` (aware), `thesua` (mindful), and `theonu` (attend) | **COVERED** | Consciousness is the presence of experience, awareness notices something particular, mindfulness deliberately attends to present experience, and attending directs or holds focus. |
+| Focus, concentration, distraction, and a change of attention | Base `theonu`, ordinary degree and aspect marking, cessative `te`, and the new object of attention | **COMPOSITIONAL** | Sustained or intense attention needs no second root. A distraction can end, interrupt, or redirect attention, and the sentence can state which event occurred. |
+| Noticing, seeing, hearing, sensing, listening, and observing | Base `selua`, `nila` (see), `hea` (hear), `morae` (sense), `sheluo` (listen), and `somela` (observe) | **COVERED** | The words distinguish present awareness, sensory reception, chosen attention to sound, and deliberate study of perceivable features and recurring relations. Ordinary inchoative marking can make the arrival of awareness explicit. |
+| Observation, inspection, monitoring, and supervision | Base `somela`, Systems and Work `nilaki` (inspect), cross-module `somethi` (monitor), and Work `someru` (supervise) | **COVERED** | Observation stays with what can be perceived. Inspection adds criteria, monitoring builds a record over time, and supervision adds claimed responsibility for another participant's work. |
+| Thinking, reflection, contemplation, and meditation | Base `remo` (think), `themio` (reflect), `romishe` (contemplate), and `phirena` (meditate) | **COVERED** | Thinking is general mental activity. Reflection reconsiders lived experience or earlier thought, contemplation stays with a subject, and meditation is an intentional practice that may use different methods or postures. |
+| Rumination, deliberation, pondering, and reconsideration | Base `remo`, `themio`, `romishe`, aspect and duration, with `remotha` (reason) and `kanu` (choose) where an offered ground or decision matters | **COMPOSITIONAL** | Phi can state repeated thought, patient examination, a return to earlier material, or reasoning towards a choice. Clinical rumination remains a sourced assessment when diagnostic criteria matter. |
+| Intuition, inference, insight, and knowledge | Base `hiru` (intuit), `thuni` (intuitive), `seloi` (insightful), and `sano` (know), with Philosophical Reasoning `kethira` (infer) | **COVERED** | Intuition reports a judgement arriving before conscious reasoning is followed. Inference works from premises towards a conclusion, insight concerns perceived depth, and knowledge remains its own claim; none supplies truth automatically. |
+| Imagination, dreams, wishes, hope, and plans | Base `weni` (imagine), `whemura` (dream), `pula` (wish), `soliru` (hope), and `winora` (plan) | **COVERED** | Imagination forms absent mental content, dreams cover sleep experience and visions held while awake, wishes and hope orient towards an outcome, and plans arrange intended action. |
+| Visualisation, fantasy, daydream, and nightmare | Base `weni` or `whemura`, with the content, waking or sleeping context, and the relevant emotional quality | **COMPOSITIONAL** | These labels divide by context and feeling rather than by one missing mental act. Phi can describe the imagined scene, the dream frame, and fear or pleasure when they matter. |
+| Exact meditation traditions, methods, and lineage names | Base `phirena` beside separately preserved source terminology | **DEFERRED** | The base verb names meditation practice without collapsing named traditions into one Phi category. A recurring method relation can be tested in connected use before optional vocabulary is considered. |
+| Sustained interest, engagement, and boredom | Base `kuelo` (curious), `theonu`, `pula`, `shorui` (weary), and clauses describing the activity | **REVIEW** | Attention can continue without interest, and interest can survive a brief lapse of attention. The existing connected-use review therefore remains open instead of being hidden inside `theonu`. |
+
+No root is added. These are mental acts, not medals: intuition remains open to checking, observation has a point of view, meditation can be restless, and dreams answer to waking evidence. The wheel, meanwhile, is still loose.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -635,4 +658,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete, and the inherited base migration has now covered core speech and the six verbs of knowledge, understanding, belief, and memory. Module batches remain paused. The next work package will select another coherent base noun or verb neighbourhood under the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete, and the inherited base migration has now covered core speech, knowledge and memory, and the eight verbs of attention, reflection, and imagination. Module batches remain paused. The next work package will select another coherent base noun or verb neighbourhood under the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.

@@ -8,16 +8,28 @@
     "ra"
   ],
   "pos": "verb",
-  "concept": "Dream / Vision During Sleep / Imaginative Vision",
-  "description": "To experience the mind's creations during sleep, or to hold a vision of possibility while awake. 'Whemura' bridges night visions and waking aspirations—both arise from the mind's capacity to generate worlds beyond immediate perception. Dreams teach, warn, inspire, and reveal what waking consciousness overlooks.",
-  "sound_symbolism": "The word begins with 'whe' /ʍe/, the voiceless whisper of something not quite solid—breath becoming vision, air becoming image. The 'e' perceives dimly. Then 'mu' turns inward with nasal depth, the dream's source in the unconscious. Finally 'ra' flows outward, the dream emerging into awareness where it can be remembered.",
-  "grammatical_notes": "'mia whemura.' (I dream.) Can take an object for dream content: 'mia wireo whemura.' (I dream of the future.) The event noun may take the optional abstract classifier: 'ta nophe whemura' (one dream); 'ta whemura' is also grammatical. Night dreams and waking visions share this word.",
+  "search_terms": [
+    "sleeping dream",
+    "waking vision"
+  ],
+  "description": "A sleeper walks through a house that vanishes on waking; they 'whemura'. The form also extends to a waking vision held as a dream, such as a bridge never seen or a distant future. 'weni' (imagine) covers ordinary mental representation. 'pula' (wish), 'soliru' (hope), and 'winora' (plan) say what a speaker wants, hopes for, or intends to organise.",
+  "articulatory_notes": "Shape voiceless 'wh' by rounding the lips and raising the back of the tongue while the vocal folds stay apart. Begin voicing as the lips unround for true-mid front 'e'. Seal the lips for 'm', send its voiced air through the nose, and raise the back of the tongue into stressed high rounded 'u'. An alveolar tap or brief trill forms 'r' before the final open central 'a'.",
+  "sound_symbolism": "The whispered opening of 'whemura' is shared with 'wheiru' (mist) and 'whemoa' (empty). That audible kinship may recall something shaped yet hard to hold, with the word moving from whisper towards nasal resonance and a final tap.",
+  "usage_notes": "Dreamed content may be stated before 'whemura' or left to context. 'whemura' also works as the noun dream; 'mua whemura' frames events as occurring within one. Counted dreams may take optional abstract classifier 'nophe'.",
+  "examples": [
+    {
+      "phi": "mia to whemura.",
+      "translation": "I dreamed."
+    },
+    {
+      "phi": "mia wireo whemura.",
+      "translation": "I dream of the future."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Dreams reveal the mind's nature—generating experience without external input. They teach that perception is always partly constructed.",
-    "art-nouveau-aesthetics": "Dreams are the imagination's purest expression, unconstrained by waking logic, source of artistic vision."
+    "secular-buddhist-philosophy": "A dream can feel witnessed from inside it. 'mua whemura' keeps that frame visible, so dream experience need not become waking evidence."
   },
   "semantic_domains": {
-    "cognition": "Mental imagery during sleep or imagination",
-    "wisdom": "Source of insight and vision"
+    "cognition": "dream experience during sleep or a waking vision held as a dream"
   }
 }

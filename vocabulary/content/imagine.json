@@ -7,16 +7,24 @@
     "ni"
   ],
   "pos": "verb",
-  "concept": "Imagine / Form Mental Images / Envision",
-  "description": "To form images or scenarios in the mind that are not present to the senses—creating inner worlds, envisioning possibilities, seeing what is not yet or may never be. 'Weni' is the mind's creative freedom, its capacity to move beyond the given into the possible.",
-  "sound_symbolism": "The word is light and quick, like imagination's freedom. 'We' begins with the soft glide of wonder, easily crossing from real to imagined. The 'e' opens to possibility. Then 'ni' forms with nasal precision, the imagined thing taking shape in mind.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia thena weni.' (I imagine something.) Can take clausal complements for imagined scenarios. Related to 'whemura' (dream) but weni implies waking, voluntary imagination.",
+  "search_terms": [
+    "envision",
+    "visualise"
+  ],
+  "description": "A child pictures a house under the sea; a repairer considers a new joint before cutting the wood. Both use 'weni' to form in the mind what is not presently perceived. 'whemura' (dream) includes sleep dreams and waking visions held as dreams; 'winora' (plan) arranges intended action.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w'. Unround as the tongue moves forward into stressed true-mid front 'e'. For voiced dental 'n', press the tongue tip behind the upper teeth and let air leave through the nose, then finish with high-front unrounded 'i'.",
+  "usage_notes": "The imagined object appears directly before 'weni'. A complete scenario instead uses 'mena ... meno', and direct imperative 'no weni' asks someone to imagine. 'weni' can also be the noun imagination or an act of imagining; 'wiero' (imaginative) supplies the quality.",
+  "examples": [
+    {
+      "phi": "mia wireo womu weni.",
+      "translation": "I imagine a future home."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Imagining better futures is the first step toward creating them. The capacity to envision enables transformation.",
-    "art-nouveau-aesthetics": "Imagination is the source of all art—seeing what could be, what beauty might take form."
+    "solarpunk-values": "With 'weni', a community pictures rooftops feeding shared cisterns before any design is chosen. People can discuss the possible arrangement before it becomes a plan."
   },
   "semantic_domains": {
-    "cognition": "Creative mental image formation",
-    "creation": "Source of artistic and visionary thinking"
+    "cognition": "forming mental content beyond what is presently perceived",
+    "creation": "imagining a possible work, design, story, or arrangement before or during making"
   }
 }

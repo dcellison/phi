@@ -8,16 +8,25 @@
     "nu"
   ],
   "pos": "verb",
-  "concept": "Attend / Pay Attention / Direct Focus",
-  "description": "To direct one's awareness toward something; to give focused presence. 'Theonu' names what attention does—the active turning of mind toward object.",
-  "sound_symbolism": "The word focuses gently. 'The' breathes with thoughtful opening, attention beginning. 'O' opens with receptive space, making room. Then 'nu' settles with grounded presence, attention landing.",
-  "grammatical_notes": "Functions as a verb: 'mia theonu.' (I attend.) Takes an object of attention: 'mia melira theonu.' (I attend to the song.) Related to 'thesua' (mindful) and 'somela' (observe).",
+  "search_terms": [
+    "pay attention",
+    "focus on"
+  ],
+  "description": "A listener follows a quiet voice, and a maker keeps attention on a difficult cut. Both use 'theonu': they direct or hold awareness towards what presently matters. Someone may be 'selua' (aware) without choosing it; 'thesua' (mindful) describes deliberate presence to current experience.",
+  "articulatory_notes": "Touch the tongue tip lightly to the upper teeth for unvoiced 'th', then pass the air into true-mid front unrounded 'e'. Keep stressed rounded true-mid back 'o' in its own syllable across the 'e.o' hiatus. For voiced dental 'n', place the tongue tip behind the upper teeth and lower the velum so air leaves through the nose; finish with high rounded back 'u'.",
+  "usage_notes": "The thing receiving attention precedes 'theonu', though the verb also works alone. 'sheluo' (listen) directs attention specifically towards sound. English attend an event usually calls for 'pawela' (participate) or a clause of coming or presence; 'theonu' concerns attention. Its noun use covers attending or attention.",
+  "examples": [
+    {
+      "phi": "mia melira theonu.",
+      "translation": "I attend to the song."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Right attention—the skillful directing of awareness that is foundation of practice.",
-    "peace-linguistics-practices": "Attending to others—the respect shown through genuine attention in communication."
+    "secular-buddhist-philosophy": "Returning to the breath after distraction is another act of 'theonu'. Attention may wander and be directed again.",
+    "peace-linguistics-practices": "When an exchange becomes difficult, 'theonu' keeps attention on the other person's words and response before the next utterance is chosen."
   },
   "semantic_domains": {
-    "cognition": "Directed focus",
-    "communication": "Attentive presence"
+    "cognition": "awareness deliberately directed or held towards a chosen object",
+    "communication": "attention kept on another participant's words or response"
   }
 }
