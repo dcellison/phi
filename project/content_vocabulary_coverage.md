@@ -55,7 +55,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Affective response, anticipation, and resolve | [PR #371](https://github.com/dcellison/phi/pull/371) | **REVIEW** | Existing words keep the main distinctions apart. Repeated corpus paraphrases show that sustained interest or engagement needs its own connected-use test. |
 | Social relation, standing, and personal boundaries | [PR #372](https://github.com/dcellison/phi/pull/372) | **COVERED** | Company, reciprocity, equal standing, self-presentation, agency, privacy, and interpersonal warmth remain distinct. No new root follows from the coverage pass. |
 | Life, age, and bodily condition | [PR #373](https://github.com/dcellison/phi/pull/373) | **COVERED** | The life arc, newness, present wellness, classified illness, hunger, thirst, and weariness remain distinct. Phi already has settled or natural constructions for dead, newborn, satiated, exhausted, and sleepy. |
-| Cultivation, abundance, and wildness | PR pending | **COVERED** | Quantity, capacity for growth, actual yield, origin, human habituation, life outside cultivation, and ordinary cleanliness keep separate words. Scarcity, artificial origin, dirt, and exact sanitation remain compositions or source-level distinctions. |
+| Cultivation, abundance, and wildness | [PR #374](https://github.com/dcellison/phi/pull/374) | **COVERED** | Quantity, capacity for growth, actual yield, origin, human habituation, life outside cultivation, and ordinary cleanliness keep separate words. Scarcity, artificial origin, dirt, and exact sanitation remain compositions or source-level distinctions. |
 
 ## Semantic batches and stable domains
 
