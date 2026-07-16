@@ -8,17 +8,27 @@
     "ra"
   ],
   "pos": "verb",
-  "concept": "Shout / Roar / Forceful Vocalization",
-  "description": "To cry out with sudden force, the voice breaking past its ordinary bounds under the pressure of feeling, anger, warning, or joy alike. 'Kapura' names the body's oldest communication: the call that carries beyond conversation, urgent and unmistakable.",
-  "sound_symbolism": "The word opens on 'ka', a stop consonant striking like a sudden intake before the cry. 'Pu' repeats the plosive attack, a second burst, the voice pushing past its usual shape. The word settles into 'ra', liquid and open, the sound radiating outward once released. Two stops in succession embody the shout's suddenness; the open ending lets it carry.",
-  "grammatical_notes": "Functions as a verb: 'shia kapura.' (They shout.) Stronger than 'haolu' (speak) and distinct from 'theisa' (loud, a quality any sound can carry): 'kapura' names the act itself, an intense, forceful vocalization, whatever its cause. Its event noun (a shout) comes by the ordinary rule.",
+  "search_terms": [
+    "yell",
+    "cry out",
+    "roar"
+  ],
+  "description": "Someone across a field may 'kapura' to warn a neighbour, call for help, or let strong feeling into the voice. The verb is a forceful projected vocal act and may carry words or a wordless call. 'theisa' (loud) describes intensity, so loud speech need not be a shout and a shout can be judged by more than volume alone.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into open central 'a'. Seal the lips for unvoiced 'p' and release into stressed high-back rounded 'u'. Tap or briefly trill the tongue at the alveolar ridge, then open into final central 'a'.",
+  "sound_symbolism": "Two stop releases punctuate the opening pair before tapped 'r' opens into final 'a'. The repeated bursts followed by an open finish offer a physical mnemonic for a call projected outward.",
+  "usage_notes": "'kapura' can stand alone for the activity of shouting. A listener may be introduced with 'wei', while quoted words use the ordinary direct-quotation frame. Noun 'kapura' is a shout or forceful call.",
+  "examples": [
+    {
+      "phi": "shia kapura.",
+      "translation": "They shout."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The body's most forceful sounds arise and pass like any other state; naming them plainly is part of watching them clearly rather than being swept by them.",
-    "peace-linguistics-practices": "Naming the raised voice honestly, without condemning the one who raises it, gives mindful speech something to recognize itself against. A word for the shout is not an invitation to it.",
-    "pre-industrial-wisdom": "Before any device could carry a voice across distance, the raised call did that work: warning of danger, gathering the scattered, reaching a field's far end. 'Kapura' keeps that oldest use alive."
+    "peace-linguistics-practices": "Force in the voice is not the same fact as hostility. 'kapura' can report a warning, a distant call, anger, or celebration while the surrounding sentence states purpose and effect."
   },
   "semantic_domains": {
-    "communication": "forceful or urgent vocalization",
-    "emotion": "intensity breaking into voice"
+    "communication": "a voice projected forcefully to carry a call or words",
+    "emotion": "strong feeling expressed through a shout",
+    "physical": "a forceful vocal act produced through breath and voice"
   }
 }

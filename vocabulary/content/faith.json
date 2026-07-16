@@ -8,16 +8,25 @@
     "i"
   ],
   "pos": "verb",
-  "concept": "Faith / Mindful Trust in Process",
-  "description": "A tempered quality of mindful trust in the unfolding of a process, whether in oneself, in others, or in life itself. It is not blind belief, but a courageous confidence rooted in observation and experience.",
-  "sound_symbolism": "The word begins with 'the' /θe̞/, the deliberate dental fricative—faith as conscious choice, not habit. 'Mu' grounds trust in the body, in lived experience rather than abstraction. The final 'i' opens bright and clear, the vowel of inner knowing.",
-  "grammatical_notes": "Takes the object of trust: 'mia thia themui.' (I place faith in you.) The noun sense, faith itself, comes by the event-noun rule. Related to 'theomi' (trust) and 'nohero' (believe); 'themui' emphasizes sustained confidence in an unfolding process.",
+  "search_terms": [
+    "keep faith",
+    "sustained confidence"
+  ],
+  "description": "A gardener plants before the weather is known; a learner continues a practice whose result has not yet appeared. 'themui' is sustained confidence in a person, practice, or unfolding process under uncertainty. 'theomi' (trust) is reliance for a purpose, while 'nohero' (believe) takes a proposition as true.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th' and pass air into middle-height front unrounded 'e'. Close the lips for voiced 'm', carry the voice through the nose, and raise the back of the tongue for stressed high-back rounded 'u'. Keep final high-front unrounded 'i' in a separate syllable across the 'u.i' hiatus by moving the tongue forward and unrounding without a glide.",
+  "usage_notes": "The person, practice, or process in which faith is placed precedes 'themui'. A nearby clause can name the uncertain outcome or the experience on which the confidence rests. Event-noun 'themui' is faith or the sustaining of that confidence.",
+  "examples": [
+    {
+      "phi": "mia thia themui.",
+      "translation": "I place faith in you."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Faith in solarpunk context means trust in collective human creativity to build regenerative futures despite current crises. It's the confidence that distributed networks of care and innovation can create abundance where extraction created scarcity - not naive optimism but grounded hope based on emerging practices already showing success.",
-    "secular-buddhist-philosophy": "Faith as confidence in the path represents the quality of trust that emerges from direct experience and observation. This is not blind belief but the courage to continue practicing even when results aren't immediately visible, understanding that transformation unfolds in its own time. It's the trust that allows us to sit with uncertainty without grasping for false certainties.",
-    "peace-linguistics-practices": "Faith in peace processes means trusting that nonviolent approaches can transform even deep conflicts, despite evidence of past failures. This practice requires holding space for possibility when others see only impasse, maintaining confidence that human connection can bridge seemingly unbridgeable divides when given patient, skillful support."
+    "secular-buddhist-philosophy": "Practice often continues before its effects can be known. 'themui' names the confidence that sustains practice, while observation and evidentials keep later claims about its effects honest.",
+    "peace-linguistics-practices": "A nonviolent process may need continued confidence before relational repair is visible. Evidence can support that confidence, and consent still decides participation."
   },
   "semantic_domains": {
-    "emotion": "cultivates trust through mindful confidence in process"
+    "cognition": "a person or process judged worthy of sustained confidence under uncertainty",
+    "emotion": "felt confidence that permits continued engagement before an outcome is known"
   }
 }

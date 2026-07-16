@@ -7,16 +7,24 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Rejoice / Feel Great Joy / Exult",
-  "description": "To feel and express great happiness, to experience joy so full it must be expressed. 'Kela' names the inner surge of gladness—the heart lifting, spirits soaring, gratitude overflowing into expression. It is joy that cannot stay contained.",
-  "sound_symbolism": "The word bursts with joy. 'Ke' begins with velar brightness, joy springing forth. Then 'la' flows with liquid release, gladness overflowing, expression inevitable.",
-  "grammatical_notes": "Functions as an intransitive verb: 'mia kela' (I rejoice). Can take a cause with 'lao': 'mia lao welao thena kela' (I rejoice because of a good thing). More internal than pharuki (celebrate); kela is the feeling, pharuki is the communal marking.",
+  "search_terms": [
+    "exult",
+    "feel great joy"
+  ],
+  "description": "A person may 'kela' at welcome news or at another person's good fortune: joy is felt strongly and the person lets it show. 'siora' (joy) describes the present feeling, while 'pharuki' (celebrate) builds an observance around an occasion. Rejoicing can be quiet; the verb requires gladness, not volume.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed middle-height front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced 'l', let the air pass along its sides, and open into central 'a'.",
+  "usage_notes": "'kela' is intransitive; its sole participant is the person rejoicing. A 'lao' phrase can introduce the event or condition that prompted the joy. Noun 'kela' is rejoicing or a particular act of it.",
+  "examples": [
+    {
+      "phi": "mia kela.",
+      "translation": "I rejoice."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Mudita—sympathetic joy—rejoices in others' happiness. 'Kela' supports this practice of finding joy in joy wherever it appears.",
-    "peace-linguistics-practices": "Expressing joy openly invites others into gladness. Rejoicing together multiplies happiness."
+    "secular-buddhist-philosophy": "The practice of sympathetic joy attends to another being's good fortune without making it a comparison. 'kela' can state that rejoicing directly."
   },
   "semantic_domains": {
-    "communication": "Expressing joy to others",
-    "emotion": "Experiencing deep gladness"
+    "communication": "strong joy made perceptible to another person",
+    "emotion": "the active experience of marked gladness"
   }
 }

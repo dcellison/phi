@@ -8,16 +8,26 @@
     "mi"
   ],
   "pos": "verb",
-  "concept": "Surprise / The Unlooked-for Arrival",
-  "description": "To surprise: to arrive in the mind unannounced, before expectation could set a place for it. 'Wakomi' names the moment the world outruns what was looked for: the bell where silence was assumed, the wide-awake night that visits a sound sleeper, the adventure that finds the unadventurous. Named without alarm: in Phi the unexpected is first of all a guest, and only afterwards, if it must be, a trouble.",
-  "sound_symbolism": "The open 'wa' is the breath of 'wao' (wow), the mouth already caught open; the stop 'k' at the word's center is the instant itself, the one sharp boundary between before and after; the closing 'mi' settles the arrival inward. Inside the word sits an echo of 'kamo' (arrive): surprise is arrival that never announced itself, in a language where everything else announces before it delivers.",
-  "grammatical_notes": "Transitive verb, the surpriser as subject: 'thena mia wakomi.' (The thing surprises me.) 'ha thena rena welao nulae miona we wakomi.' (This state surprises even those who sleep well.) The event noun, a surprise, comes by rule. Related to 'wao' (wow), the voiced response, and 'kuelo' (curious), the seeking that surprise rewards unasked.",
+  "search_terms": [
+    "startle",
+    "catch unawares",
+    "unexpected event"
+  ],
+  "description": "A bell in an empty room or an early visitor may 'wakomi' someone: the event arrives outside the expectation they had formed. The surprise can be welcome, unpleasant, slight, or startling; the verb says that expectation was overtaken before it says how the person judged the result. 'waora' (wondrous) describes something that awakens wonder, while 'wao' (wow) is one possible response.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then open into central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed middle-height back rounded 'o'. Close the lips for voiced 'm', carry the voice through the nose, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The opening 'wa' echoes 'wao' (wow), while medial 'k' interrupts the flow with a clean stop and release. That family resemblance and sudden central closure make a compact mnemonic for the unexpected.",
+  "usage_notes": "This is a transitive verb: the surprising event or person is the subject, and the experiencer precedes the verb as its object. The cause and the experiencer therefore remain distinct even when English uses 'be surprised'. Event-noun 'wakomi' is a surprise or the event of surprising someone.",
+  "examples": [
+    {
+      "phi": "thena mia wakomi.",
+      "translation": "The thing surprises me."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Beginner's mind is the mind wakomi finds ready: surprise is impermanence arriving in person, the reminder that the story was never finished.",
-    "peace-linguistics-practices": "A word that meets the unexpected as a guest rather than an attack lets speakers name the unannounced without reaching for defense."
+    "secular-buddhist-philosophy": "When something surprises a person, it shows which expectation the event exceeded. Attending to that moment leaves room to observe what happened before settling its meaning."
   },
   "semantic_domains": {
-    "cognition": "The mind caught open",
-    "emotion": "The felt jolt of the unexpected"
+    "cognition": "an event encountered outside the experiencer's formed expectation",
+    "emotion": "the felt response when expectation is overtaken by an event"
   }
 }

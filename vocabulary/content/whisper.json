@@ -8,16 +8,25 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Whisper / Speech Under the Breath",
-  "description": "To whisper: to speak in breath instead of voice, so the words reach one listener and let the night alone. Secrets at bedtime, games after the lamp is lit, comfort at a sickbed, the voice's way of standing close. 'Whishela' is the quietest complete speech, talk that has taken off its shoes.",
-  "sound_symbolism": "The word is made of the sounds whispering is made of: 'wh' /ʍ/ pure breath, 'sh' /ʃ/ the hush itself, and only then 'la', the small flow of what gets said. Spoken aloud it barely rises above its own meaning; it cannot be shouted without stopping being itself.",
-  "grammatical_notes": "Verb of speech, patterning with 'haolu' (speak): it frames quotation ('shola ... sholo whishela', whispered these words) and takes a hearer with 'wei' ('shia wei lopia whishela.', they whisper to the child). The event noun, a whisper, comes by rule. Sits at the quiet end of the voice's scale, opposite 'kapura' (shout); 'maeli haolu' (speak quietly) is manner, while 'whishela' is the breath-speech itself.",
+  "search_terms": [
+    "speak under breath",
+    "whispered speech"
+  ],
+  "description": "At a sickbed or across a dark room, someone may 'whishela': speak with little or no regular vocal-fold vibration and keep the voice at limited reach. A whisper can carry comfort, warning, secrecy, or ordinary words meant for nearby ears. 'maeli haolu' (speak quietly) describes low volume in ordinary voiced speech; 'whishela' names the breath-led manner itself.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for unvoiced 'wh', pass air without vocal-fold vibration, and unround into high-front 'i'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh', direct air through its narrow channel, and move into stressed middle-height front 'e'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and open into central 'a'.",
+  "sound_symbolism": "Unvoiced 'wh' and 'sh' make airflow conspicuous at the start of the first two syllables; final 'la' releases into a voiced lateral and open vowel. The form remains distinct when spoken at whisper volume.",
+  "usage_notes": "'whishela' follows the general speech pattern. A hearer appears in a 'wei' phrase, direct words use 'shola ... sholo', and a reported clause uses 'mena ... meno'. Noun 'whishela' is a whisper or the activity of whispering.",
+  "examples": [
+    {
+      "phi": "shia wei lopia whishela.",
+      "translation": "They whisper to the child."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Speech practiced at the threshold of silence; the whisper keeps the quiet it enters.",
-    "peace-linguistics-practices": "The gentlest register of speech given its own word: communication scaled down to exactly one trusted hearer."
+    "peace-linguistics-practices": "A whisper deliberately limits how far speech travels, which can protect rest or privacy. It can also exclude people who need the information, so its reach belongs in the account of what happened."
   },
   "semantic_domains": {
-    "communication": "Speech made of breath",
-    "community": "The voice standing close"
+    "communication": "speech produced in a breath-led manner for limited audible reach",
+    "community": "near-range speech shaped for a particular listener or small group"
   }
 }

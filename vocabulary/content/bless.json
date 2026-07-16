@@ -8,16 +8,27 @@
     "i"
   ],
   "pos": "verb",
-  "concept": "Bless / Invoke Goodness / Wish Well Upon",
-  "description": "To invoke or wish goodness, protection, and wellbeing upon someone or something. 'Thorai' is speech that carries intention—words offered not as information but as gift, the speaker's hope for another's flourishing made audible.",
-  "sound_symbolism": "The word carries sacred breath. 'Tho' /θo/ begins with dental whisper, the sacred entering speech. Then 'ra' rolls outward with warm intention, blessing extending. Finally 'i' rises to bright openness, goodness invoked.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia thia thorai.' (I bless you.) 'phao lopia thorai.' (The parent blesses the child.) Often used at significant moments of transition, alongside 'thorea' (ceremony) and 'thelumo' (ritual).",
+  "search_terms": [
+    "wish well",
+    "offer a blessing"
+  ],
+  "description": "A traveller setting out or a child being welcomed may receive 'thorai': words or a ritual act that offer goodwill towards a person, place, undertaking, or living thing. 'pula' (wish) presents a desired outcome, while a blessing directs that wish towards a recipient. The blessing is complete when it is offered; any later protection or good fortune remains its own event.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th' and pass air into middle-height back rounded 'o'. Tap or briefly trill the tongue at the alveolar ridge before stressed open central 'a'. Keep final high-front unrounded 'i' in its own syllable across the 'a.i' hiatus, raising the tongue without inserting a glide.",
+  "sound_symbolism": "The unvoiced dental opening makes the first breath audible, and the tap gives a brief pulse before the final hiatus opens into high 'i'. That outward unfolding can help a learner remember a blessing spoken towards another.",
+  "usage_notes": "The recipient of the blessing precedes 'thorai'. A ceremony, departure, meal, or other occasion may appear in a nearby phrase. Noun 'thorai' refers to the blessing itself.",
+  "examples": [
+    {
+      "phi": "mia thia thorai.",
+      "translation": "I bless you."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Blessing practices cultivate metta (loving-kindness)—the intentional wish for others' wellbeing strengthens compassion in the speaker.",
-    "pre-industrial-wisdom": "Blessing traditions recognize that words carry power—speech can invoke, protect, and transform when offered with intention."
+    "secular-buddhist-philosophy": "A metta practice may use a blessing to direct goodwill towards a particular being. The practice lies in offering that goodwill; any change in either person must be observed afterwards.",
+    "pre-industrial-wisdom": "Spoken blessings often accompany departures, planting, and life transitions in oral traditions. 'thorai' keeps the act available while an inherited formula remains with its own source."
   },
   "semantic_domains": {
-    "community": "Wishing wellbeing upon others",
-    "ritual": "Sacred speech and invocation"
+    "communication": "goodwill addressed to a recipient through words or another expressive act",
+    "community": "a blessing offered within a relationship or at a shared transition",
+    "ritual": "a formal or repeated act that directs goodwill towards its recipient"
   }
 }

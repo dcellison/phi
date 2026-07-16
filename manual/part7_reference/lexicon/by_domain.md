@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (266)
+## activity (267)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -75,7 +75,7 @@
 | `masue` | measure | gauging something against a standard for a practical purpose |
 | `masuro` | calibrate | comparison and adjustment of a device against a reference |
 | `meilo` | sit | holding or entering a seated posture |
-| `meliho` | sing | fundamental human activity of singing |
+| `meliho` | sing | the bodily and practised act of singing |
 | `meloa` | persevere | chosen effort continued towards a purpose through difficulty |
 | `menai` | dedicate | setting work, effort, or self apart for a person or purpose |
 | `menui` | dwell | inhabiting a place as an ongoing abode or usual setting |
@@ -128,6 +128,7 @@
 | `pharelo` | cook | preparing food through controlled heat |
 | `phareme` | ingredient | food selected for use in a preparation |
 | `pharomu` | exclude | preventing or omitting participation in a stated action |
+| `pharuki` | celebrate | deliberate festive activity organised around an occasion or achievement |
 | `pharune` | include | placing a person or thing within a stated activity or whole |
 | `pheloma` | serve | performing work for a stated recipient, purpose, or continuing activity |
 | `phelona` | require | a material or condition on which an action or result depends |
@@ -166,7 +167,7 @@
 | `ritako` | workload | the combined demands of work under stated conditions |
 | `rohi` | rub | working through repeated or sustained sliding contact |
 | `roke` | move | changing position or continuing in motion |
-| `rotiku` | dance | fundamental human activity of dancing |
+| `rotiku` | dance | participation in dancing as recreation, practice, or performance |
 | `ruemi` | lie down | holding or entering a horizontal or reclining posture |
 | `rulami` | adventure | The journey into the unknown |
 | `ruloi` | flourish | a practice or art developing with abundant activity |
@@ -273,13 +274,13 @@
 | `whetuma` | appeal | requesting formal reconsideration of a prior matter |
 | `whori` | mend | hands-on closure of a tear, split, or modest break |
 | `whunei` | breathe | breathing as a continuing bodily act |
-| `wile` | play | fundamental human activity of playing |
+| `wile` | play | recreation or a game pursued for participation and enjoyment |
 | `winora` | plan | organizing intended actions and the conditions around them |
 | `wiresu` | postpone | moving a planned action to a later time |
 | `wishe` | swim | self-propelled passage through water |
 | `wisola` | exchange | participants giving and receiving within one reciprocal arrangement |
 
-## aesthetic (83)
+## aesthetic (85)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -306,6 +307,7 @@
 | `luwae` | graceful | flowing movement or form perceived as graceful |
 | `maeli` | quiet | quiet or silence used as part of an audible composition |
 | `malomi` | balance | finds beauty in dynamic equilibrium and organic harmony |
+| `meliho` | sing | melody and vocal form perceived or shaped through singing |
 | `meliphe` | music | Sound organized on purpose |
 | `melothe` | pond | Contemplative water feature |
 | `mioru` | beautiful | a speaker's aesthetic appreciation of a form, sound, movement, or presence |
@@ -332,6 +334,7 @@
 | `phuri` | brush | Flowing marks |
 | `puko` | bitter | bitterness encountered and sometimes sought in food, drink, or medicine |
 | `roena` | copper | Aging beauty |
+| `rotiku` | dance | rhythm and bodily form experienced or shaped as a dance |
 | `rulo` | red | ordinary reds, whether bright or dark |
 | `sena` | pattern | Repeated design |
 | `shaemu` | organic | Growth-shaped form |
@@ -367,7 +370,7 @@
 | `wira` | window | View portal |
 | `woraka` | appreciate | positive recognition of a sensory or artistic quality |
 
-## cognition (237)
+## cognition (238)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -560,6 +563,7 @@
 | `themio` | reflect | returning in thought to experience or material already considered |
 | `themoka` | treasure | Perceiving worth |
 | `themore` | argument | an organized relation of premises to a conclusion |
+| `themui` | faith | a person or process judged worthy of sustained confidence under uncertainty |
 | `thena` | thing | general reference in thought and speech |
 | `thenoi` | falls-short | a quantitative shortfall established by comparison |
 | `theo` | read | decoding written marks as language or another readable system |
@@ -587,7 +591,7 @@
 | `tukiro` | review | reassessment under stated evidence and criteria |
 | `turelo` | feedback | a relation used to explain changing system behavior |
 | `waeli` | conscious | the presence of subjective experience or wakefulness |
-| `wakomi` | surprise | The mind caught open |
+| `wakomi` | surprise | an event encountered outside the experiencer's formed expectation |
 | `waora` | wondrous | an experience judged to exceed the expectation brought to it |
 | `weni` | imagine | forming mental content beyond what is presently perceived |
 | `wephari` | coordinate | tracking order, information, and interfaces |
@@ -609,7 +613,7 @@
 | `wireki` | prognosis | a conditional inference about a health course |
 | `woraka` | appreciate | attention that recognises value in a person, act, thing, or condition |
 
-## communication (118)
+## communication (120)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -618,9 +622,10 @@
 | `haoni` | voice | fundamental medium for spoken communication |
 | `hea` | hear | spoken language becoming available to a hearer |
 | `hewasu` | audible | speech or a signal distinguishable to its intended listener |
+| `hola` | laugh | an audible social response whose meaning comes from its occasion and manner |
 | `howela` | receive | receiving a message, account, or other communicative object |
-| `kapura` | shout | forceful or urgent vocalization |
-| `kela` | rejoice | Expressing joy to others |
+| `kapura` | shout | a voice projected forcefully to carry a call or words |
+| `kela` | rejoice | strong joy made perceptible to another person |
 | `keloa` | rough | an abrasive texture extended to the delivery of a voice or utterance |
 | `keluro` | honor | respect or tribute deliberately expressed to others |
 | `kiroa` | sign | Visual message |
@@ -674,7 +679,7 @@
 | `repora` | propose | a proposal remains open to response, amendment, and refusal |
 | `samethu` | equivalent | comparison between different expressions or formats |
 | `selomi` | weave | the established extension from interlaced thread to a story woven from events |
-| `seniku` | smile | Non-verbal communication of goodwill |
+| `seniku` | smile | a visible facial expression interpreted within an interaction |
 | `sepho` | send | sending a message, letter, or other communicative object |
 | `shalori` | represent | carrying another party's position under stated scope and authorization |
 | `shane` | tell | an account directed to a listener |
@@ -717,6 +722,7 @@
 | `thilou` | inquire | putting a question to another person |
 | `thimelo` | pace | speed at which an exchange proceeds |
 | `thorae` | facilitator | Group enabling |
+| `thorai` | bless | goodwill addressed to a recipient through words or another expressive act |
 | `thorelu` | converse | spoken exchange conducted in turns |
 | `thosami` | compatible | communication formats able to be exchanged or rendered together |
 | `thumela` | teach | knowledge or skill offered through explanation and demonstration |
@@ -728,7 +734,7 @@
 | `whaline` | thank | gratitude expressed to another participant |
 | `whekate` | refute | a decisive challenge supported by reasons or evidence |
 | `whelani` | welcome | greeting an arrival or making reception explicit |
-| `whishela` | whisper | Speech made of breath |
+| `whishela` | whisper | speech produced in a breath-led manner for limited audible reach |
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
@@ -794,7 +800,7 @@
 | `luseri` | provenance | custody, contribution, and transfer among participants |
 | `makelu` | abstain | an abstention distinct from absence, refusal, and exclusion |
 | `manawi` | compromise | a settlement reached through concessions among participants |
-| `meliho` | sing | Shared singing traditions |
+| `meliho` | sing | singing shared in work, ceremony, teaching, or recreation |
 | `meliphe` | music | What the gathering makes |
 | `melu` | friend | fundamentally a social relationship of voluntary interpersonal connection |
 | `menua` | counselor | Guidance role |
@@ -864,7 +870,7 @@
 | `phao` | parent | fundamental to family bonds and social structure |
 | `pharea` | adult | embodies responsibility and contribution to collective wellbeing |
 | `pharomu` | exclude | keeping someone outside a group or shared process |
-| `pharuki` | celebrate | Communal honoring of occasions |
+| `pharuki` | celebrate | an occasion recognised through shared celebration |
 | `pharune` | include | including someone within a group or shared process |
 | `pheloma` | serve | service directed towards a person or group |
 | `phelu` | hold | holding a role, entitlement, or shared resource within a social relation |
@@ -971,7 +977,7 @@
 | `thonai` | responsible | willing acceptance of care or answerability for a shared matter |
 | `thonua` | scholar | Learning role |
 | `thorae` | facilitator | Process role |
-| `thorai` | bless | Wishing wellbeing upon others |
+| `thorai` | bless | a blessing offered within a relationship or at a shared transition |
 | `thorea` | ceremony | gathers collective presence for shared transformation |
 | `thorelu` | converse | informal talk through which people maintain relationships |
 | `thowia` | born | birth as the relation that connects a child with a birth parent |
@@ -1009,7 +1015,7 @@
 | `wheparu` | discriminate | unequal treatment of a person or group |
 | `whepelo` | retaliate | retaliation through a social or institutional power relation |
 | `whetuma` | appeal | an institutional appeal with stated recipient and standing |
-| `whishela` | whisper | The voice standing close |
+| `whishela` | whisper | near-range speech shaped for a particular listener or small group |
 | `whola` | invite | inviting another person into a shared place or activity |
 | `wilemo` | toy | Made for a child's hands |
 | `wiresu` | postpone | a schedule change affecting shared participation |
@@ -1071,7 +1077,7 @@
 | `luseri` | provenance | the source history of materials and artifacts |
 | `manuwe` | hand | the instrument of craft and giving |
 | `masuro` | calibrate | maintenance of measuring and signaling tools |
-| `meliho` | sing | Musical vocal expression |
+| `meliho` | sing | music or song produced through the voice |
 | `melira` | song | A made thing of voice and time |
 | `mera` | net | Mesh structure |
 | `moesu` | wax | Sealing material |
@@ -1185,25 +1191,25 @@
 | `wethamo` | blanket | a large made cloth covering |
 | `whori` | mend | material work that returns an object to use |
 | `wiero` | imaginative | a story, design, or plan shaped by imagined possibilities |
-| `wile` | play | Exploring without stakes |
+| `wile` | play | open exploration that may invent roles or patterns |
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## emotion (84)
+## emotion (85)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `helia` | youth | openness and unguarded feeling |
 | `heno` | satisfy | a desire or felt need brought to satisfaction |
-| `hola` | laugh | Expressing amusement |
+| `hola` | laugh | laughter prompted by amusement, joy, relief, or another emotion |
 | `holia` | festival | Communal joy |
 | `holume` | loss | What remains of holding |
 | `horae` | radiant | delight made visible in a face or manner |
 | `hurao` | patient | willing endurance without being driven by agitation |
 | `kaeli` | like | ordinary liking or affinity towards a person, activity, thing, or quality |
 | `kaeshu` | bold | felt daring before the outcome is known |
-| `kapura` | shout | intensity breaking into voice |
-| `kela` | rejoice | Experiencing deep gladness |
+| `kapura` | shout | strong feeling expressed through a shout |
+| `kela` | rejoice | the active experience of marked gladness |
 | `keloe` | companion | Abiding presence |
 | `kesu` | determined | felt firmness after a direction has been chosen |
 | `kipona` | pain | Hurt of heart borrowing the body's word |
@@ -1229,8 +1235,8 @@
 | `nomela` | encourage | confidence or hope strengthened in another person |
 | `norethi` | confident | felt steadiness in one's understanding or ability |
 | `nuhe` | sadness | the felt heaviness of sorrow or unhappiness |
-| `nuhemi` | grieve | The sustained carrying of sadness after loss |
-| `nuhewa` | weep | Sadness flowing out |
+| `nuhemi` | grieve | the continuing process of grief after a loss |
+| `nuhewa` | weep | tears accompanying grief, joy, pain, relief, or another felt response |
 | `nuloe` | content | satisfaction with present circumstances or sufficiency |
 | `numea` | nestle | closeness sought as comfort or safety |
 | `nupira` | shame | the painful feeling of being diminished or exposed |
@@ -1238,6 +1244,7 @@
 | `phaelo` | feel | an emotional state as it is experienced |
 | `phaelu` | peaceful | peacefulness held as a settled disposition |
 | `phamo` | console | companionship and comfort directed specifically towards grief |
+| `pharuki` | celebrate | joy given an outward communal or personal form |
 | `phesua` | inspire | an urge or hopeful energy stirred in the inspired person |
 | `pula` | wish | wanting an outcome to occur |
 | `puro` | strength | Inner fortitude |
@@ -1245,7 +1252,7 @@
 | `rimawu` | drudgery | the experienced tedium, aversion, or loss of meaning |
 | `rinu` | want | the experience of wanting without a fixed degree or duration |
 | `ruesha` | compassionate | fellow-feeling joined to a wish that suffering ease |
-| `seniku` | smile | Expressing warmth and pleasure |
+| `seniku` | smile | a smile associated with warmth, amusement, tension, or another felt state |
 | `shaelo` | brave | resolve shown while fear, danger, or pain is present |
 | `shea` | peace | peace felt as an inward condition |
 | `sheli` | impatient | agitation felt during an unwanted delay |
@@ -1259,7 +1266,7 @@
 | `theala` | heal | recovery from a stated emotional hurt |
 | `thema` | guardian | involves care, vigilance, and compassionate bonds |
 | `themoka` | treasure | Recognizing and holding value |
-| `themui` | faith | cultivates trust through mindful confidence in process |
+| `themui` | faith | felt confidence that permits continued engagement before an outcome is known |
 | `theomi` | trust | felt confidence that permits reliance under uncertainty |
 | `therua` | eager | keen anticipation before an action or event |
 | `thiro` | serene | calm settled into a poised manner |
@@ -1268,12 +1275,12 @@
 | `thoru` | proud | satisfaction or dignity connected to achievement, identity, or relationship |
 | `thuleni` | comfort | relief or companionship offered in response to distress |
 | `thurai` | vibrant | lively energy apparent in a manner or shared activity |
-| `wakomi` | surprise | The felt jolt of the unexpected |
+| `wakomi` | surprise | the felt response when expectation is overtaken by an event |
 | `waora` | wondrous | a person, event, or thing that prompts a felt response of wonder |
 | `wema` | belong | felt attachment to people or place |
 | `whaline` | thank | felt gratitude given outward form |
 | `wilao` | long-for | sustained or intense desire for someone, something, or an outcome |
-| `wile` | play | Experiencing lightness and joy |
+| `wile` | play | play entered for enjoyment or lightness rather than a required result |
 | `wipha` | restless | felt agitation or difficulty settling |
 | `wiroa` | hopeful | felt expectation that a desired outcome remains possible |
 | `woraka` | appreciate | the favourable response that accompanies recognised value |
@@ -1545,7 +1552,7 @@
 | `wolea` | wood | Tree material |
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 
-## physical (369)
+## physical (371)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1567,7 +1574,7 @@
 | `hisaro` | clinical finding | an observation concerning bodily or health condition |
 | `hiso` | clean | surfaces, objects, or materials free of unwanted matter for their present use |
 | `hisophi` | contaminant | a substance, organism, or agent present in a sample, place, or process |
-| `hola` | laugh | Vocal release of joy |
+| `hola` | laugh | breath released through the characteristic bodily act of laughing |
 | `horae` | radiant | light visibly extending from a source |
 | `horuma` | thunder | Sound felt in the chest |
 | `howela` | receive | taking delivery of a material object or substance |
@@ -1575,6 +1582,7 @@
 | `kaelo` | sweet | the taste associated with sugar, honey, and ripe fruit |
 | `kalei` | climb | bodily movement maintained through successive contact |
 | `kalora` | horse | The road's living engine |
+| `kapura` | shout | a forceful vocal act produced through breath and voice |
 | `katemu` | offcut | a separated piece with its own dimensions and condition |
 | `katheo` | acute | recent onset, rapid development, or short duration in a bodily condition |
 | `kati` | cut | separation produced by a sharp edge |
@@ -1705,7 +1713,7 @@
 | `norupe` | spoon | a small hollow carried at the end of a handle |
 | `nowae` | awaken | bodily transition out of sleep |
 | `nuelo` | dark | little light reaching a place, surface, or viewer |
-| `nuhewa` | weep | The body's release of grief |
+| `nuhewa` | weep | the bodily event of tears flowing |
 | `nulae` | sleep | recurring bodily state of sleep |
 | `nulomi` | guts | The belly's inner workings |
 | `numea` | nestle | the body settling into a close, sheltered, or warm position |
@@ -1789,7 +1797,7 @@
 | `roke` | move | motion of a body or material object |
 | `rokili` | spine | The column of the back |
 | `rolutha` | wagon | Wheels made a carrier |
-| `rotiku` | dance | Rhythmic body movement |
+| `rotiku` | dance | patterned movement made through the body |
 | `ruemi` | lie down | bodily posture supported along more than the feet or seat |
 | `saphei` | shallow | a vessel, cut, or body of water with little depth |
 | `sawa` | wash | Restoration to cleanness |
@@ -1799,6 +1807,7 @@
 | `selomi` | weave | over-and-under crossings holding separate strands together |
 | `selu` | flow | fluid or loose matter passing continuously |
 | `seluto` | pour | a controlled flow across the lip of a vessel |
+| `seniku` | smile | the bodily movement that forms a smile |
 | `sepho` | send | dispatching a material object for transport |
 | `seroli` | mature | ripeness or full bodily development |
 | `sewaro` | transmit | passage between hosts, reservoirs, or environments |
@@ -1968,14 +1977,14 @@
 | `melira` | song | Carrier of communal memory and ceremony |
 | `menai` | dedicate | dedication expressed through a repeated or ceremonial practice |
 | `nelu` | revere | the inward regard that may underlie veneration or ceremonial honour |
-| `nuhemi` | grieve | The practice and season of mourning |
-| `pharuki` | celebrate | Marking significant moments |
+| `nuhemi` | grieve | mourning carried through a funeral, memorial, or repeated observance |
+| `pharuki` | celebrate | a significant event marked through an observance or festival |
 | `phemi` | guest | involves sacred obligations and ceremonial protocols of welcome |
 | `phemila` | host | carries sacred responsibility and ceremonial welcome protocols |
 | `philu` | candle | Meditation focus |
 | `phirena` | meditate | meditation practised as a repeated personal or shared observance |
 | `phoemu` | midnight | Liminal hour |
-| `rotiku` | dance | Expression through motion |
+| `rotiku` | dance | dance performed as part of a ceremony or repeated observance |
 | `sawa` | wash | The small ceremony of care for things |
 | `shoraku` | interpret | interpretation where exact communal or ceremonial wording matters |
 | `teli` | bell | Calling presence |
@@ -1985,7 +1994,7 @@
 | `therema` | tradition | often expressed through repeated ceremonial practices |
 | `thoepa` | sacred | a person, place, time, or object treated with reverence in ceremony |
 | `thole` | practice | a repeated observance whose form carries shared or personal meaning |
-| `thorai` | bless | Sacred speech and invocation |
+| `thorai` | bless | a formal or repeated act that directs goodwill towards its recipient |
 | `thorea` | ceremony | performs prescribed actions in sacred structured space |
 | `thula` | spring | Sacred gift-place |
 | `thunepa` | sacred place | Place of reverence |
