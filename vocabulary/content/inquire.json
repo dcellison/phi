@@ -8,16 +8,26 @@
     "u"
   ],
   "pos": "verb",
-  "concept": "Inquire / Seek Through Asking / Open Question",
-  "description": "The verb of asking in order to understand. 'Thilou' covers the child's endless questions, the seeker's wondering, and a community's inquiry into how to live well together. To inquire is to admit incompleteness and to treat the other person as a source of what you lack.",
-  "sound_symbolism": "The word opens with 'thi', where the gentle dental fricative 'th' carries the abstract quality of thought itself—the air of wondering, the breath of curiosity seeking shape. The bright 'i' focuses this wondering into specific question. This flows through 'lo', where the liquid carries inquiry outward, gathering possibilities like the plural marker gathers many. The final standalone 'u' opens into deep receptivity—the round vowel of uncertainty waiting to be filled, the space held open for response. The arc traces authentic inquiry: abstract wondering, flowing outward, opening to receive.",
-  "grammatical_notes": "Functions as a verb of asking. Embedded yes/no questions use the 'wela … welo' frame: 'mia wela thia towe nai welo thilou.' (I inquire whether you are well.) Distinguished from declarative verbs by marking the utterance as seeking rather than stating. Direct questions instead take the sentence particle 'wa'.",
+  "search_terms": [
+    "ask",
+    "seek information"
+  ],
+  "description": "When someone asks in order to obtain information or test what is understood, the verb is 'thilou'. It suits a question about the weather as readily as one about a difficult argument. The sentence particle 'wa' marks a direct question; 'thilou' names the act of inquiry and can also take an embedded question.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and release into high-front unrounded 'i'. Touch the tongue tip to the alveolar ridge for 'l' and shape stressed rounded true-mid back 'o'. Let final high-back rounded 'u' form its own hiatus syllable.",
+  "sound_symbolism": "The final two rounded vowels remain separate rather than closing into a glide. That small opening at the end can help a learner remember a question left for another person to answer.",
+  "usage_notes": "Direct questions use final 'wa'. Embedded yes or no questions use 'wela ... welo', while content questions retain the appropriate interrogative. In noun position, 'thilou' is an inquiry.",
+  "examples": [
+    {
+      "phi": "mia wela thia towe nai welo thilou.",
+      "translation": "I inquire whether you are well."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Beginner's mind approaches experience with genuine not-knowing. 'Thilou' embodies this practice—asking from authentic curiosity rather than testing or trapping, seeking to understand rather than to prove.",
-    "peace-linguistics-practices": "Asking rather than assuming prevents conflict. 'Thilou' provides the verb for seeking clarification, checking understanding, and approaching others' perspectives with openness rather than judgment."
+    "secular-buddhist-philosophy": "An inquiry gives not-knowing a grammatical place. A speaker can ask before turning an impression into a settled view.",
+    "peace-linguistics-practices": "A question offers a turn for checking what another person meant before disagreement or blame is attributed."
   },
   "semantic_domains": {
-    "cognition": "the mind's movement in curiosity and seeking",
-    "communication": "verbal reaching toward understanding"
+    "cognition": "seeking information where knowledge is incomplete",
+    "communication": "putting a question to another person"
   }
 }

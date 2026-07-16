@@ -8,16 +8,25 @@
     "e"
   ],
   "pos": "verb",
-  "concept": "Respond / Complete Dialogue / Fulfill Inquiry",
-  "description": "The verb of completing dialogue, naming the response that answers what inquiry opened. More than providing information, 'lonae' acknowledges that questions create relational obligations—when someone asks genuinely, they deserve genuine response. This word names the moment when communication circles back, when the one asked offers what they can to the one who sought. Whether the response is 'I know' or 'I don't know,' 'lonae' names the honoring of the inquiry through engaged reply.",
-  "sound_symbolism": "The word opens with 'lo', where the flowing liquid 'l' suggests response arising naturally from question, as stream follows spring. This grounds through 'na', the nasal anchoring the reply in truth and stability—what we respond should be rooted in authentic understanding. The final 'e' opens into clear transmission, releasing the response into shared understanding.",
-  "grammatical_notes": "Takes a dative phrase: 'mia wei thia lonae.' (I respond to you.) The noun sense, a response, comes by the event-noun rule: 'welao lonae' (a good response). Distinguished from 'shemui' (utter) by implying completion of prior communication. Often appears in parallel with 'thilou' (inquire) when discussing dialogue.",
+  "search_terms": [
+    "reply",
+    "answer"
+  ],
+  "description": "After an earlier question, statement, gesture, or event, 'lonae' supplies the reply. The response may answer, refuse, ask for time, or simply acknowledge what came before. It reports the return turn; agreement and complete understanding remain later questions.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and release into rounded true-mid back 'o'. Place the tongue tip against the back of the upper teeth for dental 'n', carry the voice through the nose, and open into stressed central 'a'. Final true-mid front 'e' forms a separate hiatus syllable.",
+  "usage_notes": "A recipient takes dative 'wei', and the earlier turn is often supplied by context. When that turn is a question, 'lonae' can translate answer. In noun position, it is a response or reply.",
+  "examples": [
+    {
+      "phi": "mia wei thia lonae.",
+      "translation": "I respond to you."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Mindful response requires presence—hearing fully before answering. 'Lonae' supports this practice through its deliberate structure, creating space between question and reply.",
-    "peace-linguistics-practices": "Thoughtful response rather than reaction supports peaceful dialogue. 'Lonae' names the completing half of conversational exchange, encouraging speakers to answer with care rather than defensiveness."
+    "secular-buddhist-philosophy": "The interval before 'lonae' leaves room to hear what was actually offered instead of answering the expected version of it.",
+    "peace-linguistics-practices": "A response can disagree or refuse while still recognising the previous turn. Agreement is not the price of remaining in conversation."
   },
   "semantic_domains": {
-    "communication": "completing the arc of verbal exchange",
-    "community": "fulfilling the obligation of response"
+    "communication": "the return turn after a question or other prompt",
+    "community": "recognition of another person's preceding act of communication"
   }
 }

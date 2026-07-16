@@ -8,16 +8,25 @@
     "a"
   ],
   "pos": "verb",
-  "concept": "Clarify / To Build a Bridge of Light",
-  "description": "The act of making a statement or situation less confused and more comprehensible. It is the process of building a bridge of light from a place of confusion to a place of shared understanding.",
-  "sound_symbolism": "The word sparkles with liquid light: 'li' begins like a ray piercing fog, bright and precise. This flows into 'le', creating a ripple effect of illumination, like light reflecting and refracting through crystal. The final 'a' opens into full transparency. The repetition of liquid sounds with subtle vowel shifts creates the very sensation of something becoming progressively clearer—like watching muddy water settle until you can see straight through to the bottom. This is a word that sounds like what it does: bringing luminous clarity through gentle, persistent illumination.",
-  "grammatical_notes": "A transitive verb: 'mia reo lilea.' (I clarify the meaning.) Clausal complements use the 'mena … meno' frame: 'shia mena lo mia so wepu meno to lilea.' (She clarified that we would go.) A beneficiary takes the dative before its object: 'mia wei thia lilea.' (I clarify for you.) The imperfective 'si lilea' emphasizes the gradual process of bringing clarity.",
+  "search_terms": [
+    "disambiguate",
+    "make clear"
+  ],
+  "description": "When 'which path' could mean two things, a speaker can use 'lilea'. That act makes existing wording or a situation less ambiguous. 'solae' (explain) builds understanding of why or how; clarification attends to what was unclear.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and release into high-front unrounded 'i'. Repeat the lateral contact before stressed true-mid front 'e'. Finish with open central 'a' as a separate hiatus syllable.",
+  "sound_symbolism": "The lateral contact returns with a small change of vowel before the word opens into final 'a'. That repeated path can recall a speaker trying the wording again until the reference clears.",
+  "usage_notes": "A statement or meaning can be the direct object, while a clause uses 'mena ... meno'. A beneficiary takes dative 'wei'. In noun position, 'lilea' is clarification.",
+  "examples": [
+    {
+      "phi": "mia reo lilea.",
+      "translation": "I clarify the meaning."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "To clarify is to practice Right Speech and Right Understanding - seeing through the fog of assumptions and projections to perceive what is actually being communicated. It embodies the commitment to clear seeing, recognizing that our initial perceptions are often clouded by our own mental formations, and that patient inquiry can reveal deeper truths.",
-    "peace-linguistics-practices": "Clarification is essential peacework - most conflicts arise from misunderstanding rather than true disagreement. The practice of patiently illuminating meaning, checking comprehension, and building bridges of shared understanding prevents the escalation that comes from confusion. Clear communication is itself a form of violence prevention."
+    "peace-linguistics-practices": "Clarification gives confusion a chance to be repaired before it is treated as deceit or disagreement."
   },
   "semantic_domains": {
-    "cognition": "illuminates meaning by clearing mental confusion",
-    "communication": "builds bridges of shared understanding through communication"
+    "cognition": "ambiguity reduced in an existing meaning or situation",
+    "communication": "wording repaired so that its intended reference is easier to follow"
   }
 }

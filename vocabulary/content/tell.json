@@ -7,16 +7,25 @@
     "ne"
   ],
   "pos": "verb",
-  "concept": "Tell / Recount / Give an Account to Someone",
-  "description": "To tell: recounting news, a story, what happened — speech directed at a listener with content to deliver. Sits between 'haolu' (speak, the general act) and 'lophae' (storyteller, the role): telling is speaking that carries an account to someone. Reported content takes the 'mena…meno' frame.",
-  "sound_symbolism": "The flowing 'sha' is the voice underway, and 'ne' settles the account into its listener — the same grounding syllable that ends 'shane' begins the proper-name particle, fittingly: telling is always telling *someone*.",
-  "grammatical_notes": "With recipient and content: 'shia wei mia nophi to shane.' (They told me a story.) With an embedded report: 'shia mena lopia towe nai meno to shane.' (They told that the child was well.) Contrast 'haolu' (speak) which needs no recipient.",
+  "search_terms": [
+    "recount",
+    "give an account"
+  ],
+  "description": "A neighbour can use 'shane' to tell what happened on the road, whether the account takes one sentence or an evening. It directs a story or piece of news to a listener. 'haolu' (speak) needs no recipient; 'shanewi' (notify) is the more formal act of sending notice.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for voiceless 'sh' and pass air through the narrow channel into stressed open central 'a'. Place the tongue tip against the back of the upper teeth for dental 'n', carry the voice through the nose, and release into true-mid front 'e'.",
+  "usage_notes": "The listener takes dative 'wei', while the account can be a direct object or a clause in 'mena ... meno'. In noun position, 'shane' is telling.",
+  "examples": [
+    {
+      "phi": "shia wei mia nophi to shane.",
+      "translation": "They told me a story."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Telling is speech with a receiver held in mind — the grammar's dative makes the listener explicit, and explicit listeners are treated more carefully.",
-    "pre-industrial-wisdom": "News, weather, and warning traveled by telling long before writing; the teller's accuracy was the village's safety."
+    "peace-linguistics-practices": "The dative recipient keeps the listener visible in an act that could otherwise treat a person as a mere delivery point.",
+    "pre-industrial-wisdom": "A warning about weather or a story from the road could travel beyond its teller only through retelling. 'shane' covers that ordinary oral chain."
   },
   "semantic_domains": {
-    "communication": "Directed recounting to a listener",
-    "community": "How news and stories move between people"
+    "communication": "an account directed to a listener",
+    "community": "news and stories passed from person to person"
   }
 }
