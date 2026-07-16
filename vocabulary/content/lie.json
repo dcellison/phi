@@ -7,17 +7,24 @@
     "shu"
   ],
   "pos": "verb",
-  "concept": "Lie / Recline / Rest Horizontally",
-  "description": "To speak what one knows to be false with the intent to mislead. 'Peshu' covers spoken and enacted deception—false words, false silence, truth withheld to create a wrong belief. It contrasts with 'phelira' (mistaken): the mistaken speaker is wrong without knowing it, while the liar knows and chooses. Phi keeps this word not to enable deception but to let speakers name it plainly.",
-  "sound_symbolism": "The stop 'p' erects a hard false front — the surface presented to the listener. Behind it, 'shu' is the whisper closing over the closed vowel 'u': the truth pushed down into concealment. The word shares no sounds with 'theloa' (truth); the two cannot be mistaken for each other.",
-  "grammatical_notes": "Functions as an intransitive verb of speech: 'shia to peshu.' (They lied.) Negation 'ma' comes immediately before the verb: 'mia ma peshu.' (I do not lie.) Prohibition: 'no ma peshu.' (Do not lie.) Reported content takes the 'mena … meno' frame. Contrast 'phelira' (mistaken), which carries no intent, and 'wero' (honest) and 'theloa' (truth), its opposites.",
+  "search_terms": [
+    "deceive knowingly",
+    "tell a falsehood"
+  ],
+  "description": "To 'peshu' is to say or enact what one knows to be false with the intention of leading another person into a mistaken belief. A speaker who is 'phelira' (mistaken) is wrong without that knowledge; 'wero' (honest) concerns the choice not to deceive. The English gloss refers only to deception: reclining is 'ruemi' (lie down).",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into stressed middle-height front unrounded 'e'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh', direct air through its narrow channel, and finish with high-back rounded 'u'.",
+  "usage_notes": "'peshu' is intransitive. Direct words use 'shola ... sholo', and reported content uses 'mena ... meno'. A causative clause can state that deception made another person mistaken. In noun position, 'peshu' is a lie or act of deception.",
+  "examples": [
+    {
+      "phi": "shia to peshu.",
+      "translation": "They lied."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Right speech begins with abstaining from false speech—a precept speakers can only keep if the language lets them name its breach. 'Peshu' names the act without euphemism.",
-    "peace-linguistics-practices": "Peaceful speech does not mean avoiding hard words for wrong acts. A plain word for lying lets communities address deception directly and repair trust, instead of letting it hide behind softer terms.",
-    "pre-industrial-wisdom": "Oral cultures ran on the reliability of the spoken word—agreements, boundaries, and histories lived in speech alone, so the liar endangered the community's shared memory. The word carried real weight."
+    "secular-buddhist-philosophy": "The right-speech precept distinguishes knowing falsehood from error. 'peshu' lets a speaker name that breach without turning every mistaken claim into a lie."
   },
   "semantic_domains": {
-    "communication": "False speech; the breaking of communicative trust",
-    "wisdom": "What truthfulness is defined against"
+    "communication": "an utterance or expressive act intended to produce a false belief",
+    "ethics": "knowing deception distinguished from an honest mistake"
   }
 }

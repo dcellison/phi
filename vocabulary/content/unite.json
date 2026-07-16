@@ -8,16 +8,22 @@
     "ma"
   ],
   "pos": "verb",
-  "concept": "Unite / Join Together / Make One from Many",
-  "description": "To bring separate elements together into a unified whole, joining what was apart. 'Koluma' names the act of creating oneness—whether joining hands, communities, or efforts—transforming multiplicity into coherent unity while strengthening rather than diminishing the parts.",
-  "sound_symbolism": "The word joins as it speaks. 'Ko' begins with velar contact, elements meeting. Then 'lu' flows with liquid connection, joining becoming continuous. Finally 'ma' grounds with nasal stability, unity established and held.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia lo miona koluma.' (I unite the people.) Intransitive with a plural subject: 'lo miona koluma.' (The people unite.) Related to 'nolami' (bond) but emphasizes the act of bringing together rather than the connection itself.",
-  "pillars": {
-    "solarpunk-values": "United action enables transformation—communities joining together can accomplish what individuals cannot.",
-    "peace-linguistics-practices": "Unity in diversity—joining without erasing difference—is the foundation of peaceful coexistence."
-  },
+  "search_terms": [
+    "join as one",
+    "form one group"
+  ],
+  "description": "People may 'koluma' around a shared effort; separate pieces may unite into one assembly. What had been separate now forms one group or whole. 'lorea' (connect) establishes a link, while 'shiwolu' (integrate) concerns parts working within a wider arrangement.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into middle-height back rounded 'o'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and raise the back of the tongue while tightening the lip rounding for stressed high-back 'u'. Close the lips for voiced 'm', carry the sound through the nose, and open into central 'a'.",
+  "usage_notes": "'koluma' may be transitive when someone unites people or things, or intransitive with a plural subject. Noun position gives unity or the act of uniting. When people unite, purpose and consent remain facts for the surrounding account.",
+  "examples": [
+    {
+      "phi": "lo miona koluma.",
+      "translation": "The people unite."
+    }
+  ],
   "semantic_domains": {
-    "community": "Bringing together into wholeness",
-    "physical": "Joining separate elements"
+    "activity": "forming one group or whole from separate participants or parts",
+    "community": "people joining into a shared body or effort",
+    "physical": "separate pieces becoming one material assembly"
   }
 }

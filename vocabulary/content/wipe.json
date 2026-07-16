@@ -7,17 +7,22 @@
     "we"
   ],
   "pos": "verb",
-  "concept": "Wipe / Stroke Clean / Clear a Surface",
-  "description": "To wipe: the table after the meal, the tears from a face, the mist from the window. A light stroke that clears. Finer than 'sawa' (wash — water's work) and gentler than 'rohi' (rub — friction's work).",
-  "sound_symbolism": "Light 'he' breath, 'we' the stroke across — the sound barely touches the surface, as the act barely does.",
-  "grammatical_notes": "Transitive: 'mia tomi hewe.' (I wipe the pot.) Of comfort: 'phao lopia menoa hewe.' (The parent wipes the child's face.) Contrast 'sawa' (wash, water's work) and 'rohi' (rub, friction's work).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Wiping the surface is the humble sibling of polishing the mirror — the old metaphor for practice itself, one pass at a time.",
-    "pre-industrial-wisdom": "The wiped bowl, the wiped blade of the scythe, the wiped brow: maintenance in its smallest, most frequent form."
-  },
+  "search_terms": [
+    "clear a surface",
+    "wipe away"
+  ],
+  "description": "To 'hewe' is to move a hand, cloth, or similar surface across something in order to remove or spread material. A person can wipe a wet table or tears from a face. 'sawa' (wash) uses liquid cleaning, while 'rohi' (rub) keeps surfaces sliding together under pressure.",
+  "articulatory_notes": "Let unvoiced air pass through the open glottis for 'h' and move into stressed middle-height front unrounded 'e'. Round the lips and raise the back of the tongue for voiced 'w', then release the rounding into middle-height front 'e'.",
+  "sound_symbolism": "The word has no complete oral closure: open breath moves through a rounded glide and returns to the same front vowel. Its light, uninterrupted contour feels much like one pass of a cloth across a surface.",
+  "usage_notes": "The surface or body part being wiped precedes 'hewe'. The wiping tool may take 'roe' (INS), and a nearby phrase can name what is removed or spread. In noun position, 'hewe' is a wipe or wiping action.",
+  "examples": [
+    {
+      "phi": "mia tomi hewe.",
+      "translation": "I wipe the pot."
+    }
+  ],
   "semantic_domains": {
-    "activity": "The clearing stroke",
-    "physical": "Surface made clean",
-    "ritual": "Care's smallest gesture"
+    "activity": "a clearing or spreading stroke made with a hand, cloth, or similar surface",
+    "physical": "material removed from or spread across a surface through sliding contact"
   }
 }

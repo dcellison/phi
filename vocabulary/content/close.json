@@ -7,17 +7,26 @@
     "pu"
   ],
   "pos": "verb",
-  "concept": "Close / Shut / Bring to a Sealed State",
-  "description": "To close: a door against the cold, a jar for keeping, a day at its end. The opposite of 'phae' (open) — deliberately sharing not one sound with it, so the two states can never be misheard. Closing in Phi is completion and keeping, not exclusion.",
-  "sound_symbolism": "The dental 't̪' makes contact, and 'pu' seals it — lips actually closing on the final syllable. The word performs its meaning at the mouth.",
-  "grammatical_notes": "Transitive: 'no ponu tapu.' (Close the door.) 'mia lopha to tapu.' (I closed the vessel.) The cessative 'te' ends actions; 'tapu' closes things — 'mia te theo' (I stop reading) but 'mia shelu tapu' (I close the book).",
+  "search_terms": [
+    "shut",
+    "bring to a closed state"
+  ],
+  "description": "A hand can 'tapu' a door against the rain or fit a lid over a jar. The word moves an opening or access point into its closed state, and it can end access to a discussion in the same way. 'phae' (open) reverses that state; 'te' (CESS) ends an action without closing an object or route.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper front teeth for unvoiced dental 't' and release it into stressed central 'a'. Close the lips for unvoiced 'p', then release them while raising the back of the tongue and rounding the lips for high-back 'u'.",
+  "sound_symbolism": "A complete dental closure and a complete lip closure briefly interrupt the two syllables before each vowel releases. Those firm contacts give the form a small shut-and-open rhythm.",
+  "usage_notes": "The door, lid, container, route, or discussion being closed precedes 'tapu'. 'kirato' (lock) is the mechanism that can hold a closure, while 'kathu' (seal) is an object or mark used for closure or authentication.",
+  "examples": [
+    {
+      "phi": "no ponu tapu.",
+      "translation": "Close the door."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "A practice session, a day, a grief — each needs its conscious closing. The word honors endings as acts, not lapses.",
-    "pre-industrial-wisdom": "Keeping is closing: the jar sealed for winter, the gate shut at dusk, the hive closed against rain. Preservation is a craft of good closings."
+    "pre-industrial-wisdom": "A jar shut for storage and a gate closed before weather reaches the animals are ordinary acts of keeping. 'tapu' names the closing; the thing protected and the reason stay visible around it."
   },
   "semantic_domains": {
-    "activity": "The keeper's daily verb",
-    "physical": "Bringing to a shut, sealed state",
-    "spatial": "The boundary completed"
+    "activity": "the act that brings an opening or access point into a closed state",
+    "physical": "a door, lid, or container moved into closure",
+    "spatial": "passage or access ended at a boundary"
   }
 }

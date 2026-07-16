@@ -8,16 +8,27 @@
     "li"
   ],
   "pos": "verb",
-  "concept": "Harmonize / Bring Into Accord / Create Unity from Difference",
-  "description": "To bring different elements into pleasing accord, creating coherence without erasing distinction. 'Shemoli' names the art of making differences work together—voices blending in song, perspectives joining in understanding, communities finding shared rhythm while honoring individual notes.",
-  "sound_symbolism": "The word blends like harmonies joining. 'She' /ʃe/ begins with hushing gentleness, differences quieting to hear each other. Then 'mo' holds with nasal depth, voices meeting in shared space. Finally 'li' lifts with liquid brightness, harmony achieved.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia lo haoni shemoli.' (I harmonize the voices.) Related to 'malomi' (balance) but emphasizes aesthetic unity rather than equilibrium, and to 'lei' (harmony) as its noun.",
+  "search_terms": [
+    "bring into accord",
+    "tune together"
+  ],
+  "description": "A singer may 'shemoli' several voices; a maker may harmonize new work with an older room. Both acts deliberately adjust different parts until they work or sound well together. 'lei' (harmony) says that parts harmonize, while 'koru' (harmonious) describes their relation.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for unvoiced 'sh', direct air through its narrow channel, and move into middle-height front 'e'. Close the lips for voiced 'm', let the sound continue through the nose, and draw the tongue back while rounding the lips for stressed middle-height 'o'. Touch the tongue tip to the alveolar ridge for voiced 'l', release the air along its sides, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The oral gesture changes in every syllable, from channelled 'sh' through nasal 'm' to lateral 'l', while the vowels keep the movement continuous. The contrasts remain audible inside one smooth contour, much like the unlike parts the word describes.",
+  "usage_notes": "'shemoli' is transitive, with the voices, materials, or other parts being adjusted before it. Used as a noun, the same form is the act of harmonizing.",
+  "examples": [
+    {
+      "phi": "mia lo haoni shemoli.",
+      "translation": "I harmonize the voices."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Harmony in nature shows how diverse elements create beauty together—the forest's many species in ecological concert.",
-    "peace-linguistics-practices": "Harmonizing perspectives in dialogue means finding where different views can coexist and complement rather than conflict."
+    "art-nouveau-aesthetics": "A new railing can answer the curves of an older doorway without copying them. 'shemoli' names the maker's adjustment of those unlike parts into one composition."
   },
   "semantic_domains": {
-    "aesthetic": "Creating pleasing unity from diversity",
-    "community": "Bringing differences into accord"
+    "activity": "deliberate adjustment that brings unlike parts into accord",
+    "aesthetic": "voices, colors, forms, or movements tuned into a pleasing relation",
+    "community": "participants or perspectives adjusted towards a workable relation",
+    "creation": "new work fitted into the visual or practical character of an existing whole"
   }
 }

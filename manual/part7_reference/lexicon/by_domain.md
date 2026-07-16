@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (267)
+## activity (273)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -19,7 +19,7 @@
 | `helaki` | amend | formally changing part of a continuing rule or record |
 | `helolu` | redress | acting to address a stated institutional or social harm |
 | `heno` | satisfy | a condition or criterion met by an action or result |
-| `hewe` | wipe | The clearing stroke |
+| `hewe` | wipe | a clearing or spreading stroke made with a hand, cloth, or similar surface |
 | `hinawu` | accommodate | changing a practice so a stated action becomes possible |
 | `hinolu` | adapt | deliberate or responsive adjustment to conditions |
 | `howela` | receive | coming into possession of an object or becoming the endpoint of a transfer |
@@ -50,10 +50,11 @@
 | `koema` | enter | crossing inward into a bounded place or activity |
 | `koewi` | input | something entering and participating in a process |
 | `kolua` | carry | supporting a person or thing throughout movement |
+| `koluma` | unite | forming one group or whole from separate participants or parts |
 | `kolupe` | bucket | carrying liquid or loose material by hand |
 | `kopharu` | barrier | a condition obstructing a stated action |
 | `korei` | fulfill | a purpose or undertaking carried into actual performance |
-| `kupe` | hide | Placing out of sight |
+| `kupe` | hide | deliberately placing a person or thing beyond an observer's perception |
 | `kuremi` | grind | working material repeatedly against hard surfaces |
 | `laniru` | journey | extended travel gathered into one event |
 | `leiro` | release | ending a hold or containment so something can move away |
@@ -63,6 +64,7 @@
 | `loa` | give | directing something towards a recipient through an act of giving |
 | `loatho` | delegate | entrusting a bounded role or action to a recipient |
 | `lokane` | accessible | a route, tool, or arrangement available for a particular activity |
+| `lorea` | connect | establishing a link between previously separate participants or things |
 | `lorima` | build | assembling components or layers into a larger structure |
 | `loshenu` | clearance | free room for a stated movement or operation |
 | `lumera` | nourish | providing material sustenance to a living recipient |
@@ -71,6 +73,7 @@
 | `lupho` | float | the continuing condition of being borne up |
 | `luseri` | provenance | the traced movement and transformation of a thing |
 | `makelu` | abstain | formally registering no selection in a procedure |
+| `malomi` | balance | deliberate adjustment that brings competing forces or demands into equilibrium |
 | `manolu` | stay | remaining in a place, state, or relation |
 | `masue` | measure | gauging something against a standard for a practical purpose |
 | `masuro` | calibrate | comparison and adjustment of a device against a reference |
@@ -136,7 +139,7 @@
 | `phelure` | store | arranging retention for later retrieval or release |
 | `phemiru` | visit | spending a bounded time with a person or at a place |
 | `pherami` | depend | a function or process conditioned by another element |
-| `phesari` | flee | departure in response to danger or constraint |
+| `phesari` | flee | departure prompted by danger or coercive constraint |
 | `phoa` | do | general deliberate action when no narrower manner or result is being named |
 | `pholeni` | depart | leaving a current place or setting |
 | `phowe` | share | making something available for use with others |
@@ -158,6 +161,7 @@
 | `ralu` | free | an available action left open rather than closed by constraint |
 | `rashelo` | run | running for travel, play, or bodily exertion |
 | `rato` | turn | redirecting oneself or turning another object |
+| `renoa` | liberate | the act that removes imposed control or confinement |
 | `rihe` | rise | an upward change treated as an event |
 | `rilowa` | assign | designating an expected performer for a task |
 | `rimawu` | drudgery | work structured or experienced as depleting |
@@ -173,7 +177,7 @@
 | `ruloi` | flourish | a practice or art developing with abundant activity |
 | `runaki` | wayfind | maintaining orientation while moving |
 | `ruweli` | access | reaching or using a stated activity or resource |
-| `sawa` | wash | Water-cleansing as daily craft |
+| `sawa` | wash | cleaning a body, cloth, dish, or other object with a liquid |
 | `sawathi` | soap | a material used during washing |
 | `sekaru` | transfer | directed movement from a source to a recipient |
 | `selomi` | weave | interlacing flexible strands through repeated crossings |
@@ -186,12 +190,14 @@
 | `sethoni` | handoff | transferring a bounded stage of work |
 | `shalimo` | alliance | oriented toward sustained collective action, not one decision |
 | `shaweri` | advocate | acting in support of a stated position or change |
+| `shemoli` | harmonize | deliberate adjustment that brings unlike parts into accord |
 | `shimalo` | discipline | self-guidance that keeps repeated action aligned with an intention |
 | `shiwolu` | integrate | coordinating parts within a wider arrangement |
 | `sholei` | gather | bringing separate things or participants together |
 | `sholu` | complete | a task or process with every required step finished |
 | `shonela` | learn | an ongoing practice through which knowledge or skill is acquired |
 | `shorema` | contribute | adding effort or another usable part to shared work |
+| `shorupo` | protect | action taken to reduce exposure to a named danger or harm |
 | `shua` | come | movement towards the reference point of a scene |
 | `shuneki` | vaccinate | administering a vaccine for a stated protective purpose |
 | `sikanu` | certify | issuing or maintaining a formal criteria claim |
@@ -207,7 +213,7 @@
 | `sorila` | cultivate | deliberate repeated work that supports development |
 | `takori` | load | required work or throughput relative to a technical function |
 | `talome` | restore | work directed towards a stated earlier or reference condition |
-| `tapu` | close | The keeper's daily verb |
+| `tapu` | close | the act that brings an opening or access point into a closed state |
 | `tawi` | count | enumerating the members of a set for a practical purpose |
 | `temoe` | tend | recurring practical attention to what needs looking after |
 | `teru` | process | work carried through connected operations |
@@ -280,7 +286,7 @@
 | `wishe` | swim | self-propelled passage through water |
 | `wisola` | exchange | participants giving and receiving within one reciprocal arrangement |
 
-## aesthetic (85)
+## aesthetic (84)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -295,7 +301,7 @@
 | `kiru` | chisel | Revealing form |
 | `kolai` | pigment | Visual material |
 | `koru` | harmonious | parts perceived as fitting together into a pleasing whole |
-| `lei` | harmony | creates beauty through balance and pleasing resonance |
+| `lei` | harmony | distinct sounds or forms fitting into a pleasing whole |
 | `leko` | surface | Visible face |
 | `lerua` | exterior | Facing out |
 | `lina` | string (instrument) | Musical tone |
@@ -306,7 +312,6 @@
 | `lowi` | vine | Curving organic line |
 | `luwae` | graceful | flowing movement or form perceived as graceful |
 | `maeli` | quiet | quiet or silence used as part of an audible composition |
-| `malomi` | balance | finds beauty in dynamic equilibrium and organic harmony |
 | `meliho` | sing | melody and vocal form perceived or shaped through singing |
 | `meliphe` | music | Sound organized on purpose |
 | `melothe` | pond | Contemplative water feature |
@@ -340,7 +345,7 @@
 | `shaemu` | organic | Growth-shaped form |
 | `shela` | art | Expressive form |
 | `sheloa` | bloom | the visible opening of a flower |
-| `shemoli` | harmonize | Creating pleasing unity from diversity |
+| `shemoli` | harmonize | voices, colors, forms, or movements tuned into a pleasing relation |
 | `shiloa` | pure | an unmixed colour, tone, or formal quality |
 | `shilu` | blue | blue on surfaces and in visible light |
 | `shioli` | silver | Lunar beauty |
@@ -370,7 +375,7 @@
 | `wira` | window | View portal |
 | `woraka` | appreciate | positive recognition of a sensory or artistic quality |
 
-## cognition (238)
+## cognition (240)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -420,6 +425,7 @@
 | `limoe` | creature | General category for life |
 | `litero` | ecosystem | a bounded analytical whole selected for ecological explanation |
 | `loetha` | open (receptive) | willingness to consider an unfamiliar idea or account |
+| `lorea` | connect | a relation recognised between ideas, claims, or parts of an explanation |
 | `lunai` | vision | Forward seeing |
 | `luseri` | provenance | a sourced account with explicit gaps and confidence |
 | `masuro` | calibrate | a practice that establishes how an indication relates to a reference |
@@ -492,6 +498,7 @@
 | `porewi` | side effect | an attributed additional effect with stated uncertainty |
 | `porua` | purpose | Goal orientation |
 | `poruli` | efficient | an assessment whose result depends on selected inputs, outputs, and boundaries |
+| `pothu` | stink | a contextual judgement that an odour is strongly unpleasant |
 | `pula` | wish | representing an outcome as desired without asserting its likelihood |
 | `pushali` | overload | information or sensory input exceeding current processing capacity |
 | `relo` | symbol | Representation |
@@ -660,7 +667,7 @@
 | `nophi` | story | fundamentally acts of structured transmission from one consciousness to another |
 | `nowiso` | interface | an informational interface can mediate exchange without guaranteeing understanding |
 | `numike` | negotiate | discussing terms with one or more counterparts |
-| `peshu` | lie | False speech; the breaking of communicative trust |
+| `peshu` | lie | an utterance or expressive act intended to produce a false belief |
 | `phae` | open | beginning access to an exchange or response |
 | `phamori` | symptom | the person's own account of bodily or mental experience |
 | `phelotu` | format | a communication form selected for sending and receiving meaning |
@@ -766,7 +773,7 @@
 | `kirethu` | legitimate | contested legitimacy under stated social criteria |
 | `kithawu` | triage | distribution of care timing and resources among affected people |
 | `kolo` | equal | equal standing among participants within a group |
-| `koluma` | unite | Bringing together into wholeness |
+| `koluma` | unite | people joining into a shared body or effort |
 | `kopharu` | barrier | an arrangement that restricts participation |
 | `korei` | fulfill | a promise or commitment carried out where others may rely on it |
 | `koru` | harmonious | different participants maintaining a workable relation |
@@ -775,7 +782,7 @@
 | `kulo` | guide | an accompanying relation between a knowledgeable guide and another traveller |
 | `kuma` | drum | Collective voice |
 | `laenu` | commons | Collective resource |
-| `lei` | harmony | weaves diverse voices into collective resonance |
+| `lei` | harmony | participants maintaining a workable accord without becoming uniform |
 | `lesawi` | consent | a permission relation among affected participants |
 | `loa` | give | giving objects, help, or other resources to another person or group |
 | `loami` | gift | something given within a relationship without a required counterpart |
@@ -789,7 +796,7 @@
 | `lonae` | respond | recognition of another person's preceding act of communication |
 | `lophae` | storyteller | Narrative role |
 | `lopia` | child | held as sacred trust by collective responsibility |
-| `lorea` | connect | weaves relationships into visible interdependence |
+| `lorea` | connect | a social link formed between people or groups |
 | `lothea` | love | deep affection and active care within a relationship or shared life |
 | `lothoni` | accountable | answerability for a shared matter under a review relationship |
 | `lumani` | family | forms the fundamental unit of social bonds and belonging |
@@ -893,7 +900,7 @@
 | `punoki` | institution | a continuing organized social arrangement with roles and procedures |
 | `ralemi` | independent | personal agency exercised with or without chosen support |
 | `ralu` | free | liberty within social and institutional relations |
-| `renoa` | liberate | Freeing action |
+| `renoa` | liberate | a person or group freed from a coercive social relation |
 | `repha` | bridge | Connection maker |
 | `repora` | propose | presenting a collective action or rule for consideration |
 | `rilowa` | assign | a work relation between a source and an assignee |
@@ -918,7 +925,7 @@
 | `shaweri` | advocate | support for a person's expressed interests or a shared cause |
 | `shea` | peace | accord among people or groups without violence |
 | `shelira` | forest | Tree community gathering |
-| `shemoli` | harmonize | Bringing differences into accord |
+| `shemoli` | harmonize | participants or perspectives adjusted towards a workable relation |
 | `sheori` | communicate | information exchanged among people through different forms of access |
 | `sherelo` | right (normative) | a normative claim held among people, groups, or institutions |
 | `shereni` | entitlement | a recognized and scoped claim under a stated source |
@@ -926,7 +933,7 @@
 | `sholei` | gather | people or shared materials assembled in one place |
 | `shorai` | commune | Shared living |
 | `shorema` | contribute | adding something to a collective undertaking or pool |
-| `shorupo` | protect | Guarding the vulnerable |
+| `shorupo` | protect | one person or group acting for another's safety |
 | `shuneki` | vaccinate | a preventive action with individual and collective relations |
 | `shurano` | safe | conditions in a shared place or activity judged sufficiently free from danger |
 | `shuroa` | shelter | Refuge |
@@ -1027,7 +1034,7 @@
 | `wonepa` | table | Where the meal gathers |
 | `woru` | keeper | Guardian role |
 
-## creation (163)
+## creation (164)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1145,6 +1152,7 @@
 | `selomi` | weave | making fabric or another structure from strands |
 | `sephori` | supply | supporting making and repair through resource flow |
 | `shela` | art | Aesthetic making |
+| `shemoli` | harmonize | new work fitted into the visual or practical character of an existing whole |
 | `shiro` | tree | provider of materials, shelter, and breath |
 | `shiroka` | repair | technical restoration of a damaged object's function |
 | `shiwolu` | integrate | parts made to function within a constructed whole |
@@ -1195,7 +1203,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## emotion (85)
+## emotion (83)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1214,7 +1222,6 @@
 | `kesu` | determined | felt firmness after a direction has been chosen |
 | `kipona` | pain | Hurt of heart borrowing the body's word |
 | `korua` | heart | the metaphorical seat of feeling and courage |
-| `lei` | harmony | creates feelings of peace and rightness when elements unite |
 | `liroa` | playful | lighthearted readiness for play |
 | `loshi` | joyful | the character of something that awakens or expresses joy |
 | `lothea` | love | love felt towards a person, place, living thing, or way of life |
@@ -1248,7 +1255,6 @@
 | `phesua` | inspire | an urge or hopeful energy stirred in the inspired person |
 | `pula` | wish | wanting an outcome to occur |
 | `puro` | strength | Inner fortitude |
-| `renoa` | liberate | Release from bondage |
 | `rimawu` | drudgery | the experienced tedium, aversion, or loss of meaning |
 | `rinu` | want | the experience of wanting without a fixed degree or duration |
 | `ruesha` | compassionate | fellow-feeling joined to a wish that suffering ease |
@@ -1285,7 +1291,7 @@
 | `wiroa` | hopeful | felt expectation that a desired outcome remains possible |
 | `woraka` | appreciate | the favourable response that accompanies recognised value |
 
-## ethics (25)
+## ethics (27)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1300,9 +1306,11 @@
 | `noemi` | authentic | fidelity between a person's conduct and the commitments they recognize as their own |
 | `nophei` | loyal | loyalty weighed alongside refusal and the effects of remaining |
 | `peloma` | harmful | damage, suffering, or lost capacity as grounds for evaluating conduct and conditions |
+| `peshu` | lie | knowing deception distinguished from an honest mistake |
 | `phena` | kind | benevolent regard visible in conduct towards another person |
 | `phenui` | thoughtful | attention to another person's likely needs or experience before action |
 | `ralu` | free | freedom considered in relation to coercion and imposed restraint |
+| `renoa` | liberate | an imposed constraint removed so that another person's course opens |
 | `ruesha` | compassionate | a response that treats suffering as a reason for concern and possible care |
 | `thaemu` | sincere | a claimed feeling or intention matched by its expression |
 | `theama` | care | conduct that answers another being's welfare or a responsibility of upkeep |
@@ -1315,7 +1323,7 @@
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 | `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
-## nature (232)
+## nature (231)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1352,7 +1360,6 @@
 | `kurathi` | dry | low moisture in air, soil, plants, or weather |
 | `kurisha` | storm | Violent weather |
 | `kurona` | horn | The head's hard growth |
-| `lei` | harmony | reflects ecosystems in balance and natural cooperation |
 | `leru` | beach | Sandy shoreline |
 | `lewonu` | valley | Low land between heights |
 | `likori` | species | a source-defined grouping of living organisms |
@@ -1382,7 +1389,6 @@
 | `luphore` | river | Flowing waterway |
 | `lureko` | fruit | Plant reproductive structure |
 | `lurepa` | nutrient | material used or required by an organism or living process |
-| `malomi` | balance | learns from organic forms like spirals and waves |
 | `melothe` | pond | Small still water body |
 | `meluna` | season | Annual rhythm pattern |
 | `meluri` | climate | long-duration patterns of weather across a region |
@@ -1481,6 +1487,7 @@
 | `shiro` | tree | the great standing plants bridging earth and sky |
 | `shomelu` | shadow | The dark that light casts |
 | `shorenu` | immune | an organism's immune relation to an agent or outcome |
+| `shorupo` | protect | living beings or habitats guarded from a stated threat |
 | `shumu` | moss | Non-vascular plant |
 | `shupi` | plateau | Elevated flat land |
 | `sihewa` | breeze | Gentle air movement |
@@ -1519,7 +1526,7 @@
 | `thula` | spring | Water source point |
 | `thumiro` | smoke | The fire's rising breath |
 | `thuroa` | grow | increase and development in organisms or populations |
-| `tiripe` | quiver | The leaf's and the whisker's shared verb |
+| `tiripe` | quiver | small repeated movement in leaves, flame, wings, or an animal's body |
 | `tokemi` | fungus | Decomposers and network beings |
 | `tomora` | mountain | Major land elevation |
 | `torua` | year | Seasonal completion |
@@ -1552,7 +1559,7 @@
 | `wolea` | wood | Tree material |
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 
-## physical (371)
+## physical (373)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1568,7 +1575,7 @@
 | `heshowa` | gas | matter that spreads through the available volume under the conditions at hand |
 | `hesura` | ash | Weight almost gone |
 | `hewasu` | audible | sound available through hearing under particular bodily and environmental conditions |
-| `hewe` | wipe | Surface made clean |
+| `hewe` | wipe | material removed from or spread across a surface through sliding contact |
 | `hieru` | narrow | restricted width in passages and openings |
 | `hisae` | skin | Body's outer covering and sensing organ |
 | `hisaro` | clinical finding | an observation concerning bodily or health condition |
@@ -1608,7 +1615,7 @@
 | `kohura` | noise | sound heard as irregular, indistinct, or interfering in context |
 | `kolu` | steady | motion or pressure that varies little while continuing |
 | `kolua` | carry | bearing a body, object, or substance while moving |
-| `koluma` | unite | Joining separate elements |
+| `koluma` | unite | separate pieces becoming one material assembly |
 | `kolupe` | bucket | an open rigid container with a handle |
 | `koma` | head | the anatomical body part |
 | `komalu` | pillow | a yielding support for the head or body |
@@ -1637,6 +1644,7 @@
 | `lomare` | embrace | arms, clothing, or another enclosing form surrounding a body or space |
 | `lomura` | liver | The inner anatomy's quiet worker |
 | `lophani` | bottle | a portable holder for liquid |
+| `lorea` | connect | objects joined through a material, tool, or fitted part |
 | `loremi` | branch | Living structure that holds and sways |
 | `lori` | vital | vigorous energy expressed by a living body |
 | `lorika` | blood | The fluid circulating through the body |
@@ -1652,7 +1660,7 @@
 | `luwae` | graceful | controlled motion with little visible strain or interruption |
 | `luwi` | flexible | bending or changing shape without damage |
 | `maeli` | quiet | little or no sound in a source, event, or place |
-| `malomi` | balance | encompasses bodily balance alongside emotional and spiritual |
+| `malomi` | balance | a body or object kept in position by redistributed weight or force |
 | `manuwe` | hand | the body member of grasping and making |
 | `masue` | measure | determining a magnitude of a body, object, or material |
 | `meilo` | sit | bodily posture supported by a seat or the haunches |
@@ -1757,6 +1765,7 @@
 | `pheno` | full | a vessel or form filled to relevant capacity or rounded by its contents |
 | `pheomu` | leftovers | prepared food remaining after an eating occasion |
 | `pheru` | endure | a body or made thing continuing under pressure, pain, or exposure |
+| `phesari` | flee | a person or animal moving their body away from danger |
 | `phialu` | water | tangible substance that can be directly experienced |
 | `philea` | feather | The lightest made thing |
 | `phimela` | kiss | contact made by placing the lips against someone or something |
@@ -1775,7 +1784,7 @@
 | `pisha` | split | one body or route separating into multiple parts |
 | `ponalu` | size | the overall extent of a physical thing |
 | `porewi` | side effect | a bodily effect beyond an intervention's stated target |
-| `pothu` | stink | The smell the nose refuses |
+| `pothu` | stink | a strong odour emitted from a source and received through the nose |
 | `powea` | egg | The round self-contained case |
 | `pukate` | break | complete loss of wholeness in an object or material |
 | `pukea` | danger | The nearness of possible harm |
@@ -1800,7 +1809,7 @@
 | `rotiku` | dance | patterned movement made through the body |
 | `ruemi` | lie down | bodily posture supported along more than the feet or seat |
 | `saphei` | shallow | a vessel, cut, or body of water with little depth |
-| `sawa` | wash | Restoration to cleanness |
+| `sawa` | wash | water or another washing liquid carrying unwanted matter from a surface |
 | `sawathi` | soap | material that loosens oil and dirt in water |
 | `sekaru` | transfer | movement of matter or energy between components or systems |
 | `selawi` | slippery | contact that permits comparatively easy sliding between surfaces |
@@ -1823,7 +1832,7 @@
 | `shorenu` | immune | bodily protection or reduced susceptibility under stated conditions |
 | `shoru` | dull | an edge or point that no longer cuts or pierces readily |
 | `shorui` | weary | bodily depletion after effort, wakefulness, strain, or illness |
-| `shorupo` | protect | Creating safety through presence |
+| `shorupo` | protect | a body, place, or object shielded through a practical measure |
 | `shumeko` | sticky | a material or surface that adheres on contact and resists easy separation |
 | `shuneki` | vaccinate | an intervention intended to induce bodily protection |
 | `shurano` | safe | a body, path, object, or action assessed as sufficiently protected from relevant harm |
@@ -1841,7 +1850,7 @@
 | `sunoe` | regenerate | lost tissue or productive capacity rebuilt after depletion |
 | `takori` | load | a demand placed on material support, transmission, or processing |
 | `talua` | shoulder | Upper torso joint bearing arms and loads |
-| `tapu` | close | Bringing to a shut, sealed state |
+| `tapu` | close | a door, lid, or container moved into closure |
 | `tapulo` | jar | a holder reached through an opening wider than a bottle neck |
 | `tapuri` | lid | a separate object meeting the rim of a container |
 | `teru` | process | material passing through a set of operations |
@@ -1874,7 +1883,7 @@
 | `thuroi` | resilient | return toward workable form or function after stress |
 | `tinako` | rigid | resistance to bending, twisting, or rearrangement under force |
 | `tipika` | fingernail | The finger's hard tip |
-| `tiripe` | quiver | Small fast involuntary motion |
+| `tiripe` | quiver | rapid involuntary or lightly controlled motion of a body or part |
 | `tiso` | sharp | a fine edge or point able to cut or pierce readily |
 | `tiwa` | tie | holding objects together or against a point with cord or rope |
 | `toka` | hammer | Shaping force |
@@ -1928,7 +1937,7 @@
 | `wonepa` | table | The social flat of the house |
 | `wuloe` | soft | a yielding texture or contact that cushions pressure |
 
-## quantity (28)
+## quantity (29)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1938,6 +1947,7 @@
 | `lau` | twenty-seven-group | the twenty-seven scale used in exact and approximate enumeration |
 | `leiro` | release | removing a selected amount from a starting quantity |
 | `lorua` | abundant | a supply large in relation to the scale or need under discussion |
+| `malomi` | balance | proportions adjusted so their effects remain workable together |
 | `masue` | measure | measurement that produces or compares a magnitude |
 | `mu` | zero | the exact numerical value for no counted members |
 | `phanoi` | portion | relating a total to a number of groups and the resulting quotient |
@@ -1961,11 +1971,10 @@
 | `whoa` | whole | all relevant parts included in the total under discussion |
 | `wi` | two | the exact quantity two and the coefficient two in ternary numerals |
 
-## ritual (34)
+## ritual (32)
 
 | Word | Gloss | In this domain |
 |---|---|---|
-| `hewe` | wipe | Care's smallest gesture |
 | `holia` | festival | Celebration gathering |
 | `keluro` | honor | formal or repeated acts of honour |
 | `koshira` | grove | Sacred tree-space |
@@ -1985,7 +1994,6 @@
 | `phirena` | meditate | meditation practised as a repeated personal or shared observance |
 | `phoemu` | midnight | Liminal hour |
 | `rotiku` | dance | dance performed as part of a ceremony or repeated observance |
-| `sawa` | wash | The small ceremony of care for things |
 | `shoraku` | interpret | interpretation where exact communal or ceremonial wording matters |
 | `teli` | bell | Calling presence |
 | `thalume` | ancestor | honored through sacred obligations and veneration |
@@ -2023,7 +2031,7 @@
 | `kopharu` | barrier | a physical obstruction in a route or place |
 | `kosha` | field | Open land |
 | `kulo` | guide | direction offered along a physical or conceptual path |
-| `kupe` | hide | The enclosed and covered place |
+| `kupe` | hide | concealment produced through position, cover, or enclosure |
 | `kuri` | right | Body-relative direction |
 | `laeno` | long | substantial end-to-end extent in a path or object |
 | `laenu` | commons | Shared space |
@@ -2041,7 +2049,7 @@
 | `lokane` | accessible | a path or place reachable for the movement at issue |
 | `lokue` | place | location and position in space |
 | `lonai` | width | Horizontal extent |
-| `lorea` | connect | bridges separate points into unified relationship |
+| `lorea` | connect | a bridge, route, or other link joining separate locations |
 | `losha` | wide | breadth measured from one side to the other |
 | `loshenu` | clearance | width, height, depth, or turning room kept clear |
 | `luphano` | watershed | an area bounded by selected water-flow relations |
@@ -2087,7 +2095,7 @@
 | `phemi` | guest | crosses thresholds entering new domains as honored visitor |
 | `phemila` | host | creates and holds open sanctuary spaces for others |
 | `pheno` | full | the degree to which contents occupy a bounded space |
-| `phesari` | flee | movement away from a threatening or intolerable situation |
+| `phesari` | flee | movement away from a threatening place, pursuer, or condition |
 | `phewani` | neighbor | defined by proximity and shared physical space |
 | `pholeni` | depart | movement away from a source |
 | `ponalu` | size | scale considered across a thing's dimensions as a whole |
@@ -2120,7 +2128,7 @@
 | `soki` | settle | transition into residence at a location |
 | `sonari` | isolate | a bounded separation between a source and possible hosts |
 | `sorui` | circle | Round form |
-| `tapu` | close | The boundary completed |
+| `tapu` | close | passage or access ended at a boundary |
 | `teku` | short | limited end-to-end extent in a path or object |
 | `teshori` | quarantine | a temporary boundary around contact and movement |
 | `thalo` | walk | a walking route across a place |
@@ -2332,7 +2340,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (97)
+## wisdom (94)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2351,7 +2359,6 @@
 | `koma` | head | dwelling of understanding and awareness |
 | `kowela` | council | cultivates patient consensus through collective insight |
 | `kulo` | guide | practical knowledge of a way shared through accompaniment |
-| `lei` | harmony | requires understanding the middle way and patient adjustment |
 | `leiro` | release | release considered as a practice of loosening attachment |
 | `letharo` | consistent | holding plurality without confusing compatibility with truth |
 | `luera` | past | Memory's domain |
@@ -2359,7 +2366,6 @@
 | `lumae` | end | Completion |
 | `lumishe` | mentor | core function of sharing insight and understanding |
 | `lumoi` | lantern | Guiding illumination |
-| `malomi` | balance | navigates opposing forces through skillful equilibrium |
 | `manawi` | compromise | a practical but morally nonautomatic response to conflict |
 | `menua` | counselor | Advisory presence |
 | `mosha` | period | Bounded duration |
@@ -2378,7 +2384,6 @@
 | `nusho` | depth | Profundity |
 | `nuwoe` | stage | Growth position |
 | `pelua` | paper | Receptive potential |
-| `peshu` | lie | What truthfulness is defined against |
 | `phari` | pen | Recording thought |
 | `phenui` | thoughtful | reflection on likely effects before action |
 | `phewo` | sage | Insight earned through living |

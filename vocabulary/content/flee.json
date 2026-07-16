@@ -8,16 +8,26 @@
     "ri"
   ],
   "pos": "verb",
-  "concept": "Flee / Move Away from Danger, Constraint, or Pursuit",
-  "description": "To leave or move away because remaining carries danger, constraint, or intolerable pressure. The verb centers the departure rather than its speed: someone may flee on foot, by boat, or through a quiet exit. 'Pholeni' (depart) names leaving without this motive; 'rashelo' (run) names a bodily gait.",
-  "sound_symbolism": "The lips nearly close for 'ph' but let breath escape into mid 'e'. Stressed 'sa' narrows that breath along the tongue, then opens it across broad 'a'. Final 'ri' flicks once and recedes into bright 'i'. The contour moves from held breath through open urgency and leaves on a quick turn of the tongue.",
-  "grammatical_notes": "An intransitive motion verb: 'mophira kau kosha to phesari.' (The sheep fled into the field.) The place left takes 'lue', and a destination takes 'kau' or the uncompleted direction 'wea'. Compare 'pholeni' (depart), 'wepu' (go), and 'rashelo' (run). The event-noun rule supplies flight or fleeing.",
+  "search_terms": [
+    "escape danger",
+    "take flight"
+  ],
+  "description": "A person or animal 'phesari' when they leave because staying carries danger or coercive constraint. Their motive matters more here than the speed or means of departure. 'pholeni' (depart) names leaving without that motive; 'rashelo' (run) names a bodily gait.",
+  "articulatory_notes": "Bring the lips close without sealing them for unvoiced 'ph', pass air through the gap, and move into middle-height front 'e'. Hold the tongue near the alveolar ridge for unvoiced 's', direct air through its narrow groove, and open into stressed central 'a'. Tap or briefly trill the tongue at the alveolar ridge, then finish with high-front unrounded 'i'.",
+  "sound_symbolism": "Unvoiced 'ph' lets breath escape before the stressed open vowel, and the final tap turns quickly into high 'i'. The form seems to leave on that last quick movement, a useful cue for flight under pressure.",
+  "usage_notes": "'phesari' is intransitive. The place left may take 'lue' (ABL), and a destination takes 'kau' (ALL) or uncompleted direction 'wea' (TOWARD). Used as a noun, it is flight or fleeing.",
+  "examples": [
+    {
+      "phi": "mophira kau kosha to phesari.",
+      "translation": "The sheep fled into the field."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Leaving danger can be clear perception rather than aversion mistaken for wisdom. The motive and conditions determine the act; staying is not a virtue by itself.",
-    "peace-linguistics-practices": "A dedicated verb lets a speaker name departure under danger or constraint without recasting it as cowardice or as ordinary travel."
+    "peace-linguistics-practices": "A person who leaves danger need not be recast as cowardly or as an ordinary traveller. 'phesari' keeps the danger-shaped departure available for a plain account."
   },
   "semantic_domains": {
-    "activity": "departure in response to danger or constraint",
-    "spatial": "movement away from a threatening or intolerable situation"
+    "activity": "departure prompted by danger or coercive constraint",
+    "physical": "a person or animal moving their body away from danger",
+    "spatial": "movement away from a threatening place, pursuer, or condition"
   }
 }

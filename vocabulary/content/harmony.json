@@ -7,20 +7,22 @@
     "i"
   ],
   "pos": "verb",
-  "concept": "Harmony / Interwoven Balance",
-  "description": "To coexist in a balanced, beautiful, interconnected way, as diverse elements in music, society, or an ecosystem do. Harmony is not uniformity but the pleasing resonance that emerges when different parts work together as a whole.",
-  "sound_symbolism": "'Le' flows with the liquid 'l', and the hiatus carries it into the bright, bell-clear 'i'—two sounds meeting without merging, each keeping its own character while making something together. The word cannot be hurried; each vowel must be given its moment.",
-  "grammatical_notes": "An intransitive verb, harmony as active, ongoing practice: 'lo haoni lei.' (The voices harmonize.) The state noun comes by the event-noun rule. Related to 'shemoli' (harmonize, transitive) and 'koru' (harmonious).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Harmony represents the middle way between extremes - neither suppressing differences nor allowing chaos, but finding the dynamic balance where diverse elements support rather than oppose each other. This understanding sees conflict not as failure but as opportunity to discover deeper harmony through patient adjustment and mutual accommodation.",
-    "art-nouveau-aesthetics": "Harmony in Art Nouveau emerges from allowing each element to express its nature while contributing to unified composition. Like stems, leaves, and flowers in a botanical design, each component maintains its identity while participating in the greater pattern. This aesthetic teaches that beauty arises not from imposing rigid symmetry but from finding the natural balance between diverse elements.",
-    "peace-linguistics-practices": "Speaking harmony into being requires acknowledging all voices, not silencing discord but weaving it into richer patterns. Peace linguistics understands that forced harmony creates hidden violence, while true harmony emerges when different perspectives are heard, valued, and integrated into solutions that honor all participants."
-  },
+  "search_terms": [
+    "harmonize together",
+    "be in accord"
+  ],
+  "description": "Voices 'lei' when their differences form a pleasing or workable accord. Parts of a design or participants in a shared activity can do the same without becoming uniform. 'shemoli' (harmonize) brings that relation about; 'koru' (harmonious) describes it.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and move into stressed middle-height front unrounded 'e'. Keep high-front unrounded 'i' in its own syllable across the 'e.i' hiatus by raising the tongue without inserting a glide.",
+  "sound_symbolism": "The vowels remain separate across the hiatus, each keeping its own shape while the voice carries through both. Two distinct sounds sharing one voiced movement make a ready mnemonic for harmony.",
+  "usage_notes": "'lei' is intransitive: the voices, parts, or participants that harmonize form its subject. In noun position it is harmony. Transitive 'shemoli' names the deliberate adjustment that brings parts into accord.",
+  "examples": [
+    {
+      "phi": "lo haoni lei.",
+      "translation": "The voices harmonize."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "creates beauty through balance and pleasing resonance",
-    "community": "weaves diverse voices into collective resonance",
-    "emotion": "creates feelings of peace and rightness when elements unite",
-    "nature": "reflects ecosystems in balance and natural cooperation",
-    "wisdom": "requires understanding the middle way and patient adjustment"
+    "aesthetic": "distinct sounds or forms fitting into a pleasing whole",
+    "community": "participants maintaining a workable accord without becoming uniform"
   }
 }

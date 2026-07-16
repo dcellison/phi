@@ -7,16 +7,21 @@
     "pe"
   ],
   "pos": "verb",
-  "concept": "Hide / Conceal / Place Out of Sight",
-  "description": "To hide: seeds from the jays, a gift before the festival, oneself in the children's game. Concealment, playful or protective. Converse of 'hekawi' (find); a culture's hiding is mostly its keeping.",
-  "sound_symbolism": "'ku' is the enclosed dark of the hiding place, 'pe' the soft cover drawn over it. Small sounds for a small secrecy.",
-  "grammatical_notes": "Transitive: 'mia kira kupe.' (I hide the key.) Reflexive: 'lopia miso kupe.' (The child hides.) With place: 'shia mua wolea lopha kupe.' (They hide the vessel in the wood.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "What is hidden from others is not hidden from oneself; the verb keeps concealment speakable, which keeps it honest.",
-    "pre-industrial-wisdom": "The cache, the seed-store, the winter hoard hidden from weather and raiders alike — hiding as husbandry."
-  },
+  "search_terms": [
+    "conceal",
+    "put out of sight"
+  ],
+  "description": "A child can 'kupe' during play, or someone can hide a key from view. In both cases, a person or thing is placed where a chosen observer is unlikely to perceive it. 'mirewu' (private) limits access, while 'kupela' (secret) is information deliberately left untold.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed high-back rounded 'u'. Close the lips for unvoiced 'p', then release them as the tongue moves forward and the lips unround for middle-height front 'e'.",
+  "usage_notes": "The hidden person or thing precedes 'kupe'. Reflexive 'miso' marks hiding oneself, and a place of concealment can take 'mua' (LOC). Nominal 'kupe' is hiding or concealment as an event.",
+  "examples": [
+    {
+      "phi": "mia kira kupe.",
+      "translation": "I hide the key."
+    }
+  ],
   "semantic_domains": {
-    "activity": "Placing out of sight",
-    "spatial": "The enclosed and covered place"
+    "activity": "deliberately placing a person or thing beyond an observer's perception",
+    "spatial": "concealment produced through position, cover, or enclosure"
   }
 }

@@ -2,19 +2,19 @@
   "contract": "lexicon-prose-v1",
   "total": 1180,
   "states": {
-    "legacy": 586,
+    "legacy": 571,
     "partial": 0,
     "dual": 0,
-    "target": 594
+    "target": 609
   },
   "by_kind": {
     "content": {
       "total": 1050,
       "states": {
-        "legacy": 586,
+        "legacy": 571,
         "partial": 0,
         "dual": 0,
-        "target": 464
+        "target": 479
       }
     },
     "function": {
@@ -37,13 +37,13 @@
     }
   },
   "fields": {
-    "articulatory_notes": 594,
-    "examples": 594,
-    "search_terms": 582,
-    "usage_notes": 573,
-    "sound_symbolism": 999,
-    "pillars": 953,
-    "concept": 586,
-    "grammatical_notes": 586
+    "articulatory_notes": 609,
+    "examples": 609,
+    "search_terms": 597,
+    "usage_notes": 588,
+    "sound_symbolism": 994,
+    "pillars": 946,
+    "concept": 571,
+    "grammatical_notes": 571
   }
 }
