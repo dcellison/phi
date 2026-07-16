@@ -7,16 +7,25 @@
     "wo"
   ],
   "pos": "verb",
-  "concept": "Agree / Reach Accord / Settle Together on One View",
-  "description": "To agree: two people arriving at the same position after honest exchange. The verb of accord — stronger than politeness, weaker than promise ('seru', commit). Its natural frame follows discussion: 'shareo' then 'nawo'.",
-  "sound_symbolism": "Grounded 'n', open 'a', and 'wo' — a shared settling, two weights coming to rest on the same point.",
-  "grammatical_notes": "Intransitive with COM: 'mia nua thia nawo.' (I agree with you.) Of a group: 'sila nawo.' (The community agrees.) With content in the mena-frame: 'lo mia mena ha ruela welao nai meno nawo.' (We agree that this path is good.)",
+  "search_terms": [
+    "accord",
+    "share a position"
+  ],
+  "description": "After examining the same proposal, two people agree that the eastern path is safer. 'nawo' says that participants hold the same position on a proposition, judgement, or proposed course. It does not say that they consent to an action affecting them, accept an offer, obey an instruction, or commit to carrying the position out.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper front teeth for voiced dental 'n' and let the resonance pass through the nose into stressed open central unrounded 'a'. Round the lips and raise the back of the tongue for voiced 'w', then lower it slightly into middle-height back rounded 'o'.",
+  "usage_notes": "A counterpart takes comitative 'nua', while a proposition takes the 'mena ... meno' frame. An unframed plural subject asserts that the whole referent shares the stated position, so exceptions should be named rather than hidden inside the plural. The event-noun rule supplies agreement. Module word 'naweso' (consensus) records a collective decision condition under a stated procedure; it is not simply a larger instance of 'nawo'.",
+  "examples": [
+    {
+      "phi": "lo mia mena muila noetha nai meno nawo.",
+      "translation": "We agree that the earth is essential."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Agreement is the destination of dialogue, and a language for peace needs the verb that names arrival — distinct from compliance, which Phi deliberately has no word for.",
-    "pre-industrial-wisdom": "The village decision was made when the circle agreed — accord as the unit of governance older than any vote."
+    "peace-linguistics-practices": "Agreement can be stated without turning it into compliance or silence. The same distinction leaves room for a person who understood the discussion and still does not agree."
   },
   "semantic_domains": {
-    "communication": "Where honest exchange arrives",
-    "community": "Accord between people"
+    "cognition": "holding the same proposition or judgement as another participant",
+    "communication": "stating accord on a proposition or proposed course",
+    "community": "a shared position among named participants"
   }
 }

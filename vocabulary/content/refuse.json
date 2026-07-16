@@ -8,15 +8,27 @@
     "ri"
   ],
   "pos": "verb",
-  "concept": "Refuse / The Clear No",
-  "description": "To refuse: to decline clearly and without aggression. Phi needs this word for consent to mean anything; a yes is only real where a no is sayable. Refusal here is a boundary stated, not a rejection of the person.",
-  "sound_symbolism": "'na' plants the no, 'we' softens the ground around it, 'ri' keeps the voice level. Firm at the front, kind after.",
-  "grammatical_notes": "Verb: 'thia po naweri.' (You can refuse.) In dialogue: 'thia naweri. mia thia sheluo.' (You refuse. I listen to you.)",
+  "search_terms": [
+    "decline",
+    "reject"
+  ],
+  "description": "At the workbench, a learner agrees to watch but refuses the chisel. 'naweri' gives an explicit no to something presented for acceptance, belief, participation, or action. It can decline an offer or reject a claim without attacking the person who presented it and without supplying a reason.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper front teeth for voiced dental 'n' and let air pass through the nose into open central unrounded 'a'. Round the lips and raise the back of the tongue for voiced 'w', then unround into stressed middle-height front 'e'. Make a tap or short trill with the tongue tip for 'r' and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The opening is shared with 'nawo' (agree), so the two words sound like neighbouring answers rather than unrelated moral camps. 'naweri' continues through an extra turn of the tongue before its bright final vowel. The refusal has its own unmistakable shape.",
+  "usage_notes": "Whatever is refused is the direct object, though it may be omitted when already clear. An offer, request, claim, or course can each receive this answer. The event-noun rule supplies refusal. 'ma nawo' says that positions do not coincide, while 'whakeru' (object) identifies a problem in a claim, premise, or inference. A speaker who refuses their own earlier words strongly disavows them; a neutral correction can instead name the error and replace the claim.",
+  "examples": [
+    {
+      "phi": "mia ha loami naweri.",
+      "translation": "I refuse this gift."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Nonviolent speech is not agreement; it is honesty without attack. The clear no, respectfully received, is that practice in one word."
+    "peace-linguistics-practices": "Consent is meaningful only where refusal can be spoken and received. The verb gives a boundary its own ordinary form without requiring aggression or apology."
   },
   "semantic_domains": {
-    "communication": "The boundary stated",
-    "community": "What consent requires"
+    "activity": "declining participation, an offer, or a proposed course",
+    "communication": "giving an explicit negative answer or rejecting a claim",
+    "community": "setting a boundary within a social relation",
+    "ethics": "refusal as a condition of consent and personal agency"
   }
 }

@@ -8,16 +8,27 @@
     "lo"
   ],
   "pos": "verb",
-  "concept": "Retaliate / Impose Harm in Response to Protected or Contested Action",
-  "description": "To impose a disadvantage in response to something the person did before it: a report, a refusal, a claim. Timing alone never proves retaliation; the triggering act, the harm, and who held the power to impose it all need to be shown.",
-  "sound_symbolism": "Rounded, unvoiced 'whe' begins with breath drawn back through the lips. Stressed 'pe' interrupts it with a small closure, while final 'lo' releases the tongue into a low round flow. Those last two syllables also open 'peloma' (harmful). The contour returns through shaped breath, meets force, and leaves in a darker flow.",
-  "grammatical_notes": "A transitive verb with the retaliating agent as subject and the targeted person or group as object: 'ha sithora miona ha wemari whepelo.' (The role holder retaliates against the member.) State the triggering action, disadvantage, timing, power relation, evidence, and alternative explanation. The event-noun rule supplies retaliation. Distinct from ordinary response, disagreement, defense, enforcement, redress, and a source-specific sanction.",
+  "search_terms": [
+    "reprisal",
+    "punish in response"
+  ],
+  "description": "After a member reports unsafe water, an official denies them ordinary access because they spoke. 'whepelo' imposes a disadvantage in response to a prior report, refusal, claim, or action. An unwelcome event that follows a complaint is not automatically retaliation. Evidence must show the earlier act, the disadvantage, and the link between them; the power relation matters too.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for unvoiced 'wh', then move forward and unround into middle-height 'e'. Close the lips for unvoiced 'p' and release into stressed middle-height front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and finish with middle-height back rounded 'o'.",
+  "sound_symbolism": "The last two syllables begin like 'peloma' (harmful), so retaliation has an audible kinship with the disadvantage it imposes. Before them, rounded unvoiced 'whe' seems to draw an earlier breath back into the word, as though the present act were returning to something already said or done.",
+  "usage_notes": "The retaliating agent is the subject and the targeted person or group is the direct object. Name the prior action and imposed disadvantage, then give the timing and power relation. Evidence and plausible alternatives belong in the account as well. The event-noun rule supplies retaliation. 'lonae' (respond) is neutral, 'nashaku' (enforce) acts on a stated rule or decision, and 'helolu' (redress) acts to address harm rather than to penalise the person who raised it.",
+  "examples": [
+    {
+      "phi": "ha sithora miona ha wemari whepelo.",
+      "translation": "The role holder retaliates against the member."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Commons cannot remain participatory when reporting hazards, refusing work, appealing decisions, or criticizing stewardship exposes people to hidden institutional punishment.",
-    "peace-linguistics-practices": "Naming retaliation makes delayed and indirect harm discussable without presuming that every adverse consequence was intentional or causally connected."
+    "solarpunk-values": "A commons cannot remain participatory when people risk reprisal for reporting hazards, refusing work, appealing decisions, or criticising stewardship.",
+    "peace-linguistics-practices": "Naming retaliation makes delayed or indirect harm discussable without assuming that every later disadvantage had the same cause."
   },
   "semantic_domains": {
     "activity": "imposing a disadvantage in response to a stated prior action",
-    "community": "retaliation through a social or institutional power relation"
+    "community": "retaliation through a social or institutional power relation",
+    "ethics": "a harmful reprisal directed at someone for an earlier act"
   }
 }

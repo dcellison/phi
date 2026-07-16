@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (188)
+## activity (192)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -28,9 +28,10 @@
 | `katemu` | offcut | a remainder produced during cutting or shaping |
 | `kati` | cut | The craft act of dividing material |
 | `kawepa` | catch | Receiving the moving thing |
-| `kawhera` | coerce | constraining practical choice through a stated power or threat |
+| `kawhera` | coerce | using power or threat to constrain another person's practical choice |
 | `kelasu` | usable | a person able to carry out an intended purpose with a thing or process |
 | `kelitho` | function | performance of a characteristic or required system operation |
+| `kelomi` | accept | taking up an offered object, role, condition, or course |
 | `kesu` | determined | resolve that sustains effort towards a chosen purpose |
 | `kethua` | hard | a task or condition that demands substantial effort |
 | `ketora` | control | adjustment or constraint of a technical process |
@@ -44,6 +45,7 @@
 | `kopharu` | barrier | a condition obstructing a stated action |
 | `kupe` | hide | Placing out of sight |
 | `kuremi` | grind | The kitchen's oldest transformation |
+| `lesawi` | consent | permitting a stated action that affects oneself or a relationship for which one may speak |
 | `liroa` | playful | a play-seeking manner brought to an action or interaction |
 | `loatho` | delegate | entrusting a bounded role or action to a recipient |
 | `lokane` | accessible | a route, tool, or arrangement available for a particular activity |
@@ -70,6 +72,7 @@
 | `naphelu` | assistive | a device or practice supporting a chosen action |
 | `nashaku` | enforce | applying authority or procedure in relation to compliance |
 | `natu` | pull | Inbound force to the body |
+| `naweri` | refuse | declining participation, an offer, or a proposed course |
 | `nephoru` | treat | care intended to alter a health condition or course |
 | `nilaki` | inspect | systematic examination of condition against criteria |
 | `noluha` | swallow | Eating's completion |
@@ -79,6 +82,7 @@
 | `norupe` | spoon | a utensil used to scoop, eat, measure, or stir |
 | `nuawe` | together | an action carried out jointly by more than one participant |
 | `nukesa` | expert | deeply practised capacity within a stated domain |
+| `numike` | negotiate | working through changeable terms towards a possible arrangement |
 | `nuola` | eat | fundamental human activity of eating |
 | `nurome` | meal | an occasion of eating |
 | `palo` | touch | the act of making contact with a person or thing |
@@ -306,7 +310,7 @@
 | `kanu` | choose | settling on one alternative from those considered or available |
 | `kanuro` | decision | a choice assigned settled or actionable status |
 | `kelai` | equals | Announces mathematical results through explicit statement |
-| `kelomi` | accept | Acknowledging reality |
+| `kelomi` | accept | adopting something presented for consideration |
 | `kelu` | become | developing understanding and awareness |
 | `kethira` | infer | deriving a conclusion from premises |
 | `ketora` | control | control depends on a selected state or range rather than an unspecified desire |
@@ -331,7 +335,6 @@
 | `kuewa` | strange | something outside a stated person's or community's present familiarity |
 | `kupela` | secret | The known and untold |
 | `leiro` | release | Names arithmetic subtraction through a release metaphor |
-| `lesawi` | consent | a specific decision whose understanding and conditions remain examinable |
 | `letharo` | consistent | the quality of propositions that can be true together |
 | `likori` | species | a biological category whose criteria and source must be recoverable |
 | `lilea` | clarify | ambiguity reduced in an existing meaning or situation |
@@ -361,6 +364,7 @@
 | `nasholu` | rule | a stated normative prescription with conditions and scope |
 | `natheri` | entail | a necessary truth-preserving relation between propositions |
 | `nathoku` | contraindicated | a sourced clinical judgement about a proposed intervention |
+| `nawo` | agree | holding the same proposition or judgement as another participant |
 | `nila` | see | visual information entering awareness |
 | `nilaki` | inspect | a structured relation among observations, scope, and assessment |
 | `noetha` | essential | an indispensable condition identified for a purpose, identity, or result |
@@ -430,7 +434,7 @@
 | `sena` | pattern | Recognizable structure |
 | `senao` | same | identity or broad sameness established on a stated or recoverable basis |
 | `shalimo` | alliance | held together by a shared conviction, an idea before it is a bond |
-| `sharemi` | persuade | movement toward a belief or judgment through communication |
+| `sharemi` | persuade | trying to influence another person's belief or judgement |
 | `shareo` | discuss | joint examination of a stated subject |
 | `sharino` | conscience | the faculty of judging one's own conduct against held values |
 | `sharoi` | exceed | Announces magnitude relationship requiring mental comparison |
@@ -471,7 +475,7 @@
 | `telua` | accurate | agreement between a representation and the fact or reference it represents |
 | `terura` | system | a bounded unit selected for analysis and explanation |
 | `theali` | fitting | a contextual judgement of suitability rather than factual accuracy |
-| `thekao` | acknowledge | requires mindful attention to truly see another |
+| `thekao` | acknowledge | recognising a person, message, act, or account as present |
 | `thekiro` | write | Externalizing thought |
 | `thekopa` | recipe | remembered or recorded knowledge for preparing food |
 | `theloa` | truth | discerning and aligning with reality |
@@ -545,7 +549,7 @@
 | `kowela` | council | transforms governance through deep listening and patient dialogue |
 | `kupela` | secret | The silence that protects |
 | `lathoe` | tongue | Primary organ of speech production |
-| `lesawi` | consent | a freely given, withheld, or withdrawn answer to a proposal |
+| `lesawi` | consent | giving, withholding, or withdrawing a bounded answer |
 | `lilea` | clarify | wording repaired so that its intended reference is easier to follow |
 | `lomare` | embrace | Non-verbal communication of acceptance |
 | `lona` | meeting | Shared gathering |
@@ -562,15 +566,15 @@
 | `mothare` | premise | a claim participants can grant, question, or revise explicitly |
 | `naphe` | help | Fundamental exchange of mutual aid |
 | `nawea` | respect | foundation for respectful communication |
-| `naweri` | refuse | The boundary stated |
+| `naweri` | refuse | giving an explicit negative answer or rejecting a claim |
 | `naweso` | consensus | public stances considered under a stated consensus rule |
-| `nawo` | agree | Where honest exchange arrives |
+| `nawo` | agree | stating accord on a proposition or proposed course |
 | `noeli` | warm (emotional) | warmth expressed through voice, greeting, or parting |
 | `noemi` | authentic | a voice or expression faithful to the speaker's lived commitments |
 | `nomei` | name | the word that calls and identifies |
 | `nophi` | story | fundamentally acts of structured transmission from one consciousness to another |
 | `nowiso` | interface | an informational interface can mediate exchange without guaranteeing understanding |
-| `numike` | negotiate | Structured discussion toward agreement |
+| `numike` | negotiate | discussing terms with one or more counterparts |
 | `pawela` | participate | engaging in collective processes and exchange |
 | `peshu` | lie | False speech; the breaking of communicative trust |
 | `phae` | open | beginning access to an exchange or response |
@@ -596,7 +600,7 @@
 | `shalori` | represent | carrying another party's position under stated scope and authorization |
 | `shane` | tell | an account directed to a listener |
 | `shanewi` | notify | information offered without presuming receipt or understanding |
-| `sharemi` | persuade | influence through reasons or communicative appeal |
+| `sharemi` | persuade | using reasons or another communicative appeal to influence a listener |
 | `shareo` | discuss | spoken or written exchange centred on one topic |
 | `shaweri` | advocate | speaking publicly for a position without implied representation authority |
 | `shelo` | signify | Meaningful indication |
@@ -617,7 +621,7 @@
 | `thaemu` | sincere | expression that matches the feeling or intention it presents |
 | `thasu` | modest | ability, achievement, or certainty presented without exaggeration |
 | `theisa` | loud | high perceived intensity in a voice or spoken utterance |
-| `thekao` | acknowledge | validates and recognizes others through communication |
+| `thekao` | acknowledge | making receipt or recognition explicit in an exchange |
 | `thekasi` | caption | speech and meaningful sound presented in a readable form |
 | `thelima` | describe | a verbal account of a thing, event, or condition |
 | `theloa` | truth | foundation for honest communication |
@@ -643,7 +647,7 @@
 | `whekate` | refute | a decisive challenge supported by reasons or evidence |
 | `whishela` | whisper | Speech made of breath |
 
-## community (288)
+## community (289)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -662,8 +666,9 @@
 | `kasira` | vote | a vote within a defined collective procedure |
 | `kasuno` | selfish | a choice or pattern that discounts other people's relevant needs or claims |
 | `kawepa` | catch | The other end of every throw |
-| `kawhera` | coerce | coercion within an institutional or social relation |
+| `kawhera` | coerce | coercion within a social or institutional relation |
 | `keloe` | companion | Journey partner |
+| `kelomi` | accept | admitting another person's presence or participation |
 | `keluro` | honor | Acknowledging worth within relationships |
 | `keno` | custom | Habitual way |
 | `kima` | scribe | Recording role |
@@ -734,9 +739,9 @@
 | `nashaku` | enforce | institutional enforcement with stated methods and review |
 | `nasholu` | rule | a rule claimed to apply within a social process |
 | `nawea` | respect | essential for social bonds and relationships |
-| `naweri` | refuse | What consent requires |
+| `naweri` | refuse | setting a boundary within a social relation |
 | `naweso` | consensus | a defined collective decision condition |
-| `nawo` | agree | Accord between people |
+| `nawo` | agree | a shared position among named participants |
 | `nephoru` | treat | an intervention relation among a person and care participants |
 | `nilua` | shy | reserve felt under other people's attention |
 | `nireku` | insect | Foundation of ecosystems |
@@ -754,7 +759,7 @@
 | `noruwa` | generation | The cohort moving together |
 | `nuawe` | together | people sharing an action or state while remaining distinct participants |
 | `numelo` | nurture | Supporting growth of others |
-| `numike` | negotiate | Resolving differences through communication |
+| `numike` | negotiate | seeking an arrangement among participants with differing positions |
 | `nunoa` | forager | Gathering role |
 | `nupira` | shame | self-conscious pain shaped by exposure or social judgement |
 | `nuroa` | kitchen | Nourishment place |
@@ -867,7 +872,7 @@
 | `theala` | heal | happens in relationship requiring collective support |
 | `theama` | care | provides mutual support for collective wellbeing |
 | `thekamu` | intervene | an action affecting a person within a care relation |
-| `thekao` | acknowledge | confirms someone's presence within social fabric |
+| `thekao` | acknowledge | acknowledging another participant or their stated position |
 | `theloma` | justice | focuses on wholeness and reintegration of all parties |
 | `thelu` | dialogue | a shared practice for examining disagreement while consensus stays open |
 | `thelumo` | ritual | collective practices that create shared meaning |
@@ -1109,7 +1114,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## emotion (89)
+## emotion (88)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1125,7 +1130,6 @@
 | `kapura` | shout | intensity breaking into voice |
 | `kela` | rejoice | Experiencing deep gladness |
 | `keloe` | companion | Abiding presence |
-| `kelomi` | accept | Opening to what is present |
 | `kesu` | determined | felt firmness after a direction has been chosen |
 | `kipona` | pain | Hurt of heart borrowing the body's word |
 | `korua` | heart | the metaphorical seat of feeling and courage |
@@ -1203,14 +1207,17 @@
 | `wiroa` | hopeful | felt expectation that a desired outcome remains possible |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
-## ethics (17)
+## ethics (21)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `heloi` | generous | readiness to give or share without erasing the giver's own limits |
 | `kasuno` | selfish | one's own gain given priority over another person's relevant interests |
+| `kawhera` | coerce | the removal of practical choice through power or threat |
 | `kolo` | equal | equality considered separately from fairness and inherent worth |
+| `lesawi` | consent | consent as a condition of respectful conduct and relationship |
 | `lothoni` | accountable | review that keeps answerability distinct from presumed blame |
+| `naweri` | refuse | refusal as a condition of consent and personal agency |
 | `noemi` | authentic | fidelity between a person's conduct and the commitments they recognize as their own |
 | `nophei` | loyal | loyalty weighed alongside refusal and the effects of remaining |
 | `peloma` | harmful | damage, suffering, or lost capacity as grounds for evaluating conduct and conditions |
@@ -1224,6 +1231,7 @@
 | `thunoa` | dignified | conduct or treatment that acknowledges a person's inherent worth |
 | `welao` | good | the broad favourable term when conduct or its effects are being weighed |
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
+| `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
 ## nature (226)
 
