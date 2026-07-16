@@ -148,7 +148,7 @@ The ground truth is KJV Genesis 11:1-9 stored in `texts/sources/kjv_genesis.txt`
 | Dispersal | Authority sends the people out from the settlement along diverging paths. | The earth uses `thiwera` to scatter people like seed. |
 | Ending | The source's final explanation and repeated dispersal close the account. | Two uncited lines call every language a garden and place Phi among them. |
 
-The lexical decision at the center of the pair is restraint. `thiwera` is not an innocent synonym for every scattering: its entry promises seed, breadth, and somewhere to grow. Translation therefore uses caused motion and leaves punishment severe. Transmutation chooses the hopeful word and accepts the change it brings. The five-pillar comparison tests peace linguistics honestly here: refusing violence in Phi cannot mean concealing violence in a source.
+The lexical decision at the center of the pair is restraint. `thiwera` describes broadcast scattering and has an audible kinship with `thinoe`, seed, but it does not make every scattering innocent. Translation therefore uses caused motion and leaves punishment severe. Transmutation compares people to seeds, then follows them into gardens. The five-pillar comparison tests peace linguistics honestly here: refusing violence in Phi cannot mean concealing violence in a source.
 
 ## Paired review: Heart Sutra
 

@@ -8,18 +8,32 @@
     "o"
   ],
   "pos": "verb",
-  "concept": "Die / Death / The Ending of a Life",
-  "description": "To die. The second threshold of the life-arc, partnered with 'thowia' (born/birth). Deliberately kin to 'lumae' (end): dying named as a kind of ending, within the same gentle sound-family, so the word is unblinking about what it names while carrying no harshness.",
-  "sound_symbolism": "The liquid 'lu' flows downward into depth, 'me' settles like breath growing quiet, and the final 'o' closes the circle — whole, complete, rounded shut. Nothing sharp, nothing violent: a life arriving at its own edge. The 'lum-' opening it shares with 'lumae' (end) teaches the word's meaning through family resemblance.",
-  "grammatical_notes": "Verb: 'shia to lumeo.' (She died.) With a plural subject: 'lo shia to lumeo.' (They died.) The noun, death, comes by the event-noun rule and can stand as subject: 'lumeo wei theula lioru shua.' (Death comes to all life.) With grieving: 'mia nuhemi. ni melu to lumeo.' (I grieve. A dear friend died.)",
+  "search_terms": [
+    "pass away",
+    "cease living"
+  ],
+  "description": "For a living being to cease living. This is Phi's sole verb for death, used plainly where English may soften the event as passing away. Established figurative uses let a device or practice die when its activity ends; 'lumae' (end) remains the general verb.",
+  "articulatory_notes": "Set the tongue tip at the alveolar ridge for 'l' and move into rounded high-back 'u'. Close the lips for stressed 'm', send the voice through the nose, and open into middle-height front 'e'. Keep final rounded middle-height back 'o' in a separate syllable.",
+  "sound_symbolism": "The form is audibly close to 'lumae' (end): both begin with 'lu' and turn through a stressed middle syllable. The kinship makes death hearable as one kind of ending without hiding either word inside the other.",
+  "usage_notes": "No direct object follows 'lumeo'. Noun use by rule supplies death, and 'rena to lumeo' means the one who died. A death ceremony is 'lumeo thorea'; Phi describes the ceremony rather than assigning every tradition the same rite.",
+  "examples": [
+    {
+      "phi": "shia to lumeo.",
+      "translation": "They died."
+    },
+    {
+      "phi": "lumeo wei theula lioru shua.",
+      "translation": "Death comes to all life."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The contemplation of death is the heart of impermanence practice. A language whose Buddhist pillar is real must be able to say 'die' plainly — euphemism is a form of looking away, and 'lumeo' does not look away.",
-    "peace-linguistics-practices": "Grief that can be spoken plainly does not have to become anger. Plain words for death make honest mourning — and honest condolence — possible.",
-    "pre-industrial-wisdom": "Traditional cultures kept death visible: washed, sung, buried by hand. Naming it directly is older and kinder than hiding it."
+    "secular-buddhist-philosophy": "Contemplation of mortality depends on being able to say that a life ended. 'lumeo' keeps impermanence direct rather than turning it into a verbal disappearance.",
+    "peace-linguistics-practices": "Plain language for death gives grief and condolence an honest event to name, without forcing a euphemism on the people involved."
   },
   "semantic_domains": {
-    "nature": "The universal ending of living things",
-    "ritual": "The event around which mourning gathers",
-    "temporal": "The second threshold of a life"
+    "nature": "the death of a person or other organism",
+    "physical": "the bodily cessation of life",
+    "ritual": "the event named in mourning and death ceremonies",
+    "temporal": "the point at which a life ends"
   }
 }

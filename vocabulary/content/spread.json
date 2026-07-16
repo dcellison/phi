@@ -8,18 +8,31 @@
     "ra"
   ],
   "pos": "verb",
-  "concept": "Spread / Replicate / Multiply (Mathematical)",
-  "description": "The verb of spreading or replicating, and Phi's word for arithmetic multiplication. It can evoke seeds becoming groves, stories circulating through communities, or a pattern repeated across a surface. In arithmetic, 'welura' combines a counted quantity with a factor to identify the product. The metaphor does not imply biological growth, generosity, abundance, or a beneficial result in every use.",
-  "sound_symbolism": "The word begins with 'we', evoking community and togetherness—the social context where spreading naturally occurs. The liquid 'l' in 'lu' flows the growth forward, continuous and organic. The 'u' provides depth and grounding, the rootedness from which spreading begins. The trill/tap 'r' in 'ra' suggests gentle repetition, iteration without mechanical harshness. The final 'a' opens to the expanded result, the most spacious vowel receiving the abundance of growth. The overall flow suggests organic spreading—mycelium beneath forests, knowledge through generations.",
-  "grammatical_notes": "Functions as a verb taking two quantitative arguments: the counted quantity and the factor. In arithmetic, mandatory 'nela' separates them: '[counted quantity] nela [factor] welura. [product] kelai.' Example: 'ta shao nela wi welura. wi shao kelai.' (Three spreads by two. Six results.) When a noun or classifier is stated, it belongs to the first operand and the product; the factor may be a bare number. Can be nominalized for abstract discussion and used non-mathematically for spreading influence, ideas, organisms, or materials.",
-  "pillars": {
-    "solarpunk-values": "'Welura' can describe regenerative spread—seeds, spores, repair practices, or ideas for sustainable futures. Multiplication itself is neutral: harmful growth, extraction, and waste can also multiply.",
-    "secular-buddhist-philosophy": "The spreading metaphor can evoke teachings in which generosity or beneficial action extends beyond its source. The word does not claim that all multiplication is non-grasping or that what spreads does so freely.",
-    "art-nouveau-aesthetics": "Natural patterns replicate with organic variation—the spiral of a nautilus, the branching of ferns, the fractal beauty of snowflakes. 'Welura' captures this aesthetic of multiplication as beauty unfolding.",
-    "pre-industrial-wisdom": "Seeds can become harvests, stories can become traditions, and taught skills can extend a craft. 'Welura' can evoke those processes without treating multiplication as their inevitable or exclusively generous cause."
-  },
+  "search_terms": [
+    "extend",
+    "distribute",
+    "multiply"
+  ],
+  "description": "Extend over a wider area, distribute something across a surface, or become present in more places. Cloth, resin, organisms, and stories can spread; the clause shows whether the subject extends itself or spreads an object. In arithmetic, 'welura' is multiplication and belongs to Phi's two-clause calculation pattern.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then open into middle-height front 'e'. Set the tongue tip at the alveolar ridge for stressed 'l' and release into rounded high-back 'u'. Tap the ridge once for 'r' before final open central 'a'.",
+  "sound_symbolism": "The rounded glide moves through the lateral and opens past a quick tap into final 'a'. With no firm closure after the first syllable, the widening contour suits extension across a surface or group.",
+  "usage_notes": "Ordinary use may be transitive or intransitive. 'thiwera' (scatter) keeps separate items or diverging paths in view, while 'welura' can extend one material, pattern, or occurrence. In arithmetic, mandatory 'nela' separates the counted quantity from its factor: '[counted quantity] nela [factor] welura. [product] kelai.' The product inherits the counted kind.",
+  "examples": [
+    {
+      "phi": "mia nia wonepa wetha welura.",
+      "translation": "I spread the cloth on the table."
+    },
+    {
+      "phi": "ta shao nela wi welura. wi shao kelai.",
+      "translation": "Three multiplied by two results in six."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "Names arithmetic multiplication through a spreading metaphor",
-    "nature": "Offers spreading as a metaphor for multiplication"
+    "activity": "an agent distributing or extending something",
+    "communication": "a story or account becoming present among more people",
+    "nature": "an organism or ecological occurrence extending through a place",
+    "physical": "material distributed across a surface or area",
+    "quantity": "multiplication in Phi's arithmetic construction",
+    "spatial": "an extent widening or reaching more places"
   }
 }

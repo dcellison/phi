@@ -7,16 +7,25 @@
     "o"
   ],
   "pos": "verb",
-  "concept": "Prosper / Flourish / Thrive Abundantly",
-  "description": "To succeed and thrive; flourishing that spreads abundance. 'Thuo' names the thriving state—when conditions support full expression of potential.",
-  "sound_symbolism": "The word opens with 'thu', where the mindful 'th' brings awareness to thriving—prosperity that is conscious, not accidental. The deep 'u' grounds this flourishing in substance. The final 'o' rounds into fullness, abundance completing itself. Speaking 'thuo' feels like awareness opening into wealth of experience, mindful thriving.",
-  "grammatical_notes": "Functions as verb: 'mia thuo.' (I prosper.) The outcome of 'sunoe' (regenerate) and 'thuroa' (grow). Related to 'towe' (well) as active thriving to good state, and near 'welira' (thrive), which centers health.",
+  "search_terms": [
+    "succeed materially",
+    "fare well"
+  ],
+  "description": "For a person, household, community, or undertaking to fare well in material or practical circumstances. A household may have secure resources, while an undertaking may continue to meet its purpose. 'welira' (thrive) concerns the health of living subjects; 'thuo' concerns favourable circumstances and results.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth for unvoiced 'th' and let air pass into stressed rounded high-back 'u'. Keep the following rounded middle-height back 'o' in a second syllable, with a clean hiatus between the two vowels.",
+  "sound_symbolism": "Only one breathy onset stands before two rounded vowels. The short form opens broadly, a fitting sound for a common wish of prosperity.",
+  "usage_notes": "Prospering is intransitive, and its event noun is prosperity. 'lorua' (abundant) describes available plenty rather than the condition of the person or undertaking.",
+  "examples": [
+    {
+      "phi": "sila thuo.",
+      "translation": "The community prospers."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Shared prosperity—flourishing that includes all, not wealth hoarded by few.",
-    "secular-buddhist-philosophy": "True prosperity—thriving measured in wellbeing, not accumulation."
+    "solarpunk-values": "Shared prosperity asks who has secure material conditions and who participates in the result. 'thuo' names the favourable condition without defining it as private accumulation."
   },
   "semantic_domains": {
-    "community": "Collective thriving",
-    "emotion": "Abundant flourishing"
+    "activity": "an undertaking faring well by its practical purpose",
+    "community": "material or practical prosperity in a person, household, or community"
   }
 }

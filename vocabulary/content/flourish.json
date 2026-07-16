@@ -8,16 +8,27 @@
     "i"
   ],
   "pos": "verb",
-  "concept": "Flourish / Thrive Abundantly / Grow Vigorously",
-  "description": "To grow with full health and vigor, the way a garden does when every condition aligns. 'Ruloi' names abundance: growth past what survival requires. It applies to gardens, communities, arts, and individuals alike.",
-  "sound_symbolism": "The word begins with 'r', the rolling consonant of richness and abundance—sound spilling forward continuously. The deep 'u' holds reserves of strength. Then 'lo' flows with liquid ease, growth spreading in all directions. Finally 'i' rises bright and visible, flourishing in full display.",
-  "grammatical_notes": "Functions as an intransitive verb: 'phireo ruloi.' (The plant flourishes.) Often used for communities and endeavors: 'sila ruloi.' (The community flourishes.) Stronger than 'thuroa' (grow); implies abundance, not just increase. Compare 'welira' (thrive).",
-  "pillars": {
-    "solarpunk-values": "Flourishing is the goal of regenerative systems—not mere sustainability but active thriving, life becoming more abundant through wise stewardship.",
-    "art-nouveau-aesthetics": "Flourishing is beauty in motion, the ornamental exuberance of life expressing its full capacity."
-  },
+  "search_terms": [
+    "grow vigorously",
+    "develop abundantly"
+  ],
+  "description": "Develop with vigorous growth or abundant activity. A rose or forest may 'ruloi'; so may an art or community when activity and production become plentiful. 'welira' (thrive) follows the health of a living subject, while ordinary increase is 'thuroa' (grow).",
+  "articulatory_notes": "Tap the tongue tip once at the alveolar ridge for 'r' and release into rounded high-back 'u'. Return the tip to the ridge for stressed 'l' and move into rounded middle-height back 'o'. Keep the final high-front 'i' separate rather than blending it with the preceding vowel.",
+  "sound_symbolism": "A tap and a lateral keep the middle of the word lively, and the separate final 'i' lifts away from the rounded vowel before it. The quick change offers a useful cue for vigorous activity.",
+  "usage_notes": "Use 'ruloi' intransitively. Abundance belongs to the activity or growth itself; available resources use 'lorua' (abundant), and actual useful yield uses 'poru' (productive).",
+  "examples": [
+    {
+      "phi": "lo shiro ruloi.",
+      "translation": "The trees flourish."
+    },
+    {
+      "phi": "sila ruloi.",
+      "translation": "The community flourishes."
+    }
+  ],
   "semantic_domains": {
-    "community": "Collective thriving",
-    "nature": "Vigorous, abundant growth"
+    "activity": "a practice or art developing with abundant activity",
+    "community": "vigorous growth in a community or language",
+    "nature": "abundant growth in plants or a living place"
   }
 }

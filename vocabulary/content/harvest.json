@@ -8,16 +8,27 @@
     "ki"
   ],
   "pos": "verb",
-  "concept": "Harvest / Reap / Gather Mature Crops",
-  "description": "To gather crops or other cultivated growth when it has reached maturity. 'Muraki' is the culmination of the agricultural cycle—the reward for patient tending, the moment when what was sown is finally reaped. It carries both labor and celebration.",
-  "sound_symbolism": "The word moves through the harvest arc. 'Mu' begins with nasal inwardness, assessing readiness. Then 'ra' reaches with flowing motion, arms gathering. Finally 'ki' cuts with velar precision, the ripe separated from the growing.",
-  "grammatical_notes": "'mia lureko muraki.' (I harvest fruit.) The noun sense, a harvest, is the event noun the rule provides: 'welao muraki' (a good harvest). Completes the cycle begun by 'thophe' (sow); the growing crop is kept with 'temoe' (tend).",
+  "search_terms": [
+    "reap",
+    "gather crops"
+  ],
+  "description": "Gather a mature crop or other useful cultivated growth. Through the event-noun rule, the same form names the work or occasion of harvest. 'sholei' (gather) is broader and can collect anything; 'muraki' carries the crop and its maturity with it.",
+  "articulatory_notes": "Close the lips for 'm', let the voice pass through the nose, and open into rounded high-back 'u'. Tap the tongue tip at the alveolar ridge for stressed 'r' and release into open central 'a'. Close the back of the tongue at the soft palate for 'k', then release into high-front 'i'.",
+  "sound_symbolism": "The form opens from a rounded nasal into broad stressed 'a', then the final velar closure gives way to a short bright vowel. That clean release can recall a crop coming free from stem or soil.",
+  "usage_notes": "The crop precedes 'muraki'. A quality can describe the event noun, as in 'welao muraki' (good harvest), but the verb alone does not promise plenty or celebration. Wild gathering normally uses 'sholei' unless the speaker treats the growth as a managed crop.",
+  "examples": [
+    {
+      "phi": "mia lureko muraki.",
+      "translation": "I harvest fruit."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "We harvest what we've sown—karma ripening into present experience. The reaping makes its causes visible: the sowing, the tending, the seasons between.",
-    "pre-industrial-wisdom": "Harvest time structures traditional calendars—communities gathered, labor shared, abundance celebrated. Harvest knowledge determines survival."
+    "pre-industrial-wisdom": "Harvest joins ripeness to a season and the labour available at that time. A community may celebrate it, but the practical knowledge begins with knowing what is ready."
   },
   "semantic_domains": {
-    "community": "Shared labor and celebration",
-    "nature": "Gathering mature crops"
+    "activity": "the work of gathering a mature crop",
+    "community": "a harvest carried out or marked by a household or community",
+    "nature": "cultivated growth gathered at maturity",
+    "temporal": "a crop gathered at the fitting stage or season"
   }
 }

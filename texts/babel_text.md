@@ -124,7 +124,7 @@ REL authority hold thing PL person ABL PROX place ON PL different way ON UNIV ea
 kjv: "and from thence did the LORD scatter them abroad upon the face of all the earth."
 ```
 
-**Notes:** `kuewa ka kelu`, cause to become unfamiliar, renders the confounding as a deliberate act. The purpose clause secures its intended result: speech from one another can no longer be understood. The dispersal does not use `thiwera`. That word's lexicon entry hears seed in the motion and promises somewhere to grow, which is the transmutation's reading rather than the King James judgment. The close version instead has authority send people away by different paths. Babel itself stays in the source citation. Phi can report that the city received a name and why, but it cannot supply the exact name without an accepted Phi-form onym.
+**Notes:** `kuewa ka kelu`, cause to become unfamiliar, renders the confounding as a deliberate act. The purpose clause secures its intended result: speech from one another can no longer be understood. The dispersal does not use `thiwera`. That word has an audible kinship with `thinoe`, seed, but only the transmutation's explicit comparison and garden coda make the scattering hopeful. The close version instead has authority send people away by different paths. Babel itself stays in the source citation. Phi can report that the city received a name and why, but it cannot supply the exact name without an accepted Phi-form onym.
 
 ### Complete translation
 
@@ -159,7 +159,7 @@ thelao nomei wei ha whalo silawo se loa. lao rena karami phelu thena mua ha loku
 | children of men | descendants of people | Lineage survives, while the masculine expression and its idiomatic sense of humankind do not. |
 | nothing will be restrained from them | no imagined action will become blocked for them | `noraku` names inability to proceed because of an obstacle, not restraint by an unnamed agent. |
 | confound their language | cause their language to become unfamiliar | The purpose clause supplies the intended loss of reciprocal understanding; `kuewa` itself is gentler than confounding. |
-| scattered abroad | caused to go from the place by different ways | The forced dispersal survives, but Phi avoids `thiwera`, whose seed image would prejudge the event as hopeful. |
+| scattered abroad | caused to go from the place by different ways | The forced dispersal survives without adding the transmutation's seed frame. |
 | Babel | a name was given, with Babel kept in the source line | The naming event and its cause survive; the exact source name and Hebrew wordplay do not enter the Phi passage. |
 
 ---
@@ -322,7 +322,7 @@ The two versions travel the same road from the east and fire the same clay-stone
 | the watcher | A being who holds authority comes from the sky to see. | The earth sees from where it already lies. | Translation preserves the practical relation inside LORD without lexicalizing the title. Transmutation changes the agent outright. |
 | human possibility | No action the builders have imagined will become blocked. | Everything they imagine can become for them. | Translation uses the source's negative prediction and its sense of unchecked action. Transmutation turns it into a plain affirmation of capacity. |
 | confounding | Language is made unfamiliar so that people cannot understand speech from one another. | One language is not enough, and one language becomes many. | Translation preserves intention and communicative loss. Transmutation treats plurality as what a large earth needs. |
-| dispersal | Authority causes people to leave by different ways across the earth. | The earth scatters people like seed. | Translation makes force and direction audible without the hopeful semantics of `thiwera`. Transmutation chooses that hope and follows it into the garden image. |
+| dispersal | Authority causes people to leave by different ways across the earth. | The earth scatters people like seed. | Translation makes force and direction audible without a seed frame. Transmutation supplies the comparison and follows it into the garden image. |
 | Babel | The city receives a name; Babel stays in the source line. | The village is named Many-Languages. | Translation will not invent an accepted onym or pretend to reproduce the Hebrew pun. Transmutation writes a new Phi naming story. |
 | ending | People leave the work and are dispersed again in the final account. | Every language is called a garden, and Phi joins the garden. | The source repeats the scattering. The transmutation answers that repetition with a coda of its own. |
 
