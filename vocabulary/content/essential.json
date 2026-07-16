@@ -8,16 +8,26 @@
     "tha"
   ],
   "pos": "adjective",
-  "concept": "Essential / Fundamental / Core Quality",
-  "description": "The quality of being absolutely necessary or constituting the core nature of something. 'Noetha' names what cannot be removed without losing identity—the irreducible heart.",
-  "sound_symbolism": "The word centers on core. 'No' settles with grounding presence, foundation found. 'E' opens to essence revealed. Then 'tha' breathes with philosophical depth, the soft dental fricative naming the abstract with gentle precision.",
-  "grammatical_notes": "Functions as adjective: 'noetha miona' (essential person). Describes what is fundamental, not optional. Core quality of things.",
+  "search_terms": [
+    "indispensable",
+    "necessary",
+    "necessary to a purpose"
+  ],
+  "description": "'noetha' marks something as indispensable to the identity, purpose, or result being considered. Water may be essential to a journey, and a criterion may be essential to a decision. 'monae' (integral) is narrower: it describes a part whose place inside a whole is indispensable.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and open into true-mid rounded back 'o'. Release the rounding and move the tongue forward into a separate stressed true-mid 'e', preserving the 'o.e' hiatus. Rest the tongue tip lightly against the upper teeth for unvoiced 'th', pass air along it, and finish with open central 'a'.",
+  "sound_symbolism": "Dental contact begins the word and returns at 'th'; the hiatus between them carries the stress. The mouth opens inside that frame and closes it again, a felt image for a condition held in place.",
+  "usage_notes": "The headless relative 'rena noetha nai' means that which is essential. Grammatical 'na' (NEC) makes an action necessary, while 'phelona' (require) states a requirement relation; 'noetha' describes the thing or condition judged indispensable.",
+  "examples": [
+    {
+      "phi": "ha kirema noetha nai.",
+      "translation": "This criterion is essential."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Essence seeking—the practice of discerning what truly matters from what is decoration.",
-    "pre-industrial-wisdom": "Essential tools—traditional knowledge of what is truly needed versus what clutters."
+    "solarpunk-values": "A plan can call water or access essential to its purpose. The claim leaves that purpose open to question before shortage turns it into policy."
   },
   "semantic_domains": {
-    "cognition": "Core recognition",
-    "wisdom": "Fundamental understanding"
+    "cognition": "an indispensable condition identified for a purpose, identity, or result",
+    "wisdom": "practical judgement about what a course cannot lose and still meet its purpose"
   }
 }

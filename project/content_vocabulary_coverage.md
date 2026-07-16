@@ -35,7 +35,8 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Social relation, standing, and personal boundaries | **DONE** | Eleven inherited base adjectives now use the target prose contract. Public status and betrayal remain deliberate compositions because their ordinary English senses divide across different Phi relations. |
 | Life, age, and bodily condition | **DONE** | Fourteen inherited base adjectives now use the target prose contract. The scan keeps living state, age, health, illness, bodily need, and fatigue apart without adding a root. |
 | Cultivation, abundance, and wildness | **DONE** | Seven inherited base adjectives now use the target prose contract. Plenty, fertility, actual yield, natural development, tameness, wildness, and practical cleanliness remain distinct without adding a root. |
-| Resume inherited content prose migration | **NEXT** | Continue after cultivation, abundance, and wildness. Each semantic group passes through this coverage gate. |
+| Structure, identity, and fit | **DONE** | Seven inherited base adjectives now use the target prose contract. Completion, complexity, difference, sameness, necessity, part-to-whole relation, and contextual fit remain distinct without adding a root. |
+| Resume inherited content prose migration | **NEXT** | Continue after structure, identity, and fit. Each semantic group passes through this coverage gate. |
 
 ## Batch overview
 
@@ -56,6 +57,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Social relation, standing, and personal boundaries | [PR #372](https://github.com/dcellison/phi/pull/372) | **COVERED** | Company, reciprocity, equal standing, self-presentation, agency, privacy, and interpersonal warmth remain distinct. No new root follows from the coverage pass. |
 | Life, age, and bodily condition | [PR #373](https://github.com/dcellison/phi/pull/373) | **COVERED** | The life arc, newness, present wellness, classified illness, hunger, thirst, and weariness remain distinct. Phi already has settled or natural constructions for dead, newborn, satiated, exhausted, and sleepy. |
 | Cultivation, abundance, and wildness | [PR #374](https://github.com/dcellison/phi/pull/374) | **COVERED** | Quantity, capacity for growth, actual yield, origin, human habituation, life outside cultivation, and ordinary cleanliness keep separate words. Scarcity, artificial origin, dirt, and exact sanitation remain compositions or source-level distinctions. |
+| Structure, identity, and fit | PR pending | **COVERED** | The seven roots keep required completion, structural complexity, comparison, indispensable conditions, integral parts, and contextual suitability apart. Similarity, partiality, complicatedness, and unsuitable fit remain natural compositions. |
 
 ## Semantic batches and stable domains
 
@@ -80,6 +82,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Social relation, standing, and personal boundaries | `activity`, `communication`, `community`, `emotion`, `ethics`, `physical`, `quantity`, `spatial`, `wisdom` | Shared action, reciprocal relation, equal measure, personal agency, access, and displayed manner remain separate claims. |
 | Life, age, and bodily condition | `nature`, `physical`, `temporal`, `creation`, `cognition`, `community` | Living state, developmental stage, recency, health, self-report, and reduced capacity remain separate claims. |
 | Cultivation, abundance, and wildness | `nature`, `physical`, `quantity`, `activity`, `creation`, `community` | Available plenty, capacity for growth, actual result, natural origin, ecological history, human familiarity, and cleanliness remain separate claims. |
+| Structure, identity, and fit | `activity`, `cognition`, `creation`, `nature`, `physical`, `wisdom` | Completion under a criterion, multi-part arrangement, comparative identity, indispensable conditions, integral components, and contextual suitability remain separate claims. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -399,6 +402,25 @@ Seven base adjectives describe what a place can support, what it currently yield
 
 No root is added. The existing words already let a speaker distinguish a field ready to grow from a garden that actually yields, and a wild animal from a tame one without treating either as morally better. `hiso` stays an ordinary working judgement; the stronger claims name pollution, purity, risk, or a sourced standard directly.
 
+## Structure, identity, and fit
+
+Seven base adjectives describe whether something has all it requires, how many relations its arrangement asks a person to follow, whether things match, and how a part or response belongs in a larger context. The coverage test keeps structural facts apart from difficulty, praise, truth, and human worth.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Complete, whole, ended, and pending | `sholu` (complete), `whoa` (whole), `lumae` (end), and `hasoru` (pending) | **COVERED** | Complete meets the requirements of a stated scope, whole holds together as one, end is the final point, and pending awaits another action or condition. |
+| Incomplete, unfinished, and partial | Negated `sholu`, `soli` (some), the completed and remaining steps, and any relevant portion or component | **COMPOSITIONAL** | An incomplete record lacks something required; unfinished work still has steps ahead; a partial intervention affects some of what could have been changed. Naming the missing or selected part is more useful than one adjective stretched across all three. |
+| Simple, complex, and difficult | `siloma` (simple), `ruka` (complex), and `kethua` (hard) | **COVERED** | Simplicity and complexity concern the number and arrangement of relations to follow. Hardness concerns effort, so a complex method can become easy through familiarity and a simple task can remain hard. |
+| Intricate or complicated | `ruka`, ordinary degree, `kethua`, and the parts or relations involved | **COMPOSITIONAL** | Intricacy is high complexity. When complicated also carries frustration or difficulty, a second quality states that experience instead of hiding it inside the structure. |
+| Same, different, equal, and equivalent | `senao` (same), `phirae` (different), `kolo` (equal), and `samethu` (equivalent) | **COVERED** | Sameness concerns identity or broad match, difference records a distinction, equality selects a measure or standing, and equivalence selects a meaning, function, or effect. |
+| Similarity and resemblance | A named shared property with `senao`, plus `phirae` for the differences that remain | **COMPOSITIONAL** | Two leaves may hold the same shape while differing in size or colour. The construction says where the resemblance lies instead of leaving its basis hidden. |
+| Essential condition, integral part, component, and whole | `noetha` (essential), `monae` (integral), `monaki` (component), and `whoa` (whole) | **COVERED** | An essential condition may stand outside the thing it supports. An integral part belongs inside the whole and is required there, while a component is identified by role whether or not it is indispensable. |
+| Requirement, action necessity, and necessary or sufficient conditions | `phelona` (require), `na` (NEC), `noetha`, and Philosophical `natheri` (entail) used in the appropriate direction | **COVERED** | Requirement relates something to what it needs, necessity scopes an action, and essential describes the indispensable condition. Logical necessity and sufficiency remain visible through the direction of entailment. |
+| Fitting, accurate, valid, and compatible | `theali` (fitting), `telua` (accurate), Philosophical `kithela` (valid), and Systems or Accessibility `thosami` (compatible) | **COVERED** | Fitting suits a context or purpose, accuracy agrees with a fact or reference, validity concerns an argument's structure, and compatibility concerns things working together under stated conditions. |
+| Unsuitable, inappropriate, and poor fit | Negated `theali`, the purpose or conditions, and the particular mismatch | **COMPOSITIONAL** | A method may fail to fit because of timing, access, material, or purpose. The reason belongs in the account, especially when another person bears the consequence. |
+
+No root is added. Two leaves can share a shape and differ in color. A component can be integral while an external condition remains essential, and `theali` asks only whether something suits its present purpose and circumstances.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -439,4 +461,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete, and the inherited content prose migration has now reached the end of cultivation, abundance, and wildness. The next semantic neighbourhood starts from here with the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete, and the inherited content prose migration has now reached the end of structure, identity, and fit. The next semantic neighbourhood starts from here with the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.

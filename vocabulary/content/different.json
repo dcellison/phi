@@ -8,16 +8,26 @@
     "e"
   ],
   "pos": "adjective",
-  "concept": "Different / Distinction-Present / This-Not-That",
-  "description": "The adjective naming the quality of being not the same, the relationship of distinction between things. In Phi, difference is understood not as opposition but as the diversity that enriches—the way distinct things create possibility through their variety. This word names the space between things that allows each to be itself.",
-  "sound_symbolism": "The word opens with 'phi', where the bilabial fricative breathes with abstract quality—difference as perception, as recognition of non-identity. This moves through 'ra', where the rolling 'r' adds the dynamic quality of distinction, the movement between different things. The final 'e' opens with clarity—difference clearly seen. The arc traces difference: abstract recognition, dynamic distinction, clear perception.",
-  "grammatical_notes": "Functions as an adjective: 'phirae keiro' (a different way). Comparison itself is handled by 'sheo' (than) and the particle 'mo' (CMPR); phirae simply names non-sameness. Contrasted with 'senao' (same).",
+  "search_terms": [
+    "distinct",
+    "unlike",
+    "non-identical"
+  ],
+  "description": "Two things are 'phirae' when a comparison finds a distinction on the basis at issue. The word can concern paths, forms, times, or choices without making one an opposite or ranking either one. 'senao' (same) makes a broad sameness claim, 'kolo' (equal) compares a selected amount or rank, and 'samethu' (equivalent) asks whether different forms do the same chosen job.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then move into high-front unrounded 'i'. Make a tap or short trill with the tongue tip for 'r' and open into stressed central 'a'. Move the tongue forward into a separate true-mid unrounded 'e', keeping the 'a.e' hiatus clear.",
+  "sound_symbolism": "The word changes gesture at each syllable: breath at the lips, a tap at the ridge, then an open vowel hiatus. The varied route is an embodied reminder of difference.",
+  "usage_notes": "The basis of comparison may be shared context or stated nearby. 'phirae keiro' is a different way; with a plural subject, the adjective reports a distinction among the things named.",
+  "examples": [
+    {
+      "phi": "ha wi themo ruela phirae nai.",
+      "translation": "These two paths are different."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Biodiversity depends on difference—each species distinct, each contributing. 'Phirae' names the variety that creates resilience.",
-    "secular-buddhist-philosophy": "Recognizing difference without judgment is equanimity. 'Phirae' names distinction without hierarchy."
+    "solarpunk-values": "Biodiversity requires organisms and habitats to remain distinguishable. 'phirae' states that variety before its effects are judged.",
+    "peace-linguistics-practices": "A speaker can state that positions differ without turning the distinction into opposition or unequal human worth."
   },
   "semantic_domains": {
-    "cognition": "the perception of distinction",
-    "spatial": "the relationship of non-equivalence"
+    "cognition": "comparative recognition that things differ in the relevant respect"
   }
 }

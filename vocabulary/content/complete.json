@@ -7,16 +7,24 @@
     "lu"
   ],
   "pos": "adjective",
-  "concept": "Complete / Having All Parts / Whole and Finished",
-  "description": "Having all necessary parts, elements, or steps; entire and whole. 'Sholu' names the quality of completeness—nothing missing, nothing more needed.",
-  "sound_symbolism": "The word finishes fully. 'Sho' /ʃo/ gathers with soft certainty, parts assembling. Then 'lu' settles into wholeness, completion achieved.",
-  "grammatical_notes": "Functions as an adjective: 'sholu riola' (complete work). Related to 'whoa' (whole) but emphasizes having all parts rather than undivided unity.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Each moment is complete—nothing needs to be added for this moment to be fully itself.",
-    "pre-industrial-wisdom": "Complete crafts needed nothing added—traditional work achieved fullness through sufficiency."
-  },
+  "search_terms": [
+    "finished",
+    "having every required part",
+    "all required steps done"
+  ],
+  "description": "'sholu' says that every part or step required by the present scope or criterion is present or finished. It can describe a set, account, process, or piece of work. 'whoa' (whole) describes a thing held together as one, while 'lumae' (end) names its final point; neither alone says that the requirements for completion have been met.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and let air pass through the narrow channel into stressed true-mid rounded back 'o'. Touch the tongue tip to the alveolar ridge for lateral 'l', let the voice pass along its sides, and raise the back of the tongue into high rounded 'u'.",
+  "sound_symbolism": "Air narrows through 'sh', then the voice flows around the sides of 'l' while both vowels remain rounded. The contour gathers and settles; it can recall loose parts brought into one finished account.",
+  "usage_notes": "Used as a noun, the form means completeness. A repair may be complete for the agreed task while later maintenance remains possible, since the task supplies the scope.",
+  "examples": [
+    {
+      "phi": "ha riola sholu nai.",
+      "translation": "This work is complete."
+    }
+  ],
   "semantic_domains": {
-    "physical": "All parts present",
-    "wisdom": "Nothing lacking"
+    "activity": "a task or process with every required step finished",
+    "cognition": "an account, set, or explanation containing what its stated scope requires",
+    "physical": "an object or assembly with every required part present"
   }
 }
