@@ -8,16 +8,27 @@
     "nu"
   ],
   "pos": "adjective",
-  "concept": "Immune / Having Conditioned Protection or Reduced Susceptibility",
-  "description": "Having conditioned protection or reduced susceptibility, scoped rather than absolute. Immunity can be strong against symptoms and weaker against transmission, and it can change with time, which is why the word never claims invulnerability.",
-  "sound_symbolism": "Hushed 'sho' fills a rounded opening with soft breath. Stressed 're' clears the air with a tongue roll and balanced 'e'. Final 'nu' settles at the teeth and deepens into nasal 'u'. A broad hush passes through one turn and comes to rest in a low held center.",
-  "grammatical_notes": "An adjective: 'shia shorenu nai.' (They are immune.) State the agent or outcome, evidence, degree, time, and conditions where relevant. The quality-noun rule supplies immunity. Distinct from 'shorupo' (protect), 'shuneki' (vaccinate), 'wolu' (healthy), 'welathi' (contagious), and absolute safety.",
+  "search_terms": [
+    "immunity",
+    "reduced susceptibility",
+    "protected against infection"
+  ],
+  "description": "A person or organism is 'shorenu' relative to a stated agent or outcome when an immune response gives protection or reduces susceptibility. Protection may be stronger against illness than against infection or transmission, and it can change with time. 'shuneki' (vaccinate) names an intervention intended to induce protection; the act alone does not establish immunity.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for unvoiced 'sh', pass air through its central groove, and round the lips into true-mid back 'o'. Make a tap or short trill with the tongue tip for 'r' and move into stressed true-mid front unrounded 'e'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with high rounded back 'u'.",
+  "sound_symbolism": "The rounded hush and following tongue turn echo the opening of 'shorupo' (protect), an audible kinship between protection and immune status.",
+  "usage_notes": "As an adjective, 'shorenu' stands before the bearer; as a predicate, it precedes 'nai' (be). Immunity is the noun reading. Context names the agent or outcome and the relevant time; exact test records and clinical classifications remain with their source.",
+  "examples": [
+    {
+      "phi": "shia shorenu nai.",
+      "translation": "They are immune."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "A qualified immunity term prevents protective status from becoming a binary claim of purity, invulnerability, or social worth."
+    "peace-linguistics-practices": "Scoping immunity to an agent or outcome lets communities discuss protection without sorting people by purity or worth."
   },
   "semantic_domains": {
-    "nature": "a biologically conditioned relation to an agent or outcome",
-    "physical": "partial or conditional bodily protection"
+    "nature": "an organism's immune relation to an agent or outcome",
+    "physical": "bodily protection or reduced susceptibility under stated conditions"
   },
   "modules": [
     "medical-and-bodily-care"

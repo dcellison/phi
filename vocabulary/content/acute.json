@@ -8,16 +8,26 @@
     "o"
   ],
   "pos": "adjective",
-  "concept": "Acute / Having a Recent, Rapid, or Short Clinical Course",
-  "description": "Recent, rapid, or short in its clinical course, describing time and nothing else. The same condition can be acute and mild or acute and severe, because how fast something arrived says nothing about how much it hurts; that is 'pelaku' (severity), a separate word for a separate question.",
-  "sound_symbolism": "A crisp velar closure releases 'ka' into broad 'a'. Stressed 'the' changes the hard contact into fine dental breath and balanced 'e'. Final 'o' stands alone across a clear hiatus. One round open beat remains after the fricative has faded.",
-  "grammatical_notes": "An adjective: 'ha kaworu katheo nai.' (This injury is acute.) State the relevant onset and time scale where they matter. The quality-noun rule supplies acute status. Distinct from 'nurawi' (chronic), 'pelaku' (severity), 'pukea' (danger), and 'tiso' (sharp).",
+  "search_terms": [
+    "acute course",
+    "recent clinical course",
+    "rapid onset"
+  ],
+  "description": "A condition is 'katheo' when its clinical course began recently, developed rapidly, or is expected to be short under the criteria being used. An acute injury may be mild or severe: 'pelaku' (severity) assesses degree of effect, while 'pukea' (danger) concerns possible harm. For persistence or return across the clinical source's duration, Phi uses 'nurawi' (chronic).",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release it into open central 'a'. Rest the tongue tip lightly against the upper teeth for unvoiced 'th', pass air along it, and move into stressed true-mid front unrounded 'e'. Keep final true-mid rounded back 'o' in its own syllable across the 'e.o' hiatus by drawing the tongue back and rounding the lips.",
+  "usage_notes": "Before a condition noun, 'katheo' describes its course; before 'nai' (be), it is the predicate. Noun use gives acute status. A chronic condition can have an acute episode, so context identifies which course the adjective describes and the time scale being used.",
+  "examples": [
+    {
+      "phi": "ha kaworu katheo nai.",
+      "translation": "This injury is acute."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Separating course from severity and danger prevents an acute label from becoming an unexplained urgency claim."
+    "peace-linguistics-practices": "Time course and severity stay separate, so a quick onset cannot masquerade as evidence of danger or urgency."
   },
   "semantic_domains": {
-    "cognition": "a clinical classification under a stated time scale",
-    "temporal": "a recent, rapid, or comparatively short course"
+    "physical": "recent onset, rapid development, or short duration in a bodily condition",
+    "temporal": "onset, development, and expected duration within a clinical course"
   },
   "modules": [
     "medical-and-bodily-care"

@@ -8,16 +8,27 @@
     "thi"
   ],
   "pos": "adjective",
-  "concept": "Contagious / Capable of Transmission Between Hosts Under Stated Conditions",
-  "description": "Capable of transmission between hosts under stated conditions. Contagious describes a capability, not a certainty that every contact spreads the agent, and never a verdict on the person carrying it.",
-  "sound_symbolism": "Rounded 'we' glides from the lips into balanced 'e'. Stressed 'la' lets the tongue flow through broad 'a'. Final 'thi' brings that movement to the teeth, where a fine breath rises into bright 'i'. Open at its center, the sound narrows steadily toward the end.",
-  "grammatical_notes": "An adjective: 'ha mokanu welathi nai.' (This disease is contagious.) State the agent, pathway, stage, conditions, evidence, and uncertainty where relevant. The quality-noun rule supplies contagiousness. Distinct from 'sewaro' (transmit), 'peshiro' (infection), 'perawi' (expose), 'pekira' (toxic), and 'pukea' (danger).",
+  "search_terms": [
+    "contagiousness",
+    "transmissible",
+    "communicable"
+  ],
+  "description": "A disease or infection is 'welathi' when an infectious agent can pass between hosts under the conditions being discussed. The adjective describes transmission potential; 'sewaro' (transmit) names the event or process, and 'perawi' (expose) names contact that may never lead to infection. When 'welathi' applies to a person, it describes that relation rather than character or blame.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then unround into true-mid front 'e'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and open into stressed central 'a'. Rest the tongue tip lightly against the upper teeth for unvoiced 'th', pass air along it, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The word moves from rounded lips through a lateral tongue contact to fine breath at the teeth. That forward travel makes a physical mnemonic for transmission between hosts.",
+  "usage_notes": "A disease, infection, agent, or host may carry the adjective; the quality noun is contagiousness. Context identifies the agent and route, then gives the stage or conditions under which transmission is possible. Phi's evidence and possibility particles carry uncertainty when the available evidence does not settle the claim.",
+  "examples": [
+    {
+      "phi": "ha mokanu welathi nai.",
+      "translation": "This disease is contagious."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Separating transmission capability from personal identity, blame, and authority supports protection without stigma or automatic exclusion."
+    "peace-linguistics-practices": "A host-to-host capability can guide precautions while leaving blame and social worth outside the transmission claim."
   },
   "semantic_domains": {
-    "nature": "a biological capacity for transmission between hosts",
-    "physical": "transmission capability under stated bodily and environmental conditions"
+    "nature": "an infectious agent's capacity to pass between living hosts",
+    "physical": "transmission potential under stated bodily or environmental conditions"
   },
   "modules": [
     "medical-and-bodily-care"

@@ -41,7 +41,8 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Access, perception, and independent participation | **DONE** | Eight inherited adjectives now use the target prose contract. Shared-core disability and seven Accessibility module qualities keep access, practical use, support, self-direction, and sensory availability distinct without adding a root. |
 | System fit, equivalence, and dependable performance | **DONE** | Six inherited module adjectives now use the target prose contract. Compatibility, bounded equivalence, efficiency, predictability, redundancy, and reliability remain distinct without adding a root. |
 | Work timing, status, capability, and answerability | **DONE** | Six inherited module adjectives now use the target prose contract. Different-time participation, blocked work, competence, expertise, qualification, and accountability remain distinct without adding a root. |
-| Resume inherited content prose migration | **NEXT** | Continue after work timing, status, capability, and answerability. Each semantic group passes through this coverage gate. |
+| Medical course, transmission, and treatment response | **DONE** | Five inherited Medical module adjectives now use the target prose contract. Course, transmission potential, immune protection, and sourced advice remain distinct without adding a root. |
+| Resume inherited content prose migration | **NEXT** | Continue with confidence, consistency, legitimacy, and validity. Each semantic group passes through this coverage gate. |
 
 ## Batch overview
 
@@ -68,6 +69,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Access, perception, and independent participation | [PR #378](https://github.com/dcellison/phi/pull/378) | **COVERED** | The eight roots keep access to an activity, operation at the point of use, support, disability, self-direction, and sensory availability apart. Negative qualities, visible availability, interdependence, and exact legal or technical classifications remain ordinary compositions or source material. |
 | System fit, equivalence, and dependable performance | [PR #379](https://github.com/dcellison/phi/pull/379) | **COVERED** | The six roots keep technical cooperation, a selected match, input-to-output performance, advance knowability, independent alternatives, and repeated function apart. Robustness, maintainability, and exact conformance remain compositions or source-level tests. |
 | Work timing, status, capability, and answerability | [PR #380](https://github.com/dcellison/phi/pull/380) | **COVERED** | The six roots keep participation across time, an obstacle to progress, present practical ability, deep domain practice, prerequisites met, and required answerability apart. Synchronous activity, experience, mastery, and legal status remain ordinary constructions or source-level distinctions. |
+| Medical course, transmission, and treatment response | [PR #381](https://github.com/dcellison/phi/pull/381) | **COVERED** | Acute and chronic course, contagiousness, immunity, and contraindication keep their own evidence and relations. Remission, susceptibility, treatment resistance, urgency, and exact clinical classifications remain explicit compositions or source-level claims. |
 
 ## Semantic batches and stable domains
 
@@ -98,6 +100,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Access, perception, and independent participation | `activity`, `aesthetic`, `cognition`, `communication`, `community`, `creation`, `physical`, `spatial` | Reaching an activity, operating what has been provided, receiving support, directing one's act, and distinguishing information through a sensory channel remain separate claims. |
 | System fit, equivalence, and dependable performance | `activity`, `cognition`, `communication`, `community`, `creation`, `temporal` | Working together, matching for one purpose, using resources well, anticipating an event, surviving one failure, and performing repeatedly remain separate claims. |
 | Work timing, status, capability, and answerability | `activity`, `cognition`, `communication`, `community`, `ethics`, `temporal`, `wisdom` | Timing, work state, demonstrated performance, learned depth, institutional standing, and answerability remain separate routes. |
+| Medical course, transmission, and treatment response | `cognition`, `nature`, `physical`, `temporal` | Clinical course, transmission capability, bodily protection, and a sourced judgement about an intervention remain separate claims. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -531,6 +534,22 @@ Six module adjectives meet around a workshop table but do different work. A task
 
 No root is added. The certificate on the wall, the hands at the bench, and the committee awaiting an answer each make a different claim. Phi already has a word for each relation that needs one and enough ordinary grammar to keep the rest honest.
 
+## Medical course, transmission, and treatment response
+
+A chronic illness flares acutely while an infection is still contagious. One person has partial immunity, and a proposed medicine is contraindicated for them. The five Medical and Bodily Care adjectives belong in the same discussion, but they answer four different questions: course, transmission, protection, and advice.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Acute, chronic, stable, severe, and urgent | Medical `katheo` (acute), `nurawi` (chronic), and `pelaku` (severity), with base `mureo` (stable), `pukea` (danger), time expressions, and necessary action | **COVERED** | Acute and chronic classify course. Stability concerns resistance to change, severity ranks effect under a criterion, and urgency joins possible harm to the time available for action. |
+| Acute episodes within chronic conditions, subacute course, and exact course classes | `katheo` and `nurawi` applied to the course each describes, ordinary duration and change clauses, and the exact source classification where its identity matters | **COMPOSITIONAL** | A chronic condition may have an acute episode without forcing either adjective to absorb the other. Finer clinical categories keep their criteria and source rather than becoming broad Phi synonyms. |
+| Remission, recurrence, worsening, improvement, recovery, and relapse | Medical `helanu` (recover) and `morashi` (relapse), with the relevant symptom, finding, baseline, criterion, time, and observed change | **COMPOSITIONAL** | Recovery is person-defined and may be partial. Relapse names return after improvement within the same understood course; the other changes depend on what changed and which source defines the course. |
+| Contagiousness, transmission, exposure, infection, and infectious disease | Medical `welathi` (contagious), `sewaro` (transmit), `perawi` (expose), and `peshiro` (infection), with a causal clause or exact source class for infectious disease | **COVERED** | Contagiousness is a capability under conditions, transmission is passage along a route, exposure is contact, and infection places an active agent in relation to a host. A disease caused by infection can state that cause directly. |
+| Immunity, vaccination, protection, susceptibility, and treatment resistance | Medical `shorenu` (immune) and `shuneki` (vaccinate), base `shorupo` (protect), possibility and negation for susceptibility, and the exact tested relation for resistance | **COMPOSITIONAL** | Immunity is scoped to an agent or outcome. Vaccination is an act, while susceptibility asks what may happen under conditions. Resistance to a treatment needs the agent, medicine, test, and criterion that support the claim. |
+| Contraindicated, harmful, adverse, allergic, refused, and unauthorized | Medical `nathoku` (contraindicated), `whekaro` (adverse effect), and `whemaki` (allergy), with base `peloma` (harmful), `naweri` (refuse), and Commons `kanuwa` (authorize) | **COVERED** | Contraindication reports sourced advice against an intervention. Harm and adverse effect concern what happened or may happen, allergy names a particular immune relation, refusal belongs to the person, and authorization belongs to an institution. |
+| Indicated or recommended care and exact contraindication classes | A sourced claim with its reason, expected benefit, alternatives, and `theali` (fitting), beside the exact recommendation or classification when its wording carries clinical force | **DEFERRED** | A broad inverse of contraindicated would hide whether the source judged a treatment suitable, beneficial, necessary, or merely preferable. Exact absolute or relative classifications and any time limit stay with their criteria. |
+
+No root is added. An acute episode can interrupt a chronic course without changing the meaning of either adjective. A vaccine can be given without establishing immunity, and a contraindication can be recorded without deciding for the person.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -571,4 +590,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete, and the inherited content prose migration has now reached the end of work timing, status, capability, and answerability. The next semantic neighbourhood starts from here with the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete, and the inherited content prose migration has now reached the end of medical course, transmission, and treatment response. The next semantic neighbourhood begins with confidence, consistency, legitimacy, and validity under the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.

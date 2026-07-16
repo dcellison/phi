@@ -282,7 +282,7 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `wira` | window | View portal |
 
-## cognition (237)
+## cognition (235)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -301,7 +301,6 @@
 | `kanelu` | err | The wrong step, named without shame |
 | `kanu` | choose | The act of selecting among alternatives |
 | `kanuro` | decision | a choice assigned settled or actionable status |
-| `katheo` | acute | a clinical classification under a stated time scale |
 | `kelai` | equals | Announces mathematical results through explicit statement |
 | `kelomi` | accept | Acknowledging reality |
 | `kelu` | become | developing understanding and awareness |
@@ -357,7 +356,7 @@
 | `nai` | be | establishing identity and predication |
 | `nasholu` | rule | a stated normative prescription with conditions and scope |
 | `natheri` | entail | a necessary truth-preserving relation between propositions |
-| `nathoku` | contraindicated | a source-bounded judgment against a proposed intervention |
+| `nathoku` | contraindicated | a sourced clinical judgement about a proposed intervention |
 | `nila` | see | visual information entering awareness |
 | `nilaki` | inspect | a structured relation among observations, scope, and assessment |
 | `noetha` | essential | an indispensable condition identified for a purpose, identity, or result |
@@ -374,7 +373,6 @@
 | `nulae` | sleep | alternative consciousness state essential for memory and mental processing |
 | `nulomi` | guts | The seat of wordless knowing |
 | `nuphari` | fog | Perception limited |
-| `nurawi` | chronic | a clinical classification under a stated duration |
 | `nuwi` | clear | meaning or structure that can be followed without a tangle |
 | `palethu` | tactile | information distinguished through tactile perception |
 | `pekira` | toxic | a conditioned assessment of biological harm capability |
@@ -1389,7 +1387,7 @@
 | `shioli` | silver | Precious metal |
 | `shiro` | tree | the great standing plants bridging earth and sky |
 | `shomelu` | shadow | The dark that light casts |
-| `shorenu` | immune | a biologically conditioned relation to an agent or outcome |
+| `shorenu` | immune | an organism's immune relation to an agent or outcome |
 | `shumu` | moss | Non-vascular plant |
 | `shupi` | plateau | Elevated flat land |
 | `sihewa` | breeze | Gentle air movement |
@@ -1438,7 +1436,7 @@
 | `wapi` | fly | The motion of birds and wind-borne things |
 | `wapile` | wing | Flight's limb |
 | `welamu` | elm | The tree of the riverside lane |
-| `welathi` | contagious | a biological capacity for transmission between hosts |
+| `welathi` | contagious | an infectious agent's capacity to pass between living hosts |
 | `welura` | spread | Offers spreading as a metaphor for multiplication |
 | `wemo` | plain | Flat open land |
 | `weoli` | reed | Wetland plant |
@@ -1457,7 +1455,7 @@
 | `wolea` | wood | Tree material |
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 
-## physical (347)
+## physical (349)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1486,6 +1484,7 @@
 | `kalei` | climb | Grip and pull upward |
 | `kalora` | horse | The road's living engine |
 | `katemu` | offcut | a separated piece with its own dimensions and condition |
+| `katheo` | acute | recent onset, rapid development, or short duration in a bodily condition |
 | `kati` | cut | Clean separation by an edge |
 | `katiru` | knife | The kitchen and workbench tool |
 | `kawepa` | catch | The hand closing on arrival |
@@ -1592,7 +1591,7 @@
 | `napa` | bread | Baked grain food |
 | `napako` | bake | heat reaching food from an enclosing chamber |
 | `naphelu` | assistive | support for a bodily or sensory function |
-| `nathoku` | contraindicated | a clinical relation between an intervention and bodily conditions |
+| `nathoku` | contraindicated | advice based on the relation between an intervention and bodily conditions |
 | `natu` | pull | Drawing closer |
 | `nekuma` | meat | Weight on the table |
 | `nepha` | medicine | Restoration |
@@ -1614,6 +1613,7 @@
 | `numea` | nestle | The settling into warmth |
 | `nuola` | eat | the bodily act of taking nourishment |
 | `nuora` | food | what sustains bodily life |
+| `nurawi` | chronic | persistence or recurrence in a bodily health condition |
 | `nurome` | meal | a bounded preparation of food |
 | `nuwera` | bed | The household place of sleep |
 | `nuwi` | clear | low visual obstruction in water, air, or another material |
@@ -1709,7 +1709,7 @@
 | `sholu` | complete | an object or assembly with every required part present |
 | `shonui` | ear | Organ of hearing |
 | `shonuwa` | sound | an acoustic event or the medium available to hearing |
-| `shorenu` | immune | partial or conditional bodily protection |
+| `shorenu` | immune | bodily protection or reduced susceptibility under stated conditions |
 | `shoru` | dull | an edge or point that no longer cuts or pierces readily |
 | `shorui` | weary | bodily depletion after effort, wakefulness, strain, or illness |
 | `shorupo` | protect | Creating safety through presence |
@@ -1775,7 +1775,7 @@
 | `wapi` | fly | Lift and wingbeat |
 | `wapile` | wing | The bird's instrument |
 | `weilo` | balanced | equilibrium among weights or forces |
-| `welathi` | contagious | transmission capability under stated bodily and environmental conditions |
+| `welathi` | contagious | transmission potential under stated bodily or environmental conditions |
 | `welira` | thrive | Healthy, successful development |
 | `welisha` | color | a perceived property of surfaces or light |
 | `weloni` | body | The whole living frame |
@@ -2051,7 +2051,7 @@
 | `hurao` | patient | a disposition towards delay and processes that take time |
 | `kaero` | phase | Cycle segment |
 | `kamo` | arrive | Moment of journey's completion |
-| `katheo` | acute | a recent, rapid, or comparatively short course |
+| `katheo` | acute | onset, development, and expected duration within a clinical course |
 | `kelai` | equals | Can mark an operation's stated outcome; pure equality is not temporal |
 | `keloi` | summer | Abundance season |
 | `kelu` | become | transforming through time and process |
@@ -2112,7 +2112,7 @@
 | `noshi` | near (adj) | a time close to the present or another stated moment |
 | `nowae` | awaken | daily transition marking time's rhythm |
 | `nulae` | sleep | structures temporal experience through daily cycles and circadian rhythms |
-| `nurawi` | chronic | a persisting, recurring, or ongoing course |
+| `nurawi` | chronic | continuation or return across a duration set by a clinical source |
 | `nuri` | cycle | Recurring pattern |
 | `nuwoe` | stage | Development level |
 | `phaeno` | week | Seven-day cycle |
