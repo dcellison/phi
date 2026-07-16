@@ -8,16 +8,23 @@
     "lu"
   ],
   "pos": "verb",
-  "concept": "Form / Create Structure / Bring into Being",
-  "description": "To bring something into structured existence—giving it the organization and boundaries that make it a distinct thing. 'Norelu' emphasizes the emergence of pattern from possibility, the moment when what was vague becomes defined, when potential crystallizes into actual.",
-  "sound_symbolism": "The word moves from openness to definition. 'No' begins with nasal inwardness, the idea forming within. Then 're' reaches outward, intention becoming expression. Finally 'lu' flows into settled form, liquid finding its container.",
-  "grammatical_notes": "'mia thena norelu.' (I form something.) The result noun comes by the event-noun rule, possessor first: 'thena norelu' (the thing's form). More abstract than 'kire' (shape); norelu applies to concepts and relationships as well as physical objects.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Forms arise from conditions and return to formlessness—understanding formation reveals impermanence.",
-    "art-nouveau-aesthetics": "Natural forms inspire human forming—the spiral, the branch, the wave teaching the hand what shapes want to exist."
-  },
+  "search_terms": [
+    "take form",
+    "organise into a structure"
+  ],
+  "description": "People form a community, ice forms on water, or separate parts acquire an organised structure. 'norelu' centres the coming about of that definite arrangement. 'kire' (shape) concerns a thing's configuration or drawn form, while 'norelu' can organise physical or abstract parts into a whole.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n' and let air pass through the nose into middle-height back rounded 'o'. Tap the tongue tip against the alveolar ridge before stressed middle-height front 'e', then return the tip to the ridge for 'l' and finish with high-back rounded 'u'.",
+  "sound_symbolism": "The tongue moves from dental nasal to tap to lateral while the voice continues. Those linked changes give 'norelu' a gathered, settling motion.",
+  "usage_notes": "The organiser is the subject and the emerging structure is the direct object. Passive 'se' centres a structure whose organiser is unknown or beside the point. The event noun is formation when the process matters and a structured form when the result does.",
+  "examples": [
+    {
+      "phi": "lo mia sila norelu.",
+      "translation": "We form a community."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "Understanding pattern and organization",
-    "creation": "Bringing structure into existence"
+    "activity": "bringing people, parts, or material into an organised arrangement",
+    "creation": "a definite structure coming into existence",
+    "physical": "matter acquiring an observable arrangement or boundary"
   }
 }

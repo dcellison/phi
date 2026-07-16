@@ -7,16 +7,27 @@
     "ko"
   ],
   "pos": "verb",
-  "concept": "Craft / Make with Skill / Artisanal Creation",
-  "description": "To make something with learned skill and careful attention—the practiced hand shaping material into useful or beautiful form. 'Theko' implies accumulated knowledge, trained sensitivity, and the marriage of intention with capability that distinguishes craft from mere assembly.",
-  "sound_symbolism": "The word begins with 'the' /θe/, the dental fricative of thoughtful precision—breath controlled, attention focused. The 'e' engages with material. Then 'ko' concludes with velar firmness, the made thing taking solid form.",
-  "grammatical_notes": "'mia noru theko.' (I craft a bowl.) Material takes the instrumental: 'mia roe wolea noru theko.' (I craft a bowl from wood.) The event-noun rule licenses 'welao theko' (fine craft). Compare 'kealo' (create) for bringing the new into being and 'lorima' (build) for structural assembly.",
+  "search_terms": [
+    "make skilfully",
+    "artisan work"
+  ],
+  "description": "A practiced hand turns wood, clay, fibre, or another medium into a deliberate work. 'theko' is making carried out with learned skill. It does not certify that the result is safe or successful; 'pokera' (competent) reports ability against a stated criterion, and 'thonuki' (fail) reports a missed requirement.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th' and let air pass along it into stressed middle-height front 'e'. Press the back of the tongue against the soft palate for unvoiced 'k', release it, and round the lips for middle-height back 'o'.",
+  "sound_symbolism": "Controlled dental breath meets the firmer closure of 'k', then rounds out. The movement has the measured finish of a practised stroke.",
+  "usage_notes": "The crafted work is the direct object, and its material or tool takes instrumental 'roe'. In noun position, 'theko' names craft as an activity or one piece of skilled work.",
+  "examples": [
+    {
+      "phi": "mia noru theko.",
+      "translation": "I craft a bowl."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Craft unites beauty and function, the artisan's touch visible in the made thing.",
-    "pre-industrial-wisdom": "Craft carries generations of accumulated skill—hands learning from hands, knowledge embodied in technique rather than text."
+    "art-nouveau-aesthetics": "Craft lets construction, surface, and ornament remain legible in the work instead of disguising how the thing was made.",
+    "pre-industrial-wisdom": "Much craft knowledge passes by watching a practiced hand, attempting the movement, and being corrected at the work itself."
   },
   "semantic_domains": {
-    "creation": "Skilled making",
-    "wisdom": "Embodied, practiced knowledge"
+    "activity": "making carried out through learned practical skill",
+    "creation": "producing a deliberate work in a chosen material or medium",
+    "wisdom": "knowledge held and demonstrated through repeated practice"
   }
 }

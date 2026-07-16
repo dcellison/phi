@@ -8,16 +8,25 @@
     "te"
   ],
   "pos": "verb",
-  "concept": "Break / Coming Apart / The Snap",
-  "description": "To break: to come apart and stop being whole. The dropped cup, the overwound spring, the branch under snow, the promise under strain. 'Pukate' states the event without blame; things break, and the language says so plainly, because only what is plainly said can be plainly mended. Its answer-words are already waiting: 'shiroka' (repair) and 'talome' (restore).",
-  "sound_symbolism": "Three stops in a row, 'p', 'k', 't', the most boundary-sounds any Phi word carries: pressure, the snap, the pieces. The vowels travel u to a to e, closed to open to neither, wholeness surprised into fragments. A word that breaks in the mouth the way its meaning breaks in the hand.",
-  "grammatical_notes": "Intransitive at base, the broken thing as subject: 'soeli to pukate.' (The cup broke.) Breaking something is ordinary Slot 1 voice: 'lopia soeli to ka pukate.' (The child broke the cup.) The event noun, a break, comes by rule. Pairs with 'shiroka' (repair); 'pukea' (danger) is its near-of-kin in sound, the warning before the snap.",
+  "search_terms": [
+    "come apart",
+    "snap"
+  ],
+  "description": "A dropped cup comes apart, or a spring loses the wholeness that let it work. 'pukate' names that complete break. 'pukeri' (damage) covers a worsening condition or function when the thing may still remain whole.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release them into high-back rounded 'u'. Press the back of the tongue against the soft palate for 'k', release it into stressed open central 'a', then place the tongue tip against the backs of the upper teeth for dental 't' and finish with middle-height front 'e'.",
+  "sound_symbolism": "With closures at the lips, soft palate, and teeth, the mouth keeps stopping and starting. The word itself arrives in pieces.",
+  "usage_notes": "The thing that breaks is the subject at base. Causative 'ka' adds the person or force that breaks it, and the event-noun rule supplies a break.",
+  "examples": [
+    {
+      "phi": "soeli to pukate.",
+      "translation": "The cup broke."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Impermanence at its bluntest: whatever is assembled comes apart. Naming the event without flinching is half of accepting it.",
-    "pre-industrial-wisdom": "A mending culture needs breaking said exactly: the crack named is the crack repaired, and nothing is thrown away for want of a word."
+    "pre-industrial-wisdom": "Repair begins by noticing whether a thing is worn, damaged, or fully broken. 'pukate' keeps the last condition available without treating disposal as its necessary result."
   },
   "semantic_domains": {
-    "cognition": "The event named so mending can follow",
-    "physical": "Wholeness coming apart"
+    "activity": "an event in which a whole loses the structure or continuity that held it together",
+    "physical": "complete loss of wholeness in an object or material"
   }
 }

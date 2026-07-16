@@ -8,16 +8,26 @@
     "ma"
   ],
   "pos": "verb",
-  "concept": "Build / Construct / Erect Structure",
-  "description": "To construct something by assembling parts into a larger whole—raising structures, creating systems, bringing components together into functional unity. 'Lorima' emphasizes the progressive assembly, layer upon layer, piece joined to piece until the whole stands.",
-  "sound_symbolism": "The word begins with 'lo', the liquid of laying foundations—smooth, flowing placement. Then 'ri' rises with rolling energy, structure climbing upward. Finally 'ma' makes solid with nasal grounding, the built thing standing firm.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia womu lorima' (I build a house). Can take instrumental phrases with 'roe' (with, INS): 'mia roe wolea womu lorima' (I build a house with wood). Related to 'theko' (craft) but emphasizes assembly and structure over skilled shaping.",
+  "search_terms": [
+    "construct",
+    "assemble"
+  ],
+  "description": "People join timbers into a home, stones into a wall, or parts into a working system. 'lorima' builds a larger structure by assembling components or layers. 'kire' (shape) changes a part's configuration, while 'theko' (craft) says that practiced skill guides the making.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l' and let air pass along its sides into middle-height back rounded 'o'. Tap the tongue tip against the ridge before stressed high-front 'i', then close the lips for voiced 'm' and release into open central 'a'.",
+  "sound_symbolism": "Lateral, tap, and lip closure place three distinct contacts in sequence. 'lorima' gathers itself by stages, a useful echo of assembly.",
+  "usage_notes": "The structure being built is the direct object. Components, materials, tools, location, and collaborators take their ordinary phrases. Building can proceed horizontally or within an abstract system; the verb does not require upward construction.",
+  "examples": [
+    {
+      "phi": "lo miona womu lorima.",
+      "translation": "The people build a home."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Building sustainably means constructing with future generations in mind—materials that return to earth, structures that serve communities.",
-    "pre-industrial-wisdom": "Traditional building worked with local materials and inherited techniques, structures rising from and suited to their place."
+    "solarpunk-values": "Every building commits material and energy, then leaves questions of access and maintenance to the people who inherit it. 'lorima' names the construction clearly enough for those later questions to be asked."
   },
   "semantic_domains": {
-    "community": "Creating shelter and shared spaces",
-    "creation": "Constructing structures"
+    "activity": "assembling components or layers into a larger structure",
+    "creation": "constructing buildings, devices, or organised systems",
+    "physical": "joining material parts so that a structure stands or works"
   }
 }

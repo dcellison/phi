@@ -8,17 +8,26 @@
     "li"
   ],
   "pos": "verb",
-  "concept": "Dig / Open the Earth / Work Downward into Soil",
-  "description": "To dig: the planting hole, the well, the root from the ground. Opening the earth with hands or tools. Built on the sound of 'muila' (earth) — digging is earth-work by name.",
-  "sound_symbolism": "'mu' is the soil itself (the first syllable of 'muila'), 'ho' the breath of effort, 'li' the passage downward and through. Earth, work, way: the deed in order.",
-  "grammatical_notes": "Transitive: 'lo mia thepalu muholi.' (We dig the garden.) For planting: 'mia lila thinoe muholi.' (I dig for the seeds.)",
+  "search_terms": [
+    "excavate"
+  ],
+  "description": "Hands or a tool displace earth to make a planting hole, a trench, or a well. 'muholi' is this removal of soil or another workable material to open or extend a space. The movement may go down, across, or around an obstruction; depth belongs to the particular work.",
+  "articulatory_notes": "Close the lips for voiced 'm' and carry its resonance through the nose into high-back rounded 'u'. Let breath pass through the open glottis into stressed middle-height back rounded 'o', then touch the tongue tip to the alveolar ridge for 'l' and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The opening 'mu' echoes 'muila' (earth), an existing family resemblance rather than hidden morphology. After that closed beginning, the breathy middle opens into a light lateral finish, as though the word has found room in the soil.",
+  "usage_notes": "The ground or material being worked is the direct object. Purpose, tool, direction, and the opening produced use their ordinary phrases; the verb itself does not require downward movement.",
+  "examples": [
+    {
+      "phi": "lo mia muila so muholi.",
+      "translation": "We will dig the earth."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Soil turned by hand at garden scale — the future's agriculture looks like careful digging, not extraction.",
-    "pre-industrial-wisdom": "Everything began with digging: the well, the cellar, the grave, the garden. The spade is the honest tool of settlement."
+    "pre-industrial-wisdom": "Gardens, wells, and foundations each require a different way of opening the ground. 'muholi' supplies the shared action while the soil, tool, and purpose keep the work particular."
   },
   "semantic_domains": {
-    "activity": "Earth-work",
-    "nature": "Opening the soil",
-    "physical": "Working downward"
+    "activity": "removing or shifting workable material to make an opening",
+    "nature": "working soil in gardens, fields, and water access",
+    "physical": "displacement of earth or similar material",
+    "spatial": "creating or extending a hollow, trench, or passage"
   }
 }

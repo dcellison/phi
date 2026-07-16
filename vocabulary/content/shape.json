@@ -7,16 +7,27 @@
     "re"
   ],
   "pos": "verb",
-  "concept": "Shape / Give Form / Mold",
-  "description": "To give form to material, pressing, carving, or molding it into intended configuration. 'Kire' names the act of imposing or discovering form—the potter's hands on clay, the sculptor revealing figure in stone, the smith hammering metal into curve and edge.",
-  "sound_symbolism": "The word is brief and precise like the shaper's decisive gesture. 'Ki' cuts with velar clarity, the moment of defining. The high 'i' focuses intent. Then 're' results, the shaped thing emerging from the shaping act.",
-  "grammatical_notes": "'mia mueri kire.' (I shape clay.) The result noun comes by the event-noun rule: 'welao kire' (good shape, beautiful form). Can specify result with a preposition phrase: 'mia wolea muo noru kire.' (I shape wood into a bowl.)",
+  "search_terms": [
+    "draw",
+    "mould"
+  ],
+  "description": "A potter changes the curve of clay, a carver works a figure from wood, or a pencil gives a sheep its drawn outline. 'kire' gives material or a line a particular configuration. 'norelu' (form) concerns a definite structure coming together, while 'theko' (craft) adds practiced skill to the making.",
+  "articulatory_notes": "Press the back of the tongue against the soft palate for unvoiced 'k' and release into stressed high-front unrounded 'i'. Tap the tongue tip against the alveolar ridge, then finish with middle-height front unrounded 'e'.",
+  "sound_symbolism": "A firm velar release and quick tap make 'kire' concise in the mouth. It feels like the small decisive adjustment by which a line becomes recognisable.",
+  "usage_notes": "The material or drawn subject is the direct object. A tool takes instrumental 'roe', and a resulting configuration may be stated with 'muo' (INTO). In noun position, 'kire' names the act or work of shaping and drawing, as well as shape or form.",
+  "examples": [
+    {
+      "phi": "mia mueri kire.",
+      "translation": "I shape clay."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "We shape our minds as potters shape clay—with patience, attention, and repeated gentle effort.",
-    "art-nouveau-aesthetics": "Shaping follows material's nature—curves that clay wants to hold, forms that wood grain suggests. The shaper listens as much as imposes."
+    "art-nouveau-aesthetics": "Art Nouveau shaping often followed the curve already visible in a stem, body, or length of worked material. 'kire' can name both the observed contour and the hand's answer to it."
   },
   "semantic_domains": {
-    "aesthetic": "Discovering and creating beauty in form",
-    "creation": "Giving form to material"
+    "activity": "working material or a line into a chosen configuration",
+    "aesthetic": "drawing and shaping visible form",
+    "creation": "giving an object or image its outline and surface form",
+    "physical": "changing the configuration of material"
   }
 }

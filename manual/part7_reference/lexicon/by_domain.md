@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (227)
+## activity (233)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -28,9 +28,10 @@
 | `kanuwa` | authorize | granting bounded permission or decision power |
 | `kasira` | vote | formally registering a choice or stance |
 | `katemu` | offcut | a remainder produced during cutting or shaping |
-| `kati` | cut | The craft act of dividing material |
+| `kati` | cut | using an edge to divide or open material |
 | `kawepa` | catch | intercepting a moving person or thing |
 | `kawhera` | coerce | using power or threat to constrain another person's practical choice |
+| `kealo` | create | bringing a new work, idea, or arrangement into existence |
 | `kelasu` | usable | a person able to carry out an intended purpose with a thing or process |
 | `kelitho` | function | performance of a characteristic or required system operation |
 | `kelomi` | accept | taking up an offered object, role, condition, or course |
@@ -38,6 +39,7 @@
 | `kethua` | hard | a task or condition that demands substantial effort |
 | `ketora` | control | adjustment or constraint of a technical process |
 | `kiranu` | qualified | eligibility for a stated role or activity |
+| `kire` | shape | working material or a line into a chosen configuration |
 | `kisome` | assess | evaluating a performance, state, or result |
 | `kithawu` | triage | assessing and ordering care under constraints |
 | `kiwate` | bite | teeth closing on or into a person or thing |
@@ -47,7 +49,7 @@
 | `kolupe` | bucket | carrying liquid or loose material by hand |
 | `kopharu` | barrier | a condition obstructing a stated action |
 | `kupe` | hide | Placing out of sight |
-| `kuremi` | grind | The kitchen's oldest transformation |
+| `kuremi` | grind | working material repeatedly against hard surfaces |
 | `laniru` | journey | extended travel gathered into one event |
 | `leiro` | release | ending a hold or containment so something can move away |
 | `lepa` | fall | an event in which a body loses support and descends |
@@ -56,6 +58,7 @@
 | `loa` | give | directing something towards a recipient through an act of giving |
 | `loatho` | delegate | entrusting a bounded role or action to a recipient |
 | `lokane` | accessible | a route, tool, or arrangement available for a particular activity |
+| `lorima` | build | assembling components or layers into a larger structure |
 | `loshenu` | clearance | free room for a stated movement or operation |
 | `lumethi` | deadline | a time boundary attached to an expected action or result |
 | `lupaki` | fold | laying one part of flexible material over another |
@@ -73,7 +76,7 @@
 | `misharo` | consult | seeking a view before a pending action |
 | `molawi` | cooperate | adjusting separate actions so they work compatibly |
 | `morume` | decompose | biological or chemical breakdown of material |
-| `muholi` | dig | Earth-work |
+| `muholi` | dig | removing or shifting workable material to make an opening |
 | `mukesi` | spoil | loss of suitability for an intended practical use |
 | `muko` | careless | an action performed without attention reasonably available for avoiding mistakes or harm |
 | `muphera` | stock | items held for future practical use |
@@ -91,6 +94,7 @@
 | `noporu` | design | specifying an intended artifact, system, or intervention |
 | `noraku` | blocked | a work state stopped by an obstacle |
 | `norathu` | procedure | an ordered and specified collective process |
+| `norelu` | form | bringing people, parts, or material into an organised arrangement |
 | `norupe` | spoon | a utensil used to scoop, eat, measure, or stir |
 | `nuawe` | together | an action carried out jointly by more than one participant |
 | `nukesa` | expert | deeply practised capacity within a stated domain |
@@ -110,7 +114,7 @@
 | `phaluwe` | flood | water covering or overflowing beyond a stated usual boundary |
 | `phanoi` | portion | dividing a whole into portions for recipients or uses |
 | `phanuli` | allocate | assigning a resource, opportunity, or burden under a criterion |
-| `pharelo` | cook | fundamental human activity of cooking |
+| `pharelo` | cook | preparing food through controlled heat |
 | `phareme` | ingredient | food selected for use in a preparation |
 | `pharomu` | exclude | preventing or omitting participation in a stated action |
 | `pharune` | include | placing a person or thing within a stated activity or whole |
@@ -125,14 +129,15 @@
 | `phowe` | share | making something available for use with others |
 | `phurewa` | sweep | moving loose material with repeated brush strokes |
 | `phurilo` | broom | an instrument used in sweeping |
-| `pilewa` | make | fundamental human activity of making |
+| `pilewa` | make | work that brings about a concrete or abstract result |
 | `pilora` | exploit | extracting benefit through a structured power relation |
 | `pilu` | take | actively bringing something into immediate control or use |
-| `pina` | sew | fundamental human activity of sewing |
-| `pisha` | split | Division along the grain |
+| `pina` | sew | joining or finishing material with repeated stitches |
+| `pisha` | split | deliberately parting material along a line it readily follows |
 | `pokera` | competent | present ability to perform a stated activity to its criterion |
 | `poru` | productive | work or a process that reaches useful or intended results |
 | `poruli` | efficient | a relation between resources used and useful performance |
+| `pukate` | break | an event in which a whole loses the structure or continuity that held it together |
 | `puse` | spit | expelling material from the mouth |
 | `pushali` | overload | demand exceeding the capacity needed to continue an action |
 | `ralemi` | independent | an action directed by the person carrying it out |
@@ -156,7 +161,7 @@
 | `sawa` | wash | Water-cleansing as daily craft |
 | `sawathi` | soap | a material used during washing |
 | `sekaru` | transfer | directed movement from a source to a recipient |
-| `selomi` | weave | fundamental human activity of weaving |
+| `selomi` | weave | interlacing flexible strands through repeated crossings |
 | `selu` | flow | continuous movement treated as an ongoing process |
 | `seluto` | pour | directing material out of a container |
 | `seluwhe` | outage | cessation or inadequate provision of a technical function |
@@ -186,9 +191,10 @@
 | `terura` | system | an organized whole whose components participate in processes |
 | `teshori` | quarantine | restricting contact after possible exposure |
 | `thalo` | walk | ordinary travel and practice on foot |
-| `thape` | burn | The keeping of flame |
+| `thape` | burn | setting or allowing material to burn |
 | `theali` | fitting | an action or method suited to its present purpose and conditions |
 | `thekamu` | intervene | a deliberate action within bodily care |
+| `theko` | craft | making carried out through learned practical skill |
 | `therapi` | boil | heating liquid to sustained bubbling |
 | `therilu` | rest | pausing or reducing activity for recovery |
 | `therua` | eager | readiness to begin or join a wanted action |
@@ -207,7 +213,7 @@
 | `thunaro` | train | guided practice toward a stated practical capacity |
 | `thunesi` | asynchronous | contributions joining one process at different times |
 | `tinako` | rigid | limited adjustability in a plan or procedure |
-| `tiwa` | tie | Fastening with cord |
+| `tiwa` | tie | fastening or binding with a flexible line |
 | `tukelu` | recycle | processing recovered or discarded material into another input or material |
 | `tukiro` | review | systematically reconsidering a prior matter |
 | `tumoa` | heavy | work or obligation experienced as burdensome through metaphorical weight |
@@ -248,7 +254,7 @@
 | `horae` | radiant | light or visible delight perceived as spreading outward |
 | `kaelo` | sweet | sweetness appreciated in flavour, scent, or an established sensory comparison |
 | `keru` | bright | a strongly lit scene or a hue seen at high visual intensity |
-| `kire` | shape | Discovering and creating beauty in form |
+| `kire` | shape | drawing and shaping visible form |
 | `kirero` | quality | a possible dimension of quality when explicitly named |
 | `kiro` | precise | cleanly controlled detail or execution in a made form |
 | `kiru` | chisel | Revealing form |
@@ -326,7 +332,7 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `wira` | window | View portal |
 
-## cognition (235)
+## cognition (233)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -409,7 +415,6 @@
 | `noporu` | design | developing and selecting among possible relations |
 | `norae` | method | Systematic approach |
 | `norea` | soul | Deep identity |
-| `norelu` | form | Understanding pattern and organization |
 | `norethi` | confident | the experienced strength of a belief or judgment |
 | `nowae` | awaken | return of waking awareness after sleep |
 | `nukesa` | expert | extensive domain understanding supported by practice and study |
@@ -448,7 +453,6 @@
 | `porewi` | side effect | an attributed additional effect with stated uncertainty |
 | `porua` | purpose | Goal orientation |
 | `poruli` | efficient | an assessment whose result depends on selected inputs, outputs, and boundaries |
-| `pukate` | break | The event named so mending can follow |
 | `pula` | wish | representing an outcome as desired without asserting its likelihood |
 | `pushali` | overload | information or sensory input exceeding current processing capacity |
 | `relo` | symbol | Representation |
@@ -566,7 +570,7 @@
 | `wireki` | prognosis | a conditional inference about a health course |
 | `woraka` | appreciate | Perceiving value clearly |
 
-## communication (116)
+## communication (117)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -631,6 +635,7 @@
 | `reo` | meaning | central to communication and exchange of understanding |
 | `repora` | propose | a proposal remains open to response, amendment, and refusal |
 | `samethu` | equivalent | comparison between different expressions or formats |
+| `selomi` | weave | the established extension from interlaced thread to a story woven from events |
 | `seniku` | smile | Non-verbal communication of goodwill |
 | `sepho` | send | sending a message, letter, or other communicative object |
 | `shalori` | represent | carrying another party's position under stated scope and authorization |
@@ -687,7 +692,7 @@
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
-## community (279)
+## community (277)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -737,7 +742,6 @@
 | `lophae` | storyteller | Narrative role |
 | `lopia` | child | held as sacred trust by collective responsibility |
 | `lorea` | connect | weaves relationships into visible interdependence |
-| `lorima` | build | Creating shelter and shared spaces |
 | `lothea` | love | Foundation of relationship |
 | `lothoni` | accountable | answerability for a shared matter under a review relationship |
 | `lumani` | family | forms the fundamental unit of social bonds and belonging |
@@ -816,7 +820,6 @@
 | `phanuli` | allocate | collective allocation among stated recipients or purposes |
 | `phao` | parent | fundamental to family bonds and social structure |
 | `pharea` | adult | embodies responsibility and contribution to collective wellbeing |
-| `pharelo` | cook | Nourishing others through preparation |
 | `pharomu` | exclude | keeping someone outside a group or shared process |
 | `pharuki` | celebrate | Communal honoring of occasions |
 | `pharune` | include | including someone within a group or shared process |
@@ -980,9 +983,9 @@
 | `heru` | herb | Healing source |
 | `katemu` | offcut | material available for possible reuse in another making process |
 | `kathu` | seal | Authentication mark |
-| `kati` | cut | The first act of most making |
+| `kati` | cut | cutting pieces to size during cooking or craft work |
 | `katiru` | knife | The edge that shapes |
-| `kealo` | create | brings new forms into existence through inspiration |
+| `kealo` | create | the emergence of something not previously present in that form |
 | `kelasu` | usable | a made object or interface that can be operated in practice |
 | `keli` | device | Mechanism |
 | `kelitho` | function | the role for which a component or system is arranged |
@@ -996,7 +999,7 @@
 | `kiphira` | fault | a condition relevant to diagnosis, repair, and maintained function |
 | `kira` | key | Opening tool |
 | `kirato` | lock | a fitted mechanism for holding a closure |
-| `kire` | shape | Giving form to material |
+| `kire` | shape | giving an object or image its outline and surface form |
 | `kirero` | quality | the assessed character of a made or repaired result |
 | `kiroa` | sign | Communication object |
 | `kiru` | chisel | Carving tool |
@@ -1004,7 +1007,7 @@
 | `koluri` | reliable | a technical judgement about a designed or maintained function |
 | `kori` | leather | Durable covering |
 | `kuma` | drum | Rhythm maker |
-| `kuremi` | grind | Meal from grain |
+| `kuremi` | grind | reducing grain, pigment, or another ingredient for later use |
 | `lina` | string (instrument) | Vibrating element |
 | `linua` | fiber | Textile source |
 | `liru` | fabric | Woven art |
@@ -1012,7 +1015,7 @@
 | `loesi` | oil | Smoothing substance |
 | `lopha` | vessel | Liquid container |
 | `lophani` | bottle | a vessel made with a narrowed neck |
-| `lorima` | build | Constructing structures |
+| `lorima` | build | constructing buildings, devices, or organised systems |
 | `loshenu` | clearance | a designed spatial allowance around an object |
 | `luma` | lamp | Light source |
 | `lumoi` | lantern | Portable light |
@@ -1042,7 +1045,7 @@
 | `nilaki` | inspect | a practice supporting maintenance, repair, and checked workmanship |
 | `nira` | cord | Binding line |
 | `noporu` | design | guiding making through an intentional specification |
-| `norelu` | form | Bringing structure into existence |
+| `norelu` | form | a definite structure coming into existence |
 | `noru` | bowl | Vessel |
 | `norupe` | spoon | a handled tool ending in a shallow bowl |
 | `nowiso` | interface | a designed means through which systems or components interact |
@@ -1052,7 +1055,7 @@
 | `phaliso` | network | generates and sustains new possibilities through connection |
 | `phanu` | canvas | Art surface |
 | `phao` | parent | literally creates and nurtures new life |
-| `pharelo` | cook | Transforming food through heat |
+| `pharelo` | cook | turning ingredients into a cooked food or dish |
 | `phareme` | ingredient | one material from which a dish or drink is made |
 | `phari` | pen | Writing tool |
 | `phelasi` | shelf | a made surface supported above the floor |
@@ -1069,8 +1072,8 @@
 | `phui` | flute | Wind instrument |
 | `phuri` | brush | Painting tool |
 | `phurilo` | broom | a long-handled brush made for floors or ground |
-| `pilewa` | make | bringing new forms into existence |
-| `pina` | sew | Joining through needle and thread |
+| `pilewa` | make | making an object, preparation, or shared condition |
+| `pina` | sew | making or mending cloth work with needle and thread |
 | `piru` | trader | Goods movement |
 | `ponu` | door | Passage control |
 | `poru` | productive | a workshop, garden, or system that yields an actual result |
@@ -1086,7 +1089,7 @@
 | `rolu` | wheel | Rotating tool |
 | `ruka` | complex | a designed object or system with interacting parts |
 | `sawathi` | soap | a prepared cleansing substance |
-| `selomi` | weave | Interlacing into coherent whole |
+| `selomi` | weave | making fabric or another structure from strands |
 | `sephori` | supply | supporting making and repair through resource flow |
 | `shela` | art | Aesthetic making |
 | `shiro` | tree | provider of materials, shelter, and breath |
@@ -1108,7 +1111,7 @@
 | `tewema` | partner | partners co-create their shared reality |
 | `thekasi` | caption | timed readable text made for a sounding event |
 | `thekiro` | write | Bringing lasting form into being |
-| `theko` | craft | Skilled making |
+| `theko` | craft | producing a deliberate work in a chosen material or medium |
 | `thekopa` | recipe | instructions relating ingredients to a prepared result |
 | `thelai` | balm | Soothing salve |
 | `thesani` | skill | capacity used in making, repair, and transformation |
@@ -1117,7 +1120,7 @@
 | `thosami` | compatible | designed fit across an interface |
 | `tinoa` | dye | Coloring process |
 | `tisu` | needle | Sewing tool |
-| `tiwa` | tie | The binding half of cord-craft |
+| `tiwa` | tie | making a knot or secured bundle |
 | `toka` | hammer | Striking tool |
 | `tolu` | staff | Support tool |
 | `tomae` | floor | Support structure |
@@ -1349,7 +1352,7 @@
 | `mueri` | clay | Earth material |
 | `muero` | autumn | Completion time |
 | `muhena` | dust | Earth riding the air |
-| `muholi` | dig | Opening the soil |
+| `muholi` | dig | working soil in gardens, fields, and water access |
 | `muila` | earth | elemental foundation of terrestrial life |
 | `munari` | sediment | particulate material moved or deposited by environmental processes |
 | `muphia` | mud | Earth and water met |
@@ -1401,7 +1404,7 @@
 | `phuro` | renew | Following natural patterns of renewal |
 | `piloe` | spot | The dapple and the speckle |
 | `pilomu` | sycamore | The dappled street-and-river tree |
-| `pisha` | split | How seeds and paths divide |
+| `pisha` | split | seeds, branches, and other living forms opening or dividing |
 | `powea` | egg | Life's sealed beginning |
 | `pukea` | danger | The edge conditions of the living world |
 | `roena` | copper | Elemental metal |
@@ -1445,7 +1448,7 @@
 | `tesu` | iron | Strong metal |
 | `thaeso` | midday | Solar zenith |
 | `thaluro` | ocean | Global saltwater body |
-| `thape` | burn | Fire's action in the world |
+| `thape` | burn | combustion in a hearth, field, or wildfire |
 | `theala` | heal | follows natural processes and organic cycles of recovery |
 | `thelomi` | lake | Freshwater body |
 | `theluo` | steward | often involves tending land and ecosystems |
@@ -1491,7 +1494,7 @@
 | `wolea` | wood | Tree material |
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 
-## physical (357)
+## physical (362)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1522,7 +1525,7 @@
 | `kalora` | horse | The road's living engine |
 | `katemu` | offcut | a separated piece with its own dimensions and condition |
 | `katheo` | acute | recent onset, rapid development, or short duration in a bodily condition |
-| `kati` | cut | Clean separation by an edge |
+| `kati` | cut | separation produced by a sharp edge |
 | `katiru` | knife | The kitchen and workbench tool |
 | `kawepa` | catch | bringing a moving body or object under immediate control |
 | `kaworu` | injury | a health-relevant bodily change or damage |
@@ -1537,6 +1540,7 @@
 | `kiphira` | fault | an abnormal condition in a technical component or relation |
 | `kipona` | pain | The body's sharp signal |
 | `kirato` | lock | a device released by a matching key or method |
+| `kire` | shape | changing the configuration of material |
 | `kirowi` | signal | a signal requires a detectable material or symbolic form |
 | `kishu` | thirsty | the need for water or another drink as felt in the body |
 | `kiwate` | bite | tooth contact strong enough to grip or mark |
@@ -1555,7 +1559,7 @@
 | `kumoli` | hungry | the body's present need for food |
 | `kunoa` | knee | Central leg joint enabling bending |
 | `kurathi` | dry | little liquid present on a surface or within a material |
-| `kuremi` | grind | Reduction between surfaces |
+| `kuremi` | grind | abrasion or crushing that makes a material finer |
 | `kuri` | right | Side of the body |
 | `kuroi` | muscle | Movement tissue creating action |
 | `kurona` | horn | Living solidity extended |
@@ -1576,6 +1580,7 @@
 | `loremi` | branch | Living structure that holds and sways |
 | `lori` | vital | vigorous energy expressed by a living body |
 | `lorika` | blood | The fluid circulating through the body |
+| `lorima` | build | joining material parts so that a structure stands or works |
 | `losha` | wide | large width across an opening or a span of land or water |
 | `lumera` | nourish | Sustaining life through giving |
 | `lupaki` | fold | repositioning material without separating it |
@@ -1614,7 +1619,7 @@
 | `morisa` | salt | The sharp taste that preserves |
 | `morume` | decompose | material changing into different constituent forms over time |
 | `muhena` | dust | The dry fine remainder |
-| `muholi` | dig | Working downward |
+| `muholi` | dig | displacement of earth or similar material |
 | `muila` | earth | the ground we stand upon |
 | `mukesi` | spoil | a perishable thing changing beyond intended use |
 | `mulu` | low | limited height in an object or structure |
@@ -1643,6 +1648,7 @@
 | `nomiki` | concentration | an amount of matter, organisms, or another agent per stated medium |
 | `nomira` | collect | bringing tangible objects into an accumulating group |
 | `nophae` | nose | Central facial feature and breath channel |
+| `norelu` | form | matter acquiring an observable arrangement or boundary |
 | `norupe` | spoon | a small hollow carried at the end of a handle |
 | `nowae` | awaken | bodily transition out of sleep |
 | `nuelo` | dark | little light reaching a place, surface, or viewer |
@@ -1677,6 +1683,7 @@
 | `peshiro` | infection | a biological process in or on a body |
 | `phaelo` | feel | bodily sensation such as warmth or pain |
 | `phamori` | symptom | a health-relevant experience located in or through the body |
+| `pharelo` | cook | heat changing the texture, structure, or readiness of food |
 | `phareme` | ingredient | an edible substance before or during preparation |
 | `pharoe` | chest | Upper torso containing heart and lungs |
 | `phelasi` | shelf | a level support for kept objects |
@@ -1700,16 +1707,16 @@
 | `phurewa` | sweep | surface cleaning through bristle contact |
 | `phurilo` | broom | bristles moving loose material across a surface |
 | `phuwai` | lung | Respiratory organs within the chest |
-| `pilewa` | make | transforming materials through action |
 | `piloe` | spot | One small patch of color |
 | `pilomu` | sycamore | Tall broad-leaved shade tree |
 | `pilu` | take | taking hold of a person or material object |
-| `pisha` | split | Parting in two |
+| `pina` | sew | thread passing through material to hold it together |
+| `pisha` | split | one body or route separating into multiple parts |
 | `ponalu` | size | the overall extent of a physical thing |
 | `porewi` | side effect | a bodily effect beyond an intervention's stated target |
 | `pothu` | stink | The smell the nose refuses |
 | `powea` | egg | The round self-contained case |
-| `pukate` | break | Wholeness coming apart |
+| `pukate` | break | complete loss of wholeness in an object or material |
 | `pukea` | danger | The nearness of possible harm |
 | `pukeri` | damage | adverse change to the condition or function of a tangible thing |
 | `puko` | bitter | a bitter gustatory quality distinct from acidity |
@@ -1737,6 +1744,7 @@
 | `sawathi` | soap | material that loosens oil and dirt in water |
 | `sekaru` | transfer | movement of matter or energy between components or systems |
 | `selawi` | slippery | contact that permits comparatively easy sliding between surfaces |
+| `selomi` | weave | over-and-under crossings holding separate strands together |
 | `selu` | flow | fluid or loose matter passing continuously |
 | `seluto` | pour | a controlled flow across the lip of a vessel |
 | `sepho` | send | dispatching a material object for transport |
@@ -1776,7 +1784,7 @@
 | `tapuri` | lid | a separate object meeting the rim of a container |
 | `tesu` | iron | Enduring strength |
 | `thalo` | walk | alternating bodily support on the feet |
-| `thape` | burn | Heat and light released |
+| `thape` | burn | consumption or damage through fire and intense heat |
 | `theala` | heal | involves bodily restoration and tangible recovery processes |
 | `theama` | care | maintains health and protects bodily welfare |
 | `theisa` | loud | high perceived intensity in a sound or its source |
@@ -1803,7 +1811,7 @@
 | `tipika` | fingernail | The finger's hard tip |
 | `tiripe` | quiver | Small fast involuntary motion |
 | `tiso` | sharp | a fine edge or point able to cut or pierce readily |
-| `tiwa` | tie | Made fast against slipping |
+| `tiwa` | tie | holding objects together or against a point with cord or rope |
 | `toka` | hammer | Shaping force |
 | `tolae` | leg | Lower limbs for support and locomotion |
 | `towe` | well | a present report that one's bodily condition is good |
@@ -1916,7 +1924,7 @@
 | `thunepa` | sacred place | Place of reverence |
 | `whunei` | breathe | breath used as an observable object in meditation practice |
 
-## spatial (153)
+## spatial (154)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1972,6 +1980,7 @@
 | `molira` | hill | Accessible rise |
 | `moriwhe` | sea | Bounded oceanic expanse |
 | `moru` | wall | Vertical barrier |
+| `muholi` | dig | creating or extending a hollow, trench, or passage |
 | `mulu` | low | position near the lower end of a vertical scale |
 | `muneki` | latrine | a bounded sanitation area in or near a dwelling |
 | `muwi` | interior | Inner space |
@@ -2244,7 +2253,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (118)
+## wisdom (116)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2306,7 +2315,6 @@
 | `phiwheki` | counterexample | attention to particulars that resist an overly broad rule |
 | `pholui` | bamboo | Flexible strength |
 | `phue` | wise | practical and reflective understanding applied to what matters |
-| `pina` | sew | Patience in small, repeated acts |
 | `porua` | purpose | Meaningful direction |
 | `punoa` | society | Collective order |
 | `raeli` | height | Elevation |
@@ -2319,7 +2327,6 @@
 | `romishe` | contemplate | patient examination of a subject before judgement is settled |
 | `ruela` | path | ways of practice and understanding |
 | `seloi` | insightful | depth of understanding kept distinct from certainty or authority |
-| `selomi` | weave | Understanding interconnection through making |
 | `sharino` | conscience | moral self-appraisal that remains open to examination and correction |
 | `shemu` | moment | Present experience |
 | `shimalo` | discipline | aligns actions with deeper intentions through skillful training |
@@ -2337,7 +2344,7 @@
 | `theala` | heal | requires understanding root causes and skillful means |
 | `theali` | fitting | selection of a response appropriate to the situation and relationship |
 | `thekiro` | write | Preserving knowledge across time |
-| `theko` | craft | Embodied, practiced knowledge |
+| `theko` | craft | knowledge held and demonstrated through repeated practice |
 | `theloa` | truth | understanding deeper reality and skillful expression |
 | `theloma` | justice | requires understanding root causes and skillful responses |
 | `thelomi` | lake | Symbol of reflective stillness |

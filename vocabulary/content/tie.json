@@ -7,17 +7,27 @@
     "wa"
   ],
   "pos": "verb",
-  "concept": "Tie / Bind / Fasten with Cord",
-  "description": "To tie: the boat to the post, the bundle for carrying, the vine to the stake. Fastening with rope or cord ('suro', 'nira'). With 'pina' (sew) and 'selomi' (weave) it completes the cord-crafts.",
-  "sound_symbolism": "The precise dental 't̪i' makes the small exact loop; 'wa' carries the cord around and through. A knot in two syllables.",
-  "grammatical_notes": "Transitive with target: 'mia wei tolu suro tiwa.' (I tie the rope to the staff.) Of bundles: 'shia lo lirowa tiwa.' (They tie the leaves in a bundle.)",
+  "search_terms": [
+    "bind",
+    "fasten with cord",
+    "knot"
+  ],
+  "description": "A rope fastens a boat to a post, a cord closes a bundle, or thread is secured in a knot. 'tiwa' is fastening with a flexible line drawn around, through, or between what it holds. 'lorea' (connect) names the broader resulting relation, and 'nolami' (bond) is a mutual connection rather than a physical restraint.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper front teeth for unvoiced dental 't' and release into stressed high-front unrounded 'i'. Round the lips and raise the back of the tongue for voiced 'w', then open into central 'a'.",
+  "sound_symbolism": "Dental contact releases into high 'i', then the lips round for 'w' before opening. The mouth makes a small turn, rather like line drawn through a knot.",
+  "usage_notes": "The cord, rope, bundle, or person being tied is the direct object; the fastening point commonly takes dative 'wei'. Registered compounds extend the physical image, as in 'remo tiwa' (thought-tying), but the concrete fastening remains audible.",
+  "examples": [
+    {
+      "phi": "mia wei tolu suro tiwa.",
+      "translation": "I tie the rope to the staff."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "The knot is the line's own ornament: cord turned back on itself into pattern and purpose at once.",
-    "pre-industrial-wisdom": "Knots were the first technology of trust — the tied gate, the tied load, the tied promise of a boat still there at dawn."
+    "pre-industrial-wisdom": "A sound knot depends on the line, the load, and how the fastening will be released. 'tiwa' names the shared cord-work while each knot keeps its own practical knowledge."
   },
   "semantic_domains": {
-    "activity": "Fastening with cord",
-    "creation": "The binding half of cord-craft",
-    "physical": "Made fast against slipping"
+    "activity": "fastening or binding with a flexible line",
+    "creation": "making a knot or secured bundle",
+    "physical": "holding objects together or against a point with cord or rope"
   }
 }
