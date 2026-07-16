@@ -28,7 +28,7 @@
 | `kati` | cut | The craft act of dividing material |
 | `kawepa` | catch | Receiving the moving thing |
 | `kawhera` | coerce | constraining practical choice through a stated power or threat |
-| `kelasu` | usable | practical use for a stated person and purpose |
+| `kelasu` | usable | a person able to carry out an intended purpose with a thing or process |
 | `kelitho` | function | performance of a characteristic or required system operation |
 | `kesu` | determined | resolve that sustains effort towards a chosen purpose |
 | `kethua` | hard | a task or condition that demands substantial effort |
@@ -45,7 +45,7 @@
 | `kuremi` | grind | The kitchen's oldest transformation |
 | `liroa` | playful | a play-seeking manner brought to an action or interaction |
 | `loatho` | delegate | entrusting a bounded role or action to a recipient |
-| `lokane` | accessible | practical availability for a stated use |
+| `lokane` | accessible | a route, tool, or arrangement available for a particular activity |
 | `loshenu` | clearance | free room for a stated movement or operation |
 | `lumethi` | deadline | a time boundary attached to an expected action or result |
 | `lupaki` | fold | laying one part of flexible material over another |
@@ -65,7 +65,7 @@
 | `muphera` | stock | items held for future practical use |
 | `muro` | stubborn | persistence in a course despite reasons to adjust it |
 | `napako` | bake | cooking food through surrounding dry heat |
-| `naphelu` | assistive | supporting a chosen function or action |
+| `naphelu` | assistive | a device or practice supporting a chosen action |
 | `nashaku` | enforce | applying authority or procedure in relation to compliance |
 | `natu` | pull | Inbound force to the body |
 | `nephoru` | treat | care intended to alter a health condition or course |
@@ -108,7 +108,7 @@
 | `poruli` | efficient | a relation between resources used and useful performance |
 | `puse` | spit | The palate's veto |
 | `pushali` | overload | demand exceeding the capacity needed to continue an action |
-| `ralemi` | independent | acting under one's own direction |
+| `ralemi` | independent | an action directed by the person carrying it out |
 | `ralu` | free | an available action left open rather than closed by constraint |
 | `rashelo` | run | fundamental human activity of running |
 | `rato` | turn | The navigator's correction |
@@ -197,12 +197,11 @@
 | `wiresu` | postpone | moving a planned action to a later time |
 | `wishe` | swim | The body's water-travel |
 
-## aesthetic (81)
+## aesthetic (80)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `helia` | youth | the beauty of new growth |
-| `hewasu` | audible | sound distinguishable within an acoustic setting |
 | `horae` | radiant | light or visible delight perceived as spreading outward |
 | `kaelo` | sweet | sweetness appreciated in flavour, scent, or an established sensory comparison |
 | `keru` | bright | a strongly lit scene or a hue seen at high visual intensity |
@@ -234,7 +233,7 @@
 | `noporu` | design | shaping form in relation to material and use |
 | `nuelo` | dark | a dim scene or a color seen as a dark shade |
 | `nuko` | black | the achromatic category at the low end of perceived lightness |
-| `palethu` | tactile | form and texture encountered through touch |
+| `palethu` | tactile | form deliberately available to touch |
 | `pelori` | bird | Beauty in flight and song |
 | `peloru` | flower | embodiment of natural beauty |
 | `pelowa` | meadow | Pastoral beauty |
@@ -270,7 +269,7 @@
 | `sulai` | musician | Sound creation |
 | `telui` | rhythm | Regular beat |
 | `theriko` | frost | Crystalline natural pattern |
-| `thewuni` | legible | distinguishable visual or tactile form |
+| `thewuni` | legible | letterform or tactile form distinguishable to a reader |
 | `thiro` | serene | visible or audible composure in a person, scene, or work |
 | `thurai` | vibrant | strongly perceptible intensity in colour, sound, movement, or a scene |
 | `tinoa` | dye | Color transformation |
@@ -283,7 +282,7 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `wira` | window | View portal |
 
-## cognition (239)
+## cognition (238)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -304,7 +303,6 @@
 | `kanuro` | decision | a choice assigned settled or actionable status |
 | `katheo` | acute | a clinical classification under a stated time scale |
 | `kelai` | equals | Announces mathematical results through explicit statement |
-| `kelasu` | usable | use that remains understandable enough to carry through |
 | `kelomi` | accept | Acknowledging reality |
 | `kelu` | become | developing understanding and awareness |
 | `kethira` | infer | deriving a conclusion from premises |
@@ -465,7 +463,7 @@
 | `soneho` | tradeoff | a constrained relation between competing valued outcomes |
 | `sorai` | insight | Deep seeing |
 | `soranu` | screen | identifying possible need for further evaluation |
-| `sowelu` | disabled | disability involving cognitive access or identity |
+| `sowelu` | disabled | cognitive disability and its relation to access |
 | `takori` | load | a quantity interpreted in relation to capacity and conditions |
 | `tawi` | count | Exact or approximate counting within Phi's documented limits |
 | `tawimo` | foolish | an act or choice made without enough attention to what it requires |
@@ -488,7 +486,7 @@
 | `thesani` | skill | procedural knowledge developed through learning and repetition |
 | `thesori` | evidence | information offered in support of or against a claim |
 | `thesua` | mindful | deliberate attention to present experience or action |
-| `thewuni` | legible | written marks available for reading |
+| `thewuni` | legible | marks available for the act of reading |
 | `thilou` | inquire | the mind's movement in curiosity and seeking |
 | `thimu` | time | the framework through which we understand change |
 | `thirulo` | output | information or effect classified relative to an analytical boundary |
@@ -535,7 +533,7 @@
 | `haolu` | speak | speaking is fundamental to communication |
 | `haoni` | voice | fundamental medium for spoken communication |
 | `hea` | hear | spoken language becoming available to a hearer |
-| `hewasu` | audible | speech available to a stated listener |
+| `hewasu` | audible | speech or a signal distinguishable to its intended listener |
 | `howela` | receive | receiving is fundamental to exchange and reciprocity |
 | `kapura` | shout | forceful or urgent vocalization |
 | `kela` | rejoice | Expressing joy to others |
@@ -691,7 +689,7 @@
 | `loami` | gift | What changes hands unowed |
 | `loatho` | delegate | delegation with stated scope, duration, and reporting |
 | `lohau` | dog | The first interspecies friendship |
-| `lokane` | accessible | conditions that permit participation in shared life |
+| `lokane` | accessible | conditions that let a person enter shared activity |
 | `lokue` | place | places as sites of gathering and meaning |
 | `lomea` | sibling | core family bond and peer relationship |
 | `lona` | meeting | Assembly event |
@@ -802,7 +800,7 @@
 | `pukea` | danger | What warnings protect |
 | `punoa` | society | Social organization |
 | `punoki` | institution | a continuing organized social arrangement with roles and procedures |
-| `ralemi` | independent | agency that can coexist with chosen support |
+| `ralemi` | independent | personal agency exercised with or without chosen support |
 | `ralu` | free | liberty within social and institutional relations |
 | `rashelo` | run | rushing to help, playing together through racing |
 | `renoa` | liberate | Freeing action |
@@ -856,7 +854,7 @@
 | `sonu` | alone | the social circumstance of being without company |
 | `soranu` | screen | a health practice applied to stated participants or populations |
 | `sorui` | circle | Equal arrangement |
-| `sowelu` | disabled | an identity and relation shaped by participation barriers |
+| `sowelu` | disabled | disabled identity and participation in relation to barriers |
 | `sulai` | musician | Creative role |
 | `sulopa` | soup | The meal that stretches |
 | `suro` | rope | Binding connection |
@@ -951,7 +949,7 @@
 | `kati` | cut | The first act of most making |
 | `katiru` | knife | The edge that shapes |
 | `kealo` | create | brings new forms into existence through inspiration |
-| `kelasu` | usable | a designed object or process that can be operated in practice |
+| `kelasu` | usable | a made object or interface that can be operated in practice |
 | `keli` | device | Mechanism |
 | `kelitho` | function | the role for which a component or system is arranged |
 | `kelo` | frame | Boundary structure |
@@ -1005,7 +1003,7 @@
 | `muphera` | stock | materials and components available to making and repair |
 | `muralo` | material | matter considered for making, repair, transformation, or reuse |
 | `napako` | bake | turning dough or other food into a baked result |
-| `naphelu` | assistive | a device or practice shaped for an access purpose |
+| `naphelu` | assistive | a tool or arrangement shaped for an access purpose |
 | `nepha` | medicine | Healing substance |
 | `newu` | new | a work or object recently brought into being |
 | `nilaki` | inspect | a practice supporting maintenance, repair, and checked workmanship |
@@ -1473,7 +1471,7 @@
 | `henora` | capacity | a conditioned amount or rate a material system can hold or handle |
 | `heshowa` | gas | matter that spreads through the available volume under the conditions at hand |
 | `hesura` | ash | Weight almost gone |
-| `hewasu` | audible | hearing under particular bodily and environmental conditions |
+| `hewasu` | audible | sound available through hearing under particular bodily and environmental conditions |
 | `hewe` | wipe | Surface made clean |
 | `hieru` | narrow | restricted width in passages and openings |
 | `hisae` | skin | Body's outer covering and sensing organ |
@@ -1593,7 +1591,7 @@
 | `murethi` | impairment | a stated bodily or sensory functional difference |
 | `napa` | bread | Baked grain food |
 | `napako` | bake | heat reaching food from an enclosing chamber |
-| `naphelu` | assistive | support for bodily or sensory access |
+| `naphelu` | assistive | support for a bodily or sensory function |
 | `nathoku` | contraindicated | a clinical relation between an intervention and bodily conditions |
 | `natu` | pull | Drawing closer |
 | `nekuma` | meat | Weight on the table |
@@ -1619,7 +1617,7 @@
 | `nurome` | meal | a bounded preparation of food |
 | `nuwera` | bed | The household place of sleep |
 | `nuwi` | clear | low visual obstruction in water, air, or another material |
-| `palethu` | tactile | touch as the relevant sensory channel |
+| `palethu` | tactile | touch used as the sensory channel |
 | `palo` | touch | bodily or material contact at a surface |
 | `paloi` | foot | the body member contacting earth |
 | `palowe` | shoe | Between foot and road |
@@ -1720,7 +1718,7 @@
 | `shurano` | safe | a body, path, object, or action assessed as sufficiently protected from relevant harm |
 | `siwe` | sweat | The skin's water |
 | `sophae` | cotton | Soft covering |
-| `sowelu` | disabled | disability involving bodily or sensory access |
+| `sowelu` | disabled | bodily or sensory disability and its relation to access |
 | `sukaro` | hot | high temperature strongly felt through contact or surrounding air |
 | `sukima` | fear | the bodily tightening and arousal of fear |
 | `sulae` | warm | a readily felt temperature above cool and below hot |
@@ -1747,7 +1745,7 @@
 | `therapi` | boil | a liquid state with continuous rising bubbles |
 | `therilu` | rest | the bodily state of stillness and recovery |
 | `theru` | thick | substantial material thickness, density, or viscosity |
-| `thewuni` | legible | reading conditions involving sight or touch |
+| `thewuni` | legible | reading made possible under visual or tactile conditions |
 | `thiku` | small | small overall size or amount relative to the immediate comparison |
 | `thinu` | put | deliberate action of positioning objects |
 | `thiranu` | maintain | Keeping things in good condition |
@@ -1914,7 +1912,7 @@
 | `lewonu` | valley | Sheltered depression |
 | `liloni` | population | a living group bounded by an area |
 | `liweso` | ecological community | co-occurrence within a selected place or distributed area |
-| `lokane` | accessible | a route or place reachable under stated conditions |
+| `lokane` | accessible | a path or place reachable for the movement at issue |
 | `lokue` | place | location and position in space |
 | `lonai` | width | Horizontal extent |
 | `lorea` | connect | bridges separate points into unified relationship |

@@ -8,18 +8,29 @@
     "ne"
   ],
   "pos": "adjective",
-  "concept": "Accessible / Practically Available to a Stated Person and Activity",
-  "description": "Having conditions under which a stated person can reach, understand, use, or participate in something. The adjective is relational. A route may be accessible for one journey and fail another. 'kelasu' (usable) describes whether something works once it is available; 'lokane' also asks whether the person can get to that use.",
-  "sound_symbolism": "Low liquid 'lo' releases the tongue into round 'o'. Stressed 'ka' places a clean velar contact in the middle and opens through broad 'a'. Final 'ne' settles at the teeth with a soft nasal and balanced 'e'. Flowing openness passes through one firm point and reaches a quiet resting place.",
-  "grammatical_notes": "A predicative or attributive adjective: 'ha shoeka lokane nai.' (This route is accessible.) The surrounding clause can name the person, activity, conditions, and time for which the claim holds. The quality-noun rule supplies accessibility as a stated condition.",
+  "search_terms": [
+    "accessibility",
+    "reachable",
+    "available for participation"
+  ],
+  "description": "A route, document, tool, or activity is 'lokane' when the person in question can reach it and take up its intended use in the situation being discussed. The same doorway can be accessible for one journey and a barrier for another. 'kelasu' (usable) begins at the point of operation; 'lokane' includes the route to that point.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and round the lips into true-mid back 'o'. Close the back of the tongue against the soft palate for unvoiced 'k' and release it into stressed open central 'a'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with true-mid front unrounded 'e'.",
+  "sound_symbolism": "Air passes around the tongue in 'lo', stops fully at the velum in stressed 'ka', and continues through the nose in final 'ne'. The mouth has a small route to negotiate, a mnemonic for access being tested at more than one point.",
+  "usage_notes": "The person and intended activity may be understood in a short exchange, but they return whenever someone disputes the accessibility. Used as a noun, 'lokane' refers to that condition.",
+  "examples": [
+    {
+      "phi": "ha shoeka lokane nai.",
+      "translation": "This route is accessible."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "A place built for shared life must be judged where bodies, tools, routes, and activities actually meet. A drawing alone cannot settle the question.",
-    "peace-linguistics-practices": "A relational adjective leaves speakers room to correct a broad accessibility claim with the person and activity it overlooked."
+    "solarpunk-values": "A doorway earns the word through actual use: the turn beyond it matters as much as its measured width.",
+    "peace-linguistics-practices": "Because 'lokane' is relational, a person can correct an access claim without being described as the defect."
   },
   "semantic_domains": {
-    "activity": "practical availability for a stated use",
-    "community": "conditions that permit participation in shared life",
-    "spatial": "a route or place reachable under stated conditions"
+    "activity": "a route, tool, or arrangement available for a particular activity",
+    "community": "conditions that let a person enter shared activity",
+    "spatial": "a path or place reachable for the movement at issue"
   },
   "modules": [
     "accessibility-and-participation"

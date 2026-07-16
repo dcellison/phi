@@ -8,18 +8,29 @@
     "ni"
   ],
   "pos": "adjective",
-  "concept": "Legible / Visually or Tactually Distinguishable for Reading",
-  "description": "Clear enough for a stated reader to distinguish and read under the relevant visual or tactile conditions. Legibility may depend on size, spacing, contrast, surface, script familiarity, or display quality. 'theo' (read) is the reader's act; 'thewuni' is a property of what meets that reader.",
-  "sound_symbolism": "Fine dental breath carries 'the' into balanced 'e'. Stressed 'wu' rounds the lips and sinks into deep 'u'. Final 'ni' holds the tongue at the teeth in nasal resonance, then rises to bright 'i'. After dropping into a deep center, the sound returns to a small clear point.",
-  "grammatical_notes": "A predicative or attributive adjective: 'ha thekiro thewuni nai.' (This writing is legible.) The reader and conditions may appear in surrounding clauses. The quality-noun rule supplies legibility without claiming that the text is understood or accurate.",
+  "search_terms": [
+    "legibility",
+    "readable",
+    "can be read"
+  ],
+  "description": "Writing, a sign, or a tactile inscription is 'thewuni' when its intended reader can distinguish the marks well enough to read them under present conditions. The result may change with the marks, their spacing and contrast, the surface or display, and the reader's familiarity with the script. 'theo' (read) is the act; 'thewuni' stops at availability for reading without claiming understanding or accuracy.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and move into true-mid front unrounded 'e'. Round the lips and raise the back of the tongue for voiced 'w', then keep that position for stressed high rounded back 'u'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The opening 'the' is shared with 'theo' (read). From there the word rounds into stressed 'wu' and rises to final 'ni', an audible family resemblance that keeps the readable form beside the act of reading.",
+  "usage_notes": "'thewuni' can stand before writing or another readable object, or follow it with 'nai' (be). Its noun use is legibility. English readable may also mean easy to understand; 'nuwi' (clear) or 'shelomu' (understand) carries that further claim.",
+  "examples": [
+    {
+      "phi": "ha thekiro thewuni nai.",
+      "translation": "This writing is legible."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Letterform, spacing, surface, and contrast meet their purpose when a reader can follow them rather than merely admire them.",
-    "peace-linguistics-practices": "A legibility claim remains answerable to the reader instead of allowing the maker's intention to settle whether the words can be read."
+    "art-nouveau-aesthetics": "A letterform earns more than admiration when its line, spacing, and surface let a reader follow it.",
+    "peace-linguistics-practices": "The reader's experience can correct a maker's confident claim that the words are legible."
   },
   "semantic_domains": {
-    "aesthetic": "distinguishable visual or tactile form",
-    "cognition": "written marks available for reading",
-    "physical": "reading conditions involving sight or touch"
+    "aesthetic": "letterform or tactile form distinguishable to a reader",
+    "cognition": "marks available for the act of reading",
+    "physical": "reading made possible under visual or tactile conditions"
   },
   "modules": [
     "accessibility-and-participation"

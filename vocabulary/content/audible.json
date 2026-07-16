@@ -8,18 +8,26 @@
     "su"
   ],
   "pos": "adjective",
-  "concept": "Audible / Distinguishable Through Hearing Under Stated Conditions",
-  "description": "Clear enough for a stated listener to distinguish through hearing under the relevant conditions. Volume alone does not settle audibility when distance, competing sound, frequency, equipment, or the listener's hearing changes the result. 'hea' (hear) is the act of reception; 'hewasu' describes what is available to that act.",
-  "sound_symbolism": "Breathy 'he' repeats the opening of 'hea' (hear). Stressed 'wa' rounds at the lips and opens fully into broad 'a'. Final 'su' draws that openness into a fine hiss and deep 'u'. From light air to a wide center and a darker edge, each part remains clear.",
-  "grammatical_notes": "A predicative or attributive adjective: 'ha haolu hewasu nai.' (This speech is audible.) The listener, distance, device, and surrounding sound may be named separately. The quality-noun rule supplies audibility.",
+  "search_terms": [
+    "audibility",
+    "can be heard"
+  ],
+  "description": "Speech, a signal, or another sound is 'hewasu' when a particular listener can distinguish it where and when it is heard. Loudness may help, but distance, competing sound, equipment, and the listener's hearing also affect the result. 'hea' (hear) reports reception; 'hewasu' is sound available to that act.",
+  "articulatory_notes": "Let unvoiced air pass through the open glottis for 'h' and move into true-mid front unrounded 'e'. Round the lips and raise the back of the tongue for voiced 'w', then open into stressed central 'a'. Raise the tongue blade towards the alveolar ridge for unvoiced 's', direct air through the narrow channel, and finish with high rounded back 'u'.",
+  "sound_symbolism": "Breathy 'he' repeats the opening of 'hea' (hear). The word then opens wide at stressed 'wa' before final 'su' narrows it to a hiss. That movement from open sound to a fine edge offers a mnemonic for something becoming distinguishable to the ear.",
+  "usage_notes": "The listener and relevant conditions may appear in the surrounding clause. The ordinary quality-noun rule supplies audibility, while 'theisa' (loud) separately marks high perceived intensity.",
+  "examples": [
+    {
+      "phi": "ha haolu hewasu nai.",
+      "translation": "This speech is audible."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Voice, room, distance, and material surface shape whether sound arrives as a line that can be followed or a blur.",
-    "peace-linguistics-practices": "The word lets a listener say that speech did not reach them without inviting a judgment about attention or willingness."
+    "peace-linguistics-practices": "A listener can distinguish failed transmission from failed attention instead of being blamed for speech that did not reach them."
   },
   "semantic_domains": {
-    "aesthetic": "sound distinguishable within an acoustic setting",
-    "communication": "speech available to a stated listener",
-    "physical": "hearing under particular bodily and environmental conditions"
+    "communication": "speech or a signal distinguishable to its intended listener",
+    "physical": "sound available through hearing under particular bodily and environmental conditions"
   },
   "modules": [
     "accessibility-and-participation"
