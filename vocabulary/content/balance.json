@@ -8,18 +8,23 @@
     "mi"
   ],
   "pos": "verb",
-  "concept": "Balance / Dynamic Equilibrium",
-  "description": "To bring forces into equilibrium, whether physical, emotional, or spiritual, and to hold them there through constant small adjustment.",
-  "sound_symbolism": "The word creates its own equilibrium in sound: 'ma' and 'mi' form nasal bookends of equal weight, while the liquid 'lo' flows between them—not rigid stillness but fluid responsiveness. Three syllables each hold their place while allowing gentle sway, like the constant small adjustments balance requires.",
-  "grammatical_notes": "Transitive: 'mia lo phaelo malomi.' (I balance the feelings.) Aspect particles distinguish ongoing balancing ('shia si malomi.') from achieved balance ('shia ki malomi.'). The event-noun rule gives the state noun: 'welao malomi' (good balance). Related to 'weilo' (balanced) and 'shemoli' (harmonize).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Balance embodies the Middle Way teaching - avoiding extremes while finding dynamic equilibrium between opposing forces. It reflects the Buddhist understanding that true stability comes not from rigid fixity but from skillful navigation of life's constant changes, maintaining equanimity amid flux.",
-    "art-nouveau-aesthetics": "The concept reflects Art Nouveau's celebration of natural balance - the asymmetrical yet harmonious compositions found in organic forms. Like a vine that grows in spirals to maintain structural integrity, or waves that find rhythm through constant motion, this aesthetic teaches that beauty emerges from dynamic equilibrium rather than static symmetry."
-  },
+  "search_terms": [
+    "bring into equilibrium",
+    "counterbalance"
+  ],
+  "description": "A person can 'malomi' a load by shifting its weight, or balance a plan by adjusting competing demands. In either case, the work brings forces or proportions into workable equilibrium. 'weilo' (balanced) describes the result, while 'mureo' (stable) asks whether a state survives disturbance.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the sound through the nose, and open into central 'a'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and draw the tongue back while rounding the lips for stressed middle-height 'o'. Close the lips again for nasal 'm', then finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The two nasal syllables frame a liquid, rounded centre, and the vowels move from open 'a' through 'o' to narrow 'i'. Its near-mirror gives the learner a compact memory for adjustment around a centre rather than rigid stillness.",
+  "usage_notes": "The load, forces, or considerations being balanced precede 'malomi'. In noun position, the same form refers to the balancing itself; the resulting quality is 'weilo' (balanced).",
+  "examples": [
+    {
+      "phi": "mia takori malomi.",
+      "translation": "I balance the load."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "finds beauty in dynamic equilibrium and organic harmony",
-    "nature": "learns from organic forms like spirals and waves",
-    "physical": "encompasses bodily balance alongside emotional and spiritual",
-    "wisdom": "navigates opposing forces through skillful equilibrium"
+    "activity": "deliberate adjustment that brings competing forces or demands into equilibrium",
+    "physical": "a body or object kept in position by redistributed weight or force",
+    "quantity": "proportions adjusted so their effects remain workable together"
   }
 }

@@ -7,17 +7,22 @@
     "wa"
   ],
   "pos": "verb",
-  "concept": "Wash / Cleanse with Water / Restore to Clean",
-  "description": "To wash: hands before bread, cups after tea, cloth in the river. Water restoring things to cleanness. Its family is 'phialu' (water), 'hiso' (clean), and 'therilu' (rest) — washing is how objects rest and return.",
-  "sound_symbolism": "The water-hiss 's' runs through the doubled openness of 'awa' — the word pours. Say it and hear the basin.",
-  "grammatical_notes": "Transitive: 'mia lo soeli sawa.' (I wash the cups.) 'lo mia wetha mua luphore sawa.' (We wash cloth in the stream.) Reflexively with 'miso': 'mia miso sawa.' (I wash myself.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "Washing is the most repeated ritual of ordinary life — attention restoring the ordinary to freshness, one bowl at a time. Zen kitchens made it doctrine; households made it first.",
-    "pre-industrial-wisdom": "The river's laundry, the well's bucket, the rain barrel: water-work bound the day to the water source and the neighbors met there."
-  },
+  "search_terms": [
+    "clean with water",
+    "cleanse"
+  ],
+  "description": "Hands and cups can both 'sawa'. Water or another washing liquid does the cleaning, and the word names that process rather than its result. 'hiso' (clean) describes the resulting condition, while 'hewe' (wipe) clears a surface by a stroke with or without water.",
+  "articulatory_notes": "Hold the tongue near the alveolar ridge for unvoiced 's', direct air through its narrow groove, and open into stressed central 'a'. Round the lips and raise the back of the tongue for voiced 'w', then release the rounding and lower the jaw into central 'a'.",
+  "sound_symbolism": "The opening hiss continues directly into broad 'a', then the rounded glide opens into the same vowel once more. The double release resembles water passing over a surface, without assigning either syllable a hidden meaning.",
+  "usage_notes": "The person or thing being washed precedes 'sawa'. Reflexive 'miso' marks washing oneself, and 'roe' (INS) can introduce soap or another washing material. Used nominally, 'sawa' refers to a wash or washing activity.",
+  "examples": [
+    {
+      "phi": "mia lo soeli sawa.",
+      "translation": "I wash the cups."
+    }
+  ],
   "semantic_domains": {
-    "activity": "Water-cleansing as daily craft",
-    "physical": "Restoration to cleanness",
-    "ritual": "The small ceremony of care for things"
+    "activity": "cleaning a body, cloth, dish, or other object with a liquid",
+    "physical": "water or another washing liquid carrying unwanted matter from a surface"
   }
 }

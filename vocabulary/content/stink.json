@@ -7,15 +7,25 @@
     "thu"
   ],
   "pos": "verb",
-  "concept": "Stink / A Smell Gone Wrong / What the Nose Refuses",
-  "description": "To give off a foul smell: food gone bad, a crowded room, anything the nose reads as wrong before the mind can say why. The negative-valence partner to whinu (smell, neutral), needed the moment a transmutation has to describe something honestly unpleasant rather than talk around it.",
-  "sound_symbolism": "'Po' opens with a stop, the nose's own recoil. 'Thu', breath shaped rough through an open mouth, the smell carried on the same air a clean scent would use, refused instead of welcomed.",
-  "grammatical_notes": "Functions as an intransitive verb: 'sulopa pothu' (the soup stinks / has gone bad). Can take a source: 'lue thena pothu' (it stinks from the thing). The event noun, a stink, comes by rule.",
+  "search_terms": [
+    "reek",
+    "foul odour"
+  ],
+  "description": "A drain or spoiled meal may 'pothu': give off an odour that a speaker or named experiencer finds strongly unpleasant. The judgement belongs to the odour in its situation; danger, cleanliness, and moral worth each need their own claim. 'whinu' (smell) is neutral perception, while 'mukesi' (spoil) judges a perishable thing unfit for its intended use.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into stressed middle-height back rounded 'o'. Place the tongue tip lightly against the upper teeth for unvoiced 'th', pass air through the narrow gap, and finish with high-back rounded 'u'. Keep the dental fricative distinct from the complete closure of 't'.",
+  "sound_symbolism": "A complete lip closure releases into rounded 'o', then sustained dental friction carries the second syllable into a tighter rounded vowel. The abrupt turn into rough airflow resembles the small recoil a strong odour may prompt.",
+  "usage_notes": "'pothu' is intransitive, with the source of the odour as its subject. When reactions differ, a separate 'whinu' (smell) or 'phaelo' (feel) clause can identify whose experience is being reported. Nominal 'pothu' is a stink or instance of stinking.",
+  "examples": [
+    {
+      "phi": "sulopa pothu.",
+      "translation": "The soup stinks."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Knowing what has spoiled is part of ecological literacy, not a fact to be softened.",
-    "pre-industrial-wisdom": "A nose that can tell rot from freshness is old, embodied knowledge, the same kind that reads weather in a wind or a season in a smell."
+    "pre-industrial-wisdom": "Odour is one clue in deciding whether stored food or water needs attention. 'pothu' keeps the strong sensory report available while suitability and cause remain separate questions."
   },
   "semantic_domains": {
-    "physical": "The smell the nose refuses"
+    "cognition": "a contextual judgement that an odour is strongly unpleasant",
+    "physical": "a strong odour emitted from a source and received through the nose"
   }
 }

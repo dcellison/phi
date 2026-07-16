@@ -8,16 +8,23 @@
     "pe"
   ],
   "pos": "verb",
-  "concept": "Quiver / Tremble / Small Rapid Motion",
-  "description": "To quiver: to move in small, fast, repeating beats that were not decided on. The rabbit's nose reading the air, leaves in a rising wind, a moth's wings, shoulders in the cold, a lip before tears. 'Tiripe' covers trembling, twitching, shivering, and fluttering alike: the body of anything, animal or leaf or flame, talking to itself faster than intention.",
-  "sound_symbolism": "Three light stops make three tiny beats, 't', 'r' tapped between vowels, 'p': the word itself vibrates when spoken. The narrow 'i.i' keeps every motion small; the final 'e' neither opens nor closes, the tremor simply running off the word's edge.",
-  "grammatical_notes": "Intransitive verb. 'tupiwa nophae tiripe.' (The rabbit's nose quivers.) 'lo lirowa mua howeli tiripe.' (The leaves quiver in the wind.) As a manner descriptor's verb it pairs naturally with cause phrases: 'lue pelui tiripe' (quivers from cold), 'lue sukima tiripe' (quivers from fear). The event noun, a tremor, comes by rule.",
-  "pillars": {
-    "secular-buddhist-philosophy": "The body's involuntary weather, observed and named without judgment: what trembles is simply trembling.",
-    "pre-industrial-wisdom": "Reading the world means reading its small motions: the nose that quivers, the leaf that shivers before rain. The word keeps that literacy."
-  },
+  "search_terms": [
+    "tremble",
+    "twitch",
+    "flutter"
+  ],
+  "description": "A leaf in wind or a lip before tears may 'tiripe': move in small, rapid, repeated beats that are often involuntary. Twitching and fluttering use the same verb when that motion is the point. 'roke' (move) is broader; cold or fear can be named as the cause.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper front teeth for unvoiced dental 't' and release into high-front unrounded 'i'. Tap or briefly trill the tongue at the alveolar ridge, then return to stressed high-front 'i'. Close the lips for unvoiced 'p' and release into middle-height front unrounded 'e'.",
+  "sound_symbolism": "Dental closure, a quick tongue tap, and lip closure make three small changes of contact across the word. The two high 'i' vowels keep its middle narrow. The result feels clipped and flickering, close to the motion of a quiver.",
+  "usage_notes": "'tiripe' is intransitive. A cause may take 'lue' (ABL), as in quivering from cold, and an adjective before the verb can describe the motion's pace or intensity. As a noun, it is a quiver or tremor.",
+  "examples": [
+    {
+      "phi": "tupiwa nophae tiripe.",
+      "translation": "The rabbit's nose quivers."
+    }
+  ],
   "semantic_domains": {
-    "nature": "The leaf's and the whisker's shared verb",
-    "physical": "Small fast involuntary motion"
+    "nature": "small repeated movement in leaves, flame, wings, or an animal's body",
+    "physical": "rapid involuntary or lightly controlled motion of a body or part"
   }
 }

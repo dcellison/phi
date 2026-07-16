@@ -8,16 +8,26 @@
     "po"
   ],
   "pos": "verb",
-  "concept": "Protect / Guard Safely / Shield from Harm",
-  "description": "To keep safe from harm, providing shelter and defense through peaceful means. 'Shorupo' is protection without violence—shielding the vulnerable, standing between danger and what needs safeguarding, using presence and care rather than force.",
-  "sound_symbolism": "The word shelters like a protective presence. 'Sho' /ʃo/ begins with hushing comfort, creating safe space. Then 'ru' rolls with steady watchfulness, guardian alertness. Finally 'po' holds with labial firmness, boundary maintained gently.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia thia shorupo.' (I protect you.) The threat is marked with the ablative: 'mia lue pukea thia shorupo.' (I protect you from danger.) Emphasizes non-violent protection—guardianship through presence and care. Related to 'thema' (guardian) and 'shurano' (safe), the state it produces.",
+  "search_terms": [
+    "guard from harm",
+    "keep safe"
+  ],
+  "description": "To 'shorupo' is to act so that a person, living thing, place, or object is less exposed to a named danger or harm. Protection may use a barrier or warning, or it may move someone away from danger; the surrounding clause says what was done. 'shurano' (safe) judges the resulting conditions, while 'shuroa' (shelter) is a place or structure.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for unvoiced 'sh', direct air through its narrow channel, and draw the tongue back while rounding the lips for middle-height 'o'. Tap or briefly trill the tongue at the alveolar ridge, then raise the back of the tongue and tighten the lip rounding for stressed high-back 'u'. Close the lips for unvoiced 'p' and release into middle-height back rounded 'o'.",
+  "usage_notes": "Whoever or whatever is protected precedes 'shorupo'; a threat may appear in a phrase with 'lue' (ABL). This is protective action, not a guarantee that danger is absent. In noun position, 'shorupo' is protection.",
+  "examples": [
+    {
+      "phi": "mia lue pukea thia shorupo.",
+      "translation": "I protect you from danger."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Protecting ecosystems and communities requires vigilance and care—stewardship is active protection of what sustains life.",
-    "peace-linguistics-practices": "Peaceful protection guards without aggression—standing with the vulnerable rather than against perceived enemies."
+    "solarpunk-values": "Protecting a wetland may mean changing access before damage reaches it. 'shorupo' names that active care while the evidence for safety remains visible."
   },
   "semantic_domains": {
-    "community": "Guarding the vulnerable",
-    "physical": "Creating safety through presence"
+    "activity": "action taken to reduce exposure to a named danger or harm",
+    "community": "one person or group acting for another's safety",
+    "nature": "living beings or habitats guarded from a stated threat",
+    "physical": "a body, place, or object shielded through a practical measure"
   }
 }

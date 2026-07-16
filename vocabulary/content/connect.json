@@ -8,16 +8,27 @@
     "a"
   ],
   "pos": "verb",
-  "concept": "Connect / To Weave a Relational Bridge",
-  "description": "The act of bringing two or more things into a relationship, creating a link or bridge between them. It is the fundamental process of weaving the web of interconnection.",
-  "sound_symbolism": "The word opens with 'lo', an embracing sound that reaches outward to gather what it finds. This flows into the bridging 're', creating a pathway between separate points. The final vowel sequence 'e.a' opens into spacious possibility, allowing the connection to breathe and evolve. This three-part journey—reaching, bridging, opening—mirrors the very act of connecting: first we extend ourselves, then we build the bridge, finally we create space for relationship to flourish. The liquid and vowel sounds flow together like streams converging into a river.",
-  "grammatical_notes": "'repha lo kosha lorea.' (The bridge connects the fields.) The noun sense, a connection, is the rule-derived event noun. The reciprocal 'wiso' expresses mutual connection: 'lo mia wiso lorea.' (We connect with each other.) Related to 'nolami' (bond) and 'niro' (web).",
+  "search_terms": [
+    "link",
+    "bring into relation"
+  ],
+  "description": "A bridge can 'lorea' two fields, and one idea can connect with another in an argument. Whatever makes the link, the connected things remain distinct. 'shiwolu' (integrate) places parts in a working whole, and 'nolami' (bond) is a mutual relation between beings.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and draw the tongue back while rounding the lips for middle-height 'o'. Tap or briefly trill the tongue at the alveolar ridge before stressed middle-height front 'e'. Keep final central 'a' in its own syllable across the 'e.a' hiatus by lowering the jaw without inserting a glide.",
+  "usage_notes": "The things being connected may form the subject and object, or a plural subject may take reciprocal 'wiso'. In noun position, 'lorea' is the connection itself. The means can be named with 'roe' (INS).",
+  "examples": [
+    {
+      "phi": "repha lo kosha lorea.",
+      "translation": "The bridge connects the fields."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Connection embodies the fundamental teaching of interdependence - that nothing exists in isolation but only through relationships with all else. To connect is to recognize and strengthen the web of relationships that already exists, making visible the truth that separation is an illusion created by limited perception.",
-    "peace-linguistics-practices": "The act of connecting prevents the violence of isolation and othering by actively building bridges between people, ideas, and communities. Peace linguistics understands that naming and nurturing connections creates a reality where conflict becomes less likely, as we cannot easily harm those with whom we recognize our connection."
+    "secular-buddhist-philosophy": "Interdependence can be examined one connection at a time. 'lorea' names a particular relation that an account can test instead of treating every supposed link as already known."
   },
   "semantic_domains": {
-    "community": "weaves relationships into visible interdependence",
-    "spatial": "bridges separate points into unified relationship"
+    "activity": "establishing a link between previously separate participants or things",
+    "cognition": "a relation recognised between ideas, claims, or parts of an explanation",
+    "community": "a social link formed between people or groups",
+    "physical": "objects joined through a material, tool, or fitted part",
+    "spatial": "a bridge, route, or other link joining separate locations"
   }
 }

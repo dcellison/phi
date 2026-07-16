@@ -8,16 +8,26 @@
     "a"
   ],
   "pos": "verb",
-  "concept": "Liberate / Set Free / Release From Bondage",
-  "description": "To set free from constraint or oppression; the act of creating freedom. 'Renoa' names the freeing action—what transforms 'ralu' (free) from possibility to reality.",
-  "sound_symbolism": "The word releases with purpose. 'Re' resonates with freeing action, bonds dissolving. 'No' settles with grounded change, new state forming. Then 'a' opens to liberated being.",
-  "grammatical_notes": "Functions as verb: 'mia lo nolika renoa.' (I liberate the animals.) Creates the state of 'ralu' (free). Related: leiro (release).",
+  "search_terms": [
+    "free from control",
+    "end imposed confinement"
+  ],
+  "description": "To 'renoa' is to remove a person, group, or living being from imposed control or confinement so that a course becomes open again. 'leiro' (release) ends a particular hold or containment; liberation addresses the wider constraint. 'ralu' (free) describes the resulting condition.",
+  "articulatory_notes": "Tap or briefly trill the tongue at the alveolar ridge, then move into middle-height front 'e'. Place the tongue tip against the backs of the upper front teeth for voiced dental 'n', let air pass through the nose, and draw the tongue back while rounding the lips for stressed middle-height 'o'. Keep final central 'a' in its own syllable across the 'o.a' hiatus by lowering the jaw and releasing the rounding without inserting a glide.",
+  "sound_symbolism": "The final rounded 'o' opens into a separate broad 'a', so the mouth ends less closed than it was under the stressed syllable. The felt release offers a modest memory for constraint giving way.",
+  "usage_notes": "'renoa' is transitive, and its noun use is liberation. It reports that a constraint was removed; nearby clauses can identify who acted, what imposed the constraint, and whose account supports that description.",
+  "examples": [
+    {
+      "phi": "mia lo nolika renoa.",
+      "translation": "I liberate the animals."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Liberation as practice—the ongoing work of freeing mind from what binds.",
-    "peace-linguistics-practices": "Liberating voice—creating conditions where silenced voices can speak."
+    "peace-linguistics-practices": "Liberation names the ending of imposed control without making the liberated person an object transferred between authorities. Their later choices remain their own acts."
   },
   "semantic_domains": {
-    "community": "Freeing action",
-    "emotion": "Release from bondage"
+    "activity": "the act that removes imposed control or confinement",
+    "community": "a person or group freed from a coercive social relation",
+    "ethics": "an imposed constraint removed so that another person's course opens"
   }
 }
