@@ -7,16 +7,21 @@
     "ru"
   ],
   "pos": "verb",
-  "concept": "Exit / Go Out / Leave a Space",
-  "description": "To go out of or leave a place. 'Thiru' names the outward crossing—moving from inside to outside, departure from enclosed space.",
-  "sound_symbolism": "The word departs with awareness. 'Thi' begins with the focused breath of intentional movement, conscious of the threshold being crossed. 'Ru' moves with grounded purpose. Exit as mindful transition, not flight.",
-  "grammatical_notes": "'mia thiru' (I exit). Source takes 'mue' (out of): 'mia mue womu thiru.' (I exit the house.) The noun sense, the going out, comes by the event-noun rule. Opposite of 'koema' (enter).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Exiting is also beginning—leaving one space opens another, departure enables new arrival.",
-    "peace-linguistics-practices": "Exiting gracefully matters—how we leave shapes what we leave behind."
-  },
+  "search_terms": [
+    "go out",
+    "move out"
+  ],
+  "description": "A person steps through the doorway and exits the house. Looking at the same threshold from inside, 'thiru' is the crossing outward from a place, state, or activity. 'mue' (OUT.OF) names that interior, while 'pholeni' (depart) can leave any source without asserting an inside edge.",
+  "articulatory_notes": "Place the tongue tip lightly against or just beyond the upper front teeth and pass unvoiced air through the gap for 'th', then move the tongue forward for stressed high-front unrounded 'i'. Make a tap or short trill with the tongue tip at the alveolar ridge and finish with high-back rounded 'u'.",
+  "usage_notes": "The interior commonly follows 'mue' (OUT.OF). With causative 'ka', an agent causes another person or thing to cross outward.",
+  "examples": [
+    {
+      "phi": "mia mue womu thiru.",
+      "translation": "I exit the house."
+    }
+  ],
   "semantic_domains": {
-    "community": "Departing",
-    "spatial": "Outward movement"
+    "activity": "crossing outward from a bounded place or activity",
+    "spatial": "movement from inside to outside"
   }
 }

@@ -7,17 +7,21 @@
     "pu"
   ],
   "pos": "verb",
-  "concept": "Go / Depart / Move Away",
-  "description": "To move away from one's current position; to set out. 'Wepu' covers physical movement through space and, by extension, life's transitions—leaving one state for another. It names the leaving itself; direction and destination come from complements.",
-  "sound_symbolism": "The word begins with 'we', where the welcoming 'w' paradoxically opens the mouth in the shape of departure - lips rounded as if releasing a breath, letting something precious float away. The 'e' rises slightly, a gentle lift like the first step of a journey. The second syllable 'pu' creates a soft plosive release - the 'p' is a quiet parting, like a seedpod opening, while 'u' draws back into the distance, the sound itself receding like a figure walking into the horizon. Together, 'wepu' embodies the acoustic shape of leaving - an opening that becomes a release, a presence that becomes an absence, the sound of footsteps growing quieter with distance.",
-  "grammatical_notes": "Functions as an intransitive verb of motion requiring no direct object ('mia wepu' - I go), typically taking directional complements with prepositions ('mia wea womu wepu' - I go toward home) or source markers ('mia lue womu wepu' - I go from home). Can express future intent when unmarked ('mia wepu' - I'm going/I'll go). Unlike English, does not function as a noun - separate words such as 'pholeni' (depart) cover departure.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Going embodies the fundamental Buddhist practice of letting go - the ability to leave without clinging, to move forward without attachment. The Buddha's own 'going forth' (pabbajjā) from palace life exemplifies how departure can be a spiritual act. Each going is a small practice of non-attachment, teaching us that we can release our grip on where we are.",
-    "pre-industrial-wisdom": "Before modern transport, going was a consequential act requiring preparation, ritual, and often ceremony. Traditional cultures understood departure as significant - whether for pilgrimage, seasonal migration, or nomadic movement. Going connected people to ancestral paths, trade routes worn by generations, and the deep knowledge that movement is survival."
-  },
+  "search_terms": [
+    "proceed"
+  ],
+  "description": "At the gate, a traveller sets out along the village path. Once the traveller is under way, 'wepu' follows the going from the present reference situation along a route, stated or unstated. 'roke' (move) needs no path; 'pholeni' (depart) belongs to the leaving point.",
+  "articulatory_notes": "Raise the back of the tongue and round the lips for voiced 'w', then move forward and unround into stressed middle-height front 'e'. Close the lips for unvoiced 'p' and release them into high-back rounded 'u'.",
+  "sound_symbolism": "The lips begin rounded, open through 'e', meet for 'p', and release into 'u'. The little interruption feels like a foot lifting before the next step.",
+  "usage_notes": "Ablative 'lue' marks the source, 'wea' (TOWARD) the direction, and 'kau' (ALL) a destination understood as reached. A bare 'wepu' leaves those facts to context. Use 'pholeni' when the departure event itself is the point.",
+  "examples": [
+    {
+      "phi": "mia kau silawo wepu.",
+      "translation": "I go to the village."
+    }
+  ],
   "semantic_domains": {
-    "activity": "basic human action of departure and locomotion",
-    "spatial": "involves transition from one location to another",
-    "temporal": "embodies transition from presence to absence, change over time"
+    "activity": "going from a present situation along a path",
+    "spatial": "directed travel through space"
   }
 }

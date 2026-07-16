@@ -7,17 +7,27 @@
     "a"
   ],
   "pos": "verb",
-  "concept": "Come / Arrive / Move Toward",
-  "description": "To move toward a reference point—the speaker, the home, a destination. 'Shua' covers both the approach and the arrival that ends it: distance closing, presence established. It is the counterpart of 'wepu' (go), and the usual answer to an invitation.",
-  "sound_symbolism": "The word begins with 'shu', where the fricative 'sh' creates a soft rushing sound like something approaching - wind through grass announcing arrival, fabric rustling as someone draws near. The 'u' keeps the sound contained and forward-moving, focused like the path of approach. This focused movement then opens into 'a' through vowel hiatus, the mouth and breath opening in welcome, in recognition, in the moment of arrival. The two-syllable structure keeps the word fundamental and quick, while the fricative beginning and vowel hiatus ending give it Phi's distinctive flowing rhythm. 'Shua' is approach made audible - the whisper becoming presence.",
-  "grammatical_notes": "Functions as an intransitive verb of motion toward a reference point, requiring no direct object ('mia shua' - I come). Takes source complements with the preposition 'lue' ('mia lue shelira shua' - I come from the forest) and can indicate purpose with 'lila' ('mia lila naphe shua' - I come to help). Like 'wepu' (go), expresses future intent when unmarked. The imperative 'no shua' is a fundamental invitation or summons.",
-  "pillars": {
-    "peace-linguistics-practices": "Coming is the fundamental gesture of peace-building - approaching rather than withdrawing, drawing near rather than maintaining distance. Every dialogue begins with someone coming to the conversation. The word itself embodies the courage required for connection, the vulnerability of approach, and the trust implicit in arrival. Coming together is how conflicts transform into understanding.",
-    "pre-industrial-wisdom": "Traditional cultures understand arrival as sacred, with elaborate customs of hospitality defining the relationship between those who come and those who receive. The one who comes accepts vulnerability; the one who receives accepts responsibility. This guest-host reciprocity, found across cultures, recognizes that coming creates bonds that outlast the visit itself."
-  },
+  "search_terms": [
+    "approach",
+    "draw near"
+  ],
+  "description": "Footsteps grow louder on the path as a friend comes towards the waiting household. That motion towards a place or moment treated as here is 'shua'. Weather, night, or peace can also come when it becomes present. 'kamo' (arrive) marks the reached endpoint; 'shua' leaves it open.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region and pass unvoiced air through its central groove for 'sh', then draw the tongue back and round the lips for stressed high-back 'u'. Keep the following vowel in its own syllable as the lips unround and the tongue lowers into open central 'a'.",
+  "sound_symbolism": "The quiet rush of 'sh' continues into rounded 'u', then the mouth opens across the hiatus into 'a'. In Phi, that widening sounds like a distant rustle opening into presence.",
+  "usage_notes": "The speaker, the addressee, or the current narrative scene can anchor the reference point. A source takes 'lue'. An explicit target takes 'wea' (TOWARD) or 'kau' (ALL) according to whether arrival is claimed. In careful speech, keep the high-back 'u' distinct from the high-front 'i' of 'shia' (3SG).",
+  "examples": [
+    {
+      "phi": "melu lue nitho shua.",
+      "translation": "The friend comes from the north."
+    },
+    {
+      "phi": "shea shua.",
+      "translation": "Peace comes."
+    }
+  ],
   "semantic_domains": {
-    "activity": "basic human action of moving toward a reference point",
-    "community": "creates proximity and enables interaction and connection",
-    "spatial": "fundamental verb of approach and arrival, closing distance"
+    "activity": "movement towards the reference point of a scene",
+    "spatial": "approach towards a deictic or stated place",
+    "temporal": "an event, time, or condition becoming present"
   }
 }

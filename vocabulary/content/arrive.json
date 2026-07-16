@@ -7,16 +7,23 @@
     "mo"
   ],
   "pos": "verb",
-  "concept": "Arrive / Reach Destination / Come to Place",
-  "description": "To reach one's destination, to come to the place one was traveling toward. 'Kamo' marks the moment journey becomes presence—the traveler now here rather than there, the movement complete, the arrival achieved. It is both ending and beginning.",
-  "sound_symbolism": "The word is compact and conclusive. 'Ka' comes with velar clarity, the definite moment of arrival. The open 'a' announces presence. Then 'mo' meets with nasal grounding, traveler and place coming together.",
-  "grammatical_notes": "Functions as intransitive verb: 'mia kamo' (I arrive). Takes locative for destination: 'mia mua womu kamo' (I arrive at home). Opposite of pholeni (depart). Related to 'shua' (come) but emphasizes reaching destination rather than direction of motion.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Each moment is arrival—we are always already here. Recognizing arrival ends the suffering of perpetual seeking.",
-    "peace-linguistics-practices": "Welcoming arrival creates community—the guest received, the traveler's journey honored, the new presence acknowledged."
-  },
+  "search_terms": [
+    "reach",
+    "get to"
+  ],
+  "description": "The boat touches the landing after a morning on the river. That moment is 'kamo': a traveller, event, or process has reached its destination. 'shua' (come) follows the approach, while 'kamo' closes it.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k', release it, and lower the tongue into stressed open central 'a'. Close the lips for voiced 'm', carry the resonance through the nose, and finish with middle-height back rounded 'o'.",
+  "sound_symbolism": "A clean velar release opens the word, while the final syllable closes into nasal resonance before rounding into 'o'. The ending gives the word a quiet landing.",
+  "usage_notes": "The destination takes locative 'mua' because 'kamo' locates the completed arrival event. 'muo' (INTO) can additionally foreground entry across an interior boundary.",
+  "examples": [
+    {
+      "phi": "mia mua womu kamo.",
+      "translation": "I arrive home."
+    }
+  ],
   "semantic_domains": {
-    "spatial": "Reaching destination",
-    "temporal": "Moment of journey's completion"
+    "activity": "reaching the endpoint of travel or another process",
+    "spatial": "arrival at a destination",
+    "temporal": "the bounded moment when a journey or process reaches its endpoint"
   }
 }

@@ -8,18 +8,23 @@
     "lu"
   ],
   "pos": "verb",
-  "concept": "Stay / Remain / Dwell",
-  "description": "The verb of remaining: to stay in a place, a state, or a relationship by choice. 'Thalu' covers physical presence and commitment alike—staying with difficulty, staying in awareness, staying true to a path. In Phi it is an action in its own right, not the absence of one: the choice to inhabit rather than flee.",
-  "sound_symbolism": "The word rests on the nasals, the grounding consonants. 'Ma' begins with the deep hum of 'm' opening into spacious 'a'—ground with room to live on. 'No' follows with the dental nasal of settling intention, the quiet declaration: here I remain. The word ends in 'lu', where the liquid 'l' carries presence forward without restlessness and the deep 'u' settles into sustained stillness. Where words of motion leap and rush, 'manolu' hums—three low, warm syllables like breath slowing, like someone finding their seat in meditation and choosing, breath after breath, not to leave it.",
-  "grammatical_notes": "Functions as a stative/durative verb expressing continuation in place, state, or relationship. Unlike English, does not require auxiliary constructions for duration. Cross-linguistically similar to: Spanish 'quedarse' using reflexive for volitional staying; Mandarin 'liú' (留) for remaining in place; Japanese 'todomaru' (留まる) for stopping and staying; German 'bleiben' encompassing both remaining and continuing to be; Arabic 'baqiya' (بقي) combining staying with enduring. Can take locative complements: 'mia mua womu manolu' (I stay at home), or state complements in the imperative: 'no shena manolu' (stay calm), expressing both physical dwelling and emotional/spiritual abiding.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Staying embodies the Buddhist practice of patient abiding - sitting with what is rather than fleeing discomfort. It reflects the meditation discipline of staying with the breath, staying present to experience without avoidance. 'Thalu' grammaticalizes the wisdom that transformation often comes through staying still, as the Buddha stayed beneath the Bodhi tree until enlightenment arose.",
-    "peace-linguistics-practices": "Staying embodies the commitment to remain present in difficult dialogue, to not abandon conversation when it becomes uncomfortable. 'Thalu' supports the practice of staying with conflict until understanding emerges, recognizing that peace often requires the courage to stay rather than the ease of leaving.",
-    "pre-industrial-wisdom": "Traditional wisdom values dwelling deeply in place - indigenous peoples staying with their ancestral lands for generations, developing intimate knowledge through patient presence. This rootedness creates understanding that cannot be gained through wandering, teaching that some wisdom only comes to those who stay long enough to see the full cycle of seasons."
-  },
+  "search_terms": [
+    "remain",
+    "linger"
+  ],
+  "description": "The visitor stays after the meal, and the river remains high after the rain. Both are 'manolu': someone or something continues in a place, state, or relation across time. 'menui' (dwell) makes an ongoing home in a place; 'manolu' is the continuation itself.",
+  "articulatory_notes": "Close the lips for voiced 'm', let the sound resonate through the nose, and open into central 'a'. Place the tongue tip against the backs of the upper teeth for dental 'n', continue the nasal airflow, and round the lips for stressed middle-height back 'o'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and finish with high-back rounded 'u'.",
+  "sound_symbolism": "Two nasals give the opening syllables a sustained hum, and lateral 'l' carries the last vowel without a stop. Nothing interrupts the three-syllable contour; it lingers in the mouth instead of landing on a stop.",
+  "usage_notes": "A location takes locative 'mua', and 'tei' (UNTIL) can give a boundary to the stay. A descriptor immediately before 'manolu' can identify the quality that continues.",
+  "examples": [
+    {
+      "phi": "wetha nia wonepa manolu.",
+      "translation": "The cloth stays on the table."
+    }
+  ],
   "semantic_domains": {
-    "spatial": "remaining in place and location",
-    "temporal": "continuing through time and duration",
-    "wisdom": "patient presence bringing understanding"
+    "activity": "remaining in a place, state, or relation",
+    "spatial": "continued presence at a location",
+    "temporal": "continuation across a stated or contextual interval"
   }
 }

@@ -50,6 +50,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Agreement, consent, refusal, and pressure | **DONE** | Nine inherited base verbs now use the target prose contract. Their immediate distinctions are covered without adding a root; neutral retraction remains an explicit connected-use review question. |
 | Participation, cooperation, contribution, and mutual aid | **DONE** | Eleven inherited base verbs now use the target prose contract. Participation, joint work, contribution, shared use, help, support, service, inclusion, invitation, and welcome remain distinct without adding a root. |
 | Giving, receiving, keeping, and circulation | **DONE** | Thirteen inherited base entries now use the target prose contract. Giving, reception, taking, holding, exchange, portioning, collection, storage, release, and physical conveyance remain distinct without adding a root. |
+| Basic motion, endpoints, and staying | **DONE** | Nine inherited base verbs now use the target prose contract. Motion, path, deictic approach, departure, arrival, boundary crossing, return, and continued presence remain separate without adding a root. |
 | Resume inherited content prose migration | **NEXT** | Continue with another inherited base noun or verb neighbourhood under the same coverage gate. |
 
 ## Batch overview
@@ -85,6 +86,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Agreement, consent, refusal, and pressure | [PR #386](https://github.com/dcellison/phi/pull/386) | **REVIEW** | Nine base verbs separate an answer from its receipt, a shared position from compliance, willing acceptance from consent, communicative influence from coercion, and ordinary response from retaliation. Neutral retraction remains under review. |
 | Participation, cooperation, contribution, and mutual aid | [PR #387](https://github.com/dcellison/phi/pull/387) | **COVERED** | Eleven base verbs keep active participation, compatible effort, joint shaping, contribution, shared use, practical help, underlying support, service, inclusion, invitation, and welcome apart. Mutual aid and volunteering compose naturally from these relations. |
 | Giving, receiving, keeping, and circulation | [PR #388](https://github.com/dcellison/phi/pull/388) | **COVERED** | Thirteen base entries separate directed giving, gifts, reception, active taking, present holding, reciprocal exchange, portioning, collecting, storage, release, bringing, sending, and carrying. Lending, delivery, donation, and disputed taking remain transparent compositions. |
+| Basic motion, endpoints, and staying | PR pending | **COVERED** | Nine base verbs separate motion itself, travel along a path, deictic approach, bounded departure and arrival, interior crossing, return, and continued presence. Start, stop, reach, approach, recession, and passage already use established grammar and relators. |
 
 ## Semantic batches and stable domains
 
@@ -123,6 +125,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Agreement, consent, refusal, and pressure | `activity`, `cognition`, `communication`, `community`, `ethics` | Recognition, shared stance, voluntary uptake, bounded permission, refusal, changed terms, communicative influence, constrained choice, and reprisal remain separate claims. |
 | Participation, cooperation, contribution, and mutual aid | `activity`, `cognition`, `communication`, `community`, `creation`, `nature`, `physical` | Taking part, fitting actions together, shaping one undertaking, adding a usable part, sharing access, assisting an act, sustaining a condition, serving a purpose, and opening or receiving participation remain separate claims. |
 | Giving, receiving, keeping, and circulation | `activity`, `cognition`, `communication`, `community`, `nature`, `physical`, `quantity`, `spatial`, `temporal`, `wisdom` | Direction of transfer, present holding, social ownership, reciprocal exchange, arithmetic operation, arranged storage, and physical support through movement remain separate claims. |
+| Basic motion, endpoints, and staying | `activity`, `physical`, `spatial`, `temporal` | Motion itself, a route through space, orientation towards a reference point, bounded arrival or departure, interior crossing, return, and persistence through time remain separate claims. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -708,6 +711,27 @@ At a winter table, beans leave storage, bread is portioned, a jar passes from on
 
 No root is added. A loan is a giving and receiving with an agreed later return, a delivery is sending plus arrival or reception, and theft is taking without the relevant consent or authority. These clauses are a little longer than their English labels, but the extra words carry information those labels routinely hide.
 
+## Basic motion, endpoints, and staying
+
+One hand shifts a chair. Its owner crosses the doorway, reaches the well, and stays there until dusk. Phi divides the scene into motion, boundary crossing, arrival, and continued presence.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Positional change, going, and locomotion | Base `roke` (move), `wepu` (go), `thalo` (walk), `rashelo` (run), `wapi` (fly), and `wishe` (swim) | **COVERED** | `roke` reports motion or changed position without requiring a path. `wepu` follows a subject along a path, while the narrower verbs say how a body travels. |
+| Coming and deictic reference | Base `shua` (come), `wepu`, and the directional prepositions | **COVERED** | Coming moves towards the place, time, or participant treated as the scene's here. It can describe weather or an event becoming present without claiming that a spatial journey finished. |
+| Source, direction, goal, and event location | `lue` (ABL), `wea` (TOWARD), `kau` (ALL), and `mua` (LOC) | **SETTLED** | A source, an open direction, a promised destination, and the place where an event occurs each have their own relator. `kamo` takes `mua` because arrival is an event at its destination. |
+| Departure, arrival, leaving, and reaching | Base `pholeni` (depart), `kamo` (arrive), and `wepu` | **COVERED** | Departure selects the source boundary, arrival selects the reached endpoint, and going follows the intervening path. English leave and reach divide across those claims rather than demanding broader senses from one verb. |
+| Entering, exiting, and interior boundaries | Base `koema` (enter) and `thiru` (exit), with `muo` (INTO) and `mue` (OUT.OF) | **COVERED** | The verbs focus the inward or outward crossing. The prepositions identify the interior and can also accompany a general motion verb when the route matters more than the crossing event. |
+| Return, recurrence, restoration, reuse, and relapse | Base `turema` (return), `nuri` (cycle), and `talome` (restore), with Ecological `tukelu` (recycle), Medical `morashi` (relapse), and returned-input composition | **COVERED** | Return concerns an earlier place, condition, relation, or use; a cycle repeats; restoration concerns condition. Recycling and relapse keep their technical processes and evidence rather than becoming loose senses of return. |
+| Staying, dwelling, settling, waiting, and resting | Base `manolu` (stay), `menui` (dwell), `soki` (settle), `hasi` (wait), and `therilu` (rest) | **COVERED** | Staying preserves presence in a place or continuation in a state or relation, and its subject need not be willing. Dwelling makes a home relation, settlement begins one, waiting looks towards a later event, and rest pauses an activity or body. |
+| Beginning, stopping, and continuing | Inchoative `pa`, cessative `te`, imperfective `si`, and the relevant lexical verb | **SETTLED** | Phi marks the start, ending, or ongoing interior of any action before the verb. `manolu` remains available when the claim is continuation in a place, state, or relation rather than aspect on an action. |
+| Approaching, receding, reaching, crossing, and passing | `wea` (TOWARD), `phei` (AWAY), `kau` (ALL), `kamo`, `thue` (THROUGH), and an ordinary motion verb | **COMPOSITIONAL** | The relator carries the path relation while the verb says what moves or how. This keeps direction and completed arrival audible as separate facts. |
+| Leaving a place, leaving something behind, and releasing it | Base `pholeni`, `manolu`, `leiro` (release), and `thinu` (put) | **COMPOSITIONAL** | A traveller departs, an object left behind stays, and an object no longer held is released or put somewhere. English leave hides these different relations under one spelling. |
+| Journeying, wandering, wayfinding, and visiting | Base `laniru` (journey) and `whenola` (wander), with Accessibility `runaki` (wayfind) and Household `phemiru` (visit) | **COVERED** | A journey has an extended passage, wandering lacks a fixed route, wayfinding maintains orientation, and a visit is a bounded stay with a person or place as a guest. Their narrower prose migrations belong to later batches. |
+| Caused movement and transport | Causative `ka` with `roke` or `turema`, plus base `kolua` (carry), `thola` (bring), and `sepho` (send) | **COVERED** | Causative motion changes who initiates the movement. Carrying supplies support during travel, bringing accompanies movement towards a reference destination, and sending need not accompany the traveller. |
+
+No root is added. Cessative `te` already stops any verb, and the prepositions turn a small motion inventory into a route description without making `wepu` or `shua` swallow every point along the way. Walking, flying, swimming, and wandering stay for a later prose batch because they describe how a body travels, not the endpoints mapped here.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -748,4 +772,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete, and the inherited base migration has now covered core speech, knowledge and memory, attention and imagination, desire and commitment, agreement and social pressure, participation and mutual aid, and the movement of gifts and material through hands and places. Module batches remain paused. The next work package will select another coherent base noun or verb neighbourhood under the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, sustained interest or engagement, and neutral retraction remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete, and the inherited base migration has now covered core speech, knowledge and memory, attention and imagination, desire and commitment, agreement and social pressure, participation and mutual aid, material circulation, and basic motion through its boundaries and endpoints. Module batches remain paused. The next work package will select another coherent base noun or verb neighbourhood under the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, sustained interest or engagement, and neutral retraction remain recorded review questions rather than hidden gaps.
