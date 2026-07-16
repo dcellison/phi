@@ -8,17 +8,30 @@
     "ma"
   ],
   "pos": "verb",
-  "concept": "Care / A Grounded Presence of Nurturing",
-  "description": "The provision of what is necessary for the health, welfare, maintenance, and protection of someone or something. It is a mindful, grounded, and nurturing attention.",
-  "sound_symbolism": "The word begins with the thoughtful fricative 'th', requiring the deliberate breath and attention that true care demands. This opens into the heart-space of 'e.a', a vowel sequence that creates openness and receptivity. The final 'ma' grounds the word in nurturing presence, echoing the universal sound of maternal comfort. This progression—from mindful attention through open-hearted space to grounded nurturing—mirrors the very act of caring: first we notice, then we open our hearts, then we hold with steady presence. The word carries within it the tender strength of a lullaby.",
-  "grammatical_notes": "A transitive verb; the direct object is the recipient of care: 'mia lopia theama.' (I care for the child.) The event-noun rule gives the noun sense, the care given: 'welao theama' (good care). Combines naturally with 'miso' for self-care: 'thia miso theama' (you care for yourself). Related to 'numelo' (nurture) and 'temoe' (tend).",
+  "search_terms": [
+    "look after",
+    "provide care"
+  ],
+  "description": "Attend through concern and practical action to the needs or wellbeing of a person or living thing. The same verb can look after a home, habitat, or object whose condition needs attention. 'temoe' (tend) returns through recurring practical acts, 'numelo' (nurture) follows development, and 'thiranu' (maintain) keeps a stated condition or function.",
+  "articulatory_notes": "Rest the tongue tip near the upper teeth for unvoiced 'th' and let the breath pass into middle-height front unrounded 'e'. Keep the following stressed open central 'a' in its own syllable across the 'e.a' hiatus. Close the lips for voiced 'm', carry the voice through the nose, and release into final open central 'a'.",
+  "sound_symbolism": "Breath at the teeth opens across the hiatus before the lips meet at 'm'. The word moves from an outward stream of air to a warm nasal close, a contour that can recall attention becoming practical presence.",
+  "usage_notes": "The recipient or object of care precedes 'theama'; reflexive 'miso' makes care for oneself explicit. The event-noun rule supplies care. The surrounding account can state the actual work, the person's wishes, and whether it met the need.",
+  "examples": [
+    {
+      "phi": "mia lopia theama.",
+      "translation": "I care for the child."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Care embodies compassion in action - the practice of alleviating suffering through mindful attention and skillful response. It reflects the understanding that wellbeing is interdependent, and that caring for others is inseparable from caring for ourselves. This concept emphasizes presence over performance, being with suffering rather than rushing to fix it.",
-    "peace-linguistics-practices": "Care is the active practice of preventing harm through attentive nurturing. In peace linguistics, expressing care creates verbal and physical spaces where violence cannot take root. By naming and enacting care, we establish relationships based on mutual support rather than domination, making care itself a form of conflict prevention and transformation."
+    "solarpunk-values": "Care for people, tools, homes, and living systems makes maintenance and mutual aid part of ordinary life rather than invisible background work.",
+    "secular-buddhist-philosophy": "Care gives compassion a practical form while keeping attention on the person or living thing actually present.",
+    "peace-linguistics-practices": "Naming care separately from authority lets a speaker describe helpful work without treating concern as permission to decide for someone else."
   },
   "semantic_domains": {
-    "community": "provides mutual support for collective wellbeing",
-    "emotion": "nurtures through open-hearted presence and attention",
-    "physical": "maintains health and protects bodily welfare"
+    "activity": "attentive practical work directed towards need or wellbeing",
+    "community": "care given within a relationship or shared setting",
+    "ethics": "conduct that answers another being's welfare or a responsibility of upkeep",
+    "nature": "care for a living thing, habitat, or ecological place",
+    "physical": "bodily care or practical attention to material condition"
   }
 }

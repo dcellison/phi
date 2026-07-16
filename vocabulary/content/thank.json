@@ -8,16 +8,27 @@
     "ne"
   ],
   "pos": "verb",
-  "concept": "Thank / Express Gratitude / Acknowledge Gift",
-  "description": "To express gratitude for what has been given, done, or offered. 'Whaline' is the verbal gift returned—the acknowledgment that something has been received and valued. It completes the cycle of giving by naming the gift and the giver.",
-  "sound_symbolism": "The word breathes gratitude outward. 'Wha' /ʍa/ opens with breathy wonder, acknowledging what has been given. Then 'li' flows with liquid grace, gratitude moving. Finally 'ne' settles with nasal warmth, thanks given and received.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia thia whaline.' (I thank you.) The reason can be marked with 'lao': 'mia lao naphe thia whaline.' (I thank you for the help.) Related to 'woraka' (appreciate)—whaline is the expression, woraka the feeling.",
+  "search_terms": [
+    "give thanks",
+    "express gratitude"
+  ],
+  "description": "Express gratitude to someone for a gift, act, presence, or contribution. Thanks acknowledges that something was received and mattered to the speaker. 'nemo' (grateful) names the feeling, and 'woraka' (appreciate) recognises value whether or not anyone is addressed.",
+  "articulatory_notes": "Round the lips as for 'w' while letting unvoiced air pass through the narrowed opening for 'wh', then open into central 'a'. Touch the tongue tip to the alveolar ridge for stressed 'l' and release laterally into high-front unrounded 'i'. Place the tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and finish with middle-height front unrounded 'e'.",
+  "sound_symbolism": "Unvoiced breath leaves the rounded lips before the word settles into voiced lateral and nasal sound. The contour feels outward at its start and grounded at its close, fitting a response sent back towards another person.",
+  "usage_notes": "The person thanked stands directly before 'whaline'. A reason can take 'lao', as in thanks for help. The feeling of gratitude remains 'nemo'.",
+  "examples": [
+    {
+      "phi": "mia thia whaline.",
+      "translation": "I thank you."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Thanking completes the gift cycle—it transforms transaction into relationship, exchange into connection.",
-    "pre-industrial-wisdom": "Traditional cultures embed thanks in ritual and daily speech, recognizing that gratitude maintains social bonds and cosmic balance."
+    "peace-linguistics-practices": "Thanks can name the particular act or presence that mattered, which gives recognition without making the recipient responsible for the speaker's gratitude.",
+    "pre-industrial-wisdom": "Repeated thanks keeps gifts, shared labour, and seasonal provision visible instead of allowing them to become anonymous routine."
   },
   "semantic_domains": {
-    "communication": "Verbal expression of gratitude",
-    "community": "Completing the gift cycle"
+    "communication": "gratitude expressed to another participant",
+    "community": "acknowledgement of a gift, act, presence, or contribution",
+    "emotion": "felt gratitude given outward form"
   }
 }

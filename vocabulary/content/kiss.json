@@ -8,16 +8,24 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Kiss / Affection's Touch of the Lips",
-  "description": "To kiss: to set the lips against someone or something in affection. The child's goodnight on a worn toy's nose, the parent's on a hurt knee, greeting, blessing, farewell. 'Phimela' is love made briefly physical; it asks nothing and closes nothing, the smallest complete gift the body gives.",
-  "sound_symbolism": "'phi' is the lips' own sound: the fricative 'ph' /ɸ/ is made exactly where a kiss is made, breath crossing lips barely parted. 'me.la' warms and releases it, the 'me' of 'melu' (friend) and 'mela' of gentleness, ending open: a kiss lands and lets go.",
-  "grammatical_notes": "Transitive verb, the kissed as object: 'lopia tupiwa nophae phimela.' (The child kisses the rabbit's nose.) 'thema lopia to phimela.' (The guardian kissed the child.) The event noun, a kiss, comes by rule. Kin to 'palo' (touch), the wider sense it specializes, and 'lomare' (embrace), its larger sibling.",
+  "search_terms": [
+    "touch with the lips"
+  ],
+  "description": "Touch someone or something with the lips, commonly in affection, greeting, blessing, or farewell. The kiss may land on a person, an animal, a keepsake, or a hurt knee. 'palo' (touch) is the wider contact verb, while 'phimela' names the lips' particular act.",
+  "articulatory_notes": "Bring the lips close without sealing them for unvoiced 'ph', pass air through the gap, and move into high-front unrounded 'i'. Close the lips for stressed voiced 'm', carry the voice through the nose, and open into middle-height front unrounded 'e'. Touch the tongue tip to the alveolar ridge for 'l' and finish on open central 'a'.",
+  "sound_symbolism": "The opening bilabial fricative is made at the same place where a kiss lands, with breath crossing lips that are nearly closed. Nasal resonance follows before the final lateral opens, giving the word a small release rather than a sealed ending.",
+  "usage_notes": "'phimela' takes the kissed person, body part, animal, or object directly. The verb reports physical contact; willingness and the relationship in which it occurs remain separately speakable.",
+  "examples": [
+    {
+      "phi": "lopia tupiwa nophae phimela.",
+      "translation": "The child kisses the rabbit's nose."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Metta with a location: goodwill condensed to one point of contact, offered and released without grasping.",
-    "peace-linguistics-practices": "A language for gentleness needs the act itself nameable: affection spoken as plainly as it is given."
+    "peace-linguistics-practices": "Phi can name a tender act plainly while keeping consent and relationship in their own words. Affection does not have to smuggle either one into the contact verb."
   },
   "semantic_domains": {
-    "emotion": "Affection made touch",
-    "physical": "The lips' brief gift"
+    "community": "a kiss used within affection, greeting, blessing, or farewell",
+    "physical": "contact made by placing the lips against someone or something"
   }
 }

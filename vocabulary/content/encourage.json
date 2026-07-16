@@ -8,17 +8,27 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Encourage / To Build a Bridge to the Heart",
-  "description": "The act of giving support, confidence, or hope to someone. It is the process of building a bridge to another's core to help them find their own strength.",
-  "sound_symbolism": "The word begins with 'no', grounding with nasal presence, the solid earth beneath someone who needs to stand. This flows through 'me', acknowledging the personal, heartfelt nature of true encouragement, the mindful connection between two people. The final 'la' carries this support forward as a path opening ahead. The arc from grounded presence through personal connection to flowing path captures how encouragement works: not pushing from behind but walking alongside, offering both steadiness and heart to help another find their way.",
-  "grammatical_notes": "'melu mia nomela.' (The friend encourages me.) The noun sense, encouragement, is the rule-derived event noun. Related to 'panoru' (support) and 'phesua' (inspire).",
+  "search_terms": [
+    "give confidence",
+    "give heart"
+  ],
+  "description": "Give someone confidence or hope to begin, continue, or return to an action they may choose. Encouragement helps another person find their own willingness rather than supplying the decision for them. 'panoru' (support) provides a condition on which something depends, while 'phesua' (inspire) awakens an urge or creative possibility.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and open into middle-height back rounded 'o'. Close the lips for stressed 'm', maintain nasal airflow, and release into middle-height front unrounded 'e'. Touch the tongue tip to the alveolar ridge for 'l' and finish on open central 'a'.",
+  "sound_symbolism": "Voiced nasals carry the word through its first two syllables before the lateral opens into final 'a'. The steady resonance and open finish can recall support that accompanies someone to the threshold and leaves the next step theirs.",
+  "usage_notes": "Encouragement takes the person as its direct object. A 'mena ... meno' clause can state the hoped-for action when needed. The person may still refuse or change plans; 'nomela' does not require persistence in the original course.",
+  "examples": [
+    {
+      "phi": "melu mia nomela.",
+      "translation": "The friend encourages me."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Encouragement is mutual aid at the emotional level. In a community that shares tools and food, hope and confidence circulate the same way: resources that grow when passed along.",
-    "secular-buddhist-philosophy": "To encourage skillfully means seeing another's Buddha nature - their inherent capacity for wisdom and compassion - especially when they cannot see it themselves. This practice requires setting aside our agenda to truly perceive and reflect back another's authentic strengths, helping them reconnect with their own path.",
-    "peace-linguistics-practices": "Encouragement creates peace by affirming another's inherent strength rather than imposing external pressure. This practice recognizes that sustainable change comes from within, and that our role is to reflect back the courage already present in others. By building bridges to hearts, we prevent the violence of despair and isolation."
+    "solarpunk-values": "Shared work often continues because people pass confidence and practical support between one another, especially when the result is still uncertain.",
+    "peace-linguistics-practices": "Encouragement can strengthen another person's agency without turning confidence into pressure or treating persistence as the only acceptable answer."
   },
   "semantic_domains": {
-    "community": "builds bridges between hearts for mutual strength",
-    "emotion": "gives hope and confidence through heartfelt support"
+    "communication": "words or gestures that give confidence or hope",
+    "community": "encouragement offered within a shared effort or relationship",
+    "emotion": "confidence or hope strengthened in another person"
   }
 }

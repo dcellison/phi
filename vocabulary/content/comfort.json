@@ -8,16 +8,28 @@
     "ni"
   ],
   "pos": "verb",
-  "concept": "Comfort / Ease Distress / Soothe Suffering",
-  "description": "To ease another's distress, offering presence, words, or touch that reduces suffering. 'Thuleni' names the active response to another's pain—not fixing the cause but easing the experience, making the unbearable more bearable through companionship and care.",
-  "sound_symbolism": "The word soothes like comfort itself. 'Thu' /θu/ begins with dental breath, soft and unhurried. Then 'le' lifts gently with liquid ease, burden lightening. Finally 'ni' settles with nasal calm, distress subsiding.",
-  "grammatical_notes": "'mia thia thuleni.' (I comfort you.) The noun sense, comfort given, comes by the event-noun rule: 'welao thuleni' (good comfort). Related to 'phamo' (console) but broader; 'thuleni' applies to any distress, while 'phamo' is specific to grief.",
+  "search_terms": [
+    "soothe",
+    "ease distress"
+  ],
+  "description": "Ease another person's distress or discomfort through presence, words, touch, or a change in their surroundings. Comfort can help while the cause remains and need not hurry the feeling away. 'phamo' (console) belongs specifically to grief or mourning, while 'shena' (calm) describes low agitation rather than the care offered.",
+  "articulatory_notes": "Rest the tongue tip near the upper teeth for unvoiced 'th' and let the breath pass into high-back rounded 'u'. Touch the tongue tip to the alveolar ridge for stressed 'l' and release laterally into middle-height front unrounded 'e'. Place the tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The opening breath gives way to a voiced lateral and then a quiet nasal close. With no stop consonant, the word can be spoken as one gentle easing of airflow.",
+  "usage_notes": "The person receiving comfort comes before 'thuleni'. An instrumental phrase can name what was offered, and the event-noun rule supplies comfort. The verb reports the attempt to ease distress; its effect can be stated separately.",
+  "examples": [
+    {
+      "phi": "mia thia thuleni.",
+      "translation": "I comfort you."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Compassion (karuna) responds to suffering with the wish to ease it. 'Thuleni' is compassion in action.",
-    "peace-linguistics-practices": "Comforting presence may be more valuable than problem-solving—sometimes being with is the truest help."
+    "secular-buddhist-philosophy": "Comfort may stay beside pain when no remedy is known. Its attention is to easing suffering, not to making the difficult account disappear.",
+    "peace-linguistics-practices": "Words of comfort can receive distress without correcting the speaker's experience or demanding a quick return to calm."
   },
   "semantic_domains": {
-    "community": "Caring for those who suffer",
-    "emotion": "Responding to others' distress"
+    "activity": "an act intended to ease another person's distress or discomfort",
+    "community": "comfort offered within a caring relationship",
+    "emotion": "relief or companionship offered in response to distress",
+    "physical": "touch or changed bodily surroundings used to ease discomfort"
   }
 }

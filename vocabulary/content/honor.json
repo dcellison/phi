@@ -8,16 +8,27 @@
     "ro"
   ],
   "pos": "verb",
-  "concept": "Honor / Show Deep Respect / Acknowledge Worth",
-  "description": "To show deep respect and reverence for someone or something, acknowledging their intrinsic worth and dignity. 'Keluro' is the visible expression of recognizing value—through words, gestures, or actions that communicate: you matter, you are seen, your contribution is held sacred.",
-  "sound_symbolism": "The word lifts with reverence. 'Ke' begins with velar clarity, attention focusing on what deserves recognition. Then 'lu' flows with liquid grace, respect extending outward. Finally 'ro' rolls with warm acknowledgment, honor given fully.",
-  "grammatical_notes": "As verb: 'mia thia keluro.' (I honor you.) With manner: 'mia roe melira thia keluro.' (I honor you with song.) Related to 'woraka' (appreciate) and 'nawea' (respect), but keluro emphasizes the outward expression and formal recognition.",
+  "search_terms": [
+    "pay tribute",
+    "show marked respect"
+  ],
+  "description": "Give visible or formal recognition to a person, contribution, relationship, place, or teaching held in high regard. Honour may be expressed through words, conduct, or ceremony. 'nawea' (respect) recognises standing and boundaries in ordinary relation, while 'nelu' (revere) is the inward regard that may lead to honour.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for 'k' and release into middle-height front unrounded 'e'. Touch the tongue tip to the alveolar ridge for stressed 'l' and release laterally into high-back rounded 'u'. Tap or briefly trill the tongue tip for 'r', then finish with middle-height back rounded 'o'.",
+  "sound_symbolism": "A crisp velar opening gives way to a long run of voiced, rounded sound through the lateral and tap. The change from clear onset to resonant finish can make the word feel suited to recognition made audible before others.",
+  "usage_notes": "A person, contribution, place, or teaching may receive 'keluro' directly. An instrumental phrase with 'roe' gives the act or form of honour. Fulfilling a promise uses 'korei' (fulfill); English 'honour a promise' does not widen 'keluro' into performance of an undertaking.",
+  "examples": [
+    {
+      "phi": "mia thia keluro.",
+      "translation": "I honour you."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Honoring others creates relational foundation—when we name someone's worth, we build the ground for authentic dialogue.",
-    "pre-industrial-wisdom": "Traditional cultures honor elders, ancestors, and teachers through ritual and daily practice—honor as ongoing relationship, not one-time event."
+    "peace-linguistics-practices": "Public recognition can name a person's contribution without granting them authority over everyone present.",
+    "pre-industrial-wisdom": "Honour is often kept through repeated acts towards elders, teachers, ancestors, places, or craft traditions rather than through a title alone."
   },
   "semantic_domains": {
-    "community": "Acknowledging worth within relationships",
-    "ritual": "Formal expressions of respect"
+    "communication": "respect or tribute deliberately expressed to others",
+    "community": "visible recognition of a person, contribution, or relationship",
+    "ritual": "formal or repeated acts of honour"
   }
 }

@@ -8,16 +8,26 @@
     "sha"
   ],
   "pos": "verb",
-  "concept": "Reconcile / Restore Relationship / Heal Division",
-  "description": "To restore harmony after conflict, healing the breach between people or within oneself. 'Warosha' names the courageous work of coming back together—acknowledging hurt, offering repair, and rebuilding trust across the divide that conflict created.",
-  "sound_symbolism": "The word bridges division. 'Wa' begins with labial openness, willingness to approach. Then 'ro' rolls with warming connection, relationship rebuilding. Finally 'sha' /ʃä/ breathes with gentle resolution, peace restored.",
-  "grammatical_notes": "Functions as a verb with a comitative phrase: 'mia nua thia warosha.' (I reconcile with you.) Reflexive with 'miso': 'mia miso warosha.' (I reconcile within myself.) Often used after conflict, estrangement, or misunderstanding. Related to 'shea' (peace) but emphasizes the active restoration; compare 'tholira' (forgive).",
+  "search_terms": [
+    "restore relationship",
+    "make peace"
+  ],
+  "description": "Work to restore a relationship to workable accord after conflict, estrangement, or harm. Reconciliation may acknowledge what happened and make room for repair without returning the relationship to its former shape. 'tholira' (forgive) can be one person's release of grievance; 'warosha' concerns the relation among participants.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then open into central 'a'. Tap or briefly trill the tongue tip for stressed 'r' and move into middle-height back rounded 'o'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh', direct air through the narrow channel, and finish on open central 'a'.",
+  "sound_symbolism": "The form begins with an approaching glide, turns on the stressed tap, and ends in a broad hush. That movement offers a mnemonic for participants coming back into relation while the trace of conflict remains audible.",
+  "usage_notes": "Participants may take reciprocal 'wiso' or a comitative phrase with 'nua'. With reflexive 'miso', a person works to bring conflicting parts of their own life or account into workable relation.",
+  "examples": [
+    {
+      "phi": "lo mia wiso warosha.",
+      "translation": "We reconcile with each other."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Reconciliation practices letting go of grievance without denying harm—holding both truth and compassion.",
-    "peace-linguistics-practices": "Reconciliation requires both parties choosing relationship over righteousness—prioritizing connection over being right."
+    "secular-buddhist-philosophy": "A reconciled relation need not recover its old shape. Change can be acknowledged without fixing either participant permanently to the conflict.",
+    "peace-linguistics-practices": "Reconciliation has its own verb because peace after harm requires work on the relationship, not only an end to open conflict or one person's forgiveness."
   },
   "semantic_domains": {
-    "community": "Healing relationships after conflict",
-    "emotion": "Processing hurt toward restoration"
+    "community": "work on a relationship after conflict, estrangement, or harm",
+    "ethics": "reconciliation pursued alongside acknowledgement and repair"
   }
 }

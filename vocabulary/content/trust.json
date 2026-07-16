@@ -8,16 +8,26 @@
     "mi"
   ],
   "pos": "verb",
-  "concept": "Trust / A Deliberate Opening of the Self",
-  "description": "The confident reliance on the integrity and goodwill of another. It is a courageous and considered choice to make one's inner self vulnerable and whole in relation to another.",
-  "sound_symbolism": "The thoughtful 'the' makes trust a choice, not naivety - wisdom deciding when vulnerability serves connection. This deliberation opens to 'o', the wholeness that refuses to hide parts of self in shadow. Finally 'mi' brings the intimate core forward, offering what is usually protected. Three syllables trace trust's brave journey: careful consideration, complete presence, personal revelation - the courage to be known.",
-  "grammatical_notes": "'mia thia theomi.' (I trust you.) The state itself is the event noun: 'mia theomi' (my trust). Related to 'nohero' (believe) and 'themui' (faith).",
+  "search_terms": [
+    "rely on",
+    "place confidence in"
+  ],
+  "description": "Rely on a person, group, process, or thing under uncertainty. Trust may rest on honesty, care, repeated conduct, or tested function, and its scope can be as narrow as the present task. 'nohero' (believe) takes a proposition as true, 'themui' (faith) sustains confidence in an unfolding process, and Systems 'koluri' (reliable) reports repeated technical performance.",
+  "articulatory_notes": "Rest the tongue tip near the upper teeth for unvoiced 'th' and let the breath pass into middle-height front unrounded 'e'. Keep stressed middle-height back rounded 'o' separate across the 'e.o' hiatus. Close the lips for voiced 'm', carry the voice through the nose, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "Breath at the teeth opens across a wide hiatus before the lips meet in the final nasal. The form makes its largest opening at the centre, which can serve as a mnemonic for reliance that accepts some uncertainty.",
+  "usage_notes": "A person, group, process, or thing can stand directly before 'theomi'. In noun position, the relation is trust. The task, evidence, duration, or condition gives that trust its actual scope.",
+  "examples": [
+    {
+      "phi": "mia thia theomi.",
+      "translation": "I trust you."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Trust forms the foundation upon which peaceful communication stands - without basic faith in others' humanity and good intentions, dialogue becomes impossible. This practice requires vulnerability and courage, choosing to believe in the possibility of understanding even when past experience counsels caution. Trust given often creates trust returned."
+    "peace-linguistics-practices": "Trust can make honest dialogue possible, but naming its scope keeps reliance from becoming a demand for unrestricted access or automatic agreement."
   },
   "semantic_domains": {
-    "communication": "foundation for genuine communication",
-    "community": "essential for building social bonds",
-    "emotion": "emotional vulnerability and courage"
+    "cognition": "judgement that a person, process, or thing can be relied upon in a stated respect",
+    "community": "reliance placed within a social relationship",
+    "emotion": "felt confidence that permits reliance under uncertainty"
   }
 }

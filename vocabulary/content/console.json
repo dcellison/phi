@@ -7,16 +7,26 @@
     "mo"
   ],
   "pos": "verb",
-  "concept": "Console / Give Solace / Comfort in Grief",
-  "description": "To offer solace to one who grieves or mourns, being present with them in their sorrow. 'Phamo' names the specific comfort given to loss—not attempting to dispel grief but accompanying the grieving one, honoring their pain while offering presence.",
-  "sound_symbolism": "The word is gentle and close. 'Pha' /ɸa/ breathes with soft presence, simply being there. Then 'mo' stays with nasal constancy, not leaving, holding space for grief.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia thia phamo.' (I console you.) Specifically for grief and mourning; for general distress use 'thuleni' (comfort). Pairs with 'nuhemi' (grieve): the one who grieves is the one consoled.",
+  "search_terms": [
+    "give solace",
+    "comfort in grief"
+  ],
+  "description": "Offer solace and companionship to someone who grieves or mourns. Consoling stays with the loss rather than treating grief as an error to correct. 'thuleni' (comfort) covers distress or discomfort more generally; 'phamo' is the narrower response to bereavement and other deeply felt loss.",
+  "articulatory_notes": "Bring the lips close without sealing them for unvoiced 'ph', pass air through the gap, and open into stressed open central 'a'. Close the lips for voiced 'm', carry the voice through the nose, and finish on middle-height back rounded 'o'.",
+  "sound_symbolism": "The lips begin with audible breath and then close into a voiced nasal. That brief movement from offered breath to steady resonance suits a word often spoken when explanation would be of little use.",
+  "usage_notes": "The established consolation construction places the bereaved person after dative 'wei': 'mia wei thia phamo' (I console you). The same form names consolation in noun position. Surrounding sentences may offer presence or memory, or voice a wish without promising that grief will end.",
+  "examples": [
+    {
+      "phi": "mia wei thia phamo. mia ha nai.",
+      "translation": "I console you. I am here."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Consoling practices presence with suffering rather than aversion to it. We sit with grief rather than fleeing from it.",
-    "pre-industrial-wisdom": "Traditional mourning practices include community consolation—the grieving one not left alone, others bearing witness to loss."
+    "secular-buddhist-philosophy": "Consolation can remain present with grief without trying to argue the pain away or make impermanence easy.",
+    "pre-industrial-wisdom": "Communal mourning gives grief time, witnesses the loss, and keeps the bereaved person in company when ordinary routines no longer hold."
   },
   "semantic_domains": {
-    "community": "Supporting the bereaved",
-    "emotion": "Accompanying grief"
+    "community": "solace offered to a bereaved or grieving person",
+    "emotion": "companionship and comfort directed specifically towards grief"
   }
 }

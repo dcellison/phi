@@ -7,16 +7,26 @@
     "lu"
   ],
   "pos": "verb",
-  "concept": "Revere / Honor Deeply / Venerate",
-  "description": "To regard with deep respect and honor; veneration that recognizes worth. 'Nelu' names the honoring gaze—seeing and acknowledging what is worthy of respect.",
-  "sound_symbolism": "The word honors from the ground up. 'Ne' begins with grounded clarity, respect rooted in honest recognition. 'Lu' flows with deep feeling. Reverence as deep, grounded honor rather than mere performance.",
-  "grammatical_notes": "Functions as verb, object before verb: 'mia wheo nelu.' (I revere the elder.) Related to 'keluro' (honor), the outward expression — 'nelu' is the inward awe; also 'thunoa' (dignified) and 'rolia' (worth).",
+  "search_terms": [
+    "venerate",
+    "hold in awe"
+  ],
+  "description": "Regard someone or something with deep respect touched by awe. A person may revere an elder, teacher, place, work, or teaching without treating it as beyond question. 'nawea' (respect) is the broader everyday relation, while 'keluro' (honor) makes high regard visible through expression or ceremony.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and open into stressed middle-height front unrounded 'e'. Touch the tongue tip to the alveolar ridge for 'l' and release laterally into high-back rounded 'u'.",
+  "sound_symbolism": "The short word stays fully voiced, moving from dental nasal resonance into a rounded lateral release. Its measured fall from 'e' to 'u' gives reverence a quiet weight without requiring loudness or display.",
+  "usage_notes": "The object of reverence precedes 'nelu' and may be a person, place, work, or teaching. An outward rite or tribute may use 'keluro', but reverence itself may remain unexpressed.",
+  "examples": [
+    {
+      "phi": "mia wheo nelu.",
+      "translation": "I revere the elder."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Reverence without attachment—honoring without grasping or idolizing.",
-    "pre-industrial-wisdom": "Reverence for elders—traditional honoring of those who carry wisdom."
+    "secular-buddhist-philosophy": "Reverence may honour a teaching or teacher without turning respect into unquestioning attachment.",
+    "pre-industrial-wisdom": "Reverence can grow through long attention to a teacher, elder, place, or practice whose lessons cannot be gathered in one encounter."
   },
   "semantic_domains": {
-    "emotion": "Deep respect",
-    "ritual": "Honoring practice"
+    "emotion": "deep respect joined with awe",
+    "ritual": "the inward regard that may underlie veneration or ceremonial honour"
   }
 }

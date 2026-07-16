@@ -8,16 +8,26 @@
     "a"
   ],
   "pos": "verb",
-  "concept": "Love / Deep Affection / Active Care",
-  "description": "To feel and express deep affection, care, and commitment toward another being. 'Lothea' covers the full range of love, from tender caring to devotion, and treats love as practice rather than feeling alone: to love is to act with love.",
-  "sound_symbolism": "The word flows with warmth and openness. 'Lo' reaches with liquid extension, heart extending toward another. Then 'the' /θe/ breathes with gentle intimacy, the sacred softness of connection. Finally 'a' opens fully, love given without reservation.",
-  "grammatical_notes": "As verb: 'mia thia lothea.' (I love you.) Reciprocal: 'lo mia wiso lothea.' (We love each other.) Can specify type: 'lumani lothea' (family love), 'phaelu lothea' (peaceful love). Related to 'meropi' (cherish) but broader—lothea is the foundation, meropi the treasuring.",
+  "search_terms": [
+    "feel deep affection",
+    "loving-kindness"
+  ],
+  "description": "Feel and practise deep affection or active care towards someone or something. 'lothea' can take people, places, living things, and ways of life without requiring a separate romantic sense. 'kaeli' (like) is the lighter favourable response, while 'meropi' (cherish) gives sustained tender regard to someone or something held particularly dear.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and release laterally into middle-height back rounded 'o'. Rest the tongue tip near the upper teeth for stressed unvoiced 'th' and let the breath pass into middle-height front unrounded 'e'. Keep final open central 'a' in its own syllable across the 'e.a' hiatus.",
+  "sound_symbolism": "A rounded lateral opening reaches the breathy dental centre, then the word opens once more across the final hiatus. Its full movement from voiced resonance through breath to open 'a' has made it a natural centre of Phi's gentler sound family.",
+  "usage_notes": "People, places, other beings, and practices can all precede 'lothea' as its object. Reciprocal 'wiso' states love shared among participants. In noun position the form is love; compounds such as 'lothea korua' (loving heart) let the relation modify another concept without narrowing its kind.",
+  "examples": [
+    {
+      "phi": "mia thia lothea.",
+      "translation": "I love you."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Metta (loving-kindness) is love without condition or possession—wishing well for all beings, starting with those close to us.",
-    "peace-linguistics-practices": "Love expressed through language creates connection—naming affection strengthens bonds and affirms relationship."
+    "secular-buddhist-philosophy": "In the Metta Sutta, 'lothea' becomes a loving heart cultivated without boundary. The verb keeps that goodwill active rather than reducing it to a private feeling.",
+    "peace-linguistics-practices": "Making love ordinary enough to state directly gives affectionate relation a place beside disagreement, refusal, and repair instead of treating tenderness as unspeakable background."
   },
   "semantic_domains": {
-    "community": "Foundation of relationship",
-    "emotion": "Deep affection and care"
+    "community": "deep affection and active care within a relationship or shared life",
+    "emotion": "love felt towards a person, place, living thing, or way of life"
   }
 }

@@ -8,16 +8,22 @@
     "li"
   ],
   "pos": "verb",
-  "concept": "Like / Prefer-Toward / The Gentle Choosing",
-  "description": "The verb naming the experience of preference, the inclination toward something that pleases or suits. In Phi, liking is understood as gentle affinity rather than possessive desire—a recognition that something resonates with one's nature. This word sits between mere tolerance and consuming passion, naming the comfortable warmth of appreciation.",
-  "sound_symbolism": "The word opens with 'ka', where the velar stop makes gentle contact—the moment of recognition, the touch of preference. This opens through 'e', clarifying the quality of liking, before flowing into 'li', where the liquid 'l' connects self to liked object with warmth while 'i' brightens with pleasure. The arc traces liking's nature: recognition, clarity, warm connection.",
-  "grammatical_notes": "Functions as a verb taking an object of what is liked: 'mia ha melira kaeli.' (I like this song.) Distinct from 'lothea' (love), which runs deeper, and from 'wilao' (long-for), which reaches toward what is absent. Can describe preference for activities, things, people, or qualities.",
-  "pillars": {
-    "art-nouveau-aesthetics": "The cultivation of taste, the development of aesthetic preference, begins with liking. 'Kaeli' honors the gentle 'yes' of attraction.",
-    "peace-linguistics-practices": "Liking without needing teaches non-attachment. 'Kaeli' names appreciation that doesn't demand possession."
-  },
+  "search_terms": [
+    "enjoy",
+    "find pleasing"
+  ],
+  "description": "Feel a favourable response or easy affinity towards a person, activity, thing, or quality. Liking may guide a preference, but 'kanu' (choose) names the selection itself and can follow other reasons. 'lothea' (love) carries deeper affection or care; similarity uses 'phea' (like, as) and is unrelated to this verb.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for 'k' and release into open central 'a'. Move forward into stressed middle-height front unrounded 'e' as a separate syllable across the 'a.e' hiatus. Touch the tongue tip to the alveolar ridge for 'l' and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The velar release opens across a full hiatus, then the lateral carries the word into bright final 'i'. That light, rising contour suits an ordinary positive response without making it as weighty as love or commitment.",
+  "usage_notes": "Whatever is liked comes before 'kaeli'. Comparative 'mo' can state which of two alternatives is liked more. Resemblance belongs to preposition 'phea', never to this verb.",
+  "examples": [
+    {
+      "phi": "mia ha melira kaeli.",
+      "translation": "I like this song."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "the mental state of favorable regard",
-    "emotion": "the feeling of preference and affinity"
+    "aesthetic": "a favourable response to a sensory or artistic quality",
+    "emotion": "ordinary liking or affinity towards a person, activity, thing, or quality"
   }
 }
