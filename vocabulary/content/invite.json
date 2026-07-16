@@ -7,17 +7,23 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Invite / To Open a Path into a Space",
-  "description": "The act of creating an opening for another to join a space, activity, or community. It is a gesture of inclusion and welcome.",
-  "sound_symbolism": "The breathy 'wh' opens expansively, creating immediate space where none existed before - the generous gesture that makes room for another. This spaciousness flows into 'la', forming the path that guides entry, making approach both possible and welcoming. In just two syllables, the word performs its meaning: opening space, creating passage. The breath and flow together embody invitation's dual nature - both the space made and the path offered.",
-  "grammatical_notes": "'mia thia whola.' (I invite you.) With destination: 'mia muo womu thia whola.' (I invite you into the home.) An invitation comes free by the event-noun rule. Related: whelani (welcome), phemi (guest), pharune (include).",
+  "search_terms": [
+    "ask to join"
+  ],
+  "description": "Supper is nearly ready when a neighbour asks a traveller to join them. 'whola' communicates an opening for someone to enter a place or take part in an activity. The invitation leaves the answer with the invited person; 'whelani' (welcome) is the reception if they arrive.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for unvoiced 'wh', then lower the tongue slightly into stressed middle-height back rounded 'o'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and finish with open central unrounded 'a'.",
+  "usage_notes": "The invited person is the direct object, and a destination or activity can take 'muo'. The event-noun rule supplies an invitation. An invitation offers entry or participation; the invited person's answer and practical access remain separate.",
+  "examples": [
+    {
+      "phi": "mia muo womu thia whola.",
+      "translation": "I invite you into the home."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Invitation serves as powerful peace practice by actively countering exclusion and isolation - root causes of conflict. When we invite, we create belonging before it's demanded, offering inclusion as gift rather than extracted right. This proactive practice of making space prevents the violence that emerges from feeling unwelcome or unseen.",
-    "pre-industrial-wisdom": "The act of invitation carries ancient sacred weight - the understanding that opening one's space to another creates bonds of reciprocal obligation and care. Traditional societies knew that today's guest becomes tomorrow's host, weaving networks of mutual support through cycles of invitation. This wisdom sees the invited guest as potential blessing, teaching that generosity in welcome creates abundance in community."
+    "peace-linguistics-practices": "An invitation opens participation without taking the answer. It can approach across a boundary while leaving refusal complete."
   },
   "semantic_domains": {
-    "community": "creates and strengthens bonds through inclusive gestures",
-    "ritual": "involves ceremonial protocols and formal gestures of welcome",
-    "spatial": "explicitly opens spaces and creates paths for others to enter"
+    "communication": "communicating an opening to enter or take part",
+    "community": "inviting another person into a shared place or activity"
   }
 }

@@ -8,16 +8,26 @@
     "ne"
   ],
   "pos": "verb",
-  "concept": "Include / Bring Within / Make Part Of",
-  "description": "To bring someone or something within a group, category, or whole, making them part of what was previously bounded without them. 'Pharune' names the act of expanding belonging—widening the circle to embrace what was outside.",
-  "sound_symbolism": "The word expands to encompass. 'Pha' /ɸa/ begins with breathy openness, boundary becoming permeable. Then 'ru' rolls with gathering warmth, bringing in. Finally 'ne' settles with nasal security, the included one now safely within.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia thia pharune.' (I include you.) Can specify the group: 'mia muo lumani thia pharune.' (I include you in the family.) Opposite of exclusion—pharune affirms belonging. Related: wema (belong), whola (invite).",
+  "search_terms": [
+    "count within",
+    "make part of"
+  ],
+  "description": "A map includes the footpath but leaves the private garden outside its boundary. 'pharune' counts or places someone or something within a stated group, activity, set, or whole. Inclusion fixes the boundary of the account; it does not promise belonging or practical participation.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then open into unstressed central 'a'. Make a tap or short trill with the tongue tip for 'r', then raise the back of the tongue and round the lips for stressed high-back 'u'. Place the tongue tip against the backs of the upper front teeth for voiced dental 'n', let air pass through the nose, and finish with middle-height front unrounded 'e'.",
+  "sound_symbolism": "The opening breath and tongue tap closely echo 'pharomu' (exclude), giving the two boundary verbs an audible family resemblance. After the shared 'pha.r' gesture, their stressed vowels and final syllables turn in different directions.",
+  "usage_notes": "The included person or thing is the direct object, and a phrase with 'muo' can name the group or whole. The event-noun rule supplies inclusion. 'wema' (belong), 'wemari' (member), and 'pawela' (participate) describe relations that inclusion alone cannot settle.",
+  "examples": [
+    {
+      "phi": "ha terura lo monaki pharune.",
+      "translation": "This system includes the components."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Inclusive communities are resilient communities—diversity of members strengthens the whole.",
-    "peace-linguistics-practices": "Inclusion practices expand the 'we'—the more we include, the fewer 'others' remain outside our circle of care."
+    "solarpunk-values": "Designing a commons requires saying who and what its boundary includes. 'pharune' makes that boundary available for inspection instead of treating inclusion as a pleasant mood."
   },
   "semantic_domains": {
-    "communication": "Affirming membership",
-    "community": "Expanding belonging"
+    "activity": "placing a person or thing within a stated activity or whole",
+    "cognition": "including an element within an account, model, or category",
+    "community": "including someone within a group or shared process"
   }
 }

@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (192)
+## activity (201)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -62,6 +62,7 @@
 | `menai` | dedicate | setting work, effort, or self apart for a person or purpose |
 | `milau` | drink | fundamental human activity of drinking |
 | `misharo` | consult | seeking a view before a pending action |
+| `molawi` | cooperate | adjusting separate actions so they work compatibly |
 | `morume` | decompose | biological or chemical breakdown of material |
 | `muholi` | dig | Earth-work |
 | `mukesi` | spoil | loss of suitability for an intended practical use |
@@ -69,6 +70,7 @@
 | `muphera` | stock | items held for future practical use |
 | `muro` | stubborn | persistence in a course despite reasons to adjust it |
 | `napako` | bake | cooking food through surrounding dry heat |
+| `naphe` | help | adding effort or action that makes something easier to carry through |
 | `naphelu` | assistive | a device or practice supporting a chosen action |
 | `nashaku` | enforce | applying authority or procedure in relation to compliance |
 | `natu` | pull | Inbound force to the body |
@@ -87,7 +89,9 @@
 | `nurome` | meal | an occasion of eating |
 | `palo` | touch | the act of making contact with a person or thing |
 | `palowe` | shoe | The walker's equipment |
+| `panoru` | support | providing what another activity or condition depends on |
 | `panuri` | resource | something considered available for a stated purpose or process |
+| `pawela` | participate | taking an active part in an event or process |
 | `peki` | squeeze | Compression in the hand |
 | `perawi` | expose | contact between an entity and a stated environmental agent |
 | `pesa` | push | Outbound force from the body |
@@ -98,11 +102,14 @@
 | `pharelo` | cook | fundamental human activity of cooking |
 | `phareme` | ingredient | food selected for use in a preparation |
 | `pharomu` | exclude | preventing or omitting participation in a stated action |
+| `pharune` | include | placing a person or thing within a stated activity or whole |
+| `pheloma` | serve | performing work for a stated recipient, purpose, or continuing activity |
 | `phelure` | store | retention arranged for later retrieval or release |
 | `phemiru` | visit | spending a bounded time with a person or at a place |
 | `pherami` | depend | a function or process conditioned by another element |
 | `phesari` | flee | departure in response to danger or constraint |
 | `phoa` | do | fundamental human activity of doing |
+| `phowe` | share | making something available for use with others |
 | `phurewa` | sweep | moving loose material with repeated brush strokes |
 | `phurilo` | broom | an instrument used in sweeping |
 | `pilewa` | make | fundamental human activity of making |
@@ -144,6 +151,7 @@
 | `shalimo` | alliance | oriented toward sustained collective action, not one decision |
 | `shaweri` | advocate | acting in support of a stated position or change |
 | `sholu` | complete | a task or process with every required step finished |
+| `shorema` | contribute | adding effort or another usable part to shared work |
 | `shua` | come | basic human action of moving toward a reference point |
 | `shuneki` | vaccinate | administering a vaccine for a stated protective purpose |
 | `sikanu` | certify | issuing or maintaining a formal criteria claim |
@@ -188,6 +196,7 @@
 | `turelo` | feedback | a returned effect that alters an ongoing process |
 | `wapho` | throw | Release into flight |
 | `welotu` | mix | combining materials by moving them together |
+| `wenola` | collaborate | working jointly on one undertaking or result |
 | `wepanu` | redundant | continued function through an alternate component, path, or method |
 | `wephari` | coordinate | arranging dependent work relations |
 | `wepu` | go | basic human action of departure and locomotion |
@@ -291,7 +300,7 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `wira` | window | View portal |
 
-## cognition (232)
+## cognition (233)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -383,12 +392,14 @@
 | `nuphari` | fog | Perception limited |
 | `nuwi` | clear | meaning or structure that can be followed without a tangle |
 | `palethu` | tactile | information distinguished through tactile perception |
+| `panoru` | support | evidence or reasoning that supports a claim |
 | `pekira` | toxic | a conditioned assessment of biological harm capability |
 | `pelaku` | severity | a criterion-relative judgment of degree |
 | `pemaru` | hazard | a potential-harm classification kept distinct from likelihood and outcome |
 | `phaelo` | feel | conscious awareness of an internal experience |
 | `phamori` | symptom | a noticed and reported health-relevant experience |
 | `phanoi` | portion | Names arithmetic division through a portioning metaphor |
+| `pharune` | include | including an element within an account, model, or category |
 | `phelira` | mistaken | a person, belief, statement, or course presently in error |
 | `phelui` | word | the carrier of meaning between minds |
 | `phenui` | thoughtful | careful thought that includes another person's needs or circumstances |
@@ -509,7 +520,6 @@
 | `waora` | wondrous | an experience judged to exceed the expectation brought to it |
 | `welura` | spread | Names arithmetic multiplication through a spreading metaphor |
 | `weni` | imagine | forming mental content beyond what is presently perceived |
-| `wenola` | collaborate | aligns minds along shared paths of understanding |
 | `wephari` | coordinate | tracking order, information, and interfaces |
 | `wepuri` | progress | an interpreted relation between current and intended states |
 | `weshaku` | outbreak | a cluster or excess defined against stated expectations |
@@ -564,7 +574,6 @@
 | `moli` | gentle | speech delivered with mild pressure or force |
 | `moreko` | articulate | clear verbal expression available for another person's response |
 | `mothare` | premise | a claim participants can grant, question, or revise explicitly |
-| `naphe` | help | Fundamental exchange of mutual aid |
 | `nawea` | respect | foundation for respectful communication |
 | `naweri` | refuse | giving an explicit negative answer or rejecting a claim |
 | `naweso` | consensus | public stances considered under a stated consensus rule |
@@ -575,11 +584,9 @@
 | `nophi` | story | fundamentally acts of structured transmission from one consciousness to another |
 | `nowiso` | interface | an informational interface can mediate exchange without guaranteeing understanding |
 | `numike` | negotiate | discussing terms with one or more counterparts |
-| `pawela` | participate | engaging in collective processes and exchange |
 | `peshu` | lie | False speech; the breaking of communicative trust |
 | `phae` | open | beginning access to an exchange or response |
 | `phamori` | symptom | the person's own account of bodily or mental experience |
-| `pharune` | include | Affirming membership |
 | `phelotu` | format | a communication form selected for sending and receiving meaning |
 | `phelui` | word | the basic unit of speech |
 | `phena` | kind | consideration made audible in a reply or choice of words |
@@ -589,7 +596,7 @@
 | `phiremo` | relate | Establishing relationship in communication |
 | `phisuwa` | example | a case speakers can offer, compare, and discuss explicitly |
 | `phiwheki` | counterexample | a concrete way to challenge overgeneralization |
-| `phowe` | share | sharing is exchange and reciprocity |
+| `phowe` | share | sharing information or expression with other people |
 | `phulae` | mouth | the gate through which speech emerges |
 | `remotha` | reason | a ground offered so others can examine a claim or choice |
 | `remuma` | conclusion | the result of an argument that participants may assess separately |
@@ -613,6 +620,7 @@
 | `sherewa` | claim | the public act of offering a proposition to others |
 | `shonui` | ear | Essential for receiving communication |
 | `shoraku` | interpret | carrying meaning between languages or communication modes |
+| `shorema` | contribute | contributing words or information to a shared exchange |
 | `sikanu` | certify | a formal claim whose source and scope can be challenged |
 | `sirelu` | disclose | making information known to a new recipient |
 | `sitheku` | transcribe | carrying spoken or signed expression into writing |
@@ -645,7 +653,9 @@
 | `whakeru` | object | placing a challenge into discussion for response |
 | `whaline` | thank | Verbal expression of gratitude |
 | `whekate` | refute | a decisive challenge supported by reasons or evidence |
+| `whelani` | welcome | greeting an arrival or making reception explicit |
 | `whishela` | whisper | Speech made of breath |
+| `whola` | invite | communicating an opening to enter or take part |
 
 ## community (289)
 
@@ -725,7 +735,7 @@
 | `misuki` | mouse | The neighbor underfoot |
 | `moeli` | hearth | Gathering place |
 | `moenu` | culture | Shared ways |
-| `molawi` | cooperate | harmonizes diverse roles toward common purpose |
+| `molawi` | cooperate | cooperation among participants towards an understood outcome |
 | `moloi` | apprentice | Learning role |
 | `moreke` | mammal | Close animal kin |
 | `motu` | humble | a stance that does not place one's importance above other people's |
@@ -733,7 +743,7 @@
 | `muraki` | harvest | Shared labor and celebration |
 | `muriwe` | worm | The garden's smallest laborer |
 | `napa` | bread | The staple food of the shared table |
-| `naphe` | help | Assisting others |
+| `naphe` | help | help directed towards another person or shared undertaking |
 | `napuro` | grain | The staple that sets the table |
 | `naseru` | obligation | a requirement attributed to an agent under a stated source |
 | `nashaku` | enforce | institutional enforcement with stated methods and review |
@@ -766,9 +776,9 @@
 | `nurome` | meal | food gathered for solitary or shared eating |
 | `nuwera` | bed | The rest a household provides its members |
 | `palu` | plate | Hospitality |
-| `panoru` | support | Providing foundation for others |
+| `panoru` | support | practical or social support for people and groups |
 | `panuri` | resource | availability and access may be shared, contested, governed, or refused |
-| `pawela` | participate | participation is inherently social and collective |
+| `pawela` | participate | participating in shared work or collective decisions |
 | `peloma` | harmful | effects that diminish another person's or a community's wellbeing |
 | `pemaru` | hazard | a condition whose exposure and consequences may be shared or unequal |
 | `phaelu` | peaceful | a nonviolent and workable condition among people |
@@ -782,8 +792,8 @@
 | `pharelo` | cook | Nourishing others through preparation |
 | `pharomu` | exclude | keeping someone outside a group or shared process |
 | `pharuki` | celebrate | Communal honoring of occasions |
-| `pharune` | include | Expanding belonging |
-| `pheloma` | serve | service is inherently about collective contribution |
+| `pharune` | include | including someone within a group or shared process |
+| `pheloma` | serve | service directed towards a person or group |
 | `phelona` | require | social needs for connection and belonging |
 | `phelu` | hold | supporting others through holding space or providing stability |
 | `phemi` | guest | transforms strangers into temporary family through hospitality bonds |
@@ -795,7 +805,7 @@
 | `phewo` | sage | Wisdom role |
 | `phitura` | well (water) | The shared water-place |
 | `phomila` | offspring | fundamental to family bonds and social continuity |
-| `phowe` | share | foundational act of community building |
+| `phowe` | share | shared use of things, resources, or activities |
 | `pilora` | exploit | a social relation involving asymmetrical benefit and burden |
 | `pilu` | take | creating bonds through reciprocity |
 | `piru` | trader | Exchange role |
@@ -837,7 +847,7 @@
 | `shiwolu` | integrate | Creating functional unity |
 | `sholei` | gather | Offers gathering as a metaphor for combined quantities |
 | `shorai` | commune | Shared living |
-| `shorema` | contribute | Adding to shared endeavors |
+| `shorema` | contribute | adding something to a collective undertaking or pool |
 | `shorupo` | protect | Guarding the vulnerable |
 | `shua` | come | creates proximity and enables interaction and connection |
 | `shuneki` | vaccinate | a preventive action with individual and collective relations |
@@ -913,7 +923,7 @@
 | `wema` | belong | roots in collective identity and mutual acceptance |
 | `wemari` | member | recognized membership in a stated group or institution |
 | `wemi` | ally | joins personal identity with collective struggle |
-| `wenola` | collaborate | weaves diverse strengths through collective effort |
+| `wenola` | collaborate | participants shaping shared work together |
 | `wepanu` | redundant | a resilience practice for shared infrastructure and services |
 | `wephari` | coordinate | coordination among participants without implied hierarchy |
 | `weru` | poet | Creative role |
@@ -923,14 +933,14 @@
 | `wethate` | laundry | a recurring domestic workload within a household |
 | `whaline` | thank | Completing the gift cycle |
 | `whano` | stand | posture of greeting, equality, and standing together |
-| `whelani` | welcome | receiving others and creating belonging |
+| `whelani` | welcome | receiving another person's presence as wanted |
 | `whemori` | waste | a status assigned by a holder, process, or institution with consequences for others |
 | `wheo` | elder | serves as keeper of collective memory and story |
 | `wheparu` | discriminate | unequal treatment of a person or group |
 | `whepelo` | retaliate | retaliation through a social or institutional power relation |
 | `whetuma` | appeal | an institutional appeal with stated recipient and standing |
 | `whishela` | whisper | The voice standing close |
-| `whola` | invite | creates and strengthens bonds through inclusive gestures |
+| `whola` | invite | inviting another person into a shared place or activity |
 | `wilemo` | toy | Made for a child's hands |
 | `wiresu` | postpone | a schedule change affecting shared participation |
 | `wisola` | exchange | weaves relationships through reciprocal giving and receiving |
@@ -941,7 +951,7 @@
 | `wonepa` | table | Where the meal gathers |
 | `woru` | keeper | Guardian role |
 
-## creation (168)
+## creation (164)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -995,7 +1005,6 @@
 | `melira` | song | A made thing of voice and time |
 | `mera` | net | Mesh structure |
 | `moesu` | wax | Sealing material |
-| `molawi` | cooperate | achieves shared goals through coordinated effort |
 | `moloi` | apprentice | Craft training |
 | `molu` | container | Receptacle |
 | `molupa` | box | a rigid container assembled from flat sides |
@@ -1019,7 +1028,6 @@
 | `nowiso` | interface | a designed means through which systems or components interact |
 | `nurako` | railway | The iron road, before the turning |
 | `palu` | plate | Serving dish |
-| `pawela` | participate | actively contributing implies co-creation |
 | `pelua` | paper | Writing surface |
 | `phaliso` | network | generates and sustains new possibilities through connection |
 | `phanu` | canvas | Art surface |
@@ -1028,7 +1036,6 @@
 | `phareme` | ingredient | one material from which a dish or drink is made |
 | `phari` | pen | Writing tool |
 | `phelasi` | shelf | a made surface supported above the floor |
-| `pheloma` | serve | active contribution and building of systems |
 | `phelotu` | format | the shaped presentation of content |
 | `phemila` | host | actively builds welcoming environments and gathering conditions |
 | `pheralu` | rain | Life-giving precipitation |
@@ -1039,7 +1046,6 @@
 | `phisoe` | creative | making or action that puts an idea into a new practical or artistic form |
 | `phoka` | lens | Optical device |
 | `phora` | sail | Wind catcher |
-| `phowe` | share | creates abundance through circulation |
 | `phui` | flute | Wind instrument |
 | `phuri` | brush | Painting tool |
 | `phurilo` | broom | a long-handled brush made for floors or ground |
@@ -1065,7 +1071,7 @@
 | `shela` | art | Aesthetic making |
 | `shiro` | tree | provider of materials, shelter, and breath |
 | `shiroka` | repair | technical restoration of a damaged object's function |
-| `shorema` | contribute | Building collective goods |
+| `shorema` | contribute | contributing material or work to a made result |
 | `sima` | thread | Spun fiber |
 | `sitheku` | transcribe | making a stable textual rendering of language |
 | `soeli` | cup | Drinking vessel |
@@ -1101,7 +1107,7 @@
 | `weloa` | loom | Weaving device |
 | `welotu` | mix | distributing ingredients through a preparation |
 | `weni` | imagine | imagining a possible work, design, story, or arrangement before or during making |
-| `wenola` | collaborate | produces together what none could conceive alone |
+| `wenola` | collaborate | jointly making or revising a shared result |
 | `wenu` | tonic | Strengthening drink |
 | `weoli` | reed | Weaving material |
 | `wepanu` | redundant | a design quality based on independent alternative means |
@@ -1114,7 +1120,7 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## emotion (88)
+## emotion (87)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1200,7 +1206,6 @@
 | `waora` | wondrous | a person, event, or thing that prompts a felt response of wonder |
 | `warosha` | reconcile | Processing hurt toward restoration |
 | `wema` | belong | feeling of being held and accepted within relationships |
-| `whelani` | welcome | warmth and heartfelt reception |
 | `wilao` | long-for | sustained or intense desire for someone, something, or an outcome |
 | `wile` | play | Experiencing lightness and joy |
 | `wipha` | restless | felt agitation or difficulty settling |
@@ -1233,7 +1238,7 @@
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 | `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
-## nature (226)
+## nature (227)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1346,6 +1351,7 @@
 | `nunoa` | forager | Wild harvesting |
 | `nuora` | food | the gifts of earth that nourish us |
 | `nuphari` | fog | Dense ground-level cloud |
+| `panoru` | support | relations that allow organisms or ecological processes to continue |
 | `pekira` | toxic | potential biological effects on organisms or living groups |
 | `pelori` | bird | Aerial life |
 | `peloru` | flower | the blooming structure of plants |
@@ -1464,7 +1470,7 @@
 | `wolea` | wood | Tree material |
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 
-## physical (350)
+## physical (351)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1630,7 +1636,7 @@
 | `palo` | touch | bodily or material contact at a surface |
 | `paloi` | foot | the body member contacting earth |
 | `palowe` | shoe | Between foot and road |
-| `panoru` | support | Holding up, bearing weight |
+| `panoru` | support | bearing weight or holding a structure in place |
 | `panuri` | resource | the term often concerns material, energy, land, water, or biological products |
 | `patoku` | solid | matter that retains its own shape and roughly its volume under the conditions at hand |
 | `peki` | squeeze | Pressure brought inward |
@@ -1665,6 +1671,7 @@
 | `phitura` | well (water) | Water at the end of effort |
 | `phoa` | do | performing actions and activities |
 | `pholuo` | luminous | a source or material that emits, transmits, or appears suffused with light |
+| `phowe` | share | making a material thing available to several users |
 | `phulae` | mouth | the body opening for eating and speaking |
 | `phurewa` | sweep | surface cleaning through bristle contact |
 | `phurilo` | broom | bristles moving loose material across a surface |
@@ -1842,7 +1849,7 @@
 | `whoa` | whole | all relevant parts included in the total under discussion |
 | `wi` | two | the exact quantity two and the coefficient two in ternary numerals |
 
-## ritual (39)
+## ritual (37)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1882,11 +1889,9 @@
 | `thula` | spring | Sacred gift-place |
 | `thunepa` | sacred place | Place of reverence |
 | `whano` | stand | ceremonial stance for respect, witness, and participation |
-| `whelani` | welcome | ceremonial hospitality practices |
-| `whola` | invite | involves ceremonial protocols and formal gestures of welcome |
 | `whunei` | breathe | Central to meditation practice |
 
-## spatial (151)
+## spatial (149)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2032,10 +2037,8 @@
 | `wesho` | locate | Finding position |
 | `whalo` | large | considerable extent without selecting a particular dimension |
 | `whano` | stand | vertical positioning that establishes presence and place |
-| `whelani` | welcome | movement from outside to inside, crossing thresholds |
 | `whemoa` | empty | a bounded container or place with no contents or occupants |
 | `whenola` | wander | Undirected movement through space |
-| `whola` | invite | explicitly opens spaces and creates paths for others to enter |
 | `wira` | window | Light opening |
 | `wiralu` | runoff | movement from a source surface toward a lower or receiving place |
 | `womu` | home | a dwelling understood as home rather than location alone |
@@ -2216,7 +2219,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (127)
+## wisdom (126)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2275,7 +2278,6 @@
 | `pelua` | paper | Receptive potential |
 | `peshu` | lie | What truthfulness is defined against |
 | `phari` | pen | Recording thought |
-| `pheloma` | serve | understanding interdependence and collective wellbeing |
 | `phelu` | hold | knowing how to maintain without clinging |
 | `phenui` | thoughtful | reflection on likely effects before action |
 | `pheru` | endure | Persistence |

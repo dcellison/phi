@@ -8,18 +8,25 @@
     "ni"
   ],
   "pos": "verb",
-  "concept": "Welcome / To Receive the Self of Another",
-  "description": "The warm, heartfelt reception of another into one's presence or space. It is the act that confirms and validates an invitation.",
-  "sound_symbolism": "The breathy 'wh' opens like a door swinging wide, creating immediate space for the other. The flowing 'la' extends this openness outward like arms reaching in embrace, while the intimate 'ni' draws close with personal warmth. This progression from spatial opening through extending movement to intimate connection captures the full arc of welcome - from the first gesture of invitation to the final moment of heartfelt reception.",
-  "grammatical_notes": "'mia phemi whelani.' (I welcome the guest.) A welcome, the noun, is the verb's event noun by rule. Related to 'whola' (invite), which precedes arrival, and 'phemila' (host), who gives the welcome.",
+  "search_terms": [
+    "greet on arrival",
+    "receive warmly"
+  ],
+  "description": "A guest crosses the threshold and the household greets them with food and a place by the fire. 'whelani' receives or greets someone's arrival or presence as wanted. It can follow 'whola' (invite), but welcome may also meet an unplanned arrival and does not by itself confer membership.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for unvoiced 'wh', then move forward and unround into middle-height 'e'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and release into stressed open central unrounded 'a'. Place the tongue tip against the backs of the upper front teeth for voiced dental 'n', keep the airflow nasal, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The opening 'whe' and the following liquid are heard again, more compactly, in 'whola' (invite). The longer nasal close of 'whelani' gives the welcome a softer landing than the shorter invitation.",
+  "usage_notes": "The welcomed person, guest, arrival, or presence is the direct object. The event-noun rule supplies a welcome. As a complete utterance, 'whelani.' greets or receives someone without an expressed subject. Invitation may come before arrival, while welcome belongs to the reception itself.",
+  "examples": [
+    {
+      "phi": "mia phemi whelani.",
+      "translation": "I welcome the guest."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Welcome creates peace by dissolving the boundary between insider and outsider - each genuine welcome transforms a stranger into a guest, a potential threat into a potential friend. This practice recognizes that most conflicts arise from exclusion and fear of the other. By welcoming generously, we create expanding circles of belonging that leave no room for enmity.",
-    "pre-industrial-wisdom": "Traditional welcome rituals recognized arriving strangers as potential bearers of news, skills, or sacred knowledge. Hospitality wasn't mere kindness but survival strategy - today's guest might be tomorrow's ally, and networks of reciprocal welcome created safety for travelers across vast distances. The guest-host relationship was sacred, protected by custom and story."
+    "peace-linguistics-practices": "'whelani' makes reception explicit at the moment someone arrives. A welcome can lower uncertainty without converting a guest into a member or debtor."
   },
   "semantic_domains": {
-    "community": "receiving others and creating belonging",
-    "emotion": "warmth and heartfelt reception",
-    "ritual": "ceremonial hospitality practices",
-    "spatial": "movement from outside to inside, crossing thresholds"
+    "communication": "greeting an arrival or making reception explicit",
+    "community": "receiving another person's presence as wanted"
   }
 }
