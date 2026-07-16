@@ -8,16 +8,21 @@
     "ma"
   ],
   "pos": "verb",
-  "concept": "Enter / Go Into / Cross Inward",
-  "description": "To come or go into a place or space; to begin participation in. 'Koema' names the inward crossing—moving from outside to inside, from excluded to included.",
-  "sound_symbolism": "The word crosses in. 'Ko' marks the threshold, entrance approached. The vowel 'e' opens to welcome. Then 'ma' grounds inside, entry complete.",
-  "grammatical_notes": "Functions as a verb: 'mia koema' (I enter). Destination takes 'muo' (into): 'mia muo womu koema.' (I enter the house.) Opposite of 'thiru' (exit). Related to 'maewo' (threshold)—the place where entering happens.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Entering is beginning—each entry a fresh start, a new engagement, a choice to participate.",
-    "peace-linguistics-practices": "Entering conversation requires care—how we come in shapes what becomes possible."
-  },
+  "search_terms": [
+    "go in",
+    "move into"
+  ],
+  "description": "Rainwater crosses the soil surface and enters the earth. Phi uses 'koema' for that inward crossing, whether the boundary opens onto a space, state, or bounded activity. 'muo' (INTO) names the interior; 'mua' (LOC) only locates an event already within it.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k', release it, and round the lips for middle-height back 'o'. Keep the following stressed middle-height front 'e' in a separate syllable as the lips unround and the tongue moves forward. Close the lips for voiced 'm', let the sound resonate through the nose, and open into central 'a'.",
+  "usage_notes": "The interior commonly follows 'muo' (INTO). With causative 'ka', an agent moves or lets another person or thing inside.",
+  "examples": [
+    {
+      "phi": "phialu muo muila koema.",
+      "translation": "Water enters the earth."
+    }
+  ],
   "semantic_domains": {
-    "community": "Joining",
-    "spatial": "Inward movement"
+    "activity": "crossing inward into a bounded place or activity",
+    "spatial": "movement from outside to inside"
   }
 }

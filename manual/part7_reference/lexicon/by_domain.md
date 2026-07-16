@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (210)
+## activity (216)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -23,6 +23,7 @@
 | `howela` | receive | coming into possession of an object or becoming the endpoint of a transfer |
 | `kaeshu` | bold | readiness to step forward or risk an uncertain action |
 | `kalei` | climb | Ascent by effort |
+| `kamo` | arrive | reaching the endpoint of travel or another process |
 | `kanu` | choose | selecting one action or course from alternatives |
 | `kanuwa` | authorize | granting bounded permission or decision power |
 | `kasira` | vote | formally registering a choice or stance |
@@ -40,6 +41,7 @@
 | `kisome` | assess | evaluating a performance, state, or result |
 | `kithawu` | triage | assessing and ordering care under constraints |
 | `kiwate` | bite | Eating's first act |
+| `koema` | enter | crossing inward into a bounded place or activity |
 | `koewi` | input | something entering and participating in a process |
 | `kolua` | carry | supporting a person or thing throughout movement |
 | `kolupe` | bucket | carrying liquid or loose material by hand |
@@ -58,6 +60,7 @@
 | `lupho` | float | The swimmer's stillness |
 | `luseri` | provenance | the traced movement and transformation of a thing |
 | `makelu` | abstain | formally registering no selection in a procedure |
+| `manolu` | stay | remaining in a place, state, or relation |
 | `masue` | measure | Determining a magnitude for a stated purpose |
 | `masuro` | calibrate | comparison and adjustment of a device against a reference |
 | `meilo` | sit | fundamental human activity of sitting |
@@ -115,6 +118,7 @@
 | `pherami` | depend | a function or process conditioned by another element |
 | `phesari` | flee | departure in response to danger or constraint |
 | `phoa` | do | fundamental human activity of doing |
+| `pholeni` | depart | leaving a current place or setting |
 | `phowe` | share | making something available for use with others |
 | `phurewa` | sweep | moving loose material with repeated brush strokes |
 | `phurilo` | broom | an instrument used in sweeping |
@@ -139,7 +143,7 @@
 | `riporu` | task | one bounded unit of intended or discussed work |
 | `ritako` | workload | the combined demands of work under stated conditions |
 | `rohi` | rub | Friction as care |
-| `roke` | move | fundamental human activity of moveing |
+| `roke` | move | changing position or continuing in motion |
 | `rotiku` | dance | fundamental human activity of dancing |
 | `ruemi` | lie down | Lowering the body to rest |
 | `rulami` | adventure | The journey into the unknown |
@@ -159,7 +163,7 @@
 | `shaweri` | advocate | acting in support of a stated position or change |
 | `sholu` | complete | a task or process with every required step finished |
 | `shorema` | contribute | adding effort or another usable part to shared work |
-| `shua` | come | basic human action of moving toward a reference point |
+| `shua` | come | movement towards the reference point of a scene |
 | `shuneki` | vaccinate | administering a vaccine for a stated protective purpose |
 | `sikanu` | certify | issuing or maintaining a formal criteria claim |
 | `sitawi` | inventory | recording and reviewing held items |
@@ -186,6 +190,7 @@
 | `thesani` | skill | a learned capacity for practical action |
 | `thimelo` | pace | rate and rhythm of a continuing action |
 | `thimora` | schedule | an intended arrangement of actions or events |
+| `thiru` | exit | crossing outward from a bounded place or activity |
 | `thirulo` | output | something produced or released by a process |
 | `thiwera` | scatter | The sower's outward arc |
 | `thola` | bring | bringing a person or thing towards a reference destination |
@@ -202,12 +207,13 @@
 | `tupeka` | burden | a difficult demand borne through action or responsibility |
 | `tupi` | jump | The body's spring |
 | `turelo` | feedback | a returned effect that alters an ongoing process |
+| `turema` | return | coming or going back towards an earlier place, state, relation, or use |
 | `wapho` | throw | Release into flight |
 | `welotu` | mix | combining materials by moving them together |
 | `wenola` | collaborate | working jointly on one undertaking or result |
 | `wepanu` | redundant | continued function through an alternate component, path, or method |
 | `wephari` | coordinate | arranging dependent work relations |
-| `wepu` | go | basic human action of departure and locomotion |
+| `wepu` | go | going from a present situation along a path |
 | `wepuri` | progress | movement toward a stated practical criterion |
 | `wesha` | lazy | avoidable reluctance to exert effort in a chosen or accepted activity |
 | `wethaki` | towel | cloth used in wiping or drying |
@@ -669,7 +675,7 @@
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
-## community (286)
+## community (283)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -697,7 +703,6 @@
 | `kiranu` | qualified | eligibility defined by a social or institutional source |
 | `kirethu` | legitimate | contested legitimacy under stated social criteria |
 | `kithawu` | triage | distribution of care timing and resources among affected people |
-| `koema` | enter | Joining |
 | `kolo` | equal | equal standing among participants within a group |
 | `koluma` | unite | Bringing together into wholeness |
 | `kopharu` | barrier | an arrangement that restricts participation |
@@ -859,7 +864,6 @@
 | `shorai` | commune | Shared living |
 | `shorema` | contribute | adding something to a collective undertaking or pool |
 | `shorupo` | protect | Guarding the vulnerable |
-| `shua` | come | creates proximity and enables interaction and connection |
 | `shuneki` | vaccinate | a preventive action with individual and collective relations |
 | `shurano` | safe | conditions in a shared place or activity judged sufficiently free from danger |
 | `shuroa` | shelter | Refuge |
@@ -903,7 +907,6 @@
 | `thereo` | mediator | essential role in maintaining social harmony |
 | `thero` | fire | hearth fire as center of gathering |
 | `thimora` | schedule | a coordination artifact affecting participants |
-| `thiru` | exit | Departing |
 | `thoepa` | sacred | reverent standing held by an individual or group and expressed through practice |
 | `tholira` | forgive | Enabling healing after harm |
 | `tholupi` | room | an interior place used in shared or solitary daily life |
@@ -1715,7 +1718,7 @@
 | `rohemi` | wear down | gradual alteration of a surface or working condition through repeated exposure |
 | `rohi` | rub | Repeated pressured strokes |
 | `rokai` | back | Posterior torso surface and spine region |
-| `roke` | move | Bodily change of position |
+| `roke` | move | motion of a body or material object |
 | `rokili` | spine | The column of the back |
 | `rolutha` | wagon | Wheels made a carrier |
 | `rotiku` | dance | Rhythmic body movement |
@@ -1915,7 +1918,7 @@
 | `hinawu` | accommodate | altering an environment or route for access |
 | `hirawo` | distance | separation between places, objects, or other spatial referents |
 | `kalei` | climb | From low to high |
-| `kamo` | arrive | Reaching destination |
+| `kamo` | arrive | arrival at a destination |
 | `keiro` | way | Route or method |
 | `kelo` | frame | Defining edge |
 | `kerime` | shore | Liminal meeting zone |
@@ -1923,7 +1926,7 @@
 | `kerone` | peninsula | Connected reaching land |
 | `kesho` | middle | Center point |
 | `kirato` | lock | control at a door, lid, or gate |
-| `koema` | enter | Inward movement |
+| `koema` | enter | movement from outside to inside |
 | `kolua` | carry | transport through space under continuous support |
 | `komalu` | pillow | a small support placed within a resting place |
 | `kopharu` | barrier | a physical obstruction in a route or place |
@@ -1951,7 +1954,7 @@
 | `luphano` | watershed | an area bounded by selected water-flow relations |
 | `luphonu` | boat | The water's vehicle |
 | `maewo` | threshold | Crossing point |
-| `manolu` | stay | remaining in place and location |
+| `manolu` | stay | continued presence at a location |
 | `meilo` | sit | establishes presence in a specific location, transforming space into place |
 | `menui` | dwell | relationship between being and place |
 | `menuro` | habitat | a bounded or distributed area understood relative to an organism |
@@ -1990,14 +1993,14 @@
 | `pheno` | full | the degree to which contents occupy a bounded space |
 | `phesari` | flee | movement away from a threatening or intolerable situation |
 | `phewani` | neighbor | defined by proximity and shared physical space |
-| `pholeni` | depart | Leaving a place |
+| `pholeni` | depart | movement away from a source |
 | `ponalu` | size | scale considered across a thing's dimensions as a whole |
 | `ponu` | door | Entry barrier |
 | `raeli` | height | Upward extent |
 | `raelu` | tall | a high vertical position or extent relative to a reference level |
 | `rashelo` | run | rapid movement through space, covering distance swiftly |
 | `rato` | turn | Rotation and change of facing |
-| `roke` | move | Movement through space |
+| `roke` | move | change of position within space |
 | `ronua` | south | Cardinal direction opposite the axis point |
 | `ruela` | path | routes through physical space |
 | `runaki` | wayfind | finding a route through a physical or informational place |
@@ -2011,7 +2014,7 @@
 | `shoeka` | route | Course of travel |
 | `shomelu` | shadow | Where the light is interrupted |
 | `shorai` | commune | Collective dwelling |
-| `shua` | come | fundamental verb of approach and arrival, closing distance |
+| `shua` | come | approach towards a deictic or stated place |
 | `shuna` | edge | Outer limit |
 | `shupi` | plateau | High level ground |
 | `shuroa` | shelter | Protective space |
@@ -2032,7 +2035,7 @@
 | `theru` | thick | a relatively large distance between opposing surfaces or across a cross-section |
 | `thiku` | small | limited extent considered as a whole rather than along one axis |
 | `thinu` | put | establishing specific location and arrangement in space |
-| `thiru` | exit | Outward movement |
+| `thiru` | exit | movement from inside to outside |
 | `thola` | bring | directed movement towards a place or participant |
 | `tholu` | space | Open area |
 | `tholupi` | room | a bounded space within a building |
@@ -2041,14 +2044,14 @@
 | `tomora` | mountain | Earth reaching skyward |
 | `toru` | roof | Overhead cover |
 | `tupi` | jump | Across and over |
-| `turema` | return | Coming back to origin |
+| `turema` | return | movement back towards a previous location |
 | `waero` | sky | The great above |
 | `waleru` | length | end-to-end extent along an object, path, or chosen course |
 | `wapho` | throw | Sending across a gap |
 | `wapi` | fly | Travel through air |
 | `wema` | belong | grounded in place with deep connection to home |
 | `wemo` | plain | Unobstructed expanse |
-| `wepu` | go | involves transition from one location to another |
+| `wepu` | go | directed travel through space |
 | `wesho` | locate | Finding position |
 | `whalo` | large | considerable extent without selecting a particular dimension |
 | `whano` | stand | vertical positioning that establishes presence and place |
@@ -2078,7 +2081,7 @@
 | `howenu` | weather | a short-duration environmental condition or event |
 | `hurao` | patient | a disposition towards delay and processes that take time |
 | `kaero` | phase | Cycle segment |
-| `kamo` | arrive | Moment of journey's completion |
+| `kamo` | arrive | the bounded moment when a journey or process reaches its endpoint |
 | `katheo` | acute | onset, development, and expected duration within a clinical course |
 | `kelai` | equals | Can mark an operation's stated outcome; pure equality is not temporal |
 | `keloi` | summer | Abundance season |
@@ -2111,7 +2114,7 @@
 | `lunoa` | month | Lunar cycle |
 | `luphore` | river | Symbol of continuous change |
 | `luseri` | provenance | a sequence of prior stages leading to a present state |
-| `manolu` | stay | continuing through time and duration |
+| `manolu` | stay | continuation across a stated or contextual interval |
 | `meloa` | persevere | Sustained effort |
 | `meluna` | season | Cyclical time division |
 | `meluri` | climate | conditions analyzed over an explicitly long period |
@@ -2154,7 +2157,7 @@
 | `phirali` | blossom | Emergence into beauty |
 | `phirenu` | snow | Winter's presence |
 | `phoemu` | midnight | Night's center |
-| `pholeni` | depart | Beginning of journey or separation |
+| `pholeni` | depart | the bounded beginning of an absence or journey |
 | `phomila` | offspring | represents future generations and continuity through time |
 | `phuro` | renew | Cycling from depleted to fresh |
 | `rashelo` | run | movement expressing urgency or time-sensitive response |
@@ -2179,6 +2182,7 @@
 | `sheru` | slow | an action or change that proceeds slowly |
 | `shila` | winter | Rest season |
 | `shimalo` | discipline | shapes growth through sustained gentle effort |
+| `shua` | come | an event, time, or condition becoming present |
 | `sitawi` | inventory | a record explicitly bounded to a time |
 | `sitheku` | transcribe | preserving passing language for later use |
 | `soleha` | luck | The way things fall |
@@ -2219,8 +2223,7 @@
 | `tiroe` | instant | Infinitely brief |
 | `torua` | year | Full cycle |
 | `turelo` | feedback | a later state or output affects a continuing or subsequent process |
-| `turema` | return | Completing cycle of departure |
-| `wepu` | go | embodies transition from presence to absence, change over time |
+| `turema` | return | an earlier relation providing the reference for what comes back later |
 | `wepuri` | progress | change across stages of an undertaking |
 | `weshaku` | outbreak | cases considered within a stated period |
 | `wheo` | elder | embodies accumulated time and life cycles |
@@ -2233,7 +2236,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (123)
+## wisdom (122)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2265,7 +2268,6 @@
 | `lumoi` | lantern | Guiding illumination |
 | `malomi` | balance | navigates opposing forces through skillful equilibrium |
 | `manawi` | compromise | a practical but morally nonautomatic response to conflict |
-| `manolu` | stay | patient presence bringing understanding |
 | `meilo` | sit | sitting meditation as practice for cultivating mindful awareness |
 | `menua` | counselor | Advisory presence |
 | `moluki` | transform | Understanding deep change as possible |

@@ -8,16 +8,26 @@
     "ma"
   ],
   "pos": "verb",
-  "concept": "Return / Come Back / Go Again to Origin",
-  "description": "To come or go back to a place previously left, to complete the circle of departure and arrival. 'Turema' carries the satisfaction of completion—the wanderer home, the cycle closed, the familiar regained after absence. Yet the returner is changed; one never returns to quite the same place.",
-  "sound_symbolism": "The word turns back on itself. 'Tu' sets out with dental clarity, the direction reversed. Then 're' returns with liquid motion, retracing path. Finally 'ma' meets home with nasal warmth, arrival at the origin.",
-  "grammatical_notes": "'mia turema' (I return). Takes directional: 'mia wea womu turema' (I return home). The homecoming itself is the noun the rule licenses: 'welao turema' (good return / welcome homecoming). Implies previous departure; one cannot return where one has not left.",
+  "search_terms": [
+    "come back",
+    "go back"
+  ],
+  "description": "A borrowed basket finds its way back to the neighbour who lent it. Its coming back is 'turema'. The prior relation may be with a place or person, or it may be a condition or use. 'turema' follows the way back; 'kamo' (arrive) says it reached the endpoint.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't', release it, and raise the back of the tongue while rounding the lips for high-back 'u'. Make a tap or short trill at the alveolar ridge and move into stressed middle-height front 'e'. Close the lips for voiced 'm', carry the resonance through the nose, and finish with open central 'a'.",
+  "sound_symbolism": "The dental release leads to a tap or short trill near the centre, then final 'ma' closes the lips before opening again. The contour bends and opens a second time, an echo of a path back towards familiar ground.",
+  "usage_notes": "The returning person or thing is the subject. A spatial goal can take 'kau' (ALL), while 'wea' (TOWARD) keeps the motion only towards the earlier place. Causative 'ka' returns another person or thing.",
+  "examples": [
+    {
+      "phi": "mia kau womu turema.",
+      "translation": "I return home."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Returning to breath, returning to awareness, returning to this moment—meditation is continuous return to presence.",
-    "pre-industrial-wisdom": "Cycles of departure and return structure traditional life—seasonal migration, daily rounds, the hero's return transformed."
+    "secular-buddhist-philosophy": "During meditation, attention wanders and is brought back to breath or bodily sensation. Causative 'ka' with 'turema' can name that small correction without treating the wandering as failure."
   },
   "semantic_domains": {
-    "spatial": "Coming back to origin",
-    "temporal": "Completing cycle of departure"
+    "activity": "coming or going back towards an earlier place, state, relation, or use",
+    "spatial": "movement back towards a previous location",
+    "temporal": "an earlier relation providing the reference for what comes back later"
   }
 }

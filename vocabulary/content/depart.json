@@ -8,16 +8,22 @@
     "ni"
   ],
   "pos": "verb",
-  "concept": "Depart / Leave / Go Away From",
-  "description": "To leave a place, to begin movement away from where one was. 'Pholeni' marks the moment of leaving—the threshold crossed, the farewell spoken, the journey begun. It carries both the release of letting go and the tension of separation.",
-  "sound_symbolism": "The word releases gradually like departure itself. 'Pho' /ɸo/ breathes outward, the first step away. Then 'le' lifts with liquid motion, leaving underway. Finally 'ni' continues into distance, the departed one now away.",
-  "grammatical_notes": "Functions as intransitive verb: 'mia pholeni' (I depart). Takes 'lue' for the place left: 'mia lue womu pholeni' (I depart from home). Opposite of kamo (arrive). Related to 'wepu' (go) but emphasizes the leaving rather than the direction.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Departure teaches non-attachment—everything we leave prepares us for the final leaving. Practice departing well.",
-    "pre-industrial-wisdom": "Traditional farewells honored departure as significant passage—blessings spoken, provisions given, the leaver commended to the road."
-  },
+  "search_terms": [
+    "leave",
+    "set out"
+  ],
+  "description": "The last foot leaves the doorstep; the road may continue for hours. 'pholeni' belongs to that leaving point, whether the current setting is a house or a gathering. 'wepu' (go) follows the movement that proceeds from there.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then round them for middle-height back 'o'. Touch the tongue tip to the alveolar ridge for voiced 'l' and let air pass along its sides into stressed middle-height front 'e'. Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and finish with high-front unrounded 'i'.",
+  "usage_notes": "A source commonly follows ablative 'lue'. A later destination may take 'kau' (ALL), but departure itself needs none. 'phei' (AWAY) follows the distance increasing from a reference point.",
+  "examples": [
+    {
+      "phi": "mia lue womu pholeni.",
+      "translation": "I depart from home."
+    }
+  ],
   "semantic_domains": {
-    "spatial": "Leaving a place",
-    "temporal": "Beginning of journey or separation"
+    "activity": "leaving a current place or setting",
+    "spatial": "movement away from a source",
+    "temporal": "the bounded beginning of an absence or journey"
   }
 }

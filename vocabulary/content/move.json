@@ -7,17 +7,22 @@
     "ke"
   ],
   "pos": "verb",
-  "concept": "Move / Change Position / Be in Motion",
-  "description": "To change position in space, to be in motion rather than at rest. 'Roke' is the fundamental verb of locomotion and spatial change—whether walking across a room, shifting weight, or relocating across distances. It names the basic fact of bodies in motion.",
-  "sound_symbolism": "The word is brief and kinetic. 'Ro' rolls forward with the liquid consonant, motion already underway. The open 'o' carries momentum. Then 'ke' steps with velar precision, each movement defined yet continuous.",
-  "grammatical_notes": "Functions as intransitive verb: 'mia roke' (I move). Can take directional phrases: 'mia muo womu roke' (I move into the house). More general than 'thalo' (walk, a specific gait); roke applies to any positional change.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Movement reveals impermanence—nothing stays in place, all is in motion. Mindful movement grounds awareness in the body's shifting position.",
-    "pre-industrial-wisdom": "Life is movement—migration, seasonal travel, the body's daily rounds. Stillness is temporary; motion is the norm."
-  },
+  "search_terms": [
+    "shift position",
+    "be in motion"
+  ],
+  "description": "A hand slides across a table while the person beside it remains in the same room. That local change is 'roke', as is a body's larger relocation. 'wepu' (go) follows a subject along a path; 'thalo' (walk) names walking as one way to move.",
+  "articulatory_notes": "Make a tap or short trill with the tongue tip at the alveolar ridge, then round the lips for stressed middle-height back 'o'. Close the back of the tongue against the soft palate for unvoiced 'k', release it, and move the tongue forward while unrounding the lips for middle-height front 'e'.",
+  "usage_notes": "Without causative 'ka', the moving person or thing is the subject; with it, an agent moves someone or something else. Prepositional phrases place or orient the motion.",
+  "examples": [
+    {
+      "phi": "tenoa mua mia manuwe reshi roke.",
+      "translation": "The tool moves quickly in my hand."
+    }
+  ],
   "semantic_domains": {
-    "activity": "fundamental human activity of moveing",
-    "physical": "Bodily change of position",
-    "spatial": "Movement through space"
+    "activity": "changing position or continuing in motion",
+    "physical": "motion of a body or material object",
+    "spatial": "change of position within space"
   }
 }
