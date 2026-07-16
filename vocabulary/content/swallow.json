@@ -8,16 +8,22 @@
     "ha"
   ],
   "pos": "verb",
-  "concept": "Swallow / Send Down the Throat",
-  "description": "To swallow: food, medicine, the words one thinks better of. The downward completion of eating and drinking.",
-  "sound_symbolism": "'no'–'lu' descends into the deep, 'ha' is the open throat it passes through.",
-  "grammatical_notes": "Transitive: 'mia nepha noluha.' (I swallow the medicine.) Figurative: 'mia lo phelui to noluha.' (I swallowed my words.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "The swallowed word is restraint's most bodily metaphor — the verb serves the figurative wisdom as well as the meal.",
-    "pre-industrial-wisdom": "Medicine's oldest instruction: swallow this. Healing needed the verb before it needed the pharmacy."
-  },
+  "search_terms": [
+    "send down the throat",
+    "swallow down"
+  ],
+  "description": "After chewing or drinking, a person may 'noluha' what is in the mouth. This bodily act carries material through the throat; 'nuola' (eat) and 'milau' (drink) cover longer activities that may contain several swallows.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and round the lips for middle-height back 'o'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and continue into stressed rounded high-back 'u'. Let unvoiced air pass through the open throat for 'h', then finish with central 'a'.",
+  "sound_symbolism": "The two rounded vowels keep the first syllables close before 'h' releases them into open 'a'. The contour moves from held resonance to an open, throat-like finish.",
+  "usage_notes": "The swallowed material stands before 'noluha', and the event noun supplies a swallow. An English idiom such as swallowing one's words does not create a second lexical sense; a source-guided metaphor can still use the physical act when the comparison remains recoverable.",
+  "examples": [
+    {
+      "phi": "mia nepha noluha.",
+      "translation": "I swallow the medicine."
+    }
+  ],
   "semantic_domains": {
-    "activity": "Eating's completion",
-    "physical": "The throat's downward act"
+    "activity": "carrying material from the mouth through the throat",
+    "physical": "the muscular movement that begins passage into the digestive tract"
   }
 }

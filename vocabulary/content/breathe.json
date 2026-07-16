@@ -8,17 +8,28 @@
     "i"
   ],
   "pos": "verb",
-  "concept": "Breath / Respiration / Life-air",
-  "description": "To draw air in and release it, the rhythm that marks living from its first cry to its last sigh. Breathing is the bridge between voluntary and involuntary, conscious and automatic. It can be held, deepened, or released, yet it continues without attention, sustaining life beneath awareness.",
-  "sound_symbolism": "The word begins with 'whu' /ʍu/, the voiceless labial-velar that is almost pure breath itself—air shaped minimally into sound. The deep 'u' draws inward to the lungs' depth. Then 'ne' moves outward with the nasal, breath leaving through the passages it came. Finally 'i' rises with renewed vitality, fresh oxygen reaching awareness.",
-  "grammatical_notes": "'mia whunei.' (I breathe.) With a manner adverbial after the subject: 'mia sheru whunei.' (I breathe slowly.) A breath, as noun, is the same word by the event-noun rule: 'ta whunei' (one breath / a single breath), 'welao whunei' (good breath). Central to meditation and mindfulness vocabulary.",
+  "search_terms": [
+    "respire",
+    "take a breath"
+  ],
+  "description": "A sleeping person and a fish in water both 'whunei'. Their bodies exchange gases with the surroundings; in an ordinary human scene, air enters and leaves the lungs. 'whesu' (blow) instead follows air sent along a course, which a quiet breath need not do.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for unvoiced 'wh', letting air pass without vocal-fold vibration, then continue into rounded high-back 'u'. Place the tongue tip against the backs of the upper teeth for stressed dental 'n', carry the voice through the nose, and move into middle-height front 'e'. Give final high-front 'i' its own syllable rather than gliding from 'e'.",
+  "sound_symbolism": "Unvoiced 'wh' makes breath audible before any oral closure. The dental nasal and clean 'e.i' hiatus turn that airflow into two measured beats, a useful contour for breath entering bodily rhythm.",
+  "usage_notes": "'whunei' is normally intransitive. Its event noun is a breath, so 'ta whunei' counts one breath. Inhalation and exhalation are phases of the same act; a text can follow the air entering or leaving when that direction matters.",
+  "examples": [
+    {
+      "phi": "mia whunei.",
+      "translation": "I breathe."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Breath is the primary meditation object—always available, always present, connecting body and awareness. Anapanasati (breath mindfulness) is foundational practice.",
-    "peace-linguistics-practices": "Conscious breathing precedes peaceful speech. Taking breath before responding creates space for wise words.",
-    "pre-industrial-wisdom": "Breath was understood as life-force, spirit, soul in many traditions. The word for breath often meant the animating essence that departs at death."
+    "secular-buddhist-philosophy": "Breath awareness attends to each 'whunei' without requiring the practitioner to control it. The ordinary bodily verb keeps the meditation object observable.",
+    "peace-linguistics-practices": "A deliberate breath can make room before a difficult reply. 'whunei' names that bodily act without promising what the speaker will say next."
   },
   "semantic_domains": {
-    "physical": "Air cycle sustaining life",
-    "ritual": "Central to meditation practice"
+    "activity": "breathing as a continuing bodily act",
+    "nature": "respiration among living organisms in their surrounding medium",
+    "physical": "respiration through exchange with the surrounding medium",
+    "ritual": "breath used as an observable object in meditation practice"
   }
 }

@@ -7,16 +7,22 @@
     "se"
   ],
   "pos": "verb",
-  "concept": "Spit / Expel from the Mouth",
-  "description": "To spit: the seed, the bad water, the taste that warns. Plain expulsion from the mouth — the mouth's own refusal, coined without squeamishness.",
-  "sound_symbolism": "'pu' bursts outward from closed lips, 'se' carries it away. Brief, like the act.",
-  "grammatical_notes": "Transitive or bare: 'mia thinoe puse.' (I spit the seed.) 'shia to puse.' (They spat.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "The body knows refusal before the mind does; the verb records its plainest form.",
-    "pre-industrial-wisdom": "Spitting out the bitter and the spoiled was the palate's veto — a survival reflex with its own etiquette in every culture."
-  },
+  "search_terms": [
+    "spit out",
+    "expel from the mouth"
+  ],
+  "description": "A seed or saliva may leave the mouth when someone 'puse'. The word covers an outward expulsion from the mouth, and the material can be stated when it matters. The act receives its social meaning from context.",
+  "articulatory_notes": "Close the lips for unvoiced 'p', release them into stressed rounded high-back 'u', and keep the vocal folds still. Bring the tongue close to the alveolar ridge for unvoiced 's', let air continue through the narrow channel, and finish with middle-height front 'e'.",
+  "sound_symbolism": "'p' releases a small burst from closed lips and 's' continues the air after it, so the whole two-syllable form can be said quickly like the brief outward act.",
+  "usage_notes": "The expelled material may stand before 'puse', or the verb may appear without an object when the act alone matters. Its event noun is an act of spitting, not the saliva or other material.",
+  "examples": [
+    {
+      "phi": "mia thinoe puse.",
+      "translation": "I spit out the seed."
+    }
+  ],
   "semantic_domains": {
-    "activity": "The palate's veto",
-    "physical": "The mouth's expulsion"
+    "activity": "expelling material from the mouth",
+    "physical": "an outward movement of material through the lips"
   }
 }
