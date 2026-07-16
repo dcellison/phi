@@ -7,16 +7,27 @@
     "ru"
   ],
   "pos": "verb",
-  "concept": "Endure / Last Through Time / Persist Despite Difficulty",
-  "description": "To suffer through something painful or difficult; to remain in existence over time. 'Pheru' names the quality of lasting—persistence through challenge, continuation despite pressure.",
-  "sound_symbolism": "The word holds through. 'Phe' /ɸe/ begins with steady breath, presence maintained. Then 'ru' rolls onward, endurance continuing.",
-  "grammatical_notes": "'mia pheru' (I endure). Endurance itself is the rule-derived event noun. Related to 'thuroi' (resilient) but emphasizes duration rather than recovery.",
+  "search_terms": [
+    "withstand",
+    "bear hardship",
+    "tolerate discomfort"
+  ],
+  "description": "A person may remain through pain or a long delay, and a well-built shelter may last through winter weather. 'pheru' is continuation under pressure or difficulty, whether the subject is acting or simply holding on. 'meloa' (persevere) adds continued chosen effort towards a purpose, while 'keruko' (sturdy) describes construction before the test.",
+  "articulatory_notes": "Hold the lips close for unvoiced 'ph' and pass a steady breath into stressed unrounded 'e' at middle tongue height. After the vowel, let 'r' touch the alveolar ridge once or vibrate there briefly. Raise the tongue back and round the lips to finish on high 'u'.",
+  "sound_symbolism": "The opening breath is soft but sustained; a tongue tap turns it into rounded final resonance. Its finish feels held under pressure rather than stopped by it.",
+  "usage_notes": "The verb may stand alone when the difficulty is understood. Time, conditions, and the source of pressure can appear in surrounding phrases. As a noun, the form is endurance; acceptance or approval remains a different claim.",
+  "examples": [
+    {
+      "phi": "mia pheru.",
+      "translation": "I endure."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Endurance is not mere suffering—it is conscious persistence with awareness, neither denying difficulty nor being overwhelmed.",
-    "pre-industrial-wisdom": "Endurance determined survival—the capacity to persist through winter, drought, hardship until conditions changed."
+    "secular-buddhist-philosophy": "Endurance can acknowledge pain without making it the whole field of attention. The word says that someone remains through difficulty, not that the difficulty is deserved or spiritually useful.",
+    "pre-industrial-wisdom": "Seasonal life often asks people, shelters, and stored materials to last until conditions change. 'pheru' keeps that duration separate from recovery after the strain."
   },
   "semantic_domains": {
-    "temporal": "Lasting through",
-    "wisdom": "Persistence"
+    "physical": "a body or made thing continuing under pressure, pain, or exposure",
+    "temporal": "continuation through a difficult interval"
   }
 }

@@ -8,15 +8,26 @@
     "lu"
   ],
   "pos": "verb",
-  "concept": "Err / To Take the Wrong Step / A Mistake, Named Plainly",
-  "description": "To act wrongly, to make an error: a wrong turn taken and walked before anyone notices. The event noun, a mistake, comes by the ordinary rule, so the language never needs a separate word for the error and the erring.",
-  "sound_symbolism": "'Ka' opens with a stop, the wrong turn itself. 'Ne' is a small internal nasal, the moment of not-quite-noticing. 'Lu' flows onward, the mistake continued a while before it is caught.",
-  "grammatical_notes": "Functions as an intransitive verb: 'mia kanelu' (I err / I make a mistake). Past: 'mia to kanelu' (I made a mistake). The event noun by rule: 'mia kanelu ki halemu' (I remember my mistake).",
+  "search_terms": [
+    "make a mistake",
+    "make an error"
+  ],
+  "description": "A speaker may misremember a name or choose the wrong path, then discover what happened. 'kanelu' reports the event of making an error without turning it into a lasting identity. 'phelira' (mistaken) describes the person, account, or direction while the error is present; 'kanelu' is the wrong step itself.",
+  "articulatory_notes": "The first syllable seals the tongue back at the soft palate for unvoiced 'k', then releases into central 'a'. In stressed 'ne', the tongue tip meets the backs of the upper teeth for nasal 'n' and opens into middle-height front 'e'. End with lateral 'l' at the alveolar ridge flowing into high-back rounded 'u'.",
+  "sound_symbolism": "A firm opening passes into nasal resonance and then a liquid release. The form changes course twice and still moves on, a fitting contour for an error that can be corrected.",
+  "usage_notes": "The verb is normally intransitive. A nearby clause can identify the mistaken act, belief, or result. In noun position, 'kanelu' is an error or mistake; technical 'kiphira' (fault) and moral responsibility require their own evidence.",
+  "examples": [
+    {
+      "phi": "mia to kanelu.",
+      "translation": "I erred."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Naming error plainly, without shame folded into the word itself, matches a practice that treats mistakes as ordinary and correctable rather than as verdicts on a person.",
-    "peace-linguistics-practices": "A speaker who can name their own error exactly, not vaguely, is practicing the same honesty the evidentiality system already asks for."
+    "secular-buddhist-philosophy": "Errors arise within changing conditions and can be noticed, examined, and corrected. The verb keeps that event distinct from a fixed judgement about the person.",
+    "peace-linguistics-practices": "A speaker can acknowledge an error plainly without replacing the account with shame or attacking their own character. That leaves correction and repair available as further acts."
   },
   "semantic_domains": {
-    "cognition": "The wrong step, named without shame"
+    "activity": "an action or course taken in error",
+    "cognition": "a mistake made in thought, memory, judgement, or understanding"
   }
 }

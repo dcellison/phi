@@ -8,17 +8,27 @@
     "lo"
   ],
   "pos": "verb",
-  "concept": "Discipline / Skillful Training",
-  "description": "The tempered practice of gentle, consistent self-guidance. It is not about self-punishment, but the joyful and consistent alignment of one's actions with one's intentions and values, leading to growth.",
-  "sound_symbolism": "The word begins with the soft 'shi', like a gentle reminder rather than a harsh command—discipline as whispered wisdom, not shouted orders. This flows into the grounding 'ma', rooting practice in the body and earth, making it sustainable rather than punishing. The liquid 'lo' carries this grounded practice forward in continuous flow, like a river that shapes stone through patient persistence, not violent force. The entire word flows like water—soft, consistent, powerful in its gentleness.",
-  "grammatical_notes": "With a reflexive object: 'mia miso shimalo' (I train myself). The practice itself, discipline as a quality, is the event noun the rule provides.",
+  "search_terms": [
+    "self-discipline",
+    "self-training"
+  ],
+  "description": "Someone who has chosen a daily practice may use 'shimalo' for the gentle self-guidance that brings them back to it. It aligns repeated action with a stated intention without turning difficulty into punishment. 'thole' (practice) is the doing that recurs; 'shimalo' is the self-direction that sustains the return.",
+  "articulatory_notes": "Shape a narrow postalveolar channel for unvoiced 'sh' and release the air into high-front unrounded 'i'. Close both lips for stressed 'm', maintain nasal voicing, and open widely into central 'a'. The final syllable forms lateral 'l' with side airflow, then rounds into middle-height back 'o'.",
+  "sound_symbolism": "Three measured contacts at the tongue blade, lips, and tongue tip give the form an even pace. It feels like a practice resumed by steady guidance rather than force.",
+  "usage_notes": "The usual construction is reflexive, with 'miso' as the object. Another person's learning instead uses 'thumela' (teach) or module word 'thunaro' (train), which keep the relationship visible. Noun 'shimalo' is discipline or disciplined practice.",
+  "examples": [
+    {
+      "phi": "mia miso shimalo.",
+      "translation": "I discipline myself."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Discipline as skillful training reflects the Middle Way - neither harsh asceticism nor lazy indulgence, but the patient cultivation of beneficial habits. This practice recognizes that freedom comes not from following every impulse but from aligning actions with deeper intentions, creating the conditions for genuine happiness through consistent, gentle effort.",
-    "peace-linguistics-practices": "Discipline reframed as gentle self-guidance transforms the violence of self-punishment into compassionate self-development. By using language of 'whispered wisdom' rather than 'shouted orders,' this practice creates internal peace through patient encouragement rather than harsh criticism. True strength emerges from aligned action, not forced compliance.",
-    "pre-industrial-wisdom": "Traditional apprenticeship and craft mastery required years of disciplined practice under patient guidance. This wisdom understood that true skill emerges through repetitive training, gradual refinement, and sustained dedication - not through shortcuts or force. The master-apprentice relationship embodied discipline as a loving transmission of knowledge through structured practice over time."
+    "secular-buddhist-philosophy": "A chosen practice is sustained by returning to it with care after distraction or failure. Discipline here is the arrangement that makes another return possible.",
+    "peace-linguistics-practices": "'shimalo' keeps self-guidance apart from punishment and imposed control. A difficult return can be firm without borrowing the language of violence against oneself."
   },
   "semantic_domains": {
-    "temporal": "shapes growth through sustained gentle effort",
-    "wisdom": "aligns actions with deeper intentions through skillful training"
+    "activity": "self-guidance that keeps repeated action aligned with an intention",
+    "cognition": "attention and choice used to regulate one's own practice",
+    "temporal": "a chosen course sustained through repeated returns"
   }
 }

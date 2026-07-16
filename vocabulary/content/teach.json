@@ -8,16 +8,26 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Teach / To Nurture Understanding",
-  "description": "The act of awakening understanding and nurturing growth in others through patient guidance and clear communication.",
-  "sound_symbolism": "Opens with 'thu', the wisdom-breath drawn from depth — the teacher's own store of understanding (family of 'thunai' student, 'thonua' scholar, 'thekiro' write). Then 'me-la': the humming nasal turned outward through the liquid 'la', knowledge flowing from one mind toward another. The '-mela' tail carries the sense of offered transmission, now four sounds distant from 'shonela' (learn), its receiving counterpart.",
-  "grammatical_notes": "'lumishe lo thunai thumela.' (The mentor teaches the students.) Teaching, the noun, needs no separate form; the event-noun rule provides it. Its receiving counterpart is 'shonela' (learn); compare 'kulo' (guide).",
+  "search_terms": [
+    "instruct"
+  ],
+  "description": "When someone demonstrates a pattern and helps a learner grasp it, they 'thumela'. Teaching arranges explanation or experience so another person can learn, though the learner's 'shonela' (learn) remains a separate event. 'solae' (explain) lays out meaning or workings, while module word 'thunaro' (train) organises structured practice towards a skill.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let breath pass along it, and draw the tongue back into high rounded 'u'. The stressed middle syllable closes both lips for nasal 'm' before opening into middle-height front 'e'. Final 'la' touches the alveolar ridge laterally and releases into central 'a'.",
+  "sound_symbolism": "Dental breath becomes a hum at 'm' before the lateral opens the ending. It sounds offered rather than projected, a useful memory for teaching.",
+  "usage_notes": "The learner usually appears as the direct object, while the subject matter is supplied by context or another phrase. In noun position, 'thumela' means teaching. Causative 'ka shonela' makes a stronger claim that learning occurred.",
+  "examples": [
+    {
+      "phi": "mia thunai thumela.",
+      "translation": "I teach the student."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Teaching as awakening recognizes that wisdom cannot be given, only pointed toward - the teacher creates conditions for insight to arise naturally within the student. This practice requires patience with different paces of understanding and faith that each being carries their own seed of wisdom waiting to unfold."
+    "peace-linguistics-practices": "Teaching can offer a method or account without claiming control over what another person understands. The distinction protects the learner's questions, disagreement, and pace.",
+    "pre-industrial-wisdom": "Teaching beside the workbench or garden bed can join words to visible practice. The learner sees the act as well as hearing its account."
   },
   "semantic_domains": {
-    "communication": "knowledge transfer through communication",
-    "community": "deeply relational act between teacher and student",
-    "wisdom": "awakening understanding and nurturing growth"
+    "cognition": "conditions deliberately arranged for another person's learning",
+    "communication": "knowledge or skill offered through explanation and demonstration",
+    "community": "a learning relationship between teacher and learner"
   }
 }

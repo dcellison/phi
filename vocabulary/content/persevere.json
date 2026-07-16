@@ -8,16 +8,28 @@
     "a"
   ],
   "pos": "verb",
-  "concept": "Persevere / Continue Despite Difficulty / Endure",
-  "description": "To continue steadfastly despite obstacles; to maintain effort when challenged. 'Meloa' names the steady going—not dramatic heroism but quiet continuation.",
-  "sound_symbolism": "The word endures gently. 'Me' centers with steady mind, resolve held. 'Lo' opens with continued effort, path maintained. Then 'a' opens to acceptance of the long way.",
-  "grammatical_notes": "Functions as verb: 'mia meloa.' (I persevere.) Related to 'puro' (strength) as action to capacity, 'shimalo' (discipline) as practice to training.",
+  "search_terms": [
+    "persist",
+    "keep going",
+    "strive"
+  ],
+  "description": "A learner returns after an error and continues the work they chose. 'meloa' keeps effort directed towards a purpose despite difficulty, interruption, or discouragement. Someone may 'pheru' (endure) a storm without pursuing any task; perseverance continues a course of action.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the sound through the nose, and open on the unrounded mid-front vowel 'e'. Stressed 'lo' follows with an alveolar lateral and rounded back 'o'. Across the final 'o.a' hiatus, unround the lips and lower the jaw for open central 'a'.",
+  "sound_symbolism": "A quiet nasal opening flows through the lateral and widens at the final hiatus. The unhurried contour fits effort that keeps its course without display.",
+  "usage_notes": "The verb commonly stands alone. A purpose introduced by 'lila' can identify the course being continued, and noun 'meloa' is perseverance. 'kesu' (determined) describes resolve, whereas 'meloa' reports the continuing effort itself.",
+  "examples": [
+    {
+      "phi": "mia meloa.",
+      "translation": "I persevere."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Perseverance as virya—the energy of sustained practice, neither forcing nor giving up.",
-    "pre-industrial-wisdom": "Patient endurance—the quality that sees seasons through, waits for harvest."
+    "solarpunk-values": "Repairing damaged systems and growing shared alternatives can take longer than one season. 'meloa' gives continued chosen effort a word without making exhaustion a virtue.",
+    "secular-buddhist-philosophy": "Practice often advances by returning after distraction rather than by maintaining an unbroken heroic effort. Perseverance reports that return without claiming attainment."
   },
   "semantic_domains": {
-    "emotion": "Steady resolve",
-    "temporal": "Sustained effort"
+    "activity": "chosen effort continued towards a purpose through difficulty",
+    "emotion": "resolve maintained when discouragement could interrupt action",
+    "temporal": "a course resumed or sustained across obstacles and delay"
   }
 }

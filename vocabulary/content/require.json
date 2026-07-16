@@ -8,17 +8,26 @@
     "na"
   ],
   "pos": "verb",
-  "concept": "Require / Experience Necessity / Recognize Essential Need",
-  "description": "The verb of genuine necessity, naming the recognition of what is truly required rather than merely desired. In Phi, this word invites constant discernment between authentic needs—food, shelter, connection, meaning—and manufactured wants dressed as necessities. To use 'phelona' is to make a claim about genuine requirement, and the word's weight encourages careful use. It names the experience of recognizing insufficiency not as lack but as the body or spirit honestly signaling what sustains life. This is need as awareness, not as complaint.",
-  "sound_symbolism": "The word opens with 'phe', the gentle bilabial fricative giving the claim philosophical weight—necessity deserves thoughtful assertion, not casual use. This flows through 'lo', the liquid carrying necessity toward its potential fulfillment. The final 'na' grounds in nasal stability—authentic need is rooted in body or spirit. The three syllables create deliberate speech, preventing casual claims of need.",
-  "grammatical_notes": "'mia phialu phelona.' (I require water.) What is required surfaces as the event noun: 'mia lo phelona' (my necessities). Distinguished from 'wilao' (long-for) by implying genuine requirement rather than preference.",
+  "search_terms": [
+    "need",
+    "call for"
+  ],
+  "description": "A thirsty person may require water, and a repair may require a tool that is not yet present. 'phelona' states a necessity relation under the conditions at hand: one person, activity, or result depends on something else. Particle 'na' (NEC) makes an action necessary, while 'noetha' (essential) describes something judged indispensable.",
+  "articulatory_notes": "Bring the lips almost together for unvoiced 'ph' and let air pass towards unrounded mid-front 'e'. For stressed 'lo', make an alveolar lateral with side airflow and round the lips for back 'o'. Final 'na' sets the tongue tip against the upper incisors, carries voiced sound through the nose, and opens into central 'a'.",
+  "sound_symbolism": "Breath flows into a rounded centre and settles at the dental nasal before final 'a'. The held middle gives the form a deliberate weight suited to a requirement.",
+  "usage_notes": "The required thing comes before the verb, with the person or situation that requires it as subject. Used as an event noun, 'phelona' is a requirement or need. Wanting remains 'rinu' (want), and an attributed social obligation is module word 'naseru' (obligation).",
+  "examples": [
+    {
+      "phi": "mia phialu phelona.",
+      "translation": "I require water."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Understanding true needs versus manufactured wants is central to sustainable living. 'Phelona' supports this by making claims of necessity deliberate, creating space for reflection on whether consumption is necessary or merely desired.",
-    "secular-buddhist-philosophy": "Buddhist practice distinguishes between genuine needs that support the path and conditioned wants that create suffering. 'Phelona' supports this discernment through its deliberate articulation—one must speak slowly enough to consider whether the claim of need is authentic.",
-    "pre-industrial-wisdom": "Traditional societies lived closer to genuine necessity—food, shelter, community, meaning. 'Phelona' preserves this wisdom, naming the essential requirements that sustained humanity before artificial needs proliferated."
+    "solarpunk-values": "A regenerative practice asks what people and living systems actually require before resources are taken or designs are fixed. The verb makes that dependency speakable.",
+    "secular-buddhist-philosophy": "The distinction between a sustaining need and a passing want becomes available for inspection when requirement and desire use different words."
   },
   "semantic_domains": {
-    "community": "social needs for connection and belonging",
-    "physical": "bodily requirements for sustenance"
+    "activity": "a material or condition on which an action or result depends",
+    "physical": "food, water, shelter, or care required by a body"
   }
 }

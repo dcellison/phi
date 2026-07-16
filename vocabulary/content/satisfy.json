@@ -7,16 +7,28 @@
     "no"
   ],
   "pos": "verb",
-  "concept": "Satisfy / Meet Needs / Bring Contentment",
-  "description": "To meet a need or desire adequately; to bring to a state of contentment. 'Heno' names the meeting of need—enough arriving, want dissolving.",
-  "sound_symbolism": "The word settles gently. 'He' breathes with soft ease, tension releasing. 'No' settles with grounded enough, contentment found.",
-  "grammatical_notes": "Functions as verb; the one satisfied is the object: 'nuora mia heno.' (The food satisfies me.) Related to 'korei' (fulfill) but emphasizes contentment over completion; 'nuloe' (content) names the resulting state.",
+  "search_terms": [
+    "meet a need",
+    "meet a criterion"
+  ],
+  "description": "Food can satisfy hunger, and an account can satisfy a stated criterion. 'heno' says that something meets a need, desire, condition, or test to the relevant degree. 'henoi' (ENOUGH) judges an amount against a requirement, while 'korei' (fulfill) carries an undertaking or purpose into actuality.",
+  "articulatory_notes": "Let unvoiced air pass through the open glottis for 'h' and move directly into stressed middle-height front 'e'. Begin 'no' at a voiced dental contact, carry its resonance through the nose, and round the lips into middle-height back 'o'.",
+  "sound_symbolism": "Open breath narrows into nasal contact and settles on rounded 'o'. The movement has the bodily ease of pressure released when enough arrives.",
+  "usage_notes": "The subject supplies whatever satisfies; the need, criterion, or person affected is the object. When that object is a person, context tells whether a need or desire has been met. Noun 'heno' is satisfaction.",
+  "examples": [
+    {
+      "phi": "nuora mia heno.",
+      "translation": "The food satisfies me."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Satisfaction as enough—recognizing when needs are met, releasing endless wanting.",
-    "peace-linguistics-practices": "Satisfying communication—exchanges that meet the needs of all participants."
+    "secular-buddhist-philosophy": "Satisfaction can mark the point at which a need has enough without claiming that desire has ended forever. 'heno' helps a speaker notice sufficiency as an actual relation.",
+    "peace-linguistics-practices": "A request or agreement can be checked against the need it was meant to answer. 'heno' reports that fit without deciding whether every participant has the same need."
   },
   "semantic_domains": {
-    "emotion": "Contentment",
-    "physical": "Need met"
+    "activity": "a condition or criterion met by an action or result",
+    "cognition": "judgement that stated requirements have been met",
+    "emotion": "a desire or felt need brought to satisfaction",
+    "physical": "bodily need met by food, water, rest, or another provision"
   }
 }

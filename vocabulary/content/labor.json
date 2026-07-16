@@ -8,18 +8,26 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Labor / Work With Purpose / Contribute Through Effort",
-  "description": "The verb of purposeful contribution, naming effort that serves beyond the self. In Phi, work is reframed not as selling time for money but as participating in the ongoing making and maintaining of the world. 'Riola' encompasses the farmer's tending, the builder's crafting, the teacher's nurturing, the healer's caring—all forms of sustained effort that contribute to community flourishing. This word separates dignified labor from drudgery by emphasizing work's meaning rather than its toll.",
-  "sound_symbolism": "The word opens with 'ri', where the rolling liquid 'r' creates continuous movement—the ongoing nature of labor, effort that sustains rather than explodes. The bright 'i' brings focused intention to this movement. The standalone 'o' opens into the fullness of work's scope—what we make, what we tend, what we offer. The final 'la' flows into contribution, the liquid carrying effort outward to where it serves, while open 'a' releases work into the world. The arc traces dignified labor: sustained movement, expansive purpose, flowing contribution.",
-  "grammatical_notes": "'mia riola' (I labor). The event-noun rule gives the noun: 'welao riola' (good work). Distinguished from words for specific tasks by naming the general practice of purposeful effort. Often modified by what the work serves or how it is done.",
+  "search_terms": [
+    "work",
+    "purposeful work"
+  ],
+  "description": "Neighbours repairing a roof may call their sustained, purposeful effort 'riola'. The verb treats labour as contribution to something beyond the self, whether the work is done alone or together. 'riporu' (task) is one bounded unit, while module word 'rimawu' (drudgery) records work experienced as depleting and denied meaning.",
+  "articulatory_notes": "Begin with a quick tap or short trill at the alveolar ridge for 'r', then move into high-front unrounded 'i'. Hold the following stressed middle-height rounded 'o' as a separate syllable across the 'i.o' hiatus. For 'la', form a lateral at the ridge and let the voice pass along the tongue's sides before open central 'a'.",
+  "sound_symbolism": "A tap launches the word across a wide hiatus; the liquid ending lets it keep going. The contour feels sustained rather than hurried, like work whose meaning appears through continuation.",
+  "usage_notes": "The verb may stand without an object when the work is understood. Noun position gives purposeful labour or work. Coerced or meaningless activity is not 'riola' when that choice would erase the worker's own account.",
+  "examples": [
+    {
+      "phi": "lo mia nuawe riola.",
+      "translation": "We work together."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Meaningful work contributing to community resilience and ecological regeneration is central to positive futures. 'Riola' supports transformation from exploitative labor to dignified contribution, from extraction to regeneration.",
-    "secular-buddhist-philosophy": "Right livelihood asks that work not cause harm and ideally contribute to wellbeing. 'Riola' supports mindful work practice, bringing presence and intention to labor rather than mechanical endurance.",
-    "pre-industrial-wisdom": "Traditional societies understood work as participation rather than transaction—shared labor, work songs, the satisfaction of contributing to community. 'Riola' preserves this understanding of dignified effort woven through life rather than sold to survive."
+    "solarpunk-values": "Repair days, food growing, and care for shared systems depend on effort offered towards a common future. 'riola' keeps that contribution visible without turning every task into an institution.",
+    "pre-industrial-wisdom": "Shared labour joins practical skill to the continued life of a household or community. The form fits work whose meaning can still be seen in what it tends or leaves behind."
   },
   "semantic_domains": {
-    "activity": "fundamental human activity of laboring",
-    "creation": "producing and contributing through labor",
-    "physical": "bodily effort and sustained activity"
+    "activity": "sustained purposeful work rather than one bounded task",
+    "community": "effort understood as contribution beyond the worker alone"
   }
 }

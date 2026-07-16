@@ -7,16 +7,27 @@
     "lo"
   ],
   "pos": "verb",
-  "concept": "Guide / Lead / Show the Way",
-  "description": "To lead another along a path, showing the way through terrain physical or conceptual. 'Kulo' implies knowledge of the territory and responsibility for the guided one's safe passage. The guide goes along rather than pointing from a distance; presence is part of the work.",
-  "sound_symbolism": "The word is compact and purposeful. 'Ku' begins with velar certainty—the guide knows where to go. The deep 'u' holds steady direction. Then 'lo' flows forward with liquid ease, the path unfolding, movement continuing.",
-  "grammatical_notes": "A verb: 'mia thia kulo.' (I guide you.) With a path: 'mia thue thepalu thia kulo.' (I guide you through the garden.) The one who guides, when needed, is 'rena kulo miona' (the person who guides) - compare 'lumishe' (mentor), a true role-noun. Guiding is about paths; 'thumela' (teach) is about knowledge.",
+  "search_terms": [
+    "lead the way",
+    "show the way"
+  ],
+  "description": "A guide may walk beside someone through an unfamiliar garden or help them follow a new course of action. 'kulo' offers direction from knowledge of the way and accompanies another person's movement; authority or control needs its own statement. 'thumela' (teach) centres learning, while 'rilowa' (assign) designates an expected performer.",
+  "articulatory_notes": "Form unvoiced 'k' with a velar closure, then release it into stressed high-back rounded 'u' and keep the lips rounded. The second syllable uses an alveolar lateral 'l'. Voice passes along the tongue's sides and settles into rounded mid-back 'o'.",
+  "sound_symbolism": "The firm velar opening releases almost at once into a liquid syllable. It sets a direction, then leaves space beside it.",
+  "usage_notes": "The person being guided comes before the verb. A path or setting can be introduced with the appropriate spatial preposition, as in 'thue' (through). A guide as a person is 'rena kulo miona', unless a more specific role such as 'lumishe' (mentor) fits.",
+  "examples": [
+    {
+      "phi": "mia thia kulo.",
+      "translation": "I guide you."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The spiritual friend (kalyana-mitta) guides not by commanding but by walking alongside, showing through example.",
-    "pre-industrial-wisdom": "Guides carry ancestral knowledge of terrain—safe passages, seasonal dangers, hidden resources. Guidance is transmitted presence."
+    "peace-linguistics-practices": "Guidance leaves practical movement with the traveller. It offers knowledge of a way without dressing command or dominion in a gentler title.",
+    "pre-industrial-wisdom": "Knowledge of a route often lives in repeated travel through a particular place. A guide shares that situated knowledge by going with the person who needs it."
   },
   "semantic_domains": {
-    "community": "Leading others along paths",
-    "wisdom": "Sharing knowledge of the way"
+    "community": "an accompanying relation between a knowledgeable guide and another traveller",
+    "spatial": "direction offered along a physical or conceptual path",
+    "wisdom": "practical knowledge of a way shared through accompaniment"
   }
 }
