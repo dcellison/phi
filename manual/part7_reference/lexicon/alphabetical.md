@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1179 words.*
+*1180 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -701,6 +701,7 @@
 | `rilowa` | assign | /ri.ˈlo̞.wä/ | verb |
 | `rimawu` | drudgery | /ri.ˈmä.wu/ | noun |
 | `rinoka` | project | /ri.ˈn̪o̞.kä/ | noun |
+| `rinu` | want | /ˈri.n̪u/ | verb |
 | `riola` | labor | /ri.ˈo̞.lä/ | verb |
 | `riporu` | task | /ri.ˈpo̞.ru/ | noun |
 | `ritako` | workload | /ri.ˈt̪ä.ko̞/ | noun |

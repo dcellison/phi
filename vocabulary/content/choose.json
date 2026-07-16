@@ -7,16 +7,29 @@
     "nu"
   ],
   "pos": "verb",
-  "concept": "Choose / Select / Settle on One Among Several",
-  "description": "To choose: one path among paths, one word among words. The act of settling deliberation into a single selection. Its neighbors are 'remo' (think, the weighing before) and 'seru' (commit, the binding after); choosing is the hinge between them.",
-  "sound_symbolism": "The decisive 'ka' is the moment the weighing stops, and 'nu' settles downward into the one chosen thing — deliberation landing.",
-  "grammatical_notes": "Transitive: 'mia ha ruela kanu.' (I choose this path.) With alternatives stated: 'thia kelua sola howai kanu.' (You choose morning or evening.) The optative softens a request to choose: 'su thia kanu.' (May you choose.)",
+  "search_terms": [
+    "select",
+    "pick"
+  ],
+  "description": "At a fork in the path, a traveller chooses the river road rather than the hill road. 'kanu' selects one alternative or course from those available. 'remo' (think) may precede the selection, and 'seru' (commit) may bind the chooser to what follows, but neither act is part of choosing itself.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed open central unrounded 'a'. Press the tongue tip behind the upper teeth for voiced dental 'n', let air pass through the nose, and finish with high-back rounded 'u'.",
+  "sound_symbolism": "The mouth opens broadly after the initial velar release, then closes towards high rounded 'u' after the dental nasal. That broad-to-narrow movement can recall several alternatives narrowing to one selection.",
+  "usage_notes": "The direct object of 'kanu' is the selected alternative. Alternatives can be joined with 'sola', and an unstated set may be supplied by context. As a noun, 'kanu' is choosing or a choice; module word 'kanuro' is a decision, a choice given settled or actionable status.",
+  "examples": [
+    {
+      "phi": "mia ha ruela kanu.",
+      "translation": "I choose this path."
+    },
+    {
+      "phi": "thia kelua sola howai kanu.",
+      "translation": "You choose morning or evening."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Futures are chosen, not awaited — choosing is the first act of building the world preferred.",
-    "secular-buddhist-philosophy": "Every moment offers a choice between reaction and response; a language of mindfulness needs the verb that names the hinge."
+    "secular-buddhist-philosophy": "Naming a choice keeps the available alternatives in view. It gives a speaker room to notice whether an action followed reflection, habit, or pressure."
   },
   "semantic_domains": {
-    "cognition": "The act of selecting among alternatives",
-    "wisdom": "Where deliberation becomes direction"
+    "activity": "selecting one action or course from alternatives",
+    "cognition": "settling on one alternative from those considered or available"
   }
 }

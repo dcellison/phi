@@ -915,7 +915,7 @@
 | `theula` | UNIV |
 | `wheli` | ANY |
 
-## verb (336)
+## verb (337)
 
 | Word | Gloss |
 |---|---|
@@ -1098,6 +1098,7 @@
 | `repora` | propose |
 | `rihe` | rise |
 | `rilowa` | assign |
+| `rinu` | want |
 | `riola` | labor |
 | `rohemi` | wear down |
 | `rohi` | rub |

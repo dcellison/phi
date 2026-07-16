@@ -1094,14 +1094,14 @@ one 3SG QUOT.COMP why 2SG NEG stand. why 2SG COM PL 1SG NEG play QUOT.COMP.CLOSE
 (One of them asked: "Why do you not get up? Why do you not play with us?")
 williams: "\"Why don't you get up and play with us?\" one of them asked."
 
-tupiwa shola mia ma pula sholo to haolu.
-rabbit QUOT.COMP 1SG NEG wish QUOT.COMP.CLOSE PST speak.
-(The rabbit said: "I do not wish to.")
+tupiwa shola mia ma rinu sholo to haolu.
+rabbit QUOT.COMP 1SG NEG want QUOT.COMP.CLOSE PST speak.
+(The rabbit said: "I do not want to.")
 williams: "\"I don't feel like it,\" said the Rabbit,"
 
-lao shia mawha keli to phelu shia mena miso ha solae meno to ma pula.
-BECAUSE 3SG NONE device PST hold 3SG DECL.COMP REFL PROX explain DECL.COMP.CLOSE PST NEG wish.
-(Because he held no clockwork, he did not wish to explain it.)
+lao shia mawha keli to phelu shia mena miso ha solae meno to ma rinu.
+BECAUSE 3SG NONE device PST hold 3SG DECL.COMP REFL PROX explain DECL.COMP.CLOSE PST NEG want.
+(Because he held no clockwork, he did not want to explain it.)
 williams: "for he didn't want to explain that he had no clockwork."
 
 nolika whila tupiwa shola wao. ha ru siloma nai sholo to haolu.
@@ -1129,9 +1129,9 @@ shia lo rena lopia shia wapho shemu to thueli.
 (He meant the moments when the child threw him.)
 williams: "He meant when the Boy threw him,"
 
-whekai shia mena miso ha haolu meno to ma pula.
-CONTR 3SG DECL.COMP REFL PROX speak DECL.COMP.CLOSE PST NEG wish.
-(But of course he did not wish to say so.)
+whekai shia mena miso ha haolu meno to ma rinu.
+CONTR 3SG DECL.COMP REFL PROX speak DECL.COMP.CLOSE PST NEG want.
+(But of course he did not want to say so.)
 williams: "but of course he didn't want to say so."
 
 nolika whila tupiwa shola wa thia nia thia rokai tolae po tupi sholo to thilou.
@@ -1164,9 +1164,9 @@ shia mena lo phirae tupiwa ma nila meno to soliru.
 (And hoped that the other rabbits would not see.)
 williams: "and hoped that the other rabbits wouldn't notice."
 
-shia nu wi shemu shola mia ma pula sholo to haolu.
-3SG ORD two moment QUOT.COMP 1SG NEG wish QUOT.COMP.CLOSE PST speak.
-(A second time he said: "I do not wish to!")
+shia nu wi shemu shola mia ma rinu sholo to haolu.
+3SG ORD two moment QUOT.COMP 1SG NEG want QUOT.COMP.CLOSE PST speak.
+(A second time he said: "I do not want to!")
 williams: "\"I don't want to!\" he said again."
 
 whekai waeshi tupiwa ru tiso mirae phelu.
@@ -1214,8 +1214,8 @@ small rabbit head PST INCH turn.
 (Till the little rabbit's own head began to turn.)
 williams: "till the little Rabbit got quite dizzy."
 
-shia shola mia rotiku ma lothea. mia moesha meilo mo pula sholo to haolu.
-3SG QUOT.COMP 1SG dance NEG love. 1SG still sit CMPR wish QUOT.COMP.CLOSE PST speak.
+shia shola mia rotiku ma lothea. mia moesha meilo mo rinu sholo to haolu.
+3SG QUOT.COMP 1SG dance NEG love. 1SG still sit CMPR want QUOT.COMP.CLOSE PST speak.
 (He said: "I do not love dancing. I would rather sit still!")
 williams: "\"I don't like dancing,\" he said. \"I'd rather sit still!\""
 
@@ -1637,14 +1637,14 @@ child MANY moment sea shore PST speak.
 (For the child had often talked of the seashore.)
 williams: "For the boy had often talked of the seaside,"
 
-tupiwa mena miso lo rena shua whalo morilu nila meno to ru pula.
-rabbit DECL.COMP REFL PL REL come large wave see DECL.COMP.CLOSE PST INTS wish.
-(The rabbit wished very much to see the big waves that come rolling in.)
+tupiwa mena miso lo rena shua whalo morilu nila meno to wilao.
+rabbit DECL.COMP REFL PL REL come large wave see DECL.COMP.CLOSE PST long-for.
+(The rabbit longed to see the big waves that come rolling in.)
 williams: "and he wanted very much to see the big waves coming in,"
 
-shia we lo ru thiku moriwhe limoe nela lo kirua womu nila to pula.
-3SG ALSO PL INTS small sea creature COORD PL sand home see PST wish.
-(He wished to see the tiny sea-creatures too, and the sand houses.)
+shia we lo ru thiku moriwhe limoe nela lo kirua womu nila to wilao.
+3SG ALSO PL INTS small sea creature COORD PL sand home see PST long-for.
+(He longed to see the tiny sea-creatures too, and the sand houses.)
 williams: "and the tiny crabs, and the sand castles."
 
 mua ha shemu tholu woru shia to nila.
@@ -2105,8 +2105,8 @@ COND 3SG DECL.COMP UNIV wild rabbit AROUND REFL dance DECL.COMP.CLOSE see. 3SG R
 (When he saw all the wild rabbits dancing around him, he suddenly remembered his hind legs.)
 williams: "For when he saw all the wild rabbits dancing around him he suddenly remembered about his hind legs,"
 
-shia mena lo shia miso ta thena kire nila meno to ma pula.
-3SG DECL.COMP PL 3SG REFL one thing shape see DECL.COMP.CLOSE PST NEG wish.
+shia mena lo shia miso ta thena kire nila meno to ma rinu.
+3SG DECL.COMP PL 3SG REFL one thing shape see DECL.COMP.CLOSE PST NEG want.
 (He did not want them to see his made-in-one-piece shape.)
 williams: "and he didn't want them to see that he was made all in one piece."
 

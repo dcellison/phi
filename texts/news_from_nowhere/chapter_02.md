@@ -322,8 +322,8 @@ CONTR 2SG POST 2SG journey LOC PROX morning DECL.COMP water cold be DECL.COMP.CL
 (But perhaps, after your journey, you find the water cold this morning.)
 morris: "but perhaps you find the water cold this morning, after your journey."
 
-wa mia thia nosa kau kerime kolua. sola wa thia phoe kelua nuora wea luphore lumae wepu pula.
-Q 1SG 2SG now ALL shore carry. DISJ Q 2SG ANT morning food TOWARD river end go wish.
+wa mia thia nosa kau kerime kolua. sola wa thia phoe kelua nuora wea luphore lumae wepu rinu.
+Q 1SG 2SG now ALL shore carry. DISJ Q 2SG ANT morning food TOWARD river end go want.
 (Shall I carry you ashore at once? Or do you wish, before the morning meal, to go downstream?)
 morris: "Shall I put you ashore at once, or would you like to go down to Putney before breakfast?\""
 
@@ -332,8 +332,8 @@ shia haolu lue mia remo ru phirae to nai. thelao mia shia to ru nila.
 (His speech was so unlike anything I had expected that I stared at him.)
 morris: "He spoke in a way so unlike what I should have expected from a Hammersmith waterman, that I stared at him,"
 
-mia shola pi no luphonu ka teku manolu. mia mena mia roa mia teku nila meno pula. sholo to haolu.
-1SG QUOT.COMP POL IMP boat CAUS short stay. 1SG DECL.COMP 1SG AROUND 1SG short see DECL.COMP.CLOSE wish. QUOT.COMP.CLOSE PST speak.
+mia shola pi no luphonu ka teku manolu. mia mena mia roa mia teku nila meno rinu. sholo to haolu.
+1SG QUOT.COMP POL IMP boat CAUS short stay. 1SG DECL.COMP 1SG AROUND 1SG short see DECL.COMP.CLOSE want. QUOT.COMP.CLOSE PST speak.
 ("Please hold her a little," I answered. "I want to look about me a bit.")
 morris: "as I answered, \"Please to hold her a little; I want to look about me a bit.\""
 
@@ -499,8 +499,8 @@ CONTR PL person INS PL net UNIV time NEG catch.
 (But of course people are not catching with the nets all the time.)
 morris: "but of course they are not always in use;"
 
-lo mia mua meluna theula philo shalumi ma pula.
-PL 1SG LOC season UNIV day salmon NEG wish.
+lo mia mua meluna theula philo shalumi ma rinu.
+PL 1SG LOC season UNIV day salmon NEG want.
 (We don't want salmon every day of the season.)
 morris: "we don't want salmon _every_ day of the season.\""
 ```
@@ -510,8 +510,8 @@ morris: "we don't want salmon _every_ day of the season.\""
 ## repha — The bridge
 
 ```
-mia mena mia shola wa ha rena mia sano luphore nai. sholo haolu meno to pula.
-1SG DECL.COMP 1SG QUOT.COMP Q PROX REL 1SG know river be. QUOT.COMP.CLOSE speak DECL.COMP.CLOSE PST wish.
+mia mena mia shola wa ha rena mia sano luphore nai. sholo haolu meno to thueli.
+1SG DECL.COMP 1SG QUOT.COMP Q PROX REL 1SG know river be. QUOT.COMP.CLOSE speak DECL.COMP.CLOSE PST intend.
 (I was going to say, "But is this the river I know?")
 morris: "I was going to say, \"But is this the Thames?\""
 
@@ -634,8 +634,8 @@ PL TOWARD river end bridge THAN PROX bridge PST POT NEG CMPR proud be.
 (And the downstream ones are scarcely more stately than it.)
 morris: "and the down-stream ones are scarcely more dignified and stately.\""
 
-mia pai whuo miso pula to haolu. mia shola repha wia torua to ki whano. sholo to haolu.
-1SG NEAR WITHOUT REFL wish PST speak. 1SG QUOT.COMP bridge how many year PST PFV stand. QUOT.COMP.CLOSE PST speak.
+mia pai whuo miso rinu to haolu. mia shola repha wia torua to ki whano. sholo to haolu.
+1SG NEAR WITHOUT REFL want PST speak. 1SG QUOT.COMP bridge how many year PST PFV stand. QUOT.COMP.CLOSE PST speak.
 (Almost against my will, I found myself asking, "How many years has it stood?")
 morris: "I found myself saying, almost against my will, \"How old is it?\""
 
@@ -760,8 +760,8 @@ CONS PURP PL person 1SG think tie NEG see 1SG PST speak.
 (So, to hide my confusion, I spoke--)
 morris: "so to hide my confusion I said,"
 
-pi no mia nosa kau kerime kolua. mia kelua nuora pula.
-POL IMP 1SG now ALL shore carry. 1SG morning food wish.
+pi no mia nosa kau kerime kolua. mia kelua nuora rinu.
+POL IMP 1SG now ALL shore carry. 1SG morning food want.
 ("Please take me ashore now: I want to get my breakfast.")
 morris: "\"Please take me ashore now: I want to get my breakfast.\""
 ```
@@ -826,8 +826,8 @@ mia menoa rulo to kelu. mia roe pukate haoni to haolu.
 (I blushed, and spoke with a breaking voice.)
 morris: "I blushed, and said, stammering,"
 
-pi. mia wei thia peloma ma pula. whekai mia wei thia hina na loa.
-POL. 1SG DAT 2SG harmful NEG wish. CONTR 1SG DAT 2SG what NEC give.
+pi. mia wei thia peloma ma thueli. whekai mia wei thia hina na loa.
+POL. 1SG DAT 2SG harmful NEG intend. CONTR 1SG DAT 2SG what NEC give.
 ("Please don't take it amiss; I mean no offence: but what ought I to give you?")
 morris: "\"Please don't take it amiss if I ask you; I mean no offence: but what ought I to pay you?"
 
@@ -997,8 +997,8 @@ BECAUSE 1SG DIST fear PST hold 1SG small shy PST be. CONS 3SG speak PST fast clo
 (No doubt that fear made me look a little shy of him; so he broke off short, and said in a kind voice--)
 morris: "No doubt I looked a little shy of him under the influence of that doubt as to his sanity. So he broke off short, and said in a kind voice:"
 
-whekai mia mena mia thia shorui ka kelu meno nila. mia peloma ma pula.
-CONTR 1SG DECL.COMP 1SG 2SG weary CAUS become DECL.COMP.CLOSE see. 1SG harmful NEG wish.
+whekai mia mena mia thia shorui ka kelu meno nila. mia peloma ma thueli.
+CONTR 1SG DECL.COMP 1SG 2SG weary CAUS become DECL.COMP.CLOSE see. 1SG harmful NEG intend.
 ("But I see that I am wearying you, and I ask your pardon.)
 morris: "\"But I see that I am boring you, and I ask your pardon."
 
@@ -1042,8 +1042,8 @@ thia loa ru phena nai. whekai mia ha po ma siloma kelomi.
 ("It is a very kind offer, but it is difficult for me to accept it--")
 morris: "\"It is a very kind offer, but it is difficult for me to accept it, unless--\""
 
-mia mena mia shola li lu thia lo thiku keluo thena kelomi sholo haolu meno to pa pula.
-1SG DECL.COMP 1SG QUOT.COMP RESTR COND 2SG PL small metal thing accept QUOT.COMP.CLOSE speak DECL.COMP.CLOSE PST INCH wish.
+mia mena mia shola li lu thia lo thiku keluo thena kelomi sholo haolu meno to pa thueli.
+1SG DECL.COMP 1SG QUOT.COMP RESTR COND 2SG PL small metal thing accept QUOT.COMP.CLOSE speak DECL.COMP.CLOSE PST INCH intend.
 (I was going to say: "Only if you will accept the metal pieces.")
 morris: "I was going to say, Unless you will let me pay you properly;"
 
@@ -1062,8 +1062,8 @@ DIST zero thing be. BECAUSE PROX DAT 1SG luck FUT give. 1SG DAT one friend good 
 ("Don't trouble about that: it will give me a lucky opening to do a good turn for a friend of mine.)
 morris: "\"O,\" he said, \"don't trouble about that, because it will give me an opportunity of doing a good turn to a friend of mine,"
 
-ra melu mua ha lokue mia riola pilu pula.
-DIST friend LOC PROX place 1SG labor take wish.
+ra melu mua ha lokue mia riola pilu rinu.
+DIST friend LOC PROX place 1SG labor take want.
 (He wants to take my work here.)
 morris: "who wants to take my work here."
 
@@ -1077,8 +1077,8 @@ PROX two labor LOC home be.
 (Both are indoor work, you see.)
 morris: "both indoor work, you see;"
 
-shia mia whalo melu nai. thelao shia kau mia to kamo. shia mue womu riola pula.
-3SG 1SG large friend be. CONS 3SG ALL 1SG PST arrive. 3SG OUT.OF home labor wish.
+shia mia whalo melu nai. thelao shia kau mia to kamo. shia mue womu riola rinu.
+3SG 1SG large friend be. CONS 3SG ALL 1SG PST arrive. 3SG OUT.OF home labor want.
 (And being a great friend of mine, he naturally came to me, wanting outdoor work.)
 morris: "and being a great friend of mine, he naturally came to me to get him some outdoor work."
 
@@ -1107,8 +1107,8 @@ ADD 2SG COM 1SG POT go. 2SG SOME INTS kind person FUT see. 2SG LOC DIST earth PL
 (And besides, you might come with me: you would see some very nice people, and could make notes of our ways in that country.)
 morris: "and besides, you might go with me, you know, and see some very nice people, besides making notes of our ways in Oxfordshire."
 
-lu thia muila nila pula thia mo welao ruela po ma hekawi.
-COND 2SG earth see wish 2SG CMPR good path POT NEG find.
+lu thia muila nila rinu thia mo welao ruela po ma hekawi.
+COND 2SG earth see want 2SG CMPR good path POT NEG find.
 (You could hardly find a better road, if you want to see the country.)
 morris: "You could hardly do better if you want to see the country.\""
 
@@ -1223,13 +1223,13 @@ COND labor DAT 2SG CMPR heavy be NAME keru ALSO labor find. 3SG NEAR 2SG dwell.
 (And if you find it too much, Bright is on the look-out for a stroke of work, and he lives close by you.)
 morris: "and if you find it too much, there is George Brightling on the look out for a stroke of work, and he lives close handy to you."
 
-no nila. ha kuewa miona mia phea miso kulo pilu pula. ha mua ha philo mia monelu so ka kelu.
-IMP see. PROX strange person 1SG AS REFL guide take wish. PROX LOC PROX day 1SG amused FUT CAUS become.
+no nila. ha kuewa miona mia phea miso kulo pilu rinu. ha mua ha philo mia monelu so ka kelu.
+IMP see. PROX strange person 1SG AS REFL guide take want. PROX LOC PROX day 1SG amused FUT CAUS become.
 (But see: this stranger wishes to take me as his guide, and that will keep me amused today.)
 morris: "But see, here is a stranger who is willing to amuse me to-day by taking me as his guide about our country-side,"
 
-thia mena mia ha soleha leiro ma pula meno po remo. thelao no nosa kau luphonu wepu.
-2SG DECL.COMP 1SG PROX luck release NEG wish DECL.COMP.CLOSE POT think. CONS IMP now ALL boat go.
+thia mena mia ha soleha leiro ma rinu meno po remo. thelao no nosa kau luphonu wepu.
+2SG DECL.COMP 1SG PROX luck release NEG want DECL.COMP.CLOSE POT think. CONS IMP now ALL boat go.
 (You may imagine I don't want to let that luck go; so you had better take to the boat at once.)
 morris: "and you may imagine I don't want to lose the opportunity; so you had better take to the boat at once."
 
@@ -1263,8 +1263,8 @@ mia mena thia pheo mia nulae mua luera shero muo phemi womu kamo meno ho remo.
 (I suppose you came into the Guest House last night, after I had gone to sleep?)
 morris: "I suppose you came into the Guest House after I had gone to bed last night?\""
 
-mia roe koma kiroa to loa. mia laeno rena kau mu thena wepu haolu to ma pula.
-1SG INS head sign PST give. 1SG long REL ALL zero thing go speak PST NEG wish.
+mia roe koma kiroa to loa. mia laeno rena kau mu thena wepu haolu to ma rinu.
+1SG INS head sign PST give. 1SG long REL ALL zero thing go speak PST NEG want.
 (I nodded: I did not care for a long explanation that would have led to nothing.)
 morris: "I nodded, not caring to enter into a long explanation which would have led to nothing,"
 

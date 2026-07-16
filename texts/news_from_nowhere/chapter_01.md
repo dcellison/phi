@@ -491,14 +491,14 @@ shia mena lo thena wei lo wemi nela we theula miona se na shane meno remo.
 (He thinks they should be told to the allies, and to all people besides.)
 morris: "that he thinks that they should be told to our comrades, and indeed the public in general,"
 
-thelao shia mena shia mua nosa lo thena shane meno pula.
-CONS 3SG DECL.COMP 3SG LOC now PL thing tell DECL.COMP.CLOSE wish.
-(Therefore he wishes to tell them now.)
+thelao shia mena shia mua nosa lo thena shane meno thueli.
+CONS 3SG DECL.COMP 3SG LOC now PL thing tell DECL.COMP.CLOSE intend.
+(Therefore he intends to tell them now.)
 morris: "and therefore proposes to tell them now."
 
-whekai shia shola mia mena mia miso lo thena shane meno pula sholo haolu.
-CONTR 3SG QUOT.COMP 1SG DECL.COMP 1SG REFL PL thing tell DECL.COMP.CLOSE wish QUOT.COMP.CLOSE speak.
-("But," he says, "I wish to tell them myself.")
+whekai shia shola mia mena mia miso lo thena shane meno rinu sholo haolu.
+CONTR 3SG QUOT.COMP 1SG DECL.COMP 1SG REFL PL thing tell DECL.COMP.CLOSE want QUOT.COMP.CLOSE speak.
+("But," he says, "I want to tell them myself.")
 morris: "But, says he, I think it would be better if I told them in the first person, as if it were myself who had gone through them;"
 
 lao mia rena mia shane wemi lo phaelo nela lo wilao sheo theula muila miona mo shelomu thena wei mia so ru mo siloma nela mo woeli nai.

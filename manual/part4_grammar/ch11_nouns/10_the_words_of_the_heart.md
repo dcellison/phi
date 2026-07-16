@@ -75,7 +75,9 @@ mia wela lopia nulae welo phaelo.
 
 ## The verbs of the heart
 
-Some of the heart's work is verbs, and they take ordinary objects: *lothea* (love), *soliru* (hope), *pula* (wish), *theomi* (trust), *nuhemi* (grieve, from the turning of a life), *nelu* (revere, the inward awe). One pair is worth keeping straight: *woraka* is felt appreciation and *whaline* is its expression, so gratitude runs from the *nemo* heart through *woraka* to the spoken *whaline*:
+Some of the heart's work is verbs, and they take ordinary objects: *lothea* (love), *rinu* (want), *wilao* (long for), *pula* (wish), *soliru* (hope), *theomi* (trust), *nuhemi* (grieve, from the turning of a life), and *nelu* (revere, the inward awe). These are not rungs on one ladder. *rinu* is ordinary desire, *wilao* gives desire a sustained or intense pull, *pula* presents an outcome one would welcome, and *soliru* regards that welcome outcome as possible while it remains uncertain.
+
+One further pair is worth keeping straight: *woraka* is felt appreciation and *whaline* is its expression, so gratitude runs from the *nemo* heart through *woraka* to the spoken *whaline*:
 
 ```
 mia thia lothea.

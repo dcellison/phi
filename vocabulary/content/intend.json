@@ -8,16 +8,25 @@
     "li"
   ],
   "pos": "verb",
-  "concept": "Intend / Aim Toward / Direct Will",
-  "description": "To direct one's will toward a future action or outcome; purposeful mental aiming. 'Thueli' names the arrow of will—consciousness pointing toward what it seeks to bring about.",
-  "sound_symbolism": "The word aims thoughtfully. 'Thu' breathes with deliberate opening, will gathering. 'E' eases into direction, finding the path. Then 'li' lifts toward the aimed-for goal.",
-  "grammatical_notes": "Functions as verb: 'mia thueli.' (I intend.) Takes an object of intention. Related to 'porua' (purpose) as the act behind the aim.",
+  "search_terms": [
+    "mean to",
+    "aim to"
+  ],
+  "description": "A repairer intends to replace a cracked handle, even if rain later prevents the work. 'thueli' names an agent's present aim to act or bring about an outcome; it does not report the effect or promise completion. 'winora' (plan) arranges actions and conditions, while 'seru' (commit) binds the person to a course.",
+  "articulatory_notes": "Rest the tongue tip against the upper teeth for unvoiced 'th' and let air pass into high-back rounded 'u'. Unround the lips and move the tongue forward for stressed true-mid 'e' in a separate syllable. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and finish with high-front unrounded 'i'.",
+  "usage_notes": "An intended action or outcome may precede 'thueli'; a full proposition uses 'mena ... meno'. Noun 'thueli' is intention. Intention remains distinct from cause and effect, so later events may confirm, alter, or frustrate it.",
+  "examples": [
+    {
+      "phi": "mia mena mia ha tomi so talome meno thueli.",
+      "translation": "I intend to restore this pot."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Right intention—the second factor of the path, directing mind toward wholesome ends.",
-    "peace-linguistics-practices": "Declared intention—speaking what one aims for, enabling trust and cooperation."
+    "secular-buddhist-philosophy": "Attention to intention asks what a person is trying to do before habit carries the action forward. It leaves the actual result open to examination.",
+    "peace-linguistics-practices": "During repair after harm, a speaker can state their intention without using it to erase the effect another person reports."
   },
   "semantic_domains": {
-    "cognition": "Directed will",
-    "temporal": "Future orientation"
+    "activity": "an agent's present aim towards an action or outcome",
+    "cognition": "holding an action or outcome as what one means to bring about"
   }
 }

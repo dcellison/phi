@@ -8,16 +8,24 @@
     "o"
   ],
   "pos": "verb",
-  "concept": "Long For / Yearn / Experience Wanting",
-  "description": "The verb of conscious longing, naming the inner movement toward what is not yet held. In Phi, this word reframes 'wanting' not as grasping or demanding but as the awareness of desire arising—something to be observed and acknowledged rather than immediately acted upon or suppressed. This is the feeling-state before decision, the moment when one notices the heart reaching toward possibility. It encompasses both the pull toward simple pleasures and the deep yearnings of the soul, always with the understanding that longing observed mindfully can inform action without becoming attachment.",
-  "sound_symbolism": "The word opens with 'wi', where the gliding 'w' reaches outward—lips rounding toward what is desired, breath moving into possibility—meeting 'i', the bright focused vowel of directed attention. This flows through 'la', the liquid sound of feeling itself, desire as it moves through consciousness like water through channels. The final standalone 'o' opens into spacious awareness, the round vowel creating room for the longing to exist without demanding resolution. The three syllables create the full arc of conscious desire: reaching, feeling, opening to what may or may not come.",
-  "grammatical_notes": "Functions as a verb describing the experience of wanting rather than demanding satisfaction. Takes an object for what is longed for: 'mia shea wilao.' (I long for peace.) Distinguished from verbs of need or demand by emphasizing the feeling-state rather than the requirement. Can be used intransitively to describe being in a state of longing. The word invites speakers to name desire as experience rather than claim on the world.",
+  "search_terms": [
+    "yearn",
+    "longing"
+  ],
+  "description": "Someone far from home may long for its familiar rooms; someone grieving may long to hear a lost voice again. 'wilao' names desire with sustained or intense pull, whether or not the person acts on it. 'rinu' (want) leaves strength and duration open, while 'phelona' (require) states that something is needed under given conditions.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then move into high-front unrounded 'i'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l' and release into stressed open central unrounded 'a'. Draw the tongue back and round the lips for final true-mid back 'o'. Keep it separate across the 'a.o' hiatus.",
+  "sound_symbolism": "The opening glide moves quickly into focused 'i', then the tongue releases through lateral 'l' into broad stressed 'a'. The separate final 'o' asks the mouth to open and round once more. This gives the word a contour that reaches, opens, and lingers.",
+  "usage_notes": "The object of longing appears before 'wilao'; a complete desired event fits inside 'mena ... meno'. The verb may stand without an object when context supplies what is longed for. As a noun, 'wilao' is longing or an episode of longing.",
+  "examples": [
+    {
+      "phi": "mia shea wilao.",
+      "translation": "I long for peace."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The Second Noble Truth identifies tanha (craving, clinging) as the origin of suffering. 'Wilao' provides vocabulary for the earlier, less harmful stage—desire as it arises, before it hardens into grasping. By naming longing as feeling rather than as demand, the word supports the practice of observing desire without being controlled by it.",
-    "peace-linguistics-practices": "Expressing desires clearly without aggression requires distinguishing longing from demanding. 'Wilao' enables speakers to own their wants as internal experiences rather than external requirements, supporting non-violent communication where needs are shared rather than imposed."
+    "secular-buddhist-philosophy": "Longing can be noticed as an experience before it is followed, resisted, or mistaken for a necessity. Naming its strength makes that pause more honest."
   },
   "semantic_domains": {
-    "cognition": "awareness of the mind's movement toward objects",
-    "emotion": "internal experience of yearning and desire"
+    "emotion": "sustained or intense desire for someone, something, or an outcome"
   }
 }

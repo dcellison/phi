@@ -8,16 +8,24 @@
     "i"
   ],
   "pos": "verb",
-  "concept": "Dedicate / Devote Fully / Commit Deeply",
-  "description": "To devote wholly to a purpose or person; deep commitment of self to something beyond self. 'Menai' names the giving over—when purpose becomes larger than personal want.",
-  "sound_symbolism": "The word gives from within. 'Me' begins with labial closeness, the inner resolve that dedication requires. 'Nai' grounds with purpose, devotion landing where it belongs. Dedication as something that comes from the core.",
-  "grammatical_notes": "Functions as verb, with the thing dedicated as object: 'mia thole menai.' (I dedicate the practice.) Sustains 'shimalo' (discipline) with purpose; related to 'seru' (commit), the binding moment; 'menai' is the ongoing devotion.",
+  "search_terms": [
+    "devote",
+    "devotion"
+  ],
+  "description": "A gardener may dedicate a season's work to a community orchard; a practitioner may dedicate themself to a discipline. 'menai' sets work, effort, or self apart for a person or purpose, either in one act or through continued devotion. 'seru' (commit) binds someone to a course, while dedication also names what or whom that course is for.",
+  "articulatory_notes": "Close the lips for voiced 'm', let air pass through the nose, and release into true-mid front unrounded 'e'. Press the tongue tip behind the upper teeth for voiced dental 'n' and open into stressed central unrounded 'a'. Raise the tongue high and forward for a separate unrounded 'i'. Keep the 'a.i' hiatus audible.",
+  "usage_notes": "The work, effort, or self being dedicated appears before 'menai'. The preposition 'wei' introduces the recipient or purpose; reflexive 'miso' makes dedication of oneself explicit. Used as a noun, 'menai' is dedication or an act of dedicating.",
+  "examples": [
+    {
+      "phi": "mia wei shea miso menai.",
+      "translation": "I dedicate myself to peace."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Dedication to practice—the commitment that sustains spiritual development.",
-    "peace-linguistics-practices": "Dedicated listening—giving full attention to another's words and meaning."
+    "secular-buddhist-philosophy": "Dedication gives a repeated practice a stated purpose. It can be renewed without claiming that every imperfect session has betrayed it."
   },
   "semantic_domains": {
-    "emotion": "Deep commitment",
-    "ritual": "Devotional act"
+    "activity": "setting work, effort, or self apart for a person or purpose",
+    "ritual": "dedication expressed through a repeated or ceremonial practice"
   }
 }

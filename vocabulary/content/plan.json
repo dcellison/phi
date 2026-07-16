@@ -8,17 +8,27 @@
     "ra"
   ],
   "pos": "verb",
-  "concept": "Plan / Organize Intended Future Actions",
-  "description": "To organize intended actions before or during an undertaking: order, dependencies, resources, conditions, participants. A plan may be partial, conditional, disputed, or abandoned, and none of that is failure. Planning arranges intentions; 'seru' (commit) binds them.",
-  "sound_symbolism": "Bright 'wi' begins with a small rounding of the lips and a quick glide inward. Stressed 'no' gathers the middle into a dental nasal and round 'o'. Final 'ra' rolls out into broad 'a'; together the last two syllables repeat the opening of 'norae' (method). The contour starts narrow, holds briefly, then opens into motion.",
-  "grammatical_notes": "A transitive or intransitive verb: 'lo mia ha rinoka winora.' (We plan this project.) The event-noun rule supplies a plan as the act or result of planning. Name contingencies, dependencies, sources, and who accepted the plan where relevant. Distinct from 'norae' (method), 'thimora' (schedule), 'noporu' (design), and 'seru' (commit).",
+  "search_terms": [
+    "make a plan",
+    "planning"
+  ],
+  "description": "Before repairing a roof, neighbours decide which boards must be replaced, who is available, and what rain would postpone the work. 'winora' organizes intended actions and their conditions into a revisable arrangement. 'thueli' (intend) states an aim, while 'seru' (commit) states that someone has undertaken a course.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then move into high-front unrounded 'i'. Press the tongue tip behind the upper teeth for voiced dental 'n', let air pass through the nose, and release into stressed true-mid back rounded 'o'. Make a tap or short trill for 'r' and finish with open central unrounded 'a'.",
+  "sound_symbolism": "The final 'no.ra' echoes the opening of 'norae' (method), an audible family resemblance between planning work and a method used within it. The resemblance is lexical, not a claim that either word can be divided into meaningful syllables.",
+  "usage_notes": "A planned undertaking may be the direct object of 'winora'; the 'mena ... meno' frame carries a full account of intended action. The same form used as a noun is planning or a plan. 'norae' names how work proceeds, 'thimora' places it in time, and module word 'noporu' describes its intended arrangement.",
+  "examples": [
+    {
+      "phi": "lo mia mena lo mia ha womu so talome meno winora.",
+      "translation": "We plan to restore this home."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Regenerative work benefits from plans that expose dependencies, material needs, maintenance, and opportunities for revision rather than relying on optimism alone.",
-    "peace-linguistics-practices": "A plan can coordinate action without silently turning proposed participation into assigned or compulsory labor."
+    "solarpunk-values": "A shared repair plan can expose material needs, maintenance, and dependencies before enthusiasm is mistaken for capacity.",
+    "peace-linguistics-practices": "A plan can coordinate work while leaving each participant's acceptance, refusal, and limits available to state separately."
   },
   "semantic_domains": {
-    "activity": "organizing intended actions and conditions",
-    "cognition": "forming a revisable structure for future action",
-    "temporal": "relating intended actions across future order"
+    "activity": "organizing intended actions and the conditions around them",
+    "cognition": "forming a revisable arrangement for an undertaking",
+    "temporal": "relating actions across a proposed order or schedule"
   }
 }
