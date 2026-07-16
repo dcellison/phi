@@ -8,16 +8,26 @@
     "ra"
   ],
   "pos": "adjective",
-  "concept": "Wondrous / Wonderful / Exceeding What Was Looked For",
-  "description": "Wondrous: exceeding what was looked for, and lifting the looker as it passes. A summer that outgrows every plan for it, a change no story prepared, a morning that makes the sleeper sit up. Where 'mioru' (beautiful) names what draws aesthetic appreciation and 'horae' (radiant) what shines outward, 'waora' names what overflows the expectation itself: the quality in things that makes a person say 'wao'.",
-  "sound_symbolism": "The word begins with the complete exclamation 'wao' (wow), the same caught-open breath taught to stand still and describe. Final 'ra' lifts that response outward and lets the wonder continue beyond the first instant of surprise.",
-  "grammatical_notes": "Adjective. 'ha keloi waora to nai.' (That summer was wondrous.) 'whekelu ru kuewa nela ru waora nai.' (Magic is very strange and very wondrous.) Kin to 'wao' (wow), the response it earns, and 'wakomi' (surprise), the arrival it often rides in on. The quality noun, wonder, comes by rule.",
+  "search_terms": [
+    "wonderful",
+    "amazing",
+    "inspiring wonder"
+  ],
+  "description": "A summer, discovery, or bridge is 'waora' when it exceeds what the experiencer expected and awakens wonder. The response may arise from an ordinary event newly noticed. 'wakomi' (surprise) is the unexpected arrival, while 'mioru' (beautiful) is an aesthetic judgement; either quality can occur without wonder.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then open into central unrounded 'a'. Raise the back of the tongue and round the lips for a separate stressed true-mid 'o', preserving the 'a.o' hiatus. Make a tap or short trill with the tongue tip for 'r' and finish with open central 'a'.",
+  "sound_symbolism": "'waora' begins with the full sound of 'wao' (wow), the response most likely to accompany it. The added tongue tap and final open vowel let the exclamation continue as a description.",
+  "usage_notes": "'wao' is the response; 'waora' is the quality that prompts it. Noun position yields wondrousness. Felt wonder can be stated as a response, while wonder about a question keeps that question inside 'phaelo' (feel).",
+  "examples": [
+    {
+      "phi": "ha kelua waora nai.",
+      "translation": "This morning is wondrous."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Wonder is attention caught fully awake; a word for it keeps the practice of being astonishable.",
-    "art-nouveau-aesthetics": "The movement built whole doorways to say this word: the ordinary vine, drawn until it exceeds itself."
+    "secular-buddhist-philosophy": "An ordinary morning may become wondrous when settled expectation yields to attention."
   },
   "semantic_domains": {
-    "cognition": "What outruns what was looked for",
-    "emotion": "The lift of exceeded expectation"
+    "cognition": "an experience judged to exceed the expectation brought to it",
+    "emotion": "a person, event, or thing that prompts a felt response of wonder"
   }
 }

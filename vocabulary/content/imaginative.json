@@ -8,16 +8,26 @@
     "ro"
   ],
   "pos": "adjective",
-  "concept": "Imaginative / Having Creative Vision / Seeing Possibilities",
-  "description": "Having or showing creativity and inventiveness in thought; able to envision what does not yet exist. 'Wiero' names the quality of inner vision—the mind that sees beyond what is to what could be.",
-  "sound_symbolism": "The word opens inner vision. 'Wi' begins with wonder, attention turning inward. The vowel hiatus 'i.e' opens to inner space, imagination's realm. Then 'ro' forms the vision, possibility taking shape.",
-  "grammatical_notes": "Functions as an adjective: 'wiero lopia' (imaginative child). Related to 'phisoe' (creative) but emphasizes vision and possibility rather than actual making.",
+  "search_terms": [
+    "inventive in thought",
+    "envisioning possibilities",
+    "full of imagination"
+  ],
+  "description": "A 'wiero' person, thought, story, or plan sees possibilities beyond what is presently there. The word covers the reach of imagination even when nobody makes the imagined thing. 'phisoe' (creative) describes invention expressed in an action, method, or work.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then spread the lips and bring the tongue forward into high-front unrounded 'i'. Keep stressed true-mid unrounded 'e' in a separate syllable across the 'i.e' hiatus. Make a tap or short trill with the tongue tip for 'r' and finish with true-mid rounded back 'o'.",
+  "sound_symbolism": "The rounded glide opens quickly into 'i' and the separate stressed 'e', then a tongue tap turns the word towards rounded 'o'. Its widening middle and final turn can recall a thought tried from another angle.",
+  "usage_notes": "The adjective can describe the thinker or what their imagination produces. As a noun it means imaginativeness; 'weni' (imagine) names the act and supplies imagination as its event noun.",
+  "examples": [
+    {
+      "phi": "lopia wiero nai.",
+      "translation": "The child is imaginative."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Imagination serves liberation—the ability to envision different ways of being opens paths to change.",
-    "art-nouveau-aesthetics": "Imaginative vision saw beauty where others saw ordinary—artists who reimagined everyday objects as works of art."
+    "solarpunk-values": "A community can imagine a different use for a street before anyone draws the plan or lifts a tool. That unbuilt possibility is 'wiero'."
   },
   "semantic_domains": {
-    "cognition": "Creative vision",
-    "wisdom": "Seeing possibility"
+    "cognition": "the capacity to form possibilities beyond what is presently perceived",
+    "creation": "a story, design, or plan shaped by imagined possibilities"
   }
 }

@@ -8,16 +8,26 @@
     "wa"
   ],
   "pos": "adjective",
-  "concept": "Strange / Unfamiliar / Outside the Known",
-  "description": "Strange: standing outside what is known, and known to be standing there. A sound the night has never made before, a visitor whose ways are new, a marking no one can account for. 'Kuewa' carries no verdict; the strange thing is not wrong, only unmet. In Phi the strange is first of all an invitation, the exact thing 'kuelo' (curious) exists to answer.",
-  "sound_symbolism": "The word opens on the 'kue' of 'kuelo' (curious): strangeness and curiosity are two ends of one meeting. The closed 'u' is the unknown still held apart, the hiatus steps carefully across 'e', and 'wa' glides outward into an encounter rather than closing in judgment.",
-  "grammatical_notes": "Adjective. 'ha shonuwa kuewa nai.' (This sound is strange.) 'wi kuewa tupiwa lue phero shua.' (Two strange rabbits come out of the fern.) Distinct from 'phirae' (different), which measures against something named, and from 'newu' (new), which measures against time; 'kuewa' measures against the knower's whole world. The quality noun, strangeness, comes by rule.",
+  "search_terms": [
+    "unfamiliar",
+    "odd",
+    "stranger"
+  ],
+  "description": "Something is 'kuewa' when it falls outside a person's or community's familiar experience. A night sound, custom, or visitor can be strange without being new in time or wrong. 'newu' (new) locates something relative to a beginning or arrival; 'kuewa' locates it relative to experience.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into high rounded back 'u'. Move the tongue forward into a separate stressed true-mid unrounded 'e', keeping the 'u.e' hiatus clear. Round the lips and raise the back of the tongue for voiced 'w', then open into central unrounded 'a'.",
+  "sound_symbolism": "'kuewa' shares its first two syllables with 'kuelo' (curious), so unfamiliarity and the wish to learn sit close in the ear. The final glide opens into 'a' rather than closing the encounter.",
+  "usage_notes": "'kuewa miona' can mean an unfamiliar person or stranger. The perspective belongs to the observer or community, not to a permanent kind of person. Noun use is strangeness.",
+  "examples": [
+    {
+      "phi": "ha shonuwa kuewa nai.",
+      "translation": "This sound is strange."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Beginner's mind greets the strange without flinching; a value-neutral word for the unfamiliar is that greeting built into grammar.",
-    "peace-linguistics-practices": "Languages often let 'strange' slide toward 'wrong'; carving the word clean of verdict keeps the stranger safe inside it."
+    "peace-linguistics-practices": "Calling a custom or person unfamiliar need not turn that distance into fault. 'kuewa' keeps the observer's limited experience inside the claim."
   },
   "semantic_domains": {
-    "cognition": "The unfamiliar, named without verdict",
-    "community": "The not-yet-met"
+    "cognition": "something outside a stated person's or community's present familiarity",
+    "community": "an unfamiliar person, practice, or custom encountered without an implied verdict"
   }
 }

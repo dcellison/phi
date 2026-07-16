@@ -8,16 +8,26 @@
     "e"
   ],
   "pos": "adjective",
-  "concept": "Creative / Bringing New Things Into Being / Inventive",
-  "description": "Relating to or involving the imagination and original ideas; able to create new things. 'Phisoe' names the quality of generative imagination—the capacity to bring forth what did not exist before.",
-  "sound_symbolism": "The word shapes the new. 'Phi' /ɸi/ begins with forming breath, creation stirring. Then 'so' shapes with intention, form emerging. Finally 'e' opens to the new, creation complete.",
-  "grammatical_notes": "Functions as an adjective: 'phisoe miona' (creative person). Central to artistic and innovation vocabulary. Related to 'wiero' (imaginative) but emphasizes actual creation rather than mental vision.",
+  "search_terms": [
+    "inventive",
+    "inventive work",
+    "creative approach"
+  ],
+  "description": "'phisoe' applies when imagination becomes an inventive approach or result. A creative repair may recombine familiar materials to solve a new problem; it need not produce something wholly unprecedented. 'wiero' (imaginative) concerns the capacity to envision possibilities whether or not anyone makes them.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the gap for 'ph', then move into high-front unrounded 'i'. Raise the tongue blade towards the alveolar ridge for unvoiced 's' and direct the narrow airflow into stressed true-mid rounded back 'o'. Move the tongue forward into a separate true-mid unrounded 'e', keeping the 'o.e' hiatus clear.",
+  "sound_symbolism": "Breath at the lips gives way to a narrower stream behind the teeth before the final vowel opens away from rounding. The changing airflow can recall an idea finding more than one route into form.",
+  "usage_notes": "Before a verb, the adjective marks creative manner, as in 'phisoe hinolu' (adapt creatively). The quality noun is creativity. 'kealo' (create) is the act that may express it.",
+  "examples": [
+    {
+      "phi": "ha norae phisoe nai.",
+      "translation": "This method is creative."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Creative solutions address seemingly impossible challenges—imagination applied to building sustainable futures.",
-    "art-nouveau-aesthetics": "Creativity was Art Nouveau's driving force—artists who saw new forms in nature and brought them into human-made objects."
+    "solarpunk-values": "A repair that puts an offcut to new use can be 'phisoe' without asking for a new material or a grand invention."
   },
   "semantic_domains": {
-    "cognition": "Inventive capacity",
-    "creation": "Bringing forth new"
+    "cognition": "inventive thought expressed in an approach, proposal, or solution",
+    "creation": "making or action that puts an idea into a new practical or artistic form"
   }
 }

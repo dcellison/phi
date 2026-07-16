@@ -324,7 +324,7 @@
 | `koma` | head | seat of mental processes |
 | `korei` | fulfill | Realization |
 | `kuelo` | curious | interest directed towards learning or examining what is not yet known |
-| `kuewa` | strange | The unfamiliar, named without verdict |
+| `kuewa` | strange | something outside a stated person's or community's present familiarity |
 | `kupela` | secret | The known and untold |
 | `leiro` | release | Names arithmetic subtraction through a release metaphor |
 | `lesawi` | consent | a specific decision whose understanding and conditions remain examinable |
@@ -393,7 +393,7 @@
 | `phirae` | different | comparative recognition that things differ in the relevant respect |
 | `phiremo` | relate | Perceiving connections |
 | `phirena` | meditate | Training and focusing attention |
-| `phisoe` | creative | Inventive capacity |
+| `phisoe` | creative | inventive thought expressed in an approach, proposal, or solution |
 | `phisuri` | sample | a selected portion whose relation to a larger source must be justified |
 | `phisuwa` | example | a particular case used to illuminate a broader idea |
 | `phiwapi` | butterfly | Change made visible and winged |
@@ -501,7 +501,7 @@
 | `turelo` | feedback | a relation used to explain changing system behavior |
 | `waeli` | conscious | the presence of subjective experience or wakefulness |
 | `wakomi` | surprise | The mind caught open |
-| `waora` | wondrous | What outruns what was looked for |
+| `waora` | wondrous | an experience judged to exceed the expectation brought to it |
 | `welura` | spread | Names arithmetic multiplication through a spreading metaphor |
 | `weni` | imagine | Creative mental image formation |
 | `wenola` | collaborate | aligns minds along shared paths of understanding |
@@ -518,7 +518,7 @@
 | `whemura` | dream | Mental imagery during sleep or imagination |
 | `wheparu` | discriminate | an assigned or perceived category directing action |
 | `whinu` | smell | an odour becoming perceptible and recognisable |
-| `wiero` | imaginative | Creative vision |
+| `wiero` | imaginative | the capacity to form possibilities beyond what is presently perceived |
 | `wilao` | long-for | awareness of the mind's movement toward objects |
 | `winora` | plan | forming a revisable structure for future action |
 | `wireki` | prognosis | a conditional inference about a health course |
@@ -645,7 +645,7 @@
 | `whekate` | refute | a decisive challenge supported by reasons or evidence |
 | `whishela` | whisper | Speech made of breath |
 
-## community (283)
+## community (285)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -678,7 +678,7 @@
 | `kopharu` | barrier | an arrangement that restricts participation |
 | `koru` | harmonious | different participants maintaining a workable relation |
 | `kowela` | council | gathers collective voices for communal decisions |
-| `kuewa` | strange | The not-yet-met |
+| `kuewa` | strange | an unfamiliar person, practice, or custom encountered without an implied verdict |
 | `kulo` | guide | Leading others along paths |
 | `kuma` | drum | Collective voice |
 | `laenu` | commons | Collective resource |
@@ -861,6 +861,7 @@
 | `temu` | guild | Craft association |
 | `teshori` | quarantine | a public-health relation with material and social obligations |
 | `tewema` | partner | fundamental social bond and relationship |
+| `thaemo` | precious | a person, object, or practice cherished within a relationship or group |
 | `thalume` | ancestor | forms the deep current of kinship and lineage |
 | `thaluni` | kin | fundamental to social structure and networks of belonging |
 | `thasu` | modest | unshowy self-presentation in relation to other people |
@@ -878,6 +879,7 @@
 | `thero` | fire | hearth fire as center of gathering |
 | `thimora` | schedule | a coordination artifact affecting participants |
 | `thiru` | exit | Departing |
+| `thoepa` | sacred | reverent standing held by an individual or group and expressed through practice |
 | `thola` | bring | delivering to others, bringing people and things together |
 | `tholira` | forgive | Enabling healing after harm |
 | `tholupi` | room | an interior place used in shared or solitary daily life |
@@ -933,7 +935,7 @@
 | `wonepa` | table | Where the meal gathers |
 | `woru` | keeper | Guardian role |
 
-## creation (168)
+## creation (169)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1028,7 +1030,7 @@
 | `phielo` | glass | Transparent material |
 | `philu` | candle | Wax light |
 | `phireo` | plant | Foundation of food chains |
-| `phisoe` | creative | Bringing forth new |
+| `phisoe` | creative | making or action that puts an idea into a new practical or artistic form |
 | `phoka` | lens | Optical device |
 | `phora` | sail | Wind catcher |
 | `phowe` | share | creates abundance through circulation |
@@ -1102,6 +1104,7 @@
 | `wethalu` | garment | Cloth shaped by craft into wearable form |
 | `wethamo` | blanket | a large made cloth covering |
 | `whori` | mend | Restoring broken things to wholeness |
+| `wiero` | imaginative | a story, design, or plan shaped by imagined possibilities |
 | `wile` | play | Exploring without stakes |
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
@@ -1173,7 +1176,7 @@
 | `siora` | joy | joy experienced as present gladness or delight |
 | `soliru` | hope | embodies confident expectation and positive feeling about possibilities |
 | `sukima` | fear | alarm felt in response to perceived danger |
-| `thaemo` | precious | Cherished value |
+| `thaemo` | precious | someone or something held dear by a stated person |
 | `thaemu` | sincere | genuine feeling made present in words or gesture |
 | `thaluni` | kin | embodies deep bonds of love and connection |
 | `theala` | heal | encompasses emotional restoration and returning to balance |
@@ -1191,7 +1194,7 @@
 | `thuo` | prosper | Abundant flourishing |
 | `thurai` | vibrant | lively energy apparent in a manner or shared activity |
 | `wakomi` | surprise | The felt jolt of the unexpected |
-| `waora` | wondrous | The lift of exceeded expectation |
+| `waora` | wondrous | a person, event, or thing that prompts a felt response of wonder |
 | `warosha` | reconcile | Processing hurt toward restoration |
 | `wema` | belong | feeling of being held and accepted within relationships |
 | `wesha` | lazy | Unwilling to work |
@@ -1864,7 +1867,7 @@
 | `thelui` | sanctuary | Protected space |
 | `thelumo` | ritual | this word defines the category |
 | `therema` | tradition | often expressed through repeated ceremonial practices |
-| `thoepa` | sacred | Worthy of reverence |
+| `thoepa` | sacred | a person, place, time, or object treated with reverence in ceremony |
 | `thorai` | bless | Sacred speech and invocation |
 | `thorea` | ceremony | performs prescribed actions in sacred structured space |
 | `thula` | spring | Sacred gift-place |
@@ -2206,7 +2209,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (137)
+## wisdom (134)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2307,7 +2310,6 @@
 | `tawimo` | foolish | sound judgement absent where the circumstances call for it |
 | `temoe` | tend | Attentive, ongoing presence |
 | `tenoa` | tool | Appropriate technology |
-| `thaemo` | precious | Worth protecting |
 | `theala` | heal | requires understanding root causes and skillful means |
 | `theali` | fitting | selection of a response appropriate to the situation and relationship |
 | `thekiro` | write | Preserving knowledge across time |
@@ -2328,7 +2330,6 @@
 | `thesori` | evidence | material whose source, relevance, and limits can be examined |
 | `thilonu` | prepare | Foresight and planning |
 | `thinu` | put | mindful intention in determining proper placement |
-| `thoepa` | sacred | Ultimate meaning |
 | `tholu` | space | Enabling emptiness |
 | `thorui` | beginning | Fresh start |
 | `thumela` | teach | awakening understanding and nurturing growth |
@@ -2345,5 +2346,4 @@
 | `whenola` | wander | Openness to unplanned discovery |
 | `wheo` | elder | holds experiential knowledge from long living |
 | `whori` | mend | Ethic of care and repair |
-| `wiero` | imaginative | Seeing possibility |
 | `wireo` | future | Possibility's domain |
