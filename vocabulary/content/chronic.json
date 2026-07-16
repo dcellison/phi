@@ -8,16 +8,27 @@
     "wi"
   ],
   "pos": "adjective",
-  "concept": "Chronic / Persisting or Recurring Over a Stated Clinical Duration",
-  "description": "Persisting or recurring over a stated duration. Chronic means the course continues, not that it is unchanging, incurable, or the whole of who a person is; it names time, and time alone.",
-  "sound_symbolism": "Deep 'nu' holds a nasal resonance at the teeth. Stressed 'ra' releases that hold with a roll into broad 'a', while final 'wi' gathers the lips and glides toward bright 'i'. Rising out of depth, the sound opens fully and folds inward again in one continuous motion.",
-  "grammatical_notes": "An adjective: 'ha mokanu nurawi nai.' (This disease is chronic.) State duration, recurrence, change, and source criteria where relevant. The quality-noun rule supplies chronic status. Distinct from 'katheo' (acute), 'mureo' (stable), 'pelaku' (severity), and permanence.",
+  "search_terms": [
+    "chronicity",
+    "long-term condition",
+    "persistent clinical course"
+  ],
+  "description": "'nurawi' describes a condition that persists or recurs over a duration chosen by the clinical source. A chronic illness can improve and later return; 'mureo' (stable) concerns how much it changes, not how long it lasts. 'katheo' (acute) covers a course that begins recently, develops quickly, or ends soon, and may name an episode within a chronic condition.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish the first syllable with high rounded back 'u'. Make a tap or short trill with the tongue tip for 'r' and open into stressed central 'a'. Round the lips and raise the back of the tongue for voiced 'w', then move the tongue forward and unround the lips into high-front 'i'.",
+  "sound_symbolism": "Voice carries through nasal 'n', tapped or trilled 'r', and gliding 'w' with no voiceless interruption. The unbroken voiced path suits a word for a clinical course that continues.",
+  "usage_notes": "The adjective fits both attributive and predicative positions, and its quality noun is chronicity. 'morashi' (relapse) names a return after improvement within the same understood course; chronic describes the longer pattern in which such a return may occur.",
+  "examples": [
+    {
+      "phi": "ha mokanu nurawi nai.",
+      "translation": "This disease is chronic."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "A chronic classification remains a description of course, not a reduction of the person to illness, dependence, burden, or fixed prognosis."
+    "peace-linguistics-practices": "A chronic course can change; the adjective describes the condition without turning it into the person's identity or forecast."
   },
   "semantic_domains": {
-    "cognition": "a clinical classification under a stated duration",
-    "temporal": "a persisting, recurring, or ongoing course"
+    "physical": "persistence or recurrence in a bodily health condition",
+    "temporal": "continuation or return across a duration set by a clinical source"
   },
   "modules": [
     "medical-and-bodily-care"

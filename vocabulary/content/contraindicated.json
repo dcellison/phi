@@ -8,16 +8,25 @@
     "ku"
   ],
   "pos": "adjective",
-  "concept": "Contraindicated / Advised Against Under a Stated Clinical Reason",
-  "description": "Advised against under a stated clinical reason, by a stated source. The word reports advice, not impossibility: a contraindication can be absolute, relative, or temporary, and naming which one keeps the door open to ask about alternatives.",
-  "sound_symbolism": "Dental 'na' starts with a steady nasal contact and broad 'a'. Stressed 'tho' keeps the tongue forward but turns resonance into breath, rounded in 'o'. Final 'ku' closes firmly at the velum and sinks into deep 'u'. Two kinds of dental contact lead to the last hard stop.",
-  "grammatical_notes": "An adjective: 'ha nepha nathoku nai.' (This medicine is contraindicated.) State the person or condition, intervention, source, reason, strength, alternatives, and uncertainty where relevant. The quality-noun rule supplies contraindication. Distinct from 'peloma' (harmful), 'whemaki' (allergy), 'naweri' (refuse), 'kanuwa' (authorize), and practical impossibility.",
+  "search_terms": [
+    "contraindication",
+    "advised against treatment"
+  ],
+  "description": "An intervention is 'nathoku' for a person or condition when a stated clinical source advises against it for a stated reason. The advice may be absolute or relative, and it may be temporary; the surrounding account preserves the source's scope. 'naweri' (refuse) states the person's answer, while 'kanuwa' (authorize) states institutional permission. Neither relation is supplied by the clinical advice.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and open into central 'a'. Rest the tongue tip lightly against the upper teeth for unvoiced 'th', pass air along it, and round the lips into stressed true-mid back 'o'. Close the back of the tongue against the soft palate for unvoiced 'k' and release it into high rounded back 'u'.",
+  "usage_notes": "'nathoku' can stand before a medicine or intervention noun, or serve as its predicate with 'nai' (be). Contraindication is the quality noun. 'whemaki' (allergy) may supply the clinical reason, while 'peloma' (harmful) describes an effect rather than the sourced advice against a proposed course.",
+  "examples": [
+    {
+      "phi": "ha nepha nathoku nai.",
+      "translation": "This medicine is contraindicated."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "A sourced contraindication can guide caution without erasing the person's choice or pretending that one clinical reason settles every context."
+    "peace-linguistics-practices": "Clinical advice stays apart from refusal and authorization. The person's answer remains audible even when a source advises against an intervention."
   },
   "semantic_domains": {
-    "cognition": "a source-bounded judgment against a proposed intervention",
-    "physical": "a clinical relation between an intervention and bodily conditions"
+    "cognition": "a sourced clinical judgement about a proposed intervention",
+    "physical": "advice based on the relation between an intervention and bodily conditions"
   },
   "modules": [
     "medical-and-bodily-care"
