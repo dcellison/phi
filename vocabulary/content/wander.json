@@ -8,16 +8,23 @@
     "la"
   ],
   "pos": "verb",
-  "concept": "Wander / Roam / Move Without Fixed Destination",
-  "description": "To move about without a fixed route or destination—exploring, meandering, following curiosity rather than plan. 'Whenola' names the freedom of undirected movement, whether physical rambling through landscape or mental drifting through ideas. The wanderer is not lost but open.",
-  "sound_symbolism": "The word drifts like wandering itself. 'Whe' /ʍe/ begins with voiceless breath, movement without force or urgency. Then 'no' suggests no fixed destination, direction undefined. Finally 'la' flows with liquid ease, path following its own logic.",
-  "grammatical_notes": "Functions as intransitive verb: 'mia whenola' (I wander). Can take locative: 'mia mua thepalu whenola' (I wander in the garden). Distinct from laniru (journey, purposeful travel); whenola implies openness to wherever paths lead.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Walking meditation can become wandering meditation—attention present, destination released, each step complete in itself.",
-    "art-nouveau-aesthetics": "The wandering line defines art nouveau—curves that follow their own organic logic rather than imposed geometry."
-  },
+  "search_terms": [
+    "roam",
+    "meander"
+  ],
+  "description": "A walker follows whichever opening comes next, with no fixed route or destination. That unsettled course is 'whenola'. A line of thought can wander too when it moves without a chosen conclusion. 'laniru' (journey) treats extended travel as a whole, while 'runaki' (wayfind) attends to maintaining orientation.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiceless 'wh', let air pass without vocal-fold vibration, and unround into middle-height front 'e'. Touch the tongue tip at the backs of the upper teeth for dental 'n', carry nasal voice into stressed middle-height back rounded 'o', then form voiced lateral 'l' at the alveolar ridge and open into central 'a'.",
+  "sound_symbolism": "The word changes course through breath, nasal resonance, and a final lateral release without meeting a full stop. Its three continuant contacts let the voice wander before it opens into 'a'.",
+  "usage_notes": "A setting takes 'mua' (LOC). Being lost is a separate claim about orientation; 'whenola' says only that the route or destination is not fixed.",
+  "examples": [
+    {
+      "phi": "suliwa mua kirua whenola.",
+      "translation": "The snake wanders in the sand."
+    }
+  ],
   "semantic_domains": {
-    "spatial": "Undirected movement through space",
-    "wisdom": "Openness to unplanned discovery"
+    "activity": "movement allowed to find its course as it proceeds",
+    "cognition": "thought moving without a chosen conclusion",
+    "spatial": "a route or destination left unsettled"
   }
 }

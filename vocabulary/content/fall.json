@@ -7,17 +7,23 @@
     "pa"
   ],
   "pos": "verb",
-  "concept": "Fall / Drop / Descend by Gravity",
-  "description": "To fall: leaves from branches, rain from clouds, a cup from a hand. Downward motion surrendered to rather than made. Distinct from 'thenoi' (falls-short, of magnitudes) and from 'muero' (autumn, the season of falling).",
-  "sound_symbolism": "The liquid 'l' lets go, glides down through 'e', and lands on the open 'a' — the release, the descent, the arrival at ground, in three sounds.",
-  "grammatical_notes": "Intransitive: 'lirowa lepa.' (The leaf falls.) With past marking: 'soeli to lepa.' (The cup fell.) What falls is simply the subject; gravity needs no agent.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Falling is the body's plainest lesson in non-clinging: what is released descends, and resisting the descent changes nothing. The leaf's fall is the classic meditation image.",
-    "pre-industrial-wisdom": "Rain falls, seed falls, fruit falls when ripe — agriculture is the craft of working with what falls and when."
-  },
+  "search_terms": [
+    "drop",
+    "descend"
+  ],
+  "description": "A cup slips from a hand and moves downwards once its support is gone. That gravity-led descent is 'lepa', as are falling rain and leaves. 'tupi' (jump) includes the launch from a surface; 'lepa' begins with the unsupported movement.",
+  "articulatory_notes": "Place the tongue tip at the alveolar ridge for voiced lateral 'l', let the voice pass around its sides, and move into stressed middle-height front 'e'. Close the lips for unvoiced 'p', release them, and finish with open central 'a'.",
+  "sound_symbolism": "The lateral opening lets the voice travel freely before the lips close at 'p'. Their release into broad final 'a' gives the short word a clear landing.",
+  "usage_notes": "Causative 'ka' adds the agent that makes another thing fall. 'muo' (INTO) marks what the subject falls into, while 'mua' (LOC) locates a descent already happening within a place or medium.",
+  "examples": [
+    {
+      "phi": "pheralu lepa.",
+      "translation": "Rain falls."
+    }
+  ],
   "semantic_domains": {
-    "nature": "What leaves, rain, and ripe fruit do",
-    "physical": "Downward motion under gravity",
-    "spatial": "Movement from high to low"
+    "activity": "an event in which a body loses support and descends",
+    "physical": "gravity-led movement after support is lost",
+    "spatial": "a path from a higher position to a lower one"
   }
 }

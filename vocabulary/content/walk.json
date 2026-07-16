@@ -7,18 +7,25 @@
     "lo"
   ],
   "pos": "verb",
-  "concept": "Walk / Mindful Journey on Foot",
-  "description": "The human act of moving on foot, alternating steps carrying the body forward. Walking is the oldest form of human travel, needing nothing but the body, and it goes at a pace the walker chooses—slow enough to notice the ground and the way.",
-  "sound_symbolism": "The word begins with 'tha', where the dental fricative 'th' creates a soft, continuous flow like feet brushing against earth—neither harsh impact nor complete separation, but the gentle friction of movement. This whispered beginning meets 'a', open and grounded like the stable stance between steps. The second syllable 'lo' flows liquid and continuous, the 'l' rolling forward like the perpetual motion of walking, while 'o' rounds out each step's completion. Together, 'thalo' creates a two-beat rhythm that mirrors the alternating footfalls of walking itself—soft contact, flowing continuation, the endless rhythm of human locomotion.",
-  "grammatical_notes": "An intransitive verb requiring no object ('mia thalo' - I walk); directional complements take prepositions ('mia wea womu thalo' - I walk toward home). The noun sense (a walk, walking) comes by the event-noun rule; in a copular sentence the predicate precedes 'nai' ('thalo welao nai.' - walking is good).",
+  "search_terms": [
+    "go on foot"
+  ],
+  "description": "On a path, a person or another animal can 'thalo'. Alternating steps carry the body forward while the feet keep returning to the ground. The word names the walking gait rather than motion in general: 'roke' (move) can shift anything, and 'rashelo' (run) has a different pattern of support.",
+  "articulatory_notes": "Place the tongue tip at or just behind the upper teeth and let unvoiced air pass for dental 'th', then open into stressed central 'a'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let the voice pass around its sides, and round the lips for middle-height back 'o'.",
+  "sound_symbolism": "A soft dental breath opens the word, then the lateral of the second syllable lets the voice pass around the tongue. The two even beats can recall one foot following the other.",
+  "usage_notes": "The walker is the subject. A setting takes 'mua' (LOC), while surface contact takes 'nia' (ON). An open direction takes 'wea' (TOWARD), and a reached destination takes 'kau' (ALL).",
+  "examples": [
+    {
+      "phi": "mia nua melu thalo.",
+      "translation": "I walk with my friend."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Walking as sustainable transportation aligns with solarpunk's vision of human-scale, car-free cities, though the connection is somewhat general - walking predates and transcends any specific environmental movement. Still, choosing to walk in our modern context is indeed a small act of resistance against fossil fuel dependence and a vote for walkable, community-oriented urban design.",
-    "secular-buddhist-philosophy": "Walking meditation (kinhin) is a fundamental Buddhist practice where each step becomes an opportunity for mindfulness. The rhythm of walking naturally synchronizes with breath, creating a moving meditation that grounds us in the present moment. Each footfall teaches impermanence - the constant arising and passing of contact with earth. Walking shows us that the path itself is the destination.",
-    "pre-industrial-wisdom": "Walking is humanity's original and most essential form of transportation, predating all technology and requiring nothing but the body. Traditional cultures measure distance in walking days, understand landscape through footpaths worn by generations, and transmit knowledge through walking songs that map the land. Walking connects us directly to ancestral ways of moving through and knowing the world."
+    "secular-buddhist-philosophy": "Walking meditation makes this ordinary gait a direct practice term. Phi's four-posture teaching places it beside 'whano' (stand), 'meilo' (sit), and 'ruemi' (lie down)."
   },
   "semantic_domains": {
-    "activity": "fundamental form of human locomotion",
-    "physical": "requires coordinated use of legs, feet, and balance",
-    "spatial": "enables traversal of distance and exploration of place"
+    "activity": "ordinary travel and practice on foot",
+    "physical": "alternating bodily support on the feet",
+    "spatial": "a walking route across a place"
   }
 }

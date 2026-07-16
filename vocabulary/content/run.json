@@ -8,19 +8,23 @@
     "lo"
   ],
   "pos": "verb",
-  "concept": "Run / Swift Movement on Foot",
-  "description": "Swift movement on foot: rhythmic strides with a moment of suspension between footfalls. In Phi the word covers joyful exertion and helpful haste, rushing to help someone, racing with children, quickening the pace because the situation asks for it. It is not framed as flight from danger or pursuit in anger; the speed answers a real need, not a manufactured urgency.",
-  "sound_symbolism": "The word begins with 'ra', the liquid 'r' rolling forward like the first spring of acceleration, the open 'a' drawing the needed breath. At its center is 'she', where the fricative 'sh' rushes—wind through grass, quick breathing, fabric swishing with speed—carried on the bright forward 'e'. The word lands on 'lo', the liquid stride rolling through, the round 'o' completing each footfall. Momentum, rush, stride: the three syllables are the three phases of a runner's gait. And because Phi is always spoken unhurried, even the word for running becomes a small practice in mindful speed—the swiftness held inside a slow and even breath.",
-  "grammatical_notes": "Functions as an intransitive verb of rapid motion requiring no direct object ('mia rashelo' - I run). Takes directional complements with prepositions to indicate destination or path. Can express purpose or urgency through additional constructions. Like other movement verbs, can indicate immediate future intent when unmarked. The imperative 'rashelo!' serves as urgent summons or encouragement to move quickly.",
-  "pillars": {
-    "peace-linguistics-practices": "Running in Phi emphasizes helpful urgency and joyful movement rather than aggression or fear. The word reframes swift movement as rushing to assist, playing together through racing, or expressing bodily vitality - never as pursuit in anger or flight from danger. This linguistic choice shapes how speakers conceptualize urgency itself, promoting responsiveness over reactiveness.",
-    "pre-industrial-wisdom": "Running represents humanity's original swift locomotion, requiring nothing but the body's own capacity. Before mechanized transport, running served as the primary means of urgent communication across distances, with message runners connecting communities. Traditional cultures celebrate running through ceremonial races and games that build community bonds rather than individual dominance."
-  },
+  "search_terms": [
+    "jog",
+    "sprint"
+  ],
+  "description": "'rashelo' is movement on foot in a running gait, with strides that may leave no foot supporting the body for a moment. It can happen in play or haste, and the surrounding clause supplies the motive. A person may 'rashelo' while they 'phesari' (flee), but neither verb entails the other.",
+  "articulatory_notes": "Tap or briefly trill the tongue tip at the alveolar ridge for 'r' and open into central 'a'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh', release a narrow stream of air into stressed middle-height front 'e', then form voiced lateral 'l' at the alveolar ridge and finish with rounded middle-height back 'o'.",
+  "sound_symbolism": "The opening tap starts the word in motion, the stressed hush stretches its middle, and the final lateral carries the voice onwards. Three clear pulses give the form something of a runner's repeated stride.",
+  "usage_notes": "'reshi' (fast) can compare the runner's speed with the situation at hand, but speed alone is not the gait. 'phesari' (flee) identifies movement away from danger or constraint even when the person leaves slowly or by another means.",
+  "examples": [
+    {
+      "phi": "kalora reshi rashelo.",
+      "translation": "The horse runs quickly."
+    }
+  ],
   "semantic_domains": {
-    "activity": "fundamental human activity of running",
-    "community": "rushing to help, playing together through racing",
-    "physical": "intense bodily exertion and cardiovascular activity",
-    "spatial": "rapid movement through space, covering distance swiftly",
-    "temporal": "movement expressing urgency or time-sensitive response"
+    "activity": "running for travel, play, or bodily exertion",
+    "physical": "the running gait and its unsupported intervals",
+    "spatial": "rapid foot travel across a place"
   }
 }

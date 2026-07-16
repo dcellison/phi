@@ -8,16 +8,23 @@
     "ru"
   ],
   "pos": "verb",
-  "concept": "Journey / Travel / Make a Trip",
-  "description": "To travel from one place to another, especially over significant distance or time. 'Laniru' implies purpose and duration—not a quick errand but a passage that takes time, crosses boundaries, and transforms the traveler. Every journey leaves home and seeks arrival.",
-  "sound_symbolism": "The word stretches like a long road. 'La' flows outward, departure beginning. Then 'ni' continues with nasal persistence, the middle miles. Finally 'ru' rolls toward destination, arrival approaching but not yet reached.",
-  "grammatical_notes": "'mia laniru' (I journey). Can specify destination: 'mia wea womu laniru' (I journey toward home). The noun comes by the event-noun rule: 'whalo laniru' (a great journey). Related to whenola (wander) but implies direction and purpose.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Life itself is journey—the path from birth toward death, from confusion toward clarity. Every journey teaches impermanence.",
-    "pre-industrial-wisdom": "Traditional cultures marked journeys as transformative passages—pilgrimage, walkabout, the hero's journey. Travel changes the traveler."
-  },
+  "search_terms": [
+    "travel",
+    "make a trip"
+  ],
+  "description": "'laniru' gathers travel across a span of distance or time into one extended event. The route may be planned or improvised, and whether the traveller changes is left to the story. 'wepu' (go) can cover any trip, while 'whenola' (wander) foregrounds the absence of a fixed route or destination.",
+  "articulatory_notes": "Place the tongue tip at the alveolar ridge for voiced lateral 'l', let the voice pass around its sides, and open into central 'a'. Touch the tongue tip at the backs of the upper teeth for dental 'n' and carry nasal voice into stressed high-front 'i'. Tap or briefly trill the tongue at the alveolar ridge for 'r', then round the lips and raise the back of the tongue for high-back 'u'.",
+  "sound_symbolism": "Three syllables keep the tongue travelling through lateral, nasal, and tapped contacts. Beside compact 'wepu' (go), the longer form gives an extended passage more room in the mouth.",
+  "usage_notes": "A source takes 'lue' (ABL), an open direction takes 'wea' (TOWARD), and a reached destination takes 'kau' (ALL). As an event noun, 'laniru' can modify 'miona' (person) to describe a traveller.",
+  "examples": [
+    {
+      "phi": "lo miona lue sileta thorui to laniru.",
+      "translation": "The people journeyed from the east."
+    }
+  ],
   "semantic_domains": {
-    "spatial": "Purposeful travel over distance",
-    "temporal": "Extended movement through time"
+    "activity": "extended travel gathered into one event",
+    "spatial": "a passage across a substantial route",
+    "temporal": "travel unfolding over an appreciable interval"
   }
 }

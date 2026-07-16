@@ -7,17 +7,23 @@
     "pho"
   ],
   "pos": "verb",
-  "concept": "Float / Rest on Water / Be Borne Up",
-  "description": "To float: the leaf on the pond, the boat at anchor, the swimmer resting. Being borne by water without effort — the still counterpart of 'wishe' (swim) and 'selu' (flow).",
-  "sound_symbolism": "Light 'lu' rests on the surface, 'pho' is the breath that keeps it there — floating as the water's exhale under a thing.",
-  "grammatical_notes": "Intransitive: 'lirowa mua melothe lupho.' (The leaf floats on the pond.) At rest: 'mia lupho.' (I float.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "Floating is trust demonstrated: the body that struggles sinks, the body that rests is held. Most meditation instruction is this verb.",
-    "pre-industrial-wisdom": "The ferryman read the river by what floated on it; driftwood and leaf-rafts were the water's own reports."
-  },
+  "search_terms": [
+    "stay buoyant",
+    "be borne up"
+  ],
+  "description": "A leaf can 'lupho' while the current carries it downstream, so the verb describes buoyant support rather than stillness. It applies to a body borne in water or another fluid. 'wishe' (swim) adds self-propelled travel, while 'selu' (flow) belongs to the moving medium.",
+  "articulatory_notes": "Place the tongue tip at the alveolar ridge for voiced lateral 'l', let the voice pass around its sides, and round the lips for stressed high-back 'u'. Bring the lips close without sealing them for unvoiced bilabial 'ph', pass breath between them, and open slightly into rounded middle-height back 'o'.",
+  "sound_symbolism": "The first syllable holds a low rounded resonance around the tongue. Breath then passes between nearly closed lips into another rounded vowel. The upper layer sounds airy beside the deeper opening.",
+  "usage_notes": "A locative phrase identifies the water or other medium. Horizontal travel is another fact: a floating thing may stay in place or be carried along.",
+  "examples": [
+    {
+      "phi": "lirowa mua melothe lupho.",
+      "translation": "The leaf floats on the pond."
+    }
+  ],
   "semantic_domains": {
-    "activity": "The swimmer's stillness",
-    "nature": "Borne on water",
-    "physical": "Rest without sinking"
+    "activity": "the continuing condition of being borne up",
+    "physical": "buoyant support within a fluid",
+    "spatial": "a supported level within or upon a fluid"
   }
 }
