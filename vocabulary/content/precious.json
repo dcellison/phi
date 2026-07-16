@@ -8,16 +8,26 @@
     "mo"
   ],
   "pos": "adjective",
-  "concept": "Precious / Of Great Value / Cherished",
-  "description": "Of great value; highly esteemed and cherished. 'Thaemo' names the quality of preciousness—worth that calls for care, value that deserves protection.",
-  "sound_symbolism": "The word holds carefully. 'Tha' /θa/ begins with gentle breath, reverence present. The vowel 'e' opens to recognition of worth. Then 'mo' grounds in deep caring, preciousness confirmed.",
-  "grammatical_notes": "Functions as an adjective: 'thaemo lopia' (precious child). Related to 'thoepa' (sacred) but emphasizes personal value rather than communal reverence.",
+  "search_terms": [
+    "cherished",
+    "dear",
+    "treasured"
+  ],
+  "description": "'thaemo' describes someone or something held especially dear by an individual or community. A worn toy can be precious because of the relationship and memory it carries even when its market price is small. 'rolia' (worth) makes a claim about dignity or value; 'thaemo' makes the cherishing relation visible.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and open into central unrounded 'a'. Move the tongue forward into a separate stressed true-mid unrounded 'e', keeping the 'a.e' hiatus clear. Close the lips for voiced nasal 'm', carry the voice through the nose, and finish with true-mid rounded back 'o'.",
+  "sound_symbolism": "The unvoiced dental stream opens across the broad 'a.e' hiatus, then the lips close gently for 'm' and release into rounded 'o'. The final hum after the open middle lends the word a held, unhurried contour.",
+  "usage_notes": "A dative phrase can identify who holds something precious: 'ha wei mia thaemo nai' means this is precious to me. 'meropi' (cherish) is the corresponding act of tender valuing. The quality noun is preciousness.",
+  "examples": [
+    {
+      "phi": "ha wei mia thaemo nai.",
+      "translation": "This is precious to me."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Recognizing preciousness awakens care—seeing the value of this moment, this being, this life.",
-    "peace-linguistics-practices": "Treating words as precious improves speech—when we value our utterances, we choose them more carefully."
+    "pre-industrial-wisdom": "A mended tool can remain precious because hands and memory stay with it even after a newer one arrives."
   },
   "semantic_domains": {
-    "emotion": "Cherished value",
-    "wisdom": "Worth protecting"
+    "community": "a person, object, or practice cherished within a relationship or group",
+    "emotion": "someone or something held dear by a stated person"
   }
 }

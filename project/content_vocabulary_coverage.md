@@ -36,7 +36,8 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Life, age, and bodily condition | **DONE** | Fourteen inherited base adjectives now use the target prose contract. The scan keeps living state, age, health, illness, bodily need, and fatigue apart without adding a root. |
 | Cultivation, abundance, and wildness | **DONE** | Seven inherited base adjectives now use the target prose contract. Plenty, fertility, actual yield, natural development, tameness, wildness, and practical cleanliness remain distinct without adding a root. |
 | Structure, identity, and fit | **DONE** | Seven inherited base adjectives now use the target prose contract. Completion, complexity, difference, sameness, necessity, part-to-whole relation, and contextual fit remain distinct without adding a root. |
-| Resume inherited content prose migration | **NEXT** | Continue after structure, identity, and fit. Each semantic group passes through this coverage gate. |
+| Imagination, unfamiliarity, wonder, and reverence | **DONE** | Six inherited base adjectives now use the target prose contract. Unfamiliarity, imagined possibility, creative expression, wonder, cherished value, and sacred regard remain distinct without adding a root. |
+| Resume inherited content prose migration | **NEXT** | Continue after imagination, unfamiliarity, wonder, and reverence. Each semantic group passes through this coverage gate. |
 
 ## Batch overview
 
@@ -58,6 +59,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Life, age, and bodily condition | [PR #373](https://github.com/dcellison/phi/pull/373) | **COVERED** | The life arc, newness, present wellness, classified illness, hunger, thirst, and weariness remain distinct. Phi already has settled or natural constructions for dead, newborn, satiated, exhausted, and sleepy. |
 | Cultivation, abundance, and wildness | [PR #374](https://github.com/dcellison/phi/pull/374) | **COVERED** | Quantity, capacity for growth, actual yield, origin, human habituation, life outside cultivation, and ordinary cleanliness keep separate words. Scarcity, artificial origin, dirt, and exact sanitation remain compositions or source-level distinctions. |
 | Structure, identity, and fit | [PR #375](https://github.com/dcellison/phi/pull/375) | **COVERED** | The seven roots keep required completion, structural complexity, comparison, indispensable conditions, integral parts, and contextual suitability apart. Similarity, partiality, complicatedness, and unsuitable fit remain natural compositions. |
+| Imagination, unfamiliarity, wonder, and reverence | PR pending | **COVERED** | The six roots keep unfamiliar encounter, imagined possibility, creative expression, exceeded expectation, cherished value, and sacred regard apart. Familiarity, originality, awe, importance, and non-sacred status remain natural compositions. |
 
 ## Semantic batches and stable domains
 
@@ -83,6 +85,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Life, age, and bodily condition | `nature`, `physical`, `temporal`, `creation`, `cognition`, `community` | Living state, developmental stage, recency, health, self-report, and reduced capacity remain separate claims. |
 | Cultivation, abundance, and wildness | `nature`, `physical`, `quantity`, `activity`, `creation`, `community` | Available plenty, capacity for growth, actual result, natural origin, ecological history, human familiarity, and cleanliness remain separate claims. |
 | Structure, identity, and fit | `activity`, `cognition`, `creation`, `nature`, `physical`, `wisdom` | Completion under a criterion, multi-part arrangement, comparative identity, indispensable conditions, integral components, and contextual suitability remain separate claims. |
+| Imagination, unfamiliarity, wonder, and reverence | `cognition`, `community`, `creation`, `emotion`, `ritual` | What a person has not met, what a mind can envision, what appears in a work, and what receives personal or shared regard remain separate claims. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -421,6 +424,26 @@ Seven base adjectives describe whether something has all it requires, how many r
 
 No root is added. Two leaves can share a shape and differ in color. A component can be integral while an external condition remains essential, and `theali` asks only whether something suits its present purpose and circumstances.
 
+## Imagination, unfamiliarity, wonder, and reverence
+
+Six base adjectives describe what someone has not met, what a mind can imagine, what invention puts into a work, and what people regard as precious or sacred. The coverage test keeps the experiencer and the source of that regard visible.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Strange, unfamiliar, unknown, different, and new | `kuewa` (strange), `sano` (know), `phirae` (different), and `newu` (new) | **COVERED** | Strangeness belongs to someone's experience, non-knowledge belongs to a knower, difference needs a comparison basis, and newness is relative to a beginning or arrival. |
+| Familiarity and recognition | `sano` (know), `miratu` (recognize), the person or community whose experience matters, and ordinary negation of `kuewa` | **COMPOSITIONAL** | Familiarity may come from knowing, repeated encounter, or recognition after absence. The clause can state the relation instead of adding one adjective that hides how the familiarity arose. |
+| Stranger, guest, and unfamiliar custom | `kuewa miona` (strange or unfamiliar person), `phemi` (guest), `keno` (custom), and the people whose perspective is at issue | **COVERED** | An unfamiliar person is not automatically a guest, and guest is a social role rather than a permanent identity. A custom may be strange to a visitor while remaining ordinary to its community. |
+| Imaginative, creative, imagine, create, and craft | `wiero` (imaginative), `phisoe` (creative), `weni` (imagine), `kealo` (create), and `theko` (craft) | **COVERED** | Imagination forms possibilities, creativity appears in an approach or result, creation brings something into being, and craft supplies practised making. One person or work may carry several of these claims. |
+| Original, inventive, and novel | `phisoe`, `newu`, `kealo`, the source or earlier form, and a statement of what changed | **COMPOSITIONAL** | Original can mean newly devised, not copied, first in a sequence, or arising from a stated source. Naming that relation avoids making novelty and merit the same judgement. |
+| Wondrous, surprising, beautiful, radiant, and curious | `waora` (wondrous), `wakomi` (surprise), `mioru` (beautiful), `horae` (radiant), and `kuelo` (curious) | **COVERED** | Wonder exceeds an expectation, surprise is an unexpected arrival, beauty is aesthetic appreciation, radiance appears to reach outward, and curiosity turns towards learning. |
+| Wonder, awe, and an open question | `waora`, `wao` (wow), `nelu` (revere), and an interrogative complement inside `phaelo` (feel) | **COMPOSITIONAL** | Awe can join wonder with reverence. When wonder means an unresolved question, Phi keeps the question itself available instead of treating it as the same feeling. |
+| Precious, worth, value, and cherish | `thaemo` (precious), `rolia` (worth), `sone` (value), and `meropi` (cherish) | **COVERED** | Precious identifies what an individual or group holds dear, worth makes a value or dignity claim, valuing is an act of attribution, and cherishing is tender conduct towards what is held dear. |
+| Sacred, revere, honor, respect, and ritual | `thoepa` (sacred), `nelu` (revere), `keluro` (honor), `nawea` (respect), and `thorea` (ceremony) | **COVERED** | Sacred describes reverent standing, revere and respect are attitudes, honor makes recognition visible, and ceremony repeats the regard in practice. The adjective does not settle a supernatural claim. |
+| Holy, profane, ordinary, and non-sacred | `thoepa`, its negation, the relevant tradition or source, and the conduct being judged | **COMPOSITIONAL** | Holy can use the sacred adjective when the source permits it. Profane may mean ordinary, outside a rite, or disrespectful, so the intended relation is clearer when stated directly. |
+| Important, significant, and high priority | `sone`, `rolia`, `noetha` (essential), Work `porethu` (priority), and the purpose or decision at issue | **COVERED** | Importance may concern value, effect, necessity, or order of attention. Phi already has those distinctions and need not collapse them into one portable rank word. |
+
+No root is added. A person may imagine a place that no one builds, while a practical repair can be creative without looking novel. A worn toy may be precious without being sacred, and a grove may be sacred to a community whose account another speaker can report without claiming as their own.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -461,4 +484,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete, and the inherited content prose migration has now reached the end of structure, identity, and fit. The next semantic neighbourhood starts from here with the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete, and the inherited content prose migration has now reached the end of imagination, unfamiliarity, wonder, and reverence. The next semantic neighbourhood starts from here with the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.

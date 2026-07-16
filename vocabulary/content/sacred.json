@@ -8,16 +8,26 @@
     "pa"
   ],
   "pos": "adjective",
-  "concept": "Sacred / Regarded with Reverence / Worthy of Honor",
-  "description": "Regarded with great respect and reverence; connected to what is most meaningful. 'Thoepa' names the quality of the sacred—not supernatural holiness but deep worthiness of care and honor.",
-  "sound_symbolism": "The word honors deeply. 'Tho' /θo/ begins with reverent breath, recognition forming. The vowel 'e' opens to what is honored. Then 'pa' completes with gentle affirmation, sacredness acknowledged.",
-  "grammatical_notes": "Functions as an adjective: 'thoepa lokue' (sacred place). Phi's sacred is secular—what we treat with ultimate care, not supernatural designation.",
+  "search_terms": [
+    "holy",
+    "revered",
+    "held sacred"
+  ],
+  "description": "Something is 'thoepa' when someone or a community regards it with reverence. A grove may be sacred through shared ceremonies; a letter may be sacred to one person. 'thaemo' (precious) describes what is cherished, while 'thoepa' includes reverent regard and the practices that express it. The word reports that relation without proving a supernatural claim.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and move into true-mid rounded back 'o'. Move the tongue forward into a separate stressed true-mid unrounded 'e', preserving the 'o.e' hiatus. Close the lips for unvoiced 'p' and release into open central 'a'.",
+  "sound_symbolism": "Dental airflow crosses rounded 'o' and the separate stressed 'e' before the lips close fully at 'p' and release into 'a'. That measured opening and closure can give the word a deliberate, ceremonial pace.",
+  "usage_notes": "Context or a nearby phrase identifies whose reverence is meant. 'nelu' (revere) directs that regard towards its object, while 'thunepa' (sacred place) is the registered place noun. Sacredness follows by the ordinary quality-noun rule.",
+  "examples": [
+    {
+      "phi": "ha koshira thoepa nai.",
+      "translation": "This grove is sacred."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The sacred emerges through attention—what we treat with reverence becomes worthy of reverence.",
-    "pre-industrial-wisdom": "Traditional cultures recognized sacred places and times—moments and locations deserving special care."
+    "pre-industrial-wisdom": "A grove, spring, or burial ground can receive care through repeated ceremony. 'thoepa' records the standing those practices create and maintain."
   },
   "semantic_domains": {
-    "ritual": "Worthy of reverence",
-    "wisdom": "Ultimate meaning"
+    "community": "reverent standing held by an individual or group and expressed through practice",
+    "ritual": "a person, place, time, or object treated with reverence in ceremony"
   }
 }
