@@ -8,17 +8,25 @@
     "lo"
   ],
   "pos": "verb",
-  "concept": "Cook / Prepare Food with Heat / Transform by Fire",
-  "description": "To prepare food by applying heat—transforming raw into cooked, combining ingredients into dishes, making nourishment from materials. 'Pharelo' names the ancient alchemy of the hearth, where fire transforms what the earth provides into sustenance the body can use.",
-  "sound_symbolism": "The word warms like cooking itself. 'Pha' /ɸa/ breathes with the fire's heat, the transforming element. The open 'a' receives what will be changed. Then 're' works with active transformation. Finally 'lo' flows into completion, the cooked dish ready.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia nuora pharelo' (I cook food). Can specify instrument with 'roe': 'mia roe thero nuora pharelo' (I cook food with fire). Distinct from thilonu (prepare); pharelo specifically involves heat transformation.",
+  "search_terms": [
+    "prepare food with heat"
+  ],
+  "description": "Food changes under heat until it is ready for a meal or another stage of preparation. 'pharelo' is the broad verb for cooking, whether the food is baked, boiled, roasted, or treated by another heated method. General 'thilonu' (prepare) does not require heat, while 'thape' (burn) names combustion or heat damage.",
+  "articulatory_notes": "Bring the lips close without sealing them for unvoiced 'ph' and pass air through the gap into open central 'a'. Tap the tongue tip against the alveolar ridge before stressed middle-height front 'e', then hold the tip at the ridge for 'l' as air passes along its sides into middle-height back rounded 'o'.",
+  "sound_symbolism": "The word moves from breath between the lips to a quick tap and a rounded ending. Its mouth shapes change steadily, rather like ingredients under heat.",
+  "usage_notes": "The food or dish is the direct object. Heat source, vessel, method, and intended result take their ordinary phrases; the Household module adds narrower cooking verbs where the method matters often enough.",
+  "examples": [
+    {
+      "phi": "mia nuora pharelo.",
+      "translation": "I cook food."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Cooking for others is care made tangible—nourishment prepared with attention becomes gift and connection.",
-    "pre-industrial-wisdom": "Cooking is humanity's oldest transformation technology—fire applied to food, enabling nutrition otherwise inaccessible. Kitchen knowledge passes through lineages."
+    "pre-industrial-wisdom": "Cooking knowledge lives in timing, heat, vessels, and attention to changing food. The broad verb leaves room for those learned differences instead of treating every heated method as the same technique."
   },
   "semantic_domains": {
-    "activity": "fundamental human activity of cooking",
-    "community": "Nourishing others through preparation",
-    "creation": "Transforming food through heat"
+    "activity": "preparing food through controlled heat",
+    "creation": "turning ingredients into a cooked food or dish",
+    "physical": "heat changing the texture, structure, or readiness of food"
   }
 }

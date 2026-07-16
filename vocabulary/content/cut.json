@@ -7,17 +7,26 @@
     "ti"
   ],
   "pos": "verb",
-  "concept": "Cut / Divide with an Edge / Sever Cleanly",
-  "description": "To cut: bread with a knife, cloth for a garment, a stem from a plant. The clean division of one thing into parts by an edge. A craft word — its company is 'kiru' (chisel), 'tiso' (sharp), 'pina' (sew), and 'whori' (mend), the tools and repairs of making.",
-  "sound_symbolism": "The velar 'k' enters cleanly, the dental 't̪' is the edge itself meeting the material, and the fine 'i' is the thin line left behind. A cut in miniature.",
-  "grammatical_notes": "Transitive: 'mia wetha kati.' (I cut the cloth.) With a tool via the instrumental: 'mia roe kiru wolea kati.' (I cut the wood with a chisel.) Craft and kitchen contexts; Phi has no vocabulary for cutting as violence.",
+  "search_terms": [
+    "sever",
+    "slice"
+  ],
+  "description": "A knife divides bread, scissors sever cloth, and a sharp edge opens skin. 'kati' is division by an edge, whatever the purpose or result. 'pisha' (split) follows a line of parting in the material and does not require an edge.",
+  "articulatory_notes": "Raise the back of the tongue to the soft palate for unvoiced 'k' and release it into stressed open central 'a'. Place the tongue tip against the backs of the upper front teeth for unvoiced dental 't', then release into high-front unrounded 'i'.",
+  "sound_symbolism": "Two clean stops fence in the word. The dental one releases into high 'i', leaving an audibly narrow finish.",
+  "usage_notes": "The material or body being cut is the direct object. A knife, chisel, or other edge takes instrumental 'roe'; manner and any resulting harm remain available as separate claims.",
+  "examples": [
+    {
+      "phi": "mia roe kiru wolea kati.",
+      "translation": "I cut the wood with a chisel."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "The cut line is the maker's drawing — where material meets intention, the curve is committed.",
-    "pre-industrial-wisdom": "Every craft begins with a clean cut: the cloth, the loaf, the plank measured twice. Cutting well is the first hand-skill."
+    "pre-industrial-wisdom": "A clean cut depends on the edge, the material, and the hand using them. The same verb belongs at the kitchen table, the workbench, and the mending basket."
   },
   "semantic_domains": {
-    "activity": "The craft act of dividing material",
-    "creation": "The first act of most making",
-    "physical": "Clean separation by an edge"
+    "activity": "using an edge to divide or open material",
+    "creation": "cutting pieces to size during cooking or craft work",
+    "physical": "separation produced by a sharp edge"
   }
 }

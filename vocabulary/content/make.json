@@ -8,18 +8,22 @@
     "wa"
   ],
   "pos": "verb",
-  "concept": "Make / Create / Craft",
-  "description": "The fundamental verb of creation and crafting, expressing the act of bringing something new into existence through intentional effort and skill. Unlike 'do' which performs actions, 'make' transforms materials, ideas, or situations into new forms. It encompasses both physical crafting and abstract creation - making objects, making peace, making meaning. In Phi, making is understood as participation in the ongoing creation of the world, where human creativity works in harmony with natural patterns. The word acknowledges that to make is to take responsibility for what we bring into being, understanding that our creations outlive the moment of their making and become part of the world's fabric.",
-  "sound_symbolism": "The word begins with 'pi', where the stop 'p' is the maker's touch—the precise point where hand meets material—and the bright, focused 'i' holds concentrated intention. This touch releases into 'le', the liquid heart of the word, where skill streams through the hands like water finding its channel: the long middle of the work. The word completes in 'wa', where the glide 'w' turns the work outward and the open 'a' releases the finished thing into the world. The vowel journey from closed 'i' through mid 'e' to open 'a' enacts the whole arc of creation—focused intention, flowing craft, open-handed release. The single stop is spent exactly where making spends it: at the first decisive contact with the material.",
-  "grammatical_notes": "Functions as a creation verb expressing the transformation of materials or situations into new forms. Distinguished from 'phoa' (do, general action) following patterns in Japanese, Arabic, and Hindi. Cross-linguistically similar to: Japanese 'tsukuru' (作る) for physical and abstract creation; Arabic 'ṣanaʿa' (صنع) for crafting and manufacturing; Hindi 'banānā' (बनाना) for making and becoming. Takes direct objects before the verb naming what is created: 'mia noru pilewa' (I make a bowl). Can express abstract creation: 'lo mia shea pilewa' (we make peace), similar to conceptual extensions found cross-linguistically. Compare 'kealo' (create), which brings the genuinely new into being; 'pilewa' transforms material already at hand.",
-  "pillars": {
-    "solarpunk-values": "Making embodies regenerative creation - crafting things that enhance rather than deplete, that can be repaired rather than replaced. 'Whea' supports the maker movement's ethos of empowerment through creation, the understanding that sustainable futures are built by many hands making alternatives to destructive systems.",
-    "art-nouveau-aesthetics": "Making embodies the Art Nouveau principle that beauty and function are inseparable - that human creativity should work with natural forms to create objects that are both useful and beautiful. 'Whea' carries the movement's dedication to craftsmanship, to the hand-made over the mass-produced, celebrating the unique character that emerges when human creativity meets natural materials.",
-    "pre-industrial-wisdom": "Traditional making carries deep knowledge of materials gained through generations of working with them. This wisdom understands that true craftsmanship creates objects meant to last, to be mended, to carry stories. 'Whea' preserves the understanding that making is a dialogue with materials, not domination of them."
-  },
+  "search_terms": [
+    "produce",
+    "bring about"
+  ],
+  "description": "Someone makes a bowl from clay, soup from ingredients, or peace through what people do together. 'pilewa' brings about a result through work with the material or conditions at hand. 'phoa' (do) names an action without requiring a produced result, while 'kealo' (create) centres something new coming into existence.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into high-front unrounded 'i'. Touch the tongue tip to the alveolar ridge for 'l' and let air pass along its sides into stressed middle-height front 'e', then round the lips and raise the back of the tongue for 'w' before opening into central 'a'.",
+  "sound_symbolism": "One stop opens into a lateral and then a glide; after the first release, the word keeps moving. Its vowels widen towards final 'a', giving the finish an open-handed ease.",
+  "usage_notes": "The result made is the direct object. Material, instrument, recipient, and purpose take their ordinary phrases. The event noun can name the making or its result when context makes the reading clear.",
+  "examples": [
+    {
+      "phi": "mia noru pilewa.",
+      "translation": "I make a bowl."
+    }
+  ],
   "semantic_domains": {
-    "activity": "fundamental human activity of making",
-    "creation": "bringing new forms into existence",
-    "physical": "transforming materials through action"
+    "activity": "work that brings about a concrete or abstract result",
+    "creation": "making an object, preparation, or shared condition"
   }
 }

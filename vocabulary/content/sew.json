@@ -7,17 +7,25 @@
     "na"
   ],
   "pos": "verb",
-  "concept": "Sew / Stitch / Join with Needle and Thread",
-  "description": "To join materials by passing thread through them with a needle—the fundamental act of creating garments, repairing tears, and connecting separate pieces into unified cloth. 'Pina' is precise, repetitive, meditative work that transforms fragments into whole.",
-  "sound_symbolism": "The word is small and pointed like the needle itself. 'Pi' pierces with bilabial precision, the needle entering. The high 'i' is the thread's fine line. Then 'na' draws through with nasal continuity, stitch following stitch.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia wetha pina' (I sew cloth). Can name the garment made or mended: 'mia wethalu pina' (I sew a garment). Related to selomi (weave) but involves piercing and thread rather than interlacing.",
+  "search_terms": [
+    "stitch"
+  ],
+  "description": "A needle carries thread through cloth to join pieces, finish an edge, or mend a tear. 'pina' is this repeated joining through the material. 'selomi' (weave) interlaces strands to make a fabric or structure, while sewing works through material already present.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into stressed high-front unrounded 'i'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', let air pass through the nose, and finish with open central 'a'.",
+  "sound_symbolism": "A compact stop and high vowel give way to nasal continuity before open 'a'. The alternation is tiny but sustained, much like one stitch followed through.",
+  "usage_notes": "The cloth, seam, garment, or other work is the direct object. A needle and thread may be named with instrumental 'roe'. In noun position, 'pina' can name sewing, a seam, or the stitching visible in the finished work.",
+  "examples": [
+    {
+      "phi": "mia roe tisu wetha pina.",
+      "translation": "I sew the cloth with a needle."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Sewing repairs rather than discards, joins rather than separates. The stitcher practices patience and restoration.",
-    "pre-industrial-wisdom": "Sewing is intimate making—clothing the body, mending what is torn, connecting with tiny repeated acts of care."
+    "pre-industrial-wisdom": "Sewing keeps garment-making and repair in the same set of hand skills. A small repeated stitch can make new cloth useful or return worn cloth to use."
   },
   "semantic_domains": {
-    "activity": "fundamental human activity of sewing",
-    "creation": "Joining through needle and thread",
-    "wisdom": "Patience in small, repeated acts"
+    "activity": "joining or finishing material with repeated stitches",
+    "creation": "making or mending cloth work with needle and thread",
+    "physical": "thread passing through material to hold it together"
   }
 }

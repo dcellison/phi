@@ -8,17 +8,26 @@
     "mi"
   ],
   "pos": "verb",
-  "concept": "Weave / Interlace / Create by Intertwining",
-  "description": "To create fabric or structure by interlacing threads, strands, or elements—passing over and under, building coherent whole from separate parts. 'Selomi' names both the physical craft and the metaphorical act of weaving together ideas, stories, or relationships into unified fabric.",
-  "sound_symbolism": "The word enacts weaving's rhythm. 'Se' begins with the sibilant of strands sliding past each other. Then 'lo' loops with liquid over-under motion. Finally 'mi' meshes with nasal joining, the interlaced whole emerging.",
-  "grammatical_notes": "'mia liru selomi' (I weave fabric). Extends metaphorically: 'mia nophi selomi' (I weave a story). The weaving, work or woven result, is the noun by the event-noun rule: 'welao selomi' (good weaving / fine woven work).",
+  "search_terms": [
+    "interlace"
+  ],
+  "description": "Threads pass over and under one another until they become fabric; reeds or other strands can make a basket or mat by the same relation. 'selomi' creates a structure through interlacing. It also carries the established image of weaving a story, while 'pina' (sew) passes thread through material that is already made.",
+  "articulatory_notes": "Raise the tongue blade near the alveolar ridge for unvoiced 's' and send air through its central groove into middle-height front 'e'. Touch the tongue tip to the ridge for 'l' and let air pass along its sides into stressed middle-height back rounded 'o', then close the lips for voiced 'm' and release into high-front unrounded 'i'.",
+  "sound_symbolism": "Air takes three routes through 'selomi': narrow friction, around the tongue, then through the nose. Spoken evenly, the changing path has the crosswise rhythm of strands at a loom.",
+  "usage_notes": "The fabric, basket, story, or other woven work is the direct object. Material and loom take instrumental 'roe'. In noun position, 'selomi' is weaving or a woven work.",
+  "examples": [
+    {
+      "phi": "mia liru selomi.",
+      "translation": "I weave fabric."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Reality is woven of interdependent threads—nothing exists alone, everything interlaced with everything else.",
-    "pre-industrial-wisdom": "Weaving is among humanity's oldest technologies—creating warmth, shelter, and beauty from simple strands through patient interlacing."
+    "pre-industrial-wisdom": "Weaving turns loose strands into cloth, shelter, and containers through repeated crossings. The structure remains visible enough for a learner to read how it was made."
   },
   "semantic_domains": {
-    "activity": "fundamental human activity of weaving",
-    "creation": "Interlacing into coherent whole",
-    "wisdom": "Understanding interconnection through making"
+    "activity": "interlacing flexible strands through repeated crossings",
+    "communication": "the established extension from interlaced thread to a story woven from events",
+    "creation": "making fabric or another structure from strands",
+    "physical": "over-and-under crossings holding separate strands together"
   }
 }
