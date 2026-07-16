@@ -8,18 +8,28 @@
     "ku"
   ],
   "pos": "adjective",
-  "concept": "Blocked / Currently Unable to Proceed",
-  "description": "Unable to proceed until a named obstacle moves: a missing material, an unmade decision, a door not yet opened. Saying a task is blocked invites the question of what stands in the way; it assigns no blame and does not promise that clearing the named obstacle will be enough.",
-  "sound_symbolism": "Dental 'no' enters a rounded chamber with a low nasal resonance. Stressed 'ra' breaks that enclosure with a rolling tongue and broad 'a'. Final 'ku' closes firmly at the velum and drops into deep 'u'. The contour opens only in the middle before its last hard contact.",
-  "grammatical_notes": "An adjective: 'lao muralo to ma shua ha riporu noraku nai.' (Because the material did not come, this task is blocked.) Name the obstacle and evidence rather than using the status as a complete explanation. Distinct from 'hasoru' (pending), 'thonuki' (technical failure), 'naweri' (refuse), and 'te' (cease).",
+  "search_terms": [
+    "blockage",
+    "unable to proceed",
+    "work stalled"
+  ],
+  "description": "A task or process is 'noraku' when an obstacle prevents its next step. A repair is blocked when the needed hinge has not arrived; it may be merely 'hasoru' (pending) when it is waiting its agreed turn. 'thonuki' (fail) says a technical function was lost, while blocked describes the work around it.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and round the lips into true-mid back 'o'. Make a tap or short trill with the tongue tip for 'r' and open into stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and release it into high rounded back 'u'.",
+  "sound_symbolism": "After the open movement of stressed 'ra', final 'ku' shuts the airflow at the soft palate before releasing into deep 'u'. The path closes late, a physical mnemonic for work that has reached an obstacle.",
+  "usage_notes": "'noraku' may stand before a noun. As a predicate, it comes before 'nai' (be). A cause clause usually identifies what prevents the next step, and noun use gives the blocked state itself.",
+  "examples": [
+    {
+      "phi": "lao muralo to ma shua ha riporu noraku nai.",
+      "translation": "Because the material did not come, this task is blocked."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Visible blockers help communities address missing materials, access, care, information, and dependencies instead of hiding them behind individual productivity judgments.",
-    "peace-linguistics-practices": "A non-blaming status word separates inability to proceed from laziness, disobedience, incompetence, or fault."
+    "solarpunk-values": "A repair board that names the missing hinge gives a community something it can find or make instead of a vague report of no progress.",
+    "peace-linguistics-practices": "The status attaches the stoppage to an obstacle rather than treating the worker as the problem."
   },
   "semantic_domains": {
-    "activity": "a work state unable to proceed under current conditions",
-    "cognition": "an obstacle-based status requiring explanation",
-    "temporal": "a potentially temporary stoppage"
+    "activity": "a work state stopped by an obstacle",
+    "temporal": "a stoppage that may end when its obstacle changes"
   },
   "modules": [
     "work-craft-and-repair"

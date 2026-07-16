@@ -72,11 +72,11 @@
 | `nilaki` | inspect | systematic examination of condition against criteria |
 | `noluha` | swallow | Eating's completion |
 | `noporu` | design | specifying an intended artifact, system, or intervention |
-| `noraku` | blocked | a work state unable to proceed under current conditions |
+| `noraku` | blocked | a work state stopped by an obstacle |
 | `norathu` | procedure | an ordered and specified collective process |
 | `norupe` | spoon | a utensil used to scoop, eat, measure, or stir |
 | `nuawe` | together | an action carried out jointly by more than one participant |
-| `nukesa` | expert | deeply practiced capacity within a stated domain |
+| `nukesa` | expert | deeply practised capacity within a stated domain |
 | `nuola` | eat | fundamental human activity of eating |
 | `nurome` | meal | an occasion of eating |
 | `palo` | touch | the act of making contact with a person or thing |
@@ -103,7 +103,7 @@
 | `pilora` | exploit | extracting benefit through a structured power relation |
 | `pina` | sew | fundamental human activity of sewing |
 | `pisha` | split | Division along the grain |
-| `pokera` | competent | ability to perform a stated activity to a criterion |
+| `pokera` | competent | present ability to perform a stated activity to its criterion |
 | `poru` | productive | work or a process that reaches useful or intended results |
 | `poruli` | efficient | a relation between resources used and useful performance |
 | `puse` | spit | The palate's veto |
@@ -169,7 +169,7 @@
 | `thonuki` | fail | loss or absence of a required technical function |
 | `thosami` | compatible | components working together for a selected purpose |
 | `thunaro` | train | guided practice toward a stated practical capacity |
-| `thunesi` | asynchronous | actions contributing to one process at different times |
+| `thunesi` | asynchronous | contributions joining one process at different times |
 | `tinako` | rigid | limited adjustability in a plan or procedure |
 | `tiwa` | tie | Fastening with cord |
 | `tukelu` | recycle | processing recovered or discarded material into another input or material |
@@ -282,7 +282,7 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `wira` | window | View portal |
 
-## cognition (238)
+## cognition (237)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -308,7 +308,7 @@
 | `kethira` | infer | deriving a conclusion from premises |
 | `ketora` | control | control depends on a selected state or range rather than an unspecified desire |
 | `kiphira` | fault | a fault claim remains distinct from its evidence and proposed cause |
-| `kiranu` | qualified | a judgment against named prerequisites |
+| `kiranu` | qualified | a comparison with prerequisites named by a source |
 | `kirema` | criterion | a standard used in classification or judgment |
 | `kirero` | quality | a multidimensional evaluation relative to criteria |
 | `kirethu` | legitimate | an evaluation of how an authority or decision is grounded |
@@ -366,12 +366,11 @@
 | `nophi` | story | cognitive structures for organizing events into meaningful sequences |
 | `noporu` | design | developing and selecting among possible relations |
 | `norae` | method | Systematic approach |
-| `noraku` | blocked | an obstacle-based status requiring explanation |
 | `norea` | soul | Deep identity |
 | `norelu` | form | Understanding pattern and organization |
 | `norethi` | confident | the experienced strength of a belief or judgment |
 | `nowae` | awaken | consciousness shift from sleep to awareness |
-| `nukesa` | expert | extensive domain understanding supported by evidence |
+| `nukesa` | expert | extensive domain understanding supported by practice and study |
 | `nulae` | sleep | alternative consciousness state essential for memory and mental processing |
 | `nulomi` | guts | The seat of wordless knowing |
 | `nuphari` | fog | Perception limited |
@@ -401,7 +400,7 @@
 | `phiwheki` | counterexample | a scoped case that disproves a general claim as stated |
 | `phoka` | lens | Focusing clarity |
 | `phue` | wise | sound judgement informed by understanding and experience |
-| `pokera` | competent | an evidence-based judgment of situated practical capacity |
+| `pokera` | competent | a judgement of practical capacity grounded in evidence |
 | `porewi` | side effect | an attributed additional effect with stated uncertainty |
 | `porua` | purpose | Goal orientation |
 | `poruli` | efficient | an assessment whose result depends on selected inputs, outputs, and boundaries |
@@ -638,7 +637,7 @@
 | `thorelu` | converse | Verbal exchange between people |
 | `thosami` | compatible | communication formats able to be exchanged or rendered together |
 | `thumela` | teach | knowledge transfer through communication |
-| `thunesi` | asynchronous | an exchange without simultaneous presence |
+| `thunesi` | asynchronous | an exchange designed for replies without simultaneous presence |
 | `toloi` | messenger | Message carrying |
 | `wero` | honest | speech or conduct free from knowing deception |
 | `whakeru` | object | placing a challenge into discussion for response |
@@ -670,7 +669,7 @@
 | `keluro` | honor | Acknowledging worth within relationships |
 | `keno` | custom | Habitual way |
 | `kima` | scribe | Recording role |
-| `kiranu` | qualified | a status created by a stated social or institutional source |
+| `kiranu` | qualified | eligibility defined by a social or institutional source |
 | `kirethu` | legitimate | contested legitimacy under stated social criteria |
 | `kithawu` | triage | distribution of care timing and resources among affected people |
 | `koema` | enter | Joining |
@@ -699,7 +698,7 @@
 | `lorea` | connect | weaves relationships into visible interdependence |
 | `lorima` | build | Creating shelter and shared spaces |
 | `lothea` | love | Foundation of relationship |
-| `lothoni` | accountable | answerability for a stated matter under a review relationship |
+| `lothoni` | accountable | answerability for a shared matter under a review relationship |
 | `lumani` | family | forms the fundamental unit of social bonds and belonging |
 | `lumera` | nourish | Providing for others' needs |
 | `lumethi` | deadline | a potentially negotiated or imposed coordination point |
@@ -1205,13 +1204,14 @@
 | `wiroa` | hopeful | felt expectation that a desired outcome remains possible |
 | `woraka` | appreciate | Feeling gratitude and recognizing worth |
 
-## ethics (16)
+## ethics (17)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `heloi` | generous | readiness to give or share without erasing the giver's own limits |
 | `kasuno` | selfish | one's own gain given priority over another person's relevant interests |
 | `kolo` | equal | equality considered separately from fairness and inherent worth |
+| `lothoni` | accountable | review that keeps answerability distinct from presumed blame |
 | `noemi` | authentic | fidelity between a person's conduct and the commitments they recognize as their own |
 | `nophei` | loyal | loyalty weighed alongside refusal and the effects of remaining |
 | `peloma` | harmful | damage, suffering, or lost capacity as grounds for evaluating conduct and conditions |
@@ -2105,7 +2105,7 @@
 | `newu` | new | recent arrival, acquisition, introduction, or beginning |
 | `noa` | position | Marks place within sequences and cycles |
 | `nomi` | present | This moment |
-| `noraku` | blocked | a potentially temporary stoppage |
+| `noraku` | blocked | a stoppage that may end when its obstacle changes |
 | `norawhi` | dusk | Day's ending |
 | `noruwa` | generation | The interval of inheritance |
 | `nosa` | now | Present time |
@@ -2189,7 +2189,7 @@
 | `thowia` | born | The first threshold of a life |
 | `thueli` | intend | Future orientation |
 | `thunaro` | train | practice developed through a sequence of attempts |
-| `thunesi` | asynchronous | participation separated across time |
+| `thunesi` | asynchronous | participation distributed across different moments |
 | `thuroa` | grow | Process unfolding over time |
 | `tiroe` | instant | Infinitely brief |
 | `torua` | year | Full cycle |
@@ -2259,7 +2259,7 @@
 | `norea` | soul | Self understanding |
 | `norethi` | confident | firmness that remains distinguishable from knowledge and certainty |
 | `nosa` | now | Current moment |
-| `nukesa` | expert | knowledge refined through sustained practice and reflection |
+| `nukesa` | expert | understanding refined through long practice and reflection |
 | `nulo` | deep | sustained inquiry or knowing that reaches beneath an initial account |
 | `numelo` | nurture | Patient, attentive care |
 | `nuri` | cycle | Understanding of return |

@@ -40,7 +40,8 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Practical readiness, care, and effort | **DONE** | Six inherited base adjectives now use the target prose contract. Pending status, direct relation, attentive or careless conduct, avoidable reluctance, and condition-bound safety remain distinct without adding a root. |
 | Access, perception, and independent participation | **DONE** | Eight inherited adjectives now use the target prose contract. Shared-core disability and seven Accessibility module qualities keep access, practical use, support, self-direction, and sensory availability distinct without adding a root. |
 | System fit, equivalence, and dependable performance | **DONE** | Six inherited module adjectives now use the target prose contract. Compatibility, bounded equivalence, efficiency, predictability, redundancy, and reliability remain distinct without adding a root. |
-| Resume inherited content prose migration | **NEXT** | Continue after system fit, equivalence, and dependable performance. Each semantic group passes through this coverage gate. |
+| Work timing, status, capability, and answerability | **DONE** | Six inherited module adjectives now use the target prose contract. Different-time participation, blocked work, competence, expertise, qualification, and accountability remain distinct without adding a root. |
+| Resume inherited content prose migration | **NEXT** | Continue after work timing, status, capability, and answerability. Each semantic group passes through this coverage gate. |
 
 ## Batch overview
 
@@ -66,6 +67,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Practical readiness, care, and effort | [PR #377](https://github.com/dcellison/phi/pull/377) | **COVERED** | The six roots keep open status, directness, care, effort, and safety apart. Readiness, availability, delay, diligence, negligence, recklessness, and felt safety remain explicit compositions rather than hidden senses. |
 | Access, perception, and independent participation | [PR #378](https://github.com/dcellison/phi/pull/378) | **COVERED** | The eight roots keep access to an activity, operation at the point of use, support, disability, self-direction, and sensory availability apart. Negative qualities, visible availability, interdependence, and exact legal or technical classifications remain ordinary compositions or source material. |
 | System fit, equivalence, and dependable performance | [PR #379](https://github.com/dcellison/phi/pull/379) | **COVERED** | The six roots keep technical cooperation, a selected match, input-to-output performance, advance knowability, independent alternatives, and repeated function apart. Robustness, maintainability, and exact conformance remain compositions or source-level tests. |
+| Work timing, status, capability, and answerability | PR pending | **COVERED** | The six roots keep participation across time, an obstacle to progress, present practical ability, deep domain practice, prerequisites met, and required answerability apart. Synchronous activity, experience, mastery, and legal status remain ordinary constructions or source-level distinctions. |
 
 ## Semantic batches and stable domains
 
@@ -95,6 +97,7 @@ The crosswalk below records where each completed batch puts the most pressure on
 | Practical readiness, care, and effort | `activity`, `cognition`, `communication`, `community`, `physical`, `spatial`, `temporal` | Open status, route, attention, willingness to exert effort, and safety under present conditions remain separate claims. |
 | Access, perception, and independent participation | `activity`, `aesthetic`, `cognition`, `communication`, `community`, `creation`, `physical`, `spatial` | Reaching an activity, operating what has been provided, receiving support, directing one's act, and distinguishing information through a sensory channel remain separate claims. |
 | System fit, equivalence, and dependable performance | `activity`, `cognition`, `communication`, `community`, `creation`, `temporal` | Working together, matching for one purpose, using resources well, anticipating an event, surviving one failure, and performing repeatedly remain separate claims. |
+| Work timing, status, capability, and answerability | `activity`, `cognition`, `communication`, `community`, `ethics`, `temporal`, `wisdom` | Timing, work state, demonstrated performance, learned depth, institutional standing, and answerability remain separate routes. |
 
 The vocabulary entry remains the final unit of classification. A batch label never appears in `semantic_domains`, and a later usage can justify a domain that is absent from this table.
 
@@ -511,6 +514,23 @@ Six module adjectives describe how designed parts and practices meet, compare, a
 
 No root is added. A compatible replacement need not be equivalent to the original, and an efficient machine may still be unreliable. Redundancy fails when its alternatives quietly meet again at the same point of failure.
 
+## Work timing, status, capability, and answerability
+
+Six module adjectives meet around a workshop table but do different work. A task can be blocked without failing, and the person waiting beside it can be qualified without being competent for the repair in front of them. An expert may have no certificate at all.
+
+| Conceptual test | Current Phi coverage | Status | Finding |
+|---|---|---|---|
+| Asynchronous, synchronous, simultaneous, delayed, and postponed | Accessibility, Commons, and Work `thunesi` (asynchronous), `nuawe` (together), ordinary time clauses, and `wiresu` (postpone) | **COMPOSITIONAL** | Asynchrony distributes contributions across different times. Synchronous or simultaneous action can place the participants together in the same interval, while delay describes changed timing and postponement changes the plan. |
+| Blocked, pending, paused, postponed, failed, and complete | Work `noraku` (blocked), base `hasoru` (pending), `hasenu` (recess), `wiresu` (postpone), Systems `thonuki` (fail), and `sholu` (complete) | **COVERED** | An obstruction stops blocked work. A pending matter may simply await its turn, a recess sits inside an activity expected to resume, postponement moves the activity, failure concerns function, and completion meets its criterion. |
+| Skill, present ability, competence, and technical capacity | Work `thesani` (skill), `pokera` (competent), possibility `po`, and Systems `henora` (capacity) | **COVERED** | A skill persists once learned, while competence measures performance against today's criterion. Ordinary possibility says whether someone can perform the act. Technical capacity belongs to a system's limit rather than an assessment of the person. |
+| Expertise, experience, mastery, specialist standing, and novice status | Work `nukesa` (expert), `thole` (practice), `sano` (know), `thesani` (skill), `moloi` (apprentice), and `thunai` (student) | **COMPOSITIONAL** | Expertise joins deep skill with domain understanding. Experience may mean past events, accumulated practice, or conscious life, while mastery can mean expertise, control, completion, or a title. Apprentice and student name roles where they actually apply. |
+| Qualified, certified, authorized, licensed, and credentialed | Work `kiranu` (qualified), `sikanu` (certify), Commons and Work `kanuwa` (authorize), and the exact source credential | **COVERED** | Qualification meets prerequisites, certification issues a sourced claim that criteria were met, and authorization grants permission or power. A licence or credential keeps its exact issuer, identifier, scope, and validity outside the Phi paraphrase. |
+| Accountable, voluntarily responsible, obligated, causal, blameworthy, and liable | Commons and Work `lothoni` (accountable), base `thonai` (responsible), Commons `naseru` (obligation), causal clauses, ethical judgement, and exact legal source terms | **COMPOSITIONAL** | Accountability requires an answer under review, voluntary responsibility takes a matter up, and an obligation can be imposed. Cause is an event relation; blame judges conduct, while liability depends on a governing source. |
+| Competent, reliable, safe, consenting, and authorized | Work `pokera`, Systems `koluri` (reliable), base `shurano` (safe) and `lesawi` (consent), and Commons `kanuwa` | **COVERED** | A worker may meet the task criterion while the tool remains unreliable or the conditions unsafe. Competence never supplies consent or the institution's grant of authority. |
+| Exact occupation, professional title, credential, licence, and legal liability | The relevant Phi relations beside the unchanged source name, record, or rule | **DEFERRED** | These categories acquire their practical force from a particular institution or legal order. A close Phi account can explain the surrounding relations but cannot replace their identity. |
+
+No root is added. The certificate on the wall, the hands at the bench, and the committee awaiting an answer each make a different claim. Phi already has a word for each relation that needs one and enough ordinary grammar to keep the rest honest.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -551,4 +571,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The retrospective review queue is complete, and the inherited content prose migration has now reached the end of system fit, equivalence, and dependable performance. The next semantic neighbourhood starts from here with the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.
+The retrospective review queue is complete, and the inherited content prose migration has now reached the end of work timing, status, capability, and answerability. The next semantic neighbourhood starts from here with the same coverage gate. `pothu`, applied ornament, deliberate or callous infliction of suffering, and sustained interest or engagement remain recorded review questions rather than hidden gaps.

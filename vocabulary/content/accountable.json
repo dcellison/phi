@@ -8,16 +8,27 @@
     "ni"
   ],
   "pos": "adjective",
-  "concept": "Accountable / Required to Answer and Undergo Review",
-  "description": "Required to answer for something and to stand review, which is not the same as having caused the harm in question. A person can be accountable under a procedure without being its cause, or 'thonai' responsible by choice without holding any office at all.",
-  "sound_symbolism": "Liquid 'lo' begins in a low rounded flow that reaches beyond itself. Stressed 'tho' turns that flow into breath along the teeth and gives the center a deliberate weight. Dental 'ni' closes the word at the same place with a steadier nasal contact and bright 'i'. The answer travels outward, meets review, and returns to one person or body waiting to hear it.",
-  "grammatical_notes": "An adjective placed before a noun or used predicatively: 'lothoni sithora' (an accountable role); 'ha woru lothoni nai.' (This keeper is accountable.) State accountable to whom, for what, under which source, through which review, and with which possible response. The quality-noun rule supplies accountability. Distinct from 'thonai' (willingly responsible), causation, 'naseru' (obligation), blame, and punishment.",
+  "search_terms": [
+    "accountability",
+    "answerable",
+    "subject to review"
+  ],
+  "description": "A person or institution is 'lothoni' when a stated relation requires them to answer for a matter and undergo review. The keeper of a shared store may be accountable for its records without having caused a missing item. With 'thonai' (responsible), someone willingly takes the matter up; 'naseru' (obligation) is a requirement that may be imposed or disputed.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and round the lips into true-mid back 'o'. Rest the tongue tip lightly against the upper teeth for unvoiced 'th', pass air along it, and keep the lips rounded for stressed true-mid back 'o'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with high-front unrounded 'i'.",
+  "usage_notes": "'lothoni' can modify a role. Predicatively, it follows the bearer and precedes 'nai' (be). The surrounding account identifies the review relation and the matter to be answered for. Accountability is its noun reading. When exact legal liability matters, its source term keeps that force.",
+  "examples": [
+    {
+      "phi": "ha woru lothoni nai.",
+      "translation": "This keeper is accountable."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Accountability lets shared institutions carry maintenance, ecological consequences, access, and resource decisions beyond personal goodwill or informal memory.",
-    "peace-linguistics-practices": "Requiring an account without presuming guilt keeps explanation, evidence, affected testimony, response, and repair separate from accusation or automatic punishment."
+    "solarpunk-values": "A shared store needs records that outlast goodwill and memory; 'lothoni' identifies who must answer when the account is challenged.",
+    "peace-linguistics-practices": "Requiring an account without presuming guilt leaves review open to evidence and repair rather than automatic punishment."
   },
   "semantic_domains": {
-    "community": "answerability for a stated matter under a review relationship"
+    "community": "answerability for a shared matter under a review relationship",
+    "ethics": "review that keeps answerability distinct from presumed blame"
   },
   "modules": [
     "commons-and-collective-governance",

@@ -8,18 +8,28 @@
     "si"
   ],
   "pos": "adjective",
-  "concept": "Asynchronous / Participating at Different Times",
-  "description": "Occurring through contributions or actions made at different times rather than through simultaneous presence. An asynchronous exchange can still have order and response expectations. It may also have deadlines or unequal delays. The word describes timing, not lesser participation.",
-  "sound_symbolism": "Dental 'thu' breathes into deep 'u'. Stressed 'ne' replaces that air with a steady nasal contact, while final 'si' changes it again to a bright hiss. Low breath climbs through balance to a fine high edge.",
-  "grammatical_notes": "A predicative or attributive adjective: 'ha shorema thunesi nai.' (This contribution is asynchronous.) It can modify a meeting, discussion, lesson, review, or other process. The quality-noun rule supplies asynchrony.",
+  "search_terms": [
+    "asynchrony",
+    "async",
+    "different-time participation"
+  ],
+  "description": "A shared process is 'thunesi' when its contributions happen at different times, so participants need not be present together. A written discussion may be asynchronous even when replies follow an order and arrive before a deadline. 'wiresu' (postpone) moves a planned event later; asynchrony is the timing pattern of the process itself.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and finish the first syllable with high rounded back 'u'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and move into stressed true-mid front unrounded 'e'. Raise the tongue blade towards the alveolar ridge for unvoiced 's', direct air through the narrow channel, and finish with high-front unrounded 'i'.",
+  "usage_notes": "The adjective applies to a contribution as well as the shared process that receives it. In noun use, the form is asynchrony. A deadline and an expected reply order remain separate features of the arrangement.",
+  "examples": [
+    {
+      "phi": "ha shorema thunesi nai.",
+      "translation": "This contribution is asynchronous."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Community work need not gather every body around one clock when durable records can carry thought between different daily rhythms.",
-    "peace-linguistics-practices": "A person can contribute after reading, resting, or composing carefully without having their words treated as absent from the exchange."
+    "solarpunk-values": "A garden log can pass observations from one shift to the next without gathering everyone around one clock.",
+    "peace-linguistics-practices": "Time to read and compose can be part of participation rather than evidence that someone missed the exchange."
   },
   "semantic_domains": {
-    "activity": "actions contributing to one process at different times",
-    "communication": "an exchange without simultaneous presence",
-    "temporal": "participation separated across time"
+    "activity": "contributions joining one process at different times",
+    "communication": "an exchange designed for replies without simultaneous presence",
+    "temporal": "participation distributed across different moments"
   },
   "modules": [
     "accessibility-and-participation",
