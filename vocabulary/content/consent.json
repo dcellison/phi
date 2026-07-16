@@ -8,16 +8,23 @@
     "wi"
   ],
   "pos": "verb",
-  "concept": "Consent / Freely and Specifically Agree to an Affecting Action",
-  "description": "To freely and specifically agree to a proposed action, participation, contact, disclosure, or use that affects oneself or a relation one may decide. Consent has a stated scope and may be conditional, withheld, or withdrawn. Naming consent does not prove adequate explanation, understanding, practical freedom, capacity under an applicable standard, absence of coercion, legal validity, continued agreement, or permission for any action outside the stated scope.",
-  "sound_symbolism": "Liquid 'le' lets the tongue release into balanced 'e'. Stressed 'sa' sends a fine hiss through the broadest vowel, then final 'wi' rounds the lips and glides back toward bright 'i'. The word opens at its center and ends lightly, with the breath still moving.",
-  "grammatical_notes": "A transitive or complement-taking verb: 'mia ha phoa lesawi.' (I consent to this action.) State the action, participants, scope, conditions, relevant explanation, and withdrawal when they matter. The event-noun rule supplies consent as an act or relation. Distinct from 'nawo' (agree), 'kelomi' (accept), 'naweri' (refuse), 'kanuwa' (authorize), and 'kawhera' (coerce). This is shared-core vocabulary because consent is not optional medical knowledge.",
+  "description": "Before touching someone's arm, a caregiver asks, and the person's freely given answer permits that particular touch. 'lesawi' gives consent to a stated act that affects oneself or a relationship for which one may speak. Contact, participation, disclosure, and use can each require their own answer. Its scope can carry conditions, and consent may be withheld or withdrawn; silence, dependence, agreement with an explanation, and another person's authorisation do not supply it.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l' and let air pass along its sides into middle-height front unrounded 'e'. Hold the tongue blade near the alveolar ridge for unvoiced 's' and release the air into stressed open central unrounded 'a'. Round the lips and raise the back of the tongue for voiced 'w', then move forward and unround into high-front 'i'.",
+  "sound_symbolism": "The stressed open 'a' gives the middle of the word room, while the final movement from rounded 'w' to high-front 'i' draws that opening into a light, definite close. The contour can recall a breath that opens fully and then gathers into a clean release.",
+  "usage_notes": "The proposed act is the direct object, and a complete act may take the 'mena ... meno' frame. State the participants, scope, conditions, and withdrawal when they matter. The event-noun rule supplies consent. 'nawo' (agree) concerns a shared position, 'kelomi' (accept) takes up what is offered, 'kanuwa' (authorize) grants institutional permission or power, and 'kawhera' (coerce) constrains practical choice. The word does not replace an exact legal or clinical standard.",
+  "examples": [
+    {
+      "phi": "mia ha palo lesawi.",
+      "translation": "I consent to this touch."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "A dedicated consent verb makes a bounded yes discussable without treating agreement, silence, dependence, authority, or lack of resistance as permission."
+    "peace-linguistics-practices": "A dedicated consent verb keeps a bounded yes separate from silence, dependence, agreement, and lack of resistance. Refusal remains a complete answer."
   },
   "semantic_domains": {
-    "cognition": "a specific decision whose understanding and conditions remain examinable",
-    "communication": "a freely given, withheld, or withdrawn answer to a proposal",
-    "community": "a permission relation among affected participants"
+    "activity": "permitting a stated action that affects oneself or a relationship for which one may speak",
+    "communication": "giving, withholding, or withdrawing a bounded answer",
+    "community": "a permission relation among affected participants",
+    "ethics": "consent as a condition of respectful conduct and relationship"
   }
 }

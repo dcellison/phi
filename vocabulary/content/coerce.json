@@ -8,16 +8,27 @@
     "ra"
   ],
   "pos": "verb",
-  "concept": "Coerce / Constrain Practical Choice Through Power or Threat",
-  "description": "To constrain someone's practical choice through power or threat. Naming coercion well means naming the demand, the alternatives that genuinely existed, and the account of the person on the receiving end; an urgent need or an ordinary rule is not automatically coercive, though neither does it rule coercion out.",
-  "sound_symbolism": "Velar 'ka' strikes a firm beginning and opens abruptly. Stressed 'whe' follows as rounded unvoiced breath, air forced through a narrower shape at the lips. 'Ra' rolls out into broad 'a', but only after the middle has constrained the path. The word feels like motion pressed through a space another contact has already set.",
-  "grammatical_notes": "A transitive verb with the coercing agent as subject and the constrained person or group as object: 'ha miona thia kawhera.' (This person coerces you.) State the demanded action, pressure, alternatives, authority claim, and affected testimony separately. The event-noun rule supplies coercion. Distinct from 'na' (necessity), 'naseru' (obligation), persuasion, urgency, 'nashaku' (enforce), and freely given consent.",
+  "search_terms": [
+    "compel",
+    "pressure"
+  ],
+  "description": "A supervisor threatens someone's place in the workshop unless they take a dangerous shift. 'kawhera' uses power or threat to narrow the practical choices another person can actually make. A rule, need, or urgent danger can exist without coercion, while courteous wording cannot make a threatened penalty disappear.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into open central unrounded 'a'. Round the lips and raise the back of the tongue for unvoiced 'wh', then move forward and unround into stressed middle-height 'e'. Make a tap or short trill with the tongue tip for 'r' and finish with open central 'a'.",
+  "sound_symbolism": "The first syllable opens abruptly after the velar release. The stressed middle pushes unvoiced breath through rounded lips before the tongue can turn into the final 'ra'. The word can feel as though its own airflow has been made to pass through a space already narrowed for it.",
+  "usage_notes": "The coercing agent is the subject and the constrained person or group is the direct object. State the demand, power or threat, alternatives that actually existed, and the affected person's account in the surrounding sentences. The event-noun rule supplies coercion. 'sharemi' (persuade) works through communicative appeal, 'nashaku' (enforce) acts in relation to a rule or decision, and 'lesawi' (consent) requires a freely available answer.",
+  "examples": [
+    {
+      "phi": "ha miona thia kawhera.",
+      "translation": "This person coerces you."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Coercion is located in conditioned power, constrained alternatives, and experienced pressure rather than treated as an evil essence in one person.",
-    "peace-linguistics-practices": "Directly naming coercion prevents authority, urgency, care, consensus, or necessity language from sanitizing the removal of practical choice."
+    "secular-buddhist-philosophy": "The word locates coercion in conditioned power, threatened consequences, and narrowed alternatives. It need not turn the person who coerces into a fixed essence.",
+    "peace-linguistics-practices": "Directly naming coercion keeps authority, urgency, care, and polite language from disguising the removal of practical choice."
   },
   "semantic_domains": {
-    "activity": "constraining practical choice through a stated power or threat",
-    "community": "coercion within an institutional or social relation"
+    "activity": "using power or threat to constrain another person's practical choice",
+    "community": "coercion within a social or institutional relation",
+    "ethics": "the removal of practical choice through power or threat"
   }
 }

@@ -8,16 +8,26 @@
     "mi"
   ],
   "pos": "verb",
-  "concept": "Persuade / Move Another Toward Belief or Voluntary Action Through Communication",
-  "description": "To move someone toward a belief, judgment, or voluntary action through reasons or another communicative appeal. The word describes influence rather than truth: a person can be persuaded by an honest explanation or a deceptive promise. 'Kawhera' (coerce) narrows practical choice through power or threat; 'sharemi' addresses the listener as someone who may still refuse.",
-  "sound_symbolism": "Unvoiced 'sh' begins as breath spread along the tongue, gentle enough to approach without striking. Open 'a' gives the first syllable room; stressed 're' sets the tongue briefly in motion and lets the middle ring forward. The lips close on 'm' only near the end, then open to bright 'i'. The word moves from open breath through a liquid turn to a soft human closure, a voice trying to reach another without taking hold of them.",
-  "grammatical_notes": "A transitive verb with the person being influenced as object: 'mia thia sharemi.' (I persuade you.) The event-noun rule supplies persuasion. 'Nawo' (agree) is an outcome participants reach together; 'sharemi' is one person's influence before the listener's answer is known.",
+  "search_terms": [
+    "appeal to",
+    "seek to convince"
+  ],
+  "description": "A neighbour explains why the footbridge is unsafe and urges a traveller to take the longer path. 'sharemi' addresses someone with reasons or another communicative appeal to move them towards a belief, judgement, or voluntary action. The word reports the influence being attempted, not the truth of the appeal or the listener's eventual answer.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar area and send unvoiced air through its central groove for 'sh', then lower the jaw into open central unrounded 'a'. Make a tap or short trill with the tongue tip for 'r' and release into stressed middle-height front unrounded 'e'. Close the lips for voiced 'm', let air pass through the nose, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The opening closely echoes 'shareo' (discuss), so the two communicative acts are easy to associate by ear. In 'sharemi', the open breath and brief tap settle through the lips into 'mi', a softer close than the pressed middle of 'kawhera' (coerce).",
+  "usage_notes": "The person being addressed is the direct object, and the proposed belief or action can follow in the 'mena ... meno' frame or be supplied by context. The event-noun rule supplies persuasion. Aspect and surrounding clauses show whether the appeal continues, ends, or succeeds. 'kawhera' (coerce) uses power or threat to close practical alternatives; 'sharemi' leaves refusal available to the listener.",
+  "examples": [
+    {
+      "phi": "mia thia sharemi.",
+      "translation": "I try to persuade you."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Persuasion leaves its intention and effect open to examination, along with the conditions around them. Gentle delivery does not make a claim true, and conviction still arises from causes a listener may need time to notice.",
-    "peace-linguistics-practices": "The contrast with 'kawhera' (coerce) separates communicative influence from power that closes practical alternatives. Refusal is still part of the listener's answer."
+    "secular-buddhist-philosophy": "A persuasive appeal has conditions, intentions, and effects that can be examined. A gentle delivery does not make its claim true or its influence harmless.",
+    "peace-linguistics-practices": "The contrast with 'kawhera' (coerce) keeps communicative appeal separate from power that closes practical alternatives. The listener's refusal remains an answer."
   },
   "semantic_domains": {
-    "cognition": "movement toward a belief or judgment through communication",
-    "communication": "influence through reasons or communicative appeal"
+    "cognition": "trying to influence another person's belief or judgement",
+    "communication": "using reasons or another communicative appeal to influence a listener"
   }
 }

@@ -8,17 +8,24 @@
     "o"
   ],
   "pos": "verb",
-  "concept": "Acknowledge / To Make a Presence Whole",
-  "description": "The act of seeing and validating the presence or truth of another being or situation. It is a gift of recognition that confirms reality and makes the other feel seen.",
-  "sound_symbolism": "The word begins with the thoughtful fricative 'th', a sound that requires deliberate breath and tongue placement—mirroring the mindful attention that true acknowledgment demands. The sharp clarity of 'k' cuts through inattention, creating a moment of crisp recognition, before opening into the rounded fullness of 'a.o'. This phonetic journey from careful attention through decisive recognition to expansive embrace embodies the Peace Linguistics practice of making another's presence truly felt and valued.",
-  "grammatical_notes": "As a transitive verb, takes a direct object representing the person, truth, or situation being acknowledged: 'mia thia thekao.' (I acknowledge you.) Can take clausal complements with the 'mena … meno' frame: 'lo mia mena shia to naphe meno thekao.' (We acknowledge that she helped.) In ceremonial contexts, often appears with the focus particle 'ko' to emphasize the significance of recognition.",
+  "search_terms": [
+    "confirm receipt"
+  ],
+  "description": "A neighbour reports that the well water has changed, and the listener acknowledges the report before deciding what it proves. 'thekao' says plainly that a person or act has been noticed, or that a message or account has been received into the exchange. It does not by itself accept an offer, agree with a claim, or certify that the acknowledged account is true.",
+  "articulatory_notes": "Extend the tongue tip slightly between the teeth and pass unvoiced air around it for 'th', then withdraw the tongue into middle-height front unrounded 'e'. Close the back of the tongue against the soft palate for 'k' and release into stressed open central unrounded 'a'. Keep the final vowel in its own syllable as the tongue draws back and the lips round for middle-height 'o'.",
+  "usage_notes": "The acknowledged person, message, act, or matter is the direct object. A complete proposition takes the 'mena ... meno' frame. The event-noun rule supplies acknowledgement. When a speaker acknowledges a report, they say that it has been received and brought into the conversation; 'nawo' (agree) and 'shewo' (true) require separate claims.",
+  "examples": [
+    {
+      "phi": "mia thia naweri thekao.",
+      "translation": "I acknowledge your refusal."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The concept embodies mindful awareness and the practice of being fully present with another being. It reflects the Buddhist understanding that true acknowledgment requires setting aside ego to genuinely witness another's reality without judgment.",
-    "peace-linguistics-practices": "Acknowledgment is fundamental to nonviolent communication - the practice of truly seeing and validating another's presence or truth creates the foundation for peaceful dialogue. This act of recognition prevents the violence of invisibility and dismissal."
+    "peace-linguistics-practices": "Acknowledgement lets a listener show that another person's words have entered the exchange without feigning agreement. That distinction gives disagreement and repair somewhere honest to begin."
   },
   "semantic_domains": {
-    "cognition": "requires mindful attention to truly see another",
-    "communication": "validates and recognizes others through communication",
-    "community": "confirms someone's presence within social fabric"
+    "cognition": "recognising a person, message, act, or account as present",
+    "communication": "making receipt or recognition explicit in an exchange",
+    "community": "acknowledging another participant or their stated position"
   }
 }

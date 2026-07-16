@@ -8,16 +8,26 @@
     "mi"
   ],
   "pos": "verb",
-  "concept": "Accept / Receive Willingly / Acknowledge Reality",
-  "description": "To receive what is offered or acknowledge what is present, saying yes to reality rather than fighting it. 'Kelomi' names the stance of openness—welcoming gifts, acknowledging truths, and making peace with circumstances as they are.",
-  "sound_symbolism": "The word opens to receive. 'Ke' begins with velar contact, attention focusing on what is present. Then 'lo' flows with liquid openness, arms extending to receive. Finally 'mi' settles inward with nasal acceptance, what is offered now held.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia thena kelomi.' (I accept something.) Can express accepting persons: 'mia thia kelomi.' (I accept you as you are.) Related to 'whelani' (welcome) but emphasizes internal acceptance rather than external hospitality.",
+  "search_terms": [
+    "take up",
+    "admit"
+  ],
+  "description": "A traveller accepts a neighbour's offer of shelter and steps inside. 'kelomi' willingly takes up what is offered or makes room for what is presented. A person may accept a gift or method, take up a condition, or welcome another participant. None of those choices agrees with every claim or grants blanket consent to later acts.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into middle-height front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and round the lips for stressed middle-height back 'o'. Close the lips for voiced 'm', keep the airflow nasal, and finish with high-front unrounded 'i'.",
+  "usage_notes": "Whatever is accepted is the direct object, and a complete proposition may use the 'mena ... meno' frame. The event-noun rule supplies acceptance. 'howela' (receive) reports arrival into someone's possession whether welcome or not, 'nawo' (agree) reports a shared position, and 'lesawi' (consent) gives bounded permission for an action affecting oneself or a relationship for which one may speak.",
+  "examples": [
+    {
+      "phi": "mia ha loami kelomi.",
+      "translation": "I accept this gift."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Acceptance is the foundation of equanimity—meeting what arises without aversion, working with reality rather than against it.",
-    "peace-linguistics-practices": "Accepting others as they are creates space for authentic relationship—we meet the person present, not the person we wish they were."
+    "secular-buddhist-philosophy": "Practice may begin by accepting a present condition clearly enough to work with it. Acceptance here neither praises the condition nor asks a person to leave preventable harm unchanged.",
+    "peace-linguistics-practices": "Accepting another person's presence or participation can make room for relationship without pretending that every belief, request, or action has also been accepted."
   },
   "semantic_domains": {
-    "cognition": "Acknowledging reality",
-    "emotion": "Opening to what is present"
+    "activity": "taking up an offered object, role, condition, or course",
+    "cognition": "adopting something presented for consideration",
+    "community": "admitting another person's presence or participation"
   }
 }

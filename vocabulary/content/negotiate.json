@@ -8,16 +8,25 @@
     "ke"
   ],
   "pos": "verb",
-  "concept": "Negotiate / Discuss Terms / Seek Agreement Through Dialogue",
-  "description": "To engage in dialogue aimed at reaching agreement, discussing terms and finding mutually acceptable solutions. 'Numike' names the patient art of working through differences—not forcing but finding, not demanding but discovering where interests can align.",
-  "sound_symbolism": "The word moves with careful deliberation. 'Nu' begins with nasal grounding, establishing presence at the table. Then 'mi' centers with inward attention, considering one's position and the other's. Finally 'ke' opens to velar clarity, terms becoming clear.",
-  "grammatical_notes": "Functions as a verb. With a counterpart, marked comitative: 'mia nua thia numike.' (I negotiate with you.) With an object: 'lo mia wisola numike.' (We negotiate an exchange.) Often used for agreements, boundaries, and shared decisions. Related: shareo (discuss), thelu (dialogue), warosha (reconcile).",
+  "search_terms": [
+    "bargain",
+    "discuss terms"
+  ],
+  "description": "Two households need the same cart, so they negotiate which days each will use it. 'numike' discusses changeable terms with other participants in search of an arrangement they may accept. Negotiation can expose a disagreement, end without a settlement, or produce terms that one participant still refuses.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper front teeth for voiced dental 'n' and let the resonance pass through the nose into high-back rounded 'u'. Close the lips for voiced 'm', keep the airflow nasal, and release into stressed high-front unrounded 'i'. Close the back of the tongue against the soft palate for unvoiced 'k' and finish with middle-height front unrounded 'e'.",
+  "usage_notes": "A negotiating counterpart takes comitative 'nua'. The terms, exchange, boundary, or other matter under negotiation is the direct object. The event-noun rule supplies negotiation. 'shareo' (discuss) keeps a topic before participants without requiring changeable terms, while 'nawo' (agree) may name an outcome rather than the process that sought it. Module word 'manawi' (compromise) names an arrangement in which participants each yield something they value.",
+  "examples": [
+    {
+      "phi": "lo mia ha wisola numike.",
+      "translation": "We negotiate this exchange."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The middle way applies to agreements—neither grasping nor abandoning but finding the path between extremes.",
-    "peace-linguistics-practices": "Negotiation is conflict transformation through dialogue—finding solutions that honor all parties rather than forcing one to yield."
+    "peace-linguistics-practices": "Negotiation keeps terms open to speech and revision while every participant retains the ability to refuse. A settlement reached through pressure still needs the pressure named."
   },
   "semantic_domains": {
-    "communication": "Structured discussion toward agreement",
-    "community": "Resolving differences through communication"
+    "activity": "working through changeable terms towards a possible arrangement",
+    "communication": "discussing terms with one or more counterparts",
+    "community": "seeking an arrangement among participants with differing positions"
   }
 }
