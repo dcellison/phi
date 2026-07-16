@@ -7,16 +7,23 @@
     "ru"
   ],
   "pos": "verb",
-  "concept": "Process / Unfolding Sequence / Method in Action",
-  "description": "To carry something through a series of actions or steps toward an end; to unfold a method through time. 'Teru' names what happens between beginning and completion, the journey of transformation.",
-  "sound_symbolism": "The word moves through stages. 'Te' touches with each step taken, stages progressing. 'Ru' runs with continuous flow, process unfolding.",
-  "grammatical_notes": "'mia teru.' (I process.) The noun, 'teru' (the process), is the event-noun rule at work. Related to 'norae' (method) as practice to pattern.",
-  "pillars": {
-    "solarpunk-values": "Democratic process—collective decision-making that honors all voices.",
-    "secular-buddhist-philosophy": "Process over outcome—valuing the journey of transformation, not grasping at results."
-  },
+  "search_terms": [
+    "subject to operations",
+    "handle systematically"
+  ],
+  "description": "Carry material, information, or work through a connected set of operations. The verb says that something is being worked through; it does not identify the method, stage, purpose, or result unless the clause supplies them.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into stressed middle-height front 'e'. Make a tap or short trill at the alveolar ridge for 'r', then finish with rounded high-back 'u'.",
+  "sound_symbolism": "A firm dental release is followed by one brief rhotic motion. The compact two-step contour makes the word easy to recall beside an ordered operation without pretending that the syllables encode its stages.",
+  "usage_notes": "The material or information processed is the direct object. The event-noun rule supplies 'process'. 'norae' (method) names a pattern of action, while 'nuwoe' (stage) selects one part within a larger process.",
+  "examples": [
+    {
+      "phi": "kumoe nuora teru.",
+      "translation": "The stomach processes food."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Action method",
-    "temporal": "Unfolding sequence"
+    "activity": "work carried through connected operations",
+    "cognition": "ordered handling of information",
+    "physical": "material passing through a set of operations"
   }
 }

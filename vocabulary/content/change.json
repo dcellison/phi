@@ -8,16 +8,30 @@
     "i"
   ],
   "pos": "verb",
-  "concept": "Change / Become Different / Transform",
-  "description": "To become different from what was before—the universal constant that nothing remains the same. 'Helui' names both the process and the fact of change, applicable to weather shifting, minds opening, seasons turning, and all the ten thousand transformations of existence. It is the verb of impermanence made visible.",
-  "sound_symbolism": "The word begins with 'h', the lightest consonant—mere breath, as change often begins imperceptibly. The 'e' perceives the first difference. Then 'lu' flows with liquid transition, the old becoming the new. Finally 'i' rises bright and alert, the changed state emerging into awareness.",
-  "grammatical_notes": "Intransitive: 'thena helui' (the thing changes). Source and result can be marked with the prepositions 'lue' (from) and 'muo' (into). The noun follows by the event-noun rule: 'meluna helui' (the season's change).",
+  "search_terms": [
+    "alter",
+    "become different"
+  ],
+  "description": "Become different in a relevant respect, or make something different. The verb does not say how extensive, welcome, or lasting the difference is. The surrounding clause can supply the feature, earlier state, or result when the distinction matters.",
+  "articulatory_notes": "Let unvoiced breath pass through the open glottis for 'h' into middle-height front 'e'. Put the tongue tip at the alveolar ridge for stressed 'l' and round into high-back 'u', then keep the final high-front 'i' in its own syllable without a glide.",
+  "sound_symbolism": "Breath gathers around the lateral, then opens a second vowel after stressed 'lu'. The shifting mouth shape recalls difference without suggesting a fixed direction.",
+  "usage_notes": "The changing thing may be the subject, or an agent may take the changed thing as an object. 'lue' (from) and 'muo' (into) can state endpoints. 'moluki' (transform) suits extensive reorganisation; 'kelu' (become) centres the resulting predicate.",
+  "examples": [
+    {
+      "phi": "ha muralo mirela helui.",
+      "translation": "This material's state changes."
+    },
+    {
+      "phi": "mia nohero to helui.",
+      "translation": "I changed my belief."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Impermanence (anicca) is the first mark of existence—all conditioned things change. 'Helui' names this fundamental truth without resistance or grasping.",
-    "pre-industrial-wisdom": "Seasonal wisdom accepts change as natural rhythm—what rises falls, what falls rises, the wheel turns endlessly."
+    "secular-buddhist-philosophy": "Impermanence can be stated at the scale actually observed: a belief, season, or material changes without the sentence claiming that everything has changed."
   },
   "semantic_domains": {
-    "temporal": "Process of becoming different",
-    "wisdom": "Recognition of impermanence"
+    "cognition": "revision of a belief, interpretation, or mental state",
+    "physical": "an observable difference in material or condition",
+    "temporal": "difference between an earlier and a later state"
   }
 }

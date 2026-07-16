@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (233)
+## activity (245)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -20,6 +20,7 @@
 | `helolu` | redress | acting to address a stated institutional or social harm |
 | `hewe` | wipe | The clearing stroke |
 | `hinawu` | accommodate | changing a practice so a stated action becomes possible |
+| `hinolu` | adapt | deliberate or responsive adjustment to conditions |
 | `howela` | receive | coming into possession of an object or becoming the endpoint of a transfer |
 | `kaeshu` | bold | readiness to step forward or risk an uncertain action |
 | `kalei` | climb | effortful ascent along a supporting route |
@@ -35,6 +36,7 @@
 | `kelasu` | usable | a person able to carry out an intended purpose with a thing or process |
 | `kelitho` | function | performance of a characteristic or required system operation |
 | `kelomi` | accept | taking up an offered object, role, condition, or course |
+| `kelu` | become | entry into a stated role, form, or condition |
 | `kesu` | determined | resolve that sustains effort towards a chosen purpose |
 | `kethua` | hard | a task or condition that demands substantial effort |
 | `ketora` | control | adjustment or constraint of a technical process |
@@ -75,6 +77,7 @@
 | `milau` | drink | taking liquid into the body as a drink |
 | `misharo` | consult | seeking a view before a pending action |
 | `molawi` | cooperate | adjusting separate actions so they work compatibly |
+| `moluki` | transform | extensive change caused or undergone |
 | `morume` | decompose | biological or chemical breakdown of material |
 | `muholi` | dig | removing or shifting workable material to make an opening |
 | `mukesi` | spoil | loss of suitability for an intended practical use |
@@ -87,6 +90,7 @@
 | `nashaku` | enforce | applying authority or procedure in relation to compliance |
 | `natu` | pull | exerting force through a drawing action or held connection |
 | `naweri` | refuse | declining participation, an offer, or a proposed course |
+| `nelore` | preserve | protection against loss, decay, or unwanted alteration |
 | `nephoru` | treat | care intended to alter a health condition or course |
 | `nilaki` | inspect | systematic examination of condition against criteria |
 | `noluha` | swallow | carrying material from the mouth through the throat |
@@ -129,6 +133,7 @@
 | `phowe` | share | making something available for use with others |
 | `phurewa` | sweep | moving loose material with repeated brush strokes |
 | `phurilo` | broom | an instrument used in sweeping |
+| `phuro` | renew | beginning another period of use or practice |
 | `pilewa` | make | work that brings about a concrete or abstract result |
 | `pilora` | exploit | extracting benefit through a structured power relation |
 | `pilu` | take | actively bringing something into immediate control or use |
@@ -171,6 +176,7 @@
 | `sethoni` | handoff | transferring a bounded stage of work |
 | `shalimo` | alliance | oriented toward sustained collective action, not one decision |
 | `shaweri` | advocate | acting in support of a stated position or change |
+| `shiwolu` | integrate | coordinating parts within a wider arrangement |
 | `sholu` | complete | a task or process with every required step finished |
 | `shorema` | contribute | adding effort or another usable part to shared work |
 | `shua` | come | movement towards the reference point of a scene |
@@ -186,15 +192,19 @@
 | `sonari` | isolate | separating a possible infectious source from transmission pathways |
 | `soranu` | screen | a systematic health check with a stated follow-up path |
 | `takori` | load | required work or throughput relative to a technical function |
+| `talome` | restore | work directed towards a stated earlier or reference condition |
 | `tapu` | close | The keeper's daily verb |
 | `tawi` | count | Enumerating a set for a stated or recoverable purpose |
+| `teru` | process | work carried through connected operations |
 | `terura` | system | an organized whole whose components participate in processes |
 | `teshori` | quarantine | restricting contact after possible exposure |
 | `thalo` | walk | ordinary travel and practice on foot |
 | `thape` | burn | setting or allowing material to burn |
+| `theala` | heal | care or remedy supporting recovery |
 | `theali` | fitting | an action or method suited to its present purpose and conditions |
 | `thekamu` | intervene | a deliberate action within bodily care |
 | `theko` | craft | making carried out through learned practical skill |
+| `thenoki` | sustain | support that lets an activity or system continue |
 | `therapi` | boil | heating liquid to sustained bubbling |
 | `therilu` | rest | pausing or reducing activity for recovery |
 | `therua` | eager | readiness to begin or join a wanted action |
@@ -203,6 +213,7 @@
 | `thimelo` | pace | rate and rhythm of a continuing action |
 | `thimora` | schedule | an intended arrangement of actions or events |
 | `thinu` | put | placing a person or thing in a resulting position |
+| `thiranu` | maintain | recurring upkeep and adjustment |
 | `thiru` | exit | crossing outward from a bounded place or activity |
 | `thirulo` | output | something produced or released by a process |
 | `thiwera` | scatter | The sower's outward arc |
@@ -239,6 +250,7 @@
 | `wheraku` | erode | detachment and movement of earth or rock |
 | `whesu` | blow | a person or device sending a stream of air |
 | `whetuma` | appeal | requesting formal reconsideration of a prior matter |
+| `whori` | mend | hands-on closure of a tear, split, or modest break |
 | `whunei` | breathe | breathing as a continuing bodily act |
 | `wile` | play | fundamental human activity of playing |
 | `winora` | plan | organizing intended actions and the conditions around them |
@@ -332,7 +344,7 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `wira` | window | View portal |
 
-## cognition (233)
+## cognition (236)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -340,8 +352,10 @@
 | `haoni` | voice | expression of thoughts and inner states |
 | `hea` | hear | sound arriving in perception |
 | `hekawi` | find | The moment of discovery |
+| `helui` | change | revision of a belief, interpretation, or mental state |
 | `henora` | capacity | a specified limit whose interpretation depends on object, conditions, and time |
 | `herani` | trend | a pattern inferred from an ordered series of observations |
+| `hinolu` | adapt | revision of a method or practice after new information |
 | `hiru` | intuit | a judgement or expectation arising without consciously followed reasoning |
 | `hisaro` | clinical finding | a method-bounded observation available for interpretation |
 | `hisophi` | contaminant | an agent classified relative to a stated expected condition |
@@ -352,7 +366,6 @@
 | `kanuro` | decision | a choice assigned settled or actionable status |
 | `kelai` | equals | Announces mathematical results through explicit statement |
 | `kelomi` | accept | adopting something presented for consideration |
-| `kelu` | become | developing understanding and awareness |
 | `kethira` | infer | deriving a conclusion from premises |
 | `ketora` | control | control depends on a selected state or range rather than an unspecified desire |
 | `kiphira` | fault | a fault claim remains distinct from its evidence and proposed cause |
@@ -401,11 +414,12 @@
 | `muko` | careless | insufficient attention to foreseeable consequences in a stated act |
 | `murethi` | impairment | a stated difference in cognitive function |
 | `muro` | stubborn | resistance to reconsidering a position or judgement |
-| `nai` | be | establishing identity and predication |
+| `nai` | be | identity, classification, and attributed states |
 | `nasholu` | rule | a stated normative prescription with conditions and scope |
 | `natheri` | entail | a necessary truth-preserving relation between propositions |
 | `nathoku` | contraindicated | a sourced clinical judgement about a proposed intervention |
 | `nawo` | agree | holding the same proposition or judgement as another participant |
+| `nelore` | preserve | keeping records or knowledge available |
 | `nila` | see | visual information entering awareness |
 | `nilaki` | inspect | a structured relation among observations, scope, and assessment |
 | `noetha` | essential | an indispensable condition identified for a purpose, identity, or result |
@@ -487,7 +501,7 @@
 | `sherewa` | claim | a proposition deliberately put forward for assessment |
 | `shewo` | true | accord between a claim or account and reality |
 | `shiloa` | pure | one intention, factor, or line of thought considered without another mixed through it |
-| `shiwolu` | integrate | Synthesizing into coherent whole |
+| `shiwolu` | integrate | bringing information or ideas into a coherent account |
 | `sholei` | gather | Names arithmetic addition through a gathering metaphor |
 | `sholu` | complete | an account, set, or explanation containing what its stated scope requires |
 | `shonela` | learn | fundamental process of acquiring and integrating knowledge |
@@ -515,6 +529,7 @@
 | `tawi` | count | Exact or approximate counting within Phi's documented limits |
 | `tawimo` | foolish | an act or choice made without enough attention to what it requires |
 | `telua` | accurate | agreement between a representation and the fact or reference it represents |
+| `teru` | process | ordered handling of information |
 | `terura` | system | a bounded unit selected for analysis and explanation |
 | `theali` | fitting | a contextual judgement of suitability rather than factual accuracy |
 | `thekao` | acknowledge | recognising a person, message, act, or account as present |
@@ -692,7 +707,7 @@
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
-## community (277)
+## community (279)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -767,6 +782,7 @@
 | `moeli` | hearth | Gathering place |
 | `moenu` | culture | Shared ways |
 | `molawi` | cooperate | cooperation among participants towards an understood outcome |
+| `molei` | evolve | gradual development of a culture or shared practice |
 | `moloi` | apprentice | Learning role |
 | `moreke` | mammal | Close animal kin |
 | `motu` | humble | a stance that does not place one's importance above other people's |
@@ -836,6 +852,7 @@
 | `phitura` | well (water) | The shared water-place |
 | `phomila` | offspring | fundamental to family bonds and social continuity |
 | `phowe` | share | shared use of things, resources, or activities |
+| `phuro` | renew | continuation of a commitment or shared arrangement |
 | `pilora` | exploit | a social relation involving asymmetrical benefit and burden |
 | `piru` | trader | Exchange role |
 | `pukea` | danger | What warnings protect |
@@ -871,7 +888,7 @@
 | `sheori` | communicate | information exchanged among people through different forms of access |
 | `sherelo` | right (normative) | a normative claim held among people, groups, or institutions |
 | `shereni` | entitlement | a recognized and scoped claim under a stated source |
-| `shiwolu` | integrate | Creating functional unity |
+| `shiwolu` | integrate | participation of distinct people or groups within a shared structure |
 | `sholei` | gather | Offers gathering as a metaphor for combined quantities |
 | `shorai` | commune | Shared living |
 | `shorema` | contribute | adding something to a collective undertaking or pool |
@@ -905,7 +922,6 @@
 | `thalume` | ancestor | forms the deep current of kinship and lineage |
 | `thaluni` | kin | fundamental to social structure and networks of belonging |
 | `thasu` | modest | unshowy self-presentation in relation to other people |
-| `theala` | heal | happens in relationship requiring collective support |
 | `theama` | care | provides mutual support for collective wellbeing |
 | `thekamu` | intervene | an action affecting a person within a care relation |
 | `thekao` | acknowledge | acknowledging another participant or their stated position |
@@ -914,6 +930,7 @@
 | `thelumo` | ritual | collective practices that create shared meaning |
 | `theluo` | steward | caring for collective resources and future generations |
 | `thema` | guardian | embodies protective responsibility within social networks |
+| `thenoki` | sustain | resources and work that keep a group functioning |
 | `theomi` | trust | essential for building social bonds |
 | `therema` | tradition | social bonds and collective customs |
 | `thereo` | mediator | essential role in maintaining social harmony |
@@ -974,7 +991,7 @@
 | `wonepa` | table | Where the meal gathers |
 | `woru` | keeper | Guardian role |
 
-## creation (164)
+## creation (166)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1030,6 +1047,7 @@
 | `moesu` | wax | Sealing material |
 | `moloi` | apprentice | Craft training |
 | `molu` | container | Receptacle |
+| `moluki` | transform | reorganisation of form or function |
 | `molupa` | box | a rigid container assembled from flat sides |
 | `monae` | integral | a component a made system needs in order to remain complete or function as defined |
 | `monaki` | component | a functionally identified part of a designed or analyzed whole |
@@ -1094,19 +1112,19 @@
 | `shela` | art | Aesthetic making |
 | `shiro` | tree | provider of materials, shelter, and breath |
 | `shiroka` | repair | technical restoration of a damaged object's function |
+| `shiwolu` | integrate | parts made to function within a constructed whole |
 | `shorema` | contribute | contributing material or work to a made result |
 | `sima` | thread | Spun fiber |
 | `sitheku` | transcribe | making a stable textual rendering of language |
 | `soeli` | cup | Drinking vessel |
 | `sorila` | cultivate | Developing through intentional effort |
 | `suro` | rope | Strong cord |
-| `talome` | restore | Returning to original wholeness |
+| `talome` | restore | recovery of a feature or arrangement in a made thing |
 | `tapulo` | jar | a rigid storage vessel with a broad mouth |
 | `tapuri` | lid | a fitted removable cover |
 | `teli` | bell | Ringing instrument |
 | `temu` | guild | Skill organization |
 | `tenoa` | tool | Implement |
-| `teru` | process | Action method |
 | `terura` | system | a structure whose relations can be designed, maintained, and revised |
 | `tewema` | partner | partners co-create their shared reality |
 | `thekasi` | caption | timed readable text made for a sounding event |
@@ -1115,6 +1133,7 @@
 | `thekopa` | recipe | instructions relating ingredients to a prepared result |
 | `thelai` | balm | Soothing salve |
 | `thesani` | skill | capacity used in making, repair, and transformation |
+| `thiranu` | maintain | care that keeps a made thing fit for its purpose |
 | `thole` | practice | Skill building |
 | `thonuki` | fail | an event relevant to design, maintenance, and repair |
 | `thosami` | compatible | designed fit across an interface |
@@ -1137,7 +1156,7 @@
 | `wetha` | cloth | Textile |
 | `wethalu` | garment | Cloth shaped by craft into wearable form |
 | `wethamo` | blanket | a large made cloth covering |
-| `whori` | mend | Restoring broken things to wholeness |
+| `whori` | mend | material work that returns an object to use |
 | `wiero` | imaginative | a story, design, or plan shaped by imagined possibilities |
 | `wile` | play | Exploring without stakes |
 | `wiru` | basket | Woven craft |
@@ -1211,7 +1230,7 @@
 | `thaemo` | precious | someone or something held dear by a stated person |
 | `thaemu` | sincere | genuine feeling made present in words or gesture |
 | `thaluni` | kin | embodies deep bonds of love and connection |
-| `theala` | heal | encompasses emotional restoration and returning to balance |
+| `theala` | heal | recovery from a stated emotional hurt |
 | `theama` | care | nurtures through open-hearted presence and attention |
 | `thema` | guardian | involves care, vigilance, and compassionate bonds |
 | `themoka` | treasure | Recognizing and holding value |
@@ -1261,7 +1280,7 @@
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 | `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
-## nature (228)
+## nature (227)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1269,7 +1288,7 @@
 | `hemilo` | honey | The bees' concentrated summer |
 | `heru` | herb | Useful plant |
 | `hesura` | ash | The fire's gray remainder |
-| `hinolu` | adapt | Following life's adaptive patterns |
+| `hinolu` | adapt | organisms or living systems changing in relation to their surroundings |
 | `hisophi` | contaminant | a material or organism investigated within an environmental medium |
 | `horathe` | dawn | Light emergence |
 | `horuma` | thunder | The storm's voice |
@@ -1278,7 +1297,6 @@
 | `kaero` | phase | Process stage |
 | `kalora` | horse | Strength at a stride |
 | `keloi` | summer | Peak growth |
-| `kelu` | become | participating in natural cycles of change |
 | `kelua` | morning | Awakening time |
 | `keluo` | metal | Earth ore |
 | `kenoa` | hemp | Strong plant |
@@ -1340,7 +1358,7 @@
 | `misuki` | mouse | The smallest housemate |
 | `moesu` | wax | Organic substance |
 | `mola` | island | Water-surrounded land |
-| `molei` | evolve | Developmental transformation |
+| `molei` | evolve | change in populations or lineages across generations |
 | `molira` | hill | Gentle land elevation |
 | `mophi` | wool | the fiber forming a sheep's fleece |
 | `mophira` | sheep | a grazing animal commonly living in flocks |
@@ -1361,7 +1379,7 @@
 | `muroa` | fertile | the capacity of soil, organisms, or conditions to support growth or reproduction |
 | `napuro` | grain | The seed-crop of the year |
 | `nekuma` | meat | The animal become food |
-| `nelore` | preserve | Conserving what sustains life |
+| `nelore` | preserve | protection of a living place, species, or ecological continuity |
 | `neparu` | cloud | Atmospheric water vapor |
 | `neri` | cool | moderately low temperature in air, water, shade, or weather |
 | `nireku` | insect | Small essential creatures |
@@ -1401,7 +1419,6 @@
 | `pholui` | bamboo | Giant grass |
 | `phora` | sail | Natural power |
 | `phuliro` | stream | Small waterway |
-| `phuro` | renew | Following natural patterns of renewal |
 | `piloe` | spot | The dapple and the speckle |
 | `pilomu` | sycamore | The dappled street-and-river tree |
 | `pisha` | split | seeds, branches, and other living forms opening or dividing |
@@ -1441,7 +1458,8 @@
 | `sulae` | warm | moderate warmth in air, water, sunlight, or weather |
 | `suliwa` | snake | The flowing legless animal |
 | `sunai` | health | Body wholeness |
-| `sunoe` | regenerate | Restoring vitality |
+| `sunoe` | regenerate | regrowth or replenishment in a living system |
+| `talome` | restore | ecological work towards a selected reference condition |
 | `telo` | farmer | Land cultivation |
 | `teluno` | amphibian | Transforming dual-world creatures |
 | `temoe` | tend | Regular care of growing things |
@@ -1449,9 +1467,9 @@
 | `thaeso` | midday | Solar zenith |
 | `thaluro` | ocean | Global saltwater body |
 | `thape` | burn | combustion in a hearth, field, or wildfire |
-| `theala` | heal | follows natural processes and organic cycles of recovery |
 | `thelomi` | lake | Freshwater body |
 | `theluo` | steward | often involves tending land and ecosystems |
+| `thenoki` | sustain | conditions that continue a living system |
 | `thepalu` | garden | spaces where human culture and natural processes interweave |
 | `theriko` | frost | Frozen surface moisture |
 | `thero` | fire | elemental force of transformation |
@@ -1494,7 +1512,7 @@
 | `wolea` | wood | Tree material |
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 
-## physical (362)
+## physical (366)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1503,6 +1521,7 @@
 | `helanu` | recover | movement toward a prior or desired health state |
 | `helia` | youth | bodily growth and vitality |
 | `helu` | smooth | an even surface or passage with little catching against touch or motion |
+| `helui` | change | an observable difference in material or condition |
 | `hemilo` | honey | Sweetness that keeps |
 | `heno` | satisfy | Need met |
 | `henora` | capacity | a conditioned amount or rate a material system can hold or handle |
@@ -1777,15 +1796,17 @@
 | `sulopa` | soup | Warm water and patience |
 | `suloru` | fever | an elevated bodily temperature state |
 | `sunai` | health | Bodily condition |
+| `sunoe` | regenerate | lost tissue or productive capacity rebuilt after depletion |
 | `takori` | load | a demand placed on material support, transmission, or processing |
 | `talua` | shoulder | Upper torso joint bearing arms and loads |
 | `tapu` | close | Bringing to a shut, sealed state |
 | `tapulo` | jar | a holder reached through an opening wider than a bottle neck |
 | `tapuri` | lid | a separate object meeting the rim of a container |
+| `teru` | process | material passing through a set of operations |
 | `tesu` | iron | Enduring strength |
 | `thalo` | walk | alternating bodily support on the feet |
 | `thape` | burn | consumption or damage through fire and intense heat |
-| `theala` | heal | involves bodily restoration and tangible recovery processes |
+| `theala` | heal | living tissue or a body recovering from illness or injury |
 | `theama` | care | maintains health and protects bodily welfare |
 | `theisa` | loud | high perceived intensity in a sound or its source |
 | `thekamu` | intervene | an action on a body, health state, or bodily environment |
@@ -1799,7 +1820,7 @@
 | `thewuni` | legible | reading made possible under visual or tactile conditions |
 | `thiku` | small | small overall size or amount relative to the immediate comparison |
 | `thinu` | put | moving and releasing a body or object into place |
-| `thiranu` | maintain | Keeping things in good condition |
+| `thiranu` | maintain | preservation of an object's condition or function through work |
 | `thirulo` | output | matter or energy crossing out of a selected system |
 | `thola` | bring | moving with a person or material object being brought |
 | `tholau` | bone | Hard internal framework of the body |
@@ -1850,6 +1871,7 @@
 | `whilaru` | comb | Teeth that untangle |
 | `whinu` | smell | olfactory perception through the nose |
 | `whoa` | whole | an object or body whose relevant parts are present and joined |
+| `whori` | mend | joining damaged material at the failed place |
 | `whunei` | breathe | respiration through exchange with the surrounding medium |
 | `wilemo` | toy | The crafted companion |
 | `wipha` | restless | recurrent movement or an urge to move |
@@ -1924,7 +1946,7 @@
 | `thunepa` | sacred place | Place of reverence |
 | `whunei` | breathe | breath used as an observable object in meditation practice |
 
-## spatial (154)
+## spatial (155)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1984,6 +2006,7 @@
 | `mulu` | low | position near the lower end of a vertical scale |
 | `muneki` | latrine | a bounded sanitation area in or near a dwelling |
 | `muwi` | interior | Inner space |
+| `nai` | be | location stated through a place predicate |
 | `natu` | pull | movement towards a puller or along an attached course |
 | `niro` | web | Networked structure |
 | `nitho` | north | Cardinal direction of the turning axis |
@@ -2083,7 +2106,7 @@
 | `womuri` | household | daily life organized around a dwelling |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (165)
+## temporal (164)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2093,7 +2116,7 @@
 | `hasoru` | pending | an open matter whose status may change after a later event |
 | `helanu` | recover | an uneven health course unfolding over time |
 | `helia` | youth | life stage of growth and transformation |
-| `helui` | change | Process of becoming different |
+| `helui` | change | difference between an earlier and a later state |
 | `herani` | trend | direction or recurrence assessed across time or ordered states |
 | `horathe` | dawn | Day's beginning |
 | `howai` | evening | Day's end |
@@ -2105,7 +2128,7 @@
 | `katheo` | acute | onset, development, and expected duration within a clinical course |
 | `kelai` | equals | Can mark an operation's stated outcome; pure equality is not temporal |
 | `keloi` | summer | Abundance season |
-| `kelu` | become | transforming through time and process |
+| `kelu` | become | a transition with a named resulting state |
 | `kelua` | morning | Early day |
 | `keno` | custom | Traditional practice |
 | `kerithe` | ice | Winter's solid form |
@@ -2141,8 +2164,8 @@
 | `mikasu` | dose | an amount tied to an administration or interval |
 | `mirela` | state | conditions attributed to a particular time |
 | `moenu` | culture | Living inheritance |
-| `molei` | evolve | Gradual change |
-| `moluki` | transform | Fundamental change over time |
+| `molei` | evolve | many changes accumulating over an extended span |
+| `moluki` | transform | a substantial difference established across time |
 | `morashi` | relapse | a reversal within an ongoing health course |
 | `mosha` | period | Time span |
 | `mothami` | baseline | often a documented earlier period or state against which change is assessed |
@@ -2150,7 +2173,7 @@
 | `mukesi` | spoil | condition worsening during storage or delay |
 | `mureo` | stable | a system or condition that persists through ordinary variation |
 | `murethi` | impairment | a function that may be temporary, lasting, or variable |
-| `nelore` | preserve | Maintaining across time |
+| `nelore` | preserve | continuity kept available across time |
 | `neparu` | cloud | Symbol of impermanence |
 | `newai` | fresh | recent making, gathering, arrival, or exposure |
 | `newu` | new | recent arrival, acquisition, introduction, or beginning |
@@ -2179,7 +2202,7 @@
 | `phoemu` | midnight | Night's center |
 | `pholeni` | depart | the bounded beginning of an absence or journey |
 | `phomila` | offspring | represents future generations and continuity through time |
-| `phuro` | renew | Cycling from depleted to fresh |
+| `phuro` | renew | a fresh period for something already established |
 | `reshi` | fast | an action or change that proceeds quickly |
 | `ritako` | workload | work considered over a stated interval |
 | `rohemi` | wear down | a change distinguished by its accumulation over time |
@@ -2207,19 +2230,18 @@
 | `sonari` | isolate | separation for a stated period |
 | `suilo` | dew | Ephemeral morning phenomenon |
 | `suloru` | fever | a temperature state observed over a stated time |
-| `sunoe` | regenerate | Renewal cycle |
-| `talome` | restore | Bridging past and present through recovery |
+| `sunoe` | regenerate | recovery that accumulates over a stated span |
+| `talome` | restore | a present condition compared with an earlier one |
 | `teku` | short | a brief duration or interval |
 | `telui` | rhythm | Recurring pattern |
 | `teluno` | amphibian | Beings of metamorphosis |
-| `teru` | process | Unfolding sequence |
 | `teshori` | quarantine | a restriction during a stated uncertainty period |
 | `thaeso` | midday | Day's peak |
 | `thalume` | ancestor | connects present to deep time through generations |
 | `thekasi` | caption | text synchronized with a live or recorded event |
 | `thekopa` | recipe | an ordered sequence of preparation steps |
 | `thelumo` | ritual | marks passages of time and transitions |
-| `thenoki` | sustain | Maintaining through time |
+| `thenoki` | sustain | continuity made possible through ongoing support |
 | `therema` | tradition | bridging time and connecting past to present |
 | `therilu` | rest | an interval between periods of greater activity |
 | `thilonu` | prepare | Creating conditions for future action |
@@ -2227,7 +2249,7 @@
 | `thimora` | schedule | planned relations among times and stages |
 | `thimu` | time | the dimension and experience of duration |
 | `thinoe` | seed | the present form of future growth |
-| `thiranu` | maintain | Ongoing attention across time |
+| `thiranu` | maintain | attention repeated between failures |
 | `thole` | practice | Repeated action |
 | `tholua` | ancient | existence or origin in a past far beyond ordinary age |
 | `thophe` | sow | Beginning cycles of cultivation |
@@ -2253,13 +2275,11 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (116)
+## wisdom (109)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `heloa` | remedy | Problem solving |
-| `helui` | change | Recognition of impermanence |
-| `hinolu` | adapt | Responsive flexibility |
 | `hiru` | intuit | immediate judgement that may draw on accumulated experience before explanation |
 | `kathu` | seal | Confirmation |
 | `keiro` | way | Manner of approach |
@@ -2286,11 +2306,9 @@
 | `malomi` | balance | navigates opposing forces through skillful equilibrium |
 | `manawi` | compromise | a practical but morally nonautomatic response to conflict |
 | `menua` | counselor | Advisory presence |
-| `moluki` | transform | Understanding deep change as possible |
 | `mosha` | period | Bounded duration |
 | `motha` | foundation | Essential support |
 | `motu` | humble | self-appraisal kept open to correction and further learning |
-| `nai` | be | recognizing and accepting what is |
 | `nawea` | respect | understanding inherent worth and dignity |
 | `noa` | position | Understanding position as relational rather than hierarchical |
 | `noetha` | essential | practical judgement about what a course cannot lose and still meet its purpose |
@@ -2341,7 +2359,6 @@
 | `tawimo` | foolish | sound judgement absent where the circumstances call for it |
 | `temoe` | tend | Attentive, ongoing presence |
 | `tenoa` | tool | Appropriate technology |
-| `theala` | heal | requires understanding root causes and skillful means |
 | `theali` | fitting | selection of a response appropriate to the situation and relationship |
 | `thekiro` | write | Preserving knowledge across time |
 | `theko` | craft | knowledge held and demonstrated through repeated practice |
@@ -2353,7 +2370,6 @@
 | `thema` | guardian | requires accumulated understanding and careful judgment |
 | `themio` | reflect | reconsideration of experience before judgement settles |
 | `themore` | argument | a form through which beliefs can be tested and revised |
-| `thenoki` | sustain | Understanding what keeps things alive |
 | `therema` | tradition | preserving collective knowledge through generations |
 | `thereo` | mediator | requires seeing all perspectives and finding middle way |
 | `thesani` | skill | practical understanding refined through experience |
@@ -2371,5 +2387,4 @@
 | `weloni` | body | The first foundation of mindfulness |
 | `whamoi` | doubt | recognition that judgment may remain open while inquiry continues |
 | `wheo` | elder | holds experiential knowledge from long living |
-| `whori` | mend | Ethic of care and repair |
 | `wireo` | future | Possibility's domain |

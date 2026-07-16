@@ -7,16 +7,27 @@
     "ri"
   ],
   "pos": "verb",
-  "concept": "Mend / Repair / Restore to Wholeness",
-  "description": "To repair what is broken or torn, restoring it to functional wholeness. 'Whori' implies care for what exists rather than replacement with new—the ethic of repair that honors the history embedded in objects and the resources required to make them.",
-  "sound_symbolism": "The word begins with 'who' /ʍo/, the gentle breath of careful attention—approaching what is damaged with tenderness. The round 'o' holds what needs care. Then 'ri' works with rolling action, the repair underway, wholeness returning.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia wethalu whori.' (I mend the garment.) Related to 'theala' (heal), which applies to living beings; 'whori' applies to objects. Compare 'shiroka' (repair), which emphasizes technical restoration of function.",
+  "search_terms": [
+    "patch",
+    "sew up"
+  ],
+  "description": "Close or join a tear, split, or modest break in an object or material so it can be used again. 'whori' is the ordinary mending verb for garments, nets, baskets, and similar things; 'shiroka' (repair) centres technical recovery of function.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for unvoiced 'wh', letting breath pass into stressed middle-height back 'o'. Make a tap or short trill at the alveolar ridge for 'r' and finish with high-front 'i'.",
+  "sound_symbolism": "A hushed rounded opening gives way to one small voiced tap. The compact movement suits a modest repair made close to the hands.",
+  "usage_notes": "The damaged object or material is the direct object. Tool and method take their ordinary phrases. Relationships use their own verbs, such as 'warosha' (reconcile), unless a speaker deliberately introduces a mending image.",
+  "examples": [
+    {
+      "phi": "mia wethalu whori.",
+      "translation": "I mend the garment."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Mending extends object life, reduces waste, honors embedded resources. Repair culture counters throwaway culture.",
-    "pre-industrial-wisdom": "Traditional cultures mended everything—clothes, tools, relationships. Skill in repair was essential knowledge."
+    "solarpunk-values": "Mending extends the use of an object and the materials already committed to it. The small repair can be enough; replacement is not the automatic answer.",
+    "pre-industrial-wisdom": "Cloth, nets, and baskets invite different hands and tools, but all teach the same habit of noticing a small failure while it can still be mended."
   },
   "semantic_domains": {
-    "creation": "Restoring broken things to wholeness",
-    "wisdom": "Ethic of care and repair"
+    "activity": "hands-on closure of a tear, split, or modest break",
+    "creation": "material work that returns an object to use",
+    "physical": "joining damaged material at the failed place"
   }
 }

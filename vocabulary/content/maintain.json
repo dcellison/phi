@@ -8,16 +8,28 @@
     "nu"
   ],
   "pos": "verb",
-  "concept": "Maintain / Keep in Condition / Sustain Functioning",
-  "description": "To keep something in good working condition through ongoing attention and care. 'Thiranu' names the practice of upkeep—the regular attention that keeps tools, relationships, systems, and bodies functioning well over time.",
-  "sound_symbolism": "The word sustains through attention. 'Thi' begins with careful dental awareness, the precise attention that maintenance demands. 'Ra' continues with steady rhythm. 'Nu' grounds with lasting presence. To maintain as ongoing, mindful care.",
-  "grammatical_notes": "Functions as a transitive verb: 'mia lo thena thiranu.' (I maintain things.) Can specify what: 'mia lo lumani nolami thiranu.' (I maintain family bonds.) 'mia thepalu thiranu.' (I maintain the garden.) Related to nelore (preserve) but emphasizes active upkeep rather than protection from change.",
+  "search_terms": [
+    "perform upkeep",
+    "keep in working condition"
+  ],
+  "description": "Perform recurring care or adjustment that keeps something near its required condition or function. Maintenance happens before and between failures. 'shiroka' (repair) answers damage or lost function after it occurs.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth for unvoiced 'th' and let air pass into high-front 'i'. Make a tap or short trill at the alveolar ridge before stressed open central 'a'. Return the tongue tip to the backs of the upper teeth for voiced dental 'n' and finish through the nose into rounded high-back 'u'.",
+  "sound_symbolism": "Breath, a brief tap, and a final nasal contact give the tongue three measured tasks. The recurring touches recall work done again and again.",
+  "usage_notes": "The thing under upkeep is the object. A condition, interval, or standard can accompany it. 'thenoki' (sustain) supplies continuing support, while 'nelore' (preserve) protects something from loss or unwanted alteration.",
+  "examples": [
+    {
+      "phi": "mia ha keli thiranu.",
+      "translation": "I maintain this device."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Maintenance culture values repair and upkeep over replacement—caring for what we have rather than discarding and replacing.",
-    "pre-industrial-wisdom": "Traditional crafts require ongoing maintenance—tools, buildings, and textiles last generations through regular care."
+    "solarpunk-values": "Maintenance keeps materials and prior labour in use. It also makes the continuing work visible instead of treating durable systems as self-sustaining.",
+    "pre-industrial-wisdom": "Tools, roofs, paths, and cloth last through familiar rounds of attention. 'thiranu' names that ordinary upkeep before repair becomes urgent."
   },
   "semantic_domains": {
-    "physical": "Keeping things in good condition",
-    "temporal": "Ongoing attention across time"
+    "activity": "recurring upkeep and adjustment",
+    "creation": "care that keeps a made thing fit for its purpose",
+    "physical": "preservation of an object's condition or function through work",
+    "temporal": "attention repeated between failures"
   }
 }

@@ -8,16 +8,23 @@
     "i"
   ],
   "pos": "verb",
-  "concept": "Evolve / Develop Gradually / Transform Over Time",
-  "description": "To develop gradually over time; transformation through accumulated change. 'Molei' names the slow becoming—not sudden shift but patient emergence of new form.",
-  "sound_symbolism": "The word shifts gradually. 'Mo' moves with slow change, evolution beginning. 'Le' lifts with developmental rise, form emerging. Then 'i' rises to new state achieved.",
-  "grammatical_notes": "Functions as verb: 'mia molei' (I evolve). Related to 'thuroa' (grow) and 'kelu' (become) but emphasizes gradual transformation across long spans of time.",
-  "pillars": {
-    "solarpunk-values": "Social evolution—communities developing toward greater harmony and sustainability.",
-    "secular-buddhist-philosophy": "Evolution as impermanence—constant change as the nature of all phenomena."
-  },
+  "search_terms": [
+    "develop gradually",
+    "undergo evolution"
+  ],
+  "description": "Develop through accumulated changes over an extended span. In biology, populations or lineages evolve across generations; an individual organism grows or adapts. Practices, cultures, and systems can also 'molei' when many changes gather over time.",
+  "articulatory_notes": "Close the lips for voiced 'm' and let air pass through the nose into rounded middle-height back 'o'. Put the tongue tip at the alveolar ridge for stressed 'l' and release into middle-height front 'e'. Keep the following high-front 'i' separate, without turning the final two vowels into a diphthong.",
+  "sound_symbolism": "Voicing continues from the rounded nasal into the lateral, and the last two vowels unfold in separate syllables. The unhurried finish suits gradual development.",
+  "usage_notes": "The verb is intransitive. 'thuroa' (grow) concerns increase or development in an organism or quantity, 'hinolu' (adapt) responds to conditions, and 'moluki' (transform) marks a more extensive change without requiring a long accumulation.",
+  "examples": [
+    {
+      "phi": "ha moenu si molei.",
+      "translation": "This culture is evolving."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Developmental transformation",
-    "temporal": "Gradual change"
+    "community": "gradual development of a culture or shared practice",
+    "nature": "change in populations or lineages across generations",
+    "temporal": "many changes accumulating over an extended span"
   }
 }
