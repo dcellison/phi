@@ -8,15 +8,18 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Belly / Abdomen / Center of Nourishment",
-  "description": "The soft central region of the body containing digestive organs, the site of nourishment processing and visceral knowing. The belly is the body's center of gravity and seat of gut feeling. It swells with nourishment, contracts with hunger, and holds the wisdom that bypasses conscious thought.",
-  "sound_symbolism": "The word begins with 'm', the nasal of internality and comfort—the sound of satisfaction, made with closed lips like a full belly at rest. The open 'o' creates the round space within. Then 'ku' holds with velar containment, the belly as vessel. Finally 'ra' warms, the digestive fire that transforms food to fuel.",
-  "grammatical_notes": "Refers to the abdominal region generally. Specific organs (stomach, intestines) have their own terms; see 'kumoe' (stomach). Commonly used for the felt sense of embodied knowing: 'mokura sano.' (The belly knows / gut feeling.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "Belly breathing anchors meditation practice. The abdomen rises and falls with awareness, becoming the physical home of present-moment attention.",
-    "pre-industrial-wisdom": "The belly is the body's center in many traditional practices—where breath anchors, where life grows, where courage or fear is felt. Gut knowledge precedes analysis."
-  },
+  "search_terms": [
+    "abdomen"
+  ],
+  "description": "Hunger, fullness, movement, and pain may all be felt in 'mokura', the soft abdominal region below the chest. 'kumoe' (stomach) is one digestive organ, while 'nulomi' (guts) gathers the intestines and inner workings.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the sound through the nose, and release into middle-height back rounded 'o'. Raise the back of the tongue to the soft palate for unvoiced 'k' and release into stressed high-back rounded 'u'. Tap or briefly trill the tongue tip at the alveolar ridge, then open into central unrounded 'a'.",
+  "examples": [
+    {
+      "phi": "mia mokura pheno nai.",
+      "translation": "My belly is full."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Central body region of digestion and feeling"
+    "physical": "the abdominal region as a felt and visible part of the body"
   }
 }

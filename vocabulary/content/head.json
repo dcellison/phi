@@ -7,18 +7,16 @@
     "ma"
   ],
   "pos": "noun",
-  "concept": "Head / The Crown of Consciousness",
-  "description": "The uppermost part of the body, housing the brain and the primary sense organs—eyes that gather light, ears that collect sound, nose and mouth that taste, smell, and speak. In Phi the head is understood as a meeting place where inner awareness encounters the outer world, honored as one part of an integrated whole rather than the body's ruler; wisdom resides in the integration of head, heart, and body.",
-  "sound_symbolism": "The word begins with 'ko', where the velar stop 'k' creates a moment of gathering at the back of the mouth - the place where thought forms before speech, where consciousness collects itself. This moment of crystallization flows into 'o', the round vowel of wholeness and completion, suggesting the skull's protective dome. The transition to 'ma' brings the bilabial nasal 'm', humming with the resonance of mind, the vibration of thought made manifest. The final 'a' opens in awareness, the clear vowel of presence and understanding. The whole word moves from back to front, from internal to external, tracing the journey of thought becoming expression. 'Ko' holds and protects, 'ma' manifests and connects. It sounds like the gentle percussion of understanding, the rhythmic pulse of consciousness itself.",
-  "grammatical_notes": "Functions as a concrete noun for the body part, with possessor first: 'mia koma' (my head). Extends metaphorically to attention and thought: 'mua koma' (in the head, mentally). Takes locative phrases and descriptive modifiers like other anatomical terms. Related body words: 'menoa' (face), 'nolue' (neck), 'mirae' (eye), 'shonui' (ear).",
-  "pillars": {
-    "secular-buddhist-philosophy": "The head as 'koma' embodies the Buddhist understanding of consciousness as both individual and interconnected. It houses the sixth sense door (mind) alongside the five physical senses, making it the convergence point of perception and awareness. 'Koma' grammaticalizes the understanding that while thoughts arise in the head, true wisdom comes from integrating mind with body and heart, avoiding the Western mind-body dualism that elevates head over heart.",
-    "art-nouveau-aesthetics": "The head as 'koma' embodies the Art Nouveau fascination with organic forms - the skull's elegant dome, the graceful curve of the neck, the delicate architecture of features. Like Mucha's portraits that crown heads with flowing hair and botanical halos, 'koma' celebrates the head as nature's sculpture, where form and function unite in beautiful purpose.",
-    "pre-industrial-wisdom": "Traditional cultures recognize the head as sacred but not supreme - it is one part of an integrated whole. Many indigenous practices involve head coverings, adornments, and rituals that honor the head while maintaining bodily wholeness. 'Koma' preserves this holistic view where the head is respected as the dwelling of consciousness without becoming the tyrannical ruler of the body that modern Western thought often makes it."
-  },
+  "description": "Above the neck, 'koma' is the body region containing the face, brain, and major sense organs. It covers the region rather than the brain or mind. English also uses 'head' for a leader; a Phi clause states that role separately.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed middle-height back rounded 'o'. Close the lips for voiced 'm', carry the sound through the nose, and open into central unrounded 'a'.",
+  "usage_notes": "With 'mua', a speaker can place pain, touch, or another bodily experience in the head.",
+  "examples": [
+    {
+      "phi": "mia koma sukaro nai.",
+      "translation": "My head is hot."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "seat of mental processes",
-    "physical": "the anatomical body part",
-    "wisdom": "dwelling of understanding and awareness"
+    "physical": "the upper body region containing the face and major sense organs"
   }
 }

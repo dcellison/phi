@@ -8,15 +8,16 @@
     "u"
   ],
   "pos": "noun",
-  "concept": "Bone / Skeletal Structure / Inner Framework",
-  "description": "The hard, mineral structures forming the body's internal framework, supporting and protecting soft tissues. Bones are the body's architecture—hidden within yet essential to every posture and movement. They endure beyond flesh, carrying memory of the body long after life departs.",
-  "sound_symbolism": "The word begins with 'tho' /θo/, where the dental fricative breathes with ancient patience—bone outlasting the soft tissues it supports. The round 'o' suggests bone's solid form. Then 'la' extends with liquid grace, the long bones of limbs. Finally 'u' grounds deep and solid, the weight and density that gives bone its strength.",
-  "grammatical_notes": "Used collectively for the skeleton or individually for specific bones. 'sheloi tholau' (many bones / the bones). May be modified for location: 'tolae tholau' (leg bone). Metaphorically used for essential structure: 'thena tholau' (the thing's bones / core structure).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Contemplation of bones features in cemetery meditations, revealing the body's impermanence. What seems solid will become dust; the framework returns to earth.",
-    "pre-industrial-wisdom": "Bones carry ancestral memory—archaeologists read lives in skeletal remains. Traditional crafts used bone as tool, ornament, and oracle, honoring the structure that outlasts flesh."
-  },
+  "description": "A 'tholau' is one hard part of a skeleton, or bone material considered collectively. A body part before it can identify location, as in 'tolae tholau' (leg bone); 'rokili' (spine) is the complete column rather than any one bone within it.",
+  "articulatory_notes": "Extend the tongue tip slightly between the teeth and let unvoiced air pass for 'th', then draw the tongue back and round the lips for middle-height 'o'. Touch the tongue tip to the alveolar ridge for voiced 'l' and release laterally into stressed open central 'a'. Keep high-back rounded 'u' in its own final syllable across the hiatus.",
+  "usage_notes": "Context and a numeral distinguish one bone from bone as material or the skeleton considered together.",
+  "examples": [
+    {
+      "phi": "tolae tholau kema nai.",
+      "translation": "The leg bone is strong."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Hard internal framework of the body"
+    "physical": "a hard structural part of an animal or human skeleton"
   }
 }

@@ -8,16 +8,20 @@
     "mi"
   ],
   "pos": "noun",
-  "concept": "Guts / The Inner Workings / The Belly's Coils",
-  "description": "The guts: the belly's inner workings — intestines and the deep interior generally. With 'kumoe' (stomach) and 'mokura' (belly) it finishes the abdomen. Also, as everywhere, the seat of deep knowing: gut feeling translates directly.",
-  "sound_symbolism": "'nu' the deep, 'lo' the winding, 'mi' the innermost — the interior traced inward.",
-  "grammatical_notes": "Noun: 'nulomi nuora kuremi.' (The guts grind the food.) Figurative: 'mia mua nulomi sano.' (I know it in my guts.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "The deep interior digests experience as well as food; the tradition locates courage and knowing below the mind for good reason.",
-    "pre-industrial-wisdom": "Gut-knowledge was respected knowledge: the deep interior as the seat of the knowing that precedes words."
-  },
+  "search_terms": [
+    "intestines",
+    "bowels"
+  ],
+  "description": "For the intestines and abdominal inner workings considered together, Phi has 'nulomi'. It is deliberately less exact than a named organ: 'kumoe' (stomach) identifies one organ, while 'mokura' (belly) gives the broader location.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and raise the back of the tongue into high-back rounded 'u'. Touch the tongue tip to the alveolar ridge for voiced 'l' and release along its sides into stressed middle-height back rounded 'o'. Close the lips for voiced 'm', keep the airflow nasal, and finish with high-front unrounded 'i'.",
+  "usage_notes": "When the collective sense is too broad, a named organ or an exact anatomical term supplies the needed precision. The bodily idiom 'mia mua nulomi sano' places an unreasoned certainty in the guts without treating that feeling as proof. English 'guts' can also mean courage; Phi uses 'thomari' for that sense.",
+  "examples": [
+    {
+      "phi": "mia mua nulomi kipona phaelo.",
+      "translation": "I feel pain in my guts."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "The seat of wordless knowing",
-    "physical": "The belly's inner workings"
+    "physical": "the intestines and other abdominal inner workings considered collectively"
   }
 }

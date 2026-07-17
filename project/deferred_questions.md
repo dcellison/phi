@@ -20,6 +20,14 @@ Canon keeps foreign wording and source-script names, exact values, identifiers, 
 
 The open question is whether every foreign expression must stay outside a complete Phi clause or whether a clearly bounded source expression may participate in an otherwise Phi utterance without becoming Phi vocabulary. An unadapted name or title is one test. Measurements, identifiers, and foreign quotations provide others. Phi's grammar and particle system are complete, so the answer belongs in existing grammar and discourse practice rather than another external frame. The canonical rule continues to govern until this question receives a ruling.
 
+### Sexual and reproductive anatomy
+
+Status: Queued as a separate scenario-led vocabulary effort.
+
+Phi needs ordinary, respectful language for sexual and reproductive anatomy. Consent and self-description come first. Daily care, reproduction, and injury supply the other tests, none of which should require a person to make a clinical claim before naming part of their body.
+
+The effort will inventory existing body, birth, consent, and Medical vocabulary, then decide which distinctions belong in base vocabulary, an optional module, a registered compound, or separately preserved source terminology. Anatomy cannot be assigned to gender by default, and one common body cannot become the standard against which others are treated as deviations.
+
 ## Parked corpus and tooling work
 
 ### Legacy vocabulary prose audit

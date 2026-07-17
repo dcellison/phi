@@ -8,15 +8,19 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Tooth / Teeth / Dental Structure",
-  "description": "The hard, rooted structures of the mouth used for biting and grinding food. Teeth are the body's stones—mineral, enduring, yet ultimately temporary. They enable the transformation of food into nourishment through patient grinding work, and their appearance marks life stages from infancy through elderhood.",
-  "sound_symbolism": "The word begins with 'k', the hard velar stop that mirrors teeth's firmness—a sound made in the back of the mouth near where molars grind. The 'u' adds depth and strength. Then 'la' introduces the liquid that softens, suggesting how teeth work with the flowing tongue. Finally 'i' rises bright and sharp like the edge of an incisor.",
-  "grammatical_notes": "Typically used in plural contexts with 'sheloi' (many) or as collective. Single tooth specified with 'ta kulai' (one tooth). Milk teeth vs. adult teeth can be specified with modifiers.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Teeth grow, decay, and fall, yet do their work as long as they remain—embodiment and impermanence in miniature. The body's tools for transformation.",
-    "pre-industrial-wisdom": "Teeth carry the memory of what we've eaten, marking our relationship with the land's food. Their condition reveals life history to those who can read it."
-  },
+  "search_terms": [
+    "teeth"
+  ],
+  "description": "A tooth is one hard structure rooted in the jaw and used to bite or grind food. Context or number can also present the teeth collectively. 'tholau' (bone) covers skeletal material, while 'kulai' keeps the tooth as its own oral structure.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-back rounded 'u'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and open into stressed central unrounded 'a'. Raise the tongue into high-front unrounded 'i' for the separate final syllable.",
+  "usage_notes": "A numeral identifies one or more teeth when the count matters. A body-part or position phrase can locate a particular tooth without requiring a separate name for every kind.",
+  "examples": [
+    {
+      "phi": "kulai kethua nai.",
+      "translation": "A tooth is hard."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Hard structures for processing food"
+    "physical": "a hard oral structure used for biting and grinding food"
   }
 }

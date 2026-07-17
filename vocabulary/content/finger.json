@@ -8,15 +8,19 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Finger / Digit / Fine Manipulator",
-  "description": "The articulated digits of the hand that enable fine manipulation, touch, and gesture. Fingers are the hand's expressions—each one capable of independent movement yet working in concert. They read the world through touch, create through skilled motion, and communicate through gesture.",
-  "sound_symbolism": "The word begins with 'th' /θ/, the gentle dental fricative of precision—air moving carefully past, as fingers work delicately. The deep 'u' grounds the digit in the hand. Then 'ma' touches with nasal warmth, fingers meeting surface. Finally 'i' rises bright and alert, the fingertip's sensitivity perceiving texture and form.",
-  "grammatical_notes": "Individual fingers can be specified with ordinals or position words. Fingers on one hand: 'ta shao wi thumai' (five fingers). Thumb may be considered a finger or named separately depending on context.",
-  "pillars": {
-    "art-nouveau-aesthetics": "The finger's organic articulation and expressive capability embody natural beauty in motion. Each gesture creates flowing form.",
-    "pre-industrial-wisdom": "Fingers carry craft knowledge—the potter's pinch, the weaver's cross, the healer's pressure. Skills pass through fingertips across generations."
-  },
+  "search_terms": [
+    "digit"
+  ],
+  "description": "A 'thumai' is one articulated digit of the hand, used in fine touch, grasping, gesture, and skilled work. The registered compound 'whalo thumai' (big finger) is the thumb, while 'tipika' (fingernail) is the hard plate at a finger's end.",
+  "articulatory_notes": "Extend the tongue tip slightly between the teeth and pass unvoiced air for 'th', then raise the back of the tongue and round the lips for high-back 'u'. Close the lips for voiced 'm', carry the sound through the nose, and release into stressed open central 'a'. Keep high-front unrounded 'i' in its own final syllable across the hiatus.",
+  "usage_notes": "A numeral can count individual fingers. The plural marker or context can instead present them collectively.",
+  "examples": [
+    {
+      "phi": "lopia thumai thiku nai.",
+      "translation": "The child's fingers are small."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Fine digits for manipulation and touch"
+    "physical": "a hand digit used for fine movement and touch"
   }
 }

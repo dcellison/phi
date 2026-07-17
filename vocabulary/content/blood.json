@@ -8,15 +8,16 @@
     "ka"
   ],
   "pos": "noun",
-  "concept": "Blood / Life Fluid / Circulating Essence",
-  "description": "The fluid that courses through vessels, carrying oxygen, nourishment, and warmth to every cell. Blood is the body's river system: never still, always delivering and collecting, maintaining the conditions for life. It pools in rest, rushes in exertion, and signals health through color and flow.",
-  "sound_symbolism": "The word begins with 'l', the liquid consonant of flowing—blood never static but always in motion. The round 'o' carries, as blood carries what cells need. Then 'ri' courses with the repeated liquid, the flow continuing through branching vessels. Finally 'ka' pulses with the heart's beat, the rhythmic force that drives circulation.",
-  "grammatical_notes": "Used as mass noun for blood generally. Can be quantified for drawn or spilled blood. Appears in expressions of kinship and lineage: 'ta lorika' (one blood / family). Color associations may be made explicit with modifiers.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Blood flows without conscious direction, yet responds to every mental state. Its circulation teaches the inseparability of body and mind, physical and emotional.",
-    "pre-industrial-wisdom": "Blood signifies kinship, covenant, and life itself. Traditional cultures read health in blood's color and flow, understood sacrifice through its shedding."
-  },
+  "description": "A cut may reveal 'lorika', the fluid that circulates through a living body. The same noun applies to blood in the body or a collected sample. Kinship remains 'thaluni' (kin) or another stated family relation rather than an English-style claim of shared blood.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and draw the tongue back while rounding the lips for middle-height 'o'. Make a tap or short trill at the ridge and move into stressed high-front unrounded 'i'. Close the back of the tongue against the soft palate for unvoiced 'k', then release into open central unrounded 'a'.",
+  "usage_notes": "The noun ordinarily treats blood as a substance. An exact type, amount, or laboratory result remains with its source record when that precision matters.",
+  "examples": [
+    {
+      "phi": "lorika rulo nai.",
+      "translation": "Blood is red."
+    }
+  ],
   "semantic_domains": {
-    "physical": "The fluid circulating through the body"
+    "physical": "the fluid circulating through a living body"
   }
 }

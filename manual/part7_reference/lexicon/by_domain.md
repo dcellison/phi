@@ -204,7 +204,7 @@
 | `sikanu` | certify | issuing or maintaining a formal criteria claim |
 | `sitawi` | inventory | recording and reviewing held items |
 | `sithora` | role | a defined position associated with stated functions and obligations |
-| `siwe` | sweat | Effort's residue |
+| `siwe` | sweat | a bodily substance often produced during physical exertion |
 | `soki` | settle | beginning or establishing continuing residence |
 | `somaki` | test | performing a defined evidential procedure |
 | `someru` | supervise | attending to another participant's work within a stated scope |
@@ -377,7 +377,7 @@
 | `wira` | window | View portal |
 | `woraka` | appreciate | positive recognition of a sensory or artistic quality |
 
-## cognition (239)
+## cognition (237)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -416,7 +416,6 @@
 | `kithero` | diagnose | forming a clinical conclusion from evidence and criteria |
 | `koewi` | input | information or influence classified relative to an analytical boundary |
 | `koluri` | reliable | an evidence-bounded claim about performance under conditions |
-| `koma` | head | seat of mental processes |
 | `kuelo` | curious | interest directed towards learning or examining what is not yet known |
 | `kuewa` | strange | something outside a stated person's or community's present familiarity |
 | `kupela` | secret | The known and untold |
@@ -433,7 +432,7 @@
 | `masuro` | calibrate | a practice that establishes how an indication relates to a reference |
 | `meluri` | climate | a scoped account of long-term atmospheric distribution and variability |
 | `mikasu` | dose | a specified intervention amount requiring exact source interpretation |
-| `mirae` | eye | the bridge between world and awareness |
+| `mirae` | eye | the sensory organ through which visual perception reaches awareness |
 | `miratu` | recognize | a present perception or proposition connected with prior knowledge |
 | `mirela` | state | a selected description used to analyze change |
 | `mokanu` | disease | a health classification under stated criteria and source |
@@ -464,7 +463,6 @@
 | `nowae` | awaken | return of waking awareness after sleep |
 | `nukesa` | expert | extensive domain understanding supported by practice and study |
 | `nulae` | sleep | reduced waking awareness and responsiveness during sleep |
-| `nulomi` | guts | The seat of wordless knowing |
 | `nuphari` | fog | Perception limited |
 | `nuwi` | clear | meaning or structure that can be followed without a tangle |
 | `palethu` | tactile | information distinguished through tactile perception |
@@ -643,7 +641,7 @@
 | `kithero` | diagnose | stating a potentially revisable health conclusion |
 | `kowela` | council | transforms governance through deep listening and patient dialogue |
 | `kupela` | secret | The silence that protects |
-| `lathoe` | tongue | Primary organ of speech production |
+| `lathoe` | tongue | a speech organ that shapes breath into articulated sound |
 | `lesawi` | consent | giving, withholding, or withdrawing a bounded answer |
 | `lilea` | clarify | wording repaired so that its intended reference is easier to follow |
 | `lona` | meeting | Shared gathering |
@@ -651,7 +649,7 @@
 | `lophae` | storyteller | Tale sharing |
 | `lumishe` | mentor | happens through communication and mutual exchange |
 | `manawi` | compromise | an outcome of negotiating differing aims |
-| `menoa` | face | Primary site of expressive communication |
+| `menoa` | face | the region where much visible human expression appears |
 | `mirewu` | private | chosen limits on access to a conversation, record, or information |
 | `misharo` | consult | an exchange intended to inform later action |
 | `mishoa` | express | thought or feeling given a perceptible form |
@@ -680,7 +678,7 @@
 | `phisuwa` | example | a case speakers can offer, compare, and discuss explicitly |
 | `phiwheki` | counterexample | a concrete way to challenge overgeneralization |
 | `phowe` | share | sharing information or expression with other people |
-| `phulae` | mouth | the gate through which speech emerges |
+| `phulae` | mouth | the body opening through which spoken language is articulated |
 | `remotha` | reason | a ground offered so others can examine a claim or choice |
 | `remuma` | conclusion | the result of an argument that participants may assess separately |
 | `reo` | meaning | the relation through which an expression or symbol carries a sense |
@@ -703,7 +701,7 @@
 | `sheori` | communicate | meaning made available through a usable medium |
 | `sherelo` | right (normative) | a claim whose source and fulfillment can be examined |
 | `sherewa` | claim | the act of asserting a proposition to other people |
-| `shonui` | ear | Essential for receiving communication |
+| `shonui` | ear | the bodily organ that receives speech and other sound |
 | `shoraku` | interpret | carrying meaning between languages or communication modes |
 | `shorema` | contribute | contributing words or information to a shared exchange |
 | `sikanu` | certify | a formal claim whose source and scope can be challenged |
@@ -1082,7 +1080,7 @@
 | `lupaki` | fold | forming layers and a deliberate crease |
 | `lureko` | fruit | Natural abundance |
 | `luseri` | provenance | the source history of materials and artifacts |
-| `manuwe` | hand | the instrument of craft and giving |
+| `manuwe` | hand | the body part through which much manual craft is performed |
 | `masuro` | calibrate | maintenance of measuring and signaling tools |
 | `meliho` | sing | music or song produced through the voice |
 | `melira` | song | A made thing of voice and time |
@@ -1216,8 +1214,8 @@
 | `kapura` | shout | strong feeling expressed through a shout |
 | `kela` | rejoice | the active experience of marked gladness |
 | `kesu` | determined | felt firmness after a direction has been chosen |
-| `kipona` | pain | Hurt of heart borrowing the body's word |
-| `korua` | heart | the metaphorical seat of feeling and courage |
+| `kipona` | pain | pain experienced as grief, anguish, or another emotional hurt |
+| `korua` | heart | the conventional bodily centre of affection, courage, and disposition |
 | `liroa` | playful | lighthearted readiness for play |
 | `loshi` | joyful | the character of something that awakens or expresses joy |
 | `lothea` | love | love felt towards a person, place, living thing, or way of life |
@@ -1249,7 +1247,7 @@
 | `pharuki` | celebrate | joy given an outward communal or personal form |
 | `phesua` | inspire | an urge or hopeful energy stirred in the inspired person |
 | `pula` | wish | wanting an outcome to occur |
-| `puro` | strength | Inner fortitude |
+| `puro` | strength | the inward capacity to continue under felt pressure |
 | `rimawu` | drudgery | the experienced tedium, aversion, or loss of meaning |
 | `rinu` | want | the experience of wanting without a fixed degree or duration |
 | `ruesha` | compassionate | fellow-feeling joined to a wish that suffering ease |
@@ -1495,7 +1493,7 @@
 | `sukaro` | hot | weather or environmental heat that is strongly felt |
 | `sulae` | warm | moderate warmth in air, water, sunlight, or weather |
 | `suliwa` | snake | The flowing legless animal |
-| `sunai` | health | Body wholeness |
+| `sunai` | health | the condition of life-sustaining functions in an organism or living system |
 | `sunoe` | regenerate | regrowth or replenishment in a living system |
 | `talome` | restore | ecological work towards a selected reference condition |
 | `telo` | farmer | Land cultivation |
@@ -1570,7 +1568,7 @@
 | `hewasu` | audible | sound available through hearing under particular bodily and environmental conditions |
 | `hewe` | wipe | material removed from or spread across a surface through sliding contact |
 | `hieru` | narrow | restricted width in passages and openings |
-| `hisae` | skin | Body's outer covering and sensing organ |
+| `hisae` | skin | the living outer organ of a human or animal body |
 | `hisaro` | clinical finding | an observation concerning bodily or health condition |
 | `hiso` | clean | surfaces, objects, or materials free of unwanted matter for their present use |
 | `hisophi` | contaminant | a substance, organism, or agent present in a sample, place, or process |
@@ -1598,7 +1596,7 @@
 | `keruko` | sturdy | resistance to damage during handling or use |
 | `kethua` | hard | resistance to indentation or deformation under pressure |
 | `kiphira` | fault | an abnormal condition in a technical component or relation |
-| `kipona` | pain | The body's sharp signal |
+| `kipona` | pain | pain experienced in or through the body |
 | `kirato` | lock | a device released by a matching key or method |
 | `kire` | shape | changing the configuration of material |
 | `kirowi` | signal | a signal requires a detectable material or symbolic form |
@@ -1610,21 +1608,21 @@
 | `kolua` | carry | bearing a body, object, or substance while moving |
 | `koluma` | unite | separate pieces becoming one material assembly |
 | `kolupe` | bucket | an open rigid container with a handle |
-| `koma` | head | the anatomical body part |
+| `koma` | head | the upper body region containing the face and major sense organs |
 | `komalu` | pillow | a yielding support for the head or body |
 | `koremu` | bark | Protective plant structure |
-| `korua` | heart | the pumping organ of blood circulation |
-| `kulai` | tooth | Hard structures for processing food |
-| `kumoe` | stomach | Digestive organ of transformation |
+| `korua` | heart | the muscular organ that pumps blood |
+| `kulai` | tooth | a hard oral structure used for biting and grinding food |
+| `kumoe` | stomach | the muscular digestive organ that holds, churns, and continues breaking down food |
 | `kumoli` | hungry | the body's present need for food |
-| `kunoa` | knee | Central leg joint enabling bending |
+| `kunoa` | knee | the bending joint in the middle of a leg |
 | `kurathi` | dry | little liquid present on a surface or within a material |
 | `kuremi` | grind | abrasion or crushing that makes a material finer |
 | `kuri` | right | Side of the body |
-| `kuroi` | muscle | Movement tissue creating action |
+| `kuroi` | muscle | contractile tissue that moves or stabilises a body |
 | `kurona` | horn | Living solidity extended |
 | `larewu` | liquid | matter that keeps roughly its volume while taking the shape of its container |
-| `lathoe` | tongue | Flexible oral muscle |
+| `lathoe` | tongue | the muscular organ used for taste and oral movement |
 | `lawe` | left | Side of the body |
 | `leiro` | release | letting a person, object, or substance leave restraint or containment |
 | `lemi` | thin | little material thickness or sparse substance |
@@ -1635,13 +1633,13 @@
 | `lirupa` | bag | a soft-sided holder that changes shape around its contents |
 | `loa` | give | passing a material object into another person's use or keeping |
 | `lomare` | embrace | arms, clothing, or another enclosing form surrounding a body or space |
-| `lomura` | liver | The inner anatomy's quiet worker |
+| `lomura` | liver | a large abdominal organ involved in processing substances in the blood |
 | `lophani` | bottle | a portable holder for liquid |
 | `lopia` | child | the human developmental stage of childhood |
 | `lorea` | connect | objects joined through a material, tool, or fitted part |
 | `loremi` | branch | Living structure that holds and sways |
 | `lori` | vital | vigorous energy expressed by a living body |
-| `lorika` | blood | The fluid circulating through the body |
+| `lorika` | blood | the fluid circulating through a living body |
 | `lorima` | build | joining material parts so that a structure stands or works |
 | `losha` | wide | large width across an opening or a span of land or water |
 | `lumeo` | die | the bodily cessation of life |
@@ -1655,11 +1653,11 @@
 | `luwi` | flexible | bending or changing shape without damage |
 | `maeli` | quiet | little or no sound in a source, event, or place |
 | `malomi` | balance | a body or object kept in position by redistributed weight or force |
-| `manuwe` | hand | the body member of grasping and making |
+| `manuwe` | hand | the grasping and touching part at the end of an arm |
 | `masue` | measure | determining a magnitude of a body, object, or material |
 | `meilo` | sit | bodily posture supported by a seat or the haunches |
 | `meipa` | seat | Made for sitting |
-| `menoa` | face | The front of the head bearing features |
+| `menoa` | face | the front region of the head |
 | `mikasu` | dose | an amount intended or delivered to a body |
 | `milau` | drink | oral intake of liquid |
 | `milura` | milk | The drink before all others |
@@ -1669,7 +1667,7 @@
 | `moesha` | still | absence of movement at the relevant bodily or material scale |
 | `mokanu` | disease | a pattern or process affecting bodily health or function |
 | `mokela` | sick | illness experienced as a bodily or whole-person state |
-| `mokura` | belly | Central body region of digestion and feeling |
+| `mokura` | belly | the abdominal region as a felt and visible part of the body |
 | `moli` | gentle | contact or movement kept low in force for its situation |
 | `molu` | container | Holding space |
 | `molupa` | box | a holder that retains its shape when empty |
@@ -1706,18 +1704,18 @@
 | `newai` | fresh | retention of an expected recent quality before spoilage or fading |
 | `nila` | see | perception through sight |
 | `nira` | cord | Flexible connection |
-| `nolue` | neck | Connecting passage between head and body |
+| `nolue` | neck | the external region joining the head to the torso |
 | `noluha` | swallow | the muscular movement that begins passage into the digestive tract |
 | `nomiki` | concentration | an amount of matter, organisms, or another agent per stated medium |
 | `nomira` | collect | bringing tangible objects into an accumulating group |
-| `nophae` | nose | Central facial feature and breath channel |
+| `nophae` | nose | the facial organ used for smell and breathing |
 | `norelu` | form | matter acquiring an observable arrangement or boundary |
 | `norupe` | spoon | a small hollow carried at the end of a handle |
 | `nowae` | awaken | bodily transition out of sleep |
 | `nuelo` | dark | little light reaching a place, surface, or viewer |
 | `nuhewa` | weep | the bodily event of tears flowing |
 | `nulae` | sleep | recurring bodily state of sleep |
-| `nulomi` | guts | The belly's inner workings |
+| `nulomi` | guts | the intestines and other abdominal inner workings considered collectively |
 | `numea` | nestle | the body settling into a close, sheltered, or warm position |
 | `nuola` | eat | oral intake of food |
 | `nuora` | food | what sustains bodily life |
@@ -1727,7 +1725,7 @@
 | `nuwi` | clear | low visual obstruction in water, air, or another material |
 | `palethu` | tactile | touch used as the sensory channel |
 | `palo` | touch | bodily or material contact at a surface |
-| `paloi` | foot | the body member contacting earth |
+| `paloi` | foot | the terminal part of the leg that supports standing and walking |
 | `palowe` | shoe | Between foot and road |
 | `panoru` | support | bearing weight or holding a structure in place |
 | `panuri` | resource | the term often concerns material, energy, land, water, or biological products |
@@ -1735,7 +1733,7 @@
 | `peki` | squeeze | pressure brought inward around a body or object |
 | `pekira` | toxic | a property of substances, mixtures, materials, or agents under exposure |
 | `pelaku` | severity | degree of bodily or health effect |
-| `pelio` | arm | Upper limbs for reaching and working |
+| `pelio` | arm | an upper limb used for reach, support, and bodily contact |
 | `peloma` | harmful | damage, pain, or reduced capacity caused under stated conditions |
 | `pelui` | cold | temperature felt as a strong chill rather than mild coolness |
 | `pemaru` | hazard | a material, energy source, condition, or process capable of harm |
@@ -1749,7 +1747,7 @@
 | `pharea` | adult | a human developmental stage after youth |
 | `pharelo` | cook | heat changing the texture, structure, or readiness of food |
 | `phareme` | ingredient | an edible substance before or during preparation |
-| `pharoe` | chest | Upper torso containing heart and lungs |
+| `pharoe` | chest | the upper front torso and the cavity holding the heart and lungs |
 | `phelasi` | shelf | a level support for kept objects |
 | `phelo` | light | low physical weight relative to the force needed for lifting or support |
 | `phelona` | require | food, water, shelter, or care required by a body |
@@ -1768,10 +1766,10 @@
 | `phitura` | well (water) | Water at the end of effort |
 | `pholuo` | luminous | a source or material that emits, transmits, or appears suffused with light |
 | `phowe` | share | making a material thing available to several users |
-| `phulae` | mouth | the body opening for eating and speaking |
+| `phulae` | mouth | the opening and cavity used for eating, drinking, breathing, and speech |
 | `phurewa` | sweep | surface cleaning through bristle contact |
 | `phurilo` | broom | bristles moving loose material across a surface |
-| `phuwai` | lung | Respiratory organs within the chest |
+| `phuwai` | lung | one of the paired organs that exchange gases between air and blood |
 | `piloe` | spot | One small patch of color |
 | `pilomu` | sycamore | Tall broad-leaved shade tree |
 | `pilu` | take | taking hold of a person or material object |
@@ -1785,7 +1783,7 @@
 | `pukea` | danger | The nearness of possible harm |
 | `pukeri` | damage | adverse change to the condition or function of a tangible thing |
 | `puko` | bitter | a bitter gustatory quality distinct from acidity |
-| `puro` | strength | Power capacity |
+| `puro` | strength | the capacity of a body or material to exert or withstand force |
 | `puse` | spit | an outward movement of material through the lips |
 | `pushali` | overload | bodily burden produced by excessive input or demand |
 | `raelu` | tall | height from base to top in a person or upright structure |
@@ -1797,9 +1795,9 @@
 | `rihe` | rise | a body or material becoming higher |
 | `rohemi` | wear down | gradual alteration of a surface or working condition through repeated exposure |
 | `rohi` | rub | friction produced by pressured movement across a surface |
-| `rokai` | back | Posterior torso surface and spine region |
+| `rokai` | back | the rear region of the human torso |
 | `roke` | move | motion of a body or material object |
-| `rokili` | spine | The column of the back |
+| `rokili` | spine | the articulated bony column within the back |
 | `rolutha` | wagon | Wheels made a carrier |
 | `rotiku` | dance | patterned movement made through the body |
 | `ruemi` | lie down | bodily posture supported along more than the feet or seat |
@@ -1822,7 +1820,7 @@
 | `sheru` | slow | a low rate of bodily or material movement |
 | `shiloa` | pure | material treated as unmixed under the stated conditions |
 | `sholu` | complete | an object or assembly with every required part present |
-| `shonui` | ear | Organ of hearing |
+| `shonui` | ear | the external and internal organ of hearing |
 | `shonuwa` | sound | an acoustic event or the medium available to hearing |
 | `shorenu` | immune | bodily protection or reduced susceptibility under stated conditions |
 | `shoru` | dull | an edge or point that no longer cuts or pierces readily |
@@ -1831,7 +1829,7 @@
 | `shumeko` | sticky | a material or surface that adheres on contact and resists easy separation |
 | `shuneki` | vaccinate | an intervention intended to induce bodily protection |
 | `shurano` | safe | a body, path, object, or action assessed as sufficiently protected from relevant harm |
-| `siwe` | sweat | The skin's water |
+| `siwe` | sweat | watery fluid released through the skin for cooling |
 | `somela` | observe | sustained sensory observation of a material object or change |
 | `sophae` | cotton | Soft covering |
 | `sowelu` | disabled | bodily or sensory disability and its relation to access |
@@ -1841,10 +1839,10 @@
 | `suliwa` | snake | Motion as pure curve |
 | `sulopa` | soup | Warm water and patience |
 | `suloru` | fever | an elevated bodily temperature state |
-| `sunai` | health | Bodily condition |
+| `sunai` | health | the condition of a living body in its relevant context |
 | `sunoe` | regenerate | lost tissue or productive capacity rebuilt after depletion |
 | `takori` | load | a demand placed on material support, transmission, or processing |
-| `talua` | shoulder | Upper torso joint bearing arms and loads |
+| `talua` | shoulder | the joint and region where an arm meets the torso |
 | `tapu` | close | a door, lid, or container moved into closure |
 | `tapulo` | jar | a holder reached through an opening wider than a bottle neck |
 | `tapuri` | lid | a separate object meeting the rim of a container |
@@ -1869,20 +1867,20 @@
 | `thiranu` | maintain | preservation of an object's condition or function through work |
 | `thirulo` | output | matter or energy crossing out of a selected system |
 | `thola` | bring | moving with a person or material object being brought |
-| `tholau` | bone | Hard internal framework of the body |
+| `tholau` | bone | a hard structural part of an animal or human skeleton |
 | `thorima` | taste | gustatory perception through the mouth |
 | `thuleni` | comfort | touch or changed bodily surroundings used to ease discomfort |
-| `thumai` | finger | Fine digits for manipulation and touch |
+| `thumai` | finger | a hand digit used for fine movement and touch |
 | `thumiro` | smoke | Gray drift that reports |
 | `thuroa` | grow | change in bodily or material size |
 | `thuroi` | resilient | return toward workable form or function after stress |
 | `tinako` | rigid | resistance to bending, twisting, or rearrangement under force |
-| `tipika` | fingernail | The finger's hard tip |
+| `tipika` | fingernail | the hard plate growing at the end of a finger |
 | `tiripe` | quiver | rapid involuntary or lightly controlled motion of a body or part |
 | `tiso` | sharp | a fine edge or point able to cut or pierce readily |
 | `tiwa` | tie | holding objects together or against a point with cord or rope |
 | `toka` | hammer | Shaping force |
-| `tolae` | leg | Lower limbs for support and locomotion |
+| `tolae` | leg | a lower limb used for support and movement |
 | `towe` | well | a present report that one's bodily condition is good |
 | `tukelu` | recycle | a material process with inputs, outputs, losses, and changed properties |
 | `tuko` | sour | gustatory acidity such as citrus or vinegar |
@@ -1898,7 +1896,7 @@
 | `welathi` | contagious | transmission potential under stated bodily or environmental conditions |
 | `welira` | thrive | a living body's health across development |
 | `welisha` | color | a perceived property of surfaces or light |
-| `weloni` | body | The whole living frame |
+| `weloni` | body | the complete physical form of a living or once-living being |
 | `welotu` | mix | parts moving through one another in a vessel or space |
 | `welua` | fragile | easy breakage or damage under comparatively small force |
 | `welura` | spread | material distributed across a surface or area |
@@ -1916,7 +1914,7 @@
 | `whemori` | waste | material or energy lacking further intended use in its present relation |
 | `wheraku` | erode | transport of soil, sediment, or rock from a surface |
 | `whesu` | blow | directed motion of air |
-| `whila` | hair | Fine body covering that grows and flows |
+| `whila` | hair | fine strands growing from human or animal skin |
 | `whilaru` | comb | Teeth that untangle |
 | `whinu` | smell | olfactory perception through the nose |
 | `whoa` | whole | an object or body whose relevant parts are present and joined |
@@ -2000,7 +1998,7 @@
 | `thunepa` | sacred place | Place of reverence |
 | `whunei` | breathe | breath used as an observable object in meditation practice |
 
-## spatial (157)
+## spatial (156)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2076,7 +2074,6 @@
 | `nulo` | deep | substantial distance inward or downward from a reference surface |
 | `nuroa` | kitchen | Food space |
 | `nusho` | depth | Downward extent |
-| `paloi` | foot | the means of walking through space |
 | `pesa` | push | movement away from the point of pushing contact |
 | `phae` | open | removing or moving a closure so passage, access, flow, or view becomes possible |
 | `phaero` | transit | Crossing through |
@@ -2332,7 +2329,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (92)
+## wisdom (91)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2348,7 +2345,6 @@
 | `kirema` | criterion | an explicit and revisable basis for deciding fit |
 | `kirothe` | define | examining both the usefulness and limits of categories |
 | `kithela` | valid | a precise assessment kept distinct from truth and persuasion |
-| `koma` | head | dwelling of understanding and awareness |
 | `kowela` | council | cultivates patient consensus through collective insight |
 | `kulo` | guide | practical knowledge of a way shared through accompaniment |
 | `leiro` | release | release considered as a practice of loosening attachment |
@@ -2425,6 +2421,6 @@
 | `tolu` | staff | Journey companion |
 | `tumeki` | root | Foundation and origin |
 | `welao` | good | a contextual favourable judgement whose grounds remain open to examination |
-| `weloni` | body | The first foundation of mindfulness |
+| `weloni` | body | the whole body as an object of sustained contemplative attention |
 | `whamoi` | doubt | recognition that judgment may remain open while inquiry continues |
 | `wireo` | future | Possibility's domain |

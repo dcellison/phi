@@ -8,16 +8,26 @@
     "na"
   ],
   "pos": "noun",
-  "concept": "Pain / The Sharp Thing Within / Hurt Felt in Body or Heart",
-  "description": "Pain: the body's sharp signal, and by extension the heart's. Namable at last — 'thelai' (balm), 'theala' (heal), 'nepha' (medicine), and 'phamo' (console) have all been treating a nameless patient. Physical first; emotional pain borrows it naturally.",
-  "sound_symbolism": "'ki' is the sharp point, and 'po'–'na' the steady dwelling-with — pain as something attended rather than fled. The sharpness is real; so is the ground under it.",
-  "grammatical_notes": "Noun with 'phaelo': 'mia kipona phaelo.' (I feel pain.) Located: 'mia mua rokai kipona phaelo.' (I feel pain in my back.) The healer's question: 'thia kua kipona phaelo.' (Where do you feel pain?)",
+  "search_terms": [
+    "ache",
+    "hurt"
+  ],
+  "description": "Pain is an unpleasant bodily or emotional experience. Its report belongs to the person who feels it. The noun says neither what caused the pain nor what a clinician will find: Medical 'kaworu' (injury) is bodily change associated with an event or exposure, and pain can occur with or without such an injury.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'. Close the lips for unvoiced 'p' and release into stressed middle-height back rounded 'o'. Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and finish with open central unrounded 'a'.",
+  "sound_symbolism": "The two stop closures interrupt the airflow before the final nasal continues into open 'a'. That movement can feel like a sharp onset followed by something that remains, a mnemonic rather than a theory of pain.",
+  "usage_notes": "Pain is felt with 'phaelo'. A body part in a 'mua' phrase locates it, as in 'mia mua rokai kipona phaelo' (I feel pain in my back). The question 'thia kua kipona phaelo' asks where the listener feels pain.",
+  "examples": [
+    {
+      "phi": "mia kipona phaelo.",
+      "translation": "I feel pain."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Pain is inevitable; suffering is pain plus resistance. The tradition's central distinction requires the word this entry provides.",
-    "pre-industrial-wisdom": "Healing began with the patient's report; the healer's craft is only as good as the language pain can be described in."
+    "secular-buddhist-philosophy": "Practice can attend to pain as a present experience without turning the person into the pain they feel.",
+    "peace-linguistics-practices": "A direct pain report lets the speaker name their experience before another person proposes a cause, judgement, or intervention."
   },
   "semantic_domains": {
-    "emotion": "Hurt of heart borrowing the body's word",
-    "physical": "The body's sharp signal"
+    "emotion": "pain experienced as grief, anguish, or another emotional hurt",
+    "physical": "pain experienced in or through the body"
   }
 }

@@ -8,15 +8,16 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "Nose / Breath Portal / Scent Organ",
-  "description": "The central feature of the face through which breath flows and scent is perceived. The nose bridges outer air and inner body, filtering and warming what we take in. It detects the invisible signatures of things—smoke, flowers, rain, danger—connecting us to the world through its most ephemeral dimension.",
-  "sound_symbolism": "The word begins with 'n', the nasal consonant that physically resonates through the nose itself—saying 'no' requires the very organ named. The vowel 'o' rounds like nostrils opening. Then 'pha' /ɸa/ breathes out with the bilabial fricative, pure breath passing. Finally 'e' perceives, the moment scent becomes awareness.",
-  "grammatical_notes": "Refers to the nose as physical feature and sensing organ. Possessor precedes: 'mia nophae' (my nose). For smelling as action, and for scent as noun, use 'whinu' (smell).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Breath awareness begins at the nostrils, the anchor point for meditation. The nose is gateway to mindfulness practice.",
-    "pre-industrial-wisdom": "The nose reads weather, danger, food safety, and health—knowledge carried in scent before written records. Traditional healing attends to breath quality."
-  },
+  "description": "Air and scent reach the body through 'nophae', the facial organ used for smell and a common passage for breathing. 'whinu' (smell) reports either the act or a scent in context; the body-part noun does not acquire the English metaphor of instinct or investigation.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for dental 'n', send the voice through the nose, and continue into middle-height back rounded 'o'. Bring the lips close without sealing them for unvoiced 'ph', let air pass between them, and open into stressed central 'a'. Move the tongue forward into middle-height unrounded 'e' for the separate final syllable.",
+  "sound_symbolism": "The opening dental nasal resonates through the nose before the lips release unvoiced air for 'ph'. Saying the word alternates nasal resonance and outward breath, a physical reminder of the organ's two ordinary routes.",
+  "examples": [
+    {
+      "phi": "mia nophae kurathi nai.",
+      "translation": "My nose is dry."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Central facial feature and breath channel"
+    "physical": "the facial organ used for smell and breathing"
   }
 }
