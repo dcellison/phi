@@ -7,16 +7,17 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Strength / Power / Capacity for Force",
-  "description": "The capacity to exert force or withstand pressure; power available for action. 'Puro' names what enables—the resource that makes difficult things possible.",
-  "sound_symbolism": "The word gathers with power. 'Pu' pushes with concentrated force, strength gathering. 'Ro' grounds with solid stability, power rooted.",
-  "grammatical_notes": "Functions as noun: 'mia puro' (my strength). What enables 'meloa' (persevere). Related to 'kenua' (energy) as capacity to force, and to 'kema' (strong), its adjective counterpart.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Inner strength—the fortitude that comes from equanimity, not aggression.",
-    "pre-industrial-wisdom": "Strength through practice—power built through sustained effort, not given."
-  },
+  "description": "Strength is the capacity to exert force or continue while force presses back. The noun can concern a body, material, or a person's resolve. 'kema' (strong) describes the capacity in context, while 'kenua' (energy) is what remains available for action and may rise or fade without changing underlying strength.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into stressed high-back rounded 'u'. Make a tap or short trill at the alveolar ridge, then lower the tongue slightly into middle-height back rounded 'o'.",
+  "usage_notes": "A possessor or preceding noun identifies whose or what strength is meant. The surrounding action should make clear whether the capacity is bodily, material, or inward.",
+  "examples": [
+    {
+      "phi": "mia puro phelona.",
+      "translation": "I need strength."
+    }
+  ],
   "semantic_domains": {
-    "emotion": "Inner fortitude",
-    "physical": "Power capacity"
+    "emotion": "the inward capacity to continue under felt pressure",
+    "physical": "the capacity of a body or material to exert or withstand force"
   }
 }

@@ -8,16 +8,17 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Face / Countenance / Visage",
-  "description": "The front of the head where identity resides visibly—the landscape of expression where inner states surface. The face is the threshold between self and world, where we both present ourselves and perceive others. It holds the organs of sensing and speaking, making it the locus of communication and recognition.",
-  "sound_symbolism": "The word begins with 'm', the grounding nasal that suggests self-containment and identity—the most personal sound, made with closed lips like a face at rest. The vowel 'e' opens slightly, then 'no' moves outward with the nasal continuing but the vowel rounding, as if turning to meet another. Finally 'a' opens fully, the face presented to the world in its most receptive state.",
-  "grammatical_notes": "Used for the face as a whole region: 'mia menoa' (my face). Specific features have their own terms. Commonly used metaphorically for the aspect something presents: 'thena menoa' (the thing's face/aspect).",
-  "pillars": {
-    "secular-buddhist-philosophy": "The face reveals the ever-changing nature of mental states—no expression lasts, each moment bringing new configurations. Reading faces becomes practice in perceiving impermanence.",
-    "peace-linguistics-practices": "The face is where we read emotion and intention, where trust and understanding are built. Language that honors the face supports dignified communication."
-  },
+  "description": "Eyes, nose, and mouth meet in 'menoa', the front region of the head. Much human expression becomes visible there, but describing a face does not claim knowledge of the feeling or intention behind it.",
+  "articulatory_notes": "Close the lips for voiced 'm', let the sound pass through the nose, and release into middle-height front unrounded 'e'. Place the tongue tip against the backs of the upper teeth for dental 'n', keep the nasal resonance, and move into stressed middle-height back rounded 'o'. Release the contact, unround the lips, and lower the jaw into open central 'a'.",
+  "usage_notes": "For the front or outward side of an object, use its position or surface vocabulary rather than assuming the body-part metaphor.",
+  "examples": [
+    {
+      "phi": "mia menoa wirua nai.",
+      "translation": "My face is wet."
+    }
+  ],
   "semantic_domains": {
-    "communication": "Primary site of expressive communication",
-    "physical": "The front of the head bearing features"
+    "communication": "the region where much visible human expression appears",
+    "physical": "the front region of the head"
   }
 }

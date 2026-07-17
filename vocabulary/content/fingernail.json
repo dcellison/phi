@@ -8,15 +8,18 @@
     "ka"
   ],
   "pos": "noun",
-  "concept": "Fingernail / The Finger's Hard Tip",
-  "description": "The fingernail: the small hard shield at the finger's ('thumai') end. The last piece of the hand.",
-  "sound_symbolism": "'ti' the tip, 'pi' the smallness, 'ka' the hardness — the object built syllable by syllable.",
-  "grammatical_notes": "Noun: 'mia lo tipika kati.' (I cut my fingernails.) 'lopia tipika thiku nai.' (The child's fingernails are small.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "The nail grows without being asked — the body's quietest demonstration of impermanence and renewal, trimmed away and returning.",
-    "pre-industrial-wisdom": "Grooming was the original hygiene and the original tenderness — nails trimmed by a parent's careful hand."
-  },
+  "search_terms": [
+    "nail"
+  ],
+  "description": "At the end of a finger, 'tipika' is the hard plate that keeps growing beyond the fingertip. It is one part of 'thumai' (finger), not a second name for the whole digit.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into high-front unrounded 'i'. Close the lips for unvoiced 'p' and release into the same stressed vowel. Raise the back of the tongue to the soft palate for unvoiced 'k', then release into open central unrounded 'a'.",
+  "examples": [
+    {
+      "phi": "mia lo tipika kati.",
+      "translation": "I cut my fingernails."
+    }
+  ],
   "semantic_domains": {
-    "physical": "The finger's hard tip"
+    "physical": "the hard plate growing at the end of a finger"
   }
 }

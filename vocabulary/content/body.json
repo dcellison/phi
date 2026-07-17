@@ -8,16 +8,23 @@
     "ni"
   ],
   "pos": "noun",
-  "concept": "Body / The Lived Whole / The Living Frame",
-  "description": "The body: the whole living frame a person is, not a machine a person rides. The word every part-name has been waiting for — 'korua' (heart), 'rokai' (back), 'mokura' (belly) now have their whole. Distinct from 'lima' (alive, the quality) and 'lioru' (life, the phenomenon).",
-  "sound_symbolism": "'we' is unity, 'lo' the flow of aliveness through it, 'ni' the inward resonance of being inhabited. A whole, flowing, lived-in — the body as home rather than object.",
-  "grammatical_notes": "Noun: 'mia weloni therilu.' (My body rests.) 'weloni shurano nai.' (The body is safe.) Possession is bare juxtaposition: 'lopia weloni' (the child's body).",
+  "search_terms": [
+    "physical body"
+  ],
+  "description": "A 'weloni' is a being's physical whole. Its parts move and sense; the whole body can rest, hurt, or receive care. It remains the body when discussed after death. 'miona' (person) is a human participant, 'lioru' (life) the living condition, and 'lima' (alive) the corresponding quality.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then move forward and unround into middle-height front 'e'. Touch the tongue tip to the alveolar ridge for voiced 'l' and continue into stressed middle-height back rounded 'o'. Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and finish with high-front unrounded 'i'.",
+  "usage_notes": "Possessor-first order identifies the body being discussed, as in 'lopia weloni' (the child's body). The grammar states a relation rather than ownership of a person.",
+  "examples": [
+    {
+      "phi": "mia weloni therilu.",
+      "translation": "My body rests."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Mindfulness of the body is the first foundation; the practice was waiting for its noun. The word frames the body as inhabited whole, not owned machine.",
-    "pre-industrial-wisdom": "The body was the first tool, the first measure, and the first home — the wisdom traditions never spoke of it as separate from its person."
+    "secular-buddhist-philosophy": "Mindfulness can begin with this whole body before attention moves to one sensation, posture, or part."
   },
   "semantic_domains": {
-    "physical": "The whole living frame",
-    "wisdom": "The first foundation of mindfulness"
+    "physical": "the complete physical form of a living or once-living being",
+    "wisdom": "the whole body as an object of sustained contemplative attention"
   }
 }

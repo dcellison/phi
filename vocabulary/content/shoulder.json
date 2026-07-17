@@ -8,15 +8,15 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Shoulder / Bearing Joint / Upper Back",
-  "description": "The broad joint where arm meets torso, bearing loads and enabling the arm's full range. Shoulders define the body's width and carry its burdens—physical and metaphorical. They rise with tension, drop with release, and square with resolve. The shoulder is where responsibility is felt and burdens rest.",
-  "sound_symbolism": "The word bears weight. 'Ta' begins with firm contact, bone meeting structure. 'Lua' opens broadly, spreading the load. The arc from solid stop to wide opening mirrors what shoulders do: anchor and extend.",
-  "grammatical_notes": "Typically appears in pairs: 'wi talua' (two shoulders / both shoulders). Common in expressions of burden: 'talua wiru kolua.' (The shoulder carries the basket.) Distinct from rokai (back), though they adjoin.",
-  "pillars": {
-    "peace-linguistics-practices": "Shoulders express tension and ease non-verbally, communicating emotional state before words. Peace practice attends to shoulder release.",
-    "pre-industrial-wisdom": "Shoulders know the weight of water carried, wood gathered, children held. Traditional work lives in shoulder memory, passed through generations of labor."
-  },
+  "description": "Where an arm meets the torso, 'talua' is both the joint and its surrounding region. It adjoins the chest and back without covering either one. A physical load may rest on a shoulder; an abstract demand or responsibility is 'tupeka' (burden) rather than a hidden sense of the body-part word.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into open central unrounded 'a'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and raise the back of the tongue into stressed high-back rounded 'u'. Keep the final open central 'a' in its own syllable across the hiatus.",
+  "examples": [
+    {
+      "phi": "mia talua kema nai.",
+      "translation": "My shoulder is strong."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Upper torso joint bearing arms and loads"
+    "physical": "the joint and region where an arm meets the torso"
   }
 }

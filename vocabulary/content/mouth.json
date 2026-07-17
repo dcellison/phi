@@ -8,16 +8,23 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "Mouth / Speaking-Eating Gate / The Threshold of Exchange",
-  "description": "The noun naming the opening through which we eat, drink, breathe, and speak—the threshold between inner body and outer world. In Phi, mouth is understood as the gate of exchange, where nourishment enters and words leave, where breath flows both ways. This word names both the physical feature and the function of verbal expression, of taste, of the intimate boundary where self meets world.",
-  "sound_symbolism": "The word opens with 'phu', where the gentle bilabial fricative 'ph' enacts the lips themselves—soft boundaries that open and close, that shape breath into speech. The deep 'u' holds the cavity within. This flows through 'la', where the liquid carries the act of speaking or swallowing—words and food flowing through the opening. The final 'e' brings clarity, the precision of articulation, words formed and released. The arc traces mouth's function: soft boundary, flowing exchange, clear articulation.",
-  "grammatical_notes": "Functions as a noun referring to the mouth specifically: 'mia phulae' (my mouth). Often appears in expressions related to eating, speaking, taste, and expression. Distinguished from specific parts (lips, tongue, teeth) as the whole functional unit.",
+  "search_terms": [
+    "oral cavity"
+  ],
+  "description": "Food enters and speech leaves through 'phulae', the opening and cavity also used for drinking and breathing. 'lathoe' (tongue) and 'kulai' (tooth) name parts within it. Voice and speech remain actions or sounds rather than senses of the body-part noun.",
+  "articulatory_notes": "Bring the lips close without sealing them and let unvoiced air pass between them for 'ph', then raise the back of the tongue into high-back rounded 'u'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and open into stressed central unrounded 'a'. Move the tongue forward into middle-height unrounded 'e' for the separate final syllable.",
+  "sound_symbolism": "The word begins at the lips with 'ph', then moves the tongue through a lateral contact before finishing in an open vowel. The mouth performs much of the form it describes, which makes the sequence easy to remember.",
+  "examples": [
+    {
+      "phi": "mia phulae kurathi nai.",
+      "translation": "My mouth is dry."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Right speech emerges through the mouth; mindful eating enters through the mouth. 'Phulae' names the gate where these fundamental practices of consciousness occur.",
-    "peace-linguistics-practices": "What leaves our mouth shapes the world. 'Phulae' invites awareness of the mouth as threshold of responsibility—guardian of what we say."
+    "peace-linguistics-practices": "The mouth makes speech bodily action: intention matters, but so do the words and tone that actually leave it."
   },
   "semantic_domains": {
-    "communication": "the gate through which speech emerges",
-    "physical": "the body opening for eating and speaking"
+    "communication": "the body opening through which spoken language is articulated",
+    "physical": "the opening and cavity used for eating, drinking, breathing, and speech"
   }
 }

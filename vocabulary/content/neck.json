@@ -8,15 +8,16 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "Neck / Throat / Connecting Passage",
-  "description": "The narrow passage connecting head and body, carrying breath, voice, and blood between them. The neck is the body's isthmus: exposed and easy to harm, yet everything the head needs passes through it. It turns the head to see, bows in humility, and stretches toward what calls us.",
-  "sound_symbolism": "The word begins with 'n', the nasal that travels through the passage it names—sound resonating through the throat. The round 'o' suggests the column's circumference. Then 'lu' flows with liquid ease, breath and blood moving through. Finally 'e' lifts upward toward the head this passage serves.",
-  "grammatical_notes": "Refers to the anatomical neck region. For throat specifically (internal passage), may be modified. Metaphorically used for narrow connecting passages: 'thena nolue' (the thing's neck / narrow part).",
-  "pillars": {
-    "secular-buddhist-philosophy": "The neck carries the voice of right speech, the breath of mindfulness. Its vulnerability teaches care—we protect what is precious and exposed.",
-    "pre-industrial-wisdom": "The neck holds the head that holds knowledge, connecting embodied wisdom below to conscious thought above. Traditional healers attend to the neck as conduit."
-  },
+  "description": "Between head and shoulders, 'nolue' is the external body region that connects them. Breath and food pass through it, as do blood vessels and nerves, but the word covers the region rather than the internal throat.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and move into middle-height back rounded 'o'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and raise the back of the tongue into stressed high-back rounded 'u'. Move forward and unround into middle-height 'e' for the separate final syllable.",
+  "usage_notes": "A more exact account of an internal passage needs its own anatomical term or preserved source terminology rather than stretching this regional noun.",
+  "examples": [
+    {
+      "phi": "mia nolue sulae nai.",
+      "translation": "My neck is warm."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Connecting passage between head and body"
+    "physical": "the external region joining the head to the torso"
   }
 }

@@ -7,15 +7,16 @@
     "la"
   ],
   "pos": "noun",
-  "concept": "Hair / Strands / Flowing Growth",
-  "description": "The countless fine strands that grow from skin, crowning the head and adorning the body. Hair embodies multiplicity within unity—each strand individual yet part of one flowing whole. It marks time through growth, carries ancestral memory in its texture, and responds to emotion and environment alike.",
-  "sound_symbolism": "The word begins with 'wh' /ʍ/, the voiceless whisper that moves like air through countless fine strands—soft, continuous, barely there yet undeniably present. The high vowel 'i' captures the fineness of individual hairs, thin and precise. Then 'la' flows outward with liquid ease, suggesting the way hair cascades and moves, responding to breath and motion.",
-  "grammatical_notes": "Used for hair of any kind—head, body, or animal. May combine with location words for specificity: 'koma whila' (head hair). Functions as count or mass noun depending on context.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Each strand is impermanent—growing, falling, returning to earth—yet the process of growth continues. Hair teaches non-attachment through its constant renewal.",
-    "pre-industrial-wisdom": "Hair carries ancestral knowledge in its very texture and color, connecting individuals to lineages across time. Traditional cultures read health, age, and spiritual state in hair's condition."
-  },
+  "description": "One strand and the whole growth can both be 'whila', the fine hair extending from human or animal skin. 'koma whila' specifies head hair, and the registered compound 'nolika whila' (animal hair) is fur when that distinction matters.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for unvoiced 'wh', then move forward and unround into stressed high-front 'i'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and open into central unrounded 'a'.",
+  "usage_notes": "Context supplies the difference between one hair and hair as a mass. A preceding body-part noun identifies where it grows.",
+  "examples": [
+    {
+      "phi": "mia whila nuko nai.",
+      "translation": "My hair is black."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Fine body covering that grows and flows"
+    "physical": "fine strands growing from human or animal skin"
   }
 }

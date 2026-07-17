@@ -8,16 +8,21 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "Tongue / Tasting Muscle / Speech Organ",
-  "description": "The flexible muscle of the mouth that tastes, manipulates food, and shapes speech. The tongue is the body's most versatile member—sensing five flavors, moving food for chewing and swallowing, and sculpting breath into words. It bridges the nourishing and the communicative functions of the mouth.",
-  "sound_symbolism": "The word begins with 'l', the liquid consonant made with the tongue's tip touching—the organ naming itself through its action. The open 'a' creates space for movement. Then 'tho' /θo/ breathes with the dental fricative, tongue positioned as if preparing to speak. Finally 'e' perceives, the moment taste or speech reaches awareness.",
-  "grammatical_notes": "Noun, anatomy only: 'mia lathoe' (my tongue). In cooking contexts, the organ of tasting: 'lathoe thorima' patterns. Deliberately NOT a word for language — English's tongue-for-speech metaphor is not copied; a language is 'haluma'.",
+  "description": "The tongue is the muscular organ in the mouth used for taste, moving food, swallowing, and shaping speech. 'haluma' (language) keeps its own word, so 'lathoe' never copies the English homonym that calls a language a tongue.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and open into central unrounded 'a'. Extend the tongue tip slightly between the teeth for unvoiced 'th', then draw the tongue back into stressed middle-height rounded 'o'. Move forward and unround into middle-height 'e' for the separate final syllable.",
+  "sound_symbolism": "The tongue itself makes the lateral contact of 'l' and then moves forward for dental 'th'. That plainly felt journey inside the mouth gives the anatomical word its mnemonic.",
+  "usage_notes": "The noun remains anatomical in cooking, care, and speech discussion. The verbs 'thorima' (taste) and 'haolu' (speak) name actions performed with it.",
+  "examples": [
+    {
+      "phi": "lathoe nuora thorima.",
+      "translation": "The tongue tastes the food."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "The tongue shapes peaceful or violent speech—its physical work in forming words makes language embodied action.",
-    "pre-industrial-wisdom": "The tongue reads food for safety and nourishment, an ancient discernment that predates conscious analysis. Taste teaches through the body."
+    "peace-linguistics-practices": "The tongue's role in articulation keeps speech visibly embodied: words are acts a body performs, not thoughts that somehow arrive untouched."
   },
   "semantic_domains": {
-    "communication": "Primary organ of speech production",
-    "physical": "Flexible oral muscle"
+    "communication": "a speech organ that shapes breath into articulated sound",
+    "physical": "the muscular organ used for taste and oral movement"
   }
 }

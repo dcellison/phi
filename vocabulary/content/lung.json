@@ -8,15 +8,20 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Lung / Breathing Organ / Air Sac",
-  "description": "The paired organs within the chest that exchange air with blood, enabling breath and life. Lungs are the body's bellows—expanding to draw in the world, contracting to release what is no longer needed. They work ceaselessly without conscious direction, yet respond immediately to awareness when we choose to breathe deliberately.",
-  "sound_symbolism": "The word begins with 'phu' /ɸu/, pure breath itself—the bilabial fricative that is more air than sound, embodying what lungs process. The deep 'u' suggests the organs' depth within the chest. Then 'wa' flows with the breath's movement, air traveling through passages. Finally 'i' rises with vitality, oxygen reaching the blood.",
-  "grammatical_notes": "Typically appears in pairs: 'wi phuwai' (two lungs / both lungs). Closely associated with breath words and chest vocabulary. In contexts of breathing practice, may be referenced alongside pharoe (chest).",
+  "description": "Air and blood exchange gases in each 'phuwai', one of the paired organs in the chest. 'whunei' (breathe) states the act of respiration, and 'pharoe' (chest) is the region around the lungs.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the narrow opening for 'ph', then raise the back of the tongue into high-back rounded 'u'. Keep the lips rounded for voiced 'w' before opening into stressed central unrounded 'a'. Raise the tongue into high-front unrounded 'i' for the separate final syllable.",
+  "sound_symbolism": "The opening bilabial fricative is mostly breath, and the lips remain active as the word moves into 'w'. That audible stream of air gives 'phuwai' a direct mnemonic for the organ without assigning breath as a lexical meaning to either consonant.",
+  "usage_notes": "Medical discussion may need a side, region, finding, or source image in addition to this ordinary organ name.",
+  "examples": [
+    {
+      "phi": "wi phuwai mua pharoe nai.",
+      "translation": "Two lungs are in the chest."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Clean air is the lung's requirement—the breath organ connects us directly to atmospheric health. Caring for air is caring for lungs across all beings.",
-    "secular-buddhist-philosophy": "The lungs anchor breath meditation—their expansion and contraction is the primary object of mindfulness. Life enters and leaves through their work."
+    "secular-buddhist-philosophy": "Breath practice observes respiration as it occurs in a body; naming the lung keeps the supporting organ available without confusing anatomy with the experience of breath."
   },
   "semantic_domains": {
-    "physical": "Respiratory organs within the chest"
+    "physical": "one of the paired organs that exchange gases between air and blood"
   }
 }

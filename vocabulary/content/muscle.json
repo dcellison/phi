@@ -8,15 +8,16 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Muscle / Flesh-fiber / Movement Tissue",
-  "description": "The fibrous tissue that contracts to create movement, the body's engines of action. Muscles translate intention into motion—thought becoming gesture, will becoming work. They grow with use, atrophy with neglect, and hold patterns of both tension and skill in their fibers.",
-  "sound_symbolism": "The word works like muscle itself. 'Ku' begins with velar solidity, the dense fiber of tissue ready to act. 'Roi' rolls with powerful motion, contraction and release. The whole word feels taut and capable, built for effort.",
-  "grammatical_notes": "Refers to muscle tissue generally or specific muscles. 'sheloi kuroi' (many muscles). May be modified for location or function. Distinct from korua (heart) though the heart is muscular.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Body scanning meditation discovers muscles holding unconscious tension. Awareness brings release; muscles teach what the mind forgets to notice.",
-    "pre-industrial-wisdom": "Muscles carry skill memory—the potter's hands know clay, the archer's arms know the bow. Traditional craft lives in trained muscle, passed through apprenticeship."
-  },
+  "description": "Muscle is the contractile body tissue that produces movement and helps hold a body in position; the noun can also identify one muscle. 'puro' (strength) is a capacity for force, while 'kema' (strong) describes that capacity in context. The heart is muscular, but 'korua' specifies the organ when that is what the sentence means.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-back rounded 'u'. Make a tap or short trill at the alveolar ridge and continue into stressed middle-height back rounded 'o'. Raise the tongue into high-front unrounded 'i' for the separate final syllable.",
+  "usage_notes": "Context distinguishes muscle tissue in general from one named or located muscle. A preceding body-part noun narrows the location.",
+  "examples": [
+    {
+      "phi": "mia kuroi kema nai.",
+      "translation": "My muscles are strong."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Movement tissue creating action"
+    "physical": "contractile tissue that moves or stabilises a body"
   }
 }

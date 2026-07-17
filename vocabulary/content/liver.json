@@ -8,15 +8,16 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Liver / The Quiet Deep Organ",
-  "description": "The liver: the body's quiet worker, known to every tradition of medicine and every kitchen. Joins 'korua' (heart), 'kumoe' (stomach), and 'lorika' (blood) in the inner anatomy.",
-  "sound_symbolism": "Low 'lo', deep 'mu', open 'ra' — a heavy, quiet, unglamorous word for a heavy, quiet, essential organ.",
-  "grammatical_notes": "Noun: 'lomura mua weloni nai.' (The liver is in the body.) 'lomura lorika temoe.' (The liver tends the blood.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "The organs that work unseen and unthanked are the body's lesson in selfless function — service without announcement.",
-    "pre-industrial-wisdom": "Traditional medicine read health in the liver long before chemistry explained why it was right to."
-  },
+  "description": "High in the abdomen, 'lomura' is the large organ that processes nutrients and other substances carried by the blood and produces bile. 'nulomi' (guts) remains the broader collective word for abdominal inner workings.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l' and let air pass along its sides into middle-height back rounded 'o'. Close the lips for voiced 'm', carry the sound through the nose, and release into stressed high-back rounded 'u'. Make a tap or short trill at the alveolar ridge, then open into central unrounded 'a'.",
+  "usage_notes": "The noun is suitable for ordinary anatomical reference. Exact functions, findings, and measurements belong in the relevant medical account or source record.",
+  "examples": [
+    {
+      "phi": "lomura mua weloni nai.",
+      "translation": "The liver is in the body."
+    }
+  ],
   "semantic_domains": {
-    "physical": "The inner anatomy's quiet worker"
+    "physical": "a large abdominal organ involved in processing substances in the blood"
   }
 }

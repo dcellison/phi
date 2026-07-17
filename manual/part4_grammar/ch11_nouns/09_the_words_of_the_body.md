@@ -1,6 +1,6 @@
 # The words of the body
 
-Phi names the body thoroughly, and everything else the body needs, states, sensations, healing, follows from grammar you already have. This section walks the whole of it.
+A child can point to a knee. A caller describing pain cannot, so Phi needs the nouns. The base vocabulary provides a practical body map: broad regions, visible parts, and several common organs. It is not an anatomy atlas, and some finer landmarks still need a plain description or an exact source term beside the Phi account.
 
 ## From crown to sole
 
@@ -27,9 +27,11 @@ The trunk and limbs:
 | *pelio* | arm |
 | *manuwe* | hand |
 | *thumai* | finger |
+| *tipika* | fingernail |
 | *pharoe* | chest |
 | *mokura* | belly |
 | *rokai* | back |
+| *rokili* | spine |
 | *tolae* | leg |
 | *kunoa* | knee |
 | *paloi* | foot |
@@ -39,14 +41,28 @@ The living interior, and the whole:
 | Phi | Gloss |
 |-----|-------|
 | *korua* | heart |
+| *phuwai* | lung |
+| *lomura* | liver |
+| *kumoe* | stomach |
+| *nulomi* | guts |
 | *lorika* | blood |
 | *tholau* | bone |
+| *kuroi* | muscle |
 | *hisae* | skin |
-| *kumoe* | stomach |
-| *haoni* | voice |
 | *weloni* | body |
 
-The rest composes. The registry carries *whalo thumai* (the big finger, the thumb), *mokura kesho* (belly-middle, the navel), *nolika whila* (animal hair, fur), and *mirae phialu* (eye-water, tears). A breath is *whunei*'s event noun, a cut is *kati*'s, and possession is bare juxtaposition: *lopia weloni* (the child's body), *mia korua* (my heart).
+Four more nouns describe conditions or substances that speakers regularly locate in a body:
+
+| Phi | Gloss |
+|-----|-------|
+| *kipona* | pain |
+| *siwe* | sweat |
+| *sunai* | health |
+| *puro* | strength |
+
+The registry carries *whalo thumai* (the big finger, the thumb), *mokura kesho* (belly-middle, the navel), *nolika whila* (animal hair, fur), and *mirae phialu* (eye-water, tears). A breath is *whunei*'s event noun, a cut is *kati*'s, and possession is bare juxtaposition: *lopia weloni* (the child's body), *mia korua* (my heart).
+
+The map stops before specialist anatomy and does not yet give every ordinary landmark its own settled expression. A brain is not simply *koma* (head), and the internal throat is not *nolue* (neck). The Medical module adds words for care and clinical distinctions rather than pretending those two regions are the same; when exact anatomy matters, its source term remains beside the Phi description.
 
 ## States are worn
 

@@ -8,16 +8,20 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Health / Wholeness of Body / Sound Condition",
-  "description": "The state of being free from illness; the wholeness of body and mind functioning well. 'Sunai' names the condition of vitality—systems in harmony, life flowing freely.",
-  "sound_symbolism": "The word is easy in the mouth: a soft sibilant 's', a grounding nasal 'n', a bright final 'i'. Effortless articulation suits a word for a body working well.",
-  "grammatical_notes": "Functions as noun: 'mia sunai nelore.' (I preserve health.) The condition underlying 'towe' (well). Supported by 'nepha' (medicine).",
-  "pillars": {
-    "solarpunk-values": "Health as commons—wellbeing supported by community and environment.",
-    "secular-buddhist-philosophy": "Health as interdependent—body wellness connected to mind, community, and world."
-  },
+  "search_terms": [
+    "wellness"
+  ],
+  "description": "A person can live with disability or an ongoing condition and still have 'sunai', the condition of the functions and relations that sustain their life. Health takes its shape from the body and context being discussed. 'wolu' (healthy) describes that condition, while 'towe' (well) often reports how someone or a community is doing now.",
+  "articulatory_notes": "Bring the tongue blade close to the alveolar ridge and pass unvoiced air through its central groove for 's', then raise the back of the tongue into high-back rounded 'u'. Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and release into stressed open central 'a'. Raise the tongue into high-front unrounded 'i' for the final separate syllable.",
+  "usage_notes": "Medical vocabulary can classify a disease, symptom, finding, or course without replacing the broader noun. Exact health measures remain in their source records.",
+  "examples": [
+    {
+      "phi": "mia sunai nelore.",
+      "translation": "I preserve my health."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Body wholeness",
-    "physical": "Bodily condition"
+    "nature": "the condition of life-sustaining functions in an organism or living system",
+    "physical": "the condition of a living body in its relevant context"
   }
 }

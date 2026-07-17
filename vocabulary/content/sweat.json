@@ -7,16 +7,20 @@
     "we"
   ],
   "pos": "noun",
-  "concept": "Sweat / The Skin's Water / To Sweat",
-  "description": "Sweat: the skin's water in effort and heat — and the verb of producing it. The honest residue of 'riola' (labor).",
-  "sound_symbolism": "'si'+'we': the thinnest water word — skin-water in two light syllables.",
-  "grammatical_notes": "Noun: 'siwe mua menoa nai.' (Sweat is on the face.) It comes in labor: 'sui riola siwe shua.' (During labor, sweat comes.)",
-  "pillars": {
-    "solarpunk-values": "Work that produces sweat is work at human scale — the body's own renewable engine, honored rather than engineered away.",
-    "pre-industrial-wisdom": "Sweat was the measure of the day's work and the reason for the evening's washing — labor's plainest receipt."
-  },
+  "search_terms": [
+    "perspiration"
+  ],
+  "description": "Heat or exertion can bring 'siwe' to the skin, the watery fluid a body releases for cooling. The word is the substance; a clause can say that sweat comes, appears, or covers a body part without giving the noun an unmarked verb sense.",
+  "articulatory_notes": "Bring the tongue blade close to the alveolar ridge and send unvoiced air through its central groove for 's', then raise the tongue into stressed high-front unrounded 'i'. Round the lips and raise the back of the tongue for voiced 'w', then move forward and unround into middle-height front 'e'.",
+  "sound_symbolism": "The narrow airflow of 's' moves into a light high vowel, then the lips round briefly and open again. The compact, sliding motion gives the word a faint sense of moisture spreading across skin.",
+  "examples": [
+    {
+      "phi": "siwe mua menoa nai.",
+      "translation": "Sweat is on the face."
+    }
+  ],
   "semantic_domains": {
-    "activity": "Effort's residue",
-    "physical": "The skin's water"
+    "activity": "a bodily substance often produced during physical exertion",
+    "physical": "watery fluid released through the skin for cooling"
   }
 }

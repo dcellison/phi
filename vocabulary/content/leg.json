@@ -8,15 +8,18 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "Leg / Lower Limb / Walking Support",
-  "description": "The lower limbs that carry the body across the earth, providing both support and motion. Legs are the body's pillars and vehicles—rooted when standing, flowing when walking, powerful when leaping. They connect us physically to the ground and enable the journey through space.",
-  "sound_symbolism": "The word begins with 't', the firm dental stop that suggests planted stability—the leg's role as support. The open 'o' grounds and centers. Then 'la' flows with liquid ease, the leg in motion, striding forward. Finally 'e' extends outward, reaching toward the next step, the ongoing journey.",
-  "grammatical_notes": "Typically appears in pairs: 'wi tolae' (two legs / a pair of legs). Single leg specified when needed. Can extend metaphorically to supporting structures: 'thena tolae' (the thing's leg / support).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Walking meditation uses legs as vehicles for mindfulness. Each step becomes practice, legs serving as anchors to present-moment awareness.",
-    "pre-industrial-wisdom": "Legs carry knowledge of terrain—muscles remember paths walked, feet read the ground. Traditional life measured distance in walking time, honoring the body's pace."
-  },
+  "search_terms": [
+    "lower limb"
+  ],
+  "description": "A leg is the lower limb extending from the hip to the foot. It supports standing and carries bodily movement; 'kunoa' (knee) is its central joint and 'paloi' (foot) the part that meets the ground.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into middle-height back rounded 'o'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and open into stressed central unrounded 'a'. Move the tongue forward into middle-height unrounded 'e' for the separate final syllable.",
+  "examples": [
+    {
+      "phi": "mia tolae kema nai.",
+      "translation": "My legs are strong."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Lower limbs for support and locomotion"
+    "physical": "a lower limb used for support and movement"
   }
 }

@@ -8,16 +8,21 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Heart / Feeling-Center / The Pumping Seat",
-  "description": "The organ that pumps blood through the body, and metaphorically the center of emotion, courage, and core self. 'Korua' covers both the muscle that works from first beat to last and the 'heart' meant in talk of love, courage, and authenticity.",
-  "sound_symbolism": "The word opens with 'ko', where the clear stop 'k' creates the sound of heartbeat—the definite, rhythmic pulse that marks life. The rounded 'o' holds the chamber, the fullness of blood gathered. This flows through 'ru', where the rolling 'r' creates continuous pumping motion, while 'u' deepens into the body's core. The final 'a' opens completely, the heart's outpouring through arteries, life-blood released to serve the whole. The arc traces heartbeat: pulse gathered, pumping flow, life released.",
-  "grammatical_notes": "Functions as a noun for the physical organ or the metaphorical heart. Possessor comes first: 'mia korua' (my heart); predicative: 'mia korua pheno nai.' (My heart is full.) Forms compounds with feeling-states: 'korua thero' (heart-fire), the anger compound.",
+  "description": "With each pulse, 'korua' pumps blood through the body. Phi also uses the word for the felt centre of affection, courage, and inward disposition, a conventional bodily metaphor established in expressions such as 'korua thero' (heart-fire, anger). Context tells the organ from the emotional sense.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into middle-height back rounded 'o'. Make a tap or short trill at the alveolar ridge, then raise the back of the tongue into stressed high-back rounded 'u'. Keep final open central unrounded 'a' in its own syllable across the hiatus.",
+  "sound_symbolism": "The word places two brief tongue contacts among three open vowels: the velar release of 'k', then the tap or trill of 'r'. Those contacts can suggest a pulse heard through a more continuous flow, an association rather than a claim about either sound.",
+  "usage_notes": "Bodily context identifies the organ, while compounds and feeling clauses usually make the figurative sense plain.",
+  "examples": [
+    {
+      "phi": "mia korua pheno nai.",
+      "translation": "My heart is full."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Heart practices (metta, karuna, mudita, upekkha) are central to Buddhist cultivation. 'Korua' names the seat of these practices, where loving-kindness and compassion are cultivated.",
-    "peace-linguistics-practices": "Speaking from the heart—authentically, vulnerably, courageously—supports genuine dialogue. 'Korua' names the source of authentic communication."
+    "secular-buddhist-philosophy": "Phi's metta renderings place cultivated friendliness in 'korua'. The emotional sense therefore belongs to a practised expression rather than a decorative synonym."
   },
   "semantic_domains": {
-    "emotion": "the metaphorical seat of feeling and courage",
-    "physical": "the pumping organ of blood circulation"
+    "emotion": "the conventional bodily centre of affection, courage, and disposition",
+    "physical": "the muscular organ that pumps blood"
   }
 }

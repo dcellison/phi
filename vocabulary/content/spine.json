@@ -8,15 +8,22 @@
     "li"
   ],
   "pos": "noun",
-  "concept": "Spine / The Back's Line / The Column That Uprights Us",
-  "description": "The spine: the back's central line, the column standing ('whano') depends on. Completes the back's anatomy with 'rokai' (back) and 'tholau' (bone).",
-  "sound_symbolism": "Kin in sound to 'rokai' (back): 'ro' the back's own syllable, 'ki' the articulated line, 'li' running through — the column drawn downward in sound.",
-  "grammatical_notes": "Noun: 'shia rokili thenui nai.' (Their spine is straight.) In care: 'mia mua rokili kipona phaelo.' (I feel pain in my spine.)",
+  "search_terms": [
+    "backbone"
+  ],
+  "description": "Down the centre of the back runs 'rokili', the articulated bony column that supports the trunk and encloses the spinal cord. 'rokai' (back) is the region around it, while 'tholau' (bone) can identify one structural part.",
+  "articulatory_notes": "Make a tap or short trill with the tongue tip at the alveolar ridge, then draw the tongue back and round the lips for middle-height 'o'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed high-front unrounded 'i'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and finish with high-front 'i'.",
+  "sound_symbolism": "The shared opening 'ro' makes 'rokili' audibly close to 'rokai' (back). Phi does not treat that syllable as a productive anatomical element, but the resemblance gives the nested pair an honest mnemonic.",
+  "examples": [
+    {
+      "phi": "mia rokili tinako nai.",
+      "translation": "My spine is rigid."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Every sitting instruction begins with the spine: upright without rigidity. The meditation posture needed its axis named.",
-    "pre-industrial-wisdom": "The lifter's wisdom was spinal wisdom: bend the knees, keep the line — the body's engineering, taught by grandmothers."
+    "secular-buddhist-philosophy": "Meditation instructions can name the spine when upright posture matters, while leaving ease and rigidity to separate descriptions."
   },
   "semantic_domains": {
-    "physical": "The column of the back"
+    "physical": "the articulated bony column within the back"
   }
 }
