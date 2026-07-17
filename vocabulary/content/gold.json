@@ -8,16 +8,22 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Gold / Sun Metal / Precious Yellow",
-  "description": "A precious yellow metal that doesn't tarnish; the sun's metal. 'Solai' names what never fades—the eternal gleam of incorruptible beauty.",
-  "sound_symbolism": "The word glows solar. 'So' shines with warm radiance, sun captured. 'La' radiates outward in rays. Then 'i' rises to precious height.",
-  "grammatical_notes": "Functions as noun: 'solai' (gold). Associated with sun, permanence, value. Counterpart to 'shioli' (silver) as sun-metal to moon-metal.",
-  "pillars": {
-    "secular-buddhist-philosophy": "The precious within—gold as metaphor for buddha-nature, the incorruptible essence.",
-    "pre-industrial-wisdom": "Gold was sun-metal—incorruptible, eternal, the standard of lasting value across cultures."
-  },
+  "search_terms": [
+    "gold metal",
+    "gold element"
+  ],
+  "description": "The dense yellow metal called gold is 'solai'. It resists corrosion and can be hammered or drawn into very thin forms. Rarity, price, and ceremonial standing come from human arrangements rather than from the metal noun.",
+  "articulatory_notes": "A narrow tongue groove sends unvoiced 's' into rounded 'o'. Lateral 'l' releases stressed open 'a', followed by a clean hiatus into final high-front 'i'.",
+  "usage_notes": "One gold sample can take optional 'themo'. Purity and provenance describe the metal; a currency system must supply any monetary role.",
+  "examples": [
+    {
+      "phi": "solai keluo nai.",
+      "translation": "Gold is metal."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Solar beauty",
-    "nature": "Precious metal"
+    "aesthetic": "a yellow metal used where colour, reflection, or surface matters",
+    "creation": "a corrosion-resistant metal worked into thin forms and coatings",
+    "physical": "a dense corrosion-resistant metallic element"
   }
 }

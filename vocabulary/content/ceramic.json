@@ -1,0 +1,32 @@
+{
+  "word": "mueta",
+  "gloss": "ceramic",
+  "ipa": "/mu.ˈe̞.t̪ä/",
+  "syllables": [
+    "mu",
+    "e",
+    "ta"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "fired clay",
+    "ceramic material"
+  ],
+  "description": "A hard nonmetallic inorganic material shaped and hardened by high heat is 'mueta'. Familiar ceramics include pottery, tile, and porcelain, though the class extends beyond fired clay. Ordinary Phi keeps 'phielo' (glass) distinct; an exact technical source may draw the wider materials boundary differently.",
+  "articulatory_notes": "Closed lips release voiced nasal 'm' into high-back rounded 'u'. The voice crosses a clear hiatus into stressed front 'e'; dental 't' then closes behind the upper teeth and releases into final 'a'.",
+  "sound_symbolism": "The first two syllables repeat the hiatus of 'mueri' (clay). The ceramic word closes with dental 'ta' where the clay word turns into a rhotic, giving the related material a firmer audible finish.",
+  "usage_notes": "Ceramic can name the material or a bounded object, with optional 'themo' for the latter. Composition and firing identify the body; glaze and intended contact supply the next practical distinctions.",
+  "examples": [
+    {
+      "phi": "ha noru mueta nai.",
+      "translation": "This bowl is ceramic."
+    }
+  ],
+  "pillars": {
+    "pre-industrial-wisdom": "A fired pot keeps the history of its clay, wall thickness, drying, and kiln. The finished hardness does not erase the many soft judgements that came before it."
+  },
+  "semantic_domains": {
+    "creation": "an inorganic material hardened by firing or another high-heat process",
+    "physical": "a hard nonmetallic material whose properties follow from composition and firing"
+  }
+}

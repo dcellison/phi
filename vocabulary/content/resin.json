@@ -8,16 +8,25 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "Resin / Tree Sap / Amber Substance",
-  "description": "A sticky substance secreted by trees that hardens over time; nature's preservative. 'Runae' names what trees weep—the golden flow that becomes amber, preserving forever.",
-  "sound_symbolism": "The word seeps slowly. 'Ru' runs with thick viscosity, resin flowing. 'Na' settles with slow accumulation. Then 'e' opens to eventual hardening.",
-  "grammatical_notes": "Functions as a noun; a mass noun, so it rarely takes 'lo' (PL). Secreted by 'shiro' (tree). Used for varnish, incense, and preservation. Becomes amber over ages.",
+  "search_terms": [
+    "plant resin",
+    "hardened resin"
+  ],
+  "description": "A sticky plant secretion that can harden into a solid material is 'runae', together with the substance collected or processed from it. 'phunelo' (sap) moves through vascular tissue and is not another name for resin. Synthetic resins can use the same broad noun when their material class is what matters.",
+  "articulatory_notes": "A tap or brief trill carries the voice into high-back rounded 'u'. Dental nasal 'n' opens onto stressed 'a', followed by a clean hiatus into final front 'e'.",
+  "usage_notes": "A plant or preparation can identify the kind of 'runae' in use. Amber is fossilised resin with its own source identity.",
+  "examples": [
+    {
+      "phi": "runae shumeko nai.",
+      "translation": "Resin is sticky."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Amber's glow—fossilized resin capturing ancient life, warm translucent beauty.",
-    "pre-industrial-wisdom": "Resin preserved and sealed—varnishes, incenses, the tree's gift for protection."
+    "pre-industrial-wisdom": "Collected resin can seal a vessel, join a handle, or scent a room when heated. Species, season, and preparation decide what it will do."
   },
   "semantic_domains": {
-    "nature": "Tree secretion",
-    "temporal": "Preserving substance"
+    "creation": "a plant-derived or synthetic material used in coatings, adhesives, and formed objects",
+    "nature": "a secretion produced by particular plants",
+    "physical": "a sticky material that may harden into a solid"
   }
 }

@@ -5,7 +5,7 @@
 
 # The Compound Registry
 
-*66 canonized compounds.*
+*71 canonized compounds.*
 
 Canonized compound idioms are multi-word expressions whose meaning is a stable part of the language, not one-off improvisations. Each stays compositional because the composition itself carries the insight a coined label would hide.
 
@@ -122,3 +122,8 @@ Reach for these before composing fresh, and before proposing a new word: registr
 | `halemu womu` | remembering-house | museum | The institution named by what it does: a house where a community keeps its remembering. Canonized from News from Nowhere. |
 | `whelina sholei` | grass-gathering | hay-harvest, haymaking | The event noun of `sholei` (gather) over the standing grass; the year's communal work named as the act itself. Canonized from News from Nowhere. |
 | `lona lokue` | meeting-place | hall | A building's great room named by what happens in it: the guest-house receives, feeds, and bids farewell in its `lona lokue`. Canonized from News from Nowhere. |
+| `mueri kerou` | clay stone | brick | A brick is shaped clay hardened until it can take a stone's place in a wall. The compound already carries the material contrast at the centre of Babel. |
+| `shumeko muralo` | sticky material | glue; adhesive | Stickiness names the property that matters in ordinary joining. The particular adhesive supplies its chemistry, curing behaviour, and safe use. |
+| `thero muralo` | fire material | fuel | The material is fuel because it feeds a fire. The expression says what it does without praising the fuel or hiding its origin. |
+| `theru pelua` | thick paper | card; cardboard | Thick paper covers ordinary card and cardboard where the sheet form matters. Corrugation, lamination, and exact grade can be added when they change the object. |
+| `welotu keluo` | mixed metal | alloy | An alloy is metal made from a deliberate material mixture. Its material description supplies the constituents and their proportions. |

@@ -7,16 +7,22 @@
     "ma"
   ],
   "pos": "noun",
-  "concept": "Thread / Yarn / Spun Fiber",
-  "description": "A long thin strand of cotton, silk, or other fibers used in sewing or weaving. 'Sima' names the single strand—fiber spun into continuous line.",
-  "sound_symbolism": "The word spins fine. 'Si' draws out thin and precise, fiber extending. Then 'ma' grounds in material substance, thread ready for use.",
-  "grammatical_notes": "Functions as noun: 'sima' (the thread). The basic unit of textile—becomes 'wetha' (cloth) through weaving.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Connection as thread—relationships woven strand by strand into fabric of community.",
-    "pre-industrial-wisdom": "Spinning thread—the ancient skill of drawing fiber into continuous strand, foundation of all textile."
-  },
+  "search_terms": [
+    "yarn",
+    "sewing thread",
+    "spun strand"
+  ],
+  "description": "A fine continuous strand used in sewing, weaving, or related work is 'sima'. It may be spun or twisted from fibres, or made as a single filament. 'nira' (cord) is the more substantial line used for tying and lacing.",
+  "articulatory_notes": "A narrow tongue groove directs unvoiced 's' into stressed high-front 'i'. The lips then close for voiced nasal 'm' and release into final open 'a'.",
+  "usage_notes": "'themo' can bound one length of thread; thread as material needs none. Fibre, twist, thickness, and intended use can be added when the distinction matters.",
+  "examples": [
+    {
+      "phi": "mia roe sima wetha pina.",
+      "translation": "I sew the cloth with thread."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Spun fiber",
-    "wisdom": "Connection"
+    "creation": "a fine strand used to sew or assemble textile material",
+    "physical": "a continuous slender strand made from fibres or filament"
   }
 }

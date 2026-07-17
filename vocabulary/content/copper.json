@@ -8,16 +8,24 @@
     "na"
   ],
   "pos": "noun",
-  "concept": "Copper / Red Metal / Conducting Element",
-  "description": "A reddish-brown metal that conducts electricity and develops green patina; the first worked metal. 'Roena' names what glows warm—the friendly metal whose surface turns green with age.",
-  "sound_symbolism": "The word glows and ages. 'Ro' radiates with warm reddish glow, copper fresh. The vowel 'e' opens to air. Then 'na' settles into green patina over time.",
-  "grammatical_notes": "Functions as noun: 'roena' (copper). The first metal worked by humans; it conducts and develops green patina. Related to 'keluo' (metal) as its warm-hued kind.",
+  "search_terms": [
+    "copper metal",
+    "copper element"
+  ],
+  "description": "The reddish, readily worked metal called copper is 'roena'. It conducts heat and electricity well and often develops a green or blue patina in air and moisture. 'keluo' (metal) is the wider class. Brass and bronze are alloys with their own material identities.",
+  "articulatory_notes": "A tap or brief trill carries the voice into rounded 'o'. A clear hiatus opens onto stressed front 'e'; dental nasal 'n' then closes behind the upper teeth and releases into final 'a'.",
+  "usage_notes": "A speaker can bound one copper sample with optional 'themo'. When electrical or craft work depends on purity and treatment, its account supplies those details.",
+  "examples": [
+    {
+      "phi": "roena keluo nai.",
+      "translation": "Copper is metal."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Patina as beauty—copper's green aging celebrated in Art Nouveau architecture.",
-    "pre-industrial-wisdom": "Copper was first—humanity's first metal, shaped before smelting was known."
+    "pre-industrial-wisdom": "Copper hardens under repeated hammering and softens again when properly annealed. A worker learns that change through colour, sound, and the metal's answer under the tool."
   },
   "semantic_domains": {
-    "aesthetic": "Aging beauty",
-    "nature": "Elemental metal"
+    "creation": "a workable metal used for vessels, tools, ornament, and conductors",
+    "physical": "a conductive metallic element with characteristic colour and patina"
   }
 }

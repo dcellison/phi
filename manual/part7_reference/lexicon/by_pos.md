@@ -308,7 +308,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (555)
+## noun (560)
 
 | Word | Gloss |
 |---|---|
@@ -342,6 +342,7 @@
 | `kalora` | horse |
 | `kanomi` | pelvis |
 | `kanuro` | decision |
+| `kapenu` | concrete |
 | `karami` | authority |
 | `karume` | goat |
 | `katemu` | offcut |
@@ -465,6 +466,7 @@
 | `lurepa` | nutrient |
 | `luseri` | provenance |
 | `lushe` | hip |
+| `luwaro` | rubber |
 | `maewo` | threshold |
 | `manuwe` | hand |
 | `maruko` | bear |
@@ -516,6 +518,7 @@
 | `mothare` | premise |
 | `mueri` | clay |
 | `muero` | autumn |
+| `mueta` | ceramic |
 | `muhena` | dust |
 | `muila` | earth |
 | `mukowa` | cow |
@@ -655,6 +658,7 @@
 | `piloe` | spot |
 | `pilomu` | sycamore |
 | `piru` | trader |
+| `polenu` | plastic |
 | `ponalu` | size |
 | `ponu` | door |
 | `porewi` | side effect |
@@ -757,6 +761,7 @@
 | `temu` | guild |
 | `tenoa` | tool |
 | `terura` | system |
+| `teshilo` | steel |
 | `tesu` | iron |
 | `tewema` | partner |
 | `thaeso` | midday |

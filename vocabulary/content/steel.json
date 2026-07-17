@@ -1,0 +1,29 @@
+{
+  "word": "teshilo",
+  "gloss": "steel",
+  "ipa": "/t̪e̞.ˈʃi.lo̞/",
+  "syllables": [
+    "te",
+    "shi",
+    "lo"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "steel alloy",
+    "iron alloy"
+  ],
+  "description": "An iron-based alloy whose carbon and treatment give it a chosen set of properties is 'teshilo'. Other alloying elements may also be present. 'tesu' (iron) names the base element; an exact steel grade identifies the composition and processing that a particular use requires.",
+  "articulatory_notes": "Dental 't' closes behind the upper teeth and releases into front 'e'. The tongue blade narrows the channel for stressed unvoiced 'shi'; lateral 'l' then carries the voice into final rounded 'o'.",
+  "sound_symbolism": "The opening dental 'te' echoes 'tesu' (iron). The following 'shi.lo' lengthens that familiar start through a hiss and lateral release, so steel sounds related without sounding identical.",
+  "usage_notes": "Grades matter where performance matters. A construction or safety record can give the composition, treatment, coating, and applicable standard.",
+  "examples": [
+    {
+      "phi": "teshilo keluo nai.",
+      "translation": "Steel is metal."
+    }
+  ],
+  "semantic_domains": {
+    "creation": "an iron alloy selected and treated for made structures and tools",
+    "physical": "an iron-based alloy whose properties depend on composition and processing"
+  }
+}

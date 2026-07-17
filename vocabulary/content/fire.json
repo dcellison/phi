@@ -7,16 +7,25 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Fire / Living Flame / Warmth-Giver",
-  "description": "The noun naming the transformative element—the living presence of flame that warms, illuminates, and changes what it touches. In Phi, fire is understood not as mere combustion but as a relationship, a guest that must be tended, fed, and respected. It is the hearth's heart that gathers community, the cook's partner that transforms raw into nourishing, the light that extends day into darkness. This word honors fire as the oldest human technology, the gift that shaped our species, requiring reciprocal care.",
-  "sound_symbolism": "The word opens with 'the', where the dental fricative 'th' carries abstract warmth—breath meeting air, transformation happening at the boundary. The clear 'e' brings awareness to fire's presence. This flows into 'ro', where the rolling 'r' captures fire's continuous movement—flames never still, always dancing, always alive—while 'o' rounds into the fullness of fire's gift, the warmth that encompasses. Two syllables keep fire accessible, immediate, as fire itself is present and urgent.",
-  "grammatical_notes": "Functions as a noun referring to fire as element, specific flames, or the concept of fire. Example: 'mia thero temoe.' (I tend the fire.) Related to 'moeli' (hearth), the place where fire is kept, and 'pharelo' (cook).",
+  "search_terms": [
+    "flame",
+    "combustion"
+  ],
+  "description": "Sustained combustion, with its heat and often visible flame, is 'thero'. A fire may warm a room, cook food, alter material, or spread beyond control. 'thape' (burn) presents the process as an event; 'moeli' (hearth) is a place made to hold a tended fire.",
+  "articulatory_notes": "The tongue tip rests behind the upper teeth while unvoiced air passes for dental 'th', then releases into stressed front 'e'. A tap or brief trill turns the voice into final rounded 'o'.",
+  "usage_notes": "The noun can refer to one fire or to fire as a phenomenon. 'thero muralo' is registered for material used as fuel; the particular fuel and any safety limits can be named when they matter.",
+  "examples": [
+    {
+      "phi": "mia thero temoe.",
+      "translation": "I tend the fire."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Sustainable relationship with fire—from solar energy to rocket stoves—requires understanding fire as transformation rather than consumption. 'Thero' supports mindful energy use where fire's power is honored and directed wisely.",
-    "pre-industrial-wisdom": "Traditional cultures treated fire as a guest that must be tended, fed, and respected. 'Thero' keeps this sense of fire as a partner in a reciprocal relationship rather than a tool."
+    "pre-industrial-wisdom": "Fuel, air, weather, and attention change a tended fire. Reading its smoke and heat is practical knowledge, not a promise that the fire will remain tame."
   },
   "semantic_domains": {
-    "community": "hearth fire as center of gathering",
-    "nature": "elemental force of transformation"
+    "creation": "fire used deliberately to cook or transform material",
+    "nature": "combustion occurring in landscapes or weather-shaped conditions",
+    "physical": "a heat-producing combustion phenomenon"
   }
 }

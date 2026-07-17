@@ -8,16 +8,22 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Paper / Writing Surface / Receptive Sheet",
-  "description": "Thin material made from pulp, used for writing or printing; the surface that receives marks. 'Pelua' names what waits empty—potential before the first word.",
-  "sound_symbolism": "The word presents receptive. 'Pe' presents with flat surface, sheet ready. 'Lu' lies thin and level. Then 'a' opens to receive, paper waiting.",
-  "grammatical_notes": "Functions as noun: 'pelua' (the paper). Receives marks from 'phari' (pen) or 'phuri' (brush). Symbol of potential.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Emptiness as potential—blank paper holds infinite possibility before the first mark.",
-    "pre-industrial-wisdom": "Paper carried knowledge—the precious sheet that preserved thought across time and distance."
-  },
+  "search_terms": [
+    "paper sheet",
+    "writing paper"
+  ],
+  "description": "A thin sheet made chiefly from pressed fibres is 'pelua'. Paper can receive writing, wrap an object, filter material, or become part of a made structure. 'penuwa' (page) is one bounded surface in a written work, whatever material carries it.",
+  "articulatory_notes": "The lips close for unvoiced 'p' and release into front 'e'. Lateral 'l' begins stressed rounded 'u', followed by a clear hiatus into final open 'a'.",
+  "usage_notes": "One sheet can take optional 'themo'; continuous paper needs none. Fibre source and coating often distinguish ordinary paper from structural or archival material.",
+  "examples": [
+    {
+      "phi": "mia roe phari pelua thekiro.",
+      "translation": "I write on the paper with a pen."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Writing surface",
-    "wisdom": "Receptive potential"
+    "communication": "a sheet material commonly used to carry writing and marks",
+    "creation": "pressed fibre formed into sheets for writing, wrapping, filtering, or construction",
+    "physical": "a thin fibrous sheet material"
   }
 }

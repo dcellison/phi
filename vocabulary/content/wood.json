@@ -8,16 +8,26 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Wood / Timber / Tree Material",
-  "description": "The hard fibrous material forming trunk and branches of trees; living material transformed for building. 'Wolea' names what trees give—the warm, working material of shelter and craft.",
-  "sound_symbolism": "The word warms with life. 'Wo' opens with organic warmth, tree essence. 'Le' lives with cellular structure. Then 'a' opens to grain and growth rings.",
-  "grammatical_notes": "Functions as noun: 'wolea' (the wood). Material from trees for building, carving, burning. Related to 'shiro' (tree), its living source.",
+  "search_terms": [
+    "timber",
+    "lumber",
+    "woody material"
+  ],
+  "description": "The firm fibrous material in the stems and roots of trees and other woody plants is 'wolea'. The word also covers that material after cutting and drying. 'shiro' (tree) names the living growth form, while wood names the substance a sentence handles as material.",
+  "articulatory_notes": "Rounded lips carry voiced 'w' directly into back 'o'. Lateral 'l' opens onto stressed front 'e', followed by a clear hiatus into final open 'a'.",
+  "usage_notes": "Species, grain, moisture, and treatment describe the board in hand. Provenance or structural grade can join the account when the work depends on them.",
+  "examples": [
+    {
+      "phi": "wolea shaemu muralo nai.",
+      "translation": "Wood is organic material."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Renewable resource—sustainably harvested wood as carbon-storing building material.",
-    "pre-industrial-wisdom": "Wood built civilization—homes, tools, ships, the renewable material of human shelter."
+    "pre-industrial-wisdom": "A board still answers to the tree's grain and the water it has lost. Sawing, joining, and repair go better when the worker reads those traces instead of treating every board as interchangeable."
   },
   "semantic_domains": {
-    "creation": "Building resource",
-    "nature": "Tree material"
+    "creation": "plant material worked into structures and objects or remade as fuel and paper",
+    "nature": "fibrous structural tissue produced by woody plants",
+    "physical": "a firm cellular material whose behaviour follows grain and moisture"
   }
 }

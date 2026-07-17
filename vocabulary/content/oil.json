@@ -8,16 +8,22 @@
     "si"
   ],
   "pos": "noun",
-  "concept": "Oil / Liquid Fat / Smooth Essence",
-  "description": "A viscous liquid extracted from plants, animals, or minerals; what smooths and nourishes. 'Loesi' names what flows rich—the essence that eases friction and feeds flame.",
-  "sound_symbolism": "The word flows slick. 'Lo' opens with liquid release, oil pouring. The vowel 'e' eases smoothly. Then 'si' slicks with sliding finish.",
-  "grammatical_notes": "Noun: 'loesi' (the oil) - cooking, lighting, lubricating, healing. Applied through 'roe' (with) and the deed's own verb.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Smooth as oil—reducing friction, easing resistance, the quality of non-contention.",
-    "pre-industrial-wisdom": "Oil lit the darkness—lamp oil extending productive hours, cooking oil nourishing."
-  },
+  "search_terms": [
+    "oily liquid",
+    "plant oil",
+    "mineral oil"
+  ],
+  "description": "A water-repelling substance with the characteristic flow and slippery feel of oil is 'loesi'. Some oils thicken or set in cool conditions; their source may be plant or animal, mineral or synthetic. 'larewu' (liquid) is the wider phase word. Only the particular oil tells whether it belongs near food or machinery, a lamp or bodily care.",
+  "articulatory_notes": "Lateral 'l' releases into rounded 'o'. The voice crosses a clear hiatus into stressed front 'e'; a narrow tongue groove then directs unvoiced 's' into final high-front 'i'.",
+  "usage_notes": "Source and intended use can come before 'loesi'. A product label supplies formulation or safety information when the broad noun cannot.",
+  "examples": [
+    {
+      "phi": "ha loesi larewu nai.",
+      "translation": "This oil is liquid."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Smoothing substance",
-    "nature": "Liquid essence"
+    "creation": "a material used in food, lamps, and lubrication",
+    "physical": "a water-repelling substance with characteristic flow and texture"
   }
 }

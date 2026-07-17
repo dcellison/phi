@@ -7,16 +7,24 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Leather / Tanned Hide / Durable Skin",
-  "description": "Animal skin preserved by tanning; the transformed hide that endures. 'Kori' names what death becomes—skin made lasting through craft.",
-  "sound_symbolism": "The word endures tough. 'Ko' holds complete with lasting strength. Then 'ri' runs continuous, leather enduring through time.",
-  "grammatical_notes": "Functions as noun: 'kori' (the leather). Preserved animal skin. For shoes, bags, bindings, protection.",
+  "search_terms": [
+    "tanned hide",
+    "hide material"
+  ],
+  "description": "Animal skin preserved and altered for use as a material is 'kori'. Tanning and other treatments change its resistance, flexibility, surface, and smell. 'hisae' (skin) names the body covering; leather names what that covering becomes through material work.",
+  "articulatory_notes": "The back of the tongue closes against the soft palate for unvoiced 'k' and releases into stressed rounded 'o'. A tap or brief trill then turns the voice into high-front 'i'.",
+  "usage_notes": "The animal and tanning method identify leather's source. Finish and care describe the object in hand.",
+  "examples": [
+    {
+      "phi": "ha palowe kori nai.",
+      "translation": "This shoe is leather."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Transformation of death—leather as reminder that all things change form, nothing wasted.",
-    "pre-industrial-wisdom": "Leather preserved life—shoes, armor, containers, the durable second skin."
+    "peace-linguistics-practices": "A leather shoe began as an animal's skin. Keeping that source in the definition lets a material account discuss use, care, and harm without allowing the finished surface to hide its origin."
   },
   "semantic_domains": {
-    "creation": "Durable covering",
-    "nature": "Animal material"
+    "creation": "preserved animal skin worked into durable flexible objects",
+    "physical": "animal skin altered by tanning or another preservation process"
   }
 }

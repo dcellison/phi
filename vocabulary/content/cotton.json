@@ -8,16 +8,25 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "Cotton / Plant Fiber / Soft White",
-  "description": "A soft white fibrous substance surrounding seeds of the cotton plant; the breath-able cloth fiber. 'Sophae' names what plants give for covering—soft, light, kind to skin.",
-  "sound_symbolism": "The word softens airy. 'So' touches with gentle softness, fiber yielding. 'Pha' /ɸa/ breathes with airy lightness. Then 'e' opens to comfortable coolness.",
-  "grammatical_notes": "Functions as noun: 'sophae wetha' (cotton cloth). Plant fiber, lighter than 'mophi' (wool). Used for warm-weather clothing.",
+  "search_terms": [
+    "cotton fibre",
+    "cotton fiber"
+  ],
+  "description": "The soft seed fibre of cotton plants, whether gathered loose or prepared for textile work, is 'sophae'. Cotton varies in colour, staple length, strength, and treatment. 'linua' (fiber) is the wider material form; 'sophae' keeps the plant source in view.",
+  "articulatory_notes": "A narrow tongue groove sends unvoiced 's' into rounded 'o'. Unvoiced air then passes between nearly closed lips into stressed 'a', followed by a clean hiatus into final front 'e'.",
+  "usage_notes": "The phrase 'sophae wetha' (cotton cloth) puts the fibre source first. Provenance or processing can join the account when either changes the claim.",
+  "examples": [
+    {
+      "phi": "sophae linua nai.",
+      "translation": "Cotton is fibre."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Renewable fiber—organically grown cotton as sustainable textile source.",
-    "pre-industrial-wisdom": "Cotton clothed civilizations—the plant fiber of light covering, breathable comfort."
+    "pre-industrial-wisdom": "Fibre length, moisture, seed removal, and twist change how cotton behaves under the hand. Spinning begins with those particulars, not with the finished cloth imagined in advance."
   },
   "semantic_domains": {
-    "nature": "Plant fiber",
-    "physical": "Soft covering"
+    "creation": "a plant fibre spun or assembled into textile material",
+    "nature": "seed hairs produced by cotton plants",
+    "physical": "a soft cellulose fibre with variable length and treatment"
   }
 }

@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1255 words.*
+*1260 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -86,6 +86,7 @@
 | `kanu` | choose | /ˈkä.n̪u/ | verb |
 | `kanuro` | decision | /kä.ˈn̪u.ro̞/ | noun |
 | `kanuwa` | authorize | /kä.ˈn̪u.wä/ | verb |
+| `kapenu` | concrete | /kä.ˈpe̞.n̪u/ | noun |
 | `kapura` | shout | /kä.ˈpu.rä/ | verb |
 | `karami` | authority | /kä.ˈrä.mi/ | noun |
 | `karume` | goat | /kä.ˈru.me̞/ | noun |
@@ -316,6 +317,7 @@
 | `luseri` | provenance | /lu.ˈse̞.ri/ | noun |
 | `lushe` | hip | /ˈlu.ʃe̞/ | noun |
 | `luwae` | graceful | /lu.ˈwä.e̞/ | adjective |
+| `luwaro` | rubber | /lu.ˈwä.ro̞/ | noun |
 | `luwi` | flexible | /ˈlu.wi/ | adjective |
 | `ma` | NEG | /ˈmä/ | particle |
 | `maeli` | quiet | /mä.ˈe̞.li/ | adjective |
@@ -418,6 +420,7 @@
 | `mueli` | plain (unadorned) | /mu.ˈe̞.li/ | adjective |
 | `mueri` | clay | /mu.ˈe̞.ri/ | noun |
 | `muero` | autumn | /mu.ˈe̞.ro̞/ | noun |
+| `mueta` | ceramic | /mu.ˈe̞.t̪ä/ | noun |
 | `muhena` | dust | /mu.ˈhe̞.n̪ä/ | noun |
 | `muholi` | dig | /mu.ˈho̞.li/ | verb |
 | `muila` | earth | /mu.ˈi.lä/ | noun |
@@ -709,6 +712,7 @@
 | `pisha` | split | /ˈpi.ʃä/ | verb |
 | `po` | POT | /ˈpo̞/ | particle |
 | `pokera` | competent | /po̞.ˈke̞.rä/ | adjective |
+| `polenu` | plastic | /po̞.ˈle̞.n̪u/ | noun |
 | `ponalu` | size | /po̞.ˈn̪ä.lu/ | noun |
 | `ponu` | door | /ˈpo̞.n̪u/ | noun |
 | `porewi` | side effect | /po̞.ˈre̞.wi/ | noun |
@@ -980,6 +984,7 @@
 | `teo` | watch out | /ˈt̪e̞.o̞/ | interjection |
 | `teru` | process | /ˈt̪e̞.ru/ | verb |
 | `terura` | system | /t̪e̞.ˈru.rä/ | noun |
+| `teshilo` | steel | /t̪e̞.ˈʃi.lo̞/ | noun |
 | `teshori` | quarantine | /t̪e̞.ˈʃo̞.ri/ | verb |
 | `tesu` | iron | /ˈt̪e̞.su/ | noun |
 | `tewema` | partner | /t̪e̞.ˈwe̞.mä/ | noun |

@@ -8,15 +8,26 @@
     "sa"
   ],
   "pos": "noun",
-  "concept": "Salt / The Sea's Crystal",
-  "description": "Salt: the seasoning and the preserver. Built on the 'mori' of 'moriwhe' (sea), because that is where it comes from: what the water leaves when it goes. Covers table salt and the salt of preservation alike.",
-  "sound_symbolism": "The sea-syllables 'mo'-'ri' end in crisp 's' plus open 'a': the wide water reduced to a small sharp taste.",
-  "grammatical_notes": "Noun: 'nuora morisa phelona.' (The food requires salt.) 'moriwhe morisa phelu.' (The sea holds salt.)",
+  "search_terms": [
+    "common salt",
+    "sodium chloride",
+    "sea salt"
+  ],
+  "description": "The familiar mineral substance sodium chloride is 'morisa', whether gathered from seawater, brine, or rock deposits. It seasons and preserves food and also enters many material processes. Chemistry uses salt for a wider class of compounds, so an exact chemical account keeps the particular substance visible.",
+  "articulatory_notes": "The lips close for voiced nasal 'm' and open into rounded 'o'. A tap or brief trill releases stressed high-front 'i'; a narrow tongue groove then sends unvoiced 's' into final open 'a'.",
+  "usage_notes": "Everyday salt needs no classifier. Source, preparation, or intended use can precede 'morisa'; a chemical or health account supplies its narrower guidance.",
+  "examples": [
+    {
+      "phi": "nuora morisa phelona.",
+      "translation": "The food requires salt."
+    }
+  ],
   "pillars": {
-    "pre-industrial-wisdom": "Before cold storage, salt was how the harvest crossed the winter. Roads, trades, and whole towns existed because of it."
+    "pre-industrial-wisdom": "Salt once had to be read through brine, weather, storage, and the food it was meant to keep. Its ordinary white grains conceal a great deal of place-specific work."
   },
   "semantic_domains": {
-    "nature": "What the sea leaves behind",
-    "physical": "The sharp taste that preserves"
+    "creation": "a mineral substance used in food preservation and other material processes",
+    "nature": "sodium chloride occurring in seawater, brine, and mineral deposits",
+    "physical": "a crystalline ionic substance familiar as common salt"
   }
 }

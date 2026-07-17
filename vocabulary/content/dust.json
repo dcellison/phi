@@ -8,15 +8,21 @@
     "na"
   ],
   "pos": "noun",
-  "concept": "Dust / Earth Gone Fine",
-  "description": "Dust: earth ground fine enough to ride the air. Third member of the 'mu-' earth family after 'muila' and 'muphia', and the drought's version of what mud is to rain. On the road, on the shelf, in the light through a window.",
-  "sound_symbolism": "'mu' keeps the earth-family signature and 'he' is the dry whisper it moves with. Nothing in the word presses down.",
-  "grammatical_notes": "Noun: 'muhena rihe.' (The dust rises.) 'howeli muhena phelu.' (The wind holds dust.) Distinct from 'hesura' (ash), which came through fire.",
-  "pillars": {
-    "pre-industrial-wisdom": "Dust was read like an instrument: a traveler's approach on the road, a dry season's warning in the field, a house's account of time passing."
-  },
+  "search_terms": [
+    "fine particles",
+    "settled dust"
+  ],
+  "description": "Fine dry particles lying on a surface or moving through air are 'muhena'. Soil, fibres, wear, and combustion can all contribute to it. 'hesura' (ash) identifies residue specifically from burning; dust identifies the loose particulate condition.",
+  "articulatory_notes": "Voiced nasal 'm' begins at closed lips and opens into rounded high-back 'u'. Unvoiced 'h' crosses the open glottis into stressed front 'e'; dental nasal 'n' finishes behind the upper teeth with open 'a'.",
+  "usage_notes": "As a mass, dust needs no classifier. A source noun identifies wood dust, road dust, or another particulate material. A prepared powder can name both its substance and the grinding that produced it.",
+  "examples": [
+    {
+      "phi": "muhena rihe.",
+      "translation": "The dust rises."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Earth riding the air",
-    "physical": "The dry fine remainder"
+    "nature": "fine particles carried or deposited by air and ordinary environmental processes",
+    "physical": "loose dry particulate matter"
   }
 }

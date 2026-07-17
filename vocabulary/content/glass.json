@@ -8,16 +8,21 @@
     "lo"
   ],
   "pos": "noun",
-  "concept": "Glass / Transparent Solid / See-Through Material",
-  "description": "A hard brittle transparent substance made by fusing sand; what reveals while protecting. 'Phielo' names what shows through—solid yet invisible, barrier yet window.",
-  "sound_symbolism": "The word breathes transparent. 'Phi' /ɸi/ whispers with fragile delicacy, glass thin. The vowel 'e' opens to light. Then 'lo' looks through to the other side.",
-  "grammatical_notes": "Functions as noun: 'phielo' (glass). For windows ('wira'), vessels, lenses. Transforms sand ('kirua') through fire.",
-  "pillars": {
-    "solarpunk-values": "Infinitely recyclable—glass melts and reforms without degradation, truly circular material.",
-    "art-nouveau-aesthetics": "Glass as art—stained windows, flowing forms, Tiffany and Lalique's flowing designs."
-  },
+  "search_terms": [
+    "glass material",
+    "amorphous solid"
+  ],
+  "description": "The hard amorphous material used in windows, vessels, and lenses is 'phielo'. Most familiar glass is silica-based and formed from a melt, but it may be clear, coloured, translucent, or opaque. 'kirae' (crystal) has long-range internal order that glass lacks.",
+  "articulatory_notes": "Unvoiced air passes between nearly closed lips for 'ph' and moves into high-front 'i'. The voice crosses a clear hiatus into stressed front 'e'; lateral 'l' then releases into final rounded 'o'.",
+  "usage_notes": "'themo' may classify one glass object; glass as a substance needs no classifier. Composition and treatment distinguish window glass from vessel, optical, or safety material.",
+  "examples": [
+    {
+      "phi": "wira phielo nai.",
+      "translation": "The window is glass."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Light-bearer",
-    "creation": "Transparent material"
+    "creation": "a manufactured material shaped into windows, vessels, and optical objects",
+    "physical": "a hard amorphous solid with variable transmission of light"
   }
 }

@@ -7,16 +7,22 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Cord / Thin Rope / Binding String",
-  "description": "Thin rope or thick string; flexible line for tying or binding. 'Nira' names what ties near—the medium-weight line for everyday binding.",
-  "sound_symbolism": "The word binds near. 'Ni' draws close in binding, cord tightening. Then 'ra' reaches along the length, connection extending.",
-  "grammatical_notes": "Functions as noun: 'nira' (the cord). Between 'sima' (thread) and 'suro' (rope) in thickness. For tying packages, lacing, general binding.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Ties that bind gently—cord connects without restricting, holds without trapping.",
-    "pre-industrial-wisdom": "Cord held life together—tying bundles, securing loads, the humble line of daily work."
-  },
+  "search_terms": [
+    "lacing cord",
+    "thin rope",
+    "binding line"
+  ],
+  "description": "A flexible line made for tying, lacing, or carrying modest tension is 'nira'. It commonly consists of twisted, braided, or sheathed strands. 'sima' (thread) handles finer textile work, while 'suro' (rope) is made for more substantial pulling or support.",
+  "articulatory_notes": "Dental nasal 'n' begins behind the upper teeth and opens into stressed high-front 'i'. A tap or brief trill releases the final open 'a'.",
+  "usage_notes": "The boundary between cord and rope follows construction and use as well as thickness. A bounded length can take optional object classifier 'themo'.",
+  "examples": [
+    {
+      "phi": "mia roe nira molu tiwa.",
+      "translation": "I tie the container with cord."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Binding line",
-    "physical": "Flexible connection"
+    "creation": "a flexible line made for tying, lacing, and light support",
+    "physical": "several strands held together as a flexible line"
   }
 }

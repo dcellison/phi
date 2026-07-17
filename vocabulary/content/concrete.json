@@ -1,0 +1,31 @@
+{
+  "word": "kapenu",
+  "gloss": "concrete",
+  "ipa": "/kä.ˈpe̞.n̪u/",
+  "syllables": [
+    "ka",
+    "pe",
+    "nu"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "concrete material",
+    "building concrete"
+  ],
+  "description": "The composite building material in which aggregate is held by a binder that hardens is 'kapenu'. Cement is one possible binder rather than another name for the whole material. A construction record supplies the mixture and curing history, along with any reinforcement or rating that the work depends on.",
+  "articulatory_notes": "A soft-palate closure releases unvoiced 'k' into open 'a'. The lips meet for stressed unvoiced 'p' and open into front 'e'; dental nasal 'n' finishes with rounded high-back 'u'.",
+  "usage_notes": "Concrete needs no classifier as poured material. A concrete object may be counted with optional 'themo'; an engineering account can then identify its age, condition, and test results.",
+  "examples": [
+    {
+      "phi": "ha moru kapenu nai.",
+      "translation": "This wall is concrete."
+    }
+  ],
+  "pillars": {
+    "solarpunk-values": "A concrete wall begins with quarried aggregate, binder, water, and labour brought from elsewhere. That history matters when people decide whether to repair it, reuse it, or replace it."
+  },
+  "semantic_domains": {
+    "creation": "a composite material placed and hardened in buildings and infrastructure",
+    "physical": "aggregate held within a hardened binder"
+  }
+}

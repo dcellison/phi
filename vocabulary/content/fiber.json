@@ -8,16 +8,23 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Fiber / Thread Material / Strand Element",
-  "description": "A thread or filament from which textile is made; the basic unit of woven material. 'Linua' names what becomes cloth—the strand before spinning, the element of weaving.",
-  "sound_symbolism": "The word lines thin. 'Li' draws with linear extension, fiber lengthening. 'Nu' binds with structural integrity. Then 'a' opens to possibility of cloth.",
-  "grammatical_notes": "Functions as noun: 'linua' (the fiber). Raw material that becomes 'sima' (thread) through spinning. Plant or animal origin.",
-  "pillars": {
-    "solarpunk-values": "Natural fibers—renewable, biodegradable, the sustainable alternative to synthetic.",
-    "pre-industrial-wisdom": "Fiber sustained covering—cotton, wool, silk, hemp, the raw material of all textile."
-  },
+  "search_terms": [
+    "fibre",
+    "material fibre",
+    "filament"
+  ],
+  "description": "A long slender unit of natural or manufactured material is 'linua', especially one that can be spun, twisted, felted, or bonded with others. Fibres may come from plants, animals, minerals, or synthetic production. 'sima' (thread) is a continuous strand made from fibres or a filament.",
+  "articulatory_notes": "Lateral 'l' releases into high-front 'i'. Dental nasal 'n' begins the stressed syllable behind the upper teeth and opens into rounded 'u', followed by a clean hiatus into final 'a'.",
+  "sound_symbolism": "The opening 'li' is shared with 'liru' (fabric) and 'lina' (instrument string). Those related forms sit close in the ear, then each leaves the shared opening by a different route.",
+  "usage_notes": "One fibre can be counted with optional 'themo'. Its material and length help identify it; a practical account can add treatment or hazard when relevant.",
+  "examples": [
+    {
+      "phi": "lo linua mua sima nai.",
+      "translation": "Fibres are in the thread."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Textile source",
-    "nature": "Raw material"
+    "creation": "a slender material unit used in thread, fabric, paper, and composite materials",
+    "physical": "a long thin natural or manufactured material element"
   }
 }
