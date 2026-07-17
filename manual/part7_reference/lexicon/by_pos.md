@@ -8,7 +8,7 @@
 *Content words appear under their listed lexical class. A rule-supplied event or quality noun does not add another class to the entry. Function words are grouped by grammatical class.*
 
 
-## adjective (205)
+## adjective (206)
 
 | Word | Gloss |
 |---|---|
@@ -162,6 +162,7 @@
 | `sukaro` | hot |
 | `sulae` | warm |
 | `tawimo` | foolish |
+| `tekari` | straight |
 | `teku` | short |
 | `telua` | accurate |
 | `thaemo` | precious |
@@ -301,7 +302,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (529)
+## noun (530)
 
 | Word | Gloss |
 |---|---|
@@ -561,6 +562,7 @@
 | `paloi` | foot |
 | `palowe` | shoe |
 | `palu` | plate |
+| `pamolu` | weight |
 | `panuri` | resource |
 | `patoku` | solid |
 | `pelaku` | severity |
@@ -939,7 +941,7 @@
 | `theula` | UNIV |
 | `wheli` | ANY |
 
-## verb (352)
+## verb (353)
 
 | Word | Gloss |
 |---|---|
@@ -1295,6 +1297,7 @@
 | `wishe` | swim |
 | `wisola` | exchange |
 | `woraka` | appreciate |
+| `wosanu` | absorb |
 
 ## vocative (1)
 

@@ -47,7 +47,7 @@ class ContentVocabularyDecisionTests(unittest.TestCase):
         self.assertTrue(any("implementation words do not match" in error for error in errors))
 
     def test_unmarked_review_row_is_rejected(self):
-        coverage = self.coverage.replace("CV-MAT-01", "UNTRACKED", 1)
+        coverage = self.coverage.replace("CV-MAT-03", "UNTRACKED", 1)
         errors = decisions.validate(self.data, coverage_text=coverage)
         self.assertTrue(any("unregistered REVIEW or DEFERRED row" in error for error in errors))
 

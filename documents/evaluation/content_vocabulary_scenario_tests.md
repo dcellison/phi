@@ -402,3 +402,136 @@ All three belong in base vocabulary. The need begins at a shelf or worktable and
 No general base noun for dimension is needed. `mirela` (state) and `masue` (measure) can frame analysis at a broader level, while the specific noun tells the listener what is at issue.
 
 Each form is phonologically legal and free of edit-distance-one neighbours; the phonetic audit flags no existing entry at its review threshold. They also feel different in the mouth. `ponalu` moves from a lip closure through dental contact to a lateral. `waleru` stays voiced while the lips and tongue change position. `hirawo` begins in open breath and crosses the vowel space.
+
+## 5. The towel, the baskets, and the path after rain
+
+A towel hangs beside the basin after rain has crossed the garden. Two baskets must be compared before anyone lifts them, and the path between the house and gate has a shape as well as a destination. These small jobs test twelve proposed English labels without assuming that Phi owes each one a root.
+
+### What water does
+
+Phi already follows water across a boundary, through a material, and into a resulting condition:
+
+```
+phialu muo muila koema.
+water INTO earth enter.
+(Water enters the earth.)
+
+phialu thue wetha po roke.
+water THROUGH cloth POT move.
+(Water can move through cloth.)
+
+wetha wirua nai.
+cloth wet be.
+(The cloth is wet.)
+```
+
+The first clause reports infiltration, the second possible passage, and the third moisture already present. None says what a towel or the earth does when water enters and stays within it. The relation turns up beside the washbasin and out in wet soil; bodily care meets it too. Making the receiver the subject is useful.
+
+Phi therefore uses `wosanu` (absorb):
+
+```
+wethaki phialu wosanu.
+towel water absorb.
+(The towel absorbs water.)
+
+muila phialu si wosanu.
+earth water IPFV absorb.
+(The earth is absorbing water.)
+```
+
+Permeability and waterproofness work better as clauses. Both depend on the substance and conditions being claimed, and an ordinary sentence leaves those facts in view:
+
+```
+phialu thue ha muralo po roke.
+water THROUGH PROX material POT move.
+(Water can move through this material.)
+
+phialu muo ha muralo po ma koema.
+water INTO PROX material POT NEG enter.
+(Water cannot enter this material.)
+```
+
+A laboratory rating, test method, pressure, or duration stays in its source record. The Phi sentence can identify and discuss that record without turning one result into a timeless property of every substance against every material.
+
+Internal arrangement asks another question. An empty interior gives a natural account of a hollow stem, and many small empty interiors give a patient description of visible porosity:
+
+```
+pholui muwi whemoa nai.
+bamboo interior empty be.
+(Bamboo has an empty interior.)
+
+ha muralo sheloi thiku whemoa muwi phelu.
+PROX material MANY small empty interior hold.
+(This material has many small empty spaces.)
+```
+
+That second description is serviceable, but repeated work with soil, textiles, filters, or buildings may eventually want porosity as a quality in its own right. The decision waits for that repeated practice. Density is more divided still: `theru` covers a thick material body, `simoe` covers rich concentration, and ordinary packing can be stated directly.
+
+```
+sheloi linua mua ha thiku tholu nai.
+MANY fiber LOC PROX small space be.
+(Many fibres are in this small space.)
+```
+
+Scientific density adds a defined relation among magnitudes and a method of measurement. The decision is deferred until connected scientific writing needs one stable Phi term beyond these ordinary accounts and the exact source record.
+
+### What a balance compares
+
+`tumoa` and `phelo` judge an object heavy or light in context. The judgement is useful, but it cannot name the neutral property being measured when two heavy baskets have equal weight or a basket's weight changes while it remains light enough to lift.
+
+Phi uses `pamolu` (weight) for that magnitude:
+
+```
+shia ha molupa pamolu masue.
+3SG PROX box weight measure.
+(They measure this box's weight.)
+
+ha wi themo wiru pamolu kolo nai.
+PROX two THING.CLF basket weight equal be.
+(These two baskets are equal in weight.)
+```
+
+People meet the word while lifting and carrying. Cooking and bodily care need it before specialist measurement begins. Exact units and procedures stay in their source records. Scientific mass waits for connected Systems or scientific use, where it can be distinguished deliberately from `pamolu` instead of arriving as an unnoticed English synonym.
+
+Area and volume are already kinds of size. Phi can name the relevant thing before `ponalu`: `leko ponalu` is surface size, `lokue ponalu` the size of a place, and `tholu ponalu` the size of a space. `henora` is still the conditioned limit of what a system can hold, process, or deliver, not the space currently occupied. These expressions identify what a source value measures without adding two more general roots.
+
+### A straight path and a round bowl
+
+`thenui` (direct) says that a route reaches its object without a detour. It does not say whether the road bends, and `kolu` (steady) says even less about a static edge. A cord, board, posture, or path often needs the ordinary geometric quality itself.
+
+Phi uses `tekari` (straight):
+
+```
+ha nira tekari nai.
+PROX cord straight be.
+(This cord is straight.)
+```
+
+Roundness already has a short and tested account. The noun-describes rule turns `sorui` (circle) into a descriptor, and active text has already used `sorui kire` (circle shape) naturally.
+
+```
+noru sorui kire nai.
+bowl circle shape be.
+(The bowl has a round shape.)
+```
+
+A second adjective would hide a composition speakers already understand. More exact geometry, including the standard by which a line or curve is judged, goes into description and separately preserved source material.
+
+### Decision
+
+| Question | Decision | Why |
+|---|---|---|
+| Absorption | Base verb `wosanu` | The receiving body's action remains distinct from entry, passage, and resulting wetness. |
+| Permeability | Compositional | The named substance can move through the material under the relevant conditions. |
+| Waterproofness | Compositional | Water cannot enter or pass through the material; exact ratings keep their source form. |
+| Hollow structure | Compositional as `whemoa muwi` | Empty interior names the useful structure without adding a root. |
+| Porous structure | Deferred | Revisit when connected material practice repeatedly needs porosity itself. |
+| Dense packing or density | Deferred | Ordinary senses already divide among thickness, concentration, and packing; scientific density needs a defined technical relation. |
+| Weight | Base noun `pamolu` | Heavy and light are judgements at opposite ends of a neutral everyday magnitude. |
+| Area | Compositional as the size of a surface or place | Naming the measured kind before `ponalu` keeps the relevant extent visible. |
+| Volume | Compositional as overall size or `tholu ponalu` | Ordinary occupied extent is already expressible, while capacity remains a separate technical ceiling. |
+| Mass | Deferred | Connected scientific use must establish the distinction from ordinary weight and exact source notation. |
+| Straight | Base adjective `tekari` | Directness and steadiness cannot describe an uncurved form. |
+| Round | Compositional as `sorui kire` | Circle already supplies the shape through an established grammatical rule and active use. |
+
+`wosanu`, `pamolu`, and `tekari` are legal three-syllable forms with unique syllables. The retired-form, character-neighbour, and phonetic-neighbour checks are clear. Their forms also avoid English homonyms. The articulations stay well apart: `wosanu` moves from a rounded glide through `s` to a final dental nasal, `pamolu` begins with two successive lip closures, and `tekari` uses dental and velar stops before its final tap.

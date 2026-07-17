@@ -20,14 +20,14 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 
 | Batch | Prose migration | Lexical decisions | Candidate count |
 |---|---|---|---:|
-| [Core material qualities](#core-material-qualities) | complete | open | 2 |
+| [Core material qualities](#core-material-qualities) | complete | closed | 6 |
 | [Environmental and spatial qualities](#environmental-and-spatial-qualities) | complete | closed | 1 |
-| [Size, extent, and distance](#size-extent-and-distance) | complete | open | 1 |
+| [Size, extent, and distance](#size-extent-and-distance) | complete | closed | 4 |
 | [Pace, motion, and equilibrium](#pace-motion-and-equilibrium) | complete | closed | 0 |
 | [Color](#color) | complete | closed | 0 |
 | [Strength, deformation, and recovery](#strength-deformation-and-recovery) | complete | closed | 0 |
 | [Sensory and perceptual qualities](#sensory-and-perceptual-qualities) | complete | closed | 2 |
-| [Aesthetic and formal qualities](#aesthetic-and-formal-qualities) | complete | open | 4 |
+| [Aesthetic and formal qualities](#aesthetic-and-formal-qualities) | complete | open | 5 |
 | [Awareness and epistemic qualities](#awareness-and-epistemic-qualities) | complete | closed | 0 |
 | [Ethics, care, and candour](#ethics-care-and-candour) | complete | open | 2 |
 | [Core emotion inventory](#core-emotion-inventory) | complete | open | 1 |
@@ -64,26 +64,33 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Relation, boundaries, and remaining practical acts](#relation-boundaries-and-remaining-practical-acts) | complete | open | 1 |
 | [Personhood, generations, kinship, and social belonging](#personhood-generations-kinship-and-social-belonging) | complete | open | 1 |
 | [Body, anatomy, and bodily condition](#body-anatomy-and-bodily-condition) | complete | closed | 10 |
-| [Recovered cross-inventory prompts](#recovered-cross-inventory-prompts) | not-started | open | 23 |
+| [Recovered cross-inventory prompts](#recovered-cross-inventory-prompts) | not-started | open | 29 |
 
 ## Core material qualities
 
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
-| `CV-MAT-01` | hollow, porous, and dense interior structure | Deferred | base or a material-focused module | Revisit when a shape, building, soil, textile, or material scenario needs one of these properties repeatedly. These properties describe internal arrangement rather than emptiness, hardness, or weight. |
-| `CV-MAT-02` | absorption, permeability, and waterproofness | Open | base, Household, Ecological, or Work | Which distinctions deserve roots, and which remain clauses about water entering or failing to enter a material? Wetness reports present moisture; this family asks whether matter admits, takes up, or blocks a fluid. |
+| `CV-MAT-01` | hollow interior structure | Compositional | base expression | `whemoa muwi`. An empty interior says what is hollow without treating every empty vessel or room as a material structure. |
+| `CV-MAT-02` | absorption of liquid or other material | Implemented | base | Words: `wosanu`. The verb puts the receiving body in subject position and distinguishes material taken within from liquid merely present on a surface or moving through. |
+| `CV-MAT-03` | porous interior structure | Deferred | base or a material-focused module | When connected material practice repeatedly needs porosity itself rather than permeability to a named substance. Many small empty interiors can describe the visible arrangement, while a dedicated quality may become useful in soil, textile, building, or filter work. |
+| `CV-MAT-04` | dense packing or scientific density | Deferred | base, Systems, Ecological, or exact source material | When connected material or scientific writing repeatedly needs one stable relation that existing thickness, concentration, packing, and source measurements cannot express cleanly. Everyday uses divide among thick body, rich concentration, and many things in little space; scientific density adds a defined magnitude and method. |
+| `CV-MAT-05` | permeability to a named substance | Compositional | base clause, with exact technical criteria in source material | `phialu thue muralo po roke`. Permeability depends on what passes, under which conditions, so the ordinary clause names the substance, material, and possible passage. |
+| `CV-MAT-06` | waterproofness | Compositional | base clause, with exact ratings in source material | `phialu muo muralo po ma koema`. A clause saying that water cannot enter or pass through leaves the claimed substance and practical condition visible. |
 
 ## Environmental and spatial qualities
 
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
-| `CV-MEAS-01` | temperature, humidity, and illumination as measured parameters | Deferred | Systems or Ecological, with exact values in source material | Revisit when a connected technical scenario repeatedly names the measured parameter apart from its value and instrument. Everyday quality words already cover hot, wet, and bright; technical work may still need neutral parameter nouns. |
+| `CV-MEAS-01` | temperature, humidity, and illumination as measured parameters | Deferred | Systems or Ecological, with exact values in source material | When a connected technical scenario repeatedly names the measured parameter apart from its value and instrument. Everyday quality words already cover hot, wet, and bright; technical work may still need neutral parameter nouns. |
 
 ## Size, extent, and distance
 
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
-| `CV-MEAS-02` | area, volume, mass, and weight as neutral magnitudes | Open | base or Systems | Which magnitude nouns belong in ordinary measurement, and does existing Systems `henora` (capacity) cover only practical limit rather than volume? Phi now names six spatial magnitudes, but these four common measurements were not decided in that pass. |
+| `CV-MEAS-02` | area as a neutral magnitude | Compositional | base expression | `leko ponalu`, `lokue ponalu`. The measured kind can name the relevant surface or place before `ponalu` supplies its size, while exact values stay in source material. |
+| `CV-MEAS-03` | volume as occupied spatial magnitude | Compositional | base expression | `ponalu`, `tholu ponalu`. Overall size already handles ordinary occupied extent, and the size of a space can be named directly without confusing it with a container's technical capacity. |
+| `CV-MEAS-04` | weight as a neutral physical magnitude | Implemented | base | Words: `pamolu`. The noun lets speakers compare or measure physical weight before judging an object heavy or light and without borrowing burden or technical load. |
+| `CV-MEAS-05` | mass as a scientific magnitude distinct from weight | Deferred | Systems or exact source material | When connected scientific or engineering writing repeatedly needs to discuss mass apart from weight and exact source notation. Ordinary handling now has neutral weight, while scientific mass requires a stable technical distinction, method, and source value. |
 
 ## Pace, motion, and equilibrium
 
@@ -101,7 +108,7 @@ No lexical question from this batch remains outside an explicit coverage decisio
 
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
-| `CV-TASTE-01` | scientific basic-taste categories | Deferred | culinary or Medical use, with exact taxonomies source-bound | Revisit when connected culinary or medical writing repeatedly needs a stable taste distinction beyond source description. Ordinary flavours can use source nouns and response clauses without pretending that one scientific inventory is universal. |
+| `CV-TASTE-01` | scientific basic-taste categories | Deferred | culinary or Medical use, with exact taxonomies source-bound | When connected culinary or medical writing repeatedly needs a stable taste distinction beyond source description. Ordinary flavours can use source nouns and response clauses without pretending that one scientific inventory is universal. |
 | `CV-SENS-01` | itch, numbness, tingling, and dizziness | Implemented | base | Words: `sikoru`, `numaro`, `tiphori`, `wiloru`. A person can name four familiar sensations before anyone adds a broader bodily condition or clinical conclusion. |
 
 ## Aesthetic and formal qualities
@@ -109,9 +116,10 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
 | `CV-AEST-01` | decorate or add applied ornament | Implemented | base | Words: `weshapi`. The verb names the addition of visible ornament and keeps design as a separate act. |
-| `CV-AEST-02` | symmetry and asymmetry | Deferred | base, Work, or exact technical description | Revisit when a connected design, craft, or technical scenario repeats the relation often enough that comparison clauses become cumbersome. Ordinary clauses can compare corresponding parts, but design or technical work may need symmetry as a recurring property. |
+| `CV-AEST-02` | symmetry and asymmetry | Deferred | base, Work, or exact technical description | When a connected design, craft, or technical scenario repeats the relation often enough that comparison clauses become cumbersome. Ordinary clauses can compare corresponding parts, but design or technical work may need symmetry as a recurring property. |
 | `CV-AEST-03` | style and characteristic aesthetic form | Open | base, Work, or art vocabulary | Does Phi want a general word for style, or should each aesthetic tradition be described by the forms that make it recognisable? Art, design, pattern, shape, and beauty do not quite name the recognisable manner shared across several works. |
-| `CV-SHAPE-01` | straight and round as ordinary shape qualities | Open | base | Would direct adjectives make routes, tools, bodies, and made objects clearer without reproducing a whole English geometry list? Shape and curve vocabulary can describe these properties, but the everyday adjective inventory was never settled. |
+| `CV-SHAPE-01` | straight as an ordinary shape quality | Implemented | base | Words: `tekari`. The adjective separates an uncurved course or extended form from a direct route or steady movement. |
+| `CV-SHAPE-02` | round as an ordinary shape quality | Compositional | base expression | `sorui kire`. The existing circle noun already describes a circular form through the ordinary noun-describes rule, and active text has used the expression naturally. |
 
 ## Awareness and epistemic qualities
 
@@ -151,7 +159,7 @@ No lexical question from this batch remains outside an explicit coverage decisio
 |---|---|---|---|---|
 | `CV-CLEAN-01` | dirty, contaminated, spoiled, and rotten | Open | base, Household, Ecological, or Medical | Which everyday conditions need direct words, while exact contamination and sanitation thresholds remain source-bound? Ordinary cleanliness, visible dirt, spoilage, contamination, and decay make different claims and should not be collapsed into one moral adjective. |
 | `CV-FOOD-01` | rice and tea | Open | base or Household | Does Phi want stable general words for the foods and drinks, with exact varieties left to source names? These culturally widespread staples may deserve ordinary roots, though neither is a semantic universal Phi must copy from English. |
-| `CV-FOOD-02` | nut | Compositional | base compound | Use `kerou lureko`. The registered compound names a fruit by its hard stone-like shell and is already used in an active text. |
+| `CV-FOOD-02` | nut | Compositional | base compound | `kerou lureko`. The registered compound names a fruit by its hard stone-like shell and is already used in an active text. |
 
 ## Structure, identity, and fit
 
@@ -262,7 +270,7 @@ No lexical question from this batch remains outside an explicit coverage decisio
 |---|---|---|---|---|
 | `CV-PUNCTURE-01` | puncture or make an opening with a point | Implemented | base | Words: `tisharu`. The verb separates a point-made hole from edge-driven cutting, digging, and sewing. |
 | `CV-DISSOLVE-01` | dissolve through a medium | Implemented | base | Words: `wilanu`. The verb names dispersion through a medium without treating dissolution as mixing, melting, or disappearance. |
-| `CV-TEXT-01` | English-shaped material metaphors in active texts | Deferred | text review rather than new vocabulary by default | Revisit when the planned active-text vocabulary review reaches each cited passage. Breaking into talk, digging into books, heavy trouble, and similar phrases need judgement as Phi images rather than silent definition changes. |
+| `CV-TEXT-01` | English-shaped material metaphors in active texts | Deferred | text review rather than new vocabulary by default | When the planned active-text vocabulary review reaches each cited passage. Breaking into talk, digging into books, heavy trouble, and similar phrases need judgement as Phi images rather than silent definition changes. |
 
 ## Change, continuity, repair, and renewal
 
@@ -276,8 +284,8 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
 | `CV-WITHER-01` | wither or wilt | Implemented | base | Words: `kureno`. The verb names visible loss of turgor before dryness or death has necessarily occurred. |
-| `CV-REPRO-01` | biological reproduction and deliberate breeding | Deferred | base, Ecological, or a reproductive-health vocabulary set | Revisit when ecological, husbandry, reproductive-health, or kinship scenarios need these relations in connected use. Fertility names capacity and birth names an event; reproduction and selective breeding introduce other relations. |
-| `CV-CULT-01` | pollination, pruning, weeding, and fertilising | Deferred | Ecological, Household, or Work | Revisit when a garden, farm, orchard, or ecological-care scenario uses the acts often enough to decide their learning value. Existing verbs can describe what moves, is cut, is removed, or is supplied, while repeated specialist use may favour direct words. |
+| `CV-REPRO-01` | biological reproduction and deliberate breeding | Deferred | base, Ecological, or a reproductive-health vocabulary set | When ecological, husbandry, reproductive-health, or kinship scenarios need these relations in connected use. Fertility names capacity and birth names an event; reproduction and selective breeding introduce other relations. |
+| `CV-CULT-01` | pollination, pruning, weeding, and fertilising | Deferred | Ecological, Household, or Work | When a garden, farm, orchard, or ecological-care scenario uses the acts often enough to decide their learning value. Existing verbs can describe what moves, is cut, is removed, or is supplied, while repeated specialist use may favour direct words. |
 | `CV-SWELL-01` | swell and shrink | Implemented | base | See the complete decision under [Change, continuity, repair, and renewal](#change-continuity-repair-and-renewal). |
 
 ## Care, affection, regard, and relational repair
@@ -289,7 +297,7 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
 | `CV-TRY-01` | try or attempt an action | Implemented | base | Words: `mesatu`. The verb reports an action undertaken without claiming completion, persistence, or success. |
-| `CV-EDU-01` | courses, curricula, schools, grades, and educational standing | Deferred | a possible Learning and Knowledge Practice module plus exact source material | Revisit when the Learning and Knowledge Practice profile receives connected scenarios or the book needs recurring institutional education vocabulary. A lesson composes readily, while institutional categories depend on their programme and issuer. |
+| `CV-EDU-01` | courses, curricula, schools, grades, and educational standing | Deferred | a possible Learning and Knowledge Practice module plus exact source material | When the Learning and Knowledge Practice profile receives connected scenarios or the book needs recurring institutional education vocabulary. A lesson composes readily, while institutional categories depend on their programme and issuer. |
 
 ## Measurement, comparison, meaning, and record
 
@@ -303,7 +311,7 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
 | `CV-HIT-01` | brief physical impact | Implemented | base | See the complete decision under [Contact, force, and placement](#contact-force-and-placement). |
-| `CV-APPLAUSE-01` | applause | Compositional | base expression | Use `manuwe patore`, `woraka`, `pharuki`, `nomela`. Repeated hand impacts name the physical act; appreciation, celebration, or encouragement states what the act is doing in that gathering. |
+| `CV-APPLAUSE-01` | applause | Compositional | base expression | `manuwe patore`, `woraka`, `pharuki`, `nomela`. Repeated hand impacts name the physical act; appreciation, celebration, or encouragement states what the act is doing in that gathering. |
 
 ## Relation, boundaries, and remaining practical acts
 
@@ -328,19 +336,25 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | `CV-BODY-05` | waist, pelvis, and buttocks | Implemented | base | Words: `norapi`, `kanomi`, `peshuma`. The lower torso now has ordinary regional nouns for clothing, posture, gait, pain, and non-contact care. |
 | `CV-BODY-06` | saliva, urine, and faeces | Implemented | base | Words: `suhari`, `tomewu`, `mokathi`. Daily care, sanitation, childhood, and illness can now name these substances without euphemism or a medical module. |
 | `CV-BODY-07` | mucus, body fat, and flesh | Implemented | base | Words: `nuwesu`, `lomeki`, `mashuri`. Mucus and fat keep their precise substance nouns. Flesh gathers the body's soft material into an ordinary whole without becoming one tissue or a food category. |
-| `CV-BODY-08` | sexual and reproductive anatomy | Deferred | base and Medical, decided by ordinary autonomy and care needs | Revisit when a dedicated scenario set tests self-description, consent, sexual health, reproduction, pain, and care across varied bodies. This field must name bodies without treating one anatomy as the default or requiring a diagnosis before a body part can be spoken. |
-| `CV-BODY-09` | named bones, vessels, nerves, glands, and exact anatomical classifications | Deferred | Medical plus exact biomedical source material | Revisit when a care, study, or public-health scenario repeatedly needs one structure beyond ordinary body-region language. Base vocabulary need not reproduce an atlas, but recurring care or study may reveal specialist words worth learning. |
+| `CV-BODY-08` | sexual and reproductive anatomy | Deferred | base and Medical, decided by ordinary autonomy and care needs | When a dedicated scenario set tests self-description, consent, sexual health, reproduction, pain, and care across varied bodies. This field must name bodies without treating one anatomy as the default or requiring a diagnosis before a body part can be spoken. |
+| `CV-BODY-09` | named bones, vessels, nerves, glands, and exact anatomical classifications | Deferred | Medical plus exact biomedical source material | When a care, study, or public-health scenario repeatedly needs one structure beyond ordinary body-region language. Base vocabulary need not reproduce an atlas, but recurring care or study may reveal specialist words worth learning. |
 | `CV-SENS-01` | itch, numbness, tingling, and dizziness | Implemented | base | See the complete decision under [Sensory and perceptual qualities](#sensory-and-perceptual-qualities). |
 
 ## Recovered cross-inventory prompts
 
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
-| `CV-MAT-02` | absorption, permeability, and waterproofness | Open | base, Household, Ecological, or Work | See the complete decision under [Core material qualities](#core-material-qualities). |
-| `CV-MEAS-02` | area, volume, mass, and weight as neutral magnitudes | Open | base or Systems | See the complete decision under [Size, extent, and distance](#size-extent-and-distance). |
+| `CV-MAT-02` | absorption of liquid or other material | Implemented | base | See the complete decision under [Core material qualities](#core-material-qualities). |
+| `CV-MAT-05` | permeability to a named substance | Compositional | base clause, with exact technical criteria in source material | See the complete decision under [Core material qualities](#core-material-qualities). |
+| `CV-MAT-06` | waterproofness | Compositional | base clause, with exact ratings in source material | See the complete decision under [Core material qualities](#core-material-qualities). |
+| `CV-MEAS-02` | area as a neutral magnitude | Compositional | base expression | See the complete decision under [Size, extent, and distance](#size-extent-and-distance). |
+| `CV-MEAS-03` | volume as occupied spatial magnitude | Compositional | base expression | See the complete decision under [Size, extent, and distance](#size-extent-and-distance). |
+| `CV-MEAS-04` | weight as a neutral physical magnitude | Implemented | base | See the complete decision under [Size, extent, and distance](#size-extent-and-distance). |
+| `CV-MEAS-05` | mass as a scientific magnitude distinct from weight | Deferred | Systems or exact source material | See the complete decision under [Size, extent, and distance](#size-extent-and-distance). |
 | `CV-SENS-01` | itch, numbness, tingling, and dizziness | Implemented | base | See the complete decision under [Sensory and perceptual qualities](#sensory-and-perceptual-qualities). |
 | `CV-AEST-03` | style and characteristic aesthetic form | Open | base, Work, or art vocabulary | See the complete decision under [Aesthetic and formal qualities](#aesthetic-and-formal-qualities). |
-| `CV-SHAPE-01` | straight and round as ordinary shape qualities | Open | base | See the complete decision under [Aesthetic and formal qualities](#aesthetic-and-formal-qualities). |
+| `CV-SHAPE-01` | straight as an ordinary shape quality | Implemented | base | See the complete decision under [Aesthetic and formal qualities](#aesthetic-and-formal-qualities). |
+| `CV-SHAPE-02` | round as an ordinary shape quality | Compositional | base expression | See the complete decision under [Aesthetic and formal qualities](#aesthetic-and-formal-qualities). |
 | `CV-CONFLICT-01` | conflict, violence, fighting, attack, defence, hunting, and killing | Open | base and a possible Conflict, Mediation, and Accountability module | See the complete decision under [Ethics, care, and candour](#ethics-care-and-candour). |
 | `CV-AFFECT-02` | guilt, anxiety, disgust, excitement, relief, frustration, and boredom | Open | base or later affective vocabulary | See the complete decision under [Core emotion inventory](#core-emotion-inventory). |
 | `CV-CLEAN-01` | dirty, contaminated, spoiled, and rotten | Open | base, Household, Ecological, or Medical | See the complete decision under [Cultivation, abundance, and wildness](#cultivation-abundance-and-wildness). |
@@ -355,10 +369,10 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | `CV-FOOD-01` | rice and tea | Open | base or Household | See the complete decision under [Cultivation, abundance, and wildness](#cultivation-abundance-and-wildness). |
 | `CV-FOOD-02` | nut | Compositional | base compound | See the complete decision under [Cultivation, abundance, and wildness](#cultivation-abundance-and-wildness). |
 | `CV-MEET-01` | meet as a verb | Open | base | See the complete decision under [Core speech and conversation](#core-speech-and-conversation). |
-| `CV-PHIL-01` | emergence, correlation, inference strength, and further responsibility distinctions | Deferred | Philosophical Reasoning, Systems, or shared base | Revisit when new philosophical arguments or systems explanations need one of the distinctions repeatedly and the existing relations become clumsy or ambiguous. The first philosophical pass named these as later questions rather than completed omissions. |
-| `CV-SYSTEMS-02` | feedforward and later systems relations | Deferred | Systems and Shared Infrastructure | Revisit when an original system explanation needs anticipatory control often enough that ordinary input, model, and control clauses obscure the relation. The first Systems pass retained feedback and control but left feedforward and other less common relations for connected technical use. |
-| `CV-ECON-01` | money, prices, wages, debt, profit, taxation, budgets, and contracts | Deferred | a possible Economic Systems and Provisioning module | Revisit when an economic profile receives scenarios that can keep accounting, exchange, obligation, extraction, livelihood, and source-defined legal relations apart. Governance and Work deliberately left wider political economy outside their first passes rather than declaring it unnecessary. |
-| `CV-MED-SENSITIVE-01` | mental health, reproductive health, sexuality, gender, abuse, and coercive care | Deferred | base, Medical, or another sensitive domain profile | Revisit when separate scenarios are ready for each area, with autonomy, varied lived experience, refusal, power, and exact source terminology kept visible. The first Medical pass reserved these areas because they need language for self-description, consent, harm, care, and source-defined classifications without treating any one experience as the norm. |
+| `CV-PHIL-01` | emergence, correlation, inference strength, and further responsibility distinctions | Deferred | Philosophical Reasoning, Systems, or shared base | When new philosophical arguments or systems explanations need one of the distinctions repeatedly and the existing relations become clumsy or ambiguous. The first philosophical pass named these as later questions rather than completed omissions. |
+| `CV-SYSTEMS-02` | feedforward and later systems relations | Deferred | Systems and Shared Infrastructure | When an original system explanation needs anticipatory control often enough that ordinary input, model, and control clauses obscure the relation. The first Systems pass retained feedback and control but left feedforward and other less common relations for connected technical use. |
+| `CV-ECON-01` | money, prices, wages, debt, profit, taxation, budgets, and contracts | Deferred | a possible Economic Systems and Provisioning module | When an economic profile receives scenarios that can keep accounting, exchange, obligation, extraction, livelihood, and source-defined legal relations apart. Governance and Work deliberately left wider political economy outside their first passes rather than declaring it unnecessary. |
+| `CV-MED-SENSITIVE-01` | mental health, reproductive health, sexuality, gender, abuse, and coercive care | Deferred | base, Medical, or another sensitive domain profile | When separate scenarios are ready for each area, with autonomy, varied lived experience, refusal, power, and exact source terminology kept visible. The first Medical pass reserved these areas because they need language for self-description, consent, harm, care, and source-defined classifications without treating any one experience as the norm. |
 
 ## Prompt sources
 

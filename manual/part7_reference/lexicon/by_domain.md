@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (283)
+## activity (284)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -295,6 +295,7 @@
 | `wiresu` | postpone | moving a planned action to a later time |
 | `wishe` | swim | self-propelled passage through water |
 | `wisola` | exchange | participants giving and receiving within one reciprocal arrangement |
+| `wosanu` | absorb | a receiving body taking material into itself |
 
 ## aesthetic (84)
 
@@ -1335,7 +1336,7 @@
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 | `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
-## nature (232)
+## nature (233)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1571,8 +1572,9 @@
 | `woenu` | tame | animal behaviour changed through familiarity with human presence or handling |
 | `wolea` | wood | Tree material |
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
+| `wosanu` | absorb | soil or a living body taking in water or another material |
 
-## physical (408)
+## physical (411)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1769,6 +1771,7 @@
 | `palo` | touch | bodily or material contact at a surface |
 | `paloi` | foot | the terminal part of the leg that supports standing and walking |
 | `palowe` | shoe | Between foot and road |
+| `pamolu` | weight | the supporting or lifting force associated with an object |
 | `panoru` | support | bearing weight or holding a structure in place |
 | `panuri` | resource | the term often concerns material, energy, land, water, or biological products |
 | `patoku` | solid | matter that retains its own shape and roughly its volume under the conditions at hand |
@@ -1896,6 +1899,7 @@
 | `tapu` | close | a door, lid, or container moved into closure |
 | `tapulo` | jar | a holder reached through an opening wider than a bottle neck |
 | `tapuri` | lid | a separate object meeting the rim of a container |
+| `tekari` | straight | an extended object or edge continuing without a bend |
 | `teru` | process | material passing through a set of operations |
 | `tesu` | iron | Enduring strength |
 | `thalo` | walk | alternating bodily support on the feet |
@@ -1983,9 +1987,10 @@
 | `wisola` | exchange | exchanging material objects or substances |
 | `wolu` | healthy | a living body's health in the context relevant to that body |
 | `wonepa` | table | The social flat of the house |
+| `wosanu` | absorb | material entering and remaining within a body or substance |
 | `wuloe` | soft | a yielding texture or contact that cushions pressure |
 
-## quantity (31)
+## quantity (32)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2000,6 +2005,7 @@
 | `masue` | measure | measurement that produces or compares a magnitude |
 | `mu` | zero | the exact numerical value for no counted members |
 | `murase` | swell | an overall size or volume becoming greater |
+| `pamolu` | weight | physical weight treated as a neutral magnitude for comparison or measurement |
 | `phanoi` | portion | relating a total to a number of groups and the resulting quotient |
 | `pheno` | full | contents reaching the capacity relevant to the present comparison |
 | `phoi` | nine-group | the nine scale used in exact and approximate enumeration |
@@ -2055,7 +2061,7 @@
 | `thunepa` | sacred place | Place of reverence |
 | `whunei` | breathe | breath used as an observable object in meditation practice |
 
-## spatial (157)
+## spatial (158)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2176,6 +2182,7 @@
 | `sonari` | isolate | a bounded separation between a source and possible hosts |
 | `sorui` | circle | Round form |
 | `tapu` | close | passage or access ended at a boundary |
+| `tekari` | straight | a course that does not curve or turn over the relevant extent |
 | `teku` | short | limited end-to-end extent in a path or object |
 | `teshori` | quarantine | a temporary boundary around contact and movement |
 | `thalo` | walk | a walking route across a place |

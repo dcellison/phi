@@ -117,7 +117,23 @@ shia thei wi silawo hirawo masue.
 (They measure the distance between the two villages.)
 ```
 
-A road is under no obligation to be straight. Its *waleru* (length) may grow when a bridge closes while the villages' *hirawo* stays put. *ponalu* (size) names a thing's overall physical scale before anyone calls it large or small:
+A road is under no obligation to be *tekari* (straight). Straightness follows the road's shape; *thenui* (direct) asks whether its route reaches the destination without a detour. Its *waleru* (length) may grow when a bridge closes while the villages' *hirawo* stays put.
+
+```
+ha ruela tekari nai.
+PROX path straight be.
+(This path is straight.)
+```
+
+Roundness spends no second root. *sorui kire* means circle shape, the ordinary nouns-describe rule doing its work:
+
+```
+noru sorui kire nai.
+bowl circle shape be.
+(The bowl has a round shape.)
+```
+
+*ponalu* (size) names a thing's overall physical scale before anyone calls it large or small:
 
 ```
 ha wi themo molupa ponalu kolo nai.
@@ -131,6 +147,14 @@ None of these words contains a metre, mile, kilogram, or litre. Phi extends the 
 shia sheo pelio wetha masue.
 3SG THAN arm cloth measure.
 (They measure the cloth against an arm.)
+```
+
+Weight has a neutral noun too. *pamolu* names what is compared before either basket is judged *tumoa* (heavy) or *phelo* (light):
+
+```
+shia ha molupa pamolu masue.
+3SG PROX box weight measure.
+(They measure this box's weight.)
 ```
 
 Where ranking is the honest point, *sheo* with *mo* ranks openly:
@@ -159,5 +183,8 @@ The neutral noun says what is being gauged. The adjectives make the judgement.
 | *raeli* (height) | vertical extent | *raelu* tall, *mulu* low |
 | *lonai* (width) | side-to-side extent | *losha* wide, *hieru* narrow |
 | *nusho* (depth) | extent below a surface or into a thing | *nulo* deep, *saphei* shallow |
+| *pamolu* (weight) | force needed to lift or support | *tumoa* heavy, *phelo* light |
 
-A language that will not slice the day into minutes will not slice the road into metres. The arm, the day's walk, and the sky remain close at hand. When repair, health, science, testimony, or shared work needs an exact value, its source record stands beside the Phi sentence that identifies and discusses it.
+Area and volume keep the measured thing in view. *leko ponalu* is surface size, *lokue ponalu* the size of a place, and *tholu ponalu* the size of a space. Systems *henora* remains capacity, a conditioned limit rather than the room presently occupied. Scientific mass keeps its source distinction when it must be separated from ordinary weight.
+
+A language that will not slice the day into minutes will not slice the road into metres. The arm, the day's walk, the balance, and the sky remain close at hand. When repair, health, science, testimony, or shared work needs an exact value, its source record stands beside the Phi sentence that identifies and discusses it.

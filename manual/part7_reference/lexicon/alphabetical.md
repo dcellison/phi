@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1219 words.*
+*1222 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -549,6 +549,7 @@
 | `paloi` | foot | /pä.ˈlo̞.i/ | noun |
 | `palowe` | shoe | /pä.ˈlo̞.we̞/ | noun |
 | `palu` | plate | /ˈpä.lu/ | noun |
+| `pamolu` | weight | /pä.ˈmo̞.lu/ | noun |
 | `panoru` | support | /pä.ˈn̪o̞.ru/ | verb |
 | `panuri` | resource | /pä.ˈn̪u.ri/ | noun |
 | `pao` | goodbye | /ˈpä.o̞/ | interjection |
@@ -939,6 +940,7 @@
 | `tawimo` | foolish | /t̪ä.ˈwi.mo̞/ | adjective |
 | `te` | CESS | /ˈt̪e̞/ | particle |
 | `tei` | UNTIL | /ˈt̪e̞.i/ | preposition |
+| `tekari` | straight | /t̪e̞.ˈkä.ri/ | adjective |
 | `teku` | short | /ˈt̪e̞.ku/ | adjective |
 | `teli` | bell | /ˈt̪e̞.li/ | noun |
 | `telo` | farmer | /ˈt̪e̞.lo̞/ | noun |
@@ -1226,5 +1228,6 @@
 | `wonepa` | table | /wo̞.ˈn̪e̞.pä/ | noun |
 | `woraka` | appreciate | /wo̞.ˈrä.kä/ | verb |
 | `woru` | keeper | /ˈwo̞.ru/ | noun |
+| `wosanu` | absorb | /wo̞.ˈsä.n̪u/ | verb |
 | `wuero` | far (adj) | /wu.ˈe̞.ro̞/ | adjective |
 | `wuloe` | soft | /wu.ˈlo̞.e̞/ | adjective |

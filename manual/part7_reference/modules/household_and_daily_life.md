@@ -15,7 +15,7 @@ The new words enter a crowded house. Phi already names the dwelling, the people 
 | Dwelling and company | `womu` home, `menui` dwell, `manolu` stay, `shuroa` shelter, `lumani` family, `melu` friend, `phemi` guest, `phemila` host, `phewani` neighbor |
 | Interior and furniture | `nuroa` kitchen, `nuwera` bed, `wonepa` table, `meipa` seat, `ponu` door, `wira` window, `moru` wall, `tomae` floor, `toru` roof, `tholu` space |
 | Food and vessels | `nuora` food, `napa` bread, `sulopa` soup, `phialu` water, `nuola` eat, `milau` drink, `pharelo` cook, `noru` bowl, `soeli` cup, `palu` plate, `tomi` pot, `lopha` vessel, `molu` container, `wiru` basket |
-| Cloth, rest, and temperature | `wetha` cloth, `liru` fabric, `wethalu` garment, `nulae` sleep, `therilu` rest, `sukaro` hot, `sulae` warm, `wuloe` soft, `kurathi` dry, `wirua` wet |
+| Cloth, rest, and temperature | `wetha` cloth, `liru` fabric, `wethalu` garment, `wosanu` absorb, `nulae` sleep, `therilu` rest, `sukaro` hot, `sulae` warm, `wuloe` soft, `kurathi` dry, `wirua` wet |
 | Upkeep and repair | `sawa` wash, `hewe` wipe, `hiso` clean, `muhena` dust, `phuri` brush, `shiroka` repair, `talome` restore, `tenoa` tool, `thinu` put, `phelu` hold |
 | Choice and relations | `mirewu` private, `kanu` choose, `lesawi` consent, `nawo` agree, `naweri` refuse, `theama` care, `phowe` share, `nuawe` together |
 | Plans and open matters | `winora` plan, `hasoru` pending, `sirami` record |
@@ -195,7 +195,13 @@ mia roe sawathi lo soeli sawa.
 (I wash the cups with soap.)
 ```
 
-The wet cloth in the hand may be `wethaki` towel. Once garments and household cloth are gathered into the washing cycle, they become `wethate` laundry, and the work can then be named with Work vocabulary if its assignment or burden matters.
+The wet cloth in the hand may be `wethaki` towel. Base `wosanu` says what the towel does when water enters and stays within it; `wirua` says that the water is now present. Once garments and household cloth are gathered into the washing cycle, they become `wethate` laundry, and the work can then be named with Work vocabulary if its assignment or burden matters.
+
+```
+wethaki phialu wosanu.
+towel water absorb.
+(The towel absorbs water.)
+```
 
 ```
 mia roe wethaki ha palu hewe.

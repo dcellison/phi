@@ -211,9 +211,10 @@ def candidate_outcome(candidate):
             pieces.append("Compounds: " + ", ".join(f"`{item}`" for item in implementation["compounds"]))
         return ". ".join(pieces) + "."
     if status == "compositional":
-        return "Use " + ", ".join(f"`{item}`" for item in candidate["expressions"]) + "."
+        return ", ".join(f"`{item}`" for item in candidate["expressions"]) + "."
     if status == "deferred":
-        return "Revisit when " + candidate["revisit_when"].rstrip(".") + "."
+        condition = candidate["revisit_when"].rstrip(".")
+        return "When " + condition + "."
     if status == "source-bound":
         return candidate["source_rule"]
     return candidate["decision"]
