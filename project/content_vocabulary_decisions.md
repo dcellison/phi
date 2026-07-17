@@ -70,6 +70,7 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Materials, substances, fibres, and fire](#materials-substances-fibres-and-fire) | complete | closed | 9 |
 | [Dwelling, vessels, food, clothing, and light](#dwelling-vessels-food-clothing-and-light) | complete | closed | 7 |
 | [Tools, travel, and practical objects](#tools-travel-and-practical-objects) | complete | closed | 8 |
+| [Space, orientation, boundaries, and physical form](#space-orientation-boundaries-and-physical-form) | complete | closed | 9 |
 | [Recovered cross-inventory prompts](#recovered-cross-inventory-prompts) | complete | closed | 29 |
 
 ## Core material qualities
@@ -424,6 +425,20 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | `CV-TRAVEL-02` | a general vehicle or transport device | Compositional | base expression | `phaero keli`. `phaero keli` identifies an object by its transport function without claiming a particular power source, wheel arrangement, ownership relation, or service. Direct boat and wagon nouns remain available when their form is already known. |
 | `CV-TRAVEL-03` | cycles, powered road vehicles, public transport vehicles, aircraft, and other transport classes | Deferred | Systems, Accessibility, Built Environment, Ecological, base, or exact source material according to connected use | When a connected mobility, access, infrastructure, ecological, repair, or literary scenario repeatedly loses one transport distinction in transparent description. A bicycle and bus do not ask the same thing of a route, body, energy source, or shared service, and an aircraft differs again. Existing vocabulary can describe their movement, construction, carrying role, and source of energy until one class repeatedly needs a direct Phi word. |
 | `CV-TRAVEL-04` | exact vehicle models, routes, services, navigation identifiers, and equipment specifications | Source-bound | exact source identity beside a Phi account | Preserve model and service names, route numbers, and navigation codes in their original source form. Schedules, dimensions, ratings, and safety specifications keep their source notation. Phi can describe the vehicle, route, present condition, access relation, and travel event around an exact identifier. The identifier itself remains in the map, timetable, ticket, or technical record that makes it usable. |
+
+## Space, orientation, boundaries, and physical form
+
+| ID | Concept | Status | Placement | Decision or return condition |
+|---|---|---|---|---|
+| `CV-MEAS-02` | area as a neutral magnitude | Compositional | base expression | See the complete decision under [Size, extent, and distance](#size-extent-and-distance). |
+| `CV-MEAS-03` | volume as occupied spatial magnitude | Compositional | base expression | See the complete decision under [Size, extent, and distance](#size-extent-and-distance). |
+| `CV-SHAPE-01` | straight as an ordinary shape quality | Implemented | base | See the complete decision under [Aesthetic and formal qualities](#aesthetic-and-formal-qualities). |
+| `CV-SHAPE-02` | round as an ordinary shape quality | Compositional | base expression | See the complete decision under [Aesthetic and formal qualities](#aesthetic-and-formal-qualities). |
+| `CV-AIM-01` | physical alignment towards a selected point or object | Compositional | base construction usable in Work | See the complete decision under [Contact, force, and placement](#contact-force-and-placement). |
+| `CV-SPACE-01` | east and west within the cardinal direction system | Compositional | registered base expressions | `sileta thorui`, `sileta lumae`. Base `nitho` and `ronua` name north and south. East and west stay tied to the daily solar course: the sun's beginning names east, and its end names west. The four directions remain ordinary, value-neutral nouns. |
+| `CV-SPACE-02` | corners, bends, and intersections | Compositional | base descriptions | `wi shuna lorea`, `wi moru lorea`, `ruela rato`, `wi ruela lorea`. English corner covers several shapes. Two joined edges or walls make one kind, a path's turn makes another, and connected paths make a third. Keeping those structures visible is clearer than asking one root to hide all three. |
+| `CV-GEOM-01` | geometric points, lines, angles, axes, polygons, and exact relations beyond ordinary shape | Deferred | base, Work, Systems, a future mathematics profile, or exact source material according to connected use | When connected mathematical, design, craft, engineering, or teaching work repeatedly needs stable geometric objects and relations inside Phi rather than in an accompanying diagram or source definition. Circle, straightness, edges, surfaces, dimensions, position, and spatial relators cover ordinary physical description. A technical geometry inventory would introduce defined objects and relations whose exact meanings should be chosen together rather than borrowed one English headword at a time. |
+| `CV-SPACE-03` | exact coordinates, addresses, map references, parcel identifiers, and survey records | Source-bound | exact source identity beside a Phi account | Coordinates, addresses, grid references, parcel and site identifiers, survey marks, datum names, scales, and exact dimensions retain their original source form. Phi may describe their place, use, source, and uncertainty without recoding them. Phi can discuss an exact spatial record through its ordinary spatial vocabulary. The record keeps the notation and reference system that lets another person locate or verify it. |
 
 ## Recovered cross-inventory prompts
 

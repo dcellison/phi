@@ -51,6 +51,7 @@
     {"id": "materials-substances-fibres-and-fire", "heading": "Materials, substances, fibres, and fire", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-03", "CV-MAT-04", "CV-MAT-05", "CV-MAT-06", "CV-MAT-07", "CV-MAT-08", "CV-MAT-09", "CV-MAT-10", "CV-MAT-11"]},
     {"id": "dwelling-vessels-food-clothing-and-light", "heading": "Dwelling, vessels, food, clothing, and light", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-DWELL-01", "CV-DWELL-02", "CV-DWELL-03", "CV-DWELL-04", "CV-DWELL-05", "CV-FOOD-01", "CV-FOOD-02"]},
     {"id": "tools-travel-and-practical-objects", "heading": "Tools, travel, and practical objects", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-TOOL-01", "CV-TOOL-02", "CV-MESH-01", "CV-SIGNAL-01", "CV-TRAVEL-01", "CV-TRAVEL-02", "CV-TRAVEL-03", "CV-TRAVEL-04"]},
+    {"id": "space-orientation-boundaries-and-physical-form", "heading": "Space, orientation, boundaries, and physical form", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-02", "CV-MEAS-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-AIM-01", "CV-SPACE-01", "CV-SPACE-02", "CV-GEOM-01", "CV-SPACE-03"]},
     {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-02", "CV-MAT-05", "CV-MAT-06", "CV-MEAS-02", "CV-MEAS-03", "CV-MEAS-04", "CV-MEAS-05", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]}
   ],
   "candidates": [
@@ -124,7 +125,7 @@
       "placement": "base expression",
       "summary": "The measured kind can name the relevant surface or place before `ponalu` supplies its size, while exact values stay in source material.",
       "expressions": ["leko ponalu", "lokue ponalu"],
-      "batches": ["size-extent-and-distance", "recovered-cross-inventory-prompts"]
+      "batches": ["size-extent-and-distance", "space-orientation-boundaries-and-physical-form", "recovered-cross-inventory-prompts"]
     },
     {
       "id": "CV-MEAS-03",
@@ -133,7 +134,7 @@
       "placement": "base expression",
       "summary": "Overall size already handles ordinary occupied extent, and the size of a space can be named directly without confusing it with a container's technical capacity.",
       "expressions": ["ponalu", "tholu ponalu"],
-      "batches": ["size-extent-and-distance", "recovered-cross-inventory-prompts"]
+      "batches": ["size-extent-and-distance", "space-orientation-boundaries-and-physical-form", "recovered-cross-inventory-prompts"]
     },
     {
       "id": "CV-MEAS-04",
@@ -205,7 +206,7 @@
       "placement": "base",
       "summary": "The adjective separates an uncurved course or extended form from a direct route or steady movement.",
       "implementation": {"words": ["tekari"], "files": ["vocabulary/content/straight.json"]},
-      "batches": ["aesthetic-and-formal-qualities", "recovered-cross-inventory-prompts"]
+      "batches": ["aesthetic-and-formal-qualities", "space-orientation-boundaries-and-physical-form", "recovered-cross-inventory-prompts"]
     },
     {
       "id": "CV-SHAPE-02",
@@ -214,7 +215,7 @@
       "placement": "base expression",
       "summary": "The existing circle noun already describes a circular form through the ordinary noun-describes rule, and active text has used the expression naturally.",
       "expressions": ["sorui kire"],
-      "batches": ["aesthetic-and-formal-qualities", "recovered-cross-inventory-prompts"]
+      "batches": ["aesthetic-and-formal-qualities", "space-orientation-boundaries-and-physical-form", "recovered-cross-inventory-prompts"]
     },
     {
       "id": "CV-ETH-01",
@@ -448,7 +449,7 @@
       "placement": "base construction usable in Work",
       "summary": "`wea` (TOWARD) names the selected reference and `rato` (turn) changes an object's facing. The construction covers physical alignment without importing the combat-shaped extensions of aim or target.",
       "expressions": ["wea sileta rato"],
-      "batches": ["contact-force-and-placement", "recovered-cross-inventory-prompts"]
+      "batches": ["contact-force-and-placement", "space-orientation-boundaries-and-physical-form", "recovered-cross-inventory-prompts"]
     },
     {
       "id": "CV-PUNCTURE-01",
@@ -1007,6 +1008,42 @@
       "summary": "Phi can describe the vehicle, route, present condition, access relation, and travel event around an exact identifier. The identifier itself remains in the map, timetable, ticket, or technical record that makes it usable.",
       "source_rule": "Preserve model and service names, route numbers, and navigation codes in their original source form. Schedules, dimensions, ratings, and safety specifications keep their source notation.",
       "batches": ["tools-travel-and-practical-objects"]
+    },
+    {
+      "id": "CV-SPACE-01",
+      "concept": "east and west within the cardinal direction system",
+      "status": "compositional",
+      "placement": "registered base expressions",
+      "summary": "Base `nitho` and `ronua` name north and south. East and west stay tied to the daily solar course: the sun's beginning names east, and its end names west. The four directions remain ordinary, value-neutral nouns.",
+      "expressions": ["sileta thorui", "sileta lumae"],
+      "batches": ["space-orientation-boundaries-and-physical-form"]
+    },
+    {
+      "id": "CV-SPACE-02",
+      "concept": "corners, bends, and intersections",
+      "status": "compositional",
+      "placement": "base descriptions",
+      "summary": "English corner covers several shapes. Two joined edges or walls make one kind, a path's turn makes another, and connected paths make a third. Keeping those structures visible is clearer than asking one root to hide all three.",
+      "expressions": ["wi shuna lorea", "wi moru lorea", "ruela rato", "wi ruela lorea"],
+      "batches": ["space-orientation-boundaries-and-physical-form"]
+    },
+    {
+      "id": "CV-GEOM-01",
+      "concept": "geometric points, lines, angles, axes, polygons, and exact relations beyond ordinary shape",
+      "status": "deferred",
+      "placement": "base, Work, Systems, a future mathematics profile, or exact source material according to connected use",
+      "summary": "Circle, straightness, edges, surfaces, dimensions, position, and spatial relators cover ordinary physical description. A technical geometry inventory would introduce defined objects and relations whose exact meanings should be chosen together rather than borrowed one English headword at a time.",
+      "revisit_when": "connected mathematical, design, craft, engineering, or teaching work repeatedly needs stable geometric objects and relations inside Phi rather than in an accompanying diagram or source definition",
+      "batches": ["space-orientation-boundaries-and-physical-form"]
+    },
+    {
+      "id": "CV-SPACE-03",
+      "concept": "exact coordinates, addresses, map references, parcel identifiers, and survey records",
+      "status": "source-bound",
+      "placement": "exact source identity beside a Phi account",
+      "summary": "Phi can discuss an exact spatial record through its ordinary spatial vocabulary. The record keeps the notation and reference system that lets another person locate or verify it.",
+      "source_rule": "Coordinates, addresses, grid references, parcel and site identifiers, survey marks, datum names, scales, and exact dimensions retain their original source form. Phi may describe their place, use, source, and uncertainty without recoding them.",
+      "batches": ["space-orientation-boundaries-and-physical-form"]
     }
   ],
   "prompt_sources": [

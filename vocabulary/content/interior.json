@@ -7,16 +7,21 @@
     "wi"
   ],
   "pos": "noun",
-  "concept": "Interior / Inside Space / Inner Part",
-  "description": "The inner part or inside of something; the space within. 'Muwi' names the enclosed within—what is surrounded, protected, contained by outer layers.",
-  "sound_symbolism": "The word turns inward. 'Mu' grounds with contained presence, inside established. Then 'wi' opens gently within, interior space.",
-  "grammatical_notes": "Functions as a noun: 'muwi' (interior), 'lo muwi' (interiors). Opposite of 'lerua' (exterior). The protected inner space.",
-  "pillars": {
-    "secular-buddhist-philosophy": "The interior life matters—inner experience shapes outer action, inner peace enables outer presence.",
-    "art-nouveau-aesthetics": "Interior design unified spaces—creating harmonious inner environments where every element related."
-  },
+  "search_terms": [
+    "inside",
+    "inner part"
+  ],
+  "description": "Inside a house, vessel, body, or other bounded form lies its 'muwi', the interior. The word does not claim that this inner part is empty, hidden, or protected. 'lerua' is the exterior, while 'tholu' is space without requiring an enclosing object.",
+  "articulatory_notes": "Close the lips for voiced 'm', let the sound pass through the nose, and release into stressed high-back rounded 'u'. Keep the lips rounded and the back of the tongue raised for voiced 'w', then move into high-front unrounded 'i'.",
+  "usage_notes": "The enclosing whole comes first: 'womu muwi' is a home's interior. Registered 'muwi toru' names a ceiling, and 'muwi ruela' names a corridor or hallway.",
+  "examples": [
+    {
+      "phi": "womu muwi sulae nai.",
+      "translation": "The home's interior is warm."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Within",
-    "spatial": "Inner space"
+    "physical": "the inner part of an object, body, vessel, or structure",
+    "spatial": "an enclosed region contrasted with an exterior"
   }
 }

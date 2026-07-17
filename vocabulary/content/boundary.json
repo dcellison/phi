@@ -8,16 +8,25 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Boundary / Limit / Defining Border",
-  "description": "A line that marks the limits of an area; a dividing line. 'Norui' names the limit that defines—the border that creates identity by marking what is inside from what is outside.",
-  "sound_symbolism": "The word defines with quiet firmness. 'No' begins with grounded presence, the boundary simply being there. 'Rui' extends the line with gentle repetition. A boundary that holds not by force but by clear, present definition.",
-  "grammatical_notes": "Functions as a noun; the possessor precedes it: 'kosha norui' (the field's boundary). Related to 'shuna' (edge) but emphasizes the concept of limit rather than the physical line.",
+  "search_terms": [
+    "border",
+    "limit"
+  ],
+  "description": "A field fence may mark a 'norui', but the word belongs to the selected limit, not to the fence. Physical places and abstract systems alike can have boundaries, including ones that are invisible, disputed, or provisional. 'shuna' (edge) is where a physical body or surface ends; 'norui' is the limit being drawn or recognized.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for dental 'n' and let the voice pass through the nose into middle-height rounded 'o'. Tap or briefly trill the tongue tip at the alveolar ridge for 'r', then release into stressed high-back rounded 'u'. Keep the final high-front 'i' separate across a clear hiatus.",
+  "usage_notes": "The bounded thing comes first: 'kosha norui' is the field's boundary. The noun does not say who established a boundary, whether affected people accept it, or what crossing it permits or prevents.",
+  "examples": [
+    {
+      "phi": "kosha norui kiro nai.",
+      "translation": "The field's boundary is precise."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Boundaries are conventions—useful for navigation but ultimately empty of inherent existence.",
-    "peace-linguistics-practices": "Healthy boundaries enable relationship—knowing where I end and you begin allows true meeting."
+    "peace-linguistics-practices": "A boundary can protect consent or enforce exclusion. Naming it without treating it as natural leaves room to ask who set it, who accepts it, and what crossing entails."
   },
   "semantic_domains": {
-    "community": "Relational border",
-    "spatial": "Defining limit"
+    "community": "a stated limit within a relationship, institution, or shared arrangement",
+    "physical": "a limit that may be marked by a physical feature",
+    "spatial": "the selected extent of an area, object, or region"
   }
 }

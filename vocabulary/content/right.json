@@ -7,16 +7,24 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Right / The Right Side / Rightward",
-  "description": "The right side of the body and, by extension, the right side of anything oriented: the right hand, the right path, the right bank. Body-relative direction, the partner of 'lawe' (left). Names direction only — Phi deliberately does not use this word for correctness or entitlement.",
-  "sound_symbolism": "The firm 'ku' plants itself, and the bright 'ri' points outward — the steadying hand and the indicating finger. Deliberately shares no sounds with its partner 'lawe' (left), so the two directions can never be confused, spoken or written.",
-  "grammatical_notes": "A noun naming the side itself: 'mua kuri' (on the right). Before another noun it modifies by position: 'kuri ruela' (the right path). Paired with 'lawe' (left); the pair is intentionally phonetically disjoint. Not used for 'correct' (see 'shewo' true) or for rights/entitlements.",
+  "search_terms": [
+    "right side",
+    "rightward"
+  ],
+  "description": "On the other side of the body, 'kuri' identifies the right. Without a possessor, the word normally takes the speaker's body as its anchor; 'thia kuri' means your right. The word remains spatial; correctness, moral justification, and entitlement use other Phi vocabulary.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed high-back rounded 'u'. Tap or briefly trill the tongue tip at the alveolar ridge for 'r', then finish with high-front unrounded 'i'.",
+  "usage_notes": "'mua kuri' locates something on the speaker's right unless a possessor reanchors the scene; 'kuri ruela' is the right path. Its sound deliberately stays far from 'lawe' (left).",
+  "examples": [
+    {
+      "phi": "womu mua kuri nai.",
+      "translation": "The house is on my right."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "By refusing the English conflation of 'right' (direction) with 'right' (correct), Phi keeps direction value-neutral: no side is privileged.",
-    "pre-industrial-wisdom": "Direction reckoned from the body, the way a river is read from its banks and a tool from the hand that holds it."
+    "peace-linguistics-practices": "Keeping direction separate from correctness prevents a spatial term from lending moral weight to one side."
   },
   "semantic_domains": {
-    "physical": "Side of the body",
-    "spatial": "Body-relative direction"
+    "physical": "the right side of an oriented body",
+    "spatial": "a body-relative side extended to an oriented scene"
   }
 }

@@ -7,16 +7,21 @@
     "ko"
   ],
   "pos": "noun",
-  "concept": "Surface / Outer Layer / What Appears",
-  "description": "The outside part or uppermost layer of something; what is immediately visible. 'Leko' names the apparent—the outer face, the visible layer, what first meets perception.",
-  "sound_symbolism": "The word presents outward. 'Le' begins with light touch, surface met. Then 'ko' defines with clarity, the outer shown.",
-  "grammatical_notes": "Functions as a noun: 'leko' (surface), 'lo leko' (surfaces). Related to 'nusho' (depth)—surface and depth as complementary aspects.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Surface is not superficial—appearances matter, even as we see through to depth.",
-    "art-nouveau-aesthetics": "Surfaces carried ornament—the visible plane where decoration lived and beauty appeared."
-  },
+  "search_terms": [
+    "outer layer",
+    "face"
+  ],
+  "description": "The top of a table and the inside face of a bowl are both a 'leko', the surface through which an object meets what is around it. A surface can face inward or outward, lie above or below, and remain visible or covered; the word does not mean appearance alone. 'shuna' names its edge, 'lerua' the exterior as a whole, and 'hisae' the living skin of a body.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for lateral 'l', let the air pass around its sides, and release into stressed middle-height front 'e'. Close the back of the tongue against the soft palate for unvoiced 'k', then release into middle-height back rounded 'o'.",
+  "usage_notes": "The object comes first: 'wonepa leko' is a table's surface. 'leko ponalu' names surface size or area without supplying an exact value or unit.",
+  "examples": [
+    {
+      "phi": "wonepa leko helu nai.",
+      "translation": "The table's surface is smooth."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Visible face",
-    "spatial": "Outer layer"
+    "physical": "the material layer or face at an object's outside or interface",
+    "spatial": "an extended face with edges and an orientation"
   }
 }

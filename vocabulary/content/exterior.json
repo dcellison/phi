@@ -8,16 +8,21 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Exterior / Outside Surface / Outer Part",
-  "description": "The outer part or surface of something; what faces outward. 'Lerua' names the outer face—what meets the world, what is seen from outside.",
-  "sound_symbolism": "The word faces outward. 'Le' begins with light exposure, outer reached. 'Ru' rolls across the surface. Finally 'a' opens to the world, exterior presented.",
-  "grammatical_notes": "Functions as a noun: 'lerua' (exterior), 'lo lerua' (exteriors). Opposite of 'muwi' (interior). What presents to the world.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Exterior and interior are not separate—what shows outward reflects what lives within.",
-    "art-nouveau-aesthetics": "Exterior design shaped buildings—facades that integrated ornament with structure, beauty with function."
-  },
+  "search_terms": [
+    "outside",
+    "outer part"
+  ],
+  "description": "The roof and outer walls can be considered together as a building's 'lerua', its exterior. The word covers the outer part or outside region of any bounded thing, not merely the face presently visible. 'leko' (surface) is a particular layer or face; 'lerua' contrasts with 'muwi' (interior) as a larger spatial part.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for lateral 'l' and let the air pass around its sides into middle-height front 'e'. Tap or briefly trill the tongue tip for 'r', then release into stressed high-back rounded 'u'. Keep the final open central 'a' separate across the hiatus.",
+  "usage_notes": "A possessor names the whole whose exterior is meant: 'womu lerua' is the home's exterior. Use 'mua womu lerua' to locate something at that exterior.",
+  "examples": [
+    {
+      "phi": "womu lerua hiso nai.",
+      "translation": "The home's exterior is clean."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Facing out",
-    "spatial": "Outer surface"
+    "physical": "the outside-facing parts of a bounded thing considered together",
+    "spatial": "the outer region contrasted with an interior"
   }
 }

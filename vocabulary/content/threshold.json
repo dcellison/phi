@@ -8,16 +8,25 @@
     "wo"
   ],
   "pos": "noun",
-  "concept": "Threshold / Doorway / Point of Transition",
-  "description": "The point of entering or beginning; the place of crossing between spaces. 'Maewo' names the liminal—the doorway where one realm meets another, the moment of crossing.",
-  "sound_symbolism": "The word crosses over. 'Ma' grounds at the entrance, position marked. The vowel 'e' opens to crossing. Then 'wo' rounds into the new space, threshold passed.",
-  "grammatical_notes": "Functions as a noun: 'mia mua maewo whano.' (I stand at the threshold). Liminal space—neither fully inside nor outside, the place of transition.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Life is lived at thresholds—the constant crossing from one moment, one state, one understanding to the next.",
-    "pre-industrial-wisdom": "Thresholds were guarded—doorways as vulnerable points requiring protection, blessing, or ritual."
-  },
+  "search_terms": [
+    "sill",
+    "transition point",
+    "crossing point"
+  ],
+  "description": "A doorstep gives 'maewo' its plainest sense: a threshold crossed between one place and another. The same word can mark the start of a process or a stated measurement point whose crossing has defined consequences. 'norui' marks a limit; 'maewo' draws attention to approaching or crossing it.",
+  "articulatory_notes": "Close the lips for voiced 'm', let the sound pass through the nose, and open into central 'a'. Keep the following stressed middle-height front 'e' separate across the hiatus. Round the lips and raise the back of the tongue for voiced 'w', then finish with middle-height back rounded 'o'.",
+  "sound_symbolism": "The central hiatus makes the voice cross from 'a' to 'e' without a consonant, and final 'wo' gathers it again. In Phi, that small opening offers a mnemonic for passage across a threshold.",
+  "usage_notes": "The physical example 'mua maewo' means at the threshold. Systems 'masue maewo' names a measurement threshold, but the exact value, method, source, and consequence must still be stated; 'maewo' alone does not validate them.",
+  "examples": [
+    {
+      "phi": "mia mua maewo whano.",
+      "translation": "I stand at the threshold."
+    }
+  ],
   "semantic_domains": {
-    "ritual": "Liminal space",
-    "spatial": "Crossing point"
+    "quantity": "a stated point whose crossing changes a classification or response",
+    "ritual": "a crossing point that can organize a ceremony or transition",
+    "spatial": "the sill, doorway, or line crossed between places",
+    "temporal": "the point at which a process or state begins to change"
   }
 }

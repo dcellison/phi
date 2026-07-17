@@ -7,16 +7,22 @@
     "lu"
   ],
   "pos": "noun",
-  "concept": "Space / Open Area / Room to Be",
-  "description": "A continuous area or expanse that is free or unoccupied; room for something to exist or happen. 'Tholu' names the openness that allows—the emptiness that enables presence, the room that permits being.",
-  "sound_symbolism": "The word opens space. 'Tho' /θo/ begins with breath into openness, space forming. Then 'lu' flows into the empty, extension continuing.",
-  "grammatical_notes": "Functions as a noun: 'whemoa tholu' (empty space). Names enabling openness rather than mere lack.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Space enables form—emptiness is not nothing but the openness that allows everything.",
-    "art-nouveau-aesthetics": "Space shaped design—negative space as essential as positive form, breathing room for ornament."
-  },
+  "search_terms": [
+    "open space",
+    "spatial extent"
+  ],
+  "description": "A body needs room to turn, and a gathering needs room to form. That open or available spatial extent is 'tholu'; it may be empty or occupied and need not have fixed walls. 'tholupi' (room) is a bounded interior in a building, while 'lokue' identifies a particular place and 'muwi' the interior of something.",
+  "articulatory_notes": "Bring the tongue tip close to or lightly between the upper teeth for unvoiced 'th' and let the air pass continuously into stressed middle-height back rounded 'o'. Touch the tongue tip to the alveolar ridge for lateral 'l', pass the voice around its sides, and finish with high-back rounded 'u'.",
+  "sound_symbolism": "Breath passes through 'th' without a stop, and the lateral keeps the voice moving into the final rounded vowel. In Phi, that uninterrupted airflow can recall spatial room that remains available for movement.",
+  "usage_notes": "'whemoa tholu' is empty space, and 'tholu ponalu' is the size of a space. Accessibility 'loshenu' names clearance for a particular body, object, or movement rather than space in general.",
+  "examples": [
+    {
+      "phi": "ha tholu nuelo nai.",
+      "translation": "This space is dark."
+    }
+  ],
   "semantic_domains": {
-    "spatial": "Open area",
-    "wisdom": "Enabling emptiness"
+    "physical": "extent available to bodies, objects, and movement",
+    "spatial": "open or occupied room in which an arrangement can exist"
   }
 }

@@ -7,16 +7,24 @@
     "tho"
   ],
   "pos": "noun",
-  "concept": "North / The Still Axis Direction",
-  "description": "The cardinal direction toward the world's turning axis, the still point around which the sky appears to wheel. Phi coins 'nitho' and 'ronua' (south) as its two cardinal anchors; east and west follow the sun's path in 'sileta thorui' (sun's beginning, east) and 'sileta lumae' (sun's end, west).",
-  "sound_symbolism": "The grounded dental 'n' plants the axis, the focused 'i' narrows to the single still point, and the wisdom-breath 'tho' opens to the wholeness of the turning sky around it. A fixed point, calmly held. Deliberately shares almost nothing with its partner 'ronua' (south), or with 'lawe'/'kuri' (left/right), so the four directions can never be confused.",
-  "grammatical_notes": "A noun naming the direction. Before another noun it modifies by position: 'nitho ruela' (the north path). With prepositions: 'wea nitho' (northward, toward the north), 'lue nitho' (from the north). Value-neutral by design: north carries no sense of up, cold, or primacy — those associations are hemisphere- and map-relative, which Phi declines to encode.",
+  "search_terms": [
+    "northward",
+    "northern direction"
+  ],
+  "description": "North, the cardinal direction toward Earth's North Pole, is 'nitho'. Phi keeps it as one of two atomic cardinal terms, paired with 'ronua' (south). 'sileta thorui' and 'sileta lumae' give east and west through the sun's beginning and end.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for dental 'n' and carry the voice through the nose into stressed high-front unrounded 'i'. Bring the tongue tip close to or lightly between the upper teeth for unvoiced 'th', let the air pass continuously, and finish with middle-height back rounded 'o'.",
+  "usage_notes": "As a noun, 'nitho' follows relators in 'wea nitho' (northward) and 'lue nitho' (from the north). It may describe another noun in 'nitho ruela' (north path). It carries neither an upward map position nor a colder climate; no direction outranks another.",
+  "examples": [
+    {
+      "phi": "melu lue nitho shua.",
+      "translation": "The friend comes from the north."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Phi's cardinal terms carry no hierarchy: no direction is 'up', none is primary. The compass is a circle of equals.",
-    "pre-industrial-wisdom": "Navigators of every tradition found the still point of the turning sky and steered by it. 'Nitho' names that anchor — knowledge older than maps."
+    "pre-industrial-wisdom": "People have long kept direction by reading the turning sky together with horizon, season, and local landmarks. A printed map is one aid among several, not the source of north itself."
   },
   "semantic_domains": {
-    "nature": "The still point of the wheeling sky",
-    "spatial": "Cardinal direction of the turning axis"
+    "nature": "a cardinal direction related to Earth's rotation and the observed sky",
+    "spatial": "the northward cardinal direction"
   }
 }

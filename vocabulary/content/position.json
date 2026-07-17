@@ -7,21 +7,27 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Position / Place in Sequence / Rank Without Hierarchy",
-  "description": "Position within a sequence, order, or arrangement: first, third, last. 'Noa' names place without rank; a position says where something sits in a pattern, not what it is worth. Positions are relational: first means nothing without second.",
-  "sound_symbolism": "The word begins with 'no', where the nasal 'n' grounds and the round 'o' encompasses—together suggesting established position within a whole. This solid placement opens into 'a', the most expansive vowel, acknowledging that each position exists within a larger sequence. The acoustic journey from grounded position to open context mirrors how positional thinking works—specific placement gains meaning from the sequence that contains it.",
-  "grammatical_notes": "As a noun, takes the ordinal particle with numbers for specific positions: 'nu ta noa' (first position), 'nu wi noa' (second position). Takes prepositions like any noun: 'mua noa' (in position), 'pheo noa' (after the position). Follows a possessor to indicate something's place in a sequence: 'mia noa' (my position). Enables discussion of order and arrangement without implying value hierarchies.",
+  "search_terms": [
+    "ordinal position",
+    "rank",
+    "standpoint"
+  ],
+  "description": "A child waiting second in a line occupies a 'noa', a position within an arrangement, sequence, or scale. The same word can be spatial, ordinal, or conceptual: an object may occupy a high position and a claim may begin from a stated standpoint. 'lokue' names the place itself; 'noa' names where something stands in relation to other positions.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for dental 'n' and let the voice pass through the nose into stressed middle-height back rounded 'o'. Keep the following open central 'a' separate across a clear hiatus.",
+  "usage_notes": "A cardinal number stands directly before the noun: 'ta noa' is the first position and 'wi noa' the second. Do not add ordinal 'nu' when position itself is the noun. 'raelu noa' and 'mulu noa' give high and low positions; registered 'sone noa' and 'remo noa' give priority and standpoint. None of these expressions establishes the worth or legitimacy of the ordering.",
+  "examples": [
+    {
+      "phi": "lopia mua wi noa nai.",
+      "translation": "The child is in the second position."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "In regenerative systems, every position in a cycle has its essential function. Decomposers are not 'lower' than producers; each position enables the whole to flourish.",
-    "secular-buddhist-philosophy": "Embodies the teaching of dependent origination—positions exist only in relation to each other. First is meaningless without second, beginning requires ending. This interdependence of position reflects deeper truths about existence.",
-    "art-nouveau-aesthetics": "Like the sequential unfurling of fern fronds or the spiral arrangement of seeds, position follows natural patterns where each place contributes to overall beauty and function.",
-    "peace-linguistics-practices": "By treating position as a neutral relationship rather than a hierarchy, 'noa' enables discussion of order without creating competition or superiority. Each position has its place and purpose within the whole.",
-    "pre-industrial-wisdom": "Natural sequences—phases of moon, seasons, life stages—teach that position in cycle matters for practical harmony, not abstract rank. 'Noa' carries this understanding that position is about relationship within wholes."
+    "peace-linguistics-practices": "A stated position reports an arrangement. It does not establish worth, consent to the ordering, or legitimacy of its consequences."
   },
   "semantic_domains": {
-    "community": "Enables discussion of roles and places within social structures",
-    "spatial": "Represents position within physical or conceptual arrangements",
-    "temporal": "Marks place within sequences and cycles",
-    "wisdom": "Understanding position as relational rather than hierarchical"
+    "cognition": "a standpoint from which a thought or claim is situated",
+    "community": "a place within an ordering, queue, role arrangement, or priority scheme",
+    "quantity": "an ordinal place within a counted sequence",
+    "spatial": "a location understood relative to other positions"
   }
 }

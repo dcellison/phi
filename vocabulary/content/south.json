@@ -8,16 +8,21 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "South / The Open Turning Direction",
-  "description": "The cardinal direction opposite 'nitho' (north), away from the sky's still axis. Phi coins these as its two cardinal anchors; east and west follow the sun's path in 'sileta thorui' (sun's beginning, east) and 'sileta lumae' (sun's end, west).",
-  "sound_symbolism": "The flowing 'ro' sets out in motion, the grounding 'nu' passes through depth, and the open 'a' arrives at wide horizon — an expanse unrolling away from the fixed point. Deliberately shares almost nothing with its partner 'nitho' (north), or with 'lawe'/'kuri' (left/right), so the four directions can never be confused.",
-  "grammatical_notes": "A noun naming the direction. Before another noun it modifies by position: 'ronua ruela' (the south path). With prepositions: 'wea ronua' (southward), 'lue ronua' (from the south). Value-neutral by design: south carries no sense of down, heat, or lesserness — those associations are hemisphere- and map-relative, which Phi declines to encode.",
-  "pillars": {
-    "peace-linguistics-practices": "No direction is 'down' or lesser in Phi. The compass is a circle of equals, and its words refuse the map-maker's hierarchy.",
-    "pre-industrial-wisdom": "The direction the sky-watcher faces away from the axis — the other half of the oldest compass, complete with two words and the sun's own path."
-  },
+  "search_terms": [
+    "southward",
+    "southern direction"
+  ],
+  "description": "'ronua' occupies the opposite polar end of the compass: south, the direction toward Earth's South Pole. Together with 'nitho' (north), it completes Phi's pair of atomic cardinal terms. East and west remain 'sileta thorui' and 'sileta lumae', the sun's beginning and end.",
+  "articulatory_notes": "Tap or briefly trill the tongue tip at the alveolar ridge for 'r' and round into middle-height back 'o'. Place the tongue tip against the backs of the upper teeth for dental 'n' and carry the voice through the nose into stressed high-back rounded 'u'. Keep the final open central 'a' separate across the hiatus.",
+  "usage_notes": "'wea ronua' is southward, 'lue ronua' is from the south, and 'ronua ruela' is a south path. Map position and climate stay outside the noun. The four compass directions carry no rank.",
+  "examples": [
+    {
+      "phi": "melu lue ronua shua.",
+      "translation": "The friend comes from the south."
+    }
+  ],
   "semantic_domains": {
-    "nature": "The open expanse of the turning sky",
-    "spatial": "Cardinal direction opposite the axis point"
+    "nature": "a cardinal direction related to Earth's rotation and the observed sky",
+    "spatial": "the southward cardinal direction"
   }
 }

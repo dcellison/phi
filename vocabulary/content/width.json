@@ -8,16 +8,22 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Width / Distance Across / Horizontal Extent",
-  "description": "The measurement from side to side; the quality of being wide. 'Lonai' names horizontal extent—how far something spans, how broad something stretches.",
-  "sound_symbolism": "The word spans level. 'Lo' opens with horizontal extent, span beginning. 'Na' extends across with stable reach. Then 'i' completes the measurement, width known.",
-  "grammatical_notes": "Functions as a noun: 'lonai' (width). Related to the adjective 'losha' (wide). One dimension alongside 'raeli' (height) and 'nusho' (depth).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Width of view sees more—broad perspective recognizes connection and context.",
-    "art-nouveau-aesthetics": "Width created flow—horizontal designs that guided the eye across surfaces."
-  },
+  "search_terms": [
+    "breadth",
+    "side-to-side extent"
+  ],
+  "description": "Measure from bank to bank and the chosen side-to-side extent is the river's 'lonai', its width. Doorways, cloth, and paths have the same dimension before anyone judges them wide or narrow. 'losha' and 'hieru' make that judgment; 'waleru' follows end-to-end extent and 'theru' thickness between opposing surfaces.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for lateral 'l', pass the air around its sides, and round into middle-height back 'o'. Place the tongue tip against the backs of the upper teeth for dental 'n' and open into stressed central 'a'. Keep the final high-front 'i' separate across the hiatus.",
+  "usage_notes": "The thing being gauged comes first, as in 'wetha lonai' (the cloth's width). The chosen sides, exact value, and unit remain with the measurement record when they matter.",
+  "examples": [
+    {
+      "phi": "wi wetha lonai kolo nai.",
+      "translation": "The two pieces of cloth have equal width."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Breadth",
-    "spatial": "Horizontal extent"
+    "physical": "side-to-side extent across an object, opening, path, or body of water",
+    "quantity": "a dimension available for comparison or measurement",
+    "spatial": "breadth across selected opposing sides"
   }
 }
