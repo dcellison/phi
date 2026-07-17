@@ -8,18 +8,22 @@
     "la"
   ],
   "pos": "noun",
-  "concept": "Host / One Who Creates Open Space",
-  "description": "One who creates a warm, receptive space for others. The role is defined by the act of providing welcome, safety, and nourishment.",
-  "sound_symbolism": "The soft fricative 'ph' breathes forth gentle welcome, like opening a door to fresh air. The personal 'mi' at the heart centers the act in authentic presence, while the flowing 'la' extends that presence outward like ripples of hospitality. This three-syllable construction creates a rhythm of invitation-presence-extension that mirrors the host's role: first opening space, then being fully present, finally letting that presence flow to embrace all who enter.",
-  "grammatical_notes": "Noun, forming a semantic pair with 'phemi' (guest): 'phemila nela phemi' (host and guest). Hosting is welcoming and being: 'mia lo phemi whelani.' (I welcome the guests.) 'mia phemila nai.' (I am the host.)",
+  "description": "The person responsible for receiving a guest in a place or gathering is the 'phemila'. Hosting may involve welcome and practical care; 'whelani' (welcome) is the reception itself. The role grants neither ownership of the place nor authority over the guest.",
+  "articulatory_notes": "Bring the lips close without closing them and push unvoiced air through the narrow opening for 'ph', then release into middle-height front unrounded 'e'. Close the lips for voiced 'm', carry resonance through the nose, and release into stressed high-front unrounded 'i'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and finish with open central 'a'.",
+  "sound_symbolism": "The full sound of 'phemi' (guest) opens this word. Final 'la' adds a voiced lateral and an open vowel, so the host role audibly grows from the guest relation without treating the last syllable as a productive suffix.",
+  "usage_notes": "The pair can appear as 'phemila nela phemi' (host and guest). With 'nai', the noun predicates the role; the surrounding clause can name the place, occasion, or acts of care.",
+  "examples": [
+    {
+      "phi": "mia phemila nai.",
+      "translation": "I am the host."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "The act of hosting creates immediate conditions for peace by transforming potential strangers into welcomed guests. This practice dissolves the barriers of 'us and them' through shared food, shelter, and story. Skilled hosts know that creating safe, welcoming space allows authentic dialogue to emerge, making hosting itself a form of conflict transformation.",
-    "pre-industrial-wisdom": "In traditional societies the host's duty went past food and shelter: a guest became temporary family for the length of the stay, and many cultures held that a stranger at the door might be a god in disguise. Networks of reciprocal hospitality sustained travel and exchange for millennia."
+    "peace-linguistics-practices": "A host can make the terms of entry and care speakable before comfort is assumed. The guest's consent and freedom to leave remain their own facts."
   },
   "semantic_domains": {
-    "community": "creates temporary family through networks of reciprocal care",
-    "creation": "actively builds welcoming environments and gathering conditions",
-    "ritual": "carries sacred responsibility and ceremonial welcome protocols",
-    "spatial": "creates and holds open sanctuary spaces for others"
+    "activity": "a person taking responsibility for receiving a guest",
+    "community": "one side of a temporary hospitality relation",
+    "spatial": "the receiving role within a place or gathering"
   }
 }

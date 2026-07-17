@@ -8,17 +8,21 @@
     "me"
   ],
   "pos": "noun",
-  "concept": "Ancestor / The Deep Flow Before the Self",
-  "description": "Those who came before, whose lives and choices form the deep, flowing current out of which the present self emerges. They are honored as the source of the river of kinship.",
-  "sound_symbolism": "The word begins with the reverent fricative 'th', requiring a pause of breath that mirrors the respectful pause we take when invoking those who came before. The deep 'a' grounds us in ancient time, flowing into the liquid 'lu' that carries the stream of lineage forward. The final 'me' brings this flow into personal connection—acknowledging that we are the continuation of their story. This three-syllable journey from reverent breath through flowing time to personal presence creates a sound that feels both ancient and intimate, honoring those whose lives made ours possible.",
-  "grammatical_notes": "As a noun, typically pluralized with 'lo' when referring to the collective lineage: 'lo thalume' (ancestors). Forms a semantic pair with 'lumira' (descendant). Possession is bare juxtaposition with the possessor first: 'lo mia lo thalume' (our ancestors). In ritual contexts, frequently occurs with the respect honorific 'sa' when invoking specific named ancestors.",
+  "description": "A person earlier in a line of descent is a 'thalume' to someone living later. A community may also use the word for earlier people recognised in its own lineage, with the particular relation stated nearby. 'noruwa' (generation) counts or groups the intervals rather than the people.",
+  "articulatory_notes": "Place the tongue tip lightly at the upper teeth and pass unvoiced air through the gap for 'th', then lower the tongue into open central 'a'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and round the lips for stressed high-back 'u'. Close the lips for voiced 'm', carry resonance through the nose, and release into middle-height front unrounded 'e'.",
+  "sound_symbolism": "The first two syllables are also the opening of 'thaluni' (kin), while the 'lu.m' sequence returns in 'lumira' (descendant). The forms sound related before their different endings show which part of the family line is in view.",
+  "usage_notes": "The plural particle 'lo' can gather several ancestors. Honour, inheritance, and obligation remain separate claims, so naming an ancestor does not decide how a later person should judge them.",
+  "examples": [
+    {
+      "phi": "lo mia lo thalume keluro.",
+      "translation": "We honour our ancestors."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The concept embodies the Buddhist understanding of interdependence and continuity - that our present existence arises from countless causes and conditions set in motion by those before us. It reflects the teaching that nothing exists in isolation, and that honoring ancestors is recognizing the web of connections that made our life possible.",
-    "pre-industrial-wisdom": "Ancestor veneration is fundamental to traditional societies worldwide, recognizing that wisdom accumulates across generations and that the living have sacred obligations to those who came before. This understanding of deep time and intergenerational connection stands in contrast to modern individualism and historical amnesia."
+    "pre-industrial-wisdom": "The word gives oral history a person to return to: a story can name whose craft or choice came down the line."
   },
   "semantic_domains": {
-    "community": "forms the deep current of kinship and lineage",
-    "ritual": "honored through sacred obligations and veneration",
-    "temporal": "connects present to deep time through generations"
+    "community": "a person related to later people through descent or recognised lineage",
+    "temporal": "someone placed earlier in an intergenerational line"
   }
 }

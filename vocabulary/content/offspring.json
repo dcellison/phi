@@ -8,16 +8,24 @@
     "la"
   ],
   "pos": "noun",
-  "concept": "Offspring / Those Who Spring Forth",
-  "description": "The children or descendants of a person, family, or community, understood not as possessions but as new growth emerging from established roots. Offspring embody both continuity and change, carrying forward essential wisdom while bringing fresh perspectives. They represent the future that springs from the present, the promise that life renews itself through each generation.",
-  "sound_symbolism": "The breath of 'pho' carries the generative force of parents, that same energy flowing into new form. It meets 'mi', the emerging individual, and the final 'la' carries new life forward in liquid continuity. Three syllables trace inherited life, individual emergence, forward flow.",
-  "grammatical_notes": "Functions only as a noun; Phi expresses the generative act with 'phao' (parent) as verb instead. Example: 'mia lo phomila welira.' (My offspring thrive.) Related to 'lopia' (child), which names youth rather than descent, and 'lumira' (descendant), which reaches across more generations.",
+  "search_terms": [
+    "child by descent",
+    "progeny"
+  ],
+  "description": "Someone remains a person's 'phomila', or offspring, regardless of their present age. 'lopia' (child) describes childhood, while 'lumira' (descendant) can reach through more than one generation. The relation is descent rather than possession.",
+  "articulatory_notes": "Bring the lips close for unvoiced 'ph' and push air through the narrow opening, then round them for middle-height back 'o'. Close the lips for voiced 'm', let the sound resonate through the nose, and release into stressed high-front unrounded 'i'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and finish with open central 'a'.",
+  "usage_notes": "Place the parent or earlier relative before 'phomila' to show whose offspring is meant. Use 'lo' for an explicit plural. The noun can refer to an adult offspring; use 'lopia' when the childhood stage is the point.",
+  "examples": [
+    {
+      "phi": "mia lo phomila welira.",
+      "translation": "My offspring thrive."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Offspring embody the future that solarpunk designs for - they are the seventh generation whose thriving guides today's decisions. Every regenerative system, every circular economy, every rewilding project ultimately serves offspring who will inherit either abundance or scarcity. They represent hope made tangible, the possibility that each generation can heal more than it harms.",
-    "pre-industrial-wisdom": "Traditional societies understood offspring as the living bridge between ancestors and descendants, carrying forward not just genes but stories, skills, and sacred responsibilities. Children belonged to the whole community, raised by many hands, ensuring cultural knowledge survived beyond any single keeper. This wisdom sees offspring as both gift and duty - the future entrusted to the present."
+    "solarpunk-values": "Calling future people 'phomila' brings them into a living line of descent. A present decision can state what reaches them instead of praising the future in general."
   },
   "semantic_domains": {
-    "community": "fundamental to family bonds and social continuity",
-    "temporal": "represents future generations and continuity through time"
+    "community": "a person's direct relation to the next generation in a family line",
+    "temporal": "offspring continue a line beyond the parent's generation"
   }
 }

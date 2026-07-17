@@ -7,17 +7,18 @@
     "lu"
   ],
   "pos": "noun",
-  "concept": "Friend / Companion / Heart-connected other",
-  "description": "A person with whom one shares mutual affection, trust, and chosen connection. 'Melu' emphasizes that the bond is voluntary—maintained through mutual care rather than obligation or circumstance—which is what separates a friend from kin, colleague, or neighbor. It names community at its smallest scale: two people choosing each other.",
-  "sound_symbolism": "The word begins with 'me', where the nurturing nasal 'm' suggests the warmth of human connection—like arms embracing—meeting 'e', the balanced mid vowel of equality and mutual regard between peers. This flows into 'lu', where the liquid 'l' creates a bridge of connection, opening to 'u', the deep vowel of grounding and lasting bonds. Together, 'melu' creates the sound of friendship itself: warm equality ('me') flowing into deep connection ('lu')—two beings choosing to root their lives together while maintaining their individual wholeness.",
-  "grammatical_notes": "As a relational noun, 'melu' can take possessive modifiers to indicate whose friend: 'mia melu' (my friend), 'thia melu' (your friend). Takes the plural particle 'lo' for multiple friends: 'lo melu' (friends). Can be modified by adjectives describing the quality of friendship. Often appears with the reciprocal construction to emphasize mutuality. Can function as subject, object, or within prepositional phrases.",
-  "pillars": {
-    "solarpunk-values": "Friendship forms the foundation of resilient communities—networks of mutual aid that exist outside institutional structures. In solarpunk futures, friendships create the informal support systems that help communities thrive. 'Melu' represents these chosen bonds that weave the social fabric of regenerative culture.",
-    "secular-buddhist-philosophy": "Friends serve as mirrors for our own growth, reflecting both our virtues and areas needing development. The Buddhist concept of kalyāṇa-mittatā (spiritual friendship) recognizes that companions on the path are essential for awakening. 'Melu' carries this understanding that friends help us see ourselves clearly and support our journey toward wisdom.",
-    "peace-linguistics-practices": "Friendship represents the fundamental unit of peaceful relationship—voluntary connection based on mutual regard rather than power or obligation. The concept of 'melu' embodies non-violent relating at its most intimate scale, showing how individuals can choose harmony and support over competition or isolation."
-  },
+  "description": "'melu' is a friend, someone joined to another person by a chosen relation of affection or trust. Friendship is mutual when both people hold it; one speaker calling someone a friend does not announce the other person's view. 'keloe' (companion) requires only shared company or a course travelled together.",
+  "articulatory_notes": "Close the lips for voiced 'm', let the sound resonate through the nose, and release into stressed middle-height front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and finish with high-back rounded 'u'.",
+  "sound_symbolism": "Both consonants keep the voice running, first through the nose and then along the sides of the tongue. The short form changes contact without a hard break. It is an easy sound to call across a room.",
+  "usage_notes": "Possessor-first 'mia melu' identifies my friend without claiming ownership. Reciprocal 'wiso' can make a mutually directed act explicit, while the surrounding conversation can establish whether both people name the relation alike.",
+  "examples": [
+    {
+      "phi": "mia melu theomi.",
+      "translation": "I trust my friend."
+    }
+  ],
   "semantic_domains": {
-    "community": "fundamentally a social relationship of voluntary interpersonal connection",
-    "emotion": "inherently involves emotional bonds of affection, care, and concern"
+    "community": "a chosen interpersonal relation recognised as friendship",
+    "emotion": "friendship commonly carries affection or personal trust"
   }
 }

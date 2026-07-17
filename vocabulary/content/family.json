@@ -8,17 +8,20 @@
     "ni"
   ],
   "pos": "noun",
-  "concept": "Family / The Deep, Open Bond",
-  "description": "The inner circle of belonging, whether formed by blood, choice, or circumstance. It is the first community, defined by deep, open-hearted, and supportive bonds.",
-  "sound_symbolism": "The word begins with 'lu', a liquid sound that flows like the bloodlines and heart-lines connecting family members across generations. This deepens through 'ma', the universal syllable of nurturing—the first sound many babies make, calling for care. The final 'ni' grounds this flowing connection in presence, in being together here and now. This progression—from ancestral flow through nurturing care to present belonging—captures family as both inheritance and choice. The gentle liquids and nasals create a sound that feels like being held, safe and seen, while the three syllables give weight to this most fundamental of bonds.",
-  "grammatical_notes": "A noun. Possessor precedes: 'mia lumani' (my family). Example: 'no lumani naphe.' (Help the family.) Before another noun it modifies by position, marking the familial. Related: thaluni (kin), phao (parent), lopia (child), sila (community).",
+  "description": "'lumani' is a family formed through kinship, adoption, or chosen commitment to shared care. Its people need not share a dwelling; 'womuri' (household) is the domestic unit that keeps one home. Affection and agreement remain their own facts within a family.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and round the lips for high-back 'u'. Close the lips for voiced 'm', carry resonance through the nose, and release into stressed open central 'a'. Touch the tongue tip to the upper teeth for dental 'n' and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The word moves from the lateral flow of 'lu' through two nasal contacts, first at the lips and then at the teeth. That sequence keeps the voice resonant while the place of contact shifts, a physical mnemonic for closeness that still has room to change.",
+  "usage_notes": "Possessor-first 'mia lumani' means my family. 'thaluni' (kin) points to related people, while 'lumani' can name the family as a group or relation. Chosen family belongs within that range.",
+  "examples": [
+    {
+      "phi": "pi no lumani naphe.",
+      "translation": "Please help the family."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Family embodies the teaching of interdependence in its most intimate form - recognizing that our wellbeing is inseparable from those closest to us. This includes both given and chosen family, understanding that the bonds of care and mutual support can transcend blood relationship to encompass all who commit to each other's flourishing.",
-    "peace-linguistics-practices": "Family serves as the first training ground for peaceful relationship - where we learn to navigate conflict with those we cannot simply leave. The practice of maintaining family bonds despite differences teaches the skills of patient dialogue, forgiveness, and finding common ground that extend into all relationships.",
-    "pre-industrial-wisdom": "Family in traditional understanding extends beyond nuclear units to encompass extended kin networks that provide mutual support across generations. This wisdom recognizes family as the fundamental economic and social safety net, where resources, knowledge, and care circulate based on relationship rather than transaction."
+    "peace-linguistics-practices": "Because 'lumani' does not promise harmony, a speaker can name both care and conflict without losing the relationship itself."
   },
   "semantic_domains": {
-    "community": "forms the fundamental unit of social bonds and belonging",
-    "emotion": "nurtures deep bonds of love, care, and mutual support"
+    "community": "a close group or relation formed through kinship or committed care"
   }
 }

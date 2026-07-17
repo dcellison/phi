@@ -7,17 +7,20 @@
     "mi"
   ],
   "pos": "noun",
-  "concept": "Guest / A Sacred Visitor",
-  "description": "One who enters a space as an honored visitor deserving of hospitality and care. The role of guest is considered a sacred one, bringing the gift of their presence.",
-  "sound_symbolism": "The word begins with 'phe', a gentle fricative that breathes possibility and gift into being—acknowledging that every guest brings something precious simply through their presence. This flows into 'mi', the resonant nasal of personal essence, recognizing the guest as a whole being worthy of honor. In just two syllables, the word reframes visitation as exchange: the guest offers the gift of their presence ('phe') and their authentic self ('mi'). The sound feels both welcoming and reverent.",
-  "grammatical_notes": "A noun forming a semantic pair with 'phemila' (host). Pluralized with 'lo': 'lo phemi' (guests). Possessor precedes directly: 'mia phemi' (my guest). The vocative 'kona' combines when addressing a guest: 'kona phemi' (dear guest). Can be modified by honorifics: 'sa phemi' (honored guest). Copular use puts the predicate before nai: 'shia phemi nai.' (They are a guest.)",
+  "description": "A visitor becomes a 'phemi' when received for a temporary stay in another person's place or gathering. An unknown person at the door is not a guest until a host takes up that relation. 'phemila' (host) is the corresponding role.",
+  "articulatory_notes": "Bring the lips close without closing them and push unvoiced air through the narrow opening for 'ph', then release into stressed middle-height front unrounded 'e'. Close the lips for voiced 'm', let the sound resonate through the nose, and finish with high-front unrounded 'i'.",
+  "usage_notes": "The noun can take ordinary number and possession. Without 'ne', 'phemi' remains a common role; 'ne phemi' can bear that content word as a proper name.",
+  "examples": [
+    {
+      "phi": "theli phemi ta noru howela.",
+      "translation": "Each guest receives a bowl."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Welcoming guests with honor creates immediate conditions for peace by transforming potential strangers into temporary family. This practice recognizes that most conflicts arise from fear of the other, and that sharing food and shelter dissolves barriers more effectively than any negotiation. Guest-friendship has historically created peace between tribes and nations.",
-    "pre-industrial-wisdom": "Guest-host relationships in traditional societies carry sacred obligations - the understanding that anyone might need shelter and that today's host may be tomorrow's guest. This wisdom sees hospitality not as optional kindness but as fundamental to human survival, creating networks of reciprocal care that span vast distances and generations."
+    "pre-industrial-wisdom": "Hospitality begins when a traveller is received rather than merely noticed. 'phemi' gives that changed relation a word of its own."
   },
   "semantic_domains": {
-    "community": "transforms strangers into temporary family through hospitality bonds",
-    "ritual": "involves sacred obligations and ceremonial protocols of welcome",
-    "spatial": "crosses thresholds entering new domains as honored visitor"
+    "community": "a person temporarily received through hospitality",
+    "spatial": "a visitor accepted into another person's place or gathering"
   }
 }
