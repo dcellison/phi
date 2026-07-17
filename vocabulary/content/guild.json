@@ -7,17 +7,28 @@
     "mu"
   ],
   "pos": "noun",
-  "concept": "Guild / Craft Association / Skill Community",
-  "description": "An association of craftspeople or professionals; community organized around shared skill. 'Temu' names those bound by craft—learning and practicing together.",
-  "sound_symbolism": "The word touches with craft. 'Te' connects with skilled contact, craft joining. 'Mu' grounds with deep mastery, knowledge rooted.",
-  "grammatical_notes": "Functions as noun: 'mia mua temu shonela.' (I learn in the guild.) An organization of those sharing 'thole' (practice). Related to 'shorai' (commune) but organized around skill; the 'moloi' (apprentice) learns within it.",
+  "search_terms": [
+    "craft association",
+    "professional association",
+    "skill community"
+  ],
+  "description": "People who share a craft or profession may form a continuing association called a 'temu'. They can practise together and govern shared resources. Some guilds teach or maintain standards; others represent the work in public. The word prescribes no internal rank and grants no authority beyond what the association actually holds.",
+  "articulatory_notes": "Touch the tongue tip to the backs of the upper front teeth for unvoiced dental 't' and release into stressed middle-height front 'e'. Close the lips for voiced nasal 'm' and finish with high-back rounded 'u'.",
+  "sound_symbolism": "A light dental closure opens into 'e', then the lips come together for 'm' before rounded 'u'. The compact movement from one contact to another can suit a small body gathered around shared work.",
+  "usage_notes": "'temu' is the organisation itself. In a possessive phrase, the craft may come first, but the noun alone never implies membership. 'shorai' (commune) is organised around shared life and resources; 'temu' is organised around a craft or profession.",
+  "examples": [
+    {
+      "phi": "mia mua temu shonela.",
+      "translation": "I learn in the guild."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Skill sharing—communities organized to spread knowledge rather than hoard it.",
-    "pre-industrial-wisdom": "Guild as transmission—craft knowledge passed from master to apprentice."
+    "solarpunk-values": "A guild can keep costly tools in common and knowledge in circulation. It can also give practitioners a voice in decisions about their work.",
+    "pre-industrial-wisdom": "Historical guilds preserved techniques and mutual support, but some also restricted entry or protected privilege. The Phi word covers the association without idealising its conduct."
   },
   "semantic_domains": {
-    "community": "Craft association",
-    "creation": "Skill organization"
+    "community": "an association formed around shared skilled practice",
+    "creation": "organisation of craft knowledge, tools, and standards"
   },
   "modules": [
     "commons-and-collective-governance",

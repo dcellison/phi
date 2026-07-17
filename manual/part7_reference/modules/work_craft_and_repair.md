@@ -348,7 +348,7 @@ Source material stays outside the Phi passage here as everywhere: the drawing wi
 
 ## Using the module well
 
-Start from the concrete relation: who is doing what, for whom, with what, by when. Add the module's distinctions when they earn their place, and keep authority, consent, and the body's limits in their own clauses, where Phi can see them. When a module word meets a speaker who has not learned it, a core paraphrase is ordinary courtesy, not defeat: name the people, the actions, and the conditions the word gathers, and the meaning walks across.
+A useful account starts from the concrete relation: who is doing what, and for whom. Tools and timing follow in their own clauses. The module's distinctions enter when they earn their place. Authority, consent, and the body's limits stay in their own clauses, where Phi can see them. When a speaker has not learned a module word, a core paraphrase is ordinary courtesy: the people, actions, and conditions become explicit, and the meaning walks across.
 
 The module ends where the workshop begins. `shiroka`, repair, is core Phi, not module Phi: every speaker already carries the conviction that things are worth mending. Task and schedule, stock and provenance are scaffolding around that conviction. The mended chair back in the hall is the point.
 

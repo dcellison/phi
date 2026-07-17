@@ -8,17 +8,27 @@
     "te"
   ],
   "pos": "verb",
-  "concept": "Refute / Show a Claim or Argument Fails",
-  "description": "To show, through reasoning, evidence, or a counterexample, that a claim is false or that an argument fails to reach its conclusion. Refuting takes real work: an objection, a disagreement, or ridicule falls short of it on its own.",
-  "sound_symbolism": "Voiceless, rounded 'whe' begins with breath shaped at the lips. Stress and a firm velar closure meet in 'ka' before open 'a'. A lighter stop follows in dental 'te' before balanced 'e'. Diffuse difficulty becomes two audible points of contact, the last one clean enough to end the failed line.",
-  "grammatical_notes": "A transitive verb: 'ha phiwheki ra sherewa whekate.' (This counterexample refutes that claim.) The event-noun rule supplies a refutation. Distinct from 'whakeru' (object), which raises a problem without claiming decisive success, and 'ma nawo' (not agree), which states only a participant's stance.",
+  "search_terms": [
+    "disprove",
+    "show an inference fails"
+  ],
+  "description": "A speaker, observation, or counterexample 'whekate' a claim by showing that it is false, or an argument by showing that its conclusion does not follow. An objection or disagreement raises a question; refutation requires reasons or evidence that settle the stated point.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiceless 'wh', releasing the breath into middle-height front 'e'. Close the back of the tongue against the soft palate for unvoiced 'k' and open into stressed central 'a'. Touch the tongue tip to the backs of the upper front teeth for unvoiced dental 't' and finish with middle-height front 'e'.",
+  "sound_symbolism": "Rounded breath opens the word, then two measured closures mark 'ka' and 'te'. The mouth moves from a diffuse opening to distinct points of contact, suggesting a line of reasoning checked one step at a time.",
+  "usage_notes": "The claim or argument shown false is the direct object. The event-noun rule supplies a refutation. 'whakeru' (object) raises a problem without claiming that the evidence is decisive, while 'ma nawo' (not agree) reports only a participant's stance.",
+  "examples": [
+    {
+      "phi": "ha phiwheki ra sherewa whekate.",
+      "translation": "This counterexample refutes that claim."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Refutation applies to a claim or inference that fails; it need not become an attack on a fixed self or a contest for permanent victory.",
-    "peace-linguistics-practices": "The word reserves decisive language for an actual showing of failure and keeps ordinary disagreement or objection from being overstated."
+    "secular-buddhist-philosophy": "Refutation applies to a claim or inference, not to a fixed self. Revision remains available to the person who made the claim.",
+    "peace-linguistics-practices": "The word reserves decisive language for an actual showing of error. Ordinary disagreement and objection retain their narrower senses."
   },
   "semantic_domains": {
     "cognition": "demonstrating that a claim or inference fails",
-    "communication": "a decisive challenge supported by reasons or evidence"
+    "communication": "a reasoned showing that a stated claim or argument does not hold"
   },
   "modules": [
     "philosophical-reasoning"

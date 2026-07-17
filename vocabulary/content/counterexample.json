@@ -8,18 +8,28 @@
     "ki"
   ],
   "pos": "noun",
-  "concept": "Counterexample / Case That Defeats a General Claim",
-  "description": "A case that falls within a general claim's own stated scope and lacks the property the claim says every such case has. A genuine counterexample refutes the claim as stated; a case outside the scope, or one that merely surprises, does not.",
-  "sound_symbolism": "The breath and bright vowel of 'phi' recall the beginning of 'phisuwa' (example), a kinship the ear can catch at once. Under stress, 'whe' changes that breath into a rounded voiceless glide and widens the middle of the word. A sharp velar contact in 'ki' releases into focused 'i'. The breathy opening passes through resistance to one precise point.",
-  "grammatical_notes": "A countable noun: 'ha phiwheki ra sherewa whekate.' (This counterexample refutes that claim.) The targeted claim may modify the noun possessively: 'sherewa phiwheki' (a counterexample to the claim). Distinct from an ordinary 'phisuwa' (example) and from any case that merely differs from what was expected.",
+  "search_terms": [
+    "disproving case",
+    "exception to a universal claim"
+  ],
+  "description": "Suppose a general claim assigns a property to every case in its stated scope. A case within that scope that lacks the property is a 'phiwheki'; it shows that the claim is false as stated. A surprising case outside the scope is not a counterexample.",
+  "articulatory_notes": "Bring the lips close together for unvoiced bilabial 'ph' and release the narrow breath into high-front unrounded 'i'. Keep the lips rounded and raise the back of the tongue for voiceless 'wh', then open into stressed middle-height front 'e'. Close the back of the tongue against the soft palate for unvoiced 'k' and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The opening 'phi' recalls 'phisuwa' (example). Rounded, breathy 'whe' widens the middle before 'ki' closes at the soft palate and narrows into high 'i', as though a broad statement had met one exact case.",
+  "usage_notes": "'phiwheki' is a countable noun. The targeted claim may stand before it as possessor: 'sherewa phiwheki' (a counterexample to the claim). An ordinary 'phisuwa' (example) illustrates; a 'phiwheki' tests a universal claim and shows that it needs revision.",
+  "examples": [
+    {
+      "phi": "ha phiwheki ra sherewa whekate.",
+      "translation": "This counterexample refutes that claim."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "A single encountered case can loosen attachment to an overgeneralized view and invite a more conditional understanding.",
-    "peace-linguistics-practices": "Counterexamples let participants challenge universality through a case rather than through force, status, or personal dismissal."
+    "secular-buddhist-philosophy": "One encountered case may loosen attachment to an overgeneralised view and invite a more conditional account.",
+    "peace-linguistics-practices": "A counterexample directs attention to the claim's scope and the evidence within it, rather than to the standing of the person who spoke."
   },
   "semantic_domains": {
     "cognition": "a scoped case that disproves a general claim as stated",
-    "communication": "a concrete way to challenge overgeneralization",
-    "wisdom": "attention to particulars that resist an overly broad rule"
+    "communication": "a concrete way to challenge overgeneralisation",
+    "wisdom": "attention to particulars that require a broad rule to be revised"
   },
   "modules": [
     "philosophical-reasoning"

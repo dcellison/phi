@@ -8,17 +8,28 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Apprentice / Learning Practitioner / Craft Student",
-  "description": "One learning a trade or craft under skilled guidance; a practitioner in training. 'Moloi' names the becoming craftsperson—hands learning what masters know.",
-  "sound_symbolism": "The word moves with learning. 'Mo' shapes with practicing motion, skill forming. 'Lo' opens with guided path, knowledge flowing. Then 'i' rises to growing competence.",
-  "grammatical_notes": "Functions as noun: 'moloi theko shonela.' (The apprentice learns the craft.) More specific than 'thunai' (student) — the 'moloi' learns a craft through doing. Member of 'temu' (guild), guided by 'lumishe' (mentor).",
+  "search_terms": [
+    "craft learner",
+    "trainee practitioner"
+  ],
+  "description": "Someone learning a craft or trade through guided practice in the work itself is a 'moloi'. The word is narrower than 'thunai' (student): an apprentice gains skill by making, repairing, observing, and trying again. It names a stage of practice, not a lesser kind of person.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm' and release into middle-height back rounded 'o'. Touch the tongue tip to the alveolar ridge for lateral 'l' and move into stressed middle-height back rounded 'o'. Keep the vowels separate across the final syllable boundary and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The lips close gently for 'm', then the word passes through lateral 'l' and opens across the final vowel boundary. Its motions are small and distinct, like a sequence practised until each part can be felt.",
+  "usage_notes": "The craft being learned may follow the noun possessively or appear as the object of 'shonela' (learn). Employment and payment depend on the arrangement. Certification and membership in a 'temu' (guild) have their own processes. A 'lumishe' (mentor) may guide the apprentice without holding general authority over them.",
+  "examples": [
+    {
+      "phi": "moloi theko shonela.",
+      "translation": "The apprentice learns the craft."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Skill transfer—ensuring craft knowledge passes to new generations.",
-    "pre-industrial-wisdom": "Apprenticeship as transmission—learning by doing alongside a master."
+    "solarpunk-values": "Apprenticeship makes the skills of making and repair available by giving learners time with tools, materials, and experienced practitioners.",
+    "pre-industrial-wisdom": "Many crafts are learned beside someone who can demonstrate pressure, timing, sequence, and judgement that a written account may miss."
   },
   "semantic_domains": {
-    "community": "Learning role",
-    "creation": "Craft training"
+    "activity": "learning a craft through guided practice",
+    "community": "a recognised learning role within a craft relationship",
+    "creation": "developing skill through craftwork and repairs"
   },
   "modules": [
     "work-craft-and-repair"

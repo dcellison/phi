@@ -8,16 +8,24 @@
     "li"
   ],
   "pos": "noun",
-  "concept": "Height / Distance Upward / Vertical Extent",
-  "description": "The measurement from base to top; the quality of being tall. 'Raeli' names vertical extent upward—how far something rises, how elevated something stands.",
-  "sound_symbolism": "The word rises. 'Ra' reaches upward, ascent beginning. The vowel 'e' opens to elevation. Then 'li' lifts to completion, height achieved.",
-  "grammatical_notes": "Functions as a noun: 'shiro raeli' (the tree's height). Related to adjective 'raelu' (tall). Opposite dimension from 'nusho' (depth).",
+  "search_terms": [
+    "vertical extent",
+    "distance from base to top"
+  ],
+  "description": "'raeli' is the vertical extent from a lower reference point to an upper one. The dimension comes before anyone judges the object tall or low. 'raelu' (tall) evaluates that extent, while 'nusho' (depth) measures downward or inward from a reference surface.",
+  "articulatory_notes": "Tap or briefly trill the tongue tip at the alveolar ridge for 'r' and open into central 'a'. Keep the vowels separate across the syllable boundary, raising the tongue into stressed middle-height front 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l' and finish with high-front unrounded 'i'.",
+  "usage_notes": "The measured thing commonly appears as a possessor, as in 'shiro raeli' (the tree's height). 'masue' (measure) reports the act. Context supplies the exact unit and reference points.",
+  "examples": [
+    {
+      "phi": "mia shiro raeli masue.",
+      "translation": "I measure the tree's height."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Height offers perspective—elevation allows seeing further, understanding more of the whole.",
-    "pre-industrial-wisdom": "Height meant safety and vision—high ground for defense, tall places for lookouts."
+    "pre-industrial-wisdom": "Practical height measurement begins from an agreed reference point. A body, cord, rod, or marked measure can carry the comparison."
   },
   "semantic_domains": {
-    "spatial": "Upward extent",
-    "wisdom": "Elevation"
+    "quantity": "a measurable vertical extent",
+    "spatial": "distance between lower and upper reference points"
   }
 }

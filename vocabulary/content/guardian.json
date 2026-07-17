@@ -7,18 +7,25 @@
     "ma"
   ],
   "pos": "noun",
-  "concept": "Guardian / One Who Shields with Wisdom",
-  "description": "A protector who watches over others, particularly those who cannot yet protect themselves. Guardianship in Phi emphasizes protection through wisdom and guidance rather than force, creating safe spaces for growth rather than walls against the world. The guardian stands between vulnerability and harm, not as a warrior but as a wise presence ensuring others can flourish.",
-  "sound_symbolism": "The contemplative 'the' establishes guardianship as mindful practice - protection through wisdom rather than force. This thoughtfulness grounds itself in 'ma', the solid truth from which genuine protection grows. Like a wise elder standing watch, the guardian combines careful consideration with unshakeable presence. Two syllables hold the essence: think deeply, stand firmly.",
-  "grammatical_notes": "Noun only: 'thema lopia shorupo.' (The guardian protects the child.) Guarding is 'shorupo' (protect); being a guardian is predication: 'tupiwa wei lopia thema nai.' (The rabbit is a guardian to the child.) Related: theluo (steward), woru (keeper).",
+  "search_terms": [
+    "protective role",
+    "custodian"
+  ],
+  "description": "A child at a river crossing, an animal in recovery, or a community archive may be entrusted to a 'thema' for continuing protective care. Guardianship calls for watchfulness and readiness to act within that trust. A protected person keeps their own agency. 'shorupo' (protect) is the protective act, while 'theluo' (steward) concerns ecological and communal resources held in common.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper front teeth and let unvoiced air pass for 'th', opening into stressed middle-height front 'e'. Close the lips for voiced nasal 'm', then release into final open central 'a'.",
+  "usage_notes": "The person or thing under guardianship can take dative 'wei' when the role is predicated. Exact legal guardianship may carry source-defined powers beyond the ordinary protective role.",
+  "examples": [
+    {
+      "phi": "thema lopia shorupo.",
+      "translation": "The guardian protects the child."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The guardian practices compassion without attachment - protecting while allowing natural growth, intervening with wisdom about when help serves and when it hinders. This role requires seeing clearly without projecting fears, maintaining vigilance without anxiety. True guardianship means creating conditions for others' liberation, not dependence.",
-    "peace-linguistics-practices": "Guardianship reimagined through peace creates protectors who shield through wisdom rather than weapons, who create safety through understanding rather than walls. This practice demonstrates that true strength lies in making violence unnecessary, not in superior force. The peaceful guardian models an alternative to warrior-protector archetypes, showing that care and vigilance can coexist without aggression.",
-    "pre-industrial-wisdom": "Traditional societies understood guardianship through wisdom and experience rather than force - elders watching over children, knowledge keepers protecting cultural wisdom, those who understood natural dangers guiding others. This role emerged from accumulated understanding and respected position within community networks."
+    "peace-linguistics-practices": "The role assigns responsibility for protective attention while the protected person keeps their own agency.",
+    "pre-industrial-wisdom": "Communities entrusted familiar people with watching children, animals, stores, or fires because local knowledge and steady presence mattered."
   },
   "semantic_domains": {
-    "community": "embodies protective responsibility within social networks",
-    "emotion": "involves care, vigilance, and compassionate bonds",
-    "wisdom": "requires accumulated understanding and careful judgment"
+    "activity": "watching for danger and taking protective action within the guardian's given responsibility",
+    "community": "a continuing social role of protective responsibility"
   }
 }

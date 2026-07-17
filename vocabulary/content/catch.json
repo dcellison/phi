@@ -12,10 +12,10 @@
     "intercept",
     "take hold of"
   ],
-  "description": "A cup slips from one hand, and another catches it before it reaches the floor. 'kawepa' intercepts a moving person or thing and brings that motion under immediate control. 'howela' (receive) can happen without interception, while 'phelu' (hold) describes the continuing grasp after the catch.",
+  "description": "A cup slips from one hand, and another catches it before it reaches the floor. 'kawepa' meets a moving body or object and stops or supports its motion. When someone catches a child who slips, the verb is limited to that physical meeting; custody or confinement is another claim. 'howela' (receive) can happen without interception, while 'phelu' (hold) describes the continuing grasp after the catch.",
   "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release it into open central 'a'. Round the lips and raise the back of the tongue for voiced 'w', then move into stressed middle-height front 'e'. Close the lips for unvoiced 'p' and release them into final open central 'a'.",
   "sound_symbolism": "The word opens and closes around a moving middle: the firm release of 'k' gives way to rounded 'w', then the lips meet again for 'p'. That second closure can make the form feel like a moving thing brought to a stop.",
-  "usage_notes": "A net or other instrument takes 'roe'; what it catches remains the direct object. Used as a noun, 'kawepa' is a catch. Later clauses can say whether the catcher holds, carries, or releases it.",
+  "usage_notes": "A net or other instrument takes 'roe'; the moving body or object remains the direct object. Used as a noun, 'kawepa' is a catch. Later clauses can say whether contact led to support, holding, or release.",
   "examples": [
     {
       "phi": "mia suro kawepa.",
@@ -23,7 +23,7 @@
     }
   ],
   "semantic_domains": {
-    "activity": "intercepting a moving person or thing",
-    "physical": "bringing a moving body or object under immediate control"
+    "activity": "meeting a moving body or object to stop or support its motion",
+    "physical": "the contact that changes a moving body's course or brings it to rest"
   }
 }

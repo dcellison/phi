@@ -8,17 +8,29 @@
     "tha"
   ],
   "pos": "noun",
-  "concept": "Workshop / Place of Making / Craft Space",
-  "description": "A room or building where things are made or repaired; a space dedicated to craft. 'Keritha' names where making happens—tools arranged, materials ready, work in progress.",
-  "sound_symbolism": "The word shapes with purpose. 'Ke' begins with velar precision, the craftsperson's decisive hand selecting a tool. 'Ri' focuses with clear intention, effort directed and purposeful. Then 'tha' closes with the mindful awareness that good craft requires: attention, patience, thought. The arc from decisive action through focused effort to thoughtful finish mirrors the rhythm of making itself.",
-  "grammatical_notes": "Functions as a noun: 'keritha' (the workshop). Related to 'phaewi' (studio) but emphasizes practical craft rather than artistic creation.",
+  "search_terms": [
+    "craft room",
+    "repair space",
+    "place of making"
+  ],
+  "description": "A room, building, or clearly defined work area becomes a 'keritha' when it is arranged for making and repair. Tools and benches may share the space with stock and unfinished work, with enough room to use them safely. 'phaewi' (studio) is arranged for artistic work; a workshop is arranged for practical craft.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into middle-height front 'e'. Tap or briefly trill the tongue tip at the alveolar ridge for 'r', opening into stressed high-front unrounded 'i'. Rest the tongue tip lightly against the upper front teeth for unvoiced 'th' and finish with central 'a'.",
+  "sound_symbolism": "A back closure begins the word, a quick tongue tap turns its middle, and the final syllable releases through dental 'th' into 'a'. The three contacts feel distinct and orderly, like tools returned to familiar places.",
+  "usage_notes": "As a place noun, 'keritha' takes ordinary locative prepositions. The noun itself leaves ownership, access, supervision, and the people working there unspecified. A temporary outdoor work area can also be a 'keritha' if it has been deliberately arranged for the task.",
+  "examples": [
+    {
+      "phi": "keritha henoi muphera phelu.",
+      "translation": "The workshop has enough stock."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Workshops enable making—spaces where communities repair, build, and create rather than just consume.",
-    "pre-industrial-wisdom": "Workshops transmitted knowledge—apprentices learning beside masters, skills passing hand to hand."
+    "solarpunk-values": "A shared workshop lets tools remain in common use and makes repair available without requiring every household to own the same equipment.",
+    "pre-industrial-wisdom": "Working side by side lets people notice sound, pressure, posture, and sequence while useful work continues."
   },
   "semantic_domains": {
-    "creation": "Craft place",
-    "spatial": "Making space"
+    "activity": "a place arranged to support practical work",
+    "creation": "space and equipment for making or repair",
+    "spatial": "a room, building, or bounded work area"
   },
   "modules": [
     "work-craft-and-repair"

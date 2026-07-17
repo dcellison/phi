@@ -8,16 +8,27 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Student / Learner / One Who Studies",
-  "description": "One who studies under guidance; a person in the process of learning. 'Thunai' names the receptive mind—open, questioning, growing.",
-  "sound_symbolism": "The word awakens carefully. 'Thu' begins with dental attention, the precise breath of someone learning to see. 'Nai' grounds with patient purpose. A student as someone whose awareness is opening.",
-  "grammatical_notes": "Functions as noun: 'lo thunai' (students). Learns from 'lumishe' (mentor). Related to 'moloi' (apprentice) but broader.",
+  "search_terms": [
+    "learner",
+    "person who studies"
+  ],
+  "description": "Anyone engaged in learning or study may be called a 'thunai'. The study may be self-directed, shared with peers, or guided by a teacher or mentor. 'moloi' (apprentice) is narrower: the craft is learned through practice.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper front teeth for unvoiced 'th' and release into high-back rounded 'u'. Place the tongue tip against the backs of the upper front teeth for voiced dental 'n', carrying the sound through the nose into stressed central 'a'. Keep the final vowel separate and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "'th' lets a narrow stream of air pass before the lips round for 'u'. The sound then settles into nasal 'n', and the final vowels separate as the tongue rises towards 'i'. The word feels attentive without becoming tight.",
+  "usage_notes": "'lo thunai' is the ordinary plural. The subject studied can modify the noun or appear with the appropriate learning verb. The role applies across ages and learning arrangements; school enrolment or formal assessment may be present, but neither is required.",
+  "examples": [
+    {
+      "phi": "thunai shonela.",
+      "translation": "The student learns."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Student as beginner's mind—the openness that makes learning possible.",
-    "pre-industrial-wisdom": "Student as apprentice—learning through doing alongside a master."
+    "secular-buddhist-philosophy": "The role leaves room for beginner's mind: attention can remain open even when the student already knows a great deal.",
+    "pre-industrial-wisdom": "Study has taken place through observation, recitation, conversation, and solitary practice. It also grows from work beside more experienced people."
   },
   "semantic_domains": {
-    "cognition": "Receptive mind",
-    "community": "Learning role"
+    "activity": "taking part in study or learning",
+    "cognition": "directed attention towards acquiring understanding or skill",
+    "community": "a social role that may be recognised inside or outside an institution"
   }
 }

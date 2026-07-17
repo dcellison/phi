@@ -8,18 +8,29 @@
     "o"
   ],
   "pos": "noun",
-  "concept": "Steward / One Who Cares for the Deep Flow",
-  "description": "One who practices stewardship, caring for land, resources, and communities as a sacred trust for the whole and for future generations.",
-  "sound_symbolism": "The thoughtful 'the' brings careful consideration to caretaking - stewardship requires wisdom, not just action. This wisdom flows through 'lu', understanding the deep currents of life that run beneath surface needs. The encompassing 'o' holds all in sacred trust - land, creatures, future generations. Three syllables embody stewardship's calling: thinking carefully, flowing deeply, holding wholly - the honor of tending what belongs to all.",
-  "grammatical_notes": "Role noun: 'theluo muila temoe.' (The steward tends the earth.) Related to 'woru' (keeper) and 'thema' (guardian); the steward tends what belongs to all.",
+  "search_terms": [
+    "caretaker of shared resources",
+    "trustee",
+    "custodian"
+  ],
+  "description": "Someone entrusted with continuing care for shared land, resources, or community life is a 'theluo'. The care is undertaken on behalf of others and those who come later. Stewardship brings responsibility and accountability, not ownership. A 'woru' (keeper) provides ordinary care for something; 'thema' (guardian) has a more specifically protective role.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper front teeth for unvoiced 'th' and release into middle-height front 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l' and move into stressed high-back rounded 'u'. Keep the final vowel separate and lower the tongue slightly into middle-height back rounded 'o'.",
+  "sound_symbolism": "'th' begins as measured air at the teeth. After 'e', the tongue lets air pass at the side through 'lu', and the last two rounded vowels stay separate. The release is patient and continuing rather than sudden.",
+  "usage_notes": "'theluo' is the entrusted role. The land, resource, or community in its care can appear before the role as its possessor, or as the object of a tending verb. The trust has a source, scope, duration, and claim to legitimacy beyond the role noun.",
+  "examples": [
+    {
+      "phi": "theluo muila temoe.",
+      "translation": "The steward tends the earth."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Stewardship replaces ownership with caretaking - land trusts instead of property deeds, tool libraries instead of hoarding, seed saving instead of patents. This practice recognizes that we are temporary custodians of resources that must flourish for generations beyond us. Stewards design for the seventh generation, not the quarterly report.",
-    "pre-industrial-wisdom": "Traditional stewardship understood that humans were caretakers, not masters - tending forests that would shelter great-grandchildren, maintaining water systems used by the whole village, preserving seeds selected over centuries. This wisdom saw abundance as something cultivated through patient tending, not extracted through force."
+    "solarpunk-values": "Stewardship makes present care answerable to neighbours, ecosystems, and future users. Shared authority and review prevent the trust from becoming private control under a kinder name.",
+    "pre-industrial-wisdom": "Forests, waterworks, and grazing land require care beyond one person's use. So do communal stores and seed. Memory, seasonal observation, and continuing duties make that longer care possible."
   },
   "semantic_domains": {
-    "community": "caring for collective resources and future generations",
-    "nature": "often involves tending land and ecosystems",
-    "wisdom": "requires understanding of long-term impacts"
+    "activity": "continuing care carried out within an entrusted scope",
+    "community": "an accountable role in caring for shared resources or collective life",
+    "nature": "stewardship of land, water, habitats, or other ecological commons"
   },
   "modules": [
     "commons-and-collective-governance",
