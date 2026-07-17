@@ -8,16 +8,16 @@
     "phi"
   ],
   "pos": "noun",
-  "concept": "Rainbow / Light Spectrum / Promise Arc",
-  "description": "An arc of colors visible in the sky when sunlight refracts through water droplets. 'Loriphi' names the bridge of light—the spectrum revealed when sun meets rain, spanning sky with colors that exist only in the seeing.",
-  "sound_symbolism": "The word arcs through light. 'Lo' begins with liquid flow, light entering water. Then 'ri' radiates outward, the rays separating. Finally 'phi' /ɸi/ softens into spectrum, the gentle spread of colors.",
-  "grammatical_notes": "Functions as a noun: 'loriphi' (rainbow), 'lo loriphi' (rainbows). A rainbow is not a detached or crafted object; a counted rainbow occurrence may take optional event classifier 'nophe', or the classifier may be omitted. Often singular, as each rainbow is a unique phenomenon. Associated with hope, diversity, promise, and the beauty of light.",
-  "pillars": {
-    "art-nouveau-aesthetics": "The rainbow's spectrum inspired Art Nouveau color palettes—nature demonstrating that all colors harmonize when light arranges them.",
-    "peace-linguistics-practices": "Rainbows have become symbols of diversity and inclusion—many colors creating one arc of beauty through their differences."
-  },
+  "description": "Light refracted, reflected, and dispersed by water droplets appears as the coloured arc or circle called 'loriphi'. From the ground, an observer usually sees only part of the circle. Rain nearby is common, but spray or mist can produce the same optical form.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced lateral 'l' and let the voice pass around its sides into middle-height rounded 'o'. Tap or briefly trill the tongue at the ridge before stressed high-front 'i'. Bring the lips close together for unvoiced bilabial 'ph' and finish with another high-front 'i'.",
+  "examples": [
+    {
+      "phi": "loriphi pheo pheralu shua.",
+      "translation": "A rainbow comes after the rain."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Natural light spectrum",
-    "nature": "Optical atmospheric phenomenon"
+    "aesthetic": "a naturally ordered display of visible colours",
+    "nature": "an atmospheric optical form produced by light and water droplets"
   }
 }

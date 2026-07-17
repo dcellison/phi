@@ -1,0 +1,30 @@
+{
+  "word": "harisu",
+  "gloss": "desert",
+  "ipa": "/hä.ˈri.su/",
+  "syllables": [
+    "ha",
+    "ri",
+    "su"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "arid land",
+    "desert landscape"
+  ],
+  "description": "Long-term low precipitation shapes the region called 'harisu', where vegetation is sparse or specially adapted. A desert may be hot or cold, with sand, stone, or ice underfoot. 'kuramo' (drought) is a prolonged water deficit relative to a place's usual conditions, while a desert is the enduring landscape and climate relation.",
+  "articulatory_notes": "Begin with an open glottis and send unvoiced breath into central 'a'. Tap or briefly trill the tongue at the alveolar ridge before stressed high-front unrounded 'i'. Narrow the airstream along the centre of the tongue for unvoiced 's', then draw the tongue back and round the lips for high-back 'u'.",
+  "examples": [
+    {
+      "phi": "phina phireo mua ha harisu thuroa.",
+      "translation": "Few plants grow in this desert."
+    }
+  ],
+  "pillars": {
+    "pre-industrial-wisdom": "Living and travelling in a desert call for place-specific knowledge of water and shade. Routes, weather, and seasonal life belong to the same practical map. Sparse growth does not mean an empty or unused land."
+  },
+  "semantic_domains": {
+    "nature": "a long-term arid region with sparse or specially adapted life",
+    "spatial": "a broad landscape defined by persistent low precipitation"
+  }
+}

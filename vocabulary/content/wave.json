@@ -8,16 +8,17 @@
     "lu"
   ],
   "pos": "noun",
-  "concept": "Wave / The Sea in Motion",
-  "description": "The wave: the sea's shape when it moves. Third member of the 'mori-' family, after 'moriwhe' (sea) and 'morisa' (salt). A wave is not something the sea has; it is something the sea briefly does.",
-  "sound_symbolism": "The sea-syllables 'mo'-'ri' end in liquid 'lu': the family signature set moving.",
-  "grammatical_notes": "Noun: 'morilu mua kirua lepa.' (The wave falls on the sand.) 'moriwhe morilu phelu.' (The sea holds waves.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "The wave is the teaching about self that requires no translation: briefly distinct, never separate, and the sea loses nothing when it goes.",
-    "art-nouveau-aesthetics": "The curling crest is one of the style's inherited obsessions, an organic curve that draws itself and never twice the same."
-  },
+  "description": "Across the surface of water, a travelling rise, fall, or disturbance is a 'morilu'. The form advances while much of the water moves up, down, or in small circuits. A current is 'phialu selu', water flow, because the water itself travels along a course.",
+  "articulatory_notes": "A voiced 'm' begins at closed lips, with nasal voice moving into middle-height rounded 'o'. Tap or briefly trill the tongue at the alveolar ridge before stressed high-front 'i'. Touch the tongue tip to the ridge for lateral 'l', let voice pass around its sides, and finish with high-back rounded 'u'.",
+  "sound_symbolism": "The shared 'mo.ri' opening keeps 'morilu' beside 'moriwhe' (sea) and 'morisa' (salt). Final lateral 'lu' lets the voice continue rather than close, matching a form that travels onward across water.",
+  "examples": [
+    {
+      "phi": "morilu nia kirua lepa.",
+      "translation": "The wave falls on the sand."
+    }
+  ],
   "semantic_domains": {
-    "nature": "The sea's moving shape",
-    "physical": "Water briefly standing up"
+    "nature": "a moving surface form on sea, lake, river, or other water",
+    "physical": "a disturbance that transfers energy through water"
   }
 }

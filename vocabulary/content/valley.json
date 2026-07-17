@@ -8,16 +8,16 @@
     "nu"
   ],
   "pos": "noun",
-  "concept": "Valley / Lowland / Sheltered Depression",
-  "description": "A low area of land between hills or mountains, typically with a river flowing through. 'Lewonu' names the embraced lowlands—places where heights gather to shelter, where waters collect and flow, where settlements find protection.",
-  "sound_symbolism": "The word settles into shelter. 'Le' begins low, descending into the depression. Then 'wo' winds between, the river's path. Finally 'nu' nestles with nasal grounding, settled and protected.",
-  "grammatical_notes": "Functions as a noun. Plural with 'lo': 'lo lewonu' (valleys). A valley is a landform rather than a detached or crafted object, so it has no canonical classifier. Often holds a 'luphore' (river) and fertile land. Associated with shelter, fertility, and the spaces between heights.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Valleys teach humility and receptivity—the low place receives what flows from heights, gathering abundance through openness.",
-    "pre-industrial-wisdom": "Valleys were natural homes for settlements—sheltered from wind, supplied by rivers, fertile from collected soil."
-  },
+  "description": "Between hills, mountains, or other higher ground, an elongated lower area is a 'lewonu'. Water often follows its lowest course, but a valley need not contain a river. Canyon and gorge describe especially narrow, deep, or steep-sided cases when that distinction matters.",
+  "articulatory_notes": "Begin with the tongue tip at the alveolar ridge for lateral 'l' and let voice pass around its sides into middle-height front 'e'. Round the lips and raise the back of the tongue for the 'w' glide into stressed middle-height rounded 'o'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n' and finish with high-back rounded 'u'.",
+  "examples": [
+    {
+      "phi": "luphore mua lewonu selu.",
+      "translation": "A river flows through the valley."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Low land between heights",
-    "spatial": "Sheltered depression"
+    "nature": "lower land formed between neighbouring heights",
+    "spatial": "an elongated low route through higher terrain"
   }
 }

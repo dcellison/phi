@@ -8,16 +8,23 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Fog / Dense Mist / Thick Atmospheric Moisture",
-  "description": "A thick cloud of water droplets at ground level that significantly reduces visibility. 'Nuphari' names the enveloping obscurity—when air becomes visible and the world contracts to arm's reach, when familiar paths become mysterious.",
-  "sound_symbolism": "The word wraps and surrounds. 'Nu' begins with nasal thickness, density forming. Then 'pha' /ɸä/ softens into the veil, visibility dissolving. Finally 'ri' surrounds on all sides, the fog enclosing.",
-  "grammatical_notes": "Functions as a noun: 'lo nuphari' (fog banks). Fog is not a detached or crafted object, so it does not canonically take 'themo'; a counted fog episode may take optional event classifier 'nophe', or the classifier may be omitted. Distinguished from 'wheiru' (mist) by density and reduced visibility. Associated with uncertainty, disorientation, and hidden presence.",
+  "search_terms": [
+    "ground-level cloud",
+    "dense mist"
+  ],
+  "description": "Cloud at or near the ground is 'nuphari' when it noticeably limits sight through the air. The boundary with 'wheiru' (mist) follows practical visibility rather than one universal distance. Fog can conceal a route or landmark without making either one absent.",
+  "articulatory_notes": "Rest the tongue tip against the backs of the upper teeth for voiced dental 'n' and let nasal voice enter high-back rounded 'u'. Bring the lips close together for unvoiced bilabial 'ph' and release the narrow breath into stressed central 'a'. Tap or briefly trill the tongue at the alveolar ridge, then finish with high-front unrounded 'i'.",
+  "examples": [
+    {
+      "phi": "nuphari ruela tawemi.",
+      "translation": "Fog covers the path."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Fog teaches navigating uncertainty—when the path ahead is hidden, each step becomes mindful, present, attentive.",
-    "pre-industrial-wisdom": "Fog demanded respect from sailors and travelers—a reminder that nature sets limits on human perception and plans."
+    "pre-industrial-wisdom": "Fog changes how paths and shorelines can be followed. Bells, lights, and familiar distances then take on more of the journey. Travellers and boat crews learned local fog through its seasons, winds, and sounds rather than through sight alone."
   },
   "semantic_domains": {
-    "cognition": "Perception limited",
-    "nature": "Dense ground-level cloud"
+    "nature": "ground-level suspended droplets within local weather",
+    "physical": "airborne water dense enough to reduce visibility"
   }
 }

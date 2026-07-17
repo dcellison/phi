@@ -8,16 +8,19 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Mountain / High Peak / Earth Rising",
-  "description": "A large natural elevation of earth's surface rising dramatically above surrounding land. 'Tomora' names the great risings of the earth—ancient stone reaching toward sky, holding snow and source-waters, standing as witnesses across generations.",
-  "sound_symbolism": "The word rises from earth to sky. 'To' begins with dental grounding, the mountain's foundation. 'Mo' gathers its massive, enduring body, and 'ra' lifts and opens at the summit where stone meets sky.",
-  "grammatical_notes": "Functions as a noun. Plural with 'lo': 'lo tomora' (mountains). A mountain is a landform rather than a detached or crafted object, so it has no canonical classifier. Distinguished from 'molira' (hill) by scale and permanence. Often sacred in traditional contexts. Used metaphorically for obstacles, aspirations, and enduring presence.",
+  "description": "A 'tomora' rises prominently above the surrounding land as a major natural elevation. Local terrain and naming practice decide where a high hill becomes a mountain; Phi assigns no universal height. 'molira' (hill) names the smaller or gentler side of the contrast.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into middle-height rounded 'o'. Close the lips for voiced 'm' and carry nasal voice into the stressed repetition of 'o'. Tap or briefly trill the tongue at the alveolar ridge, then open into central 'a'.",
+  "examples": [
+    {
+      "phi": "tomora sheo molira mo raelu nai.",
+      "translation": "The mountain is taller than the hill."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Mountains teach aspiration and perspective—the climb reveals new vistas, and from the summit one sees the interconnection of all below.",
-    "pre-industrial-wisdom": "Mountains were sacred in nearly all traditional cultures—homes of spirits, sources of waters, places where earth touches sky."
+    "pre-industrial-wisdom": "Mountains shape routes and weather. Their slopes also affect water, grazing, and settlement. People who live with one learn its slopes and seasons as a particular place rather than as height alone."
   },
   "semantic_domains": {
-    "nature": "Major land elevation",
-    "spatial": "Earth reaching skyward"
+    "nature": "a major natural elevation within a landscape",
+    "spatial": "prominent high ground used in orientation and route finding"
   }
 }

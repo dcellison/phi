@@ -46,6 +46,7 @@
     {"id": "personhood-generations-kinship-and-social-belonging", "heading": "Personhood, generations, kinship, and social belonging", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-ANIMAL-01"]},
     {"id": "body-anatomy-and-bodily-condition", "heading": "Body, anatomy, and bodily condition", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-BODY-01", "CV-BODY-02", "CV-BODY-03", "CV-BODY-04", "CV-BODY-05", "CV-BODY-06", "CV-BODY-07", "CV-BODY-08", "CV-BODY-09", "CV-SENS-01"]},
     {"id": "time-sequence-natural-stations-and-recurrence", "heading": "Time, sequence, natural stations, and recurrence", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-TIME-01", "CV-TIME-02", "CV-TIME-03", "CV-TIME-04", "CV-TIME-05", "CV-TIME-06"]},
+    {"id": "landscape-waters-sky-and-weather", "heading": "Landscape, waters, sky, and weather", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-LAND-01", "CV-LAND-02", "CV-WATER-01", "CV-WATER-02", "CV-SKY-01", "CV-SKY-02", "CV-WEATHER-01", "CV-LAND-03", "CV-SKY-03"]},
     {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-02", "CV-MAT-05", "CV-MAT-06", "CV-MEAS-02", "CV-MEAS-03", "CV-MEAS-04", "CV-MEAS-05", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]}
   ],
   "candidates": [
@@ -705,6 +706,87 @@
       "summary": "Phi's natural stations and calendar spans support ordinary temporal speech, while an exact external value retains the notation and standard that make it usable.",
       "source_rule": "The complete clock reading, time zone, named calendar date, and exact unit notation remain outside the Phi passage. A Phi account may identify the record, its purpose, and its relation to an event without replacing data needed for coordination, care, accessibility, testimony, or safety.",
       "batches": ["time-sequence-natural-stations-and-recurrence"]
+    },
+    {
+      "id": "CV-LAND-01",
+      "concept": "soil, ground, dry land, coast, and beach",
+      "status": "compositional",
+      "placement": "base roots and expressions",
+      "summary": "`muila` already covers earth as soil, ground, and land, while `kerime` covers the water's edge and coastal strip. Dryness and loose beach material remain visible when those details matter.",
+      "expressions": ["muila", "kurathi muila", "kerime", "leru"],
+      "batches": ["landscape-waters-sky-and-weather"]
+    },
+    {
+      "id": "CV-LAND-02",
+      "concept": "desert, cliff, and volcano",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "Three common landforms need more than a temporary condition or a picturesque approximation. The new roots keep a desert distinct from drought, a cliff distinct from its edge, and a quiet volcano distinct from a burning mountain.",
+      "implementation": {"words": ["harisu", "pareshi", "thokaru"], "files": ["vocabulary/content/desert.json", "vocabulary/content/cliff.json", "vocabulary/content/volcano.json"]},
+      "batches": ["landscape-waters-sky-and-weather"]
+    },
+    {
+      "id": "CV-WATER-01",
+      "concept": "tide",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "A recurring coastal cycle affects travel and shoreline work. It also determines access, gathering, and safety often enough to deserve a direct noun. Its entry keeps waves and currents separate.",
+      "implementation": {"words": ["lunisa"], "files": ["vocabulary/content/tide.json"]},
+      "batches": ["landscape-waters-sky-and-weather"]
+    },
+    {
+      "id": "CV-WATER-02",
+      "concept": "current, glacier, waterfall, groundwater, and wetland",
+      "status": "compositional",
+      "placement": "base expressions with an ecological-module term where needed",
+      "summary": "Movement through water takes more than one form. Existing expressions distinguish current and waterfall, while frozen flow, subsurface water, and wet habitat keep their defining relation audible. A technical classification can remain in its source record beside the Phi account.",
+      "expressions": ["phialu selu", "kerithe luphore", "phialu lepa", "muila phialu", "wirua muila menuro"],
+      "batches": ["landscape-waters-sky-and-weather"]
+    },
+    {
+      "id": "CV-SKY-01",
+      "concept": "planet",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "Sun, star, moon, and Earth left the ordinary celestial inventory without a word for the class Earth belongs to. `nowari` supplies that class while named planets keep their source identities.",
+      "implementation": {"words": ["nowari"], "files": ["vocabulary/content/planet.json"]},
+      "batches": ["landscape-waters-sky-and-weather"]
+    },
+    {
+      "id": "CV-SKY-02",
+      "concept": "horizon, atmosphere, and humidity",
+      "status": "compositional",
+      "placement": "base roots and expressions",
+      "summary": "The visible sky can have an apparent boundary, ordinary atmosphere is air around a place or world, and humidity is moisture in that air. Exact scientific layers and measurements remain separately identified when needed.",
+      "expressions": ["waero norui", "haowu", "wirua haowu"],
+      "batches": ["landscape-waters-sky-and-weather"]
+    },
+    {
+      "id": "CV-WEATHER-01",
+      "concept": "hail, drizzle, rainstorm, snowstorm, and thunderstorm",
+      "status": "compositional",
+      "placement": "base expressions",
+      "summary": "Familiar weather subtypes remain transparent combinations of material, intensity, and event. Their exact thresholds and named warning categories come from the weather source in use.",
+      "expressions": ["kerithe pheralu", "moli pheralu", "pheralu kurisha", "phirenu kurisha", "horuma kurisha"],
+      "batches": ["landscape-waters-sky-and-weather"]
+    },
+    {
+      "id": "CV-LAND-03",
+      "concept": "narrow geological and coastal landform classes",
+      "status": "deferred",
+      "placement": "base, ecological module, or exact source term according to use",
+      "summary": "Bay, gulf, strait, canyon, gorge, delta, dune, and similar classes differ in which shape, process, or local name matters. Existing land and water relations can carry ordinary description until one distinction repeatedly needs a root.",
+      "revisit_when": "an active navigation, geological, ecological, or literary scenario repeatedly loses a landform distinction that existing roots and spatial relations cannot carry naturally",
+      "batches": ["landscape-waters-sky-and-weather"]
+    },
+    {
+      "id": "CV-SKY-03",
+      "concept": "specialist astronomical and meteorological classes",
+      "status": "deferred",
+      "placement": "future module vocabulary plus exact scientific source material",
+      "summary": "Specialist astronomy can describe comets, asteroids, and galaxies without moving them all into the base path. Atmospheric layers, precipitation classes, and named severe-weather systems can likewise remain exact in their source material.",
+      "revisit_when": "an astronomy or meteorology scenario needs the same class repeatedly for explanation rather than only as a named source object",
+      "batches": ["landscape-waters-sky-and-weather"]
     }
   ],
   "prompt_sources": [

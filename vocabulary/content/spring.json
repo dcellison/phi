@@ -7,16 +7,24 @@
     "la"
   ],
   "pos": "noun",
-  "concept": "Spring / Water Source / Earth's Offering",
-  "description": "A place where water flows naturally from the ground. 'Thula' names where earth gives water—the emergence points where underground flows surface, offering drink to all who find them.",
-  "sound_symbolism": "The word emerges from depth. 'Thu' /θu/ begins with soft earth-breath, water rising. Then 'la' releases in liquid flow, the spring pouring forth.",
-  "grammatical_notes": "Functions as a noun. Plural with 'lo': 'lo thula' (springs). A natural spring is a place and water source rather than a detached or crafted object, so it has no canonical classifier. Distinguished from 'wirae' (spring season) and from 'phuliro' (stream), which a spring may feed. Sacred in many traditions as gift-points where earth offers water.",
+  "search_terms": [
+    "natural water source",
+    "groundwater spring"
+  ],
+  "description": "Where groundwater reaches the surface naturally, the source place is a 'thula'. Flow and water chemistry vary with season and geology. 'phitura' (well) reaches groundwater through a made opening, while 'phuliro' (stream) is the watercourse that a spring may begin or feed.",
+  "articulatory_notes": "Rest the tongue against the upper teeth for unvoiced 'th' and let the breath continue into stressed high-back rounded 'u'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', release the voice around its sides, and lower the tongue into central 'a'.",
+  "examples": [
+    {
+      "phi": "phialu lue thula selu.",
+      "translation": "Water flows from the spring."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Springs represent natural water infrastructure—earth's own distribution system, models for understanding watershed and source protection.",
-    "pre-industrial-wisdom": "Springs were sacred sources—places where earth offered pure water freely, often honored with shrines and careful protection."
+    "solarpunk-values": "Protecting a spring brings groundwater and land use to one visible source. Access, habitat, and downstream flow meet there too. The word makes the place easy to name before those relations are discussed.",
+    "pre-industrial-wisdom": "Finding and tending a spring depends on local geology and weather. Seasonal flow, animals, and signs of contamination are learned at the same place. A reliable source is learned over time."
   },
   "semantic_domains": {
-    "nature": "Water source point",
-    "ritual": "Sacred gift-place"
+    "nature": "a natural point where groundwater reaches the surface",
+    "spatial": "a source place from which surface water may begin to flow"
   }
 }

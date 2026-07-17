@@ -8,16 +8,17 @@
     "mi"
   ],
   "pos": "noun",
-  "concept": "Lake / Still Waters / Contained Depths",
-  "description": "A large body of freshwater surrounded by land, often fed by rivers or springs. 'Thelomi' names the still waters held within the land—mirrors of sky, homes to fish and birds, places where water rests before continuing its journey.",
-  "sound_symbolism": "The word settles into stillness. 'The' /θe/ begins with soft breath, the gentle surface. Then 'lo' holds liquid rest, water contained. Finally 'mi' closes with nasal intimacy, the lake's quiet depths.",
-  "grammatical_notes": "Functions as a noun: 'lo thelomi' (lakes). A lake is a place and body of water rather than a detached or crafted object, so it has no canonical classifier. Distinguished from 'melothe' (pond) by scale—lakes are larger and deeper. Often associated with reflection, stillness, and contemplation.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Lakes teach stillness and reflection—when the mind settles like lake water, truth becomes visible like the bottom seen through clear depths.",
-    "pre-industrial-wisdom": "Lakes were sacred gathering places, sources of fish and water, mirrors where sky met earth in communities' daily life."
-  },
+  "description": "A substantial inland body of standing water surrounded by land is a 'thelomi'. A lake may be fresh or saline, permanent or seasonal. Its boundary with 'melothe' (pond) follows local size, depth, and usage rather than one measurement shared everywhere.",
+  "articulatory_notes": "Place the tongue against the upper teeth for unvoiced 'th' and continue the breath into middle-height front 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l' and release into stressed middle-height rounded 'o'. Close the lips for voiced 'm', carry voice through the nose, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "'thelomi' and 'melothe' (pond) share middle 'lo' and reverse their outer syllables. The audible pairing keeps the two standing-water words close while their definitions leave the practical boundary to place and use.",
+  "examples": [
+    {
+      "phi": "thelomi mua lewonu nai.",
+      "translation": "The lake is in the valley."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Freshwater body",
-    "wisdom": "Symbol of reflective stillness"
+    "nature": "a substantial inland body of standing water",
+    "spatial": "water contained within a surrounding area of land"
   }
 }

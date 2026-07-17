@@ -8,17 +8,28 @@
     "la"
   ],
   "pos": "noun",
-  "concept": "Earth / Ground / Soil-Body",
-  "description": "The noun naming the ground beneath, the body of the world that holds and nourishes all terrestrial life. In Phi, earth is understood as living skin rather than inert dirt—the community of minerals, fungi, bacteria, roots, and moisture that makes growth possible. This word names both the specific soil of a place and the element of groundedness itself. It is what we stand upon, what receives our dead, what transforms death into new life endlessly.",
-  "sound_symbolism": "The word opens with 'mu', where the grounding nasal 'm' meets the deep vowel 'u'—the most embodied, settled sound, lips and breath close to earth itself. The standalone 'i' rises like a sprout from soil, the bright emergence from dark depths. The final 'la' flows with fertility, the liquid sound of earth's moisture and life-giving capacity. The arc traces earth's gift: deep groundedness, life emerging, fertility flowing.",
-  "grammatical_notes": "Functions as a noun referring to earth as element, specific soil or ground, or the planet itself in context: 'muila muroa nai.' (The earth is fertile.) Distinguished from 'kerou' (stone) by emphasizing fertility and life-support.",
+  "search_terms": [
+    "soil",
+    "ground",
+    "land",
+    "planet Earth"
+  ],
+  "description": "Underfoot, 'muila' covers ground, soil, and land in contrast with open water. Context can widen it to Earth as a whole, with 'ne muila' available when the planet is being named. Stone, sand, clay, and mud identify particular materials or conditions within the earth.",
+  "articulatory_notes": "With the lips closed, voice 'm' through the nose into high-back rounded 'u'. Preserve the hiatus while moving the tongue forward and unrounding into stressed high-front 'i'. Touch the tongue tip to the alveolar ridge for lateral 'l', then lower the tongue into central 'a'.",
+  "usage_notes": "The ecological expressions 'muila phialu' (groundwater, earth-water) and 'wirua muila menuro' (wetland, wet-earth habitat) keep their relevant relation visible. 'muroa' can describe fertile earth, while ecological condition, tenure, and access take their own words or clauses.",
+  "examples": [
+    {
+      "phi": "ne muila nowari nai.",
+      "translation": "Earth is a planet."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Healthy soil is the foundation of food sovereignty and ecological resilience. 'Muila' supports this understanding where earth is treated as living community to be nourished, not resource to be extracted.",
-    "secular-buddhist-philosophy": "Earth element represents solidity, support, and groundedness in Buddhist analysis. 'Muila' embodies this quality—the stable foundation that makes all activity possible.",
-    "pre-industrial-wisdom": "Traditional cultures understood earth as mother, as body, as sacred source. 'Muila' preserves this relationship where the ground is honored, where soil health is community health."
+    "solarpunk-values": "Soil condition affects food, water, habitat, and what can be built or restored there. Calling it earth keeps that shared ground in view without treating every use as harmless.",
+    "pre-industrial-wisdom": "Cultivation, earthen building, pottery, and finding water depend on close knowledge of local soils. Texture, drainage, colour, and seasonal change can matter more than a general label."
   },
   "semantic_domains": {
-    "nature": "elemental foundation of terrestrial life",
-    "physical": "the ground we stand upon"
+    "nature": "soil, ground, dry land, and Earth as the terrestrial world",
+    "physical": "mineral and organic ground material underfoot",
+    "spatial": "land distinguished from open water in a place or route"
   }
 }

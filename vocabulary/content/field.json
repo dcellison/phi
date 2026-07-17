@@ -7,16 +7,24 @@
     "sha"
   ],
   "pos": "noun",
-  "concept": "Field / Open Cultivated Land / Area of Activity",
-  "description": "An area of open land, especially one used for cultivation or pasture; a domain of activity. 'Kosha' names the working expanse—land prepared for growing, space dedicated to purpose.",
-  "sound_symbolism": "The word spreads openly. 'Ko' marks with definition, field bounded. Then 'sha' /ʃa/ extends across, open space continuing.",
-  "grammatical_notes": "Functions as a noun: 'lo kosha' (fields). Can refer to agricultural land or metaphorical domains of work or study. Compare 'pelowa' (meadow), the uncultivated counterpart.",
+  "search_terms": [
+    "crop field",
+    "pasture"
+  ],
+  "description": "Land set apart for crops, grazing, or another continuing land practice is a 'kosha'. Its boundary may be a hedge, path, change of use, or shared understanding. 'pelowa' (meadow) instead centres the grass and other herbaceous growth already covering the place.",
+  "articulatory_notes": "Seal the back of the tongue against the soft palate for unvoiced 'k', then release into stressed middle-height rounded 'o'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh', then lower and relax the tongue into central 'a'.",
+  "examples": [
+    {
+      "phi": "napari mua kosha thuroa.",
+      "translation": "Rice grows in the field."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Fields feed communities—cultivated land that produces food through careful tending.",
-    "pre-industrial-wisdom": "Fields represented collective work—land that required community effort to prepare and maintain."
+    "solarpunk-values": "A field makes cultivated land visible before anyone discusses yield, ownership, labour, or ecological effect. Those further relations can then be stated rather than assumed.",
+    "pre-industrial-wisdom": "Sowing and harvest answer to the field's drainage and grazing. Fallow periods extend that knowledge into another season."
   },
   "semantic_domains": {
-    "nature": "Cultivation area",
-    "spatial": "Open land"
+    "nature": "open land managed for crops, grazing, or another land practice",
+    "spatial": "a bounded working area within a wider landscape"
   }
 }

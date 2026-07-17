@@ -8,16 +8,23 @@
     "wa"
   ],
   "pos": "noun",
-  "concept": "Meadow / Grassland / Open Field",
-  "description": "An open field of grass and wildflowers, especially one used for hay or grazing. 'Pelowa' names the sunlit openings in the landscape—where grasses wave, wildflowers bloom, and the sky reaches down to touch the earth unobstructed.",
-  "sound_symbolism": "The word opens to sunny expanse. 'Pe' begins with gentle stop, a clearing. Then 'lo' lies low, the level ground. Finally 'wa' widens outward, the open field stretching to meet the sky.",
-  "grammatical_notes": "Functions as a noun: 'pelowa' (meadow), 'lo pelowa' (meadows). A meadow is a place rather than a detached or crafted object, so it has no canonical classifier. Distinguished from 'shelira' (forest) by openness, from 'thepalu' (garden) by wildness.",
+  "search_terms": [
+    "grassland",
+    "hay meadow"
+  ],
+  "description": "Grasses and other herbaceous plants cover the open land called 'pelowa'. A meadow may be grazed, cut for hay, deliberately maintained, or left to seasonal growth. 'kosha' (field) centres the land's continuing use instead.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into middle-height front 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l' and let the voice pass around its sides into stressed middle-height rounded 'o'. Round the lips and raise the back of the tongue for the 'w' glide, then open into central 'a'.",
+  "examples": [
+    {
+      "phi": "lo peloru mua pelowa thuroa.",
+      "translation": "Flowers grow in the meadow."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Meadows are biodiversity hotspots—wildflower meadows support pollinators and countless species in harmonious community.",
-    "art-nouveau-aesthetics": "Meadows offered Art Nouveau artists endless inspiration—flowing grasses, delicate wildflowers, the interplay of wind and growth."
+    "solarpunk-values": "A meadow can support food plants and pollinators. Its tending can also make room for grazing, play, or habitat. The word leaves those uses and ecological results open for the local account."
   },
   "semantic_domains": {
-    "aesthetic": "Pastoral beauty",
-    "nature": "Open grassland"
+    "nature": "open land dominated by grasses and other non-woody plants",
+    "spatial": "a recognisable opening within cultivated or wilder land"
   }
 }

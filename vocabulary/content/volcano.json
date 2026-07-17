@@ -1,0 +1,28 @@
+{
+  "word": "thokaru",
+  "gloss": "volcano",
+  "ipa": "/θo̞.ˈkä.ru/",
+  "syllables": [
+    "tho",
+    "ka",
+    "ru"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "volcanic vent",
+    "volcanic landform"
+  ],
+  "description": "A 'thokaru' includes a volcanic vent and the landform built around it as magma, gas, ash, or heated material reaches the surface. The volcano keeps its name while quiet or extinct, so 'thero tomora' (fire mountain) is too narrow. 'tomora' (mountain) describes elevation without claiming volcanic origin.",
+  "articulatory_notes": "Begin with the tongue against the upper teeth for unvoiced 'th' and let the breath enter middle-height rounded 'o'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed central 'a'. Tap or briefly trill the tongue at the alveolar ridge, then finish with high-back rounded 'u'.",
+  "examples": [
+    {
+      "phi": "ha thokaru thumiro loa.",
+      "translation": "This volcano gives smoke."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "a landform and vent produced by material rising from within a planetary body",
+    "physical": "an opening through which magma, gas, ash, or heat may emerge",
+    "spatial": "a geological source point and the landform built around it"
+  }
+}

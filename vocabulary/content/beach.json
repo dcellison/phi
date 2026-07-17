@@ -7,16 +7,20 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Beach / Sandy Shore / Wave-Touched Sand",
-  "description": "A pebbly or sandy shore, especially by the sea. 'Leru' names where sand meets wave—the soft landing where water touches land, shaped and reshaped by every tide.",
-  "sound_symbolism": "The word lays sand for waves. 'Le' begins low, the sand laid flat. Then 'ru' rolls with the incoming wave, water meeting shore.",
-  "grammatical_notes": "Functions as a noun: 'lo leru' (beaches). A beach is a place rather than a detached or crafted object, so it has no canonical classifier. More specific than 'kerime' (shore)—beach implies sand or pebbles. Associated with leisure, tides, and liminal space.",
-  "pillars": {
-    "art-nouveau-aesthetics": "Beaches offer endless texture—sand patterns, wave marks, shells and stones, the art of water on earth.",
-    "pre-industrial-wisdom": "Beaches were landing places and gathering grounds—where boats came ashore and the sea offered its gifts."
-  },
+  "search_terms": [
+    "sandy shore",
+    "pebbly shore"
+  ],
+  "description": "Loose sand, pebbles, or similar material worked by water make a 'leru' along a shore. Beaches can border a sea, lake, or river. 'kerime' (shore) names the wider land-water edge and does not require this loose surface.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced lateral 'l' and let the voice pass around its sides into stressed middle-height front 'e'. Tap or briefly trill the tongue at the ridge for 'r', then draw the tongue back and round the lips for high-back 'u'.",
+  "examples": [
+    {
+      "phi": "lo miona mua leru thalo.",
+      "translation": "People walk on the beach."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Sandy shoreline",
-    "spatial": "Wave-shaped land edge"
+    "nature": "a water-shaped deposit of sand or pebbles along a shore",
+    "spatial": "a traversable strip at the meeting of land and water"
   }
 }

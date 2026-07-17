@@ -8,16 +8,25 @@
     "me"
   ],
   "pos": "noun",
-  "concept": "Shore / Water's Edge / Meeting Line",
-  "description": "The land along the edge of a body of water. 'Kerime' names the meeting place—where land and water touch, where waves reach and retreat, the threshold zone belonging fully to neither element.",
-  "sound_symbolism": "The word meets at the edge. 'Ke' begins with contact, land's firm presence. Then 'ri' ripples with water's approach. Finally 'me' holds the meeting, the place where both belong.",
-  "grammatical_notes": "Functions as a noun. Plural with 'lo': 'lo kerime' (shores). A shore is a place or edge rather than a detached or crafted object, so it has no canonical classifier. Applies to lake, river, and sea edges; compare 'leru' (beach), the sandy shore. Associated with liminality, meeting, and threshold spaces.",
+  "search_terms": [
+    "coast",
+    "coastline",
+    "riverbank",
+    "lakeshore"
+  ],
+  "description": "Land along the edge of a sea, lake, river, or other body of water is 'kerime'. Beside the sea, the word can cover the coast as well as the immediate waterline. 'leru' (beach) is the part of a shore covered by sand, pebbles, or similar loose material.",
+  "articulatory_notes": "Make unvoiced 'k' by closing the back of the tongue against the soft palate, then release into middle-height front 'e'. Tap or briefly trill the tongue at the alveolar ridge before stressed high-front 'i'. Close the lips for voiced 'm', carry voice through the nose, and finish with middle-height front 'e'.",
+  "examples": [
+    {
+      "phi": "lo morilu mua kerime kamo.",
+      "translation": "Waves arrive at the shore."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Shores teach the fluidity of boundaries—where does water end and land begin? The edge shifts with each wave.",
-    "pre-industrial-wisdom": "Shores were rich zones for gathering—shellfish, seaweed, driftwood, the gifts deposited where elements meet."
+    "pre-industrial-wisdom": "A shore can be a landing place or route, as well as fishing ground and flood margin. It may also be the first warning line. Its practical shape changes with season, tide, wind, and the water body beside it."
   },
   "semantic_domains": {
-    "nature": "Water-land boundary",
-    "spatial": "Liminal meeting zone"
+    "nature": "land directly adjoining a body of water",
+    "spatial": "the shifting edge and wider coastal strip between land and water"
   }
 }

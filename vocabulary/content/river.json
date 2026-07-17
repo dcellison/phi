@@ -8,16 +8,19 @@
     "re"
   ],
   "pos": "noun",
-  "concept": "River / Flowing Waterway / Living Current",
-  "description": "A large natural stream of water flowing toward sea, lake, or another river. 'Luphore' names the living arteries of the land—paths of water that carve valleys, carry life, and connect mountains to sea in endless flowing journey.",
-  "sound_symbolism": "The word flows like water over stones. 'Lu' begins with liquid pooling, water gathering. Then 'pho' /ɸo/ softens the flow, the gentle continuous current. Finally 're' runs onward, the river's endless journey.",
-  "grammatical_notes": "Functions as a noun. Plural with 'lo': 'lo luphore' (rivers). A river is a watercourse rather than a detached or crafted object, so it has no canonical classifier. Larger and more permanent than 'phuliro' (stream). Related to 'phialu' (water). Often used metaphorically for life's journey, time's passage, or continuous change.",
+  "description": "A substantial natural watercourse flowing along a channel is a 'luphore'. It may reach another body of water, dry ground, or a changing delta. 'phuliro' (stream) names the smaller side of the local contrast; seasonal interruption can occur in either.",
+  "articulatory_notes": "Start with the tongue tip at the alveolar ridge for lateral 'l', releasing voice around its sides into high-back rounded 'u'. Bring the lips close together for unvoiced bilabial 'ph' and let the narrow breath enter stressed middle-height rounded 'o'. Tap or briefly trill the tongue at the ridge, then finish with middle-height front 'e'.",
+  "examples": [
+    {
+      "phi": "luphore wea thaluro selu.",
+      "translation": "The river flows towards the ocean."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Rivers teach that one cannot step in the same water twice—constant change within apparent continuity, the nature of all phenomena.",
-    "pre-industrial-wisdom": "Rivers were the original highways, sources of food, boundaries of territories, and sacred presences honored by settlements along their banks."
+    "pre-industrial-wisdom": "Rivers have carried drinking water and food, along with boats, silt, and waste. Their changes also give seasonal warning. Settlements learned each river through its channels, floods, crossings, and times of low water."
   },
   "semantic_domains": {
-    "nature": "Flowing waterway",
-    "temporal": "Symbol of continuous change"
+    "nature": "a substantial natural watercourse within a drainage system",
+    "spatial": "a channel and flowing route across land"
   }
 }

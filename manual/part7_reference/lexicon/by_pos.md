@@ -308,13 +308,14 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (545)
+## noun (550)
 
 | Word | Gloss |
 |---|---|
 | `haluma` | language |
 | `haoni` | voice |
 | `haowu` | air |
+| `harisu` | desert |
 | `hasenu` | recess |
 | `hasumi` | tea |
 | `helia` | youth |
@@ -454,6 +455,7 @@
 | `lumoi` | lantern |
 | `lunai` | vision |
 | `lunei` | moon |
+| `lunisa` | tide |
 | `lunoa` | month |
 | `luphano` | watershed |
 | `luphonu` | boat |
@@ -559,6 +561,7 @@
 | `norupe` | spoon |
 | `noruwa` | generation |
 | `nosa` | now |
+| `nowari` | planet |
 | `nowhu` | cave |
 | `nowiso` | interface |
 | `nuhe` | sadness |
@@ -581,6 +584,7 @@
 | `palu` | plate |
 | `pamolu` | weight |
 | `panuri` | resource |
+| `pareshi` | cliff |
 | `patoku` | solid |
 | `pelaku` | severity |
 | `pelio` | arm |
@@ -781,6 +785,7 @@
 | `thimu` | time |
 | `thinoe` | seed |
 | `thirulo` | output |
+| `thokaru` | volcano |
 | `tholau` | bone |
 | `tholu` | space |
 | `tholupi` | room |

@@ -7,16 +7,20 @@
     "mo"
   ],
   "pos": "noun",
-  "concept": "Plain / Flat Land / Open Expanse",
-  "description": "A large area of flat land with few trees. 'Wemo' names the wide open—grasslands and prairies where sky meets earth uninterrupted, where one can see to the horizon in all directions.",
-  "sound_symbolism": "The word spreads wide and level. 'We' begins with open glide, the expanse unfolding. Then 'mo' grounds in level earth, the flat surface continuing.",
-  "grammatical_notes": "Functions as a noun. Plural with 'lo': 'lo wemo' (plains). A plain is a landform rather than a detached or crafted object, so it has no canonical classifier. Compare 'pelowa' (meadow), smaller and greener. Associated with openness, grassland, and unobstructed horizons.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Plains teach equanimity—the level ground treats all equally, the open sky offers the same vastness everywhere.",
-    "pre-industrial-wisdom": "Plains sustained great herds and the peoples who followed them—open lands of grass, wind, and wide sky."
-  },
+  "search_terms": [
+    "flatland",
+    "low-relief land"
+  ],
+  "description": "A broad stretch of land with little change in elevation is a 'wemo'. Vegetation and land use vary; the word concerns the landform. 'shupi' (plateau) is similarly level ground at a marked elevation above its surroundings.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for the 'w' glide, then open into stressed middle-height front 'e'. Close the lips for voiced 'm', let the voice pass through the nose, and finish with middle-height rounded 'o'.",
+  "examples": [
+    {
+      "phi": "lo kalora mua wemo thalo.",
+      "translation": "Horses walk across the plain."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Flat open land",
-    "spatial": "Unobstructed expanse"
+    "nature": "a broad landform with little local relief",
+    "spatial": "open level terrain across which routes and views extend"
   }
 }

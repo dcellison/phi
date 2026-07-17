@@ -8,16 +8,16 @@
     "ko"
   ],
   "pos": "noun",
-  "concept": "Frost / Ice Crystals / Cold's Art",
-  "description": "A deposit of small white ice crystals formed on surfaces when the temperature falls below freezing. 'Theriko' names winter's delicate art—the crystalline patterns that decorate windows and leaves, cold made visible in intricate beauty.",
-  "sound_symbolism": "The word crystallizes in cold. 'The' /θe/ begins with cold breath, the chill air. Then 'ri' sharpens into crystal, the frozen pattern forming. Finally 'ko' covers surfaces, the frost spreading its lacework.",
-  "grammatical_notes": "Functions as a noun: 'theriko' (frost), normally treated as a mass or condition. Frost is not a detached or crafted object; a counted occurrence may take optional event classifier 'nophe', or the classifier may be omitted. Related to 'kerithe' (ice) as its lighter form. Associated with cold seasons, delicate patterns, and morning chill.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Frost teaches that transformation can be beautiful—water becoming crystal, creating art that vanishes with the sun's warmth.",
-    "art-nouveau-aesthetics": "Frost creates nature's finest lacework—window frost especially inspired Art Nouveau with its organic, crystalline patterns."
-  },
+  "description": "Ice crystals deposited or grown on a cold surface are 'theriko'. Frost may form directly from water vapour or from liquid already on the surface. 'suilo' (dew) remains liquid, while 'kerithe' (ice) names the solid substance more generally.",
+  "articulatory_notes": "Set the tongue against the upper teeth for unvoiced 'th' and let the breath continue into middle-height front 'e'. Tap or briefly trill the tongue at the alveolar ridge before stressed high-front 'i'. Close the back of the tongue against the soft palate for 'k' and release into middle-height rounded 'o'.",
+  "examples": [
+    {
+      "phi": "theriko lo lirowa tawemi.",
+      "translation": "Frost covers the leaves."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Crystalline natural pattern",
-    "nature": "Frozen surface moisture"
+    "nature": "ice crystals formed on exposed surfaces under freezing conditions",
+    "physical": "a thin crystalline deposit of frozen water"
   }
 }

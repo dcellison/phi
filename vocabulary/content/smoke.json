@@ -8,16 +8,19 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Smoke / The Fire's Breath",
-  "description": "Smoke: what the fire sends up. It rises, drifts, and reports: a hearth lit, a meal cooking, a fire where none should be. The sentence 'thumiro rihe.' (smoke rises) has been waiting for this word since 'rihe' was coined.",
-  "sound_symbolism": "Soft 'thu' for the gray softness, rising through 'mi' to open 'ro', the plume widening as it goes.",
-  "grammatical_notes": "Noun: 'thumiro rihe.' (The smoke rises.) 'thumiro lue thero rihe.' (Smoke rises from the fire.)",
+  "description": "Burning material releases the airborne particles and gases called 'thumiro'. Smoke may rise from a hearth, spread from wildfire, or reveal hidden combustion in an engine. Colour and smell can suggest a source, but exact contents and health risk require their own evidence.",
+  "articulatory_notes": "At the upper teeth, set the tongue for unvoiced 'th' and let the breath enter high-back rounded 'u'. Close the lips for voiced 'm' and carry nasal voice into stressed high-front unrounded 'i'. Tap or briefly trill the tongue at the alveolar ridge, then finish with middle-height rounded 'o'.",
+  "examples": [
+    {
+      "phi": "thumiro lue thero rihe.",
+      "translation": "Smoke rises from the fire."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "A smoke curl is the style's line drawn in air, curving because air curves it. No draftsman improves on it.",
-    "pre-industrial-wisdom": "Smoke cured the meat, drove the bees gentle, signaled across valleys, and told every homecoming eye which chimneys were warm."
+    "pre-industrial-wisdom": "Smoke can preserve food, signal across distance, reveal fire, and make an enclosed shelter unsafe. Hearth knowledge follows fuel and draught through the chimney and the wind, with the breathing bodies nearby kept in view."
   },
   "semantic_domains": {
-    "nature": "The fire's rising breath",
-    "physical": "Gray drift that reports"
+    "nature": "airborne material from wild or managed burning",
+    "physical": "particles and gases suspended after combustion"
   }
 }

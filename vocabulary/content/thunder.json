@@ -8,15 +8,19 @@
     "ma"
   ],
   "pos": "noun",
-  "concept": "Thunder / The Rumble After",
-  "description": "Thunder: the sound that arrives after the light, slower because sound is slower. Always second, never alone; where there is 'horuma' there was 'pheluka'. Felt in the chest as much as heard.",
-  "sound_symbolism": "Open 'ho' for the bigness, rolling 'ru' for the rumble, 'ma' for where it settles: in the ground, and in you.",
-  "grammatical_notes": "Noun: 'mia horuma phaelo.' (I feel the thunder.) 'kurisha horuma phelu.' (The storm holds thunder.)",
+  "description": "Air expanding rapidly around a lightning discharge produces 'horuma'. A nearby flash is seen before its thunder arrives because light travels faster than sound, though cloud or distance may hide one sign. The sound may be heard as a crack, a roll, or low vibration.",
+  "articulatory_notes": "Open the glottis and send unvoiced breath into middle-height rounded 'o'. Tap or briefly trill the tongue at the alveolar ridge before stressed high-back rounded 'u'. Close the lips for voiced 'm', carry voice through the nose, and finish with central 'a'.",
+  "examples": [
+    {
+      "phi": "mia horuma phaelo.",
+      "translation": "I feel the thunder."
+    }
+  ],
   "pillars": {
-    "pre-industrial-wisdom": "Counting the gap between flash and rumble told the storm's distance. The sky taught arithmetic to anyone who stood still long enough."
+    "pre-industrial-wisdom": "The interval between a visible flash and its thunder gives a rough sense of distance. Repeated observation can show whether a storm is approaching without turning the estimate into an exact clock reading."
   },
   "semantic_domains": {
-    "nature": "The storm's voice",
-    "physical": "Sound felt in the chest"
+    "nature": "the sound produced by air expanding around lightning",
+    "physical": "a pressure wave heard and sometimes felt as vibration"
   }
 }
