@@ -1,0 +1,26 @@
+{
+  "word": "mokathi",
+  "gloss": "faeces",
+  "ipa": "/mo̞.ˈkä.θi/",
+  "syllables": [
+    "mo",
+    "ka",
+    "thi"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "feces",
+    "stool"
+  ],
+  "description": "Material expelled from the digestive tract after the body has processed food is 'mokathi'. It may be solid or less formed, so the noun promises no single texture. Amount, appearance, pain, and clinical meaning are observations a speaker can add when they matter.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the sound through the nose, and release into middle-height back rounded 'o'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed open central 'a'. Extend the tongue tip slightly between the teeth for unvoiced 'th' and finish with high-front unrounded 'i'.",
+  "examples": [
+    {
+      "phi": "mokathi lue weloni shua.",
+      "translation": "Faeces come from the body."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "material expelled from the digestive tract"
+  }
+}

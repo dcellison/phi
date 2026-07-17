@@ -1,0 +1,30 @@
+{
+  "word": "lerasu",
+  "gloss": "cruel",
+  "ipa": "/le̞.ˈrä.su/",
+  "syllables": [
+    "le",
+    "ra",
+    "su"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "cruelty",
+    "callous"
+  ],
+  "description": "An act or practice is 'lerasu' when someone knowingly or callously causes avoidable suffering. 'peloma' (harmful) can describe an effect without settling the actor's awareness; cruelty adds that ethical judgement. Applied to a person, the word describes their conduct in context rather than declaring an unchangeable nature.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and move into middle-height front 'e'. Tap or briefly trill the tongue tip, then open into stressed central 'a'. Bring the tongue blade close to the alveolar ridge for unvoiced 's' and finish with high-back rounded 'u'.",
+  "usage_notes": "The quality-noun rule supplies cruelty. A clause can state the suffering, the actor's knowledge, or the neglected alternative when the grounds for the judgement matter.",
+  "examples": [
+    {
+      "phi": "ha haolu lerasu nai.",
+      "translation": "This speech is cruel."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "The word locates cruelty in conduct that can be answered for and changed."
+  },
+  "semantic_domains": {
+    "ethics": "a judgement that conduct knowingly or callously causes avoidable suffering"
+  }
+}

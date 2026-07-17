@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1180 words.*
+*1207 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -77,6 +77,7 @@
 | `kalora` | horse | /kä.ˈlo̞.rä/ | noun |
 | `kamo` | arrive | /ˈkä.mo̞/ | verb |
 | `kanelu` | err | /kä.ˈn̪e̞.lu/ | verb |
+| `kanomi` | pelvis | /kä.ˈn̪o̞.mi/ | noun |
 | `kanu` | choose | /ˈkä.n̪u/ | verb |
 | `kanuro` | decision | /kä.ˈn̪u.ro̞/ | noun |
 | `kanuwa` | authorize | /kä.ˈn̪u.wä/ | verb |
@@ -86,6 +87,7 @@
 | `kasuno` | selfish | /kä.ˈsu.n̪o̞/ | adjective |
 | `katemu` | offcut | /kä.ˈt̪e̞.mu/ | noun |
 | `katheo` | acute | /kä.ˈθe̞.o̞/ | adjective |
+| `kathoru` | jaw | /kä.ˈθo̞.ru/ | noun |
 | `kathu` | seal | /ˈkä.θu/ | noun |
 | `kati` | cut | /ˈkä.t̪i/ | verb |
 | `katiru` | knife | /kä.ˈt̪i.ru/ | noun |
@@ -131,6 +133,7 @@
 | `ki` | PFV | /ˈki/ | particle |
 | `kia` | hello | /ˈki.ä/ | interjection |
 | `kima` | scribe | /ˈki.mä/ | noun |
+| `kiparu` | joint | /ki.ˈpä.ru/ | noun |
 | `kiphira` | fault | /ki.ˈɸi.rä/ | noun |
 | `kipona` | pain | /ki.ˈpo̞.n̪ä/ | noun |
 | `kira` | key | /ˈki.rä/ | noun |
@@ -167,6 +170,7 @@
 | `koluri` | reliable | /ko̞.ˈlu.ri/ | adjective |
 | `koma` | head | /ˈko̞.mä/ | noun |
 | `komalu` | pillow | /ko̞.ˈmä.lu/ | noun |
+| `komeri` | forehead | /ko̞.ˈme̞.ri/ | noun |
 | `kona` | VOC | /ˈko̞.n̪ä/ | vocative |
 | `kopharu` | barrier | /ko̞.ˈɸä.ru/ | noun |
 | `korei` | fulfill | /ko̞.ˈre̞.i/ | verb |
@@ -191,6 +195,7 @@
 | `kuramo` | drought | /ku.ˈrä.mo̞/ | noun |
 | `kurathi` | dry | /ku.ˈrä.θi/ | adjective |
 | `kuremi` | grind | /ku.ˈre̞.mi/ | verb |
+| `kureno` | wither | /ku.ˈre̞.n̪o̞/ | verb |
 | `kuri` | right | /ˈku.ri/ | noun |
 | `kurisha` | storm | /ku.ˈri.ʃä/ | noun |
 | `kuroi` | muscle | /ku.ˈro̞.i/ | noun |
@@ -210,6 +215,7 @@
 | `lemi` | thin | /ˈle̞.mi/ | adjective |
 | `leo` | ABOVE | /ˈle̞.o̞/ | preposition |
 | `lepa` | fall | /ˈle̞.pä/ | verb |
+| `lerasu` | cruel | /le̞.ˈrä.su/ | adjective |
 | `leru` | beach | /ˈle̞.ru/ | noun |
 | `lerua` | exterior | /le̞.ˈru.ä/ | noun |
 | `lesawi` | consent | /le̞.ˈsä.wi/ | verb |
@@ -247,6 +253,7 @@
 | `lokue` | place | /lo̞.ˈku.e̞/ | noun |
 | `lomare` | embrace | /lo̞.ˈmä.re̞/ | verb |
 | `lomea` | sibling | /lo̞.ˈme̞.ä/ | noun |
+| `lomeki` | fat | /lo̞.ˈme̞.ki/ | noun |
 | `lomura` | liver | /lo̞.ˈmu.rä/ | noun |
 | `lona` | meeting | /ˈlo̞.n̪ä/ | noun |
 | `lonae` | respond | /lo̞.ˈn̪ä.e̞/ | verb |
@@ -294,6 +301,7 @@
 | `lurepa` | nutrient | /lu.ˈre̞.pä/ | noun |
 | `luroi` | nervous | /lu.ˈro̞.i/ | adjective |
 | `luseri` | provenance | /lu.ˈse̞.ri/ | noun |
+| `lushe` | hip | /ˈlu.ʃe̞/ | noun |
 | `luwae` | graceful | /lu.ˈwä.e̞/ | adjective |
 | `luwi` | flexible | /ˈlu.wi/ | adjective |
 | `ma` | NEG | /ˈmä/ | particle |
@@ -326,7 +334,11 @@
 | `menui` | dwell | /me̞.ˈn̪u.i/ | verb |
 | `menuro` | habitat | /me̞.ˈn̪u.ro̞/ | noun |
 | `mera` | net | /ˈme̞.rä/ | noun |
+| `meraku` | brain | /me̞.ˈrä.ku/ | noun |
 | `meropi` | cherish | /me̞.ˈro̞.pi/ | verb |
+| `mesatu` | try | /me̞.ˈsä.t̪u/ | verb |
+| `meshoi` | cheek | /me̞.ˈʃo̞.i/ | noun |
+| `mewali` | interested | /me̞.ˈwä.li/ | adjective |
 | `mia` | 1SG | /ˈmi.ä/ | pronoun |
 | `mikasu` | dose | /mi.ˈkä.su/ | noun |
 | `milau` | drink | /mi.ˈlä.u/ | verb |
@@ -351,6 +363,7 @@
 | `moesha` | still | /mo̞.ˈe̞.ʃä/ | adjective |
 | `moesu` | wax | /mo̞.ˈe̞.su/ | noun |
 | `mokanu` | disease | /mo̞.ˈkä.n̪u/ | noun |
+| `mokathi` | faeces | /mo̞.ˈkä.θi/ | noun |
 | `mokela` | sick | /mo̞.ˈke̞.lä/ | adjective |
 | `mokura` | belly | /mo̞.ˈku.rä/ | noun |
 | `mola` | island | /ˈmo̞.lä/ | noun |
@@ -407,6 +420,7 @@
 | `muriwe` | worm | /mu.ˈri.we̞/ | noun |
 | `muro` | stubborn | /ˈmu.ro̞/ | adjective |
 | `muroa` | fertile | /mu.ˈro̞.ä/ | adjective |
+| `muthari` | nausea | /mu.ˈθä.ri/ | noun |
 | `muwi` | interior | /ˈmu.wi/ | noun |
 | `na` | NEC | /ˈn̪ä/ | particle |
 | `nai` | be | /ˈn̪ä.i/ | verb |
@@ -472,6 +486,7 @@
 | `noporu` | design | /n̪o̞.ˈpo̞.ru/ | verb |
 | `norae` | method | /n̪o̞.ˈrä.e̞/ | noun |
 | `noraku` | blocked | /n̪o̞.ˈrä.ku/ | adjective |
+| `norapi` | waist | /n̪o̞.ˈrä.pi/ | noun |
 | `norathu` | procedure | /n̪o̞.ˈrä.θu/ | noun |
 | `norawhi` | dusk | /n̪o̞.ˈrä.ʍi/ | noun |
 | `norea` | soul | /n̪o̞.ˈre̞.ä/ | noun |
@@ -483,6 +498,7 @@
 | `norupe` | spoon | /n̪o̞.ˈru.pe̞/ | noun |
 | `noruwa` | generation | /n̪o̞.ˈru.wä/ | noun |
 | `nosa` | now | /ˈn̪o̞.sä/ | noun |
+| `nosheku` | retract | /n̪o̞.ˈʃe̞.ku/ | verb |
 | `noshi` | near (adj) | /ˈn̪o̞.ʃi/ | adjective |
 | `nowae` | awaken | /n̪o̞.ˈwä.e̞/ | verb |
 | `nowhu` | cave | /ˈn̪o̞.ʍu/ | noun |
@@ -516,6 +532,7 @@
 | `nurome` | meal | /n̪u.ˈro̞.me̞/ | noun |
 | `nusho` | depth | /ˈn̪u.ʃo̞/ | noun |
 | `nuwera` | bed | /n̪u.ˈwe̞.rä/ | noun |
+| `nuwesu` | mucus | /n̪u.ˈwe̞.su/ | noun |
 | `nuwi` | clear | /ˈn̪u.wi/ | adjective |
 | `nuwoe` | stage | /n̪u.ˈwo̞.e̞/ | noun |
 | `pa` | INCH | /ˈpä/ | particle |
@@ -529,6 +546,7 @@
 | `panuri` | resource | /pä.ˈn̪u.ri/ | noun |
 | `pao` | goodbye | /ˈpä.o̞/ | interjection |
 | `patoku` | solid | /pä.ˈt̪o̞.ku/ | noun |
+| `patore` | hit | /pä.ˈt̪o̞.re̞/ | verb |
 | `pawela` | participate | /pä.ˈwe̞.lä/ | verb |
 | `peki` | squeeze | /ˈpe̞.ki/ | verb |
 | `pekira` | toxic | /pe̞.ˈki.rä/ | adjective |
@@ -547,6 +565,7 @@
 | `pesenu` | pollute | /pe̞.ˈse̞.n̪u/ | verb |
 | `peshiro` | infection | /pe̞.ˈʃi.ro̞/ | noun |
 | `peshu` | lie | /ˈpe̞.ʃu/ | verb |
+| `peshuma` | buttocks | /pe̞.ˈʃu.mä/ | noun |
 | `phae` | open | /ˈɸä.e̞/ | verb |
 | `phaeli` | tender | /ɸä.ˈe̞.li/ | adjective |
 | `phaelo` | feel | /ɸä.ˈe̞.lo̞/ | verb |
@@ -606,6 +625,7 @@
 | `philima` | biodiversity | /ɸi.ˈli.mä/ | noun |
 | `philo` | day | /ˈɸi.lo̞/ | noun |
 | `philu` | candle | /ˈɸi.lu/ | noun |
+| `phimei` | lip | /ɸi.ˈme̞.i/ | noun |
 | `phimela` | kiss | /ɸi.ˈme̞.lä/ | verb |
 | `phina` | FEW | /ˈɸi.n̪ä/ | quantifier |
 | `phiora` | spirit | /ɸi.ˈo̞.rä/ | noun |
@@ -770,6 +790,7 @@
 | `shane` | tell | /ˈʃä.n̪e̞/ | verb |
 | `shanewi` | notify | /ʃä.ˈn̪e̞.wi/ | verb |
 | `shao` | three-group | /ˈʃä.o̞/ | noun |
+| `shapelu` | throat | /ʃä.ˈpe̞.lu/ | noun |
 | `sharemi` | persuade | /ʃä.ˈre̞.mi/ | verb |
 | `shareo` | discuss | /ʃä.ˈre̞.o̞/ | verb |
 | `sharino` | conscience | /ʃä.ˈri.n̪o̞/ | noun |
@@ -795,6 +816,7 @@
 | `sheno` | ADD | /ˈʃe̞.n̪o̞/ | discourse |
 | `sheo` | THAN | /ˈʃe̞.o̞/ | preposition |
 | `sheori` | communicate | /ʃe̞.ˈo̞.ri/ | verb |
+| `sheraki` | search | /ʃe̞.ˈrä.ki/ | verb |
 | `sherelo` | right (normative) | /ʃe̞.ˈre̞.lo̞/ | noun |
 | `shereni` | entitlement | /ʃe̞.ˈre̞.n̪i/ | noun |
 | `sherewa` | claim | /ʃe̞.ˈre̞.wä/ | verb |
@@ -883,6 +905,7 @@
 | `sowelu` | disabled | /so̞.ˈwe̞.lu/ | adjective |
 | `su` | OPT | /ˈsu/ | particle |
 | `sua` | who | /ˈsu.ä/ | interrogative |
+| `suhari` | saliva | /su.ˈhä.ri/ | noun |
 | `sui` | DUR | /ˈsu.i/ | preposition |
 | `suilo` | dew | /su.ˈi.lo̞/ | noun |
 | `sukaro` | hot | /su.ˈkä.ro̞/ | adjective |
@@ -1044,6 +1067,7 @@
 | `tipika` | fingernail | /t̪i.ˈpi.kä/ | noun |
 | `tiripe` | quiver | /t̪i.ˈri.pe̞/ | verb |
 | `tiroe` | instant | /t̪i.ˈro̞.e̞/ | noun |
+| `tisharu` | puncture | /t̪i.ˈʃä.ru/ | verb |
 | `tiso` | sharp | /ˈt̪i.so̞/ | adjective |
 | `tisu` | needle | /ˈt̪i.su/ | noun |
 | `tiwa` | tie | /ˈt̪i.wä/ | verb |
@@ -1054,6 +1078,7 @@
 | `toloi` | messenger | /t̪o̞.ˈlo̞.i/ | noun |
 | `tolu` | staff | /ˈt̪o̞.lu/ | noun |
 | `tomae` | floor | /t̪o̞.ˈmä.e̞/ | noun |
+| `tomewu` | urine | /t̪o̞.ˈme̞.wu/ | noun |
 | `tomi` | pot | /ˈt̪o̞.mi/ | noun |
 | `tomora` | mountain | /t̪o̞.ˈmo̞.rä/ | noun |
 | `toru` | roof | /ˈt̪o̞.ru/ | noun |
@@ -1116,6 +1141,7 @@
 | `weru` | poet | /ˈwe̞.ru/ | noun |
 | `wesha` | lazy | /ˈwe̞.ʃä/ | adjective |
 | `weshaku` | outbreak | /we̞.ˈʃä.ku/ | noun |
+| `weshapi` | decorate | /we̞.ˈʃä.pi/ | verb |
 | `wesho` | locate | /ˈwe̞.ʃo̞/ | verb |
 | `wesoma` | mutual | /we̞.ˈso̞.mä/ | adjective |
 | `wetha` | cloth | /ˈwe̞.θä/ | noun |
@@ -1160,6 +1186,7 @@
 | `wi` | two | /ˈwi/ | numeral |
 | `wia` | how many | /ˈwi.ä/ | interrogative |
 | `wiero` | imaginative | /wi.ˈe̞.ro̞/ | adjective |
+| `wilanu` | dissolve | /wi.ˈlä.n̪u/ | verb |
 | `wilao` | long-for | /wi.ˈlä.o̞/ | verb |
 | `wile` | play | /ˈwi.le̞/ | verb |
 | `wilemo` | toy | /wi.ˈle̞.mo̞/ | noun |

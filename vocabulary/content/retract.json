@@ -1,0 +1,31 @@
+{
+  "word": "nosheku",
+  "gloss": "retract",
+  "ipa": "/n̪o̞.ˈʃe̞.ku/",
+  "syllables": [
+    "no",
+    "she",
+    "ku"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "withdraw a claim",
+    "take back"
+  ],
+  "description": "A speaker 'nosheku' an earlier claim or proposal when they withdraw it from what they now put forward. The earlier words remain part of the record; retraction changes the speaker's present commitment to them. 'lilea' (clarify) makes meaning plainer, while correction identifies or replaces an error.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the sound through the nose, and round the lips into middle-height back 'o'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and release into stressed middle-height front 'e'. Close the back of the tongue against the soft palate for unvoiced 'k' and finish with high-back rounded 'u'.",
+  "usage_notes": "The withdrawn claim or proposal is the object. Ending consent, permission, or a continuing commitment uses the construction appropriate to that relation rather than treating every ending as retraction.",
+  "examples": [
+    {
+      "phi": "mia sherewa nosheku.",
+      "translation": "I retract the claim."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "A speaker can leave an untenable claim without pretending it was never spoken or turning revision into defeat."
+  },
+  "semantic_domains": {
+    "cognition": "a changed commitment to what one previously put forward",
+    "communication": "withdrawal of an earlier claim or proposal from one's present contribution"
+  }
+}

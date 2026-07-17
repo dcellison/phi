@@ -1,0 +1,24 @@
+{
+  "word": "shapelu",
+  "gloss": "throat",
+  "ipa": "/ʃä.ˈpe̞.lu/",
+  "syllables": [
+    "sha",
+    "pe",
+    "lu"
+  ],
+  "pos": "noun",
+  "description": "Behind the mouth and within the neck, 'shapelu' is the ordinary internal region through which breath, food, drink, and voice pass. It is broad enough for a sore or dry throat without claiming one exact clinical structure. 'nolue' (neck) remains the outer region between head and shoulders.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and release the narrow airflow into open central 'a'. Close the lips for unvoiced 'p' and release into stressed middle-height front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and finish with high-back rounded 'u'.",
+  "usage_notes": "Pain, dryness, swallowing, and voice can all be located in 'shapelu'. Exact anatomical discussion keeps the narrower source term when it matters.",
+  "examples": [
+    {
+      "phi": "mia shapelu kurathi nai.",
+      "translation": "My throat is dry."
+    }
+  ],
+  "semantic_domains": {
+    "communication": "the internal bodily region through which voice passes",
+    "physical": "the internal region behind the mouth used in breathing and swallowing"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "word": "mesatu",
+  "gloss": "try",
+  "ipa": "/me̞.ˈsä.t̪u/",
+  "syllables": [
+    "me",
+    "sa",
+    "tu"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "attempt",
+    "make an effort"
+  ],
+  "description": "Someone 'mesatu' an action when they undertake it without claiming that it was completed or succeeded. Intention may remain private and success may arrive by accident; trying says that the person actually made the attempt. 'meloa' (persevere) adds continuation through difficulty.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the sound through the nose, and release into middle-height front 'e'. Bring the tongue blade close to the alveolar ridge for unvoiced 's' and open into stressed central 'a'. Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and finish with high-back rounded 'u'.",
+  "usage_notes": "A noun can name the attempted act. A complete attempted proposition appears in the declarative complement frame 'mena ... meno'; the following clause can report whether it succeeded.",
+  "examples": [
+    {
+      "phi": "mia mena mia meipa whori meno mesatu.",
+      "translation": "I try to mend my garment."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "The verb credits an undertaken effort without turning intention into success or an unfinished act into failure."
+  },
+  "semantic_domains": {
+    "activity": "undertaking an action whose completion or success remains open",
+    "cognition": "acting on an aim without claiming its result"
+  }
+}

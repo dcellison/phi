@@ -24,6 +24,11 @@ jobs:
       - name: Test vocabulary schema
         run: python3 scripts/test_vocabulary_schema.py
 
+      - name: Check content vocabulary decisions
+        run: |
+          python3 scripts/content_vocabulary_decisions.py --check
+          python3 scripts/test_content_vocabulary_decisions.py
+
       - name: Test productive name forms
         run: python3 scripts/test_name_forms.py
 

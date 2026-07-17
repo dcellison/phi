@@ -1,0 +1,28 @@
+{
+  "word": "wilanu",
+  "gloss": "dissolve",
+  "ipa": "/wi.ˈlä.n̪u/",
+  "syllables": [
+    "wi",
+    "la",
+    "nu"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "go into solution",
+    "dissolution"
+  ],
+  "description": "Salt 'wilanu' in water when it disperses through the liquid and no longer keeps a separate visible boundary. Mixing may occur without dissolution, and melting changes a material's phase rather than dispersing it through another substance. At base, the dissolving substance is the subject.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then move forward and unround into high-front 'i'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and open into stressed central 'a'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n' and finish through the nose on high-back rounded 'u'.",
+  "usage_notes": "The medium can be introduced with locative 'mua'. Causative 'ka' adds whatever causes the substance to dissolve, and the event noun supplies dissolution.",
+  "examples": [
+    {
+      "phi": "morisa mua phialu wilanu.",
+      "translation": "Salt dissolves in water."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "dispersion of one substance through another in natural or living processes",
+    "physical": "loss of a substance's separate boundary as it disperses through a medium"
+  }
+}

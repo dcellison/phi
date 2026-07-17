@@ -1,0 +1,32 @@
+{
+  "word": "weshapi",
+  "gloss": "decorate",
+  "ipa": "/we̞.ˈʃä.pi/",
+  "syllables": [
+    "we",
+    "sha",
+    "pi"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "ornament",
+    "adorn"
+  ],
+  "description": "Someone may 'weshapi' a doorway with carved leaves, or a table with flowers set there for an evening. The verb means to add visible ornament to a thing. 'noporu' (design) plans a form, while decorating changes its appearance.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then move forward and unround into middle-height 'e'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and open into stressed central 'a'. Close the lips for unvoiced 'p' and release into high-front unrounded 'i'.",
+  "usage_notes": "The thing being decorated is the object. The event noun supplies decoration as an act; a particular ornament can be described by its material, shape, or image.",
+  "examples": [
+    {
+      "phi": "mia ha womu weshapi.",
+      "translation": "I decorate this home."
+    }
+  ],
+  "pillars": {
+    "art-nouveau-aesthetics": "Decoration can let a made thing carry leaves, curves, figures, or other chosen forms beyond its bare practical shape."
+  },
+  "semantic_domains": {
+    "activity": "the act of adding ornament to a thing",
+    "aesthetic": "visible additions made chiefly for their effect on form or appearance",
+    "creation": "ornament added during or after making"
+  }
+}

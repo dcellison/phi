@@ -8,7 +8,7 @@
 *Content words appear under their listed lexical class. A rule-supplied event or quality noun does not add another class to the entry. Function words are grouped by grammatical class.*
 
 
-## adjective (203)
+## adjective (205)
 
 | Word | Gloss |
 |---|---|
@@ -47,6 +47,7 @@
 | `kurathi` | dry |
 | `laeno` | long |
 | `lemi` | thin |
+| `lerasu` | cruel |
 | `letharo` | consistent |
 | `lima` | alive |
 | `limu` | young |
@@ -63,6 +64,7 @@
 | `luwae` | graceful |
 | `luwi` | flexible |
 | `maeli` | quiet |
+| `mewali` | interested |
 | `mioru` | beautiful |
 | `mirewu` | private |
 | `moesha` | still |
@@ -299,7 +301,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (507)
+## noun (524)
 
 | Word | Gloss |
 |---|---|
@@ -328,9 +330,11 @@
 | `howenu` | weather |
 | `kaero` | phase |
 | `kalora` | horse |
+| `kanomi` | pelvis |
 | `kanuro` | decision |
 | `karami` | authority |
 | `katemu` | offcut |
+| `kathoru` | jaw |
 | `kathu` | seal |
 | `katiru` | knife |
 | `kaworu` | injury |
@@ -352,6 +356,7 @@
 | `kesho` | middle |
 | `keshoa` | reptile |
 | `kima` | scribe |
+| `kiparu` | joint |
 | `kiphira` | fault |
 | `kipona` | pain |
 | `kira` | key |
@@ -370,6 +375,7 @@
 | `kolupe` | bucket |
 | `koma` | head |
 | `komalu` | pillow |
+| `komeri` | forehead |
 | `kopharu` | barrier |
 | `koremu` | bark |
 | `kori` | leather |
@@ -412,6 +418,7 @@
 | `lohau` | dog |
 | `lokue` | place |
 | `lomea` | sibling |
+| `lomeki` | fat |
 | `lomura` | liver |
 | `lona` | meeting |
 | `lonai` | width |
@@ -442,6 +449,7 @@
 | `lureko` | fruit |
 | `lurepa` | nutrient |
 | `luseri` | provenance |
+| `lushe` | hip |
 | `maewo` | threshold |
 | `manuwe` | hand |
 | `meipa` | seat |
@@ -455,6 +463,8 @@
 | `menua` | counselor |
 | `menuro` | habitat |
 | `mera` | net |
+| `meraku` | brain |
+| `meshoi` | cheek |
 | `mikasu` | dose |
 | `milura` | milk |
 | `miona` | person |
@@ -467,6 +477,7 @@
 | `moenu` | culture |
 | `moesu` | wax |
 | `mokanu` | disease |
+| `mokathi` | faeces |
 | `mokura` | belly |
 | `mola` | island |
 | `molira` | hill |
@@ -496,6 +507,7 @@
 | `muralo` | material |
 | `murethi` | impairment |
 | `muriwe` | worm |
+| `muthari` | nausea |
 | `muwi` | interior |
 | `napa` | bread |
 | `napuro` | grain |
@@ -518,6 +530,7 @@
 | `nophae` | nose |
 | `nophi` | story |
 | `norae` | method |
+| `norapi` | waist |
 | `norathu` | procedure |
 | `norawhi` | dusk |
 | `norea` | soul |
@@ -541,6 +554,7 @@
 | `nurome` | meal |
 | `nusho` | depth |
 | `nuwera` | bed |
+| `nuwesu` | mucus |
 | `nuwoe` | stage |
 | `paloi` | foot |
 | `palowe` | shoe |
@@ -556,6 +570,7 @@
 | `pemaru` | hazard |
 | `perola` | rose |
 | `peshiro` | infection |
+| `peshuma` | buttocks |
 | `phaeno` | week |
 | `phaero` | transit |
 | `phaewi` | studio |
@@ -585,6 +600,7 @@
 | `philima` | biodiversity |
 | `philo` | day |
 | `philu` | candle |
+| `phimei` | lip |
 | `phiora` | spirit |
 | `phirali` | blossom |
 | `phirenu` | snow |
@@ -650,6 +666,7 @@
 | `shalu` | fish |
 | `shalumi` | salmon |
 | `shao` | three-group |
+| `shapelu` | throat |
 | `sharino` | conscience |
 | `shea` | peace |
 | `shela` | art |
@@ -688,6 +705,7 @@
 | `sophae` | cotton |
 | `sorai` | insight |
 | `sorui` | circle |
+| `suhari` | saliva |
 | `suilo` | dew |
 | `sukima` | fear |
 | `sulai` | musician |
@@ -761,6 +779,7 @@
 | `toloi` | messenger |
 | `tolu` | staff |
 | `tomae` | floor |
+| `tomewu` | urine |
 | `tomi` | pot |
 | `tomora` | mountain |
 | `toru` | roof |
@@ -915,7 +934,7 @@
 | `theula` | UNIV |
 | `wheli` | ANY |
 
-## verb (337)
+## verb (345)
 
 | Word | Gloss |
 |---|---|
@@ -969,6 +988,7 @@
 | `kulo` | guide |
 | `kupe` | hide |
 | `kuremi` | grind |
+| `kureno` | wither |
 | `laniru` | journey |
 | `lei` | harmony |
 | `leiro` | release |
@@ -999,6 +1019,7 @@
 | `menai` | dedicate |
 | `menui` | dwell |
 | `meropi` | cherish |
+| `mesatu` | try |
 | `milau` | drink |
 | `miratu` | recognize |
 | `misharo` | consult |
@@ -1035,6 +1056,7 @@
 | `nomira` | collect |
 | `noporu` | design |
 | `norelu` | form |
+| `nosheku` | retract |
 | `nowae` | awaken |
 | `nuhemi` | grieve |
 | `nuhewa` | weep |
@@ -1045,6 +1067,7 @@
 | `nuola` | eat |
 | `palo` | touch |
 | `panoru` | support |
+| `patore` | hit |
 | `pawela` | participate |
 | `peki` | squeeze |
 | `perawi` | expose |
@@ -1136,6 +1159,7 @@
 | `shemoli` | harmonize |
 | `shemui` | utter |
 | `sheori` | communicate |
+| `sheraki` | search |
 | `sherewa` | claim |
 | `shimalo` | discipline |
 | `shiroka` | repair |
@@ -1212,6 +1236,7 @@
 | `thuo` | prosper |
 | `thuroa` | grow |
 | `tiripe` | quiver |
+| `tisharu` | puncture |
 | `tiwa` | tie |
 | `tukelu` | recycle |
 | `tukiro` | review |
@@ -1230,6 +1255,7 @@
 | `wephari` | coordinate |
 | `wepu` | go |
 | `wepuri` | progress |
+| `weshapi` | decorate |
 | `wesho` | locate |
 | `whakeru` | object |
 | `whaline` | thank |
@@ -1249,6 +1275,7 @@
 | `whola` | invite |
 | `whori` | mend |
 | `whunei` | breathe |
+| `wilanu` | dissolve |
 | `wilao` | long-for |
 | `wile` | play |
 | `winora` | plan |

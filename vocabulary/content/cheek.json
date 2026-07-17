@@ -1,0 +1,22 @@
+{
+  "word": "meshoi",
+  "gloss": "cheek",
+  "ipa": "/me̞.ˈʃo̞.i/",
+  "syllables": [
+    "me",
+    "sho",
+    "i"
+  ],
+  "pos": "noun",
+  "description": "On either side of the face, 'meshoi' is the soft region below the eye and between the nose, mouth, and ear. A cheek may redden, move, or receive a touch; the noun leaves the meaning of that change to the sentence.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the sound through the nose, and release into middle-height front unrounded 'e'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh', then round the lips around stressed middle-height back 'o'. Raise the tongue into high-front unrounded 'i' for the separate final syllable.",
+  "examples": [
+    {
+      "phi": "lopia meshoi wirua nai.",
+      "translation": "The child's cheek is wet."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "the soft region on either side of the face"
+  }
+}

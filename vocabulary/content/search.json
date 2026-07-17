@@ -1,0 +1,29 @@
+{
+  "word": "sheraki",
+  "gloss": "search",
+  "ipa": "/ʃe̞.ˈrä.ki/",
+  "syllables": [
+    "she",
+    "ra",
+    "ki"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "seek",
+    "look for"
+  ],
+  "description": "Someone 'sheraki' a person, thing, place, or answer when they act over time to find it. 'hekawi' (find) claims success and can happen by accident; searching is the activity whether or not it succeeds. 'thilou' (inquire) searches through questions, one possible method among others.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and release into middle-height front unrounded 'e'. Tap or briefly trill the tongue tip at the alveolar ridge, then open into stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and finish with high-front unrounded 'i'.",
+  "usage_notes": "The sought person, object, place, or answer is the object. A route, method, duration, or eventual discovery can be stated separately.",
+  "examples": [
+    {
+      "phi": "mia kira sheraki.",
+      "translation": "I search for the key."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "sustained action directed towards finding something",
+    "cognition": "a search for an answer, fact, or other unknown",
+    "spatial": "looking through places or along a route for a person or thing"
+  }
+}

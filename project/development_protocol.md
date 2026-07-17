@@ -89,6 +89,7 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 - Does the concept belong in the general teaching path, one or more optional vocabulary modules, a transparent expression, or a separate source-material explanation?
 - What is the intended semantic scope, and which neighboring concepts must the definition distinguish?
 - Which values does the choice express, and what legitimate use or interpretation might it burden?
+- Give every noticed content-vocabulary question an ID in `project/content_vocabulary_decisions.json` before a semantic batch closes; implementation, composition, deferral, source dependence, and rejection are all decisions, but silence is not
 
 ### Step 2: Sound Selection
 - Choose a legal, speakable form whose rhythm and phonetic character suit its intended use
@@ -123,6 +124,7 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 - Fill the target vocabulary fields with substantive content and serialize them in canonical schema order
 - Give every content word accurate `semantic_domains` assignments and add validated `modules` membership when it belongs to optional domain vocabulary
 - Store at least one natural Phi and English example pair that passes `python3 scripts/validate_examples.py`
+- Update the candidate's decision state and implementation evidence, then regenerate `project/content_vocabulary_decisions.md` with `python3 scripts/content_vocabulary_decisions.py --write`
 - Refresh `documents/validation/vocabulary_prose_coverage.json` with `python3 scripts/vocabulary_prose_coverage.py`
 - Regenerate the Part VII alphabetical, domain, module, and part-of-speech references
 - Add or update a speaker-facing module chapter when the word belongs to an established vocabulary module

@@ -1,0 +1,30 @@
+{
+  "word": "lomeki",
+  "gloss": "fat",
+  "ipa": "/lo̞.ˈme̞.ki/",
+  "syllables": [
+    "lo",
+    "me",
+    "ki"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "adipose tissue",
+    "body fat"
+  ],
+  "description": "In a body, 'lomeki' is the tissue that stores energy, cushions structures, and helps regulate temperature. The noun can also identify fat separated from an animal or used as a material. It is a substance word, not a judgement about a person.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and draw the tongue back into middle-height rounded 'o'. Close the lips for voiced 'm', carry the sound through the nose, and move into stressed middle-height front unrounded 'e'. Close the back of the tongue against the soft palate for unvoiced 'k' and finish with high-front unrounded 'i'.",
+  "usage_notes": "English also uses fat as an adjective about bodies and people. Phi keeps 'lomeki' as a substance noun; body size, composition, and health each take the words that describe them directly.",
+  "examples": [
+    {
+      "phi": "lomeki kenua phelure.",
+      "translation": "Fat stores energy."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "A substance noun lets a speaker discuss anatomy and care without importing a body-directed insult or treating appearance as a medical conclusion."
+  },
+  "semantic_domains": {
+    "physical": "energy-storing and cushioning bodily tissue or separated animal material"
+  }
+}

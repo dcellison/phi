@@ -1,0 +1,22 @@
+{
+  "word": "kanomi",
+  "gloss": "pelvis",
+  "ipa": "/kä.ˈn̪o̞.mi/",
+  "syllables": [
+    "ka",
+    "no",
+    "mi"
+  ],
+  "pos": "noun",
+  "description": "At the base of the trunk, 'kanomi' is the basin-like bony structure that supports the spine and connects the body to the legs. It gives ordinary speech one regional noun without replacing exact names for its bones, organs, or joints. 'lushe' (hip) identifies either side where a leg meets it.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into open central 'a'. Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and round the lips around stressed middle-height back 'o'. Close the lips for voiced 'm' and finish with high-front unrounded 'i'.",
+  "examples": [
+    {
+      "phi": "kanomi lo tolae panoru.",
+      "translation": "The pelvis supports the legs."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "the bony basin at the base of the trunk"
+  }
+}

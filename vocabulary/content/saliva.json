@@ -1,0 +1,25 @@
+{
+  "word": "suhari",
+  "gloss": "saliva",
+  "ipa": "/su.ˈhä.ri/",
+  "syllables": [
+    "su",
+    "ha",
+    "ri"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "spit"
+  ],
+  "description": "The clear fluid normally present in the mouth is 'suhari'. It moistens food, begins digestion, and helps with swallowing and speech. 'puse' (spit) is an outward act; 'suhari' is the fluid whether it stays in the mouth or leaves it.",
+  "articulatory_notes": "Bring the tongue blade close to the alveolar ridge for unvoiced 's' and release the narrow airflow into high-back rounded 'u'. Let unvoiced air pass through the open glottis for 'h', then open into stressed central 'a'. Tap or briefly trill the tongue tip at the alveolar ridge and finish with high-front unrounded 'i'.",
+  "examples": [
+    {
+      "phi": "suhari mua phulae nai.",
+      "translation": "Saliva is in the mouth."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "the bodily fluid that moistens the mouth and food"
+  }
+}
