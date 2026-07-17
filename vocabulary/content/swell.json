@@ -1,0 +1,30 @@
+{
+  "word": "murase",
+  "gloss": "swell",
+  "ipa": "/mu.ˈrä.se̞/",
+  "syllables": [
+    "mu",
+    "ra",
+    "se"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "expand",
+    "enlarge",
+    "become swollen"
+  ],
+  "description": "A body part or material 'murase' when it becomes larger or thicker as fluid, gas, or pressure develops within it. A sprained joint may swell; dry wood may swell after taking up water. 'thuroa' (grow) follows development or increase over time, while swelling can be rapid and reversible.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the sound through the nose, and release into high-back rounded 'u'. Tap or briefly trill the tongue tip at the alveolar ridge, then open into stressed central 'a'. Bring the tongue blade close to the alveolar ridge for unvoiced 's' and finish with middle-height front unrounded 'e'.",
+  "sound_symbolism": "Nasal 'mu' begins in a small rounded space, then stressed 'ra' opens the mouth before final 'se' narrows it again. That brief widening gives the form a bodily mnemonic.",
+  "usage_notes": "The body or material that enlarges is the subject of 'murase'. Causative 'ka' introduces what makes it happen, and the event noun is the swelling. A medical account can identify the cause separately.",
+  "examples": [
+    {
+      "phi": "mia kiparu murase.",
+      "translation": "My joint swells."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "increase in bodily or material extent through an internal change",
+    "quantity": "an overall size or volume becoming greater"
+  }
+}

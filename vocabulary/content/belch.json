@@ -1,0 +1,27 @@
+{
+  "word": "rumeka",
+  "gloss": "belch",
+  "ipa": "/ru.ˈme̞.kä/",
+  "syllables": [
+    "ru",
+    "me",
+    "ka"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "burp",
+    "eructate"
+  ],
+  "description": "A person or animal 'rumeka' when gas rises from the stomach or oesophagus and leaves through the mouth. The release may be quiet or audible. 'mupelo' (vomit) expels stomach contents, while belching releases gas.",
+  "articulatory_notes": "Tap or briefly trill the tongue tip at the alveolar ridge and continue into high-back rounded 'u'. Close the lips for voiced 'm', carry the sound through the nose, and move into stressed middle-height front unrounded 'e'. Close the back of the tongue against the soft palate for unvoiced 'k' and finish with central 'a'.",
+  "usage_notes": "As a verb, 'rumeka' is intransitive; in noun position, the form is a belch. Discomfort or another person's response can follow in its own clause.",
+  "examples": [
+    {
+      "phi": "miona rumeka.",
+      "translation": "The person belches."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "release of gas from the upper digestive tract through the mouth"
+  }
+}

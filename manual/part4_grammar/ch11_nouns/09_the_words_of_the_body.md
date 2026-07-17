@@ -59,6 +59,7 @@ The living interior, and the whole:
 | *lorika* | blood |
 | *tholau* | bone |
 | *kuroi* | muscle |
+| *mashuri* | flesh |
 | *hisae* | skin |
 | *weloni* | body |
 
@@ -108,7 +109,17 @@ IMP DAT 3SG water give.
 
 ## Sensations are felt
 
-Sensations and feelings that are nouns are objects of *phaelo* (feel): *kipona* (pain), *shea* (peace), *nuhe* (sadness). This is the same verb the journal practice of chapter 23 runs on, and the grammar is one pattern for the whole inner world:
+Sensations and feelings that are nouns are objects of *phaelo* (feel). The same grammar works for *shea* (peace), *nuhe* (sadness), and the bodily words below:
+
+| Phi | Gloss |
+|-----|-------|
+| *kipona* | pain |
+| *sikoru* | itch |
+| *numaro* | numbness |
+| *tiphori* | tingling |
+| *wiloru* | dizziness |
+
+This is also the pattern that runs through the journal practice of chapter 23:
 
 ```
 mia kipona phaelo.
@@ -124,6 +135,16 @@ mia mua rokai kipona phaelo.
 (I feel pain in my back.)
 ```
 
+The same frame gives a small sensation its proper place without promoting it to a diagnosis:
+
+```
+mia mua pelio sikoru phaelo.
+1SG LOC arm itch feel.
+(I feel an itch on my arm.)
+```
+
+Numbness, tingling, and dizziness are likewise reports from the person who feels them. Weakness, loss of movement, observed imbalance, and sickness remain separate facts; a helpful word should not arrive carrying a medical chart under its arm.
+
 So the healer's question is:
 
 ```
@@ -133,6 +154,39 @@ thia kua kipona phaelo.
 ```
 
 One sentence Phi refuses: *mia kipona nai*, I am pain. The state you wear takes *nai*; the sensation passing through you takes *phaelo*; and a person has never been their pain.
+
+## Small bodily events
+
+Several ordinary acts need no clinical detour. Two take the person or thing at the mouth as an object:
+
+| Phi | Gloss | Kept separate from |
+|-----|-------|--------------------|
+| *lisaku* | lick | tasting a flavour |
+| *pumari* | suck | drinking or swallowing |
+
+```
+nolika mia manuwe lisaku.
+animal 1SG hand lick.
+(The animal licks my hand.)
+```
+
+Five others are usually intransitive:
+
+| Phi | Gloss | What the verb says |
+|-----|-------|--------------------|
+| *nishoku* | sneeze | air bursts through the nose and mouth |
+| *ketumi* | hiccup | the breath catches after a sudden contraction |
+| *rumeka* | belch | gas rises and leaves through the mouth |
+| *murase* | swell | a body or material becomes larger or thicker |
+| *kesiri* | shrink | a body or material becomes smaller |
+
+The ordinary event-noun rule applies to all five verbs. Causes stay in their own clauses. A swollen joint may follow an injury or inflammation, but *murase* reports the change before deciding why it happened.
+
+```
+mia kiparu murase.
+1SG joint swell.
+(My joint swells.)
+```
 
 ## The healing house
 

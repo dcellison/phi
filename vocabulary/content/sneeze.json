@@ -1,0 +1,27 @@
+{
+  "word": "nishoku",
+  "gloss": "sneeze",
+  "ipa": "/n̪i.ˈʃo̞.ku/",
+  "syllables": [
+    "ni",
+    "sho",
+    "ku"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "sneezing",
+    "nasal reflex"
+  ],
+  "description": "Someone 'nishoku' when irritation in the nose triggers a sudden involuntary burst of air through the nose and mouth. 'kehota' (cough) begins deeper in the airway and chiefly leaves through the mouth. The cause of a sneeze belongs to the surrounding account.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and release into high-front unrounded 'i'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and round the lips around stressed middle-height back 'o'. Close the back of the tongue against the soft palate for unvoiced 'k' and finish with high-back rounded 'u'.",
+  "usage_notes": "'nishoku' takes no object in ordinary use. In noun position, the form is one sneeze; aspect or a count shows repetition. Its cause belongs in another clause.",
+  "examples": [
+    {
+      "phi": "lopia nishoku.",
+      "translation": "The child sneezes."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "an involuntary burst of air prompted by irritation in the nose"
+  }
+}

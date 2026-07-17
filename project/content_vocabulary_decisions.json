@@ -7,7 +7,7 @@
     {"id": "pace-motion-and-equilibrium", "heading": "Pace, motion, and equilibrium", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "color", "heading": "Color", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "strength-deformation-and-recovery", "heading": "Strength, deformation, and recovery", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
-    {"id": "sensory-and-perceptual-qualities", "heading": "Sensory and perceptual qualities", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-TASTE-01", "CV-SENS-01"]},
+    {"id": "sensory-and-perceptual-qualities", "heading": "Sensory and perceptual qualities", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-TASTE-01", "CV-SENS-01"]},
     {"id": "aesthetic-and-formal-qualities", "heading": "Aesthetic and formal qualities", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-AEST-01", "CV-AEST-02", "CV-AEST-03", "CV-SHAPE-01"]},
     {"id": "awareness-and-epistemic-qualities", "heading": "Awareness and epistemic qualities", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "ethics-care-and-candour", "heading": "Ethics, care, and candour", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-ETH-01", "CV-CONFLICT-01"]},
@@ -33,18 +33,18 @@
     {"id": "basic-motion-endpoints-and-staying", "heading": "Basic motion, endpoints, and staying", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "manner-trajectory-and-extended-movement", "heading": "Manner, trajectory, and extended movement", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "posture-rest-waiting-and-residence", "heading": "Posture, rest, waiting, and residence", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
-    {"id": "breath-intake-and-expulsion", "heading": "Breath, intake, and expulsion", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-NAUSEA-01", "CV-BREATH-01", "CV-INTAKE-01"]},
+    {"id": "breath-intake-and-expulsion", "heading": "Breath, intake, and expulsion", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-NAUSEA-01", "CV-BREATH-01", "CV-INTAKE-01"]},
     {"id": "contact-force-and-placement", "heading": "Contact, force, and placement", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-HIT-01", "CV-AIM-01"]},
     {"id": "material-change-making-and-joining", "heading": "Material change, making, and joining", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-PUNCTURE-01", "CV-DISSOLVE-01", "CV-TEXT-01"]},
-    {"id": "change-continuity-repair-and-renewal", "heading": "Change, continuity, repair, and renewal", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-DISSOLVE-01", "CV-SWELL-01"]},
-    {"id": "life-growth-cultivation-and-flourishing", "heading": "Life, growth, cultivation, and flourishing", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-WITHER-01", "CV-REPRO-01", "CV-CULT-01", "CV-SWELL-01"]},
+    {"id": "change-continuity-repair-and-renewal", "heading": "Change, continuity, repair, and renewal", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-DISSOLVE-01", "CV-SWELL-01"]},
+    {"id": "life-growth-cultivation-and-flourishing", "heading": "Life, growth, cultivation, and flourishing", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-WITHER-01", "CV-REPRO-01", "CV-CULT-01", "CV-SWELL-01"]},
     {"id": "care-affection-regard-and-relational-repair", "heading": "Care, affection, regard, and relational repair", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "learning-practice-guidance-and-sustained-effort", "heading": "Learning, practice, guidance, and sustained effort", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-TRY-01", "CV-EDU-01"]},
     {"id": "measurement-comparison-meaning-and-record", "heading": "Measurement, comparison, meaning, and record", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-SEARCH-01", "CV-WRITE-01"]},
     {"id": "ritual-play-and-expressive-response", "heading": "Ritual, play, and expressive response", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-HIT-01", "CV-APPLAUSE-01"]},
     {"id": "relation-boundaries-and-remaining-practical-acts", "heading": "Relation, boundaries, and remaining practical acts", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-COVER-01"]},
     {"id": "personhood-generations-kinship-and-social-belonging", "heading": "Personhood, generations, kinship, and social belonging", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-ANIMAL-01"]},
-    {"id": "body-anatomy-and-bodily-condition", "heading": "Body, anatomy, and bodily condition", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-BODY-01", "CV-BODY-02", "CV-BODY-03", "CV-BODY-04", "CV-BODY-05", "CV-BODY-06", "CV-BODY-07", "CV-BODY-08", "CV-BODY-09", "CV-SENS-01"]},
+    {"id": "body-anatomy-and-bodily-condition", "heading": "Body, anatomy, and bodily condition", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-BODY-01", "CV-BODY-02", "CV-BODY-03", "CV-BODY-04", "CV-BODY-05", "CV-BODY-06", "CV-BODY-07", "CV-BODY-08", "CV-BODY-09", "CV-SENS-01"]},
     {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "not-started", "decision_status": "open", "candidate_ids": ["CV-MAT-02", "CV-MEAS-02", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]}
   ],
   "candidates": [
@@ -96,10 +96,10 @@
     {
       "id": "CV-SENS-01",
       "concept": "itch, numbness, tingling, and dizziness",
-      "status": "open",
-      "placement": "base or Medical",
-      "summary": "These are ordinary felt states, not diagnoses, and broad pain or sickness does not describe them accurately.",
-      "question": "Which sensations need base nouns for immediate self-report, and which are best learned through Medical?",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "A person can name four familiar sensations before anyone adds a broader bodily condition or clinical conclusion.",
+      "implementation": {"words": ["sikoru", "numaro", "tiphori", "wiloru"], "files": ["vocabulary/content/itch.json", "vocabulary/content/numbness.json", "vocabulary/content/tingling.json", "vocabulary/content/dizziness.json"]},
       "batches": ["sensory-and-perceptual-qualities", "body-anatomy-and-bodily-condition", "recovered-cross-inventory-prompts"]
     },
     {
@@ -330,19 +330,19 @@
     {
       "id": "CV-BREATH-01",
       "concept": "sneezing, hiccups, and belching",
-      "status": "deferred",
-      "placement": "base, Household, or Medical",
-      "summary": "These are distinct everyday bodily events, but the current corpus has not yet decided whether each needs a root.",
-      "revisit_when": "a care, household, comic, or first-person body scenario needs one of these events directly",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "Three ordinary verbs distinguish a sneeze's nasal burst, a hiccup's caught breath, and gas released in a belch.",
+      "implementation": {"words": ["nishoku", "ketumi", "rumeka"], "files": ["vocabulary/content/sneeze.json", "vocabulary/content/hiccup.json", "vocabulary/content/belch.json"]},
       "batches": ["breath-intake-and-expulsion"]
     },
     {
       "id": "CV-INTAKE-01",
       "concept": "lick and suck",
-      "status": "open",
+      "status": "implemented",
       "placement": "base",
-      "summary": "Eating, drinking, touching, and drawing inward do not fully describe these common mouth actions.",
-      "question": "Do both actions deserve roots for food, infancy, care, animals, and intimacy, or can one remain a transparent manner clause?",
+      "summary": "One verb follows the tongue across a surface; the other follows inward pressure made by the mouth.",
+      "implementation": {"words": ["lisaku", "pumari"], "files": ["vocabulary/content/lick.json", "vocabulary/content/suck.json"]},
       "batches": ["breath-intake-and-expulsion", "recovered-cross-inventory-prompts"]
     },
     {
@@ -393,10 +393,10 @@
     {
       "id": "CV-SWELL-01",
       "concept": "swell and shrink",
-      "status": "open",
-      "placement": "base or a material and bodily module",
-      "summary": "Growth, size change, inflammation, drying, and compression cover causes or contexts but not the neutral dimensional changes themselves.",
-      "question": "Should Phi coin a general pair for expansion and contraction, or use result-state clauses selected by the material or body involved?",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "Two deliberately distant forms cover opposite changes in bodily or material extent, with cause and diagnosis left to the surrounding account.",
+      "implementation": {"words": ["murase", "kesiri"], "files": ["vocabulary/content/swell.json", "vocabulary/content/shrink.json"]},
       "batches": ["change-continuity-repair-and-renewal", "life-growth-cultivation-and-flourishing", "recovered-cross-inventory-prompts"]
     },
     {
@@ -546,11 +546,10 @@
     {
       "id": "CV-BODY-07",
       "concept": "mucus, body fat, and flesh",
-      "status": "open",
+      "status": "implemented",
       "placement": "base",
-      "summary": "Mucus and fat now have precise substance nouns; flesh remains undecided as a tissue, food, or contrast with bone.",
-      "question": "Does flesh need one ordinary root, and what range keeps it from duplicating muscle, skin, fat, meat, or the body as a whole?",
-      "implementation": {"words": ["nuwesu", "lomeki"], "files": ["vocabulary/content/mucus.json", "vocabulary/content/fat.json"]},
+      "summary": "Mucus and fat keep their precise substance nouns. Flesh gathers the body's soft material into an ordinary whole without becoming one tissue or a food category.",
+      "implementation": {"words": ["nuwesu", "lomeki", "mashuri"], "files": ["vocabulary/content/mucus.json", "vocabulary/content/fat.json", "vocabulary/content/flesh.json"]},
       "batches": ["body-anatomy-and-bodily-condition", "recovered-cross-inventory-prompts"]
     },
     {

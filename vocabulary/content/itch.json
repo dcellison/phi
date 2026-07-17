@@ -1,0 +1,27 @@
+{
+  "word": "sikoru",
+  "gloss": "itch",
+  "ipa": "/si.ˈko̞.ru/",
+  "syllables": [
+    "si",
+    "ko",
+    "ru"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "itching",
+    "itchy sensation"
+  ],
+  "description": "An itch is a small, insistent skin sensation that invites scratching or rubbing. It may stay in one place or spread across an area. 'kipona' (pain) can accompany it, but the two sensations need not rise and fall together.",
+  "articulatory_notes": "Bring the tongue blade close to the alveolar ridge for unvoiced 's' and release the narrow airflow into high-front unrounded 'i'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed middle-height back rounded 'o'. Tap or briefly trill the tongue tip at the alveolar ridge, then finish with high-back rounded 'u'.",
+  "usage_notes": "'sikoru' often comes before 'phaelo' (feel). A 'mua' phrase locates the itch; its cause and the person's response take their own clauses.",
+  "examples": [
+    {
+      "phi": "mia mua pelio sikoru phaelo.",
+      "translation": "I feel an itch on my arm."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "a localised bodily sensation that prompts scratching or rubbing"
+  }
+}

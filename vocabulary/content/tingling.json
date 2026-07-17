@@ -1,0 +1,29 @@
+{
+  "word": "tiphori",
+  "gloss": "tingling",
+  "ipa": "/t̪i.ˈɸo̞.ri/",
+  "syllables": [
+    "ti",
+    "pho",
+    "ri"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "tingle",
+    "pins and needles",
+    "prickling sensation"
+  ],
+  "description": "'tiphori' is a field of small prickling or fizzing sensations in the body. It may pass when pressure lifts or continue alongside another bodily change. 'tiripe' (quiver) is small repeated motion; 'tiphori' is what the person feels.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into high-front unrounded 'i'. Bring the lips close without sealing them for unvoiced 'ph' and let air pass into stressed middle-height back rounded 'o'. Tap or briefly trill the tongue tip at the alveolar ridge, then finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The tongue touches at the teeth for 't', the lips narrow for 'ph', and the tongue returns for the final tap. Those light contacts move around the mouth like scattered prickling rather than one heavy pressure.",
+  "usage_notes": "'phaelo' (feel) takes 'tiphori' as its object, and a 'mua' phrase locates the affected place. A separate clause can add numbness, pain, pressure, or movement.",
+  "examples": [
+    {
+      "phi": "mia mua paloi tiphori phaelo.",
+      "translation": "I feel tingling in my foot."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "a dispersed prickling sensation felt in a body region"
+  }
+}

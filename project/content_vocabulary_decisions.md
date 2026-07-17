@@ -26,7 +26,7 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Pace, motion, and equilibrium](#pace-motion-and-equilibrium) | complete | closed | 0 |
 | [Color](#color) | complete | closed | 0 |
 | [Strength, deformation, and recovery](#strength-deformation-and-recovery) | complete | closed | 0 |
-| [Sensory and perceptual qualities](#sensory-and-perceptual-qualities) | complete | open | 2 |
+| [Sensory and perceptual qualities](#sensory-and-perceptual-qualities) | complete | closed | 2 |
 | [Aesthetic and formal qualities](#aesthetic-and-formal-qualities) | complete | open | 4 |
 | [Awareness and epistemic qualities](#awareness-and-epistemic-qualities) | complete | closed | 0 |
 | [Ethics, care, and candour](#ethics-care-and-candour) | complete | open | 2 |
@@ -52,18 +52,18 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Basic motion, endpoints, and staying](#basic-motion-endpoints-and-staying) | complete | closed | 0 |
 | [Manner, trajectory, and extended movement](#manner-trajectory-and-extended-movement) | complete | closed | 0 |
 | [Posture, rest, waiting, and residence](#posture-rest-waiting-and-residence) | complete | closed | 0 |
-| [Breath, intake, and expulsion](#breath-intake-and-expulsion) | complete | open | 3 |
+| [Breath, intake, and expulsion](#breath-intake-and-expulsion) | complete | closed | 3 |
 | [Contact, force, and placement](#contact-force-and-placement) | complete | open | 2 |
 | [Material change, making, and joining](#material-change-making-and-joining) | complete | closed | 3 |
-| [Change, continuity, repair, and renewal](#change-continuity-repair-and-renewal) | complete | open | 2 |
-| [Life, growth, cultivation, and flourishing](#life-growth-cultivation-and-flourishing) | complete | open | 4 |
+| [Change, continuity, repair, and renewal](#change-continuity-repair-and-renewal) | complete | closed | 2 |
+| [Life, growth, cultivation, and flourishing](#life-growth-cultivation-and-flourishing) | complete | closed | 4 |
 | [Care, affection, regard, and relational repair](#care-affection-regard-and-relational-repair) | complete | closed | 0 |
 | [Learning, practice, guidance, and sustained effort](#learning-practice-guidance-and-sustained-effort) | complete | closed | 2 |
 | [Measurement, comparison, meaning, and record](#measurement-comparison-meaning-and-record) | complete | open | 2 |
 | [Ritual, play, and expressive response](#ritual-play-and-expressive-response) | complete | closed | 2 |
 | [Relation, boundaries, and remaining practical acts](#relation-boundaries-and-remaining-practical-acts) | complete | open | 1 |
 | [Personhood, generations, kinship, and social belonging](#personhood-generations-kinship-and-social-belonging) | complete | open | 1 |
-| [Body, anatomy, and bodily condition](#body-anatomy-and-bodily-condition) | complete | open | 10 |
+| [Body, anatomy, and bodily condition](#body-anatomy-and-bodily-condition) | complete | closed | 10 |
 | [Recovered cross-inventory prompts](#recovered-cross-inventory-prompts) | not-started | open | 23 |
 
 ## Core material qualities
@@ -102,7 +102,7 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
 | `CV-TASTE-01` | scientific basic-taste categories | Deferred | culinary or Medical use, with exact taxonomies source-bound | Revisit when connected culinary or medical writing repeatedly needs a stable taste distinction beyond source description. Ordinary flavours can use source nouns and response clauses without pretending that one scientific inventory is universal. |
-| `CV-SENS-01` | itch, numbness, tingling, and dizziness | Open | base or Medical | Which sensations need base nouns for immediate self-report, and which are best learned through Medical? These are ordinary felt states, not diagnoses, and broad pain or sickness does not describe them accurately. |
+| `CV-SENS-01` | itch, numbness, tingling, and dizziness | Implemented | base | Words: `sikoru`, `numaro`, `tiphori`, `wiloru`. A person can name four familiar sensations before anyone adds a broader bodily condition or clinical conclusion. |
 
 ## Aesthetic and formal qualities
 
@@ -246,8 +246,8 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
 | `CV-NAUSEA-01` | nausea | Implemented | base | Words: `muthari`. The noun names a felt possibility of vomiting rather than sickness as a whole or the event of vomiting. |
-| `CV-BREATH-01` | sneezing, hiccups, and belching | Deferred | base, Household, or Medical | Revisit when a care, household, comic, or first-person body scenario needs one of these events directly. These are distinct everyday bodily events, but the current corpus has not yet decided whether each needs a root. |
-| `CV-INTAKE-01` | lick and suck | Open | base | Do both actions deserve roots for food, infancy, care, animals, and intimacy, or can one remain a transparent manner clause? Eating, drinking, touching, and drawing inward do not fully describe these common mouth actions. |
+| `CV-BREATH-01` | sneezing, hiccups, and belching | Implemented | base | Words: `nishoku`, `ketumi`, `rumeka`. Three ordinary verbs distinguish a sneeze's nasal burst, a hiccup's caught breath, and gas released in a belch. |
+| `CV-INTAKE-01` | lick and suck | Implemented | base | Words: `lisaku`, `pumari`. One verb follows the tongue across a surface; the other follows inward pressure made by the mouth. |
 
 ## Contact, force, and placement
 
@@ -269,7 +269,7 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
 | `CV-DISSOLVE-01` | dissolve through a medium | Implemented | base | See the complete decision under [Material change, making, and joining](#material-change-making-and-joining). |
-| `CV-SWELL-01` | swell and shrink | Open | base or a material and bodily module | Should Phi coin a general pair for expansion and contraction, or use result-state clauses selected by the material or body involved? Growth, size change, inflammation, drying, and compression cover causes or contexts but not the neutral dimensional changes themselves. |
+| `CV-SWELL-01` | swell and shrink | Implemented | base | Words: `murase`, `kesiri`. Two deliberately distant forms cover opposite changes in bodily or material extent, with cause and diagnosis left to the surrounding account. |
 
 ## Life, growth, cultivation, and flourishing
 
@@ -278,7 +278,7 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | `CV-WITHER-01` | wither or wilt | Implemented | base | Words: `kureno`. The verb names visible loss of turgor before dryness or death has necessarily occurred. |
 | `CV-REPRO-01` | biological reproduction and deliberate breeding | Deferred | base, Ecological, or a reproductive-health vocabulary set | Revisit when ecological, husbandry, reproductive-health, or kinship scenarios need these relations in connected use. Fertility names capacity and birth names an event; reproduction and selective breeding introduce other relations. |
 | `CV-CULT-01` | pollination, pruning, weeding, and fertilising | Deferred | Ecological, Household, or Work | Revisit when a garden, farm, orchard, or ecological-care scenario uses the acts often enough to decide their learning value. Existing verbs can describe what moves, is cut, is removed, or is supplied, while repeated specialist use may favour direct words. |
-| `CV-SWELL-01` | swell and shrink | Open | base or a material and bodily module | See the complete decision under [Change, continuity, repair, and renewal](#change-continuity-repair-and-renewal). |
+| `CV-SWELL-01` | swell and shrink | Implemented | base | See the complete decision under [Change, continuity, repair, and renewal](#change-continuity-repair-and-renewal). |
 
 ## Care, affection, regard, and relational repair
 
@@ -327,10 +327,10 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | `CV-BODY-04` | lip, jaw, cheek, and forehead | Implemented | base | Words: `phimei`, `kathoru`, `meshoi`, `komeri`. Four common landmarks now support speech, eating, expression, touch, pain, and care without fresh descriptive puzzles. |
 | `CV-BODY-05` | waist, pelvis, and buttocks | Implemented | base | Words: `norapi`, `kanomi`, `peshuma`. The lower torso now has ordinary regional nouns for clothing, posture, gait, pain, and non-contact care. |
 | `CV-BODY-06` | saliva, urine, and faeces | Implemented | base | Words: `suhari`, `tomewu`, `mokathi`. Daily care, sanitation, childhood, and illness can now name these substances without euphemism or a medical module. |
-| `CV-BODY-07` | mucus, body fat, and flesh | Open | base | Does flesh need one ordinary root, and what range keeps it from duplicating muscle, skin, fat, meat, or the body as a whole? Mucus and fat now have precise substance nouns; flesh remains undecided as a tissue, food, or contrast with bone. |
+| `CV-BODY-07` | mucus, body fat, and flesh | Implemented | base | Words: `nuwesu`, `lomeki`, `mashuri`. Mucus and fat keep their precise substance nouns. Flesh gathers the body's soft material into an ordinary whole without becoming one tissue or a food category. |
 | `CV-BODY-08` | sexual and reproductive anatomy | Deferred | base and Medical, decided by ordinary autonomy and care needs | Revisit when a dedicated scenario set tests self-description, consent, sexual health, reproduction, pain, and care across varied bodies. This field must name bodies without treating one anatomy as the default or requiring a diagnosis before a body part can be spoken. |
 | `CV-BODY-09` | named bones, vessels, nerves, glands, and exact anatomical classifications | Deferred | Medical plus exact biomedical source material | Revisit when a care, study, or public-health scenario repeatedly needs one structure beyond ordinary body-region language. Base vocabulary need not reproduce an atlas, but recurring care or study may reveal specialist words worth learning. |
-| `CV-SENS-01` | itch, numbness, tingling, and dizziness | Open | base or Medical | See the complete decision under [Sensory and perceptual qualities](#sensory-and-perceptual-qualities). |
+| `CV-SENS-01` | itch, numbness, tingling, and dizziness | Implemented | base | See the complete decision under [Sensory and perceptual qualities](#sensory-and-perceptual-qualities). |
 
 ## Recovered cross-inventory prompts
 
@@ -338,18 +338,18 @@ No lexical question from this batch remains outside an explicit coverage decisio
 |---|---|---|---|---|
 | `CV-MAT-02` | absorption, permeability, and waterproofness | Open | base, Household, Ecological, or Work | See the complete decision under [Core material qualities](#core-material-qualities). |
 | `CV-MEAS-02` | area, volume, mass, and weight as neutral magnitudes | Open | base or Systems | See the complete decision under [Size, extent, and distance](#size-extent-and-distance). |
-| `CV-SENS-01` | itch, numbness, tingling, and dizziness | Open | base or Medical | See the complete decision under [Sensory and perceptual qualities](#sensory-and-perceptual-qualities). |
+| `CV-SENS-01` | itch, numbness, tingling, and dizziness | Implemented | base | See the complete decision under [Sensory and perceptual qualities](#sensory-and-perceptual-qualities). |
 | `CV-AEST-03` | style and characteristic aesthetic form | Open | base, Work, or art vocabulary | See the complete decision under [Aesthetic and formal qualities](#aesthetic-and-formal-qualities). |
 | `CV-SHAPE-01` | straight and round as ordinary shape qualities | Open | base | See the complete decision under [Aesthetic and formal qualities](#aesthetic-and-formal-qualities). |
 | `CV-CONFLICT-01` | conflict, violence, fighting, attack, defence, hunting, and killing | Open | base and a possible Conflict, Mediation, and Accountability module | See the complete decision under [Ethics, care, and candour](#ethics-care-and-candour). |
 | `CV-AFFECT-02` | guilt, anxiety, disgust, excitement, relief, frustration, and boredom | Open | base or later affective vocabulary | See the complete decision under [Core emotion inventory](#core-emotion-inventory). |
 | `CV-CLEAN-01` | dirty, contaminated, spoiled, and rotten | Open | base, Household, Ecological, or Medical | See the complete decision under [Cultivation, abundance, and wildness](#cultivation-abundance-and-wildness). |
 | `CV-LOSE-01` | lose and misplace a thing | Open | base | See the complete decision under [Knowledge, understanding, belief, and memory](#knowledge-understanding-belief-and-memory). |
-| `CV-INTAKE-01` | lick and suck | Open | base | See the complete decision under [Breath, intake, and expulsion](#breath-intake-and-expulsion). |
+| `CV-INTAKE-01` | lick and suck | Implemented | base | See the complete decision under [Breath, intake, and expulsion](#breath-intake-and-expulsion). |
 | `CV-AIM-01` | aim and target | Open | base or Work | See the complete decision under [Contact, force, and placement](#contact-force-and-placement). |
-| `CV-SWELL-01` | swell and shrink | Open | base or a material and bodily module | See the complete decision under [Change, continuity, repair, and renewal](#change-continuity-repair-and-renewal). |
+| `CV-SWELL-01` | swell and shrink | Implemented | base | See the complete decision under [Change, continuity, repair, and renewal](#change-continuity-repair-and-renewal). |
 | `CV-COVER-01` | cover and uncover | Open | base or Household | See the complete decision under [Relation, boundaries, and remaining practical acts](#relation-boundaries-and-remaining-practical-acts). |
-| `CV-BODY-07` | mucus, body fat, and flesh | Open | base | See the complete decision under [Body, anatomy, and bodily condition](#body-anatomy-and-bodily-condition). |
+| `CV-BODY-07` | mucus, body fat, and flesh | Implemented | base | See the complete decision under [Body, anatomy, and bodily condition](#body-anatomy-and-bodily-condition). |
 | `CV-ANIMAL-01` | bee, wolf, deer, bear, frog, spider, cow, and goat | Open | base or Ecological | See the complete decision under [Personhood, generations, kinship, and social belonging](#personhood-generations-kinship-and-social-belonging). |
 | `CV-WRITE-01` | page, ink, letter, and message | Open | base or a writing-practice vocabulary set | See the complete decision under [Measurement, comparison, meaning, and record](#measurement-comparison-meaning-and-record). |
 | `CV-FOOD-01` | rice and tea | Open | base or Household | See the complete decision under [Cultivation, abundance, and wildness](#cultivation-abundance-and-wildness). |

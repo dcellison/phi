@@ -1,0 +1,27 @@
+{
+  "word": "numaro",
+  "gloss": "numbness",
+  "ipa": "/n̪u.ˈmä.ro̞/",
+  "syllables": [
+    "nu",
+    "ma",
+    "ro"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "numb",
+    "loss of sensation"
+  ],
+  "description": "'numaro' is reduced or absent ordinary sensation in a body part. A numb hand may also feel awkward or heavy, though weakness and loss of movement are separate observations. It may follow cold or pressure; an illness may also account for it.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and release into high-back rounded 'u'. Close the lips for voiced 'm', keep the resonance nasal, and open into stressed central 'a'. Tap or briefly trill the tongue tip at the alveolar ridge and finish with middle-height back rounded 'o'.",
+  "usage_notes": "A speaker feels 'numaro' with 'phaelo' and locates it through 'mua'. Negated 'morae' (sense) can report one cue that goes undetected; 'numaro' covers the wider bodily state.",
+  "examples": [
+    {
+      "phi": "mia mua manuwe numaro phaelo.",
+      "translation": "I feel numbness in my hand."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "reduced or absent ordinary sensation in a body region"
+  }
+}

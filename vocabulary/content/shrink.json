@@ -1,0 +1,30 @@
+{
+  "word": "kesiri",
+  "gloss": "shrink",
+  "ipa": "/ke̞.ˈsi.ri/",
+  "syllables": [
+    "ke",
+    "si",
+    "ri"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "contract",
+    "become smaller",
+    "reduce in size"
+  ],
+  "description": "A body or material 'kesiri' when its overall size or volume becomes smaller. Cloth may shrink after washing, and a swelling may shrink as fluid leaves. 'peki' (squeeze) concerns applied inward pressure; shrinking is the dimensional result whether or not pressure caused it.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into middle-height front unrounded 'e'. Bring the tongue blade close to the alveolar ridge for unvoiced 's' and continue into stressed high-front unrounded 'i'. Tap or briefly trill the tongue tip at the alveolar ridge and finish with another high-front unrounded 'i'.",
+  "sound_symbolism": "The opening velar stop gives way to two high-front 'i' vowels and a quick final tap. The mouth stays comparatively narrow through the stressed and final syllables, a compact contour beside the broader middle of 'murase' (swell).",
+  "usage_notes": "'kesiri' usually appears without an object. Causative 'ka' introduces what makes something shrink, and the event noun is shrinkage. Drying or cooling can be stated separately, as can any other cause.",
+  "examples": [
+    {
+      "phi": "wetha kesiri.",
+      "translation": "The cloth shrinks."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "decrease in bodily or material extent",
+    "quantity": "an overall size or volume becoming smaller"
+  }
+}

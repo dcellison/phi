@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1207 words.*
+*1219 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -126,10 +126,12 @@
 | `keruko` | sturdy | /ke̞.ˈru.ko̞/ | adjective |
 | `kesho` | middle | /ˈke̞.ʃo̞/ | noun |
 | `keshoa` | reptile | /ke̞.ˈʃo̞.ä/ | noun |
+| `kesiri` | shrink | /ke̞.ˈsi.ri/ | verb |
 | `kesu` | determined | /ˈke̞.su/ | adjective |
 | `kethira` | infer | /ke̞.ˈθi.rä/ | verb |
 | `kethua` | hard | /ke̞.ˈθu.ä/ | adjective |
 | `ketora` | control | /ke̞.ˈt̪o̞.rä/ | verb |
+| `ketumi` | hiccup | /ke̞.ˈt̪u.mi/ | verb |
 | `ki` | PFV | /ˈki/ | particle |
 | `kia` | hello | /ˈki.ä/ | interjection |
 | `kima` | scribe | /ˈki.mä/ | noun |
@@ -240,6 +242,7 @@
 | `lirowa` | leaf | /li.ˈro̞.wä/ | noun |
 | `liru` | fabric | /ˈli.ru/ | noun |
 | `lirupa` | bag | /li.ˈru.pä/ | noun |
+| `lisaku` | lick | /li.ˈsä.ku/ | verb |
 | `litero` | ecosystem | /li.ˈt̪e̞.ro̞/ | noun |
 | `liweso` | ecological community | /li.ˈwe̞.so̞/ | noun |
 | `lo` | PL | /ˈlo̞/ | particle |
@@ -312,6 +315,7 @@
 | `manawi` | compromise | /mä.ˈn̪ä.wi/ | verb |
 | `manolu` | stay | /mä.ˈn̪o̞.lu/ | verb |
 | `manuwe` | hand | /mä.ˈn̪u.we̞/ | noun |
+| `mashuri` | flesh | /mä.ˈʃu.ri/ | noun |
 | `masue` | measure | /mä.ˈsu.e̞/ | verb |
 | `masuro` | calibrate | /mä.ˈsu.ro̞/ | verb |
 | `mawha` | NONE | /ˈmä.ʍä/ | quantifier |
@@ -414,6 +418,7 @@
 | `muphia` | mud | /mu.ˈɸi.ä/ | noun |
 | `muraki` | harvest | /mu.ˈrä.ki/ | verb |
 | `muralo` | material | /mu.ˈrä.lo̞/ | noun |
+| `murase` | swell | /mu.ˈrä.se̞/ | verb |
 | `mureli` | brown | /mu.ˈre̞.li/ | adjective |
 | `mureo` | stable | /mu.ˈre̞.o̞/ | adjective |
 | `murethi` | impairment | /mu.ˈre̞.θi/ | noun |
@@ -461,6 +466,7 @@
 | `nira` | cord | /ˈn̪i.rä/ | noun |
 | `nireku` | insect | /n̪i.ˈre̞.ku/ | noun |
 | `niro` | web | /ˈn̪i.ro̞/ | noun |
+| `nishoku` | sneeze | /n̪i.ˈʃo̞.ku/ | verb |
 | `nitho` | north | /ˈn̪i.θo̞/ | noun |
 | `no` | IMP | /ˈn̪o̞/ | particle |
 | `noa` | position | /ˈn̪o̞.ä/ | noun |
@@ -516,6 +522,7 @@
 | `nulo` | deep | /ˈn̪u.lo̞/ | adjective |
 | `nuloe` | content | /n̪u.ˈlo̞.e̞/ | adjective |
 | `nulomi` | guts | /n̪u.ˈlo̞.mi/ | noun |
+| `numaro` | numbness | /n̪u.ˈmä.ro̞/ | noun |
 | `numea` | nestle | /n̪u.ˈme̞.ä/ | verb |
 | `numelo` | nurture | /n̪u.ˈme̞.lo̞/ | verb |
 | `numike` | negotiate | /n̪u.ˈmi.ke̞/ | verb |
@@ -690,6 +697,7 @@
 | `pukeri` | damage | /pu.ˈke̞.ri/ | verb |
 | `puko` | bitter | /ˈpu.ko̞/ | adjective |
 | `pula` | wish | /ˈpu.lä/ | verb |
+| `pumari` | suck | /pu.ˈmä.ri/ | verb |
 | `punoa` | society | /pu.ˈn̪o̞.ä/ | noun |
 | `punoki` | institution | /pu.ˈn̪o̞.ki/ | noun |
 | `puro` | strength | /ˈpu.ro̞/ | noun |
@@ -749,6 +757,7 @@
 | `rulami` | adventure | /ru.ˈlä.mi/ | noun |
 | `rulo` | red | /ˈru.lo̞/ | adjective |
 | `ruloi` | flourish | /ru.ˈlo̞.i/ | verb |
+| `rumeka` | belch | /ru.ˈme̞.kä/ | verb |
 | `runae` | resin | /ru.ˈn̪ä.e̞/ | noun |
 | `runaki` | wayfind | /ru.ˈn̪ä.ki/ | verb |
 | `ruweli` | access | /ru.ˈwe̞.li/ | verb |
@@ -861,6 +870,7 @@
 | `si` | IPFV | /ˈsi/ | particle |
 | `sihewa` | breeze | /si.ˈhe̞.wä/ | noun |
 | `sikanu` | certify | /si.ˈkä.n̪u/ | verb |
+| `sikoru` | itch | /si.ˈko̞.ru/ | noun |
 | `sila` | community | /ˈsi.lä/ | noun |
 | `silawo` | village | /si.ˈlä.wo̞/ | noun |
 | `sileo` | silk | /si.ˈle̞.o̞/ | noun |
@@ -1064,6 +1074,7 @@
 | `ti` | REP | /ˈt̪i/ | particle |
 | `tinako` | rigid | /t̪i.ˈn̪ä.ko̞/ | adjective |
 | `tinoa` | dye | /t̪i.ˈn̪o̞.ä/ | noun |
+| `tiphori` | tingling | /t̪i.ˈɸo̞.ri/ | noun |
 | `tipika` | fingernail | /t̪i.ˈpi.kä/ | noun |
 | `tiripe` | quiver | /t̪i.ˈri.pe̞/ | verb |
 | `tiroe` | instant | /t̪i.ˈro̞.e̞/ | noun |
@@ -1190,6 +1201,7 @@
 | `wilao` | long-for | /wi.ˈlä.o̞/ | verb |
 | `wile` | play | /ˈwi.le̞/ | verb |
 | `wilemo` | toy | /wi.ˈle̞.mo̞/ | noun |
+| `wiloru` | dizziness | /wi.ˈlo̞.ru/ | noun |
 | `winora` | plan | /wi.ˈn̪o̞.rä/ | verb |
 | `wipha` | restless | /ˈwi.ɸä/ | adjective |
 | `wira` | window | /ˈwi.rä/ | noun |
