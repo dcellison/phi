@@ -1,0 +1,22 @@
+{
+  "word": "norapi",
+  "gloss": "waist",
+  "ipa": "/n̪o̞.ˈrä.pi/",
+  "syllables": [
+    "no",
+    "ra",
+    "pi"
+  ],
+  "pos": "noun",
+  "description": "Around the middle of the trunk, 'norapi' is the region between the lower ribs and the hips. Clothing, bending, touch, and pain often need this ordinary landmark. No particular body shape or narrowness is built into the word.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and round the lips around middle-height back 'o'. Tap or briefly trill at the alveolar ridge and open into stressed central 'a'. Close the lips for unvoiced 'p' and finish with high-front unrounded 'i'.",
+  "examples": [
+    {
+      "phi": "wethalu mua norapi nai.",
+      "translation": "The garment is at the waist."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "the middle trunk region between the lower ribs and hips"
+  }
+}

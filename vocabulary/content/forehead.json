@@ -1,0 +1,22 @@
+{
+  "word": "komeri",
+  "gloss": "forehead",
+  "ipa": "/ko̞.ˈme̞.ri/",
+  "syllables": [
+    "ko",
+    "me",
+    "ri"
+  ],
+  "pos": "noun",
+  "description": "The 'komeri' is the front of the head above the eyes and below the usual hairline. It locates heat, pain, touch, or expression more closely than 'koma' (head) alone. The landmark still works when a person's hairline is absent or elsewhere.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into middle-height back rounded 'o'. Close the lips for voiced 'm', carry the sound through the nose, and move into stressed middle-height front unrounded 'e'. Tap or briefly trill the tongue tip at the alveolar ridge and finish with high-front unrounded 'i'.",
+  "examples": [
+    {
+      "phi": "mia komeri sukaro nai.",
+      "translation": "My forehead is hot."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "the front region of the head above the eyes"
+  }
+}

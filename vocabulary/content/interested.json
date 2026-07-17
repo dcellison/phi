@@ -1,0 +1,28 @@
+{
+  "word": "mewali",
+  "gloss": "interested",
+  "ipa": "/me̞.ˈwä.li/",
+  "syllables": [
+    "me",
+    "wa",
+    "li"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "engaged",
+    "interest"
+  ],
+  "description": "A person is 'mewali' when a subject or activity holds their interest and they want to remain engaged with it. 'kuelo' (curious) leans towards what is unknown, while interest may continue after the questions are familiar. 'theonu' (attend) describes where attention is directed, whether or not the subject is welcome.",
+  "articulatory_notes": "Close the lips for voiced 'm', let the sound pass through the nose, and release into middle-height front 'e'. Round the lips for voiced 'w', then open into stressed central 'a'. Touch the tongue tip to the alveolar ridge for voiced 'l' and finish with high-front unrounded 'i'.",
+  "usage_notes": "The quality-noun rule supplies interest. The subject or activity can be named in the surrounding clause, and degree can distinguish a passing interest from sustained engagement.",
+  "examples": [
+    {
+      "phi": "lopia mewali nai.",
+      "translation": "The child is interested."
+    }
+  ],
+  "semantic_domains": {
+    "cognition": "continued mental engagement with a subject or activity",
+    "emotion": "the felt inclination to stay with what has caught one's interest"
+  }
+}

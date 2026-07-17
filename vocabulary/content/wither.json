@@ -1,0 +1,31 @@
+{
+  "word": "kureno",
+  "gloss": "wither",
+  "ipa": "/ku.ˈre̞.n̪o̞/",
+  "syllables": [
+    "ku",
+    "re",
+    "no"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "wilt",
+    "lose turgor"
+  ],
+  "description": "A leaf or flower 'kureno' when it loses turgor, droops, and begins to decline. Withering can come before dryness or death and may still be reversed. 'kurathi' (dry) names moisture condition, while 'lumeo' (die) names the end of life.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-back rounded 'u'. Tap or briefly trill the tongue tip at the alveolar ridge, then move into stressed middle-height front unrounded 'e'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n' and finish through the nose on middle-height back rounded 'o'.",
+  "usage_notes": "The plant or plant part is the subject. The surrounding clause can supply a cause such as drought or disease.",
+  "examples": [
+    {
+      "phi": "peloru kureno.",
+      "translation": "The flower withers."
+    }
+  ],
+  "pillars": {
+    "solarpunk-values": "Withering gives gardens and crops an early visible condition that can call for water or care before death is assumed."
+  },
+  "semantic_domains": {
+    "nature": "visible decline of a plant or plant part through loss of turgor",
+    "physical": "drooping and loss of firmness that may precede drying or death"
+  }
+}

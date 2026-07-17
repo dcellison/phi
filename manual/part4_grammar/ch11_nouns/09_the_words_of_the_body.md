@@ -1,6 +1,6 @@
 # The words of the body
 
-A child can point to a knee. A caller describing pain cannot, so Phi needs the nouns. The base vocabulary provides a practical body map: broad regions, visible parts, and several common organs. It is not an anatomy atlas, and some finer landmarks still need a plain description or an exact source term beside the Phi account.
+A child can point to a knee. A caller describing pain cannot, so Phi needs the nouns. The base vocabulary provides a practical body map: broad regions, visible parts, common organs, and the substances that daily care cannot sensibly leave to mime. It is still not an anatomy atlas. When exact anatomy matters, its source term stays beside the Phi account.
 
 ## From crown to sole
 
@@ -9,15 +9,21 @@ The head:
 | Phi | Gloss |
 |-----|-------|
 | *koma* | head |
+| *meraku* | brain |
+| *komeri* | forehead |
 | *menoa* | face |
 | *mirae* | eye |
 | *shonui* | ear |
 | *nophae* | nose |
+| *meshoi* | cheek |
 | *phulae* | mouth |
+| *phimei* | lip |
+| *kathoru* | jaw |
 | *lathoe* | tongue |
 | *kulai* | tooth |
 | *whila* | hair |
 | *nolue* | neck |
+| *shapelu* | throat |
 
 The trunk and limbs:
 
@@ -30,11 +36,16 @@ The trunk and limbs:
 | *tipika* | fingernail |
 | *pharoe* | chest |
 | *mokura* | belly |
+| *norapi* | waist |
 | *rokai* | back |
 | *rokili* | spine |
+| *kanomi* | pelvis |
+| *lushe* | hip |
+| *peshuma* | buttocks |
 | *tolae* | leg |
 | *kunoa* | knee |
 | *paloi* | foot |
+| *kiparu* | joint |
 
 The living interior, and the whole:
 
@@ -51,18 +62,25 @@ The living interior, and the whole:
 | *hisae* | skin |
 | *weloni* | body |
 
-Four more nouns describe conditions or substances that speakers regularly locate in a body:
+These nouns describe conditions, tissues, or fluids that speakers regularly locate in a body:
 
 | Phi | Gloss |
 |-----|-------|
 | *kipona* | pain |
 | *siwe* | sweat |
+| *suhari* | saliva |
+| *tomewu* | urine |
+| *mokathi* | faeces |
+| *nuwesu* | mucus |
+| *lomeki* | fat |
 | *sunai* | health |
 | *puro* | strength |
 
-The registry carries *whalo thumai* (the big finger, the thumb), *mokura kesho* (belly-middle, the navel), *nolika whila* (animal hair, fur), and *mirae phialu* (eye-water, tears). A breath is *whunei*'s event noun, a cut is *kati*'s, and possession is bare juxtaposition: *lopia weloni* (the child's body), *mia korua* (my heart).
+The registry carries *whalo thumai* (big finger, thumb), *mokura kesho* (belly-middle, navel), *paloi thumai* (foot-finger, toe), *mirae hisae* (eye-skin, eyelid), and *nophae phae* (nose-opening, nostril). Once *kiparu* supplies the joint, three more landmarks settle into place: *pelio kesho kiparu* (arm-middle joint, elbow), *manuwe kiparu* (hand-joint, wrist), and *paloi kiparu* (foot-joint, ankle). The pattern is useful, and the wrist and ankle have the courtesy to remember it together.
 
-The map stops before specialist anatomy and does not yet give every ordinary landmark its own settled expression. A brain is not simply *koma* (head), and the internal throat is not *nolue* (neck). The Medical module adds words for care and clinical distinctions rather than pretending those two regions are the same; when exact anatomy matters, its source term remains beside the Phi description.
+The registry also keeps *nolika whila* (animal hair, fur) and *mirae phialu* (eye-water, tears). A breath is *whunei*'s event noun, a cut is *kati*'s, and possession is bare juxtaposition: *lopia weloni* (the child's body), *mia korua* (my heart).
+
+The map stops before named vessels, nerves, glands, and the finer structures of each organ. The Medical module adds words for care and clinical relations; exact biomedical nomenclature keeps its source identity. Sexual and reproductive anatomy has a separate scenario-led vocabulary effort because it must work for self-description, consent, health, and varied bodies rather than treating one body as the unnamed standard.
 
 ## States are worn
 

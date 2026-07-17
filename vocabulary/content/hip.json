@@ -1,0 +1,21 @@
+{
+  "word": "lushe",
+  "gloss": "hip",
+  "ipa": "/ˈlu.ʃe̞/",
+  "syllables": [
+    "lu",
+    "she"
+  ],
+  "pos": "noun",
+  "description": "Where the upper leg meets the side of the pelvis, 'lushe' is both the prominent outer region and its underlying joint in ordinary speech. 'kanomi' (pelvis) names the wider bony basin, while 'peshuma' (buttocks) names the fleshy region behind it. Exact care can narrow the hip to a named structure when necessary.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and raise the back of the tongue into stressed high-back rounded 'u'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh', send air through the narrow central groove, and finish with middle-height front unrounded 'e'.",
+  "examples": [
+    {
+      "phi": "mia mua lushe kipona phaelo.",
+      "translation": "I feel pain in my hip."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "the outer region and joint where the upper leg meets the pelvis"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "word": "muthari",
+  "gloss": "nausea",
+  "ipa": "/mu.ˈθä.ri/",
+  "syllables": [
+    "mu",
+    "tha",
+    "ri"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "queasiness",
+    "feel sick"
+  ],
+  "description": "The unsettled bodily sensation that vomiting may occur is 'muthari'. It can be mild or overwhelming and may pass without vomiting. 'mokela' (sick) covers a broader condition, while 'mupelo' (vomit) is the event itself.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the sound through the nose, and open into high-back rounded 'u'. Extend the tongue tip slightly between the teeth for unvoiced 'th', then withdraw into stressed central 'a'. Tap or briefly trill the tongue tip at the alveolar ridge and finish with high-front unrounded 'i'.",
+  "usage_notes": "As a felt sensation, 'muthari' commonly appears as the object of 'phaelo' (feel). A cause, duration, or accompanying symptom can follow in its own clause.",
+  "examples": [
+    {
+      "phi": "mia muthari phaelo.",
+      "translation": "I feel nausea."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "A direct bodily word lets someone ask for care before a diagnosis or visible event supplies proof."
+  },
+  "semantic_domains": {
+    "physical": "a bodily sensation associated with the possibility of vomiting"
+  }
+}

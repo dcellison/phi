@@ -40,6 +40,16 @@ python3 scripts/test_vocabulary_schema.py
 python3 scripts/test_name_forms.py
 ```
 
+## content_vocabulary_decisions.py
+
+Validates the canonical content-vocabulary decision register in `project/content_vocabulary_decisions.json` and generates its readable Markdown view. The check requires every semantic batch and every carried-forward lexical question to have an explicit state, links related batches and questions in both directions, prevents batch state from disagreeing with unresolved work, verifies implemented words and registered compounds, and rejects detailed review rows in the coverage ledger when they lack a decision ID.
+
+```bash
+python3 scripts/content_vocabulary_decisions.py --write
+python3 scripts/content_vocabulary_decisions.py --check
+python3 scripts/test_content_vocabulary_decisions.py
+```
+
 ## vocabulary_prose_coverage.py
 
 Writes the committed migration report at `documents/validation/vocabulary_prose_coverage.json`. Each entry is classified as legacy, partial, dual, or target according to its prose fields. The main validator compares the report with the live lexicon and fails when a vocabulary edit leaves it stale.

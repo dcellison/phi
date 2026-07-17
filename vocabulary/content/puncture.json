@@ -1,0 +1,29 @@
+{
+  "word": "tisharu",
+  "gloss": "puncture",
+  "ipa": "/t̪i.ˈʃä.ru/",
+  "syllables": [
+    "ti",
+    "sha",
+    "ru"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "pierce",
+    "make a hole"
+  ],
+  "description": "A needle, thorn, drill, or other point 'tisharu' material when it enters and makes a hole. 'kati' (cut) divides with an edge, while 'muholi' (dig) removes material to form a hollow. The purpose and the size of the opening come from the surrounding words.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into high-front unrounded 'i'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and open into stressed central 'a'. Tap or briefly trill the tongue tip at the alveolar ridge and finish with high-back rounded 'u'.",
+  "usage_notes": "The point or tool is the subject and the pierced material is the object. Instrumental 'roe' can instead name the tool when a person or other agent is the subject.",
+  "examples": [
+    {
+      "phi": "tisu wetha tisharu.",
+      "translation": "The needle punctures the cloth."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "making an opening by driving a point into material",
+    "creation": "point-made openings used in sewing, drilling, and craft",
+    "physical": "penetration that leaves a hole"
+  }
+}

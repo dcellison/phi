@@ -1,0 +1,23 @@
+{
+  "word": "meraku",
+  "gloss": "brain",
+  "ipa": "/me̞.ˈrä.ku/",
+  "syllables": [
+    "me",
+    "ra",
+    "ku"
+  ],
+  "pos": "noun",
+  "description": "Inside the head, 'meraku' is the organ that receives nerve signals and coordinates the body. Memory, thought, and perception involve it, but they keep their own words. 'koma' (head) covers the surrounding region, so a headache need not make a claim about the brain itself.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the sound through the nose, and release into middle-height front unrounded 'e'. Tap or briefly trill the tongue tip at the alveolar ridge, then open into stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and finish with high-back rounded 'u'.",
+  "examples": [
+    {
+      "phi": "meraku mua koma nai.",
+      "translation": "The brain is in the head."
+    }
+  ],
+  "semantic_domains": {
+    "cognition": "the bodily organ involved in memory, thought, and perception",
+    "physical": "the organ of the nervous system within the head"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "word": "phimei",
+  "gloss": "lip",
+  "ipa": "/ɸi.ˈme̞.i/",
+  "syllables": [
+    "phi",
+    "me",
+    "i"
+  ],
+  "pos": "noun",
+  "description": "At the edge of the mouth, 'phimei' is one of the two soft folds used to close the mouth, shape speech, eat, and show expression. Context or a numeral can distinguish one lip from the pair. 'phulae' (mouth) covers the opening and cavity rather than its rim.",
+  "articulatory_notes": "Bring the lips close without sealing them for unvoiced 'ph' and let air pass into high-front unrounded 'i'. Close the lips for voiced 'm', carry the sound through the nose, and release into stressed middle-height front unrounded 'e'. Keep final high-front 'i' in its own syllable across the hiatus.",
+  "examples": [
+    {
+      "phi": "mia phimei kurathi nai.",
+      "translation": "My lips are dry."
+    }
+  ],
+  "semantic_domains": {
+    "communication": "a movable part of the mouth used in shaping speech",
+    "physical": "one of the soft folds at the edge of the mouth"
+  }
+}

@@ -33,6 +33,12 @@ This registry is machine-checked and machine-published: `python3 scripts/validat
 |---|---|---|---|
 | `whalo thumai` | big finger | thumb | The thumb is exactly what the compound says; a coined label would hide the transparency. |
 | `mokura kesho` | belly-middle | navel | Anatomy by coordinates — the composition is the definition. |
+| `paloi thumai` | foot-finger | toe | A toe is the foot's digit. The familiar body pattern makes the compound immediate once `thumai` is known. |
+| `mirae hisae` | eye-skin | eyelid | The movable skin that covers the eye needs no hidden anatomical label in ordinary speech. |
+| `nophae phae` | nose-opening | nostril | The event noun of `phae` names the opening itself, and `nophae` says exactly where it is. |
+| `pelio kesho kiparu` | arm-middle joint | elbow | The arm's middle joint is a stable landmark even when its exact anatomical structures are left to medical terminology. |
+| `manuwe kiparu` | hand-joint | wrist | The joint adjoining the hand is easy to locate and keeps the general body word visible. |
+| `paloi kiparu` | foot-joint | ankle | The joint adjoining the foot follows the same pattern as the wrist, so neither compound has to be memorised alone. |
 | `nolika whila` | animal hair | fur | `whila` (hair) generalized by its wearer; no new word needed. |
 | `mirae phialu` | eye-water | tears | The oldest kenning in human speech, and the truest; pairs with the coined verb `nuhewa` (weep). |
 

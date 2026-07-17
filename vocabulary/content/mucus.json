@@ -1,0 +1,26 @@
+{
+  "word": "nuwesu",
+  "gloss": "mucus",
+  "ipa": "/n̪u.ˈwe̞.su/",
+  "syllables": [
+    "nu",
+    "we",
+    "su"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "nasal mucus",
+    "phlegm"
+  ],
+  "description": "The slippery protective fluid made by moist inner surfaces of the body is 'nuwesu'. It is familiar in the nose and throat but occurs elsewhere too. A sentence can add its colour or thickness and what caused it; the noun simply identifies the fluid.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and release into high-back rounded 'u'. Round the lips and raise the back of the tongue for voiced 'w', then move into stressed middle-height front unrounded 'e'. Bring the tongue blade close to the alveolar ridge for unvoiced 's' and finish with high-back rounded 'u'.",
+  "examples": [
+    {
+      "phi": "nuwesu nophae shorupo.",
+      "translation": "Mucus protects the nose."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "a protective bodily fluid made by moist inner surfaces"
+  }
+}

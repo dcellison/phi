@@ -1,0 +1,22 @@
+{
+  "word": "kathoru",
+  "gloss": "jaw",
+  "ipa": "/kä.ˈθo̞.ru/",
+  "syllables": [
+    "ka",
+    "tho",
+    "ru"
+  ],
+  "pos": "noun",
+  "description": "The 'kathoru' is the hinged bony structure of the face that holds the teeth and opens or closes the mouth. Ordinary use may concern the whole jaw or one side; an exact bone or joint keeps its source name when that precision matters. 'kulai' (tooth) is what the jaw holds, while 'phulae' (mouth) is the opening it moves.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into open central 'a'. Extend the tongue tip slightly between the teeth for unvoiced 'th', then draw the tongue back into stressed middle-height rounded 'o'. Tap or briefly trill at the alveolar ridge and finish with high-back rounded 'u'.",
+  "examples": [
+    {
+      "phi": "mia kathoru roke.",
+      "translation": "My jaw moves."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "the hinged facial structure that holds the teeth"
+  }
+}

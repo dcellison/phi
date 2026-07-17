@@ -1,0 +1,26 @@
+{
+  "word": "peshuma",
+  "gloss": "buttocks",
+  "ipa": "/pe̞.ˈʃu.mä/",
+  "syllables": [
+    "pe",
+    "shu",
+    "ma"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "buttock",
+    "rear"
+  ],
+  "description": "Below the lower back, 'peshuma' is the paired fleshy region at the rear of the pelvis that bears pressure while sitting. Context or a numeral can select one side. It is an ordinary anatomical noun, without the comic or insulting senses that English sometimes piles onto the body part.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into middle-height front unrounded 'e'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and round the lips around stressed high-back 'u'. Close the lips for voiced 'm', carry the sound through the nose, and open into central unrounded 'a'.",
+  "examples": [
+    {
+      "phi": "mia peshuma mua meipa nai.",
+      "translation": "My buttocks are on the seat."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "the paired fleshy rear region that bears pressure in sitting"
+  }
+}

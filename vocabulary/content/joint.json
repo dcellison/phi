@@ -1,0 +1,25 @@
+{
+  "word": "kiparu",
+  "gloss": "joint",
+  "ipa": "/ki.ˈpä.ru/",
+  "syllables": [
+    "ki",
+    "pa",
+    "ru"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "articulation"
+  ],
+  "description": "A 'kiparu' is a place where bones or other firm body parts meet and guide movement. Shoulders and knees have direct nouns; this general word locates a wrist or ankle without making the whole limb painful. A mechanical joint is described through its connection, fastener, or exact source term.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'. Close the lips for unvoiced 'p' and release into stressed open central 'a'. Tap or briefly trill the tongue tip at the alveolar ridge, then finish with high-back rounded 'u'.",
+  "examples": [
+    {
+      "phi": "mia kiparu roke.",
+      "translation": "My joint moves."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "a bodily articulation where firm parts meet and movement occurs"
+  }
+}

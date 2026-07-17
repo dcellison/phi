@@ -1,0 +1,22 @@
+{
+  "word": "tomewu",
+  "gloss": "urine",
+  "ipa": "/t̪o̞.ˈme̞.wu/",
+  "syllables": [
+    "to",
+    "me",
+    "wu"
+  ],
+  "pos": "noun",
+  "description": "The liquid waste a body produces and releases through the urinary tract is 'tomewu'. A speaker can describe its colour or amount, or report pain and frequency, in the next words. The ordinary noun carries no judgement about the person whose body produced it.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into middle-height back rounded 'o'. Close the lips for voiced 'm', carry the sound through the nose, and move into stressed middle-height front unrounded 'e'. Round the lips and raise the back of the tongue for voiced 'w', then finish with high-back rounded 'u'.",
+  "examples": [
+    {
+      "phi": "weloni tomewu leiro.",
+      "translation": "The body releases urine."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "liquid bodily waste released through the urinary tract"
+  }
+}
