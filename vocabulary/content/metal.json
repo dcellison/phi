@@ -8,16 +8,21 @@
     "o"
   ],
   "pos": "noun",
-  "concept": "Metal / Ore Material / To Work Metal",
-  "description": "A solid material that conducts heat and electricity, typically hard and shiny; to work such material. 'Keluo' names what earth hides—ore transformed through fire into strength.",
-  "sound_symbolism": "The word rings transformed. 'Ke' clangs with metallic hardness, ore revealed. 'Lu' flows molten in the forge. Then 'o' cools to solid permanence.",
-  "grammatical_notes": "Noun: 'keluo' (the metal) - the general term; 'tesu' (iron), 'roena' (copper) and kin are specific metals. Working it takes verbs: 'mia keluo kire.' (I shape the metal.)",
-  "pillars": {
-    "solarpunk-values": "Recyclable forever—metal can be reforged endlessly, truly circular material.",
-    "pre-industrial-wisdom": "Metal transformed ages—bronze, iron, each discovery changing human capability."
-  },
+  "search_terms": [
+    "metallic material",
+    "metal material"
+  ],
+  "description": "A material in the broad metallic class is 'keluo'. Metals commonly conduct heat and electricity and can often be shaped without breaking, though each metal and alloy behaves differently. Ore is rock containing material from which a metal may be obtained, not the metal itself.",
+  "articulatory_notes": "The back of the tongue closes against the soft palate for unvoiced 'k' and releases into front 'e'. Lateral 'l' begins stressed rounded 'u', and the voice crosses a clear hiatus into final rounded 'o'.",
+  "usage_notes": "The noun can refer to metal generally or to an unidentified piece. Specific words such as 'tesu' (iron), 'roena' (copper), and 'teshilo' (steel) replace it when material identity affects the account.",
+  "examples": [
+    {
+      "phi": "mia keluo kire.",
+      "translation": "I shape the metal."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Forged material",
-    "nature": "Earth ore"
+    "creation": "a broad class of materials used in tools, structures, conductors, and ornament",
+    "physical": "materials with metallic bonding and the properties that follow from it"
   }
 }

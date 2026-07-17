@@ -1,0 +1,31 @@
+{
+  "word": "polenu",
+  "gloss": "plastic",
+  "ipa": "/po̞.ˈle̞.n̪u/",
+  "syllables": [
+    "po",
+    "le",
+    "nu"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "polymer material",
+    "plastic material"
+  ],
+  "description": "The broad family of polymer materials shaped into containers, films, fibres, and other objects is 'polenu'. A plastic may be flexible or rigid and may come from fossil or biological feedstocks. The word gets a speaker only as far as the family; its polymer and additives distinguish the particular material.",
+  "articulatory_notes": "The lips close for unvoiced 'p' and release into rounded 'o'. Lateral 'l' opens onto stressed front 'e'; dental nasal 'n' then carries the voice into high-back rounded 'u'.",
+  "usage_notes": "For a plastic container, the material comes first in 'polenu molu'. Recyclability, toxicity, and safe use depend on the particular material and process rather than on the broad noun alone.",
+  "examples": [
+    {
+      "phi": "ha molu polenu nai.",
+      "translation": "This container is plastic."
+    }
+  ],
+  "pillars": {
+    "solarpunk-values": "A drink bottle and a window frame can both be plastic while asking for very different lifetimes and recovery paths. Naming the material apart from 'whemori' (waste) leaves those relations open to evidence."
+  },
+  "semantic_domains": {
+    "creation": "a polymer material formed into manufactured objects and fibres",
+    "physical": "a broad family of flexible or rigid polymer materials"
+  }
+}

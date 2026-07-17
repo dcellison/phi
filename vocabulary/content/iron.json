@@ -7,16 +7,24 @@
     "su"
   ],
   "pos": "noun",
-  "concept": "Iron / Strong Metal / Forged Strength",
-  "description": "A strong magnetic metal used for tools and construction; the metal of strength and industry. 'Tesu' names what endures—the backbone of building and making.",
-  "sound_symbolism": "The word strikes strong. 'Te' lands with firm impact, hammer on anvil. Then 'su' sustains with enduring strength, iron holding.",
-  "grammatical_notes": "Functions as noun: 'tesu kema nai.' (Iron is strong.) Stronger than 'roena' (copper). The metal of tools and building.",
+  "search_terms": [
+    "iron metal",
+    "iron element"
+  ],
+  "description": "The metallic element iron is 'tesu'. It is worked in many forms, reacts readily with oxygen and moisture, and supplies the main metal in 'teshilo' (steel). Strength depends on composition and treatment rather than following from the iron name alone.",
+  "articulatory_notes": "The tongue tip closes behind the upper teeth for dental 't' and releases into stressed front 'e'. A narrow groove along the tongue directs unvoiced 's' into rounded high-back 'u'.",
+  "usage_notes": "Names such as ore, cast iron, or wrought iron preserve how the material was obtained and worked. 'tesu' supplies the iron common to the account.",
+  "examples": [
+    {
+      "phi": "tesu keluo nai.",
+      "translation": "Iron is metal."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Iron determination—the quality of unwavering commitment, strong as forged metal.",
-    "pre-industrial-wisdom": "Iron shaped daily work—plows, hinges, axes, cook-pots—the durable metal of village smithies and hand tools."
+    "pre-industrial-wisdom": "Iron changes under furnace heat, hammering, cooling, and exposure to water. The craft lies in reading those changes rather than assuming that every dark metal will answer alike."
   },
   "semantic_domains": {
-    "nature": "Strong metal",
-    "physical": "Enduring strength"
+    "creation": "a metal worked into tools, structures, and other made forms",
+    "physical": "a reactive metallic element and the main constituent of many ferrous materials"
   }
 }

@@ -8,16 +8,24 @@
     "lo"
   ],
   "pos": "noun",
-  "concept": "Material / Physical Matter Considered in Use or Transformation",
-  "description": "Physical matter considered in the context of use or transformation. The word is neutral about whether the material counts as a resource, a waste, or neither; that status depends on the purpose asking the question.",
-  "sound_symbolism": "Deep 'mu' begins behind closed lips with palpable weight. Under stress, 'ra' rolls that weight into broad 'a' and gives it room to change shape. Low liquid 'lo' lets the tongue move on while round 'o' keeps the matter substantial. The word can be held, turned, and carried through the mouth like material through a pair of hands.",
-  "grammatical_notes": "A countable or mass noun: 'ha wolea shaemu muralo nai.' (Wood is organic material.) Use specific substance words or exact source forms where composition or grade matters. Distinct from 'thena' (thing), 'muila' (earth or soil), 'panuri' (resource), and 'whemori' (waste).",
+  "search_terms": [
+    "matter in use",
+    "substance"
+  ],
+  "description": "Matter considered for its composition, use, or transformation is 'muralo'. 'thena' (thing) points to an entity; material asks what that entity is made from or what can be done with it. 'panuri' (resource) and 'whemori' (waste) describe a relation to a purpose rather than the substance itself.",
+  "articulatory_notes": "Voiced nasal 'm' starts at closed lips and opens into rounded high-back 'u'. A tap or brief trill releases stressed central 'a'; lateral 'l' then carries the voice into final rounded 'o'.",
+  "usage_notes": "The noun works in mass and countable settings. A technical description can supply composition or grade when the broad material name is too wide.",
+  "examples": [
+    {
+      "phi": "ha wolea shaemu muralo nai.",
+      "translation": "This wood is organic material."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Material is understood through grain, flow, transformation, and relation rather than as an invisible carrier of form.",
-    "pre-industrial-wisdom": "Practical knowledge begins with the actual matter at hand, its condition, source, affordances, limits, and possible afterlives."
+    "solarpunk-values": "A fallen board can be material in a repair, a resource to one group, and waste to another. 'muralo' holds the substance steady while people examine those changing relations."
   },
   "semantic_domains": {
-    "creation": "matter considered for making, repair, transformation, or reuse",
-    "physical": "physical matter described through composition, condition, and movement"
+    "creation": "matter selected for making or transformation",
+    "physical": "substance considered through its composition or properties"
   }
 }

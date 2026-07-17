@@ -8,16 +8,21 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "Crystal / Structured Mineral / Clear Gem",
-  "description": "A solid with atoms arranged in highly ordered structure; nature's geometry made visible. 'Kirae' names what earth grows perfect—the faceted form of ordered beauty.",
-  "sound_symbolism": "The word cuts clear. 'Ki' defines with sharp facet, edges precise. 'Ra' refracts light in rainbows. Then 'e' opens to transparent depth.",
-  "grammatical_notes": "Functions as noun: 'lo kirae' (crystals). A counted bounded crystal may take optional object classifier 'themo'. Names quartz, gems, any crystalline structure.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Clarity as crystal—the clear mind that sees without distortion.",
-    "pre-industrial-wisdom": "Crystals held power—used for healing, divination, the earth's perfect geometry."
-  },
+  "search_terms": [
+    "crystalline solid",
+    "mineral crystal"
+  ],
+  "description": "A solid whose constituent particles repeat in an ordered structure is 'kirae', especially when that structure forms a visible bounded body. A crystal may be cloudy, coloured, or too small to see without equipment. 'phielo' (glass) lacks the same long-range order; a mineral name can identify the substance.",
+  "articulatory_notes": "Unvoiced 'k' forms where the back of the tongue meets the soft palate, then releases into high-front 'i'. A tap or brief trill opens onto stressed 'a', followed by a clean hiatus into final front 'e'.",
+  "usage_notes": "The object classifier 'themo' is available for a single crystal; a cluster or quantity needs none. A mineral name identifies the substance, and a scientific source can add its lattice classification.",
+  "examples": [
+    {
+      "phi": "lo kirae mua kerou nai.",
+      "translation": "Crystals are in the stone."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Geometric mineral",
-    "wisdom": "Clarity symbol"
+    "nature": "ordered mineral or other solid structures found in natural settings",
+    "physical": "a solid with a repeating internal arrangement"
   }
 }

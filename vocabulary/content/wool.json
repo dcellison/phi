@@ -7,16 +7,27 @@
     "phi"
   ],
   "pos": "noun",
-  "concept": "Wool / Sheep Fiber / Warm Textile",
-  "description": "The soft, crimped hair that forms a sheep's fleece and can be spun into textile. It insulates the living animal before it warms a garment. Shearing is one event; transfer and use follow in their own clauses.",
-  "sound_symbolism": "The lips close around the nasal at the start of 'mo', and rounded 'o' gives the first syllable depth. In 'phi', the lips approach again but leave a narrow path for breath before bright 'i'. Two soft contacts move from a full chamber to a fine, airy edge.",
-  "grammatical_notes": "A mass noun, so it rarely takes 'lo' (PL): 'mophira mophi phelu.' (The sheep has wool.) 'Mophi se kati.' (The wool is cut.) Related to 'mophira' (sheep), 'sima' (thread), 'wetha' (cloth), and 'wethalu' (garment).",
+  "search_terms": [
+    "fleece fibre",
+    "wool fiber",
+    "wool fibre"
+  ],
+  "description": "The crimped hair fibre gathered from a fleece, especially a sheep's fleece, is 'mophi'. Other animals' fibres can use the broad word when their shared textile behaviour matters, or keep the species name when it does not. 'mophira' (sheep) names the animal rather than the material taken from it.",
+  "articulatory_notes": "The lips close for voiced nasal 'm' and open into stressed rounded 'o'. Unvoiced air then passes between nearly closed lips and releases into high-front 'i'.",
+  "sound_symbolism": "The whole word is heard intact at the opening of 'mophira' (sheep). Wool thus sits inside sheep in the ear before the longer animal name continues through its tap and final open vowel.",
+  "usage_notes": "Species and shearing identify wool's animal source. Spinning, treatment, and animal care can be stated when they shape the account.",
+  "examples": [
+    {
+      "phi": "mophira mophi phelu.",
+      "translation": "The sheep has wool."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Wool can provide durable insulation, but material usefulness does not answer how the sheep, land, labor, or processing were treated.",
-    "pre-industrial-wisdom": "Spinning and weaving begin with a fleece that first kept an animal warm. Good material knowledge remembers both uses of the fiber."
+    "peace-linguistics-practices": "The related words for sheep and wool keep the animal beside the fibre. A sentence can then say how the wool was gathered and what the animal experienced."
   },
   "semantic_domains": {
-    "nature": "the fiber forming a sheep's fleece",
-    "physical": "a crimped insulating fiber that can be spun"
+    "creation": "animal fibre spun, felted, or otherwise formed into textile material",
+    "nature": "hair fibre grown as part of an animal's fleece",
+    "physical": "a crimped insulating fibre with behaviour shaped by species and treatment"
   }
 }

@@ -1,0 +1,29 @@
+{
+  "word": "luwaro",
+  "gloss": "rubber",
+  "ipa": "/lu.ˈwä.ro̞/",
+  "syllables": [
+    "lu",
+    "wa",
+    "ro"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "elastic rubber",
+    "elastomer"
+  ],
+  "description": "An elastic material that can deform under force and recover much of its earlier shape is 'luwaro'. Rubber may come from plant latex or synthetic production, and its behaviour changes with formulation and age. 'luwi' (flexible) describes ease of bending; rubber adds elastic recovery.",
+  "articulatory_notes": "Lateral 'l' releases into rounded high-back 'u'. The lips narrow for voiced 'w' and open onto stressed 'a'; a tap or brief trill finishes in rounded 'o'.",
+  "sound_symbolism": "Both 'luwaro' and 'luwi' (flexible) begin with lateral 'lu' and a rounded glide. The shared mouth movement offers an audible link, while the longer rubber word returns through a final tap and rounded vowel.",
+  "usage_notes": "A shoe or other object can take 'luwaro' directly as its material. The product identity supplies the elastomer and additives; hardness, ageing, and safety belong to that particular object and use.",
+  "examples": [
+    {
+      "phi": "ha palowe luwaro nai.",
+      "translation": "This shoe is rubber."
+    }
+  ],
+  "semantic_domains": {
+    "creation": "an elastic material made into seals, soles, tyres, and flexible parts",
+    "physical": "a material defined in ordinary use by deformation and elastic recovery"
+  }
+}

@@ -8,16 +8,25 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Clay / Moldable Earth / Potter's Material",
-  "description": "Fine-grained earth that can be molded when wet and hardened by heat; the shaping earth. 'Mueri' names what yields to hands—earth willing to become vessel.",
-  "sound_symbolism": "The word molds yielding. 'Mu' grounds with earthy mass, clay gathered. The vowel 'e' yields to pressure. Then 'ri' shapes with directing hands.",
-  "grammatical_notes": "Functions as noun: 'mueri' (the clay). Raw material for 'tomi' (pot). Transforms through fire into ceramic.",
+  "search_terms": [
+    "potter's clay",
+    "mouldable earth"
+  ],
+  "description": "Fine mineral earth that becomes mouldable with water is 'mueri'. It firms as it dries and can become ceramic when fired. 'muphia' (mud) is earth mixed with water more generally; once heat hardens the clay into 'mueta' (ceramic), the sentence has moved to another material.",
+  "articulatory_notes": "Closed lips hold voiced nasal 'm' before opening into high-back rounded 'u'. The voice crosses a clear hiatus into stressed front 'e'; a tap or brief trill releases the final high-front 'i'.",
+  "usage_notes": "Bare 'mueri' treats clay as material. A local name can supply its composition and working range when a potter needs the distinction.",
+  "examples": [
+    {
+      "phi": "mia mueri kire.",
+      "translation": "I shape the clay."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Malleability as beauty—clay accepts any form, inviting organic shapes and flowing lines.",
-    "pre-industrial-wisdom": "Clay became vessel—the ancient transformation of earth into storage, cooking, art."
+    "pre-industrial-wisdom": "A potter reads clay through the hand: water, pressure, drying, and fire each change what the material will bear. That knowledge belongs to the particular clay and kiln."
   },
   "semantic_domains": {
-    "creation": "Shaping medium",
-    "nature": "Earth material"
+    "creation": "a mouldable material used in pottery and building",
+    "nature": "fine mineral earth found in particular soils and deposits",
+    "physical": "mineral particles that become plastic when mixed with water"
   }
 }

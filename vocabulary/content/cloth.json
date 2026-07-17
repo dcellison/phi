@@ -7,16 +7,21 @@
     "tha"
   ],
   "pos": "noun",
-  "concept": "Cloth / Woven Fabric / Textile Material",
-  "description": "Woven or felted material; fabric for covering, clothing, or use. 'Wetha' names what covers and protects—threads become shelter.",
-  "sound_symbolism": "The word weaves softly. 'We' interlaces in relationship, threads meeting. Then 'tha' breathes gentle texture, the soft dental fricative evoking the lightness of fabric against skin.",
-  "grammatical_notes": "Functions as noun: 'wetha' (the cloth). General term for woven material. Related to 'liru' (fabric) and 'sima' (thread).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Covering without attachment—cloth protects the body, reminds of impermanence.",
-    "pre-industrial-wisdom": "Cloth sustained life—warmth, shelter, identity woven thread by thread."
-  },
+  "search_terms": [
+    "piece of cloth",
+    "textile cloth"
+  ],
+  "description": "A piece or amount of flexible textile handled for covering, wiping, wrapping, or sewing is 'wetha'. It may be woven, knitted, felted, or made by another textile process. 'liru' (fabric) keeps the sheet material and its construction in view; 'wetha' is the cloth in the hand.",
+  "articulatory_notes": "Rounded lips carry voiced 'w' into stressed front 'e'. The tongue tip then rests behind the upper teeth while unvoiced dental 'th' releases into final open 'a'.",
+  "usage_notes": "Optional 'themo' marks one countable piece of cloth; continuous cloth needs none. The established 'wetha' family also appears in words for garment, towel, blanket, and laundry.",
+  "examples": [
+    {
+      "phi": "mia roe wetha noru tawemi.",
+      "translation": "I cover the bowl with cloth."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Textile",
-    "physical": "Covering"
+    "creation": "textile material handled directly in ordinary making and care",
+    "physical": "a flexible piece or amount of textile"
   }
 }

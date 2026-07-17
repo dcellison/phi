@@ -7,16 +7,24 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Rope / Thick Cord / Binding Line",
-  "description": "Thick cord made by twisting fibers together; strong flexible line for pulling or binding. 'Suro' names what connects with strength—fibers twisted into reliable bond.",
-  "sound_symbolism": "The word coils strong. 'Su' slides continuous in length, rope extending. Then 'ro' coils round, strength through twisting.",
-  "grammatical_notes": "Functions as noun: 'mia roe suro wiru kolua.' (I carry the basket with the rope.) Stronger than 'sima' (thread) and 'nira' (cord)—for pulling, climbing, securing. Multiple strands twisted together.",
+  "search_terms": [
+    "heavy cord",
+    "hauling line"
+  ],
+  "description": "A strong flexible line constructed for pulling, securing, climbing, or supporting weight is 'suro'. Rope usually combines several strands, though material and construction vary widely. 'nira' (cord) covers the lighter tying and lacing line.",
+  "articulatory_notes": "A narrow tongue groove directs unvoiced 's' into stressed rounded high-back 'u'. A tap or brief trill then releases the voice into final rounded 'o'.",
+  "usage_notes": "'themo' can set off one length of rope; an unbounded amount needs none. Construction and present condition guide ordinary use. When a load depends on rated capacity, the safety source supplies it.",
+  "examples": [
+    {
+      "phi": "mia roe suro wiru kolua.",
+      "translation": "I carry the basket with the rope."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Connection through strength—many strands twisted together become unbreakable bond.",
-    "pre-industrial-wisdom": "Rope enabled work—sailing, building, farming, the strong line that pulls and secures."
+    "pre-industrial-wisdom": "A rope shows wear in broken fibres, stiffness, and changes under the hand. Knowing a knot is only half the work; knowing the line is the other half."
   },
   "semantic_domains": {
-    "community": "Binding connection",
-    "creation": "Strong cord"
+    "creation": "a strong flexible line assembled for pulling, climbing, securing, or support",
+    "physical": "multiple strands constructed into a flexible line"
   }
 }

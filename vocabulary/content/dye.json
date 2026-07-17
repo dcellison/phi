@@ -8,16 +8,26 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Dye / Coloring Solution / To Color Fabric",
-  "description": "A substance used to color fabric or other materials; to impart color through soaking. 'Tinoa' names what transforms through saturation—color becoming part of fiber.",
-  "sound_symbolism": "The word tints deep. 'Ti' touches with initial contact, dye meeting cloth. 'No' soaks inward, color penetrating. Then 'a' opens to complete transformation.",
-  "grammatical_notes": "Noun: 'tinoa' (dye), for coloring 'wetha' (cloth) and 'sima' (thread). The dye works through 'roe' (with) and the deed's own verb: 'mia roe tinoa wetha helui.' (I change the cloth with dye.)",
+  "search_terms": [
+    "colouring material",
+    "textile dye",
+    "coloring material"
+  ],
+  "description": "A colouring substance that enters or bonds with a material is 'tinoa'. It is especially familiar in cloth and thread, though dyes also colour paper, leather, food, and other substances. 'kolai' (pigment) is a particulate colourant; registered 'thekiro tinoa' is ink defined by its writing use.",
+  "articulatory_notes": "Dental 't' closes behind the upper teeth and releases into high-front 'i'. Dental nasal 'n' begins stressed rounded 'o', followed by a clean hiatus into final open 'a'.",
+  "usage_notes": "The dyed material follows the ordinary clause pattern, and the dye may take 'roe' (with). Source, preparation, colourfastness, and safety can be named when the broad colouring material is not enough.",
+  "examples": [
+    {
+      "phi": "mia roe tinoa wetha helui.",
+      "translation": "I change the cloth with dye."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Natural hues—plant dyes creating the soft organic colors of the movement.",
-    "pre-industrial-wisdom": "Dyeing transformed cloth—indigo, madder, weld, the ancient art of color-fast fabric."
+    "pre-industrial-wisdom": "Fibre, water, preparation, and time in the bath all change a dye's result. The same plant can leave another colour when one of those relations changes."
   },
   "semantic_domains": {
-    "aesthetic": "Color transformation",
-    "creation": "Coloring process"
+    "aesthetic": "a substance used to establish colour within a material",
+    "creation": "a colouring material applied to textiles, paper, food, and other substances",
+    "physical": "a colourant taken into the receiving material instead of lying there as loose particles"
   }
 }

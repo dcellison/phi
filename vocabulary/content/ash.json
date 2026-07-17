@@ -8,16 +8,24 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Ash / What the Fire Leaves",
-  "description": "Ash: what stays when burning is over. Gray, fine, nearly weightless. The possessive phrase 'thero hesura' (the fire's ash) is its natural habitat.",
-  "sound_symbolism": "Breath-soft 'he' and hushed 'su' carry almost no weight, which is accurate, and 'ra' lets the word end open, like ash lifting.",
-  "grammatical_notes": "Noun: 'hesura kurathi nai.' (Ash is dry.) With possessor: 'thero hesura' (the fire's ash). Distinct from 'muhena' (dust), which was never burned.",
+  "search_terms": [
+    "burning residue",
+    "fire residue"
+  ],
+  "description": "The fine solid residue left after material burns is 'hesura'. Its composition depends on what burned and how completely. 'muhena' (dust) covers fine settled particles regardless of origin.",
+  "articulatory_notes": "An open glottis releases unvoiced 'h' into front 'e'. A narrow groove along the tongue directs 's' into stressed rounded 'u'; a tap or brief trill then opens into final 'a'.",
+  "usage_notes": "'hesura' needs no classifier when ash is treated as a mass. 'thero hesura' is the ash from a fire; a source noun can narrow it to wood ash or another residue.",
+  "examples": [
+    {
+      "phi": "hesura kurathi nai.",
+      "translation": "Ash is dry."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "What remains when the burning is complete. Sitting with ash is sitting with the honest end of every fire, including the ones we tend in ourselves.",
-    "pre-industrial-wisdom": "Lye for soap, alkali for the garden, a scouring powder, a preservative bed for roots: the hearth's leavings were the household's chemistry."
+    "pre-industrial-wisdom": "Wood ash can enter soapmaking, glaze, or soil work. Ash from painted or contaminated material carries a different risk, so the practical knowledge begins with what burned."
   },
   "semantic_domains": {
-    "nature": "The fire's gray remainder",
-    "physical": "Weight almost gone"
+    "nature": "residue remaining after natural or tended fire",
+    "physical": "fine solid material left by combustion"
   }
 }

@@ -7,16 +7,25 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Fabric / Textile / Woven Material",
-  "description": "Cloth produced by weaving or knitting; material with texture and drape. 'Liru' names the flowing textile—threads interlaced into continuous surface.",
-  "sound_symbolism": "The word flows in threads. 'Li' moves with liquid continuity, fibers streaming. Then 'ru' rolls onward, fabric extending endlessly.",
-  "grammatical_notes": "Functions as noun: 'liru' (fabric). Emphasizes texture and drape more than 'wetha' (cloth). Used for quality textiles.",
+  "search_terms": [
+    "textile",
+    "textile material"
+  ],
+  "description": "Flexible sheet material formed from fibres or yarn is 'liru'. Weaving, knitting, felting, and bonding produce fabrics with different structures. 'wetha' (cloth) points to a piece or amount in ordinary handling; fabric keeps the textile construction in view.",
+  "articulatory_notes": "Lateral 'l' releases into stressed high-front 'i'. A tap or brief trill then carries the voice into final high-back rounded 'u'.",
+  "usage_notes": "Optional 'themo' sets off a single fabric sample; continuous material needs none. Construction and finish often distinguish two fabrics more usefully than 'liru' by itself.",
+  "examples": [
+    {
+      "phi": "ha liru luwi nai.",
+      "translation": "This fabric is flexible."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Flowing fabric—drape and movement, textile as living form.",
-    "pre-industrial-wisdom": "Fabric as art—the weaver's skill creating texture, pattern, beauty in daily material."
+    "art-nouveau-aesthetics": "A woven fabric gives ornament real crossings, tension, and grain. Pattern can follow the way the material was made instead of floating on its surface as an afterthought."
   },
   "semantic_domains": {
-    "aesthetic": "Texture",
-    "creation": "Woven art"
+    "aesthetic": "textile structure whose weave, texture, and drape shape visual work",
+    "creation": "fibres or yarn assembled into a usable sheet material",
+    "physical": "a continuous flexible textile structure"
   }
 }

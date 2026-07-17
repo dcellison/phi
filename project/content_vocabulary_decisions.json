@@ -48,6 +48,7 @@
     {"id": "time-sequence-natural-stations-and-recurrence", "heading": "Time, sequence, natural stations, and recurrence", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-TIME-01", "CV-TIME-02", "CV-TIME-03", "CV-TIME-04", "CV-TIME-05", "CV-TIME-06"]},
     {"id": "landscape-waters-sky-and-weather", "heading": "Landscape, waters, sky, and weather", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-LAND-01", "CV-LAND-02", "CV-WATER-01", "CV-WATER-02", "CV-SKY-01", "CV-SKY-02", "CV-WEATHER-01", "CV-LAND-03", "CV-SKY-03"]},
     {"id": "plants-animals-and-living-world", "heading": "Plants, animals, and the living world", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-LIFE-01", "CV-PLANT-01", "CV-PLANT-02", "CV-PLANT-03", "CV-ANIMAL-02", "CV-ANIMAL-03", "CV-REPRO-01", "CV-CULT-01"]},
+    {"id": "materials-substances-fibres-and-fire", "heading": "Materials, substances, fibres, and fire", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-03", "CV-MAT-04", "CV-MAT-05", "CV-MAT-06", "CV-MAT-07", "CV-MAT-08", "CV-MAT-09", "CV-MAT-10", "CV-MAT-11"]},
     {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-02", "CV-MAT-05", "CV-MAT-06", "CV-MEAS-02", "CV-MEAS-03", "CV-MEAS-04", "CV-MEAS-05", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]}
   ],
   "candidates": [
@@ -76,16 +77,16 @@
       "placement": "base or a material-focused module",
       "summary": "Many small empty interiors can describe the visible arrangement, while a dedicated quality may become useful in soil, textile, building, or filter work.",
       "revisit_when": "connected material practice repeatedly needs porosity itself rather than permeability to a named substance",
-      "batches": ["core-material-qualities"]
+      "batches": ["core-material-qualities", "materials-substances-fibres-and-fire"]
     },
     {
       "id": "CV-MAT-04",
       "concept": "dense packing or scientific density",
       "status": "deferred",
       "placement": "base, Systems, Ecological, or exact source material",
-      "summary": "Everyday uses divide among thick body, rich concentration, and many things in little space; scientific density adds a defined magnitude and method.",
+      "summary": "Everyday uses divide among thick body, high concentration, and many things in little space; scientific density adds a defined magnitude and method.",
       "revisit_when": "connected material or scientific writing repeatedly needs one stable relation that existing thickness, concentration, packing, and source measurements cannot express cleanly",
-      "batches": ["core-material-qualities"]
+      "batches": ["core-material-qualities", "materials-substances-fibres-and-fire"]
     },
     {
       "id": "CV-MAT-05",
@@ -94,7 +95,7 @@
       "placement": "base clause, with exact technical criteria in source material",
       "summary": "Permeability depends on what passes, under which conditions, so the ordinary clause names the substance, material, and possible passage.",
       "expressions": ["phialu thue muralo po roke"],
-      "batches": ["core-material-qualities", "recovered-cross-inventory-prompts"]
+      "batches": ["core-material-qualities", "materials-substances-fibres-and-fire", "recovered-cross-inventory-prompts"]
     },
     {
       "id": "CV-MAT-06",
@@ -103,7 +104,7 @@
       "placement": "base clause, with exact ratings in source material",
       "summary": "A clause saying that water cannot enter or pass through leaves the claimed substance and practical condition visible.",
       "expressions": ["phialu muo muralo po ma koema"],
-      "batches": ["core-material-qualities", "recovered-cross-inventory-prompts"]
+      "batches": ["core-material-qualities", "materials-substances-fibres-and-fire", "recovered-cross-inventory-prompts"]
     },
     {
       "id": "CV-MEAS-01",
@@ -842,6 +843,51 @@
       "summary": "The group spans body structures, life stages, husbandry classes, and formal taxa, each answering a different practical question. Existing body words cover ordinary description while biological or legal categories keep the records that define them.",
       "revisit_when": "connected ecological, care, husbandry, or literary writing repeatedly needs one of these distinctions and transparent description becomes cumbersome or ambiguous",
       "batches": ["plants-animals-and-living-world"]
+    },
+    {
+      "id": "CV-MAT-07",
+      "concept": "plastic, rubber, steel, ceramic, and concrete",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "These five broad materials recur in daily life and ecological discussion. Homes, streets, clothing, and repair work all need names for them. Direct nouns keep those sentences short; grade and composition enter only when they matter.",
+      "implementation": {"words": ["polenu", "luwaro", "teshilo", "mueta", "kapenu"], "files": ["vocabulary/content/plastic.json", "vocabulary/content/rubber.json", "vocabulary/content/steel.json", "vocabulary/content/ceramic.json", "vocabulary/content/concrete.json"]},
+      "batches": ["materials-substances-fibres-and-fire"]
+    },
+    {
+      "id": "CV-MAT-08",
+      "concept": "brick, adhesive, fuel, card or cardboard, and alloy",
+      "status": "compositional",
+      "placement": "base and cross-module compounds",
+      "summary": "Each compound exposes the practical relation behind its category instead of adding five opaque roots. A formulation or grade can join the Phi expression when it matters.",
+      "expressions": ["mueri kerou", "shumeko muralo", "thero muralo", "theru pelua", "welotu keluo"],
+      "batches": ["materials-substances-fibres-and-fire"]
+    },
+    {
+      "id": "CV-MAT-09",
+      "concept": "paint, varnish, mortar, cement, plaster, asphalt, coal, charcoal, and related material products",
+      "status": "deferred",
+      "placement": "Household, Work, Systems, Ecological, or shared base according to connected use",
+      "summary": "Paint and coal happen to be materials, but that fact gives them little else in common. Their next connected scenarios can decide which distinctions stay transparent and which deserve direct words.",
+      "revisit_when": "a connected household, craft, construction, energy, or ecological scenario repeatedly needs one of these products beyond a transparent material description",
+      "batches": ["materials-substances-fibres-and-fire"]
+    },
+    {
+      "id": "CV-MAT-10",
+      "concept": "additional ordinary metals, alloys, fibres, and natural or manufactured materials",
+      "status": "deferred",
+      "placement": "base or one or more material-using modules according to connected use",
+      "summary": "Aluminium, brass, bronze, cork, and similar names may earn Phi forms through repeated ordinary use. The present batch does not turn a survey of available materials into another list a general speaker must memorise.",
+      "revisit_when": "connected use repeatedly needs the same material identity in Phi rather than only in an exact source record",
+      "batches": ["materials-substances-fibres-and-fire"]
+    },
+    {
+      "id": "CV-MAT-11",
+      "concept": "exact chemical substances, polymer identities, alloy grades, product formulations, and trade names",
+      "status": "source-bound",
+      "placement": "exact source material with a Phi account",
+      "summary": "A broad Phi noun can still support discussion of a material's handling and effects. It cannot do the technical identifier's job.",
+      "source_rule": "The exact identifier stays outside the Phi passage with the notation and version that make it usable. Formulas and grades retain their source forms. So do standards, formulations, and trade identities.",
+      "batches": ["materials-substances-fibres-and-fire"]
     }
   ],
   "prompt_sources": [

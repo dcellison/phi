@@ -8,16 +8,22 @@
     "li"
   ],
   "pos": "noun",
-  "concept": "Silver / Moon Metal / Precious White",
-  "description": "A precious white metal with highest conductivity and reflectivity; the moon's metal. 'Shioli' names what shimmers—the bright metal of reflection and purity.",
-  "sound_symbolism": "The word shimmers lunar. 'Shi' /ʃi/ gleams with soft shimmer, light catching. The vowel 'o' rounds like full moon. Then 'li' flows with liquid light.",
-  "grammatical_notes": "Functions as noun: 'shioli' (silver). Associated with moon, reflection, purity. Counterpart to 'solai' (gold). For jewelry, mirrors, sacred objects.",
-  "pillars": {
-    "art-nouveau-aesthetics": "Silver's luster—the soft white gleam favored in Art Nouveau jewelry and decoration.",
-    "pre-industrial-wisdom": "Silver was moon-metal—associated with feminine, night, reflection across cultures."
-  },
+  "search_terms": [
+    "silver metal",
+    "silver element"
+  ],
+  "description": "The bright pale metal called silver is 'shioli'. It conducts heat and electricity extremely well and can darken through surface reactions. Monetary, decorative, or ritual value belongs to a particular community and object, not to every piece of silver.",
+  "articulatory_notes": "The tongue blade narrows the channel for unvoiced 'sh' and releases into high-front 'i'. A clear hiatus opens onto stressed rounded 'o'; lateral 'l' finishes with high-front 'i'.",
+  "usage_notes": "Optional 'themo' bounds one silver sample. Purity and surface treatment describe it; use as money is a separate social fact.",
+  "examples": [
+    {
+      "phi": "shioli keluo nai.",
+      "translation": "Silver is metal."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Lunar beauty",
-    "nature": "Precious metal"
+    "aesthetic": "a pale reflective metal used where surface and light matter",
+    "creation": "a readily worked metal used in objects, conductors, and coatings",
+    "physical": "a highly conductive metallic element that can tarnish"
   }
 }
