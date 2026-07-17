@@ -354,6 +354,8 @@ Some ecological expressions remain clearer as combinations because their parts e
 | `wireo mirela kethira` | forecast; infer a future state | Keeps a prediction bounded by evidence, not a guaranteed future. |
 | `somethi mosha` | monitoring interval | Names the practice and its period together. |
 
+Infiltration and absorption can meet without becoming the same event. `phialu muo muila koema` follows water crossing into earth; `muila phialu wosanu` makes the earth the receiving subject and says that the water remains within it.
+
 ## Source ecological information
 
 Species and taxonomic names, chemical formulas, measurements, units, site identifiers, dates, model names and versions, equations, standards, and legal categories stay outside the Phi passage. The module supplies the relations around this material; it does not translate the artifact itself.

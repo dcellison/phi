@@ -1,0 +1,28 @@
+{
+  "word": "tekari",
+  "gloss": "straight",
+  "ipa": "/t̪e̞.ˈkä.ri/",
+  "syllables": [
+    "te",
+    "ka",
+    "ri"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "uncurved",
+    "straightness"
+  ],
+  "description": "A taut cord, a clean board edge, or a road that does not bend over the stretch in view can be 'tekari'. The adjective describes a course without curve or turn across the relevant extent. 'thenui' (direct) instead says that a route or relation has no detour or intermediary; a direct path may still curve. 'kolu' (steady) concerns little change while something proceeds.",
+  "articulatory_notes": "Place the tongue tip behind the upper teeth for unvoiced dental 't' and release into middle-height front unrounded 'e'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed central 'a'. Tap or briefly trill the tongue tip at the alveolar ridge, then finish with high-front unrounded 'i'.",
+  "usage_notes": "Before a noun, 'tekari' describes a straight edge, cord, route, posture, or other extended form. In noun position it means straightness. Becoming straight uses 'tekari kelu'; causative 'ka' can introduce what brings about that change. A circle or ordinary round form remains 'sorui kire' (circle shape).",
+  "examples": [
+    {
+      "phi": "ha nira tekari nai.",
+      "translation": "This cord is straight."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "an extended object or edge continuing without a bend",
+    "spatial": "a course that does not curve or turn over the relevant extent"
+  }
+}

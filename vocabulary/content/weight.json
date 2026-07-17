@@ -1,0 +1,32 @@
+{
+  "word": "pamolu",
+  "gloss": "weight",
+  "ipa": "/pä.ˈmo̞.lu/",
+  "syllables": [
+    "pa",
+    "mo",
+    "lu"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "physical weight",
+    "weight magnitude"
+  ],
+  "description": "Set two baskets on a balance and 'pamolu' is the property being compared: how much supporting or lifting force an object calls for under the conditions at hand. The noun identifies that magnitude before anyone judges it 'tumoa' (heavy) or 'phelo' (light). 'tupeka' is a burden borne by a living being, while Systems 'takori' is technical load.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into central 'a'. Close them again for voiced nasal 'm', carry the sound through the nose, and release into stressed middle-height back rounded 'o'. Place the tongue tip at the alveolar ridge for 'l', let the air pass around its sides, and finish with high-back rounded 'u'.",
+  "usage_notes": "'pamolu' covers ordinary physical weight, including its comparison or change. Exact values, units, instruments, and procedures stay in their source records when precision matters. A scientific account that distinguishes mass from weight keeps that distinction instead of using 'pamolu' for both.",
+  "examples": [
+    {
+      "phi": "shia ha molupa pamolu masue.",
+      "translation": "They measure this box's weight."
+    },
+    {
+      "phi": "ha wi themo wiru pamolu kolo nai.",
+      "translation": "These two baskets are equal in weight."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "the supporting or lifting force associated with an object",
+    "quantity": "physical weight treated as a neutral magnitude for comparison or measurement"
+  }
+}

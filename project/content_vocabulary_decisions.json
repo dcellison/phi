@@ -1,14 +1,14 @@
 {
   "format": "phi-content-vocabulary-decisions-v1",
   "batches": [
-    {"id": "core-material-qualities", "heading": "Core material qualities", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-MAT-01", "CV-MAT-02"]},
+    {"id": "core-material-qualities", "heading": "Core material qualities", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-01", "CV-MAT-02", "CV-MAT-03", "CV-MAT-04", "CV-MAT-05", "CV-MAT-06"]},
     {"id": "environmental-and-spatial-qualities", "heading": "Environmental and spatial qualities", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-01"]},
-    {"id": "size-extent-and-distance", "heading": "Size, extent, and distance", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-MEAS-02"]},
+    {"id": "size-extent-and-distance", "heading": "Size, extent, and distance", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-02", "CV-MEAS-03", "CV-MEAS-04", "CV-MEAS-05"]},
     {"id": "pace-motion-and-equilibrium", "heading": "Pace, motion, and equilibrium", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "color", "heading": "Color", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "strength-deformation-and-recovery", "heading": "Strength, deformation, and recovery", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "sensory-and-perceptual-qualities", "heading": "Sensory and perceptual qualities", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-TASTE-01", "CV-SENS-01"]},
-    {"id": "aesthetic-and-formal-qualities", "heading": "Aesthetic and formal qualities", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-AEST-01", "CV-AEST-02", "CV-AEST-03", "CV-SHAPE-01"]},
+    {"id": "aesthetic-and-formal-qualities", "heading": "Aesthetic and formal qualities", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-AEST-01", "CV-AEST-02", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02"]},
     {"id": "awareness-and-epistemic-qualities", "heading": "Awareness and epistemic qualities", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "ethics-care-and-candour", "heading": "Ethics, care, and candour", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-ETH-01", "CV-CONFLICT-01"]},
     {"id": "core-emotion-inventory", "heading": "Core emotion inventory", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-AFFECT-02"]},
@@ -45,25 +45,61 @@
     {"id": "relation-boundaries-and-remaining-practical-acts", "heading": "Relation, boundaries, and remaining practical acts", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-COVER-01"]},
     {"id": "personhood-generations-kinship-and-social-belonging", "heading": "Personhood, generations, kinship, and social belonging", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-ANIMAL-01"]},
     {"id": "body-anatomy-and-bodily-condition", "heading": "Body, anatomy, and bodily condition", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-BODY-01", "CV-BODY-02", "CV-BODY-03", "CV-BODY-04", "CV-BODY-05", "CV-BODY-06", "CV-BODY-07", "CV-BODY-08", "CV-BODY-09", "CV-SENS-01"]},
-    {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "not-started", "decision_status": "open", "candidate_ids": ["CV-MAT-02", "CV-MEAS-02", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]}
+    {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "not-started", "decision_status": "open", "candidate_ids": ["CV-MAT-02", "CV-MAT-05", "CV-MAT-06", "CV-MEAS-02", "CV-MEAS-03", "CV-MEAS-04", "CV-MEAS-05", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]}
   ],
   "candidates": [
     {
       "id": "CV-MAT-01",
-      "concept": "hollow, porous, and dense interior structure",
-      "status": "deferred",
-      "placement": "base or a material-focused module",
-      "summary": "These properties describe internal arrangement rather than emptiness, hardness, or weight.",
-      "revisit_when": "a shape, building, soil, textile, or material scenario needs one of these properties repeatedly",
+      "concept": "hollow interior structure",
+      "status": "compositional",
+      "placement": "base expression",
+      "summary": "An empty interior says what is hollow without treating every empty vessel or room as a material structure.",
+      "expressions": ["whemoa muwi"],
       "batches": ["core-material-qualities"]
     },
     {
       "id": "CV-MAT-02",
-      "concept": "absorption, permeability, and waterproofness",
-      "status": "open",
-      "placement": "base, Household, Ecological, or Work",
-      "summary": "Wetness reports present moisture; this family asks whether matter admits, takes up, or blocks a fluid.",
-      "question": "Which distinctions deserve roots, and which remain clauses about water entering or failing to enter a material?",
+      "concept": "absorption of liquid or other material",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "The verb puts the receiving body in subject position and distinguishes material taken within from liquid merely present on a surface or moving through.",
+      "implementation": {"words": ["wosanu"], "files": ["vocabulary/content/absorb.json"]},
+      "batches": ["core-material-qualities", "recovered-cross-inventory-prompts"]
+    },
+    {
+      "id": "CV-MAT-03",
+      "concept": "porous interior structure",
+      "status": "deferred",
+      "placement": "base or a material-focused module",
+      "summary": "Many small empty interiors can describe the visible arrangement, while a dedicated quality may become useful in soil, textile, building, or filter work.",
+      "revisit_when": "connected material practice repeatedly needs porosity itself rather than permeability to a named substance",
+      "batches": ["core-material-qualities"]
+    },
+    {
+      "id": "CV-MAT-04",
+      "concept": "dense packing or scientific density",
+      "status": "deferred",
+      "placement": "base, Systems, Ecological, or exact source material",
+      "summary": "Everyday uses divide among thick body, rich concentration, and many things in little space; scientific density adds a defined magnitude and method.",
+      "revisit_when": "connected material or scientific writing repeatedly needs one stable relation that existing thickness, concentration, packing, and source measurements cannot express cleanly",
+      "batches": ["core-material-qualities"]
+    },
+    {
+      "id": "CV-MAT-05",
+      "concept": "permeability to a named substance",
+      "status": "compositional",
+      "placement": "base clause, with exact technical criteria in source material",
+      "summary": "Permeability depends on what passes, under which conditions, so the ordinary clause names the substance, material, and possible passage.",
+      "expressions": ["phialu thue muralo po roke"],
+      "batches": ["core-material-qualities", "recovered-cross-inventory-prompts"]
+    },
+    {
+      "id": "CV-MAT-06",
+      "concept": "waterproofness",
+      "status": "compositional",
+      "placement": "base clause, with exact ratings in source material",
+      "summary": "A clause saying that water cannot enter or pass through leaves the claimed substance and practical condition visible.",
+      "expressions": ["phialu muo muralo po ma koema"],
       "batches": ["core-material-qualities", "recovered-cross-inventory-prompts"]
     },
     {
@@ -77,11 +113,38 @@
     },
     {
       "id": "CV-MEAS-02",
-      "concept": "area, volume, mass, and weight as neutral magnitudes",
-      "status": "open",
-      "placement": "base or Systems",
-      "summary": "Phi now names six spatial magnitudes, but these four common measurements were not decided in that pass.",
-      "question": "Which magnitude nouns belong in ordinary measurement, and does existing Systems `henora` (capacity) cover only practical limit rather than volume?",
+      "concept": "area as a neutral magnitude",
+      "status": "compositional",
+      "placement": "base expression",
+      "summary": "The measured kind can name the relevant surface or place before `ponalu` supplies its size, while exact values stay in source material.",
+      "expressions": ["leko ponalu", "lokue ponalu"],
+      "batches": ["size-extent-and-distance", "recovered-cross-inventory-prompts"]
+    },
+    {
+      "id": "CV-MEAS-03",
+      "concept": "volume as occupied spatial magnitude",
+      "status": "compositional",
+      "placement": "base expression",
+      "summary": "Overall size already handles ordinary occupied extent, and the size of a space can be named directly without confusing it with a container's technical capacity.",
+      "expressions": ["ponalu", "tholu ponalu"],
+      "batches": ["size-extent-and-distance", "recovered-cross-inventory-prompts"]
+    },
+    {
+      "id": "CV-MEAS-04",
+      "concept": "weight as a neutral physical magnitude",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "The noun lets speakers compare or measure physical weight before judging an object heavy or light and without borrowing burden or technical load.",
+      "implementation": {"words": ["pamolu"], "files": ["vocabulary/content/weight.json"]},
+      "batches": ["size-extent-and-distance", "recovered-cross-inventory-prompts"]
+    },
+    {
+      "id": "CV-MEAS-05",
+      "concept": "mass as a scientific magnitude distinct from weight",
+      "status": "deferred",
+      "placement": "Systems or exact source material",
+      "summary": "Ordinary handling now has neutral weight, while scientific mass requires a stable technical distinction, method, and source value.",
+      "revisit_when": "connected scientific or engineering writing repeatedly needs to discuss mass apart from weight and exact source notation",
       "batches": ["size-extent-and-distance", "recovered-cross-inventory-prompts"]
     },
     {
@@ -131,11 +194,20 @@
     },
     {
       "id": "CV-SHAPE-01",
-      "concept": "straight and round as ordinary shape qualities",
-      "status": "open",
+      "concept": "straight as an ordinary shape quality",
+      "status": "implemented",
       "placement": "base",
-      "summary": "Shape and curve vocabulary can describe these properties, but the everyday adjective inventory was never settled.",
-      "question": "Would direct adjectives make routes, tools, bodies, and made objects clearer without reproducing a whole English geometry list?",
+      "summary": "The adjective separates an uncurved course or extended form from a direct route or steady movement.",
+      "implementation": {"words": ["tekari"], "files": ["vocabulary/content/straight.json"]},
+      "batches": ["aesthetic-and-formal-qualities", "recovered-cross-inventory-prompts"]
+    },
+    {
+      "id": "CV-SHAPE-02",
+      "concept": "round as an ordinary shape quality",
+      "status": "compositional",
+      "placement": "base expression",
+      "summary": "The existing circle noun already describes a circular form through the ordinary noun-describes rule, and active text has used the expression naturally.",
+      "expressions": ["sorui kire"],
       "batches": ["aesthetic-and-formal-qualities", "recovered-cross-inventory-prompts"]
     },
     {

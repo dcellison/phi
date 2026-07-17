@@ -1,0 +1,33 @@
+{
+  "word": "wosanu",
+  "gloss": "absorb",
+  "ipa": "/wo̞.ˈsä.n̪u/",
+  "syllables": [
+    "wo",
+    "sa",
+    "nu"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "take up liquid",
+    "absorption"
+  ],
+  "description": "A towel takes up spilled water; earth does the same with rain. Both can 'wosanu': liquid or another material enters and remains within them instead of merely lying on the surface or continuing through. 'koema' (enter) follows what crosses inward, while 'wosanu' keeps the receiving body as the subject.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then move into middle-height back rounded 'o'. Bring the tongue blade close to the alveolar ridge for unvoiced 's' and open into stressed central 'a'. Place the tongue tip against the back of the upper teeth for voiced dental 'n', let air pass through the nose, and finish with high-back rounded 'u'.",
+  "usage_notes": "The material, object, or living body that absorbs is the subject; what enters it is the direct object. The event noun supplies absorption. 'wirua' describes wetness after liquid is present, while permeability says that the relevant substance can move through a material. Learning and engrossed attention belong to cognition vocabulary. An exact technical uptake category keeps its source definition when that definition matters.",
+  "examples": [
+    {
+      "phi": "wethaki phialu wosanu.",
+      "translation": "The towel absorbs water."
+    },
+    {
+      "phi": "muila phialu si wosanu.",
+      "translation": "The earth is absorbing water."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "a receiving body taking material into itself",
+    "nature": "soil or a living body taking in water or another material",
+    "physical": "material entering and remaining within a body or substance"
+  }
+}

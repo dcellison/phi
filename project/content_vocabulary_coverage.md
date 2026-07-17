@@ -25,7 +25,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 |---|---|---|
 | Retrospective audit of completed content batches | **DONE** | All six concept maps and their findings appear below. |
 | Review concepts with direct corpus pressure | **DONE** | Base `pukeri` damage, `rohemi` wear down, `huwa` weak, and `tinako` rigid now carry the four accepted distinctions. |
-| Test concepts without corpus pressure | **DONE** | Base `shumeko` resolves adhesion, base `selawi` resolves traction, base `patoku`, `larewu`, and `heshowa` resolve ordinary material phase, and base `ponalu`, `waleru`, and `hirawo` supply the three neutral spatial magnitudes. |
+| Test concepts without corpus pressure | **DONE** | Base `shumeko` resolves adhesion, `selawi` traction, `patoku`, `larewu`, and `heshowa` ordinary material phase, and `ponalu`, `waleru`, and `hirawo` three neutral spatial magnitudes. D032 adds absorption, neutral weight, and straightness while closing the neighbouring questions by composition or explicit deferral. |
 | Sensory and perceptual qualities | **DONE** | Fifteen inherited entries now use the target prose contract. The final verb pass retains `pothu` (stink) as a contextual report of strongly unpleasant odour rather than a judgement that its source has gone wrong; base `sikoru`, `numaro`, `tiphori`, and `wiloru` now cover four ordinary felt sensations. |
 | Aesthetic and formal qualities | **DONE** | Thirteen inherited base adjectives now use the target prose contract, with `mioru` as the already-migrated anchor. Base `weshapi` now names decorating; further formal questions remain in the decision register. |
 | Awareness and epistemic qualities | **DONE** | Fifteen inherited entries now use the target prose contract. The scan of confusion, uncertainty, distraction, non-knowledge, obviousness, and general cognitive ability found no missing base root. |
@@ -67,20 +67,20 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Personhood, generations, kinship, and social belonging | **DONE** | Twenty-three inherited base nouns now use the target prose contract. Life stages, descent, family relations, chosen ties, hospitality, and collective life keep their immediate boundaries; selected animal nouns are recorded separately. |
 | Body, anatomy, and bodily condition | **DONE** | Thirty-six inherited base nouns now use the target prose contract. Seventeen new roots and six registered compounds repair the ordinary body map, and four sensation nouns support direct self-report; sexual and reproductive anatomy retains its own scenario-led effort. |
 | Recover unrecorded candidate decisions | **DONE** | Earlier review rows, the working expansion survey, active module plans, and two external prompt inventories now feed one machine-checked register. This can preserve every noticed question, though no inventory can recover a concept that was never noticed. |
-| Decide recovered open candidates | **IN PROGRESS** | Five more registered decisions now supply twelve ordinary base roots. Fourteen open groups remain, and no later prose batch may hide one behind a completed migration label. |
+| Decide recovered open candidates | **IN PROGRESS** | D032 resolves the material-response, neutral-magnitude, and ordinary-shape groups with three base roots and recorded non-root decisions. Eleven open groups remain, and no later prose batch may hide one behind a completed migration label. |
 
 ## Batch overview
 
 | Semantic batch | Migration | Coverage status | Open question |
 |---|---|---|---|
-| Core material qualities | [PR #346](https://github.com/dcellison/phi/pull/346) | **OPEN** | The established scales remain covered. Absorption, permeability, and waterproofness now have an explicit decision rather than an unnoticed absence. |
+| Core material qualities | [PR #346](https://github.com/dcellison/phi/pull/346) and D032 | **COVERED** | Base `wosanu` names absorption. Passage and exclusion stay substance-specific clauses; hollow structure composes; porosity and density retain clear return conditions. |
 | Environmental and spatial qualities | [PR #347](https://github.com/dcellison/phi/pull/347) | **COVERED** | No obvious base vocabulary gap remains after the addition of `sukaro` (hot). |
-| Size, extent, and distance | [PR #348](https://github.com/dcellison/phi/pull/348) and D024 | **OPEN** | The six established magnitudes remain covered. Area, volume, mass, and weight still need an explicit placement decision. |
+| Size, extent, and distance | [PR #348](https://github.com/dcellison/phi/pull/348), D024, and D032 | **COVERED** | Base `pamolu` names neutral physical weight. Area and volume compose as kinds of size, while scientific mass retains a connected-use trigger. |
 | Pace, motion, and equilibrium | [PR #349](https://github.com/dcellison/phi/pull/349) | **COVERED** | Changes of rate remain ordinary constructions. |
 | Color | [PR #350](https://github.com/dcellison/phi/pull/350) | **SETTLED** | Canon closes the system at seven adjective roots and an open construction built from a source noun and color. |
 | Strength, deformation, and recovery | [PR #351](https://github.com/dcellison/phi/pull/351) and D020 | **COVERED** | Four base roots now close the damage, wear, weakness, and rigidity questions exposed by the retrospective. |
 | Sensory and perceptual qualities | [PR #362](https://github.com/dcellison/phi/pull/362) and D031 | **COVERED** | The established channels and qualities remain covered. Base `sikoru`, `numaro`, `tiphori`, and `wiloru` now let a speaker report itch, numbness, tingling, and dizziness directly. |
-| Aesthetic and formal qualities | [PR #364](https://github.com/dcellison/phi/pull/364) | **OPEN** | Base `weshapi` now names decorating. Style, common shape qualities, and the deferred symmetry question remain visible. |
+| Aesthetic and formal qualities | [PR #364](https://github.com/dcellison/phi/pull/364) and D032 | **OPEN** | Base `weshapi` names decorating and `tekari` straightness; round remains the established `sorui kire`. Style and the deferred symmetry question remain visible. |
 | Awareness and epistemic qualities | [PR #365](https://github.com/dcellison/phi/pull/365) and [PR #366](https://github.com/dcellison/phi/pull/366) | **COVERED** | Direct words and established constructions keep consciousness, attention, truth, accuracy, error, uncertainty, insight, intuition, understanding, and judgement apart without a new base root. |
 | Ethics, care, and candour | [PR #367](https://github.com/dcellison/phi/pull/367) | **OPEN** | Base `lerasu` now names cruel conduct. Conflict, violence, protection, and related acts need a careful vocabulary decision rather than euphemism or silence. |
 | Core emotion inventory | [PR #369](https://github.com/dcellison/phi/pull/369) | **OPEN** | Canon's teaching inventory remains settled, but layered states beyond that lesson now have a registered review rather than an implied refusal. |
@@ -201,9 +201,14 @@ This field asks how an object responds to force, contact, contents, and light. T
 | Adhesion to another surface | `shumeko` (sticky), with `lorea` (connect) for the resulting relation | **COVERED** | The adjective names a material or surface that clings after contact and resists easy separation. Its quality noun supplies stickiness or adhesion. |
 | Low traction or easy sliding | `selawi` (slippery) | **COVERED** | The adjective describes contact that permits easy sideways sliding during ordinary use. A floor is understood against foot contact, and a tool against the hand. |
 | General material phase | `patoku` (solid), `larewu` (liquid), and `heshowa` (gas) | **COVERED** | The three nouns classify material under the conditions at hand. They leave substance identity, mechanical qualities, and finer specialist phases to their own words or exact source material. |
-| Interior structure | `whemoa` (empty) covers an unfilled bounded place | **DEFERRED** | `CV-MAT-01` records hollow, porous, and dense for a later shape or material-structure audit. These properties concern internal arrangement rather than the six migrated scales. |
+| Material taking liquid or another material within itself | Base `wosanu` (absorb) | **COVERED** | The receiving body is the subject, while entry, passage through, and resulting wetness keep their own clauses. `CV-MAT-02` records the decision. |
+| Passage through material | The named substance with `thue`, `po`, and a movement verb | **COMPOSITIONAL** | `CV-MAT-05` treats permeability as relative to what can pass and under which conditions; exact methods and ratings stay in source material. |
+| Exclusion of water | Water with `po ma koema` or a clause denying passage | **COMPOSITIONAL** | `CV-MAT-06` states waterproofness as the relevant inability of water to enter or pass rather than as an unrestricted quality. |
+| Hollow interior | `whemoa muwi` (empty interior) | **COMPOSITIONAL** | `CV-MAT-01` names the useful structure directly without making every empty vessel a special material quality. |
+| Porous interior structure | Many small empty interiors, with the material and scale stated | **DEFERRED** | `CV-MAT-03` returns when connected soil, textile, filter, building, or material practice repeatedly needs porosity itself. |
+| Dense packing or scientific density | `theru` (thick), `simoe` (rich), explicit packing clauses, and source measurements | **DEFERRED** | `CV-MAT-04` separates several ordinary senses and returns if connected use exposes one stable relation that deserves a root. |
 
-The batch is complete. `shumeko` covers adhesion, `selawi` covers slipperiness or low traction, and the phase nouns distinguish ordinary solids, liquids, and gases. Finer classifications remain available through connected specialist use.
+The batch is lexically closed. `shumeko` covers adhesion and `selawi` slipperiness or low traction. The phase nouns distinguish ordinary solids, liquids, and gases; `wosanu` describes material taken within. Hollow structure, permeability, and water exclusion have short descriptions. Porosity and density wait under recorded return conditions instead of disappearing from the work.
 
 ## Environmental and spatial qualities
 
@@ -234,8 +239,12 @@ Phi divides spatial judgement by the dimension a speaker is actually considering
 | Proximity | `noshi` (near), `wuero` (far), with established near and far prepositions | **COVERED** | Adjectives describe the quality, while grammar introduces an explicit reference object. |
 | Intermediate or equal extent | Context, comparison, degree, and `kolo` (equal) | **COMPOSITIONAL** | A compulsory medium-sized root would add an English label where an unmarked contextual middle often does the work. |
 | Neutral measurement dimensions | `ponalu` (size), `waleru` (length), `hirawo` (distance), `raeli` (height), `lonai` (width), and `nusho` (depth) | **COVERED** | The [box, cloth, and road scenario](../documents/evaluation/content_vocabulary_scenario_tests.md#4-the-box-the-cloth-and-the-road-between-villages) establishes the three missing neutral nouns without importing units or extending spatial length into duration. |
+| Physical weight before heavy or light judgement | Base `pamolu` (weight), with `tumoa` (heavy) and `phelo` (light) | **COVERED** | `CV-MEAS-04` supplies the neutral everyday magnitude while burdens, technical load, and exact source values remain distinct. |
+| Area of a surface or place | `leko ponalu` (surface size) or `lokue ponalu` (place size) | **COMPOSITIONAL** | `CV-MEAS-02` lets the measured kind identify which extent matters instead of adding one broad English-shaped noun. |
+| Occupied volume | `ponalu` (overall size) or `tholu ponalu` (space size), with Systems `henora` for capacity | **COMPOSITIONAL** | `CV-MEAS-03` keeps occupied extent apart from the conditioned limit of what a system can hold or process. |
+| Scientific mass | Exact source terminology and measurements, with ordinary `pamolu` only where physical weight is intended | **DEFERRED** | `CV-MEAS-05` returns when connected scientific or engineering writing repeatedly needs mass apart from weight and its source notation. |
 
-The adjective system is complete for ordinary comparison, and the six nouns let a speaker name the magnitude under discussion without choosing an end of its scale. Exact values and units remain separate source material.
+The adjective system is complete for ordinary comparison. Six spatial nouns and `pamolu` let a speaker identify common magnitudes without choosing an end of their scales. Area and volume are clear kinds of size. Scientific mass has a return condition, and exact values and units stay in separate source material.
 
 ## Pace, motion, and equilibrium
 
@@ -332,8 +341,10 @@ A plain bowl can be beautiful, and an elegant mechanism can still be difficult t
 | Negative aesthetic response | `mioru ma nai` (is not beautiful), `ma kaeli` (do not like), degree, and the concrete feature being judged | **COMPOSITIONAL** | Phi can own the response and name what prompted it without treating ugliness as an objective property, especially of a person. Connected writing may reopen the question if strong aesthetic aversion repeatedly needs a direct adjective. |
 | Applied ornament or decorating | Base `weshapi` (decorate), with `noporu` (design), `kire` (shape), and `shela` (art) | **COVERED** | `CV-AEST-01` implements the act of adding visible ornament while keeping design and the resulting form distinct. |
 | Symmetry and asymmetry | `kolo` (equal), `sena` (pattern), repeated spatial relations, and exact source description | **DEFERRED** | `CV-AEST-02` returns when connected design or technical use needs symmetry as one recurring property rather than a fresh comparison each time. |
+| Straight extended form | Base `tekari` (straight), distinct from `thenui` (direct) and `kolu` (steady) | **COVERED** | `CV-SHAPE-01` gives an uncurved cord, edge, posture, or route its ordinary quality without importing a larger geometry list. |
+| Round or circular form | `sorui kire` (circle shape) | **COMPOSITIONAL** | `CV-SHAPE-02` retains a short construction already used naturally in active text. |
 
-The thirteen inherited base adjectives in this field use the target prose contract. Their definitions remove several old shortcuts: purity is composition rather than moral essence, richness is not personal wealth, harmony permits disagreement, and serenity makes no promise about another person's state. Base `weshapi` answers the decorating question. Style, straight and round, and the deferred symmetry question remain in the decision register.
+The thirteen inherited base adjectives in this field use the target prose contract. Their definitions remove several old shortcuts: purity is composition rather than moral essence, richness is not personal wealth, harmony permits disagreement, and serenity makes no promise about another person's state. Base `weshapi` answers the decorating question, base `tekari` gives straightness a word, and `sorui kire` leaves roundness transparent. Style is open, while symmetry has its connected-use trigger.
 
 ## Awareness and epistemic qualities
 
@@ -989,7 +1000,7 @@ A child counts the bowls while a carpenter measures the table. Later, someone wr
 | Conceptual test | Current Phi coverage | Status | Finding |
 |---|---|---|---|
 | Counting, enumeration, tallies, and amount | Base `tawi` (count), exact ternary numerals, bare approximate scales, ordinary quantifiers, and `wia` (how many) | **COVERED** | Counting proceeds through distinguishable members. A tally is a count kept in a record, while an amount may instead be measured or described approximately; those further claims keep their own forms. |
-| Measurement, dimensions, standards, and exact units | Base `masue` (measure), `ponalu` (size), `waleru` (length), `hirawo` (distance), other dimension nouns, and separately preserved source notation | **COVERED** | Measurement brings a magnitude against a standard. The dimension says what is measured, while an exact technical unit stays with its source record when its form matters. |
+| Measurement, dimensions, standards, and exact units | Base `masue` (measure), `ponalu` (size), `waleru` (length), `hirawo` (distance), `pamolu` (weight), other dimension nouns, and separately preserved source notation | **COVERED** | Measurement brings a magnitude against a standard. The named magnitude says what is measured, while an exact technical unit stays with its source record when its form matters. |
 | Arithmetic, calculation, and results | Base `sholei` (gather), `leiro` (release), `welura` (spread), `phanoi` (portion), `kelai` (equals), mandatory `nela`, and source notation for unsupported forms | **COVERED** | Phi names each integer operation and states its result in a second clause. A broad verb for calculating would hide the selected operation without adding a needed relation. |
 | Equality, ordering, threshold comparison, and degree | Base `kolo` (equal), `kelai`, `sharoi` (exceed), `thenoi` (falls-short), comparative `mo` with `sheo` (than), and the quality being compared | **COVERED** | Exact quantities can stand equal, above, or below a reference. Ordinary comparison names the quality and degree, while equal standing and mathematical equality remain different uses. |
 | Comparison, assessment, similarity, and difference | Base `senao` (same), `phirae` (different), `somela` (observe), and explicit criteria, with module `samethu` (equivalent) and `kisome` (assess) | **COMPOSITIONAL** | A speaker can state what was examined and what relation the examination found. Phi favours that result over an unspecified act of comparing whose basis remains hidden. |
@@ -1108,9 +1119,9 @@ The earlier gate could only preserve questions that a batch happened to notice. 
 
 | Candidate group | Decision IDs | Present state |
 |---|---|---|
-| Material response and measurement | `CV-MAT-02`, `CV-MEAS-02` | Permeability and four neutral magnitudes remain open. |
+| Material response and measurement | `CV-MAT-02`, `CV-MAT-05`, `CV-MAT-06`, `CV-MEAS-02`, `CV-MEAS-03`, `CV-MEAS-04`, `CV-MEAS-05` | D032 implements absorption and neutral weight, keeps permeability, water exclusion, area, and volume compositional, and defers scientific mass with a connected-use trigger. |
 | Bodily sensation and action | `CV-SENS-01`, `CV-BREATH-01`, `CV-INTAKE-01`, `CV-BODY-07` | D031 implements four sensations, three involuntary bodily events, two mouth actions, and flesh; mucus and fat remain available from D029. |
-| Form and condition | `CV-AEST-03`, `CV-SHAPE-01`, `CV-CLEAN-01` | Style, straight and round, and ordinary dirt or spoilage need direct comparison with existing compositions. |
+| Form and condition | `CV-AEST-03`, `CV-SHAPE-01`, `CV-SHAPE-02`, `CV-CLEAN-01` | D032 implements straightness and retains `sorui kire` for round form. Style and ordinary dirt or spoilage remain open. |
 | Conflict and affect | `CV-CONFLICT-01`, `CV-AFFECT-02` | Violence needs precise, non-euphemistic treatment; the wider affective inventory needs decisions beyond the core lesson. |
 | Practical acts and change | `CV-LOSE-01`, `CV-AIM-01`, `CV-SWELL-01`, `CV-COVER-01` | D031 implements swelling and shrinking. Losing, aiming, and covering remain open. |
 | Writing, animals, and staples | `CV-WRITE-01`, `CV-ANIMAL-01`, `CV-FOOD-01`, `CV-FOOD-02` | Writing objects, selected animals, rice, and tea remain open; nut is the registered `kerou lureko`. |
@@ -1138,7 +1149,15 @@ Four earlier scenario decisions are complete:
 | Solid, liquid, and gas | Base nouns `patoku`, `larewu`, and `heshowa` | Substance words identify what the material is; `mirela` selects an analytical state; `kaero` names a stage in a process. Finer categories can enter through connected module use or exact source material. |
 | Neutral spatial magnitudes | Base nouns `ponalu` size, `waleru` length, and `hirawo` distance | Large and small, long and short, and near and far remain contextual judgements; duration, route choice, travel time, capacity, exact dimensions, and source values keep their own expressions. |
 
-Hollow, porous, and dense remain deferred to a later shape and material structure field. They are recorded here so that absence is not mistaken for a completed decision.
+The material-structure and neutral-measurement assessment adds three more base roots:
+
+| Concept | Decision | Boundary kept visible |
+|---|---|---|
+| Absorption | Base verb `wosanu` | Entry, passage through, and resulting wetness are separate relations; technical uptake categories retain their source definitions. |
+| Physical weight | Base noun `pamolu` | Heavy and light are contextual judgements; burden, technical load, scientific mass, and exact source values have their own places. |
+| Straightness | Base adjective `tekari` | A direct route may curve, steady movement is temporal, and round form is `sorui kire`. |
+
+Hollow structure composes as `whemoa muwi`. Permeability, water exclusion, area, volume, and round form also have direct descriptions. Porosity, density, and scientific mass stay recorded with specific return conditions.
 
 The decision-register repair resolves eleven more standing questions:
 
