@@ -7,16 +7,21 @@
     "na"
   ],
   "pos": "noun",
-  "concept": "Meeting / Gathering / Coming Together",
-  "description": "An assembly of people for a purpose; the event of coming together. 'Lona' names when paths converge—the moment of shared presence.",
-  "sound_symbolism": "The word gathers simply. 'Lo' opens with welcoming space, gathering beginning. 'Na' settles with grounded arrival, people present.",
-  "grammatical_notes": "Functions as noun: 'lo lona' (meetings). Related to 'kowela' (council) but less formal. The event of 'sorui' (circle) forming.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Meeting as presence—coming together with full attention to one another.",
-    "peace-linguistics-practices": "Meeting as dialogue—the gathering where voices can be heard and decisions made together."
-  },
+  "search_terms": [
+    "gathering",
+    "assembly event"
+  ],
+  "description": "'lona' is an event in which people gather in one place or exchange for a purpose. It may be planned or informal, and it can take place through an accessible communication medium rather than one room. 'haromi' (meet) is the encounter between participants; 'kowela' (council) is a continuing deliberative body rather than any one meeting.",
+  "articulatory_notes": "Touch the tongue to the alveolar ridge for 'l' and round into stressed middle-height back 'o'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with open central 'a'.",
+  "usage_notes": "The noun can be counted or located like any other event noun. Use 'haromi' when the clause predicates that one participant met another.",
+  "examples": [
+    {
+      "phi": "ha lona mua womu nai.",
+      "translation": "This meeting is at home."
+    }
+  ],
   "semantic_domains": {
-    "communication": "Shared gathering",
-    "community": "Assembly event"
+    "communication": "an event organised around exchange among participants",
+    "community": "people gathered for a shared purpose or occasion"
   }
 }

@@ -8,15 +8,20 @@
     "me"
   ],
   "pos": "noun",
-  "concept": "Loss / The After of Holding",
-  "description": "Loss: the state after what was held is gone — a person, a place, a possibility. It pairs with 'nuhemi' (grieve), which is what a person does with it, and with 'phelu' (hold), which is what came before it.",
-  "sound_symbolism": "'ho' opens on the emptiness, 'lu' remembers the holding, 'me' settles quietly where it was.",
-  "grammatical_notes": "Noun: 'mia holume phaelo.' (I feel the loss.) 'lo mia holume phowe.' (We share the loss.)",
+  "description": "'holume' is the absence left when a person, place, possibility, or held thing is gone. It names the changed relation rather than the event that caused it. 'wesaki' (lose) covers a misplaced possession; 'nuhemi' (grieve) is the continuing human response that may follow a wider loss.",
+  "articulatory_notes": "Let unvoiced breath pass freely for 'h' and round into middle-height back 'o'. Touch the tongue to the alveolar ridge for 'l' and raise the back of the tongue into stressed rounded 'u'. Close the lips for voiced 'm', keep nasal airflow, and finish with middle-height front 'e'.",
+  "usage_notes": "A possessor or relationship can stand before 'holume' to identify what is absent. The noun itself leaves cause, responsibility, and the person's response to later clauses.",
+  "examples": [
+    {
+      "phi": "mia holume phaelo.",
+      "translation": "I feel the loss."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Everything held will be lost; this is not pessimism but arithmetic. The word makes the fact sayable soon enough to soften it."
+    "secular-buddhist-philosophy": "'holume' gives impermanence a concrete human cost: a held relation has changed, and grief may follow."
   },
   "semantic_domains": {
-    "cognition": "The gone made nameable",
-    "emotion": "What remains of holding"
+    "emotion": "absence that may be felt after a valued relation or possibility ends",
+    "temporal": "the condition that remains after something held is gone"
   }
 }

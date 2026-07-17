@@ -1,0 +1,26 @@
+{
+  "word": "meraho",
+  "gloss": "relieved",
+  "ipa": "/me̞.ˈrä.ho̞/",
+  "syllables": [
+    "me",
+    "ra",
+    "ho"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "relief"
+  ],
+  "description": "Pain or pressure eases, and a person becomes 'meraho' (relieved). Relief looks back to what has loosened, while 'wiroa' (hopeful) looks towards a desired outcome that is still uncertain.",
+  "articulatory_notes": "Close the lips for voiced 'm', keep the airflow through the nose, and open into middle-height front 'e'. Tap or trill 'r' at the alveolar ridge and release into stressed open central 'a'. Let unvoiced breath pass freely for 'h', then finish with rounded middle-height back 'o'.",
+  "usage_notes": "The adjective takes 'nai' (be) when predicated. Its quality noun is relief, and the surrounding clause can name what eased.",
+  "examples": [
+    {
+      "phi": "mia meraho nai.",
+      "translation": "I am relieved."
+    }
+  ],
+  "semantic_domains": {
+    "emotion": "felt easing after pain, pressure, or worry lessens"
+  }
+}

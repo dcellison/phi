@@ -12,19 +12,16 @@
     "free of unwanted matter",
     "washed"
   ],
-  "description": "A surface, object, or material is 'hiso' when it is free of the unwanted matter or residue relevant to its present use. A bowl can be clean enough for a meal whatever the purity of its material. 'shiloa' (pure) concerns composition and 'pesenu' (pollute) concerns impaired surroundings; risk belongs to 'shurano' (safe).",
+  "description": "A physical thing or material is 'hiso' when it is free of the unwanted matter or residue relevant to its present use. A bowl can be clean enough for a meal whatever the purity of its material. 'hureki' (dirty) points to unwanted matter that is present; clean makes the wider practical judgement about what remains.",
   "articulatory_notes": "Let unvoiced air pass through the open glottis for 'h' and continue into stressed high-front unrounded 'i'. Raise the tongue blade towards the alveolar ridge for unvoiced 's', keep the narrow airflow moving, and round the lips into true-mid back 'o'.",
   "sound_symbolism": "Unvoiced air continues through both consonants, first openly at 'h' and then through the narrow channel of 's'. The uninterrupted breath can recall a cloth passing across a surface in one clean stroke.",
-  "usage_notes": "Cleanliness comes from the quality-noun rule. Caused becoming gives 'hiso ka kelu' (clean), while 'sawa' (wash) names cleaning with water.",
+  "usage_notes": "Cleanliness comes from the quality-noun rule. Caused becoming gives 'hiso ka kelu' (clean), while 'sawa' (wash) names cleaning with water. 'shiloa' (pure) concerns composition, 'pesenu' (pollute) concerns impaired surroundings, and 'shurano' (safe) makes a risk judgement.",
   "examples": [
     {
       "phi": "ha noru hiso nai.",
       "translation": "This bowl is clean."
     }
   ],
-  "pillars": {
-    "solarpunk-values": "Clean water and soil are shared conditions of daily life. Where pollution or toxicity matters, Phi uses the stronger words that identify them."
-  },
   "semantic_domains": {
     "physical": "surfaces, objects, or materials free of unwanted matter for their present use"
   }

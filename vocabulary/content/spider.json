@@ -1,0 +1,23 @@
+{
+  "word": "nirowe",
+  "gloss": "spider",
+  "ipa": "/n̪i.ˈro̞.we̞/",
+  "syllables": [
+    "ni",
+    "ro",
+    "we"
+  ],
+  "pos": "noun",
+  "description": "A 'nirowe' (spider) is an eight-legged arachnid rather than an insect. Many spiders make silk webs, while others use silk without building a web at all. The structure is 'niro' (web); the animal is 'nirowe' whether or not one is present.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n' and spread into high front 'i'. Tap or trill 'r' at the alveolar ridge and round into stressed middle-height 'o'. Round the lips for voiced 'w', then move the tongue forward and unround into middle-height 'e'.",
+  "sound_symbolism": "The first two syllables reproduce 'niro' (web). This gives the animal an audible home near one of its best-known structures, while final 'we' carries the form beyond that echoed word.",
+  "examples": [
+    {
+      "phi": "nirowe niro pilewa.",
+      "translation": "The spider makes a web."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "an eight-legged arachnid across both web-building and non-web-building species"
+  }
+}

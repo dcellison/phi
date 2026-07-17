@@ -1,0 +1,27 @@
+{
+  "word": "haromi",
+  "gloss": "meet",
+  "ipa": "/hä.ˈro̞.mi/",
+  "syllables": [
+    "ha",
+    "ro",
+    "mi"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "encounter"
+  ],
+  "description": "Two people 'haromi' when they come into one another's presence at the same time, in a place or through a live exchange, by plan or chance. The verb can name a first introduction or an ordinary meeting between people who already know one another. 'lona' (meeting) is the gathering or event arranged around their presence; 'kamo' (arrive) only marks reaching a place.",
+  "articulatory_notes": "Let unvoiced breath pass freely for 'h' and open into 'a'. Tap or trill 'r' at the alveolar ridge and round into stressed middle-height 'o'. Close the lips for voiced 'm', keep the airflow through the nose, and finish with high front unrounded 'i'.",
+  "usage_notes": "The encountered participant stands before 'haromi'. Ordinary phrases can locate the encounter in time and give its place or medium. The event-noun rule supplies an encounter without replacing 'lona' as the noun for an assembled meeting.",
+  "examples": [
+    {
+      "phi": "mia thia to haromi.",
+      "translation": "I met you."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "encountering another participant in concurrent presence or exchange",
+    "community": "people coming into one another's presence by plan or chance"
+  }
+}

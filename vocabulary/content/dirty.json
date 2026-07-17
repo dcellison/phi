@@ -1,0 +1,29 @@
+{
+  "word": "hureki",
+  "gloss": "dirty",
+  "ipa": "/hu.ˈre̞.ki/",
+  "syllables": [
+    "hu",
+    "re",
+    "ki"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "soiled"
+  ],
+  "description": "A boot marked with mud and a hand smeared with grease can both be 'hureki' (dirty). The adjective points to unwanted matter visible on a physical thing or worked into it. 'hiso' (clean) judges fitness relative to present use instead.",
+  "articulatory_notes": "Let unvoiced breath pass freely through the open mouth for 'h', then raise the back of the tongue and round the lips for 'u'. Tap or trill 'r' at the alveolar ridge and move into stressed middle-height front 'e'. Close the back of the tongue for 'k', release it, and finish with high front unrounded 'i'.",
+  "usage_notes": "The adjective stays tied to a physical referent. It can describe dirty hands or cloth; conduct takes its own ethical description, so the word does not turn a person into dirt.",
+  "examples": [
+    {
+      "phi": "ha noru hureki nai.",
+      "translation": "This bowl is dirty."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "Tying 'hureki' to physical matter resists its use as a dehumanising judgement of people or communities."
+  },
+  "semantic_domains": {
+    "physical": "unwanted matter visible on a physical thing or worked into it"
+  }
+}

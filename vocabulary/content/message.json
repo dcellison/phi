@@ -1,0 +1,26 @@
+{
+  "word": "milaro",
+  "gloss": "message",
+  "ipa": "/mi.ˈlä.ro̞/",
+  "syllables": [
+    "mi",
+    "la",
+    "ro"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "communicated note"
+  ],
+  "description": "A warning spoken across a room and a note left on a table can each be a 'milaro' (message). It is a bounded expression sent or left for a recipient, whether spoken, written, signed, or carried through another usable medium. 'sheori' (communicate) is the act; a message is what passes through it, whether or not the recipient receives or understands it.",
+  "articulatory_notes": "Close the lips for voiced 'm', keep nasal airflow, and spread into high front 'i'. Touch the tongue to the alveolar ridge for 'l' and release into stressed open central 'a'. Tap or trill 'r' at the same ridge and finish with middle-height back rounded 'o'.",
+  "usage_notes": "A message can be sent with 'sepho', received with 'mulo', or read with 'theo'. 'thekiro milaro' is a written message or letter; an exact quotation stays outside the Phi passage in its original wording.",
+  "examples": [
+    {
+      "phi": "mia milaro theo.",
+      "translation": "I read the message."
+    }
+  ],
+  "semantic_domains": {
+    "communication": "a bounded expression directed towards a recipient"
+  }
+}

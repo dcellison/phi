@@ -18,10 +18,18 @@ class ContentVocabularyDecisionTests(unittest.TestCase):
 
     def test_open_candidate_keeps_batch_open(self):
         data = copy.deepcopy(self.data)
-        candidate = next(item for item in data["candidates"] if item["status"] == "open")
-        batch_id = candidate["batches"][0]
-        batch = next(item for item in data["batches"] if item["id"] == batch_id)
-        batch["decision_status"] = "closed"
+        batch = data["batches"][0]
+        candidate = {
+            "id": "CV-TEST-OPEN",
+            "concept": "synthetic unresolved question",
+            "status": "open",
+            "placement": "base",
+            "summary": "This fixture tests the batch gate without requiring an unfinished production decision.",
+            "question": "Should this synthetic concept receive a root?",
+            "batches": [batch["id"]],
+        }
+        data["candidates"].append(candidate)
+        batch["candidate_ids"].append(candidate["id"])
         errors = decisions.validate(data, coverage_text=self.coverage)
         self.assertTrue(any("closed with unresolved decisions" in error for error in errors))
 

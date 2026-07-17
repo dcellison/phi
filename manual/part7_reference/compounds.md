@@ -5,7 +5,7 @@
 
 # The Compound Registry
 
-*48 canonized compounds.*
+*51 canonized compounds.*
 
 Canonized compound idioms are multi-word expressions whose meaning is a stable part of the language, not one-off improvisations. Each stays compositional because the composition itself carries the insight a coined label would hide.
 
@@ -53,6 +53,14 @@ Reach for these before composing fresh, and before proposing a new word: registr
 | Compound | Literal | Meaning | Why compositional |
 |---|---|---|---|
 | `haoni welisha` | voice-color | timbre, tone of voice | Timbre genuinely is the voice's color — the quality that stays when pitch and words are removed. The compound is the standard metaphor stated plainly; a coined label would hide it. |
+
+## Writing
+
+| Compound | Literal | Meaning | Why compositional |
+|---|---|---|---|
+| `thekiro tinoa` | writing-dye | ink | Ink is the colouring material used to leave readable marks. The compound names its work and leaves an exact recipe with its source. |
+| `thekiro kiroa` | writing-sign | letter, written character | `kiroa` already names a visible sign; `thekiro` narrows it to one used in writing and keeps it apart from correspondence. |
+| `thekiro milaro` | writing-message | letter, written correspondence | `milaro` keeps the expression directed towards a recipient, while `thekiro` states its written form. Exact wording remains with the source text when it matters. |
 
 ## Color
 

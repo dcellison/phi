@@ -1,0 +1,26 @@
+{
+  "word": "pasharo",
+  "gloss": "frustrated",
+  "ipa": "/pä.ˈʃä.ro̞/",
+  "syllables": [
+    "pa",
+    "sha",
+    "ro"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "frustration"
+  ],
+  "description": "Repeated obstacles can leave a person 'pasharo' (frustrated) while they try to meet a need or follow an intended course. A tool will not fit; an explanation will not land. 'sheli' (impatient) responds more specifically to delay.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into 'a'. Lift the tongue towards the postalveolar region for 'sh', pass unvoiced air through the groove, and open into stressed 'a'. Tap or trill 'r' at the alveolar ridge and finish with rounded middle-height 'o'.",
+  "usage_notes": "'pasharo' predicates with 'nai' (be); noun use means frustration. The surrounding sentence can name what was attempted and what blocked it without treating the feeling as blame.",
+  "examples": [
+    {
+      "phi": "miona pasharo phaelo.",
+      "translation": "The person feels frustrated."
+    }
+  ],
+  "semantic_domains": {
+    "emotion": "agitation produced by a repeatedly blocked effort, need, or course"
+  }
+}

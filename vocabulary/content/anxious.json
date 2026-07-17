@@ -1,0 +1,26 @@
+{
+  "word": "weshoru",
+  "gloss": "anxious",
+  "ipa": "/we̞.ˈʃo̞.ru/",
+  "syllables": [
+    "we",
+    "sho",
+    "ru"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "anxiety"
+  ],
+  "description": "Unease that stays turned towards what may happen can leave someone 'weshoru' (anxious), particularly when the outcome or their capacity to meet it feels uncertain. 'luroi' (nervous) suits a particular exposed moment; anxiety can last beyond that moment and need not have one clear trigger.",
+  "articulatory_notes": "Round the lips for voiced 'w' and unround into middle-height front 'e'. Raise the front of the tongue towards the postalveolar region for 'sh', pass unvoiced air through the groove, and round into stressed 'o'. Tap or trill 'r' at the alveolar ridge and finish with high back rounded 'u'.",
+  "usage_notes": "With 'nai' (be), 'weshoru' predicates an anxious state. In nominal use, the same form is anxiety, which may be felt with 'phaelo'.",
+  "examples": [
+    {
+      "phi": "mia weshoru nai.",
+      "translation": "I am anxious."
+    }
+  ],
+  "semantic_domains": {
+    "emotion": "unease oriented towards an uncertain future or capacity to respond"
+  }
+}

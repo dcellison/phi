@@ -1,0 +1,30 @@
+{
+  "word": "kophinu",
+  "gloss": "disgust",
+  "ipa": "/ko̞.ˈɸi.n̪u/",
+  "syllables": [
+    "ko",
+    "phi",
+    "nu"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "disgusted",
+    "revulsion"
+  ],
+  "description": "A foul smell may provoke 'kophinu' (disgust); so may conduct judged deeply objectionable. The word is a strong felt recoil, not proof of physical contamination or ethical wrongdoing. Those claims need their own evidence.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for 'k' and release into middle-height back rounded 'o'. Bring the lips close without sealing them for 'ph', pass unvoiced air through the gap, and spread into stressed high front 'i'. End with dental 'n', voiced through the nose, followed by high back rounded 'u'.",
+  "usage_notes": "Use 'kophinu' as the object of 'phaelo' (feel). When it is directed at a person or group, the surrounding clause makes the prompting conduct or condition visible; 'kophinu' never supplies a verdict on human worth.",
+  "examples": [
+    {
+      "phi": "mia kophinu phaelo.",
+      "translation": "I feel disgust."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "The word separates a felt recoil from claims about another person's worth, guilt, or belonging."
+  },
+  "semantic_domains": {
+    "emotion": "strong aversive recoil from a sensory experience or judged conduct"
+  }
+}

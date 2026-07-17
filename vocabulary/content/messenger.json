@@ -8,16 +8,17 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Messenger / Message Carrier / News Bringer",
-  "description": "One who carries messages between people or places; a bearer of communication. 'Toloi' names who bridges distance—carrying words across space.",
-  "sound_symbolism": "The word carries with purpose. 'To' touches with contact made, message received. 'Lo' opens with delivered content, meaning arriving. Then 'i' rises to understanding received.",
-  "grammatical_notes": "Functions as noun: 'toloi lo phelui kolua.' (The messenger carries words.) Related to 'piru' (trader) as word-carrier to goods-carrier.",
-  "pillars": {
-    "peace-linguistics-practices": "Messenger as bridge—enabling communication across distance and difference.",
-    "pre-industrial-wisdom": "Messenger as connector—linking distant people through carried words."
-  },
+  "description": "A 'toloi' carries a message or another communicative object between people or places. The messenger may speak the words, deliver a written letter, or carry a recording. 'milaro' (message) is what is conveyed; a message can also travel without a human messenger.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into middle-height back rounded 'o'. Touch the tongue to the alveolar ridge for 'l' and hold stressed rounded 'o'. Keep the following high front unrounded 'i' in a separate syllable across the 'o.i' hiatus.",
+  "usage_notes": "The carried message or object can precede 'kolua' (carry), while sender and recipient use their ordinary relations. 'sepho' (send) centres the dispatch rather than the participant who travels.",
+  "examples": [
+    {
+      "phi": "toloi milaro kolua.",
+      "translation": "The messenger carries the message."
+    }
+  ],
   "semantic_domains": {
-    "communication": "Message carrying",
-    "community": "Connecting role"
+    "communication": "a participant who conveys a message or communicative object",
+    "community": "a person connecting separated participants through carried communication"
   }
 }

@@ -1,0 +1,22 @@
+{
+  "word": "maruko",
+  "gloss": "bear",
+  "ipa": "/mä.ˈru.ko̞/",
+  "syllables": [
+    "ma",
+    "ru",
+    "ko"
+  ],
+  "pos": "noun",
+  "description": "Broad-bodied and short-tailed, a 'maruko' is a bear, a large plantigrade mammal. Bears occupy varied habitats and eat very different diets across species and seasons. 'moreke' (mammal) gives the wider class.",
+  "articulatory_notes": "Close the lips for voiced 'm', keep nasal airflow, and open into 'a'. Tap or trill 'r' at the alveolar ridge and raise the back of the tongue into stressed rounded 'u'. Close the back of the tongue for 'k', release it, and finish with middle-height back rounded 'o'.",
+  "examples": [
+    {
+      "phi": "maruko mua nowhu nulae.",
+      "translation": "The bear sleeps in a cave."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "a large plantigrade mammal whose habitats and diets vary by species"
+  }
+}

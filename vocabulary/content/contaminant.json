@@ -8,18 +8,27 @@
     "phi"
   ],
   "pos": "noun",
-  "concept": "Contaminant / Agent Present Outside a Stated Expected Condition",
-  "description": "An agent present outside a stated expected condition. A contaminant may turn out harmless or even naturally occurring; the stronger claim of actual impairment belongs to 'pesenu' (pollute), a separate word for a separate finding.",
-  "sound_symbolism": "Light 'hi' enters the narrow hiss and stressed round vowel of 'so' and preserves the complete sound of 'hiso' (clean). 'Phi' changes that settled ending into breath pressed between the lips and released toward bright 'i'. The word begins with a familiar clear condition, then its last syllable becomes newly audible in the air around it.",
-  "grammatical_notes": "A countable or mass noun: 'ha tinoa ha phialu hisophi nai.' (The dye is a contaminant in this water.) Name medium, expected condition, amount, source, and effect separately. Distinct from 'pesenu' (pollute), 'pekira' (toxic), 'whemori' (waste), and a source-specific analyte name.",
+  "search_terms": [
+    "contamination",
+    "foreign agent"
+  ],
+  "description": "A dye in water is 'hisophi' (a contaminant) when it falls outside the sample's stated expected condition. The same relation can hold in a place, body, or process. Its presence may be harmless; 'pesenu' (pollute) makes the stronger claim that surroundings have been impaired. Exact identity, amount, and threshold remain with the source record when those details matter.",
+  "articulatory_notes": "Let unvoiced breath pass freely for 'h' and move into high front 'i'. Bring the tongue near the alveolar ridge for 's', pass unvoiced air through the narrow channel, and round into stressed middle-height 'o'. Bring the lips close without sealing them for 'ph', keep the air unvoiced, and finish with high front 'i'.",
+  "sound_symbolism": "The first two syllables speak 'hiso' (clean) in full before final 'phi' adds another breath and vowel. That audible alteration can help recall a clean condition changed by a newly relevant presence.",
+  "usage_notes": "Before a medium noun, 'hisophi' identifies it by the presence under discussion: 'hisophi phialu' is water with a contaminant. Context may give the agent, expected condition, amount, and observed effect.",
+  "examples": [
+    {
+      "phi": "ha tinoa mua ha phialu hisophi nai.",
+      "translation": "This dye is a contaminant in this water."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Contamination is framed as a conditioned relation to a medium and expectation, not as an inherent essence of a substance or being.",
-    "peace-linguistics-practices": "The definition prevents technical contamination language from becoming a metaphor that dehumanizes outsiders, migrants, cultures, or disliked life."
+    "peace-linguistics-practices": "The technical relation remains tied to a stated medium and condition, which resists turning contamination into a label for people or communities."
   },
   "semantic_domains": {
     "cognition": "an agent classified relative to a stated expected condition",
     "nature": "a material or organism investigated within an environmental medium",
-    "physical": "a substance, organism, or agent present in a sample, place, or process"
+    "physical": "an agent present in a sample, place, body, or process"
   },
   "modules": [
     "ecological-systems-and-material-life",
