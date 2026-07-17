@@ -7,17 +7,29 @@
     "ma"
   ],
   "pos": "noun",
-  "concept": "Scribe / Writer / Recorder",
-  "description": "One who writes or copies documents; a recorder of words. 'Kima' names who makes permanent—hand turning speech into lasting marks.",
-  "sound_symbolism": "The word marks with precision. 'Ki' strikes with precise contact, mark made. 'Ma' grounds with permanent record, writing fixed.",
-  "grammatical_notes": "Role noun: the one who records; pairs with 'thekiro' (write): 'kima lo phelui thekiro.' (The scribe writes the words.) Preserves the words of 'weru' (poet) and 'lophae' (storyteller).",
+  "search_terms": [
+    "copyist",
+    "recording writer",
+    "document writer"
+  ],
+  "description": "A person working as a 'kima' writes or copies records in durable form. A scribe may record another person's words, reproduce an existing document, or maintain an institutional record. 'thekiro' (write) is the broader act.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed high-front unrounded 'i'. Close the lips for voiced nasal 'm' and finish with central 'a'.",
+  "sound_symbolism": "A clean 'k' closure at the back of the mouth opens into narrow 'i', followed by the softer closure of the lips at 'm'. Those two brief contacts can feel like deliberate marks placed one after another.",
+  "usage_notes": "'kima' is the role. When the scribe records someone else's wording, the source of the words and the scribe's own contribution remain distinct. Copying, editing, translating, and composing are separate acts unless the account includes more than one.",
+  "examples": [
+    {
+      "phi": "kima lo phelui thekiro.",
+      "translation": "The scribe writes the words."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Scribe as servant—recording without imposing, preserving without owning.",
-    "pre-industrial-wisdom": "Scribe as preserver—the one who keeps words from being lost to time."
+    "peace-linguistics-practices": "Clear attribution keeps the recorder's authority from being mistaken for the source's own voice. It also makes the scribe's labour visible.",
+    "pre-industrial-wisdom": "Hand copying preserved laws, accounts, stories, and correspondence, with accuracy depending on careful reading and repeated checking."
   },
   "semantic_domains": {
-    "community": "Recording role",
-    "creation": "Written preservation"
+    "communication": "writing or copying another person's words and public records",
+    "community": "a recognised role in keeping durable records",
+    "creation": "the skilled production and reproduction of written documents"
   },
   "modules": [
     "work-craft-and-repair"

@@ -7,16 +7,25 @@
     "lu"
   ],
   "pos": "noun",
-  "concept": "Fish / Water-Dwelling Creature / Finned Being",
-  "description": "An aquatic animal that breathes through gills and moves through water with fins. 'Shalu' names the creatures of rivers, lakes, and seas—beings perfectly adapted to their liquid world, moving with grace through depths humans cannot naturally inhabit.",
-  "sound_symbolism": "The word flows like water. 'Sha' /ʃa/ begins with hushing flow, water moving. Then 'lu' glides with liquid ease, the fish swimming through its element.",
-  "grammatical_notes": "Functions as a noun: 'lo shalu' (fish, plural). A counted fish may take optional living classifier 'lipha': 'wi lipha shalu' (two fish); 'wi shalu' is also grammatical. Can specify habitat: 'luphore shalu' (river fish). Used both for individual fish and as a category.",
+  "search_terms": [
+    "aquatic animal",
+    "finned animal"
+  ],
+  "description": "'shalu' covers fish of rivers, lakes, estuaries, and seas. These aquatic animals usually breathe through gills and move with fins. The noun works for an individual animal or for fish as a broad living category.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and open into stressed central 'a'. Touch the tongue tip to the alveolar ridge for lateral 'l' and finish with high-back rounded 'u'.",
+  "sound_symbolism": "The sustained breath of 'sh' opens into broad 'a', then the tongue settles into lateral 'l' before rounded 'u'. The change from spread breath to a smooth side passage can recall movement through water.",
+  "usage_notes": "Fish take plural 'lo shalu'. A counted fish may take optional living classifier 'lipha', as in 'wi lipha shalu' (two fish), though 'wi shalu' is also grammatical. The object classifier may be used when fish are counted as detached goods rather than living animals. Habitat forms include 'luphore shalu' (river fish).",
+  "examples": [
+    {
+      "phi": "shalu thue phialu wepu.",
+      "translation": "The fish goes through the water."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Fish embody flow and adaptation, moving effortlessly with currents rather than fighting against them.",
-    "pre-industrial-wisdom": "Fish represent the abundance of waters and the mysteries of the deep—beings of an element that sustains yet remains partly unknowable."
+    "pre-industrial-wisdom": "Local fish names carried practical knowledge of species and habitat. Seasonal knowledge added when fish were present. A broad root can be narrowed by species, place, size, or use when the distinction matters."
   },
   "semantic_domains": {
-    "nature": "Aquatic life",
-    "physical": "Water-dwelling creatures"
+    "nature": "aquatic animal life in fresh, brackish, or salt water",
+    "physical": "an animal body typically shaped for movement through water"
   }
 }

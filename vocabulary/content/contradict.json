@@ -8,13 +8,23 @@
     "tu"
   ],
   "pos": "verb",
-  "concept": "Contradict / Be Unable to Hold Together",
-  "description": "For two claims to be unable to be true together, under the same interpretation, time, and conditions. Contradiction is stronger than tension or disagreement, and what looks like a contradiction often dissolves once a word, a time, or a scope gets clarified.",
-  "sound_symbolism": "'Phi' begins with air pressed between the lips and released into bright 'i'. Stress lands on 'ke' with a clean velar closure that interrupts the breath. A second stop arrives in dental 'tu' and falls into deep 'u'; continuous air has given way to two separate contacts, and the clash is audible in the mouth.",
-  "grammatical_notes": "A transitive verb: 'ha sherewa ra sherewa phiketu.' (This claim contradicts that claim.) The event-noun rule supplies a contradiction. Distinct from 'phirae' (different), 'whekai' (contrast), and 'ma nawo' (not agree), none of which requires logical incompatibility.",
+  "search_terms": [
+    "logical incompatibility",
+    "be inconsistent with"
+  ],
+  "description": "One claim 'phiketu' another when both cannot be true under the same interpretation, time, and conditions. This is stronger than difference, contrast, or disagreement. An apparent contradiction may disappear once the speakers clarify a word, time, or scope.",
+  "articulatory_notes": "Bring the lips close together for unvoiced bilabial 'ph' and release the narrow breath into high-front unrounded 'i'. Close the back of the tongue against the soft palate for unvoiced 'k', then open into stressed middle-height front 'e'. Touch the tongue tip to the backs of the upper front teeth for unvoiced dental 't' and finish with high-back rounded 'u'.",
+  "sound_symbolism": "The narrow breath of 'phi' is followed by two clean closures, first at the soft palate and then at the teeth. Each contact interrupts the airflow, giving the word a pair of distinct limits rather than one continuous line.",
+  "usage_notes": "The first claim is the subject and the incompatible claim is the object. The event-noun rule supplies a contradiction. 'phirae' (different), 'whekai' (contrast), and 'ma nawo' (not agree) do not by themselves assert logical incompatibility.",
+  "examples": [
+    {
+      "phi": "ha sherewa ra sherewa phiketu.",
+      "translation": "This claim contradicts that claim."
+    }
+  ],
   "pillars": {
     "secular-buddhist-philosophy": "The explicit context requirement discourages treating statements made under changing conditions as timelessly opposed.",
-    "peace-linguistics-practices": "Contradiction belongs to claims, not people; speakers can investigate incompatible propositions without naming one another as enemies."
+    "peace-linguistics-practices": "Contradiction belongs to claims, not people. Speakers can examine incompatible propositions while remaining in relationship."
   },
   "semantic_domains": {
     "cognition": "logical incompatibility between claims under shared conditions",

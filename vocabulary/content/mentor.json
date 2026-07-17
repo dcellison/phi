@@ -8,17 +8,28 @@
     "she"
   ],
   "pos": "noun",
-  "concept": "Mentor / One Who Illuminates the Path",
-  "description": "A guide who shares wisdom gained through experience, helping others navigate their own journeys. Mentorship in Phi emphasizes mutual learning rather than hierarchical teaching, recognizing that mentor and mentee both grow through their relationship. The mentor illuminates possibilities rather than dictating directions, offering insight while honoring the mentee's autonomy.",
-  "sound_symbolism": "The liquid 'l' of 'lu' opens the word with continuous flow—knowledge passed along, not handed down. 'Mi' adds the nasal warmth of personal contact, and the fricative 'she' closes quietly, a voice that suggests rather than commands.",
-  "grammatical_notes": "Role noun: 'lumishe moloi kulo.' (The mentor guides the apprentice.) Mentoring is guiding and teaching: 'kulo', 'thumela'. Related: thunai (student).",
+  "search_terms": [
+    "experienced guide",
+    "adviser",
+    "learning guide"
+  ],
+  "description": "Within an agreed relationship of continuing guidance, an experienced person is a 'lumishe'. A mentor may demonstrate a method or share perspective from earlier work. Often the useful contribution is simply a good question. The learner still decides what to take up, and the role carries no general authority outside its agreed scope.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for lateral 'l' and release into high-back rounded 'u'. Close the lips for voiced nasal 'm' and open into stressed high-front unrounded 'i'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and finish with middle-height front 'e'.",
+  "sound_symbolism": "The word moves from the open side passage of 'l' to the closed lips of 'm', then ends with a longer breath through 'sh'. It feels conversational: an opening, a pause held in the mouth, and room for an answer.",
+  "usage_notes": "'lumishe' is the continuing role. 'kulo' (guide) and 'thumela' (teach) describe acts a mentor may perform, but either verb can occur without a continuing mentorship. The person receiving guidance may be a 'thunai' (student), 'moloi' (apprentice), colleague, or neighbour.",
+  "examples": [
+    {
+      "phi": "lumishe moloi kulo.",
+      "translation": "The mentor guides the apprentice."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Mentorship embodies the teaching tradition where wisdom passes from experienced to seeking, yet both are transformed in the exchange. This isn't hierarchical transmission but mutual awakening - the mentor sees with fresh eyes through the student's questions while offering the clarity of experience. True mentoring requires letting go of attachment to how the student uses the teaching.",
-    "pre-industrial-wisdom": "Traditional mentorship preserved cultural knowledge through direct relationship - master craftspeople guiding apprentices, elders initiating youth, healers passing plant wisdom to chosen students. This intimate transmission carried not just information but embodied understanding, the thousand subtle lessons that can only be learned through patient observation and practice over time."
+    "secular-buddhist-philosophy": "A mentor can offer experience without fastening the learner to one outcome. Questions and changed circumstances may also revise the mentor's understanding.",
+    "pre-industrial-wisdom": "Direct guidance carries small matters of timing, touch, judgement, and local context that are difficult to preserve in instructions alone."
   },
   "semantic_domains": {
-    "communication": "happens through communication and mutual exchange",
-    "community": "builds knowledge continuity across generations",
-    "wisdom": "core function of sharing insight and understanding"
+    "communication": "continuing guidance through demonstration, questions, and counsel",
+    "community": "an agreed role within a learning relationship",
+    "wisdom": "experience offered for the learner's considered use"
   }
 }

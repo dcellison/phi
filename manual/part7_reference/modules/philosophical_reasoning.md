@@ -36,9 +36,9 @@ The canonical entries for `sherewa`, `thesori`, `remotha`, and `kirema` have no 
 | `natheri` | verb | entail; imply by necessity | Entailment is necessity, stronger than mere support or a chain of causes. |
 | `kithela` | adjective | valid; having premises that entail the conclusion | Validity is a structural fact about the argument's form; the premises can still be false. |
 | `phiketu` | verb | contradict; be unable to be true together under the same conditions | Contradiction is impossibility together, stronger than disagreement or plain difference. |
-| `letharo` | adjective | consistent; able to be true together | Consistency says two claims can coexist; it never says they are true, only that they do not clash. |
+| `letharo` | adjective | consistent; able to be true together | Consistency says two claims can be true together; it never says that either one is actually true. |
 | `phisuwa` | noun | example; a particular illustrating case | The noun names the case itself, where `phisu` is the discourse marker that introduces one aloud. |
-| `phiwheki` | noun | counterexample; a case defeating a general claim | A counterexample defeats a general claim by falling inside its scope and breaking it; a merely surprising case does not. |
+| `phiwheki` | noun | counterexample; a case showing a general claim false as stated | A counterexample falls inside a general claim's scope and lacks the property assigned to every case; a merely surprising case does not. |
 | `whekate` | verb | refute; show that a claim or inference fails | Refuting takes real work: an objection or a disagreement alone does not amount to a refutation. |
 | `kirothe` | verb | define; state meaning or conditions of application | Defining draws a boundary of application, narrower than describing or simply clarifying. |
 | `remole` | noun | concept; an organized idea | A concept stands apart from the word that names it, the symbol that points to it, and any one example used to illustrate it. |
@@ -121,7 +121,7 @@ PL claim consistent be.
 (The claims are consistent.)
 ```
 
-A `phiwheki` is a case that falls inside a general claim's own scope and breaks it, which is exactly what lets it `whekate` the claim as stated.
+Suppose a claim says that every seed in one jar is red. A pale seed from that jar is a `phiwheki`; a pale seed from somewhere else tells us nothing about the claim. The first seed lets us `whekate` the claim as stated.
 
 ```
 ha phiwheki ra sherewa whekate.

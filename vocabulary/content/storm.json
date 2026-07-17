@@ -8,16 +8,26 @@
     "sha"
   ],
   "pos": "noun",
-  "concept": "Storm / Tempest / Weather's Power",
-  "description": "A violent disturbance of atmosphere with strong winds, rain, thunder, or snow. 'Kurisha' names the sky's release of gathered power—when weather speaks loudly, transforming and cleansing through dramatic force.",
-  "sound_symbolism": "The word gathers and releases. 'Ku' begins with sudden velar force, power building. Then 'ri' rushes forward, wind and rain driving. Finally 'sha' /ʃa/ releases in sweeping sound, the storm passing through.",
-  "grammatical_notes": "Noun: 'lo kurisha' (storms). A counted storm may take optional event classifier 'nophe', not object classifier 'themo'; the classifier may also be omitted. Storms come and pass: 'kurisha shua.' (The storm comes.) Combines 'howeli' (wind) and 'pheralu' (rain) at full force; often a metaphor for emotional or social upheaval.",
+  "search_terms": [
+    "tempest",
+    "intense weather",
+    "severe weather"
+  ],
+  "description": "When a period of weather brings unusually strong wind, heavy rain or snow, thunder, hail, or several of these together, it is a 'kurisha'. The word describes the weather event itself. Damage and danger are stated separately when they occur.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-back rounded 'u'. Tap or briefly trill the tongue tip at the alveolar ridge for 'r', opening into stressed high-front unrounded 'i'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and finish with central 'a'.",
+  "sound_symbolism": "The back closure of 'k' releases into rounded 'u', a brief 'r' contact marks the middle, and final 'sh' lets a longer breath pass before open 'a'. Compact contacts give way to a broad wash of air.",
+  "usage_notes": "The plural is 'lo kurisha'. A numbered storm can carry optional event classifier 'nophe', though the classifier may also be omitted. 'howenu' is weather in general, while 'howeli' (wind), 'pheralu' (rain), and other words identify what the storm contains.",
+  "examples": [
+    {
+      "phi": "kurisha shua.",
+      "translation": "The storm comes."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Storms teach equanimity—like difficult emotions, they arise, peak, and pass. Resisting prolongs suffering; allowing brings peace.",
-    "pre-industrial-wisdom": "Traditional cultures respected storms as necessary forces—cleansing the air, filling the waters, reminding humans of nature's power beyond control."
+    "pre-industrial-wisdom": "Cloud shape, air pressure, and wind shifts gave communities warning before intense weather. Animal behaviour and seasonal memory added other local signs. Together, they left time to prepare shelter, boats, crops, and stores."
   },
   "semantic_domains": {
-    "nature": "Violent weather",
-    "temporal": "Transformative force"
+    "nature": "an unusually intense weather event",
+    "temporal": "a bounded period of strong atmospheric conditions"
   }
 }

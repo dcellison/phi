@@ -8,17 +8,27 @@
     "lu"
   ],
   "pos": "noun",
-  "concept": "Water / Life-flow / Essential fluid",
-  "description": "The fundamental liquid that sustains all life, flowing through bodies, landscapes, and cycles of renewal. More than a mere substance, 'water' in Phi represents the principle of flow, adaptation, and connection—the medium through which life moves and transforms. It embodies both gentleness and power, clarity and depth, teaching through its very nature the wisdom of finding the path of least resistance while gradually shaping even the hardest stone.",
-  "sound_symbolism": "The word begins with 'phi', where the breathy fricative 'φ' captures water's most contemplative aspect—reflection, depth, the philosophical element that teaches through its nature—meeting 'i', the bright vowel of clarity and awareness. This flows through vowel hiatus into 'a', creating a pause like water finding its level, then continues to 'lu', where the liquid 'l' flows into 'u', the deep pooling vowel. Together, 'phialu' creates water's full journey: thoughtful beginning ('phi'), essential presence ('a'), flowing depth ('lu')—capturing water as both physical substance and philosophical teacher.",
-  "grammatical_notes": "Functions as a mass noun, typically uncountable but able to take quantifiers: 'sheloi phialu' (much water). For specific quantities, use container nouns: 'ta lopha phialu' (one vessel of water). The verb sense 'to water/irrigate' is expressed compositionally with the verb last: 'phialu loa' (give water). Often appears with locative prepositions describing where water is, flows, or gathers.",
+  "search_terms": [
+    "H2O",
+    "fresh water",
+    "water substance"
+  ],
+  "description": "'phialu' is water as a substance: the liquid in a cup or river, and the water moving through clouds, plants, and bodies. Salinity, cleanliness, and fitness for drinking are separate properties. 'larewu' includes liquids of every kind.",
+  "articulatory_notes": "Bring the lips close together for unvoiced bilabial 'ph' and release the narrow breath into high-front unrounded 'i'. Keep the vowel stream open across the syllable boundary and lower the tongue into stressed central 'a'. Touch the tongue tip to the alveolar ridge for lateral 'l' and finish with high-back rounded 'u'.",
+  "sound_symbolism": "Narrow breath opens into bright 'i', crosses the audible space before stressed 'a', then passes beside the tongue into rounded 'u'. The uninterrupted change of vowels and the lateral release give the word a liquid continuity.",
+  "usage_notes": "'phialu' usually behaves as a mass noun and can take quantifiers such as 'sheloi phialu' (much water). Specific amounts commonly use a container noun: 'ta lopha phialu' (one vessel of water). Watering or irrigation is expressed compositionally as 'phialu loa' (give water).",
+  "examples": [
+    {
+      "phi": "misheko phialu to milau.",
+      "translation": "The cat drank water."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Water represents the cycles and systems that sustainable futures must honor—rainfall, watersheds, aquifers, the water within our bodies. 'Phialu' embodies the solarpunk understanding that water cannot be commodified without destroying its nature, that healthy water systems are the foundation of regenerative communities.",
-    "secular-buddhist-philosophy": "Water appears throughout Buddhist teaching as the perfect metaphor for the nature of mind and reality—flowing, adapting, reflecting, never grasping. Like consciousness itself, water takes the shape of its container while maintaining its essential nature. 'Phialu' carries these teachings of impermanence and flow.",
-    "pre-industrial-wisdom": "Water is the first teacher of flow, persistence, and adaptation. Traditional societies understood water as sacred—not owned but stewarded, not conquered but respected. 'Phialu' carries this ancient recognition that water is life's foundation, teaching through its very behavior how to be gentle yet powerful, yielding yet persistent, finding the way forward without force."
+    "solarpunk-values": "Water links a household cup to the local watershed. Rainfall, soil, farms, and wetlands all enter that relation. Plain description lets a community ask who has access, what has been contaminated, and what must be restored.",
+    "pre-industrial-wisdom": "Wells, cisterns, and channels required close local knowledge and continuing care. So did seasonal flows and signs of unsafe water."
   },
   "semantic_domains": {
-    "nature": "fundamental natural element essential to all ecosystems and life",
-    "physical": "tangible substance that can be directly experienced"
+    "nature": "water across weather, waterways, soils, and living bodies",
+    "physical": "a particular liquid substance"
   }
 }

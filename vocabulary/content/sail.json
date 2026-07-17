@@ -7,16 +7,27 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Sail / Wind-Catching Cloth / To Travel by Wind",
-  "description": "Cloth spread to catch wind for propelling a vessel; to travel using wind power. 'Phora' names what catches breath—fabric that transforms wind into journey.",
-  "sound_symbolism": "The word breathes wind. 'Pho' /ɸo/ fills with gentle breath, sail billowing. Then 'ra' reaches forward, vessel moving with wind.",
-  "grammatical_notes": "Noun: 'phora' (the sail) - ancient renewable energy, wind becoming motion. Sailing goes by verbs: 'mia roe phora wepu.' (I travel by sail.)",
+  "search_terms": [
+    "wind-catching cloth",
+    "sailing equipment"
+  ],
+  "description": "A cloth or other flexible surface is a 'phora' when it is set to receive wind and move a vessel. The noun is the equipment, not the journey or the act of travelling.",
+  "articulatory_notes": "Bring the lips close together for unvoiced bilabial 'ph' and release the narrow breath into stressed middle-height back rounded 'o'. Tap or briefly trill the tongue tip at the alveolar ridge for 'r', then open into final central 'a'.",
+  "sound_symbolism": "Air passes between the lips in 'ph' and rounds into 'o' before the tongue gives one quick tap and the mouth opens at 'a'. The breath and widening release suit a surface filling with wind.",
+  "usage_notes": "Travel by sail uses instrumental 'roe': 'mia roe phora wepu' (I travel by sail). The wind itself is 'howeli'; surrounding clauses can describe setting, lowering, mending, or turning the sail.",
+  "examples": [
+    {
+      "phi": "mia roe phora wepu.",
+      "translation": "I travel by sail."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Moving with forces—the sail doesn't fight wind but uses it, cooperation with nature.",
-    "pre-industrial-wisdom": "Sails carried civilization—trade, exploration, migration, all powered by patient wind."
+    "solarpunk-values": "A sail makes wind part of low-energy transport, though the vessel's materials, route, and purpose still shape its ecological account.",
+    "pre-industrial-wisdom": "Sailmaking joins knowledge of cloth and rigging. Sailing adds weather and current; both depend on repeated repair."
   },
   "semantic_domains": {
-    "creation": "Wind catcher",
-    "nature": "Natural power"
+    "activity": "equipment used in travel by wind",
+    "creation": "a made flexible surface shaped and rigged to receive wind",
+    "physical": "cloth or another surface placed in moving air"
   }
 }

@@ -2,13 +2,15 @@
 
 **Audit date:** 17 July 2026
 
+**Follow-up completed:** 17 July 2026
+
 ## Purpose and conclusion
 
 This audit asks whether Phi's current vocabulary makes violence, domination, humiliation, or combat-shaped thought ordinary in the language. It covers all 1,221 current lexicon entries and excludes `archive/`. The result is mostly reassuring. No entry gives Phi a direct root for generic conflict, organised violence, a violent role, or a weapon. Phi is much more at home with consent, care, accountability, and repair.
 
 The audit found one recent lexical concern. `patore`, glossed *hit*, entered the base vocabulary on 17 July 2026 in commit `6ef76685`, merged through PR #404. It never entered authored Phi or a registered compound. Its nonviolent uses divide cleanly among forceful contact, displacement, damage, injury, and rhythmic hand contact, so the broad root is retired rather than narrowed.
 
-The larger weakness is in English lexicon prose, especially older entries. A small group describes reasoning through victory, defeat, attack, or defence, and several inherited craft entries still speak of masters and servants. Those words are not Phi roots, but they teach speakers how Phi's concepts are imagined. They belong in the legacy prose migration, where they can be removed without changing the lexicon.
+Most of the trouble found by the audit lay in older English lexicon prose. A small group described reasoning through victory, defeat, attack, or defence, while several craft entries still spoke of masters and servants. The follow-up migration has replaced those frames without changing a Phi root.
 
 ## Standard used
 
@@ -41,7 +43,7 @@ Every flagged entry then received a manual semantic reading. Git history supplie
 
 The distinction between harm-reporting words and violence-normalising words is not cosmetic. Without `kawhera`, polite coercion becomes harder to expose. Without `whepelo`, an institution can present reprisal as an unrelated inconvenience. Without `kaworu`, a person loses a direct way to report bodily injury. These words earn their place because they make power and effect more visible.
 
-The governance terms pass for the same reason, although `nashaku` contains one sentence that should change during prose migration. Its peace-linguistics note calls it a "neutral enforcement word." The entry itself does not treat enforcement as neutral, and neither should the note. The useful claim is that an explicit verb reveals the enforcing actor and method.
+The governance terms pass for the same reason. Before the follow-up migration, `nashaku` contained a peace-linguistics note calling it a "neutral enforcement word." The revised entry now identifies enforcement as action under claimed authority, requires the actor and method to remain visible, and uses `kawhera` when power or threat narrows practical choice.
 
 ## History of the flagged vocabulary
 
@@ -50,7 +52,7 @@ The governance terms pass for the same reason, although `nashaku` contains one s
 | `patore` hit, `lerasu` cruel, `tisharu` puncture | Added together in commit `6ef76685` on 17 July 2026 and merged through PR #404 | `patore` is retired after the separate ruling below. The other two name ethical conduct and an ordinary physical process. |
 | `kawhera` coerce and `whepelo` retaliate | Added to Commons in commit `d479c6c1` on 10 July, promoted to base vocabulary in `194b2bcd` on 12 July, and migrated to the target prose contract in `b44aebae` on 16 July | Keep. Their move to base made consent and institutional reprisal easier to discuss across domains; it did not broaden either word into a generic violence verb. |
 | Commons power terms | `karami`, `nasholu`, `nashaku`, `norulo`, and `phenori` entered with the Commons module in `d479c6c1` | Keep in the module. Their definitions treat authority and ownership as claims that can be contested. |
-| `tiwa` tie and `kawepa` catch | Added in the owner-approved core verb batch `c413061f` on 4 July | Keep, then tighten their person-directed wording during prose migration. They predate the recent recovery batch. |
+| `tiwa` tie and `kawepa` catch | Added in the owner-approved core verb batch `c413061f` on 4 July | Kept and tightened. `tiwa` now requires consent or coercion to be stated when a person is restrained; `kawepa` focuses on physical interception and support rather than social capture. |
 
 ## Resolved lexical ruling
 
@@ -88,33 +90,33 @@ Retire `patore`. Its legitimate uses do not form one Phi concept that earns the 
 
 The canonical entry is removed and `patore` is added to the short retired-form list, which prevents lexical reassignment while leaving the form eligible as an onym. `CV-HIT-01` now records the declined root, `CV-HIT-02` records the compositional result, and `CV-APPLAUSE-01` carries the rhythmic hand-contact expression. Generated lexicon references are rebuilt from the smaller inventory. D030 remains an accurate record of introduction; D033 records its partial supersession.
 
-## Entries requiring a later prose ruling
+## Resolved prose rulings
 
 ### `tiwa` (tie) and `kawepa` (catch)
 
-These older verbs have legitimate daily uses, but their prose reaches close to captivity. `tiwa` currently lists a person among the things that may be tied. `kawepa` says that catching brings a moving person or thing under immediate control. Neither root means capture or imprisonment, and `tiwa` has been used deliberately in the Ring Verse refusal to make imposed physical fastening uncomfortable rather than relational.
+These older verbs have legitimate daily uses, but their former prose reached close to captivity. `tiwa` listed a person among the things that may be tied. `kawepa` said that catching brought a moving person or thing under immediate control. Neither root means capture or imprisonment, and `tiwa` has been used deliberately in the Ring Verse refusal to make imposed physical fastening uncomfortable rather than relational.
 
-Both words should remain. During their prose migration, `tiwa` should keep cordwork at its centre and make consent or coercion explicit when a person is physically restrained. `kawepa` should describe stopping or supporting motion without borrowing the social sense of capturing a person. That repair would protect the useful physical meanings without pretending that restraint cannot be reported.
+Both words remain. Cordwork stays at the centre of `tiwa`, with consent or coercion part of the account when a person is physically restrained. `kawepa` describes meeting a moving body or object to stop or support its motion; custody and confinement require separate claims.
 
 ### `thema` (guardian)
 
-The root is usable, but its inherited entry does not speak in Phi's present voice. It describes people who cannot protect themselves, then builds a heroic contrast among wisdom, weapons, walls, strength, force, and a warrior archetype. The result is paternalistic even while trying to reject violence. A later target-schema migration should define the actual relationship, who recognises it, and the protected person's agency. The martial scenery can go.
+The inherited entry described people who could not protect themselves, then surrounded guardianship with heroic and martial scenery. Its replacement defines guardianship as entrusted protective care, limits the role's authority, and leaves the protected person's agency explicit. `shorupo` is now the act of protection, while `theluo` covers stewardship of shared resources and community life.
 
 ## Combat and hierarchy in the English prose
 
-Twenty-seven entries contain at least one direct combat or violence word somewhere in their English fields. Fourteen use such a word literally to establish a useful boundary. `arm` and `knife`, for example, state that their Phi senses do not include weapons. `brave`, `courage`, and `bold` separate difficult truthful action from aggression. `peace` has to mention violence in order to define the condition. Those references are doing honest semantic work.
+At the time of audit, twenty-seven entries contained at least one direct combat or violence word somewhere in their English fields. Fourteen used such a word literally to establish a useful boundary. `arm` and `knife`, for example, state that their Phi senses do not include weapons. `brave`, `courage`, and `bold` separate difficult truthful action from aggression. `peace` has to mention violence in order to define the condition. Those references still do honest semantic work.
 
-Thirteen entries use combat language as metaphor, inherited scenery, or an unnecessary contrast. Their roots are not the problem. Their prose is.
+The remaining thirteen used combat language as metaphor, inherited scenery, or an unnecessary contrast. Their roots were not the problem. Their prose has now been replaced.
 
-| Area | Entries | Current framing to remove |
+| Area | Entries | Earlier framing removed |
 |---|---|---|
 | Philosophical reasoning | `claim`, `contradict`, `counterexample`, `dialogue`, `refute`, `retract` | A claim is defended, a counterexample defeats or targets it, speakers become enemies, dialogue rejects victory, refutation becomes attack, and revision becomes defeat. Claims can instead be supported, tested, found incompatible, revised, or shown false. |
 | Nature and physical description | `fish`, `sail`, `water`, `height`, `storm` | Fish and sails fight forces, water is unconquered, high ground belongs to defence, and weather is violent. The physical actions are already available without importing combat. |
 | Roles and values | `guardian`, `truth` | The guardian is explained against weapons and warriors, while truth becomes a weapon that should instead be a bridge. Direct definitions would carry both entries more cleanly. |
 
-Hierarchy enters another legacy cluster. `apprentice`, `guild`, `mentor`, `student`, and `workshop` refer to masters or master craftspeople. `scribe` is called a servant. `steward` rejects masters but still uses the term as its contrast. Phi has already refused a master role in its own vocabulary. These inherited English fields should speak instead of experienced craftspeople, learners, recorders, and caretakers, with authority and consent stated where they matter.
+Hierarchy entered another legacy cluster. `apprentice`, `mentor`, and `student` referred to masters or master craftspeople; `guild` and `workshop` repeated the same frame. `scribe` was called a servant. `steward` rejected masters but still used the term as its contrast. The revised entries now speak of experienced practitioners and learners, along with recorders and accountable caretakers. Authority, membership, and consent are stated where they matter.
 
-Several old `sound_symbolism` fields also reach automatically for striking, force, command, and binding. Most describe the feel of stops or tools rather than violence, so they do not change a word's meaning. They still belong in the planned legacy vocabulary prose audit. Embodied phonesthetics can describe the mouth without making every firm consonant throw a punch.
+Several old `sound_symbolism` fields elsewhere in the lexicon still reach automatically for striking, force, command, and binding. The entries in this audit's repair set now use embodied phonesthetics. Their descriptions follow lip, tongue, and breath through closure and release. The broader legacy vocabulary prose audit should apply the same standard.
 
 ## Decision register repair
 
@@ -134,8 +136,10 @@ The neighbouring `CV-AIM-01` remains open, but its wording now asks only about p
 4. Keep exact source terms outside Phi when the source wording is itself the fact being preserved. Translation and description may still state what happened.
 5. Check every English field for combat metaphors. A peaceful root taught through attack, victory, conquest, or defence still carries the unwanted frame into the language's habits.
 
-## Recommended order of follow-up
+## Follow-up completed
 
-With `CV-HIT-02` settled, the target-schema migration can tighten `tiwa`, `kawepa`, `thema`, and the note for `nashaku`. The thirteen combat-metaphor entries and seven hierarchy entries fit naturally into the wider legacy vocabulary prose audit already planned. No other current root requires retirement on the evidence found here.
+1. `tiwa`, `kawepa`, `thema`, and `nashaku` now state their physical or institutional scope directly. Their entries also make agency, consent, and coercion visible.
+2. The thirteen combat-metaphor entries now describe logical relations and physical properties without importing victory or martial scenery. Their accounts of weather, care, and truth are direct as well.
+3. The seven hierarchy entries now define learning, craft association, record-keeping, and stewardship without master or servant framing.
 
-Phi has not quietly acquired a vocabulary of war. Its one new general force verb had no corpus life and is now retired. What remains is less dramatic and more laborious: old metaphors in old prose, ready for the vocabulary audit that was already waiting.
+Phi has not quietly acquired a vocabulary of war. Its one new general impact verb had no corpus life and is now retired. This follow-up also clears the old metaphors identified by the audit; the wider prose migration remains responsible for finding the same habits elsewhere.
