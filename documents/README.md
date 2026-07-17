@@ -32,6 +32,7 @@ The [grammar index](grammar/) leads to the authoritative machinery references an
 | [Active text corpus review](evaluation/active_text_corpus_review.md) | Review method, completed decisions, narrow dependency repairs, and status for each work on the literary shelf. |
 | [Lexicon expansion survey](evaluation/lexicon_expansion_survey.md) | Current vocabulary coverage review and corpus-led admission priorities. |
 | [Content vocabulary scenario tests](evaluation/content_vocabulary_scenario_tests.md) | Practical tests for unresolved content distinctions before a decision to compose, coin, or defer them. |
+| [Peace linguistics vocabulary audit](evaluation/peace_linguistics_vocabulary_audit.md) | Full-lexicon review of violent vocabulary, harm-reporting language, combat metaphors, institutional power terms, and follow-up boundaries. |
 | [Work, Craft, and Repair vocabulary audit](evaluation/work_craft_repair_vocabulary_audit.md) | Before-state review of concrete craft coverage, work relations, semantic pressure, and source-material handling. |
 | [Philosophical capability matrix](evaluation/philosophical_capability_matrix.md) | Operation-level classification of demonstrated abilities, compositions, source-material bridges, and gaps. |
 | [Philosophical test corpus](evaluation/philosophical_test_corpus.md) | Validated regression dialogues and gap logs for the established profile domains. |

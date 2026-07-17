@@ -29,7 +29,7 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Sensory and perceptual qualities](#sensory-and-perceptual-qualities) | complete | closed | 2 |
 | [Aesthetic and formal qualities](#aesthetic-and-formal-qualities) | complete | open | 5 |
 | [Awareness and epistemic qualities](#awareness-and-epistemic-qualities) | complete | closed | 0 |
-| [Ethics, care, and candour](#ethics-care-and-candour) | complete | open | 2 |
+| [Ethics, care, and candour](#ethics-care-and-candour) | complete | closed | 2 |
 | [Core emotion inventory](#core-emotion-inventory) | complete | open | 1 |
 | [Affective response, anticipation, and resolve](#affective-response-anticipation-and-resolve) | complete | open | 2 |
 | [Social relation, standing, and personal boundaries](#social-relation-standing-and-personal-boundaries) | complete | closed | 0 |
@@ -53,14 +53,14 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Manner, trajectory, and extended movement](#manner-trajectory-and-extended-movement) | complete | closed | 0 |
 | [Posture, rest, waiting, and residence](#posture-rest-waiting-and-residence) | complete | closed | 0 |
 | [Breath, intake, and expulsion](#breath-intake-and-expulsion) | complete | closed | 3 |
-| [Contact, force, and placement](#contact-force-and-placement) | complete | open | 2 |
+| [Contact, force, and placement](#contact-force-and-placement) | complete | open | 3 |
 | [Material change, making, and joining](#material-change-making-and-joining) | complete | closed | 3 |
 | [Change, continuity, repair, and renewal](#change-continuity-repair-and-renewal) | complete | closed | 2 |
 | [Life, growth, cultivation, and flourishing](#life-growth-cultivation-and-flourishing) | complete | closed | 4 |
 | [Care, affection, regard, and relational repair](#care-affection-regard-and-relational-repair) | complete | closed | 0 |
 | [Learning, practice, guidance, and sustained effort](#learning-practice-guidance-and-sustained-effort) | complete | closed | 2 |
 | [Measurement, comparison, meaning, and record](#measurement-comparison-meaning-and-record) | complete | open | 2 |
-| [Ritual, play, and expressive response](#ritual-play-and-expressive-response) | complete | closed | 2 |
+| [Ritual, play, and expressive response](#ritual-play-and-expressive-response) | complete | open | 3 |
 | [Relation, boundaries, and remaining practical acts](#relation-boundaries-and-remaining-practical-acts) | complete | open | 1 |
 | [Personhood, generations, kinship, and social belonging](#personhood-generations-kinship-and-social-belonging) | complete | open | 1 |
 | [Body, anatomy, and bodily condition](#body-anatomy-and-bodily-condition) | complete | closed | 10 |
@@ -130,7 +130,7 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
 | `CV-ETH-01` | cruel conduct and cruelty | Implemented | base | Words: `lerasu`. The adjective judges knowingly or callously caused avoidable suffering without declaring a permanent kind of person. |
-| `CV-CONFLICT-01` | conflict, violence, fighting, attack, defence, hunting, and killing | Open | base and a possible Conflict, Mediation, and Accountability module | Which event distinctions must be ordinary base vocabulary, and which need a sensitive module that does not make reconciliation the assumed outcome? Phi's stand against violence in speech requires precise ways to report violence, protection, and responsibility rather than silence or euphemism. |
+| `CV-CONFLICT-01` | generic conflict and direct roots for violence, fighting, attack, defence, hunting, and killing | Declined | no lexical placement | Do not coin these roots in base vocabulary or a module. Describe mechanisms and effects with established Phi words, and preserve exact violent terminology beside Phi when faithful source wording is required. Phi refuses to make violent acts and roles ordinary vocabulary while retaining direct ways to name danger, harm, injury, coercion, protection, testimony, responsibility, redress, and repair. |
 
 ## Core emotion inventory
 
@@ -262,7 +262,8 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
 | `CV-HIT-01` | brief physical impact | Implemented | base | Words: `patore`. The verb reports impact before the sentence decides intent, injury, or damage. |
-| `CV-AIM-01` | aim and target | Open | base or Work | Does Phi need a neutral aiming verb, a target noun, or a transparent construction that keeps purpose and physical alignment separate? Direction, intention, throwing, and a destination can approximate this relation but do not name alignment towards a selected point or object. |
+| `CV-HIT-02` | peace-linguistic scope and retention of patore | Open | base or retired vocabulary | Do the nonviolent impact uses justify a general root with that broader reach, or should patore be narrowed or retired? The current root supports accidental impact, tool contact, and applause, but its unmarked scope also permits deliberate interpersonal hitting. |
+| `CV-AIM-01` | physical alignment towards a selected point or object | Open | Work or a transparent construction | Does craft or measurement need a distinct physical-alignment relation, or do direction, orientation, and purpose already cover the legitimate uses? Direction and intention approach this relation without importing the combat-shaped English extensions of aim and target. |
 
 ## Material change, making, and joining
 
@@ -311,6 +312,7 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
 | `CV-HIT-01` | brief physical impact | Implemented | base | See the complete decision under [Contact, force, and placement](#contact-force-and-placement). |
+| `CV-HIT-02` | peace-linguistic scope and retention of patore | Open | base or retired vocabulary | See the complete decision under [Contact, force, and placement](#contact-force-and-placement). |
 | `CV-APPLAUSE-01` | applause | Compositional | base expression | `manuwe patore`, `woraka`, `pharuki`, `nomela`. Repeated hand impacts name the physical act; appreciation, celebration, or encouragement states what the act is doing in that gathering. |
 
 ## Relation, boundaries, and remaining practical acts
@@ -355,12 +357,12 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | `CV-AEST-03` | style and characteristic aesthetic form | Open | base, Work, or art vocabulary | See the complete decision under [Aesthetic and formal qualities](#aesthetic-and-formal-qualities). |
 | `CV-SHAPE-01` | straight as an ordinary shape quality | Implemented | base | See the complete decision under [Aesthetic and formal qualities](#aesthetic-and-formal-qualities). |
 | `CV-SHAPE-02` | round as an ordinary shape quality | Compositional | base expression | See the complete decision under [Aesthetic and formal qualities](#aesthetic-and-formal-qualities). |
-| `CV-CONFLICT-01` | conflict, violence, fighting, attack, defence, hunting, and killing | Open | base and a possible Conflict, Mediation, and Accountability module | See the complete decision under [Ethics, care, and candour](#ethics-care-and-candour). |
+| `CV-CONFLICT-01` | generic conflict and direct roots for violence, fighting, attack, defence, hunting, and killing | Declined | no lexical placement | See the complete decision under [Ethics, care, and candour](#ethics-care-and-candour). |
 | `CV-AFFECT-02` | guilt, anxiety, disgust, excitement, relief, frustration, and boredom | Open | base or later affective vocabulary | See the complete decision under [Core emotion inventory](#core-emotion-inventory). |
 | `CV-CLEAN-01` | dirty, contaminated, spoiled, and rotten | Open | base, Household, Ecological, or Medical | See the complete decision under [Cultivation, abundance, and wildness](#cultivation-abundance-and-wildness). |
 | `CV-LOSE-01` | lose and misplace a thing | Open | base | See the complete decision under [Knowledge, understanding, belief, and memory](#knowledge-understanding-belief-and-memory). |
 | `CV-INTAKE-01` | lick and suck | Implemented | base | See the complete decision under [Breath, intake, and expulsion](#breath-intake-and-expulsion). |
-| `CV-AIM-01` | aim and target | Open | base or Work | See the complete decision under [Contact, force, and placement](#contact-force-and-placement). |
+| `CV-AIM-01` | physical alignment towards a selected point or object | Open | Work or a transparent construction | See the complete decision under [Contact, force, and placement](#contact-force-and-placement). |
 | `CV-SWELL-01` | swell and shrink | Implemented | base | See the complete decision under [Change, continuity, repair, and renewal](#change-continuity-repair-and-renewal). |
 | `CV-COVER-01` | cover and uncover | Open | base or Household | See the complete decision under [Relation, boundaries, and remaining practical acts](#relation-boundaries-and-remaining-practical-acts). |
 | `CV-BODY-07` | mucus, body fat, and flesh | Implemented | base | See the complete decision under [Body, anatomy, and bodily condition](#body-anatomy-and-bodily-condition). |

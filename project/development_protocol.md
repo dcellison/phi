@@ -69,6 +69,7 @@ A new word records a pillar only when its connection is direct and specific. A w
 ### Semantic Principles
 - [ ] **Keep the core value-explicit**: Record what a choice favors, what it makes difficult, and whose needs it may fail to serve
 - [ ] **Analyze violence and domination without normalizing them**: Prefer Phi descriptions when they expose a mechanism; preserve source testimony separately when faithful wording is required
+- [ ] **Keep the peace-linguistic refusal explicit**: Do not coin generic conflict or direct roots centred on violence, fighting, attack, defence, hunting, killing, weapons, enemies, or war; retain words that support care, consent, warning, testimony, accountability, protection, redress, and repair
 - [ ] **Prefer holistic concepts**: Combine rather than separate (e.g., womu = house+belonging, the dwelling-heart)
 - [ ] **Use compositional strategies**: Build complex ideas from simple roots
 - [ ] **Enable transmutation**: Concepts should reframe, not just translate (rebuild ideas from ground up using Phi concepts)
