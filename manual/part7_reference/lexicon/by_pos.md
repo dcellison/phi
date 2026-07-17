@@ -941,7 +941,7 @@
 | `theula` | UNIV |
 | `wheli` | ANY |
 
-## verb (353)
+## verb (352)
 
 | Word | Gloss |
 |---|---|
@@ -1079,7 +1079,6 @@
 | `nuola` | eat |
 | `palo` | touch |
 | `panoru` | support |
-| `patore` | hit |
 | `pawela` | participate |
 | `peki` | squeeze |
 | `perawi` | expose |

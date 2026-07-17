@@ -4,9 +4,9 @@
 
 ## Purpose and conclusion
 
-This audit asks whether Phi's current vocabulary makes violence, domination, humiliation, or combat-shaped thought ordinary in the language. It covers all 1,222 current lexicon entries and excludes `archive/`. The result is mostly reassuring. No entry gives Phi a direct root for generic conflict, organised violence, a violent role, or a weapon. Phi is much more at home with consent, care, accountability, and repair.
+This audit asks whether Phi's current vocabulary makes violence, domination, humiliation, or combat-shaped thought ordinary in the language. It covers all 1,221 current lexicon entries and excludes `archive/`. The result is mostly reassuring. No entry gives Phi a direct root for generic conflict, organised violence, a violent role, or a weapon. Phi is much more at home with consent, care, accountability, and repair.
 
-One recent word does need a fresh ruling. `patore`, glossed *hit*, entered the base vocabulary on 17 July 2026 in commit `6ef76685`, merged through PR #404. It is defined as a brief forceful impact whose intent and harm remain open. That is careful semantics, but its broad range also gives Phi an unmarked verb for one person hitting another. I cannot clear it merely because its example is a stone striking a floor. My recommendation is to review `patore` in a separate breaking-change decision and retire the broad sense unless its nonviolent uses justify the cost. If it stays, its centre should be physical impact, with deliberate interpersonal blows kept outside the unmarked sense.
+The audit found one recent lexical concern. `patore`, glossed *hit*, entered the base vocabulary on 17 July 2026 in commit `6ef76685`, merged through PR #404. It never entered authored Phi or a registered compound. Its nonviolent uses divide cleanly among forceful contact, displacement, damage, injury, and rhythmic hand contact, so the broad root is retired rather than narrowed.
 
 The larger weakness is in English lexicon prose, especially older entries. A small group describes reasoning through victory, defeat, attack, or defence, and several inherited craft entries still speak of masters and servants. Those words are not Phi roots, but they teach speakers how Phi's concepts are imagined. They belong in the legacy prose migration, where they can be removed without changing the lexicon.
 
@@ -22,7 +22,7 @@ This produces a workable boundary. Phi can name a harmful effect or expose the m
 
 ## Method
 
-The repository contains 1,222 lexicon entries: 1,092 content words, 110 function words, and 20 interjections. I searched every string field in every current vocabulary JSON file: glosses, search terms, descriptions, usage notes, examples, semantic domains, sound symbolism, and pillar notes. The first pass looked for direct violent and domination vocabulary. A second pass looked for ordinary physical actions that can be used violently. A third examined pejorative person labels, combat metaphors, command and hierarchy language, and terms used to report coercion or institutional harm.
+The repository contains 1,221 lexicon entries: 1,091 content words, 110 function words, and 20 interjections. I searched every string field in every current vocabulary JSON file: glosses, search terms, descriptions, usage notes, examples, semantic domains, sound symbolism, and pillar notes. The first pass looked for direct violent and domination vocabulary. A second pass looked for ordinary physical actions that can be used violently. A third examined pejorative person labels, combat metaphors, command and hierarchy language, and terms used to report coercion or institutional harm.
 
 Every flagged entry then received a manual semantic reading. Git history supplied the introduction date and later scope changes for the words most likely to have entered through the recent coverage work. Generated references were not counted as independent lexical evidence because they repeat the canonical JSON.
 
@@ -47,18 +47,48 @@ The governance terms pass for the same reason, although `nashaku` contains one s
 
 | Entry or cluster | Introduction and later history | Finding |
 |---|---|---|
-| `patore` hit, `lerasu` cruel, `tisharu` puncture | Added together in commit `6ef76685` on 17 July 2026 and merged through PR #404 | Only `patore` needs a new peace-linguistic ruling. The other two name ethical conduct and an ordinary physical process. |
+| `patore` hit, `lerasu` cruel, `tisharu` puncture | Added together in commit `6ef76685` on 17 July 2026 and merged through PR #404 | `patore` is retired after the separate ruling below. The other two name ethical conduct and an ordinary physical process. |
 | `kawhera` coerce and `whepelo` retaliate | Added to Commons in commit `d479c6c1` on 10 July, promoted to base vocabulary in `194b2bcd` on 12 July, and migrated to the target prose contract in `b44aebae` on 16 July | Keep. Their move to base made consent and institutional reprisal easier to discuss across domains; it did not broaden either word into a generic violence verb. |
 | Commons power terms | `karami`, `nasholu`, `nashaku`, `norulo`, and `phenori` entered with the Commons module in `d479c6c1` | Keep in the module. Their definitions treat authority and ownership as claims that can be contested. |
 | `tiwa` tie and `kawepa` catch | Added in the owner-approved core verb batch `c413061f` on 4 July | Keep, then tighten their person-directed wording during prose migration. They predate the recent recovery batch. |
 
-## Entries requiring a later ruling
+## Resolved lexical ruling
 
-### `patore` (hit)
+### 1. Inventory
 
-`patore` is the only root introduced in the 17 July batch that sits directly on the peace-linguistic boundary. The same commit added `lerasu` (cruel) and `tisharu` (puncture), but those words have clearer work. Cruelty is an ethical judgement about avoidable suffering, while puncture covers needles, thorns, and drills. `patore` covers a falling stone, a swinging tool, or a moving hand. Its `strike` search term makes the broader invitation plain.
+Before retirement, `patore` appeared in ten tracked files. One was its lexicon entry, three were generated manual lexicon pages, and one was the generated readable decision register. The remaining five were project history, decision, coverage, and evaluation records. There was no independent use to translate or preserve.
 
-The word may still prove defensible as a neutral impact verb for accidents, craft, and hand contact in applause. The present record does not settle that question. A separate ruling should compare those uses with transparent expressions built from `palo` (touch), an explicit manner, and the actual result. Until then, `patore` should be treated as under review rather than as proof that general violence vocabulary belongs in Phi.
+### 2. Existing-vocabulary test
+
+The stone example needs contact and manner, both already present:
+
+```
+kerou tomae kema palo.
+stone floor strong touch.
+(The stone touches the floor forcefully.)
+```
+
+If the contact drives something away, `pesa` (push) states that movement. If it worsens an object's condition, `pukeri` (damage) states the result; bodily injury is `kaworu`. When the stone fell before contact, `lepa` names that movement. Each choice tells the listener more than a general impact verb did.
+
+Applause also composes without that root:
+
+```
+miona wi manuwe roe telui wiso palo.
+person two hand INS rhythm RECP touch.
+(A person's two hands touch each other in rhythm.)
+```
+
+The surrounding clause can then use `woraka` (appreciate), `pharuki` (celebrate), or `nomela` (encourage). This leaves room for a gathering that offers the same response through another gesture.
+
+### 3. Decision
+
+Retire `patore`. Its legitimate uses do not form one Phi concept that earns the unmarked extension to deliberate interpersonal hitting. Forceful contact remains easy to say, while movement and consequence stay available as their own claims.
+
+### 4. Migration
+
+The canonical entry is removed and `patore` is added to the short retired-form list, which prevents lexical reassignment while leaving the form eligible as an onym. `CV-HIT-01` now records the declined root, `CV-HIT-02` records the compositional result, and `CV-APPLAUSE-01` carries the rhythmic hand-contact expression. Generated lexicon references are rebuilt from the smaller inventory. D030 remains an accurate record of introduction; D033 records its partial supersession.
+
+## Entries requiring a later prose ruling
 
 ### `tiwa` (tie) and `kawepa` (catch)
 
@@ -92,7 +122,7 @@ Several old `sound_symbolism` fields also reach automatically for striking, forc
 
 This audit records the candidate as declined. Modules are not a side door for violent vocabulary. Phi will continue to report harm and the power relations around it, then speak directly about protection, responsibility, redress, and repair. Exact violent terminology remains with its source when fidelity requires it. Generic violent acts and roles do not receive ordinary Phi roots merely because a coverage list noticed their absence.
 
-The machine-checked register now carries `CV-HIT-02` as well. It records the open question about `patore` in both the contact-and-force and ritual-and-play batches, so the present applause construction cannot make the broader retention question disappear.
+The machine-checked register now closes `CV-HIT-02` with the compositional result and records the former root as declined under `CV-HIT-01`. The ritual-and-play batch is closed as well: its applause expression no longer depends on a general impact verb.
 
 The neighbouring `CV-AIM-01` remains open, but its wording now asks only about physical alignment in craft or measurement. It no longer proposes a general target noun. Direction, orientation, intention, and purpose should continue to carry the abstract work unless an embodied practice reveals a narrower need.
 
@@ -106,6 +136,6 @@ The neighbouring `CV-AIM-01` remains open, but its wording now asks only about p
 
 ## Recommended order of follow-up
 
-The next decision should be `CV-HIT-02`, since `patore` is recent and changes the base lexicon. After that, the target-schema migration can tighten `tiwa`, `kawepa`, `thema`, and the note for `nashaku`. The thirteen combat-metaphor entries and seven hierarchy entries fit naturally into the wider legacy vocabulary prose audit already planned. No other current root requires retirement on the evidence found here.
+With `CV-HIT-02` settled, the target-schema migration can tighten `tiwa`, `kawepa`, `thema`, and the note for `nashaku`. The thirteen combat-metaphor entries and seven hierarchy entries fit naturally into the wider legacy vocabulary prose audit already planned. No other current root requires retirement on the evidence found here.
 
-Phi has not quietly acquired a vocabulary of war. It did, however, leave one new force verb at the threshold and several old metaphors in the furniture. The threshold now has a marker. The furniture can be moved without rebuilding the house.
+Phi has not quietly acquired a vocabulary of war. Its one new general force verb had no corpus life and is now retired. What remains is less dramatic and more laborious: old metaphors in old prose, ready for the vocabulary audit that was already waiting.

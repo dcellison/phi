@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1222 words.*
+*1221 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -554,7 +554,6 @@
 | `panuri` | resource | /pä.ˈn̪u.ri/ | noun |
 | `pao` | goodbye | /ˈpä.o̞/ | interjection |
 | `patoku` | solid | /pä.ˈt̪o̞.ku/ | noun |
-| `patore` | hit | /pä.ˈt̪o̞.re̞/ | verb |
 | `pawela` | participate | /pä.ˈwe̞.lä/ | verb |
 | `peki` | squeeze | /ˈpe̞.ki/ | verb |
 | `pekira` | toxic | /pe̞.ˈki.rä/ | adjective |
