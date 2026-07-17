@@ -7,16 +7,21 @@
     "na"
   ],
   "pos": "noun",
-  "concept": "Edge / Border / Where Things Meet",
-  "description": "The outside limit of an object, area, or surface; the line where something ends. 'Shuna' names the meeting point—where one thing stops and another begins, the line of transition.",
-  "sound_symbolism": "The word marks the limit. 'Shu' /ʃu/ begins with soft precision, boundary sensed. Then 'na' settles at the line, edge defined.",
-  "grammatical_notes": "Functions as a noun: 'shuna' (edge), 'lo shuna' (edges). Related to 'norui' (boundary) but emphasizes the line itself rather than the concept of limit.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Edges are where awareness lives—the boundary between self and other, inner and outer.",
-    "art-nouveau-aesthetics": "Edges defined form—the flowing lines that separated figure from ground, creating shape through boundary."
-  },
+  "search_terms": [
+    "rim",
+    "outer limit"
+  ],
+  "description": "Where a physical object, material, or visible surface stops, it has a 'shuna'. Depending on the thing, that edge may be a rim, bank, hem, or abrupt end. 'norui' (boundary) may be invisible or institutional; 'leko' (surface) continues across an area rather than naming its ending line.",
+  "articulatory_notes": "Raise the tongue blade toward the postalveolar area for unvoiced 'sh' and send the air through the central groove into stressed high-back rounded 'u'. Place the tongue tip against the backs of the upper teeth for dental 'n', keep the voice flowing through the nose, and open into central 'a'.",
+  "usage_notes": "The whole comes first: 'ruela shuna' is the path's edge. Where two edges meet, 'wi shuna lorea' identifies their connection; a bend in a path is 'ruela rato', and intersecting paths can be described as 'wi ruela lorea'.",
+  "examples": [
+    {
+      "phi": "mia mua ruela shuna whano.",
+      "translation": "I stand at the edge of the path."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Defining line",
-    "spatial": "Outer limit"
+    "physical": "the ending line of a material body or surface",
+    "spatial": "the outermost part of an object, area, or visible extent"
   }
 }

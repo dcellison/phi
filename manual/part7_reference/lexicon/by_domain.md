@@ -315,7 +315,7 @@
 | `wonepa` | table | a shared or individual surface arranged for meals, work, or meeting |
 | `wosanu` | absorb | a receiving body taking material into itself |
 
-## aesthetic (75)
+## aesthetic (71)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -330,12 +330,9 @@
 | `kolai` | pigment | Visual material |
 | `koru` | harmonious | parts perceived as fitting together into a pleasing whole |
 | `lei` | harmony | distinct sounds or forms fitting into a pleasing whole |
-| `leko` | surface | Visible face |
-| `lerua` | exterior | Facing out |
 | `lina` | string (instrument) | a tensioned strand whose vibration produces musical sound |
 | `liro` | green | green color on living and made surfaces |
 | `liru` | fabric | textile structure whose weave, texture, and drape shape visual work |
-| `lonai` | width | Breadth |
 | `loriphi` | rainbow | a naturally ordered display of visible colours |
 | `lowi` | vine | a living source of curving lines shaped by growth and support |
 | `luwae` | graceful | flowing movement or form perceived as graceful |
@@ -346,7 +343,6 @@
 | `mishoa` | express | a quality or artistic impulse made perceptible in a work |
 | `mueli` | plain (unadorned) | a form or surface with little or no applied ornament |
 | `mureli` | brown | brown across ordinary light and dark shades |
-| `muwi` | interior | Within |
 | `noalu` | tranquil | settled quiet perceived in a place, scene, or manner |
 | `noporu` | design | shaping form in relation to material and use |
 | `nuelo` | dark | a dim scene or a color seen as a dark shade |
@@ -362,6 +358,7 @@
 | `phiwapi` | butterfly | a living pattern of wing colour and motion |
 | `pholuo` | luminous | steady or diffused light perceived as filling a source or surface |
 | `phui` | flute | Breath music |
+| `piloe` | spot | a small contrasting mark within a visible pattern |
 | `puko` | bitter | bitterness encountered and sometimes sought in food, drink, or medicine |
 | `rotiku` | dance | rhythm and bodily form experienced or shaped as a dance |
 | `rulo` | red | ordinary reds, whether bright or dark |
@@ -375,7 +372,6 @@
 | `shilu` | blue | blue on surfaces and in visible light |
 | `shioli` | silver | a pale reflective metal used where surface and light matter |
 | `shonuwa` | sound | the audible material of music and other sound art |
-| `shuna` | edge | Defining line |
 | `siloma` | simple | few-part or minimally arranged form |
 | `simoe` | rich | perceptible depth or concentration in colour, flavour, sound, or texture |
 | `solai` | gold | a yellow metal used where colour, reflection, or surface matters |
@@ -395,7 +391,7 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `woraka` | appreciate | positive recognition of a sensory or artistic quality |
 
-## cognition (241)
+## cognition (242)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -473,6 +469,7 @@
 | `nelore` | preserve | keeping records or knowledge available |
 | `nila` | see | visual information entering awareness |
 | `nilaki` | inspect | a structured relation among observations, scope, and assessment |
+| `noa` | position | a standpoint from which a thought or claim is situated |
 | `noetha` | essential | an indispensable condition identified for a purpose, identity, or result |
 | `nohero` | believe | a proposition held to be true |
 | `nomi` | present | attentive presence in the current situation |
@@ -821,7 +818,7 @@
 | `loatho` | delegate | delegation with stated scope, duration, and reporting |
 | `lohau` | dog | a dog in a stated household, companion, or work relation |
 | `lokane` | accessible | conditions that let a person enter shared activity |
-| `lokue` | place | places as sites of gathering and meaning |
+| `lokue` | place | a site of gathering, dwelling, memory, or shared activity |
 | `lomare` | embrace | an embrace used in affection, comfort, greeting, or reunion |
 | `lomea` | sibling | a close family relation between people of the same generation |
 | `lona` | meeting | people gathered for a shared purpose or occasion |
@@ -870,14 +867,14 @@
 | `nawo` | agree | a shared position among named participants |
 | `nephoru` | treat | an intervention relation among a person and care participants |
 | `nilua` | shy | reserve felt under other people's attention |
-| `noa` | position | Enables discussion of roles and places within social structures |
+| `noa` | position | a place within an ordering, queue, role arrangement, or priority scheme |
 | `noeli` | warm (emotional) | a receptive manner that puts another person at ease |
 | `nolami` | bond | a mutual connection formed and sustained between beings |
 | `nomei` | name | the marker of individual identity within collective |
 | `nomela` | encourage | encouragement offered within a shared effort or relationship |
 | `nophei` | loyal | steadfast continuation of a relationship, commitment, or allegiance |
 | `norathu` | procedure | a governance procedure with participants and decision conditions |
-| `norui` | boundary | Relational border |
+| `norui` | boundary | a stated limit within a relationship, institution, or shared arrangement |
 | `norulo` | jurisdiction | the claimed social scope of an authority or institution |
 | `noruwa` | generation | people grouped by a shared position in social time |
 | `nuawe` | together | people sharing an action or state while remaining distinct participants |
@@ -970,7 +967,7 @@
 | `soneho` | tradeoff | a choice structure whose gains and burdens may fall on different people |
 | `sonu` | alone | the social circumstance of being without company |
 | `soranu` | screen | a health practice applied to stated participants or populations |
-| `sorui` | circle | Equal arrangement |
+| `sorui` | circle | people or other participants arranged in a circle |
 | `sowelu` | disabled | disabled identity and participation in relation to barriers |
 | `sulai` | musician | Creative role |
 | `telo` | farmer | Growing role |
@@ -1457,7 +1454,7 @@
 | `nireku` | insect | the six-legged arthropod class across varied forms and ecological relations |
 | `niro` | web | Woven pattern |
 | `nirowe` | spider | an eight-legged arachnid across both web-building and non-web-building species |
-| `nitho` | north | The still point of the wheeling sky |
+| `nitho` | north | a cardinal direction related to Earth's rotation and the observed sky |
 | `nolika` | animal | the broad zoological category of animal life |
 | `nomira` | collect | collecting specimens or useful material from a living or physical setting |
 | `nophali` | pollen | reproductive grains produced by seed plants |
@@ -1498,12 +1495,12 @@
 | `pholui` | bamboo | a group of grasses with characteristically jointed stems |
 | `phuliro` | stream | a small natural watercourse within a landscape |
 | `phunelo` | sap | liquid carried or stored within a plant's vascular tissues |
-| `piloe` | spot | The dapple and the speckle |
+| `piloe` | spot | a spot, dapple, or speckle on a living or natural surface |
 | `pilomu` | sycamore | a tree locally or textually called sycamore |
 | `pisha` | split | seeds, branches, and other living forms opening or dividing |
 | `powea` | egg | an animal reproductive structure in which an embryo may develop |
 | `pukea` | danger | The edge conditions of the living world |
-| `ronua` | south | The open expanse of the turning sky |
+| `ronua` | south | a cardinal direction related to Earth's rotation and the observed sky |
 | `ruka` | complex | a living or ecological system with many interacting relations |
 | `ruloi` | flourish | abundant growth in plants or a living place |
 | `runae` | resin | a secretion produced by particular plants |
@@ -1595,7 +1592,7 @@
 | `wosanu` | absorb | soil or a living body taking in water or another material |
 | `wotami` | shrub | a usually low woody plant with several stems near the ground |
 
-## physical (481)
+## physical (490)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1682,15 +1679,17 @@
 | `kurathi` | dry | little liquid present on a surface or within a material |
 | `kuremi` | grind | abrasion or crushing that makes a material finer |
 | `kureno` | wither | drooping and loss of firmness that may precede drying or death |
-| `kuri` | right | Side of the body |
+| `kuri` | right | the right side of an oriented body |
 | `kuroi` | muscle | contractile tissue that moves or stabilises a body |
 | `kurona` | horn | a durable pointed or branching body structure |
 | `larewu` | liquid | matter that keeps roughly its volume while taking the shape of its container |
 | `lathoe` | tongue | the muscular organ used for taste and oral movement |
-| `lawe` | left | Side of the body |
+| `lawe` | left | the left side of an oriented body |
 | `leiro` | release | letting a person, object, or substance leave restraint or containment |
+| `leko` | surface | the material layer or face at an object's outside or interface |
 | `lemi` | thin | little material thickness or sparse substance |
 | `lepa` | fall | gravity-led movement after support is lost |
+| `lerua` | exterior | the outside-facing parts of a bounded thing considered together |
 | `lima` | alive | the bodily distinction between being alive and having died |
 | `limu` | young | early bodily or organismal development |
 | `lina` | string (instrument) | a strand held under tension so that it can vibrate |
@@ -1705,6 +1704,7 @@
 | `lomare` | embrace | arms, clothing, or another enclosing form surrounding a body or space |
 | `lomeki` | fat | energy-storing and cushioning bodily tissue or separated animal material |
 | `lomura` | liver | a large abdominal organ involved in processing substances in the blood |
+| `lonai` | width | side-to-side extent across an object, opening, path, or body of water |
 | `lopha` | vessel | a formed hollow receptacle for holding or moving a substance |
 | `lophani` | bottle | a portable holder for liquid |
 | `lopia` | child | the human developmental stage of childhood |
@@ -1780,6 +1780,7 @@
 | `mureo` | stable | retention of position or form under disturbance |
 | `murethi` | impairment | a stated bodily or sensory functional difference |
 | `muthari` | nausea | a bodily sensation associated with the possibility of vomiting |
+| `muwi` | interior | the inner part of an object, body, vessel, or structure |
 | `napa` | bread | cooked grain food handled as a loaf, piece, or substance |
 | `napako` | bake | heat reaching food from an enclosing chamber |
 | `napari` | rice | rice handled or prepared as food |
@@ -1805,6 +1806,7 @@
 | `norapi` | waist | the middle trunk region between the lower ribs and hips |
 | `norelu` | form | matter acquiring an observable arrangement or boundary |
 | `noru` | bowl | an open hollow vessel used for food or other contents |
+| `norui` | boundary | a limit that may be marked by a physical feature |
 | `norupe` | spoon | a small hollow carried at the end of a handle |
 | `nowae` | awaken | bodily transition out of sleep |
 | `nuelo` | dark | little light reaching a place, surface, or viewer |
@@ -1818,6 +1820,7 @@
 | `nuphari` | fog | airborne water dense enough to reduce visibility |
 | `nurawi` | chronic | persistence or recurrence in a bodily health condition |
 | `nurome` | meal | a bounded preparation of food |
+| `nusho` | depth | inward or downward extent within a body, object, or opening |
 | `nuwera` | bed | a surface or furnishing made for lying down |
 | `nuwesu` | mucus | a protective bodily fluid made by moist inner surfaces |
 | `nuwi` | clear | low visual obstruction in water, air, or another material |
@@ -1880,7 +1883,7 @@
 | `phuri` | brush | a hand implement that acts through repeated surface contact |
 | `phurilo` | broom | bristles moving loose material across a surface |
 | `phuwai` | lung | one of the paired organs that exchange gases between air and blood |
-| `piloe` | spot | One small patch of color |
+| `piloe` | spot | a localized patch of color on another surface |
 | `pilu` | take | taking hold of a person or material object |
 | `pina` | sew | thread passing through material to hold it together |
 | `pisha` | split | one body or route separating into multiple parts |
@@ -1946,6 +1949,7 @@
 | `shorupo` | protect | a body, place, or object shielded through a practical measure |
 | `shumeko` | sticky | a material or surface that adheres on contact and resists easy separation |
 | `shumu` | moss | a low, often yielding plant cover on soil, stone, bark, or other surfaces |
+| `shuna` | edge | the ending line of a material body or surface |
 | `shuneki` | vaccinate | an intervention intended to induce bodily protection |
 | `shurano` | safe | a body, path, object, or action assessed as sufficiently protected from relevant harm |
 | `shuroa` | shelter | a structure or cover that reduces physical exposure |
@@ -1958,6 +1962,7 @@
 | `solai` | gold | a dense corrosion-resistant metallic element |
 | `somela` | observe | sustained sensory observation of a material object or change |
 | `sophae` | cotton | a soft cellulose fibre with variable length and treatment |
+| `sorui` | circle | a closed round outline or form |
 | `sowelu` | disabled | bodily or sensory disability and its relation to access |
 | `suhari` | saliva | the bodily fluid that moistens the mouth and food |
 | `suilo` | dew | small liquid drops resting on a surface |
@@ -2003,6 +2008,7 @@
 | `thokaru` | volcano | an opening through which magma, gas, ash, or heat may emerge |
 | `thola` | bring | moving with a person or material object being brought |
 | `tholau` | bone | a hard structural part of an animal or human skeleton |
+| `tholu` | space | extent available to bodies, objects, and movement |
 | `thorima` | taste | gustatory perception through the mouth |
 | `thuleni` | comfort | touch or changed bodily surroundings used to ease discomfort |
 | `thumai` | finger | a hand digit used for fine movement and touch |
@@ -2081,7 +2087,7 @@
 | `wosanu` | absorb | material entering and remaining within a body or substance |
 | `wuloe` | soft | a yielding texture or contact that cushions pressure |
 
-## quantity (33)
+## quantity (37)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2091,11 +2097,15 @@
 | `kolo` | equal | sameness in a stated amount, measure, or rank |
 | `lau` | twenty-seven-group | the twenty-seven scale used in exact and approximate enumeration |
 | `leiro` | release | removing a selected amount from a starting quantity |
+| `lonai` | width | a dimension available for comparison or measurement |
 | `lorua` | abundant | a supply large in relation to the scale or need under discussion |
+| `maewo` | threshold | a stated point whose crossing changes a classification or response |
 | `malomi` | balance | proportions adjusted so their effects remain workable together |
 | `masue` | measure | measurement that produces or compares a magnitude |
 | `mu` | zero | the exact numerical value for no counted members |
 | `murase` | swell | an overall size or volume becoming greater |
+| `noa` | position | an ordinal place within a counted sequence |
+| `nusho` | depth | a dimension available for comparison or measurement |
 | `pamolu` | weight | physical weight treated as a neutral magnitude for comparison or measurement |
 | `phanoi` | portion | relating a total to a number of groups and the resulting quotient |
 | `pheno` | full | contents reaching the capacity relevant to the present comparison |
@@ -2128,7 +2138,7 @@
 | `kowela` | council | creates sacred space through formal deliberation processes |
 | `lopha` | vessel | a receptacle whose stated use may carry ceremonial material |
 | `lumeo` | die | the event named in mourning and death ceremonies |
-| `maewo` | threshold | Liminal space |
+| `maewo` | threshold | a crossing point that can organize a ceremony or transition |
 | `melira` | song | Carrier of communal memory and ceremony |
 | `menai` | dedicate | dedication expressed through a repeated or ceremonial practice |
 | `nelu` | revere | the inward regard that may underlie veneration or ceremonial honour |
@@ -2174,23 +2184,23 @@
 | `koshira` | grove | a bounded or recognisable cluster of trees |
 | `kulo` | guide | direction offered along a physical or conceptual path |
 | `kupe` | hide | concealment produced through position, cover, or enclosure |
-| `kuri` | right | Body-relative direction |
+| `kuri` | right | a body-relative side extended to an oriented scene |
 | `laeno` | long | substantial end-to-end extent in a path or object |
 | `laenu` | commons | Shared space |
 | `laniru` | journey | a passage across a substantial route |
-| `lawe` | left | Body-relative direction |
-| `leko` | surface | Outer layer |
+| `lawe` | left | a body-relative side extended to an oriented scene |
+| `leko` | surface | an extended face with edges and an orientation |
 | `lemi` | thin | a small distance between opposing surfaces or across a cross-section |
 | `lepa` | fall | a path from a higher position to a lower one |
 | `leru` | beach | a traversable strip at the meeting of land and water |
-| `lerua` | exterior | Outer surface |
+| `lerua` | exterior | the outer region contrasted with an interior |
 | `lewonu` | valley | an elongated low route through higher terrain |
 | `liloni` | population | a living group bounded by an area |
 | `liona` | live | living in a stated home, habitat, or other place |
 | `liweso` | ecological community | co-occurrence within a selected place or distributed area |
 | `lokane` | accessible | a path or place reachable for the movement at issue |
-| `lokue` | place | location and position in space |
-| `lonai` | width | Horizontal extent |
+| `lokue` | place | a particular location treated as somewhere |
+| `lonai` | width | breadth across selected opposing sides |
 | `lorea` | connect | a bridge, route, or other link joining separate locations |
 | `losha` | wide | breadth measured from one side to the other |
 | `loshenu` | clearance | width, height, depth, or turning room kept clear |
@@ -2199,7 +2209,7 @@
 | `lupho` | float | a supported level within or upon a fluid |
 | `luphonu` | boat | a means of travel across water |
 | `luphore` | river | a channel and flowing route across land |
-| `maewo` | threshold | Crossing point |
+| `maewo` | threshold | the sill, doorway, or line crossed between places |
 | `manolu` | stay | continued presence at a location |
 | `meilo` | sit | seated position in relation to a place or supporting surface |
 | `melothe` | pond | a contained area of water within land |
@@ -2216,13 +2226,13 @@
 | `muila` | earth | land distinguished from open water in a place or route |
 | `mulu` | low | position near the lower end of a vertical scale |
 | `muneki` | latrine | a bounded sanitation area in or near a dwelling |
-| `muwi` | interior | Inner space |
+| `muwi` | interior | an enclosed region contrasted with an exterior |
 | `nai` | be | location stated through a place predicate |
 | `natu` | pull | movement towards a puller or along an attached course |
 | `niro` | web | Networked structure |
-| `nitho` | north | Cardinal direction of the turning axis |
-| `noa` | position | Represents position within physical or conceptual arrangements |
-| `norui` | boundary | Defining limit |
+| `nitho` | north | the northward cardinal direction |
+| `noa` | position | a location understood relative to other positions |
+| `norui` | boundary | the selected extent of an area, object, or region |
 | `norulo` | jurisdiction | a jurisdiction may include stated places without being only territorial |
 | `noshi` | near (adj) | small separation from a contextual place or object |
 | `nowari` | planet | a world located and moving within a stellar system |
@@ -2231,7 +2241,7 @@
 | `nuawe` | together | people or things present together in one place |
 | `nulo` | deep | substantial distance inward or downward from a reference surface |
 | `nuroa` | kitchen | a room or area identified by food preparation |
-| `nusho` | depth | Downward extent |
+| `nusho` | depth | distance inward or downward from a reference surface |
 | `pareshi` | cliff | a sharp vertical change between higher and lower terrain |
 | `pelowa` | meadow | a recognisable opening within cultivated or wilder land |
 | `pesa` | push | movement away from the point of pushing contact |
@@ -2259,7 +2269,7 @@
 | `rihe` | rise | a path from a lower position to a higher one |
 | `roke` | move | change of position within space |
 | `rolutha` | wagon | a vehicle used to move people or goods along the ground |
-| `ronua` | south | Cardinal direction opposite the axis point |
+| `ronua` | south | the southward cardinal direction |
 | `ruela` | path | the physical line of ground or structure available for travel |
 | `ruemi` | lie down | horizontal or reclined position against a surface |
 | `runaki` | wayfind | finding a route through a physical or informational place |
@@ -2275,14 +2285,14 @@
 | `shomelu` | shadow | the region from which an object excludes a light source |
 | `shorai` | commune | Collective dwelling |
 | `shua` | come | approach towards a deictic or stated place |
-| `shuna` | edge | Outer limit |
+| `shuna` | edge | the outermost part of an object, area, or visible extent |
 | `shupi` | plateau | high ground extending across a substantial area |
 | `shuroa` | shelter | a place entered or occupied for protection |
 | `silawo` | village | The human-scale settlement |
 | `siru` | marker | a placed reference used in wayfinding or position |
 | `soki` | settle | transition into residence at a location |
 | `sonari` | isolate | a bounded separation between a source and possible hosts |
-| `sorui` | circle | Round form |
+| `sorui` | circle | an arrangement around an interior region or point |
 | `tapu` | close | passage or access ended at a boundary |
 | `tawemi` | cover | an overlying relation that limits view or contact |
 | `tekari` | straight | a course that does not curve or turn over the relevant extent |
@@ -2301,7 +2311,7 @@
 | `thiwera` | scatter | separate items or paths moving out from one place |
 | `thokaru` | volcano | a geological source point and the landform built around it |
 | `thola` | bring | directed movement towards a place or participant |
-| `tholu` | space | Open area |
+| `tholu` | space | open or occupied room in which an arrangement can exist |
 | `tholupi` | room | a bounded space within a building |
 | `thorui` | beginning | the opening endpoint or portion of a path or extended thing |
 | `thula` | spring | a source place from which surface water may begin to flow |
@@ -2382,6 +2392,7 @@
 | `lunisa` | tide | a repeating coastal and oceanic cycle with local phases |
 | `lunoa` | month | a lunar or conventional calendar span between a week and a year |
 | `luseri` | provenance | a sequence of prior stages leading to a present state |
+| `maewo` | threshold | the point at which a process or state begins to change |
 | `manolu` | stay | continuation across a stated or contextual interval |
 | `meloa` | persevere | a course resumed or sustained across obstacles and delay |
 | `meluna` | season | a recurring portion of the year |
@@ -2402,7 +2413,6 @@
 | `nelore` | preserve | continuity kept available across time |
 | `newai` | fresh | recent making, gathering, arrival, or exposure |
 | `newu` | new | recent arrival, acquisition, introduction, or beginning |
-| `noa` | position | Marks place within sequences and cycles |
 | `nomi` | present | the span currently being lived between past and future |
 | `noraku` | blocked | a stoppage that may end when its obstacle changes |
 | `norawhi` | dusk | the threshold station between evening and night |
@@ -2495,7 +2505,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (58)
+## wisdom (55)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2515,14 +2525,12 @@
 | `manawi` | compromise | a practical but morally nonautomatic response to conflict |
 | `menua` | counselor | Advisory presence |
 | `motu` | humble | self-appraisal kept open to correction and further learning |
-| `noa` | position | Understanding position as relational rather than hierarchical |
 | `noetha` | essential | practical judgement about what a course cannot lose and still meet its purpose |
 | `norae` | method | Ordered way |
 | `norea` | soul | Self understanding |
 | `norethi` | confident | firmness that remains distinguishable from knowledge and certainty |
 | `nukesa` | expert | understanding refined through long practice and reflection |
 | `nulo` | deep | sustained inquiry or knowing that reaches beneath an initial account |
-| `nusho` | depth | Profundity |
 | `phenui` | thoughtful | reflection on likely effects before action |
 | `phewo` | sage | Insight earned through living |
 | `phiwheki` | counterexample | attention to particulars that require a broad rule to be revised |
@@ -2552,7 +2560,6 @@
 | `thereo` | mediator | requires seeing all perspectives and finding middle way |
 | `thesani` | skill | practical understanding refined through experience |
 | `thesori` | evidence | material whose source, relevance, and limits can be examined |
-| `tholu` | space | Enabling emptiness |
 | `thuni` | intuitive | immediate judgement that may draw on experience and still remains open to checking |
 | `welao` | good | a contextual favourable judgement whose grounds remain open to examination |
 | `weloni` | body | the whole body as an object of sustained contemplative attention |

@@ -8,16 +8,23 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Circle / Round Form / Gathering Shape",
-  "description": "A round shape where all points are equal distance from center; a group arranged in this form. 'Sorui' names the shape of equality—where no one sits at the head.",
-  "sound_symbolism": "The word curves complete. 'So' sweeps with enclosing motion, circle forming. 'Ru' runs around the perimeter, form continuing. Then 'i' rises to completion, the circle closed.",
-  "grammatical_notes": "Noun: 'lo miona sorui norelu.' (The people form a circle.) The shape of 'lona' (meeting) and 'kowela' (council).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Circle as wholeness—the mandala form, complete and containing.",
-    "pre-industrial-wisdom": "Circle as equality—the ancient form where all can see each other, none elevated."
-  },
+  "search_terms": [
+    "circular form",
+    "round outline"
+  ],
+  "description": "A closed round line, or an arrangement that follows one, is a 'sorui'. People may form one, as may the outline of a bowl seen from above. 'rolu' (wheel) is a working part that turns; 'sorui' names the form without requiring motion, and 'sorui kire' gives the ordinary round quality.",
+  "articulatory_notes": "Bring the tongue blade close to the alveolar ridge for unvoiced 's' and round into middle-height back 'o'. Tap or briefly trill the tongue tip at the alveolar ridge for 'r', then release into stressed high-back rounded 'u'. Keep the final high-front 'i' separate across the hiatus.",
+  "sound_symbolism": "The lips round for both 'o' and 'u', while the tap at the center keeps the word moving instead of bringing it to a stop. In Phi, that contour offers a small bodily mnemonic for a curved form.",
+  "usage_notes": "The registered 'thumai sorui' names a ring through its place on the finger. As a noun descriptor, 'sorui kire' means a circular or round shape without adding another adjective root.",
+  "examples": [
+    {
+      "phi": "noru sorui kire nai.",
+      "translation": "The bowl has a round shape."
+    }
+  ],
   "semantic_domains": {
-    "community": "Equal arrangement",
-    "spatial": "Round form"
+    "community": "people or other participants arranged in a circle",
+    "physical": "a closed round outline or form",
+    "spatial": "an arrangement around an interior region or point"
   }
 }

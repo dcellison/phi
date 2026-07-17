@@ -8,16 +8,24 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "Spot / Fleck / The Small Round Marking",
-  "description": "A spot: a small patch of one color resting on another. The fawn's dapple, the egg's speckle, the petal's fleck, the brown-and-white of a patterned coat. 'Piloe' names the mark itself, one unit of the world's spotting, and takes its color as a describer: 'mureli piloe', a brown spot. What wears its spots is patterned by them, and can be known by them long after everything else has changed.",
-  "sound_symbolism": "'pi' is the smallest of the stops on the narrowest of the vowels: a dot of sound. 'lo.e' rounds it and sets it down softly, the hiatus holding the spot's edge distinct from its ground, the way the marking sits distinct on the coat.",
-  "grammatical_notes": "Noun. 'shia whila lo mureli piloe phelu.' (His coat holds brown spots.) Color words stand before it as describers; 'lo piloe' pluralizes the pattern. Kin to 'welisha' (color), whose small local unit it is, and to 'kiroa' (sign), since a spot is often how a thing is known again.",
-  "pillars": {
-    "art-nouveau-aesthetics": "Pattern is the style's native tongue: the dapple, the speckle, the repeated small mark that makes a surface sing.",
-    "pre-industrial-wisdom": "Herders and foragers know their animals and their eggs spot by spot; the marking is the name the eye uses."
-  },
+  "search_terms": [
+    "fleck",
+    "speckle",
+    "patch of color"
+  ],
+  "description": "One brown patch on white fur is a 'piloe', a small mark of one color against another surface. The word covers spots, flecks, dapples, and speckles on skin and fur, cloth and stone, or another ground. It does not share the English sense of a small location: use 'lokue' for a place and 'noa' for a position.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into high-front unrounded 'i'. Touch the tongue tip to the alveolar ridge for lateral 'l', pass the voice around its sides, and round into stressed middle-height back 'o'. Keep the final middle-height front 'e' separate across the hiatus.",
+  "sound_symbolism": "The opening lip closure is brief, and the two final vowels remain sharply separate. In Phi, that small start and clean final separation can recall one mark set off from its ground.",
+  "usage_notes": "A color word stands before the mark it describes: 'mureli piloe' is a brown spot. Plural 'lo piloe' refers to several distinct marks or a spotted pattern.",
+  "examples": [
+    {
+      "phi": "shia lo mureli piloe phelu.",
+      "translation": "It has brown spots."
+    }
+  ],
   "semantic_domains": {
-    "nature": "The dapple and the speckle",
-    "physical": "One small patch of color"
+    "aesthetic": "a small contrasting mark within a visible pattern",
+    "nature": "a spot, dapple, or speckle on a living or natural surface",
+    "physical": "a localized patch of color on another surface"
   }
 }

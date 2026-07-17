@@ -7,16 +7,21 @@
     "we"
   ],
   "pos": "noun",
-  "concept": "Left / The Left Side / Leftward",
-  "description": "The left side of the body and, by extension, the left side of anything oriented: the left hand, the left path, the left bank of a river. Body-relative direction, as pre-industrial peoples navigated — by one's own two sides, not abstract coordinates.",
-  "sound_symbolism": "The liquid 'l' flows with the open 'a', then reaches outward through 'we' — the arm extending to one side. Deliberately shares no sounds with its partner 'kuri' (right), so the two directions can never be mistaken for each other, in speech or on the page.",
-  "grammatical_notes": "A noun naming the side itself: 'mua lawe' (on the left). Before another noun it modifies by position: 'lawe ruela' (the left path). Paired with 'kuri' (right); the pair is intentionally phonetically disjoint.",
-  "pillars": {
-    "peace-linguistics-practices": "Left and right carry no value weight in Phi: neither side is the 'right' one morally. The words are direction only, judgment removed by design.",
-    "pre-industrial-wisdom": "Direction reckoned from the body — the navigator's own left hand — rather than from an abstract grid. The body is the first compass."
-  },
+  "search_terms": [
+    "left side",
+    "leftward"
+  ],
+  "description": "The body supplies the anchor for 'lawe', the left side. Without a possessor, the word normally takes the speaker's body as that anchor; 'thia lawe' means your left. This is not an absolute compass direction, and it carries no judgment about the side.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for lateral 'l', let the air pass around its sides, and open into stressed central 'a'. Round the lips and raise the back of the tongue for voiced 'w', then finish with middle-height front unrounded 'e'.",
+  "usage_notes": "With a locative, 'mua lawe' means on the speaker's left unless another possessor supplies the anchor. Before a noun, 'lawe ruela' means the left path. 'kuri' names the contrasting right side and is deliberately far away in sound.",
+  "examples": [
+    {
+      "phi": "womu mua lawe nai.",
+      "translation": "The house is on my left."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Side of the body",
-    "spatial": "Body-relative direction"
+    "physical": "the left side of an oriented body",
+    "spatial": "a body-relative side extended to an oriented scene"
   }
 }

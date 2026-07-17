@@ -7,16 +7,22 @@
     "sho"
   ],
   "pos": "noun",
-  "concept": "Depth / Distance Downward / Profundity",
-  "description": "The distance from the top or surface to the bottom; the quality of being deep. 'Nusho' names vertical extent downward, how far something goes beneath the surface, and extends to the figurative depth of thought or feeling.",
-  "sound_symbolism": "The word descends. 'Nu' grounds with downward pull, depth beginning. Then 'sho' /ʃo/ continues into the deep, extent measured.",
-  "grammatical_notes": "Functions as a noun: 'thelomi nusho' (the lake's depth). Related to adjective 'nulo' (deep). Opposite dimension from 'raeli' (height).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Depth of practice penetrates surface—going beneath habit to understanding, beneath reaction to response.",
-    "pre-industrial-wisdom": "Depth determined water—wells, lakes, ocean all measured by how far down they extended."
-  },
+  "search_terms": [
+    "downward extent",
+    "inward extent"
+  ],
+  "description": "Begin at a lake's surface and follow the extent downward: that dimension is its 'nusho'. Bowls, wounds, shelves, and openings also have depth when the reference surface is understood or stated. 'nulo' (deep) and 'saphei' (shallow) judge that extent; 'raeli' (height) runs upward from a lower reference.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for dental 'n' and carry the voice through the nose into stressed high-back rounded 'u'. Raise the tongue blade toward the postalveolar area for unvoiced 'sh', send the air through the central groove, and finish with middle-height back rounded 'o'.",
+  "usage_notes": "The thing being gauged comes first, as in 'thelomi nusho' (the lake's depth). An exact reference point, value, and unit remain with the measurement record when they matter.",
+  "examples": [
+    {
+      "phi": "mia thelomi nusho masue.",
+      "translation": "I measure the lake's depth."
+    }
+  ],
   "semantic_domains": {
-    "spatial": "Downward extent",
-    "wisdom": "Profundity"
+    "physical": "inward or downward extent within a body, object, or opening",
+    "quantity": "a dimension available for comparison or measurement",
+    "spatial": "distance inward or downward from a reference surface"
   }
 }
