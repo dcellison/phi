@@ -8,14 +8,24 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Sibling / One Who Shares the Same Source",
-  "description": "A brother or sister; one who shares origins through common parents or communal upbringing. Siblings represent the first experience of equality and peer relationship, teaching cooperation, conflict resolution, and unconditional connection. They are companions on parallel journeys, each unique yet bound by shared roots and mutual understanding that transcends words.",
-  "sound_symbolism": "The word flows with shared warmth. 'Lo' begins with liquid connection, the bond that flows between those who share origin. 'Me' meets with intimate nasal closeness, and the final 'a' opens outward—the connection that needs no explanation.",
-  "grammatical_notes": "Functions only as a noun; the relationship is stated with 'nai': 'shia mia lomea nai.' (She is my sibling.) Worked example: 'mia lomea nua mia wile.' (My sibling plays with me.) Related to 'lumani' (family), 'thaluni' (kin), and 'phao' (parent).",
+  "search_terms": [
+    "brother",
+    "sister"
+  ],
+  "description": "'lomea' is someone related through a shared parent or a family relation recognised as siblinghood. It leaves gender unstated. 'thaluni' (kin) is wider, and 'melu' (friend) names a chosen relation that need not be familial.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and round the lips for middle-height back 'o'. Close the lips for voiced 'm', carry the sound through the nose, and release into stressed middle-height front unrounded 'e'. Keep final open central 'a' in its own syllable across the hiatus.",
+  "sound_symbolism": "Voiced 'l' and 'm' keep the word sonorous through its first two syllables. The final open vowel separates from stressed 'me', so the form stays close in the mouth without closing tightly.",
+  "usage_notes": "Possessor-first 'mia lomea' means my sibling. The noun may also describe a sibling relation before another noun. The surrounding account can say whether it comes by birth, adoption, or chosen family.",
+  "examples": [
+    {
+      "phi": "mia lomea nua mia wile.",
+      "translation": "My sibling plays with me."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Siblings offer the first lived experience of interdependence - separate beings who share origins, whose actions ripple into each other's lives. Through siblings we learn that self and other are neither fully separate nor fully merged. This relationship teaches the essential practice of holding space for another's growth while maintaining our own path, understanding that we can be deeply connected without being identical."
+    "peace-linguistics-practices": "In Phi's Article 1 rendering, 'lomea' carries the kinship of brotherhood without making the relation male."
   },
   "semantic_domains": {
-    "community": "core family bond and peer relationship"
+    "community": "a close family relation between people of the same generation"
   }
 }

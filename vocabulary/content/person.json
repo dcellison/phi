@@ -8,16 +8,22 @@
     "na"
   ],
   "pos": "noun",
-  "concept": "Person / A Centered, Grounded Whole",
-  "description": "An individual human being, understood as a complete whole with inherent dignity and interconnection to all life. The term emphasizes personhood as both unique individuality and universal humanity.",
-  "sound_symbolism": "The word begins with 'mi', the sound of individual identity resonating from within - a personal vibration that declares 'I am'. This opens through 'o' into the rounded wholeness of being, acknowledging the complete sphere of personhood. The final 'na' grounds this wholeness in connection, linking the individual to the web of all existence. Together, these sounds journey from inner self through complete being to interconnected presence, capturing the Buddhist understanding of personhood as both uniquely individual and universally connected.",
-  "grammatical_notes": "Functions as a noun: 'ta miona' (one person); with the human classifier, 'wi himo miona' (two people). Verbal notions of personhood are expressed with separate verbs taking 'miona' as subject or object.",
+  "search_terms": [
+    "human being"
+  ],
+  "description": "A title can change while the person who holds it remains a 'miona', one human being. Gender and social standing take their own descriptions. 'limoe' (creature) reaches more broadly across animate life.",
+  "articulatory_notes": "Close the lips for voiced 'm', let the sound resonate through the nose, and release into high-front unrounded 'i'. Keep stressed middle-height back rounded 'o' in its own syllable across the hiatus. Touch the tongue tip to the upper teeth for dental 'n', then lower the tongue and unround the lips into open central 'a'.",
+  "usage_notes": "A numeral may take optional 'himo' (people classifier) before this noun. A name remains a separate designation under 'ne'; personhood alone neither creates nor replaces a name.",
+  "examples": [
+    {
+      "phi": "ta himo miona shua.",
+      "translation": "One person comes."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Personhood embodies the paradox of anatman (non-self) and individual experience - each person is a unique pattern of causes and conditions while lacking fixed, separate essence. This understanding cultivates both self-respect and humility, recognizing our temporary manifestation as conscious beings within the flowing river of existence.",
-    "peace-linguistics-practices": "Recognizing personhood in every human creates the foundation for nonviolent communication - when we see others as whole persons rather than roles, categories, or obstacles, compassionate dialogue becomes possible. This practice refuses dehumanization, the first step toward violence, by maintaining awareness of shared personhood even across conflict."
+    "peace-linguistics-practices": "Keeping 'miona' available beside titles and group labels lets a sentence return to the human participant when a category starts to eclipse them."
   },
   "semantic_domains": {
-    "cognition": "personhood inherently involves consciousness and self-awareness",
-    "community": "persons are the fundamental units of social structures"
+    "community": "a human participant in social and relational life"
   }
 }

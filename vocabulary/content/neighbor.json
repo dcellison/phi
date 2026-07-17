@@ -8,16 +8,24 @@
     "ni"
   ],
   "pos": "noun",
-  "concept": "Neighbor / One Who Shares Daily Life",
-  "description": "Those who share an immediate, core space and the daily rhythms of life. The relationship is defined by proximity and the potential for mutual, everyday support.",
-  "sound_symbolism": "The word opens with the soft fricative /ɸ/, a breath rather than a call, the register of everyday greeting. The glide of 'wa' opens the middle of the word, and the close vowel of the final 'ni' brings it back to something small and near. That last syllable is also the intimacy honorific 'ni', which the word takes naturally: 'ni phewani' (dear neighbor).",
-  "grammatical_notes": "A noun typically pluralized with 'lo' when referring to the collective: 'lo phewani' (neighbors). Possessor precedes directly: 'mia phewani' (my neighbor). Can be used vocatively with 'kona': 'kona phewani' (neighbor!). Example: 'phewani pai womu menui.' (The neighbor dwells near the home.) With quantifiers: 'sheloi phewani' (many neighbors). The intimacy honorific 'ni' naturally combines: 'ni phewani' (dear neighbor).",
+  "search_terms": [
+    "neighbour",
+    "nearby resident"
+  ],
+  "description": "The person whose home, workplace, or regular place lies near another's is a 'phewani'. Proximity comes before relationship: a neighbour may become a friend or helper, but nearness alone promises neither. 'sila' (community) can include people who are not neighbours.",
+  "articulatory_notes": "Bring the lips close for unvoiced 'ph' and push air through the narrow opening, then release into middle-height front unrounded 'e'. Round the lips and raise the back of the tongue for voiced 'w', then open into stressed central 'a'. Touch the tongue tip to the upper teeth for dental 'n' and finish with high-front unrounded 'i'.",
+  "usage_notes": "Possessor-first 'mia phewani' identifies my neighbour. The setting supplies which places are near; an exact property boundary or legal adjacency remains part of its source record.",
+  "examples": [
+    {
+      "phi": "phewani pai womu menui.",
+      "translation": "The neighbour dwells near the home."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Neighbors form the foundation of resilient communities through hyperlocal mutual aid, tool sharing, and collective care. This isn't just living near each other but actively cultivating relationships that reduce individual resource needs while increasing collective abundance. Neighborly connections create the village-scale networks essential for sustainable futures.",
-    "pre-industrial-wisdom": "Traditional neighborhoods functioned as extended support networks where proximity created obligation and care. Before isolated nuclear families, neighbors shared childcare, celebrated harvests together, and provided first-response aid. This wisdom recognizes that those physically nearest often become our most reliable safety net."
+    "solarpunk-values": "A neighbour is near enough to share tools or notice a broken water line. 'phewani' keeps that practical possibility separate from any claim that the relationship is already warm."
   },
   "semantic_domains": {
-    "community": "fundamental to local social bonds and collective life",
-    "spatial": "defined by proximity and shared physical space"
+    "community": "a social relation created by recurring proximity",
+    "spatial": "a person located near another's regular place"
   }
 }

@@ -7,18 +7,24 @@
     "o"
   ],
   "pos": "noun",
-  "concept": "Elder / One Who Breathes Wholeness",
-  "description": "A respected member of the community who holds wisdom from long experience. The role is defined by the ability to guide, to hold memory, and to offer a connection to the larger context of the community's story.",
-  "sound_symbolism": "The word begins with the rare and sacred 'wh', a breathy fricative that requires the fullness of breath—just as elders carry the full breath of community memory. This special sound, used sparingly in Phi, marks the reverence we hold for those who have gathered seasons of wisdom. The vowel sequence 'e.o' moves from the particular to the whole, mirroring how elders help us see our individual stories within the larger pattern. In just two syllables, the word creates a feeling of both intimacy and expansiveness—the elder as both specific person and living repository of collective wisdom.",
-  "grammatical_notes": "A noun: 'wheo lo lopia thumela.' (The elder teaches the children.) Before another noun it modifies by position, indicating recognized seniority or wisdom: 'wheo kowela' (elder council).",
+  "search_terms": [
+    "older person"
+  ],
+  "description": "'wheo' is an older person recognised in the social role of elder. Age supports the role, but 'phewo' (sage) is the separate word for wisdom earned through reflection and experience. An elder may guide or teach, yet the title gives no automatic authority.",
+  "articulatory_notes": "Round the lips as for 'w', raise the back of the tongue towards the soft palate, and let unvoiced air pass through the narrowing for 'wh'. Move directly into stressed middle-height front unrounded 'e'. Keep middle-height back rounded 'o' in its own syllable across the hiatus.",
+  "sound_symbolism": "The voiceless rounded opening asks for a fuller breath than most Phi onsets. Its stressed vowel then opens into a second rounded syllable. The short word has an unhurried release, but age itself does not sound heavy.",
+  "usage_notes": "Before another noun, 'wheo' marks an elder association, as in 'wheo kowela' (elder council). 'serao' (old) describes duration without assigning this social role.",
+  "examples": [
+    {
+      "phi": "wheo thoa lo lopia nai.",
+      "translation": "The elder is among the children."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The elder represents accumulated wisdom through mindful living - one who has observed many cycles of arising and passing, gaining perspective on what truly matters. Their role as teachers comes not from authority but from having walked the path, offering guidance based on direct experience of life's patterns and transformations.",
-    "peace-linguistics-practices": "Elders serve as natural mediators and peacekeepers, their perspective spanning beyond immediate conflicts to see larger patterns and possibilities for reconciliation. Their words carry the weight of experience without the heat of immediate involvement, making them ideal facilitators for transforming conflict into understanding.",
-    "pre-industrial-wisdom": "Elders embody the living library of community knowledge - keepers of stories, skills, and seasonal wisdom that no book can fully capture. Traditional societies recognize that survival and thriving depend on this intergenerational transfer of experiential knowledge, making elders not burdens but treasures whose guidance ensures collective continuity."
+    "pre-industrial-wisdom": "A community can recognise people who carry long memory while still asking what they know and how they use it. 'wheo' gives that recognition a title without making age proof."
   },
   "semantic_domains": {
-    "community": "serves as keeper of collective memory and story",
-    "temporal": "embodies accumulated time and life cycles",
-    "wisdom": "holds experiential knowledge from long living"
+    "community": "an older person holding a recognised social role",
+    "temporal": "a role associated with the later part of a life"
   }
 }

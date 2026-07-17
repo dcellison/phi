@@ -8,16 +8,21 @@
     "nu"
   ],
   "pos": "noun",
-  "concept": "Culture / Shared Ways / Living Tradition",
-  "description": "The shared practices, beliefs, and expressions of a community; the living way passed between generations. 'Moenu' names what communities grow—the garden of shared meaning.",
-  "sound_symbolism": "The word moves with inheritance. 'Mo' shapes with shared patterns, ways moving. 'E' eases into natural expression, culture breathing. 'Nu' nurtures with passed-down care, tradition tended.",
-  "grammatical_notes": "Functions as noun; the possessing community precedes it: 'sila moenu' (the community's culture). What 'punoa' (society) expresses. Contains 'keno' (custom) and 'therema' (tradition).",
+  "description": "'moenu' is a learned and shared way of making meaning through practices, stories, knowledge, and expression. A community may hold several cultures, and each can change while still being inherited. 'therema' (tradition) is one practice or belief passed down; 'punoa' (society) is the broader collective setting.",
+  "articulatory_notes": "Close the lips for voiced 'm', let the sound resonate through the nose, and release into middle-height back rounded 'o'. Unround the lips and keep stressed middle-height front 'e' in a separate syllable across the hiatus. Touch the tongue tip to the upper teeth for dental 'n' and finish with high-back rounded 'u'.",
+  "usage_notes": "Possessor-first 'sila moenu' means the community's culture. A cultural label whose exact identity matters remains with its source, while Phi can describe the practices or relationships at issue.",
+  "examples": [
+    {
+      "phi": "sila moenu molei.",
+      "translation": "The community's culture evolves."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Culture as expression—the flowering of shared creativity and beauty.",
-    "pre-industrial-wisdom": "Culture as inheritance—the ways passed down that teach how to live well."
+    "pre-industrial-wisdom": "Practices survive by being learned again, not by sitting untouched. 'moenu' can name that inheritance while change remains explicit."
   },
   "semantic_domains": {
-    "community": "Shared ways",
-    "temporal": "Living inheritance"
+    "community": "shared meaning learned and practised among people",
+    "creation": "stories and other expressions through which a culture is made visible",
+    "temporal": "learned practices carried forward while continuing to change"
   }
 }

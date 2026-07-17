@@ -7,15 +7,20 @@
     "o"
   ],
   "pos": "noun",
-  "concept": "Parent / A Generative Source of Wholeness",
-  "description": "One who nurtures new life into being, whether through biological, adoptive, or community bonds. The role is defined by the act of providing a generative, whole, and open space for another to grow.",
-  "sound_symbolism": "'Pha' opens with the bilabial fricative /ɸ/, breath given outward—the sustaining breath a parent lends to new life. The final 'o' rounds into the circle of protection a parent forms around the young. Two open syllables keep the word soft: stewardship, not ownership.",
-  "grammatical_notes": "Role noun: 'phao lopia numelo.' (The parent nurtures the child.) The parenting is deeds: 'numelo' (nurture), 'thumela' (teach), 'theama' (care). Contrast 'phomila' (offspring) and 'lumira' (descendant) for the other direction of the relationship.",
+  "description": "A 'phao' is a parent through a continuing relation to a child. The relation may come through birth or accepted caregiving. Adoption belongs here; 'thowia phao' (birth parent) makes the biological source explicit when it matters. Parenting itself is said through acts such as 'numelo' (nurture) and 'theama' (care).",
+  "articulatory_notes": "Bring the lips close without closing them and push unvoiced air through the narrow opening for 'ph'. Lower the tongue into stressed open central 'a', then keep middle-height back rounded 'o' in a separate syllable across the hiatus.",
+  "sound_symbolism": "The fricative begins as breath between nearly closed lips, then both vowels remain open and distinct. That movement from held air into two clear syllables gives the word a gentle spaciousness without assigning care to either sound.",
+  "usage_notes": "The unmarked noun leaves gender unstated. A possessor before 'phao' identifies whose parent is meant, while the surrounding clause states the care, descent, or sourced status under discussion.",
+  "examples": [
+    {
+      "phi": "phao lopia numelo.",
+      "translation": "The parent nurtures the child."
+    }
+  ],
   "pillars": {
-    "pre-industrial-wisdom": "Traditional parenting was a communal practice where biological parents were supported by extended family, neighbors, and elders in raising children. This distributed care system ensured no parent bore the burden alone and children learned from multiple wisdom keepers. The village that raises the child also sustains the parent."
+    "peace-linguistics-practices": "The unmarked form lets a speaker name care or descent without assigning a gender class. The next verb says what the parent actually did."
   },
   "semantic_domains": {
-    "community": "fundamental to family bonds and social structure",
-    "creation": "literally creates and nurtures new life"
+    "community": "a continuing family relation to a child"
   }
 }

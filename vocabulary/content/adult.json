@@ -8,15 +8,18 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Adult / One Who Has Ripened",
-  "description": "A person who has reached full maturity, carrying the responsibilities and wisdom that come with lived experience. The term emphasizes not just physical maturity but emotional and social readiness to contribute to community wellbeing.",
-  "sound_symbolism": "The word opens with the soft fricative 'pha' /ɸä/ — a measured breath rather than the quick air of youth. 'Re' carries the liquid sound of return and responsibility, and the final open 'a' gives the word spaciousness, the room of one who can hold others.",
-  "grammatical_notes": "A noun. 'pharea lo lopia thumela.' (The adult teaches the children.) Before another noun it modifies by position: 'pharea miona' (an adult person). Sits in the life-arc vocabulary between 'helia' (youth) and 'wheo' (elder); contrast 'seroli' (mature), which names the quality rather than the life stage.",
-  "pillars": {
-    "pre-industrial-wisdom": "The concept of adulthood as a recognized life stage with specific responsibilities and wisdom is fundamental to traditional societies. The metaphor of 'ripening' and the emphasis on giving back to community reflect pre-industrial understanding of maturity as integration into the cycles of communal life, not just individual achievement."
-  },
+  "description": "A 'pharea' is a person accepted as having reached adulthood; the applicable community or source supplies the threshold. 'seroli' (mature) judges development in context. 'phewo' (sage) makes a separate claim about wisdom.",
+  "articulatory_notes": "Bring the lips close without closing them and push unvoiced air through the narrow opening for 'ph', then lower the tongue into open central 'a'. Tap or briefly trill the tongue at the alveolar ridge for 'r' and release into stressed middle-height front unrounded 'e'. Keep final open central 'a' separate across the 'e.a' hiatus.",
+  "usage_notes": "The noun can describe another noun by standing before it, as in 'pharea miona' (adult person). Exact legal majority remains a sourced status rather than a second meaning hidden inside the word.",
+  "examples": [
+    {
+      "phi": "pharea lo lopia thumela.",
+      "translation": "The adult teaches the children."
+    }
+  ],
   "semantic_domains": {
-    "community": "embodies responsibility and contribution to collective wellbeing",
-    "temporal": "represents ripened maturity as a life stage"
+    "community": "a person recognised at the adult stage of social life",
+    "physical": "a human developmental stage after youth",
+    "temporal": "the life stage following youth"
   }
 }

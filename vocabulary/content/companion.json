@@ -8,16 +8,23 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "Companion / Fellow Traveler / Journey Partner",
-  "description": "One who accompanies another; a fellow traveler on the path. 'Keloe' names who walks beside—not ahead or behind but alongside.",
-  "sound_symbolism": "The word keeps with presence. 'Ke' holds with abiding company, companionship maintained. 'Lo' opens with shared path, journey together. Then 'e' eases into comfortable togetherness.",
-  "grammatical_notes": "Functions as noun: 'keloe nua mia thalo.' (The companion walks with me.) Related to 'melu' (friend) but emphasizes shared journey. One who shares 'thole' (practice).",
+  "search_terms": [
+    "fellow traveller"
+  ],
+  "description": "A journey or stretch of life may have a 'keloe', the person who accompanies someone through it. Companionship centres shared presence; affection and partnership remain separate claims. 'melu' (friend) is a closer chosen relation, while 'tewema' (partner) adds an understood pair or shared undertaking.",
+  "articulatory_notes": "Raise the back of the tongue to the soft palate for unvoiced 'k' and release into middle-height front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and round the lips for stressed middle-height back 'o'. Keep final middle-height front unrounded 'e' in its own syllable across the hiatus.",
+  "sound_symbolism": "The opening stop gives way to voiced 'l' and then to an open vowel hiatus. The word loosens as it proceeds, a useful felt cue for company that continues along a path rather than gripping it.",
+  "usage_notes": "A comitative phrase with 'nua' can name the person accompanied. The noun need not imply a permanent role; the journey, practice, visit, or other shared course supplies its duration.",
+  "examples": [
+    {
+      "phi": "keloe nua mia thalo.",
+      "translation": "The companion walks with me."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Kalyana-mitta—the spiritual friend who accompanies on the path.",
-    "pre-industrial-wisdom": "Companion as bread-sharer—the original meaning, those who break bread together."
+    "secular-buddhist-philosophy": "A practice companion can walk the same path without claiming authority over it. That makes 'keloe' useful beside 'kulo' (guide)."
   },
   "semantic_domains": {
-    "community": "Journey partner",
-    "emotion": "Abiding presence"
+    "community": "a person sharing a course or period of company with another"
   }
 }

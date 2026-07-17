@@ -8,16 +8,16 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Society / Organized Community / Social Order",
-  "description": "An organized group of people living together with shared customs and institutions. 'Punoa' names the larger weave—the fabric of relationships that makes collective life possible.",
-  "sound_symbolism": "The word gathers with structure. 'Pu' collects with gathering presence, people assembling. 'No' settles with organized form, structure emerging. Then 'a' opens to inclusive belonging.",
-  "grammatical_notes": "Functions as noun: 'lo sila punoa norelu.' (The communities form a society.) Larger than 'shorai' (commune), the broad social fabric. Contains 'moenu' (culture) and 'keno' (custom).",
-  "pillars": {
-    "secular-buddhist-philosophy": "Sangha writ large—society as extended community of practice and mutual support.",
-    "peace-linguistics-practices": "Society as conversation—social order maintained through ongoing dialogue and agreement."
-  },
+  "description": "Relationships, customs, and institutions together make the broad social field called 'punoa'. It is wider than one 'sila' (community), and its arrangements need not be just or agreed. Commons 'punoki' (institution) identifies one continuing organised arrangement inside that field.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into high-back rounded 'u'. Touch the tongue tip to the upper teeth for dental 'n' and move into stressed middle-height back rounded 'o'. Keep final open central 'a' in its own syllable across the hiatus.",
+  "usage_notes": "The noun can act as a collective subject or describe something associated with society. A named state, people, or exact institutional order retains its source identity while 'punoa' supplies the wider social field.",
+  "examples": [
+    {
+      "phi": "punoa ru helui.",
+      "translation": "Society changes greatly."
+    }
+  ],
   "semantic_domains": {
-    "community": "Social organization",
-    "wisdom": "Collective order"
+    "community": "the wider social field formed by relationships, customs, and institutions"
   }
 }

@@ -8,18 +8,25 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Child / A Being of Gentle Purpose",
-  "description": "A new being in the process of becoming, held as a sacred trust by the community. The focus is on their inherent potential and the gentle purpose unfolding within them.",
-  "sound_symbolism": "The liquid 'l' of 'lo' rolls and the light stop 'p' of 'pi' pops: quick, playful movement in two syllables. The final 'a' stands alone in hiatus, open like a child's wide-eyed attention.",
-  "grammatical_notes": "A noun referring to young humans in their developmental years. Pluralized with 'lo' only for unquantified plurality: 'lo lopia' (children). Possession is bare juxtaposition with the possessor first: 'lumani lopia' (the family's child). A counted child may take optional human classifier 'himo': 'wi himo lopia' (two children); 'wi lopia' is also grammatical. Forms part of kinship vocabulary alongside 'lumira' (descendant) and 'thalume' (ancestor).",
+  "search_terms": [
+    "young person"
+  ],
+  "description": "'lopia' is a person in childhood. It marks a stage of life rather than a line of descent: a grown person's child is 'phomila' (offspring), while 'limu' (young) is the wider quality of early development.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and round the lips for middle-height back 'o'. Close the lips for unvoiced 'p' and release into stressed high-front unrounded 'i'. Keep final open central 'a' in a separate syllable across the 'i.a' hiatus.",
+  "sound_symbolism": "The light tongue contact and small release into stressed 'pi' give the middle of the word a quick, lively motion. The last vowel opens into a syllable of its own. The form ends with more room than its first two beats suggest.",
+  "usage_notes": "The word can stand alone or describe another noun, as in 'lopia miona' (child person). Exact age is stated through the years a person holds; childhood is not one fixed numerical band in the base word.",
+  "examples": [
+    {
+      "phi": "lopia mua thepalu wile.",
+      "translation": "The child plays in the garden."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Children embody the living future that solarpunk works to create - they are why we build sustainable systems and regenerative cultures. The movement recognizes that true sustainability means creating conditions where all children can thrive, inheriting a world of abundance rather than scarcity, possibility rather than limitation.",
-    "secular-buddhist-philosophy": "Children exemplify beginner's mind - approaching each moment with fresh curiosity and wonder. Their wellbeing depends entirely on the care of others, a plain fact of interdependence, and in nurturing children we practice compassion and recognize that their becoming is inseparable from our own continued growth.",
-    "pre-industrial-wisdom": "Traditional societies understand children as held in trust by the entire community, not owned by individual parents. This collective responsibility for nurturing the young reflects deep wisdom about how human potential unfolds through relationship and that a child's wellbeing is inseparable from the community's future vitality."
+    "solarpunk-values": "A child makes later consequences human and present. A plan can name who will inherit its garden or its danger."
   },
   "semantic_domains": {
-    "community": "held as sacred trust by collective responsibility",
-    "nature": "unfolds inherent potential through organic growth",
-    "temporal": "embodies process of becoming and living future"
+    "community": "a young person in family and social relations",
+    "physical": "the human developmental stage of childhood",
+    "temporal": "an early span within a person's life"
   }
 }

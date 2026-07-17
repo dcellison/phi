@@ -7,16 +7,20 @@
     "la"
   ],
   "pos": "noun",
-  "concept": "Community / Living collective / Interwoven whole",
-  "description": "A group of beings bound together by shared place, purpose, values, or circumstance. 'Sila' names the middle scale of human organization, larger than a family and smaller than a society, where relationships are face-to-face and responsibility is mutual. At this scale the wellbeing of the members and of the whole are not separable.",
-  "sound_symbolism": "The word begins with 'si', where the soft sibilant 's' suggests the continuous flow of social energy—like streams converging—meeting 'i', the bright vowel of collective awareness and shared vision. This flows into 'la', where the liquid 'l' creates pathways of connection, opening to 'a', the most fundamental vowel of existence and presence. Together, 'sila' creates the sound of community itself: flowing awareness ('si') becoming shared paths ('la')—individual streams joining to form a river of collective life.",
-  "grammatical_notes": "As a collective noun, 'sila' can function as either singular (the community as a unit) or take the plural particle 'lo' for multiple communities: 'lo sila' (communities). Can take possessive modifiers: 'mia sila' (my community), 'thia sila' (your community). Often appears as the subject of collective actions or the object of belonging. Frequently used with locative prepositions to indicate where community exists or gathers.",
+  "description": "A 'sila' is a group sustained by shared life, purpose, or place. Its people can belong without all agreeing. 'punoa' (society) is the wider field of social arrangements, while Commons 'wemari' (member) records recognised standing under a stated criterion.",
+  "articulatory_notes": "Bring the tongue blade close to the alveolar ridge and send unvoiced air through the narrow channel for 's', then raise the tongue into stressed high-front unrounded 'i'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and finish with open central 'a'.",
+  "sound_symbolism": "A narrow hiss opens into the bright stressed vowel, then the tongue changes from a central channel to air flowing along its sides. The two different paths share one continuous breath, a compact physical image for people remaining distinct within common life.",
+  "usage_notes": "The noun may refer to one community as a collective or take 'lo' for several communities. In ecological analysis, 'liweso' (ecological community) names co-occurring populations rather than borrowing this human social term.",
+  "examples": [
+    {
+      "phi": "su sila towe nai.",
+      "translation": "May the community be well."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Community is the foundational unit of solarpunk organizing—the scale at which regenerative practices, mutual aid, and sustainable systems become tangible. 'Sila' embodies the solarpunk vision of interconnected communities creating resilient alternatives to extractive systems, where technology serves collective flourishing rather than individual accumulation.",
-    "secular-buddhist-philosophy": "The Sangha (community) forms one of Buddhism's Three Jewels, recognizing that awakening happens in relationship, not isolation. 'Sila' reflects the understanding that spiritual development requires the mirror of community—others who challenge, support, and witness our growth toward wisdom and compassion.",
-    "pre-industrial-wisdom": "Traditional societies understood community as the natural unit of human survival and thriving—not an optional association but the essential context for human life. 'Sila' carries this ancient recognition that humans are inherently communal beings, that individual identity emerges from and returns to collective belonging."
+    "solarpunk-values": "At community scale, shared water and repair can be discussed with the people affected still in the sentence."
   },
   "semantic_domains": {
-    "community": "fundamentally about social relationships and collective organization"
+    "community": "a continuing group joined by shared life, purpose, or place"
   }
 }

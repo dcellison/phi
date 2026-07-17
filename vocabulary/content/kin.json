@@ -8,16 +8,24 @@
     "ni"
   ],
   "pos": "noun",
-  "concept": "Kin / Deep Family Bond",
-  "description": "The bonds of connection that create a sense of family, whether through blood, choice, or shared experience. It is the deep, flowing current of belonging that runs through generations and communities.",
-  "sound_symbolism": "The thoughtful 'th' honors the sacred nature of family bonds. The flowing 'lu' suggests the bloodlines and story-streams that connect generations, while the intimate 'ni' brings this vast connection into personal, heartfelt space. This creates a word that feels both ancient and intimate - like the moment you recognize your grandmother's eyes in your own child's face.",
-  "grammatical_notes": "A noun (kin/relatives). Example: 'mia thaluni mua womu menui.' (My kin dwell in the home.) Before another noun it modifies by position (kin-like, related). Related: lumani (family), thalume (ancestor), lumira (descendant).",
+  "search_terms": [
+    "relative",
+    "relatives"
+  ],
+  "description": "A person's relatives, or one relative within that wider relation, are 'thaluni'. Kin may come through descent, adoption, or another family bond recognised by the people involved. 'lumani' (family) is the group or inner relation as a whole; 'thaluni' points to its related people.",
+  "articulatory_notes": "Place the tongue tip lightly at the upper teeth and pass unvoiced air through the gap for 'th', then lower the tongue into open central 'a'. Touch the tongue tip to the alveolar ridge for voiced 'l', release air along its sides, and round the lips for stressed high-back 'u'. Return the tongue tip to the upper teeth for dental 'n' and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The opening 'tha.lu' is shared exactly with 'thalume' (ancestor). Their audible kinship gives the broader family relation and one direction through it a memory link without making the shared syllables productive parts.",
+  "usage_notes": "The number of people may remain contextual or take explicit 'lo'. Before another noun, 'thaluni' marks a kin association; a precise family relation can be stated through the relevant people and descent.",
+  "examples": [
+    {
+      "phi": "mia thaluni mua womu menui.",
+      "translation": "My kin dwell in the home."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Kin embodies the teaching of interdependence at its most intimate level - we literally would not exist without the web of relationships that created and sustain us. This understanding extends beyond blood to recognize kinship wherever deep connection and mutual care arise, seeing all beings as potential family in the great web of existence.",
-    "pre-industrial-wisdom": "Kinship in traditional societies extends far beyond nuclear family to encompass complex networks of mutual obligation and support. This understanding sees kin as the primary social safety net, where belonging is both birthright and responsibility. Kinship creates identity through relationship, teaching that we exist not as isolated individuals but as part of an ongoing story."
+    "pre-industrial-wisdom": "The wider word keeps family care from shrinking to one household. It can name relatives who share memory and responsibility across homes."
   },
   "semantic_domains": {
-    "community": "fundamental to social structure and networks of belonging",
-    "emotion": "embodies deep bonds of love and connection"
+    "community": "people connected through an acknowledged family relation"
   }
 }

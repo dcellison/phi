@@ -8,16 +8,25 @@
     "wa"
   ],
   "pos": "noun",
-  "concept": "Generation / The Age-Cohort",
-  "description": "A generation: the people moving through life together, and the interval between parents and children. The word covers both, as most languages let it: 'mia noruwa' (my generation), 'wi noruwa' (two generations).",
-  "sound_symbolism": "'no' grounds it in people, 'ru' rolls it forward, 'wa' opens to the ones after. The word moves in one direction, as its meaning does.",
-  "grammatical_notes": "Noun: 'theula noruwa melira meliho.' (Every generation sings the songs.)",
+  "search_terms": [
+    "age cohort",
+    "descent interval"
+  ],
+  "description": "'noruwa' has two linked uses: a cohort passing through life at roughly the same time, and one interval in a line of descent. Context distinguishes 'mia noruwa' (my generation) from a count such as 'wi noruwa' (two generations). Exact years remain a separate measurement.",
+  "articulatory_notes": "Touch the tongue tip to the upper teeth for dental 'n' and release into middle-height back rounded 'o'. Tap or briefly trill the tongue at the alveolar ridge for 'r', then tighten the lip rounding for stressed high-back 'u'. Round the lips and raise the back of the tongue for voiced 'w', then open into central 'a'.",
+  "sound_symbolism": "The tongue tap in the stressed middle syllable turns quickly into the final glide. That forward movement gives the three syllables a useful felt contour for people or intervals following one another.",
+  "usage_notes": "A named law or study may set exact cohort boundaries; keep those criteria with the source. In ordinary Phi, the context shows whether 'noruwa' means contemporaries or a step between descent levels.",
+  "examples": [
+    {
+      "phi": "theula noruwa melira meliho.",
+      "translation": "Every generation sings the songs."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Seventh-generation thinking needs the word: decisions weighed against people who do not exist yet, counted in noruwa.",
-    "pre-industrial-wisdom": "Where nothing was written, a generation was the unit of memory: what the old taught the young was the whole library."
+    "solarpunk-values": "'noruwa' gives long-term choices an audible span. A plan can ask what reaches later generations instead of speaking of the future as if no people live there."
   },
   "semantic_domains": {
-    "community": "The cohort moving together",
-    "temporal": "The interval of inheritance"
+    "community": "people grouped by a shared position in social time",
+    "temporal": "a cohort or interval within succession through time"
   }
 }
