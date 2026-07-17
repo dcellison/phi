@@ -1,0 +1,28 @@
+{
+  "word": "pumari",
+  "gloss": "suck",
+  "ipa": "/pu.ˈmä.ri/",
+  "syllables": [
+    "pu",
+    "ma",
+    "ri"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "draw into the mouth",
+    "nurse"
+  ],
+  "description": "A person or animal 'pumari' when the mouth closes around something and draws inward. Milk may enter; a thumb may not. 'milau' (drink) covers liquid intake, while sucking describes the method and can occur without swallowing.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into high-back rounded 'u'. Close them again for voiced 'm', carry the sound through the nose, and open into stressed central 'a'. Tap or briefly trill the tongue tip at the alveolar ridge and finish with high-front unrounded 'i'.",
+  "usage_notes": "The thing held at the mouth or drawn inward comes before 'pumari'. A source can distinguish nursing from suction through a tube. In noun position, the same form is one sucking action.",
+  "examples": [
+    {
+      "phi": "lopia milura pumari.",
+      "translation": "The child sucks milk."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "drawing inward with the mouth around a person, object, or substance",
+    "physical": "oral pressure used to draw material or hold something at the mouth"
+  }
+}

@@ -12,7 +12,8 @@ The module does not replace what Phi already says about bodies and their care. I
 
 | Area | Core Phi resources |
 |---|---|
-| Body and experience | `weloni` body, `phaelo` feel, `morae` sense, `kipona` pain, `mokela` sick, `mokura` belly, `lorika` blood, `whunei` breathe, `kehota` cough, `mupelo` vomit, `siwe` sweat, `nulae` sleep, `therilu` rest |
+| Body and experience | `weloni` body, `mashuri` flesh, `phaelo` feel, `morae` sense, `kipona` pain, `sikoru` itch, `numaro` numbness, `tiphori` tingling, `wiloru` dizziness, `mokela` sick, `mokura` belly, `lorika` blood, `siwe` sweat |
+| Ordinary bodily acts | `whunei` breathe, `kehota` cough, `mupelo` vomit, `lisaku` lick, `pumari` suck, `nishoku` sneeze, `ketumi` hiccup, `rumeka` belch, `murase` swell, `kesiri` shrink, `nulae` sleep, `therilu` rest |
 | Health and care | `sunai` health, `wolu` healthy, `theama` care, `theala` heal, `nepha` medicine, `naphe` help, `panoru` support, `thuleni` comfort, `shorupo` protect, `shurano` safe, `pukea` danger |
 | Autonomy and interaction | `lesawi` consent, `palo` touch, `loa` give, `kanu` choose, `nawo` agree, `naweri` refuse, `kelomi` accept, `thekao` acknowledge, `nawea` respect, `kawhera` coerce, `whepelo` retaliate, `hasi` wait, `pi` politeness, `wa` question |
 | Explanation and understanding | `reo` meaning, `thelima` describe, `solae` explain, `lilea` clarify, `shelomu` understand, `sano` know, `nohero` believe, `nila` see, `hea` hear |

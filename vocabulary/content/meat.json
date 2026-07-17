@@ -8,16 +8,23 @@
     "ma"
   ],
   "pos": "noun",
-  "concept": "Meat / Flesh as Food",
-  "description": "Meat: animal flesh eaten as food, named plainly by owner ruling. Phi refuses euphemism here; a diet that includes meat should be able to say so. The word covers meat on the table, not the living animal ('nolika') and not any act of violence, for which the language has no vocabulary.",
-  "sound_symbolism": "Grounded 'ne', dense 'ku' at the center, settled 'ma': weight on the table, nothing decorative about it.",
-  "grammatical_notes": "Noun: 'mia nekuma nuola.' (I eat meat.) 'miona nekuma pharelo.' (The person cooks meat.)",
+  "search_terms": [
+    "animal flesh as food"
+  ],
+  "description": "'nekuma' is animal flesh prepared, sold, or eaten as food. The noun leaves the animal source visible without deciding how the food was obtained or prepared. 'mashuri' (flesh) is the wider bodily substance, whether or not anyone treats it as food.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and release into middle-height front unrounded 'e'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed high-back rounded 'u'. Close the lips for voiced 'm', keep the sound nasal, and finish with central 'a'.",
+  "usage_notes": "A source animal can modify 'nekuma' when the distinction matters. Preparation and preservation stay separate; so do sharing, refusal, and the circumstances of the animal's death.",
+  "examples": [
+    {
+      "phi": "mia nekuma nuola.",
+      "translation": "I eat meat."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Naming meat as what it is keeps the eater aware of what the meal cost. Euphemism is how that awareness gets lost.",
-    "pre-industrial-wisdom": "Subsistence diets included meat, and pretending otherwise would be nostalgia rather than wisdom. The word is honest about how people fed themselves."
+    "secular-buddhist-philosophy": "The plain food noun keeps the animal source available to attention when a speaker describes a meal."
   },
   "semantic_domains": {
-    "nature": "The animal become food",
-    "physical": "Weight on the table"
+    "nature": "animal tissue understood through the species and body from which it came",
+    "physical": "animal flesh handled or eaten as food"
   }
 }

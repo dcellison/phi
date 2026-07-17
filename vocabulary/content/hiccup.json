@@ -1,0 +1,28 @@
+{
+  "word": "ketumi",
+  "gloss": "hiccup",
+  "ipa": "/ke̞.ˈt̪u.mi/",
+  "syllables": [
+    "ke",
+    "tu",
+    "mi"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "hiccough",
+    "hiccupping"
+  ],
+  "description": "Someone 'ketumi' when a sudden involuntary contraction of the diaphragm is followed by a quick closure in the throat. The familiar short sound may recur in a series. A cough drives air outward; a hiccup briefly catches the breath.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into middle-height front unrounded 'e'. Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into stressed high-back rounded 'u'. Close the lips for voiced 'm', carry the sound through the nose, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "Two unvoiced stops interrupt the first two syllables before nasal 'm' lets the final syllable continue. That stop, release, and continuation can recall a breath caught for an instant.",
+  "usage_notes": "No object is needed with 'ketumi'. The event noun is a hiccup, and ordinary aspect or counting can describe a bout that continues.",
+  "examples": [
+    {
+      "phi": "mia ketumi.",
+      "translation": "I hiccup."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "an involuntary diaphragmatic contraction followed by a brief throat closure"
+  }
+}

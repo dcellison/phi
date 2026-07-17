@@ -1,6 +1,6 @@
 # Lexicon Expansion Survey (2026-07-17)
 
-This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,207 entries: 1,077 content words, 110 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become rich where speakers need specialised discussion.
+This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,219 entries: 1,089 content words, 110 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become detailed where speakers need specialised discussion.
 
 A missing English headword is not automatically a Phi gap. A concept may already be covered elegantly by a broader root, ordinary composition, an event noun, a registered compound, or a separately presented source artifact plus Phi analysis. That observation does not prohibit coinage: a concept may receive a dedicated word because it is important, useful, beautiful, or worth making easy to discuss.
 
@@ -42,9 +42,10 @@ The coverage repair adds direct base words where the existing detour no longer s
 | Body and force | `muthari` nausea; `patore` hit |
 | Material change and growth | `tisharu` puncture; `wilanu` dissolve; `kureno` wither |
 | Undertaken activity | `mesatu` try; `sheraki` search |
-| Ordinary body map | Sixteen roots and six registered compounds for brain, throat, joints, face and lower-torso landmarks, bodily fluids, mucus, and fat |
+| Ordinary body map | Seventeen roots and six registered compounds for brain, throat, joints, face and lower-torso landmarks, bodily fluids, mucus, fat, and flesh |
+| Bodily sensation and action | `sikoru` itch; `numaro` numbness; `tiphori` tingling; `wiloru` dizziness; `lisaku` lick; `pumari` suck; `nishoku` sneeze; `ketumi` hiccup; `rumeka` belch; `murase` swell; `kesiri` shrink |
 
-That repair did not declare the lexicon complete. It recovered material and measurement questions that earlier headings missed, then did the same for perception, form, conflict, and affect. Practical actions and ordinary bodily concepts yielded more. Writing objects, selected animals, rice, and tea complete the recovered set. Open questions stay open in the register; deferred ones carry a return condition. An uncertain answer may wait, but the question no longer disappears.
+That repair did not declare the lexicon complete. It recovered material and measurement questions that earlier headings missed, then did the same for perception, form, conflict, and affect. Twelve recent roots now resolve the first set of ordinary bodily sensations and actions. Writing objects, selected animals, rice, and tea remain in the recovered set, along with several practical acts. Open questions stay open in the register; deferred ones carry a return condition. An uncertain answer may wait, but the question no longer disappears.
 
 ## Priority 1: Domain vocabulary passes for Phi's stated purpose
 

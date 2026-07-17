@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (281)
+## activity (283)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -61,6 +61,7 @@
 | `lepa` | fall | an event in which a body loses support and descends |
 | `lesawi` | consent | permitting a stated action that affects oneself or a relationship for which one may speak |
 | `liroa` | playful | a play-seeking manner brought to an action or interaction |
+| `lisaku` | lick | moving the tongue across a person, object, or substance |
 | `loa` | give | directing something towards a recipient through an act of giving |
 | `loatho` | delegate | entrusting a bounded role or action to a recipient |
 | `lokane` | accessible | a route, tool, or arrangement available for a particular activity |
@@ -158,6 +159,7 @@
 | `poru` | productive | work or a process that reaches useful or intended results |
 | `poruli` | efficient | a relation between resources used and useful performance |
 | `pukate` | break | an event in which a whole loses the structure or continuity that held it together |
+| `pumari` | suck | drawing inward with the mouth around a person, object, or substance |
 | `puse` | spit | expelling material from the mouth |
 | `pushali` | overload | demand exceeding the capacity needed to continue an action |
 | `ralemi` | independent | an action directed by the person carrying it out |
@@ -1431,7 +1433,7 @@
 | `muriwe` | worm | The soil's quiet maker |
 | `muroa` | fertile | the capacity of soil, organisms, or conditions to support growth or reproduction |
 | `napuro` | grain | The seed-crop of the year |
-| `nekuma` | meat | The animal become food |
+| `nekuma` | meat | animal tissue understood through the species and body from which it came |
 | `nelore` | preserve | protection of a living place, species, or ecological continuity |
 | `neparu` | cloud | Atmospheric water vapor |
 | `neri` | cool | moderately low temperature in air, water, shade, or weather |
@@ -1570,7 +1572,7 @@
 | `wolea` | wood | Tree material |
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 
-## physical (396)
+## physical (408)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1616,7 +1618,9 @@
 | `kerou` | stone | solid, heavy, enduring matter |
 | `keru` | bright | a high amount of emitted or reflected light |
 | `keruko` | sturdy | resistance to damage during handling or use |
+| `kesiri` | shrink | decrease in bodily or material extent |
 | `kethua` | hard | resistance to indentation or deformation under pressure |
+| `ketumi` | hiccup | an involuntary diaphragmatic contraction followed by a brief throat closure |
 | `kiparu` | joint | a bodily articulation where firm parts meet and movement occurs |
 | `kiphira` | fault | an abnormal condition in a technical component or relation |
 | `kipona` | pain | pain experienced in or through the body |
@@ -1656,6 +1660,7 @@
 | `limu` | young | early bodily or organismal development |
 | `liona` | live | biological living as an activity or condition |
 | `lirupa` | bag | a soft-sided holder that changes shape around its contents |
+| `lisaku` | lick | surface contact made by the tongue |
 | `loa` | give | passing a material object into another person's use or keeping |
 | `lomare` | embrace | arms, clothing, or another enclosing form surrounding a body or space |
 | `lomeki` | fat | energy-storing and cushioning bodily tissue or separated animal material |
@@ -1681,6 +1686,7 @@
 | `maeli` | quiet | little or no sound in a source, event, or place |
 | `malomi` | balance | a body or object kept in position by redistributed weight or force |
 | `manuwe` | hand | the grasping and touching part at the end of an arm |
+| `mashuri` | flesh | the soft bodily substance around bone and beneath skin |
 | `masue` | measure | determining a magnitude of a body, object, or material |
 | `meilo` | sit | bodily posture supported by a seat or the haunches |
 | `meipa` | seat | Made for sitting |
@@ -1720,6 +1726,7 @@
 | `muphera` | stock | a situated collection of tangible items |
 | `muphia` | mud | The soft give underfoot |
 | `muralo` | material | physical matter described through composition, condition, and movement |
+| `murase` | swell | increase in bodily or material extent through an internal change |
 | `mureo` | stable | retention of position or form under disturbance |
 | `murethi` | impairment | a stated bodily or sensory functional difference |
 | `muthari` | nausea | a bodily sensation associated with the possibility of vomiting |
@@ -1728,13 +1735,14 @@
 | `naphelu` | assistive | support for a bodily or sensory function |
 | `nathoku` | contraindicated | advice based on the relation between an intervention and bodily conditions |
 | `natu` | pull | force that draws a body or object along its line of contact |
-| `nekuma` | meat | Weight on the table |
+| `nekuma` | meat | animal flesh handled or eaten as food |
 | `nepha` | medicine | Restoration |
 | `nephoru` | treat | an action directed toward bodily or health change |
 | `neri` | cool | temperature below warm but milder than cold |
 | `newai` | fresh | retention of an expected recent quality before spoilage or fading |
 | `nila` | see | perception through sight |
 | `nira` | cord | Flexible connection |
+| `nishoku` | sneeze | an involuntary burst of air prompted by irritation in the nose |
 | `nolue` | neck | the external region joining the head to the torso |
 | `noluha` | swallow | the muscular movement that begins passage into the digestive tract |
 | `nomiki` | concentration | an amount of matter, organisms, or another agent per stated medium |
@@ -1748,6 +1756,7 @@
 | `nuhewa` | weep | the bodily event of tears flowing |
 | `nulae` | sleep | recurring bodily state of sleep |
 | `nulomi` | guts | the intestines and other abdominal inner workings considered collectively |
+| `numaro` | numbness | reduced or absent ordinary sensation in a body region |
 | `numea` | nestle | the body settling into a close, sheltered, or warm position |
 | `nuola` | eat | oral intake of food |
 | `nuora` | food | what sustains bodily life |
@@ -1819,6 +1828,7 @@
 | `pukea` | danger | The nearness of possible harm |
 | `pukeri` | damage | adverse change to the condition or function of a tangible thing |
 | `puko` | bitter | a bitter gustatory quality distinct from acidity |
+| `pumari` | suck | oral pressure used to draw material or hold something at the mouth |
 | `puro` | strength | the capacity of a body or material to exert or withstand force |
 | `puse` | spit | an outward movement of material through the lips |
 | `pushali` | overload | bodily burden produced by excessive input or demand |
@@ -1837,6 +1847,7 @@
 | `rolutha` | wagon | Wheels made a carrier |
 | `rotiku` | dance | patterned movement made through the body |
 | `ruemi` | lie down | bodily posture supported along more than the feet or seat |
+| `rumeka` | belch | release of gas from the upper digestive tract through the mouth |
 | `saphei` | shallow | a vessel, cut, or body of water with little depth |
 | `sawa` | wash | water or another washing liquid carrying unwanted matter from a surface |
 | `sawathi` | soap | material that loosens oil and dirt in water |
@@ -1866,6 +1877,7 @@
 | `shumeko` | sticky | a material or surface that adheres on contact and resists easy separation |
 | `shuneki` | vaccinate | an intervention intended to induce bodily protection |
 | `shurano` | safe | a body, path, object, or action assessed as sufficiently protected from relevant harm |
+| `sikoru` | itch | a localised bodily sensation that prompts scratching or rubbing |
 | `siwe` | sweat | watery fluid released through the skin for cooling |
 | `somela` | observe | sustained sensory observation of a material object or change |
 | `sophae` | cotton | Soft covering |
@@ -1913,6 +1925,7 @@
 | `thuroa` | grow | change in bodily or material size |
 | `thuroi` | resilient | return toward workable form or function after stress |
 | `tinako` | rigid | resistance to bending, twisting, or rearrangement under force |
+| `tiphori` | tingling | a dispersed prickling sensation felt in a body region |
 | `tipika` | fingernail | the hard plate growing at the end of a finger |
 | `tiripe` | quiver | rapid involuntary or lightly controlled motion of a body or part |
 | `tisharu` | puncture | penetration that leaves a hole |
@@ -1962,6 +1975,7 @@
 | `whunei` | breathe | respiration through exchange with the surrounding medium |
 | `wilanu` | dissolve | loss of a substance's separate boundary as it disperses through a medium |
 | `wilemo` | toy | The crafted companion |
+| `wiloru` | dizziness | a bodily disturbance of orientation or balance as the person experiences it |
 | `wipha` | restless | recurrent movement or an urge to move |
 | `wiralu` | runoff | a mobile body of surface water that may carry material |
 | `wirua` | wet | liquid coating a surface or absorbed into a material |
@@ -1971,12 +1985,13 @@
 | `wonepa` | table | The social flat of the house |
 | `wuloe` | soft | a yielding texture or contact that cushions pressure |
 
-## quantity (29)
+## quantity (31)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `hirawo` | distance | a measurable separation between two spatial referents |
 | `kelai` | equals | equality between quantities or the result of a calculation |
+| `kesiri` | shrink | an overall size or volume becoming smaller |
 | `kolo` | equal | sameness in a stated amount, measure, or rank |
 | `lau` | twenty-seven-group | the twenty-seven scale used in exact and approximate enumeration |
 | `leiro` | release | removing a selected amount from a starting quantity |
@@ -1984,6 +1999,7 @@
 | `malomi` | balance | proportions adjusted so their effects remain workable together |
 | `masue` | measure | measurement that produces or compares a magnitude |
 | `mu` | zero | the exact numerical value for no counted members |
+| `murase` | swell | an overall size or volume becoming greater |
 | `phanoi` | portion | relating a total to a number of groups and the resulting quotient |
 | `pheno` | full | contents reaching the capacity relevant to the present comparison |
 | `phoi` | nine-group | the nine scale used in exact and approximate enumeration |

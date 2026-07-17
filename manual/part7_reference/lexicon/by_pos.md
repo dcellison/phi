@@ -301,7 +301,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (524)
+## noun (529)
 
 | Word | Gloss |
 |---|---|
@@ -452,6 +452,7 @@
 | `lushe` | hip |
 | `maewo` | threshold |
 | `manuwe` | hand |
+| `mashuri` | flesh |
 | `meipa` | seat |
 | `meliphe` | music |
 | `melira` | song |
@@ -544,6 +545,7 @@
 | `nowiso` | interface |
 | `nuhe` | sadness |
 | `nulomi` | guts |
+| `numaro` | numbness |
 | `nunoa` | forager |
 | `nuora` | food |
 | `nuphari` | fog |
@@ -688,6 +690,7 @@
 | `shupi` | plateau |
 | `shuroa` | shelter |
 | `sihewa` | breeze |
+| `sikoru` | itch |
 | `sila` | community |
 | `silawo` | village |
 | `sileo` | silk |
@@ -770,6 +773,7 @@
 | `thunai` | student |
 | `thunepa` | sacred place |
 | `tinoa` | dye |
+| `tiphori` | tingling |
 | `tipika` | fingernail |
 | `tiroe` | instant |
 | `tisu` | needle |
@@ -818,6 +822,7 @@
 | `whila` | hair |
 | `whilaru` | comb |
 | `wilemo` | toy |
+| `wiloru` | dizziness |
 | `wira` | window |
 | `wirae` | spring (season) |
 | `wiralu` | runoff |
@@ -934,7 +939,7 @@
 | `theula` | UNIV |
 | `wheli` | ANY |
 
-## verb (345)
+## verb (352)
 
 | Word | Gloss |
 |---|---|
@@ -973,8 +978,10 @@
 | `kelomi` | accept |
 | `kelu` | become |
 | `keluro` | honor |
+| `kesiri` | shrink |
 | `kethira` | infer |
 | `ketora` | control |
+| `ketumi` | hiccup |
 | `kire` | shape |
 | `kirothe` | define |
 | `kisome` | assess |
@@ -996,6 +1003,7 @@
 | `lesawi` | consent |
 | `lilea` | clarify |
 | `liona` | live |
+| `lisaku` | lick |
 | `loa` | give |
 | `loatho` | delegate |
 | `lomare` | embrace |
@@ -1035,6 +1043,7 @@
 | `mukesi` | spoil |
 | `mupelo` | vomit |
 | `muraki` | harvest |
+| `murase` | swell |
 | `nai` | be |
 | `napako` | bake |
 | `naphe` | help |
@@ -1049,6 +1058,7 @@
 | `nephoru` | treat |
 | `nila` | see |
 | `nilaki` | inspect |
+| `nishoku` | sneeze |
 | `nohero` | believe |
 | `nolami` | bond |
 | `noluha` | swallow |
@@ -1111,6 +1121,7 @@
 | `pukate` | break |
 | `pukeri` | damage |
 | `pula` | wish |
+| `pumari` | suck |
 | `puse` | spit |
 | `pushali` | overload |
 | `rashelo` | run |
@@ -1130,6 +1141,7 @@
 | `rotiku` | dance |
 | `ruemi` | lie down |
 | `ruloi` | flourish |
+| `rumeka` | belch |
 | `runaki` | wayfind |
 | `ruweli` | access |
 | `sahu` | forget |

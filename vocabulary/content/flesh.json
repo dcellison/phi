@@ -1,0 +1,27 @@
+{
+  "word": "mashuri",
+  "gloss": "flesh",
+  "ipa": "/mä.ˈʃu.ri/",
+  "syllables": [
+    "ma",
+    "shu",
+    "ri"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "soft tissue",
+    "bodily flesh"
+  ],
+  "description": "'mashuri' is the soft substance of a human or animal body considered together, especially what lies around bone and beneath skin. It is an ordinary bodily category rather than one exact tissue. Muscle has 'kuroi' and fat has 'lomeki'; 'hisae' is skin, while 'nekuma' is animal flesh treated as food.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the sound through the nose, and open into central 'a'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and round the lips around stressed high-back 'u'. Tap or briefly trill the tongue tip at the alveolar ridge and finish with high-front unrounded 'i'.",
+  "usage_notes": "'mashuri' can locate a cut, bruise, pressure, or other bodily change without claiming which tissue is involved. Exact anatomy uses its narrower term when the distinction affects care or evidence.",
+  "examples": [
+    {
+      "phi": "mashuri phou hisae nai.",
+      "translation": "Flesh is beneath the skin."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "the soft bodily substance around bone and beneath skin"
+  }
+}

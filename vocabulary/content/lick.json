@@ -1,0 +1,28 @@
+{
+  "word": "lisaku",
+  "gloss": "lick",
+  "ipa": "/li.ˈsä.ku/",
+  "syllables": [
+    "li",
+    "sa",
+    "ku"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "pass the tongue over"
+  ],
+  "description": "A dog may 'lisaku' its fur, and a person may lick a spoon. The tongue moves across a surface and may gather a small amount from it. 'thorima' (taste) reports flavour becoming perceptible; licking is the movement that may bring that about.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and raise the tongue into high-front unrounded 'i'. Bring the tongue blade close to the alveolar ridge for unvoiced 's' and open into stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and finish with high-back rounded 'u'.",
+  "sound_symbolism": "The first two onsets keep the tongue near the front of the mouth before 'k' draws contact back towards the soft palate. The moving contact offers a direct mnemonic for a tongue passing along a surface.",
+  "usage_notes": "The licked person or thing stands before 'lisaku'. The tongue is already part of the verb, though an instrumental phrase can name it when contrast matters. In noun position, the same form is one lick.",
+  "examples": [
+    {
+      "phi": "nolika mia manuwe lisaku.",
+      "translation": "The animal licks my hand."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "moving the tongue across a person, object, or substance",
+    "physical": "surface contact made by the tongue"
+  }
+}

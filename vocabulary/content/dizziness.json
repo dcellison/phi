@@ -1,0 +1,28 @@
+{
+  "word": "wiloru",
+  "gloss": "dizziness",
+  "ipa": "/wi.ˈlo̞.ru/",
+  "syllables": [
+    "wi",
+    "lo",
+    "ru"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "dizzy",
+    "vertigo",
+    "lightheadedness"
+  ],
+  "description": "'wiloru' is a felt loss of steady orientation or balance. The surroundings may seem to turn, or the body may feel likely to sway. The report comes before a narrower clinical account, while 'malomi' (balance) concerns adjustment towards equilibrium.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then move forward and unround into high-front 'i'. Touch the tongue tip to the alveolar ridge for voiced 'l', let air pass along its sides, and continue into stressed middle-height back rounded 'o'. Tap or briefly trill the tongue tip at the alveolar ridge and finish with high-back rounded 'u'.",
+  "usage_notes": "With 'phaelo' (feel), 'wiloru' reports the person's experience. Another clause can say whether the surroundings seem to turn, the body feels light, or walking has become unsteady.",
+  "examples": [
+    {
+      "phi": "mia wiloru phaelo.",
+      "translation": "I feel dizziness."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "a bodily disturbance of orientation or balance as the person experiences it"
+  }
+}

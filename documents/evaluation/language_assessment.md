@@ -29,7 +29,7 @@ Phi should still benefit greatly from its systematicity. Experimental artificial
 
 ### The hidden listening problem
 
-The lexicon is much more crowded than the project's minimal-pair language initially implies. The current [grandfathered baseline](../validation/minimal_pairs_baseline.txt) contains **771 edit-distance-one content-word pairs involving 470 of 1,077 content entries**. Not all are equally confusable. One cluster begins with `helu`, `kelu`, and `melu`, then continues through `phelu`, `shelu`, and `thelu`; together they create substantial lexical competition.
+The lexicon is much more crowded than the project's minimal-pair language initially implies. The current [grandfathered baseline](../validation/minimal_pairs_baseline.txt) contains **771 edit-distance-one content-word pairs involving 470 of 1,089 content entries**. Not all are equally confusable. One cluster begins with `helu`, `kelu`, and `melu`, then continues through `phelu`, `shelu`, and `thelu`; together they create substantial lexical competition.
 
 The short function words are denser still: `to`, `so`, `ro`, `po`, `no`, `lo`, `ko`, and `mo` carry sharply different meanings through a single consonant. Syntactic position helps, but noise, accents, and learner errors will expose the weakness. A perceptual collision model is needed in addition to character-level edit distance.
 
