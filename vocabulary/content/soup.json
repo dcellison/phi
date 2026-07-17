@@ -8,15 +8,21 @@
     "pa"
   ],
   "pos": "noun",
-  "concept": "Soup / Warmth in a Vessel",
-  "description": "Soup: the meal made by warm water and patience, holding whatever the day had to offer. Built on the 'su' of 'sulae' (warm). It is the meal that stretches: one more arrival, a little more water.",
-  "sound_symbolism": "'su' carries the warmth of 'sulae', 'lo' rounds it, and 'pa' is the pot it sits in.",
-  "grammatical_notes": "Noun: 'sulopa sulae nai.' (The soup is warm.) 'mia sulopa pharelo.' (I cook soup.)",
-  "pillars": {
-    "pre-industrial-wisdom": "The pot over the fire fed the household from whatever there was, and its answer to a guest was always yes. Most of the world's comfort food started as this."
-  },
+  "search_terms": [
+    "broth",
+    "liquid dish"
+  ],
+  "description": "In 'sulopa', liquid carries or surrounds the other ingredients of a prepared food. Soup may be thin or thick, hot or cold, and served as a portion or a shared dish. Drinking defines a drink; soup remains food even when someone sips it.",
+  "articulatory_notes": "Let unvoiced 's' pass along the centre of the tongue into high-back rounded 'u'. Touch the alveolar ridge for lateral 'l' and move into stressed rounded mid-back 'o', then close both lips for unvoiced 'p' and release into open 'a'.",
+  "usage_notes": "Broth may be called soup when it is treated as the dish itself. Ingredients, preparation method, temperature, and cultural name can be stated separately.",
+  "examples": [
+    {
+      "phi": "sulopa sulae nai.",
+      "translation": "The soup is warm."
+    }
+  ],
   "semantic_domains": {
-    "community": "The meal that stretches",
-    "physical": "Warm water and patience"
+    "activity": "a dish prepared, served, and eaten as food",
+    "physical": "food whose ingredients are held in a liquid base"
   }
 }

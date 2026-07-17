@@ -7,16 +7,22 @@
     "lu"
   ],
   "pos": "noun",
-  "concept": "Candle / Wax Light / Flame Source",
-  "description": "A cylinder of wax with a wick that burns to give light; portable flame. 'Philu' names the living light—wax becoming warmth and glow.",
-  "sound_symbolism": "The word flickers warm. 'Phi' /ɸi/ breathes with gentle flame, fire dancing. Then 'lu' flows with warm light, illumination spreading.",
-  "grammatical_notes": "Functions as noun: 'philu' (the candle). More intimate than 'luma' (lamp). For meditation, ceremony, quiet evening.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Candle as practice—single flame focusing attention, meditation object, impermanence visible.",
-    "pre-industrial-wisdom": "Candles marked time—burning at known rate, measuring hours in darkness."
-  },
+  "search_terms": [
+    "wick light",
+    "wax light"
+  ],
+  "description": "In 'philu', a wick sits in a shaped supply of wax or another solid fuel and burns for light. The flame consumes the candle itself. 'luma' (lamp) is the broader light-source word, and 'thero' (fire) refers to the combustion rather than the object feeding it.",
+  "articulatory_notes": "Bring the lips close without closing them and let unvoiced air pass between them for 'ph', then move directly into stressed high-front 'i'. Touch the tongue tip to the alveolar ridge for lateral 'l' and finish with high-back rounded 'u'.",
+  "sound_symbolism": "The unvoiced breath at the opening and the smooth turn into rounded 'u' give 'philu' a small, tapering contour that can call a flickering flame to mind.",
+  "examples": [
+    {
+      "phi": "philu keru loa.",
+      "translation": "The candle gives brightness."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Wax light",
-    "ritual": "Meditation focus"
+    "creation": "a made light source that combines a wick with consumable fuel",
+    "physical": "an object that supplies a controlled flame for light",
+    "ritual": "a light source commonly used to mark vigils, ceremonies, and contemplative practice"
   }
 }

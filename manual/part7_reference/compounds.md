@@ -5,7 +5,7 @@
 
 # The Compound Registry
 
-*71 canonized compounds.*
+*77 canonized compounds.*
 
 Canonized compound idioms are multi-word expressions whose meaning is a stable part of the language, not one-off improvisations. Each stays compositional because the composition itself carries the insight a coined label would hide.
 
@@ -127,3 +127,9 @@ Reach for these before composing fresh, and before proposing a new word: registr
 | `thero muralo` | fire material | fuel | The material is fuel because it feeds a fire. The expression says what it does without praising the fuel or hiding its origin. |
 | `theru pelua` | thick paper | card; cardboard | Thick paper covers ordinary card and cardboard where the sheet form matters. Corrugation, lamination, and exact grade can be added when they change the object. |
 | `welotu keluo` | mixed metal | alloy | An alloy is metal made from a deliberate material mixture. Its material description supplies the constituents and their proportions. |
+| `muwi toru` | interior roof | ceiling | The roof names the upper cover; the interior tells us which face a person sees from inside. A suspended or decorated ceiling can add its material and construction. |
+| `rihe ruela` | rising path | stairs; stairway | Stairs are a route whose ordinary course rises or falls between levels. Step shape, handrails, gradient, and access remain available as separate facts. |
+| `muwi ruela` | interior path | corridor; hallway | A corridor is the path through the inside of a building. Its width, doors, turns, and uses can be stated without making one institutional floor plan universal. |
+| `norui ponu` | boundary door | gate | A gate is the movable closure at a boundary. The compound does not decide who set that boundary, who holds a key, or who may pass. |
+| `norui moru` | boundary wall | fence; enclosing wall | A fence gives a boundary material form, whether its construction is open or solid. Material and height can distinguish wire, rails, woven panels, masonry, or another local form. |
+| `thumiro ruela` | smoke route | chimney; flue | A chimney gives smoke a made route out of an occupied place. Draft, heat, soot, and exact safe construction remain part of the source guidance for the structure in use. |

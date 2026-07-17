@@ -7,16 +7,19 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Bowl / Deep Dish / Receiving Vessel",
-  "description": "A round, deep dish used for food or liquids; a vessel that curves to hold. 'Noru' names what receives—the cupped shape that holds nourishment.",
-  "sound_symbolism": "The word nestles inward. 'No' curves in gentle enclosure, space forming. Then 'ru' rounds the shape, bowl ready to receive.",
-  "grammatical_notes": "Functions as noun: 'mia noru phelu.' (I hold the bowl.) Related to 'tomi' (pot) but open-topped for serving and eating.",
-  "pillars": {
-    "secular-buddhist-philosophy": "The receiving mind—like a bowl, open to what comes, holding without grasping.",
-    "pre-industrial-wisdom": "Bowls held life—rice, soup, offerings, the humble vessel of daily sustenance."
-  },
+  "search_terms": [
+    "deep dish",
+    "serving bowl"
+  ],
+  "description": "'noru' is an open vessel with a rounded or otherwise hollow interior for holding, serving, or eating food. Its greater depth distinguishes it from 'palu' (plate), and it is not made chiefly for heating like 'tomi' (pot). Material and size remain open.",
+  "articulatory_notes": "Place the tongue tip at the upper teeth for voiced dental nasal 'n' and round the lips into stressed mid-back 'o'. Tap the tongue tip at the alveolar ridge for 'r', then raise the back of the tongue and keep the lips rounded for 'u'.",
+  "examples": [
+    {
+      "phi": "mia noru phelu.",
+      "translation": "I hold the bowl."
+    }
+  ],
   "semantic_domains": {
-    "community": "Nourishment",
-    "creation": "Vessel"
+    "physical": "an open hollow vessel used for food or other contents"
   }
 }

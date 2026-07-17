@@ -7,16 +7,23 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Basket / Woven Container / Natural Vessel",
-  "description": "A container made of woven material; a receptacle of interlaced fibers. 'Wiru' names what hands weave—plant becoming pattern, pattern becoming purpose.",
-  "sound_symbolism": "The word weaves connection. 'Wi' pairs in relationship, strands meeting. Then 'ru' curves around, basket taking shape through repetition.",
-  "grammatical_notes": "Functions as noun: 'wiru' (the basket). Implies woven material—reed, willow, palm. Related to weaving as fundamental craft.",
+  "search_terms": [
+    "woven container"
+  ],
+  "description": "Interlaced strips, stems, or fibres become 'wiru', a self-supporting container. It usually has an open top and can be carried or used for storage. 'molu' (container) covers the wider category; Household words distinguish bags, boxes, jars, and buckets.",
+  "articulatory_notes": "Round the lips for voiced 'w', then unround as the tongue rises towards stressed high-front 'i'. Tap the tongue tip briefly at the alveolar ridge for 'r', and finish with high-back rounded 'u'.",
+  "sound_symbolism": "The movement from narrow front 'i' to rounded back 'u' gives the short word a gathered contour, a useful memory for loose strands drawn into one form.",
+  "examples": [
+    {
+      "phi": "mia wiru phelu.",
+      "translation": "I hold the basket."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Natural materials—baskets from local plants, biodegradable, infinitely renewable.",
-    "pre-industrial-wisdom": "Basketry as first technology—weaving predates pottery, creating form from found materials."
+    "pre-industrial-wisdom": "A basket records its material and method in plain sight. The maker reads the length, bend, and season of each fibre; the finished shape records that attention."
   },
   "semantic_domains": {
-    "creation": "Woven craft",
-    "nature": "Natural materials"
+    "creation": "a container formed through weaving or interlacing",
+    "physical": "a portable self-supporting receptacle"
   }
 }

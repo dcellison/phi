@@ -8,16 +8,21 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Bed / Sleeping Place / The Rest-Nest",
-  "description": "The place prepared for sleep and rest — mat, mattress, or frame; whatever a household makes soft for the night. Joins the atomic household objects ('ponu' door, 'toru' roof, 'tomae' floor, 'moeli' hearth) and shares its grounding first syllable with 'nulae' (sleep), making the sleep-place legible from its opening sound.",
-  "sound_symbolism": "The grounded 'nu' of sleep and depth, the soft 'we' of woven comfort, and the open 'ra' of laid-out flatness: a low, made, welcoming surface. The word settles downward the way a tired body does.",
-  "grammatical_notes": "Noun: 'mia nia nuwera ruemi' (I lie down on the bed). 'shia mua nuwera nulae' (they sleep in bed). Possessed: 'lopia nuwera' (the child's bed).",
-  "pillars": {
-    "peace-linguistics-practices": "A bed of one's own is safety's furniture: where 'shurano' (safe) is felt most simply. Rest as a right the vocabulary honors.",
-    "pre-industrial-wisdom": "The bed as made thing — straw turned, quilts aired, a place tended daily rather than merely owned."
-  },
+  "search_terms": [
+    "sleeping place"
+  ],
+  "description": "Sleeping or lying down happens on 'nuwera', a prepared surface or piece of furniture. Beds may be raised, built into a dwelling, or laid directly on another surface. 'meipa' (seat) supports sitting; a bed supports extended rest.",
+  "articulatory_notes": "Rest the tongue tip at the upper teeth for voiced dental nasal 'n', then round the lips for high-back 'u'. Carry voiced 'w' into stressed mid-front 'e', tap 'r' at the alveolar ridge, and release into open 'a'.",
+  "sound_symbolism": "The opening 'nu' is also heard in 'nulae' (sleep). That audible kinship offers a Phi-specific mnemonic for the place where sleep commonly happens.",
+  "usage_notes": "A possessor comes directly before the bed: 'lopia nuwera' is the child's bed. The word refers to the sleeping surface, not the room around it.",
+  "examples": [
+    {
+      "phi": "misheko mua nuwera nulae.",
+      "translation": "The cat sleeps on the bed."
+    }
+  ],
   "semantic_domains": {
-    "community": "The rest a household provides its members",
-    "physical": "The household place of sleep"
+    "activity": "the ordinary place prepared for sleep and bodily rest",
+    "physical": "a surface or furnishing made for lying down"
   }
 }

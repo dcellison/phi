@@ -7,16 +7,25 @@
     "pa"
   ],
   "pos": "noun",
-  "concept": "Bread / The Grain Made Home / The Table's Center",
-  "description": "Bread: grain ground, kneaded, and given to the fire until it becomes the food a table gathers around. 'Napa' covers the whole family of the baked staple, from the heavy dark household loaf to the thin hard crusts eaten for the pleasure of their snap. It is the most given of foods, broken and passed from hand to hand, and the surest sign that a house feeds whoever enters it.",
-  "sound_symbolism": "The word opens on the 'na-' of 'napuro' (grain), its parent: the sound shortens as the scattered grain gathers into one loaf. The dental 'n' grounds the word in the household register, the clean stop 'p' draws the crust's firm boundary, and the two open 'a' vowels are the warm crumb inside it. Two syllables, because bread belongs to the daily round: like 'womu' and 'melu', it is a word a household says every day, and Phi keeps its everyday words close at hand.",
-  "grammatical_notes": "Functions as a noun: 'kaelo napa' (sweet bread), 'telo womu napa' (farmhouse bread), 'napa pukate' (the breaking of bread, by the event-noun rule on 'pukate'). A counted loaf may take optional 'themo': 'ta themo napa' (one loaf); 'ta napa' is also grammatical.",
+  "search_terms": [
+    "loaf",
+    "grain bread"
+  ],
+  "description": "'napa' covers food made by combining ground grain or another meal with liquid, shaping the mixture, and cooking it. The word includes leavened and unleavened breads, flatbreads, and loaves. 'napuro' (grain) is the seed or harvested material before that work.",
+  "articulatory_notes": "Touch the tongue tip to the upper teeth for voiced dental nasal 'n' and open into stressed 'a'. Close both lips for unvoiced 'p', release them cleanly, and finish on a second open 'a'.",
+  "sound_symbolism": "The shared opening of 'napa' and 'napuro' (grain) makes their relation easy to hear. The shorter contour can recall grain gathered into finished bread.",
+  "usage_notes": "Bread as a substance needs no classifier. A counted loaf may insert optional 'themo': 'ta themo napa' is one loaf, while 'ta napa' remains grammatical when context already supplies the unit.",
+  "examples": [
+    {
+      "phi": "phao napa phowe.",
+      "translation": "The parent shares bread."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "The loaf is the gift economy's plainest act: grain grown together, baked in one oven, broken for whoever sits down. A future that feeds people begins at this word.",
-    "pre-industrial-wisdom": "Bread is embodied knowledge three motions deep: the mill's turning, the kneading rhythm, the fire's judgment. A word for it honors the oldest craft a kitchen keeps."
+    "pre-industrial-wisdom": "Bread joins grain, water, heat, time, and practised judgement. A recipe can guide the hands, but the dough still answers to weather, flour, and fermentation on that day."
   },
   "semantic_domains": {
-    "community": "The staple food of the shared table",
-    "physical": "Baked grain food"
+    "creation": "a staple food made by mixing, shaping, and cooking meal or flour",
+    "physical": "cooked grain food handled as a loaf, piece, or substance"
   }
 }

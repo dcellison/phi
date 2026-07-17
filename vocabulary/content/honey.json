@@ -8,16 +8,22 @@
     "lo"
   ],
   "pos": "noun",
-  "concept": "Honey / The Slow Gold",
-  "description": "Honey: sweetness with a maker. The bees' concentrated summer, taken with care from the hive. It keeps without spoiling, which made it the pre-industrial world's one durable sweetness.",
-  "sound_symbolism": "Breathy 'he', small 'mi', slow round 'lo': light, small-scale, and unhurried, like the work that makes it.",
-  "grammatical_notes": "Noun: 'hemilo kaelo nai.' (Honey is sweet.) 'mia hemilo thorima.' (I taste honey.)",
+  "search_terms": [
+    "bee honey"
+  ],
+  "description": "Bees turn gathered nectar or similar plant secretions into 'hemilo', a sweet, concentrated substance stored in the hive. It is food made through the work of a colony. Syrups and other sweet viscous substances may resemble honey without becoming honey.",
+  "articulatory_notes": "Let unvoiced breath pass through the open glottis for 'h' into mid-front 'e'. Close the lips for voiced nasal 'm', release into stressed high-front 'i', then touch the alveolar ridge for lateral 'l' and finish on rounded mid-back 'o'.",
+  "examples": [
+    {
+      "phi": "hemilo shumeko nai.",
+      "translation": "Honey is sticky."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Honey is an ecosystem's report card. Where the pollinators thrive, there is honey; a future with hives in it is a future that kept its flowers.",
-    "pre-industrial-wisdom": "For most of human history this was the only concentrated sweetness, medicine and preservative both, and it never went bad."
+    "pre-industrial-wisdom": "Honey carries the season, forage, weather, and health of a colony into one substance. Good keeping follows those relations before it asks what can be harvested."
   },
   "semantic_domains": {
-    "nature": "The bees' concentrated summer",
-    "physical": "Sweetness that keeps"
+    "nature": "a substance produced by bees from gathered plant material",
+    "physical": "a sweet viscous food with a distinct material identity"
   }
 }

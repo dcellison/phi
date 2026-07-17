@@ -8,17 +8,21 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Food / Nourishment / The Eaten Gift",
-  "description": "The noun naming what we eat to sustain life, the nourishment that becomes our bodies. In Phi, food is understood as gift and transformation—what was living becomes our living, what grew from earth becomes our growth. This word names both the physical substance we consume and the quality of nourishment, of being fed, of receiving what sustains. Food is how the world enters us and keeps us alive.",
-  "sound_symbolism": "The word opens with 'nu', where the nasal grounds us in the body that needs feeding—hunger is felt, eating is physical, nourishment is embodied. The deep 'u' holds the substantiality of food. The standalone 'o' opens into receiving, mouth open to be fed. The final 'ra' rolls with the continuous process of eating, digesting, being nourished—the ongoing transformation of food into self. The arc traces nourishment: bodily need, receiving mouth, continuous sustaining.",
-  "grammatical_notes": "Functions as a noun referring to food generally or specific foods: 'mia nuora nuola.' (I eat food.) Related to 'nuola' (eat), 'milau' (drink), and 'lumera' (nourish).",
-  "pillars": {
-    "solarpunk-values": "Sustainable food systems are foundational. 'Nuora' names what we must grow, gather, share, and eat in ways that can continue—food sovereignty, local production, fair distribution.",
-    "secular-buddhist-philosophy": "Mindful eating transforms routine consumption into practice—awareness of what we eat, how it came to us, what it becomes in us. 'Nuora' names the substance of this practice.",
-    "pre-industrial-wisdom": "Traditional food was local, seasonal, prepared with skill passed through generations. 'Nuora' honors food as more than calories—as culture, as relationship with land, as accumulated wisdom."
-  },
+  "search_terms": [
+    "nourishment",
+    "edible matter"
+  ],
+  "description": "'nuora' covers material prepared, gathered, or otherwise taken for eating and nourishment. It can identify food in general or the particular food present in a scene. 'nuola' (eat) is the act, Household 'phareme' (ingredient) a component in preparation, and medicine keeps its own practical category.",
+  "articulatory_notes": "Rest the tongue tip at the upper teeth for voiced dental nasal 'n' and round the lips for high-back 'u'. Keep a clear hiatus into stressed mid-back 'o', tap 'r' at the alveolar ridge, and finish with open 'a'.",
+  "usage_notes": "The category follows use and context; no single cuisine draws its boundary for everyone. A culturally specific dish or ingredient may keep its source name until Phi has a settled form for it.",
+  "examples": [
+    {
+      "phi": "phao nuora pilewa.",
+      "translation": "The parent makes food."
+    }
+  ],
   "semantic_domains": {
-    "nature": "the gifts of earth that nourish us",
-    "physical": "what sustains bodily life"
+    "activity": "what people gather, prepare, share, and eat",
+    "physical": "material taken into the body as nourishment"
   }
 }

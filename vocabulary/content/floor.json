@@ -8,16 +8,20 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "Floor / Ground Surface / Walking Level",
-  "description": "The lower surface of a room on which one walks; the prepared ground inside. 'Tomae' names what supports standing—the level surface of habitation.",
-  "sound_symbolism": "The word grounds with contact. 'To' touches with feet meeting surface. 'Ma' stabilizes with solid foundation. Then 'e' extends flat and level, floor spreading.",
-  "grammatical_notes": "Functions as noun: 'tomae' (the floor). Works with 'moru' (wall) and 'toru' (roof) to form shelter. The horizontal below.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Ground of practice—the floor we sit on, walk on, the support for daily life.",
-    "pre-industrial-wisdom": "Floor as foundation—the prepared surface separating dweller from bare earth."
-  },
+  "search_terms": [
+    "walking surface",
+    "interior ground"
+  ],
+  "description": "People stand and set objects on 'tomae', the lower constructed surface of a room or other occupied space. A floor may be at ground level or raised above another storey. 'muila' (earth) covers soil or ground; 'motha' (foundation) supports the structure beneath its usable surface.",
+  "articulatory_notes": "Touch the tongue tip to the upper teeth for unvoiced dental 't' and release into rounded mid-back 'o'. Close the lips for 'm', open into stressed 'a', and keep the following mid-front 'e' separate across the final hiatus.",
+  "examples": [
+    {
+      "phi": "tomae wirua nai.",
+      "translation": "The floor is wet."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Support structure",
-    "spatial": "Ground surface"
+    "physical": "the constructed lower surface that supports bodies and objects",
+    "spatial": "the lower usable plane within a room or occupied structure"
   }
 }

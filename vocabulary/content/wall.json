@@ -7,16 +7,22 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Wall / Vertical Barrier / Standing Boundary",
-  "description": "A vertical structure forming side of building or enclosure; the standing boundary that defines space. 'Moru' names what stands between—the solid vertical that creates inside.",
-  "sound_symbolism": "The word stands solid. 'Mo' grounds with stable mass, wall planted. Then 'ru' runs continuous, barrier extending.",
-  "grammatical_notes": "Functions as noun: 'moru' (the wall). Creates space when combined with 'toru' (roof), 'tomae' (floor). The vertical boundary.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Boundaries as skillful means—walls protect without imprisoning, define without dividing hearts.",
-    "pre-industrial-wisdom": "Walls created shelter—the first architecture separating protected from exposed."
-  },
+  "search_terms": [
+    "partition",
+    "upright enclosure"
+  ],
+  "description": "Built space is divided or enclosed by 'moru', an upright construction or face. A wall may support a roof, separate two interiors, or mark an outer limit. 'norui' (boundary) is the limit itself; a wall is the material construction placed there.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm' and open into stressed rounded mid-back 'o'. Tap the tongue tip briefly at the alveolar ridge for 'r', then finish with high-back rounded 'u'.",
+  "usage_notes": "One wall differs from another in material, height, openings, and structural role. 'norui moru' describes a boundary wall or fence-like enclosure without implying who set the boundary or may cross it.",
+  "examples": [
+    {
+      "phi": "phao moru ki shiroka.",
+      "translation": "The parent will repair the wall."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Boundary structure",
-    "spatial": "Vertical barrier"
+    "creation": "an upright division built from joined or placed material",
+    "physical": "a material face that encloses, divides, or supports",
+    "spatial": "a constructed division between places"
   }
 }

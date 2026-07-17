@@ -7,16 +7,21 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Key / Opening Tool / To Unlock",
-  "description": "A shaped metal instrument for opening locks; to unlock or provide access. 'Kira' names what opens—the specific shape that grants passage.",
-  "sound_symbolism": "The word clicks open. 'Ki' turns with precise mechanism, lock engaging. Then 'ra' reaches through to access, door yielding.",
-  "grammatical_notes": "Noun: 'kira' (the key) - both physical keys and metaphorical keys to understanding. The key acts through 'roe' (with) and the door's own verbs.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Keys to understanding—right view, right effort, right practice unlock insight.",
-    "peace-linguistics-practices": "Access through permission—keys represent trust, the granting of entry to protected spaces."
-  },
+  "search_terms": [
+    "lock key",
+    "opening tool"
+  ],
+  "description": "A lock is operated with 'kira', an object shaped or encoded for that particular mechanism. It permits the mechanism to open or close when accepted, though possession of a key does not establish permission to enter. Household 'kirato' identifies the lock itself.",
+  "articulatory_notes": "Raise the back of the tongue to the soft palate for unvoiced 'k', release into stressed high-front 'i', then tap the tongue tip briefly at the alveolar ridge for 'r' and finish with open 'a'.",
+  "usage_notes": "The established figurative use describes a particular means that opens access or makes a problem workable. A reason, evidence, or the step that resolves the difficulty still needs its own word.",
+  "examples": [
+    {
+      "phi": "mia roe kira ponu phae.",
+      "translation": "I open the door with a key."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Opening tool",
-    "wisdom": "Access granted"
+    "cognition": "an established extension for a specific means of making a problem accessible",
+    "physical": "an object that operates a matching lock"
   }
 }

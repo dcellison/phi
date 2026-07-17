@@ -8,16 +8,23 @@
     "pa"
   ],
   "pos": "noun",
-  "concept": "Seat / The Sit-Thing",
-  "description": "The seat: chair, stool, bench, cushion — whatever is made for sitting. Its opening 'me.i' echoes the first two syllables of 'meilo' (sit), then 'pa' turns the action into a supporting thing, so a learner can read the relation without treating the noun as a transparent compound.",
-  "sound_symbolism": "'Me.i' begins with the settling movement heard in 'meilo' (sit), while the closing 'pa' places a firm surface beneath it. The action is given somewhere to land.",
-  "grammatical_notes": "Noun: 'mia mua meipa meilo.' (I sit on the seat.) 'miona meipa pilewa.' (The person makes a seat.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "The practice is called sitting, and this is what receives it. A cushion in a quiet corner is 'meipa' in its oldest job.",
-    "pre-industrial-wisdom": "The stool by the fire, the bench by the door: seats accumulated where the work and the talk were, and mapped both."
-  },
+  "search_terms": [
+    "chair",
+    "stool",
+    "bench"
+  ],
+  "description": "Chairs, stools, benches, and sitting cushions all fall under 'meipa', an object or prepared place made for sitting. No one furniture form is the default. 'nuwera' (bed) supports lying down for extended rest.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm' and open into mid-front 'e'. Keep a clear hiatus into stressed high-front 'i', then close both lips for unvoiced 'p' and release into open 'a'.",
+  "sound_symbolism": "The opening 'mei' recalls 'meilo' (sit), giving the object and the posture an audible Phi kinship. The final stop makes the short word settle firmly.",
+  "usage_notes": "Back, height, material, and mobility can distinguish a particular seat. A seat can be reserved or exalted, but the noun itself is only somewhere to sit.",
+  "examples": [
+    {
+      "phi": "mia mua meipa meilo.",
+      "translation": "I sit on the seat."
+    }
+  ],
   "semantic_domains": {
-    "physical": "Made for sitting",
-    "ritual": "What receives the practice"
+    "activity": "a place prepared for the bodily posture of sitting",
+    "physical": "an object or surface used as a seat"
   }
 }

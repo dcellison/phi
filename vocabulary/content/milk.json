@@ -8,15 +8,21 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Milk / The First Drink",
-  "description": "Milk: the first food of every mammal, and the household drink after. The word echoes 'milau' (drink) on purpose; milk is the drink before all others. Ungendered like everything in Phi: it belongs to nourishment, not to any word for who provides it.",
-  "sound_symbolism": "Soft 'mi' into liquid 'lu'-'ra', with no stop consonant anywhere. The word pours.",
-  "grammatical_notes": "Noun: 'lopia milura milau.' (The child drinks milk.) 'milura sulae nai.' (The milk is warm.)",
-  "pillars": {
-    "pre-industrial-wisdom": "The household animal that gave milk was wealth that renewed daily. Whole cuisines are built on the ways people kept milk from spoiling."
-  },
+  "search_terms": [
+    "mammal milk",
+    "dairy milk"
+  ],
+  "description": "Mammals produce 'milura', a nutritive liquid that feeds their young. The word also covers that liquid when gathered or prepared as food and drink. Its source and treatment matter whenever suitability is in question.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm' and release into high-front 'i'. Touch the tongue tip to the alveolar ridge for lateral 'l', move into stressed high-back rounded 'u', then tap 'r' and finish on open 'a'.",
+  "usage_notes": "A plant-based drink may place its source before 'milura' when speakers deliberately use the milk analogy. An exact product name or ingredient statement uses its original wording when identity or safety depends on it.",
+  "examples": [
+    {
+      "phi": "lopia milura milau.",
+      "translation": "The child drinks milk."
+    }
+  ],
   "semantic_domains": {
-    "nature": "The first nourishment",
-    "physical": "The drink before all others"
+    "nature": "a nutritive liquid produced by mammals for their young",
+    "physical": "milk handled as food, drink, or ingredient"
   }
 }

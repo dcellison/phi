@@ -7,16 +7,21 @@
     "nu"
   ],
   "pos": "noun",
-  "concept": "Door / Entry Portal / Passage Barrier",
-  "description": "A hinged or sliding barrier for closing an entrance; the movable boundary between spaces. 'Ponu' names what opens and closes—threshold that can yield or hold.",
-  "sound_symbolism": "The word pivots passage. 'Po' swings with pivoting motion, door moving. Then 'nu' grounds the frame, passage defined.",
-  "grammatical_notes": "Functions as noun: 'ponu' (the door). Works with 'kira' (key) for locked doors. Related to 'maewo' (threshold) as concept of transition.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Doors as choice—each door a decision point, what to enter, what to leave.",
-    "pre-industrial-wisdom": "Threshold as boundary—the door separates inside from outside, private from public."
-  },
+  "search_terms": [
+    "entry panel",
+    "movable closure"
+  ],
+  "description": "Passage through an entrance is controlled by 'ponu', a movable panel or other closure. The door is the object that opens or closes, not the opening around it. 'maewo' (threshold) marks the crossing, and Household 'kirato' (lock) holds a closure in a chosen state.",
+  "articulatory_notes": "Close both lips for unvoiced 'p', release into stressed mid-back rounded 'o', then place the tongue tip at the upper teeth for voiced dental nasal 'n'. Finish with high-back rounded 'u'.",
+  "usage_notes": "A door can stand in a wall, fence, vehicle, or container. Opening and lock state belong to the object; access and permission belong to the situation.",
+  "examples": [
+    {
+      "phi": "no ponu tapu.",
+      "translation": "Close the door."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Passage control",
-    "spatial": "Entry barrier"
+    "physical": "a movable closure controlling entry or passage",
+    "spatial": "an object governing movement through an opening"
   }
 }

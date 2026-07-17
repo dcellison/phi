@@ -8,16 +8,22 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Lantern / Portable Light / Guiding Lamp",
-  "description": "A lamp with protective case for carrying; portable light for journeys. 'Lumoi' names what guides through darkness—light held and carried.",
-  "sound_symbolism": "The word lights the way. 'Lu' glows with warm light. 'Mo' holds with stable grip, case protecting. Then 'i' rises to guide, path illuminated.",
-  "grammatical_notes": "Functions as noun: 'lumoi' (the lantern). Portable unlike 'luma' (lamp). For travel, search, guidance through dark.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Guidance through darkness—the lantern as dharma, teaching that illuminates the path.",
-    "pre-industrial-wisdom": "Lanterns lit journeys—the carried light enabling travel after dark, finding the way."
-  },
+  "search_terms": [
+    "portable lamp",
+    "protected light"
+  ],
+  "description": "Travel and work can use 'lumoi', a portable lamp whose light source is protected or enclosed. A lantern can be carried, hung, or set down. The wider category is 'luma' (lamp); portability is the lantern's narrower feature.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for lateral 'l' and round the lips for high-back 'u'. Close the lips for 'm', release into stressed rounded mid-back 'o', then unround and raise the tongue into a distinct final high-front 'i' across the hiatus.",
+  "sound_symbolism": "The shared 'lu' links 'lumoi' audibly with 'luma' (lamp). Its extra syllable and final high vowel give the portable form a lighter departure from their common opening.",
+  "usage_notes": "Its energy source and optics stay open. Repair, safe use, or exact identification may require the equipment details from its source record.",
+  "examples": [
+    {
+      "phi": "mia whuo lumoi thalo.",
+      "translation": "I walk without a lantern."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Portable light",
-    "wisdom": "Guiding illumination"
+    "creation": "a made portable housing for a light source",
+    "physical": "a lamp designed to be carried or hung"
   }
 }
