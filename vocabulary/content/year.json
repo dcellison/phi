@@ -8,16 +8,20 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Year / Complete Seasonal Cycle / Solar Circuit",
-  "description": "The period of time it takes the earth to orbit the sun; a complete cycle of seasons. 'Torua' names the great cycle—all seasons experienced, the circle complete, time returning to its start.",
-  "sound_symbolism": "The word completes its circle. 'To' begins with clear definition, cycle starting. 'Ru' rolls through the seasons. Finally 'a' opens to completion, year fulfilled.",
-  "grammatical_notes": "Functions as a noun: 'ta torua' (one year). The largest commonly used unit of personal time. Contains all seasons, all holidays, all agricultural cycles.",
+  "description": "'torua' is one full annual or seasonal cycle, and by extension a calendar year. The exact beginning, end, and named divisions depend on the calendar or source record; the recurring environmental span remains speakable without them.",
+  "articulatory_notes": "Place the tongue tip against the upper teeth for unvoiced dental 't' and release into middle-height rounded 'o'. Tap or briefly trill the tongue for 'r', then draw it back into stressed high-back rounded 'u'. Release the lip rounding and open the jaw for the separate final central 'a'.",
+  "usage_notes": "Phi states age as years held: subject, numeral, 'torua', then 'phelu' (hold). The optional classifier for a counted year is 'nophe'.",
+  "examples": [
+    {
+      "phi": "lopia ta shao wi torua phelu.",
+      "translation": "The child is five years old."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Each year offers complete practice—all conditions arise, all challenges appear, nothing is missing.",
-    "pre-industrial-wisdom": "The year was life's great rhythm—planting to harvest, birth to death, the cycle that contained all others."
+    "pre-industrial-wisdom": "An annual cycle gathers recurring changes in light, weather, living activity, and work while leaving each local calendar its own form."
   },
   "semantic_domains": {
-    "nature": "Seasonal completion",
-    "temporal": "Full cycle"
+    "nature": "one complete recurrence of annual environmental change",
+    "temporal": "an annual cycle or conventional calendar year"
   }
 }

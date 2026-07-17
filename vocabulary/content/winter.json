@@ -7,16 +7,16 @@
     "la"
   ],
   "pos": "noun",
-  "concept": "Winter / Season of Rest / Time of Dormancy",
-  "description": "The coldest season of the year; time of dormancy and introspection. 'Shila' names the resting season—life withdrawn, world quiet, the earth sleeping.",
-  "sound_symbolism": "The word settles into stillness. 'Shi' /ʃi/ begins with soft breath, cold arriving. Then 'la' rests quietly, winter settled.",
-  "grammatical_notes": "Functions as a noun: 'mua shila' (in winter). Fourth of the four seasons. Time of rest, reflection, and living on stored resources.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Winter models necessary dormancy—growth requires periods of rest, activity requires stillness.",
-    "pre-industrial-wisdom": "Winter enforced rest—the season when outdoor work ceased and communities gathered inward."
-  },
+  "description": "'shila' covers the temperate span from autumn to spring, commonly marked by the year's coldest conditions and short daylight. A place may meet it through snow, rain, dormancy, or migration.",
+  "articulatory_notes": "Raise the tongue blade toward the postalveolar area for unvoiced 'sh' and send air through its central groove into stressed high-front 'i'. Touch the tongue tip to the alveolar ridge for 'l', release it along the sides, and open the jaw into central 'a'.",
+  "examples": [
+    {
+      "phi": "shila shua. waero pelui nai.",
+      "translation": "Winter comes. The air is cold."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Dormancy time",
-    "temporal": "Rest season"
+    "nature": "the cold, short-day portion of a temperate year",
+    "temporal": "the season between autumn and spring"
   }
 }

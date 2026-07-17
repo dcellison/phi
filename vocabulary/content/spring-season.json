@@ -8,16 +8,19 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "Spring (Season) / Season of Renewal / Time of Awakening",
-  "description": "The season after winter when plants begin to grow; time of renewal and rebirth. 'Wirae' names the awakening season—life returning, growth beginning, the world greening.",
-  "sound_symbolism": "The word opens to new life. 'Wi' begins with expansive breath, possibility awakening. 'Ra' reaches outward, growth extending. Finally 'e' opens to the new, spring arriving.",
-  "grammatical_notes": "Functions as a noun: 'mua wirae' (in spring). First of the four seasons. Time of planting, birth, and new beginnings. Distinct from 'thula' (spring as water source).",
-  "pillars": {
-    "solarpunk-values": "Spring represents renewal—the proof that systems can regenerate, that life returns after dormancy.",
-    "pre-industrial-wisdom": "Spring determined survival—the season when stored food ran low but new growth offered hope."
-  },
+  "search_terms": [
+    "springtime"
+  ],
+  "description": "'wirae' covers spring in a temperate cycle, the span between winter and summer. Warming conditions, lengthening days, thaw, and renewed plant growth may mark it; other climates follow other patterns.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then release into high-front unrounded 'i'. Tap or briefly trill the tongue at the alveolar ridge and open into stressed central 'a'. Keep the final middle-height front 'e' separate across the vowel hiatus.",
+  "examples": [
+    {
+      "phi": "lo peloru mua wirae thuroa.",
+      "translation": "The flowers grow in spring."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Growth beginning",
-    "temporal": "Renewal season"
+    "nature": "the temperate season associated with warming and renewed growth",
+    "temporal": "the season between winter and summer"
   }
 }

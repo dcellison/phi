@@ -8,16 +8,23 @@
     "the"
   ],
   "pos": "noun",
-  "concept": "Dawn / Daybreak / Light's Emergence",
-  "description": "The first light of day, when darkness gives way to growing brightness before sunrise. 'Horathe' names the threshold time when night releases its hold—the gradual awakening of light that precedes the sun, promising renewal.",
-  "sound_symbolism": "The word emerges from darkness. 'Ho' begins with open breath, the first stirring. Then 'ra' reaches outward, light extending across the sky. Finally 'the' /θe/ softens into emergence, the gentle arrival of day.",
-  "grammatical_notes": "Functions as a noun: 'mua horathe' (at dawn). Paired with 'norawhi' (dusk) as the day's two threshold times. Associated with awakening, hope, and new beginnings.",
+  "search_terms": [
+    "daybreak",
+    "first light"
+  ],
+  "description": "'horathe' is the first growing light before or around sunrise. Phi's natural clock places it at the threshold between night and morning; weather, latitude, and season shape how long it remains visible.",
+  "articulatory_notes": "Open the glottis for unvoiced 'h' and round into middle-height back 'o'. Tap or briefly trill the tongue for 'r' and open the jaw into stressed central 'a'. Bring the tongue to the upper teeth for unvoiced 'th' and let the air continue into middle-height front 'e'.",
+  "examples": [
+    {
+      "phi": "mia mua horathe nowae.",
+      "translation": "I awaken at dawn."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Dawn represents renewable hope—each day offers fresh possibility, as reliable as the sun's return.",
-    "secular-buddhist-philosophy": "Dawn is awakening made visible—the transition from sleep to awareness that practitioners honor through early morning practice."
+    "pre-industrial-wisdom": "First light offers a shared environmental reference for waking, travel, care, and daily work without requiring a clock."
   },
   "semantic_domains": {
-    "nature": "Light emergence",
-    "temporal": "Day's beginning"
+    "nature": "the return of visible light around sunrise",
+    "temporal": "the threshold station between night and morning"
   }
 }

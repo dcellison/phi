@@ -7,16 +7,21 @@
     "sho"
   ],
   "pos": "noun",
-  "concept": "Middle / Center / Midpoint",
-  "description": "The point or position equally distant from extremes; the center. 'Kesho' names the balanced point—neither beginning nor end, the place of equipoise.",
-  "sound_symbolism": "The word balances. 'Ke' marks with clarity, position defined. Then 'sho' /ʃo/ settles at center, middle held.",
-  "grammatical_notes": "Functions as a noun with a possessor before it: 'ruela kesho' (the middle of the path). Between 'thorui' (beginning) and 'lumae' (end).",
-  "pillars": {
-    "secular-buddhist-philosophy": "The Middle Way avoids extremes—the balanced path between indulgence and denial, grasping and aversion.",
-    "pre-industrial-wisdom": "Middle positions held power—the middle child, the mid-season, the balance point where leverage works."
-  },
+  "search_terms": [
+    "centre",
+    "midpoint"
+  ],
+  "description": "'kesho' is an interior part or point between a beginning and an end, or between relevant outer parts. It may be approximate or exact under the comparison at hand; it does not by itself claim balance, fairness, or equal distance.",
+  "articulatory_notes": "Press the back of the tongue against the soft palate for 'k' and release into stressed middle-height front 'e'. Raise the tongue blade toward the postalveolar area for unvoiced 'sh'. Send air through the central groove before rounding into middle-height back 'o'.",
+  "usage_notes": "'ruela kesho' follows ordinary possessor-first order and means the middle of a path. Use 'thorui' for the beginning and 'lumae' for the end.",
+  "examples": [
+    {
+      "phi": "mia mua ruela kesho hasi.",
+      "translation": "I wait in the middle of the path."
+    }
+  ],
   "semantic_domains": {
-    "spatial": "Center point",
-    "wisdom": "Balance position"
+    "spatial": "an interior position between relevant outer parts",
+    "temporal": "an interior portion between the beginning and end of a span"
   }
 }

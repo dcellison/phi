@@ -64,6 +64,7 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Relation, boundaries, and remaining practical acts](#relation-boundaries-and-remaining-practical-acts) | complete | closed | 1 |
 | [Personhood, generations, kinship, and social belonging](#personhood-generations-kinship-and-social-belonging) | complete | closed | 1 |
 | [Body, anatomy, and bodily condition](#body-anatomy-and-bodily-condition) | complete | closed | 10 |
+| [Time, sequence, natural stations, and recurrence](#time-sequence-natural-stations-and-recurrence) | complete | closed | 6 |
 | [Recovered cross-inventory prompts](#recovered-cross-inventory-prompts) | complete | closed | 29 |
 
 ## Core material qualities
@@ -341,6 +342,17 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | `CV-BODY-08` | sexual and reproductive anatomy | Deferred | base and Medical, decided by ordinary autonomy and care needs | When a dedicated scenario set tests self-description, consent, sexual health, reproduction, pain, and care across varied bodies. This field must name bodies without treating one anatomy as the default or requiring a diagnosis before a body part can be spoken. |
 | `CV-BODY-09` | named bones, vessels, nerves, glands, and exact anatomical classifications | Deferred | Medical plus exact biomedical source material | When a care, study, or public-health scenario repeatedly needs one structure beyond ordinary body-region language. Base vocabulary need not reproduce an atlas, but recurring care or study may reveal specialist words worth learning. |
 | `CV-SENS-01` | itch, numbness, tingling, and dizziness | Implemented | base | See the complete decision under [Sensory and perceptual qualities](#sensory-and-perceptual-qualities). |
+
+## Time, sequence, natural stations, and recurrence
+
+| ID | Concept | Status | Placement | Decision or return condition |
+|---|---|---|---|---|
+| `CV-TIME-01` | today, yesterday, tomorrow, and every day | Compositional | base expressions | `ha philo`, `luera philo`, `wireo philo`, `theula philo`. The day stays audible while a demonstrative, temporal noun, or quantifier locates it. Four short expressions cover the ordinary daily references without a second set of roots. |
+| `CV-TIME-02` | always, never, often, rarely, and sometimes | Compositional | base expressions | `theula thimu`, `mawha thimu`, `sheloi shemu`, `phina shemu`, `soli shemu`. Frequency remains a claim over time or moments, so the size of the claim stays in the utterance instead of hiding inside an adverb. |
+| `CV-TIME-03` | relative proximity, earliness, lateness, and simultaneity | Compositional | base grammar and expressions, with optional module vocabulary for organised work | `noshi luera`, `noshi wireo`, `wuero luera`, `wuero wireo`, `phoe`, `pheo`, `nuawe`, `thunesi`. Near or far time, before or after a reference, and occurrence within one span state the useful relation. Work that is deliberately spread across different times may use module adjective `thunesi` (asynchronous). |
+| `CV-TIME-04` | age, lifetime, birthdays, anniversaries, and larger spans | Compositional | base expressions | `mia wi phoi ta shao torua phelu`, `lioru mosha`, `thowia philo`, `torua nuri`, `thorea`. A person holds counted years; a life has a period; a birth has a day; and a returning observance can name its event, annual cycle, or ceremony. These relations remain clearer than one broad anniversary root. |
+| `CV-TIME-05` | calendar, history, chronology, and timeline | Compositional | base expressions plus separately preserved source records | `thimu sirami`, `luera nophi`, `luera sirami`, `nu`, `phoe`, `pheo`. A time record, a story or record of the past, ordinal position, and before-after relations distinguish the artefact from the account it carries. A named external calendar or chronology keeps its own source form. |
+| `CV-TIME-06` | exact clock readings, clock units, time zones, and named calendar identifiers | Source-bound | separate source material with a Phi account | The complete clock reading, time zone, named calendar date, and exact unit notation remain outside the Phi passage. A Phi account may identify the record, its purpose, and its relation to an event without replacing data needed for coordination, care, accessibility, testimony, or safety. Phi's natural stations and calendar spans support ordinary temporal speech, while an exact external value retains the notation and standard that make it usable. |
 
 ## Recovered cross-inventory prompts
 

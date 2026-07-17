@@ -8,16 +8,20 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Month / Lunar Cycle / Moon's Journey",
-  "description": "A period of approximately four weeks; originally based on the moon's cycle. 'Lunoa' names the monthly rhythm—the moon's complete journey from new to full to new again.",
-  "sound_symbolism": "The word follows the moon. 'Lu' begins with flowing change, cycle starting. 'No' grounds at each phase. Finally 'a' opens to completion, month fulfilled.",
-  "grammatical_notes": "Functions as a noun: 'ta lunoa' (one month). Related to 'lunei' (moon) through shared root sense. The intermediate unit between week and year.",
+  "description": "'lunoa' is a calendar span historically related to a cycle of the moon. It may refer to that lunar rhythm or to a conventional calendar month, whose length, name, and boundaries come from the calendar being used rather than from the Phi word.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and draw it back into high-back rounded 'u'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n' and carry nasal airflow into stressed middle-height rounded 'o'. Open the jaw for the separate final central 'a'.",
+  "sound_symbolism": "The shared 'lu' opening and following dental nasal in 'lunoa' and 'lunei' (moon) give the month and the moon an audible kinship without making either word a derivation of the other.",
+  "examples": [
+    {
+      "phi": "mia sui wi lunoa theo.",
+      "translation": "I read for two months."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Monthly rhythms invite reflection—each cycle an opportunity to notice change and impermanence.",
-    "pre-industrial-wisdom": "Months followed the moon—the visible cycle in the sky that marked time for those without calendars."
+    "pre-industrial-wisdom": "Visible lunar change has supplied a public reference for longer spans in many calendars, even where local month systems differ."
   },
   "semantic_domains": {
-    "nature": "Moon rhythm",
-    "temporal": "Lunar cycle"
+    "nature": "a span historically related to the moon's recurring visible course",
+    "temporal": "a lunar or conventional calendar span between a week and a year"
   }
 }

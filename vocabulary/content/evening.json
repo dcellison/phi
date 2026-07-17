@@ -8,16 +8,16 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Evening / End of Day / Time of Gathering",
-  "description": "The period from sunset to bedtime; the day's closing hours. 'Howai' names the time of return—gathering home, sharing meals, the transition from work to rest.",
-  "sound_symbolism": "The word settles homeward. 'Ho' breathes with day's release, settling complete. 'Wa' flows with gentle transition, light fading. Then 'i' rests into stillness, evening arrived.",
-  "grammatical_notes": "Functions as a noun: 'mua howai' (in the evening). Time of community gathering, shared meals, and transition toward rest.",
-  "pillars": {
-    "peace-linguistics-practices": "Evening conversation differs from day—slower, more reflective, suited to connection rather than task.",
-    "pre-industrial-wisdom": "Evening gathered families—the time when scattered members returned, stories were shared, bonds renewed."
-  },
+  "description": "'howai' is the later part of the day as daylight settles and ordinary daytime activity gives way to the night. It includes the social and practical span around sunset; 'norawhi' (dusk) names the fading light itself.",
+  "articulatory_notes": "Open the glottis for unvoiced 'h' and round into middle-height back 'o'. Round the lips and raise the back of the tongue for voiced 'w', then open into stressed central 'a'. Keep the final high-front 'i' separate by releasing the rounding and lifting the front of the tongue across the hiatus.",
+  "examples": [
+    {
+      "phi": "lo mia mua howai nuola.",
+      "translation": "We eat in the evening."
+    }
+  ],
   "semantic_domains": {
-    "community": "Gathering time",
-    "temporal": "Day's end"
+    "nature": "settling daylight around the day's transition towards darkness",
+    "temporal": "the late daily span after afternoon and before night"
   }
 }

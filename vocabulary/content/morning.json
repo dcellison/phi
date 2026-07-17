@@ -8,16 +8,16 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Morning / Early Part of Day / Time of Awakening",
-  "description": "The period of time from sunrise to noon; the beginning of the day's light. 'Kelua' names the time of awakening—fresh energy, new beginning, the day opening.",
-  "sound_symbolism": "The word awakens. 'Ke' begins with clear alertness, consciousness stirring. 'Lu' flows into wakefulness. Finally 'a' opens to the new day, morning arrived.",
-  "grammatical_notes": "Functions as a noun: 'mua kelua' (in the morning). Sits between 'horathe' (dawn) and 'thaeso' (midday) among the named divisions of the day. Time of beginning and fresh energy.",
-  "pillars": {
-    "solarpunk-values": "Morning light enables activity without artificial energy—aligning work with natural illumination.",
-    "secular-buddhist-philosophy": "Morning practice sets the day's direction—awakening to awareness before the mind fills with tasks."
-  },
+  "description": "'kelua' is the earlier part of the day after dawn and before midday. It is one of Phi's natural stations, broad enough to follow local light, season, and ordinary practice rather than a fixed clock interval.",
+  "articulatory_notes": "Press the back of the tongue against the soft palate for 'k' and release into middle-height front 'e'. Touch the tongue tip to the alveolar ridge for 'l' and draw the tongue back into stressed high-back rounded 'u'. Release the lip rounding and open the jaw for the separate final central 'a'.",
+  "examples": [
+    {
+      "phi": "mia sui kelua theo.",
+      "translation": "I read during the morning."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Awakening time",
-    "temporal": "Early day"
+    "nature": "rising daylight after first light",
+    "temporal": "the early daily span following dawn and leading to midday"
   }
 }

@@ -7,16 +7,16 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Night / Time of Darkness / Period of Rest",
-  "description": "The period of darkness between sunset and sunrise; the time for sleep. 'Shero' names the dark hours—rest's domain, dream's realm, the earth turned from sun.",
-  "sound_symbolism": "The word descends into dark. 'She' /ʃe/ begins with soft breath, light fading. Then 'ro' rolls into depth, night settling.",
-  "grammatical_notes": "Functions as a noun: 'mua shero' (at night). Opposite of day in the fundamental light-dark cycle. Time for rest, dreams, and restoration.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Night offers different awareness—the quiet mind, the dream state, the unconscious processing.",
-    "pre-industrial-wisdom": "Night commanded rest—without artificial light, darkness organized life around sleep."
-  },
+  "description": "'shero' is the dark span between dusk and dawn. It can name the environment of darkness or one portion of the daily cycle; sleep, work, travel, ceremony, and wakefulness are separate matters that may occur within it.",
+  "articulatory_notes": "Raise the tongue blade toward the postalveolar area for unvoiced 'sh' and send air through its central groove into stressed middle-height front 'e'. Tap or briefly trill the tongue at the alveolar ridge, then draw it back and round into middle-height 'o'.",
+  "examples": [
+    {
+      "phi": "mia mua shero sheluo.",
+      "translation": "I listen in the night."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Rest period",
-    "temporal": "Dark hours"
+    "nature": "the recurring span of darkness between dusk and dawn",
+    "temporal": "the dark portion of the daily cycle"
   }
 }

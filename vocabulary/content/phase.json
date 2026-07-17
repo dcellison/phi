@@ -8,16 +8,15 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Phase / Stage in a Cycle / Part of Process",
-  "description": "A distinct period or stage in a process of change or development. 'Kaero' names the segment within cycles—the waxing moon, the sprouting seed, the stage within transformation.",
-  "sound_symbolism": "The word moves through change. 'Ka' marks with clarity, phase defined. The vowel 'e' opens to transition. Then 'ro' rolls into what comes next, phase shifting.",
-  "grammatical_notes": "Functions as a noun. Plural with 'lo': 'lo kaero' (phases). Implies part of a larger cycle, unlike 'mosha' (period) which can stand alone.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Recognizing phases prevents panic—this is a phase, it will change, nothing stays fixed.",
-    "pre-industrial-wisdom": "Moon phases marked time—waxing for planting, waning for harvest, each phase with its appropriate activities."
-  },
+  "description": "'kaero' is a segment within a cycle or process, distinguished by its present conditions or relation to neighbouring segments. It names temporal progression, not a category of matter: ordinary material phases use 'patoku' (solid), 'larewu' (liquid), and 'heshowa' (gas).",
+  "articulatory_notes": "Press the back of the tongue against the soft palate for 'k' and release into open central 'a'. Bring the tongue forward for the separate stressed middle-height 'e'. Tap or briefly trill the tongue at the alveolar ridge, then draw it back and round into middle-height 'o'.",
+  "examples": [
+    {
+      "phi": "ha kaero mua nuri nai.",
+      "translation": "This phase is within a cycle."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Process stage",
-    "temporal": "Cycle segment"
+    "temporal": "a distinguishable segment within a process or recurring cycle"
   }
 }

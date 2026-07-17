@@ -7,16 +7,19 @@
     "mu"
   ],
   "pos": "noun",
-  "concept": "Moment / Brief Point in Time / Present Instant",
-  "description": "A very brief period of time; a particular point in time. 'Shemu' names the smallest meaningful unit of experienced time—the now that is always passing, the point where life actually happens.",
-  "sound_symbolism": "The word arrives and passes. 'She' /ʃe/ begins with soft breath, presence forming. Then 'mu' grounds briefly, the moment held before releasing.",
-  "grammatical_notes": "Functions as a noun: 'ha shemu' (this moment). Related to 'tiroe' (instant) but emphasizes the experiential quality rather than pure brevity.",
+  "description": "'shemu' is a brief interval or a particular occasion in time. A person can notice, remember, or live through a moment; 'tiroe' (instant) instead treats time as a point with no duration, while 'mosha' (period) can be much longer.",
+  "articulatory_notes": "Raise the tongue blade toward the postalveolar area for unvoiced 'sh' and send air through its central groove into stressed middle-height front 'e'. Close the lips for voiced 'm', carry the voice through the nose, and finish with high-back rounded 'u'.",
+  "usage_notes": "Quantifiers over 'shemu' form Phi's ordinary frequency scale: 'sheloi shemu' often, 'phina shemu' rarely, and 'soli shemu' sometimes.",
+  "examples": [
+    {
+      "phi": "mia ha shemu halemu.",
+      "translation": "I remember this moment."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The moment is all we have—past is memory, future is imagination, only this moment is real.",
-    "pre-industrial-wisdom": "Moments of attention determined survival—the instant of noticing, the moment of action."
+    "secular-buddhist-philosophy": "A moment gives present experience enough width to be attended to without pretending that attention can stop its passing."
   },
   "semantic_domains": {
-    "temporal": "Brief duration",
-    "wisdom": "Present experience"
+    "temporal": "a brief interval or particular occasion in time"
   }
 }

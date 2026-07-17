@@ -8,16 +8,16 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Afternoon / Later Part of Day / Time of Continuation",
-  "description": "The period from noon to evening; the day's mature hours. 'Lorui' names the time of sustained work—energy still present but mellowing, the day moving toward completion.",
-  "sound_symbolism": "The word flows onward. 'Lo' begins with continuing flow, momentum sustained. 'Ru' rolls through the hours. Finally 'i' arrives at lateness, afternoon deepening.",
-  "grammatical_notes": "Functions as a noun: 'mua lorui' (in the afternoon). The productive hours after midday rest, before evening's gathering.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Afternoon energy is different from morning—working with natural rhythms rather than forcing constant productivity.",
-    "pre-industrial-wisdom": "Afternoon completed the day's work—the hours when tasks were finished before light faded."
-  },
+  "description": "'lorui' follows midday and continues until evening begins. Its place among Phi's eight natural stations follows daylight and local practice rather than a fixed clock boundary.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and round into middle-height back 'o'. Tap or briefly trill the tongue for 'r', then draw it back into stressed high-back rounded 'u'. Keep the final high-front 'i' separate from 'u' by releasing the lip rounding across the hiatus.",
+  "examples": [
+    {
+      "phi": "mia sui lorui thalo.",
+      "translation": "I walk during the afternoon."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Mellowing hours",
-    "temporal": "Later day"
+    "nature": "the daily descent of daylight after the sun's height",
+    "temporal": "daylight after midday and before evening"
   }
 }

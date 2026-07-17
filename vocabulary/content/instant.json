@@ -8,16 +8,18 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "Instant / Immediate Point / Flash of Time",
-  "description": "An infinitely brief period of time; a point without duration. 'Tiroe' names the mathematical point of time—the flash, the immediate, the absolutely now.",
-  "sound_symbolism": "The word flashes past. 'Ti' begins with crisp precision, point defined. 'Ro' rolls through instantly. Finally 'e' opens and vanishes, the instant gone.",
-  "grammatical_notes": "Functions as a noun: 'ha tiroe' (this instant). Related to 'shemu' (moment) but emphasizes absolute brevity rather than experienced presence.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Each instant arises and passes—the flash of existence that constitutes reality.",
-    "pre-industrial-wisdom": "Instants of decision shaped fate—the flash when choice was made, action taken."
-  },
+  "search_terms": [
+    "point in time"
+  ],
+  "description": "'tiroe' is a point in time treated as having no duration. It is useful for an immediate boundary or change; 'shemu' (moment) is brief but broad enough to be lived through or remembered.",
+  "articulatory_notes": "Place the tongue tip against the upper teeth for unvoiced dental 't' and release into high-front 'i'. Tap or briefly trill the tongue for 'r', then round into stressed middle-height back 'o'. Unround and bring the tongue forward for the separate final middle-height 'e'.",
+  "examples": [
+    {
+      "phi": "tiroe mawha mosha phelu.",
+      "translation": "An instant has no duration."
+    }
+  ],
   "semantic_domains": {
-    "temporal": "Infinitely brief",
-    "wisdom": "Immediate point"
+    "temporal": "a temporal point considered without duration"
   }
 }

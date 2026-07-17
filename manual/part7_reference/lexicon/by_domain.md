@@ -376,7 +376,7 @@
 | `solai` | gold | Solar beauty |
 | `soriu` | yellow | yellow across pale and saturated shades |
 | `sulai` | musician | Sound creation |
-| `telui` | rhythm | Regular beat |
+| `telui` | rhythm | perceived timing that shapes sound, movement, speech, or art |
 | `theriko` | frost | Crystalline natural pattern |
 | `thewuni` | legible | letterform or tactile form distinguishable to a reader |
 | `thiro` | serene | visible or audible composure in a person, scene, or work |
@@ -473,6 +473,7 @@
 | `nilaki` | inspect | a structured relation among observations, scope, and assessment |
 | `noetha` | essential | an indispensable condition identified for a purpose, identity, or result |
 | `nohero` | believe | a proposition held to be true |
+| `nomi` | present | attentive presence in the current situation |
 | `nomiki` | concentration | a ratio whose agent, denominator, method, and source shape interpretation |
 | `nophi` | story | cognitive structures for organizing events into meaningful sequences |
 | `noporu` | design | developing and selecting among possible relations |
@@ -603,7 +604,6 @@
 | `thewuni` | legible | marks available for the act of reading |
 | `thilonu` | prepare | forethought applied to the conditions an activity will need |
 | `thilou` | inquire | seeking information where knowledge is incomplete |
-| `thimu` | time | the framework through which we understand change |
 | `thirulo` | output | information or effect classified relative to an analytical boundary |
 | `thonua` | scholar | Deep study |
 | `thonuki` | fail | a classification that requires a stated function and conditions |
@@ -771,7 +771,7 @@
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
-## community (284)
+## community (283)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -783,7 +783,6 @@
 | `heloi` | generous | readiness to give or share with regard for others |
 | `helolu` | redress | redress shaped by affected parties and remaining loss |
 | `hinawu` | accommodate | a particular response to an access requirement |
-| `howai` | evening | Gathering time |
 | `howela` | receive | receiving something from another participant in a social relation |
 | `kanuro` | decision | a collective or institutional decision with stated scope |
 | `kanuwa` | authorize | institutional authorization with a stated source and scope |
@@ -895,7 +894,7 @@
 | `peloma` | harmful | effects that diminish another person's or a community's wellbeing |
 | `pemaru` | hazard | a condition whose exposure and consequences may be shared or unequal |
 | `phaelu` | peaceful | a nonviolent and workable condition among people |
-| `phaeno` | week | Work rhythm |
+| `phaeno` | week | a conventional shared cycle for calendars and recurring activity |
 | `phaliso` | network | fundamentally about collective relationships and mutual support |
 | `phamo` | console | solace offered to a bereaved or grieving person |
 | `phanoi` | portion | portioning shared food, materials, or other resources among participants |
@@ -1355,7 +1354,7 @@
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 | `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
-## nature (242)
+## nature (244)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1367,15 +1366,15 @@
 | `hesura` | ash | The fire's gray remainder |
 | `hinolu` | adapt | organisms or living systems changing in relation to their surroundings |
 | `hisophi` | contaminant | a material or organism investigated within an environmental medium |
-| `horathe` | dawn | Light emergence |
+| `horathe` | dawn | the return of visible light around sunrise |
 | `horuma` | thunder | The storm's voice |
+| `howai` | evening | settling daylight around the day's transition towards darkness |
 | `howeli` | wind | Moving atmospheric force |
 | `howenu` | weather | atmospheric conditions and events at a place and time |
-| `kaero` | phase | Process stage |
 | `kalora` | horse | Strength at a stride |
 | `karume` | goat | a wild or domesticated hoofed browsing mammal |
-| `keloi` | summer | Peak growth |
-| `kelua` | morning | Awakening time |
+| `keloi` | summer | the warm, long-day portion of a temperate year |
+| `kelua` | morning | rising daylight after first light |
 | `keluo` | metal | Earth ore |
 | `kenoa` | hemp | Strong plant |
 | `kenua` | energy | Active force |
@@ -1415,19 +1414,19 @@
 | `lori` | vital | conditions and relations on which living systems depend |
 | `loriphi` | rainbow | Optical atmospheric phenomenon |
 | `lorua` | abundant | plentiful growth, water, food, or other provisions in a living system |
-| `lorui` | afternoon | Mellowing hours |
+| `lorui` | afternoon | the daily descent of daylight after the sun's height |
 | `lowi` | vine | Climbing plant |
 | `lumeo` | die | the death of a person or other organism |
 | `lumera` | nourish | nutrients or food supporting an organism's growth |
 | `lunei` | moon | Earth's companion satellite |
-| `lunoa` | month | Moon rhythm |
+| `lunoa` | month | a span historically related to the moon's recurring visible course |
 | `luphano` | watershed | land organized by drainage toward a shared water outlet |
 | `luphore` | river | Flowing waterway |
 | `lureko` | fruit | Plant reproductive structure |
 | `lurepa` | nutrient | material used or required by an organism or living process |
 | `maruko` | bear | a large plantigrade mammal whose habitats and diets vary by species |
 | `melothe` | pond | Small still water body |
-| `meluna` | season | Annual rhythm pattern |
+| `meluna` | season | a locally recognised annual pattern in environmental and living conditions |
 | `meluri` | climate | long-duration patterns of weather across a region |
 | `menui` | dwell | habitation by organisms in an environment |
 | `menuro` | habitat | the place and conditions in which a living group dwells |
@@ -1448,7 +1447,7 @@
 | `moriwhe` | sea | Saltwater body |
 | `morume` | decompose | biological or chemical breakdown within ecological material cycles |
 | `mueri` | clay | Earth material |
-| `muero` | autumn | Completion time |
+| `muero` | autumn | the cooling temperate season associated with harvest and leaf fall |
 | `muhena` | dust | Earth riding the air |
 | `muholi` | dig | working soil in gardens, fields, and water access |
 | `muila` | earth | elemental foundation of terrestrial life |
@@ -1470,13 +1469,14 @@
 | `nitho` | north | The still point of the wheeling sky |
 | `nolika` | animal | Living beings with movement and awareness |
 | `nomira` | collect | collecting specimens or useful material from a living or physical setting |
-| `norawhi` | dusk | Light's recession |
+| `norawhi` | dusk | the final fading of daylight around sunset |
 | `nowhu` | cave | Underground hollow |
 | `numelo` | nurture | care that supports the development of a living thing |
 | `nunoa` | forager | Wild harvesting |
 | `nuola` | eat | feeding relations among living organisms |
 | `nuora` | food | the gifts of earth that nourish us |
 | `nuphari` | fog | Dense ground-level cloud |
+| `nuri` | cycle | recurring courses in living and environmental systems |
 | `panoru` | support | relations that allow organisms or ecological processes to continue |
 | `pekira` | toxic | potential biological effects on organisms or living groups |
 | `pelori` | bird | Aerial life |
@@ -1494,12 +1494,13 @@
 | `phialu` | water | water across weather, waterways, soils, and living bodies |
 | `philea` | feather | Flight's fabric |
 | `philima` | biodiversity | variation among living beings across one or more biological levels |
-| `philo` | day | Solar rhythm |
+| `philo` | day | the recurring light-and-dark cycle shaped by the sun |
 | `phiora` | spirit | Breath essence |
 | `phirali` | blossom | Plant flowering |
 | `phirenu` | snow | Frozen precipitation |
 | `phireo` | plant | Photosynthesizing rooted life |
 | `phiwapi` | butterfly | The garden's transformed flyer |
+| `phoemu` | midnight | the central station of the recurring dark span |
 | `pholui` | bamboo | Giant grass |
 | `phuliro` | stream | Small waterway |
 | `piloe` | spot | The dapple and the speckle |
@@ -1520,8 +1521,8 @@
 | `shalumi` | salmon | The returning river fish |
 | `shelira` | forest | Woodland ecosystem |
 | `sheloa` | bloom | flowering in a plant |
-| `shero` | night | Rest period |
-| `shila` | winter | Dormancy time |
+| `shero` | night | the recurring span of darkness between dusk and dawn |
+| `shila` | winter | the cold, short-day portion of a temperate year |
 | `shioli` | silver | Precious metal |
 | `shiro` | tree | the great standing plants bridging earth and sky |
 | `shomelu` | shadow | The dark that light casts |
@@ -1548,7 +1549,7 @@
 | `teluno` | amphibian | Transforming dual-world creatures |
 | `temoe` | tend | regular work with a garden, animal, or other living thing |
 | `tesu` | iron | Strong metal |
-| `thaeso` | midday | Solar zenith |
+| `thaeso` | midday | the daily station around the sun's highest apparent position |
 | `thaluro` | ocean | Global saltwater body |
 | `thape` | burn | combustion in a hearth, field, or wildfire |
 | `theama` | care | care for a living thing, habitat, or ecological place |
@@ -1569,7 +1570,7 @@
 | `tiripe` | quiver | small repeated movement in leaves, flame, wings, or an animal's body |
 | `tokemi` | fungus | Decomposers and network beings |
 | `tomora` | mountain | Major land elevation |
-| `torua` | year | Seasonal completion |
+| `torua` | year | one complete recurrence of annual environmental change |
 | `tuleno` | frog | an amphibian whose adult form is tailless and adapted for jumping and swimming |
 | `tulira` | tail | The creature's trailing end |
 | `tumeki` | root | Underground plant structure |
@@ -1591,7 +1592,7 @@
 | `whesu` | blow | wind and atmospheric air moving through an environment |
 | `whunei` | breathe | respiration among living organisms in their surrounding medium |
 | `wilanu` | dissolve | dispersion of one substance through another in natural or living processes |
-| `wirae` | spring (season) | Growth beginning |
+| `wirae` | spring (season) | the temperate season associated with warming and renewed growth |
 | `wiralu` | runoff | water moving across land or built surfaces |
 | `wiru` | basket | Natural materials |
 | `wirua` | wet | moisture present in land, weather, air, or living surfaces |
@@ -1602,7 +1603,7 @@
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 | `wosanu` | absorb | soil or a living body taking in water or another material |
 
-## physical (417)
+## physical (418)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1934,6 +1935,7 @@
 | `tapuri` | lid | a separate object meeting the rim of a container |
 | `tawemi` | cover | one thing lying over another so that view or contact is limited |
 | `tekari` | straight | an extended object or edge continuing without a bend |
+| `telui` | rhythm | recurrence felt through bodily movement, breath, or contact |
 | `teru` | process | material passing through a set of operations |
 | `tesu` | iron | Enduring strength |
 | `thalo` | walk | alternating bodily support on the feet |
@@ -2062,7 +2064,7 @@
 | `whoa` | whole | all relevant parts included in the total under discussion |
 | `wi` | two | the exact quantity two and the coefficient two in ternary numerals |
 
-## ritual (29)
+## ritual (28)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2081,7 +2083,6 @@
 | `pharuki` | celebrate | a significant event marked through an observance or festival |
 | `philu` | candle | Meditation focus |
 | `phirena` | meditate | meditation practised as a repeated personal or shared observance |
-| `phoemu` | midnight | Liminal hour |
 | `rotiku` | dance | dance performed as part of a ceremony or repeated observance |
 | `shoraku` | interpret | interpretation where exact communal or ceremonial wording matters |
 | `teli` | bell | Calling presence |
@@ -2096,7 +2097,7 @@
 | `thunepa` | sacred place | Place of reverence |
 | `whunei` | breathe | breath used as an observable object in meditation practice |
 
-## spatial (160)
+## spatial (162)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2111,7 +2112,7 @@
 | `kerime` | shore | Liminal meeting zone |
 | `keritha` | workshop | a room, building, or bounded work area |
 | `kerone` | peninsula | Connected reaching land |
-| `kesho` | middle | Center point |
+| `kesho` | middle | an interior position between relevant outer parts |
 | `kirato` | lock | control at a door, lid, or gate |
 | `koema` | enter | movement from outside to inside |
 | `kolua` | carry | transport through space under continuous support |
@@ -2140,6 +2141,7 @@
 | `lorea` | connect | a bridge, route, or other link joining separate locations |
 | `losha` | wide | breadth measured from one side to the other |
 | `loshenu` | clearance | width, height, depth, or turning room kept clear |
+| `lumae` | end | the last endpoint or portion of a path or extended thing |
 | `luphano` | watershed | an area bounded by selected water-flow relations |
 | `lupho` | float | a supported level within or upon a fluid |
 | `luphonu` | boat | The water's vehicle |
@@ -2234,6 +2236,7 @@
 | `thola` | bring | directed movement towards a place or participant |
 | `tholu` | space | Open area |
 | `tholupi` | room | a bounded space within a building |
+| `thorui` | beginning | the opening endpoint or portion of a path or extended thing |
 | `thunepa` | sacred place | Holy site |
 | `tomae` | floor | Ground surface |
 | `tomora` | mountain | Earth reaching skyward |
@@ -2261,7 +2264,7 @@
 | `womuri` | household | daily life organized around a dwelling |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (166)
+## temporal (167)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2274,19 +2277,20 @@
 | `helui` | change | difference between an earlier and a later state |
 | `herani` | trend | direction or recurrence assessed across time or ordered states |
 | `holume` | loss | the condition that remains after something held is gone |
-| `horathe` | dawn | Day's beginning |
-| `howai` | evening | Day's end |
+| `horathe` | dawn | the threshold station between night and morning |
+| `howai` | evening | the late daily span after afternoon and before night |
 | `howeli` | wind | Agent of change |
 | `howenu` | weather | a short-duration environmental condition or event |
 | `hurao` | patient | a disposition towards delay and processes that take time |
-| `kaero` | phase | Cycle segment |
+| `kaero` | phase | a distinguishable segment within a process or recurring cycle |
 | `kamo` | arrive | the bounded moment when a journey or process reaches its endpoint |
 | `katheo` | acute | onset, development, and expected duration within a clinical course |
-| `keloi` | summer | Abundance season |
+| `keloi` | summer | the season between spring and autumn |
 | `kelu` | become | a transition with a named resulting state |
-| `kelua` | morning | Early day |
+| `kelua` | morning | the early daily span following dawn and leading to midday |
 | `keno` | custom | Traditional practice |
 | `kerithe` | ice | Winter's solid form |
+| `kesho` | middle | an interior portion between the beginning and end of a span |
 | `keshoa` | reptile | Deep time lineage |
 | `kirua` | sand | Product of deep time |
 | `kolu` | steady | regularity maintained across an interval |
@@ -2302,20 +2306,20 @@
 | `lioru` | life | Living duration |
 | `lirowa` | leaf | Seasonal cycle marker |
 | `lopia` | child | an early span within a person's life |
-| `lorui` | afternoon | Later day |
-| `luera` | past | Before now |
-| `lumae` | end | Final point |
+| `lorui` | afternoon | daylight after midday and before evening |
+| `luera` | past | earlier time made available as a subject of memory, record, or thought |
+| `lumae` | end | the close of a time span, event, or process |
 | `lumeo` | die | the point at which a life ends |
 | `lumethi` | deadline | the stated latest time under a named source |
 | `lumira` | descendant | someone placed later in an intergenerational line |
 | `lunai` | vision | Future imagination |
 | `lunei` | moon | marker of monthly cycles and tides |
-| `lunoa` | month | Lunar cycle |
+| `lunoa` | month | a lunar or conventional calendar span between a week and a year |
 | `luphore` | river | Symbol of continuous change |
 | `luseri` | provenance | a sequence of prior stages leading to a present state |
 | `manolu` | stay | continuation across a stated or contextual interval |
 | `meloa` | persevere | a course resumed or sustained across obstacles and delay |
-| `meluna` | season | Cyclical time division |
+| `meluna` | season | a recurring portion of the year |
 | `meluri` | climate | conditions analyzed over an explicitly long period |
 | `mikasu` | dose | an amount tied to an administration or interval |
 | `mirela` | state | conditions attributed to a particular time |
@@ -2323,9 +2327,9 @@
 | `molei` | evolve | many changes accumulating over an extended span |
 | `moluki` | transform | a substantial difference established across time |
 | `morashi` | relapse | a reversal within an ongoing health course |
-| `mosha` | period | Time span |
+| `mosha` | period | a bounded interval or the duration of an event or condition |
 | `mothami` | baseline | often a documented earlier period or state against which change is assessed |
-| `muero` | autumn | Harvest season |
+| `muero` | autumn | the season between summer and winter |
 | `mukesi` | spoil | practical condition worsening during storage or delay |
 | `muraki` | harvest | a crop gathered at the fitting stage or season |
 | `mureo` | stable | a system or condition that persists through ordinary variation |
@@ -2335,28 +2339,28 @@
 | `newai` | fresh | recent making, gathering, arrival, or exposure |
 | `newu` | new | recent arrival, acquisition, introduction, or beginning |
 | `noa` | position | Marks place within sequences and cycles |
-| `nomi` | present | This moment |
+| `nomi` | present | the span currently being lived between past and future |
 | `noraku` | blocked | a stoppage that may end when its obstacle changes |
-| `norawhi` | dusk | Day's ending |
+| `norawhi` | dusk | the threshold station between evening and night |
 | `noruwa` | generation | a cohort or interval within succession through time |
-| `nosa` | now | Present time |
+| `nosa` | now | the current time used as the location of an act or condition |
 | `noshi` | near (adj) | a time close to the present or another stated moment |
 | `nowae` | awaken | the boundary between a sleep period and wakefulness |
 | `nulae` | sleep | sleep occurring in periods and daily cycles |
 | `nurawi` | chronic | continuation or return across a duration set by a clinical source |
-| `nuri` | cycle | Recurring pattern |
-| `nuwoe` | stage | Development level |
-| `phaeno` | week | Seven-day cycle |
+| `nuri` | cycle | an ordered course that returns to a comparable beginning |
+| `nuwoe` | stage | a position or portion within a directed development |
+| `phaeno` | week | a calendar span of seven days |
 | `phaero` | transit | Passage time |
 | `pharea` | adult | the life stage following youth |
 | `phelure` | store | holding something now for access at a later time |
 | `phemiru` | visit | a stay with an understood end |
 | `pheomu` | leftovers | food carried beyond the meal that first served it |
 | `pheru` | endure | continuation through a difficult interval |
-| `philo` | day | Light-dark cycle |
+| `philo` | day | a daylight span or one complete daily cycle |
 | `phirali` | blossom | Emergence into beauty |
 | `phirenu` | snow | Winter's presence |
-| `phoemu` | midnight | Night's center |
+| `phoemu` | midnight | the deep-night station between nightfall and dawn |
 | `pholeni` | depart | the bounded beginning of an absence or journey |
 | `phomila` | offspring | offspring continue a line beyond the parent's generation |
 | `phuro` | renew | a fresh period for something already established |
@@ -2374,10 +2378,10 @@
 | `seru` | commit | an undertaking meant to continue beyond the moment it is made |
 | `sethoni` | handoff | movement from one stage or custodian to the next |
 | `sheli` | impatient | difficulty allowing waiting to continue |
-| `shemu` | moment | Brief duration |
-| `shero` | night | Dark hours |
+| `shemu` | moment | a brief interval or particular occasion in time |
+| `shero` | night | the dark portion of the daily cycle |
 | `sheru` | slow | an action or change that proceeds slowly |
-| `shila` | winter | Rest season |
+| `shila` | winter | the season between autumn and spring |
 | `shimalo` | discipline | a chosen course sustained through repeated returns |
 | `shua` | come | an event, time, or condition becoming present |
 | `sitawi` | inventory | a record explicitly bounded to a time |
@@ -2390,10 +2394,10 @@
 | `sunoe` | regenerate | recovery that accumulates over a stated span |
 | `talome` | restore | a present condition compared with an earlier one |
 | `teku` | short | a brief duration or interval |
-| `telui` | rhythm | Recurring pattern |
+| `telui` | rhythm | a pattern organised through recurring intervals or beats |
 | `teluno` | amphibian | Beings of metamorphosis |
 | `teshori` | quarantine | a restriction during a stated uncertainty period |
-| `thaeso` | midday | Day's peak |
+| `thaeso` | midday | the station between morning and afternoon |
 | `thalume` | ancestor | someone placed earlier in an intergenerational line |
 | `thekasi` | caption | text synchronized with a live or recorded event |
 | `thekopa` | recipe | an ordered sequence of preparation steps |
@@ -2404,19 +2408,19 @@
 | `thilonu` | prepare | an earlier action arranged in relation to what is expected later |
 | `thimelo` | pace | movement distributed through time |
 | `thimora` | schedule | planned relations among times and stages |
-| `thimu` | time | the dimension and experience of duration |
+| `thimu` | time | duration and the temporal setting of events and change |
 | `thinoe` | seed | the present form of future growth |
 | `thiranu` | maintain | attention repeated between failures |
 | `thole` | practice | an action developed through return across occasions |
 | `tholua` | ancient | existence or origin in a past far beyond ordinary age |
 | `thorea` | ceremony | marks transitions and milestones in communal time |
-| `thorui` | beginning | Origin point |
+| `thorui` | beginning | the opening of a time span, event, or process |
 | `thowia` | born | a dated threshold in an animal's life |
 | `thunaro` | train | practice developed through a sequence of attempts |
 | `thunesi` | asynchronous | participation distributed across different moments |
 | `thuroa` | grow | development traced across time |
-| `tiroe` | instant | Infinitely brief |
-| `torua` | year | Full cycle |
+| `tiroe` | instant | a temporal point considered without duration |
+| `torua` | year | an annual cycle or conventional calendar year |
 | `turelo` | feedback | a later state or output affects a continuing or subsequent process |
 | `turema` | return | an earlier relation providing the reference for what comes back later |
 | `welira` | thrive | good health and development continuing through time |
@@ -2424,15 +2428,15 @@
 | `weshaku` | outbreak | cases considered within a stated period |
 | `wheo` | elder | a role associated with the later part of a life |
 | `winora` | plan | relating actions across a proposed order or schedule |
-| `wirae` | spring (season) | Renewal season |
+| `wirae` | spring (season) | the season between winter and summer |
 | `wireki` | prognosis | an expected course or outcome over time |
-| `wireo` | future | After now |
+| `wireo` | future | later time made available as a subject of thought or action |
 | `wiresu` | postpone | later placement without cancellation |
 | `wiroa` | hopeful | anticipation directed towards a future condition |
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (88)
+## wisdom (76)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2441,7 +2445,6 @@
 | `kathu` | seal | Confirmation |
 | `keiro` | way | Manner of approach |
 | `keli` | device | Crafted complexity |
-| `kesho` | middle | Balance position |
 | `kethira` | infer | recognizing the mind's movement beyond what was directly given |
 | `kira` | key | Access granted |
 | `kirae` | crystal | Clarity symbol |
@@ -2452,28 +2455,21 @@
 | `kulo` | guide | practical knowledge of a way shared through accompaniment |
 | `leiro` | release | release considered as a practice of loosening attachment |
 | `letharo` | consistent | holding plurality without confusing compatibility with truth |
-| `luera` | past | Memory's domain |
 | `luma` | lamp | Illumination |
-| `lumae` | end | Completion |
 | `lumishe` | mentor | experience offered for the learner's considered use |
 | `lumoi` | lantern | Guiding illumination |
 | `manawi` | compromise | a practical but morally nonautomatic response to conflict |
 | `menua` | counselor | Advisory presence |
-| `mosha` | period | Bounded duration |
 | `motha` | foundation | Essential support |
 | `motu` | humble | self-appraisal kept open to correction and further learning |
 | `noa` | position | Understanding position as relational rather than hierarchical |
 | `noetha` | essential | practical judgement about what a course cannot lose and still meet its purpose |
-| `nomi` | present | Here-and-now quality |
 | `norae` | method | Ordered way |
 | `norea` | soul | Self understanding |
 | `norethi` | confident | firmness that remains distinguishable from knowledge and certainty |
-| `nosa` | now | Current moment |
 | `nukesa` | expert | understanding refined through long practice and reflection |
 | `nulo` | deep | sustained inquiry or knowing that reaches beneath an initial account |
-| `nuri` | cycle | Understanding of return |
 | `nusho` | depth | Profundity |
-| `nuwoe` | stage | Growth position |
 | `pelua` | paper | Receptive potential |
 | `phari` | pen | Recording thought |
 | `phenui` | thoughtful | reflection on likely effects before action |
@@ -2491,7 +2487,6 @@
 | `ruela` | path | ways of practice and understanding |
 | `seloi` | insightful | depth of understanding kept distinct from certainty or authority |
 | `sharino` | conscience | moral self-appraisal that remains open to examination and correction |
-| `shemu` | moment | Present experience |
 | `shoeka` | route | Way chosen |
 | `silero` | star | guide for routes and seasons |
 | `sima` | thread | Connection |
@@ -2514,13 +2509,10 @@
 | `thesani` | skill | practical understanding refined through experience |
 | `thesori` | evidence | material whose source, relevance, and limits can be examined |
 | `tholu` | space | Enabling emptiness |
-| `thorui` | beginning | Fresh start |
 | `thuni` | intuitive | immediate judgement that may draw on experience and still remains open to checking |
-| `tiroe` | instant | Immediate point |
 | `tisu` | needle | Precise craft |
 | `tolu` | staff | Journey companion |
 | `tumeki` | root | Foundation and origin |
 | `welao` | good | a contextual favourable judgement whose grounds remain open to examination |
 | `weloni` | body | the whole body as an object of sustained contemplative attention |
 | `whamoi` | doubt | recognition that judgment may remain open while inquiry continues |
-| `wireo` | future | Possibility's domain |

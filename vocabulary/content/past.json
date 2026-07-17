@@ -8,16 +8,15 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Past / Time Gone By / What Has Already Happened",
-  "description": "The time before the present; events that have already occurred. 'Luera' names time that has flowed away—memory's domain, history's realm, what cannot be changed.",
-  "sound_symbolism": "The word flows backward. 'Lu' begins with receding flow, time moving away. The vowel 'e' opens to memory. Then 'ra' reaches back, the past recalled.",
-  "grammatical_notes": "Functions as a noun: 'mia luera halemu' (I remember the past). Opposite of 'wireo' (future). Related to the tense particle 'to' which marks past time.",
-  "pillars": {
-    "secular-buddhist-philosophy": "The past exists only in present memory—clinging to it causes suffering, learning from it brings wisdom.",
-    "pre-industrial-wisdom": "The past taught through memory—ancestral knowledge, seasonal patterns, accumulated experience."
-  },
+  "description": "'luera' gathers time before the present for memory, record, and discussion. As a noun, it makes earlier time itself the subject; the particle 'to' separately places a clause there.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and draw it back into high-back rounded 'u'. Unround and bring the tongue forward for the separate stressed middle-height 'e'. Tap or briefly trill the tongue, then open the jaw into central 'a'.",
+  "examples": [
+    {
+      "phi": "wheo luera halemu.",
+      "translation": "The elder remembers the past."
+    }
+  ],
   "semantic_domains": {
-    "temporal": "Before now",
-    "wisdom": "Memory's domain"
+    "temporal": "earlier time made available as a subject of memory, record, or thought"
   }
 }

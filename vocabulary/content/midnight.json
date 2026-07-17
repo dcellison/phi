@@ -8,16 +8,21 @@
     "mu"
   ],
   "pos": "noun",
-  "concept": "Midnight / Middle of Night / Deepest Dark",
-  "description": "The middle of the night; twelve o'clock at night. 'Phoemu' names the night's depth—the hinge between one day and the next, the hour of deepest quiet.",
-  "sound_symbolism": "The word rests in deep dark. 'Pho' /ɸo/ begins with quiet breath, stillness present. The vowel 'e' opens to the void. Then 'mu' grounds in darkness, midnight held.",
-  "grammatical_notes": "Functions as a noun: 'mua phoemu' (at midnight). The center point of night, when the world is most still and the boundary between days is crossed.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Midnight offers the day's deepest quiet, the hour when even a restless mind can settle.",
-    "pre-industrial-wisdom": "Midnight marked the deep—the hour when spirits were said to move, when the veil was thin."
-  },
+  "search_terms": [
+    "middle of the night",
+    "deep night"
+  ],
+  "description": "'phoemu' is the central or deepest station of the night, well after dusk and before dawn. The word belongs to Phi's lived clock of darkness and light; it is not the clock reading 00:00.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the narrow opening for 'ph', then round into middle-height back 'o'. Unround and bring the tongue forward for the separate stressed middle-height 'e'. Close the lips for voiced 'm', keep nasal airflow, and finish with high-back rounded 'u'.",
+  "usage_notes": "Use 'mua phoemu' for location at midnight and 'tei phoemu' for continuation until midnight. A required exact clock reading remains in its source record.",
+  "examples": [
+    {
+      "phi": "mia tei phoemu theo.",
+      "translation": "I read until midnight."
+    }
+  ],
   "semantic_domains": {
-    "ritual": "Liminal hour",
-    "temporal": "Night's center"
+    "nature": "the central station of the recurring dark span",
+    "temporal": "the deep-night station between nightfall and dawn"
   }
 }
