@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (284)
+## activity (283)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -121,7 +121,6 @@
 | `palowe` | shoe | The walker's equipment |
 | `panoru` | support | providing what another activity or condition depends on |
 | `panuri` | resource | something considered available for a stated purpose or process |
-| `patore` | hit | one body or object making a brief forceful impact on another |
 | `pawela` | participate | taking an active part in an event or process |
 | `peki` | squeeze | compressing a person or thing from opposing directions |
 | `perawi` | expose | contact between an entity and a stated environmental agent |
@@ -1574,7 +1573,7 @@
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 | `wosanu` | absorb | soil or a living body taking in water or another material |
 
-## physical (411)
+## physical (410)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1775,7 +1774,6 @@
 | `panoru` | support | bearing weight or holding a structure in place |
 | `panuri` | resource | the term often concerns material, energy, land, water, or biological products |
 | `patoku` | solid | matter that retains its own shape and roughly its volume under the conditions at hand |
-| `patore` | hit | the contact event produced by a strike or collision |
 | `peki` | squeeze | pressure brought inward around a body or object |
 | `pekira` | toxic | a property of substances, mixtures, materials, or agents under exposure |
 | `pelaku` | severity | degree of bodily or health effect |

@@ -60,7 +60,7 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Care, affection, regard, and relational repair](#care-affection-regard-and-relational-repair) | complete | closed | 0 |
 | [Learning, practice, guidance, and sustained effort](#learning-practice-guidance-and-sustained-effort) | complete | closed | 2 |
 | [Measurement, comparison, meaning, and record](#measurement-comparison-meaning-and-record) | complete | open | 2 |
-| [Ritual, play, and expressive response](#ritual-play-and-expressive-response) | complete | open | 3 |
+| [Ritual, play, and expressive response](#ritual-play-and-expressive-response) | complete | closed | 3 |
 | [Relation, boundaries, and remaining practical acts](#relation-boundaries-and-remaining-practical-acts) | complete | open | 1 |
 | [Personhood, generations, kinship, and social belonging](#personhood-generations-kinship-and-social-belonging) | complete | open | 1 |
 | [Body, anatomy, and bodily condition](#body-anatomy-and-bodily-condition) | complete | closed | 10 |
@@ -261,8 +261,8 @@ No lexical question from this batch remains outside an explicit coverage decisio
 
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
-| `CV-HIT-01` | brief physical impact | Implemented | base | Words: `patore`. The verb reports impact before the sentence decides intent, injury, or damage. |
-| `CV-HIT-02` | peace-linguistic scope and retention of patore | Open | base or retired vocabulary | Do the nonviolent impact uses justify a general root with that broader reach, or should patore be narrowed or retired? The current root supports accidental impact, tool contact, and applause, but its unmarked scope also permits deliberate interpersonal hitting. |
+| `CV-HIT-01` | brief physical impact | Declined | retired vocabulary | Retire patore. Forceful contact uses kema palo, while pesa, pukeri, or kaworu states movement or consequence when the event establishes it. A general impact root gathers contact, displacement, damage, and bodily injury under an unmarked verb whose ordinary reach includes interpersonal blows. |
+| `CV-HIT-02` | peace-linguistic scope and retention of patore | Compositional | base expressions and existing result words | `kema palo`, `pesa`, `pukeri`, `kaworu`. Forceful contact, displacement, material damage, and bodily injury remain separate claims, so ordinary Phi selects the distinction the event establishes. |
 | `CV-AIM-01` | physical alignment towards a selected point or object | Open | Work or a transparent construction | Does craft or measurement need a distinct physical-alignment relation, or do direction, orientation, and purpose already cover the legitimate uses? Direction and intention approach this relation without importing the combat-shaped English extensions of aim and target. |
 
 ## Material change, making, and joining
@@ -311,9 +311,9 @@ No lexical question from this batch remains outside an explicit coverage decisio
 
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
-| `CV-HIT-01` | brief physical impact | Implemented | base | See the complete decision under [Contact, force, and placement](#contact-force-and-placement). |
-| `CV-HIT-02` | peace-linguistic scope and retention of patore | Open | base or retired vocabulary | See the complete decision under [Contact, force, and placement](#contact-force-and-placement). |
-| `CV-APPLAUSE-01` | applause | Compositional | base expression | `manuwe patore`, `woraka`, `pharuki`, `nomela`. Repeated hand impacts name the physical act; appreciation, celebration, or encouragement states what the act is doing in that gathering. |
+| `CV-HIT-01` | brief physical impact | Declined | retired vocabulary | See the complete decision under [Contact, force, and placement](#contact-force-and-placement). |
+| `CV-HIT-02` | peace-linguistic scope and retention of patore | Compositional | base expressions and existing result words | See the complete decision under [Contact, force, and placement](#contact-force-and-placement). |
+| `CV-APPLAUSE-01` | applause | Compositional | base expression | `miona wi manuwe roe telui wiso palo`, `woraka`, `pharuki`, `nomela`. Hands touching each other in rhythm describe the gesture; appreciation, celebration, or encouragement states why the gathering responds. |
 
 ## Relation, boundaries, and remaining practical acts
 

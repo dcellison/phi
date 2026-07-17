@@ -6,7 +6,7 @@
 0.47	1	nila	see	content	nela	COORD	function	659
 0.47	1	so	FUT	function	su	OPT	function	368
 0.47	1	sholu	complete	content	sholo	QUOT.COMP.CLOSE	function	274
-0.47	1	wi	two	content	we	ALSO	function	259
+0.47	1	wi	two	content	we	ALSO	function	260
 0.47	1	ro	HAB	function	ru	INTS	function	232
 0.47	1	mu	zero	content	mo	CMPR	function	229
 0.47	1	ke	INFER	function	ki	PFV	function	207
@@ -45,7 +45,7 @@
 0.47	1	kolo	equal	content	kulo	guide	content	58
 0.47	1	keru	bright	content	kiru	chisel	content	57
 0.47	1	menua	counselor	content	menoa	face	content	46
-0.47	1	kima	scribe	content	kema	strong	content	43
+0.47	1	kima	scribe	content	kema	strong	content	44
 0.47	1	thero	fire	content	theru	thick	content	43
 0.47	1	kelua	morning	content	keloa	rough	content	42
 0.47	1	shero	night	content	sheru	slow	content	35
@@ -59,10 +59,10 @@
 0.47	1	kolo	equal	content	kolu	steady	content	21
 0.47	1	seru	commit	content	siru	marker	content	20
 0.47	1	helui	change	content	heloi	generous	content	18
+0.47	1	palu	plate	content	palo	touch	content	18
 0.47	1	solai	gold	content	sulai	musician	content	18
 0.47	1	tisu	needle	content	tiso	sharp	content	18
 0.47	1	kirua	sand	content	kiroa	sign	content	16
-0.47	1	palu	plate	content	palo	touch	content	16
 0.47	1	kori	leather	content	kuri	right	content	14
 0.47	1	luwi	flexible	content	lowi	vine	content	14
 0.47	1	tinoa	dye	content	tenoa	tool	content	13
@@ -231,9 +231,9 @@
 0.50	1	seru	commit	content	sheru	slow	content	16
 0.50	1	seru	commit	content	heru	herb	content	15
 0.50	1	sorui	circle	content	shorui	weary	content	14
+0.50	1	pelui	cold	content	telui	rhythm	content	13
 0.50	1	shalu	fish	content	halu	aww	interjection	13
 0.50	1	lima	alive	content	lina	string (instrument)	content	12
-0.50	1	pelui	cold	content	telui	rhythm	content	12
 0.50	1	pheno	full	content	heno	satisfy	content	12
 0.50	1	thola	bring	content	whola	invite	content	12
 0.50	1	heru	herb	content	sheru	slow	content	11
