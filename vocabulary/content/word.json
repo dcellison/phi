@@ -8,16 +8,25 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Word / Spoken Unit / The Meaning-Carrier",
-  "description": "The noun naming the basic unit of speech, the combination of sounds that carries meaning between minds. In Phi, word is understood as powerful—each word a small spell that shapes perception, that can bless or wound, that carries intention into the world. This word names both the linguistic unit and the quality of verbal meaning, the power inherent in naming and speaking.",
-  "sound_symbolism": "The word opens with 'phe', where the gentle bilabial fricative breathes the abstract quality of language—words are made of breath shaped by intention. The clear 'e' brings definition. This flows through 'lu', where the liquid carries meaning forward as words flow in speech, each connected to the next. The final 'i' crystallizes meaning into distinct unit—this word, not that word, specific meaning achieved. The arc traces language: breath becoming speech, flowing connection, crystallized meaning.",
-  "grammatical_notes": "Functions as a noun referring to words as linguistic units or to specific words: 'moli phelui' (a gentle word), 'lo phelui' (words). Often appears in metalinguistic expressions, discussions of language, and contexts of naming and definition.",
+  "search_terms": [
+    "lexical unit",
+    "vocabulary item"
+  ],
+  "description": "One conventional unit of a language is a 'phelui' (word), with a form and a shared lexical or grammatical use. The noun can also refer to particular wording when several words are gathered as 'lo phelui' (words). 'shemui' (utter) produces a bounded stretch of wording, while a word remains the unit being used or discussed.",
+  "articulatory_notes": "Bring the lips close for unvoiced bilabial 'ph' and let the airflow open into middle-height front 'e'. Touch the tongue tip to the alveolar ridge for 'l' and round into stressed high-back 'u'. Keep the last syllable distinct while unrounding and moving the tongue into high-front 'i'.",
+  "usage_notes": "Exact spoken words can stand inside 'shola ... sholo'. In metalinguistic use, a Phi form remains lowercase and can be discussed as a 'phelui' without turning its English gloss into part of the Phi sentence.",
+  "examples": [
+    {
+      "phi": "mia ha phelui sano.",
+      "translation": "I know this word."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Right speech is practiced word by word. 'Phelui' names the units we must watch, the individual choices that compose our verbal karma.",
-    "peace-linguistics-practices": "Words shape reality. 'Phelui' names the units of this shaping power, inviting awareness of each word's weight and impact."
+    "secular-buddhist-philosophy": "Right Speech is practised through actual choices of wording, not through a label applied afterward. 'phelui' lets one such choice be examined directly.",
+    "peace-linguistics-practices": "A single word can assign agency or place a person inside a category. It may also hide a source. Naming the unit makes those choices available for revision."
   },
   "semantic_domains": {
-    "cognition": "the carrier of meaning between minds",
-    "communication": "the basic unit of speech"
+    "cognition": "a conventional form recalled and understood as one unit",
+    "communication": "a basic lexical or grammatical unit used in expression"
   }
 }

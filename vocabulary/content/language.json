@@ -8,15 +8,25 @@
     "ma"
   ],
   "pos": "noun",
-  "concept": "Language / The Whole of a People's Speech",
-  "description": "A language: the whole system of a people's speech — its words, sounds, and ways. It is built from speech's breath and flow, grounded by 'ma': speaking made a shared whole. Not the tongue: 'lathoe' is anatomy only, and Phi does not copy English's body-metaphor for speech. Phi itself is a haluma, and this word is how the language names its own kind.",
-  "sound_symbolism": "'Ha' begins in open breath, the material of speech. 'Lu' lets that breath flow between people, and 'ma' grounds it as a durable shared system. The form remains kin to 'haolu' (speak) without containing the verb whole.",
-  "grammatical_notes": "Noun. A counted language may take optional 'nophe': 'ta nophe haluma' (one language); 'ta haluma' is also grammatical. 'mia wi haluma sano.' (I know two languages.) From the Babel text: 'theula muila ta haluma to phelu.' (The whole earth held one language.)",
+  "search_terms": [
+    "speech system",
+    "signed language"
+  ],
+  "description": "Speech, signing, and writing can belong to one 'haluma' (language), a shared system of forms and conventions through which people make expressions and understand them. A 'phelui' (word) is among its conventional units, while 'haolu' (speak) is one way of using the system. A language may cross many communities, and one community may use several languages.",
+  "articulatory_notes": "Let unvoiced air pass through the open glottis for 'h' and shape central 'a'. Touch the tongue tip to the alveolar ridge for 'l', then round the lips into stressed high-back 'u'. Close the lips for voiced nasal 'm' and finish by opening into central 'a'.",
+  "sound_symbolism": "The opening 'ha.lu' audibly neighbours 'haolu' (speak), while final 'ma' closes the lips before opening again. The resemblance helps memory without making the noun a derivation of the verb.",
+  "usage_notes": "'haluma kire' can describe a language form or dialect, while 'haluma senalu' is a register or style. 'haluma haoni welisha' describes an accent as the colour of a language's voice. 'haluma sena' is grammar, and 'thekiro sena' is a script or writing system. Exact named languages and scripts keep their source identities.",
+  "examples": [
+    {
+      "phi": "mia wi haluma sano.",
+      "translation": "I know two languages."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "The field's own object, named at last: a language as a practice a people shares, not an instrument one wields. That the word grounds speech in 'ma' is the claim in miniature."
+    "peace-linguistics-practices": "Peace linguistics examines how a language's habitual choices distribute attention, agency, and social standing. 'haluma' identifies the shared system without making any one community its sole owner."
   },
   "semantic_domains": {
-    "communication": "The shared whole of speech",
-    "community": "What a people holds in common"
+    "communication": "a shared system through which expressions are formed and understood",
+    "community": "a communicative practice learned, changed, and shared among people"
   }
 }

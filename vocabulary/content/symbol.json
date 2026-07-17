@@ -7,16 +7,21 @@
     "lo"
   ],
   "pos": "noun",
-  "concept": "Symbol / Meaningful Mark / Representative Sign",
-  "description": "A mark or character representing something else; a thing that stands for deeper meaning. 'Relo' names what represents—the visible that points to invisible.",
-  "sound_symbolism": "The word represents meaning. 'Re' recalls and references, connection to what it represents. Then 'lo' opens to the deeper sense, meaning revealed.",
-  "grammatical_notes": "Functions as noun: 'lo relo' (symbols). More abstract than 'kiroa' (sign)—symbols carry layered meaning, cultural depth.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Symbols point beyond themselves—the finger pointing at the moon is not the moon.",
-    "art-nouveau-aesthetics": "Symbol as art—the visual form carrying meaning, beauty and significance united."
-  },
+  "search_terms": [
+    "emblem",
+    "representative sign"
+  ],
+  "description": "A leaf remains a leaf, but a community may also use it as a 'relo' (symbol). The symbol is a form or thing understood to stand for further meaning. 'kiroa' (sign) ordinarily conveys information more directly, and 'reo' (meaning) states the sense understood through either one.",
+  "articulatory_notes": "Tap or briefly trill the tongue against the alveolar ridge and release into stressed middle-height front 'e'. Return the tongue tip to the ridge for voiced lateral 'l', let air pass along its sides, and finish with middle-height back rounded 'o'.",
+  "sound_symbolism": "'relo' audibly neighbours 'reo' (meaning): the words share their opening and final vowel, with an added lateral contact in the longer form. The resemblance links symbol with understood meaning without making either word a derivation.",
+  "examples": [
+    {
+      "phi": "ha relo shea reo.",
+      "translation": "This symbol means peace."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "Representation",
-    "creation": "Meaning carrier"
+    "cognition": "a form understood through a representative relation",
+    "communication": "a conventional carrier through which further meaning can be conveyed"
   }
 }

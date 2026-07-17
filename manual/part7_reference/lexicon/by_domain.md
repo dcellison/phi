@@ -315,7 +315,7 @@
 | `wonepa` | table | a shared or individual surface arranged for meals, work, or meeting |
 | `wosanu` | absorb | a receiving body taking material into itself |
 
-## aesthetic (71)
+## aesthetic (73)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -329,6 +329,7 @@
 | `kiru` | chisel | Revealing form |
 | `kolai` | pigment | Visual material |
 | `koru` | harmonious | parts perceived as fitting together into a pleasing whole |
+| `kuma` | drum | a struck instrument whose pulse, tone, and resonance support rhythmic form |
 | `lei` | harmony | distinct sounds or forms fitting into a pleasing whole |
 | `lina` | string (instrument) | a tensioned strand whose vibration produces musical sound |
 | `liro` | green | green color on living and made surfaces |
@@ -338,7 +339,8 @@
 | `luwae` | graceful | flowing movement or form perceived as graceful |
 | `maeli` | quiet | quiet or silence used as part of an audible composition |
 | `meliho` | sing | melody and vocal form perceived or shaped through singing |
-| `meliphe` | music | Sound organized on purpose |
+| `meliphe` | music | sound shaped and received as music |
+| `melira` | song | a composed work shaped for singing or recitation |
 | `mioru` | beautiful | a speaker's aesthetic appreciation of a form, sound, movement, or presence |
 | `mishoa` | express | a quality or artistic impulse made perceptible in a work |
 | `mueli` | plain (unadorned) | a form or surface with little or no applied ornament |
@@ -357,15 +359,15 @@
 | `phiro` | elegant | refinement perceived in the proportion, economy, or manner of a form |
 | `phiwapi` | butterfly | a living pattern of wing colour and motion |
 | `pholuo` | luminous | steady or diffused light perceived as filling a source or surface |
-| `phui` | flute | Breath music |
+| `phui` | flute | a breath-driven instrument used for melody, sustained tone, and ornament |
 | `piloe` | spot | a small contrasting mark within a visible pattern |
 | `puko` | bitter | bitterness encountered and sometimes sought in food, drink, or medicine |
 | `rotiku` | dance | rhythm and bodily form experienced or shaped as a dance |
 | `rulo` | red | ordinary reds, whether bright or dark |
-| `sena` | pattern | Repeated design |
+| `sena` | pattern | recurring arrangement perceived in ornament, sound, movement, or another form |
 | `senalu` | style | a recognisable manner shared across works, practices, or periods |
 | `shaemu` | organic | Growth-shaped form |
-| `shela` | art | Expressive form |
+| `shela` | art | the field in which made form is encountered as expression |
 | `sheloa` | bloom | the visible opening of a flower |
 | `shemoli` | harmonize | voices, colors, forms, or movements tuned into a pleasing relation |
 | `shiloa` | pure | an unmixed colour, tone, or formal quality |
@@ -376,7 +378,7 @@
 | `simoe` | rich | perceptible depth or concentration in colour, flavour, sound, or texture |
 | `solai` | gold | a yellow metal used where colour, reflection, or surface matters |
 | `soriu` | yellow | yellow across pale and saturated shades |
-| `sulai` | musician | Sound creation |
+| `sulai` | musician | a person engaged in the making or performance of music |
 | `telui` | rhythm | perceived timing that shapes sound, movement, speech, or art |
 | `thewuni` | legible | letterform or tactile form distinguishable to a reader |
 | `thiro` | serene | visible or audible composure in a person, scene, or work |
@@ -385,18 +387,17 @@
 | `tuko` | sour | an acidic taste encountered in food and drink |
 | `welisha` | color | the visual category used to name and compare colors |
 | `weloa` | loom | Pattern maker |
-| `weru` | poet | Word craft |
+| `weru` | poet | someone composing patterned works for voice or page |
 | `weshapi` | decorate | visible additions made chiefly for their effect on form or appearance |
 | `whilaru` | comb | The tool worth carving |
 | `whilo` | white | achromatic color at high perceived lightness |
 | `woraka` | appreciate | positive recognition of a sensory or artistic quality |
 
-## cognition (242)
+## cognition (241)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `halemu` | remember | past experience or knowledge retained in or returned to present memory |
-| `haoni` | voice | expression of thoughts and inner states |
 | `hea` | hear | sound arriving in perception |
 | `hekawi` | find | recognising that the sought or discovered thing has been found |
 | `helui` | change | revision of a belief, interpretation, or mental state |
@@ -474,7 +475,7 @@
 | `nohero` | believe | a proposition held to be true |
 | `nomi` | present | attentive presence in the current situation |
 | `nomiki` | concentration | a ratio whose agent, denominator, method, and source shape interpretation |
-| `nophi` | story | cognitive structures for organizing events into meaningful sequences |
+| `nophi` | story | events arranged into a sequence that can be remembered, imagined, or interpreted |
 | `noporu` | design | developing and selecting among possible relations |
 | `norae` | method | Systematic approach |
 | `norea` | soul | Deep identity |
@@ -495,7 +496,7 @@
 | `pharune` | include | including an element within an account, model, or category |
 | `phelira` | mistaken | a person, belief, statement, or course presently in error |
 | `phelu` | hold | holding a thought, view, or other mental content |
-| `phelui` | word | the carrier of meaning between minds |
+| `phelui` | word | a conventional form recalled and understood as one unit |
 | `phenui` | thoughtful | careful thought that includes another person's needs or circumstances |
 | `pherami` | depend | an analyzed requirement relation between system elements |
 | `phesua` | inspire | an idea or possibility becoming newly imaginable to someone |
@@ -518,7 +519,7 @@
 | `pothu` | stink | a contextual judgement that an odour is strongly unpleasant |
 | `pula` | wish | representing an outcome as desired without asserting its likelihood |
 | `pushali` | overload | information or sensory input exceeding current processing capacity |
-| `relo` | symbol | Representation |
+| `relo` | symbol | a form understood through a representative relation |
 | `remo` | think | considering, remembering, imagining, and following ideas |
 | `remole` | concept | an organized idea used to relate or classify experience |
 | `remotha` | reason | a consideration that supports acceptance or action |
@@ -536,7 +537,7 @@
 | `seloi` | insightful | perception of a relation or significance that is not immediately apparent |
 | `selu` | flow | a discernible course taken by thought or attention |
 | `selua` | aware | awareness directed towards a present fact, sensation, event, or condition |
-| `sena` | pattern | Recognizable structure |
+| `sena` | pattern | structure recognised across repeated or related instances |
 | `senao` | same | identity or broad sameness established on a stated or recoverable basis |
 | `shalimo` | alliance | held together by a shared conviction, an idea before it is a bond |
 | `sharemi` | persuade | trying to influence another person's belief or judgement |
@@ -545,7 +546,7 @@
 | `sharoi` | exceed | a quantitative relation established by comparison |
 | `shelo` | signify | an observed sign understood as pointing towards something else |
 | `shelomu` | understand | meaning or relation grasped among facts, parts, or events |
-| `shelu` | book | tools for thought extending memory and enabling complex reasoning |
+| `shelu` | book | an extended written work a reader can follow beyond one sitting |
 | `sheluo` | listen | attention deliberately directed towards sound |
 | `sheraki` | search | a search for an answer, fact, or other unknown |
 | `sherewa` | claim | a proposition selected and put forward for assessment |
@@ -638,13 +639,13 @@
 | `wireki` | prognosis | a conditional inference about a health course |
 | `woraka` | appreciate | attention that recognises value in a person, act, thing, or condition |
 
-## communication (129)
+## communication (131)
 
 | Word | Gloss | In this domain |
 |---|---|---|
-| `haluma` | language | The shared whole of speech |
+| `haluma` | language | a shared system through which expressions are formed and understood |
 | `haolu` | speak | the general vocal production of language |
-| `haoni` | voice | fundamental medium for spoken communication |
+| `haoni` | voice | the vocal medium through which speech, song, and other calls are heard |
 | `hea` | hear | spoken language becoming available to a hearer |
 | `hewasu` | audible | speech or a signal distinguishable to its intended listener |
 | `hola` | laugh | an audible social response whose meaning comes from its occasion and manner |
@@ -654,7 +655,7 @@
 | `keloa` | rough | an abrasive texture extended to the delivery of a voice or utterance |
 | `keluro` | honor | respect or tribute deliberately expressed to others |
 | `kima` | scribe | writing or copying another person's words and public records |
-| `kiroa` | sign | Visual message |
+| `kiroa` | sign | a perceivable form used to convey information or instruction |
 | `kirothe` | define | making a proposed usage boundary explicit for others |
 | `kirowi` | signal | a technical communication relation that does not guarantee shared meaning |
 | `kisholu` | specification | a shareable statement of requirements that may still be disputed or revised |
@@ -666,7 +667,7 @@
 | `lilea` | clarify | wording repaired so that its intended reference is easier to follow |
 | `lona` | meeting | an event organised around exchange among participants |
 | `lonae` | respond | the return turn after a question or other prompt |
-| `lophae` | storyteller | Tale sharing |
+| `lophae` | storyteller | a person who gives narrative a spoken or written telling |
 | `lumishe` | mentor | continuing guidance through demonstration, questions, and counsel |
 | `manawi` | compromise | an outcome of negotiating differing aims |
 | `menoa` | face | the region where much visible human expression appears |
@@ -682,9 +683,9 @@
 | `nawo` | agree | stating accord on a proposition or proposed course |
 | `noeli` | warm (emotional) | warmth expressed through voice, greeting, or parting |
 | `noemi` | authentic | a voice or expression faithful to the speaker's lived commitments |
-| `nomei` | name | the word that calls and identifies |
+| `nomei` | name | the form used to identify and address a particular referent |
 | `nomela` | encourage | words or gestures that give confidence or hope |
-| `nophi` | story | fundamentally acts of structured transmission from one consciousness to another |
+| `nophi` | story | a narrative formed for telling, reading, or sharing |
 | `nosheku` | retract | withdrawal of an earlier claim or proposal from one's present contribution |
 | `nowiso` | interface | an informational interface can mediate exchange without guaranteeing understanding |
 | `numike` | negotiate | discussing terms with one or more counterparts |
@@ -695,7 +696,7 @@
 | `phamori` | symptom | the person's own account of bodily or mental experience |
 | `phari` | pen | an implement used to put writing or drawing into a visible record |
 | `phelotu` | format | a communication form selected for sending and receiving meaning |
-| `phelui` | word | the basic unit of speech |
+| `phelui` | word | a basic lexical or grammatical unit used in expression |
 | `phena` | kind | consideration made audible in a reply or choice of words |
 | `phenui` | thoughtful | consideration made visible in speech or response |
 | `phiketu` | contradict | a precise conflict that clarification may confirm or dissolve |
@@ -705,10 +706,12 @@
 | `phiwheki` | counterexample | a concrete way to challenge overgeneralisation |
 | `phowe` | share | sharing information or expression with other people |
 | `phulae` | mouth | the body opening through which spoken language is articulated |
+| `relo` | symbol | a conventional carrier through which further meaning can be conveyed |
 | `remotha` | reason | a ground offered so others can examine a claim or choice |
 | `remuma` | conclusion | the result of an argument that participants may assess separately |
 | `reo` | meaning | the relation through which an expression or symbol carries a sense |
 | `repora` | propose | a proposal remains open to response, amendment, and refusal |
+| `roela` | scroll | a rolled carrier that can hold writing or images |
 | `samethu` | equivalent | comparison between different expressions or formats |
 | `selomi` | weave | the established extension from interlaced thread to a story woven from events |
 | `seniku` | smile | a visible facial expression interpreted within an interaction |
@@ -722,7 +725,7 @@
 | `shaweri` | advocate | speaking publicly for a position without implied representation authority |
 | `shelo` | signify | indication carried by a sign, gesture, symbol, or signal |
 | `shelomu` | understand | comprehension of another person's words or account |
-| `shelu` | book | asynchronous communication between writer and reader across time |
+| `shelu` | book | writing gathered for readers as one work |
 | `sheluo` | listen | attentive reception of another person's speech |
 | `shemui` | utter | a particular stretch of words produced aloud |
 | `sheori` | communicate | meaning made available through a usable medium |
@@ -772,11 +775,11 @@
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
-## community (268)
+## community (267)
 
 | Word | Gloss | In this domain |
 |---|---|---|
-| `haluma` | language | What a people holds in common |
+| `haluma` | language | a communicative practice learned, changed, and shared among people |
 | `haromi` | meet | people coming into one another's presence by plan or chance |
 | `hasenu` | recess | shared time for rest or repair before resumption |
 | `helaki` | amend | institutional revision with preserved history |
@@ -808,7 +811,6 @@
 | `kowela` | council | gathers collective voices for communal decisions |
 | `kuewa` | strange | an unfamiliar person, practice, or custom encountered without an implied verdict |
 | `kulo` | guide | an accompanying relation between a knowledgeable guide and another traveller |
-| `kuma` | drum | Collective voice |
 | `laenu` | commons | Collective resource |
 | `lei` | harmony | participants maintaining a workable accord without becoming uniform |
 | `lesawi` | consent | a permission relation among affected participants |
@@ -823,7 +825,7 @@
 | `lomea` | sibling | a close family relation between people of the same generation |
 | `lona` | meeting | people gathered for a shared purpose or occasion |
 | `lonae` | respond | recognition of another person's preceding act of communication |
-| `lophae` | storyteller | Narrative role |
+| `lophae` | storyteller | the communal carrying and retelling of stories |
 | `lopia` | child | a young person in family and social relations |
 | `lorea` | connect | a social link formed between people or groups |
 | `lothea` | love | deep affection and active care within a relationship or shared life |
@@ -837,7 +839,7 @@
 | `makelu` | abstain | an abstention distinct from absence, refusal, and exclusion |
 | `manawi` | compromise | a settlement reached through concessions among participants |
 | `meliho` | sing | singing shared in work, ceremony, teaching, or recreation |
-| `meliphe` | music | What the gathering makes |
+| `meliphe` | music | music practised or heard as part of collective life |
 | `melu` | friend | a chosen interpersonal relation recognised as friendship |
 | `menua` | counselor | Guidance role |
 | `menui` | dwell | residence among other people or beings in a place |
@@ -870,7 +872,7 @@
 | `noa` | position | a place within an ordering, queue, role arrangement, or priority scheme |
 | `noeli` | warm (emotional) | a receptive manner that puts another person at ease |
 | `nolami` | bond | a mutual connection formed and sustained between beings |
-| `nomei` | name | the marker of individual identity within collective |
+| `nomei` | name | a designation held by a person, place, work, or group in shared use |
 | `nomela` | encourage | encouragement offered within a shared effort or relationship |
 | `nophei` | loyal | steadfast continuation of a relationship, commitment, or allegiance |
 | `norathu` | procedure | a governance procedure with participants and decision conditions |
@@ -969,7 +971,7 @@
 | `soranu` | screen | a health practice applied to stated participants or populations |
 | `sorui` | circle | people or other participants arranged in a circle |
 | `sowelu` | disabled | disabled identity and participation in relation to barriers |
-| `sulai` | musician | Creative role |
+| `sulai` | musician | a musical role that may be practised within a household or gathering |
 | `telo` | farmer | Growing role |
 | `temoe` | tend | practical tending of another person |
 | `temu` | guild | an association formed around shared skilled practice |
@@ -1023,7 +1025,7 @@
 | `wenola` | collaborate | participants shaping shared work together |
 | `wepanu` | redundant | a resilience practice for shared infrastructure and services |
 | `wephari` | coordinate | coordination among participants without implied hierarchy |
-| `weru` | poet | Creative role |
+| `weru` | poet | a recognised practice that brings poems into shared memory and speech |
 | `wesha` | lazy | a bounded judgement about effort where an accepted contribution is at issue |
 | `weshaku` | outbreak | a health pattern within a selected population and place |
 | `wesoma` | mutual | reciprocity among people in a shared relationship |
@@ -1045,7 +1047,7 @@
 | `womuri` | household | a person or group sharing domestic arrangements |
 | `woru` | keeper | Guardian role |
 
-## creation (169)
+## creation (168)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1073,12 +1075,12 @@
 | `kirato` | lock | a fitted mechanism for holding a closure |
 | `kire` | shape | giving an object or image its outline and surface form |
 | `kirero` | quality | the assessed character of a made or repaired result |
-| `kiroa` | sign | Communication object |
+| `kiroa` | sign | a communicative object or mark deliberately made or placed |
 | `kiru` | chisel | Carving tool |
 | `kisholu` | specification | an explicit set of requirements for design, work, or technical provision |
 | `koluri` | reliable | a technical judgement about a designed or maintained function |
 | `kori` | leather | preserved animal skin worked into durable flexible objects |
-| `kuma` | drum | Rhythm maker |
+| `kuma` | drum | a made resonant instrument used to produce music |
 | `kuremi` | grind | reducing grain, pigment, or another ingredient for later use |
 | `lina` | string (instrument) | a fitted component made and tuned for an instrument |
 | `linua` | fiber | a slender material unit used in thread, fabric, paper, and composite materials |
@@ -1096,7 +1098,8 @@
 | `manuwe` | hand | the body part through which much manual craft is performed |
 | `masuro` | calibrate | maintenance of measuring and signaling tools |
 | `meliho` | sing | music or song produced through the voice |
-| `melira` | song | A made thing of voice and time |
+| `meliphe` | music | audible form made through voice, instruments, or both |
+| `melira` | song | a made piece of verse or vocal music |
 | `mera` | net | a made mesh whose joined strands leave regular openings |
 | `moenu` | culture | stories and other expressions through which a culture is made visible |
 | `moesu` | wax | a heat-softened material used in candles, seals, coatings, and modelling |
@@ -1141,7 +1144,7 @@
 | `phitura` | well (water) | a made opening and structure for reaching groundwater |
 | `pholui` | bamboo | a plant used for food, fibre, paper, tools, and building material |
 | `phora` | sail | a made flexible surface shaped and rigged to receive wind |
-| `phui` | flute | Wind instrument |
+| `phui` | flute | a made wind instrument played through controlled airflow |
 | `phuri` | brush | a bristled tool used to apply or arrange material |
 | `phurilo` | broom | a long-handled brush made for floors or ground |
 | `pilewa` | make | making an object, preparation, or shared condition |
@@ -1150,11 +1153,9 @@
 | `polenu` | plastic | a polymer material formed into manufactured objects and fibres |
 | `poru` | productive | a workshop, garden, or system that yields an actual result |
 | `poruli` | efficient | an efficiency judgement applied to a designed process or system |
-| `relo` | symbol | Meaning carrier |
 | `repha` | bridge | a built span that supports passage |
 | `reteru` | model | a deliberately constructed representation with selected features and relations |
 | `rinoka` | project | an undertaking directed toward a stated result |
-| `roela` | scroll | Document form |
 | `roena` | copper | a workable metal used for vessels, tools, ornament, and conductors |
 | `rolu` | wheel | a rotating component used in craft, transport, or machinery |
 | `ruka` | complex | a designed object or system with interacting parts |
@@ -1163,7 +1164,7 @@
 | `selomi` | weave | making fabric or another structure from strands |
 | `senalu` | style | recurring formal choices by which made works resemble one another |
 | `sephori` | supply | supporting making and repair through resource flow |
-| `shela` | art | Aesthetic making |
+| `shela` | art | made work encountered through the choices that gave it expressive form |
 | `shemoli` | harmonize | new work fitted into the visual or practical character of an existing whole |
 | `shioli` | silver | a readily worked metal used in objects, conductors, and coatings |
 | `shiro` | tree | a living source of wood, fibre, food, shade, and other materials |
@@ -1219,7 +1220,7 @@
 | `wiru` | basket | a container formed through weaving or interlacing |
 | `wolea` | wood | plant material worked into structures and objects or remade as fuel and paper |
 
-## emotion (86)
+## emotion (85)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1241,7 +1242,6 @@
 | `loshi` | joyful | the character of something that awakens or expresses joy |
 | `lothea` | love | love felt towards a person, place, living thing, or way of life |
 | `luroi` | nervous | apprehension about an uncertain or exposed moment |
-| `melira` | song | Feeling given melodic shape |
 | `meloa` | persevere | resolve maintained when discouragement could interrupt action |
 | `melu` | friend | friendship commonly carries affection or personal trust |
 | `meraho` | relieved | felt easing after pain, pressure, or worry lessens |
@@ -1592,10 +1592,11 @@
 | `wosanu` | absorb | soil or a living body taking in water or another material |
 | `wotami` | shrub | a usually low woody plant with several stems near the ground |
 
-## physical (490)
+## physical (492)
 
 | Word | Gloss | In this domain |
 |---|---|---|
+| `haoni` | voice | sound produced by airflow and the vocal tract |
 | `haowu` | air | the gaseous matter taken into the body through breathing |
 | `hasumi` | tea | a prepared drink made by steeping plant material |
 | `hea` | hear | auditory reception through the body |
@@ -1909,6 +1910,7 @@
 | `reshi` | fast | a high rate of bodily or material movement |
 | `rewa` | oar | a long water-moving tool with a flattened blade |
 | `rihe` | rise | a body or material becoming higher |
+| `roela` | scroll | a sheet or strip stored by winding it around itself or a support |
 | `roena` | copper | a conductive metallic element with characteristic colour and patina |
 | `rohemi` | wear down | gradual alteration of a surface or working condition through repeated exposure |
 | `rohi` | rub | friction produced by pressured movement across a surface |
@@ -1935,7 +1937,7 @@
 | `sewaro` | transmit | passage between hosts, reservoirs, or environments |
 | `shalu` | fish | an animal body typically shaped for movement through water |
 | `shapelu` | throat | the internal region behind the mouth used in breathing and swallowing |
-| `shelu` | book | tangible objects that can be held, carried, and preserved |
+| `shelu` | book | a bound or otherwise embodied volume that can be held and kept |
 | `shena` | calm | low turbulence in water or breath |
 | `sheru` | slow | a low rate of bodily or material movement |
 | `shiloa` | pure | material treated as unmixed under the stated conditions |
@@ -2129,7 +2131,7 @@
 | `whoa` | whole | all relevant parts included in the total under discussion |
 | `wi` | two | the exact quantity two and the coefficient two in ternary numerals |
 
-## ritual (25)
+## ritual (24)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2139,7 +2141,6 @@
 | `lopha` | vessel | a receptacle whose stated use may carry ceremonial material |
 | `lumeo` | die | the event named in mourning and death ceremonies |
 | `maewo` | threshold | a crossing point that can organize a ceremony or transition |
-| `melira` | song | Carrier of communal memory and ceremony |
 | `menai` | dedicate | dedication expressed through a repeated or ceremonial practice |
 | `nelu` | revere | the inward regard that may underlie veneration or ceremonial honour |
 | `nuhemi` | grieve | mourning carried through a funeral, memorial, or repeated observance |
@@ -2505,7 +2506,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (55)
+## wisdom (54)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2538,7 +2539,6 @@
 | `porua` | purpose | Meaningful direction |
 | `remole` | concept | a revisable mental pattern whose boundaries can be examined |
 | `remotha` | reason | deliberative support whose relevance and limits can be considered |
-| `roela` | scroll | Preserved teaching |
 | `rolia` | worth | Inherent dignity |
 | `romishe` | contemplate | patient examination of a subject before judgement is settled |
 | `ruela` | path | an established course of practice understood as something followed |

@@ -8,16 +8,20 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Musician / Music Maker / Sound Artist",
-  "description": "One who creates music; a person skilled in producing melody and rhythm. 'Sulai' names who brings music—hands or voice making what moves the heart.",
-  "sound_symbolism": "The word sounds with beauty. 'Su' sustains with flowing tone, music beginning. 'La' lifts with melodic rise, song soaring. Then 'i' rises to bright beauty.",
-  "grammatical_notes": "Functions as noun: 'sulai' (musician), 'lo sulai' (musicians). A counted musician may take optional human classifier 'himo'. Creates 'melira' (song). Related to 'weru' (poet) as sound-maker to word-maker.",
-  "pillars": {
-    "art-nouveau-aesthetics": "Musician as artist—beauty created through organized sound.",
-    "pre-industrial-wisdom": "Musician as bard—keeper of songs that carry culture and memory."
-  },
+  "search_terms": [
+    "music maker",
+    "music performer"
+  ],
+  "description": "Someone whose practice is making or performing music is a 'sulai' (musician). The word fits someone playing at home as readily as a person recognised for long practice. 'meliho' (sing) names singing, while an instrument is played with 'wile' (play).",
+  "articulatory_notes": "Narrow the tongue towards the alveolar ridge for unvoiced 's' and move into high-back rounded 'u'. Touch the tongue tip to the ridge for 'l', then open into stressed central 'a'. Keep a clear syllable boundary before raising the tongue into final high-front 'i'.",
+  "examples": [
+    {
+      "phi": "sulai kuma wile.",
+      "translation": "The musician plays the drum."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Sound creation",
-    "community": "Creative role"
+    "aesthetic": "a person engaged in the making or performance of music",
+    "community": "a musical role that may be practised within a household or gathering"
   }
 }

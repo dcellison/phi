@@ -52,6 +52,7 @@
     {"id": "dwelling-vessels-food-clothing-and-light", "heading": "Dwelling, vessels, food, clothing, and light", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-DWELL-01", "CV-DWELL-02", "CV-DWELL-03", "CV-DWELL-04", "CV-DWELL-05", "CV-FOOD-01", "CV-FOOD-02"]},
     {"id": "tools-travel-and-practical-objects", "heading": "Tools, travel, and practical objects", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-TOOL-01", "CV-TOOL-02", "CV-MESH-01", "CV-SIGNAL-01", "CV-TRAVEL-01", "CV-TRAVEL-02", "CV-TRAVEL-03", "CV-TRAVEL-04"]},
     {"id": "space-orientation-boundaries-and-physical-form", "heading": "Space, orientation, boundaries, and physical form", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-02", "CV-MEAS-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-AIM-01", "CV-SPACE-01", "CV-SPACE-02", "CV-GEOM-01", "CV-SPACE-03"]},
+    {"id": "language-story-art-and-representation", "heading": "Language, story, art, and representation", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-AEST-03", "CV-WRITE-01", "CV-LANG-01", "CV-LANG-02", "CV-ART-01", "CV-ART-02", "CV-MUSIC-01", "CV-MUSIC-02", "CV-ART-03"]},
     {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-02", "CV-MAT-05", "CV-MAT-06", "CV-MEAS-02", "CV-MEAS-03", "CV-MEAS-04", "CV-MEAS-05", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]}
   ],
   "candidates": [
@@ -197,7 +198,7 @@
       "placement": "base",
       "summary": "The noun names a recognisable manner shared across works while keeping pattern, design, shape, and aesthetic judgement distinct.",
       "implementation": {"words": ["senalu"], "files": ["vocabulary/content/style.json"]},
-      "batches": ["aesthetic-and-formal-qualities", "recovered-cross-inventory-prompts"]
+      "batches": ["aesthetic-and-formal-qualities", "language-story-art-and-representation", "recovered-cross-inventory-prompts"]
     },
     {
       "id": "CV-SHAPE-01",
@@ -548,7 +549,7 @@
       "placement": "base roots and registered compounds",
       "summary": "Page and message receive direct nouns. Writing dye supplies ink, writing sign supplies a written character, and writing message supplies a letter without reproducing the English homonym.",
       "implementation": {"words": ["penuwa", "milaro"], "files": ["vocabulary/content/page.json", "vocabulary/content/message.json"], "compounds": ["thekiro tinoa", "thekiro kiroa", "thekiro milaro"]},
-      "batches": ["measurement-comparison-meaning-and-record", "recovered-cross-inventory-prompts"]
+      "batches": ["measurement-comparison-meaning-and-record", "language-story-art-and-representation", "recovered-cross-inventory-prompts"]
     },
     {
       "id": "CV-APPLAUSE-01",
@@ -1044,6 +1045,69 @@
       "summary": "Phi can discuss an exact spatial record through its ordinary spatial vocabulary. The record keeps the notation and reference system that lets another person locate or verify it.",
       "source_rule": "Coordinates, addresses, grid references, parcel and site identifiers, survey marks, datum names, scales, and exact dimensions retain their original source form. Phi may describe their place, use, source, and uncertainty without recoding them.",
       "batches": ["space-orientation-boundaries-and-physical-form"]
+    },
+    {
+      "id": "CV-LANG-01",
+      "concept": "language varieties, dialects, registers, accents, grammar, scripts, and bounded sentences",
+      "status": "compositional",
+      "placement": "base expressions and event nouns",
+      "summary": "A language form, style, or voice colour says which kind of variation matters. Language pattern supplies grammar, writing pattern supplies script, and the event noun of `shemui` supplies a bounded utterance or sentence.",
+      "expressions": ["haluma kire", "haluma senalu", "haluma haoni welisha", "haluma sena", "thekiro sena", "shemui"],
+      "batches": ["language-story-art-and-representation"]
+    },
+    {
+      "id": "CV-LANG-02",
+      "concept": "exact named languages, scripts, orthographies, linguistic classifications, and source wording",
+      "status": "source-bound",
+      "placement": "source identity beside a Phi account or an accepted Phi-form onym",
+      "summary": "Phi can discuss how people use and transmit a language, including interpretation across languages or modes, without recoding the identity that another community supplies. An accepted Phi-form onym may name a language or script, but it does not replace the source name.",
+      "source_rule": "Preserve exact language and script names, orthographies, linguistic classifications, and quoted source wording in their original source form. A bearer or relevant naming community may accept a Phi-form onym under the ordinary name charter.",
+      "batches": ["language-story-art-and-representation"]
+    },
+    {
+      "id": "CV-ART-01",
+      "concept": "poems, paintings, drawings, sculptures, novels, genres, and performances",
+      "status": "compositional",
+      "placement": "base roots and event nouns",
+      "summary": "Phi names a work through the act or form that made it. `melira` covers poem and song, `kire` supplies drawing or shaping as an event noun, and `nophi shelu` identifies a story book. Singing, dancing, and playing retain the specific performance instead of entering one general genre hierarchy.",
+      "expressions": ["melira", "kire", "nophi shelu", "meliho", "rotiku", "wile"],
+      "batches": ["language-story-art-and-representation"]
+    },
+    {
+      "id": "CV-ART-02",
+      "concept": "artist, writer, reader, singer, dancer, composer, and performer roles",
+      "status": "compositional",
+      "placement": "base relative clauses beside existing role nouns",
+      "summary": "Direct nouns already name musician, poet, and storyteller. Other roles use a relative clause whose verb states the person's actual work. This also lets a role belong to one occasion without turning it into a permanent class.",
+      "expressions": ["rena shela kealo miona", "rena thekiro miona", "rena theo miona", "rena meliho miona", "rena rotiku miona", "rena meliphe kealo miona"],
+      "batches": ["language-story-art-and-representation"]
+    },
+    {
+      "id": "CV-MUSIC-01",
+      "concept": "a general musical instrument beyond drum, flute, bell, and instrument string",
+      "status": "compositional",
+      "placement": "base expression",
+      "summary": "`meliphe tenoa` identifies an object by its musical work. Base nouns still name the drum, flute, bell, and tensioned string when those familiar forms matter.",
+      "expressions": ["meliphe tenoa"],
+      "batches": ["language-story-art-and-representation"]
+    },
+    {
+      "id": "CV-MUSIC-02",
+      "concept": "additional instrument families, musical notation, melody, harmony theory, metre, tuning, and technical performance vocabulary",
+      "status": "deferred",
+      "placement": "base, a future music vocabulary set, or exact source material according to connected use",
+      "summary": "The current lexicon distinguishes sound from music, a song from singing, and rhythm from harmony. It also has a general play verb, direct nouns for drum and flute, and words for a bell and a tensioned string when those forms matter. Music teaching or sustained practice may still need narrower relations chosen together rather than a shelf of borrowed labels.",
+      "revisit_when": "connected musical composition, teaching, instrument care, or performance repeatedly needs stable distinctions that the present sound, timing, relation, and source vocabulary cannot carry naturally",
+      "batches": ["language-story-art-and-representation"]
+    },
+    {
+      "id": "CV-ART-03",
+      "concept": "exact work titles, quotations, lyrics, scores, named styles, genre labels, and source identifiers",
+      "status": "source-bound",
+      "placement": "source material beside a Phi account or an accepted Phi-form onym",
+      "summary": "Phi can name the kind of work, its maker, medium, form, and reception. Exact identity stays with the title, wording, notation, or catalogue record that establishes which work is meant.",
+      "source_rule": "Preserve exact titles, quotations, lyrics, scores, named styles, genre labels, catalogue identifiers, and edition details in their source form. A work may also bear an accepted Phi-form onym under `ne`, without changing the preserved source material.",
+      "batches": ["language-story-art-and-representation"]
     }
   ],
   "prompt_sources": [
