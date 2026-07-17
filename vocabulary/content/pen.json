@@ -7,16 +7,25 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Pen / Writing Implement / Mark-Making Tool",
-  "description": "An instrument for writing or drawing with ink; the tool that makes thought visible. 'Phari' names what traces meaning—ink flowing into word.",
-  "sound_symbolism": "The word breathes expression. 'Pha' /ɸa/ opens with creative breath, intention forming. Then 'ri' traces the line, marks appearing.",
-  "grammatical_notes": "Functions as noun: 'phari' (the pen). Works with 'pelua' (paper) for writing. Related to 'phuri' (brush) but for finer, more precise marks.",
+  "search_terms": [
+    "ink pen",
+    "writing pen"
+  ],
+  "description": "A 'phari' deposits ink in controlled lines for writing or drawing. Reed pens, quills, fountain pens, and other ink-fed forms fit the word. 'phuri' (brush) works through a spread of bristles, while 'phari' presents a narrower writing point or edge.",
+  "articulatory_notes": "Let breath pass between nearly closed lips for stressed bilabial fricative 'ph', then open directly into 'a'. Tap the tongue tip once at the alveolar ridge for 'r' and finish with high-front 'i'.",
+  "sound_symbolism": "The breathy opening settles into a quick tongue tap. 'phari' can feel like a line begun and then turned by the hand.",
+  "usage_notes": "An animal enclosure uses the words for its boundary, wall, gate, and occupants. English happens to call that a pen too, but 'phari' keeps only the writing implement.",
+  "examples": [
+    {
+      "phi": "mia roe phari pelua thekiro.",
+      "translation": "I write on the paper with a pen."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Writing as practice—the pen slows thought, making intention visible and considered.",
-    "pre-industrial-wisdom": "The pen preserves—knowledge, story, wisdom recorded for future minds."
+    "pre-industrial-wisdom": "A refillable or newly cut pen makes writing depend on a maintained point, prepared ink, and the pressure of a practiced hand."
   },
   "semantic_domains": {
-    "creation": "Writing tool",
-    "wisdom": "Recording thought"
+    "communication": "an implement used to put writing or drawing into a visible record",
+    "creation": "a tool that feeds ink into controlled marks"
   }
 }

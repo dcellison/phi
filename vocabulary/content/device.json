@@ -7,16 +7,21 @@
     "li"
   ],
   "pos": "noun",
-  "concept": "Device / Mechanism / Apparatus",
-  "description": "A thing made for a particular purpose; a mechanism or apparatus. 'Keli' names the crafted complexity—parts working together toward function.",
-  "sound_symbolism": "The word clicks into place. 'Ke' marks with precision, mechanism defined. Then 'li' flows in function, parts moving smoothly.",
-  "grammatical_notes": "Functions as noun: 'keli' (the device). More complex than 'tenoa' (tool)—a device has multiple parts working together.",
-  "pillars": {
-    "solarpunk-values": "Invention serving life—devices designed for repair, longevity, and genuine need.",
-    "pre-industrial-wisdom": "Mechanism as craft—clockwork, looms, mills, each device understood by its maker."
-  },
+  "search_terms": [
+    "apparatus",
+    "mechanism"
+  ],
+  "description": "In a 'keli', the parts of a made object or assembly are arranged to perform a particular function. 'tenoa' (tool) emphasizes what a user employs to do a task, while 'keli' draws attention to the object's own working arrangement. One object can be both when both views matter.",
+  "articulatory_notes": "Raise the back of the tongue to the soft palate for 'k' and release into stressed mid-front 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l' and let the air pass along the sides before high-front 'i'.",
+  "usage_notes": "A device may be simple or complex. When a technical analysis matters, Systems vocabulary can name its components, inputs, outputs, interface, state, and failure conditions.",
+  "examples": [
+    {
+      "phi": "mia ha keli thiranu.",
+      "translation": "I maintain this device."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Mechanism",
-    "wisdom": "Crafted complexity"
+    "creation": "a made arrangement of parts with a particular function",
+    "physical": "a functional object or assembly"
   }
 }

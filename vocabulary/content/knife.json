@@ -8,16 +8,25 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Knife / The Cut-Tool",
-  "description": "The knife: 'kati' (cut) grown into an instrument, standing beside 'kiru' (chisel) in a small k-family of edge tools. It covers the kitchen and the workbench: slicing food, shaping wood, cutting cord. It stops there. Phi's refusal of weapon vocabulary is recorded in canon, and this word does not cross that line.",
-  "sound_symbolism": "The whole verb 'kati' sits inside the noun, finished by 'ru' as in 'kiru': a learner who knows the verb and the chisel can read the knife at sight.",
-  "grammatical_notes": "Noun: 'miona roe katiru kati.' (The person cuts with the knife.) 'katiru tenoa nai.' (A knife is a tool.)",
+  "search_terms": [
+    "cutting knife",
+    "kitchen knife"
+  ],
+  "description": "'katiru' is a handled cutting implement used in kitchens and workshops for such work as slicing food, trimming cord, or shaping material. 'kiru' (chisel) presents an edge to material for carving or fitting; 'katiru' carries its cutting edge in the hand. Phi keeps this noun within ordinary household and craft use rather than extending it into weapon vocabulary.",
+  "articulatory_notes": "Begin with velar 'k' released into open 'a'. Touch the tongue tip to the upper teeth for dental 't' and move into stressed high-front 'i', then tap the tongue at the alveolar ridge for 'r' before rounded high-back 'u'.",
+  "sound_symbolism": "The opening two syllables repeat 'kati' (cut), an audible family resemblance between the implement and its ordinary action.",
+  "examples": [
+    {
+      "phi": "mia roe katiru napa kati.",
+      "translation": "I cut the bread with a knife."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "The word's scope is the point: it names the tool at the cutting board and the workbench and offers no path to the weapon. The boundary is drawn in the lexicon, not left to context.",
-    "pre-industrial-wisdom": "The most-reached-for tool in any kitchen or workshop, sharpened more often than replaced."
+    "peace-linguistics-practices": "Its lexical scope stays with food and craft. Violent purpose remains outside the word's ordinary account.",
+    "pre-industrial-wisdom": "A kitchen or workshop knife is maintained through sharpening and careful use rather than treated as a disposable edge."
   },
   "semantic_domains": {
-    "creation": "The edge that shapes",
-    "physical": "The kitchen and workbench tool"
+    "creation": "a hand-held edge used to cut or shape ordinary material",
+    "physical": "a handled cutting implement for kitchens and workshops"
   }
 }

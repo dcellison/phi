@@ -8,16 +8,22 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Transit / Passage / Crossing Through",
-  "description": "The act of passing through or across; a journey from one place or state to another. 'Phaero' names the crossing—the passage between, the journey through, the movement from here to there.",
-  "sound_symbolism": "The word moves through. 'Pha' /ɸa/ begins with breath in motion, passage starting. The vowel 'e' opens to the between-space. Then 'ro' rolls onward, transit continuing.",
-  "grammatical_notes": "Functions as a noun: 'phaero sheru nai.' (the transit is slow). Can describe physical travel or metaphorical transition between states.",
-  "pillars": {
-    "secular-buddhist-philosophy": "All existence is transit—nothing remains fixed, everything is in passage from one state to another.",
-    "pre-industrial-wisdom": "Transit times were vulnerable—the journey between safe places required vigilance and preparation."
-  },
+  "search_terms": [
+    "passage",
+    "crossing journey",
+    "transport journey"
+  ],
+  "description": "Passage through or across a place, boundary, or intermediate span is 'phaero'. The word gathers movement between entry and emergence without specifying a vehicle, route, or duration. 'laniru' (journey) views travel as an extended event, while an ordinary motion clause can state the particular crossing act.",
+  "articulatory_notes": "Let air pass between nearly closed lips for bilabial fricative 'ph' and open into 'a'. Keep the following stressed mid-front 'e' as a separate hiatus syllable, then tap the tongue tip for 'r' and round into mid-back 'o'.",
+  "sound_symbolism": "Its opening hiatus makes the voice pass from open 'a' into a separate stressed vowel before the final tap, a contour that can suggest movement through an interval.",
+  "examples": [
+    {
+      "phi": "ha phaero teku nai.",
+      "translation": "This transit is short."
+    }
+  ],
   "semantic_domains": {
-    "spatial": "Crossing through",
-    "temporal": "Passage time"
+    "activity": "the event of passing through or across an intervening span",
+    "spatial": "movement through a place, boundary, or intermediate area"
   }
 }

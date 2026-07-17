@@ -7,16 +7,25 @@
     "lu"
   ],
   "pos": "noun",
-  "concept": "Wheel / Spinning Wheel / Potter's Wheel",
-  "description": "A circular object that revolves on an axis; specifically the spinning wheel or potter's wheel. 'Rolu' names what turns in cycles—rotation enabling transformation.",
-  "sound_symbolism": "The word rotates round. 'Ro' rolls in continuous motion, wheel turning. Then 'lu' flows onward, cycle unending.",
-  "grammatical_notes": "Functions as noun: 'rolu' (the wheel). Primarily craft wheels (spinning, pottery) rather than transport. Related to cyclical motion.",
+  "search_terms": [
+    "rotating wheel",
+    "spinning wheel",
+    "potter's wheel"
+  ],
+  "description": "A round component that turns around an axis is 'rolu'. Wheels used in transport, pottery, spinning, lifting, and machinery all fit; 'sorui' (circle) names the shape without requiring rotation or a working part.",
+  "articulatory_notes": "Tap the tongue tip once at the alveolar ridge for 'r' and round into stressed mid-back 'o'. Set the tongue tip back at the ridge for lateral 'l', then raise the back of the tongue and keep the lips rounded for high-back 'u'.",
+  "sound_symbolism": "The tap and lateral keep the airflow changing without a full stop. The result is a compact rolling contour.",
+  "examples": [
+    {
+      "phi": "mia ha rolu somaki.",
+      "translation": "I test this wheel."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Cycles of change—the wheel turns, nothing remains fixed, transformation is constant.",
-    "pre-industrial-wisdom": "The wheel as transformation—spinning fiber to thread, clay to vessel, through patient rotation."
+    "pre-industrial-wisdom": "A visible wheel lets a worker read balance, friction, wear, and alignment directly from motion and touch."
   },
   "semantic_domains": {
-    "creation": "Rotating tool",
-    "temporal": "Cyclical motion"
+    "creation": "a rotating component used in craft, transport, or machinery",
+    "physical": "a round object that turns around an axis"
   }
 }

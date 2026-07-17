@@ -7,16 +7,23 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Net / Mesh / To Catch in Network",
-  "description": "A mesh of cord or thread for catching or containing; to catch with such mesh. 'Mera' names what catches through openness—the paradox of holes that hold.",
-  "sound_symbolism": "The word meshes wide. 'Me' connects in pattern, knots meeting. Then 'ra' reaches outward, net spreading to catch.",
-  "grammatical_notes": "Noun: 'lo mera' (nets) - for fishing, catching, containing through mesh. It works through 'roe': 'mia roe mera shalu howela.' (I take fish with the net.) Related: niro (web), phaliso (network).",
+  "search_terms": [
+    "mesh",
+    "netting"
+  ],
+  "description": "Cord, thread, wire, or similar strands form the flexible open mesh called 'mera'. Its joined openings can hold or carry things, support them, or separate material by size while air and water pass. 'niro' (web) emphasizes an interconnected structure, and 'phaliso' (network) the relations among connected points.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm' and open into stressed mid-front 'e'. Tap the tongue tip at the alveolar ridge for 'r', then lower the jaw into open 'a'.",
+  "examples": [
+    {
+      "phi": "mera lo lureko phelu.",
+      "translation": "The net holds the fruit."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Interconnection as net—Indra's net where each node reflects all others, everything connected.",
-    "pre-industrial-wisdom": "Nets sustained communities—fishing, gathering, the ancient technology of cooperative catching."
+    "pre-industrial-wisdom": "Hand-tied mesh can carry produce, support climbing plants, dry food, or sort material while remaining easy to inspect and mend."
   },
   "semantic_domains": {
-    "community": "Catching together",
-    "creation": "Mesh structure"
+    "creation": "a made mesh whose joined strands leave regular openings",
+    "physical": "a flexible open structure used to hold, carry, support, separate, or filter"
   }
 }

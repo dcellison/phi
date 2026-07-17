@@ -8,16 +8,24 @@
     "nu"
   ],
   "pos": "noun",
-  "concept": "Boat / What Rides the Water",
-  "description": "The boat: the built thing that floats and carries. 'lupho' (float) plus 'nu', beside 'luphore' (river), which grew from the same verb — the float family holds the moving water and what rides it. Takes 'rewa' (oar) as its natural companion.",
-  "sound_symbolism": "The whole verb 'lupho' is the hull, and 'nu' closes it small and buoyant. Say it and the stresses bob.",
-  "grammatical_notes": "Noun: 'luphonu mua moriwhe lupho.' (The boat floats on the sea.) 'luphonu mia kolua.' (The boat carries me.)",
+  "search_terms": [
+    "watercraft",
+    "small vessel"
+  ],
+  "description": "A 'luphonu' is built to float and carry people or things across water. Oar, paddle, sail, current, or another stated means may move it; 'lopha' (vessel) is the broader container word and need not float.",
+  "articulatory_notes": "Start with alveolar lateral 'l' and high-back rounded 'u'. Bring the lips close for bilabial fricative 'ph' and open them into stressed mid-back rounded 'o', then place the tongue tip at the upper teeth for 'n' and finish on rounded 'u'.",
+  "sound_symbolism": "'luphonu' begins with the full sound of 'lupho' (float), so its relation to water is audible in a neighboring Phi word.",
+  "examples": [
+    {
+      "phi": "luphonu mua moriwhe lupho.",
+      "translation": "The boat floats on the sea."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Wind and current still move freight for free. The sail's return is one of the futures the past already built.",
-    "pre-industrial-wisdom": "Rivers were the roads that carried what roads could not. Most old towns stand where a boat could be loaded."
+    "pre-industrial-wisdom": "A boat can turn a river or coast into a route while relying on practiced hands, wind, and the water itself."
   },
   "semantic_domains": {
-    "physical": "The built hull",
-    "spatial": "The water's vehicle"
+    "physical": "a floating built vessel that carries people or things",
+    "spatial": "a means of travel across water"
   }
 }

@@ -7,16 +7,24 @@
     "lu"
   ],
   "pos": "noun",
-  "concept": "Staff / Walking Stick / Support Rod",
-  "description": "A long stick used as support for walking or as symbol of authority; to support or guide. 'Tolu' names what extends standing—the third leg that steadies journey.",
-  "sound_symbolism": "The word stands tall. 'To' plants firm with grounded stability, staff touching earth. Then 'lu' flows upward in support, walker steadied.",
-  "grammatical_notes": "Noun: 'tolu' (the staff) - walking, ceremony, the upright support. One leans and walks by 'roe tolu' (with the staff).",
+  "search_terms": [
+    "walking staff",
+    "walking stick",
+    "support pole"
+  ],
+  "description": "Held in the hand, a long pole is 'tolu' when it supports balance, tests the ground, or steadies walking. A ceremonial staff can take the same noun when its pole form matters, but a group's workers or members are named through their roles rather than this English homonym.",
+  "articulatory_notes": "Touch the tongue tip to the upper teeth for dental 't' and release into stressed mid-back rounded 'o'. Place the tongue tip at the alveolar ridge for lateral 'l', then raise the back of the tongue and keep the lips rounded for 'u'.",
+  "examples": [
+    {
+      "phi": "mia roe tolu thalo.",
+      "translation": "I walk with a staff."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Support without dependence—the staff aids but doesn't carry, assistance that preserves autonomy.",
-    "pre-industrial-wisdom": "The staff accompanied—pilgrim, shepherd, elder, the walking companion through life's journey."
+    "pre-industrial-wisdom": "A walking staff supports the body, tests uncertain ground, and can be repaired or replaced from familiar local material."
   },
   "semantic_domains": {
-    "creation": "Support tool",
-    "wisdom": "Journey companion"
+    "activity": "a support used while walking or testing the ground",
+    "physical": "a long pole held for balance or support"
   }
 }

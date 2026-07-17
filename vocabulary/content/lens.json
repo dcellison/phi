@@ -7,16 +7,20 @@
     "ka"
   ],
   "pos": "noun",
-  "concept": "Lens / Focusing Glass / Clarity Device",
-  "description": "A piece of glass or other transparent substance that bends light; what brings into focus. 'Phoka' names what clarifies—the shaped glass that reveals detail.",
-  "sound_symbolism": "The word focuses clear. 'Pho' /ɸo/ breathes with concentrated intent, light bending. Then 'ka' marks with sharp clarity, focus achieved.",
-  "grammatical_notes": "Functions as noun: 'lo phoka' (lenses). For eyeglasses, magnifying glass, camera—any focusing optic.",
-  "pillars": {
-    "solarpunk-values": "Clarity for understanding—lenses extend vision, enabling study of small and distant.",
-    "secular-buddhist-philosophy": "Focus as practice—the lens teaches concentration, bringing clarity to what was blurred."
-  },
+  "search_terms": [
+    "optical lens",
+    "magnifying glass"
+  ],
+  "description": "Shaped transparent material becomes a 'phoka' when it bends light to focus, enlarge, correct, or form an image. A single lens in spectacles, a magnifier, a camera, or another optical device fits the word; the surrounding object and intended use remain separate facts.",
+  "articulatory_notes": "Narrow the lips for stressed bilabial fricative 'ph' and round them into mid-back 'o'. Close the back of the tongue against the soft palate for 'k', then release into open 'a'.",
+  "examples": [
+    {
+      "phi": "mia roe phoka nophali nila.",
+      "translation": "I see the pollen through a lens."
+    }
+  ],
   "semantic_domains": {
-    "cognition": "Focusing clarity",
-    "creation": "Optical device"
+    "cognition": "an optical aid that changes what visual perception can resolve",
+    "physical": "a shaped transparent object that bends light"
   }
 }

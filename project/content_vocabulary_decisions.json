@@ -50,6 +50,7 @@
     {"id": "plants-animals-and-living-world", "heading": "Plants, animals, and the living world", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-LIFE-01", "CV-PLANT-01", "CV-PLANT-02", "CV-PLANT-03", "CV-ANIMAL-02", "CV-ANIMAL-03", "CV-REPRO-01", "CV-CULT-01"]},
     {"id": "materials-substances-fibres-and-fire", "heading": "Materials, substances, fibres, and fire", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-03", "CV-MAT-04", "CV-MAT-05", "CV-MAT-06", "CV-MAT-07", "CV-MAT-08", "CV-MAT-09", "CV-MAT-10", "CV-MAT-11"]},
     {"id": "dwelling-vessels-food-clothing-and-light", "heading": "Dwelling, vessels, food, clothing, and light", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-DWELL-01", "CV-DWELL-02", "CV-DWELL-03", "CV-DWELL-04", "CV-DWELL-05", "CV-FOOD-01", "CV-FOOD-02"]},
+    {"id": "tools-travel-and-practical-objects", "heading": "Tools, travel, and practical objects", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-TOOL-01", "CV-TOOL-02", "CV-MESH-01", "CV-SIGNAL-01", "CV-TRAVEL-01", "CV-TRAVEL-02", "CV-TRAVEL-03", "CV-TRAVEL-04"]},
     {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-02", "CV-MAT-05", "CV-MAT-06", "CV-MEAS-02", "CV-MEAS-03", "CV-MEAS-04", "CV-MEAS-05", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]}
   ],
   "candidates": [
@@ -934,6 +935,78 @@
       "summary": "Phi can describe how an item is made and used, what it is made from, and how it relates to the scene. A familiar category may still receive a Phi root later; exact identity remains with the source that establishes it.",
       "source_rule": "An original name, cultural designation, or model stays in its source form when identity depends on it. Recipes, labels, and safety instructions remain with that source while Phi describes the item's ordinary relations and effects.",
       "batches": ["dwelling-vessels-food-clothing-and-light"]
+    },
+    {
+      "id": "CV-TOOL-01",
+      "concept": "additional hand tools, fasteners, powered tools, protective equipment, and calibration equipment",
+      "status": "deferred",
+      "placement": "Household, Work, Systems, Accessibility, base, or exact source material according to connected use",
+      "summary": "The base inventory supplies a general tool and device beside several familiar hand implements. This deferred field includes further cutting and digging tools, fasteners, powered equipment, and protective or calibration gear. Those groups answer different practical questions, so one undifferentiated expansion would be larger than it is useful.",
+      "revisit_when": "connected household, craft, access, repair, or technical work repeatedly needs one stable implement or equipment class beyond its function and exact source identity",
+      "batches": ["tools-travel-and-practical-objects"]
+    },
+    {
+      "id": "CV-TOOL-02",
+      "concept": "ordinary tool and device parts such as handle, blade, head, grip, and fastener",
+      "status": "compositional",
+      "placement": "base descriptions and Work or Systems compounds",
+      "summary": "A part can be named by the contact or material change it performs, while its shape, material, and place in the larger object remain open. Exact replacement parts and standardized fasteners retain the identity supplied by their technical source.",
+      "expressions": ["phelu monaki", "kati monaki", "palo monaki", "lorea monaki"],
+      "batches": ["tools-travel-and-practical-objects"]
+    },
+    {
+      "id": "CV-MESH-01",
+      "concept": "screens, filters, grids, and exact mesh classes beyond an ordinary net",
+      "status": "deferred",
+      "placement": "Household, Ecological, Systems, Work, or exact source material according to function",
+      "summary": "Base `mera` covers flexible open mesh and its ordinary physical uses. A rigid screen, fluid filter, computational grid, and measured mesh grade have little in common beyond an English family resemblance.",
+      "revisit_when": "connected household, ecological, craft, or technical use repeatedly needs one mesh-based object apart from its material, openings, function, and source specification",
+      "batches": ["tools-travel-and-practical-objects"]
+    },
+    {
+      "id": "CV-SIGNAL-01",
+      "concept": "chimes, alarms, and other audible alert devices",
+      "status": "compositional",
+      "placement": "base words with Systems vocabulary or exact source records where needed",
+      "summary": "`teli` names the resonant bell or chime, while `kirowi` names a detected signal and `pukea` can state danger. A technical alarm account can add the source and sound, then say who should notice it and how they interpret it.",
+      "expressions": ["teli", "teli kirowi", "pukea kirowi"],
+      "batches": ["tools-travel-and-practical-objects"]
+    },
+    {
+      "id": "CV-TRAVEL-01",
+      "concept": "road, trail, walkway, and other traversable ground",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "Base `ruela` now states its ordinary range plainly: worn footpath, trail, made walkway, and prepared road are all traversable lines. Surface, construction, condition, permitted users, and access can be described without a separate road root.",
+      "implementation": {"words": ["ruela"], "files": ["vocabulary/content/path.json"]},
+      "batches": ["tools-travel-and-practical-objects"]
+    },
+    {
+      "id": "CV-TRAVEL-02",
+      "concept": "a general vehicle or transport device",
+      "status": "compositional",
+      "placement": "base expression",
+      "summary": "`phaero keli` identifies an object by its transport function without claiming a particular power source, wheel arrangement, ownership relation, or service. Direct boat and wagon nouns remain available when their form is already known.",
+      "expressions": ["phaero keli"],
+      "batches": ["tools-travel-and-practical-objects"]
+    },
+    {
+      "id": "CV-TRAVEL-03",
+      "concept": "cycles, powered road vehicles, public transport vehicles, aircraft, and other transport classes",
+      "status": "deferred",
+      "placement": "Systems, Accessibility, Built Environment, Ecological, base, or exact source material according to connected use",
+      "summary": "A bicycle and bus do not ask the same thing of a route, body, energy source, or shared service, and an aircraft differs again. Existing vocabulary can describe their movement, construction, carrying role, and source of energy until one class repeatedly needs a direct Phi word.",
+      "revisit_when": "a connected mobility, access, infrastructure, ecological, repair, or literary scenario repeatedly loses one transport distinction in transparent description",
+      "batches": ["tools-travel-and-practical-objects"]
+    },
+    {
+      "id": "CV-TRAVEL-04",
+      "concept": "exact vehicle models, routes, services, navigation identifiers, and equipment specifications",
+      "status": "source-bound",
+      "placement": "exact source identity beside a Phi account",
+      "summary": "Phi can describe the vehicle, route, present condition, access relation, and travel event around an exact identifier. The identifier itself remains in the map, timetable, ticket, or technical record that makes it usable.",
+      "source_rule": "Preserve model and service names, route numbers, and navigation codes in their original source form. Schedules, dimensions, ratings, and safety specifications keep their source notation.",
+      "batches": ["tools-travel-and-practical-objects"]
     }
   ],
   "prompt_sources": [

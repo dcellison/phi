@@ -7,16 +7,26 @@
     "li"
   ],
   "pos": "noun",
-  "concept": "Bell / Ringing Instrument / Calling Sound",
-  "description": "A hollow metal object that rings when struck; instrument of calling and awareness. 'Teli' names what calls to presence—the clear tone that awakens attention.",
-  "sound_symbolism": "The word rings clear. 'Te' taps with sharp contact, striker meeting metal. Then 'li' rings bright and clear, tone spreading.",
-  "grammatical_notes": "Functions as noun: 'teli' (the bell). For mindfulness bells, meal bells, door bells—any ringing caller.",
+  "search_terms": [
+    "chime",
+    "ringing bell"
+  ],
+  "description": "Strike or shake a 'teli' and its hollow body gives a resonant tone. The sound may call a gathering, mark an event, warn people, or invite attention; 'kirowi' (signal) names the information it carries rather than the bell itself.",
+  "articulatory_notes": "Touch the tongue tip to the upper teeth for voiceless dental 't', then release into stressed mid-front 'e'. Move into alveolar lateral 'l' and finish with high-front 'i'.",
+  "sound_symbolism": "The crisp dental release followed by light 'li' gives 'teli' a compact, bright contour that can recall a bell's first clear note.",
+  "examples": [
+    {
+      "phi": "teli shonuwa kealo.",
+      "translation": "The bell creates a sound."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Bell as awakener—the mindfulness bell calls attention to present moment, interrupting distraction.",
-    "pre-industrial-wisdom": "Bells organized community—calling to worship, marking time, warning of danger."
+    "secular-buddhist-philosophy": "A single bell tone can interrupt habit and return attention to the sound occurring now.",
+    "pre-industrial-wisdom": "A bell's carrying tone lets one small object call a dispersed community together without a powered network."
   },
   "semantic_domains": {
-    "creation": "Ringing instrument",
-    "ritual": "Calling presence"
+    "communication": "an audible object used to call, warn, or mark an event",
+    "creation": "a made resonant instrument sounded by contact",
+    "ritual": "a bell used to open, close, or gather attention around an observance"
   }
 }

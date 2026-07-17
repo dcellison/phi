@@ -8,16 +8,26 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Tool / Implement / To Use as Instrument",
-  "description": "An implement used to carry out a particular function; to use something as an instrument. 'Tenoa' names what extends human capability—the shaped object that amplifies intention into action.",
-  "sound_symbolism": "The word touches purpose. 'Te' touches with contact, hand meeting implement. 'No' extends with capability reaching. Then 'a' opens to action, tool completing work.",
-  "grammatical_notes": "Noun: 'tenoa' (the tool) - the implement that extends human reach. Every tool acts through 'roe' (with) and its deed's own verb.",
+  "search_terms": [
+    "implement",
+    "hand tool"
+  ],
+  "description": "Any object used as an implement for a particular task can be 'tenoa'. The noun focuses on the user's practical relation to the object, so an ordinary thing can become a tool in context. 'keli' (device) instead draws attention to an object's arranged working parts.",
+  "articulatory_notes": "Set the tongue tip at the upper teeth for dental 't' and release into mid-front 'e'. Return the tongue tip to the teeth for nasal 'n' before stressed rounded 'o', then keep the following open 'a' separate as the final hiatus syllable.",
+  "usage_notes": "Instrumental 'roe' places a tool beside the verb that says what the user does with it. A tool's presence establishes neither skill nor permission; those relations have their own words and clauses.",
+  "examples": [
+    {
+      "phi": "mia ha tenoa shiroka.",
+      "translation": "I repair this tool."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Appropriate technology—tools scaled to human needs, repairable, understandable.",
-    "pre-industrial-wisdom": "Tools as craft—each tool learned through apprenticeship, becoming extension of maker's skill."
+    "solarpunk-values": "A tool can be understood, maintained, shared, and adapted at the scale of the people who use it.",
+    "pre-industrial-wisdom": "A familiar implement gathers knowledge in its grip, balance, edge, wear, and repair."
   },
   "semantic_domains": {
-    "creation": "Implement",
-    "wisdom": "Appropriate technology"
+    "activity": "an implement selected for carrying out a task",
+    "creation": "an object used in making, repair, or material work",
+    "physical": "a tangible implement handled by a user"
   }
 }
