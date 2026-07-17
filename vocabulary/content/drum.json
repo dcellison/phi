@@ -7,16 +7,23 @@
     "ma"
   ],
   "pos": "noun",
-  "concept": "Drum / Percussion Instrument / To Beat Rhythm",
-  "description": "A percussion instrument with membrane stretched over frame; to beat rhythmically. 'Kuma' names what speaks in rhythm—the hollow voice that calls community together.",
-  "sound_symbolism": "The word strikes hollow. 'Ku' hits with resonant impact, membrane responding. Then 'ma' grounds in deep vibration, rhythm felt in body.",
-  "grammatical_notes": "Noun: 'sulai kuma wile.' (The musician plays the drum.) Drumming is playing: 'mia kuma wile.' (I play the drum.) Instrument of communication, ceremony ('thorea'), and dance ('rotiku').",
+  "search_terms": [
+    "percussion instrument"
+  ],
+  "description": "Strike a 'kuma' and its tensioned surface or resonant body answers with a drum sound. Playing the instrument is 'wile' (play), and 'telui' (rhythm) describes the pattern heard through its strokes. A 'teli' (bell) differs in the freely ringing tone of its hollow body.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for stressed unvoiced 'k' and release into high-back rounded 'u'. Bring the lips together for voiced 'm', keep the airflow through the nose, and open into central 'a'.",
+  "sound_symbolism": "The first syllable closes at the back of the mouth around rounded 'u'; the second releases the lips into open 'a'. That compact-to-open movement can recall a stroke followed by the drum's resonance.",
+  "examples": [
+    {
+      "phi": "sulai kuma wile.",
+      "translation": "The musician plays the drum."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Rhythm as heartbeat—the drum echoes the body's pulse, grounding awareness in present moment.",
-    "pre-industrial-wisdom": "Drums spoke across distance—calling, celebrating, warning, the voice that travels."
+    "pre-industrial-wisdom": "A drum can keep shared work or dance in time, and its carrying sound can call people who are spread across a place. Neither use needs electrical amplification."
   },
   "semantic_domains": {
-    "community": "Collective voice",
-    "creation": "Rhythm maker"
+    "aesthetic": "a struck instrument whose pulse, tone, and resonance support rhythmic form",
+    "creation": "a made resonant instrument used to produce music"
   }
 }

@@ -8,16 +8,21 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Sign / Communicating Marker / To Indicate",
-  "description": "An object conveying information or instruction; to make known through gesture or mark. 'Kiroa' names what speaks without voice—the visible communication.",
-  "sound_symbolism": "The word marks with permanence. 'Ki' begins with velar precision, the decisive act of making a mark. 'Roa' extends with enduring presence. A sign as something crafted to last, a mark that persists.",
-  "grammatical_notes": "Noun: 'kiroa' (the sign) - more communicative than 'siru' (marker): it conveys a message, not just a location. Showing and telling take their own verbs.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Signs point to meaning—the sign is not the thing itself but indication toward understanding.",
-    "peace-linguistics-practices": "Signs enable communication—shared symbols allowing understanding across languages."
-  },
+  "search_terms": [
+    "notice",
+    "communicative marker"
+  ],
+  "description": "A posted notice, hand gesture, or readable mark can be a 'kiroa' (sign) when it is used to convey information. 'siru' (marker) can identify a place simply by being there, while 'relo' (symbol) stands for a further meaning through convention. Indicating or signifying uses a verb; the sign itself remains a noun.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front 'i'. Tap or briefly trill at the alveolar ridge before stressed middle-height back rounded 'o'. Hold the syllable break and finish on open central 'a'.",
+  "usage_notes": "The compound registry uses 'thekiro kiroa' for a written character or letter. A sign can be read with 'theo' when it carries readable wording or an understood visual system.",
+  "examples": [
+    {
+      "phi": "mia ha kiroa theo.",
+      "translation": "I read this sign."
+    }
+  ],
   "semantic_domains": {
-    "communication": "Visual message",
-    "creation": "Communication object"
+    "communication": "a perceivable form used to convey information or instruction",
+    "creation": "a communicative object or mark deliberately made or placed"
   }
 }

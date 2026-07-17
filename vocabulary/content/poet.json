@@ -7,16 +7,23 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Poet / Verse Maker / Word Artist",
-  "description": "One who writes poetry; a crafter of words into rhythmic, meaningful forms. 'Weru' names who shapes language—finding the precise word for the precise feeling.",
-  "sound_symbolism": "The word weaves with rhythm. 'We' flows with word-weaving, language shaped. 'Ru' runs with rhythmic flow, verse forming.",
-  "grammatical_notes": "Functions as noun: 'weru' (poet), 'lo weru' (poets). A counted poet may take optional human classifier 'himo'. Related to 'sulai' (musician) and 'lophae' (storyteller) as word-artist.",
+  "search_terms": [
+    "verse maker",
+    "poem maker"
+  ],
+  "description": "Someone who composes poems is a 'weru' (poet). Phi uses 'melira' (song) for a poem as well as a song because written verse remains a work for the voice. A poet may work on the page or entirely through speech and memory.",
+  "articulatory_notes": "Round the lips for voiced 'w' and move forward into stressed middle-height front 'e'. Tap or briefly trill the tongue at the alveolar ridge for 'r', then draw the tongue back and round the lips into high-back 'u'.",
+  "examples": [
+    {
+      "phi": "weru melira thekiro.",
+      "translation": "The poet writes a poem."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Poet as truth-speaker—finding words for what lies beyond words.",
-    "art-nouveau-aesthetics": "Poet as beauty-maker—language elevated to art."
+    "pre-industrial-wisdom": "A poet can compose and carry verse without writing it down. Rhythm, memory, and repeated recitation let the work travel by voice."
   },
   "semantic_domains": {
-    "aesthetic": "Word craft",
-    "community": "Creative role"
+    "aesthetic": "someone composing patterned works for voice or page",
+    "community": "a recognised practice that brings poems into shared memory and speech"
   }
 }

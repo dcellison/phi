@@ -8,16 +8,23 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "Storyteller / Tale Keeper / Narrative Voice",
-  "description": "One who tells stories; a keeper and sharer of narratives. 'Lophae' names who carries tales—voice weaving worlds from words.",
-  "sound_symbolism": "The word opens with narrative. 'Lo' opens with story-space, tale beginning. 'Pha' breathes with gentle weaving, narrative flowing. Then 'e' eases into shared wonder.",
-  "grammatical_notes": "Functions as noun: 'lophae nophi phowe.' (The storyteller shares a story.) Built beside 'nophi' (story). Related to 'weru' (poet) as narrative to verse, and 'kima' (scribe), who fixes tales in writing.",
+  "search_terms": [
+    "narrator",
+    "tale teller"
+  ],
+  "description": "Whoever tells a story for the people present may be its 'lophae' (storyteller), whether the tale is newly made, inherited, or retold. The role can belong to one occasion or to a long practice. 'shane' (tell) names the telling; 'kealo' (create) claims new creation only when the storyteller also made the story.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and release into middle-height back rounded 'o'. Bring the lips close for stressed unvoiced bilabial 'ph' and open into central 'a'. Keep the final middle-height front 'e' separate across a clear hiatus.",
+  "examples": [
+    {
+      "phi": "lophae nophi shane.",
+      "translation": "The storyteller tells a story."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Storyteller as teacher—wisdom transmitted through tale and parable.",
-    "pre-industrial-wisdom": "Storyteller as memory—carrier of culture through narrative tradition."
+    "pre-industrial-wisdom": "A storyteller can carry narratives through memory and reshape their delivery for the people present. Attribution keeps inherited material distinct from a tale the teller created."
   },
   "semantic_domains": {
-    "communication": "Tale sharing",
-    "community": "Narrative role"
+    "communication": "a person who gives narrative a spoken or written telling",
+    "community": "the communal carrying and retelling of stories"
   }
 }

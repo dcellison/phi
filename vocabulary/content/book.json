@@ -7,18 +7,25 @@
     "lu"
   ],
   "pos": "noun",
-  "concept": "Book / Written vessel / Knowledge container",
-  "description": "A physical or conceptual vessel that holds written language, stories, and knowledge. A book preserves thought in portable form: it can outlive its writer and travel beyond where it was made. The word covers bound volumes and, by extension, other durable carriers of written work.",
-  "sound_symbolism": "The word opens with the fricative /ʃ/, a sound close to the rustle of a turned page. The liquid 'l' joins the two syllables smoothly, and the vowels fall from mid 'e' to deep 'u', the word settling the way attention settles into reading.",
-  "grammatical_notes": "Countable noun that takes the plural particle 'lo' for multiple books: 'lo shelu' (books). Can be modified by possessives: 'mia shelu' (my book). Often appears with verbs of reading, writing, and sharing. Can take adjectives describing physical qualities (old, new, thick) or content types (sacred, technical, beloved). Frequently used with locative prepositions indicating where books are kept or read.",
+  "search_terms": [
+    "written work",
+    "volume"
+  ],
+  "description": "A bound volume on a shelf and the same work read on a screen can each be a 'shelu' (book). The noun gathers an extended written work as one whole. 'penuwa' (page) is one unit within it, while 'pelua' (paper) names a material that may carry it.",
+  "articulatory_notes": "Begin with the tongue blade raised behind the alveolar ridge for stressed unvoiced 'sh', then release the airflow into middle-height front 'e'. Move the tongue tip to the alveolar ridge for 'l' and round the lips into high-back 'u'.",
+  "examples": [
+    {
+      "phi": "mia shelu theo.",
+      "translation": "I read a book."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Books embody sustainable knowledge-sharing—low-tech, repairable, requiring no power to access, lasting centuries with care. In solarpunk futures, books represent resilient information storage and the democratization of learning. 'Shelu' reflects how books enable communities to preserve and share knowledge independently of digital infrastructure.",
-    "art-nouveau-aesthetics": "Books represent the Art Nouveau ideal of democratizing beauty and knowledge—making art and wisdom accessible through mass production while maintaining craftsmanship. The movement's illustrated books, with their integration of text and organic imagery, showed how knowledge could be both functional and beautiful. 'Shelu' carries this vision of the book as art object and wisdom vessel.",
-    "pre-industrial-wisdom": "Before print, books were sacred objects, hand-copied repositories of accumulated knowledge. Each book represented countless hours of human attention, making them precious bridges between generations. 'Shelu' honors this understanding of books as vessels for ancestral wisdom, carrying forward what must not be forgotten."
+    "solarpunk-values": "A printed book can circulate, be repaired, and remain readable without power or a network. The same noun also includes a digital book, since the work matters more than a preferred carrier.",
+    "pre-industrial-wisdom": "Manuscript books carried records and stories beyond one speaker's memory. Their survival depended on durable materials and on people willing to copy, mend, and keep them."
   },
   "semantic_domains": {
-    "cognition": "tools for thought extending memory and enabling complex reasoning",
-    "communication": "asynchronous communication between writer and reader across time",
-    "physical": "tangible objects that can be held, carried, and preserved"
+    "cognition": "an extended written work a reader can follow beyond one sitting",
+    "communication": "writing gathered for readers as one work",
+    "physical": "a bound or otherwise embodied volume that can be held and kept"
   }
 }

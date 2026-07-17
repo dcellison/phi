@@ -7,16 +7,23 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Flute / Wind Instrument / Breath Music",
-  "description": "A wind instrument producing sound from air blown across an opening; music made from breath. 'Phui' names what sings breath—air becoming melody.",
-  "sound_symbolism": "The word breathes high. 'Phu' /ɸu/ blows with gentle breath, air moving. Then 'i' rises clear and high, note ascending.",
-  "grammatical_notes": "Functions as noun: 'phui' (flute), 'lo phui' (flutes). Related to 'kuma' (drum): the drum carries rhythm, 'phui' carries melody.",
+  "search_terms": [
+    "wind instrument"
+  ],
+  "description": "Breath directed across an opening gives a 'phui' its flute sound. Material and shape may vary, but that air stream distinguishes the instrument from one sounded by a reed or string. Playing the flute uses 'wile' (play), the same verb used for a drum.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air between them for stressed bilabial 'ph'. Keep the lips rounded for high-back 'u', then hold the syllable boundary while unrounding and moving the tongue forward into separate high-front 'i'.",
+  "sound_symbolism": "The word begins on audible bilabial breath and moves from rounded 'u' into a separate high 'i'. With breath leading the contour, the flute's air-driven voice is easy to recall.",
+  "examples": [
+    {
+      "phi": "sulai phui wile.",
+      "translation": "The musician plays the flute."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Breath as art—the flute transforms exhale into beauty, body becoming instrument.",
-    "pre-industrial-wisdom": "Flutes were first music—bone, reed, bamboo, the oldest instruments found in human sites."
+    "pre-industrial-wisdom": "Reed or bone can become a flute with few parts, yet breath and practised fingers give the simple body a wide musical range."
   },
   "semantic_domains": {
-    "aesthetic": "Breath music",
-    "creation": "Wind instrument"
+    "aesthetic": "a breath-driven instrument used for melody, sustained tone, and ornament",
+    "creation": "a made wind instrument played through controlled airflow"
   }
 }

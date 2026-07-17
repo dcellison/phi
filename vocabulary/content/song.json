@@ -8,18 +8,25 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Song / Melody / Voice Given Shape",
-  "description": "A shaped piece of singing: melody carried by voice, the thing that is sung. The object companion of 'meliho' (to sing) — together they form the mel- family of voiced music. A song is a story that has learned to flow.",
-  "sound_symbolism": "Shares its opening 'me-li' with 'meliho' (sing) — the same melodic rise, the humming nasal opening into the bright liquid 'li'. The verb carries the voice onward; 'melira' closes instead with the open 'ra': the song released, complete, ringing in the air.",
-  "grammatical_notes": "Noun: 'shia melira meliho' (they sing a song), 'mioru melira' (a beautiful song). Member of the mel- semantic family with 'meliho' (sing); an enumerated composition may take optional abstract classifier 'nophe'.",
+  "search_terms": [
+    "poem",
+    "verse",
+    "vocal piece"
+  ],
+  "description": "A work shaped for the voice is a 'melira', whether it is sung, recited, or held on a page. Phi uses the noun for both song and poem. The related verb is 'meliho' (sing), while 'meliphe' (music) includes the wider field of voice and instruments.",
+  "articulatory_notes": "Close the lips for voiced 'm', let the sound pass through the nose, and release into middle-height front 'e'. Place the tongue tip at the alveolar ridge for 'l' and raise the tongue into stressed high-front 'i'. Tap or briefly trill 'r' at the ridge, then open into central 'a'.",
+  "sound_symbolism": "The opening 'meli' is shared with 'meliho' (sing) and 'meliphe' (music). Final 'ra' replaces the verb's breathy close with an open vowel. The shaped work has a clear audible place within the family.",
+  "examples": [
+    {
+      "phi": "shia mioru melira meliho.",
+      "translation": "They sing a beautiful song."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Communal singing costs nothing, consumes nothing, and binds a community — renewable culture in its purest form.",
-    "art-nouveau-aesthetics": "A song is ornament made of time — the voice's flowing line, rising and returning like a vine. 'Melira' names the shape that singing draws.",
-    "pre-industrial-wisdom": "Songs are how pre-literate wisdom traveled: planting songs, mourning songs, songs that carry maps and genealogies. The song is the oldest book."
+    "pre-industrial-wisdom": "Songs and poems can carry remembered words through melody, metre, or repeated recitation. The page may help, but the work remains available to the voice."
   },
   "semantic_domains": {
-    "creation": "A made thing of voice and time",
-    "emotion": "Feeling given melodic shape",
-    "ritual": "Carrier of communal memory and ceremony"
+    "aesthetic": "a composed work shaped for singing or recitation",
+    "creation": "a made piece of verse or vocal music"
   }
 }

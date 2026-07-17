@@ -7,16 +7,22 @@
     "la"
   ],
   "pos": "noun",
-  "concept": "Art / Creative Expression / Aesthetic Making",
-  "description": "The expression of creativity through skilled making; works that embody beauty and meaning. 'Shela' names what humans make that transcends utility—creation for its own sake.",
-  "sound_symbolism": "The word shapes with beauty. 'She' softly opens with gentle creation, form emerging. 'La' flows with expressive beauty, art speaking.",
-  "grammatical_notes": "Functions as a noun: 'shela' (art), 'lo shela' (arts, works of art). The quality noun licensed by 'mioru' (beautiful) names beauty, which art can express. Art is created through 'lunai' (vision) and skill.",
+  "search_terms": [
+    "creative expression"
+  ],
+  "description": "A woven mat may be useful, skilfully made, and still invite attention as 'shela' (art). 'theko' (craft) foregrounds learned skill, while art attends to expressive form. A particular work keeps what made it: 'selomi' (weave) for a weaving, 'kire' (shape) for a drawing or shaped work, and 'meliho' (sing) for a singing.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for stressed unvoiced 'sh' and let the narrow airflow open into middle-height front 'e'. Touch the tongue tip to the alveolar ridge for voiced 'l', allow the air to pass along its sides, and finish with open central 'a'.",
+  "examples": [
+    {
+      "phi": "mia shela kaeli.",
+      "translation": "I like art."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Art as practice—the making itself as meditation, not only the result.",
-    "art-nouveau-aesthetics": "Art as life—beauty integrated into daily existence, not separated into museums."
+    "art-nouveau-aesthetics": "Art Nouveau lets a book cover, chair, doorway, or poster receive the same artistic attention as an object made only for display. 'shela' holds that broad field without separating art from daily surroundings."
   },
   "semantic_domains": {
-    "aesthetic": "Expressive form",
-    "creation": "Aesthetic making"
+    "aesthetic": "the field in which made form is encountered as expression",
+    "creation": "made work encountered through the choices that gave it expressive form"
   }
 }

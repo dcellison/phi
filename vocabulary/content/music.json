@@ -8,15 +8,24 @@
     "phe"
   ],
   "pos": "noun",
-  "concept": "Music / Sound Made on Purpose",
-  "description": "Music: organized sound, with or without a voice in it. Third member of the 'meli-' family after 'melira' (song) and 'meliho' (sing); music is the family's widest word, holding the drum and the flute where the others hold only the throat.",
-  "sound_symbolism": "The family signature 'me'-'li' opens into breath-light 'phe': the sung line handed to instruments.",
-  "grammatical_notes": "Noun: 'mia meliphe sheluo.' (I listen to music.) 'meliphe siora loa.' (Music gives joy.)",
+  "search_terms": [
+    "organised sound"
+  ],
+  "description": "A hummed line and a flute duet can both be 'meliphe' (music): sound intentionally shaped for listening or participation. 'melira' (song) picks out a particular song or poem, and 'telui' (rhythm) its patterned timing. Ordinary sound is 'shonuwa' (sound); hearing it as music is a cultural and situated judgement.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the voice through the nose, and release into middle-height front 'e'. Set the tongue tip at the alveolar ridge for 'l' and move into stressed high-front 'i'. Finish by bringing the lips close for unvoiced bilabial 'ph' and letting the airflow open into middle-height front 'e'.",
+  "sound_symbolism": "'meliphe' shares stressed 'meli' with 'meliho' (sing) and 'melira' (song). Final 'phe' sends the air between the lips. Its breathier ending helps mark the family's widest musical term.",
+  "examples": [
+    {
+      "phi": "mia meliphe sheluo.",
+      "translation": "I listen to music."
+    }
+  ],
   "pillars": {
-    "pre-industrial-wisdom": "Music was participatory before it was professional: work songs, lullabies, the fiddle at the wedding. Everyone's hands remember an instrument."
+    "pre-industrial-wisdom": "Music can keep work in time, hold words in memory, or gather people without separating performer from audience. The noun also leaves room for solitary music."
   },
   "semantic_domains": {
-    "aesthetic": "Sound organized on purpose",
-    "community": "What the gathering makes"
+    "aesthetic": "sound shaped and received as music",
+    "community": "music practised or heard as part of collective life",
+    "creation": "audible form made through voice, instruments, or both"
   }
 }

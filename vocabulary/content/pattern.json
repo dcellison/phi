@@ -7,16 +7,23 @@
     "na"
   ],
   "pos": "noun",
-  "concept": "Pattern / Repeated Design / Recurring Structure",
-  "description": "A repeated decorative design; a regular and intelligible form or sequence. 'Sena' names the recognizable structure—what repeats, what can be expected, the order beneath apparent chaos.",
-  "sound_symbolism": "The word repeats and sustains. 'Se' begins with sibilant persistence, the energy that runs through recurring forms. 'Na' grounds the structure, making pattern visible. The sibilant evokes the continuity that patterns require.",
-  "grammatical_notes": "Functions as a noun: 'sena' (pattern), 'lo sena' (patterns). Related to 'telui' (rhythm) but emphasizes spatial or logical repetition rather than temporal beat.",
+  "search_terms": [
+    "recurring structure",
+    "repeated design"
+  ],
+  "description": "When an arrangement recurs clearly enough to be followed or expected, it has a 'sena' (pattern). The repetitions may vary without losing that relation. 'telui' (rhythm) unfolds through time, while 'senalu' (style) gathers characteristic choices across works.",
+  "articulatory_notes": "Send unvoiced air through a narrow channel at the alveolar ridge for stressed 's' and open into middle-height front 'e'. Move the tongue tip to the backs of the upper teeth for voiced dental 'n', keep nasal airflow, and finish with open central 'a'.",
+  "examples": [
+    {
+      "phi": "mia ha sena nila.",
+      "translation": "I see this pattern."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Pattern was central—organic forms repeated and varied, creating designs that flowed while maintaining structure.",
-    "pre-industrial-wisdom": "Patterns taught prediction—recognizing weather patterns, animal behavior patterns, seasonal patterns enabled survival."
+    "art-nouveau-aesthetics": "Art Nouveau patterns often repeat leaves, stems, or curves without making every return identical. 'sena' includes that balance of recurrence and variation."
   },
   "semantic_domains": {
-    "aesthetic": "Repeated design",
-    "cognition": "Recognizable structure"
+    "aesthetic": "recurring arrangement perceived in ornament, sound, movement, or another form",
+    "cognition": "structure recognised across repeated or related instances"
   }
 }
