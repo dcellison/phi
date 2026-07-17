@@ -8,16 +8,17 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Egg / The Round Case of Beginning",
-  "description": "The egg: life's sealed, self-contained beginning — the bird's, the fish's, the snake's. With 'thowia' (born) and 'thinoe' (seed) it completes the vocabulary of starts: seed for plants, egg for creatures, birth for the moment itself.",
-  "sound_symbolism": "Rounded 'po' is the shell, and 'we'–'a' opens outward from it — the word hatches as it is spoken.",
-  "grammatical_notes": "Noun: 'pelori wi powea shorupo.' (The bird guards two eggs.) A counted viable egg may take optional 'lipha' as life in waiting: 'ta lipha powea' (one egg, classified as living); 'ta powea' is also grammatical.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Potential made visible: everything the bird will be, resting complete and unhurried in the shell. The egg is patience with a future inside.",
-    "pre-industrial-wisdom": "The egg was the household's most honest measure of a season's health — counted gently, borrowed against never."
-  },
+  "description": "An animal reproductive structure in which an embryo may develop is 'powea', usually enclosed by a membrane or shell and supplied with nourishment. The category includes unfertilised and soft shelled eggs alongside a bird's familiar hard shelled egg; viability is another fact. 'thinoe' (seed) belongs to plants, while 'thowia' (born) marks arrival.",
+  "articulatory_notes": "A brief unvoiced lip closure releases into rounded 'o'. The lips stay rounded for voiced 'w' and stressed front 'e', then open into a separate final 'a' across the hiatus.",
+  "usage_notes": "A developing egg can take optional 'lipha'; one counted as food or detached material can take 'themo'. A bare count leaves viability open.",
+  "examples": [
+    {
+      "phi": "pelori wi powea shorupo.",
+      "translation": "The bird protects two eggs."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Life's sealed beginning",
-    "physical": "The round self-contained case"
+    "nature": "an animal reproductive structure in which an embryo may develop",
+    "physical": "a protected structure that may contain nourishment and a developing embryo"
   }
 }

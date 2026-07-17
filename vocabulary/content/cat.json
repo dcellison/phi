@@ -8,16 +8,24 @@
     "ko"
   ],
   "pos": "noun",
-  "concept": "Cat / The Quiet Complete Animal",
-  "description": "The cat: the household's self-possessed companion — affectionate on its own schedule, silent on its feet, entirely finished as a creature. The second of the companion animals coined by owner ruling, and the one that would have demanded it eventually anyway.",
-  "sound_symbolism": "Small 'mi', hushed 'she', self-contained 'ko' — a word that enters the room the way its animal does: quietly, and on its own terms.",
-  "grammatical_notes": "Noun: 'misheko mua nuwera nulae.' (The cat sleeps on the bed.) 'misheko maeli thalo.' (The cat walks quietly.)",
+  "search_terms": [
+    "domestic cat",
+    "feline companion"
+  ],
+  "description": "A domestic cat is 'misheko', whether it sleeps on a household bed or keeps its distance from every household in sight. Temperament and human relationship belong to the particular animal's story. Wild cat species keep their own names.",
+  "articulatory_notes": "The lips meet for nasal 'm' while voice passes through the nose, then open into high-front 'i'. The tongue blade rises for stressed unvoiced 'she'; a closure at the soft palate releases final 'ko'.",
+  "usage_notes": "Optional 'lipha' can appear in a count. 'keloe' (companion) before 'misheko' makes that relation explicit; the bare animal noun makes no such claim.",
+  "examples": [
+    {
+      "phi": "misheko mua womu nulae.",
+      "translation": "The cat sleeps at home."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Every meditation tradition eventually notices the cat: present, unhurried, complete in itself — the practice, furred.",
-    "pre-industrial-wisdom": "The granary hired the cat and the household kept it; grain storage and cats are a single invention told as two."
+    "peace-linguistics-practices": "The entry begins with the animal. Companion or unwelcome visitor, its relation to a household has to be said and can therefore be answered."
   },
   "semantic_domains": {
-    "community": "The household's quiet companion",
-    "nature": "The self-possessed animal"
+    "community": "a cat participating in or near human households",
+    "nature": "the domestic cat as an animal"
   }
 }

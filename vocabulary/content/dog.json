@@ -8,16 +8,22 @@
     "u"
   ],
   "pos": "noun",
-  "concept": "Dog / The Companion at the Side",
-  "description": "The dog: humanity's oldest companion animal, the one who chose us back. Coined by owner ruling — a language of community was incomplete without the species that invented interspecies community. The word carries both halves of the animal: 'lo-' reaching toward 'lothea' (love), and the falling 'a.u' of the howl, the wolf ancestry still audible at the end.",
-  "sound_symbolism": "The first syllable leans toward 'lothea' (love); then 'ha' opens wide and 'u' falls away — a howl held in vowel hiatus. Stress lands on the open 'ha', the howl's peak. Say it slowly and let the last vowel drop: the ancestry is right there.",
-  "grammatical_notes": "Noun: 'lohau nua mia thalo.' (The dog walks with me.) 'lohau lo lopia shorupo.' (The dog guards the children.) Vocatively, like a name: 'kona lohau.' (Here, dog.) Replaces the retired form hupo (2026-07), which named the pant but not the love.",
-  "pillars": {
-    "peace-linguistics-practices": "The dog is proof that trust can cross a species line and hold for ten thousand years — companionship as practiced, wordless nonviolence.",
-    "pre-industrial-wisdom": "Herding, guarding, hauling, warming: the dog was the first coworker, paid in belonging — the oldest contract never written."
-  },
+  "search_terms": [
+    "domestic dog",
+    "canine companion"
+  ],
+  "description": "Across breeds and living arrangements, a domestic dog is 'lohau'. Temperament and relation with people are the next facts, not part of the species name. 'lorahu' (wolf) is its close wild relative; breed and legal categories keep the labels that define them.",
+  "articulatory_notes": "Lateral 'l' touches the alveolar ridge and releases into rounded 'o'. An open glottis lets unvoiced 'h' pass into stressed 'a', followed by a separate high-back rounded 'u' across the hiatus.",
+  "sound_symbolism": "The falling 'a.u' hiatus may recall a drawn-out canine call and offers a simple mnemonic for the word.",
+  "usage_notes": "A count can insert optional 'lipha'. 'keloe' (companion) before 'lohau' makes that relation explicit, while a working role belongs in its own phrase.",
+  "examples": [
+    {
+      "phi": "lohau nua mia thalo.",
+      "translation": "The dog walks with me."
+    }
+  ],
   "semantic_domains": {
-    "community": "The first interspecies friendship",
-    "nature": "The companion animal"
+    "community": "a dog in a stated household, companion, or work relation",
+    "nature": "the domestic dog across breeds and living arrangements"
   }
 }

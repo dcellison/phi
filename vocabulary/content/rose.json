@@ -8,16 +8,20 @@
     "la"
   ],
   "pos": "noun",
-  "concept": "Rose / The Garden's Own Flower / Sweetness With a Guarded Stem",
-  "description": "The rose: the layered garden flower whose petals wrap in circles around a sweet center, borne on a thorned stem. 'Perola' names the flower gardens keep closest, trained over doors and walls, cut and carried indoors to stand at the middle of a table. Red is its most remembered color, and 'phea perola rulo' (red as a rose) is the comparison the mouth and the cheek both borrow, but the word covers the bloom in every warm color it wears. Its sweetness is not undefended: the stem's thorns are part of what the word knows.",
-  "sound_symbolism": "The word opens on the 'pe-' of 'peloru' (flower), the family it crowns. The clean stop 'p' at the head is the thorn's one sharp point, the only guard so soft a thing carries; the liquids 'r' and 'l' unfold through the middle the way the petal spiral opens; and the final open 'a' is the bloom at full. Three syllables give the flower the unhurried saying it asks for.",
-  "grammatical_notes": "Functions as a noun: 'lo perola sholei' (a gathering of roses), 'perola whinu' (rose scent, by the event-noun rule on 'whinu'), 'phea perola rulo' (red as a rose). Under the nature-now rule, a counted rose may take optional 'lipha' while it is a living part of the bush and optional 'themo' once it is cut and treated as a detached object; either phrase may omit the classifier.",
+  "description": "A rose shrub or its layered flower is 'perola', with context choosing between the plant and bloom. Colour, scent, growth form, and sharp points vary. 'wotami' (shrub), 'peloru' (flower), and 'kewati' (thorn) can make any of those parts explicit.",
+  "articulatory_notes": "The word begins with a brief unvoiced lip closure and front 'e'. A tap or brief trill leads into stressed rounded 'o'; lateral 'l' at the alveolar ridge then opens into final 'a'.",
+  "usage_notes": "A phrase can remove the plant-or-flower ambiguity: 'perola wotami' is a rose shrub and 'perola peloru' a rose flower. Exact cultivars keep their source names.",
+  "examples": [
+    {
+      "phi": "perola whinu keru.",
+      "translation": "The rose gives a scent."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "The rose is the style's own flower: the petal spiral, the climbing thorned line over a doorway, pattern grown rather than drawn. No motif returns more often in the movement Phi keeps as a pillar.",
-    "pre-industrial-wisdom": "The cottage garden kept roses where it kept its food, beauty and use in one bed; the word carries that older habit of not separating them."
+    "art-nouveau-aesthetics": "The rose offers layered curves, repeated petals, and a living asymmetry that can guide ornament. Its use in art need not flatten the plant into sweetness alone."
   },
   "semantic_domains": {
-    "nature": "The layered garden flower",
-    "physical": "Thorned flowering shrub bloom"
+    "aesthetic": "a layered flower frequently used in scent, colour, and ornament",
+    "nature": "a rose shrub or its flower, resolved by context"
   }
 }

@@ -8,16 +8,21 @@
     "ko"
   ],
   "pos": "noun",
-  "concept": "Fruit / Plant's Offering / Ripened Gift",
-  "description": "The mature structure formed from the ovary of a flowering plant, often edible and sweet. 'Lureko' names nature's generosity made tangible—the gift that plants offer freely, containing seeds of continuity within sweetness meant to attract and nourish.",
-  "sound_symbolism": "The word ripens into offering. 'Lu' begins with flowing growth, the liquid movement of sap becoming sweetness. 'Re' carries that growth through ripening, and the rounded 'ko' closes on the fruit's full, contained form.",
-  "grammatical_notes": "Functions as a noun: 'lureko' (the fruit). Under the nature-now rule, a counted fruit may take optional 'lipha' while it remains a living part of a plant and optional 'themo' once detached and treated as an object; the classifier may always be omitted. Includes all botanical fruits whether sweet or not. Often used metaphorically for results, outcomes, and the harvest of effort.",
-  "pillars": {
-    "solarpunk-values": "Fruit represents abundance without extraction—plants offer freely what they create, modeling gift economy.",
-    "pre-industrial-wisdom": "Fruit was seasonal treasure, preserved and celebrated, teaching patience for nature's timing and gratitude for its gifts."
-  },
+  "search_terms": [
+    "botanical fruit",
+    "fruit with seeds"
+  ],
+  "description": "After a flower develops, the resulting structure is 'lureko', ordinarily enclosing seeds. Botanical fruit includes dry and savoury forms alongside sweet ones, and seedless cultivated forms remain fruit by their development; cooks may draw the category elsewhere. 'mirulo' (berry) selects a small soft fruit, while registered 'kerou lureko' names a nut.",
+  "articulatory_notes": "The word opens with lateral 'l' at the alveolar ridge and high-back rounded 'u'. A tap or brief trill leads into stressed front 'e'; the back of the tongue then closes for 'k' and releases into rounded 'o'.",
+  "usage_notes": "Present handling guides classification. Attached fruit can take optional 'lipha', while detached fruit treated as food or goods can take 'themo'; a bare count is always available.",
+  "examples": [
+    {
+      "phi": "ha shiro lureko phelu.",
+      "translation": "This tree bears fruit."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Natural abundance",
-    "nature": "Plant reproductive structure"
+    "nature": "a fruit structure developed from a flower and ordinarily enclosing seeds",
+    "physical": "a plant structure handled as food, seed covering, or material"
   }
 }

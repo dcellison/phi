@@ -8,17 +8,24 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Forest / Woodland / Tree Community",
-  "description": "A large area densely covered with trees and undergrowth, forming an interconnected ecosystem. 'Shelira' names the community rather than its members: canopy sheltering the beings beneath it, roots trading nutrients through fungal threads. A single tree is 'shiro'; a small stand is 'koshira' (grove).",
-  "sound_symbolism": "The word rustles through the trees. 'She' /ʃe/ begins with the whisper of wind through leaves. Then 'li' flows with the liquid life within, sap and streams. Finally 'ra' reaches upward, the canopy opening to light.",
-  "grammatical_notes": "Functions as a noun: 'lo shelira' (forests). A forest is an ecosystem or place rather than one organism, so it has no canonical classifier; a speaker may omit classification instead of asserting that it is a single living being. Related to 'shiro' (tree) and 'koshira' (grove). Encompasses all woodland types from dense jungle to open woodland.",
+  "search_terms": [
+    "woodland",
+    "wooded land"
+  ],
+  "description": "Where trees and surrounding life substantially shape a place, the place is a 'shelira'. Forests may be open or dense, young or old, tended or growing with little direct care. 'koshira' (grove) is the smaller stand; legal and ecological documents can draw a sharper boundary for their own purpose.",
+  "articulatory_notes": "A narrow stream of unvoiced air passes the raised tongue blade for 'sh' and opens into front 'e'. Stressed 'li' moves contact to the alveolar ridge; a tap or trill releases that contact into final 'a'.",
+  "usage_notes": "This is a place and living community, not one organism, so a living classifier would misdescribe it. Tree and animal nouns can come first to identify a particular kind of forest.",
+  "examples": [
+    {
+      "phi": "lo shiro mua shelira thuroa.",
+      "translation": "Trees grow in the forest."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Forests are the lungs of the planet—carbon sinks, biodiversity havens, and models for sustainable community living.",
-    "secular-buddhist-philosophy": "The forest teaches interconnection—no tree stands alone, each depends on and supports the whole community.",
-    "pre-industrial-wisdom": "Traditional cultures recognized forests as sacred homes, sources of medicine, food, and spiritual connection."
+    "solarpunk-values": "A forest is more than standing timber. Water and soil shape it, other lives inhabit it, and human care or memory may already belong there."
   },
   "semantic_domains": {
-    "community": "Tree community gathering",
-    "nature": "Woodland ecosystem"
+    "nature": "a tree-shaped habitat and living community",
+    "spatial": "an area understood through its wooded character"
   }
 }

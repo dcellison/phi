@@ -8,16 +8,19 @@
     "li"
   ],
   "pos": "noun",
-  "concept": "Reed / Wetland Grass / Hollow Stem",
-  "description": "A tall slender grass growing in water or wet ground; the hollow stem of marshes. 'Weoli' names what grows where water meets land—the swaying boundary plant.",
-  "sound_symbolism": "The word waves wet. 'We' sways with wetland movement, reed bending. The vowel 'o' opens hollow inside. Then 'li' flows with slender grace.",
-  "grammatical_notes": "Functions as noun: 'weoli' (the reed). Wetland plant. For baskets, mats, thatching, instruments.",
+  "description": "In shallow water or wet ground, a tall grass-like plant with a stiff or hollow stem may be 'weoli'. The everyday reed category crosses several botanical families, so species identification belongs to the local or scientific name. 'whelina' (grass) is broader.",
+  "articulatory_notes": "Voiced 'w' begins with rounded lips and glides into front 'e'. Stressed rounded 'o' stands apart across the hiatus; lateral 'l' then touches the alveolar ridge and releases into high-front 'i'.",
+  "examples": [
+    {
+      "phi": "weoli mua phialu kerime thuroa.",
+      "translation": "Reeds grow at the water's edge."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Slender grace—the reed's form inspiring flowing Art Nouveau lines.",
-    "pre-industrial-wisdom": "Reeds served many needs—thatching, weaving, writing, the versatile wetland harvest."
+    "pre-industrial-wisdom": "A reed can become basket, roof, paper, or instrument. Knowing when to gather it belongs to the local plant, wetland, and season."
   },
   "semantic_domains": {
-    "creation": "Weaving material",
-    "nature": "Wetland plant"
+    "creation": "a plant used in weaving, thatching, paper, and instruments",
+    "nature": "a tall slender wet-ground or shallow-water plant"
   }
 }

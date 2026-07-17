@@ -8,16 +8,20 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Hemp / Strong Plant Fiber / Durable Textile",
-  "description": "A tall plant with strong fibers used for rope and cloth; the workhorse fiber. 'Kenoa' names what holds—the plant that gives strength without breaking.",
-  "sound_symbolism": "The word stands like the plant itself: tough and upright. 'Ke' begins with velar firmness, the resilience of ancient fiber. 'Noa' grounds with earthy presence. Hemp as durable material, rooted in pre-industrial craft.",
-  "grammatical_notes": "Functions as noun: 'kenoa' (the hemp). Strongest plant fiber. For rope, canvas, durable cloth.",
-  "pillars": {
-    "solarpunk-values": "Sustainable strength—fast-growing, needs little water, replaces petroleum products.",
-    "pre-industrial-wisdom": "Hemp built ships—sails and ropes of the age of exploration."
-  },
+  "search_terms": [
+    "fibre hemp",
+    "Cannabis fibre plant"
+  ],
+  "description": "Hemp cultivated for fibre, seed, or another practical material is 'kenoa'. Cultivar and chemical profile need their precise names, while a legal category belongs to the law that creates it.",
+  "articulatory_notes": "The back of the tongue closes briefly for 'k' and releases into front 'e'. Dental nasal 'n' carries voice into stressed rounded 'o', followed by a separate open 'a' across the hiatus.",
+  "examples": [
+    {
+      "phi": "kenoa linua keru.",
+      "translation": "Hemp provides fibre."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Durable fiber",
-    "nature": "Strong plant"
+    "creation": "a plant source for rope, cloth, paper, and related craft",
+    "nature": "a cultivated plant used for fibre, seed, and other materials"
   }
 }

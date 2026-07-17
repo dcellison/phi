@@ -8,16 +8,20 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Grove / Small Wood / Tree Gathering",
-  "description": "A small group of trees without thick undergrowth, often planted or naturally clustered. 'Koshira' names the intimate gatherings of trees—sacred circles, orchard clusters, the smaller woodlands where one can walk among trunks and see the sky.",
-  "sound_symbolism": "The word gathers trees together. 'Ko' begins with compact velar weight, the trees held as a cluster. 'Shi' brings the grove's leafy hush, and final 'ra' opens the trunks toward light and sky. Its /ʃ/ and final 'ra' echo 'shelira' (forest), tying the tree-place words together.",
-  "grammatical_notes": "Functions as a noun: 'lo koshira' (groves). Distinguished from 'shelira' (forest) by intimacy and scale—groves are walkable, often sacred or cultivated. Both words carry /ʃ/ and end in 'ra', a family resemblance among the tree-place words.",
-  "pillars": {
-    "art-nouveau-aesthetics": "The grove represents nature at human scale—trees as companions rather than wilderness, beauty one can walk within.",
-    "pre-industrial-wisdom": "Groves were sacred spaces in many traditions—places where humans met the divine among trees, neither wild forest nor tamed field."
-  },
+  "search_terms": [
+    "stand of trees",
+    "small wood"
+  ],
+  "description": "A small stand of trees encountered as one place is a 'koshira'. It may be planted or self-sown, sacred or thoroughly ordinary. 'shelira' (forest) is the broader wooded landscape; 'lureko shiro koshira' specifies an orchard.",
+  "articulatory_notes": "The back of the tongue seals briefly for 'k' and releases into rounded 'o'. The blade then rises for stressed unvoiced 'shi'; a tap or trill at the alveolar ridge opens into final 'a'.",
+  "examples": [
+    {
+      "phi": "mia mua koshira thalo.",
+      "translation": "I walk in the grove."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Small woodland",
-    "ritual": "Sacred tree-space"
+    "nature": "a small stand of trees considered as one place",
+    "spatial": "a bounded or recognisable cluster of trees"
   }
 }

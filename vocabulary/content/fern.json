@@ -7,16 +7,19 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Fern / Frond Plant / Spiral Ancient",
-  "description": "A flowerless plant with feathery fronds that unfurl from spiral fiddleheads. 'Phero' names the primordial elegance—plants older than flowers, reproducing by spore, their fronds encoding the spiral mathematics of growth.",
-  "sound_symbolism": "The word unfurls gently. 'Phe' /ɸe/ begins with soft primordial breath, ancient presence. Then 'ro' reaches outward, the frond extending from its spiral center.",
-  "grammatical_notes": "Functions as a noun: 'phero' (fern), 'lo phero' (ferns). A counted fern may take optional living classifier 'lipha'. Associated with shade, moisture, forest floors, and ancient lineage.",
+  "description": "A vascular plant with fronds and spores rather than seeds is a 'phero', a fern. Shade and moisture suit many ferns without defining the whole group. Family and species can come from the botanical account in use.",
+  "articulatory_notes": "Unvoiced air passes between nearly closed lips into stressed front 'e'. The tongue then taps or briefly trills at the alveolar ridge before the lips round for final 'o'.",
+  "examples": [
+    {
+      "phi": "phero phou shiro thuroa.",
+      "translation": "A fern grows beneath the tree."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Fern fronds were among Art Nouveau's most beloved motifs—the spiral fiddlehead and feathered frond embodying organic mathematics.",
-    "pre-industrial-wisdom": "Ferns marked ancient forests and offered fiddleheads as spring food—plants from before flowers, carrying deep time in their form."
+    "art-nouveau-aesthetics": "A fern frond offers a visible sequence of repeated parts along a curving line. Artists can borrow that structure while the plant remains more than an ornament."
   },
   "semantic_domains": {
-    "aesthetic": "Spiral frond beauty",
-    "nature": "A vascular plant that reproduces through spores"
+    "aesthetic": "frond structures used in observed organic pattern",
+    "nature": "a spore-producing vascular plant commonly bearing fronds"
   }
 }

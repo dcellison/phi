@@ -88,6 +88,21 @@ This registry is machine-checked and machine-published: `python3 scripts/validat
 | `mawha norui lothea korua` | no-boundary love-heart | a boundless friendly mind | No boundary modifies the loving heart itself, the disposition cultivated throughout the Metta Sutta. |
 | `shero phiwapi` | night butterfly | moth | The moth is the butterfly's night sibling, and saying so places the creature exactly; provided by `phiwapi`'s own entry, canonized from The Velveteen Rabbit. |
 | `nuko pelori` | black bird | blackbird | The garden's bold singer named by its plain color, the color rule doing species work; the bird that races the household to the first berries. Canonized from News from Nowhere. |
+| `shiro pakewu` | tree stem | trunk | A trunk is a tree's principal stem. The compound also works for trees with several trunks and leaves exact botanical boundaries with their sources. |
+| `peloru lirowa` | flower leaf | petal | A petal is the leaf-like part of a flower in ordinary description. Exact modified structures can retain their botanical account. |
+| `tokemi lureko` | fungus fruit | mushroom; fungal fruiting body | The visible fruiting body is only one part of the fungus. Keeping `tokemi` audible prevents the mushroom from standing for the whole organism. |
+| `wotami sholei` | shrub gathering | thicket | A thicket is encountered as shrubs growing closely together. The phrase keeps the plants visible instead of treating the place as an unrelated landform. |
+| `lureko shiro koshira` | fruit-tree grove | orchard | Fruit identifies the trees and grove identifies the place. A source can still name the crop, ownership, or cultivation arrangement. |
+| `sorila phireo` | cultivation plant | crop; cultivated plant | The expression names a plant through the act of cultivation. Harvested produce, yield, and legal crop categories remain separate. |
+| `wuloe nolika paloi` | soft animal foot | paw | Yielding contact distinguishes the familiar paw from a hard hoof. Exact pads, claws, and species anatomy can be stated when they matter. |
+| `kethua nolika paloi` | hard animal foot | hoof | The hard animal foot is the ordinary visible distinction. Split and unsplit hooves keep their exact source descriptions. |
+| `kethua pelori phulae` | hard bird mouth | beak; bill | The bird and its hard mouth structure remain audible together. Shape and feeding use vary too widely to hide inside the expression. |
+| `keloe nolika` | companion animal | pet | Companionship names a present relation rather than ownership. A household can state care, residence, and responsibility separately. |
+| `pelori womu` | bird home | nest | The bird's home is the ordinary nest expression. Material, location, eggs, and present occupation remain separate observations. |
+| `hemoko womu` | bee home | hive; bee nest | The bee supplies the resident and home supplies the structure. Colony, managed hive, and exact species remain distinct. |
+| `limu nolika` | young animal | young animal | The same age word works across species until an exact life stage or husbandry class matters. |
+| `nolika haoni` | animal voice | animal call | The expression reports a vocal sound without pretending that every species or situation has one fixed call. |
+| `nolika sholei` | animal gathering | animal group; herd, flock, pack, or swarm in ordinary reference | The gathering stays generic while the animal noun supplies its members. Exact social structure or biological terminology remains available from its source. |
 
 ## The household and the made world
 

@@ -8,16 +8,20 @@
     "mi"
   ],
   "pos": "noun",
-  "concept": "Salmon / The Returning Fish / The River's Own Silver",
-  "description": "The salmon: the great silver fish that leaves its river for the sea and returns, years later, to the very water that hatched it, leaping falls and weirs to get home. 'Shalumi' names the strongest homecoming in the animal world, and with it the health of the river itself: salmon live only in clean water, so their presence is the water's own testimony. Netted in season and left alone otherwise, the salmon is the meal a river gives a household that has kept it well.",
-  "sound_symbolism": "The word opens on 'shalu' (fish) whole, placing the salmon inside its family the way 'tupiwa' (rabbit) grows from 'tupi' (jump). The soft fricative 'sh' is the water's own hush, the liquid 'l' its current, and the closing '-mi' is the light, quick ending it shares with 'loremi' (branch) and 'wakomi' (surprise): the flick of a body clearing a weir.",
-  "grammatical_notes": "Functions as a noun. A counted salmon may take optional 'lipha': 'ta lipha shalumi' (one salmon); 'ta shalumi' is also grammatical. 'lo shalumi mua luphore wishe.' (The salmon swim in the river.) Its net is 'mera': 'lo miona roe mera shalumi kawepa.' (People catch salmon with nets.) Where 'shalu' names any fish, 'shalumi' is the specific silver returner.",
+  "description": "'shalumi' covers the related fish species commonly grouped as salmon. Many populations move between fresh and salt water, while others stay in fresh water for their whole lives. 'shalu' (fish) is the wider word; species, population, and conservation status come from the account at hand.",
+  "articulatory_notes": "The tongue blade rises for unvoiced 'sh' and opens into 'a'. Stressed lateral 'lu' brings the tongue tip to the alveolar ridge; nasal 'm' then closes the lips before final high-front 'i'.",
+  "sound_symbolism": "The first two syllables reproduce 'shalu' (fish), so the wider class stays audible inside 'shalumi'. Final 'mi' carries the species-group word beyond its parent form.",
+  "usage_notes": "Optional 'lipha' can appear in a count. River, season, life stage, and local population supply the detail; harvest or protection rules keep their exact wording.",
+  "examples": [
+    {
+      "phi": "shalumi mua luphore wishe.",
+      "translation": "The salmon swims in the river."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "A river with salmon in it is a river healed; the fish is the living proof that water was given back its life, the regeneration a whole society can read from a boat.",
-    "pre-industrial-wisdom": "Salmon are taken in season, by net and weir, in quantities a village actually eats; the fish teaches sufficiency, since wanting salmon every day is how a river loses them."
+    "pre-industrial-wisdom": "Knowledge of a salmon population belongs to its river, season, and observed return. The broad noun leaves room for local names and governance rather than replacing them."
   },
   "semantic_domains": {
-    "nature": "The returning river fish",
-    "physical": "Silver-bodied swimmer of clean waters"
+    "nature": "fish species conventionally grouped as salmon across varied life cycles"
   }
 }

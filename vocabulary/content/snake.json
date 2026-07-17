@@ -8,17 +8,19 @@
     "wa"
   ],
   "pos": "noun",
-  "concept": "Snake / The Legless Flowing One",
-  "description": "The snake: the animal that is all curve and no limb, moving as water moves. A counted snake may take optional 'lipha'. Phi carries none of the snake's inherited villainy — it is simply the flowing one, reader of ground-warmth, shedder of skins.",
-  "sound_symbolism": "Sinuous 's' into the liquid run of 'li'–'wa' — the word moves the way its animal does, without a single stop consonant to interrupt the glide.",
-  "grammatical_notes": "Noun: 'suliwa mua kirua whenola.' (The snake wanders in the sand.) 'suliwa hisae leiro.' (The snake releases its skin.)",
+  "description": "A limbless reptile with an elongated body and no external ears is 'suliwa', a snake. Habitat, size, diet, and danger to people vary by species. When safety depends on identification, the exact species matters more than the broad noun.",
+  "articulatory_notes": "A narrow tongue groove carries unvoiced 's' into high-back rounded 'u'. Stressed lateral 'li' touches the alveolar ridge; rounded 'w' then opens into final 'a'.",
+  "usage_notes": "Counts allow optional 'lipha'. The noun supplies anatomy and category; deceit metaphors and automatic warnings stay out of the entry.",
+  "examples": [
+    {
+      "phi": "suliwa mua kirua whenola.",
+      "translation": "The snake wanders across the sand."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The shed skin is impermanence performed annually; the snake teaches letting-go by demonstration.",
-    "art-nouveau-aesthetics": "The style's signature line — the whiplash curve — is the snake's path drawn; no animal is more Art Nouveau.",
-    "pre-industrial-wisdom": "The snake read the seasons before farmers did — first warmth, first shedding — and its skin-leaving made it the oldest emblem of renewal."
+    "peace-linguistics-practices": "A snake report can name species, location, observed conduct, and risk without borrowing a moral character from metaphor. That distinction improves both fairness and practical warning."
   },
   "semantic_domains": {
-    "nature": "The flowing legless animal",
-    "physical": "Motion as pure curve"
+    "nature": "a limbless elongated reptile across varied species and habitats"
   }
 }
