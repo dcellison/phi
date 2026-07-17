@@ -8,16 +8,19 @@
     "ka"
   ],
   "pos": "noun",
-  "concept": "Route / Course of Travel / Way Taken",
-  "description": "A way or course taken in getting from a starting point to a destination. 'Shoeka' names the specific path chosen—the actual course traveled, the way selected among options.",
-  "sound_symbolism": "The word traces a course. 'Sho' /ʃo/ begins with purposeful movement, journey starting. The vowel 'e' opens to the way. Then 'ka' marks points along, route defined.",
-  "grammatical_notes": "Functions as a noun: 'ha shoeka teku nai.' (this route is short). Related to 'ruela' (path) and 'keiro' (way) but emphasizes the specific course chosen.",
-  "pillars": {
-    "secular-buddhist-philosophy": "The route matters—how we travel shapes who we become, the path itself is the teaching.",
-    "pre-industrial-wisdom": "Routes encoded knowledge—traditional paths that avoided danger, found water, led to safety."
-  },
+  "search_terms": [
+    "course of travel",
+    "itinerary"
+  ],
+  "description": "Travel follows a 'shoeka' from a starting place towards one or more destinations. The route may join several paths, roads, crossings, or transit stages. 'ruela' (path) is the traversable ground, and 'laniru' (journey) is the extended event of traveling along the course.",
+  "articulatory_notes": "Shape unvoiced 'sh' just behind the alveolar ridge and round into mid-back 'o'. Hold the following stressed mid-front 'e' as its own syllable after the hiatus, then close the back of the tongue for 'k' and release into open 'a'.",
+  "examples": [
+    {
+      "phi": "ha shoeka teku nai.",
+      "translation": "This route is short."
+    }
+  ],
   "semantic_domains": {
-    "spatial": "Course of travel",
-    "wisdom": "Way chosen"
+    "spatial": "a selected course linking the places or stages of travel"
   }
 }

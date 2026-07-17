@@ -7,16 +7,20 @@
     "pha"
   ],
   "pos": "noun",
-  "concept": "Bridge / Spanning Structure / To Connect Across",
-  "description": "A structure spanning and providing passage over gap, river, or road; to connect separated places. 'Repha' names what reaches across—the span that joins what was divided.",
-  "sound_symbolism": "The word spans open. 'Re' reaches across the gap, connection extending. Then 'pha' /ɸä/ breathes with open span, bridge complete.",
-  "grammatical_notes": "Noun: 'repha leo luphore nai.' (The bridge is above the river.) Building one is 'kealo' (create); the metaphorical work belongs to 'lorea' (connect): 'mia lo sila lorea.' (I connect the communities.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "Bridge as skillful means—creating passage where none existed, enabling crossing.",
-    "peace-linguistics-practices": "Bridging divides—connection across difference, finding common ground over separation."
-  },
+  "search_terms": [
+    "crossing structure",
+    "footbridge"
+  ],
+  "description": "A 'repha' carries a path across water, a hollow, another route, or any other obstacle. The noun names the built span; 'lorea' (connect) states the relation it creates, while a motion clause states someone's crossing.",
+  "articulatory_notes": "Tap the tongue tip once at the alveolar ridge for 'r' and move into stressed mid-front 'e'. Narrow the lips without closing them for bilabial fricative 'ph', then release the breath into open 'a'.",
+  "examples": [
+    {
+      "phi": "repha lo kosha lorea.",
+      "translation": "The bridge connects the fields."
+    }
+  ],
   "semantic_domains": {
-    "community": "Connection maker",
-    "creation": "Spanning structure"
+    "creation": "a built span that supports passage",
+    "spatial": "a crossing over an obstacle or gap"
   }
 }

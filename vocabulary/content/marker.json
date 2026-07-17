@@ -7,16 +7,22 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Marker / Indicator / Guiding Sign",
-  "description": "An object that indicates position or direction; something that shows the way. 'Siru' names what points forward—the placed indicator that guides journey.",
-  "sound_symbolism": "The word signals clear. 'Si' points with precise indication, direction shown. Then 'ru' runs along the route, path marked.",
-  "grammatical_notes": "Functions as noun: 'siru keiro shelo.' (the marker signifies the way). For trail markers, boundary stones, any indicator of place or direction. Related to 'kiroa' (sign) but less communicative.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Markers on the path—signs of progress, indicators that practice is moving forward.",
-    "pre-industrial-wisdom": "Markers guided travelers—stones, blazes, cairns showing the way through wilderness."
-  },
+  "search_terms": [
+    "trail marker",
+    "boundary marker",
+    "indicator object"
+  ],
+  "description": "A placed or selected object is 'siru' when it identifies a position, boundary, stage, or route. It may help someone find a path or compare observations. 'kiroa' (sign) conveys an intended message, while a marker can do its work simply by being found in the agreed place.",
+  "articulatory_notes": "Send unvoiced air along the center of the tongue for stressed alveolar 's' and high-front 'i'. Tap the tongue tip once at the alveolar ridge for 'r', then round into high-back 'u'.",
+  "usage_notes": "A marker used as evidence still needs the observation and interpretation that connect it to a claim. Systems 'kirowi' (signal) concerns a detectable variation carrying information rather than the object chosen as a marker. The English felt-tip marker is a kind of 'phari' (pen) in Phi.",
+  "examples": [
+    {
+      "phi": "mia roe lo siru runaki.",
+      "translation": "I find my way using the markers."
+    }
+  ],
   "semantic_domains": {
-    "spatial": "Position indicator",
-    "wisdom": "Path guide"
+    "communication": "an agreed object that can indicate a location, boundary, or stage",
+    "spatial": "a placed reference used in wayfinding or position"
   }
 }

@@ -7,16 +7,23 @@
     "su"
   ],
   "pos": "noun",
-  "concept": "Needle / Sewing Implement / Piercing Tool",
-  "description": "A thin pointed piece of metal used in sewing; the tool that draws thread through fabric. 'Tisu' names what pierces and joins—the fine point that creates connection.",
-  "sound_symbolism": "The word pierces precise. 'Ti' points with fine accuracy, needle entering. Then 'su' slides through smoothly, thread following.",
-  "grammatical_notes": "Functions as noun: 'tisu' (the needle). Used with 'sima' (thread) for sewing. Ancient technology enabling all textile work.",
+  "search_terms": [
+    "sewing needle"
+  ],
+  "description": "The slender sewing implement 'tisu' has a point and usually an eye that carries thread through cloth or another workable material. Medical needles and specialized machine parts keep their exact device identity in the care or technical source where it matters.",
+  "articulatory_notes": "Set the tongue tip against the upper teeth for dental 't' and release into stressed high-front 'i'. Continue with unvoiced alveolar 's', then raise the back of the tongue and round the lips for 'u'.",
+  "sound_symbolism": "The two high vowels and light consonants give 'tisu' a narrow, fine contour that can help recall the slender sewing tool.",
+  "examples": [
+    {
+      "phi": "mia roe tisu wetha pina.",
+      "translation": "I sew the cloth with a needle."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Precision without force—the needle parts fabric gently, creating without destroying.",
-    "pre-industrial-wisdom": "The needle as civilization—tiny tool enabling clothing, shelter, medicine, art."
+    "pre-industrial-wisdom": "A needle joins and repairs cloth with little material of its own, and one cared-for tool can remain in use for years."
   },
   "semantic_domains": {
-    "creation": "Sewing tool",
-    "wisdom": "Precise craft"
+    "creation": "a pointed sewing implement that carries thread through material",
+    "physical": "a slender tool with a point and usually an eye"
   }
 }

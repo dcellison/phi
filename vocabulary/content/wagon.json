@@ -8,15 +8,25 @@
     "tha"
   ],
   "pos": "noun",
-  "concept": "Wagon / The Wheel-Carrier",
-  "description": "The wagon: wheels made into a carrier — the farm's rolling barn, the road's beast of burden that eats nothing. Built on 'rolu' (wheel), the family doing its usual work: know the wheel, read the wagon.",
-  "sound_symbolism": "'rolu' turns twice at the front of the word and 'tha' beds it like a laden floor. Say it slowly and the axle creaks.",
-  "grammatical_notes": "Noun: 'kalora rolutha natu.' (The horse pulls the wagon.) 'lo miona roe rolutha napuro kolua.' (The people carry grain with the wagon.) Related: 'rolu' (wheel), 'kolua' (carry).",
+  "search_terms": [
+    "cart",
+    "handcart",
+    "wheeled carrier"
+  ],
+  "description": "A wheeled land carrier moved by pulling or pushing is 'rolutha'. The word covers wagons, carts, and handcarts at that shared level. The number of wheels, the source of effort, and the load can be stated when the difference matters.",
+  "articulatory_notes": "Tap the tongue tip for 'r' and round into mid-back 'o'. Place the tongue tip at the alveolar ridge for 'l' and move into stressed high-back rounded 'u', then bring the tongue tip to the upper teeth for unvoiced 'th' and release into open 'a'.",
+  "sound_symbolism": "'rolutha' opens with the complete sound of 'rolu' (wheel). The wheeled carrier is therefore easy to hear beside its moving parts.",
+  "examples": [
+    {
+      "phi": "kalora rolutha natu.",
+      "translation": "The horse pulls the wagon."
+    }
+  ],
   "pillars": {
-    "pre-industrial-wisdom": "The wagon moved whatever the season made — harvest, firewood, households — and market day was measured by what one wagon could hold."
+    "pre-industrial-wisdom": "A wagon redistributes a load through wheels, axle, road, and the effort of the one who moves it."
   },
   "semantic_domains": {
-    "community": "What moves the harvest to market",
-    "physical": "Wheels made a carrier"
+    "physical": "a wheeled land carrier moved by pulling or pushing",
+    "spatial": "a vehicle used to move people or goods along the ground"
   }
 }

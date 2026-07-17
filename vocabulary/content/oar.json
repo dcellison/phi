@@ -7,16 +7,24 @@
     "wa"
   ],
   "pos": "noun",
-  "concept": "Oar / Rowing Implement / Paddle",
-  "description": "A pole with a flat blade for rowing a boat; the tool that moves water to move vessel. 'Rewa' names what reaches through water—effort becoming motion.",
-  "sound_symbolism": "The word reaches through. 'Re' extends outward, oar entering water. Then 'wa' moves water, vessel gliding forward.",
-  "grammatical_notes": "Functions as noun: 'rewa' (the oar). Human-powered water travel. Works with effort unlike 'phora' (sail) which works with wind.",
+  "search_terms": [
+    "paddle",
+    "rowing implement"
+  ],
+  "description": "A long implement with a flattened blade is 'rewa' when it moves through water to propel or steer a boat. The word covers an oar working against a rest and a paddle held freely in the hands unless that construction difference matters to the account. 'phora' (sail) receives wind instead of direct strokes.",
+  "articulatory_notes": "Tap the tongue tip once at the alveolar ridge for 'r' and open into stressed mid-front 'e'. Round the lips while raising the back of the tongue for glide 'w', then lower the jaw into open 'a'.",
+  "sound_symbolism": "The brief tap, open vowel, and rounded glide give 'rewa' one smooth change of direction that can recall a stroke entering and leaving water.",
+  "examples": [
+    {
+      "phi": "mia roe rewa wepu.",
+      "translation": "I travel by oar."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Effort and patience—each stroke moves forward, journey accomplished through persistent action.",
-    "pre-industrial-wisdom": "Oars powered journeys—the patient stroke that moves through water, human effort becoming travel."
+    "pre-industrial-wisdom": "An oar turns repeated bodily effort into quiet movement and gives the traveler immediate knowledge of current and depth."
   },
   "semantic_domains": {
-    "creation": "Rowing tool",
-    "physical": "Sustained effort"
+    "activity": "an implement used in the repeated work of rowing or paddling",
+    "physical": "a long water-moving tool with a flattened blade"
   }
 }

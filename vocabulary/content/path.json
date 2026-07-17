@@ -8,16 +8,27 @@
     "la"
   ],
   "pos": "noun",
-  "concept": "Path / Way / The Line of Going",
-  "description": "The noun naming the route traveled, the way found or made through landscape and through life. In Phi, path is understood as accumulated walking, as the trace of many journeys, as the way that opens before us and closes behind. This word names both physical trails through terrain and metaphorical paths through life, practice, and understanding. The path is where we are going and how we get there.",
-  "sound_symbolism": "The word opens with 'ru', where the rolling 'r' creates continuous movement—the ongoing journey, step after step along the way. The deep 'u' grounds this movement in purpose. The standalone 'e' brings clarity of direction, knowing where the path leads. The final 'la' flows into open possibility, the path continuing ahead, always more way to go. The arc traces journey: continuous movement, clear direction, open continuation.",
-  "grammatical_notes": "Functions as a noun referring to physical paths/trails or metaphorical ways/approaches: 'ha ruela laeno nai.' (this path is long). Often appears in contexts of journey, method, and practice. Related to 'keiro' (way), the guiding sense, and 'shoeka' (route), the specific course chosen; 'ruela' is the walked ground itself.",
+  "search_terms": [
+    "trail",
+    "road",
+    "walkway"
+  ],
+  "description": "The traversable line itself is 'ruela': ground worn by feet, a trail through woods, a made walkway, or a road prepared for travel. The word can extend to a path of practice when the sequence has the felt continuity of something followed. 'shoeka' (route) is the selected course across such paths, while 'keiro' (way) is the manner or guiding approach.",
+  "articulatory_notes": "Tap the tongue tip at the alveolar ridge for 'r' and round into high-back 'u'. Keep 'u' and the following stressed mid-front 'e' as two syllables with a clean hiatus, then form alveolar lateral 'l' and finish on open 'a'.",
+  "sound_symbolism": "The open hiatus in the middle of 'ruela' interrupts its two liquids without stopping the airflow. That small crossing can echo a path that continues through a change in ground.",
+  "usage_notes": "The noun covers footpaths, trails, walkways, and roads at the shared level of traversable ground. Surface, construction, permitted users, condition, and accessibility remain available as separate descriptions.",
+  "examples": [
+    {
+      "phi": "ruela laeno nai.",
+      "translation": "The path is long."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The path (magga) is central to Buddhist teaching—the Noble Eightfold Path, the way to liberation. 'Ruela' names both the walking and the direction, the practice and its trajectory.",
-    "pre-industrial-wisdom": "Traditional cultures knew their paths intimately—game trails, trade routes, pilgrimage ways. 'Ruela' honors path as accumulated wisdom of many walkers."
+    "secular-buddhist-philosophy": "A path can name a practice as something followed step by step, with attention returning to the present part of the way.",
+    "pre-industrial-wisdom": "A traveled path stores local knowledge in its grade, turns, surface, and relation to water or shelter."
   },
   "semantic_domains": {
-    "spatial": "routes through physical space",
-    "wisdom": "ways of practice and understanding"
+    "spatial": "the physical line of ground or structure available for travel",
+    "wisdom": "an established course of practice understood as something followed"
   }
 }

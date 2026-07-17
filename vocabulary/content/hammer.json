@@ -7,16 +7,24 @@
     "ka"
   ],
   "pos": "noun",
-  "concept": "Hammer / Striking Tool / To Strike for Shaping",
-  "description": "A tool with a heavy head for striking; to strike with force for shaping. 'Toka' names what shapes through impact—controlled force building and forming.",
-  "sound_symbolism": "The word strikes defined. 'To' lands with clear impact, hammer falling. Then 'ka' marks the result, shape emerging from strike.",
-  "grammatical_notes": "Noun: 'toka' (the hammer). It acts through 'roe': 'mia roe toka keluo kire.' (I shape the metal with the hammer.) Used for building, forging, constructive shaping.",
+  "search_terms": [
+    "mallet",
+    "striking tool"
+  ],
+  "description": "The weighted head of a 'toka' drives, fits, breaks, or shapes material through controlled blows. Ordinary hammers and mallets share the word; the work, material, and intended result say which use is at hand.",
+  "articulatory_notes": "Place the tongue tip against the upper teeth for dental 't' and release into stressed mid-back rounded 'o'. Close the back of the tongue at the soft palate for 'k', then open fully into 'a'.",
+  "sound_symbolism": "Two clean stop releases give 'toka' a compact percussive rhythm that suits a tool used in repeated blows.",
+  "examples": [
+    {
+      "phi": "mia roe toka keluo kire.",
+      "translation": "I shape the metal with a hammer."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Building community—hammer as tool of construction, creating shelter and infrastructure.",
-    "pre-industrial-wisdom": "The hammer builds—from blacksmith to carpenter, shaping material through patient striking."
+    "pre-industrial-wisdom": "A hammer makes its condition known through the hand, the sound of the blow, and the material's response."
   },
   "semantic_domains": {
-    "creation": "Striking tool",
-    "physical": "Shaping force"
+    "creation": "a striking implement used to fit, drive, break, or shape material",
+    "physical": "a hand tool that transfers force through a weighted head"
   }
 }

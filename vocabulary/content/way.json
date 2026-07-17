@@ -8,16 +8,26 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Way / Method / Manner of Doing",
-  "description": "A method, style, or manner of doing something; a road or path. 'Keiro' names both physical routes and methods—the how of movement, the manner of approach.",
-  "sound_symbolism": "The word finds its course. 'Ke' begins with clear direction, way chosen. The vowel 'i' focuses the approach. Then 'ro' rolls forward, the way followed.",
-  "grammatical_notes": "Functions as a noun: 'newu keiro' (a new way). Related to 'ruela' (path) but emphasizes method/manner as much as physical route.",
+  "search_terms": [
+    "approach",
+    "manner",
+    "guiding way"
+  ],
+  "description": "A manner, approach, or guiding course understood through how one follows it is 'keiro'. In travel it answers how or which way, rather than naming the ground underfoot. 'ruela' (path) is that traversable ground, 'shoeka' (route) is the selected course, and 'norae' (method) organizes repeatable action toward a result.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for 'k' and release into mid-front 'e'. Hold high-front stressed 'i' as a separate hiatus syllable, then tap the tongue tip at the alveolar ridge for 'r' and round into mid-back 'o'.",
+  "usage_notes": "The noun can describe a practical approach, a manner of living, or a guiding philosophical way. A physical route still takes 'ruela' or 'shoeka' when its ground or course is the point.",
+  "examples": [
+    {
+      "phi": "mia ha keiro kanu.",
+      "translation": "I choose this way."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The way is the practice—not destination but manner of traveling, not goal but path itself.",
-    "pre-industrial-wisdom": "Traditional ways encoded knowledge—methods passed down that worked with rather than against natural patterns."
+    "secular-buddhist-philosophy": "A guiding way is lived in the manner of each present act rather than held only as a destination or claim.",
+    "pre-industrial-wisdom": "A practiced way of doing something can carry observation and correction across generations without pretending that one method fits every place."
   },
   "semantic_domains": {
-    "spatial": "Route or method",
-    "wisdom": "Manner of approach"
+    "activity": "a manner or approach through which an action proceeds",
+    "wisdom": "a guiding course shaped through practice and reflection"
   }
 }
