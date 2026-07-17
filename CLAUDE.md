@@ -4,6 +4,10 @@ You are working on Phi, a constructed language and Daniel Ellison's long-term pr
 
 @project/development_protocol.md
 
+For the exact continuation state after pull request #418, including utility commands and the active vocabulary workflow, read:
+
+@project/handoff/README.md
+
 Authority order when documents disagree: `canon.md`. Settled decisions there are never reopened silently.
 
 ## Repository working rules
