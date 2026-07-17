@@ -47,6 +47,7 @@
     {"id": "body-anatomy-and-bodily-condition", "heading": "Body, anatomy, and bodily condition", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-BODY-01", "CV-BODY-02", "CV-BODY-03", "CV-BODY-04", "CV-BODY-05", "CV-BODY-06", "CV-BODY-07", "CV-BODY-08", "CV-BODY-09", "CV-SENS-01"]},
     {"id": "time-sequence-natural-stations-and-recurrence", "heading": "Time, sequence, natural stations, and recurrence", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-TIME-01", "CV-TIME-02", "CV-TIME-03", "CV-TIME-04", "CV-TIME-05", "CV-TIME-06"]},
     {"id": "landscape-waters-sky-and-weather", "heading": "Landscape, waters, sky, and weather", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-LAND-01", "CV-LAND-02", "CV-WATER-01", "CV-WATER-02", "CV-SKY-01", "CV-SKY-02", "CV-WEATHER-01", "CV-LAND-03", "CV-SKY-03"]},
+    {"id": "plants-animals-and-living-world", "heading": "Plants, animals, and the living world", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-LIFE-01", "CV-PLANT-01", "CV-PLANT-02", "CV-PLANT-03", "CV-ANIMAL-02", "CV-ANIMAL-03", "CV-REPRO-01", "CV-CULT-01"]},
     {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-02", "CV-MAT-05", "CV-MAT-06", "CV-MEAS-02", "CV-MEAS-03", "CV-MEAS-04", "CV-MEAS-05", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]}
   ],
   "candidates": [
@@ -498,7 +499,7 @@
       "placement": "base, Ecological, or a reproductive-health vocabulary set",
       "summary": "Fertility names capacity and birth names an event; reproduction and selective breeding introduce other relations.",
       "revisit_when": "ecological, husbandry, reproductive-health, or kinship scenarios need these relations in connected use",
-      "batches": ["life-growth-cultivation-and-flourishing"]
+      "batches": ["life-growth-cultivation-and-flourishing", "plants-animals-and-living-world"]
     },
     {
       "id": "CV-CULT-01",
@@ -507,7 +508,7 @@
       "placement": "Ecological, Household, or Work",
       "summary": "Existing verbs can describe what moves, is cut, is removed, or is supplied, while repeated specialist use may favour direct words.",
       "revisit_when": "a garden, farm, orchard, or ecological-care scenario uses the acts often enough to decide their learning value",
-      "batches": ["life-growth-cultivation-and-flourishing"]
+      "batches": ["life-growth-cultivation-and-flourishing", "plants-animals-and-living-world"]
     },
     {
       "id": "CV-TRY-01",
@@ -787,6 +788,60 @@
       "summary": "Specialist astronomy can describe comets, asteroids, and galaxies without moving them all into the base path. Atmospheric layers, precipitation classes, and named severe-weather systems can likewise remain exact in their source material.",
       "revisit_when": "an astronomy or meteorology scenario needs the same class repeatedly for explanation rather than only as a named source object",
       "batches": ["landscape-waters-sky-and-weather"]
+    },
+    {
+      "id": "CV-LIFE-01",
+      "concept": "a single organism or living thing across plants, animals, and fungi",
+      "status": "deferred",
+      "placement": "Ecological or shared base, according to connected use",
+      "summary": "`lioru` names life, `lima` states that something is alive, and the familiar living categories retain their own nouns. A generic countable organism term may still help when one participant must range across those categories.",
+      "revisit_when": "connected ecological or philosophical writing repeatedly needs a singular participant spanning plants, animals, fungi, and other living categories",
+      "batches": ["plants-animals-and-living-world"]
+    },
+    {
+      "id": "CV-PLANT-01",
+      "concept": "shrub, stem, thorn, sap, and pollen",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "These terms recur wherever plants meet hands or bodies: gardens, paths, care, and ecological writing. They separate growth form from supporting axis, then give thorn, sap, and pollen direct names.",
+      "implementation": {"words": ["wotami", "pakewu", "kewati", "phunelo", "nophali"], "files": ["vocabulary/content/shrub.json", "vocabulary/content/stem.json", "vocabulary/content/thorn.json", "vocabulary/content/sap.json", "vocabulary/content/pollen.json"]},
+      "batches": ["plants-animals-and-living-world"]
+    },
+    {
+      "id": "CV-PLANT-02",
+      "concept": "trunk, petal, mushroom, thicket, orchard, and crop",
+      "status": "compositional",
+      "placement": "base compounds",
+      "summary": "Each expression leaves the defining plant or fungus relation in view. The six compounds are short in speech, and their parts help a learner recover the meaning.",
+      "expressions": ["shiro pakewu", "peloru lirowa", "tokemi lureko", "wotami sholei", "lureko shiro koshira", "sorila phireo"],
+      "batches": ["plants-animals-and-living-world"]
+    },
+    {
+      "id": "CV-PLANT-03",
+      "concept": "specialist plant and fungus structures, exact kinds, and contextual food or cultivation categories",
+      "status": "deferred",
+      "placement": "Ecological, Household, Work, Medical, or exact source material",
+      "summary": "This group mixes technical structures and named kinds with categories drawn by cooking, cultivation, or a particular purpose. One decision for all of them would be tidy only on paper.",
+      "revisit_when": "connected ecological, garden, food, craft, or care writing repeatedly needs one of these distinctions beyond a transparent description or exact source name",
+      "batches": ["plants-animals-and-living-world"]
+    },
+    {
+      "id": "CV-ANIMAL-02",
+      "concept": "ordinary animal feet, outer covering, mouth structures, homes, companion relations, young, calls, and groups",
+      "status": "compositional",
+      "placement": "base compounds",
+      "summary": "Animal, body part, material quality, or social relation stays audible in each expression. The same small set of words covers familiar feet, homes, groups, and companion relations without a second list of opaque roots.",
+      "expressions": ["wuloe nolika paloi", "kethua nolika paloi", "kethua pelori phulae", "nolika whila", "keloe nolika", "pelori womu", "hemoko womu", "limu nolika", "nolika haoni", "nolika sholei"],
+      "batches": ["plants-animals-and-living-world"]
+    },
+    {
+      "id": "CV-ANIMAL-03",
+      "concept": "specialist animal anatomy, life stages, sex and age classes, breeds, calls, and taxonomic ranks",
+      "status": "deferred",
+      "placement": "Ecological, Medical, a later animal-care vocabulary set, or exact source material",
+      "summary": "The group spans body structures, life stages, husbandry classes, and formal taxa, each answering a different practical question. Existing body words cover ordinary description while biological or legal categories keep the records that define them.",
+      "revisit_when": "connected ecological, care, husbandry, or literary writing repeatedly needs one of these distinctions and transparent description becomes cumbersome or ambiguous",
+      "batches": ["plants-animals-and-living-world"]
     }
   ],
   "prompt_sources": [

@@ -8,15 +8,16 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Tail / The Body's Trailing End",
-  "description": "The tail: the body's continuation past itself — the dog's flag, the fish's engine, the snake's ending-that-never-quite-ends. Anatomy for every creature that has one.",
-  "sound_symbolism": "'tu' marks the body's end and 'li'–'ra' trails away from it, tapering open — the word thins as a tail does.",
-  "grammatical_notes": "Noun: 'lohau tulira rato.' (The dog turns its tail — wags.) 'shalu roe tulira wishe.' (The fish swims with its tail.)",
-  "pillars": {
-    "pre-industrial-wisdom": "The herder read the flock by tails — health, mood, and weather-sense all signaled at the animal's far end."
-  },
+  "description": "The rear extension of an animal's body is 'tulira'. It often continues the vertebral column or an equivalent terminal structure. Depending on the species, a tail can help with movement, balance, signalling, or protection; some are vestigial. Shape and function come from the animal in view.",
+  "articulatory_notes": "Dental 't' releases from behind the upper teeth into high-back rounded 'u'. Stressed lateral 'li' touches the alveolar ridge; a tap or brief trill then opens into final 'a'.",
+  "examples": [
+    {
+      "phi": "shalu roe tulira wishe.",
+      "translation": "The fish swims using its tail."
+    }
+  ],
   "semantic_domains": {
-    "nature": "The creature's trailing end",
-    "physical": "Anatomy past the body"
+    "nature": "the rear extension of an animal's body",
+    "physical": "a body structure used in varied forms of movement, balance, or signalling"
   }
 }

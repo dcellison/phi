@@ -8,16 +8,17 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Feather / The Lightest Made Thing",
-  "description": "The feather: flight's fabric, the wing's ('wapile') unit, warmth's lightest blanket. What the bird is dressed in and what it leaves behind as a calling card.",
-  "sound_symbolism": "Breath-light 'phi' — the softest onset the language has — floating through 'le' to the open 'a'. Say it and almost nothing happens: that is the feather.",
-  "grammatical_notes": "Noun: 'philea lue waero lepa.' (A feather falls from the sky.) 'lo philea pelori sulae phelu.' (Feathers hold the bird's warmth.)",
-  "pillars": {
-    "art-nouveau-aesthetics": "A single feather is a complete composition — spine, barbs, curve — nature's own study in flowing line.",
-    "pre-industrial-wisdom": "Quill, fletching, stuffing, ornament: the feather was a whole economy shed annually for free."
-  },
+  "description": "Each keratin structure growing from a bird's skin is a 'philea'. Feathers can support flight, insulation, display, or sensing, often doing more than one job. 'wapile' (wing) is the larger structure.",
+  "articulatory_notes": "Unvoiced air passes between nearly closed lips for 'ph' and opens into high-front 'i'. Stressed lateral 'le' brings the tongue to the alveolar ridge; final 'a' stays separate across the hiatus.",
+  "usage_notes": "An attached feather can take optional 'lipha'; a shed feather handled as an object can take 'themo'. Species or body region may come first to identify the kind.",
+  "examples": [
+    {
+      "phi": "philea lue waero lepa.",
+      "translation": "A feather falls from the sky."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Flight's fabric",
-    "physical": "The lightest made thing"
+    "nature": "a keratin structure growing from a bird's skin",
+    "physical": "a light branching structure serving flight, insulation, display, or sensing"
   }
 }

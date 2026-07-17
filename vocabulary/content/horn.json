@@ -8,16 +8,21 @@
     "na"
   ],
   "pos": "noun",
-  "concept": "Horn / The Hard Grown Crown",
-  "description": "The horn: hard growth from a living head — the ram's spiral, the ox's sweep, the deer's branching pride (antler included by extension). Growth, not weapon: Phi names what the animal grew, and has no vocabulary for what violence would make of it.",
-  "sound_symbolism": "Hard 'ku' at the root, growing outward through 'ro' to settled 'na' — solidity extending, the way horn grows: slowly, from the living base.",
-  "grammatical_notes": "Noun: 'nolika wi kurona phelu.' (The animal has two horns.) 'kurona sui torua thuroa.' (The horn grows through the years.)",
-  "pillars": {
-    "art-nouveau-aesthetics": "The ram's spiral is the style's beloved logarithmic curve grown in keratin — ornament and structure in one, straight from the animal.",
-    "pre-industrial-wisdom": "Cup, button, comb-stock, and signal-sound: horn was the pre-industrial plastic, harvested without harm from the herd's natural deaths."
-  },
+  "search_terms": [
+    "animal horn",
+    "antler"
+  ],
+  "description": "A hard growth projecting from an animal's head is 'kurona', especially a true horn with a bony core and keratin covering. Ordinary speech can extend the word to an antler when structure is beside the point. A biological account can distinguish horns, antlers, and other head growths.",
+  "articulatory_notes": "A closure at the soft palate releases 'k' into high-back rounded 'u'. A tap or brief trill leads into stressed rounded 'o'; dental nasal 'n' then opens into final 'a'.",
+  "usage_notes": "A body part follows its animal in a noun phrase, as in 'nolika kurona' (the animal's horn). Shape, growth, display, contact, and danger remain separate descriptions.",
+  "examples": [
+    {
+      "phi": "nolika wi kurona phelu.",
+      "translation": "The animal has two horns."
+    }
+  ],
   "semantic_domains": {
-    "nature": "The head's hard growth",
-    "physical": "Living solidity extended"
+    "nature": "a hard projecting growth from an animal's head",
+    "physical": "a durable pointed or branching body structure"
   }
 }

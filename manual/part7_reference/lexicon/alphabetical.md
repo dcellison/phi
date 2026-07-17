@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1250 words.*
+*1255 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -138,6 +138,7 @@
 | `kethua` | hard | /ke̞.ˈθu.ä/ | adjective |
 | `ketora` | control | /ke̞.ˈt̪o̞.rä/ | verb |
 | `ketumi` | hiccup | /ke̞.ˈt̪u.mi/ | verb |
+| `kewati` | thorn | /ke̞.ˈwä.t̪i/ | noun |
 | `ki` | PFV | /ˈki/ | particle |
 | `kia` | hello | /ˈki.ä/ | interjection |
 | `kima` | scribe | /ˈki.mä/ | noun |
@@ -503,6 +504,7 @@
 | `nomiki` | concentration | /n̪o̞.ˈmi.ki/ | noun |
 | `nomira` | collect | /n̪o̞.ˈmi.rä/ | verb |
 | `nophae` | nose | /n̪o̞.ˈɸä.e̞/ | noun |
+| `nophali` | pollen | /n̪o̞.ˈɸä.li/ | noun |
 | `nophe` | ABST.CLF | /ˈn̪o̞.ɸe̞/ | classifier |
 | `nophei` | loyal | /n̪o̞.ˈɸe̞.i/ | adjective |
 | `nophi` | story | /ˈn̪o̞.ɸi/ | noun |
@@ -562,6 +564,7 @@
 | `nuwoe` | stage | /n̪u.ˈwo̞.e̞/ | noun |
 | `pa` | INCH | /ˈpä/ | particle |
 | `pai` | NEAR | /ˈpä.i/ | preposition |
+| `pakewu` | stem | /pä.ˈke̞.wu/ | noun |
 | `palethu` | tactile | /pä.ˈle̞.θu/ | adjective |
 | `palo` | touch | /ˈpä.lo̞/ | verb |
 | `paloi` | foot | /pä.ˈlo̞.i/ | noun |
@@ -687,6 +690,7 @@
 | `phui` | flute | /ˈɸu.i/ | noun |
 | `phulae` | mouth | /ɸu.ˈlä.e̞/ | noun |
 | `phuliro` | stream | /ɸu.ˈli.ro̞/ | noun |
+| `phunelo` | sap | /ɸu.ˈn̪e̞.lo̞/ | noun |
 | `phuo` | phew | /ˈɸu.o̞/ | interjection |
 | `phurewa` | sweep | /ɸu.ˈre̞.wä/ | verb |
 | `phuri` | brush | /ˈɸu.ri/ | noun |
@@ -1257,5 +1261,6 @@
 | `woraka` | appreciate | /wo̞.ˈrä.kä/ | verb |
 | `woru` | keeper | /ˈwo̞.ru/ | noun |
 | `wosanu` | absorb | /wo̞.ˈsä.n̪u/ | verb |
+| `wotami` | shrub | /wo̞.ˈt̪ä.mi/ | noun |
 | `wuero` | far (adj) | /wu.ˈe̞.ro̞/ | adjective |
 | `wuloe` | soft | /wu.ˈlo̞.e̞/ | adjective |

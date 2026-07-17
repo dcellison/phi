@@ -8,16 +8,16 @@
     "ku"
   ],
   "pos": "noun",
-  "concept": "Insect / Small Creature / Six-Legged Being",
-  "description": "A small invertebrate animal typically having six legs and often wings. 'Nireku' names the countless small beings that form the foundation of terrestrial ecosystems—pollinators, decomposers, and food for larger creatures, essential yet often overlooked.",
-  "sound_symbolism": "The word scurries with small presence. 'Ni' begins with grounded precision, tiny life asserting itself. 'Re' moves with quick rhythm. 'Ku' clicks with hard certainty, the exoskeleton. Small but definite, grounded but quick.",
-  "grammatical_notes": "Functions as a noun: 'lo nireku' (insects). A counted insect may take optional living classifier 'lipha' ('himo' is reserved for humans); large numbers often use scale units. Includes bees, ants, beetles, butterflies, and all six-legged invertebrates.",
-  "pillars": {
-    "solarpunk-values": "Insects—especially pollinators—are essential to food systems and ecosystem health; sustainable agriculture depends on protecting them.",
-    "secular-buddhist-philosophy": "Even the smallest beings deserve consideration—the ant and the elephant both experience existence, both matter in the web of life."
-  },
+  "description": "Six legs on the adult body place an arthropod under 'nireku', the insect category. Wings, social life, diet, and ecological role vary enormously. 'nirowe' (spider) is an arachnid instead.",
+  "articulatory_notes": "Dental nasal 'n' carries voice into high-front 'i'. A tap or brief trill starts stressed 're'; the back of the tongue then closes for 'k' and releases into high-back rounded 'u'.",
+  "usage_notes": "Counts may use optional 'lipha'. A biological record can add the life stage, order, family, or species that the broad noun leaves open.",
+  "examples": [
+    {
+      "phi": "nireku mua lirowa nai.",
+      "translation": "An insect is on the leaf."
+    }
+  ],
   "semantic_domains": {
-    "community": "Foundation of ecosystems",
-    "nature": "Small essential creatures"
+    "nature": "the six-legged arthropod class across varied forms and ecological relations"
   }
 }

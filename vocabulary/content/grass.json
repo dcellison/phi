@@ -8,16 +8,21 @@
     "na"
   ],
   "pos": "noun",
-  "concept": "Grass / Ground Cover / Waving Green",
-  "description": "Low-growing plants with narrow leaves that cover the ground in meadows, lawns, and prairies. 'Whelina' names the humble abundance—the green carpet that softens earth, feeds grazers, holds soil, and waves in every breeze.",
-  "sound_symbolism": "The word waves and spreads. 'Whe' /ʍe/ begins with breathy softness, grass stirring in wind. Then 'li' lightens with liquid life, the countless blades. Finally 'na' touches ground, the grass rooted and spreading.",
-  "grammatical_notes": "Functions as a noun, usually a mass noun for ground cover: 'whelina liro nai.' (The grass is green.) An individual living blade may take optional 'lipha'; a type or patch is not itself one living being and has no canonical classifier. Central to prairie, meadow, and pastoral vocabulary.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Grass teaches humility and resilience—it bends but does not break, thrives through being walked upon, succeeds through abundance rather than height.",
-    "pre-industrial-wisdom": "Grasslands sustained the great herds and the peoples who followed them—grass as foundation of entire ways of life."
-  },
+  "search_terms": [
+    "grasses",
+    "grassy ground cover"
+  ],
+  "description": "'whelina' is grass as a plant kind or the ground cover formed by many grass plants. Narrow leaves and jointed stems are familiar; a lawn and a short height are only two possible forms. 'pholui' (bamboo) and many grains belong to the wider grass family while keeping their own useful names.",
+  "articulatory_notes": "Rounded lips shape unvoiced 'wh' and let breath pass into front 'e'. Stressed lateral 'li' brings the tongue to the alveolar ridge; dental nasal 'n' then opens into final 'a'.",
+  "usage_notes": "The noun often behaves as a mass term for ground cover. An individual blade or plant can be identified by context, and a counted living plant may take optional classifier 'lipha'.",
+  "examples": [
+    {
+      "phi": "whelina liro nai.",
+      "translation": "The grass is green."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Ground-covering plant",
-    "physical": "Low-growing vegetation"
+    "nature": "grass plants or the ground cover they form",
+    "physical": "a low plant cover made from many narrow leaves and stems"
   }
 }

@@ -8,16 +8,23 @@
     "mi"
   ],
   "pos": "noun",
-  "concept": "Fungus / Decomposer Organism / Network Being",
-  "description": "An organism that feeds by decomposing organic matter, including mushrooms, molds, and yeasts. 'Tokemi' names the hidden kingdom that recycles death into life—the networked beings whose mycelium threads through soil, breaking down the fallen to feed the living.",
-  "sound_symbolism": "The word spreads through hidden networks. 'To' begins with dental contact, touching the substrate. Then 'ke' branches with velar connection, mycelium spreading. Finally 'mi' hums with nasal intimacy, the hidden network.",
-  "grammatical_notes": "Functions as a noun: 'lo tokemi' (fungi). A counted fungus may take optional living classifier 'lipha' (though fungi are neither plant nor animal). Includes mushrooms, molds, yeasts. Often associated with decomposition, networks, and transformation.",
+  "search_terms": [
+    "fungi",
+    "fungal organism"
+  ],
+  "description": "Mushrooms, moulds, yeasts, and many less visible forms belong to 'tokemi', the fungus category. Fungi absorb nutrients through decomposition, exchange, life on a host, and other relations. They sit outside both 'phireo' (plant) and 'nolika' (animal).",
+  "articulatory_notes": "Dental 't' releases from behind the upper teeth into rounded 'o'. The back of the tongue closes for stressed 'ke'; the lips then meet for nasal 'm' and release into high-front 'i'.",
+  "usage_notes": "Optional 'lipha' is available in a count. Registered 'tokemi lureko' means mushroom or visible fruiting body, one structure rather than the whole fungus.",
+  "examples": [
+    {
+      "phi": "lo tokemi mua muila thuroa.",
+      "translation": "Fungi grow in the soil."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Fungi are essential decomposers and networkers—mycorrhizal networks connect forest trees, sharing nutrients and information in underground community.",
-    "pre-industrial-wisdom": "Traditional cultures recognized fungi's transformative power—turning grain to bread, milk to cheese, death to soil."
+    "solarpunk-values": "A fungus may raise a loaf, break down a log, or exchange with roots. The category leaves each of those relations available without reducing the organism to a service."
   },
   "semantic_domains": {
-    "community": "Underground connectors",
-    "nature": "Decomposers and network beings"
+    "nature": "the fungal category across mushrooms, moulds, yeasts, and less visible forms"
   }
 }

@@ -7,16 +7,25 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Herb / Medicinal Plant / Useful Green",
-  "description": "A plant used for flavoring, medicine, or fragrance; the useful green that heals and seasons. 'Heru' names what grows for use—nature's gift for health and taste.",
-  "sound_symbolism": "The word breathes green. 'He' exhales with living breath, plant essence. Then 'ru' roots with growing presence, herb thriving.",
-  "grammatical_notes": "Functions as noun: 'heru' (the herb). Source of 'nepha' (medicine), 'thelai' (balm), 'wenu' (tonic). The plant before preparation.",
+  "search_terms": [
+    "culinary herb",
+    "medicinal herb",
+    "aromatic herb"
+  ],
+  "description": "A plant or plant part used for flavour, scent, or a familiar remedy is 'heru'. Use as an herb does not confer medical status: 'nepha' (medicine) belongs to a care claim with its own evidence. A strictly botanical sense of herbaceous can keep its technical definition.",
+  "articulatory_notes": "An open glottis lets unvoiced 'h' flow into stressed front 'e'. A tap or brief trill follows at the alveolar ridge, then the back of the tongue rises as the lips round for final 'u'.",
+  "usage_notes": "Plant, preparation, amount, and observed effect supply the practical details. The broad word leaves all four available.",
+  "examples": [
+    {
+      "phi": "heru mua thepalu thuroa.",
+      "translation": "An herb grows in the garden."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Natural medicine—local herbs for local ailments, sustainable healing from what grows nearby.",
-    "pre-industrial-wisdom": "Herbs sustained communities—kitchen gardens, healing gardens, knowledge of useful plants passed through generations."
+    "peace-linguistics-practices": "A household may know exactly how it uses an herb. A care claim still gives the plant, preparation, observed effect, and person's response their own words."
   },
   "semantic_domains": {
-    "creation": "Healing source",
-    "nature": "Useful plant"
+    "creation": "plant material prepared for cooking, fragrance, or care",
+    "nature": "a plant or plant part selected for flavour, scent, or remedy"
   }
 }

@@ -8,16 +8,18 @@
     "le"
   ],
   "pos": "noun",
-  "concept": "Wing / The Fly-Limb",
-  "description": "The wing: the limb flight is made of. Built directly on 'wapi' (fly) — anatomy named by what it does, so a learner who knows the verb reads the noun at sight. The bird ('pelori') finally has its instrument.",
-  "sound_symbolism": "'wapi' (fly) extended by 'le', the limb-syllable — the verb grown into a body part. The word is its own etymology.",
-  "grammatical_notes": "Noun: 'pelori lo wapile phae.' (The bird opens its wings.) 'wapile lue howeli puro pilu.' (The wing takes strength from the wind.)",
-  "pillars": {
-    "art-nouveau-aesthetics": "The spread wing is the style's favorite fan of lines — structure and ornament identical, nothing added that does not lift.",
-    "pre-industrial-wisdom": "Feathered wings taught every tool of air the pre-industrial world had: the fletching, the fan, the sail's cut."
-  },
+  "description": "A paired animal structure adapted for flight or control in air is 'wapile'. The word covers the wings of birds, bats, and insects, though their anatomy differs sharply and some no longer sustain flight. 'philea' (feather) names one bird structure; 'wapi' (fly) is the motion.",
+  "articulatory_notes": "Rounded lips shape voiced 'w' and open into 'a'. They meet for stressed 'pi'; lateral 'l' then touches the alveolar ridge and releases into front 'e'.",
+  "sound_symbolism": "The first two syllables reproduce 'wapi' (fly). The added lateral ending extends the sound just enough to keep the noun and verb distinct in the ear.",
+  "usage_notes": "The animal precedes the part when needed, as in 'pelori wapile' (bird wing) and 'nireku wapile' (insect wing). A count may omit a classifier because the body-part relation is already clear.",
+  "examples": [
+    {
+      "phi": "pelori lo wapile phae.",
+      "translation": "The bird opens its wings."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Flight's limb",
-    "physical": "The bird's instrument"
+    "nature": "a paired animal structure adapted for flight or aerodynamic control",
+    "physical": "a body structure that produces lift or controls movement through air"
   }
 }

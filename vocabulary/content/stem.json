@@ -1,0 +1,28 @@
+{
+  "word": "pakewu",
+  "gloss": "stem",
+  "ipa": "/pä.ˈke̞.wu/",
+  "syllables": [
+    "pa",
+    "ke",
+    "wu"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "plant stem",
+    "stalk",
+    "trunk"
+  ],
+  "description": "A supporting axis of a plant is its 'pakewu'. It bears leaves, flowers, fruit, or branches and carries material between them. Its form can be soft or woody, upright or trailing; some stems run underground. 'shiro pakewu' names a tree trunk, while 'loremi' (branch) grows from a stem or another branch.",
+  "articulatory_notes": "The lips meet briefly for unvoiced 'p' and release into open 'a'. A closure at the soft palate begins stressed 'ke'; rounded 'w' then carries voice into high-back 'u'.",
+  "examples": [
+    {
+      "phi": "phireo pakewu lirowa phelu.",
+      "translation": "The plant's stem bears leaves."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "the supporting plant axis that bears leaves and reproductive structures",
+    "physical": "a plant structure that supports growth and carries material"
+  }
+}

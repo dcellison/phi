@@ -1,0 +1,30 @@
+{
+  "word": "nophali",
+  "gloss": "pollen",
+  "ipa": "/n̪o̞.ˈɸä.li/",
+  "syllables": [
+    "no",
+    "pha",
+    "li"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "pollen grain",
+    "flower pollen"
+  ],
+  "description": "Seed plants produce fine grains called 'nophali' to carry male reproductive material. Wind, water, or living carriers may move them. Dust remains the broader material, and an allergy report can identify the plant when it is known.",
+  "articulatory_notes": "Dental nasal 'n' begins behind the upper teeth and opens into rounded 'o'. Unvoiced air then passes between nearly closed lips into stressed 'a'; lateral 'l' releases from the alveolar ridge into final high-front 'i'.",
+  "examples": [
+    {
+      "phi": "nophali mua peloru nai.",
+      "translation": "Pollen is in the flower."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "A pollen report can identify the material, source, and bodily effect without calling a plant dirty or hostile. Exact allergen records remain available when care depends on them."
+  },
+  "semantic_domains": {
+    "nature": "reproductive grains produced by seed plants",
+    "physical": "fine plant material moved by air, water, or living carriers"
+  }
+}

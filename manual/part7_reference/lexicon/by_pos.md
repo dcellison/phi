@@ -308,7 +308,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (550)
+## noun (555)
 
 | Word | Gloss |
 |---|---|
@@ -366,6 +366,7 @@
 | `kerou` | stone |
 | `kesho` | middle |
 | `keshoa` | reptile |
+| `kewati` | thorn |
 | `kima` | scribe |
 | `kiparu` | joint |
 | `kiphira` | fault |
@@ -549,6 +550,7 @@
 | `nomi` | present |
 | `nomiki` | concentration |
 | `nophae` | nose |
+| `nophali` | pollen |
 | `nophi` | story |
 | `norae` | method |
 | `norapi` | waist |
@@ -579,6 +581,7 @@
 | `nuwera` | bed |
 | `nuwesu` | mucus |
 | `nuwoe` | stage |
+| `pakewu` | stem |
 | `paloi` | foot |
 | `palowe` | shoe |
 | `palu` | plate |
@@ -645,6 +648,7 @@
 | `phui` | flute |
 | `phulae` | mouth |
 | `phuliro` | stream |
+| `phunelo` | sap |
 | `phuri` | brush |
 | `phurilo` | broom |
 | `phuwai` | lung |
@@ -862,6 +866,7 @@
 | `womuri` | household |
 | `wonepa` | table |
 | `woru` | keeper |
+| `wotami` | shrub |
 
 ## numeral (3)
 

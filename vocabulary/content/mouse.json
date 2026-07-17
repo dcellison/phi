@@ -8,16 +8,20 @@
     "ki"
   ],
   "pos": "noun",
-  "concept": "Mouse / The Small Quick Housemate",
-  "description": "The mouse: the smallest housemate, quick along the wall, quiet under the floor, gone before the eye finishes turning. It lives at the edge of every granary and hearth, taking little, seen rarely, the fable-teller's favorite small hero. 'Misuki' names the creature without verdict: not vermin, a neighbor of the smallest size.",
-  "sound_symbolism": "'mi' small, 'su' soft, 'ki' quick: the whole animal in three light syllables, narrow vowels for a narrow body, ending on the little stop of a creature vanishing into its hole.",
-  "grammatical_notes": "Noun. 'misuki phou tomae maeli roke.' (The mouse moves quietly under the floor.) A counted mouse may take optional 'lipha', the classifier of non-human living things. Stands in the household ring beside 'misheko' (cat) and 'lohau' (dog), sharing the cat's soft 'mi' and none of its size.",
+  "description": "The small rodent with a pointed snout and a long tail is 'misuki', a mouse. The word works in a fable and in a report from behind the flour bin; pest status requires an actual effect. Species, location, and any effect on food or health can then be stated.",
+  "articulatory_notes": "Nasal 'm' begins with the lips together and releases into high-front 'i'. A narrow tongue groove shapes stressed 'su'; the back of the tongue then closes for 'k' and opens onto high-front 'i'.",
+  "usage_notes": "Optional 'lipha' can classify a count. A household response can rest on the animal's location and observed effect instead of asking the noun to supply evidence.",
+  "examples": [
+    {
+      "phi": "misuki phou shiro roke.",
+      "translation": "A mouse moves beneath the tree."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "A value-neutral name for a creature usually cursed on sight: the smallest test of speaking without contempt.",
-    "pre-industrial-wisdom": "Granary, hearth, and field all know the mouse; the fables that teach smallness its dignity are told on its back."
+    "peace-linguistics-practices": "The word identifies an animal without smuggling a verdict into the report. Practical boundaries and health concerns can then be stated from evidence rather than from a demeaning label."
   },
   "semantic_domains": {
-    "community": "The neighbor underfoot",
-    "nature": "The smallest housemate"
+    "community": "a mouse encountered in or around a human dwelling",
+    "nature": "a small long-tailed rodent conventionally called a mouse"
   }
 }

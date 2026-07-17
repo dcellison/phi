@@ -8,16 +8,20 @@
     "o"
   ],
   "pos": "noun",
-  "concept": "Plant / Rooted Growing Life / Photosynthesizing Being",
-  "description": "A living organism that typically grows in soil, produces its own food through photosynthesis, and cannot move from place to place. 'Phireo' names the green foundation of terrestrial life—the beings that transform sunlight into sustenance, providing oxygen, food, and shelter for all other life.",
-  "sound_symbolism": "The word grows from earth to light. 'Phi' /ɸi/ begins with soft breath, photosynthesis breathing. Then 're' reaches with extending growth, stems rising. Finally 'o' opens to the sun, leaves unfurling.",
-  "grammatical_notes": "Functions as a noun: 'phireo' (the plant). A counted plant may take optional living classifier 'lipha'. Hypernym for trees, flowers, grasses, and all photosynthesizing organisms. Fundamental to discussions of gardens, ecosystems, and food.",
-  "pillars": {
-    "solarpunk-values": "Plants are the foundation of sustainable life—through photosynthesis they create the oxygen we breathe and the food chains that sustain us.",
-    "secular-buddhist-philosophy": "Plants teach patience and presence—rooted in place, they grow toward light without striving, embodying effortless becoming."
-  },
+  "search_terms": [
+    "plant life",
+    "vegetation"
+  ],
+  "description": "Trees, grasses, ferns, and flowering plants all fall under 'phireo'. Soil is common but not required, and biological boundary cases can keep the classification used by their source. 'tokemi' (fungus) belongs to a different familiar category.",
+  "articulatory_notes": "Unvoiced air passes between nearly closed lips for 'ph' and opens into high-front 'i'. A tap or brief trill starts stressed 're'; rounded 'o' follows as its own final syllable across the hiatus.",
+  "usage_notes": "Counts may insert optional 'lipha'. Plant kinds and parts follow the usual head-final order, as in 'phireo pakewu' (plant stem).",
+  "examples": [
+    {
+      "phi": "phireo mua muila thuroa.",
+      "translation": "A plant grows in the soil."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Foundation of food chains",
-    "nature": "Photosynthesizing rooted life"
+    "nature": "the familiar living category containing trees, grasses, ferns, and flowering plants"
   }
 }

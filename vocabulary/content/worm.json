@@ -8,16 +8,16 @@
     "we"
   ],
   "pos": "noun",
-  "concept": "Worm / The Small Earth-Worker",
-  "description": "The worm: the soil's quiet maker, turning earth as it goes. Built on the 'mu' of 'muila' (earth), like 'muholi' (dig) — the earth-family's smallest member and hardest worker.",
-  "sound_symbolism": "'mu' is the soil itself, 'ri' the small movement through it, 'we' the soft body doing the moving. The earth-family signature carried by its tiniest bearer.",
-  "grammatical_notes": "Noun: 'lo muriwe muila temoe.' (The worms tend the earth.) In the garden: 'thepalu lo muriwe phelona.' (The garden requires worms.)",
-  "pillars": {
-    "solarpunk-values": "Soil health is worm health; the regenerative future is built, quite literally, by this animal. Honoring it by name is agricultural realism.",
-    "pre-industrial-wisdom": "Farmers judged a field by its worms long before soil science agreed with them."
-  },
+  "description": "A long soft-bodied animal without limbs can be called 'muriwe'. An earthworm is the usual reading when context supplies no narrower kind. Worm is an everyday shape category rather than one biological group, and many of its members never touch soil. Species and medical classifications keep their precise names.",
+  "articulatory_notes": "The lips meet for nasal 'm' and open into high-back rounded 'u'. A tap or brief trill leads into stressed high-front 'i'; rounded 'w' then glides forward into final 'e'.",
+  "usage_notes": "A counted worm may take optional living classifier 'lipha'. 'muila muriwe' specifies an earthworm or soil worm when place supplies the intended distinction.",
+  "examples": [
+    {
+      "phi": "lo muriwe mua muila roke.",
+      "translation": "Worms move through the soil."
+    }
+  ],
   "semantic_domains": {
-    "community": "The garden's smallest laborer",
-    "nature": "The soil's quiet maker"
+    "nature": "an everyday category for long soft-bodied animals without limbs"
   }
 }

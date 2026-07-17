@@ -7,16 +7,17 @@
     "mu"
   ],
   "pos": "noun",
-  "concept": "Moss / Soft Ground Cover / Ancient Green",
-  "description": "Small, soft plants that grow in dense clumps on rocks, trees, and moist ground. 'Shumu' names the quiet ancients—older than flowering plants, thriving in shade and damp, creating soft green cushions that hold moisture and time.",
-  "sound_symbolism": "The word cushions softly. 'Shu' /ʃu/ begins with hushed softness, the yielding surface. Then 'mu' muffles with nasal closure, sound absorbed into the moss bed.",
-  "grammatical_notes": "Functions as a noun: 'shumu' (moss), usually as a mass noun for coverage. A counted living moss growth may take optional 'lipha'; a patch as an area has no canonical classifier. Associated with age, moisture, shade, and quiet places.",
-  "pillars": {
-    "art-nouveau-aesthetics": "Moss offered Art Nouveau artists texture and the beauty of the overlooked—soft green life thriving in shadow and crack.",
-    "pre-industrial-wisdom": "Moss indicated water sources, provided wound dressing, and insulated dwellings—ancient knowledge of this humble plant's gifts."
-  },
+  "description": "'shumu' covers moss, the small non-vascular plants that commonly grow in mats or cushions and reproduce through spores. Many favour damp, sheltered places, though some live in much harsher ground. Species names can carry the finer identification.",
+  "articulatory_notes": "The tongue blade rises towards the postalveolar region for unvoiced 'sh' as the lips round into stressed high-back 'u'. The lips then meet for nasal 'm'; voice stays in the nose through the final rounded 'u'.",
+  "usage_notes": "The noun usually refers to moss collectively or to a patch. Optional living classifier 'lipha' is available when a speaker deliberately counts separate living growths.",
+  "examples": [
+    {
+      "phi": "shumu wuloe nai.",
+      "translation": "The moss is soft."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Soft ancient growth",
-    "nature": "Non-vascular plant"
+    "nature": "small non-vascular plants commonly forming mats or cushions",
+    "physical": "a low, often yielding plant cover on soil, stone, bark, or other surfaces"
   }
 }

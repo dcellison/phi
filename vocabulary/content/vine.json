@@ -7,16 +7,23 @@
     "wi"
   ],
   "pos": "noun",
-  "concept": "Vine / Climbing Plant / Winding Growth",
-  "description": "A plant with a long stem that trails or climbs by attaching to supports. 'Lowi' names the reaching wanderers—plants that find their way upward through others, winding toward light without standing alone.",
-  "sound_symbolism": "The word winds and climbs. 'Lo' begins with liquid lengthening, the stem extending. Then 'wi' winds smoothly, the vine curving around its support.",
-  "grammatical_notes": "Functions as a noun: 'lowi' (vine), 'lo lowi' (vines). A counted vine may take optional living classifier 'lipha'. Includes grape vines, ivy, morning glory, and all climbing or trailing plants.",
+  "search_terms": [
+    "climbing plant",
+    "trailing plant"
+  ],
+  "description": "A plant whose long stems trail along a surface or climb with support is 'lowi'. Vines may be woody or soft, and they cling in several different ways. 'pakewu' (stem) names the structure itself, while 'phireo' (plant) is the wider category.",
+  "articulatory_notes": "Lateral 'l' releases from the alveolar ridge into stressed rounded 'o'. The lips keep their rounding for voiced 'w', then the tongue moves forward as they unround into high-front 'i'.",
+  "examples": [
+    {
+      "phi": "lowi mua shiro thuroa.",
+      "translation": "A vine grows on the tree."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Vines teach interdependence—they rise by relationship, finding support in others rather than standing rigid and alone.",
-    "art-nouveau-aesthetics": "Vines were essential Art Nouveau motifs—the curving line, the organic spiral, growth that decorates as it climbs."
+    "art-nouveau-aesthetics": "A climbing stem supplies curves shaped by growth, contact, and available support. That observed relation gives ornament more life than a generic spiral."
   },
   "semantic_domains": {
-    "aesthetic": "Curving organic line",
-    "nature": "Climbing plant"
+    "aesthetic": "a living source of curving lines shaped by growth and support",
+    "nature": "a climbing or trailing plant with long stems"
   }
 }

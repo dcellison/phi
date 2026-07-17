@@ -8,15 +8,20 @@
     "mu"
   ],
   "pos": "noun",
-  "concept": "Elm / The Riverside Tree / Tall Shade Along the Way",
-  "description": "A tall deciduous tree, once common along English lanes, hedgerows, and riverbanks, its high branches meeting overhead to shade a path or a road. Coined the first time a transmutation needed a species and not just 'shiro' (tree) generally, since a landscape's own trees are exactly the kind of specific, embodied knowledge Phi's nature vocabulary is for.",
-  "sound_symbolism": "'We' opens on flow, the sway of high branches. 'La' carries the same liquid continuity through the trunk's long rise. 'Mu' grounds it low and closed, the deep root answering the high branch.",
-  "grammatical_notes": "Functions as a noun: 'welamu ruela mua whano.' (An elm stands over the path.) A counted elm may take optional 'lipha': 'ta lipha welamu' (one elm); 'ta welamu' is also grammatical.",
-  "pillars": {
-    "art-nouveau-aesthetics": "A tall tree's own branching is organic form before any hand shapes it; elms lining a riverside are the pattern the movement's ornament keeps returning to.",
-    "pre-industrial-wisdom": "Naming a specific tree rather than 'tree' in general is embodied knowledge of a real place, the kind a landscape teaches a person who has actually walked it."
-  },
+  "search_terms": [
+    "elm tree",
+    "Ulmus"
+  ],
+  "description": "An elm is 'welamu', a deciduous tree in the genus conventionally called *Ulmus*. A botanical or local name can identify the species or hybrid. 'shiro' (tree) is the wider word.",
+  "articulatory_notes": "Rounded 'w' glides into front 'e'. The tongue settles at the alveolar ridge for stressed lateral 'la', after which the lips meet for nasal 'm' and open onto high-back rounded 'u'.",
+  "usage_notes": "Counts may use optional 'lipha'. Tree parts follow the usual pattern: 'welamu loremi' is an elm branch and 'welamu koremu' its bark.",
+  "examples": [
+    {
+      "phi": "welamu shomelu keru.",
+      "translation": "The elm gives shade."
+    }
+  ],
   "semantic_domains": {
-    "nature": "The tree of the riverside lane"
+    "nature": "an elm tree, with exact species supplied when needed"
   }
 }

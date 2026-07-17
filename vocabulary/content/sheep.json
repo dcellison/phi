@@ -8,16 +8,18 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Sheep / Woolly Grazing Flock Animal",
-  "description": "A domesticated grazing animal with a thick fleece, commonly kept in flocks. The form echoes 'mophi' (wool), its most visible coat, while the noun refers to the whole living animal rather than a supply of fiber. A counted sheep may take optional 'lipha'.",
-  "sound_symbolism": "Closed lips begin 'mo' with a nasal hum inside rounded 'o'. Stressed 'phi' brings the lips close again without sealing them and lets breath sharpen into bright 'i'. Final 'ra' turns on the tongue and opens into broad 'a'. The word passes from contained warmth through airy friction to an open finish.",
-  "grammatical_notes": "A noun: 'lo mophira mua kosha nai.' (The sheep are in the field.) 'Mophira mophi phelu.' (The sheep has wool.) Related to 'mophi' (wool) by deliberate sound kinship; compare 'kalora' (horse) and 'tupiwa' (rabbit).",
-  "pillars": {
-    "peace-linguistics-practices": "'Mophira' stays the subject when a sentence turns to fleece or shearing. Shelter and trade can then say who benefits and what the sheep experiences.",
-    "pre-industrial-wisdom": "Pastoral knowledge followed the flock through weather and pasture. It guided birth and illness as closely as shearing, and the usefulness of wool never guaranteed good care."
-  },
+  "description": "Fleece and grazing habits make 'mophira' readily recognisable as sheep, a domesticated mammal. Breed and age can be added when useful; purpose and living conditions describe the animal's particular circumstances. 'mophi' (wool) is the fibre, not the whole sheep.",
+  "articulatory_notes": "The lips meet for nasal 'm' and open into rounded 'o'. They draw close again for stressed unvoiced 'phi'; a tap or brief trill then releases into final open 'a'.",
+  "sound_symbolism": "The first two syllables reproduce 'mophi' (wool). The audible family keeps the sheep and its familiar fleece easy to associate while preserving two separate nouns.",
+  "usage_notes": "A count may insert optional 'lipha'. Flock, grazing, fibre, and human care are relations a sentence can add when they matter.",
+  "examples": [
+    {
+      "phi": "lo mophira mua kosha nai.",
+      "translation": "The sheep are in the field."
+    }
+  ],
   "semantic_domains": {
-    "nature": "a grazing animal commonly living in flocks",
-    "physical": "a woolly fleece on a living animal"
+    "community": "sheep living in a stated flock, household, or husbandry relation",
+    "nature": "a domesticated grazing mammal commonly bearing fleece"
   }
 }

@@ -8,16 +8,24 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "Creature / Living Being / Any Animate Entity",
-  "description": "Any living being, especially an animal; a general term for animate life of any kind. 'Limoe' names the broadest category of living things that move and sense—when the specific type is unknown, unimportant, or when emphasizing the shared quality of animate existence.",
-  "sound_symbolism": "The word breathes with general life. 'Li' begins with liquid aliveness, life flowing. Then 'mo' holds with nasal presence, being embodied. Finally 'e' opens to possibility, any form of life.",
-  "grammatical_notes": "Functions as a noun: 'lo limoe' (creatures). A counted non-human living creature may take optional 'lipha': 'wi lipha limoe' (two creatures); use 'himo' instead if the referents are people, or omit the classifier when their category is unknown. More general than 'nolika' (animal)—can include mythical or unknown beings. Often used when species is unidentified or irrelevant.",
+  "search_terms": [
+    "being",
+    "animate being"
+  ],
+  "description": "When a story leaves an animate being's kind unknown or wonderfully uncertain, it can call that being 'limoe'. The word normally points beyond human life. 'miona' (person) keeps the human participant visible, while 'nolika' (animal) chooses the zoological class.",
+  "articulatory_notes": "Lateral 'l' releases from the alveolar ridge into high-front 'i'. The lips meet for nasal 'm' and open onto stressed rounded 'o'; a clear hiatus then carries the tongue forward into unrounded 'e'.",
+  "usage_notes": "Optional 'lipha' can appear in a count. Applying 'limoe' to a person creates distance on purpose, so ordinary human reference uses 'miona' (person).",
+  "examples": [
+    {
+      "phi": "ta limoe phou shiro roke.",
+      "translation": "A creature moves beneath the tree."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "All creatures share the quality of sentient existence—'limoe' names this shared ground before distinctions of type.",
-    "pre-industrial-wisdom": "Traditional stories speak of 'creatures' when the exact form matters less than the animate presence—the being encountered in forest or dream."
+    "peace-linguistics-practices": "The usage distinction keeps a broad creature term from quietly replacing 'miona' (person). When a person's humanity matters, the sentence names it rather than treating distance as neutral."
   },
   "semantic_domains": {
-    "cognition": "General category for life",
-    "nature": "Any living animate being"
+    "community": "a non-human participant encountered in story or shared life",
+    "nature": "an animate being whose exact kind need not be settled"
   }
 }

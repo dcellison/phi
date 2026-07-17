@@ -8,17 +8,24 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "Seed / Potential-Kernel / The Beginning-Within",
-  "description": "The noun naming the reproductive unit of plants containing embryo and stored nourishment, understood in Phi as concentrated potential, the future folded into small present form. Seeds embody patience, trust, and the mystery of dormancy—life waiting for its moment. This word names what holds tomorrow within today.",
-  "sound_symbolism": "The word opens with 'thi', where the dental fricative whispers of hidden things, abstract potential, while 'i' sharpens to the concentrated smallness of seeds. This grounds through 'no', where the nasal anchors in earthen presence—the seed in soil. The final 'e' opens with emergence, the seed's destiny of becoming. The arc traces seeding: potential, grounding, emergence.",
-  "grammatical_notes": "Functions as a noun: 'mia thinoe thophe.' (I sow a seed.) A counted viable seed may take optional living classifier 'lipha' as life in waiting. Metaphorically used for beginnings, potential, and origins of things. Often appears in contexts of planting, patience, and future-orientation.",
+  "search_terms": [
+    "plant seed",
+    "seed grain"
+  ],
+  "description": "A plant embryo with the store or covering that supports its early growth is a 'thinoe'. Plants that reproduce through spores fall outside this category. 'powea' (egg) belongs to animal reproduction, while 'thowia' (born) marks the arrival event.",
+  "articulatory_notes": "For 'thi', the tongue touches the upper teeth lightly while unvoiced air passes into high-front 'i'. Dental nasal 'n' carries voice into stressed rounded 'o'; the final front 'e' stays distinct across the hiatus.",
+  "usage_notes": "A viable seed can take optional 'lipha'; one counted as food or stored material can take 'themo'. 'thophe' (sow) is the planting verb.",
+  "examples": [
+    {
+      "phi": "mia thinoe thophe.",
+      "translation": "I sow a seed."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Seed sovereignty represents freedom and sustainability. 'Thinoe' names what must be protected from commodification.",
-    "secular-buddhist-philosophy": "Seeds teach impermanence and interdependence—the tree within the seed, the seed within the tree. 'Thinoe' names this teaching.",
-    "pre-industrial-wisdom": "Seeds were sacred—saved, shared, and stewarded across generations. 'Thinoe' honors the seed as ancestor gift and future trust."
+    "pre-industrial-wisdom": "Saving seed joins one season's harvest to another season's planting. Who may keep and share a variety belongs to community agreement, not to the noun."
   },
   "semantic_domains": {
-    "nature": "the reproductive kernel of plants",
-    "temporal": "the present form of future growth"
+    "nature": "a plant reproductive structure containing an embryo",
+    "temporal": "a dormant or developing beginning carried across seasons"
   }
 }

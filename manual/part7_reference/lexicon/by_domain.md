@@ -303,7 +303,7 @@
 | `wisola` | exchange | participants giving and receiving within one reciprocal arrangement |
 | `wosanu` | absorb | a receiving body taking material into itself |
 
-## aesthetic (79)
+## aesthetic (80)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -325,7 +325,7 @@
 | `liru` | fabric | Texture |
 | `lonai` | width | Breadth |
 | `loriphi` | rainbow | a naturally ordered display of visible colours |
-| `lowi` | vine | Curving organic line |
+| `lowi` | vine | a living source of curving lines shaped by growth and support |
 | `luwae` | graceful | flowing movement or form perceived as graceful |
 | `maeli` | quiet | quiet or silence used as part of an audible composition |
 | `meliho` | sing | melody and vocal form perceived or shaped through singing |
@@ -340,13 +340,15 @@
 | `nuelo` | dark | a dim scene or a color seen as a dark shade |
 | `nuko` | black | the achromatic category at the low end of perceived lightness |
 | `palethu` | tactile | form deliberately available to touch |
-| `pelori` | bird | Beauty in flight and song |
-| `peloru` | flower | embodiment of natural beauty |
+| `pelori` | bird | a living source of observed song, colour, and flight |
+| `peloru` | flower | a recurring source of colour, scent, form, and ornament |
+| `perola` | rose | a layered flower frequently used in scent, colour, and ornament |
 | `phaewi` | studio | Art place |
 | `phanu` | canvas | Creative potential |
-| `phero` | fern | Spiral frond beauty |
+| `phero` | fern | frond structures used in observed organic pattern |
 | `phielo` | glass | Light-bearer |
 | `phiro` | elegant | refinement perceived in the proportion, economy, or manner of a form |
+| `phiwapi` | butterfly | a living pattern of wing colour and motion |
 | `pholuo` | luminous | steady or diffused light perceived as filling a source or surface |
 | `phui` | flute | Breath music |
 | `phuri` | brush | Flowing marks |
@@ -364,7 +366,6 @@
 | `shilu` | blue | blue on surfaces and in visible light |
 | `shioli` | silver | Lunar beauty |
 | `shonuwa` | sound | the audible material of music and other sound art |
-| `shumu` | moss | Soft ancient growth |
 | `shuna` | edge | Defining line |
 | `sileo` | silk | Luxurious material |
 | `siloma` | simple | few-part or minimally arranged form |
@@ -387,7 +388,7 @@
 | `wira` | window | View portal |
 | `woraka` | appreciate | positive recognition of a sensory or artistic quality |
 
-## cognition (242)
+## cognition (240)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -432,7 +433,6 @@
 | `letharo` | consistent | the quality of propositions that can be true together |
 | `likori` | species | a biological category whose criteria and source must be recoverable |
 | `lilea` | clarify | ambiguity reduced in an existing meaning or situation |
-| `limoe` | creature | General category for life |
 | `litero` | ecosystem | a bounded analytical whole selected for ecological explanation |
 | `loetha` | open (receptive) | willingness to consider an unfamiliar idea or account |
 | `lorea` | connect | a relation recognised between ideas, claims, or parts of an explanation |
@@ -503,7 +503,6 @@
 | `phisoe` | creative | inventive thought expressed in an approach, proposal, or solution |
 | `phisuri` | sample | a selected portion whose relation to a larger source must be justified |
 | `phisuwa` | example | a particular case used to illuminate a broader idea |
-| `phiwapi` | butterfly | Change made visible and winged |
 | `phiwheki` | counterexample | a scoped case that disproves a general claim as stated |
 | `phoka` | lens | Focusing clarity |
 | `phue` | wise | sound judgement informed by understanding and experience |
@@ -764,7 +763,7 @@
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
-## community (283)
+## community (282)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -777,6 +776,7 @@
 | `helolu` | redress | redress shaped by affected parties and remaining loss |
 | `hinawu` | accommodate | a particular response to an access requirement |
 | `howela` | receive | receiving something from another participant in a social relation |
+| `kalora` | horse | a horse in a stated relation with people or shared work |
 | `kanuro` | decision | a collective or institutional decision with stated scope |
 | `kanuwa` | authorize | institutional authorization with a stated source and scope |
 | `karami` | authority | claimed or recognized decision power within a stated scope |
@@ -803,10 +803,11 @@
 | `laenu` | commons | Collective resource |
 | `lei` | harmony | participants maintaining a workable accord without becoming uniform |
 | `lesawi` | consent | a permission relation among affected participants |
+| `limoe` | creature | a non-human participant encountered in story or shared life |
 | `loa` | give | giving objects, help, or other resources to another person or group |
 | `loami` | gift | something given within a relationship without a required counterpart |
 | `loatho` | delegate | delegation with stated scope, duration, and reporting |
-| `lohau` | dog | The first interspecies friendship |
+| `lohau` | dog | a dog in a stated household, companion, or work relation |
 | `lokane` | accessible | conditions that let a person enter shared activity |
 | `lokue` | place | places as sites of gathering and meaning |
 | `lomare` | embrace | an embrace used in affection, comfort, greeting, or reunion |
@@ -836,18 +837,18 @@
 | `miona` | person | a human participant in social and relational life |
 | `mirewu` | private | a personal or shared boundary respected by other people |
 | `misharo` | consult | considering an affected person's knowledge or experience |
-| `misheko` | cat | The household's quiet companion |
-| `misuki` | mouse | The neighbor underfoot |
+| `misheko` | cat | a cat participating in or near human households |
+| `misuki` | mouse | a mouse encountered in or around a human dwelling |
 | `moeli` | hearth | Gathering place |
 | `moenu` | culture | shared meaning learned and practised among people |
 | `molawi` | cooperate | cooperation among participants towards an understood outcome |
 | `molei` | evolve | gradual development of a culture or shared practice |
 | `moloi` | apprentice | a recognised learning role within a craft relationship |
+| `mophira` | sheep | sheep living in a stated flock, household, or husbandry relation |
 | `moreke` | mammal | Close animal kin |
 | `motu` | humble | a stance that does not place one's importance above other people's |
 | `muneki` | latrine | a sanitation place used within shared or solitary daily life |
 | `muraki` | harvest | a harvest carried out or marked by a household or community |
-| `muriwe` | worm | The garden's smallest laborer |
 | `napa` | bread | The staple food of the shared table |
 | `naphe` | help | help directed towards another person or shared undertaking |
 | `naseru` | obligation | a requirement attributed to an agent under a stated source |
@@ -859,11 +860,9 @@
 | `nawo` | agree | a shared position among named participants |
 | `nephoru` | treat | an intervention relation among a person and care participants |
 | `nilua` | shy | reserve felt under other people's attention |
-| `nireku` | insect | Foundation of ecosystems |
 | `noa` | position | Enables discussion of roles and places within social structures |
 | `noeli` | warm (emotional) | a receptive manner that puts another person at ease |
 | `nolami` | bond | a mutual connection formed and sustained between beings |
-| `nolika` | animal | Fellow creatures sharing the world |
 | `nomei` | name | the marker of individual identity within collective |
 | `nomela` | encourage | encouragement offered within a shared effort or relationship |
 | `nophei` | loyal | steadfast continuation of a relationship, commitment, or allegiance |
@@ -942,7 +941,6 @@
 | `shanewi` | notify | formal notice directed to identified recipients |
 | `shaweri` | advocate | support for a person's expressed interests or a shared cause |
 | `shea` | peace | accord among people or groups without violence |
-| `shelira` | forest | Tree community gathering |
 | `shemoli` | harmonize | participants or perspectives adjusted towards a workable relation |
 | `sheori` | communicate | information exchanged among people through different forms of access |
 | `sherelo` | right (normative) | a normative claim held among people, groups, or institutions |
@@ -992,6 +990,7 @@
 | `thema` | guardian | a continuing social role of protective responsibility |
 | `thenoki` | sustain | resources and work that keep a group functioning |
 | `theomi` | trust | reliance placed within a social relationship |
+| `thepalu` | garden | ground that may be tended and used in common |
 | `therema` | tradition | social bonds and collective customs |
 | `thereo` | mediator | essential role in maintaining social harmony |
 | `thero` | fire | hearth fire as center of gathering |
@@ -1015,7 +1014,6 @@
 | `thuo` | prosper | material or practical prosperity in a person, household, or community |
 | `thuroa` | grow | growth in a community or shared practice |
 | `thuroi` | resilient | shared capacities restored after disruption |
-| `tokemi` | fungus | Underground connectors |
 | `toloi` | messenger | a person connecting separated participants through carried communication |
 | `tomi` | pot | Daily nourishment |
 | `towe` | well | the overall welfare of a person or group |
@@ -1052,13 +1050,13 @@
 | `wonepa` | table | Where the meal gathers |
 | `woru` | keeper | Guardian role |
 
-## creation (165)
+## creation (164)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `heloa` | remedy | Specific cure |
 | `henora` | capacity | a design property used in sizing and comparing infrastructure |
-| `heru` | herb | Healing source |
+| `heru` | herb | plant material prepared for cooking, fragrance, or care |
 | `katemu` | offcut | material available for possible reuse in another making process |
 | `kathu` | seal | Authentication mark |
 | `kati` | cut | cutting pieces to size during cooking or craft work |
@@ -1069,7 +1067,7 @@
 | `kelitho` | function | the role for which a component or system is arranged |
 | `kelo` | frame | Boundary structure |
 | `keluo` | metal | Forged material |
-| `kenoa` | hemp | Durable fiber |
+| `kenoa` | hemp | a plant source for rope, cloth, paper, and related craft |
 | `keritha` | workshop | space and equipment for making or repair |
 | `keruko` | sturdy | construction able to withstand its expected use |
 | `ketora` | control | a designed relation used to influence system behavior |
@@ -1098,7 +1096,6 @@
 | `luma` | lamp | Light source |
 | `lumoi` | lantern | Portable light |
 | `lupaki` | fold | forming layers and a deliberate crease |
-| `lureko` | fruit | Natural abundance |
 | `luseri` | provenance | the source history of materials and artifacts |
 | `manuwe` | hand | the body part through which much manual craft is performed |
 | `masuro` | calibrate | maintenance of measuring and signaling tools |
@@ -1142,10 +1139,10 @@
 | `phesua` | inspire | creative desire or direction awakened by another person, act, or work |
 | `phielo` | glass | Transparent material |
 | `philu` | candle | Wax light |
-| `phireo` | plant | Foundation of food chains |
 | `phisoe` | creative | making or action that puts an idea into a new practical or artistic form |
 | `phitura` | well (water) | a made opening and structure for reaching groundwater |
 | `phoka` | lens | Optical device |
+| `pholui` | bamboo | a plant used for food, fibre, paper, tools, and building material |
 | `phora` | sail | a made flexible surface shaped and rigged to receive wind |
 | `phui` | flute | Wind instrument |
 | `phuri` | brush | Painting tool |
@@ -1171,7 +1168,7 @@
 | `sephori` | supply | supporting making and repair through resource flow |
 | `shela` | art | Aesthetic making |
 | `shemoli` | harmonize | new work fitted into the visual or practical character of an existing whole |
-| `shiro` | tree | provider of materials, shelter, and breath |
+| `shiro` | tree | a living source of wood, fibre, food, shade, and other materials |
 | `shiroka` | repair | technical restoration of a damaged object's function |
 | `shiwolu` | integrate | parts made to function within a constructed whole |
 | `shorema` | contribute | contributing material or work to a made result |
@@ -1210,7 +1207,7 @@
 | `weni` | imagine | imagining a possible work, design, story, or arrangement before or during making |
 | `wenola` | collaborate | jointly making or revising a shared result |
 | `wenu` | tonic | Strengthening drink |
-| `weoli` | reed | Weaving material |
+| `weoli` | reed | a plant used in weaving, thatching, paper, and instruments |
 | `wepanu` | redundant | a design quality based on independent alternative means |
 | `weshapi` | decorate | ornament added during or after making |
 | `wetha` | cloth | Textile |
@@ -1347,7 +1344,7 @@
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 | `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
-## nature (249)
+## nature (254)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1356,7 +1353,7 @@
 | `hasumi` | tea | plant material selected and prepared for an infusion |
 | `hemilo` | honey | The bees' concentrated summer |
 | `hemoko` | bee | a winged insect commonly associated with flowers across solitary and social species |
-| `heru` | herb | Useful plant |
+| `heru` | herb | a plant or plant part selected for flavour, scent, or remedy |
 | `hesura` | ash | The fire's gray remainder |
 | `hinolu` | adapt | organisms or living systems changing in relation to their surroundings |
 | `hisophi` | contaminant | a material or organism investigated within an environmental medium |
@@ -1365,51 +1362,52 @@
 | `howai` | evening | settling daylight around the day's transition towards darkness |
 | `howeli` | wind | air moving within local weather and across a landscape |
 | `howenu` | weather | atmospheric conditions and events at a particular place |
-| `kalora` | horse | Strength at a stride |
+| `kalora` | horse | the horse as a domestic or feral animal |
 | `karume` | goat | a wild or domesticated hoofed browsing mammal |
 | `keloi` | summer | the warm, long-day portion of a temperate year |
 | `kelua` | morning | rising daylight after first light |
 | `keluo` | metal | Earth ore |
-| `kenoa` | hemp | Strong plant |
+| `kenoa` | hemp | a cultivated plant used for fibre, seed, and other materials |
 | `kenua` | energy | Active force |
 | `kerime` | shore | land directly adjoining a body of water |
 | `kerithe` | ice | solid water in weather, waterways, and frozen land |
 | `kerone` | peninsula | land projecting into and mostly surrounded by water |
 | `kerou` | stone | the mineral world of earth's bones |
 | `keshoa` | reptile | Ancient cold-blooded creatures |
+| `kewati` | thorn | a stiff sharp point growing from a plant structure |
 | `kirae` | crystal | Geometric mineral |
 | `kirua` | sand | loose grains transported and deposited by water, wind, or gravity |
 | `kolai` | pigment | Color source |
-| `koremu` | bark | Tree outer covering |
+| `koremu` | bark | protective outer tissue on woody stems and roots |
 | `kori` | leather | Animal material |
 | `kosha` | field | open land managed for crops, grazing, or another land practice |
-| `koshira` | grove | Small woodland |
+| `koshira` | grove | a small stand of trees considered as one place |
 | `kuramo` | drought | a sustained water deficit relative to a stated reference or need |
 | `kurathi` | dry | low moisture in air, soil, plants, or weather |
 | `kureno` | wither | visible decline of a plant or plant part through loss of turgor |
 | `kurisha` | storm | an unusually intense weather event |
-| `kurona` | horn | The head's hard growth |
+| `kurona` | horn | a hard projecting growth from an animal's head |
 | `leru` | beach | a water-shaped deposit of sand or pebbles along a shore |
 | `lewonu` | valley | lower land formed between neighbouring heights |
 | `likori` | species | a source-defined grouping of living organisms |
 | `liloni` | population | organisms of a stated biological category within a selected scope |
 | `lima` | alive | the living condition shared by organisms |
-| `limoe` | creature | Any living animate being |
+| `limoe` | creature | an animate being whose exact kind need not be settled |
 | `linua` | fiber | Raw material |
 | `liona` | live | the ongoing life of a person or other organism |
-| `lioru` | life | Animating force |
-| `lirowa` | leaf | Plant foliage |
+| `lioru` | life | the condition shared by living beings |
+| `lirowa` | leaf | a plant organ commonly used for photosynthesis and gas exchange |
 | `litero` | ecosystem | relations among living beings, materials, energy, water, and place |
 | `liweso` | ecological community | several living populations considered together in ecological relation |
 | `loesi` | oil | Liquid essence |
-| `lohau` | dog | The companion animal |
+| `lohau` | dog | the domestic dog across breeds and living arrangements |
 | `lorahu` | wolf | a wild canid closely related to the domestic dog |
-| `loremi` | branch | The tree's reaching limb |
+| `loremi` | branch | a woody growth extending from a trunk or another branch |
 | `lori` | vital | conditions and relations on which living systems depend |
 | `loriphi` | rainbow | an atmospheric optical form produced by light and water droplets |
 | `lorua` | abundant | plentiful growth, water, food, or other provisions in a living system |
 | `lorui` | afternoon | the daily descent of daylight after the sun's height |
-| `lowi` | vine | Climbing plant |
+| `lowi` | vine | a climbing or trailing plant with long stems |
 | `lumeo` | die | the death of a person or other organism |
 | `lumera` | nourish | nutrients or food supporting an organism's growth |
 | `lunei` | moon | a natural body orbiting a planet, especially Earth's moon in local speech |
@@ -1417,7 +1415,7 @@
 | `lunoa` | month | a span historically related to the moon's recurring visible course |
 | `luphano` | watershed | land organized by drainage toward a shared water outlet |
 | `luphore` | river | a substantial natural watercourse within a drainage system |
-| `lureko` | fruit | Plant reproductive structure |
+| `lureko` | fruit | a fruit structure developed from a flower and ordinarily enclosing seeds |
 | `lurepa` | nutrient | material used or required by an organism or living process |
 | `maruko` | bear | a large plantigrade mammal whose habitats and diets vary by species |
 | `melothe` | pond | a small natural or made body of standing water |
@@ -1427,15 +1425,15 @@
 | `menuro` | habitat | the place and conditions in which a living group dwells |
 | `milau` | drink | living organisms taking liquid from available water sources |
 | `milura` | milk | The first nourishment |
-| `mirulo` | berry | The bramble's small yield |
-| `misheko` | cat | The self-possessed animal |
-| `misuki` | mouse | The smallest housemate |
+| `mirulo` | berry | a small soft fruit found on bushes, canes, and other plants |
+| `misheko` | cat | the domestic cat as an animal |
+| `misuki` | mouse | a small long-tailed rodent conventionally called a mouse |
 | `moesu` | wax | Organic substance |
 | `mola` | island | land entirely surrounded by a body of water |
 | `molei` | evolve | change in populations or lineages across generations |
 | `molira` | hill | a modest natural elevation within the surrounding terrain |
 | `mophi` | wool | the fiber forming a sheep's fleece |
-| `mophira` | sheep | a grazing animal commonly living in flocks |
+| `mophira` | sheep | a domesticated grazing mammal commonly bearing fleece |
 | `moreke` | mammal | Warm-blooded nursing creatures |
 | `morilu` | wave | a moving surface form on sea, lake, river, or other water |
 | `morisa` | salt | What the sea leaves behind |
@@ -1450,7 +1448,7 @@
 | `munari` | sediment | particulate material moved or deposited by environmental processes |
 | `muphia` | mud | earth softened or mobilised by water in a landscape |
 | `muraki` | harvest | cultivated growth gathered at maturity |
-| `muriwe` | worm | The soil's quiet maker |
+| `muriwe` | worm | an everyday category for long soft-bodied animals without limbs |
 | `muroa` | fertile | the capacity of soil, organisms, or conditions to support growth or reproduction |
 | `napari` | rice | a cereal plant and its harvested edible seed |
 | `napuro` | grain | edible seed harvested from cereal grasses |
@@ -1458,12 +1456,13 @@
 | `nelore` | preserve | protection of a living place, species, or ecological continuity |
 | `neparu` | cloud | suspended atmospheric water or ice visible from the ground |
 | `neri` | cool | moderately low temperature in air, water, shade, or weather |
-| `nireku` | insect | Small essential creatures |
+| `nireku` | insect | the six-legged arthropod class across varied forms and ecological relations |
 | `niro` | web | Woven pattern |
 | `nirowe` | spider | an eight-legged arachnid across both web-building and non-web-building species |
 | `nitho` | north | The still point of the wheeling sky |
-| `nolika` | animal | Living beings with movement and awareness |
+| `nolika` | animal | the broad zoological category of animal life |
 | `nomira` | collect | collecting specimens or useful material from a living or physical setting |
+| `nophali` | pollen | reproductive grains produced by seed plants |
 | `norawhi` | dusk | the final fading of daylight around sunset |
 | `nowari` | planet | a nearly round world whose principal orbit is around a star |
 | `nowhu` | cave | a naturally formed chamber within earth or rock |
@@ -1473,37 +1472,39 @@
 | `nuora` | food | the gifts of earth that nourish us |
 | `nuphari` | fog | ground-level suspended droplets within local weather |
 | `nuri` | cycle | recurring courses in living and environmental systems |
+| `pakewu` | stem | the supporting plant axis that bears leaves and reproductive structures |
 | `panoru` | support | relations that allow organisms or ecological processes to continue |
 | `pareshi` | cliff | an exposed steep face of rock, earth, or ice |
 | `pekira` | toxic | potential biological effects on organisms or living groups |
-| `pelori` | bird | Aerial life |
-| `peloru` | flower | the blooming structure of plants |
+| `pelori` | bird | a feathered winged vertebrate, whether or not it flies |
+| `peloru` | flower | the reproductive structure of a flowering plant |
 | `pelowa` | meadow | open land dominated by grasses and other non-woody plants |
 | `pelui` | cold | low temperature in air, water, weather, or a season |
 | `perawi` | expose | an ecological relation among organisms, places, materials, and energy |
-| `perola` | rose | The layered garden flower |
+| `perola` | rose | a rose shrub or its flower, resolved by context |
 | `pesenu` | pollute | harmful change in ecological media, conditions, or use |
 | `peshiro` | infection | an infectious agent acting in relation to a host |
 | `phaluwe` | flood | an event involving rivers, coasts, rain, melt, drainage, or storage |
 | `pheluka` | lightning | an electrical discharge within storm weather |
 | `pheralu` | rain | liquid precipitation falling from clouds |
-| `phero` | fern | A vascular plant that reproduces through spores |
+| `phero` | fern | a spore-producing vascular plant commonly bearing fronds |
 | `phialu` | water | water across weather, waterways, soils, and living bodies |
-| `philea` | feather | Flight's fabric |
+| `philea` | feather | a keratin structure growing from a bird's skin |
 | `philima` | biodiversity | variation among living beings across one or more biological levels |
 | `philo` | day | the recurring light-and-dark cycle shaped by the sun |
 | `phiora` | spirit | Breath essence |
-| `phirali` | blossom | Plant flowering |
+| `phirali` | blossom | a flower, especially one associated with later fruit |
 | `phirenu` | snow | Frozen precipitation |
-| `phireo` | plant | Photosynthesizing rooted life |
-| `phiwapi` | butterfly | The garden's transformed flyer |
+| `phireo` | plant | the familiar living category containing trees, grasses, ferns, and flowering plants |
+| `phiwapi` | butterfly | an adult scaled-wing insect conventionally classified as a butterfly |
 | `phoemu` | midnight | the central station of the recurring dark span |
-| `pholui` | bamboo | Giant grass |
+| `pholui` | bamboo | a group of grasses with characteristically jointed stems |
 | `phuliro` | stream | a small natural watercourse within a landscape |
+| `phunelo` | sap | liquid carried or stored within a plant's vascular tissues |
 | `piloe` | spot | The dapple and the speckle |
-| `pilomu` | sycamore | The dappled street-and-river tree |
+| `pilomu` | sycamore | a tree locally or textually called sycamore |
 | `pisha` | split | seeds, branches, and other living forms opening or dividing |
-| `powea` | egg | Life's sealed beginning |
+| `powea` | egg | an animal reproductive structure in which an embryo may develop |
 | `pukea` | danger | The edge conditions of the living world |
 | `roena` | copper | Elemental metal |
 | `ronua` | south | The open expanse of the turning sky |
@@ -1515,17 +1516,17 @@
 | `sewaro` | transmit | movement of an infectious agent through a biological pathway |
 | `shaemu` | organic | Life-derived quality |
 | `shalu` | fish | aquatic animal life in fresh, brackish, or salt water |
-| `shalumi` | salmon | The returning river fish |
-| `shelira` | forest | Woodland ecosystem |
+| `shalumi` | salmon | fish species conventionally grouped as salmon across varied life cycles |
+| `shelira` | forest | a tree-shaped habitat and living community |
 | `sheloa` | bloom | flowering in a plant |
 | `shero` | night | the recurring span of darkness between dusk and dawn |
 | `shila` | winter | the cold, short-day portion of a temperate year |
 | `shioli` | silver | Precious metal |
-| `shiro` | tree | the great standing plants bridging earth and sky |
+| `shiro` | tree | a woody perennial plant with one or more enduring stems |
 | `shomelu` | shadow | a light-dependent dark region in an outdoor or indoor scene |
 | `shorenu` | immune | an organism's immune relation to an agent or outcome |
 | `shorupo` | protect | living beings or habitats guarded from a stated threat |
-| `shumu` | moss | Non-vascular plant |
+| `shumu` | moss | small non-vascular plants commonly forming mats or cushions |
 | `shupi` | plateau | a raised landform with a broadly level upper surface |
 | `sihewa` | breeze | a light movement of air within local weather |
 | `sileo` | silk | Insect fiber |
@@ -1538,7 +1539,7 @@
 | `suilo` | dew | water condensed onto exposed surfaces under local cooling |
 | `sukaro` | hot | weather or environmental heat that is strongly felt |
 | `sulae` | warm | moderate warmth in air, water, sunlight, or weather |
-| `suliwa` | snake | The flowing legless animal |
+| `suliwa` | snake | a limbless elongated reptile across varied species and habitats |
 | `sunai` | health | the condition of life-sustaining functions in an organism or living system |
 | `sunoe` | regenerate | regrowth or replenishment in a living system |
 | `talome` | restore | ecological work towards a selected reference condition |
@@ -1554,10 +1555,10 @@
 | `theluo` | steward | stewardship of land, water, habitats, or other ecological commons |
 | `thenari` | deer | a hoofed browsing or grazing mammal of the deer family |
 | `thenoki` | sustain | conditions that continue a living system |
-| `thepalu` | garden | spaces where human culture and natural processes interweave |
+| `thepalu` | garden | tended ground where plants and other life are deliberately supported |
 | `theriko` | frost | ice crystals formed on exposed surfaces under freezing conditions |
 | `thero` | fire | elemental force of transformation |
-| `thinoe` | seed | the reproductive kernel of plants |
+| `thinoe` | seed | a plant reproductive structure containing an embryo |
 | `thiwera` | scatter | seed, light, or organisms dispersed through a living place |
 | `thokaru` | volcano | a landform and vent produced by material rising from within a planetary body |
 | `thophe` | sow | seed entering the conditions in which a plant may grow |
@@ -1566,26 +1567,26 @@
 | `thumiro` | smoke | airborne material from wild or managed burning |
 | `thuroa` | grow | increase and development in organisms or populations |
 | `tiripe` | quiver | small repeated movement in leaves, flame, wings, or an animal's body |
-| `tokemi` | fungus | Decomposers and network beings |
+| `tokemi` | fungus | the fungal category across mushrooms, moulds, yeasts, and less visible forms |
 | `tomora` | mountain | a major natural elevation within a landscape |
 | `torua` | year | one complete recurrence of annual environmental change |
 | `tuleno` | frog | an amphibian whose adult form is tailless and adapted for jumping and swimming |
-| `tulira` | tail | The creature's trailing end |
-| `tumeki` | root | Underground plant structure |
-| `tupiwa` | rabbit | The meadow's jumper |
+| `tulira` | tail | the rear extension of an animal's body |
+| `tumeki` | root | a plant organ involved in anchoring, uptake, or storage |
+| `tupiwa` | rabbit | a long-eared mammal adapted for hopping |
 | `waero` | sky | the visible field in which weather and celestial bodies appear |
 | `waeshi` | wild | plants, animals, or habitats living outside cultivation or domestication |
 | `wapi` | fly | the ordinary flight of birds and wind-borne living material |
-| `wapile` | wing | Flight's limb |
-| `welamu` | elm | The tree of the riverside lane |
+| `wapile` | wing | a paired animal structure adapted for flight or aerodynamic control |
+| `welamu` | elm | an elm tree, with exact species supplied when needed |
 | `welathi` | contagious | an infectious agent's capacity to pass between living hosts |
 | `welira` | thrive | healthy development in an organism or population |
 | `welura` | spread | an organism or ecological occurrence extending through a place |
 | `wemo` | plain | a broad landform with little local relief |
-| `weoli` | reed | Wetland plant |
+| `weoli` | reed | a tall slender wet-ground or shallow-water plant |
 | `wheiru` | mist | fine droplets suspended close to land or water |
 | `whekelu` | magic | The world's unforced transforming |
-| `whelina` | grass | Ground-covering plant |
+| `whelina` | grass | grass plants or the ground cover they form |
 | `wheraku` | erode | a geomorphic process driven by water, wind, ice, gravity, organisms, or people |
 | `whesu` | blow | wind and atmospheric air moving through an environment |
 | `whunei` | breathe | respiration among living organisms in their surrounding medium |
@@ -1600,6 +1601,7 @@
 | `wolea` | wood | Tree material |
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 | `wosanu` | absorb | soil or a living body taking in water or another material |
+| `wotami` | shrub | a usually low woody plant with several stems near the ground |
 
 ## physical (428)
 
@@ -1633,7 +1635,6 @@
 | `huwa` | weak | limited capacity to exert or withstand force in the relevant situation |
 | `kaelo` | sweet | the taste associated with sugar, honey, and ripe fruit |
 | `kalei` | climb | bodily movement maintained through successive contact |
-| `kalora` | horse | The road's living engine |
 | `kanomi` | pelvis | the bony basin at the base of the trunk |
 | `kapura` | shout | a forceful vocal act produced through breath and voice |
 | `katemu` | offcut | a separated piece with its own dimensions and condition |
@@ -1654,6 +1655,7 @@
 | `kesiri` | shrink | decrease in bodily or material extent |
 | `kethua` | hard | resistance to indentation or deformation under pressure |
 | `ketumi` | hiccup | an involuntary diaphragmatic contraction followed by a brief throat closure |
+| `kewati` | thorn | a pointed plant structure that can catch or pierce |
 | `kiparu` | joint | a bodily articulation where firm parts meet and movement occurs |
 | `kiphira` | fault | an abnormal condition in a technical component or relation |
 | `kipona` | pain | pain experienced in or through the body |
@@ -1672,7 +1674,7 @@
 | `koma` | head | the upper body region containing the face and major sense organs |
 | `komalu` | pillow | a yielding support for the head or body |
 | `komeri` | forehead | the front region of the head above the eyes |
-| `koremu` | bark | Protective plant structure |
+| `koremu` | bark | a textured outer layer that can also be handled as material |
 | `korua` | heart | the muscular organ that pumps blood |
 | `kulai` | tooth | a hard oral structure used for biting and grinding food |
 | `kumoe` | stomach | the muscular digestive organ that holds, churns, and continues breaking down food |
@@ -1683,7 +1685,7 @@
 | `kureno` | wither | drooping and loss of firmness that may precede drying or death |
 | `kuri` | right | Side of the body |
 | `kuroi` | muscle | contractile tissue that moves or stabilises a body |
-| `kurona` | horn | Living solidity extended |
+| `kurona` | horn | a durable pointed or branching body structure |
 | `larewu` | liquid | matter that keeps roughly its volume while taking the shape of its container |
 | `lathoe` | tongue | the muscular organ used for taste and oral movement |
 | `lawe` | left | Side of the body |
@@ -1693,6 +1695,7 @@
 | `lima` | alive | the bodily distinction between being alive and having died |
 | `limu` | young | early bodily or organismal development |
 | `liona` | live | biological living as an activity or condition |
+| `lirowa` | leaf | a thin plant structure with varied shape and texture |
 | `lirupa` | bag | a soft-sided holder that changes shape around its contents |
 | `lisaku` | lick | surface contact made by the tongue |
 | `loa` | give | passing a material object into another person's use or keeping |
@@ -1702,7 +1705,7 @@
 | `lophani` | bottle | a portable holder for liquid |
 | `lopia` | child | the human developmental stage of childhood |
 | `lorea` | connect | objects joined through a material, tool, or fitted part |
-| `loremi` | branch | Living structure that holds and sways |
+| `loremi` | branch | a supporting plant structure that divides and reaches outward |
 | `lori` | vital | vigorous energy expressed by a living body |
 | `lorika` | blood | the fluid circulating through a living body |
 | `lorima` | build | joining material parts so that a structure stands or works |
@@ -1712,6 +1715,7 @@
 | `lupaki` | fold | repositioning material without separating it |
 | `lupho` | float | buoyant support within a fluid |
 | `luphonu` | boat | The built hull |
+| `lureko` | fruit | a plant structure handled as food, seed covering, or material |
 | `lurepa` | nutrient | a substance whose biological role depends on form, amount, and conditions |
 | `luroi` | nervous | bodily arousal that accompanies nervous anticipation |
 | `lushe` | hip | the outer region and joint where the upper leg meets the pelvis |
@@ -1732,7 +1736,7 @@
 | `milura` | milk | The drink before all others |
 | `mirae` | eye | the organ of sight |
 | `mirela` | state | the term can describe measurable material and operational conditions |
-| `mirulo` | berry | Fruit at its smallest |
+| `mirulo` | berry | a small fruit commonly gathered and eaten whole |
 | `moesha` | still | absence of movement at the relevant bodily or material scale |
 | `mokanu` | disease | a pattern or process affecting bodily health or function |
 | `mokathi` | faeces | material expelled from the digestive tract |
@@ -1743,7 +1747,6 @@
 | `molupa` | box | a holder that retains its shape when empty |
 | `monaki` | component | a part that may be material, though the term also permits informational and procedural components |
 | `mophi` | wool | a crimped insulating fiber that can be spun |
-| `mophira` | sheep | a woolly fleece on a living animal |
 | `morae` | sense | information received through one or more bodily senses |
 | `morashi` | relapse | return or worsening of a health condition after improvement |
 | `morilu` | wave | a disturbance that transfers energy through water |
@@ -1785,6 +1788,7 @@
 | `nomiki` | concentration | an amount of matter, organisms, or another agent per stated medium |
 | `nomira` | collect | bringing tangible objects into an accumulating group |
 | `nophae` | nose | the facial organ used for smell and breathing |
+| `nophali` | pollen | fine plant material moved by air, water, or living carriers |
 | `norapi` | waist | the middle trunk region between the lower ribs and hips |
 | `norelu` | form | matter acquiring an observable arrangement or boundary |
 | `norupe` | spoon | a small hollow carried at the end of a handle |
@@ -1803,6 +1807,7 @@
 | `nuwera` | bed | The household place of sleep |
 | `nuwesu` | mucus | a protective bodily fluid made by moist inner surfaces |
 | `nuwi` | clear | low visual obstruction in water, air, or another material |
+| `pakewu` | stem | a plant structure that supports growth and carries material |
 | `palethu` | tactile | touch used as the sensory channel |
 | `palo` | touch | bodily or material contact at a surface |
 | `paloi` | foot | the terminal part of the leg that supports standing and walking |
@@ -1820,7 +1825,6 @@
 | `pemaru` | hazard | a material, energy source, condition, or process capable of harm |
 | `penuwa` | page | one face of a leaf or a page-shaped display unit |
 | `perawi` | expose | contact through a route over a duration |
-| `perola` | rose | Thorned flowering shrub bloom |
 | `pesa` | push | outward force transmitted through direct contact |
 | `pesenu` | pollute | movement or presence of matter, organisms, or energy with harmful effects |
 | `peshiro` | infection | a biological process in or on a body |
@@ -1844,7 +1848,7 @@
 | `pheru` | endure | a body or made thing continuing under pressure, pain, or exposure |
 | `phesari` | flee | a person or animal moving their body away from danger |
 | `phialu` | water | a particular liquid substance |
-| `philea` | feather | The lightest made thing |
+| `philea` | feather | a light branching structure serving flight, insulation, display, or sensing |
 | `phimei` | lip | one of the soft folds at the edge of the mouth |
 | `phimela` | kiss | contact made by placing the lips against someone or something |
 | `phisuri` | sample | a material, organism, place, or record portion taken for examination |
@@ -1852,18 +1856,18 @@
 | `phora` | sail | cloth or another surface placed in moving air |
 | `phowe` | share | making a material thing available to several users |
 | `phulae` | mouth | the opening and cavity used for eating, drinking, breathing, and speech |
+| `phunelo` | sap | a plant liquid whose composition and movement vary |
 | `phurewa` | sweep | surface cleaning through bristle contact |
 | `phurilo` | broom | bristles moving loose material across a surface |
 | `phuwai` | lung | one of the paired organs that exchange gases between air and blood |
 | `piloe` | spot | One small patch of color |
-| `pilomu` | sycamore | Tall broad-leaved shade tree |
 | `pilu` | take | taking hold of a person or material object |
 | `pina` | sew | thread passing through material to hold it together |
 | `pisha` | split | one body or route separating into multiple parts |
 | `ponalu` | size | the overall extent of a physical thing |
 | `porewi` | side effect | a bodily effect beyond an intervention's stated target |
 | `pothu` | stink | a strong odour emitted from a source and received through the nose |
-| `powea` | egg | The round self-contained case |
+| `powea` | egg | a protected structure that may contain nourishment and a developing embryo |
 | `pukate` | break | complete loss of wholeness in an object or material |
 | `pukea` | danger | The nearness of possible harm |
 | `pukeri` | damage | adverse change to the condition or function of a tangible thing |
@@ -1901,7 +1905,6 @@
 | `seroli` | mature | ripeness or full bodily development |
 | `sewaro` | transmit | passage between hosts, reservoirs, or environments |
 | `shalu` | fish | an animal body typically shaped for movement through water |
-| `shalumi` | salmon | Silver-bodied swimmer of clean waters |
 | `shapelu` | throat | the internal region behind the mouth used in breathing and swallowing |
 | `shelu` | book | tangible objects that can be held, carried, and preserved |
 | `shena` | calm | low turbulence in water or breath |
@@ -1915,6 +1918,7 @@
 | `shorui` | weary | bodily depletion after effort, wakefulness, strain, or illness |
 | `shorupo` | protect | a body, place, or object shielded through a practical measure |
 | `shumeko` | sticky | a material or surface that adheres on contact and resists easy separation |
+| `shumu` | moss | a low, often yielding plant cover on soil, stone, bark, or other surfaces |
 | `shuneki` | vaccinate | an intervention intended to induce bodily protection |
 | `shurano` | safe | a body, path, object, or action assessed as sufficiently protected from relevant harm |
 | `sihewa` | breeze | moving air felt gently against a surface or body |
@@ -1928,7 +1932,6 @@
 | `sukaro` | hot | high temperature strongly felt through contact or surrounding air |
 | `sukima` | fear | the bodily tightening and arousal of fear |
 | `sulae` | warm | a readily felt temperature above cool and below hot |
-| `suliwa` | snake | Motion as pure curve |
 | `sulopa` | soup | Warm water and patience |
 | `suloru` | fever | an elevated bodily temperature state |
 | `sunai` | health | the condition of a living body in its relevant context |
@@ -1951,7 +1954,6 @@
 | `thekamu` | intervene | an action on a body, health state, or bodily environment |
 | `thelai` | balm | External comfort |
 | `thena` | thing | objects and matters in general |
-| `thepalu` | garden | tangible spaces involving soil, plants, and physical cultivation |
 | `thephaku` | inflammation | a local or systemic bodily response pattern |
 | `therapi` | boil | a liquid state with continuous rising bubbles |
 | `theriko` | frost | a thin crystalline deposit of frozen water |
@@ -1984,14 +1986,14 @@
 | `towe` | well | a present report that one's bodily condition is good |
 | `tukelu` | recycle | a material process with inputs, outputs, losses, and changed properties |
 | `tuko` | sour | gustatory acidity such as citrus or vinegar |
-| `tulira` | tail | Anatomy past the body |
+| `tulira` | tail | a body structure used in varied forms of movement, balance, or signalling |
+| `tumeki` | root | a branching structure often extending through soil or another medium |
 | `tumoa` | heavy | weight that requires substantial force to move or support |
 | `tupeka` | burden | a weight supported by a living body |
 | `tupi` | jump | the body's push away from a supporting surface |
-| `tupiwa` | rabbit | Softness at speed |
 | `wapho` | throw | propulsion followed by unsupported movement |
 | `wapi` | fly | a body held aloft without surface support |
-| `wapile` | wing | The bird's instrument |
+| `wapile` | wing | a body structure that produces lift or controls movement through air |
 | `weilo` | balanced | equilibrium among weights or forces |
 | `welathi` | contagious | transmission potential under stated bodily or environmental conditions |
 | `welira` | thrive | a living body's health across development |
@@ -2010,7 +2012,7 @@
 | `whano` | stand | upright bodily posture or object orientation |
 | `wheiru` | mist | a light airborne water suspension with limited obscuring effect |
 | `whekaro` | adverse effect | a harmful or burdensome bodily effect |
-| `whelina` | grass | Low-growing vegetation |
+| `whelina` | grass | a low plant cover made from many narrow leaves and stems |
 | `whemaki` | allergy | an immune-mediated bodily response to an agent |
 | `whemori` | waste | material or energy lacking further intended use in its present relation |
 | `wheraku` | erode | transport of soil, sediment, or rock from a surface |
@@ -2072,13 +2074,12 @@
 | `whoa` | whole | all relevant parts included in the total under discussion |
 | `wi` | two | the exact quantity two and the coefficient two in ternary numerals |
 
-## ritual (27)
+## ritual (26)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `holia` | festival | Celebration gathering |
 | `keluro` | honor | formal or repeated acts of honour |
-| `koshira` | grove | Sacred tree-space |
 | `kowela` | council | creates sacred space through formal deliberation processes |
 | `lopha` | vessel | Sacred receptacle |
 | `lumeo` | die | the event named in mourning and death ceremonies |
@@ -2104,7 +2105,7 @@
 | `thunepa` | sacred place | Place of reverence |
 | `whunei` | breathe | breath used as an observable object in meditation practice |
 
-## spatial (174)
+## spatial (177)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2127,6 +2128,7 @@
 | `komalu` | pillow | a small support placed within a resting place |
 | `kopharu` | barrier | a physical obstruction in a route or place |
 | `kosha` | field | a bounded working area within a wider landscape |
+| `koshira` | grove | a bounded or recognisable cluster of trees |
 | `kulo` | guide | direction offered along a physical or conceptual path |
 | `kupe` | hide | concealment produced through position, cover, or enclosure |
 | `kuri` | right | Body-relative direction |
@@ -2221,6 +2223,7 @@
 | `selu` | flow | a current following a channel or pathway |
 | `seluto` | pour | movement from a source container toward a destination |
 | `sepho` | send | caused movement from the sender towards a recipient or place |
+| `shelira` | forest | an area understood through its wooded character |
 | `sheraki` | search | looking through places or along a route for a person or thing |
 | `shoeka` | route | Course of travel |
 | `shomelu` | shadow | the region from which an object excludes a light source |
@@ -2244,7 +2247,7 @@
 | `thelomi` | lake | water contained within a surrounding area of land |
 | `thelui` | sanctuary | Sacred refuge |
 | `thenui` | direct | a route that reaches its destination without an intervening detour |
-| `thepalu` | garden | defined location transformed through intentional relationship with land |
+| `thepalu` | garden | a place identified by ongoing cultivation or care |
 | `theru` | thick | a relatively large distance between opposing surfaces or across a cross-section |
 | `thiku` | small | limited extent considered as a whole rather than along one axis |
 | `thinu` | put | establishing a stated location or arrangement |
@@ -2281,9 +2284,10 @@
 | `wishe` | swim | a route within a body of water |
 | `womu` | home | a dwelling understood as home rather than location alone |
 | `womuri` | household | daily life organized around a dwelling |
+| `wotami` | shrub | a woody growth form occupying the layer below or beside trees |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (162)
+## temporal (160)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2319,8 +2323,7 @@
 | `liloni` | population | a living group described for a stated time or period |
 | `limu` | young | a position near the beginning of a life or developmental course |
 | `liona` | live | a life continuing through a stated span |
-| `lioru` | life | Living duration |
-| `lirowa` | leaf | Seasonal cycle marker |
+| `lioru` | life | a life considered as a course through time |
 | `lopia` | child | an early span within a person's life |
 | `lorui` | afternoon | daylight after midday and before evening |
 | `luera` | past | earlier time made available as a subject of memory, record, or thought |
@@ -2373,7 +2376,6 @@
 | `pheomu` | leftovers | food carried beyond the meal that first served it |
 | `pheru` | endure | continuation through a difficult interval |
 | `philo` | day | a daylight span or one complete daily cycle |
-| `phirali` | blossom | Emergence into beauty |
 | `phirenu` | snow | Winter's presence |
 | `phoemu` | midnight | the deep-night station between nightfall and dawn |
 | `pholeni` | depart | the bounded beginning of an absence or journey |
@@ -2423,7 +2425,7 @@
 | `thimelo` | pace | movement distributed through time |
 | `thimora` | schedule | planned relations among times and stages |
 | `thimu` | time | duration and the temporal setting of events and change |
-| `thinoe` | seed | the present form of future growth |
+| `thinoe` | seed | a dormant or developing beginning carried across seasons |
 | `thiranu` | maintain | attention repeated between failures |
 | `thole` | practice | an action developed through return across occasions |
 | `tholua` | ancient | existence or origin in a past far beyond ordinary age |
@@ -2450,7 +2452,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (75)
+## wisdom (73)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2489,7 +2491,6 @@
 | `phenui` | thoughtful | reflection on likely effects before action |
 | `phewo` | sage | Insight earned through living |
 | `phiwheki` | counterexample | attention to particulars that require a broad rule to be revised |
-| `pholui` | bamboo | Flexible strength |
 | `phue` | wise | practical and reflective understanding applied to what matters |
 | `porua` | purpose | Meaningful direction |
 | `relua` | mirror | Self-seeing |
@@ -2525,7 +2526,6 @@
 | `thuni` | intuitive | immediate judgement that may draw on experience and still remains open to checking |
 | `tisu` | needle | Precise craft |
 | `tolu` | staff | Journey companion |
-| `tumeki` | root | Foundation and origin |
 | `welao` | good | a contextual favourable judgement whose grounds remain open to examination |
 | `weloni` | body | the whole body as an object of sustained contemplative attention |
 | `whamoi` | doubt | recognition that judgment may remain open while inquiry continues |

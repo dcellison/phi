@@ -8,17 +8,24 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Flower / Bloom-Gift / The Opening Beauty",
-  "description": "The noun naming the reproductive structure of flowering plants, understood in Phi as nature's generous display of beauty. Flowers embody the principle of giving without expectation—offering color, scent, and sweetness to the world. This word names the ephemeral beauty that exists not for itself but for connection, pollination, and the continuation of life.",
-  "sound_symbolism": "The word opens with 'pe', where the soft labial 'p' begins with gentle opening while 'e' clarifies the emergence. This flows through 'lo', where the liquid spreads petals outward in the characteristic unfolding motion. The final 'ru' rolls with life force while 'u' settles into the flower's round, centered presence. The arc traces flowering: emergence, opening, presence.",
-  "grammatical_notes": "Functions as a noun: 'peloru' (flower), 'lo peloru' (flowers). Combines with color words: 'rulo peloru' (red flower). Under the nature-now rule, a counted flower may take optional 'lipha' while attached and alive or optional 'themo' once cut and treated as an object: 'wi lipha peloru' (two living flowers). Often appears in contexts of beauty, gift-giving, seasons, and ephemeral presence.",
+  "search_terms": [
+    "bloom",
+    "flowering structure"
+  ],
+  "description": "The reproductive structure of a flowering plant is 'peloru', often carrying petals, scent, nectar, or pollen. Some flowers are small, dull, or nearly scentless. 'phirali' (blossom) selects a flower associated especially with a tree or later fruit.",
+  "articulatory_notes": "A brief unvoiced lip closure releases into front 'e'. The tongue touches the alveolar ridge for stressed lateral 'lo', then taps or briefly trills before high-back rounded 'u'.",
+  "usage_notes": "A colour or other descriptor comes first, as in 'rulo peloru' (red flower). The registered compound 'peloru lirowa' names a petal by its leaf-like place within the flower.",
+  "examples": [
+    {
+      "phi": "rulo peloru mua thepalu thuroa.",
+      "translation": "A red flower grows in the garden."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Flowers represent biodiversity, pollinator health, and ecological beauty. 'Peloru' names what sustainable futures must protect.",
-    "art-nouveau-aesthetics": "Flowers are central to Art Nouveau's organic forms—the iris, lily, and rose as templates for beauty. 'Peloru' names the natural form that art celebrates.",
-    "pre-industrial-wisdom": "Flowers marked seasons, announced spring, and served as medicine, dye, and food. 'Peloru' honors the flower as teacher and gift."
+    "art-nouveau-aesthetics": "Flowers offer observed structures for pattern, line, and colour without requiring the artwork to copy one species. The word keeps the living referent available beside its use in design."
   },
   "semantic_domains": {
-    "aesthetic": "embodiment of natural beauty",
-    "nature": "the blooming structure of plants"
+    "aesthetic": "a recurring source of colour, scent, form, and ornament",
+    "nature": "the reproductive structure of a flowering plant"
   }
 }

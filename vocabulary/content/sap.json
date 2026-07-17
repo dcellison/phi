@@ -1,0 +1,30 @@
+{
+  "word": "phunelo",
+  "gloss": "sap",
+  "ipa": "/ɸu.ˈn̪e̞.lo̞/",
+  "syllables": [
+    "phu",
+    "ne",
+    "lo"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "plant sap",
+    "vascular fluid"
+  ],
+  "description": "The liquid carried or stored within a plant's vascular tissues is 'phunelo'. Tissue, species, and season change both its composition and its course. 'larewu' (liquid) is the wider phase word; fruit juice and resin are different materials.",
+  "articulatory_notes": "Unvoiced air slips between nearly closed lips for 'ph' and moves into high-back rounded 'u'. Dental nasal 'n' carries voice into stressed front 'e'; lateral 'l' then releases into final rounded 'o'.",
+  "examples": [
+    {
+      "phi": "phunelo mua shiro selu.",
+      "translation": "Sap flows through the tree."
+    }
+  ],
+  "pillars": {
+    "pre-industrial-wisdom": "Sap flow can guide the timing of tapping, grafting, and other plant work. That knowledge belongs to a species, place, and season rather than to one universal calendar date."
+  },
+  "semantic_domains": {
+    "nature": "liquid carried or stored within a plant's vascular tissues",
+    "physical": "a plant liquid whose composition and movement vary"
+  }
+}

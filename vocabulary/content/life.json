@@ -8,16 +8,24 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Life / Living Force / Animate Existence",
-  "description": "The animate quality that distinguishes living beings from inanimate matter; the force that flows through all creatures and quickens them. 'Lioru' names the difference between breathing and still.",
-  "sound_symbolism": "The word flows with vitality. 'Li' lifts with light energy, life rising. 'O' opens with breathing fullness. Then 'ru' runs with continuing movement, life persisting.",
-  "grammatical_notes": "Functions as noun: 'lioru thaemo nai.' (Life is precious.) The force animating 'miona' (person) and 'nolika' (animal). Partnered with 'lima' (alive) and 'liona' (live) in the li- family.",
+  "search_terms": [
+    "living condition",
+    "lifetime"
+  ],
+  "description": "The condition and course of being alive are 'lioru'. The word stays with life as lived rather than positing an unseen essence. 'lima' (alive) states a condition, while 'liona' (live) presents the activity or way of dwelling.",
+  "articulatory_notes": "The tongue touches the alveolar ridge for lateral 'l' and opens into high-front 'i'. Stressed rounded 'o' stands alone across the first hiatus; a tap or brief trill then leads into high-back rounded 'u'.",
+  "sound_symbolism": "The opening 'li' is shared deliberately with 'lima' (alive) and 'liona' (live). All three begin on the same lateral and high vowel, which keeps the family audible.",
+  "examples": [
+    {
+      "phi": "lioru thaemo nai.",
+      "translation": "Life is precious."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Life as interconnected web—all beings part of living systems, none separate.",
-    "secular-buddhist-philosophy": "Life as precious—this human birth, rare and fleeting, to be honored."
+    "secular-buddhist-philosophy": "Attention to a finite life can deepen care without requiring agreement about a soul or life force. The noun stays with the life that can be encountered and affected."
   },
   "semantic_domains": {
-    "nature": "Animating force",
-    "temporal": "Living duration"
+    "nature": "the condition shared by living beings",
+    "temporal": "a life considered as a course through time"
   }
 }

@@ -8,16 +8,17 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Bamboo / Flexible Grass / Building Reed",
-  "description": "A giant woody grass with hollow stems; the fastest growing plant, strong yet flexible. 'Pholui' names what bends without breaking—strength through yielding.",
-  "sound_symbolism": "The word bends rising. 'Pho' /ɸo/ breathes with hollow flexibility, stem bending. 'Lu' rises with rapid growth. Then 'i' springs back upright.",
-  "grammatical_notes": "Functions as noun: 'lo pholui' (bamboo plants). Grass, not tree—compare 'whelina' (grass) and 'shiro' (tree). Used for building, crafts, food, and paper.",
-  "pillars": {
-    "solarpunk-values": "Fastest renewable—bamboo regrows quickly, sequesters carbon, replaces slow-growth timber.",
-    "secular-buddhist-philosophy": "Bamboo as teacher—bending with wind, yielding without breaking, the wisdom of flexibility."
-  },
+  "description": "'pholui' covers bamboo, the grasses with characteristically jointed stems that are often woody and hollow. Some spread close to the ground; others rise above a house. 'whelina' (grass) is the wider everyday kind, while 'shiro' (tree) names a different growth form.",
+  "articulatory_notes": "Nearly closed lips shape unvoiced 'ph' before rounded 'o'. The tongue touches the alveolar ridge for stressed lateral 'lu', then lifts and unrounds into a separate final 'i' after the hiatus.",
+  "usage_notes": "A count can use optional 'lipha' while the bamboo is living. Cut stems used for food, paper, building, or craft take the classification that fits their present handling.",
+  "examples": [
+    {
+      "phi": "pholui pakewu whemoa nai.",
+      "translation": "The bamboo stem is hollow."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Giant grass",
-    "wisdom": "Flexible strength"
+    "creation": "a plant used for food, fibre, paper, tools, and building material",
+    "nature": "a group of grasses with characteristically jointed stems"
   }
 }

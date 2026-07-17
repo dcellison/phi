@@ -1,0 +1,28 @@
+{
+  "word": "wotami",
+  "gloss": "shrub",
+  "ipa": "/wo̞.ˈt̪ä.mi/",
+  "syllables": [
+    "wo",
+    "ta",
+    "mi"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "bush",
+    "woody bush"
+  ],
+  "description": "Usually lower than a tree and rising on several woody stems, a plant of this form is 'wotami'. Species, climate, and local practice blur its boundary with 'shiro' (tree), so no universal height decides the word.",
+  "articulatory_notes": "Rounded lips carry voiced 'w' directly into back 'o'. Stressed dental 'ta' puts the tongue tip behind the upper teeth; the lips then meet for nasal 'm' and reopen onto high-front 'i'.",
+  "usage_notes": "'lo wotami' names shrubs generally. Registered 'wotami sholei' is a thicket or close gathering of shrubs when their collective growth matters.",
+  "examples": [
+    {
+      "phi": "wotami mua thepalu thuroa.",
+      "translation": "A shrub grows in the garden."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "a usually low woody plant with several stems near the ground",
+    "spatial": "a woody growth form occupying the layer below or beside trees"
+  }
+}

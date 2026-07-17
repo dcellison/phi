@@ -8,16 +8,21 @@
     "ki"
   ],
   "pos": "noun",
-  "concept": "Root / Underground Anchor / Foundation",
-  "description": "The underground part of a plant that anchors it and absorbs water and nutrients. 'Tumeki' names the hidden half of plant life—the reaching fingers that grip earth, drink from soil, and connect through underground networks.",
-  "sound_symbolism": "The word grounds itself firmly. 'Tu' begins with dental anchor, the initial grip. Then 'me' embeds in earth, nasal depth. Finally 'ki' grips with velar hold, the root securing itself.",
-  "grammatical_notes": "Noun: 'lo tumeki' (roots). Under the nature-now rule, a counted root may take optional 'lipha' while attached to a living plant and optional 'themo' once detached and treated as an object. Taking root is growing: 'lo tumeki thuroa.' (The roots grow.) Used metaphorically for origins, foundations, and deep connections.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Roots teach hidden support—what sustains us often works unseen, and true stability comes from depth rather than display.",
-    "pre-industrial-wisdom": "Traditional knowledge recognized roots as medicine, food, and the key to plant health—the hidden half that determines the visible."
-  },
+  "search_terms": [
+    "plant root",
+    "root system"
+  ],
+  "description": "Anchoring, uptake, and storage are the common work of a plant's 'tumeki'. Roots often grow underground, though their structure defines them more reliably than location. 'pakewu' (stem) supports leaves and flowers; a botanical account can handle the structures between the two.",
+  "articulatory_notes": "Dental 't' releases from behind the upper teeth into high-back rounded 'u'. The lips meet for nasal 'm' before stressed front 'e'; the back of the tongue then closes for 'k' and releases into high-front 'i'.",
+  "usage_notes": "The plural 'lo tumeki' can name one plant's root system or roots from several plants, as context decides. Figurative use for an origin or underlying cause should remain clear from the surrounding clause.",
+  "examples": [
+    {
+      "phi": "lo tumeki mua muila thuroa.",
+      "translation": "Roots grow through the soil."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Underground plant structure",
-    "wisdom": "Foundation and origin"
+    "nature": "a plant organ involved in anchoring, uptake, or storage",
+    "physical": "a branching structure often extending through soil or another medium"
   }
 }

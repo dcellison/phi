@@ -8,15 +8,17 @@
     "wa"
   ],
   "pos": "noun",
-  "concept": "Rabbit / The Jumper",
-  "description": "The rabbit: the soft quick animal of meadow and garden edge, wild or kept. Built on 'tupi' (jump) — the jumper, opened wide by 'wa' — so the animal is named by its signature motion, as 'mophira' is named by its wool. A counted rabbit may take optional 'lipha'.",
-  "sound_symbolism": "'tupi' springs and 'wa' lands it open — the word performs one hop. All light sounds; nothing in it heavier than the animal.",
-  "grammatical_notes": "Noun: 'tupiwa mua whelina tupi.' (The rabbit jumps in the grass.) 'wi waeshi tupiwa' (two wild rabbits). The Velveteen Rabbit text is its first home, and 'waeshi tupiwa' (wild rabbit) its standing contrast.",
-  "pillars": {
-    "pre-industrial-wisdom": "The hedgerow neighbor every garden knew: quick to raid, quick to vanish, the wild's small ambassador at the edge of the tended world."
-  },
+  "description": "Long ears and strong hind legs adapted for hopping mark a 'tupiwa', a rabbit. The word covers wild, feral, and domestic animals until a narrower kind matters. 'nolika' (animal) is the wider class.",
+  "articulatory_notes": "Dental 't' releases from behind the upper teeth into high-back rounded 'u'. The lips meet for stressed 'pi', then round into voiced 'w' and open onto final 'a'.",
+  "sound_symbolism": "The opening reproduces 'tupi' (jump). Added final 'wa' opens the form after the motion word and helps the animal and its familiar hop stay paired in memory.",
+  "usage_notes": "Counts can insert optional 'lipha'. 'waeshi tupiwa' specifies a wild rabbit.",
+  "examples": [
+    {
+      "phi": "tupiwa mua whelina tupi.",
+      "translation": "The rabbit jumps in the grass."
+    }
+  ],
   "semantic_domains": {
-    "nature": "The meadow's jumper",
-    "physical": "Softness at speed"
+    "nature": "a long-eared mammal adapted for hopping"
   }
 }

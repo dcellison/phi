@@ -1,0 +1,27 @@
+{
+  "word": "kewati",
+  "gloss": "thorn",
+  "ipa": "/ke̞.ˈwä.t̪i/",
+  "syllables": [
+    "ke",
+    "wa",
+    "ti"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "plant spine",
+    "prickle"
+  ],
+  "description": "A stiff sharp point growing from a plant's stem, branch, or leaf is 'kewati'. Everyday use can cross the botanical lines among thorns, spines, and prickles; a field guide can restore the finer distinction. 'tiso' (sharp) supplies the quality, not the structure.",
+  "articulatory_notes": "A brief closure at the soft palate releases 'ke'. The lips round for voiced 'w' and open into stressed 'a'; dental 't' then closes behind the upper teeth and releases into high-front 'i'.",
+  "examples": [
+    {
+      "phi": "perola kewati phelu.",
+      "translation": "A rose has thorns."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "a stiff sharp point growing from a plant structure",
+    "physical": "a pointed plant structure that can catch or pierce"
+  }
+}
