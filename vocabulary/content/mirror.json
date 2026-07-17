@@ -8,16 +8,20 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Mirror / Reflecting Surface / To Reflect",
-  "description": "A surface that reflects light to show images; to reflect or show back. 'Relua' names what shows truth—the surface that returns your gaze.",
-  "sound_symbolism": "The word reflects back. 'Re' returns in reflection, image appearing. 'Lu' glows with light, surface bright. Then 'a' opens to truth revealed.",
-  "grammatical_notes": "Noun: 'relua' (the mirror), for self-seeing and truth-showing. Reflecting has its own verb: 'themio' - 'mia themio.' (I reflect.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "Mirror as teacher—reflection shows what we don't normally see, honest feedback.",
-    "art-nouveau-aesthetics": "Truth in reflection—the mirror reveals nature as it is, unfiltered beauty."
-  },
+  "search_terms": [
+    "reflecting surface",
+    "looking glass"
+  ],
+  "description": "A recognisable image returns from 'relua', an object or prepared surface that reflects enough light to show it. That practical reflection, not glass alone, defines a mirror. 'themio' (reflect) concerns returning to an experience in thought and does not name the optical process.",
+  "articulatory_notes": "Tap the tongue tip briefly at the alveolar ridge for 'r' and move into mid-front 'e'. Touch the ridge for lateral 'l', release into stressed high-back rounded 'u', then open and unround into a distinct final 'a' across the hiatus.",
+  "usage_notes": "Water, polished metal, and glass may all act as mirrors when the reflected image is the point. Exact optical properties can remain with their source account.",
+  "examples": [
+    {
+      "phi": "relua mua moru nai.",
+      "translation": "The mirror is on the wall."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Reflecting surface",
-    "wisdom": "Self-seeing"
+    "physical": "an object or surface prepared to return a visible image"
   }
 }

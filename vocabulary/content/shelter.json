@@ -8,16 +8,25 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Shelter / Protection from Elements / Refuge",
-  "description": "A place giving temporary protection from bad weather or danger; to provide such protection. 'Shuroa' names the protective space—roof over head, walls against wind, safety from exposure.",
-  "sound_symbolism": "The word covers and protects. 'Shu' /ʃu/ begins with soft enclosure, protection forming. 'Ro' surrounds steadily. Finally 'a' opens to safety within, shelter complete.",
-  "grammatical_notes": "Noun: 'mia mua shuroa manolu.' (I stay in the shelter.) Sheltering someone is protecting them: 'mia thia shorupo.' (I protect you.) Related to 'womu' (home) but emphasizes protection rather than belonging; joins 'shurano' (safe) in the safety family.",
+  "search_terms": [
+    "refuge",
+    "protective structure"
+  ],
+  "description": "'shuroa' is a place or structure that reduces exposure to weather or another immediate physical danger. Shelters may be temporary, shared, open-sided, or mobile. 'womu' (home) adds dwelling and return; shelter alone says nothing about ownership or safety.",
+  "articulatory_notes": "Raise the front of the tongue towards the postalveolar region for unvoiced 'sh' and let the air pass into high-back rounded 'u'. Tap 'r' at the alveolar ridge into stressed rounded mid-back 'o', then keep final open 'a' distinct across the hiatus.",
+  "usage_notes": "A useful account identifies the danger and the people served, then describes access conditions. Calling a place shelter does not prove that everyone can enter or remain there.",
+  "examples": [
+    {
+      "phi": "mia mua shuroa manolu.",
+      "translation": "I stay in the shelter."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Shelter enables other needs—without safety and protection, higher concerns cannot be addressed.",
-    "pre-industrial-wisdom": "Shelter was first necessity—protection from elements before all other concerns."
+    "solarpunk-values": "Shelter is a material relation between people, place, weather, and shared provision. Ownership and permanence stay open so a community can ask who is protected and under what conditions."
   },
   "semantic_domains": {
-    "community": "Refuge",
-    "spatial": "Protective space"
+    "community": "a place that may be provided or shared for protection",
+    "physical": "a structure or cover that reduces physical exposure",
+    "spatial": "a place entered or occupied for protection"
   }
 }

@@ -7,16 +7,21 @@
     "ma"
   ],
   "pos": "noun",
-  "concept": "Lamp / Light Source / Illuminating Device",
-  "description": "A device for giving light; a source of illumination. 'Luma' names what brings light—the steady glow that extends day into darkness.",
-  "sound_symbolism": "The word glows steady. 'Lu' shines with warm light, illumination spreading. Then 'ma' grounds with stable presence, lamp reliable.",
-  "grammatical_notes": "Functions as noun: 'luma' (the lamp). General term for light sources. Related to 'philu' (candle) and 'lumoi' (lantern).",
-  "pillars": {
-    "solarpunk-values": "Light enabling life—sustainable illumination extending productive hours, knowledge shared after dark.",
-    "secular-buddhist-philosophy": "Lamp as metaphor—inner light of awareness illuminating confusion, wisdom dispelling ignorance."
-  },
+  "search_terms": [
+    "light source"
+  ],
+  "description": "'luma' is a made object whose ordinary purpose is to provide light. The energy may come from oil, electricity, or another source. 'philu' (candle) consumes a wick-set body of fuel; 'lumoi' (lantern) is a portable lamp whose light is protected or enclosed.",
+  "articulatory_notes": "Place the tongue tip at the alveolar ridge for voiced lateral 'l' and release into stressed high-back rounded 'u'. Close both lips for voiced nasal 'm', then open into final 'a'.",
+  "sound_symbolism": "The opening 'lu' continues in 'lumoi' (lantern), giving Phi's two lamp words an audible family resemblance. The compact fall into final 'a' makes the general word feel settled rather than directional.",
+  "usage_notes": "A directional torch or flashlight can be described as a lamp with the relevant shape, beam, or device features. Exact electrical and safety information remains with its source.",
+  "examples": [
+    {
+      "phi": "luma keru loa.",
+      "translation": "The lamp gives brightness."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Light source",
-    "wisdom": "Illumination"
+    "creation": "a made object designed to provide light",
+    "physical": "a light source with a material body and energy supply"
   }
 }

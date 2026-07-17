@@ -8,16 +8,21 @@
     "pa"
   ],
   "pos": "noun",
-  "concept": "Table / The Meal's Flat",
-  "description": "The table: the flat surface the household gathers at. Built with the 'wo' of 'wolea' (wood) settling onto flat 'pa'. Meals, work, and talk all land here; it is the most social piece of wood in the house.",
-  "sound_symbolism": "'wo' carries the wood it is made of, 'ne' levels it, and 'pa' is the flat it offers. The stresses sit low and steady, like the thing.",
-  "grammatical_notes": "Noun: 'miona wonepa pilewa.' (The person makes a table.) 'nuora mua wonepa nai.' (The food is on the table.)",
-  "pillars": {
-    "peace-linguistics-practices": "The table is where the household faces itself daily. Most of a family's peace is negotiated across one.",
-    "pre-industrial-wisdom": "The board and trestle outlived every generation that ate at it. Households were counted by their table as much as by their roof."
-  },
+  "search_terms": [
+    "dining table",
+    "work table"
+  ],
+  "description": "Meals and work can gather around 'wonepa', a supported, mostly flat surface arranged for use or for placing objects. Tables may be high or low and made from any suitable material. 'meipa' (seat) supports a sitting body; a table supports the activity or objects before that body.",
+  "articulatory_notes": "Round the lips for voiced 'w' and move into mid-back 'o'. Place the tongue tip at the upper teeth for voiced dental nasal 'n', release into stressed mid-front 'e', then close both lips for unvoiced 'p' and finish on open 'a'.",
+  "usage_notes": "The noun refers to furniture or a comparable physical work surface. A tabular 'sirami' (record) retains its source layout when that arrangement carries data.",
+  "examples": [
+    {
+      "phi": "nuora mua wonepa nai.",
+      "translation": "Food is on the table."
+    }
+  ],
   "semantic_domains": {
-    "community": "Where the meal gathers",
-    "physical": "The social flat of the house"
+    "activity": "a shared or individual surface arranged for meals, work, or meeting",
+    "physical": "a supported flat surface that holds objects during use"
   }
 }

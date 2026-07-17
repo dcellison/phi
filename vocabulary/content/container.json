@@ -7,16 +7,21 @@
     "lu"
   ],
   "pos": "noun",
-  "concept": "Container / Receptacle / Holder",
-  "description": "An object used for holding or transporting something; a receptacle. 'Molu' names what holds and protects—the space shaped to receive.",
-  "sound_symbolism": "The word holds gently. 'Mo' grounds with stable presence, foundation set. Then 'lu' curves inward to receive, container ready.",
-  "grammatical_notes": "Functions as noun: 'molu' (the container). General term—'lopha' (vessel), 'wiru' (basket), 'tomi' (pot) are specific types.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Holding without grasping—the container receives without possessing.",
-    "pre-industrial-wisdom": "Vessels sustained life—storing grain, carrying water, preserving what sustains."
-  },
+  "search_terms": [
+    "receptacle",
+    "holder"
+  ],
+  "description": "When the exact design does not matter, 'molu' refers to an object used to receive, hold, store, or carry contents. It includes boxes, bags, bottles, pots, and many other forms. 'lopha' (vessel) selects a formed hollow receptacle, especially one holding a substance; Household words distinguish narrower designs.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm' and open into stressed mid-back rounded 'o'. Place the tongue tip at the alveolar ridge for lateral 'l', then raise the back of the tongue and keep the lips rounded for 'u'.",
+  "usage_notes": "The contents can precede the container when a stable compound or context needs them. Capacity and closure may matter; material and safe use can be stated alongside them.",
+  "examples": [
+    {
+      "phi": "ha molu whemoa nai.",
+      "translation": "This container is empty."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Receptacle",
-    "physical": "Holding space"
+    "physical": "an object used to hold, store, or carry contents",
+    "spatial": "a bounded interior considered in relation to what it contains"
   }
 }

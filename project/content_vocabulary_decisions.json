@@ -49,6 +49,7 @@
     {"id": "landscape-waters-sky-and-weather", "heading": "Landscape, waters, sky, and weather", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-LAND-01", "CV-LAND-02", "CV-WATER-01", "CV-WATER-02", "CV-SKY-01", "CV-SKY-02", "CV-WEATHER-01", "CV-LAND-03", "CV-SKY-03"]},
     {"id": "plants-animals-and-living-world", "heading": "Plants, animals, and the living world", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-LIFE-01", "CV-PLANT-01", "CV-PLANT-02", "CV-PLANT-03", "CV-ANIMAL-02", "CV-ANIMAL-03", "CV-REPRO-01", "CV-CULT-01"]},
     {"id": "materials-substances-fibres-and-fire", "heading": "Materials, substances, fibres, and fire", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-03", "CV-MAT-04", "CV-MAT-05", "CV-MAT-06", "CV-MAT-07", "CV-MAT-08", "CV-MAT-09", "CV-MAT-10", "CV-MAT-11"]},
+    {"id": "dwelling-vessels-food-clothing-and-light", "heading": "Dwelling, vessels, food, clothing, and light", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-DWELL-01", "CV-DWELL-02", "CV-DWELL-03", "CV-DWELL-04", "CV-DWELL-05", "CV-FOOD-01", "CV-FOOD-02"]},
     {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-02", "CV-MAT-05", "CV-MAT-06", "CV-MEAS-02", "CV-MEAS-03", "CV-MEAS-04", "CV-MEAS-05", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]}
   ],
   "candidates": [
@@ -266,7 +267,7 @@
       "placement": "base",
       "summary": "The two nouns cover ordinary rice and tea, while exact cultivars, blends, and trade names remain with their sources.",
       "implementation": {"words": ["napari", "hasumi"], "files": ["vocabulary/content/rice.json", "vocabulary/content/tea.json"]},
-      "batches": ["cultivation-abundance-and-wildness", "recovered-cross-inventory-prompts"]
+      "batches": ["cultivation-abundance-and-wildness", "dwelling-vessels-food-clothing-and-light", "recovered-cross-inventory-prompts"]
     },
     {
       "id": "CV-FOOD-02",
@@ -275,7 +276,7 @@
       "placement": "base compound",
       "summary": "The registered compound names a fruit by its hard stone-like shell and is already used in an active text.",
       "expressions": ["kerou lureko"],
-      "batches": ["cultivation-abundance-and-wildness", "recovered-cross-inventory-prompts"]
+      "batches": ["cultivation-abundance-and-wildness", "dwelling-vessels-food-clothing-and-light", "recovered-cross-inventory-prompts"]
     },
     {
       "id": "CV-ACCESS-01",
@@ -888,6 +889,51 @@
       "summary": "A broad Phi noun can still support discussion of a material's handling and effects. It cannot do the technical identifier's job.",
       "source_rule": "The exact identifier stays outside the Phi passage with the notation and version that make it usable. Formulas and grades retain their source forms. So do standards, formulations, and trade identities.",
       "batches": ["materials-substances-fibres-and-fire"]
+    },
+    {
+      "id": "CV-DWELL-01",
+      "concept": "ceiling, stairs, corridor, gate, fence, and chimney",
+      "status": "compositional",
+      "placement": "base compounds",
+      "summary": "Six common building features are short relations among an interior, route, boundary, wall, door, roof, and smoke. The registered compounds fit many building traditions and spare six opaque roots.",
+      "expressions": ["muwi toru", "rihe ruela", "muwi ruela", "norui ponu", "norui moru", "thumiro ruela"],
+      "batches": ["dwelling-vessels-food-clothing-and-light"]
+    },
+    {
+      "id": "CV-DWELL-02",
+      "concept": "installed cooking, cooling, washing, bathing, and sanitation appliances or fixtures",
+      "status": "deferred",
+      "placement": "Household, Systems, Built Environment, or exact source material according to use",
+      "summary": "Broad function can already be described with a device, place, action, temperature, water path, or storage relation. Stove, oven, refrigerator, sink, bath, and similar categories divide differently across technologies and dwellings, so connected use should decide which distinctions deserve Phi forms.",
+      "revisit_when": "a household, infrastructure, access, repair, or inhabited-place scenario repeatedly needs one stable appliance or fixture distinction beyond its function and exact source identity",
+      "batches": ["dwelling-vessels-food-clothing-and-light"]
+    },
+    {
+      "id": "CV-DWELL-03",
+      "concept": "additional portable, directional, or electrically powered light sources",
+      "status": "compositional",
+      "placement": "base words and descriptions with exact equipment records where needed",
+      "summary": "`luma` names the general made light source, `lumoi` a portable protected lamp, and `philu` a wick-fed candle. Shape, beam, energy source, and controls can distinguish a torch, flashlight, or electric fitting without another general light noun.",
+      "expressions": ["luma", "lumoi", "philu"],
+      "batches": ["dwelling-vessels-food-clothing-and-light"]
+    },
+    {
+      "id": "CV-DWELL-04",
+      "concept": "additional utensils, vessels, furnishings, and functional garment types",
+      "status": "deferred",
+      "placement": "Household, base, or another practical module according to connected use",
+      "summary": "The base layer and Household module already cover ordinary containers, seating, bedding, storage, cleaning, clothing, and tableware. Forks, specialised pans, cupboards, and narrower footwear can be described by function until one distinction repeatedly earns a direct word.",
+      "revisit_when": "connected daily-life, care, craft, or literary use repeatedly needs one practical object or garment type and the transparent description becomes cumbersome or ambiguous",
+      "batches": ["dwelling-vessels-food-clothing-and-light"]
+    },
+    {
+      "id": "CV-DWELL-05",
+      "concept": "exact food, dish, garment, household-object, and product identities",
+      "status": "source-bound",
+      "placement": "exact source identity beside a Phi account",
+      "summary": "Phi can describe how an item is made and used, what it is made from, and how it relates to the scene. A familiar category may still receive a Phi root later; exact identity remains with the source that establishes it.",
+      "source_rule": "An original name, cultural designation, or model stays in its source form when identity depends on it. Recipes, labels, and safety instructions remain with that source while Phi describes the item's ordinary relations and effects.",
+      "batches": ["dwelling-vessels-food-clothing-and-light"]
     }
   ],
   "prompt_sources": [

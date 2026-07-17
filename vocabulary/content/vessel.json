@@ -7,16 +7,21 @@
     "pha"
   ],
   "pos": "noun",
-  "concept": "Vessel / Container for Liquids / Sacred Receptacle",
-  "description": "A hollow container for liquids; also a craft for traveling on water. 'Lopha' names what holds the flowing—water, wine, meaning itself.",
-  "sound_symbolism": "The word opens to receive. 'Lo' curves in welcome, space prepared. Then 'ha' /ɸa/ breathes with gentle purpose, vessel alive with potential.",
-  "grammatical_notes": "Functions as noun: 'lopha' (the vessel). Can refer to drinking vessels, ritual containers, or boats. Related to 'molu' (container) but implies liquids or sacred purpose.",
-  "pillars": {
-    "art-nouveau-aesthetics": "Form following flow—vessels shaped by what they hold, curved like water itself.",
-    "pre-industrial-wisdom": "Vessels carried life—water jugs, wine amphorae, the boat that crosses waters."
-  },
+  "search_terms": [
+    "receptacle",
+    "liquid container"
+  ],
+  "description": "Liquid, grain, food, or ritual material can be held in 'lopha', a formed hollow receptacle. It can carry, pour, or present its contents, but no purpose makes the vessel sacred by itself. 'molu' (container) is the broader category, and 'luphonu' (boat) is a watercraft rather than an English homonym of vessel.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for lateral 'l' and move into stressed rounded mid-back 'o'. Bring the lips close for unvoiced bilabial fricative 'ph', let the air pass between them, and finish on open 'a'.",
+  "usage_notes": "Bowl, cup, pot, bottle, and jar are narrower vessel forms. Material, closure, capacity, or ceremonial use can accompany the noun when the distinction matters.",
+  "examples": [
+    {
+      "phi": "lopha phialu phelu.",
+      "translation": "The vessel holds water."
+    }
+  ],
   "semantic_domains": {
-    "creation": "Liquid container",
-    "ritual": "Sacred receptacle"
+    "physical": "a formed hollow receptacle for holding or moving a substance",
+    "ritual": "a receptacle whose stated use may carry ceremonial material"
   }
 }

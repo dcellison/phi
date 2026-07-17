@@ -8,16 +8,22 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Kitchen / Place of Food Preparation / Nourishment Space",
-  "description": "A room where food is prepared and cooked; the space dedicated to nourishment. 'Nuroa' names where food transforms—ingredients becoming meals, raw becoming nourishing.",
-  "sound_symbolism": "The word nurtures. 'Nu' grounds with sustaining presence, nourishment forming. 'Ro' stirs and transforms. Finally 'a' opens to completion, food ready.",
-  "grammatical_notes": "Functions as a noun: 'mia mua nuroa pharelo.' (I cook in the kitchen.) Related to 'moeli' (hearth)—the kitchen is the modern hearth, center of domestic nourishment.",
-  "pillars": {
-    "peace-linguistics-practices": "Kitchen work is care made visible—the labor of feeding others as expression of love.",
-    "pre-industrial-wisdom": "Kitchens sustained life—where food was transformed from ingredient to nourishment through skill and care."
-  },
+  "search_terms": [
+    "cooking place",
+    "food preparation room"
+  ],
+  "description": "Food is prepared and cooked in 'nuroa', a place arranged for that work. The place may be a room, a shared work area, or an outdoor site instead of a modern fitted interior. Household 'moeli' (hearth) identifies one particular centre of heat; a kitchen is defined by the wider preparation work.",
+  "articulatory_notes": "Place the tongue tip at the upper teeth for voiced dental nasal 'n' and round the lips for high-back 'u'. Tap 'r' at the alveolar ridge into stressed rounded mid-back 'o', then keep the final open 'a' separate across the hiatus.",
+  "usage_notes": "Ownership, work arrangements, fuel, and equipment are separate parts of the account. A kitchen can be private, communal, temporary, or shared between several households.",
+  "examples": [
+    {
+      "phi": "mia mua nuroa pharelo.",
+      "translation": "I cook in the kitchen."
+    }
+  ],
   "semantic_domains": {
-    "community": "Nourishment place",
-    "spatial": "Food space"
+    "activity": "a place organised around preparing and cooking food",
+    "community": "a domestic or shared place where food work may be coordinated",
+    "spatial": "a room or area identified by food preparation"
   }
 }
