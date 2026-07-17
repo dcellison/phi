@@ -8,16 +8,21 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Beginning / Start / Origin Point",
-  "description": "The point in time or space at which something starts; the first part. 'Thorui' names the opening—where journeys commence, where stories start, where change initiates.",
-  "sound_symbolism": "The word opens outward. 'Tho' /θo/ begins with breath released, start forming. 'Ru' rolls into motion, movement beginning. Finally 'i' rises with fresh energy, beginning alive.",
-  "grammatical_notes": "Functions as a noun with a possessor before it: 'nophi thorui' (the story's beginning). Opposite of 'lumae' (end). Related structurally to 'kesho' (middle).",
-  "pillars": {
-    "solarpunk-values": "Beginnings hold possibility—the start of new systems, new relationships, new ways of living.",
-    "secular-buddhist-philosophy": "Every moment is a beginning—the fresh start available now, not dependent on calendar or circumstance."
-  },
+  "search_terms": [
+    "start",
+    "opening"
+  ],
+  "description": "'thorui' marks the first point or portion of something ordered or extended. A path, process, or story can have one, and the word leaves open whether the start was sudden or deliberate.",
+  "articulatory_notes": "Place the tongue against the upper teeth for unvoiced 'th' and let the air continue into middle-height rounded 'o'. Tap or briefly trill the tongue for 'r', then draw it back into stressed high-back rounded 'u'. Unround and bring the tongue forward for the separate final 'i'.",
+  "usage_notes": "Use ordinary possessor-first order: 'nophi thorui' is a story's beginning. 'kesho' names the middle and 'lumae' the end.",
+  "examples": [
+    {
+      "phi": "nophi thorui mioru nai.",
+      "translation": "The story's beginning is beautiful."
+    }
+  ],
   "semantic_domains": {
-    "temporal": "Origin point",
-    "wisdom": "Fresh start"
+    "spatial": "the opening endpoint or portion of a path or extended thing",
+    "temporal": "the opening of a time span, event, or process"
   }
 }

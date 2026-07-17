@@ -8,16 +8,16 @@
     "no"
   ],
   "pos": "noun",
-  "concept": "Week / Seven-Day Cycle / Working Rhythm",
-  "description": "A period of seven days; the basic cycle of work and rest in many cultures. 'Phaeno' names the weekly rhythm—days of activity punctuated by rest, the pulse of communal time.",
-  "sound_symbolism": "The word cycles through. 'Pha' /ɸa/ begins with breath, the cycle starting. The vowel 'e' opens to the span. Then 'no' grounds at completion, week ending.",
-  "grammatical_notes": "Functions as a noun: 'ta phaeno' (one week). Longer than a day, shorter than a month. Common unit for planning and scheduling.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Weekly practice builds habit—the regularity that transforms occasional effort into established path.",
-    "pre-industrial-wisdom": "Weekly rhythms organized labor—market days, rest days, patterns that structured community life."
-  },
+  "description": "'phaeno' is a span of seven days used as a shared social and calendar cycle. Which day begins the week, and how work, rest, worship, or gathering are arranged within it, belong to the community or calendar in use.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the narrow opening for 'ph', then open into central 'a'. Bring the tongue forward for the separate stressed middle-height 'e'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry nasal airflow, and finish with middle-height rounded 'o'.",
+  "examples": [
+    {
+      "phi": "mia sui ta phaeno theo.",
+      "translation": "I read for one week."
+    }
+  ],
   "semantic_domains": {
-    "community": "Work rhythm",
-    "temporal": "Seven-day cycle"
+    "community": "a conventional shared cycle for calendars and recurring activity",
+    "temporal": "a calendar span of seven days"
   }
 }

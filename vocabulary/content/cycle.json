@@ -7,16 +7,21 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Cycle / Recurring Pattern / Endless Return",
-  "description": "A series of events that are regularly repeated in the same order. 'Nuri' names the great returns—the patterns that circle back, seasons and moons and generations, endings that become beginnings.",
-  "sound_symbolism": "The word turns and returns. 'Nu' begins with grounded nasal, the starting point. Then 'ri' rolls back around, returning to begin again.",
-  "grammatical_notes": "Functions as a noun: 'ta nophe nuri' (one cycle), with optional abstract classifier 'nophe'; 'ta nuri' is also grammatical. Central to discussions of seasons, life stages, and natural rhythms. Related to 'meluna' (season) as one cycle among many. Among the turning words, 'nuri' is the great return, the circle a season or a generation completes; 'telui' (rhythm) is the pulse felt within it, and 'kaero' (phase) one segment of its turning.",
+  "description": "'nuri' is a course of events or changes that returns to a comparable starting condition and may begin again. The return need not reproduce every detail. 'telui' (rhythm) is perceived recurrence, 'kaero' (phase) is one segment, and 'nuwoe' (stage) belongs to a directed progression.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n' and carry nasal airflow into stressed high-back rounded 'u'. Tap or briefly trill the tongue at the alveolar ridge, then move forward and unround into high-front 'i'.",
+  "sound_symbolism": "The short form turns from the sustained nasal opening to a single tongue tap before the final vowel. In Phi, that compact return can serve as a memory aid for a course that comes round again.",
+  "examples": [
+    {
+      "phi": "nuri turema.",
+      "translation": "The cycle returns."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Cycles (samsara) are central to Buddhist teaching—the wheel of becoming that turns until wisdom breaks the pattern.",
-    "pre-industrial-wisdom": "Traditional life was structured by cycles—lunar, seasonal, generational. Understanding cycles meant understanding time itself."
+    "secular-buddhist-philosophy": "A cycle makes recurrence available for reflection without pretending that each return is identical to the last.",
+    "pre-industrial-wisdom": "Seasonal, lunar, agricultural, and generational cycles have long organised attention and practical work. Cyclical understandings also matter in many Indigenous knowledge traditions, whose particular cycles, obligations, and meanings belong to specific peoples and places rather than to one general system."
   },
   "semantic_domains": {
-    "temporal": "Recurring pattern",
-    "wisdom": "Understanding of return"
+    "nature": "recurring courses in living and environmental systems",
+    "temporal": "an ordered course that returns to a comparable beginning"
   }
 }

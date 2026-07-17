@@ -8,16 +8,15 @@
     "o"
   ],
   "pos": "noun",
-  "concept": "Future / Time Yet to Come / What Will Happen",
-  "description": "The time after the present; events that have not yet occurred. 'Wireo' names time that approaches—possibility's domain, hope's realm, what we can still shape.",
-  "sound_symbolism": "The word reaches forward. 'Wi' opens with expectant energy, possibility present. 'Re' extends toward what comes. Finally 'o' opens to the unknown, the future arriving.",
-  "grammatical_notes": "Functions as a noun: 'mia wireo weni' (I imagine the future). Opposite of 'luera' (past). Related to the tense particle 'so' which marks future time.",
-  "pillars": {
-    "solarpunk-values": "The future is not fixed—it can be shaped by present choices, built by collective action.",
-    "secular-buddhist-philosophy": "The future exists only in present imagination—anxious grasping causes suffering, wise preparation brings peace."
-  },
+  "description": "'wireo' gathers time after the present and events that have not happened. As a noun, it lets the future itself become a subject of thought or speech; the particle 'so' separately places a clause there.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then release into high-front unrounded 'i'. Tap or briefly trill the tongue at the alveolar ridge and continue into stressed middle-height front 'e'. Keep the final rounded middle-height 'o' separate across the vowel hiatus.",
+  "examples": [
+    {
+      "phi": "mia wireo weni.",
+      "translation": "I imagine the future."
+    }
+  ],
   "semantic_domains": {
-    "temporal": "After now",
-    "wisdom": "Possibility's domain"
+    "temporal": "later time made available as a subject of thought or action"
   }
 }

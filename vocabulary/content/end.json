@@ -8,16 +8,24 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "End / Conclusion / Final Point",
-  "description": "The final part of something; the point at which something ceases. 'Lumae' names the closing—where journeys conclude, where stories finish, where cycles complete.",
-  "sound_symbolism": "The word comes to rest. 'Lu' flows toward completion, momentum slowing. 'Ma' grounds with finality, ending near. Finally 'e' opens to release, end arrived.",
-  "grammatical_notes": "Functions as a noun with a possessor before it: 'nophi lumae' (the story's end). Opposite of 'thorui' (beginning). Endings in Phi are not negative—completion enables new beginnings.",
+  "search_terms": [
+    "conclusion",
+    "finish"
+  ],
+  "description": "'lumae' marks where something ordered or extended reaches its final point. It applies to paths, processes, and stories, and it leaves the result's completeness or value to the surrounding account.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and draw it back into high-back rounded 'u'. Close the lips for voiced 'm', keep nasal airflow, and open into stressed central 'a'. Part the lips and bring the tongue forward for the separate final middle-height 'e'.",
+  "usage_notes": "The thing that ends comes first: 'nophi lumae' is a story's end. 'thorui' names the beginning and 'kesho' the middle.",
+  "examples": [
+    {
+      "phi": "mia nophi lumae halemu.",
+      "translation": "I remember the story's end."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "All things end—recognizing this brings appreciation for what is present and acceptance of change.",
-    "pre-industrial-wisdom": "Endings were honored—the end of harvest, the end of life, transitions marked with ritual and respect."
+    "secular-buddhist-philosophy": "Naming an end plainly supports attention to change and impermanence without assigning the change a value in advance."
   },
   "semantic_domains": {
-    "temporal": "Final point",
-    "wisdom": "Completion"
+    "spatial": "the last endpoint or portion of a path or extended thing",
+    "temporal": "the close of a time span, event, or process"
   }
 }

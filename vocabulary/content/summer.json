@@ -8,16 +8,16 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Summer / Season of Abundance / Time of Fullness",
-  "description": "The warmest season of the year; time of growth and abundance. 'Keloi' names the full season—long days, warm nights, life at its peak.",
-  "sound_symbolism": "The word expands in warmth. 'Ke' begins with clear energy, vitality present. 'Lo' flows with ease, abundance spreading. Finally 'i' rises to the peak, summer arrived.",
-  "grammatical_notes": "Functions as a noun: 'mua keloi' (in summer). Second of the four seasons. Time of growth, activity, and long daylight.",
-  "pillars": {
-    "solarpunk-values": "Summer offers maximum solar energy—the season when sun-based systems can generate surplus.",
-    "pre-industrial-wisdom": "Summer was work season—long days for tending crops, building, traveling while conditions allowed."
-  },
+  "description": "In a temperate cycle, 'keloi' follows spring and gives way to autumn. It commonly brings the year's warmest conditions and long daylight, while its ecological and social effects depend on the place.",
+  "articulatory_notes": "Press the back of the tongue against the soft palate for 'k' and release into middle-height front 'e'. Touch the tongue tip to the alveolar ridge for 'l' and draw the tongue back into stressed middle-height rounded 'o'. Unround and raise the front of the tongue for the separate final 'i'.",
+  "examples": [
+    {
+      "phi": "ha keloi ru waora to nai.",
+      "translation": "This summer was wonderful."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Peak growth",
-    "temporal": "Abundance season"
+    "nature": "the warm, long-day portion of a temperate year",
+    "temporal": "the season between spring and autumn"
   }
 }

@@ -156,7 +156,7 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | SEM-01 | **DONE** | Establish the coinage quality protocol: compare composition and coinage, choose freely, then require complete semantics, schema, sound, examples, and references. | Development protocol and eight completed vocabulary passes | Apply the same quality standard without treating it as an external burden of proof. |
 | SEM-01A | **DONE** | Develop practice and domain profiles as optional lexical organization under one grammar. | Eight established profiles with 246 optional roots, 355 memberships, generated indexing, speaker chapters, and sixteen base words established through profile passes | Revise an established profile through use, or add another only when its organization would help. |
 | SEM-01B | **DONE** | Record the intended profile catalogue. | `documents/modules/README.md`; eight active profiles and preserved future explorations | Add another profile when its organizational purpose is clear; no audience or external evidence gate is required. |
-| SEM-01C | **IN PROGRESS** | Revisit active Phi texts after the current module set and classification reviews are complete. | The [active text corpus review](../documents/evaluation/active_text_corpus_review.md) records completed reviews of all thirteen literary works: nine close translations and eleven transmuted works | Inventory scenarios, dialogues, and teaching texts; repair accidental loss and stale vocabulary without rewriting before-state evidence. |
+| SEM-01C | **IN PROGRESS** | Revisit active Phi texts after the current module set and classification reviews are complete. | The [active text corpus review](../documents/evaluation/active_text_corpus_review.md) records completed reviews of all thirteen literary works: nine close translations and eleven transmuted works | After SEM-09B, audit active examples and passages across the book, manual, primer, pamphlets, texts, and current documents for workarounds that a new base word can replace more faithfully. Preserve translation and transmutation method, historical before-state evidence, and any composition that remains the better Phi expression. |
 | SEM-01D | **DONE** | Assess genuine multi-module vocabulary membership after all current modules are established. | Complete overlap assessment; 77 shared roots, 137 roots with one module, thirteen promoted to base vocabulary, regenerated indexes, and corrected profile and speaker counts | Reopen the assessment when later vocabulary or sustained use exposes another genuine learning-path overlap. |
 | SEM-01E | **DONE** | Review base vocabulary for older roots whose lexical center belongs in an existing module. | Complete base-placement assessment; thirty roots receive 35 memberships, 789 content roots remain base, and all generated and speaker-facing counts agree | Reopen placement when new modules give an older base word a genuine specialist home or when use shows that a classified word belongs in general study. |
 | SEM-02 | **PARTIAL** | Map weak modern domains: technology, science, government, law, work, disability, reproductive health, sexuality, and institutions. | Assessment, survey, eight established vocabulary modules, two access scenarios, and work and care scenarios | Test the Work, Medical, Accessibility, and Household modules beyond their source scenarios, inhabited-place heat and cooling, and a standing institution outside councils while keeping sensitive domains scenario-gated. |
@@ -179,9 +179,10 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | SEM-08D | **DONE** | Replace 30 Ecological Systems and Material Life forms. | Completed ledger scope, scenarios, profile, and generated reference | Reopen only if an active use of an old form is found. |
 | SEM-08E | **DONE** | Replace 29 Commons and Collective Governance forms and close the migration. | Completed ledger scope; validator has no long-form exception | Reopen only if an active use of an old form is found. |
 | SEM-09 | **PARTIAL** | Migrate inherited vocabulary prose to the target contract. | D017, transitional JSON Schema, field-aware explorer, and committed coverage report | Revise entries in bounded batches until every entry is target-shaped, with Phi forms and exact glosses held fixed unless a separate lexical decision changes them. |
-| SEM-09A | **DONE** | Apply a semantic coverage gate to content prose batches and preserve every noticed lexical decision. | `project/content_vocabulary_coverage.md` audits every completed base batch; `project/content_vocabulary_decisions.json` has no open or accepted candidate; D020 through D034 record the resulting additions, compositions, deferrals, source boundaries, and refusals. | Keep the gate active during the remaining migration so a newly noticed question receives an ID before its batch closes. |
-| SEM-09B | **NEXT** | Complete target-prose migration for the remaining base content vocabulary. | 277 base entries remain legacy-shaped after D034 | Revise bounded semantic batches without changing Phi forms or exact glosses unless a separate lexical decision requires it. |
-| SEM-09C | **PENDING** | Complete target-prose migration for module content vocabulary. | 209 module entries remain legacy-shaped after D034 | Begin after SEM-09B, preserve current module memberships, and run the same coverage gate on every batch. |
+| SEM-09A | **DONE** | Apply a semantic coverage gate to content prose batches and preserve every noticed lexical decision. | `project/content_vocabulary_coverage.md` audits every completed base batch; `project/content_vocabulary_decisions.json` has no open or accepted candidate; D020 through D035 record the resulting additions, compositions, deferrals, source boundaries, and refusals. | Keep the gate active during the remaining migration so a newly noticed question receives an ID before its batch closes. |
+| SEM-09B | **NEXT** | Complete target-prose migration for the remaining base content vocabulary. | 245 base entries remain legacy-shaped after D035 | Revise bounded semantic batches without changing Phi forms or exact glosses unless a separate lexical decision requires it. |
+| SEM-09D | **PENDING** | Retrofit active Phi passages after the base-vocabulary migration. | SEM-01C and the completed literary-shelf review supply the method; D020 through D035 supply the new base vocabulary to inspect | Begin when SEM-09B reaches zero. Sweep the book, manual, primer, pamphlets, texts, and current documents; replace an older workaround only when the new word is more faithful or natural in context, then validate every changed Phi passage. |
+| SEM-09C | **PENDING** | Complete target-prose migration for module content vocabulary. | 209 module entries remain legacy-shaped after D034 | Begin after the SEM-09D corpus retrofit, preserve current module memberships, and run the same coverage gate on every batch. |
 
 ### Default coinage checklist
 
@@ -250,7 +251,7 @@ This phase is adjacent to the linguistic improvement plan and follows the order 
 
 ## Current execution sequence
 
-The three-syllable lexical migration, literary-shelf review, and recovered vocabulary decisions are complete. The active sequence is now fixed: finish the 277 remaining base prose migrations, finish the 209 module prose migrations, then return to the Phi book. Texts receive only targeted follow-up where an actual lexical addition improves a passage.
+The three-syllable lexical migration, literary-shelf review, and recovered vocabulary decisions are complete. The active sequence is now fixed: finish the 245 remaining base prose migrations, sweep active Phi passages for workarounds that the expanded base lexicon can improve, finish the 209 module prose migrations, then return to the Phi book. The sweep is contextual rather than mechanical: a transparent composition stays when it remains better Phi.
 
 ### Completed work package 0: Three-syllable lexical migration
 
@@ -268,14 +269,15 @@ All 112 replacements preserve the vocabulary schema and active uses under forms 
 
 ### Work package A: Finish lexicon prose migration
 
-**Roadmap items:** SEM-09B and SEM-09C.
+**Roadmap items:** SEM-09B, SEM-09D, and SEM-09C.
 
 1. Revise the remaining base entries in bounded semantic batches. Preserve each Phi form and exact gloss unless a separate lexical decision changes it.
 2. Apply the content-coverage gate to every batch and record any newly noticed question before calling the prose work complete.
-3. Continue through module entries only after the base queue reaches zero. Preserve every established module membership.
-4. Refresh the coverage report and generated references after every batch, then run the standalone validator and site build.
+3. When the base queue reaches zero, inspect active Phi in the book, manual, primer, pamphlets, texts, and current documents. Replace an older workaround only when the new base word improves fidelity or naturalness in that exact passage.
+4. Continue through module entries after the corpus retrofit. Preserve every established module membership.
+5. Refresh the coverage report and generated references after every batch, then run the standalone validator and site build.
 
-**Exit criterion:** no content entry remains legacy-shaped, every noticed lexical question has an explicit decision, and generated views agree with the canonical JSON.
+**Exit criterion:** no content entry remains legacy-shaped, every noticed lexical question has an explicit decision, the post-base corpus retrofit is recorded, and generated views agree with the canonical JSON.
 
 ### Work package B: Resume the Phi book
 

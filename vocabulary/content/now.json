@@ -7,16 +7,22 @@
     "sa"
   ],
   "pos": "noun",
-  "concept": "Now / The Present Time / This Current Moment",
-  "description": "At the present time; the current moment as opposed to past or future. 'Nosa' names the temporal location of presence—the time that is happening, the only time we can act.",
-  "sound_symbolism": "The word grounds in presence. 'No' settles with immediate presence, here established. Then 'sa' sustains with steady awareness, now continuing.",
-  "grammatical_notes": "Functions as a noun: 'mua nosa' (in now, at present). Related to 'shemu' (moment) but names the temporal location rather than the experiential quality.",
+  "search_terms": [
+    "currently",
+    "at this time"
+  ],
+  "description": "'nosa' locates an act or condition at the current time. Although it is a noun, it commonly occupies the adverbial position in a clause. 'nomi' instead makes the current span or a state of presence the subject, while 'nosa' answers when something is happening.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n' and carry nasal airflow into stressed middle-height rounded 'o'. Bring the tongue blade near the alveolar ridge for unvoiced 's', then open the jaw into central 'a'.",
+  "examples": [
+    {
+      "phi": "mia nosa thole.",
+      "translation": "I practise now."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Now is the only time practice happens—the present moment where mindfulness lives.",
-    "peace-linguistics-practices": "Speaking from now keeps communication current—presence rather than rehashing past or projecting future."
+    "secular-buddhist-philosophy": "'nosa' lets a speaker return an utterance to the act or condition happening at this time, the temporal anchor of present attention."
   },
   "semantic_domains": {
-    "temporal": "Present time",
-    "wisdom": "Current moment"
+    "temporal": "the current time used as the location of an act or condition"
   }
 }

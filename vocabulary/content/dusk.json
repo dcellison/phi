@@ -8,16 +8,20 @@
     "whi"
   ],
   "pos": "noun",
-  "concept": "Dusk / Twilight / Evening's Approach",
-  "description": "The darker part of twilight, when daylight fades toward night. 'Norawhi' names the releasing time—when light lets go, colors deepen, and day yields to darkness in gradual surrender.",
-  "sound_symbolism": "The word settles toward night. 'No' begins with nasal settling, the day winding down. Then 'ra' recedes, light withdrawing from the sky. Finally 'whi' whispers farewell, the breathy passage into darkness.",
-  "grammatical_notes": "Functions as a noun: 'mua norawhi' (at dusk). Paired with 'horathe' (dawn) as the day's threshold times. Associated with release, transition, and evening practice.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Dusk is letting go made visible—the day releasing its hold, teaching us that all things yield in time.",
-    "art-nouveau-aesthetics": "Dusk paints the sky in deepening colors—the transitional palette between day's brightness and night's depth."
-  },
+  "search_terms": [
+    "last light",
+    "twilight"
+  ],
+  "description": "'norawhi' is the fading light after or around sunset as night approaches. It is Phi's evening threshold and pairs with 'horathe' (dawn), the first light at the other side of night.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n' and carry nasal airflow into middle-height rounded 'o'. Tap or briefly trill the tongue and open into stressed central 'a'. Round the lips and raise the back of the tongue for unvoiced 'wh', then finish with high-front unrounded 'i'.",
+  "examples": [
+    {
+      "phi": "lopia tei norawhi wile.",
+      "translation": "The child plays until dusk."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Light's recession",
-    "temporal": "Day's ending"
+    "nature": "the final fading of daylight around sunset",
+    "temporal": "the threshold station between evening and night"
   }
 }

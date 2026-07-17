@@ -7,16 +7,24 @@
     "mi"
   ],
   "pos": "noun",
-  "concept": "Present / Here Now / In This Moment",
-  "description": "Existing or occurring now; being in a particular place; fully attentive to the current moment. 'Nomi' names the quality of being here—not lost in past or future, but fully inhabiting the now.",
-  "sound_symbolism": "The word arrives here. 'No' begins with grounded now, this moment. Then 'mi' embodies with intimate presence, fully here.",
-  "grammatical_notes": "A noun: 'mua nomi' (in the present). Before another noun it modifies by position: 'nomi miona' (present person); predication: 'mia nomi nai.' (I am present.) Central to mindfulness vocabulary.",
+  "search_terms": [
+    "current time",
+    "presence"
+  ],
+  "description": "'nomi' names the present as the span being lived, in contrast with 'luera' (past) and 'wireo' (future). Applied to a person, it can also name attentive presence in the current situation. 'nosa' (now) more narrowly locates when an act or condition occurs.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n' and carry nasal airflow into stressed middle-height rounded 'o'. Close the lips for voiced 'm', keep the airflow through the nose, and finish with high-front unrounded 'i'.",
+  "usage_notes": "As a predicate, 'nomi nai' says that a person is present. The word does not replace 'thesua' (mindful), which describes deliberate attention as a quality or practice.",
+  "examples": [
+    {
+      "phi": "mia nomi nai.",
+      "translation": "I am present."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Presence is the heart of practice—returning again and again to this moment, this breath, this experience.",
-    "peace-linguistics-practices": "Present communication gives full attention—being here with the other, not elsewhere in mind."
+    "secular-buddhist-philosophy": "The present is the temporal setting in which attention, speech, and practice actually occur; naming it does not claim that attention is automatic."
   },
   "semantic_domains": {
-    "temporal": "This moment",
-    "wisdom": "Here-and-now quality"
+    "cognition": "attentive presence in the current situation",
+    "temporal": "the span currently being lived between past and future"
   }
 }

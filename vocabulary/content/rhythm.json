@@ -8,16 +8,22 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Rhythm / Regular Pattern / Recurring Beat",
-  "description": "A strong, regular, repeated pattern of movement or sound. 'Telui' names the pulse beneath—the beat that structures time, the pattern that repeats and carries.",
-  "sound_symbolism": "The word pulses steadily. 'Te' marks the beat, rhythm starting. 'Lu' flows to the next pulse. Finally 'i' rises to repeat, the pattern continuing.",
-  "grammatical_notes": "Functions as a noun: 'telui' (rhythm), 'lo telui' (rhythms). Related to 'sena' (pattern) but emphasizes temporal repetition rather than spatial arrangement. Related to 'nuri' (cycle), the great return: 'telui' is repetition felt from inside, at the scale of breath, footfall, and song, where 'nuri' is the circle seen whole.",
+  "description": "'telui' is patterned timing perceived through recurring sound, movement, breath, or other change. It is repetition felt from within. 'nuri' (cycle) names the larger course that returns, while 'sena' (pattern) can be arranged in space without unfolding as a rhythm.",
+  "articulatory_notes": "Place the tongue tip against the upper teeth for unvoiced dental 't' and release into middle-height front 'e'. Touch the tongue tip to the alveolar ridge for 'l' and draw the tongue back into stressed high-back rounded 'u'. Unround and bring the tongue forward for the separate final 'i'.",
+  "sound_symbolism": "The tongue moves from a dental release to a lateral contact while the last two vowels make a clear hiatus. That sequence gives the word distinct articulatory beats, a useful Phi mnemonic for rhythm.",
+  "examples": [
+    {
+      "phi": "miona wi manuwe roe telui wiso palo.",
+      "translation": "A person's two hands touch each other in rhythm."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Rhythm structured ornament—repeating motifs that carried the eye through designs in regular flow.",
-    "pre-industrial-wisdom": "Life followed rhythms—seasonal, lunar, daily patterns that structured activity and expectation."
+    "art-nouveau-aesthetics": "Rhythm carries repeated movement through music, speech, dance, and visual ornament without requiring each return to be identical.",
+    "pre-industrial-wisdom": "Work songs, handcraft, dance, and repeated communal practices keep time through embodied rhythm."
   },
   "semantic_domains": {
-    "aesthetic": "Regular beat",
-    "temporal": "Recurring pattern"
+    "aesthetic": "perceived timing that shapes sound, movement, speech, or art",
+    "physical": "recurrence felt through bodily movement, breath, or contact",
+    "temporal": "a pattern organised through recurring intervals or beats"
   }
 }

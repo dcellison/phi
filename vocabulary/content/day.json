@@ -7,16 +7,20 @@
     "lo"
   ],
   "pos": "noun",
-  "concept": "Day / One Light-Dark Cycle / Period of Waking",
-  "description": "The period of light between sunrise and sunset; a complete cycle of light and dark. 'Philo' names the fundamental unit of lived time—the rhythm of waking and sleeping, working and resting.",
-  "sound_symbolism": "The word opens to light. 'Phi' /ɸi/ begins with gentle breath, dawn arriving. Then 'lo' flows through the hours, the day unfolding.",
-  "grammatical_notes": "Functions as a noun: 'ta philo' (one day). Numerals attach directly—never 'lo' with a number. The basic unit for measuring lived time, alongside 'phaeno' (week), 'lunoa' (month), and 'torua' (year).",
+  "description": "'philo' names either the light part of the daily cycle or one complete light-and-dark cycle, according to context. A count ordinarily selects the complete cycle; contrast with 'shero' (night) selects the hours of daylight.",
+  "articulatory_notes": "Bring the lips close without sealing them and pass unvoiced air through the narrow opening for 'ph', then spread into stressed high-front 'i'. Touch the tongue tip to the alveolar ridge for 'l' and draw it back while rounding into middle-height 'o'.",
+  "usage_notes": "Phi forms 'ha philo' (today), 'luera philo' (yesterday), 'wireo philo' (tomorrow), and 'theula philo' (every day). Counted days take a numeral directly, with optional classifier 'nophe'.",
+  "examples": [
+    {
+      "phi": "lopia sui philo to wile.",
+      "translation": "The child played during the day."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Day-aligned living reduces energy use—matching human activity to solar availability.",
-    "pre-industrial-wisdom": "The day was life's natural unit—work with light, rest with dark, each day complete in itself."
+    "pre-industrial-wisdom": "The visible cycle of light and darkness remains a practical reference for work, rest, travel, and memory."
   },
   "semantic_domains": {
-    "nature": "Solar rhythm",
-    "temporal": "Light-dark cycle"
+    "nature": "the recurring light-and-dark cycle shaped by the sun",
+    "temporal": "a daylight span or one complete daily cycle"
   }
 }

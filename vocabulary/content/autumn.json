@@ -8,16 +8,22 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Autumn / Season of Harvest / Time of Letting Go",
-  "description": "The season after summer when leaves fall and harvest occurs; time of completion and release. 'Muero' names the ripening season—fruits gathered, leaves falling, the world preparing for rest.",
-  "sound_symbolism": "The word releases and settles. 'Mu' grounds with gathering presence, harvest collected. The vowel 'e' opens to completion. Then 'ro' rolls downward, leaves falling.",
-  "grammatical_notes": "Functions as a noun: 'mua muero' (in autumn). Third of the four seasons. Time of harvest, gratitude, and preparation for winter.",
+  "search_terms": [
+    "fall (season)"
+  ],
+  "description": "In a temperate four-season cycle, 'muero' comes between summer and winter. Cooling air, shortening days, harvest, and falling leaves may mark it, though local ecologies do not all show those changes in the same way.",
+  "articulatory_notes": "Close the lips for voiced 'm' and let air pass through the nose into high-back rounded 'u'. Unround and bring the tongue forward for the separate stressed middle-height 'e'. Tap or briefly trill the tongue at the alveolar ridge, then finish with middle-height rounded 'o'.",
+  "examples": [
+    {
+      "phi": "muero shua. lo pelori wepu.",
+      "translation": "Autumn comes. The birds leave."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Autumn teaches letting go—the trees release their leaves without resistance, modeling non-attachment.",
-    "pre-industrial-wisdom": "Autumn determined winter's survival—the harvest stored would sustain life through cold months."
+    "pre-industrial-wisdom": "Autumn names a season in which harvesting, storing, and preparation for colder weather have organised practical work in many temperate communities."
   },
   "semantic_domains": {
-    "nature": "Completion time",
-    "temporal": "Harvest season"
+    "nature": "the cooling temperate season associated with harvest and leaf fall",
+    "temporal": "the season between summer and winter"
   }
 }

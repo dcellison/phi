@@ -8,16 +8,23 @@
     "so"
   ],
   "pos": "noun",
-  "concept": "Midday / Noon / Peak of Day",
-  "description": "The middle of the day; when the sun is highest. 'Thaeso' names the day's peak—maximum light, fullest energy, the hinge between morning and afternoon.",
-  "sound_symbolism": "The word stands at zenith. 'Tha' /θa/ begins with steady breath, presence established. The vowel 'e' opens to fullness. Then 'so' sustains at the peak, midday held.",
-  "grammatical_notes": "Functions as a noun: 'mua thaeso' (at midday). The center point of daylight hours, often a time for rest from labor in hot climates.",
+  "search_terms": [
+    "noon",
+    "middle of the day"
+  ],
+  "description": "'thaeso' is the station around the middle of the daylight span, when the sun is near its daily height. Phi places it between morning and afternoon rather than defining it as twelve o'clock.",
+  "articulatory_notes": "Place the tongue against the upper teeth for unvoiced 'th' and let the air continue into open central 'a'. Bring the tongue forward and raise it for the separate stressed middle-height 'e'. Place the tongue blade near the alveolar ridge for unvoiced 's', then round into middle-height back 'o'.",
+  "examples": [
+    {
+      "phi": "mia mua thaeso therilu.",
+      "translation": "I rest at midday."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Midday offers peak solar energy—the time when sun-powered systems generate most.",
-    "pre-industrial-wisdom": "Midday rest preserved energy—working around the heat, pausing when the sun was strongest."
+    "pre-industrial-wisdom": "The sun near its height offers a shared reference for rest, shade, food, travel, and the ordering of daily work."
   },
   "semantic_domains": {
-    "nature": "Solar zenith",
-    "temporal": "Day's peak"
+    "nature": "the daily station around the sun's highest apparent position",
+    "temporal": "the station between morning and afternoon"
   }
 }

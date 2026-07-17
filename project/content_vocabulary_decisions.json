@@ -45,6 +45,7 @@
     {"id": "relation-boundaries-and-remaining-practical-acts", "heading": "Relation, boundaries, and remaining practical acts", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-COVER-01"]},
     {"id": "personhood-generations-kinship-and-social-belonging", "heading": "Personhood, generations, kinship, and social belonging", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-ANIMAL-01"]},
     {"id": "body-anatomy-and-bodily-condition", "heading": "Body, anatomy, and bodily condition", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-BODY-01", "CV-BODY-02", "CV-BODY-03", "CV-BODY-04", "CV-BODY-05", "CV-BODY-06", "CV-BODY-07", "CV-BODY-08", "CV-BODY-09", "CV-SENS-01"]},
+    {"id": "time-sequence-natural-stations-and-recurrence", "heading": "Time, sequence, natural stations, and recurrence", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-TIME-01", "CV-TIME-02", "CV-TIME-03", "CV-TIME-04", "CV-TIME-05", "CV-TIME-06"]},
     {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-02", "CV-MAT-05", "CV-MAT-06", "CV-MEAS-02", "CV-MEAS-03", "CV-MEAS-04", "CV-MEAS-05", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]}
   ],
   "candidates": [
@@ -650,6 +651,60 @@
       "summary": "Base vocabulary need not reproduce an atlas, but recurring care or study may reveal specialist words worth learning.",
       "revisit_when": "a care, study, or public-health scenario repeatedly needs one structure beyond ordinary body-region language",
       "batches": ["body-anatomy-and-bodily-condition"]
+    },
+    {
+      "id": "CV-TIME-01",
+      "concept": "today, yesterday, tomorrow, and every day",
+      "status": "compositional",
+      "placement": "base expressions",
+      "summary": "The day stays audible while a demonstrative, temporal noun, or quantifier locates it. Four short expressions cover the ordinary daily references without a second set of roots.",
+      "expressions": ["ha philo", "luera philo", "wireo philo", "theula philo"],
+      "batches": ["time-sequence-natural-stations-and-recurrence"]
+    },
+    {
+      "id": "CV-TIME-02",
+      "concept": "always, never, often, rarely, and sometimes",
+      "status": "compositional",
+      "placement": "base expressions",
+      "summary": "Frequency remains a claim over time or moments, so the size of the claim stays in the utterance instead of hiding inside an adverb.",
+      "expressions": ["theula thimu", "mawha thimu", "sheloi shemu", "phina shemu", "soli shemu"],
+      "batches": ["time-sequence-natural-stations-and-recurrence"]
+    },
+    {
+      "id": "CV-TIME-03",
+      "concept": "relative proximity, earliness, lateness, and simultaneity",
+      "status": "compositional",
+      "placement": "base grammar and expressions, with optional module vocabulary for organised work",
+      "summary": "Near or far time, before or after a reference, and occurrence within one span state the useful relation. Work that is deliberately spread across different times may use module adjective `thunesi` (asynchronous).",
+      "expressions": ["noshi luera", "noshi wireo", "wuero luera", "wuero wireo", "phoe", "pheo", "nuawe", "thunesi"],
+      "batches": ["time-sequence-natural-stations-and-recurrence"]
+    },
+    {
+      "id": "CV-TIME-04",
+      "concept": "age, lifetime, birthdays, anniversaries, and larger spans",
+      "status": "compositional",
+      "placement": "base expressions",
+      "summary": "A person holds counted years; a life has a period; a birth has a day; and a returning observance can name its event, annual cycle, or ceremony. These relations remain clearer than one broad anniversary root.",
+      "expressions": ["mia wi phoi ta shao torua phelu", "lioru mosha", "thowia philo", "torua nuri", "thorea"],
+      "batches": ["time-sequence-natural-stations-and-recurrence"]
+    },
+    {
+      "id": "CV-TIME-05",
+      "concept": "calendar, history, chronology, and timeline",
+      "status": "compositional",
+      "placement": "base expressions plus separately preserved source records",
+      "summary": "A time record, a story or record of the past, ordinal position, and before-after relations distinguish the artefact from the account it carries. A named external calendar or chronology keeps its own source form.",
+      "expressions": ["thimu sirami", "luera nophi", "luera sirami", "nu", "phoe", "pheo"],
+      "batches": ["time-sequence-natural-stations-and-recurrence"]
+    },
+    {
+      "id": "CV-TIME-06",
+      "concept": "exact clock readings, clock units, time zones, and named calendar identifiers",
+      "status": "source-bound",
+      "placement": "separate source material with a Phi account",
+      "summary": "Phi's natural stations and calendar spans support ordinary temporal speech, while an exact external value retains the notation and standard that make it usable.",
+      "source_rule": "The complete clock reading, time zone, named calendar date, and exact unit notation remain outside the Phi passage. A Phi account may identify the record, its purpose, and its relation to an event without replacing data needed for coordination, care, accessibility, testimony, or safety.",
+      "batches": ["time-sequence-natural-stations-and-recurrence"]
     }
   ],
   "prompt_sources": [
