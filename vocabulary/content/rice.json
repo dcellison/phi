@@ -1,0 +1,24 @@
+{
+  "word": "napari",
+  "gloss": "rice",
+  "ipa": "/n̪ä.ˈpä.ri/",
+  "syllables": [
+    "na",
+    "pa",
+    "ri"
+  ],
+  "pos": "noun",
+  "description": "The noun 'napari' covers the rice plant, its harvested grain, and food prepared from it. Context distinguishes seed, standing crop, uncooked grain, and a cooked serving. 'napuro' (grain) remains the broad cereal category; a named variety or cultivar stays with its source name when exact identity matters.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n' and open into 'a'. Close the lips for unvoiced 'p', release into stressed 'a', then tap or trill 'r' at the alveolar ridge and finish with high front unrounded 'i'.",
+  "sound_symbolism": "The shared 'na.p' consonant frame makes 'napari' and 'napuro' (grain) easy to hear as neighbours. Their different vowel patterns stop one form from simply echoing the other.",
+  "examples": [
+    {
+      "phi": "lo mia napari nuola.",
+      "translation": "We eat rice."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "a cereal plant and its harvested edible seed",
+    "physical": "rice handled or prepared as food"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "word": "hasumi",
+  "gloss": "tea",
+  "ipa": "/hä.ˈsu.mi/",
+  "syllables": [
+    "ha",
+    "su",
+    "mi"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "herbal tea",
+    "tea leaves"
+  ],
+  "description": "'hasumi' covers plant material prepared by steeping and the drink made from it. Tea leaves and common herbal infusions both belong here. The exact plant or preparation remains available when it matters. 'milau' (drink) is the act rather than what is in the cup.",
+  "articulatory_notes": "Let unvoiced breath pass freely for 'h' and open into 'a'. Bring the tongue near the alveolar ridge for 's', send unvoiced air through the narrow channel, and round into stressed high back 'u'. Close the lips for voiced 'm', keep nasal airflow, and finish with high front unrounded 'i'.",
+  "examples": [
+    {
+      "phi": "mia hasumi milau.",
+      "translation": "I drink tea."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "plant material selected and prepared for an infusion",
+    "physical": "a prepared drink made by steeping plant material"
+  }
+}

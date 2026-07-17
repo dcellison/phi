@@ -8,18 +8,25 @@
     "si"
   ],
   "pos": "verb",
-  "concept": "Spoil / Become Unfit for Intended Eating or Use",
-  "description": "For food or another perishable thing to change until it is no longer fit for the intended eating or use. Direct signs and source evidence may support that practical judgment. 'morume' (decompose) describes material breakdown; 'mukesi' says the household can no longer use the thing as intended.",
-  "sound_symbolism": "Deep 'mu' begins as a low hum behind closed lips. Stressed 'ke' breaks that enclosure with a crisp velar release, then final 'si' narrows the air into a bright hiss. Dark resonance rises steadily to a fine sharp ending.",
-  "grammatical_notes": "An intransitive verb: 'ha nuora to mukesi.' (This food spoiled.) The event-noun rule supplies spoilage. Evidence and intended use may appear in nearby clauses, since a bad smell alone does not identify every cause or risk.",
+  "search_terms": [
+    "spoiled",
+    "spoilage"
+  ],
+  "description": "Bread left damp in a cupboard may 'mukesi' (spoil) as it changes beyond its intended eating or use. The verb also covers other perishables, but fitness depends on the thing and intended use: stale bread and unsafe stored food support different claims. 'morume' (decompose) describes material breakdown; spoilage is lost practical fitness.",
+  "articulatory_notes": "Close the lips for voiced 'm', keep nasal airflow, and round into high back 'u'. Close the back of the tongue for 'k', release it, and move into stressed middle-height front 'e'. Bring the tongue near the alveolar ridge for 's', pass unvoiced air through the narrow channel, and finish with high front 'i'.",
+  "usage_notes": "The perishable thing is the subject of this intransitive verb; as a noun, 'mukesi' is spoilage. Evidence, intended use, and any safety finding may follow in another clause.",
+  "examples": [
+    {
+      "phi": "ha nuora to mukesi.",
+      "translation": "This food spoiled."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Spoilage can expose a broken path of harvest, storage, energy, or distribution without pretending every loss was avoidable.",
-    "pre-industrial-wisdom": "Hands, eyes, and noses learned the difference between useful fermentation, harmless age, and food that should not be eaten."
+    "pre-industrial-wisdom": "Without powered refrigeration, households relied on close observation to distinguish useful ageing from food that had spoiled."
   },
   "semantic_domains": {
-    "activity": "loss of suitability for an intended practical use",
-    "physical": "a perishable thing changing beyond intended use",
-    "temporal": "condition worsening during storage or delay"
+    "physical": "a perishable thing losing fitness for its intended eating or use",
+    "temporal": "practical condition worsening during storage or delay"
   },
   "modules": [
     "household-and-daily-life"

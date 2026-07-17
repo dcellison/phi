@@ -8,7 +8,7 @@
 *Content words appear under their listed lexical class. A rule-supplied event or quality noun does not add another class to the entry. Function words are grouped by grammatical class.*
 
 
-## adjective (206)
+## adjective (212)
 
 | Word | Gloss |
 |---|---|
@@ -20,6 +20,7 @@
 | `hiso` | clean |
 | `horae` | radiant |
 | `hurao` | patient |
+| `hureki` | dirty |
 | `huwa` | weak |
 | `kaelo` | sweet |
 | `kaeshu` | bold |
@@ -64,6 +65,7 @@
 | `luwae` | graceful |
 | `luwi` | flexible |
 | `maeli` | quiet |
+| `meraho` | relieved |
 | `mewali` | interested |
 | `mioru` | beautiful |
 | `mirewu` | private |
@@ -72,6 +74,7 @@
 | `moli` | gentle |
 | `monae` | integral |
 | `monelu` | amused |
+| `moshaki` | bored |
 | `motu` | humble |
 | `mueli` | plain (unadorned) |
 | `muko` | careless |
@@ -104,6 +107,7 @@
 | `nurawi` | chronic |
 | `nuwi` | clear |
 | `palethu` | tactile |
+| `pasharo` | frustrated |
 | `pekira` | toxic |
 | `peloma` | harmful |
 | `pelui` | cold |
@@ -126,6 +130,7 @@
 | `raelu` | tall |
 | `ralemi` | independent |
 | `ralu` | free |
+| `rashowe` | excited |
 | `reshi` | fast |
 | `ruesha` | compassionate |
 | `ruka` | complex |
@@ -204,6 +209,7 @@
 | `wepanu` | redundant |
 | `wero` | honest |
 | `wesha` | lazy |
+| `weshoru` | anxious |
 | `wesoma` | mutual |
 | `whalo` | large |
 | `whemoa` | empty |
@@ -302,7 +308,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (530)
+## noun (545)
 
 | Word | Gloss |
 |---|---|
@@ -310,9 +316,11 @@
 | `haoni` | voice |
 | `haowu` | air |
 | `hasenu` | recess |
+| `hasumi` | tea |
 | `helia` | youth |
 | `heloa` | remedy |
 | `hemilo` | honey |
+| `hemoko` | bee |
 | `henora` | capacity |
 | `herani` | trend |
 | `heru` | herb |
@@ -334,6 +342,7 @@
 | `kanomi` | pelvis |
 | `kanuro` | decision |
 | `karami` | authority |
+| `karume` | goat |
 | `katemu` | offcut |
 | `kathoru` | jaw |
 | `kathu` | seal |
@@ -378,6 +387,7 @@
 | `komalu` | pillow |
 | `komeri` | forehead |
 | `kopharu` | barrier |
+| `kophinu` | disgust |
 | `koremu` | bark |
 | `kori` | leather |
 | `korua` | heart |
@@ -427,6 +437,7 @@
 | `lophae` | storyteller |
 | `lophani` | bottle |
 | `lopia` | child |
+| `lorahu` | wolf |
 | `loremi` | branch |
 | `lorika` | blood |
 | `loriphi` | rainbow |
@@ -453,6 +464,7 @@
 | `lushe` | hip |
 | `maewo` | threshold |
 | `manuwe` | hand |
+| `maruko` | bear |
 | `mashuri` | flesh |
 | `meipa` | seat |
 | `meliphe` | music |
@@ -468,6 +480,7 @@
 | `meraku` | brain |
 | `meshoi` | cheek |
 | `mikasu` | dose |
+| `milaro` | message |
 | `milura` | milk |
 | `miona` | person |
 | `mirae` | eye |
@@ -502,6 +515,7 @@
 | `muero` | autumn |
 | `muhena` | dust |
 | `muila` | earth |
+| `mukowa` | cow |
 | `munari` | sediment |
 | `muneki` | latrine |
 | `muphera` | stock |
@@ -512,7 +526,9 @@
 | `muthari` | nausea |
 | `muwi` | interior |
 | `napa` | bread |
+| `napari` | rice |
 | `napuro` | grain |
+| `naremu` | guilt |
 | `naseru` | obligation |
 | `nasholu` | rule |
 | `naweso` | consensus |
@@ -522,6 +538,7 @@
 | `nira` | cord |
 | `nireku` | insect |
 | `niro` | web |
+| `nirowe` | spider |
 | `nitho` | north |
 | `noa` | position |
 | `nolika` | animal |
@@ -572,6 +589,7 @@
 | `pelowa` | meadow |
 | `pelua` | paper |
 | `pemaru` | hazard |
+| `penuwa` | page |
 | `perola` | rose |
 | `peshiro` | infection |
 | `peshuma` | buttocks |
@@ -666,6 +684,7 @@
 | `sawathi` | soap |
 | `seluwhe` | outage |
 | `sena` | pattern |
+| `senalu` | style |
 | `shalimo` | alliance |
 | `shalu` | fish |
 | `shalumi` | salmon |
@@ -748,6 +767,7 @@
 | `themoka` | treasure |
 | `themore` | argument |
 | `thena` | thing |
+| `thenari` | deer |
 | `thepalu` | garden |
 | `thephaku` | inflammation |
 | `therema` | tradition |
@@ -790,6 +810,7 @@
 | `tomora` | mountain |
 | `toru` | roof |
 | `torua` | year |
+| `tuleno` | frog |
 | `tulira` | tail |
 | `tumeki` | root |
 | `tupeka` | burden |
@@ -941,12 +962,13 @@
 | `theula` | UNIV |
 | `wheli` | ANY |
 
-## verb (352)
+## verb (355)
 
 | Word | Gloss |
 |---|---|
 | `halemu` | remember |
 | `haolu` | speak |
+| `haromi` | meet |
 | `hasi` | wait |
 | `hea` | hear |
 | `hekawi` | find |
@@ -1203,6 +1225,7 @@
 | `sunoe` | regenerate |
 | `talome` | restore |
 | `tapu` | close |
+| `tawemi` | cover |
 | `tawi` | count |
 | `temoe` | tend |
 | `teru` | process |
@@ -1268,6 +1291,7 @@
 | `wephari` | coordinate |
 | `wepu` | go |
 | `wepuri` | progress |
+| `wesaki` | lose |
 | `weshapi` | decorate |
 | `wesho` | locate |
 | `whakeru` | object |

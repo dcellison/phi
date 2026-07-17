@@ -1,0 +1,26 @@
+{
+  "word": "rashowe",
+  "gloss": "excited",
+  "ipa": "/rä.ˈʃo̞.we̞/",
+  "syllables": [
+    "ra",
+    "sho",
+    "we"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "excitement"
+  ],
+  "description": "A child before a festival and a maker whose difficult joint finally fits may both be 'rashowe' (excited). The adjective conveys heightened glad energy around something present or expected. 'therua' (eager) is readiness to act; excitement can remain when no action is available.",
+  "articulatory_notes": "Tap or trill 'r' at the alveolar ridge and open into 'a'. Raise the tongue towards the postalveolar region for 'sh', send unvoiced air through the groove, and round into stressed 'o'. Round the lips again for voiced 'w', then move forward and unround into middle-height 'e'.",
+  "usage_notes": "Use 'nai' (be) to predicate the excited state. Its quality noun is excitement. A phrase with 'wea' (TOWARD) can point to the anticipated occasion.",
+  "examples": [
+    {
+      "phi": "lo lopia wea holia rashowe nai.",
+      "translation": "The children are excited about the festival."
+    }
+  ],
+  "semantic_domains": {
+    "emotion": "heightened glad energy around a present or expected event"
+  }
+}

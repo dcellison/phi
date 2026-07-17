@@ -27,14 +27,14 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Color](#color) | complete | closed | 0 |
 | [Strength, deformation, and recovery](#strength-deformation-and-recovery) | complete | closed | 0 |
 | [Sensory and perceptual qualities](#sensory-and-perceptual-qualities) | complete | closed | 2 |
-| [Aesthetic and formal qualities](#aesthetic-and-formal-qualities) | complete | open | 5 |
+| [Aesthetic and formal qualities](#aesthetic-and-formal-qualities) | complete | closed | 5 |
 | [Awareness and epistemic qualities](#awareness-and-epistemic-qualities) | complete | closed | 0 |
 | [Ethics, care, and candour](#ethics-care-and-candour) | complete | closed | 2 |
-| [Core emotion inventory](#core-emotion-inventory) | complete | open | 1 |
-| [Affective response, anticipation, and resolve](#affective-response-anticipation-and-resolve) | complete | open | 2 |
+| [Core emotion inventory](#core-emotion-inventory) | complete | closed | 1 |
+| [Affective response, anticipation, and resolve](#affective-response-anticipation-and-resolve) | complete | closed | 2 |
 | [Social relation, standing, and personal boundaries](#social-relation-standing-and-personal-boundaries) | complete | closed | 0 |
 | [Life, age, and bodily condition](#life-age-and-bodily-condition) | complete | closed | 0 |
-| [Cultivation, abundance, and wildness](#cultivation-abundance-and-wildness) | complete | open | 3 |
+| [Cultivation, abundance, and wildness](#cultivation-abundance-and-wildness) | complete | closed | 3 |
 | [Structure, identity, and fit](#structure-identity-and-fit) | complete | closed | 0 |
 | [Imagination, unfamiliarity, wonder, and reverence](#imagination-unfamiliarity-wonder-and-reverence) | complete | closed | 0 |
 | [Practical readiness, care, and effort](#practical-readiness-care-and-effort) | complete | closed | 0 |
@@ -42,29 +42,29 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [System fit, equivalence, and dependable performance](#system-fit-equivalence-and-dependable-performance) | complete | closed | 1 |
 | [Work timing, status, capability, and answerability](#work-timing-status-capability-and-answerability) | complete | closed | 1 |
 | [Medical course, transmission, and treatment response](#medical-course-transmission-and-treatment-response) | complete | closed | 1 |
-| [Core speech and conversation](#core-speech-and-conversation) | complete | open | 1 |
-| [Knowledge, understanding, belief, and memory](#knowledge-understanding-belief-and-memory) | complete | open | 2 |
+| [Core speech and conversation](#core-speech-and-conversation) | complete | closed | 1 |
+| [Knowledge, understanding, belief, and memory](#knowledge-understanding-belief-and-memory) | complete | closed | 2 |
 | [Attention, observation, reflection, and imagination](#attention-observation-reflection-and-imagination) | complete | closed | 2 |
 | [Desire, intention, choice, and commitment](#desire-intention-choice-and-commitment) | complete | closed | 0 |
 | [Agreement, consent, refusal, and pressure](#agreement-consent-refusal-and-pressure) | complete | closed | 1 |
 | [Participation, cooperation, contribution, and mutual aid](#participation-cooperation-contribution-and-mutual-aid) | complete | closed | 0 |
-| [Giving, receiving, keeping, and circulation](#giving-receiving-keeping-and-circulation) | complete | open | 1 |
+| [Giving, receiving, keeping, and circulation](#giving-receiving-keeping-and-circulation) | complete | closed | 1 |
 | [Basic motion, endpoints, and staying](#basic-motion-endpoints-and-staying) | complete | closed | 0 |
 | [Manner, trajectory, and extended movement](#manner-trajectory-and-extended-movement) | complete | closed | 0 |
 | [Posture, rest, waiting, and residence](#posture-rest-waiting-and-residence) | complete | closed | 0 |
 | [Breath, intake, and expulsion](#breath-intake-and-expulsion) | complete | closed | 3 |
-| [Contact, force, and placement](#contact-force-and-placement) | complete | open | 3 |
+| [Contact, force, and placement](#contact-force-and-placement) | complete | closed | 3 |
 | [Material change, making, and joining](#material-change-making-and-joining) | complete | closed | 3 |
 | [Change, continuity, repair, and renewal](#change-continuity-repair-and-renewal) | complete | closed | 2 |
 | [Life, growth, cultivation, and flourishing](#life-growth-cultivation-and-flourishing) | complete | closed | 4 |
 | [Care, affection, regard, and relational repair](#care-affection-regard-and-relational-repair) | complete | closed | 0 |
 | [Learning, practice, guidance, and sustained effort](#learning-practice-guidance-and-sustained-effort) | complete | closed | 2 |
-| [Measurement, comparison, meaning, and record](#measurement-comparison-meaning-and-record) | complete | open | 2 |
+| [Measurement, comparison, meaning, and record](#measurement-comparison-meaning-and-record) | complete | closed | 2 |
 | [Ritual, play, and expressive response](#ritual-play-and-expressive-response) | complete | closed | 3 |
-| [Relation, boundaries, and remaining practical acts](#relation-boundaries-and-remaining-practical-acts) | complete | open | 1 |
-| [Personhood, generations, kinship, and social belonging](#personhood-generations-kinship-and-social-belonging) | complete | open | 1 |
+| [Relation, boundaries, and remaining practical acts](#relation-boundaries-and-remaining-practical-acts) | complete | closed | 1 |
+| [Personhood, generations, kinship, and social belonging](#personhood-generations-kinship-and-social-belonging) | complete | closed | 1 |
 | [Body, anatomy, and bodily condition](#body-anatomy-and-bodily-condition) | complete | closed | 10 |
-| [Recovered cross-inventory prompts](#recovered-cross-inventory-prompts) | not-started | open | 29 |
+| [Recovered cross-inventory prompts](#recovered-cross-inventory-prompts) | complete | closed | 29 |
 
 ## Core material qualities
 
@@ -117,7 +117,7 @@ No lexical question from this batch remains outside an explicit coverage decisio
 |---|---|---|---|---|
 | `CV-AEST-01` | decorate or add applied ornament | Implemented | base | Words: `weshapi`. The verb names the addition of visible ornament and keeps design as a separate act. |
 | `CV-AEST-02` | symmetry and asymmetry | Deferred | base, Work, or exact technical description | When a connected design, craft, or technical scenario repeats the relation often enough that comparison clauses become cumbersome. Ordinary clauses can compare corresponding parts, but design or technical work may need symmetry as a recurring property. |
-| `CV-AEST-03` | style and characteristic aesthetic form | Open | base, Work, or art vocabulary | Does Phi want a general word for style, or should each aesthetic tradition be described by the forms that make it recognisable? Art, design, pattern, shape, and beauty do not quite name the recognisable manner shared across several works. |
+| `CV-AEST-03` | style and characteristic aesthetic form | Implemented | base | Words: `senalu`. The noun names a recognisable manner shared across works while keeping pattern, design, shape, and aesthetic judgement distinct. |
 | `CV-SHAPE-01` | straight as an ordinary shape quality | Implemented | base | Words: `tekari`. The adjective separates an uncurved course or extended form from a direct route or steady movement. |
 | `CV-SHAPE-02` | round as an ordinary shape quality | Compositional | base expression | `sorui kire`. The existing circle noun already describes a circular form through the ordinary noun-describes rule, and active text has used the expression naturally. |
 
@@ -136,14 +136,14 @@ No lexical question from this batch remains outside an explicit coverage decisio
 
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
-| `CV-AFFECT-02` | guilt, anxiety, disgust, excitement, relief, frustration, and boredom | Open | base or later affective vocabulary | For each state, what felt structure matters in Phi, and does a root or an established composition express it more honestly? The core lesson is not the whole affective lexicon, and several layered states may deserve direct words or settled compositions. |
+| `CV-AFFECT-02` | guilt, anxiety, disgust, excitement, relief, frustration, and boredom | Implemented | base | Words: `naremu`, `weshoru`, `kophinu`, `rashowe`, `meraho`, `pasharo`, `moshaki`. Seven direct forms expand ordinary self-report beyond the core lesson. Each entry keeps the feeling apart from the judgement, event, or bodily condition that may accompany it. |
 
 ## Affective response, anticipation, and resolve
 
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
 | `CV-AFFECT-01` | sustained interest or engagement | Implemented | base | Words: `mewali`. The adjective keeps interest apart from curiosity and directed attention. |
-| `CV-AFFECT-02` | guilt, anxiety, disgust, excitement, relief, frustration, and boredom | Open | base or later affective vocabulary | See the complete decision under [Core emotion inventory](#core-emotion-inventory). |
+| `CV-AFFECT-02` | guilt, anxiety, disgust, excitement, relief, frustration, and boredom | Implemented | base | See the complete decision under [Core emotion inventory](#core-emotion-inventory). |
 
 ## Social relation, standing, and personal boundaries
 
@@ -157,8 +157,8 @@ No lexical question from this batch remains outside an explicit coverage decisio
 
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
-| `CV-CLEAN-01` | dirty, contaminated, spoiled, and rotten | Open | base, Household, Ecological, or Medical | Which everyday conditions need direct words, while exact contamination and sanitation thresholds remain source-bound? Ordinary cleanliness, visible dirt, spoilage, contamination, and decay make different claims and should not be collapsed into one moral adjective. |
-| `CV-FOOD-01` | rice and tea | Open | base or Household | Does Phi want stable general words for the foods and drinks, with exact varieties left to source names? These culturally widespread staples may deserve ordinary roots, though neither is a semantic universal Phi must copy from English. |
+| `CV-CLEAN-01` | dirty, contaminated, spoiled, and rotten | Implemented | base and established modules | Words: `hureki`, `hiso`, `hisophi`, `mukesi`, `morume`. Base `hureki` names physical dirt. Existing clean, contaminant, spoil, and decompose entries keep practical cleanliness, unexpected presence, lost fitness, and material breakdown separate; active or completed decomposition supplies ordinary rotting without a moralised rotten root. |
+| `CV-FOOD-01` | rice and tea | Implemented | base | Words: `napari`, `hasumi`. The two nouns cover ordinary rice and tea, while exact cultivars, blends, and trade names remain with their sources. |
 | `CV-FOOD-02` | nut | Compositional | base compound | `kerou lureko`. The registered compound names a fruit by its hard stone-like shell and is already used in an active text. |
 
 ## Structure, identity, and fit
@@ -201,14 +201,14 @@ No lexical question from this batch remains outside an explicit coverage decisio
 
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
-| `CV-MEET-01` | meet as a verb | Open | base | Does the event noun already work naturally as a verb-like predicate through existing grammar, or does meeting another person deserve a direct verb? Phi has `lona` (meeting), arrival, presence, and togetherness, but the survey left the ordinary encounter verb undecided. |
+| `CV-MEET-01` | meet as a verb | Implemented | base | Words: `haromi`. Phi does not turn a thing noun into its deed. The new verb names an encounter by plan or chance, while `lona` remains the gathering or meeting event. |
 
 ## Knowledge, understanding, belief, and memory
 
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
 | `CV-COG-01` | amnesia, dementia, impairment, and exact cognitive assessment | Source-bound | Medical plus exact source material | Preserve the diagnosis, test, classification, and source; use Phi to describe the person's reported experience and observed abilities without replacing those records. Ordinary memory and understanding words cannot carry a diagnosis or test result by themselves. |
-| `CV-LOSE-01` | lose and misplace a thing | Open | base | Should Phi coin one neutral verb for losing possession or location, and does deliberate abandonment need a different clause? Forgetting, releasing, lacking, and failing to find something do not by themselves report that a previously held thing is now missing. |
+| `CV-LOSE-01` | lose and misplace a thing | Implemented | base | Words: `wesaki`. The verb reports an unintentionally missing possession or location. Deliberate release, abandonment, contest results, and wider bereavement keep their own accounts. |
 
 ## Attention, observation, reflection, and imagination
 
@@ -235,7 +235,7 @@ No lexical question from this batch remains outside an explicit coverage decisio
 
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
-| `CV-LOSE-01` | lose and misplace a thing | Open | base | See the complete decision under [Knowledge, understanding, belief, and memory](#knowledge-understanding-belief-and-memory). |
+| `CV-LOSE-01` | lose and misplace a thing | Implemented | base | See the complete decision under [Knowledge, understanding, belief, and memory](#knowledge-understanding-belief-and-memory). |
 
 ## Basic motion, endpoints, and staying
 
@@ -263,7 +263,7 @@ No lexical question from this batch remains outside an explicit coverage decisio
 |---|---|---|---|---|
 | `CV-HIT-01` | brief physical impact | Declined | retired vocabulary | Retire patore. Forceful contact uses kema palo, while pesa, pukeri, or kaworu states movement or consequence when the event establishes it. A general impact root gathers contact, displacement, damage, and bodily injury under an unmarked verb whose ordinary reach includes interpersonal blows. |
 | `CV-HIT-02` | peace-linguistic scope and retention of patore | Compositional | base expressions and existing result words | `kema palo`, `pesa`, `pukeri`, `kaworu`. Forceful contact, displacement, material damage, and bodily injury remain separate claims, so ordinary Phi selects the distinction the event establishes. |
-| `CV-AIM-01` | physical alignment towards a selected point or object | Open | Work or a transparent construction | Does craft or measurement need a distinct physical-alignment relation, or do direction, orientation, and purpose already cover the legitimate uses? Direction and intention approach this relation without importing the combat-shaped English extensions of aim and target. |
+| `CV-AIM-01` | physical alignment towards a selected point or object | Compositional | base construction usable in Work | `wea sileta rato`. `wea` (TOWARD) names the selected reference and `rato` (turn) changes an object's facing. The construction covers physical alignment without importing the combat-shaped extensions of aim or target. |
 
 ## Material change, making, and joining
 
@@ -305,7 +305,7 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
 | `CV-SEARCH-01` | search or seek | Implemented | base | Words: `sheraki`. The verb names sustained action towards finding something without claiming that the search succeeds. |
-| `CV-WRITE-01` | page, ink, letter, and message | Open | base or a writing-practice vocabulary set | Which concepts deserve roots in a language with journal and literary practices, and which stay transparent parts, materials, or acts? Phi has writing, reading, books, telling, records, and messengers, but these ordinary objects were never decided. |
+| `CV-WRITE-01` | page, ink, letter, and message | Implemented | base roots and registered compounds | Words: `penuwa`, `milaro`. Compounds: `thekiro tinoa`, `thekiro kiroa`, `thekiro milaro`. Page and message receive direct nouns. Writing dye supplies ink, writing sign supplies a written character, and writing message supplies a letter without reproducing the English homonym. |
 
 ## Ritual, play, and expressive response
 
@@ -319,13 +319,13 @@ No lexical question from this batch remains outside an explicit coverage decisio
 
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
-| `CV-COVER-01` | cover and uncover | Open | base or Household | Does one neutral cover verb earn a base root, with uncover as removal or reversal, or are the purposes different enough to keep explicit? Closing, hiding, protecting, wrapping, and placing something over a surface describe nearby acts but may not cover the ordinary physical relation cleanly. |
+| `CV-COVER-01` | cover and uncover | Implemented | base | Words: `tawemi`, `phae`. The new verb names the physical overlying act. Existing `phae` (open) removes or moves a cover when view or access returns, while closing and hiding keep their own purposes. |
 
 ## Personhood, generations, kinship, and social belonging
 
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
-| `CV-ANIMAL-01` | bee, wolf, deer, bear, frog, spider, cow, and goat | Open | base or Ecological | Which animals does Phi want as direct roots now, independent of whether a particular source text has forced the issue? The animal inventory is broad but sparse for fables, husbandry, pollination, and ordinary ecological writing. |
+| `CV-ANIMAL-01` | bee, wolf, deer, bear, frog, spider, cow, and goat | Implemented | base | Words: `hemoko`, `lorahu`, `thenari`, `maruko`, `tuleno`, `nirowe`, `mukowa`, `karume`. All eight familiar animals receive direct roots for ordinary ecological description, household life, and stories. Exact species, breeds, and technical classifications remain source-specific where needed. |
 
 ## Body, anatomy, and bodily condition
 
@@ -354,23 +354,23 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | `CV-MEAS-04` | weight as a neutral physical magnitude | Implemented | base | See the complete decision under [Size, extent, and distance](#size-extent-and-distance). |
 | `CV-MEAS-05` | mass as a scientific magnitude distinct from weight | Deferred | Systems or exact source material | See the complete decision under [Size, extent, and distance](#size-extent-and-distance). |
 | `CV-SENS-01` | itch, numbness, tingling, and dizziness | Implemented | base | See the complete decision under [Sensory and perceptual qualities](#sensory-and-perceptual-qualities). |
-| `CV-AEST-03` | style and characteristic aesthetic form | Open | base, Work, or art vocabulary | See the complete decision under [Aesthetic and formal qualities](#aesthetic-and-formal-qualities). |
+| `CV-AEST-03` | style and characteristic aesthetic form | Implemented | base | See the complete decision under [Aesthetic and formal qualities](#aesthetic-and-formal-qualities). |
 | `CV-SHAPE-01` | straight as an ordinary shape quality | Implemented | base | See the complete decision under [Aesthetic and formal qualities](#aesthetic-and-formal-qualities). |
 | `CV-SHAPE-02` | round as an ordinary shape quality | Compositional | base expression | See the complete decision under [Aesthetic and formal qualities](#aesthetic-and-formal-qualities). |
 | `CV-CONFLICT-01` | generic conflict and direct roots for violence, fighting, attack, defence, hunting, and killing | Declined | no lexical placement | See the complete decision under [Ethics, care, and candour](#ethics-care-and-candour). |
-| `CV-AFFECT-02` | guilt, anxiety, disgust, excitement, relief, frustration, and boredom | Open | base or later affective vocabulary | See the complete decision under [Core emotion inventory](#core-emotion-inventory). |
-| `CV-CLEAN-01` | dirty, contaminated, spoiled, and rotten | Open | base, Household, Ecological, or Medical | See the complete decision under [Cultivation, abundance, and wildness](#cultivation-abundance-and-wildness). |
-| `CV-LOSE-01` | lose and misplace a thing | Open | base | See the complete decision under [Knowledge, understanding, belief, and memory](#knowledge-understanding-belief-and-memory). |
+| `CV-AFFECT-02` | guilt, anxiety, disgust, excitement, relief, frustration, and boredom | Implemented | base | See the complete decision under [Core emotion inventory](#core-emotion-inventory). |
+| `CV-CLEAN-01` | dirty, contaminated, spoiled, and rotten | Implemented | base and established modules | See the complete decision under [Cultivation, abundance, and wildness](#cultivation-abundance-and-wildness). |
+| `CV-LOSE-01` | lose and misplace a thing | Implemented | base | See the complete decision under [Knowledge, understanding, belief, and memory](#knowledge-understanding-belief-and-memory). |
 | `CV-INTAKE-01` | lick and suck | Implemented | base | See the complete decision under [Breath, intake, and expulsion](#breath-intake-and-expulsion). |
-| `CV-AIM-01` | physical alignment towards a selected point or object | Open | Work or a transparent construction | See the complete decision under [Contact, force, and placement](#contact-force-and-placement). |
+| `CV-AIM-01` | physical alignment towards a selected point or object | Compositional | base construction usable in Work | See the complete decision under [Contact, force, and placement](#contact-force-and-placement). |
 | `CV-SWELL-01` | swell and shrink | Implemented | base | See the complete decision under [Change, continuity, repair, and renewal](#change-continuity-repair-and-renewal). |
-| `CV-COVER-01` | cover and uncover | Open | base or Household | See the complete decision under [Relation, boundaries, and remaining practical acts](#relation-boundaries-and-remaining-practical-acts). |
+| `CV-COVER-01` | cover and uncover | Implemented | base | See the complete decision under [Relation, boundaries, and remaining practical acts](#relation-boundaries-and-remaining-practical-acts). |
 | `CV-BODY-07` | mucus, body fat, and flesh | Implemented | base | See the complete decision under [Body, anatomy, and bodily condition](#body-anatomy-and-bodily-condition). |
-| `CV-ANIMAL-01` | bee, wolf, deer, bear, frog, spider, cow, and goat | Open | base or Ecological | See the complete decision under [Personhood, generations, kinship, and social belonging](#personhood-generations-kinship-and-social-belonging). |
-| `CV-WRITE-01` | page, ink, letter, and message | Open | base or a writing-practice vocabulary set | See the complete decision under [Measurement, comparison, meaning, and record](#measurement-comparison-meaning-and-record). |
-| `CV-FOOD-01` | rice and tea | Open | base or Household | See the complete decision under [Cultivation, abundance, and wildness](#cultivation-abundance-and-wildness). |
+| `CV-ANIMAL-01` | bee, wolf, deer, bear, frog, spider, cow, and goat | Implemented | base | See the complete decision under [Personhood, generations, kinship, and social belonging](#personhood-generations-kinship-and-social-belonging). |
+| `CV-WRITE-01` | page, ink, letter, and message | Implemented | base roots and registered compounds | See the complete decision under [Measurement, comparison, meaning, and record](#measurement-comparison-meaning-and-record). |
+| `CV-FOOD-01` | rice and tea | Implemented | base | See the complete decision under [Cultivation, abundance, and wildness](#cultivation-abundance-and-wildness). |
 | `CV-FOOD-02` | nut | Compositional | base compound | See the complete decision under [Cultivation, abundance, and wildness](#cultivation-abundance-and-wildness). |
-| `CV-MEET-01` | meet as a verb | Open | base | See the complete decision under [Core speech and conversation](#core-speech-and-conversation). |
+| `CV-MEET-01` | meet as a verb | Implemented | base | See the complete decision under [Core speech and conversation](#core-speech-and-conversation). |
 | `CV-PHIL-01` | emergence, correlation, inference strength, and further responsibility distinctions | Deferred | Philosophical Reasoning, Systems, or shared base | When new philosophical arguments or systems explanations need one of the distinctions repeatedly and the existing relations become clumsy or ambiguous. The first philosophical pass named these as later questions rather than completed omissions. |
 | `CV-SYSTEMS-02` | feedforward and later systems relations | Deferred | Systems and Shared Infrastructure | When an original system explanation needs anticipatory control often enough that ordinary input, model, and control clauses obscure the relation. The first Systems pass retained feedback and control but left feedforward and other less common relations for connected technical use. |
 | `CV-ECON-01` | money, prices, wages, debt, profit, taxation, budgets, and contracts | Deferred | a possible Economic Systems and Provisioning module | When an economic profile receives scenarios that can keep accounting, exchange, obligation, extraction, livelihood, and source-defined legal relations apart. Governance and Work deliberately left wider political economy outside their first passes rather than declaring it unnecessary. |

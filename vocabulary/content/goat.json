@@ -1,0 +1,22 @@
+{
+  "word": "karume",
+  "gloss": "goat",
+  "ipa": "/kä.ˈru.me̞/",
+  "syllables": [
+    "ka",
+    "ru",
+    "me"
+  ],
+  "pos": "noun",
+  "description": "Wild or domesticated, a 'karume' is a goat: a hoofed browsing mammal often found feeding among shrubs or rough ground. Goats commonly have horns. 'mophira' (sheep) is a different grazing animal whose fleece supplies 'mophi' (wool).",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for 'k' and release into 'a'. Tap or trill 'r' at the alveolar ridge and raise the back of the tongue into stressed rounded 'u'. Close the lips for voiced 'm', keep nasal airflow, and finish with middle-height front 'e'.",
+  "examples": [
+    {
+      "phi": "karume lirowa nuola.",
+      "translation": "The goat eats leaves."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "a wild or domesticated hoofed browsing mammal"
+  }
+}

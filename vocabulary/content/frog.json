@@ -1,0 +1,22 @@
+{
+  "word": "tuleno",
+  "gloss": "frog",
+  "ipa": "/t̪u.ˈle̞.n̪o̞/",
+  "syllables": [
+    "tu",
+    "le",
+    "no"
+  ],
+  "pos": "noun",
+  "description": "The adult form of a 'tuleno' (frog) has no tail and uses long hind legs for jumping and swimming. Many frogs begin life as aquatic tadpoles before changing into that form. 'teluno' (amphibian) also includes salamanders and caecilians.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into high back rounded 'u'. Touch the tongue to the alveolar ridge for 'l' and move into stressed middle-height front 'e'. Finish with voiced dental 'n', nasal airflow, and middle-height back rounded 'o'.",
+  "examples": [
+    {
+      "phi": "tuleno mua phialu wishe.",
+      "translation": "The frog swims in the water."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "an amphibian whose adult form is tailless and adapted for jumping and swimming"
+  }
+}

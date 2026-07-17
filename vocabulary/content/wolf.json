@@ -1,0 +1,22 @@
+{
+  "word": "lorahu",
+  "gloss": "wolf",
+  "ipa": "/lo̞.ˈrä.hu/",
+  "syllables": [
+    "lo",
+    "ra",
+    "hu"
+  ],
+  "pos": "noun",
+  "description": "The noun 'lorahu' refers to a wolf, a wild canid closely related to the domestic dog. Wolves often live and travel in family groups, though their social lives vary with place and circumstance. 'lohau' (dog) is the domesticated companion species; resemblance does not make the two words interchangeable.",
+  "articulatory_notes": "Touch the tongue to the alveolar ridge for 'l' and round into middle-height back 'o'. Tap or trill 'r' at the same ridge and open into stressed 'a'. Let unvoiced breath pass freely for 'h', then raise the back of the tongue and round the lips for 'u'.",
+  "examples": [
+    {
+      "phi": "lorahu mua nowhu menui.",
+      "translation": "The wolf dwells in a cave."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "a wild canid closely related to the domestic dog"
+  }
+}

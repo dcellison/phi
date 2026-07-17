@@ -1,0 +1,29 @@
+{
+  "word": "tawemi",
+  "gloss": "cover",
+  "ipa": "/t̪ä.ˈwe̞.mi/",
+  "syllables": [
+    "ta",
+    "we",
+    "mi"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "place over",
+    "overlay"
+  ],
+  "description": "'tawemi' means to place or extend one thing over another so that what lies beneath is partly or wholly shielded from view or contact. Cloth can cover a bowl, and soil can cover a seed. 'tapu' (close) brings an opening to a closed state; 'kupe' (hide) centres an observer; 'tawemi' states the physical overlying relation.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into 'a'. Round the lips for voiced 'w', then unround into stressed middle-height front 'e'. Close the lips for voiced 'm', keep the airflow through the nose, and finish with high front unrounded 'i'.",
+  "usage_notes": "The covered thing stands before 'tawemi', and the covering material may take 'roe' (INS). Removing or moving the cover so that view or access returns is 'phae' (open).",
+  "examples": [
+    {
+      "phi": "mia roe wolea noru tawemi.",
+      "translation": "I cover the bowl with cloth."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "placing or extending material over another thing",
+    "physical": "one thing lying over another so that view or contact is limited",
+    "spatial": "an overlying relation that limits view or contact"
+  }
+}

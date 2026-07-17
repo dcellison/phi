@@ -1,0 +1,28 @@
+{
+  "word": "senalu",
+  "gloss": "style",
+  "ipa": "/se̞.ˈn̪ä.lu/",
+  "syllables": [
+    "se",
+    "na",
+    "lu"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "characteristic manner",
+    "aesthetic tradition"
+  ],
+  "description": "Across several works, recurring choices can make a maker, tradition, or period recognisable. That manner is 'senalu': it may be heard in sentence rhythm or seen in a chair's lines. 'sena' (pattern) repeats elements within one work; style spans the wider family of choices by which works come to resemble one another.",
+  "articulatory_notes": "Bring the tongue near the alveolar ridge and pass unvoiced air through a narrow channel for 's', then move into middle-height front 'e'. Touch the tongue tip to the backs of the upper teeth for dental 'n' and release into stressed open central 'a'. Finish with the tongue at the alveolar ridge for 'l', then raise the back of the tongue and round the lips for 'u'.",
+  "sound_symbolism": "The opening 'se.na' is 'sena' (pattern) in full. Final 'lu' carries that familiar sound one syllable further, an audible kinship between the two words without making either a derivation.",
+  "examples": [
+    {
+      "phi": "ha weshapi shia senalu mishoa.",
+      "translation": "This decoration expresses their style."
+    }
+  ],
+  "semantic_domains": {
+    "aesthetic": "a recognisable manner shared across works, practices, or periods",
+    "creation": "recurring formal choices by which made works resemble one another"
+  }
+}

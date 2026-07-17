@@ -1,0 +1,26 @@
+{
+  "word": "mukowa",
+  "gloss": "cow",
+  "ipa": "/mu.ˈko̞.wä/",
+  "syllables": [
+    "mu",
+    "ko",
+    "wa"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "cattle",
+    "bovine"
+  ],
+  "description": "The word 'mukowa' covers domestic cattle without fixing the animal's sex or age. A narrower husbandry or legal classification can keep the relevant source term when it matters. 'milura' (milk) is one substance cattle may provide; it does not define the whole animal.",
+  "articulatory_notes": "Close the lips for voiced 'm', keep the airflow through the nose, and round into high back 'u'. Close the back of the tongue for 'k', release it, and hold stressed middle-height back rounded 'o'. Keep the lips rounded for voiced 'w', then lower the tongue and open into 'a'.",
+  "examples": [
+    {
+      "phi": "mukowa whelina nuola.",
+      "translation": "The cow eats grass."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "domestic cattle considered without an unmarked sex or age distinction"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "word": "wesaki",
+  "gloss": "lose",
+  "ipa": "/we̞.ˈsä.ki/",
+  "syllables": [
+    "we",
+    "sa",
+    "ki"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "misplace"
+  ],
+  "description": "Someone can 'wesaki' a key on the road or misplace it at home: they cease to have that particular thing in their possession or known location without choosing to release it. 'hekawi' (find) may repair that relation, while 'leiro' (release) describes deliberate letting go. 'holume' (loss) reaches beyond misplaced objects to people, places, and possibilities.",
+  "articulatory_notes": "Round the lips for voiced 'w' and unround into middle-height front 'e'. Bring the tongue near the alveolar ridge for 's', pass unvoiced air through the narrow channel, and open into stressed 'a'. Close the back of the tongue for 'k', release it, and finish with high front unrounded 'i'.",
+  "usage_notes": "The verb follows the thing lost. As an event noun, 'wesaki' means losing; a contest result, deliberate abandonment, or the death of a person uses the words for what actually happened.",
+  "examples": [
+    {
+      "phi": "mia kira to wesaki.",
+      "translation": "I lost the key."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "ceasing to possess or know the location of a particular thing",
+    "cognition": "loss of a thing's known location",
+    "spatial": "a previously held thing becoming missing from its expected place"
+  }
+}

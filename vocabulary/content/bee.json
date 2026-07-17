@@ -1,0 +1,22 @@
+{
+  "word": "hemoko",
+  "gloss": "bee",
+  "ipa": "/he̞.ˈmo̞.ko̞/",
+  "syllables": [
+    "he",
+    "mo",
+    "ko"
+  ],
+  "pos": "noun",
+  "description": "A 'hemoko' is a bee, a winged insect commonly seen visiting flowers for nectar or pollen. Some species live in colonies and make honey; many live alone. 'nireku' (insect) gives the wider class, while 'hemilo' (honey) is one food made by some bees.",
+  "articulatory_notes": "Let unvoiced breath pass freely for 'h' and move into middle-height front 'e'. Close the lips for voiced 'm', keep the airflow through the nose, and round into stressed middle-height back 'o'. Close the back of the tongue for 'k', release it, and finish with another rounded 'o'.",
+  "examples": [
+    {
+      "phi": "hemoko wea peloru wapi.",
+      "translation": "The bee flies towards the flower."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "a winged insect commonly associated with flowers across solitary and social species"
+  }
+}

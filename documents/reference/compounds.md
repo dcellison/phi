@@ -48,6 +48,14 @@ This registry is machine-checked and machine-published: `python3 scripts/validat
 |---|---|---|---|
 | `haoni welisha` | voice-color | timbre, tone of voice | Timbre genuinely is the voice's color — the quality that stays when pitch and words are removed. The compound is the standard metaphor stated plainly; a coined label would hide it. |
 
+## Writing
+
+| Compound | Literal | Meaning | Why compositional |
+|---|---|---|---|
+| `thekiro tinoa` | writing-dye | ink | Ink is the colouring material used to leave readable marks. The compound names its work and leaves an exact recipe with its source. |
+| `thekiro kiroa` | writing-sign | letter, written character | `kiroa` already names a visible sign; `thekiro` narrows it to one used in writing and keeps it apart from correspondence. |
+| `thekiro milaro` | writing-message | letter, written correspondence | `milaro` keeps the expression directed towards a recipient, while `thekiro` states its written form. Exact wording remains with the source text when it matters. |
+
 ## Color
 
 | Compound | Literal | Meaning | Why compositional |

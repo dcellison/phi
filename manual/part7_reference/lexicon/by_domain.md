@@ -8,10 +8,11 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (289)
+## activity (290)
 
 | Word | Gloss | In this domain |
 |---|---|---|
+| `haromi` | meet | encountering another participant in concurrent presence or exchange |
 | `hasenu` | recess | a pause held inside a larger proceeding |
 | `hasi` | wait | continuing through an interval in expectation |
 | `hasoru` | pending | a task, request, or decision awaiting its next action or condition |
@@ -90,9 +91,7 @@
 | `molawi` | cooperate | adjusting separate actions so they work compatibly |
 | `moloi` | apprentice | learning a craft through guided practice |
 | `moluki` | transform | extensive change caused or undergone |
-| `morume` | decompose | biological or chemical breakdown of material |
 | `muholi` | dig | removing or shifting workable material to make an opening |
-| `mukesi` | spoil | loss of suitability for an intended practical use |
 | `muko` | careless | an action performed without attention reasonably available for avoiding mistakes or harm |
 | `muphera` | stock | items held for future practical use |
 | `muraki` | harvest | the work of gathering a mature crop |
@@ -222,6 +221,7 @@
 | `takori` | load | required work or throughput relative to a technical function |
 | `talome` | restore | work directed towards a stated earlier or reference condition |
 | `tapu` | close | the act that brings an opening or access point into a closed state |
+| `tawemi` | cover | placing or extending material over another thing |
 | `tawi` | count | enumerating the members of a set for a practical purpose |
 | `temoe` | tend | recurring practical attention to what needs looking after |
 | `teru` | process | work carried through connected operations |
@@ -282,6 +282,7 @@
 | `wephari` | coordinate | arranging dependent work relations |
 | `wepu` | go | going from a present situation along a path |
 | `wepuri` | progress | movement toward a stated practical criterion |
+| `wesaki` | lose | ceasing to possess or know the location of a particular thing |
 | `wesha` | lazy | avoidable reluctance to exert effort in a chosen or accepted activity |
 | `weshapi` | decorate | the act of adding ornament to a thing |
 | `wethaki` | towel | cloth used in wiping or drying |
@@ -302,7 +303,7 @@
 | `wisola` | exchange | participants giving and receiving within one reciprocal arrangement |
 | `wosanu` | absorb | a receiving body taking material into itself |
 
-## aesthetic (84)
+## aesthetic (85)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -357,6 +358,7 @@
 | `rotiku` | dance | rhythm and bodily form experienced or shaped as a dance |
 | `rulo` | red | ordinary reds, whether bright or dark |
 | `sena` | pattern | Repeated design |
+| `senalu` | style | a recognisable manner shared across works, practices, or periods |
 | `shaemu` | organic | Growth-shaped form |
 | `shela` | art | Expressive form |
 | `sheloa` | bloom | the visible opening of a flower |
@@ -391,7 +393,7 @@
 | `wira` | window | View portal |
 | `woraka` | appreciate | positive recognition of a sensory or artistic quality |
 
-## cognition (242)
+## cognition (243)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -407,7 +409,6 @@
 | `hiru` | intuit | a judgement or expectation arising without consciously followed reasoning |
 | `hisaro` | clinical finding | a method-bounded observation available for interpretation |
 | `hisophi` | contaminant | an agent classified relative to a stated expected condition |
-| `holume` | loss | The gone made nameable |
 | `kanelu` | err | a mistake made in thought, memory, judgement, or understanding |
 | `kanu` | choose | settling on one alternative from those considered or available |
 | `kanuro` | decision | a choice assigned settled or actionable status |
@@ -456,6 +457,7 @@
 | `monae` | integral | a necessary part-to-whole relation identified in an analysis |
 | `morae` | sense | perception noticed before it becomes a conclusion or claim of knowledge |
 | `moreko` | articulate | a thought or feeling formed into exact words |
+| `moshaki` | bored | attention left with too little available interest to sustain engagement |
 | `mothami` | baseline | a selected reference condition used for comparison |
 | `mothare` | premise | a proposition serving as a starting point in inference |
 | `muko` | careless | insufficient attention to foreseeable consequences in a stated act |
@@ -621,6 +623,7 @@
 | `weni` | imagine | forming mental content beyond what is presently perceived |
 | `wephari` | coordinate | tracking order, information, and interfaces |
 | `wepuri` | progress | an interpreted relation between current and intended states |
+| `wesaki` | lose | loss of a thing's known location |
 | `weshaku` | outbreak | a cluster or excess defined against stated expectations |
 | `wesho` | locate | determining where a person, thing, or place is |
 | `whakeru` | object | identifying a specific problem in reasoning |
@@ -638,7 +641,7 @@
 | `wireki` | prognosis | a conditional inference about a health course |
 | `woraka` | appreciate | attention that recognises value in a person, act, thing, or condition |
 
-## communication (123)
+## communication (125)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -664,12 +667,13 @@
 | `lathoe` | tongue | a speech organ that shapes breath into articulated sound |
 | `lesawi` | consent | giving, withholding, or withdrawing a bounded answer |
 | `lilea` | clarify | wording repaired so that its intended reference is easier to follow |
-| `lona` | meeting | Shared gathering |
+| `lona` | meeting | an event organised around exchange among participants |
 | `lonae` | respond | the return turn after a question or other prompt |
 | `lophae` | storyteller | Tale sharing |
 | `lumishe` | mentor | continuing guidance through demonstration, questions, and counsel |
 | `manawi` | compromise | an outcome of negotiating differing aims |
 | `menoa` | face | the region where much visible human expression appears |
+| `milaro` | message | a bounded expression directed towards a recipient |
 | `mirewu` | private | chosen limits on access to a conversation, record, or information |
 | `misharo` | consult | an exchange intended to inform later action |
 | `mishoa` | express | thought or feeling given a perceptible form |
@@ -687,6 +691,7 @@
 | `nosheku` | retract | withdrawal of an earlier claim or proposal from one's present contribution |
 | `nowiso` | interface | an informational interface can mediate exchange without guaranteeing understanding |
 | `numike` | negotiate | discussing terms with one or more counterparts |
+| `penuwa` | page | a bounded unit through which written material is presented |
 | `peshu` | lie | an utterance or expressive act intended to produce a false belief |
 | `phae` | open | beginning access to an exchange or response |
 | `phamori` | symptom | the person's own account of bodily or mental experience |
@@ -755,7 +760,7 @@
 | `thosami` | compatible | communication formats able to be exchanged or rendered together |
 | `thumela` | teach | knowledge or skill offered through explanation and demonstration |
 | `thunesi` | asynchronous | an exchange designed for replies without simultaneous presence |
-| `toloi` | messenger | Message carrying |
+| `toloi` | messenger | a participant who conveys a message or communicative object |
 | `welura` | spread | a story or account becoming present among more people |
 | `wero` | honest | speech or conduct free from knowing deception |
 | `whakeru` | object | placing a challenge into discussion for response |
@@ -771,6 +776,7 @@
 | Word | Gloss | In this domain |
 |---|---|---|
 | `haluma` | language | What a people holds in common |
+| `haromi` | meet | people coming into one another's presence by plan or chance |
 | `hasenu` | recess | shared time for rest or repair before resumption |
 | `helaki` | amend | institutional revision with preserved history |
 | `helia` | youth | a young person recognised within social life |
@@ -813,7 +819,7 @@
 | `lokue` | place | places as sites of gathering and meaning |
 | `lomare` | embrace | an embrace used in affection, comfort, greeting, or reunion |
 | `lomea` | sibling | a close family relation between people of the same generation |
-| `lona` | meeting | Assembly event |
+| `lona` | meeting | people gathered for a shared purpose or occasion |
 | `lonae` | respond | recognition of another person's preceding act of communication |
 | `lophae` | storyteller | Narrative role |
 | `lopia` | child | a young person in family and social relations |
@@ -852,7 +858,6 @@
 | `muriwe` | worm | The garden's smallest laborer |
 | `napa` | bread | The staple food of the shared table |
 | `naphe` | help | help directed towards another person or shared undertaking |
-| `napuro` | grain | The staple that sets the table |
 | `naseru` | obligation | a requirement attributed to an agent under a stated source |
 | `nashaku` | enforce | institutional enforcement with stated methods and review |
 | `nasholu` | rule | a rule claimed to apply within a social process |
@@ -1019,7 +1024,7 @@
 | `thuroa` | grow | growth in a community or shared practice |
 | `thuroi` | resilient | shared capacities restored after disruption |
 | `tokemi` | fungus | Underground connectors |
-| `toloi` | messenger | Connecting role |
+| `toloi` | messenger | a person connecting separated participants through carried communication |
 | `tomi` | pot | Daily nourishment |
 | `towe` | well | the overall welfare of a person or group |
 | `tupeka` | burden | weight or demand located on an affected bearer |
@@ -1055,7 +1060,7 @@
 | `wonepa` | table | Where the meal gathers |
 | `woru` | keeper | Guardian role |
 
-## creation (164)
+## creation (165)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1170,6 +1175,7 @@
 | `ruka` | complex | a designed object or system with interacting parts |
 | `sawathi` | soap | a prepared cleansing substance |
 | `selomi` | weave | making fabric or another structure from strands |
+| `senalu` | style | recurring formal choices by which made works resemble one another |
 | `sephori` | supply | supporting making and repair through resource flow |
 | `shela` | art | Aesthetic making |
 | `shemoli` | harmonize | new work fitted into the visual or practical character of an existing whole |
@@ -1224,14 +1230,14 @@
 | `wiru` | basket | Woven craft |
 | `wolea` | wood | Building resource |
 
-## emotion (79)
+## emotion (86)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `heno` | satisfy | a desire or felt need brought to satisfaction |
 | `hola` | laugh | laughter prompted by amusement, joy, relief, or another emotion |
 | `holia` | festival | Communal joy |
-| `holume` | loss | What remains of holding |
+| `holume` | loss | absence that may be felt after a valued relation or possibility ends |
 | `horae` | radiant | delight made visible in a face or manner |
 | `hurao` | patient | willing endurance without being driven by agitation |
 | `kaeli` | like | ordinary liking or affinity towards a person, activity, thing, or quality |
@@ -1240,6 +1246,7 @@
 | `kela` | rejoice | the active experience of marked gladness |
 | `kesu` | determined | felt firmness after a direction has been chosen |
 | `kipona` | pain | pain experienced as grief, anguish, or another emotional hurt |
+| `kophinu` | disgust | strong aversive recoil from a sensory experience or judged conduct |
 | `korua` | heart | the conventional bodily centre of affection, courage, and disposition |
 | `liroa` | playful | lighthearted readiness for play |
 | `loshi` | joyful | the character of something that awakens or expresses joy |
@@ -1248,10 +1255,13 @@
 | `melira` | song | Feeling given melodic shape |
 | `meloa` | persevere | resolve maintained when discouragement could interrupt action |
 | `melu` | friend | friendship commonly carries affection or personal trust |
+| `meraho` | relieved | felt easing after pain, pressure, or worry lessens |
 | `meropi` | cherish | affection towards someone or something held dear |
 | `mewali` | interested | the felt inclination to stay with what has caught one's interest |
 | `mishoa` | express | an inward feeling made available through outward form |
 | `monelu` | amused | light pleasure in finding something funny or entertaining |
+| `moshaki` | bored | the felt state of low engagement and wanted stimulation |
+| `naremu` | guilt | painful feeling directed towards an act or omission judged wrong |
 | `nelu` | revere | deep respect joined with awe |
 | `nemo` | grateful | appreciation felt in response to benefit or support |
 | `nilua` | shy | social hesitation or self-conscious unease |
@@ -1266,6 +1276,7 @@
 | `nuloe` | content | satisfaction with present circumstances or sufficiency |
 | `numea` | nestle | closeness sought as comfort or safety |
 | `nupira` | shame | the painful feeling of being diminished or exposed |
+| `pasharo` | frustrated | agitation produced by a repeatedly blocked effort, need, or course |
 | `phaeli` | tender | gentle feeling towards someone or something held dear or vulnerable |
 | `phaelo` | feel | an emotional state as it is experienced |
 | `phaelu` | peaceful | peacefulness held as a settled disposition |
@@ -1274,6 +1285,7 @@
 | `phesua` | inspire | an urge or hopeful energy stirred in the inspired person |
 | `pula` | wish | wanting an outcome to occur |
 | `puro` | strength | the inward capacity to continue under felt pressure |
+| `rashowe` | excited | heightened glad energy around a present or expected event |
 | `rimawu` | drudgery | the experienced tedium, aversion, or loss of meaning |
 | `rinu` | want | the experience of wanting without a fixed degree or duration |
 | `ruesha` | compassionate | fellow-feeling joined to a wish that suffering ease |
@@ -1301,6 +1313,7 @@
 | `wakomi` | surprise | the felt response when expectation is overtaken by an event |
 | `waora` | wondrous | a person, event, or thing that prompts a felt response of wonder |
 | `wema` | belong | felt attachment to people or place |
+| `weshoru` | anxious | unease oriented towards an uncertain future or capacity to respond |
 | `whaline` | thank | felt gratitude given outward form |
 | `wilao` | long-for | sustained or intense desire for someone, something, or an outcome |
 | `wile` | play | play entered for enjoyment or lightness rather than a required result |
@@ -1308,7 +1321,7 @@
 | `wiroa` | hopeful | felt expectation that a desired outcome remains possible |
 | `woraka` | appreciate | the favourable response that accompanies recognised value |
 
-## ethics (28)
+## ethics (29)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1319,6 +1332,7 @@
 | `lerasu` | cruel | a judgement that conduct knowingly or callously causes avoidable suffering |
 | `lesawi` | consent | consent as a condition of respectful conduct and relationship |
 | `lothoni` | accountable | review that keeps answerability distinct from presumed blame |
+| `naremu` | guilt | an affective response to a judgement about conduct or responsibility |
 | `nawea` | respect | conduct shaped by recognition of another person's worth and autonomy |
 | `naweri` | refuse | refusal as a condition of consent and personal agency |
 | `noemi` | authentic | fidelity between a person's conduct and the commitments they recognize as their own |
@@ -1341,12 +1355,14 @@
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 | `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
-## nature (232)
+## nature (242)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `haowu` | air | elemental connector of all breath |
+| `hasumi` | tea | plant material selected and prepared for an infusion |
 | `hemilo` | honey | The bees' concentrated summer |
+| `hemoko` | bee | a winged insect commonly associated with flowers across solitary and social species |
 | `heru` | herb | Useful plant |
 | `hesura` | ash | The fire's gray remainder |
 | `hinolu` | adapt | organisms or living systems changing in relation to their surroundings |
@@ -1357,6 +1373,7 @@
 | `howenu` | weather | atmospheric conditions and events at a place and time |
 | `kaero` | phase | Process stage |
 | `kalora` | horse | Strength at a stride |
+| `karume` | goat | a wild or domesticated hoofed browsing mammal |
 | `keloi` | summer | Peak growth |
 | `kelua` | morning | Awakening time |
 | `keluo` | metal | Earth ore |
@@ -1393,6 +1410,7 @@
 | `liweso` | ecological community | several living populations considered together in ecological relation |
 | `loesi` | oil | Liquid essence |
 | `lohau` | dog | The companion animal |
+| `lorahu` | wolf | a wild canid closely related to the domestic dog |
 | `loremi` | branch | The tree's reaching limb |
 | `lori` | vital | conditions and relations on which living systems depend |
 | `loriphi` | rainbow | Optical atmospheric phenomenon |
@@ -1407,6 +1425,7 @@
 | `luphore` | river | Flowing waterway |
 | `lureko` | fruit | Plant reproductive structure |
 | `lurepa` | nutrient | material used or required by an organism or living process |
+| `maruko` | bear | a large plantigrade mammal whose habitats and diets vary by species |
 | `melothe` | pond | Small still water body |
 | `meluna` | season | Annual rhythm pattern |
 | `meluri` | climate | long-duration patterns of weather across a region |
@@ -1427,24 +1446,27 @@
 | `morilu` | wave | The sea's moving shape |
 | `morisa` | salt | What the sea leaves behind |
 | `moriwhe` | sea | Saltwater body |
-| `morume` | decompose | a transformation often mediated by organisms and environmental conditions |
+| `morume` | decompose | biological or chemical breakdown within ecological material cycles |
 | `mueri` | clay | Earth material |
 | `muero` | autumn | Completion time |
 | `muhena` | dust | Earth riding the air |
 | `muholi` | dig | working soil in gardens, fields, and water access |
 | `muila` | earth | elemental foundation of terrestrial life |
+| `mukowa` | cow | domestic cattle considered without an unmarked sex or age distinction |
 | `munari` | sediment | particulate material moved or deposited by environmental processes |
 | `muphia` | mud | Earth and water met |
 | `muraki` | harvest | cultivated growth gathered at maturity |
 | `muriwe` | worm | The soil's quiet maker |
 | `muroa` | fertile | the capacity of soil, organisms, or conditions to support growth or reproduction |
-| `napuro` | grain | The seed-crop of the year |
+| `napari` | rice | a cereal plant and its harvested edible seed |
+| `napuro` | grain | edible seed harvested from cereal grasses |
 | `nekuma` | meat | animal tissue understood through the species and body from which it came |
 | `nelore` | preserve | protection of a living place, species, or ecological continuity |
 | `neparu` | cloud | Atmospheric water vapor |
 | `neri` | cool | moderately low temperature in air, water, shade, or weather |
 | `nireku` | insect | Small essential creatures |
 | `niro` | web | Woven pattern |
+| `nirowe` | spider | an eight-legged arachnid across both web-building and non-web-building species |
 | `nitho` | north | The still point of the wheeling sky |
 | `nolika` | animal | Living beings with movement and awareness |
 | `nomira` | collect | collecting specimens or useful material from a living or physical setting |
@@ -1532,6 +1554,7 @@
 | `theama` | care | care for a living thing, habitat, or ecological place |
 | `thelomi` | lake | Freshwater body |
 | `theluo` | steward | stewardship of land, water, habitats, or other ecological commons |
+| `thenari` | deer | a hoofed browsing or grazing mammal of the deer family |
 | `thenoki` | sustain | conditions that continue a living system |
 | `thepalu` | garden | spaces where human culture and natural processes interweave |
 | `theriko` | frost | Frozen surface moisture |
@@ -1547,6 +1570,7 @@
 | `tokemi` | fungus | Decomposers and network beings |
 | `tomora` | mountain | Major land elevation |
 | `torua` | year | Seasonal completion |
+| `tuleno` | frog | an amphibian whose adult form is tailless and adapted for jumping and swimming |
 | `tulira` | tail | The creature's trailing end |
 | `tumeki` | root | Underground plant structure |
 | `tupiwa` | rabbit | The meadow's jumper |
@@ -1578,11 +1602,12 @@
 | `wolu` | healthy | sound life-supporting relations in an organism or ecosystem |
 | `wosanu` | absorb | soil or a living body taking in water or another material |
 
-## physical (411)
+## physical (417)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `haowu` | air | the medium we breathe |
+| `hasumi` | tea | a prepared drink made by steeping plant material |
 | `hea` | hear | auditory reception through the body |
 | `helanu` | recover | movement toward a prior or desired health state |
 | `helia` | youth | a human developmental stage after childhood |
@@ -1599,11 +1624,12 @@
 | `hisae` | skin | the living outer organ of a human or animal body |
 | `hisaro` | clinical finding | an observation concerning bodily or health condition |
 | `hiso` | clean | surfaces, objects, or materials free of unwanted matter for their present use |
-| `hisophi` | contaminant | a substance, organism, or agent present in a sample, place, or process |
+| `hisophi` | contaminant | an agent present in a sample, place, body, or process |
 | `hola` | laugh | breath released through the characteristic bodily act of laughing |
 | `horae` | radiant | light visibly extending from a source |
 | `horuma` | thunder | Sound felt in the chest |
 | `howela` | receive | taking delivery of a material object or substance |
+| `hureki` | dirty | unwanted matter visible on a physical thing or worked into it |
 | `huwa` | weak | limited capacity to exert or withstand force in the relevant situation |
 | `kaelo` | sweet | the taste associated with sugar, honey, and ripe fruit |
 | `kalei` | climb | bodily movement maintained through successive contact |
@@ -1720,11 +1746,11 @@
 | `morashi` | relapse | return or worsening of a health condition after improvement |
 | `morilu` | wave | Water briefly standing up |
 | `morisa` | salt | The sharp taste that preserves |
-| `morume` | decompose | material changing into different constituent forms over time |
+| `morume` | decompose | matter changing into different constituent forms over time |
 | `muhena` | dust | The dry fine remainder |
 | `muholi` | dig | displacement of earth or similar material |
 | `muila` | earth | the ground we stand upon |
-| `mukesi` | spoil | a perishable thing changing beyond intended use |
+| `mukesi` | spoil | a perishable thing losing fitness for its intended eating or use |
 | `mulu` | low | limited height in an object or structure |
 | `munari` | sediment | loose mineral, organic, or mixed particles |
 | `muneki` | latrine | a fixture or place receiving bodily waste |
@@ -1738,7 +1764,9 @@
 | `muthari` | nausea | a bodily sensation associated with the possibility of vomiting |
 | `napa` | bread | Baked grain food |
 | `napako` | bake | heat reaching food from an enclosing chamber |
+| `napari` | rice | rice handled or prepared as food |
 | `naphelu` | assistive | support for a bodily or sensory function |
+| `napuro` | grain | grain handled as a crop, stored material, or food |
 | `nathoku` | contraindicated | advice based on the relation between an intervention and bodily conditions |
 | `natu` | pull | force that draws a body or object along its line of contact |
 | `nekuma` | meat | animal flesh handled or eaten as food |
@@ -1786,6 +1814,7 @@
 | `peloma` | harmful | damage, pain, or reduced capacity caused under stated conditions |
 | `pelui` | cold | temperature felt as a strong chill rather than mild coolness |
 | `pemaru` | hazard | a material, energy source, condition, or process capable of harm |
+| `penuwa` | page | one face of a leaf or a page-shaped display unit |
 | `perawi` | expose | contact through a route over a duration |
 | `perola` | rose | Thorned flowering shrub bloom |
 | `pesa` | push | outward force transmitted through direct contact |
@@ -1903,6 +1932,7 @@
 | `tapu` | close | a door, lid, or container moved into closure |
 | `tapulo` | jar | a holder reached through an opening wider than a bottle neck |
 | `tapuri` | lid | a separate object meeting the rim of a container |
+| `tawemi` | cover | one thing lying over another so that view or contact is limited |
 | `tekari` | straight | an extended object or edge continuing without a bend |
 | `teru` | process | material passing through a set of operations |
 | `tesu` | iron | Enduring strength |
@@ -2066,7 +2096,7 @@
 | `thunepa` | sacred place | Place of reverence |
 | `whunei` | breathe | breath used as an observable object in meditation practice |
 
-## spatial (158)
+## spatial (160)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2187,6 +2217,7 @@
 | `sonari` | isolate | a bounded separation between a source and possible hosts |
 | `sorui` | circle | Round form |
 | `tapu` | close | passage or access ended at a boundary |
+| `tawemi` | cover | an overlying relation that limits view or contact |
 | `tekari` | straight | a course that does not curve or turn over the relevant extent |
 | `teku` | short | limited end-to-end extent in a path or object |
 | `teshori` | quarantine | a temporary boundary around contact and movement |
@@ -2217,6 +2248,7 @@
 | `wema` | belong | belonging to a place experienced as home |
 | `wemo` | plain | Unobstructed expanse |
 | `wepu` | go | directed travel through space |
+| `wesaki` | lose | a previously held thing becoming missing from its expected place |
 | `wesho` | locate | establishing a position within a place or route |
 | `whalo` | large | considerable extent without selecting a particular dimension |
 | `whano` | stand | vertical position relative to a surface |
@@ -2229,7 +2261,7 @@
 | `womuri` | household | daily life organized around a dwelling |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (165)
+## temporal (166)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2241,6 +2273,7 @@
 | `helia` | youth | the life period between childhood and adulthood |
 | `helui` | change | difference between an earlier and a later state |
 | `herani` | trend | direction or recurrence assessed across time or ordered states |
+| `holume` | loss | the condition that remains after something held is gone |
 | `horathe` | dawn | Day's beginning |
 | `howai` | evening | Day's end |
 | `howeli` | wind | Agent of change |
@@ -2293,7 +2326,7 @@
 | `mosha` | period | Time span |
 | `mothami` | baseline | often a documented earlier period or state against which change is assessed |
 | `muero` | autumn | Harvest season |
-| `mukesi` | spoil | condition worsening during storage or delay |
+| `mukesi` | spoil | practical condition worsening during storage or delay |
 | `muraki` | harvest | a crop gathered at the fitting stage or season |
 | `mureo` | stable | a system or condition that persists through ordinary variation |
 | `murethi` | impairment | a function that may be temporary, lasting, or variable |

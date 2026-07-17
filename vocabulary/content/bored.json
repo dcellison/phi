@@ -1,0 +1,27 @@
+{
+  "word": "moshaki",
+  "gloss": "bored",
+  "ipa": "/mo̞.ˈʃä.ki/",
+  "syllables": [
+    "mo",
+    "sha",
+    "ki"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "boredom"
+  ],
+  "description": "Too little interest in the available activity or surroundings can leave someone 'moshaki' (bored). This is not rest: a bored person may want stimulation while a 'shena' calm person may be content with stillness.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the resonance through the nose, and round into middle-height 'o'. Raise the tongue towards the postalveolar region for 'sh' and open into stressed 'a'. Close the back of the tongue for 'k', release it, and finish with high front unrounded 'i'.",
+  "usage_notes": "Predication takes 'nai' (be), while noun position gives boredom under the quality-noun rule. 'mewali' (interested) marks the contrasting state of sustained engagement.",
+  "examples": [
+    {
+      "phi": "mia moshaki nai.",
+      "translation": "I am bored."
+    }
+  ],
+  "semantic_domains": {
+    "cognition": "attention left with too little available interest to sustain engagement",
+    "emotion": "the felt state of low engagement and wanted stimulation"
+  }
+}

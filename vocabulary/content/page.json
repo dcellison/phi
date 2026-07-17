@@ -1,0 +1,27 @@
+{
+  "word": "penuwa",
+  "gloss": "page",
+  "ipa": "/pe̞.ˈn̪u.wä/",
+  "syllables": [
+    "pe",
+    "nu",
+    "wa"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "book page",
+    "screen page"
+  ],
+  "description": "In a physical book, 'penuwa' picks out one side of a leaf. On a screen, it is a page-shaped unit that can be read or moved through. The word covers one bounded face or unit of a written work; 'pelua' (paper) is the material, while 'shelu' (book) is the larger work or vessel.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into middle-height front 'e'. Place the tongue tip against the backs of the upper teeth for dental 'n', carry the voice through the nose, and round into stressed high back 'u'. Keep the lips rounded for voiced 'w', then lower the tongue and open into 'a'.",
+  "examples": [
+    {
+      "phi": "mia penuwa theo.",
+      "translation": "I read the page."
+    }
+  ],
+  "semantic_domains": {
+    "communication": "a bounded unit through which written material is presented",
+    "physical": "one face of a leaf or a page-shaped display unit"
+  }
+}

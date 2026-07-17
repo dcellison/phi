@@ -8,18 +8,25 @@
     "me"
   ],
   "pos": "verb",
-  "concept": "Decompose / Break Down Through Biological or Chemical Processes",
-  "description": "To break down through biological or chemical processes. Decomposition can release nutrients, bind them, or move them elsewhere, and it is a distinct process from death, disappearance, or the closing of any particular cycle.",
-  "sound_symbolism": "'Mo' holds the first sound behind closed lips in a rounded form. Stressed 'ru' rolls that form apart and carries it through deep 'u'. Soft 'me' brings the lips together again with a lighter vowel and a changed shape; material has passed through motion and settled differently.",
-  "grammatical_notes": "An intransitive verb: 'ha wolea si morume.' (The wood is decomposing.) State material, organisms, conditions, time, products, and evidence where needed. The event-noun rule supplies decomposition. Distinct from 'pukate' (break), 'lumeo' (die), 'kelu' (become), decay as a value judgment, and managed composting.",
+  "search_terms": [
+    "rot",
+    "decay"
+  ],
+  "description": "Fallen wood and food scraps can 'morume' (decompose) at different rates and under different conditions. The verb describes breakdown through biological or chemical processes. 'mukesi' (spoil) says that a perishable thing is no longer fit for its intended use; decomposition is the material process itself.",
+  "articulatory_notes": "Close the lips for voiced 'm', keep nasal airflow, and round into middle-height back 'o'. Tap or trill 'r' at the alveolar ridge and raise the back of the tongue into stressed rounded 'u'. Close the lips again for 'm', then finish with middle-height front 'e'.",
+  "usage_notes": "The material is the subject of this intransitive verb. Imperfective 'si morume' presents active decomposition or rotting; perfective 'ki morume' presents a bounded completed breakdown. Any judgement about smell, usefulness, or safety belongs in its own clause.",
+  "examples": [
+    {
+      "phi": "ha wolea si morume.",
+      "translation": "This wood is decomposing."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Decomposition supports honest material-afterlife discussion without promising that every discarded material returns safely or usefully.",
-    "secular-buddhist-philosophy": "The word presents material form as conditioned and changing while preserving the specific processes and consequences of that change."
+    "solarpunk-values": "Decomposition keeps a material's afterlife visible. Conditions determine whether it returns nutrients or leaves harmful residues."
   },
   "semantic_domains": {
-    "activity": "biological or chemical breakdown of material",
-    "nature": "a transformation often mediated by organisms and environmental conditions",
-    "physical": "material changing into different constituent forms over time"
+    "nature": "biological or chemical breakdown within ecological material cycles",
+    "physical": "matter changing into different constituent forms over time"
   },
   "modules": [
     "ecological-systems-and-material-life"

@@ -8,14 +8,14 @@
     {"id": "color", "heading": "Color", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "strength-deformation-and-recovery", "heading": "Strength, deformation, and recovery", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "sensory-and-perceptual-qualities", "heading": "Sensory and perceptual qualities", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-TASTE-01", "CV-SENS-01"]},
-    {"id": "aesthetic-and-formal-qualities", "heading": "Aesthetic and formal qualities", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-AEST-01", "CV-AEST-02", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02"]},
+    {"id": "aesthetic-and-formal-qualities", "heading": "Aesthetic and formal qualities", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-AEST-01", "CV-AEST-02", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02"]},
     {"id": "awareness-and-epistemic-qualities", "heading": "Awareness and epistemic qualities", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "ethics-care-and-candour", "heading": "Ethics, care, and candour", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-ETH-01", "CV-CONFLICT-01"]},
-    {"id": "core-emotion-inventory", "heading": "Core emotion inventory", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-AFFECT-02"]},
-    {"id": "affective-response-anticipation-and-resolve", "heading": "Affective response, anticipation, and resolve", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-AFFECT-01", "CV-AFFECT-02"]},
+    {"id": "core-emotion-inventory", "heading": "Core emotion inventory", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-AFFECT-02"]},
+    {"id": "affective-response-anticipation-and-resolve", "heading": "Affective response, anticipation, and resolve", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-AFFECT-01", "CV-AFFECT-02"]},
     {"id": "social-relation-standing-and-personal-boundaries", "heading": "Social relation, standing, and personal boundaries", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "life-age-and-bodily-condition", "heading": "Life, age, and bodily condition", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
-    {"id": "cultivation-abundance-and-wildness", "heading": "Cultivation, abundance, and wildness", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-CLEAN-01", "CV-FOOD-01", "CV-FOOD-02"]},
+    {"id": "cultivation-abundance-and-wildness", "heading": "Cultivation, abundance, and wildness", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-CLEAN-01", "CV-FOOD-01", "CV-FOOD-02"]},
     {"id": "structure-identity-and-fit", "heading": "Structure, identity, and fit", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "imagination-unfamiliarity-wonder-and-reverence", "heading": "Imagination, unfamiliarity, wonder, and reverence", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "practical-readiness-care-and-effort", "heading": "Practical readiness, care, and effort", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
@@ -23,29 +23,29 @@
     {"id": "system-fit-equivalence-and-dependable-performance", "heading": "System fit, equivalence, and dependable performance", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-SYS-01"]},
     {"id": "work-timing-status-capability-and-answerability", "heading": "Work timing, status, capability, and answerability", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-WORK-01"]},
     {"id": "medical-course-transmission-and-treatment-response", "heading": "Medical course, transmission, and treatment response", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MED-01"]},
-    {"id": "core-speech-and-conversation", "heading": "Core speech and conversation", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-MEET-01"]},
-    {"id": "knowledge-understanding-belief-and-memory", "heading": "Knowledge, understanding, belief, and memory", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-COG-01", "CV-LOSE-01"]},
+    {"id": "core-speech-and-conversation", "heading": "Core speech and conversation", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEET-01"]},
+    {"id": "knowledge-understanding-belief-and-memory", "heading": "Knowledge, understanding, belief, and memory", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-COG-01", "CV-LOSE-01"]},
     {"id": "attention-observation-reflection-and-imagination", "heading": "Attention, observation, reflection, and imagination", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEDIT-01", "CV-AFFECT-01"]},
     {"id": "desire-intention-choice-and-commitment", "heading": "Desire, intention, choice, and commitment", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "agreement-consent-refusal-and-pressure", "heading": "Agreement, consent, refusal, and pressure", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-RETRACT-01"]},
     {"id": "participation-cooperation-contribution-and-mutual-aid", "heading": "Participation, cooperation, contribution, and mutual aid", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
-    {"id": "giving-receiving-keeping-and-circulation", "heading": "Giving, receiving, keeping, and circulation", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-LOSE-01"]},
+    {"id": "giving-receiving-keeping-and-circulation", "heading": "Giving, receiving, keeping, and circulation", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-LOSE-01"]},
     {"id": "basic-motion-endpoints-and-staying", "heading": "Basic motion, endpoints, and staying", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "manner-trajectory-and-extended-movement", "heading": "Manner, trajectory, and extended movement", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "posture-rest-waiting-and-residence", "heading": "Posture, rest, waiting, and residence", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "breath-intake-and-expulsion", "heading": "Breath, intake, and expulsion", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-NAUSEA-01", "CV-BREATH-01", "CV-INTAKE-01"]},
-    {"id": "contact-force-and-placement", "heading": "Contact, force, and placement", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-HIT-01", "CV-HIT-02", "CV-AIM-01"]},
+    {"id": "contact-force-and-placement", "heading": "Contact, force, and placement", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-HIT-01", "CV-HIT-02", "CV-AIM-01"]},
     {"id": "material-change-making-and-joining", "heading": "Material change, making, and joining", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-PUNCTURE-01", "CV-DISSOLVE-01", "CV-TEXT-01"]},
     {"id": "change-continuity-repair-and-renewal", "heading": "Change, continuity, repair, and renewal", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-DISSOLVE-01", "CV-SWELL-01"]},
     {"id": "life-growth-cultivation-and-flourishing", "heading": "Life, growth, cultivation, and flourishing", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-WITHER-01", "CV-REPRO-01", "CV-CULT-01", "CV-SWELL-01"]},
     {"id": "care-affection-regard-and-relational-repair", "heading": "Care, affection, regard, and relational repair", "migration_status": "complete", "decision_status": "closed", "candidate_ids": []},
     {"id": "learning-practice-guidance-and-sustained-effort", "heading": "Learning, practice, guidance, and sustained effort", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-TRY-01", "CV-EDU-01"]},
-    {"id": "measurement-comparison-meaning-and-record", "heading": "Measurement, comparison, meaning, and record", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-SEARCH-01", "CV-WRITE-01"]},
+    {"id": "measurement-comparison-meaning-and-record", "heading": "Measurement, comparison, meaning, and record", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-SEARCH-01", "CV-WRITE-01"]},
     {"id": "ritual-play-and-expressive-response", "heading": "Ritual, play, and expressive response", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-HIT-01", "CV-HIT-02", "CV-APPLAUSE-01"]},
-    {"id": "relation-boundaries-and-remaining-practical-acts", "heading": "Relation, boundaries, and remaining practical acts", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-COVER-01"]},
-    {"id": "personhood-generations-kinship-and-social-belonging", "heading": "Personhood, generations, kinship, and social belonging", "migration_status": "complete", "decision_status": "open", "candidate_ids": ["CV-ANIMAL-01"]},
+    {"id": "relation-boundaries-and-remaining-practical-acts", "heading": "Relation, boundaries, and remaining practical acts", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-COVER-01"]},
+    {"id": "personhood-generations-kinship-and-social-belonging", "heading": "Personhood, generations, kinship, and social belonging", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-ANIMAL-01"]},
     {"id": "body-anatomy-and-bodily-condition", "heading": "Body, anatomy, and bodily condition", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-BODY-01", "CV-BODY-02", "CV-BODY-03", "CV-BODY-04", "CV-BODY-05", "CV-BODY-06", "CV-BODY-07", "CV-BODY-08", "CV-BODY-09", "CV-SENS-01"]},
-    {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "not-started", "decision_status": "open", "candidate_ids": ["CV-MAT-02", "CV-MAT-05", "CV-MAT-06", "CV-MEAS-02", "CV-MEAS-03", "CV-MEAS-04", "CV-MEAS-05", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]}
+    {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-02", "CV-MAT-05", "CV-MAT-06", "CV-MEAS-02", "CV-MEAS-03", "CV-MEAS-04", "CV-MEAS-05", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]}
   ],
   "candidates": [
     {
@@ -186,10 +186,10 @@
     {
       "id": "CV-AEST-03",
       "concept": "style and characteristic aesthetic form",
-      "status": "open",
-      "placement": "base, Work, or art vocabulary",
-      "summary": "Art, design, pattern, shape, and beauty do not quite name the recognisable manner shared across several works.",
-      "question": "Does Phi want a general word for style, or should each aesthetic tradition be described by the forms that make it recognisable?",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "The noun names a recognisable manner shared across works while keeping pattern, design, shape, and aesthetic judgement distinct.",
+      "implementation": {"words": ["senalu"], "files": ["vocabulary/content/style.json"]},
       "batches": ["aesthetic-and-formal-qualities", "recovered-cross-inventory-prompts"]
     },
     {
@@ -240,28 +240,28 @@
     {
       "id": "CV-AFFECT-02",
       "concept": "guilt, anxiety, disgust, excitement, relief, frustration, and boredom",
-      "status": "open",
-      "placement": "base or later affective vocabulary",
-      "summary": "The core lesson is not the whole affective lexicon, and several layered states may deserve direct words or settled compositions.",
-      "question": "For each state, what felt structure matters in Phi, and does a root or an established composition express it more honestly?",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "Seven direct forms expand ordinary self-report beyond the core lesson. Each entry keeps the feeling apart from the judgement, event, or bodily condition that may accompany it.",
+      "implementation": {"words": ["naremu", "weshoru", "kophinu", "rashowe", "meraho", "pasharo", "moshaki"], "files": ["vocabulary/content/guilt.json", "vocabulary/content/anxious.json", "vocabulary/content/disgust.json", "vocabulary/content/excited.json", "vocabulary/content/relieved.json", "vocabulary/content/frustrated.json", "vocabulary/content/bored.json"]},
       "batches": ["core-emotion-inventory", "affective-response-anticipation-and-resolve", "recovered-cross-inventory-prompts"]
     },
     {
       "id": "CV-CLEAN-01",
       "concept": "dirty, contaminated, spoiled, and rotten",
-      "status": "open",
-      "placement": "base, Household, Ecological, or Medical",
-      "summary": "Ordinary cleanliness, visible dirt, spoilage, contamination, and decay make different claims and should not be collapsed into one moral adjective.",
-      "question": "Which everyday conditions need direct words, while exact contamination and sanitation thresholds remain source-bound?",
+      "status": "implemented",
+      "placement": "base and established modules",
+      "summary": "Base `hureki` names physical dirt. Existing clean, contaminant, spoil, and decompose entries keep practical cleanliness, unexpected presence, lost fitness, and material breakdown separate; active or completed decomposition supplies ordinary rotting without a moralised rotten root.",
+      "implementation": {"words": ["hureki", "hiso", "hisophi", "mukesi", "morume"], "files": ["vocabulary/content/dirty.json", "vocabulary/content/clean.json", "vocabulary/content/contaminant.json", "vocabulary/content/spoil.json", "vocabulary/content/decompose.json"]},
       "batches": ["cultivation-abundance-and-wildness", "recovered-cross-inventory-prompts"]
     },
     {
       "id": "CV-FOOD-01",
       "concept": "rice and tea",
-      "status": "open",
-      "placement": "base or Household",
-      "summary": "These culturally widespread staples may deserve ordinary roots, though neither is a semantic universal Phi must copy from English.",
-      "question": "Does Phi want stable general words for the foods and drinks, with exact varieties left to source names?",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "The two nouns cover ordinary rice and tea, while exact cultivars, blends, and trade names remain with their sources.",
+      "implementation": {"words": ["napari", "hasumi"], "files": ["vocabulary/content/rice.json", "vocabulary/content/tea.json"]},
       "batches": ["cultivation-abundance-and-wildness", "recovered-cross-inventory-prompts"]
     },
     {
@@ -321,10 +321,10 @@
     {
       "id": "CV-LOSE-01",
       "concept": "lose and misplace a thing",
-      "status": "open",
+      "status": "implemented",
       "placement": "base",
-      "summary": "Forgetting, releasing, lacking, and failing to find something do not by themselves report that a previously held thing is now missing.",
-      "question": "Should Phi coin one neutral verb for losing possession or location, and does deliberate abandonment need a different clause?",
+      "summary": "The verb reports an unintentionally missing possession or location. Deliberate release, abandonment, contest results, and wider bereavement keep their own accounts.",
+      "implementation": {"words": ["wesaki"], "files": ["vocabulary/content/lose.json"]},
       "batches": ["knowledge-understanding-belief-and-memory", "giving-receiving-keeping-and-circulation", "recovered-cross-inventory-prompts"]
     },
     {
@@ -339,10 +339,10 @@
     {
       "id": "CV-MEET-01",
       "concept": "meet as a verb",
-      "status": "open",
+      "status": "implemented",
       "placement": "base",
-      "summary": "Phi has `lona` (meeting), arrival, presence, and togetherness, but the survey left the ordinary encounter verb undecided.",
-      "question": "Does the event noun already work naturally as a verb-like predicate through existing grammar, or does meeting another person deserve a direct verb?",
+      "summary": "Phi does not turn a thing noun into its deed. The new verb names an encounter by plan or chance, while `lona` remains the gathering or meeting event.",
+      "implementation": {"words": ["haromi"], "files": ["vocabulary/content/meet.json"]},
       "batches": ["core-speech-and-conversation", "recovered-cross-inventory-prompts"]
     },
     {
@@ -438,10 +438,10 @@
     {
       "id": "CV-AIM-01",
       "concept": "physical alignment towards a selected point or object",
-      "status": "open",
-      "placement": "Work or a transparent construction",
-      "summary": "Direction and intention approach this relation without importing the combat-shaped English extensions of aim and target.",
-      "question": "Does craft or measurement need a distinct physical-alignment relation, or do direction, orientation, and purpose already cover the legitimate uses?",
+      "status": "compositional",
+      "placement": "base construction usable in Work",
+      "summary": "`wea` (TOWARD) names the selected reference and `rato` (turn) changes an object's facing. The construction covers physical alignment without importing the combat-shaped extensions of aim or target.",
+      "expressions": ["wea sileta rato"],
       "batches": ["contact-force-and-placement", "recovered-cross-inventory-prompts"]
     },
     {
@@ -537,10 +537,10 @@
     {
       "id": "CV-WRITE-01",
       "concept": "page, ink, letter, and message",
-      "status": "open",
-      "placement": "base or a writing-practice vocabulary set",
-      "summary": "Phi has writing, reading, books, telling, records, and messengers, but these ordinary objects were never decided.",
-      "question": "Which concepts deserve roots in a language with journal and literary practices, and which stay transparent parts, materials, or acts?",
+      "status": "implemented",
+      "placement": "base roots and registered compounds",
+      "summary": "Page and message receive direct nouns. Writing dye supplies ink, writing sign supplies a written character, and writing message supplies a letter without reproducing the English homonym.",
+      "implementation": {"words": ["penuwa", "milaro"], "files": ["vocabulary/content/page.json", "vocabulary/content/message.json"], "compounds": ["thekiro tinoa", "thekiro kiroa", "thekiro milaro"]},
       "batches": ["measurement-comparison-meaning-and-record", "recovered-cross-inventory-prompts"]
     },
     {
@@ -555,19 +555,19 @@
     {
       "id": "CV-COVER-01",
       "concept": "cover and uncover",
-      "status": "open",
-      "placement": "base or Household",
-      "summary": "Closing, hiding, protecting, wrapping, and placing something over a surface describe nearby acts but may not cover the ordinary physical relation cleanly.",
-      "question": "Does one neutral cover verb earn a base root, with uncover as removal or reversal, or are the purposes different enough to keep explicit?",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "The new verb names the physical overlying act. Existing `phae` (open) removes or moves a cover when view or access returns, while closing and hiding keep their own purposes.",
+      "implementation": {"words": ["tawemi", "phae"], "files": ["vocabulary/content/cover.json", "vocabulary/content/open.json"]},
       "batches": ["relation-boundaries-and-remaining-practical-acts", "recovered-cross-inventory-prompts"]
     },
     {
       "id": "CV-ANIMAL-01",
       "concept": "bee, wolf, deer, bear, frog, spider, cow, and goat",
-      "status": "open",
-      "placement": "base or Ecological",
-      "summary": "The animal inventory is broad but sparse for fables, husbandry, pollination, and ordinary ecological writing.",
-      "question": "Which animals does Phi want as direct roots now, independent of whether a particular source text has forced the issue?",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "All eight familiar animals receive direct roots for ordinary ecological description, household life, and stories. Exact species, breeds, and technical classifications remain source-specific where needed.",
+      "implementation": {"words": ["hemoko", "lorahu", "thenari", "maruko", "tuleno", "nirowe", "mukowa", "karume"], "files": ["vocabulary/content/bee.json", "vocabulary/content/wolf.json", "vocabulary/content/deer.json", "vocabulary/content/bear.json", "vocabulary/content/frog.json", "vocabulary/content/spider.json", "vocabulary/content/cow.json", "vocabulary/content/goat.json"]},
       "batches": ["personhood-generations-kinship-and-social-belonging", "recovered-cross-inventory-prompts"]
     },
     {

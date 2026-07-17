@@ -1,0 +1,22 @@
+{
+  "word": "thenari",
+  "gloss": "deer",
+  "ipa": "/θe̞.ˈn̪ä.ri/",
+  "syllables": [
+    "the",
+    "na",
+    "ri"
+  ],
+  "pos": "noun",
+  "description": "The noun 'thenari' covers deer across age and sex unless a source needs a narrower classification. Deer are hoofed mammals that browse or graze, and many grow antlers, which 'kurona' (horn) already includes by extension.",
+  "articulatory_notes": "Place the tongue lightly at the upper teeth and pass unvoiced air around it for 'th', then move into middle-height front 'e'. Touch the tongue tip to the backs of the upper teeth for dental 'n' and open into stressed 'a'. Tap or trill 'r' at the alveolar ridge and finish with high front unrounded 'i'.",
+  "examples": [
+    {
+      "phi": "thenari whelina nuola.",
+      "translation": "The deer eats grass."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "a hoofed browsing or grazing mammal of the deer family"
+  }
+}

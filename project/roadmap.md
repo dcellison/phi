@@ -56,7 +56,7 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | Philosophical capability | **PARTIAL** | Matrix, repair conventions, and fifteen test dialogues exist; several operations remain gaps. |
 | Solo evaluation | **READY** | Structural checks are complete; choice, paraphrase, transformation, and repair trials remain available after the breaking migration. |
 | Speech and listening evidence | **READY** | Audit tooling and protocols exist; recordings and perception results do not. |
-| Evidence-led semantic growth | **PARTIAL** | All eight active profiles have completed first vocabulary passes. Completed base content batches now have a coverage ledger, and a machine-checked decision register prevents lexical questions from disappearing behind finished prose migration. |
+| Evidence-led semantic growth | **PARTIAL** | All eight active profiles have completed first vocabulary passes, and every recovered content-vocabulary question now has an explicit decision. The target-prose migration remains unfinished. |
 | Practice and domain profiles | **DONE** | Eight active profiles are established vocabulary modules with speaker chapters, and further possibilities remain recorded separately. |
 | Original Phi corpus | **PARTIAL** | Fifteen philosophical dialogues exist, and the literary shelf has completed its after-state review. Scenarios, dialogues, and teaching texts remain; sustained essays and spontaneous transcripts do not yet exist. |
 | Learner and community evidence | **EVIDENCE** | Materials exist, but there is no recorded outside learner or recurring speaker evidence. |
@@ -179,7 +179,9 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | SEM-08D | **DONE** | Replace 30 Ecological Systems and Material Life forms. | Completed ledger scope, scenarios, profile, and generated reference | Reopen only if an active use of an old form is found. |
 | SEM-08E | **DONE** | Replace 29 Commons and Collective Governance forms and close the migration. | Completed ledger scope; validator has no long-form exception | Reopen only if an active use of an old form is found. |
 | SEM-09 | **PARTIAL** | Migrate inherited vocabulary prose to the target contract. | D017, transitional JSON Schema, field-aware explorer, and committed coverage report | Revise entries in bounded batches until every entry is target-shaped, with Phi forms and exact glosses held fixed unless a separate lexical decision changes them. |
-| SEM-09A | **IN PROGRESS** | Apply a semantic coverage gate to content prose batches and preserve every noticed lexical decision. | `project/content_vocabulary_coverage.md` audits every completed base batch; `project/content_vocabulary_decisions.json` separates migration state from lexical closure and CI rejects unregistered review rows or a batch closed over open work. D020 through D032 record accepted additions. | Decide the eleven remaining open candidate groups, then continue inherited migration without allowing prose completion to erase or defer an unrecorded lexical question. |
+| SEM-09A | **DONE** | Apply a semantic coverage gate to content prose batches and preserve every noticed lexical decision. | `project/content_vocabulary_coverage.md` audits every completed base batch; `project/content_vocabulary_decisions.json` has no open or accepted candidate; D020 through D034 record the resulting additions, compositions, deferrals, source boundaries, and refusals. | Keep the gate active during the remaining migration so a newly noticed question receives an ID before its batch closes. |
+| SEM-09B | **NEXT** | Complete target-prose migration for the remaining base content vocabulary. | 277 base entries remain legacy-shaped after D034 | Revise bounded semantic batches without changing Phi forms or exact glosses unless a separate lexical decision requires it. |
+| SEM-09C | **PENDING** | Complete target-prose migration for module content vocabulary. | 209 module entries remain legacy-shaped after D034 | Begin after SEM-09B, preserve current module memberships, and run the same coverage gate on every batch. |
 
 ### Default coinage checklist
 
@@ -213,6 +215,7 @@ This checklist protects implementation quality. It does not require external app
 | PED-05 | **EVIDENCE** | Curriculum pacing and retention evidence. | No result yet | Re-test selected material after a delay; revise ordering before adding explanations. |
 | PED-06 | **READY** | Maintainer-as-learner regression pass after a blind interval. | Existing curriculum | Complete the primer exercises without consulting answers and log friction without generalizing to all learners. |
 | PED-07 | **EVIDENCE** | Accessibility review for visual, auditory, cognitive, and motor needs. | Established vocabulary module, speaker chapter, and two scripted scenarios exist; no affected-user review yet | Invite affected users to identify barriers; prioritize practical access over aesthetic doctrine. |
+| PED-08 | **PENDING** | Continue the Phi book under its treatment and established chapter voice. | `book/treatment.md`; completed chapters in `book/` | Resume the next planned chapter after SEM-09B and SEM-09C, then audit its citations before publication. |
 
 ## Phase 8: Community practice and cultural accountability
 
@@ -247,7 +250,7 @@ This phase is adjacent to the linguistic improvement plan and follows the order 
 
 ## Current execution sequence
 
-The three-syllable lexical migration and literary-shelf review are complete. SEM-01C continues with scenarios, dialogues, and teaching texts; original philosophical use, evaluation, and speech work remain available alongside it.
+The three-syllable lexical migration, literary-shelf review, and recovered vocabulary decisions are complete. The active sequence is now fixed: finish the 277 remaining base prose migrations, finish the 209 module prose migrations, then return to the Phi book. Texts receive only targeted follow-up where an actual lexical addition improves a passage.
 
 ### Completed work package 0: Three-syllable lexical migration
 
@@ -263,19 +266,29 @@ The three-syllable lexical migration and literary-shelf review are complete. SEM
 
 All 112 replacements preserve the vocabulary schema and active uses under forms of no more than three syllables. The ledger records the old-to-new mappings, generated references and phonetic baselines agree with the current lexicon, and the validator now applies the ceiling without an exception list. Old four-syllable forms are absent from vocabulary by class rather than copied into the short-form retirement list.
 
-### Work package A: Continue vocabulary module passes
+### Work package A: Finish lexicon prose migration
 
-**Roadmap items:** SEM-01A, SEM-02, SEM-05.
+**Roadmap items:** SEM-09B and SEM-09C.
 
-1. Select one of the remaining active profiles.
-2. Inventory the domain concepts and the existing core words that already serve them.
-3. Keep transparent compounds where their parts illuminate the concept.
-4. Coin complete module entries wherever a dedicated word is useful, precise, or desirable.
-5. Add a Part VII speaker chapter, regenerate module references, expose the module in the web lexicon, and run the full validation suite.
+1. Revise the remaining base entries in bounded semantic batches. Preserve each Phi form and exact gloss unless a separate lexical decision changes it.
+2. Apply the content-coverage gate to every batch and record any newly noticed question before calling the prose work complete.
+3. Continue through module entries only after the base queue reaches zero. Preserve every established module membership.
+4. Refresh the coverage report and generated references after every batch, then run the standalone validator and site build.
 
-**Exit criterion:** the selected profile has a documented vocabulary pass, complete canonical entries, validated examples, generated indexing, and accessible speaker guidance.
+**Exit criterion:** no content entry remains legacy-shaped, every noticed lexical question has an explicit decision, and generated views agree with the canonical JSON.
 
-### Work package B: Original Philosophical Reasoning use
+### Work package B: Resume the Phi book
+
+**Roadmap item:** PED-08.
+
+1. Read `book/treatment.md` and the preceding chapters before drafting the next planned chapter.
+2. Follow the established Phi voice, Canadian spelling preference, restrained Jerome humour, and separate Humanizer pass.
+3. Validate every citation after the chapter draft is complete and repair the chapter from that audit.
+4. Publish the chapter as its own reviewed pull request.
+
+**Exit criterion:** the next treatment chapter is written, citation-checked, voice-audited, and merged.
+
+### Work package C: Original Philosophical Reasoning use
 
 **Roadmap items:** PHL-04 through PHL-07, COR-03, COR-04.
 
@@ -286,7 +299,7 @@ All 112 replacements preserve the vocabulary schema and active uses under forms 
 
 **Exit criterion:** at least one original connected work uses the module naturally and records any vocabulary changes it prompted.
 
-### Work package C: Optional reading and repair practice
+### Work package D: Optional reading and repair practice
 
 **Roadmap items:** EVA-04 through EVA-06, PHL-03.
 
@@ -298,7 +311,7 @@ All 112 replacements preserve the vocabulary schema and active uses under forms 
 
 **Exit criterion:** optional; completed practice may improve teaching or revision but does not gate vocabulary development.
 
-### Work package D: Later listening baseline
+### Work package E: Later listening baseline
 
 **Roadmap items:** SPH-04, SPH-05.
 
@@ -310,7 +323,7 @@ All 112 replacements preserve the vocabulary schema and active uses under forms 
 
 **Exit criterion:** a prioritized function-word set has actual observation rows; automated scores alone trigger no rename.
 
-### Work package E: First outside-reader packet
+### Work package F: First outside-reader packet
 
 **Roadmap items:** PHL-08, SPH-06, PED-04, COM-03.
 

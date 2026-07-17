@@ -1,0 +1,30 @@
+{
+  "word": "naremu",
+  "gloss": "guilt",
+  "ipa": "/n̪ä.ˈre̞.mu/",
+  "syllables": [
+    "na",
+    "re",
+    "mu"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "guilty feeling"
+  ],
+  "description": "Someone may feel 'naremu' after an act or omission they judge wrong. This can include harm they believe they allowed. The feeling can accompany real responsibility, mistaken self-blame, or pressure from others. 'nupira' (shame) turns on exposure or diminished self-regard; guilt stays directed towards what was done or left undone.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and open into 'a'. Tap or briefly trill the tongue at the alveolar ridge for 'r', then move into stressed middle-height front 'e'. Close the lips for voiced 'm' while keeping nasal airflow, and finish with high back rounded 'u'.",
+  "usage_notes": "Use 'naremu' as the object of 'phaelo' (feel). The surrounding account identifies what happened and how responsibility is judged; the feeling alone proves neither.",
+  "examples": [
+    {
+      "phi": "mia naremu phaelo.",
+      "translation": "I feel guilt."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "Separating guilt from a finding of responsibility lets a speaker report the feeling without using it as evidence against themselves or another person."
+  },
+  "semantic_domains": {
+    "emotion": "painful feeling directed towards an act or omission judged wrong",
+    "ethics": "an affective response to a judgement about conduct or responsibility"
+  }
+}
