@@ -8,16 +8,17 @@
     "the"
   ],
   "pos": "noun",
-  "concept": "Pond / Small Still Water / Contained Pool",
-  "description": "A small body of still water, often shallow enough to support rooted plants throughout. 'Melothe' names the intimate waters—smaller than lakes, often created or maintained, places where water rests in quiet containment.",
-  "sound_symbolism": "The word rests in stillness. 'Me' begins with mirror-still nasal, the reflecting surface. Then 'lo' holds the liquid contained, water at rest. Finally 'the' /θe/ breathes soft tranquility, the pond's quiet presence.",
-  "grammatical_notes": "Functions as a noun: 'melothe' (pond), 'lo melothe' (ponds). A pond is a place and body of water rather than a detached or crafted object, so it has no canonical classifier. Distinguished from 'thelomi' (lake) by scale and intimacy. Often associated with gardens, contemplation, and contained ecosystems.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Ponds offer accessible stillness—small enough to comprehend yet deep enough to reflect, teaching meditation through contained presence.",
-    "art-nouveau-aesthetics": "Ponds were beloved in Art Nouveau gardens—water lilies, reflections, and the interplay of surface and depth."
-  },
+  "description": "A relatively small body of standing water, whether natural or made, is a 'melothe'. Rooted plants often grow through much of a pond, though that is not required. The boundary with 'thelomi' (lake) follows local size, depth, and use.",
+  "articulatory_notes": "Form voiced 'm' at closed lips and send nasal voice into middle-height front 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l' and release along its sides into stressed middle-height rounded 'o'. Place the tongue against the upper teeth for unvoiced 'th' and finish with middle-height front 'e'.",
+  "sound_symbolism": "'melothe' and 'thelomi' (lake) reverse their outer syllables around shared 'lo'. The paired forms are easy to associate while their different beginnings and endings keep pond and lake distinct in speech.",
+  "examples": [
+    {
+      "phi": "lo shalu mua melothe wishe.",
+      "translation": "Fish swim in the pond."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Contemplative water feature",
-    "nature": "Small still water body"
+    "nature": "a small natural or made body of standing water",
+    "spatial": "a contained area of water within land"
   }
 }

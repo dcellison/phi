@@ -8,16 +8,22 @@
     "nu"
   ],
   "pos": "noun",
-  "concept": "Weather / Atmospheric Conditions at a Place and Time",
-  "description": "Atmospheric conditions at a stated place and time: today's sky, not the pattern it belongs to. One day of weather can offer a single data point toward a claim about climate, never the claim itself.",
-  "sound_symbolism": "Open breath in 'ho' rounds at the lips and glides into stressed 'we'. Together 'ho.we' preserve the moving air heard at the beginning of 'howeli' (wind). Dental 'nu' gathers that passing motion into one deep, local ending. Weather crosses the mouth like air, then settles for a moment where the tongue touches the teeth.",
-  "grammatical_notes": "A mass noun: 'ha howenu sulae nai.' (This weather is warm.) Name place, time, source, and exact variables when they matter. Distinct from individual roots such as 'pheralu' (rain) and 'kurisha' (storm), from 'meluna' (season), and from 'meluri' (climate).",
+  "description": "At a place and time, 'howenu' covers the atmospheric conditions that matter there: temperature, wind, cloud, and moisture. One day's weather may contribute evidence about 'meluri' (climate), but it does not supply the long pattern by itself. A named event such as rain or storm remains available when that is the useful detail.",
+  "articulatory_notes": "With the glottis open, carry unvoiced breath into middle-height rounded 'o'. Round the lips and raise the back of the tongue for the 'w' glide into stressed middle-height front 'e'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n' and finish with high-back rounded 'u'.",
+  "sound_symbolism": "'howenu' shares its first two syllables with 'howeli' (wind). The dental nasal closes the word more firmly than the wind word's lateral ending, an audible cue for several passing atmospheric conditions gathered under one local noun.",
+  "usage_notes": "An exact forecast, observation, warning, or measurement retains its source notation when its values and standard matter. Phi can describe the expected weather and its practical effects beside that record.",
+  "examples": [
+    {
+      "phi": "ha howenu sulae nai.",
+      "translation": "This weather is warm."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Weather language supports practical care, work, access, shelter, water, and energy decisions while keeping one event distinct from climate evidence.",
-    "pre-industrial-wisdom": "Close attention to immediate sky, wind, rain, heat, and cold remains a situated practice rather than an abstract forecast alone."
+    "solarpunk-values": "Weather immediately affects shelter and access. Food and water supplies respond, as do work and energy needs. Naming the present condition separately from climate keeps preparation and long-term analysis from borrowing each other's evidence.",
+    "pre-industrial-wisdom": "Close observation of sky and wind can guide practical weather judgement. Moisture, animals, and seasonal patterns add local signs. The reliable signs belong to a particular place and practice."
   },
   "semantic_domains": {
-    "nature": "atmospheric conditions and events at a place and time",
-    "temporal": "a short-duration environmental condition or event"
+    "nature": "atmospheric conditions and events at a particular place",
+    "temporal": "a changing environmental condition observed over a limited time"
   }
 }

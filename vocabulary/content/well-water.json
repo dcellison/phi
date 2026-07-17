@@ -8,16 +8,27 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Well / The Built Water-Place",
-  "description": "The dug well: the built counterpart of 'thula' (spring). Where earth gives no water on its own, people go down and find it, then wall the finding for everyone after. Distinct from 'towe' (well as wellness), which shares the English word and nothing else.",
-  "sound_symbolism": "The 'phi' of 'phialu' (water) reached through 'tu' to 'ra': water at the end of made effort.",
-  "grammatical_notes": "Noun: 'lo miona phitura muholi.' (The people dig the well.) 'lopia lue phitura phialu kolua.' (The child carries water from the well.)",
+  "search_terms": [
+    "water well",
+    "groundwater well"
+  ],
+  "description": "A made opening that reaches groundwater, together with the structure that keeps it usable, is a 'phitura'. 'thula' (spring) is where the water reaches the surface naturally. Whether a well is shared, privately held, or safe to drink from remains part of its local account.",
+  "articulatory_notes": "Narrow the lips for unvoiced bilabial 'ph' and let the breath enter high-front unrounded 'i'. Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into stressed high-back rounded 'u'. Tap or briefly trill the tongue at the alveolar ridge, then open into central 'a'.",
+  "sound_symbolism": "Opening 'phi' recalls 'phialu' (water), then the dental stop and tap give the word two clear contacts before final 'a'. The family resemblance is a mnemonic, not a productive way to derive other water structures.",
+  "usage_notes": "The English gloss distinguishes this noun from 'towe' (well, in good health). Water source and depth can be stated separately from construction. Access and test results take their own clauses when they matter.",
+  "examples": [
+    {
+      "phi": "lopia lue phitura phialu kolua.",
+      "translation": "The child carries water from the well."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "A well is infrastructure as commons: dug once, owned by no one, maintained because everyone drinks.",
-    "pre-industrial-wisdom": "The well was the village's anchor and its news exchange; settlements formed around water the way conversations formed around the well."
+    "solarpunk-values": "A well makes groundwater available through continuing maintenance. Its usefulness also depends on energy, access, and water quality.",
+    "pre-industrial-wisdom": "Siting and lining a well require accumulated knowledge of local ground and water. So do covering, drawing from, and cleaning it. A dependable source is maintained across generations."
   },
   "semantic_domains": {
-    "community": "The shared water-place",
-    "physical": "Water at the end of effort"
+    "community": "a water source whose access and upkeep may be organised among people",
+    "creation": "a made opening and structure for reaching groundwater",
+    "spatial": "a fixed access point connecting the surface to water below"
   }
 }

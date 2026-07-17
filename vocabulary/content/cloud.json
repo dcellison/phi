@@ -8,16 +8,19 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Cloud / Floating Vapor / Sky's Gathering",
-  "description": "A visible mass of water droplets or ice crystals suspended in atmosphere. 'Neparu' names the floating forms that drift across the sky—carriers of rain, shapers of light, ever-changing sculptures of water and air.",
-  "sound_symbolism": "The word drifts like vapor. 'Ne' begins with soft nasal, gentle formation. Then 'pa' puffs outward, the cloud's billowing mass. Finally 'ru' moves onward, drifting across the sky.",
-  "grammatical_notes": "Noun: 'lo neparu' (clouds). A cloud is neither a detached or crafted object nor one of the other classifier categories, so a counted cloud has no canonical classifier. The sky's changes take their own verbs: 'lo neparu shua.' (Clouds come.) Often used metaphorically for impermanence, obscured perception, or gathering change.",
+  "description": "Suspended water droplets or ice crystals become a visible 'neparu' in the atmosphere. The noun claims only that visible suspension; shade and precipitation are possible results. 'nuphari' (fog) is cloud at or near the ground when it limits visibility.",
+  "articulatory_notes": "Set the tongue tip against the backs of the upper teeth for voiced dental 'n' and release nasal voice into middle-height front 'e'. Close the lips for unvoiced 'p' and open into stressed central 'a'. Tap or briefly trill the tongue at the alveolar ridge for 'r', then finish with high-back rounded 'u'.",
+  "examples": [
+    {
+      "phi": "lo neparu shua.",
+      "translation": "Clouds come."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Clouds are the classic teaching of impermanence—no cloud remains the same from moment to moment, yet each appears solid.",
-    "art-nouveau-aesthetics": "Clouds embody organic, flowing forms—constantly shapeshifting sculptures painted by light and wind."
+    "secular-buddhist-philosophy": "A cloud changes at its edges even while a speaker treats it as one visible form. It offers a concrete case of continuity without fixed shape."
   },
   "semantic_domains": {
-    "nature": "Atmospheric water vapor",
-    "temporal": "Symbol of impermanence"
+    "nature": "suspended atmospheric water or ice visible from the ground",
+    "physical": "a mass of droplets or crystals held in air"
   }
 }

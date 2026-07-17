@@ -8,16 +8,24 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Star / Distant Sun / Night-Sky Light",
-  "description": "A luminous celestial body, especially one seen as a point of light after dark. In Phi, 'silero' covers the class that includes 'sileta' (sun), while ordinary use often turns toward the distant lights used for navigation, seasonal reckoning, and stories.",
-  "sound_symbolism": "In 'si', the tongue narrows the airstream to a thin sibilance before high 'i' lifts it. At stressed 'le', the tongue releases laterally into the same opening heard in 'sileta' (sun), so the two words part only at their endings. The ending 'ro' taps or rolls and settles into round 'o', a small light held in the turning dark.",
-  "grammatical_notes": "Noun: 'lo silero' (stars). A counted star has no canonical classifier. Stars give light: 'silero keru loa.' (The star gives light.) The sun is one star: 'sileta silero nai.' (The sun is a star.) Compare 'lunei' (moon), Earth's companion rather than a star.",
+  "search_terms": [
+    "stellar body",
+    "distant sun"
+  ],
+  "description": "A 'silero' produces its own light through sustained fusion. Seen from Earth, most stars appear as points in the night sky. 'sileta' (sun) names the particular star Earth orbits, while 'lunei' (moon) is a planet's natural satellite and reflects light.",
+  "articulatory_notes": "Send unvoiced air through a narrow groove along the tongue for 's' and move into high-front unrounded 'i'. Touch the tongue tip to the alveolar ridge for lateral 'l' and release along its sides into stressed middle-height front 'e'. Tap or briefly trill the tongue at the ridge, then finish with middle-height rounded 'o'.",
+  "sound_symbolism": "The shared 'sile' opening makes the relationship with 'sileta' (sun) easy to hear. 'silero' ends in a tap and rounded vowel, which gives the wider class a different close from the sun word's dental stop.",
+  "examples": [
+    {
+      "phi": "sileta silero nai.",
+      "translation": "The sun is a star."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "A star seen tonight may have sent that light years ago. The gap between origin and arrival makes the present sky an encounter with the past.",
-    "pre-industrial-wisdom": "Stars marked routes and seasons before instruments made either abstract. Their patterns also held stories that could travel with the people who knew them."
+    "pre-industrial-wisdom": "Stars have marked routes, seasons, and stories in many knowledge traditions. The patterns and meanings are not universal; each belongs to the people and place that keep it."
   },
   "semantic_domains": {
-    "nature": "luminous celestial body",
-    "wisdom": "guide for routes and seasons"
+    "nature": "a luminous celestial body in the class that includes the sun",
+    "wisdom": "an observed guide within particular systems of navigation and seasonal knowledge"
   }
 }

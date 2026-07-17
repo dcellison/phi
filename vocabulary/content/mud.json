@@ -8,16 +8,21 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Mud / Earth-Water",
-  "description": "Mud: earth and water met. A transparent build, 'mu' from 'muila' (earth) plus 'phi' from 'phialu' (water), so the word is its own recipe. Covers the path after rain, the riverbank, and the potter's and builder's wet clay-earth.",
-  "sound_symbolism": "'mu' is the ground, 'phi' the water in it, and the open 'a' the soft give underfoot. Two family signatures folded into one word.",
-  "grammatical_notes": "Noun: 'lopia mua muphia thalo.' (The child walks in the mud.) 'muphia wirua nai.' (Mud is wet.)",
+  "description": "Earth or soil mixed with enough water to soften, stick, or flow under pressure becomes 'muphia'. Mud may form on a path, shore, riverbed, or building site. 'mueri' (clay) names a material kind, while mud names the wet condition of earth more broadly.",
+  "articulatory_notes": "Voice the closed lips for 'm' and direct the sound through the nose into high-back rounded 'u'. Bring the lips close together for unvoiced bilabial 'ph' and release the narrow breath into stressed high-front 'i'. Keep the final vowel separate across the hiatus and lower the tongue into central 'a'.",
+  "sound_symbolism": "The openings of 'muila' (earth) and 'phialu' (water) can both be heard in 'muphia'. The resemblance makes a useful mnemonic for their mixture, though the syllables are not productive pieces of grammar.",
+  "examples": [
+    {
+      "phi": "muphia wirua nai.",
+      "translation": "Mud is wet."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Earth building is having its return: low-carbon walls made of the site itself. The oldest material is also one of the futures.",
-    "pre-industrial-wisdom": "Mud brick, daubed walls, sealed roofs, potter's slip: for most of history, wet earth was the building material that was always in stock."
+    "solarpunk-values": "Wet earth can become a building material with modest processing and local repair knowledge. Its suitability still depends on soil, weather, structure, and maintenance.",
+    "pre-industrial-wisdom": "Mud brick and cob begin with wet earth; so do daub, plaster, and pottery under different proportions and handling. The word names the common material condition before a craft gives it a purpose."
   },
   "semantic_domains": {
-    "nature": "Earth and water met",
-    "physical": "The soft give underfoot"
+    "nature": "earth softened or mobilised by water in a landscape",
+    "physical": "a wet mixture of soil and water"
   }
 }

@@ -7,16 +7,16 @@
     "la"
   ],
   "pos": "noun",
-  "concept": "Island / Surrounded Land / Water-Held Earth",
-  "description": "A piece of land surrounded by water. 'Mola' names the land that stands alone—complete in itself, defined by the waters that embrace it, a world unto itself.",
-  "sound_symbolism": "The word holds land in water. 'Mo' begins in the midst, surrounded by sea. Then 'la' lands firmly, the earth standing despite the water.",
-  "grammatical_notes": "Functions as a noun: 'lo mola' (islands). An island is a landform rather than a detached or crafted object, so it has no canonical classifier. Associated with isolation, completeness, and self-contained ecosystems.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Islands teach self-reliance and completeness—the Buddha spoke of being 'an island unto oneself,' finding refuge within.",
-    "pre-industrial-wisdom": "Island peoples developed unique cultures through isolation—completeness within limits, adaptation to bounded resources."
-  },
+  "description": "Water surrounds a 'mola' on every side. An island can lie in a river, lake, sea, or ocean, and its size says nothing by itself about ecological or social independence. 'kerone' (peninsula) stays joined to a larger body of land.",
+  "articulatory_notes": "Begin with the lips closed for voiced 'm' and carry nasal voice into stressed middle-height rounded 'o'. Touch the tongue tip to the alveolar ridge for lateral 'l', let the voice pass around its sides, and lower the tongue into central 'a'.",
+  "examples": [
+    {
+      "phi": "mola mua thaluro nai.",
+      "translation": "The island is in the ocean."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Water-surrounded land",
-    "spatial": "Isolated land mass"
+    "nature": "land entirely surrounded by a body of water",
+    "spatial": "a distinct land area separated by water from other land"
   }
 }

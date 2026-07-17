@@ -8,16 +8,20 @@
     "lu"
   ],
   "pos": "noun",
-  "concept": "Shadow / The Cast Dark",
-  "description": "Shadow: the dark that light casts, not darkness itself ('nuelo'). A shadow needs three things at once: a light, a thing, and a surface. Take any away and it is gone.",
-  "sound_symbolism": "Hushed 'sho' through soft 'me'-'lu': a word with no hard edge, for a dark with no substance.",
-  "grammatical_notes": "Noun: 'mia mua shomelu thalo.' (I walk in the shadow.) With possessor: 'pelori shomelu' (the bird's shadow). Contrast 'nuelo' (dark), which needs no light to exist.",
+  "description": "When an object blocks light from reaching a surface or region, the relative darkness is 'shomelu'. A shadow depends on the light, the obstruction, and the place that would otherwise receive it. 'nuelo' (dark) can describe low illumination without any cast shadow.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and let the breath enter middle-height rounded 'o'. Close the lips for voiced 'm' and carry nasal voice into stressed middle-height front 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l' and finish with high-back rounded 'u'.",
+  "examples": [
+    {
+      "phi": "mia mua shomelu thalo.",
+      "translation": "I walk in the shadow."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Nothing shows dependent arising more plainly: the shadow exists only while light, object, and ground cooperate, and it was never a thing you could pick up.",
-    "pre-industrial-wisdom": "The day's clock before clocks: shadow-length told the hour, and the north side of a shadow told a traveler which way was which."
+    "secular-buddhist-philosophy": "A cast shadow exists through a visible relation among light, obstruction, and place. Remove one condition and the dark form changes or disappears.",
+    "pre-industrial-wisdom": "The position and length of a shadow can indicate direction and part of the day. The reading remains tied to sun, season, latitude, and the object casting it."
   },
   "semantic_domains": {
-    "nature": "The dark that light casts",
-    "spatial": "Where the light is interrupted"
+    "nature": "a light-dependent dark region in an outdoor or indoor scene",
+    "spatial": "the region from which an object excludes a light source"
   }
 }

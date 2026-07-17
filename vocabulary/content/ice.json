@@ -8,16 +8,22 @@
     "the"
   ],
   "pos": "noun",
-  "concept": "Ice / Frozen Water / Solid Cold",
-  "description": "Water frozen into solid form, whether as surface ice, glaciers, or frost. 'Kerithe' names water's crystalline transformation—the solid state that preserves, that bridges waters in winter, that holds time still in glacial depths.",
-  "sound_symbolism": "The word crystallizes into stillness. 'Ke' begins with velar hardness, the solid state. Then 'ri' holds rigid structure, frozen in place. Finally 'the' /θe/ breathes cold stillness, the held breath of winter.",
-  "grammatical_notes": "Functions as a noun, usually uncountable: 'kerithe kethua nai.' (Ice is hard.) Related to 'phialu' (water) and 'phirenu' (snow) as water's states. Associated with preservation, clarity, and winter's grip.",
+  "search_terms": [
+    "frozen water"
+  ],
+  "description": "Frozen water is 'kerithe', whether it lies on a vessel, road, lake, or glacier. 'theriko' (frost) is a surface growth or deposit of small ice crystals. 'phirenu' (snow) is frozen precipitation gathered from separate crystals.",
+  "articulatory_notes": "At the soft palate, close the back of the tongue for unvoiced 'k' and release into middle-height front 'e'. Tap or briefly trill the tongue at the alveolar ridge before stressed high-front 'i'. Place the tongue against the upper teeth for unvoiced 'th' and let the breath open into middle-height front 'e'.",
+  "examples": [
+    {
+      "phi": "kerithe pelui nai.",
+      "translation": "Ice is cold."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Ice teaches transformation through stillness—water becoming solid, movement becoming rest, change through apparent unchanging.",
-    "pre-industrial-wisdom": "Ice preserved food, bridged waters in winter, and shaped landscapes through glacial patience—a force both useful and dangerous."
+    "pre-industrial-wisdom": "Ice can preserve food, support winter travel, block water, or make a familiar surface dangerous. Practical knowledge begins by noticing thickness, sound, weather, and recent change."
   },
   "semantic_domains": {
-    "nature": "Frozen water",
-    "temporal": "Winter's solid form"
+    "nature": "solid water in weather, waterways, and frozen land",
+    "physical": "the solid phase of the substance 'phialu' (water)"
   }
 }

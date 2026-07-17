@@ -8,16 +8,21 @@
     "lu"
   ],
   "pos": "noun",
-  "concept": "Rain / Falling Water / Sky's Gift",
-  "description": "Water falling from clouds in drops, nourishing the earth below. 'Pheralu' names the essential gift from sky to soil—the rhythmic blessing that fills rivers, feeds plants, and renews the cycle of life. Both the phenomenon and the act of raining.",
-  "sound_symbolism": "The word falls like gentle drops. 'Phe' /ɸe/ begins softly, water forming in clouds. Then 'ra' taps rhythmically, the patter of drops. Finally 'lu' pools and flows, water gathering on earth.",
-  "grammatical_notes": "Noun: 'pheralu' (the rain). Rain falls: 'pheralu lepa.' - the language's own idiom. Central to agricultural and seasonal vocabulary; related to 'phialu' (water) through shared liquid meaning.",
+  "description": "Liquid water falling from clouds in drops is 'pheralu'. The noun can cover the precipitation in progress or the water that has just fallen. Phi expresses the event with 'pheralu lepa', rain falls.",
+  "articulatory_notes": "For unvoiced bilabial 'ph', bring the lips close and let the narrow breath enter middle-height front 'e'. Tap or briefly trill the tongue at the alveolar ridge before stressed central 'a'. Touch the tongue tip to the ridge for lateral 'l' and finish with high-back rounded 'u'.",
+  "usage_notes": "'moli pheralu' is gentle rain, while 'pheralu kurisha' is a rainstorm. 'kerithe pheralu' can describe hail as ice-rain when a more exact source classification is unnecessary.",
+  "examples": [
+    {
+      "phi": "pheralu lepa.",
+      "translation": "Rain falls."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Rain is the renewable gift that makes terrestrial life possible—harvesting rainwater honors this cycle of sky-to-earth nourishment.",
-    "pre-industrial-wisdom": "Traditional cultures celebrated rain through ceremony and gratitude, recognizing dependence on this blessing from above."
+    "solarpunk-values": "Rain meets roofs and soil first. From there, a community may catch it for storage or crops, follow it into rivers, or prepare for flooding. The word names the water event before those choices begin.",
+    "pre-industrial-wisdom": "Planting and travel often depend on observed rain, cloud, wind, and soil together. Local seasonal knowledge gives a shower its practical meaning."
   },
   "semantic_domains": {
-    "creation": "Life-giving precipitation",
-    "nature": "Atmospheric water cycle"
+    "nature": "liquid precipitation falling from clouds",
+    "physical": "drops of atmospheric water in descent or newly fallen"
   }
 }

@@ -8,16 +8,20 @@
     "li"
   ],
   "pos": "noun",
-  "concept": "Wind / Moving Air / Breath of Sky",
-  "description": "Air in natural motion, from gentle breeze to powerful gale. 'Howeli' names the invisible force that moves through the world—carrying seeds, shaping clouds, bringing change. The wind is the sky's breath, touching everything yet grasped by nothing.",
-  "sound_symbolism": "The word flows like moving air. 'Ho' begins with an open breath, air released. Then 'we' glides smoothly, the flowing passage. Finally 'li' lightens and lifts, air moving freely onward.",
-  "grammatical_notes": "Functions as a noun. Plural with 'lo': 'lo howeli' (winds). Wind is not a detached or crafted object; a counted episode may take optional event classifier 'nophe', or the classifier may be omitted. Compare 'sihewa' (breeze), its gentle form, and 'whesu' (blow), the action. Often personified as messenger or agent of transformation.",
+  "description": "Air moving relative to the ground is 'howeli'. Wind can be steady or shifting, warm or cold, gentle or forceful, and the relevant quality can be stated. 'sihewa' (breeze) is specifically light wind; 'kurisha' (storm) is a wider weather event that may contain strong wind.",
+  "articulatory_notes": "An open glottis releases unvoiced breath into middle-height rounded 'o'. Round the lips and raise the back of the tongue for the 'w' glide into stressed middle-height front 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l' and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The open breath and rounded glide in 'ho.we' are shared with 'howenu' (weather). Final lateral 'li' keeps the voice moving around the tongue rather than stopping it, a useful physical cue for air in motion.",
+  "examples": [
+    {
+      "phi": "howeli lo neparu kolua.",
+      "translation": "The wind carries clouds."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Wind teaches impermanence and non-attachment—it moves through all places, clings to nothing, yet touches everything.",
-    "pre-industrial-wisdom": "Traditional cultures honored wind as messenger between worlds, carrier of seeds and spirits, bringer of weather and change."
+    "pre-industrial-wisdom": "Wind direction and feel can guide sailing and drying. Fire tending, shelter, and weather judgement make other uses of the same local knowledge. Hills, water, buildings, and season all change the local wind."
   },
   "semantic_domains": {
-    "nature": "Moving atmospheric force",
-    "temporal": "Agent of change"
+    "nature": "air moving within local weather and across a landscape",
+    "physical": "gaseous matter in motion relative to the ground"
   }
 }

@@ -7,16 +7,23 @@
     "whu"
   ],
   "pos": "noun",
-  "concept": "Cave / Earth Hollow / Inner Dark",
-  "description": "A natural underground chamber or hollow in rock or earth. 'Nowhu' names the spaces within—where earth opens to shelter, where darkness holds secrets, where humans found first refuge and left first art.",
-  "sound_symbolism": "The word enters darkness. 'No' begins with nasal inwardness, moving inside. Then 'whu' /ʍu/ hollows with breathy depth, the cave's dark breath.",
-  "grammatical_notes": "Functions as a noun: 'lo nowhu' (caves). A cave is a place or opening rather than a detached or crafted object, so it has no canonical classifier. Associated with shelter, mystery, retreat, and the unconscious depths.",
+  "search_terms": [
+    "cavern",
+    "natural underground chamber"
+  ],
+  "description": "A natural chamber or passage within rock or earth is a 'nowhu' when it opens to the surface. The word reaches from a shallow hollow to a connected underground system. Built rooms and excavated tunnels take their ordinary made-place descriptions.",
+  "articulatory_notes": "Begin with the tongue tip against the backs of the upper teeth for voiced dental 'n', carrying nasal airflow into stressed middle-height rounded 'o'. For unvoiced 'wh', round the lips while raising the back of the tongue without closing the passage; let the breath continue into high-back rounded 'u'.",
+  "examples": [
+    {
+      "phi": "lo miona mua nowhu nulae.",
+      "translation": "People sleep in the cave."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Caves have long been retreat spaces for meditation—the outer darkness enabling inner light, withdrawal enabling insight.",
-    "pre-industrial-wisdom": "Caves were humanity's first shelters and first galleries—places of refuge, ceremony, and the earliest surviving art."
+    "pre-industrial-wisdom": "Caves have supplied shelter, storage, meeting places, and surfaces for art. People using them had to know where water and animals moved, how smoke travelled, and which passages stayed safe in darkness."
   },
   "semantic_domains": {
-    "nature": "Underground hollow",
-    "spatial": "Sheltered inner space"
+    "nature": "a naturally formed chamber within earth or rock",
+    "spatial": "an interior place reached through an opening in the ground or stone"
   }
 }

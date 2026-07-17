@@ -8,16 +8,20 @@
     "ka"
   ],
   "pos": "noun",
-  "concept": "Lightning / Sudden Storm Flash",
-  "description": "The sudden electrical flash of a storm, branching or spreading in a sheet across the sky before thunder arrives. 'pheluka' names the flash; 'horuma' (thunder) is the sound that follows.",
-  "sound_symbolism": "The lips begin with the narrow breath of /ɸ/, and 'phe' flashes open on a bright front vowel. Stress gathers in 'lu'; the tongue touches for /l/ while the vowel rounds and darkens, stretching the flash across the mouth. Final 'ka' closes at the velum and releases hard. The contour travels, then breaks, like light followed by thunder.",
-  "grammatical_notes": "Noun: 'pheluka lue waero lepa.' (Lightning falls from the sky.) 'kurisha pheluka phelu.' (The storm holds lightning.)",
-  "pillars": {
-    "secular-buddhist-philosophy": "A flash is present and gone before a breath completes. It makes impermanence visible without pretending the change happened slowly.",
-    "pre-industrial-wisdom": "The interval between flash and thunder helps place a storm; its direction tells a household when people and animals need shelter."
-  },
+  "search_terms": [
+    "lightning flash",
+    "atmospheric electrical discharge"
+  ],
+  "description": "An electrical discharge in the atmosphere is 'pheluka', often seen as a sudden flash within a cloud or between cloud and ground. 'horuma' (thunder) is the sound produced by rapidly heated air around the discharge. Cloud and distance can hide either sign from an observer.",
+  "articulatory_notes": "Bring the lips close together for unvoiced bilabial 'ph' and let the narrow breath enter middle-height front 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l' and release into stressed high-back rounded 'u'. Close the back of the tongue against the soft palate for 'k', then open into central 'a'.",
+  "examples": [
+    {
+      "phi": "pheluka waero keru ka kelu.",
+      "translation": "Lightning makes the sky bright."
+    }
+  ],
   "semantic_domains": {
-    "nature": "A storm's sudden flash",
-    "physical": "Electrical light across the sky"
+    "nature": "an electrical discharge within storm weather",
+    "physical": "a discharge that produces light, heat, and expanding air"
   }
 }

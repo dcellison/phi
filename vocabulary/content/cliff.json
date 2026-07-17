@@ -1,0 +1,28 @@
+{
+  "word": "pareshi",
+  "gloss": "cliff",
+  "ipa": "/pä.ˈre̞.ʃi/",
+  "syllables": [
+    "pa",
+    "re",
+    "shi"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "rock face",
+    "precipice",
+    "escarpment"
+  ],
+  "description": "A sharp drop exposes the steep or near-vertical face called 'pareshi', made of rock, earth, or ice. Cliffs can form beside water, across a valley, on a mountain, or at a glacier. 'shuna' (edge) names the boundary line; the cliff is the face and change of height.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into central 'a'. Tap or briefly trill the tongue at the alveolar ridge before stressed middle-height front 'e'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and finish with high-front unrounded 'i'.",
+  "examples": [
+    {
+      "phi": "lo shalu phou pareshi wishe.",
+      "translation": "Fish swim below the cliff."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "an exposed steep face of rock, earth, or ice",
+    "spatial": "a sharp vertical change between higher and lower terrain"
+  }
+}

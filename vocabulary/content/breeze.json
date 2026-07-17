@@ -8,16 +8,20 @@
     "wa"
   ],
   "pos": "noun",
-  "concept": "Breeze / Gentle Wind / Soft Air Movement",
-  "description": "A light, gentle wind that refreshes without force. 'Sihewa' names air's gentlest touch—the cooling movement on a warm day, the whisper through leaves, wind at its most welcoming and kind.",
-  "sound_symbolism": "The word sighs gently. 'Si' begins with soft sibilance, air barely moving. Then 'he' breathes with aspirate lightness, the gentlest push, while 'wa' glides open and releases the breeze onward.",
-  "grammatical_notes": "Functions as a noun: 'sihewa' (breeze), 'lo sihewa' (breezes). A breeze is not a detached or crafted object; a counted episode may take optional event classifier 'nophe', or the classifier may be omitted. Distinguished from 'howeli' (wind) by gentleness—breeze refreshes, wind moves.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Breezes teach subtle awareness—the lightest touch still reaches us when we are present enough to notice.",
-    "art-nouveau-aesthetics": "The breeze is nature's gentlest touch—invisible yet felt, animating leaves and hair with effortless grace."
-  },
+  "search_terms": [
+    "light wind"
+  ],
+  "description": "'sihewa' selects light wind, felt as a modest movement of air against skin, leaves, cloth, or water. It may cool a warm place, though a cold breeze can make the same place less comfortable. 'howeli' (wind) covers the full range of ordinary moving air.",
+  "articulatory_notes": "Narrow the airstream along the centre of the tongue for unvoiced 's' and move into high-front 'i'. Open the glottis for 'h' and let the breath enter stressed middle-height front 'e'. Round the lips and raise the back of the tongue for the 'w' glide, then open into central 'a'.",
+  "sound_symbolism": "No complete closure interrupts the word. Its sibilant, open glottal breath, and final glide keep a thin stream of air moving through all three syllables, which suits a light wind as an embodied mnemonic.",
+  "examples": [
+    {
+      "phi": "sihewa lo lirowa pesa.",
+      "translation": "A breeze pushes the leaves."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Soft atmospheric touch",
-    "nature": "Gentle air movement"
+    "nature": "a light movement of air within local weather",
+    "physical": "moving air felt gently against a surface or body"
   }
 }

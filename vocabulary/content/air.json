@@ -8,17 +8,24 @@
     "wu"
   ],
   "pos": "noun",
-  "concept": "Air / Breath-Space / The Invisible Sustainer",
-  "description": "The noun naming the invisible element we breathe, the atmosphere that connects all breathing beings in continuous exchange. In Phi, air is understood as the great connector—what leaves one body enters another, what trees release we inhale, what we exhale plants consume. This word names both the physical atmosphere and the quality of openness, spaciousness, and possibility that air represents. It is the element we most take for granted until it fails.",
-  "sound_symbolism": "The word opens with 'ha', where the breathy 'h' enacts air itself—the sound made by breath alone, no constriction, pure flow. The standalone 'o' opens into the spaciousness air creates, the room for movement and life. The final 'wu' rounds outward with the gliding 'w', breath reaching into space, while 'u' settles deep like air filling lungs. The arc traces breathing: breath released, space opened, air received.",
-  "grammatical_notes": "Functions as a noun referring to air as element, atmosphere, or the quality of airiness and spaciousness: 'haowu newai nai.' (The air is fresh.) Related to 'howeli' (wind), 'whunei' (breathe), and 'whesu' (blow). Can be used metaphorically for emotional or social atmosphere.",
+  "search_terms": [
+    "atmosphere",
+    "breathable air"
+  ],
+  "description": "The gases around a place, including the mixture a body breathes, are 'haowu'. Air can fill the open atmosphere, a room, or a vessel. 'howeli' (wind) is this air moving relative to the ground; cleanliness and safety are further conditions.",
+  "articulatory_notes": "Let unvoiced breath pass through an open glottis into central 'a'. Keep the voice moving across the hiatus into stressed middle-height rounded 'o'. Round the lips more firmly and raise the back of the tongue for the 'w' glide, then finish with high-back rounded 'u'.",
+  "sound_symbolism": "The word begins as breath, crosses an open vowel boundary, and ends in a rounded glide. That uninterrupted airflow gives 'haowu' an airy contour without making any one sound a hidden word for air.",
+  "examples": [
+    {
+      "phi": "ha womu haowu newai nai.",
+      "translation": "The air in this house is fresh."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Clean air is fundamental to health and justice. 'Haowu' supports discussions of air quality, atmospheric commons, and the shared nature of what we all breathe.",
-    "secular-buddhist-philosophy": "Air element in Buddhist analysis represents movement, lightness, and the breath that meditation observes. 'Haowu' supports breath awareness practice by naming what we mindfully attend.",
-    "pre-industrial-wisdom": "Traditional cultures understood air as spirit, as life-breath, as the invisible connector. 'Haowu' preserves this awareness that air is sacred commons shared by all breathing beings."
+    "solarpunk-values": "Air crosses walls, property lines, and neighbourhoods. Naming it plainly supports discussion of ventilation, smoke, pollution, and the unequal effects of poor air quality."
   },
   "semantic_domains": {
-    "nature": "elemental connector of all breath",
-    "physical": "the medium we breathe"
+    "nature": "the atmospheric medium around living places and weather",
+    "physical": "the gaseous matter taken into the body through breathing"
   }
 }

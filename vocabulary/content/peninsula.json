@@ -8,16 +8,16 @@
     "ne"
   ],
   "pos": "noun",
-  "concept": "Peninsula / Almost-Island / Reaching Land",
-  "description": "A piece of land almost surrounded by water, connected to the mainland by a narrow strip. 'Kerone' names the reaching land—extending into water yet still connected, almost but not quite an island.",
-  "sound_symbolism": "The word reaches while staying attached. 'Ke' begins connected, the land anchored. Then 'ro' reaches outward, extending into water. Finally 'ne' nearly surrounds, water on three sides.",
-  "grammatical_notes": "Functions as a noun. Plural with 'lo': 'lo kerone' (peninsulas). A peninsula is a landform rather than a detached or crafted object, so it has no canonical classifier. Related to 'mola' (island) but maintains connection to larger land.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Peninsulas teach the middle way between isolation and connection—reaching out while remaining attached.",
-    "pre-industrial-wisdom": "Peninsulas offered defensive advantages and maritime access while maintaining land connection—strategic places throughout history."
-  },
+  "description": "Water surrounds most of a 'kerone', but the projecting land remains joined to a larger land area. The shape and width of that connection vary. 'mola' (island) is separated from other land by water on every side.",
+  "articulatory_notes": "Press the back of the tongue to the soft palate for unvoiced 'k', releasing into middle-height front 'e'. Tap or briefly trill the tongue at the alveolar ridge before stressed middle-height rounded 'o'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n' and finish with middle-height front 'e'.",
+  "examples": [
+    {
+      "phi": "kerone mola senao ma nai.",
+      "translation": "A peninsula is not the same as an island."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Projecting land mass",
-    "spatial": "Connected reaching land"
+    "nature": "land projecting into and mostly surrounded by water",
+    "spatial": "a water-framed extension that remains connected to larger land"
   }
 }

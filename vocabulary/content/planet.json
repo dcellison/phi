@@ -1,0 +1,27 @@
+{
+  "word": "nowari",
+  "gloss": "planet",
+  "ipa": "/n̪o̞.ˈwä.ri/",
+  "syllables": [
+    "no",
+    "wa",
+    "ri"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "planetary body",
+    "world orbiting a star"
+  ],
+  "description": "A 'nowari' is a nearly round world whose principal orbit is around a star. 'lunei' (moon) has its principal orbit around a planet, while 'silero' (star) produces its own light through fusion. Exact scientific classifications and named planets retain their source identities when those distinctions matter.",
+  "articulatory_notes": "At the backs of the upper teeth, form voiced dental 'n' and carry nasal voice into middle-height rounded 'o'. Round the lips and raise the back of the tongue for the 'w' glide into stressed central 'a'. Tap or briefly trill the tongue at the alveolar ridge, then finish with high-front unrounded 'i'.",
+  "examples": [
+    {
+      "phi": "ne muila nowari nai.",
+      "translation": "Earth is a planet."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "a nearly round world whose principal orbit is around a star",
+    "spatial": "a world located and moving within a stellar system"
+  }
+}

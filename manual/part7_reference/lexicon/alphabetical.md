@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1245 words.*
+*1250 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -17,6 +17,7 @@
 | `haolu` | speak | /hä.ˈo̞.lu/ | verb |
 | `haoni` | voice | /hä.ˈo̞.n̪i/ | noun |
 | `haowu` | air | /hä.ˈo̞.wu/ | noun |
+| `harisu` | desert | /hä.ˈri.su/ | noun |
 | `haromi` | meet | /hä.ˈro̞.mi/ | verb |
 | `hasenu` | recess | /hä.ˈse̞.n̪u/ | noun |
 | `hasi` | wait | /ˈhä.si/ | verb |
@@ -301,6 +302,7 @@
 | `lumoi` | lantern | /lu.ˈmo̞.i/ | noun |
 | `lunai` | vision | /lu.ˈn̪ä.i/ | noun |
 | `lunei` | moon | /lu.ˈn̪e̞.i/ | noun |
+| `lunisa` | tide | /lu.ˈn̪i.sä/ | noun |
 | `lunoa` | month | /lu.ˈn̪o̞.ä/ | noun |
 | `lupaki` | fold | /lu.ˈpä.ki/ | verb |
 | `luphano` | watershed | /lu.ˈɸä.n̪o̞/ | noun |
@@ -522,6 +524,7 @@
 | `nosheku` | retract | /n̪o̞.ˈʃe̞.ku/ | verb |
 | `noshi` | near (adj) | /ˈn̪o̞.ʃi/ | adjective |
 | `nowae` | awaken | /n̪o̞.ˈwä.e̞/ | verb |
+| `nowari` | planet | /n̪o̞.ˈwä.ri/ | noun |
 | `nowhu` | cave | /ˈn̪o̞.ʍu/ | noun |
 | `nowiso` | interface | /n̪o̞.ˈwi.so̞/ | noun |
 | `nu` | ORD | /ˈn̪u/ | particle |
@@ -568,6 +571,7 @@
 | `panoru` | support | /pä.ˈn̪o̞.ru/ | verb |
 | `panuri` | resource | /pä.ˈn̪u.ri/ | noun |
 | `pao` | goodbye | /ˈpä.o̞/ | interjection |
+| `pareshi` | cliff | /pä.ˈre̞.ʃi/ | noun |
 | `pasharo` | frustrated | /pä.ˈʃä.ro̞/ | adjective |
 | `patoku` | solid | /pä.ˈt̪o̞.ku/ | noun |
 | `pawela` | participate | /pä.ˈwe̞.lä/ | verb |
@@ -1053,6 +1057,7 @@
 | `thiwera` | scatter | /θi.ˈwe̞.rä/ | verb |
 | `thoa` | AMONG | /ˈθo̞.ä/ | preposition |
 | `thoepa` | sacred | /θo̞.ˈe̞.pä/ | adjective |
+| `thokaru` | volcano | /θo̞.ˈkä.ru/ | noun |
 | `thola` | bring | /ˈθo̞.lä/ | verb |
 | `tholau` | bone | /θo̞.ˈlä.u/ | noun |
 | `thole` | practice | /ˈθo̞.le̞/ | verb |

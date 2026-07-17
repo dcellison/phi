@@ -8,16 +8,17 @@
     "whe"
   ],
   "pos": "noun",
-  "concept": "Sea / Saltwater Expanse / Ocean Basin",
-  "description": "A large body of saltwater partially enclosed by land, or the waters near a coast. 'Moriwhe' names the vast saltwater realms—smaller or more bounded than ocean, yet still immense. The sea is the nearer deep, where humans have fished and sailed since earliest times.",
-  "sound_symbolism": "The word moves like tides. 'Mo' begins with deep nasal humming, the sea's ancient voice. Then 'ri' ripples rhythmically, wave after wave. Finally 'whe' /ʍe/ breathes outward, the breathy expanse of horizon.",
-  "grammatical_notes": "Functions as a noun. Plural with 'lo': 'lo moriwhe' (seas). A sea is not a detached or crafted object, so it has no canonical classifier; omit the optional classifier when counting seas. Distinguished from 'thaluro' (ocean) by scale—sea is bounded or regional, ocean is vast and global. Often used for coastal waters and named seas.",
-  "pillars": {
-    "secular-buddhist-philosophy": "The sea is an old meditation image: waves at the surface, stillness underneath, tides on cycles no one commands.",
-    "pre-industrial-wisdom": "The sea provided food, trade routes, and boundaries for coastal peoples—a living presence to be respected and honored."
-  },
+  "description": "A regional body of salt water, or the ocean water beside a coast, takes the name 'moriwhe'. Seas are often partly bounded by land, but their names and limits follow geography and convention. 'thaluro' (ocean) names the connected global body or one of its major divisions.",
+  "articulatory_notes": "With the lips closed, send voiced 'm' through the nose into middle-height rounded 'o'. Tap or briefly trill the tongue at the alveolar ridge before stressed high-front 'i'. Round the lips and raise the back of the tongue for unvoiced 'wh', then let breath continue into middle-height front 'e'.",
+  "sound_symbolism": "The opening 'mo.ri' is shared with 'morilu' (wave) and 'morisa' (salt). The final unvoiced rounded breath distinguishes the sea while keeping its water and salt family audible.",
+  "examples": [
+    {
+      "phi": "moriwhe morisa phelu.",
+      "translation": "The sea contains salt."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Saltwater body",
-    "spatial": "Bounded oceanic expanse"
+    "nature": "a regional saltwater body or coastal part of the ocean",
+    "spatial": "a named or locally bounded expanse of ocean water"
   }
 }

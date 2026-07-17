@@ -7,16 +7,20 @@
     "pi"
   ],
   "pos": "noun",
-  "concept": "Plateau / High Flat Land / Elevated Plain",
-  "description": "An area of relatively level high ground. 'Shupi' names the elevated flats—where land rises to create high plains, offering both the openness of lowlands and the perspective of heights.",
-  "sound_symbolism": "The word rises to level height. 'Shu' /ʃu/ lifts with soft breath, the ascent. Then 'pi' flattens at the top, the level high ground.",
-  "grammatical_notes": "Functions as a noun. Plural with 'lo': 'lo shupi' (plateaus). A plateau is a landform rather than a detached or crafted object, so it has no canonical classifier. Combines qualities of 'wemo' (plain) and 'tomora' (mountain)—high yet flat.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Plateaus teach stability at height—having risen, one finds level ground, perspective without continued striving.",
-    "pre-industrial-wisdom": "High plateaus offered unique ecosystems and refuge—places where communities found both isolation and prospect."
-  },
+  "search_terms": [
+    "tableland",
+    "high plain"
+  ],
+  "description": "Broad, relatively level ground raised above the surrounding land is a 'shupi'. A plateau may have gradual or abrupt sides, with smaller hills and valleys across its surface. 'wemo' (plain) names level land without the raised relation.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for unvoiced 'sh' and let the breath continue into stressed high-back rounded 'u'. Close the lips for unvoiced 'p', release them cleanly, and finish with high-front unrounded 'i'.",
+  "examples": [
+    {
+      "phi": "shupi raelu wemo nai.",
+      "translation": "A plateau is a high plain."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Elevated flat land",
-    "spatial": "High level ground"
+    "nature": "a raised landform with a broadly level upper surface",
+    "spatial": "high ground extending across a substantial area"
   }
 }

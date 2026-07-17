@@ -8,16 +8,21 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Stream / Brook / Small Flowing Water",
-  "description": "A small, narrow river or natural flow of water. 'Phuliro' names the intimate waters—brooks one can step across, channels that sing over stones, the smaller arteries that feed rivers and refresh the land.",
-  "sound_symbolism": "The word trickles gently. 'Phu' /ɸu/ begins with soft breath, water emerging. Then 'li' flows with liquid lightness, the clear passage. Finally 'ro' runs onward, the stream continuing its journey.",
-  "grammatical_notes": "Functions as a noun: 'phuliro' (stream), 'lo phuliro' (streams). A stream is a watercourse rather than a detached or crafted object, so it has no canonical classifier. Distinguished from 'luphore' (river) by scale and intimacy. Associated with freshness, clarity, and gentle persistence.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Streams teach adaptability—water flows around obstacles without force, finding the path of least resistance while never stopping.",
-    "art-nouveau-aesthetics": "Streams embody the flowing line—water finding its natural path through landscape, creating organic curves and gentle music."
-  },
+  "search_terms": [
+    "brook",
+    "creek",
+    "small watercourse"
+  ],
+  "description": "Smaller natural watercourses take the name 'phuliro'. Some streams run year-round; others return with rain or snowmelt. 'luphore' (river) names the larger side of the local distinction rather than a size fixed for every landscape.",
+  "articulatory_notes": "For unvoiced bilabial 'ph', bring the lips close and let the narrow breath enter high-back rounded 'u'. Touch the tongue tip to the alveolar ridge for lateral 'l' and release voice around its sides into stressed high-front 'i'. Tap or briefly trill the tongue at the ridge, then finish with middle-height rounded 'o'.",
+  "examples": [
+    {
+      "phi": "phuliro muo luphore koema.",
+      "translation": "The stream enters the river."
+    }
+  ],
   "semantic_domains": {
-    "aesthetic": "Gentle flowing water",
-    "nature": "Small waterway"
+    "nature": "a small natural watercourse within a landscape",
+    "spatial": "a narrow channel that may feed or leave another body of water"
   }
 }

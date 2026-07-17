@@ -8,16 +8,19 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Ocean / World Sea / Boundless Waters",
-  "description": "The vast body of saltwater covering most of Earth's surface, connecting all continents. 'Thaluro' names the great waters that encircle the world—source of weather, holder of depths unknown, the ultimate commons shared by all lands.",
-  "sound_symbolism": "The word opens to boundless expanse. 'Tha' /θa/ begins with ancient breath and primordial depth. 'Lu' flows through the ocean's liquid vastness, and 'ro' holds its enduring presence out toward the horizon.",
-  "grammatical_notes": "Functions as a noun. Plural with 'lo': 'lo thaluro' (oceans). An ocean is a place and body of water rather than a detached or crafted object, so it has no canonical classifier. Distinguished from 'moriwhe' (sea) by scale—ocean is global and boundless, sea is regional or bounded. Often used for the concept of ultimate depth or source.",
+  "description": "The connected global body of salt water and each conventionally named major division can be 'thaluro'. 'moriwhe' (sea) is a regional or coastal part of those waters, often partly bounded by land. Ecological condition, access, and jurisdiction remain further facts about either body.",
+  "articulatory_notes": "For unvoiced 'th', set the tongue against the upper teeth and let breath open into central 'a'. Touch the tongue tip to the alveolar ridge for lateral 'l' and release along its sides into stressed high-back rounded 'u'. Tap or briefly trill the tongue at the ridge, then finish with middle-height rounded 'o'.",
+  "examples": [
+    {
+      "phi": "lo morilu mua thaluro shua.",
+      "translation": "Waves arise in the ocean."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The ocean teaches boundlessness—no matter how many waves arise, the ocean itself remains whole and inexhaustible.",
-    "pre-industrial-wisdom": "The ocean was the great mystery and connector—source of life, feared and revered, crossed by brave voyagers who understood its power."
+    "solarpunk-values": "Ocean conditions connect coastal life and weather across political boundaries. Food systems, transport, and pollution move through the same water. The shared water does not erase unequal responsibility or authority."
   },
   "semantic_domains": {
-    "nature": "Global saltwater body",
-    "spatial": "Boundless expanse"
+    "nature": "the connected planetary body of salt water",
+    "spatial": "a global water expanse divided into named regions by convention"
   }
 }

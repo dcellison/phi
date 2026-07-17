@@ -8,16 +8,19 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Sand / Fine Particles / Time's Dust",
-  "description": "Loose granular material formed from broken rock, found on beaches and in deserts. 'Kirua' names the countless tiny fragments—what remains when stone surrenders to time and water, the soft accumulation of ages.",
-  "sound_symbolism": "The word shifts and settles. 'Ki' strikes with countless fine grains, particles beyond number. 'Ru' shifts and runs, sand in motion. Then 'a' settles into temporary stillness, grains coming to rest.",
-  "grammatical_notes": "Functions as a mass noun and normally takes a quantifier or measure rather than a classifier. A separately bounded or crafted container of sand may be counted through the container noun; an area of sand has no canonical classifier. What remains when 'kerou' (stone) breaks down; gathers at 'leru' (beach). Associated with deserts, hourglasses, and impermanence.",
+  "description": "Loose grains of mineral, rock, shell, or another durable material are 'kirua'. Sand gathers on beaches, riverbeds, dunes, and dry ground, where water and wind may sort or carry it. 'muhena' (dust) is finer and more readily suspended in air.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'. Tap or briefly trill the tongue at the alveolar ridge before stressed high-back rounded 'u'. Keep the final vowel separate across the hiatus and lower the tongue into central 'a'.",
+  "examples": [
+    {
+      "phi": "kirua mua leru nai.",
+      "translation": "Sand is on the beach."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Sand teaches impermanence through accumulation—each grain was once mountain, and time transforms all solidity to particles.",
-    "pre-industrial-wisdom": "Sand marked time in hourglasses and provided material for glassmaking—the tiny grains serving human needs through transformation."
+    "pre-industrial-wisdom": "Sand can mark passing time, temper clay, filter water, and become glass. Grain size and source decide which use is possible."
   },
   "semantic_domains": {
-    "nature": "Granular earth material",
-    "temporal": "Product of deep time"
+    "nature": "loose grains transported and deposited by water, wind, or gravity",
+    "physical": "a granular material of small durable particles"
   }
 }

@@ -8,16 +8,16 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Hill / Gentle Rise / Earth's Swell",
-  "description": "A naturally raised area of land, smaller and less steep than a mountain. 'Molira' names the gentle swellings of the landscape—rises one can walk without climbing, vantage points that reveal the surrounding land without demanding ascent.",
-  "sound_symbolism": "The word rises gently. 'Mo' begins with mounded nasal sound, earth gathered. Then 'li' lifts lightly, the gradual slope. Finally 'ra' reaches the crest, opening to the view beyond.",
-  "grammatical_notes": "Functions as a noun: 'lo molira' (hills). A hill is a landform rather than a detached or crafted object, so it has no canonical classifier. Distinguished from 'tomora' (mountain) by gentleness and scale. Often plural in landscape descriptions. Associated with gentle effort, perspective, and pastoral settings.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Hills teach gentle effort—the climb is manageable, the view rewards, the lesson is persistence without strain.",
-    "art-nouveau-aesthetics": "Hills create the gentle curves of pastoral landscape—soft rises that guide the eye through organic terrain."
-  },
+  "description": "A 'molira' rises naturally above nearby land but remains locally smaller or less abrupt than a mountain. The surrounding terrain and the community describing it set the boundary, not a fixed height. 'tomora' (mountain) names the more substantial elevation.",
+  "articulatory_notes": "Bring the lips together for voiced 'm', sending nasal voice into middle-height rounded 'o'. Touch the tongue tip to the alveolar ridge for lateral 'l' and release along its sides into stressed high-front 'i'. Tap or briefly trill the tongue at the ridge, then open into central 'a'.",
+  "examples": [
+    {
+      "phi": "lopia molira kalei.",
+      "translation": "The child climbs the hill."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Gentle land elevation",
-    "spatial": "Accessible rise"
+    "nature": "a modest natural elevation within the surrounding terrain",
+    "spatial": "raised ground that can orient a route or view"
   }
 }

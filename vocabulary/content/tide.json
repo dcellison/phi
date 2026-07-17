@@ -1,0 +1,33 @@
+{
+  "word": "lunisa",
+  "gloss": "tide",
+  "ipa": "/lu.ˈn̪i.sä/",
+  "syllables": [
+    "lu",
+    "ni",
+    "sa"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "high tide",
+    "low tide",
+    "tidal cycle"
+  ],
+  "description": "The recurring rise, fall, and horizontal movement of a sea or other large body of water is 'lunisa', shaped chiefly by moon and sun. Coastline, depth, wind, and weather alter the cycle in each place. 'morilu' (wave) is a travelling water form, while 'phialu selu' names a current or water flow.",
+  "articulatory_notes": "Rest the tongue tip at the alveolar ridge for lateral 'l' and release voice around its sides into high-back rounded 'u'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n' and carry nasal voice into stressed high-front 'i'. Narrow the airstream along the centre of the tongue for unvoiced 's', then open into central 'a'.",
+  "sound_symbolism": "The shared 'lu.n' opening places 'lunisa' beside 'lunei' (moon) and 'lunoa' (month) in the ear. Its final sibilant carries the air onwards, keeping the tidal word distinct from both lunar neighbours.",
+  "usage_notes": "'raelu lunisa' and 'mulu lunisa' name high and low tide. Exact tide tables retain their heights, standards, and times in the source record. Navigation, access, work, or safety may depend on those details.",
+  "examples": [
+    {
+      "phi": "lunisa turema.",
+      "translation": "The tide returns."
+    }
+  ],
+  "pillars": {
+    "pre-industrial-wisdom": "Coastal travel, gathering, fishing, and landing often follow local tidal cycles. Practical knowledge attends to the particular shore and moon. Wind, season, and route supply the rest of the local account."
+  },
+  "semantic_domains": {
+    "nature": "recurring water movement shaped chiefly by moon and sun",
+    "temporal": "a repeating coastal and oceanic cycle with local phases"
+  }
+}
