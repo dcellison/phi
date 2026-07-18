@@ -8,13 +8,22 @@
     "ku"
   ],
   "pos": "verb",
-  "concept": "Interpret / Convey Meaning Between Languages or Communication Modes",
-  "description": "To convey meaning between languages or communication modes for an interaction, with the source expression and the new expression remaining distinct. Interpretation may be simultaneous, consecutive, signed, spoken, tactile, or otherwise specified. 'shorela' (rephrase) changes wording within an exchange; 'shoraku' crosses a language or mode boundary.",
-  "sound_symbolism": "Rounded 'sho' begins as a low hush. At stressed 'ra', the tongue rolls and the vowel opens fully, then final 'ku' closes the back of the mouth over deep 'u'. A wide middle stretches between two darker rounded edges.",
-  "grammatical_notes": "A transitive verb: 'shia ha phelui shoraku.' (They interpret these words.) Source and receiving languages or modes can appear in surrounding phrases. The event-noun rule supplies interpretation, while an interpreting person remains 'miona' with an applicable role rather than a new person class.",
+  "search_terms": [
+    "language interpretation",
+    "interpret communication"
+  ],
+  "description": "To convey meaning between languages or communication modes while keeping the source expression and the new expression distinct. Interpretation may happen through speech, signing, touch, or another stated mode, either at once or after each passage. 'shorela' (rephrase) changes wording within an exchange; 'shoraku' crosses a language or mode boundary.",
+  "articulatory_notes": "Raise the tongue behind the alveolar ridge for unvoiced 'sh' and send air through its central groove into true-mid back rounded 'o'. Make a voiced tap or short trill with the tongue tip, opening into stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k', then release into high-back rounded 'u'.",
+  "sound_symbolism": "A broad stressed center lies between two rounded syllables, one carried by breath and one closed at the velum. The contour can suggest meaning passing across a boundary and settling into another form, without claiming a universal sound-meaning rule.",
+  "usage_notes": "The object is the words, expression, or communication interpreted. Source and receiving languages or modes belong in surrounding phrases when they are not already known. Noun use gives interpretation. The interpreting person is 'miona' in the applicable role; interpreting alone grants no authority to represent or decide for the speaker.",
+  "examples": [
+    {
+      "phi": "shia ha phelui shoraku.",
+      "translation": "They interpret these words."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Interpretation can open dialogue across languages without granting the interpreter ownership of the speaker's view or authority to decide for them.",
-    "pre-industrial-wisdom": "Multilingual traders, travelers, and neighboring communities relied on people who could carry meaning across speech traditions while every retelling still required trust and correction."
+    "peace-linguistics-practices": "Interpretation opens dialogue across languages without giving the interpreter ownership of a speaker's view or authority to decide for them."
   },
   "semantic_domains": {
     "cognition": "understanding one expression well enough to convey its meaning",

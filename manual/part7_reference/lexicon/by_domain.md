@@ -769,7 +769,7 @@
 | `thasu` | modest | ability, achievement, or certainty presented without exaggeration |
 | `theisa` | loud | high perceived intensity in a voice or spoken utterance |
 | `thekao` | acknowledge | making receipt or recognition explicit in an exchange |
-| `thekasi` | caption | speech and meaningful sound presented in a readable form |
+| `thekasi` | caption | speech and meaningful sound presented in readable form |
 | `thekiro` | write | creating language in a form that can be read later |
 | `thelima` | describe | a verbal account of a thing, event, or condition |
 | `theloa` | truth | truth as stated, reported, or discussed |
@@ -2533,7 +2533,7 @@
 | `therema` | tradition | something carried from earlier generations into present use |
 | `therilu` | rest | an interval between periods of greater activity |
 | `thilonu` | prepare | an earlier action arranged in relation to what is expected later |
-| `thimelo` | pace | movement distributed through time |
+| `thimelo` | pace | action distributed through time |
 | `thimora` | schedule | planned relations among times and stages |
 | `thimu` | time | duration and the temporal setting of events and change |
 | `thinoe` | seed | a dormant or developing beginning carried across seasons |

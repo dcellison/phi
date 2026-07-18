@@ -8,12 +8,22 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Barrier / Condition That Blocks or Burdens Access",
-  "description": "A physical feature, communication practice, rule, or arrangement that blocks access or makes participation materially harder for a stated person and activity. A barrier belongs to the relation, not to the person's body: 'norui' (boundary) marks a limit, while 'kopharu' is the condition that gets in the way.",
-  "sound_symbolism": "Round 'ko' begins with a full velar closure. At stressed 'pha', bilabial breath spreads through broad 'a', then final 'ru' rolls the tongue into deep 'u'. The hard opening gives way to air and ends in a low turning motion.",
-  "grammatical_notes": "A countable noun: 'ha ponu kopharu nai.' (This door is a barrier.) A clause may name who encounters it, which action it blocks, and under what conditions. Distinct from 'norui' (boundary), 'pukea' (danger), and an ordinary technical 'kiphira' (fault).",
+  "search_terms": [
+    "access barrier",
+    "obstacle to participation"
+  ],
+  "description": "A feature, communication practice, rule, or arrangement that blocks access or makes participation materially harder for a stated person and activity. A barrier belongs to that relation, not to the person's body. 'norui' (boundary) marks a limit; 'kopharu' is something in the present conditions that gets in the way.",
+  "articulatory_notes": "Seal the back of the tongue against the soft palate for unvoiced 'k', then release into true-mid back rounded 'o'. Narrow the lips without involving the teeth for unvoiced bilabial 'ph'; let air pass between them and open into stressed central 'a'. Make a voiced tap or short trill with the tongue tip, then draw the tongue back into high-back rounded 'u'.",
+  "sound_symbolism": "The firm velar closure and narrowed breath make the first two syllables feel interrupted; the final roll releases that interruption into motion. The contour can recall meeting an obstruction and moving beyond it, without assigning those meanings to the syllables themselves.",
+  "usage_notes": "A barrier is countable. The person, affected action, and relevant conditions complete the account when context does not supply them. A boundary remains 'norui', danger 'pukea', and an ordinary technical fault 'kiphira'.",
+  "examples": [
+    {
+      "phi": "ha ponu kopharu nai.",
+      "translation": "This door is a barrier."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "A stair, meeting rule, or unreadable notice becomes discussable as something the shared environment can change.",
+    "solarpunk-values": "A stair, meeting rule, or unreadable notice becomes something the shared environment can change, not a private shortcoming someone must quietly absorb.",
     "peace-linguistics-practices": "Naming the barrier prevents a blocked action from being recast as personal failure."
   },
   "semantic_domains": {

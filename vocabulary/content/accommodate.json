@@ -8,13 +8,22 @@
     "wu"
   ],
   "pos": "verb",
-  "concept": "Accommodate / Make a Particular Change for Access",
-  "description": "To make a particular change in an environment, practice, timing, or form of support so a stated person can access or participate. The change answers an access relation, not a supposed diagnosis: 'hinolu' (adapt) can improve any fit, while 'hinawu' answers a person's stated access requirement.",
-  "sound_symbolism": "A light current of breath lifts 'hi' into bright 'i'. Stressed 'na' holds the tongue at the teeth and opens across broad 'a', while final 'wu' rounds the lips and descends into deep 'u'. At its center the contour swells, then folds into a low glide.",
-  "grammatical_notes": "A transitive verb: 'lo mia ha phelona hinawu.' (We accommodate this requirement.) The event-noun rule supplies an accommodation. The object can be a requirement, activity, environment, or process, while the affected person may appear with 'wei'.",
+  "search_terms": [
+    "access change",
+    "make an accommodation"
+  ],
+  "description": "To make a particular change in an environment, practice, timing, or form of support so a stated person can access or participate. The change answers an access relation rather than a supposed diagnosis. 'hinolu' (adapt) can improve any fit; 'hinawu' responds to a person's stated access requirement.",
+  "articulatory_notes": "Let unvoiced breath pass through the open glottis for 'h', then lift the tongue into high-front unrounded 'i'. Set the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and open into stressed central 'a'. Round the lips and raise the back of the tongue for voiced 'w', continuing into high-back rounded 'u'.",
+  "usage_notes": "The object may be the requirement, activity, environment, or process being changed; the affected person may appear with 'wei'. A requested change is one event, and whether it worked is another. Noun use gives an accommodation. An offer leaves consent with the person, and the result still decides whether access followed.",
+  "examples": [
+    {
+      "phi": "lo mia ha phelona hinawu.",
+      "translation": "We accommodate this requirement."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Shared spaces remain shared only when their arrangements can change for the people who use them.",
-    "peace-linguistics-practices": "The verb makes a requested adjustment discussable without turning help into permission to control the person who asked."
+    "solarpunk-values": "A place remains genuinely shared when its arrangements can change with the people who use it.",
+    "peace-linguistics-practices": "The verb makes a requested change discussable without turning assistance into permission to control the person who asked."
   },
   "semantic_domains": {
     "activity": "changing a practice so a stated action becomes possible",

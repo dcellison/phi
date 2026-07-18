@@ -8,13 +8,23 @@
     "ki"
   ],
   "pos": "verb",
-  "concept": "Wayfind / Establish and Maintain Direction Through a Place",
-  "description": "To establish and maintain one's location and direction while moving through a physical or informational place. Wayfinding may draw on landmarks and markers, memory or touch, sound or assistance. 'kulo' (guide) names leading by an agent; 'runaki' keeps the traveler as the one finding the way.",
-  "sound_symbolism": "Rolling 'ru' begins in motion and drops into deep 'u'. The stress rests on 'na', where the tongue settles at the teeth before broad 'a'. Final 'ki' closes farther back and rises to bright 'i'. The contour travels from a low turn through a steady center to one crisp point.",
-  "grammatical_notes": "An intransitive verb that may take an instrumental phrase: 'mia roe lo siru runaki.' (I find my way using the markers.) A route or destination can appear in the usual spatial phrases. The event-noun rule supplies wayfinding as an activity.",
+  "search_terms": [
+    "find one's way",
+    "maintain orientation"
+  ],
+  "description": "To establish and maintain one's location and direction while moving through a physical or informational place. Landmarks and markers may help; so may memory, touch, sound, or assistance. 'kulo' (guide) names leading by an agent; 'runaki' keeps the traveller as the person finding the way.",
+  "articulatory_notes": "Make a voiced tap or short trill with the tongue tip and draw the tongue back into high-back rounded 'u'. For dental 'n', rest the tip against the backs of the upper teeth, carry the voice through the nose, and open into stressed central 'a'. Close at the soft palate for unvoiced 'k' and release into high-front unrounded 'i'.",
+  "sound_symbolism": "The word moves from a low roll through a steady stressed center to one bright, crisp endpoint. Its changing points of contact can recall a route found cue by cue rather than seen all at once.",
+  "usage_notes": "The verb is intransitive. An instrumental phrase may name markers, memory, touch, sound, a device, or another person's information; ordinary spatial phrases can add a route or destination. Noun use gives wayfinding as an activity. Assistance does not move agency from the traveller to the source of the cue.",
+  "examples": [
+    {
+      "phi": "mia roe lo siru runaki.",
+      "translation": "I find my way using the markers."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "A public path works differently when its turns can be found without requiring one familiar guide beside every traveler.",
-    "peace-linguistics-practices": "The verb preserves the traveler's direction over the act even when another person or device supplies information."
+    "solarpunk-values": "A public path works differently when its turns can be found without requiring one familiar guide beside every traveller.",
+    "peace-linguistics-practices": "The verb preserves the traveller's direction over the act even when another person or device supplies information."
   },
   "semantic_domains": {
     "activity": "maintaining orientation while moving",
