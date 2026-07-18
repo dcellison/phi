@@ -230,9 +230,9 @@
 0.50	1	seru	commit	content	sheru	slow	content	16
 0.50	1	seru	commit	content	heru	herb	content	15
 0.50	1	sorui	circle	content	shorui	weary	content	14
+0.50	1	lima	alive	content	lina	string (instrument)	content	13
 0.50	1	pelui	cold	content	telui	rhythm	content	13
 0.50	1	shalu	fish	content	halu	aww	interjection	13
-0.50	1	lima	alive	content	lina	string (instrument)	content	12
 0.50	1	pheno	full	content	heno	satisfy	content	12
 0.50	1	thola	bring	content	whola	invite	content	12
 0.50	1	heru	herb	content	sheru	slow	content	11
