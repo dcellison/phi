@@ -1,12 +1,12 @@
 # Current state
 
-This snapshot describes the repository immediately after pull request #418 merged on 17 July 2026. The merge commit is `287d8673bd48ed31e3c70b42e51d5fb89dab09e2`. Local `main` and `origin/main` matched, the feature branch had been removed locally and remotely, and the worktree was clean before this handoff branch was created.
+This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D043. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
 
 ## Active execution sequence
 
 The roadmap's current sequence is not an invitation to choose among several equal tasks. It records one active path:
 
-1. SEM-09B: migrate the final 36 base content entries.
+1. SEM-09B: migrate the final 18 base content entries.
 2. SEM-09D: inspect active Phi passages after the base queue reaches zero.
 3. SEM-09C: migrate 209 legacy module entries.
 4. PED-08: resume the book at chapter 7.
@@ -17,16 +17,16 @@ Do not jump into module prose before the base queue and the post-base corpus swe
 
 | Inventory | Total | Target | Legacy |
 |---|---:|---:|---:|
-| Entire lexicon | 1,260 | 1,015 | 245 |
-| Content vocabulary | 1,130 | 885 | 245 |
-| Base content vocabulary | 884 | 848 | 36 |
+| Entire lexicon | 1,260 | 1,033 | 227 |
+| Content vocabulary | 1,130 | 903 | 227 |
+| Base content vocabulary | 884 | 866 | 18 |
 | Optional-module content vocabulary | 246 | 37 | 209 |
 | Function vocabulary | 110 | 110 | 0 |
 | Interjections | 20 | 20 | 0 |
 
 There are no partial or dual entries. A target entry has both `articulatory_notes` and structured `examples` and has neither legacy `concept` nor `grammatical_notes`. The committed evidence is [`documents/validation/vocabulary_prose_coverage.json`](../../documents/validation/vocabulary_prose_coverage.json).
 
-The latest completed prose batch is D042, Language, story, art, and representation. It migrated 18 base nouns without adding a root. The immediately preceding batches covered space and orientation, tools and travel, dwelling and food, materials, living systems, landscape and weather, and time. Do not reopen those entries merely to make their English prose different; reopen one only for a real semantic, factual, voice, or corpus problem.
+The latest completed prose batch is D043, Reason, belief, ritual, and value. It migrated 18 base nouns without adding a root. The immediately preceding batches covered language and art, space and orientation, tools and travel, dwelling and food, materials, living systems, landscape and weather, and time. Do not reopen those entries merely to make their English prose different; reopen one only for a real semantic, factual, voice, or corpus problem.
 
 ## Decision register
 
@@ -34,50 +34,25 @@ The latest completed prose batch is D042, Language, story, art, and representati
 
 | Item | Count |
 |---|---:|
-| Semantic batches | 53 |
-| Decisions | 117 |
+| Semantic batches | 54 |
+| Decisions | 128 |
 | Implemented | 39 |
-| Compositional | 33 |
-| Deferred with return condition | 30 |
-| Source-bound | 13 |
-| Declined | 2 |
+| Compositional | 39 |
+| Deferred with return condition | 29 |
+| Source-bound | 17 |
+| Declined | 4 |
 | Open | 0 |
 | Accepted but not implemented | 0 |
 
-The next completed batch will normally become D043 in [`project/development_log.md`](../development_log.md), unless an intervening decision uses that identifier first. Check the live log before assigning it.
+The next completed batch will normally become D044 in [`project/development_log.md`](../development_log.md), unless an intervening decision uses that identifier first. Check the live log before assigning it.
 
-## The final 36 base entries
+## The final 18 base entries
 
 The table below gives every base entry still using legacy prose. Forms and exact glosses remain fixed unless a separate lexical decision changes them. Existing semantic domains are starting evidence, not a command to preserve an old classification that no longer makes sense.
 
-Two 18-entry batches would close SEM-09B with less repository churn than several tiny PRs. The proposed split is deliberately marked as a suggestion. Read all entries, their neighbours, canon rulings, and corpus uses before choosing the final headings.
+One residual 18-entry batch remains. Read every entry, its neighbours, canon rulings, and corpus uses before settling the final heading or deciding that a familiar English sense belongs in the Phi root.
 
-### Suggested batch A: Reason, belief, ritual, and value
-
-| File | Phi | Exact gloss | Current semantic domains |
-|---|---|---|---|
-| `vocabulary/content/ceremony.json` | `thorea` | ceremony | community, ritual, temporal |
-| `vocabulary/content/criterion.json` | `kirema` | criterion | cognition, wisdom |
-| `vocabulary/content/custom.json` | `keno` | custom | community, temporal |
-| `vocabulary/content/evidence.json` | `thesori` | evidence | cognition, wisdom |
-| `vocabulary/content/festival.json` | `holia` | festival | emotion, ritual |
-| `vocabulary/content/insight.json` | `sorai` | insight | cognition, wisdom |
-| `vocabulary/content/justice.json` | `theloma` | justice | communication, community, wisdom |
-| `vocabulary/content/luck.json` | `soleha` | luck | cognition, temporal |
-| `vocabulary/content/magic.json` | `whekelu` | magic | cognition, nature |
-| `vocabulary/content/method.json` | `norae` | method | cognition, wisdom |
-| `vocabulary/content/purpose.json` | `porua` | purpose | cognition, wisdom |
-| `vocabulary/content/reason.json` | `remotha` | reason | cognition, communication, wisdom |
-| `vocabulary/content/ritual.json` | `thelumo` | ritual | community, ritual, temporal, wisdom |
-| `vocabulary/content/soul.json` | `norea` | soul | cognition, wisdom |
-| `vocabulary/content/spirit.json` | `phiora` | spirit | cognition, nature |
-| `vocabulary/content/tradition.json` | `therema` | tradition | community, ritual, temporal, wisdom |
-| `vocabulary/content/vision.json` | `lunai` | vision | cognition, temporal |
-| `vocabulary/content/worth.json` | `rolia` | worth | community, wisdom |
-
-This batch contains several canon-sensitive boundaries. `thorea` is the only ceremony word and specific rites are refused. `rolia` is inherent worth, while `sone` is the act of valuing. Evidence, reason, criterion, method, insight, and justice must remain distinct. Soul, spirit, magic, luck, vision, custom, tradition, ritual, ceremony, and festival must be described without declaring one metaphysics or tradition to be universal. Source-bound religious and cultural names keep their own forms.
-
-### Suggested batch B: Roles, places, relations, and remaining concrete nouns
+### Suggested closing batch: Roles, places, relations, and remaining concrete nouns
 
 | File | Phi | Exact gloss | Current semantic domains |
 |---|---|---|---|
@@ -133,7 +108,7 @@ All eight profiles already have canonical JSON membership, a generated module in
 
 The literary shelf has completed its full review against the current lexicon. It contains nine close translations and eleven transmutations; seven works have both. *News from Nowhere* is one 32-chapter work with the first three chapters transmuted and reviewed. The current review record is [`documents/evaluation/active_text_corpus_review.md`](../../documents/evaluation/active_text_corpus_review.md).
 
-SEM-09D begins only after the 36 base entries reach target state. It is not a blind replacement pass. Search the book, manual, primer, pamphlets, texts, and current documents for paraphrases or workarounds involving words coined during the base expansion. Change a Phi passage only when the newer form is more faithful or natural in that passage. Preserve a transparent composition when its parts still teach or express the thought better. Validate every changed sentence and its dependencies.
+SEM-09D begins only after the final 18 base entries reach target state. It is not a blind replacement pass. The sweep covers the book, manual, primer, pamphlets, texts, and current documents for paraphrases or workarounds involving words coined during the base expansion. A Phi passage changes only when the newer form is more faithful or natural in that passage. A transparent composition stays when its parts still teach or express the thought better, and every changed sentence and dependency receives validation.
 
 The shelf's method distinction remains settled:
 
@@ -173,7 +148,7 @@ Citation work performed in earlier conversations is not preserved as a complete 
 | Native glyph mode | Parked | Daniel chooses to resume exploration of Phi's one intended native script. |
 | Spoken source material and code-switching | Open design question | Live conversational examples make the current outside-syntax boundary inadequate. Do not reintroduce guest or exact frames. |
 | Sexual and reproductive anatomy | Queued scenario-led vocabulary effort | Begin as its own respectful corpus and vocabulary project, not as an unnoticed extension of Medical vocabulary. |
-| Legacy vocabulary prose audit | Active | Complete the 36 base entries, corpus retrofit, and 209 module entries. |
+| Legacy vocabulary prose audit | Active | Complete the final 18 base entries, corpus retrofit, and 209 module entries. |
 | Lexical relations between content words | Parked | The explorer or project needs curated related-word navigation strongly enough to add and maintain a schema field. |
 | Tengwar renderer verification | Parked | Tengwar work resumes or approaches publication status. |
 | Solarpunk community engagement | Open strategic question | Daniel is ready to offer Phi outside its repository and decide what a healthy invitation looks like. |

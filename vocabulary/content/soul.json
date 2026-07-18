@@ -8,16 +8,25 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Soul / Deep Self / Core Identity",
-  "description": "The deepest aspect of personal identity; the continuous thread of self through time. 'Norea' names what persists—the who beneath all doing and having.",
-  "sound_symbolism": "The word settles deep. 'No' grounds with internal presence, self found. 'Re' resonates with continuing thread, identity through time. Then 'a' opens to acceptance of this mystery.",
-  "grammatical_notes": "Functions as noun: 'mia norea' (my soul). The deepest self. Related to but distinct from 'phiora' (spirit) which animates, while 'norea' identifies.",
+  "search_terms": [
+    "inner self",
+    "immaterial identity",
+    "enduring self"
+  ],
+  "description": "Within a religious, philosophical, or poetic account, 'norea' is the soul understood as a being's continuing identity or immaterial self. The word lets speakers discuss that account without making it a grammatical fact. 'phiora' (spirit) concerns an animating presence or disposition, while 'lioru' (life) stays with being alive as lived.",
+  "articulatory_notes": "Place the tongue tip at the upper teeth for dental 'n' and carry voiced nasal resonance into rounded middle-height back 'o'. Form 'r' with a brief alveolar contact before stressed middle-height front 'e'. Open into a separate final central 'a' across the 'e.a' hiatus.",
+  "usage_notes": "A speaker may affirm, question, deny, or speak poetically of a soul; evidentials and surrounding claims show that stance. Whether a soul persists through death remains part of the speaker's account. The tradition's source terms supply doctrinal precision.",
+  "examples": [
+    {
+      "phi": "lo shia norea mua wireo womu menui.",
+      "translation": "Their souls dwell in the house of tomorrow."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Soul as process—not permanent essence but the continuity of pattern, like a river's identity through flowing water.",
-    "pre-industrial-wisdom": "Soul as sacred center—the part of person that connects to something greater."
+    "secular-buddhist-philosophy": "Phi can discuss a soul without requiring one account of personal continuity. The living person and the consequences of present conduct remain speakable whether the speaker affirms the concept or not."
   },
   "semantic_domains": {
-    "cognition": "Deep identity",
-    "wisdom": "Self understanding"
+    "cognition": "continuing or immaterial personal identity considered as a soul",
+    "ritual": "soul language used in religious, commemorative, or poetic accounts"
   }
 }

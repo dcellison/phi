@@ -53,6 +53,7 @@
     {"id": "tools-travel-and-practical-objects", "heading": "Tools, travel, and practical objects", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-TOOL-01", "CV-TOOL-02", "CV-MESH-01", "CV-SIGNAL-01", "CV-TRAVEL-01", "CV-TRAVEL-02", "CV-TRAVEL-03", "CV-TRAVEL-04"]},
     {"id": "space-orientation-boundaries-and-physical-form", "heading": "Space, orientation, boundaries, and physical form", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-02", "CV-MEAS-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-AIM-01", "CV-SPACE-01", "CV-SPACE-02", "CV-GEOM-01", "CV-SPACE-03"]},
     {"id": "language-story-art-and-representation", "heading": "Language, story, art, and representation", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-AEST-03", "CV-WRITE-01", "CV-LANG-01", "CV-LANG-02", "CV-ART-01", "CV-ART-02", "CV-MUSIC-01", "CV-MUSIC-02", "CV-ART-03"]},
+    {"id": "reason-belief-ritual-and-value", "heading": "Reason, belief, ritual, and value", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-PHIL-01", "CV-REASON-01", "CV-EPIST-01", "CV-EPIST-02", "CV-CHANCE-01", "CV-RITE-01", "CV-RITE-02", "CV-META-01", "CV-META-02", "CV-VISION-01", "CV-JUST-01", "CV-VALUE-01", "CV-ECON-01"]},
     {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-02", "CV-MAT-05", "CV-MAT-06", "CV-MEAS-02", "CV-MEAS-03", "CV-MEAS-04", "CV-MEAS-05", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]}
   ],
   "candidates": [
@@ -360,7 +361,7 @@
       "placement": "Philosophical Reasoning, Systems, or shared base",
       "summary": "The first philosophical pass named these as later questions rather than completed omissions.",
       "revisit_when": "new philosophical arguments or systems explanations need one of the distinctions repeatedly and the existing relations become clumsy or ambiguous",
-      "batches": ["recovered-cross-inventory-prompts"]
+      "batches": ["reason-belief-ritual-and-value", "recovered-cross-inventory-prompts"]
     },
     {
       "id": "CV-SYSTEMS-02",
@@ -373,12 +374,111 @@
     },
     {
       "id": "CV-ECON-01",
-      "concept": "money, prices, wages, debt, profit, taxation, budgets, and contracts",
-      "status": "deferred",
-      "placement": "a possible Economic Systems and Provisioning module",
-      "summary": "Governance and Work deliberately left wider political economy outside their first passes rather than declaring it unnecessary.",
-      "revisit_when": "an economic profile receives scenarios that can keep accounting, exchange, obligation, extraction, livelihood, and source-defined legal relations apart",
-      "batches": ["recovered-cross-inventory-prompts"]
+      "concept": "money, prices, wages, debt, profit, taxation, budgets, and monetary accounting",
+      "status": "declined",
+      "placement": "no Phi lexical roots; exact source records remain available beside a Phi account",
+      "summary": "The later canon decision places the clock, ruler, and price tag under the same refusal. Exchange, giving, receiving, sharing, obligation, extraction, and livelihood keep their own non-monetary relations.",
+      "decision": "Phi has no monetary roots or internal monetary accounting. Exact economic records remain in their source form when people need to discuss them.",
+      "batches": ["reason-belief-ritual-and-value", "recovered-cross-inventory-prompts"]
+    },
+    {
+      "id": "CV-REASON-01",
+      "concept": "motivation, explanatory cause, justification, and purpose",
+      "status": "compositional",
+      "placement": "base clauses and existing reasoning vocabulary",
+      "summary": "English why can ask what moved a person, what caused an event, what an action was for, or what justifies a claim. Phi keeps those relations separate so that one answer cannot quietly stand in for another.",
+      "expressions": ["remotha", "porua", "thueli", "ka"],
+      "batches": ["reason-belief-ritual-and-value"]
+    },
+    {
+      "id": "CV-EPIST-01",
+      "concept": "proof and certainty in ordinary claims",
+      "status": "compositional",
+      "placement": "base reasoning words with Philosophical Reasoning where needed",
+      "summary": "Ordinary proof is better stated through the evidence, reasons, inference, or refutation that settles a particular point. Knowledge and confidence then report different stances towards the result rather than becoming a portable certificate of certainty.",
+      "expressions": ["thesori", "remotha", "sano", "norethi", "whekate"],
+      "batches": ["reason-belief-ritual-and-value"]
+    },
+    {
+      "id": "CV-EPIST-02",
+      "concept": "formal proofs, exact probability values, odds, and named logical or epistemic standards",
+      "status": "source-bound",
+      "placement": "exact source material beside a Phi account",
+      "summary": "A formal result depends on its notation, axioms, method, reference class, and stated standard. Phi can discuss the argument and evidence without recoding the identity that makes the result reproducible.",
+      "source_rule": "Formal proofs keep their notation, axioms, and named logic in source form. Probability statements keep their value, odds, reference class, and method identifier. Phi states what is claimed, how the result was obtained, and how it enters the present decision.",
+      "batches": ["reason-belief-ritual-and-value"]
+    },
+    {
+      "id": "CV-CHANCE-01",
+      "concept": "favourable and harmful luck, chance contribution, and coincidence",
+      "status": "compositional",
+      "placement": "base nouns, modifiers, and temporal clauses",
+      "summary": "Base `soleha` identifies the unplanned part of an outcome, and a modifier states how it mattered. A coincidence can place events in the same moment or relation without adding a causal claim.",
+      "expressions": ["soleha", "welao soleha", "peloma soleha", "senao shemu"],
+      "batches": ["reason-belief-ritual-and-value"]
+    },
+    {
+      "id": "CV-RITE-01",
+      "concept": "separate Phi roots for funeral, wedding rite, baptism, initiation, and other prescribed rites",
+      "status": "declined",
+      "placement": "described ceremonies under the single base noun `thorea`",
+      "summary": "A dedicated root would make one inherited division of ceremonial life look universal. Phi instead says what the ceremony marks and leaves its form with the participants and tradition.",
+      "decision": "`thorea` remains Phi's only ceremony word. The occasion or relation can be described, as in `lumeo thorea`; prescribed rites receive no separate roots.",
+      "batches": ["reason-belief-ritual-and-value"]
+    },
+    {
+      "id": "CV-RITE-02",
+      "concept": "exact ceremony and ritual names, inherited formulas, calendars, offices, and lineage identities",
+      "status": "source-bound",
+      "placement": "source identity beside a Phi description",
+      "summary": "The general words for ceremony, ritual, custom, tradition, and festival allow discussion without replacing the identities that particular communities maintain.",
+      "source_rule": "A rite or festival keeps its exact name and inherited formula in source form. Calendars, ritual offices, lineage names, and tradition-specific classifications do the same. Phi may describe the actions, participants, timing, meaning, and consent around them.",
+      "batches": ["reason-belief-ritual-and-value"]
+    },
+    {
+      "id": "CV-META-01",
+      "concept": "named souls, spirits, magical beings, divine agents, doctrines, and metaphysical classifications",
+      "status": "source-bound",
+      "placement": "base metaphysical vocabulary with exact source identities",
+      "summary": "Phi can affirm, question, deny, narrate, or compare a metaphysical account. Exact names and doctrinal distinctions remain with the people and sources that establish what those entities or categories are.",
+      "source_rule": "Named spirits, souls, deities, and magical beings remain in their source form. Doctrines, cosmologies, afterlife states, and tradition-specific metaphysical categories do the same. Phi states the speaker's stance, evidence, relation, and interpretation.",
+      "batches": ["reason-belief-ritual-and-value"]
+    },
+    {
+      "id": "CV-META-02",
+      "concept": "fate, destiny, and providence as general claims",
+      "status": "compositional",
+      "placement": "base future, purpose, modality, luck, and claim vocabulary",
+      "summary": "A speaker can claim that a future is necessary, that a life or event has a purpose, or that chance shaped an outcome. Keeping those claims separate avoids turning fate into an unexplained mixture of necessity, purpose, and luck.",
+      "expressions": ["wireo porua", "na", "soleha", "sherewa"],
+      "batches": ["reason-belief-ritual-and-value"]
+    },
+    {
+      "id": "CV-VISION-01",
+      "concept": "revelation, prophecy, omen, and other claimed signs of what is hidden or future",
+      "status": "compositional",
+      "placement": "base vision, claim, sign, future, and evidential vocabulary",
+      "summary": "A vision can be reported as a vision, a prophecy as a future claim, and an omen as a sign under a stated interpretation. The evidential keeps the claimed route visible, while exact inherited categories remain source material.",
+      "expressions": ["lunai", "wireo sherewa", "kiroa", "ti"],
+      "batches": ["reason-belief-ritual-and-value"]
+    },
+    {
+      "id": "CV-JUST-01",
+      "concept": "exact laws, legal rights, offences, remedies, judgments, contracts, and institutional justice procedures",
+      "status": "source-bound",
+      "placement": "Commons vocabulary beside exact legal source material",
+      "summary": "Phi can discuss fairness, authority, accountability, redress, review, jurisdiction, and normative rights. The legal wording and status that decide what a document or institution actually recognises must remain exact.",
+      "source_rule": "Statutes, legal rights and offences, remedies, judgments, and contracts remain in their source form. Jurisdiction, filing status, deadline, and procedure name do the same. Phi discusses the source and interpretation, then the effect and consequences for the people involved.",
+      "batches": ["reason-belief-ritual-and-value"]
+    },
+    {
+      "id": "CV-VALUE-01",
+      "concept": "importance, priority, merit, deservingness, dignity, and worth",
+      "status": "compositional",
+      "placement": "base value and worth vocabulary with Work priority where needed",
+      "summary": "Valuing is an act, worth is a claimed property, and priority orders attention under a purpose. Merit and deservingness can state the relevant conduct, contribution, need, criterion, or responsibility instead of ranking a whole person.",
+      "expressions": ["sone", "rolia", "noetha", "porethu", "meropi"],
+      "batches": ["reason-belief-ritual-and-value"]
     },
     {
       "id": "CV-MED-SENSITIVE-01",

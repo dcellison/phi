@@ -8,16 +8,27 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "Method / Systematic Way / Ordered Approach",
-  "description": "A systematic way of doing something; an ordered approach to achieving ends. 'Norae' names the pattern of practice—the how that makes possible the what.",
-  "sound_symbolism": "The word orders gently. 'No' settles with grounded structure, pattern established. 'Ra' radiates with systematic spread, method extending. Then 'e' opens to application.",
-  "grammatical_notes": "Functions as noun: 'lo norae' (methods). The pattern that guides 'teru' (process). Related to 'shimalo' (discipline) as tool to practice.",
+  "search_terms": [
+    "approach",
+    "systematic way",
+    "technique"
+  ],
+  "description": "The dyer's repeated sequence for preparing a cloth is a 'norae' (method). It is an organised way of carrying out an activity. 'teru' (process) follows the operations as they occur, while 'winora' (plan) arranges intended actions for a particular undertaking.",
+  "articulatory_notes": "Place the tongue tip at the upper teeth for dental 'n' and carry voiced nasal resonance into rounded middle-height back 'o'. For 'r', make one light alveolar contact before opening into stressed central 'a'. Keep final middle-height front 'e' separate across the 'a.e' hiatus.",
+  "usage_notes": "A method can be repeated, taught, compared, adapted, or abandoned. Its purpose, materials, conditions, and criterion of success remain separate information. Technical specifications and method identifiers retain their original notation.",
+  "examples": [
+    {
+      "phi": "mia ha norae kanu.",
+      "translation": "I choose this method."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Skillful means—methods adapted to context and capacity, not rigid rules.",
-    "pre-industrial-wisdom": "Traditional methods—time-tested ways passed down through generations."
+    "secular-buddhist-philosophy": "A method is a means to examine through its effects, not an authority that proves itself by repetition. Practice can keep what works and revise what does not.",
+    "pre-industrial-wisdom": "A method may be learned through demonstration, correction, and contact with material rather than through written instructions alone. 'norae' covers both routes without confusing the method with its record."
   },
   "semantic_domains": {
-    "cognition": "Systematic approach",
-    "wisdom": "Ordered way"
+    "activity": "an organised way of carrying out practical or reflective work",
+    "cognition": "a repeatable approach open to teaching, comparison, and revision",
+    "wisdom": "a way selected in light of purpose, conditions, and observed results"
   }
 }

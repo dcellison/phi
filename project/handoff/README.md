@@ -1,6 +1,6 @@
 # Phi continuation handoff
 
-This directory is the transfer package for continuing Phi after 17 July 2026. It was assembled from the live repository after pull request #418 merged, with `main` clean at merge commit `287d8673bd48ed31e3c70b42e51d5fb89dab09e2`. It records the current position, the working method, the tools, and the maintainer's standing instructions that are easy to lose when a conversation ends.
+This directory is the transfer package for continuing Phi after 17 July 2026. It was first assembled from the live repository after pull request #418 merged and is maintained as the work advances. It records the current position, the working method, the tools, and the maintainer's standing instructions that are easy to lose when a conversation ends.
 
 This package is a map, not a new authority. When anything here disagrees with a live source, follow the authority order in [`canon.md`](../../canon.md), repair this package, and record a language decision where the disagreement is substantive.
 
@@ -20,16 +20,16 @@ Do not use `archive/` as current evidence. It preserves history, including appro
 
 ## Where the work stopped
 
-The active effort is SEM-09B, migration of inherited base content vocabulary to the target prose contract. Pull request #418 completed D042, Language, story, art, and representation. The lexicon now contains 1,260 entries: 1,015 target-shaped and 245 legacy-shaped. Every function word and interjection is finished. Of the content entries still using legacy prose, 36 are base vocabulary and 209 belong to one or more optional modules.
+The active effort is SEM-09B, migration of inherited base content vocabulary to the target prose contract. D043 completed Reason, belief, ritual, and value. The lexicon now contains 1,260 entries: 1,033 target-shaped and 227 legacy-shaped. Every function word and interjection is finished. Of the content entries still using legacy prose, 18 are base vocabulary and 209 belong to one or more optional modules.
 
 The execution order is fixed in the roadmap:
 
-1. Finish the 36 base entries in bounded semantic batches.
+1. Finish the 18 remaining base entries in one bounded semantic batch.
 2. Sweep active Phi passages for old workarounds that newly coined base vocabulary can improve.
 3. Migrate the 209 module entries while preserving every established module membership.
 4. Return to the Phi book with chapter 7, "A literature before a community."
 
-The immediate recommendation is the first of two 18-entry closing batches proposed in [`current_state.md`](current_state.md): Reason, belief, ritual, and value. The grouping is advice rather than canon. The next model should inspect the entries and their corpus uses before naming the batch in the ledgers.
+The immediate recommendation is the final 18-entry residual batch recorded in [`current_state.md`](current_state.md): roles, places, relations, and remaining concrete nouns. The grouping is advice rather than canon. The next model should inspect the entries and their corpus uses before naming the batch in the ledgers.
 
 ## The maintainer's working contract
 
@@ -59,7 +59,7 @@ The following habits came from direct maintainer corrections. Treat them as stan
 
 | File | What it contains |
 |---|---|
-| [`current_state.md`](current_state.md) | Counts, latest decisions, the exact 36-entry base queue, module state, corpus state, book state, and parked work. |
+| [`current_state.md`](current_state.md) | Counts, latest decisions, the exact 18-entry base queue, module state, corpus state, book state, and parked work. |
 | [`vocabulary_migration.md`](vocabulary_migration.md) | The full batch method, prose contract, decision register, coinage checks, regeneration, validation, and failure recovery. |
 | [`repository_workflow.md`](repository_workflow.md) | Repository map, utility commands, generated files, CI, branch and PR procedure, cleanup, site builds, and citation audits. |
 | [`language_and_voice.md`](language_and_voice.md) | Authority, governing purpose, canon constraints most likely to be violated, source and name practice, peace linguistics, writing voice, Humanizer, and book register. |

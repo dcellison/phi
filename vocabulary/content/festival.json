@@ -8,16 +8,28 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Festival / Celebration Gathering / Joyful Assembly",
-  "description": "A gathering for celebration, often marking seasonal or cultural events; communal joy. 'Holia' names when community celebrates—the special time of shared delight.",
-  "sound_symbolism": "The word celebrates openly. 'Ho' breathes with joyful opening, celebration beginning. 'Li' lifts with rising festivity, spirits high. Then 'a' opens to shared delight.",
-  "grammatical_notes": "Functions as noun: 'sila holia thilonu.' (The community prepares the festival.) Related to 'thorea' (ceremony) but emphasizes joy over ritual, and to 'pharuki' (celebrate), the act itself.",
+  "search_terms": [
+    "celebration gathering",
+    "festive occasion",
+    "communal celebration"
+  ],
+  "description": "For an evening or several days, a village may set ordinary work aside for shared celebration. The gathering or occasion is a 'holia' (festival). 'pharuki' (celebrate) is the deliberate activity, and a festival may contain a 'thorea' (ceremony) without becoming one by definition.",
+  "articulatory_notes": "Begin with unvoiced breath through an open glottis for 'h' and round the lips into middle-height back 'o'. Touch the tongue tip to the alveolar ridge for 'l' and hold stressed high-front 'i'. Lower the tongue and jaw into a separate final 'a' across the 'i.a' hiatus.",
+  "usage_notes": "A festival can be specified by its people, season, harvest, art, or remembered event. Its scale, inheritance, sacred standing, and the participants' feelings can be described separately.",
+  "examples": [
+    {
+      "phi": "sila holia thilonu.",
+      "translation": "The community prepares the festival."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Festival as beauty—the flowering of collective creativity and joy.",
-    "pre-industrial-wisdom": "Festival as rhythm—the marking of seasons and cycles with communal celebration."
+    "solarpunk-values": "A festival can make shared repair, harvest, art, or renewed habitat visible as communal work worth celebrating. The achievement and its participants remain available to name.",
+    "pre-industrial-wisdom": "Seasonal festivals place celebration within local cycles of work and return. 'holia' supplies the general occasion while each community keeps its particular calendar and form."
   },
   "semantic_domains": {
-    "emotion": "Communal joy",
-    "ritual": "Celebration gathering"
+    "community": "a gathering or occasion organised for shared celebration",
+    "emotion": "an outward setting for collective or personal joy",
+    "ritual": "a festive setting that can include meaningful observances",
+    "temporal": "a bounded occasion often tied to a recurring event or season"
   }
 }

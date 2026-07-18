@@ -8,17 +8,27 @@
     "lu"
   ],
   "pos": "noun",
-  "concept": "Magic / Wonder-working / The Breath of Becoming",
-  "description": "Magic: the working by which one thing becomes another and no one can say how. The seed already holds the tree, the loved thing slowly turns real, the tear becomes a flower: 'whekelu' names the change itself when its craft is hidden, wonder's own handiwork. It is not power over anything. Phi refuses command-magic along with every other command; what this word names moves the way spring moves, unforced, unexplained, and on time.",
-  "sound_symbolism": "'Whe' is the unseen breath that starts the change. The complete verb 'kelu' (become) follows it, so the form is literally a becoming preceded by what cannot be seen: hidden change flowing into presence.",
-  "grammatical_notes": "Noun. 'whekelu wilemo shewo ka kelu.' (Magic makes the toy become real.) A domain names its own magic by standing before it: 'lopia tholu whekelu', the nursery's magic. A worker of it is 'whekelu miona', a magic person. Kin to 'kelu' (become), the change it works; 'moluki' (transform), the change complete; and 'whemura' (dream), the mind's own unexplained making.",
+  "search_terms": [
+    "enchantment",
+    "wonder-working",
+    "supernatural working"
+  ],
+  "description": "In a story, a toy may become alive through 'whekelu' (magic); people also call a working magic within a tradition or belief. Calling an event magic places it inside that account rather than certifying an unseen cause. 'waora' (wondrous) describes a response, and 'moluki' (transform) states extensive change without a magical frame.",
+  "articulatory_notes": "Shape unvoiced 'wh' with rounded lips and a raised back tongue, then unround into middle-height front 'e'. Close the back of the tongue for 'k' and release into stressed middle-height front 'e'. Touch the tongue tip to the alveolar ridge for voiced 'l' and finish with rounded high-back 'u'.",
+  "sound_symbolism": "The final two syllables audibly repeat 'kelu' (become). That echo suits the word's literary history in Phi, where magic often accompanies becoming, but it is not a productive prefix or a rule about every magical account.",
+  "usage_notes": "It modifies a person, object, place, or event, as in 'whekelu miona' (magic person). In fiction it follows the story's own world. In a personal or inherited claim, evidentials and source wording keep the speaker's basis and the tradition's exact identity visible.",
+  "examples": [
+    {
+      "phi": "whekelu wilemo shewo ka kelu.",
+      "translation": "Magic makes the toy become real."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Impermanence wearing its festival clothes: magic is change honored as mystery rather than mastered as mechanism, met with beginner's mind.",
-    "art-nouveau-aesthetics": "The style's whole claim: that organic form is enchantment, the lily and the vine already halfway to another world.",
-    "pre-industrial-wisdom": "Every hearth culture keeps a word for the change no craft explains — the bread that rises, the spring that returns; naming it keeps wonder in the daily round."
+    "art-nouveau-aesthetics": "Art Nouveau often lets stems become lines and rooms open into gardens until craft approaches enchantment. 'whekelu' can carry that reading while the material work remains available to describe."
   },
   "semantic_domains": {
-    "cognition": "Change beyond explanation",
-    "nature": "The world's unforced transforming"
+    "aesthetic": "magic as a frame within story, performance, or imaginative art",
+    "cognition": "an event or working understood through a magical account",
+    "ritual": "magic described within a personal or inherited practice"
   }
 }

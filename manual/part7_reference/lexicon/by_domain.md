@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (302)
+## activity (307)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -41,6 +41,7 @@
 | `kelitho` | function | performance of a characteristic or required system operation |
 | `kelomi` | accept | taking up an offered object, role, condition, or course |
 | `kelu` | become | entry into a stated role, form, or condition |
+| `keno` | custom | a practice repeated as an ordinary way of acting |
 | `keritha` | workshop | a place arranged to support practical work |
 | `kesu` | determined | resolve that sustains effort towards a chosen purpose |
 | `kethua` | hard | a task or condition that demands substantial effort |
@@ -110,6 +111,7 @@
 | `noluha` | swallow | carrying material from the mouth through the throat |
 | `nomira` | collect | selecting and accumulating physical items over one or more acts |
 | `noporu` | design | specifying an intended artifact, system, or intervention |
+| `norae` | method | an organised way of carrying out practical or reflective work |
 | `noraku` | blocked | a work state stopped by an obstacle |
 | `norathu` | procedure | an ordered and specified collective process |
 | `norelu` | form | bringing people, parts, or material into an organised arrangement |
@@ -163,6 +165,7 @@
 | `pisha` | split | deliberately parting material along a line it readily follows |
 | `pokera` | competent | present ability to perform a stated activity to its criterion |
 | `poru` | productive | work or a process that reaches useful or intended results |
+| `porua` | purpose | the end or use towards which an action or arrangement is directed |
 | `poruli` | efficient | a relation between resources used and useful performance |
 | `pukate` | break | an event in which a whole loses the structure or continuity that held it together |
 | `pumari` | suck | drawing inward with the mouth around a person, object, or substance |
@@ -243,10 +246,12 @@
 | `theama` | care | attentive practical work directed towards need or wellbeing |
 | `thekamu` | intervene | a deliberate action within bodily care |
 | `theko` | craft | making carried out through learned practical skill |
+| `thelumo` | ritual | a patterned action performed for personal or shared significance |
 | `theluo` | steward | continuing care carried out within an entrusted scope |
 | `thema` | guardian | watching for danger and taking protective action within the guardian's given responsibility |
 | `thenoki` | sustain | support that lets an activity or system continue |
 | `therapi` | boil | heating liquid to sustained bubbling |
+| `therema` | tradition | a practice maintained through intergenerational transmission |
 | `therilu` | rest | pausing or reducing activity for recovery |
 | `therua` | eager | readiness to begin or join a wanted action |
 | `thesa` | careful | an action performed with attention to relevant mistakes or harmful consequences |
@@ -315,7 +320,7 @@
 | `wonepa` | table | a shared or individual surface arranged for meals, work, or meeting |
 | `wosanu` | absorb | a receiving body taking material into itself |
 
-## aesthetic (73)
+## aesthetic (74)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -389,6 +394,7 @@
 | `weloa` | loom | Pattern maker |
 | `weru` | poet | someone composing patterned works for voice or page |
 | `weshapi` | decorate | visible additions made chiefly for their effect on form or appearance |
+| `whekelu` | magic | magic as a frame within story, performance, or imaginative art |
 | `whilaru` | comb | The tool worth carving |
 | `whilo` | white | achromatic color at high perceived lightness |
 | `woraka` | appreciate | positive recognition of a sensory or artistic quality |
@@ -418,7 +424,7 @@
 | `kiphira` | fault | a fault claim remains distinct from its evidence and proposed cause |
 | `kira` | key | an established extension for a specific means of making a problem accessible |
 | `kiranu` | qualified | a comparison with prerequisites named by a source |
-| `kirema` | criterion | a standard used in classification or judgment |
+| `kirema` | criterion | a standard applied in classification, assessment, or choice |
 | `kirero` | quality | a multidimensional evaluation relative to criteria |
 | `kirethu` | legitimate | an evaluation of how an authority or decision is grounded |
 | `kiro` | precise | narrow scope, exact expression, or little unintended variation |
@@ -441,7 +447,7 @@
 | `litero` | ecosystem | a bounded analytical whole selected for ecological explanation |
 | `loetha` | open (receptive) | willingness to consider an unfamiliar idea or account |
 | `lorea` | connect | a relation recognised between ideas, claims, or parts of an explanation |
-| `lunai` | vision | Forward seeing |
+| `lunai` | vision | a coherent imagined possibility held as a guide |
 | `luseri` | provenance | a sourced account with explicit gaps and confidence |
 | `masuro` | calibrate | a practice that establishes how an indication relates to a reference |
 | `meluri` | climate | a scoped account of long-term atmospheric distribution and variability |
@@ -477,8 +483,8 @@
 | `nomiki` | concentration | a ratio whose agent, denominator, method, and source shape interpretation |
 | `nophi` | story | events arranged into a sequence that can be remembered, imagined, or interpreted |
 | `noporu` | design | developing and selecting among possible relations |
-| `norae` | method | Systematic approach |
-| `norea` | soul | Deep identity |
+| `norae` | method | a repeatable approach open to teaching, comparison, and revision |
+| `norea` | soul | continuing or immaterial personal identity considered as a soul |
 | `norethi` | confident | the experienced strength of a belief or judgment |
 | `nosheku` | retract | a changed commitment to what one previously put forward |
 | `nowae` | awaken | return of waking awareness after sleep |
@@ -502,7 +508,7 @@
 | `phesua` | inspire | an idea or possibility becoming newly imaginable to someone |
 | `phiketu` | contradict | logical incompatibility between claims under shared conditions |
 | `philima` | biodiversity | a scoped and measured account of living variation |
-| `phiora` | spirit | Inner animation |
+| `phiora` | spirit | animating presence, disposition, or nonmaterial character considered as spirit |
 | `phirae` | different | comparative recognition that things differ in the relevant respect |
 | `phiremo` | relate | recognising a relation among people, things, or ideas |
 | `phirena` | meditate | deliberate contemplative practice involving attention and awareness |
@@ -514,7 +520,7 @@
 | `phue` | wise | sound judgement informed by understanding and experience |
 | `pokera` | competent | a judgement of practical capacity grounded in evidence |
 | `porewi` | side effect | an attributed additional effect with stated uncertainty |
-| `porua` | purpose | Goal orientation |
+| `porua` | purpose | an intended use or end held in thought before or during action |
 | `poruli` | efficient | an assessment whose result depends on selected inputs, outputs, and boundaries |
 | `pothu` | stink | a contextual judgement that an odour is strongly unpleasant |
 | `pula` | wish | representing an outcome as desired without asserting its likelihood |
@@ -522,7 +528,7 @@
 | `relo` | symbol | a form understood through a representative relation |
 | `remo` | think | considering, remembering, imagining, and following ideas |
 | `remole` | concept | an organized idea used to relate or classify experience |
-| `remotha` | reason | a consideration that supports acceptance or action |
+| `remotha` | reason | a consideration used to justify a belief, claim, choice, or action |
 | `remuma` | conclusion | the proposition reached from stated premises |
 | `reo` | meaning | a sense understood in relation to an expression or symbol |
 | `reteru` | model | a structured representation used for explanation, comparison, exploration, or prediction |
@@ -564,7 +570,7 @@
 | `sirelu` | disclose | movement of previously held knowledge |
 | `sitawi` | inventory | a structured representation of material state |
 | `solae` | explain | reasons and relations arranged so that they can be understood |
-| `soleha` | luck | The unearned part of outcomes |
+| `soleha` | luck | an interpretation of the unplanned and unearned part of an outcome |
 | `soliru` | hope | regarding a desired but unresolved outcome as possible |
 | `somaki` | test | gathering bounded evidence about a claim or criterion |
 | `somela` | observe | deliberate perceptual attention to details, events, or patterns |
@@ -572,7 +578,7 @@
 | `somethi` | monitor | a practice for detecting change and informing a stated decision |
 | `sone` | value | attributing importance or worth to someone or something |
 | `soneho` | tradeoff | a constrained relation between competing valued outcomes |
-| `sorai` | insight | Deep seeing |
+| `sorai` | insight | a clarifying grasp of a relation, pattern, or meaning |
 | `soranu` | screen | identifying possible need for further evaluation |
 | `sorila` | cultivate | a skill or disposition developed through practice |
 | `sowelu` | disabled | cognitive disability and its relation to access |
@@ -597,7 +603,7 @@
 | `theonu` | attend | awareness deliberately directed or held towards a chosen object |
 | `thesa` | careful | attention directed towards the mistakes or consequences that matter in an act |
 | `thesani` | skill | procedural knowledge developed through learning and repetition |
-| `thesori` | evidence | information offered in support of or against a claim |
+| `thesori` | evidence | material considered for what it supports or counts against |
 | `thesua` | mindful | deliberate attention to present experience or action |
 | `thewuni` | legible | marks available for the act of reading |
 | `thilonu` | prepare | forethought applied to the conditions an activity will need |
@@ -628,7 +634,7 @@
 | `whamoi` | doubt | an unsettled stance toward a proposition or its support |
 | `whekaro` | adverse effect | a harm attribution with stated evidence and uncertainty |
 | `whekate` | refute | demonstrating that a claim or inference fails |
-| `whekelu` | magic | Change beyond explanation |
+| `whekelu` | magic | an event or working understood through a magical account |
 | `whemaki` | allergy | a clinically bounded hypersensitivity claim |
 | `whemura` | dream | dream experience during sleep or a waking vision held as a dream |
 | `whenola` | wander | thought moving without a chosen conclusion |
@@ -707,7 +713,7 @@
 | `phowe` | share | sharing information or expression with other people |
 | `phulae` | mouth | the body opening through which spoken language is articulated |
 | `relo` | symbol | a conventional carrier through which further meaning can be conveyed |
-| `remotha` | reason | a ground offered so others can examine a claim or choice |
+| `remotha` | reason | a ground offered for others to examine |
 | `remuma` | conclusion | the result of an argument that participants may assess separately |
 | `reo` | meaning | the relation through which an expression or symbol carries a sense |
 | `repora` | propose | a proposal remains open to response, amendment, and refusal |
@@ -749,13 +755,13 @@
 | `thekiro` | write | creating language in a form that can be read later |
 | `thelima` | describe | a verbal account of a thing, event, or condition |
 | `theloa` | truth | truth as stated, reported, or discussed |
-| `theloma` | justice | involves hearing all perspectives and facilitating reconciliation |
 | `thelu` | dialogue | deliberate exchange among participants who attend to one another's views |
 | `themore` | argument | a reasoning structure shared for examination |
 | `thenui` | direct | an answer or statement that reaches its subject without evasion or an intermediary |
 | `theo` | read | receiving an expression preserved in readable form |
 | `theonu` | attend | attention kept on another participant's words or response |
 | `thereo` | mediator | facilitates communication and understanding between parties |
+| `thesori` | evidence | material offered so that a claim can be assessed by others |
 | `thilou` | inquire | putting a question to another person |
 | `thimelo` | pace | speed at which an exchange proceeds |
 | `thorae` | facilitator | Group enabling |
@@ -775,7 +781,7 @@
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
-## community (267)
+## community (269)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -787,6 +793,7 @@
 | `heloi` | generous | readiness to give or share with regard for others |
 | `helolu` | redress | redress shaped by affected parties and remaining loss |
 | `hinawu` | accommodate | a particular response to an access requirement |
+| `holia` | festival | a gathering or occasion organised for shared celebration |
 | `howela` | receive | receiving something from another participant in a social relation |
 | `kalora` | horse | a horse in a stated relation with people or shared work |
 | `kanuro` | decision | a collective or institutional decision with stated scope |
@@ -798,7 +805,7 @@
 | `keloe` | companion | a person sharing a course or period of company with another |
 | `kelomi` | accept | admitting another person's presence or participation |
 | `keluro` | honor | visible recognition of a person, contribution, or relationship |
-| `keno` | custom | Habitual way |
+| `keno` | custom | a social group treating a pattern as its customary way |
 | `kima` | scribe | a recognised role in keeping durable records |
 | `kiranu` | qualified | eligibility defined by a social or institutional source |
 | `kirethu` | legitimate | contested legitimacy under stated social criteria |
@@ -912,6 +919,7 @@
 | `phewani` | neighbor | a social relation created by recurring proximity |
 | `phewo` | sage | Wisdom role |
 | `phimela` | kiss | a kiss used within affection, greeting, blessing, or farewell |
+| `phiora` | spirit | a shared disposition expressed through collective conduct |
 | `phitura` | well (water) | a water source whose access and upkeep may be organised among people |
 | `phomila` | offspring | a person's direct relation to the next generation in a family line |
 | `phowe` | share | shared use of things, resources, or activities |
@@ -930,7 +938,7 @@
 | `rinoka` | project | a possible frame for coordinated participation |
 | `riola` | labor | effort understood as contribution beyond the worker alone |
 | `ritako` | workload | work distributed among people or groups |
-| `rolia` | worth | Universal value |
+| `rolia` | worth | dignity or worth recognised in relations among people |
 | `ruesha` | compassionate | concern for suffering that shapes a response to another person |
 | `ruloi` | flourish | vigorous growth in a community or language |
 | `ruweli` | access | practical entry into shared services and processes |
@@ -984,15 +992,15 @@
 | `theama` | care | care given within a relationship or shared setting |
 | `thekamu` | intervene | an action affecting a person within a care relation |
 | `thekao` | acknowledge | acknowledging another participant or their stated position |
-| `theloma` | justice | focuses on wholeness and reintegration of all parties |
+| `theloma` | justice | fair standing and accountable response within shared life and institutions |
 | `thelu` | dialogue | a shared practice for examining disagreement while consensus stays open |
-| `thelumo` | ritual | collective practices that create shared meaning |
+| `thelumo` | ritual | an observance recognised or maintained among participants |
 | `theluo` | steward | an accountable role in caring for shared resources or collective life |
 | `thema` | guardian | a continuing social role of protective responsibility |
 | `thenoki` | sustain | resources and work that keep a group functioning |
 | `theomi` | trust | reliance placed within a social relationship |
 | `thepalu` | garden | ground that may be tended and used in common |
-| `therema` | tradition | social bonds and collective customs |
+| `therema` | tradition | an inheritance received within a community or lineage |
 | `thereo` | mediator | essential role in maintaining social harmony |
 | `thimora` | schedule | a coordination artifact affecting participants |
 | `thoepa` | sacred | reverent standing held by an individual or group and expressed through practice |
@@ -1002,7 +1010,7 @@
 | `thonua` | scholar | Learning role |
 | `thorae` | facilitator | Process role |
 | `thorai` | bless | a blessing offered within a relationship or at a shared transition |
-| `thorea` | ceremony | gathers collective presence for shared transformation |
+| `thorea` | ceremony | a significant occasion held among participants |
 | `thorelu` | converse | informal talk through which people maintain relationships |
 | `thowia` | born | birth as the relation that connects a child with a birth parent |
 | `thua` | fair | equitable treatment assessed in relation to needs and circumstances |
@@ -1047,7 +1055,7 @@
 | `womuri` | household | a person or group sharing domestic arrangements |
 | `woru` | keeper | Guardian role |
 
-## creation (168)
+## creation (169)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1092,6 +1100,7 @@
 | `loshenu` | clearance | a designed spatial allowance around an object |
 | `luma` | lamp | a made object designed to provide light |
 | `lumoi` | lantern | a made portable housing for a light source |
+| `lunai` | vision | an artistic or practical conception that can direct later making |
 | `lupaki` | fold | forming layers and a deliberate crease |
 | `luseri` | provenance | the source history of materials and artifacts |
 | `luwaro` | rubber | an elastic material made into seals, soles, tyres, and flexible parts |
@@ -1226,7 +1235,7 @@
 |---|---|---|
 | `heno` | satisfy | a desire or felt need brought to satisfaction |
 | `hola` | laugh | laughter prompted by amusement, joy, relief, or another emotion |
-| `holia` | festival | Communal joy |
+| `holia` | festival | an outward setting for collective or personal joy |
 | `holume` | loss | absence that may be felt after a valued relation or possibility ends |
 | `horae` | radiant | delight made visible in a face or manner |
 | `hurao` | patient | willing endurance without being driven by agitation |
@@ -1310,7 +1319,7 @@
 | `wiroa` | hopeful | felt expectation that a desired outcome remains possible |
 | `woraka` | appreciate | the favourable response that accompanies recognised value |
 
-## ethics (29)
+## ethics (31)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1332,9 +1341,11 @@
 | `phenui` | thoughtful | attention to another person's likely needs or experience before action |
 | `ralu` | free | freedom considered in relation to coercion and imposed restraint |
 | `renoa` | liberate | an imposed constraint removed so that another person's course opens |
+| `rolia` | worth | a claim of worth independent of utility, rank, or merit earned |
 | `ruesha` | compassionate | a response that treats suffering as a reason for concern and possible care |
 | `thaemu` | sincere | a claimed feeling or intention matched by its expression |
 | `theama` | care | conduct that answers another being's welfare or a responsibility of upkeep |
+| `theloma` | justice | a normative account of what fair treatment and redress require |
 | `tholira` | forgive | forgiveness considered alongside harm, repair, and future boundaries |
 | `thonai` | responsible | willingly taking up care or answerability for a matter |
 | `thua` | fair | an arrangement weighed against the needs and circumstances that matter |
@@ -1344,7 +1355,7 @@
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 | `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
-## nature (243)
+## nature (241)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1486,7 +1497,6 @@
 | `philea` | feather | a keratin structure growing from a bird's skin |
 | `philima` | biodiversity | variation among living beings across one or more biological levels |
 | `philo` | day | the recurring light-and-dark cycle shaped by the sun |
-| `phiora` | spirit | Breath essence |
 | `phirali` | blossom | a flower, especially one associated with later fruit |
 | `phirenu` | snow | Frozen precipitation |
 | `phireo` | plant | the familiar living category containing trees, grasses, ferns, and flowering plants |
@@ -1575,7 +1585,6 @@
 | `wemo` | plain | a broad landform with little local relief |
 | `weoli` | reed | a tall slender wet-ground or shallow-water plant |
 | `wheiru` | mist | fine droplets suspended close to land or water |
-| `whekelu` | magic | The world's unforced transforming |
 | `whelina` | grass | grass plants or the ground cover they form |
 | `wheraku` | erode | a geomorphic process driven by water, wind, ice, gravity, organisms, or people |
 | `whesu` | blow | wind and atmospheric air moving through an environment |
@@ -2131,11 +2140,11 @@
 | `whoa` | whole | all relevant parts included in the total under discussion |
 | `wi` | two | the exact quantity two and the coefficient two in ternary numerals |
 
-## ritual (24)
+## ritual (27)
 
 | Word | Gloss | In this domain |
 |---|---|---|
-| `holia` | festival | Celebration gathering |
+| `holia` | festival | a festive setting that can include meaningful observances |
 | `keluro` | honor | formal or repeated acts of honour |
 | `kowela` | council | creates sacred space through formal deliberation processes |
 | `lopha` | vessel | a receptacle whose stated use may carry ceremonial material |
@@ -2143,21 +2152,24 @@
 | `maewo` | threshold | a crossing point that can organize a ceremony or transition |
 | `menai` | dedicate | dedication expressed through a repeated or ceremonial practice |
 | `nelu` | revere | the inward regard that may underlie veneration or ceremonial honour |
+| `norea` | soul | soul language used in religious, commemorative, or poetic accounts |
 | `nuhemi` | grieve | mourning carried through a funeral, memorial, or repeated observance |
 | `pharuki` | celebrate | a significant event marked through an observance or festival |
 | `philu` | candle | a light source commonly used to mark vigils, ceremonies, and contemplative practice |
+| `phiora` | spirit | religious and cultural accounts that speak of spirit |
 | `phirena` | meditate | meditation practised as a repeated personal or shared observance |
 | `rotiku` | dance | dance performed as part of a ceremony or repeated observance |
 | `shoraku` | interpret | interpretation where exact communal or ceremonial wording matters |
 | `teli` | bell | a bell used to open, close, or gather attention around an observance |
 | `thelui` | sanctuary | Protected space |
-| `thelumo` | ritual | this word defines the category |
-| `therema` | tradition | often expressed through repeated ceremonial practices |
+| `thelumo` | ritual | meaning carried through an enacted and often repeated form |
+| `therema` | tradition | a transmitted observance or account with enacted significance |
 | `thoepa` | sacred | a person, place, time, or object treated with reverence in ceremony |
 | `thole` | practice | a repeated observance whose form carries shared or personal meaning |
 | `thorai` | bless | a formal or repeated act that directs goodwill towards its recipient |
-| `thorea` | ceremony | performs prescribed actions in sacred structured space |
+| `thorea` | ceremony | an organised occasion that may contain meaningful patterned actions |
 | `thunepa` | sacred place | Place of reverence |
+| `whekelu` | magic | magic described within a personal or inherited practice |
 | `whunei` | breathe | breath used as an observable object in meditation practice |
 
 ## spatial (179)
@@ -2344,7 +2356,7 @@
 | `wotami` | shrub | a woody growth form occupying the layer below or beside trees |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (157)
+## temporal (158)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2356,6 +2368,7 @@
 | `helia` | youth | the life period between childhood and adulthood |
 | `helui` | change | difference between an earlier and a later state |
 | `herani` | trend | direction or recurrence assessed across time or ordered states |
+| `holia` | festival | a bounded occasion often tied to a recurring event or season |
 | `holume` | loss | the condition that remains after something held is gone |
 | `horathe` | dawn | the threshold station between night and morning |
 | `howai` | evening | the late daily span after afternoon and before night |
@@ -2367,7 +2380,7 @@
 | `keloi` | summer | the season between spring and autumn |
 | `kelu` | become | a transition with a named resulting state |
 | `kelua` | morning | the early daily span following dawn and leading to midday |
-| `keno` | custom | Traditional practice |
+| `keno` | custom | conduct made familiar through recurrence |
 | `kesho` | middle | an interior portion between the beginning and end of a span |
 | `keshoa` | reptile | Deep time lineage |
 | `kolu` | steady | regularity maintained across an interval |
@@ -2388,7 +2401,7 @@
 | `lumeo` | die | the point at which a life ends |
 | `lumethi` | deadline | the stated latest time under a named source |
 | `lumira` | descendant | someone placed later in an intergenerational line |
-| `lunai` | vision | Future imagination |
+| `lunai` | vision | a possible future held in present thought |
 | `lunei` | moon | a visible cycle used in lunar months and other local reckonings |
 | `lunisa` | tide | a repeating coastal and oceanic cycle with local phases |
 | `lunoa` | month | a lunar or conventional calendar span between a week and a year |
@@ -2457,7 +2470,7 @@
 | `shua` | come | an event, time, or condition becoming present |
 | `sitawi` | inventory | a record explicitly bounded to a time |
 | `sitheku` | transcribe | preserving passing language for later use |
-| `soleha` | luck | The way things fall |
+| `soleha` | luck | chance conditions encountered as events unfold |
 | `somethi` | monitor | attention repeated across a stated interval and duration |
 | `sonari` | isolate | separation for a stated period |
 | `suloru` | fever | a temperature state observed over a stated time |
@@ -2471,9 +2484,9 @@
 | `thalume` | ancestor | someone placed earlier in an intergenerational line |
 | `thekasi` | caption | text synchronized with a live or recorded event |
 | `thekopa` | recipe | an ordered sequence of preparation steps |
-| `thelumo` | ritual | marks passages of time and transitions |
+| `thelumo` | ritual | an action whose return or placement in an occasion matters |
 | `thenoki` | sustain | continuity made possible through ongoing support |
-| `therema` | tradition | bridging time and connecting past to present |
+| `therema` | tradition | something carried from earlier generations into present use |
 | `therilu` | rest | an interval between periods of greater activity |
 | `thilonu` | prepare | an earlier action arranged in relation to what is expected later |
 | `thimelo` | pace | movement distributed through time |
@@ -2483,7 +2496,7 @@
 | `thiranu` | maintain | attention repeated between failures |
 | `thole` | practice | an action developed through return across occasions |
 | `tholua` | ancient | existence or origin in a past far beyond ordinary age |
-| `thorea` | ceremony | marks transitions and milestones in communal time |
+| `thorea` | ceremony | an event used to mark a transition, return, or remembered occasion |
 | `thorui` | beginning | the opening of a time span, event, or process |
 | `thowia` | born | a dated threshold in an animal's life |
 | `thunaro` | train | practice developed through a sequence of attempts |
@@ -2506,7 +2519,7 @@
 | `woru` | keeper | Maintaining presence |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (54)
+## wisdom (48)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2515,7 +2528,7 @@
 | `kathu` | seal | Confirmation |
 | `keiro` | way | a guiding course shaped through practice and reflection |
 | `kethira` | infer | recognizing the mind's movement beyond what was directly given |
-| `kirema` | criterion | an explicit and revisable basis for deciding fit |
+| `kirema` | criterion | an explicit basis whose relevance and authority can be examined |
 | `kirothe` | define | examining both the usefulness and limits of categories |
 | `kithela` | valid | a precise assessment kept distinct from truth and persuasion |
 | `kowela` | council | cultivates patient consensus through collective insight |
@@ -2527,8 +2540,7 @@
 | `menua` | counselor | Advisory presence |
 | `motu` | humble | self-appraisal kept open to correction and further learning |
 | `noetha` | essential | practical judgement about what a course cannot lose and still meet its purpose |
-| `norae` | method | Ordered way |
-| `norea` | soul | Self understanding |
+| `norae` | method | a way selected in light of purpose, conditions, and observed results |
 | `norethi` | confident | firmness that remains distinguishable from knowledge and certainty |
 | `nukesa` | expert | understanding refined through long practice and reflection |
 | `nulo` | deep | sustained inquiry or knowing that reaches beneath an initial account |
@@ -2536,10 +2548,8 @@
 | `phewo` | sage | Insight earned through living |
 | `phiwheki` | counterexample | attention to particulars that require a broad rule to be revised |
 | `phue` | wise | practical and reflective understanding applied to what matters |
-| `porua` | purpose | Meaningful direction |
 | `remole` | concept | a revisable mental pattern whose boundaries can be examined |
-| `remotha` | reason | deliberative support whose relevance and limits can be considered |
-| `rolia` | worth | Inherent dignity |
+| `remotha` | reason | a stated basis that can be weighed against purpose, evidence, and consequences |
 | `romishe` | contemplate | patient examination of a subject before judgement is settled |
 | `ruela` | path | an established course of practice understood as something followed |
 | `seloi` | insightful | depth of understanding kept distinct from certainty or authority |
@@ -2547,19 +2557,16 @@
 | `silero` | star | an observed guide within particular systems of navigation and seasonal knowledge |
 | `sone` | value | reflective judgement about what merits care or attention |
 | `soneho` | tradeoff | attention to what every available option preserves and relinquishes |
-| `sorai` | insight | Penetrating understanding |
+| `sorai` | insight | understanding that can inform judgment while remaining revisable |
 | `tawimo` | foolish | sound judgement absent where the circumstances call for it |
 | `theali` | fitting | selection of a response appropriate to the situation and relationship |
 | `theko` | craft | knowledge held and demonstrated through repeated practice |
 | `theloa` | truth | careful attention to what can honestly be said |
-| `theloma` | justice | requires understanding root causes and skillful responses |
-| `thelumo` | ritual | transmits knowledge through embodied practice |
 | `themio` | reflect | reconsideration of experience before judgement settles |
 | `themore` | argument | a form through which beliefs can be tested and revised |
-| `therema` | tradition | preserving collective knowledge through generations |
 | `thereo` | mediator | requires seeing all perspectives and finding middle way |
 | `thesani` | skill | practical understanding refined through experience |
-| `thesori` | evidence | material whose source, relevance, and limits can be examined |
+| `thesori` | evidence | support whose source, relevance, and limits remain open to examination |
 | `thuni` | intuitive | immediate judgement that may draw on experience and still remains open to checking |
 | `welao` | good | a contextual favourable judgement whose grounds remain open to examination |
 | `weloni` | body | the whole body as an object of sustained contemplative attention |

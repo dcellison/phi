@@ -8,18 +8,28 @@
     "mo"
   ],
   "pos": "noun",
-  "concept": "Ritual / A Deliberate Path",
-  "description": "A sequence of actions or gestures regularly followed by a person or group, often imbued with symbolic value. It is a practice of mindful, repeated action.",
-  "sound_symbolism": "The thoughtful 'the' brings consciousness to repetition - ritual requires presence, not mere habit. This deliberation flows into 'lu', the liquid consonant suggesting the smooth, worn path of practice. The word grounds finally in 'mo', a deep, resonant syllable that anchors the sequence in embodied action. Together the three syllables capture ritual's paradox: conscious beginning, flowing middle, grounded completion - ancient yet immediate, repeated yet renewed. The steady rhythm mirrors ritual's essence: mindful practice finding the sacred in deliberate patterns.",
-  "grammatical_notes": "Functions only as a noun; performing a ritual is expressed with verbs like 'thole' (practice): 'sila thelumo thole.' (The community practices the ritual.) Related to 'thorea' (ceremony), the larger communal event, and 'keno' (custom), the habitual practice.",
+  "search_terms": [
+    "observance",
+    "symbolic practice",
+    "repeated rite"
+  ],
+  "description": "Lighting a lamp at the same point in a remembrance may be a 'thelumo' (ritual). A ritual is a patterned action whose form carries personal or shared significance. It may stand alone or form part of a 'thorea' (ceremony); repeated work intended to develop capacity is 'thole' (practice).",
+  "articulatory_notes": "Rest the tongue tip at the upper teeth for unvoiced 'th' and let the breath open into middle-height front 'e'. Touch the alveolar ridge for voiced lateral 'l' and round into stressed high-back 'u'. Close the lips for nasal 'm' and finish with middle-height back rounded 'o'.",
+  "usage_notes": "A person or group may practise a ritual, and nearby language can say what it marks, how often it returns, and who participates. A tradition's own name, wording, and ritual roles accompany the Phi account when they establish identity.",
+  "examples": [
+    {
+      "phi": "sila ha thelumo thole.",
+      "translation": "The community practises this ritual."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Ritual as mindfulness practice transforms routine into presence - each repeated action becomes an opportunity for awakening. Whether lighting incense, walking meditation, or tea ceremony, rituals create containers for attention, using familiar forms to encounter each moment freshly. The practice isn't about belief but about using structure to cultivate awareness.",
-    "pre-industrial-wisdom": "Rituals served as the heartbeat of traditional communities - marking seasons, transitions, and shared values through embodied practice. These ceremonies created collective meaning without written doctrine, teaching through repetition what words alone couldn't convey. Ritual knowledge lived in bodies and actions, preserving wisdom through practice rather than text."
+    "secular-buddhist-philosophy": "A repeated form can bring attention back to an ordinary act. Repetition alone makes no act wise or sacred; its significance depends on what participants do and understand it to mean.",
+    "pre-industrial-wisdom": "Ritual can carry memory through gesture, place, timing, and participation when no written instruction would preserve the whole event. 'thelumo' leaves those particulars available rather than replacing them."
   },
   "semantic_domains": {
-    "community": "collective practices that create shared meaning",
-    "ritual": "this word defines the category",
-    "temporal": "marks passages of time and transitions",
-    "wisdom": "transmits knowledge through embodied practice"
+    "activity": "a patterned action performed for personal or shared significance",
+    "community": "an observance recognised or maintained among participants",
+    "ritual": "meaning carried through an enacted and often repeated form",
+    "temporal": "an action whose return or placement in an occasion matters"
   }
 }

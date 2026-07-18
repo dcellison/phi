@@ -8,18 +8,27 @@
     "tha"
   ],
   "pos": "noun",
-  "concept": "Reason / Justificatory Ground",
-  "description": "A consideration offered to justify a claim, a choice, or an action. A reason answers why something should be accepted, and it stands apart from a cause, a purpose, and a private motive, though any of those can also serve as a reason once someone actually offers it as one.",
-  "sound_symbolism": "Rolling 're' begins in relation and immediately reaches beyond itself. Closed lips hold the stressed 'mo' in a deep rounded center. 'Tha' lets that sound out as breath and broad 'a'; the inward turn a reason takes before it is offered becomes audible.",
-  "grammatical_notes": "A countable noun. Possessive order states what the reason supports: 'sherewa remotha' (a reason for the claim). As a clause participant: 'ha remotha ha sherewa panoru.' (This reason supports this claim.) Distinct from 'ka' (cause), 'porua' (purpose), 'thueli' (intend), and 'thesori' (evidence).",
+  "search_terms": [
+    "justification",
+    "rationale",
+    "ground for a claim"
+  ],
+  "description": "When asked why a claim or choice should be accepted, someone can offer a 'remotha' (reason). It is a consideration presented as justification. 'thesori' (evidence) supplies material for assessment; cause and 'porua' (purpose) answer different kinds of why.",
+  "articulatory_notes": "Begin 're' with a brief alveolar tap or short trill and release into middle-height front 'e'. Close the lips for voiced nasal 'm' and round into stressed middle-height back 'o'. Set the tongue tip at the upper teeth for unvoiced 'th', then open onto central 'a'.",
+  "usage_notes": "A reason may draw on an observation, value, relation, or further claim, and that content belongs nearby. Philosophical Reasoning 'themore' (argument) organises premises towards a conclusion; one reason need not form a complete argument.",
+  "examples": [
+    {
+      "phi": "ha remotha ha sherewa panoru.",
+      "translation": "This reason supports this claim."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Reasons remain considerations offered within conditions and perspectives, not permanent possessions that make a speaker infallible.",
-    "peace-linguistics-practices": "Speakers can request and examine reasons while keeping the person who offers them distinct from the claim under discussion.",
-    "pre-industrial-wisdom": "A reason may arise from practical experience and communal memory as well as abstract analysis, provided its supporting role is made clear."
+    "secular-buddhist-philosophy": "Giving a reason turns an inward conviction into something that can be considered and revised. The speaker remains answerable for the link they draw.",
+    "peace-linguistics-practices": "A reason invites shared examination without pretending that explanation compels agreement. Another participant may question its relevance, source, or effect while remaining fully in the conversation."
   },
   "semantic_domains": {
-    "cognition": "a consideration that supports acceptance or action",
-    "communication": "a ground offered so others can examine a claim or choice",
-    "wisdom": "deliberative support whose relevance and limits can be considered"
+    "cognition": "a consideration used to justify a belief, claim, choice, or action",
+    "communication": "a ground offered for others to examine",
+    "wisdom": "a stated basis that can be weighed against purpose, evidence, and consequences"
   }
 }

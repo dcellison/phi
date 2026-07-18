@@ -8,16 +8,27 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Vision / Seeing Forward / Inner Sight",
-  "description": "The capacity to see what is not yet present; imagination directed toward possibility. 'Lunai' names the seeing that reaches beyond—toward futures, toward meaning, toward what could be.",
-  "sound_symbolism": "The word illuminates forward. 'Lu' lights with seeing clarity, vision dawning. 'Na' settles with formed image, possibility taking shape. Then 'i' rises to bright clarity.",
-  "grammatical_notes": "Noun: 'mia lunai' (my vision). Envisioning is seeing forward: 'mia wireo nila.' (I see the future.) Related to 'sorai' (insight) as forward-seeing to deep-seeing.",
+  "search_terms": [
+    "future image",
+    "artistic vision",
+    "imagined possibility"
+  ],
+  "description": "Before anything is built, an artist or community may hold a coherent image of what could exist. That guiding possibility is a 'lunai' (vision). 'weni' (imagine) forms what is not present, while 'whemura' (dream) includes sleep experience and waking possibility held as a dream.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced 'l' and round the lips into high-back 'u'. Place the tongue tip at the upper teeth for dental 'n', then open into stressed central 'a'. Raise the tongue into a separate high-front 'i' across the 'a.i' hiatus.",
+  "usage_notes": "Possible futures, works, places, and social arrangements can be placed ahead of 'lunai'. Ordinary eyesight uses 'nila' (see); a claimed revelatory vision is accompanied by its evidential basis and exact source term. A vision can guide work without yet being a plan.",
+  "examples": [
+    {
+      "phi": "mia wireo lunai phelu.",
+      "translation": "I have a vision of the future."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Visionary futures—imagining and working toward worlds of flourishing.",
-    "art-nouveau-aesthetics": "Artistic vision—the capacity to see beauty before it is created."
+    "solarpunk-values": "A shared vision makes a possible future available for discussion before a plan fixes the route. People can ask whose flourishing it includes and what present work it invites.",
+    "art-nouveau-aesthetics": "Artistic vision can hold a room, book, garden, or vessel in the mind before material gives it form. 'lunai' keeps that imagined coherence distinct from the craft that later realises it."
   },
   "semantic_domains": {
-    "cognition": "Forward seeing",
-    "temporal": "Future imagination"
+    "cognition": "a coherent imagined possibility held as a guide",
+    "creation": "an artistic or practical conception that can direct later making",
+    "temporal": "a possible future held in present thought"
   }
 }

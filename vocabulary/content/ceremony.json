@@ -8,17 +8,26 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Ceremony / A Structured Collective Presence",
-  "description": "A formal event of communal significance, involving a series of actions performed in a prescribed order to mark transitions, celebrate milestones, or affirm collective values and bonds.",
-  "sound_symbolism": "The word opens with the reverent fricative 'th', requiring the same deliberate breath we take when entering sacred space. The rounded 'o' creates a sense of containment and wholeness, like a circle of participants. The rolling 'r' introduces movement and ritual flow, before opening into the expansive vowel sequence 'e.a' that releases the ceremony's energy into the world. This phonetic journey—from reverent breath through contained wholeness to flowing release—mirrors the very structure of ceremony itself: we gather with intention, hold space together, and send our collective energy outward. The word carries dignity without stiffness, formality with grace.",
-  "grammatical_notes": "A noun that frequently appears with descriptive modifiers indicating the type or purpose of ceremony: 'nolami thorea' (bonding ceremony), 'thalume thorea' (ancestor ceremony). Often occurs as the object of verbs like 'kealo' (create/perform), and with the locative preposition 'mua' (in/at): 'lo mia mua thorea nai.' (We are in ceremony.) Can be pluralized with 'lo' for multiple ceremonies. Time words modify it directly: 'norawhi thorea' (dusk ceremony).",
+  "search_terms": [
+    "observance",
+    "formal occasion",
+    "rite"
+  ],
+  "description": "A community may gather for a birth, a death, a season's turn, or another event it regards as significant. 'thorea' is the organised occasion through which that significance is marked. A 'thelumo' (ritual) may occur within it, while a 'holia' (festival) centres celebration.",
+  "articulatory_notes": "Place the tongue tip lightly at the upper teeth for unvoiced 'th' and let the air pass into rounded middle-height 'o'. Tap or briefly trill the tongue at the alveolar ridge for stressed 're'. Keep final open 'a' in a separate syllable across the 'e.a' hiatus.",
+  "usage_notes": "A purpose or relation may modify the noun; 'lumeo thorea' is a death ceremony. Phi does not assign roots to specific prescribed rites. An inherited ceremony's exact name or wording stays beside the Phi description when it establishes identity.",
+  "examples": [
+    {
+      "phi": "sila wei shia thorea kealo.",
+      "translation": "The community makes a ceremony for them."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Ceremony creates peaceful space through agreed-upon structures that allow diverse participants to gather safely. By establishing clear forms and shared intentions, ceremonies prevent conflict through inclusion and mutual recognition. They transform potential sites of tension (transitions, losses, celebrations) into opportunities for collective healing and affirmation.",
-    "pre-industrial-wisdom": "Ceremonies represent humanity's ancient technology for marking time, transitions, and collective meaning. Traditional societies understand that formal rituals create containers for community transformation - whether celebrating harvest, mourning loss, or welcoming new members. These structured gatherings weave individual experiences into the larger fabric of communal life."
+    "pre-industrial-wisdom": "Many communities mark seasonal and human change through shared action. 'thorea' leaves the content of that action with the people who maintain it instead of treating one inherited form as universal."
   },
   "semantic_domains": {
-    "community": "gathers collective presence for shared transformation",
-    "ritual": "performs prescribed actions in sacred structured space",
-    "temporal": "marks transitions and milestones in communal time"
+    "community": "a significant occasion held among participants",
+    "ritual": "an organised occasion that may contain meaningful patterned actions",
+    "temporal": "an event used to mark a transition, return, or remembered occasion"
   }
 }

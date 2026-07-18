@@ -8,16 +8,26 @@
     "ha"
   ],
   "pos": "noun",
-  "concept": "Luck / What Falls Unearned",
-  "description": "Luck: the part of any outcome that no one earned, good or otherwise. Phi keeps it value-neutral; 'soleha' is the way things fall, not a blessing and not a verdict.",
-  "sound_symbolism": "Bright 'so' opening to 'le'-'ha', light and unweighted throughout: what arrives without being carried.",
-  "grammatical_notes": "Noun: 'thia soleha phelu.' (You have luck.) 'mia soleha phaelo.' (I feel fortunate.)",
+  "search_terms": [
+    "chance",
+    "fortune",
+    "happenstance"
+  ],
+  "description": "One storm misses a field and reaches the next, though neither farmer's skill produced the difference. 'soleha' is the part of an outcome attributed to chance rather than effort, plan, or earned merit. A modifier or surrounding clause says whether that luck helped, harmed, or simply altered events.",
+  "articulatory_notes": "Bring the tongue blade close to the alveolar ridge for unvoiced 's' and round into middle-height back 'o'. Touch the tongue tip to the alveolar ridge for voiced 'l' and move into stressed middle-height front 'e'. Let unvoiced air pass through the open glottis for 'h', then finish on central 'a'.",
+  "usage_notes": "The noun is value-neutral and attributes chance without identifying a hidden agent. Fate, blessing, and merit are further claims. Exact probabilities and statistical odds remain with the source notation and method that establish them.",
+  "examples": [
+    {
+      "phi": "ha soleha welao nai.",
+      "translation": "This is good luck."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Naming luck is naming the limits of merit: much of what happens was never up to anyone. The word keeps that humility speakable.",
-    "pre-industrial-wisdom": "Farmers knew exactly how much of a harvest was skill and how much was weather. Luck was the honest name for the difference."
+    "secular-buddhist-philosophy": "Luck makes contingency speakable where praise or blame might otherwise claim too much. Skill can matter greatly while still failing to control every condition.",
+    "pre-industrial-wisdom": "Work tied closely to weather, soil, and living cycles makes the unchosen part of an outcome hard to ignore. 'soleha' keeps that limit visible without denying practical skill."
   },
   "semantic_domains": {
-    "cognition": "The unearned part of outcomes",
-    "temporal": "The way things fall"
+    "cognition": "an interpretation of the unplanned and unearned part of an outcome",
+    "temporal": "chance conditions encountered as events unfold"
   }
 }
