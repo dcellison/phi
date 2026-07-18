@@ -8,17 +8,27 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Evidence / Material Offered in Support",
-  "description": "Material, an observation, a record, a measurement, offered for or against a claim. Calling something evidence names how it is being used, not a guarantee that it holds up; two people can agree the evidence exists and still disagree about what it shows.",
-  "sound_symbolism": "Dental 'the' starts with a measured stream of air. Stressed 'so' sharpens that stream into a narrow hiss and rounds it in 'o'. 'Ri' finishes with a quick movement of the tongue and clear 'i'. Measured breath passes through focus and leaves in one bright release.",
-  "grammatical_notes": "A mass or countable noun according to context: 'ha thesori ha sherewa panoru.' (This evidence supports this claim.) Use a classifier only when counting distinct pieces or records. Distinct from the evidential particles 'hi', 'ke', 'ti', and 'ho', which mark the claimed source of a verb rather than naming material offered for assessment.",
+  "search_terms": [
+    "support for a claim",
+    "material for assessment",
+    "observed support"
+  ],
+  "description": "An observation or record may be offered as 'thesori' (evidence) for or against a claim. Measurements, traces, and testimony can enter the same role. The noun describes how that material enters an assessment, not whether it proves the point; two speakers may accept the evidence and still disagree about its relevance or interpretation.",
+  "articulatory_notes": "Rest the tongue tip at the upper teeth for unvoiced 'th' and release the breath into middle-height front 'e'. Bring the tongue blade close to the alveolar ridge for 's', then round into stressed middle-height back 'o'. Finish with an alveolar tap or brief trill followed by high-front 'i'.",
+  "usage_notes": "In context, evidence may form a body of material or appear as one distinct item. 'hi', 'ke', 'ti', and 'ho' mark the claimed source of a verb; they do not certify the quality of evidence named in the sentence. Method, provenance, uncertainty, and limits belong nearby when they affect the claim.",
+  "examples": [
+    {
+      "phi": "ha thesori ha sherewa panoru.",
+      "translation": "This evidence supports this claim."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Shared ecological and technical decisions need evidence that communities can inspect, question, and relate to lived consequences.",
-    "secular-buddhist-philosophy": "Evidence supports attention to what is observed or reported while leaving room to revise the interpretation placed upon it.",
-    "pre-industrial-wisdom": "Evidence includes skilled observation, testimony, traces, and embodied records rather than restricting knowledge to a single institutional form."
+    "secular-buddhist-philosophy": "Evidence lets a speaker return from conviction to what was observed, recorded, or reported. The interpretation can then change without pretending the earlier evidence never existed.",
+    "pre-industrial-wisdom": "Skilled observation, testimony, tracks, weather signs, and embodied records can all enter an inquiry as evidence. Numerical instruments are one route among several, not the definition of knowing."
   },
   "semantic_domains": {
-    "cognition": "information offered in support of or against a claim",
-    "wisdom": "material whose source, relevance, and limits can be examined"
+    "cognition": "material considered for what it supports or counts against",
+    "communication": "material offered so that a claim can be assessed by others",
+    "wisdom": "support whose source, relevance, and limits remain open to examination"
   }
 }

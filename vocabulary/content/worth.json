@@ -8,16 +8,25 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Worth / Inherent Value / Dignity",
-  "description": "The inherent value or dignity of something; worth that doesn't depend on external attribution. 'Rolia' names what beings have simply by existing—dignity not earned but intrinsic.",
-  "sound_symbolism": "The word resonates with dignity. 'Ro' grounds with solid presence, worth inherent. 'Li' lifts with recognized quality. Then 'a' opens to acceptance of this truth.",
-  "grammatical_notes": "Functions as noun: 'theli miona rolia phelu.' (Each person holds worth.) Related to but distinct from 'sone' (value), which is attributed; rolia is inherent dignity.",
+  "search_terms": [
+    "dignity",
+    "inherent value",
+    "intrinsic worth"
+  ],
+  "description": "'rolia' is worth understood as belonging to a being, work, place, or other thing rather than supplied by an observer's approval. For a person, Phi uses it for inherent dignity that is neither earned nor lost through productivity. 'sone' (value) is the act of attributing importance, so a valuation does not create the whole worth of what is valued.",
+  "articulatory_notes": "Start 'ro' with an alveolar tap or short trill and round the lips into middle-height back 'o'. Return the tongue tip to the alveolar ridge for voiced lateral 'l' and hold stressed high-front 'i'. Lower the tongue and jaw into a separate final central 'a' across the 'i.a' hiatus.",
+  "usage_notes": "A statement of worth is a normative claim, not an empirical measurement. Phi's canon treats human dignity as inherent across changes of output and status; it does not depend on possession or another person's approval. Price and monetary rank do not enter through this noun.",
+  "examples": [
+    {
+      "phi": "mia thia rolia nila.",
+      "translation": "I see your worth."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Inherent worth—all beings possess dignity by virtue of sentience.",
-    "peace-linguistics-practices": "Recognizing worth—communication that honors the dignity of all participants."
+    "peace-linguistics-practices": "Keeping worth separate from usefulness, agreement, and social rank lets a conversation oppose harm without reducing the person who caused it to that act. Dignity remains present through accountability and repair."
   },
   "semantic_domains": {
-    "community": "Universal value",
-    "wisdom": "Inherent dignity"
+    "community": "dignity or worth recognised in relations among people",
+    "ethics": "a claim of worth independent of utility, rank, or merit earned"
   }
 }
