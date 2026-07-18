@@ -8,17 +8,27 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Ecosystem / Bounded Relations Among Living Beings and Environment",
-  "description": "A bounded set of relations among living beings and their environment, drawn for a stated place, time, and scale. The boundary is a tool for analysis, not a fact of nature waiting to be found, and one forest can hold several useful ecosystem boundaries drawn for different questions.",
-  "sound_symbolism": "Bright liquid 'li' begins in easy motion. Stressed 'te' interrupts it with a dental stop, one clean edge inside the flow. 'Ro' rolls away from that contact into a larger rounded chamber, and life continues as relation within the whole.",
-  "grammatical_notes": "A countable noun: 'ha litero lo lima nela lo muralo lorea.' (This ecosystem connects living beings and materials.) Use 'litero norui' for an ecosystem boundary and state place, time, scale, and included relations when they matter. Distinct from 'terura' (system), 'shelira' (forest), 'sila' (human community), and 'nuri' (cycle).",
+  "search_terms": [
+    "ecological system",
+    "living system"
+  ],
+  "description": "A 'litero' is a selected whole of relations among living beings and their surroundings, bounded for a stated ecological question. One forest may contain several useful ecosystems when place, time, scale, or the relations under study change. 'terura' is the broader word for any system.",
+  "articulatory_notes": "Start with alveolar lateral 'l' and high-front 'i'. Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into stressed true-mid front 'e'. Tap or briefly trill the tongue tip, then finish on rounded mid-back 'o'.",
+  "sound_symbolism": "Light 'li' meets the clear dental edge of stressed 'te', then rolls into the rounded space of 'ro'. The contour feels bounded in its centre but active on either side, a useful echo for relations gathered within an analytical whole.",
+  "usage_notes": "Countable 'litero' pairs with 'litero norui' when the chosen ecosystem boundary must be named. Place, period, and scale establish its outer frame. The included beings, materials, and relations make that boundary visible as an analytical choice rather than a line already settled.",
+  "examples": [
+    {
+      "phi": "ha litero lo lima nela lo muralo lorea.",
+      "translation": "This ecosystem connects living beings and materials."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Ecosystem language supports situated accounts of infrastructure, material use, care, and restoration without assuming that preferred ecological imagery proves a good outcome.",
+    "solarpunk-values": "Ecosystem language supports situated accounts of infrastructure, material use, care, and restoration. Preferred ecological imagery alone cannot prove a good outcome.",
     "art-nouveau-aesthetics": "The concept treats living and nonliving forms through their interwoven relations, while refusing to mistake visual harmony for ecological explanation."
   },
   "semantic_domains": {
     "cognition": "a bounded analytical whole selected for ecological explanation",
-    "nature": "relations among living beings, materials, energy, water, and place"
+    "nature": "relations among living beings and the materials, energy, water, and place around them"
   },
   "modules": [
     "ecological-systems-and-material-life"

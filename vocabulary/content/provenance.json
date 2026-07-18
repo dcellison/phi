@@ -8,12 +8,23 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Provenance / Claimed Source and Custody or Transformation History",
-  "description": "The claimed source and history a material or artifact carries: whose hands held it, what was done to it, by what stages it arrived. A provenance account is told honestly with its gaps and confidence showing. It can serve repair, attribution, and safety without proving authenticity or ownership.",
-  "sound_symbolism": "Low liquid 'lu' opens a deep chamber, then the stressed hiss of 'se' brightens the middle and sends the air forward. Final 'ri' taps the tongue and finishes on narrow 'i'. Rising from depth through a fine stream, the word leaves one quick mark at the end.",
-  "grammatical_notes": "A countable or mass noun according to context: 'ha muralo luseri se sirami.' (The material's provenance is recorded.) Name the object, sources, stages, gaps, confidence, and exact identifiers where relevant. Distinct from 'lue' (from), 'sirami' (record), ownership, authenticity, and a complete historical narrative.",
+  "search_terms": [
+    "source history",
+    "custody history",
+    "material origin"
+  ],
+  "description": "'luseri' is the claimed source and passage of a material, object, or work through custody and transformation. It may tell where timber grew, who shaped it, and how it arrived in a repair shop. Gaps belong to the account; provenance is evidence about a history, not proof of authenticity or ownership.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and release along its sides into high-back rounded 'u'. Form a narrow groove for unvoiced 's' and continue the air into stressed true-mid front 'e'. Tap or briefly trill the tongue tip before final high-front 'i'.",
+  "sound_symbolism": "Low rounded 'lu' rises through the fine hiss of stressed 'se' and ends with the quick mark of 'ri'. That path may suggest a trail brought forward from depth and finished with one last trace.",
+  "usage_notes": "The noun can refer to one account or to provenance in general. Sources, stages, and custody trace the passage. Transformations, gaps, and degree of confidence show how much the account can support. Exact names and dates stay in their source records, as do certificates, identifiers, and quoted claims.",
+  "examples": [
+    {
+      "phi": "ha muralo luseri se sirami.",
+      "translation": "The material's provenance is recorded."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Material and knowledge provenance supports ecological accounting, repair, reuse, attribution, and scrutiny of hidden social or environmental costs.",
+    "solarpunk-values": "Material and knowledge provenance supports ecological accounting, repair, and reuse. Attribution and hidden social or environmental costs remain open to scrutiny.",
     "peace-linguistics-practices": "Treating provenance as a sourced and incomplete account prevents a lineage claim from automatically establishing ownership, purity, legitimacy, or unquestionable truth."
   },
   "semantic_domains": {

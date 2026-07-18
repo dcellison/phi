@@ -8,10 +8,20 @@
     "ki"
   ],
   "pos": "noun",
-  "concept": "Concentration / Amount of an Agent per Stated Medium",
-  "description": "The amount of an agent measured against a stated medium, always a ratio rather than a bare total. It answers a narrower question than total load, dose, or toxicity, each of which needs its own word and its own evidence.",
-  "sound_symbolism": "Dental 'no' establishes a rounded chamber at the start. The stress closes more tightly in 'mi', where the lips gather the sound around bright 'i'. Crisp 'ki' makes one last small contact at the soft palate, and the three narrowing enclosures feel like matter gathered into less and less space.",
-  "grammatical_notes": "A countable or mass noun commonly possessed by the agent or medium: 'ha phialu ha hisophi nomiki phelu.' (This water has this contaminant concentration.) Preserve exact values and units in a separate source record. Distinct from 'masue' (measure), 'takori' (load), total quantity, and a psychological concentration of attention.",
+  "search_terms": [
+    "amount per medium",
+    "material ratio"
+  ],
+  "description": "'nomiki' is the amount of an agent considered against a stated medium or total. It is a ratio, not the bare quantity of material present. Concentration therefore answers a different question from system load, bodily dose, toxicity, or the speaker's concentration of attention.",
+  "articulatory_notes": "Rest the tongue tip against the upper teeth for dental 'n', carry voicing through the nose, and round into mid-back 'o'. Close the lips for 'm' and release the nasal into stressed high-front 'i'. Make an unvoiced velar closure for 'k' and return to high-front 'i'.",
+  "sound_symbolism": "Rounded 'no' narrows through the lip closure of stressed 'mi' and the crisp velar release of 'ki'. The successive enclosures offer an audible image of an amount considered within a smaller and more explicit frame.",
+  "usage_notes": "'nomiki' works as a count or mass noun and is commonly paired with its agent or medium. Both sides of the ratio need to be recoverable from context. Exact values and methods remain separate records, together with their units, detection limits, and source interpretations.",
+  "examples": [
+    {
+      "phi": "ha sirami ha hisophi nomiki thelima.",
+      "translation": "This record describes this contaminant concentration."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Concentration makes environmental claims more precise while preventing a visible substance or large total amount from replacing an actual ratio and source.",
     "secular-buddhist-philosophy": "The concept is explicitly relational: an amount has ecological meaning only against a medium, scale, condition, and interpretation."

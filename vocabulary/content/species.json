@@ -8,10 +8,20 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Species / Source-Defined Biological Kind",
-  "description": "A source-defined biological kind. The word takes no side on which species concept is correct, and the exact taxonomic name, where precision matters, stays exact in the source record rather than folded into the Phi.",
-  "sound_symbolism": "Light 'li' begins with liquid motion and bright 'i'. Stressed 'ko' meets that flow with a firm velar closure and a round center. 'Ri' releases the category into a living flick of the tongue. The word moves from life to a clear point of likeness and then beyond any one member.",
-  "grammatical_notes": "A countable noun: 'lo ha likori nolika phirae nai.' (The animals of this species are different.) Exact scientific names, ranks, authorities, and source-community categories remain in separate source material. Distinct from 'limoe' (creature), ordinary kind descriptions, population, and a taxonomic name itself.",
+  "search_terms": [
+    "biological species",
+    "biological kind"
+  ],
+  "description": "A 'likori' is a biological species under the definition used by a stated source. The word supplies the class relation without choosing among reproductive, genetic, ecological, or other species concepts. A 'liloni' is one population of such organisms in a place and time.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and release along the sides into high-front 'i'. Close the back of the tongue against the soft palate for 'k' and release into stressed rounded mid-back 'o'. Tap or briefly trill the tongue tip for 'r' before final high-front 'i'.",
+  "sound_symbolism": "Liquid 'li' gives way to the firmer centre of stressed 'ko', then final 'ri' adds a quick turn of the tongue. The contour can suggest a category briefly gathered and released back among its members.",
+  "usage_notes": "'likori' is countable. Exact scientific names and ranks stay in separate source material when their identity matters. Authorities, definitions, and source-community categories stay there too.",
+  "examples": [
+    {
+      "phi": "lo ha likori nolika phirae nai.",
+      "translation": "The animals of this species are different."
+    }
+  ],
   "pillars": {
     "secular-buddhist-philosophy": "The definition treats a species as a useful conditioned category rather than an unchanging essence whose boundary is independent of purpose and evidence.",
     "peace-linguistics-practices": "Classification is kept separate from hierarchy, possession, and the authority to erase a community or tradition's own distinctions."

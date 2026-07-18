@@ -4,7 +4,7 @@ Someone wakes with a fever and says so, in their own words. Everything this modu
 
 Like every module, these words are optional and use ordinary Phi grammar. Core Phi already reports pain, sickness, refusal, need, and care, and a speaker who has not learned the module can always ask for a core paraphrase. Learning it gives no one medical knowledge, a professional role, or any permission to act on another person's body.
 
-The chapter table below introduces 30 roots. Current classifications bring the learning list to 50 words; the complete machine-generated list is available under [Medical and Bodily Care in the module lexicon](../lexicon/by_module.md#medical-and-bodily-care). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 30 roots. Current classifications bring the learning list to 51 words; the complete machine-generated list is available under [Medical and Bodily Care in the module lexicon](../lexicon/by_module.md#medical-and-bodily-care). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -20,7 +20,7 @@ The module does not replace what Phi already says about bodies and their care. I
 | Evidence and modality | `masue` measure, `siru` marker, `sirami` record, `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `ma` negation, and separately preserved source material |
 | Planning and status | `winora` plan, `hasoru` pending |
 
-The sibling modules lend their tools where care meets their ground: Systems for the monitor at the bedside, Work for the shift handoff, Commons for who may decide what, and Ecological for the contaminant in the water. Base `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion support the discussion before Philosophical Reasoning adds its sharper argument terms.
+The sibling modules lend their tools where care meets their ground: Systems for the monitor at the bedside, Work for the shift handoff, Commons for who may decide what, and Ecological for a contaminant in water or `sumeri` temperature as the parameter named by a clinical record. Base `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion support the discussion before Philosophical Reasoning adds its sharper argument terms. `suloru` names fever as a bodily condition, and the source record carries the exact temperature value.
 
 ## Additional roots in this learning path
 

@@ -8,17 +8,28 @@
     "we"
   ],
   "pos": "verb",
-  "concept": "Flood / Water Cover or Overflow Beyond Usual Bounds",
-  "description": "For water to cover or overflow beyond its usual bounds. Flooding names the water's extent; whether the event counts as a disaster, and who bears responsibility for it, are separate claims the word leaves open.",
-  "sound_symbolism": "Bilabial breath in 'pha' opens wide and enters the stressed liquid depth of 'lu'. The first two syllables swell with the waterlike resonance found across Phi's 'ph' and 'l' words. Final 'we' rounds, glides, and opens again. The contour keeps expanding through breath and liquid until the old edge is somewhere inside the water.",
-  "grammatical_notes": "A transitive or intransitive verb: 'ha luphore ha kosha to phaluwe.' (The river flooded the field.) The event-noun rule supplies flood. State water source, place, time, depth, duration, and consequence separately. Distinct from 'pheno' (full), ordinary rain, runoff, an exact flood category, and the harms a flood may cause.",
+  "search_terms": [
+    "overflow",
+    "inundate",
+    "inundation"
+  ],
+  "description": "Water 'phaluwe' when it covers a place or passes beyond its usual bounds. A river can flood a field, and coastal water can flood a path. Depth and duration describe the event's extent; its damage, benefit, displacement, and responsibility require further claims.",
+  "articulatory_notes": "Bring the lips close without sealing them for unvoiced 'ph' and continue the breath into central 'a'. Touch the tongue tip to the alveolar ridge for 'l', release along the sides, and hold stressed high-back rounded 'u'. Round the lips for voiced 'w' and glide into final true-mid front 'e'.",
+  "sound_symbolism": "Breathy 'pha' opens into the deep lateral flow of stressed 'lu', and final 'we' rounds before opening once more. The contour keeps widening, a felt echo of water passing its former edge.",
+  "usage_notes": "The verb may be intransitive or take the flooded place as its object. As an event noun, it refers to a flood. Water source and place locate a particular event. Period, extent, and consequence complete the account. Warning classes and mapped boundaries retain their exact source definitions.",
+  "examples": [
+    {
+      "phi": "ha luphore ha kosha to phaluwe.",
+      "translation": "The river flooded the field."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Flood language supports planning for water, shelter, access, ecology, and unequal consequences without making every inundation a moral or technical failure.",
+    "solarpunk-values": "Flood language supports planning for water, shelter, and access. Ecology and unequal consequences remain part of the same account. Inundation may nourish a floodplain or endanger a settlement, and the word leaves room to say which occurred.",
     "pre-industrial-wisdom": "Seasonal floodplains and remembered water marks show that overflow can nourish, displace, renew, and endanger according to place and timing."
   },
   "semantic_domains": {
     "activity": "water covering or overflowing beyond a stated usual boundary",
-    "nature": "an event involving rivers, coasts, rain, melt, drainage, or storage",
+    "nature": "water passing usual bounds through a water body, precipitation, melt, or drainage system",
     "spatial": "water extending into a place outside its stated usual extent"
   },
   "modules": [

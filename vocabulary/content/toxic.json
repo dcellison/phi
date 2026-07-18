@@ -8,10 +8,20 @@
     "ra"
   ],
   "pos": "adjective",
-  "concept": "Toxic / Capable of Biological Harm Under Exposure",
-  "description": "Capable of biological harm under a stated exposure, route, and organism. Toxicity is a capacity, not a guarantee: an agent can be toxic and still cause no harm where no relevant exposure occurs.",
-  "sound_symbolism": "Soft 'pe' begins with a small closure that gives little warning. Stressed 'ki' tightens suddenly at the soft palate and releases into bright 'i'. 'Ra' rolls that sharp point outward into broad 'a'. The danger enters quietly, concentrates in the middle, and travels into the body of the word.",
-  "grammatical_notes": "An adjective placed before a noun or used predicatively: 'pekira hisophi' (a toxic contaminant); 'ha hisophi pekira nai.' (This contaminant is toxic.) The quality-noun rule supplies toxicity. Distinct from 'peloma' (harmful), 'pemaru' (hazard), actual poisoning, and an exact source classification.",
+  "search_terms": [
+    "toxicity",
+    "poisonous"
+  ],
+  "description": "An agent is 'pekira' when it is capable of causing biological harm under a stated route and degree of exposure. Toxicity is a property under conditions, not evidence that contact or injury occurred. 'pemaru' names a possible source of harm, while 'peloma' says that something is harmful in the relation being discussed.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into true-mid front 'e'. Make an unvoiced velar closure for 'k' and release sharply into stressed high-front 'i'. Tap or briefly trill the tongue tip, then open into final central 'a'.",
+  "sound_symbolism": "The soft opening of 'pe' meets the crisp, stressed release of 'ki', then rolls outward through open 'ra'. That sudden central contact gives the word a pointed contour.",
+  "usage_notes": "The adjective may modify a noun or stand predicatively; the quality-noun rule supplies toxicity. Agent, organism, and route identify the relation. Amount, duration, and uncertainty complete its conditions. Source records keep exact classifications and thresholds.",
+  "examples": [
+    {
+      "phi": "ha hisophi pekira nai.",
+      "translation": "This contaminant is toxic."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Toxicity language supports material accountability while requiring the affected organisms, exposure route, amount, and uncertainty to remain visible.",
     "peace-linguistics-practices": "The specialist sense applies to biological effects of agents and must not become an unmarked condemnation of people, relationships, cultures, or speech."

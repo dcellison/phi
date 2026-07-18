@@ -1,0 +1,37 @@
+{
+  "word": "sumeri",
+  "gloss": "temperature",
+  "ipa": "/su.ˈme̞.ri/",
+  "syllables": [
+    "su",
+    "me",
+    "ri"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "thermal condition",
+    "thermal parameter"
+  ],
+  "description": "'sumeri' is the thermal condition of a body, material, place, or system, considered along a warmer-to-cooler scale. It lets a speaker compare or monitor temperature without first judging something hot or cold. Heat is energy transferred because temperatures differ, and 'suloru' is fever; neither is another name for the parameter itself.",
+  "articulatory_notes": "Send unvoiced air through a narrow groove along the tongue for 's', then round into high-back 'u'. Close the lips for 'm' and release the voiced nasal into stressed true-mid front 'e'. Finish with a tap or short trill of the tongue followed by high-front 'i'.",
+  "sound_symbolism": "The rounded hiss of 'su' gives 'sumeri' an audible kinship with 'sulae' (warm), 'sukaro' (hot), and 'suloru' (fever). Its nasal middle and light final tap make the contour steadier than those felt conditions, which suits a parameter that may move in either direction.",
+  "usage_notes": "A source record carries the exact measurement for 'sumeri' and how it was taken. Its scale, unit, and instrument stay there. Degree words and comparisons can describe temperature without supplying a number. Medical vocabulary can place body temperature beside other observations, while 'suloru' names fever as a bodily condition.",
+  "examples": [
+    {
+      "phi": "lo mia ha sumeri somethi.",
+      "translation": "We monitor this temperature."
+    }
+  ],
+  "pillars": {
+    "solarpunk-values": "Temperature can be followed as one environmental condition among many. Comfort, ecological effect, energy use, and technical response remain separate parts of the discussion."
+  },
+  "semantic_domains": {
+    "nature": "a thermal condition of living beings and inhabited places or their surrounding air, water, and soil",
+    "physical": "a parameter by which bodies, materials, and systems are compared from cooler to warmer"
+  },
+  "modules": [
+    "ecological-systems-and-material-life",
+    "medical-and-bodily-care",
+    "systems-and-shared-infrastructure"
+  ]
+}

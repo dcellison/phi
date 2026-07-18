@@ -8,12 +8,22 @@
     "ni"
   ],
   "pos": "noun",
-  "concept": "Population / Organisms of One Kind in a Place and Time",
-  "description": "The organisms of one kind living in a stated place and time, narrower than the species itself. One species can carry several populations, and a single population can shift without the species definition moving at all.",
-  "sound_symbolism": "Bright liquid 'li' starts with one light movement. Stressed 'lo' repeats the liquid but rounds it into a wider space. Final 'ni' changes the open flow into a close dental nasal and focused 'i'. Many lives can sound together in the repeated liquid center, then be counted within the fine edge of the ending.",
-  "grammatical_notes": "A countable noun: 'ha liloni mua ha menuro thuroa.' (This population grows in the habitat.) State the category, place, time, and measurement method where needed. Distinct from 'likori' (species), 'liweso' (ecological community), `sila` (human community), and 'phisuri' (sample).",
+  "search_terms": [
+    "ecological population",
+    "organism group"
+  ],
+  "description": "A 'liloni' is the organisms of one stated kind considered within a place and time. It is narrower than 'likori' (species) and supplies one of the groups that may make up a 'liweso' (ecological community). In this module the word is biological; 'sila' remains the ordinary human community.",
+  "articulatory_notes": "Begin with alveolar lateral 'l' and high-front 'i'. Repeat the lateral for the stressed second syllable, this time rounding into mid-back 'o'. Rest the tongue tip against the upper teeth for dental 'n', keep voicing through the nose, and finish on high-front 'i'.",
+  "sound_symbolism": "The repeated lateral gives 'liloni' a gently recurring motion, first bright and then rounded. Dental 'ni' draws that wider centre to a finer edge, like a broad living group considered within a stated boundary.",
+  "usage_notes": "'liloni' is countable. A useful ecological claim includes the biological category, place, time, and observation or counting method. The whole species is 'likori'; a selected portion is 'phisuri', and a politically represented public needs a civic description.",
+  "examples": [
+    {
+      "phi": "ha liloni mua ha menuro thuroa.",
+      "translation": "This population grows in the habitat."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Population language helps track how decisions affect living groups across place and time without reducing ecological value to a single count.",
+    "solarpunk-values": "Population language helps track how decisions affect living groups across place and time. Ecological value cannot be reduced to that one count.",
     "peace-linguistics-practices": "The term keeps biological description separate from a political population, a claim of representation, or a judgment of worth."
   },
   "semantic_domains": {

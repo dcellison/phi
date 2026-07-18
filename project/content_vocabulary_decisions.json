@@ -57,7 +57,8 @@
     {"id": "roles-places-relations-and-remaining-concrete-nouns", "heading": "Roles, places, relations, and remaining concrete nouns", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-ADVENTURE-01", "CV-COUNSEL-01", "CV-RISK-01", "CV-RISK-02", "CV-ENERGY-01", "CV-ENERGY-02", "CV-MED-02", "CV-NET-01", "CV-NET-02", "CV-RESOURCE-01", "CV-SACRED-01", "CV-SACRED-02", "CV-ROLE-01", "CV-SECRET-01", "CV-WEATHER-01", "CV-THING-01", "CV-VALUE-01", "CV-SETTLE-01", "CV-SETTLE-02", "CV-MESH-01", "CV-EDU-01", "CV-MAT-08", "CV-MAT-09"]},
     {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-02", "CV-MAT-05", "CV-MAT-06", "CV-MEAS-02", "CV-MEAS-03", "CV-MEAS-04", "CV-MEAS-05", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]},
     {"id": "philosophical-reasoning-module-prose", "heading": "Philosophical Reasoning module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-PHIL-01", "CV-PHIL-02", "CV-PHIL-03", "CV-PHIL-04", "CV-PHIL-05", "CV-PHIL-06", "CV-PHIL-07", "CV-PHIL-08", "CV-PHIL-09", "CV-LOGIC-01", "CV-EPIST-01", "CV-EPIST-02"]},
-    {"id": "systems-shared-infrastructure-module-prose", "heading": "Systems and Shared Infrastructure module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-01", "CV-MEAS-05", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ENERGY-01", "CV-ENERGY-02", "CV-ENERGY-03", "CV-ENERGY-04", "CV-SYSTEMS-03", "CV-SYSTEMS-04", "CV-SYSTEMS-05", "CV-SYSTEMS-06", "CV-SYSTEMS-07", "CV-SYSTEMS-08", "CV-SYSTEMS-09", "CV-NET-02"]}
+    {"id": "systems-shared-infrastructure-module-prose", "heading": "Systems and Shared Infrastructure module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-01", "CV-MEAS-05", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ENERGY-01", "CV-ENERGY-02", "CV-ENERGY-03", "CV-ENERGY-04", "CV-SYSTEMS-03", "CV-SYSTEMS-04", "CV-SYSTEMS-05", "CV-SYSTEMS-06", "CV-SYSTEMS-07", "CV-SYSTEMS-08", "CV-SYSTEMS-09", "CV-NET-02"]},
+    {"id": "ecological-systems-material-life-module-prose", "heading": "Ecological Systems and Material Life module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-01", "CV-MEAS-05", "CV-WATER-02", "CV-SKY-02", "CV-LAND-03", "CV-SKY-03", "CV-ECO-01", "CV-ECO-02", "CV-ECO-03", "CV-ECO-04", "CV-ECO-05", "CV-ECO-06", "CV-ECO-07", "CV-ECO-08", "CV-ECO-09"]}
   ],
   "candidates": [
     {
@@ -117,11 +118,11 @@
     {
       "id": "CV-MEAS-01",
       "concept": "temperature, humidity, and illumination as measured parameters",
-      "status": "deferred",
-      "placement": "Ecological or another connected technical module, with exact values in source material",
-      "summary": "Systems now has a generic variable noun and a dedicated voltage parameter. Everyday hot, wet, and bright qualities remain adequate in the current Systems examples, while neutral temperature, humidity, and illumination parameters still need the environmental monitoring review.",
-      "revisit_when": "the Ecological Systems and Material Life prose migration examines connected environmental monitoring and repeatedly names one of these parameters apart from its value and instrument",
-      "batches": ["environmental-and-spatial-qualities", "systems-shared-infrastructure-module-prose"]
+      "status": "implemented",
+      "placement": "Ecological, Systems, Medical, and Accessibility learning paths according to meaning",
+      "summary": "`sumeri`, `wimura`, and `keruma` identify temperature, humidity, and illumination as conditions that can be compared or monitored. Everyday hot, wet, and bright qualities keep their felt meanings. Exact measurements and instrument records retain their source form.",
+      "implementation": {"words": ["sumeri", "wimura", "keruma"], "files": ["vocabulary/content/temperature.json", "vocabulary/content/humidity.json", "vocabulary/content/illumination.json"]},
+      "batches": ["environmental-and-spatial-qualities", "systems-shared-infrastructure-module-prose", "ecological-systems-material-life-module-prose"]
     },
     {
       "id": "CV-MEAS-02",
@@ -157,7 +158,7 @@
       "placement": "Systems or exact source material",
       "summary": "Ordinary handling now has neutral weight, while scientific mass requires a stable technical distinction, method, and source value.",
       "revisit_when": "connected scientific or engineering writing repeatedly needs to discuss mass apart from weight and exact source notation",
-      "batches": ["size-extent-and-distance", "recovered-cross-inventory-prompts", "systems-shared-infrastructure-module-prose"]
+      "batches": ["size-extent-and-distance", "recovered-cross-inventory-prompts", "systems-shared-infrastructure-module-prose", "ecological-systems-material-life-module-prose"]
     },
     {
       "id": "CV-TASTE-01",
@@ -931,7 +932,7 @@
       "placement": "base expressions with an ecological-module term where needed",
       "summary": "Movement through water takes more than one form. Existing expressions distinguish current and waterfall, while frozen flow, subsurface water, and wet habitat keep their defining relation audible. A technical classification can remain in its source record beside the Phi account.",
       "expressions": ["phialu selu", "kerithe luphore", "phialu lepa", "muila phialu", "wirua muila menuro"],
-      "batches": ["landscape-waters-sky-and-weather"]
+      "batches": ["landscape-waters-sky-and-weather", "ecological-systems-material-life-module-prose"]
     },
     {
       "id": "CV-SKY-01",
@@ -946,10 +947,10 @@
       "id": "CV-SKY-02",
       "concept": "horizon, atmosphere, and humidity",
       "status": "compositional",
-      "placement": "base roots and expressions",
-      "summary": "The visible sky can have an apparent boundary, ordinary atmosphere is air around a place or world, and humidity is moisture in that air. Exact scientific layers and measurements remain separately identified when needed.",
-      "expressions": ["waero norui", "haowu", "wirua haowu"],
-      "batches": ["landscape-waters-sky-and-weather"]
+      "placement": "base roots and expressions, with an Ecological parameter noun",
+      "summary": "The visible sky has an apparent boundary, and ordinary atmosphere remains air around a place or world. `wirua haowu` describes wet air as a felt condition; implemented `wimura` names humidity as a parameter. Exact layers, values, units, and methods remain separately identified.",
+      "expressions": ["waero norui", "haowu", "wirua haowu", "wimura"],
+      "batches": ["landscape-waters-sky-and-weather", "ecological-systems-material-life-module-prose"]
     },
     {
       "id": "CV-WEATHER-01",
@@ -967,7 +968,7 @@
       "placement": "base, ecological module, or exact source term according to use",
       "summary": "Bay, gulf, strait, canyon, gorge, delta, dune, and similar classes differ in which shape, process, or local name matters. Existing land and water relations can carry ordinary description until one distinction repeatedly needs a root.",
       "revisit_when": "an active navigation, geological, ecological, or literary scenario repeatedly loses a landform distinction that existing roots and spatial relations cannot carry naturally",
-      "batches": ["landscape-waters-sky-and-weather"]
+      "batches": ["landscape-waters-sky-and-weather", "ecological-systems-material-life-module-prose"]
     },
     {
       "id": "CV-SKY-03",
@@ -976,7 +977,7 @@
       "placement": "future module vocabulary plus exact scientific source material",
       "summary": "Specialist astronomy can describe comets, asteroids, and galaxies without moving them all into the base path. Atmospheric layers, precipitation classes, and named severe-weather systems can likewise remain exact in their source material.",
       "revisit_when": "an astronomy or meteorology scenario needs the same class repeatedly for explanation rather than only as a named source object",
-      "batches": ["landscape-waters-sky-and-weather"]
+      "batches": ["landscape-waters-sky-and-weather", "ecological-systems-material-life-module-prose"]
     },
     {
       "id": "CV-LIFE-01",
@@ -1526,6 +1527,87 @@
       "summary": "Community-support system names infrastructure, support function identifies a service, and an electricity-transfer network identifies a grid. Commons vocabulary carries the social relations around each one.",
       "expressions": ["sila panoru terura", "panoru kelitho", "thewaki sekaru phaliso"],
       "batches": ["systems-shared-infrastructure-module-prose"]
+    },
+    {
+      "id": "CV-ECO-01",
+      "concept": "ecological niche, species range, and abundance",
+      "status": "compositional",
+      "placement": "Ecological relations and scoped observations",
+      "summary": "Habitat and function show one dimension of niche; dependency, resource, and interaction show others. Dwelling and boundary locate a range. Amount tied to place and time expresses abundance. One broad root would hide those choices.",
+      "expressions": ["menuro", "kelitho", "pherami", "likori norui", "liloni norui", "lorua"],
+      "batches": ["ecological-systems-material-life-module-prose"]
+    },
+    {
+      "id": "CV-ECO-02",
+      "concept": "groundwater, wetland, upstream and downstream, and infiltration",
+      "status": "compositional",
+      "placement": "Ecological water, habitat, direction, and movement expressions",
+      "summary": "Earth-water, wet-land habitat, explicit flow direction, and water entering earth keep location and process visible. Exact aquifer, wetland, recharge, and legal classes remain available beside the Phi account when their source boundary matters.",
+      "expressions": ["muila phialu", "wirua muila menuro", "phialu selu", "sekaru", "phialu muo muila koema"],
+      "batches": ["ecological-systems-material-life-module-prose"]
+    },
+    {
+      "id": "CV-ECO-03",
+      "concept": "heatwave as heat excessive for a place and period",
+      "status": "compositional",
+      "placement": "Ecological climate and duration expression",
+      "summary": "`sharoi sukaro mosha` names a period of excessive heat. Place and duration set its scope; the climate reference and affected beings explain its significance. An exact threshold stays with its source instead of becoming one universal heatwave number.",
+      "expressions": ["sharoi sukaro mosha"],
+      "batches": ["ecological-systems-material-life-module-prose"]
+    },
+    {
+      "id": "CV-ECO-04",
+      "concept": "environmental emission and pollutant",
+      "status": "compositional",
+      "placement": "Ecological and Systems pathway expressions",
+      "summary": "A released output becomes an emission when its source, agent, amount, and destination are stated. A material becomes a pollutant through demonstrated pollution, not through unexpected presence or a purity judgement alone.",
+      "expressions": ["leiro thirulo", "pesenu muralo"],
+      "batches": ["ecological-systems-material-life-module-prose"]
+    },
+    {
+      "id": "CV-ECO-05",
+      "concept": "organic matter, compost, and direct reuse",
+      "status": "compositional",
+      "placement": "Ecological material and process expressions",
+      "summary": "Living-derived material, managed decomposing garden material, and a returned input preserve three different material histories. Recycling keeps its separate transformation process. Exact compost grades and organic fractions retain their source terminology.",
+      "expressions": ["shaemu muralo", "thepalu morume muralo", "turema koewi"],
+      "batches": ["ecological-systems-material-life-module-prose"]
+    },
+    {
+      "id": "CV-ECO-06",
+      "concept": "food web and ecological carrying capacity",
+      "status": "compositional",
+      "placement": "Ecological network and conditioned-capacity expressions",
+      "summary": "An eating network keeps organisms and feeding directions available to name. Ecosystem or habitat capacity requires a population, function, period, and conditions, so neither expression turns a diagram or number into a complete ecological limit.",
+      "expressions": ["nuola phaliso", "litero henora", "menuro henora"],
+      "batches": ["ecological-systems-material-life-module-prose"]
+    },
+    {
+      "id": "CV-ECO-07",
+      "concept": "ecological indicator, forecast, and monitoring interval",
+      "status": "compositional",
+      "placement": "Ecological evidence and time expressions",
+      "summary": "A state marker remains distinct from the condition inferred through it, a future-state inference remains answerable to evidence and a model, and a monitoring period keeps its duration audible.",
+      "expressions": ["mirela siru", "wireo mirela kethira", "somethi mosha"],
+      "batches": ["ecological-systems-material-life-module-prose"]
+    },
+    {
+      "id": "CV-ECO-08",
+      "concept": "precaution, environmental justice, and authority over land or water",
+      "status": "compositional",
+      "placement": "Ecological, Commons, and Philosophical relations",
+      "summary": "Precaution begins with possible hazard and uncertainty. It also states the protective action, its burden, room for refusal, and review. Commons terms carry authority and jurisdiction as well as entitlement and obligation. Accountability and redress keep environmental justice open without letting an ecological label settle legitimacy.",
+      "expressions": ["pemaru", "karami", "norulo", "shereni", "naseru", "lothoni", "helolu"],
+      "batches": ["ecological-systems-material-life-module-prose"]
+    },
+    {
+      "id": "CV-ECO-09",
+      "concept": "exact ecological taxonomies, measurements, sites, methods, models, standards, legal classes, and attributed knowledge",
+      "status": "source-bound",
+      "placement": "ecological, scientific, legal, or community source beside a Phi analysis",
+      "summary": "Phi can name the ecological relation around an exact record and question how the record is used. Identity, method, and notation stay with the source. Provenance, authority, and restriction remain there because they make the claim recoverable.",
+      "source_rule": "Species and taxonomic names retain source form and attribution, as do chemical identities. Measurements keep their values, units, and methods; sites and samples keep identifiers and dates. Datasets, model identities, equations, and standards remain exact. Legal categories and knowledge-tradition terms stay with the sources that establish their authority, provenance, or restriction. A core or module paraphrase does not replace them when identity or contested history matters.",
+      "batches": ["ecological-systems-material-life-module-prose"]
     }
   ],
   "prompt_sources": [

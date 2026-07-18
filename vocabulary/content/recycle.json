@@ -8,12 +8,22 @@
     "lu"
   ],
   "pos": "verb",
-  "concept": "Recycle / Process Discarded Material Into New Input or Material",
-  "description": "To process discarded material into a new input or material. Recycling requires real transformation, distinct from simply reusing something as it is, and the process itself can consume energy or produce further waste along the way.",
-  "sound_symbolism": "Dental 'tu' makes the same opening contact heard in 'turema' (return). Stressed 'ke' answers with a firmer closure at the soft palate and changes the place where the mouth stops the air. Liquid 'lu' then releases the tongue into deep flow and preserves the full sound of 'kelu' (become). Return and change resonate across the word as two contacts followed by a new movement.",
-  "grammatical_notes": "A transitive verb: 'lo mia ha whemori tukelu.' (We recycle this waste.) State the process, recovered portion, inputs, outputs, losses, and next use where relevant. The event-noun rule supplies recycling. Distinct from 'turema' (return), direct reuse, 'morume' (decompose), and 'nuri' (cycle).",
+  "search_terms": [
+    "recycling",
+    "reprocess material"
+  ],
+  "description": "To 'tukelu' is to process discarded material into a new input or material. Direct reuse returns an item without this transformation, and decomposition follows biological or chemical breakdown. Recycling may still consume energy, lose material, lower quality, or create another waste stream.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into high-back rounded 'u'. Make an unvoiced velar closure for 'k' and release into stressed true-mid front 'e'. Touch the tongue tip to the alveolar ridge for 'l', release along the sides, and finish on high-back rounded 'u'.",
+  "sound_symbolism": "Dental 'tu' echoes the opening of 'turema' (return), while stressed 'kelu' preserves the full sound of 'kelu' (become). In 'tukelu' the two resonances meet as a mnemonic for material returned through actual transformation.",
+  "usage_notes": "The verb is transitive. Its event-noun use names recycling. Process, recovered portion, and added inputs describe what went in. Outputs and losses show what emerged; next use and labour complete the account.",
+  "examples": [
+    {
+      "phi": "lo mia ha whemori tukelu.",
+      "translation": "We recycle this waste."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Recycling is available as a practical material strategy without being treated as a moral absolution or a substitute for reducing harm and tracing outputs.",
+    "solarpunk-values": "Recycling is available as a practical material strategy. It does not absolve a process of harm or remove the need to trace what comes out.",
     "pre-industrial-wisdom": "Recovering and reworking material extends use through skilled transformation while acknowledging labor, loss, and limits."
   },
   "semantic_domains": {

@@ -8,10 +8,20 @@
     "wi"
   ],
   "pos": "verb",
-  "concept": "Expose / Come Into Relevant Contact With an Agent",
-  "description": "For relevant contact with an agent to occur. Exposure is the fact of contact alone; dose, toxicity, and harm are each further facts that contact by itself does not supply.",
-  "sound_symbolism": "Small 'pe' begins with a light closure of the lips. The center rolls through stressed 'ra' and crosses the distance between separate things on broad 'a'. 'Wi' rounds the lips, glides toward bright 'i', and brings the movement into a fine point of contact: approach, passage, and touch are all felt in the word.",
-  "grammatical_notes": "A transitive verb with the exposed entity as subject and the contacted agent as object: 'lo shalu ha hisophi perawi.' (The fish are exposed to this contaminant.) The event-noun rule supplies exposure. Distinct from 'palo' (touch), 'pekira' (toxic), 'pemaru' (hazard), uptake, dose, and observed harm.",
+  "search_terms": [
+    "exposure",
+    "contact with agent"
+  ],
+  "description": "To 'perawi' is to come into relevant contact with a stated agent. The word establishes exposure and stops at contact. The agent's capacity for harm belongs to 'pekira' (toxic); uptake, dose, effect, and consent require their own claims.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into true-mid front 'e'. Tap or briefly trill the tongue tip before stressed central 'a'. Round the lips and raise the back of the tongue for voiced 'w', then glide into final high-front 'i'.",
+  "sound_symbolism": "A small lip closure opens into broad stressed 'ra', then 'wi' gathers the movement to a narrow bright finish. The approach from separation to a fine point of contact can help recall the moment of encounter.",
+  "usage_notes": "The exposed being, material, or place takes subject position; the contacted agent follows as direct object. Its event-noun reading is exposure. Route and duration locate the contact; amount, uptake, permission, and effect describe what else occurred.",
+  "examples": [
+    {
+      "phi": "lo shalu ha hisophi perawi.",
+      "translation": "The fish are exposed to this contaminant."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Exposure vocabulary connects sources and pathways to affected beings while leaving amount, duration, inequality, and actual effect explicit.",
     "peace-linguistics-practices": "The term can report contact without blaming an exposed person or implying consent, weakness, or identical experience across a group."

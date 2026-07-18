@@ -8,13 +8,23 @@
     "mo"
   ],
   "pos": "noun",
-  "concept": "Drought / Prolonged Water Deficit",
-  "description": "A prolonged deficit of water relative to what a place normally expects, not merely one dry day or a climate that is naturally arid. Its severity and cause each need their own evidence.",
-  "sound_symbolism": "Velar 'ku' starts with a firm closure and releases into the deepest vowel. 'Ra' carries the stress across open 'a'; together 'ku.ra' recalls the dry contour of 'kurathi' (dry). Final 'mo' closes the lips and holds the round vowel inside. The word opens across bare space, then ends with the mouth shut around what remains.",
-  "grammatical_notes": "A countable or mass noun: 'ha thepalu kuramo phelu.' (The garden has a drought.) State the affected water condition, place, period, reference, and impacts where relevant. Distinct from 'kurathi' (dry), 'kishu' (thirsty), 'meluri' (climate), and an exact drought classification.",
+  "search_terms": [
+    "water deficit",
+    "prolonged dryness"
+  ],
+  "description": "A 'kuramo' is a prolonged shortage of water relative to what a place or living system usually receives or needs. One rainless day is dry weather, and an arid region is not perpetually in drought. The relevant period, comparison, and effects belong in the account.",
+  "articulatory_notes": "Make an unvoiced velar closure for 'k' and release it into high-back rounded 'u'. Tap or briefly trill the tongue tip for 'r', then open into stressed central 'a'. Close the lips for 'm', pass voicing through the nose, and finish on rounded mid-back 'o'.",
+  "sound_symbolism": "The opening 'kura' gives an audible echo of 'kurathi' (dry). Final 'mo' closes the lips around a rounded vowel. The word ends contained after its broad stressed centre.",
+  "usage_notes": "A speaker can count individual 'kuramo' events or discuss drought as a condition. Its scope comes from the affected place, water relation, duration, and reference condition; its consequences are a further part of the account. Source records retain exact classifications, thresholds, dates, and measurements.",
+  "examples": [
+    {
+      "phi": "ha thepalu kuramo phelu.",
+      "translation": "The garden has a drought."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Drought vocabulary supports discussion of water limits, competing needs, adaptation, and unequal burdens without treating one dry observation as the whole condition.",
-    "pre-industrial-wisdom": "Long memory of rainfall, soil, wells, streams, crops, and stored water gives drought meaning relative to a lived place."
+    "solarpunk-values": "Drought vocabulary supports discussion of water limits, competing needs, adaptation, and unequal burdens. One dry observation is only part of that condition.",
+    "pre-industrial-wisdom": "Long memory of rainfall and soil gives drought meaning relative to a lived place. Wells, streams, crops, and stored water reveal its effects."
   },
   "semantic_domains": {
     "nature": "a sustained water deficit relative to a stated reference or need",

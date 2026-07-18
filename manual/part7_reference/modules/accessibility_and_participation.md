@@ -4,7 +4,7 @@ The meeting notice arrives after the meeting has begun. The doorway opens, but t
 
 Accessibility and Participation gives Phi speakers optional words for that route: what can be reached or used, what gets in the way, how information arrives, how time is arranged, and whose direction governs support. It uses ordinary Phi grammar throughout, and a speaker who has not learned it can always ask for a core paraphrase.
 
-The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 45 words; the complete machine-generated list is available under [Accessibility and Participation in the module lexicon](../lexicon/by_module.md#accessibility-and-participation). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 30 roots. Shared classifications bring the current learning list to 46 words; the complete machine-generated list is available under [Accessibility and Participation in the module lexicon](../lexicon/by_module.md#accessibility-and-participation). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -20,7 +20,7 @@ The module begins with the words already in the room: a new access term does not
 | Safety and evidence | `shurano` safe, `pukea` danger, `masue` measure, `siru` marker, `sirami` record, `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion, `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption |
 | Material conditions | `howenu` weather, `muralo` material, `panuri` resource |
 
-Commons and Collective Governance supplies representation, roles, authority, authorization, procedure, decisions, notice, and review. Work, Craft, and Repair supplies schedules, deadlines, design, specifications, testing, capacity, and workload. Systems and Shared Infrastructure supplies interfaces, reliability, redundancy, and technical state. Medical and Bodily Care supplies health vocabulary when health is actually the subject. The base table already holds ordinary planning, records, material conditions, and abuses of power. An access need does not have to become a medical claim before any of those words can be used.
+Commons and Collective Governance supplies representation, roles, authority, authorization, procedure, decisions, notice, and review. Work, Craft, and Repair supplies schedules, deadlines, design, specifications, testing, capacity, and workload. Systems and Shared Infrastructure supplies interfaces, reliability, redundancy, and technical state. Ecological Systems and Material Life supplies `keruma` illumination when received light itself must be compared; legibility, wayfinding, comfort, and access still require the person and activity. Medical and Bodily Care supplies health vocabulary when health is actually the subject. The base table already holds ordinary planning, records, material conditions, and abuses of power.
 
 ## Disabled belongs to shared core
 

@@ -1,6 +1,6 @@
 # Medical and Bodily Care
 
-**Status:** **Established vocabulary module** with 30 roots coined here, 50 current memberships, and shared-core `lesawi` consent; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 30 roots coined here, 51 current memberships, and shared-core `lesawi` consent; ordinary Phi grammar.
 
 ## Charter
 
@@ -44,7 +44,7 @@ These are existing Phi roots and function words. The module indexes them without
 
 ## Optional Cross-Module Dependencies
 
-The established [Ecological Systems and Material Life module](ecological_systems_and_material_life.md) supplies `hisophi` contaminant, `pekira` toxic, `nomiki` concentration, `perawi` expose, `phisuri` sample, `mothami` baseline, `herani` trend, `reteru` model, and `somethi` monitor. Medical speakers may use these ordinary Phi words wherever their definitions fit, but a contaminant is not automatically an infection, toxicity is not an observed effect, exposure is not dose or uptake, an ecological sample is not automatically a clinical specimen, and monitoring does not authorize observation of a person. Exact medical classifications, methods, values, and source terms remain outside the Phi passage when their identity or precision matters.
+The established [Ecological Systems and Material Life module](ecological_systems_and_material_life.md) supplies `hisophi` contaminant, `pekira` toxic, `nomiki` concentration, `perawi` expose, `phisuri` sample, `mothami` baseline, `herani` trend, `reteru` model, `somethi` monitor, and `sumeri` temperature. Each keeps its ecological definition: a contaminant marks a relation to an expected condition, toxicity a capacity for harm, exposure contact, a sample a selected portion, and monitoring repeated observation. Clinical meaning and permission come from Medical terms and the surrounding account. Temperature identifies the parameter; `suloru` fever remains a bodily condition, and the exact reading stays in its source record.
 
 The established [Systems and Shared Infrastructure module](systems_and_shared_infrastructure.md) supplies `mirela` state, `pherami` dependency, `henora` technical capacity, `masuro` calibration, `nilaki` inspection, `koluri` reliability, `pemaru` hazard, and `kisholu` specification. Medical speakers may use these words for devices, records, supply systems, and technical procedures, but a body's capacity is not a machine rating, a clinical examination is not a technical inspection, and device reliability does not establish a clinically valid interpretation or suitable intervention.
 

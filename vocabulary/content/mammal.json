@@ -8,17 +8,22 @@
     "ke"
   ],
   "pos": "noun",
-  "concept": "Mammal / Warm-Blooded Animal / Milk-Nursing Vertebrate",
-  "description": "A warm-blooded animal that nurses its young with milk, typically bearing fur or hair. 'Moreke' names the class of creatures most closely related to humans—beings that share our warmth, our nursing bonds, our capacity for complex social life.",
-  "sound_symbolism": "The word carries mammalian warmth. 'Mo' begins with nasal closeness, the nursing bond. Then 're' rolls with warm vitality, blood-warmth flowing. Finally 'ke' defines with gentle clarity, kinship recognized.",
-  "grammatical_notes": "Functions as a noun: 'lo moreke' (mammals). A counted non-human mammal may take optional 'lipha'; a person takes optional 'himo' when classified. Includes humans, though 'miona' (person) is typically used for humans specifically. A taxonomic category useful for discussing animal groups.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Recognizing mammals as kin—sharing warmth, nursing, social bonds—extends our circle of compassion to near relatives.",
-    "pre-industrial-wisdom": "Mammals have long been human companions—as food, as helpers, as fellow social beings. Our kinship runs deep."
-  },
+  "search_terms": [
+    "milk-nursing vertebrate",
+    "mammalian animal"
+  ],
+  "description": "A 'moreke' is a mammal. This vertebrate class is defined in part by hair and milk produced for young. Whales, bats, mice, and humans all belong to it despite their very different lives. When a human being's personhood is the point, the word is 'miona' (person).",
+  "articulatory_notes": "Close the lips for 'm' and pass voicing through the nose into rounded mid-back 'o'. Tap or briefly trill the tongue tip and release into stressed true-mid front 'e'. Make an unvoiced velar closure for 'k' and finish with another true-mid front 'e'.",
+  "sound_symbolism": "Rounded 'mo' opens into the lighter turn of stressed 're' before 'ke' ends with a neat velar release. The word moves from soft enclosure to two clear contacts, a compact contour for a broad and varied class.",
+  "usage_notes": "Plural 'moreke' takes 'lo'. A numeral counting non-human mammals may be followed by 'lipha', while a person may take 'himo'. Source material keeps exact species and taxonomic names.",
+  "examples": [
+    {
+      "phi": "lo moreke whila phelu.",
+      "translation": "Mammals have hair."
+    }
+  ],
   "semantic_domains": {
-    "community": "Close animal kin",
-    "nature": "Warm-blooded nursing creatures"
+    "nature": "a vertebrate class whose defining traits include hair and milk production"
   },
   "modules": [
     "ecological-systems-and-material-life"

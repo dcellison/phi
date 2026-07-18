@@ -8,13 +8,23 @@
     "pa"
   ],
   "pos": "noun",
-  "concept": "Nutrient / Material Required or Used for Growth and Function",
-  "description": "Material required or used for a stated biological function, narrower than food in general. Naming something a nutrient is a claim about the function it serves, not a claim that more of it is automatically better.",
-  "sound_symbolism": "Deep liquid 'lu' begins in a smooth inward flow. Stressed 're' turns that flow across the tongue and gives it a living pulse. 'Pa' meets the lips in a firm final contact before opening into broad 'a'. The nutrient moves inward, circulates, and arrives where matter can take it up.",
-  "grammatical_notes": "A countable or mass noun: 'ha lurepa ha shiro thuroa panoru.' (This nutrient supports the tree's growth.) Name organism, function, form, amount, and conditions where they matter. Distinct from 'lumera' (nourish), 'nuora' (food), medicine, fertilizer, and an exact chemical name.",
+  "search_terms": [
+    "nutritive material",
+    "biological nutrient"
+  ],
+  "description": "A 'lurepa' is material required or used for a stated biological function. It is narrower than food, which may contain several nutrients and other matter. The relation depends on the organism, form, amount, and conditions; abundance can be as consequential as shortage.",
+  "articulatory_notes": "Begin with alveolar lateral 'l' and high-back rounded 'u'. Tap or briefly trill the tongue tip for 'r' and release into stressed true-mid front 'e'. Close the lips for unvoiced 'p', then open them into final central 'a'.",
+  "sound_symbolism": "Deep 'lu' turns lightly through stressed 're' before the lips gather for final 'pa'. The contour moves inward, circulates, and comes to a clear contact, an embodied echo of material taken up for use.",
+  "usage_notes": "'lurepa' works as either a count or mass noun. The organism and biological function need to be clear from the sentence or its context. Fertilizers, medicines, and exact chemical substances keep their own definitions and source identities.",
+  "examples": [
+    {
+      "phi": "ha lurepa ha shiro thuroa panoru.",
+      "translation": "This nutrient supports the tree's growth."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Nutrient language supports soil, water, food, compost, and ecological discussion while making excess and harmful movement as speakable as deficiency.",
-    "pre-industrial-wisdom": "Cultivation and land care attend to which materials feed which beings, in what form, season, place, and amount."
+    "solarpunk-values": "Nutrient language connects soil and water to food and compost. Excess and harmful movement become as speakable as deficiency.",
+    "pre-industrial-wisdom": "Cultivation and land care attend to which materials feed which beings. Form, season, place, and amount determine the practical relation."
   },
   "semantic_domains": {
     "nature": "material used or required by an organism or living process",

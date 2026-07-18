@@ -8,17 +8,28 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Forager / Gatherer / Wild Harvester",
-  "description": "One who gathers wild food; a person who harvests what nature provides. 'Nunoa' names who finds abundance—knowing where the wild feeds.",
-  "sound_symbolism": "The word seeks close to the earth. 'Nu' begins with grounded presence, the forager's attention on what is here, now, underfoot. 'Noa' settles with knowing, the quiet recognition of what the land offers. A word that stays low and attentive.",
-  "grammatical_notes": "Functions as noun: 'nunoa mua shelira nuora sholei.' (The forager gathers food in the forest.) Gathers from 'shelira' (forest) and 'pelowa' (meadow). Related to 'telo' (farmer) as gatherer to cultivator.",
+  "search_terms": [
+    "wild gatherer",
+    "wild harvester"
+  ],
+  "description": "A 'nunoa' is a person who gathers food or useful material from uncultivated land or water. The role may require close knowledge of seasons, habitats, and limits, but a particular harvest still has to show its care and restraint. 'telo' names a farmer who cultivates.",
+  "articulatory_notes": "Place the tongue tip against the upper teeth for dental 'n', keep voicing through the nose, and move into high-back rounded 'u'. Repeat dental 'n' for the stressed syllable and round into mid-back 'o'. Let final central 'a' follow in hiatus as a separate syllable.",
+  "sound_symbolism": "The two dental nasals keep 'nunoa' close and quiet before the final vowel opens. Its low, unhurried contour can recall attentive searching near the ground or waterline.",
+  "usage_notes": "The noun names a role or practice, not a legal right to gather. Place and material describe the setting. Permission, method, season, and ecological consequence describe the particular act.",
+  "examples": [
+    {
+      "phi": "nunoa mua shelira nuora sholei.",
+      "translation": "The forager gathers food in the forest."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Wild harvest—sustainable gathering that supports rather than depletes.",
-    "pre-industrial-wisdom": "Forager as knower—deep knowledge of what the land offers freely."
+    "solarpunk-values": "Foraging joins food practice to habitat knowledge while keeping access, restraint, replenishment, and ecological consequence open to scrutiny.",
+    "pre-industrial-wisdom": "Seasonal gathering depends on practical knowledge of where beings grow, when they can be taken, and what must be left."
   },
   "semantic_domains": {
-    "community": "Gathering role",
-    "nature": "Wild harvesting"
+    "activity": "gathering food or useful material from uncultivated places",
+    "community": "a role shaped by access, knowledge, permission, and shared practice",
+    "nature": "harvest in direct relation to habitats and seasonal growth"
   },
   "modules": [
     "ecological-systems-and-material-life",

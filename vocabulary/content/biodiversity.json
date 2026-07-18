@@ -8,13 +8,23 @@
     "ma"
   ],
   "pos": "noun",
-  "concept": "Biodiversity / Living Variation Within a Selected Scope",
-  "description": "Living variation within a stated scope, and the scope always has to be named: species richness, abundance, and genetic variation measure different things and rarely move together. A claim that biodiversity is rich or declining is only as strong as the place, time, and measure behind it.",
-  "sound_symbolism": "Bilabial breath and bright 'i' begin 'phi' and recall the airy difference heard at the start of 'phirae' (different). The stress flows through liquid 'li' before final 'ma' closes at the lips and opens onto broad 'a'. The whole contour also brushes against 'lima' (alive), but as resonance rather than assembly. Difference breathes first, life moves through the center, and the living field settles into matter.",
-  "grammatical_notes": "A mass noun commonly possessed by a place, habitat, or ecosystem: 'ha menuro philima simoe nai.' (This habitat's biodiversity is rich.) State scope and measure for scientific comparison, and preserve exact indices in a separate source record. Distinct from 'phirae' (different), species count, abundance, and ecological condition.",
+  "search_terms": [
+    "biological diversity",
+    "living variation"
+  ],
+  "description": "'philima' is variation among living beings within a stated scope. Species richness, relative abundance, genetic variation, and ecological function each reveal a different part of biodiversity, so the measure belongs beside the claim. More biodiversity does not automatically mean better ecological condition under every comparison.",
+  "articulatory_notes": "Bring the lips close without sealing them for unvoiced 'ph' and continue the breath into high-front 'i'. Touch the tongue tip to the alveolar ridge for 'l', release along the sides, and hold stressed high-front 'i'. Close the lips for 'm', pass voicing through the nose, and open into central 'a'.",
+  "sound_symbolism": "Breathy 'phi' flows through stressed liquid 'li' before final 'ma' gathers the sound at the lips. The word brushes against 'phirae' (different) and 'lima' (alive) by sound alone. That resemblance is an audible mnemonic for living variation.",
+  "usage_notes": "Usually mass-like, 'philima' is commonly tied to a place, habitat, or ecosystem. Biological level and place travel with the claim. Time, method, and comparison travel alongside them. Exact indices, taxonomies, and source classifications stay in their records.",
+  "examples": [
+    {
+      "phi": "ha menuro philima simoe nai.",
+      "translation": "This habitat's biodiversity is rich."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Biodiversity vocabulary supports discussion of living variation while preventing a green label from substituting for a stated measure or actual ecological consequence.",
-    "secular-buddhist-philosophy": "The concept values difference without turning a selected classification or momentary inventory into a permanent essence of a place."
+    "secular-buddhist-philosophy": "The concept values difference while treating every classification and inventory as a view taken for a purpose, not the permanent essence of a place."
   },
   "semantic_domains": {
     "cognition": "a scoped and measured account of living variation",

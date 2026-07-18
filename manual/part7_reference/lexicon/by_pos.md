@@ -308,7 +308,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (570)
+## noun (573)
 
 | Word | Gloss |
 |---|---|
@@ -368,6 +368,7 @@
 | `kerithe` | ice |
 | `kerone` | peninsula |
 | `kerou` | stone |
+| `keruma` | illumination |
 | `kesho` | middle |
 | `keshoa` | reptile |
 | `kewati` | thorn |
@@ -756,6 +757,7 @@
 | `suliwa` | snake |
 | `sulopa` | soup |
 | `suloru` | fever |
+| `sumeri` | temperature |
 | `sunai` | health |
 | `suro` | rope |
 | `takori` | load |
@@ -869,6 +871,7 @@
 | `whilaru` | comb |
 | `wilemo` | toy |
 | `wiloru` | dizziness |
+| `wimura` | humidity |
 | `wira` | window |
 | `wirae` | spring (season) |
 | `wiralu` | runoff |

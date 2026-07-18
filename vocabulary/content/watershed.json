@@ -8,10 +8,20 @@
     "no"
   ],
   "pos": "noun",
-  "concept": "Watershed / Land Area Draining to a Shared Outlet",
-  "description": "Land that drains toward a shared outlet, defined by the water's own path rather than any political line drawn across it. Its outlet and scale decide which slopes and channels belong to it.",
-  "sound_symbolism": "Deep liquid 'lu' begins like water already moving downhill. Stressed 'pha' spreads bilabial breath across broad 'a', the current opening over a wider slope. Dental 'no' closes in a rounded basin where the contour runs, spreads, and settles with many small paths meeting.",
-  "grammatical_notes": "A countable noun: 'ha luphano ha luphore panoru.' (This watershed supports the river.) Use 'luphano norui' for the selected drainage boundary and name the outlet and scale where needed. Distinct from 'luphore' (river), 'thula' (spring), a political territory, and an exact catchment definition from a source.",
+  "search_terms": [
+    "drainage basin",
+    "catchment"
+  ],
+  "description": "A 'luphano' is the land from which water drains toward a shared outlet. The outlet and chosen scale decide which slopes, channels, soils, and built surfaces belong to the watershed. Its boundary follows drainage for the present analysis, not ownership or jurisdiction.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and release along the sides into high-back rounded 'u'. Bring the lips close without sealing them for unvoiced 'ph', continue the air into stressed central 'a', then place the tongue tip against the upper teeth for dental 'n' and finish with rounded mid-back 'o'.",
+  "sound_symbolism": "Deep 'lu' moves into the open breath of stressed 'pha' before dental 'no' gathers the word into a rounded end. Its widening and settling motion resembles many small water paths meeting at one outlet.",
+  "usage_notes": "'luphano' is countable, and 'luphano norui' identifies the selected drainage boundary. The outlet and scale show which watershed is meant. Exact mapped, legal, or scientific definitions stay with their sources.",
+  "examples": [
+    {
+      "phi": "ha luphano ha luphore panoru.",
+      "translation": "This watershed supports the river."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Watershed language connects upstream land choices with shared downstream water while leaving governance, evidence, and responsibility explicit.",
     "pre-industrial-wisdom": "Communities have long read slopes, channels, soils, and seasonal water together rather than treating a river as isolated from its land."

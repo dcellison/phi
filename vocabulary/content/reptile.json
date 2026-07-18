@@ -8,17 +8,22 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Reptile / Scaled Cold-Blooded Creature / Ancient Lineage Being",
-  "description": "A cold-blooded, scaly animal that typically lays eggs on land. 'Keshoa' names the ancient lineage of snakes, lizards, turtles, and crocodilians—beings whose ancestors walked the earth long before mammals, carrying deep time in their patient presence.",
-  "sound_symbolism": "The word moves with reptilian patience. 'Ke' begins with velar contact, scales touching earth. Then 'sho' /ʃo/ slides with hushing stealth, the reptile's quiet movement. Finally 'a' opens to stillness, the patient wait.",
-  "grammatical_notes": "Functions as a noun. Plural with 'lo': 'lo keshoa' (reptiles). A counted reptile may take optional living classifier 'lipha'. Includes snakes, lizards, turtles, crocodiles. Compare 'moreke' (mammal) and 'teluno' (amphibian).",
-  "pillars": {
-    "secular-buddhist-philosophy": "The reptile's stillness and patience offer a teaching—not all action requires speed, not all presence requires motion.",
-    "pre-industrial-wisdom": "Reptiles represent ancient lineages and earth connection—beings that bask in sun and move with patient deliberation."
-  },
+  "search_terms": [
+    "scaled vertebrate",
+    "ectotherm"
+  ],
+  "description": "A 'keshoa' is a reptile: an ectothermic member of the vertebrate class that includes snakes, lizards, turtles, and crocodilians. Scales and life on land are common, but the class also contains aquatic species and some whose young are born alive. 'moreke' names mammals, and 'teluno' amphibians.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into true-mid front 'e'. Raise the tongue near the postalveolar region for unvoiced 'sh', send air through the narrow channel, and round into stressed mid-back 'o'. Let final central 'a' follow in hiatus as its own syllable.",
+  "sound_symbolism": "The hush of stressed 'sho' stretches between the clean opening stop and the final open vowel. The unhurried release can recall an animal resting almost invisibly before it moves.",
+  "usage_notes": "'keshoa' counts normally and uses 'lo' for plural. After a numeral, 'lipha' may classify it as living. Its source record carries the exact species or taxonomic name.",
+  "examples": [
+    {
+      "phi": "ha keshoa mua ha kerou sulae nai.",
+      "translation": "This reptile is warm on the stone."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Ancient cold-blooded creatures",
-    "temporal": "Deep time lineage"
+    "nature": "a major vertebrate class that includes snakes, lizards, turtles, and crocodilians"
   },
   "modules": [
     "ecological-systems-and-material-life"

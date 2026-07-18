@@ -1,6 +1,6 @@
 # Ecological Systems and Material Life
 
-**Status:** **Established vocabulary module** with 27 module roots coined here, 52 current memberships, and base-vocabulary `howenu` weather, `muralo` material, and `panuri` resource; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 30 module roots coined here, 55 current memberships, and base-vocabulary `howenu` weather, `muralo` material, and `panuri` resource; ordinary Phi grammar.
 
 ## Charter
 
@@ -65,6 +65,16 @@ The first pass admits 27 optional roots for recurring ecological distinctions an
 | Observation and interpretation | `phisuri` sample, `mothami` baseline, `herani` trend, `reteru` model, `somethi` monitor | Sample versus example or evidence; baseline versus original or ideal state; trend versus cause or forecast; model versus represented reality; monitoring versus one observation, inspection, proof, or surveillance. |
 
 All 30 roots established in this pass follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, pass the lexical validator, and have no character edit-distance-one or flagged existing phonetic neighbors in the pre-coinage audit. Twenty-seven carry `ecological-systems-and-material-life`; `howenu`, `muralo`, and `panuri` carry no module field and remain in base vocabulary.
+
+## Current prose and completeness pass
+
+The target-prose review migrates every inherited Ecological entry and returns to the questions preserved by the base and Systems campaigns. Three optional nouns now identify environmental parameters that a monitoring account needs to compare without borrowing a felt quality for the job. The exact reading still sits beside the Phi passage. Its scale and unit remain under its solemn care.
+
+| Family | Roots added in this pass | What the pass now distinguishes |
+|---|---|---|
+| Environmental parameters | `sumeri` temperature, `wimura` humidity, `keruma` illumination | A neutral thermal condition from hot, warm, cool, or cold judgement; water vapour in air from a wet surface or damp feeling; light received at a place or surface from the brightness or radiance of its source. |
+
+`sumeri` also joins Medical and Systems, `wimura` joins Systems, and `keruma` joins Accessibility and Systems. These memberships give each learning path the parameter it genuinely uses; they do not create a second definition. Exact measurements and instrument records retain their source form.
 
 ## Concepts Kept Compositional
 

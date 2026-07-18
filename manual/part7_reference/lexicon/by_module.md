@@ -10,7 +10,7 @@
 
 ## Accessibility and Participation
 
-*45 words in this learning path.*
+*46 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -20,6 +20,7 @@
 | `hinawu` | accommodate | verb |
 | `kanuro` | decision | noun |
 | `kelasu` | usable | adjective |
+| `keruma` | illumination | noun |
 | `koluri` | reliable | adjective |
 | `kopharu` | barrier | noun |
 | `lokane` | accessible | adjective |
@@ -120,7 +121,7 @@
 
 ## Ecological Systems and Material Life
 
-*52 words in this learning path.*
+*55 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -129,6 +130,7 @@
 | `hisophi` | contaminant | noun |
 | `hosari` | correlation | noun |
 | `hoshemi` | hypothesis | noun |
+| `keruma` | illumination | noun |
 | `keshoa` | reptile | noun |
 | `koewi` | input | noun |
 | `kuramo` | drought | noun |
@@ -164,6 +166,7 @@
 | `shaemu` | organic | adjective |
 | `somethi` | monitor | verb |
 | `soneho` | tradeoff | noun |
+| `sumeri` | temperature | noun |
 | `telo` | farmer | noun |
 | `teluno` | amphibian | noun |
 | `terura` | system | noun |
@@ -174,6 +177,7 @@
 | `turelo` | feedback | noun |
 | `whemori` | waste | noun |
 | `wheraku` | erode | verb |
+| `wimura` | humidity | noun |
 | `wiralu` | runoff | noun |
 | `wuneri` | variable | noun |
 
@@ -230,7 +234,7 @@
 
 ## Medical and Bodily Care
 
-*50 words in this learning path.*
+*51 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -273,6 +277,7 @@
 | `sonari` | isolate | verb |
 | `soranu` | screen | verb |
 | `suloru` | fever | noun |
+| `sumeri` | temperature | noun |
 | `teshori` | quarantine | verb |
 | `thekamu` | intervene | verb |
 | `thelai` | balm | noun |
@@ -318,7 +323,7 @@
 
 ## Systems and Shared Infrastructure
 
-*47 words in this learning path.*
+*50 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -328,6 +333,7 @@
 | `hosari` | correlation | noun |
 | `hoshemi` | hypothesis | noun |
 | `kelitho` | function | verb |
+| `keruma` | illumination | noun |
 | `ketora` | control | verb |
 | `kiphira` | fault | noun |
 | `kirowi` | signal | noun |
@@ -360,6 +366,7 @@
 | `sephaki` | current | noun |
 | `somaki` | test | verb |
 | `somethi` | monitor | verb |
+| `sumeri` | temperature | noun |
 | `takori` | load | noun |
 | `terura` | system | noun |
 | `thewaki` | electricity | noun |
@@ -368,6 +375,7 @@
 | `thosami` | compatible | adjective |
 | `turelo` | feedback | noun |
 | `wepanu` | redundant | adjective |
+| `wimura` | humidity | noun |
 | `wuneri` | variable | noun |
 
 ## Work, Craft, and Repair
