@@ -85,11 +85,13 @@ The pass keeps requests, offers, work sequences, completion criteria, job and pr
 
 This domain also exposes a semantic risk rather than a simple absence: `riola`, `theko`, `molawi`, `wenola`, `pheloma`, `seru`, and `thonai` frame work, service, cooperation, commitment, or responsibility positively or voluntarily. The new `rimawu` drudgery, `pilora` exploitation, and neutral work-organization terms make criticism more direct, while base `kawhera` coercion and `whepelo` retaliation and explicit bodily, safety, authority, and obligation clauses remain necessary.
 
-### Medical and bodily care: first pass complete
+### Medical and bodily care: current prose complete
 
 The [Medical and Bodily Care module](../modules/medical_and_bodily_care.md) now establishes 30 optional terms for symptoms, clinical findings, injuries, diseases, infections, inflammation, fever, acute and chronic course, severity, diagnosis, prognosis, screening, treatment, interventions, doses, side and adverse effects, allergy, contraindication, recovery, relapse, transmission, contagiousness, outbreaks, immunity, vaccination, isolation, quarantine, and triage. The pass also adds `lesawi` consent to shared core because autonomy vocabulary should not be optional medical knowledge.
 
-The pass keeps informed consent as an explicit process. Tests and thresholds retain their evidence; procedures, therapies, prescriptions, and medicine identities retain their exact sources. Course and care relations compose across modules, as do clinical roles and public-health categories when no exact identity is at stake. `CV-MED-SENSITIVE-01` keeps mental health, reproductive health, sexuality, gender, abuse, and coercive care scenario-gated. Disability and environmental access remain coordinated with Accessibility rather than being absorbed into disease vocabulary.
+All 31 inherited Medical entries now follow the target prose contract. The completeness review adds no root. Ordinary Phi and the established module can already describe wounds and first aid, bowel or bladder changes, surface findings, examinations, follow-up, emergency need, chronic care, and treatment response without losing the person, body part, method, or change inside a new label.
+
+Exact vital signs, procedures, medicine identities, and public-health classifications retain their sources. The review also keeps a return condition for sudden loss of consciousness or control, where emergency scenarios may yet earn a direct event word. `CV-MED-SENSITIVE-01` continues to hold mental health, reproductive health, sexuality, gender, abuse, and coercive care for dedicated scenarios. Disability and environmental access remain coordinated with Accessibility rather than being absorbed into disease vocabulary.
 
 ### Accessibility and participation: first pass complete
 

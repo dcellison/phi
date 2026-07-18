@@ -8,13 +8,22 @@
     "ki"
   ],
   "pos": "noun",
-  "concept": "Prognosis / Conditional Claim About an Expected Health Course",
-  "description": "A conditional claim about the expected course of a health condition, resting on a stated time horizon, the available evidence, and the care that is actually available. Population evidence can inform one person's prognosis without ever dictating it, and the word never speaks as a sentence passed on a life.",
-  "sound_symbolism": "Bright 'wi' slips inward from rounded lips. Stressed 're' turns the tongue through balanced 'e', then final 'ki' closes crisply at the velum and returns to bright 'i'. The repeated high vowel frames one liquid turn before the word ends at a precise point.",
-  "grammatical_notes": "A countable or mass noun according to context: 'shia ha wireki lilea.' (They clarify the prognosis.) State the condition, time horizon, evidence, assumptions, alternatives, and uncertainty where relevant. Distinct from 'kithero' (diagnose), 'kethira' (infer), 'remuma' (conclusion), 'reteru' (model), and a guaranteed future.",
+  "search_terms": [
+    "expected health course",
+    "clinical outlook"
+  ],
+  "description": "A 'wireki' is a conditional clinical claim about the expected course or outcome of a health condition. It rests on current evidence, assumptions, a time horizon, and the care actually available. Evidence from a population may inform one person's prognosis without dictating their future.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then move the tongue forward and unround into high-front 'i'. Make a tap or short trill with the tongue tip and continue into stressed true-mid front unrounded 'e'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'.",
+  "usage_notes": "A count picks out one prognosis. Bare 'wireki' discusses prognosis as part of care. Its condition and time horizon set the question; evidence and assumptions support the answer. Alternatives and uncertainty give the claim its bounds. 'kithero' (diagnose) concerns the present clinical conclusion instead of this expected course.",
+  "examples": [
+    {
+      "phi": "shia ha wireki lilea.",
+      "translation": "They clarify the prognosis."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "A prognosis describes conditioned possibilities rather than a fixed self or certain future, leaving room for change without denying present evidence.",
-    "peace-linguistics-practices": "Explicit uncertainty and assumptions prevent population estimates or professional authority from becoming destiny for one person."
+    "secular-buddhist-philosophy": "A prognosis describes conditioned possibilities rather than a fixed self or certain future.",
+    "peace-linguistics-practices": "Stated assumptions and uncertainty keep a population estimate from becoming destiny for one person."
   },
   "semantic_domains": {
     "cognition": "a conditional inference about a health course",

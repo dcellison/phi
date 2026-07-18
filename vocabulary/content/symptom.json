@@ -8,13 +8,23 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Symptom / Bodily or Mental Experience Reported by a Person",
-  "description": "A bodily or mental experience reported by the person living it, in their own words, including their uncertainty and how it changes over time. A symptom is theirs to describe; someone else may listen, ask, and record, but observation never becomes ownership of the experience. Its clinical counterpart is 'hisaro' (clinical finding), what a method observed rather than what a person felt.",
-  "sound_symbolism": "Bilabial breath spreads through broad 'pha'. Stressed 'mo' closes the lips into a warm nasal hum and round 'o'. Final 'ri' brings the tongue forward for a light tap and bright 'i'. Air gathers into the deepest chamber, then leaves one quick clear trace.",
-  "grammatical_notes": "A countable noun: 'mia ha phamori thelima.' (I describe this symptom.) Preserve the person's own report and state location, onset, duration, change, and context where relevant. Distinct from 'phaelo' (feel), 'kipona' (pain), 'mokela' (sick), 'hisaro' (clinical finding), and 'kithero' (diagnose).",
+  "search_terms": [
+    "reported symptom",
+    "felt health experience"
+  ],
+  "description": "A 'phamori' is a bodily or mental experience reported by the person living it, in their own words and with whatever uncertainty remains. Another person may listen or record the account, but the experience still belongs to the one who feels it. 'hisaro' (clinical finding) begins with a stated method rather than a first-person report, and neither one automatically settles a diagnosis.",
+  "articulatory_notes": "Bring the lips close without involving the teeth for unvoiced bilabial 'ph', let air pass between them, and open into central 'a'. Close the lips for voiced 'm', carry the sound through the nose, and round into stressed true-mid back 'o'. Make a tap or short trill with the tongue tip and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The opening bilabial breath echoes 'phaelo' (feel), giving the reported experience an audible neighbour in Phi. The relation is phonesthetic rather than a productive piece of word formation.",
+  "usage_notes": "Distinct symptoms are countable. Location and onset can follow the first-person report; duration, change, and context may follow when useful. The word itself requires no clinical explanation. General 'phaelo' reports feeling, while 'phamori' places that experience in a health account.",
+  "examples": [
+    {
+      "phi": "mia ha phamori thelima.",
+      "translation": "I describe this symptom."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Attending carefully to present bodily experience can support honest observation without turning the experience into an identity or predetermined explanation.",
-    "peace-linguistics-practices": "Separating a person's symptom report from an observer's finding protects testimony from being overwritten by measurement or authority."
+    "secular-buddhist-philosophy": "Careful attention can describe a present bodily experience without turning it into an identity or predetermined explanation.",
+    "peace-linguistics-practices": "The person's report remains evidence in its own right rather than being overwritten by measurement or authority."
   },
   "semantic_domains": {
     "cognition": "a noticed and reported health-relevant experience",

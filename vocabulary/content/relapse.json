@@ -8,13 +8,23 @@
     "shi"
   ],
   "pos": "verb",
-  "concept": "Relapse / Return or Worsening After Improvement in the Same Course",
-  "description": "A return or worsening after improvement, within the same understood course. The word names a road doubling back; it carries no blame, and it does not erase whatever ground was gained before the return.",
-  "sound_symbolism": "Low 'mo' hums behind closed lips before stressed 'ra' rolls the tongue into broad 'a'. Final 'shi' narrows that openness to a hush and bright 'i'. The word swells in its center and returns to a finer, sharper stream at the end.",
-  "grammatical_notes": "An intransitive verb: 'shia to morashi.' (They relapsed.) The event-noun rule supplies a relapse. State the returning condition, prior improvement, timing, evidence, and uncertainty where relevant. Distinct from 'helanu' (recover), 'turema' (return), 'nurawi' (chronic), an ordinary setback, and a new diagnosis.",
+  "search_terms": [
+    "condition returns",
+    "worsen after improvement"
+  ],
+  "description": "A health condition 'morashi' when it returns or worsens after improvement within the same understood course. The word connects the change to that course without blaming the person or erasing the improvement that came before it. A new condition or an ordinary setback needs its own account rather than being folded into relapse.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the sound through the nose, and open into true-mid rounded back 'o'. Make a tap or short trill with the tongue tip and open into stressed central 'a'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh', pass air through its central groove, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The word opens in a rounded hum, broadens at its stressed centre, then narrows into final 'shi'. That turn back towards a finer channel can recall a course reversing after improvement.",
+  "usage_notes": "Intransitive 'morashi' also supplies the event noun relapse. The condition and earlier improvement identify the course; timing and evidence locate its return. 'nurawi' (chronic) describes persistence or recurrence across a duration rather than this particular reversal.",
+  "examples": [
+    {
+      "phi": "shia to morashi.",
+      "translation": "They relapsed."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "A changing course can turn without making prior effort meaningless or defining the person by recurrence.",
-    "peace-linguistics-practices": "Removing blame from relapse supports honest reporting, continued care, and revision rather than punishment or shame."
+    "secular-buddhist-philosophy": "A changing course can turn without making earlier effort or improvement unreal.",
+    "peace-linguistics-practices": "Removing blame from relapse supports honest reporting and continued care instead of shame."
   },
   "semantic_domains": {
     "physical": "return or worsening of a health condition after improvement",

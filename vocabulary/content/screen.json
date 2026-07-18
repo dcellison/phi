@@ -8,17 +8,26 @@
     "nu"
   ],
   "pos": "verb",
-  "concept": "Screen / Apply a Health Check to Identify Possible Need for Evaluation",
-  "description": "To apply a health check across a population to identify who might need closer evaluation, often before any diagnosis. A screening has a stated purpose, a method, and a path for what happens after, and taking part in one is a choice, not an obligation.",
-  "sound_symbolism": "A fine hiss rounds into 'so'. Stressed 'ra' rolls the tongue and opens the word across broad 'a', then final 'nu' settles at the teeth in deep nasal resonance. One central turn widens the sound before it closes low and steady.",
-  "grammatical_notes": "A transitive verb: 'shia lo miona soranu.' (They screen people.) State the participants, purpose, method, possible results, consent, access, and follow-up where relevant. The event-noun rule supplies screening. Distinct from 'somaki' (test), 'nilaki' (inspect), 'hisaro' (clinical finding), 'kithero' (diagnose), and 'somethi' (monitor).",
+  "search_terms": [
+    "health screening",
+    "screening check"
+  ],
+  "description": "A health programme or care participant 'soranu' a person or selected population to identify possible need for closer evaluation. Screening commonly comes before diagnosis and may involve someone who has reported no symptom. A screen can point towards another test or conversation; it cannot draw the clinical conclusion by itself.",
+  "articulatory_notes": "Send unvoiced air through a narrow groove along the tongue for 's', then round the lips into true-mid back 'o'. Make a tap or short trill with the tongue tip for 'r' and open into stressed central 'a'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with high-back rounded 'u'.",
+  "usage_notes": "The screened person or population is the object; noun 'soranu' gives screening. Its purpose and method frame the possible results. Access and the follow-up path complete the account, while participation remains the person's choice.",
+  "examples": [
+    {
+      "phi": "shia lo miona soranu.",
+      "translation": "They screen people."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Separating screening from diagnosis, surveillance, and obligation keeps a preventive offer from silently becoming institutional control."
+    "peace-linguistics-practices": "A screening offer remains apart from diagnosis and obligation, leaving participation and follow-up open to an explicit answer."
   },
   "semantic_domains": {
     "activity": "a systematic health check with a stated follow-up path",
     "cognition": "identifying possible need for further evaluation",
-    "community": "a health practice applied to stated participants or populations"
+    "community": "a health practice offered to selected people or populations"
   },
   "modules": [
     "medical-and-bodily-care"

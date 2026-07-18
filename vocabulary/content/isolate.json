@@ -8,18 +8,27 @@
     "ri"
   ],
   "pos": "verb",
-  "concept": "Isolate / Separate a Known or Suspected Infectious Source",
-  "description": "To separate a source already known or suspected of carrying infection. Isolation asks for a stated duration and real support behind it; its cousin 'teshori' (quarantine) is for uncertainty rather than a known source.",
-  "sound_symbolism": "Rounded 'so' begins with a controlled hiss. Stressed 'na' replaces breath with a dental nasal and opens into broad 'a'. Final 'ri' loosens that contact into a tap and bright 'i'. Three distinct textures meet around the clear opening at the center.",
-  "grammatical_notes": "A transitive or reflexive verb: 'shia miso sonari.' (They isolate themselves.) State the source, pathway, place, duration, support, consent, authority, and review where relevant. The event-noun rule supplies isolation. Distinct from 'teshori' (quarantine), 'sonu' (alone), 'shorupo' (protect), 'kawhera' (coerce), and exclusion as punishment.",
+  "search_terms": [
+    "infection isolation",
+    "separate infectious carrier"
+  ],
+  "description": "A care participant or affected person 'sonari' someone or something by separating a known or suspected carrier from possible transmission pathways. 'teshori' (quarantine) begins with possible exposure while carriage remains uncertain. Isolation can be protective, yet the word itself grants no authority and promises no support.",
+  "articulatory_notes": "Send unvoiced air through a narrow groove along the tongue for 's', then round into true-mid back 'o'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and open into stressed central 'a'. Make a tap or short trill with the tongue tip and finish with high-front unrounded 'i'.",
+  "usage_notes": "Both transitive and reflexive use are available; isolation is the event noun. The account identifies the agent and pathway, then the place and duration. Practical support and consent stay outside the verb, alongside the institutional decision and review. Punishment or abandonment must be named for what it is.",
+  "examples": [
+    {
+      "phi": "shia miso sonari.",
+      "translation": "They isolate themselves."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Protective separation requires material support, communication, care, and shared responsibility rather than merely removing a person from community life.",
-    "peace-linguistics-practices": "Separating isolation from punishment, authority, and abandonment makes both protection and coercion available for explicit scrutiny."
+    "solarpunk-values": "Protective separation asks a community to maintain care and communication rather than merely remove someone from shared life.",
+    "peace-linguistics-practices": "Isolation remains distinct from punishment, authority, and abandonment, which keeps coercion available for direct scrutiny."
   },
   "semantic_domains": {
-    "activity": "separating a possible infectious source from transmission pathways",
+    "activity": "separating a known or suspected carrier from transmission pathways",
     "community": "a protective relation requiring support and review",
-    "spatial": "a bounded separation between a source and possible hosts",
+    "spatial": "a bounded separation between a carrier and possible hosts",
     "temporal": "separation for a stated period"
   },
   "modules": [

@@ -60,7 +60,8 @@
     {"id": "systems-shared-infrastructure-module-prose", "heading": "Systems and Shared Infrastructure module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-01", "CV-MEAS-05", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ENERGY-01", "CV-ENERGY-02", "CV-ENERGY-03", "CV-ENERGY-04", "CV-SYSTEMS-03", "CV-SYSTEMS-04", "CV-SYSTEMS-05", "CV-SYSTEMS-06", "CV-SYSTEMS-07", "CV-SYSTEMS-08", "CV-SYSTEMS-09", "CV-NET-02"]},
     {"id": "ecological-systems-material-life-module-prose", "heading": "Ecological Systems and Material Life module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-01", "CV-MEAS-05", "CV-WATER-02", "CV-SKY-02", "CV-LAND-03", "CV-SKY-03", "CV-ECO-01", "CV-ECO-02", "CV-ECO-03", "CV-ECO-04", "CV-ECO-05", "CV-ECO-06", "CV-ECO-07", "CV-ECO-08", "CV-ECO-09"]},
     {"id": "commons-collective-governance-module-prose", "heading": "Commons and Collective Governance module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-ACCESS-01", "CV-PHIL-09", "CV-ECON-01", "CV-JUST-01", "CV-RESOURCE-01", "CV-ROLE-01", "CV-SECRET-01", "CV-SYSTEMS-09", "CV-ECO-08", "CV-COMMONS-01", "CV-COMMONS-02", "CV-COMMONS-03", "CV-COMMONS-04", "CV-COMMONS-05", "CV-COMMONS-06", "CV-COMMONS-07", "CV-COMMONS-08", "CV-COMMONS-09", "CV-COMMONS-10", "CV-COMMONS-11"]},
-    {"id": "household-daily-life-module-prose", "heading": "Household and Daily Life module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-CLEAN-01", "CV-FOOD-01", "CV-FOOD-02", "CV-ECON-01", "CV-CULT-01", "CV-MAT-09", "CV-DWELL-01", "CV-DWELL-02", "CV-DWELL-03", "CV-DWELL-04", "CV-DWELL-05", "CV-TOOL-01", "CV-MESH-01", "CV-ENERGY-01", "CV-RESOURCE-01", "CV-ENERGY-04", "CV-COMMONS-04", "CV-HOUSE-01", "CV-HOUSE-02", "CV-HOUSE-03", "CV-HOUSE-04", "CV-HOUSE-05", "CV-HOUSE-06", "CV-HOUSE-07", "CV-HOUSE-08", "CV-HOUSE-09"]}
+    {"id": "household-daily-life-module-prose", "heading": "Household and Daily Life module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-CLEAN-01", "CV-FOOD-01", "CV-FOOD-02", "CV-ECON-01", "CV-CULT-01", "CV-MAT-09", "CV-DWELL-01", "CV-DWELL-02", "CV-DWELL-03", "CV-DWELL-04", "CV-DWELL-05", "CV-TOOL-01", "CV-MESH-01", "CV-ENERGY-01", "CV-RESOURCE-01", "CV-ENERGY-04", "CV-COMMONS-04", "CV-HOUSE-01", "CV-HOUSE-02", "CV-HOUSE-03", "CV-HOUSE-04", "CV-HOUSE-05", "CV-HOUSE-06", "CV-HOUSE-07", "CV-HOUSE-08", "CV-HOUSE-09"]},
+    {"id": "medical-bodily-care-module-prose", "heading": "Medical and Bodily Care module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-01", "CV-TASTE-01", "CV-SENS-01", "CV-CLEAN-01", "CV-NAUSEA-01", "CV-BREATH-01", "CV-SWELL-01", "CV-MED-01", "CV-MED-02", "CV-MED-SENSITIVE-01", "CV-BODY-08", "CV-BODY-09", "CV-REPRO-01", "CV-HOUSE-07", "CV-ROLE-01", "CV-WORK-01", "CV-MED-03", "CV-MED-04", "CV-MED-05", "CV-MED-06", "CV-MED-07", "CV-MED-08", "CV-MED-09", "CV-MED-10", "CV-MED-11", "CV-MED-12", "CV-MED-13", "CV-MED-14", "CV-MED-15", "CV-MED-16"]}
   ],
   "candidates": [
     {
@@ -124,7 +125,7 @@
       "placement": "Ecological, Systems, Medical, and Accessibility learning paths according to meaning",
       "summary": "`sumeri`, `wimura`, and `keruma` identify temperature, humidity, and illumination as conditions that can be compared or monitored. Everyday hot, wet, and bright qualities keep their felt meanings. Exact measurements and instrument records retain their source form.",
       "implementation": {"words": ["sumeri", "wimura", "keruma"], "files": ["vocabulary/content/temperature.json", "vocabulary/content/humidity.json", "vocabulary/content/illumination.json"]},
-      "batches": ["environmental-and-spatial-qualities", "systems-shared-infrastructure-module-prose", "ecological-systems-material-life-module-prose"]
+      "batches": ["environmental-and-spatial-qualities", "systems-shared-infrastructure-module-prose", "ecological-systems-material-life-module-prose", "medical-bodily-care-module-prose"]
     },
     {
       "id": "CV-MEAS-02",
@@ -169,7 +170,7 @@
       "placement": "culinary or Medical use, with exact taxonomies source-bound",
       "summary": "Ordinary flavours can use source nouns and response clauses without pretending that one scientific inventory is universal.",
       "revisit_when": "connected culinary or medical writing repeatedly needs a stable taste distinction beyond source description",
-      "batches": ["sensory-and-perceptual-qualities"]
+      "batches": ["sensory-and-perceptual-qualities", "medical-bodily-care-module-prose"]
     },
     {
       "id": "CV-SENS-01",
@@ -178,7 +179,7 @@
       "placement": "base",
       "summary": "A person can name four familiar sensations before anyone adds a broader bodily condition or clinical conclusion.",
       "implementation": {"words": ["sikoru", "numaro", "tiphori", "wiloru"], "files": ["vocabulary/content/itch.json", "vocabulary/content/numbness.json", "vocabulary/content/tingling.json", "vocabulary/content/dizziness.json"]},
-      "batches": ["sensory-and-perceptual-qualities", "body-anatomy-and-bodily-condition", "recovered-cross-inventory-prompts"]
+      "batches": ["sensory-and-perceptual-qualities", "body-anatomy-and-bodily-condition", "recovered-cross-inventory-prompts", "medical-bodily-care-module-prose"]
     },
     {
       "id": "CV-AEST-01",
@@ -268,7 +269,7 @@
       "placement": "base and established modules",
       "summary": "Base `hureki` names physical dirt. Existing clean, contaminant, spoil, and decompose entries keep practical cleanliness, unexpected presence, lost fitness, and material breakdown separate; active or completed decomposition supplies ordinary rotting without a moralised rotten root.",
       "implementation": {"words": ["hureki", "hiso", "hisophi", "mukesi", "morume"], "files": ["vocabulary/content/dirty.json", "vocabulary/content/clean.json", "vocabulary/content/contaminant.json", "vocabulary/content/spoil.json", "vocabulary/content/decompose.json"]},
-      "batches": ["cultivation-abundance-and-wildness", "recovered-cross-inventory-prompts", "household-daily-life-module-prose"]
+      "batches": ["cultivation-abundance-and-wildness", "recovered-cross-inventory-prompts", "household-daily-life-module-prose", "medical-bodily-care-module-prose"]
     },
     {
       "id": "CV-FOOD-01",
@@ -313,7 +314,7 @@
       "placement": "Work or Commons plus exact source material",
       "summary": "These categories draw their force from a named institution or legal order.",
       "source_rule": "Keep the exact title, credential, issuer, scope, validity, or legal rule beside the Phi account of work, qualification, authority, or answerability.",
-      "batches": ["work-timing-status-capability-and-answerability"]
+      "batches": ["work-timing-status-capability-and-answerability", "medical-bodily-care-module-prose"]
     },
     {
       "id": "CV-MED-01",
@@ -322,7 +323,7 @@
       "placement": "Medical plus exact source material",
       "summary": "A general inverse of contraindicated would hide the source, strength, and grounds of a clinical recommendation.",
       "source_rule": "Keep the exact recommendation or classification with its source and criteria; use Phi to state expected benefit, alternatives, reasons, and the person's decision.",
-      "batches": ["medical-course-transmission-and-treatment-response"]
+      "batches": ["medical-course-transmission-and-treatment-response", "medical-bodily-care-module-prose"]
     },
     {
       "id": "CV-COG-01",
@@ -574,7 +575,7 @@
       "placement": "base, Medical, or another sensitive domain profile",
       "summary": "The first Medical pass reserved these areas because they need language for self-description, consent, harm, care, and source-defined classifications without treating any one experience as the norm.",
       "revisit_when": "separate scenarios are ready for each area, with autonomy, varied lived experience, refusal, power, and exact source terminology kept visible",
-      "batches": ["recovered-cross-inventory-prompts"]
+      "batches": ["recovered-cross-inventory-prompts", "medical-bodily-care-module-prose"]
     },
     {
       "id": "CV-RETRACT-01",
@@ -592,7 +593,7 @@
       "placement": "base",
       "summary": "The noun names a felt possibility of vomiting rather than sickness as a whole or the event of vomiting.",
       "implementation": {"words": ["muthari"], "files": ["vocabulary/content/nausea.json"]},
-      "batches": ["breath-intake-and-expulsion"]
+      "batches": ["breath-intake-and-expulsion", "medical-bodily-care-module-prose"]
     },
     {
       "id": "CV-BREATH-01",
@@ -601,7 +602,7 @@
       "placement": "base",
       "summary": "Three ordinary verbs distinguish a sneeze's nasal burst, a hiccup's caught breath, and gas released in a belch.",
       "implementation": {"words": ["nishoku", "ketumi", "rumeka"], "files": ["vocabulary/content/sneeze.json", "vocabulary/content/hiccup.json", "vocabulary/content/belch.json"]},
-      "batches": ["breath-intake-and-expulsion"]
+      "batches": ["breath-intake-and-expulsion", "medical-bodily-care-module-prose"]
     },
     {
       "id": "CV-INTAKE-01",
@@ -673,7 +674,7 @@
       "placement": "base",
       "summary": "Two deliberately distant forms cover opposite changes in bodily or material extent, with cause and diagnosis left to the surrounding account.",
       "implementation": {"words": ["murase", "kesiri"], "files": ["vocabulary/content/swell.json", "vocabulary/content/shrink.json"]},
-      "batches": ["change-continuity-repair-and-renewal", "life-growth-cultivation-and-flourishing", "recovered-cross-inventory-prompts"]
+      "batches": ["change-continuity-repair-and-renewal", "life-growth-cultivation-and-flourishing", "recovered-cross-inventory-prompts", "medical-bodily-care-module-prose"]
     },
     {
       "id": "CV-WITHER-01",
@@ -691,7 +692,7 @@
       "placement": "base, Ecological, or a reproductive-health vocabulary set",
       "summary": "Fertility names capacity and birth names an event; reproduction and selective breeding introduce other relations.",
       "revisit_when": "ecological, husbandry, reproductive-health, or kinship scenarios need these relations in connected use",
-      "batches": ["life-growth-cultivation-and-flourishing", "plants-animals-and-living-world"]
+      "batches": ["life-growth-cultivation-and-flourishing", "plants-animals-and-living-world", "medical-bodily-care-module-prose"]
     },
     {
       "id": "CV-CULT-01",
@@ -835,7 +836,7 @@
       "placement": "base and Medical, decided by ordinary autonomy and care needs",
       "summary": "This field must name bodies without treating one anatomy as the default or requiring a diagnosis before a body part can be spoken.",
       "revisit_when": "a dedicated scenario set tests self-description, consent, sexual health, reproduction, pain, and care across varied bodies",
-      "batches": ["body-anatomy-and-bodily-condition"]
+      "batches": ["body-anatomy-and-bodily-condition", "medical-bodily-care-module-prose"]
     },
     {
       "id": "CV-BODY-09",
@@ -844,7 +845,7 @@
       "placement": "Medical plus exact biomedical source material",
       "summary": "Base vocabulary need not reproduce an atlas, but recurring care or study may reveal specialist words worth learning.",
       "revisit_when": "a care, study, or public-health scenario repeatedly needs one structure beyond ordinary body-region language",
-      "batches": ["body-anatomy-and-bodily-condition"]
+      "batches": ["body-anatomy-and-bodily-condition", "medical-bodily-care-module-prose"]
     },
     {
       "id": "CV-TIME-01",
@@ -1357,7 +1358,7 @@
       "placement": "exact medical or product source beside a Phi care account",
       "summary": "Base `nepha` names medicine and Medical vocabulary can discuss dose, administration, treatment, benefit, adverse effect, consent, and refusal. None of those words can safely reconstruct the exact product and instructions a person received.",
       "source_rule": "Medicine names, active ingredients, formulations, strengths, amounts, routes, timing, course, prescriber or issuer, warnings, and instructions retain their source form. Phi can discuss need, offer, use, effect, questions, and the person's decision around that record.",
-      "batches": ["roles-places-relations-and-remaining-concrete-nouns"]
+      "batches": ["roles-places-relations-and-remaining-concrete-nouns", "medical-bodily-care-module-prose"]
     },
     {
       "id": "CV-NET-01",
@@ -1411,7 +1412,7 @@
       "placement": "source institution, profession, lineage, or community beside an ordinary Phi role description",
       "summary": "`menua`, `woru`, `phewo`, and `thonua` name broad roles without importing licence, rank, jurisdiction, lineage, or authority. Phi can describe the person's actual guidance, keeping, inquiry, or practice around the exact title.",
       "source_rule": "Professional titles, licences, appointments, ranks, credentials, affiliations, lineage roles, traditional honorifics, duties, and jurisdictions retain their source form. An accepted Phi-form onym may accompany a personal name but does not alter the role record.",
-      "batches": ["roles-places-relations-and-remaining-concrete-nouns", "commons-collective-governance-module-prose"]
+      "batches": ["roles-places-relations-and-remaining-concrete-nouns", "commons-collective-governance-module-prose", "medical-bodily-care-module-prose"]
     },
     {
       "id": "CV-SECRET-01",
@@ -1771,7 +1772,7 @@
       "placement": "exact health, product, infrastructure, or community source beside a Household account",
       "summary": "Phi can describe dirt and cleanliness, washing and soap, and the material path through a latrine. It can also name contamination, spoilage, or infection and the people affected. A threshold or prescribed procedure still depends on the authority and method that established it.",
       "source_rule": "Cleaning-product identities and warnings retain their source form. Sanitation designs and maintenance instructions do as well. Food-safety rules retain their contaminant limits, public-health authority, and clinical guidance. Phi can discuss the material path and observed condition around that record. Access, action, and response remain available without reconstructing the source from a household paraphrase.",
-      "batches": ["household-daily-life-module-prose"]
+      "batches": ["household-daily-life-module-prose", "medical-bodily-care-module-prose"]
     },
     {
       "id": "CV-HOUSE-08",
@@ -1790,6 +1791,132 @@
       "summary": "Phi can state who dwells in a place and who claims ownership or authority there. Obligations and memberships remain separate relations. They do not recreate an address or legal status, and Phi's refusal of monetary vocabulary leaves rent and payment records in their exact source form.",
       "source_rule": "Addresses retain their original script and formatting. Residence and tenancy categories remain exact beside leases and notices. Property records retain rent amounts, payment histories, and jurisdiction-specific rights. Phi can discuss consent and access around them, or coercion and burden. Appeal and redress remain available without replacing the operative wording.",
       "batches": ["household-daily-life-module-prose"]
+    },
+    {
+      "id": "CV-MED-03",
+      "concept": "wounds, bleeding, bruising, burns, fractures, sprains, dressings, and ordinary first aid",
+      "status": "compositional",
+      "placement": "base body and material vocabulary with Medical injury and care",
+      "summary": "The useful account says what changed in the body and what care followed. A cut or burn names the event, flowing blood names bleeding, and a broken bone or swollen joint names the affected structure. Cloth can cover an injury without making one culturally specific dressing the universal form of first aid.",
+      "expressions": ["kaworu", "kati", "thape", "lorika selu", "tholau pukate", "kiparu murase", "wetha tawemi", "theama"],
+      "batches": ["medical-bodily-care-module-prose"]
+    },
+    {
+      "id": "CV-MED-04",
+      "concept": "diarrhoea, constipation, urinary frequency, retention, and incontinence",
+      "status": "compositional",
+      "placement": "base bodily substances, release, recurrence, possibility, and condition descriptions",
+      "summary": "Ordinary care can name faeces or urine, describe its form, and say how often release occurs or whether the person can control it. Exact clinical categories use different duration and frequency criteria, so the source classification remains beside the person's more direct report.",
+      "expressions": ["mokathi", "tomewu", "larewu", "leiro", "ro", "po", "ma", "phamori"],
+      "batches": ["medical-bodily-care-module-prose"]
+    },
+    {
+      "id": "CV-MED-05",
+      "concept": "rash, bruising, swelling, discharge, and other visible or felt surface changes",
+      "status": "compositional",
+      "placement": "base skin, colour, substance, sensation, and change vocabulary with Medical findings",
+      "summary": "A broad surface label would lose the features that make the report useful. Phi can locate the skin change and describe its colour or extent. It can then add whatever actually appears: itch, pain, warmth, swelling, fluid, or a finding from an examination.",
+      "expressions": ["hisae", "murase", "kati", "thape", "lorika", "nuwesu", "sikoru", "kipona", "hisaro"],
+      "batches": ["medical-bodily-care-module-prose"]
+    },
+    {
+      "id": "CV-MED-06",
+      "concept": "fainting, seizure, collapse, and other sudden changes in consciousness or control",
+      "status": "deferred",
+      "placement": "base or Medical according to emergency and lived-experience scenarios",
+      "summary": "Base `waeli` distinguishes conscious experience, and ordinary clauses can report loss of awareness or bodily control. A direct seizure or fainting word may still earn its place because a witness often needs it quickly, but the terms must not collapse distinct events or imply a diagnosis.",
+      "revisit_when": "emergency, chronic-care, or first-person scenarios repeatedly need a stable event beyond a direct account of awareness, movement, breathing, and recovery",
+      "batches": ["medical-bodily-care-module-prose"]
+    },
+    {
+      "id": "CV-MED-07",
+      "concept": "pulse, respiratory rate, blood pressure, oxygen saturation, and exact vital-sign records",
+      "status": "source-bound",
+      "placement": "Medical description beside the exact clinical measurement record",
+      "summary": "Heart rhythm and breathing can be observed in Phi, and `sumeri` names temperature as a parameter. A new vital-sign word would still not make the measurement clinically usable: that depends on how, where, and when it was taken. The record therefore stays exact.",
+      "source_rule": "The clinical record retains the exact parameter name and reading, together with the method that produced it. Device, site, time, reference range, and source interpretation stay with that record. Phi may describe the person's experience, the observed rhythm or change, and how the record enters a care discussion.",
+      "batches": ["medical-bodily-care-module-prose"]
+    },
+    {
+      "id": "CV-MED-08",
+      "concept": "examination, checkup, observation, monitoring, testing, reassessment, and follow-up",
+      "status": "compositional",
+      "placement": "base and module evidence, assessment, recurrence, plan, and schedule vocabulary",
+      "summary": "Observation attends to what is present, a test runs a bounded procedure, and assessment compares evidence with a criterion. Monitoring repeats observation through time. Follow-up returns to the person or matter under a plan, which keeps the promised action more visible than one broad clinical verb would.",
+      "expressions": ["somela", "somaki", "kisome", "hisaro", "somethi", "turema", "winora", "thimora"],
+      "batches": ["medical-bodily-care-module-prose"]
+    },
+    {
+      "id": "CV-MED-09",
+      "concept": "clinic, hospital, appointment, referral, patient, clinician, nurse, caregiver, and other care roles",
+      "status": "compositional",
+      "placement": "base place and person vocabulary with Commons roles, Work handoff, and exact institutional titles",
+      "summary": "A care place can be described by what happens there, and an appointment is a scheduled meeting or care action. Referral identifies who directs a person or record towards another role, while handoff follows the transfer itself. Patient and professional titles stay apart from personhood, consent, qualification, and authority.",
+      "expressions": ["lokue", "punoki", "miona", "sithora", "thimora", "sethoni", "shalori", "theama"],
+      "batches": ["medical-bodily-care-module-prose"]
+    },
+    {
+      "id": "CV-MED-10",
+      "concept": "named procedures, operations, surgery, therapy, rehabilitation methods, and technical intervention classes",
+      "status": "source-bound",
+      "placement": "exact clinical source beside Medical intervention and treatment vocabulary",
+      "summary": "`thekamu` names a deliberate health intervention and `nephoru` a treatment aim. A broad root for procedure would hide the details that distinguish one technique from another. Its technical identity therefore stays with the source.",
+      "source_rule": "The source retains the exact procedure or therapy name, its version or technique, and the affected site. Purpose, risks, alternatives, practitioner, and follow-up stay with it. Phi can discuss the proposal and expected effect, the person's questions and decision, then what happened afterwards.",
+      "batches": ["medical-bodily-care-module-prose"]
+    },
+    {
+      "id": "CV-MED-11",
+      "concept": "urgency, emergency, first response, ambulance, and immediate care",
+      "status": "compositional",
+      "placement": "base danger, time, necessity, care, communication, and Medical triage relations",
+      "summary": "Urgency joins possible harm to the time available for action; severity alone cannot supply it. A direct account can say what is happening, who needs care, and what must happen next. Triage enters only when constrained capacity requires an order, while an exact emergency category or service name stays with its institution.",
+      "expressions": ["pukea", "mosha", "na", "phelona", "theama", "kithawu", "shanewi", "shorupo"],
+      "batches": ["medical-bodily-care-module-prose"]
+    },
+    {
+      "id": "CV-MED-12",
+      "concept": "prevention, infection control, protective precautions, and public-health support",
+      "status": "compositional",
+      "placement": "base protection and care with Medical transmission, exposure, monitoring, and review",
+      "summary": "Prevention begins with the possible harm and proposed protective act. Infection control adds the suspected agent and pathway, then the expected effect and practical burden. Consent, authority, material support, and review remain audible instead of disappearing inside a protective label.",
+      "expressions": ["shorupo", "thekamu", "sewaro", "perawi", "somethi", "sonari", "teshori", "shuneki", "tukiro"],
+      "batches": ["medical-bodily-care-module-prose"]
+    },
+    {
+      "id": "CV-MED-13",
+      "concept": "impairment, disability, access need, assistance, capacity, and participation",
+      "status": "compositional",
+      "placement": "Medical and Accessibility relations with base self-report and consent",
+      "summary": "`murethi` describes a functional difference or limitation, while `sowelu` follows disability in relation to barriers and participation. Reachability, use, assistance, and support answer further questions. Medical classification therefore cannot decide whether someone is disabled or what participation they want.",
+      "expressions": ["murethi", "sowelu", "lokane", "kelasu", "pawela", "naphe", "panoru", "lesawi"],
+      "batches": ["medical-bodily-care-module-prose"]
+    },
+    {
+      "id": "CV-MED-14",
+      "concept": "chronic care, supportive care, palliation, rehabilitation, home care, and end-of-life care",
+      "status": "compositional",
+      "placement": "base care and comfort with Medical treatment, recovery, course, plan, and exact source terminology",
+      "summary": "Long care becomes clearer when the account says whether its present work seeks change, comfort, adaptation, rest, or practical support. Recovery may remain one person's aim and not another's. Exact programme and intervention names stay with their source, particularly when they carry eligibility or institutional promises.",
+      "expressions": ["theama", "nephoru", "thuleni", "therilu", "helanu", "nurawi", "winora", "panoru"],
+      "batches": ["medical-bodily-care-module-prose"]
+    },
+    {
+      "id": "CV-MED-15",
+      "concept": "cure, remission, recurrence, deterioration, improvement, and treatment response",
+      "status": "compositional",
+      "placement": "base change and healing with Medical recovery, relapse, symptom, finding, and course vocabulary",
+      "summary": "Cure makes a stronger claim than treatment or present improvement, so a speaker states which condition ended and under whose criterion. Remission and recurrence likewise depend on a previous state and clinical source. Recovery and relapse keep their direct words; other changes identify what improved or worsened and over which interval.",
+      "expressions": ["theala", "helanu", "morashi", "turema", "mureo", "phamori", "hisaro", "nurawi"],
+      "batches": ["medical-bodily-care-module-prose"]
+    },
+    {
+      "id": "CV-MED-16",
+      "concept": "exact disease names, diagnostic criteria, case definitions, classifications, public-health categories, and reporting rules",
+      "status": "source-bound",
+      "placement": "medical, scientific, institutional, or community source beside a Phi health account",
+      "summary": "Phi can discuss a disease, diagnosis, outbreak, or rule and examine its evidence. The exact category still determines who is counted, what follows, and which authority made the claim. Translating it approximately would change the record precisely where the distinction matters.",
+      "source_rule": "Disease and syndrome names retain their source form with diagnostic criteria and authorship. Case definitions, severity classes, and public-health categories keep their population, place, dates, thresholds, and issuing source. Reporting duties and legal instructions remain exact beside the Phi discussion of effect, consent, access, and review.",
+      "batches": ["medical-bodily-care-module-prose"]
     }
   ],
   "prompt_sources": [

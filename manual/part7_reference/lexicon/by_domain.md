@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (316)
+## activity (317)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -18,6 +18,7 @@
 | `hasoru` | pending | a task, request, or decision awaiting its next action or condition |
 | `hekawi` | find | coming upon a person, object, place, or answer |
 | `helaki` | amend | formally changing part of a continuing rule, decision, or record |
+| `heloa` | remedy | a practical means intended to address an ailment |
 | `helolu` | redress | acting to address a social harm and its continuing effects |
 | `heno` | satisfy | a condition or criterion met by an action or result |
 | `hewe` | wipe | a clearing or spreading stroke made with a hand, cloth, or similar surface |
@@ -49,8 +50,8 @@
 | `ketora` | control | adjustment or constraint of a technical process |
 | `kiranu` | qualified | eligibility for a stated role or activity |
 | `kire` | shape | working material or a line into a chosen configuration |
-| `kisome` | assess | evaluating a performance, state, or result |
-| `kithawu` | triage | assessing and ordering care under constraints |
+| `kisome` | assess | evaluating a performance, condition, or result |
+| `kithawu` | triage | assessing and ordering care under immediate constraints |
 | `kiwate` | bite | teeth closing on or into a person or thing |
 | `koema` | enter | crossing inward into a bounded place or activity |
 | `koewi` | input | something entering and participating in a process |
@@ -209,7 +210,7 @@
 | `sepho` | send | causing someone or something to travel away towards a destination |
 | `sephori` | supply | making a resource available for practical use |
 | `seru` | commit | undertaking to follow a stated course of action |
-| `sethoni` | handoff | transferring a bounded stage of work |
+| `sethoni` | handoff | transferring a bounded stage of work or care |
 | `shalimo` | alliance | continuing cooperation organised around a shared purpose |
 | `shaweri` | advocate | acting in support of a stated position or change |
 | `shemoli` | harmonize | deliberate adjustment that brings unlike parts into accord |
@@ -231,7 +232,7 @@
 | `somaki` | test | performing a defined evidential procedure |
 | `someru` | supervise | attending to another participant's work within a stated scope |
 | `somethi` | monitor | planned repeated observation, measurement, sampling, or recording |
-| `sonari` | isolate | separating a possible infectious source from transmission pathways |
+| `sonari` | isolate | separating a known or suspected carrier from transmission pathways |
 | `soranu` | screen | a systematic health check with a stated follow-up path |
 | `sorila` | cultivate | deliberate repeated work that supports development |
 | `sulopa` | soup | a dish prepared, served, and eaten as food |
@@ -245,7 +246,7 @@
 | `tenoa` | tool | an implement selected for carrying out a task |
 | `teru` | process | work carried through connected operations |
 | `terura` | system | an organized whole whose components participate in processes |
-| `teshori` | quarantine | restricting contact after possible exposure |
+| `teshori` | quarantine | limiting contact after possible exposure |
 | `tewema` | partner | a partner may share one bounded undertaking with another person |
 | `thalo` | walk | ordinary travel and practice on foot |
 | `thape` | burn | setting or allowing material to burn |
@@ -422,7 +423,7 @@
 | `herani` | trend | a pattern inferred from an ordered series of observations |
 | `hinolu` | adapt | revision of a method or practice after new information |
 | `hiru` | intuit | a judgement or expectation arising without consciously followed reasoning |
-| `hisaro` | clinical finding | a method-bounded observation available for interpretation |
+| `hisaro` | clinical finding | an observation whose stated method makes it available for interpretation |
 | `hisophi` | contaminant | an agent classified relative to a stated expected condition |
 | `hosari` | correlation | an observed relation of covariation kept distinct from causal explanation |
 | `hoshemi` | hypothesis | a proposed explanation or relation examined against evidence |
@@ -444,7 +445,7 @@
 | `kirowi` | signal | a detectable variation interpreted as carrying information |
 | `kisholu` | specification | a reference against which properties and performance may be assessed |
 | `kisome` | assess | comparing evidence with a stated criterion |
-| `kithawu` | triage | a revisable priority judgment under stated criteria |
+| `kithawu` | triage | a revisable priority judgement under stated criteria |
 | `kithela` | valid | the quality of an argument whose premises entail its conclusion |
 | `kithero` | diagnose | forming a clinical conclusion from evidence and criteria |
 | `koewi` | input | information or influence classified relative to an analytical boundary |
@@ -466,7 +467,7 @@
 | `meraku` | brain | the bodily organ involved in memory, thought, and perception |
 | `mesatu` | try | acting on an aim without claiming its result |
 | `mewali` | interested | continued mental engagement with a subject or activity |
-| `mikasu` | dose | a specified intervention amount requiring exact source interpretation |
+| `mikasu` | dose | a specified intervention amount interpreted through an exact source |
 | `mirae` | eye | the sensory organ through which visual perception reaches awareness |
 | `miratu` | recognize | a present perception or proposition connected with prior knowledge |
 | `mirela` | state | a selected description used to analyze change |
@@ -507,7 +508,7 @@
 | `palethu` | tactile | information distinguished through tactile perception |
 | `panoru` | support | evidence or reasoning that supports a claim |
 | `pekira` | toxic | a conditioned assessment of biological harm capability |
-| `pelaku` | severity | a criterion-relative judgment of degree |
+| `pelaku` | severity | a criterion-relative judgement of degree |
 | `pemaru` | hazard | a potential-harm classification kept distinct from likelihood and outcome |
 | `phaelo` | feel | conscious awareness of an internal experience |
 | `phamori` | symptom | a noticed and reported health-relevant experience |
@@ -644,10 +645,10 @@
 | `wesho` | locate | determining where a person, thing, or place is |
 | `whakeru` | object | identifying a specific problem in reasoning |
 | `whamoi` | doubt | an unsettled stance toward a proposition or its support |
-| `whekaro` | adverse effect | a harm attribution with stated evidence and uncertainty |
+| `whekaro` | adverse effect | an adverse relation reported with stated evidence and uncertainty |
 | `whekate` | refute | demonstrating that a claim or inference fails |
 | `whekelu` | magic | an event or working understood through a magical account |
-| `whemaki` | allergy | a clinically bounded hypersensitivity claim |
+| `whemaki` | allergy | a clinically supported hypersensitivity claim |
 | `whemura` | dream | dream experience during sleep or a waking vision held as a dream |
 | `whenola` | wander | thought moving without a chosen conclusion |
 | `wheparu` | discriminate | an assigned or perceived category directing action |
@@ -890,7 +891,7 @@
 | `naweri` | refuse | setting a boundary within a social relation |
 | `naweso` | consensus | a collective decision condition defined for a particular group |
 | `nawo` | agree | a shared position among named participants |
-| `nephoru` | treat | an intervention relation among a person and care participants |
+| `nephoru` | treat | a treatment relation among a person and care participants |
 | `nilua` | shy | reserve felt under other people's attention |
 | `noa` | position | a place within an ordering, queue, role arrangement, or priority scheme |
 | `noeli` | warm (emotional) | a receptive manner that puts another person at ease |
@@ -979,7 +980,7 @@
 | `shorai` | commune | a continuing practice of sharing daily life and responsibility |
 | `shorema` | contribute | adding something to a collective undertaking or pool |
 | `shorupo` | protect | one person or group acting for another's safety |
-| `shuneki` | vaccinate | a preventive action with individual and collective relations |
+| `shuneki` | vaccinate | a preventive action with individual and collective effects |
 | `shurano` | safe | conditions in a shared place or activity judged sufficiently free from danger |
 | `shuroa` | shelter | a place that may be provided or shared for protection |
 | `sikanu` | certify | a status attributed by a named person or institution |
@@ -993,7 +994,7 @@
 | `sonari` | isolate | a protective relation requiring support and review |
 | `soneho` | tradeoff | a choice structure whose gains and burdens may fall on different people |
 | `sonu` | alone | the social circumstance of being without company |
-| `soranu` | screen | a health practice applied to stated participants or populations |
+| `soranu` | screen | a health practice offered to selected people or populations |
 | `sorui` | circle | people or other participants arranged in a circle |
 | `sowelu` | disabled | disabled identity and participation in relation to barriers |
 | `sulai` | musician | a musical role that may be practised within a household or gathering |
@@ -1078,7 +1079,7 @@
 
 | Word | Gloss | In this domain |
 |---|---|---|
-| `heloa` | remedy | Specific cure |
+| `heloa` | remedy | a preparation intended for a particular health problem |
 | `henora` | capacity | a design property used in sizing and comparing infrastructure |
 | `heru` | herb | plant material prepared for cooking, fragrance, or care |
 | `kapenu` | concrete | a composite material placed and hardened in buildings and infrastructure |
@@ -1219,7 +1220,7 @@
 | `thekiro` | write | making a written text by hand or tool |
 | `theko` | craft | producing a deliberate work in a chosen material or medium |
 | `thekopa` | recipe | instructions relating ingredients to a prepared result |
-| `thelai` | balm | Soothing salve |
+| `thelai` | balm | an ointment or salve prepared for soothing use |
 | `thero` | fire | fire used deliberately to cook or transform material |
 | `thesani` | skill | capacity used in making, repair, and transformation |
 | `thiranu` | maintain | care that keeps a made thing fit for its purpose |
@@ -1236,7 +1237,7 @@
 | `welotu` | mix | distributing ingredients through a preparation |
 | `weni` | imagine | imagining a possible work, design, story, or arrangement before or during making |
 | `wenola` | collaborate | jointly making or revising a shared result |
-| `wenu` | tonic | Strengthening drink |
+| `wenu` | tonic | a medicinal drink prepared for restorative use |
 | `weoli` | reed | a plant used in weaving, thatching, paper, and instruments |
 | `wepanu` | redundant | a design quality based on independent alternative means |
 | `weshapi` | decorate | ornament added during or after making |
@@ -1629,7 +1630,7 @@
 | `wosanu` | absorb | soil or a living body taking in water or another material |
 | `wotami` | shrub | a usually low woody plant with several stems near the ground |
 
-## physical (503)
+## physical (504)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1637,8 +1638,9 @@
 | `haowu` | air | the gaseous matter taken into the body through breathing |
 | `hasumi` | tea | a prepared drink made by steeping plant material |
 | `hea` | hear | auditory reception through the body |
-| `helanu` | recover | movement toward a prior or desired health state |
+| `helanu` | recover | movement towards a prior or desired health state |
 | `helia` | youth | a human developmental stage after childhood |
+| `heloa` | remedy | a means intended to relieve illness or discomfort |
 | `helu` | smooth | an even surface or passage with little catching against touch or motion |
 | `helui` | change | an observable difference in material or condition |
 | `hemilo` | honey | a sweet viscous food with a distinct material identity |
@@ -1671,7 +1673,7 @@
 | `kati` | cut | separation produced by a sharp edge |
 | `katiru` | knife | a handled cutting implement for kitchens and workshops |
 | `kawepa` | catch | the contact that changes a moving body's course or brings it to rest |
-| `kaworu` | injury | a health-relevant bodily change or damage |
+| `kaworu` | injury | damage or a health-relevant change in the body |
 | `kehota` | cough | a forceful expulsion of air from the lungs |
 | `keli` | device | a functional object or assembly |
 | `kelo` | frame | the material support that holds an opening or overall shape |
@@ -1831,7 +1833,7 @@
 | `nekuma` | meat | animal flesh handled or eaten as food |
 | `neparu` | cloud | a mass of droplets or crystals held in air |
 | `nepha` | medicine | a substance used to prevent, relieve, or treat a health condition |
-| `nephoru` | treat | an action directed toward bodily or health change |
+| `nephoru` | treat | an action directed towards bodily or health change |
 | `neri` | cool | temperature below warm but milder than cold |
 | `newai` | fresh | retention of an expected recent quality before spoilage or fading |
 | `nila` | see | perception through sight |
@@ -1933,7 +1935,7 @@
 | `polenu` | plastic | a broad family of flexible or rigid polymer materials |
 | `ponalu` | size | the overall extent of a physical thing |
 | `ponu` | door | a movable closure controlling entry or passage |
-| `porewi` | side effect | a bodily effect beyond an intervention's stated target |
+| `porewi` | side effect | an effect beyond an intervention's stated target |
 | `pothu` | stink | a strong odour emitted from a source and received through the nose |
 | `powea` | egg | a protected structure that may contain nourishment and a developing embryo |
 | `poweshi` | voltage | electrical potential difference between two stated points |
@@ -2040,9 +2042,9 @@
 | `theama` | care | bodily care or practical attention to material condition |
 | `theisa` | loud | high perceived intensity in a sound or its source |
 | `thekamu` | intervene | an action on a body, health state, or bodily environment |
-| `thelai` | balm | External comfort |
+| `thelai` | balm | an external preparation intended to ease soreness or irritation |
 | `thena` | thing | an unspecified object or material item when its particular kind is not needed |
-| `thephaku` | inflammation | a local or systemic bodily response pattern |
+| `thephaku` | inflammation | a local or systemic inflammatory response pattern |
 | `therapi` | boil | a liquid condition with bubbles rising continuously |
 | `theriko` | frost | a thin crystalline deposit of frozen water |
 | `therilu` | rest | rest of a body or bodily capacity |
@@ -2099,7 +2101,7 @@
 | `welotu` | mix | separate materials moving through one another |
 | `welua` | fragile | easy breakage or damage under comparatively small force |
 | `welura` | spread | material distributed across a surface or area |
-| `wenu` | tonic | Vitality |
+| `wenu` | tonic | a drink intended to support bodily strength or condition |
 | `wetha` | cloth | a flexible piece or amount of textile |
 | `wethaki` | towel | an absorbent textile kept to receive moisture |
 | `wethalu` | garment | clothing worn on or around the body |
@@ -2349,7 +2351,7 @@
 | `silawo` | village | a shared locality containing a village settlement |
 | `siru` | marker | a placed reference used in wayfinding or position |
 | `soki` | settle | transition into residence at a location |
-| `sonari` | isolate | a bounded separation between a source and possible hosts |
+| `sonari` | isolate | a bounded separation between a carrier and possible hosts |
 | `sorui` | circle | an arrangement around an interior region or point |
 | `tapu` | close | passage or access ended at a boundary |
 | `tawemi` | cover | an overlying relation that limits view or contact |
@@ -2455,7 +2457,7 @@
 | `meloa` | persevere | a course resumed or sustained across obstacles and delay |
 | `meluna` | season | a recurring portion of the year |
 | `meluri` | climate | conditions analyzed over an explicitly long period |
-| `mikasu` | dose | an amount tied to an administration or interval |
+| `mikasu` | dose | an amount tied to one administration |
 | `mirela` | state | conditions attributed to a particular time |
 | `moenu` | culture | learned practices carried forward while continuing to change |
 | `molei` | evolve | many changes accumulating over an extended span |
@@ -2516,12 +2518,12 @@
 | `soleha` | luck | chance conditions encountered as events unfold |
 | `somethi` | monitor | attention repeated across a stated interval and duration |
 | `sonari` | isolate | separation for a stated period |
-| `suloru` | fever | a temperature state observed over a stated time |
+| `suloru` | fever | a temperature state observed over a stated period |
 | `sunoe` | regenerate | recovery that accumulates over a stated span |
 | `talome` | restore | a present condition compared with an earlier one |
 | `teku` | short | a brief duration or interval |
 | `telui` | rhythm | a pattern organised through recurring intervals or beats |
-| `teshori` | quarantine | a restriction during a stated uncertainty period |
+| `teshori` | quarantine | a restriction during a stated period of uncertainty |
 | `thaeso` | midday | the station between morning and afternoon |
 | `thalume` | ancestor | someone placed earlier in an intergenerational line |
 | `thekasi` | caption | text synchronized with a live or recorded event |
@@ -2560,11 +2562,10 @@
 | `wiroa` | hopeful | anticipation directed towards a future condition |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (45)
+## wisdom (44)
 
 | Word | Gloss | In this domain |
 |---|---|---|
-| `heloa` | remedy | Problem solving |
 | `hiru` | intuit | immediate judgement that may draw on accumulated experience before explanation |
 | `keiro` | way | a guiding course shaped through practice and reflection |
 | `kethira` | infer | recognizing the mind's movement beyond what was directly given |

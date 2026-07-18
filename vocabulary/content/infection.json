@@ -8,12 +8,21 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Infection / Presence and Activity of an Infectious Agent in a Host",
-  "description": "An infectious agent present and active in or on a host. Infection is narrower than exposure, which merely places the agent nearby, and it can exist with or without symptoms or the wider disease it may go on to cause.",
-  "sound_symbolism": "Soft 'pe' opens with a brief meeting of the lips. Stressed 'shi' turns the airflow into a narrow hush and bright 'i'. Final 'ro' interrupts that fine stream with a tongue roll inside round 'o'. After a quiet opening, the sound tightens to its brightest point before it turns and deepens.",
-  "grammatical_notes": "A countable or mass noun according to context: 'ha peshiro po ma welathi nai.' (This infection may not be contagious.) State the agent, host, site, evidence, method, and uncertainty where relevant. Distinct from 'perawi' (expose), 'hisophi' (contaminant), 'thephaku' (inflammation), 'mokanu' (disease), and 'welathi' (contagious).",
+  "search_terms": [
+    "infectious process",
+    "infectious agent in host"
+  ],
+  "description": "A 'peshiro' is an infectious agent establishing itself and acting in or on a host. Infection can be present without symptoms, and it may or may not produce a classified disease. 'perawi' (expose) places the agent in contact with a possible host; exposure alone does not establish infection.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into true-mid front unrounded 'e'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh', pass air through its central groove, and move into stressed high-front unrounded 'i'. Make a tap or short trill with the tongue tip and draw the tongue back into true-mid rounded back 'o'.",
+  "usage_notes": "A count identifies one infection. Bare 'peshiro' presents infection as a biological process. The agent and host identify the relation; site and evidence make it specific. Method and uncertainty keep the classification open to review. Mere presence or colonization can retain its exact biomedical source term when that distinction matters.",
+  "examples": [
+    {
+      "phi": "ha peshiro po ma welathi nai.",
+      "translation": "This infection may not be contagious."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "A biologically bounded infection term discourages speakers from extending contamination and purity language to people, cultures, or moral status."
+    "peace-linguistics-practices": "A biological process stays bounded to agent and host, which resists extending contamination or purity language to people and communities."
   },
   "semantic_domains": {
     "nature": "an infectious agent acting in relation to a host",

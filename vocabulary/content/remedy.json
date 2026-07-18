@@ -8,17 +8,26 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Remedy / Cure / Solution to Ailment",
-  "description": "A treatment or medicine that cures disease or relieves pain; the answer to what ails. 'Heloa' names what resolves—the specific cure for specific suffering.",
-  "sound_symbolism": "The word exhales ease. 'He' breathes out relief, pain releasing. 'Lo' opens to healing. Then 'a' completes with open release, ailment resolving.",
-  "grammatical_notes": "Functions as noun: 'heloa' (the remedy). More specific than 'nepha' (medicine)—a remedy addresses a particular problem.",
+  "search_terms": [
+    "ailment remedy",
+    "relieving treatment"
+  ],
+  "description": "A 'heloa' is a medicine, treatment, or practical means intended to answer a particular ailment or discomfort. Calling something a remedy relates it to that problem; it does not promise a cure or even benefit. General 'nepha' (medicine) identifies a preparation by medical use, while a remedy can also be an act or another means of relief.",
+  "articulatory_notes": "Let unvoiced breath pass through the open glottis for 'h', then move into true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and draw the tongue back into stressed true-mid rounded back 'o'. Keep final open central 'a' in its own syllable across the 'o.a' hiatus.",
+  "usage_notes": "Context can supply the ailment, or the speaker can state it beside the remedy. Exact ingredients and procedure names stay with their sources, as do the supporting evidence and instructions. The intended fit between means and problem remains open to the affected person's report and later result.",
+  "examples": [
+    {
+      "phi": "heloa mia theala.",
+      "translation": "The remedy heals me."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Right remedy for right problem—skillful means matching treatment to condition.",
-    "pre-industrial-wisdom": "Remedies matched ailments—specific treatments for specific conditions, knowledge of correspondences."
+    "pre-industrial-wisdom": "A remedy may come from inherited practice, but the tradition, preparation, observed result, and present person's needs remain visible together."
   },
   "semantic_domains": {
-    "creation": "Specific cure",
-    "wisdom": "Problem solving"
+    "activity": "a practical means intended to address an ailment",
+    "creation": "a preparation intended for a particular health problem",
+    "physical": "a means intended to relieve illness or discomfort"
   },
   "modules": [
     "medical-and-bodily-care"

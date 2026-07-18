@@ -8,15 +8,24 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Clinical Finding / Health-Relevant Observation Produced by a Stated Method",
-  "description": "A health-relevant observation produced by a stated method: a measurement, an image, an examination result. The finding carries its method, its conditions, and its uncertainty along with it, because a number that has shed its method is not yet evidence of anything. It can support, conflict with, or simply run alongside a person's own reported 'phamori' (symptom), and neither one silently outranks the other.",
-  "sound_symbolism": "A light current of air lifts 'hi' into bright 'i'. At the stressed center, 'sa' narrows that breath to a hiss before opening onto broad 'a'. Final 'ro' turns the tongue inside a rounder chamber. From a fine opening, the sound spreads clearly and ends in motion.",
-  "grammatical_notes": "A countable noun: 'shia ha hisaro sirami.' (They record this clinical finding.) Name the observer, method, conditions, time, uncertainty, and source record where relevant. Distinct from 'siru' (marker), 'masue' (measure), 'phamori' (symptom), 'somaki' (test), and 'kithero' (diagnose).",
+  "search_terms": [
+    "clinical observation",
+    "examination finding"
+  ],
+  "description": "A 'hisaro' is a health-relevant observation produced by a stated method, such as a measurement, examination, or image interpretation. The finding retains the conditions and uncertainty of that method because the same result can mean different things elsewhere. 'phamori' (symptom) is the person's experienced report; neither kind of evidence silently outranks the other or becomes a diagnosis.",
+  "articulatory_notes": "Let unvoiced breath pass through the open glottis for 'h', then move into high-front unrounded 'i'. Send unvoiced air through a narrow groove along the tongue for 's' and open into stressed central 'a'. Make a tap or short trill with the tongue tip and draw the tongue back into true-mid rounded back 'o'.",
+  "usage_notes": "Individual findings are countable. The observer and method show where each one came from; conditions and time locate it. Uncertainty and the original record show how far it can support a claim. 'somaki' (test) names a procedure, while 'kithero' (diagnose) draws a clinical conclusion.",
+  "examples": [
+    {
+      "phi": "shia ha hisaro sirami.",
+      "translation": "They record this clinical finding."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "A finding word that retains source and method prevents an observation from silently becoming a diagnosis or overriding the person's own account."
+    "peace-linguistics-practices": "A finding belongs to the method that produced it; it cannot quietly overwrite the person's report or become a diagnosis on its own."
   },
   "semantic_domains": {
-    "cognition": "a method-bounded observation available for interpretation",
+    "cognition": "an observation whose stated method makes it available for interpretation",
     "physical": "an observation concerning bodily or health condition"
   },
   "modules": [

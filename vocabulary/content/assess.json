@@ -8,15 +8,24 @@
     "me"
   ],
   "pos": "verb",
-  "concept": "Assess / Evaluate Evidence Against a Stated Criterion",
-  "description": "To evaluate evidence, a performance, or a condition against a stated criterion, for a stated purpose. An assessment can be formal or a glance across the workshop, and it is only a reading of the evidence: approving, certifying, and deciding consequences are separate acts with their own words.",
-  "sound_symbolism": "A clean velar release lifts 'ki' into bright 'i'. Stressed 'so' narrows the airflow to a hiss before rounding it in 'o'. Final 'me' closes softly at the lips and returns to balanced 'e'. The word moves from a precise edge through close attention to a quiet, held ending.",
-  "grammatical_notes": "A transitive verb: 'shia ha theko kisome.' (They assess the craft.) State the criterion, evidence, assessor, purpose, uncertainty, and consequences where relevant. The event-noun rule supplies assessment. Distinct from 'somela' (observe), 'nilaki' (inspect), 'somaki' (test), 'tukiro' (review), and 'kirema' (criterion).",
+  "search_terms": [
+    "evaluate",
+    "appraise against criteria"
+  ],
+  "description": "Someone 'kisome' a performance, condition, or result by evaluating its evidence against a criterion for a purpose. Assessment may guide a later choice, but it is not itself approval, certification, or decision. 'somaki' (test) produces bounded evidence under stated conditions; assessment asks what that evidence means against the chosen standard.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'. Send unvoiced air through a narrow groove along the tongue for 's', then round into stressed true-mid back 'o'. Close the lips for voiced 'm', carry the sound through the nose, and finish with true-mid front unrounded 'e'.",
+  "usage_notes": "The assessed thing is the object; noun 'kisome' means assessment. The surrounding account can identify the criterion and evidence, then the assessor and purpose. Medical use may concern a bodily condition; Work use may concern a craft or performance.",
+  "examples": [
+    {
+      "phi": "shia ha theko kisome.",
+      "translation": "They assess the craft."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Explicit criteria and evidence make an assessment contestable and prevent a finding about one performance from becoming an unspoken judgment of the whole person."
+    "peace-linguistics-practices": "An explicit criterion keeps one assessment from quietly becoming a judgement of the whole person."
   },
   "semantic_domains": {
-    "activity": "evaluating a performance, state, or result",
+    "activity": "evaluating a performance, condition, or result",
     "cognition": "comparing evidence with a stated criterion"
   },
   "modules": [

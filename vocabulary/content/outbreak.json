@@ -8,13 +8,21 @@
     "ku"
   ],
   "pos": "noun",
-  "concept": "Outbreak / Cluster or Excess of Related Health Cases in a Selected Context",
-  "description": "A cluster or excess of related health cases measured against an expected baseline, for a stated population, place, and period. The word names the excess; the exact epidemic or emergency category, where one applies, stays in the source record.",
-  "sound_symbolism": "A rounded glide gives 'we' a light opening. Stressed 'sha' spreads a hush through broad 'a', then final 'ku' stops the breath at the velum and drops into deep 'u'. The contour expands sharply in the middle before closing dark and firm.",
-  "grammatical_notes": "A countable noun: 'ha lokue weshaku phelu.' (This place has an outbreak.) State the case definition, population, place, period, baseline, source, and uncertainty where relevant. Distinct from 'peshiro' (infection), 'sewaro' (transmit), 'herani' (trend), 'mothami' (baseline), and an exact public-health classification.",
+  "search_terms": [
+    "health case cluster",
+    "excess cases"
+  ],
+  "description": "A 'weshaku' is a cluster or excess of related health cases against an expected baseline for a selected population, place, and period. The word gathers the observed excess without identifying its cause. An exact epidemic or emergency category still depends on the case definition and public-health source that established it.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then unround into true-mid front 'e'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh', pass air through its central groove, and open into stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-back rounded 'u'.",
+  "usage_notes": "Distinct clusters or outbreak periods are countable. The case definition sets the population, place, period, and baseline. Dates and uncertainty stay with the original source, especially when a formal classification carries practical or legal consequences.",
+  "examples": [
+    {
+      "phi": "ha lokue weshaku phelu.",
+      "translation": "This place has an outbreak."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Communities need shared language for emerging health patterns while keeping evidence, care, material conditions, and public authority visible.",
-    "peace-linguistics-practices": "A bounded outbreak term prevents a cluster from becoming license to stigmatize a place, group, or person."
+    "peace-linguistics-practices": "A bounded case pattern cannot turn a place, group, or person into the outbreak or a target of stigma."
   },
   "semantic_domains": {
     "cognition": "a cluster or excess defined against stated expectations",

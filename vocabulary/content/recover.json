@@ -8,16 +8,25 @@
     "nu"
   ],
   "pos": "verb",
-  "concept": "Recover / Move Toward a Prior or Desired Health State",
-  "description": "To move toward a health, comfort, or functional state that the person and their situation get to define. Recovery can mean adaptation and continuing care as easily as it can mean an earlier body, and the word leaves that choice where it belongs.",
-  "sound_symbolism": "Light breath opens 'he' and gives way to the broad stressed liquid of 'la'. Final 'nu' settles the tongue at the teeth while resonance drops into deep 'u'. The word moves from air through openness to a low, steady close.",
-  "grammatical_notes": "An intransitive verb: 'shia helanu.' (They recover.) The event-noun rule supplies recovery. State the relevant condition, dimension, person's goal, support, time, and remaining needs where relevant. Distinct from 'theala' (heal), 'talome' (restore), 'wolu' (healthy), 'mureo' (stable), and 'morashi' (relapse).",
+  "search_terms": [
+    "health recovery",
+    "regain function"
+  ],
+  "description": "A person 'helanu' when they move towards a state of health, comfort, or function that they help define. Recovery may include adaptation and continuing care rather than return to an earlier body. 'theala' (heal) follows a body or hurt changing towards health; 'helanu' follows the person's broader course.",
+  "articulatory_notes": "Let unvoiced breath pass through the open glottis for 'h', then move into true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and open into stressed central 'a'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with high-back rounded 'u'.",
+  "usage_notes": "Intransitive 'helanu' also names its event, recovery. The condition and dimension show what is changing; the person's aim, available support, and remaining needs give that course its shape. 'morashi' (relapse) can occur within recovery without cancelling it.",
+  "examples": [
+    {
+      "phi": "shia helanu.",
+      "translation": "They recover."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Recovery is a conditioned process of change rather than restoration of a fixed self or proof that difficulty has ended.",
-    "peace-linguistics-practices": "Letting the person and context define recovery resists imposing one normal body, pace, function, or endpoint."
+    "secular-buddhist-philosophy": "Recovery is a conditioned process of change rather than restoration of a fixed self.",
+    "peace-linguistics-practices": "The person helps define recovery, which resists imposing one body, pace, or endpoint as normal."
   },
   "semantic_domains": {
-    "physical": "movement toward a prior or desired health state",
+    "physical": "movement towards a prior or desired health state",
     "temporal": "an uneven health course unfolding over time"
   },
   "modules": [

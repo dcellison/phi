@@ -8,17 +8,25 @@
     "ki"
   ],
   "pos": "verb",
-  "concept": "Vaccinate / Administer a Vaccine Intended to Induce Protection",
-  "description": "To administer a vaccine intended to induce protection. The verb names the act; the exact product, lot, and schedule belong in the record, and neither the immunity that follows nor the consent that came before it is contained in the act.",
-  "sound_symbolism": "Deep 'shu' begins as a rounded hush. The stress rests on 'ne', where the tongue meets the teeth and resonance enters balanced 'e'. Final 'ki' closes farther back and lifts into bright 'i'. From dark breath, the sound rises steadily to a crisp final edge.",
-  "grammatical_notes": "A transitive verb: 'shia mia shuneki.' (They vaccinate me.) State the product source, target, dose, route, schedule, consent, and record where relevant. The event-noun rule supplies vaccination. Distinct from 'shorenu' (immune), 'nephoru' (treat), 'nepha' (medicine), 'mikasu' (dose), and 'kanuwa' (authorize).",
+  "search_terms": [
+    "administer vaccine",
+    "vaccination"
+  ],
+  "description": "To 'shuneki' is to administer a vaccine with the intention of inducing protection against a stated agent or outcome. The act can be recorded before anyone knows how much protection developed. 'shorenu' (immune) describes the resulting bodily relation, while consent to the vaccination remains the person's separate answer.",
+  "articulatory_notes": "Raise the tongue blade towards the postalveolar region for unvoiced 'sh', pass air through its central groove, and round into high-back 'u'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and move into stressed true-mid front unrounded 'e'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'.",
+  "usage_notes": "The recipient is the object; vaccination is the event noun. The exact source keeps the product and dose together. It also preserves the route, schedule, and administration record.",
+  "examples": [
+    {
+      "phi": "shia mia shuneki.",
+      "translation": "They vaccinate me."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Shared preventive care can protect communities when material access, evidence, bodily autonomy, and unequal burdens remain visible.",
-    "peace-linguistics-practices": "Separating vaccination from consent, immunity, and authority permits clear advocacy, refusal, uncertainty, and accountability without semantic shortcuts."
+    "peace-linguistics-practices": "Vaccination, immunity, consent, and institutional authorization remain distinct facts, so a protective purpose cannot answer on the recipient's behalf."
   },
   "semantic_domains": {
     "activity": "administering a vaccine for a stated protective purpose",
-    "community": "a preventive action with individual and collective relations",
+    "community": "a preventive action with individual and collective effects",
     "physical": "an intervention intended to induce bodily protection"
   },
   "modules": [

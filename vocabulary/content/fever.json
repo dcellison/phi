@@ -8,16 +8,26 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Fever / Elevated Bodily Temperature State Under a Stated Reference",
-  "description": "Elevated bodily temperature measured against a stated reference: this person, this method, this moment. The exact reading, the device, and the threshold used belong in the record, since a fever's meaning depends entirely on what it is measured against.",
-  "sound_symbolism": "Hissing 'su' begins in a deep rounded chamber. Stressed 'lo' releases the tongue into a warmer, more open round vowel. Final 'ru' repeats the liquid movement with a tap and returns to deep 'u'. The two liquids make the word roll slowly between low vowels.",
-  "grammatical_notes": "A countable or mass noun according to context: 'mia suloru phelu.' (I have a fever.) Preserve exact readings, units, sites, devices, and thresholds in source material. Distinct from 'sulae' (warm), 'siwe' (sweat), 'peshiro' (infection), 'pelaku' (severity), and 'pukea' (danger).",
+  "search_terms": [
+    "febrile state",
+    "elevated body temperature"
+  ],
+  "description": "A 'suloru' is elevated bodily temperature under the reference being used for the person, site, and method. It is a bodily condition rather than a number, so the exact reading and threshold remain in their source record. Fever can accompany infection or another process; it does not identify its own cause or severity.",
+  "articulatory_notes": "Send unvoiced air through a narrow groove along the tongue for 's', then round into high-back 'u'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and draw the tongue back into stressed true-mid rounded back 'o'. Make a tap or short trill with the tongue tip and finish with high-back rounded 'u'.",
+  "sound_symbolism": "The opening 'su' gives 'suloru' an audible place beside 'sulae' (warm), 'sukaro' (hot), and 'sumeri' (temperature). The shared sound is a mnemonic for their thermal neighbourhood, not a productive affix.",
+  "usage_notes": "A count selects one fever episode. Otherwise 'suloru' presents the condition generally. Phi can add how the person feels and how the condition changes. The source material keeps the device and site with the exact value, unit, and clinical reference.",
+  "examples": [
+    {
+      "phi": "mia suloru phelu.",
+      "translation": "I have a fever."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "A bounded fever term lets a person report a familiar bodily state without allowing one reading to become an automatic diagnosis or command."
+    "peace-linguistics-practices": "A person can report fever without letting one reading become an automatic diagnosis or command."
   },
   "semantic_domains": {
     "physical": "an elevated bodily temperature state",
-    "temporal": "a temperature state observed over a stated time"
+    "temporal": "a temperature state observed over a stated period"
   },
   "modules": [
     "medical-and-bodily-care"
