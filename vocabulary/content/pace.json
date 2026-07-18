@@ -8,18 +8,28 @@
     "lo"
   ],
   "pos": "noun",
-  "concept": "Pace / Rate and Rhythm at Which an Activity Proceeds",
-  "description": "The rate and rhythm at which an activity, exchange, or sequence proceeds. Pace can change within one event and can be too fast, too slow, or uneven for a stated participant and purpose. 'thimu' (time) names the broader dimension; 'thimelo' names how movement is distributed through it.",
-  "sound_symbolism": "Bright 'thi' sends a fine breath past the teeth. Stressed 'me' closes softly at the lips, then final 'lo' releases the tongue into round 'o'. At its center the sound pauses, then opens into a low liquid ending.",
-  "grammatical_notes": "A noun often modified by speed or comparison words: 'ha thimelo sheru nai.' (This pace is slow.) A possessor may name the meeting, task, speech, or route whose pace is being discussed. Distinct from 'thimora' (schedule) and 'lumethi' (deadline).",
+  "search_terms": [
+    "rate of activity",
+    "activity rhythm"
+  ],
+  "description": "The rate and rhythm at which an activity, exchange, or sequence proceeds. Pace may change within one event and may be too fast, too slow, or uneven for a stated participant and purpose. 'thimu' (time) names the broader dimension; 'thimelo' names how action is distributed through it.",
+  "articulatory_notes": "Begin with unvoiced dental 'th', keeping the tongue tip light against the upper teeth as air passes into high-front unrounded 'i'. Close the lips for voiced nasal 'm', carry the sound through the nose, and open into stressed true-mid front unrounded 'e'. The tongue tip returns to the alveolar ridge for voiced lateral 'l' before the word settles into true-mid back rounded 'o'.",
+  "sound_symbolism": "The lips close around the stressed middle, briefly interrupting the airflow before the final lateral opens into round 'o'. That small pause and release can recall a cadence changing under attention.",
+  "usage_notes": "Pace is often modified by a speed or comparison word. A possessor may name the meeting, task, speech, route, or other activity whose pace is under discussion. 'thimora' names the planned arrangement of activities, while 'lumethi' names a claimed latest time.",
+  "examples": [
+    {
+      "phi": "ha thimelo sheru nai.",
+      "translation": "This pace is slow."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Attention has a pace; forcing every perception or decision into the same interval can hide what slower notice would reveal.",
-    "peace-linguistics-practices": "Naming pace makes speed negotiable instead of treating the fastest speaker or process as the natural clock for everyone."
+    "secular-buddhist-philosophy": "Attention has a pace. Forcing every perception or decision into the same interval can hide what a less hurried notice would reveal.",
+    "peace-linguistics-practices": "Naming pace makes speed negotiable instead of treating the fastest speaker or process as everyone's natural clock."
   },
   "semantic_domains": {
     "activity": "rate and rhythm of a continuing action",
     "communication": "speed at which an exchange proceeds",
-    "temporal": "movement distributed through time"
+    "temporal": "action distributed through time"
   },
   "modules": [
     "accessibility-and-participation",

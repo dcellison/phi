@@ -8,13 +8,23 @@
     "thi"
   ],
   "pos": "noun",
-  "concept": "Deadline / Claimed Latest Time for an Action or Result",
-  "description": "A claimed latest time for an action or result, under a named source. Someone set every deadline, and the word keeps that authorship visible: a deadline can be negotiated, revised, refused, missed, or impossible, and naming one creates no obligation to meet it.",
-  "sound_symbolism": "Liquid 'lu' releases the tongue into deep 'u' and recalls the opening of 'lumae' (end). Stressed 'me' closes the lips at the word's center and briefly holds the breath. Final 'thi' lets a thin stream of air pass the teeth into bright 'i'. The contour runs low, stops at the lips, then ends on a fine edge.",
-  "grammatical_notes": "A countable noun: 'ha riporu lumethi pheo wi philo nai.' (This task's deadline is in two days.) Preserve an exact calendar or clock value in source material when its form matters. Distinct from 'thimora' (schedule), 'lumae' (end), 'naseru' (obligation), and temporal necessity with 'na'.",
+  "search_terms": [
+    "latest time",
+    "due boundary"
+  ],
+  "description": "A claimed latest time for an action or result, set by a named person, group, process, or material condition. A deadline may be questioned or changed. Someone may refuse it, miss it, or find it impossible. Naming the deadline reports a time claim; it creates no obligation by itself.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and round into high-back 'u'. Close the lips for voiced nasal 'm' and carry the sound through the nose into stressed true-mid front unrounded 'e'. Finish with unvoiced dental 'th', the tongue tip light against the upper teeth, then lift into high-front unrounded 'i'.",
+  "sound_symbolism": "The opening 'lu' faintly echoes 'lumae' (end). A held central nasal and the narrow final dental breath then make the word feel as though it draws toward an edge. The resemblance is a sound association, not productive word formation.",
+  "usage_notes": "Deadlines are countable and retain their source. Exact calendar or clock information stays in source material when its form matters. 'thimora' names a planned arrangement across time, 'lumae' an end, 'naseru' an obligation, and 'na' necessity; none follows merely from 'lumethi'.",
+  "examples": [
+    {
+      "phi": "ha riporu lumethi pheo wi philo nai.",
+      "translation": "This task's deadline is in two days."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Naming a deadline as a sourced claim keeps time pressure open to questions about authority, capacity, access, safety, and negotiation.",
-    "pre-industrial-wisdom": "Seasons, weather, material behavior, and shared events impose real time boundaries, while institutions also create deadlines whose necessity must not be assumed."
+    "peace-linguistics-practices": "Treating a deadline as a sourced claim keeps time pressure open to questions about authority and agreement. Capacity, access, and safety remain part of that discussion.",
+    "pre-industrial-wisdom": "Weather, seasons, materials, and shared events create real limits in time. Institutions create others, whose necessity should not be smuggled in as though it came from the sky."
   },
   "semantic_domains": {
     "activity": "a time boundary attached to an expected action or result",

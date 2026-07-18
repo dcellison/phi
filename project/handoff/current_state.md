@@ -1,31 +1,31 @@
 # Current state
 
-This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D050. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
+This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D051. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
 
 ## Active execution sequence
 
 The roadmap's current sequence is not an invitation to choose among several equal tasks. It records one active path:
 
-1. SEM-09C: migrate the remaining 26 legacy module entries; Accessibility and Participation comes next.
+1. SEM-09C: migrate the final 16 legacy module entries in Work, Craft, and Repair.
 2. SEM-09D: inspect active Phi passages after the whole lexicon is target-shaped.
 3. PED-08: resume the book at chapter 7.
 
-Do not begin SEM-09D before the module queue reaches zero. The maintainer has prioritised one continuous vocabulary-prose sequence so the remaining entries retain the same editorial judgement and voice. D044 completed the base-first boundary. D045 through D050 then completed six learning paths in their historical order. SEM-09C now continues with Accessibility and Participation, then Work, Craft, and Repair.
+Do not begin SEM-09D before the module queue reaches zero. The maintainer has prioritised one continuous vocabulary-prose sequence so the remaining entries retain the same editorial judgement and voice. D044 completed the base-first boundary. D045 through D051 then completed seven learning paths in their historical order. SEM-09C now ends with Work, Craft, and Repair.
 
 ## Lexicon migration counts
 
 | Inventory | Total | Target | Legacy |
 |---|---:|---:|---:|
-| Entire lexicon | 1,275 | 1,249 | 26 |
-| Content vocabulary | 1,145 | 1,119 | 26 |
+| Entire lexicon | 1,275 | 1,259 | 16 |
+| Content vocabulary | 1,145 | 1,129 | 16 |
 | Base content vocabulary | 884 | 884 | 0 |
-| Optional-module content vocabulary | 261 | 235 | 26 |
+| Optional-module content vocabulary | 261 | 245 | 16 |
 | Function vocabulary | 110 | 110 | 0 |
 | Interjections | 20 | 20 | 0 |
 
 There are no partial or dual entries. A target entry has both `articulatory_notes` and structured `examples` and has neither legacy `concept` nor `grammatical_notes`. The committed evidence is [`documents/validation/vocabulary_prose_coverage.json`](../../documents/validation/vocabulary_prose_coverage.json).
 
-The latest completed prose batch is D050, Medical and Bodily Care. It migrated thirty-one inherited entries without adding a root. Medical joins the five earlier learning paths at zero legacy prose. D044 remains the base-first boundary. Do not reopen completed entries merely to make their English prose different; reopen one only for a real semantic, factual, voice, or corpus problem.
+The latest completed prose batch is D051, Accessibility and Participation. It migrated ten inherited entries without adding a root. Accessibility joins the six earlier learning paths at zero legacy prose. D044 remains the base-first boundary. Do not reopen completed entries merely to make their English prose different; reopen one only for a real semantic, factual, voice, or corpus problem.
 
 ## Decision register
 
@@ -33,17 +33,17 @@ The latest completed prose batch is D050, Medical and Bodily Care. It migrated t
 
 | Item | Count |
 |---|---:|
-| Semantic batches | 61 |
-| Decisions | 206 |
+| Semantic batches | 62 |
+| Decisions | 222 |
 | Implemented | 49 |
-| Compositional | 87 |
-| Deferred with return condition | 28 |
-| Source-bound | 38 |
+| Compositional | 99 |
+| Deferred with return condition | 29 |
+| Source-bound | 41 |
 | Declined | 4 |
 | Open | 0 |
 | Accepted but not implemented | 0 |
 
-The latest development decision is D050 in [`project/development_log.md`](../development_log.md). Check the live log before assigning the next identifier.
+The latest development decision is D051 in [`project/development_log.md`](../development_log.md). Check the live log before assigning the next identifier.
 
 ## Base queue complete
 
@@ -67,12 +67,12 @@ Phi has eight established vocabulary modules, one grammar, 261 optional roots, a
 | Medical and Bodily Care | 51 | 0 |
 | Systems and Shared Infrastructure | 50 | 0 |
 | Philosophical Reasoning | 24 | 0 |
-| Accessibility and Participation | 46 | 10 |
+| Accessibility and Participation | 46 | 0 |
 | Commons and Collective Governance | 53 | 0 |
 | Ecological Systems and Material Life | 55 | 0 |
-| Work, Craft, and Repair | 70 | 19 |
+| Work, Craft, and Repair | 70 | 16 |
 
-The legacy counts overlap because a shared word appears once in the 26-entry queue but contributes to each module it belongs to. Its complete `modules` array remains intact when the entry is migrated. SEM-09C is active, with six historical learning paths complete through Medical and Bodily Care. The remaining order is Accessibility and Participation, then Work, Craft, and Repair.
+All remaining legacy entries belong only to Work, Craft, and Repair. Their complete `modules` arrays must still remain intact when they are migrated. SEM-09C is active, with seven historical learning paths complete through Accessibility and Participation and one final learning path left.
 
 All eight profiles already have canonical JSON membership, a generated module index, and a speaker-facing Part VII chapter. No ninth profile is proposed. [`documents/modules/potential_profile_explorations.md`](../../documents/modules/potential_profile_explorations.md) holds conditional possibilities without making them active work.
 
@@ -80,7 +80,7 @@ All eight profiles already have canonical JSON membership, a generated module in
 
 The literary shelf has completed its full review against the current lexicon. It contains nine close translations and eleven transmutations; seven works have both. *News from Nowhere* is one 32-chapter work with the first three chapters transmuted and reviewed. The current review record is [`documents/evaluation/active_text_corpus_review.md`](../../documents/evaluation/active_text_corpus_review.md).
 
-SEM-09D waits until all 26 remaining legacy module entries are target-shaped. When it begins, it will not be a blind replacement pass. The sweep will cover the book, manual, primer, pamphlets, texts, and current documents for paraphrases or workarounds involving vocabulary added or clarified during the completed migration. A Phi passage will change only when the current form is more faithful or natural in that passage. A transparent composition will stay when its parts still teach or express the thought better, and every changed sentence and dependency will receive validation.
+SEM-09D waits until all 16 remaining legacy module entries are target-shaped. When it begins, it will not be a blind replacement pass. The sweep will cover the book, manual, primer, pamphlets, texts, and current documents for paraphrases or workarounds involving vocabulary added or clarified during the completed migration. A Phi passage will change only when the current form is more faithful or natural in that passage. A transparent composition will stay when its parts still teach or express the thought better, and every changed sentence and dependency will receive validation.
 
 The shelf's method distinction remains settled:
 
@@ -120,7 +120,7 @@ Citation work performed in earlier conversations is not preserved as a complete 
 | Native glyph mode | Parked | Daniel chooses to resume exploration of Phi's one intended native script. |
 | Spoken source material and code-switching | Open design question | Live conversational examples make the current outside-syntax boundary inadequate. Do not reintroduce guest or exact frames. |
 | Sexual and reproductive anatomy | Queued scenario-led vocabulary effort | Begin as its own respectful corpus and vocabulary project, not as an unnoticed extension of Medical vocabulary. |
-| Legacy vocabulary prose audit | Active | Complete the remaining 26 module entries with Accessibility and Participation next, then run the active-corpus retrofit; the base queue reached zero in D044, and D045 through D050 completed the first six module learning paths through Medical and Bodily Care. |
+| Legacy vocabulary prose audit | Active | Complete the final 16 module entries in Work, Craft, and Repair, then run the active-corpus retrofit; the base queue reached zero in D044, and D045 through D051 completed the first seven module learning paths through Accessibility and Participation. |
 | Lexical relations between content words | Parked | The explorer or project needs curated related-word navigation strongly enough to add and maintain a schema field. |
 | Tengwar renderer verification | Parked | Tengwar work resumes or approaches publication status. |
 | Solarpunk community engagement | Open strategic question | Daniel is ready to offer Phi outside its repository and decide what a healthy invitation looks like. |

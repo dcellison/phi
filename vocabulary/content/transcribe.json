@@ -8,13 +8,23 @@
     "ku"
   ],
   "pos": "verb",
-  "concept": "Transcribe / Render Spoken or Recorded Language in Writing",
-  "description": "To render spoken, signed, or recorded language in writing or another stable textual form. A transcription may be verbatim, edited, delayed, partial, or uncertain according to its stated method. 'thekasi' (caption) travels in time with an event; 'sitheku' can stand afterward as a document.",
-  "sound_symbolism": "Fine 'si' sends a bright hiss into stressed dental 'the'. The middle keeps the airflow but moves it from the ridge to the teeth and opens into balanced 'e'. Final 'ku' closes firmly at the velum and drops into deep 'u'.",
-  "grammatical_notes": "A transitive verb: 'shia ha haolu sitheku.' (They transcribe this speech.) The event-noun rule supplies a transcription or the act of transcribing. The source, editor, completeness, and relation to exact wording remain available as separate facts.",
+  "search_terms": [
+    "make a transcript",
+    "textual transcription"
+  ],
+  "description": "To render spoken, signed, or recorded language in writing or another stable textual form. A transcription may be verbatim or edited, complete or partial, certain or uncertain according to its stated method. 'thekasi' (caption) travels in time with an event; 'sitheku' can stand afterward as a document.",
+  "articulatory_notes": "Send unvoiced air through a narrow alveolar groove for 's' and raise the tongue into high-front unrounded 'i'. Move the tongue tip to the upper teeth for unvoiced 'th'; keep the air flowing and release into stressed true-mid front unrounded 'e'. Seal the back of the tongue at the soft palate for unvoiced 'k', then finish in high-back rounded 'u'.",
+  "sound_symbolism": "The fine hiss moves from the alveolar ridge to dental breath, then ends in a firm velar closure. That gradual gathering of airflow can call to mind passing speech caught in a stable line.",
+  "usage_notes": "The object is the speech, signing, recording, or other language rendered as text. Noun use gives a transcription or the act of making one. Source and method matter, as do editing, completeness, and uncertainty. A transcription records expression; agreement, interpretation, and authorship remain separate.",
+  "examples": [
+    {
+      "phi": "shia ha haolu sitheku.",
+      "translation": "They transcribe this speech."
+    }
+  ],
   "pillars": {
     "peace-linguistics-practices": "The verb separates making a record of expression from agreeing with it, interpreting it, or speaking for its author.",
-    "pre-industrial-wisdom": "A scribe could hold words beyond the breath that carried them, but the written line still bore the scribe's hearing and choices."
+    "pre-industrial-wisdom": "Writing lets a spoken line remain after the breath has gone. It also carries what the scribe heard, missed, or chose, which is why the method belongs beside the record."
   },
   "semantic_domains": {
     "communication": "carrying spoken or signed expression into writing",

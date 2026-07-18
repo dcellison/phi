@@ -8,16 +8,26 @@
     "si"
   ],
   "pos": "verb",
-  "concept": "Caption / Present Timed Text for Speech and Meaningful Sound",
-  "description": "To present synchronized text or another readable display for speech and meaningful sound in a live or recorded event. Captions can identify the speaker and report relevant non-speech sound. 'sitheku' (transcribe) preserves verbal content in writing without requiring synchronization.",
-  "sound_symbolism": "Dental breath opens 'the' quietly. Stressed 'ka' interrupts it with a crisp velar closure and broad 'a', then final 'si' returns to fine air and bright 'i'. A breath, a firm center, and a hiss give the word three sharply separated beats.",
-  "grammatical_notes": "A transitive verb: 'lo mia ha haolu thekasi.' (We caption this speech.) The event-noun rule supplies captions or captioning according to context. The clause may name whether the event is live, recorded, complete, delayed, or edited.",
+  "search_terms": [
+    "timed text",
+    "synchronized text"
+  ],
+  "description": "To present synchronized readable text for speech and meaningful sound in a live or recorded event. Captions may identify the speaker and report sound that carries information. 'sitheku' (transcribe) makes a stable textual rendering without requiring it to travel in time with the event.",
+  "articulatory_notes": "Touch the tongue tip lightly to the upper teeth for unvoiced 'th', leave a narrow path for air, and move into true-mid front unrounded 'e'. Close the back of the tongue at the soft palate for unvoiced 'k' before releasing into stressed central 'a'. For final 'si', send unvoiced air through a narrow alveolar groove and raise the tongue into high-front unrounded 'i'.",
+  "sound_symbolism": "Dental breath, a crisp stressed closure, and a fine final hiss give 'thekasi' three clearly separated beats. Their spacing can recall text arriving in step with an event, though the association is phonesthetic rather than grammatical.",
+  "usage_notes": "The object is the speech, recording, event, or other material being captioned. Noun use gives captions or captioning according to context. Live or prepared work, completeness, delay, and editing remain available as separate details. Exact format and conformance claims stay with their source.",
+  "examples": [
+    {
+      "phi": "lo mia ha haolu thekasi.",
+      "translation": "We caption this speech."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "A community meeting can change its communication practice without requiring every participant to use the same sense.",
-    "peace-linguistics-practices": "Captions let speech remain available when hearing it is not, and they expose whether laughter, alarms, or speaker identity carried meaning that words alone missed."
+    "solarpunk-values": "A gathering can change its communication practice without requiring every participant to use the same sense.",
+    "peace-linguistics-practices": "Captions keep speech available when hearing it is not, while speaker identity, laughter, alarms, and other meaningful sounds need not vanish from the record."
   },
   "semantic_domains": {
-    "communication": "speech and meaningful sound presented in a readable form",
+    "communication": "speech and meaningful sound presented in readable form",
     "creation": "timed readable text made for a sounding event",
     "temporal": "text synchronized with a live or recorded event"
   },

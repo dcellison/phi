@@ -1,6 +1,6 @@
-# Lexicon Expansion Survey (2026-07-17)
+# Lexicon Expansion Survey (2026-07-18)
 
-This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,221 entries: 1,091 content words, 110 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become detailed where speakers need specialised discussion.
+This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,275 entries: 1,145 content words, 110 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become detailed where speakers need specialised discussion.
 
 A missing English headword is not automatically a Phi gap. A concept may already be covered elegantly by a broader root, ordinary composition, an event noun, a registered compound, or a separately presented source artifact plus Phi analysis. That observation does not prohibit coinage: a concept may receive a dedicated word because it is important, useful, beautiful, or worth making easy to discuss.
 
@@ -93,11 +93,13 @@ All 31 inherited Medical entries now follow the target prose contract. The compl
 
 Exact vital signs, procedures, medicine identities, and public-health classifications retain their sources. The review also keeps a return condition for sudden loss of consciousness or control, where emergency scenarios may yet earn a direct event word. `CV-MED-SENSITIVE-01` continues to hold mental health, reproductive health, sexuality, gender, abuse, and coercive care for dedicated scenarios. Disability and environmental access remain coordinated with Accessibility rather than being absorbed into disease vocabulary.
 
-### Accessibility and participation: first pass complete
+### Accessibility and participation: current prose complete
 
 The [Accessibility and Participation module](../modules/accessibility_and_participation.md) now establishes 30 optional terms. Its access family names access, accessibility, barriers, accommodation, impairment, independence, and assistive support. Practical terms address whether tools or routes can be used, fitted, cleared, and navigated. Communication terms distinguish format, captioning, transcription, interpretation, tactile presentation, equivalence, legibility, and audibility. Timing words cover pace, recess, postponement, asynchronous contribution, predictability, and overload. The participation family names consultation, exclusion, discrimination, disclosure, and advocacy.
 
-The pass also adds `sowelu` disabled to shared core because a person should not need an optional module to name disability identity. It keeps requirements, advance notice, processing time, decision support, and proxy relations compositional. Assistive devices, accessible design, communication preference, and spoken or written descriptions also remain transparent combinations. Named languages and communication systems, legal accommodation categories, technical standards, device identities, access plans, and exact measurements remain in source material when their source form matters.
+The pass also adds `sowelu` disabled to shared core because a person should not need an optional module to name disability identity. All ten inherited Accessibility entries now follow the target prose contract, and the completeness review adds no root. Access requirements, assistive support, sensory and fluctuating conditions, emergency help, digital interfaces, inclusive design, and the roles around communication remain ordinary compositions that leave agency and context visible.
+
+Named languages and communication systems, legal accommodation categories, technical standards, device identities, access plans, identity wording, and exact measurements remain in source material when their form matters. A connected Built Environment scenario now holds the return point for ramps, lifts, handrails, tactile paving, and related features. The module therefore closes its present prose pass without pretending that a general accessible label certifies every person, activity, or setting.
 
 ### Household and daily life: current prose complete
 

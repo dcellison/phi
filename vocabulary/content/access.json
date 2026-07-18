@@ -8,13 +8,23 @@
     "li"
   ],
   "pos": "verb",
-  "concept": "Access / Reach, Receive, or Use Under Stated Conditions",
-  "description": "To reach or enter a place, or to receive and use a resource, communication, service, or activity under stated conditions. Access is a practical relation, so an open door may still lead to a route a person cannot use; 'ruweli' names reaching or use, while 'pawela' (participate) begins when someone takes part.",
-  "sound_symbolism": "Deep 'ru' starts with a rolling tongue. Stressed 'we' moves the contact to rounded lips and glides into balanced 'e', while final 'li' returns to a lighter liquid and bright 'i'. Two kinds of open motion join in a steady rise and finish with a free liquid release.",
-  "grammatical_notes": "A transitive verb: 'mia ha shoeka ruweli.' (I access this route.) The object may be a place, resource, communication, service, or activity. The event-noun rule supplies an act or condition of access. Distinct from 'koema' (enter), 'howela' (receive), and 'pawela' (participate).",
+  "search_terms": [
+    "reach and use",
+    "practical access"
+  ],
+  "description": "To reach or enter a place, or to receive and use something provided, under stated conditions. The object may be information, a service, or an activity. 'ruweli' names a practical relation: an open door may still lead to a route someone cannot use. 'pawela' (participate) begins when the person takes part, which access alone does not promise.",
+  "articulatory_notes": "Begin with a voiced tap or short trill at the alveolar ridge, then raise the back of the tongue into high-back rounded 'u'. Keep the lips rounded for voiced 'w' and glide forward into stressed true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The opening roll, middle glide, and final lateral release give 'ruweli' a sense of movement that keeps finding room. This is a phonesthetic association, not a claim that any syllable means path or access.",
+  "usage_notes": "The object is whatever is reached or used. The person, conditions, and intended act complete the relation when context does not already supply them. Noun use gives access as an event or practical relation. Entering remains 'koema', receiving 'howela', and participating 'pawela'.",
+  "examples": [
+    {
+      "phi": "mia ha shoeka ruweli.",
+      "translation": "I access this route."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "A shared garden is not available merely because it exists; 'ruweli' asks whether a person can reach and use it under actual conditions.",
-    "peace-linguistics-practices": "The verb lets a speaker locate blocked access in a practical relation instead of turning the person who encounters the block into the problem."
+    "solarpunk-values": "A shared garden is not available merely because it exists. 'ruweli' asks whether a person can reach and use it under the conditions actually present.",
+    "peace-linguistics-practices": "The verb locates blocked access in a relation among people, places, forms, and time instead of casting the person who meets the barrier as the problem."
   },
   "semantic_domains": {
     "activity": "reaching or using a stated activity or resource",

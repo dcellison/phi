@@ -64,6 +64,12 @@ The first pass admits 30 optional words. It also places `sowelu` disabled in sha
 
 All 30 roots coined in this pass carry `accessibility-and-participation`. `sowelu` carries no module field and appears in the base vocabulary. Every form is three syllables, duplicates no syllable, has no character edit-distance-one neighbor, and stays above the phonetic audit threshold from every existing and same-batch word.
 
+## Current prose and completeness
+
+All ten inherited Accessibility entries now use the target vocabulary prose contract. The completeness review found no missing concept that deserved another root. Existing words and ordinary clauses already distinguish an access need from the change requested, captions from transcripts, interpretation from representation, and pace from schedule or deadline. The module had enough words; several of them simply needed definitions that behaved less like labels on a filing cabinet.
+
+Sixteen new decisions preserve the questions raised by the review. Environmental and sensory access sit beside fluctuating needs and emergency assistance. Digital interfaces, support roles, and inclusive design remain explicit relations. Named languages and communication systems keep their exact sources. Standards and device models do too, along with access plans, identity terms, and legal tests. Built-environment features such as ramps, lifts, handrails, and tactile paving have a connected scenario return point rather than an unexamined shopping list of roots.
+
 ## Concepts kept compositional or external
 
 | Concept | Phi strategy | Reason to keep the parts visible |
@@ -101,4 +107,4 @@ The module words carry no professional credential or compliance result. `thekasi
 
 ## Continued development
 
-Use the module wherever access becomes part of an ordinary activity: a workshop or home, a public route, a digital system, a care conversation, or a collective decision. Later use may expose missing words for orientation and fatigue, communication and sensory conditions, or institutional harm. Coin them when Phi needs them instead of forcing every new experience through this first set.
+Use the module wherever access becomes part of an ordinary activity: a workshop or home, a public route, a digital system, a care conversation, or a collective decision. The planned active-corpus pass will revisit existing texts as a whole after Work, Craft, and Repair completes the module-prose migration. A passage changes when the established vocabulary makes it clearer, safer, more direct, or less evasive; it stays as written when the original composition remains natural or intentionally records the before-state. Later use may still expose a distinction worth coining, and the decision register keeps every noticed question from quietly disappearing.

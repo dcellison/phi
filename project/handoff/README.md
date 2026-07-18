@@ -20,15 +20,15 @@ Do not use `archive/` as current evidence. It preserves history, including appro
 
 ## Where the work stopped
 
-SEM-09B is complete, and D045 through D050 have finished six SEM-09C module batches. The lexicon now has 1,275 entries: 1,249 target-shaped and 26 legacy-shaped. Every function word, interjection, and base content entry is finished. Medical and Bodily Care joins the five earlier module paths at zero legacy prose; everything still waiting belongs to Accessibility and Participation or Work, Craft, and Repair.
+SEM-09B is complete, and D045 through D051 have finished seven SEM-09C module batches. The lexicon now has 1,275 entries: 1,259 target-shaped and 16 legacy-shaped. Every function word, interjection, and base content entry is finished. Accessibility and Participation joins the six earlier module paths at zero legacy prose; everything still waiting belongs to Work, Craft, and Repair.
 
 The execution order is fixed in the roadmap:
 
-1. Migrate the remaining 26 module entries while preserving every established module membership and the established editorial voice; Accessibility and Participation is next.
+1. Migrate the final 16 module entries while preserving every established module membership and the established editorial voice; Work, Craft, and Repair is next.
 2. Sweep active Phi passages for old workarounds that the completed vocabulary can improve.
 3. Return to the Phi book with chapter 7, "A literature before a community."
 
-The immediate task is the Accessibility and Participation batch within SEM-09C, described in [`current_state.md`](current_state.md). The maintainer has deliberately kept the remaining 26 entries in the current editorial sequence so the completed lexicon reads as though one person made it. SEM-09D waits until every entry is target-shaped.
+The immediate task is the Work, Craft, and Repair batch within SEM-09C, described in [`current_state.md`](current_state.md). The maintainer has deliberately kept the final 16 entries in the current editorial sequence so the completed lexicon reads as though one person made it. SEM-09D waits until every entry is target-shaped.
 
 ## The maintainer's working contract
 
