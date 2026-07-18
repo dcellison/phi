@@ -8,17 +8,27 @@
     "ri"
   ],
   "pos": "verb",
-  "concept": "Represent / Act or Communicate on Behalf of Another",
-  "description": "To speak or act on behalf of another party. The word names the standing itself, and a careful claim of it names its scope too: who authorized the representation, on what matter, for how long, and what happens if the representative gets it wrong.",
-  "sound_symbolism": "Broad 'sha' begins as shaped breath entering shared air. Stressed 'lo' carries that voice through a low liquid and round vowel. 'Ri' adds another movement of the tongue and brightens the end. One voice travels through another mouth, with the two liquid contacts keeping the path between them audible.",
-  "grammatical_notes": "A transitive verb with the representative as subject and the represented party as object: 'mia ha sila shalori.' (I represent this community.) State the matter, authorization, instructions, limits, and reporting relation separately where needed. The event-noun rule supplies representation. Distinct from 'relo' (symbol), 'thelima' (describe), 'shane' (tell), resemblance, and 'kanuwa' (authorize).",
+  "search_terms": [
+    "act on behalf of",
+    "speak for"
+  ],
+  "description": "To 'shalori' is to speak or act on behalf of another person or group within a stated matter. The relation may come from election, appointment, or another accepted source, and the represented people can still correct or reject what is said for them. 'shaweri' (advocate) can support a position without claiming this standing.",
+  "articulatory_notes": "Raise the tongue blade behind the alveolar ridge for unvoiced 'sh' and release into central 'a'. Touch the tongue tip to the alveolar ridge for 'l', let air pass along its sides, and hold stressed true-mid rounded 'o'. Finish with a tap or short trill followed by high-front 'i'.",
+  "sound_symbolism": "Broad 'sha' narrows into the rounded lateral centre of stressed 'lo', then final 'ri' turns the tongue once more and brightens the ending. The two tongue contacts give the word an audible path from one speaker towards another party.",
+  "usage_notes": "In a transitive clause, the representative precedes the represented party. Nearby clauses can give the matter and source, followed by duration, instructions, or a reporting relation. Representation is its event-noun reading. A symbol is 'relo'; resemblance and description use their own words.",
+  "examples": [
+    {
+      "phi": "mia ha sila shalori.",
+      "translation": "I represent this community."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Representation can coordinate decisions beyond face-to-face participation while remaining answerable to the people, places, and future interests it claims to carry.",
-    "peace-linguistics-practices": "The word requires speakers to distinguish speaking with someone from speaking for them and to preserve refusal, correction, and limits on proxy power."
+    "solarpunk-values": "Representation lets a dispersed community coordinate beyond one meeting while keeping the representative answerable to the people whose position they carry.",
+    "peace-linguistics-practices": "The verb makes speaking for someone audible as a separate power relation. Their correction and refusal remain intact."
   },
   "semantic_domains": {
-    "communication": "carrying another party's position under stated scope and authorization",
-    "community": "acting or communicating on behalf of a stated party"
+    "communication": "speaking on behalf of another party within a stated matter",
+    "community": "acting for represented people under a recognised source of standing"
   },
   "modules": [
     "accessibility-and-participation",

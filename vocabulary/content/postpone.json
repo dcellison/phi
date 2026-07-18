@@ -8,10 +8,20 @@
     "su"
   ],
   "pos": "verb",
-  "concept": "Postpone / Move a Planned Activity or Decision Later",
+  "search_terms": [
+    "defer",
+    "reschedule later"
+  ],
   "description": "To move a planned activity, action, or decision to a later time without canceling it. Postponement changes the plan itself, while 'hasi' (wait) can occur inside an unchanged plan. The new time, decision source, and effects on participants remain separate facts.",
+  "articulatory_notes": "Round the lips for voiced 'w' and glide into high-front 'i'. Tap or briefly trill the tongue tip before stressed true-mid front 'e'. Form a narrow groove along the tongue for unvoiced 's' and finish on high-back rounded 'u'.",
   "sound_symbolism": "Bright 'wi' glides inward from rounded lips. Stressed 're' turns the tongue through balanced 'e', then final 'su' releases a hiss into deep 'u'. After one quick turn, the sound ends lower than it began.",
-  "grammatical_notes": "A transitive verb: 'lo mia ha lona wiresu.' (We postpone this meeting.) The event-noun rule supplies a postponement. A future phrase can name the new time, while Commons authority terms can identify who made or contested the change.",
+  "usage_notes": "A postponing person or group precedes the planned event or decision in an ordinary transitive clause. Noun use yields a postponement. A future phrase can name the new time, while Commons terms can identify who had authority to move it and who contested the change.",
+  "examples": [
+    {
+      "phi": "lo mia ha lona wiresu.",
+      "translation": "We postpone this meeting."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Shared plans remain answerable to weather, care, access, and material conditions instead of treating the first calendar entry as immovable.",
     "peace-linguistics-practices": "Postponement can protect participation when a group needs more time, and the same word leaves room to name when delay shifts the burden onto someone else."

@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (314)
+## activity (316)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -17,8 +17,8 @@
 | `hasi` | wait | continuing through an interval in expectation |
 | `hasoru` | pending | a task, request, or decision awaiting its next action or condition |
 | `hekawi` | find | coming upon a person, object, place, or answer |
-| `helaki` | amend | formally changing part of a continuing rule or record |
-| `helolu` | redress | acting to address a stated institutional or social harm |
+| `helaki` | amend | formally changing part of a continuing rule, decision, or record |
+| `helolu` | redress | acting to address a social harm and its continuing effects |
 | `heno` | satisfy | a condition or criterion met by an action or result |
 | `hewe` | wipe | a clearing or spreading stroke made with a hand, cloth, or similar surface |
 | `hinawu` | accommodate | changing a practice so a stated action becomes possible |
@@ -29,8 +29,8 @@
 | `kamo` | arrive | reaching the endpoint of travel or another process |
 | `kanelu` | err | an action or course taken in error |
 | `kanu` | choose | selecting one action or course from alternatives |
-| `kanuwa` | authorize | granting bounded permission or decision power |
-| `kasira` | vote | formally registering a choice or stance |
+| `kanuwa` | authorize | granting bounded permission or power for a stated action |
+| `kasira` | vote | formally registering a choice or stance in a procedure |
 | `katemu` | offcut | a remainder produced during cutting or shaping |
 | `kati` | cut | using an edge to divide or open material |
 | `kawepa` | catch | meeting a moving body or object to stop or support its motion |
@@ -59,6 +59,7 @@
 | `kolupe` | bucket | carrying liquid or loose material by hand |
 | `kopharu` | barrier | a condition obstructing a stated action |
 | `korei` | fulfill | a purpose or undertaking carried into actual performance |
+| `kowanu` | governance | the continuing practice through which collective decisions are made and carried out |
 | `kupe` | hide | deliberately placing a person or thing beyond an observer's perception |
 | `kuremi` | grind | working material repeatedly against hard surfaces |
 | `laniru` | journey | extended travel gathered into one event |
@@ -68,7 +69,7 @@
 | `liroa` | playful | a play-seeking manner brought to an action or interaction |
 | `lisaku` | lick | moving the tongue across a person, object, or substance |
 | `loa` | give | directing something towards a recipient through an act of giving |
-| `loatho` | delegate | entrusting a bounded role or action to a recipient |
+| `loatho` | delegate | entrusting a bounded action or role to another person |
 | `lokane` | accessible | a route, tool, or arrangement available for a particular activity |
 | `lorea` | connect | establishing a link between previously separate participants or things |
 | `lorima` | build | assembling components or layers into a larger structure |
@@ -78,7 +79,7 @@
 | `lupaki` | fold | laying one part of flexible material over another |
 | `lupho` | float | the continuing condition of being borne up |
 | `luseri` | provenance | the traced movement and transformation of a thing |
-| `makelu` | abstain | formally registering no selection in a procedure |
+| `makelu` | abstain | formally withholding selection in a vote or similar procedure |
 | `malomi` | balance | deliberate adjustment that brings competing forces or demands into equilibrium |
 | `manolu` | stay | remaining in a place, state, or relation |
 | `masue` | measure | gauging something against a standard for a practical purpose |
@@ -115,7 +116,7 @@
 | `noporu` | design | specifying an intended artifact, system, or intervention |
 | `norae` | method | an organised way of carrying out practical or reflective work |
 | `noraku` | blocked | a work state stopped by an obstacle |
-| `norathu` | procedure | an ordered and specified collective process |
+| `norathu` | procedure | a specified sequence of actions directed towards a result |
 | `norelu` | form | bringing people, parts, or material into an organised arrangement |
 | `norupe` | spoon | a utensil used to scoop, eat, measure, or stir |
 | `nuawe` | together | an action carried out jointly by more than one participant |
@@ -131,6 +132,7 @@
 | `palo` | touch | the act of making contact with a person or thing |
 | `panoru` | support | providing what another activity or condition depends on |
 | `panuri` | resource | something treated as available for a stated purpose or process |
+| `pashenu` | petition | presenting a formal request for a stated action |
 | `pawela` | participate | taking an active part in an event or process |
 | `peki` | squeeze | compressing a person or thing from opposing directions |
 | `perawi` | expose | contact between an entity and a stated environmental agent |
@@ -140,7 +142,7 @@
 | `phaero` | transit | the event of passing through or across an intervening span |
 | `phaluwe` | flood | water covering or overflowing beyond a stated usual boundary |
 | `phanoi` | portion | dividing a whole into portions for recipients or uses |
-| `phanuli` | allocate | assigning a resource, opportunity, or burden under a criterion |
+| `phanuli` | allocate | assigning a resource, opportunity, period, or burden |
 | `pharelo` | cook | preparing food through controlled heat |
 | `phareme` | ingredient | food selected for use in a preparation |
 | `pharomu` | exclude | preventing or omitting participation in a stated action |
@@ -163,7 +165,7 @@
 | `phurilo` | broom | an instrument used in sweeping |
 | `phuro` | renew | beginning another period of use or practice |
 | `pilewa` | make | work that brings about a concrete or abstract result |
-| `pilora` | exploit | extracting benefit through a structured power relation |
+| `pilora` | exploit | securing disproportionate benefit through power or vulnerability |
 | `pilu` | take | actively bringing something into immediate control or use |
 | `pina` | sew | joining or finishing material with repeated stitches |
 | `pisha` | split | deliberately parting material along a line it readily follows |
@@ -208,7 +210,7 @@
 | `sephori` | supply | making a resource available for practical use |
 | `seru` | commit | undertaking to follow a stated course of action |
 | `sethoni` | handoff | transferring a bounded stage of work |
-| `shalimo` | alliance | oriented toward sustained collective action, not one decision |
+| `shalimo` | alliance | continuing cooperation organised around a shared purpose |
 | `shaweri` | advocate | acting in support of a stated position or change |
 | `shemoli` | harmonize | deliberate adjustment that brings unlike parts into accord |
 | `sheraki` | search | sustained action directed towards finding something |
@@ -223,7 +225,7 @@
 | `shuneki` | vaccinate | administering a vaccine for a stated protective purpose |
 | `sikanu` | certify | issuing or maintaining a formal criteria claim |
 | `sitawi` | inventory | recording and reviewing held items |
-| `sithora` | role | a defined position associated with stated functions and obligations |
+| `sithora` | role | a position defined through its expected or permitted work |
 | `siwe` | sweat | a bodily substance often produced during physical exertion |
 | `soki` | settle | beginning or establishing continuing residence |
 | `somaki` | test | performing a defined evidential procedure |
@@ -287,7 +289,7 @@
 | `tolu` | staff | a support used while walking or testing the ground |
 | `tomi` | pot | a vessel used in cooking and food preparation |
 | `tukelu` | recycle | processing recovered or discarded material into another input or material |
-| `tukiro` | review | systematically reconsidering a prior matter |
+| `tukiro` | review | systematically reconsidering an earlier decision, record, or action |
 | `tumoa` | heavy | work or obligation experienced as burdensome through metaphorical weight |
 | `tupeka` | burden | a difficult demand borne through action or responsibility |
 | `tupi` | jump | a jump treated as one bounded bodily act |
@@ -314,7 +316,7 @@
 | `whepelo` | retaliate | imposing a disadvantage in response to a stated prior action |
 | `wheraku` | erode | detachment and movement of earth or rock |
 | `whesu` | blow | a person or device sending a stream of air |
-| `whetuma` | appeal | requesting formal reconsideration of a prior matter |
+| `whetuma` | appeal | requesting formal reconsideration of a prior decision |
 | `whori` | mend | hands-on closure of a tear, split, or modest break |
 | `whunei` | breathe | breathing as a continuing bodily act |
 | `wile` | play | recreation or a game pursued for participation and enjoyment |
@@ -406,7 +408,7 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `woraka` | appreciate | positive recognition of a sensory or artistic quality |
 
-## cognition (246)
+## cognition (245)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -426,7 +428,7 @@
 | `hoshemi` | hypothesis | a proposed explanation or relation examined against evidence |
 | `kanelu` | err | a mistake made in thought, memory, judgement, or understanding |
 | `kanu` | choose | settling on one alternative from those considered or available |
-| `kanuro` | decision | a choice assigned settled or actionable status |
+| `kanuro` | decision | a choice treated as settled enough to guide later action |
 | `kelai` | equals | the stated answer to an arithmetic operation |
 | `kelomi` | accept | adopting something presented for consideration |
 | `kethira` | infer | deriving a conclusion from premises |
@@ -436,7 +438,7 @@
 | `kiranu` | qualified | a comparison with prerequisites named by a source |
 | `kirema` | criterion | a standard applied in classification, assessment, or choice |
 | `kirero` | quality | a multidimensional evaluation relative to criteria |
-| `kirethu` | legitimate | an evaluation of how an authority or decision is grounded |
+| `kirethu` | legitimate | a judgement made under identifiable grounds and standpoint |
 | `kiro` | precise | narrow scope, exact expression, or little unintended variation |
 | `kirothe` | define | setting out a term's meaning or conditions of application |
 | `kirowi` | signal | a detectable variation interpreted as carrying information |
@@ -480,7 +482,7 @@
 | `muro` | stubborn | resistance to reconsidering a position or judgement |
 | `nai` | be | identity, classification, and attributed states |
 | `naropu` | feedforward | anticipatory control whose information and uncertainty remain explicit |
-| `nasholu` | rule | a stated normative prescription with conditions and scope |
+| `nasholu` | rule | a stated prescription that can be interpreted and evaluated |
 | `natheri` | entail | a necessary truth-preserving relation between propositions |
 | `nathoku` | contraindicated | a sourced clinical judgement about a proposed intervention |
 | `nawo` | agree | holding the same proposition or judgement as another participant |
@@ -557,7 +559,6 @@
 | `selua` | aware | awareness directed towards a present fact, sensation, event, or condition |
 | `sena` | pattern | structure recognised across repeated or related instances |
 | `senao` | same | identity or broad sameness established on a stated or recoverable basis |
-| `shalimo` | alliance | held together by a shared conviction, an idea before it is a bond |
 | `sharemi` | persuade | trying to influence another person's belief or judgement |
 | `shareo` | discuss | joint examination of a stated subject |
 | `sharino` | conscience | the faculty of judging one's own conduct against held values |
@@ -630,7 +631,7 @@
 | `thuni` | intuitive | a thought or response arising without consciously followed reasoning |
 | `thuroa` | grow | understanding or a learned capacity developing over time |
 | `tiso` | sharp | keen attention or thought that detects fine distinctions |
-| `tukiro` | review | reassessment under stated evidence and criteria |
+| `tukiro` | review | reassessment conducted under stated evidence or criteria |
 | `turelo` | feedback | a relation used to explain changing system behavior |
 | `waeli` | conscious | the presence of subjective experience or wakefulness |
 | `wakomi` | surprise | an event encountered outside the experiencer's formed expectation |
@@ -657,7 +658,7 @@
 | `woraka` | appreciate | attention that recognises value in a person, act, thing, or condition |
 | `wuneri` | variable | a selected feature used in models, records, tests, and comparisons |
 
-## communication (133)
+## communication (135)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -670,6 +671,7 @@
 | `hoshemi` | hypothesis | a provisional account made available for shared testing |
 | `howela` | receive | receiving a message, account, or other communicative object |
 | `kapura` | shout | a voice projected forcefully to carry a call or words |
+| `kathu` | seal | an authenticating mark attached to a record or message |
 | `kela` | rejoice | strong joy made perceptible to another person |
 | `keloa` | rough | an abrasive texture extended to the delivery of a voice or utterance |
 | `keluro` | honor | respect or tribute deliberately expressed to others |
@@ -679,7 +681,7 @@
 | `kirowi` | signal | a technical communication relation that does not guarantee shared meaning |
 | `kisholu` | specification | a shareable statement of requirements that may still be disputed or revised |
 | `kithero` | diagnose | stating a potentially revisable health conclusion |
-| `kowela` | council | transforms governance through deep listening and patient dialogue |
+| `kowela` | council | a continuing body in which collective deliberation may occur |
 | `kupela` | secret | a chosen limit on whether particular information is told |
 | `lathoe` | tongue | a speech organ that shapes breath into articulated sound |
 | `lesawi` | consent | giving, withholding, or withdrawing a bounded answer |
@@ -699,7 +701,7 @@
 | `moreko` | articulate | clear verbal expression available for another person's response |
 | `mothare` | premise | a claim participants can grant, question, or revise explicitly |
 | `naweri` | refuse | giving an explicit negative answer or rejecting a claim |
-| `naweso` | consensus | public stances considered under a stated consensus rule |
+| `naweso` | consensus | participants' stated positions considered under a consensus procedure |
 | `nawo` | agree | stating accord on a proposition or proposed course |
 | `noeli` | warm (emotional) | warmth expressed through voice, greeting, or parting |
 | `noemi` | authentic | a voice or expression faithful to the speaker's lived commitments |
@@ -709,6 +711,7 @@
 | `nosheku` | retract | withdrawal of an earlier claim or proposal from one's present contribution |
 | `nowiso` | interface | an informational interface can mediate exchange without guaranteeing understanding |
 | `numike` | negotiate | discussing terms with one or more counterparts |
+| `pashenu` | petition | directing a request to an identified person or institution |
 | `pelua` | paper | a sheet material commonly used to carry writing and marks |
 | `penuwa` | page | a bounded unit through which written material is presented |
 | `peshu` | lie | an utterance or expressive act intended to produce a false belief |
@@ -730,15 +733,15 @@
 | `remotha` | reason | a ground offered for others to examine |
 | `remuma` | conclusion | the result of an argument that participants may assess separately |
 | `reo` | meaning | the relation through which an expression or symbol carries a sense |
-| `repora` | propose | a proposal remains open to response, amendment, and refusal |
+| `repora` | propose | putting a possible action before others for response |
 | `roela` | scroll | a rolled carrier that can hold writing or images |
 | `samethu` | equivalent | comparison between different expressions or formats |
 | `selomi` | weave | the established extension from interlaced thread to a story woven from events |
 | `seniku` | smile | a visible facial expression interpreted within an interaction |
 | `sepho` | send | sending a message, letter, or other communicative object |
-| `shalori` | represent | carrying another party's position under stated scope and authorization |
+| `shalori` | represent | speaking on behalf of another party within a stated matter |
 | `shane` | tell | an account directed to a listener |
-| `shanewi` | notify | information offered without presuming receipt or understanding |
+| `shanewi` | notify | information formally directed from a source to a recipient |
 | `shapelu` | throat | the internal bodily region through which voice passes |
 | `sharemi` | persuade | using reasons or another communicative appeal to influence a listener |
 | `shareo` | discuss | spoken or written exchange centred on one topic |
@@ -774,11 +777,11 @@
 | `thenui` | direct | an answer or statement that reaches its subject without evasion or an intermediary |
 | `theo` | read | receiving an expression preserved in readable form |
 | `theonu` | attend | attention kept on another participant's words or response |
-| `thereo` | mediator | facilitates communication and understanding between parties |
+| `thereo` | mediator | helping stated parties listen, clarify, and seek their own settlement |
 | `thesori` | evidence | material offered so that a claim can be assessed by others |
 | `thilou` | inquire | putting a question to another person |
 | `thimelo` | pace | speed at which an exchange proceeds |
-| `thorae` | facilitator | Group enabling |
+| `thorae` | facilitator | guiding how a group exchanges information and moves through a process |
 | `thorai` | bless | goodwill addressed to a recipient through words or another expressive act |
 | `thorelu` | converse | spoken exchange conducted in turns |
 | `thosami` | compatible | communication formats able to be exchanged or rendered together |
@@ -795,25 +798,25 @@
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
-## community (271)
+## community (273)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `haluma` | language | a communicative practice learned, changed, and shared among people |
 | `haromi` | meet | people coming into one another's presence by plan or chance |
 | `hasenu` | recess | shared time for rest or repair before resumption |
-| `helaki` | amend | institutional revision with preserved history |
+| `helaki` | amend | institutional revision that preserves the identity and history of the matter |
 | `helia` | youth | a young person recognised within social life |
 | `heloi` | generous | readiness to give or share with regard for others |
-| `helolu` | redress | redress shaped by affected parties and remaining loss |
+| `helolu` | redress | an institutional response shaped by affected people and the loss they identify |
 | `hinawu` | accommodate | a particular response to an access requirement |
 | `holia` | festival | a gathering or occasion organised for shared celebration |
 | `howela` | receive | receiving something from another participant in a social relation |
 | `kalora` | horse | a horse in a stated relation with people or shared work |
-| `kanuro` | decision | a collective or institutional decision with stated scope |
-| `kanuwa` | authorize | institutional authorization with a stated source and scope |
-| `karami` | authority | claimed or recognized decision power within a stated scope |
-| `kasira` | vote | a vote within a defined collective procedure |
+| `kanuro` | decision | a decision made within a group or institutional process |
+| `kanuwa` | authorize | a social grant with an identifiable source and recipient |
+| `karami` | authority | claimed or recognised power to decide or act within a social scope |
+| `kasira` | vote | a participant's recorded position within collective decision making |
 | `kasuno` | selfish | a choice or pattern that discounts other people's relevant needs or claims |
 | `kawhera` | coerce | coercion within a social or institutional relation |
 | `keloe` | companion | a person sharing a course or period of company with another |
@@ -822,24 +825,25 @@
 | `keno` | custom | a social group treating a pattern as its customary way |
 | `kima` | scribe | a recognised role in keeping durable records |
 | `kiranu` | qualified | eligibility defined by a social or institutional source |
-| `kirethu` | legitimate | contested legitimacy under stated social criteria |
+| `kirethu` | legitimate | evaluation of an authority, role, rule, or decision within a social relation |
 | `kithawu` | triage | distribution of care timing and resources among affected people |
 | `kolo` | equal | equal standing among participants within a group |
 | `koluma` | unite | people joining into a shared body or effort |
 | `kopharu` | barrier | an arrangement that restricts participation |
 | `korei` | fulfill | a promise or commitment carried out where others may rely on it |
 | `koru` | harmonious | different participants maintaining a workable relation |
-| `kowela` | council | gathers collective voices for communal decisions |
+| `kowanu` | governance | an arrangement connecting participation, authority, procedure, and review |
+| `kowela` | council | a collective body organised around a community or shared purpose |
 | `kuewa` | strange | an unfamiliar person, practice, or custom encountered without an implied verdict |
 | `kulo` | guide | an accompanying relation between a knowledgeable guide and another traveller |
 | `kupela` | secret | a confidence or withheld fact held within a social relationship |
-| `laenu` | commons | Collective resource |
+| `laenu` | commons | land, space, or resources held in a shared community relation |
 | `lei` | harmony | participants maintaining a workable accord without becoming uniform |
 | `lesawi` | consent | a permission relation among affected participants |
 | `limoe` | creature | a non-human participant encountered in story or shared life |
 | `loa` | give | giving objects, help, or other resources to another person or group |
 | `loami` | gift | something given within a relationship without a required counterpart |
-| `loatho` | delegate | delegation with stated scope, duration, and reporting |
+| `loatho` | delegate | a transfer of practical authority within a stated social arrangement |
 | `lohau` | dog | a dog in a stated household, companion, or work relation |
 | `lokane` | accessible | conditions that let a person enter shared activity |
 | `lokue` | place | a site of gathering, dwelling, memory, or shared activity |
@@ -858,7 +862,7 @@
 | `lumira` | descendant | a person connected to earlier people through descent |
 | `lumishe` | mentor | an agreed role within a learning relationship |
 | `luseri` | provenance | custody, contribution, and transfer among participants |
-| `makelu` | abstain | an abstention distinct from absence, refusal, and exclusion |
+| `makelu` | abstain | a participant's recorded nonselection within collective decision making |
 | `manawi` | compromise | a settlement reached through concessions among participants |
 | `meliho` | sing | singing shared in work, ceremony, teaching, or recreation |
 | `meliphe` | music | music practised or heard as part of collective life |
@@ -881,12 +885,12 @@
 | `muneki` | latrine | a sanitation place used within shared or solitary daily life |
 | `muraki` | harvest | a harvest carried out or marked by a household or community |
 | `naphe` | help | help directed towards another person or shared undertaking |
-| `naseru` | obligation | a requirement attributed to an agent under a stated source |
+| `naseru` | obligation | a requirement borne by a person, role, or institution under a social source |
 | `nashaku` | enforce | institutional enforcement with stated methods and review |
-| `nasholu` | rule | a rule claimed to apply within a social process |
+| `nasholu` | rule | a requirement, permission, or prohibition claimed within a social process |
 | `nawea` | respect | respect for another person's standing, agency, or boundary |
 | `naweri` | refuse | setting a boundary within a social relation |
-| `naweso` | consensus | a defined collective decision condition |
+| `naweso` | consensus | a collective decision condition defined for a particular group |
 | `nawo` | agree | a shared position among named participants |
 | `nephoru` | treat | an intervention relation among a person and care participants |
 | `nilua` | shy | reserve felt under other people's attention |
@@ -896,9 +900,9 @@
 | `nomei` | name | a designation held by a person, place, work, or group in shared use |
 | `nomela` | encourage | encouragement offered within a shared effort or relationship |
 | `nophei` | loyal | steadfast continuation of a relationship, commitment, or allegiance |
-| `norathu` | procedure | a governance procedure with participants and decision conditions |
+| `norathu` | procedure | an ordered process that arranges collective participation |
 | `norui` | boundary | a stated limit within a relationship, institution, or shared arrangement |
-| `norulo` | jurisdiction | the claimed social scope of an authority or institution |
+| `norulo` | jurisdiction | the people or matters included in an authority claim |
 | `noruwa` | generation | people grouped by a shared position in social time |
 | `nuawe` | together | people sharing an action or state while remaining distinct participants |
 | `numelo` | nurture | nurture within family, friendship, or another continuing relation |
@@ -909,6 +913,7 @@
 | `nurome` | meal | food gathered for solitary or shared eating |
 | `panoru` | support | practical or social support for people and groups |
 | `panuri` | resource | availability whose access, authority, and governance may be shared or contested |
+| `pashenu` | petition | individual or collective petition within a social process |
 | `pawela` | participate | participating in shared work or collective decisions |
 | `peloma` | harmful | effects that diminish another person's or a community's wellbeing |
 | `pemaru` | hazard | a condition whose exposure and consequences may be shared or unequal |
@@ -917,7 +922,7 @@
 | `phaliso` | network | relations connecting people, groups, or institutions |
 | `phamo` | console | solace offered to a bereaved or grieving person |
 | `phanoi` | portion | portioning shared food, materials, or other resources among participants |
-| `phanuli` | allocate | collective allocation among stated recipients or purposes |
+| `phanuli` | allocate | distribution among recipients or purposes under a social criterion |
 | `phao` | parent | a continuing family relation to a child |
 | `pharea` | adult | a person recognised at the adult stage of social life |
 | `pharomu` | exclude | keeping someone outside a group or shared process |
@@ -929,7 +934,7 @@
 | `phemila` | host | one side of a temporary hospitality relation |
 | `phemiru` | visit | company held through the guest relation |
 | `phena` | kind | benevolent regard expressed through conduct towards another person |
-| `phenori` | ownership | a socially defined set of powers and claims over something |
+| `phenori` | ownership | socially defined powers and claims over a thing, place, or resource |
 | `phewani` | neighbor | a social relation created by recurring proximity |
 | `phewo` | sage | a person regarded by others as having practical or reflective wisdom |
 | `phimela` | kiss | a kiss used within affection, greeting, blessing, or farewell |
@@ -938,15 +943,15 @@
 | `phomila` | offspring | a person's direct relation to the next generation in a family line |
 | `phowe` | share | shared use of things, resources, or activities |
 | `phuro` | renew | continuation of a commitment or shared arrangement |
-| `pilora` | exploit | a social relation involving asymmetrical benefit and burden |
+| `pilora` | exploit | an unequal social relation that separates benefit from burden |
 | `piru` | trader | Exchange role |
 | `pukea` | danger | possible harm that may require a warning or shared protective response |
 | `punoa` | society | the wider social field formed by relationships, customs, and institutions |
-| `punoki` | institution | a continuing organized social arrangement with roles and procedures |
+| `punoki` | institution | an organised social arrangement maintained across changes of participant |
 | `ralemi` | independent | personal agency exercised with or without chosen support |
 | `ralu` | free | liberty within social and institutional relations |
 | `renoa` | liberate | a person or group freed from a coercive social relation |
-| `repora` | propose | presenting a collective action or rule for consideration |
+| `repora` | propose | opening a collective action to deliberation before decision |
 | `rilowa` | assign | a work relation between a source and an assignee |
 | `rimawu` | drudgery | labor conditions shaped by social distribution and power |
 | `rinoka` | project | a possible frame for coordinated participation |
@@ -961,19 +966,19 @@
 | `sephori` | supply | provision between participants, processes, or places |
 | `seru` | commit | a commitment on which another person or group may rely |
 | `sethoni` | handoff | a transition between participants without implied acceptance |
-| `shalimo` | alliance | a bound group of people, not a single occasion of meeting |
-| `shalori` | represent | acting or communicating on behalf of a stated party |
+| `shalimo` | alliance | a deliberately formed association of people or groups |
+| `shalori` | represent | acting for represented people under a recognised source of standing |
 | `shane` | tell | news and stories passed from person to person |
-| `shanewi` | notify | formal notice directed to identified recipients |
+| `shanewi` | notify | notice created under a shared or institutional arrangement |
 | `shaweri` | advocate | support for a person's expressed interests or a shared cause |
 | `shea` | peace | accord among people or groups without violence |
 | `shemoli` | harmonize | participants or perspectives adjusted towards a workable relation |
 | `sheori` | communicate | information exchanged among people through different forms of access |
 | `sherelo` | right (normative) | a normative claim held among people, groups, or institutions |
-| `shereni` | entitlement | a recognized and scoped claim under a stated source |
+| `shereni` | entitlement | a claim recognised within a social arrangement and bounded by its scope |
 | `shiwolu` | integrate | participation of distinct people or groups within a shared structure |
 | `sholei` | gather | people or shared materials assembled in one place |
-| `shorai` | commune | Shared living |
+| `shorai` | commune | a continuing practice of sharing daily life and responsibility |
 | `shorema` | contribute | adding something to a collective undertaking or pool |
 | `shorupo` | protect | one person or group acting for another's safety |
 | `shuneki` | vaccinate | a preventive action with individual and collective relations |
@@ -984,7 +989,7 @@
 | `silawo` | village | several homes or households gathered in one settlement |
 | `sirami` | record | a shared or institutional account of events, observations, or decisions |
 | `sirelu` | disclose | changing who may know bounded information |
-| `sithora` | role | a social or institutional role with bounded scope |
+| `sithora` | role | a continuing social position that can pass between holders |
 | `soki` | settle | a person or group establishing residence in a shared place |
 | `someru` | supervise | a bounded work relationship whose authority remains separately stated |
 | `sonari` | isolate | a protective relation requiring support and review |
@@ -1017,14 +1022,14 @@
 | `theomi` | trust | reliance placed within a social relationship |
 | `thepalu` | garden | ground that may be tended and used in common |
 | `therema` | tradition | an inheritance received within a community or lineage |
-| `thereo` | mediator | essential role in maintaining social harmony |
+| `thereo` | mediator | a third-party role used when a shared relation needs mediated dialogue |
 | `thimora` | schedule | a coordination artifact affecting participants |
 | `thoepa` | sacred | reverent standing held by an individual or group and expressed through practice |
 | `tholira` | forgive | a changed relation to someone who caused harm |
 | `tholupi` | room | an interior place used in shared or solitary daily life |
 | `thonai` | responsible | willing acceptance of care or answerability for a shared matter |
 | `thonua` | scholar | a recognised role centred on scholarly work |
-| `thorae` | facilitator | Process role |
+| `thorae` | facilitator | a process-support role within a gathering or institution |
 | `thorai` | bless | a blessing offered within a relationship or at a shared transition |
 | `thorea` | ceremony | a significant occasion held among participants |
 | `thorelu` | converse | informal talk through which people maintain relationships |
@@ -1044,7 +1049,7 @@
 | `warosha` | reconcile | work on a relationship after conflict, estrangement, or harm |
 | `welira` | thrive | a community developing in sustained good health |
 | `wema` | belong | a lived relation of belonging within a group or relationship |
-| `wemari` | member | recognized membership in a stated group or institution |
+| `wemari` | member | recognised participation in a group or institution under a stated criterion |
 | `wemi` | ally | a chosen relation of solidarity with a person, group, or cause |
 | `wenola` | collaborate | participants shaping shared work together |
 | `wepanu` | redundant | a resilience practice for shared infrastructure and services |
@@ -1060,7 +1065,7 @@
 | `wheo` | elder | an older person holding a recognised social role |
 | `wheparu` | discriminate | unequal treatment of a person or group |
 | `whepelo` | retaliate | retaliation through a social or institutional power relation |
-| `whetuma` | appeal | an institutional appeal with stated recipient and standing |
+| `whetuma` | appeal | an appeal directed to an institution or authorised review body |
 | `whishela` | whisper | near-range speech shaped for a particular listener or small group |
 | `whola` | invite | inviting another person into a shared place or activity |
 | `wiresu` | postpone | a schedule change affecting shared participation |
@@ -1080,7 +1085,7 @@
 | `heru` | herb | plant material prepared for cooking, fragrance, or care |
 | `kapenu` | concrete | a composite material placed and hardened in buildings and infrastructure |
 | `katemu` | offcut | material available for possible reuse in another making process |
-| `kathu` | seal | Authentication mark |
+| `kathu` | seal | a made mark or device used for authentication or closure |
 | `kati` | cut | cutting pieces to size during cooking or craft work |
 | `katiru` | knife | a hand-held edge used to cut or shape ordinary material |
 | `kealo` | create | the emergence of something not previously present in that form |
@@ -2179,13 +2184,12 @@
 | `wi` | two | the exact quantity two and the coefficient two in ternary numerals |
 | `wuneri` | variable | a named quantity that may take different recorded values |
 
-## ritual (27)
+## ritual (26)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `holia` | festival | a festive setting that can include meaningful observances |
 | `keluro` | honor | formal or repeated acts of honour |
-| `kowela` | council | creates sacred space through formal deliberation processes |
 | `lopha` | vessel | a receptacle whose stated use may carry ceremonial material |
 | `lumeo` | die | the event named in mourning and death ceremonies |
 | `maewo` | threshold | a crossing point that can organize a ceremony or transition |
@@ -2239,7 +2243,7 @@
 | `kupe` | hide | concealment produced through position, cover, or enclosure |
 | `kuri` | right | a body-relative side extended to an oriented scene |
 | `laeno` | long | substantial end-to-end extent in a path or object |
-| `laenu` | commons | Shared space |
+| `laenu` | commons | a place may be organised as a commons for shared use |
 | `laniru` | journey | a passage across a substantial route |
 | `lawe` | left | a body-relative side extended to an oriented scene |
 | `leko` | surface | an extended face with edges and an orientation |
@@ -2286,7 +2290,7 @@
 | `nitho` | north | the northward cardinal direction |
 | `noa` | position | a location understood relative to other positions |
 | `norui` | boundary | the selected extent of an area, object, or region |
-| `norulo` | jurisdiction | a jurisdiction may include stated places without being only territorial |
+| `norulo` | jurisdiction | the places across which an authority claims jurisdiction |
 | `noshi` | near (adj) | small separation from a contextual place or object |
 | `nowari` | planet | a world located and moving within a stellar system |
 | `nowhu` | cave | an interior place reached through an opening in the ground or stone |
@@ -2337,7 +2341,7 @@
 | `sheraki` | search | looking through places or along a route for a person or thing |
 | `shoeka` | route | a selected course linking the places or stages of travel |
 | `shomelu` | shadow | the region from which an object excludes a light source |
-| `shorai` | commune | Collective dwelling |
+| `shorai` | commune | communal life organised across one dwelling or several nearby homes |
 | `shua` | come | approach towards a deictic or stated place |
 | `shuna` | edge | the outermost part of an object, area, or visible extent |
 | `shupi` | plateau | high ground extending across a substantial area |
@@ -2556,19 +2560,17 @@
 | `wiroa` | hopeful | anticipation directed towards a future condition |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (48)
+## wisdom (45)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `heloa` | remedy | Problem solving |
 | `hiru` | intuit | immediate judgement that may draw on accumulated experience before explanation |
-| `kathu` | seal | Confirmation |
 | `keiro` | way | a guiding course shaped through practice and reflection |
 | `kethira` | infer | recognizing the mind's movement beyond what was directly given |
 | `kirema` | criterion | an explicit basis whose relevance and authority can be examined |
 | `kirothe` | define | examining both the usefulness and limits of categories |
 | `kithela` | valid | a precise assessment kept distinct from truth and persuasion |
-| `kowela` | council | cultivates patient consensus through collective insight |
 | `kulo` | guide | practical knowledge of a way shared through accompaniment |
 | `leiro` | release | release considered as a practice of loosening attachment |
 | `letharo` | consistent | holding plurality without confusing compatibility with truth |
@@ -2601,7 +2603,6 @@
 | `theloa` | truth | careful attention to what can honestly be said |
 | `themio` | reflect | reconsideration of experience before judgement settles |
 | `themore` | argument | a form through which beliefs can be tested and revised |
-| `thereo` | mediator | requires seeing all perspectives and finding middle way |
 | `thesani` | skill | practical understanding refined through experience |
 | `thesori` | evidence | support whose source, relevance, and limits remain open to examination |
 | `thuni` | intuitive | immediate judgement that may draw on experience and still remains open to checking |

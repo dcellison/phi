@@ -8,10 +8,20 @@
     "ru"
   ],
   "pos": "verb",
-  "concept": "Discriminate / Impose Disadvantage Through a Perceived Category",
+  "search_terms": [
+    "unequal treatment",
+    "category-based disadvantage"
+  ],
   "description": "To treat a person or group disadvantageously through an actual, assigned, or perceived trait or category. The act may work through a rule that appears general while its burden falls unevenly. 'pharomu' (exclude) names being kept out; 'wheparu' identifies the category-shaped disadvantage behind that or another harm.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for unvoiced 'wh', then move forward and unround into true-mid front 'e'. Close the lips for unvoiced 'p' and release into stressed central 'a'. Tap or briefly trill the tongue tip before finishing on high-back rounded 'u'.",
   "sound_symbolism": "Rounded unvoiced 'whe' draws a thin stream of air through the lips. Stressed 'pa' closes them completely, then releases through broad 'a'. Final 'ru' rolls the tongue and drops into deep 'u'. Constrained breath meets a hard central contact before the sound turns into a darker close.",
-  "grammatical_notes": "A transitive verb: 'shia mia wheparu.' (They discriminate against me.) The basis, actor, practice, and effect can be stated in surrounding clauses. The event-noun rule supplies discrimination; exact legal definitions remain source material where jurisdiction matters.",
+  "usage_notes": "The person or institution applying the disadvantage takes subject position. The affected person or group is the object, with category, practice, and effect stated around the clause. A nominal 'wheparu' names discrimination. Exact legal definitions and findings remain with their jurisdictional sources.",
+  "examples": [
+    {
+      "phi": "shia mia wheparu.",
+      "translation": "They discriminate against me."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "A cooperative institution needs language for the rule that distributes harm unevenly, including when its designers called the rule neutral.",
     "peace-linguistics-practices": "The word lets a speaker connect unequal treatment to the category used against them instead of reducing the event to private dislike."

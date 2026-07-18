@@ -1,0 +1,37 @@
+{
+  "word": "pashenu",
+  "gloss": "petition",
+  "ipa": "/pä.ˈʃe̞.n̪u/",
+  "syllables": [
+    "pa",
+    "she",
+    "nu"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "formal collective request",
+    "submit a petition"
+  ],
+  "description": "To 'pashenu' is to present a formal request to a person or institution able to respond. One person may petition, or several may join around the same requested action. 'repora' (propose) places an action before a collective for decision, while 'whetuma' (appeal) asks for review of an earlier decision; a petition asks its recipient to act.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into central 'a'. Raise the tongue blade behind the alveolar ridge for unvoiced 'sh' and hold stressed true-mid front 'e'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the sound through the nose, and finish on high-back rounded 'u'.",
+  "sound_symbolism": "The firm lip release of 'pa' opens into the sustained breath of stressed 'she'. Dental 'nu' then gathers the request into a deep nasal ending. The outward request feels deliberately placed before its recipient.",
+  "usage_notes": "The petitioner opens the clause and 'wei' marks the recipient; an object or complement clause states the requested action. The same form becomes a petition under event-noun use. The source record keeps its exact wording and named signatories, along with signatures, filing status, and procedural effect.",
+  "examples": [
+    {
+      "phi": "lo wemari wei ha kowela ha tukiro pashenu.",
+      "translation": "The members petition the council for a review."
+    }
+  ],
+  "pillars": {
+    "solarpunk-values": "A petition lets members gather a shared request and direct it towards an institution whose response can be recorded and reviewed.",
+    "peace-linguistics-practices": "The verb gives collective dissent a direct nonviolent action without turning a request into a command or presuming the recipient's agreement."
+  },
+  "semantic_domains": {
+    "activity": "presenting a formal request for a stated action",
+    "communication": "directing a request to an identified person or institution",
+    "community": "individual or collective petition within a social process"
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
+}

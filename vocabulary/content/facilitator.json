@@ -8,17 +8,27 @@
     "e"
   ],
   "pos": "noun",
-  "concept": "Facilitator / Process Enabler / Group Guide",
-  "description": "One who enables group process without controlling outcome; a guide for collective work. 'Thorae' names who makes easy—smoothing the path for others to find their way.",
-  "sound_symbolism": "The word breathes with enabling. 'Tho' opens with thoughtful space, room made. 'Ra' radiates with process support, energy flowing. Then 'e' eases into smooth progress.",
-  "grammatical_notes": "Functions as noun: 'thorae lona kulo.' (The facilitator guides the meeting.) Related to 'thereo' (mediator), who works with conflict where thorae works with process, and 'kowela' (council), the body a facilitator often serves.",
+  "search_terms": [
+    "group facilitator",
+    "process guide"
+  ],
+  "description": "A 'thorae' is a person who supports a group's process without deciding its substantive outcome. The facilitator may attend to sequence, time, access, and whether participants understand what is happening. 'thereo' (mediator) works between stated parties in disagreement; facilitation belongs to the process as a whole.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth for unvoiced 'th' and release into true-mid rounded 'o'. Tap or briefly trill the tongue tip before stressed central 'a'. Keep final true-mid front 'e' separate in clear hiatus.",
+  "sound_symbolism": "Rounded dental breath in 'tho' opens as stressed 'ra' turns the tongue, then final 'e' remains light and separate. The contour makes room twice, first in the broad centre and again at the open edge.",
+  "usage_notes": "This countable noun identifies the person supporting the process. The group's procedure, the facilitator's authority, and any participation or access responsibilities remain separate relations. A facilitator can guide a meeting with 'kulo' without representing the participants or choosing for them.",
+  "examples": [
+    {
+      "phi": "thorae ha lona kulo.",
+      "translation": "The facilitator guides this meeting."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Process support—helping groups make decisions without dominating them.",
-    "peace-linguistics-practices": "Facilitation as enabling—creating conditions for all voices to be heard."
+    "solarpunk-values": "A facilitator can keep shared planning usable when access, timing, and several kinds of participation need attention at once.",
+    "peace-linguistics-practices": "The role supports listening and participation without borrowing the group's authority or speaking for its members."
   },
   "semantic_domains": {
-    "communication": "Group enabling",
-    "community": "Process role"
+    "communication": "guiding how a group exchanges information and moves through a process",
+    "community": "a process-support role within a gathering or institution"
   },
   "modules": [
     "commons-and-collective-governance"

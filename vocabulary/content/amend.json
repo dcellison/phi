@@ -8,17 +8,27 @@
     "ki"
   ],
   "pos": "verb",
-  "concept": "Amend / Formally Change Part of a Continuing Matter",
-  "description": "To formally change part of something still living, a rule, a decision, an institutional arrangement, while keeping its history and identity intact. The exact old and new wording belongs in a source record beside the Phi.",
-  "sound_symbolism": "Light 'he' begins with the same moving breath heard in 'helui' (change). At the stressed middle, 'la' lays the tongue into broad 'a' and opens the word wide. Crisp 'ki' makes one exact contact at the end. The whole contour breathes, spreads across the open center, and leaves a clear final mark.",
-  "grammatical_notes": "A transitive verb with the amending agent as subject and the continuing matter as object: 'ha kowela ha nasholu helaki.' (The council amends this rule.) Preserve exact changed wording, version, date, authority, and effective conditions in a separate source record. The event-noun rule supplies amendment. Distinct from 'helui' (change), correction, replacement, repeal, implementation, and review.",
+  "search_terms": [
+    "formally revise",
+    "amendment"
+  ],
+  "description": "To 'helaki' is to change part of a continuing rule, decision, record, or institutional arrangement through a recognised process. The matter keeps its identity and history across the amendment. Ending or replacing it entirely requires the speaker to state that different relation.",
+  "articulatory_notes": "Open the glottis for 'h' and release into true-mid front 'e'. Touch the tongue tip to the alveolar ridge for 'l', let air pass along its sides, and hold stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and finish on high-front 'i'.",
+  "sound_symbolism": "Light 'he' echoes the opening of 'helui' (change). Stressed 'la' opens broadly before final 'ki' makes one crisp contact, a contour that can recall a continuing form receiving one precise alteration.",
+  "usage_notes": "In ordinary transitive syntax, the amending person or body comes before the continuing matter. Amendment needs no separate root; event-noun grammar uses this form. The source record keeps the old and new wording together, along with the version, authority, and effective conditions. Ordinary 'helui' describes change without this formal continuity.",
+  "examples": [
+    {
+      "phi": "ha kowela ha nasholu helaki.",
+      "translation": "The council amends this rule."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Amendment treats institutional forms as conditioned and revisable while preserving the causal and ethical history of earlier versions.",
-    "peace-linguistics-practices": "Named amendment prevents authorities from presenting a changed rule as timeless or quietly erasing the wording under which people previously acted."
+    "secular-buddhist-philosophy": "Amendment treats an institutional form as revisable while preserving the conditions and history of its earlier version.",
+    "peace-linguistics-practices": "Named amendment prevents an authority from presenting a changed rule as timeless or erasing the wording under which people acted."
   },
   "semantic_domains": {
-    "activity": "formally changing part of a continuing rule or record",
-    "community": "institutional revision with preserved history"
+    "activity": "formally changing part of a continuing rule, decision, or record",
+    "community": "institutional revision that preserves the identity and history of the matter"
   },
   "modules": [
     "commons-and-collective-governance"

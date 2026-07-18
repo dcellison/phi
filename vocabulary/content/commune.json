@@ -8,17 +8,27 @@
     "i"
   ],
   "pos": "verb",
-  "concept": "Commune / Shared Community / Live Together",
-  "description": "To live in shared relationship, resources and responsibilities held in common. 'Shorai' names the deep sharing—not just proximity but intertwined lives.",
-  "sound_symbolism": "The word shares outward. 'Sho' opens with collective spirit, sharing beginning. 'Ra' radiates with community spreading, bonds extending. Then 'i' rises to unified belonging.",
-  "grammatical_notes": "'lo mia shorai.' (We live communally.) The noun sense, communal living, comes with the verb by the event-noun rule. Related to 'punoa' (society) but more intimate; compare 'sila' (community).",
+  "search_terms": [
+    "live communally",
+    "communal living"
+  ],
+  "description": "To 'shorai' is to share daily life through a continuing arrangement of dwelling, resources, and practical responsibility. The people may occupy one household or several nearby homes. 'menui' (dwell) reports residence; communing adds the sustained sharing among residents.",
+  "articulatory_notes": "Raise the tongue blade behind the alveolar ridge for unvoiced 'sh' and release into true-mid rounded 'o'. Tap or briefly trill the tongue tip before stressed central 'a'. Keep final high-front 'i' separate in clear hiatus.",
+  "sound_symbolism": "Rounded 'sho' opens as stressed 'ra' rolls once, then high-front 'i' remains briefly apart. The word widens at its centre and leaves a light open edge, which can recall domestic lives kept distinct while sharing a common space.",
+  "usage_notes": "The verb may stand without an object when the people sharing life are the subject. Event-noun use refers to communal living. Kinship, ownership, harmony, and a particular legal form each require their own account; 'womuri' names the domestic unit rather than the act of living communally.",
+  "examples": [
+    {
+      "phi": "lo mia shorai.",
+      "translation": "We live communally."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Communal living—sharing resources, reducing waste, building solidarity.",
-    "pre-industrial-wisdom": "Village life—the traditional pattern of interwoven households and shared labor."
+    "solarpunk-values": "Communal living can make tools, meals, care, and energy use shared parts of daily practice rather than occasional projects.",
+    "pre-industrial-wisdom": "Neighbouring households have long shared ovens, wells, harvest work, and care while retaining their own dwellings."
   },
   "semantic_domains": {
-    "community": "Shared living",
-    "spatial": "Collective dwelling"
+    "community": "a continuing practice of sharing daily life and responsibility",
+    "spatial": "communal life organised across one dwelling or several nearby homes"
   },
   "modules": [
     "commons-and-collective-governance",

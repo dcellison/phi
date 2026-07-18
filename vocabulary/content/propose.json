@@ -8,17 +8,27 @@
     "ra"
   ],
   "pos": "verb",
-  "concept": "Propose / Present a Possible Collective Action for Consideration",
-  "description": "To place a possible collective action into consideration. A proposal can be ignored, amended, rejected, or adopted, and none of those outcomes is decided by the act of proposing itself.",
-  "sound_symbolism": "Rolling 're' reaches outward at once. Stressed 'po' gives that movement a brief lip closure and a rounded chamber. In 'ra', the tongue rolls again and the final vowel opens fully. The contour travels through one formed center and returns to open motion.",
-  "grammatical_notes": "A transitive verb. A nominal object names the proposal, while a full proposed action uses the declarative complement frame: 'mia mena lo mia napuro phanuli meno repora.' (I propose that we allocate grain.) The event-noun rule supplies proposal. Distinct from 'sherewa' (claim), 'thilou' (inquire), requesting, promising, choosing, and 'kanuro' (decision).",
+  "search_terms": [
+    "put forward",
+    "submit a proposal"
+  ],
+  "description": "To 'repora' is to place a possible collective action under consideration. The proposal may later be amended, adopted, or set aside, but proposing supplies none of those outcomes. 'sherewa' (claim) asks to be judged as true or warranted; a proposal asks what people may choose to do.",
+  "articulatory_notes": "Tap or briefly trill the tongue tip for 'r' and release into true-mid front 'e'. Close the lips for unvoiced 'p' and open into stressed true-mid rounded 'o'. Tap or briefly trill the tongue tip again, then finish on central 'a'.",
+  "sound_symbolism": "The tongue movement of 're' reaches the full lip closure and rounded centre of stressed 'po', then returns in final 'ra' and opens broadly. The form sounds briefly gathered before it is released again for consideration.",
+  "usage_notes": "A noun can be the direct object, while a full proposed action uses the declarative complement frame. In event-noun use, 'repora' is a proposal. A proposal can concern a rule, allocation, plan, or other action; the later decision remains 'kanuro'.",
+  "examples": [
+    {
+      "phi": "mia mena lo mia napuro phanuli meno repora.",
+      "translation": "I propose that we allocate grain."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Proposals let communities make possible futures concrete enough to compare, revise, resource, and reject without treating imagination as implementation.",
-    "peace-linguistics-practices": "Separating proposal from decision and obligation preserves genuine deliberation and prevents a powerful speaker's suggestion from silently becoming a command."
+    "solarpunk-values": "A proposal gives a community something concrete enough to examine and revise before labour or resources are committed.",
+    "peace-linguistics-practices": "Separating proposal from decision keeps a powerful speaker's suggestion from quietly becoming an instruction."
   },
   "semantic_domains": {
-    "communication": "a proposal remains open to response, amendment, and refusal",
-    "community": "presenting a collective action or rule for consideration"
+    "communication": "putting a possible action before others for response",
+    "community": "opening a collective action to deliberation before decision"
   },
   "modules": [
     "commons-and-collective-governance"

@@ -8,17 +8,27 @@
     "ro"
   ],
   "pos": "verb",
-  "concept": "Review / Systematically Reconsider a Prior Matter",
-  "description": "To systematically reconsider a prior matter. A review can confirm what stood before, reverse it, or leave it unresolved, and the word promises neither independence from the original decision nor a fair process.",
-  "sound_symbolism": "Dental 'tu' repeats the opening contact of 'turema' (return). Stressed 'ki' answers with a crisp closure farther back, and 'ro' rolls away into a round ending; together the last two syllables preserve 'kiro' (precise). The mouth returns through two exact points before attention opens around the matter again.",
-  "grammatical_notes": "A transitive verb with the reviewing agent as subject and the prior matter as object: 'ha kowela ha kanuro tukiro.' (The council reviews this decision.) State who may participate, evidence, criteria, authority, timing, and available outcomes. The event-noun rule supplies review. Distinct from 'theo' (read), 'shareo' (discuss), 'nilaki' (inspect), 'whetuma' (appeal), and automatic reversal.",
+  "search_terms": [
+    "reconsider",
+    "formal review"
+  ],
+  "description": "To 'tukiro' is to reconsider a prior matter systematically under stated evidence or criteria. The review may leave the earlier decision in place or change what follows from it. 'whetuma' (appeal) is a request that review occur; the two acts need not have the same participant.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into high-back rounded 'u'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed high-front 'i'. Tap or briefly trill the tongue tip before final true-mid rounded 'o'.",
+  "sound_symbolism": "Dental 'tu' recalls the opening of 'turema' (return). The crisp centre and final tongue turn preserve 'kiro' (precise), so the word audibly returns to something through a narrower point of attention.",
+  "usage_notes": "The reviewing person or body is the subject. A prior decision, record, procedure, or action becomes the object. The verb has ordinary noun use for a review. Participants and authority belong to the arrangement; exact review standards and deadlines remain with their sources. 'nilaki' (inspect) examines the condition of a system or object rather than reconsidering a prior matter.",
+  "examples": [
+    {
+      "phi": "ha kowela ha kanuro tukiro.",
+      "translation": "The council reviews this decision."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Review lets institutions adapt resource decisions, infrastructure rules, and ecological interventions as conditions and evidence change.",
-    "peace-linguistics-practices": "A defined review path keeps criticism actionable after an initial decision and distinguishes reconsideration from ceremonial listening or delay."
+    "solarpunk-values": "Review lets an institution revisit resource decisions and infrastructure rules when conditions or evidence change.",
+    "peace-linguistics-practices": "A defined review path gives criticism somewhere to go after the first decision instead of reducing it to ceremonial listening."
   },
   "semantic_domains": {
-    "activity": "systematically reconsidering a prior matter",
-    "cognition": "reassessment under stated evidence and criteria"
+    "activity": "systematically reconsidering an earlier decision, record, or action",
+    "cognition": "reassessment conducted under stated evidence or criteria"
   },
   "modules": [
     "accessibility-and-participation",

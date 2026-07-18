@@ -8,10 +8,20 @@
     "ro"
   ],
   "pos": "verb",
-  "concept": "Consult / Seek and Consider Someone's View Before Acting",
+  "search_terms": [
+    "seek advice",
+    "ask before acting"
+  ],
   "description": "To seek a person's knowledge, experience, or view about a stated matter and give the response genuine consideration before acting. Consultation creates a place for an answer but does not assign final decision authority. 'thilou' (inquire) seeks understanding; 'misharo' also names the answer's relation to a pending action.",
+  "articulatory_notes": "Close the lips for 'm', carry voicing through the nose, and release into high-front 'i'. Raise the tongue blade behind the alveolar ridge for unvoiced 'sh' and hold stressed central 'a'. Tap or briefly trill the tongue tip before final true-mid rounded 'o'.",
   "sound_symbolism": "Closed lips hold 'mi' in a small bright nasal chamber. Stressed 'sha' opens that chamber into a broad hush and full 'a'. Final 'ro' turns the tongue inside round 'o'. A sharp expansion at the center leaves on a lower rolling note.",
-  "grammatical_notes": "A transitive verb: 'lo mia thia misharo.' (We consult you.) The matter may appear as an object or complement clause. The event-noun rule supplies consultation. Distinct from 'shalori' (represent), 'kanuwa' (authorize), and asking a question whose answer will not affect the action.",
+  "usage_notes": "The consulted person is the direct object, and the matter may appear as another object or a complement clause. The corresponding event noun is consultation. Someone may be consulted without receiving representative standing; their answer informs the pending action without deciding it.",
+  "examples": [
+    {
+      "phi": "lo mia thia misharo.",
+      "translation": "We consult you."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Design for a shared place begins with the people who will move, work, rest, and communicate there rather than treating them as a later inspection.",
     "peace-linguistics-practices": "Consultation asks an affected person before a plan hardens, while leaving enough language to test whether anyone listened to the answer."

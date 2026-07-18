@@ -8,10 +8,20 @@
     "wa"
   ],
   "pos": "verb",
-  "concept": "Assign / Designate an Expected Performer for a Task",
+  "search_terms": [
+    "designate a performer",
+    "assign a task"
+  ],
   "description": "To designate someone as the expected performer of a task. The verb reports the designation and stops there: whether the assigner had standing, and whether the person accepts, are the next sentences, not this one. Refusal, 'naweri' (refuse), remains a full answer.",
+  "articulatory_notes": "Tap or briefly trill the tongue tip for 'r' and release into high-front 'i'. Touch the tongue tip to the alveolar ridge for 'l', let air pass along its sides, and hold stressed true-mid rounded 'o'. Round the lips for voiced 'w' and open into central 'a'.",
   "sound_symbolism": "Bright 'ri' taps the tongue and moves quickly into liquid 'lo'. The stress rests in that low rounded middle, where the two liquids give the word a smooth reach. Final 'wa' rounds at the lips before opening into broad 'a'. The contour travels easily and ends with space around it.",
-  "grammatical_notes": "A transitive verb with the assignee marked by 'wei': 'kowela wei mia ha riporu rilowa.' (The council assigns this task to me.) State the assigning source and the recipient's acceptance or refusal separately. Distinct from 'phanuli' (allocate resources or burdens), 'loatho' (delegate authority or action), 'kanuwa' (authorize), and a polite request.",
+  "usage_notes": "The assigning source opens the clause. 'wei' precedes the assignee, and the task occupies object position. The recipient's acceptance or refusal remains a separate sentence. 'phanuli' allocates resources or burdens, 'loatho' delegates action or authority, and 'kanuwa' grants permission or power.",
+  "examples": [
+    {
+      "phi": "kowela wei mia ha riporu rilowa.",
+      "translation": "The council assigns this task to me."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Shared work remains sustainable only when task designation is separated from capacity, consent, care, and the authority claimed for the assignment.",
     "peace-linguistics-practices": "A neutral assignment verb makes imposed expectations reportable without laundering them as voluntary commitment or accepted responsibility."

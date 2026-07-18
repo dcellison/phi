@@ -8,17 +8,27 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Role / Defined Position in a Group or Institution",
-  "description": "A defined position within an institution or a social arrangement, kept separate from whoever currently holds it. A role is defined well when someone can say who selects its holder, what it permits, and how it passes to someone else.",
-  "sound_symbolism": "Fine 'si' begins with a narrow hiss and focused vowel, one place marked inside a larger sound. Stressed 'tho' breathes along the teeth and rounds the center. 'Ra' rolls outward into broad 'a'. The role starts as a small position, gains a voiced shape, and opens into the activity around it.",
-  "grammatical_notes": "A countable noun: 'lo mia ha sithora kirothe.' (We define this role.) State holder, selection, functions, permissions, obligations, term, and handoff where needed. Distinct from 'kelitho' (technical function), 'porua' (purpose), 'thonai' (responsible), profession, and an exact office title.",
+  "search_terms": [
+    "social position",
+    "institutional position"
+  ],
+  "description": "A 'sithora' is a defined position in a group, institution, household, or work arrangement. The role continues as holders change, so the person and the position remain separately describable. Its definition says what the holder is expected or permitted to do; an exact office title stays with its source.",
+  "articulatory_notes": "Form a narrow groove along the tongue for unvoiced 's' and continue into high-front 'i'. Place the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass, and hold stressed true-mid rounded 'o'. Tap or briefly trill the tongue tip before opening into central 'a'.",
+  "sound_symbolism": "Narrow 'si' opens into the breath and rounded space of stressed 'tho', then final 'ra' turns outward into a broad vowel. The word moves from a small marked place towards the activity around it.",
+  "usage_notes": "Roles count individually. A discussion may identify the holder and selection process, then the expected acts or permissions. Obligations, duration, and handoff remain available when they matter. 'kelitho' is a technical function, while a profession or named office retains the category used by its source.",
+  "examples": [
+    {
+      "phi": "lo mia ha sithora kirothe.",
+      "translation": "We define this role."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Explicit roles make maintenance, coordination, and care visible while allowing rotation, shared responsibility, and institutional redesign.",
-    "peace-linguistics-practices": "Separating a role from its holder prevents office, expertise, status, or assigned duty from becoming a claim about the person's inherent value or authority."
+    "solarpunk-values": "Explicit roles make care and maintenance visible enough to rotate, share, and redesign.",
+    "peace-linguistics-practices": "Separating a role from its holder keeps office or assigned duty from becoming a claim about the person's worth."
   },
   "semantic_domains": {
-    "activity": "a defined position associated with stated functions and obligations",
-    "community": "a social or institutional role with bounded scope"
+    "activity": "a position defined through its expected or permitted work",
+    "community": "a continuing social position that can pass between holders"
   },
   "modules": [
     "commons-and-collective-governance",

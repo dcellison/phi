@@ -8,10 +8,20 @@
     "mu"
   ],
   "pos": "verb",
-  "concept": "Exclude / Keep or Leave Outside an Activity or Group",
+  "search_terms": [
+    "leave out",
+    "deny participation"
+  ],
   "description": "To keep or leave a person or thing outside a stated group, activity, place, resource, or process. Exclusion may be deliberate or produced by an arrangement whose effect was ignored. The opening shared with 'pharune' (include) keeps both words about the same boundary; their endings tell which way the boundary moves.",
+  "articulatory_notes": "Bring the lips close without sealing them for unvoiced 'ph' and continue the breath into central 'a'. Tap or briefly trill the tongue tip before stressed true-mid rounded 'o'. Close the lips for 'm', carry voicing through the nose, and finish on high-back rounded 'u'.",
   "sound_symbolism": "Bilabial breath spreads through broad 'pha'. Stressed 'ro' interrupts that open air with a tongue roll and round 'o'. Final 'mu' closes the lips around deep nasal 'u'. From a wide breath, the sound draws inward through a turn to a fully closed ending.",
-  "grammatical_notes": "A transitive verb: 'shia mia pharomu.' (They exclude me.) A prepositional phrase can name the group, place, activity, or process. The event-noun rule supplies exclusion, while a passive clause can foreground the excluded party.",
+  "usage_notes": "The agent maintaining the boundary takes subject position; the person or thing kept outside follows as object. A prepositional phrase can name the group, place, activity, or process. Exclusion is available through event-noun use; a passive clause can foreground the excluded party. 'pharune' (include) moves across the same boundary in the other direction.",
+  "examples": [
+    {
+      "phi": "shia mia pharomu.",
+      "translation": "They exclude me."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "A commons fails at its own edge when the people most affected cannot enter, contribute, or use what is held in common.",
     "peace-linguistics-practices": "The verb makes exclusion reportable even when nobody announced it and the closed door was a rule, format, or deadline."

@@ -8,16 +8,26 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Obligation / Requirement Borne by an Agent Under a Stated Source",
-  "description": "A requirement borne under a stated source, whether inherited, imposed, or tied to a role someone did not choose. Naming the source is what tells an obligation apart from a wish or a private commitment freely made.",
-  "sound_symbolism": "Dental 'na' begins with the same steady contact as the necessity particle. Stressed 'se' turns that held resonance into a narrow hiss moving outward. 'Ru' rolls the sound onward into deep 'u', and the last two syllables recall 'seru' (commit). The word starts as pressure at the teeth, becomes an audible demand, and continues past the speaker.",
-  "grammatical_notes": "A countable or mass noun commonly possessed by its bearer or role: 'ha sithora ha naseru phelu.' (This role has this obligation.) State source, required action, bearer, conditions, duration, conflict, capacity, and consequence. Distinct from 'na' (necessity), 'seru' (commit), 'thonai' (willingly responsible), permission, and 'lothoni' (accountable).",
+  "search_terms": [
+    "duty",
+    "required responsibility"
+  ],
+  "description": "A 'naseru' is a requirement borne by a person, role, or institution under a stated source. A rule may impose it, or an agreement may create one that the parties accepted. 'seru' (commit) records an undertaking, while an obligation describes the requirement that continues afterwards and may still be disputed.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the sound through the nose, and open into central 'a'. Form a narrow groove along the tongue for unvoiced 's' and hold stressed true-mid front 'e'. Tap or briefly trill the tongue tip before finishing on high-back rounded 'u'.",
+  "sound_symbolism": "Dental 'na' gives the word a held beginning before stressed 'se' releases a narrow stream of air. Final 'ru' turns the tongue into deep 'u'. The closing 'seru' (commit) remains audible beneath the added weight of the opening contact.",
+  "usage_notes": "A specific obligation is countable; the general relation can be mass-like. Its bearer or role usually modifies the noun. Source and required action matter most; conditions and duration can follow when needed. 'thonai' (responsible) concerns willingly taking a matter up, while 'lothoni' (accountable) concerns owing an answer and review.",
+  "examples": [
+    {
+      "phi": "ha sithora ha naseru phelu.",
+      "translation": "This role has this obligation."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Obligations are treated as conditioned relations with sources, conflicts, capacities, and consequences rather than as permanent essences of a person.",
-    "peace-linguistics-practices": "Naming imposed or role-based obligation separately from commitment and consent prevents institutional demands from borrowing the language of voluntary care."
+    "secular-buddhist-philosophy": "An obligation is a conditioned relation with a source and duration, not a permanent quality of the person who bears it.",
+    "peace-linguistics-practices": "Separating obligation from commitment and consent prevents an institutional demand from borrowing the language of voluntary care."
   },
   "semantic_domains": {
-    "community": "a requirement attributed to an agent under a stated source"
+    "community": "a requirement borne by a person, role, or institution under a social source"
   },
   "modules": [
     "commons-and-collective-governance",

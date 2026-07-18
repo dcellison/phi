@@ -8,17 +8,27 @@
     "wa"
   ],
   "pos": "verb",
-  "concept": "Authorize / Grant Bounded Permission or Decision Power",
-  "description": "To grant a bounded permission or power to a recipient for a stated action. Authorization is the grant itself; it proves neither that the recipient is competent nor that the people affected by the action agreed to it.",
-  "sound_symbolism": "'Ka.nu' preserves the complete sound of 'kanu' (choose): a clean stop followed by the stressed depth of a dental nasal. Final 'wa' rounds at the lips and opens wide toward someone beyond the word. The chosen act is heard first; then the grant leaves the speaker's mouth and enters shared space.",
-  "grammatical_notes": "A transitive verb with the authorizing source as subject, recipient in a dative phrase, and action or role as object: 'ha punoki wei ha wemari ha terura nilaki kanuwa.' (The institution authorizes the member to inspect the system.) The event-noun rule supplies authorization. Distinct from permission inferred through 'po', 'loatho' (delegate), competence, consent, and legitimate authority.",
+  "search_terms": [
+    "grant permission",
+    "grant authority"
+  ],
+  "description": "To 'kanuwa' is to grant a person or group bounded permission or power for a stated action. The grant says what the recipient may do and under which source. Their practical ability and the consent of anyone affected remain separate relations.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into central 'a'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the sound through the nose, and hold stressed high-back rounded 'u'. Round the lips for voiced 'w' and open into central 'a'.",
+  "sound_symbolism": "The word opens with audible 'kanu' (choose). Its path moves from a velar release into deep stressed 'nu'. Final 'wa' carries the rounded lips outward before broad 'a'. The chosen scope seems to extend towards another person.",
+  "usage_notes": "The authorising source is the subject, the recipient takes 'wei', and the permitted action or role follows as object. Authorisation is the regular event-noun use. 'loatho' (delegate) entrusts the matter to another person, while 'rilowa' (assign) designates an expected performer.",
+  "examples": [
+    {
+      "phi": "ha punoki wei ha wemari ha terura nilaki kanuwa.",
+      "translation": "The institution authorizes the member to inspect the system."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Explicit authorization allows communities to distribute action while recording limits, revocation, and the source of decision power.",
-    "peace-linguistics-practices": "A named grant prevents permission, capacity, consent, and institutional power from being inferred from silence, role labels, or technical knowledge."
+    "solarpunk-values": "Explicit authorisation lets a community distribute action while keeping the grant and its limits available for review.",
+    "peace-linguistics-practices": "A named grant prevents silence, a role label, or technical knowledge from being treated as permission."
   },
   "semantic_domains": {
-    "activity": "granting bounded permission or decision power",
-    "community": "institutional authorization with a stated source and scope"
+    "activity": "granting bounded permission or power for a stated action",
+    "community": "a social grant with an identifiable source and recipient"
   },
   "modules": [
     "commons-and-collective-governance",

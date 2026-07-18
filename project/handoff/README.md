@@ -20,15 +20,15 @@ Do not use `archive/` as current evidence. It preserves history, including appro
 
 ## Where the work stopped
 
-SEM-09B is complete, and D045 through D047 have finished the first three SEM-09C module batches. The lexicon now has 1,273 entries: 1,140 target-shaped and 133 legacy-shaped. Every function word, interjection, base content entry, Philosophical Reasoning entry, Systems and Shared Infrastructure entry, and Ecological Systems and Material Life entry is finished; all remaining legacy prose belongs to one or more of the other optional modules.
+SEM-09B is complete, and D045 through D048 have finished the first four SEM-09C module batches. The lexicon now has 1,275 entries: 1,184 target-shaped and 91 legacy-shaped. Every function word, interjection, base content entry, Philosophical Reasoning entry, Systems and Shared Infrastructure entry, Ecological Systems and Material Life entry, and Commons and Collective Governance entry is finished; all remaining legacy prose belongs to one or more of the other optional modules.
 
 The execution order is fixed in the roadmap:
 
-1. Migrate the remaining 133 module entries while preserving every established module membership and the established editorial voice; Commons and Collective Governance is next.
+1. Migrate the remaining 91 module entries while preserving every established module membership and the established editorial voice; Household and Daily Life is next.
 2. Sweep active Phi passages for old workarounds that the completed vocabulary can improve.
 3. Return to the Phi book with chapter 7, "A literature before a community."
 
-The immediate task is the Commons and Collective Governance batch within SEM-09C, described in [`current_state.md`](current_state.md). The maintainer has deliberately kept the remaining 133 entries in the current editorial sequence so the completed lexicon reads as though one person made it. SEM-09D waits until every entry is target-shaped.
+The immediate task is the Household and Daily Life batch within SEM-09C, described in [`current_state.md`](current_state.md). The maintainer has deliberately kept the remaining 91 entries in the current editorial sequence so the completed lexicon reads as though one person made it. SEM-09D waits until every entry is target-shaped.
 
 ## The maintainer's working contract
 
@@ -47,7 +47,7 @@ The following habits came from direct maintainer corrections. Treat them as stan
 - `sound_symbolism` is optional embodied phonesthetics. It is not hidden morphology and should not become grandiose prose. `articulatory_notes` is the physical account of how the complete word is spoken.
 - Apply Humanizer to every generated English string, including JSON fields, table cells, reports, and PR boilerplate. Then run the Phi voice audit separately and name at least one pattern corrected.
 - Keep every Markdown prose paragraph and list-item paragraph on one physical line.
-- Use Canadian or British spelling in new book prose. Do not launch a spelling sweep through older material without a command; [`language_and_voice.md`](language_and_voice.md) records the current documentation conflict.
+- Do not spend the remaining vocabulary-migration sequence on Canadian or British spelling checks. A later sweep can settle spelling without interrupting the prose-contract work.
 - Book humour should borrow the kind, not the quantity, of Jerome K. Jerome's *Three Men in a Boat*: mild self-exposure, practical absurdity, and an occasional dry turn. It must not become a string of jokes.
 - Do not describe Phi merely as a "slow language." Its unhurried quality is freedom from needless haste, and the centre is mindful and compassionate speech in the present utterance.
 - Do not start a local web server for routine handoff or vocabulary work. Daniel connects to the Mac mini over SSH and cannot use a server bound only to that machine. Build the site, but leave it stopped unless a specific remote-access arrangement is requested.

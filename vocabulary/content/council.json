@@ -8,19 +8,27 @@
     "la"
   ],
   "pos": "noun",
-  "concept": "Council / The Path of the Collective Core",
-  "description": "A non-hierarchical group gathered for mindful deliberation and consensus-based decision-making for the good of the whole community.",
-  "sound_symbolism": "The word opens with the formal 'ko', a sound that calls attention and creates sacred space—like a bell marking the beginning of deliberation. This flows into 'we', immediately establishing collective identity and shared purpose. The liquid 'la' carries this gathering forward into action and decision. This progression—from formal opening through collective gathering to flowing wisdom—mirrors how councils function: first the calling together, then the recognition of shared responsibility, finally the emergence of collective wisdom. The sound carries both dignity and warmth, formal without being rigid.",
-  "grammatical_notes": "A noun referring to the deliberative body itself, not the meeting. The possessing community comes first, unmarked: 'sila kowela' (the community's council). Locative constructions indicate participation: 'mia mua kowela nai.' (I am in council.) Can be modified to indicate council type: 'wheo kowela' (elder council). The verb 'kealo' (create/convene) often appears with it: 'lo mia kowela kealo' (we convene council).",
+  "search_terms": [
+    "deliberative body",
+    "governing council"
+  ],
+  "description": "A 'kowela' is a continuing collective body that deliberates or takes decisions for a stated community or purpose. It is more durable than 'lona' (meeting), which names one gathering. A council may use consensus, voting, or another procedure; its name supplies none of them automatically.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into true-mid rounded 'o'. Round the lips for voiced 'w', then move forward and unround into stressed true-mid 'e'. Touch the tongue tip to the alveolar ridge for 'l', let air pass along its sides, and finish on central 'a'.",
+  "sound_symbolism": "Rounded 'ko' opens into the lip glide and clearer centre of stressed 'we', then lateral 'la' lets the sound move out into open 'a'. The three releases give the word a measured, gathering rhythm without making any claim about how the council behaves.",
+  "usage_notes": "Councils count individually, and the community or purpose commonly appears before the noun. A council can hold a meeting, adopt a procedure, or claim authority, each in its own clause. The title of a particular council remains exact source material or a proper name accepted by that body.",
+  "examples": [
+    {
+      "phi": "ha kowela ha repora shareo.",
+      "translation": "The council discusses this proposal."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Council processes embody nonviolent communication at the collective level - creating structures where every voice can be heard, where deep listening precedes decision, and where consensus-building replaces majority rule. This practice transforms governance from a site of power struggle into a space for collective wisdom to emerge through patient dialogue.",
-    "pre-industrial-wisdom": "Councils represent humanity's oldest form of collective decision-making, where elders and community members gather in circles to deliberate matters affecting all. This traditional governance model values wisdom over authority, consensus over domination, and recognizes that the best decisions emerge from patient collective deliberation rather than individual decree."
+    "solarpunk-values": "A council gives shared land, infrastructure, and care a continuing place for deliberation beyond one meeting.",
+    "peace-linguistics-practices": "The neutral noun leaves participation, listening, dissent, and decision method visible instead of praising the body merely for calling itself a council."
   },
   "semantic_domains": {
-    "communication": "transforms governance through deep listening and patient dialogue",
-    "community": "gathers collective voices for communal decisions",
-    "ritual": "creates sacred space through formal deliberation processes",
-    "wisdom": "cultivates patient consensus through collective insight"
+    "communication": "a continuing body in which collective deliberation may occur",
+    "community": "a collective body organised around a community or shared purpose"
   },
   "modules": [
     "commons-and-collective-governance"

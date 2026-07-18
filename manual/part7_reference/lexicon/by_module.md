@@ -63,7 +63,7 @@
 
 ## Commons and Collective Governance
 
-*51 words in this learning path.*
+*53 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -76,6 +76,7 @@
 | `kasira` | vote | verb |
 | `kathu` | seal | noun |
 | `kirethu` | legitimate | adjective |
+| `kowanu` | governance | noun |
 | `kowela` | council | noun |
 | `laenu` | commons | noun |
 | `loatho` | delegate | verb |
@@ -89,6 +90,7 @@
 | `naweso` | consensus | noun |
 | `norathu` | procedure | noun |
 | `norulo` | jurisdiction | noun |
+| `pashenu` | petition | verb |
 | `phanuli` | allocate | verb |
 | `pharomu` | exclude | verb |
 | `phenori` | ownership | noun |

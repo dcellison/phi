@@ -8,18 +8,27 @@
     "mo"
   ],
   "pos": "noun",
-  "concept": "Alliance / League / Chosen Bond of Cause",
-  "description": "A group of people who deliberately bind themselves together around a shared cause or conviction, and organize collaboratively toward it. A community (sila) is bound by place or circumstance; a guild (temu) by shared craft; a council (kowela) gathers to deliberate; society (punoa) is the whole civilizational fabric. An alliance is none of these: it is chosen rather than found, and it exists to act in the world, not to decide something in a single sitting.",
-  "sound_symbolism": "The word opens with 'sha', a fricative naming the abstract conviction that draws people together before any of them have met. 'li' carries the liquid connection between members, the bond itself rather than the cause that prompted it. The close, 'mo', is a nasal grounding, turning a single meeting into something ongoing: a membership, not an occasion. Sound and meaning move together here, from a shared idea to the bond it creates to the lasting form that bond takes, the same order an alliance actually forms in.",
-  "grammatical_notes": "A noun referring to the bound group itself, not a single gathering of it. The cause or the group possessing it comes first, unmarked, matching the possessor-first pattern of other collective nouns: 'punoa moluki shalimo' (society's-transformation's alliance, an alliance formed around that cause). Locative constructions mark participation, the same pattern as kowela: 'mia shalimo mua nai.' (I am in the alliance.) The verb 'kealo' (create/convene) forms it: 'lo melu shalimo kealo.' (The friends form an alliance.) An alliance can convene a council (kowela) or hold a meeting (lona) without being either: it is the standing bond, not the session.",
+  "search_terms": [
+    "league",
+    "coalition"
+  ],
+  "description": "A 'shalimo' is a continuing group whose members choose to work together for a shared cause or purpose. 'sila' (community) may grow from place and daily relation, while an alliance begins with deliberate association. It can hold meetings or create a council without becoming either event or body.",
+  "articulatory_notes": "Raise the tongue blade behind the alveolar ridge for unvoiced 'sh' and release into central 'a'. Touch the tongue tip to the alveolar ridge for 'l', let air pass along its sides, and hold stressed high-front 'i'. Close the lips for 'm', carry voicing through the nose, and finish on true-mid rounded 'o'.",
+  "sound_symbolism": "Broad 'sha' narrows into the bright lateral centre of stressed 'li', then the lips close for nasal 'mo' and keep the ending rounded. The contour gathers from open breath into a settled close. Separate voices choosing a continuing form can be heard in that movement.",
+  "usage_notes": "Alliances count individually. A nearby clause can supply the cause and members, then the duration or decision arrangement. Exact names and legal forms of coalitions, unions, federations, or treaty alliances remain with their sources; 'shalimo' gives the broader chosen association.",
+  "examples": [
+    {
+      "phi": "lo melu ha shalimo kealo.",
+      "translation": "The friends form this alliance."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Solarpunk futures are built by people who choose each other around a shared cause and then do the sustained work together, guilds and unions and leagues as much as communities of proximity. 'Shalimo' names the chosen, ongoing form that collective action takes once conviction becomes commitment.",
-    "peace-linguistics-practices": "An alliance is solidarity without hierarchy: people bound to each other and to a shared conviction, with no rank between them and no one who rules. The word gives Phi a way to name organized collective commitment that does not borrow the vocabulary of command Phi otherwise refuses."
+    "solarpunk-values": "An alliance lets communities and working groups cooperate across distance around repair, access, ecological care, or another shared purpose.",
+    "peace-linguistics-practices": "The word names organised commitment without presuming command, unanimity, or a permanent rank among members."
   },
   "semantic_domains": {
-    "activity": "oriented toward sustained collective action, not one decision",
-    "cognition": "held together by a shared conviction, an idea before it is a bond",
-    "community": "a bound group of people, not a single occasion of meeting"
+    "activity": "continuing cooperation organised around a shared purpose",
+    "community": "a deliberately formed association of people or groups"
   },
   "modules": [
     "commons-and-collective-governance"

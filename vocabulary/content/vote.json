@@ -8,17 +8,27 @@
     "ra"
   ],
   "pos": "verb",
-  "concept": "Vote / Formally Register a Choice or Stance",
-  "description": "To formally register a choice or stance within a decision procedure. A vote is a registered position; the ballot's exact form, its weights, and its threshold for winning are facts the word does not carry.",
-  "sound_symbolism": "Velar 'ka' makes the first clean contact and releases into broad 'a'. Stressed 'si' narrows that openness into a fine hiss and focused vowel. Final 'ra' rolls the sound outward and opens it again. The contour moves from a firm start through a fine center to an ending the tongue releases into open air.",
-  "grammatical_notes": "A transitive verb with the voter as subject and the proposal, candidate, option, or stance as object: 'lo wemari ha repora kasira.' (The members vote on this proposal.) The event-noun rule supplies a vote. Preserve exact ballot and counting rules in a separate source record. Distinct from 'kanu' (choose), 'nawo' (agree), 'makelu' (abstain), polling, and a decision outcome.",
+  "search_terms": [
+    "cast a vote",
+    "register a choice"
+  ],
+  "description": "To 'kasira' is to register a choice or stance formally within a decision procedure. The vote belongs to the participant who casts it; the counting method and threshold belong to the procedure. 'kanu' (choose) can remain private, while a vote enters a shared record or tally.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into central 'a'. Form a narrow groove along the tongue for unvoiced 's' and hold stressed high-front 'i'. Tap or briefly trill the tongue tip before opening into central 'a'.",
+  "sound_symbolism": "The velar release of 'ka' narrows into the bright hiss of stressed 'si', then final 'ra' turns the tongue and opens broadly. The movement from open to fine and out again can recall one stance passing through a formal point of registration.",
+  "usage_notes": "A voter precedes the proposal, candidate, option, or stance selected in the procedure. A nominal 'kasira' is a vote. Exact ballot forms, weights, counting rules, and result categories stay with their source records. 'makelu' (abstain) formally registers no selection.",
+  "examples": [
+    {
+      "phi": "lo wemari ha repora kasira.",
+      "translation": "The members vote on this proposal."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Voting is one available coordination tool whose access, weighting, thresholds, ecological stakes, and institutional consequences must remain design choices.",
-    "peace-linguistics-practices": "The word separates a recorded procedural stance from personal agreement, consent, voice, legitimacy, and the treatment of people who lose or abstain."
+    "solarpunk-values": "Voting is one available coordination tool whose access and counting rules remain choices the community can inspect.",
+    "peace-linguistics-practices": "A vote stays separate from personal agreement and consent. People who abstain or lose the count retain their position."
   },
   "semantic_domains": {
-    "activity": "formally registering a choice or stance",
-    "community": "a vote within a defined collective procedure"
+    "activity": "formally registering a choice or stance in a procedure",
+    "community": "a participant's recorded position within collective decision making"
   },
   "modules": [
     "commons-and-collective-governance"

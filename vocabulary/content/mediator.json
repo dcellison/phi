@@ -8,19 +8,27 @@
     "o"
   ],
   "pos": "noun",
-  "concept": "Mediator / One Who is a Deliberate Bridge",
-  "description": "A neutral third party who facilitates dialogue between conflicting parties to help them reach a mutual understanding and agreement. Their role is to build a bridge of communication, not to impose a solution.",
-  "sound_symbolism": "The thoughtful 'the' establishes careful consideration - mediation cannot rush, must breathe with deliberation. This patience builds into 're', the bridge-sound that spans chasms between hearts in conflict. Finally 'o' encompasses all parties in wholeness, refusing to take sides while holding space for resolution. Three syllables map the mediator's journey: careful listening, bridge-building, wholeness-seeking - the sacred work of helping others find their way back to each other.",
-  "grammatical_notes": "A noun referring to the person fulfilling this role. Often appears with the role honorific 'le': 'le thereo' (respected mediator). Possessor precedes directly: 'sila thereo' (the community's mediator), 'lumani thereo' (family mediator). Typically appears as subject with verbs of dialogue: 'thereo lo miona sheluo.' (The mediator listens to the people.) The preposition 'thei' (between) often accompanies: 'thereo thei lo miona whano.' (The mediator stands between the people.)",
+  "search_terms": [
+    "mediation role",
+    "third-party dialogue helper"
+  ],
+  "description": "A 'thereo' is a third person who helps people in disagreement hear one another and seek a settlement they can choose themselves. The mediator supports communication and may clarify what remains apart. The role carries no power to impose an outcome.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth for unvoiced 'th' and release into true-mid front 'e'. Tap or briefly trill the tongue tip before stressed true-mid front 'e'. Keep final true-mid rounded 'o' separate in hiatus.",
+  "sound_symbolism": "Dental breath in 'the' meets the tongue turn of stressed 're' before the final rounded vowel opens on its own. The pauses between contacts give the form room to settle without collapsing its separate sounds.",
+  "usage_notes": "The noun names the person in the role. The people, matter, procedure, confidentiality, and possible outcomes belong in the surrounding account. 'thorae' (facilitator) supports a group process more generally, while a mediator works between stated parties whose positions remain their own.",
+  "examples": [
+    {
+      "phi": "thereo lo miona sheluo.",
+      "translation": "The mediator listens to the people."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The mediator practices radical non-attachment - holding space without taking sides, seeing all perspectives without losing clarity. This requires the wisdom to recognize that most conflicts arise from misunderstanding and unmet needs rather than true opposition. The mediator embodies the middle way, finding paths between extremes.",
-    "peace-linguistics-practices": "Mediation embodies the highest form of peace practice - creating conditions where parties in conflict can hear each other's humanity. The mediator facilitates dialogue without imposing solutions, understanding that sustainable peace emerges from mutual recognition rather than external judgment. This role transforms conflict into opportunity for deeper understanding.",
-    "pre-industrial-wisdom": "Traditional societies have long recognized mediators as essential community roles - those gifted in seeing all sides and weaving resolution from conflict. These peace-weavers understand that broken relationships tear the community fabric, and that restoration matters more than determining who was right. Ancient mediation practices focus on healing the whole rather than punishing parts."
+    "secular-buddhist-philosophy": "A mediator attends to several conditioned accounts without turning any speaker into a fixed enemy or pretending that every disagreement has a middle point.",
+    "peace-linguistics-practices": "Mediation keeps the people in a disagreement as authors of any settlement while giving careful listening and clarification an explicit role."
   },
   "semantic_domains": {
-    "communication": "facilitates communication and understanding between parties",
-    "community": "essential role in maintaining social harmony",
-    "wisdom": "requires seeing all perspectives and finding middle way"
+    "communication": "helping stated parties listen, clarify, and seek their own settlement",
+    "community": "a third-party role used when a shared relation needs mediated dialogue"
   },
   "modules": [
     "commons-and-collective-governance"

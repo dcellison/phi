@@ -8,16 +8,26 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Member / Recognized Participant in a Group or Institution",
-  "description": "Recognized participation in a group under a stated criterion and source. A person can belong to a place ('wema') without carrying this institutional status, and taking part in one event does not by itself make anyone a member.",
-  "sound_symbolism": "'We.ma' repeats the full sound of 'wema' (belong): a rounded glide into the stressed closure and broad release of 'ma'. 'Ri' adds a quick returning contact of the tongue and brightens the end. Belonging is heard first; membership gives that relation one further mark in the shared record.",
-  "grammatical_notes": "A countable noun commonly modified by the group or institution: 'ha sila wemari mua kowela pawela.' (This community member participates in the council.) State the membership source, criteria, time, and disputed status where relevant. Distinct from 'wema' (belong), 'pawela' (participate), residence, affected standing, and 'shalori' (represent).",
+  "search_terms": [
+    "group member",
+    "institutional member"
+  ],
+  "description": "A 'wemari' is a person recognised as part of a group or institution under its membership criterion. Someone may 'wema' (belong) to a place without holding that status, while taking part in one meeting does not make a person a member. The group and the source of recognition complete the particular claim.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then glide into true-mid front 'e'. Close the lips for 'm', carry voicing through the nose, and release into stressed central 'a'. Tap or briefly trill the tongue tip before final high-front 'i'.",
+  "sound_symbolism": "The word begins with intact 'wema' (belong): rounded 'we' enters the closed lips of stressed 'ma'. Final 'ri' adds a quick tongue movement and a brighter finish, as if belonging has received one further mark.",
+  "usage_notes": "Members count individually, and the group commonly appears before the noun as a possessor. Admission and duration belong around the membership relation, as do suspension or dispute. 'pawela' (participate) reports taking part, while 'shalori' (represent) reports acting for another party.",
+  "examples": [
+    {
+      "phi": "ha sila wemari mua kowela pawela.",
+      "translation": "This community member participates in the council."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Membership can make shared stewardship and decision participation visible while keeping entry, exclusion, burden, and institutional power open to criticism.",
-    "peace-linguistics-practices": "Naming membership separately from agreement, consent, representation, and worth prevents a group label from speaking over the person who bears it."
+    "solarpunk-values": "A commons can identify who shares its continuing work and decision relations without pretending that everyone nearby holds the same institutional status.",
+    "peace-linguistics-practices": "Membership leaves agreement and consent to the person's own speech, so a group label cannot supply their position."
   },
   "semantic_domains": {
-    "community": "recognized membership in a stated group or institution"
+    "community": "recognised participation in a group or institution under a stated criterion"
   },
   "modules": [
     "commons-and-collective-governance"

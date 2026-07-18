@@ -8,16 +8,26 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Ownership / Socially Defined Powers and Claims Over Something",
-  "description": "A bundle of socially defined powers and claims over something, wider than simply holding it. Caring for a thing, using it, or being affected by it does not by itself make it owned; ownership is a further social fact layered on top.",
-  "sound_symbolism": "Bilabial breath begins 'phe' with the lips close but air still moving. Stressed 'no' gathers that openness into a rounded dental nasal. 'Ri' flicks outward and ends on bright 'i'. The sound moves from a reaching breath into enclosure and then into the social line drawn around what is claimed.",
-  "grammatical_notes": "A countable or mass noun commonly modified by its object: 'ha miona ha muralo phenori sherewa.' (This person claims ownership of this material.) State recognized powers, exclusions, obligations, source, duration, and dispute where relevant. Distinct from 'phelu' (hold), 'theluo' (steward), custody, use, 'laenu' (commons), and exact property categories.",
+  "search_terms": [
+    "property relation",
+    "social ownership"
+  ],
+  "description": "'phenori' is a socially defined set of powers and claims over a thing, place, or resource. It is wider than 'phelu' (hold), which reports possession or care without deciding property status. A commons may organise ownership collectively, but the exact powers still come from its arrangement or source tradition.",
+  "articulatory_notes": "Bring the lips close without sealing them for unvoiced 'ph' and continue the breath into true-mid front 'e'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the sound through the nose, and hold stressed true-mid rounded 'o'. Tap or briefly trill the tongue tip before final high-front 'i'.",
+  "sound_symbolism": "Bilabial breath in 'phe' gathers into the rounded dental enclosure of stressed 'no'. Final 'ri' turns outward and brightens. One audible line extends beyond the claimed enclosure.",
+  "usage_notes": "One ownership claim takes a count reading; ownership generally is mass-like. The owned thing commonly precedes it. Use and access can be described around the claim, along with care, transfer, or obligations. Exact property categories and their legal effects stay with the system that defines them.",
+  "examples": [
+    {
+      "phi": "ha miona ha muralo phenori sherewa.",
+      "translation": "This person claims ownership of this material."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "A neutral ownership term makes extraction, enclosure, common holding, transfer, repair, and ecological responsibility discussable without treating one property system as natural.",
-    "peace-linguistics-practices": "Separating ownership from possession, care, creation, legitimacy, and authority prevents a claimed relation from erasing other users, histories, or affected communities."
+    "solarpunk-values": "A neutral ownership term lets a community compare private, shared, and entrusted arrangements without treating one of them as natural.",
+    "peace-linguistics-practices": "Separating ownership from holding and care keeps a property claim from erasing other users or affected communities."
   },
   "semantic_domains": {
-    "community": "a socially defined set of powers and claims over something"
+    "community": "socially defined powers and claims over a thing, place, or resource"
   },
   "modules": [
     "commons-and-collective-governance"

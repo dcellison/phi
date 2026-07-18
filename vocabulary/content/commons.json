@@ -8,17 +8,27 @@
     "nu"
   ],
   "pos": "noun",
-  "concept": "Commons / Shared Space / Collective Resource",
-  "description": "Land or resources belonging to or affecting the whole of a community; shared space. 'Laenu' names what belongs to all—the shared meadow, the community well, resources held in common.",
-  "sound_symbolism": "The word shares openly. 'La' begins with open release, sharing initiated. The vowel 'e' opens to all. Then 'nu' grounds in collective holding, commons established.",
-  "grammatical_notes": "Functions as a noun; the possessing community precedes it: 'sila laenu' (the community's commons). 'lo miona laenu phowe.' (The people share the commons.) Central to sustainable community—resources managed collectively rather than privately.",
+  "search_terms": [
+    "shared resource",
+    "common land"
+  ],
+  "description": "A 'laenu' is land, space, or a resource held for shared use within a community. A meadow, well, seed store, or workshop can enter this relation. The word identifies the commons itself; membership, access, care, ownership, and decision authority remain parts of its particular arrangement.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l', let air pass along its sides, and open into central 'a'. Keep stressed true-mid front 'e' separate in hiatus. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the sound through the nose, and finish on high-back rounded 'u'.",
+  "sound_symbolism": "Lateral 'la' opens into a clear stressed vowel across hiatus before dental 'nu' gathers the sound into a deep rounded close. The wide middle and contained ending can suggest an open place held within a continuing relation.",
+  "usage_notes": "The noun works for one commons and for shared holdings in general; the community commonly precedes it. A commons can include several resources or one shared place. 'panuri' (resource) describes availability for a purpose, while 'phenori' (ownership) names socially recognised powers and claims over something.",
+  "examples": [
+    {
+      "phi": "lo miona ha laenu phowe.",
+      "translation": "The people share this commons."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Commons enable sustainability—shared resources managed for collective benefit rather than private extraction.",
-    "pre-industrial-wisdom": "Commons sustained communities—shared lands for grazing, foraging, gathering that belonged to all."
+    "solarpunk-values": "A commons keeps land or useful material in a shared relation where access, care, and future use can be decided together.",
+    "pre-industrial-wisdom": "Shared pasture, water, woodland, and stores have long depended on local memory and rules that outlast one user's need."
   },
   "semantic_domains": {
-    "community": "Collective resource",
-    "spatial": "Shared space"
+    "community": "land, space, or resources held in a shared community relation",
+    "spatial": "a place may be organised as a commons for shared use"
   },
   "modules": [
     "commons-and-collective-governance"

@@ -1,0 +1,36 @@
+{
+  "word": "kowanu",
+  "gloss": "governance",
+  "ipa": "/ko̞.ˈwä.n̪u/",
+  "syllables": [
+    "ko",
+    "wa",
+    "nu"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "collective decision arrangement",
+    "governing arrangement"
+  ],
+  "description": "'kowanu' is the continuing arrangement by which a group makes collective decisions and carries them into practice. The arrangement also includes how those decisions return for review. It brings participation, authority, and procedure into one field without making any one institution the whole of governance. A 'punoki' (institution) may belong to it, but governance can remain informal or pass among several bodies.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into true-mid rounded 'o'. Round the lips for voiced 'w' and open into stressed central 'a'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the sound through the nose, and finish on high-back rounded 'u'.",
+  "sound_symbolism": "Rounded 'ko' gives 'kowanu' a distant audible kinship with 'kowela' (council). The lips open through stressed 'wa' before dental 'nu' gathers the sound into a deep close. The contour can recall collective action settling into a continuing arrangement.",
+  "usage_notes": "General governance takes a mass reading; particular arrangements may be counted for comparison. A governed community, commons, institution, or system often occupies modifier position. Exact constitutional, customary, legal, or political forms retain their source names; 'kowanu' identifies the practical arrangement around them without deciding its legitimacy.",
+  "examples": [
+    {
+      "phi": "ha laenu kowanu si helui.",
+      "translation": "The governance of this commons is changing."
+    }
+  ],
+  "pillars": {
+    "solarpunk-values": "A commons can trace decisions from participation into action and back into review, even when no single institution owns the path.",
+    "peace-linguistics-practices": "The noun keeps participation and authority inside the same account, so collective language cannot make the power relation disappear."
+  },
+  "semantic_domains": {
+    "activity": "the continuing practice through which collective decisions are made and carried out",
+    "community": "an arrangement connecting participation, authority, procedure, and review"
+  },
+  "modules": [
+    "commons-and-collective-governance"
+  ]
+}
