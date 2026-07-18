@@ -12,22 +12,26 @@
     "compel",
     "pressure"
   ],
-  "description": "A supervisor threatens someone's place in the workshop unless they take a dangerous shift. 'kawhera' uses power or threat to narrow the practical choices another person can actually make. A rule, need, or urgent danger can exist without coercion, while courteous wording cannot make a threatened penalty disappear.",
+  "description": "A workshop supervisor threatens someone's place unless they take a dangerous shift. A handler may likewise use force or confinement until an animal follows the chosen path. 'kawhera' names power or threat that closes the practical alternatives available to another person or animal; courteous wording cannot reopen them.",
   "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into open central unrounded 'a'. Round the lips and raise the back of the tongue for unvoiced 'wh', then move forward and unround into stressed middle-height 'e'. Make a tap or short trill with the tongue tip for 'r' and finish with open central 'a'.",
   "sound_symbolism": "The first syllable opens abruptly after the velar release. The stressed middle pushes unvoiced breath through rounded lips before the tongue can turn into the final 'ra'. The word can feel as though its own airflow has been made to pass through a space already narrowed for it.",
-  "usage_notes": "The coercing agent is the subject and the constrained person or group is the direct object. State the demand, power or threat, alternatives that actually existed, and the affected person's account in the surrounding sentences. The event-noun rule supplies coercion. 'sharemi' (persuade) works through communicative appeal, 'nashaku' (enforce) acts in relation to a rule or decision, and 'lesawi' (consent) requires a freely available answer.",
+  "usage_notes": "The coercing agent is the subject, and the constrained person, animal, or group is the direct object. Nearby clauses can show the demand, the power behind it, the alternatives that remained, and the affected being's response. The event-noun rule supplies coercion. 'sharemi' (persuade) works through communicative appeal, 'nashaku' (enforce) acts in relation to a rule or decision, and 'lesawi' (consent) requires a freely available answer.",
   "examples": [
     {
       "phi": "ha miona thia kawhera.",
       "translation": "This person coerces you."
+    },
+    {
+      "phi": "ha miona lo kalora kawhera.",
+      "translation": "This person coerces the horses."
     }
   ],
   "pillars": {
-    "secular-buddhist-philosophy": "The word locates coercion in conditioned power, threatened consequences, and narrowed alternatives. It need not turn the person who coerces into a fixed essence.",
+    "secular-buddhist-philosophy": "Coercion lies in the power used, the consequence threatened, and the alternatives closed. The agent remains a person or institution whose conduct can change.",
     "peace-linguistics-practices": "Directly naming coercion keeps authority, urgency, care, and polite language from disguising the removal of practical choice."
   },
   "semantic_domains": {
-    "activity": "using power or threat to constrain another person's practical choice",
+    "activity": "power or threat closing practical alternatives available to another person or animal",
     "community": "coercion within a social or institutional relation",
     "ethics": "the removal of practical choice through power or threat"
   }

@@ -35,7 +35,7 @@
 | `katemu` | offcut | a piece created when work separates material from its intended main form |
 | `kati` | cut | using an edge to divide or open material |
 | `kawepa` | catch | meeting a moving body or object to stop or support its motion |
-| `kawhera` | coerce | using power or threat to constrain another person's practical choice |
+| `kawhera` | coerce | power or threat closing practical alternatives available to another person or animal |
 | `kealo` | create | bringing a new work, idea, or arrangement into existence |
 | `keiro` | way | a manner or approach through which an action proceeds |
 | `kelasu` | usable | a person able to carry out an intended purpose with a thing or process |
@@ -166,7 +166,7 @@
 | `phurilo` | broom | an instrument used while sweeping |
 | `phuro` | renew | beginning another period of use or practice |
 | `pilewa` | make | work that brings about a concrete or abstract result |
-| `pilora` | exploit | securing disproportionate benefit through power or vulnerability |
+| `pilora` | exploit | securing disproportionate benefit from another person, animal, or group through power or vulnerability |
 | `pilu` | take | actively bringing something into immediate control or use |
 | `pina` | sew | joining or finishing material with repeated stitches |
 | `piru` | trader | recurring work arranging or conducting exchanges of goods |
@@ -941,7 +941,7 @@
 | `phomila` | offspring | a person's direct relation to the next generation in a family line |
 | `phowe` | share | shared use of things, resources, or activities |
 | `phuro` | renew | continuation of a commitment or shared arrangement |
-| `pilora` | exploit | an unequal social relation that separates benefit from burden |
+| `pilora` | exploit | an unequal social or material relation that separates benefit from burden |
 | `piru` | trader | a role connecting participants or places through exchange |
 | `pukea` | danger | possible harm that may require a warning or shared protective response |
 | `punoa` | society | the wider social field formed by relationships, customs, and institutions |

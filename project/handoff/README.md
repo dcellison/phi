@@ -20,14 +20,15 @@ Do not use `archive/` as current evidence. It preserves history, including appro
 
 ## Where the work stopped
 
-SEM-09B and SEM-09C are complete. D045 through D052 migrated all eight module learning paths, and all 1,275 lexicon entries are now target-shaped. There are no legacy, partial, or dual entries. Work, Craft, and Repair closed the sequence without adding a root. The active-corpus retrofit is next.
+SEM-09B and SEM-09C are complete. D045 through D052 migrated all eight module learning paths, and all 1,275 lexicon entries are target-shaped. There are no legacy, partial, or dual entries. SEM-09D is in progress: its first literary pass preserved both Schleicher renderings and D053 repaired the animal range of `kawhera` and `pilora` exposed by that review.
 
 The execution order is fixed in the roadmap:
 
-1. Sweep active Phi passages for old workarounds that the completed vocabulary can improve.
-2. Return to the Phi book with chapter 7, "A literature before a community."
+1. Continue the text shelf one work at a time, with The North Wind and the Sun next.
+2. Sweep the remaining active Phi passages for old workarounds that the completed vocabulary can improve.
+3. Return to the Phi book with chapter 7, "A literature before a community."
 
-The immediate task is the SEM-09D contextual retrofit described in [`current_state.md`](current_state.md). Inspect the book, manual, primer, pamphlets, texts, and current documents for older paraphrases or workarounds, but change a Phi passage only when current vocabulary makes it more faithful or natural. A transparent composition is not obsolete merely because a direct word now exists.
+The immediate task is the next SEM-09D literary pass, The North Wind and the Sun, described in [`current_state.md`](current_state.md). Inspect the source, both Phi renderings, their notes, and every dependency against the completed base and module vocabulary. Change a Phi passage only when current vocabulary makes it more faithful or natural. A transparent composition is not obsolete merely because a direct word now exists.
 
 ## The maintainer's working contract
 

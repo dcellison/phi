@@ -101,6 +101,18 @@ The transmutation was written again from the controlled English source. Its sour
 
 The page gives all five pillars their own material question. The widest changes come from peace linguistics and the secular Buddhist refusal to rank suffering. Solarpunk, Art Nouveau, and preindustrial sections stay anchored to the wagon, fleece, garment, and living bodies.
 
+### Post-migration contextual retrofit
+
+The post-migration pass checked every content phrase against the completed lexicon. Neither Phi rendering needs a change. The existing roots keep source distinctions that newer words would blur, and the transparent clauses still expose relations that a broader label would hide.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| Physical weight and burden | Preserve `tumoa` and `tupeka` | `tumoa` gives the wagon the source's heavy judgement. `tupeka` keeps the living bearer inside the great load; newer `pamolu` would identify weight as a magnitude but lose the burden as an object carried by the horse. |
+| Heartfelt grief | Preserve intense `nuhe` | Schleicher's parenthesis describes immediate heartfelt distress without an identified loss. `nuhemi` is continuing grief after loss, so it would narrow the source more than `ru nuhe phaelo`. |
+| Warmth, shearing, and bodily consequence | Preserve `sulae`, passive `kati`, and the surrounding clauses | The garment is warm, not hot. The source establishes cutting and missing wool but does not separately establish damage, cruelty, or an act of covering. `sukaro`, `pukeri`, `lerasu`, and `tawemi` would add those claims rather than replace a workaround. |
+| Animal objects of power verbs | Repair the lexicon prose; preserve the Phi | The target entries for `kawhera` and `pilora` had narrowed their objects to people even though the transmutation validly applies coercion to horses and exploitation to sheep. D053 restores animals to both ranges and adds examples without changing a form or gloss. |
+| Optional module vocabulary | Preserve `phenori` and `pilora` only | Commons `phenori` supplies the practical ownership relation required by the close translation. Shared Work and Commons `pilora` supplies the transmutation's analysis. No other optional term makes either rendering more faithful or natural. |
+
 ## Translation review: The Metta Sutta
 
 The ground truth is V. Fausböll's 1881 translation stored at `texts/sources/sutta_nipata_fausboll.txt`. Every cited clause in verses 1 through 10 is represented. This includes the final claim about return to a mother's womb. The text uses two optional roots where ordinary base paraphrase would lose the source's distinction: `thesani`, skill, and `naseru`, obligation.
@@ -221,7 +233,7 @@ The source citations and gap logs in each pamphlet hold the detailed decisions. 
 | `texts/north_wind_and_sun.md` | Translation + transmutation | Reviewed | Paired source, back-translation, vocabulary, and five-pillar comparison complete. |
 | `texts/metta_sutta.md` | Translation | Reviewed | Full source-fidelity pass complete; two optional roots used where their distinctions matter. |
 | `texts/solarpunk_manifesto.md` | Translation | Reviewed | Thirty-eight aligned units cover the complete licensed text; political and cultural source terms remain exact beside transparent Phi analyses. |
-| `texts/schleicher_fable.md` | Translation + transmutation | Reviewed | Controlled English source, paired renderings, lexical repairs, and five-pillar comparison complete. |
+| `texts/schleicher_fable.md` | Translation + transmutation | Reviewed | The post-migration retrofit preserves both renderings and repairs the supporting animal range of `kawhera` and `pilora`. |
 | `texts/babel_text.md` | Translation + transmutation | Reviewed | Complete KJV alignment, translation limits, deliberate Earth and sowing departures, and five-pillar comparison complete. |
 | `texts/human_rights_article_one.md` | Translation + transmutation | Reviewed | Paired source alignment, two source-facing roots, translation limits, gap log, and five-pillar comparison complete. |
 | `texts/little_prince_excerpts.md` | Transmutation | Reviewed | Three source excerpts checked; the responsibility line gives mutual bonding its required oblique grammar. |
