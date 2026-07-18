@@ -2,7 +2,7 @@
 # score	unit_edits	left	left_gloss	left_kind	right	right_gloss	right_kind	corpus_attestations
 0.47	1	mia	1SG	function	mea	thanks	interjection	1742
 0.47	1	lu	COND	function	lo	PL	function	1552
-0.47	1	shea	peace	content	shia	3SG	function	1421
+0.47	1	shea	peace	content	shia	3SG	function	1423
 0.47	1	nila	see	content	nela	COORD	function	659
 0.47	1	so	FUT	function	su	OPT	function	368
 0.47	1	sholu	complete	content	sholo	QUOT.COMP.CLOSE	function	274
@@ -94,7 +94,7 @@
 0.47	1	thorai	bless	content	thorae	facilitator	content	1
 0.47	1	thorai	bless	content	thurai	vibrant	content	1
 0.50	1	po	POT	function	to	PST	function	2079
-0.50	1	thia	2SG	function	shia	3SG	function	1888
+0.50	1	thia	2SG	function	shia	3SG	function	1890
 0.50	1	ko	FOC	function	to	PST	function	1870
 0.50	1	nia	ON	function	mia	1SG	function	1808
 0.50	1	sa	HON.RESPECT	function	ha	PROX	function	710
@@ -127,8 +127,8 @@
 0.50	1	koma	head	content	kona	VOC	function	100
 0.50	1	theo	read	content	sheo	THAN	function	86
 0.50	1	phoa	do	content	thoa	AMONG	function	82
-0.50	1	heloi	generous	content	sheloi	MANY	function	67
-0.50	1	seloi	insightful	content	sheloi	MANY	function	66
+0.50	1	heloi	generous	content	sheloi	MANY	function	69
+0.50	1	seloi	insightful	content	sheloi	MANY	function	68
 0.50	1	hola	laugh	content	sola	DISJ	function	64
 0.50	1	wheo	elder	content	sheo	THAN	function	61
 0.50	1	thola	bring	content	sola	DISJ	function	58
@@ -157,12 +157,12 @@
 0.50	1	wheli	ANY	function	theli	EACH	function	1
 0.50	1	sano	know	content	whano	stand	content	316
 0.50	1	shelu	book	content	phelu	hold	content	261
-0.50	1	phena	kind	content	thena	thing	content	235
-0.50	1	sena	pattern	content	thena	thing	content	217
+0.50	1	phena	kind	content	thena	thing	content	237
+0.50	1	sena	pattern	content	thena	thing	content	219
 0.50	1	shua	come	content	thua	fair	content	216
-0.50	1	shena	calm	content	thena	thing	content	211
+0.50	1	shena	calm	content	thena	thing	content	213
+0.50	1	thema	guardian	content	thena	thing	content	207
 0.50	1	selu	flow	content	phelu	hold	content	205
-0.50	1	thema	guardian	content	thena	thing	content	205
 0.50	1	thelu	dialogue	content	phelu	hold	content	202
 0.50	1	phelu	hold	content	helu	smooth	content	200
 0.50	1	shaelo	brave	content	phaelo	feel	content	160
