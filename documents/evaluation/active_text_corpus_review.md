@@ -30,7 +30,7 @@ The shelf uses two methods. A translation remains answerable to the source at ev
 
 ## Paired review: The North Wind and the Sun
 
-The ground truth is the 1919 *Aesop for Children* text stored at `texts/sources/aesop_for_children.txt`. The close translation uses 106 unique forms; at least 62 do not appear in the preceding primer chapters: 46 content words and 16 non-content forms. The transmutation uses 97 unique forms, with at least 57 unattested in those chapters: 42 content words and 15 non-content forms. Both renderings use base vocabulary throughout. These are attestation counts, not claims about what a learner could infer.
+The ground truth is the 1919 *Aesop for Children* text stored at `texts/sources/aesop_for_children.txt`. The close translation uses 104 unique forms and the transmutation uses 98. Both still reach well beyond the preceding graded chapters, so the glosses and back-translations remain part of the reading method. Both renderings use base vocabulary throughout.
 
 ### Close translation
 
@@ -40,8 +40,8 @@ The ground truth is the 1919 *Aesop for Children* text stored at `texts/sources/
 | Quarrel and bluster | Phi has no roots for either term, while `themore` is a reasoned argument and does not fit. | Discussion plus failed agreement forms the quarrel. Heart-fire and loud shouting supply the heat and bluster without creating two narrow roots. |
 | Strip and wrap | The transmutation made the winner cause the Traveler's release, which shifted the source's direct removal. Plain `lomare` also lacked the Traveler's agency in wrapping the cloak. | `lue ... wethalu leiro` makes the contestant release the garment from the Traveler. The causative makes the Traveler cause the garment to embrace them closely. |
 | Gust and whipping cloth | Quivering was an intentional softening, not a close transfer of the first gust's force. | `teku kema howeli` is a short, strong wind. Passive `wapho` throws the garment's edges around the Traveler's body. |
-| Loose cloak and anatomy | `luwi` cannot mean loose, and broad `menoa` alone loses the brow's location. | The Traveler causes the garment to stay `ralu`, free, on their shoulders. The brow is the face above the eyes; cap is the transparent head-garment. |
-| Pulling off and throwing down | A single release loses the pull in "pulled off," while `ruemi` replaces the source's abrupt reflexive throw with an ordinary posture. | The garment is pulled from the body and then released. The Traveler throws themself toward the earth into tree-shadow for the stated purpose of escape. |
+| Loose cloak and anatomy | `luwi` cannot mean loose, and broad `menoa` loses the brow's location. | The Traveler causes the garment to stay `ralu`, free, on their shoulders. Base `komeri` now names the forehead directly; cap remains the transparent head-garment. |
+| Pulling off and throwing down | A single release loses the pull in "pulled off," while `ruemi` replaces the source's abrupt reflexive throw with an ordinary posture. | The garment is pulled from the body and then released. The Traveler flees (`phesari`) from the burning brightness and throws themself toward the earth into tree-shadow. |
 | Persuasion | `phena haolu` says kind speech but does not say that one person seeks to move another. Phi could state coercion without its communicative counterpart. | New base verb `sharemi` gives Phi persuasion while leaving refusal available. `phena` supplies the kindness that belongs to Aesop's phrase rather than to every act of persuasion. |
 | Winning and failing | `thonuki` is technical failure and `thenoi` is quantitative falling short. Neither belongs in a fable's general contest result. | `porua korei`, fulfill purpose, states success against the wager's aim; its negation states failure. The translation repeats Aesop's verdict even where the plot complicates it. |
 | Learning role | The fable introduces grammar and vocabulary beyond the graded primer. A second rendering could either support comparison or double the burden without guidance. | The primer sends the learner through the close translation first, then to the transmutation and comparison. Glosses and back-translations are part of the reading method. |
@@ -62,13 +62,26 @@ The companion rendering answers to its own method. Its departures are deliberate
 | The Wind's motion | Phi gives the cloak a quiver and the Wind a pull. The source has whipping cloth and tearing effort. | The Phi stays as a deliberate softening, but the back-translation no longer borrows the stronger source verbs. |
 | Giving light | `phelo` means light in weight, so it cannot carry illumination through an English homonym. | `keru loa`, give brightness, covers shining, beams, and rays as one compositional event. Genuine weight uses of `phelo` are unchanged. |
 | Quarrel and argument | `themore` is an argument made of reasons, not a quarrel. Phi has no dedicated root for the source's dispute. | The interaction uses `shareo`; fire and a loud voice preserve its felt manner. Loudness itself receives no moral blame. |
-| Effort and failure | `theko` is skilled craft, `riola` is purposeful labor, and `thonuki` reports failure against a technical requirement. None fits the Wind's attempt or Aesop's contest result. | All that the Wind did is `theula rena shia to phoa`. `whuo lureko` judges its immediate result without borrowing a work or systems term. |
+| Effort and failure | `theko` is skilled craft, `riola` is purposeful labor, and `thonuki` reports failure against a technical requirement. None fits the Wind's attempt or Aesop's contest result. | The event noun `mesatu` now names the Wind's attempts without turning them into labour. `whuo lureko` judges their immediate result without borrowing a systems term. |
 | Wager and governance vocabulary | `repora` is a proposal put before a collective process. This exchange needs no institution. | The Sun's spoken agreement uses the optative and `nawo`. The note also identifies the missing party: the Traveler. |
 | Active dependencies | The moral appears in two manual chapters, and the fable is the primer's annotated capstone. `keru loa` also reaches the compound registry and other literary texts. | The two manual citations follow the new moral. The capstone still presents the source line and back-translation as part of the reading method. |
 
 The comparison follows all five pillars without demanding an artificial change from each. Solarpunk and preindustrial commitments find the source's material scene already close to them. Art Nouveau changes the pressure of the organic line more than its objects. Secular Buddhist attention moves from rank toward consequence. Peace linguistics produces the widest divergence: translation states Aesop's claim, while transmutation leaves strength and volume neutral and lets the Traveler's departure answer the contest.
 
 No module word is required. Persuasion and coercion belong to ordinary social language, and the other compositions use equally general words. The paired page is still a capstone without asking a new learner to open a specialist lexicon.
+
+### Post-migration contextual retrofit
+
+Three old detours can now give way to direct base words in both renderings. Each replacement restores a source detail without changing the translation's fidelity or the transmutation's answer to Aesop. The remaining compositions stay because they still say the right thing.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| Effort and attempt | Replace generic `theula rena shia to phoa` with `shia theula mesatu` | The older phrase said only "all that it did." The event noun of base `mesatu` now says "all its attempts" and leaves completion and success open until `whuo lureko` reports the fruit. |
+| Brow | Replace the descriptive location and broad `menoa` with `komeri` | Forehead is an ordinary bodily landmark in the source and in daily speech. The direct base noun is both shorter and more exact. |
+| Escape from the Sun | Replace `phei ... wepu`, go away from, with `lue ... phesari` | The Traveler now flees the burning brightness. `phesari` carries the danger or constraint that plain motion left unspoken. The close translation still throws the body down; the transmutation still uses an ordinary lying posture. |
+| Warmth, heat, and illumination | Preserve `sulae`, `sukaro`, and `keru loa` | The pleasant warmth is moderate, the later bodily heat is intense, and the registered expression "give brightness" presents a shining source. `sumeri` would turn the scene into a temperature parameter, while `keruma` concerns received illumination as a condition. |
+| Garment, pulling, and damage | Preserve `wethalu`, `lomare`, `ralu`, and `natu` | Head-garment remains a useful transparent composition, the cloak's embrace keeps wrapping embodied, and Aesop's "tore at" reports forceful pulling without proving that the cloth was damaged. `tawemi` and `pukeri` would change those claims. |
+| Optional module vocabulary | Use none | The fable's weather, clothing, bodily actions, persuasion, and coercion all belong to ordinary speech. No optional root improves either rendering. |
 
 ## Paired review: Schleicher's fable
 
