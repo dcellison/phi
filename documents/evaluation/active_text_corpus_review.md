@@ -285,18 +285,49 @@ Three distinctions alter the paired section. Several newer or newly clarified wo
 
 ## Paired review: Tao Te Ching selections
 
-The ground truth is James Legge's complete chapters 8, 11, 17, 63, and 76 from his 1891 *Tao Teh King*, stored in `texts/sources/tao_teh_king_1891.txt`. The close translation covers every proposition in those chapters. The transmutation remains a selected reading: chapters 17 and 76 cite every source proposition, while chapters 8, 11, and 63 leave material behind.
+The ground truth is James Legge's complete chapters 8, 11, 17, 63, and 76 from his 1891 *Tao Teh King*, stored in `texts/sources/tao_teh_king_1891.txt`. The close translation covers every proposition in 161 unique Phi forms, eleven of them optional. The transmutation uses 102 unique forms, all from the base vocabulary. It remains a selected reading: chapters 17 and 76 cite every source proposition, while chapters 8, 11, and 63 leave material behind.
+
+| Learning path | Optional roots in the close translation |
+|---|---|
+| Commons and Collective Governance | `karami` (authority), `kowanu` (governance) |
+| Accessibility and Participation | `kelasu` (usable) |
+| Systems and Shared Infrastructure; Work, Craft, and Repair | `kelitho` (function) |
+| Ecological Systems and Material Life; Systems and Shared Infrastructure | `mirela` (state), `pherami` (depend) |
+| Ecological Systems and Material Life; Systems and Shared Infrastructure; Work, Craft, and Repair | `monaki` (component) |
+| Work, Craft, and Repair | `pokera` (competent), `rinoka` (project) |
+| Philosophical Reasoning | `themore` (argument) |
+| Household and Daily Life | `tholupi` (room) |
 
 | Area | Close translation | Transmutation |
 |---|---|---|
 | Water and contention | Water does not intend another place, and people dislike the low place it occupies. | Water helps everything and takes nothing. |
-| Useful emptiness | Thirty wooden wheel pieces meet at an open center before pot and room repeat the dependency. | The wheel is omitted; possibility under `po` carries the pot, door, and window. |
-| Political relation | Chapter 17 describes people who hold `karami`, authority, in society. | The rulers become people who guide. |
-| Easy and difficult | Affairs do or do not require `meloa`, perseverance; the sage sees a burden even in light work. | The promises, flavors, preparation, and difficulty chain stay outside the selection. |
+| Useful emptiness | Thirty wooden wheel components meet at an open center before pot and room repeat the dependency. | The wheel is omitted; possibility under `po` carries the pot, door, and window. |
+| Political relation | Chapter 8 names governance; chapter 17 describes people who hold `karami`, authority, in society. | The rulers become people who guide. |
+| Easy and difficult | `kethua` names difficult affairs and its negation supplies the easier state. | The promises, flavors, preparation, and difficulty chain stay outside the selection. |
+| Dry and withered | At death plants are dry and have withered. | The selected plant line now says both as well. |
+| Death and life | Rigidity and strength come with death; softness and weakness come with `lioru`, life. | The qualities remain companions of death and life. |
 | Force and conquest | A person trusts the strength of their own people who act through force, then fails to fulfill the purpose Legge names as conquest. | Trust in strength brings no fruit. |
 | Feller and wind | A broad tree is chosen by a tree cutter. | A rigid tree falls in wind while a flexible tree stays. |
 
-Base `huwa` now carries Legge's weak and `tinako` carries firm or rigid in chapter 76. Systems `pherami`, depend, states chapter 11's repeated mechanical relation, and `karami` keeps chapter 17's authority visible. The harder gaps remain descriptions: axle is a support rod, difficulty requires perseverance, and conquest stays named in the source citation. Translation does not hide people acting through force or the feller; transmutation may refuse their direction after the source has been heard.
+No new root is needed. The pass replaces five older detours and corrects one noun choice. Commons `kowanu` now names government as a continuing arrangement for collective decisions. `monaki` calls the spokes functional parts, while their path through the wheel supplies their shape. Base `kethua` states difficulty directly, `kureno` restores withering, and `lioru` keeps life apart from the activity of living. Other gaps stay on the page as descriptions or source material: nave is one center, axle is a support rod, Tao keeps Legge's adjacent wording, and conquest stays named in the source citation. Translation does not hide people acting through force or the feller. Transmutation may refuse their direction after the source appears beside it.
+
+### Post-migration contextual retrofit
+
+Six distinctions alter the paired page. Several other candidates fail on meaning or would erase a declared transmutation choice.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| Government, governance, authority, and guidance | Replace close event-noun `punoa kulo` with Commons `punoa kowanu`; preserve close `karami` and transmuted `kulo` | Chapter 8 concerns the arrangement by which a society makes and carries out decisions, which is the center of `kowanu`. Chapter 17 needs the power relation itself, so `karami` remains. The transmutation deliberately turns rulers into guides; importing the translation's authority would undo that reframe. |
+| Spokes, pieces, and components | Replace close classifier phrase `themo wolea` with `wolea monaki` | A spoke is not merely an arbitrary piece of wood. `monaki` identifies it by its function in the wheel, while the path from rim to center still supplies its geometry. Phi continues to lack dedicated spoke, nave, and axle roots. |
+| Difficulty, perseverance, lightness, and burden | Replace chapter 63's difficulty chain with base `kethua` and its negation; preserve `meloa` elsewhere and the first `tupeka` | `kethua` explicitly covers a task or condition demanding substantial effort. `meloa` is the chosen act of continuing despite difficulty, not difficulty itself, while `phelo` concerns physical lightness or low intensity. The earlier `tupeka` remains right where Legge describes trouble as a felt burden. |
+| Drying, ceased growth, and withering | Replace close `te thuroa` and add perfective `kureno` to both renderings | Ceasing to grow was only an observable edge of Legge's withered. Base `kureno` now names the plant process itself, and perfective `ki` presents it as complete at the time of death. `kurathi` remains because the source separately says dry. |
+| Life, living, and death | Replace event-noun `liona` with `lioru` in both renderings; preserve event-noun `lumeo` | `lioru` is life as a condition and course, which is the relation Legge names. `liona` would make the quality a companion of living as an activity. Phi's event-noun rule already gives `lumeo`, die, its noun use death. |
+| Concomitants and companions | Replace close `melu` with `nua ... shua`, come with; preserve transmuted `melu` | The close version no longer turns an abstract association into friendship. The transmutation may keep death's and life's companions as a literary personification, provided the comparison names the change. |
+| Small, large, and English "great" | Preserve `thiku` and `whalo` throughout | Chapter 63 compares magnitude, number, and the scope of undertakings. Current `whalo` covers overall amount and broad scope, so this is not the importance homonym that required repair in the Heart Sutra. `sone`, value, would alter Laozi's paradox. |
+| Brittle, fragile, and hard | Preserve `welua` for brittle | `welua` names susceptibility to damage, which is the useful contrast with living softness here. Adding `kethua` would assert resistance to indentation and still would not create a dedicated brittle quality. |
+| Tao, virtue, praise, wheel parts, conquest, and feller | Preserve the stated limits and adjacent Legge lines | `keiro` is the selected ordinary way, good people do not acquire a doctrinal virtue, honor does not guarantee spoken praise, and the wheel's exact craft terms remain descriptive. Conquest and the feller stay audible in the close source without entering Phi's reusable peace vocabulary. |
+| Optional module vocabulary | Preserve the close version's eleven optional roots and the transmutation's base-only path | Every optional root in the translation carries a distinction used by Legge's argument or material example. None improves the transmutation enough to outweigh its selected, ordinary register. |
+| Active dependencies | Update the paired page, its continuous close block, the shared notes, and phonetic-neighbor attestations only | The changed Phi sentences recur nowhere else in the active corpus. Legge's stored source, its quoted lines, shelf links, and registered compounds remain unchanged. |
 
 ## Transmutation review: the original shelf pass
 
