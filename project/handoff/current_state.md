@@ -1,15 +1,15 @@
 # Current state
 
-This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D053 and the fifth SEM-09D literary retrofit. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
+This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D053 and the sixth SEM-09D literary retrofit. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
 
 ## Active execution sequence
 
 The roadmap's current sequence is not an invitation to choose among several equal tasks. It records one active path:
 
-1. SEM-09D: continue the text shelf with the Heart Sutra, then inspect the remaining active Phi passages.
+1. SEM-09D: continue the text shelf with *The Prophet, On Children*, then inspect the remaining active Phi passages.
 2. PED-08: resume the book at chapter 7.
 
-D044 completed the base-first boundary, and D045 through D052 completed all eight learning paths in their historical order. The full migration now reads under one editorial judgement and voice. SEM-09D began with Schleicher's fable. That pilot preserved every Phi line after checking later base roots and optional terms, while D053 repaired `kawhera` and `pilora` after their target prose proved narrower than their validated animal uses. The second pass replaced three older circumlocutions in *The North Wind and the Sun* with `mesatu` (try), `komeri` (forehead), and `phesari` (flee) in both the translation and transmutation. The third replaced four detours in the Metta Sutta with `sheraki` (search), `tupeka` (burden), `rinu` (want), and `huwa` (weak). The fourth leaves both UDHR Article 1 renderings intact and identifies `remo` as thinking rather than a dedicated rational faculty. The fifth repairs Babel's physical joining, the tower's top, the builders' wish for renown, imagined action, and punitive scattering without adding a root. Registered `mueri kerou`, the face-of-earth image, and the transmutation's seed comparison remain.
+D044 completed the base-first boundary, and D045 through D052 completed all eight learning paths in their historical order. The full migration now reads under one editorial judgement and voice. SEM-09D began with Schleicher's fable. That pilot preserved every Phi line after checking later base roots and optional terms, while D053 repaired `kawhera` and `pilora` after their target prose proved narrower than their validated animal uses. The second pass replaced three older circumlocutions in *The North Wind and the Sun* with `mesatu` (try), `komeri` (forehead), and `phesari` (flee) in both the translation and transmutation. The third replaced four detours in the Metta Sutta with `sheraki` (search), `tupeka` (burden), `rinu` (want), and `huwa` (weak). The fourth leaves both UDHR Article 1 renderings intact and identifies `remo` as thinking rather than a dedicated rational faculty. The fifth repairs Babel's physical joining, the tower's top, the builders' wish for renown, imagined action, and punitive scattering without adding a root. The sixth restores reverence, perception, change, and verse in the Heart Sutra. It also removes a quantitative misuse of `thenoi` and keeps physical `whalo` out of the English "great" homonym. The source terms, ordinary emptiness, and two different crossings remain.
 
 ## Lexicon migration counts
 
@@ -79,7 +79,7 @@ All eight profiles already have canonical JSON membership, a generated module in
 
 The literary shelf has completed its full review against the current lexicon. It contains nine close translations and eleven transmutations; seven works have both. *News from Nowhere* is one 32-chapter work with the first three chapters transmuted and reviewed. The current review record is [`documents/evaluation/active_text_corpus_review.md`](../../documents/evaluation/active_text_corpus_review.md).
 
-SEM-09D is in progress. The sweep begins with the text shelf, one work per pull request, before moving through the book, manual, primer, pamphlets, and current documents. Schleicher's fable, *The North Wind and the Sun*, the Metta Sutta, UDHR Article 1, and Babel are complete; the Heart Sutra is next. A Phi passage changes only when the current form is more faithful or natural there. A transparent composition stays when its parts still teach or express the thought better, and every changed sentence and dependency receives validation.
+SEM-09D is in progress. The sweep begins with the text shelf, one work per pull request, before moving through the book, manual, primer, pamphlets, and current documents. Schleicher's fable, *The North Wind and the Sun*, the Metta Sutta, UDHR Article 1, Babel, and the Heart Sutra are complete; *The Prophet, On Children* is next. A Phi passage changes only when the current form is more faithful or natural there. A transparent composition stays when its parts still teach or express the thought better, and every changed sentence and dependency receives validation.
 
 The shelf's method distinction remains settled:
 
