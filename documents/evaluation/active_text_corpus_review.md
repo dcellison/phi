@@ -128,14 +128,14 @@ The post-migration pass checked every content phrase against the completed lexic
 
 ## Translation review: The Metta Sutta
 
-The ground truth is V. Fausböll's 1881 translation stored at `texts/sources/sutta_nipata_fausboll.txt`. Every cited clause in verses 1 through 10 is represented. This includes the final claim about return to a mother's womb. The text uses two optional roots where ordinary base paraphrase would lose the source's distinction: `thesani`, skill, and `naseru`, obligation.
+The ground truth is V. Fausböll's 1881 translation stored at `texts/sources/sutta_nipata_fausboll.txt`. Every cited clause in verses 1 through 10 is represented. The final claim about return to a mother's womb is there too. The complete Phi text uses 124 unique forms. Two are optional roots whose distinctions a base paraphrase would lose: `thesani`, skill, and `naseru`, obligation.
 
 | Area | Finding | Disposition |
 |---|---|---|
-| Skill, attainment, and ability | The seeker merely knew a path, attained no state, and was wished fitting rather than able. Three source claims had collapsed into a gentler Phi summary. | Skill is `thesani` in walking toward goodness; `ki noalu kelu` states completed attainment of tranquility; `po phoa` gives actual ability. Nibbana remains visible in the exact adjacent citation as tradition-specific source material. |
-| Support and burden | `henoi sano` (knowing enough) replaced easily supported. `phelo` then used the English weight/metaphorical homonym for unburdened even though its entry is strictly about weight. | Easy support is support requiring little labor. Few cares and freedom from burden are stated as few obligations and no heavy obligations. `phelo` is absent. |
-| Beings and bodily states | The text claimed Phi had no word for being despite `limoe`, treated joy as an object of `phaelo`, and used fragile for feeble. | The refrain names every `limoe` directly; joy predicates with `nai`; feebleness is having little strength. Great and large remain distinct as `ru whalo` and `whalo`. |
-| Family round and social judgment | The family round became taking enough among homes, while reproof became silent perception by the wise. | The practitioner habitually walks among `lumani` and does not wish to take many things. Wise people may explicitly claim that a deed is harmful. The modal retains the possibility, and speech restores the social act in Fausböll's line. |
+| Skill, attainment, and ability | The seeker merely knew a path, attained no state, and was wished fitting rather than able. Three source claims had collapsed into a gentler Phi summary. | Skill is `thesani` in `welao sheraki`, the search for goodness. `ki noalu kelu` states completed attainment of tranquility, while `po phoa` gives actual ability. Nibbana remains visible in the exact adjacent citation as tradition-specific source material. |
+| Support and burden | `henoi sano` (knowing enough) replaced easily supported. `phelo` then used the English weight/metaphorical homonym for unburdened even though its entry is strictly about weight. | Easy support is support requiring little labor. Few cares narrow to obligations, while `whuo tupeka` says directly that the person is without a burden. `phelo` is absent. |
+| Beings and bodily states | The text claimed Phi had no word for being despite `limoe`, treated joy as an object of `phaelo`, and used fragile for feeble. | The refrain names every `limoe` directly; joy predicates with `nai`; base `huwa` names the feeble as weak. Great and large remain distinct as `ru whalo` and `whalo`. |
+| Family round and social judgment | The family round became taking enough among homes, while reproof became silent perception by the wise. | The practitioner habitually walks among `lumani` and does not want to take many things. Base `rinu` gives ordinary desire; unlike `pula`, it does not cast the desired outcome as a welcome one. Wise people may explicitly claim that a deed is harmful; the modal retains the possibility, and speech restores the social act in Fausböll's line. |
 | Deception, resentment, and enmity | The intransitive `peshu` was given a dative target, and anger, resentment, hatred, and enmity were all left as one undifferentiated heart-fire. | Deception is the instrument by which another is made mistaken. A long-time heart-fire distinguishes lingering resentment and enmity from the unqualified fire of anger and hatred. |
 | The mother and her child | The source's mother became a generic parent, the danger to her life became an instrument, and the child's ownness was absent. | `thowia phao` names the birth parent. The relative clause puts the parent's own life in danger and keeps `miso ta lopia`, their own one child; Phi's quantity rule carries "only" without `li`. |
 | Cultivation and direction | The source's repeated cultivation became giving or holding love, while "across" widened to an unspecified every place. | `sorila` now governs the loving heart throughout. Above, below, and across are `leo muila`, `phou muila`, and `roa muila`, each with an audible object. |
@@ -143,6 +143,20 @@ The ground truth is V. Fausböll's 1881 translation stored at `texts/sources/sut
 | Active dependencies | The old refrain and old not-yet-born composition remained in the manual, meditation chapter, compound registry, the born entry, and three particle pamphlets with a stale wish count. | The refrain now uses `limoe`, the registry follows `wea thowia shua` and the central loving-heart compositions, and the teaching prose records the current count of thirty-one wishes. |
 
 The English back-translation is deliberately literal. It lets a reader inspect the Phi without already knowing the language. Where the source still narrows in Phi, the notes name the loss: upright becomes honest, mean becomes harmful, and a womb is a birth parent's belly.
+
+### Post-migration contextual retrofit
+
+Four old detours have direct base vocabulary. The other compositions still fit Fausböll better than their apparent single-word alternatives.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| Seeking good | Replace `wea welao thalo` with `welao sheraki` | The old line walked toward goodness. `sheraki` names the search itself without claiming that goodness has been found, while optional `thesani` supplies the learned skill named by the source. |
+| Unburdened | Replace `whuo tumoa naseru` with `whuo tupeka` | `tupeka` is a burden borne by a living being. It suits this personal freedom better than a heavy obligation, and it remains distinct from technical load, workload, and physical weight. |
+| Greediness on the family round | Replace `pula` with `rinu` | `pula` presents an outcome the person would welcome. `rinu` is ordinary wanting, while `mena ... meno` holds the complete action of taking many things among the families. That action carries the excess present in this scene. |
+| Feeble and strong | Replace `phina puro phelu` with `huwa` | Direct `huwa` and `kema` give the source's weak-strong contrast. `welua` still means readily damaged, not weak in capacity. |
+| Upright, conscientious, and mean | Preserve `wero`, `thesa`, and `peloma` | `sharino` names conscience as an inward faculty, not conscientious conduct. `sherelo` names a normative right, not uprightness. `lerasu` would strengthen "mean" into cruelty. The existing words state honest, careful, and harmful, and the gap log keeps their limits visible. |
+| Womb and birth parent | Preserve `thowia phao mokura` | `mokura` makes the bodily location concrete without pretending that belly and womb are identical. Reproductive anatomy has its own recorded return conditions and should not be settled by one traditional source. |
+| Optional module vocabulary | Preserve `thesani` and `naseru` only | Base words would blur practical skill and obligation here. No other optional root improves the translation. |
 
 ## Paired review: UDHR Article 1
 

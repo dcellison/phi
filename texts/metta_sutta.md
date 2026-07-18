@@ -13,9 +13,9 @@
 ### Verse 1: The one seeking good
 
 ```
-[rena [wea welao thalo] thesani phelu] miona theula [rena phoa phelona] thena na phoa.
-[REL [TOWARD good walk] skill hold] person UNIV [REL do require] thing NEC do.
-(The person who has skill in walking toward goodness must do every thing that requires action.)
+[rena [welao sheraki] thesani phelu] miona theula [rena phoa phelona] thena na phoa.
+[REL [good search] skill hold] person UNIV [REL do require] thing NEC do.
+(The person who has skill in searching for goodness must do every thing that requires action.)
 fausboll: "1. Whatever is to be done by one who is skilful in seeking (what is) good,"
 
 shia ki noalu kelu.
@@ -44,7 +44,7 @@ OPT 3SG proud NEG be.
 fausboll: "not proud,"
 ```
 
-**Notes:** The opening separates three ideas. `wea welao thalo` means walking toward goodness and renders seeking good; `thesani` says the seeker has skill in that work; and `theula [rena phoa phelona] thena` names everything that genuinely requires action. `shia ki noalu kelu` makes attainment a completed change into tranquility. The tradition-specific name Nibbana remains in the source citation beside the Phi and does not enter Phi syntax. "Able" is the ability modal `po` on `phoa`, to act, while `wero` takes the truthfulness within "upright." It does not exhaust the source's wider moral sense.
+**Notes:** The opening keeps three ideas apart. `welao sheraki` makes goodness the object of a search; `thesani` gives the seeker skill in that work; and `theula [rena phoa phelona] thena` names everything that genuinely requires action. `shia ki noalu kelu` makes attainment a completed change into tranquility. The tradition-specific name Nibbana remains in the source citation beside the Phi and does not enter Phi syntax. "Able" is the ability modal `po` on `phoa`, to act, while `wero` takes the truthfulness within "upright." It does not exhaust the source's wider moral sense.
 
 ### Verse 2: Few burdens
 
@@ -54,9 +54,9 @@ OPT 3SG content be. OPT 3SG INS FEW labor PASS support.
 (May they be content. May they be supported with little labor.)
 fausboll: "2. And contented and easily supported"
 
-su shia phina naseru phelu. su shia whuo tumoa naseru nai.
-OPT 3SG FEW obligation hold. OPT 3SG WITHOUT heavy obligation be.
-(May they have few obligations. May they be without heavy obligations.)
+su shia phina naseru phelu. su shia whuo tupeka nai.
+OPT 3SG FEW obligation hold. OPT 3SG WITHOUT burden be.
+(May they have few obligations. May they be without burden.)
 fausboll: "and having few cares, unburdened"
 
 su shia lo morae shena nai. su shia phue nai.
@@ -69,13 +69,13 @@ OPT 3SG humble be.
 (May they be humble.)
 fausboll: "not arrogant,"
 
-su shia thoa lo lumani ro thalo. su shia thoa lo lumani [sheloi thena pilu] ma pula.
-OPT 3SG AMONG PL family HAB walk. OPT 3SG AMONG PL family [MANY thing take] NEG wish.
-(May they make their round among families. May they not wish to take many things there.)
+su shia thoa lo lumani ro thalo. su shia mena shia thoa lo lumani sheloi thena pilu meno ma rinu.
+OPT 3SG AMONG PL family HAB walk. OPT 3SG DECL.COMP 3SG AMONG PL family MANY thing take DECL.COMP.CLOSE NEG want.
+(May they make their round among families. May they not want to take many things among the families.)
 fausboll: "without (showing) greediness (when going his round) in families."
 ```
 
-**Notes:** "Easily supported" becomes support requiring little labor, not `henoi sano` (knowing enough). The source's few cares are `phina naseru`, few obligations, and its freedom from burden is stated separately as the absence of heavy obligations. `phelo` does not appear: it means light in weight, so using it here would depend on an English homonym. The following predicate forces the possessive reading of `shia lo morae`, just as `mia lohau welao nai` means "my dog is good." The last pair restores both the alms round and greediness. Here greed is opened into its action: wishing to take many things among the families.
+**Notes:** "Easily supported" becomes support requiring little labor, not `henoi sano` (knowing enough). The source's few cares are `phina naseru`, few obligations; `whuo tupeka` then says that the person bears no burden. `phelo` does not appear: it means light in weight, so using it here would depend on an English homonym. The following predicate forces the possessive reading of `shia lo morae`, just as `mia lohau welao nai` means "my dog is good." The last pair restores both the alms round and greediness. The `mena ... meno` frame holds the wanted action: taking many things among the families.
 
 ### Verse 3: The wish for every creature
 
@@ -111,9 +111,9 @@ UNIV alive creature.
 (Every living creature.)
 fausboll: "4. Whatever living beings there are,"
 
-[rena phina puro phelu] sola [rena kema nai].
-[REL FEW strength hold] DISJ [REL strong be].
-(Those who have little strength or those who are strong.)
+[rena huwa nai] sola [rena kema nai].
+[REL weak be] DISJ [REL strong be].
+(Those who are weak or those who are strong.)
 fausboll: "either feeble or strong,"
 
 [rena laeno nai] sola [rena ru whalo nai].
@@ -132,7 +132,7 @@ fausboll: "middle-sized, short,"
 fausboll: "small or large,"
 ```
 
-**Notes:** `welua` means fragile, not feeble, so feebleness is composed as having little strength. Fausböll then uses both "great" and "large." Phi distinguishes them by degree: `ru whalo`, very large, carries the first and plain `whalo` the second. The neutral noun lets `kesho ponalu` say middle size without calling the creature large.
+**Notes:** Fausböll's first pair is `huwa`, weak, and `kema`, strong; `welua` would mean easily damaged rather than feeble. He then uses both "great" and "large." Phi distinguishes them by degree: `ru whalo`, very large, carries the first and plain `whalo` the second. The neutral noun lets `kesho ponalu` say middle size without calling the creature large.
 
 ### Verse 5: Seen and unseen
 
@@ -272,22 +272,22 @@ fausboll: "after subduing greediness for sensual pleasures, will never again go 
 ```
 lothea thole
 
-[rena [wea welao thalo] thesani phelu] miona theula [rena phoa phelona] thena na phoa.
+[rena [welao sheraki] thesani phelu] miona theula [rena phoa phelona] thena na phoa.
 shia ki noalu kelu.
 su shia po phoa. su shia wero nai. su shia thesa nai.
 su shia moli haolu. su shia moli nai. su shia thoru ma nai.
 
 su shia nuloe nai. su shia roe phina riola se panoru.
-su shia phina naseru phelu. su shia whuo tumoa naseru nai.
+su shia phina naseru phelu. su shia whuo tupeka nai.
 su shia lo morae shena nai. su shia phue nai. su shia motu nai.
-su shia thoa lo lumani ro thalo. su shia thoa lo lumani [sheloi thena pilu] ma pula.
+su shia thoa lo lumani ro thalo. su shia mena shia thoa lo lumani sheloi thena pilu meno ma rinu.
 
 su shia [rena lo phue miona mena ha thena peloma nai meno po sherewa] thena ma phoa.
 su theula limoe siora nai. su theula limoe shurano nai.
 su theula limoe siora korua phelu.
 
 theula lima limoe.
-[rena phina puro phelu] sola [rena kema nai].
+[rena huwa nai] sola [rena kema nai].
 [rena laeno nai] sola [rena ru whalo nai].
 [rena kesho ponalu phelu] sola [rena teku nai].
 [rena thiku nai] sola [rena whalo nai].
@@ -326,14 +326,12 @@ The gap log records each place where Phi composes or narrows Fausböll's wording
 
 | Source detail | Phi | What changes |
 |---|---|---|
-| seeking good | `wea welao thalo` | Phi walks toward goodness in search of it. |
 | attaining Nibbana's tranquil state | `ki noalu kelu` | `ki` describes attainment as a completed change into tranquility; Nibbana remains in the adjacent citation. |
 | upright | `wero` | Honesty covers the truthfulness in upright conduct, but not its whole moral range. |
 | easily supported | `roe phina riola se panoru` | The support requires little labor. |
-| few cares, unburdened | `phina naseru phelu` and `whuo tumoa naseru nai` | The cares are obligations, and the burden is a heavy obligation. |
-| greediness on the family round | `thoa lo lumani ro thalo` and `sheloi thena pilu ma pula` | The round among families and the wish to take many things are stated separately. |
+| few cares | `phina naseru phelu` | The cares narrow to obligations; `whuo tupeka` states "unburdened" directly. |
+| greediness on the family round | `thoa lo lumani ro thalo` and `mena shia thoa lo lumani sheloi thena pilu meno ma rinu` | The round among families and the desire to take many things are stated separately. |
 | mean; reprove | a harmful deed that wise people might `sherewa` | Harm narrows "mean"; a possible claim restores the social act of reproof. |
-| feeble | `phina puro phelu` | Feebleness is having little strength. |
 | great; large | `ru whalo`; `whalo` | Intensity distinguishes the two sizes. |
 | seeking birth | `wea thowia shua` | The not-yet-born come toward birth without being assigned an intention. |
 | deceive another | `roe peshu shia phelira ka nai` | Deliberate deception causes the other person to be mistaken. |
