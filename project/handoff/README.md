@@ -20,15 +20,15 @@ Do not use `archive/` as current evidence. It preserves history, including appro
 
 ## Where the work stopped
 
-SEM-09B and SEM-09C are complete. D045 through D052 migrated all eight module learning paths, and all 1,275 lexicon entries are target-shaped. There are no legacy, partial, or dual entries. SEM-09D is in progress: its first literary pass preserved both Schleicher renderings and prompted D053's animal-range repair; its second replaced three old detours in both *The North Wind and the Sun* renderings; its third brought four later base roots into the Metta Sutta; its fourth preserved both UDHR Article 1 renderings; its fifth repaired physical joining, the tower's top, renown, imagined action, and punitive scattering in Babel. The sixth restores reverence, perception, change, and verse in the Heart Sutra. The seventh gives *The Prophet, On Children* the distinct words for offspring, Life, and attempted conformity while keeping its descriptive archery and its tree, seed, and wind transmutation.
+SEM-09B and SEM-09C are complete. D045 through D052 migrated all eight module learning paths, and all 1,275 lexicon entries are target-shaped. There are no legacy, partial, or dual entries. SEM-09D is in progress: its first literary pass preserved both Schleicher renderings and prompted D053's animal-range repair; its second replaced three old detours in both *The North Wind and the Sun* renderings; its third brought four later base roots into the Metta Sutta; its fourth preserved both UDHR Article 1 renderings; its fifth repaired physical joining, the tower's top, renown, imagined action, and punitive scattering in Babel. The sixth restores reverence, perception, change, and verse in the Heart Sutra. The seventh gives *The Prophet, On Children* the distinct words for offspring, Life, and attempted conformity. The eighth brings governance, functional components, direct difficulty, withering, and life into the Tao Te Ching selections while keeping the transmutation's refusals visible.
 
 The execution order is fixed in the roadmap:
 
-1. Continue the text shelf one work at a time, with the Tao Te Ching selections next.
-2. Sweep the remaining active Phi passages for old workarounds that the completed vocabulary can improve.
+1. Sweep active Phi passages in the book from the cold open forward.
+2. Continue the active-passage sweep through the manual, primer, pamphlets, and current documents.
 3. Return to the Phi book with chapter 7, "A literature before a community."
 
-The immediate task is the next SEM-09D literary pass, the Tao Te Ching selections, described in [`current_state.md`](current_state.md). Inspect both renderings, their source, notes, comparison, and every dependency against the completed base and module vocabulary. Change a Phi passage only when current vocabulary makes it more faithful or natural. A transparent composition is not obsolete merely because a direct word now exists.
+The immediate task is the next SEM-09D corpus pass. Start at [`book/00_the_boatman.md`](../../book/00_the_boatman.md), then follow the book's file order as described in [`current_state.md`](current_state.md). Inspect every Phi passage, its surrounding argument, and its dependencies against the completed base and module vocabulary. Change a passage only when current vocabulary makes it more faithful or natural. A transparent composition is not obsolete merely because a direct word now exists.
 
 ## The maintainer's working contract
 
