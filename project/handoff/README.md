@@ -20,15 +20,16 @@ Do not use `archive/` as current evidence. It preserves history, including appro
 
 ## Where the work stopped
 
-SEM-09B and SEM-09C are complete. D045 through D052 migrated all eight module learning paths, and all 1,275 lexicon entries are target-shaped. There are no legacy, partial, or dual entries. SEM-09D is in progress: its first literary pass preserved both Schleicher renderings and prompted D053's animal-range repair; its second replaced three old detours in both *The North Wind and the Sun* renderings; its third brought four later base roots into the Metta Sutta; its fourth preserved both UDHR Article 1 renderings; its fifth repaired physical joining, the tower's top, renown, imagined action, and punitive scattering in Babel. The sixth restores reverence, perception, change, and verse in the Heart Sutra. The seventh gives *The Prophet, On Children* the distinct words for offspring, Life, and attempted conformity. The eighth brings governance, functional components, direct difficulty, withering, and life into the Tao Te Ching selections while keeping the transmutation's refusals visible.
+SEM-09B and SEM-09C are complete. D045 through D052 migrated all eight module learning paths, and all 1,275 lexicon entries are target-shaped. There are no legacy, partial, or dual entries. SEM-09D is in progress: its first literary pass preserved both Schleicher renderings and prompted D053's animal-range repair; its second replaced three old detours in both *The North Wind and the Sun* renderings; its third brought four later base roots into the Metta Sutta; its fourth preserved both UDHR Article 1 renderings; its fifth repaired physical joining, the tower's top, renown, imagined action, and punitive scattering in Babel. The sixth restores reverence, perception, change, and verse in the Heart Sutra. The seventh gives *The Prophet, On Children* distinct words for offspring, Life, and attempted conformity. The eighth brings governance, functional components, direct difficulty, withering, and life into the Tao Te Ching selections while keeping the transmutation's refusals visible. The ninth brings the full Solarpunk Manifesto under the completed lexicon, with 33 optional roots across all eight modules and exact source boundaries around its named politics and culture.
 
 The execution order is fixed in the roadmap:
 
-1. Sweep active Phi passages in the book from the cold open forward.
-2. Continue the active-passage sweep through the manual, primer, pamphlets, and current documents.
-3. Return to the Phi book with chapter 7, "A literature before a community."
+1. Complete *The Little Prince* excerpts, the Ring Verse refusal, *The Velveteen Rabbit*, and *News from Nowhere* chapters 1-3, in that order.
+2. Sweep active Phi passages in the book from the cold open forward.
+3. Continue the active-passage sweep through the manual, primer, pamphlets, and current documents.
+4. Return to the Phi book with chapter 7, "A literature before a community."
 
-The immediate task is the next SEM-09D corpus pass. Start at [`book/00_the_boatman.md`](../../book/00_the_boatman.md), then follow the book's file order as described in [`current_state.md`](current_state.md). Inspect every Phi passage, its surrounding argument, and its dependencies against the completed base and module vocabulary. Change a passage only when current vocabulary makes it more faithful or natural. A transparent composition is not obsolete merely because a direct word now exists.
+The immediate task is the next SEM-09D literary pass in [`texts/little_prince_excerpts.md`](../../texts/little_prince_excerpts.md). Read each Katherine Woods source excerpt beside the transmutation, inspect every Phi phrase against the completed base and module vocabulary, and preserve the declared transmutation method. The Ring Verse refusal and *The Velveteen Rabbit* follow; *News from Nowhere* chapters 1-3 remain last. Change a passage only when current vocabulary makes it more faithful or natural. A transparent composition is not obsolete merely because a direct word now exists.
 
 ## The maintainer's working contract
 
