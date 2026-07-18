@@ -1,6 +1,6 @@
 # Accessibility and Participation
 
-**Status:** **Established vocabulary module** with 30 roots coined here, 45 current memberships, and shared-core `sowelu` disabled.
+**Status:** **Established vocabulary module** with 30 roots coined here, 46 current memberships, and shared-core `sowelu` disabled.
 
 ## Charter
 
@@ -45,7 +45,7 @@ The profile uses these ordinary Phi resources without moving them into the modul
 | [Work, Craft, and Repair](work_craft_and_repair.md) | `thimora` schedule, `lumethi` deadline, `noporu` design, `kisholu` specification, `somaki` test, `ritako` workload | A design or schedule can be exact and still fail a person in use. |
 | [Systems and Shared Infrastructure](systems_and_shared_infrastructure.md) | `nowiso` interface, `koluri` reliable, `wepanu` redundant, `henora` capacity, `kiphira` fault | Technical performance and access answer different questions about the same tool or service. |
 | [Medical and Bodily Care](medical_and_bodily_care.md) | `phamori` symptom, `hisaro` clinical finding, `mokanu` disease, `kithero` diagnose, `nephoru` treat, `helanu` recover | Medical words remain available when health is the subject; no medical claim is the price of asking for access. |
-| [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | `phaluwe` flood, `hisophi` contaminant, `pekira` toxic, `perawi` expose, `somethi` monitor | Environmental conditions can create barriers, while an access report alone does not establish their ecological cause. |
+| [Ecological Systems and Material Life](ecological_systems_and_material_life.md) | `phaluwe` flood, `hisophi` contaminant, `pekira` toxic, `perawi` expose, `somethi` monitor, `keruma` illumination | Environmental conditions can create barriers, while an access report alone does not establish their ecological cause. Illumination identifies received light; usable visibility remains a person-and-activity relation. |
 | [Philosophical Reasoning](philosophical_reasoning.md) | definitions, inference, uncertainty, tradeoffs, and compromise | Access claims can be examined without turning a negotiated compromise into a universal solution. |
 
 ## First vocabulary pass
@@ -97,7 +97,7 @@ The dialogues remain before-state regression texts. Their compositions are still
 
 Keep a person's chosen identity wording, the name of a language or communication system, a legal category, an access plan, a technical standard, a device model, a source instruction, and an exact measurement outside the Phi passage when source form matters. Phi can point to the artifact, explain it, and name the access relation around it.
 
-The module words carry no professional credential or compliance result. `Thekasi` says caption; a source standard says which captions satisfy that standard. `Hinawu` says accommodate; a law or policy supplies its own test. `Sowelu` says disabled; the person supplies the identity they mean.
+The module words carry no professional credential or compliance result. `thekasi` says caption; a source standard says which captions satisfy that standard. `hinawu` says accommodate; a law or policy supplies its own test. `sowelu` says disabled; the person supplies the identity they mean.
 
 ## Continued development
 

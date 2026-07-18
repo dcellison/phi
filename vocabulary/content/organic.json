@@ -8,17 +8,28 @@
     "mu"
   ],
   "pos": "adjective",
-  "concept": "Organic / Living-Formed / Growth-Shaped",
-  "description": "Relating to or derived from living matter; having the characteristics of living organisms. 'Shaemu' names the quality of life-shaped form—curves that grow rather than are constructed, patterns that emerge rather than are imposed.",
-  "sound_symbolism": "The word grows like living things. 'Sha' /ʃa/ begins with spreading growth, life extending. The vowel hiatus 'a.e' opens to becoming, the organic process. Then 'mu' grounds in earth, where organic life roots.",
-  "grammatical_notes": "Functions as an adjective: 'shaemu lowi' (organic vine). Related to 'woeli' (natural) but emphasizes life-process and growth-form rather than nature generally.",
+  "search_terms": [
+    "living-derived",
+    "growth-formed",
+    "organic form"
+  ],
+  "description": "'shaemu' describes matter derived from living processes or form shaped like living growth. Wood is organic material, and a curling design may have organic form. 'woeli' (natural) is broader; exact chemical, agricultural, and certification senses of organic retain the source definition that establishes them.",
+  "articulatory_notes": "Raise the tongue near the postalveolar region for unvoiced 'sh', pass air through the narrow channel, and open into central 'a'. Keep the following true-mid front 'e' separate in hiatus and stress it. Close the lips for 'm', carry voicing through the nose, and finish on high-back rounded 'u'.",
+  "sound_symbolism": "The long opening from 'sha' into stressed hiatus 'e' lets the word unfurl before final 'mu' gathers it at the lips. That widening curve gives 'shaemu' a fitting contour for growth-shaped matter and design.",
+  "usage_notes": "The adjective may describe material origin or growth-like form, with context distinguishing the two. Exact organic-chemistry classes, product standards, agricultural certifications, and source labels remain outside the Phi passage.",
+  "examples": [
+    {
+      "phi": "ha wolea shaemu muralo nai.",
+      "translation": "This wood is organic material."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Organic agriculture and organic design both work with living processes rather than against them.",
-    "art-nouveau-aesthetics": "Organic form was Art Nouveau's signature—designs that grew like plants, structures that curved like living things."
+    "solarpunk-values": "The word keeps living-derived materials and growth-shaped design available to ecological discussion. An organic label alone proves nothing about the practice behind it.",
+    "art-nouveau-aesthetics": "Art Nouveau often lets lines branch, curl, and continue like stems or tendrils; 'shaemu' names that growth-shaped quality directly."
   },
   "semantic_domains": {
-    "aesthetic": "Growth-shaped form",
-    "nature": "Life-derived quality"
+    "aesthetic": "form whose curves or pattern resemble living growth",
+    "nature": "matter derived from living processes"
   },
   "modules": [
     "ecological-systems-and-material-life"

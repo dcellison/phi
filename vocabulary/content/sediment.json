@@ -8,12 +8,22 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Sediment / Transported or Deposited Particulate Material",
-  "description": "Particles that have been transported or deposited, the residue of an erosion process rather than the process itself. Sediment is not soil in general, and its presence does not by itself mean pollution.",
-  "sound_symbolism": "Deep 'mu' starts with matter enclosed behind the lips. Stressed 'na' brings the contact forward to the teeth and opens onto broad 'a', like particles spreading as motion slows. 'Ri' gives the tongue one last small turn before bright 'i'. The heavier beginning settles, but a trace of the journey remains in the final movement.",
-  "grammatical_notes": "A mass or countable noun: 'ha wiralu munari kolua.' (The runoff carries sediment.) Exact grain size, chemistry, mass, and sample identity remain in a separate source record. Distinct from 'muila' (earth or soil), 'muhena' (dust), 'kirua' (sand), and the process 'wheraku' (erode).",
+  "search_terms": [
+    "deposited particles",
+    "transported particles"
+  ],
+  "description": "'munari' is loose particulate material moved or deposited by water, wind, ice, or gravity. Other processes can move it as well. Sediment may contain mineral, organic, or mixed matter. 'muila' names earth in general; erosion needs evidence of detachment and movement, while pollution needs evidence of impairment.",
+  "articulatory_notes": "Close the lips for 'm' and continue the voiced nasal into high-back rounded 'u'. Place the tongue tip against the upper teeth for dental 'n' and open into stressed central 'a'. Tap or briefly trill the tongue tip, then finish on high-front 'i'.",
+  "sound_symbolism": "The rounded enclosure of 'mu' opens broadly through stressed dental 'na', and final 'ri' leaves one small turn of the tongue. The heavier beginning seems to settle while the ending keeps a trace of movement.",
+  "usage_notes": "'munari' has both count and mass uses. Grain size, composition, and amount stay in their source records when precision matters. Sample identity and method remain there too. 'wheraku' names erosion; 'muila', 'muhena', and 'kirua' name earth, dust, and sand.",
+  "examples": [
+    {
+      "phi": "ha wiralu munari kolua.",
+      "translation": "The runoff carries sediment."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Sediment can be discussed as habitat material, transported matter, or a burden without assigning it one universal value.",
+    "solarpunk-values": "Sediment may be habitat material, transported matter, or a burden. Its place and effect decide which account fits.",
     "pre-industrial-wisdom": "River color, deposited silt, shifting banks, and settled particles have long been practical signs of land and water change."
   },
   "semantic_domains": {

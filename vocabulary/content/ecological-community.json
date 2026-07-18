@@ -8,12 +8,22 @@
     "so"
   ],
   "pos": "noun",
-  "concept": "Ecological Community / Co-Occurring Populations in Relation",
-  "description": "Co-occurring populations considered in relation to each other. An ecological community holds predation and disease as readily as mutual support, and plenty of its organisms never directly meet; it is a different thing from 'sila', the human community.",
-  "sound_symbolism": "Liquid 'li' begins lightly and bright. The stress glides through 'we', rounds at the lips, and opens into balanced 'e'. Hissing 'so' supplies another voice and settles it into round 'o'; liquid, glide, and hiss share one contour while each keeps its own place.",
-  "grammatical_notes": "A countable noun: 'ha liweso lo liloni lorea.' (This ecological community connects populations.) State the selected place, time, populations, and relation where ambiguity matters. Distinct from 'sila' (human community), 'phaliso' (network), 'litero' (ecosystem), and a simple list of species.",
+  "search_terms": [
+    "biotic community",
+    "ecological assemblage"
+  ],
+  "description": "A 'liweso' is several populations considered together through their ecological relations in a selected place and time. Feeding and shelter may belong to the account. Disease, competition, and mutual support can enter it too; a list of species does not yet show the relations. 'sila' remains the human-scale community word.",
+  "articulatory_notes": "Begin with alveolar lateral 'l' and high-front 'i'. Round the lips and raise the back of the tongue for 'w', then glide into stressed true-mid front 'e'. Form a narrow groove along the tongue for unvoiced 's' and finish with rounded mid-back 'o'.",
+  "sound_symbolism": "The word changes its manner at every syllable: lateral flow, a rounded glide, then a narrow hiss. Those distinct movements share one smooth contour, which can recall different populations encountered within one ecological account.",
+  "usage_notes": "'liweso' is countable. The place, period, selected populations, and relevant relations set its scope. An ecosystem adds the surroundings to those living relations, while a human community remains 'sila'.",
+  "examples": [
+    {
+      "phi": "ha liweso lo liloni lorea.",
+      "translation": "This ecological community connects populations."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "The word makes multispecies consequences available to community decisions without assuming that ecological relations are peaceful or self-balancing.",
+    "solarpunk-values": "The word brings multispecies consequences into community decisions while leaving the actual relations open to evidence. An ecological community is neither necessarily peaceful nor self-balancing.",
     "art-nouveau-aesthetics": "Different living forms are understood through their patterned coexistence, while aesthetic interweaving remains distinct from ecological function."
   },
   "semantic_domains": {

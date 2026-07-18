@@ -4,7 +4,7 @@ The pump that fills the cistern draws power from the same line as the mill, and 
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an engineer and grants no authority over the systems they describe.
 
-Thirty-three roots were coined for this module. Shared classifications bring the optional learning list to 47 words; base `phelure` store is taught alongside it. The complete machine-generated list is available under [Systems and Shared Infrastructure in the module lexicon](../lexicon/by_module.md#systems-and-shared-infrastructure). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+Thirty-three roots were coined for this module. Shared classifications bring the optional learning list to 50 words; base `phelure` store is taught alongside it. The complete machine-generated list is available under [Systems and Shared Infrastructure in the module lexicon](../lexicon/by_module.md#systems-and-shared-infrastructure). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -40,6 +40,9 @@ Several words reach Systems from another learning path or from older base-vocabu
 | `samethu` | equivalent; matching by a selected meaning, function, or effect | Different components or formats may match for one purpose and differ for another. |
 | `sanowu` | predictable; reasonably anticipated from prior information | Predictability helps preparation without becoming certainty or reliability. |
 | `hoshemi` | hypothesis; proposed explanation or relation under examination | Systems inquiry needs an account that can be tested without being mistaken for a finding. |
+| `sumeri` | temperature; neutral thermal condition | A controller or record can identify temperature before judging it hot or cold; exact readings stay with their source. |
+| `wimura` | humidity; water vapour in air | Environmental systems can follow atmospheric moisture without turning a damp feeling into a technical value. |
+| `keruma` | illumination; light received at a place or surface | Received light can be compared with a requirement while source brightness and exact readings keep their own roles. |
 
 ## Storage belongs to base vocabulary
 

@@ -1,6 +1,6 @@
 # Systems and Shared Infrastructure
 
-**Status:** **Established vocabulary module** with 33 module roots coined here, 47 current memberships, and base-vocabulary `phelure` store; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 33 module roots coined here, 50 current memberships, and base-vocabulary `phelure` store; ordinary Phi grammar.
 
 ## Charter
 
@@ -67,7 +67,7 @@ The target-prose review migrates every inherited Systems entry and returns to th
 | Whole-level change | `harusi` emergence | A pattern at the level of a whole that arises through component interactions; novelty or surprise alone falls short. |
 | Anticipatory control | `naropu` feedforward | Control that acts from an observed or expected input before output returns, distinct from feedback and prediction alone. |
 
-`harusi` and `hosari` also join Philosophical Reasoning and Ecological Systems and Material Life; `hosari` and `wuneri` join Medical and Bodily Care where observations are compared without collapsing a variable into its value. Electrical terms enter every established learning path that genuinely needs them. Membership changes where a learner encounters a word, not what the word means.
+`harusi` and `hosari` also join Philosophical Reasoning and Ecological Systems and Material Life; `hosari` and `wuneri` join Medical and Bodily Care where observations are compared without collapsing a variable into its value. The Ecological completeness pass adds `sumeri` temperature, `wimura` humidity, and `keruma` illumination to Systems as environmental parameters. Electrical terms enter every established learning path that genuinely needs them. Membership changes where a learner encounters a word, not what the word means.
 
 ## Concepts Kept Compositional
 

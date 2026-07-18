@@ -8,17 +8,27 @@
     "ku"
   ],
   "pos": "verb",
-  "concept": "Erode / Detach and Transport Earth or Rock",
-  "description": "To detach and carry away earth or rock, through water, wind, or another force. Erosion is the detaching and the carrying; the particles it leaves behind are 'munari', a separate and equally namable thing.",
-  "sound_symbolism": "Rounded, unvoiced 'whe' brushes a surface with moving air. Stressed 'ra' rolls that contact along open 'a', a grain beginning to travel. 'Ku' catches at the soft palate and releases into deep 'u'. The last stop is the moment of detachment after the longer breath and roll have loosened the ground.",
-  "grammatical_notes": "A transitive verb with the moving agent as subject and affected material or place as object: 'phialu ha muila wheraku.' (Water erodes the soil.) The event-noun rule supplies erosion. Distinct from 'muholi' (dig), 'pukate' (break), weathering in place, and 'munari' (sediment).",
+  "search_terms": [
+    "erosion",
+    "wear away earth"
+  ],
+  "description": "Water, wind, ice, or gravity 'wheraku' earth or rock when they detach and move it. Roots and human activity can do the same. Weathering may loosen material without carrying it away, and 'munari' names sediment once the particles themselves are under discussion.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for unvoiced 'wh', then carry the breath into true-mid front 'e'. Tap or briefly trill the tongue tip before stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-back rounded 'u'.",
+  "sound_symbolism": "Breathy 'whe' brushes into the rolling motion of stressed 'ra', then final 'ku' catches and releases at the soft palate. The sequence feels like a surface loosened, shifted, and finally detached.",
+  "usage_notes": "The moving agent takes subject position, with the affected earth, rock, or place as direct object. The event-noun reading is erosion. Rate and scale describe the movement; source, destination, and any judgement of harm complete the particular account.",
+  "examples": [
+    {
+      "phi": "phialu ha muila wheraku.",
+      "translation": "Water erodes the soil."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Erosion vocabulary supports discussion of land use and restoration without treating every movement of soil as damage or every intervention as repair.",
-    "pre-industrial-wisdom": "Embodied land practice observes how water, wind, roots, paths, and cultivation move earth across seasons."
+    "solarpunk-values": "Erosion vocabulary separates the movement of soil from its judgement. Whether that movement is damage, or an intervention is repair, depends on its place and consequences.",
+    "pre-industrial-wisdom": "Embodied land practice observes how water, wind, and roots move earth across seasons. Paths and cultivation leave their own traces."
   },
   "semantic_domains": {
     "activity": "detachment and movement of earth or rock",
-    "nature": "a geomorphic process driven by water, wind, ice, gravity, organisms, or people",
+    "nature": "a land-forming process in which living or nonliving agents detach and move earth",
     "physical": "transport of soil, sediment, or rock from a surface"
   },
   "modules": [

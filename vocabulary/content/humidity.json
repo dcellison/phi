@@ -1,0 +1,36 @@
+{
+  "word": "wimura",
+  "gloss": "humidity",
+  "ipa": "/wi.ˈmu.rä/",
+  "syllables": [
+    "wi",
+    "mu",
+    "ra"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "air moisture",
+    "atmospheric moisture"
+  ],
+  "description": "'wimura' is the amount or condition of water vapour in air. A room, forest, or weather record may have high or low humidity even when no surface is wet. 'wirua' describes wet material or moisture-laden air as a felt quality; 'wimura' selects the atmospheric parameter for comparison or monitoring.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then glide into high-front 'i'. Close the lips for 'm' and carry voicing through the nose into stressed high-back rounded 'u'. Make a tap or short trill with the tongue tip and open into central 'a'.",
+  "sound_symbolism": "Rounded 'wi' and stressed 'mu' keep the mouth gathered before final 'ra' opens broadly. The small-to-wide movement can recall moisture dispersing through air, while the opening also gives a distant echo of 'wirua' (wet).",
+  "usage_notes": "A source record identifies the technical measure behind 'wimura': relative humidity, absolute humidity, or dew point. It also carries the value and method. The Phi noun selects the atmospheric parameter being compared or monitored.",
+  "examples": [
+    {
+      "phi": "ha wimura si thuroa.",
+      "translation": "The humidity is increasing."
+    }
+  ],
+  "pillars": {
+    "solarpunk-values": "Humidity links weather and habitat to the design of buildings and cultivation. Energy use and comfort become separate consequences in that account."
+  },
+  "semantic_domains": {
+    "nature": "water vapour considered as a condition of weather, climate, or habitat",
+    "physical": "an atmospheric parameter whose exact measure depends on a stated method and reference"
+  },
+  "modules": [
+    "ecological-systems-and-material-life",
+    "systems-and-shared-infrastructure"
+  ]
+}

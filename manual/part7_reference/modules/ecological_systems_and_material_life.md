@@ -4,7 +4,7 @@ Dye runs from a workshop into a stream, and a fish downstream carries it in its 
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them does not make anyone a scientist, a landholder, or an authority on what should be done.
 
-The chapter table below introduces 27 module roots. Current classifications bring the optional learning list to 52 words; base weather, material, and resource are taught alongside it. The complete machine-generated list is available under [Ecological Systems and Material Life in the module lexicon](../lexicon/by_module.md#ecological-systems-and-material-life). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 30 module roots. Current classifications bring the optional learning list to 55 words; base weather, material, and resource are taught alongside it. The complete machine-generated list is available under [Ecological Systems and Material Life in the module lexicon](../lexicon/by_module.md#ecological-systems-and-material-life). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -48,7 +48,7 @@ None of these three entries has a `modules` field. Weather decides whether a tri
 | `menuro` | noun | habitat; place and conditions supporting an organism | Habitat is a place plus its supporting conditions, and a season can change which is which. |
 | `likori` | noun | species; source-defined biological kind | The word takes no side on which species concept is correct; the exact taxonomic name stays exact. |
 | `liloni` | noun | population; organisms of one kind in a place and time | A population is one species in one place and time, narrower than the species itself. |
-| `liweso` | noun | ecological community; co-occurring populations in relation | An ecological community can hold predation and disease as easily as mutual support; it is not `sila`. |
+| `liweso` | noun | ecological community; co-occurring populations in relation | Feeding, disease, competition, and mutual support can all belong to an ecological community; it is not `sila`. |
 | `philima` | noun | biodiversity; living variation within a selected scope | Biodiversity always names a scope: richness, abundance, and genetic variation are not interchangeable measures. |
 | `luphano` | noun | watershed; land draining toward a shared outlet | A watershed follows drainage, not a political line on a map. |
 | `wiralu` | noun | runoff; water flowing across land or built surface | Runoff is water in motion across a surface, and it carries no verdict about pollution on its own. |
@@ -58,7 +58,7 @@ None of these three entries has a `modules` field. Weather decides whether a tri
 | `phaluwe` | verb | flood; water cover or overflow beyond usual bounds | A flood is water beyond its usual bounds; whether it is a disaster is a further claim. |
 | `kuramo` | noun | drought; prolonged water deficit | Drought is a prolonged deficit, not merely a dry day or a naturally arid place. |
 | `pesenu` | verb | pollute; cause environmental impairment through an agent | Pollution claims actual impairment, stronger than an agent's mere presence. |
-| `hisophi` | noun | contaminant; agent outside a stated expected condition | A contaminant is simply outside the expected condition; harm is 'pesenu''s stronger claim. |
+| `hisophi` | noun | contaminant; agent outside a stated expected condition | A contaminant is simply outside the expected condition; `pesenu` makes the stronger claim of actual impairment. |
 | `pekira` | adjective | toxic; capable of biological harm under exposure | Toxic is a capability under exposure, not proof that harm actually occurred. |
 | `nomiki` | noun | concentration; amount of an agent per stated medium | Concentration is always a ratio against a named medium, never a bare total. |
 | `perawi` | verb | expose; come into relevant contact with an agent | Exposure is contact; contact alone supplies neither dose nor harm. |
@@ -71,8 +71,25 @@ None of these three entries has a `modules` field. Weather decides whether a tri
 | `herani` | noun | trend; direction or pattern across ordered observations | A trend describes a pattern already observed; it guarantees nothing about what comes next. |
 | `reteru` | noun | model; purpose-bounded representation of a system | A model represents a system for a purpose; it is never the system itself. |
 | `somethi` | verb | monitor; repeatedly observe and record for change or decision | Monitoring is repeated watching for a stated purpose, and it authorizes no watching of people. |
+| `sumeri` | noun | temperature; neutral thermal condition | Temperature identifies what can be compared or monitored; hot, warm, cool, and cold are judgements along that field. |
+| `wimura` | noun | humidity; water vapour in air | Humidity selects an atmospheric parameter; `wirua` can still describe damp air as it feels. |
+| `keruma` | noun | illumination; light received at a place or surface | Illumination concerns received light; brightness and radiance describe the source or visible result. |
 
 The verbs in this table receive their event or result nouns through Phi's ordinary event-noun rule: `wheraku` can name erosion, `phaluwe` a flood, `pesenu` pollution, `perawi` exposure, `morume` decomposition, `tukelu` recycling, and `somethi` monitoring. The adjective `pekira` likewise names toxicity through the quality-noun rule; its entry remains adjective-only as required by the lexicon schema.
+
+## Temperature, humidity, and illumination
+
+Hot weather, damp air, and a bright clearing are ordinary experiences, and Phi already describes them. Monitoring asks a different question. It needs to identify the condition that may vary before any speaker decides that the present temperature is hot, the humidity uncomfortable, or the illumination sufficient.
+
+`sumeri` names temperature as that neutral thermal condition. `wimura` selects water vapour in air, while `wirua` remains available for wet matter or air that feels damp. `keruma` follows light received at a place or surface; `keru` brightness, `pholuo` luminosity, and `horae` radiance describe neighbouring visible qualities.
+
+```
+lo mia ha sumeri nela ha wimura nela ha keruma somethi.
+PL 1SG PROX temperature COORD PROX humidity COORD PROX illumination monitor.
+(We monitor this temperature, this humidity, and this illumination.)
+```
+
+The three nouns tell a listener what is being followed. A source record still carries the exact measurement and how it was taken. Its scale, unit, instrument, and time stay together. A number may sit very neatly in its column and remain quite unable to explain what the habitat needs.
 
 ## Ecosystems and ecological boundaries
 
@@ -110,7 +127,7 @@ PROX population LOC PROX habitat grow.
 (This population grows in the habitat.)
 ```
 
-`liweso` keeps the human-scale `sila` from quietly becoming a scientific category. An ecological community holds predation and disease as readily as it holds mutual support, and plenty of its organisms never meet at all.
+`liweso` keeps the human-scale `sila` from quietly becoming a scientific category. An ecological community can include feeding, disease, competition, and mutual support, and plenty of its organisms never meet at all.
 
 ```
 ha liweso lo liloni lorea.

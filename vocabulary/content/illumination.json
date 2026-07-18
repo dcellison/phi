@@ -1,0 +1,38 @@
+{
+  "word": "keruma",
+  "gloss": "illumination",
+  "ipa": "/ke̞.ˈru.mä/",
+  "syllables": [
+    "ke",
+    "ru",
+    "ma"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "light level",
+    "incident light"
+  ],
+  "description": "'keruma' is the amount and distribution of light reaching a place, surface, or living being. It selects illumination as a condition that can be compared or monitored. 'keru' reports brightness; 'pholuo' and 'horae' describe ways a source shines. 'keruma' instead identifies received light.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into true-mid front 'e'. Make a tap or short trill for 'r' and hold stressed high-back rounded 'u'. Close the lips for 'm', let voicing pass through the nose, and open into central 'a'.",
+  "sound_symbolism": "The full opening 'keru' echoes the Phi word for bright before final 'ma' closes the lips and opens again. That brief enclosure can make the light feel as if it has found a surface on which to arrive.",
+  "usage_notes": "The noun covers received light in an ecological, access, or technical account. Radiometric and photometric measures keep their source terminology, exact values, and instrument records. Useful visibility, plant response, safety, and comfort each require their own criterion.",
+  "examples": [
+    {
+      "phi": "ha keruma ha phireo thuroa panoru.",
+      "translation": "This illumination supports the plant's growth."
+    }
+  ],
+  "pillars": {
+    "solarpunk-values": "Illumination brings daylight and habitat needs into the same account as access and cultivation. Energy use remains another consequence."
+  },
+  "semantic_domains": {
+    "nature": "light reaching a living being or the habitat, water, and soil around it",
+    "physical": "a received-light condition selected for comparison or monitoring",
+    "spatial": "the distribution of light across a place or surface"
+  },
+  "modules": [
+    "accessibility-and-participation",
+    "ecological-systems-and-material-life",
+    "systems-and-shared-infrastructure"
+  ]
+}

@@ -8,10 +8,20 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Sample / Selected Portion or Observation for Examination",
-  "description": "A selected portion or observation taken for examination. How well a sample stands for something larger rests entirely on how it was selected, never on how precisely it was measured once taken.",
-  "sound_symbolism": "Bilabial breath in 'phi' enters the stressed hiss and deep vowel of 'su' and preserves the familiar opening of 'phisuwa' (example). 'Ri' adds a quick contact of the tongue and brightens the end. One case has been lifted from a larger field and given a small audible path into the hand.",
-  "grammatical_notes": "A countable noun commonly modified by source or material: 'mia ha phialu phisuri masue.' (I measure this water sample.) Preserve exact site, identifier, time, method, and chain-of-custody details in a separate source record. Distinct from 'phisuwa' (example), 'thesori' (evidence), population, and a complete body of material.",
+  "search_terms": [
+    "specimen",
+    "selected portion"
+  ],
+  "description": "A 'phisuri' is a selected portion of material, organisms, observations, or records taken for examination. Precision after collection cannot repair a poor selection. The sample may become evidence, but its relation to the larger source has to be argued rather than assumed.",
+  "articulatory_notes": "Bring the lips close without sealing them for unvoiced 'ph' and continue the breath into high-front 'i'. Form a narrow groove along the tongue for unvoiced 's' and hold stressed high-back rounded 'u'. Tap or briefly trill the tongue tip before final high-front 'i'.",
+  "sound_symbolism": "The opening 'phi' enters the narrower hiss of stressed 'su', then final 'ri' gives one quick, bright turn. Its kinship with 'phisuwa' (example) can recall one selected part brought forward from a larger field.",
+  "usage_notes": "A countable 'phisuri' is often modified by its source or material. Exact site, identifier, time, and method stay in the source record. Custody, consent, and preservation details remain beside them. An example illustrates; a sample is selected for examination.",
+  "examples": [
+    {
+      "phi": "mia ha phialu phisuri masue.",
+      "translation": "I measure this water sample."
+    }
+  ],
   "pillars": {
     "secular-buddhist-philosophy": "A sample makes partial access explicit and resists turning one observed portion into certainty about a larger whole.",
     "peace-linguistics-practices": "Selection, custody, permission, and generalization remain visible instead of being hidden behind the authority of a scientific-sounding object."

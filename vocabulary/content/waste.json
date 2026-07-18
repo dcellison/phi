@@ -8,12 +8,22 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Waste / Material or Energy Assigned No Further Intended Use",
-  "description": "Material or energy assigned no further intended use. The status is relational, not inherent: the same fallen branch can be waste to one process and, in the same afternoon, habitat material to another.",
-  "sound_symbolism": "Rounded, unvoiced 'whe' enters the stressed enclosure of 'mo' and preserves the hollow contour heard in 'whemoa' (empty). The lips close around round 'o', but 'ri' gives the tongue a new movement and brightens the end. What seemed empty of purpose remains present in the mouth and turns toward another relation.",
-  "grammatical_notes": "A countable or mass noun: 'ha muralo whemori ma nai.' (This material is not waste.) State whose process assigns the status, present condition, intended next action, and affected place or beings. Distinct from 'whemoa' (empty), 'holume' (loss), 'hisophi' (contaminant), and 'panuri' (resource).",
+  "search_terms": [
+    "discarded material",
+    "unused output"
+  ],
+  "description": "'whemori' is material or energy assigned no further intended use within a stated activity or system. The status belongs to a relation, not to the substance forever: a fallen branch may be waste to one maintenance plan and habitat material to the grove. A new use does not make the material harmless.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for unvoiced 'wh', then let breath pass into true-mid front 'e'. Close the lips for 'm', continue the voiced nasal into stressed rounded mid-back 'o', then tap or briefly trill the tongue tip before final high-front 'i'.",
+  "sound_symbolism": "The rounded, breathy opening echoes 'whemoa' (empty) before 'whemori' turns away through final 'ri'. The extra tongue movement leaves the supposed emptiness unsettled, as if another relation may still be found.",
+  "usage_notes": "'whemori' can be counted or treated as a mass noun. The process assigning the status, the material's condition, its intended next action, and the affected places or beings complete a particular account. Waste, loss, contamination, and resource each name a different relation.",
+  "examples": [
+    {
+      "phi": "ha muralo whemori ma nai.",
+      "translation": "This material is not waste."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Waste is made discussable without treating disposal as disappearance or assuming that another use automatically makes a material safe or sustainable.",
+    "solarpunk-values": "Waste remains visible after disposal, and a new use does not automatically make the material safe or sustainable.",
     "secular-buddhist-philosophy": "The definition resists an inherent waste essence and makes the designation dependent on changing relations, intentions, and conditions."
   },
   "semantic_domains": {

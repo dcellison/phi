@@ -8,13 +8,23 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Habitat / Place and Conditions Supporting an Organism",
-  "description": "A place together with the conditions that support a stated organism or living group. The same grove can be habitat in one season and not the next, and an animal seen at a place may only be passing through; whether the place feeds and shelters it is a further question.",
-  "sound_symbolism": "Soft 'me' closes gently at the lips and moves into stressed dental 'nu'. Together 'me.nu' preserve the first two syllables of 'menui' (dwell), a familiar sheltered resonance. 'Ro' rolls around that center and rounds the ending into a place where the mouth can enter, settle, and turn.",
-  "grammatical_notes": "A countable or mass noun commonly modified by the organism or group: 'ha koshira ha teluno menuro nai.' (This grove is a habitat for this amphibian.) Name life stage, season, conditions, and scale where they alter the claim. Distinct from 'lokue' (place), 'womu' (home), 'menui' (dwell), and an ecosystem as a wider analytical whole.",
+  "search_terms": [
+    "living place",
+    "organism environment"
+  ],
+  "description": "A 'menuro' is a place together with the conditions that support a stated organism or living group. Seeing an animal somewhere does not establish habitat; the place may be a route and nothing more. Food, shelter, moisture, and season can change whether the relation holds. Life stage can change it as well.",
+  "articulatory_notes": "Close the lips for 'm' and release the voiced nasal into true-mid front 'e'. Rest the tongue tip against the upper teeth for dental 'n', keep voicing through the nose, and move into stressed high-back rounded 'u'. Tap or briefly trill the tongue tip before final rounded mid-back 'o'.",
+  "sound_symbolism": "The opening 'menu' shares the sheltered resonance of 'menui' (dwell). Final 'ro' turns within a rounded vowel, and the whole word carries a small sense of entering and settling.",
+  "usage_notes": "'menuro' can appear as a count noun or a mass noun and is often paired with the organism or group whose habitat is meant. Life stage, season, conditions, and scale can alter the claim. A place, home, and ecosystem each answer a different question.",
+  "examples": [
+    {
+      "phi": "ha koshira ha teluno menuro nai.",
+      "translation": "This grove is a habitat for this amphibian."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Habitat vocabulary makes the material conditions of other beings visible in decisions about land, infrastructure, work, and restoration.",
-    "pre-industrial-wisdom": "Situated knowledge attends to where beings feed, shelter, reproduce, rest, and move rather than treating land as empty background."
+    "pre-industrial-wisdom": "Situated knowledge reads land through the places where beings feed and shelter. Reproduction, rest, and movement reveal other parts of the relation. The land is not an empty background."
   },
   "semantic_domains": {
     "nature": "the place and conditions in which a living group dwells",

@@ -8,12 +8,22 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Climate / Long-Term Distribution and Pattern of Weather",
-  "description": "The long-term distribution and pattern of weather over a stated region and period. Climate is the pattern across years; a single event, however striking, is weather borrowing the bigger word's authority.",
-  "sound_symbolism": "'Me' begins with a soft nasal enclosure and balanced vowel. Stressed 'lu' releases the tongue into deep, continuous flow; together the first two syllables recall 'meluna' (season). 'Ri' adds a light returning contact and brightens the end, so the sound passes through a season and keeps moving each time the tongue turns.",
-  "grammatical_notes": "A mass or countable noun: 'ha meluri ha howenu senao ma nai.' (This climate is not the same as this weather.) State region, period, variables, evidence, and model where relevant. Distinct from 'howenu' (weather), 'meluna' (season), and exact source terms for climate classifications or model outputs.",
+  "search_terms": [
+    "long-term weather",
+    "climate pattern"
+  ],
+  "description": "'meluri' is the long-term distribution and pattern of weather over a stated region and period. 'howenu' names weather now or over a short interval; one remarkable storm or hot day cannot carry a climate claim on its own. 'meluna' is a recurring season within the larger pattern.",
+  "articulatory_notes": "Close the lips for 'm' and pass voicing through the nose into true-mid front 'e'. Touch the tongue tip to the alveolar ridge for 'l', release along the sides, and hold stressed high-back rounded 'u'. Finish with a tap or short trill followed by high-front 'i'.",
+  "sound_symbolism": "The opening 'melu' echoes 'meluna' (season), while final 'ri' turns the tongue once more and keeps the sound moving. The resemblance can recall seasons returning within a longer pattern. The final tap gives the mouth no settled ending.",
+  "usage_notes": "'meluri' may be mass-like or countable when climates are compared. A climate claim gains its scope from the region and period, and its force from the variables, evidence, and model behind it. Source records keep exact classifications, scenarios, model outputs, and measurements.",
+  "examples": [
+    {
+      "phi": "ha meluri ha howenu senao ma nai.",
+      "translation": "This climate is not the same as this weather."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Climate vocabulary lets communities discuss long-term conditions and adaptation without using one hot day or favored intervention as sufficient evidence.",
+    "solarpunk-values": "Climate vocabulary lets communities discuss long-term conditions and adaptation. One hot day or a favored intervention is not sufficient evidence for either.",
     "secular-buddhist-philosophy": "Climate is framed as a changing distribution across conditions and time, not a fixed essence of a place."
   },
   "semantic_domains": {

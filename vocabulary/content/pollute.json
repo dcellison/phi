@@ -8,13 +8,23 @@
     "nu"
   ],
   "pos": "verb",
-  "concept": "Pollute / Cause Environmental Impairment Through an Introduced Agent",
-  "description": "To cause environmental impairment through an agent, a stronger claim than an agent's mere presence. Calling something pollution means being ready to name the evidence and the criteria the impairment is measured against.",
-  "sound_symbolism": "A small lip closure begins 'pe' and releases into balanced 'e'. Stressed 'se' sharpens the air into a narrow hiss that moves through the middle. Dental nasal 'nu' draws that movement into deep 'u', where the agent enters quietly, spreads, and settles into the place it changes.",
-  "grammatical_notes": "A transitive verb with the polluting agent as subject and affected place or medium as object: 'ha tinoa ha phuliro pesenu.' (The dye pollutes the stream.) The event-noun rule supplies pollution. Distinct from 'hisophi' (contaminant), 'hiso ma nai' (not clean), 'peloma' (harmful), and an exact regulatory finding.",
+  "search_terms": [
+    "pollution",
+    "environmental impairment"
+  ],
+  "description": "To 'pesenu' is to impair an environment through a material, organism, energy flow, or other agent. The claim is stronger than saying an unexpected agent is present: 'hisophi' names a contaminant before its effect is settled. Evidence and criteria must establish the impairment.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into true-mid front 'e'. Send unvoiced air through a narrow groove along the tongue for 's' and continue into stressed true-mid front 'e'. Place the tongue tip against the upper teeth for dental 'n', keep voicing through the nose, and finish on high-back rounded 'u'.",
+  "sound_symbolism": "Brief 'pe' moves into the sustained hiss of stressed 'se', then dental 'nu' draws the air into a deeper close. The motion evokes an agent passing through a place and leaving its movement settled there.",
+  "usage_notes": "'pesenu' takes the polluting agent as subject and the affected place or medium as direct object. Under the event-noun rule, it also names pollution. Source and pathway locate the relation. Evidence, criterion, effect, and uncertainty give the claim its needed detail; an exact regulatory finding remains source material.",
+  "examples": [
+    {
+      "phi": "ha tinoa ha phuliro pesenu.",
+      "translation": "The dye pollutes the stream."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Pollution can be named directly while source, evidence, unequal exposure, responsibility, repair, and alternatives remain available for analysis.",
-    "peace-linguistics-practices": "The word describes an environmental relation rather than using purity language to stigmatize people, cultures, or organisms as pollutants."
+    "solarpunk-values": "Pollution can be named directly while source and evidence remain available for analysis. Unequal exposure, responsibility, repair, and alternatives complete the wider account.",
+    "peace-linguistics-practices": "The word describes an environmental relation. Purity language that stigmatizes people, cultures, or organisms as pollutants does not belong in that use."
   },
   "semantic_domains": {
     "activity": "an introduced agent causing or contributing to environmental impairment",

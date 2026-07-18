@@ -8,17 +8,23 @@
     "no"
   ],
   "pos": "noun",
-  "concept": "Amphibian / Dual-Life Creature / Water-and-Land Being",
-  "description": "A cold-blooded animal that typically begins life in water with gills before transforming to breathe air on land. 'Teluno' names the creatures of transformation—frogs, salamanders, and their kin who embody the mystery of metamorphosis, belonging fully to neither water nor land alone.",
-  "sound_symbolism": "The word bridges two worlds. 'Te' lands with a firm dental stop, solid ground. 'Lu' flows with liquid transition. 'No' grounds again on earth. The word itself moves from firm to fluid to firm.",
-  "grammatical_notes": "Functions as a noun: 'lo teluno' (amphibians). A counted amphibian may take optional living classifier 'lipha'. Includes frogs, toads, salamanders, and newts. Often symbolizes transformation and adaptation.",
-  "pillars": {
-    "secular-buddhist-philosophy": "Amphibians embody transformation—the capacity to fundamentally change form while remaining oneself, a teaching about impermanence and adaptation.",
-    "pre-industrial-wisdom": "Creatures of both water and land hold liminal wisdom—they know the secrets of two worlds and the passage between them."
-  },
+  "search_terms": [
+    "frog class",
+    "salamander class",
+    "caecilian class"
+  ],
+  "description": "A 'teluno' is an amphibian, a member of the vertebrate class that includes frogs, salamanders, and caecilians. Many begin life in water and change form before living partly on land, though the class contains other life histories as well. 'keshoa' names reptiles, not every animal seen beside water.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into true-mid front 'e'. Touch the tongue tip to the alveolar ridge for 'l', release along the sides, and hold stressed high-back rounded 'u'. Return the tongue tip to the upper teeth for dental 'n' and finish on rounded mid-back 'o'.",
+  "sound_symbolism": "The dental opening and ending frame the deeper lateral movement of stressed 'lu'. That passage from firm contact into flow and back offers a bodily echo of the water-and-land lives common in this varied class.",
+  "usage_notes": "'teluno' counts normally with plural 'lo'. The living classifier 'lipha' remains optional after a numeral. Source material retains individual species names and exact taxonomic labels.",
+  "examples": [
+    {
+      "phi": "ha teluno mua ha phialu menui.",
+      "translation": "This amphibian dwells in the water."
+    }
+  ],
   "semantic_domains": {
-    "nature": "Transforming dual-world creatures",
-    "temporal": "Beings of metamorphosis"
+    "nature": "a vertebrate class that includes frogs, salamanders, and caecilians"
   },
   "modules": [
     "ecological-systems-and-material-life"

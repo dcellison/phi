@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1270 words.*
+*1273 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -134,6 +134,7 @@
 | `kerou` | stone | /ke̞.ˈro̞.u/ | noun |
 | `keru` | bright | /ˈke̞.ru/ | adjective |
 | `keruko` | sturdy | /ke̞.ˈru.ko̞/ | adjective |
+| `keruma` | illumination | /ke̞.ˈru.mä/ | noun |
 | `kesho` | middle | /ˈke̞.ʃo̞/ | noun |
 | `keshoa` | reptile | /ke̞.ˈʃo̞.ä/ | noun |
 | `kesiri` | shrink | /ke̞.ˈsi.ri/ | verb |
@@ -964,6 +965,7 @@
 | `suliwa` | snake | /su.ˈli.wä/ | noun |
 | `sulopa` | soup | /su.ˈlo̞.pä/ | noun |
 | `suloru` | fever | /su.ˈlo̞.ru/ | noun |
+| `sumeri` | temperature | /su.ˈme̞.ri/ | noun |
 | `sunai` | health | /su.ˈn̪ä.i/ | noun |
 | `sunoe` | regenerate | /su.ˈn̪o̞.e̞/ | verb |
 | `suro` | rope | /ˈsu.ro̞/ | noun |
@@ -1250,6 +1252,7 @@
 | `wile` | play | /ˈwi.le̞/ | verb |
 | `wilemo` | toy | /wi.ˈle̞.mo̞/ | noun |
 | `wiloru` | dizziness | /wi.ˈlo̞.ru/ | noun |
+| `wimura` | humidity | /wi.ˈmu.rä/ | noun |
 | `winora` | plan | /wi.ˈn̪o̞.rä/ | verb |
 | `wipha` | restless | /ˈwi.ɸä/ | adjective |
 | `wira` | window | /ˈwi.rä/ | noun |

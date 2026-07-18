@@ -8,13 +8,23 @@
     "lu"
   ],
   "pos": "noun",
-  "concept": "Runoff / Water Flowing Across Land",
-  "description": "Water moving across land or a built surface. It can carry sediment, warmth, or nothing worth noting, and its presence alone proves neither pollution nor where any pollution came from.",
-  "sound_symbolism": "Rounded 'wi' glides into bright 'i', the first quick movement of water over a surface. Across open 'a', stressed 'ra' rolls into the wet resonance of 'wirua' (wet). Liquid 'lu' carries the sound downhill into deep 'u'. Uninterrupted movement gathers speed and traces water along the fall of the land.",
-  "grammatical_notes": "A mass or countable noun: 'ha wiralu lue ha kosha wea ha luphore selu.' (This runoff flows from the field toward the river.) State source, surface, timing, carried material, and destination separately. Distinct from 'pheralu' (rain), 'selu' (flow), stream water, wastewater, and 'pesenu' (pollute).",
+  "search_terms": [
+    "surface runoff",
+    "overland flow"
+  ],
+  "description": "'wiralu' is water moving across land or a built surface rather than through a channel or beneath the ground. It may carry sediment and nutrients, or heat and contaminants. It may also carry very little. Runoff does not establish pollution or identify its source merely by arriving downstream.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then glide into high-front 'i'. Tap or briefly trill the tongue tip and open into stressed central 'a'. Touch the tongue tip to the alveolar ridge for 'l', release along the sides, and finish on high-back rounded 'u'.",
+  "sound_symbolism": "Rounded 'wi' starts quickly, stressed 'ra' turns across open space, and liquid 'lu' carries the word into a deeper finish. The uninterrupted motion can recall water following the fall of a surface.",
+  "usage_notes": "Runoff may be discussed as a mass or as a bounded flow. Source, surface, and timing begin the path; carried material and receiving place complete it. Rain, stream flow, wastewater, and pollution remain separate relations.",
+  "examples": [
+    {
+      "phi": "ha wiralu lue ha kosha wea ha luphore selu.",
+      "translation": "This runoff flows from the field toward the river."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Runoff makes the material consequences of fields, roofs, paths, and streets traceable without presuming either contamination or blame.",
-    "pre-industrial-wisdom": "Reading surface water links soil, slope, cultivation, settlement, and downstream conditions in practical land knowledge."
+    "solarpunk-values": "Runoff makes the material consequences of fields, roofs, paths, and streets traceable. Contamination and responsibility still have to follow the evidence.",
+    "pre-industrial-wisdom": "Reading surface water links soil and slope to cultivation and settlement. Downstream conditions show where that practical land knowledge must continue."
   },
   "semantic_domains": {
     "nature": "water moving across land or built surfaces",
