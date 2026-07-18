@@ -140,20 +140,7 @@ These were explicitly decided and should not silently fork again:
   `nophe` (`ta nophe thalo`, one walk). `whunema` (breathe) is retired: `whunei` is the verb
   breathe, and "a breath" is its rule-derived noun. The rule is
   taught in manual ch14.
-- **Things do not name their deeds** (settled 2026-07-05): the
-  noun→verb direction is refused. The 45 idiosyncratic dual listings
-  (instruments, roles, phenomena, substances, artifacts, entities)
-  were pruned to a single part of speech; no entry lists both noun
-  and verb, and the validator enforces it. What a thing does is said
-  with a verb: `pheralu lepa` (rain falls), `mia roe kiru wolea
-  kati` (I cut the wood with the chisel), `thema nai` (is a
-  guardian), `phao lopia numelo` (the parent nurtures the child).
-  The event-noun rule is the only bridge between verb and noun and it
-  runs one way: a deed names its event; a thing does not name its
-  deed. One word changed direction rather than losing one: `kulo`
-  (guide) was verb-primary all along — the Ring Verse refusal's own
-  poem uses it (`ta sorui theula miona kulo`) — so it keeps the verb
-  and sheds the role-noun (`rena kulo miona`, the one who guides).
+- **Things do not name their deeds** (settled 2026-07-05): the noun→verb direction is refused. The 45 idiosyncratic dual listings (instruments, roles, phenomena, substances, artifacts, entities) were pruned to a single part of speech; no entry lists both noun and verb, and the validator enforces it. What a thing does is said with a verb: `pheralu lepa` (rain falls), `mia roe kiru wolea kati` (I cut the wood with the chisel), `thema nai` (is a guardian), `phao lopia numelo` (the parent nurtures the child). The event-noun rule is the only bridge between verb and noun and it runs one way: a deed names its event; a thing does not name its deed. One word changed direction rather than losing one: `kulo` (guide) was verb-primary all along, so it keeps the verb and sheds the role-noun (`rena kulo miona`, the one who guides).
 - **Qualities and their names** (settled 2026-07-06): every
   adjective licenses its quality noun with no change of form —
   `thua` fair and fairness, `siloma` simple and simplicity — a

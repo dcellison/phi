@@ -12,13 +12,13 @@ Take it word by word, honestly.
 
 **Ring** is sayable. `sorui` is a circle, and `thumai sorui`, finger-circle, gives the object its ordinary composition. The refusal does not begin with the metal.
 
-**One** is `ta`. **All** is `theula`. **Find** is `hekawi`, **bring** is `thola`, **darkness** is `nuelo`: all present, all neutral, all willing. Nearly the whole couplet is ordinary vocabulary the language holds without complaint.
+**One** is `ta`, and **all** is `theula`. **Find** is `hekawi`; **bring** is `thola`; the adjective `nuelo`, dark, is also the regular quality noun **darkness**. Phi can say each without judging the scene in advance. Nearly the whole couplet is ordinary vocabulary, which leaves the refusal exactly where it belongs.
 
-**To rule** has no Phi root for a person exercising dominion over others. The words `kulo`, guide, and `theluo`, steward, would falsify the line by replacing power with care. The verb `kawhera`, coerce, does not translate the office; it states what the Ring's rule does to practical choice. This transmutation uses it as an accusation, not a title.
+**To rule** still has no Phi root for one being's dominion over others. Phi has acquired words for social rules since this page was first written, but none offers the Ring a respectable disguise. `nasholu`, rule, is a stated requirement, permission, or prohibition. `nashaku`, enforce, reports action taken in relation to such a rule. `karami`, authority, is claimed or recognised power within a social scope, and its legitimacy must be judged separately. The words `kulo`, guide, and `theluo`, steward, would falsify the line by replacing power with care. The verb `kawhera`, coerce, states how dominion closes practical choice. This transmutation uses it as an accusation, not a title.
 
-**Lord** fails the same way. There are persons, partners, elders, guardians, guides, stewards; there is no one set above. **Throne** has nowhere to stand: there are seats, and the word for them (`meipa`) is the verb *sit* given a place to land, furniture for resting, not for reigning.
+**Lord** does not survive as a person-role. Phi can name who holds `karami` and then ask where that authority came from, how far it reaches, and whether it is legitimate. It does not turn authority into the person's nature. **Throne** fares no better. `meipa` covers anything made for sitting, even an exalted or reserved seat. The furniture may be raised; its occupant's dominion still needs an honest clause.
 
-**Bind** is the subtle one. The word `nolami`, bond, is mutual connection and cannot carry magical subjugation. The verb `tiwa`, tie with cord, is physical and transitive. The final line stretches that concrete verb into metaphor rather than pretending the Ring creates a bond.
+**Bind** is the subtle one. The word `nolami`, bond, is mutual connection and cannot carry magical subjugation. The verb `tiwa`, tie with a flexible line, is physical and transitive. The final line stretches that concrete fastening into metaphor. It does not call captivity a bond.
 
 ## What comes out instead
 
@@ -52,4 +52,4 @@ The refusal is therefore narrower than silence. The Ring is present, its acts ar
 
 ---
 
-*Gap log: Ring → `thumai sorui`, finger-circle; rule → no role equivalent, with its coercive action stated as `kawhera`; find → `hekawi`; bring → `thola`; bind → `tiwa`, a physical tie extended metaphorically rather than the mutual `nolami`; lord and throne → retained only in the separately presented source. New words coined: none.*
+*Gap log: Ring → `thumai sorui`, finger-circle; rule → no dominion verb, with `nasholu` (rule), `nashaku` (enforce), and `karami` (authority) kept to their narrower work and the coercive action stated as `kawhera`; find → `hekawi`; bring → `thola`; bind → `tiwa`, a physical tie extended metaphorically rather than the mutual `nolami`; lord and throne → retained only in the separately presented source. New words coined: none.*

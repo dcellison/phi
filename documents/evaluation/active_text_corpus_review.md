@@ -384,6 +384,26 @@ Two changes are enough. One separates the English homonyms *plain* and *simple*;
 | Optional module vocabulary | Use none | The excerpts concern an ordinary request, perception, relationship, and care. The specialist distinctions considered above would change their centre rather than sharpen it. |
 | Active dependencies | Update the excerpt page, review ledger, progress records, and phonetic-neighbor attestations | The three Woods quotations and the shared title remain unchanged. Neither revised Phi phrase recurs in another active passage. |
 
+## Transmutation review: the Ring Verse refusal
+
+The page quotes Tolkien's couplet and answers it with four Phi lines rather than promising a close translation. Its title and passage use 12 unique forms, all from base or function vocabulary. The lines remain exactly as rebuilt during the original shelf review: the Ring coerces, finds, brings, and physically ties all people. The completed Commons vocabulary changes the explanation around them, because Phi can now distinguish a social rule, enforcement, and authority from dominion without granting the Ring any of those narrower relations.
+
+### Post-migration contextual retrofit
+
+Nothing in the Phi needs repair. The later lexicon explains the choice more precisely and exposes one old account of `meipa`, seat, that no longer agrees with its entry.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| Rule and dominion | Preserve `kawhera`; distinguish `nasholu` in the explanation | `nasholu` is a social prescription. Tolkien's verb makes one being dominate others. `kawhera` identifies the practical choice that power closes without inventing a neutral dominion verb. |
+| Authority, enforcement, and control | Do not insert `karami`, `nashaku`, or `ketora` | A holder may exercise `karami` within a social scope, but the noun leaves legitimacy open. `nashaku` acts in relation to a rule or decision. Systems `ketora` adjusts a technical process and says nothing about authority over people. Any of the three would tidy the Ring's act into the wrong kind of relation. |
+| Binding and mutual bond | Preserve metaphorical `tiwa` and reject `nolami` | `tiwa` keeps the image bodily through fastening with a flexible line. `nolami` belongs to participants who form or sustain a mutual connection. The Ring imposes restraint; it does not enter a relationship. |
+| Ring and darkness | Preserve `thumai sorui` and quality-noun `nuelo` | Finger-circle is the registered ordinary composition for a ring. Under the regular adjective rule, `nuelo` also covers darkness as a noun. Neither expression hides a source distinction or needs a specialist root. |
+| Throne and seat | Keep throne in the source; correct the account of `meipa` | `meipa` is an object or prepared place made for sitting and may be reserved or exalted. It is audibly related to `meilo`, sit, but it is not that verb with a place suffix. Raising a seat does not give its occupant an unmarked dominion role. |
+| Optional module vocabulary | Use none in the Phi lines | Commons vocabulary improves the analysis, not the transmutation. The verse's coercion, finding, bringing, darkness, and physical restraint are already expressible in ordinary Phi. |
+| Source and active dependencies | Preserve Tolkien's quotation and every repeated Phi line; remove one stale canon claim | The source remains outside Phi byte-for-byte. The first and fourth lines recur in book chapter 2, and the first recurs in chapter 6; none needs repair. Canon incorrectly said that the present refusal used an older `kulo` line, so that historical assertion is removed without changing the verb-primary ruling. |
+
+The refusal remains narrower than silence. Peace linguistics leaves the domination exposed while testimony stays possible. The Ring remains an act of coercion and imposed tying, not an office the lexicon makes clean.
+
 ## Transmutation review: the original shelf pass
 
 Before selective pairing began, the nine pending transmutations were read from their stated sources before the Phi was judged. Repair was preferred when the narrative or argument already held together. A clean rebuild was reserved for the Ring Verse's central refusal, whose earlier substitute had turned coercion into guidance and imposed binding into mutual bond. No new root was needed; the module vocabulary developed since these texts were written supplied the missing distinctions.
@@ -416,7 +436,7 @@ The source citations and gap logs in each pamphlet hold the detailed decisions. 
 | `texts/prophet_excerpts.md` | Translation + transmutation | Reviewed | Three transmuted teachings checked; On Children now has complete source alignment, translation limits, and a five-pillar comparison. |
 | `texts/tao_te_ching.md` | Translation + transmutation | Reviewed | Five complete Legge chapters, translation limits, selected transmutation, and five-pillar comparison complete. |
 | `texts/heart_sutra.md` | Translation + transmutation | Reviewed | Complete Müller alignment, translation limits, explicit transmutation omissions, and five-pillar comparison complete. |
-| `texts/ring_verse_refusal.md` | Transmutation | Reviewed | Central refusal rebuilt so coercion and imposed tying remain audible. |
+| `texts/ring_verse_refusal.md` | Transmutation | Reviewed | The 12-form base-only refusal survives the post-migration pass; completed Commons terms sharpen the account without entering the four lines. |
 | `texts/velveteen_rabbit.md` | Transmutation | Reviewed | Full story and 430 source units checked; module vocabulary repairs disability, fever, institution, and agency. |
 | `texts/news_from_nowhere/chapter_01.md` | Transmutation | Reviewed | Full chapter checked; representation, the stopped train, and source-facing gap log repaired. |
 | `texts/news_from_nowhere/chapter_02.md` | Transmutation | Reviewed | Full chapter checked; money is a concrete misunderstanding and psychiatric stigma stays with the narrator. |
