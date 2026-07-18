@@ -8,10 +8,20 @@
     "tho"
   ],
   "pos": "verb",
-  "concept": "Function / Perform a System Role or Operation",
-  "description": "To perform a role or operation within a system. Functioning is the act itself; whether that act serves its intended purpose well, safely, or efficiently is a separate claim with its own evidence.",
-  "sound_symbolism": "The first two syllables echo the full sound of 'keli' (device): a clean 'ke' followed by stressed liquid 'li'. The tongue moves from the velar stop into a bright, easy line. Final 'tho' breathes across the teeth and settles into round 'o'. A made thing is heard first; then the word exhales into the work it performs.",
-  "grammatical_notes": "An intransitive verb: 'ha monaki kelitho.' (This component functions.) A required object or result belongs in a separate clause or compound description. The event-noun rule supplies 'function'; distinct from 'porua' (purpose), 'phoa' (do), 'teru' (process), and 'poru' (productive).",
+  "search_terms": [
+    "operate",
+    "system function"
+  ],
+  "description": "A component 'kelitho' when it performs its role or operation within a system. The pump may function while wasting energy, or perform one function while failing another. 'porua' states purpose, 'teru' names a process, and 'poru' judges useful result; function itself reports the operation.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and move into stressed high-front unrounded 'i'. Rest the tongue tip lightly against the upper teeth for unvoiced 'th', pass air along it, and finish with true-mid rounded back 'o'.",
+  "sound_symbolism": "'keli' (device) is heard intact at the start, then final 'tho' lets breath pass the teeth into a rounded close. The familiar object opens into the work it performs.",
+  "usage_notes": "The verb is intransitive, and its event noun is function. A required object, output, or result belongs in a separate clause or noun phrase. Functioning reports the operation under discussion. Usefulness and safety need evidence of their own.",
+  "examples": [
+    {
+      "phi": "ha monaki kelitho.",
+      "translation": "This component functions."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Clear function language supports repairable, understandable infrastructure instead of treating technology as an opaque authority.",
     "pre-industrial-wisdom": "Practical knowledge often distinguishes what a part is meant to do from whether it currently does it well, safely, or durably."

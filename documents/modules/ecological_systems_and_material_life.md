@@ -1,6 +1,6 @@
 # Ecological Systems and Material Life
 
-**Status:** **Established vocabulary module** with 27 module roots coined here, 46 current memberships, and base-vocabulary `howenu` weather, `muralo` material, and `panuri` resource; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 27 module roots coined here, 52 current memberships, and base-vocabulary `howenu` weather, `muralo` material, and `panuri` resource; ordinary Phi grammar.
 
 ## Charter
 

@@ -56,7 +56,8 @@
     {"id": "reason-belief-ritual-and-value", "heading": "Reason, belief, ritual, and value", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-PHIL-01", "CV-REASON-01", "CV-EPIST-01", "CV-EPIST-02", "CV-CHANCE-01", "CV-RITE-01", "CV-RITE-02", "CV-META-01", "CV-META-02", "CV-VISION-01", "CV-JUST-01", "CV-VALUE-01", "CV-ECON-01"]},
     {"id": "roles-places-relations-and-remaining-concrete-nouns", "heading": "Roles, places, relations, and remaining concrete nouns", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-ADVENTURE-01", "CV-COUNSEL-01", "CV-RISK-01", "CV-RISK-02", "CV-ENERGY-01", "CV-ENERGY-02", "CV-MED-02", "CV-NET-01", "CV-NET-02", "CV-RESOURCE-01", "CV-SACRED-01", "CV-SACRED-02", "CV-ROLE-01", "CV-SECRET-01", "CV-WEATHER-01", "CV-THING-01", "CV-VALUE-01", "CV-SETTLE-01", "CV-SETTLE-02", "CV-MESH-01", "CV-EDU-01", "CV-MAT-08", "CV-MAT-09"]},
     {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-02", "CV-MAT-05", "CV-MAT-06", "CV-MEAS-02", "CV-MEAS-03", "CV-MEAS-04", "CV-MEAS-05", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]},
-    {"id": "philosophical-reasoning-module-prose", "heading": "Philosophical Reasoning module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-PHIL-01", "CV-PHIL-02", "CV-PHIL-03", "CV-PHIL-04", "CV-PHIL-05", "CV-PHIL-06", "CV-PHIL-07", "CV-PHIL-08", "CV-PHIL-09", "CV-LOGIC-01", "CV-EPIST-01", "CV-EPIST-02"]}
+    {"id": "philosophical-reasoning-module-prose", "heading": "Philosophical Reasoning module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-PHIL-01", "CV-PHIL-02", "CV-PHIL-03", "CV-PHIL-04", "CV-PHIL-05", "CV-PHIL-06", "CV-PHIL-07", "CV-PHIL-08", "CV-PHIL-09", "CV-LOGIC-01", "CV-EPIST-01", "CV-EPIST-02"]},
+    {"id": "systems-shared-infrastructure-module-prose", "heading": "Systems and Shared Infrastructure module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-01", "CV-MEAS-05", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ENERGY-01", "CV-ENERGY-02", "CV-ENERGY-03", "CV-ENERGY-04", "CV-SYSTEMS-03", "CV-SYSTEMS-04", "CV-SYSTEMS-05", "CV-SYSTEMS-06", "CV-SYSTEMS-07", "CV-SYSTEMS-08", "CV-SYSTEMS-09", "CV-NET-02"]}
   ],
   "candidates": [
     {
@@ -117,10 +118,10 @@
       "id": "CV-MEAS-01",
       "concept": "temperature, humidity, and illumination as measured parameters",
       "status": "deferred",
-      "placement": "Systems or Ecological, with exact values in source material",
-      "summary": "Everyday quality words already cover hot, wet, and bright; technical work may still need neutral parameter nouns.",
-      "revisit_when": "a connected technical scenario repeatedly names the measured parameter apart from its value and instrument",
-      "batches": ["environmental-and-spatial-qualities"]
+      "placement": "Ecological or another connected technical module, with exact values in source material",
+      "summary": "Systems now has a generic variable noun and a dedicated voltage parameter. Everyday hot, wet, and bright qualities remain adequate in the current Systems examples, while neutral temperature, humidity, and illumination parameters still need the environmental monitoring review.",
+      "revisit_when": "the Ecological Systems and Material Life prose migration examines connected environmental monitoring and repeatedly names one of these parameters apart from its value and instrument",
+      "batches": ["environmental-and-spatial-qualities", "systems-shared-infrastructure-module-prose"]
     },
     {
       "id": "CV-MEAS-02",
@@ -156,7 +157,7 @@
       "placement": "Systems or exact source material",
       "summary": "Ordinary handling now has neutral weight, while scientific mass requires a stable technical distinction, method, and source value.",
       "revisit_when": "connected scientific or engineering writing repeatedly needs to discuss mass apart from weight and exact source notation",
-      "batches": ["size-extent-and-distance", "recovered-cross-inventory-prompts"]
+      "batches": ["size-extent-and-distance", "recovered-cross-inventory-prompts", "systems-shared-infrastructure-module-prose"]
     },
     {
       "id": "CV-TASTE-01",
@@ -359,11 +360,11 @@
     {
       "id": "CV-PHIL-01",
       "concept": "emergence and correlation",
-      "status": "deferred",
-      "placement": "Philosophical Reasoning, Systems, or shared base",
-      "summary": "The first philosophical pass named emergence, correlation, inference strength, and responsibility as later questions. This pass closes ordinary inference strength and responsibility composition separately; emergence and correlation remain concrete questions for connected Systems work.",
-      "revisit_when": "the Systems and Shared Infrastructure prose migration examines system change, observation, and causal claims in connected use",
-      "batches": ["reason-belief-ritual-and-value", "recovered-cross-inventory-prompts", "philosophical-reasoning-module-prose"]
+      "status": "implemented",
+      "placement": "Philosophical Reasoning, Systems, Ecological, and Medical learning paths according to meaning",
+      "summary": "`harusi` names a whole-level pattern arising through component interaction, while `hosari` reports variables changing together without supplying a cause. The two relations now have stable module vocabulary instead of borrowing change, appearance, or sequence.",
+      "implementation": {"words": ["harusi", "hosari"], "files": ["vocabulary/content/emergence.json", "vocabulary/content/correlation.json"]},
+      "batches": ["reason-belief-ritual-and-value", "recovered-cross-inventory-prompts", "philosophical-reasoning-module-prose", "systems-shared-infrastructure-module-prose"]
     },
     {
       "id": "CV-PHIL-02",
@@ -448,12 +449,12 @@
     },
     {
       "id": "CV-SYSTEMS-02",
-      "concept": "feedforward and later systems relations",
-      "status": "deferred",
+      "concept": "feedforward control",
+      "status": "implemented",
       "placement": "Systems and Shared Infrastructure",
-      "summary": "The first Systems pass retained feedback and control but left feedforward and other less common relations for connected technical use.",
-      "revisit_when": "an original system explanation needs anticipatory control often enough that ordinary input, model, and control clauses obscure the relation",
-      "batches": ["recovered-cross-inventory-prompts"]
+      "summary": "`naropu` names control that acts from an observed or expected input before the resulting output returns. Prediction supplies the expectation; feedforward begins when that expectation changes control.",
+      "implementation": {"words": ["naropu"], "files": ["vocabulary/content/feedforward.json"]},
+      "batches": ["recovered-cross-inventory-prompts", "systems-shared-infrastructure-module-prose"]
     },
     {
       "id": "CV-ECON-01",
@@ -1331,11 +1332,11 @@
     {
       "id": "CV-ENERGY-01",
       "concept": "electricity, electric charge and current, and related electrical phenomena",
-      "status": "deferred",
-      "placement": "Systems, Household, Ecological, Work, or base vocabulary according to connected use",
-      "summary": "Base `kenua` supplies ordinary energy, and registered `thero muralo` supplies fuel as material used for fire. Electricity is distinct enough that a lasting solution should not be improvised as 'lightning energy' or made to cover charge, current, and supply by accident.",
-      "revisit_when": "the Systems module prose migration or a connected household, ecological, repair, or infrastructure passage needs to distinguish electrical phenomena, charge, current, or electrical supply from general energy inside Phi",
-      "batches": ["roles-places-relations-and-remaining-concrete-nouns"]
+      "status": "implemented",
+      "placement": "Systems, Household, Ecological, and Work learning paths according to meaning",
+      "summary": "`thewaki` names electricity broadly, `rishonu` electric charge, and `sephaki` charge in motion. `thewaki kenua` identifies electrical energy, while supply adds a source, state, and available capacity.",
+      "implementation": {"words": ["thewaki", "rishonu", "sephaki"], "files": ["vocabulary/content/electricity.json", "vocabulary/content/charge.json", "vocabulary/content/current.json"]},
+      "batches": ["roles-places-relations-and-remaining-concrete-nouns", "systems-shared-infrastructure-module-prose"]
     },
     {
       "id": "CV-ENERGY-02",
@@ -1344,7 +1345,7 @@
       "placement": "exact technical, billing, or equipment source beside a Phi account",
       "summary": "Phi can discuss an energy source, transfer, use, interruption, consequence, and shared decision without translating the notation that makes a reading, rating, or account verifiable.",
       "source_rule": "Energy quantities and units, meter readings, equipment ratings, tariffs, named products, grid and provider identities, account identifiers, and specifications retain their source form. Phi can state who supplied the record and how it enters the present decision.",
-      "batches": ["roles-places-relations-and-remaining-concrete-nouns"]
+      "batches": ["roles-places-relations-and-remaining-concrete-nouns", "systems-shared-infrastructure-module-prose"]
     },
     {
       "id": "CV-MED-02",
@@ -1371,7 +1372,7 @@
       "placement": "exact technical or service source beside a Phi network account",
       "summary": "Phi can describe participants, connections, access, failure, repair, and governance around a network. The name or identifier that lets a device or person find the intended network remains in its own system.",
       "source_rule": "Network and service names, addresses, protocols, versions, account names, credentials, and identifiers retain their source form. Passwords and other secret credentials do not enter Phi examples merely to demonstrate the boundary.",
-      "batches": ["roles-places-relations-and-remaining-concrete-nouns"]
+      "batches": ["roles-places-relations-and-remaining-concrete-nouns", "systems-shared-infrastructure-module-prose"]
     },
     {
       "id": "CV-RESOURCE-01",
@@ -1444,6 +1445,87 @@
       "summary": "Phi can describe a settlement's homes, people, scale, paths, services, and relationships. The source classification remains necessary when a boundary, legal power, address, service area, or official identity depends on it.",
       "source_rule": "Place names, municipal categories, jurisdictional terms, boundaries, population records, addresses, service areas, and civic identifiers retain their source form. A place may also bear an accepted Phi-form onym under the name charter.",
       "batches": ["roles-places-relations-and-remaining-concrete-nouns"]
+    },
+    {
+      "id": "CV-ENERGY-03",
+      "concept": "voltage as an electrical parameter distinct from its exact value",
+      "status": "implemented",
+      "placement": "Systems and Work learning paths",
+      "summary": "`poweshi` identifies electrical potential difference between two points, so a Phi account can name the parameter while its exact reading stays with the source. Current and power keep their own relations.",
+      "implementation": {"words": ["poweshi"], "files": ["vocabulary/content/voltage.json"]},
+      "batches": ["systems-shared-infrastructure-module-prose"]
+    },
+    {
+      "id": "CV-ENERGY-04",
+      "concept": "technical power as the rate of energy transfer or conversion",
+      "status": "implemented",
+      "placement": "Systems, Household, Ecological, and Work learning paths",
+      "summary": "`phoselu` distinguishes the rate of energy transfer from energy itself. Political power remains a social relation outside this technical noun, and exact ratings stay with their source.",
+      "implementation": {"words": ["phoselu"], "files": ["vocabulary/content/power.json"]},
+      "batches": ["systems-shared-infrastructure-module-prose"]
+    },
+    {
+      "id": "CV-SYSTEMS-03",
+      "concept": "variable as a named feature or quantity that may take different values",
+      "status": "implemented",
+      "placement": "Systems, Ecological, and Medical learning paths",
+      "summary": "`wuneri` gives a model, test, record, or control process a noun for the selected feature that may vary. Its exact value and symbol stay with the record; method and causal importance remain part of the analysis.",
+      "implementation": {"words": ["wuneri"], "files": ["vocabulary/content/variable.json"]},
+      "batches": ["systems-shared-infrastructure-module-prose"]
+    },
+    {
+      "id": "CV-SYSTEMS-04",
+      "concept": "sensor and actuator component roles",
+      "status": "compositional",
+      "placement": "Systems expressions",
+      "summary": "An observation component and a control component state the role that matters. The surrounding account supplies its variable, signal, or affected process, while exact device identity stays with the source.",
+      "expressions": ["somela monaki", "ketora monaki"],
+      "batches": ["systems-shared-infrastructure-module-prose"]
+    },
+    {
+      "id": "CV-SYSTEMS-05",
+      "concept": "setpoint, disturbance, and technical error",
+      "status": "compositional",
+      "placement": "Systems clauses and transparent expressions",
+      "summary": "A selected state, an outside input that changes the process, and the difference between a reference and observed state are three relations. Keeping their participants visible avoids one control label whose scope has to be guessed.",
+      "expressions": ["kanu mirela", "lerua koewi", "mothami nela mirela phirae"],
+      "batches": ["systems-shared-infrastructure-module-prose"]
+    },
+    {
+      "id": "CV-SYSTEMS-06",
+      "concept": "service availability, throughput, frequency, and technical rate",
+      "status": "compositional",
+      "placement": "Systems state, output, cycle, and period expressions",
+      "summary": "Function state reports availability, output across a stated period reports throughput, and cycles across a period report frequency. Exact values and units remain in source material rather than becoming hidden inside the expressions.",
+      "expressions": ["kelitho mirela", "thirulo mosha", "nuri mosha"],
+      "batches": ["systems-shared-infrastructure-module-prose"]
+    },
+    {
+      "id": "CV-SYSTEMS-07",
+      "concept": "exact standards, protocols, formulas, conversion rules, and versioned technical requirements",
+      "status": "source-bound",
+      "placement": "exact technical source beside a Systems account",
+      "summary": "Phi can identify the role of a technical artifact and discuss the relation it records. Exact notation, wording, identity, and version stay with the source that makes the result reproducible.",
+      "source_rule": "Standards, protocols, formulas, conversion rules, versioned specifications, and named technical methods retain their source form. Phi describes where the artifact came from, how it applies, and what authority it carries in the present decision.",
+      "batches": ["systems-shared-infrastructure-module-prose"]
+    },
+    {
+      "id": "CV-SYSTEMS-08",
+      "concept": "further named electrical and process parameters such as resistance, capacitance, and pressure",
+      "status": "deferred",
+      "placement": "Systems, Work, Ecological, or exact source material according to connected use",
+      "summary": "Voltage and the generic variable relation now have Phi words, while exact values remain in their source notation. Further parameter nouns should enter as a coherent set when sustained technical use needs to compare the parameter itself rather than merely point to a labelled reading.",
+      "revisit_when": "a connected systems, repair, or ecological passage repeatedly distinguishes one of these parameters from its value, instrument, source label, and neighbouring physical relation",
+      "batches": ["systems-shared-infrastructure-module-prose"]
+    },
+    {
+      "id": "CV-SYSTEMS-09",
+      "concept": "infrastructure, service, electrical grid, and distribution network",
+      "status": "compositional",
+      "placement": "Systems expressions with Commons where governance matters",
+      "summary": "Community-support system names infrastructure, support function identifies a service, and an electricity-transfer network identifies a grid. Commons vocabulary carries the social relations around each one.",
+      "expressions": ["sila panoru terura", "panoru kelitho", "thewaki sekaru phaliso"],
+      "batches": ["systems-shared-infrastructure-module-prose"]
     }
   ],
   "prompt_sources": [

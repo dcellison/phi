@@ -308,7 +308,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (561)
+## noun (570)
 
 | Word | Gloss |
 |---|---|
@@ -316,6 +316,7 @@
 | `haoni` | voice |
 | `haowu` | air |
 | `harisu` | desert |
+| `harusi` | emergence |
 | `hasenu` | recess |
 | `hasumi` | tea |
 | `helia` | youth |
@@ -335,6 +336,7 @@
 | `holume` | loss |
 | `horathe` | dawn |
 | `horuma` | thunder |
+| `hosari` | correlation |
 | `hoshemi` | hypothesis |
 | `howai` | evening |
 | `howeli` | wind |
@@ -536,6 +538,7 @@
 | `napari` | rice |
 | `napuro` | grain |
 | `naremu` | guilt |
+| `naropu` | feedforward |
 | `naseru` | obligation |
 | `nasholu` | rule |
 | `naweso` | consensus |
@@ -649,6 +652,7 @@
 | `pholui` | bamboo |
 | `phomila` | offspring |
 | `phora` | sail |
+| `phoselu` | power |
 | `phui` | flute |
 | `phulae` | mouth |
 | `phuliro` | stream |
@@ -665,6 +669,7 @@
 | `porewi` | side effect |
 | `porua` | purpose |
 | `powea` | egg |
+| `poweshi` | voltage |
 | `pukea` | danger |
 | `punoa` | society |
 | `punoki` | institution |
@@ -682,6 +687,7 @@
 | `rimawu` | drudgery |
 | `rinoka` | project |
 | `riporu` | task |
+| `rishonu` | charge |
 | `ritako` | workload |
 | `roela` | scroll |
 | `roena` | copper |
@@ -698,6 +704,7 @@
 | `seluwhe` | outage |
 | `sena` | pattern |
 | `senalu` | style |
+| `sephaki` | current |
 | `shalimo` | alliance |
 | `shalu` | fish |
 | `shalumi` | salmon |
@@ -790,6 +797,7 @@
 | `thero` | fire |
 | `thesani` | skill |
 | `thesori` | evidence |
+| `thewaki` | electricity |
 | `thimelo` | pace |
 | `thimora` | schedule |
 | `thimu` | time |
@@ -873,6 +881,7 @@
 | `wonepa` | table |
 | `woru` | keeper |
 | `wotami` | shrub |
+| `wuneri` | variable |
 
 ## numeral (3)
 

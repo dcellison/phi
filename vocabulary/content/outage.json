@@ -8,10 +8,20 @@
     "whe"
   ],
   "pos": "noun",
-  "concept": "Outage / Period of Unavailable Infrastructure Service",
-  "description": "A bounded period during which an infrastructure service is unavailable, felt from the outside as absence. A single component can fail with no outage following, and an outage can happen with no component failing at all: planned work or a missing input can take a service down just as surely.",
-  "sound_symbolism": "A narrow hiss begins 'se', flows directly into stressed liquid 'lu', and recalls the uninterrupted movement of 'selu' (flow). 'Whe' rounds the lips and replaces that current with unvoiced breath. The service disappears audibly: motion, then a hollow shaped by its absence.",
-  "grammatical_notes": "A countable noun: 'ha seluwhe mosha teku nai.' (The outage period is short.) Name the service, affected place or participants, beginning, duration, and source separately where needed. Distinct from 'thonuki' (fail), 'whemoa' (empty), and any brief interruption that does not make a service unavailable.",
+  "search_terms": [
+    "service outage",
+    "service interruption"
+  ],
+  "description": "A 'seluwhe' is a bounded period when an infrastructure service is unavailable. A pump can fail while a second pump prevents an outage; planned work can interrupt service while every component remains sound. The word describes what users cannot receive during the period rather than assuming which part failed.",
+  "articulatory_notes": "Raise the tongue blade towards the alveolar ridge for unvoiced 's' and move into true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and continue into stressed high rounded back 'u'. Round the lips for unvoiced 'wh', let air pass without voicing, and finish with true-mid front unrounded 'e'.",
+  "sound_symbolism": "The smooth opening of 'selu' (flow) is almost present, but final 'whe' replaces voice with rounded breath. Motion gives way to a hollow exhalation, an audible absence after service.",
+  "usage_notes": "The noun is countable. A clear account identifies the service and the affected place or participants. Its beginning, duration, and source may be stated separately. A passing interruption counts only when the stated service becomes unavailable.",
+  "examples": [
+    {
+      "phi": "ha seluwhe mosha teku nai.",
+      "translation": "The outage period is short."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Shared infrastructure must be discussable when it is absent as well as when it works, including unequal consequences and restoration priorities.",
     "peace-linguistics-practices": "The word permits a neutral report of service loss while leaving notice, accountability, access, and harm open to explicit discussion."

@@ -8,10 +8,20 @@
     "la"
   ],
   "pos": "noun",
-  "concept": "State / Relevant Conditions of a System at a Time",
-  "description": "The selected conditions of a system at a given time. A state is a chosen description built for a purpose, never the whole truth of the thing it describes, and a different question can select different conditions to describe.",
-  "sound_symbolism": "'Mi' begins behind closed lips and keeps the first sound close. Stressed 're' rolls across the center and sets the held details in relation. 'La' lays the tongue down into broad 'a' and moves the contour from inward gathering through arrangement to a state spread out where it can be seen.",
-  "grammatical_notes": "A noun commonly possessed by the system or component described: 'ha terura mirela mureo nai.' (This system's state is stable.) Use time expressions and evidentials to identify when and how the state is known. Distinct from 'norelu' (form), 'noa' (position), and a temporary adjective used without an analytical state description.",
+  "search_terms": [
+    "system state",
+    "selected conditions"
+  ],
+  "description": "A 'mirela' is the selected set of conditions used to describe a system at a time. For a cistern, the description might include stored water, valve position, and whether the outlet flows. Another question may select another state. 'norelu' concerns form and 'noa' position; a state instead gathers the conditions selected for the current analysis.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm', carry the voice through the nose, and move into high-front unrounded 'i'. Make a tap or short trill with the tongue tip and continue into stressed true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and finish on central 'a'.",
+  "sound_symbolism": "Close 'mi' opens through the tongue's turn in stressed 're' and settles into broad 'la'. The form moves from gathered detail towards a condition laid out for attention.",
+  "usage_notes": "The noun is often possessed by the system or component described. Time expressions and evidentials identify when and how the state is known. A state is purpose-bounded; another question may give the same system a different state description.",
+  "examples": [
+    {
+      "phi": "ha terura mirela mureo nai.",
+      "translation": "This system's state is stable."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Tracking system states supports transparent maintenance and adaptation while exposing which conditions a design chooses to notice.",
     "secular-buddhist-philosophy": "A state is presented as a conditioned description at a time, not as a permanent essence."

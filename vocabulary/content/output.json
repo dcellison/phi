@@ -8,12 +8,23 @@
     "lo"
   ],
   "pos": "noun",
-  "concept": "Output / Matter, Energy, or Information Leaving a System",
-  "description": "Matter, energy, information, or effect leaving a system across its boundary. An output is simply what crosses out; whether it is useful, intended, or a sign of good performance is a further and separate question.",
-  "sound_symbolism": "Bright 'thi' begins with air escaping along the teeth. Stress rolls through 'ru' and gives that departure a direction. Low 'lo' lets the tongue release while round 'o' carries the result beyond the word: breath becomes motion and then open flow, a compact outward contour beside the broken hiatus of 'koewi' (input).",
-  "grammatical_notes": "A countable or mass noun, commonly possessed by the producing system: 'ha kenua ha terura thirulo nai.' (The energy is this system's output.) State recipient, destination, amount, and effects separately when needed. Deliberately dissimilar from 'koewi' (input), its conceptual opposite.",
+  "search_terms": [
+    "system output",
+    "outgoing matter",
+    "outgoing information"
+  ],
+  "description": "'thirulo' is matter, energy, information, or effect leaving a system across its stated boundary. A mill's useful flour and unwanted dust are both outputs if both cross that line. Usefulness, intention, amount, and consequence require their own claims.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and move into high-front unrounded 'i'. Make a tap or short trill with the tongue tip and continue into stressed high rounded back 'u'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and finish with true-mid rounded back 'o'.",
+  "sound_symbolism": "Air escapes in bright 'thi', rolls through stressed 'ru', and continues into low rounded 'lo'. The sound travels steadily outward, unlike the audible boundary crossing in opposite 'koewi' (input).",
+  "usage_notes": "The noun may be countable or mass and is often possessed by the producing system. The surrounding account can follow its recipient and destination and record the amount or effects. Its form is deliberately unlike 'koewi', which helps speakers keep direction clear by ear.",
+  "examples": [
+    {
+      "phi": "ha kenua ha terura thirulo nai.",
+      "translation": "The energy is this system's output."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Output language makes useful products, waste, heat, emissions, and information equally available for accounting rather than noticing only desired results.",
+    "solarpunk-values": "Output language puts wanted products and waste in the same account, along with heat or emissions that a design might prefer to forget.",
     "pre-industrial-wisdom": "A process is understood through everything that leaves it, including remnants and side effects as well as the intended work."
   },
   "semantic_domains": {

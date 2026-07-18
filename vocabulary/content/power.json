@@ -1,0 +1,39 @@
+{
+  "word": "phoselu",
+  "gloss": "power",
+  "ipa": "/ɸo̞.ˈse̞.lu/",
+  "syllables": [
+    "pho",
+    "se",
+    "lu"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "technical power",
+    "energy transfer rate"
+  ],
+  "description": "'phoselu' is the rate at which energy is transferred or converted in a technical or physical process. A battery may hold much energy yet deliver little power, while a mill may deliver high power only briefly. The word stays in technical and physical use. Political power is described through authority, influence, or coercion instead.",
+  "articulatory_notes": "Bring the lips close for unvoiced bilabial 'ph', pass air between them, and round into true-mid back 'o'. Raise the tongue blade towards the alveolar ridge for unvoiced 's' and move into stressed true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and finish with high rounded back 'u'.",
+  "sound_symbolism": "Rounded breath in 'pho' narrows through the steady hiss of stressed 'se' and releases along the tongue in 'lu'. The contour feels sustained and directed, unlike a single stored amount.",
+  "usage_notes": "The noun is usually mass. The relevant transfer or conversion, boundary, period, and useful output give the word its scale. Exact values, ratings, units, and methods remain in source material. 'kenua' is energy and 'sephaki' electric current; political power stays with authority, influence, or coercion.",
+  "examples": [
+    {
+      "phi": "ha terura phoselu sekaru.",
+      "translation": "This system transfers power."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "A separate technical noun prevents energy transfer and authority over people from borrowing the same unmarked word."
+  },
+  "semantic_domains": {
+    "activity": "rate of energy transfer or conversion in a process",
+    "physical": "a technical relation between energy and time",
+    "quantity": "a rate whose exact value and unit remain in a source record"
+  },
+  "modules": [
+    "ecological-systems-and-material-life",
+    "household-and-daily-life",
+    "systems-and-shared-infrastructure",
+    "work-craft-and-repair"
+  ]
+}

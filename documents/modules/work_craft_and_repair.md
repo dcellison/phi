@@ -1,6 +1,6 @@
 # Work, Craft, and Repair
 
-**Status:** **Established vocabulary module** with 28 module roots coined here, 65 current memberships, and base-vocabulary `winora` plan and `hasoru` pending; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 28 module roots coined here, 70 current memberships, and base-vocabulary `winora` plan and `hasoru` pending; ordinary Phi grammar.
 
 ## Charter
 

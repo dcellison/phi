@@ -8,13 +8,23 @@
     "thi"
   ],
   "pos": "verb",
-  "concept": "Monitor / Repeatedly Observe and Record for Stated Change or Decision",
-  "description": "To repeatedly observe and record something for the sake of change or decision, across a stated time. Monitoring proves neither cause nor successful protection on its own, and it authorizes no watching of people.",
-  "sound_symbolism": "Hissing 'so' rounds into the stressed nasal balance of 'me' and preserves the audible opening of 'somela' (observe). Final 'thi' sends a fine stream of air along the teeth and ends on bright 'i'. The word watches, settles, and looks again; its last breath points beyond one observation toward the next.",
-  "grammatical_notes": "A transitive verb: 'lo mia ha luphore somethi.' (We monitor the river.) State indicators, sites, methods, interval, duration, baseline, record, decision rule, and responsible participants where needed. The event-noun rule supplies monitoring. Distinct from 'somela' (observe), 'masue' (measure), surveillance of people, and `nilaki` (inspect).",
+  "search_terms": [
+    "monitoring",
+    "repeated observation"
+  ],
+  "description": "To 'somethi' is to observe and record something repeatedly across a stated time for a stated decision or possible change. One river reading is an observation; returning to the same sites through the season may be monitoring. Monitoring can support a causal or protective claim, but it does not prove one. Watching people raises a separate question of consent and authority.",
+  "articulatory_notes": "Raise the tongue blade towards the alveolar ridge for unvoiced 's' and round into true-mid back 'o'. Close the lips for voiced nasal 'm', carry the voice through the nose, and move into stressed true-mid front unrounded 'e'. Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "'some' preserves the opening of 'somela' (observe), then final 'thi' adds a fine stream of breath and a bright close. The shared beginning returns to attention, while the last syllable points beyond a single look.",
+  "usage_notes": "The verb is transitive, and its event noun is monitoring. Monitoring records its indicators, sites, methods, and intervals. Duration, baseline, decision rule, and responsible participants complete the account when they matter. 'somela' observes once or deliberately, 'masue' measures, and 'nilaki' inspects against criteria.",
+  "examples": [
+    {
+      "phi": "lo mia ha luphore somethi.",
+      "translation": "We monitor the river."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Monitoring connects interventions to revisable observation rather than treating good intention or one favorable result as proof of ecological success.",
-    "peace-linguistics-practices": "The definition separates ecological monitoring from unmarked surveillance and requires purpose, scope, indicators, and authority to remain explicit."
+    "peace-linguistics-practices": "Monitoring a river does not make surveillance of people a neutral extension. People bring questions of consent and authority."
   },
   "semantic_domains": {
     "activity": "planned repeated observation, measurement, sampling, or recording",

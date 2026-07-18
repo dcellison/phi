@@ -1,0 +1,38 @@
+{
+  "word": "harusi",
+  "gloss": "emergence",
+  "ipa": "/hä.ˈru.si/",
+  "syllables": [
+    "ha",
+    "ru",
+    "si"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "emergent pattern",
+    "system-level property"
+  ],
+  "description": "'harusi' is the arising of a pattern or property in a whole through interactions among its components, when no component alone has that pattern or property. A wetland's water regulation may emerge from many soils, plants, channels, and seasons acting together. The word is deliberately narrower than novelty or mystery. It asks for the whole-level pattern and the interactions from which it arose.",
+  "articulatory_notes": "Open the glottis for 'h' and move into central 'a'. Make a tap or short trill with the tongue tip and continue into stressed high rounded back 'u'. Raise the tongue blade towards the alveolar ridge for unvoiced 's' and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "Open 'ha' turns through the deep rolling centre of stressed 'ru' and rises into the narrow hiss and bright vowel of 'si'. The shape gathers movement from unlike contacts and arrives somewhere none of them occupied alone.",
+  "usage_notes": "The noun may be countable for a particular emergent event or mass for the relation in general. A clear use keeps the system boundary, component interactions, observed pattern, and evidence visible. 'kelu' names becoming and 'thuroa' growth; 'harusi' begins when interactions yield a whole-level pattern.",
+  "examples": [
+    {
+      "phi": "ha harusi lo monaki lorea pherami.",
+      "translation": "This emergence depends on the components' connections."
+    }
+  ],
+  "pillars": {
+    "secular-buddhist-philosophy": "Emergence keeps a whole-level pattern dependent on conditions and relations without reducing it to an eternal essence.",
+    "art-nouveau-aesthetics": "The concept gives language to a whole whose form arises through relations among parts rather than through one isolated piece."
+  },
+  "semantic_domains": {
+    "cognition": "a system-level relation proposed and assessed through component interactions",
+    "nature": "whole-level patterns arising through ecological relations"
+  },
+  "modules": [
+    "ecological-systems-and-material-life",
+    "philosophical-reasoning",
+    "systems-and-shared-infrastructure"
+  ]
+}

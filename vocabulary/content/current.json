@@ -1,0 +1,33 @@
+{
+  "word": "sephaki",
+  "gloss": "current",
+  "ipa": "/se̞.ˈɸä.ki/",
+  "syllables": [
+    "se",
+    "pha",
+    "ki"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "electric current",
+    "charge flow"
+  ],
+  "description": "A 'sephaki' is electric charge moving through material or space. Current may pass through a wire while electrical energy is transferred to a lamp, but the current and the energy are not the same thing. Water and air have ordinary 'selu' flow; this noun is reserved for the electrical relation.",
+  "articulatory_notes": "Raise the tongue blade towards the alveolar ridge for unvoiced 's' and move into true-mid front unrounded 'e'. Bring the lips close for unvoiced bilabial 'ph', pass air between them, and open into stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'.",
+  "sound_symbolism": "Continuous 'se' enters the wide breath of stressed 'pha' and ends at crisp 'ki'. The form carries air forward but gives it clear contacts, a useful contrast with the gathered roundness of 'rishonu' (charge).",
+  "usage_notes": "The noun is usually mass. Direction, path, source, conditions, and exact amount may be stated separately. 'thewaki' names electricity broadly, 'poweshi' voltage, and 'phoselu' power; current is the motion of charge among them.",
+  "examples": [
+    {
+      "phi": "ha sephaki selu.",
+      "translation": "The electric current flows."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "movement of electric charge through a material or space",
+    "physical": "an electrical flow distinct from the energy it may transfer"
+  },
+  "modules": [
+    "systems-and-shared-infrastructure",
+    "work-craft-and-repair"
+  ]
+}

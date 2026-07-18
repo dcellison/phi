@@ -8,10 +8,20 @@
     "ki"
   ],
   "pos": "verb",
-  "concept": "Fail / Lose or Not Perform a Required Technical Function",
-  "description": "To not perform a stated required function. Failure names the missed function plainly, without saying anything yet about what caused it, whether something physically broke, or who is responsible for the fix.",
-  "sound_symbolism": "Dental breath begins 'tho' and rounds into an expectation of continued motion. Stressed 'nu' closes that path in a deep nasal chamber. The smaller, sharper velar contact of 'ki' ends on bright 'i' and narrows the sound a second time, until the expected movement has nowhere further to go.",
-  "grammatical_notes": "An intransitive verb: 'ha monaki to thonuki.' (This component failed.) State the required function and conditions where context does not supply them. The event-noun rule supplies failure. Distinct from 'pukate' (break), 'kiphira' (fault), 'kanelu' (err), and any judgment that a person is a failure.",
+  "search_terms": [
+    "failure",
+    "function failure"
+  ],
+  "description": "Something 'thonuki' when it does not perform a stated required function under the conditions being discussed. A pump can fail while every visible part remains whole, and a cracked casing can be broken while the pump still runs. Failure reports the missing function. Cause and responsibility are questions for the next sentence.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and round into true-mid back 'o'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and move into stressed high rounded back 'u'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'.",
+  "sound_symbolism": "Breathy, rounded 'tho' narrows into the deep nasal closure of stressed 'nu', then ends at the small, bright stop of 'ki'. The contour repeatedly closes where continued motion might have been expected.",
+  "usage_notes": "The verb is intransitive, and its event noun is failure. The required function and conditions should be recoverable from context. 'pukate' means break, 'kiphira' names an abnormal technical condition, and 'kanelu' is an error; a person is never reduced to this technical event.",
+  "examples": [
+    {
+      "phi": "ha monaki to thonuki.",
+      "translation": "This component failed."
+    }
+  ],
   "pillars": {
     "secular-buddhist-philosophy": "Failure is treated as a conditioned event that can be observed and investigated, not as a permanent essence.",
     "peace-linguistics-practices": "The word names unmet technical function without converting a system event into condemnation of a worker, user, or community."

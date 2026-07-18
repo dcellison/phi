@@ -228,7 +228,7 @@ PL 1SG rest.
 
 ### Gap log
 
-The following findings describe the before-state dialogue. The established [Medical and Bodily Care module](../modules/medical_and_bodily_care.md) now supplies vocabulary for many of these distinctions, while the dialogue itself remains unchanged until the planned corpus-wide review.
+The following findings describe the before-state dialogue. The established [Medical and Bodily Care module](../modules/medical_and_bodily_care.md) now supplies vocabulary for many care distinctions, while the [Systems and Shared Infrastructure module](../modules/systems_and_shared_infrastructure.md) supplies voltage, feedback, system state, and related technical vocabulary. The dialogue itself remains unchanged until the planned corpus-wide review.
 
 - **Exact measurement works as a separate record, not as a lexical unit.** The displayed `12 V` artifact preserves the number and unit while the Phi dialogue refers to its marker and measurement role. This does not by itself provide vocabulary for voltage, calibration, threshold, or technical comparison.
 - **The measurement restriction makes one useful ethical distinction easy.** `miona sone po ma masue` separates a person's value from a thing that can be measured. The scenario therefore does not establish that the restriction is wrong; it shows a real benefit of keeping ranking separate from technical conditions.
@@ -307,6 +307,8 @@ PL 1SG rest.
 ```
 
 ### Gap log
+
+These are before-state findings from the original scenario. The Systems module now names voltage with `poweshi`, feedback with `turelo`, and several relations that the chain of generic connections could not express; the scenario remains untouched so the earlier failure can still be examined.
 
 - **The technical-condition-versus-human-value distinction recurs.** Exact voltage can be preserved safely outside Phi, and `miona sone po ma masue` from the prior scenario still separates a person's worth from measurement. The remaining question is how to state a technical condition and its role in a decision without treating the source record as an opaque authority.
 - **`phisu` supplies an example, not a counterexample convention.** B can give a case in which the voltage is present and function may still fail. Phi has no established form saying that this case refutes A's inference rather than merely adding another consideration.

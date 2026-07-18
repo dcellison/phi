@@ -4,7 +4,7 @@ Someone wakes with a fever and says so, in their own words. Everything this modu
 
 Like every module, these words are optional and use ordinary Phi grammar. Core Phi already reports pain, sickness, refusal, need, and care, and a speaker who has not learned the module can always ask for a core paraphrase. Learning it gives no one medical knowledge, a professional role, or any permission to act on another person's body.
 
-The chapter table below introduces 30 roots. Current classifications bring the learning list to 48 words; the complete machine-generated list is available under [Medical and Bodily Care in the module lexicon](../lexicon/by_module.md#medical-and-bodily-care). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 30 roots. Current classifications bring the learning list to 50 words; the complete machine-generated list is available under [Medical and Bodily Care in the module lexicon](../lexicon/by_module.md#medical-and-bodily-care). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 

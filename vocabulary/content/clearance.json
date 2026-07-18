@@ -8,10 +8,21 @@
     "nu"
   ],
   "pos": "noun",
-  "concept": "Clearance / Free Space Needed for Passage or Operation",
-  "description": "The free room available for a stated passage or operation, whether the relevant measure is width, height, depth, or space to turn. Clearance belongs to an object and action together. A doorway may be wide enough for one device and still lack turning room beyond it. Exact dimensions and source specifications remain separately presented when their notation matters.",
-  "sound_symbolism": "Liquid 'lo' begins in a low rounded chamber. Stressed 'she' sends a hush through balanced 'e', while final 'nu' settles the tongue at the teeth and deepens into nasal 'u'. It flows, breathes softly at its center, and comes to rest low in the mouth.",
-  "grammatical_notes": "A mass or countable noun according to context: 'ha ponu loshenu phelu.' (This door has clearance.) Measurements, direction, and the moving object can appear in surrounding clauses. Distinct from general 'tholu' (space) and the adjective 'losha' (wide).",
+  "search_terms": [
+    "free room",
+    "turning clearance",
+    "passage clearance"
+  ],
+  "description": "'loshenu' is the free room available for a stated passage or operation. Width may be the problem at a doorway, height under a beam, or turning room after a chair has passed the frame. General 'tholu' is space, and 'losha' describes width; clearance joins the available room to the body, object, and movement that need it.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and round into true-mid back 'o'. Raise the tongue blade behind the alveolar ridge for stressed unvoiced 'sh' and release into true-mid front 'e'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with high rounded back 'u'.",
+  "sound_symbolism": "Rounded 'lo' opens into the quiet, unblocked breath of stressed 'she' before the word settles in nasal 'nu'. Its centre has a little room around it, while the final contact gives that room an edge.",
+  "usage_notes": "The noun can be mass or countable. Measurements, direction, and the moving body or object belong in the surrounding account. Exact dimensions and source specifications remain separately presented when their notation matters.",
+  "examples": [
+    {
+      "phi": "ha ponu loshenu phelu.",
+      "translation": "This door has clearance."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Clearance turns a drawing's empty patch into a question about a real body or device moving through the built place.",
     "pre-industrial-wisdom": "Builders long worked from the sweep of a door, the reach of a hand, and the turning of a cart. A bare dimension never told the whole story of usable room."

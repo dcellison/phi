@@ -1,6 +1,6 @@
 # Philosophical Reasoning
 
-**Status:** **Established vocabulary module** with 18 module roots coined in its first pass, three later additions, 22 current memberships, and base-vocabulary `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 18 module roots coined in its first pass, three later additions, 24 current memberships, and base-vocabulary `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion; ordinary Phi grammar.
 
 ## Charter
 
@@ -60,6 +60,15 @@ The rain-and-river scenario needs a proposed account that can be examined before
 | `hoshemi` | hypothesis; a proposed explanation or relation under examination | A `mothare` is a proposition serving as a premise. A hypothesis is the account being tested and may later supply a premise. |
 
 Ordinary `phirae hoshemi` supplies an alternative hypothesis. Formal null and alternative hypotheses, statistical tests, and named methods retain their exact source identities beside the Phi discussion.
+
+## Emergence and correlation from Systems
+
+The connected Systems review adds two shared roots that philosophical inquiry had left open. `harusi` names a whole-level pattern arising through component interactions, and `hosari` names variables differing together across stated observations. A correlation supplies no cause; emergence supplies no mystery. Both words leave room for a `hoshemi` hypothesis and the evidence that may trouble or support it.
+
+| Phi | Working sense | Essential contrast |
+|---|---|---|
+| `harusi` | emergence; whole-level pattern arising through component interaction | Becoming and growth may occur without producing a pattern at the level of the whole. Novelty alone also falls short. |
+| `hosari` | correlation; variables differing together across observations | A trend follows one ordered series; `ka` states cause. Correlation relates variables without becoming either one. |
 
 ## Rights and conscience
 

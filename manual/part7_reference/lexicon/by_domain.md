@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (309)
+## activity (312)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -103,6 +103,7 @@
 | `napako` | bake | cooking food through surrounding dry heat |
 | `naphe` | help | adding effort or action that makes something easier to carry through |
 | `naphelu` | assistive | a device or practice supporting a chosen action |
+| `naropu` | feedforward | a control relation acting from an observed or expected input before output returns |
 | `nashaku` | enforce | applying authority or procedure in relation to compliance |
 | `natu` | pull | exerting force through a drawing action or held connection |
 | `naweri` | refuse | declining participation, an offer, or a proposed course |
@@ -155,6 +156,7 @@
 | `phoa` | do | general deliberate action when no narrower manner or result is being named |
 | `pholeni` | depart | leaving a current place or setting |
 | `phora` | sail | equipment used in travel by wind |
+| `phoselu` | power | rate of energy transfer or conversion in a process |
 | `phowe` | share | making something available for use with others |
 | `phurewa` | sweep | moving loose material with repeated brush strokes |
 | `phurilo` | broom | an instrument used in sweeping |
@@ -200,6 +202,7 @@
 | `selu` | flow | continuous movement treated as an ongoing process |
 | `seluto` | pour | directing material out of a container |
 | `seluwhe` | outage | cessation or inadequate provision of a technical function |
+| `sephaki` | current | movement of electric charge through a material or space |
 | `sepho` | send | causing someone or something to travel away towards a destination |
 | `sephori` | supply | making a resource available for practical use |
 | `seru` | commit | undertaking to follow a stated course of action |
@@ -401,11 +404,12 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `woraka` | appreciate | positive recognition of a sensory or artistic quality |
 
-## cognition (241)
+## cognition (246)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `halemu` | remember | past experience or knowledge retained in or returned to present memory |
+| `harusi` | emergence | a system-level relation proposed and assessed through component interactions |
 | `hea` | hear | sound arriving in perception |
 | `hekawi` | find | recognising that the sought or discovered thing has been found |
 | `helui` | change | revision of a belief, interpretation, or mental state |
@@ -416,6 +420,7 @@
 | `hiru` | intuit | a judgement or expectation arising without consciously followed reasoning |
 | `hisaro` | clinical finding | a method-bounded observation available for interpretation |
 | `hisophi` | contaminant | an agent classified relative to a stated expected condition |
+| `hosari` | correlation | an observed relation of covariation kept distinct from causal explanation |
 | `hoshemi` | hypothesis | a proposed explanation or relation examined against evidence |
 | `kanelu` | err | a mistake made in thought, memory, judgement, or understanding |
 | `kanu` | choose | settling on one alternative from those considered or available |
@@ -472,6 +477,7 @@
 | `murethi` | impairment | a stated difference in cognitive function |
 | `muro` | stubborn | resistance to reconsidering a position or judgement |
 | `nai` | be | identity, classification, and attributed states |
+| `naropu` | feedforward | anticipatory control whose information and uncertainty remain explicit |
 | `nasholu` | rule | a stated normative prescription with conditions and scope |
 | `natheri` | entail | a necessary truth-preserving relation between propositions |
 | `nathoku` | contraindicated | a sourced clinical judgement about a proposed intervention |
@@ -526,6 +532,7 @@
 | `porua` | purpose | an intended use or end held in thought before or during action |
 | `poruli` | efficient | an assessment whose result depends on selected inputs, outputs, and boundaries |
 | `pothu` | stink | a contextual judgement that an odour is strongly unpleasant |
+| `poweshi` | voltage | a named technical parameter used to interpret an electrical record |
 | `pula` | wish | representing an outcome as desired without asserting its likelihood |
 | `pushali` | overload | information or sensory input exceeding current processing capacity |
 | `relo` | symbol | a form understood through a representative relation |
@@ -646,6 +653,7 @@
 | `winora` | plan | forming a revisable arrangement for an undertaking |
 | `wireki` | prognosis | a conditional inference about a health course |
 | `woraka` | appreciate | attention that recognises value in a person, act, thing, or condition |
+| `wuneri` | variable | a selected feature used in models, records, tests, and comparisons |
 
 ## communication (133)
 
@@ -1143,7 +1151,7 @@
 | `norelu` | form | a definite structure coming into existence |
 | `norupe` | spoon | a handled tool ending in a shallow bowl |
 | `nowiso` | interface | a designed means through which systems or components interact |
-| `nurako` | railway | The iron road, before the turning |
+| `nurako` | railway | a built route and connected infrastructure made for rail vehicles |
 | `palowe` | shoe | footwear shaped or assembled for use against a walking surface |
 | `pelua` | paper | pressed fibre formed into sheets for writing, wrapping, filtering, or construction |
 | `phaliso` | network | a designed arrangement of connected devices, places, or services |
@@ -1364,12 +1372,13 @@
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 | `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
-## nature (242)
+## nature (244)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `haowu` | air | the atmospheric medium around living places and weather |
 | `harisu` | desert | a long-term arid region with sparse or specially adapted life |
+| `harusi` | emergence | whole-level patterns arising through ecological relations |
 | `hasumi` | tea | plant material selected and prepared for an infusion |
 | `hemilo` | honey | a substance produced by bees from gathered plant material |
 | `hemoko` | bee | a winged insect commonly associated with flowers across solitary and social species |
@@ -1568,6 +1577,7 @@
 | `thepalu` | garden | tended ground where plants and other life are deliberately supported |
 | `theriko` | frost | ice crystals formed on exposed surfaces under freezing conditions |
 | `thero` | fire | combustion occurring in landscapes or weather-shaped conditions |
+| `thewaki` | electricity | physical phenomena associated with electric charge in natural and built settings |
 | `thinoe` | seed | a plant reproductive structure containing an embryo |
 | `thiwera` | scatter | seed, light, or organisms dispersed through a living place |
 | `thokaru` | volcano | a landform and vent produced by material rising from within a planetary body |
@@ -1611,7 +1621,7 @@
 | `wosanu` | absorb | soil or a living body taking in water or another material |
 | `wotami` | shrub | a usually low woody plant with several stems near the ground |
 
-## physical (494)
+## physical (499)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1898,6 +1908,7 @@
 | `phoka` | lens | a shaped transparent object that bends light |
 | `pholuo` | luminous | a source or material that emits, transmits, or appears suffused with light |
 | `phora` | sail | cloth or another surface placed in moving air |
+| `phoselu` | power | a technical relation between energy and time |
 | `phowe` | share | making a material thing available to several users |
 | `phulae` | mouth | the opening and cavity used for eating, drinking, breathing, and speech |
 | `phunelo` | sap | a plant liquid whose composition and movement vary |
@@ -1915,6 +1926,7 @@
 | `porewi` | side effect | a bodily effect beyond an intervention's stated target |
 | `pothu` | stink | a strong odour emitted from a source and received through the nose |
 | `powea` | egg | a protected structure that may contain nourishment and a developing embryo |
+| `poweshi` | voltage | electrical potential difference between two stated points |
 | `pukate` | break | complete loss of wholeness in an object or material |
 | `pukea` | danger | possible bodily or material harm under the conditions being discussed |
 | `pukeri` | damage | adverse change to the condition or function of a tangible thing |
@@ -1931,6 +1943,7 @@
 | `reshi` | fast | a high rate of bodily or material movement |
 | `rewa` | oar | a long water-moving tool with a flattened blade |
 | `rihe` | rise | a body or material becoming higher |
+| `rishonu` | charge | a property of matter involved in electrical interaction and current |
 | `roela` | scroll | a sheet or strip stored by winding it around itself or a support |
 | `roena` | copper | a conductive metallic element with characteristic colour and patina |
 | `rohemi` | wear down | gradual alteration of a surface or working condition through repeated exposure |
@@ -1953,6 +1966,7 @@
 | `selu` | flow | fluid or loose matter passing continuously |
 | `seluto` | pour | a controlled flow across the lip of a vessel |
 | `seniku` | smile | the bodily movement that forms a smile |
+| `sephaki` | current | an electrical flow distinct from the energy it may transfer |
 | `sepho` | send | dispatching a material object for transport |
 | `seroli` | mature | ripeness or full bodily development |
 | `sewaro` | transmit | passage between hosts, reservoirs, or environments |
@@ -2023,6 +2037,7 @@
 | `therilu` | rest | rest of a body or bodily capacity |
 | `thero` | fire | a heat-producing combustion phenomenon |
 | `theru` | thick | substantial material thickness, density, or viscosity |
+| `thewaki` | electricity | electrical effects produced by the presence or movement of charge |
 | `thewuni` | legible | reading made possible under visual or tactile conditions |
 | `thiku` | small | small overall size or amount relative to the immediate comparison |
 | `thinu` | put | moving and releasing a body or object into place |
@@ -2110,11 +2125,12 @@
 | `wosanu` | absorb | material entering and remaining within a body or substance |
 | `wuloe` | soft | a yielding texture or contact that cushions pressure |
 
-## quantity (37)
+## quantity (42)
 
 | Word | Gloss | In this domain |
 |---|---|---|
 | `hirawo` | distance | a measurable separation between two spatial referents |
+| `hosari` | correlation | a relation assessed across stated observations or cases |
 | `kelai` | equals | equality between quantities or the result of a calculation |
 | `kesiri` | shrink | an overall size or volume becoming smaller |
 | `kolo` | equal | sameness in a stated amount, measure, or rank |
@@ -2133,9 +2149,12 @@
 | `phanoi` | portion | relating a total to a number of groups and the resulting quotient |
 | `pheno` | full | contents reaching the capacity relevant to the present comparison |
 | `phoi` | nine-group | the nine scale used in exact and approximate enumeration |
+| `phoselu` | power | a rate whose exact value and unit remain in a source record |
 | `ponalu` | size | overall extent treated as a dimension for comparison or measurement |
+| `poweshi` | voltage | a parameter whose exact value remains in its source notation |
 | `raeli` | height | a measurable vertical extent |
 | `rei` | eighty-one-group | the eighty-one scale used in exact and approximate enumeration |
+| `rishonu` | charge | a technical property whose exact amount and sign may be recorded |
 | `shao` | three-group | the three scale used in exact and approximate enumeration |
 | `sharoi` | exceed | one amount standing above another amount or threshold |
 | `sholei` | gather | addition expressed as the combination of commensurable quantities |
@@ -2151,6 +2170,7 @@
 | `whemoa` | empty | no contents or occupants within the boundary being considered |
 | `whoa` | whole | all relevant parts included in the total under discussion |
 | `wi` | two | the exact quantity two and the coefficient two in ternary numerals |
+| `wuneri` | variable | a named quantity that may take different recorded values |
 
 ## ritual (27)
 
@@ -2184,7 +2204,7 @@
 | `whekelu` | magic | magic described within a personal or inherited practice |
 | `whunei` | breathe | breath used as an observable object in meditation practice |
 
-## spatial (179)
+## spatial (180)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2265,6 +2285,7 @@
 | `nowiso` | interface | a boundary or contact location across which exchange occurs |
 | `nuawe` | together | people or things present together in one place |
 | `nulo` | deep | substantial distance inward or downward from a reference surface |
+| `nurako` | railway | a fixed path linking places by rail |
 | `nuroa` | kitchen | a room or area identified by food preparation |
 | `nusho` | depth | distance inward or downward from a reference surface |
 | `pareshi` | cliff | a sharp vertical change between higher and lower terrain |

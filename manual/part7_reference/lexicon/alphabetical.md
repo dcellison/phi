@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1261 words.*
+*1270 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -19,6 +19,7 @@
 | `haowu` | air | /hä.ˈo̞.wu/ | noun |
 | `harisu` | desert | /hä.ˈri.su/ | noun |
 | `haromi` | meet | /hä.ˈro̞.mi/ | verb |
+| `harusi` | emergence | /hä.ˈru.si/ | noun |
 | `hasenu` | recess | /hä.ˈse̞.n̪u/ | noun |
 | `hasi` | wait | /ˈhä.si/ | verb |
 | `hasoru` | pending | /hä.ˈso̞.ru/ | adjective |
@@ -66,6 +67,7 @@
 | `horae` | radiant | /ho̞.ˈrä.e̞/ | adjective |
 | `horathe` | dawn | /ho̞.ˈrä.θe̞/ | noun |
 | `horuma` | thunder | /ho̞.ˈru.mä/ | noun |
+| `hosari` | correlation | /ho̞.ˈsä.ri/ | noun |
 | `hoshemi` | hypothesis | /ho̞.ˈʃe̞.mi/ | noun |
 | `howai` | evening | /ho̞.ˈwä.i/ | noun |
 | `howela` | receive | /ho̞.ˈwe̞.lä/ | verb |
@@ -455,6 +457,7 @@
 | `naphelu` | assistive | /n̪ä.ˈɸe̞.lu/ | adjective |
 | `napuro` | grain | /n̪ä.ˈpu.ro̞/ | noun |
 | `naremu` | guilt | /n̪ä.ˈre̞.mu/ | noun |
+| `naropu` | feedforward | /n̪ä.ˈro̞.pu/ | noun |
 | `naseru` | obligation | /n̪ä.ˈse̞.ru/ | noun |
 | `nashaku` | enforce | /n̪ä.ˈʃä.ku/ | verb |
 | `nasholu` | rule | /n̪ä.ˈʃo̞.lu/ | noun |
@@ -688,6 +691,7 @@
 | `pholuo` | luminous | /ɸo̞.ˈlu.o̞/ | adjective |
 | `phomila` | offspring | /ɸo̞.ˈmi.lä/ | noun |
 | `phora` | sail | /ˈɸo̞.rä/ | noun |
+| `phoselu` | power | /ɸo̞.ˈse̞.lu/ | noun |
 | `phou` | BELOW | /ˈɸo̞.u/ | preposition |
 | `phowe` | share | /ˈɸo̞.we̞/ | verb |
 | `phue` | wise | /ˈɸu.e̞/ | adjective |
@@ -722,6 +726,7 @@
 | `poruli` | efficient | /po̞.ˈru.li/ | adjective |
 | `pothu` | stink | /ˈpo̞.θu/ | verb |
 | `powea` | egg | /po̞.ˈwe̞.ä/ | noun |
+| `poweshi` | voltage | /po̞.ˈwe̞.ʃi/ | noun |
 | `pukate` | break | /pu.ˈkä.t̪e̞/ | verb |
 | `pukea` | danger | /pu.ˈke̞.ä/ | noun |
 | `pukeri` | damage | /pu.ˈke̞.ri/ | verb |
@@ -763,6 +768,7 @@
 | `rinu` | want | /ˈri.n̪u/ | verb |
 | `riola` | labor | /ri.ˈo̞.lä/ | verb |
 | `riporu` | task | /ri.ˈpo̞.ru/ | noun |
+| `rishonu` | charge | /ri.ˈʃo̞.n̪u/ | noun |
 | `ritako` | workload | /ri.ˈt̪ä.ko̞/ | noun |
 | `ro` | HAB | /ˈro̞/ | particle |
 | `roa` | AROUND | /ˈro̞.ä/ | preposition |
@@ -814,6 +820,7 @@
 | `senalu` | style | /se̞.ˈn̪ä.lu/ | noun |
 | `senao` | same | /se̞.ˈn̪ä.o̞/ | adjective |
 | `seniku` | smile | /se̞.ˈn̪i.ku/ | verb |
+| `sephaki` | current | /se̞.ˈɸä.ki/ | noun |
 | `sepho` | send | /ˈse̞.ɸo̞/ | verb |
 | `sephori` | supply | /se̞.ˈɸo̞.ri/ | verb |
 | `serao` | old | /se̞.ˈrä.o̞/ | adjective |
@@ -1050,6 +1057,7 @@
 | `thesori` | evidence | /θe̞.ˈso̞.ri/ | noun |
 | `thesua` | mindful | /θe̞.ˈsu.ä/ | adjective |
 | `theula` | UNIV | /θe̞.ˈu.lä/ | quantifier |
+| `thewaki` | electricity | /θe̞.ˈwä.ki/ | noun |
 | `thewuni` | legible | /θe̞.ˈwu.n̪i/ | adjective |
 | `thia` | 2SG | /ˈθi.ä/ | pronoun |
 | `thiku` | small | /ˈθi.ku/ | adjective |
@@ -1270,3 +1278,4 @@
 | `wotami` | shrub | /wo̞.ˈt̪ä.mi/ | noun |
 | `wuero` | far (adj) | /wu.ˈe̞.ro̞/ | adjective |
 | `wuloe` | soft | /wu.ˈlo̞.e̞/ | adjective |
+| `wuneri` | variable | /wu.ˈn̪e̞.ri/ | noun |

@@ -8,13 +8,23 @@
     "lu"
   ],
   "pos": "noun",
-  "concept": "Specification / Explicit Set of Technical Requirements",
-  "description": "An explicit set of technical requirements. A specification states what is required; the exact values, wording, and version belong in the source record, and meeting the requirements says nothing yet about whether they were wise ones.",
-  "sound_symbolism": "Crisp 'ki' places one bright point before the rest of the word unfolds. Stressed 'sho' spreads a soft hush into round 'o' and widens that point into a field. 'Lu' releases the tongue, lets the field continue in deep 'u', and joins exact contact, broad quiet, and liquid continuation in a set with both detail and extent.",
-  "grammatical_notes": "A countable noun: 'ha kisholu ha henora thelima.' (This specification describes the capacity.) Preserve exact values, units, identifiers, versions, standards, and quoted requirements in a separate source record. A system satisfies a specification with ordinary 'heno'; this does not itself certify compliance. Distinct from 'kirema' (criterion), 'norae' (method), and 'kirothe' (define).",
+  "search_terms": [
+    "technical specification",
+    "technical requirements"
+  ],
+  "description": "A 'kisholu' is an explicit set of technical requirements for an artifact, process, or service. It can say what a bridge must carry or how a component must fit. 'kirema' is one criterion, 'norae' a method, and 'kirothe' the act of defining; a specification gathers those requirements. Whether they are current and legitimate remains open.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'. Raise the tongue blade behind the alveolar ridge for stressed unvoiced 'sh', pass air along the groove, and round into true-mid back 'o'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and finish with high rounded back 'u'.",
+  "sound_symbolism": "Crisp 'ki' opens into the wider hush and round vowel of stressed 'sho', then continues through liquid 'lu'. A precise point broadens into a set and leaves room for more than one requirement.",
+  "usage_notes": "The noun is countable. Exact values, units, identifiers, and versions remain in the source record, along with any quoted requirement. Ordinary 'heno' can say that a system satisfies a specification. Certification and safety require their own grounds.",
+  "examples": [
+    {
+      "phi": "ha kisholu ha henora thelima.",
+      "translation": "This specification describes the capacity."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Open specifications can make shared infrastructure understandable and repairable while leaving authorship, authority, access, and consequences open to challenge.",
-    "peace-linguistics-practices": "Separating a written requirement from authority and compliance prevents technical language from turning an instruction into unquestionable command."
+    "solarpunk-values": "An open specification can make shared infrastructure easier to inspect and repair. Its authors and consequences remain open to challenge.",
+    "peace-linguistics-practices": "A requirement can be quoted without turning its technical wording into unquestionable command."
   },
   "semantic_domains": {
     "cognition": "a reference against which properties and performance may be assessed",

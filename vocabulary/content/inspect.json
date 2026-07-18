@@ -8,12 +8,22 @@
     "ki"
   ],
   "pos": "verb",
-  "concept": "Inspect / Systematically Examine Condition Against Criteria",
-  "description": "To systematically examine a condition against stated criteria. Inspecting is looking and comparing; it repairs nothing, certifies nothing, and guarantees no safety on its own.",
-  "sound_symbolism": "'Ni.la' preserves the complete sound of 'nila' (see), from a close dental nasal into the broad stressed release of 'la'. The gaze seems to travel with that liquid middle. A brief velar contact and focused 'i' finish 'ki', like the eye stopping on one detail after a slow sweep.",
-  "grammatical_notes": "A transitive verb: 'mia ha terura nilaki.' (I inspect this system.) Name the criteria, method, scope, findings, and source authority separately when they matter. The event-noun rule supplies inspection. Distinct from 'nila' (see), 'morae' (sense), 'masue' (measure), 'masuro' (calibrate), and approval for service.",
+  "search_terms": [
+    "inspection",
+    "technical examination"
+  ],
+  "description": "To 'nilaki' is to examine a condition systematically against stated criteria. Looking at a wheel may reveal a crack; inspecting it also asks which parts, methods, and criteria the examination covers. Inspection ends with findings against that scope. Repairing the wheel or certifying it requires another act.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and move into high-front unrounded 'i'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and open into stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'.",
+  "sound_symbolism": "The full sound of 'nila' (see) leads into the small, crisp stop of final 'ki'. A broad visual sweep seems to end on one detail without making careful looking equivalent to the whole inspection.",
+  "usage_notes": "The verb is transitive, and its event noun is inspection. Criteria, method, scope, findings, and source authority can be named separately. 'nila' is seeing, 'morae' sensing, 'masue' measuring, and 'masuro' calibrating.",
+  "examples": [
+    {
+      "phi": "mia ha terura nilaki.",
+      "translation": "I inspect this system."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Inspection practices deliberate attention while keeping observation separate from certainty, judgment, and permission.",
+    "secular-buddhist-philosophy": "Inspection asks for deliberate attention and keeps close observation apart from the judgment or permission that may follow.",
     "pre-industrial-wisdom": "Careful examination before and after work joins embodied observation to explicit standards of craft and upkeep."
   },
   "semantic_domains": {

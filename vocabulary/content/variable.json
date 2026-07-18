@@ -1,0 +1,34 @@
+{
+  "word": "wuneri",
+  "gloss": "variable",
+  "ipa": "/wu.ˈn̪e̞.ri/",
+  "syllables": [
+    "wu",
+    "ne",
+    "ri"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "changing parameter",
+    "model variable"
+  ],
+  "description": "A 'wuneri' is a named feature or quantity allowed to take different values in a model, record, test, or control process. River height may be one variable and pump state another. The noun identifies what may vary. Its value and measurement method belong in the record; cause and importance belong in the analysis.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then continue into high rounded back 'u'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and move into stressed true-mid front unrounded 'e'. Make a tap or short trill with the tongue tip and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "Rounded 'wu' changes shape at the dental centre of stressed 'ne' and ends with the quick tongue movement of 'ri'. Each syllable uses a different contact, and the spoken form feels quietly changeable.",
+  "usage_notes": "The noun is countable. An account should identify the system or model, the feature represented, and the relevant observations or values. Exact symbols, data, units, and formulas stay with their source. A changing feature becomes a variable when a model, test, record, or control process selects it. Covariation alone supplies no cause.",
+  "examples": [
+    {
+      "phi": "ha wuneri to helui.",
+      "translation": "This variable changed."
+    }
+  ],
+  "semantic_domains": {
+    "cognition": "a selected feature used in models, records, tests, and comparisons",
+    "quantity": "a named quantity that may take different recorded values"
+  },
+  "modules": [
+    "ecological-systems-and-material-life",
+    "medical-and-bodily-care",
+    "systems-and-shared-infrastructure"
+  ]
+}

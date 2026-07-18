@@ -8,13 +8,23 @@
     "wi"
   ],
   "pos": "noun",
-  "concept": "Signal / Detectable Variation Carrying Information",
-  "description": "A detectable variation carrying information. A signal points at something, a state, an event, but reading it correctly, and knowing whether it is even reliable evidence, are steps that come after detecting it.",
-  "sound_symbolism": "'Ki.ro' repeats the full sound of 'kiro' (precise). It begins at a bright velar point and rolls through stressed round 'ro'. Final 'wi' glides from rounded lips into narrow 'i'. The signal starts as a distinct mark and then travels, its path audible in the move from stop to roll to glide.",
-  "grammatical_notes": "A countable or mass noun: 'ha kirowi ha terura mirela shelo.' (This signal indicates the system's state.) Name the source, medium, recipient, and interpretation separately where needed. Distinct from 'kiroa' (communicating sign), 'siru' (marker), 'shane' (tell), and 'thesori' (evidence).",
+  "search_terms": [
+    "technical signal",
+    "encoded variation"
+  ],
+  "description": "A 'kirowi' is a detectable variation interpreted as carrying information. A change in tone may indicate a pump's state, though hearing the tone does not prove the interpretation correct. 'kiroa' is a communicative sign, 'siru' a marker, and 'thesori' evidence offered for a claim.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'. Make a tap or short trill with the tongue tip and round into stressed true-mid back 'o'. Round the lips and raise the back of the tongue for voiced 'w', then unround and finish with high-front 'i'.",
+  "sound_symbolism": "'kiro' (precise) is heard before final 'wi' moves from rounded lips into a narrow bright vowel. The form begins at a distinct point and then travels, a useful audible image for a signal without promising precision.",
+  "usage_notes": "The noun may be countable or mass. Its source and medium belong in the account, as do the recipient, timing, and interpretation. Receiving a signal establishes only that it arrived. Its meaning, reliability, and any directive force come from the surrounding relation.",
+  "examples": [
+    {
+      "phi": "ha kirowi ha terura mirela shelo.",
+      "translation": "This signal indicates the system's state."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Understandable signals support inspectable infrastructure whose states can be noticed and discussed by the people affected.",
-    "peace-linguistics-practices": "A signal can be received without being treated as an order, a shared meaning, or proof, preserving room for interpretation and repair."
+    "peace-linguistics-practices": "A signal may arrive without being understood or obeyed. Reception is not consent."
   },
   "semantic_domains": {
     "cognition": "a detectable variation interpreted as carrying information",
