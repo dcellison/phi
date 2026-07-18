@@ -20,7 +20,7 @@ one finger circle UNIV person coerce.
 (One finger-ring coerces all people.)
 ```
 
-`kawhera` does not translate the office. It accuses the act. The word means constraining practical choice through power or threat, and its lexicon entry asks for the demand, the real alternatives, and the affected person's account. In the verse, universal domination supplies the evidence. In an ordinary dispute, the label would still need to be earned.
+`kawhera` does not translate the office. It accuses the act. The word means closing practical alternatives through power or threat. In the verse, universal domination supplies the evidence. In an ordinary dispute, the claim still has to answer to the demand, the power behind it, the alternatives that remained, and the affected person's account.
 
 The last source verb receives the same treatment. Phi has `tiwa` for tying with cord and `nolami` for the mutual connection people form through experience and care. The transmutation extends the bodily cord verb into Tolkien's darkness because the Ring imposes a fastening; it does not create a relationship. Calling that act a bond would make subjugation sound reciprocal. The gentler word would be the less truthful one.
 

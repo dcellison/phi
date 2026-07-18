@@ -6,10 +6,10 @@ This snapshot was first assembled after pull request #418 merged on 17 July 2026
 
 The roadmap's current sequence is not an invitation to choose among several equal tasks. It records one active path:
 
-1. SEM-09D: inspect active Phi passages now that the whole lexicon is target-shaped.
+1. SEM-09D: continue the text shelf with The North Wind and the Sun, then inspect the remaining active Phi passages.
 2. PED-08: resume the book at chapter 7.
 
-D044 completed the base-first boundary, and D045 through D052 completed all eight learning paths in their historical order. The full migration now reads under one editorial judgement and voice. SEM-09D is therefore unblocked; its job is to judge passages in context, not to replace every transparent composition merely because a direct word exists.
+D044 completed the base-first boundary, and D045 through D052 completed all eight learning paths in their historical order. The full migration now reads under one editorial judgement and voice. SEM-09D began with Schleicher's fable. That pilot preserved every Phi line after checking later base roots and optional terms, while D053 repaired `kawhera` and `pilora` after their target prose proved narrower than their validated animal uses.
 
 ## Lexicon migration counts
 
@@ -79,7 +79,7 @@ All eight profiles already have canonical JSON membership, a generated module in
 
 The literary shelf has completed its full review against the current lexicon. It contains nine close translations and eleven transmutations; seven works have both. *News from Nowhere* is one 32-chapter work with the first three chapters transmuted and reviewed. The current review record is [`documents/evaluation/active_text_corpus_review.md`](../../documents/evaluation/active_text_corpus_review.md).
 
-SEM-09D can now begin. It is not a blind replacement pass. The sweep covers the book, manual, primer, pamphlets, texts, and current documents for paraphrases or workarounds involving vocabulary added or clarified during the completed migration. A Phi passage changes only when the current form is more faithful or natural there. A transparent composition stays when its parts still teach or express the thought better, and every changed sentence and dependency receives validation.
+SEM-09D is in progress. The sweep begins with the text shelf, one work per pull request, before moving through the book, manual, primer, pamphlets, and current documents. The North Wind and the Sun is next as a mostly base-vocabulary control after the module-crossing Schleicher review. A Phi passage changes only when the current form is more faithful or natural there. A transparent composition stays when its parts still teach or express the thought better, and every changed sentence and dependency receives validation.
 
 The shelf's method distinction remains settled:
 
