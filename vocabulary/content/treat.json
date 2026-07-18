@@ -8,18 +8,28 @@
     "ru"
   ],
   "pos": "verb",
-  "concept": "Treat / Undertake Care Intended to Change a Health Condition",
-  "description": "To undertake care meant to change a health condition, whether through medicine, therapy, support, or a changed environment. The verb carries the intention and nothing more; whether the treatment helps, and whether the person consents to it, are questions it leaves open.",
-  "sound_symbolism": "Balanced 'ne' begins with the tongue resting at the teeth. In stressed 'pho', unvoiced breath moves between the lips and rounds into a fuller chamber. Final 'ru' answers with a tongue roll and deep 'u'. Roundness and depth increase from one syllable to the next.",
-  "grammatical_notes": "A transitive or intransitive verb: 'shia mia nephoru.' (They treat me.) State the condition or aim, proposed action, source, consent, alternatives, monitoring, and result where relevant. The event-noun rule supplies treatment. Distinct from 'theama' (care), 'theala' (heal), 'nepha' (medicine), 'thekamu' (intervene), and 'helanu' (recover).",
+  "search_terms": [
+    "provide treatment",
+    "treat health condition"
+  ],
+  "description": "A person or care team 'nephoru' when they undertake care intended to change a health condition or its course. Medicine and therapy can form part of treatment, as can practical support or a changed environment. The verb records the intention; benefit, cure, authority, and the person's consent remain separate questions.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and move into true-mid front unrounded 'e'. Bring the lips close without involving the teeth for unvoiced bilabial 'ph', let air pass between them, and round into stressed true-mid back 'o'. Make a tap or short trill with the tongue tip and finish with high-back rounded 'u'.",
+  "sound_symbolism": "The dental nasal and bilabial breath at the opening give 'nephoru' an audible kinship with 'nepha' (medicine). The resemblance suits their close relation while the longer contour leaves treatment broader than a medicinal preparation.",
+  "usage_notes": "The person or condition can be the object, or the verb can stand intransitively when the course is already known. The event-noun rule supplies treatment. 'theama' (care) is broader practical attention, while 'thekamu' (intervene) includes diagnostic and other acts without a treatment aim.",
+  "examples": [
+    {
+      "phi": "shia mia nephoru.",
+      "translation": "They treat me."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Treatment is an intentional response to suffering and conditions, not a guarantee that all suffering can or should be eliminated.",
-    "peace-linguistics-practices": "Separating treatment from consent, cure, and authority keeps care actions available for evaluation and refusal."
+    "secular-buddhist-philosophy": "Treatment responds intentionally to suffering and conditions without promising that every difficulty can be removed.",
+    "peace-linguistics-practices": "Treatment stays separate from consent and authority, so a proposed course remains available for evaluation or refusal."
   },
   "semantic_domains": {
     "activity": "care intended to alter a health condition or course",
-    "community": "an intervention relation among a person and care participants",
-    "physical": "an action directed toward bodily or health change"
+    "community": "a treatment relation among a person and care participants",
+    "physical": "an action directed towards bodily or health change"
   },
   "modules": [
     "medical-and-bodily-care"

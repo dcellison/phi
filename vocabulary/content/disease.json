@@ -8,12 +8,22 @@
     "nu"
   ],
   "pos": "noun",
-  "concept": "Disease / Classified Pattern or Process Affecting Health",
-  "description": "A classified pattern or process affecting health, sourced from wherever the classification comes from. The exact disease name and its criteria belong in the record beside the Phi when precision matters, and the classification is never mistaken for the person who has it.",
-  "sound_symbolism": "'Mo' begins in a low nasal hum behind closed lips. The stressed velar release of 'ka' breaks that enclosure and opens the word wide. Final 'nu' returns to nasal resonance at the teeth and settles into deep 'u'. Open only in its middle, the sound closes lower than it began.",
-  "grammatical_notes": "A countable or mass noun according to context: 'ha mokanu nurawi nai.' (This disease is chronic.) Preserve the exact disease name and classification outside Phi when source identity matters. Distinct from 'mokela' (sick), 'phamori' (symptom), 'peshiro' (infection), 'kithero' (diagnose), and disability.",
+  "search_terms": [
+    "classified illness",
+    "disease process"
+  ],
+  "description": "A 'mokanu' is a classified pattern or process affecting health under a source's criteria. The exact disease name and classification stay in that source record when identity or precision matters. 'mokela' (sick) is an ordinary report of illness without a diagnosis, and neither word turns the condition into the person.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the sound through the nose, and open into true-mid rounded back 'o'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed open central 'a'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with high-back rounded 'u'.",
+  "sound_symbolism": "The nasal opening and following velar stop also begin 'mokela' (sick). Their audible kinship keeps classified disease near ordinary sickness without making the two words synonyms.",
+  "usage_notes": "Counted 'mokanu' selects a classified disease. Bare use presents disease as a process. Symptoms and infection may enter its account, but disability keeps its social relation. Diagnosis and prognosis do different clinical work. A disputed or source-specific category keeps its original label and criteria beside the Phi discussion.",
+  "examples": [
+    {
+      "phi": "ha mokanu nurawi nai.",
+      "translation": "This disease is chronic."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Separating a disease category from a person, symptom, disability, and moral judgment reduces stigmatizing inference and keeps contested classifications open to examination."
+    "peace-linguistics-practices": "A disease category remains open to examination and cannot replace the person or decide their social worth."
   },
   "semantic_domains": {
     "cognition": "a health classification under stated criteria and source",

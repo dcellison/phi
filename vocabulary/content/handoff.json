@@ -8,16 +8,25 @@
     "ni"
   ],
   "pos": "verb",
-  "concept": "Handoff / Transfer the Next Stage of Work",
-  "description": "To pass the next stage of work to other hands: a piece, an information set, a control relation. A good handoff says what moved and in what state, because the verb does not promise that the piece, the knowledge, and the responsibility all traveled together, or that the recipient accepted what arrived.",
-  "sound_symbolism": "'Se' opens with a fine hiss; in stressed 'tho', the airflow shifts to the teeth and rounds into 'o'. Final 'ni' keeps the tongue forward but changes breath into nasal resonance before it lifts to bright 'i'. The word crosses the same dental region in two different ways and settles lightly.",
-  "grammatical_notes": "A transitive verb: 'mia wei thia ha riporu sethoni.' (I hand the task off to you.) Use 'wei' for the recipient and state the transferred scope and condition where needed. The event-noun rule supplies a handoff. Distinct from 'sekaru' (transfer), 'loa' (give), 'loatho' (delegate), and 'howela' (receive).",
+  "search_terms": [
+    "hand over work",
+    "transfer responsibility"
+  ],
+  "description": "To 'sethoni' is to pass a bounded piece of work, care, or responsibility from one participant to another at a transition. A handoff can include records and unresolved needs, but the receiving person still has to acknowledge what arrived and accept any responsibility. General 'sekaru' (transfer) moves something between holders or places; a handoff centres continuity between stages.",
+  "articulatory_notes": "Send unvoiced air through a narrow groove along the tongue for 's', then move into true-mid front unrounded 'e'. Rest the tongue tip lightly against the upper teeth for unvoiced 'th', pass air along it, and round the lips into stressed true-mid back 'o'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with high-front unrounded 'i'.",
+  "usage_notes": "With the work or care as its object, 'sethoni' uses 'wei' to introduce the recipient. Noun 'sethoni' names a handoff. In care, unanswered questions travel with the source record; passing them on proves neither understanding nor acceptance.",
+  "examples": [
+    {
+      "phi": "mia wei thia ha riporu sethoni.",
+      "translation": "I hand the task off to you."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Reliable maintenance depends on visible transitions between people and stages, especially when knowledge and responsibility are distributed.",
-    "peace-linguistics-practices": "Separating a handoff from acceptance and obligation prevents a speaker from treating the act of passing work onward as proof that another person agreed to carry it."
+    "solarpunk-values": "Distributed maintenance depends on transitions that keep unfinished work and practical knowledge visible.",
+    "peace-linguistics-practices": "A handoff does not quietly assign obligation: receipt and acceptance remain further acts."
   },
   "semantic_domains": {
-    "activity": "transferring a bounded stage of work",
+    "activity": "transferring a bounded stage of work or care",
     "community": "a transition between participants without implied acceptance",
     "temporal": "movement from one stage or custodian to the next"
   },

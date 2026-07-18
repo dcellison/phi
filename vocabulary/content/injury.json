@@ -8,15 +8,24 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Injury / Bodily Change or Damage Associated With an Event or Exposure",
-  "description": "Bodily change or damage tied to an event, a force, a strain, or an exposure. The word names the change itself and stops there: who caused it, how much it hurts, and what recovery will look like are each their own question, left open on purpose.",
-  "sound_symbolism": "Firm 'ka' strikes at the velum and opens broadly. Stressed 'wo' gathers the middle at rounded lips before final 'ru' turns the tongue into deep 'u'. Hard at first, the sound passes through a full chamber and reaches a darker rolling close.",
-  "grammatical_notes": "A countable or mass noun according to context: 'mia kaworu phelu.' (I have an injury.) State the bodily location, event or exposure, time, evidence, uncertainty, and person's report where relevant. Distinct from 'kipona' (pain), 'peloma' (harmful), 'pukate' (break), 'mokanu' (disease), and 'kiphira' (fault).",
+  "search_terms": [
+    "bodily injury",
+    "physical trauma"
+  ],
+  "description": "A 'kaworu' is damage or a health-relevant change in the body associated with an event or exposure. An injury may hurt, remain unnoticed, heal, or leave a lasting change. 'kipona' (pain) reports an experience, while injury reports the bodily change; cause and responsibility need their own evidence.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into open central 'a'. Round the lips and raise the back of the tongue for voiced 'w', then continue into stressed true-mid back rounded 'o'. Make a tap or short trill with the tongue tip and finish with high-back rounded 'u'.",
+  "usage_notes": "Count syntax selects a distinct injury. Without a count, 'kaworu' presents injury as a bodily condition. Location and timing can be added beside the event and the first-person account. A cut or burn can use its ordinary action word with 'kaworu'; a broken bone or strained joint can name the body part and its change.",
+  "examples": [
+    {
+      "phi": "mia kaworu phelu.",
+      "translation": "I have an injury."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Naming bodily harm without encoding blame keeps care, causation, responsibility, testimony, and remedy available as separate questions."
+    "peace-linguistics-practices": "The bodily change can be reported before anyone settles cause, blame, or responsibility for it."
   },
   "semantic_domains": {
-    "physical": "a health-relevant bodily change or damage"
+    "physical": "damage or a health-relevant change in the body"
   },
   "modules": [
     "medical-and-bodily-care"

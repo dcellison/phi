@@ -8,13 +8,21 @@
     "thi"
   ],
   "pos": "noun",
-  "concept": "Impairment / Stated Difference or Limitation in Function",
-  "description": "A stated difference or limitation in bodily, sensory, or cognitive function. It may be temporary, lasting, variable, or understood differently by the person and a source framework. 'murethi' can matter to access, but it does not determine disability or diagnosis by itself.",
-  "sound_symbolism": "Deep 'mu' hums behind closed lips. The stressed roll of 're' lightens the middle, and final 'thi' carries a fine dental breath into bright 'i'. From a low enclosed opening, the word turns once and rises to a thin clear edge.",
-  "grammatical_notes": "A countable or mass noun according to context: 'mia ha murethi thelima.' (I describe this impairment.) The possessor or source may precede it. Distinct from 'sowelu' (disabled), 'mokanu' (disease), 'kaworu' (injury), and a temporary inability stated with 'po ma'.",
+  "search_terms": [
+    "functional limitation",
+    "functional difference"
+  ],
+  "description": "A 'murethi' is a stated difference or limitation in bodily, sensory, or cognitive function. It may be temporary, lasting, or variable, and the person and a clinical source may understand it differently. An impairment can matter to access, while 'sowelu' (disabled) describes the person's relation to barriers and participation rather than a diagnosis supplied by this noun.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the sound through the nose, and open into high-back rounded 'u'. Make a tap or short trill with the tongue tip and move into stressed true-mid front unrounded 'e'. Rest the tongue tip lightly against the upper teeth for unvoiced 'th', pass air along it, and finish with high-front unrounded 'i'.",
+  "usage_notes": "Counted 'murethi' selects one functional difference. Used without a count, it discusses impairment more generally. A possessor or source can precede it when the relation needs to be explicit. A temporary inability may instead be stated directly with possibility and negation.",
+  "examples": [
+    {
+      "phi": "mia ha murethi thelima.",
+      "translation": "I describe this impairment."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "A function can vary across time and conditions without becoming a fixed account of the person who experiences it.",
-    "peace-linguistics-practices": "Separating impairment from disability prevents one functional description from deciding a person's identity, participation, or need for care."
+    "peace-linguistics-practices": "A functional description cannot decide the person's identity, access needs, participation, or wish for care."
   },
   "semantic_domains": {
     "cognition": "a stated difference in cognitive function",

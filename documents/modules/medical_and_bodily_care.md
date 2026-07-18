@@ -69,6 +69,12 @@ The first pass admits 30 optional medical words for recurring distinctions whose
 
 All 30 roots coined in the medical pass and the shared-core consent entry follow the complete vocabulary schema, pass the lexical validator, and have no character edit-distance-one or flagged phonetic neighbors in the pre-coinage audit. The 30 roots carry `medical-and-bodily-care`; `lesawi` deliberately carries no module field and remains in base vocabulary.
 
+## Current prose and completeness
+
+All 31 inherited Medical entries now use the target vocabulary prose contract. The review found no missing concept that deserved another root. Wounds and first aid remain concrete body, material, and care descriptions; examinations keep observation, testing, assessment, and follow-up apart; urgent care states possible harm and available time before triage enters. The module had already made the difficult distinctions. Its chief need was to speak about them like a person rather than a form awaiting seven signatures.
+
+Fourteen new decisions preserve every question raised by the review. Ordinary clauses cover bowel and bladder reports, visible skin changes, chronic and palliative care, care places and roles, emergency communication, and treatment response. Vital signs and named procedures retain exact source records. Sudden loss of consciousness or control has a specific return condition because emergency scenarios may yet earn a direct event word. The existing gates for mental health, reproductive and sexual health, varied anatomy, and exact specialist structures remain open on their stated terms rather than drifting out of memory.
+
 ## Concepts Kept Compositional or External
 
 The pass keeps several expressions compositional because their parts expose information, agency, source, uncertainty, authority, access, or bodily consequence that a single label could hide. Exact categories remain outside Phi when a translated approximation would lose their operative identity or force.
@@ -114,4 +120,4 @@ Use the module in care conversations, health narratives, recovery accounts, sour
 
 Future use should particularly test mental and emotional care, reproductive and sexual health, chronic care outside institutions, emergency communication, uncertain diagnosis, medication changes, disability boundaries, adverse-effect reporting, infection-control support, and public-health disagreement. These are opportunities for careful development, not evidence gates or permission to classify identities and testimony without respectful scenarios.
 
-Once the remaining classification decisions are settled, revisit the existing corpus as a whole. Update a text when expanded vocabulary makes its meaning clearer, safer, more direct, or less evasive; preserve it when the original composition remains natural or when it is intentionally retained as before-state evidence. Every later entry must still satisfy the vocabulary schema and phonology, along with collision and semantic checks. Its examples and generated references must remain in sync.
+The planned active-corpus pass will revisit existing texts as a whole after the remaining module prose is complete. A passage changes when expanded vocabulary makes it clearer, safer, more direct, or less evasive; it stays as written when the original composition remains natural or intentionally records the before-state. Every later entry must still satisfy the vocabulary schema and phonology, along with collision and semantic checks. Its examples and generated references must remain in sync.

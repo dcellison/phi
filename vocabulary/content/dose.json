@@ -8,17 +8,26 @@
     "su"
   ],
   "pos": "noun",
-  "concept": "Dose / Specified Amount of an Intervention at a Stated Administration",
-  "description": "One specified amount given at one administration. A dose carries no unit, route, or schedule of its own; those live in the exact source instruction, precise in a way Phi's grammar is not built to approximate.",
-  "sound_symbolism": "Closed lips give 'mi' a small nasal opening that rises into bright 'i'. Stressed 'ka' shifts the closure back to the velum and releases it through broad 'a'. Final 'su' draws the air into a hiss and drops the vowel into deep 'u'. Three compact contacts give the word a measured pulse.",
-  "grammatical_notes": "A countable noun: 'mia ha mikasu reo ma shelomu.' (I do not understand the meaning of this dose.) Preserve exact amount, unit, route, timing, formulation, and source instruction outside Phi. Distinct from 'nepha' (medicine), 'nomiki' (concentration), 'thimora' (schedule), 'masue' (measure), and total treatment.",
+  "search_terms": [
+    "medicine amount",
+    "administration amount"
+  ],
+  "description": "A 'mikasu' is the specified amount of a substance intended or given at one administration. It answers how much was given on that occasion, while concentration, route, schedule, and the full course answer other questions. The amount and unit remain in the exact instruction or record beside the Phi account.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the sound through the nose, and open into high-front unrounded 'i'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed open central 'a'. Send unvoiced air through a narrow groove along the tongue for 's', then round into high-back 'u'.",
+  "usage_notes": "One administration or specified amount is countable. The preserved record keeps product identity and formulation with the amount and unit. Route, timing, and the source instruction stay there too; 'mikasu' lets a Phi speaker discuss the record without reconstructing it.",
+  "examples": [
+    {
+      "phi": "mia ha mikasu reo ma shelomu.",
+      "translation": "I do not understand the meaning of this dose."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Separating a dose from its exact record, safety, understanding, and consent prevents a number or instruction from speaking as unquestionable authority."
+    "peace-linguistics-practices": "A dose can be questioned and explained without letting an exact instruction impersonate consent or understanding."
   },
   "semantic_domains": {
-    "cognition": "a specified intervention amount requiring exact source interpretation",
+    "cognition": "a specified intervention amount interpreted through an exact source",
     "physical": "an amount intended or delivered to a body",
-    "temporal": "an amount tied to an administration or interval"
+    "temporal": "an amount tied to one administration"
   },
   "modules": [
     "medical-and-bodily-care"

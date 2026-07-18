@@ -8,17 +8,26 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Balm / Soothing Ointment / Comfort Salve",
-  "description": "A fragrant ointment for healing or soothing; what comforts through touch. 'Thelai' names what soothes—the gentle application that eases pain.",
-  "sound_symbolism": "The word soothes with gentle breath. 'The' /θe/ whispers with healing touch, comfort approaching. 'La' flows with soothing application, balm spreading. Then 'i' settles into relief, pain easing.",
-  "grammatical_notes": "Functions as noun: 'thelai' (the balm). Applied externally unlike 'nepha' (medicine). For wounds, soreness, skin ailments.",
+  "search_terms": [
+    "soothing ointment",
+    "salve"
+  ],
+  "description": "A 'thelai' is an ointment or salve applied to the body with the intention of soothing soreness or an irritated surface. The word describes the preparation and its purpose without promising relief or healing. 'wenu' (tonic) is drunk, while 'nepha' (medicine) covers preparations well beyond either form.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', pass air along it, and move into true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and open into stressed central 'a'. Keep final high-front unrounded 'i' in its own syllable across the 'a.i' hiatus.",
+  "sound_symbolism": "The final vowel arrives through an open hiatus rather than a consonant closure. That gentle release can recall balm spreading under a careful hand.",
+  "usage_notes": "One preparation is countable, and the same noun can refer to balm as a substance. Its source keeps the ingredients and method beside the evidence and warnings. Applying balm to another person's body also involves 'palo' (touch), so the proposed contact still needs an answer.",
+  "examples": [
+    {
+      "phi": "mia ha thelai phelu.",
+      "translation": "I have this balm."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Words as balm—gentle speech that soothes emotional wounds, comfort through communication.",
-    "pre-industrial-wisdom": "Balms soothed wounds—herbal preparations applied with care, healing through touch."
+    "peace-linguistics-practices": "A soothing purpose does not supply permission for touch; another person's answer still governs the application."
   },
   "semantic_domains": {
-    "creation": "Soothing salve",
-    "physical": "External comfort"
+    "creation": "an ointment or salve prepared for soothing use",
+    "physical": "an external preparation intended to ease soreness or irritation"
   },
   "modules": [
     "medical-and-bodily-care"

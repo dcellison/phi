@@ -8,17 +8,26 @@
     "wu"
   ],
   "pos": "verb",
-  "concept": "Triage / Prioritize Assessment or Care Under Stated Constraints",
-  "description": "To order assessment or care under real constraints, by stated criteria that can be examined and argued with. Triage decides who is seen first under scarcity; it must never become a ranking of who deserves to live.",
-  "sound_symbolism": "Bright 'ki' begins with one crisp velar contact. In stressed 'tha', the tongue reaches the teeth and lets breath spread through broad 'a'. Final 'wu' rounds the lips and sinks into deep 'u'. A narrow opening widens at the center, then gathers into a low breathy close.",
-  "grammatical_notes": "A transitive or intransitive verb: 'shia lo miona kithawu.' (They triage people.) State the assessor, criteria, constraints, available care, uncertainty, affected people, result, and review where relevant. The event-noun rule supplies triage. Distinct from 'kisome' (assess), 'phanuli' (allocate), 'sone' (value), 'pelaku' (severity), and 'kanuro' (decision).",
+  "search_terms": [
+    "prioritize care",
+    "care priority"
+  ],
+  "description": "When current needs exceed the care immediately available, participants 'kithawu' by setting an order for assessment or care. That order belongs to a stated situation and criteria, and it can change as either one changes. Triage arranges the next actions; it never ranks the worth of the people waiting for them.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'. Rest the tongue tip lightly against the upper teeth for unvoiced 'th', pass air along it, and open into stressed central 'a'. Round the lips and raise the back of the tongue for voiced 'w', then continue into high-back rounded 'u'.",
+  "usage_notes": "The affected people may be the object, or 'kithawu' can stand alone when the process is already clear. Noun use gives triage. Criteria and constraints make the priority intelligible. Available care, uncertainty, and review finish the account without being packed into the verb.",
+  "examples": [
+    {
+      "phi": "shia lo miona kithawu.",
+      "translation": "They triage people."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Shared care under scarcity requires visible criteria, constraints, burdens, and responsibility to expand capacity rather than treating shortage as natural.",
-    "peace-linguistics-practices": "Separating triage from worth, refusal, and fairness keeps painful prioritization open to explanation, dissent, revision, and accountability."
+    "solarpunk-values": "Triage makes scarcity visible as a material condition to answer, not a natural ranking that a community must accept forever.",
+    "peace-linguistics-practices": "The care order stays open to explanation and review while every person's equal worth remains outside it."
   },
   "semantic_domains": {
-    "activity": "assessing and ordering care under constraints",
-    "cognition": "a revisable priority judgment under stated criteria",
+    "activity": "assessing and ordering care under immediate constraints",
+    "cognition": "a revisable priority judgement under stated criteria",
     "community": "distribution of care timing and resources among affected people"
   },
   "modules": [

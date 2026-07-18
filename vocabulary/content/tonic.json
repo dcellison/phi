@@ -7,17 +7,25 @@
     "nu"
   ],
   "pos": "noun",
-  "concept": "Tonic / Strengthening Drink / Vitality Restorer",
-  "description": "A medicinal drink taken to restore health and vigor; what rebuilds strength. 'Wenu' names what revitalizes—the drink that returns energy and wellness.",
-  "sound_symbolism": "The word renews strength. 'We' revives with returning energy, vitality stirring. Then 'nu' nourishes with grounded sustenance, strength building.",
-  "grammatical_notes": "Functions as noun: 'wenu' (the tonic). Drunk for strength unlike 'thelai' (balm) which is applied. For recovery, vitality, ongoing health.",
+  "search_terms": [
+    "restorative drink",
+    "medicinal drink"
+  ],
+  "description": "A 'wenu' is a medicinal drink prepared to restore or maintain strength. The word records the drink's intended use, not proof that it works. Compared with 'nepha' (medicine), tonic selects a drink; 'thelai' (balm) is applied to the body instead.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then unround into stressed true-mid front 'e'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with high-back rounded 'u'.",
+  "usage_notes": "One prepared drink is countable; the same noun can refer to tonic as a substance. The source records who made it and how, together with its ingredients, evidence, and instructions.",
+  "examples": [
+    {
+      "phi": "mia wenu milau.",
+      "translation": "I drink tonic."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Strengthening practice—regular practice as tonic for the mind, building resilience.",
-    "pre-industrial-wisdom": "Tonics sustained health—herbal preparations drunk regularly to maintain vitality."
+    "pre-industrial-wisdom": "A locally prepared restorative drink can carry practical knowledge across generations, while inherited use remains evidence to examine rather than proof of benefit."
   },
   "semantic_domains": {
-    "creation": "Strengthening drink",
-    "physical": "Vitality"
+    "creation": "a medicinal drink prepared for restorative use",
+    "physical": "a drink intended to support bodily strength or condition"
   },
   "modules": [
     "medical-and-bodily-care"

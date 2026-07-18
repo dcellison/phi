@@ -8,15 +8,24 @@
     "ku"
   ],
   "pos": "noun",
-  "concept": "Severity / Degree of Health Effect Under Stated Criteria",
-  "description": "The degree of a health effect measured against stated criteria, and different criteria can disagree with each other: pain, function, physiological risk, and daily burden are separate scales, and a condition can rank high on one while low on another. Naming the scale is what keeps a severity claim honest. Urgency is another question entirely, since a mild condition can still demand action within the hour.",
-  "sound_symbolism": "A small lip closure releases 'pe' into balanced 'e'. The tongue flows through stressed 'la' and broad 'a', then final 'ku' closes the contour sharply at the velum. The word expands across its liquid center before gathering into a deep, compact ending.",
-  "grammatical_notes": "A countable or mass noun according to context: 'lo mia ha pelaku kisome.' (We assess the severity.) Name the object, dimension, criterion, source, and affected person's report where relevant. Distinct from 'kipona' (pain), 'pukea' (danger), 'kirema' (criterion), 'sone' (value), and urgency.",
+  "search_terms": [
+    "clinical severity",
+    "degree of health effect"
+  ],
+  "description": "'pelaku' is the degree of a health effect against stated criteria. Pain, loss of function, bodily danger, and daily burden can place the same condition differently because each uses another dimension. Severity also leaves urgency open: a mild condition may need prompt care, while a severe long-term condition may not have changed today.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and open into stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-back rounded 'u'.",
+  "usage_notes": "'pelaku' can refer to one degree or to severity as a dimension. The condition and criterion identify what was assessed; the source and affected person's report show whose account supports the judgement. 'kisome' (assess) names the comparison with that criterion.",
+  "examples": [
+    {
+      "phi": "lo mia ha pelaku kisome.",
+      "translation": "We assess the severity."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Explicit dimensions keep a severity judgment from erasing first-person experience or becoming a ranking of whose life and care matter."
+    "peace-linguistics-practices": "Naming the dimension prevents a severity judgement from becoming a ranking of whose experience or care matters."
   },
   "semantic_domains": {
-    "cognition": "a criterion-relative judgment of degree",
+    "cognition": "a criterion-relative judgement of degree",
     "physical": "degree of bodily or health effect"
   },
   "modules": [

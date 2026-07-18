@@ -8,12 +8,22 @@
     "ro"
   ],
   "pos": "verb",
-  "concept": "Transmit / Pass an Infectious Agent Between Hosts or Reservoirs",
-  "description": "To pass an infectious agent between hosts or through a reservoir like water or air. Transmission traces a pathway a disease actually took, and tracing that pathway assigns no blame to whoever carried it.",
-  "sound_symbolism": "Fine 'se' sends air forward through a narrow hiss. At the stressed center, 'wa' rounds the lips and opens wide into 'a'. Final 'ro' brings the movement back to the tongue and a rounder vowel. From a thin stream, the sound crosses openness and reaches a rolling close.",
-  "grammatical_notes": "A transitive or intransitive verb: 'ha peshiro thue phialu po sewaro.' (The infection may transmit through water.) State the agent, source, recipient, pathway, conditions, evidence, and uncertainty where relevant. The event-noun rule supplies transmission. Distinct from 'perawi' (expose), 'peshiro' (infection), 'welathi' (contagious), 'sekaru' (transfer), and 'welura' (spread).",
+  "search_terms": [
+    "pass infection",
+    "infectious transmission"
+  ],
+  "description": "An infectious agent 'sewaro' when it passes between hosts, reservoirs, or environments along a pathway. Transmission may occur before a person feels ill, and contact alone may end without it. 'perawi' (expose) names contact with the agent; 'peshiro' (infection) begins when the agent establishes itself in or on a host.",
+  "articulatory_notes": "Send unvoiced air through a narrow groove along the tongue for 's', then move into true-mid front unrounded 'e'. Round the lips and raise the back of the tongue for voiced 'w', then open into stressed central 'a'. Make a tap or short trill with the tongue tip and draw the tongue back into true-mid rounded back 'o'.",
+  "sound_symbolism": "The medial glide and final tongue turn give the word a felt path through the mouth. That travelling contour offers a mnemonic for an agent passing along a route.",
+  "usage_notes": "Transitive use follows an agent passing something to a host; intransitive use keeps the process itself in view. A 'thue' phrase can introduce the pathway. The same form names the event, transmission.",
+  "examples": [
+    {
+      "phi": "ha peshiro thue phialu po sewaro.",
+      "translation": "The infection may transmit through water."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "A pathway-centered transmission verb supports prevention without treating an infected person as blameworthy, impure, or inherently dangerous."
+    "peace-linguistics-practices": "Tracing the agent and its pathway supports prevention without treating an infected person as impure or blameworthy."
   },
   "semantic_domains": {
     "nature": "movement of an infectious agent through a biological pathway",

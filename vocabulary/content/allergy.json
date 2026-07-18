@@ -8,15 +8,24 @@
     "ki"
   ],
   "pos": "noun",
-  "concept": "Allergy / Immune-Mediated Hypersensitivity to a Stated Agent",
-  "description": "An immune-mediated hypersensitivity to a stated agent, confirmed by clinical criteria. A dislike, an ordinary intolerance, or a rough reaction does not become an allergy just because it is unwanted; the immune system has to be the one answering.",
-  "sound_symbolism": "Rounded unvoiced 'whe' opens on a thin stream of air. At stressed 'ma', the lips close and the sound swells into broad nasal 'a'. Final 'ki' shifts the closure to the velum and ends on bright 'i'. Force gathers in the middle and finishes at a clean edge.",
-  "grammatical_notes": "A countable or mass noun according to context: 'mia whemaki phelu.' (I have an allergy.) Name the agent, evidence, manifestations, severity, uncertainty, and exact source record where relevant. Distinct from 'pekira' (toxic), 'peshiro' (infection), 'porewi' (side effect), 'whekaro' (adverse effect), and ordinary dislike.",
+  "search_terms": [
+    "allergic hypersensitivity",
+    "immune allergy"
+  ],
+  "description": "A 'whemaki' is an immune-mediated hypersensitivity to an identified agent, supported by the clinical evidence available. A person can report an allergy from their source record without reproducing the diagnostic work in conversation. Ordinary intolerance, toxicity, and an adverse effect keep their own relations because the immune mechanism matters here.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for unvoiced 'wh', then unround into true-mid front 'e'. Close the lips for voiced 'm', carry the sound through the nose, and open into stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'.",
+  "usage_notes": "A count distinguishes one allergy. Used bare, 'whemaki' presents allergy as a condition. The agent and observed response make the report practical for care; severity and uncertainty qualify it. The exact source record stays available, but self-report still matters when the listener cannot inspect that evidence.",
+  "examples": [
+    {
+      "phi": "mia whemaki phelu.",
+      "translation": "I have an allergy."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "A bounded allergy term supports safety and self-report without extending biological sensitivity into judgments about character or purity."
+    "peace-linguistics-practices": "A bounded biological relation supports safety without extending purity language to the person who reports it."
   },
   "semantic_domains": {
-    "cognition": "a clinically bounded hypersensitivity claim",
+    "cognition": "a clinically supported hypersensitivity claim",
     "physical": "an immune-mediated bodily response to an agent"
   },
   "modules": [

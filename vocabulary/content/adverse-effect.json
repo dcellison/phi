@@ -8,15 +8,24 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Adverse Effect / Harmful or Burdensome Effect Associated With an Intervention",
-  "description": "A harmful or burdensome effect associated with an intervention. The claim is about harm, stated plainly; whether that intervention actually caused it is a further question the word leaves open.",
-  "sound_symbolism": "Rounded unvoiced 'whe' draws breath through the lips into balanced 'e'. Stressed 'ka' interrupts it with a crisp velar closure and broad 'a'. Final 'ro' rolls the tongue in a rounder chamber. Constrained air strikes at the center, then turns away on a lower note.",
-  "grammatical_notes": "A countable noun: 'mia ha whekaro thelima.' (I describe this adverse effect.) State the person's report, intervention or exposure, time, evidence, severity, alternatives, and response where relevant. Distinct from 'porewi' (side effect), 'whemaki' (allergy), 'peloma' (harmful), 'phamori' (symptom), and 'kanelu' (err).",
+  "search_terms": [
+    "harmful treatment effect",
+    "burdensome effect"
+  ],
+  "description": "A 'whekaro' is a harmful or burdensome effect associated with an intervention or exposure. It records what happened and the suspected relation without settling how strong the causal evidence is. 'porewi' (side effect) is broader because an effect outside the intended target may be useful, neutral, or harmful.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for unvoiced 'wh', then unround into true-mid front 'e'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed open central 'a'. Make a tap or short trill with the tongue tip and draw the tongue back into true-mid rounded back 'o'.",
+  "usage_notes": "Separate effects can be counted, or one effect can be discussed as a reported condition. The person's account and timing sit beside the clinical evidence. Severity and response add what happened next. A formal adverse-event category and its causality classification retain their exact source wording.",
+  "examples": [
+    {
+      "phi": "mia ha whekaro thelima.",
+      "translation": "I describe this adverse effect."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Directly naming an adverse effect supports testimony and accountability while keeping harm, causation, error, and remedy as separate claims."
+    "peace-linguistics-practices": "A direct word for the harmful effect gives testimony room before a source decides cause, error, or remedy."
   },
   "semantic_domains": {
-    "cognition": "a harm attribution with stated evidence and uncertainty",
+    "cognition": "an adverse relation reported with stated evidence and uncertainty",
     "physical": "a harmful or burdensome bodily effect"
   },
   "modules": [
