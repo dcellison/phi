@@ -85,13 +85,13 @@ north wind INS heart fire garment PST INTS strong pull.
 (The North Wind pulled very strongly at the garment with heart-fire.)
 aesop: "The North Wind tore angrily at the cloak,"
 
-whekai theula rena shia to phoa whuo lureko to nai.
-CONTR UNIV REL 3SG PST do WITHOUT fruit PST be.
-(But all that it did was without fruit.)
+whekai shia theula mesatu whuo lureko to nai.
+CONTR 3SG UNIV try WITHOUT fruit PST be.
+(But all its attempts were without fruit.)
 aesop: "but all his efforts were in vain."
 ```
 
-**Notes:** A gust is `teku kema howeli`, a short, strong wind. Its first impact passively throws the cloth's edges around the body. The force in Aesop's "whipped" survives without making anyone a deliberate thrower. The Traveler then makes the garment embrace them closely. The famous correlative becomes two `mo` clauses: the Wind acts more strongly and the Traveler holds closer. "Tore at" describes forceful pulling rather than a completed tear; `ru kema natu` is the action and `korua thero` is the anger. The last sentence judges the effort by its result: it was without fruit.
+**Notes:** A gust is `teku kema howeli`, a short, strong wind. Its first impact passively throws the cloth's edges around the body. The force in Aesop's "whipped" survives without making anyone a deliberate thrower. The Traveler then makes the garment embrace them closely. The famous correlative becomes two `mo` clauses: the Wind acts more strongly and the Traveler holds closer. "Tore at" describes forceful pulling rather than a completed tear; `ru kema natu` is the action and `korua thero` is the anger. The last sentence gives the effort a direct word: `mesatu`, attempts. `whuo lureko` then tells what came of them: no fruit.
 
 ### The sun
 
@@ -126,9 +126,9 @@ sun bright give CMPR warm PST become. 3SG CMPR warm PST become.
 (The Sun's giving of brightness became warmer. It became warmer again.)
 aesop: "The Sun's rays grew warmer and warmer."
 
-miona miso koma wethalu to leiro. shia leo miso lo mirae miso menoa to hewe.
-person REFL head garment PST release. 3SG ABOVE REFL PL eye REFL face PST wipe.
-(The person released their head-garment. They wiped their face above their eyes.)
+miona miso koma wethalu to leiro. shia miso komeri to hewe.
+person REFL head garment PST release. 3SG REFL forehead PST wipe.
+(The person released their head-garment. They wiped their forehead.)
 aesop: "The man took off his cap and mopped his brow."
 
 pheo laeno shemu shia ru sukaro to kelu. thelao shia miso wethalu lue miso weloni to natu. shia wethalu to leiro.
@@ -136,13 +136,13 @@ POST long moment 3SG INTS hot PST become. CONS 3SG REFL garment ABL REFL body PS
 (After a long moment, they became very hot. Therefore they pulled their garment from their body. They released it.)
 aesop: "At last he became so heated that he pulled off his cloak,"
 
-sio ruela ta shiro to whano. miona wea muila muo rena shia whelani shiro shomelu miso to wapho lila shia phei rena thape sileta keru loa wepu.
-BESIDE path one tree PST stand. person TOWARD earth INTO REL 3SG welcome tree shadow REFL PST throw PURP 3SG AWAY REL burn sun bright give go.
-(A tree stood beside the road. The person threw themself toward the earth into the tree-shadow that welcomed them in order to go away from the Sun's burning gift of brightness.)
+sio ruela ta shiro to whano. miona wea muila muo rena shia whelani shiro shomelu miso to wapho lila shia lue rena thape sileta keru loa phesari.
+BESIDE path one tree PST stand. person TOWARD earth INTO REL 3SG welcome tree shadow REFL PST throw PURP 3SG ABL REL burn sun bright give flee.
+(A tree stood beside the road. The person threw themself toward the earth into the tree-shadow that welcomed them in order to flee the Sun's burning gift of brightness.)
 aesop: "and, to escape the blazing sunshine, threw himself down in the welcome shade of a tree by the roadside."
 ```
 
-**Notes:** `keru loa`, give brightness, covers shine, beams, and rays without leaning on the English homonym "light"; `phelo` means light in weight. Opening the garment and making it stay `ralu`, free, state the two parts of unfastening and loose hanging. The cap is a head-garment. The brow is the part of the face above the eyes, so the wiping has its location. Aesop's "pulled off" becomes two motions: the Traveler pulls the garment from their body, then releases it. In the last line they throw themself toward the earth rather than lie down, and `lila` states their purpose of escaping the burning sunshine.
+**Notes:** `keru loa`, give brightness, covers shine, beams, and rays without leaning on the English homonym "light"; `phelo` means light in weight. Opening the garment and making it stay `ralu`, free, state the two parts of unfastening and loose hanging. The cap is a head-garment, while `komeri` names the forehead directly. Aesop's "pulled off" becomes two motions: the Traveler pulls the garment from their body, then releases it. In the last line they throw themself toward the earth rather than lie down. `phesari` tells us why: the blazing sunshine has become something to flee.
 
 ### The moral
 
@@ -169,9 +169,9 @@ nitho howeli nela sileta sua mo kema nai to shareo. lo shia to ma nawo. lo shia 
 
 sileta shola su lo mia nawo sholo to haolu. shola rena lue ha laniru miona wethalu po leiro miona mo kema nai sholo. nitho howeli shola lia sholo roe keloa haoni to haolu. pheo mu thimu shia wea laniru miona rena kapura pelui kema howeli to sepho.
 
-roe nu ta teku kema howeli lo wethalu shuna roa laniru miona weloni to se wapho. whekai pheo mu thimu shia wethalu miso to noshi ka lomare. howeli mo kema to whesu. miona roa miso wethalu mo noshi to phelu. nitho howeli roe korua thero wethalu to ru kema natu. whekai theula rena shia to phoa whuo lureko to nai.
+roe nu ta teku kema howeli lo wethalu shuna roa laniru miona weloni to se wapho. whekai pheo mu thimu shia wethalu miso to noshi ka lomare. howeli mo kema to whesu. miona roa miso wethalu mo noshi to phelu. nitho howeli roe korua thero wethalu to ru kema natu. whekai shia theula mesatu whuo lureko to nai.
 
-pheo thena sileta to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. shia wethalu nia miso talua ralu to ka manolu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia leo miso lo mirae miso menoa to hewe. pheo laeno shemu shia ru sukaro to kelu. thelao shia miso wethalu lue miso weloni to natu. shia wethalu to leiro. sio ruela ta shiro to whano. miona wea muila muo rena shia whelani shiro shomelu miso to wapho lila shia phei rena thape sileta keru loa wepu.
+pheo thena sileta to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. shia wethalu nia miso talua ralu to ka manolu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso komeri to hewe. pheo laeno shemu shia ru sukaro to kelu. thelao shia miso wethalu lue miso weloni to natu. shia wethalu to leiro. sio ruela ta shiro to whano. miona wea muila muo rena shia whelani shiro shomelu miso to wapho lila shia lue rena thape sileta keru loa phesari.
 
 moli nela phena sharemi porua korei. kawhera nela theisa kapura porua ma korei.
 ```
@@ -192,13 +192,12 @@ moli nela phena sharemi porua korei. kawhera nela theisa kapura porua ma korei.
 | wrapped closely | caused the garment to embrace closely | The causative makes the Traveler the agent and the garment the encircling body. |
 | the harder, the tighter | paired `mo` clauses | Phi has no correlative construction, so each change receives its own sentence. |
 | tore angrily at | pulled very strongly with heart-fire | The action does not claim that the cloth actually tore. |
-| efforts were in vain | all that it did was without fruit | The result is explicit without treating the attempt as craft or labor. |
+| efforts were in vain | all its attempts were without fruit | The event noun `mesatu` names the attempts without treating them as craft or labor. |
 | shine, beams, and rays | give brightness | One event noun covers all three illumination terms. |
 | unfastened and hung loosely | opened and caused to stay free on the shoulders | Both stages are stated without a dedicated loose-clothing root. |
-| brow | face above the eyes | The location is composed from existing body words. |
 | pulled off | pulled from the body, then released | Two verbs hold the source motion and result. |
 | blazing sunshine | the Sun's burning gift of brightness | The illumination compound receives a relative clause for burning. |
-| threw himself down | threw themself toward the earth | The reflexive action and downward direction are explicit. |
+| escape and threw himself down | fled from the burning brightness and threw themself toward the earth | `phesari` states the danger-shaped departure; the reflexive action and downward direction remain explicit. |
 | kind persuasion | `phena sharemi` | Kindness modifies the new neutral persuasion verb. |
 | win and fail | fulfill purpose and not fulfill purpose | The stated contest aim supplies the measure of success. |
 | force and bluster | coercion and loud shouting | The moral's force narrows to constrained choice; bluster narrows to its audible action. |
@@ -284,13 +283,13 @@ north wind INS heart fire garment PST pull.
 (The North Wind pulled at the garment with heart-fire.)
 aesop: "The North Wind tore angrily at the cloak,"
 
-whekai theula rena shia to phoa whuo lureko to nai.
-CONTR UNIV REL 3SG PST do WITHOUT fruit PST be.
-(But all that it did was without fruit.)
+whekai shia theula mesatu whuo lureko to nai.
+CONTR 3SG UNIV try WITHOUT fruit PST be.
+(But all its attempts were without fruit.)
 aesop: "but all his efforts were in vain."
 ```
 
-**Notes:** `tiripe` gives the cloth a quiver rather than Aesop's whipping motion. The Traveler answers the weather by holding the garment close, then closer; paired `mo` sentences preserve the escalation without importing an English correlative. The grip belongs to the Traveler in both lines. `roe korua thero ... natu` reports that the Wind pulled with heart-fire. Anger belongs to the act, not to the Wind's identity. `theula rena shia to phoa` means all that it did, and `whuo lureko`, without fruit, judges the result rather than the doer.
+**Notes:** `tiripe` gives the cloth a quiver rather than Aesop's whipping motion. The Traveler answers the weather by holding the garment close, then closer; paired `mo` sentences preserve the escalation without importing an English correlative. The grip belongs to the Traveler in both lines. `roe korua thero ... natu` reports that the Wind pulled with heart-fire. Anger belongs to the act, not to the Wind's identity. `shia theula mesatu` names all its attempts; `whuo lureko`, without fruit, reports the result rather than passing judgment on the one who tried.
 
 ### sileta — The sun
 
@@ -325,9 +324,9 @@ sun bright give CMPR warm PST become. 3SG CMPR warm PST become.
 (The Sun's giving of brightness became warmer. It became warmer again.)
 aesop: "The Sun's rays grew warmer and warmer."
 
-miona miso koma wethalu to leiro. shia miso menoa to hewe.
-person REFL head garment PST release. 3SG REFL face PST wipe.
-(The person released their head-garment. They wiped their face.)
+miona miso koma wethalu to leiro. shia miso komeri to hewe.
+person REFL head garment PST release. 3SG REFL forehead PST wipe.
+(The person released their head-garment. They wiped their forehead.)
 aesop: "The man took off his cap and mopped his brow."
 
 pheo laeno shemu shia ru sukaro to kelu. thelao shia miso wethalu to leiro.
@@ -335,13 +334,13 @@ POST long moment 3SG INTS hot PST become. CONS 3SG REFL garment PST release.
 (After a long moment, they became very hot. Therefore they released their garment.)
 aesop: "At last he became so heated that he pulled off his cloak,"
 
-sio ruela ta shiro to whano. miona muo rena whelani shomelu to reshi ruemi lila shia phei rena thape sileta keru loa wepu.
-BESIDE path one tree PST stand. person INTO REL welcome shadow PST fast lie down PURP 3SG AWAY REL burn sun bright give go.
-(A tree stood beside the road. The person quickly lay down in welcoming shadow in order to go away from the Sun's burning gift of brightness.)
+sio ruela ta shiro to whano. miona muo rena whelani shomelu to reshi ruemi lila shia lue rena thape sileta keru loa phesari.
+BESIDE path one tree PST stand. person INTO REL welcome shadow PST fast lie down PURP 3SG ABL REL burn sun bright give flee.
+(A tree stood beside the road. The person quickly lay down in welcoming shadow in order to flee the Sun's burning gift of brightness.)
 aesop: "and, to escape the blazing sunshine, threw himself down in the welcome shade of a tree by the roadside."
 ```
 
-**Notes:** The Sun gives brightness with `keru loa`; `phelo` belongs to weight, not illumination. Its brightness is gentle at first, and the pleasant warmth earns a first response: the Traveler opens the garment. Phi has no loose-clothing root, so the next line says what they do instead: they stop holding it close upon their shoulders. Only after the heat grows do they release it. A cap is `koma wethalu`, a head-garment, and the brow broadens to `menoa`, the face. In the final line, `lila` makes the move into shade purposeful and `ruemi` lowers the body into a lying posture. Aesop's difficulty is still in plain sight. The growing heat makes the Traveler let go, but it also drives them into shade.
+**Notes:** The Sun gives brightness with `keru loa`; `phelo` belongs to weight, not illumination. Its brightness is gentle at first, and the pleasant warmth earns a first response: the Traveler opens the garment. Phi has no loose-clothing root, so the next line says what they do instead: they stop holding it close upon their shoulders. Only after the heat grows do they release it. A cap is `koma wethalu`, a head-garment, and `komeri` keeps the brow in view. In the final line, `lila` makes the move into shade purposeful. `phesari` says the person is escaping danger or constraint, while `ruemi` lowers the body into a lying posture. Aesop's difficulty is still in plain sight. The growing heat makes the Traveler let go, but it also drives them into shade.
 
 ### lureko — The moral
 
@@ -370,9 +369,9 @@ nitho howeli nela sileta sua mo kema nai to shareo. lo shia roe sheloi thero nel
 
 sileta shola su lo mia nawo sholo to haolu. shola rena ha laniru miona wethalu ka po leiro miona mo kema nai sholo. nitho howeli shola lia sholo roe keloa haoni to haolu. shia wea laniru miona ta pelui theisa howeli to reshi sepho.
 
-roe nu ta howeli lo wethalu shuna roa laniru miona weloni to tiripe. whekai shia roa miso wethalu to reshi noshi phelu. howeli mo kema to whesu. miona roa miso wethalu mo noshi to phelu. nitho howeli roe korua thero wethalu to natu. whekai theula rena shia to phoa whuo lureko to nai.
+roe nu ta howeli lo wethalu shuna roa laniru miona weloni to tiripe. whekai shia roa miso wethalu to reshi noshi phelu. howeli mo kema to whesu. miona roa miso wethalu mo noshi to phelu. nitho howeli roe korua thero wethalu to natu. whekai shia theula mesatu whuo lureko to nai.
 
-pheo thena sileta to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. shia wethalu nia miso talua to ma noshi phelu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso menoa to hewe. pheo laeno shemu shia ru sukaro to kelu. thelao shia miso wethalu to leiro. sio ruela ta shiro to whano. miona muo rena whelani shomelu to reshi ruemi lila shia phei rena thape sileta keru loa wepu.
+pheo thena sileta to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. shia wethalu nia miso talua to ma noshi phelu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso komeri to hewe. pheo laeno shemu shia ru sukaro to kelu. thelao shia miso wethalu to leiro. sio ruela ta shiro to whano. miona muo rena whelani shomelu to reshi ruemi lila shia lue rena thape sileta keru loa phesari.
 
 moli nela phena haolu welao lureko thola. keloa haolu nela kawhera pholeni thola.
 ```
@@ -394,12 +393,12 @@ moli nela phena haolu welao lureko thola. keloa haolu nela kawhera pholeni thola
 | gust and whipping cloak ends | first wind and quivering edges | `tiripe` softens the cloth's motion from whipping to quivering. |
 | the harder, the tighter | paired `mo` clauses | The wind blows more strongly; the Traveler holds the garment closer. |
 | tore angrily | pulled with heart-fire | The pull and anger remain, but Phi does not claim that the garment tore. |
-| all his efforts were in vain | all that it did was without fruit | Action replaces a labor word; the judgment falls on the result. |
+| all his efforts were in vain | all its attempts were without fruit | The event noun `mesatu` names trying rather than labor; the judgment falls on the result. |
 | shine, beams, and rays | `keru loa`, give brightness | One compositional event covers the source's illumination terms. |
 | cloak hanging loosely | the Traveler does not hold it close | Looseness becomes an explicit change in the Traveler's grip. |
-| cap and brow | head-garment and face | Transparent compounds preserve the scene while broadening both nouns. |
+| cap and brow | head-garment and forehead | The cap remains a transparent compound; `komeri` preserves the ordinary bodily landmark. |
 | warmer and warmer | paired `mo` clauses | The Sun's escalation answers the Wind's in the same grammar. |
-| escape and throw himself down | purposeful movement away and a quick `ruemi` | `lila` supplies the intention; the body lies down rather than being thrown. |
+| escape and throw himself down | `phesari` and a quick `ruemi` | The escape remains direct; the body lies down rather than being thrown. |
 | welcome shade by the road | welcoming shadow and a roadside tree | The tree and its shelter remain, though their relation is carried by the sequence. |
 | gentleness and kind persuasion win | gentleness and kind speech bring good fruit | Kind persuasion becomes `phena haolu`, kind speech; value belongs to the fruit rather than victory. |
 | force and bluster fail | rough speech and coercion bring departure | Strength and volume lose the blame. The ending names the relational result that Aesop's own plot shows. |
@@ -417,8 +416,7 @@ The same cloak comes off in both versions. How it comes off, who acts upon whom,
 | terms of the wager | The stronger contestant directly releases the garment from the Traveler. | The stronger contestant causes the Traveler to release it. | The transmutation moves the bodily act back to the wearer, though the contestant still causes it. |
 | first blast | A roaring short, strong wind throws the garment's edges around the body. | A cold, loud wind makes the edges quiver. | The translation uses forceful motion. The transmutation softens both the weather and the cloth. |
 | garment on the shoulders | The Traveler makes the garment stay free upon their shoulders. | The Traveler stops holding it close. | The translation follows Aesop's act of letting the cloak hang. The transmutation states the grip that has changed. |
-| cap and brow | A head-garment comes off, and the face above the eyes is wiped. | A head-garment comes off, and the face is wiped. | The translation composes the source location; the transmutation accepts the broader body word. |
-| flight into shade | The Traveler throws themself toward the earth into a tree's welcoming shadow. | The Traveler quickly lies down in welcoming shadow. | The translation uses the source's abrupt reflexive force. The transmutation gives the body an ordinary resting posture. |
+| flight into shade | The Traveler flees the burning brightness and throws themself toward the earth into a tree's welcoming shadow. | The Traveler flees the burning brightness and quickly lies down in welcoming shadow. | Both now say why the Traveler moves. The translation keeps the source's abrupt reflexive force; the transmutation gives the body an ordinary resting posture. |
 | kind persuasion | `phena sharemi`, kind persuasion | `phena haolu`, kind speech | The translation states influence upon another person. The transmutation shifts attention to the speaker's own act. |
 | result of the contest | Persuasion fulfills its purpose; coercion and loud shouting do not. | Gentleness and kind speech bring good fruit; rough speech and coercion bring departure. | The translation repeats Aesop's verdict. The transmutation judges the kind of result. This judgment includes the Traveler's departure from the Sun. |
 
