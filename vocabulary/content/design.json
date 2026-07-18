@@ -8,12 +8,22 @@
     "ru"
   ],
   "pos": "verb",
-  "concept": "Design / Specify Intended Form, Relations, and Function",
-  "description": "To specify what a thing should be: its form, its relations, its function, its way of being made. A design can be partial, provisional, or shared, and the exact drawing that carries its dimensions is source material beside the Phi. A design is not yet the made thing; 'pilewa' (make) is the second act.",
-  "sound_symbolism": "Rounded 'no' starts with a dental nasal, and stressed 'po' repeats its round vowel after a full closure of the lips. A rolling tongue breaks the paired enclosures in final 'ru' before the sound sinks into deep 'u'. Twice the word gathers itself; only at the end does it move.",
-  "grammatical_notes": "A transitive verb: 'mia ha rolu noporu.' (I design the wheel.) The event-noun rule supplies a design. State intended function, users, materials, constraints, evidence, and revision status where relevant. Distinct from 'norelu' (form), 'sena' (pattern), 'winora' (plan), 'kisholu' (specification), and 'pilewa' (make).",
+  "search_terms": [
+    "design process",
+    "technical design"
+  ],
+  "description": "To 'noporu' is to work out what a thing should be: its form, relations, function, materials, or way of being made. A group may design only one part and revise it after the first trial. 'winora' plans an intended course, 'kisholu' records technical requirements, and 'pilewa' makes the thing; none turns a drawing into a finished wheel overnight.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and round into true-mid back 'o'. Close the lips for unvoiced 'p' and release into stressed true-mid rounded back 'o'. Make a tap or short trill with the tongue tip and finish with high rounded back 'u'.",
+  "sound_symbolism": "Rounded 'no' and 'po' gather the sound twice, first at the teeth and then at the lips. Final 'ru' gives the tongue room to move, as though a held shape has finally begun to turn in the hand.",
+  "usage_notes": "The verb is transitive, and its event noun is a design. Intended function, participants, materials, constraints, evidence, and revision status can be stated around it. Exact drawings, dimensions, identifiers, and versions remain in their source record.",
+  "examples": [
+    {
+      "phi": "mia ha rolu noporu.",
+      "translation": "I design this wheel."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Repairable and ecologically situated systems require design choices whose users, materials, dependencies, and consequences can be named and revised.",
+    "solarpunk-values": "Design vocabulary lets speakers ask who a system is for, what it uses, and how it may be repaired.",
     "art-nouveau-aesthetics": "Design can integrate function, material, structure, and living form rather than treating ornament as an afterthought."
   },
   "semantic_domains": {

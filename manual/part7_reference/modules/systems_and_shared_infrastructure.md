@@ -4,7 +4,7 @@ The pump that fills the cistern draws power from the same line as the mill, and 
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an engineer and grants no authority over the systems they describe.
 
-The chapter table below introduces 24 module roots. Current classifications bring the optional learning list to 37 words; base `phelure` store is taught alongside it. The complete machine-generated list is available under [Systems and Shared Infrastructure in the module lexicon](../lexicon/by_module.md#systems-and-shared-infrastructure). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+Thirty-three roots were coined for this module. Shared classifications bring the optional learning list to 47 words; base `phelure` store is taught alongside it. The complete machine-generated list is available under [Systems and Shared Infrastructure in the module lexicon](../lexicon/by_module.md#systems-and-shared-infrastructure). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -20,13 +20,26 @@ The module does not replace what Phi already says about devices, movement, and r
 | Shared life | `sila` community, `phowe` share, `panoru` support, `thonai` responsible |
 | Storage | `phelure` store |
 
-## Additional roots in this learning path
+## Other roots in this learning path
 
-The Systems path also includes one dedicated infrastructure noun.
+Several words reach Systems from another learning path or from older base-vocabulary classification. Their meaning does not change at the module boundary.
 
 | Phi | Working sense | Why it belongs here |
 |---|---|---|
+| `mothami` | baseline; selected reference condition | Systems compare later states and observations with a stated reference. |
+| `loshenu` | clearance; free room for a passage or operation | Interfaces, routes, and moving parts need room in the direction that matters. |
+| `noporu` | design; work out intended form, relation, or function | Technical systems are designed, revised, made, and tested through distinct acts. |
+| `phelotu` | format; chosen form for presenting content | Signals and records must reach people through usable sensory or technical forms. |
+| `reteru` | model; purpose-bounded representation of a system | A model selects a boundary, variables, assumptions, and omissions for a question. |
+| `somethi` | monitor; observe and record repeatedly | System change becomes visible through a stated series rather than one fortunate reading. |
+| `pushali` | overload; exceed present capacity with input or demand | The same relation can affect a cable, a signalling system, or a person receiving too much at once. |
 | `nurako` | railway; an iron route made for wheeled transport | A railway is infrastructure in its own right. A speaker who has not learned the noun can still describe its metal, path, wheels, and carrying. |
+| `somaki` | test; carry out a defined procedure and record the result | Testing gathers bounded evidence under conditions; assessment and approval come afterwards. |
+| `herani` | trend; pattern across ordered observations | A trend describes the selected record without supplying a cause or future promise. |
+| `thosami` | compatible; able to work together for a purpose | Fit at one interface does not guarantee compatible electrical or informational requirements. |
+| `samethu` | equivalent; matching by a selected meaning, function, or effect | Different components or formats may match for one purpose and differ for another. |
+| `sanowu` | predictable; reasonably anticipated from prior information | Predictability helps preparation without becoming certainty or reliability. |
+| `hoshemi` | hypothesis; proposed explanation or relation under examination | Systems inquiry needs an account that can be tested without being mistaken for a finding. |
 
 ## Storage belongs to base vocabulary
 
@@ -37,7 +50,7 @@ The Systems path also includes one dedicated infrastructure noun.
 | Phi | Part of speech | Working sense | Essential contrast |
 |---|---|---|---|
 | `terura` | noun | system; bounded whole of interacting components | A system is a whole selected for analysis; drawing its boundary is the first act, not an afterthought. |
-| `monaki` | noun | component; functionally identified part | A component is identified by its function within the system, not merely by sitting nearby. |
+| `monaki` | noun | component; functionally identified part | Its role in the system makes it a component; proximity does not. |
 | `nowiso` | noun | interface; defined means or place of interaction | An interface is the specific point of interaction, sharper than a boundary and wider than a screen. |
 | `kelitho` | verb | function; perform a system role or operation | Functioning is the act itself; whether it serves the purpose well is a separate question. |
 | `mirela` | noun | state; selected system conditions at a time | A state is a chosen snapshot of conditions, not the whole truth of a thing. |
@@ -61,7 +74,21 @@ The Systems path also includes one dedicated infrastructure noun.
 | `pemaru` | noun | hazard; potential source or condition of harm | A hazard is a potential source of harm, distinct from present danger or an actual injury already done. |
 | `kisholu` | noun | specification; explicit set of technical requirements | A specification states requirements; meeting them is not proof the requirements were wise. |
 
-The verbs used in this chapter receive their event or result nouns through Phi's ordinary event-noun rule: `kelitho` can name a function, `pherami` a dependency, `sekaru` a transfer, `ketora` control, `phelure` storage, `masuro` calibration, `thonuki` failure, and `nilaki` inspection. The adjectives `poruli`, `wepanu`, and `koluri` likewise name efficiency, redundancy, and reliability through the quality-noun rule; their entries remain adjective-only as required by the lexicon schema.
+## Electrical and analytical roots
+
+| Phi | Part of speech | Working sense | Essential contrast |
+|---|---|---|---|
+| `thewaki` | noun | electricity; physical phenomena associated with electric charge | Electricity is broader than current and distinct from energy or an available supply. |
+| `rishonu` | noun | electric charge; property involved in electrical interaction | Charge may be present when no current continues to flow. |
+| `sephaki` | noun | electric current; charge in motion | Current is not the electrical energy it may transfer. |
+| `poweshi` | noun | voltage; potential difference between two points | Voltage names the parameter; its exact reading and any claim about system performance require further evidence. |
+| `phoselu` | noun | technical power; rate of energy transfer or conversion | Power is not energy and has no political or interpersonal sense. |
+| `wuneri` | noun | variable; named feature or quantity that may take different values | The variable is the selected feature. Its value and method stay in the record; cause remains a separate claim. |
+| `harusi` | noun | emergence; whole-level pattern arising through component interaction | Emergence requires a pattern at the level of the whole; novelty or surprise alone falls short. |
+| `hosari` | noun | correlation; variables differing together across observations | Correlation reports an observed relation without supplying a cause. |
+| `naropu` | noun | feedforward; control acting from an input before output returns | Feedforward differs from feedback and from prediction without control action. |
+
+The verbs used in this chapter receive their event or result nouns through Phi's ordinary event-noun rule: `kelitho` can name a function, `pherami` a dependency, `sekaru` a transfer, `ketora` control, `phelure` storage, `masuro` calibration, `thonuki` failure, and `nilaki` inspection. The adjectives `poruli`, `wepanu`, and `koluri` likewise name efficiency, redundancy, and reliability through the quality-noun rule; their entries remain adjective-only as required by the lexicon schema. All nine electrical and analytical roots are nouns, so the module gains no special derivation or technical grammar.
 
 ## Systems, components, functions, and states
 
@@ -101,6 +128,32 @@ PROX system DIST component depend.
 (This system depends on that component.)
 ```
 
+## Variables, patterns, and explanations
+
+A `wuneri` is the feature allowed to vary in a model, test, record, or control process. The name of the variable belongs in Phi; its exact symbol, value, and unit remain in the source record. A `mirela` state may gather several variables at one time, while a `herani` trend follows observations in an order.
+
+```
+ha wuneri to helui.
+PROX variable PST change.
+(This variable changed.)
+```
+
+`hosari` says that two variables differ together across the stated observations. It makes no causal claim. `harusi` asks a different question: whether a pattern at the level of the whole arises through component interactions even though no component alone has it.
+
+```
+ha wuneri nela ra wuneri hosari phelu.
+PROX variable COORD DIST variable correlation hold.
+(This variable and that variable have a correlation.)
+```
+
+```
+ha harusi lo monaki lorea pherami.
+PROX emergence PL component connect depend.
+(This emergence depends on the components' connections.)
+```
+
+A `hoshemi` hypothesis can propose a cause for a correlation or an account of emergence. Evidence and testing then decide how well the proposal fares. The vocabulary gives the inquiry more shelves; it does not fill them by itself.
+
 ## Inputs, outputs, and transfers
 
 `koewi` and `thirulo` are always relative to whichever boundary is in question, so the same water, energy, or signal can be one system's output and the next system's input in the very same sentence. Their forms sound deliberately different so the direction is never lost by ear.
@@ -125,7 +178,41 @@ PROX component TOWARD DIST component water transfer.
 (This component transfers water toward that component.)
 ```
 
-## Signals, control, and feedback
+## Electricity, voltage, and power
+
+`thewaki` names electricity broadly. `rishonu` is electric charge, and `sephaki` is charge in motion. The distinction matters whenever a component holds separated charge while no current continues to flow, or a current transfers energy without being that energy.
+
+```
+ha monaki rishonu phelu.
+PROX component charge hold.
+(This component holds an electric charge.)
+```
+
+```
+ha sephaki selu.
+PROX current flow.
+(The electric current flows.)
+```
+
+`poweshi` identifies voltage, the electrical potential difference between two stated points. `phoselu` is technical power, the rate at which energy is transferred or converted. A battery may hold much `kenua` energy and still deliver little `phoselu`; a voltage reading may be present while the device does no useful work.
+
+Source record outside Phi: `48 V`
+
+```
+ha poweshi to helui.
+PROX voltage PST change.
+(This voltage changed.)
+```
+
+```
+ha terura phoselu sekaru.
+PROX system power transfer.
+(This system transfers power.)
+```
+
+`thewaki kenua` means electrical energy, and `thewaki sekaru phaliso` describes an electricity-transfer network. The exact reading, rating, circuit name, provider, and equipment identity remain in their source record. Political authority and influence have no reason to borrow `phoselu`; they already have clearer and less flattering company elsewhere in the lexicon.
+
+## Signals, control, feedback, and feedforward
 
 A `kirowi` is a detectable variation read as information, and its source, medium, and meaning are each worth naming, since a signal can point at a `mirela` state without commanding anything or guaranteeing that the reading is correct.
 
@@ -147,6 +234,14 @@ PROX component water flow control.
 ha turelo ha ketora helui.
 PROX feedback PROX control change.
 (This feedback changes the control.)
+```
+
+`naropu` feedforward changes control from an observed or expected input before the resulting output returns. A cistern controller may reduce incoming flow after an upstream rain report instead of waiting for the water level itself to rise. Prediction supplies an expectation; feedforward begins when that expectation changes the control.
+
+```
+ha naropu ha ketora helui.
+PROX feedforward PROX control change.
+(This feedforward changes the control.)
 ```
 
 ## Capacity, load, storage, and efficiency
@@ -270,13 +365,21 @@ Some systems expressions remain clearer as combinations because their parts expo
 | `kisholu norui` | specification tolerance or permitted boundary | Keeps the allowed range tied to the specification that set it. |
 | `thiranu mosha` | maintenance interval | Names the upkeep and its period together. |
 | `kelitho mirela` | service or function state | Leaves availability, degradation, and approval as distinct states. |
+| `somela monaki` | sensor; observation component | States the component's role while leaving its variable, signal, interface, and exact device identity separate. |
+| `ketora monaki` | actuator; control component | Says that the component changes a process without hiding the affected process or control relation. |
+| `kanu mirela` | selected state or setpoint | Keeps the selected condition audible instead of presenting it as a natural destination. |
+| `lerua koewi` | outside disturbance input | Identifies an input from beyond the selected boundary without claiming its cause or effect in advance. |
+| `mothami nela mirela phirae` | technical error; difference from reference | States which observed state differs from which reference rather than borrowing the language of personal mistakes. |
+| `thirulo mosha` | throughput; output across a period | Keeps output and period available for separate evidence and exact source values. |
+| `nuri mosha` | frequency; cycles across a period | Keeps the recurring event visible and leaves exact rates in their source notation. |
+| `thewaki sekaru phaliso` | electrical grid; electricity-transfer network | Names what the network transfers without assuming ownership, access, authority, or obligation. |
 | `thonuki norelu` | failure mode | Names the shape a failure took without claiming its cause. |
 | `kisholu heno` | satisfy a specification | States that requirements are met without implying certification or safety. |
 
 ## Source technical information
 
-Measurements, units, formulas, identifiers, standards, and versioned technical wording stay outside the Phi passage. The module supplies the relations around such material; it does not translate the artifact itself.
+Measurements, units, formulas, identifiers, standards, protocols, and versioned technical wording stay outside the Phi passage. The module supplies the relations around such material; it does not translate the artifact itself. `poweshi` identifies voltage and `phoselu` identifies technical power, while a record such as `48 V` or an equipment rating remains exact.
 
 Reach for an existing word, a transparent expression, another module term, or a fully admitted new word before assuming Phi lacks the concept. A pronunciation aid for a foreign name is a conversational convenience, not a claim to a module word's own definition.
 
-State the analysis where Phi can carry it: which system and boundary are meant, what enters and leaves, which components depend on each other, and what condition was actually observed. Preserving a source record exactly proves neither correct interpretation nor safety; what it buys is precision where precision is the whole point.
+Phi carries the analysis around the record. It identifies the system and boundary, follows what enters and leaves, and states the condition actually observed; it can also show which components depend on each other. Preserving a source record exactly proves neither correct interpretation nor safety. What it buys is precision where precision is the whole point.

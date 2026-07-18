@@ -8,12 +8,22 @@
     "ru"
   ],
   "pos": "verb",
-  "concept": "Transfer / Move Matter, Energy, or Information Between Systems",
-  "description": "To move something from a source to a recipient. Transfer is more specific than a general flow, and naming it does not by itself prove that the full amount arrived unchanged at the other end.",
-  "sound_symbolism": "Hissing 'se' begins in continuous motion. The stress meets a firm velar closure in 'ka', the audible instant of crossing from one side to another. 'Ru' rolls free of that contact and settles into deep 'u', so the word approaches, touches, and departs along the path of a transfer.",
-  "grammatical_notes": "A transitive verb with the transferred item as object; a goal phrase precedes it: 'ha monaki wea ra monaki phialu sekaru.' (This component transfers water to that component.) The event-noun rule supplies transfer. Distinct from 'selu' (flow), 'kolua' (carry), 'sepho' (send), and 'wisola' (exchange).",
+  "search_terms": [
+    "system transfer",
+    "source-to-recipient movement"
+  ],
+  "description": "To 'sekaru' is to move something from a source towards a recipient. A pipe may transfer water between two tanks, though the verb alone does not prove that all of it arrived or remained unchanged. 'selu' flows, 'kolua' carries, 'sepho' sends, and 'wisola' exchanges; transfer keeps the source-to-recipient relation in view.",
+  "articulatory_notes": "Raise the tongue blade towards the alveolar ridge for unvoiced 's' and move into true-mid front unrounded 'e'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed central 'a'. Make a tap or short trill with the tongue tip and finish with high rounded back 'u'.",
+  "sound_symbolism": "Continuous 'se' reaches the firm contact of stressed 'ka', then rolls free into deep 'ru'. The mouth approaches, crosses a point, and moves on.",
+  "usage_notes": "The verb is transitive and its event noun is transfer. The transferred item is the object; a goal phrase with 'wea' precedes it. The source and route precede questions of amount, loss, and recipient state.",
+  "examples": [
+    {
+      "phi": "ha monaki wea ra monaki phialu sekaru.",
+      "translation": "This component transfers water towards that component."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Tracing transfers reveals where shared materials, energy, information, and burdens actually move through infrastructure.",
+    "solarpunk-values": "Tracing transfers shows where materials and energy go, and who receives the useful output or unwanted consequence.",
     "pre-industrial-wisdom": "Practical systems are understood by following substances and work from source through handoff to recipient."
   },
   "semantic_domains": {

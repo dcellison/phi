@@ -4,7 +4,7 @@ Someone claims a path is good, another asks why, and the argument that follows n
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them supplies vocabulary, and vocabulary has never made anyone right.
 
-The chapter table below introduces 21 module roots. Shared classification brings the optional learning list to 22 words; four base words are taught alongside it. The complete machine-generated list is available under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 21 module roots. Shared classification brings the optional learning list to 24 words; four base words are taught alongside it. The complete machine-generated list is available under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -117,6 +117,24 @@ PROX evidence PROX hypothesis support.
 ```
 
 `phirae hoshemi` is an alternative hypothesis. A formal statistical procedure keeps its complete hypothesis and test record with the source; Phi can say how that record enters the present inquiry.
+
+## Emergence and correlation
+
+Two Systems words also belong to this learning path. `harusi` is emergence: a pattern at the level of a whole arising through interactions among its components. `hosari` is correlation: two variables differing together across stated observations. Neither is a causal explanation wearing a slightly more technical coat.
+
+```
+ha harusi lo monaki lorea pherami.
+PROX emergence PL component connect depend.
+(This emergence depends on the components' connections.)
+```
+
+```
+ha wuneri nela ra wuneri hosari phelu.
+PROX variable COORD DIST variable correlation hold.
+(This variable and that variable have a correlation.)
+```
+
+A `hoshemi` may propose what causes the correlation or how the emergent pattern arises. Evidence can support that hypothesis, and a counterexample can trouble it. The new nouns let speakers identify the question before deciding its answer.
 
 ## Validity, contradiction, and refutation
 

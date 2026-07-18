@@ -8,10 +8,20 @@
     "ra"
   ],
   "pos": "verb",
-  "concept": "Control / Constrain or Adjust a Technical Process Toward a State",
-  "description": "To adjust a technical process or variable toward a selected state. The word stays inside the technical fence on purpose: it names an engineer's hand on a dial, never a person commanding another person.",
-  "sound_symbolism": "A clean velar stop begins 'ke', precise as a fingertip finding a dial. Stress lands on dental 'to', another closure made farther forward and released into round 'o'. Rolling 'ra' carries the adjustment onward and opens its range, while the two measured contacts give the word the feel of correction by small deliberate degrees.",
-  "grammatical_notes": "A transitive verb with the controlling component or process as subject: 'ha monaki phialu selu ketora.' (This component controls the water flow.) The event-noun rule supplies control. Distinct from the causative 'ka', 'kulo' (guide), 'theluo' (steward), and any claim of authority over a person or community.",
+  "search_terms": [
+    "technical control",
+    "regulate"
+  ],
+  "description": "To 'ketora' is to adjust a technical process or variable towards a selected state. A valve can control water flow and a regulator can control voltage. The verb stops at that technical relation: it says nothing about authority over people, and 'ka' still carries cause.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into true-mid front unrounded 'e'. Place the tongue tip against the backs of the upper teeth for unvoiced dental 't', release it into stressed true-mid rounded back 'o', then make a tap or short trill with the tongue tip and finish on central 'a'.",
+  "sound_symbolism": "Two clean closures mark 'ke' and stressed 'to', followed by the more mobile tongue of 'ra'. The sequence feels like contact, adjustment, and continued motion.",
+  "usage_notes": "The verb is transitive, with the controlling component or process as subject; its event noun is control. The controlled process or variable is the object. 'ka' marks cause, 'kulo' guides, and 'theluo' stewards; none is interchangeable with this narrow technical relation.",
+  "examples": [
+    {
+      "phi": "ha monaki phialu selu ketora.",
+      "translation": "This component controls the water flow."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Transparent control relations let communities examine how infrastructure responds, who selects its target conditions, and who bears unintended effects.",
     "peace-linguistics-practices": "Restricting the unmarked module sense to technical variables prevents a systems metaphor from making domination of people sound neutral or inevitable."

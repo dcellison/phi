@@ -1,12 +1,12 @@
 # Systems and Shared Infrastructure
 
-**Status:** **Established vocabulary module** with 24 module roots coined here, 37 current memberships, and base-vocabulary `phelure` store; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 33 module roots coined here, 47 current memberships, and base-vocabulary `phelure` store; ordinary Phi grammar.
 
 ## Charter
 
-This module gives Phi speakers optional vocabulary for identifying systems and components, tracing inputs and outputs, explaining dependencies and feedback, comparing technical states and limits, and discussing maintenance, failure, reliability, hazards, and specifications. The terminology supports material, energy, information, device, and infrastructure analysis without treating technical language as self-justifying authority.
+This module gives Phi speakers optional vocabulary for looking closely at things that work together: components, flows, signals, control, and failure. It also covers electrical relations and the patterns by which a whole behaves differently from any isolated part. The terms support analysis of material, energy, information, devices, and infrastructure; technical vocabulary still has to earn its authority from evidence.
 
-The module is not an engineering standard, safety certification, unit system, infrastructure-governance model, or competence credential. It does not authorize a speaker to infer safety, performance, ownership, obligation, accessibility, or legitimacy from a device, measurement, specification, or technical role.
+The module supplies words, not a safety certificate or a competence credential. Measurements and specifications enter an argument as evidence; authority and legitimacy still need their own grounds.
 
 The speaker-facing guide is [Systems and Shared Infrastructure](../../manual/part7_reference/modules/systems_and_shared_infrastructure.md), and the complete current optional inventory appears in the [module lexicon](../../manual/part7_reference/lexicon/by_module.md#systems-and-shared-infrastructure). The vocabulary table below records every root established for this profile, including base-vocabulary `phelure` store. The generated inventory also includes older roots classified after the profile pass and words shared with other learning paths. Learning-path placement changes where a learner finds a word, not what it means. Canonical definitions remain in `vocabulary/content/`.
 
@@ -30,7 +30,7 @@ These existing resources remain available to every Phi speaker and keep their or
 | Boundaries and inclusion | `norui` boundary, `shuna` edge, `pharune` include, `lerua` exterior, `muwi` interior | State what an analysis includes and excludes; the new system terms do not make any boundary natural or uncontested. |
 | Dimensions and separation | `ponalu` size, `waleru` length, `hirawo` distance, `raeli` height, `lonai` width, `nusho` depth, `pamolu` weight, `masue` measure | A design or record can identify its magnitude while units and specifications stay with the source. Large, long, near, far, heavy, and light remain later judgements. |
 | Connection, movement, and recurrence | `lorea` connect, `phaliso` network, `selu` flow, `roke` move, `kolua` carry, `nuri` cycle, `turema` return, `ruela` path, `shoeka` route | Describe local relations and motion while the module distinguishes input, output, transfer, dependency, signal, control, and feedback. |
-| Energy, water, and land | `kenua` energy, `sileta` sun, `phialu` water, `luphore` river, `muila` earth, `phelu` hold, `phelona` require | Supply concrete materials and needs for infrastructure discussion without defining technical units, storage models, or ecological consequences. |
+| Energy, water, and land | `kenua` energy, `sileta` sun, `phialu` water, `luphore` river, `muila` earth, `phelu` hold, `phelona` require | Supply concrete materials and needs for infrastructure discussion while the module distinguishes electricity, charge, current, voltage, and technical power. Exact units and records remain with their sources. |
 | Material phase and uptake | `muralo` material, `patoku` solid, `larewu` liquid, `heshowa` gas, `wosanu` absorb, `kelu` become | An input or stored material can be classified by ordinary phase and absorption can be named before a technical model adds exact conditions. |
 | Storage | `phelure` store | Retain food, water, energy, or information for later retrieval without requiring a systems analysis. |
 | Maintenance and continuity | `pukeri` damage, `rohemi` wear down, `shiroka` repair, `talome` restore, `thiranu` maintain, `thenoki` sustain, `sunoe` regenerate, `shorupo` protect | Keep damage and gradual wear distinct from repair, restoration, fault, failure, and the evidence needed for safe return to use. |
@@ -55,6 +55,20 @@ The first pass admits 24 optional roots for recurrent technical relations and pl
 
 All 25 roots established in this pass follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, pass the lexical validator, and have no character edit-distance-one or flagged existing phonetic neighbors in the pre-coinage audit. Twenty-four carry `systems-and-shared-infrastructure`; `phelure` carries no module field and remains in base vocabulary. The deliberately dissimilar `koewi` and `thirulo` forms keep the natural opposite pair input and output acoustically separate.
 
+## Current Prose and Completeness Pass
+
+The target-prose review migrates every inherited Systems entry and returns to the gaps recorded after the first profile. Nine optional roots now cover electrical relations, variables, whole-level patterns, observed covariation, and anticipatory control. Exact records and methods still establish the technical result; these roots let a Phi speaker say what kind of result it is.
+
+| Family | Roots added in this pass | What the pass now distinguishes |
+|---|---|---|
+| Electrical phenomena | `thewaki` electricity, `rishonu` electric charge, `sephaki` electric current | Electricity as the broad physical field; charge as a property of matter; current as charge in motion; `thewaki kenua` as electrical energy rather than electricity, supply, and energy becoming one vague category. |
+| Electrical parameters and rates | `poweshi` voltage, `phoselu` technical power | Potential difference between two stated points; rate of energy transfer or conversion; exact readings and units remain in their source records. |
+| Analytical relations | `wuneri` variable, `hosari` correlation | A named feature that may take different values; an observed relation between variables that supplies no cause. |
+| Whole-level change | `harusi` emergence | A pattern at the level of a whole that arises through component interactions; novelty or surprise alone falls short. |
+| Anticipatory control | `naropu` feedforward | Control that acts from an observed or expected input before output returns, distinct from feedback and prediction alone. |
+
+`harusi` and `hosari` also join Philosophical Reasoning and Ecological Systems and Material Life; `hosari` and `wuneri` join Medical and Bodily Care where observations are compared without collapsing a variable into its value. Electrical terms enter every established learning path that genuinely needs them. Membership changes where a learner encounters a word, not what the word means.
+
 ## Concepts Kept Compositional
 
 The pass keeps several expressions compositional because their parts expose analytical choices that a single technical label could hide. These are current recommendations rather than prohibitions against later coinage.
@@ -72,13 +86,17 @@ The pass keeps several expressions compositional because their parts expose anal
 | Service state | `kelitho mirela`, function state | Keeps availability, degradation, interruption, and approval as separate claims about a function. |
 | Failure mode | `thonuki norelu`, failure form | Names how a required function can fail without treating the mode as its cause. |
 | Compliance | `kisholu heno`, satisfy a specification | Says which stated requirements are met without silently granting legitimacy, authority, certification, or safety. |
-| Standard, formula, exact conversion, and feedforward terminology | Preserve the source artifact outside the Phi passage, then explain criteria and relations in core or module Phi | Exact identity, version, notation, and source authority matter more than an approximate lexical substitution. |
+| Sensor and actuator roles | `somela monaki`, observation component; `ketora monaki`, control component | Keeps the component's role visible. The surrounding account supplies its signal or affected process, while exact device identity stays with the source. |
+| Selected state, disturbance, and technical error | `kanu mirela`; `lerua koewi`; `mothami nela mirela phirae` | Separates the state chosen for control, an outside input that changes the process, and the difference between reference and observation. |
+| Service availability, throughput, and frequency | `kelitho mirela`; `thirulo mosha`; `nuri mosha` | Reports function state, output across a period, and cycles across a period without hiding the relevant time or exact source value. |
+| Electrical grid | `thewaki sekaru phaliso`, electricity-transfer network | Says what the network transfers without settling ownership, access, governance, or public obligation. |
+| Standard, formula, exact conversion, and versioned protocol terminology | Separate source artifact followed by criteria and relations in core or module Phi | Exact identity, version, notation, and source authority matter more than an approximate lexical substitution. |
 | Ownership, operator authority, allocation, public obligation, and accountability | Use Commons terms such as `phenori`, `karami`, `phanuli`, `naseru`, and `lothoni`, with Work terms or explicit clauses where the labor relation matters | A technical role or system relation must not settle social authority, legitimacy, obligation, or responsibility. |
 
 ## Scenario Connections
 
-- [The water device, the number, and the loop](../evaluation/philosophical_test_corpus.md#6-the-water-device-the-number-and-the-loop) can now identify a `terura`, its `monaki` components, `koewi` input, `thirulo` output, `mirela` state, `kirowi` signal, `ketora` control, and `turelo` feedback while retaining the exact voltage in a separate source record.
-- [The shared energy device](../evaluation/philosophical_test_corpus.md#7-the-shared-energy-device) can distinguish stored energy with `phelure`, `henora` capacity, `takori` load, `poruli` efficiency, and `koluri` reliability without treating any favorable metric as proof that the design is good or sufficient.
+- [The water device, the number, and the loop](../evaluation/philosophical_test_corpus.md#6-the-water-device-the-number-and-the-loop) can now identify a `terura`, its `monaki` components, `koewi` input, `thirulo` output, `mirela` state, `kirowi` signal, `ketora` control, `turelo` feedback, and `poweshi` voltage while retaining the exact `12 V` record outside Phi.
+- [The shared energy device](../evaluation/philosophical_test_corpus.md#7-the-shared-energy-device) can distinguish `thewaki` electricity, `thewaki kenua` electrical energy, `poweshi` voltage, `phoselu` power, stored energy with `phelure`, `henora` capacity, `takori` load, `poruli` efficiency, and `koluri` reliability without treating any favourable metric as proof that the design is good or sufficient.
 - [A doorway, a route, and written words](../evaluation/philosophical_test_corpus.md#9-a-doorway-a-route-and-written-words) can use `nowiso` for a person-device or route-system interface, but accessibility, consent, communication format, and participation remain independent claims.
 - [The marker that was not reported](../evaluation/philosophical_test_corpus.md#12-the-marker-that-was-not-reported) can distinguish a `kiphira` fault, `thonuki` failure, `seluwhe` outage, `pemaru` hazard, `nilaki` inspection, and `kisholu` specification, while Commons terms now name notice, authority, obligation, accountability, records, redress, and review; repair labor, competence, approval, and safe return remain unresolved.
 - [The river above and below the workshop](../evaluation/philosophical_test_corpus.md#13-the-river-above-and-below-the-workshop) can trace `koewi`, `thirulo`, and `sekaru` relations and name a `pemaru` hazard, but ecological pathways, exposure, pollution, source attribution, and responsibility remain separate analyses.
@@ -94,7 +112,7 @@ Use an existing word, transparent expression, module term, or fully admitted new
 
 A separately presented term may introduce a concept, but the Phi analysis must still state the relevant system, boundary, components, variables, conditions, evidence, and consequences. Preservation does not prove that the speaker has explained the system, interpreted a reading correctly, or established authority to act.
 
-Exact content remains outside the Phi passage: `kisholu` identifies a specification as a role, while a separate source record preserves its actual values, notation, wording, identifier, and version. Likewise, `masuro` names calibration without replacing its reference record, and `nilaki` names inspection without replacing its criteria or findings.
+Exact content remains outside the Phi passage: `kisholu` identifies a specification as a role, while a separate source record preserves its actual values, notation, wording, identifier, and version. `poweshi` identifies voltage, but the exact reading stays `48 V`; `phoselu` identifies power, while its rating and unit remain exact. Likewise, `masuro` names calibration without replacing its reference record, and `nilaki` names inspection without replacing its criteria or findings.
 
 ## Continued Development
 

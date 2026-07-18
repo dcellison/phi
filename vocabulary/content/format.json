@@ -8,10 +8,20 @@
     "tu"
   ],
   "pos": "noun",
-  "concept": "Format / Chosen Form in Which Content Is Presented",
-  "description": "The chosen sensory, linguistic, spatial, or technical form in which content is presented and received. The same message may be spoken, written, captioned, or made tactile, yet its wording and practical effect can still differ. Exact file types, encodings, and named communication systems remain source terms when their identity matters.",
-  "sound_symbolism": "Fine bilabial breath opens 'phe' into balanced 'e'. The tongue flows through stressed 'lo', then final 'tu' sets a clean dental stop before deep 'u'. A soft opening rounds at its center and ends on a small firm contact.",
-  "grammatical_notes": "A countable noun: 'mia ha phelotu kanu.' (I choose this format.) A possessor may name the content, while adjectives can identify tactile, legible, audible, or accessible properties. Distinct from 'haluma' (language), 'phelui' (word), and 'norae' (method).",
+  "search_terms": [
+    "presentation format",
+    "communication format"
+  ],
+  "description": "A 'phelotu' is the sensory, linguistic, spatial, or technical form chosen to present content. The same notice may be spoken, written, captioned, or made tactile, but those versions need not have the same wording, timing, or practical effect. 'haluma' is a language, 'phelui' a word, and 'norae' a method.",
+  "articulatory_notes": "Bring the lips close for unvoiced bilabial 'ph', pass air between them, and move into true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and round into stressed true-mid back 'o'. Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into high rounded back 'u'.",
+  "sound_symbolism": "Air passes softly through 'phe', rounds and flows in stressed 'lo', then meets the firmer dental edge of 'tu'. The change from breath to shape to contact leaves a modest tactile contour.",
+  "usage_notes": "The noun is countable, and the content may possess or modify it. Audible, tactile, legible, and accessible qualities can specify how someone encounters the format. Exact file types, encodings, and named communication systems retain their source identity when that identity matters.",
+  "examples": [
+    {
+      "phi": "mia ha phelotu kanu.",
+      "translation": "I choose this format."
+    }
+  ],
   "pillars": {
     "art-nouveau-aesthetics": "Form changes how information is encountered; a page under the fingers and a voice in a room ask different things of the body.",
     "peace-linguistics-practices": "Naming the format makes it possible to ask whether communication reached someone in a form they could use."

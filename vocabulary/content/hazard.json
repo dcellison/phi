@@ -8,10 +8,20 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Hazard / Potential Source or Condition of Harm",
-  "description": "A potential source or condition of harm, apart from how likely it is to cause that harm or how severe the result might be. Naming a hazard is the first step of a risk assessment, not the whole of one.",
-  "sound_symbolism": "Soft 'pe' begins with a small lip closure and balanced 'e', quiet enough to be noticed before alarm. Stressed 'ma' closes more fully, opens wide, and gives the center physical weight. 'Ru' rolls that weight forward into deep 'u', a path the mouth can feel approaching before harm arrives.",
-  "grammatical_notes": "A countable noun: 'ha phialu selu pemaru nai.' (This water flow is a hazard.) State the possible harm, exposed person or system, conditions, evidence, and uncertainty separately. Distinct from 'pukea' (present danger), 'peloma' (harmful), actual harm, and a complete risk assessment.",
+  "search_terms": [
+    "potential source of harm",
+    "hazardous condition"
+  ],
+  "description": "A 'pemaru' is a source or condition capable of causing harm. Fast water beside a narrow crossing may be a hazard even before anyone is exposed or hurt. 'pukea' names danger under the present conditions, while 'peloma' describes something harmful. Exposure and likelihood show how the hazard enters a particular situation.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into true-mid front unrounded 'e'. Close them again for voiced nasal 'm', carry the voice through the nose, and open into stressed central 'a'. Make a tap or short trill with the tongue tip and finish with high rounded back 'u'.",
+  "sound_symbolism": "Quiet 'pe' gathers more weight in the broad nasal centre of stressed 'ma', then rolls into deep 'ru'. The form can be felt approaching without imitating an alarm.",
+  "usage_notes": "The noun is countable. A useful account identifies the possible harm and who or what is exposed, then gives its evidence and uncertainty. Finding a hazard opens a risk assessment; it does not complete one or decide who may act.",
+  "examples": [
+    {
+      "phi": "ha phialu selu pemaru nai.",
+      "translation": "This water flow is a hazard."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Hazard language supports prevention and transparent design while keeping exposure, unequal vulnerability, and proposed protections visible.",
     "peace-linguistics-practices": "Naming a potential source of harm does not automatically blame a person or authorize coercive action."

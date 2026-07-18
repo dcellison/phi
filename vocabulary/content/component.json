@@ -8,13 +8,23 @@
     "ki"
   ],
   "pos": "noun",
-  "concept": "Component / Functionally Identified Part of a System",
-  "description": "A part identified by its function within a system. A component is picked out by what it does, not merely by sitting near the other pieces or being made of the same material.",
-  "sound_symbolism": "Rounded 'mo' resonates behind closed lips, a whole held briefly in one chamber. The dental nasal of stressed 'na' moves that contact forward and gives one part its own place. Crisp 'ki' ends with a small velar closure and bright release; the mouth has traveled from gathered mass to a single point that can be picked out and touched.",
-  "grammatical_notes": "A countable noun: 'ha monaki muo ha terura nai.' (This component is in this system.) A component's role can be stated with 'kelitho'; a component that is independently complex may be called a 'monaki terura' (component system). Distinct from an arbitrary piece, 'monae' (integral), and 'keli' (device).",
+  "search_terms": [
+    "system part",
+    "functional part"
+  ],
+  "description": "A 'monaki' is a part identified by what it does within a system. The loose washer beside a pump is a piece; once fitted into the seal assembly, it may be a component. 'keli' names a device, while 'monae' (integral) says that something belongs within a whole without assigning it a technical function.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm', carry the voice through the nose, and round into true-mid back 'o'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', continue the nasal voice, and open into stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'.",
+  "sound_symbolism": "The word moves from rounded, gathered 'mo' through the open centre of 'na' to the small, crisp release of 'ki'. It narrows from a whole shape towards one part that can be picked out.",
+  "usage_notes": "The noun is countable. A component's operation can be stated with 'kelitho'. 'monaki terura' treats a system as a component at a larger scale; the phrase changes the analytical boundary rather than the object itself.",
+  "examples": [
+    {
+      "phi": "ha monaki muo ha terura nai.",
+      "translation": "This component is in this system."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Naming components makes repair, replacement, resource tracing, and shared technical explanation more precise.",
-    "art-nouveau-aesthetics": "A component gains meaning through its relation to a larger form, as a line or leaf motif participates in an integrated design."
+    "art-nouveau-aesthetics": "Like a line or leaf within a larger pattern, a component gains its role through relation to the whole."
   },
   "semantic_domains": {
     "creation": "a functionally identified part of a designed or analyzed whole",

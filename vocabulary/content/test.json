@@ -8,13 +8,23 @@
     "ki"
   ],
   "pos": "verb",
-  "concept": "Test / Apply a Defined Procedure to Gather Evidence",
-  "description": "To run a defined procedure under stated conditions and record what happened. A test gathers evidence; reading that evidence against a criterion is 'kisome' (assess), a second act. A passed test proves the procedure's own conditions and nothing wider.",
-  "sound_symbolism": "Round 'so' starts with a controlled hiss. Stressed 'ma' closes the lips and opens broadly, so the center grows fuller and warmer. Final 'ki' closes sharply at the velum and ends on bright 'i'. The contour gathers, expands, and finishes at its most exact point.",
-  "grammatical_notes": "A transitive verb: 'mia ha rolu somaki.' (I test the wheel.) The event-noun rule supplies a test. State the procedure, conditions, criterion, observations, and uncertainty where relevant. Distinct from 'nilaki' (inspect), 'somela' (observe), 'kisome' (assess), 'tukiro' (review), and 'masuro' (calibrate).",
+  "search_terms": [
+    "testing",
+    "defined procedure"
+  ],
+  "description": "To 'somaki' is to carry out a defined procedure under stated conditions and record what happened. A wheel may pass one load test and remain untested in floodwater. The procedure gathers bounded evidence; 'kisome' assesses that evidence against a criterion, while inspection, observation, review, and calibration do different work.",
+  "articulatory_notes": "Raise the tongue blade towards the alveolar ridge for unvoiced 's' and round into true-mid back 'o'. Close the lips for voiced nasal 'm', carry the voice through the nose, and open into stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'.",
+  "sound_symbolism": "Hissing round 'so' gathers into the broad nasal centre of stressed 'ma', then stops at crisp bright 'ki'. The word moves from an open procedure towards a definite observed point.",
+  "usage_notes": "The verb is transitive, and its event noun is a test. Its procedure and conditions define the evidence; criteria, observations, and uncertainty remain available for assessment. Passing a test establishes only what that procedure and its conditions can support.",
+  "examples": [
+    {
+      "phi": "mia ha rolu somaki.",
+      "translation": "I test this wheel."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Repairable tools and shared infrastructure require tests whose conditions and limits remain visible to maintainers and users.",
-    "peace-linguistics-practices": "Separating a test from proof, approval, and safety discourages speakers from overstating what one procedure can establish."
+    "peace-linguistics-practices": "One test gives bounded evidence. Approval and safety require more."
   },
   "semantic_domains": {
     "activity": "performing a defined evidential procedure",

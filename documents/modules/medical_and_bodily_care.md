@@ -1,6 +1,6 @@
 # Medical and Bodily Care
 
-**Status:** **Established vocabulary module** with 30 roots coined here, 48 current memberships, and shared-core `lesawi` consent; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 30 roots coined here, 50 current memberships, and shared-core `lesawi` consent; ordinary Phi grammar.
 
 ## Charter
 

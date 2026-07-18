@@ -8,13 +8,23 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Capacity / Conditioned Limit of Holding, Processing, or Delivery",
-  "description": "The conditioned limit of what a system can hold, process, or deliver under stated conditions. Capacity is the ceiling, not what the system currently holds, which is a separate and often much smaller number.",
-  "sound_symbolism": "A light breath in 'he' gives the word room at once. Stressed 'no' meets that openness with a dental nasal and a rounded chamber, the first sense of an edge. 'Ra' rolls out into full 'a' and tests how far the chamber can extend: capacity becomes space encountered, held, and measured by the mouth.",
-  "grammatical_notes": "A mass or countable noun commonly possessed by a system: 'ha terura henora henoi nai.' (This system's capacity is sufficient.) Preserve exact values and units in a separate source record. Distinct from 'puro' (strength), 'phelu' (hold), 'pheno' (full), and a person's ability or legal capacity.",
+  "search_terms": [
+    "system capacity",
+    "technical limit"
+  ],
+  "description": "A 'henora' is the conditioned limit of what a system can hold, process, or deliver. A cistern may have ample capacity while nearly empty; a cable may reach its capacity without holding anything in the ordinary sense. This technical limit belongs to the system and its conditions. A person's ability or standing is another question.",
+  "articulatory_notes": "Open the glottis for 'h' and move into true-mid front unrounded 'e'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and round into stressed true-mid back 'o'. Make a tap or short trill with the tongue tip and finish on central 'a'.",
+  "sound_symbolism": "The breathy opening moves into the rounded chamber of stressed 'no', then 'ra' rolls outward. The mouth finds room and then its reach, an apt physical memory for a limit under stated conditions.",
+  "usage_notes": "The noun may be mass or countable and is often possessed by a system. Exact values and units remain in a separate source record. 'phelu' (hold) reports an act or relation, 'pheno' (full) reports current contents relative to a boundary, and 'puro' (strength) concerns force or resolve.",
+  "examples": [
+    {
+      "phi": "ha terura henora henoi nai.",
+      "translation": "This system's capacity is sufficient."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Capacity language makes material and infrastructural limits explicit instead of promising limitless provision or hiding scarcity behind aspiration.",
-    "pre-industrial-wisdom": "Tools, stores, waterways, and shared works are understood through the conditions and rates they can actually bear."
+    "solarpunk-values": "Capacity lets a community plan within actual material limits instead of treating infrastructure as an endless promise.",
+    "pre-industrial-wisdom": "People have long understood tools, stores, waterways, and shared works through what they can hold or sustain under real conditions."
   },
   "semantic_domains": {
     "cognition": "a specified limit whose interpretation depends on object, conditions, and time",

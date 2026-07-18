@@ -8,12 +8,22 @@
     "ro"
   ],
   "pos": "verb",
-  "concept": "Calibrate / Compare and Relate an Instrument to a Reference",
-  "description": "To relate an instrument to a stated reference, and to check or adjust that relation. Calibrating is narrower than a full inspection, and a device can be calibrated without the whole system around it ever being examined.",
-  "sound_symbolism": "'Ma' begins with a firm meeting of the lips and opens onto broad 'a', like setting down the reference mark. The hiss of stressed 'su' narrows attention and sinks into deep 'u'. 'Ro' rolls the sound into a rounded finish and takes the word from a fixed point through fine adjustment to a relation that can turn and be checked again.",
-  "grammatical_notes": "A transitive verb: 'mia ha keli masuro.' (I calibrate this device.) Name the reference, conditions, date, and exact result separately where required. The event-noun rule supplies calibration. Distinct from 'masue' (measure), 'theali' (fitting), 'telua' (accurate), and 'nilaki' (inspect).",
+  "search_terms": [
+    "calibration",
+    "instrument reference"
+  ],
+  "description": "To 'masuro' is to compare an instrument with a stated reference and, when needed, adjust their relation. A rain gauge can be calibrated without anyone inspecting the pipe, reservoir, or rest of the system. 'masue' measures; 'nilaki' inspects a condition against criteria; calibration asks whether an instrument's indication still has the intended relation to its reference.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm' and open into central 'a'. Raise the tongue blade towards the alveolar ridge for unvoiced 's', direct air through its narrow channel, and move into stressed high rounded back 'u'. Make a tap or short trill with the tongue tip for 'r' and finish with true-mid rounded back 'o'.",
+  "sound_symbolism": "Broad 'ma' gives way to the narrow hiss and deep vowel of stressed 'su', then the tongue turns in 'ro'. The contour feels like a wide reading brought to a finer relation and checked once more.",
+  "usage_notes": "The verb is transitive, and its event noun is calibration. The surrounding account can give the reference and conditions, then record any adjustment and exact result. Overall accuracy and fitness still require evidence of their own.",
+  "examples": [
+    {
+      "phi": "mia ha keli masuro.",
+      "translation": "I calibrate this device."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Calibration treats measurement as a maintained relation with conditions and uncertainty rather than an unconditioned revelation of fact.",
+    "secular-buddhist-philosophy": "Calibration acknowledges that an instrument's reading depends on its maintained relation to a reference.",
     "pre-industrial-wisdom": "Reliable craft has long depended on checking tools against known references and recording when that relation changes."
   },
   "semantic_domains": {

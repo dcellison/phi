@@ -8,10 +8,20 @@
     "lo"
   ],
   "pos": "noun",
-  "concept": "Feedback / Returned System Effect That Alters Its Process",
-  "description": "A returned effect that actually alters an ongoing process: something about a later output or state reaches back and changes what came before it. A circular diagram drawn on paper is not feedback until something genuinely loops back and shifts course.",
-  "sound_symbolism": "Dental 'tu' makes one clean contact and releases into deep 'u'. Stressed 're' turns on the tongue and preserves the audible kinship with 'turema' (return). 'Lo' carries that turn into a low rounded flow, and the word bends through its middle like a line that comes back changed and enters the process again.",
-  "grammatical_notes": "A countable or mass noun: 'ha turelo ha ketora helui.' (This feedback changes the control.) State what is sensed, what returns, where it acts, and whether it increases or decreases change. Distinct from 'turema' (return), 'nuri' (cycle), 'thekao' (acknowledge), and ordinary interpersonal response.",
+  "search_terms": [
+    "feedback loop",
+    "returned system effect"
+  ],
+  "description": "'turelo' is a returned effect that alters an ongoing process. A later output or state is sensed, brought back into control, and changes what happens next. A circle on a diagram is not feedback until something in the system actually returns and makes a difference.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into high rounded back 'u'. Make a tap or short trill with the tongue tip and move into stressed true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and finish with true-mid rounded back 'o'.",
+  "sound_symbolism": "The word turns in stressed 're' and shares its opening contour with 'turema' (return). Final 'lo' lets that turn continue in a low rounded flow. The whole form bends audibly back into motion.",
+  "usage_notes": "The noun can be countable or mass. The account should make clear what is sensed, what returns, where it acts, and whether it increases or reduces change. 'turema' is return, 'nuri' a cycle, and 'thekao' acknowledgement in interaction.",
+  "examples": [
+    {
+      "phi": "ha turelo ha ketora helui.",
+      "translation": "This feedback changes the control."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Feedback makes adaptive infrastructure discussable while keeping its actual effects and chosen targets open to review.",
     "secular-buddhist-philosophy": "The concept foregrounds conditioned consequences that return into an ongoing process rather than treating action as isolated from later effects."

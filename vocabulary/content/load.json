@@ -8,13 +8,23 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Load / Demand Placed on a Technical System",
-  "description": "The technical demand placed on a system. The word stays narrowly technical: it does not, without more context, mean the weight on a person's shoulders, an obligation, or cargo in a wagon.",
-  "sound_symbolism": "Dental 'ta' strikes the first contact and opens wide. Stressed 'ko' answers with a second stop farther back, its round vowel giving the center weight. 'Ri' flicks away from both closures and carries the pressure into motion. The two stops are the demand; the final liquid is the structure taking it onward.",
-  "grammatical_notes": "A countable or mass noun: 'ha takori nela ha henora sharoi.' (This load exceeds the capacity.) 'Nela' is mandatory between the two explicit comparison quantities. Name the affected system and relevant function where context does not supply them. Distinct from 'riola' (labor), 'kolua' (carry), 'puro' (strength), and emotional or imposed human burdens.",
+  "search_terms": [
+    "technical load",
+    "system demand"
+  ],
+  "description": "A 'takori' is the technical demand placed on a system. Several machines drawing from one line increase its load; a basket of stones is cargo or weight, and unfinished work belongs to the language of labour. The term remains technical so a person's needs and effort do not become anonymous system demand.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed true-mid rounded back 'o'. Make a tap or short trill with the tongue tip and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The dental stop of 'ta' meets a second closure farther back in stressed 'ko', then final 'ri' moves away from both. Two contacts followed by a quick release give the word a compact sense of demand entering motion.",
+  "usage_notes": "The noun may be countable or mass. When load and capacity are both explicit comparison quantities, 'nela' appears between them. The account should identify the affected system and function; 'riola' is labour, 'kolua' carrying, and 'puro' strength.",
+  "examples": [
+    {
+      "phi": "ha takori nela ha henora sharoi.",
+      "translation": "This load exceeds the capacity."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Comparing load with capacity supports realistic shared planning and exposes when infrastructure is being asked to provide more than its stated conditions allow.",
-    "peace-linguistics-practices": "The specialist definition avoids reducing people, care needs, or labor to anonymous technical load."
+    "peace-linguistics-practices": "The specialist definition keeps a person's needs and effort out of the anonymous category of technical load."
   },
   "semantic_domains": {
     "activity": "required work or throughput relative to a technical function",

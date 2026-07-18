@@ -8,10 +8,20 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "System / Bounded Whole of Interacting Components",
-  "description": "A bounded whole of interacting components, selected for a particular analysis. The boundary is drawn for a question, not found in nature, and the same components can belong to a smaller system or a larger one depending on where the line falls.",
-  "sound_symbolism": "Dental 'te' makes a clean first contact. Stressed 'ru' rolls away from it into deep 'u', and final 'ra' repeats the liquid motion while opening into broad 'a'. The two related rolls gather separate movement into one contour. A system sounds bounded at its first edge, active within, and wide enough at the end to hold the parts together.",
-  "grammatical_notes": "A countable noun: 'ha terura lo monaki lorea.' (This system connects the components.) Use 'terura norui' for a system boundary and 'monaki terura' for a component that is itself analyzed as a system. Distinct from 'phaliso' (network), 'keli' (device), 'teru' (process), and 'whoa' (whole).",
+  "search_terms": [
+    "interacting whole",
+    "system boundary"
+  ],
+  "description": "A 'terura' is a whole of interacting components selected for a particular analysis. A pump, cistern, and garden may form one water system; adding the river changes the boundary and the questions that follow. 'phaliso' foregrounds connections, 'keli' a device, 'teru' a process, and 'whoa' wholeness without requiring system analysis.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into true-mid front unrounded 'e'. Make a tap or short trill with the tongue tip and move into stressed high rounded back 'u'. Repeat the tap or short trill and finish on central 'a'.",
+  "sound_symbolism": "Dental 'te' gives the word one clear edge, while the tongue turns through stressed 'ru' and again in final 'ra'. The repeated movement gathers activity within a boundary and opens at the end.",
+  "usage_notes": "The noun is countable. 'terura norui' names the chosen system boundary, and 'monaki terura' treats a system as one component of a larger analysis. Calling something a system chooses an analytical boundary. Ownership, governance, and benefit are claims about that chosen whole, not gifts of the noun.",
+  "examples": [
+    {
+      "phi": "ha terura lo monaki lorea.",
+      "translation": "This system connects the components."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Systems vocabulary helps communities trace material, energy, and information relations while keeping boundaries, purposes, and consequences open to examination.",
     "art-nouveau-aesthetics": "The concept treats a whole through the living relations among its parts rather than as an inert sum of isolated pieces."

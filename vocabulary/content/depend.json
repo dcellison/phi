@@ -8,13 +8,23 @@
     "mi"
   ],
   "pos": "verb",
-  "concept": "Depend / Require Another Condition or Component for Function",
-  "description": "To require another element for a function or a state to hold. Dependency names a real technical requirement, weaker than cause, and it carries no claim about worth or hierarchy between the two elements.",
-  "sound_symbolism": "Bilabial 'phe' begins as breath held lightly between the lips. Stressed 'ra' sets the tongue in motion and reaches across the open vowel. 'Mi' returns the mouth to contact around bright 'i' and completes a word that stretches outward at its center and finishes where the lips meet.",
-  "grammatical_notes": "A transitive verb with the dependent system as subject and the required element as object: 'ha terura ra monaki pherami.' (This system depends on that component.) The event-noun rule supplies dependency. Distinct from 'phelona' (require or need), 'natheri' (entail), 'ka' (cause), and 'theomi' (trust).",
+  "search_terms": [
+    "dependency",
+    "technical dependence"
+  ],
+  "description": "A system 'pherami' another element when its function or state requires that element. A garden pump may depend on the cistern holding water, but the cistern does not thereby cause every turn of the pump. Dependency states a technical requirement without assigning worth, rank, authority, or trust.",
+  "articulatory_notes": "Bring the lips close for unvoiced bilabial 'ph', pass air between them, and move into true-mid front unrounded 'e'. Make a tap or short trill with the tongue tip and open into stressed central 'a'. Close the lips for voiced nasal 'm', carry the voice through the nose, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "Breathy 'phe' reaches through the open, rolling centre of 'ra' before the lips meet again in 'mi'. The word stretches towards another point and ends in contact. It makes a modest physical image for dependence.",
+  "usage_notes": "The verb is transitive: the dependent system is the subject and the required element is the object. Its event noun is dependency. 'phelona' names a need, 'natheri' an entailment, 'ka' a cause, and 'theomi' trust between participants.",
+  "examples": [
+    {
+      "phi": "ha terura ra monaki pherami.",
+      "translation": "This system depends on that component."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Visible dependencies help communities understand shared infrastructure, hidden resource needs, and points where care or alternatives are required.",
-    "peace-linguistics-practices": "The definition keeps technical dependence separate from diminished personhood, obedience, or a claim that one participant controls another."
+    "peace-linguistics-practices": "Technical dependency belongs between system elements. It says nothing about a participant's worth or obedience."
   },
   "semantic_domains": {
     "activity": "a function or process conditioned by another element",

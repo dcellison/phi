@@ -8,10 +8,21 @@
     "wi"
   ],
   "pos": "noun",
-  "concept": "Input / Matter, Energy, or Information Entering a System",
-  "description": "Matter, energy, information, or influence entering a system across its stated boundary. What counts as input depends entirely on where that boundary is drawn, and the same thing can be one system's output crossing into another as its input.",
-  "sound_symbolism": "Velar 'ko' begins with a closed edge and releases into round 'o'. A stressed standalone 'e' follows across clean hiatus; that audible crossing recalls the contour of 'koema' (enter). 'Wi' rounds the lips and narrows toward bright 'i'. Something has passed an edge, occupied a clear beat within it, and joined a new flow.",
-  "grammatical_notes": "A countable or mass noun, commonly possessed by the receiving system: 'ha phialu ha terura koewi nai.' (The water is an input to this system.) State source, quantity, and conditions separately when they matter. Deliberately dissimilar from 'thirulo' (output), its conceptual opposite.",
+  "search_terms": [
+    "system input",
+    "incoming matter",
+    "incoming information"
+  ],
+  "description": "'koewi' is matter, energy, information, or influence entering a system across its stated boundary. Water leaving a reservoir can be its output and the garden pump's input a moment later. The classification follows the chosen boundary rather than belonging permanently to the water.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into true-mid rounded back 'o'. Cross a clear hiatus into stressed true-mid front unrounded 'e'. Round the lips and raise the back of the tongue for voiced 'w', then unround and finish with high-front 'i'.",
+  "sound_symbolism": "The clean hiatus between 'ko' and stressed 'e' makes an audible crossing. Final 'wi' narrows from rounded lips towards bright 'i', so the word seems to pass an edge and continue within it.",
+  "usage_notes": "The noun may be countable or mass and is commonly possessed by the receiving system. The source and route belong in the surrounding account, along with amount and conditions when relevant. Its form is deliberately unlike 'thirulo' (output), so speakers can distinguish the opposite directions by ear.",
+  "examples": [
+    {
+      "phi": "ha phialu ha terura koewi nai.",
+      "translation": "The water is an input to this system."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Naming inputs makes a system's dependence on energy, materials, information, and labor more visible instead of treating operation as self-sustaining.",
     "pre-industrial-wisdom": "Material practice begins by knowing what enters a process, where it came from, and what condition it carries."

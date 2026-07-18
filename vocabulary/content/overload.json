@@ -8,10 +8,20 @@
     "li"
   ],
   "pos": "verb",
-  "concept": "Overload / Exceed Current Capacity With Input or Demand",
-  "description": "To exceed a person's or system's current capacity with sensory input, information, tasks, or demand so that receiving, processing, or acting becomes materially harder. Capacity may change with context, time, support, and the kind of input. 'ritako' (workload) counts expected work over an interval; 'pushali' names the point where what arrives becomes too much to carry through.",
-  "sound_symbolism": "'Pu' starts with a complete lip closure and releases into deep 'u'. Stressed 'sha' spreads a full hush through broad 'a'. Final 'li' lifts the tongue into a light liquid and bright 'i'. Depth pushes into a breath-filled center, then narrows abruptly.",
-  "grammatical_notes": "A transitive verb with the input or demand as subject and the affected person or system as object: 'lo phelui mia pushali.' (The words overload me.) The event-noun rule supplies overload. The surrounding account can name the affected capacity and what changed afterward.",
+  "search_terms": [
+    "overload capacity",
+    "excessive input"
+  ],
+  "description": "Input or demand 'pushali' a person or system when it exceeds the present capacity needed to receive, process, or act. Several alarms may overload a listener before they overload the signalling system. Capacity changes with the person or system and its circumstances. Time, support, and pain may all alter it; 'ritako' instead records expected work across an interval.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into high rounded back 'u'. Raise the tongue blade behind the alveolar ridge for stressed unvoiced 'sh', pass air along the groove, and open into central 'a'. Touch the tongue tip to the alveolar ridge for voiced lateral 'l', let air pass along its sides, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "Deep 'pu' opens into the wide hush of stressed 'sha', then narrows sharply in bright 'li'. The contour fills the middle of the mouth before finding a smaller way out.",
+  "usage_notes": "The verb is transitive: the input or demand is the subject and the affected person or system is the object. Its event noun is overload. The surrounding account may name the capacity exceeded, the conditions, and what became harder afterwards.",
+  "examples": [
+    {
+      "phi": "lo phelui mia pushali.",
+      "translation": "The words overload me."
+    }
+  ],
   "pillars": {
     "secular-buddhist-philosophy": "Attention changes with pain, fatigue, fear, noise, and practice; overload names a condition of the moment rather than a failed character.",
     "peace-linguistics-practices": "A speaker can ask for less input or another pace before inability is mistaken for refusal, indifference, or lack of thought."

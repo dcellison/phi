@@ -1,0 +1,32 @@
+{
+  "word": "naropu",
+  "gloss": "feedforward",
+  "ipa": "/n̪ä.ˈro̞.pu/",
+  "syllables": [
+    "na",
+    "ro",
+    "pu"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "feedforward control",
+    "anticipatory control"
+  ],
+  "description": "'naropu' is a control relation in which information about an input or expected disturbance changes the process before the resulting output returns. A cistern controller may reduce incoming flow when upstream rain is reported, rather than waiting for the water level to rise. Feedback answers a returned effect; feedforward acts from what is already known or reasonably expected ahead of it.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and open into central 'a'. Make a tap or short trill with the tongue tip and round into stressed true-mid back 'o'. Close the lips for unvoiced 'p' and release into high rounded back 'u'.",
+  "sound_symbolism": "Open nasal 'na' begins before the tongue turns through stressed 'ro' and reaches the firm lip contact of 'pu'. The word moves towards its final point rather than bending back. This gives it a useful contrast with 'turelo' (feedback).",
+  "usage_notes": "The noun may be countable or mass. The relation includes the observed or predicted input, the basis for that expectation, the control action, and the output still to come. Prediction supplies an expectation. Feedforward begins when that expectation changes control before the output returns.",
+  "examples": [
+    {
+      "phi": "ha naropu ha ketora helui.",
+      "translation": "This feedforward changes the control."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "a control relation acting from an observed or expected input before output returns",
+    "cognition": "anticipatory control whose information and uncertainty remain explicit"
+  },
+  "modules": [
+    "systems-and-shared-infrastructure"
+  ]
+}

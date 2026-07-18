@@ -1,0 +1,34 @@
+{
+  "word": "poweshi",
+  "gloss": "voltage",
+  "ipa": "/po̞.ˈwe̞.ʃi/",
+  "syllables": [
+    "po",
+    "we",
+    "shi"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "electric potential difference",
+    "electrical potential"
+  ],
+  "description": "A 'poweshi' is the electrical potential difference between two stated points. That difference can help drive current, but voltage is neither current nor charge. A source record may say '48 V'; 'poweshi' lets the Phi account identify what kind of relation the record measures.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into true-mid rounded back 'o'. Round the lips and raise the back of the tongue for voiced 'w', then unround into stressed true-mid front 'e'. Raise the tongue blade behind the alveolar ridge for unvoiced 'sh' and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "Rounded 'po' crosses the glide into stressed 'we' and narrows further in bright 'shi'. The audible movement between two differently shaped points suits a relation that exists between locations rather than inside one object alone.",
+  "usage_notes": "The noun may name the parameter or a particular voltage under discussion. The two points and conditions belong in the Phi account, while method, exact value, unit, and source remain with the record. Circuit function and safety require further evidence.",
+  "examples": [
+    {
+      "phi": "ha poweshi to helui.",
+      "translation": "This voltage changed."
+    }
+  ],
+  "semantic_domains": {
+    "cognition": "a named technical parameter used to interpret an electrical record",
+    "physical": "electrical potential difference between two stated points",
+    "quantity": "a parameter whose exact value remains in its source notation"
+  },
+  "modules": [
+    "systems-and-shared-infrastructure",
+    "work-craft-and-repair"
+  ]
+}

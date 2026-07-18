@@ -8,13 +8,23 @@
     "so"
   ],
   "pos": "noun",
-  "concept": "Interface / Defined Place or Means of System Interaction",
-  "description": "The defined means or place where two things interact, sharper than a bare boundary and wider than any one screen or plug. Naming an interface is naming exactly where and how the interaction happens.",
-  "sound_symbolism": "Dental 'no' sets a rounded edge at the start. The stress glides through 'wi', lips narrowing from roundness into bright 'i' as the sound crosses that edge. Hissing 'so' answers from the other side and rounds again; the word touches, passes, and responds, with each surface still audible.",
-  "grammatical_notes": "A countable noun: 'ha nowiso lo terura lorea.' (This interface connects the systems.) State what crosses the interface with ordinary transfer, input, output, or signal clauses. Distinct from 'norui' (boundary), 'lorea' (connect), and a visual control surface alone.",
+  "search_terms": [
+    "interaction point",
+    "system interface"
+  ],
+  "description": "A 'nowiso' is the defined place or means through which two things interact. It may be a plug, a control surface, a doorway, or an agreed data exchange. 'norui' draws a boundary and 'lorea' states connection; the interface identifies how and where the interaction can actually occur.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and round into true-mid back 'o'. Round the lips and raise the back of the tongue for voiced 'w', then unround into stressed high-front 'i'. Raise the tongue blade towards the alveolar ridge for unvoiced 's' and finish with true-mid rounded back 'o'.",
+  "sound_symbolism": "Rounded 'no' meets the narrowing glide of stressed 'wi', then opens again through hissing 'so'. The mouth crosses a shaped middle and answers on the other side. Both edges remain audible.",
+  "usage_notes": "The noun is countable. Transfer, signal, or accessibility clauses can state what crosses the interface and whether participants can use it. A screen is one possible interface. Whether the exchange is compatible and mutually understood must still be tested.",
+  "examples": [
+    {
+      "phi": "ha nowiso lo terura lorea.",
+      "translation": "This interface connects the systems."
+    }
+  ],
   "pillars": {
     "art-nouveau-aesthetics": "The concept attends to the shaped meeting between distinct forms, where connection depends on how edges are made to relate.",
-    "peace-linguistics-practices": "An interface names the conditions of interaction without assuming that either side understands, accepts, or can use what the other presents."
+    "peace-linguistics-practices": "An interface names where interaction can occur; it promises neither understanding nor access."
   },
   "semantic_domains": {
     "communication": "an informational interface can mediate exchange without guaranteeing understanding",

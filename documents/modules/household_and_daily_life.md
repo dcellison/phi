@@ -1,6 +1,6 @@
 # Household and Daily Life
 
-**Status:** **Established vocabulary module** with 30 roots coined here, 42 current memberships, and shared-core `mirewu` private.
+**Status:** **Established vocabulary module** with 30 roots coined here, 44 current memberships, and shared-core `mirewu` private.
 
 ## Charter
 

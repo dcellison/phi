@@ -8,13 +8,23 @@
     "ni"
   ],
   "pos": "noun",
-  "concept": "Trend / Direction or Pattern Across Ordered Observations",
-  "description": "A direction or pattern across ordered observations. A trend describes what has already happened; it carries no built-in cause and makes no promise that the pattern continues.",
-  "sound_symbolism": "Light 'he' begins as moving breath and recalls the opening of 'helui' (change). The word turns on stressed 'ra' and gains a rolling direction across broad 'a'. Dental 'ni' places one fine point at the end, where air has become a path and arrived at its latest mark.",
-  "grammatical_notes": "A countable noun: 'ha herani ha nomiki thuroa shelo.' (This trend indicates increasing concentration.) State series, period, scale, method, and uncertainty where relevant. Distinct from 'helui' (change), 'shoeka' (route), causal explanation, correlation, and `wireo mirela kethira` (infer a future state).",
+  "search_terms": [
+    "observed trend",
+    "ordered pattern"
+  ],
+  "description": "A 'herani' is a direction or pattern found across ordered observations. Rising river readings over several visits may form a trend. The word reports the selected series and period. Cause needs evidence of its own, and the next observation remains open.",
+  "articulatory_notes": "Open the glottis for 'h' and move into true-mid front unrounded 'e'. Make a tap or short trill with the tongue tip and open into stressed central 'a'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "Breathy 'he' recalls the opening of 'helui' (change), then the tongue takes a direction through stressed 'ra' and settles at the fine dental point of 'ni'. The motion ends at the latest mark rather than predicting another.",
+  "usage_notes": "The noun is countable. Its series and period define the pattern; scale, method, and uncertainty belong with the record. A trend belongs to one ordered series. 'hosari' compares variables, while causal explanation and future inference each add a claim.",
+  "examples": [
+    {
+      "phi": "ha herani ha nomiki thuroa shelo.",
+      "translation": "This trend indicates increasing concentration."
+    }
+  ],
   "pillars": {
     "secular-buddhist-philosophy": "A trend names patterned change without turning continuity into certainty or one selected time window into an essence.",
-    "peace-linguistics-practices": "Explicit scope and uncertainty make trend claims available for challenge instead of using apparent direction as unquestionable authority."
+    "peace-linguistics-practices": "A trend states its scope and uncertainty, so an apparent direction cannot masquerade as unquestionable authority."
   },
   "semantic_domains": {
     "cognition": "a pattern inferred from an ordered series of observations",

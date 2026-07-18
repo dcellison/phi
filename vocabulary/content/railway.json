@@ -8,16 +8,26 @@
     "ko"
   ],
   "pos": "noun",
-  "concept": "Railway / Iron Road / The Machine That Runs Underneath",
-  "description": "An iron road built for a wheeled machine to run on, carrying many people at once, faster and further than a wagon. Coined for the industrial world a transmutation must sometimes describe honestly, not soften: crowded carriages, hurried commutes, the underground lines beneath a Victorian city. 'Underground' stays a separate modifier (muila phou, below the earth) rather than being folded into the word itself, since a railway need not run underground to be one.",
-  "sound_symbolism": "'Nu' opens low and grounded, fitting a road that sometimes runs beneath the earth itself. 'Ra' carries the rolling motion, wheel on rail. 'Ko' closes hard, iron meeting iron, the clipped sound of a mechanism rather than a living thing.",
-  "grammatical_notes": "Functions as a noun: 'mia nurako mua wepu.' (I go by railway.) For the underground line specifically: 'muila phou nurako' (the underground railway). A counted railway may take optional 'themo' when treated as crafted infrastructure; the classifier may be omitted when the network or route does not fit that analysis.",
+  "search_terms": [
+    "railroad",
+    "rail line"
+  ],
+  "description": "A 'nurako' is a route of rails built for wheeled vehicles, along with the connected infrastructure treated as one line or network. It can carry people or material, run above or below the ground, and belong to either a hurried city or a patient rural journey. A train is the vehicle; the railway is the way it runs.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and move into high rounded back 'u'. Make a tap or short trill with the tongue tip and open into stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into true-mid rounded back 'o'.",
+  "sound_symbolism": "Deep nasal 'nu' opens into the rolling tongue and broad vowel of stressed 'ra', then stops cleanly at 'ko'. The turn and final contact give the word a quiet echo of wheels meeting rail without making that image its definition.",
+  "usage_notes": "The noun is countable when a particular line or system is meant. 'muila phou nurako' specifies an underground railway. Optional classifier 'themo' fits a railway treated as crafted infrastructure, but can be omitted when the referent is primarily a route or network.",
+  "examples": [
+    {
+      "phi": "mia nurako mua wepu.",
+      "translation": "I travel by railway."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Solarpunk is legible only against what it replaces. Naming the extractive-industrial default without flinching is part of naming the regenerative alternative clearly.",
-    "pre-industrial-wisdom": "Named honestly rather than avoided: a language of cyclical, embodied living still needs the word for the machine that first pulled people away from both, if it is ever going to describe the pulling back."
+    "solarpunk-values": "Railways can connect communities with less land and energy than individual road travel when their design, access, and energy source support that use."
   },
   "semantic_domains": {
-    "creation": "The iron road, before the turning"
+    "creation": "a built route and connected infrastructure made for rail vehicles",
+    "spatial": "a fixed path linking places by rail"
   },
   "modules": [
     "systems-and-shared-infrastructure"

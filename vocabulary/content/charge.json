@@ -1,0 +1,33 @@
+{
+  "word": "rishonu",
+  "gloss": "charge",
+  "ipa": "/ri.ˈʃo̞.n̪u/",
+  "syllables": [
+    "ri",
+    "sho",
+    "nu"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "electric charge",
+    "electrical charge"
+  ],
+  "description": "A 'rishonu' is the physical property by which matter participates in electrical attraction, repulsion, and current. A component may hold separated charge without current continuing to flow. The word stays within electricity. English uses charge for several unrelated ideas; Phi does not.",
+  "articulatory_notes": "Make a tap or short trill with the tongue tip and move into high-front unrounded 'i'. Raise the tongue blade behind the alveolar ridge for stressed unvoiced 'sh', pass air along the groove, and round into true-mid back 'o'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with high rounded back 'u'.",
+  "sound_symbolism": "Bright rolling 'ri' broadens into the hushed round chamber of stressed 'sho', then settles in deep nasal 'nu'. The form gathers rather than travels, which helps keep charge apart from current in the mouth.",
+  "usage_notes": "The noun may be mass or countable when distinct regions or quantities of charge are under discussion. Polarity and exact quantity remain in the source record with their symbols, units, and methods. 'thewaki' names electricity broadly, while 'sephaki' requires charge in motion.",
+  "examples": [
+    {
+      "phi": "ha monaki rishonu phelu.",
+      "translation": "This component holds an electric charge."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "a property of matter involved in electrical interaction and current",
+    "quantity": "a technical property whose exact amount and sign may be recorded"
+  },
+  "modules": [
+    "systems-and-shared-infrastructure",
+    "work-craft-and-repair"
+  ]
+}

@@ -120,12 +120,14 @@
 
 ## Ecological Systems and Material Life
 
-*47 words in this learning path.*
+*52 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
+| `harusi` | emergence | noun |
 | `herani` | trend | noun |
 | `hisophi` | contaminant | noun |
+| `hosari` | correlation | noun |
 | `hoshemi` | hypothesis | noun |
 | `keshoa` | reptile | noun |
 | `koewi` | input | noun |
@@ -155,6 +157,7 @@
 | `pherami` | depend | verb |
 | `philima` | biodiversity | noun |
 | `phisuri` | sample | noun |
+| `phoselu` | power | noun |
 | `poruli` | efficient | adjective |
 | `reteru` | model | noun |
 | `sekaru` | transfer | verb |
@@ -165,16 +168,18 @@
 | `teluno` | amphibian | noun |
 | `terura` | system | noun |
 | `theluo` | steward | noun |
+| `thewaki` | electricity | noun |
 | `thirulo` | output | noun |
 | `tukelu` | recycle | verb |
 | `turelo` | feedback | noun |
 | `whemori` | waste | noun |
 | `wheraku` | erode | verb |
 | `wiralu` | runoff | noun |
+| `wuneri` | variable | noun |
 
 ## Household and Daily Life
 
-*42 words in this learning path.*
+*44 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -197,6 +202,7 @@
 | `phelasi` | shelf | noun |
 | `phemiru` | visit | verb |
 | `pheomu` | leftovers | noun |
+| `phoselu` | power | noun |
 | `phurewa` | sweep | verb |
 | `phurilo` | broom | noun |
 | `rilowa` | assign | verb |
@@ -211,6 +217,7 @@
 | `tapuri` | lid | noun |
 | `thekopa` | recipe | noun |
 | `therapi` | boil | verb |
+| `thewaki` | electricity | noun |
 | `tholupi` | room | noun |
 | `tukelu` | recycle | verb |
 | `welotu` | mix | verb |
@@ -223,7 +230,7 @@
 
 ## Medical and Bodily Care
 
-*48 words in this learning path.*
+*50 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -232,6 +239,7 @@
 | `herani` | trend | noun |
 | `hisaro` | clinical finding | noun |
 | `hisophi` | contaminant | noun |
+| `hosari` | correlation | noun |
 | `katheo` | acute | adjective |
 | `kaworu` | injury | noun |
 | `kisome` | assess | verb |
@@ -275,13 +283,16 @@
 | `whekaro` | adverse effect | noun |
 | `whemaki` | allergy | noun |
 | `wireki` | prognosis | noun |
+| `wuneri` | variable | noun |
 
 ## Philosophical Reasoning
 
-*22 words in this learning path.*
+*24 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
+| `harusi` | emergence | noun |
+| `hosari` | correlation | noun |
 | `hoshemi` | hypothesis | noun |
 | `kethira` | infer | verb |
 | `kirothe` | define | verb |
@@ -307,12 +318,14 @@
 
 ## Systems and Shared Infrastructure
 
-*38 words in this learning path.*
+*47 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
+| `harusi` | emergence | noun |
 | `henora` | capacity | noun |
 | `herani` | trend | noun |
+| `hosari` | correlation | noun |
 | `hoshemi` | hypothesis | noun |
 | `kelitho` | function | verb |
 | `ketora` | control | verb |
@@ -326,6 +339,7 @@
 | `mirela` | state | noun |
 | `monaki` | component | noun |
 | `mothami` | baseline | noun |
+| `naropu` | feedforward | noun |
 | `nilaki` | inspect | verb |
 | `noporu` | design | verb |
 | `nowiso` | interface | noun |
@@ -333,26 +347,32 @@
 | `pemaru` | hazard | noun |
 | `phelotu` | format | noun |
 | `pherami` | depend | verb |
+| `phoselu` | power | noun |
 | `poruli` | efficient | adjective |
+| `poweshi` | voltage | noun |
 | `pushali` | overload | verb |
 | `reteru` | model | noun |
+| `rishonu` | charge | noun |
 | `samethu` | equivalent | adjective |
 | `sanowu` | predictable | adjective |
 | `sekaru` | transfer | verb |
 | `seluwhe` | outage | noun |
+| `sephaki` | current | noun |
 | `somaki` | test | verb |
 | `somethi` | monitor | verb |
 | `takori` | load | noun |
 | `terura` | system | noun |
+| `thewaki` | electricity | noun |
 | `thirulo` | output | noun |
 | `thonuki` | fail | verb |
 | `thosami` | compatible | adjective |
 | `turelo` | feedback | noun |
 | `wepanu` | redundant | adjective |
+| `wuneri` | variable | noun |
 
 ## Work, Craft, and Repair
 
-*65 words in this learning path.*
+*70 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -390,16 +410,20 @@
 | `perawi` | expose | verb |
 | `phaewi` | studio | noun |
 | `phanu` | canvas | noun |
+| `phoselu` | power | noun |
 | `pilora` | exploit | verb |
 | `piru` | trader | noun |
 | `pokera` | competent | adjective |
 | `poruli` | efficient | adjective |
+| `poweshi` | voltage | noun |
 | `pushali` | overload | verb |
 | `rilowa` | assign | verb |
 | `rimawu` | drudgery | noun |
 | `rinoka` | project | noun |
 | `riporu` | task | noun |
+| `rishonu` | charge | noun |
 | `ritako` | workload | noun |
+| `sephaki` | current | noun |
 | `sephori` | supply | verb |
 | `sethoni` | handoff | verb |
 | `sikanu` | certify | verb |
@@ -410,6 +434,7 @@
 | `telo` | farmer | noun |
 | `temu` | guild | noun |
 | `thesani` | skill | noun |
+| `thewaki` | electricity | noun |
 | `thimelo` | pace | noun |
 | `thimora` | schedule | noun |
 | `thonuki` | fail | verb |

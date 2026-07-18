@@ -8,13 +8,23 @@
     "mi"
   ],
   "pos": "noun",
-  "concept": "Baseline / Stated Reference Condition for Comparison",
-  "description": "A stated reference condition chosen for comparison, which can be historical, modeled, or administratively set. A baseline need not be the earliest, healthiest, or most natural state a place has held; it is simply the point everything else gets measured against.",
-  "sound_symbolism": "Rounded 'mo' begins behind closed lips and gives the word a quiet point of rest. Stressed 'tha' sends breath across the teeth and opens wide, like laying a line through that point. 'Mi' closes the lips again around bright 'i', so held depth stretches into a reference and returns to one mark the mouth can find again.",
-  "grammatical_notes": "A countable noun: 'ha mirela ha mothami senao ma nai.' (This state is not the same as this baseline.) State variables, place, period, method, source, and uncertainty where relevant. Distinct from 'motha' (foundation), `mirela` (state), target condition, ordinary past, and an exact reference dataset.",
+  "search_terms": [
+    "reference condition",
+    "comparison baseline"
+  ],
+  "description": "A 'mothami' is a stated reference condition chosen for comparison. It may come from an earlier record, a model, or an administrative decision. The old river before restoration work is one possible baseline, though not necessarily its healthiest or most natural state. 'motha' (foundation) concerns what supports something; 'mirela' (state) describes selected conditions at a time.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm', carry the voice through the nose, and round into true-mid back 'o'. Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and open into stressed central 'a'. Close the lips again for voiced nasal 'm' and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The word opens and closes at the lips around a broad, breathy centre. That return to the first place gives 'mothami' a useful spoken image for a reference one can come back to.",
+  "usage_notes": "The noun is countable. An informative comparison names the selected features and the source of the reference. Place, period, method, and uncertainty complete the account when relevant. A baseline anchors the comparison; it does not become an ideal or an exact dataset by doing so.",
+  "examples": [
+    {
+      "phi": "ha mirela ha mothami senao ma nai.",
+      "translation": "This state is not the same as this baseline."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Baselines make restoration and monitoring claims accountable while preventing a preferred past or selected dataset from becoming an unquestioned natural ideal.",
-    "secular-buddhist-philosophy": "The reference is acknowledged as selected, conditioned, and revisable rather than an eternal original state."
+    "solarpunk-values": "Baselines make restoration and monitoring claims answerable to a stated reference. Because the reference is chosen, it cannot quietly pass as nature's preferred state.",
+    "secular-buddhist-philosophy": "The word keeps the reference selected, conditioned, and open to revision. It is a place for comparison, not an eternal original state."
   },
   "semantic_domains": {
     "cognition": "a selected reference condition used for comparison",

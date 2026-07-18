@@ -8,10 +8,20 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Fault / Abnormal Technical Condition",
-  "description": "An abnormal technical condition that may or may not go on to cause trouble. Naming a fault is not yet naming blame, a broken part, or even a failure; those are each their own separate claims.",
-  "sound_symbolism": "Crisp 'ki' places a bright, exact point at the beginning. Stressed 'phi' breaks that stop into air between the lips, and the change is immediately audible. 'Ra' rolls away into open 'a'. It completes the contour heard in 'phirae' (different) and lets the fault sound like a departure from the point first set.",
-  "grammatical_notes": "A countable noun: 'ha monaki kiphira phelu.' (This component has a fault.) State observed signs, evidence, location, and causal hypotheses separately. Distinct from 'pukate' (break), 'phelira' (mistaken), 'thonuki' (fail), and personal or moral fault.",
+  "search_terms": [
+    "technical fault",
+    "abnormal condition"
+  ],
+  "description": "A 'kiphira' is an abnormal technical condition that may or may not lead to lost function. A loose contact can be a fault before a signal fails. A broken part may cause a fault or result from one. Personal error and moral blame use their own vocabulary.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'. Bring the lips close for unvoiced bilabial 'ph', pass air between them, and keep the vowel stressed and high-front unrounded. Make a tap or short trill with the tongue tip and finish on central 'a'.",
+  "sound_symbolism": "The crisp stop of 'ki' changes abruptly into the airy lips of stressed 'phi', then rolls into open 'ra'. Its audible departure from one kind of contact to another recalls 'phirae' (different) without making the resemblance an etymology.",
+  "usage_notes": "The noun is countable. Observed signs, location, evidence, and causal hypotheses belong in the surrounding account. 'pukate' is breakage, 'phelira' means mistaken, and 'thonuki' reports that a required function failed.",
+  "examples": [
+    {
+      "phi": "ha monaki kiphira phelu.",
+      "translation": "This component has a fault."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Specific fault language supports diagnosis, repair, and transparent maintenance of shared infrastructure.",
     "peace-linguistics-practices": "A technical fault can be named without smuggling in blame for a person, allowing evidence and responsibility to be examined separately."

@@ -1,0 +1,38 @@
+{
+  "word": "hosari",
+  "gloss": "correlation",
+  "ipa": "/ho̞.ˈsä.ri/",
+  "syllables": [
+    "ho",
+    "sa",
+    "ri"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "covariation",
+    "observed association"
+  ],
+  "description": "A 'hosari' is an observed relation in which two variables differ together across a stated series or set of cases. River height and pump load may rise together without either causing the other. Correlation reports the pattern found by a method. Its direction and strength belong with the stated series, while a causal account needs separate evidence.",
+  "articulatory_notes": "Open the glottis for 'h' and round into true-mid back 'o'. Raise the tongue blade towards the alveolar ridge for unvoiced 's', direct air through its narrow channel, and open into stressed central 'a'. Make a tap or short trill with the tongue tip and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "Rounded breath in 'ho' and bright rolling 'ri' sit on opposite sides of the broad hiss in stressed 'sa'. The two ends remain distinct while the middle gives them one audible relation.",
+  "usage_notes": "The noun may be countable when several correlations are compared or mass for the relation in general. An informative use identifies the variables and observations, with the method and uncertainty where relevant. 'herani' follows one ordered series; 'ka' states cause.",
+  "examples": [
+    {
+      "phi": "ha wuneri nela ra wuneri hosari phelu.",
+      "translation": "This variable and that variable have a correlation."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "The distinction lets a speaker report an association without turning it prematurely into causal blame or authority for an intervention."
+  },
+  "semantic_domains": {
+    "cognition": "an observed relation of covariation kept distinct from causal explanation",
+    "quantity": "a relation assessed across stated observations or cases"
+  },
+  "modules": [
+    "ecological-systems-and-material-life",
+    "medical-and-bodily-care",
+    "philosophical-reasoning",
+    "systems-and-shared-infrastructure"
+  ]
+}

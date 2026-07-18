@@ -1,0 +1,38 @@
+{
+  "word": "thewaki",
+  "gloss": "electricity",
+  "ipa": "/θe̞.ˈwä.ki/",
+  "syllables": [
+    "the",
+    "wa",
+    "ki"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "electrical phenomenon",
+    "electrical"
+  ],
+  "description": "'thewaki' names the physical phenomena associated with electric charge, including effects produced when charge is present or moving. A lightning flash and a working solar circuit both involve electricity, though one is not a useful model of the other. 'kenua' is energy; 'thewaki kenua' specifies energy transferred or supplied electrically.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and move into true-mid front unrounded 'e'. Round the lips and raise the back of the tongue for voiced 'w', then open into stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'.",
+  "sound_symbolism": "Breathy 'the' opens into the rounded glide and broad centre of stressed 'wa', then ends at the bright, clean stop of 'ki'. The shift from continuous air to precise contact makes the contour lively but contained.",
+  "usage_notes": "As a noun modifier, 'thewaki' forms expressions such as 'thewaki kenua' (electrical energy) and 'thewaki terura' (electrical system). Charge, current, voltage, and technical power describe particular relations within the broader phenomenon; an available supply adds state and capacity. Exact quantities, circuit names, ratings, and source records remain separately presented.",
+  "examples": [
+    {
+      "phi": "ha keli thewaki kenua phelona.",
+      "translation": "This device requires electrical energy."
+    }
+  ],
+  "pillars": {
+    "solarpunk-values": "The word lets speakers discuss electrical generation, transfer, use, and interruption without hiding those relations inside the broader idea of energy."
+  },
+  "semantic_domains": {
+    "nature": "physical phenomena associated with electric charge in natural and built settings",
+    "physical": "electrical effects produced by the presence or movement of charge"
+  },
+  "modules": [
+    "ecological-systems-and-material-life",
+    "household-and-daily-life",
+    "systems-and-shared-infrastructure",
+    "work-craft-and-repair"
+  ]
+}
