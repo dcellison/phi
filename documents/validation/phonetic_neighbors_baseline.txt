@@ -9,7 +9,7 @@
 0.47	1	wi	two	content	we	ALSO	function	260
 0.47	1	ro	HAB	function	ru	INTS	function	237
 0.47	1	mu	zero	content	mo	CMPR	function	229
-0.47	1	ke	INFER	function	ki	PFV	function	211
+0.47	1	ke	INFER	function	ki	PFV	function	212
 0.47	1	si	IPFV	function	se	PASS	function	195
 0.47	1	ni	HON.INTIM	function	ne	NAME	function	155
 0.47	1	no	IMP	function	nu	ORD	function	155
@@ -84,18 +84,18 @@
 0.47	1	lumira	descendant	content	lumera	nourish	content	5
 0.47	1	tesu	iron	content	tisu	needle	content	5
 0.47	1	lonae	respond	content	lonai	width	content	4
-0.47	1	moeli	hearth	content	mueli	plain (unadorned)	content	3
 0.47	1	welua	fragile	content	weloa	loom	content	3
 0.47	1	wero	honest	content	weru	poet	content	3
 0.47	1	wiru	basket	content	weru	poet	content	3
+0.47	1	moeli	hearth	content	mueli	plain (unadorned)	content	2
 0.47	1	leru	beach	content	liru	fabric	content	1
 0.47	1	thaemo	precious	content	thaemu	sincere	content	1
 0.47	1	thiru	exit	content	thiro	serene	content	1
 0.47	1	thorai	bless	content	thorae	facilitator	content	1
 0.47	1	thorai	bless	content	thurai	vibrant	content	1
-0.50	1	po	POT	function	to	PST	function	2079
+0.50	1	po	POT	function	to	PST	function	2078
 0.50	1	thia	2SG	function	shia	3SG	function	1889
-0.50	1	ko	FOC	function	to	PST	function	1870
+0.50	1	ko	FOC	function	to	PST	function	1869
 0.50	1	nia	ON	function	mia	1SG	function	1804
 0.50	1	sa	HON.RESPECT	function	ha	PROX	function	711
 0.50	1	na	NEC	function	ma	NEG	function	606
@@ -110,9 +110,9 @@
 0.50	1	whola	invite	content	shola	QUOT.COMP	function	249
 0.50	1	shua	come	content	sua	who	function	220
 0.50	1	mo	CMPR	function	no	IMP	function	215
-0.50	1	ki	PFV	function	pi	POL	function	208
+0.50	1	ki	PFV	function	pi	POL	function	209
 0.50	1	shea	peace	content	phea	AS	function	195
-0.50	1	ki	PFV	function	ti	REP	function	188
+0.50	1	ki	PFV	function	ti	REP	function	189
 0.50	1	ka	CAUS	function	pa	INCH	function	185
 0.50	1	mu	zero	content	nu	ORD	function	169
 0.50	1	theo	read	content	pheo	POST	function	156
