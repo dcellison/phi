@@ -8,16 +8,25 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Counselor / Advisor / Wisdom Guide",
-  "description": "One who gives guidance and advice; a person sought for wisdom. 'Menua' names who helps us see—offering perspective without imposing answers.",
-  "sound_symbolism": "The word meets with wisdom. 'Me' centers with understanding presence, attention given. 'Nu' nurtures with caring guidance, wisdom shared. Then 'a' opens to received counsel.",
-  "grammatical_notes": "Functions as noun: 'menua thunai nomela.' (The counselor encourages the student.) Related to 'thorae' (facilitator) but offers wisdom rather than process; compare 'lumishe' (mentor).",
+  "search_terms": [
+    "adviser",
+    "counsel giver"
+  ],
+  "description": "Someone brings a question or choice to another person and asks for considered guidance. That person is 'menua'. They may listen, ask questions, or share a perspective, but the choice stays with the person who brought it. A 'lumishe' (mentor) has a continuing agreed guidance relationship, while a 'thorae' (facilitator) supports a group's process.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm', carry the voice through the nose, and open into true-mid front 'e'. Touch the tongue tip to the backs of the upper teeth for dental 'n' and move into stressed high-back rounded 'u'. Keep the final vowel separate across the hiatus and open into central unrounded 'a'.",
+  "usage_notes": "This is a role noun, not a counselling verb. 'kulo' (guide), 'sheluo' (listen), and other verbs state what the counsellor does. A professional title, licence, or duty remains with the institution or source that defines it.",
+  "examples": [
+    {
+      "phi": "menua thunai kulo.",
+      "translation": "The counsellor guides the student."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Counselor as mirror—helping others see themselves more clearly.",
-    "peace-linguistics-practices": "Counsel as listening—guidance that begins with deep understanding of the other."
+    "peace-linguistics-practices": "Counsel can offer another view without taking the choice away from the person who asked. Naming the role separately from its acts keeps listening, advice, and authority available for their own account."
   },
   "semantic_domains": {
-    "community": "Guidance role",
-    "wisdom": "Advisory presence"
+    "communication": "a role that offers considered guidance through listening, questions, or advice",
+    "community": "a person consulted within a stated relationship or matter",
+    "wisdom": "experience or judgement offered for another person's consideration"
   }
 }

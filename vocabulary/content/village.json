@@ -8,16 +8,25 @@
     "wo"
   ],
   "pos": "noun",
-  "concept": "Village / Homes Gathered",
-  "description": "The village: homes gathered into community. 'sila' (community) plus the 'wo' of 'womu' (home): the word assembles the settlement the way the settlement assembled itself. Smaller than a city wants to be, larger than one household can be.",
-  "sound_symbolism": "'sila' opens it as the people, and 'wo' roofs them. The word ends on the home-syllable because that is what a village is made of.",
-  "grammatical_notes": "Noun: 'mia mua silawo menui.' (I dwell in the village.) 'lo miona silawo lorima.' (The people build a village.)",
+  "search_terms": [
+    "settlement",
+    "small settlement"
+  ],
+  "description": "Several homes or households sharing one locality make a 'silawo'. The village suggests a human scale, but it sets no population threshold and says nothing by itself about permanence, boundaries, or government. 'sila' (community) concerns the people and their relationships, 'womu' (home) one place of dwelling and return, and 'punoa' (society) the wider social whole.",
+  "articulatory_notes": "Raise the tongue blade towards the alveolar ridge for unvoiced 's' and release into high-front unrounded 'i'. Touch the tongue tip to the alveolar ridge for lateral 'l' and open into stressed central 'a'. Round the lips for voiced 'w' and continue into true-mid back rounded 'o'.",
+  "sound_symbolism": "The opening 'sila' repeats the word for community, and final 'wo' is heard in 'womu' (home). These audible echoes gather people and homes into the settlement without creating a productive compounding rule.",
+  "usage_notes": "A location commonly follows 'mua', as in dwelling in a village. 'whalo silawo' (large village) can describe a town or city when scale is the point and an exact municipal category is not. Settlement names may use an accepted Phi onym, while legal status, boundaries, population records, and source names stay with their records.",
+  "examples": [
+    {
+      "phi": "silawo whalo nai.",
+      "translation": "The village is large."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Human-scale settlement is a design target again: walkable, food-adjacent, sized so that neighbors are neighbors.",
-    "pre-industrial-wisdom": "For most of human history, this was the size a life came in: everyone known, everything walkable, the fields in sight of the roofs."
+    "solarpunk-values": "A human-scale settlement can make walking, shared care, local food, and common work easier, but the noun alone does not certify access, fairness, or ecological good sense."
   },
   "semantic_domains": {
-    "community": "The gathered homes",
-    "spatial": "The human-scale settlement"
+    "community": "several homes or households gathered in one settlement",
+    "spatial": "a shared locality containing a village settlement"
   }
 }

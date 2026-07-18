@@ -8,16 +8,25 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Energy / Active Force / Power to Act",
-  "description": "The capacity for action and work; the force that enables movement and change. 'Kenua' names what powers activity—the resource that transforms intention into action.",
-  "sound_symbolism": "The word kindles with force. 'Ke' activates with kindling spark, energy gathering. 'Nu' nurtures with sustained momentum, power building. Then 'a' opens to available flow.",
-  "grammatical_notes": "Noun: 'sileta kenua loa.' (The sun gives energy.) Compare 'lori' (vital), which describes living activity rather than its available power, and 'teru' (process), which may consume or transfer energy.",
+  "search_terms": [
+    "available power",
+    "capacity for work"
+  ],
+  "description": "'kenua' is capacity available to a body, device, or process for action or change. In ordinary speech it can be the energy someone has for work; in physical or technical discussion it can be energy carried, stored, or transferred. 'lori' (vital) describes vigorous living activity, 'puro' (strength) a capacity to exert or withstand force, and module word 'henora' (capacity) how much a system can hold or perform under stated conditions.",
+  "articulatory_notes": "Raise the back of the tongue to the soft palate for 'k' and release into true-mid front 'e'. Touch the tongue tip to the backs of the upper teeth for dental 'n' and carry nasal voice into stressed high-back rounded 'u'. Keep the final vowel separate across the hiatus and open into central unrounded 'a'.",
+  "usage_notes": "The surrounding account can identify where the energy comes from, what carries it, and how it moves or is used. Physical quantities, units, ratings, tariffs, and named products remain in their source notation. 'kenua' says nothing by itself about motivation, permission, ownership, or power over people.",
+  "examples": [
+    {
+      "phi": "sileta kenua loa.",
+      "translation": "The sun gives energy."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Renewable energy—sustainable power from sun, wind, and living systems.",
-    "secular-buddhist-philosophy": "Effort and vitality observed as changing conditions—energy rises and fades like any phenomenon, to be worked with rather than forced."
+    "solarpunk-values": "Energy can be traced from source through storage and use, allowing a community to discuss who benefits, what is depleted, and what consequences travel with the supply."
   },
   "semantic_domains": {
-    "nature": "Active force",
-    "physical": "Power capacity"
+    "activity": "capacity available for action or work",
+    "nature": "energy carried and transformed in living and environmental processes",
+    "physical": "physical capacity that may be stored, transferred, or used for change"
   }
 }

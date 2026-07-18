@@ -7,16 +7,24 @@
     "pha"
   ],
   "pos": "noun",
-  "concept": "Medicine / Healing Substance / Curative Treatment",
-  "description": "A substance used in treating disease or illness; what heals the body. 'Nepha' names what restores—the treatment that returns health.",
-  "sound_symbolism": "The word nurtures healing. 'Ne' nestles with internal care, medicine entering. Then 'ha' /ɸa/ breathes with healing breath, restoration beginning.",
-  "grammatical_notes": "Functions as noun: 'nepha' (the medicine). General term for healing substances. Related to 'heloa' (remedy), 'thelai' (balm), 'wenu' (tonic).",
+  "search_terms": [
+    "medication",
+    "medicinal preparation"
+  ],
+  "description": "'nepha' is a substance or preparation used to prevent, relieve, or treat a health condition. The word identifies its intended medical use; it does not promise a cure, benefit, or freedom from harm. 'heloa' (remedy) relates a specific means to an ailment it is meant to relieve, while the event noun of module verb 'nephoru' (treat) covers a broader course of care that need not be a substance.",
+  "articulatory_notes": "Touch the tongue tip to the backs of the upper teeth for dental 'n', carry the voice through the nose, and open into stressed true-mid front 'e'. Bring the lips close without involving the teeth for unvoiced bilabial 'ph', let air pass between them, and finish with open central 'a'.",
+  "usage_notes": "A request, an offer, the medicine's administration and effects, and the person's answer each take their own clause. Product identity, formulation, amount, route, timing, prescriber, and instructions remain with the source record that makes the medicine safe to identify and use.",
+  "examples": [
+    {
+      "phi": "mia nepha phelona.",
+      "translation": "I need medicine."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Medicine for suffering—addressing the root cause, not just symptoms, true healing.",
-    "pre-industrial-wisdom": "Medicine from nature—plants, minerals, preparations passed through generations of healers."
+    "peace-linguistics-practices": "Separating the medicine from its offer, expected effect, and the person's answer keeps care from being mistaken for consent."
   },
   "semantic_domains": {
-    "creation": "Healing substance",
-    "physical": "Restoration"
+    "creation": "a prepared substance made or selected for medical use",
+    "physical": "a substance used to prevent, relieve, or treat a health condition"
   }
 }

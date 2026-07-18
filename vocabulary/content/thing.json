@@ -7,16 +7,25 @@
     "na"
   ],
   "pos": "noun",
-  "concept": "Thing / Object / Some-Being",
-  "description": "The noun of general reference, naming any object, matter, or being when specific terms are unavailable or unnecessary. In Phi, 'thing' serves as the humble workhorse of reference, the word we use when we point and haven't yet learned the proper name, or when the category matters less than the presence. This word acknowledges that the world is full of thingness before it is full of specific kinds.",
-  "sound_symbolism": "The word opens with 'the', where the gentle dental fricative 'th' creates abstract pointing—the breath of indicating without grasping, of acknowledging presence. The clear 'e' focuses attention. This grounds into 'na', where the nasal provides substance and stability—things have weight, they exist, they occupy space. The open 'a' allows the word to encompass anything. Two syllables keep the word accessible for its frequent work of general reference.",
-  "grammatical_notes": "Functions as a general noun of reference, similar to English 'thing' or 'something.' Can refer to physical objects, matters of discussion, or situations. When counted, any optional classifier follows the actual referent: 'themo' applies only if the thing is a detached or crafted object, while other or unclear referents omit it or use their canonical category. Often used where specific terminology is unknown or irrelevant.",
+  "search_terms": [
+    "entity",
+    "general referent",
+    "matter"
+  ],
+  "description": "When a referent's particular kind is unknown, irrelevant, or supplied elsewhere, 'thena' does the ordinary work of 'thing'. It can point to a physical object, an event, or a matter under discussion without claiming that all such referents share one substance. 'muralo' (material) asks what matter is in use; when the kind itself matters, a more specific noun does the job better.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and move into stressed true-mid front 'e'. Touch the tongue tip to the backs of the upper teeth for dental 'n', carry the voice through the nose, and finish with open central 'a'.",
+  "usage_notes": "When 'thena' is counted, an optional classifier follows the actual referent rather than the general word. A detached or crafted object may take 'themo'; an unclear or nonphysical referent may omit a classifier. A person can be a grammatical referent, but 'miona' (person) keeps personhood explicit whenever it is relevant and avoids reducing someone to an unspecified thing.",
+  "examples": [
+    {
+      "phi": "mu thena manolu.",
+      "translation": "Nothing remains."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "All things arise dependently, all things pass—objects are processes, with no fixed inherent essence. 'Thena' names the arising presence before categories fix it.",
-    "peace-linguistics-practices": "Sometimes humble reference serves better than precise categorization. 'Thena' provides the gentle word for pointing without claiming to fully know."
+    "peace-linguistics-practices": "General reference is useful when a category is unknown, but a person need not disappear inside it. 'miona' remains available whenever personhood, agency, or testimony matters."
   },
   "semantic_domains": {
-    "cognition": "general reference in thought and speech",
-    "physical": "objects and matters in general"
+    "cognition": "a general referent used when a more specific category is unknown or irrelevant",
+    "physical": "an unspecified object or material item when its particular kind is not needed"
   }
 }

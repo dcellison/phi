@@ -8,16 +8,25 @@
     "ka"
   ],
   "pos": "noun",
-  "concept": "Treasure / Value Highly / Regard as Precious",
-  "description": "To regard something as precious and of great worth, holding it in high value. 'Themoka' names both the act of treasuring and what is treasured—the precious things we recognize as valuable, whether material, relational, or experiential.",
-  "sound_symbolism": "The word holds value securely. 'The' /θe/ begins with gentle breath, recognizing what is precious. Then 'mo' embraces with nasal depth, value held close. Finally 'ka' confirms with velar certainty, worth acknowledged and protected.",
-  "grammatical_notes": "Noun: 'mia themoka' (my treasure). Treasuring is cherishing: 'mia ha thena meropi.' (I cherish this thing.) The word names what is recognized as precious.",
+  "search_terms": [
+    "precious thing",
+    "cherished treasure",
+    "keepsake"
+  ],
+  "description": "A worn toy, a person, or a remembered place may be 'themoka' to someone: a treasure held especially precious. The noun is the treasured referent, not the act, and it implies neither ownership nor financial value. 'thaemo' (precious) describes the cherishing relation, 'meropi' (cherish) is the continuing act, and 'rolia' (worth) makes a wider claim of dignity or value.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and move into true-mid front 'e'. Close the lips for voiced nasal 'm', carry the voice through the nose, and open into stressed true-mid back rounded 'o'. Raise the back of the tongue to the soft palate for 'k' and release into open central 'a'.",
+  "usage_notes": "A possessive phrase can identify whose cherishing relation is meant, as in 'mia themoka' (my treasure). The treasured referent may be living, shared, remembered, or impossible to own. A speaker uses 'meropi' when the sentence needs the act rather than the cherished referent.",
+  "examples": [
+    {
+      "phi": "ha mia themoka nai.",
+      "translation": "This is my treasure."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "True treasures are not possessions but qualities and connections—wisdom, compassion, and relationship outvalue material wealth.",
-    "art-nouveau-aesthetics": "Beauty itself is treasure—the precious moments, forms, and expressions that enrich existence."
+    "pre-industrial-wisdom": "A repaired tool, saved letter, seed line, or remembered place can be treasured for the relationships it carries rather than for novelty or price."
   },
   "semantic_domains": {
-    "cognition": "Perceiving worth",
-    "emotion": "Recognizing and holding value"
+    "community": "a person, place, living thing, object, or memory cherished within a relationship",
+    "emotion": "a particular referent held especially dear"
   }
 }

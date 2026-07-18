@@ -7,16 +7,25 @@
     "wo"
   ],
   "pos": "noun",
-  "concept": "Sage / Wise One / Elder of Wisdom",
-  "description": "One whose insight comes from deep experience and reflection; a wise elder. 'Phewo' names wisdom earned through living, not only through study.",
-  "sound_symbolism": "The fricative 'phe' opens on a quiet breath, and 'wo' rounds into the open back vowel. Both syllables are soft; the word contains no stops at all.",
-  "grammatical_notes": "Functions as noun: 'phewo lo thunai thumela.' (The sage teaches the students.) Beyond 'thonua' (scholar)—wisdom rather than knowledge. The goal of 'thole' (practice) over a lifetime; compare 'wheo' (elder), aged but not necessarily wise.",
+  "search_terms": [
+    "wise person",
+    "person of practical wisdom"
+  ],
+  "description": "People call someone 'phewo' when they regard that person as wise through sustained reflection, experience, or practice. A sage need not be old or infallible, and the name gives no right to decide for anyone else. 'thonua' (scholar) concerns sustained study and inquiry, while 'wheo' (elder) marks a later station of life without making a claim about wisdom.",
+  "articulatory_notes": "Bring the lips close without involving the teeth for unvoiced bilabial 'ph' and let air pass into stressed true-mid front 'e'. Round the lips for voiced 'w' and continue into true-mid back rounded 'o'.",
+  "sound_symbolism": "The bilabial fricative opens on quiet air and the rounded second syllable continues without a stop. With no full closure in either syllable, the word has an unforced contour.",
+  "usage_notes": "The noun reports a judgement made by a person or community. The source of that judgement, the field in which the person is wise, and the acts they perform can be stated separately. Exact religious titles, lineage roles, and honorifics retain their source identity.",
+  "examples": [
+    {
+      "phi": "phewo lo thunai thumela.",
+      "translation": "The sage teaches the students."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Sage as awakened—one who has realized through practice what others only study.",
-    "pre-industrial-wisdom": "Sage as elder—wisdom that comes from long life lived attentively."
+    "secular-buddhist-philosophy": "Wisdom remains a practice and a revisable judgement, not a permanent essence bestowed on a person. A sage may still listen, doubt, and learn."
   },
   "semantic_domains": {
-    "community": "Wisdom role",
-    "wisdom": "Insight earned through living"
+    "community": "a person regarded by others as having practical or reflective wisdom",
+    "wisdom": "judgement shaped through sustained reflection, experience, or practice"
   }
 }

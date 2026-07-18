@@ -8,17 +8,27 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Resource / Something Considered Available for a Purpose",
-  "description": "Something considered available for a stated purpose. Resource status is a relation to that purpose, not an inherent property; calling water a resource for a garden grants no ownership or claim to it by itself.",
-  "sound_symbolism": "'Pa' starts with a firm lip contact and broad release, like a surface placed under the hand. Stressed 'nu' shifts that support to a deep dental nasal. 'Ri' flicks outward and brightens the ending, so something held gains depth in use and moves toward the purpose that calls for it.",
-  "grammatical_notes": "A countable or mass noun commonly modified by purpose or user: 'ha phialu ha thepalu panuri nai.' (The water is a resource for the garden.) State who treats it as available, for what purpose, under which access and authority. Distinct from 'muralo' (material), 'laenu' (commons), 'phelu' (hold), and inherent worth 'rolia'.",
+  "search_terms": [
+    "available means",
+    "usable supply"
+  ],
+  "description": "Water becomes 'panuri' for a garden when someone treats it as available for that purpose. Resource status belongs to the relation, not to the thing by nature, and it grants no ownership, access, or permission to use that thing. 'muralo' (material) identifies matter in use, 'laenu' (commons) a shared resource and its governance, and 'rolia' (worth) a claim of value that does not depend on usefulness.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into open central 'a'. Touch the tongue tip to the backs of the upper teeth for dental 'n' and carry nasal voice into stressed high-back rounded 'u'. Tap or briefly trill the tongue tip at the alveolar ridge for 'r', then finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The word begins with a firm lip release, settles into the deep rounded centre of 'nu', and leaves on the brief turn of 'ri'. Its contour moves from something present and held towards a stated use.",
+  "usage_notes": "A purpose, process, or user can modify 'panuri', and a surrounding clause can identify who treats it as available. That still leaves the condition of the resource, whether there is enough, and who may use it to be said. Module words 'sephori' (supply) and 'muphera' (stock) concern provision and an available quantity rather than resource status itself.",
+  "examples": [
+    {
+      "phi": "ha phialu ha thepalu panuri nai.",
+      "translation": "This water is a resource for this garden."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Resource language remains available for planning while explicitly refusing the idea that usefulness grants ownership or erases ecological and cultural relationships.",
-    "peace-linguistics-practices": "The definition requires claimants and authority to remain visible instead of turning land, beings, knowledge, or labor into anonymous available stock."
+    "solarpunk-values": "Resource language remains useful for shared planning when it also leaves access, authority, ecological limits, and future relationships in view.",
+    "peace-linguistics-practices": "Calling land, knowledge, work, or a living being useful must not turn it into ownerless stock. 'panuri' keeps the claimant and purpose available for explicit statement."
   },
   "semantic_domains": {
-    "activity": "something considered available for a stated purpose or process",
-    "community": "availability and access may be shared, contested, governed, or refused",
-    "physical": "the term often concerns material, energy, land, water, or biological products"
+    "activity": "something treated as available for a stated purpose or process",
+    "community": "availability whose access, authority, and governance may be shared or contested",
+    "physical": "material, energy, land, water, or biological matter considered for use"
   }
 }

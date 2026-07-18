@@ -210,14 +210,14 @@ When reporting the work, name a concrete pattern found and corrected. "Humanizer
 
 ## Batch artifacts
 
-A completed SEM-09B batch normally changes:
+A completed semantic prose batch normally changes:
 
 1. The selected canonical JSON entries under `vocabulary/content/`.
 2. `project/content_vocabulary_coverage.md`, including the overview row, current-position row, full conceptual-test section, semantic-domain crosswalk where applicable, and resume point.
 3. `project/content_vocabulary_decisions.json`, with reciprocal batch and candidate links.
 4. Generated `project/content_vocabulary_decisions.md`.
 5. `project/development_log.md`, normally one new D-numbered decision summarizing the batch.
-6. `project/roadmap.md`, with the remaining base count and evidence references.
+6. `project/roadmap.md`, with the remaining queue count and evidence references.
 7. Generated `documents/validation/vocabulary_prose_coverage.json`.
 8. Generated Part VII lexicon references whose source data changed, often `manual/part7_reference/lexicon/by_domain.md` and possibly the other generated indexes.
 9. `documents/reference/compounds.md` and generated `manual/part7_reference/compounds.md` when a new registered composition is accepted.

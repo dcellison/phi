@@ -8,16 +8,24 @@
     "pa"
   ],
   "pos": "noun",
-  "concept": "Sacred Place / Holy Site / Place of Reverence",
-  "description": "A place regarded with reverence and respect; a site of spiritual significance. 'Thunepa' names where the sacred dwells—temples, groves, mountains, any place treated with ultimate care.",
-  "sound_symbolism": "The word honors place. 'Thu' /θu/ begins with reverent breath, sacredness present. 'Ne' settles with grounded presence. Then 'pa' completes with gentle affirmation, sacred place confirmed.",
-  "grammatical_notes": "Functions as a noun: 'thunepa thiro nai.' (the sacred place is serene). Related to 'thoepa' (sacred) and 'thelui' (sanctuary) but emphasizes location of reverence.",
+  "search_terms": [
+    "holy site",
+    "revered place"
+  ],
+  "description": "When a person, community, or tradition regards a particular place as sacred, that place is 'thunepa'. A grove, building, spring, or burial place may bear the relationship. The word does not make the place sacred for everyone or prove a supernatural claim. 'thoepa' (sacred) is the wider adjective, while 'thelui' (sanctuary) concerns refuge and protection.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and move into high-back rounded 'u'. Touch the tongue tip to the backs of the upper teeth for dental 'n' and carry nasal voice into stressed true-mid front 'e'. Close the lips for unvoiced 'p' and release into open central 'a'.",
+  "usage_notes": "When context does not supply the relationship, a surrounding phrase can identify the person, community, tradition, or practice for whom the place is sacred. Site names, traditional designations, access rules, and source accounts remain with the people and records that carry them.",
+  "examples": [
+    {
+      "phi": "thunepa thiro nai.",
+      "translation": "The sacred place is serene."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Any place can become sacred—through attention, care, and reverence, the ordinary transforms.",
-    "pre-industrial-wisdom": "Sacred places anchored communities—sites where the holy was honored, where important rituals occurred."
+    "pre-industrial-wisdom": "A place may gather memory through burials, seasonal return, ceremony, water, food, or long care. The relationship is learned locally rather than inferred from the landscape alone."
   },
   "semantic_domains": {
-    "ritual": "Place of reverence",
-    "spatial": "Holy site"
+    "ritual": "a place approached through practices of reverence",
+    "spatial": "a particular site regarded as sacred"
   }
 }

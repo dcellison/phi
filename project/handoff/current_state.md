@@ -1,32 +1,31 @@
 # Current state
 
-This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D043. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
+This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D044. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
 
 ## Active execution sequence
 
 The roadmap's current sequence is not an invitation to choose among several equal tasks. It records one active path:
 
-1. SEM-09B: migrate the final 18 base content entries.
-2. SEM-09D: inspect active Phi passages after the base queue reaches zero.
-3. SEM-09C: migrate 209 legacy module entries.
-4. PED-08: resume the book at chapter 7.
+1. SEM-09D: inspect active Phi passages now that the base queue is zero.
+2. SEM-09C: migrate 209 legacy module entries.
+3. PED-08: resume the book at chapter 7.
 
-Do not jump into module prose before the base queue and the post-base corpus sweep are complete. A previous batch briefly crossed that boundary; the maintainer corrected it and asked that base vocabulary be finished first.
+Do not jump into module prose before the post-base corpus sweep is complete. A previous batch briefly crossed the base-first boundary; the maintainer corrected it, and D044 has now completed that base work.
 
 ## Lexicon migration counts
 
 | Inventory | Total | Target | Legacy |
 |---|---:|---:|---:|
-| Entire lexicon | 1,260 | 1,033 | 227 |
-| Content vocabulary | 1,130 | 903 | 227 |
-| Base content vocabulary | 884 | 866 | 18 |
+| Entire lexicon | 1,260 | 1,051 | 209 |
+| Content vocabulary | 1,130 | 921 | 209 |
+| Base content vocabulary | 884 | 884 | 0 |
 | Optional-module content vocabulary | 246 | 37 | 209 |
 | Function vocabulary | 110 | 110 | 0 |
 | Interjections | 20 | 20 | 0 |
 
 There are no partial or dual entries. A target entry has both `articulatory_notes` and structured `examples` and has neither legacy `concept` nor `grammatical_notes`. The committed evidence is [`documents/validation/vocabulary_prose_coverage.json`](../../documents/validation/vocabulary_prose_coverage.json).
 
-The latest completed prose batch is D043, Reason, belief, ritual, and value. It migrated 18 base nouns without adding a root. The immediately preceding batches covered language and art, space and orientation, tools and travel, dwelling and food, materials, living systems, landscape and weather, and time. Do not reopen those entries merely to make their English prose different; reopen one only for a real semantic, factual, voice, or corpus problem.
+The latest completed prose batch is D044, Roles, places, relations, and remaining concrete nouns. It migrated the final 18 base nouns without adding a root and closed SEM-09B. The immediately preceding batches covered reason and value, language and art, space and orientation, tools and travel, dwelling and food, materials, living systems, landscape and weather, and time. Do not reopen those entries merely to make their English prose different; reopen one only for a real semantic, factual, voice, or corpus problem.
 
 ## Decision register
 
@@ -34,56 +33,29 @@ The latest completed prose batch is D043, Reason, belief, ritual, and value. It 
 
 | Item | Count |
 |---|---:|
-| Semantic batches | 54 |
-| Decisions | 128 |
+| Semantic batches | 55 |
+| Decisions | 145 |
 | Implemented | 39 |
-| Compositional | 39 |
-| Deferred with return condition | 29 |
-| Source-bound | 17 |
+| Compositional | 47 |
+| Deferred with return condition | 30 |
+| Source-bound | 25 |
 | Declined | 4 |
 | Open | 0 |
 | Accepted but not implemented | 0 |
 
-The next completed batch will normally become D044 in [`project/development_log.md`](../development_log.md), unless an intervening decision uses that identifier first. Check the live log before assigning it.
+The latest development decision is D044 in [`project/development_log.md`](../development_log.md). Check the live log before assigning the next identifier.
 
-## The final 18 base entries
+## Base queue complete
 
-The table below gives every base entry still using legacy prose. Forms and exact glosses remain fixed unless a separate lexical decision changes them. Existing semantic domains are starting evidence, not a command to preserve an old classification that no longer makes sense.
+D044 migrated `rulami`, `menua`, `pukea`, `kenua`, `woru`, `nepha`, `phaliso`, `panuri`, `thunepa`, `phewo`, `thelui`, `thonua`, `kupela`, `phirenu`, `thena`, `themoka`, `silawo`, and `niro`. Their forms and exact glosses did not change. The pass removed idealised role and place claims, separated practical warning from quantified risk, kept medicine apart from treatment and exact product identity, clarified web, net, network, and system, and retained resource as a relationship to a stated purpose rather than an inherent status.
 
-One residual 18-entry batch remains. Read every entry, its neighbours, canon rulings, and corpus uses before settling the final heading or deciding that a familiar English sense belongs in the Phi root.
-
-### Suggested closing batch: Roles, places, relations, and remaining concrete nouns
-
-| File | Phi | Exact gloss | Current semantic domains |
-|---|---|---|---|
-| `vocabulary/content/adventure.json` | `rulami` | adventure | activity, temporal |
-| `vocabulary/content/counselor.json` | `menua` | counselor | community, wisdom |
-| `vocabulary/content/danger.json` | `pukea` | danger | community, nature, physical |
-| `vocabulary/content/energy.json` | `kenua` | energy | nature, physical |
-| `vocabulary/content/keeper.json` | `woru` | keeper | community, temporal |
-| `vocabulary/content/medicine.json` | `nepha` | medicine | creation, physical |
-| `vocabulary/content/network.json` | `phaliso` | network | community, creation |
-| `vocabulary/content/resource.json` | `panuri` | resource | activity, community, physical |
-| `vocabulary/content/sacred-place.json` | `thunepa` | sacred place | ritual, spatial |
-| `vocabulary/content/sage.json` | `phewo` | sage | community, wisdom |
-| `vocabulary/content/sanctuary.json` | `thelui` | sanctuary | ritual, spatial |
-| `vocabulary/content/scholar.json` | `thonua` | scholar | cognition, community |
-| `vocabulary/content/secret.json` | `kupela` | secret | cognition, communication |
-| `vocabulary/content/snow.json` | `phirenu` | snow | nature, temporal |
-| `vocabulary/content/thing.json` | `thena` | thing | cognition, physical |
-| `vocabulary/content/treasure.json` | `themoka` | treasure | cognition, emotion |
-| `vocabulary/content/village.json` | `silawo` | village | community, spatial |
-| `vocabulary/content/web.json` | `niro` | web | nature, spatial |
-
-This is a residual batch, so its completeness review must be broader than its heading. Check whether any word is too specialized for base vocabulary, but do not move an established base word into a module merely because one module uses it. Pay particular attention to `energy`, whose ordinary and technical senses can drift; `medicine`, which must remain distinct from remedy, treatment, and clinical source records; `resource`, which can reduce living relations to use; and role nouns, which must not acquire verbs under the rejected noun-to-verb direction.
-
-The live query for this queue is:
+The broad completeness review added seventeen decisions and linked six earlier ones. No new root was needed. Registered `thero muralo` supplies ordinary fuel, while specialist fuels keep their existing material return condition. Electricity, electric charge and current, and related electrical phenomena have the concrete `CV-ENERGY-01` return point for connected Systems or related module work. Exact clinical, technical, legal, academic, cultural, security, weather, and civic identities remain source-bound. The live query that proves the base queue is empty is:
 
 ```bash
 jq -r 'select((has("concept") or has("grammatical_notes")) and (((.modules // []) | length) == 0)) | [input_filename,.word,.gloss,.pos,((.semantic_domains // {}) | keys | join(","))] | @tsv' vocabulary/content/*.json | sort
 ```
 
-Run it again before every batch. The table in this snapshot is not a substitute for the files.
+Run it before trusting the zero count. The snapshot is not a substitute for the files.
 
 ## Module state
 
@@ -108,7 +80,7 @@ All eight profiles already have canonical JSON membership, a generated module in
 
 The literary shelf has completed its full review against the current lexicon. It contains nine close translations and eleven transmutations; seven works have both. *News from Nowhere* is one 32-chapter work with the first three chapters transmuted and reviewed. The current review record is [`documents/evaluation/active_text_corpus_review.md`](../../documents/evaluation/active_text_corpus_review.md).
 
-SEM-09D begins only after the final 18 base entries reach target state. It is not a blind replacement pass. The sweep covers the book, manual, primer, pamphlets, texts, and current documents for paraphrases or workarounds involving words coined during the base expansion. A Phi passage changes only when the newer form is more faithful or natural in that passage. A transparent composition stays when its parts still teach or express the thought better, and every changed sentence and dependency receives validation.
+SEM-09D is now active. It is not a blind replacement pass. The sweep covers the book, manual, primer, pamphlets, texts, and current documents for paraphrases or workarounds involving words coined during the base expansion. A Phi passage changes only when the newer form is more faithful or natural in that passage. A transparent composition stays when its parts still teach or express the thought better, and every changed sentence and dependency receives validation.
 
 The shelf's method distinction remains settled:
 
@@ -133,7 +105,7 @@ The book has eight drafted files: the cold open, chapters 1 through 6, and chapt
 
 The treatment aims for 4,000 to 6,000 words per chapter and 70,000 to 90,000 words overall, but Daniel chose to continue rather than pad early chapters merely to meet a projection. Do not silently lengthen merged chapters. A later structural edit can decide where depth is genuinely missing.
 
-The next planned draft is chapter 7, "A literature before a community." It comes after SEM-09B, SEM-09D, and SEM-09C. Read [`book/treatment.md`](../../book/treatment.md), chapter 6, and several neighbouring finished chapters before drafting. Each chapter is its own PR. Audit every external citation after the draft, repair the prose from the audit, preserve the consistent `Phi sources` subsection, and use restrained Jerome humour where it fits.
+The next planned draft is chapter 7, "A literature before a community." It comes after SEM-09D and SEM-09C. Read [`book/treatment.md`](../../book/treatment.md), chapter 6, and several neighbouring finished chapters before drafting. Each chapter is its own PR. Audit every external citation after the draft, repair the prose from the audit, preserve the consistent `Phi sources` subsection, and use restrained Jerome humour where it fits.
 
 The leading book title remains *A Language You Cannot Hurry*. *Announce, Then Deliver* is the alternate. The title is open. "Hurry" must continue to mean attention discarded under pressure, not fast speech.
 
@@ -148,7 +120,7 @@ Citation work performed in earlier conversations is not preserved as a complete 
 | Native glyph mode | Parked | Daniel chooses to resume exploration of Phi's one intended native script. |
 | Spoken source material and code-switching | Open design question | Live conversational examples make the current outside-syntax boundary inadequate. Do not reintroduce guest or exact frames. |
 | Sexual and reproductive anatomy | Queued scenario-led vocabulary effort | Begin as its own respectful corpus and vocabulary project, not as an unnoticed extension of Medical vocabulary. |
-| Legacy vocabulary prose audit | Active | Complete the final 18 base entries, corpus retrofit, and 209 module entries. |
+| Legacy vocabulary prose audit | Active | Complete the post-base corpus retrofit and 209 module entries; the base queue reached zero in D044. |
 | Lexical relations between content words | Parked | The explorer or project needs curated related-word navigation strongly enough to add and maintain a schema field. |
 | Tengwar renderer verification | Parked | Tengwar work resumes or approaches publication status. |
 | Solarpunk community engagement | Open strategic question | Daniel is ready to offer Phi outside its repository and decide what a healthy invitation looks like. |

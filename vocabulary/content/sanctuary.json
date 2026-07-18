@@ -8,16 +8,26 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Sanctuary / Sacred Refuge / Protected Space",
-  "description": "A place of refuge or safety; a sacred or protected space. 'Thelui' names the inviolable space—where one is safe from harm, where the sacred is honored, where peace is guaranteed.",
-  "sound_symbolism": "The word holds sacred safety. 'The' /θe/ begins with reverent breath, sacredness present. 'Lu' flows with protected peace. Finally 'i' arrives at certainty, sanctuary confirmed.",
-  "grammatical_notes": "Functions as a noun: 'thelui shurano nai.' (the sanctuary is safe). Related to 'shuroa' (shelter) but emphasizes sacred or absolute protection.",
+  "search_terms": [
+    "refuge",
+    "protected place",
+    "sacred refuge"
+  ],
+  "description": "A room, house, or patch of ground set apart for refuge or protection is 'thelui'. The practice, community, or institution behind it may also regard the place as sacred, but sacredness is not required. Calling a place sanctuary does not guarantee that it is safe or accessible. 'shuroa' (shelter) reduces exposure to immediate physical danger, while 'thunepa' (sacred place) concerns reverence rather than refuge.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and move into true-mid front 'e'. Touch the tongue tip to the alveolar ridge for lateral 'l' and continue into stressed high-back rounded 'u'. Keep the final vowel separate across the hiatus, spread the lips, and raise the front of the tongue for high-front unrounded 'i'.",
+  "usage_notes": "A surrounding account can name who established the sanctuary, whom it is meant to receive, and what protection is promised. Conditions of entry or continued presence may need another sentence. Legal sanctuary, asylum, refugee status, and institutional guarantees remain with the source that defines them.",
+  "examples": [
+    {
+      "phi": "thelui shurano nai.",
+      "translation": "The sanctuary is safe."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "The mind can be sanctuary—inner refuge that remains peaceful regardless of outer conditions.",
-    "peace-linguistics-practices": "Sanctuary enables healing—spaces where harm cannot reach allow recovery and restoration."
+    "peace-linguistics-practices": "A promised refuge can be examined through its actual access and safety rather than accepted because of its name. The people seeking protection remain speakers of their own needs and decisions."
   },
   "semantic_domains": {
-    "ritual": "Protected space",
-    "spatial": "Sacred refuge"
+    "community": "a refuge established and maintained through a social or institutional practice",
+    "ritual": "a sanctuary that may also be set apart through sacred observance",
+    "spatial": "a place designated for refuge or protection"
   }
 }
