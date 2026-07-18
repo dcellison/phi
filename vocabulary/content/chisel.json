@@ -7,17 +7,28 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Chisel / Carving Tool / To Carve with Precision",
-  "description": "A tool with a cutting edge for shaping wood, stone, or metal; to carve with precision. 'Kiru' names what reveals form—removing material to find shape within.",
-  "sound_symbolism": "The word cuts clear. 'Ki' bites with sharp precision, edge entering. Then 'ru' carves the channel, form emerging from material.",
-  "grammatical_notes": "Noun: 'kiru' (chisel), 'lo kiru' (chisels). The chisel acts through 'roe': 'mia roe kiru wolea kati.' (I cut the wood with the chisel.) Works with 'toka' (hammer) in carving.",
+  "search_terms": [
+    "carving tool",
+    "wood chisel",
+    "stone chisel"
+  ],
+  "description": "The shaped cutting edge of a 'kiru' removes or parts material under guided pressure, often with a hammer. Chisels work wood, stone, or metal, with the exact tool following the material and task. The noun supplies no hidden action: cutting is 'kati' and shaping is 'kire'.",
+  "articulatory_notes": "A complete velar closure releases unvoiced 'k' into stressed high-front unrounded 'i'. Strike the alveolar ridge once with the tongue tip for 'r'; a short trill is also permitted. Finish on high-back 'u' with rounded lips.",
+  "sound_symbolism": "A crisp back release is followed by one quick turn of the tongue. The compact motion feels like a short, controlled pass of an edge through material.",
+  "usage_notes": "Instrumental 'roe' places the chisel before the material. A hammer may be named as a further instrument when it supplies the pressure, while the verb states whether the maker cuts, shapes, splits, or performs another act.",
+  "examples": [
+    {
+      "phi": "mia roe kiru wolea kati.",
+      "translation": "I cut the wood with the chisel."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Detail and precision—the chisel creates the fine lines, the delicate relief, beauty in small scale.",
-    "pre-industrial-wisdom": "Carving reveals—the chisel finds form hidden in wood and stone, subtractive art."
+    "art-nouveau-aesthetics": "A chisel can carry line and relief into wood, stone, or metal. Ornament follows the grain and resistance of the material.",
+    "pre-industrial-wisdom": "Pressure, edge angle, and the material's response reach the hand directly when a chisel is guided and maintained."
   },
   "semantic_domains": {
-    "aesthetic": "Revealing form",
-    "creation": "Carving tool"
+    "creation": "an edged implement for carving, fitting, and shaping material",
+    "physical": "a tool that concentrates guided pressure at a shaped cutting edge"
   },
   "modules": [
     "work-craft-and-repair"

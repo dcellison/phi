@@ -8,18 +8,29 @@
     "ru"
   ],
   "pos": "verb",
-  "concept": "Supervise / Attend to Work Under Claimed Responsibility",
-  "description": "To attend to another participant's work under a claimed responsibility: checking conditions, answering questions, stepping in under defined rules. The word carries the claim of responsibility, not its legitimacy; supervision can be requested and kind, or imposed and contested, and it approves nothing by itself.",
-  "sound_symbolism": "A rounded hiss gives 'so' a quiet, attentive opening. Stressed 'me' brings the sound to closed lips and holds it in balanced 'e'. Final 'ru' releases the mouth with a tongue roll and deep 'u'. The word pauses at its center, then turns outward into a lower resonance.",
-  "grammatical_notes": "A transitive verb: 'shia ha shiroka someru.' (They supervise the repair.) State the activity, participants, scope, claimed responsibility, and source of authority when these matter. The event-noun rule supplies supervision. Distinct from 'somela' (observe), 'wephari' (coordinate), 'ketora' (technical control), and 'thorae' (facilitator).",
+  "search_terms": [
+    "oversee work",
+    "attend under responsibility",
+    "work supervision"
+  ],
+  "description": "To 'someru' is to attend to another participant's work under a claimed responsibility. Supervision may include answering questions and checking conditions within an agreed scope. 'somela' (observe) attends without that responsibility; supervision adds no automatic authority.",
+  "articulatory_notes": "Make unvoiced 's' through the alveolar groove and round into true-mid back 'o'. Voiced 'm' closes the lips and sends the sound through the nose before stressed true-mid front 'e'. Turn the tongue tip in one light tap or brief trill, then deepen into high-back rounded 'u'.",
+  "sound_symbolism": "Rounded 'so' narrows into the closed lips of stressed 'me', then final 'ru' lets the tongue turn and the vowel deepen. The held middle and outward release suggest attention kept on work before a response is made.",
+  "usage_notes": "The supervised work, task, or participant is the object. Its event noun is supervision. Scope and claimed responsibility belong near the verb when they are disputed. Coordination, facilitation, observation, and technical control remain separate relations.",
+  "examples": [
+    {
+      "phi": "shia ha shiroka someru.",
+      "translation": "They supervise the repair."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Requiring speakers to identify the scope and claimed basis of supervision discourages silent expansion from attending to one task into authority over a whole person.",
-    "pre-industrial-wisdom": "Apprenticeship and shared craft often require close guidance, but the word keeps that practical relationship separate from permanent rank or ownership of another person's labor."
+    "peace-linguistics-practices": "A bounded supervision word keeps attention to one work relation from expanding silently into authority over a whole person.",
+    "pre-industrial-wisdom": "Close guidance can keep a learner safe and make pressure, posture, or timing perceptible while the practical relationship remains open to question."
   },
   "semantic_domains": {
-    "activity": "attending to another participant's work within a stated scope",
-    "cognition": "observing conditions and responding to performance",
-    "community": "a bounded work relationship whose authority remains separately stated"
+    "activity": "attention to another participant's work under a claimed responsibility",
+    "cognition": "observation used to answer questions or respond to conditions",
+    "community": "a bounded work relation whose authority has a separate source"
   },
   "modules": [
     "work-craft-and-repair"

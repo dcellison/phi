@@ -8,17 +8,29 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Loom / Weaving Frame / Textile Device",
-  "description": "A frame or machine for weaving cloth; the structure that holds threads for interlacing. 'Weloa' names what enables weaving—the frame where warp meets weft.",
-  "sound_symbolism": "The word weaves complete. 'We' interlaces in relationship, threads crossing. 'Lo' opens the frame wide. Then 'a' completes with open vowel, cloth emerging.",
-  "grammatical_notes": "Functions as noun: 'weloa' (loom), 'lo weloa' (looms). Creates 'wetha' (cloth) from 'sima' (thread). Center of textile production.",
+  "search_terms": [
+    "weaving frame",
+    "weaving machine",
+    "textile loom"
+  ],
+  "description": "A 'weloa' is a frame or machine that holds threads under controlled tension so other threads can pass across them in weaving. Simple hand frames and larger mechanical looms share the word. 'selomi' (weave) is the interlacing act; the loom is the device that holds the work in order.",
+  "articulatory_notes": "Rounded voiced 'w' moves from a raised tongue back into unrounded true-mid front 'e'. At the alveolar ridge, voiced 'l' lets air pass along the tongue's sides into stressed true-mid rounded 'o'. Open fully for the separate final 'a', with the 'o.a' hiatus audible.",
+  "sound_symbolism": "Rounded 'we' and 'lo' move in two even beats before the final vowel opens by itself. The measured cadence echoes repeated passes across threads held steady.",
+  "usage_notes": "The marker 'roe' makes the loom the instrument of weaving. Thread and fibre can be named, as can the tension or pattern. Exact loom type remains available when the general device word is too broad.",
+  "examples": [
+    {
+      "phi": "mia roe weloa liru selomi.",
+      "translation": "I weave fabric with a loom."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Pattern emerging—the loom reveals design through repetition, mathematics made visible.",
-    "pre-industrial-wisdom": "The loom as heart of home—where cloth for family was made thread by thread."
+    "art-nouveau-aesthetics": "A loom gives textile ornament a structure of crossings and tension, so pattern grows from the material rather than sitting apart from it.",
+    "pre-industrial-wisdom": "A loom holds one generation's practical knowledge in its frame, setup, rhythm, and repairs as much as in any written instruction."
   },
   "semantic_domains": {
-    "aesthetic": "Pattern maker",
-    "creation": "Weaving device"
+    "aesthetic": "a device through which woven pattern and texture take form",
+    "creation": "a frame or machine that holds threads for weaving",
+    "physical": "a tensioned structure supporting the interlacing of threads"
   },
   "modules": [
     "work-craft-and-repair"

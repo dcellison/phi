@@ -8,18 +8,29 @@
     "ri"
   ],
   "pos": "verb",
-  "concept": "Coordinate / Arrange Relations Among Dependent Activities",
-  "description": "To arrange order, timing, information, and resources among activities that depend on each other. The coordinator holds threads, not people: the verb implies no supervision, no authority to assign, and no promise that the coordinated work succeeds.",
-  "sound_symbolism": "Rounded 'we' glides from the lips into open 'e'. Stressed 'pha' keeps the lips near each other while unvoiced breath spreads into broad 'a'. Final 'ri' brings the tongue forward for one bright tap. The word opens twice in different ways, then gathers itself into a quick finish.",
-  "grammatical_notes": "A transitive or intransitive verb: 'mia lo riporu wephari.' (I coordinate the tasks.) Name the dependencies, information, participants, and claimed authority where relevant. The event-noun rule supplies coordination. Distinct from 'wenola' (collaborate), 'ketora' (technical control), 'someru' (supervise), and 'thorae' (facilitator).",
+  "search_terms": [
+    "arrange dependent work",
+    "organize activities",
+    "coordinate tasks"
+  ],
+  "description": "To 'wephari' is to arrange relations among activities that depend on one another, including their order, timing, information, or shared resources. Coordination concerns the work's connections; 'someru' (supervise) concerns attention to a participant's work under claimed responsibility. The verb grants no authority over the people involved.",
+  "articulatory_notes": "Shape voiced 'w' with rounded lips and a raised tongue back, then unround into true-mid front 'e'. Bring the lips almost together for unvoiced 'ph' and open the breath into stressed central 'a'. Turn the tongue tip once at the alveolar ridge, or trill it briefly, before final high-front 'i'.",
+  "sound_symbolism": "The lips shape two different openings in 'we' and 'pha' before the tongue gives final 'ri' a quick turn. Several distinct contacts arrive at one shared finish, much as coordinated activities do.",
+  "usage_notes": "The verb may take the activities or tasks as its object, or stand without an object when the coordinated field is understood. Coordination is its regular event noun. Dependencies and participants remain available in surrounding clauses.",
+  "examples": [
+    {
+      "phi": "mia lo riporu wephari.",
+      "translation": "I coordinate the tasks."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Distributed maintenance and community projects need coordination that exposes dependencies without assuming centralized command.",
-    "peace-linguistics-practices": "Separating coordination from control and supervision makes it possible to describe useful organization without granting silent authority over participants."
+    "solarpunk-values": "Shared repair and infrastructure work can coordinate dependencies while knowledge and decision power remain distributed.",
+    "peace-linguistics-practices": "Separating coordination from supervision and control keeps useful organisation from becoming an unspoken claim over participants."
   },
   "semantic_domains": {
-    "activity": "arranging dependent work relations",
-    "cognition": "tracking order, information, and interfaces",
-    "community": "coordination among participants without implied hierarchy"
+    "activity": "arranging relations among dependent activities",
+    "cognition": "tracking the order and information by which work connects",
+    "community": "organising shared activity without encoding authority over participants"
   },
   "modules": [
     "work-craft-and-repair"

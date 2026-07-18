@@ -7,17 +7,28 @@
     "nu"
   ],
   "pos": "noun",
-  "concept": "Canvas / Painting Surface / Artist's Ground",
-  "description": "Strong cloth used as a surface for painting; the ground that receives artistic vision. 'Phanu' names what holds potential—empty surface awaiting creation.",
-  "sound_symbolism": "The word breathes potential. 'Pha' /ɸa/ opens with creative breath, vision forming. Then 'nu' grounds the surface stable, canvas ready.",
-  "grammatical_notes": "Functions as noun: 'phanu' (canvas), 'lo phanu' (canvases). Used with 'phuri' (brush) for painting.",
+  "search_terms": [
+    "painting surface",
+    "artist canvas",
+    "painting ground"
+  ],
+  "description": "Strong cloth prepared or stretched as a surface for painting is 'phanu'. It may be loose, rolled, or held on a frame. 'liru' (fabric) is the broader material; a source record carries the fibre, weave, coating, and dimensions when those details matter.",
+  "articulatory_notes": "Begin 'pha' by narrowing the lips without sealing them, so unvoiced breath opens into stressed central 'a'. For 'nu', rest the tongue tip behind the upper teeth and carry the voiced dental nasal into high-back rounded 'u'.",
+  "sound_symbolism": "The opening breath spreads into broad 'a' before final 'nu' gathers the voice behind a dental contact. The widening and gathering suit cloth drawn taut across a frame.",
+  "usage_notes": "Canvas may be counted as a prepared or framed surface, while canvas as material needs no count. A work made on it keeps the name of its making rather than acquiring another lexical sense of 'phanu'.",
+  "examples": [
+    {
+      "phi": "mia roe phuri phanu weshapi.",
+      "translation": "I decorate the canvas with a brush."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Empty canvas, full potential—like mind before thought, holding all possibility.",
-    "art-nouveau-aesthetics": "Canvas as possibility—the empty surface inviting organic forms, flowing color, natural beauty."
+    "art-nouveau-aesthetics": "Canvas carries drawn line and colour while its weave remains part of the visible surface. Ornament gains a material grain."
   },
   "semantic_domains": {
-    "aesthetic": "Creative potential",
-    "creation": "Art surface"
+    "aesthetic": "a prepared surface whose texture enters the appearance of a painted work",
+    "creation": "cloth arranged to receive pigment during painting",
+    "physical": "strong fabric used loose, rolled, or stretched on a frame"
   },
   "modules": [
     "work-craft-and-repair"

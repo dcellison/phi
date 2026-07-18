@@ -8,18 +8,29 @@
     "ri"
   ],
   "pos": "verb",
-  "concept": "Progress / Move Toward a Stated Work Criterion",
-  "description": "To move toward a stated stage or completion criterion. Progress is always relative to that criterion: it can pause, reverse, or become irrelevant when the plan changes, and change alone is not progress. The word carries no moral improvement and no inevitability.",
-  "sound_symbolism": "A rounded glide carries 'we' into open 'e', then stressed 'pu' closes the lips completely and releases into deep 'u'. Final 'ri' flicks the tongue and rises to bright 'i'. The contour narrows, deepens, then lifts in one last quick motion.",
-  "grammatical_notes": "An intransitive verb: 'ha rinoka wepuri.' (This project progresses.) State the relevant stage or criterion with surrounding clauses when it is not shared. The event-noun rule supplies progress as the observed movement. Distinct from 'sholu' (complete), 'poruli' (efficient), 'thuroa' (grow), and 'wepu' (go).",
+  "search_terms": [
+    "advance towards criterion",
+    "move towards completion",
+    "work progress"
+  ],
+  "description": "Work 'wepuri' when it moves towards a named stage or criterion. The criterion matters because movement alone may lead away from what people now need. 'helui' (change) is broader, while 'sholu' (complete) says that the required parts or steps are present.",
+  "articulatory_notes": "For voiced 'w', round the lips while lifting the tongue back, then release into unrounded true-mid front 'e'. Seal the lips for unvoiced 'p' and open into stressed high-back rounded 'u'. In final 'ri', the tongue tip taps the alveolar ridge once or trills there briefly before high-front 'i'.",
+  "sound_symbolism": "The first two syllables echo 'wepu' (go), so progress has an audible kinship with movement. Final 'ri' changes the cadence through a brief ridge contact and bright close.",
+  "usage_notes": "The verb is intransitive, and its event noun is progress. The surrounding account can identify the undertaking, stage, or criterion. A change of plan may also change what counts as progress.",
+  "examples": [
+    {
+      "phi": "ha rinoka wepuri.",
+      "translation": "This project progresses."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Progress can be evaluated against repair, access, ecological effect, and human need instead of being assumed from growth or activity alone.",
-    "secular-buddhist-philosophy": "A relative progress word keeps attention on changing conditions and chosen criteria rather than treating improvement as an inherent property of time."
+    "solarpunk-values": "A project can test progress against repair, access, ecological effect, or human need instead of treating activity and growth as sufficient evidence.",
+    "secular-buddhist-philosophy": "A stated criterion keeps progress contingent on present conditions rather than turning time itself into a promise of improvement."
   },
   "semantic_domains": {
-    "activity": "movement toward a stated practical criterion",
-    "cognition": "an interpreted relation between current and intended states",
-    "temporal": "change across stages of an undertaking"
+    "activity": "movement towards a selected practical stage or criterion",
+    "cognition": "a comparison between present work and an intended state",
+    "temporal": "change traced across stages of an undertaking"
   },
   "modules": [
     "work-craft-and-repair"

@@ -72,6 +72,14 @@ The first pass admits 28 optional roots for recurring work distinctions and plac
 
 All 30 roots established in this pass follow the complete vocabulary schema, pass the lexical validator, and have no character edit-distance-one or flagged existing phonetic neighbors in the pre-coinage audit. Twenty-eight carry `work-craft-and-repair`; `winora` and `hasoru` carry no module field and remain in base vocabulary.
 
+## Current prose and completeness
+
+The final prose review migrated all sixteen inherited legacy entries. Each now has a target description and complete articulatory account. Embodied sound symbolism appears only where it honestly fits. Usage guidance and structured examples show the word at work, while direct pillar relations and stable semantic domains place it without padding. The review also removes old claims that treated syllables as meanings or let a noun quietly perform a verb's work.
+
+The completeness gate records thirteen new decisions and links twenty-two earlier ones. Together they keep ordinary workshop, labour, and institutional questions in the right mix of explicit composition and source material. Craft traditions and credentials keep their sources. Legal, economic, and technical identities do as well. No new root was needed; the workshop was already better stocked than its older definitions suggested.
+
+Work, Craft, and Repair retains seventy current memberships and now has no legacy entry. With all eight learning paths complete, every entry in the lexicon follows the target prose contract. The next work is contextual: revisit active Phi passages and change an older workaround only when the present vocabulary is more faithful or natural there.
+
 ## Concepts Kept Compositional or External
 
 The pass keeps several expressions compositional because their parts expose agency, source, scope, bodily consequence, or cross-module boundaries that a single label could hide. Exact categories remain outside Phi when a translated approximation would lose their operative identity or force.
@@ -136,4 +144,4 @@ Use the module in craft narratives, repair records, project discussions, learnin
 
 Future use should particularly test non-workshop coordination, source-faithful wage and contract disputes, household and care labor, software and automated work, protective systems, learner exit, contested certification, and material provenance across more than one community. These are opportunities for development, not admission gates for vocabulary.
 
-Once the remaining classification decisions are settled, revisit the existing corpus as a whole. Update a text when the expanded vocabulary makes its meaning clearer, more direct, or less evasive; preserve it when the original composition remains natural or when it is intentionally retained as before-state evidence. Every later entry must still satisfy the vocabulary schema, phonology, collision checks, semantic contrasts, examples, and reference generation.
+The classification review is complete, so the active-corpus revisit can now begin. Update a text when the expanded vocabulary makes its meaning clearer, more direct, or less evasive; preserve it when the original composition remains natural or when it is intentionally retained as before-state evidence. Every later entry must still satisfy the vocabulary schema, phonology, collision checks, semantic contrasts, examples, and reference generation.

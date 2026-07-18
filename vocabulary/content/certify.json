@@ -8,18 +8,28 @@
     "nu"
   ],
   "pos": "verb",
-  "concept": "Certify / Issue a Formal Claim That Criteria Were Met",
-  "description": "For a named person or institution to issue a formal claim that stated criteria were met, within a scope and a validity. The certificate itself, with its issuer, identifier, and dates, is source material and stays outside the Phi passage. The claim can be wrong; certification is testimony with a name attached, not truth.",
-  "sound_symbolism": "Narrow 'si' begins as a bright thread of air. Stressed 'ka' stops that thread at the velum and releases it into broad 'a'. Final 'nu' settles the tongue at the teeth and deepens into a nasal 'u'. The contour passes from fine breath through a clean mark to a low, held close.",
-  "grammatical_notes": "A transitive verb: 'punoki shia sikanu.' (The institution certifies them.) State the issuing source, criteria, scope, date, validity period, and record where relevant. The event-noun rule supplies certification. Distinct from 'sirami' (record), 'kanuwa' (authorize), 'kiranu' (qualified), 'kisome' (assess), and 'tukiro' (review).",
+  "search_terms": [
+    "issue certification",
+    "certify criteria met",
+    "formal attestation"
+  ],
+  "description": "A person or institution 'sikanu' when they issue a formal claim that named criteria were met. The exact certificate keeps its issuer, scope, identifier, and period in the source record. 'kisome' (assess) weighs evidence and 'kanuwa' (authorize) grants bounded permission; certification does neither merely by being written down.",
+  "articulatory_notes": "Send unvoiced air along the alveolar groove for 'si', then hold high-front unrounded 'i'. Stressed 'ka' closes at the soft palate before releasing into central 'a'. End with the tongue tip at the upper teeth for voiced dental 'n', nasal airflow, and high-back rounded 'u'.",
+  "sound_symbolism": "Fine 'si' meets the broad release of stressed 'ka', then final 'nu' contains the voice at a dental contact. Its narrow opening and settled close fit a formal claim set down for later use.",
+  "usage_notes": "The issuer is the subject and the person or thing certified is the object. The event-noun rule supplies certification. Nearby clauses can identify the criteria and evidence, while the exact credential remains outside the Phi passage.",
+  "examples": [
+    {
+      "phi": "punoki shia sikanu.",
+      "translation": "The institution certifies them."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Treating certification as a sourced institutional claim prevents a credential from becoming unquestionable truth or a general claim of authority and worth."
+    "peace-linguistics-practices": "Treating certification as an attributed claim keeps a credential open to question without erasing the work or evidence behind it."
   },
   "semantic_domains": {
-    "activity": "issuing or maintaining a formal criteria claim",
-    "cognition": "a recorded conclusion based on stated criteria",
-    "communication": "a formal claim whose source and scope can be challenged",
-    "community": "a status attributed by a named person or institution"
+    "activity": "the act of issuing a formal criteria claim",
+    "communication": "an attributed statement that selected criteria were met",
+    "community": "a formal status assigned by a person or institution"
   },
   "modules": [
     "work-craft-and-repair"

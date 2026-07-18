@@ -8,20 +8,31 @@
     "ni"
   ],
   "pos": "noun",
-  "concept": "Skill / Learned Repeatable Practical Capacity",
-  "description": "A learned, repeatable capacity for a kind of practical work. A skill belongs to the person who built it, whatever the conditions and whoever approves; it may be narrow or broad, embodied or tool-bound, still growing. Whether it meets today's criterion is 'pokera' (competent), a separate and smaller question.",
-  "sound_symbolism": "Dental breath opens 'the' softly between tongue and teeth. Stressed 'sa' shifts that stream into a fine hiss and broad 'a'. Final 'ni' returns the tongue to the teeth, changes airflow into nasal resonance, and lifts to bright 'i'. The contour moves from breath through openness to a small, steady finish.",
-  "grammatical_notes": "A countable or mass noun according to context: 'mia ha thesani phelu.' (I have the skill.) Name the domain, conditions, tools, and claimed level when they matter. Distinct from 'sano' (know), 'thole' (practice), 'pokera' (competent), 'nukesa' (expert), and 'kiranu' (qualified).",
+  "search_terms": [
+    "practical ability",
+    "learned capacity",
+    "craft skill"
+  ],
+  "description": "A learned, repeatable capacity for practical work is 'thesani'. Skill stays with the person between uses and outside any institution's approval. 'pokera' (competent) asks whether someone can meet a present criterion; skill is the capacity built across occasions.",
+  "articulatory_notes": "For unvoiced dental 'th', let breath pass between the tongue tip and upper teeth into true-mid front 'e'. Narrow the channel at the alveolar ridge for 's', then open into stressed central 'a'. Return to the teeth for voiced nasal 'n' and finish on high-front unrounded 'i'.",
+  "sound_symbolism": "Breath changes from the dental opening of 'the' to the finer hiss of stressed 'sa', then settles into the nasal contact of 'ni'. Three controlled air paths echo a capacity refined through distinct motions.",
+  "usage_notes": "The noun may identify one skill or practical skill in general. The person holds it with 'phelu'. Its domain, tools, and present conditions matter when they alter the claim.",
+  "examples": [
+    {
+      "phi": "mia ha thesani phelu.",
+      "translation": "I have the skill."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Craft skill joins disciplined technique with sensitivity to material, form, and use without reducing beauty to decoration.",
-    "peace-linguistics-practices": "Separating skill from worth, authority, and credentials permits precise recognition without turning ability into social supremacy.",
-    "pre-industrial-wisdom": "Learned practical capacities preserve repair, cultivation, making, and embodied knowledge across generations and communities."
+    "art-nouveau-aesthetics": "Craft skill joins technique with attention to material, form, and use. Ornament can grow from how the object is made.",
+    "peace-linguistics-practices": "Skill can be recognised without turning it into authority over another person or a measure of human worth.",
+    "pre-industrial-wisdom": "Embodied skill carries repair and making across generations through demonstration, practice, and shared work."
   },
   "semantic_domains": {
-    "activity": "a learned capacity for practical action",
-    "cognition": "procedural knowledge developed through learning and repetition",
-    "creation": "capacity used in making, repair, and transformation",
-    "wisdom": "practical understanding refined through experience"
+    "activity": "learned capacity for repeatable practical action",
+    "cognition": "procedural knowledge developed through practice",
+    "creation": "capacity applied in making, repair, and transformation",
+    "wisdom": "practical understanding refined across repeated experience"
   },
   "modules": [
     "work-craft-and-repair"

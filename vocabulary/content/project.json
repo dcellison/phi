@@ -8,18 +8,29 @@
     "ka"
   ],
   "pos": "noun",
-  "concept": "Project / Bounded Coordinated Undertaking",
-  "description": "A bounded undertaking organized around a stated purpose, gathering tasks, participants, materials, and stages under one name. Its boundary can move while the work lives. A project is a shape for effort, not a promise: authorization, funding, and the acceptance of the people affected are separate sentences.",
-  "sound_symbolism": "Light 'ri' flicks the tongue into bright 'i', while stressed 'no' gathers the middle into a rounded nasal enclosure. In final 'ka', the closure moves back to the velum and releases through broad 'a'. The word crosses three clear mouth positions and lands on an open, practical stroke.",
-  "grammatical_notes": "A countable noun: 'lo mia ha rinoka winora.' (We plan this project.) State its purpose, boundary, participants, source, tasks, dependencies, and expected result where relevant. Distinct from 'riporu' (task), 'terura' (system), 'punoki' (institution), and 'seru' (commitment).",
+  "search_terms": [
+    "undertaking",
+    "coordinated work",
+    "bounded project"
+  ],
+  "description": "A 'rinoka' is a bounded undertaking that gathers related tasks towards a stated result. Its boundary may change as people learn what the work requires. 'winora' is the plan and 'seru' a person's commitment; neither is built into the project.",
+  "articulatory_notes": "Open with short alveolar 'r', made as one tap or a brief trill, and high-front 'i'. Voiced dental 'n' rests at the upper teeth while nasal airflow carries into stressed true-mid rounded 'o'. The final syllable closes at the soft palate for unvoiced 'k' and releases into central 'a'.",
+  "sound_symbolism": "Opening 'ri' places the word beside 'riola' (labor) and 'riporu' (task) in the ear. Rounded 'no' holds the middle before final 'ka' releases the form into a broad close.",
+  "usage_notes": "A project is countable. Purpose and boundary identify it, while participants, authority, acceptance, and resources remain separate relations. One project may contain several tasks and more than one plan.",
+  "examples": [
+    {
+      "phi": "lo mia ha rinoka winora.",
+      "translation": "We plan this project."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Community projects can coordinate repair, care, construction, and ecological work while remaining open to revision and criticism.",
-    "peace-linguistics-practices": "Separating the undertaking from its authority and participation relations keeps a shared purpose from being treated as blanket consent."
+    "solarpunk-values": "A community project can gather repair or ecological work under one purpose while its plan and boundaries remain open to revision.",
+    "peace-linguistics-practices": "Keeping the undertaking separate from commitment and authority prevents a shared project from becoming blanket consent."
   },
   "semantic_domains": {
-    "activity": "a bounded undertaking containing related work",
-    "community": "a possible frame for coordinated participation",
-    "creation": "an undertaking directed toward a stated result"
+    "activity": "a bounded undertaking made from related tasks",
+    "community": "a frame within which people may coordinate their participation",
+    "creation": "work gathered towards a stated result"
   },
   "modules": [
     "work-craft-and-repair"

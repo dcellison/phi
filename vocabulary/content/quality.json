@@ -8,18 +8,29 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Quality / Character or Degree Relative to Stated Criteria",
-  "description": "The character of a thing relative to a purpose: whose use, what conditions, which criteria. Quality's dimensions can conflict honestly, a beautiful thing hard to repair, a durable one wasteful of material, and naming the dimension keeps the argument about the thing. It never grades the maker; Phi has no sentence in which a person is their work's score.",
-  "sound_symbolism": "Crisp 'ki' gives the word a fine bright edge; at stressed 're', that edge turns on the tongue. A second roll in final 'ro' enters a rounder chamber, and the paired liquids keep the ending mobile. Brightness at the start passes through balance and settles into open resonance.",
-  "grammatical_notes": "A countable or mass noun according to context: 'mia ha kirero kisome.' (I assess the quality.) Name the object, purpose, users, conditions, criteria, and tradeoffs where relevant. Distinct from 'kirema' (criterion), 'nilaki' (inspect), 'kiphira' (fault), 'mioru' (beautiful), and 'welao' (good).",
+  "search_terms": [
+    "quality against criteria",
+    "evaluated character",
+    "work quality"
+  ],
+  "description": "'kirero' is the character or degree of a thing in relation to a stated purpose and criteria. A chair can be sturdy yet hard to repair, so several qualities may matter without becoming one score. The word evaluates the work or result, not the maker.",
+  "articulatory_notes": "Release unvoiced 'k' from a velar closure into high-front unrounded 'i'. Give the tongue tip one quick contact at the alveolar ridge, or let it trill briefly, before stressed true-mid front 'e'. Repeat that contact and round the lips around final true-mid back 'o'.",
+  "sound_symbolism": "The two 'r' contacts turn through contrasting middle vowels, first front 'e' and then rounded back 'o'. The repeated motion suits a judgement made along more than one dimension.",
+  "usage_notes": "The noun may name quality in general or one selected quality. 'kirema' (criterion) supplies the standard and 'kisome' (assess) the act of evaluating evidence against it. Fault, beauty, goodness, and compliance remain narrower claims.",
+  "examples": [
+    {
+      "phi": "mia ha kirero kisome.",
+      "translation": "I assess the quality."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Quality can include the relation among form, material, use, repair, and beauty without collapsing those dimensions into one decorative judgment.",
-    "peace-linguistics-practices": "Explicit quality criteria make evaluation discussable and prevent a judgment about work from becoming an implicit judgment about its maker's worth."
+    "art-nouveau-aesthetics": "Quality can keep a made thing's form and material distinct from its usefulness, repairability, or beauty.",
+    "peace-linguistics-practices": "Stated quality criteria keep evaluation on the work and prevent its score from quietly becoming the maker's worth."
   },
   "semantic_domains": {
-    "aesthetic": "a possible dimension of quality when explicitly named",
-    "cognition": "a multidimensional evaluation relative to criteria",
-    "creation": "the assessed character of a made or repaired result"
+    "aesthetic": "a route to the visual or formal character selected for evaluation",
+    "cognition": "the assessed character or degree of something against criteria",
+    "creation": "the quality of a made or repaired result for its stated purpose"
   },
   "modules": [
     "work-craft-and-repair"

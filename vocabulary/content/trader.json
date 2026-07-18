@@ -7,17 +7,28 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Trader / Merchant / Exchanger of Goods",
-  "description": "One who trades goods; a person who facilitates exchange between people. 'Piru' names who moves goods—bringing what is needed from where it is found.",
-  "sound_symbolism": "The word exchanges with flow. 'Pi' balances with fair exchange, value matched. 'Ru' flows with goods moving, trade continuing.",
-  "grammatical_notes": "Functions as noun: 'piru lo thena wisola.' (The trader exchanges goods.) Related to 'toloi' (messenger) as goods-mover to word-mover; works through 'wisola' (exchange).",
+  "search_terms": [
+    "goods trader",
+    "merchant",
+    "exchange role"
+  ],
+  "description": "A 'piru' is a person whose recurring work is arranging or conducting exchanges of goods. The role may involve carrying between communities, keeping stock, or meeting directly where exchange occurs; 'wisola' (exchange) is the act itself. A trader's presence does not make the exchange fair, which is a separate judgement.",
+  "articulatory_notes": "Unvoiced 'p' opens from sealed lips into stressed high-front unrounded 'i'. Follow with a quick tongue-tip turn at the alveolar ridge. One tap or a short trill comes before high-back rounded 'u'.",
+  "sound_symbolism": "Closed lips release into bright 'i', then a quick tongue turn opens towards rounded 'u'. The compact change gives the role word an easy rhythm for someone moving between exchanges.",
+  "usage_notes": "The noun identifies the person in a recurring exchange role. The goods and terms remain explicit in the clause or surrounding source. Money is absent from Phi's lexical account; an exact economic record remains outside the passage when it matters.",
+  "examples": [
+    {
+      "phi": "piru lo thena wisola.",
+      "translation": "The trader exchanges goods."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Fair trade—exchange that benefits both parties, building trust across difference.",
-    "pre-industrial-wisdom": "Trader as connector—linking communities through exchange of goods."
+    "peace-linguistics-practices": "Because the role does not certify fairness, consent and the terms of exchange remain open for each participant to state.",
+    "pre-industrial-wisdom": "Traders have carried goods, news, and practical knowledge between communities, though the word itself makes no romance of the terms."
   },
   "semantic_domains": {
-    "community": "Exchange role",
-    "creation": "Goods movement"
+    "activity": "recurring work arranging or conducting exchanges of goods",
+    "community": "a role connecting participants or places through exchange"
   },
   "modules": [
     "work-craft-and-repair"
