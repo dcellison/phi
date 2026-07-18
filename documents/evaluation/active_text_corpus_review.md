@@ -255,18 +255,33 @@ Five choices on the paired page no longer survive the current word entries. Each
 
 ## Paired review: The Prophet, On Children
 
-The ground truth is the complete On Children teaching in Kahlil Gibran's 1923 *The Prophet*, stored in `texts/sources/the_prophet.txt`. The established excerpt begins with Gibran's first paradox rather than the woman's request for the teaching. The close translation covers every proposition from that line through the stable bow.
+The ground truth is the complete On Children teaching in Kahlil Gibran's 1923 *The Prophet*, stored in `texts/sources/the_prophet.txt`. The established excerpt begins with Gibran's first paradox rather than the woman's request for the teaching. Its close translation covers every proposition from that line through the stable bow in 72 unique Phi forms. Its optional roots are Commons `phenori` (ownership) and Household `phemiru` (visit). The 49-form transmutation uses base vocabulary throughout.
 
 | Area | Close translation | Transmutation |
 |---|---|---|
-| Child relation | `lopia` appears on both sides of the opening denial; Gibran's sons and daughters become children. | The second `lopia` becomes `thena`, thing, so the ownership reading arrives immediately. |
-| Belonging | Children stand outside the parent's `phenori`, ownership. | The parent does not `phelu`, hold, them. |
-| Effort and future | `meloa` restores striving, negated intention restores the project of conformity, and `phemiru` restores the visit to tomorrow's house. | Becoming and presence state the same boundaries with fewer distinctions. |
+| Child relation | `phomila` appears on both sides of the opening denial; Gibran's sons and daughters become offspring. | The second `phomila` becomes `thena`, thing, so the ownership reading arrives immediately. |
+| Life and living | Noun `lioru` is personified as Life. | Life remains `lioru`, while adjective `lima` makes the transmuted seeds alive. |
+| Belonging | Offspring stand outside the parent's `phenori`, ownership. | The parent does not `phelu`, hold, them. |
+| Effort and future | `meloa` restores striving, negated `mesatu` restores the attempted conformity, and `phemiru` restores the visit to tomorrow's house. | Becoming and presence state the same boundaries with fewer distinctions. |
 | Archery | Bow, arrow, and archer receive material descriptions from cord, flexible wood, sharpness, flight, and tool use. | Tree, seed, and wind replace the weapon system. |
 | Agency | The archer sees a purpose marker and uses strength so the arrows fly fast and far. | Wind carries seeds toward tomorrow without a chosen target. |
 | Final parallel | The one who uses the tool loves the flying arrow and stable bow. | Life loves the flying seed and standing tree. |
 
-Existing vocabulary is enough. Commons `phenori` makes the social ownership claim exact, while Household `phemiru` distinguishes visiting the future house from merely being there. One metaphor does not justify permanent archery vocabulary: material descriptions carry the objects, and Gibran's cited English identifies them. The final metaphor tests the boundary directly. Close translation states violent imagery without endorsing it; transmutation can then remove the target without pretending the source had none.
+Existing vocabulary is enough. Base `phomila` keeps descent apart from the childhood stage, and the `lioru`, `liona`, `lima` family separates life, living, and being alive. Commons `phenori` makes the social ownership claim exact, while Household `phemiru` distinguishes visiting the future house from merely being there. One metaphor does not need permanent archery roots: material descriptions carry the objects, and Gibran's cited English identifies them. Close translation states the weapon image without endorsing it; transmutation can remove the target without pretending the source had none.
+
+### Post-migration contextual retrofit
+
+Three distinctions alter the paired section. Several newer or newly clarified words look tempting at first and fail once Gibran's relation is read closely.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| Child as life stage and offspring by descent | Replace `lopia` with `phomila` in both renderings | `lopia` is a person in childhood. Gibran's sons and daughters are direct offspring and need not still be children by age. `phomila` keeps that relation without turning descent into possession. |
+| Life, living, and being alive | Replace personified `liona` with `lioru`; replace transmuted `liona thinoe` with `lima thinoe` | `lioru` is the condition and course that Gibran personifies as Life. `liona` names living as an activity, while the seed in the transmutation simply has the quality `lima`, alive. |
+| Striving, seeking, trying, and intending | Preserve close `meloa` for strive; replace close `thueli` with negated `mesatu` for seek not | Gibran's first verb asks for effort sustained towards likeness, which is the centre of `meloa`. He then warns the parent against trying to make the offspring alike. `mesatu` states that action more closely than intention, while `sheraki` would mean searching for someone, something, a place, or an answer. |
+| Belonging, ownership, and holding | Preserve close `phenori` and transmuted `phelu` | Gibran's belong means being possessed. Base `wema` concerns felt fit within a place, community, or relationship and explicitly never means ownership. The translation names the social claim; the transmutation answers it with the body's grasp. |
+| Tomorrow's house and visiting | Preserve `wireo womu`, close `phemiru`, and transmuted distant presence | Gibran's tomorrow is a future beyond the parent's reach, not the following day. Household `phemiru` gives the close version a bounded stay at that home, while the transmutation keeps its plainer refusal of presence. |
+| Bow, arrow, archer, and target | Preserve the close material descriptions and the transmuted tree, seed, and wind | `sepho` follows Gibran's sent forth without adding the applied release of `wapho`, throw. Cord, flexible wood, sharpness, flight, tool use, and a purpose marker reconstruct the source image without placing reusable weapon terms in Phi. The transmutation still removes aimed parenthood openly. |
+| Active dependencies | Update the paired page, its continuous translation, the shared gap log, and phonetic-neighbour attestations | The repaired lines recur nowhere else in the active corpus. Gibran's stored source, its quoted lines, shelf links, and registered compounds remain unchanged. |
 
 ## Paired review: Tao Te Ching selections
 
