@@ -8,18 +8,28 @@
     "tu"
   ],
   "pos": "verb",
-  "concept": "Mix / Combine Materials Through Movement",
-  "description": "To combine two or more materials by moving them through one another until they are distributed for the intended preparation. The parts sometimes remain visible and sometimes become difficult to distinguish. 'pharune' (include) says that something belongs within a set; 'welotu' performs the physical combining.",
-  "sound_symbolism": "Rounded 'we' glides from the lips into balanced 'e'. Stressed 'lo' releases the tongue inside a low round chamber, then final 'tu' closes at the teeth and drops into deep 'u'. Two smooth openings meet one clean stop at the end.",
-  "grammatical_notes": "A transitive verb, often with a plural object: 'mia lo phareme welotu.' (I mix the ingredients.) A vessel, tool, duration, or desired texture fits its own phrase. The event-noun rule supplies mixing.",
+  "search_terms": [
+    "combine materials",
+    "stir together"
+  ],
+  "description": "To 'welotu' is to combine materials by moving them through one another until they are distributed for the intended preparation. The parts may remain visible, as beans and herbs do, or become hard to distinguish in dough. 'pharune' (include) places something within a set; mixing performs the physical combination.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then move into true-mid front 'e'. Touch the tongue tip to the alveolar ridge for 'l', let air pass along its sides, and hold stressed true-mid rounded 'o'. Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into high-back rounded 'u'.",
+  "sound_symbolism": "Rounded 'we' moves into the low lateral chamber of stressed 'lo'. Final 'tu' closes at the teeth and keeps the lips rounded. Two smooth openings meet one clean contact, a contour that can recall separate materials drawn into one motion.",
+  "usage_notes": "The mixed materials form the object, often under plural marking. A vessel, tool, or intended texture may appear in its own phrase. Nominal use names mixing; the registered expression 'welotu keluo' names alloy as mixed metal.",
+  "examples": [
+    {
+      "phi": "mia lo phareme welotu.",
+      "translation": "I mix the ingredients."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Mixing can leave a marbled boundary visible or carry separate colors into a new field; the intended result decides when the hand stops.",
+    "art-nouveau-aesthetics": "Mixing may leave a marbled boundary visible or carry separate colours into one field. The desired surface decides when the hand stops.",
     "pre-industrial-wisdom": "Dough, plaster, dye, and clay each taught a different resistance through the same circling arm."
   },
   "semantic_domains": {
     "activity": "combining materials by moving them together",
     "creation": "distributing ingredients through a preparation",
-    "physical": "parts moving through one another in a vessel or space"
+    "physical": "separate materials moving through one another"
   },
   "modules": [
     "household-and-daily-life"

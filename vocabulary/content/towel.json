@@ -8,16 +8,26 @@
     "ki"
   ],
   "pos": "noun",
-  "concept": "Towel / Absorbent Cloth for Wiping or Drying",
-  "description": "An absorbent cloth used to wipe moisture from a body, surface, or object. A towel dries hands beside a basin or wraps washed food before storage. 'wetha' (cloth) names the material broadly; 'wethaki' is the piece kept ready to receive water.",
-  "sound_symbolism": "Rounded 'we' glides into the stressed dental breath and broad vowel of 'tha'. Those opening syllables are 'wetha' (cloth), heard whole. Final 'ki' closes crisply at the velum and lifts into bright 'i'. From an open breathy center, the word gathers into a fine hard edge.",
-  "grammatical_notes": "A countable noun: 'mia roe wethaki ha palu hewe.' (I wipe this plate with a towel.) Ordinary modifiers identify size, material, or owner. A towel stays itself whether wet or dry.",
+  "search_terms": [
+    "absorbent cloth",
+    "drying cloth"
+  ],
+  "description": "A 'wethaki' is an absorbent cloth used to wipe moisture from a body, surface, or object. It can dry hands beside a basin or wrap washed food before storage. 'wetha' (cloth) is the broader material; a towel is a piece kept ready to receive water.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then move into true-mid front 'e'. Place the tongue tip lightly against the upper teeth for unvoiced 'th' and open into stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into final high-front 'i'.",
+  "sound_symbolism": "Rounded 'we' enters the broad breath of stressed 'tha' and keeps 'wetha' (cloth) whole. Final 'ki' closes at the back of the mouth and lifts into a bright edge. The open cloth seems to gather towards one finished corner.",
+  "usage_notes": "Towels are countable. Size, material, purpose, and owner fit ordinary modifiers. The towel remains itself whether wet or dry; 'wosanu' (absorb) and 'wirua' (wet) state those conditions.",
+  "examples": [
+    {
+      "phi": "mia roe wethaki ha palu hewe.",
+      "translation": "I wipe this plate with a towel."
+    }
+  ],
   "pillars": {
-    "pre-industrial-wisdom": "A towel was washed, wrung, dried, patched, and returned to its peg until the cloth itself could take no more repair."
+    "pre-industrial-wisdom": "A towel was washed and wrung, then dried and patched before it returned to its peg. The round continued until the cloth could take no more repair."
   },
   "semantic_domains": {
-    "activity": "cloth used in wiping or drying",
-    "physical": "an absorbent textile receiving moisture"
+    "activity": "cloth used while wiping or drying",
+    "physical": "an absorbent textile kept to receive moisture"
   },
   "modules": [
     "household-and-daily-life"

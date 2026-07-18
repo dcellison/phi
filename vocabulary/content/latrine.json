@@ -8,18 +8,27 @@
     "ki"
   ],
   "pos": "noun",
-  "concept": "Latrine / Place or Fixture for Bodily Waste",
-  "description": "A place or fixture arranged to receive bodily waste. Designs include pits, composting systems, and water-carried fixtures. The noun identifies the daily place without claiming how treatment works. Exact sanitation instructions and infrastructure keep their source form when the details matter.",
-  "sound_symbolism": "Closed lips give 'mu' a deep nasal opening. Stressed 'ne' moves the contact to the teeth and balances the center in 'e'. Final 'ki' closes farther back and rises to bright 'i'. From a low chamber, the sound climbs through two increasingly crisp points.",
-  "grammatical_notes": "A countable noun: 'ha womu muneki phelu.' (This home has a latrine.) Nearby clauses identify location, access, water use, maintenance, and sanitation method. The term covers a practical class rather than one technical fixture.",
+  "search_terms": [
+    "toilet place",
+    "sanitation fixture"
+  ],
+  "description": "A 'muneki' is a place or fixture arranged to receive bodily waste. It covers pit latrines, composting arrangements, and water-carried fixtures without treating one design as the standard. The word identifies the daily place; treatment and sanitation method remain parts of its actual system.",
+  "articulatory_notes": "Close the lips for voiced 'm', carry the sound through the nose, and round into high-back 'u'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', keep nasal airflow, and hold stressed true-mid front 'e'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front 'i'.",
+  "sound_symbolism": "Closed lips give 'mu' a low nasal chamber. Stressed 'ne' moves the contact to the teeth before final 'ki' closes farther back and rises into a bright vowel. The form climbs through three increasingly crisp points of contact.",
+  "usage_notes": "Latrines are countable. Location and access can be described with the water use. Maintenance and the treatment path belong to the same account. Exact health instructions and technical classifications remain with their sources.",
+  "examples": [
+    {
+      "phi": "ha womu muneki phelu.",
+      "translation": "This home has a latrine."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Sanitation belongs in material-cycle discussion because water and nutrients meet pathogens, labor, and access at this ordinary household place.",
-    "pre-industrial-wisdom": "Pit placement and dry cover carried practical knowledge about keeping household waste away from drinking water. Cleaning routines carried the rest."
+    "solarpunk-values": "A latrine places water, nutrients, and pathogens inside an ordinary household system. Labour and access shape how that system is used and maintained.",
+    "pre-industrial-wisdom": "Pit placement and dry cover carried practical knowledge about keeping bodily waste away from drinking water. Regular cleaning carried the rest."
   },
   "semantic_domains": {
-    "community": "a sanitation place used within shared or solitary daily life",
-    "physical": "a fixture or place receiving bodily waste",
-    "spatial": "a bounded sanitation area in or near a dwelling"
+    "physical": "a fixture or prepared place that receives bodily waste",
+    "spatial": "a bounded sanitation place in or near a dwelling"
   },
   "modules": [
     "household-and-daily-life"

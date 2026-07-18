@@ -8,18 +8,28 @@
     "wi"
   ],
   "pos": "noun",
-  "concept": "Inventory / Time-Bounded Record of Held Items and Their Status",
-  "description": "A record of what is held: items, quantities, places, conditions, within a scope, at a time. An inventory represents the stock, 'muphera' (stock), without being it; the shelf keeps its own truth, and the record's accuracy ends the moment conditions change without it.",
-  "sound_symbolism": "Hissing 'si' draws a fine bright opening, and stressed 'ta' answers at the teeth with a broad firm beat. Final 'wi' rounds the lips and glides back toward bright 'i'. Wide at its center, the word folds neatly inward at the end.",
-  "grammatical_notes": "A countable noun: 'mia ha sitawi tukiro.' (I review the inventory.) State the scope, time, method, recorder, units, and uncertainty where relevant. Distinct from 'muphera' (stock), 'sirami' (record), 'tawi' (count), 'phelure' (store), and ownership documentation.",
+  "search_terms": [
+    "item record",
+    "stock record"
+  ],
+  "description": "A 'sitawi' is a record of items held within a stated scope at a stated time. It may include their places, amounts, or conditions. The inventory represents 'muphera' (stock) without becoming it; the shelf keeps changing even when the record does not.",
+  "articulatory_notes": "Bring the tongue close to the alveolar ridge for unvoiced 's' and release into high-front 'i'. Place the tongue tip against the backs of the upper teeth for unvoiced dental 't', then open into stressed central 'a'. Round the lips and raise the back of the tongue for voiced 'w' before final high-front 'i'.",
+  "sound_symbolism": "Fine hissing 'si' meets the broad dental beat of stressed 'ta'. Final 'wi' rounds the lips and draws the sound back towards a bright close. The wide centre folds neatly inward, like many held things gathered into one record.",
+  "usage_notes": "Inventories are countable. Scope and time belong close to any claim made from one, while method and recorder may matter when the record is disputed. 'sirami' is the wider record category, and 'tawi' is the act of counting.",
+  "examples": [
+    {
+      "phi": "mia ha sitawi tukiro.",
+      "translation": "I review the inventory."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Shared inventories make material capacity visible for repair, reuse, mutual aid, and ecological planning while keeping records distinct from physical reality.",
-    "peace-linguistics-practices": "A time-bounded inventory invites correction and prevents an old or incomplete record from being treated as unquestionable proof of what exists or who controls it."
+    "solarpunk-values": "A shared inventory can make material capacity available for repair and reuse while remaining answerable to what is physically present.",
+    "peace-linguistics-practices": "A time-bounded inventory invites correction instead of letting an old record become unquestionable proof of what exists or who controls it."
   },
   "semantic_domains": {
     "activity": "recording and reviewing held items",
-    "cognition": "a structured representation of material state",
-    "temporal": "a record explicitly bounded to a time"
+    "cognition": "a structured representation of material on hand",
+    "temporal": "a record bounded to the time it describes"
   },
   "modules": [
     "household-and-daily-life",

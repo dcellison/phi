@@ -8,13 +8,22 @@
     "thi"
   ],
   "pos": "noun",
-  "concept": "Soap / Cleansing Material Used with Water",
-  "description": "A cleansing material used with water to lift oil and dirt from bodies, cloth, or objects. It may be hard, soft, or liquid according to its making; 'sawa' (wash) is the action, while 'sawathi' is the material added to the water and rubbing.",
-  "sound_symbolism": "Fine 'sa' hisses into broad 'a'. Stressed 'wa' rounds the lips and opens fully, so 'sawa' (wash) is heard intact at the opening. Final 'thi' brings a thin stream of breath to the teeth and lifts into bright 'i'. Two open vowels flow toward a clean narrow finish.",
-  "grammatical_notes": "A mass or countable noun according to form: 'mia roe sawathi lo soeli sawa.' (I wash the cups with soap.) A surrounding clause can identify its ingredients and intended use. Fragrance, safety, and ecological effect depend on the actual soap and conditions.",
+  "search_terms": [
+    "cleansing material"
+  ],
+  "description": "'sawathi' is a cleansing material used with water to lift oil and dirt from bodies, cloth, or objects. It may be hard, soft, or liquid according to its making. 'sawa' (wash) is the action; soap is the material added to the water and rubbing.",
+  "articulatory_notes": "Bring the tongue close to the alveolar ridge for unvoiced 's' and release the narrow airflow into central 'a'. Round the lips and raise the back of the tongue for voiced 'w', then open into stressed central 'a'. Place the tongue tip lightly against the upper teeth for unvoiced 'th' and finish on high-front 'i'.",
+  "sound_symbolism": "'sawa' (wash) occupies the word until final 'thi' narrows the breath at the teeth and rises into a bright finish. Fine 'sa' has already opened through rounded stressed 'wa'. The broad washing action gathers into one small piece of material.",
+  "usage_notes": "Soap is mass-like in general and countable when its prepared forms matter. Instrumental 'roe' introduces it in a washing clause. Ingredients, intended use, and ecological effect belong to the particular soap.",
+  "examples": [
+    {
+      "phi": "mia roe sawathi lo soeli sawa.",
+      "translation": "I wash the cups with soap."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Soap invites questions about ingredients, water, packaging, and what leaves through the drain after the washing is done.",
-    "pre-industrial-wisdom": "Fat, oil, and alkaline ash became household soap through practiced ratios and patient curing."
+    "solarpunk-values": "Soap brings ingredients, water, packaging, and what leaves through the drain into one ordinary material path.",
+    "pre-industrial-wisdom": "Fat or oil and alkaline ash became household soap through practised proportions and patient curing."
   },
   "semantic_domains": {
     "activity": "a material used during washing",

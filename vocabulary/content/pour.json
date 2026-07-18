@@ -8,18 +8,28 @@
     "to"
   ],
   "pos": "verb",
-  "concept": "Pour / Cause Material to Flow from a Container",
-  "description": "To cause liquid or loose material to flow from a container into another place. The vessel's tilt and opening usually begin the pour. A spatial phrase gives its destination. 'selu' (flow) is the material's movement; 'seluto' is the deliberate act that begins and directs it.",
-  "sound_symbolism": "Fine 'se' flows into the stressed low liquid of 'lu'. Before final 'to', the opening gives 'selu' (flow) in full. That last syllable places a dental stop at the end and gathers the movement into round 'o'.",
-  "grammatical_notes": "A transitive verb: 'mia phialu seluto.' (I pour water.) Source and destination can appear in ordinary spatial phrases, and a vessel may appear with 'roe'. The event-noun rule supplies pouring.",
+  "search_terms": [
+    "tip out",
+    "direct a flow"
+  ],
+  "description": "To 'seluto' is to cause liquid or loose material to flow from a container into another place. Tilting the vessel or opening its outlet usually begins the movement. 'selu' (flow) is the material's course; pouring is the deliberate act that starts and directs it.",
+  "articulatory_notes": "Bring the tongue close to the alveolar ridge for unvoiced 's' and release into true-mid front 'e'. Touch the tongue tip to the ridge for 'l', let air pass along its sides, and hold stressed high-back rounded 'u'. Place the tongue tip against the backs of the upper teeth for unvoiced dental 't', release it, and finish on true-mid rounded 'o'.",
+  "sound_symbolism": "'selu' (flow) runs through fine 'se' into the deep lateral centre of stressed 'lu'. Final 'to' stops the tongue at the teeth and rounds the movement into an ending. The flow is heard first, then its direction comes to rest.",
+  "usage_notes": "The verb takes the poured material directly. Ordinary spatial phrases can identify source and destination, while a vessel may appear with instrumental 'roe'. Nominal use names pouring.",
+  "examples": [
+    {
+      "phi": "mia phialu seluto.",
+      "translation": "I pour water."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Pouring makes the change of container visible: the hand directs the flow but cannot call back what has already crossed the lip.",
-    "pre-industrial-wisdom": "A practiced pour saved oil, milk, seed, and water from a spill when every carried measure had cost labor."
+    "secular-buddhist-philosophy": "Pouring makes a change of container visible. The hand directs the flow, while what has crossed the rim has already entered a new condition.",
+    "pre-industrial-wisdom": "A practised pour saved oil, milk, seed, and water from a spill when every carried amount had cost labour."
   },
   "semantic_domains": {
     "activity": "directing material out of a container",
     "physical": "a controlled flow across the lip of a vessel",
-    "spatial": "movement from a source container toward a destination"
+    "spatial": "movement from a source container towards a destination"
   },
   "modules": [
     "household-and-daily-life"

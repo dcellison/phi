@@ -8,18 +8,27 @@
     "to"
   ],
   "pos": "noun",
-  "concept": "Lock / Mechanism Holding a Closure Secure",
-  "description": "A mechanism that holds a door, lid, gate, or other closure until the matching means of release is used. Release may come from a key, latch, code, or another stated design. 'tapu' (close) is the action of shutting something; 'kirato' is the device that keeps the closure in place.",
-  "sound_symbolism": "Crisp 'ki' opens into the stressed tongue roll and broad vowel of 'ra'. The opening is 'kira' (key) heard intact. Final 'to' meets the teeth in a clean stop and rounds into a firm low ending.",
-  "grammatical_notes": "A countable noun: 'mia roe kira ha kirato phae.' (I open this lock with a key.) The thing secured and the person controlling access remain separate relations. A source term may identify an exact lock design.",
+  "search_terms": [
+    "locking mechanism"
+  ],
+  "description": "A 'kirato' is a mechanism that holds a door, lid, gate, or other closure until its matching release is used. A key, latch, code, or another design may release it. 'tapu' (close) is the act of shutting the opening; the lock keeps that condition in place.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front 'i'. Tap or briefly trill the tongue tip before stressed central 'a'. Place the tongue tip against the backs of the upper teeth for unvoiced dental 't', release it, and finish on true-mid rounded 'o'.",
+  "sound_symbolism": "The whole of 'kira' (key) is audible before final 'to' brings the tongue to the teeth and rounds the word shut. That last compact contact can make the lock and its matching release easier to remember together.",
+  "usage_notes": "Locks are countable. The secured thing and the person controlling release belong in the surrounding account. When the mechanism itself matters, its exact design or source term stays available beside the Phi noun.",
+  "examples": [
+    {
+      "phi": "mia roe kira ha kirato phae.",
+      "translation": "I open this lock with a key."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "A chosen lock protects a boundary; another clause still says who holds the key and whose entry is affected.",
-    "pre-industrial-wisdom": "Wooden latches and fitted metal locks made privacy a matter of household craft long before standardized hardware."
+    "peace-linguistics-practices": "A lock can protect a chosen boundary or deny someone entry. Naming the mechanism leaves room to ask who controls it and whose movement it changes.",
+    "pre-industrial-wisdom": "Wooden latches and fitted metal locks made household privacy a matter of visible craft long before standard hardware."
   },
   "semantic_domains": {
-    "creation": "a fitted mechanism for holding a closure",
+    "creation": "a fitted mechanism made to hold a closure",
     "physical": "a device released by a matching key or method",
-    "spatial": "control at a door, lid, or gate"
+    "spatial": "a mechanism controlling passage through an opening"
   },
   "modules": [
     "household-and-daily-life"

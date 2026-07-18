@@ -8,18 +8,28 @@
     "wu"
   ],
   "pos": "noun",
-  "concept": "Drudgery / Work Experienced or Structured as Depleting and Denied Meaning",
-  "description": "Work experienced as draining and stripped of meaning: tedious, exhausting, unwanted, or cut off from any purpose the worker can see. It is a report from inside the work, grounded in someone's experience or a stated analysis of the conditions. It does not condemn all repetition, and it does not by itself prove exploitation; a potter's hundredth bowl may be practice or drudgery, and only the potter knows which.",
-  "sound_symbolism": "A quick tongue tap lifts 'ri' into bright 'i', but stressed 'ma' closes the lips and adds weight through broad 'a'. Final 'wu' rounds them tightly once more and sinks into deep 'u'. Across the word, a light start descends through two increasingly heavy lip shapes.",
-  "grammatical_notes": "A mass or countable noun according to context: 'mia ha rimawu naweri.' (I refuse the drudgery.) Name the affected person, activity, conditions, source of the judgment, and desired change where relevant. Distinct from 'riola' (purposeful labor), 'ritako' (workload), 'pilora' (exploit), bodily fatigue, and simple repetition.",
+  "search_terms": [
+    "depleting work",
+    "tedious work"
+  ],
+  "description": "'rimawu' is work experienced or organised as draining and stripped of a purpose the worker can recognise. Tedium, exhaustion, unwanted repetition, or separation from the result may create that experience. A potter's hundredth bowl can be practice or drudgery; the worker's account belongs at the centre of the distinction.",
+  "articulatory_notes": "Tap or briefly trill the tongue tip before high-front 'i'. Close the lips for voiced nasal 'm', keep air moving through the nose, and open into stressed central 'a'. Round the lips and raise the back of the tongue for voiced 'w', then finish on high-back rounded 'u'.",
+  "sound_symbolism": "A light tongue tap lifts 'ri' into a bright vowel before stressed 'ma' closes the lips and adds a broad weight. Final 'wu' rounds them again and sinks into deep 'u'. The form descends from quick motion into two heavier closures.",
+  "usage_notes": "Drudgery is usually mass-like. Separate periods or kinds may still be compared. 'ritako' names the amount and pressure of a workload, while 'pilora' (exploit) makes a claim about benefit gained through another's unfair loss. Repetition alone proves neither.",
+  "examples": [
+    {
+      "phi": "mia ha rimawu naweri.",
+      "translation": "I refuse this drudgery."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Communities seeking meaningful and sustainable labor need language for work whose organization drains agency, attention, health, or purpose.",
-    "peace-linguistics-practices": "Locating the judgment in a person's experience or a stated analysis avoids declaring an activity inherently degrading while still giving oppressive work conditions a direct name."
+    "solarpunk-values": "A community cannot redesign depleting labour if useful output is the only part of the work it names. Drudgery keeps the worker's experience inside the account.",
+    "peace-linguistics-practices": "The noun gives exhausting or meaningless work a direct name without declaring every repeated activity degrading. The person doing the work retains authority over their own report."
   },
   "semantic_domains": {
-    "activity": "work structured or experienced as depleting",
-    "community": "labor conditions shaped by social distribution and power",
-    "emotion": "the experienced tedium, aversion, or loss of meaning"
+    "activity": "work experienced or structured as depleting",
+    "community": "labour conditions shaped by social distribution and power",
+    "emotion": "tedium or loss of meaning felt within work"
   },
   "modules": [
     "household-and-daily-life",

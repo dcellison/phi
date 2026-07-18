@@ -8,17 +8,27 @@
     "te"
   ],
   "pos": "noun",
-  "concept": "Laundry / Cloth Gathered Through the Washing Cycle",
-  "description": "Garments and household cloth gathered for washing or moving through drying and folding afterward. The noun refers to one load or to the material waiting at a particular stage. 'wethalu' (garment) names something worn; 'wethate' gathers the cloth by the domestic work currently being done to it.",
-  "sound_symbolism": "Rounded 'we' glides into stressed dental 'tha' and broad 'a'. The opening gives 'wetha' (cloth) whole. Final 'te' returns the tongue to the teeth for a clean stop and balanced 'e'. The same place of contact frames the open stressed center in breath first, closure second.",
-  "grammatical_notes": "A mass or countable noun according to context: 'mia ha wethate sawa.' (I wash this laundry.) Work terms such as 'riporu' (task), 'rilowa' (assign), or 'ritako' (workload) may describe its labor without changing the household noun.",
+  "search_terms": [
+    "clothes for washing",
+    "wash load"
+  ],
+  "description": "'wethate' is garments and household cloth gathered for washing or moving through drying and folding afterwards. It may refer to one load or to the material waiting at a particular stage. 'wethalu' (garment) names something worn; laundry gathers cloth by the work currently being done to it.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then move into true-mid front 'e'. Place the tongue tip lightly against the upper teeth for unvoiced 'th' and open into stressed central 'a'. Return the tongue tip to the backs of the upper teeth for unvoiced dental 't' and release into final true-mid front 'e'.",
+  "sound_symbolism": "'wetha' (cloth) reaches the stressed centre intact. Breath at the teeth opens through 'tha', then final 'te' returns to the same place with a clean stop. The cloth family passes through an open middle and comes back ready for its next stage.",
+  "usage_notes": "Laundry is usually mass-like, while separate loads may be counted. The concrete washing, drying, or folding action belongs in its own clause. Work terms can describe assignment and burden without changing what the gathered cloth is.",
+  "examples": [
+    {
+      "phi": "mia ha wethate sawa.",
+      "translation": "I wash this laundry."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Calling the gathered cloth laundry puts the repeated work where people can share, assign, refuse, or appreciate it.",
-    "pre-industrial-wisdom": "Washing day followed water, weather, fuel, and the time needed for cloth to dry before night."
+    "peace-linguistics-practices": "Calling the gathered cloth laundry gives repeated domestic work an object that people can share, assign, accept, or refuse.",
+    "pre-industrial-wisdom": "Washing day followed water, weather, fuel, and the time cloth needed to dry before night."
   },
   "semantic_domains": {
     "activity": "cloth moving through washing, drying, or folding",
-    "community": "a recurring domestic workload within a household",
+    "community": "a recurring body of domestic work within a household",
     "physical": "garments and household cloth gathered as one load"
   },
   "modules": [

@@ -8,13 +8,23 @@
     "pi"
   ],
   "pos": "noun",
-  "concept": "Room / Bounded Interior Space",
-  "description": "A bounded interior part of a dwelling or other building. Its use can change through the day: the same room may hold sleep, meals, work, or guests. 'tholu' (space) is open extent in general; 'tholupi' has the practical boundary of an interior room.",
-  "sound_symbolism": "Rounded dental breath in 'tho' flows into stressed liquid 'lu' and deep 'u'. The low opening preserves 'tholu' (space) intact. Final 'pi' closes the lips and lifts into bright 'i'. Broad and low at first, the word ends at one small, crisp point.",
-  "grammatical_notes": "A countable noun: 'ha tholupi thiku nai.' (This room is small.) Use or possession follows ordinary modifier order. Named room types such as 'nuroa' (kitchen) remain available when function matters more than the general interior space.",
+  "search_terms": [
+    "bounded interior space",
+    "interior room"
+  ],
+  "description": "A 'tholupi' is a bounded interior part of a dwelling or another building. Its use can change through the day: one room may hold sleep at night and weaving in daylight. 'tholu' (space) is open extent in general; a room has the practical boundaries of an interior.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth for unvoiced 'th' and round into true-mid 'o'. Touch the tongue tip to the alveolar ridge for 'l', let air pass along its sides, and hold stressed high-back rounded 'u'. Close the lips for unvoiced 'p' and release into final high-front 'i'.",
+  "sound_symbolism": "'tholu' (space) carries rounded breath through a deep lateral centre. Final 'pi' closes at the lips and rises into a bright point. Open extent acquires one crisp edge.",
+  "usage_notes": "Rooms are countable. Use, possession, location, and accessibility fit ordinary surrounding phrases. Named room types such as 'nuroa' (kitchen) remain available when function matters more than the general interior space.",
+  "examples": [
+    {
+      "phi": "ha tholupi thiku nai.",
+      "translation": "This room is small."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "A room is encountered through its light, openings, surfaces, and the paths a body can take through it.",
-    "pre-industrial-wisdom": "A single room often changed work with the hour: eating place, workshop, guest room, and sleeping place under one roof."
+    "art-nouveau-aesthetics": "A room is encountered through its light, openings, surfaces, and the paths a body can take within it.",
+    "pre-industrial-wisdom": "A single room often changed work with the hour. It became an eating place or workshop by day and a guest room or sleeping place by night."
   },
   "semantic_domains": {
     "community": "an interior place used in shared or solitary daily life",

@@ -8,18 +8,27 @@
     "lo"
   ],
   "pos": "noun",
-  "concept": "Broom / Long Brush for Sweeping",
-  "description": "A long brush made for moving dust and loose material across a floor or ground surface. 'phuri' (brush) covers the hand tool used for paint, grooming, or close cleaning; 'phurilo' gives that brush the reach and breadth of sweeping.",
-  "sound_symbolism": "Deep bilabial breath in 'phu' flows into the stressed bright tongue tap of 'ri'. Before final 'lo', 'phuri' (brush) is heard whole. That last syllable releases the tongue and rounds into a longer, lower chamber.",
-  "grammatical_notes": "A countable noun: 'mia roe ha phurilo tomae phurewa.' (I sweep the floor with this broom.) Material and maker fit before it. The action is 'phurewa' (sweep), while the broom remains the instrument.",
+  "search_terms": [
+    "sweeping brush"
+  ],
+  "description": "A 'phurilo' is a long brush made to move dust and loose material across a floor or the ground. 'phuri' (brush) covers a hand tool used for paint, grooming, or close cleaning. The broom gives the same bristled contact enough reach and breadth for sweeping.",
+  "articulatory_notes": "Narrow the lips for unvoiced bilabial 'ph', send breath between them, and round into high-back 'u'. Tap or briefly trill the tongue tip before stressed high-front 'i'. Touch the tongue tip to the alveolar ridge for 'l', release air along its sides, and finish on true-mid rounded 'o'.",
+  "sound_symbolism": "Hear 'phuri' (brush) before final 'lo' extends laterally into a broader rounded finish. Bilabial breath moves through the bright stressed tongue tap on the way. The familiar brush seems to lengthen in the mouth.",
+  "usage_notes": "A broom may be counted. Material, maker, and owner may precede the noun. The broom remains the instrument; its ordinary action is 'phurewa' (sweep).",
+  "examples": [
+    {
+      "phi": "mia roe ha phurilo tomae phurewa.",
+      "translation": "I sweep the floor with this broom."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "A broom of replaceable fibers and a mended handle works through hand force and can clean for years.",
-    "pre-industrial-wisdom": "Twig, straw, reed, and palm brooms matched the plants at hand and wore down where the floor recorded every stroke."
+    "solarpunk-values": "A broom with replaceable fibres and a mended handle can clean for years through hand force alone.",
+    "pre-industrial-wisdom": "Twig, straw, reed, and palm brooms matched the plants at hand and wore down where the floor met every stroke."
   },
   "semantic_domains": {
-    "activity": "an instrument used in sweeping",
+    "activity": "an instrument used while sweeping",
     "creation": "a long-handled brush made for floors or ground",
-    "physical": "bristles moving loose material across a surface"
+    "physical": "bristles arranged to move loose material across a surface"
   },
   "modules": [
     "household-and-daily-life"

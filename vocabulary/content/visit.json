@@ -8,17 +8,27 @@
     "ru"
   ],
   "pos": "verb",
-  "concept": "Visit / Spend Bounded Time as a Guest",
-  "description": "To spend a bounded period with a person or at a place as a guest. Departure is still part of the understood visit. The reason for coming belongs in the surrounding clause rather than the verb. 'menui' (dwell) makes a continuing home in a place; 'phemiru' crosses the threshold for a time.",
-  "sound_symbolism": "Bilabial breath in 'phe' meets the stressed lip closure and bright nasal vowel of 'mi'. Before the last turn, 'phemi' (guest) sounds in full. Final 'ru' releases the tongue in a roll and drops into deep 'u'. A compact center leaves in a low flowing motion.",
-  "grammatical_notes": "A transitive verb: 'mia ha womu phemiru.' (I visit this home.) The object may be a person or place, and time phrases can give the visit its duration. The event-noun rule supplies a visit.",
+  "search_terms": [
+    "guest stay",
+    "call on"
+  ],
+  "description": "To 'phemiru' is to spend a bounded time with a person or at a place as a guest. Departure remains part of the understood visit, while the reason for coming belongs in the surrounding clause. 'menui' (dwell) makes a continuing abode; visiting crosses the threshold for a time.",
+  "articulatory_notes": "Narrow the lips for unvoiced bilabial 'ph', send breath between them, and move into true-mid front 'e'. Close the lips for voiced nasal 'm', keep air moving through the nose, and hold stressed high-front 'i'. Tap or briefly trill the tongue tip before final high-back rounded 'u'.",
+  "sound_symbolism": "'phemi' (guest) arrives intact before the final syllable. After its compact stressed centre, 'ru' turns the tongue and drops into a deeper rounded vowel. The guest relation is audible before the form moves towards departure.",
+  "usage_notes": "The verb takes a person or place as its direct object, and time phrases can bound the stay more closely. Used as a noun, it names a visit. Welcome, consent to enter, and membership remain their own relations.",
+  "examples": [
+    {
+      "phi": "mia ha womu phemiru.",
+      "translation": "I visit this home."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "A visit places company inside a chosen interval. Welcome and departure both stay available to the people sharing the space.",
-    "pre-industrial-wisdom": "Visits carried news, labor, food, and kinship along paths where guest and host might reverse roles on the next journey."
+    "peace-linguistics-practices": "A visit places company inside a chosen interval. Welcome and departure both remain available to the people sharing the space.",
+    "pre-industrial-wisdom": "Visits carried news, food, labour, and kinship along paths where guest and host might reverse roles on the next journey."
   },
   "semantic_domains": {
     "activity": "spending a bounded time with a person or at a place",
-    "community": "company held through the guest relation",
+    "community": "company held through a temporary guest relation",
     "temporal": "a stay with an understood end"
   },
   "modules": [

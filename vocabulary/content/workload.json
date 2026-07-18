@@ -8,18 +8,28 @@
     "ko"
   ],
   "pos": "noun",
-  "concept": "Workload / Work Expected or Undertaken Over an Interval",
-  "description": "The whole weight of work over an interval: how much, how intense, how interrupted, how much coordination it drags behind it, seen and unseen, paid and unpaid. Two people with the same task count can carry different workloads, and the word exists so that sentence can be said. What the weight does to the body is the body's own testimony.",
-  "sound_symbolism": "Bright 'ri' starts with a light tap of the tongue, then stressed 'ta' sets a broad dental beat in the center. Final 'ko' answers with a deeper velar closure and round 'o'. The sound grows heavier across the word, from a flick through an open strike to a full final chamber.",
-  "grammatical_notes": "A countable or mass noun according to context: 'mia ha ritako ma kelomi.' (I do not accept the workload.) State the person or group, interval, tasks, conditions, and hidden coordination burden where relevant. Distinct from 'riola' (purposeful labor), 'riporu' (task), 'naseru' (obligation), 'henora' (capacity), and a technical load.",
+  "search_terms": [
+    "amount of work",
+    "work demands"
+  ],
+  "description": "'ritako' is the whole demand of work carried over an interval. It includes the amount and intensity of the work together with the interruption or coordination it brings. Two people with the same task count can carry different workloads, and the body may answer each one differently.",
+  "articulatory_notes": "Tap or briefly trill the tongue tip before high-front 'i'. Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k', then finish on true-mid rounded 'o'.",
+  "sound_symbolism": "Bright 'ri' begins with a light tongue movement. Stressed 'ta' sets a broad dental beat in the centre, and final 'ko' answers with a deeper closure and rounded vowel. The word grows heavier from front to back.",
+  "usage_notes": "Workload is usually mass-like, though separate intervals or arrangements may be compared. A source schedule can provide exact boundaries. 'riporu' is one task, 'naseru' an obligation, and 'pushali' the act of overloading a person or system beyond present capacity.",
+  "examples": [
+    {
+      "phi": "mia ha ritako ma kelomi.",
+      "translation": "I do not accept this workload."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Naming workload makes maintenance, care, coordination, and other easily hidden labor available for equitable planning and redesign.",
-    "peace-linguistics-practices": "Separating workload from obligation and consent allows a person to describe what is being demanded without conceding that the demand is fair or accepted."
+    "solarpunk-values": "Workload makes maintenance, care, and coordination visible when a community decides how practical work is shared.",
+    "peace-linguistics-practices": "Separating workload from obligation and consent lets a person report what is being asked without conceding that the demand is fair or accepted."
   },
   "semantic_domains": {
-    "activity": "the combined demands of work under stated conditions",
+    "activity": "the combined demand of work under stated conditions",
     "community": "work distributed among people or groups",
-    "temporal": "work considered over a stated interval"
+    "temporal": "work considered across an interval"
   },
   "modules": [
     "accessibility-and-participation",

@@ -59,7 +59,8 @@
     {"id": "philosophical-reasoning-module-prose", "heading": "Philosophical Reasoning module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-PHIL-01", "CV-PHIL-02", "CV-PHIL-03", "CV-PHIL-04", "CV-PHIL-05", "CV-PHIL-06", "CV-PHIL-07", "CV-PHIL-08", "CV-PHIL-09", "CV-LOGIC-01", "CV-EPIST-01", "CV-EPIST-02"]},
     {"id": "systems-shared-infrastructure-module-prose", "heading": "Systems and Shared Infrastructure module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-01", "CV-MEAS-05", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ENERGY-01", "CV-ENERGY-02", "CV-ENERGY-03", "CV-ENERGY-04", "CV-SYSTEMS-03", "CV-SYSTEMS-04", "CV-SYSTEMS-05", "CV-SYSTEMS-06", "CV-SYSTEMS-07", "CV-SYSTEMS-08", "CV-SYSTEMS-09", "CV-NET-02"]},
     {"id": "ecological-systems-material-life-module-prose", "heading": "Ecological Systems and Material Life module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-01", "CV-MEAS-05", "CV-WATER-02", "CV-SKY-02", "CV-LAND-03", "CV-SKY-03", "CV-ECO-01", "CV-ECO-02", "CV-ECO-03", "CV-ECO-04", "CV-ECO-05", "CV-ECO-06", "CV-ECO-07", "CV-ECO-08", "CV-ECO-09"]},
-    {"id": "commons-collective-governance-module-prose", "heading": "Commons and Collective Governance module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-ACCESS-01", "CV-PHIL-09", "CV-ECON-01", "CV-JUST-01", "CV-RESOURCE-01", "CV-ROLE-01", "CV-SECRET-01", "CV-SYSTEMS-09", "CV-ECO-08", "CV-COMMONS-01", "CV-COMMONS-02", "CV-COMMONS-03", "CV-COMMONS-04", "CV-COMMONS-05", "CV-COMMONS-06", "CV-COMMONS-07", "CV-COMMONS-08", "CV-COMMONS-09", "CV-COMMONS-10", "CV-COMMONS-11"]}
+    {"id": "commons-collective-governance-module-prose", "heading": "Commons and Collective Governance module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-ACCESS-01", "CV-PHIL-09", "CV-ECON-01", "CV-JUST-01", "CV-RESOURCE-01", "CV-ROLE-01", "CV-SECRET-01", "CV-SYSTEMS-09", "CV-ECO-08", "CV-COMMONS-01", "CV-COMMONS-02", "CV-COMMONS-03", "CV-COMMONS-04", "CV-COMMONS-05", "CV-COMMONS-06", "CV-COMMONS-07", "CV-COMMONS-08", "CV-COMMONS-09", "CV-COMMONS-10", "CV-COMMONS-11"]},
+    {"id": "household-daily-life-module-prose", "heading": "Household and Daily Life module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-CLEAN-01", "CV-FOOD-01", "CV-FOOD-02", "CV-ECON-01", "CV-CULT-01", "CV-MAT-09", "CV-DWELL-01", "CV-DWELL-02", "CV-DWELL-03", "CV-DWELL-04", "CV-DWELL-05", "CV-TOOL-01", "CV-MESH-01", "CV-ENERGY-01", "CV-RESOURCE-01", "CV-ENERGY-04", "CV-COMMONS-04", "CV-HOUSE-01", "CV-HOUSE-02", "CV-HOUSE-03", "CV-HOUSE-04", "CV-HOUSE-05", "CV-HOUSE-06", "CV-HOUSE-07", "CV-HOUSE-08", "CV-HOUSE-09"]}
   ],
   "candidates": [
     {
@@ -267,7 +268,7 @@
       "placement": "base and established modules",
       "summary": "Base `hureki` names physical dirt. Existing clean, contaminant, spoil, and decompose entries keep practical cleanliness, unexpected presence, lost fitness, and material breakdown separate; active or completed decomposition supplies ordinary rotting without a moralised rotten root.",
       "implementation": {"words": ["hureki", "hiso", "hisophi", "mukesi", "morume"], "files": ["vocabulary/content/dirty.json", "vocabulary/content/clean.json", "vocabulary/content/contaminant.json", "vocabulary/content/spoil.json", "vocabulary/content/decompose.json"]},
-      "batches": ["cultivation-abundance-and-wildness", "recovered-cross-inventory-prompts"]
+      "batches": ["cultivation-abundance-and-wildness", "recovered-cross-inventory-prompts", "household-daily-life-module-prose"]
     },
     {
       "id": "CV-FOOD-01",
@@ -276,7 +277,7 @@
       "placement": "base",
       "summary": "The two nouns cover ordinary rice and tea, while exact cultivars, blends, and trade names remain with their sources.",
       "implementation": {"words": ["napari", "hasumi"], "files": ["vocabulary/content/rice.json", "vocabulary/content/tea.json"]},
-      "batches": ["cultivation-abundance-and-wildness", "dwelling-vessels-food-clothing-and-light", "recovered-cross-inventory-prompts"]
+      "batches": ["cultivation-abundance-and-wildness", "dwelling-vessels-food-clothing-and-light", "recovered-cross-inventory-prompts", "household-daily-life-module-prose"]
     },
     {
       "id": "CV-FOOD-02",
@@ -285,7 +286,7 @@
       "placement": "base compound",
       "summary": "The registered compound names a fruit by its hard stone-like shell and is already used in an active text.",
       "expressions": ["kerou lureko"],
-      "batches": ["cultivation-abundance-and-wildness", "dwelling-vessels-food-clothing-and-light", "recovered-cross-inventory-prompts"]
+      "batches": ["cultivation-abundance-and-wildness", "dwelling-vessels-food-clothing-and-light", "recovered-cross-inventory-prompts", "household-daily-life-module-prose"]
     },
     {
       "id": "CV-ACCESS-01",
@@ -465,7 +466,7 @@
       "placement": "no Phi lexical roots; exact source records remain available beside a Phi account",
       "summary": "The later canon decision places the clock, ruler, and price tag under the same refusal. Exchange, giving, receiving, sharing, obligation, extraction, and livelihood keep their own non-monetary relations.",
       "decision": "Phi has no monetary roots or internal monetary accounting. Exact economic records remain in their source form when people need to discuss them.",
-      "batches": ["reason-belief-ritual-and-value", "recovered-cross-inventory-prompts", "commons-collective-governance-module-prose"]
+      "batches": ["reason-belief-ritual-and-value", "recovered-cross-inventory-prompts", "commons-collective-governance-module-prose", "household-daily-life-module-prose"]
     },
     {
       "id": "CV-REASON-01",
@@ -699,7 +700,7 @@
       "placement": "Ecological, Household, or Work",
       "summary": "Existing verbs can describe what moves, is cut, is removed, or is supplied, while repeated specialist use may favour direct words.",
       "revisit_when": "a garden, farm, orchard, or ecological-care scenario uses the acts often enough to decide their learning value",
-      "batches": ["life-growth-cultivation-and-flourishing", "plants-animals-and-living-world"]
+      "batches": ["life-growth-cultivation-and-flourishing", "plants-animals-and-living-world", "household-daily-life-module-prose"]
     },
     {
       "id": "CV-TRY-01",
@@ -1059,7 +1060,7 @@
       "placement": "Household, Work, Systems, Ecological, or shared base according to connected use",
       "summary": "Paint and coal happen to be materials, but that fact gives them little else in common. Their next connected scenarios can decide which distinctions stay transparent and which deserve direct words.",
       "revisit_when": "a connected household, craft, construction, energy, or ecological scenario repeatedly needs one of these products beyond a transparent material description",
-      "batches": ["materials-substances-fibres-and-fire", "roles-places-relations-and-remaining-concrete-nouns"]
+      "batches": ["materials-substances-fibres-and-fire", "roles-places-relations-and-remaining-concrete-nouns", "household-daily-life-module-prose"]
     },
     {
       "id": "CV-MAT-10",
@@ -1086,7 +1087,7 @@
       "placement": "base compounds",
       "summary": "Six common building features are short relations among an interior, route, boundary, wall, door, roof, and smoke. The registered compounds fit many building traditions and spare six opaque roots.",
       "expressions": ["muwi toru", "rihe ruela", "muwi ruela", "norui ponu", "norui moru", "thumiro ruela"],
-      "batches": ["dwelling-vessels-food-clothing-and-light"]
+      "batches": ["dwelling-vessels-food-clothing-and-light", "household-daily-life-module-prose"]
     },
     {
       "id": "CV-DWELL-02",
@@ -1095,7 +1096,7 @@
       "placement": "Household, Systems, Built Environment, or exact source material according to use",
       "summary": "Broad function can already be described with a device, place, action, temperature, water path, or storage relation. Stove, oven, refrigerator, sink, bath, and similar categories divide differently across technologies and dwellings, so connected use should decide which distinctions deserve Phi forms.",
       "revisit_when": "a household, infrastructure, access, repair, or inhabited-place scenario repeatedly needs one stable appliance or fixture distinction beyond its function and exact source identity",
-      "batches": ["dwelling-vessels-food-clothing-and-light"]
+      "batches": ["dwelling-vessels-food-clothing-and-light", "household-daily-life-module-prose"]
     },
     {
       "id": "CV-DWELL-03",
@@ -1104,7 +1105,7 @@
       "placement": "base words and descriptions with exact equipment records where needed",
       "summary": "`luma` names the general made light source, `lumoi` a portable protected lamp, and `philu` a wick-fed candle. Shape, beam, energy source, and controls can distinguish a torch, flashlight, or electric fitting without another general light noun.",
       "expressions": ["luma", "lumoi", "philu"],
-      "batches": ["dwelling-vessels-food-clothing-and-light"]
+      "batches": ["dwelling-vessels-food-clothing-and-light", "household-daily-life-module-prose"]
     },
     {
       "id": "CV-DWELL-04",
@@ -1113,7 +1114,7 @@
       "placement": "Household, base, or another practical module according to connected use",
       "summary": "The base layer and Household module already cover ordinary containers, seating, bedding, storage, cleaning, clothing, and tableware. Forks, specialised pans, cupboards, and narrower footwear can be described by function until one distinction repeatedly earns a direct word.",
       "revisit_when": "connected daily-life, care, craft, or literary use repeatedly needs one practical object or garment type and the transparent description becomes cumbersome or ambiguous",
-      "batches": ["dwelling-vessels-food-clothing-and-light"]
+      "batches": ["dwelling-vessels-food-clothing-and-light", "household-daily-life-module-prose"]
     },
     {
       "id": "CV-DWELL-05",
@@ -1122,7 +1123,7 @@
       "placement": "exact source identity beside a Phi account",
       "summary": "Phi can describe how an item is made and used, what it is made from, and how it relates to the scene. A familiar category may still receive a Phi root later; exact identity remains with the source that establishes it.",
       "source_rule": "An original name, cultural designation, or model stays in its source form when identity depends on it. Recipes, labels, and safety instructions remain with that source while Phi describes the item's ordinary relations and effects.",
-      "batches": ["dwelling-vessels-food-clothing-and-light"]
+      "batches": ["dwelling-vessels-food-clothing-and-light", "household-daily-life-module-prose"]
     },
     {
       "id": "CV-TOOL-01",
@@ -1131,7 +1132,7 @@
       "placement": "Household, Work, Systems, Accessibility, base, or exact source material according to connected use",
       "summary": "The base inventory supplies a general tool and device beside several familiar hand implements. This deferred field includes further cutting and digging tools, fasteners, powered equipment, and protective or calibration gear. Those groups answer different practical questions, so one undifferentiated expansion would be larger than it is useful.",
       "revisit_when": "connected household, craft, access, repair, or technical work repeatedly needs one stable implement or equipment class beyond its function and exact source identity",
-      "batches": ["tools-travel-and-practical-objects"]
+      "batches": ["tools-travel-and-practical-objects", "household-daily-life-module-prose"]
     },
     {
       "id": "CV-TOOL-02",
@@ -1149,7 +1150,7 @@
       "placement": "Household, Ecological, Systems, Work, or exact source material according to function",
       "summary": "Base `mera` covers flexible open mesh and its ordinary physical uses. A rigid screen, fluid filter, computational grid, and measured mesh grade have little in common beyond an English family resemblance.",
       "revisit_when": "connected household, ecological, craft, or technical use repeatedly needs one mesh-based object apart from its material, openings, function, and source specification",
-      "batches": ["tools-travel-and-practical-objects", "roles-places-relations-and-remaining-concrete-nouns"]
+      "batches": ["tools-travel-and-practical-objects", "roles-places-relations-and-remaining-concrete-nouns", "household-daily-life-module-prose"]
     },
     {
       "id": "CV-SIGNAL-01",
@@ -1338,7 +1339,7 @@
       "placement": "Systems, Household, Ecological, and Work learning paths according to meaning",
       "summary": "`thewaki` names electricity broadly, `rishonu` electric charge, and `sephaki` charge in motion. `thewaki kenua` identifies electrical energy, while supply adds a source, state, and available capacity.",
       "implementation": {"words": ["thewaki", "rishonu", "sephaki"], "files": ["vocabulary/content/electricity.json", "vocabulary/content/charge.json", "vocabulary/content/current.json"]},
-      "batches": ["roles-places-relations-and-remaining-concrete-nouns", "systems-shared-infrastructure-module-prose"]
+      "batches": ["roles-places-relations-and-remaining-concrete-nouns", "systems-shared-infrastructure-module-prose", "household-daily-life-module-prose"]
     },
     {
       "id": "CV-ENERGY-02",
@@ -1383,7 +1384,7 @@
       "placement": "base resource vocabulary with established module terms",
       "summary": "`panuri` treats something as available for a purpose, `muralo` names matter in use, `sephori` the act of supply, `muphera` an available stock, `laenu` a commons and its governance, and `whemori` a waste classification. Access, authority, ownership, condition, and worth remain separate claims.",
       "expressions": ["panuri", "muralo", "sephori", "muphera", "laenu", "whemori", "rolia"],
-      "batches": ["roles-places-relations-and-remaining-concrete-nouns", "commons-collective-governance-module-prose"]
+      "batches": ["roles-places-relations-and-remaining-concrete-nouns", "commons-collective-governance-module-prose", "household-daily-life-module-prose"]
     },
     {
       "id": "CV-SACRED-01",
@@ -1464,7 +1465,7 @@
       "placement": "Systems, Household, Ecological, and Work learning paths",
       "summary": "`phoselu` distinguishes the rate of energy transfer from energy itself. Political power remains a social relation outside this technical noun, and exact ratings stay with their source.",
       "implementation": {"words": ["phoselu"], "files": ["vocabulary/content/power.json"]},
-      "batches": ["systems-shared-infrastructure-module-prose"]
+      "batches": ["systems-shared-infrastructure-module-prose", "household-daily-life-module-prose"]
     },
     {
       "id": "CV-SYSTEMS-03",
@@ -1644,7 +1645,7 @@
       "placement": "political or community source beside a Commons analysis",
       "summary": "Phi can describe dwelling, membership, roles, institutions, authority, jurisdiction, representation, and decision procedure. The named political category remains with its source because it carries a history and a claim about who belongs or may act.",
       "source_rule": "Residence and citizenship statuses retain their official or community form. Office titles and mandates do the same, together with terms, succession rules, or appointment records. Names for governments, states, nations, and peoples remain exact. So do polities, democracies, and sovereignty when identity, authority, or contested history depends on the category.",
-      "batches": ["commons-collective-governance-module-prose"]
+      "batches": ["commons-collective-governance-module-prose", "household-daily-life-module-prose"]
     },
     {
       "id": "CV-COMMONS-05",
@@ -1708,6 +1709,87 @@
       "summary": "Phi can describe cooperation and alliance, shared institutions and resources, or advocacy and objection. Collective refusal and work that ceases remain direct acts. These relations support nonviolent collective action without pretending that one generic label exhausts the history or commitments of a cooperative, union, protest, strike, or civil-disobedience tradition.",
       "source_rule": "Named institutional forms and movement identities retain their own names and attributed meanings. Organising traditions, protest forms, labour actions, and declarations stay with them. Community-specific mutual aid keeps its source as well. Phi can describe participants and purpose, the action and claimed authority, then risk, refusal, or response around them.",
       "batches": ["commons-collective-governance-module-prose"]
+    },
+    {
+      "id": "CV-HOUSE-01",
+      "concept": "household membership, co-residence, roommates, and domestic roles",
+      "status": "compositional",
+      "placement": "Household and Commons relations",
+      "summary": "`womuri` identifies the domestic unit, and `menui` states who dwells where. Membership and role enter only when people actually claim them. A roommate or co-resident can therefore be described through shared dwelling without turning proximity into kinship, authority, or assigned work.",
+      "expressions": ["womuri", "menui", "wemari", "sithora", "nua"],
+      "batches": ["household-daily-life-module-prose"]
+    },
+    {
+      "id": "CV-HOUSE-02",
+      "concept": "hospitality as a relation among guest, host, welcome, and care",
+      "status": "compositional",
+      "placement": "Household guest and welcome relations",
+      "summary": "`phemi` and `phemila` name the two temporary positions, while `whelani` says that an arrival is wanted. Food, shelter, privacy, and care remain concrete acts around them. The composition leaves each household or tradition free to decide what hospitality asks of either person.",
+      "expressions": ["phemi", "phemila", "whelani", "phemiru", "loa", "theama", "mirewu"],
+      "batches": ["household-daily-life-module-prose"]
+    },
+    {
+      "id": "CV-HOUSE-03",
+      "concept": "tidying, putting away, and household routine",
+      "status": "compositional",
+      "placement": "base placement, storage, cleanliness, and habitual-action clauses",
+      "summary": "Tidying is the work of putting particular things in their intended places, storing what waits for later, and cleaning what needs it. Phi states those changes directly. Habitual `ro` can show a household routine without turning every repeated domestic act into one opaque category.",
+      "expressions": ["thinu", "phelure", "hiso ka kelu", "ro", "riporu"],
+      "batches": ["household-daily-life-module-prose"]
+    },
+    {
+      "id": "CV-HOUSE-04",
+      "concept": "food storage, cooling, drying, salting, and preservation",
+      "status": "compositional",
+      "placement": "base preservation relations with Household containers and food conditions",
+      "summary": "Storage says where food waits for retrieval; preservation attends to keeping its condition. Dryness and temperature can enter alongside salt and closure, while later spoilage remains observable. The same relations suit cellars and jars as readily as drying racks or cold stores. Powered refrigeration does not become the universal household answer.",
+      "expressions": ["phelure", "nelore", "kurathi", "neri", "pelui", "morisa", "tapulo", "tapuri", "mukesi"],
+      "batches": ["household-daily-life-module-prose"]
+    },
+    {
+      "id": "CV-HOUSE-05",
+      "concept": "frying, roasting, steaming, stirring, kneading, serving, and other food preparation methods",
+      "status": "compositional",
+      "placement": "base and Household preparation verbs beside exact culinary sources",
+      "summary": "General cooking and preparation already combine with a heat source or vessel. Liquid and movement can be stated when they matter; cutting, grinding, and material change stay visible too. `napako` and `therapi` keep baking and boiling direct where those physical methods recur. A named culinary method can retain its source identity when the tradition or exact technique matters.",
+      "expressions": ["pharelo", "thilonu", "napako", "therapi", "welotu", "seluto", "kuremi", "kati"],
+      "batches": ["household-daily-life-module-prose"]
+    },
+    {
+      "id": "CV-HOUSE-06",
+      "concept": "housework, chores, assignment, workload, drudgery, and domestic power",
+      "status": "compositional",
+      "placement": "Household, Work, Commons, Accessibility, and base relations",
+      "summary": "A chore remains a concrete `riporu` task attached to the work itself. Washing and cooking remain distinct from cleaning, repair, or care. Assignment and acceptance stay separate, as do workload and drudgery. Coercion, exploitation, or retaliation can be named when domestic arrangements use power harmfully instead of hiding that relation inside a softer household word.",
+      "expressions": ["riporu", "rilowa", "kelomi", "naweri", "ritako", "rimawu", "pilora", "kawhera", "whepelo"],
+      "batches": ["household-daily-life-module-prose"]
+    },
+    {
+      "id": "CV-HOUSE-07",
+      "concept": "exact sanitation, cleaning, food-safety, and domestic health instructions",
+      "status": "source-bound",
+      "placement": "exact health, product, infrastructure, or community source beside a Household account",
+      "summary": "Phi can describe dirt and cleanliness, washing and soap, and the material path through a latrine. It can also name contamination, spoilage, or infection and the people affected. A threshold or prescribed procedure still depends on the authority and method that established it.",
+      "source_rule": "Cleaning-product identities and warnings retain their source form. Sanitation designs and maintenance instructions do as well. Food-safety rules retain their contaminant limits, public-health authority, and clinical guidance. Phi can discuss the material path and observed condition around that record. Access, action, and response remain available without reconstructing the source from a household paraphrase.",
+      "batches": ["household-daily-life-module-prose"]
+    },
+    {
+      "id": "CV-HOUSE-08",
+      "concept": "household utilities, service accounts, meter records, and named appliances",
+      "status": "source-bound",
+      "placement": "exact service, billing, equipment, or technical source beside Household and Systems relations",
+      "summary": "Water and heat remain discussable in Phi, as do electricity and supply. Storage has its own relation. Service loss, faults, and repair can then be stated around the exact device or service identity. Source measurements and account records stay exact.",
+      "source_rule": "Provider and service names retain their source form. Account identifiers and meter readings do too, alongside tariffs and bills. Equipment models keep their ratings, controls, and repair instructions. Phi can identify who uses or supplies the service and what stopped working. The burden and proposed response remain available around those exact records.",
+      "batches": ["household-daily-life-module-prose"]
+    },
+    {
+      "id": "CV-HOUSE-09",
+      "concept": "addresses, residence status, tenancy, leases, rent, and domestic legal claims",
+      "status": "source-bound",
+      "placement": "exact place, legal, community, or economic source beside Household and Commons relations",
+      "summary": "Phi can state who dwells in a place and who claims ownership or authority there. Obligations and memberships remain separate relations. They do not recreate an address or legal status, and Phi's refusal of monetary vocabulary leaves rent and payment records in their exact source form.",
+      "source_rule": "Addresses retain their original script and formatting. Residence and tenancy categories remain exact beside leases and notices. Property records retain rent amounts, payment histories, and jurisdiction-specific rights. Phi can discuss consent and access around them, or coercion and burden. Appeal and redress remain available without replacing the operative wording.",
+      "batches": ["household-daily-life-module-prose"]
     }
   ],
   "prompt_sources": [

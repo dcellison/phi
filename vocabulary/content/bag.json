@@ -8,16 +8,26 @@
     "pa"
   ],
   "pos": "noun",
-  "concept": "Bag / Flexible Container for Carrying or Keeping",
-  "description": "A flexible container with an opening, used to carry or keep objects. Cloth, leather, fiber, or another yielding material lets a bag change shape around what it holds. 'molu' (container) is general, while empty 'lirupa' folds nearly flat.",
-  "sound_symbolism": "Light 'li' releases the tongue into bright 'i'. Stressed 'ru' follows with a rolling contact and deep 'u'; the pair is also 'liru' (fabric), intact before the last syllable. Final 'pa' closes the lips and opens across broad 'a'. A low liquid middle ends with the mouth wide.",
-  "grammatical_notes": "A countable noun: 'mia mua ha lirupa nuora phelu.' (I keep food in this bag.) Ownership and material fit before the noun. 'wiru' (basket) is woven and self-supporting; a bag collapses around its contents.",
+  "search_terms": [
+    "sack",
+    "soft container"
+  ],
+  "description": "A 'lirupa' is a flexible container with an opening, used to carry or keep objects. Cloth, leather, fibre, or another yielding material lets it change shape around its contents. 'molu' (container) is the general category, while an empty bag can fold nearly flat.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l', let air pass along its sides, and move into high-front 'i'. Tap or briefly trill the tongue tip before stressed high-back rounded 'u'. Close the lips for unvoiced 'p' and release them into final central 'a'.",
+  "sound_symbolism": "Within the word, 'liru' (fabric) moves from bright 'li' through the deeper roll of stressed 'ru'. Final 'pa' closes the lips and opens broadly. A yielding middle meets one firmer edge, like a soft container gathered at its opening.",
+  "usage_notes": "Bags are countable. A possessor or material may precede the noun, and a nearby clause can name the contents. 'wiru' (basket) is woven and self-supporting; the bag yields around what it holds.",
+  "examples": [
+    {
+      "phi": "mia mua ha lirupa nuora phelu.",
+      "translation": "I keep food in this bag."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "A mended reusable bag keeps its usefulness through many errands instead of becoming single-use wrapping.",
-    "pre-industrial-wisdom": "Sacks and pouches moved seed, flour, tools, and personal goods while folding almost flat for the return journey."
+    "solarpunk-values": "A mended reusable bag can remain useful through many errands instead of becoming wrapping discarded after one trip.",
+    "pre-industrial-wisdom": "Sacks and pouches moved seed, flour, tools, and personal goods, then folded almost flat for the journey home."
   },
   "semantic_domains": {
-    "creation": "a flexible container made from cloth, leather, or fiber",
+    "creation": "a flexible container made from yielding sheet material",
     "physical": "a soft-sided holder that changes shape around its contents"
   },
   "modules": [

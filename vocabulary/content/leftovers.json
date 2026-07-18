@@ -8,13 +8,22 @@
     "mu"
   ],
   "pos": "noun",
-  "concept": "Leftovers / Prepared Food Remaining After a Meal",
-  "description": "Prepared food remaining after a meal or serving, still held for a later decision or use. Some leftovers become another meal or an ingredient. Others are given away, composted, or discarded according to their condition and the household's choice. 'whemori' (waste) begins when someone assigns no further intended use; 'pheomu' begins simply because food remains.",
-  "sound_symbolism": "Bilabial breath opens 'phe' before a standalone stressed 'o' rings across clear hiatus. Across that hiatus, 'pheo' (after) is heard intact. Final 'mu' closes the lips around a deep nasal ending.",
-  "grammatical_notes": "A mass or plural noun by context: 'ha pheomu mua tapulo nai.' (These leftovers are in the jar.) Nearby clauses can place them in time and describe their storage or next use. Condition and handling determine whether the food remains safe.",
+  "search_terms": [
+    "remaining prepared food"
+  ],
+  "description": "'pheomu' is prepared food left after a meal or serving, still held for a later decision. It may become another meal, enter a new dish, or leave the household according to its condition and people's choices. 'whemori' (waste) begins when someone assigns no further use; leftovers begin simply because food remains.",
+  "articulatory_notes": "Narrow the lips for unvoiced bilabial 'ph', pass breath between them, and move into true-mid front 'e'. Keep stressed true-mid rounded 'o' separate across clear hiatus. Close the lips for voiced 'm', carry the sound through the nose, and finish on high-back rounded 'u'.",
+  "sound_symbolism": "The opening makes 'pheo' (after) audible across its stressed hiatus. Final 'mu' then closes the lips around a deep nasal ending. Food after the meal seems to gather into one held remainder.",
+  "usage_notes": "Leftovers can be treated collectively or divided into portions by context. Storage, time, and next use can appear in nearby clauses. Safety remains an evidence-based judgement about the particular food rather than a promise carried by the noun.",
+  "examples": [
+    {
+      "phi": "ha pheomu mua tapulo nai.",
+      "translation": "These leftovers are in the jar."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Leftovers make the next use of prepared food visible before the household calls it waste.",
-    "pre-industrial-wisdom": "Yesterday's grain, broth, or bread often began today's pot rather than a separate category of disposable food."
+    "solarpunk-values": "Leftovers keep the next use of prepared food visible before a household calls it waste.",
+    "pre-industrial-wisdom": "Yesterday's grain, broth, or bread often began today's pot rather than entering a separate category of disposable food."
   },
   "semantic_domains": {
     "physical": "prepared food remaining after an eating occasion",

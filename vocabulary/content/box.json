@@ -8,12 +8,21 @@
     "pa"
   ],
   "pos": "noun",
-  "concept": "Box / Rigid Sided Container",
-  "description": "A rigid container shaped by flat sides, usually with a distinct opening or lid. It may hold tools under a bench, letters on a shelf, or food during a journey; 'molu' (container) covers every receptacle, while 'molupa' adds panels and a shape that stays when empty.",
-  "sound_symbolism": "Low nasal 'mo' begins behind closed lips. Stressed 'lu' releases the tongue into deep 'u'; across them, 'molu' (container) is audible in full. Final 'pa' brings the sound back to the lips and opens into broad 'a'. A rounded enclosure gives way to a wide final plane.",
-  "grammatical_notes": "A countable noun: 'ha molupa lo tenoa phelu.' (This box holds tools.) A surrounding phrase gives its material or lid. A box stays a box whether open or closed.",
+  "search_terms": [
+    "rigid container"
+  ],
+  "description": "A 'molupa' is a rigid container shaped by flat sides, usually with a distinct opening or lid. It may hold tools under a bench or food during a journey. 'molu' (container) covers every receptacle; the box adds panels and a shape that stays when empty.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm', carry the sound through the nose, and round into true-mid 'o'. Touch the tongue tip to the alveolar ridge for 'l', let air pass along its sides, and hold stressed high-back rounded 'u'. Close the lips again for unvoiced 'p' and release into final central 'a'.",
+  "sound_symbolism": "'molu' (container) fills the first two syllables. Rounded 'mo' and deep stressed 'lu' stay enclosed until final 'pa' opens broadly from closed lips. That last flat release can recall one panel meeting the container's hollow.",
+  "usage_notes": "A box takes ordinary number marking. Material and lid can be named alongside owner and contents. Opening or closing the box changes its state without changing the noun.",
+  "examples": [
+    {
+      "phi": "ha molupa lo tenoa phelu.",
+      "translation": "This box holds tools."
+    }
+  ],
   "pillars": {
-    "pre-industrial-wisdom": "A fitted wooden box protected letters, seed, medicines, and edge tools from damp or careless handling."
+    "pre-industrial-wisdom": "A fitted wooden box protected letters, seed, medicine, and edge tools from damp or careless handling."
   },
   "semantic_domains": {
     "creation": "a rigid container assembled from flat sides",

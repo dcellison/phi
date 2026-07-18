@@ -8,10 +8,20 @@
     "mo"
   ],
   "pos": "noun",
-  "concept": "Blanket / Large Cloth Covering for Warmth",
-  "description": "A large cloth covering used to hold warmth around a resting person or sleeping place. It may be woven, felted, quilted, or layered from another material. 'wethalu' (garment) moves with the dressed body; 'wethamo' lies over a person or bed as a covering.",
-  "sound_symbolism": "Rounded 'we' enters the stressed dental breath and broad vowel of 'tha'. The first two syllables give 'wetha' (cloth) intact. Final 'mo' closes the lips around a low nasal hum and round 'o'. Each syllable settles more deeply than the one before it.",
-  "grammatical_notes": "A countable noun: 'ha wethamo sulae nai.' (This blanket is warm.) Possession, material, and number use ordinary modifiers. Warmth is stated with 'sulae' rather than assumed from the noun.",
+  "search_terms": [
+    "bed covering",
+    "warm covering"
+  ],
+  "description": "A 'wethamo' is a large cloth covering used to hold warmth around a resting person or sleeping place. It may be woven, felted, quilted, or layered from another material. 'wethalu' (garment) moves with the dressed body; a blanket lies over a person or bed.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then move into true-mid front 'e'. Place the tongue tip lightly against the upper teeth for unvoiced 'th' and open into stressed central 'a'. Close the lips for voiced 'm', keep air moving through the nose, and finish on true-mid rounded 'o'.",
+  "sound_symbolism": "'wetha' (cloth) is present in full before final 'mo' closes the lips around a low nasal hum and rounded vowel. The word settles more deeply at its end, like a covering laid over a resting body.",
+  "usage_notes": "A blanket takes ordinary number marking, with material and owner available as modifiers. Warmth is stated with 'sulae' or 'sukaro' rather than assumed from the noun, since a blanket may be damp or cold.",
+  "examples": [
+    {
+      "phi": "ha wethamo sulae nai.",
+      "translation": "This blanket is warm."
+    }
+  ],
   "pillars": {
     "pre-industrial-wisdom": "A blanket carried the hours of spinning, weaving, felting, or quilting that made cold sleep possible."
   },

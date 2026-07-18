@@ -8,16 +8,26 @@
     "ko"
   ],
   "pos": "verb",
-  "concept": "Bake / Cook by Surrounding Dry Heat",
-  "description": "To cook food through surrounding dry heat, often within an enclosed heated place. Bread is the familiar case, though the scope also includes roots, fruit, dough, and other foods. 'therapi' (boil) works through moving liquid; 'napako' lets heat reach the food from the chamber around it.",
-  "sound_symbolism": "Dental 'na' opens into the stressed lip closure and broad vowel of 'pa'. To the ear, the opening is exactly 'napa' (bread). Final 'ko' closes at the velum and rounds the word into a deeper chamber.",
-  "grammatical_notes": "A transitive verb: 'mia napa napako.' (I bake bread.) Nearby phrases identify the heat source, vessel, duration, and exact temperature. The event-noun rule supplies baking.",
+  "search_terms": [
+    "dry-heat cooking",
+    "oven cook"
+  ],
+  "description": "To 'napako' is to cook food through surrounding dry heat, often inside an enclosed heated place. Bread is the familiar case, but roots, fruit, dough, and other foods also fit. 'therapi' (boil) works through moving liquid; baking lets heat reach the food from the chamber around it.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the sound through the nose, and open into central 'a'. Close the lips for unvoiced 'p' and release into stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k', then finish on true-mid rounded 'o'.",
+  "sound_symbolism": "The opening sounds 'napa' (bread) in full as dental 'na' meets the broad lip release of stressed 'pa'. Final 'ko' closes farther back and rounds into a deeper chamber, an audible turn from bread towards the heated enclosure around it.",
+  "usage_notes": "The verb directly takes the food, while nominal use covers baking. A surrounding phrase may identify the vessel or heat source. Exact temperatures and timed instructions stay with the source recipe when they matter.",
+  "examples": [
+    {
+      "phi": "mia napa napako.",
+      "translation": "I bake bread."
+    }
+  ],
   "pillars": {
-    "pre-industrial-wisdom": "A communal oven gathered several households around one firing, with each loaf read by color, smell, and the practiced hand."
+    "pre-industrial-wisdom": "A communal oven gathered several households around one firing, with each loaf read by colour, smell, and the practised hand."
   },
   "semantic_domains": {
     "activity": "cooking food through surrounding dry heat",
-    "creation": "turning dough or other food into a baked result",
+    "creation": "turning dough or another food into a baked result",
     "physical": "heat reaching food from an enclosing chamber"
   },
   "modules": [

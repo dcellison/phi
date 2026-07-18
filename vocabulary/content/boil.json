@@ -8,16 +8,25 @@
     "pi"
   ],
   "pos": "verb",
-  "concept": "Boil / Heat Liquid to Sustained Bubbling",
-  "description": "To heat a liquid, or food in liquid, until bubbles form and rise continuously through it. The verb also describes the liquid reaching that state without naming an outside agent. 'pharelo' (cook) covers heat preparation broadly; 'therapi' identifies the moving liquid state.",
-  "sound_symbolism": "Soft dental breath carries 'the' into balanced 'e'. Stressed 'ra' rolls the tongue through broad 'a', then final 'pi' closes the lips and rises to bright 'i'. A swelling center breaks into a small sharp finish.",
-  "grammatical_notes": "A transitive or intransitive verb: 'mia phialu therapi.' (I boil water.) The vessel and heat source fit ordinary phrases, as do duration and exact temperature. The event-noun rule supplies boiling.",
+  "search_terms": [
+    "sustained bubbling"
+  ],
+  "description": "To 'therapi' is to heat a liquid, or food in liquid, until bubbles form and rise continuously through it. The verb also fits the liquid reaching that state without a named outside agent. 'pharelo' (cook) covers heat preparation broadly; boiling selects the moving liquid condition.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth for unvoiced 'th' and release the breath into true-mid front 'e'. Tap or briefly trill the tongue tip before stressed central 'a'. Close the lips for unvoiced 'p' and release into final high-front 'i'.",
+  "sound_symbolism": "Soft dental breath enters the broad tongue movement of stressed 'ra'. Final 'pi' closes the lips and breaks into a bright small vowel. The centre swells before the finish breaks cleanly, an embodied echo of bubbles reaching a surface.",
+  "usage_notes": "The verb can be transitive when someone boils a liquid or intransitive when the liquid boils. A vessel and heat source take their ordinary phrases. As a noun, the same form names boiling; exact process conditions remain with the source instruction or record.",
+  "examples": [
+    {
+      "phi": "mia phialu therapi.",
+      "translation": "I boil water."
+    }
+  ],
   "pillars": {
-    "pre-industrial-wisdom": "The sound and motion of a pot told a cook when water had reached a boil long before a numbered instrument stood beside the hearth."
+    "pre-industrial-wisdom": "The sound and movement of a pot told a cook when water had reached a boil long before a numbered instrument stood beside the hearth."
   },
   "semantic_domains": {
     "activity": "heating liquid to sustained bubbling",
-    "physical": "a liquid state with continuous rising bubbles"
+    "physical": "a liquid condition with bubbles rising continuously"
   },
   "modules": [
     "household-and-daily-life"

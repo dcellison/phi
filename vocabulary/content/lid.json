@@ -8,16 +8,25 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Lid / Removable Cover for an Opening",
-  "description": "A removable cover fitted over the opening of a container. Whether it rests loosely, seals tightly, or fastens through a mechanism, 'tapu' (close) names the action and 'tapuri' is the separate thing that meets the rim.",
-  "sound_symbolism": "Dental 'ta' and stressed bilabial 'pu' make 'tapu' (close) audible before the final syllable. 'Ri' releases those two stops with a quick tongue tap and bright 'i'. The contour ends lighter and quicker than its firm opening.",
-  "grammatical_notes": "A countable noun: 'ha tapuri tomi tapu.' (This lid closes the pot.) Its container precedes it as possessor when needed. Exact seals, caps, and fitted closures keep their source names when design matters.",
+  "search_terms": [
+    "removable cover"
+  ],
+  "description": "A 'tapuri' is a removable cover fitted over a container's opening. It may rest loosely, seal tightly, or fasten through another mechanism. 'tapu' (close) names the action; the lid is the separate object that meets the rim.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into central 'a'. Close the lips for unvoiced 'p' and hold stressed high-back rounded 'u'. Tap or briefly trill the tongue tip before final high-front 'i'.",
+  "sound_symbolism": "The opening sounds 'tapu' (close) through a dental stop and the deep stressed lip closure of 'pu'. Final 'ri' releases those firm contacts with a quick tongue turn and bright vowel. The cover lifts lightly from the rim.",
+  "usage_notes": "Lids are countable, and the container may precede the noun as possessor. Exact caps, seals, and fastening systems retain their source identities when the design matters.",
+  "examples": [
+    {
+      "phi": "ha tapuri tomi tapu.",
+      "translation": "This lid closes the pot."
+    }
+  ],
   "pillars": {
-    "pre-industrial-wisdom": "The right lid kept steam in the pot, dust out of grain, and mice away from the winter store."
+    "pre-industrial-wisdom": "The right lid kept steam in a pot, dust out of grain, and mice away from the winter store."
   },
   "semantic_domains": {
     "creation": "a fitted removable cover",
-    "physical": "a separate object meeting the rim of a container"
+    "physical": "a separate object that meets the rim of a container"
   },
   "modules": [
     "household-and-daily-life"
