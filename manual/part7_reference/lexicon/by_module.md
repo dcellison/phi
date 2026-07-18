@@ -120,12 +120,13 @@
 
 ## Ecological Systems and Material Life
 
-*46 words in this learning path.*
+*47 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
 | `herani` | trend | noun |
 | `hisophi` | contaminant | noun |
+| `hoshemi` | hypothesis | noun |
 | `keshoa` | reptile | noun |
 | `koewi` | input | noun |
 | `kuramo` | drought | noun |
@@ -277,10 +278,11 @@
 
 ## Philosophical Reasoning
 
-*21 words in this learning path.*
+*22 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
+| `hoshemi` | hypothesis | noun |
 | `kethira` | infer | verb |
 | `kirothe` | define | verb |
 | `kithela` | valid | adjective |
@@ -305,12 +307,13 @@
 
 ## Systems and Shared Infrastructure
 
-*37 words in this learning path.*
+*38 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
 | `henora` | capacity | noun |
 | `herani` | trend | noun |
+| `hoshemi` | hypothesis | noun |
 | `kelitho` | function | verb |
 | `ketora` | control | verb |
 | `kiphira` | fault | noun |

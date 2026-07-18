@@ -82,7 +82,7 @@ A: mia to kanelu. mia nohero to helui.
 (I erred. My belief changed.)
 ```
 
-This dialogue separates report, direct observation, inference, an alternative possibility, error, and revision. The example does not prove the device caused pollution; its job is to block premature certainty. Phi still lacks a conventional word or construction for *alternative hypothesis*.
+This dialogue separates report, direct observation, inference, an alternative possibility, error, and revision. The example does not prove the device caused pollution; its job is to block premature certainty. `hoshemi` now names a proposed account under examination, and `phirae hoshemi` supplies an alternative hypothesis. The dialogue keeps ordinary possibility because its speaker raises another possible cause without yet developing it into a hypothesis.
 
 ## 4. A phrase under critique
 

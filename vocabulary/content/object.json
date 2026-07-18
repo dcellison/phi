@@ -8,13 +8,23 @@
     "ru"
   ],
   "pos": "verb",
-  "concept": "Object / Raise an Objection",
-  "description": "To raise a specific problem with a claim, a premise, or an inference, and put that problem into the discussion for someone to answer. An objection stops short of rejecting the whole argument or proving anything false; it opens a question rather than closing one.",
-  "sound_symbolism": "The rounded breath of 'wha' arrives before any hard contact, like the intake before someone speaks against a point. Stress gives 'ke' a clean velar stop and the concern an edge. 'Ru' rolls away from that contact into deep 'u' and checks the flow for one beat before its energy returns to the discussion.",
-  "grammatical_notes": "A transitive verb taking the challenged item or a declarative complement: 'mia mena ha mothare shewo ma nai meno whakeru.' (I object that this premise is not true.) The event-noun rule supplies an objection. Distinct from 'naweri' (refuse), which declines an action or request, and 'ma nawo' (not agree), which states a stance without necessarily giving a reason.",
+  "search_terms": [
+    "raise an objection",
+    "challenge a point",
+    "identify a problem"
+  ],
+  "description": "A person 'whakeru' when they raise a specific problem with a claim, premise, or inference and place it into the discussion for response. An objection does not by itself reject the entire argument or prove anything false. It opens a question at the point where the reasoning needs attention.",
+  "articulatory_notes": "Round the lips and keep the vocal folds apart for unvoiced 'wh', then open onto central 'a'. Close the back of the tongue against the soft palate for stressed unvoiced 'k' and release into middle-height front 'e'. Finish with a brief alveolar tap or short trill before high-back rounded 'u'.",
+  "sound_symbolism": "Rounded breath arrives before the stressed velar closure gives the word a clear point of contact. The final tap releases into deep 'u', so the concern enters firmly and then remains in the conversation instead of ending it.",
+  "usage_notes": "The challenged item or a declarative complement is the object, and the event-noun rule supplies an objection. 'naweri' refuses an action or request, 'ma nawo' reports non-agreement, and 'whekate' claims to refute; none is interchangeable with identifying a question that still needs an answer.",
+  "examples": [
+    {
+      "phi": "mia mena ha mothare shewo ma nai meno whakeru.",
+      "translation": "I object that this premise is not true."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "A named objection can target a specific part of reasoning while preserving respect, relationship, and the possibility of repair.",
-    "pre-industrial-wisdom": "Collective deliberation depends on allowing a concern to be raised before a shared decision hardens into custom or action."
+    "peace-linguistics-practices": "An objection can target one part of the reasoning while respect and the possibility of repair remain intact."
   },
   "semantic_domains": {
     "cognition": "identifying a specific problem in reasoning",

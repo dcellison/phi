@@ -401,7 +401,7 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `woraka` | appreciate | positive recognition of a sensory or artistic quality |
 
-## cognition (240)
+## cognition (241)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -416,6 +416,7 @@
 | `hiru` | intuit | a judgement or expectation arising without consciously followed reasoning |
 | `hisaro` | clinical finding | a method-bounded observation available for interpretation |
 | `hisophi` | contaminant | an agent classified relative to a stated expected condition |
+| `hoshemi` | hypothesis | a proposed explanation or relation examined against evidence |
 | `kanelu` | err | a mistake made in thought, memory, judgement, or understanding |
 | `kanu` | choose | settling on one alternative from those considered or available |
 | `kanuro` | decision | a choice assigned settled or actionable status |
@@ -646,7 +647,7 @@
 | `wireki` | prognosis | a conditional inference about a health course |
 | `woraka` | appreciate | attention that recognises value in a person, act, thing, or condition |
 
-## communication (132)
+## communication (133)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -656,6 +657,7 @@
 | `hea` | hear | spoken language becoming available to a hearer |
 | `hewasu` | audible | speech or a signal distinguishable to its intended listener |
 | `hola` | laugh | an audible social response whose meaning comes from its occasion and manner |
+| `hoshemi` | hypothesis | a provisional account made available for shared testing |
 | `howela` | receive | receiving a message, account, or other communicative object |
 | `kapura` | shout | a voice projected forcefully to carry a call or words |
 | `kela` | rejoice | strong joy made perceptible to another person |
@@ -1324,7 +1326,7 @@
 | `wiroa` | hopeful | felt expectation that a desired outcome remains possible |
 | `woraka` | appreciate | the favourable response that accompanies recognised value |
 
-## ethics (31)
+## ethics (33)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1348,6 +1350,8 @@
 | `renoa` | liberate | an imposed constraint removed so that another person's course opens |
 | `rolia` | worth | a claim of worth independent of utility, rank, or merit earned |
 | `ruesha` | compassionate | a response that treats suffering as a reason for concern and possible care |
+| `sharino` | conscience | moral self-appraisal of intended or completed conduct |
+| `sherelo` | right (normative) | a claim that can place a duty or limit on conduct |
 | `thaemu` | sincere | a claimed feeling or intention matched by its expression |
 | `theama` | care | conduct that answers another being's welfare or a responsibility of upkeep |
 | `theloma` | justice | a normative account of what fair treatment and redress require |
@@ -2542,7 +2546,7 @@
 | `leiro` | release | release considered as a practice of loosening attachment |
 | `letharo` | consistent | holding plurality without confusing compatibility with truth |
 | `lumishe` | mentor | experience offered for the learner's considered use |
-| `manawi` | compromise | a practical but morally nonautomatic response to conflict |
+| `manawi` | compromise | a practical settlement whose fairness still needs examination |
 | `menua` | counselor | experience or judgement offered for another person's consideration |
 | `motu` | humble | self-appraisal kept open to correction and further learning |
 | `noetha` | essential | practical judgement about what a course cannot lose and still meet its purpose |

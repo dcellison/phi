@@ -1,10 +1,10 @@
 # Philosophical Reasoning
 
-Someone claims a path is good, another asks why, and the argument that follows needs words sharper than "think" and "true" to hold together: a premise from a conclusion, a valid argument from a sound one, a doubt from a refutation. Claim, evidence, reason, and criterion belong to base vocabulary because that exchange is ordinary life. Twenty narrower roots form the optional toolkit around them.
+Someone claims a path is good, another asks why, and the argument that follows needs words sharper than "think" and "true" to hold together: a premise from a conclusion, a valid argument from a sound one, a doubt from a refutation. Claim, evidence, reason, and criterion belong to base vocabulary because that exchange is ordinary life. Twenty-one narrower roots form the optional toolkit around them.
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them supplies vocabulary, and vocabulary has never made anyone right.
 
-The chapter table below introduces 20 module roots. Shared classification brings the optional learning list to 21 words; four base words are taught alongside it. The complete machine-generated list is available under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 21 module roots. Shared classification brings the optional learning list to 22 words; four base words are taught alongside it. The complete machine-generated list is available under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -33,6 +33,7 @@ The canonical entries for `sherewa`, `thesori`, `remotha`, and `kirema` have no 
 | `themore` | noun | argument; premises organized to support a conclusion | An argument is a structure of support, not a quarrel and not a bare dialogue. |
 | `whakeru` | verb | object; raise a specific problem for response | An objection raises a problem for someone to answer; it is not yet a refusal or a refutation. |
 | `kethira` | verb | infer; reach a conclusion from premises | Inferring is the act of reasoning itself, distinct from the inferential evidential particle `ke`. |
+| `hoshemi` | noun | hypothesis; a proposed explanation or relation under examination | A hypothesis is tested against evidence; a premise is a proposition serving a role inside an argument. |
 | `natheri` | verb | entail; imply by necessity | Entailment is necessity, stronger than mere support or a chain of causes. |
 | `kithela` | adjective | valid; having premises that entail the conclusion | Validity is a structural fact about the argument's form; the premises can still be false. |
 | `phiketu` | verb | contradict; be unable to be true together under the same conditions | Contradiction is impossibility together, stronger than disagreement or plain difference. |
@@ -104,6 +105,18 @@ ha mothare ha remuma natheri.
 PROX premise PROX conclusion entail.
 (This premise entails this conclusion.)
 ```
+
+## Hypotheses under examination
+
+The river rises after three days of rain. One speaker proposes the rain as an explanation; another wonders about a blocked channel. Each proposed account is a `hoshemi`, available for comparison before either becomes a fact by conversational impatience.
+
+```
+ha thesori ha hoshemi panoru.
+PROX evidence PROX hypothesis support.
+(This evidence supports this hypothesis.)
+```
+
+`phirae hoshemi` is an alternative hypothesis. A formal statistical procedure keeps its complete hypothesis and test record with the source; Phi can say how that record enters the present inquiry.
 
 ## Validity, contradiction, and refutation
 
@@ -218,6 +231,7 @@ Some useful philosophical expressions remain clearer as combinations because the
 | `remo noa` | standpoint or perspective; thought-position | Keeps a perspective tied to a situated act of thinking. |
 | `kithela themore` | valid argument | Uses the ordinary modifier-first relation. |
 | `noetha kirema` | essential criterion | Names importance without silently claiming logical sufficiency. |
+| `phirae hoshemi` | alternative hypothesis | Uses ordinary difference while preserving the kind of proposal being compared. |
 | `mena ... meno nohero ma kanu` | suspend judgment; decline to choose the framed belief | States exactly what the speaker is withholding. |
 
 ## Source philosophical vocabulary

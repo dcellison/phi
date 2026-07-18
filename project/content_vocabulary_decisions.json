@@ -55,7 +55,8 @@
     {"id": "language-story-art-and-representation", "heading": "Language, story, art, and representation", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-AEST-03", "CV-WRITE-01", "CV-LANG-01", "CV-LANG-02", "CV-ART-01", "CV-ART-02", "CV-MUSIC-01", "CV-MUSIC-02", "CV-ART-03"]},
     {"id": "reason-belief-ritual-and-value", "heading": "Reason, belief, ritual, and value", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-PHIL-01", "CV-REASON-01", "CV-EPIST-01", "CV-EPIST-02", "CV-CHANCE-01", "CV-RITE-01", "CV-RITE-02", "CV-META-01", "CV-META-02", "CV-VISION-01", "CV-JUST-01", "CV-VALUE-01", "CV-ECON-01"]},
     {"id": "roles-places-relations-and-remaining-concrete-nouns", "heading": "Roles, places, relations, and remaining concrete nouns", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-ADVENTURE-01", "CV-COUNSEL-01", "CV-RISK-01", "CV-RISK-02", "CV-ENERGY-01", "CV-ENERGY-02", "CV-MED-02", "CV-NET-01", "CV-NET-02", "CV-RESOURCE-01", "CV-SACRED-01", "CV-SACRED-02", "CV-ROLE-01", "CV-SECRET-01", "CV-WEATHER-01", "CV-THING-01", "CV-VALUE-01", "CV-SETTLE-01", "CV-SETTLE-02", "CV-MESH-01", "CV-EDU-01", "CV-MAT-08", "CV-MAT-09"]},
-    {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-02", "CV-MAT-05", "CV-MAT-06", "CV-MEAS-02", "CV-MEAS-03", "CV-MEAS-04", "CV-MEAS-05", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]}
+    {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-02", "CV-MAT-05", "CV-MAT-06", "CV-MEAS-02", "CV-MEAS-03", "CV-MEAS-04", "CV-MEAS-05", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]},
+    {"id": "philosophical-reasoning-module-prose", "heading": "Philosophical Reasoning module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-PHIL-01", "CV-PHIL-02", "CV-PHIL-03", "CV-PHIL-04", "CV-PHIL-05", "CV-PHIL-06", "CV-PHIL-07", "CV-PHIL-08", "CV-PHIL-09", "CV-LOGIC-01", "CV-EPIST-01", "CV-EPIST-02"]}
   ],
   "candidates": [
     {
@@ -357,12 +358,93 @@
     },
     {
       "id": "CV-PHIL-01",
-      "concept": "emergence, correlation, inference strength, and further responsibility distinctions",
+      "concept": "emergence and correlation",
       "status": "deferred",
       "placement": "Philosophical Reasoning, Systems, or shared base",
-      "summary": "The first philosophical pass named these as later questions rather than completed omissions.",
-      "revisit_when": "new philosophical arguments or systems explanations need one of the distinctions repeatedly and the existing relations become clumsy or ambiguous",
-      "batches": ["reason-belief-ritual-and-value", "recovered-cross-inventory-prompts"]
+      "summary": "The first philosophical pass named emergence, correlation, inference strength, and responsibility as later questions. This pass closes ordinary inference strength and responsibility composition separately; emergence and correlation remain concrete questions for connected Systems work.",
+      "revisit_when": "the Systems and Shared Infrastructure prose migration examines system change, observation, and causal claims in connected use",
+      "batches": ["reason-belief-ritual-and-value", "recovered-cross-inventory-prompts", "philosophical-reasoning-module-prose"]
+    },
+    {
+      "id": "CV-PHIL-02",
+      "concept": "hypothesis and alternative hypothesis",
+      "status": "implemented",
+      "placement": "Philosophical Reasoning, Systems, and Ecological Systems and Material Life",
+      "summary": "The new noun gives a proposed explanation or relation a stable place under examination without turning it into a premise, evidence, or settled fact. Ordinary `phirae hoshemi` supplies an alternative hypothesis.",
+      "implementation": {"words": ["hoshemi"], "files": ["vocabulary/content/hypothesis.json"]},
+      "batches": ["philosophical-reasoning-module-prose"]
+    },
+    {
+      "id": "CV-PHIL-03",
+      "concept": "premise, proposition, assumption, and hypothesis",
+      "status": "compositional",
+      "placement": "base grammar with Philosophical Reasoning vocabulary",
+      "summary": "`sherewa` puts a proposition forward as a claim, `mothare` gives a proposition a starting role inside an argument, evidential `ho` marks assumption as a claimed source, and `hoshemi` names a proposed account under examination. The roles can overlap in one discussion without becoming synonyms.",
+      "expressions": ["sherewa", "mothare", "ho", "hoshemi"],
+      "batches": ["philosophical-reasoning-module-prose"]
+    },
+    {
+      "id": "CV-PHIL-04",
+      "concept": "sound arguments, invalidity, fallacies, and ordinary proof",
+      "status": "compositional",
+      "placement": "base reasoning words with Philosophical Reasoning",
+      "summary": "A sound argument states a `kithela themore` and true premises. Negated validity reports invalidity, `kanelu` identifies an error in the reasoning, and `whekate` records a successful refutation. Exact named fallacies and formal proofs retain the source boundary in `CV-EPIST-02`.",
+      "expressions": ["kithela themore", "shewo mothare", "kithela ma", "kanelu", "whekate"],
+      "batches": ["philosophical-reasoning-module-prose"]
+    },
+    {
+      "id": "CV-PHIL-05",
+      "concept": "theory, explanatory framework, and model in ordinary discussion",
+      "status": "compositional",
+      "placement": "Philosophical Reasoning and Systems vocabulary",
+      "summary": "A speaker can present an organised explanation through `solae`, state its supporting `themore`, place its hypotheses under examination, and use `reteru` when a bounded representation of a system is intended. These relations are clearer than one root that copies every English use of theory or framework.",
+      "expressions": ["solae", "themore", "hoshemi", "reteru", "terura"],
+      "batches": ["philosophical-reasoning-module-prose"]
+    },
+    {
+      "id": "CV-PHIL-06",
+      "concept": "exact named theories, doctrines, schools, philosophical terms, and source definitions",
+      "status": "source-bound",
+      "placement": "source tradition or work beside a Phi account",
+      "summary": "Phi can explain a theory's claims, premises, concepts, consequences, and critics. Its exact name and inherited distinctions remain with the tradition or text that gives them identity.",
+      "source_rule": "Keep the source name and wording with the definition, citation, and edition that fix the reference. Phi states the account under examination and separates the distinctions carried by a module word from those left with the source.",
+      "batches": ["philosophical-reasoning-module-prose"]
+    },
+    {
+      "id": "CV-PHIL-07",
+      "concept": "interpretation, ambiguity, and competing readings",
+      "status": "compositional",
+      "placement": "base meaning and reasoning vocabulary",
+      "summary": "A speaker can state what an expression `reo`, make a claim about that meaning, draw an inference from it, or use `lilea` when wording admits more than one reading. Competing interpretations become competing meaning claims with their evidence and context left visible.",
+      "expressions": ["reo", "sherewa", "kethira", "lilea", "solae"],
+      "batches": ["philosophical-reasoning-module-prose"]
+    },
+    {
+      "id": "CV-PHIL-08",
+      "concept": "ordinary inference strength and confidence in a conclusion",
+      "status": "compositional",
+      "placement": "base support relations with Philosophical Reasoning",
+      "summary": "`panoru` says what supports a claim, while degree and competing evidence show how much support is present. `norethi` reports a person's confidence separately. Exact probabilities, odds, and formal standards retain their source record under `CV-EPIST-02`.",
+      "expressions": ["panoru", "thesori", "norethi", "whamoi"],
+      "batches": ["philosophical-reasoning-module-prose"]
+    },
+    {
+      "id": "CV-PHIL-09",
+      "concept": "responsibility, accountability, obligation, and causal contribution",
+      "status": "compositional",
+      "placement": "base agency vocabulary with Commons and Work",
+      "summary": "`thonai` names responsibility for an act or role, `lothoni` names answerability before affected people or an agreed process, and `naseru` states obligation. Cause, authority, awareness, choice, and effect remain available as separate claims when responsibility is divided or disputed.",
+      "expressions": ["thonai", "lothoni", "naseru", "ka", "thueli"],
+      "batches": ["philosophical-reasoning-module-prose"]
+    },
+    {
+      "id": "CV-LOGIC-01",
+      "concept": "necessary and sufficient conditions",
+      "status": "compositional",
+      "placement": "base criterion with Philosophical Reasoning entailment",
+      "summary": "`kirema` identifies the condition being applied, and the direction of `natheri` states whether the condition follows from membership or makes membership follow. Keeping the two propositions visible is more reliable than labels whose direction speakers routinely reverse.",
+      "expressions": ["kirema", "natheri"],
+      "batches": ["philosophical-reasoning-module-prose"]
     },
     {
       "id": "CV-SYSTEMS-02",
@@ -398,16 +480,16 @@
       "placement": "base reasoning words with Philosophical Reasoning where needed",
       "summary": "Ordinary proof is better stated through the evidence, reasons, inference, or refutation that settles a particular point. Knowledge and confidence then report different stances towards the result rather than becoming a portable certificate of certainty.",
       "expressions": ["thesori", "remotha", "sano", "norethi", "whekate"],
-      "batches": ["reason-belief-ritual-and-value"]
+      "batches": ["reason-belief-ritual-and-value", "philosophical-reasoning-module-prose"]
     },
     {
       "id": "CV-EPIST-02",
-      "concept": "formal proofs, exact probability values, odds, and named logical or epistemic standards",
+      "concept": "formal proofs, exact probability values, odds, named inference methods, fallacies, and logical or epistemic standards",
       "status": "source-bound",
       "placement": "exact source material beside a Phi account",
       "summary": "A formal result depends on its notation, axioms, method, reference class, and stated standard. Phi can discuss the argument and evidence without recoding the identity that makes the result reproducible.",
-      "source_rule": "Formal proofs keep their notation, axioms, and named logic in source form. Probability statements keep their value, odds, reference class, and method identifier. Phi states what is claimed, how the result was obtained, and how it enters the present decision.",
-      "batches": ["reason-belief-ritual-and-value"]
+      "source_rule": "Formal proofs keep their notation, axioms, named logic, inference method, fallacy definition, and governing standard in source form. Probability statements keep their value, odds, reference class, and method identifier. Phi states what is claimed, how the result was obtained, and how it enters the present decision.",
+      "batches": ["reason-belief-ritual-and-value", "philosophical-reasoning-module-prose"]
     },
     {
       "id": "CV-CHANCE-01",

@@ -8,10 +8,21 @@
     "thi"
   ],
   "pos": "adjective",
-  "concept": "Confident / Holding a Strong but Revisable Stance",
-  "description": "Holding a strong stance while staying open to revising it. Confidence describes how firmly a person holds a belief, never whether the belief is true, and it grants no authority to override anyone else's account.",
-  "sound_symbolism": "Dental 'no' starts with a steady nasal contact and a calm round vowel. 'Re' rolls forward under stress and gives the middle of the word a firm living motion. 'Thi' finishes in a thread of air between tongue and teeth, then focused 'i'. Confidence sounds settled at first, animated at its center, and clear at the edge.",
-  "grammatical_notes": "An adjective used before a noun or predicatively: 'norethi miona' (a confident person); 'mia norethi nai.' (I am confident.) Context or a following explanation states what the confidence concerns. The quality-noun rule supplies confidence. Distinct from 'sano' (know), 'shewo' (true), 'kaeshu' (bold), and 'kesu' (determined).",
+  "search_terms": [
+    "strongly assured",
+    "firm in belief",
+    "confidence"
+  ],
+  "description": "A person is 'norethi' when they hold a belief, judgement, or ability with a strong sense of assurance. Confidence reports the firmness of the person's stance, not whether the belief is true or the ability sufficient. It may support action while remaining open to evidence and revision.",
+  "articulatory_notes": "Set the tongue tip at the upper teeth for voiced dental nasal 'n' and round into middle-height 'o'. Make a brief alveolar tap or short trill before stressed middle-height front 'e'. Place the tongue tip at the upper teeth for unvoiced 'th' and finish on high-front unrounded 'i'.",
+  "sound_symbolism": "A steady nasal opening leads into the stressed motion of the tap, then narrows to a fine thread of dental breath. The word feels settled without ending heavily, which suits assurance that can still admit another word.",
+  "usage_notes": "The adjective appears before a noun or predicatively; context gives the subject of the confidence, and the quality-noun rule supplies confidence. 'sano' concerns knowledge, 'shewo' truth, 'kaeshu' boldness, and 'kesu' determination.",
+  "examples": [
+    {
+      "phi": "mia norethi nai.",
+      "translation": "I am confident."
+    }
+  ],
   "pillars": {
     "secular-buddhist-philosophy": "Confidence can support committed action without being mistaken for permanent certainty or immunity from revision.",
     "peace-linguistics-practices": "Separating confidence from truth and authority lets speakers state their stance strongly without using strength of feeling to silence others."

@@ -8,17 +8,29 @@
     "lo"
   ],
   "pos": "noun",
-  "concept": "Right / Normative Claim That Can Bind Conduct or Institutions",
-  "description": "A normative claim that a person or group holds under a moral principle, law, or other stated source, and that places a duty or limit on conduct. A speaker may use the word while recognition or validity is disputed; 'shereni' (entitlement) begins where a claim has been recognized and scoped. Recognition can secure a right in practice, but it is not the source of every right.",
-  "sound_symbolism": "Breath narrows through 'she' before the tongue turns into stressed 're', whose light trill sends the middle of the word forward. The final 'lo' releases along the tongue and opens on rounded 'o', leaving the contour spacious rather than shut. The first two syllables let 'sherelo' sit beside 'sherewa' (claim) and 'shereni' (entitlement) by sound; its liquid ending gives this form a more open finish.",
-  "grammatical_notes": "A countable noun: 'theula miona lo kolo sherelo phelu.' (All people hold equal rights.) Its source, bearer, scope, and fulfillment can appear in ordinary clauses. 'Shereni' (entitlement) is recognized and scoped by a social order; 'sherelo' can name the claim under examination even when recognition is disputed. 'Kuri' (right) names a bodily direction only.",
+  "search_terms": [
+    "moral right",
+    "legal right",
+    "normative claim"
+  ],
+  "description": "A person or group can hold a 'sherelo' under a moral principle, law, or another stated source. This normative claim places a duty or limit on conduct or institutions and can still be spoken while its recognition is disputed. 'shereni' (entitlement) begins with a socially recognised scope; recognition can secure a right in practice without being the source of every right.",
+  "articulatory_notes": "Raise the tongue blade behind the alveolar ridge for unvoiced 'sh' and release into middle-height front 'e'. Make a brief alveolar tap or short trill before a second, stressed middle-height front 'e'. Touch the tongue tip at the alveolar ridge for lateral 'l' and finish on middle-height rounded 'o'.",
+  "sound_symbolism": "The first two syllables place 'sherelo' beside 'sherewa' (claim) and 'shereni' (entitlement) by sound. Its final lateral opens into rounded 'o' and gives the normative claim a spacious ending of its own.",
+  "usage_notes": "The noun is countable. When a right's source or bearer matters, ordinary clauses supply them; recognition and fulfilment remain separate events. 'shereni' is an entitlement recognised within a social order, while bodily direction uses 'kuri'.",
+  "examples": [
+    {
+      "phi": "theula miona lo kolo sherelo phelu.",
+      "translation": "All people hold equal rights."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "A right can place durable limits around access to shared necessities or participation when goodwill fails.",
     "peace-linguistics-practices": "The word keeps a denied claim audible when an institution rejects it; recognition and enforcement remain facts a speaker can state separately."
   },
   "semantic_domains": {
     "communication": "a claim whose source and fulfillment can be examined",
-    "community": "a normative claim held among people, groups, or institutions"
+    "community": "a normative claim held among people, groups, or institutions",
+    "ethics": "a claim that can place a duty or limit on conduct"
   },
   "modules": [
     "commons-and-collective-governance",

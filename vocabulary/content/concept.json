@@ -8,10 +8,21 @@
     "le"
   ],
   "pos": "noun",
-  "concept": "Concept / Organized Idea",
-  "description": "An organized idea through which someone groups or relates experiences and possibilities. A concept stands apart from the word that names it, the symbol that points to it, and any single example used to illustrate it, and its boundaries can shift with use.",
-  "sound_symbolism": "A light roll begins 're' and sets the word in motion. Closed lips and round 'o' make the stressed 'mo' a small resonant chamber. 'Le' lets the tongue release along the palate, so the word leaves its gathered middle and extends a line toward whatever may belong with it.",
-  "grammatical_notes": "A countable noun: 'ha remole ruka nai.' (This concept is complex.) It may be modified by a word, tradition, or domain in ordinary modifier-first order. Distinct from 'phelui' (word), 'relo' (symbol), 'reo' (meaning), and the definition supplied by the event noun of 'kirothe'.",
+  "search_terms": [
+    "organised idea",
+    "mental category",
+    "abstract idea"
+  ],
+  "description": "People use a 'remole' to group or relate experiences, objects, and possibilities as an organised idea. The word, symbol, and example associated with a concept each have their own place. A concept's edges may shift when practice, language, or knowledge changes.",
+  "articulatory_notes": "Begin with a brief alveolar tap or short trill and release into middle-height front 'e'. Close the lips for voiced nasal 'm' and round into stressed middle-height 'o'. Touch the tongue tip at the alveolar ridge for lateral 'l' and finish on middle-height front 'e'.",
+  "sound_symbolism": "The opening 'remo' is exactly 'remo' (think) and gives the word an audible place in Phi's family of reflective acts. The final lateral releases the rounded centre into a lighter edge, as an idea extends towards the things gathered under it.",
+  "usage_notes": "The noun is countable and may be modified by a word, tradition, or domain in ordinary modifier-first order. 'phelui' is a word, 'relo' a symbol, 'reo' meaning, and the event noun of 'kirothe' a definition; each can relate to a concept without becoming the concept itself.",
+  "examples": [
+    {
+      "phi": "ha remole ruka nai.",
+      "translation": "This concept is complex."
+    }
+  ],
   "pillars": {
     "secular-buddhist-philosophy": "Concepts are useful patterns of thought rather than fixed essences; speakers can observe how attachment to a category shapes experience.",
     "peace-linguistics-practices": "Separating concepts from their labels helps participants discover genuine agreement beneath different words and genuine difference beneath apparent translation.",

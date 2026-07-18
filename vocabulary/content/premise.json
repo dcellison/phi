@@ -8,10 +8,21 @@
     "re"
   ],
   "pos": "noun",
-  "concept": "Premise / Starting Claim in Reasoning",
-  "description": "A claim taken as a starting point within an argument, so that another claim can be drawn from it. The word names a role, not a truth: a premise can be true, false, or merely hypothetical, and the same proposition can be a premise in one argument and the conclusion of another.",
-  "sound_symbolism": "'Mo' begins behind closed lips and opens into a rounded chamber that gives the word a quiet starting place. 'Tha' receives the stress in a stream of dental breath and broad 'a'. 'Re' sets the tongue rolling toward what follows. A premise sounds gathered at first, opened for inspection, then sent onward along a line of thought.",
-  "grammatical_notes": "A countable noun: 'ha mothare shewo nai.' (This premise is true.) Plural premises take 'lo'. In 'lo mothare ha remuma panoru.' (The premises support this conclusion), the role relation is explicit. Distinct from 'thesori' (evidence), which is material offered in support, and from 'thorui' (beginning), which is any starting point.",
+  "search_terms": [
+    "starting claim",
+    "argument premise",
+    "assumed proposition"
+  ],
+  "description": "Inside an argument, a claim used as a starting point is a 'mothare'. The noun gives the claim its present role, not its truth: a premise may be true, false, or hypothetical. The same proposition can finish one argument and report for duty as a premise in the next.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm' and release into middle-height rounded 'o'. Place the tongue tip at the upper teeth for stressed unvoiced 'th', then open onto central 'a'. Finish with a brief alveolar tap or short trill before middle-height front 'e'.",
+  "sound_symbolism": "Closed lips gather the opening, stressed dental breath opens it for examination, and the final tap sends the word onward. The contour feels placed and then released, much like a claim from which reasoning proceeds. The resemblance is a mnemonic, not an argument.",
+  "usage_notes": "The noun is countable, and plural premises take 'lo'. 'thesori' (evidence) is material offered in support, while 'thorui' is a beginning of any kind. Evidential 'ho' marks assumption as a claimed source; a premise is the proposition occupying a role within an argument.",
+  "examples": [
+    {
+      "phi": "lo mothare ha remuma panoru.",
+      "translation": "The premises support this conclusion."
+    }
+  ],
   "pillars": {
     "secular-buddhist-philosophy": "Naming a premise encourages attention to what has been provisionally taken up rather than treating the whole argument as an indivisible certainty.",
     "peace-linguistics-practices": "Speakers can challenge a starting claim while preserving the rest of an exchange and without implying hostility toward its author."

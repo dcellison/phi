@@ -8,10 +8,21 @@
     "wi"
   ],
   "pos": "verb",
-  "concept": "Compromise / Reach Agreement Through Mutual Concession",
-  "description": "For people with different aims to reach agreement, each accepting less than they first sought. The word names the process and its settlement together; it promises nothing about whether the result is just, and a coerced compromise can rightly be refused.",
-  "sound_symbolism": "'Ma' begins with lips closed together, then opens fully on 'a'. At the word's center, stressed 'na' repeats the nasal steadiness farther forward, so two similar sounds occupy distinct places. The glide of 'wi' rounds the lips and narrows toward bright 'i'. Those positions join in one slender path while their shared resonance continues.",
-  "grammatical_notes": "An intransitive verb used with plural participants or a comitative phrase: 'lo mia to manawi.' (We compromised.); 'mia nua thia to manawi.' (I compromised with you.) The event-noun rule supplies a compromise. Distinct from 'numike' (negotiate), the process of discussing terms, and 'nawo' (agree), which does not imply concession.",
+  "search_terms": [
+    "mutual concession",
+    "settlement",
+    "reach a compromise"
+  ],
+  "description": "People 'manawi' when they reach an agreement by each accepting less than they first sought. The settlement may preserve cooperation, while justice and freedom remain questions of their own. A result reached under pressure is still open to refusal and review.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm' and open onto central 'a'. Set the tongue tip at the upper teeth for stressed voiced dental nasal 'n' and repeat the open central vowel. Round the lips for voiced 'w', then narrow into high-front unrounded 'i'.",
+  "sound_symbolism": "The first two syllables repeat open 'a' through nasal contacts made at different places, lips first and teeth second. Final 'wi' joins those steady openings to a narrower glide, so the word changes course without losing its shared resonance.",
+  "usage_notes": "The verb takes plural participants or a comitative phrase; the event-noun rule supplies a compromise. 'numike' concerns negotiation before an outcome, while 'nawo' (agree) does not imply that anyone yielded part of what they wanted.",
+  "examples": [
+    {
+      "phi": "mia nua thia to manawi.",
+      "translation": "I compromised with you."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Communities building shared futures need language for settlements that preserve cooperation while still exposing unequal costs and unresolved needs.",
     "peace-linguistics-practices": "Compromise is available as one outcome of dialogue without being treated as morally required, inherently fair, or preferable to a clear refusal.",
@@ -20,7 +31,7 @@
   "semantic_domains": {
     "communication": "an outcome of negotiating differing aims",
     "community": "a settlement reached through concessions among participants",
-    "wisdom": "a practical but morally nonautomatic response to conflict"
+    "wisdom": "a practical settlement whose fairness still needs examination"
   },
   "modules": [
     "commons-and-collective-governance",

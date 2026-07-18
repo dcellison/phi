@@ -8,16 +8,28 @@
     "no"
   ],
   "pos": "noun",
-  "concept": "Conscience / Moral Self-Appraisal",
-  "description": "The inward faculty by which a person weighs their own intended or completed conduct against what they take to be right. Conscience may trouble, forbid, permit, or acquit, and it can be mistaken or shaped by harmful teaching. 'Waeli' (conscious) names awareness itself; 'sharino' names moral self-appraisal within that awareness.",
-  "sound_symbolism": "Hushed 'sha' begins with the tongue holding the breath just behind the teeth before broad 'a' opens it. Stressed 'ri' flicks sharply at the center. Dental 'n' then settles into the rounded depth of 'o', and the word moves from a broad opening through that quick medial flick to a low, quiet close.",
-  "grammatical_notes": "A mass noun or possessed faculty: 'mia sharino mia phoa whakeru.' (My conscience objects to my action.) It coordinates with the event noun of 'remo' (think) in 'remo nela sharino wei lo shia se loa.' (Thought and conscience are given to them.) 'Waeli' (conscious) names awareness itself, while conscience weighs one's own conduct.",
+  "search_terms": [
+    "moral self-appraisal",
+    "inner moral judgement",
+    "ethical self-review"
+  ],
+  "description": "'sharino' is the inward faculty by which a person weighs their intended or completed conduct against what they take to be right. It may warn, trouble, permit, or acquit, and it may itself need correction after harmful teaching. 'waeli' (conscious) names awareness; conscience is moral self-appraisal within it.",
+  "articulatory_notes": "Raise the tongue blade behind the alveolar ridge for unvoiced 'sh' and open onto central 'a'. Make a brief alveolar tap or short trill before stressed high-front unrounded 'i'. Set the tongue tip at the upper teeth for voiced dental nasal 'n' and finish on middle-height rounded 'o'.",
+  "sound_symbolism": "A hush opens broadly, the stressed tap gives the middle a brief clear movement, and the dental nasal settles into rounded 'o'. The contour closes quietly, as an inward check that need not become an accusation shouted across the room.",
+  "usage_notes": "The noun refers to a faculty, often with a possessor. It can coordinate with the event noun of 'remo' (think), as in the Article 1 rendering. A conscience may be sincere and still mistaken or conditioned by harmful teaching.",
+  "examples": [
+    {
+      "phi": "mia sharino mia phoa whakeru.",
+      "translation": "My conscience objects to my action."
+    }
+  ],
   "pillars": {
     "secular-buddhist-philosophy": "Conscience is a conditioned faculty that a person can observe and correct rather than an unchanging moral essence.",
     "peace-linguistics-practices": "A speaker can name the inward check on their own conduct without assigning permanent guilt or virtue to the whole person."
   },
   "semantic_domains": {
     "cognition": "the faculty of judging one's own conduct against held values",
+    "ethics": "moral self-appraisal of intended or completed conduct",
     "wisdom": "moral self-appraisal that remains open to examination and correction"
   },
   "modules": [

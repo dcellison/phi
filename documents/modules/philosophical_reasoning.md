@@ -1,6 +1,6 @@
 # Philosophical Reasoning
 
-**Status:** **Established vocabulary module** with 18 module roots coined in its first pass, 21 current memberships, and base-vocabulary `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 18 module roots coined in its first pass, three later additions, 22 current memberships, and base-vocabulary `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion; ordinary Phi grammar.
 
 ## Charter
 
@@ -51,6 +51,16 @@ The first pass admits eighteen optional roots for specialized reasoning and four
 
 All 22 roots established in this pass follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, pass the lexical validator, and have no character edit-distance-one or flagged phonetic neighbors in the pre-coinage audit. Eighteen carry `philosophical-reasoning`; `sherewa`, `thesori`, `remotha`, and `kirema` carry no module field and remain in base vocabulary.
 
+## Hypothesis in the current module
+
+The rain-and-river scenario needs a proposed account that can be examined before anyone calls it a fact. `hoshemi` names that hypothesis. It is shared with Systems and Shared Infrastructure and Ecological Systems and Material Life because pumps, watersheds, and philosophical arguments all need provisional accounts, and none benefits from pretending the first explanation to arrive has already won.
+
+| Phi | Working sense | Essential contrast |
+|---|---|---|
+| `hoshemi` | hypothesis; a proposed explanation or relation under examination | A `mothare` is a proposition serving as a premise. A hypothesis is the account being tested and may later supply a premise. |
+
+Ordinary `phirae hoshemi` supplies an alternative hypothesis. Formal null and alternative hypotheses, statistical tests, and named methods retain their exact source identities beside the Phi discussion.
+
 ## Rights and conscience
 
 Article 1 of the Universal Declaration of Human Rights brings two further distinctions into sustained philosophical use. They belong beside the argument vocabulary because a discussion of moral or political claims may need to ask what a right is, where it comes from, and whether a person's conscience gives a sound judgment.
@@ -72,13 +82,14 @@ The pass keeps several expressions compositional because their parts provide a u
 | Standpoint or perspective | `remo noa`, thought-position | Presents perspective as situated thinking rather than an invisible universal view. |
 | Sound argument | `kithela themore` plus explicitly true premises | Prevents validity from silently implying factual truth. |
 | Necessary and sufficient conditions | Use the direction of `natheri` between membership and a `kirema` | Makes the two relations visible without adding labels that speakers may reverse. |
+| Alternative hypothesis | `phirae hoshemi` | Keeps the ordinary relation of difference visible while the noun states what kind of proposal differs. |
 | Suspension of judgment | `mena ... meno nohero ma kanu`, decline to choose the framed belief | States what the speaker withholds while leaving inquiry open. |
 | Reason for a claim | `sherewa remotha` | Ordinary modifier-first order exposes the justificatory relation. |
 
 ## Scenario Connections
 
 - [Water for the garden](../evaluation/philosophical_test_corpus.md#1-water-for-the-garden) can now name its `soneho` tradeoff and any `manawi` compromise without implying that the settlement is just.
-- [Rain and the river](../evaluation/philosophical_test_corpus.md#3-rain-and-the-river) can distinguish `thesori` evidence, a `mothare` premise, the act `kethira` of inferring, and a revisable `remuma` conclusion.
+- [Rain and the river](../evaluation/philosophical_test_corpus.md#3-rain-and-the-river) can distinguish `thesori` evidence, a proposed `hoshemi` hypothesis, a `mothare` premise, the act `kethira` of inferring, and a revisable `remuma` conclusion.
 - [Definition under pressure](../evaluation/philosophical_test_corpus.md#5-definition-under-pressure) can separate a `remole` concept, the act `kirothe` of defining, a `kirema` criterion, a `phisuwa` example, and a `phiwheki` counterexample.
 - [The water device, the number, and the loop](../evaluation/philosophical_test_corpus.md#6-the-water-device-the-number-and-the-loop) and [The shared energy device](../evaluation/philosophical_test_corpus.md#7-the-shared-energy-device) can now discuss `kithela` validity, `natheri` entailment, and `whekate` refutation directly.
 - [Grain for hunger and seed](../evaluation/philosophical_test_corpus.md#11-grain-for-hunger-and-seed), the ecological cases, and the work-sharing case can use `remotha` reasons, `whamoi` doubt, `norethi` confidence, and `soneho` tradeoffs while preserving their domain-specific vocabulary needs.
