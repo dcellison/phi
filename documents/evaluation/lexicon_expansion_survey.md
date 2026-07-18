@@ -77,13 +77,15 @@ The [Commons and Collective Governance profile](../modules/commons_and_collectiv
 
 Affected standing and office structure remain compositional, as do meeting mechanics. Legal categories and property relations keep their source distinctions. So do enforcement methods and institutional criticism, while publication, implementation, and repeal use ordinary clauses. The full profile records each retained item. `CV-ECON-01` reserves contracts and wider political economy for a possible Economic Systems and Provisioning profile; its register entry preserves the monetary and accounting questions without importing them under governance labels.
 
-### Work, craft, and repair: first pass complete
+### Work, craft, and repair: current prose complete
 
 The [Work, Craft, and Repair profile](../modules/work_craft_and_repair.md) establishes 28 optional terms for tasks, projects, progress, blocked status, deadlines, schedules, assignment, coordination, supervision, handoffs, skills, competence, expertise, qualification, training, assessment, certification, design, testing, quality, workload, drudgery, exploitation, stock, inventories, supply, offcuts, and provenance. `winora` plan and `hasoru` pending belong in base vocabulary.
 
 The pass keeps requests, offers, work sequences, completion criteria, job and profession categories, novice status, exact licenses and credentials, drawings and tolerances, inspection and approval relations, fatigue, accommodations, stop-work authority, wages, payments, prices, contracts, employment, warranties, liability, collective agreements, protective equipment, powered tools, software, and automation compositional, cross-module, or exact as appropriate. Systems supplies technical state and checking, Commons supplies authority and institutional relations, Medical and Accessibility preserve bodily and participation boundaries, and source material preserves exact economic, legal, credential, and technical identity.
 
 This domain also exposes a semantic risk rather than a simple absence: `riola`, `theko`, `molawi`, `wenola`, `pheloma`, `seru`, and `thonai` frame work, service, cooperation, commitment, or responsibility positively or voluntarily. The new `rimawu` drudgery, `pilora` exploitation, and neutral work-organization terms make criticism more direct, while base `kawhera` coercion and `whepelo` retaliation and explicit bodily, safety, authority, and obligation clauses remain necessary.
+
+All sixteen inherited Work entries now follow the target prose contract, and the completeness review adds no root. Thirteen new and twenty-two linked decisions settle the remaining workshop, labour, logistical, and institutional questions without turning the module into an employment code or an equipment catalogue. Work, Craft, and Repair keeps seventy current memberships and has no legacy prose.
 
 ### Medical and bodily care: current prose complete
 

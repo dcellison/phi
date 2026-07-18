@@ -8,17 +8,29 @@
     "i"
   ],
   "pos": "noun",
-  "concept": "Pigment / Coloring Substance / Color Source",
-  "description": "A substance used for coloring; the material source of color before it becomes paint or dye. 'Kolai' names what holds color—earth, plant, or mineral ground to release hue.",
-  "sound_symbolism": "The word colors bold. 'Ko' concentrates with intense presence, color gathered. 'La' spreads with radiating hue. Then 'i' rises to vivid staining.",
-  "grammatical_notes": "Functions as noun: 'kolai' (pigment), 'lo kolai' (pigments). Raw color material. Ground for paint, mixed for 'tinoa' (dye).",
+  "search_terms": [
+    "particulate colorant",
+    "artist pigment",
+    "colouring particles"
+  ],
+  "description": "'kolai' is a finely divided, insoluble substance that gives colour to the material or medium holding it. Pigment particles may be mixed with a binder, suspended in liquid, or worked directly onto a surface. 'tinoa' (dye) enters or bonds with the receiving material instead of remaining there as a particulate colourant.",
+  "articulatory_notes": "Unvoiced velar 'k' releases into true-mid rounded 'o'. For 'la', touch the alveolar ridge with the tongue tip and pass the voice along its sides into stressed central 'a'. Lift to high-front unrounded 'i' as a separate vowel, with the final 'a.i' hiatus audible.",
+  "sound_symbolism": "Rounded 'ko' opens through lateral 'la' and then rises across the final hiatus to bright 'i'. The widening and sudden lift suggest dry colour dispersed through a medium.",
+  "usage_notes": "Pigment may be treated as material or counted by kind or portion. Its source, particle form, binder, and hazards can be named when the broad colourant category is insufficient. Exact formulations and trade names keep their source forms.",
+  "examples": [
+    {
+      "phi": "kolai mua phanu nai.",
+      "translation": "Pigment is on the canvas."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "Color from earth—natural pigments creating the organic palette of Art Nouveau.",
-    "pre-industrial-wisdom": "Pigments from nature—ochre, indigo, cochineal, colors gathered from the world."
+    "art-nouveau-aesthetics": "Pigment gives colour a material body on cloth, wood, or plaster. Surface and medium alter the result.",
+    "pre-industrial-wisdom": "Mineral, plant, and animal sources can require grinding, washing, binding, or careful handling before their colour becomes usable."
   },
   "semantic_domains": {
-    "aesthetic": "Visual material",
-    "nature": "Color source"
+    "aesthetic": "particulate colour material used in visual work",
+    "creation": "a colourant mixed, suspended, or applied during making",
+    "physical": "finely divided insoluble matter held in another material or medium"
   },
   "modules": [
     "work-craft-and-repair"

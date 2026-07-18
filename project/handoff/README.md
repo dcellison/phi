@@ -20,15 +20,14 @@ Do not use `archive/` as current evidence. It preserves history, including appro
 
 ## Where the work stopped
 
-SEM-09B is complete, and D045 through D051 have finished seven SEM-09C module batches. The lexicon now has 1,275 entries: 1,259 target-shaped and 16 legacy-shaped. Every function word, interjection, and base content entry is finished. Accessibility and Participation joins the six earlier module paths at zero legacy prose; everything still waiting belongs to Work, Craft, and Repair.
+SEM-09B and SEM-09C are complete. D045 through D052 migrated all eight module learning paths, and all 1,275 lexicon entries are now target-shaped. There are no legacy, partial, or dual entries. Work, Craft, and Repair closed the sequence without adding a root. The active-corpus retrofit is next.
 
 The execution order is fixed in the roadmap:
 
-1. Migrate the final 16 module entries while preserving every established module membership and the established editorial voice; Work, Craft, and Repair is next.
-2. Sweep active Phi passages for old workarounds that the completed vocabulary can improve.
-3. Return to the Phi book with chapter 7, "A literature before a community."
+1. Sweep active Phi passages for old workarounds that the completed vocabulary can improve.
+2. Return to the Phi book with chapter 7, "A literature before a community."
 
-The immediate task is the Work, Craft, and Repair batch within SEM-09C, described in [`current_state.md`](current_state.md). The maintainer has deliberately kept the final 16 entries in the current editorial sequence so the completed lexicon reads as though one person made it. SEM-09D waits until every entry is target-shaped.
+The immediate task is the SEM-09D contextual retrofit described in [`current_state.md`](current_state.md). Inspect the book, manual, primer, pamphlets, texts, and current documents for older paraphrases or workarounds, but change a Phi passage only when current vocabulary makes it more faithful or natural. A transparent composition is not obsolete merely because a direct word now exists.
 
 ## The maintainer's working contract
 
@@ -72,7 +71,7 @@ A replacement model can use this opening checklist:
 2. Read AGENTS.md, canon.md, the full voice guide, and the full Humanizer skill.
 3. Run git status --short --branch and verify that main is clean and current.
 4. Read the current coverage resume point and decision register counts.
-5. If continuing SEM-09C, inspect the proposed semantic batch, every module membership, neighbouring meanings, and known uses before editing any entry.
+5. If continuing SEM-09D, inspect each Phi passage in context, including its translation or transmutation method, dependencies, and validated examples, before replacing an older workaround.
 6. Create a feature branch only after the scope is understood.
 7. Carry the work through prose, Humanizer, voice audit, validation, commit, push, PR, and CI unless the user explicitly asks to pause.
 ```

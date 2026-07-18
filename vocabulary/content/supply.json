@@ -8,18 +8,29 @@
     "ri"
   ],
   "pos": "verb",
-  "concept": "Supply / Make a Resource Available for a Stated Use",
-  "description": "To make a material, tool, or other resource available for a stated use, usually by transfer or delivery. Supplying moves the thing, not the questions around it: condition, sufficiency, receipt, and whose it remains each take their own sentence.",
-  "sound_symbolism": "Fine 'se' sends breath through a narrow hiss, then stressed 'pho' brings that air to the lips and rounds it in a fuller chamber. Final 'ri' taps the tongue and brightens sharply. Breath expands at the center before the word leaves on a quick precise contact.",
-  "grammatical_notes": "A transitive verb: 'shia wei keritha muralo sephori.' (They supply material to the workshop.) Use 'wei' for a recipient and state the source, amount, condition, purpose, restrictions, and receipt where relevant. The event-noun rule supplies supply as an activity. Distinct from 'loa' (give), 'sekaru' (transfer), 'sepho' (send), 'panuri' (resource), and 'muphera' (stock).",
+  "search_terms": [
+    "provide resources",
+    "make available",
+    "deliver supplies"
+  ],
+  "description": "Someone 'sephori' when they make material, tools, or another resource available for a stated use. 'loa' (give) transfers what is given; supplying may instead lend, deliver, or replenish what a person or place can use. Receipt and adequacy are later facts.",
+  "articulatory_notes": "Let unvoiced 's' pass through a narrow alveolar groove into true-mid front 'e'. Next, bring the lips nearly together for unvoiced bilabial 'ph', then round into stressed true-mid back 'o'. One light alveolar tap or brief trill releases into final high-front 'i'.",
+  "sound_symbolism": "Fine 'se' broadens at the rounded lips of stressed 'pho', then final 'ri' ends with a light tongue flick. The growing resonance suits material made available from a held source.",
+  "usage_notes": "The supplied resource is the object, and a recipient takes 'wei'. The event-noun rule supplies supply as an activity. When source, condition, intended use, or receipt changes the account, nearby clauses carry that information.",
+  "examples": [
+    {
+      "phi": "shia wei keritha muralo sephori.",
+      "translation": "They supply material to the workshop."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Distributed repair and production depend on visible resource flows whose sources, constraints, and ecological consequences can be examined.",
-    "peace-linguistics-practices": "Separating supply from receipt, adequacy, ownership, and authority prevents an offered resource from becoming a hidden claim over the recipient's choices."
+    "solarpunk-values": "Visible supply relations let shared repair and production ask where resources came from and what remains after use.",
+    "peace-linguistics-practices": "Keeping supply apart from receipt and acceptance prevents an offered resource from becoming an unspoken claim over the recipient's choices."
   },
   "semantic_domains": {
-    "activity": "making a resource available for practical use",
-    "community": "provision between participants, processes, or places",
-    "creation": "supporting making and repair through resource flow"
+    "activity": "making a resource available for a stated practical use",
+    "community": "provision from one participant or place to another",
+    "creation": "material flow that supports making and repair"
   },
   "modules": [
     "work-craft-and-repair"

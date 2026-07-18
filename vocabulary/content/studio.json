@@ -8,17 +8,29 @@
     "wi"
   ],
   "pos": "noun",
-  "concept": "Studio / Artist's Workspace / Creative Space",
-  "description": "A room where an artist, photographer, or musician works; a space dedicated to creative work. 'Phaewi' names where art emerges—light arranged, materials waiting, creativity invited.",
-  "sound_symbolism": "The word opens to creation. 'Pha' /ɸa/ begins with generative breath, creativity stirring. The vowel 'e' opens to possibility. Then 'wi' welcomes with expansive space, studio ready.",
-  "grammatical_notes": "Functions as a noun: 'phaewi' (studio), 'lo phaewi' (studios). Related to 'keritha' (workshop) but emphasizes artistic creation rather than practical craft.",
+  "search_terms": [
+    "creative workspace",
+    "art studio",
+    "artist workspace"
+  ],
+  "description": "A room, building, or defined area arranged for sustained artistic work is a 'phaewi'. Light, tools, and material are organised around the practice rather than one temporary act. 'keritha' (workshop) foregrounds practical craft and repair; the same place may be both.",
+  "articulatory_notes": "Begin 'pha' with unvoiced breath through nearly closed lips, then open into central 'a'. Open again for stressed true-mid front 'e' and preserve the 'a.e' hiatus. Round the lips and lift the tongue back for voiced 'w', then finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The breath of 'pha' opens across a wide vowel boundary into stressed 'e', then final 'wi' gathers the lips and brightens. The roomy middle gives the word space before its neat close.",
+  "usage_notes": "As a place noun, 'phaewi' takes ordinary locative prepositions. The word does not decide who owns the place, who may enter, or which art is made there. An exact institutional or commercial studio name retains its source form.",
+  "examples": [
+    {
+      "phi": "phanu mua phaewi nai.",
+      "translation": "The canvas is in the studio."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Studios nurture vision—spaces where the imagination of better futures takes visible form.",
-    "art-nouveau-aesthetics": "Studios birthed beauty—spaces where artists developed the flowing forms and natural motifs of the movement."
+    "solarpunk-values": "A shared studio can place tools, light, and material within reach of people who make visions of a different common life.",
+    "art-nouveau-aesthetics": "The studio brings drawing, textile, print, object, and interior work close enough for form to move among them."
   },
   "semantic_domains": {
-    "aesthetic": "Art place",
-    "spatial": "Creative space"
+    "aesthetic": "a place arranged around sustained artistic practice",
+    "creation": "workspace holding the tools and materials of creative work",
+    "spatial": "a bounded room, building, or area used as a studio"
   },
   "modules": [
     "work-craft-and-repair"
