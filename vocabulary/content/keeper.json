@@ -7,16 +7,25 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Keeper / Guardian / One Who Maintains",
-  "description": "One who guards, maintains, or preserves something; a protector of what matters. 'Woru' names who holds safe—maintaining what must not be lost.",
-  "sound_symbolism": "The word watches with care. 'Wo' opens with watchful attention, vigilance awake. 'Ru' holds with steady guardianship, protection maintained.",
-  "grammatical_notes": "Functions as noun: 'lo woru' (keepers). Related to 'theluo' (steward) but emphasizes guarding over managing. Protects 'moenu' (culture) and 'therema' (tradition).",
+  "search_terms": [
+    "caretaker",
+    "custodian",
+    "maintainer"
+  ],
+  "description": "A seed store does not keep itself. Its 'woru' is the person or role that keeps, maintains, watches over, or preserves it; the same word works for a place, object, or record. The noun grants neither ownership nor broad authority. A 'thema' (guardian) has continuing protective responsibility, while a 'theluo' (steward) cares for shared resources or community life under an entrusted and accountable scope.",
+  "articulatory_notes": "Round the lips for voiced 'w' and continue into stressed true-mid back rounded 'o'. Tap or briefly trill the tongue tip at the alveolar ridge for 'r', then raise the back of the tongue and keep the lips rounded for high-back 'u'.",
+  "usage_notes": "A preceding noun can identify what the keeper attends, as in 'thepalu woru' (garden keeper). The work still takes its own verb, such as 'temoe' (tend), 'phelure' (store), or 'nelore' (preserve). Legal, institutional, or occupational duties remain with their defining source.",
+  "examples": [
+    {
+      "phi": "mia ha sirami woru nai.",
+      "translation": "I am the keeper of this record."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Keeper as protector—guarding what supports flourishing without grasping.",
-    "pre-industrial-wisdom": "Keeper of knowledge—those who guard traditions and pass them on."
+    "pre-industrial-wisdom": "Seed, tools, fires, records, and shared places often depend on someone remembering the small work of keeping them through another season."
   },
   "semantic_domains": {
-    "community": "Guardian role",
-    "temporal": "Maintaining presence"
+    "activity": "a role of keeping, maintaining, watching over, or preserving something",
+    "community": "a person recognised as responsible for stated continuing care"
   }
 }

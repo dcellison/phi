@@ -8,16 +8,24 @@
     "a"
   ],
   "pos": "noun",
-  "concept": "Scholar / Learned One / Deep Student",
-  "description": "One devoted to learning and study; a person of deep knowledge. 'Thonua' names who studies deeply—mind given to understanding.",
-  "sound_symbolism": "The word contemplates deeply. 'Tho' begins with sustained dental awareness, the focused attention of long study. 'Nua' grounds with accumulated presence. A scholar as someone whose awareness has deepened into wisdom.",
-  "grammatical_notes": "Functions as noun: 'lo thonua' (scholars). Deeper than 'thunai' (student)—one who has studied long. Related to 'phewo' (sage) as knowledge to wisdom.",
+  "search_terms": [
+    "person of study",
+    "learned researcher"
+  ],
+  "description": "Sustained study or inquiry can become someone's work. That person is 'thonua', whether or not an institution employs or credentials them. Scholarship does not make its practitioner wise or correct. A 'thunai' (student) is presently learning, while a 'phewo' (sage) is regarded as having wisdom shaped through experience, reflection, or practice.",
+  "articulatory_notes": "Rest the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and move into true-mid back rounded 'o'. Touch the tongue tip to the backs of the upper teeth for dental 'n' and carry nasal voice into stressed high-back rounded 'u'. Keep the final vowel separate across the hiatus and open into central unrounded 'a'.",
+  "usage_notes": "This is a role noun; 'theo' (read), 'somela' (observe), 'shonela' (learn), and other verbs state the work being done. Academic ranks, appointments, credentials, affiliations, and fields retain the source terms that establish them.",
+  "examples": [
+    {
+      "phi": "thonua shelu theo.",
+      "translation": "The scholar reads the book."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Scholar as seeker—devoted to understanding, not attached to being right.",
-    "pre-industrial-wisdom": "Scholar as keeper—maintaining and transmitting accumulated knowledge."
+    "pre-industrial-wisdom": "Sustained inquiry has lived in workshops, gardens, observatories, monasteries, libraries, and oral traditions as well as in modern institutions. The role follows the work rather than one setting."
   },
   "semantic_domains": {
-    "cognition": "Deep study",
-    "community": "Learning role"
+    "cognition": "a person engaged in sustained study or inquiry",
+    "community": "a recognised role centred on scholarly work"
   }
 }

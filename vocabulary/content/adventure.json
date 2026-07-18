@@ -8,17 +8,22 @@
     "mi"
   ],
   "pos": "noun",
-  "concept": "Adventure / The Path Taken Into the Unknown",
-  "description": "A journey undertaken without knowing where it leads: the road accepted before it is mapped, the days that follow a door left open. 'Rulami' names the venture itself, not its dangers; in Phi an adventure is measured by how much it changes the traveler, not by what the traveler overcomes. It is what surprise ('wakomi') feels like when it is welcomed and walked into rather than merely met.",
-  "sound_symbolism": "'Ru' sets the word in forward motion, an opening shared with 'ruela' (path) without repeating the path-word whole. 'La' bends that motion into a winding course, and the closing 'mi' turns the journey inward to the one who walks it, the same settling nasal that closes 'wakomi' (surprise), its sibling.",
-  "grammatical_notes": "Functions as a noun: 'lo rulami' (adventures), 'thue lo rulami wepu' (to go through adventures). What an adventure does to its traveler arrives through its own verbs: it surprises ('wakomi'), it transforms ('moluki'). Related to 'ruela' (path), the road that stays, where 'rulami' is the road that changes you.",
-  "pillars": {
-    "solarpunk-values": "The adventure Phi names is exploratory and regenerative, setting out to meet the world rather than to take it; the traveler returns as a gift-bearer, not a conqueror.",
-    "secular-buddhist-philosophy": "An adventure is impermanence walked willingly: the traveler agrees in advance not to know, which is the practice itself.",
-    "art-nouveau-aesthetics": "The winding line that will not run straight, the path drawn for the beauty of its turning, is the adventure's own shape."
-  },
+  "search_terms": [
+    "venture",
+    "unfamiliar undertaking"
+  ],
+  "description": "The map ends before the day does. An undertaking or experience whose course is not fully known at the outset is 'rulami'. An adventure need not be dangerous or heroic, and the word promises neither pleasure nor transformation. 'laniru' (journey) gathers extended travel into one event, while 'wakomi' (surprise) is an unexpected response or occurrence; 'rulami' is the venture as a whole.",
+  "articulatory_notes": "Tap or briefly trill the tongue tip at the alveolar ridge for 'r', then round the lips and raise the back of the tongue for high-back 'u'. Touch the tongue tip to the alveolar ridge for lateral 'l' and open into stressed central 'a'. Close the lips for voiced nasal 'm', carry the voice through the nose, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The opening 'ru' is also heard at the start of 'ruela' (path), giving the two words an audible kinship without making either one a derivation. The tongue then travels through tapped, lateral, and nasal contacts, a varied course for a venture not settled in advance.",
+  "usage_notes": "A speaker may call an experience 'rulami' before setting out or after looking back on it. Choice, danger, pleasure, and transformation remain separate claims, so an unplanned adventure is no contradiction and a difficult one need not be praised.",
+  "examples": [
+    {
+      "phi": "pheo thena shia thue rena ru wakomi lo rulami to wepu.",
+      "translation": "After that, they went through some truly surprising adventures."
+    }
+  ],
   "semantic_domains": {
-    "activity": "The journey into the unknown",
-    "temporal": "Days given to the unmapped"
+    "activity": "an undertaking whose course is not fully known at the outset",
+    "temporal": "an experience extending through an uncertain course"
   }
 }

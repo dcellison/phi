@@ -7,16 +7,26 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Web / Interconnected Network / Woven Connections",
-  "description": "A network of interconnected strands; the pattern of relationships that link things together. 'Niro' names the mesh of connection—where pulling one strand moves all.",
-  "sound_symbolism": "The word knits with structure. 'Ni' weaves with fine connection, threads crossing. 'Ro' grounds with networked stability, structure holding.",
-  "grammatical_notes": "Noun: 'lo niro' (webs) - the woven structure. Weaving is 'selomi': 'mia selomi.' (I weave.) Related to 'phaliso' (network) and 'sima' (thread).",
+  "search_terms": [
+    "spiderweb",
+    "strand web",
+    "woven web"
+  ],
+  "description": "A spider leaves a 'niro' between two branches: a structure of interconnected strands. The word also covers a made web-like form, and tension or movement in one strand may pass through its connections. 'mera' (net) is a flexible open mesh used to hold, carry, or separate, while 'phaliso' (network) concerns the relations among connected points or participants.",
+  "articulatory_notes": "Touch the tongue tip to the backs of the upper teeth for dental 'n', carry the voice through the nose, and move into stressed high-front unrounded 'i'. Tap or briefly trill the tongue tip at the alveolar ridge for 'r', then round the lips and finish with true-mid back 'o'.",
+  "usage_notes": "The ordinary sense includes a spider's web and other physical strand structures. A metaphorical use works when those strands and transmitted relations matter to the image; 'phaliso' is the plainer word for a social, technical, or ecological network. Exact named digital services and protocols retain their source identities.",
+  "examples": [
+    {
+      "phi": "shiro niro phelu.",
+      "translation": "The tree has a web."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Web of interdependence—Indra's net where each jewel reflects all others.",
-    "pre-industrial-wisdom": "Spider's teaching—the patient weaving that creates from within."
+    "pre-industrial-wisdom": "A web makes tension, breakage, repair, and connection visible at once. Watching one closely teaches through the actual strands rather than through a borrowed theory of interdependence."
   },
   "semantic_domains": {
-    "nature": "Woven pattern",
-    "spatial": "Networked structure"
+    "nature": "an interconnected strand structure made by a spider or found in a living setting",
+    "physical": "a web-like structure whose joined strands carry tension or movement",
+    "spatial": "strands arranged through a connected open structure"
   }
 }

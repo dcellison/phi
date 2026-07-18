@@ -8,16 +8,24 @@
     "nu"
   ],
   "pos": "noun",
-  "concept": "Snow / Frozen Precipitation / Winter's Blanket",
-  "description": "Atmospheric water vapor frozen into ice crystals that fall as soft white flakes. 'Phirenu' names the quiet transformation of rain into white silence—the blanket that covers and protects, the season's rest made visible.",
-  "sound_symbolism": "The word falls softly. 'Phi' /ɸi/ begins with soft breath, crystals forming. Then 're' descends gently, the quiet falling. Finally 'nu' settles and stays, the ground covered in nasal stillness.",
-  "grammatical_notes": "Mass noun, usually uncountable: 'phirenu' (snow). Snow falls: 'phirenu lepa.' Frozen counterpart of 'pheralu' (rain); compare 'kerithe' (ice) and 'theriko' (frost). Associated with 'shila' (winter), silence, and transformation.",
+  "search_terms": [
+    "snowfall",
+    "fallen snow"
+  ],
+  "description": "'phirenu' is ice crystals falling from the atmosphere or lying where they have accumulated after falling. Its colour, wetness, depth, hardness, and effect on travel vary with conditions. 'kerithe' (ice) is the broader solid form of water, 'theriko' (frost) forms as a surface deposit, and 'pheralu' (rain) falls as liquid water.",
+  "articulatory_notes": "Bring the lips close without involving the teeth for unvoiced bilabial 'ph' and let air pass into high-front unrounded 'i'. Tap or briefly trill the tongue tip at the alveolar ridge for 'r' and move into stressed true-mid front 'e'. Touch the tongue tip to the backs of the upper teeth for dental 'n', carry the voice through the nose, and finish with high-back rounded 'u'.",
+  "usage_notes": "'phirenu' usually behaves as a mass noun. 'phirenu kurisha' is a snowstorm; wet, melting, packed, or newly fallen snow can be described with ordinary qualities and events. Accumulation, forecast, and warning categories remain with the weather source in use.",
+  "examples": [
+    {
+      "phi": "phirenu lepa.",
+      "translation": "Snow falls."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Snow teaches equanimity—it covers all equally, high and low, beautiful and plain, without discrimination.",
-    "art-nouveau-aesthetics": "Snow creates crystalline beauty in endless unique patterns—each flake a masterwork of natural geometry."
+    "pre-industrial-wisdom": "Snow changes paths, roofs, grazing, stored water, and the signs by which a season is read. Its crust, drift, melt, and weight are learned in the particular place where they matter."
   },
   "semantic_domains": {
-    "nature": "Frozen precipitation",
-    "temporal": "Winter's presence"
+    "nature": "frozen precipitation falling or accumulated on the ground",
+    "physical": "ice crystals whose wetness, depth, and hardness vary with conditions"
   }
 }
