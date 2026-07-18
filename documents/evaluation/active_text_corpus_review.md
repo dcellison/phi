@@ -329,6 +329,41 @@ Six distinctions alter the paired page. Several other candidates fail on meaning
 | Optional module vocabulary | Preserve the close version's eleven optional roots and the transmutation's base-only path | Every optional root in the translation carries a distinction used by Legge's argument or material example. None improves the transmutation enough to outweigh its selected, ordinary register. |
 | Active dependencies | Update the paired page, its continuous close block, the shared notes, and phonetic-neighbor attestations only | The changed Phi sentences recur nowhere else in the active corpus. Legge's stored source, its quoted lines, shelf links, and registered compounds remain unchanged. |
 
+## Translation review: A Solarpunk Manifesto
+
+The ground truth is the complete licensed English witness stored in `texts/sources/solarpunk_manifesto.txt`. Its five opening paragraphs, 22 propositions, and seven-part aesthetic list make 38 aligned units. The Phi translation uses 238 unique forms, 33 of them optional roots. This is the shelf's broadest module test because the manifesto speaks directly to Phi's first intended community audience; a specialist word still has to earn its sentence, but it need not apologize for being there.
+
+| Module | Unique roots used |
+|---|---:|
+| Accessibility and Participation | 7 |
+| Commons and Collective Governance | 12 |
+| Ecological Systems and Material Life | 10 |
+| Household and Daily Life | 2 |
+| Medical and Bodily Care | 1 |
+| Philosophical Reasoning | 2 |
+| Systems and Shared Infrastructure | 10 |
+| Work, Craft, and Repair | 10 |
+
+### Post-migration contextual retrofit
+
+The retrofit changes seventeen aligned units. It adopts later words where they restore a source distinction and removes several module terms from jobs their completed definitions do not permit. The remaining analytic phrases stay because capitalism, decolonialism, Jugaad, and the named schools of art and urbanism are wider than any honest Phi substitute.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| Fashion, aesthetics, and visible style | Replace `wetha kire` and two broad beauty phrases with base `senalu` | Fashion concerns characteristic choices across cloth and dress, not the act of shaping cloth. Aesthetics joins those choices across works; `mioru` remains where the manifesto actually judges beauty. |
+| General solutions and medical remedy | Replace three uses of Medical `heloa` with `keiro`, way | `heloa` answers an ailment or discomfort. The manifesto's ecological and social solutions become practical ways, and the following clauses state what each way must accomplish. |
+| Trying, wanting, and enthusiasm | Use base `mesatu`, `rinu`, and `rashowe` | Proposition 1 claims an attempt, proposition 14 claims a desire to oppose three futures, and proposition 4 names energetic enthusiasm. Practice, direct refusal, and joy-giving character each changed the source relation. |
+| Fossil energy and replacement | Replace the fossil energy's ceased function with ceased passive supply | Energy does not perform a component's operation under `kelitho`. Ending its supply beside the supply of non-polluting energy makes the replacement relation audible. |
+| One right tactic | Replace `telua`, accurate, with `theali`, fitting | Accuracy compares a representation with its reference. A tactic fits a purpose and circumstances, which is why several communities may choose differently without one factual description being wrong. |
+| Generativity and technical capacity | Replace `kealo henora` with event-noun `kealo`, creation | Systems `henora` is a conditioned limit on what a system can hold, process, or deliver. Creation carries generativity without treating human or cultural ability as a technical parameter. |
+| Politics, smart cities, corporations, and autonomous systems | Use Commons `kowanu` for politics; confine `ketora` to device-control and self-control systems; use `punoa karami` for corporate social power | Governance is still narrower than politics, and that limit remains stated. Technical control belongs to processes and variables. Institutions exercise authority over society; autonomous systems regulate themselves and then separately have to function. |
+| Energy grids | Replace general energy networks with `thewaki kenua phaliso`, electrical-energy networks | The infrastructure reading of grid is electrical here. `thewaki` keeps electricity distinct from energy while the source retains its broader wording. |
+| Ability and disability | Replace person-modifying `henora` with base `sowelu miona`, disabled people | Human ability is not system capacity. Disability can be named directly without turning it into sickness or assigning a universal scale of ability. The source line keeps its exact list of categories. |
+| Fear, conditions of life, and overlord rank | Replace two technical states with a fear-causing path and better living; replace spatial `leo` with `muila karami`, authority over Earth | `mirela` gathers selected system conditions, and `leo` marks physical height. The revised clauses preserve the fear people feel, the way people live, and the social authority renounced by the source. |
+| Final qualities | Replace Work `kirero` with `sherewa`, claims | The closing list contains four propositions, not one evaluation of a work against criteria. A spoken claim supplies the colon that Phi cannot leave silent. |
+| Source boundaries and deliberate compositions | Preserve Solarpunk, the named genres, economic and political labels, Art Nouveau, Hayao Miyazaki, Jugaad, the 1800s, New Urbanism, and New Pedestrianism in the adjacent source lines | The Phi phrases expose the relation each term contributes to this manifesto. None pretends to exhaust the source identity, history, or theory. |
+| Active dependencies | Update the annotated blocks, continuous translation, limits table, review ledger, and phonetic-neighbor attestations | The source citations remain byte-for-byte unchanged. The revised annotated and continuous Phi passages contain the same sentence sequence. |
+
 ## Transmutation review: the original shelf pass
 
 Before selective pairing began, the nine pending transmutations were read from their stated sources before the Phi was judged. Repair was preferred when the narrative or argument already held together. A clean rebuild was reserved for the Ring Verse's central refusal, whose earlier substitute had turned coercion into guidance and imposed binding into mutual bond. No new root was needed; the module vocabulary developed since these texts were written supplied the missing distinctions.
@@ -353,7 +388,7 @@ The source citations and gap logs in each pamphlet hold the detailed decisions. 
 |---|---|---|---|
 | `texts/north_wind_and_sun.md` | Translation + transmutation | Reviewed | Paired source, back-translation, vocabulary, and five-pillar comparison complete. |
 | `texts/metta_sutta.md` | Translation | Reviewed | Full source-fidelity pass complete; two optional roots used where their distinctions matter. |
-| `texts/solarpunk_manifesto.md` | Translation | Reviewed | Thirty-eight aligned units cover the complete licensed text; political and cultural source terms remain exact beside transparent Phi analyses. |
+| `texts/solarpunk_manifesto.md` | Translation | Reviewed | The 238-form post-migration retrofit uses all eight modules while keeping political and cultural source terms exact beside transparent Phi analyses. |
 | `texts/schleicher_fable.md` | Translation + transmutation | Reviewed | The post-migration retrofit preserves both renderings and repairs the supporting animal range of `kawhera` and `pilora`. |
 | `texts/babel_text.md` | Translation + transmutation | Reviewed | Complete KJV alignment, translation limits, deliberate Earth and sowing departures, and five-pillar comparison complete. |
 | `texts/human_rights_article_one.md` | Translation + transmutation | Reviewed | Paired source alignment, two source-facing roots, translation limits, gap log, and five-pillar comparison complete. |
@@ -367,4 +402,4 @@ The source citations and gap logs in each pamphlet hold the detailed decisions. 
 | `texts/news_from_nowhere/chapter_02.md` | Transmutation | Reviewed | Full chapter checked; money is a concrete misunderstanding and psychiatric stigma stays with the narrator. |
 | `texts/news_from_nowhere/chapter_03.md` | Transmutation | Reviewed | Full chapter checked; Commons and Work vocabulary restore authority, entitlement, retaliation, and political direction. |
 
-The full transmutation shelf has been reviewed. Selective paired work has added close translations where a second rendering exposes Phi's capacity or its limits without displacing the transmutation. The complete Solarpunk Manifesto now tests the current lexicon against the project's first intended community audience at paragraph and proposition scale.
+The full transmutation shelf has been reviewed. Selective paired work has added close translations where a second rendering exposes Phi's capacity or its limits without displacing the transmutation. The Solarpunk Manifesto now tests the completed lexicon against the project's first intended community audience at paragraph and proposition scale.
