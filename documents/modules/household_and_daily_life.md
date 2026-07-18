@@ -67,6 +67,12 @@ The first pass admits 30 optional words and places `mirewu` private in shared co
 
 All 30 roots coined in this pass carry `household-and-daily-life`. `mirewu` carries no module field and appears in base vocabulary. Every form is three syllables, duplicates no syllable, has no character edit-distance-one neighbor, and stays above the phonetic audit threshold from every existing and same-batch word.
 
+## Current prose and completeness
+
+All 34 inherited Household entries now use the target vocabulary prose contract. The review returned to the daily round rather than counting English labels. It found no missing concept that deserved another root. Tidying becomes concrete placement and storage, hospitality keeps guest and host visible, and food preservation names the condition being kept. That is better household language than one cupboard full of abstractions, however neatly labelled.
+
+Nine decisions now preserve the rest of the review. Domestic work keeps task and assignment distinct from acceptance; workload and drudgery remain separate. Exact sanitation instructions and utility records retain the sources that give them practical or legal force. So do addresses, tenancy, and rent. The earlier return conditions for appliances, furnishings, and tools remain live, alongside those for materials, cultivation, and filters. None acquired repeated connected use during this pass.
+
 ## Concepts kept compositional or external
 
 | Concept | Phi strategy | Reason to keep the parts visible |
@@ -76,9 +82,13 @@ All 30 roots coined in this pass carry `household-and-daily-life`. `mirewu` carr
 | Basket | Use `wiru` basket | Its woven, self-supporting construction already has a direct core word. |
 | Cupboard, pantry, or closet | Use `tholupi`, `phelasi`, `molupa`, and `tapu` around the actual arrangement | Rooms, shelves, boxes, and closures combine differently across dwellings. |
 | Morning or evening meal | Use `nurome` with `kelua` morning, `howai` evening, or another time phrase | The meal remains available without imposing a universal daily schedule. |
+| Hospitality | Use `phemi`, `phemila`, `phemiru`, `whelani`, and the concrete food, shelter, privacy, or care offered | Each household or tradition can say what hospitality asks without one root pretending to settle it. |
+| Tidying and putting away | Use `thinu`, `phelure`, `hiso ka kelu`, and the actual objects and places | The sentence shows what was put away, stored, or cleaned instead of hiding the change inside a broad judgement. |
 | Household chore | Use Work `riporu` task with the concrete action | Assignment, acceptance, workload, and drudgery stay separate from the cleaning or cooking itself. |
 | Frying, roasting, steaming, or another cooking method | Use `pharelo` with a Phi description or preserve the exact source method | Heat source, vessel, liquid, and movement may matter more than an approximate inherited label. |
+| Food preservation and cold storage | Use `phelure`, `nelore`, dryness, temperature, salt, closure, and condition around the food | A jar, cellar, drying rack, cold store, or refrigerator can share the relation without becoming the universal device. |
 | Bathing place or washing fixture | Use `sawa`, `tholupi`, `noru`, `molu`, and source information where needed | Action, room, basin, water path, and exact fixture remain separately describable. |
+| Household utilities and service accounts | Use Systems words for water, heat, electricity, supply, faults, and outages while retaining exact records | Provider names, accounts, meter readings, equipment identities, and repair instructions remain usable in their source form. |
 | Rent, tenancy, lease, or exact address | Use Commons relations and preserve the source document or address | Legal force, exact terms, and place identity belong to the source artifact. |
 | Rice, tea, nuts, and other culturally situated staples | Use `nuora` food with the source name until a dedicated Phi word is wanted | A familiar food may be coined later without pretending one household's staple is universal. |
 
@@ -112,4 +122,4 @@ The scene still works without a module word. It moves from noticing age to repai
 
 ## Continued development
 
-Use the module in solitary or shared dwellings and temporary shelters. Let it follow ordinary meals, guest stays, cleaning days, and disputes over domestic work. Later use may ask for another utensil, fixture, staple, or relation, and Phi can coin it without reopening the grammar.
+Use the module in solitary or shared dwellings and temporary shelters. Let it follow ordinary meals, guest stays, cleaning days, and disputes over domestic work. A connected household may eventually make one appliance, utensil, garden act, or material awkward to keep describing. That is the return condition for coinage; the grammar remains complete.

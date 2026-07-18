@@ -8,17 +8,26 @@
     "ni"
   ],
   "pos": "noun",
-  "concept": "Bottle / Narrow-Necked Vessel",
-  "description": "A portable vessel with a narrow neck, usually made to hold and pour liquid; its closure varies with the vessel and use. 'lopha' (vessel) covers liquid containers broadly, while 'lophani' narrows the opening so the contents travel with less spilling.",
-  "sound_symbolism": "Low 'lo' flows into the stressed bilabial breath and broad vowel of 'pha'. Up to that point, 'lopha' (vessel) is heard whole. Final 'ni' brings the tongue to the teeth, holds a small nasal resonance, and rises into bright 'i'.",
-  "grammatical_notes": "A countable noun: 'ha lophani phialu phelu.' (This bottle holds water.) Material, closure, and contents may precede or surround it. 'soeli' (cup) is open for drinking, while a bottle is shaped for keeping and pouring.",
+  "search_terms": [
+    "narrow-necked vessel"
+  ],
+  "description": "A 'lophani' is a portable vessel with a narrow neck, usually made to keep and pour liquid. Its material and closure vary with the use. 'lopha' (vessel) covers hollow receptacles broadly; a bottle narrows the opening so its contents travel with less spilling.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l', let the air pass along its sides, and round into true-mid 'o'. Narrow the lips for unvoiced bilabial 'ph', send breath between them, and open into stressed central 'a'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', keep nasal airflow, and finish on high-front 'i'.",
+  "sound_symbolism": "The full sound of 'lopha' (vessel) arrives before final 'ni'. That last dental contact narrows the resonant opening and lifts into a bright vowel, much as a bottle draws a broad vessel towards its neck.",
+  "usage_notes": "Bottles take ordinary number marking. Material and contents can be named alongside closure and intended use. 'soeli' (cup) stays open for drinking, while a bottle is shaped for keeping and pouring.",
+  "examples": [
+    {
+      "phi": "ha lophani phialu phelu.",
+      "translation": "This bottle holds water."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "A refillable bottle keeps water portable without making a new disposable vessel for every drink.",
+    "solarpunk-values": "A refillable bottle keeps water portable without requiring a fresh disposable vessel for every drink.",
     "pre-industrial-wisdom": "Clay, skin, wood, and glass bottles carried oil or drink through workdays and long roads."
   },
   "semantic_domains": {
-    "creation": "a vessel made with a narrowed neck",
-    "physical": "a portable holder for liquid"
+    "creation": "a portable vessel made with a narrowed neck",
+    "physical": "a hollow holder shaped to keep and pour liquid"
   },
   "modules": [
     "household-and-daily-life"

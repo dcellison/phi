@@ -8,17 +8,27 @@
     "pe"
   ],
   "pos": "noun",
-  "concept": "Bucket / Open Handled Container for Carrying",
-  "description": "An open container with a handle, made to carry water or loose material by hand. Its body keeps shape while its handle takes the moving weight. 'lopha' (vessel) emphasizes what holds liquid; 'kolupe' emphasizes the repeated trip between source and use.",
-  "sound_symbolism": "Round 'ko' begins with a clean velar closure. Stressed 'lu' releases the tongue into deep 'u' and gives the middle a low liquid curve. Final 'pe' closes briefly at the lips before opening into balanced 'e'. After dipping at its center, the sound returns to a lighter open edge.",
-  "grammatical_notes": "A countable noun: 'mia roe ha kolupe phialu kolua.' (I carry water with this bucket.) The next clause gives its contents, material, or capacity. Body shape varies within the open top and carrying handle.",
+  "search_terms": [
+    "pail",
+    "handled container"
+  ],
+  "description": "A 'kolupe' is an open container with a handle, made to carry water or loose material by hand. Its body keeps its shape while the handle takes the moving weight. 'lopha' (vessel) centres what holds a substance; a bucket is shaped for the repeated trip between source and use.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into true-mid rounded 'o'. Touch the tongue tip to the alveolar ridge for 'l', let air pass along its sides, and hold stressed high-back rounded 'u'. Close the lips for unvoiced 'p' and release into final true-mid front 'e'.",
+  "sound_symbolism": "Rounded 'ko' descends into the deep lateral centre of stressed 'lu'. Final 'pe' closes at the lips, then opens into a lighter vowel. The contour dips under the imagined load and comes back up at the end.",
+  "usage_notes": "Each bucket may be counted. Contents and material can be stated with its intended use. An exact capacity remains in its source record when the value matters.",
+  "examples": [
+    {
+      "phi": "mia roe ha kolupe phialu kolua.",
+      "translation": "I carry water with this bucket."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "A bucket makes household water use visible in the arm and the number of trips, even where a pipe later shortens the path.",
-    "pre-industrial-wisdom": "Water and grain crossed the yard in handled vessels whose balance was learned by use. Ash or wash water made the same trip in the other direction."
+    "solarpunk-values": "A bucket makes household water use visible in the arm and the number of journeys, even where a pipe later shortens the path.",
+    "pre-industrial-wisdom": "Water and grain crossed a yard in handled vessels whose balance was learned by use. Ash or wash water often made the return journey."
   },
   "semantic_domains": {
-    "activity": "carrying liquid or loose material by hand",
-    "physical": "an open rigid container with a handle"
+    "activity": "a handled container used while carrying liquid or loose material",
+    "physical": "an open rigid container whose handle bears its moving load"
   },
   "modules": [
     "household-and-daily-life"

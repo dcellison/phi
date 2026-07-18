@@ -8,17 +8,27 @@
     "ru"
   ],
   "pos": "noun",
-  "concept": "Comb / The Hair's Tool",
-  "description": "The comb: 'whila' (hair) finished with the '-ru' that ends 'kiru' (chisel) and 'katiru' (knife). The tool family grows to three, and this is its gentlest member: teeth that untangle instead of cutting.",
-  "sound_symbolism": "'whila' flows in first, all breath and liquid, and 'ru' marks it as a tool. The softest word in the tool family, correctly.",
-  "grammatical_notes": "Noun: 'mia roe whilaru whila temoe.' (I tend my hair with the comb.) Related tools: 'kiru' (chisel), 'katiru' (knife).",
+  "search_terms": [
+    "hair comb",
+    "toothed grooming tool"
+  ],
+  "description": "A 'whilaru' is a handheld tool with a row of teeth used to untangle or arrange hair. 'phuri' (brush) works through bristles across a wider contact; the comb lets separate teeth pass between strands. Material, tooth spacing, and decoration vary with the particular tool.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for unvoiced 'wh', then move into high-front 'i' without adding vocal-cord voicing to the onset. Touch the tongue tip to the alveolar ridge for 'l', release air along its sides, and open into stressed central 'a'. Tap or briefly trill the tongue tip before final high-back rounded 'u'.",
+  "sound_symbolism": "Airy rounded 'whi' and stressed lateral 'la' retain the full sound of 'whila' (hair). Final 'ru' turns the tongue and sinks into a deep vowel. Its echo with several tool names is an audible family resemblance, not a productive ending.",
+  "usage_notes": "Combs are countable. The comb takes instrumental 'roe' when someone tends their hair with it. Exact grooming traditions and ceremonial meanings remain with the people and sources that give them significance.",
+  "examples": [
+    {
+      "phi": "mia roe whilaru whila temoe.",
+      "translation": "I tend my hair with the comb."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "The ornamental comb was one of the movement's signature objects: horn and enamel carved into dragonflies and vines, a daily tool made worth looking at.",
-    "pre-industrial-wisdom": "Carved from wood, bone, or horn, and often the most personal object a person owned. Grooming was daily care made visible."
+    "art-nouveau-aesthetics": "A comb places ornament directly in the hand and hair. Its teeth still have to pass cleanly through the strands beneath any carved line.",
+    "pre-industrial-wisdom": "Wood, bone, or horn made a personal tool that could be cleaned, repaired, and kept close through years of daily care."
   },
   "semantic_domains": {
-    "aesthetic": "The tool worth carving",
-    "physical": "Teeth that untangle"
+    "aesthetic": "a grooming tool whose visible form may be deliberately ornamented",
+    "physical": "a row of teeth used to separate and arrange hair"
   },
   "modules": [
     "household-and-daily-life"

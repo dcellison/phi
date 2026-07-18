@@ -8,18 +8,28 @@
     "me"
   ],
   "pos": "noun",
-  "concept": "Ingredient / Food Material Chosen for a Preparation",
-  "description": "A food material chosen as one part of a dish or drink being prepared. The same onion is ordinary food in a basket and an ingredient once the cook relates it to a particular recipe or meal. 'nuora' (food) covers nourishment generally; 'phareme' identifies the part before and during preparation.",
-  "sound_symbolism": "Bilabial breath opens 'pha' through broad 'a'. Stressed 're' gives the middle a tongue roll and balanced vowel. Final 'me' closes gently at the lips and keeps the same quiet vowel. Wide at first, the sound turns once and settles into a soft held ending.",
-  "grammatical_notes": "A countable or mass noun according to context: 'mia ha phareme kanu.' (I choose this ingredient.) A recipe, dish, amount, or preparation stage may appear around it. The word is culinary; materials in non-food craft remain 'muralo' (material) where that module applies.",
+  "search_terms": [
+    "food component",
+    "recipe component"
+  ],
+  "description": "A 'phareme' is food material chosen as one part of a dish or drink under preparation. The onion in a basket is food; once chosen for the soup, it is also an ingredient. 'nuora' (food) covers nourishment generally, while the ingredient is defined by its place in making something.",
+  "articulatory_notes": "Narrow the lips for unvoiced bilabial 'ph', send breath between them, and open into central 'a'. Tap or briefly trill the tongue tip before stressed true-mid front 'e'. Close the lips for voiced 'm', keep nasal airflow, and finish on another true-mid front 'e'.",
+  "sound_symbolism": "Bilabial breath opens broadly in 'pha' before stressed 're' turns the tongue. Final 'me' closes gently at the lips while keeping the same front vowel. The sound moves from a wide opening towards one material held inside the preparation.",
+  "usage_notes": "The noun may be countable or mass-like according to the material. A recipe, dish, amount, or preparation stage can appear around it. Materials used in non-food craft remain 'muralo' (material).",
+  "examples": [
+    {
+      "phi": "mia ha phareme kanu.",
+      "translation": "I choose this ingredient."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Naming an ingredient keeps the route from garden, market, store, or gift available beside the finished dish.",
-    "pre-industrial-wisdom": "A practiced cook knew which handful, pinch, or seasonal substitute would still let the meal come together."
+    "solarpunk-values": "Calling something an ingredient keeps its route from garden, store, exchange, or gift available beside the finished dish.",
+    "pre-industrial-wisdom": "A practised cook knew when a handful, pinch, or seasonal substitute would still let the meal come together."
   },
   "semantic_domains": {
     "activity": "food selected for use in a preparation",
     "creation": "one material from which a dish or drink is made",
-    "physical": "an edible substance before or during preparation"
+    "physical": "an edible substance considered during preparation"
   },
   "modules": [
     "household-and-daily-life"

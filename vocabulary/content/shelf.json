@@ -8,10 +8,19 @@
     "si"
   ],
   "pos": "noun",
-  "concept": "Shelf / Raised Surface for Keeping Things",
-  "description": "A level surface fixed to or supported by a wall, frame, or piece of furniture for keeping things above the floor. A table invites work or gathering around it; a shelf gives stored objects a visible place along an edge. The word covers a single shelf rather than the whole cupboard or shelving unit around it.",
-  "sound_symbolism": "Fine bilabial breath opens 'phe' into balanced 'e'. Stressed 'la' releases the tongue and spreads across broad 'a', while final 'si' draws the air into a bright hiss. Soft at the opening, the sound widens fully and ends in a thin clear line.",
-  "grammatical_notes": "A countable noun: 'ha phelasi shelu phelu.' (This shelf holds a book.) Material, height, and support fit surrounding phrases. Distinct from 'wonepa' (table) and general 'molu' (container).",
+  "search_terms": [
+    "raised storage surface"
+  ],
+  "description": "A 'phelasi' is a level surface fixed to or supported by a wall, frame, or piece of furniture for keeping things above the floor. A table invites work or gathering around it; a shelf gives stored objects a visible place along an edge. The noun selects one shelf rather than the whole cupboard or frame around it.",
+  "articulatory_notes": "Narrow the lips for unvoiced bilabial 'ph', pass breath between them, and move into true-mid front 'e'. Touch the tongue tip to the alveolar ridge for 'l', release along its sides, and open into stressed central 'a'. Bring the tongue close to the alveolar ridge for unvoiced 's' and finish on high-front 'i'.",
+  "sound_symbolism": "Fine breath in 'phe' widens through the lateral opening of stressed 'la'. Final 'si' draws the airflow into a bright narrow line. The word spreads at its centre and ends along a thin edge, like a board seen across its length.",
+  "usage_notes": "Shelves take ordinary number marking. Material and height can be stated with the support and contents. 'wonepa' is a table used around its surface, while 'molu' is the general container category.",
+  "examples": [
+    {
+      "phi": "ha phelasi shelu phelu.",
+      "translation": "This shelf holds a book."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "On an open shelf, reusable tools and shared goods are easier to find, return, and use again.",
     "pre-industrial-wisdom": "A board set into a wall or hung from pegs made storage from little material and kept food or tools off a damp floor."

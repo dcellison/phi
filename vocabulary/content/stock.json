@@ -8,18 +8,28 @@
     "ra"
   ],
   "pos": "noun",
-  "concept": "Stock / Materials or Items Held for Future Use",
-  "description": "Materials, components, and tools held for future use in a place or practice. Stock can be shared, reserved, perishable, or awaiting inspection, and holding it settles nothing about ownership or sufficiency. Its record is 'sitawi' (inventory), which can drift from the shelf's truth.",
-  "sound_symbolism": "'Mu' begins behind closed lips, where the nasal hum deepens into 'u'. Stressed 'phe' opens those lips just enough for unvoiced breath to pass. Final 'ra' brings the tongue into a quick roll and releases the word through broad 'a'. A held opening becomes breath, then opens fully.",
-  "grammatical_notes": "A countable or mass noun according to context: 'keritha henoi muphera phelu.' (The workshop has enough stock.) State the holder, location, intended use, condition, restrictions, and measurement where relevant. Distinct from 'muralo' (material), 'panuri' (resource), 'phelure' (store), 'sitawi' (inventory), and owned property.",
+  "search_terms": [
+    "materials on hand",
+    "held supplies"
+  ],
+  "description": "'muphera' is material, components, or tools held for future use in a place or practice. Stock can be shared, reserved, perishable, or waiting for inspection. The noun reports what is physically held; 'sitawi' (inventory) is the record that may already be wrong about it.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm', keep air moving through the nose, and round into high-back 'u'. Narrow the lips for unvoiced bilabial 'ph', pass breath between them, and hold stressed true-mid front 'e'. Tap or briefly trill the tongue tip before final central 'a'.",
+  "sound_symbolism": "Deep nasal 'mu' is held behind closed lips before stressed 'phe' lets a narrow breath escape. Final 'ra' turns the tongue and opens broadly. A contained beginning gradually releases, like material brought out from a store for use.",
+  "usage_notes": "Stock is usually mass-like, though distinct holdings may be compared. Holder and location often matter, as do intended use and condition. 'muralo' names material itself, 'panuri' something available as a resource, and 'phelure' the act of storing.",
+  "examples": [
+    {
+      "phi": "keritha henoi muphera phelu.",
+      "translation": "The workshop has enough stock."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Separating held stock from ownership and allocation authority supports transparent stewardship of shared material capacity.",
-    "pre-industrial-wisdom": "Maintaining useful stocks of materials and components supports seasonal work, repair, reuse, and local resilience."
+    "solarpunk-values": "Shared stock makes material capacity available for repair and reuse while ownership and allocation authority remain open questions.",
+    "pre-industrial-wisdom": "Useful stocks of seed, fibre, wood, and spare parts let seasonal work continue when the next supply was not close at hand."
   },
   "semantic_domains": {
     "activity": "items held for future practical use",
-    "creation": "materials and components available to making and repair",
-    "physical": "a situated collection of tangible items"
+    "creation": "material and components available to making or repair",
+    "physical": "a situated collection of tangible supplies"
   },
   "modules": [
     "household-and-daily-life",

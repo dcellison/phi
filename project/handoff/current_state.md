@@ -1,31 +1,31 @@
 # Current state
 
-This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D048. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
+This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D049. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
 
 ## Active execution sequence
 
 The roadmap's current sequence is not an invitation to choose among several equal tasks. It records one active path:
 
-1. SEM-09C: migrate the remaining 91 legacy module entries; Household and Daily Life comes next.
+1. SEM-09C: migrate the remaining 57 legacy module entries; Medical and Bodily Care comes next.
 2. SEM-09D: inspect active Phi passages after the whole lexicon is target-shaped.
 3. PED-08: resume the book at chapter 7.
 
-Do not begin SEM-09D before the module queue reaches zero. The maintainer has prioritised one continuous vocabulary-prose sequence so the remaining entries retain the same editorial judgement and voice. D044 completed the base-first boundary, D045 Philosophical Reasoning, D046 Systems and Shared Infrastructure, D047 Ecological Systems and Material Life, and D048 Commons and Collective Governance; SEM-09C now continues through the other four learning paths.
+Do not begin SEM-09D before the module queue reaches zero. The maintainer has prioritised one continuous vocabulary-prose sequence so the remaining entries retain the same editorial judgement and voice. D044 completed the base-first boundary. D045 through D049 then completed the first five learning paths in their historical order. Household and Daily Life closes that portion of the sequence; SEM-09C now continues through the other three.
 
 ## Lexicon migration counts
 
 | Inventory | Total | Target | Legacy |
 |---|---:|---:|---:|
-| Entire lexicon | 1,275 | 1,184 | 91 |
-| Content vocabulary | 1,145 | 1,054 | 91 |
+| Entire lexicon | 1,275 | 1,218 | 57 |
+| Content vocabulary | 1,145 | 1,088 | 57 |
 | Base content vocabulary | 884 | 884 | 0 |
-| Optional-module content vocabulary | 261 | 170 | 91 |
+| Optional-module content vocabulary | 261 | 204 | 57 |
 | Function vocabulary | 110 | 110 | 0 |
 | Interjections | 20 | 20 | 0 |
 
 There are no partial or dual entries. A target entry has both `articulatory_notes` and structured `examples` and has neither legacy `concept` nor `grammatical_notes`. The committed evidence is [`documents/validation/vocabulary_prose_coverage.json`](../../documents/validation/vocabulary_prose_coverage.json).
 
-The latest completed prose batch is D048, Commons and Collective Governance. It migrated forty-two inherited entries and added `kowanu` governance and `pashenu` petition as optional module roots. Commons, Ecological, Systems, and Philosophical Reasoning now have no legacy prose. D044 remains the base-first boundary. Do not reopen completed entries merely to make their English prose different; reopen one only for a real semantic, factual, voice, or corpus problem.
+The latest completed prose batch is D049, Household and Daily Life. It migrated thirty-four inherited entries without adding a root. Household joins the four earlier learning paths at zero legacy prose. D044 remains the base-first boundary. Do not reopen completed entries merely to make their English prose different; reopen one only for a real semantic, factual, voice, or corpus problem.
 
 ## Decision register
 
@@ -33,17 +33,17 @@ The latest completed prose batch is D048, Commons and Collective Governance. It 
 
 | Item | Count |
 |---|---:|
-| Semantic batches | 59 |
-| Decisions | 183 |
+| Semantic batches | 60 |
+| Decisions | 192 |
 | Implemented | 49 |
-| Compositional | 71 |
+| Compositional | 77 |
 | Deferred with return condition | 27 |
-| Source-bound | 32 |
+| Source-bound | 35 |
 | Declined | 4 |
 | Open | 0 |
 | Accepted but not implemented | 0 |
 
-The latest development decision is D048 in [`project/development_log.md`](../development_log.md). Check the live log before assigning the next identifier.
+The latest development decision is D049 in [`project/development_log.md`](../development_log.md). Check the live log before assigning the next identifier.
 
 ## Base queue complete
 
@@ -63,16 +63,16 @@ Phi has eight established vocabulary modules, one grammar, 261 optional roots, a
 
 | Module | Total current memberships | Legacy entries in that learning path |
 |---|---:|---:|
-| Household and Daily Life | 44 | 34 |
+| Household and Daily Life | 44 | 0 |
 | Medical and Bodily Care | 51 | 31 |
 | Systems and Shared Infrastructure | 50 | 0 |
 | Philosophical Reasoning | 24 | 0 |
-| Accessibility and Participation | 46 | 12 |
+| Accessibility and Participation | 46 | 11 |
 | Commons and Collective Governance | 53 | 0 |
 | Ecological Systems and Material Life | 55 | 0 |
-| Work, Craft, and Repair | 70 | 25 |
+| Work, Craft, and Repair | 70 | 21 |
 
-The legacy counts overlap because a shared word appears once in the 91-entry queue but contributes to each module it belongs to. Its complete `modules` array remains intact when the entry is migrated. SEM-09C is active. Philosophical Reasoning, Systems and Shared Infrastructure, Ecological Systems and Material Life, and Commons and Collective Governance are complete. The remaining historical order is Household and Daily Life; Medical and Bodily Care; Accessibility and Participation; Work, Craft, and Repair.
+The legacy counts overlap because a shared word appears once in the 57-entry queue but contributes to each module it belongs to. Its complete `modules` array remains intact when the entry is migrated. SEM-09C is active, with the first five historical learning paths complete through Household and Daily Life. The remaining order is Medical and Bodily Care; Accessibility and Participation; Work, Craft, and Repair.
 
 All eight profiles already have canonical JSON membership, a generated module index, and a speaker-facing Part VII chapter. No ninth profile is proposed. [`documents/modules/potential_profile_explorations.md`](../../documents/modules/potential_profile_explorations.md) holds conditional possibilities without making them active work.
 
@@ -80,7 +80,7 @@ All eight profiles already have canonical JSON membership, a generated module in
 
 The literary shelf has completed its full review against the current lexicon. It contains nine close translations and eleven transmutations; seven works have both. *News from Nowhere* is one 32-chapter work with the first three chapters transmuted and reviewed. The current review record is [`documents/evaluation/active_text_corpus_review.md`](../../documents/evaluation/active_text_corpus_review.md).
 
-SEM-09D waits until all 91 remaining legacy module entries are target-shaped. When it begins, it will not be a blind replacement pass. The sweep will cover the book, manual, primer, pamphlets, texts, and current documents for paraphrases or workarounds involving vocabulary added or clarified during the completed migration. A Phi passage will change only when the current form is more faithful or natural in that passage. A transparent composition will stay when its parts still teach or express the thought better, and every changed sentence and dependency will receive validation.
+SEM-09D waits until all 57 remaining legacy module entries are target-shaped. When it begins, it will not be a blind replacement pass. The sweep will cover the book, manual, primer, pamphlets, texts, and current documents for paraphrases or workarounds involving vocabulary added or clarified during the completed migration. A Phi passage will change only when the current form is more faithful or natural in that passage. A transparent composition will stay when its parts still teach or express the thought better, and every changed sentence and dependency will receive validation.
 
 The shelf's method distinction remains settled:
 
@@ -120,7 +120,7 @@ Citation work performed in earlier conversations is not preserved as a complete 
 | Native glyph mode | Parked | Daniel chooses to resume exploration of Phi's one intended native script. |
 | Spoken source material and code-switching | Open design question | Live conversational examples make the current outside-syntax boundary inadequate. Do not reintroduce guest or exact frames. |
 | Sexual and reproductive anatomy | Queued scenario-led vocabulary effort | Begin as its own respectful corpus and vocabulary project, not as an unnoticed extension of Medical vocabulary. |
-| Legacy vocabulary prose audit | Active | Complete the remaining 91 module entries with Household and Daily Life next, then run the active-corpus retrofit; the base queue reached zero in D044, Philosophical Reasoning in D045, Systems in D046, Ecological Systems in D047, and Commons in D048. |
+| Legacy vocabulary prose audit | Active | Complete the remaining 57 module entries with Medical and Bodily Care next, then run the active-corpus retrofit; the base queue reached zero in D044, Philosophical Reasoning in D045, Systems in D046, Ecological Systems in D047, Commons in D048, and Household in D049. |
 | Lexical relations between content words | Parked | The explorer or project needs curated related-word navigation strongly enough to add and maintain a schema field. |
 | Tengwar renderer verification | Parked | Tengwar work resumes or approaches publication status. |
 | Solarpunk community engagement | Open strategic question | Daniel is ready to offer Phi outside its repository and decide what a healthy invitation looks like. |

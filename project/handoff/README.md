@@ -20,15 +20,15 @@ Do not use `archive/` as current evidence. It preserves history, including appro
 
 ## Where the work stopped
 
-SEM-09B is complete, and D045 through D048 have finished the first four SEM-09C module batches. The lexicon now has 1,275 entries: 1,184 target-shaped and 91 legacy-shaped. Every function word, interjection, base content entry, Philosophical Reasoning entry, Systems and Shared Infrastructure entry, Ecological Systems and Material Life entry, and Commons and Collective Governance entry is finished; all remaining legacy prose belongs to one or more of the other optional modules.
+SEM-09B is complete, and D045 through D049 have finished the first five SEM-09C module batches. The lexicon now has 1,275 entries: 1,218 target-shaped and 57 legacy-shaped. Every function word, interjection, and base content entry is finished. Household and Daily Life also joins the four earlier module paths at zero legacy prose; everything still waiting belongs to one or more of the other optional modules.
 
 The execution order is fixed in the roadmap:
 
-1. Migrate the remaining 91 module entries while preserving every established module membership and the established editorial voice; Household and Daily Life is next.
+1. Migrate the remaining 57 module entries while preserving every established module membership and the established editorial voice; Medical and Bodily Care is next.
 2. Sweep active Phi passages for old workarounds that the completed vocabulary can improve.
 3. Return to the Phi book with chapter 7, "A literature before a community."
 
-The immediate task is the Household and Daily Life batch within SEM-09C, described in [`current_state.md`](current_state.md). The maintainer has deliberately kept the remaining 91 entries in the current editorial sequence so the completed lexicon reads as though one person made it. SEM-09D waits until every entry is target-shaped.
+The immediate task is the Medical and Bodily Care batch within SEM-09C, described in [`current_state.md`](current_state.md). The maintainer has deliberately kept the remaining 57 entries in the current editorial sequence so the completed lexicon reads as though one person made it. SEM-09D waits until every entry is target-shaped.
 
 ## The maintainer's working contract
 

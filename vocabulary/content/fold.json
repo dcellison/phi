@@ -8,13 +8,23 @@
     "ki"
   ],
   "pos": "verb",
-  "concept": "Fold / Lay One Part Over Another",
-  "description": "To bend flexible material so one part lies over another, usually along a deliberate line. Cloth, paper, and soft coverings fold for keeping or use; 'lupaki' describes the placement of the layers rather than damage to the material.",
-  "sound_symbolism": "Deep 'lu' begins with a liquid release of the tongue. Stressed 'pa' closes the lips and opens the center through broad 'a'. Final 'ki' moves the closure to the velum and lifts into bright 'i'. Low and flowing at first, the word opens once and ends on a crisp edge.",
-  "grammatical_notes": "A transitive verb: 'mia ha wethalu lupaki.' (I fold this garment.) The number, direction, or purpose of folds may appear separately. The event-noun rule supplies a fold or the act of folding according to context.",
+  "search_terms": [
+    "crease",
+    "fold over"
+  ],
+  "description": "To 'lupaki' is to bend flexible material so one part lies over another, usually along a deliberate line. Cloth, paper, and soft coverings fold for keeping or use. The verb concerns the placement of layers rather than damage to the material.",
+  "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l', release air along its sides, and round into high-back 'u'. Close the lips for unvoiced 'p', then open them into stressed central 'a'. Close the back of the tongue against the soft palate for unvoiced 'k' and release into final high-front 'i'.",
+  "sound_symbolism": "Deep lateral 'lu' moves into the broad opening of stressed 'pa'. Final 'ki' shifts the closure from the lips to the back of the mouth and ends on a bright edge. The contour turns twice, a useful bodily mnemonic for material laid back over itself.",
+  "usage_notes": "The verb directly takes the flexible material. Number, direction, and purpose can appear separately. Nominal use may refer to folding as an activity or to one resulting fold, according to context.",
+  "examples": [
+    {
+      "phi": "mia ha wethalu lupaki.",
+      "translation": "I fold this garment."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "A fold changes how a flat material catches light and shadow without cutting away any part of it.",
-    "pre-industrial-wisdom": "Folded cloth fit a chest, protected a finished edge, and made the next morning's work easier to begin."
+    "art-nouveau-aesthetics": "A fold changes how one uncut surface catches light and shadow. Its line comes from the material's own movement.",
+    "pre-industrial-wisdom": "Folded cloth fit a chest, protected a finished edge, and left the next morning's work easier to begin."
   },
   "semantic_domains": {
     "activity": "laying one part of flexible material over another",

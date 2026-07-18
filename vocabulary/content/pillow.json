@@ -8,17 +8,27 @@
     "lu"
   ],
   "pos": "noun",
-  "concept": "Pillow / Soft Support for the Head or Body",
-  "description": "A soft or yielding support placed under the head or another part of the body during sleep and rest. 'nuwera' (bed) is the prepared sleeping place; 'komalu' supports the smaller point where the resting body needs it.",
-  "sound_symbolism": "A rounded velar start in 'ko' gives way to the stressed lip closure and broad nasal vowel of 'ma'. The opening gives 'koma' (head) in full. Final 'lu' releases the tongue and lets the word settle into deep 'u'.",
-  "grammatical_notes": "A countable noun: 'mia nia ha komalu koma thinu.' (I put my head on this pillow.) Its fill and firmness belong in ordinary modifiers. A cushion used for sitting remains 'meipa' (seat) when the cushion itself is the seat.",
+  "search_terms": [
+    "head support",
+    "rest cushion"
+  ],
+  "description": "A 'komalu' is a soft or yielding support placed under the head or another part of the body during sleep and rest. 'nuwera' (bed) is the prepared sleeping place; the pillow supports one smaller point where the resting body needs it. A cushion used as the place for sitting remains 'meipa' (seat).",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into true-mid rounded 'o'. Bring the lips together for voiced nasal 'm', keep air moving through the nose, and open into stressed central 'a'. Touch the tongue tip to the alveolar ridge for 'l', release along its sides, and finish on high-back rounded 'u'.",
+  "sound_symbolism": "'koma' (head) remains whole at the front. Closed lips soften the stressed centre before final 'lu' lets the tongue release into a deep rounded vowel. The word settles lower as the head settles onto support.",
+  "usage_notes": "Pillows are countable, and ordinary modifiers describe their fill, firmness, condition, or owner. The noun promises support rather than comfort; the body supplies that judgement.",
+  "examples": [
+    {
+      "phi": "mia nia ha komalu koma thinu.",
+      "translation": "I put my head on this pillow."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "A pillow supports sleep without doing the sleeping; comfort can prepare rest but cannot command it.",
-    "pre-industrial-wisdom": "Straw or wool made a small support from material the household could clean and renew. Feathers, folded cloth, and chaff answered the same need elsewhere."
+    "secular-buddhist-philosophy": "A pillow can prepare the body for sleep without commanding sleep to come. Rest remains an event of the body rather than a property of the object.",
+    "pre-industrial-wisdom": "Straw or wool could fill a pillow, as could feathers or folded cloth. A household could air and clean the support, then renew the filling when needed."
   },
   "semantic_domains": {
-    "physical": "a yielding support for the head or body",
-    "spatial": "a small support placed within a resting place"
+    "physical": "a yielding support for the head or another resting body part",
+    "spatial": "a small support placed within a sleeping or resting place"
   },
   "modules": [
     "household-and-daily-life"

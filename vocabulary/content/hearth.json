@@ -8,17 +8,27 @@
     "li"
   ],
   "pos": "noun",
-  "concept": "Hearth / Fireplace / Home's Center",
-  "description": "The floor of a fireplace; the home's center where fire burns. 'Moeli' names the warming center—where family gathers, where food is cooked, the heart of domestic space.",
-  "sound_symbolism": "The word warms centrally. 'Mo' grounds at the center, home established. The vowel 'e' opens to warmth. Then 'li' glows with gentle light, hearth alive.",
-  "grammatical_notes": "Functions as a noun: 'lumani roa moeli meilo.' (The family sits around the hearth.) Related to 'womu' (home) and 'thero' (fire)—the hearth is home's physical and symbolic center.",
+  "search_terms": [
+    "fireplace",
+    "domestic fire place"
+  ],
+  "description": "A 'moeli' is the prepared floor or enclosure where a domestic fire burns for warmth or cooking. It may become a gathering place, but the word identifies the fixture rather than the household around it. 'thero' (fire) is the burning itself; the hearth is the place made to hold it.",
+  "articulatory_notes": "Close the lips for voiced 'm', keep the air moving through the nose, and round into true-mid 'o'. Keep stressed true-mid front 'e' separate across clear hiatus. Touch the tongue tip to the alveolar ridge for 'l', release air along its sides, and finish on high-front 'i'.",
+  "sound_symbolism": "Low rounded 'mo' opens across a clearly heard hiatus into stressed 'e'. Final 'li' gives the tongue a light lateral release. The word moves from a contained hum towards a small bright edge, a contour that can recall fire held in one prepared place.",
+  "usage_notes": "Hearths are countable. A source description can distinguish an open hearth, enclosed fireplace, stove hearth, or another exact design. The fire, fuel, smoke path, and people gathered nearby remain separate parts of the scene.",
+  "examples": [
+    {
+      "phi": "lumani roa moeli meilo.",
+      "translation": "The family sits around the hearth."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Hearth conversation builds bonds—the fireside as place of story, sharing, connection.",
-    "pre-industrial-wisdom": "The hearth was life's center—fire for warmth, cooking, light, the gathering point of family life."
+    "pre-industrial-wisdom": "One tended hearth could provide heat, cooked food, light, and hot water. Its fuel and smoke also made the cost of that centre difficult to ignore."
   },
   "semantic_domains": {
-    "community": "Gathering place",
-    "spatial": "Home center"
+    "creation": "a prepared fixture made to contain a domestic fire",
+    "physical": "the floor or enclosure where fuel burns",
+    "spatial": "a fixed place for fire within or beside a dwelling"
   },
   "modules": [
     "household-and-daily-life"
