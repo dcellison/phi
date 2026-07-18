@@ -20,15 +20,15 @@ Do not use `archive/` as current evidence. It preserves history, including appro
 
 ## Where the work stopped
 
-SEM-09B is complete. D044 migrated Roles, places, relations, and remaining concrete nouns, leaving the lexicon with 1,260 entries: 1,051 target-shaped and 209 legacy-shaped. Every function word, interjection, and base content entry is finished; all remaining legacy prose belongs to one or more optional modules.
+SEM-09B is complete, and D045 has finished the first SEM-09C module batch. The lexicon now has 1,261 entries: 1,069 target-shaped and 192 legacy-shaped. Every function word, interjection, base content entry, and Philosophical Reasoning entry is finished; all remaining legacy prose belongs to one or more of the other optional modules.
 
 The execution order is fixed in the roadmap:
 
-1. Migrate the 209 module entries while preserving every established module membership and the established editorial voice.
+1. Migrate the remaining 192 module entries while preserving every established module membership and the established editorial voice; Systems and Shared Infrastructure is next.
 2. Sweep active Phi passages for old workarounds that the completed vocabulary can improve.
 3. Return to the Phi book with chapter 7, "A literature before a community."
 
-The immediate task is SEM-09C, the remaining module content-prose migration described in [`current_state.md`](current_state.md). The maintainer has deliberately kept these 209 entries in the current editorial sequence so the completed lexicon reads as though one person made it. SEM-09D waits until every entry is target-shaped.
+The immediate task is the Systems and Shared Infrastructure batch within SEM-09C, described in [`current_state.md`](current_state.md). The maintainer has deliberately kept the remaining 192 entries in the current editorial sequence so the completed lexicon reads as though one person made it. SEM-09D waits until every entry is target-shaped.
 
 ## The maintainer's working contract
 

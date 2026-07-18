@@ -8,10 +8,21 @@
     "ho"
   ],
   "pos": "noun",
-  "concept": "Tradeoff / Gain Joined to Valued Loss",
-  "description": "A relation in which gaining or protecting one valued outcome costs some of another, under the conditions actually available. Naming a tradeoff means naming both the gain and the burden, and it says nothing about whether the loss is fair or shared equally.",
-  "sound_symbolism": "The first two syllables sound exactly like 'sone' (value): rounded 'so' moves into the stressed dental nasal of 'ne'. 'Ho' turns that held contact into an open breath and recalls the beginning of 'holume' (loss). Both resonances remain audible in the same contour. Value begins the word; the exhalation of cost ends it.",
-  "grammatical_notes": "A countable noun: 'ha kanu soneho phelu.' (This choice has a tradeoff.) The affected values, people, or outcomes should be stated in surrounding clauses rather than assumed. Distinct from 'kanu' (choose), 'holume' (loss), and the event noun of 'manawi' (compromise); a tradeoff may exist even when no participants negotiate.",
+  "search_terms": [
+    "competing values",
+    "gain with a cost",
+    "burden of a choice"
+  ],
+  "description": "When gaining or protecting one valued outcome costs some of another, the relation is a 'soneho'. A clear account of the tradeoff attends to both the gain and the burden. Fairness and who bears the loss remain separate questions.",
+  "articulatory_notes": "Keep the tongue near the alveolar ridge for unvoiced 's' and round into middle-height 'o'. Set the tongue tip at the upper teeth for stressed voiced dental nasal 'n' and release into middle-height front 'e'. Open the glottis for 'h' and finish on middle-height rounded 'o'.",
+  "sound_symbolism": "The opening 'sone' is exactly 'sone' (value), while final 'ho' begins like 'holume' (loss). The word lets both resonances remain audible: value first, then the breath of what the choice asks someone or something to relinquish.",
+  "usage_notes": "The noun is countable. The affected people and values belong nearby, so the burden does not slip politely offstage. 'kanu' is a choice, 'holume' a loss, and the event noun of 'manawi' a settlement through concession; a tradeoff can exist without negotiation.",
+  "examples": [
+    {
+      "phi": "ha kanu soneho phelu.",
+      "translation": "This choice has a tradeoff."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Ecological and communal choices often distribute benefits and burdens unevenly; naming the tradeoff keeps regenerative ideals connected to material consequences.",
     "secular-buddhist-philosophy": "Tradeoffs foreground conditions and impermanence: the available choice is situated, and neither gain nor loss should be treated as isolated or eternal.",

@@ -8,13 +8,23 @@
     "la"
   ],
   "pos": "adjective",
-  "concept": "Valid / Structurally Entailing",
-  "description": "Having a structure in which the premises entail the conclusion. Validity is a fact about the argument's shape, and a valid argument can still rest on a false premise, since truth and structure are two separate questions.",
-  "sound_symbolism": "Crisp 'ki' gives the word a narrow, bright beginning. 'The' receives the stress and replaces the stop with sustained air along the teeth. 'La' releases the tongue into a broad vowel. From one exact point, the contour breathes through its relation and lays the whole pattern open.",
-  "grammatical_notes": "An adjective placed before a noun or used predicatively: 'kithela themore' (a valid argument); 'ha themore kithela nai.' (This argument is valid.) The quality-noun rule supplies validity. Distinct from 'shewo' (true), 'telua' (accurate), and 'norethi' (confident).",
+  "search_terms": [
+    "logically valid",
+    "structurally entailing",
+    "validity"
+  ],
+  "description": "An argument is 'kithela' when its premises entail its conclusion under the stated reading. The judgement concerns the argument's structure, not the truth of its premises or the speaker's confidence. A perfectly valid path can begin from a false premise and arrive exactly where that premise leads.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'. Place the tongue tip at the upper teeth for stressed unvoiced 'th', then open into middle-height front 'e'. Touch the tongue tip at the alveolar ridge for lateral 'l' and finish on central 'a'.",
+  "usage_notes": "The adjective appears before an argument noun or predicatively; the quality-noun rule supplies validity. 'shewo' (true) assesses a proposition, 'telua' (accurate) assesses correspondence or execution, and 'norethi' (confident) reports strength of stance.",
+  "examples": [
+    {
+      "phi": "ha themore kithela nai.",
+      "translation": "This argument is valid."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Validity separates structural relation from attachment to a preferred conclusion, allowing form and factual premises to be examined independently.",
-    "peace-linguistics-practices": "Calling an argument valid need not endorse its premises, while calling it invalid need not condemn its speaker."
+    "secular-buddhist-philosophy": "Validity separates structural relation from attachment to a preferred conclusion. Form and factual premises can then be examined independently.",
+    "peace-linguistics-practices": "A valid argument may have false premises, and an invalid one need not condemn its speaker. Logical assessment stays with the reasoning."
   },
   "semantic_domains": {
     "cognition": "the quality of an argument whose premises entail its conclusion",

@@ -8,13 +8,23 @@
     "wa"
   ],
   "pos": "noun",
-  "concept": "Example / Particular Illustrating Case",
-  "description": "A particular case presented to illustrate, clarify, teach, or test a broader idea. An example may help someone understand a claim without proving it, and a single favorable example does not establish a universal conclusion. The word names the case itself; the discourse marker 'phisu' announces that an example is about to be given.",
-  "sound_symbolism": "'Phi.su' repeats the full sound of the familiar discourse marker 'phisu', so the noun arrives with an audible family resemblance. The lips breathe through bright 'phi', and stressed 'su' narrows to a hiss before settling into deep 'u'. Final 'wa' rounds and opens wide. The marker's quick gesture gains a broad last vowel with room to be held and examined.",
-  "grammatical_notes": "A countable noun: 'ha phisuwa kirothe lilea.' (This example clarifies the definition.) Plural examples take 'lo'. Distinct from the discourse marker 'phisu' (EXMP), which organizes the following clause, and from 'thesori' (evidence), since illustration alone need not support truth.",
+  "search_terms": [
+    "illustrating case",
+    "instance",
+    "case in point"
+  ],
+  "description": "A speaker offers a 'phisuwa' to illustrate, clarify, teach, or test a broader idea through one particular case. A good example may make the idea visible without proving it, and one agreeable case cannot establish a universal conclusion by itself. The noun is the case; discourse marker 'phisu' announces that an example is coming.",
+  "articulatory_notes": "Bring the lips close together for unvoiced bilabial 'ph' and release the narrow breath into high-front unrounded 'i'. Keep the tongue near the alveolar ridge for stressed unvoiced 's' and round into high-back 'u'. Round the lips for voiced 'w', then open onto central 'a'.",
+  "sound_symbolism": "The first two syllables are exactly discourse marker 'phisu', so the noun belongs to an immediate audible family. Final 'wa' opens the marker into a form that can be held, compared, and counted as the case itself.",
+  "usage_notes": "The noun is countable, and plural examples take 'lo'. 'phisu' organises the following clause, while 'thesori' (evidence) is material offered in support. A case can serve as both example and evidence, but neither role follows automatically from the other.",
+  "examples": [
+    {
+      "phi": "ha phisuwa kirothe lilea.",
+      "translation": "This example clarifies the definition."
+    }
+  ],
   "pillars": {
-    "peace-linguistics-practices": "Examples make abstract claims easier to examine together, while the lexical distinction discourages treating illustration as proof.",
-    "pre-industrial-wisdom": "Particular stories, cases, and demonstrations often carry practical understanding that a bare generalization cannot provide."
+    "peace-linguistics-practices": "Examples make abstract claims easier to examine together, while the lexical distinction discourages treating illustration as proof."
   },
   "semantic_domains": {
     "cognition": "a particular case used to illuminate a broader idea",

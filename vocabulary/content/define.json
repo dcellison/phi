@@ -8,10 +8,21 @@
     "the"
   ],
   "pos": "verb",
-  "concept": "Define / State the Meaning or Application of a Term",
-  "description": "To state what a word or concept means, or what determines when it applies, for the discussion at hand. A definition can use criteria, relations, or stipulated boundaries, and it can be narrow, broad, or contested; merely describing a familiar feature does not amount to defining it.",
-  "sound_symbolism": "'Ki' begins with the same clean stop and bright vowel heard in 'kiro' (precise), while stressed 'ro' carries that resonance through a rounded roll. At the end, 'the' changes the solid middle into breath at the teeth. A clear line forms, follows its curve, and lets air pass across it once more.",
-  "grammatical_notes": "A transitive verb: 'mia shea kirothe.' (I define peace.) A declarative complement may provide the proposed definition when the defined term is already established. The event-noun rule supplies a definition. Distinct from 'thelima' (describe), 'lilea' (clarify), and 'reo' (meaning); a description or clarification need not set the term's application.",
+  "search_terms": [
+    "state a meaning",
+    "set conditions of use",
+    "definition"
+  ],
+  "description": "A speaker 'kirothe' when they state what a word or concept means, or what lets it apply in the present discussion. The definition may use criteria, relations, examples, or a deliberately chosen boundary. It can still be disputed; naming the fence does not settle whether it was put in a sensible place.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'. Make a brief alveolar tap or short trill before stressed middle-height rounded 'o'. Set the tongue tip at the upper teeth for unvoiced 'th' and finish on middle-height front 'e'.",
+  "sound_symbolism": "The opening 'kiro' is exactly 'kiro' (precise), so the act of defining carries an audible family resemblance to careful distinction. Dental breath softens the end instead of making that precision sound like a slammed door.",
+  "usage_notes": "The defined term or concept is the object. A declarative complement may state the proposed definition once that object is clear, and the event-noun rule supplies a definition. 'thelima' describes, 'lilea' clarifies, and 'reo' names meaning; none of them necessarily sets a boundary for use.",
+  "examples": [
+    {
+      "phi": "mia shea kirothe.",
+      "translation": "I define peace."
+    }
+  ],
   "pillars": {
     "secular-buddhist-philosophy": "Definitions are useful constructions for a purpose and context, not proof that changing phenomena possess timeless verbal essences.",
     "peace-linguistics-practices": "Explicit definitions reveal where participants use a term differently and make disagreement available for clarification rather than accusation."

@@ -8,13 +8,24 @@
     "i"
   ],
   "pos": "verb",
-  "concept": "Doubt / Withhold Settled Belief",
-  "description": "To remain genuinely unsettled about whether a proposition is true or well enough supported. Doubt can be slight or deep, and it stops well short of denying a claim or refuting it; it is a suspended judgment, not a verdict.",
-  "sound_symbolism": "Rounded, unvoiced 'wha' begins as breath moving through an uncertain opening. Closed lips hold the stress on 'mo' inside a dark round chamber. After it, a clean hiatus separates 'o' from bright 'i'. The held middle steps across one audible suspension into light.",
-  "grammatical_notes": "A transitive verb with a nominal object or declarative complement: 'mia mena ha remuma kithela nai meno whamoi.' (I doubt that this conclusion is valid.) The event-noun rule supplies doubt. Degree descriptors may modify the verb. Distinct from 'ma nohero' (not believe), which may simply report absence of belief, and from 'whekate' (refute), which claims to show failure.",
+  "search_terms": [
+    "withhold judgement",
+    "remain uncertain",
+    "question a claim"
+  ],
+  "description": "A person 'whamoi' when they remain genuinely unsettled about whether a proposition is true or adequately supported. Doubt may be slight or deep, and it stops short of denial or refutation. It leaves judgement open, which can be uncomfortable but is still a perfectly respectable place to put it.",
+  "articulatory_notes": "Round the lips and keep the vocal folds apart for unvoiced 'wh', then open onto central 'a'. Close the lips for voiced nasal 'm' and round into stressed middle-height 'o'. Release the lips and pronounce high-front unrounded 'i' as a separate final vowel. The final two vowels retain an audible hiatus.",
+  "sound_symbolism": "Rounded breath leads into a held nasal centre, then a clear hiatus separates 'o' from final 'i'. The audible suspension gives the word a moment of openness before it resolves and suits a judgement that has not yet settled.",
+  "usage_notes": "A nominal object or declarative complement states what is doubted, and the event-noun rule supplies doubt. Degree words may show its strength. 'ma nohero' may simply report absence of belief, while 'whekate' claims that a position has been refuted.",
+  "examples": [
+    {
+      "phi": "mia mena ha remuma kithela nai meno whamoi.",
+      "translation": "I doubt that this conclusion is valid."
+    }
+  ],
   "pillars": {
     "secular-buddhist-philosophy": "Doubt can be held as attentive uncertainty without demanding immediate attachment to affirmation or denial.",
-    "peace-linguistics-practices": "A speaker can disclose uncertainty directly, reducing pressure to perform certainty or turn hesitation into covert disagreement."
+    "peace-linguistics-practices": "A speaker can disclose uncertainty directly. This reduces pressure to perform certainty or turn hesitation into covert disagreement."
   },
   "semantic_domains": {
     "cognition": "an unsettled stance toward a proposition or its support",

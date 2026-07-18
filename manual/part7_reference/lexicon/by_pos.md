@@ -308,7 +308,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (560)
+## noun (561)
 
 | Word | Gloss |
 |---|---|
@@ -335,6 +335,7 @@
 | `holume` | loss |
 | `horathe` | dawn |
 | `horuma` | thunder |
+| `hoshemi` | hypothesis |
 | `howai` | evening |
 | `howeli` | wind |
 | `howenu` | weather |

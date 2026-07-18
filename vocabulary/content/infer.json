@@ -8,12 +8,23 @@
     "ra"
   ],
   "pos": "verb",
-  "concept": "Infer / Derive a Conclusion",
-  "description": "To reach a conclusion from premises, as an act distinct from the inferential evidential particle 'ke', which merely marks how a speaker came to know something. Inferring is the reasoning itself, and a person can infer well or badly, then revise the result later.",
-  "sound_symbolism": "Initial 'ke' repeats the inferential evidential exactly, an audible kinship between the source marker and the act of reasoning. Stress moves to 'thi' and replaces the stop with breath at the teeth; the vowel lifts into bright 'i'. 'Ra' releases the tongue into a roll and opens fully. From a familiar clue, the word passes through attentive breath and lets the reached thought out.",
-  "grammatical_notes": "A transitive verb whose object is the conclusion. The premises may appear in an ablative phrase before the object: 'mia lue lo mothare ha remuma kethira.' (I infer this conclusion from the premises.) The event-noun rule supplies an inference. Distinct from the particle 'ke', which marks a verb's claimed inferential source but does not name or evaluate the reasoning act.",
+  "search_terms": [
+    "derive a conclusion",
+    "reason from premises",
+    "inference"
+  ],
+  "description": "A person 'kethira' when they move from one or more premises to a conclusion. The reasoning may later prove sound or mistaken. Evidential 'ke' only reports inference as a claimed source; it does not display or assess the steps that led there.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into middle-height front 'e'. Place the tongue tip at the upper teeth for stressed unvoiced 'th', then move into high-front unrounded 'i'. Finish with a brief alveolar tap or short trill before opening onto central 'a'.",
+  "sound_symbolism": "The word begins with the exact sound of evidential 'ke', then leaves that familiar marker for dental breath and an open final tap. The audible kinship joins the reported source to the fuller act without making the remaining syllables hidden parts of a formula.",
+  "usage_notes": "The conclusion is the object. Premises may appear in an ablative phrase before it, and the event-noun rule supplies an inference. 'panoru' (support) says that material strengthens a claim; 'natheri' (entail) states a necessary relation; neither by itself says that a person performed the inference.",
+  "examples": [
+    {
+      "phi": "mia lue lo mothare ha remuma kethira.",
+      "translation": "I infer this conclusion from the premises."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Naming inference helps distinguish what was observed from what the mind constructed from observation, supporting awareness of interpretation.",
+    "secular-buddhist-philosophy": "An explicit inference distinguishes what was observed from what the mind constructed from observation. The interpretive step becomes available for attention.",
     "peace-linguistics-practices": "A speaker can expose the step from premises to conclusion for collaborative examination instead of presenting the result as unmediated fact."
   },
   "semantic_domains": {

@@ -1,0 +1,39 @@
+{
+  "word": "hoshemi",
+  "gloss": "hypothesis",
+  "ipa": "/ho̞.ˈʃe̞.mi/",
+  "syllables": [
+    "ho",
+    "she",
+    "mi"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "proposed explanation",
+    "testable proposal",
+    "alternative hypothesis"
+  ],
+  "description": "A gardener may propose that recent rain raised the river, then compare that account with upstream observations and other possible causes. The proposed explanation or relation under examination is a 'hoshemi'. It gives inquiry something definite to test without promoting the proposal to fact while everyone is still putting on their boots.",
+  "articulatory_notes": "Open the glottis for 'h' and round into middle-height 'o'. Raise the tongue blade behind the alveolar ridge for stressed unvoiced 'sh' and release into middle-height front 'e'. Close the lips for voiced nasal 'm' and finish on high-front unrounded 'i'.",
+  "sound_symbolism": "The first syllable is exactly assumptive evidential 'ho', so the proposed account has an audible relation to assumption. The longer noun moves through a hushed stressed centre to a light nasal close. It leaves the brief source marker behind but keeps its provisional opening in earshot.",
+  "usage_notes": "The noun is countable. 'phirae hoshemi' is an alternative hypothesis in ordinary discussion. A 'mothare' is a proposition serving as a premise in an argument; a hypothesis is the proposed account being examined and may later supply one or more premises. Formal work keeps its exact hypotheses, complete test record, and named method beside the Phi account.",
+  "examples": [
+    {
+      "phi": "ha thesori ha hoshemi panoru.",
+      "translation": "This evidence supports this hypothesis."
+    }
+  ],
+  "pillars": {
+    "secular-buddhist-philosophy": "The noun lets a speaker hold an explanation as a conditioned proposal rather than confusing a useful account with settled reality.",
+    "peace-linguistics-practices": "Naming a hypothesis makes uncertainty public and leaves room for another explanation, further evidence, and revision without treating inquiry as personal defeat."
+  },
+  "semantic_domains": {
+    "cognition": "a proposed explanation or relation examined against evidence",
+    "communication": "a provisional account made available for shared testing"
+  },
+  "modules": [
+    "ecological-systems-and-material-life",
+    "philosophical-reasoning",
+    "systems-and-shared-infrastructure"
+  ]
+}

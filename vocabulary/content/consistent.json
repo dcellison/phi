@@ -8,14 +8,24 @@
     "ro"
   ],
   "pos": "adjective",
-  "concept": "Consistent / Jointly Possible",
-  "description": "Of two or more claims, able to be true together. Consistency says only that the claims do not clash with each other; it says nothing yet about whether any of them is actually true.",
-  "sound_symbolism": "Liquid 'le' begins with an easy path along the tongue. The stressed breath of 'tha' passes the teeth, opens wide, and gives different sounds room to meet. Rounded 'ro' follows with a brief roll and settles them into one resonant ending where the parts remain distinct and still travel together.",
-  "grammatical_notes": "An adjective used attributively or predicatively: 'letharo lo sherewa' (consistent claims); 'lo sherewa letharo nai.' (The claims are consistent.) The quality-noun rule supplies consistency. Distinct from 'senao' (same), 'lei' (harmony), and 'shewo' (true).",
+  "search_terms": [
+    "jointly possible",
+    "non-contradictory",
+    "consistency"
+  ],
+  "description": "Two or more claims are 'letharo' when they can be true together under the same interpretation and conditions. They need not resemble one another, and consistency supplies no evidence that any claim is actually true. It only tells us that the claims can share a room without logical trouble.",
+  "articulatory_notes": "Touch the tongue tip at the alveolar ridge for lateral 'l' and release into middle-height front 'e'. Set the tongue tip at the upper teeth for stressed unvoiced 'th', then open onto central 'a'. Finish with a brief alveolar tap or short trill before middle-height rounded 'o'.",
+  "sound_symbolism": "The word moves from a lateral opening through broad dental breath and ends in a rounded tap. Its three gestures remain distinct but meet in one unbroken contour, a modest physical echo of claims that can stand together without becoming alike.",
+  "usage_notes": "The adjective appears before plural claims or predicatively; the quality-noun rule supplies consistency. 'senao' (same) concerns identity or likeness, 'lei' (harmony) concerns a valued relation, and 'shewo' (true) assesses a claim against what is so.",
+  "examples": [
+    {
+      "phi": "lo sherewa letharo nai.",
+      "translation": "The claims are consistent."
+    }
+  ],
   "pillars": {
     "secular-buddhist-philosophy": "Claims can coexist under one set of conditions and conflict under another; consistency remains scoped rather than absolute.",
-    "art-nouveau-aesthetics": "Consistency concerns whether distinct parts can inhabit one form together without requiring those parts to become identical.",
-    "peace-linguistics-practices": "The term helps distinguish genuine incompatibility from mere difference, reducing pressure for unnecessary uniformity."
+    "peace-linguistics-practices": "The term distinguishes genuine incompatibility from mere difference. That precision reduces pressure for unnecessary uniformity."
   },
   "semantic_domains": {
     "cognition": "the quality of propositions that can be true together",

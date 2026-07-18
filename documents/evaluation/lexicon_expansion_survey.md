@@ -55,9 +55,9 @@ These domains matter to Phi's intended philosophical and solarpunk-oriented use.
 
 ### Philosophical reasoning: first pass complete
 
-The [Philosophical Reasoning profile](../modules/philosophical_reasoning.md) establishes 18 optional terms for premises, conclusions, arguments, objections, inference, entailment, validity, contradiction, consistency, examples, counterexamples, refutation, definition, concepts, doubt, confidence, tradeoffs, and compromise. `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion belong in base vocabulary.
+The [Philosophical Reasoning profile](../modules/philosophical_reasoning.md) established 18 optional terms in its first pass across argument structure and assessment, definition, epistemic stance, and practical deliberation. Later work added rights and conscience, and the module-prose review added `hoshemi` hypothesis; the dedicated set now contains 21 roots and the current learning path contains 22 memberships. `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion remain in base vocabulary.
 
-The pass retains transparent compositions for priority and standpoint, and for soundness, conditionals, and suspension of judgment. `CV-PHIL-01` keeps emergence, correlation, degrees of inference strength, and further responsibility distinctions for later philosophical use. System and feedback terminology belongs to the Systems and Shared Infrastructure module.
+The pass retains transparent compositions for priority and standpoint, and for soundness, conditionals, and suspension of judgment. The current review also keeps ordinary inference strength and responsibility compositional. `CV-PHIL-01` carries emergence and correlation into the connected Systems review, where system and feedback terminology already belongs.
 
 ### Systems and shared infrastructure: first pass complete
 

@@ -8,12 +8,22 @@
     "re"
   ],
   "pos": "noun",
-  "concept": "Argument / Organized Support for a Conclusion",
-  "description": "Premises organized to support a conclusion, whether spoken aloud, written down, or worked out in private thought. The word names the structure of the reasoning, never a quarrel or raised voices, and an argument can be valid while unpersuasive, or persuasive while resting on a false premise.",
-  "sound_symbolism": "Soft dental breath begins 'the', with the tongue near the teeth and air still moving. The stress gathers in 'mo' as the lips close around a rounded vowel and give the word a resonant center. A rolling 're' releases that enclosure and sends the contour outward, from patient breath through concentration into an offered connection.",
-  "grammatical_notes": "A countable noun: 'ha themore kithela nai.' (This argument is valid.) Premises and conclusion may be named possessively or in surrounding clauses. Distinct from 'shareo' (discuss), 'thelu' (dialogue), and ordinary disagreement; those are interactions, while 'themore' is a structure of support.",
+  "search_terms": [
+    "reasoning structure",
+    "premises and conclusion",
+    "case for a claim"
+  ],
+  "description": "Premises form a 'themore' when they are organised to support a conclusion in speech, writing, or private thought. The word concerns a structure of reasoning; a quarrel is another matter altogether. An argument may be valid without persuading anyone, and persuasive while resting on a false premise.",
+  "articulatory_notes": "Set the tongue tip at the upper teeth for unvoiced 'th' and release into middle-height front 'e'. Close the lips for voiced nasal 'm' and round into stressed middle-height 'o'. Finish with a brief alveolar tap or short trill before middle-height front 'e'.",
+  "sound_symbolism": "Dental breath leads into a gathered nasal centre, then the final tap releases the word towards another listener. The contour suits reasoning offered for examination, but the syllables do not encode premises or conclusion as hidden parts.",
+  "usage_notes": "The noun is countable. Premises and conclusion may be stated possessively or in surrounding clauses. 'shareo' (discuss), 'thelu' (dialogue), and ordinary disagreement name interactions; an argument is the support relation that participants may examine within them.",
+  "examples": [
+    {
+      "phi": "ha themore kithela nai.",
+      "translation": "This argument is valid."
+    }
+  ],
   "pillars": {
-    "art-nouveau-aesthetics": "An argument is treated as an organized form whose value depends on the relations among its parts, much as a living design depends on structure rather than isolated decoration.",
     "peace-linguistics-practices": "Separating argument from quarrel makes rigorous disagreement compatible with collaborative and non-hostile dialogue."
   },
   "semantic_domains": {

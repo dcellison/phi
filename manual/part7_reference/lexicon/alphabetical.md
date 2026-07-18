@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1260 words.*
+*1261 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -66,6 +66,7 @@
 | `horae` | radiant | /ho̞.ˈrä.e̞/ | adjective |
 | `horathe` | dawn | /ho̞.ˈrä.θe̞/ | noun |
 | `horuma` | thunder | /ho̞.ˈru.mä/ | noun |
+| `hoshemi` | hypothesis | /ho̞.ˈʃe̞.mi/ | noun |
 | `howai` | evening | /ho̞.ˈwä.i/ | noun |
 | `howela` | receive | /ho̞.ˈwe̞.lä/ | verb |
 | `howeli` | wind | /ho̞.ˈwe̞.li/ | noun |
