@@ -8,16 +8,26 @@
     "ki"
   ],
   "pos": "noun",
-  "concept": "Institution / Continuing Organized Social Arrangement",
-  "description": "A continuing organized social arrangement that outlives any one meeting or participant, built from roles, practices, records, and relationships. Calling something an institution does not yet say it functions well or deserves anyone's obedience; that is a separate, harder claim.",
-  "sound_symbolism": "A small lip closure in 'pu' releases into deep 'u'. Stressed 'no' answers with a dental nasal and a rounder chamber. Together they repeat the opening contour of 'punoa' (society), while crisp 'ki' gives the ending one bright structural point. Two settled enclosures support the word before its final clean contact.",
-  "grammatical_notes": "A countable noun: 'ha punoki lo sithora phelu.' (This institution has roles.) Name participants, continuity, roles, procedures, resources, and source recognition where relevant. Distinct from 'punoa' (society), 'sila' (community), 'kowela' (council), 'lona' (meeting), and 'terura' (technical system).",
+  "search_terms": [
+    "social institution",
+    "organised social arrangement"
+  ],
+  "description": "A 'punoki' is an organised social arrangement that continues beyond any one participant or meeting. Its roles, practices, and records let it persist when people change. 'punoa' (society) is the wider social fabric; an institution is one maintained arrangement within it.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into high-back rounded 'u'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the sound through the nose, and hold stressed true-mid rounded 'o'. Close the back of the tongue against the soft palate for unvoiced 'k' and finish on high-front 'i'.",
+  "sound_symbolism": "The rounded enclosures of 'pu' and stressed 'no' echo the opening of 'punoa' (society). Final 'ki' adds a small, crisp contact. The broader social resonance ends at a more definite edge.",
+  "usage_notes": "A 'punoki' is countable. A council may be one institution, but a meeting is only an event in its life. The surrounding account identifies its people and roles, along with the practices or resources that keep it operating. Claimed authority belongs in that account; 'kirethu' (legitimate) remains a separate judgement.",
+  "examples": [
+    {
+      "phi": "ha punoki lo sithora phelu.",
+      "translation": "This institution has roles."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Durable commons require institutions that can be maintained, criticized, repaired, and replaced rather than relying on permanent goodwill or invisible labor.",
-    "peace-linguistics-practices": "Naming an institution without granting it legitimacy keeps its procedures, exclusions, authority claims, and harms available for direct examination."
+    "solarpunk-values": "A durable commons needs arrangements that keep records and distribute work after the founding enthusiasm has gone home for supper.",
+    "peace-linguistics-practices": "Calling an arrangement an institution grants it no legitimacy, which leaves its authority and effects open to examination."
   },
   "semantic_domains": {
-    "community": "a continuing organized social arrangement with roles and procedures"
+    "community": "an organised social arrangement maintained across changes of participant"
   },
   "modules": [
     "commons-and-collective-governance"

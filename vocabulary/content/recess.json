@@ -8,10 +8,20 @@
     "nu"
   ],
   "pos": "noun",
-  "concept": "Recess / Bounded Pause Before an Activity Resumes",
+  "search_terms": [
+    "scheduled break",
+    "temporary adjournment"
+  ],
   "description": "A bounded pause within an activity or proceeding, with an expectation that it will resume. A recess can provide time for rest, communication repair, private thought, or another stated need. 'therilu' (rest) names restorative ceasing; 'hasenu' belongs to the structure of the larger event.",
+  "articulatory_notes": "Open the glottis for 'h' and release into central 'a'. Form a narrow groove along the tongue for unvoiced 's' and hold stressed true-mid front 'e'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the sound through the nose, and finish on high-back rounded 'u'.",
   "sound_symbolism": "Light 'ha' opens on unimpeded breath before stressed 'se' narrows the air to a fine, level hiss. Final 'nu' changes that stream into nasal resonance at the teeth and sinks into deep 'u'. Open breath passes through a quiet middle and reaches a low settled close.",
-  "grammatical_notes": "A countable noun: 'lona hasenu phelu.' (The meeting has a recess.) Its beginning, duration, purpose, and expected resumption can be stated in ordinary time clauses. Distinct from 'wiresu' (postpone) and an event that has ended with 'te'.",
+  "usage_notes": "A recess is counted as one bounded pause. Ordinary time clauses can state its beginning, purpose, and expected resumption. 'wiresu' (postpone) moves a planned event later, while the cessation particle 'te' ends an event rather than pausing it from within.",
+  "examples": [
+    {
+      "phi": "lona hasenu phelu.",
+      "translation": "The meeting has a recess."
+    }
+  ],
   "pillars": {
     "peace-linguistics-practices": "A named recess lets a group stop before speed turns confusion, overload, or fatigue into silent exclusion.",
     "pre-industrial-wisdom": "Shared work has long carried pauses shaped by heat, light, meals, prayer, and the body's need to return with steadier hands."

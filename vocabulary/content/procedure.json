@@ -8,17 +8,27 @@
     "thu"
   ],
   "pos": "noun",
-  "concept": "Procedure / Specified Ordered Process for Collective Action",
-  "description": "The specified, ordered steps a group follows: who participates, in what order, toward what decision. A procedure followed to the letter can still produce a hollow or unjust result, so following it is not yet the same as the outcome being right.",
-  "sound_symbolism": "Dental 'no' begins in a rounded enclosure and stressed 'ra' rolls it forward through open 'a'. Together 'no.ra' recall the first two syllables of 'norae' (method). Final 'thu' sets breath against the teeth and sinks into deep 'u'. A procedure circles through its ordered path, then ends on the contact from which the sequence can begin again.",
-  "grammatical_notes": "A countable noun: 'ha norathu lo phoa phelu.' (This procedure has actions.) State participants, sequence, decision rule, records, exceptions, and review where relevant. Distinct from 'norae' (method), 'teru' (process), 'lona' (meeting), custom, exact legal procedure, and proof that the procedure was followed.",
+  "search_terms": [
+    "ordered process",
+    "collective procedure"
+  ],
+  "description": "A 'norathu' is a specified order of actions for a collective or institutional matter. It says how participants move from an opening condition towards a stated result. 'norae' (method) is a way of doing something more generally; a procedure also arranges participation and sequence.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the sound through the nose, and round into true-mid 'o'. Tap or briefly trill the tongue tip before stressed central 'a'. Place the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and finish on high-back rounded 'u'.",
+  "sound_symbolism": "Dental 'no' reaches a tap in open stressed 'ra' and recalls 'norae' (method). Final 'thu' sets the breath against the teeth and closes on deep 'u'. The ordered path reaches a distinct endpoint.",
+  "usage_notes": "Procedures count individually. Participants and sequence are central, while the decision condition and review path may be stated separately. Exact court, electoral, administrative, or customary procedures retain their source names and wording. Completing a procedure does not settle whether its outcome is legitimate.",
+  "examples": [
+    {
+      "phi": "ha norathu lo phoa phelu.",
+      "translation": "This procedure has actions."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Visible procedures help shared institutions distribute participation, labor, records, and revision without depending on opaque custom or charismatic authority.",
-    "peace-linguistics-practices": "A named procedure lets speakers separate fair access and meaningful voice from mere formal completion of steps."
+    "solarpunk-values": "A visible procedure lets a shared institution arrange participation and revision without depending on one person's memory or influence.",
+    "peace-linguistics-practices": "The noun keeps meaningful access and voice open to examination after the steps themselves have been completed."
   },
   "semantic_domains": {
-    "activity": "an ordered and specified collective process",
-    "community": "a governance procedure with participants and decision conditions"
+    "activity": "a specified sequence of actions directed towards a result",
+    "community": "an ordered process that arranges collective participation"
   },
   "modules": [
     "accessibility-and-participation",

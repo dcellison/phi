@@ -8,17 +8,27 @@
     "ro"
   ],
   "pos": "noun",
-  "concept": "Decision / Choice Given Settled or Actionable Status",
-  "description": "A choice that has reached settled or actionable status. It can still be provisional, contested, or under appeal and remain, in this sense, a decision; settled status is not the same as final status.",
-  "sound_symbolism": "The first two syllables repeat 'kanu' (choose), from a crisp velar stop into the stressed depth of 'nu'. 'Ro' adds a rolling contact and a round chamber at the end. Choice turns once more in the mouth and settles into a form others can hear and act around.",
-  "grammatical_notes": "A countable noun: 'ha kowela ha kanuro to phoa.' (The council made this decision.) Name decision maker, procedure, scope, effective time, objections, and review status where needed. Distinct from 'kanu' (choose), 'repora' (propose), 'naweso' (consensus), agreement, implementation, and exact adjudicative terms.",
+  "search_terms": [
+    "collective decision",
+    "settled choice"
+  ],
+  "description": "A 'kanuro' is a choice given settled or actionable status by a person, group, or institution. The decision may be provisional or contested and still guide what happens next. 'kanu' (choose) names selection itself; 'kanuro' is the resulting matter others can record, review, or implement.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into central 'a'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the sound through the nose, and hold stressed high-back rounded 'u'. Tap or briefly trill the tongue tip before final true-mid rounded 'o'.",
+  "sound_symbolism": "'kanu' (choose) carries the opening from a velar release into deep stressed 'nu'. Final 'ro' adds a turn of the tongue and a rounded close. The settled choice acquires one further audible shape.",
+  "usage_notes": "Individual decisions count. The decision maker and procedure usually appear first; scope and conditions can follow. Implementation and review remain later acts. Exact judgments, orders, resolutions, or other source categories retain the names and force used by their institutions.",
+  "examples": [
+    {
+      "phi": "ha kowela ha kanuro to phoa.",
+      "translation": "The council made this decision."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Collective projects need decisions that remain traceable to participants, resources, conditions, and future review rather than dissolving into vague communal intention.",
-    "peace-linguistics-practices": "Separating decision from agreement, consent, legitimacy, and compliance preserves dissent after a group begins to act."
+    "solarpunk-values": "A recorded decision lets shared work proceed while its conditions and review path remain recoverable.",
+    "peace-linguistics-practices": "Separating decision from agreement and consent preserves dissent after a group begins to act."
   },
   "semantic_domains": {
-    "cognition": "a choice assigned settled or actionable status",
-    "community": "a collective or institutional decision with stated scope"
+    "cognition": "a choice treated as settled enough to guide later action",
+    "community": "a decision made within a group or institutional process"
   },
   "modules": [
     "accessibility-and-participation",

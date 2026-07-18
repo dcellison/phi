@@ -1,10 +1,10 @@
 # Commons and Collective Governance
 
-A council votes to allocate the season's grain, one member abstains, and someone asks afterward whether the decision was legitimate. Twenty-seven module roots let a speaker follow the decision from proposal to review. The same account can outgrow the council: `sirami` record, `kawhera` coerce, and `whepelo` retaliate belong to base vocabulary because none requires an institution.
+A council votes to allocate the season's grain, one member abstains, and someone asks afterward whether the decision was legitimate. Twenty-nine module roots let a speaker follow the decision from petition and proposal through practice and review. The same account can outgrow the council: `sirami` record, `kawhera` coerce, and `whepelo` retaliate belong to base vocabulary because none requires an institution.
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an authority, a lawyer, or a rightful decider for anyone else.
 
-The chapter table below introduces 27 module roots. Current classifications bring the optional learning list to 51 words; base `sirami`, `kawhera`, and `whepelo` are taught alongside it. The complete machine-generated list is available under [Commons and Collective Governance in the module lexicon](../lexicon/by_module.md#commons-and-collective-governance). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 29 module roots. Current classifications bring the optional learning list to 53 words; base `sirami`, `kawhera`, and `whepelo` are taught alongside it. The complete machine-generated list is available under [Commons and Collective Governance in the module lexicon](../lexicon/by_module.md#commons-and-collective-governance). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -51,6 +51,7 @@ Their canonical entries have no `modules` field. A person may write down what ha
 | `wemari` | noun | member; recognized participant under stated criteria | Membership is recognized under a criterion; belonging (`wema`) needs none. |
 | `shalori` | verb | represent; act or communicate on behalf of another | Representing someone is not resembling them, and the standing always has a scope. |
 | `punoki` | noun | institution; continuing organized social arrangement | An institution outlives any one meeting; a label does not make it just. |
+| `kowanu` | noun | governance; continuing arrangement for collective decisions and practice | Governance can include several institutions or none; the word grants no legitimacy. |
 | `sithora` | noun | role; defined institutional or social position | A role is a position, never the person who currently fills it. |
 | `loatho` | verb | delegate; entrust bounded action or authority | Delegation entrusts a bounded task; the accountability stays with whoever entrusted it. |
 | `karami` | noun | authority; claimed or recognized power to decide or act | Authority is claimed power; `kirethu` (legitimate) asks whether the claim holds. |
@@ -58,6 +59,7 @@ Their canonical entries have no `modules` field. A person may write down what ha
 | `norulo` | noun | jurisdiction; claimed scope of authority | Jurisdiction is the reach an authority claims, not the reach it actually has. |
 | `kirethu` | adjective | legitimate; justified under stated criteria | Legitimacy asks by whose criteria, which is why the question is worth asking aloud. |
 | `nasholu` | noun | rule; normative requirement, permission, or prohibition | A rule says what should happen; whether it does is a separate fact. |
+| `pashenu` | verb | petition; present a formal request to someone able to respond | A petition asks its recipient to act; it is neither a collective proposal nor an appeal. |
 | `repora` | verb | propose; present a possible collective action | A proposal is only ever a possibility on the table. |
 | `norathu` | noun | procedure; specified ordered collective process | A procedure is the steps; following every one proves nothing about the outcome. |
 | `kanuro` | noun | decision; choice given settled or actionable status | A decision can be contested and still be a decision. |
@@ -76,7 +78,7 @@ Their canonical entries have no `modules` field. A person may write down what ha
 | `whetuma` | verb | appeal; request formal reconsideration | An appeal asks for review; the review itself is a separate act. |
 | `helaki` | verb | amend; formally change part of a continuing matter | Amendment changes a living rule while keeping its history, unlike `helolu`'s repair of a harm. |
 
-The verbs used in this chapter receive their event or result nouns through Phi's ordinary event-noun rule: `shalori` can name representation, `loatho` delegation, `kanuwa` authorization, `repora` a proposal, `kasira` a vote, `makelu` abstention, `phanuli` allocation, `helolu` redress, `nashaku` enforcement, `shanewi` notice, `sirami` a record, `tukiro` review, `whetuma` appeal, `helaki` amendment, `kawhera` coercion, and `whepelo` retaliation. The adjective `kirethu` likewise names legitimacy and `lothoni` accountability through the quality-noun rule.
+Every verb in the table keeps the same form when Phi's ordinary event-noun rule turns it into a noun. Thus `pashenu` can mean a petition and `repora` a proposal, just as `kasira` can mean a vote and `tukiro` a review. The quality-noun rule likewise gives legitimacy from `kirethu` and accountability from `lothoni`.
 
 ## Membership, representation, institutions, and roles
 
@@ -120,7 +122,15 @@ mia wei thia ha sithora loatho.
 (I delegate this role to you.)
 ```
 
-## Authority, authorization, jurisdiction, legitimacy, and rules
+## Governance, authority, authorization, jurisdiction, legitimacy, and rules
+
+`kowanu` is the continuing arrangement through which a group makes decisions, carries them into practice, and returns to them later. A council can take part in it; so can a neighbourhood assembly, rotating roles, or an informal custom. The noun saves a speaker from reciting the whole arrangement whenever the arrangement itself matters. Legitimacy remains a judgement. Representation and kindness need their own evidence.
+
+```
+ha laenu kowanu si helui.
+PROX commons governance IPFV change.
+(The governance of this commons is changing.)
+```
 
 `karami` is power that is claimed or recognized to decide or act, and it can exist without deserving to: without legitimacy, without real control, without the consent of those it touches.
 
@@ -162,7 +172,15 @@ PROX rule PROX do require.
 (This rule requires this action.)
 ```
 
-## Proposals, procedures, decisions, consensus, and voting
+## Petitions, proposals, procedures, decisions, consensus, and voting
+
+`pashenu` carries a formal request to a person or institution able to answer it. A lone person may petition, or many people may join the request. It remains a request: the recipient still has to decide how to answer. A collective proposal uses `repora`, and an appeal of an earlier decision uses `whetuma`.
+
+```
+lo wemari wei ha kowela ha tukiro pashenu.
+PL member DAT PROX council PROX review petition.
+(The members petition the council for a review.)
+```
 
 `repora` puts a possible action on the table, no more. What happens next, ignored, amended, adopted, rejected, is not decided by the proposing.
 
@@ -353,7 +371,6 @@ Some governance expressions remain clearer as combinations because their parts e
 | explicit affected being plus action, exposure, burden, benefit, or change | affected party | Being affected does not wait on an institution's permission to say so. |
 | represented `wemari` members or other named people plus `shalori` scope | constituency | The representative does not get to silently define who they speak for. |
 | `kirema` criteria for claiming, participating, voting, objecting, or appealing | standing | Ties standing to a forum and a matter rather than an inherent status. |
-| institution, authority, jurisdiction, procedure, decision, and accountability clauses | governance | Keeps the actual arrangement visible instead of collapsing it into one actor. |
 | ordered proposals, questions, reports, and decisions recorded for a meeting | agenda | Makes who controls inclusion, order, and amendment explicit. |
 | participation `kirema` plus exact count or proportion | quorum | Preserves the threshold and who counts toward it. |
 | quantifiers and exact counts around `kasira` | majority or minority result | Assumes no binary factions, no equal weights, no single voting system. |

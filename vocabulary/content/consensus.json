@@ -8,17 +8,27 @@
     "so"
   ],
   "pos": "noun",
-  "concept": "Consensus / Stated Collective Decision Condition",
-  "description": "A stated collective decision condition, bounded by its own procedure, never a feeling of harmony in the room. Naming it honestly means naming who counted as a participant, what the blocking rule was, and which reservations remained on the record.",
-  "sound_symbolism": "Dental 'na' begins with the familiar steadiness heard at the start of 'nawo' (agree). The stress in 'we' glides from rounded lips into open 'e' and gives the middle room to widen. Hissing 'so' gathers that width into a shared round ending. Three distinct contacts enter one audible contour, with each change still clear to the ear.",
-  "grammatical_notes": "A countable or mass noun: 'ha kanuro naweso phelu.' (This decision has consensus.) State participants, opportunity, blocking rule, reservations, abstentions, exclusions, and review conditions. Distinct from 'nawo' (agree), unanimity, consent, 'lei' (harmony), majority vote, and legitimacy.",
+  "search_terms": [
+    "collective consensus",
+    "consensus decision"
+  ],
+  "description": "'naweso' is a collective decision condition defined by the procedure using it. It reports that the stated threshold for unresolved objection has been met among the people counted as participants. 'nawo' (agree) is one person's stance, while consensus belongs to the group process and may coexist with reservations.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the sound through the nose, and open into central 'a'. Round the lips for voiced 'w', then move forward and unround into stressed true-mid 'e'. Form a narrow groove along the tongue for unvoiced 's' and finish on true-mid rounded 'o'.",
+  "sound_symbolism": "Dental 'na' recalls the opening of 'nawo' (agree). Stressed 'we' widens through a lip glide before final 'so' gathers the air into a rounded hiss. Several distinct contacts settle into one contour.",
+  "usage_notes": "One procedural finding can be counted; broad discussion treats consensus as a mass noun. The participants and blocking conditions give a particular consensus its meaning, with any reservations recorded beside it. Unanimity, consent, harmony, and legitimacy remain different claims.",
+  "examples": [
+    {
+      "phi": "ha kanuro naweso phelu.",
+      "translation": "This decision has consensus."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Consensus can support cooperative self-governance when participation, blocking conditions, exclusions, urgency, and unequal burdens remain visible.",
-    "peace-linguistics-practices": "A bounded term prevents silence, exhaustion, compliance, or the absence of a recorded objection from being celebrated automatically as shared agreement."
+    "solarpunk-values": "Consensus can support cooperative self-governance when the participants and blocking conditions remain visible.",
+    "peace-linguistics-practices": "A procedural noun prevents silence or fatigue from being mistaken automatically for shared agreement."
   },
   "semantic_domains": {
-    "communication": "public stances considered under a stated consensus rule",
-    "community": "a defined collective decision condition"
+    "communication": "participants' stated positions considered under a consensus procedure",
+    "community": "a collective decision condition defined for a particular group"
   },
   "modules": [
     "commons-and-collective-governance"

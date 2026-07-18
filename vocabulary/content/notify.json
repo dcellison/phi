@@ -8,17 +8,27 @@
     "wi"
   ],
   "pos": "verb",
-  "concept": "Notify / Formally Direct Information to a Recipient",
-  "description": "For a source to formally direct information toward a recipient. Notifying sends the word; whether it arrived, was understood, or was acted on remains open past the sending itself.",
-  "sound_symbolism": "Hushed 'sha' enters the stressed dental balance of 'ne'. Together those syllables repeat the complete sound of 'shane' (tell). Final 'wi' rounds the lips and glides into bright 'i'. That narrowing glide gives the word a clear path outward.",
-  "grammatical_notes": "A transitive verb with the notifying source as subject, recipient in a dative phrase, and information as object: 'ha punoki wei lo wemari ha kanuro shanewi.' (The institution notifies the members of this decision.) State method, time, format, source, and required response separately. The event-noun rule supplies notification or notice. Distinct from 'shane' (tell), publication, 'sirami' (record), successful receipt, and understanding.",
+  "search_terms": [
+    "give notice",
+    "formal notification"
+  ],
+  "description": "To 'shanewi' is to direct information formally from an identifiable source to a recipient. The act creates notice under the relevant arrangement, but receipt and understanding remain later facts. 'shane' (tell) is ordinary communication without this formal relation.",
+  "articulatory_notes": "Raise the tongue blade behind the alveolar ridge for unvoiced 'sh' and release into central 'a'. Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the sound through the nose, and hold stressed true-mid front 'e'. Round the lips for voiced 'w' and glide into final high-front 'i'.",
+  "sound_symbolism": "'shane' (tell) sounds through the opening, from broad breath into the stressed dental centre. Final 'wi' gathers the lips and glides towards bright 'i'. The message acquires an audible direction beyond the telling itself.",
+  "usage_notes": "A notifying clause begins with its source, 'wei' introduces the recipient, and the information follows. Method, time, and format can be added when relevant. Event-noun use supplies notification or notice. Publication and disclosure concern different changes in who may receive or know the information.",
+  "examples": [
+    {
+      "phi": "ha punoki wei lo wemari ha kanuro shanewi.",
+      "translation": "The institution notifies the members of this decision."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Durable commons need traceable notice about resource changes, hazards, meetings, maintenance, and decisions without assuming one communication channel serves everyone.",
-    "peace-linguistics-practices": "Separating notification from receipt and understanding prevents institutions from blaming excluded people merely because information was sent or posted."
+    "solarpunk-values": "Changes to a commons need traceable notice, whether they concern resources, hazards, meetings, or decisions, and often in more than one usable form.",
+    "peace-linguistics-practices": "Separating notice from receipt and understanding prevents an institution from blaming people merely because a message was sent."
   },
   "semantic_domains": {
-    "communication": "information offered without presuming receipt or understanding",
-    "community": "formal notice directed to identified recipients"
+    "communication": "information formally directed from a source to a recipient",
+    "community": "notice created under a shared or institutional arrangement"
   },
   "modules": [
     "accessibility-and-participation",

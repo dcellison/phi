@@ -5,7 +5,7 @@
 
 # The Phi Lexicon — Alphabetical
 
-*1273 words.*
+*1275 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -195,6 +195,7 @@
 | `korua` | heart | /ko̞.ˈru.ä/ | noun |
 | `kosha` | field | /ˈko̞.ʃä/ | noun |
 | `koshira` | grove | /ko̞.ˈʃi.rä/ | noun |
+| `kowanu` | governance | /ko̞.ˈwä.n̪u/ | noun |
 | `kowela` | council | /ko̞.ˈwe̞.lä/ | noun |
 | `kua` | where | /ˈku.ä/ | interrogative |
 | `kuelo` | curious | /ku.ˈe̞.lo̞/ | adjective |
@@ -584,6 +585,7 @@
 | `pao` | goodbye | /ˈpä.o̞/ | interjection |
 | `pareshi` | cliff | /pä.ˈre̞.ʃi/ | noun |
 | `pasharo` | frustrated | /pä.ˈʃä.ro̞/ | adjective |
+| `pashenu` | petition | /pä.ˈʃe̞.n̪u/ | verb |
 | `patoku` | solid | /pä.ˈt̪o̞.ku/ | noun |
 | `pawela` | participate | /pä.ˈwe̞.lä/ | verb |
 | `peki` | squeeze | /ˈpe̞.ki/ | verb |

@@ -1,6 +1,6 @@
 # Commons and Collective Governance
 
-**Status:** **Established vocabulary module** with 27 module roots coined here, 51 current memberships, and base-vocabulary `sirami` record, `kawhera` coerce, and `whepelo` retaliate; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 29 module roots coined here, 53 current memberships, and base-vocabulary `sirami` record, `kawhera` coerce, and `whepelo` retaliate; ordinary Phi grammar.
 
 ## Charter
 
@@ -15,11 +15,12 @@ The speaker-facing guide is [Commons and Collective Governance](../../manual/par
 - Phi retains one grammar. The module adds no governance particle, voting syntax, authority operator, legal inflection, parser mode, or incompatible construction.
 - A module word is ordinary Phi vocabulary. Speakers outside the module may ask for a core paraphrase and are not obliged to learn its specialized terms.
 - `laenu` names a commons or shared resource, not a government, owner, legal person, territory, institution, or decision-making body. `sila` names a community without defining membership, standing, jurisdiction, or representation.
+- `kowanu` names the continuing arrangement through which a group governs, not any one participant or source of force within it. Governments and institutions can take part. So can informal procedures or customary authority. The arrangement supplies neither legitimacy nor a political identity.
 - `kowela` names a council and `lona` a meeting, but neither establishes participation, procedure, consensus, authority, legitimacy, notice, decision status, or review.
 - `wemari` membership, `shalori` representation, `sithora` role, `karami` authority, `kanuwa` authorization, and `norulo` jurisdiction remain separate. None silently supplies the others.
 - `kirethu` legitimacy is an evaluation under stated criteria and standpoints. It does not mean legal, popular, effective, true, fair, just, harmless, or accepted by every affected person.
 - `nasholu` identifies a generic normative rule. Exact laws, constitutions, policies, bylaws, treaties, contracts, regulations, customary rules, rights instruments, and operative wording remain in source material outside the Phi passage when source identity or force matters.
-- `kanuro` decision, `naweso` consensus, `kasira` vote, `makelu` abstention, agreement, consent, compliance, and implementation remain distinct.
+- `kanuro` names decision status. `naweso` consensus, `kasira` vote, and `makelu` abstention belong to the procedure around it. Agreement and consent keep their personal relations; compliance and implementation concern what follows. `pashenu` petition asks a capable recipient to act, rather than proposing an action for collective decision or appealing one already made.
 - `sherelo` is a normative right without a built-in verdict on validity or source. Exact rights terminology remains beside the Phi analysis when its category or wording matters. `shereni` is an institutionally recognized entitlement, while `phenori` ownership does not make one property regime universal or legitimate.
 - `naseru` obligation may be imposed or disputed; `thonai` remains willingly carried responsibility; `lothoni` accountability requires an answer and review relation. None establishes guilt, blame, causation, capacity, consent, punishment, or justified enforcement.
 - `kawhera` coercion and `whepelo` retaliation make institutional harm directly discussable. They require stated mechanisms, power relations, affected testimony, timing, and evidence rather than being inferred from mere disagreement or consequence.
@@ -68,7 +69,18 @@ The first pass admits 27 optional roots for recurring governance relations and p
 | Notice, records, and revision | `shanewi` notify, `sirami` record, `tukiro` review, `whetuma` appeal, `helaki` amend | Notification versus receipt, access, understanding, or publication; record versus writing, truth, official status, or notice; review versus discussion or inspection; appeal versus objection or review itself; amendment versus generic change, repeal, replacement, or erased history. |
 | Power and institutional harm | `kawhera` coerce, `whepelo` retaliate | Coercion versus every obligation, urgency, persuasion, or consequence; retaliation versus ordinary response, enforcement, defense, redress, or an independently justified adverse action. |
 
-All 30 roots established in this pass follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, pass the lexical validator, and have no character edit-distance-one or flagged non-self phonetic neighbors in the completed-batch audit. Twenty-seven carry `commons-and-collective-governance`; `sirami`, `kawhera`, and `whepelo` carry no module field and remain in base vocabulary.
+All 30 roots established in the first pass follow the complete vocabulary schema, include explicit semantic contrasts and grammatical examples, pass the lexical validator, and have no character edit-distance-one or flagged non-self phonetic neighbors in the completed-batch audit. Twenty-seven carry `commons-and-collective-governance`; `sirami`, `kawhera`, and `whepelo` carry no module field and remain in base vocabulary.
+
+## Current Prose and Completeness Pass
+
+The target-prose review migrated all 42 inherited module entries and returned to the profile as a vocabulary rather than a stack of definitions. Most apparent gaps still benefit from visible participants, criteria, sources, and acts. Two did not. A conversation can keep every institution and procedure explicit yet still need to discuss the governing arrangement as a whole, or ask a capable body to act without pretending to make its decision. Those are ordinary enough within this learning path to have names.
+
+| Phi | Working sense | Boundary |
+|---|---|---|
+| `kowanu` | governance; a continuing arrangement for collective decisions, practice, and later review | A council or institution may take part in governance without becoming the whole arrangement. The word reports neither legitimacy nor a particular political form. |
+| `pashenu` | petition; present a formal request to a person or institution able to respond | A petition asks its recipient to act. It differs from `repora`, which puts an action before a collective for decision, and `whetuma`, which asks for reconsideration of an earlier decision. |
+
+Both words pass the lexical, example, character-neighbour, and phonetic-neighbour checks. Neither uses a retired form or an English homonym. They bring the module to 29 roots coined here and 53 current memberships. Every Commons entry now uses the target prose contract.
 
 ## Rights and entitlements
 
@@ -90,7 +102,6 @@ The pass keeps several expressions compositional because their parts expose part
 | Standing | State the `kirema` criteria under which a person may make a claim, participate, object, vote, or appeal | Keeps standing tied to a particular forum and matter rather than making it an inherent rank. |
 | Government, state, nation, people, and polity | Preserve the exact source category and name, then describe the `punoki` institutions, `karami` authority, `norulo` jurisdiction, membership, and relationships involved | These categories carry distinct histories, identities, legal claims, and contested boundaries that one generic Phi word would erase. |
 | Office title, term, succession, and mandate | Use `sithora` role, exact title, dates or conditions, `kanuwa` authorization, `loatho` delegation, handoff clauses, and the source `kanuro` decision or `nasholu` rule | Keeps the holder, role, authority source, duration, and transfer separately recoverable. |
-| Governance | Describe the institutions, participants, procedures, decisions, authority, implementation, accountability, and review relevant to the case | Prevents one label from treating a complete political arrangement as a single agent or method. |
 | Agenda | Record the ordered proposals, questions, reports, and decisions intended for a meeting, with who may add or change them | Keeps agenda control and omitted matters visible rather than treating the list as neutral. |
 | Quorum and decision threshold | State the participation `kirema` criterion and preserve the exact count, proportion, or rule in a separate source record | Thresholds differ by procedure and do not establish inclusion, representation, or legitimacy. |
 | Majority, minority, and counting method | Use Phi quantifiers and exact counts around `kasira`, while preserving the source counting rule and weights exactly | Avoids importing binary factions or one electoral system into every collective decision. |
@@ -108,9 +119,9 @@ The pass keeps several expressions compositional because their parts expose part
 
 ## Scenario Connections
 
-- [Grain for hunger and seed](../evaluation/philosophical_test_corpus.md#11-grain-for-hunger-and-seed) can now identify a `repora` proposal, `norathu` procedure, `kanuro` provisional decision, any `naweso` consensus or reservation, the `phanuli` allocation, competing `shereni` entitlements, a governing `kirema` criterion, and scheduled `tukiro` review without treating urgency or action as agreement.
+- [Grain for hunger and seed](../evaluation/philosophical_test_corpus.md#11-grain-for-hunger-and-seed) can now place its proposals and procedure inside a continuing `kowanu` arrangement. The provisional `kanuro` decision carries a `phanuli` allocation, while competing entitlements and scheduled review remain visible. Urgency still cannot impersonate agreement.
 - [The marker that was not reported](../evaluation/philosophical_test_corpus.md#12-the-marker-that-was-not-reported) can distinguish `sithora` roles, `naseru` obligations, `lothoni` accountability, `shanewi` notification, `sirami` records, `helolu` redress, and possible `nashaku` enforcement while preserving cause, knowledge, commitment, competence, refusal, repair, and justice as separate questions.
-- [Words before the meeting](../evaluation/philosophical_test_corpus.md#10-words-before-the-meeting) can use membership, representation, notification, procedure, decision, abstention, and appeal vocabulary while keeping receipt, accessible format, understanding, participation, agreement, consent, and proxy authority distinct.
+- [Words before the meeting](../evaluation/philosophical_test_corpus.md#10-words-before-the-meeting) can put a `pashenu` petition beside membership and representation, then follow its notice into procedure. Receipt and accessible format remain their own facts. So do understanding, participation, consent, and proxy authority.
 - [The wheel, the chisel, and the promised repair](../evaluation/philosophical_test_corpus.md#15-the-wheel-the-chisel-and-the-promised-repair) can distinguish `loatho` delegation, `kanuwa` authorization, role obligations, accountability, coercion, and retaliation from method knowledge, competence, bodily capacity, work consent, specification, inspection, and safe return to use.
 - The systems and ecological scenarios can now state who claims `karami` authority over infrastructure, resources, pollution response, monitoring, or restoration; the relevant `norulo` jurisdiction and `phenori` ownership claims; which people were notified or represented; and how decisions, burdens, records, appeals, and redress remain reviewable.
 

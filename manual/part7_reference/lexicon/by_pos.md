@@ -308,7 +308,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (573)
+## noun (574)
 
 | Word | Gloss |
 |---|---|
@@ -400,6 +400,7 @@
 | `korua` | heart |
 | `kosha` | field |
 | `koshira` | grove |
+| `kowanu` | governance |
 | `kowela` | council |
 | `kulai` | tooth |
 | `kuma` | drum |
@@ -990,7 +991,7 @@
 | `theula` | UNIV |
 | `wheli` | ANY |
 
-## verb (355)
+## verb (356)
 
 | Word | Gloss |
 |---|---|
@@ -1129,6 +1130,7 @@
 | `nuola` | eat |
 | `palo` | touch |
 | `panoru` | support |
+| `pashenu` | petition |
 | `pawela` | participate |
 | `peki` | squeeze |
 | `perawi` | expose |

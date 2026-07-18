@@ -8,17 +8,27 @@
     "lu"
   ],
   "pos": "noun",
-  "concept": "Rule / Stated Normative Requirement, Permission, or Prohibition",
-  "description": "A normative requirement, permission, or prohibition, named without importing any one legal tradition. The exact law, bylaw, or custom that gives a rule its force belongs in the source record, since its precise wording is often exactly what a dispute turns on.",
-  "sound_symbolism": "Dental 'na' begins with the steady contact of necessity. Stressed 'sho' changes that nasal enclosure into a broad hush and round 'o'. Liquid 'lu' carries the sound into deep 'u'; together the final two syllables repeat 'sholu' (complete). The contour moves from held contact into shaped breath and settles in a low flow.",
-  "grammatical_notes": "A countable noun: 'ha nasholu ha phoa phelona.' (This rule requires this action.) Preserve exact wording, identifiers, versions, and source categories in a separate source record while the Phi account identifies their rule role. Distinct from 'na' (necessity), 'kisholu' (technical specification), 'norae' (method), custom, law, legitimacy, and 'nashaku' (enforce).",
+  "search_terms": [
+    "norm",
+    "social rule"
+  ],
+  "description": "A 'nasholu' is a stated social requirement, permission, or prohibition. It identifies what conduct a group or institution says should occur without importing one legal tradition. The exact law, bylaw, policy, or custom remains beside the Phi analysis when its wording and force matter.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the sound through the nose, and open into central 'a'. Raise the tongue blade behind the alveolar ridge for unvoiced 'sh' and hold stressed true-mid rounded 'o'. Touch the tongue tip to the alveolar ridge for 'l', let air pass along its sides, and finish on high-back rounded 'u'.",
+  "sound_symbolism": "Dental 'na' opens into the rounded hush of stressed 'sho', then lateral 'lu' carries the breath into a deeper finish. The embedded 'sholu' (complete) offers a mnemonic for a norm presented as a settled form.",
+  "usage_notes": "Each stated rule is countable. Its source, scope, conditions, and exact wording can be supplied around it. 'kisholu' is a technical specification, 'norae' a method, and 'nashaku' the act of enforcing a rule or decision. Satisfying a rule can be stated with 'nasholu heno'.",
+  "examples": [
+    {
+      "phi": "ha nasholu ha phoa phelona.",
+      "translation": "This rule requires this action."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Shared systems need explicit rules whose sources, burdens, ecological effects, and revision paths can be inspected rather than left as invisible custom.",
-    "peace-linguistics-practices": "Naming a rule as a claim about conduct prevents speakers from presenting institutional demands as facts of nature or proof of moral correctness."
+    "solarpunk-values": "Explicit rules let a commons inspect how access, care, burdens, and revision are arranged instead of leaving them to invisible custom.",
+    "peace-linguistics-practices": "Once a rule is named as a social prescription, an institution can no longer pass its demand off as a fact of nature."
   },
   "semantic_domains": {
-    "cognition": "a stated normative prescription with conditions and scope",
-    "community": "a rule claimed to apply within a social process"
+    "cognition": "a stated prescription that can be interpreted and evaluated",
+    "community": "a requirement, permission, or prohibition claimed within a social process"
   },
   "modules": [
     "commons-and-collective-governance"

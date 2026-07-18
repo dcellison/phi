@@ -8,17 +8,27 @@
     "lo"
   ],
   "pos": "noun",
-  "concept": "Jurisdiction / Claimed Scope of Authority",
-  "description": "The reach an authority claims, across people, places, or matters. Two authorities claiming the same ground is the ordinary case here, not an error waiting to be resolved, and a claimed reach is not the same as an actual one.",
-  "sound_symbolism": "'No.ru' begins with a dental nasal enclosure, then rolls the tongue through stressed deep 'u'. The same two syllables also open 'norui' (boundary). Final 'lo' releases that contact and rounds into a wider reach. The contour begins within an edge and flows outward across it.",
-  "grammatical_notes": "A countable or mass noun commonly possessed by an authority or institution: 'ha karami norulo ha luphano pharune.' (This authority's jurisdiction includes the watershed.) State dimensions, source, exceptions, overlap, and contested reach where needed. Distinct from 'norui' (boundary), territory, ownership, technical scope, and an exact legal jurisdiction.",
+  "search_terms": [
+    "scope of authority",
+    "claimed authority range"
+  ],
+  "description": "'norulo' is the scope across which an authority claims power over people, places, times, or matters. Two institutions may claim overlapping jurisdiction, and either claim may be disputed. 'norui' (boundary) marks an edge more generally; jurisdiction names the authority relation drawn around it.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the sound through the nose, and round into true-mid 'o'. Tap or briefly trill the tongue tip before stressed high-back rounded 'u'. Touch the tongue tip to the alveolar ridge for 'l', let air pass along its sides, and finish on true-mid rounded 'o'.",
+  "sound_symbolism": "Dental 'no' rolls into the deep centre of stressed 'ru', the same opening heard in 'norui' (boundary). Final 'lo' releases laterally into another rounded space, as if the edge had acquired a wider reach.",
+  "usage_notes": "Individual jurisdictions are countable; an unbounded discussion may use a mass reading. The authority or institution whose scope is meant usually appears before 'norulo'. Nearby clauses give its source and dimensions. Exact legal jurisdictions retain their source categories, names, and operative boundaries.",
+  "examples": [
+    {
+      "phi": "ha karami norulo ha luphano pharune.",
+      "translation": "This authority's jurisdiction includes the watershed."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Watersheds, infrastructures, and communities cross inherited borders, so jurisdiction must be named as a chosen and contestable governance relation.",
-    "peace-linguistics-practices": "Stating who and what a power claim reaches helps affected people challenge overreach without treating a map, office, or rule as self-authorizing."
+    "solarpunk-values": "Watersheds and shared infrastructure cross administrative edges, so jurisdiction remains a visible and revisable claim rather than a line borrowed silently from a map.",
+    "peace-linguistics-practices": "Naming the reach of authority gives affected people a precise place to question overreach."
   },
   "semantic_domains": {
-    "community": "the claimed social scope of an authority or institution",
-    "spatial": "a jurisdiction may include stated places without being only territorial"
+    "community": "the people or matters included in an authority claim",
+    "spatial": "the places across which an authority claims jurisdiction"
   },
   "modules": [
     "commons-and-collective-governance"

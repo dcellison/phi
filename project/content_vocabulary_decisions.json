@@ -58,7 +58,8 @@
     {"id": "recovered-cross-inventory-prompts", "heading": "Recovered cross-inventory prompts", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MAT-02", "CV-MAT-05", "CV-MAT-06", "CV-MEAS-02", "CV-MEAS-03", "CV-MEAS-04", "CV-MEAS-05", "CV-SENS-01", "CV-AEST-03", "CV-SHAPE-01", "CV-SHAPE-02", "CV-CONFLICT-01", "CV-AFFECT-02", "CV-CLEAN-01", "CV-LOSE-01", "CV-INTAKE-01", "CV-AIM-01", "CV-SWELL-01", "CV-COVER-01", "CV-BODY-07", "CV-ANIMAL-01", "CV-WRITE-01", "CV-FOOD-01", "CV-FOOD-02", "CV-MEET-01", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ECON-01", "CV-MED-SENSITIVE-01"]},
     {"id": "philosophical-reasoning-module-prose", "heading": "Philosophical Reasoning module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-PHIL-01", "CV-PHIL-02", "CV-PHIL-03", "CV-PHIL-04", "CV-PHIL-05", "CV-PHIL-06", "CV-PHIL-07", "CV-PHIL-08", "CV-PHIL-09", "CV-LOGIC-01", "CV-EPIST-01", "CV-EPIST-02"]},
     {"id": "systems-shared-infrastructure-module-prose", "heading": "Systems and Shared Infrastructure module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-01", "CV-MEAS-05", "CV-PHIL-01", "CV-SYSTEMS-02", "CV-ENERGY-01", "CV-ENERGY-02", "CV-ENERGY-03", "CV-ENERGY-04", "CV-SYSTEMS-03", "CV-SYSTEMS-04", "CV-SYSTEMS-05", "CV-SYSTEMS-06", "CV-SYSTEMS-07", "CV-SYSTEMS-08", "CV-SYSTEMS-09", "CV-NET-02"]},
-    {"id": "ecological-systems-material-life-module-prose", "heading": "Ecological Systems and Material Life module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-01", "CV-MEAS-05", "CV-WATER-02", "CV-SKY-02", "CV-LAND-03", "CV-SKY-03", "CV-ECO-01", "CV-ECO-02", "CV-ECO-03", "CV-ECO-04", "CV-ECO-05", "CV-ECO-06", "CV-ECO-07", "CV-ECO-08", "CV-ECO-09"]}
+    {"id": "ecological-systems-material-life-module-prose", "heading": "Ecological Systems and Material Life module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-01", "CV-MEAS-05", "CV-WATER-02", "CV-SKY-02", "CV-LAND-03", "CV-SKY-03", "CV-ECO-01", "CV-ECO-02", "CV-ECO-03", "CV-ECO-04", "CV-ECO-05", "CV-ECO-06", "CV-ECO-07", "CV-ECO-08", "CV-ECO-09"]},
+    {"id": "commons-collective-governance-module-prose", "heading": "Commons and Collective Governance module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-ACCESS-01", "CV-PHIL-09", "CV-ECON-01", "CV-JUST-01", "CV-RESOURCE-01", "CV-ROLE-01", "CV-SECRET-01", "CV-SYSTEMS-09", "CV-ECO-08", "CV-COMMONS-01", "CV-COMMONS-02", "CV-COMMONS-03", "CV-COMMONS-04", "CV-COMMONS-05", "CV-COMMONS-06", "CV-COMMONS-07", "CV-COMMONS-08", "CV-COMMONS-09", "CV-COMMONS-10", "CV-COMMONS-11"]}
   ],
   "candidates": [
     {
@@ -293,7 +294,7 @@
       "placement": "Accessibility plus exact source material",
       "summary": "Phi can describe the practical access relation but cannot silently inherit a jurisdiction's legal test.",
       "source_rule": "Keep the standard, measurement, decision, and legal category in their exact source form; use Phi for the access conditions and effects around them.",
-      "batches": ["access-perception-and-independent-participation"]
+      "batches": ["access-perception-and-independent-participation", "commons-collective-governance-module-prose"]
     },
     {
       "id": "CV-SYS-01",
@@ -437,7 +438,7 @@
       "placement": "base agency vocabulary with Commons and Work",
       "summary": "`thonai` names responsibility for an act or role, `lothoni` names answerability before affected people or an agreed process, and `naseru` states obligation. Cause, authority, awareness, choice, and effect remain available as separate claims when responsibility is divided or disputed.",
       "expressions": ["thonai", "lothoni", "naseru", "ka", "thueli"],
-      "batches": ["philosophical-reasoning-module-prose"]
+      "batches": ["philosophical-reasoning-module-prose", "commons-collective-governance-module-prose"]
     },
     {
       "id": "CV-LOGIC-01",
@@ -464,7 +465,7 @@
       "placement": "no Phi lexical roots; exact source records remain available beside a Phi account",
       "summary": "The later canon decision places the clock, ruler, and price tag under the same refusal. Exchange, giving, receiving, sharing, obligation, extraction, and livelihood keep their own non-monetary relations.",
       "decision": "Phi has no monetary roots or internal monetary accounting. Exact economic records remain in their source form when people need to discuss them.",
-      "batches": ["reason-belief-ritual-and-value", "recovered-cross-inventory-prompts"]
+      "batches": ["reason-belief-ritual-and-value", "recovered-cross-inventory-prompts", "commons-collective-governance-module-prose"]
     },
     {
       "id": "CV-REASON-01",
@@ -554,7 +555,7 @@
       "placement": "Commons vocabulary beside exact legal source material",
       "summary": "Phi can discuss fairness, authority, accountability, redress, review, jurisdiction, and normative rights. The legal wording and status that decide what a document or institution actually recognises must remain exact.",
       "source_rule": "Statutes, legal rights and offences, remedies, judgments, and contracts remain in their source form. Jurisdiction, filing status, deadline, and procedure name do the same. Phi discusses the source and interpretation, then the effect and consequences for the people involved.",
-      "batches": ["reason-belief-ritual-and-value"]
+      "batches": ["reason-belief-ritual-and-value", "commons-collective-governance-module-prose"]
     },
     {
       "id": "CV-VALUE-01",
@@ -1382,7 +1383,7 @@
       "placement": "base resource vocabulary with established module terms",
       "summary": "`panuri` treats something as available for a purpose, `muralo` names matter in use, `sephori` the act of supply, `muphera` an available stock, `laenu` a commons and its governance, and `whemori` a waste classification. Access, authority, ownership, condition, and worth remain separate claims.",
       "expressions": ["panuri", "muralo", "sephori", "muphera", "laenu", "whemori", "rolia"],
-      "batches": ["roles-places-relations-and-remaining-concrete-nouns"]
+      "batches": ["roles-places-relations-and-remaining-concrete-nouns", "commons-collective-governance-module-prose"]
     },
     {
       "id": "CV-SACRED-01",
@@ -1409,7 +1410,7 @@
       "placement": "source institution, profession, lineage, or community beside an ordinary Phi role description",
       "summary": "`menua`, `woru`, `phewo`, and `thonua` name broad roles without importing licence, rank, jurisdiction, lineage, or authority. Phi can describe the person's actual guidance, keeping, inquiry, or practice around the exact title.",
       "source_rule": "Professional titles, licences, appointments, ranks, credentials, affiliations, lineage roles, traditional honorifics, duties, and jurisdictions retain their source form. An accepted Phi-form onym may accompany a personal name but does not alter the role record.",
-      "batches": ["roles-places-relations-and-remaining-concrete-nouns"]
+      "batches": ["roles-places-relations-and-remaining-concrete-nouns", "commons-collective-governance-module-prose"]
     },
     {
       "id": "CV-SECRET-01",
@@ -1418,7 +1419,7 @@
       "placement": "the access, security, legal, or institutional source that gives the information effect",
       "summary": "`kupela` names deliberately withheld information, `mirewu` a chosen access limit, `kupe` concealment, and `sirelu` disclosure. None of them reproduces a credential or proves the legal and technical effect of a classification.",
       "source_rule": "Classification labels, access rules, record identifiers, and legal protections retain their source form. Passwords, keys, tokens, and other secret credentials stay outside Phi prose and examples; Phi can discuss their holder, access boundary, loss, or disclosure without exposing their contents.",
-      "batches": ["roles-places-relations-and-remaining-concrete-nouns"]
+      "batches": ["roles-places-relations-and-remaining-concrete-nouns", "commons-collective-governance-module-prose"]
     },
     {
       "id": "CV-THING-01",
@@ -1526,7 +1527,7 @@
       "placement": "Systems expressions with Commons where governance matters",
       "summary": "Community-support system names infrastructure, support function identifies a service, and an electricity-transfer network identifies a grid. Commons vocabulary carries the social relations around each one.",
       "expressions": ["sila panoru terura", "panoru kelitho", "thewaki sekaru phaliso"],
-      "batches": ["systems-shared-infrastructure-module-prose"]
+      "batches": ["systems-shared-infrastructure-module-prose", "commons-collective-governance-module-prose"]
     },
     {
       "id": "CV-ECO-01",
@@ -1598,7 +1599,7 @@
       "placement": "Ecological, Commons, and Philosophical relations",
       "summary": "Precaution begins with possible hazard and uncertainty. It also states the protective action, its burden, room for refusal, and review. Commons terms carry authority and jurisdiction as well as entitlement and obligation. Accountability and redress keep environmental justice open without letting an ecological label settle legitimacy.",
       "expressions": ["pemaru", "karami", "norulo", "shereni", "naseru", "lothoni", "helolu"],
-      "batches": ["ecological-systems-material-life-module-prose"]
+      "batches": ["ecological-systems-material-life-module-prose", "commons-collective-governance-module-prose"]
     },
     {
       "id": "CV-ECO-09",
@@ -1608,6 +1609,105 @@
       "summary": "Phi can name the ecological relation around an exact record and question how the record is used. Identity, method, and notation stay with the source. Provenance, authority, and restriction remain there because they make the claim recoverable.",
       "source_rule": "Species and taxonomic names retain source form and attribution, as do chemical identities. Measurements keep their values, units, and methods; sites and samples keep identifiers and dates. Datasets, model identities, equations, and standards remain exact. Legal categories and knowledge-tradition terms stay with the sources that establish their authority, provenance, or restriction. A core or module paraphrase does not replace them when identity or contested history matters.",
       "batches": ["ecological-systems-material-life-module-prose"]
+    },
+    {
+      "id": "CV-COMMONS-01",
+      "concept": "governance as a continuing collective arrangement",
+      "status": "implemented",
+      "placement": "Commons and Collective Governance learning path",
+      "summary": "`kowanu` names the continuing arrangement through which a group makes collective decisions, carries them into practice, and reviews them. It keeps governance available as a subject of discussion without turning one council or institution into the whole arrangement.",
+      "implementation": {"words": ["kowanu"], "files": ["vocabulary/content/governance.json"]},
+      "batches": ["commons-collective-governance-module-prose"]
+    },
+    {
+      "id": "CV-COMMONS-02",
+      "concept": "petition as a formal request directed to a person or institution",
+      "status": "implemented",
+      "placement": "Commons and Collective Governance learning path",
+      "summary": "`pashenu` gives one person or a group a direct nonviolent action for presenting a formal request. The word stays apart from proposing an action for collective decision and appealing an earlier decision; exact wording and signatures remain with the petition record.",
+      "implementation": {"words": ["pashenu"], "files": ["vocabulary/content/petition.json"]},
+      "batches": ["commons-collective-governance-module-prose"]
+    },
+    {
+      "id": "CV-COMMONS-03",
+      "concept": "affected party, constituency, and procedural standing",
+      "status": "compositional",
+      "placement": "Commons clauses naming effect, representation, and criteria",
+      "summary": "A person becomes affected through the concrete action or burden that reaches them, not through institutional recognition. A constituency follows the people and matter a representation claim covers. Standing follows the criterion for taking part in one procedure. Those visible relations prevent any one label from silently granting or removing voice.",
+      "expressions": ["ka", "peloma", "shalori", "wemari", "kirema", "pawela"],
+      "batches": ["commons-collective-governance-module-prose"]
+    },
+    {
+      "id": "CV-COMMONS-04",
+      "concept": "residence, citizenship, offices, mandates, polities, governments, nations, democracy, and sovereignty",
+      "status": "source-bound",
+      "placement": "political or community source beside a Commons analysis",
+      "summary": "Phi can describe dwelling, membership, roles, institutions, authority, jurisdiction, representation, and decision procedure. The named political category remains with its source because it carries a history and a claim about who belongs or may act.",
+      "source_rule": "Residence and citizenship statuses retain their official or community form. Office titles and mandates do the same, together with terms, succession rules, or appointment records. Names for governments, states, nations, and peoples remain exact. So do polities, democracies, and sovereignty when identity, authority, or contested history depends on the category.",
+      "batches": ["commons-collective-governance-module-prose"]
+    },
+    {
+      "id": "CV-COMMONS-05",
+      "concept": "agenda, quorum, decision threshold, majority, minority, election, and referendum",
+      "status": "compositional",
+      "placement": "meeting records, criteria, counts, votes, and decisions",
+      "summary": "An agenda is the ordered record of matters intended for a meeting. A quorum or threshold joins a participation criterion to an exact count or rule. Quantifiers and source counts describe majority or minority results, while an election or referendum is a stated vote procedure and its resulting decision. The parts leave inclusion and weighting open to examination.",
+      "expressions": ["sirami", "repora", "kirema", "kasira", "kanuro", "theula", "shelami", "soli"],
+      "batches": ["commons-collective-governance-module-prose"]
+    },
+    {
+      "id": "CV-COMMONS-06",
+      "concept": "laws, constitutions, policies, bylaws, regulations, treaties, contracts, and customary rules",
+      "status": "source-bound",
+      "placement": "exact legal, political, or community source beside generic `nasholu` rule analysis",
+      "summary": "`nasholu` identifies the generic role of a social rule. The source category and wording stay exact because they determine parties, jurisdiction, interpretation, and force. A Phi paraphrase can discuss the rule without replacing the artifact people are relying on or contesting.",
+      "source_rule": "The source keeps its category, title, identifier, and version together. Its operative wording stays with the parties and issuing authority. Constitutions, laws, policies, and bylaws remain outside Phi syntax when identity or force matters; regulations, treaties, contracts, and customary rules follow the same boundary.",
+      "batches": ["commons-collective-governance-module-prose"]
+    },
+    {
+      "id": "CV-COMMONS-07",
+      "concept": "public status, transparency, confidentiality, publication, and access to records",
+      "status": "compositional",
+      "placement": "Commons and Accessibility information relations",
+      "summary": "Disclosure and notice answer different questions, as do records and secrecy. Privacy concerns the people involved; practical access concerns whether they can inspect and use the material. Publication names actual distribution rather than presumed availability. Exact confidentiality and public-record rules retain their source wording.",
+      "expressions": ["sirelu", "shanewi", "sirami", "kupela", "mirewu", "ruweli", "pharune", "pharomu"],
+      "batches": ["commons-collective-governance-module-prose"]
+    },
+    {
+      "id": "CV-COMMONS-08",
+      "concept": "implementation, compliance, violation, repeal, revocation, and replacement",
+      "status": "compositional",
+      "placement": "Commons action, rule, cessation, change, and record clauses",
+      "summary": "Implementation is the concrete action that follows a decision. `nasholu heno` states compliance, and its negation states that a rule is unsatisfied without adding guilt or harm. Repeal and revocation end applicability under stated authority and time; replacement adds the matter that follows. `helaki` remains the narrower amendment of something that continues.",
+      "expressions": ["phoa", "nasholu heno", "te", "helaki", "sirami"],
+      "batches": ["commons-collective-governance-module-prose"]
+    },
+    {
+      "id": "CV-COMMONS-09",
+      "concept": "investigation, finding, sanction, penalty, punishment, and enforcement method",
+      "status": "source-bound",
+      "placement": "exact institutional or legal source beside inquiry, evidence, enforcement, harm, and review clauses",
+      "summary": "Phi can separate inquiry from evidence and a recorded conclusion. It can name enforcement or exclusion and then describe coercion, material transfer, or harm. Review remains another act. The formal finding or consequence keeps its source category so the analysis does not invent a universal vocabulary of punishment.",
+      "source_rule": "Investigation names and formal findings retain their exact source form. The same holds for legal status, sanction, penalty, and punishment categories. Enforcement methods, orders, and judgments remain with that record. Phi describes who acted and under what claimed authority, then what happened to the affected person and which appeal or redress remains available.",
+      "batches": ["commons-collective-governance-module-prose"]
+    },
+    {
+      "id": "CV-COMMONS-10",
+      "concept": "corruption, institutional capture, domination, and abuse of office",
+      "status": "compositional",
+      "placement": "Commons power, benefit, harm, and accountability relations",
+      "summary": "Role and authority identify the entrusted position. Deception or disproportionate benefit can show how it is used; exclusion, coercion, or retaliation shows who bears the effect. Concealed accountability belongs in the same account. These clauses make institutional harm criticisable without one moral label hiding its mechanism, while an exact source framework can remain beside them.",
+      "expressions": ["sithora", "karami", "peshu", "pilora", "pharomu", "kawhera", "whepelo", "lothoni"],
+      "batches": ["commons-collective-governance-module-prose"]
+    },
+    {
+      "id": "CV-COMMONS-11",
+      "concept": "cooperatives, federations, unions, mutual aid, public protest, strikes, and civil disobedience",
+      "status": "source-bound",
+      "placement": "exact institutional or movement tradition beside collective Phi action",
+      "summary": "Phi can describe cooperation and alliance, shared institutions and resources, or advocacy and objection. Collective refusal and work that ceases remain direct acts. These relations support nonviolent collective action without pretending that one generic label exhausts the history or commitments of a cooperative, union, protest, strike, or civil-disobedience tradition.",
+      "source_rule": "Named institutional forms and movement identities retain their own names and attributed meanings. Organising traditions, protest forms, labour actions, and declarations stay with them. Community-specific mutual aid keeps its source as well. Phi can describe participants and purpose, the action and claimed authority, then risk, refusal, or response around them.",
+      "batches": ["commons-collective-governance-module-prose"]
     }
   ],
   "prompt_sources": [

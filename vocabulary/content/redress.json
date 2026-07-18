@@ -8,17 +8,27 @@
     "lu"
   ],
   "pos": "verb",
-  "concept": "Redress / Respond to Institutional or Social Harm",
-  "description": "To act in response to institutional or social harm, through acknowledgment, restoration, or another stated response. Redress does not need to erase the original loss to count as real; it is a response, not an undoing.",
-  "sound_symbolism": "Light 'he' moves into stressed liquid 'lo'. The first two syllables repeat the opening of 'heloa' (remedy). The tongue stays in liquid motion for final 'lu' while the vowel deepens from round 'o' into 'u'. The contour flows onward and gathers depth as it goes.",
-  "grammatical_notes": "A transitive verb with the responding agent as subject and the harm, loss, or denied relation as object: 'ha punoki ha peloma helolu.' (The institution redresses this harm.) State affected parties, requested response, source, limits, and remaining loss. The event-noun rule supplies redress. Distinct from 'heloa' (remedy), 'shiroka' (repair), 'talome' (restore), 'warosha' (reconcile), forgiveness, punishment, and justice achieved.",
+  "search_terms": [
+    "institutional remedy",
+    "address a social harm"
+  ],
+  "description": "To 'helolu' is to act to address a social or institutional harm and its continuing effects. Redress may restore something material, change a procedure, or acknowledge what the affected people say was lost. A 'heloa' (remedy) is the measure offered; 'helolu' answers the harm through it.",
+  "articulatory_notes": "Open the glottis for 'h' and release into true-mid front 'e'. Touch the tongue tip to the alveolar ridge for 'l', let air pass along its sides, and hold stressed true-mid rounded 'o'. Keep the lateral contact for final 'lu' while raising the back of the tongue into high-back rounded 'u'.",
+  "sound_symbolism": "Light 'he' moves into stressed lateral 'lo' and repeats the opening of 'heloa' (remedy). The tongue remains in lateral flow for final 'lu' as the vowel deepens. The response seems to continue beyond its first act.",
+  "usage_notes": "The responding person or institution takes subject position. A harm, loss, or denied relation can follow as object, with the affected people and requested remedy nearby. The unchanged event noun refers to redress. Reconciliation and forgiveness remain choices within relationships rather than results the responding institution can declare for others.",
+  "examples": [
+    {
+      "phi": "ha punoki ha peloma helolu.",
+      "translation": "The institution redresses this harm."
+    }
+  ],
   "pillars": {
-    "solarpunk-values": "Regenerative institutions must address displaced burdens, exclusion, ecological loss, and broken commitments rather than limiting repair to physical infrastructure.",
-    "peace-linguistics-practices": "Redress keeps acknowledgment, affected-person needs, material response, institutional change, reconciliation, and forgiveness from being collapsed into one imposed resolution."
+    "solarpunk-values": "A regenerative institution addresses displaced burdens and exclusion as seriously as broken physical infrastructure.",
+    "peace-linguistics-practices": "Redress keeps the affected person's account central without allowing an institution to declare reconciliation or forgiveness on their behalf."
   },
   "semantic_domains": {
-    "activity": "acting to address a stated institutional or social harm",
-    "community": "redress shaped by affected parties and remaining loss"
+    "activity": "acting to address a social harm and its continuing effects",
+    "community": "an institutional response shaped by affected people and the loss they identify"
   },
   "modules": [
     "accessibility-and-participation",

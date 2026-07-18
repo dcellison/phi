@@ -7,17 +7,26 @@
     "thu"
   ],
   "pos": "noun",
-  "concept": "Seal / Authentication Mark / To Stamp Official",
-  "description": "A device for stamping an authenticating mark; to close or authenticate. 'Kathu' names what confirms—the mark that proves authenticity or closure.",
-  "sound_symbolism": "The word stamps with authority. 'Ka' strikes with velar decisiveness, the firm press of seal against surface. Then 'thu' holds with dental permanence, the impression set and enduring. Two syllables, two actions: press and hold. The word feels as definitive as the act it names.",
-  "grammatical_notes": "Noun: 'kathu' (the seal) - authentication, closing letters, official marks. The seal acts through its bearer's hand: 'roe kathu' (with the seal) plus the deed's verb.",
+  "search_terms": [
+    "authenticating mark",
+    "sealing device"
+  ],
+  "description": "A 'kathu' is a mark or device used to show authentication or closure. A wax impression on a record and a fitted seal on a vessel both belong here. The source and practice around the mark decide what it authenticates; the noun alone proves nothing about the record beneath it.",
+  "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into stressed central 'a'. Place the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and finish with high-back rounded 'u'.",
+  "sound_symbolism": "The velar closure of 'ka' releases broadly before 'thu' narrows the air at the teeth and rounds the mouth. The short movement from firm contact to contained breath can recall a mark pressed down and left in place.",
+  "usage_notes": "The noun can name the authenticating impression or the device that makes it. An instrument phrase with 'roe' places the seal beside the verb describing what someone does. Exact official marks, signatures, issuing roles, and authentication procedures remain with their source records.",
+  "examples": [
+    {
+      "phi": "ha sirami kathu phelu.",
+      "translation": "This record has a seal."
+    }
+  ],
   "pillars": {
-    "secular-buddhist-philosophy": "Authenticity as practice—the seal represents integrity, being true to one's word.",
-    "pre-industrial-wisdom": "Seals confirmed identity—the personal mark that authenticated documents across distance."
+    "pre-industrial-wisdom": "A carved or impressed mark let a known hand authenticate a container or document across distance, though trust still depended on the people and practice around it."
   },
   "semantic_domains": {
-    "creation": "Authentication mark",
-    "wisdom": "Confirmation"
+    "communication": "an authenticating mark attached to a record or message",
+    "creation": "a made mark or device used for authentication or closure"
   },
   "modules": [
     "commons-and-collective-governance"

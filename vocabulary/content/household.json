@@ -8,10 +8,20 @@
     "ri"
   ],
   "pos": "noun",
-  "concept": "Household / Person or Group Sharing Domestic Life",
+  "search_terms": [
+    "domestic unit",
+    "people sharing a home"
+  ],
   "description": "A person or group who shares the keeping of a dwelling and its daily arrangements over time. A person living alone can be a household. Relatives in different homes need not be one. 'womu' (home) is the place of dwelling and belonging, while 'womuri' identifies the domestic unit that keeps life there.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', then move into true-mid rounded 'o'. Close the lips for 'm', carry voicing through the nose, and hold stressed high-back rounded 'u'. Tap or briefly trill the tongue tip before final high-front 'i'.",
   "sound_symbolism": "Rounded 'wo' enters the stressed lip closure and deep nasal vowel of 'mu'. The rounded opening is 'womu' (home) heard intact. Final 'ri' releases the mouth with a quick tongue tap and bright 'i'.",
-  "grammatical_notes": "A countable noun: 'lo mia womuri nai.' (We are a household.) A preceding dwelling or member marks possession. Distinct from 'lumani' (family), which names a family relation, and 'sila' (community), whose life need not center on one dwelling.",
+  "usage_notes": "Each household may be counted, and a preceding dwelling or member can mark possession. 'lumani' names a family relation, while 'sila' names a community whose life need not centre on one dwelling. Governance vocabulary becomes relevant when several households share resources or make decisions together.",
+  "examples": [
+    {
+      "phi": "lo mia womuri nai.",
+      "translation": "We are a household."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "A household shares heat, tools, food, and care at the scale where daily use is easiest to see and change.",
     "peace-linguistics-practices": "The word lets speakers describe who shares domestic life while kinship, ownership, and harmony wait for their own claims."

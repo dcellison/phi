@@ -8,10 +8,20 @@
     "ri"
   ],
   "pos": "verb",
-  "concept": "Advocate / Speak or Act in Support of a Stated Position or Person",
+  "search_terms": [
+    "speak in support",
+    "support a cause"
+  ],
   "description": "To speak or act in support of a stated position, change, cause, or person's expressed interests. A person may advocate for themselves, and support from another advocate can follow their direction without replacing their voice. 'shalori' (represent) carries someone else's position under a claimed mandate; 'shaweri' can press for a position without holding that authority.",
+  "articulatory_notes": "Raise the tongue blade behind the alveolar ridge for unvoiced 'sh' and release into central 'a'. Round the lips for voiced 'w', then move forward and unround into stressed true-mid 'e'. Tap or briefly trill the tongue tip before final high-front 'i'.",
   "sound_symbolism": "A broad hush opens 'sha'. Stressed 'we' gathers that breath at rounded lips and glides into balanced 'e'. Final 'ri' brings the tongue forward for a quick tap and bright 'i'. Spread air passes through a smooth center and leaves in one clear outward flick.",
-  "grammatical_notes": "An intransitive or dative-taking verb: 'mia wei thia shaweri.' (I advocate for you.) The supported position may appear as an object or complement clause. The event-noun rule supplies advocacy, while the acting person remains 'miona' with a stated role where one exists.",
+  "usage_notes": "The verb may stand intransitively or take the supported person with 'wei'. A position can appear as an object or complement clause. Nominal use gives advocacy. 'shalori' (represent) claims standing to act for another party; advocacy can support a position without that authority.",
+  "examples": [
+    {
+      "phi": "mia wei thia shaweri.",
+      "translation": "I advocate for you."
+    }
+  ],
   "pillars": {
     "solarpunk-values": "Shared institutions change when people can press together for access, repair, and participation rather than waiting for those in authority to notice every barrier.",
     "peace-linguistics-practices": "Advocacy can add force and company to a person's stated need without claiming the right to rewrite it or decide in their place."

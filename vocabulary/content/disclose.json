@@ -8,10 +8,20 @@
     "lu"
   ],
   "pos": "verb",
-  "concept": "Disclose / Make Previously Bounded Information Known",
+  "search_terms": [
+    "reveal information",
+    "make known"
+  ],
   "description": "To make information known beyond the person or boundary that previously held it. Disclosure can be chosen, requested, compelled, accidental, or unauthorized, with each condition stated separately. 'shane' (tell) carries an account to a listener; 'sirelu' turns on the change in who may now know it.",
+  "articulatory_notes": "Form a narrow groove along the tongue for unvoiced 's' and continue into high-front 'i'. Tap or briefly trill the tongue tip before stressed true-mid front 'e'. Touch the tongue tip to the alveolar ridge for 'l', let air pass along its sides, and finish on high-back rounded 'u'.",
   "sound_symbolism": "Narrow 'si' starts as a bright hiss. Stressed 're' interrupts that stream with a tongue roll and balanced 'e'. Final 'lu' releases into a low liquid and deep 'u'. Across the word, fine air becomes movement and then a broader flowing resonance.",
-  "grammatical_notes": "A transitive verb: 'mia ha sirami sirelu.' (I disclose this record.) The recipient may take 'wei', while the source, scope, consent, and authority remain separate relations. The event-noun rule supplies disclosure.",
+  "usage_notes": "A transitive clause places the disclosing person before the information; a recipient may take 'wei'. The same word names disclosure when used nominally. Source, consent, and authority remain separate relations. 'shanewi' (notify) formally directs information to a recipient, while disclosure turns on the information crossing its prior boundary.",
+  "examples": [
+    {
+      "phi": "mia ha sirami sirelu.",
+      "translation": "I disclose this record."
+    }
+  ],
   "pillars": {
     "secular-buddhist-philosophy": "Speech changes a secret's conditions once another person receives it. Careful attention belongs before that change, because regret cannot call the words back.",
     "peace-linguistics-practices": "A person can discuss whether disability, health, or access information crossed a boundary without treating the request for support as permission to reveal it."
