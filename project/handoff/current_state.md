@@ -6,11 +6,11 @@ This snapshot was first assembled after pull request #418 merged on 17 July 2026
 
 The roadmap's current sequence is not an invitation to choose among several equal tasks. It records one active path:
 
-1. SEM-09D: inspect active Phi passages now that the base queue is zero.
-2. SEM-09C: migrate 209 legacy module entries.
+1. SEM-09C: migrate 209 legacy module entries.
+2. SEM-09D: inspect active Phi passages after the whole lexicon is target-shaped.
 3. PED-08: resume the book at chapter 7.
 
-Do not jump into module prose before the post-base corpus sweep is complete. A previous batch briefly crossed the base-first boundary; the maintainer corrected it, and D044 has now completed that base work.
+Do not begin SEM-09D before the module queue reaches zero. The maintainer has prioritised one continuous vocabulary-prose sequence so the remaining entries retain the same editorial judgement and voice. D044 completed the base-first boundary; SEM-09C now completes the lexicon.
 
 ## Lexicon migration counts
 
@@ -72,7 +72,7 @@ Phi has eight established vocabulary modules, one grammar, 246 optional roots, a
 | Ecological Systems and Material Life | 46 | 42 |
 | Work, Craft, and Repair | 65 | 51 |
 
-The legacy counts overlap because a shared word appears once in the 209-entry queue but contributes to each module it belongs to. Preserve the complete `modules` array when an entry is migrated. When SEM-09C begins, the historical creation order is a useful default: Philosophical Reasoning; Systems and Shared Infrastructure; Ecological Systems and Material Life; Commons and Collective Governance; Household and Daily Life; Medical and Bodily Care; Accessibility and Participation; Work, Craft, and Repair. Confirm the order with Daniel before the first module PR if the sequence matters to him then.
+The legacy counts overlap because a shared word appears once in the 209-entry queue but contributes to each module it belongs to. Preserve the complete `modules` array when an entry is migrated. SEM-09C is active. Its useful default is the historical creation order: Philosophical Reasoning; Systems and Shared Infrastructure; Ecological Systems and Material Life; Commons and Collective Governance; Household and Daily Life; Medical and Bodily Care; Accessibility and Participation; Work, Craft, and Repair.
 
 All eight profiles already have canonical JSON membership, a generated module index, and a speaker-facing Part VII chapter. No ninth profile is proposed. [`documents/modules/potential_profile_explorations.md`](../../documents/modules/potential_profile_explorations.md) holds conditional possibilities without making them active work.
 
@@ -80,7 +80,7 @@ All eight profiles already have canonical JSON membership, a generated module in
 
 The literary shelf has completed its full review against the current lexicon. It contains nine close translations and eleven transmutations; seven works have both. *News from Nowhere* is one 32-chapter work with the first three chapters transmuted and reviewed. The current review record is [`documents/evaluation/active_text_corpus_review.md`](../../documents/evaluation/active_text_corpus_review.md).
 
-SEM-09D is now active. It is not a blind replacement pass. The sweep covers the book, manual, primer, pamphlets, texts, and current documents for paraphrases or workarounds involving words coined during the base expansion. A Phi passage changes only when the newer form is more faithful or natural in that passage. A transparent composition stays when its parts still teach or express the thought better, and every changed sentence and dependency receives validation.
+SEM-09D waits until all 209 legacy module entries are target-shaped. When it begins, it will not be a blind replacement pass. The sweep will cover the book, manual, primer, pamphlets, texts, and current documents for paraphrases or workarounds involving vocabulary added or clarified during the completed migration. A Phi passage will change only when the current form is more faithful or natural in that passage. A transparent composition will stay when its parts still teach or express the thought better, and every changed sentence and dependency will receive validation.
 
 The shelf's method distinction remains settled:
 
@@ -105,7 +105,7 @@ The book has eight drafted files: the cold open, chapters 1 through 6, and chapt
 
 The treatment aims for 4,000 to 6,000 words per chapter and 70,000 to 90,000 words overall, but Daniel chose to continue rather than pad early chapters merely to meet a projection. Do not silently lengthen merged chapters. A later structural edit can decide where depth is genuinely missing.
 
-The next planned draft is chapter 7, "A literature before a community." It comes after SEM-09D and SEM-09C. Read [`book/treatment.md`](../../book/treatment.md), chapter 6, and several neighbouring finished chapters before drafting. Each chapter is its own PR. Audit every external citation after the draft, repair the prose from the audit, preserve the consistent `Phi sources` subsection, and use restrained Jerome humour where it fits.
+The next planned draft is chapter 7, "A literature before a community." It comes after SEM-09C and the subsequent SEM-09D retrofit. Read [`book/treatment.md`](../../book/treatment.md), chapter 6, and several neighbouring finished chapters before drafting. Each chapter is its own PR. Audit every external citation after the draft, repair the prose from the audit, preserve the consistent `Phi sources` subsection, and use restrained Jerome humour where it fits.
 
 The leading book title remains *A Language You Cannot Hurry*. *Announce, Then Deliver* is the alternate. The title is open. "Hurry" must continue to mean attention discarded under pressure, not fast speech.
 
@@ -120,7 +120,7 @@ Citation work performed in earlier conversations is not preserved as a complete 
 | Native glyph mode | Parked | Daniel chooses to resume exploration of Phi's one intended native script. |
 | Spoken source material and code-switching | Open design question | Live conversational examples make the current outside-syntax boundary inadequate. Do not reintroduce guest or exact frames. |
 | Sexual and reproductive anatomy | Queued scenario-led vocabulary effort | Begin as its own respectful corpus and vocabulary project, not as an unnoticed extension of Medical vocabulary. |
-| Legacy vocabulary prose audit | Active | Complete the post-base corpus retrofit and 209 module entries; the base queue reached zero in D044. |
+| Legacy vocabulary prose audit | Active | Complete the 209 module entries, then the active-corpus retrofit; the base queue reached zero in D044. |
 | Lexical relations between content words | Parked | The explorer or project needs curated related-word navigation strongly enough to add and maintain a schema field. |
 | Tengwar renderer verification | Parked | Tengwar work resumes or approaches publication status. |
 | Solarpunk community engagement | Open strategic question | Daniel is ready to offer Phi outside its repository and decide what a healthy invitation looks like. |

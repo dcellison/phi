@@ -253,9 +253,9 @@ Zero errors and zero warnings is the vocabulary bar. The neighbour baseline shou
 
 After staging the intended files, rerun all generators and use `git diff --exit-code` to prove they produced no unstaged drift. Then run `git diff --cached --check` and inspect the staged file list. Do not commit unrelated tracked or untracked work.
 
-## The post-base corpus retrofit
+## The post-migration corpus retrofit
 
-When the coverage report reaches zero legacy base entries, begin SEM-09D before module migration.
+After the coverage report reaches zero legacy base entries, complete the module migration under SEM-09C. Begin SEM-09D only when the report shows zero legacy entries across the whole lexicon.
 
 Build a list of base roots coined or materially narrowed during the coverage work. Search active prose and Phi passages in `book/`, `manual/`, `primer/`, `pamphlets/`, `texts/`, `documents/`, `kia.md`, `short_road.md`, and current root documentation. Ignore `archive/`.
 

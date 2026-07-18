@@ -24,11 +24,11 @@ SEM-09B is complete. D044 migrated Roles, places, relations, and remaining concr
 
 The execution order is fixed in the roadmap:
 
-1. Sweep active Phi passages for old workarounds that newly coined base vocabulary can improve.
-2. Migrate the 209 module entries while preserving every established module membership.
+1. Migrate the 209 module entries while preserving every established module membership and the established editorial voice.
+2. Sweep active Phi passages for old workarounds that the completed vocabulary can improve.
 3. Return to the Phi book with chapter 7, "A literature before a community."
 
-The immediate task is SEM-09D, the post-base active-corpus retrofit described in [`current_state.md`](current_state.md). It is a contextual review rather than a global replacement: retain a transparent composition when it still teaches or expresses the thought better, and change a passage only when a newer base word is more faithful or natural there.
+The immediate task is SEM-09C, the remaining module content-prose migration described in [`current_state.md`](current_state.md). The maintainer has deliberately kept these 209 entries in the current editorial sequence so the completed lexicon reads as though one person made it. SEM-09D waits until every entry is target-shaped.
 
 ## The maintainer's working contract
 
@@ -58,7 +58,7 @@ The following habits came from direct maintainer corrections. Treat them as stan
 
 | File | What it contains |
 |---|---|
-| [`current_state.md`](current_state.md) | Counts, latest decisions, the active corpus-retrofit task, module state, corpus state, book state, and parked work. |
+| [`current_state.md`](current_state.md) | Counts, latest decisions, the active module-migration task, corpus state, book state, and parked work. |
 | [`vocabulary_migration.md`](vocabulary_migration.md) | The full batch method, prose contract, decision register, coinage checks, regeneration, validation, and failure recovery. |
 | [`repository_workflow.md`](repository_workflow.md) | Repository map, utility commands, generated files, CI, branch and PR procedure, cleanup, site builds, and citation audits. |
 | [`language_and_voice.md`](language_and_voice.md) | Authority, governing purpose, canon constraints most likely to be violated, source and name practice, peace linguistics, writing voice, Humanizer, and book register. |
@@ -72,7 +72,7 @@ A replacement model can use this opening checklist:
 2. Read AGENTS.md, canon.md, the full voice guide, and the full Humanizer skill.
 3. Run git status --short --branch and verify that main is clean and current.
 4. Read the current coverage resume point and decision register counts.
-5. If continuing SEM-09D, inspect each candidate passage in its full translation, transmutation, teaching, or narrative context before editing.
+5. If continuing SEM-09C, inspect the proposed semantic batch, every module membership, neighbouring meanings, and known uses before editing any entry.
 6. Create a feature branch only after the scope is understood.
 7. Carry the work through prose, Humanizer, voice audit, validation, commit, push, PR, and CI unless the user explicitly asks to pause.
 ```
