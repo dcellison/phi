@@ -160,17 +160,31 @@ Four old detours have direct base vocabulary. The other compositions still fit F
 
 ## Paired review: UDHR Article 1
 
-The ground truth is the complete 1948 English Article 1 stored in `texts/sources/udhr_1948.txt`. The close translation and transmutation now share one page. Two source-facing roots do work that composition could not do cleanly: `sherelo` is a normative right that can survive denial, and `sharino` is conscience as moral self-appraisal.
+The ground truth is the complete 1948 English Article 1 stored in `texts/sources/udhr_1948.txt`. The close translation uses 23 unique forms. Its two source-facing optional roots do work that composition could not do cleanly: `sherelo` is a normative right that can survive denial, and `sharino` is conscience as moral self-appraisal. The 21-form transmutation uses one optional root, Commons `shereni`, for recognised entitlement.
 
 | Area | Close translation | Transmutation |
 |---|---|---|
 | Birth and equality | A second Phi sentence says that equal worth and rights are held from birth and therefore preserves the scope of the English coordination. | Freedom stays tied to birth, while equality becomes a separate standing universal claim. |
 | Dignity and rights | `rolia` supplies inherent worth or dignity; `sherelo` leaves a right sayable before recognition or fulfillment. | Equal worth remains, but rights narrow to recognized `shereni` entitlements. |
-| Reason and conscience | Passive `se loa` retains the endowment metaphor. Event-noun `remo` supplies a broad faculty of thought, and `sharino` states conscience directly. | `po remo` gives a capacity to think, while `korua sano` turns conscience into the heart's knowing. |
+| Reason and conscience | Passive `se loa` retains the endowment metaphor. Event-noun `remo` supplies thinking as an activity, which leaves the faculty itself unnamed. `sharino` states conscience directly. | `po remo` gives a capacity to think, while `korua sano` turns conscience into the heart's knowing. |
 | Brotherhood and conduct | `lomea phiora` retains a sibling spirit, and reciprocal `wiso` directs the action toward one another. | People act as siblings, and `phena` makes kindness part of the observable conduct. |
 | Remaining limits | `remo` is broader than rational faculty, `phiora` is less idiomatic than English "spirit," `lomea` ungenders brotherhood, and `na` is stronger than "should." | The gap log records each deliberate change, including the loss of birth scope on equality and the narrowing from rights to entitlements. |
 
 The five-pillar comparison does not force five rewrites. Solarpunk thought tests whether a right survives institutional denial and whether an entitlement has practical form. Secular Buddhist attention shifts endowed faculties toward conditioned acts in the transmutation. Art Nouveau affects the line and repetition rather than the concepts. Peace linguistics moves the transmutation from prescribed feeling to accountable conduct. Preindustrial wisdom finds kinship and heart-knowing already present, without adding a village or tradition absent from the source.
+
+### Post-migration contextual retrofit
+
+The full lexicon gives neither rendering a better Phi line. Their direct roots and transparent phrases still fit Article 1; the apparent alternatives answer different questions. One English note changes: `remo` supplies thinking as an activity, not a dedicated faculty of reason.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| Freedom, equality, and dignity | Preserve `ralu thowia` and `kolo rolia` | `ralu` leaves a course open from constraint, `kolo` supplies equal standing, and `rolia` belongs to every person without being earned. `thunoa` concerns dignified conduct or treatment and cannot replace inherent dignity here. |
+| Reason | Preserve event-noun `remo` and its recorded limit | Thinking is closer to the source's faculty than `remotha`, one stated ground for accepting a claim or choice. `kethira` names inference and `themore` an argument; neither supplies a general faculty. |
+| Rights and entitlements | Preserve `sherelo` in translation and `shereni` in transmutation | The declaration needs a right that can still be said when an institution denies it. The transmutation deliberately asks whether a social order has recognised the claim and made it usable. |
+| Conscience and heart-knowing | Preserve `sharino` in translation and `korua sano` in transmutation | `sharino` is the source's inward moral self-appraisal. The heart's knowing is a deliberate Phi reframing, while `naremu` is guilt felt after an act or omission rather than a moral faculty. |
+| Brotherhood and kinship | Preserve `lomea phiora` and `phea lomea` | The sibling noun keeps the source's specific kin relation without a universal male class. Wider `thaluni`, kin, would make the image less exact. |
+| Conduct and modality | Preserve reciprocal `wiso`, necessity `na`, and transmuted `phena` | `wiso` gives action toward one another. The stronger force of `na` remains visible in both gap logs, while kindness belongs only to the transmutation. |
+| Optional module vocabulary | Preserve close `sherelo` and `sharino`, and transmuted `shereni` | Each of these three distinctions is needed here. No other optional root improves either rendering. |
 
 ## Paired review: Babel
 

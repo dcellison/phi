@@ -19,7 +19,7 @@ UNIV person free born. PL 3SG ABL PL 3SG born equal worth COORD PL equal right h
 udhr: "All human beings are born free and equal in dignity and rights."
 ```
 
-**Notes:** The first sentence keeps `ralu thowia`, born free. A second Phi sentence carries the scope that English gives to the whole coordination: `lue lo shia thowia`, from their birth, applies equality to dignity and rights as well. `rolia` includes inherent dignity in its canonical concept. `sherelo` is a normative right whose existence need not begin with recognition, unlike the narrower `shereni` entitlement.
+**Notes:** The first sentence keeps `ralu thowia`, born free. A second Phi sentence carries the scope that English gives to the whole coordination: `lue lo shia thowia`, from their birth, applies equality to dignity and rights as well. `rolia` gives a person inherent dignity: their worth does not depend on output or approval. `sherelo` is a normative right whose existence need not begin with recognition, unlike the narrower `shereni` entitlement.
 
 ### Reason and conscience
 
@@ -30,7 +30,7 @@ think COORD conscience DAT PL 3SG PASS give.
 udhr: "They are endowed with reason and conscience"
 ```
 
-**Notes:** The passive `se loa` preserves the source's image of faculties given to humankind without inventing a giver. As an event noun, `remo` can name the general faculty of contemplation, though its range is broader than the rational faculty meant by the source. `sharino` states conscience directly: a person's inward appraisal of their own conduct, fallible and open to correction.
+**Notes:** The passive `se loa` preserves the source's image of faculties given to humankind without inventing a giver. Here event-noun `remo` is thinking considered as an activity. It is wider than the rational faculty meant by the source and does not name that faculty directly. `remotha` belongs to a different sentence: it is one reason offered to justify a claim or choice. `sharino` gives conscience directly as a person's inward appraisal of their own conduct. That appraisal may be mistaken and corrected.
 
 ### Conduct and brotherhood
 
@@ -66,7 +66,7 @@ lo shia roe lomea phiora wiso na phoa.
 | born free and equal | `ralu thowia`, followed by `lue lo shia thowia` | Phi splits the coordinated English predicate into two sentences and repeats the birth scope explicitly. |
 | dignity | `rolia`, inherent worth or dignity | The source's civic and legal resonance depends on its place beside rights rather than on a second Phi root. |
 | rights | `sherelo`, normative right | The source citation supplies the specifically human-rights setting; the Phi root also covers rights grounded in other stated normative sources. |
-| reason | event noun of `remo`, the faculty of thought | `remo` includes contemplation, remembering, and imagining as well as rational thought, so it is broader than the source term. |
+| reason | event noun of `remo` as the activity of thinking | Phi leaves the rational faculty implicit. `remotha` names a consideration offered in justification, not the faculty by which someone reasons. |
 | conscience | `sharino`, moral self-appraisal | The Phi term makes fallibility explicit in its definition, while the source leaves the faculty unexplained. |
 | endowed | `wei lo shia se loa`, given to them | The passive gift survives, and the giver remains unspoken. |
 | spirit of brotherhood | `roe lomea phiora`, with sibling spirit | `phiora` can sound more like an animating essence than the source's idiomatic disposition; `lomea` necessarily ungenders the kinship. |
