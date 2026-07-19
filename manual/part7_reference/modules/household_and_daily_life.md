@@ -8,7 +8,7 @@ The chapter table below introduces 30 roots. Current classifications bring the l
 
 ## Core vocabulary used by the module
 
-The new words enter a crowded house. Phi already names the dwelling, the people around it, the furniture beneath them, the food on the table, and most of the work that makes those things last.
+The module words enter a crowded house. Phi already names the dwelling, its people and furnishings, the food on the table, and most of the work that makes those things last.
 
 | Area | Core Phi resources |
 |---|---|
@@ -103,7 +103,7 @@ PROX room small be.
 (This room is small.)
 ```
 
-A visitor crosses into that interior without becoming part of the household. The full sound of `phemi` guest sits inside `phemiru` visit, and the final syllable keeps the visit moving toward its end.
+A visitor crosses into that interior without becoming part of the household. `phemiru` names the bounded act of visiting; `phemi` names the guest as a person or role.
 
 ```
 mia ha womu phemiru.
@@ -315,7 +315,7 @@ mia phialu therapi.
 (I boil water.)
 ```
 
-`napako` bake takes its opening from `napa` bread but reaches any food cooked by surrounding dry heat.
+`napako` covers bread and other food cooked by surrounding dry heat.
 
 ```
 mia napa napako.
@@ -345,16 +345,16 @@ Some familiar objects and arrangements are clearer with their parts showing.
 
 | Concept | Phi strategy | What the composition keeps visible |
 |---|---|---|
-| Chair, stool, bench, or sitting cushion | Use `meipa` seat with material, height, back, or shape where needed | The existing word already covers whatever is made for sitting. |
-| General container | Use `molu` container | Shape matters only when a bag, box, bottle, jar, bucket, or named vessel is intended. |
-| Basket | Use `wiru` basket | Its woven, self-supporting construction already has a core word. |
-| Cupboard, pantry, or closet | Use `tholupi`, `phelasi`, `molupa`, and `tapu` around the actual arrangement | The room, shelf, container, and closure remain separate enough to describe many designs. |
-| Morning or evening meal | Use `nurome` with `kelua` morning, `howai` evening, or another time phrase | The language does not impose one culture's meal schedule. |
-| Household chore | Use Work `riporu` task with the concrete action | Assignment, acceptance, workload, and drudgery stay available when the work is contested. |
-| Frying, roasting, steaming, or another named method | Use `pharelo` cook with a Phi description or preserve the source method beside it | The heat source, vessel, liquid, and movement can be explained without pretending the methods are identical. |
-| Bathing place or washing fixture | Use `sawa`, `tholupi`, `noru`, `molu`, and source information as needed | The action, room, basin, water path, and exact fixture do not collapse into one assumed design. |
-| Household membership or domestic role | Use `womuri` with Commons `wemari` member or `sithora` role only when those relations are actually claimed | Sharing a dwelling does not silently assign authority or work. |
-| Rent, tenancy, lease, or exact address | Use Commons relations and preserve the source document or address | The legal category, exact terms, and identity of the place keep their source force. |
+| Chair, stool, bench, or sitting cushion | `meipa` seat with material, height, back, or shape where needed | The existing word already covers whatever is made for sitting. |
+| General container | `molu` container | Shape matters only when a bag, box, bottle, jar, bucket, or named vessel is intended. |
+| Basket | `wiru` basket | Its woven, self-supporting construction already has a core word. |
+| Cupboard, pantry, or closet | `tholupi`, `phelasi`, `molupa`, and `tapu` around the actual arrangement | The room, shelf, container, and closure remain separate enough to describe many designs. |
+| Morning or evening meal | `nurome` with `kelua` morning, `howai` evening, or another time phrase | The language does not impose one culture's meal schedule. |
+| Household chore | Work `riporu` task with the concrete action | Assignment, acceptance, workload, and drudgery stay available when the work is contested. |
+| Frying, roasting, steaming, or another named method | `pharelo` cook with a Phi description or the source method preserved beside it | The heat source, vessel, liquid, and movement can be explained without pretending the methods are identical. |
+| Bathing place or washing fixture | `sawa`, `tholupi`, `noru`, `molu`, and source information as needed | The action, room, basin, water path, and exact fixture remain separate rather than implying one assumed design. |
+| Household membership or domestic role | `womuri` with Commons `wemari` member or `sithora` role when those relations are claimed | Sharing a dwelling does not silently assign authority or work. |
+| Rent, tenancy, lease, or exact address | Commons relations beside the source document or address | The legal category, exact terms, and identity of the place keep their source force. |
 
 ## Source material at home
 

@@ -15,7 +15,7 @@ and one under manual/part7_reference/:
   - compounds.md      every canonized compound idiom, from documents/reference/compounds.md
 
 The vocabulary JSON and the compound registry remain the single sources
-of truth; these files are GENERATED artifacts. Never edit them by hand —
+of truth; these files are GENERATED artifacts. Never edit them by hand;
 rerun this script after any vocabulary or registry change:
 
     python3 scripts/generate_reference.py
@@ -35,13 +35,13 @@ VOCABULARY_ENTRY_DIRS = tuple(
 OUT_DIR = PROJECT_ROOT / "manual" / "part7_reference" / "lexicon"
 COMPOUNDS_OUT = PROJECT_ROOT / "manual" / "part7_reference" / "compounds.md"
 
-HEADER = """<!-- GENERATED FILE — do not edit.
+HEADER = """<!-- GENERATED FILE: do not edit.
      Source of truth: vocabulary entry JSON
      Regenerate with: python3 scripts/generate_reference.py -->
 
 """
 
-COMPOUNDS_HEADER = """<!-- GENERATED FILE — do not edit.
+COMPOUNDS_HEADER = """<!-- GENERATED FILE: do not edit.
      Source of truth: documents/reference/compounds.md
      Regenerate with: python3 scripts/generate_reference.py -->
 
@@ -80,7 +80,7 @@ def load_entries():
 
 
 def alphabetical(entries):
-    lines = [HEADER, "# The Phi Lexicon — Alphabetical\n"]
+    lines = [HEADER, "# The Phi Lexicon: Alphabetical\n"]
     lines.append(f"*{len(entries)} words.*\n")
     lines.append("| Word | Gloss | IPA | Part of speech |")
     lines.append("|---|---|---|---|")
@@ -97,7 +97,7 @@ def by_domain(entries):
             continue
         for domain in d.get("semantic_domains", {}):
             domains[domain].append(d)
-    lines = [HEADER, "# The Phi Lexicon — By Semantic Domain\n"]
+    lines = [HEADER, "# The Phi Lexicon: By Semantic Domain\n"]
     lines.append(
         "*Content words grouped by semantic domain. Words in several domains "
         "appear under each one.*\n"
@@ -120,7 +120,7 @@ def by_module(entries):
             continue
         for module in d.get("modules", []):
             modules[module].append(d)
-    lines = [HEADER, "# The Phi Lexicon — By Optional Module\n"]
+    lines = [HEADER, "# The Phi Lexicon: By Optional Module\n"]
     lines.append("*Module vocabulary is ordinary Phi vocabulary with ordinary Phi grammar. These groupings let learners choose specialized fields without treating their terminology as required core study. A word with several module classifications appears in every learning path where it belongs.*\n")
     if not modules:
         lines.append("No module-specific words have been recorded yet.\n")
@@ -144,7 +144,7 @@ def by_pos(entries):
             groups[d.get("pos", "(unspecified)")].append(d)
         else:
             groups[subclass].append(d)
-    lines = [HEADER, "# The Phi Lexicon — By Part of Speech\n"]
+    lines = [HEADER, "# The Phi Lexicon: By Part of Speech\n"]
     lines.append(
         "*Content words appear under their listed lexical class. A "
         "rule-supplied event or quality noun does not add another class "
@@ -163,8 +163,8 @@ def by_pos(entries):
 def compounds_reference(compounds):
     lines = [COMPOUNDS_HEADER, "# The Compound Registry\n"]
     lines.append(f"*{len(compounds)} canonized compounds.*\n")
-    lines.append("Canonized compound idioms are multi-word expressions whose meaning is a stable part of the language, not one-off improvisations. Each stays compositional because the composition itself carries the insight a coined label would hide.\n")
-    lines.append("Reach for these before composing fresh, and before proposing a new word: registry first, then free composition, then, deliberately and by the protocol, a coinage. Every word inside a compound is an ordinary lexicon word; the explorer shows each compound on its member words' entries.\n")
+    lines.append("Canonized compound idioms are multi-word expressions with a stable reading in Phi. Each entry records what the expression means and why its visible parts remain useful.\n")
+    lines.append("A registered compound can be used when its recorded analysis fits. Free composition and coinage remain ordinary choices for other concepts. Every member is an ordinary lexicon word, and the explorer shows the compound on those words' entries.\n")
     section = None
     for c in compounds:
         if c["section"] != section:

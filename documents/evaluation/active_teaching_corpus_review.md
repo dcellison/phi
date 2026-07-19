@@ -224,3 +224,35 @@ The completed base and function vocabulary covers Part VI. One optional Commons 
 ### Resume point
 
 Continue with `manual/part7_reference/`. Separate maintained teaching and reference prose from generated lexicon views, preserve approved module furniture, and change a Phi passage only when current grammar or vocabulary improves its exact job.
+
+## Part VII: Reference
+
+All seventeen files under `manual/part7_reference/` are reviewed. Five are generated views: four come from the 1,275 canonical vocabulary entries, while the compound reference comes from `documents/reference/compounds.md`. The pass corrects the compact grammar and reading samples, gives all eight module chapters a restrained semantic and voice repair, and regenerates every derived view. It adds no root and changes no module membership.
+
+| File | State | Finding and disposition |
+|---|---|---|
+| `README.md` | Revised | The catalogue keeps generated and maintained material distinct, names each source of truth, and removes dash-heavy table labels without changing the regeneration procedure. |
+| `quick_reference_grammar.md` | Revised | Productive onyms now admit two, three, or four syllables as canon requires. The modifier-first rule, closed particle inventories, source boundary, ternary range, and clause frames remain current. |
+| `sample_texts.md` | Revised | The morning exchange now uses `kia`; the help request gains potential `po`, and motion towards the addressee uses allative `kau`. Basho's close frog, jump, and sound rendering now stands beside the deliberate creature, arrival, and voice transmutation. Shelf notes describe the works rather than the project's drafting chronology. |
+| `compounds.md` | Regenerated from revised source | The canonical registry removes obsolete `nulae nophi` because direct `whemura` covers ordinary dream and no active text establishes a narrower idiom. Direction, colour, timbre, and taxonomy explanations lose unsupported universal or segmental claims. The same repair reaches time frequency, pearl formation, and guest-house relations. Base `koma nuwera` remains a pillow paraphrase beside optional Household `komalu`. |
+| `lexicon/alphabetical.md` | Regenerated from reviewed source | All 1,275 canonical entries remain target-shaped. The generated heading and warning now follow the reference voice mechanics. |
+| `lexicon/by_domain.md` | Regenerated from reviewed source | Domain memberships and rationales remain unchanged; the generated view agrees with canonical JSON. |
+| `lexicon/by_module.md` | Regenerated from reviewed source | All 393 memberships across eight learning paths remain unchanged and agree with canonical JSON. |
+| `lexicon/by_pos.md` | Regenerated from reviewed source | Lexical and function classes remain unchanged; rule-supplied noun uses still add no false part of speech. |
+| `modules/README.md` | Reviewed and preserved | The module contract, eight-path catalogue, membership counts, shared-root count, and base-word teaching count are current. |
+| `modules/accessibility_and_participation.md` | Revised | Access remains person-, activity-, and condition-specific. Communication form, timing, direction, source identities, and the right to a core paraphrase already meet the semantic contract; the composition table now presents strategies without a run of instructional commands. |
+| `modules/philosophical_reasoning.md` | Revised | Correlation and hypothesis keep their boundary, while suspension of judgement now states the withheld choice without claiming moral superiority or inventing a lexical state for every uncertainty. |
+| `modules/systems_and_shared_infrastructure.md` | Revised | Input and output forms aid audible contrast without guaranteeing perception. Technical `phoselu` stays apart from political authority and interpersonal influence without a joke at either one's expense. |
+| `modules/ecological_systems_and_material_life.md` | Revised | Toxicity remains a capacity under exposure conditions, concentration no longer interprets its own number, and assessable monitoring names its scope. Source categories and Phi analysis are described without compliance commands. |
+| `modules/commons_and_collective_governance.md` | Revised | Scarcity, records, and amendment no longer promise honesty or preserved history by lexical force. Coercion and retaliation are correctly identified as base words used in the module. |
+| `modules/medical_and_bodily_care.md` | Revised | Consent is defined positively through free, specific choice and an assessable surrounding account. Urgency loses an industrial clock example; screening, dose, care conversation, isolation, source material, and closing practice lose guarantees and contract-like instruction. |
+| `modules/household_and_daily_life.md` | Revised | Visiting and baking are explained by their actual semantic ranges rather than by supposed meanings hidden in the sounds of `phemiru` and `napako`. |
+| `modules/work_craft_and_repair.md` | Revised | Quality evaluates work under a purpose without making grammar incapable of grading people. Worker testimony remains central to drudgery, while inventory and repair lose moral guarantees attributed to every speaker. |
+
+### Lexical and canonical result
+
+The completed lexicon covers Part VII without a new root. Direct `whemura` makes the obsolete `nulae nophi` dream synonym unnecessary, so the registry now contains 76 compounds. Base `koma nuwera` remains a valid pillow paraphrase beside optional Household `komalu`. The 1,275-word lexicon, 261 optional roots, and 393 module memberships remain unchanged.
+
+### Resume point
+
+Continue SEM-09D with `primer/`. Keep its general teaching in base and function vocabulary unless a module is explicitly being introduced, and record any newly noticed lexical question before the pass closes.

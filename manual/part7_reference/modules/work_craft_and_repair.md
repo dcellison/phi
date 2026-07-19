@@ -251,7 +251,7 @@ mia ha rolu somaki.
 (I test the wheel.)
 ```
 
-`kirero` is always character against a purpose, and the dimensions can conflict honestly: a beautiful thing hard to repair, a durable one wasteful of material, a precise one nobody can use. Naming which quality is meant keeps the argument about the thing. And quality never grades the maker; Phi has no sentence in which a person is their work's score.
+`kirero` is always character against a purpose, and the dimensions can conflict: a beautiful thing may be hard to repair, a durable one wasteful of material, a precise one impossible to use. Naming the quality keeps the argument about the thing. Applying a score to the maker would change the subject and the claim; it is not part of `kirero`.
 
 ```
 mia ha kirero kisome.
@@ -271,7 +271,7 @@ mia ha ritako ma kelomi.
 (I do not accept the workload.)
 ```
 
-`rimawu` is work that drains and means nothing to the one doing it. It is a report from inside the work, and it deserves the standing of any testimony: whose experience, under what conditions. It is not a verdict on all repetition; a potter's hundredth bowl may be practice or drudgery, and only the potter knows which. Phi's warm word for labor, `riola`, must never be laid over that report to silence it.
+`rimawu` is work that drains and means nothing to the one doing it. It is a report from inside the work, and it deserves the standing of any testimony: whose experience, under what conditions. It is not a verdict on all repetition; a potter's hundredth bowl may be practice or drudgery, and the potter's account is central to that distinction. Phi's warm word for labor, `riola`, must never be laid over that report to silence it.
 
 ```
 mia ha rimawu naweri.
@@ -291,7 +291,7 @@ Drudgery does not prove exploitation, and exploitation does not need every worke
 
 ## Stock, inventory, supply, offcuts, and provenance
 
-`muphera` is what the shelf actually holds; `sitawi` is what the ledger says it holds. A workshop can have stock and no inventory, or an inventory that outlived the stock it described, and honest work sometimes begins by reconciling the two.
+`muphera` is what the shelf actually holds; `sitawi` is what the ledger says it holds. A workshop can have stock and no inventory, or an inventory that outlived the stock it described. Inventory work may begin by reconciling the two.
 
 ```
 keritha henoi muphera phelu.
@@ -348,9 +348,9 @@ Source material stays outside the Phi passage here as everywhere: the drawing wi
 
 ## Using the module well
 
-A useful account starts from the concrete relation: who is doing what, and for whom. Tools and timing follow in their own clauses. The module's distinctions enter when they earn their place. Authority, consent, and the body's limits stay in their own clauses, where Phi can see them. When a speaker has not learned a module word, a core paraphrase is ordinary courtesy: the people, actions, and conditions become explicit, and the meaning walks across.
+A useful account starts from the concrete relation: who is doing what, and for whom. Tools and timing follow in their own clauses. The module's distinctions enter when they earn their place. Authority, consent, and the body's limits stay in their own clauses, where they remain explicit. When a speaker has not learned a module word, a core paraphrase is ordinary courtesy: the people, actions, and conditions become explicit, and the meaning walks across.
 
-The module ends where the workshop begins. `shiroka`, repair, is core Phi, not module Phi: every speaker already carries the conviction that things are worth mending. Task and schedule, stock and provenance are scaffolding around that conviction. The mended chair back in the hall is the point.
+The module ends where the workshop begins. `shiroka`, repair, is core Phi because mending is ordinary enough to need no module. Task and schedule, stock and provenance gather around the act. The mended chair back in the hall is the point.
 
 ```
 mia ha tenoa shiroka.

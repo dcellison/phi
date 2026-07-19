@@ -40,7 +40,7 @@ Phi uses periods only: no commas, question marks, or exclamation marks. Punctuat
 | `wela … welo` | S wela [clause] welo V | embedded yes/no question |
 | `shola … sholo` | S shola [quote] sholo V | direct quotation (exact words) |
 | `rena …` + NOUN | [rena clause] NOUN | relative clause (no closer; the head noun bounds it) |
-| `ne NAME` | before one name atom | listed content word or productive two/three-syllable onym |
+| `ne NAME` | before one name atom | listed content word or productive two-, three-, or four-syllable onym |
 | `kona [ne] NAME` | extra-clausal | vocative address |
 
 Embedded clauses carry their own tense, and clause frames nest in matched pairs. `shola ... sholo` quotes grammatical Phi speech. Foreign wording, source-script names, source-form exact values and records, identifiers, formulas, and other unassimilated material remain outside Phi syntax in the surrounding medium; exact integers from 0 through 242 may also be rendered with internal Phi numerals when adequate.
@@ -48,7 +48,7 @@ Embedded clauses carry their own tense, and clause frames nest in matched pairs.
 ## Noun phrase order
 
 Slot order: **[Quantifier] [Demonstrative] [Number or `lo`] [Classifier] [Adjective] [Noun]**. Quantity strategies are alternatives: an ordinary quantifier does not combine with a number, `lo`, or classifier; a numeral may take an optional classifier; `lo` marks only unquantified plurality.
-`ha wi himo mioru melu` — these two beautiful friends (as humans).
+`ha wi himo mioru melu`: these two beautiful friends (as humans).
 
 Possessor first: `sila nophi` (the community's story). No articles.
 
