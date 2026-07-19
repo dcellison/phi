@@ -1,6 +1,6 @@
 # Addition: `we`
 
-The three conjunctions of this chapter join elements inside one sentence. Phi has one more way of adding, and the primer teaches it at the household door: the particle `we`, which marks the following element as joined to something already said: English "also," "too." It is a Slot 2 particle (ch9 §5), standing immediately before what it adds, and the corpus uses it where `nela` cannot reach: across a sentence boundary, when a new sentence repeats an old one with a single substitution.
+The three conjunctions join elements inside one expression. The Slot 2 particle **we** makes a different kind of addition: it places the following constituent alongside an alternative already established in speech or context. English often renders it as "also" or "too."
 
 **melu shua. we thiku miona shua.** — A friend comes. A small person comes too.
 
@@ -10,8 +10,8 @@ The three conjunctions of this chapter join elements inside one sentence. Phi ha
 
 ## Where it stands
 
-Before the added element, as Slot 2 always does, and the primer shows two placements within two chapters. When the newcomer is the whole news, `we` opens the clause and stands before the subject: `we lohau wile`. Once the newcomer has just been named, `we` may stand before the shared verb instead: `ne siora we shua`, siora *also-comes*. In both, the sameness is announced before the new instance is delivered, which is the only way this language ever tells you anything.
+**we** stands at the outer edge of the constituent it adds. When the added participant is the news, it comes before the subject: **we lohau wile**. When the added action is the point, it comes before the verb: **ne siora we shua**. Its position tells the listener what is being placed alongside the earlier alternative.
 
 ## `we` versus `nela`
 
-`nela` coordinates equals inside one sentence: `shiro nela peloru`, trees and flowers, one statement holding both. `we` adds an echo across sentences: something stood, and here is one more of it. If English would say "X and Y," reach for `nela`; if English would say "Y too," reach for `we`. The two never compete for the same position, because `nela` stands between its elements and `we` stands before its addition, each, as ever, announcing exactly the relationship it is about to create.
+**nela** stands between grammatical equals: **shiro nela peloru**, trees and flowers. **we** reaches back to an understood alternative and marks the new participant or action. English "X and Y" usually calls for **nela**; "Y too" usually calls for **we**. The position is different because the relation is different.

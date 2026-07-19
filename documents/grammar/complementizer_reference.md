@@ -32,9 +32,9 @@ Complementizers are multi-syllable function words that introduce subordinate cla
 
 **Headless relative clauses** (when the noun is implicit):
 ```
-[rena lothea shelomu] shia
-[REL love understand] 3SG
-(The one who understands love.)
+[rena thia to kealo]
+[REL 2SG PST create]
+(what you created)
 ```
 
 ---

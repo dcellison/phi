@@ -1,15 +1,15 @@
 # Consequence and contrast
 
-These two markers handle the most fundamental moves in reasoning: drawing a conclusion from what came before, and introducing a perspective that pushes against it.
+Two discourse markers turn the next sentence in opposite directions. **thelao** draws something from what came before; **whekai** introduces a qualification or counterpoint.
 
 ## Consequence: `thelao`
 
-`thelao` signals that what follows is a logical result of what preceded it. It is Phi's "therefore," "so," "consequently."
+**thelao** presents the next sentence as a consequence or conclusion. English usually renders it as "therefore" or "consequently."
 
 ```
-sileta sulae nai. thelao lo peloru thuroa.
-sun warm be. CONS PL flower grow.
-(The sun is warm. Therefore the flowers grow.)
+pheralu to nai. thelao ruela wirua nai.
+rain PST be. CONS path wet be.
+(It rained. Therefore the path is wet.)
 ```
 
 ```
@@ -24,17 +24,11 @@ shia to ma haolu. thelao lo miona to ma shelomu.
 (They did not speak. Therefore the people did not understand.)
 ```
 
-`thelao` makes causal reasoning explicit. The speaker is claiming a logical connection between two thoughts, not just placing them next to each other. This transparency is the point: when you use `thelao`, you're accountable for the inference you're drawing.
+The marker makes the inference explicit. It does not provide a missing premise or make a weak inference stronger. A sheltered path may remain dry after rain; **thelao** tells the listener what connection the speaker claims. The claim remains open to examination.
 
 ## Contrast: `whekai`
 
-`whekai` introduces a thought that stands in tension with what came before. It is Phi's "however," "on the other hand," "yet."
-
-```
-shiro mioru nai. whekai shelira thiku nai.
-tree beautiful be. CONTR forest small be.
-(The tree is beautiful. However the forest is small.)
-```
+**whekai** turns to a sentence that qualifies or pushes against the preceding line of thought. English commonly uses "however," "on the other hand," or "yet."
 
 ```
 mia to shonela. whekai mia shelomu ma nai.
@@ -43,21 +37,21 @@ mia to shonela. whekai mia shelomu ma nai.
 ```
 
 ```
-lo miona haolu. whekai shia sheluo.
-PL person speak. CONTR 3SG listen.
-(The people speak. However they listen.)
+lo miona haolu. whekai lo shia ma sheluo.
+PL person speak. CONTR PL 3SG NEG listen.
+(The people speak. However they do not listen.)
 ```
 
-Where `thona` (but) contrasts elements within a single sentence, `whekai` contrasts entire lines of thought across sentences. It carries more weight: it signals a genuine shift in perspective rather than a local tension.
+Where **thona** contrasts equals inside one sentence, **whekai** begins a contrasting sentence after a period. The difference is grammatical scope, not emotional weight.
 
 ## Working together
 
-`thelao` and `whekai` often appear in extended reasoning, where a speaker builds a case and then qualifies it:
+The two markers can make a short line of reasoning easy to inspect:
 
 ```
-sileta sulae nai. thelao lo peloru thuroa. whekai pheralu ma nai.
-sun warm be. CONS PL flower grow. CONTR rain NEG be.
-(The sun is warm. Therefore the flowers grow. However there is no rain.)
+pheralu to nai. thelao ruela wirua nai. whekai ruela selawi ma nai.
+rain PST be. CONS path wet be. CONTR path slippery NEG be.
+(It rained. Therefore the path is wet. However the path is not slippery.)
 ```
 
-The listener follows the logic step by step: premise, consequence, complication. Each discourse marker prepares them for the kind of move that's coming.
+The second sentence claims a consequence. The third limits what may be inferred from it: wet does not necessarily mean slippery. The markers expose the route through the thought, while the speaker and listener still judge whether each step holds.

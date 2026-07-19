@@ -1,39 +1,41 @@
 # Direct and indirect speech
 
-Reporting what someone said is one of the most common uses of subordination. Phi distinguishes two approaches: direct speech (quoting exact words) and indirect speech (reporting the content).
+Phi separates quoted Phi wording from a report of what someone meant. **shola ... sholo** preserves the words inside the frame; **mena ... meno** carries their propositional content.
 
-## Direct speech: `shola...sholo`
+## Direct speech: `shola ... sholo`
 
-The quotative pair `shola...sholo` frames exact words. `shola` opens the quote; `sholo` closes it. Together they are spoken quotation marks: they give the listener unambiguous boundaries around the quoted material.
-
-```
-shia shola mia so wepu sholo to shemui.
-3SG QUOT.COMP 1SG FUT go QUOT.COMP.CLOSE PST utter.
-(They said "I will go.")
-```
+**shola** opens a quotation and **sholo** closes it. The surrounding verb follows the closer and says whether the framed words were spoken or heard.
 
 ```
-ne sa sulae shola lo peloru thuroa sholo to shemui.
-NAME HON.RESPECT sulae QUOT.COMP PL flower grow QUOT.COMP.CLOSE PST utter.
-(Honored sulae said "the flowers grow.")
+ne sulae shola mia so wepu sholo to shemui.
+NAME sulae QUOT.COMP 1SG FUT go QUOT.COMP.CLOSE PST utter.
+(sulae said, "I will go.")
+```
+
+```
+mia shola wa thia towe nai sholo to hea.
+1SG QUOT.COMP Q 2SG well be QUOT.COMP.CLOSE PST hear.
+(I heard "Are you well?")
 ```
 
 ```
 mia shola mia thia lothea sholo to shemui.
 1SG QUOT.COMP 1SG 2SG love QUOT.COMP.CLOSE PST utter.
-(I said "I love you.")
+(I said, "I love you.")
 ```
 
-Inside the quote, everything is preserved exactly as the original speaker said it. The pronouns don't shift: when the speaker quotes themselves saying "i will go," `mia` remains `mia` because those were her words.
+Inside the frame, pronouns, tense, and clause force remain as spoken. The first quotation therefore keeps **mia**, the original speaker's "I," and the second keeps its direct-question particle **wa**.
 
-## Indirect speech: `mena...meno`
+The claim of exactness applies to grammatical Phi wording. If the source used another language or a form that depends on its own script, the original remains outside the Phi sentence. A Phi rendering may translate or report it, but **shola ... sholo** does not turn a translation into the source's exact words.
 
-Indirect speech reports the content of what was said without preserving the exact words. This uses the declarative complementizer pair `mena...meno`, the same one used for all embedded statements:
+## Indirect speech: `mena ... meno`
+
+Indirect speech reports content without claiming to preserve the wording:
 
 ```
-shia mena shia so wepu meno to shemui.
-3SG DECL.COMP 3SG FUT go DECL.COMP.CLOSE PST utter.
-(They said that they would go.)
+ne sulae mena shia so wepu meno to shemui.
+NAME sulae DECL.COMP 3SG FUT go DECL.COMP.CLOSE PST utter.
+(sulae said that they would go.)
 ```
 
 ```
@@ -42,22 +44,18 @@ NAME HON.RESPECT sulae DECL.COMP PL flower grow DECL.COMP.CLOSE PST utter.
 (Honored sulae said that the flowers grow.)
 ```
 
-Notice the difference: in indirect speech, the pronouns adjust to the current speaker's perspective. sulae's own "I" becomes `shia` (third person) because the current speaker is reporting, not quoting.
+In the first report, sulae's quoted **mia** would become **shia** from the reporter's point of view. Other wording may also be condensed or rearranged, provided the reporter does not pretend that a paraphrase is a quotation.
 
-## When to use which
+## Choosing the frame
 
-The choice between `shola...sholo` and `mena...meno` isn't just grammatical; it reflects a philosophical stance toward someone's words.
+Direct speech is appropriate when the Phi wording itself matters and the reporter can stand behind its accuracy. Indirect speech is appropriate when the proposition matters more than its original phrasing. Neither frame rates the truth of what was said.
 
-Direct speech with `shola...sholo` says: "these are the exact words. I'm carrying them faithfully." It preserves the original speaker's voice, perspective, and phrasing. Use it when precision matters, when you want to honor exactly what was said.
-
-Indirect speech with `mena...meno` says: "this is the gist." It filters through the reporter's perspective; it adjusts pronouns and may condense the content. Use it when the content matters more than the exact formulation.
-
-Phi's evidential system adds another layer. Combining reported evidence (`ti`) with indirect speech signals that the speaker is passing along information at a further remove:
+Evidential **ti** can mark the matrix speech event as received information:
 
 ```
-mia ti mena shia so wepu meno shemui.
-1SG REP DECL.COMP 3SG FUT go DECL.COMP.CLOSE utter.
-(I'm told that they said they would go.)
+shia mena ne sulae so wepu meno to ti shemui.
+3SG DECL.COMP NAME sulae FUT go DECL.COMP.CLOSE PST REP utter.
+(They reportedly said that sulae would go.)
 ```
 
-Each layer of reporting is transparent. The listener knows exactly how many steps removed the information is from its source.
+Here **ti** says that the present speaker learned of the saying through a report. It does not count every person in the chain or certify any of them. If the source or exact record matters, the surrounding account identifies it beside the Phi passage.

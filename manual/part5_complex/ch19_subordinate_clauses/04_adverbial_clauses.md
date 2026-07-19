@@ -1,43 +1,52 @@
 # Adverbial clauses
 
-Adverbial clauses provide context for the main clause: when something happened, why, for what purpose, or despite what obstacle. Phi handles all of these with the same pattern: a subordinating word introduces the dependent clause, which precedes the main clause.
+Adverbial clauses place an event in relation to another event. Phi marks sequence, cause, purpose, and concession with five clause relators. Four precede the dependent clause; **lila** follows the action whose purpose it introduces.
 
-`[subordinator] [dependent clause] [main clause]`
+| Relation | Pattern |
+|---|---|
+| after, before, because, although | `[relator] [dependent clause] [main clause]` |
+| purpose | `[main action] lila [purpose clause]` |
 
-The subordinator announces the relationship, the dependent clause fills it in, and the main clause delivers the primary thought.
+The difference in order matters. There is no single adverbial template with five interchangeable words.
 
-## Time: `pheo` and `phoe`
+## Sequence: `pheo` and `phoe`
 
-The temporal pair `pheo` (after) and `phoe` (before) frame events in sequence. They are a minimal pair, distinguished only by vowel order:
-
-```
-pheo mia to theo mia shea phaelo.
-POST 1SG PST read 1SG peace feel.
-(After I read I feel peace.)
-```
+**pheo** introduces the earlier event and places the main event after it:
 
 ```
-phoe mia sheluo mia thilonu.
-ANT 1SG listen 1SG prepare.
-(Before I listen I prepare.)
+pheo melu to kamo lo mia to haolu.
+POST friend PST arrive PL 1SG PST speak.
+(After the friend arrived, we spoke.)
 ```
 
-```
-pheo sileta to kamo lo peloru thuroa.
-POST sun PST arrive PL flower grow.
-(After the sun arrived the flowers grow.)
-```
-
-The dependent clause follows immediately after the subordinator. The main clause comes after, without any punctuation between them. The verb-final structure of each clause makes the boundaries clear: when one verb ends, the next clause begins.
-
-## Time: `tei`
-
-The preposition `tei` (until) marks the endpoint of an action or state:
+**phoe** introduces the later reference event and places the main event before it:
 
 ```
-mia tei kelua sheluo.
-1SG UNTIL morning listen.
-(I listen until morning.)
+phoe lo mia to haolu mia to thilonu.
+ANT PL 1SG PST speak 1SG PST prepare.
+(Before we spoke, I prepared.)
+```
+
+Each clause carries the tense appropriate to its own event. The dependent verb marks the point at which the main clause begins; neither relator takes a closer.
+
+The same words can stand over a counted duration rather than a clause:
+
+```
+melu phoe wi philo to kamo.
+friend ANT two day PST arrive.
+(The friend arrived two days ago.)
+```
+
+The past **to** belongs to **kamo**. **phoe wi philo** supplies the distance from now rather than acting as a tense marker.
+
+## A temporal endpoint: `tei`
+
+**tei** is a preposition, not a clause relator. It introduces the noun phrase that marks how long an action or state continues.
+
+```
+mia tei howai thole.
+1SG UNTIL evening practice.
+(I practice until evening.)
 ```
 
 ```
@@ -46,39 +55,37 @@ PL child UNTIL evening play.
 (The children play until evening.)
 ```
 
+Morning or evening names the endpoint. No second clause is hidden inside the phrase.
+
 ## Cause: `lao`
 
-The causal subordinator `lao` (because) announces a reason:
+**lao** places a reason before the assertion it explains. It may introduce a complete clause:
 
 ```
-lao pheralu to nai lo peloru thuroa.
-BECAUSE rain PST be PL flower grow.
-(Because it rained the flowers grow.)
-```
-
-```
-lao shia welao thumela lo lopia shonela.
-BECAUSE 3SG good teach PL child learn.
-(Because they teach well the children learn.)
+lao pheralu to nai ruela wirua nai.
+BECAUSE rain PST be path wet be.
+(Because it rained, the path is wet.)
 ```
 
 ```
 lao mia to ma sheluo mia to ma shelomu.
 BECAUSE 1SG PST NEG listen 1SG PST NEG understand.
-(Because I did not listen I did not understand.)
+(Because I did not listen, I did not understand.)
 ```
 
-`lao` can also take a simple noun phrase rather than a full clause:
+It may also introduce a noun phrase:
 
 ```
-lao pheralu lo peloru thuroa.
-BECAUSE rain PL flower grow.
-(Because of rain the flowers grow.)
+lao pheralu ruela wirua nai.
+BECAUSE rain path wet be.
+(Because of the rain, the path is wet.)
 ```
+
+**lao** marks the reason the speaker claims. Other contributing causes, and any question of responsibility, remain available for further sentences.
 
 ## Purpose: `lila`
 
-The purpose subordinator `lila` (in order to) announces an intention. Unlike `lao`, which looks backward to a cause, `lila` looks forward to a goal:
+**lila** follows an action and introduces its intended outcome:
 
 ```
 mia theo lila mia shonela.
@@ -89,56 +96,55 @@ mia theo lila mia shonela.
 ```
 shia haolu lila lo miona shelomu.
 3SG speak PURP PL person understand.
-(They speak in order for the people to understand.)
+(They speak so that the people understand.)
 ```
 
+The subject of the purpose clause may match the actor in the main clause, as in the first example, or differ, as in the second. **lila** attributes a goal to an agent's action. An unintended result takes **lao** or a separate consequence.
+
+The freedom construction gives **lila** another established use:
+
 ```
-lo lopia shonela lila lo thumela.
-PL child learn PURP PL teach.
-(The children learn in order to teach.)
+thia lila wepu ralu nai.
+2SG PURP go free be.
+(You need not go.)
 ```
 
-Note that `lila` marks conscious intention. It cannot be used for unintended consequences. If the flowers grow because of rain, that's `lao` (cause), not `lila` (purpose), because rain doesn't intend anything.
+Here the action names the respect in which the subject is free. Absence of obligation is expressed as an open course, not by moving negation out of its fixed rank.
 
 ## Concession: `shai`
 
-The concessive subordinator `shai` (although, despite) announces a circumstance that might be expected to prevent the main clause but doesn't:
+**shai** introduces a circumstance that raises an expectation which the main clause overturns:
 
 ```
 shai pheralu to ma nai lo peloru thuroa.
 CONC rain PST NEG be PL flower grow.
-(Although it did not rain the flowers grow.)
+(Although it did not rain, the flowers grow.)
 ```
 
 ```
-shai shelira thiku nai mioru nai.
-CONC forest small be beautiful be.
-(Although the forest is small, [it] is beautiful.)
+shai shelira thiku nai shelira mioru nai.
+CONC forest small be forest beautiful be.
+(Although the forest is small, the forest is beautiful.)
 ```
 
-```
-shai mia to ma shelomu to shonela.
-CONC 1SG PST NEG understand PST learn.
-(Although I did not understand, [I] learned.)
-```
-
-Like `lao`, `shai` can also take a noun phrase:
+Like **lao**, **shai** can also introduce a noun phrase:
 
 ```
 shai pheralu lo peloru thuroa.
 CONC rain PL flower grow.
-(Despite the rain the flowers grow.)
+(Despite the rain, the flowers grow.)
 ```
 
-## The adverbial clause system at a glance
+The expectation belongs to the speaker's framing. **shai** does not declare smallness contrary to beauty in every setting; it says that this sentence treats it as a conceded circumstance.
 
-| Subordinator | Gloss | Function |
-|---|---|---|
-| `pheo` | POST | after (temporal sequence) |
-| `phoe` | ANT | before (temporal sequence) |
-| `tei` | UNTIL | until (temporal endpoint) |
-| `lao` | BECAUSE | because (cause) |
-| `lila` | PURP | in order to (purpose) |
-| `shai` | CONC | although, despite (concession) |
+## The five clause relators
 
-All follow the same syntactic pattern: subordinator introduces the dependent clause, which precedes the main clause. The system is regular and predictable. Once you learn one adverbial clause type, you've learned the structure for all of them.
+| Relator | Gloss | Relation | Order |
+|---|---|---|---|
+| `pheo` | POST | after | dependent clause, then main clause |
+| `phoe` | ANT | before | dependent clause, then main clause |
+| `lao` | BECAUSE | cause | dependent clause or noun phrase, then main clause |
+| `shai` | CONC | concession | dependent clause or noun phrase, then main clause |
+| `lila` | PURP | intended outcome | main action, then purpose clause |
+
+The final verb in each clause supplies its boundary. The order of **lila** is the useful snag in an otherwise tidy set: purpose waits until the action it explains has been spoken.

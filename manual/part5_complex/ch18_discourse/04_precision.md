@@ -1,15 +1,15 @@
 # Precision: rephrasing, specifying, and summarizing
 
-The remaining three discourse markers all refine what has already been said rather than pushing the conversation in a new direction. They help a speaker clarify, focus, and distill.
+The remaining three markers return to what has already been said. One tries a second wording, one narrows the reference, and one gathers a longer passage into a shorter account.
 
 ## Rephrasing: `shorela`
 
-`shorela` signals that what follows restates the previous thought in different words. It is Phi's "in other words," "that is to say," "to put it another way."
+**shorela** presents the next sentence as a reformulation: "in other words" or "put another way."
 
 ```
-shiro lo phialu pilu. shorela shiro thuroa.
-tree PL water take. REPH tree grow.
-(The tree takes water. In other words the tree grows.)
+ne sulae shena nai. shorela shia shena nai.
+NAME sulae calm be. REPH 3SG calm be.
+(sulae is calm. In other words they are calm.)
 ```
 
 ```
@@ -18,11 +18,11 @@ shia ma haolu. shorela shia maeli nai.
 (They do not speak. In other words they are quiet.)
 ```
 
-`shorela` doesn't introduce new information. It offers a second path to the same meaning: understanding sometimes requires multiple approaches. This is particularly useful when a speaker senses that their first formulation didn't land, or when a concept is complex enough to benefit from being seen from two angles.
+The first example changes only the way the same person is identified. The second is less exact: silence at one moment does not always amount to quietness as a quality. **shorela** states the speaker's intention to preserve the central claim; it leaves the listener free to notice what changed in the rewording.
 
 ## Specifying: `shekoi`
 
-`shekoi` signals that what follows narrows the preceding statement to a particular case or detail. It is Phi's "specifically," "in particular," "to be precise."
+**shekoi** narrows a preceding statement to the case or detail now at issue: "specifically" or "in particular."
 
 ```
 mia lo shiro lothea. shekoi mia ha serao shiro lothea.
@@ -36,25 +36,19 @@ PL person speak. SPEC NAME HON.RESPECT sulae speak.
 (The people speak. Specifically honored sulae speaks.)
 ```
 
-Where `phisu` (for example) introduces one case among many possible illustrations, `shekoi` zooms in on *the* case that matters. "For example" says "here's one instance." "Specifically" says "here's the one I mean."
+**phisu** offers one illustration among possible examples. **shekoi** identifies the part the speaker means to discuss. One demonstrates; the other narrows.
 
 ## Summarizing: `shelao`
 
-`shelao` signals that what follows distills or concludes the preceding discussion. It is Phi's "in summary," "to conclude," "in short."
+**shelao** introduces a synthesis of a longer stretch of discourse: "in summary" or "in short."
 
 ```
-sileta sulae nai. lo peloru thuroa. luphore phaelu nai. shelao shelira welao nai.
-sun warm be. PL flower grow. river peaceful be. SUMM forest good be.
-(The sun is warm. The flowers grow. The river is peaceful. In summary the forest is good.)
+mia to theo nela to thole. shelao mia to shonela.
+1SG PST read COORD PST practice. SUMM 1SG PST learn.
+(I read and practiced. In summary I learned.)
 ```
 
-```
-mia to theo nela to shonela. shelao mia shelomu.
-1SG PST read COORD PST learn. SUMM 1SG understand.
-(I read and learned. In summary I understand.)
-```
-
-`shelao` tells the listener to shift from gathering details to receiving a synthesis. Everything that came before is being condensed into a final statement. It's most useful after extended discussion, where the core point might otherwise get lost in the accumulation of supporting thoughts.
+The summary sentence does not automatically preserve every qualification from the earlier discussion. Anything that must survive the compression belongs in the summary itself.
 
 ## The seven markers at a glance
 
@@ -62,10 +56,10 @@ mia to theo nela to shonela. shelao mia shelomu.
 |---|---|---|---|
 | `thelao` | CONS | therefore | draw a conclusion |
 | `whekai` | CONTR | however | redirect |
-| `sheno` | ADD | furthermore | pile on support |
-| `phisu` | EXMP | for example | illustrate concretely |
+| `sheno` | ADD | furthermore | add a related point |
+| `phisu` | EXMP | for example | offer a concrete case |
 | `shorela` | REPH | in other words | rephrase |
 | `shekoi` | SPEC | specifically | narrow focus |
-| `shelao` | SUMM | in summary | distill |
+| `shelao` | SUMM | in summary | gather a longer passage |
 
-All seven occupy the same position: after Slot 0 particles, before the subject. They are road signs for the listener: they announce the shape of the thought before its content arrives.
+All seven follow any Slot 0 particle and precede the subject. The marker is heard before the new claim, but the relation it proposes remains part of that claim and may itself need discussion.

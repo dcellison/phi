@@ -1,18 +1,16 @@
 # Headless relative clauses
 
-Sometimes the described noun is obvious from context or deliberately left implicit. In these cases, the relative clause stands alone: it is a complete noun phrase without an explicit head. The clause itself becomes "the one who..." or "that which..."
+Sometimes context supplies the thing being described. In that case the **rena** clause occupies a noun-phrase position without an explicit head: "the one who" or "what."
 
-## When the head is understood
-
-If context makes the referent clear, the head noun can be dropped:
+## A referent supplied by context
 
 ```
-rena mia to nila shia nai.
-REL 1SG PST see 3SG be.
+rena mia to nila ha nai.
+REL 1SG PST see PROX be.
 (The one whom I saw is here.)
 ```
 
-No explicit noun follows the clause. The listener understands that "person" or a similar noun is implied.
+No noun follows the relative predicate **nila**. The complete headless phrase **rena mia to nila** is the subject of **ha nai**. Context must tell the listener whether the referent is a person or anything else that can be seen.
 
 ```
 mia rena thia to kealo theo.
@@ -20,71 +18,39 @@ mia rena thia to kealo theo.
 (I read what you created.)
 ```
 
-Here "the thing" or "the work" is implied. The relative clause `rena thia to kealo` is the object of `theo`, without naming what was created.
+Here **rena thia to kealo** is the object of **theo**. English supplies "what"; Phi leaves the category open.
 
-## Philosophical uses
+## Specific and general reference
 
-Headless relatives are particularly useful for expressing general truths or philosophical observations:
-
-```
-rena lothea shelomu phue nai.
-REL love understand wise be.
-(One who understands love is wise.)
-```
-
-This doesn't refer to a specific person but to anyone who fits the description. The headless construction creates a general statement.
+A headless relative can point to one established referent or range over anyone or anything that fits the description. The surrounding sentence makes the difference:
 
 ```
-rena shea lothea rena shea nila.
-REL peace love REL peace see.
-(One who loves peace sees peace.)
+rena thia to kealo mioru nai.
+REL 2SG PST create beautiful be.
+(What you created is beautiful.)
 ```
 
-The parallel structure works naturally without explicit nouns.
-
-## With `rena` or without
-
-Headless relatives can sometimes drop `rena` entirely when the structure is clear:
-
 ```
-lothea shelomu phue nai.
-love understand wise be.
-(One who understands love is wise.)
+rena lo lopia thumela ha nai.
+REL PL child teach PROX be.
+(The one who teaches the children is here.)
 ```
 
-The clause `lothea shelomu` ("understand love") is a nominal phrase meaning "one who understands love." This works because the clause occupies a position where a noun is expected, and the meaning is unambiguous.
-
-However, `rena` adds clarity, especially in longer sentences:
-
 ```
-mia rena shea kealo sano.
-1SG REL peace create know.
-(I know one who creates peace.)
+rena thalo roke.
+REL walk move.
+(Whoever walks moves.)
 ```
 
-Without `rena`, the sentence could be misread. Use `rena` when the relative structure might otherwise be unclear.
+The first example recovers a particular creation from the conversation. The second identifies a person by their present role without naming a permanent class. The third ranges over anyone who fits its description.
 
-## Practical patterns
+## `rena` remains
 
-Headless relatives are common in:
+Dropping an established subject is ordinary topic-drop. Dropping **rena** is not the same operation. Without the relativizer, a listener receives content words but no grammatical signal that the whole clause occupies a noun-phrase position.
 
-**Definitions and explanations:**
+Every canonical headless relative therefore begins with **rena**. The word remains useful even in a short phrase because it distinguishes "what you created" from the ordinary statement "you created."
 
-```
-phue nai rena theula lokue sano.
-wise be REL UNIV place know.
-(Wisdom is knowing all places.)
-```
-
-**Proverbs and sayings:**
-
-```
-rena naphe naphe howela.
-REL help help receive.
-(One who helps receives help.)
-```
-
-**Questions about identity:**
+## Asking about identity
 
 ```
 wa rena ha kealo thia nai.
@@ -92,8 +58,6 @@ Q REL PROX create 2SG be.
 (Are you the one who created this?)
 ```
 
-The headless relative lets you ask about someone's role or relationship to an action without specifying what category they belong to.
+The headless phrase **rena ha kealo** is the subject, and **thia** is the identity being tested. The question names the relation to the action without assigning the referent a role noun.
 
-## Summary
-
-Headless relatives extend the descriptive power of `rena` clauses by allowing the described thing to remain implicit. Use them when context makes the referent obvious, when speaking in general terms, or when the description itself matters more than naming what is described. The clause becomes the thing, defined by what it does rather than what it is called.
+A headed relative ends by naming its category. A headless relative declines to do so. Both keep **rena**, and both leave one role inside the description for the referent to fill.

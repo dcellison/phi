@@ -1,12 +1,12 @@
 # Describing within
 
-Sometimes a simple adjective isn't enough. You want to describe something not with a single word but with a whole situation: the person *who helped me yesterday*, the book *that changed my thinking*, the path *we walked together*. These are relative clauses, sentences that have been transformed into descriptions.
+A single adjective cannot identify everything a conversation may need. Sometimes the useful description is a whole event: the flower that I saw or the person who came yesterday. A relative clause lets that event modify a noun.
 
-English handles this with words like "who," "which," and "that": it places the relative clause after the noun it describes. Phi, true to its modifier-first principle, does the opposite: the describing clause comes before the noun, announced by the relativizer `rena`.
+English usually puts the description after its noun. Phi puts the relative clause first and opens it with **rena**.
 
-## The logic of pre-nominal relatives
+## From adjective to clause
 
-Consider how Phi handles simple description. The noun phrase `mioru peloru` ("beautiful flower") places the adjective before the noun. Relative clauses follow the same logic, just with a clause instead of a single word:
+The phrase **mioru peloru** places "beautiful" before "flower." A relative clause occupies the same broad side of the noun:
 
 ```
 rena mia to nila peloru mioru nai.
@@ -14,20 +14,18 @@ REL 1SG PST see flower beautiful be.
 (The flower that I saw is beautiful.)
 ```
 
-The clause `mia to nila` ("i saw") describes the flower, and `rena` announces that description, just as an adjective would. The listener knows they're receiving descriptive information before they know what's being described. The complete noun phrase `rena mia to nila peloru` is then the subject of `nai`.
+Inside the subject phrase, **mia to nila** means "I saw" with an object left unspoken. **rena** marks that gap as a description, and **peloru** supplies the missing object as the head noun. The complete phrase **rena mia to nila peloru** is the subject of **nai**.
 
-This feels backwards to English speakers at first. But it's the same principle that makes `mioru peloru` feel natural once you've learned it. All modification precedes what it modifies. Relative clauses are just larger modifiers.
+## The cost of hearing the description first
 
-## Why this matters
+The head noun closes a headed relative clause, so its boundary is audible without a separate closer. That helps with scope, but the order has a cost: the listener must hold the description before learning whether it belongs to a flower, a book, or something else. Long relative clauses are legal. Two shorter sentences are often easier company.
 
-Pre-nominal relative clauses have a practical advantage: they're bounded naturally. In English, "the person who I met who helped me who lives nearby" can sprawl indefinitely after the noun. In Phi, the relative clause must complete before the noun appears, which creates natural closure.
-
-This structure also supports topic-drop. Once you've described something with a relative clause, you can continue talking about it without repeating or using a pronoun:
+Once the referent is established, ordinary topic-drop can lighten the next sentence:
 
 ```
 rena mia to nila peloru mioru nai. thuroa.
 REL 1SG PST see flower beautiful be. grow.
-(The flower that I saw is beautiful. [it] grows.)
+(The flower that I saw is beautiful. It grows.)
 ```
 
-The flower, having been introduced with its full description, can be referenced implicitly in subsequent clauses.
+The omitted subject of **thuroa** is recovered from context. This is the same topic-drop available after any established subject; the relative clause has merely supplied a particularly detailed one.

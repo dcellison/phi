@@ -163,6 +163,33 @@ All fifty-three files under `manual/part4_grammar/` are reviewed and revised. Th
 
 The completed base vocabulary covers the grammar course without a new lexical decision. The only optional root used is Work-module `piru`, and its paragraph labels both the module and the ordinary base description it supplements. Unintroduced module words were removed from general examples. The pass also reconciles an inherited canon sentence with D043: `thorea` remains ceremony, `thelumo` ritual, and `holia` festival, while named tradition-specific rites retain their source identity.
 
+## Part V: Complex constructions
+
+All sixteen files under `manual/part5_complex/` are reviewed and revised. The pass restores the exact scope and order of every Part V function word and clause frame. It also corrects examples whose English claimed a conclusion, rephrasing, location, or report that the Phi did not express.
+
+| File | State | Finding and disposition |
+|---|---|---|
+| `ch17_coordination/01_simple_conjunction.md` | Revised | `nela` now joins grammatical equals without implying sequence, cause, rank, or equal social weight. Word, phrase, clause, and list examples keep their actual structural boundaries. |
+| `ch17_coordination/02_contrast.md` | Revised | `thona` now marks a speaker-framed expectation contrast inside one sentence rather than manufacturing nuance or balance. Its scope is separated plainly from sentence-initial `whekai`. |
+| `ch17_coordination/03_alternative.md` | Revised | `sola` retains inclusive and exclusive readings without pretending that grammar leaves every choice open. Choice questions, full clauses, and reflexive argument structure remain explicit. |
+| `ch17_coordination/04_addition_we.md` | Revised | Slot 2 `we` reaches back to an established alternative and marks the participant or action that is also true. Its placement is no longer reduced to one cross-sentence substitution pattern. |
+| `ch18_discourse/01_introduction.md` | Revised | The seven markers now occupy their exact position after Slot 0 and before the subject. New examples show that a marker proposes a discourse relation without proving it. |
+| `ch18_discourse/02_consequence_and_contrast.md` | Revised | `thelao` exposes an inference without supplying its missing premises, while `whekai` introduces a sentence-level counterpoint. Concrete rain and path examples replace loose causal and contrast claims. |
+| `ch18_discourse/03_addition_and_example.md` | Revised | `sheno` adds another relevant proposition and `phisu` offers a case to inspect. The former non-examples are replaced, and the chapter now states that an example is not proof. |
+| `ch18_discourse/04_precision.md` | Revised | `shorela`, `shekoi`, and `shelao` now distinguish intended reformulation, narrowing, and synthesis. The chapter openly tests a questionable silence-to-quiet rephrasing instead of treating it as identity. |
+| `ch19_subordinate_clauses/01_introduction.md` | Revised | Complement frames and clause relators receive separate patterns. The introduction no longer forces purpose clauses into the clause-initial order used by time, cause, and concession. |
+| `ch19_subordinate_clauses/02_complement_clauses.md` | Revised | Required closers, independent embedded tense, nested declaratives, embedded yes-or-no questions, and unframed content questions now form one exact account. The nested example has a natural reporting predicate at each level. |
+| `ch19_subordinate_clauses/03_speech.md` | Revised | Direct quotation now preserves exact grammatical Phi only, while indirect speech reports content and adjusts perspective. A malformed `ti` example has been rebuilt so its Phi actually reports a secondhand speech event. |
+| `ch19_subordinate_clauses/04_adverbial_clauses.md` | Revised | `pheo` and `phoe` receive their correct event orientation, `lila` follows the action it explains, and `tei` is restored to its actual class as a temporal preposition. The freedom construction and noun-phrase uses of `lao` and `shai` remain canonical. |
+| `ch20_relative_clauses/01_introduction.md` | Revised | Prenominal relatives now receive both their audible boundary and their working-memory cost. Topic-drop is presented as a general discourse option rather than a special power of the relative clause. |
+| `ch20_relative_clauses/02_relativizer_rena.md` | Revised | The obsolete segment-by-segment sound meanings are replaced by the physical articulation of `rena`. Subject, object, and oblique gaps now agree with canon, including the preposition that remains before its missing object. |
+| `ch20_relative_clauses/03_headed_relative_clauses.md` | Revised | The lesson now identifies the head's role correctly, distinguishes a relative clause from the complete noun phrase, and fixes the former `shia nai` mistranslation of "is here" with predicative `ha nai`. Direct `shane` replaces broad `haolu` in the story example. |
+| `ch20_relative_clauses/04_headless_relative_clauses.md` | Revised | Every headless relative keeps required `rena`; the unsupported bare-clause alternative and manufactured proverbs are gone. Subject, object, general, and identity uses now show what context supplies when no head noun appears. |
+
+### Lexical and canonical result
+
+The completed base and function vocabulary covers every Part V construction, and no optional module word is used. The pass opens no lexical decision. It does repair one higher-authority dependency in `documents/grammar/complementizer_reference.md`: the headless-relative example now omits its head instead of ending in an explicit pronoun.
+
 ### Resume point
 
-Continue with `manual/part5_complex/`. Check each clause-linking, complementation, comparison, and derivational account against current canon, preserve base-vocabulary teaching unless a chapter explicitly earns a module term, and record every lexical question before the pass closes.
+Continue with `manual/part6_mastery/`. Check every translation, transmutation, dialogue, practice, and fluency claim against the completed lexicon and current canon, keep ordinary teaching in base vocabulary unless the subject explicitly earns a module term, and record every lexical question before the pass closes.
