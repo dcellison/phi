@@ -1,11 +1,15 @@
 # Ripple effects
 
-The capacities developed through learning Phi don't stay contained within the language. Patience cultivated through pronunciation practice serves relationships that need delicate communication. Grammar-developed precision sharpens how you think in other domains too. And the habit of marking evidence for claims, practiced through Phi's evidential system, builds greater intellectual honesty into every conversation.
+After practising `hi` and `ho`, a learner may catch an English sentence halfway out: "I know they meant that." On inspection, perhaps they witnessed the action but assumed the intention. The distinction learned in Phi has then travelled into another conversation.
 
-This isn't unique to Phi. Any discipline practiced with genuine attention develops transferable qualities. What's distinctive about Phi is that the specific qualities it cultivates, epistemic humility, mindful expression, collaborative dialogue, attentive listening, are precisely the ones that human communication most urgently needs.
+That is a possibility, not an automatic effect. Skills often stay close to the setting in which they were practised unless a learner deliberately carries them elsewhere. Phi currently has no community evidence showing that its grammar changes conduct outside the language, and one memorable Tuesday would not establish the claim.
 
-Students who internalize these habits influence the communicative culture around them. Someone accustomed to distinguishing observation from inference naturally brings that precision to workplace discussions. Someone practiced in request-centered communication naturally approaches conflict differently. The effect compounds: individuals shape conversations, conversations shape relationships, relationships shape communities.
+## Building the bridge on purpose
 
-The intergenerational dimension matters too. Adults who have learned to approach difficulty with curiosity rather than anxiety naturally model that stance for children. Educational environments built on these principles, where mistakes are treated as information rather than failure, where questions are valued as expressions of intelligence, produce learners with fundamentally different relationships to challenge and growth.
+A learner who wants transfer can make the connection explicit. After a Phi exercise, they can restate the source distinction in English: "I saw," "I infer," "I was told," or "I am assuming." They can notice whether the extra precision helps in a real exchange and whether it disappears under pressure.
 
-None of this asks the learner to believe anything grand. Practice the language; the habits come with it; the habits travel. A student who spends a season distinguishing `hi` from `ho` will catch themselves, some ordinary Tuesday, distinguishing observation from assumption in a meeting held entirely in English. That small carried habit is the whole argument of this chapter, walking around in the world.
+The same experiment applies to directives and repair. Using `pi no` may prompt someone to notice that courtesy and consent are different. Practising `mia shelomu. whekai mia ma nawo`, "I understand. However, I do not agree," may make that distinction easier to remember in another language. The practice supplies a rehearsal, not a guarantee.
+
+Some learning may remain inside Phi. A person can gain a language, enjoy its literature, and speak it attentively without becoming more patient at work or wiser with family. That is still a complete result.
+
+The honest test is small. Notice what travels into another conversation, and notice what does not.

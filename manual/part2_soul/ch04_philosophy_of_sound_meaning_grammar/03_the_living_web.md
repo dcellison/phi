@@ -1,19 +1,21 @@
 # The living web of concepts
 
-A dictionary presents a comfortable fiction: words as separate plots of land, each with its own fenced definition. Look up "love" and find it defined alone; "wisdom" alone; "peace" alone. But no concept lives like that. Love cannot be understood apart from care and vulnerability; peace means nothing without the conflict it is not. Meaning is a web, not a warehouse.
+## Meanings have neighbours
 
-Phi's vocabulary was built to make the web visible. Like the mycelial threads that connect trees under a forest floor, related meanings in Phi are given related forms (in sound, in feel, in the company they keep), so that learning one word opens paths to its kin.
+A learner may know every step of a repair and still fail to understand why it works. Phi gives those states different verbs. `sano` (know) covers information, familiarity, and practical command; `shelomu` (understand) grasps the meaning or relation among the parts. `nohero` (believe) says that someone takes a proposition to be true.
 
-Consider the family that gathers around care: *lothea* (love), *theala* (heal), *moli* (gentle), *theama* (care itself). Or the family of shared flourishing: *phowe* (share), *sila* (community), *shelira* (forest, a community of trees), *ralu* (free). Learn any member and the others come closer; each new word casts light backward on the ones you already hold.
+These distinctions make a semantic neighbourhood. The words do not need to sound alike to belong together. Learning them side by side helps because each boundary corrects a likely mistake: knowing is not understanding, and belief is not either one in disguise.
 
-## Resonance, not etymology
+## Sound kinship where it is deliberate
 
-One honest clarification, because the distinction is easy to blur: these families are kinships of *resonance*, not derivation. Phi words are not built syllable by syllable, each piece carrying its own separate meaning: *theala* does not literally decompose into "care-walking," and no dictionary of roots will parse the lexicon for you. Related meanings deserve related sounds, the way members of a family share a brow or a laugh without sharing a formula.
+Some related meanings do share form. `nuhemi` (grieve) contains `nuhe` (sadness) and continues for another syllable, while `nuwera` (bed) recalls `nulae` (sleep) through its opening. Their lexicon entries record those links directly.
 
-What survives is real and learnable. The wisdom-words breathe through `th`: *theloa* (truth), *thesua* (mindful), *thumela* (teach), *thunai* (student). The `nu` of depth and rest runs through *nulae* (sleep), *nuwera* (bed), *nuhe* (sadness), *nuhemi* (grieve). *nuhemi* is built on *nuhe* deliberately, so that anyone who knew sadness could read grieving at first sight. The web is tended, word by word, and every new coinage is planted where its family already grows.
+This does not make Phi a system of reusable sound roots. A learner cannot take an unfamiliar word apart and recover its definition from the syllables. Accidental resemblance remains accidental, and even a deliberate mnemonic cannot replace the entry that tells a speaker how the word is used.
 
-## A seed's worth of patience
+## A practical way to learn the web
 
-A word in this lexicon behaves like a seed. What you get at first meeting is the husk, *theala*, "heal," memorized and used. Stay with the language and the word keeps opening. You notice its kinship with *theama* (care) and *thelui* (sanctuary); you notice that healing, caring, and shelter share a breath. None of this is required to speak. All of it is waiting for speakers who look.
+Study a word with the nearest distinction that matters. Put `sano` beside `shelomu` in two short sentences. Put `hi` beside `ke` when a witnessed event and an inferred event could be confused. When a sound relationship is documented, use it as another route back to the form rather than as evidence about every similar word.
 
-That is the philosophy of meaning in one sentence: the lexicon is not a list to be memorized but a garden to be walked, and the paths between the plants are part of what was planted.
+The lexicon's descriptions already carry much of this work. They name a close neighbour when the contrast helps and give an example in which the intended sense has something real to do. Semantic domains gather a broader area, while search terms help a speaker find the entry from English. A future relation field may make those paths easier to browse, but there is no reason to pretend every path is audible now.
+
+The web is useful because its paths are marked. Otherwise it is only a thicket with a handsome name.

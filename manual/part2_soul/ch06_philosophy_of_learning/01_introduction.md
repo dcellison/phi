@@ -1,9 +1,9 @@
 # The philosophy of learning
 
-Learning a language is usually framed as acquisition: accumulate vocabulary, internalize rules, practice until fluent. This model treats knowledge as inventory. The more items you stock, the more competent you become.
+Learning `sileta` means more than recognising "sun" on a vocabulary card. The learner must say its three syllables, hear it in a clause, and retrieve it when the sky rather than the exercise supplies the prompt.
 
-Phi invites a different framing. Its curriculum treats grammatical structures as exercises in possible habits: evidentials rehearse naming a source, SOV order asks for context before the final action, and compositional vocabulary displays relationships between ideas. Whether those exercises produce durable cognitive changes is an open question; the manual teaches a practice, not a demonstrated effect.
+Phi therefore treats language learning as use, not inventory alone. Vocabulary and grammar still have to be memorised. The curriculum also presents some of their recurring choices as exercises: evidentials let a learner practise naming a source, Subject-Object-Verb order can become an occasion to notice participants before the action, and semantic neighbours can be studied through the distinctions between them.
 
-This allows Phi to be approached as a contemplative discipline as well as a language course. A learner may use the process to practice patience, precision, curiosity, and attentive listening, while treating any benefit beyond language learning as personal observation rather than canon.
+Whether those exercises produce durable changes outside Phi is an open question. A learner may approach them as contemplative practice and observe what happens, but the manual does not turn a hoped-for effect into a property of the language.
 
-That said, it's still a language. You still need to learn the sounds, memorize words, practice sentences, and make embarrassing mistakes. The contemplative dimension doesn't replace the practical work; it transforms the quality of attention you bring to it.
+The practical work remains wonderfully ordinary. Sounds go wrong, words vanish when needed, and a sentence that looked obedient on paper develops opinions in the mouth. Patience and attention can change how a learner meets those moments. They do not exempt anyone from having them.
