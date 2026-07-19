@@ -1,67 +1,67 @@
 # Part 1: Four sources, one stack
 
-The doctrine lives in manual ch16; here is the working set, once, and then we practice.
+Rain may reach a speaker through the open door, wet ground, a neighbour's message, or a familiar season. The working set names those four routes.
 
-| Particle | Gloss | The claim it makes |
+| Particle | Gloss | Claimed source |
 |---|---|---|
-| `hi` | DIR | my senses met the event itself |
-| `ke` | INFER | my senses met evidence; my reasoning met the event |
-| `ti` | REP | another person's words met me |
-| `ho` | ASSUM | my expectations met the silence |
+| `hi` | DIR | direct sensory perception of the event or state |
+| `ke` | INFER | a conclusion from evidence specific to this case |
+| `ti` | REP | information received from another source |
+| `ho` | ASSUM | background expectation without case-specific evidence |
 
-All four are optional. An unmarked sentence is a plain assertion; a marked one tells the listener where to direct their trust, and their questions.
+All four are optional. A marked clause identifies the source a speaker puts forward. An unmarked clause is a plain assertion and names no source at all.
 
 ### The founding pair
 
-The whole system is audible in two lines from the invitation itself, identical but for one syllable:
+Two lines differ by one syllable:
 
 ```
 pheralu to hi lepa.
 rain PST DIR fall.
-(Rain fell; I saw it myself.)
+(Rain fell; I perceived it directly.)
 
 pheralu to ti lepa.
 rain PST REP fall.
-(Rain fell; someone told me.)
+(Rain fell; I received a report of it.)
 ```
 
-Say them aloud until the swap feels physical. Nothing about the rain changed. What changed is you: your relation to the fact, disclosed in passing, at no cost to the sentence's shape. This is the entire trick of the system: the evidence rides in the verb phrase like tense does, and like tense, it becomes unconscious with use.
+The rain does not change. The first line presents the falling as directly perceived; the second presents it as reported. Neither particle tells us whether the account is accurate.
 
-### Where they stand
+### Where the source stands
 
-Evidentials live in Slot 1, and Slot 1 has a fixed order: Tense > Aspect > Voice > Evidentiality > Modality > Negation. The evidential stands after tense, aspect, and voice, and before modality and negation. You do not need the whole stack often, but you need its order to be reflex:
+Evidentiality occupies one rank in Slot 1. The complete order is Tense > Aspect > Voice > Evidentiality > Modality > Negation. A source particle therefore follows tense, aspect, and voice, and precedes modality and negation.
 
 ```
 shia to hi wepu.
 3SG PST DIR go.
-(They left; I watched them go.)
+(They left; I witnessed it.)
 
-pheralu so ho shua.
-rain FUT ASSUM come.
-(Rain will probably come.)
+pheralu so ho lepa.
+rain FUT ASSUM fall.
+(I assume rain will fall.)
 
 shia to ke ma wepu.
 3SG PST INFER NEG go.
-(They did not leave — I infer it.)
+(I infer that they did not leave.)
 ```
 
-The order never bends, and it earns a moment's attention because the temptation runs the other way: uncertainty *feels* like it should come first, and English says "probably it will rain" with the hedge out front. Phi files the hedge where it belongs: after the time, before the denial. Tense first, then the evidence, then modality, then negation, then the deed. Announce everything; deliver once.
+The order never bends. The interpretation can still be difficult, but the particles do not move to settle it. If both a report and an inference matter, one clause cannot contain `ti ke`; the report and the inference need separate clauses.
 
-### The unmarked default
+### The unmarked assertion
 
-Most sentences carry no evidential, and that is not laziness: it is register. `mia thia sano.` (I know you.) needs no source. Ordinary talk trusts its speakers. The particles come out when the source *is* the message: news, testimony, disagreement, care with another's inner life. The primer's news chapter spends all four in one afternoon, because news is exactly where knowing-how matters:
+A Phi clause may carry no source particle. `mia thia sano.` asserts that I know you and says nothing about how that knowledge arose. For a present event open to ordinary perception, listeners may naturally assume direct access, but the grammar does not supply that source for them.
+
+The particles become useful when provenance belongs in the message: a witness account, a conclusion from a trail, news passed through another person, or an expectation that might need correction. The primer gathers all four around one snake because the story is about those different routes.
 
 ```
 suliwa mua phitura nai. mia suliwa hi nila.
 snake LOC well be. 1SG snake DIR see.
-(A snake is at the well. I saw it with my own eyes.)
+(A snake is at the well. I see the snake directly.)
 ```
-
-One child, one snake, one `hi`, and the whole household will spend the rest of this pamphlet knowing about it in four different ways.
 
 ### Drill: hear the stack
 
-Cover the glosses. For each line, name the slot of every particle before the verb, in order, aloud.
+For each line, name every Slot 1 rank before the verb.
 
 ```
 1. mia to hi nila.
@@ -70,4 +70,4 @@ Cover the glosses. For each line, name the slot of every particle before the ver
 4. thia to ti ma wepu.
 ```
 
-Answers: 1 past + direct. 2 future + assumptive. 3 past + imperfective + inferential. 4 past + reportative + negation. If any answer took longer than the sentence did, run the drill again tomorrow; the stack should resolve at reading speed before you go on.
+The answers are: 1, past and direct; 2, future and assumptive; 3, past, imperfective, and inferential; 4, past, reportative, and negative. Read the lines again until the order is audible without making the source particles mean more than they say.

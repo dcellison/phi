@@ -1,108 +1,97 @@
 # Part 8: Common errors
 
-Evidentiality has two kinds of failure, and only one of them is grammatical. The stack can be mis-ordered: the validator catches that kind. The mark can also be *unearned* (grammatical, fluent, and false) and no validator will ever catch it. This chapter drills both, with the second kind labeled precisely: not wrong, but claiming something else.
+An evidential clause can fail in two different ways. Its particles may be out of order, which is a grammatical error. Its source marker may also disagree with the situation the speaker means to describe. This second kind may be perfectly formed while identifying the wrong source.
 
-### Error 1: the evidential out of order
+### Error 1: evidentiality out of order
 
-**Wrong:**
 ```
 *shia hi to wepu.
 3SG DIR PST go.
 ```
 
-**Right:**
 ```
 shia to hi wepu.
 3SG PST DIR go.
-(They left — I saw them go.)
+(They left; I witnessed it.)
 ```
 
-Tense before evidentiality, always: Tense > Aspect > Voice > Evidentiality > Modality > Negation. The temptation comes from English, which fronts its hedges ("apparently, they left"). Phi announces time first; the evidence is part of the verb's dress, not the sentence's opening.
+Tense precedes evidentiality. The complete Slot 1 order is Tense > Aspect > Voice > Evidentiality > Modality > Negation, and no emphasis or conversational pressure reverses it.
 
-### Error 2: negating the evidence instead of the deed
+### Error 2: negation before the source
 
-**Wrong (for the intended meaning):**
 ```
 *shia to ma hi wepu.
 3SG PST NEG DIR go.
 ```
 
-Negation stands last in the stack, closest to the verb. Placed before the evidential, the sentence is simply mis-ordered: there is no reading where `ma` denies your witnessing. To say "I did not see them leave," deny the *seeing*, in its own clause:
-
 ```
-mia shia hi ma nila.
-1SG 3SG DIR NEG see.
-(I did not see them — and I was watching.)
-
-mia shia ma nila.
-1SG 3SG NEG see.
-(I did not see them.)
+shia to hi ma wepu.
+3SG PST DIR NEG go.
+(They did not leave; I witnessed the interval in question.)
 ```
 
-The first, with `hi`, is testimony about an attentive absence; the second is a plain fact of non-perception. Both are honest; they answer different questions.
+Negation is the final Slot 1 rank and stands immediately before the verb. The corrected sentence denies departure and gives direct perception as its source. To say only that you did not see them, make seeing the predicate: `mia shia ma nila.`
 
-### Error 3: double-sourcing a quotation
+### Error 3: adding a report to a quotation
 
-**Says it twice:**
 ```
-sulae shola suliwa ti nai sholo to haolu.
-sulae QUOT.COMP snake REP be QUOT.COMP.CLOSE PST speak.
-(sulae said: "There is a snake — so I'm told.")
+ne sulae shola suliwa ti nai sholo to haolu.
+NAME sulae QUOT.COMP snake REP be QUOT.COMP.CLOSE PST speak.
+(sulae said, "There is a snake, according to a report.")
 ```
 
-This sentence is perfectly grammatical, and that is the trap. Inside the quotation, `ti` belongs to *sulae's* words: she was marking her own secondhand knowledge, and quoting her preserves the mark. The error is producing this when you meant plain relay: wrapping your own `ti` claim in a quotation frame it never had. If nobody said those exact words, do not put them in the frame:
+This is correct only if the quoted Phi wording actually included `ti`. The particle inside the frame belongs to sulae's quoted assertion. A plain relay without exact wording is different:
 
 ```
 suliwa ti nai.
 snake REP be.
-(There is a snake — so I am told.)
+(There is a snake, according to a report.)
 ```
 
-Rule of thumb: `shola…sholo` copies evidentials; it never adds them. Your own distance from a fact is marked outside the frame or not at all.
+The `shola ... sholo` frame preserves an evidential that was spoken; it does not add one automatically or copy the present speaker's source into someone else's words.
 
-### Error 4: `hi` on an inference
+### Error 4: `hi` supported only by a trace
 
-**Grammatical, but claiming something else:**
 ```
-suliwa to hi shua. mia ruela mua muila nila.
-snake PST DIR come. 1SG path LOC earth see.
-(A snake came — I witnessed it. I see the trail in the earth.)
-```
-
-The two sentences convict each other. If the trail is your evidence, you did not witness the coming; the honest first sentence wears `ke`. This is the most consequential error in the system because it is invisible to grammar: only your own audit catches it. The elder at the well is the standing model: trail seen, `ke` said.
-
-### Error 5: bare claims about other minds
-
-**Grammatical, but trespassing:**
-```
-thia nuhe phaelo.
-2SG sadness feel.
-(You feel sadness.)
+suliwa to hi shua. mia suliwa ruela mua muila nila.
+snake PST DIR come. 1SG snake path LOC earth see.
+(A snake came; I witnessed it. I see a snake's trail in the earth.)
 ```
 
-Phi will let you say it, and sometimes intimacy licenses it. But as a default it asserts access you do not have. The honest range, from Part 5: `ke` when their face is your evidence, `ho` when pattern is, the question `wa` when you are willing to be told. Reserve the bare form for what its bareness claims: knowledge that needs no defense.
+If the trail is the speaker's only source for the coming, the first clause should take `ke`:
 
-### Error 6: the fog of constant marking
-
-**Grammatical, and exhausting:**
 ```
-mia ho remo. sulopa ke sulae nai. mia sulopa ho nuola.
-1SG ASSUM think. soup INFER warm be. 1SG soup ASSUM eat.
-(I assume I think. The soup is warm, I infer. I will presumably eat it.)
+suliwa to ke shua. mia suliwa ruela mua muila nila.
+snake PST INFER come. 1SG snake path LOC earth see.
+(I infer that a snake came. I see a snake's trail in the earth.)
 ```
 
-Every mark is defensible; the paragraph is unlivable. Evidentials are for claims whose *source is part of the message*. Table talk, self-report, and the obvious go bare: the unmarked default is not a gap in the system but its resting state. If every sentence hedges, the hedges stop meaning; the listener who needs your one real `ho` will no longer hear it.
+The trail itself may be directly seen. The snake's earlier movement is inferred from it.
 
-### Error 7: inheriting a witness's certainty
+### Error 5: treating another mind as a grammar problem
 
-**Wrong (for the truth):**
+```
+thia siora phaelo.
+2SG joy feel.
+(You feel joy.)
+```
+
+This unmarked sentence states the feeling without naming a source. The grammar does not grant privileged access, though the social assertion may still be unwelcome or mistaken. If a smile is the stated basis, `thia ke siora nai.` marks an inference. If the person's own account is available, `wa thia siora nai.` asks them. The relationship and purpose decide among these forms; the evidential system does not supply a courtesy ranking.
+
+### Error 6: marking source when it is not part of the message
+
+An evidential can be accurate and still distract from the sentence's work. `sileta ti keru loa.` makes a received source salient while saying that the sun gives light. That may suit a lesson about a particular report. In ordinary conversation, `sileta keru loa.` is enough because provenance is not the point.
+
+Unmarked assertions are not weak or incomplete. They simply leave source unstated. Marking every sentence can make the few source distinctions that matter harder to hear.
+
+### Error 7: inheriting another person's `hi`
+
 ```
 suliwa hi nai. lopia mia shane.
 snake DIR be. child 1SG tell.
+(A snake is present; I perceive it directly. The child told me.)
 ```
 
-The second sentence refutes the first: if the child told you, your mark is `ti`, whatever the child's was. Witnesshood does not travel down the chain (Part 4's law). The correct pair keeps each speaker's debt separate: `suliwa ti nai. lopia mia shane.` The child's `hi` remains the child's to spend.
+If the child's report is the speaker's only source, these clauses conflict. The first should be `suliwa ti nai.` If the speaker also sees the snake, `hi` can be correct for that new direct perception even though the child spoke first.
 
-### The audit habit
-
-Notice the pattern across errors 4 through 7: the grammar held; the honesty slipped. This is why evidentiality is a practice, not a feature. The weekly journal audit (Part 7) is the maintenance schedule: the errors above are exactly what it is designed to find.
+A validator can find particle order and unknown forms. It cannot inspect the wet path, overhear the message, or know whether the speaker saw the snake. That last comparison remains part of speaking.

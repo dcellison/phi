@@ -1,89 +1,87 @@
-# Part 4: Word (`ti`)
+# Part 4: Report (`ti`)
 
-`ti` marks knowledge that reached you through another person. It is the evidential of community (nothing a household knows stays first-hand for long) and the one with the most working parts, because passing knowledge along is a chain, and chains have joints. The doctrine is the manual's (ch16, and ch19 for reported speech); the joints are practiced here.
+`ti` marks information received from another source, whether heard or read. It reports provenance without preserving exact wording or rating the source.
 
 ### The plain relay
 
 ```
-suliwa ti nai. siora mia shane.
-snake REP be. siora 1SG tell.
-(There is a snake — so I am told. siora told me.)
+suliwa ti nai. ne siora mia shane.
+snake REP be. NAME siora 1SG tell.
+(There is a snake, according to a report. siora told me.)
 ```
 
-sulae's line from the primer is the complete pattern: claim marked `ti`, source named unmarked. Like `ke`'s two-sentence habit, naming the source is not grammar: it is craft. A bare `ti` answers *how do you know?* with "someone said"; a sourced `ti` answers the next question before it comes.
+The first clause marks the proposition as received information. The second names the source. Naming a source is not required by grammar, but it may matter when the listener needs to trace the report.
 
-### Three tools, three jobs
+### Three ways to carry speech
 
-Phi has three instruments for other people's words, and serious speakers keep them distinct:
+Phi keeps a reportative particle, an indirect-speech frame, and a quotation frame distinct.
 
 ```
 shia to ti wepu.
 3SG PST REP go.
-(They left — I was told.)
+(They left, according to a report.)
 
-sulae mena shia to wepu meno to haolu.
-sulae DECL.COMP 3SG PST go DECL.COMP.CLOSE PST speak.
+ne sulae mena shia to wepu meno to haolu.
+NAME sulae DECL.COMP 3SG PST go DECL.COMP.CLOSE PST speak.
 (sulae said that they left.)
 
-sulae shola shia to wepu sholo to haolu.
-sulae QUOT.COMP 3SG PST go QUOT.COMP.CLOSE PST speak.
-(sulae said: "They left.")
+ne sulae shola shia to wepu sholo to haolu.
+NAME sulae QUOT.COMP 3SG PST go QUOT.COMP.CLOSE PST speak.
+(sulae said, "They left.")
 ```
 
-The first is *your* claim, wearing its secondhand pedigree; the teller has left the sentence. The second reports the content of sulae's saying; the saying is the event. The third carries her exact words in the quotation frame. Moving between the three is the chapter's core drill: same fact, three commitments. Notice what shifts: in `ti` you assert the fact; in `mena` and `shola` you assert only the *telling*.
+The first is the present speaker's assertion about the departure, with a report as its source. The second asserts that sulae spoke and reports the proposition. The third purports to preserve sulae's exact Phi words. Source wording in another language remains outside the Phi passage rather than becoming exact through `shola ... sholo`.
 
-### Layered knowing
+### Reportative marking on speech
 
-The tools stack, and the stack stays honest at every level. The manual's speech chapter builds this sentence:
+An indirect-speech frame comes before the matrix predicate, and `ti` takes its ordinary Slot 1 place immediately before that predicate:
 
 ```
-mia ti mena shia so wepu meno shemui.
-1SG REP DECL.COMP 3SG FUT go DECL.COMP.CLOSE utter.
-(I am told that they said they would go.)
+shia mena ne sulae so wepu meno to ti shemui.
+3SG DECL.COMP NAME sulae FUT go DECL.COMP.CLOSE PST REP utter.
+(They reportedly said that sulae would go.)
 ```
 
-Read it from the outside in: I pass along (`ti`) a report (`mena…meno`) of a departure that was future at the time of its telling (`so`, relative to the saying, per ch19's tense rule). Every remove from the event is visible on the page. Phi cannot stop a rumor, but it refuses to let a rumor dress as testimony.
+The speaker gives a report as the source for the saying. The particle does not count every person through whom the account passed. Another clause or an adjacent source record can identify the chain when that identity matters.
 
-### The chain in practice
-
-Retelling is where `ti` earns its keep. Follow one fact through the household:
+### A report moving through the household
 
 ```
 mia suliwa hi nila.
 1SG snake DIR see.
-(the child, at the well: I saw the snake myself.)
+(I see the snake directly.)
 
-suliwa ti nai.
-snake REP be.
-(sulae, told by the child: there is a snake — I hear.)
+suliwa ti nai. lopia mia shane.
+snake REP be. child 1SG tell.
+(There is a snake, according to a report. The child told me.)
 
-lopia mena suliwa mua phitura nai meno ti haolu.
-child DECL.COMP snake LOC well be DECL.COMP.CLOSE REP speak.
-(keruko, farther down the chain: the child says — I'm told — that a snake is at the well.)
+ne sulae mena suliwa mua phitura nai meno to ti haolu.
+NAME sulae DECL.COMP snake LOC well be DECL.COMP.CLOSE PST REP speak.
+(sulae reportedly said that a snake was at the well.)
 ```
 
-Each speaker marks their own distance and no one else's. The child owes `hi` and pays it; sulae owes `ti` and pays it; keruko, who heard it *about* the child rather than from him, marks even the attribution as hearsay. The chain is long but nowhere does it lie.
+The child can state direct perception. The next speaker marks a report and names the child. The last speaker presents sulae's saying itself as reported. Nobody inherits another person's `hi`, though someone who later sees the snake may make a new direct statement of their own.
 
-### When `ti` would insult the obvious
+### When provenance is not the message
 
-The manual is clear that general knowledge goes unmarked, and the boundary is social as much as grammatical. `sileta keru loa.` (The sun gives light.) needs no `ti`, though someone once taught you. Marking the commonplace implies your listener might doubt it, or that you do. Save `ti` for the news, where the chain is short enough to matter.
+General knowledge need not carry `ti` merely because it was once learned from a book or teacher. `sileta ru whalo nai.` is an ordinary assertion that the sun is very large. Adding `ti` would make the received source salient, which suits a discussion of a particular account but not every mention of the sun.
 
-### Drill: keep the chain honest
+### Drill: event, saying, or report of a saying
 
-You are the fourth link. thinoe saw the storm fell the old tree; she told the elder; the elder told you; now you tell sulae. Produce your sentence three ways: (a) plain relay with `ti`, (b) reporting the elder's telling with `mena…meno`, (c) the full layered form. One good set:
+Suppose the elder told you that a storm felled the old tree. These clauses place the report at different levels:
 
 ```
 serao shiro to ti lepa.
 old tree PST REP fall.
-(a: The old tree fell — so I'm told.)
+(The old tree fell, according to a report.)
 
-wheo mena kurisha serao shiro to ka lepa meno to haolu.
-elder DECL.COMP storm old tree PST CAUS fall DECL.COMP.CLOSE PST speak.
-(b: The elder said the storm felled the old tree.)
+wheo mena kurisha serao shiro to ka lepa meno to hi haolu.
+elder DECL.COMP storm old tree PST CAUS fall DECL.COMP.CLOSE PST DIR speak.
+(I directly heard the elder say that the storm felled the old tree.)
 
-mia ti mena kurisha serao shiro to ka lepa meno hea.
-1SG REP DECL.COMP storm old tree PST CAUS fall DECL.COMP.CLOSE hear.
-(c: I hear — at some remove — that the storm felled the old tree.)
+wheo mena kurisha serao shiro to ka lepa meno to ti haolu.
+elder DECL.COMP storm old tree PST CAUS fall DECL.COMP.CLOSE PST REP speak.
+(The elder reportedly said that the storm felled the old tree.)
 ```
 
-If version (a) came out of your mouth wearing `hi`, go back to Part 2 and reread what witnessing costs.
+The first carries the event as reported information. The second marks direct perception of the elder's speech. The third receives even that speech event through a report. The tree has not moved between the sentences; only the source named by the present speaker has.

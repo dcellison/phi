@@ -1,15 +1,15 @@
 # Part 5: Slot 1: evidence and modality
 
-Ranks four and five are the speaker's own entries in the record: *how I know* and *how the world constrains*. Both are optional; both are one-per-clause; and both have deep literature elsewhere: this part keeps only what the system needs from them.
+Ranks four and five do different work. Evidentiality states the source a speaker claims, while modality presents an event as possible, able, or necessary. Both are optional and limited to one particle per rank in a clause. This part keeps to their place in the stack.
 
 ### Evidence: rank four, one source, the evidentiality pamphlet's territory
 
-`hi` witnessed, `ke` inferred, `ti` told, `ho` assumed. All drilled to reflex in the evidentiality pamphlet, from the snake at the well to the honest journal. The slot facts, restated once: evidentials stand after tense, aspect, and voice, and before modality; one source per clause (two sources are two sentences, the two-sentence habit); and, by the newest ruling, **an unmarked sentence claims no source at all**. It is a plain assertion, the system's resting state; `hi` exists precisely so that witnesshood is a claim you *make*, with the accountability that follows, never a default you drift into.
+`hi` claims direct perception, `ke` inference from case-specific evidence, `ti` a report, and `ho` background assumption. The evidentiality pamphlet develops all four from the snake at the well to an optional journal of sources. Here the slot facts are enough: evidentiality follows tense, aspect, and voice, and precedes modality. One source particle is the limit for a clause, so two claimed sources need two clauses. An unmarked assertion claims no source at all.
 
 ```
-pheralu so ho shua.
-rain FUT ASSUM come.
-(Rain will probably come.)
+pheralu so ho lepa.
+rain FUT ASSUM fall.
+(I assume rain will fall.)
 ```
 
 ### Modality: `po` and `na`
@@ -38,9 +38,9 @@ That second line, from ch15 §4, repays a slow read: aspect then modality, a com
 
 The metta text is the register lesson for this whole rank: one `na` in the entire text, aimed at the practitioner, and thirty-one wishes. Necessity is spent once, where it is owed, and hope frames the remaining instruction. Modals are claims about the world's constraints; Phi's texts spend them the way its counting pamphlet spends exactness, only where they are true and owed.
 
-### Drill: the honest layer
+### Drill: source and modality
 
-For each situation, add only what honesty requires, choosing source, modal, both, or neither:
+For each situation, choose a source particle, a modal, both, or neither according to the stated claim:
 
 1. You hear rain on the roof right now. Say that it rains.
 2. The path is wet; you did not see it fall. Say that it rained.
@@ -49,4 +49,4 @@ For each situation, add only what honesty requires, choosing source, modal, both
 5. It is the rain season, nothing more. Say that rain will come.
 6. Your friend cannot come. The river is too high. Say it.
 
-Answers: 1 `pheralu lepa.` You are both in it; a pedigree would be comedy (unmarked, and claiming nothing). 2 `pheralu to ke lepa.` 3 `mia po naphe.` 4 `mia wei muila phialu na loa.` 5 `pheralu so ho shua.` 6 `melu po ma shua.` The possibility denied, which says nothing against the friend, only against the river. That is `po ma`'s gentleness: it locates the impossibility in the world.
+Answers: 1 `pheralu lepa.` Source is not part of the message; `pheralu hi lepa.` would also fit if direct perception mattered. 2 `pheralu to ke lepa.` 3 `mia po naphe.` 4 `mia wei muila phialu na loa.` 5 `pheralu so ho lepa.` 6 `melu po ma shua.` The possibility denied says nothing against the friend, only against the river. That is `po ma`'s gentleness: it locates the impossibility in the world.

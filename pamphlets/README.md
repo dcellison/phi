@@ -8,7 +8,7 @@ The manual explains Phi's machinery once. These pamphlets give the difficult par
 |---|---|---|
 | Relative clauses in Phi | Headed, headless, and nested pre-nominal relatives, followed by repair work and exercises. | [Open](relative_clauses/00_title.md) |
 | Complementizers and embedded clauses in Phi | The three opener and closer pairs for statements, questions, and quotations. | [Open](complementizers/00_title.md) |
-| Evidentiality in Phi | Choosing and stacking the four source particles, then carrying them into an honest journal. | [Open](evidentiality/00_title.md) |
+| Evidentiality in Phi | Choosing and stacking four claimed-source particles while keeping source apart from truth, confidence, and reliability. | [Open](evidentiality/00_title.md) |
 | Counting in Phi | Ternary numerals, optional classifiers, approximation, and arithmetic spoken in full sentences. | [Open](ternary_numerals/00_title.md) |
 | How Phi names people | `ne`, productive Phi-form names, calling, honorifics, and the established-name register. | [Open](naming/00_title.md) |
 | Punctuation you can hear | Spoken questions, quotation boundaries, address, names, and the period-only writing rule. | [Open](spoken_punctuation/00_title.md) |

@@ -291,6 +291,28 @@ All twenty-seven Markdown files under `primer/` are reviewed. The pass keeps its
 
 The completed base and function vocabulary covers the primer without a new root or lexical question. Direct `kurisha`, `pharelo`, `sheloa`, `howai`, `horae`, `milaro`, and `napa` replace or clarify older detours. Existing `kau`, `powea`, `shia`, and `mu` receive missing teaching support. Removing Work `piru` leaves zero module terms in the graded course. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
 
+## Pamphlets
+
+The first of nine pamphlets is reviewed. The evidentiality pass keeps the snake-at-the-well practice while rebuilding its account of source marking around current canon. Direct perception, inference, report, assumption, truth, reliability, confidence, and courtesy no longer borrow one another's work.
+
+| File | State | Finding and disposition |
+|---|---|---|
+| `evidentiality/00_title.md` | Revised | The opening now presents four routes to one claim and states the particle limit without treating source as proof, confidence, or good faith. The elder's later judgement remains separate from the evidentials. |
+| `evidentiality/01_four_sources_one_stack.md` | Revised | The four claimed sources, their fixed Slot 1 rank, the one-per-clause limit, and unmarked assertion now agree with manual chapter 16. No particle is ranked above another. |
+| `evidentiality/02_witness_hi.md` | Revised | `hi` claims direct sensory perception rather than strength. Trace-based conclusions move to `ke`, memory stays fallible, and an unseen future event can no longer borrow witnesshood from a promise. |
+| `evidentiality/03_signs_ke.md` | Revised | `ke` now rests on evidence specific to the case. The two-sentence claim-and-sign pattern remains useful without becoming grammatical law, and claims about another person remain open to correction. |
+| `evidentiality/04_word_ti.md` | Revised | Reportative `ti`, indirect speech, and exact Phi quotation receive separate jobs. Matrix source marking follows the complement in canonical order, and one witness's `hi` no longer transfers through a chain of reports. |
+| `evidentiality/05_expectation_ho.md` | Revised | Background expectation is distinguished from case-specific evidence and modal possibility. `ho` no longer measures confidence, humility, politeness, or kindness. |
+| `evidentiality/06_choosing_and_combining.md` | Revised | Memory, dreams, the senses, negation, questions, changing sources, and unmarked claims now follow the narrow source contract. Later direct perception can support a new `hi` claim after an earlier report. |
+| `evidentiality/07_a_journal_of_sources.md` | Revised | The chapter is now an optional journal of sources rather than a test of character. Its first example gains required past tense, and later evidence receives a new entry instead of rewriting what the writer knew before. |
+| `evidentiality/08_common_errors.md` | Revised | The error set now separates bad particle order from a source marker that mismatches the stated situation. Bare claims about another mind no longer pretend to encode privileged access, and source marking has no courtesy scale. |
+| `evidentiality/09_exercises.md` | Revised | Exercises and answers now test claimed source, optional marking, complement order, and context. A valid unmarked assertion is no longer treated as dishonest or deficient. |
+| `evidentiality/10_appendix.md` | Revised | The quick reference gives each particle one bounded source, keeps `ho` apart from confidence and `po`, and presents the journal as one optional practice. |
+
+### Lexical and canonical result
+
+The completed base and function vocabulary covers the pamphlet without a new root, lexical question, or optional module term. Its direct dependencies in the pamphlet catalogue, the three-slots source summary, and the manual's journal pointer now use the same account. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
+
 ### Resume point
 
-Continue SEM-09D with `pamphlets/`. Preserve each pamphlet's practical purpose, use module vocabulary where the pamphlet explicitly teaches that domain, and record every newly noticed lexical question before the pass closes.
+Continue with `pamphlets/three_slots/`, the closest teaching dependency of this pass, and then review the other seven pamphlets. The later current-document sweep must revisit the shorthand "source of knowledge" in `documents/grammar/particle_reference.md` and "How you know" in `documents/reference/taught_patterns.md`; neither phrase should restore an epistemic claim that the particles do not make.
