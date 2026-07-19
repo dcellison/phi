@@ -1,14 +1,13 @@
 # Current state
 
-This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D053, the fifteenth SEM-09D literary retrofit, and the drafted-book pass. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
+This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D053, the fifteenth SEM-09D literary retrofit, the drafted-book pass, and chapter 7. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
 
 ## Active execution sequence
 
-The literary shelf and drafted Phi book are current. Daniel requested an execution-sequence reassessment before more work begins:
+The literary shelf and Phi book are current through chapter 7. The execution sequence is now:
 
-1. SEM-09D still has the manual, primer, pamphlets, and current documents to review.
-2. PED-08 is ready to resume the book at chapter 7, "A literature before a community."
-3. Record which one comes first in the roadmap before starting it.
+1. Resume SEM-09D with the manual, then continue through the primer, pamphlets, and current documents.
+2. Return to PED-08 at chapter 8 after that sweep.
 
 D044 completed the base-first boundary, and D045 through D052 completed all eight learning paths in their historical order. The full migration has one editorial judgement and voice. SEM-09D began with Schleicher's fable. That pilot preserved every Phi line after checking later base roots and optional terms, while D053 repaired `kawhera` and `pilora` after their target prose proved narrower than their validated animal uses. The second pass replaced three older circumlocutions in *The North Wind and the Sun* with `mesatu` (try), `komeri` (forehead), and `phesari` (flee) in both the translation and transmutation. The third replaced four detours in the Metta Sutta with `sheraki` (search), `tupeka` (burden), `rinu` (want), and `huwa` (weak). The fourth leaves both UDHR Article 1 renderings intact and identifies `remo` as thinking rather than a dedicated rational faculty. The fifth repairs Babel's physical joining, the tower's top, the builders' wish for renown, imagined action, and punitive scattering without adding a root. The sixth restores reverence, perception, change, and verse in the Heart Sutra. It also removes a quantitative misuse of `thenoi` and keeps physical `whalo` out of the English "great" homonym. The seventh brings `phomila`, `lioru`, `lima`, and `mesatu` into *The Prophet, On Children*. The eighth gives the Tao Te Ching translation `kowanu`, `monaki`, and direct `kethua`; both renderings distinguish `lioru`, life, and state completed withering through `ki kureno`. The ninth revises seventeen Solarpunk units, uses all eight modules, and removes technical vocabulary from general solutions, human ability, social power, and ordinary living. The tenth replaces unadorned `mueli` with simple `siloma` in *The Little Prince* and uses perfective `ki` for the bond whose result still holds. The eleventh preserves the Ring Verse refusal's 12 base and function forms while bringing its account of dominion into line with the completed Commons and Systems distinctions. The twelfth changes 46 units in *The Velveteen Rabbit*, separates search from finding and wear from age, and brings exact household and bodily words into the nursery without changing Williams's source witness. The thirteenth changes 29 units in *News from Nowhere* chapter 1, separates authority from guidance and representation from thought, and brings direct words for coercion, winter, wear, waking, and observation into Morris's first night without changing his source witness. The fourteenth now changes 57 units in chapter 2, adds direct tide and service to its earlier repairs, and preserves every Morris line. The fifteenth changes 46 units in chapter 3, gives the house and breakfast direct household language, gives the weaver his craft terms, and preserves all 245 Morris lines. The drafted-book pass preserves thirteen of fifteen fenced examples, revises two in the cold open, corrects the account of `wia` and transmutation, and aligns the schema discussion with the completed prose contract.
 
@@ -80,7 +79,7 @@ All eight profiles already have canonical JSON membership, a generated module in
 
 The literary shelf has completed its full review against the current lexicon. It contains nine close translations and eleven transmutations; seven works have both. *News from Nowhere* is one 32-chapter work with the first three chapters transmuted and reviewed. The current review record is [`documents/evaluation/active_text_corpus_review.md`](../../documents/evaluation/active_text_corpus_review.md).
 
-SEM-09D is in progress. Fifteen literary passes complete the shelf, and all three drafted *News from Nowhere* chapters are among them. The drafted Phi book is also current. The remaining active-corpus retrofit covers the manual, primer, pamphlets, and current documents, but the requested execution-sequence reassessment comes first. A Phi passage changes only when the current form is more faithful or natural there. A transparent composition stays when its parts still teach or express the thought better, and every changed sentence and dependency receives validation.
+SEM-09D is in progress. Fifteen literary passes complete the shelf, and all three drafted *News from Nowhere* chapters are among them. The Phi book is current through chapter 7. The remaining active-corpus retrofit now resumes with the manual, followed by the primer, pamphlets, and current documents. A Phi passage changes only when the current form is more faithful or natural there. A transparent composition stays when its parts still teach or express the thought better, and every changed sentence and dependency receives validation.
 
 The shelf's method distinction remains settled:
 
@@ -90,7 +89,7 @@ The shelf's method distinction remains settled:
 
 ## Book state
 
-The book has eight drafted files: the cold open, chapters 1 through 6, and chapter 11. All appear on the website. Every chapter has a references section and a `Phi sources` subsection.
+The book has nine drafted files: the cold open, chapters 1 through 7, and chapter 11. All appear on the website. Every chapter has a references section and a `Phi sources` subsection.
 
 | Chapter | File | Approximate words |
 |---|---|---:|
@@ -101,11 +100,12 @@ The book has eight drafted files: the cold open, chapters 1 through 6, and chapt
 | 4. Announce, then deliver | `book/04_announce_then_deliver.md` | 2,532 |
 | 5. The web | `book/05_the_web.md` | 2,545 |
 | 6. What it will not say | `book/06_what_it_will_not_say.md` | 1,675 |
+| 7. A literature before a community | `book/07_a_literature_before_a_community.md` | 3,076 |
 | 11. The lens, not the cage | `book/11_the_lens_not_the_cage.md` | 4,073 |
 
 The treatment aims for 4,000 to 6,000 words per chapter and 70,000 to 90,000 words overall, but Daniel chose to continue rather than pad early chapters merely to meet a projection. Do not silently lengthen merged chapters. A later structural edit can decide where depth is genuinely missing.
 
-The next planned draft is chapter 7, "A literature before a community." The requested sequence reassessment will decide whether it comes before the remaining SEM-09D teaching and project-document sweep. Read [`book/treatment.md`](../../book/treatment.md), chapter 6, and several neighbouring finished chapters before drafting. Each chapter is its own PR. Audit every external citation after the draft, repair the prose from the audit, preserve the consistent `Phi sources` subsection, and use restrained Jerome humour where it fits.
+The next planned draft is chapter 8, "The workshop," after the remaining SEM-09D teaching and project-document sweep. Its targeted research includes current disclosure norms for generative tools in creative work and a historical check of the Morris and Co. analogy. Read [`book/treatment.md`](../../book/treatment.md), chapter 7, and several neighbouring finished chapters before drafting. Each chapter is its own PR. Audit every external citation after the draft, repair the prose from the audit, preserve the consistent `Phi sources` subsection, and use restrained Jerome humour where it fits.
 
 The leading book title remains *A Language You Cannot Hurry*. *Announce, Then Deliver* is the alternate. The title is open. "Hurry" must continue to mean attention discarded under pressure, not fast speech.
 

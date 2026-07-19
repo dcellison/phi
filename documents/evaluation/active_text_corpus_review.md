@@ -498,7 +498,7 @@ Forty-six aligned units change, and every `morris:` line remains byte-for-byte u
 
 ## Contextual review: the drafted Phi book
 
-The drafted book comprises its cold open, chapters 1 through 6, and chapter 11. Fifteen fenced Phi examples appear across five of those files, with inline forms carrying the language through the others. Thirteen blocks remain exact. Two in the cold open change: service receives its direct word, and Dick's full answer now carries the tide into the Phi quotation.
+The drafted book comprises its cold open, chapters 1 through 7, and chapter 11. Eighteen fenced Phi examples appear across six of those files, with inline forms carrying the language through the others. Sixteen blocks remain exact, including the three Babel passages quoted in chapter 7. Two in the cold open change: service receives its direct word, and Dick's full answer now carries the tide into the Phi quotation.
 
 ### Post-migration contextual retrofit
 
@@ -512,9 +512,9 @@ The review keeps the garment-and-hand composition, changes no source quotation, 
 | Translation and transmutation | Name the method accurately and remove the claim that Phi produced Morris's joke without prompting | Morris supplied the misunderstanding. Phi changes its wording under a declared transmutation and exposes the missing economic expectation without claiming authorship of the joke. |
 | Transparent composition | Retain `muo wethalu manuwe sepho` for putting a hand into the garment | Phi has no pocket noun, and the composition preserves the physical act without pretending that the whole garment is a pocket. |
 | Lexicon prose contract | Replace chapter 5's retired `muila` symbolism and chapter 6's claim that names lack two supposedly required optional fields | `muila` now demonstrates articulatory description without a symbolic tale; `nuwera` supplies a genuine optional mnemonic through its audible kinship with `nulae`. A productive name lacks shared lexical definition and classification without being deficient in optional symbolism or philosophy. |
-| Preserved chapters and examples | Leave chapters 1, 3, 4, and 11 unchanged; preserve every non-cold-open block in chapters 2, 4, 6, and 11 | Chapters 1 and 3 contain no Phi sentence requiring retrofit. The remaining examples already agree with their literary or manual sources and the completed lexicon. |
+| Preserved chapters and examples | Leave chapters 1, 3, 4, 7, and 11 unchanged; preserve every non-cold-open block in chapters 2, 4, 6, 7, and 11 | Chapters 1 and 3 contain no Phi sentence requiring retrofit. Chapter 7 copies three validated Babel passages exactly, and the remaining examples already agree with their literary or manual sources and the completed lexicon. |
 | Optional module reach | Add no optional root | The cold open's argument belongs to base vocabulary and grammar. Existing module vocabulary in later teaching examples remains where its subject needs it; no term enters merely to display the modules. |
-| Active dependencies | Update chapter 2, the treatment, review ledger, progress records, handoff, and phonetic-neighbour attestations | All Morris lines remain exact, and every drafted Phi book chapter is current. The requested execution-sequence reassessment comes before another corpus pass or a new chapter. |
+| Active dependencies | Update chapter 2, the treatment, review ledger, progress records, handoff, and phonetic-neighbour attestations | All Morris lines remain exact, and every drafted Phi book chapter is current through chapter 7. Resume the manual-led remainder of SEM-09D before drafting chapter 8. |
 
 ## Transmutation review: the original shelf pass
 
@@ -554,4 +554,4 @@ The source citations and gap logs in each pamphlet hold the detailed decisions. 
 | `texts/news_from_nowhere/chapter_02.md` | Transmutation | Reviewed | The 241-unit post-migration pass changes 57 units and uses five optional roots with seven memberships across four modules without altering Morris's source lines. |
 | `texts/news_from_nowhere/chapter_03.md` | Transmutation | Reviewed | The 245-unit post-migration pass changes 46 units and uses 14 optional roots with 15 memberships across five modules without altering Morris's source lines. |
 
-The full transmutation shelf has received its original review and its post-migration contextual retrofit. Selective paired work has added close translations where a second rendering exposes Phi's capacity or its limits without displacing the transmutation. The drafted Phi book is now current, including the dependent tide and service lines in *News from Nowhere* chapter 2. The execution sequence is due for reassessment before the next corpus pass or chapter draft.
+The full transmutation shelf has received its original review and its post-migration contextual retrofit. Selective paired work has added close translations where a second rendering exposes Phi's capacity or its limits without displacing the transmutation. The drafted Phi book is current through chapter 7, including the dependent tide and service lines in *News from Nowhere* chapter 2 and the three exact Babel passages used to examine the literary method. Resume the manual-led remainder of SEM-09D before chapter 8.
