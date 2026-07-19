@@ -1,10 +1,10 @@
 # Meditation and Phi
 
-Phi and sitting practice were designed for each other: the language's Buddhist pillar is not decoration but structure. This section offers three ways the language and the cushion can share their work. None requires belief in anything; all require only breath and attention.
+Phi draws openly from Buddhist mindfulness and Right Speech, so meditation is one honest place to practise it. The suggestions here use repeated phrases, grammatical noticing, and the Metta Sutta. They are language exercises rather than requirements for belief or one approved way of sitting.
 
 ## Phrase practice
 
-The oldest use of language in meditation is the repeated phrase. Phi's hiatus makes its phrases naturally metrical (every vowel its own beat), so a short sentence settles into breath rhythm without forcing. Four that practitioners have found durable:
+A short Phi phrase can be repeated with each vowel kept in its own syllable. A speaker may fit the phrase to the breath, or use another rhythm if that is more comfortable. Four possible phrases are:
 
 ```
 mia ha nai.
@@ -20,15 +20,15 @@ henoi.
 (Enough.)
 ```
 
-The last is a complete practice in one word. Breathe in; on the exhale, `he-no-i`, three beats. `Henoi` names a contextual judgment of sufficiency; in meditation, the practitioner chooses to apply that judgment to this breath or session rather than deriving it from a number.
+The last can stand alone: `he-no-i`, three syllables with stress on `no`. `henoi` names a contextual judgement of sufficiency. In meditation, a practitioner may apply that judgement to the present breath or sitting rather than derive it from a number.
 
 ## The particles as attention training
 
-Slot 1 is a map of the meditating mind. Sitting, notice a thought and tag it silently with the particle it would need: a memory is `to`, a plan is `so`, a worry is usually `so ho`, an assumed future. The tagging is not analysis; it is the same gentle noting that any mindfulness tradition teaches, except the labels come from your grammar instead of a manual. Speakers report that after enough sitting, the tags fire on their own in conversation too, which is the language doing openly what it was always designed to do quietly.
+Slot 1 can supply prompts for grammatical noticing. If a silent Phi sentence concerns a past event, it needs `to`; a future event needs `so`; a claim based only on background expectation may take `ho`. These are properties of the imagined sentence, not diagnoses of the mind. A memory may concern the present, a plan is more than future tense, and worry has no required particle. The exercise is simply to notice what claim the thought would make if spoken.
 
 ## The metta recitation
 
-The language has its own complete loving-kindness text: *lothea thole*, the Metta Sutta translation in the pamphlets. Its refrain was built for recitation:
+The text shelf includes *lothea thole*, a complete translation of the Metta Sutta. Its refrain works well in recitation:
 
 ```
 su theula limoe siora korua phelu.
@@ -36,4 +36,4 @@ OPT UNIV creature joy heart hold.
 (May every creature hold a joyful heart.)
 ```
 
-The full text, read aloud with complete hiatus, takes about four minutes: a sitting in itself. Reciting it does double duty that no other practice in this manual can match: every repetition deepens both the metta and the Phi. The tradition that gave Phi its mindfulness pillar always taught in this way: meaning carried on rhythm, rhythm carried on breath. The language has come home to the method.
+Reading the full text aloud practises both its loving-kindness teaching and the sound of Phi. Repetition can make the forms familiar, while attention to the source keeps pronunciation from replacing meaning. The text is available at `texts/metta_sutta.md`; a reader may take one verse or the whole work.

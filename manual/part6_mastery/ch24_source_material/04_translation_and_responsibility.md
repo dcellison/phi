@@ -1,6 +1,6 @@
 # Translation and responsibility
 
-Separate presentation makes three acts visible: preserving a source, translating or paraphrasing it, and analyzing it. None guarantees the others. A faithful source copy may remain misunderstood; a useful Phi paraphrase may omit source distinctions; an analysis may challenge the source without changing its wording.
+Separate presentation makes three acts visible: preserving a source, translating or paraphrasing it, and analysing it. A faithful source copy may remain misunderstood. A useful Phi paraphrase may omit a distinction, while an analysis may challenge the source without changing its wording.
 
 Source statement outside Phi: `The device is safe.`
 
@@ -20,4 +20,4 @@ shia shola ha keli shurano nai sholo to haolu.
 (They said, "This device is safe.")
 ```
 
-Do not present the Phi translation as the original wording, and do not assume that carrying the source proves approval, truth, applicability, or understanding. When identity, testimony, law, medicine, science, or a tradition-specific concept depends on source form, keep that form separately available and state what the Phi account does and does not claim.
+Label the Phi passage as a translation so it cannot be mistaken for the original wording. Keeping the source available preserves its identity without approving or validating its claim. That separation matters whenever testimony or technical practice depends on exact wording. Law, medicine, science, and tradition-specific material supply common cases.

@@ -1,24 +1,24 @@
 # Finding or building community
 
-`sila`, community, is one of Phi's oldest words, and the language is explicit about its own sociality: a tongue built for collaborative art wants more than one speaker. But community around a young constructed language does not arrive; it is built, usually by exactly one person deciding to be unembarrassed about it. Here is what that looks like at three scales.
+`sila` means community. For a constructed language with few speakers, a community may begin with one other person willing to receive a sentence and send one back. That modest beginning still requires an invitation rather than an imagined audience.
 
 ## A community of two
 
-Everything begins here, and two is enough. A partner, a friend, a child, a correspondent: one other person who will receive a Phi sentence and eventually return one. Practical first steps that have worked:
+Two people are enough for an exchange. A partner, friend, child, or correspondent may prefer a small shared practice to a course. Some possible beginnings are:
 
-- **The greeting pact.** Two people agree to exchange one fixed greeting daily (`kona melu. wa thia towe nai.`) and nothing more until it feels natural. Vocabulary grows outward from ritual, not the reverse.
-- **The written exchange.** Letters or messages with three-line journal entries (witness, feeling, wish). Writing forgives slow recall; conversation punishes it. Start written.
-- **Teaching as learning.** `thumela` and `shonela` are built to be unconfusable for a reason: the fastest way to consolidate your Phi is to teach its first chapter to someone else.
+- Exchange one fixed greeting, such as `kia. wa thia towe nai.`, until both people can reach it easily.
+- Send the three-line journal form from the previous section. Writing leaves time to consult the lexicon before answering.
+- Teach one small distinction to each other. Explaining why `thumela` means teach and `shonela` means learn can expose which one still needs practice.
 
 ## A circle
 
-Three to nine people (`ta shao` to `ta phoi`) can form a small practice circle. A circle can do what pairs cannot: recite together (the metta refrain was made for unison), transmute together (chapter 22's exercises work as a table conversation), and disagree together, which is where the language's peace practices need actual choices rather than grammatical promises.
+A small group can form a practice circle. It can recite a metta verse in unison, work through one transmutation at a table, or test the disagreement language from chapter 21. The last activity matters because peace-oriented grammar still needs people to make difficult choices together.
 
-One structural suggestion from experience: let every gathering produce *one artifact*: a transmuted proverb, a new compound proposed for the registry, three sentences of collective journal. Community around a language survives on the things it makes.
+One possible structure is to let each gathering produce one modest artefact: a transmuted proverb, a proposed compound, or a few sentences written together. The object gives the next gathering somewhere concrete to begin.
 
 ## The language as commons
 
-Phi's vocabulary treats community as a living system: `sila` flows, `wesoma` is mutuality, `kowela` is the council. Treat the language itself the same way. Its lexicon is versioned and public within your circle; its gaps are anyone's to notice; its new words pass through the same gentle protocol whoever proposes them. A conlang with one owner is a work of art. A conlang with a commons is a language. Phi was always meant to make the crossing, and every practice in this chapter (the pacts, the circles, the artifacts) is a plank in that bridge.
+Base `wesoma` can describe a mutual relation. The optional Commons word `kowela` names a continuing council; a speaker who has not learned the module can use `sila lona`, a community meeting, when one gathering is enough. Shared use also needs a stated way to settle changes: anyone may notice a gap or propose a word, while the lexicon remains one public record rather than splitting with every circle. A community grows through what its members can actually return to together.
 
 `su sila thuroa.`
 (May the community grow.)

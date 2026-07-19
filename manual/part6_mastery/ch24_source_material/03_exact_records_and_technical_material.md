@@ -1,6 +1,6 @@
 # Exact records and technical material
 
-Precision now lives where the exact artifact lives. Values, units, dates, identifiers, formulas, quotations, measurements, legal wording, and medical data remain in a source record outside Phi. The record may be printed immediately before a Phi account, placed in a table, cited in a note, shown by an interface, or established in conversation.
+Precision lives where the exact artifact lives. Units, formulas, and identifiers remain in a source record outside Phi. The same boundary holds for exact legal wording and clinical values. A page may place the record before a Phi account or in a table; an interface or conversation can establish the same relation through its own medium.
 
 Source record outside Phi: `body temperature: 38.7 C`
 
@@ -11,11 +11,11 @@ PROX record PROX measure hold.
 ```
 
 ```
-mia ha masue tukiro.
-1SG PROX measure review.
-(I review this measurement.)
+mia ha masue themio.
+1SG PROX measure reflect.
+(I reflect on this measurement.)
 ```
 
-The Phi sentences identify the record and the act around it. They do not reproduce its digits or unit, claim that the measurement is valid, or replace the exact notation. State source, method, version, uncertainty, authority, and applicability in Phi where those relations matter; preserve the artifact itself through its own medium.
+The Phi sentences identify the record and the act around it. The digits and unit remain in the source record. Phi can separately describe who made the measurement, how it was made, and whether someone accepts it for the present purpose.
 
-This separation is not an excuse to avoid needed vocabulary. If speakers repeatedly need to discuss concentration, capacity, specification, dosage, diagnosis, jurisdiction, or another concept, the appropriate core or module vocabulary should carry that concept. Exact source values still remain separate.
+The boundary does not excuse a thin lexicon. Repeated discussion may need direct core or module words for diagnosis, dosage, capacity, or another stable concept. The exact value and source notation remain separate even after the concept has a Phi name.

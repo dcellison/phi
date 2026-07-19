@@ -190,6 +190,37 @@ All sixteen files under `manual/part5_complex/` are reviewed and revised. The pa
 
 The completed base and function vocabulary covers every Part V construction, and no optional module word is used. The pass opens no lexical decision. It repairs two dependencies outside the manual: the headless-relative example in `documents/grammar/complementizer_reference.md` now omits its head, and the `lila` lexicon entry enforces the same modifier-first order as every other dependent clause.
 
+## Part VI: Mastery
+
+All twenty files under `manual/part6_mastery/` are reviewed. Eighteen needed revision; the source-boundary and cross-language naming chapters already matched canon and remain unchanged. The pass brings social register, literary method, daily practice, and exact source handling into line with the completed lexicon without adding a root.
+
+| File | State | Finding and disposition |
+|---|---|---|
+| `ch21_social_context/01_the_vocative_kona.md` | Revised | `kona` now marks direct address without promising care or ceremony. Physical motion uses allative `kau`, while the extra-clausal vocative keeps its established structure. |
+| `ch21_social_context/02_politeness_pi.md` | Revised | `pi` marks courtesy without changing a directive into consent or an ethical act. The lesson keeps only documented Slot 0 combinations and leaves authority and safe refusal to the relationship. |
+| `ch21_social_context/03_the_honorific_system.md` | Revised | `sa`, `ni`, and `le` retain their distinct relationship claims. Rank-neutral grammar no longer pretends that social rank, demands, or unequal power disappear with it. |
+| `ch21_social_context/04_register_and_formality.md` | Revised | Formal fullness now concerns recoverable subjects, referents, source marking, and address. Required frames retain their closers regardless of register, classifiers never certify respect, and tempo remains socially chosen. |
+| `ch21_social_context/05_when_to_use_what.md` | Revised | Direct `kia` replaces the obsolete use of `mia thia lothea` as an ordinary greeting. Requests keep question and directive force separate, `ho` loses its false role as an uncertainty softener, and consolation remains an optative rather than a promise. |
+| `ch22_transmutation/01_introduction.md` | Revised | Translation and transmutation now meet the current meanings of `womu` and `kuri`. Editorial change is owned by the transmuter instead of being credited to grammar. |
+| `ch22_transmutation/02_the_process.md` | Revised | The method tests direct words, registered compounds, transparent composition, and coinage without making composition a failure or a new root a prize. Complex grammar remains available, the Five Pillars guide judgement rather than automate it, and direct `whemura` replaces the old sleep-story workaround. |
+| `ch22_transmutation/03_case_study_anger.md` | Revised | Heart-fire remains the registered anger expression without being treated as a guaranteed process. The case study now admits that it preserves an accusation, changes anger's aim, and introduces a request not found in the source. |
+| `ch22_transmutation/04_case_study_news.md` | Revised | Exact in-range counts stay in Phi, reportative `ti` keeps its true scope, and allative `kau` carries movement to safety. The passive preserves an unnamed repairer; an adjacent record keeps the decimals, currency figure, and wording. |
+| `ch22_transmutation/05_case_study_poetry.md` | Revised | Base `tuleno`, `tupi`, and `shonuwa` restore the source's animal, action, and final acoustic image. The older creature, arrival, and voice version remains beside that close rendering as a deliberate transmutation, and the corrected form count gives `serao melothe` six syllables. |
+| `ch22_transmutation/06_practice.md` | Revised | Registered `phelu pula` now begins the jealousy exercise, which still tests whether possession fits the particular source. News and poetry preserve source-bound material, compare translation with transmutation, and record lexical questions instead of rewarding change for its own sake. |
+| `ch23_living_in_phi/01_daily_practice.md` | Revised | Natural points in the day replace clock-timed practice quotas. Direct `norawhi` (dusk) removes the misuse of registered west expression `sileta lumae`, and recurring gaps receive the same module, composition, source, or coinage test as the rest of the project. |
+| `ch23_living_in_phi/02_journaling.md` | Revised | Journaling is offered as a practical writing setting rather than Phi's natural or private home. The three-line form keeps witness, feeling, and wish distinct without claiming that the language filters out self-accusation or counting. |
+| `ch23_living_in_phi/03_meditation.md` | Revised | Meditation keeps Phi's Buddhist sources explicit. Slot 1 particles now describe imagined Phi claims rather than diagnose memories, plans, or worries. The obsolete pamphlet reference and clock duration give way to the current Metta Sutta path under `texts/`. |
+| `ch23_living_in_phi/04_community.md` | Revised | Suggested exchanges no longer masquerade as observed community practice. Base `wesoma` remains distinct from optional Commons `kowela`, which receives the base alternative `sila lona`; shared use keeps one public lexicon without inventing an audience. |
+| `ch23_living_in_phi/05_the_ongoing_journey.md` | Revised | Fluency now allows ordinary mistakes and leaves mindfulness to the speaker. The chapter removes its stale lexicon count, compares composition with coinage freely, and restores modifier-first order by placing `moli` before `thole`. |
+| `ch24_source_material/01_where_source_material_lives.md` | Reviewed and preserved | The chapter already keeps foreign wording and exact artifacts outside Phi syntax, preserves writing-mode parity, and gives each recurring concept, onym, source record, and Phi quotation its current home. |
+| `ch24_source_material/02_names_across_languages.md` | Reviewed and preserved | Two-, three-, and four-syllable onyms, bearer or naming-community acceptance, and the boundary around multi-token or source-script names all remain canonical. |
+| `ch24_source_material/03_exact_records_and_technical_material.md` | Revised | Exact notation stays with its source artifact while base `themio` describes reflection on a measurement. The prose now invites stable vocabulary where discussion needs it without importing an optional governance review term. |
+| `ch24_source_material/04_translation_and_responsibility.md` | Revised | Source preservation, translation, and analysis remain separate acts. The closing replaces a denial list with the practical reason to label a translation and retain exact source form. |
+
+### Lexical and canonical result
+
+The completed base and function vocabulary covers Part VI. One optional Commons word, `kowela`, appears only where the community lesson labels it and supplies base `sila lona`; no other module term is needed. Direct `tuleno`, `tupi`, `shonuwa`, `norawhi`, `rinu`, and `whemura` repair stale gaps or workarounds, and no lexical question remains open.
+
 ### Resume point
 
-Continue with `manual/part6_mastery/`. Check every translation, transmutation, dialogue, practice, and fluency claim against the completed lexicon and current canon, keep ordinary teaching in base vocabulary unless the subject explicitly earns a module term, and record every lexical question before the pass closes.
+Continue with `manual/part7_reference/`. Separate maintained teaching and reference prose from generated lexicon views, preserve approved module furniture, and change a Phi passage only when current grammar or vocabulary improves its exact job.

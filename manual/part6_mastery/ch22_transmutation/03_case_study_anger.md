@@ -8,11 +8,11 @@ A translator reaches for the word "angry" and finds no single Phi word with that
 
 ## Step 1: What is the sentence doing?
 
-Three things at once, tangled together: reporting a feeling (something burns), assigning its cause (you lied), and, hidden inside the word "at," making an accusation (my feeling is *aimed* at you; you are its target and its container).
+The sentence reports a feeling and assigns its cause. The English preposition "at" also aims that feeling towards the other person. A close rendering would need to preserve that force or name its loss.
 
 ## Step 2: The Phi concepts
 
-The compound registry provides the feeling: **`korua thero`**, *heart-fire*. Note what the compound does that a word "anger" would not: it locates the feeling in the speaker's own heart and names it as a process: a fire, something that burns fuel, something that can go out. It observes the feeling without condemning the one who feels it.
+The compound registry provides the feeling: **`korua thero`**, *heart-fire*. The image locates the anger in the speaker's felt centre. Fire suggests heat and change, but the compound does not decide how long the feeling lasts or what anyone does with it.
 
 The cause is plain vocabulary: `peshu` (lie), `to` for the past.
 
@@ -36,7 +36,7 @@ POL IMP DAT 1SG true speak.
 (Please speak truth to me.)
 ```
 
-An observation. A feeling. A request. Speakers of nonviolent communication will recognise the structure, and Phi has concise ways to express each part. The transmuter still chose it. A close translation could preserve more of the source's accusatory force; this rendering instead shows what happens when the sentence passes through Phi's commitment to nonviolent speech.
+The rendering states an accusation, a feeling, and a requested change in separate clauses. That resembles a familiar nonviolent-communication sequence, but the first sentence still makes the serious claim that the listener lied. The transmuter chose both the separation and the added request. Phi's grammar chose neither.
 
 ## The fire as a source
 
@@ -52,4 +52,4 @@ OPT NONE person ABL heart fire DAT 3SG harmful wish.
 
 ## What transmutation preserved and what it transformed
 
-Preserved: the feeling, its intensity, its stated cause, the speaker's need. Transformed: the aim. English presents the addressee as the target of the feeling; this transmutation returns the feeling to the speaker while retaining the accusation as a separate clause. That is an interpretive choice. A close translation would owe the source its accusatory force; a transmutation owes the reader an account of why it changed it.
+The transmutation preserves the feeling and its stated cause. It changes the aim of the anger and adds a request for truthful speech that the source never made. English presents the addressee as the target of the feeling; this version returns the feeling to the speaker while retaining the accusation as a separate clause. A translator would owe the source its accusatory force. This transmutation owes the reader the two changes just named.

@@ -1,6 +1,6 @@
-# The vocative *kona*: calling with care
+# The vocative *kona*: direct address
 
-Every language needs a way to call someone: to open a channel before sending anything down it. Most languages do this with bare names, tone, or grammar bolted on elsewhere. Phi gives the act its own word: the vocative marker **kona**, which announces *I am addressing someone* before the someone is named.
+A name spoken across a room might call its bearer or merely mention them. Phi can mark the first act explicitly. The vocative **kona** comes before the person, role, or group being addressed and keeps that address outside the clause that follows.
 
 ```
 kona melu. mia ha nai.
@@ -8,7 +8,7 @@ VOC friend. 1SG PROX be.
 (Friend, I am here.)
 ```
 
-The announce-then-deliver principle reaches even here. Before your name arrives in my mouth, `kona` has already told you what is happening: you are being called, not discussed. In languages without this marker, hearing your own name carries a moment of ambiguity: *is someone talking to me or about me?* Phi removes that flicker of unease grammatically.
+The first word settles one useful ambiguity: the friend is being addressed rather than discussed. It does not settle the speaker's tone, urgency, or purpose. Those still belong to the encounter.
 
 ## Structure
 
@@ -16,20 +16,20 @@ The vocative phrase stands outside the sentence it accompanies. It claims no slo
 
 **`kona [ne] [Name or Title]. [Sentence]`**
 
-When calling someone by name, the proper-name particle `ne` follows `kona` (with any honorific after it; see section 3). When calling by role or relation (friend, teacher, child), `ne` is not used:
+When calling someone by name, the proper-name particle `ne` follows `kona`, with any honorific between `ne` and the name atom. A role or relation such as friend, teacher, or child is an ordinary noun and takes no `ne`:
 
 ```
 kona ne keruko. wa thia towe nai.
 VOC NAME keruko. Q 2SG well be.
 (keruko, are you well?)
 
-kona lopia. no wei mia shua.
-VOC child. IMP DAT 1SG come.
+kona lopia. no kau mia shua.
+VOC child. IMP ALL 1SG come.
 (Child, come to me.)
 ```
 
-## The care in the calling
+## What the marker contributes
 
-Notice what `kona` costs: a syllable pair, a breath, before you may say anyone's name. That cost is the point. Address in Phi cannot be abrupt; the grammar itself performs the small ceremony of turning toward a person before speaking to them. In a crowded room, `kona` is the hand gently raised, not the shoulder grabbed.
+`kona` makes direct address audible before the addressee arrives. It may be spoken gently across a table or quickly in danger; the marker itself promises neither ceremony nor care. What it offers is a small grammatical turn towards someone. What the speaker does with that turn remains their responsibility.
 
-And because the vocative is extra-clausal, it can stand entirely alone. `kona ni moli.` (spoken softly across a garden) is a complete utterance: *I am calling you, dear one.* Sometimes the channel is the message.
+Because the vocative is extra-clausal, it can also be a complete utterance on its own. `kona ni moli.` calls an established dear one without adding a claim or request. The answer may simply be a face turning towards the voice.

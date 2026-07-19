@@ -1,10 +1,10 @@
 # The honorific system: *sa*, *ni*, *le*
 
-Most honorific systems encode rank: who stands above whom, and how far. Phi's system refuses that axis entirely. Its three honorifics encode **relationship**, the speaker's own connection to the person named, and no relationship outranks another:
+Many honorific systems encode distinctions of rank, age, office, or familiarity. Phi's three honorifics make a narrower claim: each states the speaker's relationship to the person named.
 
 | Particle | Gloss | Announces |
 |---|---|---|
-| `sa` | HON.RESPECT | respect for a mentor, elder, or one whose experience you honor |
+| `sa` | HON.RESPECT | regard for a mentor, elder, or person whose experience the speaker respects |
 | `ni` | HON.INTIM | intimacy with a close friend or family member |
 | `le` | HON.ROLE | respect for a person in their community role or function |
 
@@ -24,14 +24,14 @@ NAME HON.ROLE siora FUT come.
 
 ## Placement
 
-Honorifics appear immediately before the name, after the proper-name particle `ne` when it is present. Formal, neutral, and portable speech keeps `ne` (`ne keruko`, `ne ni moli`). Once a referent is established, conversational speech may let either the honorific (`kona ni moli`) or unambiguous context (`sulae shua`) carry the expectation. The primer's household uses that shorter pattern at its table, but the license comes from established discourse rather than a grammatical measure of intimacy or presence. Keeping `ne` is correct in every register. Productive name-forms absent from the current lexicon use `ne` in machine-validated writing so the validator never has to guess whether an unknown token is a name.
+Honorifics appear immediately before the name, after the proper-name particle `ne` when it is present. Formal, neutral, portable, and machine-validated Phi keeps `ne` (`ne keruko`, `ne ni moli`). Once a referent is established, conversational speech may let either the honorific (`kona ni moli`) or unambiguous context (`sulae shua`) carry the name expectation. Keeping `ne` is correct in every register, and a productive onym absent from the lexicon always needs it in validated writing.
 
 ## Relationship, not rank
 
-Look again at the three words. A teacher addressed with `sa` is not *above* the student; the student is announcing their own respect. A grandmother addressed with `ni` by her grandchild and with `sa` by a neighbor is not two different ranks: she is two different *relationships*, both spoken truthfully. `le` honors the healer, the facilitator, the keeper of the bridge (the role a community depends on) without making the person in the role anyone's superior.
+A teacher addressed with `sa` is not placed above the student by that particle; the student is stating regard. A grandmother may receive `ni` from a grandchild and `sa` from a neighbour because the speakers stand in different relationships to her. `le` can recognise a facilitator or the person tending a shared bridge while they undertake that work. None of the three particles grants authority.
 
-This is why Phi's honorifics cannot be omitted *upward* or demanded *downward*, the way rank-based systems are policed. There is no upward. There is only the truth of how you stand to each other, declared before the name: one more instance of the language announcing a relationship before delivering its content.
+Rank-neutral grammar does not remove rank or unequal power from a family, school, workplace, or institution. Someone may still demand a form of address, and another person may still decline it. Phi supplies no grammatical category of upward deference; it cannot make the surrounding relationship equal by leaving one out.
 
 ## Choosing honestly
 
-The only rule is honesty. `ni` for someone you barely know is not friendliness, it is a claim you have not earned; `sa` for a peer is not courtesy, it is distance. And no honorific at all, plain `ne keruko`, is always correct, always neutral, never cold. The honorifics are not obligations. They are opportunities to say true things about connection, one syllable at a time.
+`ni` claims an existing close bond, so it is not a general friendliness marker for strangers. `sa` may fit a peer whose experience the speaker genuinely respects, and `le` belongs to a role the person is currently undertaking. Plain `ne keruko` is neutral and fully correct. An honorific is useful when its relationship claim is the one the speaker means to make.
