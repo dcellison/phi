@@ -1,9 +1,9 @@
-<!-- GENERATED FILE — do not edit.
+<!-- GENERATED FILE: do not edit.
      Source of truth: vocabulary entry JSON
      Regenerate with: python3 scripts/generate_reference.py -->
 
 
-# The Phi Lexicon — By Semantic Domain
+# The Phi Lexicon: By Semantic Domain
 
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 

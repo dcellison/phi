@@ -76,7 +76,7 @@ Their canonical entries have no `modules` field. A person may write down what ha
 | `shanewi` | verb | notify; formally direct information to a recipient | Notifying sends word; whether it was understood is a further question. |
 | `tukiro` | verb | review; systematically reconsider a prior matter | Review reconsiders; it promises neither independence nor a changed outcome. |
 | `whetuma` | verb | appeal; request formal reconsideration | An appeal asks for review; the review itself is a separate act. |
-| `helaki` | verb | amend; formally change part of a continuing matter | Amendment changes a living rule while keeping its history, unlike `helolu`'s repair of a harm. |
+| `helaki` | verb | amend; formally change part of a continuing matter | Amendment changes part of a continuing rule; the source record preserves what changed. |
 
 Every verb in the table keeps the same form when Phi's ordinary event-noun rule turns it into a noun. Thus `pashenu` can mean a petition and `repora` a proposal, just as `kasira` can mean a vote and `tukiro` a review. The quality-noun rule likewise gives legitimacy from `kirethu` and accountability from `lothoni`.
 
@@ -262,7 +262,7 @@ PROX person PROX material ownership claim.
 (This person claims ownership of this material.)
 ```
 
-Scarcity stays an honest claim, `henoi ma` (not enough), and priority stays `sone noa` under a stated criterion. Where a source tradition's property category, public, private, communal, has its own force, it keeps its exact name.
+Scarcity can be stated as `henoi ma` (not enough), and priority as `sone noa` under a stated criterion. Where a source tradition's property category, public, private, communal, has its own force, it keeps its exact name.
 
 ## Obligation, accountability, redress, and enforcement
 
@@ -310,7 +310,7 @@ PROX institution DAT PL member PROX decision notify.
 (The institution notifies the members of this decision.)
 ```
 
-`sirami` preserves an account, and a careful one names its source, its time, and its provenance, since a record's authority rests on those details rather than on the act of writing alone.
+`sirami` preserves an account. Its source, time, and provenance make the record assessable; the act of writing alone grants it no authority.
 
 ```
 lo mia ha kanuro sirami.
@@ -334,7 +334,7 @@ PROX member PROX decision appeal.
 (The member appeals this decision.)
 ```
 
-`helaki` changes part of something still living, a rule, a decision, an institutional arrangement, while keeping its history intact. The exact old and new wording belongs in a source record beside the Phi.
+`helaki` changes part of something still living: a rule, a decision, an institutional arrangement. The exact old and new wording belongs in a source record beside the Phi, where its history can be preserved.
 
 ```
 ha kowela ha nasholu helaki.
@@ -360,7 +360,7 @@ PROX role person PROX member retaliate.
 (The role holder retaliates against the member.)
 ```
 
-Coercion and retaliation are ordinary module words, not exceptions, because a language for governance has to let a speaker criticize the institutions they belong to, not only praise them. The exact legal definitions and remedies a case may carry stay in source material.
+Coercion and retaliation are ordinary base words used here, not exceptions, because a language for governance has to let speakers criticize the institutions they belong to as readily as they may praise them. The exact legal definitions and remedies a case may carry stay in source material.
 
 ## Useful transparent compositions
 
@@ -390,8 +390,8 @@ Some governance expressions remain clearer as combinations because their parts e
 
 Names and wording belonging to peoples, governments, institutions, laws, treaties, contracts, ballots, budgets, and other governance artifacts stay outside the Phi passage wherever their exact identity or force matters. The module supplies the relations around such material; it does not translate the artifact itself.
 
-Reach for an existing word, a transparent expression, another module term, or a fully admitted new word before assuming Phi lacks the concept. A pronunciation aid for a foreign name is a conversational convenience, not a grant of Phi authority, role, or entitlement, no matter how often speakers reach for it.
+Governance can use the base lexicon, these module roots, visible composition, and further roots admitted through protocol. A foreign name's pronunciation aid is a conversational convenience; it grants no Phi authority, role, or entitlement.
 
-State the analysis where Phi can carry it: which people and institutions are involved, who proposed and who decided, which notice, record, and review relations matter, and what remains disputed.
+A Phi analysis can name the people and institutions involved, who proposed and who decided, which notice, record, and review relations matter, and what remains disputed.
 
-Preserving a source document exactly does not make its law applicable, its office authorized, or its institution just. What preservation buys is honesty: the history and the identity that a paraphrase would otherwise erase.
+Exact preservation keeps the document's history and identity available. Applicability, authorization, and justice remain separate governance claims.

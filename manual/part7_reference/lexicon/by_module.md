@@ -1,9 +1,9 @@
-<!-- GENERATED FILE — do not edit.
+<!-- GENERATED FILE: do not edit.
      Source of truth: vocabulary entry JSON
      Regenerate with: python3 scripts/generate_reference.py -->
 
 
-# The Phi Lexicon — By Optional Module
+# The Phi Lexicon: By Optional Module
 
 *Module vocabulary is ordinary Phi vocabulary with ordinary Phi grammar. These groupings let learners choose specialized fields without treating their terminology as required core study. A word with several module classifications appears in every learning path where it belongs.*
 

@@ -134,7 +134,7 @@ PROX variable COORD DIST variable correlation hold.
 (This variable and that variable have a correlation.)
 ```
 
-A `hoshemi` may propose what causes the correlation or how the emergent pattern arises. Evidence can support that hypothesis, and a counterexample can trouble it. The new nouns let speakers identify the question before deciding its answer.
+A `hoshemi` may propose what causes the correlation or how the emergent pattern arises. Evidence can support that hypothesis, and a counterexample can trouble it. These nouns let speakers identify the question before deciding its answer.
 
 ## Validity, contradiction, and refutation
 
@@ -220,7 +220,7 @@ mia norethi nai.
 (I am confident.)
 ```
 
-A principled suspension of judgment stays compositional: `mena ... meno nohero ma kanu` says the speaker declines to choose the framed belief, which is more honest than treating every uncertainty as its own special lexical state.
+A principled suspension of judgment stays compositional: `mena ... meno nohero ma kanu` says explicitly that the speaker declines to choose the framed belief. Different uncertainties need not be mistaken for separate lexical states.
 
 ## Tradeoffs and compromise
 

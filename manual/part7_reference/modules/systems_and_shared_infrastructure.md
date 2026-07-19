@@ -4,7 +4,7 @@ The pump that fills the cistern draws power from the same line as the mill, and 
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an engineer and grants no authority over the systems they describe.
 
-Thirty-three roots were coined for this module. Shared classifications bring the optional learning list to 50 words; base `phelure` store is taught alongside it. The complete machine-generated list is available under [Systems and Shared Infrastructure in the module lexicon](../lexicon/by_module.md#systems-and-shared-infrastructure). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 33 module roots. Shared classifications bring the optional learning list to 50 words; base `phelure` store is taught alongside it. The complete machine-generated list is available under [Systems and Shared Infrastructure in the module lexicon](../lexicon/by_module.md#systems-and-shared-infrastructure). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
 
 ## Core vocabulary used by the module
 
@@ -159,7 +159,7 @@ A `hoshemi` hypothesis can propose a cause for a correlation or an account of em
 
 ## Inputs, outputs, and transfers
 
-`koewi` and `thirulo` are always relative to whichever boundary is in question, so the same water, energy, or signal can be one system's output and the next system's input in the very same sentence. Their forms sound deliberately different so the direction is never lost by ear.
+`koewi` and `thirulo` are always relative to whichever boundary is in question, so the same water, energy, or signal can be one system's output and the next system's input in the very same sentence. Their unlike forms help keep that direction audible.
 
 ```
 ha phialu ha terura koewi nai.
@@ -213,7 +213,7 @@ PROX system power transfer.
 (This system transfers power.)
 ```
 
-`thewaki kenua` means electrical energy, and `thewaki sekaru phaliso` describes an electricity-transfer network. The exact reading, rating, circuit name, provider, and equipment identity remain in their source record. Political authority and influence have no reason to borrow `phoselu`; they already have clearer and less flattering company elsewhere in the lexicon.
+`thewaki kenua` means electrical energy, and `thewaki sekaru phaliso` describes an electricity-transfer network. Exact readings and ratings remain in their source record, together with the circuit, provider, and equipment identities. Political authority and interpersonal influence use their own vocabulary, so technical `phoselu` need not carry either English sense of "power."
 
 ## Signals, control, feedback, and feedforward
 
@@ -383,6 +383,6 @@ Some systems expressions remain clearer as combinations because their parts expo
 
 Measurements, units, formulas, identifiers, standards, protocols, and versioned technical wording stay outside the Phi passage. The module supplies the relations around such material; it does not translate the artifact itself. `poweshi` identifies voltage and `phoselu` identifies technical power, while a record such as `48 V` or an equipment rating remains exact.
 
-Reach for an existing word, a transparent expression, another module term, or a fully admitted new word before assuming Phi lacks the concept. A pronunciation aid for a foreign name is a conversational convenience, not a claim to a module word's own definition.
+When technical meaning outgrows the module, a transparent expression, a word shared from another path, or a new root admitted through the word-creation protocol can take it further. Foreign-name pronunciation aids help conversation but carry none of the word's technical definition.
 
-Phi carries the analysis around the record. It identifies the system and boundary, follows what enters and leaves, and states the condition actually observed; it can also show which components depend on each other. Preserving a source record exactly proves neither correct interpretation nor safety. What it buys is precision where precision is the whole point.
+Phi carries the analysis around the record. It identifies the system and boundary, follows what enters and leaves, and states the condition actually observed; it can also show which components depend on each other. Exact preservation keeps the record precise. Interpretation and safety require their own evidence.

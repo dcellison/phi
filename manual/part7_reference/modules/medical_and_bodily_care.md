@@ -42,9 +42,9 @@ mia ha phoa lesawi.
 (I consent to this action.)
 ```
 
-Saying that consent occurred does not make it real. What was proposed, what was explained, what the person understood, whether they could actually say no: these are the questions that make `lesawi` true or hollow. Agreement (`nawo`), acceptance (`kelomi`), silence, dependence, a signature, an institution's `kanuwa` authorization: none of these is consent, and Phi will not let any of them stand in for it.
+`lesawi` is freely and specifically given agreement to one action. The surrounding account shows what was proposed and explained, what the person understood, and whether refusal was a practical choice. Agreement (`nawo`) and acceptance (`kelomi`) are broader relations; silence and dependence describe other conditions. A signature or an institution's `kanuwa` authorization belongs to its own source or institutional record rather than to the person's choice.
 
-Informed consent stays a process, not a compound that proves its own conditions. A careful account says what was offered, what was understood, what the alternatives were, and whether the yes is still current.
+Informed consent stays a process, not a compound that proves its own conditions. An assessable account names what was offered and understood, the available alternatives, and whether the consent is still current.
 
 ## Roots introduced in this chapter
 
@@ -159,7 +159,7 @@ PL 1SG PROX severity assess.
 (We assess the severity.)
 ```
 
-Urgency is yet another question. A mild condition can demand action within the hour; a severe chronic burden can wait years for anyone to take it seriously. Naming the time relation keeps `pelaku` from quietly deciding it.
+Urgency is yet another question. A mild condition can call for immediate action; a severe chronic burden can go too long without serious attention. Naming the time relation keeps `pelaku` from quietly deciding it.
 
 ## Diagnosis, prognosis, and screening
 
@@ -181,7 +181,7 @@ shia ha wireki lilea.
 (They clarify the prognosis.)
 ```
 
-`soranu` looks across people for possible need, usually before any diagnosis. A screening has a purpose, a method, and a follow-up path, and taking part in one remains a choice.
+`soranu` looks across people for possible need, usually before any diagnosis. A screening has a purpose, a method, and a follow-up path. Participation requires its own consent; the screening supplies none.
 
 ```
 shia lo miona soranu.
@@ -209,7 +209,7 @@ shia ha thekamu phoa.
 (They perform this intervention.)
 ```
 
-`mikasu` is one amount at one administration. Its unit, route, and schedule are exactly the kind of detail Phi refuses to approximate: they stay in the source instruction, precise and checkable.
+`mikasu` is one amount at one administration. Its unit, route, and schedule remain precise and checkable in the source instruction.
 
 ```
 mia ha mikasu reo ma shelomu.
@@ -217,7 +217,7 @@ mia ha mikasu reo ma shelomu.
 (I do not understand the meaning of this dose.)
 ```
 
-A care conversation, in Phi, unfolds in parts that stay visible: the record itself, what it means, what is proposed, what it is expected to do, what is uncertain, what else could be done, the person's questions, and their `lesawi` or their `naweri`. The grammar deliberately keeps room for every one of those parts.
+A care conversation can keep its parts visible. The record and its meaning come first; the proposed action, expected effect, and uncertainty follow. Alternatives and questions lead to the person's `lesawi` or `naweri`. Separate clauses let each part make its own claim.
 
 ## Effects, allergy, and contraindication
 
@@ -251,7 +251,7 @@ PROX medicine contraindicated be.
 (This medicine is contraindicated.)
 ```
 
-Side effect, adverse effect, allergy, contraindication, refusal, failure: six different answers to six different questions, and none of them may be inferred from another's presence.
+A side effect names an effect beyond the target; an adverse effect adds harm. Allergy concerns immune response, while contraindication reports advice against. Refusal and failure answer other questions again. Each needs its own evidence.
 
 ## Recovery and relapse
 
@@ -313,7 +313,7 @@ shia mia shuneki.
 (They vaccinate me.)
 ```
 
-`sonari` separates a source already known or suspected. `teshori` restricts contact while the picture is still uncertain. Both need a stated duration, and both owe the person support, communication, and a way back.
+`sonari` separates a source already known or suspected. `teshori` restricts contact while the picture is still uncertain. A responsible account names the duration, the support and communication available to the person, and a way back.
 
 ```
 shia miso sonari.
@@ -355,14 +355,14 @@ Public health can call for collective action, but no medical word grants authori
 | harm, time sensitivity, bodily state, available care, and necessary action | urgency or emergency | Urgency is not severity by another name, and it grants no unlimited authority. |
 | agent or uncertainty, pathway, protective action, burden, consent, authority, support, and review | prevention and infection control | Keeps protection from becoming an excuse for surveillance or exclusion. |
 
-Source material stays outside the Phi passage here as everywhere: exact values, units, dates, medicine and vaccine names, formulations, lots, routes, schedules, device identities, test names, specimen identifiers, diagnoses, classifications, thresholds, records, credentials, protocols, and source-script names keep their own spelling, notation, and version.
+Source material stays outside the Phi passage here as everywhere. Quantities keep their exact values and units. Dates and schedules retain their notation; routes, thresholds, and protocols retain theirs. Medicine and vaccine names preserve precise product identities, as do devices, tests, and specimens. Diagnoses, classifications, credentials, and source-script names keep their exact forms.
 
 ## Using the module well
 
-Start with the person and the concrete relation: who felt something, who observed it, who is proposing what, who consented or refused. Add the symptom, the finding, the time course, the evidence, and the uncertainty as they matter, and let a module word gather that detail rather than replace it.
+An effective account begins with the person and the concrete relation: who felt something, who observed it, what is being proposed, and who consented or refused. Symptoms and findings enter as they matter. Time course, evidence, and uncertainty follow in their own terms. A module word gathers that detail without replacing it.
 
-Write person-first when a diagnosis or a role would otherwise swallow the sentence. Someone can be sick, injured, chronically ill, contagious under stated conditions, receiving care, and giving care to someone else, all at once, and no single classification is the whole of who they are.
+Person-first wording keeps a diagnosis or role from swallowing the sentence. Someone can be sick and injured while living with chronic illness. They may be contagious under stated conditions, receive care, and give care to someone else at the same time. No single classification is the whole of who they are.
 
-Ask for a core paraphrase when a module word is unfamiliar. A paraphrase does not need to recreate a dictionary entry; naming the report, the evidence, and the proposed action is usually enough.
+An unfamiliar module word can always be met with a request for a core paraphrase. The paraphrase need not recreate a dictionary entry; naming the report, the evidence, and the proposed action is usually enough.
 
-Keep testing the vocabulary in care conversations, recovery accounts, chronic-care narratives, uncertain diagnoses, medication decisions, and public-health disagreement. Mental health, reproductive health, sexuality, gender, and coercive care deserve their own careful scenario work rather than being folded into this module by default.
+Care conversations and recovery accounts remain useful tests of the vocabulary. So do chronic-care narratives, uncertain diagnoses, medication decisions, and public-health disagreements. Mental health and reproductive health deserve their own careful scenario work. Sexuality, gender, and coercive care do too. Each belongs to deliberate scenario work beyond this module's default scope.

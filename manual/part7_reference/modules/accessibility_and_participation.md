@@ -315,15 +315,15 @@ Some access ideas read better with their parts showing.
 
 | Concept | Phi strategy | What remains visible |
 |---|---|---|
-| Access requirement | Use `ruweli` or `lokane` with `phelona` and the exact activity | The person, action, conditions, and requested change stay available. |
-| Advance notice | Use Commons `shanewi` notify with an explicit clause placing it before the event | The actual interval matters more than the label. |
-| Processing or thinking time | Use `remo`, `theo`, `hasi`, and `thimu` in separate clauses | Reading, thought, waiting, and the later decision do not collapse into one capacity claim. |
-| Decision support | Use `panoru` support with Commons `kanuro` decision and the chosen action | Support remains separate from representation, authorization, and final choice. |
-| Proxy action | Use `shalori`, `loatho`, `kanuwa`, and `lesawi` where each relation fits | Speaking for, delegated action, authority, and consent keep their own sources and limits. |
-| Assistive device | Use `naphelu keli` | The device's supporting role remains connected to a chosen function. |
-| Accessible design | Use `lokane` with Work `noporu` design and the people and activities considered | A universal claim does not hide whose use was tested. |
-| Spoken description | Use `haolu` with `thelima` describe | The content, speaker, timing, and intended listener remain ordinary clauses. |
-| Communication preference | Use `phelotu` with `kaeli` like or `kanu` choose | Preference and actual access remain different claims. |
+| Access requirement | `ruweli` or `lokane` with `phelona` and the exact activity | The person, action, conditions, and requested change stay available. |
+| Advance notice | Commons `shanewi` notify with an explicit clause placing it before the event | The actual interval matters more than the label. |
+| Processing or thinking time | `remo`, `theo`, `hasi`, and `thimu` in separate clauses | Reading, thought, waiting, and the later decision do not collapse into one capacity claim. |
+| Decision support | `panoru` support with Commons `kanuro` decision and the chosen action | Support remains separate from representation, authorization, and final choice. |
+| Proxy action | `shalori`, `loatho`, `kanuwa`, and `lesawi` where each relation fits | Speaking for, delegated action, authority, and consent keep their own sources and limits. |
+| Assistive device | `naphelu keli` | The device's supporting role remains connected to a chosen function. |
+| Accessible design | `lokane` with Work `noporu` design and the people and activities considered | A universal claim does not hide whose use was tested. |
+| Spoken description | `haolu` with `thelima` describe | The content, speaker, timing, and intended listener remain ordinary clauses. |
+| Communication preference | `phelotu` with `kaeli` like or `kanu` choose | Preference and actual access remain different claims. |
 
 ## Source material keeps its own name
 

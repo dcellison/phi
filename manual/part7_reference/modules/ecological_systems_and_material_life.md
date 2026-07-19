@@ -225,7 +225,7 @@ PROX dye PROX stream pollute.
 (The dye pollutes the stream.)
 ```
 
-`pekira` is a capacity for harm under a stated exposure; `perawi` is the simpler fact of contact. A toxic agent that no one is exposed to causes nothing, and exposure alone determines neither dose nor effect.
+`pekira` is a capacity for harm under a stated exposure; `perawi` is the simpler fact of contact. A toxic agent may be present without any organism being exposed, and exposure alone determines neither dose nor effect.
 
 ```
 ha hisophi pekira nai.
@@ -249,7 +249,7 @@ PROX record PROX contaminant concentration describe.
 (This record describes this contaminant concentration.)
 ```
 
-The exact value stays preserved rather than interpreted. What it takes to move from a number to a claim of harm, a threshold, a sampling method, the right organism and route, honest uncertainty, is its own further argument, not something the number supplies alone.
+The exact value is preserved without being made to interpret itself. A claim of harm also needs an applicable threshold, a sampling method, the exposed organism and route, and a clear account of uncertainty.
 
 ## Material, resource, and waste
 
@@ -337,7 +337,7 @@ A model's exact name, version, and equations belong to the source record; Phi ca
 
 ## Monitoring and revision
 
-`somethi` is repeated observation tied to a stated purpose across time. A monitoring plan should say in full what it watches, where, how often, for how long, and against what baseline.
+`somethi` is repeated observation tied to a stated purpose across time. An assessable monitoring plan names what it watches, where the observations occur, their recurrence and duration, and the baseline used for comparison.
 
 ```
 lo mia ha luphore somethi.
@@ -375,10 +375,10 @@ Infiltration and absorption can meet without becoming the same event. `phialu mu
 
 ## Source ecological information
 
-Species and taxonomic names, chemical formulas, measurements, units, site identifiers, dates, model names and versions, equations, standards, and legal categories stay outside the Phi passage. The module supplies the relations around this material; it does not translate the artifact itself.
+Scientific identities, exact technical artifacts, and institutional categories stay outside the Phi passage. Species and taxonomic names retain their identities. Technical artifacts keep their formulas and recorded values; identifiers, dates, model versions, and equations remain with the same source. Standards and legal categories preserve their institutional form. The module supplies the relations around this material; it does not translate the artifact itself.
 
-Reach for an existing word, a transparent expression, another module term, or a fully admitted new word before assuming Phi lacks the concept. A pronunciation aid for a foreign name is a conversational convenience, not a claim to a module word's own definition.
+An ecological concept may already have a direct word; it may instead be clearer as visible composition or deserve a root admitted through protocol. Helping someone pronounce a foreign name does not turn that aid into ecological vocabulary.
 
-State the analysis where Phi can carry it: which ecosystem and boundary are meant, what moved or changed, who observed it, which model or inference is doing the work, and what remains uncertain.
+Within Phi, the ecosystem and boundary can be identified along with what moved or changed, who observed it, which model or inference is doing the work, and what remains uncertain.
 
-Preserving a source record exactly does not make a classification correct, a sample representative, or a threshold applicable. What preservation buys is the concept's own origin and its contested history, which a paraphrase would otherwise erase.
+Exact preservation keeps a concept's origin and contested history available. Classification accuracy, sample representativeness, and threshold applicability remain separate questions.
