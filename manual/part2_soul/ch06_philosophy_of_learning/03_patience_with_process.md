@@ -1,13 +1,23 @@
 # Patience with process
 
-Language-learning culture is full of promises about speed. "Fluent in 30 days." "Hack your way to mastery." These timelines create suffering: students judge themselves harshly when progress doesn't match impossible expectations, adopt superficial approaches that prioritize the appearance of competence, and abandon the work just as deeper capacities are beginning to develop.
+The first attempts at `thesua` may turn its final two vowels into one. Slowing down can reveal the hiatus, but the learner is not thereby sentenced to slow speech forever. The aim is a recoverable contrast at whatever pace the mouth can manage with attention.
 
-Different kinds of learning follow different rhythms. Pronunciation develops through gradual training of muscle memory. Grammatical intuition deepens through cycles of confusion and clarity. The ability to think in a new language emerges slowly from sustained exposure, often appearing suddenly after long stretches of apparently flat progress, as though the mind had been quietly organizing experience behind the scenes.
+Language courses often promise fluency on a schedule. A deadline can organise study, but it cannot decide when a sound becomes comfortable or a word becomes available without prompting. Learners arrive with different first languages and bodies. Their hearing, available time, and reasons for study differ too. Progress will not keep one timetable merely because the timetable has excellent typography.
 
-These rhythms aren't obstacles to hack around. They're how learning actually works.
+## Return with a purpose
 
-Phi asks for what might be called gentle persistence: steady engagement that respects natural timing. That can mean showing up for practice when progress feels slow, maintaining curiosity during plateaus, and trusting that important development is happening even when the results aren't visible yet. Language learning in particular rewards this approach, because so much of the process is unconscious consolidation that can't be rushed.
+Patience is active. Say the difficult form, compare it with the reference, rest, and return. Retrieve a word before looking it up. Put it in a sentence that gives the meaning work to do. A short practice revisited often may be more useful than one heroic evening followed by avoidance.
 
-Patience also has a method, and Phi's vocabulary rewards one in particular: plant in clusters. Instead of marching through word lists, learn a word with its family: take *lothea* (love) together with *theala* (heal) and *moli* (gentle), or *nulae* (sleep) with *nuwera* (bed) and *whemura* (dream). The lexicon was built as a web of related sounds and meanings, and studying it web-first means every session strengthens several words at once. Revisit old words as you grow; they keep revealing relatives you could not see the first time.
+Nearby words can be learned together when the relationship is real:
 
-This doesn't mean passive acceptance of any pace. It means recognizing the difference between productive difficulty, the kind that builds capacity, and unnecessary frustration caused by unrealistic expectations. A student who understands this distinction can push themselves appropriately without burning out, and can weather the inevitable plateaus without mistaking them for failure.
+- `sano` (know) beside `shelomu` (understand) teaches a semantic contrast.
+- `sileta` (sun) beside `silero` (star) uses a documented sound kinship.
+- `nuhe` (sadness) beside `nuhemi` (grieve) shows a deliberately extended form.
+
+This is different from gathering any words that happen to share a consonant. The lexicon records the intended link when sound supplies the mnemonic. Otherwise the description and examples do the teaching.
+
+## Difficulty without a moral
+
+A plateau may mean that learning is consolidating, that the practice has become stale, or simply that the learner is tired. There is no virtue in guessing which explanation sounds noblest. Change the exercise, ask for help, take a break, or continue and observe.
+
+Phi's unhurried quality is freedom from needless haste, not a demand to advance slowly. A learner may move quickly through one chapter and spend a week on `th`. The calendar, despite its confidence, cannot pronounce a dental fricative.

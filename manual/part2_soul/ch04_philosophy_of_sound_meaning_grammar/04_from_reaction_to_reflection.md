@@ -1,20 +1,19 @@
 # From reaction to reflection
 
-Grammar supplies recurring choices and orders that speakers often use without conscious analysis. It can foreground some distinctions and leave others to context, but no word-order type has a single psychological meaning. Phi therefore presents modifier-first as a chosen practice and design metaphor, not as proof that English rewards reaction or that another language imposes a worldview on its speakers.
+English says "I love you." Phi says `mia thia lothea.` and puts the subject and object before the verb. The difference is easy to hear. Its psychological effect is not.
 
-Phi's grammar was designed with the curriculum in mind. The question underneath every structural choice: what if building a sentence could itself be a moment of reflection?
+Grammar supplies recurring choices and orders that speakers often use without conscious analysis. It can foreground some distinctions and leave others to context, but no word-order type has one psychological meaning. Phi presents modifier-first order as a chosen practice, not as proof that English rewards reaction or that another language imposes a worldview on its speakers.
 
-## One sentence, two shapes
+## What the order offers
 
-**English**: "I love you."
-**Phi**: `mia thia hi lothea.` (I you, witnessed, love)
+A careful speaker may use the Phi sequence to hold both people in attention before naming the relation. A fluent speaker may also say it quickly, automatically, or without much care. Syntax supplies an order; the speaker supplies the practice.
 
-The Phi version places both people first, then, if chosen, the ground of the knowing (`hi`, direct evidence), and finally the verb. This order gives a careful speaker an opportunity to hold the relationship and evidential claim in view before the predicate. A fluent speaker may still speak rapidly or carelessly; syntax offers the sequence but does not dictate the attention brought to it.
+An evidential does not belong in this sentence merely to make it look more mindful. `hi` explicitly claims sensory witness, and love is not improved by attaching a source marker that the claim does not need. Attention includes leaving a grammatical tool on the bench when it is the wrong tool.
 
-The pedagogical goal is to move consideration earlier in the utterance. Wisdom is not a grammatical output; it remains the speaker's work.
+## A sequence, not a verdict
 
-## Foundation first
+The same modifier-first pattern appears elsewhere. Descriptors stand before what they describe, prepositions before their objects, and Slot 1 particles before the verb. The listener receives some relations before their heads and may have to hold the earlier material until the phrase resolves.
 
-The same logic runs through everything larger. An architect does not begin with the roofline; the foundation goes in first because everything else stands on it. Phi's modifier-first structure builds sentences the same way: context, participants, and relationships first, the committing verb last. Meaning unfolds the way a landscape appears as mist lifts: gradually, with the listener's mind engaged in the assembly rather than waiting to be told.
+That cost is ordinary in verb-final languages. Familiarity lets listeners predict structure, and context often narrows what can come next. Phi does not make every sentence contemplative by requiring a final verb, nor does it make every listener wait in suspense like someone trapped outside a bathroom door.
 
-That gradual unfolding is also a shared act. When the verb comes last, the listener stays active to the end, anticipating how the assembled pieces will connect; speaker and listener arrive at the meaning together, at the same word. A sentence in Phi is less a delivery than a small joint construction project, which is most of what this language means by *conversation*.
+The curriculum uses the sequence as an exercise: notice the participants, choose any source marking that the claim earns, then give the action. The exercise can move consideration earlier without pretending that wisdom comes out of the syntax at the end.

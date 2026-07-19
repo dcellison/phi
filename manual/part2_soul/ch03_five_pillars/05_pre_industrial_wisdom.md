@@ -1,39 +1,31 @@
-# Pillar Five: Pre-industrial wisdom
+# Pillar five: Pre-industrial wisdom
 
-## Learning from deep time
+## Knowledge close to the work
 
-The fifth pillar looks beyond modern industrial assumptions to learn from pre-industrial and indigenous cultures.
+A cloth can be gauged against an arm. A journey can be described by the days it takes on foot. A seed is planted when the local soil and season are ready, not when an abstract calendar has won the argument. These practices begin with bodies, places, and repeated observation.
 
-For most of human history, people lived embedded within their local ecosystems, not separate from them. Their languages often reflected this connection. Phi borrows several structural and semantic concepts from these traditions.
+"Pre-industrial" covers an enormous span of human life and no single wisdom tradition. Indigenous peoples are living communities, not examples left behind by history. Phi therefore takes limited design prompts from situated knowledge while leaving particular teachings, names, and obligations with the peoples and places that hold them.
 
-## Universal animacy
+## Categories without a ladder
 
-One lesson from these traditions is animacy. Many languages, particularly indigenous ones, don't make the hard grammatical distinction between "persons" and "things" that English does. They recognize agency and personhood beyond human boundaries.
+Phi's four optional classifiers can foreground a broad category while counting. `himo` is for people, `lipha` for non-human living beings and living parts, `themo` for detached or crafted objects, and `nophe` for abstractions and events. The category follows the referent as it exists in the scene: a branch on a tree takes `lipha`, while the same branch cut for a handle takes `themo`.
 
-In such languages, a forest, river, mountain, or stone can be a grammatical "who," not an "it." This isn't primitive or superstitious. It's a grammatical system that builds respect for the living world into everyday speech.
+This is a practical classification system, not a universal theory of animacy. It does not make a river grammatically human or grant personhood to a stone. A speaker may omit the classifier whenever the category adds nothing useful. Respect still depends on the relation and action being described.
 
-Phi gives living status an explicit but optional place in counting. Its classifier system distinguishes `himo` for humans, `lipha` for non-human living beings, `themo` for detached or crafted objects, and `nophe` for abstractions and events. These broad categories are descriptive rather than hierarchical, and they do not establish a universal account of animacy or make attention ethical by themselves.
+## Time that returns
 
-## Cyclical time
+Morning light reaches the wall again, but never on quite the same day. `nuri` (cycle) names a course that returns to a comparable condition without claiming perfect repetition. Many societies have organised attention around seasonal, lunar, agricultural, and generational cycles. Specific Indigenous knowledge traditions carry meanings that cannot be collapsed into one circular account of time.
 
-This pillar also shapes Phi's conception of time. The modern industrial world operates on linear time: an infinite line from past to future, measured in clock ticks. But for most of human history, time was circular. Seasons turned. The moon waxed and waned. Planting and harvest followed their rhythm.
+Phi still has past and future. `luera philo` is the past day, `wireo philo` the future day, and `ha philo` this day. Its ordinary times of day follow the sun's stations from dawn through night rather than dividing the sky into hours. Exact schedules remain in their source form when coordination, care, testimony, or safety depends on them.
 
-Cyclical time teaches patience, a sense of place, and participation in recurring patterns. While Phi has simple particles for past (`to`) and future (`so`) for practical use, its deeper structure beats to a cyclical rhythm.
+## Measure in proportion
 
-This shows most clearly in the words for days. Yesterday isn't a point on a timeline; it's `luera philo`, the past day, built from the same `luera` (past) that anchors Phi's tense system everywhere else. Tomorrow is `wireo philo`, the future day, `wireo` doing the mirror work. Today needs no tense at all: `ha philo`, this day, the day at hand. A day is never named absolutely, only relative to the one being spoken from, the same logic that locates the sun at its eight daily stations rather than on a clock face.
+Industrial measurement is useful and sometimes necessary. It also has a habit of becoming the only account that institutions will hear. Phi keeps size, length, distance, and height available without coining unit words. Width, depth, and weight have their own words too. A speaker can compare two heights, gauge cloth against a shared standard, or describe a route by travel time.
 
-## Natural prototypes
+When an exact dose, dimension, scientific value, or legal record matters, the source notation stays beside the Phi discussion. The refusal is not a refusal of accuracy. It is a refusal to mistake the number for the whole condition of the person, object, or place being measured.
 
-Phi's vocabulary is built on natural prototypes. Instead of abstract or technical categories, the language grounds core concepts in shared physical experiences.
+## Colours near at hand
 
-The color system is the clearest example. Phi rejects abstract "primary colors" from Western scientific tradition in favor of the seven hues every human eye distinguishes: black, white, red, green, yellow, blue, brown (`nuko`, `whilo`, `rulo`, `liro`, `soriu`, `shilu`, `mureli`). Each is a single coined word shaped for its hue rather than compounded from a material name. In `soriu` (yellow), the bright stressed `ri` flashes between a rounded opening and a deeper final vowel. Hues beyond these seven do compose, openly: a referent plus `welisha` (color) names them, `kerou welisha` (stone-color) for gray, `thero welisha` (fire-color) for orange. The seven stay atomic because they're universal to human vision; what's culturally negotiated wears its source in plain sight.
+Phi has seven atomic colour words and composes other hues from things that visibly carry them. `kerou welisha` is stone colour, grey; `horathe welisha` is dawn colour, pink. The seven-word palette is a design boundary, not a claim about one division shared by every eye and culture.
 
-This extends beyond color. Say `womu` (home) and feel the welcome in the opening `wo`, the round `o` that closes like enclosing arms: the sound embraces before the meaning does. Say `muila` (earth) and feel the grounding nasal `mu` settle low, the way soil settles underfoot. Abstract concepts remain anchored in physical experience, not because the words decompose into borrowed pieces, but because each one was coined to feel like what it means.
-
-## Cultivating belonging
-
-These three elements, universal animacy, cyclical time, and natural prototypes, work together to cultivate belonging.
-
-Speaking Phi means speaking a language that undermines the illusion of human separation from nature. A language that sees personhood in a river, feels cosmic rhythm in sunrise, understands the abstract through the tangible. The speaker isn't positioned as master of nature but as participant in it.
-
-By tying fundamental words to natural images, the language encourages a worldview engaged with the physical world. This pillar is the source of Phi's grounded character, the part that remembers where we came from.
+This pillar asks Phi to keep knowledge close to materials, work that returns with the season, and local observation. It gives no language permission to borrow another community's authority. The arm beside the cloth is useful because someone can see whose arm it is.

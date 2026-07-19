@@ -1,39 +1,27 @@
-# Pillar One: Solarpunk Values
+# Pillar one: Solarpunk values
 
-## Radical optimism
+## A future close enough to work on
 
-Solarpunk is the first pillar of Phi. It's more than a science-fiction aesthetic; it's a bet against cynicism.
+A roof catches rain. The water feeds a garden below, and the people who use it know where the valve is. Solarpunk begins with futures built at that scale: ecological limits are real, ordinary life can improve, and the systems between them remain open to human attention.
 
-For decades, our stories about the future have been dominated by collapse: nuclear wastelands, corporate dystopias, climate catastrophe. Solarpunk asks a different question: what if we actually get this right?
+Solarpunk is a broad movement as well as an aesthetic. Its writers and makers do not share one programme, but many of them turn away from futures in which collapse is the only serious possibility. Phi takes that constructive orientation as a pillar. Imagining a workable future does not build it, though it does give the hands somewhere to begin.
 
-That's not naive, it's strategic. You can't build something you refuse to imagine.
+## Cycles with consequences
 
-## Sustainability as symbiosis
+Compost returns to soil, stored water returns to a garden, and a repaired chair returns to use. Phi calls a course that comes round to a comparable beginning `nuri` (cycle). The return need not repeat every detail.
 
-Solarpunk reimagines sustainability not as sacrifice and rationing, but as intelligent abundance through partnership with natural systems.
+A loop is not automatically sustainable. A process may cycle waste through several places and still leave someone else with the harm. Solarpunk asks where materials and energy come from, who tends the system, and what condition they leave behind. `nuri` keeps recurrence easy to name; the account still has to follow the consequences.
 
-The goal isn't minimizing damage. It's integration so deep that human systems enhance the biosphere. Buildings capture energy like leaves. Water systems purify like mycelial networks. Waste streams become inputs.
+## Power near the people affected
 
-This is cyclical thinking, what Phi calls `nuri`. The linear "take-make-waste" model breaks, but cycles repair.
+The "punk" in solarpunk resists arrangements that seal decisions away from the people and places living with them. A neighbourhood garden, a shared workshop, or a local assembly can put knowledge and choice close together. Larger systems remain necessary, especially where water, climate, transport, or care crosses local boundaries. The point is answerability, not smallness for its own sake.
 
-## The punk part
+`sila` names a community sustained by shared life, purpose, or place. Its members need not agree. That distinction matters: community is where disagreement and responsibility happen, not a decorative word for harmony.
 
-The "punk" matters. Bottom-up beats top-down. Community-led beats corporate-controlled. Power, both political and electrical, returns to the people it affects.
+## Beauty beside use
 
-Picture rooftop gardens tended by residents, neighborhood fab labs where people make their own replacement parts, local assemblies making decisions about local resources. The skilled hand gets valued over the sealed black box.
+A beautiful rain barrel that leaks is still a leaking rain barrel. Phi keeps `mioru` (beautiful) separate from `welao` (good), so neither quality can borrow the other's evidence. Solarpunk often brings them together in objects that are pleasant to live with and possible to maintain, but the judgment remains open in each case.
 
-In Phi, this shows up as `sila`: community as foundation, not afterthought.
+The same care applies to tools and energy. `tenoa` is any object used as an implement for a task; it may be understood, adapted, or shared, but the noun promises none of those things. `sileta kenua` (solar energy) keeps the sun audible as the source. Ownership, access, and the condition of the equipment belong in the next sentences.
 
-## Beauty as function
-
-Solarpunk refuses the split between useful and beautiful. A solar panel can mimic forest-floor dappling, and a water system can double as public sculpture. A bridge can be structurally elegant *and* striking.
-
-Phi keeps goodness and beauty close without making them identical. `welao` means good; `mioru` means beautiful and, in a noun position, beauty. A thing may join function and beauty when it fits its surroundings, but neither quality proves the other.
-
-## A language for builders
-
-Phi is a language for the people doing this work: builders, gardeners, organizers.
-
-The word for tool, `tenoa`, names something designed for human hands and human understanding. The sun, `sileta`, provides brightness (`keru`) and energy (`kenua`) as common gift, not scarce commodity.
-
-This is a language for a world that's thriving, not just surviving.
+Solarpunk gives Phi a practical question to carry: can the person beside the system understand enough of it to take part in what happens next?

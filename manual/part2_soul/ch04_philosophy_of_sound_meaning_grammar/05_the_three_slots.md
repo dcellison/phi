@@ -1,23 +1,29 @@
 # The three slots
 
-Phi's particles, the small invariant words that carry all its grammar, are not scattered wherever convenience puts them. They live in three fixed slots, and the slots trace, in order, the three questions a mindful speaker answers on the way into any sentence.
+In `pi no mia naphe`, "please help me," two small words arrive before the people and action. `pi` adds courtesy to the utterance, and `no` makes it a directive. Their position is predictable because Phi organises many function words into three slots.
 
-## Slot 0: what am I doing?
+The slots are a map of scope, not a moral checklist. They help a listener tell which part of the clause a particle affects. Part IV teaches every form and combination; this section explains the design.
 
-Before any content, a Slot 0 particle can declare the sentence's purpose: a question (`wa`), a request (`no`), a wish (`su`), a condition (`lu`), an utterance offered with care (`pi`). The listener knows what is being done to them before a single content word lands. No statement can masquerade as a question; no demand can dress as a wish.
+## Slot 0: the clause frame
 
-## Slot 1: what do I know of the action?
+Slot 0 comes at the beginning of the clause. `wa` marks a binary question, `no` a directive, `su` a wish, and `lu` a condition. `pi` adds politeness and comes first when it combines with another frame, as in `pi wa` or `pi no`.
 
-Standing before the verb, in fixed order, the Slot 1 particles give the action its time (`to`, `so`), its shape (ongoing, complete, beginning, ending, habitual), its voice, its evidence, its possibility, and its negation. The evidentials deserve the emphasis: `hi` for what you witnessed, `ke` for what you inferred, the difference between experience and deduction, made audible in one syllable. A speaker who reaches this slot has been asked, by the grammar itself: *how do you know?*
+These particles make clause force audible early. They do not reveal the speaker's whole intention. `no` covers both a request and a command, and courtesy does not erase a difference in power. The frame tells the listener what grammar is coming; the relationship tells them what the utterance asks of them.
 
-## Slot 2: which thing, exactly?
+## Slot 1: the verb phrase
 
-Attached directly before individual words, the Slot 2 particles do the fine pointing: plural (`lo`), this or that (`ha`, `ra`), focus (`ko`), comparison (`mo`), intensity (`ru`). They let a speaker mean exactly the word they mean, no more.
+Slot 1 stands before the verb. Tense and aspect come first, followed by voice and evidentiality. Modality and negation close the block. Each rank normally admits one choice, with `se ka`, the passive of a causative, as the single voice pairing.
 
-Purpose, knowledge, precision: the slots are a checklist the sentence runs on the way out of the mouth. Part IV teaches the machinery in full; what matters here is the design idea: the grammar asks its questions in the order a careful mind would ask them anyway.
+The source particles live here: `hi` for direct witness, `ke` for inference from particular evidence, `ti` for report, and `ho` for assumption from background expectation. All are optional. An unmarked assertion names no source, so the grammar does not ask "how do you know?" in every clause. A marked clause answers concisely when the question matters.
 
-## Structure and spontaneity
+## Slot 2: one word or phrase
 
-It would be fair to worry that all this apparatus makes speech stiff. Practice can make the slots more automatic, as scales can support musical improvisation. Automatic structure frees attention for meaning, but it cannot guarantee precision; ambiguity, repair, and interpretation remain part of language use.
+Slot 2 stands before the content word it modifies. It handles distinctions of quantity, deixis, comparison, and focus within one constituent. Names and honorifics use this position too. So do addition, restriction, and intensity. When several appear in one phrase, their internal order follows a fixed wide-to-narrow cline.
 
-That is grammar's role in this language. Not regulation. Rehearsal, for the kind of speaking a person might want to do anyway, if they had the time to consider every sentence. In Phi, the considering is built in.
+The particles narrow or relate a particular constituent. `ha melu` is this friend, `lo melu` is friends without a stated count, and `ru mioru` is very beautiful. None makes reference exact beyond the distinction it actually carries. Context and repair remain part of understanding.
+
+## What lies outside the slots
+
+The three slots do not carry all of Phi's grammar. Pronouns and content words have their own places. Prepositions relate phrases, conjunctions join them, and complementizer pairs frame embedded clauses. The slot model is useful precisely because it does one job: it keeps particles with different scopes from wandering into each other's chairs.
+
+With practice, the positions can become automatic. That frees attention for meaning, but automatic grammar is still only grammar. Mindfulness begins when a speaker notices what they are doing with it.

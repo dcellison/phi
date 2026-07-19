@@ -1,11 +1,17 @@
 # Transformation through practice
 
-Reading about swimming doesn't teach you to swim. You can understand the physics of buoyancy, study diagrams of stroke technique, and memorize breathing patterns. None of it substitutes for getting in the water. Language works the same way. Transformative learning happens through sustained, conscious practice rather than information consumption.
+Knowing that `th` is a dental fricative does not yet put the tongue against the teeth. The explanation matters, but the learner must hear and compare an attempt before trying again.
 
-The key word is *conscious*. Mechanical repetition produces mechanical skill. Repetition performed with full attention, with curiosity about what's happening in each iteration, produces something qualitatively different. Pronunciation practice becomes a meditation on the relationship between breath, sound, and meaning. Grammar exercises turn into an exploration of how structure shapes thought, and vocabulary study starts to feel like tracing how concepts relate to each other through sound and composition.
+Practice changes what a learner can do. Repetition helps a form become available without rebuilding the rule each time, while attentive comparison catches a contrast that repetition alone may faithfully rehearse in the wrong shape. Mechanical drills and reflective exercises both have a place. One builds ready movement; the other notices what the movement is doing.
 
-Phi's design rewards this kind of attentive practice. The sound-symbolic system means pronunciation isn't arbitrary drill: each sound carries philosophical weight, so practicing it reinforces understanding of the language's values. Because the compositional vocabulary means learning one word illuminates others, each new piece of knowledge connects to an expanding web rather than sitting in isolation. And grammar practice, thanks to the particle system, involves conscious choices about certainty, evidence, and perspective.
+## Attention without mythology
 
-Practice also follows a spiral: you return to the same basic elements repeatedly, each time with greater depth. The pronunciation exercises that felt awkward initially become opportunities for subtle refinement. The grammatical patterns that seemed like simple rules gradually reveal themselves as sophisticated tools. What looks like repetition is actually deepening.
+Pronunciation can bring attention to breath, contact, stress, and vowel boundaries. It does not give every sound a philosophical meaning. Phi's `sound_symbolism` is optional and local to a word or documented family, while `articulatory_notes` carries the physical account a learner can check.
 
-The eventual goal is naturalness: the ability to express thoughts without consciously managing grammar, to understand without translating, to participate in conversation without self-consciousness. This emerges gradually from accumulated conscious practice, arriving as a qualitative shift, the moment you realize you're thinking in Phi rather than translating into it.
+Grammar practice is similarly concrete. Choosing `hi` rather than `ke` requires a source distinction. Placing tense before aspect and evidence requires the Slot 1 order. Repeating those choices may make them easier to use, but ease is a linguistic skill, not proof of honesty or mindfulness.
+
+## From rule to use
+
+At first, a learner may assemble every clause deliberately. Later, familiar patterns can become automatic enough that attention moves to the person, the subject, or the next repair. This is the ordinary transformation sought in language practice: knowledge becomes available during use.
+
+Thinking in Phi without translating may come with familiarity, or it may arrive only in small islands such as a greeting, a colour, or a familiar line of verse. There is no single threshold at which the language turns on. One day the right word appears before the English one. That is enough to notice without asking it to be a revelation.

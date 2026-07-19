@@ -1,15 +1,21 @@
 # Respect without hierarchy
 
-Language is the infrastructure of community, built by the people who use it, and quietly building them back. Every language embeds decisions about how authority, deference, inclusion, and respect will work, and most inherit those decisions from centuries nobody chose. Phi's social grammar is designed instead, around one commitment: respect without hierarchy. This chapter is about what that looks like in practice.
+An elder can say `pi` to a child, and a child can say `pi` to an elder. The particle is unchanged. It presents the utterance considerately or respectfully without placing either person above the other.
 
-Many languages encode politeness through status markers. Japanese has multiple speech levels determined by relative social position. Korean verb endings shift depending on whether you're addressing a superior, equal, or subordinate. Even English speakers adjust register based on perceived authority.
+Many languages express politeness through forms that depend partly on age, office, familiarity, or social rank. Such systems can acknowledge relationships and maintain social expectations. They can also require a speaker to calculate who stands where before choosing an ordinary verb or ending.
 
-These systems serve real functions: acknowledging relationships, showing consideration, maintaining social cohesion. But they can also trap speakers in inherited patterns of inequality that require constant calculation of who outranks whom.
+Phi puts a different distinction in grammar. `pi` belongs to the whole utterance and works across relationships. It can soften a statement, question, or directive, but it preserves the clause's force. `pi no` is still a directive, and the listener's consent remains a separate matter.
 
-Phi takes a different approach. The politeness particle `pi` signals respectful attention without encoding relative status. Anyone can use it with anyone, because genuine respect doesn't depend on who holds more power. A child speaking to an elder uses the same `pi` as an elder speaking to a child.
+## Relationships named honestly
 
-This creates what we might call democratic politeness. The honorific particles `sa`, `ni`, and `le` still allow speakers to mark special regard, but they express appreciation rather than obligation. You honor someone because you choose to, not because grammar forces you to acknowledge their rank.
+Phi's three honorifics state a relationship rather than a rank. `sa` expresses regard for a mentor, elder, or person whose experience the speaker honours. `ni` claims an intimate bond. `le` recognises someone in a current community role, such as facilitating a meeting or tending a shared garden.
 
-The directive particle `no` carries a related choice. It marks a command or request, and `pi no...` adds politeness without changing form for the speaker's rank. The particles do not turn an order into an invitation, and demanding is not grammatically harder than asking. What Phi supplies is a rank-neutral way to state consideration. Mutual agreement still has to be built from the listener's answer.
+These claims are not interchangeable decorations. `ni` used for a stranger claims a closeness that does not exist, while `le` follows work that someone is actually undertaking. A name without an honorific is neutral and fully correct.
 
-Phi's evidentials give speakers an optional way to distinguish what they witnessed (`hi`), inferred (`ke`), heard secondhand (`ti`), or assume (`ho`). A marked claim places its basis where another person can question it; an unmarked claim remains grammatical and makes no source claim. This can support intellectual humility, but it cannot install humility in the speaker. Even `hi` can be used carelessly or dishonestly.
+## Power remains in the room
+
+Rank-neutral grammar does not remove authority from a family, workplace, school, or institution. The same polite form may pass between two people who have very different power to refuse, leave, or impose consequences. Phi cannot make that difference harmless by declining to conjugate for it.
+
+What the system avoids is grammatical deference owed merely because one person is treated as higher. Respect may be sincere, role-specific, intimate, or absent without turning a plain name into an insult. The speaker owns the relationship claimed by the particle; the person addressed owes no matching performance.
+
+Evidentials carry the same modest social promise. A marked claim can put witness, inference, report, or assumption where another person can question it. An unmarked claim remains grammatical, and even `hi` can be careless or false. Respect for another person's knowledge begins after the particle, when their answer is allowed to matter.

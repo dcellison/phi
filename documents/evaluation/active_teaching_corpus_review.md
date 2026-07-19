@@ -47,6 +47,36 @@ All nine files under `manual/part1_first_light/` are reviewed. The pass found no
 
 Existing base words, function words, and interjections cover every repaired lesson, so no lexical decision remains open. `towe` supplies the ordinary wellbeing question, `phaelo` keeps inward peace embodied as a feeling, and `panuri` already carries the relational account of a resource.
 
+## Part II: Soul
+
+All nineteen files under `manual/part2_soul/` are reviewed. Seventeen needed revision; the two current chapters on sound already met the teaching, voice, and evidence contracts and were preserved. The pass found no missing concept and used no optional module vocabulary.
+
+| File | State | Finding and disposition |
+|---|---|---|
+| `ch03_five_pillars/01_solarpunk_values.md` | Revised | A practical roof-and-garden scene replaces the old promotional opening. `nuri`, `sila`, `tenoa`, and `sileta kenua` now keep their lexical boundaries, while cycles, community scale, beauty, and solar energy make no ethical promise by themselves. |
+| `ch03_five_pillars/02_buddhist_concepts.md` | Revised | Buddhist mindfulness and Right Speech remain explicit sources. Dependent origination is no longer reduced to an undifferentiated single process, and the `whemura` sound family stays a documented local mnemonic rather than a general theory of composition. |
+| `ch03_five_pillars/03_art_nouveau_aesthetics.md` | Revised | The historical account now allows Art Nouveau's curving and geometric forms, while its influence on Phi concerns deliberate sonic material rather than supposedly soft phonemes or moral meanings hidden in syllables. |
+| `ch03_five_pillars/04_peace_linguistics.md` | Revised | The chapter keeps its critique of contest framing, its plain account of directive power, and its refusal to hide agency. `theloma` now covers fair standing, accountability, redress, and repair without declaring one justice procedure sufficient. |
+| `ch03_five_pillars/05_pre_industrial_wisdom.md` | Revised | The former universal claims about Indigenous traditions, animacy, circular time, and colour perception are gone. The chapter now teaches situated knowledge, the optional classifiers, natural time and measurement, source-record accuracy, and cultural authority without treating living communities as evidence for Phi. |
+| `ch04_philosophy_of_sound_meaning_grammar/01_sound_as_practice.md` | Reviewed and preserved | Physical articulation remains the centre, the uncommon fricatives carry an acknowledged learning cost, and the settled distinction between presence and speaking speed is already exact. |
+| `ch04_philosophy_of_sound_meaning_grammar/02_sound_as_symbol.md` | Reviewed and preserved | The chapter already separates `articulatory_notes` from optional whole-word `sound_symbolism`, uses the deliberate `sileta` and `silero` relationship accurately, and assigns no universal meaning to a phoneme. |
+| `ch04_philosophy_of_sound_meaning_grammar/03_the_living_web.md` | Revised | Semantic neighbourhoods now begin with the real contrast among `sano`, `shelomu`, and `nohero`. Only documented sound siblings support memory; an unfamiliar Phi form no longer pretends to reveal its own definition. |
+| `ch04_philosophy_of_sound_meaning_grammar/04_from_reaction_to_reflection.md` | Revised | The unearned direct evidential was removed from `mia thia lothea.` The lesson keeps Subject-Object-Verb order as an optional reflective practice while recording its memory cost and refusing a psychological guarantee. |
+| `ch04_philosophy_of_sound_meaning_grammar/05_the_three_slots.md` | Revised | The slots now map scope rather than moral stages: Slot 0 frames clause force, Slot 1 shapes the verb phrase, and Slot 2 modifies a constituent. Evidentiality remains optional, and the chapter no longer claims that particles carry all grammar. |
+| `ch05_social_philosophy/01_respect_without_hierarchy.md` | Revised | `pi` remains rank-neutral courtesy, while `sa`, `ni`, and `le` state distinct relationships rather than optional praise. Unequal power remains visible even when grammar assigns no upward rank. |
+| `ch05_social_philosophy/02_conversation_as_collaboration.md` | Revised | A leaking-tank disagreement puts `hi` and `ke` to practical work. Collaboration may end in refusal or continued disagreement, and the established understanding-without-agreement repair remains available. |
+| `ch05_social_philosophy/03_ethics_of_communication.md` | Revised | Evidentials now mark provenance rather than confidence or honesty. Truth, timing, testimony, courtesy, consent, and the listener's answer remain separate parts of ethical speech. |
+| `ch05_social_philosophy/04_building_bridges.md` | Revised | Shared background is no longer presumed even within one community. Unknown vocabulary remains opaque until explained, verb-final order carries a memory cost, and repair depends on social action rather than built-in humility. |
+| `ch06_philosophy_of_learning/01_introduction.md` | Revised | Learning begins with retrieval and use instead of an inventory metaphor. Contemplative effects remain available for personal observation without becoming a property of Phi. |
+| `ch06_philosophy_of_learning/02_student_teacher_relationship.md` | Revised | The lexical distinction between `thumela` (teach) and `shonela` (learn) now carries the chapter. Expertise, learner agency, and role movement replace an imagined Phi community and a denial of every teaching authority. |
+| `ch06_philosophy_of_learning/03_patience_with_process.md` | Revised | Practice advice now separates temporary slowing from Phi's freedom from needless haste. Semantic contrasts and documented sound kinships replace the old invented word families and promises of hidden consolidation. |
+| `ch06_philosophy_of_learning/04_transformation_through_practice.md` | Revised | Repetition and attentive comparison have distinct practical jobs. Sound symbolism stays optional, automaticity remains a language skill, and thinking in Phi is allowed to arrive in small pieces rather than one promised conversion. |
+| `ch06_philosophy_of_learning/05_ripple_effects.md` | Revised | Transfer into another language is now a deliberate experiment with counterevidence, not an inevitable moral effect. The chapter records the absence of community evidence and treats language use alone as a complete result. |
+
+### Lexical result
+
+The completed base vocabulary and closed grammar cover every repaired lesson. The pass found no candidate for the decision register, and none of the general chapters required an optional module word. Existing direct words replaced no transparent expression solely for novelty.
+
 ### Resume point
 
-Continue with `manual/part2_soul/`. The four chapter groups there contain the philosophy most likely to repeat older determinist claims, overstate sound symbolism, or describe Phi as a prescribed slow language. Preserve a valid example when its present wording still teaches the right distinction.
+Continue with `manual/part3_phonology/`. Check every articulation and sound claim against the current lexicon and phonetics reference, preserve valid examples, and keep learner difficulty separate from character or philosophical attainment.
