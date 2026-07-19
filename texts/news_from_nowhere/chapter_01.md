@@ -1,6 +1,6 @@
 # nophi lue mawha lokue — News from Nowhere, ch. 1: Discussion and Bed
 
-*William Morris opens News from Nowhere in a political meeting full of interruption, conviction, and familiar bad temper. The narrator leaves by underground railway, walks home through a winter night, lies awake with his failures, and finally sleeps into the book's future England. This transmutation includes the whole chapter. Its opening `ti` marks the repeated "says our friend" as secondhand report until Morris hands the story to the first person. The optative `su` holds the wish that turns the chapter: if only he could see one day of the society they argued about. Ten coined roots cover the League, railway, elm, branch, and the sharper human reactions the chapter needs; the gap log records them without interrupting the walk home.*
+*William Morris opens News from Nowhere in a political meeting full of interruption, conviction, and familiar bad temper. The narrator leaves by underground railway, walks home through a winter night, lies awake with his failures, and finally sleeps into the book's future England. This transmutation includes the whole chapter. Its opening `ti` marks the repeated "says our friend" as secondhand report until Morris hands the story to the first person. The optative `su` holds the wish that turns the chapter: if only he could see one day of the society they argued about. Eleven roots originally coined for the rendering cover the League, the railway, the elm and its branches, and the sharper human reactions the chapter needs. The gap account gathers those choices without stopping the walk home every few steps.*
 
 *Each block below carries four lines: the Phi sentence, its word-by-word gloss, a back-translation into English, and Morris's own original wording, so a reader can see exactly what the transmutation kept and what it changed.*
 
@@ -24,25 +24,25 @@ society transform future day what FUT POT become.
 (On the morrow of society's transformation, what might happen?)
 morris: "as to what would happen on the Morrow of the Revolution,"
 
-soli melu lo newu seroli punoa wireo remo pa therua haolu.
-SOME friend PL new mature society future think INCH eager speak.
-(Some friends began eagerly to speak their thoughts on the new, fully-developed society's future.)
+soli melu lo newu seroli punoa wireo remo pa therua sherewa.
+SOME friend PL new mature society future think INCH eager claim.
+(Some friends began eagerly to put forward their thoughts on the new, fully-developed society's future.)
 morris: "finally shading off into a vigorous statement by various friends of their views on the future of the fully-developed new society."
 ```
 
-**Notes:** `ti` opens the chapter and does the whole frame's work in one word: everything that follows is secondhand, reported rather than witnessed, exactly as the original's recurring "says our friend" means. Phi's evidentiality system rarely gets to show off a use this clean, and no other clause in the block needs its own marking, since none of them is the narrator's own direct-experience stance.
+**Notes:** `ti` opens the chapter as the friend's report: what follows is secondhand rather than witnessed, just as Morris's recurring "says our friend" reminds us. The reportative need not be repeated in every clause while that frame remains in place.
 
-"Up at the League" names a standing body, not a single occasion of meeting it: `shalimo` (alliance) carries it, a group deliberately bound together by shared cause, coined because a meeting (`lona`) would only be the event, not the membership. Its pace and the transformation behind it are carried by `reshi` (fast) and `moluki` (transform), neither coined for this text.
+"Up at the League" refers to a continuing association, so it takes `shalimo`, alliance. A meeting, `lona`, would name only the event. Existing `reshi` and `moluki` supply the brisk pace and the social transformation.
 
-The discussion's own timing is carried too: Morris sets the scene "one night," and `shero`, already at work two blocks later describing the night itself, states it here as a plain temporal adjunct, `ta shero`, needing no new word or construction. "There had been" is completion at a past reference point, `to ki` rather than a bare `to`, the same pluperfect the corpus already uses for "had understood."
+Morris sets the scene "one night," which becomes the plain temporal adjunct `ta shero`. His "there had been" asks for completion at a past reference point, `to ki` rather than bare `to`.
 
-"The Morrow of the Revolution" names a specific point, the day after, not a vague future: `wireo philo`, the journal's own word for tomorrow (literally future day), takes `punoa moluki` as its possessor, and its own question survives alongside it: "what would happen" embeds directly, `hina` needing no complementizer of its own since the gap-word signals the embedding, and `so po` turns a flat future into the offered possibility the original's "would" actually carries, `kelu` (become) standing in for a dedicated "happen" the lexicon does not need.
+"The Morrow of the Revolution" is a particular next day rather than a vague future. `Wireo philo`, tomorrow, belongs to `punoa moluki`, society's transformation. The gap-word `hina` embeds the question without another complementizer, `so po` makes the future possible rather than certain, and `kelu`, become, lets the event happen without requiring a dedicated English-shaped verb.
 
-The discussion is `reshi thelu shareo`, brisk and conversational both: `thelu`, the dialogue-word, stands before `shareo` the way one noun qualifies another, so the talk's informality survives beside its pace. The friends who speak are `soli` (some), not all of them, and what they speak are `lo remo`, their thoughts, possessed by the very future they concern: `newu seroli punoa wireo remo`, thoughts of the new, fully-developed society's future, the possessor chain running exactly as deep as Morris's own "their views on the future of the fully-developed new society." The vigor itself changes shading rather than simply existing: `pa therua`, inchoative eager, marks the discussion's turn into vigor, closer to "shading off into" than a flat completed fact.
+The discussion is `reshi thelu shareo`, brisk and conversational at once. The dialogue-word `thelu` qualifies `shareo`, so the talk's informality survives beside its pace. The speakers are `soli melu`, some friends rather than all of them, and their subject is packed into the possessor chain `newu seroli punoa wireo remo`: thoughts about the future of the new, fully developed society. They begin to put those thoughts forward eagerly, `pa therua sherewa`. The form `sherewa` suits claims or thoughts advanced for consideration; it does not make the friends louder than Morris does.
 
-`thelao`, `whekai`, `sheno`, and `phisu` were checked and set aside: none fits "finally," which marks a culmination in sequence rather than a cause, contrast, addition, or example, so the transition is carried by the inchoative aspect instead.
+No discourse marker fits Morris's "finally," which marks culmination rather than cause, contrast, addition, or example. The inchoative aspect supplies the turn instead.
 
-### kowela — The council
+### shalimo lona — The alliance meeting
 
 ```
 sheno wi shao himo miona mua lona to nai.
@@ -50,14 +50,14 @@ ADD two three-group HUM.CLF person LOC meeting PST be.
 (For the rest, six people were present at the meeting.)
 morris: "For the rest, there were six persons present,"
 
-thelao theli miona phirae remo to shalori.
-CONS EACH person different think PST represent.
-(Consequently, each person represented a different view.)
+thelao theli miona phirae remo to phelu.
+CONS EACH person different think PST hold.
+(Consequently, each person held a different view.)
 morris: "and consequently six sections of the party were represented"
 
-ta shao ta himo ru kesu phirae miona mena mawha miona kulo meno to pula.
-one three-group one HUM.CLF INTS determined different person DECL.COMP NONE person guide DECL.COMP.CLOSE PST wish.
-(Four of them, intensely determined and differing from each other, wished that no one would guide at all.)
+ta shao ta himo ru kesu phirae miona mena mua punoa mawha miona karami phelu meno to pula.
+one three-group one HUM.CLF INTS determined different person DECL.COMP LOC society NONE person authority hold DECL.COMP.CLOSE PST wish.
+(Four of them, intensely determined and differing from each other, wished that no person hold authority in society.)
 morris: "four of which had strong but divergent Anarchist opinions"
 
 shai shareo thena punoa moluki nai shareo noeli to manolu.
@@ -70,9 +70,9 @@ PL person RECP POT NEG listen.
 (They could scarcely listen to each other.)
 morris: "if they did not listen to each others' opinions (which could scarcely be expected of them),"
 
-thona lao lona nela thumela thelu lo miona keno to nai lo miona li soli shemu nuawe haolu.
-ADVRS BECAUSE meeting COORD teach dialogue PL person custom PST be PL person RESTR SOME moment together speak.
-(But, since meetings and lecture-dialogues were these people's custom, they spoke all at once only sometimes.)
+thona lao lona nela thumela thelu lo miona keno to nai lo miona li soli shemu mena nuawe haolu meno to mesatu.
+ADVRS BECAUSE meeting COORD teach dialogue PL person custom PST be PL person RESTR SOME moment DECL.COMP together speak DECL.COMP.CLOSE PST try.
+(But, since meetings and lecture-dialogues were these people's custom, they attempted to speak all at once only sometimes.)
 morris: "for those present being used to public meetings and after-lecture debates, ... at all events did not always attempt to speak all together,"
 
 nuawe thelu punoa keno nai.
@@ -80,9 +80,9 @@ together dialogue society custom be.
 (Speaking all at once is society's custom.)
 morris: "as is the custom of people in ordinary polite society"
 
-rena melu ru sano kowela miona mua shareo thorui pai maeli meilo.
-REL friend INTS know council person LOC discuss beginning NEAR quiet sit.
-(The council-member the friend knows very well sat almost silent at the discussion's beginning.)
+rena melu ru sano shalimo wemari mua shareo thorui pai maeli meilo.
+REL friend INTS know alliance member LOC discuss beginning NEAR quiet sit.
+(The alliance member the friend knows very well sat almost silent at the discussion's beginning.)
 morris: "One of the sections, ... a man whom he knows very well indeed, sat almost silent at the beginning of the discussion,"
 
 whekai shia pheo laeno shemu muo shareo se natu.
@@ -95,9 +95,9 @@ shia korua thero to nai.
 (His heart caught fire.)
 morris: "and finished by"
 
-shia mua shareo lumae ki kapura.
-3SG LOC discuss end PFV shout.
-(At the discussion's end, he shouted out very loud.)
+shia mua shareo lumae ki ru theisa kapura.
+3SG LOC discuss end PFV INTS loud shout.
+(At the discussion's end, he shouted very loudly.)
 morris: "roaring out very loud,"
 
 shia lo miona ki thiku nila.
@@ -111,32 +111,32 @@ shia mena lo miona tawimo nai meno haolu.
 morris: "for fools;"
 ```
 
-**Notes:** the original names its faction "Anarchist"; Phi has no such label to give it, since canon already refuses the vocabulary of rule, lord, and throne. So the four are described by what they want rather than what they are called: `mawha miona kulo`, no one guides, built from the same `kulo` (guide) canon already uses in the Ring Verse refusal, an interpretation of "Anarchist opinions" rather than a line Morris spells out himself. `ru kesu` (intensely determined) carries the "strong" half of "strong but divergent," the magnitude of their conviction, not just its direction; `phirae` (different) marks the four as divergent even from each other, not only from everyone else.
+**Notes:** the source calls the four opinions "Anarchist." Phi leaves that political label in Morris's line and states the desire beneath it: `mawha miona karami phelu`, that no person hold authority in society. The noun `karami` reports claimed or recognised authority without granting it legitimacy, which makes it more exact here than the earlier workaround with `kulo` (guide). Intensity comes from `ru kesu`, while `phirae` marks the opinions' divergence from one another.
 
-The discussion's good temper carries its whole qualification: `shai` (although) hangs "Considering the subject" as the concession Morris means it to be, with the subject named from the chapter's own opening, `shareo thena punoa moluki nai`, the discussion's matter was society's transformation, and against that weight `noeli` (warm, the emotional sense, distinct from temperature) and `manolu` (stay) state that the talk held its temperature. `wiso` (RECP) marks that the listening in question was reciprocal, each to each; `po ma` (could scarcely) carries "which could scarcely be expected of them" as a hedge on the group's own self-discipline, not a flat denial. The reason Morris gives for the restraint keeps its own clause: `lao lona nela thumela thelu lo miona keno to nai`, since meetings and lecture-dialogues (`thumela thelu`, the teaching's own dialogues) were these people's custom, with `keno` (custom) doing here what it does for the sleeper's wont two sections later. What they managed is stated at Morris's own exact strength: `li soli shemu nuawe haolu`, they spoke all at once only sometimes, the restriction and the ruled frequency phrase together carrying "did not always attempt to speak all together" without claiming the fuller restraint Morris never grants them. And the jab at the wider world stands as its own gnomic sentence: `nuawe thelu punoa keno nai`, speaking all at once is society's custom, `punoa` (society, the whole civilizational fabric) being exactly the "ordinary polite society" the League outperforms; "when conversing on a subject which interests them" folds into the custom itself, since nobody talks over a subject that bores them.
+The discussion remains good-tempered in spite of its subject. The concession is explicit under `shai`, and `noeli` describes emotional warmth rather than temperature. Listening is reciprocal under `wiso`, while `po ma` makes it scarcely possible rather than flatly absent. Morris is careful to say that the participants did not always *attempt* to speak together, not that their attempts succeeded. Phi now keeps that modest claim with `mesatu`: only at some moments did they try to speak all at once. The dry jab at polite society then gets its own gnomic sentence, `nuawe thelu punoa keno nai`, because it deserves room to land.
 
-The one voice that finally rises was not loud from the start: `pai maeli meilo` (sat near quiet) states the man's near-silence at `shareo thorui` (the discussion's beginning), `pai` (near) giving "almost silent" its almost by the same nearness that measures the river against its fullness. `rena melu ru sano kowela miona` (the council-member the friend knows very well) keeps Morris's own aside, an intimate detail rather than a stranger's outburst, with `kowela miona` (council-person) carrying "One of the sections," the man standing for his faction exactly as Morris's synecdoche has him stand, and the pre-nominal relative clause working the same way the chapter's other embedded clauses do. `whekai` (CONTR, however) opens the turn itself, and `pheo laeno shemu` (after a long moment) gives "at last" its duration, the long twin of the short moment that wakes the sleeper two sections later; `se natu` (was drawn in) is passive on purpose, since Morris's own "got drawn into it" describes something that happened to the man, not a choice he made.
+The voice that finally rises was not loud from the start. With `pai maeli meilo`, the man sits nearly silent at `shareo thorui`, the discussion's beginning. He is `shalimo wemari`, a member of the alliance whom the friend knows very well. That membership places him within Morris's faction without turning him into a council officer or claiming that he formally represents anyone. Contrastive `whekai` opens the change, `pheo laeno shemu` lets the long interval pass, and passive `se natu` preserves the sense that he was drawn in.
 
-`korua thero`, heart-fire, is anger, an established compound, not a new one, and it keeps its own sentence rather than sharing `kapura`'s clause: Morris's own words are just "roaring out very loud," with the anger left implicit in the volume; naming it directly rather than leaving it unspoken is the same choice Phi's own compound already makes. `kapura` is intransitive, so `korua thero` cannot stand as its object; each gets its own verb instead, `nai` for the state and `kapura` for the act. `kapura` (shout, roar), coined for this line, names the forceful vocalization itself, an outburst distinct from `theisa` (loud, a quality any sound can carry) and stronger than `haolu` (speak) intensified. "Finished by" is not left to context: `shareo lumae`, the discussion's end, bookends `shareo thorui`, the discussion's beginning, already marking the man's silence two blocks earlier; the same word `lumae` already names the sun's own end (west) two sections ahead, so the discussion now has a beginning and an end the same way the day does. "Damning all the rest for fools" is two acts, not one, and stays two sentences: `haolu` (speak) only carries plain declaration, with no contempt built into it, so the damning itself needed its own verb rather than riding on the word for what he said. `thiku nila`, small-see, is already in the lexicon as the compound for shame inflicted from outside (`shame.json`'s own cousin-word), and composes cleanly here as the belittling Morris names, `lo miona` (the others) as its direct object and `thiku` (small) standing as its manner the same way other adjectives do before other verbs in this chapter. `tawimo` (foolish), coined as the natural opposite of `phue` (wise) rather than composed as `ma phue` (not-wise), keeps the specific charge in the second sentence, since a language of mindful speech deserves its own word for the thing mindfulness is not.
+Heart-fire, `korua thero`, gives the anger its own sentence before the outburst. The outburst is `ru theisa kapura`, a very loud shout: `kapura` names the act and `theisa` its volume, so neither has to pretend to mean both. The discussion's end, `shareo lumae`, answers its beginning, `shareo thorui`. Morris's "damning all the rest for fools" remains two acts as well. The small-see compound `thiku nila` renders the contemptuous belittling; the following declaration supplies the charge itself with `tawimo`, foolish. Phi does not make the speech kinder than the scene, but it does keep the speaker responsible for each part of it.
 
-The headcount and its consequence are two sentences, matching the original's structure of a fact and what follows from it. The additive `sheno` opens the census the way Morris's "For the rest" pivots to it, while `thelao` (CONS, "therefore") links the consequence across the sentence break. The six people are present at the meeting, and `shalori` says that each represents a different view. This does not reproduce the machinery of a political party or its formal sections, but it preserves what matters in the scene: six distinct positions have entered the room through six people.
+The headcount and its consequence remain separate sentences. Additive `sheno` opens the census, and `thelao` links it to what follows. Each of the six people `phelu`, holds, a different thought. That preserves six distinct positions in the room without misusing `shalori`, whose representatives act for people or groups rather than for abstract ideas.
 
 ### nurako — The railway
 
 ```
-kohura ki nai.
-noise PFV be.
-(There was noise.)
+kohura mosha ki nai.
+noise period PFV be.
+(There was a period of noise.)
 morris: "after which befel a period of noise,"
 
-maeli ki nai.
-quiet PFV be.
-(There was quiet.)
+maeli mosha ki nai.
+quiet period PFV be.
+(There was a quiet interval.)
 morris: "and then a lull,"
 
-shia sui maeli lue shalimo to ru noeli pholeni.
-3SG DUR quiet ABL alliance PST INTS warm depart.
-(During the lull, he took his leave of the alliance very warmly.)
+shia sui maeli wei lo melu shola pao sholo to ru noeli haolu.
+3SG DUR quiet DAT PL friend QUOT.COMP goodbye QUOT.COMP.CLOSE PST INTS warm speak.
+(During the lull, he said goodbye to the friends very warmly.)
 morris: "during which the aforesaid section, having said good-night very amicably,"
 
 shia sonu to nai.
@@ -149,9 +149,9 @@ shia kau sileta lumae womu to wepu.
 (He went home to the west.)
 morris: "took his way home ... to a western suburb"
 
-punoa roe nurako lo miona to ka wepu. ha wepu keno to kelu.
-society INS railway PL person PST CAUS go. PROX go custom PST become.
-(Society made people go by railway. This going became a custom.)
+punoa lo miona to kawhera. thelao lo miona roe nurako to wepu. ha wepu keno to kelu.
+society PL person PST coerce. CONS PL person INS railway PST go. PROX go custom PST become.
+(Society coerced people. Consequently, they travelled by railway. This travel became customary.)
 morris: "using the means of travelling which civilisation has forced upon us like a habit"
 
 shia mua rena phou muila wepu nurako to meilo.
@@ -159,9 +159,9 @@ shia mua rena phou muila wepu nurako to meilo.
 (He sat in the railway that runs below the earth.)
 morris: "As he sat in ... a carriage of the underground railway"
 
-sheloi reshi wipha miona nela siwe to nai.
-MANY fast restless person COORD sweat PST be.
-(There were many hurried, restless people, and sweat.)
+sheloi reshi rena nuloe ma nai miona nela siwe to nai.
+MANY fast REL content NEG be person COORD sweat PST be.
+(There were many hurried people who were not content, and sweat.)
 morris: "that vapour-bath of hurried and discontented humanity,"
 
 nurako to pothu.
@@ -169,14 +169,14 @@ railway PST stink.
 (It stank.)
 morris: "the stinking railway carriage"
 
-shia phea lo miona wipha to nai.
-3SG AS PL person restless PST be.
-(He, like the others, was restless, unable to settle.)
+shia phea lo miona nuloe to ma nai.
+3SG AS PL person content PST NEG be.
+(He, like the others, was discontented.)
 morris: "he, like others, stewed discontentedly"
 
-shia rena shia mua shareo to ki sahu sheloi tiso remo ki nupira themio.
-3SG REL 3SG LOC discuss PST PFV forget MANY sharp think PFV shame reflect.
-(In self-reproach, he turned over the many sharp thoughts he had forgotten in the discussion.)
+shia rena shia mua shareo to ki sahu sheloi tiso themore ki nupira themio.
+3SG REL 3SG LOC discuss PST PFV forget MANY sharp argument PFV shame reflect.
+(In self-reproach, he turned over the many sharp arguments he had forgotten in the discussion.)
 morris: "while in self-reproachful mood he turned over the many excellent and conclusive arguments which, though they lay at his fingers' ends, he had forgotten in the just past discussion"
 
 whekai shia teku korua nupira to ro nai.
@@ -189,9 +189,9 @@ shia korua thero to ro nai.
 (He was habitually quick to anger.)
 morris: "for having lost his temper (which he was also well used to),"
 
-thelao teku korua nupira to nai.
-CONS short heart shame PST be.
-(Consequently, a brief self-reproach followed.)
+thelao shia roa miso teku kophinu to phaelo.
+CONS 3SG AROUND REFL short disgust PST feel.
+(Consequently, he briefly felt disgust with himself.)
 morris: "and after a brief discomfort, caused by disgust with himself"
 
 shia shareo si themio.
@@ -199,9 +199,9 @@ shia shareo si themio.
 (He kept musing on the discussion.)
 morris: "he found himself musing on the subject-matter of discussion"
 
-whekai shia korua nuhe to si nai.
-CONTR 3SG heart sadness PST IPFV be.
-(But he was still unhappy.)
+whekai shia nuloe to si ma nai. shia korua nuhe to si nai.
+CONTR 3SG content PST IPFV NEG be. 3SG heart sadness PST IPFV be.
+(But he was still discontented. He was still unhappy.)
 morris: "but still discontentedly and unhappily"
 
 shia wei miso shola su mia wireo punoa ta philo li nila sholo to haolu.
@@ -209,8 +209,8 @@ shia wei miso shola su mia wireo punoa ta philo li nila sholo to haolu.
 ("If only I could just see one day of it," he said to himself.)
 morris: "\"If I could but see a day of it,\" he said to himself; \"if I could but see it!\""
 
-nurako rolutha mua shia nurako lokue to te wepu.
-railway wagon LOC 3SG railway place PST CESS go.
+sui shia lo phelui norelu nurako rolutha mua shia nurako lokue to te wepu.
+DUR 3SG PL word form railway wagon LOC 3SG railway place PST CESS go.
 (As he formed the words, the railway wagon stopped at his station.)
 morris: "As he formed the words, the train stopped at his station"
 
@@ -220,13 +220,13 @@ home BESIDE river ABOVE REL beautiful NEG be rope bridge PST be.
 morris: "five minutes' walk from his own house, which stood on the banks of the Thames, a little way above an ugly suspension bridge"
 ```
 
-**Notes:** the room's own aftermath survives as its own pair of sentences: `kohura` (noise) and `maeli` (quiet) name the noise and the lull that follows it, plainly, with no connector between them, since one simply comes after the other. The parting then happens inside that lull, exactly where Morris places it: `sui maeli` (during the quiet) opens the departure sentence, reusing the lull the previous sentence just named. The parting itself is `pholeni` (depart), a word whose own meaning already bundles "the farewell spoken" into the moment of leaving, and its manner is `ru noeli` (very warm), with `ru` carrying Morris's "very"; `noeli` belongs to the parting, not to the journey that follows, since travel has no temperature. `lue shalimo` (from the alliance) names what he leaves, reaching back to the League named at the chapter's own opening, and `sonu` (alone) states his solitude in its own sentence between the parting and the ride, where Morris's "by himself" sits. His home takes its direction for the first time: `sileta lumae`, sun's end, is the lexicon's own compositional word for west (the compositional partner to the coined `nitho`/`ronua`, north and south), possessing `womu` the same way `nitho ruela` (the north path) already does; "a western suburb" narrows to "a home in the west," since Phi has no word for the administrative category and the direction itself carries the image's real weight.
+**Notes:** the meeting gives way to `kohura mosha` and `maeli mosha`, a period of noise and then a quiet interval. During that lull the man explicitly says `pao`, goodbye, to his friends, and `ru noeli` makes the farewell very warm. This wording no longer asks `pholeni` (depart) to imply words it does not contain. The separate `sonu` sentence leaves him alone before the journey begins. His destination is west, `sileta lumae`, the sun's end; the administrative idea of a suburb remains in Morris's line.
 
-Morris's own aside survives as its own sentences rather than folding silently into the journey: `punoa` (society) takes `ka` (CAUS), the causative voice, with `lo miona` (people) as the ones caused, and the railway rides in `roe` (INS), the instrument phrase, since "the means of travelling" names the railway as a means, not a location. The habit is the people's, not civilization's, and a Slot 1 cluster describes its own clause's event, which under `ka` is the causing itself; so the habit stands in its own clause, `ha wepu keno to kelu`, this going became a custom, `keno` the word for what a community does by habit. The ride itself then seats him: `meilo` (sit), inside `rena phou muila wepu nurako`, the railway that runs below the earth, a relative clause built the same way the corpus already builds a tall wall that arrives at the sky, placing the underground exactly where Morris names it. The vapour-bath keeps its substance in its own sentence: `sheloi` (many) and `reshi` (fast, doing double duty as "hurried") for the press of people, `wipha` (restless) for their discontent, and `siwe` (sweat), coordinated on with `nela`, for the heat, without needing a new word for either image. `pothu` (stink), the coach's own smell, carries its line alone, `to` marking it past like its neighbors. "Like others" is `phea` (AS), so his restlessness is not his alone but the whole carriage's, and its back-translation says exactly what `wipha`'s own entry says, restless and unable to settle.
+Morris calls railway travel something civilisation has forced into habit. Phi now names that closed choice directly: `punoa lo miona to kawhera`, society coerced people. The next sentence gives the railway as the resulting means of travel, and the third lets repeated travel become custom. Keeping those claims separate avoids hiding coercion inside a causative construction. The man then sits in `rena phou muila wepu nurako`, the railway that runs below the earth. Around him are hurried people who are not content, `rena nuloe ma nai miona`, together with sweat and the carriage's `pothu`, stink. His own discontent matches theirs without being mistaken for physical restlessness.
 
-The turned-over arguments keep their own weight: `rena`, the pre-nominal relativizer already at work in `kowela`, holds "which... he had forgotten in the just past discussion" as a clause bound to `sheloi tiso remo` (many sharp thoughts), `tiso` (sharp) carrying "excellent and conclusive" as a single quality rather than two, and `remo` used as its own event noun, thought turned over rather than settled, by the same rule that gives every verb its noun. `nupira` (shame) stands as the manner of the turning-over itself, "self-reproachful," the same way `nuawe` (together) stands as manner elsewhere in the chapter; "which lay at his fingers' ends" is left out on purpose, an idiom with no clean image to carry across. Morris turns against this mood with a plain "But," and `whekai` (CONTR) carries the turn; the mood itself is `teku korua nupira`, a brief self-reproach, with `to ro`, the taught past-habitual pair, stating "so used to it that it didn't last him long." The same shape repeats for his temper, as Morris repeats it: `korua thero`, heart-fire, reaching back to the very shout `kowela` already names, also with `to ro`; and `thelao teku korua nupira`, the same brief self-reproach following as consequence, closes the second round. The musing that follows is not the same act as the turning-over: `themio` (reflect) returns with `si` (IPFV), an open, unresolved considering rather than a completed one, taking the discussion as its plain object, and `whekai ... to si nai` states Morris's second turn, "but still discontentedly and unhappily," with the persistence marked by `si` rather than assumed.
+The forgotten points are now `themore`, arguments, rather than generic thoughts. They remain `tiso`, sharp, and a relative clause ties them to the discussion where he failed to use them. Manner `nupira` colours the reflection with self-reproach. His familiar anger is still `korua thero`, but Morris's later disgust now has its own word, `kophinu`, and its target is reflexive: disgust with himself. The passage ends by separating two conditions that the former rendering blurred together. Negated `nuloe` says he is not content; `korua nuhe` says he is sad. Neither condition has to borrow the vocabulary of bodily restlessness.
 
-The wish is the chapter's first direct quotation. Morris's `mia`, first person, sits inside `shola ... sholo`; `su` makes the longing audible and `wei miso` gives it its only listener. One day, `ta philo`, preserves the modest size of the request. As he forms the words, `nurako rolutha`, the railway wagon, ceases going at his station. His home stands beside the river and above a rope-bridge described simply as not beautiful. The five-minute measure and the source names remain in Morris's line beside the Phi.
+The wish is the chapter's first direct quotation. Morris's `mia`, first person, sits inside `shola ... sholo`; `su` makes the longing audible and `wei miso` gives it its only listener. One day, `ta philo`, preserves the modest size of the request. The clause `sui shia lo phelui norelu` now keeps the source's small but telling simultaneity: the wagon stops as he forms the words. His home stands beside the river and above a rope-bridge described simply as not beautiful. The five-minute measure and the source names remain in Morris's line beside the Phi.
 
 ### shero mioru — The beautiful night
 
@@ -236,9 +236,9 @@ shia mue nurako lokue to thiru.
 (He went out of the railway's place.)
 morris: "He went out of the station,"
 
-shia korua nuhe to si nai.
-3SG heart sadness PST IPFV be.
-(He was still unhappy.)
+shia nuloe to si ma nai. shia korua nuhe to si nai.
+3SG content PST IPFV NEG be. 3SG heart sadness PST IPFV be.
+(He was still discontented. He was still unhappy.)
 morris: "still discontented and unhappy,"
 
 shia shola su mia thena li nila sholo to si maeli haolu.
@@ -251,13 +251,13 @@ ANT 3SG TOWARD river long walk UNIV restless COORD heavy ABL 3SG PST INFER fall.
 (Before he had walked long toward the river, all the restlessness and the heaviness seemed to fall away from him.)
 morris: "but had not gone many steps towards the river before (says our friend who tells the story) all that discontent and trouble seemed to slip off him."
 
-theriko meluna thorui shero mioru to nai.
-frost season beginning night beautiful PST be.
-(The night of the frost-season's beginning was beautiful.)
+shila thorui shero mioru to nai.
+winter beginning night beautiful PST be.
+(The night at winter's beginning was beautiful.)
 morris: "It was a beautiful night of early winter,"
 
-haowu pheo sukaro lokue tiso nela newai to nai.
-air POST hot place sharp COORD fresh PST be.
+haowu pheo sukaro tholupi tiso nela newai to nai.
+air POST hot room sharp COORD fresh PST be.
 (After the hot room, the air was sharp and fresh.)
 morris: "the air just sharp enough to be refreshing after the hot room"
 
@@ -271,9 +271,9 @@ wind sky clear PST PFV CAUS become.
 (The wind had made the sky become clear.)
 morris: "had blown the sky clear of all cloud"
 
-li soli phelo thiku neparu thue waero to reshi wepu.
-RESTR SOME light small cloud THROUGH sky PST fast go.
-(Only a few light, small clouds went swiftly through the sky.)
+li soli thiku neparu piloe thue waero to reshi wepu.
+RESTR SOME small cloud spot THROUGH sky PST fast go.
+(Only a few small cloud-flecks went swiftly through the sky.)
 morris: "save a light fleck or two which went swiftly down the heavens."
 
 lunei limu mua waero kesho to nai.
@@ -291,9 +291,9 @@ moon AMONG tall old elm PL branch PST be.
 (The moon was among the branches of the tall old elm.)
 morris: "tangled in the branches of a tall old elm,"
 
-lokue serao to nai. lokue mioru to ma nai.
-place old PST be. place beautiful PST NEG be.
-(The place was worn and not beautiful.)
+lokue to rohemi. lokue mioru to ma nai.
+place PST wear down. place beautiful PST NEG be.
+(The place had worn down and was not beautiful.)
 morris: "the shabby London suburb where he was,"
 
 shia rena shia mua whano lokue to po ma halemu.
@@ -312,11 +312,11 @@ thing THAN REL 3SG PST PFV know deep meadow earth INTS CMPR joyful PST be.
 morris: "pleasanter, indeed, than the deep country was as he had known it."
 ```
 
-**Notes:** the walk out of the station keeps every beat. The station itself is `nurako lokue`, the railway's place, a plain possessor compound; the unhappiness repeats in the very words the ride's own last sentence uses, because Morris repeats it too; and the muttering is the same wish in the same exact-words frame, `thena` (thing) standing for Morris's own "it," with `to si maeli haolu` (was quietly speaking) carrying "muttering" as ongoing quiet speech, `su` still needing no doubling for a wish already marked as one. The turn itself takes the grammar Morris's syntax asks for: `phoe` (before) hangs the whole walk as a dependent clause, before he had walked long toward the river, and what falls is `theula wipha nela tumoa`, all the restlessness and the heaviness, the section's two mood-words gathered under one quantifier, falling (`lepa`, the word for leaves from branches, motion surrendered to rather than made) away from him (`lue shia`). `ke` (INFER) carries "seemed": the slipping-off is read from appearance, not asserted, which is also all the distance Morris's own re-cite asks for.
+**Notes:** the station is `nurako lokue`, the railway's place. Outside it, the two clauses from the carriage return unchanged: the man is not content, and sadness remains in his heart. His muttered wish keeps its exact-words frame and ongoing quiet speech. The walk then turns his state. Before he has gone far toward the river, `theula wipha nela tumoa`, all the restlessness and heaviness, seems to fall from him. Inferential `ke` preserves "seemed" rather than declaring an inward change the narrator cannot inspect.
 
-The night is winter's: `theriko meluna`, the frost season, composes the season the calendar lacks a word for, and its `thorui` (beginning) makes the winter early, the same beginning the discussion had. The air's recovery keeps its cause: `pheo sukaro lokue`, after the hot room; the carriage's half of Morris's contrast already stands two sections earlier at its own moment, and the citations split between the two units accordingly, while "just sharp enough" leaves its precise measure to the recovery the sentence itself states. The wind gets its whole sentence back: `lue sileta lumae wea nitho` (from the west toward the north) with `thiku rato` (turned a little) for "a point or two," and the clearing is `nuwi`'s own entry speaking, which prescribes caused becoming (`ka kelu`) for exactly this: the wind made the sky become clear. What survives the clearing is fenced by `li`: only a few light, small clouds (`phelo thiku neparu`). They cross the sky fast (`thue waero to reshi wepu`), so "of all cloud" is carried by the restriction itself, everything but these gone; "down the heavens" travels as through-the-sky, the traversal kept, the downward slope let go.
+The night is at `shila thorui`, winter's beginning. That direct base word is clearer than the old frost-season paraphrase and does not make frost define the whole season. The phrase `pheo sukaro tholupi` places the refreshing air after a hot room, using the Household word for a heated interior rather than asking `sukaro` to mean a room. The wind turns a little from west toward north and clears the sky. Only a few `thiku neparu piloe`, small cloud-flecks, remain. The spots are `piloe`; the former `phelo` would have described low physical weight, which is not what Morris needs here.
 
-The moon hangs at `waero kesho`, the sky's middle, "halfway up"; the one who sees it is `rena kau womu wepu miona`, the person going home, Morris's "home-farer" given a name built the way the chapter builds its other epithets; and the tree it hangs in is `raelu serao welamu`, the tall old elm, `serao` (old) standing against the moon's own `limu` (young), the same pairing Morris's image turns on. "Tangled in the branches" is `thoa lo loremi`: among the branches, with `loremi` (branch) naming the limb itself, since the moon is not in the tree's trunk but caught in what reaches out of it, and `thoa` (among) carrying the tangle. The shabby suburb takes the same carve as the bridge, `lokue mioru to ma nai`, the place was not beautiful, and the failure to hold it in mind is `po ma` (could scarcely), the exact pattern the council's listeners already use, on `halemu` (remember) with the oblique relative `rena shia mua whano lokue`, the place he stood in, the preposition keeping its post over a gapped object as canon rules. What he feels instead is framed as feeling, `mena ... meno phaelo`, so "as if" lives where Morris put it, in experience rather than fact: he felt himself in `loshi pelowa muila`, joyful meadow-land, the countryside composed from the meadow and the earth; and the comparison closes the paragraph as `sheo` closes comparisons, `ru mo loshi` (truly more joy-giving, "indeed" inside `ru`) than `nulo pelowa muila`, the deep meadow-land, in the relative clause of what he had known (`rena shia to ki sano`). London gives up its name as the Thames did, "suburb" stays an administrative category Phi does not keep, and "lately" leaves the wind's turn to the pluperfect that already places it.
+The young moon hangs at `waero kesho`, the sky's middle, among the branches of a tall old elm. Its `limu` and the tree's `serao`, young and old, preserve the quiet contrast in Morris's image. The suburb is now `rohemi`, worn down, as well as not beautiful; age alone did not explain its shabbiness. The man can scarcely remember the place where he stands. Instead he feels himself in `loshi pelowa muila`, joyful meadow-land, and the comparison says this night gives more joy than the deep countryside he has known. London, the Thames, and the administrative category "suburb" remain available in Morris's line without being smuggled into Phi as local geography.
 
 ### luphore — The river
 
@@ -331,9 +331,9 @@ shia to teku manolu.
 (He stayed a little while.)
 morris: "and lingered a little,"
 
-shia leo mulu moru lunei luphore to nila.
-3SG ABOVE low wall moon river PST see.
-(Over the low wall, he saw the moon's river.)
+shia leo mulu moru lunei luphore to somela.
+3SG ABOVE low wall moon river PST observe.
+(Over the low wall, he observed the moon's river.)
 morris: "looking over the low wall to note the moonlit river,"
 
 luphore pai pheno to nai.
@@ -341,9 +341,9 @@ river NEAR full PST be.
 (The river was near its fullness.)
 morris: "near upon high water,"
 
-luphore kau mola to keru rato.
-river ALL island PST bright turn.
-(The river swirled, bright, up to the island.)
+luphore kau mola to rato. luphore to keru tiripe.
+river ALL island PST turn. river PST bright quiver.
+(The river swirled up to the island. It quivered brightly.)
 morris: "go swirling and glittering up to Chiswick Eyot:"
 
 shia rena mioru ma nai suro repha to ma morae.
@@ -371,9 +371,9 @@ shia muo womu miso to ka koema.
 (He let himself into the house.)
 morris: "and let himself in;"
 
-shia sui ponu tapu lo keru tiso remo nela wireo nila to sahu.
-3SG DUR door close PL bright sharp think COORD future see PST forget.
-(While the door closed, he forgot the bright, sharp thoughts and the foresight.)
+shia sui ponu tapu lo keru tiso themore nela wireo nila to sahu.
+3SG DUR door close PL bright sharp argument COORD future see PST forget.
+(While the door closed, he forgot the bright, sharp arguments and the foresight.)
 morris: "and even as he shut the door to, disappeared all remembrance of that brilliant logic and foresight"
 
 lue shareo mu thena to manolu.
@@ -397,11 +397,11 @@ shia lo shea nela therilu nela hiso nela rena seniku phena philo ki soliru.
 morris: "for days of peace and rest, and cleanness and smiling goodwill."
 ```
 
-**Notes:** the riverside arrival and the pause both keep their own sentences: `kamo` takes `mua` because arrival is an event at a place (canon's own carve), `kerime` (shore) names the river-side itself, and the lingering is `to teku manolu`, a short staying, `teku` standing as manner the way the chapter's other manners do. What he watches is `lunei luphore`, the moon's river, the possessive doing the work of "moonlit": tonight the river belongs to the moon. Its state and its motion each get a clause: `pai pheno` (near fullness, `pheno`'s quality noun by the ordinary rule) is "near upon high water," and `keru rato` (bright turning) carries "swirling and glittering" in one manner-verb pair, the swirl in `rato`'s own rotation and the glitter in `keru`, with `kau mola` (up to the island) keeping the water's destination; Chiswick Eyot gives up its proper name the same way the Thames does, but the river island itself stays.
+**Notes:** arrival and lingering keep separate sentences. The arrival verb `kamo` takes `mua` because the event occurs at a place, while `kerime` names the river's shore. The man now `somela`, deliberately observes, the moon's river over the low wall; ordinary seeing did not quite preserve Morris's "to note." The river is near fullness, then `rato`, swirls, towards the island and `keru tiripe`, quivers brightly. Giving the swirl and glitter their own clauses keeps both motions visible and agrees with the river language in the following chapter. Chiswick Eyot keeps its island while its local proper name remains in Morris's line.
 
-The not-beautiful rope-bridge returns exactly as the house sentence built it (`rena mioru ma nai suro repha`), and Morris's two denials stay two: `ma morae` (did not sense) and `ma remo` (did not think), `thena` (thing) standing for the bridge the second time as plainly as Morris's "it." The one exception Morris allows gets the fullest sentence in the section: `whekai` turns it, `ta shemu` (one moment) bounds it, and `ti` (REP) re-marks the frame inside it, because Morris himself breaks in here to say "(says our friend)," re-citing his source at the exact moment the story first turns strange; at the second strange beat, the discontent's fall, the seeming itself carries the distance instead (`ke`), so each of the two carries the mark its own sentence asks for; what strikes the man is felt, not reasoned (`mena ... meno phaelo`, the grammar's own "feel that"), and its content counts an absence the way the corpus already counts them, `mu luma` (zero lamps) at `mua luphore lumae`, the river's end, downstream, the same `lumae` that already names the sun's end and the discussion's end.
+The not-beautiful rope-bridge returns in the same form used beside the house, `rena mioru ma nai suro repha`. Morris gives it two denials, and Phi does too: the man neither senses it, `ma morae`, nor thinks of it, `ma remo`. One exception interrupts the calm for `ta shemu`, a single moment. Reportative `ti` returns because Morris himself inserts "says our friend," while `mena ... meno phaelo` presents the missing downstream lights as a feeling rather than a reasoned conclusion. Their absence is `mu luma` at `mua luphore lumae`, the river's end.
 
-The homecoming is three acts, each with its own verb: `wei womu ponu rato` turns him toward his own door, the turn-toward pattern `rato`'s entry itself teaches; `muo womu miso to ka koema` lets him in with nobody's welcome but his own, the causative on a reflexive, he causes himself to enter, which is exactly what "let himself in" says of a man alone at his door; and `sui ponu tapu` (during the door's closing) times the forgetting the way Morris times it, "even as he shut the door to." What vanishes is `lo keru tiso remo` (the bright, sharp thoughts), the same `tiso remo` he turned over in the carriage, now bright with the brilliance Morris grants them at the moment of their vanishing, so `keru` carries "brilliant... which had so illuminated" on the thoughts themselves rather than as a clause of its own; beside them goes `wireo nila`, the future's seeing, foresight composed from the same two words as the wish itself, so the man loses the very sight he has just asked for. Then the ledger closes: `mu thena manolu` (zero things stayed) for "no trace," `li rena se ma norelu soliru` (only a hope not formed) for "save a vague hope," vagueness as formlessness, and `mua nosa loshi ki kelu` for the hope's turn into pleasure, `loshi` being the lexicon's own word for the joy-giving character of things. The days themselves return to the hope's object: `lo ... philo`, days possessed by all four goods at once, with `rena seniku phena` (kindness that smiles) giving Morris's "smiling goodwill" its smile back. "Then" is left to sentence order, "right down" to `kamo`'s own promise of completed arrival, "below" to the geography the house sentence already fixed, and "the row" to the counted absence itself; nothing else in the paragraph is dropped, and nothing was coined.
+The homecoming has three acts: he turns towards his door, lets himself in, and forgets as the door closes. What vanishes is now `lo keru tiso themore`, the bright, sharp arguments already named in the carriage, along with `wireo nila`, foresight. Nothing from the discussion remains except an unformed hope, which has become joy-giving. He hopes for days of peace, rest, cleanness, and kindness that smiles. The row of downstream lights is reduced to their absence for one moment; Morris's source line keeps the London particular.
 
 ### nulae nela remo — Sleep and the waking night
 
@@ -416,14 +416,14 @@ shia phea keno to reshi nulae.
 (As was his custom, he fell asleep quickly.)
 morris: "and fell asleep after his wont, in two minutes' time;"
 
-whekai shia whuo keno pheo teku shemu we te nulae.
-CONTR 3SG WITHOUT custom POST short moment ALSO CESS sleep.
+whekai shia whuo keno pheo teku shemu we to nowae.
+CONTR 3SG WITHOUT custom POST short moment ALSO PST awaken.
 (But, outside his custom, he woke again a short moment later.)
 morris: "but (contrary to his wont) woke up again not long after"
 
-ha kuelo thena soli shemu rena welao nulae miona we wakomi.
-PROX curious thing SOME moment REL good sleep person ALSO surprise.
-(This curious state sometimes surprises even those who sleep well.)
+ha kuelo waeli thena soli shemu rena welao nulae miona we wakomi.
+PROX curious conscious thing SOME moment REL good sleep person ALSO surprise.
+(This curious waking state sometimes surprises even those who sleep well.)
 morris: "in that curiously wide-awake condition which sometimes surprises even good sleepers;"
 
 lo mia mena theula korua ru tiso nai meno phaelo.
@@ -436,9 +436,9 @@ UNIV sadness err COORD PL shame COORD PL loss DAT PROX INTS sharp heart REFL NEC
 (All the miserable muddles, and the shames, and the losses insist on pushing themselves at this sharpened mind.)
 morris: "while all the miserable muddles we have ever got into, all the disgraces and losses of our lives, will insist on thrusting themselves forward for the consideration of those sharpened wits."
 
-shia mua ha thena tei pai monelu thorui to si ti ruemi.
-3SG LOC PROX thing UNTIL NEAR amused beginning PST IPFV REP lie down.
-(In this state, so the friend tells it, he lay on until near the beginning of amusement.)
+shia mua ha thena tei pai kaeli thorui to si ti ruemi.
+3SG LOC PROX thing UNTIL NEAR like beginning PST IPFV REP lie down.
+(In this state, so the friend tells it, he lay on until he had nearly begun to like it.)
 morris: "In this state he lay (says our friend) till he had almost begun to enjoy it:"
 
 shia tawimo nophi shia monelu ki ka kelu.
@@ -467,17 +467,17 @@ POST thing 3SG ALSO PST sleep.
 morris: "after which he fell asleep again."
 ```
 
-**Notes:** the going to bed keeps its mood and its fall: `nua ha korua` (with this heart) carries the river walk's closing state into the bedroom, and `lepa`, the same surrendered falling that took the discontent off him, now takes him into bed, which is what "tumbled" is. Morris frames the sleep and the waking as custom kept and custom broken, and Phi has the pair ready: `phea keno` (as custom) for "after his wont," `whuo keno` (without custom) for "contrary to his wont," the same noun under two relators. "In two minutes' time" is refused with the rest of clock time and its meaning survives as `reshi` (fast); the waking stays `te` on sleep, the particle for ceasing, since waking is only sleep's own ending, now timed by `pheo teku shemu`, after a short moment.
+**Notes:** the comitative phrase `nua ha korua` carries the river walk's closing mood into the bedroom, and `lepa`, the same surrendered falling that took the heaviness from him, now tumbles him into bed. His usual quick sleep takes `phea keno`; `whuo keno` marks the unusual interruption. The exact two-minute interval remains in Morris's line, while Phi says that he slept quickly and woke after a short moment. The direct `nowae` names waking instead of treating it merely as the cessation of sleep.
 
-Morris then widens from the man to everyone, and the grammar follows him: `lo mia` (we) is the plural first person the lexicon's own entries already write with, and both gnomic sentences stand tenseless, as standing truths. The wide-awake state is `ha kuelo thena` (this curious thing), its wide-awakeness defined by the sentence that names it: `theula korua ru tiso` (the whole mind intensely sharp), with "preternaturally" resting on `ru`, intensity past the ordinary. `wakomi` (surprise), coined for the state's own habit of arriving unlooked-for, takes `rena welao nulae miona` (those who sleep well) as its object, `we` marking "even" them, and `soli shemu` (some moments) is the ruled way to say sometimes. The muddles keep the agency Morris gives them: `nuhe kanelu` (sadness-mistakes, a noun set before a noun) with `lo nupira` and `lo holume` (the shames, the losses) push themselves (`miso ... pesa`), insistently (`na`, the necessity particle "insist on" calls for), at `ha ru tiso korua`, this same sharpened mind.
+Morris then widens from one sleepless man to all of us. The curious condition is explicitly `waeli`, conscious and awake, even for a good sleeper. What makes it so unnerving follows in the next sentence: the whole mind feels intensely sharp. Muddles, shames, and losses insist on pushing themselves towards that sharpened attention. Phi does not diagnose the night; it merely admits that many of us have met it, usually when we had other plans.
 
-The lying-awake carries the chapter's third break-in: Morris says "(says our friend)" here as he did at the missed lamps, and `ti` re-marks it the same way, riding with `to si` (kept lying, `ruemi`) in one particle cluster. "Till he had almost begun to enjoy it" nests two relators the way the corpus already nests them: `tei pai monelu thorui`, until near the beginning of amusement, the almost living inside `pai` (near). What amuses him is `shia tawimo nophi`, the tale of his foolishness, `nophi` being the story-word of this text's own title, and the tale acts on him through the causative (`ka kelu`), as Morris has it act. The entanglements are `rena se tiwa lo sima`, threads that are tied, seen `ru nuwi` (very clearly) before him, and they weave themselves (`miso pa selomi`) into `loshi nophi`, a joy-giving story, for him: the tangle becoming the very kind of thing the reader is holding. The clock's hours stay refused, but the bells they ride on are real sound and stay: `ta nela wi nela ta shao teli haoni`, one and two and three voices of the bell, counting strikes without naming hours, which is how a sleepless man actually meets the night; `pheo thena` (after that) returns him to sleep.
+The lying awake carries another parenthetical "says our friend," so `ti` returns. He remains there until he has nearly begun to `kaeli`, like or enjoy, the state. The form `monelu` is saved for what follows: the tale of his foolishness amuses him. The distinction matters because enjoyment and amusement need not arrive together, though Morris is kind enough to give him both. His entanglements become tied threads that weave themselves into a joy-giving story. Phi counts one, two, and three voices of the bell without naming clock hours; the exact hours remain in Morris's line. After that, mercifully, he sleeps again.
 
 ## The report continues
 
 ```
-melu mena shia lue ra nulae we to te nulae meno haolu.
-friend DECL.COMP 3SG ABL DIST sleep ALSO PST CESS sleep DECL.COMP.CLOSE speak.
+melu mena shia lue ra nulae we to nowae meno haolu.
+friend DECL.COMP 3SG ABL DIST sleep ALSO PST awaken DECL.COMP.CLOSE speak.
 (The friend says that from that sleep he woke once more.)
 morris: "Our friend says that from that sleep he awoke once more,"
 
@@ -501,24 +501,40 @@ CONTR 3SG QUOT.COMP 1SG DECL.COMP 1SG REFL PL thing tell DECL.COMP.CLOSE want QU
 ("But," he says, "I want to tell them myself.")
 morris: "But, says he, I think it would be better if I told them in the first person, as if it were myself who had gone through them;"
 
-lao mia rena mia shane wemi lo phaelo nela lo wilao sheo theula muila miona mo shelomu thena wei mia so ru mo siloma nela mo woeli nai.
-BECAUSE 1SG REL 1SG tell ally PL feel COORD PL long-for THAN UNIV earth person CMPR understand thing DAT 1SG FUT INTS CMPR simple COORD CMPR natural be.
-(Since I understand the feelings and the longings of the ally I tell of better than all the world's people do, this will be, truly, simpler and more natural for me.)
+lao mia rena mia shane wemi lo phaelo nela lo wilao sheo theula muila miona mo shelomu thena wei mia so ru kethua ma nai. thena wei mia so mo woeli nai.
+BECAUSE 1SG REL 1SG tell ally PL feel COORD PL long-for THAN UNIV earth person CMPR understand thing DAT 1SG FUT INTS hard NEG be. thing DAT 1SG FUT CMPR natural be.
+(Since I understand the feelings and the longings of the ally I tell of better than all the world's people do, this will not be very difficult for me. It will be more natural.)
 morris: "which, indeed, will be the easier and more natural to me, since I understand the feelings and desires of the comrade of whom I am telling better than any one else in the world does."
 ```
 
-**Notes:** the frame that carried the whole chapter invisibly now steps into view: where every earlier sentence rode the opening `ti`, the handoff is spoken outright, `melu mena ... meno haolu`, the friend says that, exactly as Morris moves from his parenthetical "(says our friend)" to the full "Our friend says that." The sleep he wakes from is `ra nulae`, that sleep, the distal pointing back at the very sleep the last section closed on, and what he wakes into is `lo rulami`, adventures, the venture the whole book is: `ru` sets out in motion with an opening shared by `ruela` (path), `la` bends into a winding course, and `mi` turns the road inward to the traveler, the same settling nasal that closes `wakomi` (surprise). That sibling stands beside it here in Morris's relative clause, adventures `rena ru wakomi`, that truly surprise. The telling he wants is marked with the grammar's own machinery: `se na shane`, should be told, necessity on a passive, with the audience widening just as Morris widens it, `wei lo wemi nela we theula miona`, to the allies and to all people besides.
+**Notes:** the report frame now steps into view. The clause `melu mena ... meno haolu` says outright that the friend is speaking, just as Morris moves from parenthetical reminders to "Our friend says." He wakes from `ra nulae`, that sleep, and enters `lo rulami`, adventures that truly surprise. Passive necessity, `se na shane`, says they should be told, and the audience widens from the allies to everyone else.
 
-The handoff itself is the chapter's second direct quotation: `whekai shia shola ... sholo haolu`, but he says, with `mia` speaking inside the frame, so the friend's own voice performs the passing of the story to the first person; `miso` (myself) carries "as if it were myself who had gone through them," the teller and the traveler folded into one word. His reason keeps Morris's full shape in one announced sentence: the `lao` clause first, since I understand (`shelomu`) the feelings and the longings (`lo phaelo nela lo wilao`) of the ally I tell of better than all the world's people (`sheo theula muila miona mo shelomu`), then the promise it grounds, `so ru mo siloma nela mo woeli`, it will be, truly, simpler and more natural, "easier" carried by simplicity since ease is what simplicity feels like from inside. The frame closes exactly as it opened, but the reportative is gone: from here the account is no longer secondhand. This mirrors the original precisely: the whole book's promise is that a report becomes testimony once the teller turns out to be the very person it happened to.
+The direct quotation performs the handoff to the first person: the friend wants to tell the adventures himself. His reason follows in the `lao` clause. He understands the ally's feelings and longings better than anyone else does, so the telling will not be very difficult and will feel more natural. Negated `kethua` supplies the first idea without pretending that `siloma`, structurally uncomplicated, is a general word for "easy." The reportative then falls away. From the next chapter onward, the borrowed account has become the traveller's own testimony.
 
 ---
 
 ## What the transmutation changed
 
-*The chapter preserves Morris's full narrative sequence and nearly all of his wording in adjacent citations. Its governing change is grammatical: \`ti\` opens the account as a friend's report, then disappears when the narrator claims the first person. The repeated wish sits inside \`shola ... sholo\` under \`su\`, while the sleepless reckoning uses no evidential because the narrator is now speaking from his own experience.*
+*The chapter preserves Morris's full narrative sequence and nearly all of his wording in adjacent citations. Its governing change is grammatical: \`ti\` opens the account as a friend's report and returns where Morris again inserts "says our friend." The repeated wish sits inside \`shola ... sholo\` under \`su\`. Only at the closing handoff does the friend claim the first person and let the reportative frame fall away.*
 
-*Lexical work: League -> \`shalimo\` (alliance); railway -> \`nurako\`; elm -> \`welamu\`; foolish -> \`tawimo\`; stink -> \`pothu\`; err -> \`kanelu\`; amused -> \`monelu\`; shout -> \`kapura\`; branch -> \`loremi\`; surprise -> \`wakomi\`; adventure -> \`rulami\`. Suspension bridge composes as \`suro repha\`, the countryside as \`pelowa muila\`, the station as \`nurako lokue\`, and the underground railway as the railway running below the earth.*
+*The eleven roots coined for the original rendering remain in use:*
 
-*The political labels receive visible interpretations. Divergent Anarchist opinions become four people who differ yet wish that no one guide; the six represented party sections become six people at the meeting, each representing a different thought through Commons \`shalori\`. "The Morrow of the Revolution" becomes the day after society's transformation. Morris's claim that civilization forced railway travel into habit uses a causative sentence rather than a neutral commute. Anger stays \`korua thero\`, the shouting stays \`kapura\`, and contempt stays \`thiku nila\`; the disagreement is not cleaned up to make the future dream easier.*
+| Phi | Work in the chapter |
+|---|---|
+| `shalimo` | The League as a continuing alliance |
+| `nurako` | The railway |
+| `welamu` | The old elm |
+| `tawimo` | The charge of foolishness |
+| `pothu` | The carriage's stink |
+| `kanelu` | The narrator's miserable errors |
+| `monelu` | Amusement at his own tale |
+| `kapura` | The meeting-room shout |
+| `loremi` | The elm's branches |
+| `wakomi` | Surprise in the waking night and the adventures ahead |
+| `rulami` | The adventures that carry the book onward |
 
-*Source names, the five-minute walk, the clock strikes, and exact London categories remain in Morris's citations. Phi gives the station a railway wagon that actually stops, calls the suburb worn and unbeautiful, and lets the moonlit walk shed the meeting's heaviness without pretending the meeting was gentle. New words coined for this transmutation: none.*
+*The suspension bridge composes as \`suro repha\`, the countryside as \`pelowa muila\`, the station as \`nurako lokue\`, and the underground railway as the railway that runs below the earth.*
+
+*The political labels receive visible interpretations. Four people with divergent Anarchist opinions wish that no individual hold \`karami\`, authority, in society. The six party sections become six people who each hold a different view; no one is falsely made the representative of an idea. "The Morrow of the Revolution" becomes the day after society's transformation. Morris's claim about compulsory railway travel now uses \`kawhera\`, coerce, rather than hiding the pressure inside a neutral commute. Anger stays \`korua thero\`, the shout stays \`kapura\`, and contempt stays \`thiku nila\`; a peaceful language still needs to report an unpeaceful meeting accurately.*
+
+*The completed lexicon also lets the chapter stop leaning on English homonyms and stretched paraphrases. Winter, waking, observation, and difficulty now have direct forms. Optional Commons, Household, Philosophical, and Systems vocabulary enters where Morris's politics, room, argument, and railway need it. Source names, the five-minute walk, clock hours, and exact London categories remain in Morris's citations. This retrofit coins no new word.*
