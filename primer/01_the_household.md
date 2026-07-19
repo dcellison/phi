@@ -64,7 +64,6 @@
 > lopia: **mia lopia nai. thia phao nai.**
 > phao: **mia phao nai. thia lopia nai.**
 > lopia: **thia lohau nai. thia melu nai.**
-> lohau: —
 
 | new word | say it | it means |
 |---|---|---|
@@ -78,6 +77,6 @@
 
 ---
 
-*Read the whole chapter once more, aloud, a little slower than feels natural. Then close the book for today: small portions, held well, are how this language is meant to be taken in.*
+*One more reading aloud can settle the shape. Choose whatever pace keeps the words distinct and your attention with the utterance; the household does not keep a stopwatch.*
 
 *The machinery, when you want it:* **nai** *and the sentence of being are explained in the manual, Part IV, chapter 10 (The Mindful Sentence).*

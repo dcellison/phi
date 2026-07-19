@@ -11,7 +11,7 @@
 > **lo mia wei muila thinoe so loa.**
 > **pheralu so lepa.**
 > **sileta keru so loa.**
-> **lo peloru so rihe.**
+> **lo peloru so sheloa.**
 
 | new word | say it | it means |
 |---|---|---|
@@ -19,8 +19,9 @@
 | muila | mu · i · la | earth |
 | muholi | mu · ho · li | dig |
 | thinoe | thi · no · e | seed |
+| sheloa | she · lo · a | bloom |
 
-*A friend will come; we will dig the earth; we will give seeds to the earth. That is how Phi plants: giving,* wei muila, *to the earth as to a friend. Rain will fall, the sun will give light, and the flowers will rise. Six sentences, and a whole garden stands in the future.*
+*A friend will come; we will dig the earth; we will give seeds to the earth. That is how Phi plants: giving,* wei muila, *to the earth as to a friend. Rain will fall, the sun will give light, and the flowers will bloom. Six sentences, and a whole garden stands in the future.*
 
 ## II
 
@@ -46,8 +47,8 @@
 
 ## IV
 
-> lopia: **wa lo peloru so rihe.**
-> wheo: **lia. lo peloru so rihe.**
+> lopia: **wa lo peloru so sheloa.**
+> wheo: **lia. lo peloru so sheloa.**
 > **shero shua.**
 > **lo mia nulae.**
 > **misheko rihe.**
@@ -56,7 +57,7 @@
 |---|---|---|
 | shero | she · ro | night |
 
-*Will the flowers rise? They will. The elder says it the way elders say such things: with the same words the child used, returned in the same order, and no doubt anywhere in them. Night comes; we sleep; the night shift clocks in.*
+*Will the flowers bloom? They will. The elder says it the way elders say such things: with the same words the child used, returned in the same order, and no doubt anywhere in them. Night comes; we sleep; the cat considers this a sensible beginning.*
 
 ---
 

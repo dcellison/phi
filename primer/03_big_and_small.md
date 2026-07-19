@@ -40,7 +40,7 @@
 | peloru | pe · lo · ru | flower |
 | thepalu | the · pa · lu | garden |
 
-*The trees are large, the flowers are small, and all of it is good. Notice* peloru *and* pelori*: flower and bird, one vowel apart, the garden's two ornaments.*
+*The trees are large, the flowers are small, and all of it is good. Notice* peloru *and* pelori*: flower and bird differ only in their final vowel. Give that last syllable its full sound; the garden depends on it.*
 
 ## IV
 
@@ -59,6 +59,6 @@
 
 ---
 
-*Aloud, once more, slower. Small words are doing large work now: many, before; describer, before. Everything announces, then delivers.*
+*Aloud once more, with each small word distinct. Plural comes before the noun, and a describer does too. The order is beginning to do the explaining for you.*
 
 *The machinery, when you want it: plural* lo *and noun phrases are the manual's Part IV, chapter 11.*

@@ -12,7 +12,7 @@
 |---|---|---|
 | nophi | no · phi | story |
 
-*Everyone in the garden; the elder tells a story, and the story is of past days. (You met* nophi *once before without knowing it: a dream, in this language, is a sleep-story.)*
+*Everyone is in the garden; the elder tells a story, and the story concerns past days.* nophi *is a telling shaped from events, whether remembered or imagined. By itself, the word leaves open whether every event happened.*
 
 ## II
 
@@ -20,7 +20,7 @@
 > wheo: **ne thinoe mia wheo to nai.**
 > wheo: **thepalu thiku to nai. mawha shiro. mawha peloru. muila sonu.**
 
-*When I was a child (and every head settles in; this will not be brief), my elder was thinoe, and this garden was small: no trees, no flowers, the earth alone. Past-marked being, mawha, and grammar you have owned for weeks, doing memory's work.*
+*When I was a child (and every head settles in; this will not be brief), my elder was thinoe, and this garden was small: no trees, no flowers, the earth alone. Past-marked being and* mawha *now do memory's work.*
 
 ## III
 
@@ -33,7 +33,7 @@
 | sholo | sho · lo | (closes them) |
 | sheluo | she · lu · o | listen |
 
-*Inside the brackets, thinoe speaks in her own voice: give seeds to the earth; give water to the earth; the earth receives all. The commands are still commands:* no *survives inside the quotation, because* shola … sholo *changes nothing it carries. Around the brackets, the elder's own frame:* to haolu, *said, long ago. And everyone listens,* sheluo, *hearing with the whole person turned toward the sound.*
+*Inside the brackets, thinoe speaks in her own voice: give seeds to the earth; give water to the earth; the earth receives all. The directives remain directives:* no *survives inside the quotation because* shola … sholo *changes nothing it carries. Around the brackets, the elder's own frame ends in* to haolu, *said in the past. Everyone listens,* sheluo, *with the whole person turned towards the sound.*
 
 ## IV
 
@@ -45,6 +45,6 @@
 
 ---
 
-*Three bracket pairs now: statements, questions, exact words. Notice which one Phi built for keeping the dead alive.*
+*Three bracket pairs now: statements, questions, exact Phi words. The last lets one person's utterance remain audible inside another person's telling.*
 
 *The machinery, when you want it: quotation is the manual's Part V, chapter 19; the quotative preserves original tense and pronouns by design.*

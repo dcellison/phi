@@ -19,7 +19,7 @@
 | luera | lu · e · ra | the past |
 | wireo | wi · re · o | the future |
 
-*Three date-lines, three days.* ha philo *you can almost read unaided: here-day — today.* luera philo, *the past's day — yesterday.* wireo philo, *the future's day — tomorrow. The compounds are the tense particles' older cousins, and the entries beneath them use the grammar you already have: fell, has-repaired, will-come.*
+*Three date-lines, three days.* ha philo *you can almost read unaided: here-day, today.* luera philo, *the past's day, yesterday.* wireo philo, *the future's day, tomorrow. The compounds are relatives of the tense particles, and the entries beneath them use grammar you already have: fell, has-repaired, will-come.*
 
 ## II
 
@@ -37,7 +37,7 @@
 
 *Wider than days:*
 
-> **wirae shua. lo peloru rihe.**
+> **wirae shua. lo peloru sheloa.**
 > **keloi shua. waero sulae nai.**
 > **muero shua. lo pelori wepu.**
 > **shila shua. waero pelui nai.**
@@ -53,7 +53,7 @@
 | pelui | pe · lu · i | cold |
 | torua | to · ru · a | year |
 
-*Spring, and the flowers rise; summer, warm sky; autumn, the birds go; winter, cold sky. And the chapter's one metaphor, offered like a proverb: the year walks. It does not run. It is a Phi year.*
+*Spring, and the flowers bloom; summer, warm sky; autumn, the birds go; winter, cold sky. The chapter's one metaphor is offered like a proverb: the year walks, with each season given its place.*
 
 ## IV
 
@@ -72,6 +72,6 @@
 
 ---
 
-*Part II is complete. You can set any sentence into the past or the future, hold it open, close it, begin it, make it a habit, and date a journal page in a language you could not read a week ago. The book's standing request: keep the journal. Three fragments a day, dated* ha philo. *It is the oldest Phi practice there is.*
+*Part II closes here. A sentence may now be set in the past or future, with an action shown as unfolding or complete. Its beginning or cessation can be marked as well, and a recurring action can be named as a habit. The three-line journal is available whenever writing helps. Begin with* ha philo *or another time phrase, then write a few plain sentences. It is a practice form, not a daily quota.*
 
 *The machinery, when you want it: the time compounds live in the manual's Part IV, chapter 14 and the compound registry; the journal practice is chapter 23's.*

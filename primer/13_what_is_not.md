@@ -33,13 +33,13 @@
 > **sulopa mua tomi ma nai.**
 > **mawha nuora mua wonepa nai.**
 > **lopia phao nila.**
-> **phao sulopa pa pilewa.**
+> **phao sulopa pa pharelo.**
 
 | new word | say it | it means |
 |---|---|---|
 | mawha | ma · wha | no, none (before a noun) |
 
-*No soup in the pot; no food at all on the table:* mawha *before a noun empties it the way* lo *fills it. The child looks at the parent. The parent, who can read a look, begins the soup.*
+*No soup in the pot; no food at all on the table:* mawha *before a noun empties it the way* lo *fills it. The child looks at the parent. The parent, who can read a look, begins cooking the soup.*
 
 ## IV
 

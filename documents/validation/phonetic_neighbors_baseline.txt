@@ -8,10 +8,10 @@
 0.47	1	sholu	complete	content	sholo	QUOT.COMP.CLOSE	function	280
 0.47	1	wi	two	content	we	ALSO	function	272
 0.47	1	ro	HAB	function	ru	INTS	function	264
-0.47	1	ke	INFER	function	ki	PFV	function	259
+0.47	1	ke	INFER	function	ki	PFV	function	260
 0.47	1	si	IPFV	function	se	PASS	function	242
 0.47	1	mu	zero	content	mo	CMPR	function	227
-0.47	1	no	IMP	function	nu	ORD	function	168
+0.47	1	no	IMP	function	nu	ORD	function	170
 0.47	1	ni	HON.INTIM	function	ne	NAME	function	163
 0.47	1	nophi	story	content	nophe	ABST.CLF	function	97
 0.47	1	te	CESS	function	ti	REP	function	95
@@ -30,7 +30,7 @@
 0.47	1	phelu	hold	content	phelo	light	content	216
 0.47	1	philu	candle	content	phelu	hold	content	213
 0.47	1	phaelo	feel	content	phaelu	peaceful	content	164
-0.47	1	loa	give	content	lua	lovely	interjection	154
+0.47	1	loa	give	content	lua	lovely	interjection	155
 0.47	1	kelu	become	content	kelo	frame	content	150
 0.47	1	welao	good	content	wilao	long-for	content	128
 0.47	1	shilu	blue	content	shelu	book	content	126
@@ -70,13 +70,13 @@
 0.47	1	shela	art	content	shila	winter	content	13
 0.47	1	tinoa	dye	content	tenoa	tool	content	13
 0.47	1	lonae	respond	content	lonai	width	content	12
+0.47	1	sheloa	bloom	content	shiloa	pure	content	12
 0.47	1	thiru	exit	content	theru	thick	content	12
 0.47	1	thola	bring	content	thula	spring	content	12
 0.47	1	liru	fabric	content	liro	green	content	10
 0.47	1	keloe	companion	content	keloi	summer	content	9
 0.47	1	kiru	chisel	content	kiro	precise	content	8
 0.47	1	pheru	endure	content	phero	fern	content	8
-0.47	1	sheloa	bloom	content	shiloa	pure	content	8
 0.47	1	thonai	responsible	content	thunai	student	content	8
 0.47	1	wiru	basket	content	weru	poet	content	7
 0.47	1	lunai	vision	content	lonai	width	content	6
@@ -93,13 +93,13 @@
 0.47	1	thiru	exit	content	thiro	serene	content	1
 0.47	1	thorai	bless	content	thorae	facilitator	content	1
 0.47	1	thorai	bless	content	thurai	vibrant	content	1
-0.50	1	po	POT	function	to	PST	function	2259
-0.50	1	ko	FOC	function	to	PST	function	2036
+0.50	1	po	POT	function	to	PST	function	2260
+0.50	1	ko	FOC	function	to	PST	function	2037
 0.50	1	thia	2SG	function	shia	3SG	function	1944
 0.50	1	nia	ON	function	mia	1SG	function	1907
 0.50	1	sa	HON.RESPECT	function	ha	PROX	function	745
 0.50	1	na	NEC	function	ma	NEG	function	650
-0.50	1	nua	COM	function	mua	LOC	function	502
+0.50	1	nua	COM	function	mua	LOC	function	504
 0.50	1	ta	one	content	ka	CAUS	function	476
 0.50	1	ta	one	content	pa	INCH	function	372
 0.50	1	ho	ASSUM	function	so	FUT	function	328
@@ -108,11 +108,11 @@
 0.50	1	hola	laugh	content	shola	QUOT.COMP	function	273
 0.50	1	thola	bring	content	shola	QUOT.COMP	function	264
 0.50	1	whola	invite	content	shola	QUOT.COMP	function	252
-0.50	1	ki	PFV	function	pi	POL	function	246
-0.50	1	ki	PFV	function	ti	REP	function	225
-0.50	1	mo	CMPR	function	no	IMP	function	224
+0.50	1	ki	PFV	function	pi	POL	function	247
+0.50	1	ki	PFV	function	ti	REP	function	226
+0.50	1	mo	CMPR	function	no	IMP	function	226
 0.50	1	theo	read	content	pheo	POST	function	224
-0.50	1	shua	come	content	sua	who	function	219
+0.50	1	shua	come	content	sua	who	function	221
 0.50	1	ka	CAUS	function	pa	INCH	function	212
 0.50	1	shea	peace	content	phea	AS	function	182
 0.50	1	mu	zero	content	nu	ORD	function	171
@@ -142,7 +142,7 @@
 0.50	1	pheno	full	content	sheno	ADD	function	32
 0.50	1	thenoi	falls-short	content	henoi	ENOUGH	function	32
 0.50	1	thua	fair	content	sua	who	function	28
-0.50	1	kua	where	function	tua	no	interjection	24
+0.50	1	kua	where	function	tua	no	interjection	25
 0.50	1	heno	satisfy	content	sheno	ADD	function	22
 0.50	1	shela	art	content	thela	how	function	22
 0.50	1	thoa	AMONG	function	soa	sorry	interjection	20
@@ -159,7 +159,7 @@
 0.50	1	sano	know	content	whano	stand	content	312
 0.50	1	phena	kind	content	thena	thing	content	235
 0.50	1	selu	flow	content	phelu	hold	content	217
-0.50	1	shua	come	content	thua	fair	content	215
+0.50	1	shua	come	content	thua	fair	content	217
 0.50	1	thelu	dialogue	content	phelu	hold	content	215
 0.50	1	phelu	hold	content	helu	smooth	content	214
 0.50	1	shena	calm	content	thena	thing	content	212
@@ -169,7 +169,7 @@
 0.50	1	melu	friend	content	nelu	revere	content	171
 0.50	1	wheo	elder	content	theo	read	content	170
 0.50	1	shaelo	brave	content	phaelo	feel	content	163
-0.50	1	whalo	large	content	thalo	walk	content	137
+0.50	1	whalo	large	content	thalo	walk	content	138
 0.50	1	thinu	put	content	thimu	time	content	134
 0.50	1	shelu	book	content	selu	flow	content	125
 0.50	1	shelu	book	content	thelu	dialogue	content	123
@@ -180,7 +180,7 @@
 0.50	1	korua	heart	content	torua	year	content	99
 0.50	1	korua	heart	content	porua	purpose	content	93
 0.50	1	phulae	mouth	content	sulae	warm	content	93
-0.50	1	siora	joy	content	phiora	spirit	content	90
+0.50	1	siora	joy	content	phiora	spirit	content	92
 0.50	1	hea	hear	content	shea	peace	content	87
 0.50	1	philo	day	content	whilo	white	content	81
 0.50	1	phewo	sage	content	shewo	true	content	80
@@ -223,12 +223,12 @@
 0.50	1	seru	commit	content	theru	thick	content	22
 0.50	1	themui	faith	content	shemui	utter	content	21
 0.50	1	whola	invite	content	hola	laugh	content	21
-0.50	1	kiru	chisel	content	piru	trader	content	19
 0.50	1	helui	change	content	thelui	sanctuary	content	18
 0.50	1	heru	herb	content	theru	thick	content	16
 0.50	1	seru	commit	content	heru	herb	content	16
 0.50	1	seru	commit	content	sheru	slow	content	16
 0.50	1	sheru	slow	content	theru	thick	content	16
+0.50	1	kiru	chisel	content	piru	trader	content	15
 0.50	1	lima	alive	content	lina	string (instrument)	content	15
 0.50	1	pelui	cold	content	telui	rhythm	content	13
 0.50	1	shalu	fish	content	halu	aww	interjection	13
@@ -242,6 +242,7 @@
 0.50	1	thiru	exit	content	siru	marker	content	11
 0.50	1	heru	herb	content	sheru	slow	content	10
 0.50	1	hiru	intuit	content	siru	marker	content	10
+0.50	1	sheloa	bloom	content	theloa	truth	content	10
 0.50	1	kenoa	hemp	content	tenoa	tool	content	9
 0.50	1	lopha	vessel	content	losha	wide	content	9
 0.50	1	nea	aha	interjection	mea	thanks	interjection	9
@@ -249,4 +250,3 @@
 0.50	1	phelo	light	content	shelo	signify	content	8
 0.50	1	thelu	dialogue	content	selu	flow	content	8
 0.50	1	thinu	put	content	whinu	smell	content	8
-0.50	1	koru	harmonious	content	toru	roof	content	7

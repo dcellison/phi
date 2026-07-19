@@ -30,7 +30,7 @@
 |---|---|---|
 | shalu | sha · lu | fish |
 
-*The fish are swimming; the dog is watching the fish; the fish are watching the dog. Chapter two's mirrored pair, grown up and set mid-stream: order still tells you who is looking, and* si *holds everyone exactly where they are, regarding one another across the water.*
+*The fish are swimming; the dog is watching the fish; the fish are watching the dog. Chapter two's mirrored pair has grown up and wandered into the river: order still tells you who is looking, and* si *keeps each action in progress across the water.*
 
 ## III
 
@@ -44,12 +44,16 @@
 
 ## IV
 
-> **sileta lepa.**
+> **howai shua.**
 > **lo pelori shua.**
 > **lopia lue luphore shua.**
 > **lohau lue luphore shua.**
 
-*The chapter's one metaphor, and it is an old and honest one: the sun falls. Evening; the birds come home, and so does everyone else (wet, in one case, and entirely satisfied about it).*
+| new word | say it | it means |
+|---|---|---|
+| howai | ho · wa · i | evening |
+
+*Evening comes; the birds return, and so does everyone else (wet, in one case, and entirely satisfied about it).*
 
 ---
 

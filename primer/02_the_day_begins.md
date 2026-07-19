@@ -1,6 +1,6 @@
 # 2 · sileta rihe
 
-*Chapter one told you what things are. This chapter shows what they do. One shape carries all of it: the doer first, then (if something is acted on) the acted-on, and the doing itself always last. The verb closes the sentence the way* nai *did. Wait for it; that waiting is the language.*
+*Chapter one told you what things are. This chapter shows what they do. One shape carries this lesson: the doer first, then (if something is acted on) the acted-on, and the doing itself last. The verb closes the sentence the way* nai *did. Wait for it; that waiting is the language.*
 
 ## I
 
@@ -68,6 +68,6 @@
 
 ---
 
-*Read the chapter once more aloud and give every vowel its own place. You now hold both of Phi's great shapes: what things are, and what things do.*
+*Read the chapter once more aloud and give every vowel its own place. You now hold two basic Phi shapes: what things are, and what things do.*
 
 *The machinery, when you want it: word order and the verb-final principle are the manual's Part IV, chapter 10.*

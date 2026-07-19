@@ -5,6 +5,7 @@
 ## I
 
 > **ne siora kau womu shua.**
+> **siora milaro kolua.**
 > **siora shane.**
 > **siora mena ne sulae so shua meno shane.**
 
@@ -12,9 +13,10 @@
 |---|---|---|
 | mena | me · na | (opens an embedded statement) |
 | meno | me · no | (closes it) |
+| milaro | mi · la · ro | message |
 | shane | sha · ne | tell |
 
-*siora comes to the house and tells: tells that sulae will come. Read the long sentence once while watching the brackets:* siora … shane *is the frame, and inside it, whole and untouched, sits* ne sulae so shua, *with its own future particle minding its own verb. The closer* meno *is not decoration: without it, two verbs would stand face to face with no way to tell whose sentence ended.*
+*siora comes to the house carrying a message and tells it: sulae will come. Read the long sentence once while watching the brackets:* siora … shane *is the frame, and inside it sits* ne sulae so shua, *with its own future particle minding its own verb. The closer* meno *is not decoration; without it, two verbs would stand face to face with no way to tell whose sentence ended.*
 
 ## II
 
@@ -26,11 +28,11 @@
 |---|---|---|
 | haolu | ha · o · lu | speak, say |
 
-*Now the child knows that sulae will come; the parent also knows it; and the child says that we will make soup: the same embedded shape serving know, tell, and say alike. One pattern, every verb of the mind and mouth.*
+*Now the child knows that sulae will come; the parent also knows it; and the child says that we will make soup. The same embedded shape works with knowing, telling, and speaking, while each matrix verb keeps its own meaning.*
 
 ## III
 
-> **phao sulopa pilewa.**
+> **phao sulopa pharelo.**
 > **lopia lo noru kolua.**
 > **wheo mena philo welao nai meno phaelo.**
 
@@ -38,7 +40,7 @@
 |---|---|---|
 | phaelo | pha · e · lo | feel |
 
-*Preparations, and the elder, watching them, feels that the day is good. Feeling takes an embedded thought exactly the way knowing does; Phi does not pretend the heart is grammatically different from the head.*
+*The parent cooks soup. The elder watches and feels that the day is good. Feeling takes an embedded thought exactly the way knowing does; Phi does not pretend the heart is grammatically different from the head.*
 
 ## IV
 
@@ -47,10 +49,10 @@
 > phao: **lia. siora to shane. lo mia mena thia so shua meno to sano.**
 > sulae: **welao nai.**
 
-*Did siora tell you I would come? He told. We knew you would come: the embedded clause keeps its own little future even inside a past telling, because what siora said pointed forward when he said it. Time inside the brackets belongs to the bracketed thought.*
+*Did siora tell you I would come? They did. We knew you would come: the embedded clause keeps its own future even inside a past telling, because what siora said pointed forward when they said it. Time inside the brackets belongs to the bracketed thought.*
 
 ---
 
-*You can now put a sentence inside a sentence, which is where language stops being a list of events and becomes a picture of minds. Read the chapter's longest line once more and feel the closer click shut like a well-made box.*
+*You can now put a sentence inside a sentence and say what someone knows, tells, speaks, or feels. Read the chapter's longest line once more and listen for the closer clicking shut like a well-made box.*
 
 *The machinery, when you want it: complement clauses are the manual's Part V, chapter 19.*

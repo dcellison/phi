@@ -12,12 +12,12 @@
 |---|---|---|
 | nela | ne · la | and |
 
-*Child and guest in the garden; friend and parent at the table; dog and cat (a sentence that would have started a war in chapter one) asleep in the same house. nela stands between its two, joining without ranking them.*
+*Child and guest in the garden; friend and parent at the table; dog and cat (an arrangement neither would have signed in chapter one) asleep in the same house.* nela *stands between its two and joins them without ranking either one.*
 
 ## II
 
-> phao: **sulopa sola napuro.**
-> sulae: **napuro. mea.**
+> phao: **sulopa sola napa.**
+> sulae: **napa. mea.**
 > lopia: **wa siora sulopa sola milura nuola.** *Loosely: soup or milk for siora?*
 > siora: **milura.**
 
@@ -56,6 +56,6 @@
 
 ---
 
-*Part III is complete. You can now refuse and permit, command gently, count what you share and share what you count, meet strangers by name, thank them properly, and join any two things in the language, including yourselves:* lo mia po nuawe thuroa. *Part IV teaches Phi to speak about speaking: saying that, asking whether, quoting, and knowing how you know. After that, the fable is waiting, with glosses beside the grammar and vocabulary that lie beyond the household.*
+*Part III closes here. Directives now sit apart from permission and necessity. The household can refuse, count what it shares, and meet visitors by name. It can coordinate people or things, among them yourselves:* lo mia po nuawe thuroa. *Part IV teaches Phi to speak about speaking: saying that, asking whether, quoting Phi words, and marking a claimed source. After that, the fable is waiting, with glosses beside grammar and vocabulary that lie beyond the household.*
 
 *The machinery, when you want it: coordination is the manual's Part V, chapter 17; nuawe's story is in its own lexicon entry.*

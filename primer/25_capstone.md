@@ -12,9 +12,9 @@ A useful first pass stays with the close translation until a sentence resists. T
 
 Three roads leave the fable, in whatever order calls to you.
 
-[*The Metta Sutta*](../texts/metta_sutta.md) is a close translation of the loving-kindness meditation. It is harder than the fable. A little each day is enough. The Sun's invitation has already introduced optative *su*; here the particle carries a whole practice of wishes and blessings.
+[*The Metta Sutta*](../texts/metta_sutta.md) is a close translation of the loving-kindness meditation. It is harder than the fable, and a few lines at a time may be enough. The Sun's invitation has already introduced optative *su*; here the particle carries a whole practice of wishes and blessings.
 
-The journal remains chapter twelve's standing request: three fragments a day, dated *ha philo*. This is where the language begins to move from the page into ordinary thought.
+The three-line journal from chapter twelve remains available without becoming a daily quota. A time phrase such as *ha philo* can open whatever few sentences the day has given you. This is one place where the language can move from the page into ordinary thought.
 
 The manual is where every "machinery" pointer in this book leads. It holds the grammar and practices the primer deliberately leaves out. You enter it as a reader checking the reference, which is what it was written for.
 

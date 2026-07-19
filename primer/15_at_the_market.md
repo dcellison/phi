@@ -14,38 +14,39 @@
 | wi | wi | two |
 | shao | sha · o | three-group |
 | lipha | li · pha | (classifier: living things) |
+| powea | po · we · a | egg |
 
-*Off to the village, the child counts eggs the whole way: one, two, three,* ta, wi, ta shao, *one three-group. Phi's lexicon treats an egg as life in waiting, so the scene chooses* lipha; *the count would remain grammatical without the classifier.*
+*Off to the village, the child counts eggs the whole way: one, two, three,* ta, wi, ta shao, *one three-group. These eggs are meant for hatching, so the scene chooses* lipha. *The count remains grammatical with no classifier, which would leave the category unspoken.*
 
 ## II
 
-> **piru mua silawo nai.**
-> **wi himo piru mua silawo nai.**
+> **miona mua silawo nai.**
+> **wi himo miona mua silawo nai.**
 > **ta themo tomi. wi themo noru.**
 
 | new word | say it | it means |
 |---|---|---|
-| piru | pi · ru | trader |
 | himo | hi · mo | (classifier: people) |
 | themo | the · mo | (classifier: objects) |
 | noru | no · ru | bowl |
 
-*Two traders at the market (counted with* himo, *the people-classifier) and their table of made things, counted with* themo. *Four kinds of counting for four kinds of being: people, living things, objects, and, next scene, things you cannot hold.*
+*Two people are ready to exchange at the market, counted with* himo, *the people-classifier. Their table holds made things counted with* themo. *A food egg could also take* themo *when its detached material use is the point. Four classifiers are available: people, living things, detached or crafted objects, and, in the next scene, things you cannot hold.*
 
 ## III
 
-> **phao wei piru lo powea loa.**
-> **piru wei phao hemilo loa.**
+> **phao wei miona lo powea loa.**
+> **miona wei phao hemilo loa.**
 > **lo shia wisola.**
 > **lopia morisa nila. phao morisa howela.**
 
 | new word | say it | it means |
 |---|---|---|
+| shia | shi · a | they, he, she, it |
 | wisola | wi · so · la | exchange |
 | hemilo | he · mi · lo | honey |
 | morisa | mo · ri · sa | salt |
 
-*Eggs go to the trader; honey comes back; that two-way giving has a name:* wisola, *exchange, which is how this market works: no coins anywhere, just things finding the people who need them. The child spots salt; the parent takes some home.*
+*Eggs go to the other person; honey comes back; that two-way giving has a name:* wisola, *exchange. This market uses no coins. People bring what they have and decide together what will change hands. The child spots salt; the parent takes some home.*
 
 ## IV
 
@@ -57,8 +58,9 @@
 | new word | say it | it means |
 |---|---|---|
 | nophe | no · phe | (classifier: ideas, times, events) |
+| mu | mu | zero |
 
-*Days are counted with* nophe, *the classifier of things you cannot pick up: one day, two days, three. Tomorrow, will we be at the market? No: home. Phi does have a true zero, by the way,* mu, *the number of absence, waiting for you in the manual's ternary arithmetic when you are ready to count nothing at all. The walk home is downhill, the way markets arrange it.*
+*Days are counted with* nophe, *the classifier of things you cannot pick up: one day, two days, three. Tomorrow, will we be at the market? No: home.* mu *is zero. The manual's ternary arithmetic will be ready for the occasion when nothing at all needs counting. The walk home is downhill, the way markets arrange it.*
 
 ---
 

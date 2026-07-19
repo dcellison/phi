@@ -1,6 +1,6 @@
 # 6 · silawo
 
-*The last chapter of Part I leaves the house. Two direction words carry it:* **lue** *— from, and* **wei** *— to, for. Like* mua*, they announce before they deliver: first the relation, then the place or person it points at, then the rest of the sentence. With them come the verbs of going and coming, and the two verbs this language may care about most: giving and receiving.*
+*The last chapter of Part I leaves the house. Two relation words carry it:* **lue**, *from, and* **wei**, *to or for. Like* mua*, each precedes the place or person it points to. With them come the verbs of going and coming, and two verbs this language cares about deeply: giving and receiving.*
 
 ## I
 
@@ -59,8 +59,9 @@
 | new word | say it | it means |
 |---|---|---|
 | keru | ke · ru | bright |
+| horae | ho · ra · e | radiant |
 
-*Home again, and the flower is given onward: received at the well, delivered to the parent, worth more at each handing. And the last line is the language showing you its heart: Phi does not say the sun shines. It says* sileta keru loa *— the sun gives light. The day's last giver is the biggest one.*
+*Home again, and the flower is given onward: received at the well, delivered to the parent, worth more at each handing. The last line chooses a characteristic Phi image:* sileta keru loa, *the sun gives brightness. The plain* sileta horae nai *calls the sun radiant; this sentence reuses the giving verb that moved the flower.*
 
 > **lopia nulae. lohau nulae. phao nulae. wheo nulae.**
 > **misheko rihe.**
@@ -69,6 +70,6 @@
 
 ---
 
-*Part I is complete. Read all six chapters again in one attentive sitting; it will take you twenty minutes, and this time little of it should resist you. You can say what things are and do, make them many, describe them, ask and answer, greet and part, say whose and where, and hand a flower from one person to another with the grammar announcing every step. That is a life, in miniature. Part II adds time to it.*
+*Part I is complete. Reading the six chapters together lets their recurring shapes answer one another. You can say what things are and do, make them plural, and describe them. You can ask and answer, greet and part, or hand a flower from one person to another with every relation in its place. Take the chapters together when attention allows; no clock is needed. Part II adds time.*
 
 *The machinery, when you want it: the prepositions live in the manual's Part IV; giving-sentences with* wei *appear in chapter 21's social patterns.*

@@ -1,22 +1,22 @@
 # The Phi Primer
 
-A graded reader for learning Phi by reading Phi. The method is borrowed from the best language primer ever written, *Lingua Latina per se illustrata*: stories whose every new element is inferable from what came before, with nothing but small margin glosses to help. You do not study the language and then read; the reading is the study.
+A graded reader for learning Phi by reading Phi. Its central method comes from *Lingua Latina per se illustrata*: stories whose new elements can be inferred from what came before, with small glosses where inference needs help. You do not study the language and then read; the reading is the study.
 
 Phi suits this method unusually well. There are no irregular forms, so every word you meet is every form it will ever have. There is no inflection to memorize, so grammar arrives as sentence shapes, absorbed through repetition until a violation would feel wrong before you could say why. That feeling is the goal. The manual explains the machinery; the primer grows the instinct.
 
 ## How to read
 
-Aloud, always, and with attention. Keep every syllable open, every vowel pure, and the stress on the second-to-last syllable. Read at the pace that lets you hear those things; fluency may quicken the sentence without merging its sounds. Read each scene twice: once for the shape, once for the meaning. If a sentence resists, do not stop to analyse it; read on, and let the next few sentences teach it. The margin gives you new words; everything else you already have.
+Reading aloud helps the method work: it lets you hear every open syllable, distinct vowel, and second-to-last stress. The useful pace is the one that keeps those contrasts clear; fluency may quicken a sentence without blurring it. A first reading can follow the shape and a second can settle the meaning. When a sentence resists, the next few sentences may explain it before analysis does. The word tables supply new vocabulary, and the story supplies the rest.
 
 Each chapter ends with a single pointer into the manual for readers who want the machinery named. Following it is never required.
 
 ## The household
 
-The stories follow one household in a small village: **lopia**, the child; **phao**, the parent; **wheo**, the elder; **lohau**, the dog; **misheko**, the cat. Around them: the home, the garden, the well, the neighbors, the weather, the year. Nothing dramatic happens. Everything ordinary does.
+The stories follow three people in a small village: **lopia**, the child; **phao**, the parent; and **wheo**, the elder. **lohau**, the dog, and **misheko**, the cat, have naturally included themselves. Around them are a home, a garden, and a well. The neighbors come and go while weather and the turning year keep their own counsel. Nothing dramatic happens. Everything ordinary does.
 
 ## The ladder
 
-Each chapter adds one or two sentence shapes and eight to twelve words, and uses everything that came before. The parts:
+The chapters add sentence shapes in a fixed order, usually with a small set of words, and keep using what came before. The parts:
 
 **Part I: Being and doing**
 
@@ -60,9 +60,9 @@ Each chapter adds one or two sentence shapes and eight to twelve words, and uses
 | 21 | Quoting: *shola* … *sholo* | The elder's story |
 | 22 | Relative clauses with *rena* | The one who |
 | 23 | If: *lu* and *lu he* | Weather plans |
-| 24 | How you know: *hi*, *ke*, *ti*, *ho* | The news |
+| 24 | Claimed sources: *hi*, *ke*, *ti*, *ho* | The news |
 
-**Capstone**: read the close translation of [*The North Wind and the Sun*](../texts/north_wind_and_sun.md) as an annotated bridge into the full corpus, then compare its companion transmutation. The four-line blocks support vocabulary and grammar beyond the graded chapters. Afterward begin [the Metta Sutta](../texts/metta_sutta.md), where the language stops being practice and starts being itself.
+**Capstone**: read the close translation of [*The North Wind and the Sun*](../texts/north_wind_and_sun.md) as an annotated bridge into the full corpus, then compare its companion transmutation. The four-line blocks support vocabulary and grammar beyond the graded chapters. [The Metta Sutta](../texts/metta_sutta.md) then carries the language from household lessons into sustained compassionate expression.
 
 ## Status
 

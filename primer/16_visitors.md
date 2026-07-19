@@ -1,6 +1,6 @@
 # 16 · ne sulae
 
-*People have names, and Phi wears them with two small words.* **ne** *stands directly before a name, announcing that a name is coming, so no name is ever mistaken for vocabulary.* **kona** *calls to someone, standing outside the sentence like a hand raised in greeting. And* **pi**, *at the very front of a sentence, is politeness itself. Today the friend from the well gets her name, and brings company:*
+*People have names, and Phi gives them two small companions.* **ne** *stands directly before a name. Its position makes the use as a proper designation explicit even when the same form is also a content word.* **kona** *calls to someone from outside the sentence, like a hand raised in greeting. And* **pi**, *at the very front, marks the utterance as polite or considerate. Today the friend from the well gets her name and brings company:*
 
 ## I
 
@@ -41,21 +41,21 @@
 | pi | pi | (at the very front: politely) |
 | meilo | me · i · lo | sit |
 
-*May we sit in the garden?* pi *softens the question before the question even starts: politeness announced first of everything, which is the most Phi fact in this book. The answer returns it: please, come. The grown people sit; the children play; the dog has reviewed both options and chosen correctly.*
+*May we sit in the garden?* pi *marks the question as polite before it begins and leaves the question itself intact. The answer returns the courtesy: please, come. The grown people sit; the children play; the dog has reviewed both options and chosen correctly.*
 
 ## IV
 
 > siora: **kona misheko. kia.**
 > **misheko ma shua.**
-> siora: **kona ne misheko.** *The guest tries the name-word, in case the cat requires formality.*
+> siora: **kona ne misheko.** *The guest tries treating* misheko *as the cat's proper designation, in case that was what the household meant.*
 > **misheko ma shua.**
 > sulae: **misheko ro nulae.**
 > lopia: **lia. theula thimu.**
 
-*The visiting child calls the cat, then calls it again with full honors. The cat declines both registers equally. sulae states the general law; the child confirms it with chapter twelve's oldest truth. Always.*
+*The visiting child calls the cat, then tries again as though* misheko *were its name. The cat declines both calls equally. sulae states the household pattern; the child confirms it with chapter twelve's favourite exaggeration. Always.*
 
 ---
 
-*Names, calls, and courtesy: the grammar of meeting people. Notice the shape of every polite exchange:* pi *first,* kona *outside,* ne *before the name: all three announce before they deliver, because respect, in this language, is never an afterthought.*
+*Names, calls, and courtesy: the grammar of meeting people.* pi *comes first,* kona *stands outside the sentence, and* ne *precedes the name. Courtesy is heard before the question or invitation; whether the encounter is genuinely respectful still depends on the people in it.*
 
 *The machinery, when you want it: names and the vocative are the manual's Part IV, chapter 9 (Slot 2 and Slot 0); politeness has chapter 21 to itself.*

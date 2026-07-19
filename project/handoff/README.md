@@ -20,15 +20,15 @@ Do not use `archive/` as current evidence. It preserves history, including appro
 
 ## Where the work stopped
 
-SEM-09B and SEM-09C are complete. D045 through D052 migrated all eight module learning paths, and all 1,275 lexicon entries are target-shaped. There are no legacy, partial, or dual entries. SEM-09D is in progress: fifteen literary passes complete the shelf, the drafted Phi book is current through chapter 7, and all seven manual parts have received teaching passes. Parts I through III repair the beginner's conceptual foundation, the philosophy and learning chapters, and pronunciation and writing-mode teaching. Part IV brings all fifty-three grammar lessons under the closed inventories and current lexical meanings. Part V restores the exact scopes and orders of coordination, discourse marking, clause frames, and relative clauses; D054 corrects purpose order, and D055 enforces modifier-first structure across the active corpus. Part VI repairs social-force claims, transmutation method, measured practice, completed-vocabulary use, and exact source handling. Part VII corrects the compact grammar and reading samples, reviews all eight module chapters, and reconciles the compound registry with the completed lexicon. None of the seven passes found a lexical gap. Part IV uses one labelled optional Work root with a base alternative, and Part VI does the same for Commons `kowela`.
+SEM-09B and SEM-09C are complete. D045 through D052 migrated all eight module learning paths, and all 1,275 lexicon entries are target-shaped. There are no legacy, partial, or dual entries. SEM-09D is in progress: fifteen literary passes complete the shelf, the drafted Phi book is current through chapter 7, all seven manual parts have received teaching passes, and all twenty-seven primer files are reviewed. Parts I through III repair the beginner's conceptual foundation, the philosophy and learning chapters, and pronunciation and writing-mode teaching. Part IV brings all fifty-three grammar lessons under the closed inventories and current lexical meanings. Part V restores the exact scopes and orders of coordination, discourse marking, clause frames, and relative clauses; D054 corrects purpose order, and D055 enforces modifier-first structure across the active corpus. Part VI repairs social-force claims, transmutation method, measured practice, completed-vocabulary use, and exact source handling. Part VII corrects the compact grammar and reading samples, reviews all eight module chapters, and reconciles the compound registry with the completed lexicon. The primer pass repairs pronunciation, modality, evidentiality, names, and missing word-table support while preserving the household course. None of these teaching passes found a lexical gap. Part IV uses one labelled optional Work root with a base alternative, and Part VI does the same for Commons `kowela`; the general primer is module-free.
 
 The execution sequence is settled:
 
 1. The literary shelf and Phi book are current through chapter 7.
-2. Resume SEM-09D with the primer, then continue through the pamphlets and current documents.
+2. Resume SEM-09D with the pamphlets, then continue through the current documents.
 3. Return to the Phi book at chapter 8 after that sweep.
 
-The immediate task is `primer/`. Keep its general teaching close to base and function vocabulary, and use optional module terms only where the primer explicitly introduces their learning path.
+The immediate task is `pamphlets/`. Keep a general pamphlet close to base and function vocabulary, but use optional module terms freely when the pamphlet explicitly teaches that domain.
 
 ## The maintainer's working contract
 

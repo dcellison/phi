@@ -42,7 +42,7 @@
 |---|---|---|
 | te | te | (before the verb: it ceases) |
 
-*Rain falls. Rain stops falling. te is the gentlest stop in the language: not finished like* ki, *just no longer happening. The wind lets go too, and the sun takes over the sky.*
+*Rain falls. Rain stops falling.* te *marks cessation rather than completion: the rain has not finished a task; it is no longer falling. The wind ceases too, and the sun returns to the sky.*
 
 ## IV
 

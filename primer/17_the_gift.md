@@ -11,7 +11,7 @@
 
 | new word | say it | it means |
 |---|---|---|
-| loami | lo · a · mi · ra | gift |
+| loami | lo · a · mi | gift |
 | nemo | ne · mo | grateful |
 
 *sulae arrives carrying a gift and gives it. Look at the word:* loa *sits whole inside* loami, *the giving inside the given thing, the way* wapi *flies inside the wing. The parent receives it and is grateful, which in Phi is a way of being, said with* nai *like calm or goodness.*
@@ -27,29 +27,30 @@
 
 ## III
 
-> **phao nuora pilewa. lo mia nuora phowe.**
+> **phao nuora pharelo. lo mia nuora phowe.**
 > **lopia wei siora sulopa loa.**
-> **wheo wei sulae napuro loa.**
+> **wheo wei sulae napa loa.**
 > **theula miona nuola. we lohau nuola.**
 > **misheko rihe. misheko we shua.**
 
 | new word | say it | it means |
 |---|---|---|
 | phowe | pho · we | share |
+| napa | na · pa | bread |
 
-*Sharing is giving with everyone inside it: the meal goes around, child serving guest, elder serving friend, everyone eating, the dog also, obviously. And then the day's true miracle, twice marked: the cat rises, and the cat* also comes. *Food is the one summons the cat honors.*
+*Sharing makes food available for use with others without requiring it to leave one holder for another. Here the parent cooks while the child serves the guest and the elder serves the friend. Everyone eats; the dog also eats, obviously. Then comes the day's true miracle, twice marked: the cat rises, and the cat* also comes. *Food is the only summons the cat answers.*
 
 ## IV
 
 > sulae: **mea. lo mia nemo nai.**
 > phao: **lo mia we nemo nai.**
 > **shero shua. ne sulae pao. ne siora pao.**
-> **lopia wei siora thiku loami loa. — peloru.**
+> **lopia wei siora thiku loami loa.**
 
-*Thanks are traded like the gifts were: we are grateful; we also are grateful. And at the gate, the child hands the visiting child a small gift of their own (a flower, of course), because that is what the garden is for, and because chapter six taught exactly this: things worth more at each handing.*
+*Thanks answer thanks: we are grateful; we also are grateful. At the gate, the child hands the visiting child a small gift of their own (a flower, of course), because that is what the garden is for, and because chapter six taught exactly this: some things gain meaning at each handing.*
 
 ---
 
-*Count what changed hands in this chapter: a pot, a meal, thanks, and a flower, and not a coin anywhere, here or in the whole language. Phi's market was exchange and its friendship is gifts; the grammar for both is just* wei *and an open hand.*
+*A pot, bread, thanks, and a flower changed hands; the meal was shared. Phi has no word for coin, price, buying, or selling. This household needs only gifts, exchange, sharing, and* wei *to show where something goes.*
 
 *The machinery, when you want it: giving-sentences live in the manual's chapter 21; the gift entry itself is worth reading in the lexicon.*

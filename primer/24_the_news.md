@@ -1,6 +1,6 @@
 # 24 · hi ke ti ho
 
-*The last chapter of grammar, and the most Phi of them all. Four small particles mark* how you know *what you are saying:* **hi**, *I witnessed it;* **ke**, *I infer it;* **ti**, *someone told me;* **ho**, *I assume it. They stand with the other verb-particles, and they turn every statement into an honest one. Something has happened at the well:*
+*This final grammar chapter introduces four small particles for the source a speaker claims:* **hi**, *direct perception;* **ke**, *inference from particular signs;* **ti**, *a report from another source;* **ho**, *background assumption. They stand with the other verb-particles. None certifies truth or honesty; each makes the claimed source audible. Something has happened at the well:*
 
 ## I
 
@@ -10,9 +10,9 @@
 | new word | say it | it means |
 |---|---|---|
 | suliwa | su · li · wa | snake |
-| hi | hi | (I saw it myself) |
+| hi | hi | (I perceived it myself) |
 
-*A snake at the well, and the child says* hi: *seen, with these eyes. That is the strongest thing a Phi speaker can say about anything, and the language spends it carefully.*
+*A snake at the well, and the child says* hi*: perceived directly, in this case with the eyes.* hi *does not outrank the other particles or guarantee accuracy. It puts the child on record as a witness.*
 
 ## II
 
@@ -26,11 +26,11 @@
 | ti | ti | (someone told me) |
 | ke | ke | (I infer it) |
 
-*sulae knows by telling (*ti*) because siora ran ahead with the news. The elder walks to the well, sees no snake, sees the winding trail in the earth, and says* ke: *inferred, from evidence. Three people, one snake, three kinds of knowing, and each sentence wears its kind honestly.*
+*sulae marks the snake report with* ti *because siora ran ahead with the news; the particle says where the claim came from, not whether sulae knows it to be true. The elder walks to the well, sees no snake, and notices a winding trail in the earth. The elder says* ke*: inferred from those signs. Three people now hold three different relations to the same report.*
 
 ## III
 
-> phao: **suliwa ho wepu. suliwa lo miona ma lothea.**
+> phao: **suliwa ki ho wepu. suliwa lo miona ma lothea.**
 > wheo: **lia. suliwa maeli nolika nai.**
 > **lo mia mua phitura phialu kolua. mawha suliwa.**
 
@@ -39,7 +39,7 @@
 | ho | ho | (I assume it) |
 | lothea | lo · the · a | love |
 
-*The parent assumes (*ho*) that the snake has gone, since snakes do not love crowds. The elder agrees: a quiet animal. Water is fetched; no snake anywhere; nobody was bitten and nobody was harmed, including the snake, which is how this language prefers its stories to go. And there, in the parent's sentence, one word the whole book has been saving:* lothea. *Love. You will meet it properly in the texts.*
+*The parent assumes (*ho*) that the snake has gone, since snakes do not love crowds. Perfective* ki *marks the departure as complete while* ho *gives the claim its assumed source. The elder agrees: a quiet animal. Water is fetched; no snake remains; nobody was bitten or otherwise harmed. The snake too remains unharmed. And there, in the parent's sentence, one word the whole book has been saving:* lothea. *Love. You will meet it properly in the texts.*
 
 ## IV
 
@@ -51,10 +51,10 @@
 |---|---|---|
 | shewo | she · wo | true |
 
-*The child retells the day as a study in knowing: I saw; sulae was told; the elder inferred; the parent assumed. And the elder's blessing on it: everyone spoke truly. Not everyone knew the same way (that is the point), but every sentence carried its own evidence, and so all of them were honest. This is what the four particles are for. Phi does not ask you to be certain. It asks you to be exact about how you are not.*
+*The child retells the day as a study in sources: I perceived; sulae received a report; the elder inferred; the parent assumed. The elder then says that everyone spoke truly. That is a later judgement within the story, not a gift conferred by the particles. A witness can be mistaken, a report unreliable, an inference poor, or an assumption wrong. Phi keeps claimed source, truth, and confidence as separate questions.*
 
 ---
 
-*The grammar of this book is complete. You can say what is and is not, when and whether and why, whose and where and to-where, what you feel, what was said, what you would wish, and, now, how you know any of it. One thing remains, and it is not a lesson.*
+*The graded grammar ends here. The sentences available now can state or deny a claim, place events in time, form conditions, and embed statements or questions. They can also mark a claimed source. The fable brings these familiar shapes into contact with vocabulary and grammar the primer has not yet taught.*
 
 *The machinery, when you want it: evidentiality has the manual's Part IV, chapter 16 entirely to itself.*
