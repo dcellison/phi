@@ -1,6 +1,6 @@
 # 4 · kia
 
-*A visitor today, and with them the smallest grammar of any chapter:* **wa** *at the front of a sentence turns it into a question, and two little words,* **lia** *and* **tua***, answer it. Everything else is sentences you can already read.*
+*A visitor today, and with them the smallest grammar of any chapter:* **wa** *at the front of a sentence turns it into a yes-or-no question, and two little words,* **lia** *and* **tua**, *answer it. Everything else is sentences you can already read.*
 
 ## I
 
@@ -58,6 +58,6 @@
 
 ---
 
-*Read the whole visit aloud once more, both voices, and take the pauses seriously; a Phi conversation is not a race. You can now state, describe, count-by-many, ask, answer, greet, and take your leave. That is most of what neighbors do.*
+*Read the whole visit aloud once more, both voices, and take the pauses seriously; a Phi conversation is not a race. You can now state and describe, make nouns plural, and ask or answer. You can also greet someone and take your leave. That is most of what neighbors do.*
 
 *The machinery, when you want it: questions with* wa *live in the manual's Part IV, chapter 9, with the other framing particles.*

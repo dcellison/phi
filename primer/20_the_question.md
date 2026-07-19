@@ -1,6 +1,6 @@
 # 20 · wela
 
-*Chapter four taught you to ask;* *this chapter teaches you to hold a question inside a sentence without asking it.* **wela … welo** *brackets an embedded yes-or-no question (whether) the way* mena … meno *brackets a statement. Same architecture, different doorway. The feast needs planning, and planning is mostly not-knowing:*
+*Chapter four taught you to ask; this chapter teaches you to hold a question inside a sentence without asking it.* **wela … welo** *brackets an embedded yes-or-no question (whether) the way* mena … meno *brackets a statement. Same architecture, different doorway. The feast needs planning, and planning contains a fair amount of not-knowing:*
 
 ## I
 
@@ -21,7 +21,7 @@
 > sulae: **lia. siora so shua.**
 > **nosa lopia mena siora so shua meno sano.**
 
-*The embedded question and the plain question are cousins: to wonder whether is* wela … welo; *to ask outright is chapter four's* wa. *The child, being a child, skips the wondering, and what was a question becomes a known thing, filed with* mena.
+*The embedded question and the plain question are cousins: to wonder whether is* wela … welo; *to ask outright is chapter four's* wa. *The child skips the wondering, asks, and receives an answer. What was unresolved can now enter a* mena … meno *statement as known content.*
 
 ## III
 
@@ -34,7 +34,7 @@
 | remo | re · mo | think, wonder |
 | thilou | thi · lo · u | ask, inquire |
 
-*Meat or fish. The parent thinks over the whether (an embedded question can hold a* sola *choice), then does the sensible thing and asks the guest. Fish. Thinking, wondering, asking: the whole engine of planning runs on these brackets.*
+*Meat or fish. The parent thinks over the whether (an embedded question can hold a* sola *choice), then does the sensible thing and asks the guest. Fish. Planning can hold an unresolved question without pretending it already has an answer.*
 
 ## IV
 
@@ -46,6 +46,6 @@
 
 ---
 
-*Statements in one set of brackets, questions in another; knowing, not-knowing, and wondering all sayable now. The reader who counts will notice Phi gave you doubt and certainty with the same tool, differently labeled.*
+*Statements use one set of brackets and questions another. Knowing, not-knowing, and wondering are all sayable now, without turning an unresolved question into certainty.*
 
 *The machinery, when you want it: embedded questions share the manual's Part V, chapter 19.*

@@ -1,6 +1,6 @@
 # 14 · no ponu tapu
 
-*Three particles run a household.* **no** *at the front of a sentence makes it a request-to-do: Phi's gentle imperative.* **po** *before the verb says may or can;* **na** *says must. And they stack with* ma *exactly as you would fear and then find reasonable:* po ma, *cannot;* na ma, *must not. The rules of the house:*
+*Three particles help a household say what is requested, possible, or necessary.* **no** *at the front makes the clause a directive, which may be a request or a command.* **po** *before the verb says may or can;* **na** *says must. With* ma, *the two combinations differ:* po ma *means cannot, while* na ma *means must not. The rules of the house:*
 
 ## I
 
@@ -10,11 +10,11 @@
 
 | new word | say it | it means |
 |---|---|---|
-| no | no | (at the front: do it, gently) |
+| no | no | (at the front: marks a directive) |
 | tapu | ta · pu | close |
 | phae | pha · e | open |
 
-*Close the door; open the door; come, eat. A* no *sentence has no subject: it is handed to whoever is listening, which around here is usually the dog.*
+*Close the door; open the door; come, eat. These* no *sentences leave the subject unspoken because the listener supplies it. A subject may still be named when it matters, though around here the listener is usually the dog.*
 
 ## II
 
@@ -33,8 +33,10 @@
 
 ## III
 
-> **misheko mua wonepa po ma thalo.**
-> **lohau nekuma po ma pilu.**
+> **misheko mua wonepa po thalo.**
+> phao: **no mua wonepa ma thalo.**
+> **lohau nekuma po pilu.**
+> phao: **no nekuma ma pilu.**
 > **lopia mua luphore sonu na ma wishe.**
 
 | new word | say it | it means |
@@ -43,7 +45,7 @@
 | pilu | pi · lu | take |
 | sonu | so · nu | alone |
 
-*The house's three prohibitions, in ascending order of importance: the cat cannot walk on the table (the cat has heard this); the dog cannot take the meat (the dog is working on it); the child must not swim in the river alone:* na ma, *the strong one, saved for the rule that matters.*
+*The cat can walk on the table; the parent directs it not to. The dog can take the meat; the parent says not to. Ability and permission are separate facts. The final line uses* na ma*: swimming alone must not occur. Calling all three situations "cannot" would hide the very distinction this chapter needs.*
 
 ## IV
 
@@ -56,12 +58,13 @@
 
 | new word | say it | it means |
 |---|---|---|
+| kau | ka · u | to, towards a destination |
 | sano | sa · no | know |
 
-*May I swim? Yes, we go to the river together, and you may. Notice* kau, *the newest word in the language, doing exactly what it was made for: announcing the river before anyone takes a step.*
+*May I swim? Yes, we go to the river together, and you may.* kau *places the destination before the river, with arrival there as the intended end of the journey.*
 
 ---
 
-*Rules in Phi are not walls; they are announced care:* po *opens,* na *holds,* ma *turns either one around. Read the three prohibitions again and hear how the grammar itself is calm about them.*
+*The particles do not make a rule caring. They make its force easier to inspect:* po *presents possibility,* na *necessity,* ma *negation, and* no *addresses a listener. Care still lives in the reason, the relationship, and the room left for an answer.*
 
 *The machinery, when you want it: possibility and necessity are the manual's Part IV, chapter 15; the imperative lives with the Slot 0 particles in chapter 9.*

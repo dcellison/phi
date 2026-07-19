@@ -1,10 +1,10 @@
 # Before you begin: the sounds
 
-You need about ten minutes here, once. After that, everything in this primer is Phi.
+This prelude needs one short sitting. After that, everything in the primer is Phi.
 
 ## The vowels
 
-Phi has five vowels, and each one is always the same sound, in every word, forever:
+Phi distinguishes five vowels. In careful reference pronunciation, each has the same target wherever it occurs:
 
 | Letter | Sound | As in |
 |---|---|---|
@@ -14,11 +14,11 @@ Phi has five vowels, and each one is always the same sound, in every word, forev
 | o | oh | n**o**te, held pure |
 | u | oo | fl**u**te |
 
-"Held pure" matters. English glides its vowels: *note* drifts toward "no-oot." Phi never glides. Each vowel is one clean sound, start to finish.
+"Held pure" describes the careful form. English often glides a vowel, so *note* drifts towards "no-oot." A Phi vowel keeps one quality from start to finish. Accents may shift the exact quality, but the five contrasts stay distinct and adjacent vowels remain separate syllables.
 
 ## The consonants
 
-Ten consonants: **h, k, l, m, n, p, r, s, t, w**, all close to their English sounds, with two refinements you can grow into: **t** and **n** touch the teeth, not the ridge behind them, and **r** is a light tap, as in Spanish *pero*. Four more sounds are written with two letters each:
+Ten consonants, **h k l m n p r s t w**, are all close to their English sounds. Three refinements can grow with practice: **t** and **n** touch the teeth rather than the ridge behind them, while **r** is a light tap as in Spanish *pero*. Four more sounds are written with two letters each:
 
 | Written | Sound |
 |---|---|
@@ -31,7 +31,7 @@ Ten consonants: **h, k, l, m, n, p, r, s, t, w**, all close to their English sou
 
 ## Syllables and the dots
 
-Every Phi syllable is a consonant (or one of the two-letter sounds) plus a vowel, and every syllable ends in its vowel. The language has no closed syllables at all. When vowels sit next to each other, each one is its own syllable. This primer marks breaks with dots when a word first appears: **mi · a**, **lo · pi · a**, **mi · she · ko**. Say every dot-separated piece. *mia* is two syllables (*MI-a*), not an English "mya."
+Most Phi syllables begin with a consonant or one of the two-letter sounds and end in a vowel. A lone vowel may form a syllable only after another vowel in hiatus. The language has no closed syllables. This primer marks breaks with dots when a word first appears: **mi · a**, **lo · pi · a**, **mi · she · ko**. Say every dot-separated piece. *mia* is two syllables (*MI-a*), not an English "mya."
 
 ## Stress
 

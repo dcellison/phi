@@ -1,6 +1,6 @@
 # 5 · mia nuwera
 
-*Two questions get their grammar in this chapter: whose, and where. Whose costs nothing. Put the owner directly before the owned, and you are done:* mia nuwera, *my bed;* lopia nuwera, *the child's bed. Where costs one small word:* **mua** *— in, at, on, which stands before the place the way every describing thing in Phi stands before what it describes. And the little* **ha** *from last chapter's door finally gets its name.*
+*Two questions get their grammar in this chapter: whose, and where. Whose costs nothing. Put the owner directly before the owned, and you are done:* mia nuwera, *my bed;* lopia nuwera, *the child's bed. Where costs one small word:* **mua**, *in, at, or on, which stands before the place the way every describing thing in Phi stands before what it describes. And the little* **ha** *from last chapter's door finally gets its name.*
 
 ## I
 
@@ -37,7 +37,8 @@
 > **tomi mua wonepa nai.**
 > **nuora mua wonepa nai.**
 > **lopia sulopa nuola.**
-> **lohau mua wonepa nai. — tua, lohau.**
+> **lohau mua wonepa nai.**
+> phao: **tua.**
 
 | new word | say it | it means |
 |---|---|---|
@@ -45,11 +46,11 @@
 | tomi | to · mi | pot |
 | wonepa | wo · ne · pa | table |
 
-*The soup is in the pot, the pot is on the table: one little* mua *covers in, at, and on, and the things themselves tell you which. The last line is the parent speaking, and the dog understands it perfectly.*
+*The soup is in the pot, the pot is on the table: one little* mua *covers in, at, and on, and the things themselves tell you which. The last reply is the parent speaking, and the dog understands it perfectly.*
 
 ## IV
 
-*Now* **ha** *— here, and its twin* **ra** *— there.*
+*Now* **ha**, *here, and its twin* **ra**, *there.*
 
 > lopia: **wa misheko ha nai.**
 > phao: **tua. misheko ra nai.**
@@ -62,10 +63,10 @@
 | ha | ha | here |
 | ra | ra | there |
 
-*Is the cat here? No, there. In the garden? No, in the house. The last line the child speaks with the flat voice of someone who has lived with a cat before: in* my *bed. Look at how the sentence builds:* mua *announces a place, and the place is* mia nuwera*: whose-grammar nested inside where-grammar, each part announcing before delivering. You just read the deepest sentence in the primer so far without noticing.*
+*Is the cat here? No, there. In the garden? No, in the house. The last line the child speaks with the flat voice of someone who has lived with a cat before: in* my *bed. Look at how the sentence builds:* mua *opens a place phrase, and that place is* mia nuwera*: possessor before possessed inside preposition before object. It is the deepest nesting in the primer so far, and every part keeps the order you already know.*
 
 ---
 
-*Once more aloud, slower. Whose and where are yours now, and they cost you one new particle and a habit you already had.*
+*Once more aloud, at the pace that keeps the nested phrase clear. Whose and where are yours now, and they cost one new particle and a habit you already had.*
 
 *The machinery, when you want it: possession is the manual's Part IV, chapter 11; here and there are chapter 13's deixis; place phrases are with the prepositions in Part IV.*

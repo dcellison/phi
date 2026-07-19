@@ -1,12 +1,12 @@
 # 23 · lu
 
-*If.* **lu** *opens a condition, which (being a modifier of everything after it) comes first, its own small sentence, with the consequence following as another:* lu *[condition].* *[consequence]. And for conditions that are wishes and never-weres,* lu *takes* **he**, *the particle of the unreal. Planning around weather, which is what village planning is:*
+*If.* **lu** *opens a live condition. Because that condition modifies the consequence, it comes first as its own sentence:* lu *[condition]. [consequence]. When a condition is already known not to hold or lies beyond possibility,* lu *takes* **he**, *the particle of the unreal. Planning around weather, which is what village planning is:*
 
 ## I
 
 > **lu pheralu lepa. lo mia mua womu therilu.**
 > **lu sileta keru loa. lo mia kau luphore wepu.**
-> **lu howeli shua. lo mia mua womu nuora pilewa.**
+> **lu howeli shua. lo mia mua womu nuora pharelo.**
 
 | new word | say it | it means |
 |---|---|---|
@@ -33,7 +33,7 @@
 |---|---|---|
 | he | he | (after lu: if, but unreal) |
 
-*Riverbank daydreams:* lu he *marks the ifs that are not and will not be. If I were a bird, I would fly; if I were a fish, I would sleep in the water. The unreal particle costs one syllable, and buys the entire kingdom of the imagination.*
+*Riverbank daydreams:* lu he *marks conditions treated as counterfactual or impossible. If I were a bird, I would fly; if I were a fish, I would sleep in the water. One added syllable keeps imagination distinct from a claim about the present.*
 
 ## IV
 
@@ -45,6 +45,6 @@
 
 ---
 
-*Real ifs and unreal ifs, and both of them announced before their consequences, like everything in this language. One chapter remains. It is about how you know what you know, which is where Phi has been heading all along.*
+*Live conditions and unreal conditions both stand before their consequences. The modifier-first rule remains intact. One chapter remains: the claimed source for what a speaker says.*
 
 *The machinery, when you want it: conditionals are settled canon (lu realis, lu he irrealis, Slot 0 only) in the manual's Part IV, chapter 9 and the grammar references.*

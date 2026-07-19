@@ -4,6 +4,7 @@
 
 ## I
 
+> **kurisha to shua.**
 > **pheralu to lepa.**
 > **howeli to shua.**
 > **lo neparu to shua.**
@@ -15,15 +16,16 @@
 |---|---|---|
 | to | to | (before the verb: it already happened) |
 | pheralu | phe · ra · lu | rain |
+| kurisha | ku · ri · sha | storm |
 | lepa | le · pa | fall |
 | howeli | ho · we · li | wind |
 | neparu | ne · pa · ru | cloud |
 
-*Rain fell, wind came, clouds came, and the household slept through all of it. Read the last line twice: for one member of the household,* to *changes nothing that was ever going to be different.*
+*A storm came: rain fell, wind and clouds followed, and the household slept through all of it. Read the last line twice: for one member of the household,* to *changes nothing that was ever going to be different.*
 
 ## II
 
-> **phao sulopa to pilewa.**
+> **phao sulopa to pharelo.**
 > **lopia sulopa to nuola.**
 > **thero keru to loa.**
 > **misheko phialu to milau.**
@@ -31,8 +33,9 @@
 | new word | say it | it means |
 |---|---|---|
 | thero | the · ro | fire |
+| pharelo | pha · re · lo | cook |
 
-*Soup was made and eaten while the storm worked. The third line deserves a close look: the fire gave light (*keru to loa*), and* to *stands exactly where it always stands, touching the verb, even when another word arrives first. The when is announced last of all the announcements, closest to the doing.*
+*Soup was cooked and eaten while the storm worked. The third line deserves a close look: the fire gave light (*keru to loa*). In this sentence,* to *touches the verb even when another word arrives first, so time is the modifier closest to the doing.*
 
 ## III
 
@@ -45,7 +48,7 @@
 > **lohau mua thepalu thalo.**
 > **misheko nulae.**
 
-*no* to *anywhere: the sun rises now, the sky is good now. Yesterday and today are told with the same words in the same order; one small particle moves the whole scene into memory.*
+*The past particle is absent: the sun rises now, and the sky is good now. Yesterday and today use the same words in the same order; one small* to *moves the whole scene into the past.*
 
 ## IV
 

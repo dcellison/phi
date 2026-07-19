@@ -21,17 +21,17 @@
 
 > **wheo ro rihe.**
 > **wheo mua thepalu ro whunei.**
-> **phao ro rihe. phao nuora ro pilewa.**
+> **phao ro rihe. phao nuora ro pharelo.**
 > **lopia ro nulae.**
 > **lohau ro shua.**
 > **misheko ro nulae.**
 
 | new word | say it | it means |
 |---|---|---|
-| ro | ro | (before the verb: as a habit, always so) |
+| ro | ro | (before the verb: as a habit, across occasions) |
 | whunei | whu · ne · i | breathe |
 
-*Every morning the elder rises and breathes in the garden; every morning the parent makes food; every morning the child goes on sleeping and the dog turns up anyway. And the last line: the truth you have known since chapter one finally receives its grammar. The cat sleeps* habitually. *It was never news; now it is law.*
+*Every morning the elder rises and breathes in the garden; every morning the parent cooks; every morning the child goes on sleeping and the dog turns up anyway. The last line gives an old observation its grammar: the cat sleeps* habitually. *That habit need not hold at every moment. The household has been collecting evidence since chapter one, most of it curled up somewhere inconvenient.*
 
 ## III
 
@@ -52,6 +52,6 @@
 
 ---
 
-*All five aspects are yours:* si *ongoing,* ki *complete,* te *ceasing,* pa *beginning,* ro *habitual. Phi tells time less by clocks than by these: where in its life a doing stands, and whether it comes back each morning.*
+*All five aspects are yours.* si *is ongoing,* ki *complete, and* te *ceasing.* pa *marks a beginning and* ro *a habit. Phi tells time less by clocks than by these: where in its life a doing stands, and whether it comes back each morning.*
 
 *The machinery, when you want it: the manual's Part IV, chapter 14 holds the whole aspect system.*

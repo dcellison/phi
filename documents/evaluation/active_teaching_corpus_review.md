@@ -253,6 +253,44 @@ All seventeen files under `manual/part7_reference/` are reviewed. Five are gener
 
 The completed lexicon covers Part VII without a new root. Direct `whemura` makes the obsolete `nulae nophi` dream synonym unnecessary, so the registry now contains 76 compounds. Base `koma nuwera` remains a valid pillow paraphrase beside optional Household `komalu`. The 1,275-word lexicon, 261 optional roots, and 393 module memberships remain unchanged.
 
+## Primer
+
+All twenty-seven Markdown files under `primer/` are reviewed. The pass keeps its graded household method while bringing pronunciation, word-table support, modality, names, quotation, conditionals, evidentiality, and reading practice into line with current canon. Existing examples remain where their words still do the right teaching work. Direct base vocabulary replaces stale detours, and the one optional module root disappears from this general course.
+
+| File | State | Finding and disposition |
+|---|---|---|
+| `README.md` | Revised | The method no longer promises eight to twelve words in every chapter or treats chapter 24's source particles as knowledge. Reading aloud serves clear contrasts without prescribing a fixed tempo. |
+| `00_before_you_begin.md` | Revised | The vowel lesson now distinguishes careful targets from accepted accents, and the syllable account admits the canonical lone-vowel hiatus case. The exceptionless stress rule remains intact. |
+| `01_the_household.md` | Revised | The silent dog's dash apparatus is removed, and the closing practice attends to clear utterance rather than a deliberately slower pace or daily stopping point. |
+| `02_the_day_begins.md` | Revised | The simple doer, object, predicate pattern is scoped to this lesson instead of presented as the shape of every later construction. |
+| `03_big_and_small.md` | Revised | `peloru` and `pelori` become an audible final-vowel contrast rather than two garden ornaments, and the closing practice loses a prescribed slower tempo. |
+| `04_at_the_door.md` | Revised | `wa` is correctly introduced as a yes-or-no question marker, a malformed emphasis closer after `tua` is repaired, and `lo` is described as plural rather than counting. |
+| `05_whose_and_where.md` | Revised | The parent's table correction becomes valid Phi dialogue with period-only punctuation. The final lesson names the nested possessor and place-phrase order without claiming the reader failed to notice it. |
+| `06_around_the_village.md` | Revised | `lue` and `wei` are taught as relators before their objects. `sileta keru loa` remains a chosen giving image beside direct base `sileta horae nai`, and the Part I review loses its clock estimate. |
+| `07_yesterday.md` | Revised | Direct `kurisha` and `pharelo` give the storm and cooking their current words. Past `to` moves a clause into the past rather than into memory, and its position is described only for the example at hand. |
+| `08_tomorrow.md` | Revised | Flowers now `sheloa` (bloom) rather than physically rise. The cat keeps the joke while the industrial night-shift metaphor leaves. |
+| `09_meanwhile.md` | Revised | Direct `howai` brings evening into the scene, and imperfective `si` keeps actions in progress without pretending to hold moving bodies still. |
+| `10_finished_work.md` | Revised | Cessative `te` is distinguished from completion without being called the language's gentlest stop. |
+| `11_every_morning.md` | Revised | Habitual `ro` now describes a pattern across occasions rather than "always so," and direct `pharelo` replaces generic making for recurring cooking. |
+| `12_the_year_turns.md` | Revised | Spring flowers bloom with `sheloa`, the walking year gives each season attention without turning Phi into a language of prescribed slowness, and the three-line journal becomes a form rather than a daily quota or invented oldest practice. |
+| `13_what_is_not.md` | Revised | The parent begins cooking soup with direct `pharelo`; negation and noun-phrase absence retain their graded contrast. |
+| `14_the_rules_of_the_house.md` | Revised | `no` is a directive whose social force depends on context, and an explicit subject remains possible. The false `po ma` prohibitions are rebuilt as ability followed by negative directives, while `na ma` retains genuine prohibition. Missing allative `kau` receives its word-table row, and no particle is said to make a rule caring. |
+| `15_at_the_market.md` | Revised | Missing `powea`, `shia`, and `mu` rows restore the word-table contract. Egg classifiers now depend on the egg's use, and optional Work `piru` gives way to base `miona`, leaving the general primer module-free. |
+| `16_visitors.md` | Revised | `ne` marks proper designation rather than formality, while `pi` marks courtesy without proving respect. The visiting child's second call is presented as a playful name guess, not a higher register. |
+| `17_the_gift.md` | Revised | `loami` regains its actual three-syllable pronunciation. Direct `napa` replaces grain used as bread, `pharelo` names cooking, and `phowe` no longer implies transfer or every possible participant. |
+| `18_together.md` | Revised | Direct `napa` carries the bread choice forward, the dog-and-cat joke loses its combat metaphor, and the Part III summary distinguishes directives from gentleness while preparing source marking accurately. |
+| `19_the_message.md` | Revised | Direct `milaro` lets siora carry an actual message, and `pharelo` names the soup cooking. The complement frame is described as working with the demonstrated predicates rather than every verb of mind and mouth. |
+| `20_the_question.md` | Revised | Embedded questions remain unresolved content until an answer supports a declarative claim. The chapter no longer treats knowledge as certainty or turns planning into an engine metaphor. |
+| `21_the_elders_story.md` | Revised | The obsolete sleep-story account of dream is removed after direct `whemura` displaced that compound. `shola ... sholo` preserves exact Phi words and their directive force without claiming a project chronology. |
+| `22_the_one_who.md` | Reviewed and preserved | The pre-nominal relative clause, missing participant, head noun, and noun-final guessing game already match the modifier-first invariant and current vocabulary. |
+| `23_weather_plans.md` | Revised | The complete `lu` condition remains before its consequence, `lu he` is limited to counterfactual or impossible conditions, and direct `pharelo` replaces generic making where the story means cooking. |
+| `24_the_news.md` | Revised | `hi`, `ke`, `ti`, and `ho` now mark claimed sources without ranking them or certifying knowledge, honesty, or truth. Perfective `ki` makes the assumed departure complete, while `shewo` remains a later judgement within the story. |
+| `25_capstone.md` | Revised | The three-line journal remains available without becoming a daily quota; the fable, Metta Sutta, and manual keep their distinct next-reading roles. |
+
+### Lexical and canonical result
+
+The completed base and function vocabulary covers the primer without a new root or lexical question. Direct `kurisha`, `pharelo`, `sheloa`, `howai`, `horae`, `milaro`, and `napa` replace or clarify older detours. Existing `kau`, `powea`, `shia`, and `mu` receive missing teaching support. Removing Work `piru` leaves zero module terms in the graded course. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
+
 ### Resume point
 
-Continue SEM-09D with `primer/`. Keep its general teaching in base and function vocabulary unless a module is explicitly being introduced, and record any newly noticed lexical question before the pass closes.
+Continue SEM-09D with `pamphlets/`. Preserve each pamphlet's practical purpose, use module vocabulary where the pamphlet explicitly teaches that domain, and record every newly noticed lexical question before the pass closes.
