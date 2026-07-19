@@ -1,30 +1,52 @@
-# Case study: transmuting poetry
+# Case study: knowing when poetry has enough
 
-Poetry makes the choice between translation and transmutation hard to hide. A close translator would have to decide how Phi can keep this poem's frog, leap, sound, and form. This case study takes the other path and lets each gap change the poem. Take Bashō's haiku:
+Poetry makes the choice between translation and transmutation hard to hide. Bashō's haiku gives Phi a pond, a frog, a jump, and a sound, and the lexicon has a direct word for every one of them:
 
 > *furu ike ya / kawazu tobikomu / mizu no oto*
 > old pond — / a frog leaps in / the sound of water
 
 ## Step 1: What is the poem doing?
 
-Three images in sequence: long stillness; a sudden living interruption; the stillness answering. The frog is not the point. The *event* is the point: the moment the silent world makes a sound and returns to itself.
+The poem places an old pond, a frog's sudden movement, and the sound of water in sequence. A reader may find stillness and interruption there, but the translator does not need to erase the frog to make that reading possible.
 
 ## Step 2: The Phi concepts
 
-- Old pond: `serao` (old), `melothe` (pond). Direct.
-- The frog: a gap. This version chooses not to coin a frog. It reads the creature's function as *a small living thing*, then uses `nolika` (animal, a living creature) and lets each reader supply the rest. A translation could not make that substitution silently.
-- "Leaps in": another gap, no word for leap. But consider what the leap *is* in this poem: an arrival. The creature arrives into the water. `kamo` (arrive) with `muo` (into) carries the suddenness of the splash: the moment of contact, which is all the poem shows anyway.
-- "The sound of water": Phi has no "sound," but it has `haoni`, *voice*. And possession in Phi is possessor-first: `phialu haoni`, *the water's voice*. That choice turns the gap into speech: water answers, which is how this telling reads the haiku's final gesture.
+- Old pond: `serao melothe`.
+- Frog: `tuleno`, the ordinary base word.
+- Jump into water: `muo phialu tupi`, with the destination before the verb.
+- Sound of water: `phialu shonuwa`, possessor before possessed.
 
-## Step 3: Rebuild
+## Step 3: Keep the source details
+
+The close rendering uses those direct words:
 
 ```
 serao melothe.
 old pond.
 (The old pond.)
 
-nolika muo phialu kamo.
-animal INTO water arrive.
+tuleno muo phialu tupi.
+frog INTO water jump.
+(A frog jumps into the water.)
+
+phialu shonuwa.
+water sound.
+(The sound of water.)
+```
+
+The first and last lines are verbless images, while the only verb lands in the middle line. Phi's verb-final order puts `tupi` after the frog and its destination. Nothing in the grammar claims that this is Bashō's original rhythm, but the three images remain intact.
+
+## A deliberate transmutation
+
+The interpretive path is still available as a separate work:
+
+```
+serao melothe.
+old pond.
+(The old pond.)
+
+limoe muo phialu kamo.
+creature INTO water arrive.
 (A creature arrives into the water.)
 
 phialu haoni.
@@ -32,12 +54,12 @@ water voice.
 (The water's voice.)
 ```
 
-Three lines. The first and last are verbless (a noun phrase of stillness, a noun phrase of sound) with the poem's only verb, `kamo`, landing in the middle line exactly where the splash lands. The form was not copied from the Japanese; it re-emerged from Phi's own grammar, which permits verbless images and puts every verb at the moment of impact.
+This version turns the frog into an unnamed creature, the jump into an arrival, and sound into voice. Those changes are not repairs for missing vocabulary. They make the water answer and let the creature recede into the event. A transmuter may want that poem, but should not call it a close translation of Bashō's details.
 
 ## On form
 
-The Phi version does not chase the 5-7-5 syllable count. Its hiatus-rich words have their own rhythm (`se-ra-o me-lo-the`: five slow beats of stillness), and the poem keeps its shape as stillness, event, and resonance. A close translation might make another decision about form. Original Phi poetry answers only to the language's own music; its long vowel chains want to be read slowly.
+Neither Phi version copies a 5-7-5 syllable pattern. Full hiatus gives `serao melothe` six syllables. A translator may choose a formal constraint and record what it costs; a transmuter may build a different rhythm. Tempo remains the reader's choice.
 
-## What the gaps gave
+## What the choice shows
 
-The missing words changed three details: the frog became an unnamed creature, the leap became an arrival, and sound became the water's voice. A close translation would need to retain or coin those distinctions. This telling relinquishes them in return for a different poem, and the gap log makes the exchange plain.
+The direct vocabulary makes the boundary unusually clear. One version keeps the frog, jump, and sound. The other gives them up for a new image. Transmutation is not improved by changing a source merely because change is permitted; sometimes the close rendering is the answer with less to apologise for.

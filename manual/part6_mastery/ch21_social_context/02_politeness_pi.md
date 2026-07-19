@@ -1,6 +1,6 @@
-# Politeness *pi*: softening with grace
+# Politeness *pi*: marking courtesy
 
-The Slot 0 particle **pi** frames an entire utterance as respectful. It is the first word of the sentence when present, politeness announced before anything else, so the listener receives every following word inside that frame:
+The Slot 0 particle **pi** marks an entire utterance as polite or considerate. When it combines with another sentence frame, it comes first:
 
 ```
 pi no lumani naphe.
@@ -12,18 +12,18 @@ POL Q 2SG POT help.
 (Could you please help?)
 ```
 
-## What *pi* actually does
+## What *pi* does
 
-English politeness is mostly *indirection*: "Could you possibly…", "I was wondering whether…" The request hides inside a question about ability or a report about wondering. The listener must decode the real message, and the speaker can always retreat ("I was only asking!").
+English often puts a request inside a question about ability or a report about what the speaker was wondering. Phi can do less circling. `pi no lumani naphe` is openly a directive, and `pi` marks the speaker's courteous stance towards it.
 
-`pi` works differently. The request stays direct (`no lumani naphe` is still plainly an imperative), and the respect is carried by an explicit marker instead of by camouflage. Nothing is hidden, nothing needs decoding, and no one can pretend the request was not a request. This is politeness as *transparency* rather than politeness as *evasion*: the Phi way.
+Courtesy does not change the clause's force. `pi no` remains a directive, while `pi wa` remains a question. Authority, safe refusal, and consent are separate facts. The grammar exposes the courtesy and the sentence type; the relationship supplies the rest.
 
 ## Ordering
 
-When `pi` combines with other Slot 0 particles, politeness comes first: `pi no …` (polite command), `pi wa …` (polite question), `pi su …` (polite wish). The pattern is fixed: respect is the outermost frame, wrapped around even the sentence's own speech-act.
+The documented combinations are `pi no ...` for a polite directive and `pi wa ...` for a polite yes-or-no question. An ordinary polite statement may begin with `pi` alone. In every case, the courtesy marker stands at the outer edge of the sentence.
 
 ## When *pi* matters most
 
-Since Phi's imperative `no` is already unadorned (commands in Phi are simply announced, not barked), `pi` does its most important work exactly where requests carry weight: asking for effort, interrupting, disagreeing, addressing someone whose time is precious. A rule of thumb from practice: if the request costs the other person something, spend the syllable.
+A speaker may choose `pi` when asking for effort, interrupting, disagreeing, or entering another person's attention. The syllable can make consideration audible, but a gentle voice can still carry pressure. A considerate request also leaves practical room for the answer to be no.
 
-But do not salt every sentence with it. `pi` marks a *chosen* respect; used constantly it dwindles into noise, and its absence starts to read as rudeness: the inflation that ruined "please" in English. Phi's politeness stays meaningful because it stays deliberate.
+There is no requirement to put `pi` on every sentence. An unmarked assertion or question may be entirely courteous, and repeated `pi` may become an ordinary habit within a relationship. The particle records a choice in the utterance, not the speaker's character.

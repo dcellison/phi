@@ -1,26 +1,34 @@
 # Register and formality
 
-Phi has no formal conjugations, no honorific verb forms, no T-V pronoun split. Yet a Phi speaker can move between the register of a whispered word to a child and the register of a community assembly. Formality in Phi is built not from special forms but from **choices among ordinary ones**: how much you make explicit.
+Phi has no formal conjugations, honorific verb forms, or T-V pronoun split. Speakers can still move between a familiar exchange and a public record by choosing how much ordinary information to make explicit.
 
 ## The instruments of register
 
-**Fullness.** Topic-drop is Phi's casual warmth: once a subject is established, intimate speech lets it fall away. Formal speech retains subjects, spells out referents, closes every frame. The same two sentences:
+### Fullness
+
+Once a subject is established, conversation may omit it while the reference remains clear. A formal account will often repeat subjects and identify referents because the words must travel beyond the immediate exchange. Required complementizer frames close in every register. Compare:
 
 ```
 mia shelu theo. shelomu.
 1SG book read. understand.
-(I read the book. Understand.) [between friends]
+(I read the book. I understand.) [established subject]
 
 mia shelu theo. mia shelomu.
 1SG book read. 1SG understand.
 (I read the book. I understand.) [for the record]
 ```
 
-**Evidential care.** Marking your sources (`hi` for what you witnessed, `ti` for what you were told, `ho` for what you merely assume) is optional in Phi. Doing it consistently is the register of testimony, counsel, and teaching: the speech of someone taking responsibility for how they know.
+### Source marking
 
-**Classifier explicitness.** Counting people as `wi himo miona` rather than bare `wi miona` explicitly states the human category. A formal record may choose that added categorization, while either form is grammatical in every register. Inclusion does not make a record respectful, and omission does not make ordinary speech an inventory.
+Evidentials are optional. `hi` claims direct perception, `ti` marks received information, and `ho` bases a claim on background expectation. Testimony, teaching, or a disputed account may call for frequent source marking because provenance matters there; an evidential still does not certify that the claim is true.
 
-**The framing particles.** `pi` (politeness), `su` (the optative of blessings and hopes), full vocatives with honorifics: each adds a layer of announced intention. Stack them and the register rises:
+### Classifier explicitness
+
+Counting people as `wi himo miona` rather than bare `wi miona` makes the selected human category audible. A record may choose that categorisation when it matters, while either form is grammatical in every register. Inclusion does not make a record respectful, and omission does not make ordinary speech careless.
+
+### Sentence frames and address
+
+A full vocative identifies the addressee, an honorific states a relationship, and `pi wa` marks a polite question. Combining them makes each piece explicit; it does not create a grammatical ladder of formality:
 
 ```
 kona ne sa sulae. pi wa thia wei lo mia po thumela.
@@ -28,8 +36,10 @@ VOC NAME HON.RESPECT sulae. POL Q 2SG DAT PL 1SG POT teach.
 (Honored sulae, could you teach us?)
 ```
 
-**Pace.** Careful duration can mark ceremony: full hiatus on every vowel pair and an intentional boundary at every period. Faster speech is still Phi when it preserves its phonemic contrasts and syllable count; pace is a social choice, not a grammatical or moral test.
+### Pace
 
-## What Phi's formality is *not*
+Deliberate pacing can suit ceremony, while quick speech can suit an urgent or familiar exchange. Both remain Phi when the vowel hiatus, phonemic contrasts, and syllable count stay recoverable. Tempo is neither a grammatical register nor a moral test.
 
-It is never distance for its own sake, and never submission. A child speaking to an elder and an elder speaking to a child can use exactly the same forms: formality here measures the *care taken over the utterance*, not the gap between the speakers. When you raise your register in Phi you are not lowering yourself; you are spending more attention, and attention is the only currency the register system knows.
+## Fullness and power
+
+The same grammatical forms are available to a child speaking to an elder and an elder speaking to a child. Their power to refuse or impose consequences may still differ sharply. A fuller register makes more of the utterance recoverable to people beyond the moment; it does not measure submission, virtue, or the worth of either speaker.

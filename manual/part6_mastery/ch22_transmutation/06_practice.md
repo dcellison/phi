@@ -16,20 +16,20 @@ Transmute:
 
 > "I'm jealous of my friend's garden."
 
-There is currently no core word for jealousy. Follow the anger case study: what is the observation? (Your friend's garden is beautiful; yours is what it is.) What feeling or wish lies underneath: `nuhe`, `pula`, heart-fire? Compose the honest triad. Preserve the source term exactly if it is itself under discussion, and record repeated compositional failure for case-by-case review.
+The compound registry gives **`phelu pula`**, *holding-wish*, for envy or jealousy. Test its possession relation against this sentence: what does the friend hold, and what does the speaker want? If fear of loss or comparison is doing more of the work, name that instead of forcing the compound. Preserve the source term exactly if jealousy itself is under discussion.
 
 ## Exercise 3: Small news (evidentials and numbers)
 
-Transmute something from today's news, one sentence. Requirements: every claim you did not witness carries `ti`; every number is rendered as an exact or approximate Phi quantity when that is adequate, or preserved in source material when its exact form matters; anything the language refuses (money, rankings, blame) is analyzed without silently erasing relevant source content. Write one sentence about what remained outside Phi or was omitted and why.
+Transmute something from today's news in one sentence. Every claim received from the report carries `ti`. Render a number in Phi when its exact or approximate form is adequate, and preserve its source notation when that form matters. Keep names and identifiers beside the Phi passage. Units and money stay with their source notation. Then write one sentence about anything the transmutation omitted or reframed.
 
 ## Exercise 4: A poem (the gap as collaborator)
 
-Choose a short poem you love, two to four lines. Transmute it, and keep a **gap log** like the one beside the Metta Sutta translation: every missing word, and what you did instead. The exercise is scored, if you like, by a single question: did any gap force an image *better* than the original's? If none did, sit longer.
+Choose a short poem you love, two to four lines. Attempt both a close translation and a transmutation, and keep a gap log for each missing distinction and what you did instead. Compare the results. If the transmutation changes details without gaining a coherent Phi work, keep the translation; permission to depart is not a duty to do so.
 
 ## Exercise 5: Your own words (the full arc)
 
-Write three sentences about your day, directly in Phi, no English draft. This is not transmutation of a text but of experience, which is where the method was always headed. Then validate: every word must exist. If you needed a word the language lacks, you have found either a compound worth proposing for the registry, or, rarely, a genuine gap worth bringing to the Word Creation Protocol. Both discoveries are contributions.
+Write three sentences about your day directly in Phi, without an English draft. Then validate them. If the thought needs a distinction the language lacks, compare a transparent composition with a new root and record the question before choosing. Ordinary source-bound detail may instead stay in an accompanying record.
 
 ## The habit
 
-The exercises end; the practice does not. Whenever you catch yourself asking "how do I say this in Phi?", let the question complete itself: "…and what will Phi do with it?" The first question has an answer. The second has a result, and the results, accumulated, are the language's literature.
+When "How do I say this in Phi?" produces a tidy answer, test it against a second question: "What changed while I was saying it?" Sometimes the answer is nothing, and the close translation stands. Sometimes the change is the whole work. The gap log keeps the two from borrowing each other's name.

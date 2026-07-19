@@ -1,8 +1,8 @@
 # Daily practice
 
-A language becomes real in minutes, not marathons. Phi asks so little time that the honest obstacle is never the schedule: it is remembering that the practice exists. These suggestions are ordered by size; take the smallest one that you will actually do.
+A language becomes available through use. Daily life offers small recurring places for Phi without turning practice into another schedule to satisfy. Choose one that fits the day you actually have.
 
-## One sentence at waking (30 seconds)
+## One sentence at waking
 
 Before the day's first screen or first task, one Phi sentence about the morning, spoken aloud with full hiatus:
 
@@ -12,28 +12,28 @@ day come. 1SG PROX be.
 (The day comes. I am here.)
 ```
 
-The bare present and the plain copula do the whole work of arrival. Change the sentence with the weather, the light, the mood: `sileta shua` (the sun comes), `pheralu shua` (the rain comes), `mia shorui nai` (I am weary). The point is not variety. The point is that the day's first grammar was deliberate.
+The bare present and plain copula carry the arrival. Change the sentence with the weather, light, or mood: `pheralu shua` (the rain comes), `kelua phelo nai` (the morning is light), `mia shorui nai` (I am weary). The vocabulary may vary; the useful part is attending to one actual morning.
 
-## Naming while walking (5 minutes)
+## Naming while walking
 
-Walk anywhere and name what you pass, noun by noun, with the demonstratives: `ha shiro` (this tree), `ra womu` (that home), `lo pelori` (birds). When a name is missing, notice the gap without reaching for English: *that is a thing I cannot yet say* is itself a mindful observation, and the gaps you keep meeting are the vocabulary you should learn next.
+Walk anywhere and name what you pass, noun by noun, with the demonstratives: `ha shiro` (this tree), `ra womu` (that home), `lo pelori` (birds). When a word is missing, notice what kind of absence it is. The word may already sit in an optional module, the idea may compose, or its exact identity may belong to source material. A recurring ordinary gap is worth recording rather than quietly losing.
 
-## The evening pair (2 minutes)
+## The evening pair
 
-At day's end, two sentences: one thing witnessed, one thing felt. The evidential `hi` and the verb `phaelo` keep them honest:
+At day's end, write two sentences: one thing witnessed, one thing felt. The evidential `hi` marks the first as directly perceived, while `phaelo` gives the feeling its own clause:
 
 ```
-mia sileta lumae hi nila. mia shea phaelo.
-1SG sun end DIR see. 1SG peace feel.
-(I saw the sunset with my own eyes. I feel peace.)
+mia norawhi hi nila. mia shea phaelo.
+1SG dusk DIR see. 1SG peace feel.
+(I saw the dusk with my own eyes. I feel peace.)
 ```
 
-On harder days the second sentence may be `mia nuhe phaelo`, and saying so plainly, in a language built to hold it gently, is the practice working exactly as designed.
+On a harder day the second sentence may be `mia nuhe phaelo`, *I feel sadness*. The exercise does not ask the feeling to improve before it can be written.
 
-## The weekly transmutation (20 minutes)
+## A recurring transmutation
 
-Once a week, one real transmutation: a proverb, a headline, a verse (the exercises of chapter 22). This is where vocabulary consolidates and the grammar stops being rules and starts being reflexes.
+Choose a recurring point in the week for one transmutation: a proverb, headline, or verse from chapter 22. Repeated retrieval can make vocabulary and grammar easier to reach, though the result may arrive unevenly and some sentences will continue to need the lexicon open.
 
 ## The rule of gentleness
 
-Missed days are not debts. Phi has no vocabulary for productivity guilt, and the practice should not import any. `su thia moli thole`, may you practice gently. Begin again at the next morning sentence; the language will be there.
+Missed days are not debts. `su thia moli thole`, may you practise gently. Begin again with the next sentence that has something worth saying.

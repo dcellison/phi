@@ -1,29 +1,29 @@
 # The ongoing journey
 
-This is the last section of the last teaching chapter, so it should say plainly what all the others have implied: there is no finish line, and that is not a consolation; it is the design.
+A learner reaches the last teaching page with a suspiciously intact supply of things still to learn. That is ordinary. Phi's grammar can become familiar; the choices made with it do not run out.
 
 ## What mastery is here
 
-You will never conjugate a Phi verb wrongly, because there is nothing to conjugate. The grammar you learned in Part IV is the whole grammar; the manual holds no trapdoors. So mastery in Phi cannot mean what it means in French or Japanese: surviving the irregularities. It means something rarer: the day the language's choices become your reflexes. The day you feel the pull to say who told you before you repeat a claim. The day "how many, exactly?" starts to sound like a strange question. The day anger arrives already shaped as heart-fire: something you have, in a heart you can tend, rather than something you are.
+Phi verbs do not conjugate, but errors remain possible: a particle in the wrong slot, a missing closer, or the wrong word. Fluency means that more of those forms arrive without deliberate assembly. It may also make the language's distinctions easier to notice: whether a repeated claim was witnessed or reported, whether an exact count helps, whether anger is better named as `korua thero` than turned into an identity.
 
-The old teachers of this manual's first pages said the constraints are the teaching. Mastery is when the teaching no longer needs the constraints.
+Automatic grammar frees attention for the utterance. Mindfulness still belongs to the speaker: truth, timing, and care remain choices even after the particles come easily.
 
 ## The language will keep growing
 
-You hold the manual of a young language. Its lexicon passed nine hundred words in the season this chapter was written; its first complete text is newer still. Gaps remain, and you will find them: in your journal margins, mid-conversation, in the poem that will not transmute. Meet them in order: first the compound registry, then composition, and only then, deliberately and by the protocol, a new word. Every speaker who does this honestly is one of the language's makers. There is no other kind of authority here.
+Gaps remain in any language, and use will expose Phi's particular ones in journal margins, conversation, and texts that resist both translation and transmutation. Check the lexicon and compound registry first. Then weigh a transparent composition against coinage on their merits. A useful larger concept may deserve its own root even when a paraphrase is possible; a one-time exact identity may stay in an adjacent source record instead. The protocol keeps each decision visible and the shared lexicon coherent.
 
 ## The journey in the language's own words
 
-Phi can say its own conclusion better than English can, so let it:
+The final lines return to Phi:
 
 ```
 thia shea ruela sano.
 2SG peace path know.
 (You know the path of peace.)
 
-no ha ruela thole. moli. theula philo.
-IMP PROX path practice. gentle. UNIV day.
-(Practice this path. Gently. Every day.)
+no theula philo ha ruela moli thole.
+IMP UNIV day PROX path gentle practice.
+(Practise this path gently every day.)
 
 su thia thuroa. su sila thuroa. su lothea thuroa.
 OPT 2SG grow. OPT community grow. OPT love grow.

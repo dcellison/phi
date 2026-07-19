@@ -1,47 +1,51 @@
 # When to use what
 
-The instruments of the last four sections combine into a small number of recognizable social situations. This section is a field guide.
+The same few forms recur across ordinary social situations. Their grammar stays stable while tone, power, and relationship do the work no particle can inspect.
 
 ## Greeting someone
 
-The warmest complete greeting in Phi is the one from the language guide: `mia thia lothea`, *I love you / I greet you with love*. Scale it with the tools you now have:
+Phi already has a greeting: `kia`, *hello*. A vocative can identify who receives it, and an honorific can state the relationship when that matters:
 
-- A friend, in passing: `kona melu.` (nothing more is needed)
-- A friend, with warmth: `kona ni moli. wa thia towe nai.`
-- An elder or mentor: `kona ne sa sulae. pi wa thia towe nai.`
-- A gathering: `kona sila. su theula towe nai.` (Community, may all be well.)
+- A passing greeting: `kia.`
+- An established dear friend: `kona ni moli. kia. wa thia towe nai.`
+- A respected mentor: `kona ne sa sulae. kia. pi wa thia towe nai.`
+- A gathering: `kona sila. kia. su theula towe nai.` (Community, hello. May all be well.)
 
 ## Asking for something
 
-Three dials, turned in this order: add `pi`; make the cost explicit rather than hiding it; and if the request is large, frame it as a wish (`su`) instead of a question, which leaves the other person entirely free:
+A polite question and a polite directive make different grammatical moves:
 
 ```
-pi wa thia mia naphe.
-POL Q 2SG 1SG help.
-(Could you help me?)
+pi wa thia mia po naphe.
+POL Q 2SG 1SG POT help.
+(Could you please help me?)
 
-su thia mia po naphe.
-OPT 2SG 1SG POT help.
-(May it be possible for you to help me.)
+pi no mia naphe.
+POL IMP 1SG help.
+(Please help me.)
 ```
 
-The optative version does not even ask. It hopes aloud, and lets the listener volunteer. For the largest requests, this is the Phi way.
+The first form asks about possible help; the second directs it. In conversation, either may function as a request, and either may carry pressure. `su` is for a genuine wish, hope, prayer, or blessing. A wish used as a hint can press the listener as firmly as a plainly stated request.
 
 ## Disagreeing
 
-Disagreement in Phi leans on the evidentials and the observation-feeling pattern from the transmutation chapter. Mark your knowledge honestly (`ho` if you are assuming), state the difference as two observations rather than one correction, and never skip the closer of a frame you opened:
+Disagreement needs no special softener. State what you understand and where you differ. Add an evidential only when the source of a claim is part of the disagreement:
 
 ```
-thia mena sileta sulae nai meno haolu. mia ho ma shelomu.
-2SG DECL.COMP sun warm be DECL.COMP.CLOSE speak. 1SG ASSUM NEG understand.
-(You say the sun is warm. I, assuming, do not understand.)
+mia shelomu.
+1SG understand.
+(I understand.)
+
+whekai mia ma nawo.
+CONTR 1SG NEG agree.
+(However, I do not agree.)
 ```
 
-Naming your own uncertainty (`ho`) does the work that softening phrases do in English, with none of the fog.
+`ho` would not mean uncertainty here. It would claim that the predicate rests on background expectation. Agreement, certainty, and source are separate facts.
 
 ## Consoling
 
-`phamo` (console) names the act; the grammar shapes it. Sit beside the feeling without correcting it, use `ni` if you have earned it, and let the optative carry what cannot be promised:
+`phamo` (console) names the act. A speaker may acknowledge the feeling, use `ni` if the bond is real, and let the optative carry what cannot be promised:
 
 ```
 kona ni moli. thia nuhemi. mia ha nai.
@@ -53,6 +57,6 @@ OPT peace DAT 2SG come.
 (May peace come to you.)
 ```
 
-## The one-line summary
+## What remains social
 
-Politeness is a frame, not a mask; honorifics state a relationship from the speaker's perspective; formality can spend additional attention; and every tool in this chapter returns to Phi's modifier-first organizing principle.
+The chapter's markers make address, courtesy, and relationship claims audible before the content they frame. They leave authority, consent, sincerity, and the safety of refusal where those facts have always lived: between the people speaking.
