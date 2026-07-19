@@ -160,7 +160,7 @@
 0.50	1	phena	kind	content	thena	thing	content	236
 0.50	1	shua	come	content	thua	fair	content	218
 0.50	1	shena	calm	content	thena	thing	content	211
-0.50	1	selu	flow	content	phelu	hold	content	210
+0.50	1	selu	flow	content	phelu	hold	content	208
 0.50	1	thelu	dialogue	content	phelu	hold	content	206
 0.50	1	phelu	hold	content	helu	smooth	content	205
 0.50	1	sena	pattern	content	thena	thing	content	205
@@ -184,9 +184,9 @@
 0.50	1	phiro	elegant	content	shiro	tree	content	76
 0.50	1	phoa	do	content	soa	sorry	interjection	75
 0.50	1	phoa	do	content	whoa	whole	content	71
-0.50	1	shelu	book	content	selu	flow	content	70
 0.50	1	teli	bell	content	keli	device	content	70
 0.50	1	thiro	serene	content	shiro	tree	content	70
+0.50	1	shelu	book	content	selu	flow	content	68
 0.50	1	sila	community	content	whila	hair	content	68
 0.50	1	shelu	book	content	thelu	dialogue	content	66
 0.50	1	shelu	book	content	helu	smooth	content	65
@@ -202,9 +202,9 @@
 0.50	1	porua	purpose	content	torua	year	content	42
 0.50	1	shena	calm	content	phena	kind	content	41
 0.50	1	thorui	beginning	content	sorui	circle	content	41
+0.50	1	phelona	require	content	pheloma	serve	content	40
 0.50	1	kunoa	knee	content	punoa	society	content	39
 0.50	1	phero	fern	content	thero	fire	content	39
-0.50	1	phelona	require	content	pheloma	serve	content	38
 0.50	1	thelui	sanctuary	content	phelui	word	content	38
 0.50	1	phero	fern	content	shero	night	content	37
 0.50	1	thorui	beginning	content	shorui	weary	content	37
@@ -241,12 +241,12 @@
 0.50	1	heru	herb	content	sheru	slow	content	10
 0.50	1	hiru	intuit	content	siru	marker	content	10
 0.50	1	shena	calm	content	sena	pattern	content	10
-0.50	1	thelu	dialogue	content	selu	flow	content	10
 0.50	1	kenoa	hemp	content	tenoa	tool	content	9
 0.50	1	lopha	vessel	content	losha	wide	content	9
 0.50	1	nea	aha	interjection	mea	thanks	interjection	9
-0.50	1	selu	flow	content	helu	smooth	content	9
 0.50	1	shoru	dull	content	thoru	proud	content	9
 0.50	1	nuko	black	content	muko	careless	content	8
 0.50	1	phelo	light	content	shelo	signify	content	8
+0.50	1	thelu	dialogue	content	selu	flow	content	8
 0.50	1	thinu	put	content	whinu	smell	content	8
+0.50	1	koru	harmonious	content	toru	roof	content	7
