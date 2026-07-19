@@ -172,7 +172,7 @@
 1. Introduction: Sentences Within Sentences
 2. Complement Clauses (mena/meno, wela/welo)
 3. Speech: Quotation and Report (shola/sholo)
-4. Adverbial Clauses: Time, Cause, Concession
+4. Adverbial Clauses: Time, Cause, Purpose, Concession
 
 ### Chapter 20: Relative Clauses
 1. Introduction: Describing Within

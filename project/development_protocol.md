@@ -165,6 +165,7 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 
 ### When Creating Constructions
 - [ ] Preserve strict SOV order (modifier-first principle)
+- [ ] Place every dependent clause before the main clause it modifies; this rule includes purpose frames opened by `lila`
 - [ ] Maintain head-final principle
 - [ ] Support compositional transparency
 - [ ] Enable mindful sentence building

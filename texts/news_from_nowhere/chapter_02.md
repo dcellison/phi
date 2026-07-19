@@ -297,8 +297,8 @@ mia roe rena shia to ki ka lepa lo kalei thena muo luphonu to kalei.
 (I climbed into the boat by the climbing-steps he had let down.)
 morris: "As I got in up the steps which he had lowered,"
 
-shia lila mia naphe manuwe to sepho.
-3SG PURP 1SG help hand PST send.
+lila mia naphe shia manuwe to sepho.
+PURP 1SG help 3SG hand PST send.
 (He held out his hand to help me.)
 morris: "and he held out his hand to help me,"
 
@@ -1208,9 +1208,9 @@ Q 1SG 1SG labor FUT take. DISJ Q 1SG 2SG labor FUT take.
 (Am I to have my work, or rather your work?)
 morris: "Am I to have my work, or rather your work?"
 
-mia mua luera shero mena lo mia lila lo shalu kawepa wea luphore thorui wepu meno to whemura.
-1SG LOC past night DECL.COMP PL 1SG PURP PL fish catch TOWARD river beginning go DECL.COMP.CLOSE PST dream.
-(I dreamed last night that we were off up the river, fishing.)
+mia mua luera shero mena lila lo mia lo shalu kawepa lo mia wea luphore thorui wepu meno to whemura.
+1SG LOC past night DECL.COMP PURP PL 1SG PL fish catch PL 1SG TOWARD river beginning go DECL.COMP.CLOSE PST dream.
+(I dreamed last night that we went towards the river's beginning in order to catch fish.)
 morris: "I dreamed last night that we were off up the river fishing.\""
 
 shia shola lia. kona ne selomi. thia muo mia riola so lepa. sholo to haolu.

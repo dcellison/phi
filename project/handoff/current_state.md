@@ -1,6 +1,6 @@
 # Current state
 
-This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D053, the fifteenth SEM-09D literary retrofit, the drafted-book pass, chapter 7, and the manual Parts I through V teaching passes. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
+This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D054, the fifteenth SEM-09D literary retrofit, the drafted-book pass, chapter 7, and the manual Parts I through V teaching passes. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
 
 ## Active execution sequence
 
@@ -15,7 +15,7 @@ The third teaching pass reviews all eleven Part III files. It preserves the curr
 
 The fourth teaching pass reviews all fifty-three Part IV files. It restores the closed particle inventories and their scope, removes psychological guarantees from word order, repairs noun, numeral, pronoun, tense, aspect, voice, modality, and evidential teaching, and finds no lexical gap. One optional Work word appears only in an explicitly labelled comparison with its base description. The pass also reconciles the canon account of ceremony, ritual, festival, and source-bound named rites.
 
-The fifth teaching pass reviews all sixteen Part V files. It repairs coordination and discourse scope, restores the distinct orders of clause relators, corrects direct and reported speech, keeps `rena` in every headless relative, and finds no lexical gap or module need. The complementizer reference now shows a genuinely headless relative phrase.
+The fifth teaching pass reviews all sixteen Part V files. It repairs coordination and discourse scope, restores one modifier-first order across all five clause relators, corrects direct and reported speech, keeps `rena` in every headless relative, and finds no lexical gap or module need. The complementizer reference now shows a genuinely headless relative phrase. D054 carries the `lila` correction through sixteen literary attestations, the function-word entry, reference material, and a validator regression; the separate freedom construction is unchanged.
 
 ## Lexicon migration counts
 
@@ -48,7 +48,7 @@ The latest completed prose batch is D052, Work, Craft, and Repair. It migrated s
 | Open | 0 |
 | Accepted but not implemented | 0 |
 
-The latest development decision is D053 in [`project/development_log.md`](../development_log.md). Check the live log before assigning the next identifier.
+The latest development decision is D054 in [`project/development_log.md`](../development_log.md). Check the live log before assigning the next identifier.
 
 ## Base queue complete
 

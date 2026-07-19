@@ -93,8 +93,8 @@ kjv: "and this they begin to do: and now nothing will be restrained from them, w
 ### Confounding and dispersal
 
 ```
-shia shola su lo mia lue waero kau muila wepu. su lo mia mua ha lokue lo shia haluma kuewa ka kelu lila lo shia lue wiso haolu po ma shelomu sholo to haolu.
-3SG QUOT.COMP OPT PL 1SG ABL sky ALL earth go. OPT PL 1SG LOC PROX place PL 3SG language strange CAUS become PURP PL 3SG ABL RECP speak POT NEG understand QUOT.COMP.CLOSE PST speak.
+shia shola su lo mia lue waero kau muila wepu. lila lo shia lue wiso haolu po ma shelomu su lo mia mua ha lokue lo shia haluma kuewa ka kelu sholo to haolu.
+3SG QUOT.COMP OPT PL 1SG ABL sky ALL earth go. PURP PL 3SG ABL RECP speak POT NEG understand OPT PL 1SG LOC PROX place PL 3SG language strange CAUS become QUOT.COMP.CLOSE PST speak.
 (The being said: "Let us go from the sky to the earth. Let us make their language unfamiliar in this place so that they cannot understand speech from one another.")
 kjv: "Go to, let us go down, and there confound their language, that they may not understand one another's speech."
 
@@ -139,7 +139,7 @@ lo shia to haolu. shola su lo mia wei lo mia whalo silawo nela raelu moru lorima
 
 lo miona lo lumira ha whalo silawo nela ha raelu moru to lorima. lila ha lo thena nila rena karami phelu thena lue waero to shua. rena karami phelu thena shola no nila. theula miona ta nai. lo shia ta haluma phelu sholo to haolu. shola lo shia ha pa phoa. nosa wei lo shia mawha rena lo shia phoa ki weni thena so noraku kelu sholo.
 
-shia shola su lo mia lue waero kau muila wepu. su lo mia mua ha lokue lo shia haluma kuewa ka kelu lila lo shia lue wiso haolu po ma shelomu sholo to haolu. rena karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera. lo shia whalo silawo to te lorima.
+shia shola su lo mia lue waero kau muila wepu. lila lo shia lue wiso haolu po ma shelomu su lo mia mua ha lokue lo shia haluma kuewa ka kelu sholo to haolu. rena karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera. lo shia whalo silawo to te lorima.
 
 thelao nomei wei ha whalo silawo se loa. lao rena karami phelu thena mua ha lokue theula muila haluma kuewa to ka kelu. rena karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera.
 ```

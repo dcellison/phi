@@ -136,8 +136,8 @@ POST long moment 3SG INTS hot PST become. CONS 3SG REFL garment ABL REFL body PS
 (After a long moment, they became very hot. Therefore they pulled their garment from their body. They released it.)
 aesop: "At last he became so heated that he pulled off his cloak,"
 
-sio ruela ta shiro to whano. miona wea muila muo rena shia whelani shiro shomelu miso to wapho lila shia lue rena thape sileta keru loa phesari.
-BESIDE path one tree PST stand. person TOWARD earth INTO REL 3SG welcome tree shadow REFL PST throw PURP 3SG ABL REL burn sun bright give flee.
+sio ruela ta shiro to whano. lila shia lue rena thape sileta keru loa phesari miona wea muila muo rena shia whelani shiro shomelu miso to wapho.
+BESIDE path one tree PST stand. PURP 3SG ABL REL burn sun bright give flee person TOWARD earth INTO REL 3SG welcome tree shadow REFL PST throw.
 (A tree stood beside the road. The person threw themself toward the earth into the tree-shadow that welcomed them in order to flee the Sun's burning gift of brightness.)
 aesop: "and, to escape the blazing sunshine, threw himself down in the welcome shade of a tree by the roadside."
 ```
@@ -171,7 +171,7 @@ sileta shola su lo mia nawo sholo to haolu. shola rena lue ha laniru miona wetha
 
 roe nu ta teku kema howeli lo wethalu shuna roa laniru miona weloni to se wapho. whekai pheo mu thimu shia wethalu miso to noshi ka lomare. howeli mo kema to whesu. miona roa miso wethalu mo noshi to phelu. nitho howeli roe korua thero wethalu to ru kema natu. whekai shia theula mesatu whuo lureko to nai.
 
-pheo thena sileta to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. shia wethalu nia miso talua ralu to ka manolu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso komeri to hewe. pheo laeno shemu shia ru sukaro to kelu. thelao shia miso wethalu lue miso weloni to natu. shia wethalu to leiro. sio ruela ta shiro to whano. miona wea muila muo rena shia whelani shiro shomelu miso to wapho lila shia lue rena thape sileta keru loa phesari.
+pheo thena sileta to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. shia wethalu nia miso talua ralu to ka manolu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso komeri to hewe. pheo laeno shemu shia ru sukaro to kelu. thelao shia miso wethalu lue miso weloni to natu. shia wethalu to leiro. sio ruela ta shiro to whano. lila shia lue rena thape sileta keru loa phesari miona wea muila muo rena shia whelani shiro shomelu miso to wapho.
 
 moli nela phena sharemi porua korei. kawhera nela theisa kapura porua ma korei.
 ```
@@ -334,13 +334,13 @@ POST long moment 3SG INTS hot PST become. CONS 3SG REFL garment PST release.
 (After a long moment, they became very hot. Therefore they released their garment.)
 aesop: "At last he became so heated that he pulled off his cloak,"
 
-sio ruela ta shiro to whano. miona muo rena whelani shomelu to reshi ruemi lila shia lue rena thape sileta keru loa phesari.
-BESIDE path one tree PST stand. person INTO REL welcome shadow PST fast lie down PURP 3SG ABL REL burn sun bright give flee.
+sio ruela ta shiro to whano. lila shia lue rena thape sileta keru loa phesari miona muo rena whelani shomelu to reshi ruemi.
+BESIDE path one tree PST stand. PURP 3SG ABL REL burn sun bright give flee person INTO REL welcome shadow PST fast lie down.
 (A tree stood beside the road. The person quickly lay down in welcoming shadow in order to flee the Sun's burning gift of brightness.)
 aesop: "and, to escape the blazing sunshine, threw himself down in the welcome shade of a tree by the roadside."
 ```
 
-**Notes:** The Sun gives brightness with `keru loa`; `phelo` belongs to weight, not illumination. Its brightness is gentle at first, and the pleasant warmth earns a first response: the Traveler opens the garment. Phi has no loose-clothing root, so the next line says what they do instead: they stop holding it close upon their shoulders. Only after the heat grows do they release it. A cap is `koma wethalu`, a head-garment, and `komeri` keeps the brow in view. In the final line, `lila` makes the move into shade purposeful. `phesari` says the person is escaping danger or constraint, while `ruemi` lowers the body into a lying posture. Aesop's difficulty is still in plain sight. The growing heat makes the Traveler let go, but it also drives them into shade.
+**Notes:** The Sun gives brightness with `keru loa`; `phelo` belongs to weight, not illumination. Its brightness is gentle at first, and the pleasant warmth earns a first response: the Traveler opens the garment. Phi has no loose-clothing root, so the next line says what they do instead: they stop holding it close upon their shoulders. Only after the heat grows do they release it. A cap is `koma wethalu`, a head-garment, and `komeri` keeps the brow in view. In the final line, the `lila` frame puts escape before the move into shade. `phesari` says the person is escaping danger or constraint, while `ruemi` lowers the body into a lying posture. Aesop's difficulty is still in plain sight. The growing heat makes the Traveler let go, but it also drives them into shade.
 
 ### lureko — The moral
 
@@ -371,7 +371,7 @@ sileta shola su lo mia nawo sholo to haolu. shola rena ha laniru miona wethalu k
 
 roe nu ta howeli lo wethalu shuna roa laniru miona weloni to tiripe. whekai shia roa miso wethalu to reshi noshi phelu. howeli mo kema to whesu. miona roa miso wethalu mo noshi to phelu. nitho howeli roe korua thero wethalu to natu. whekai shia theula mesatu whuo lureko to nai.
 
-pheo thena sileta to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. shia wethalu nia miso talua to ma noshi phelu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso komeri to hewe. pheo laeno shemu shia ru sukaro to kelu. thelao shia miso wethalu to leiro. sio ruela ta shiro to whano. miona muo rena whelani shomelu to reshi ruemi lila shia lue rena thape sileta keru loa phesari.
+pheo thena sileta to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. shia wethalu nia miso talua to ma noshi phelu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso komeri to hewe. pheo laeno shemu shia ru sukaro to kelu. thelao shia miso wethalu to leiro. sio ruela ta shiro to whano. lila shia lue rena thape sileta keru loa phesari miona muo rena whelani shomelu to reshi ruemi.
 
 moli nela phena haolu welao lureko thola. keloa haolu nela kawhera pholeni thola.
 ```

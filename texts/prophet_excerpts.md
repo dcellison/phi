@@ -155,8 +155,8 @@ gibran: "For their souls dwell in the house of tomorrow, which you cannot visit,
 ### Becoming and time
 
 ```
-thia po meloa lila thia phea lo shia kelu. whekai no mena thia lo shia phea thia ka kelu meno ma mesatu.
-2SG POT persevere PURP 2SG AS PL 3SG become. CONTR IMP DECL.COMP 2SG PL 3SG AS 2SG CAUS become DECL.COMP.CLOSE NEG try.
+lila thia phea lo shia kelu thia po meloa. whekai no mena thia lo shia phea thia ka kelu meno ma mesatu.
+PURP 2SG AS PL 3SG become 2SG POT persevere. CONTR IMP DECL.COMP 2SG PL 3SG AS 2SG CAUS become DECL.COMP.CLOSE NEG try.
 (You may persevere so that you become like them. However, do not try to make them become like you.)
 gibran: "You may strive to be like them, but seek not to make them like you."
 
@@ -181,8 +181,8 @@ LOC [REL NONE end hold] path [REL INS PROX tool do] purpose marker see.
 (On the path that holds no end, the one who acts with this tool sees a marker of purpose.)
 gibran: "The archer sees the mark upon the path of the infinite,"
 
-shia roe shia puro thia luwi ka kelu lila shia lo [rena wapi] lima tiso wolea thena reshi nela wuero wapi.
-3SG INS 3SG strength 2SG flexible CAUS become PURP 3SG PL [REL fly] alive sharp wood thing fast COORD far fly.
+lila shia lo [rena wapi] lima tiso wolea thena reshi nela wuero wapi shia roe shia puro thia luwi ka kelu.
+PURP 3SG PL [REL fly] alive sharp wood thing fast COORD far fly 3SG INS 3SG strength 2SG flexible CAUS become.
 (With his strength, he makes you bend so that his living sharp wooden things fly fast and far.)
 gibran: "and He bends you with His might that His arrows may go swift and far."
 
@@ -197,7 +197,7 @@ shia [rena wapi] lima tiso wolea thena lothea. shia we mureo [rena nira phelu] l
 gibran: "For even as he loves the arrow that flies, so He loves also the bow that is stable."
 ```
 
-**Notes:** Phi has no bow, arrow, or archer root. The close translation therefore gives each object a visible body. A bow is a flexible wooden tool that holds a cord. An arrow is a living sharp wooden thing that flies, alive because Gibran calls it so. The archer is the one who acts with the tool. `puro`, strength, supplies his might; `lila` states his purpose in bending the parent; and the path of the infinite becomes a path that holds no end. The source citations retain the exact weapon terms and Gibran's capitalized divine pronoun.
+**Notes:** Phi has no bow, arrow, or archer root. The close translation therefore gives each object a visible body. A bow is a flexible wooden tool that holds a cord. An arrow is a living sharp wooden thing that flies, alive because Gibran calls it so. The archer is the one who acts with the tool. `puro`, strength, supplies his might; the `lila` frame gives his purpose before the bending; and the path of the infinite becomes a path that holds no end. The source citations retain the exact weapon terms and Gibran's capitalized divine pronoun.
 
 ### Complete translation
 
@@ -208,9 +208,9 @@ lo thia phomila thia phomila ma nai. lo shia lioru wei miso wilao phomila nai. l
 
 thia wei lo shia lothea po loa. thia wei lo shia remo po ma loa. lo shia miso remo phelu. thia lo shia weloni ka po menui. thia lo shia norea ka po ma menui. lo shia norea mua wireo womu menui. thia ha womu po ma phemiru. we mua thia whemura thia ha womu po ma phemiru.
 
-thia po meloa lila thia phea lo shia kelu. whekai no mena thia lo shia phea thia ka kelu meno ma mesatu. lioru wea luera ma wepu. shia nua luera philo ma manolu.
+lila thia phea lo shia kelu thia po meloa. whekai no mena thia lo shia phea thia ka kelu meno ma mesatu. lioru wea luera ma wepu. shia nua luera philo ma manolu.
 
-thia lo [rena nira phelu] luwi wolea tenoa nai. lo thia phomila phea [rena wapi] lima tiso wolea thena lue thia se sepho. mua [rena mawha lumae phelu] ruela [rena roe ha tenoa phoa] porua siru nila. shia roe shia puro thia luwi ka kelu lila shia lo [rena wapi] lima tiso wolea thena reshi nela wuero wapi. su mua shia manuwe thia roe siora luwi kelu. shia [rena wapi] lima tiso wolea thena lothea. shia we mureo [rena nira phelu] luwi wolea tenoa lothea.
+thia lo [rena nira phelu] luwi wolea tenoa nai. lo thia phomila phea [rena wapi] lima tiso wolea thena lue thia se sepho. mua [rena mawha lumae phelu] ruela [rena roe ha tenoa phoa] porua siru nila. lila shia lo [rena wapi] lima tiso wolea thena reshi nela wuero wapi shia roe shia puro thia luwi ka kelu. su mua shia manuwe thia roe siora luwi kelu. shia [rena wapi] lima tiso wolea thena lothea. shia we mureo [rena nira phelu] luwi wolea tenoa lothea.
 ```
 
 ### Translation limits
