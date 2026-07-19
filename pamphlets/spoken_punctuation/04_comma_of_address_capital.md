@@ -1,22 +1,36 @@
 # Part 4: The comma of address, the capital of a name
 
-Two of English's silent marks guard people specifically: the vocative comma and the name's capital letter. Both already have their own doctrine (`kona` in manual ch21 §1, `ne` throughout the naming pamphlet) so this part is short, and only about what they are *as punctuation*.
+English can distinguish a person addressed from a person discussed with a comma. Phi makes the distinction audible:
 
-### The comma that keeps grandma off the menu
+```
+kona ne sulae. mia sano.
+VOC NAME sulae. 1SG know.
+(sulae, I know.)
 
-English grammarians teach the vocative comma with a famous warning about the difference between *"Let's eat, grandma"* and the version without the comma: a joke that works because the mark is silent and the sentence is ambiguous until typography rescues it. The joke cannot be built in Phi. Address is a word, `kona`, standing outside the sentence entirely, and no utterance exists in which the grandmother's role is settled by a mark nobody can hear:
+mia ne sulae sano.
+1SG NAME sulae know.
+(I know sulae.)
+```
+
+In the first example, `kona ne sulae.` is a separate vocative utterance. In the second, `ne sulae` is the object of `sano`. No pause has to decide which relation the name bears.
+
+### `kona` marks the call
+
+`kona` stands outside the clause that follows. A role or relation comes directly after it, while a proper designation includes `ne`:
 
 ```
 kona wheo. no lo mia nuola.
 VOC elder. IMP PL 1SG eat.
-(Elder — let us eat.)
+(Elder, let us eat.)
 ```
 
-The call is its own little sentence with its own period; the invitation follows separately. Nothing to misplace, nothing to lose over a bad connection, no elder in danger. English's comma of address does its work only in writing; `kona` does it everywhere speech goes.
+The call has its own period because it is extra-clausal. Delivery supplies the social tone; `kona` contributes direct address.
 
-### The capital you can hear
+### `ne` marks a proper designation
 
-The other people-guarding mark is the capital letter, and the naming pamphlet, part 6, owns it: Phi has no capitals in any mode, and what capitals do for names, `ne` does aloud. As punctuation, note only the symmetry with everything in this pamphlet: English marks *who is a name* typographically and loses the marking in speech; Phi marks it with a syllable and cannot lose it anywhere:
+Phi has no capital letters. In neutral, formal, portable, and machine-validated Phi, `ne` appears at every mention of a name. Established conversational speech may omit it while reference stays unambiguous. Whether the bearer is present does not control that choice.
+
+The same content word can therefore appear once with its lexical meaning and once as a name:
 
 ```
 mia thinoe nila.        mia ne thinoe nila.
@@ -24,26 +38,26 @@ mia thinoe nila.        mia ne thinoe nila.
 (I see a seed.)         (I see thinoe.)
 ```
 
-### Together at the door
+Calling `ne` a spoken capital is another teaching comparison. Its grammatical meaning is more exact: a proper designation follows. It marks names throughout the language, not only names of people, and makes no claim about personhood or importance.
 
-The two marks stack the way English's stack: *"sulae, welcome"* wears a capital and a comma; Phi says both:
+### Both forms at the door
 
 ```
 kona ne sulae. whelani.
 VOC NAME sulae. welcome.
-(sulae — welcome.)
+(sulae, welcome.)
 ```
 
-Call announced, name announced, then the name, then the sentence. Every layer audible, every layer in the naming pamphlet's fixed order, and the English translation quietly needing two silent marks and a dash to keep up.
+`kona` makes the call and `ne` identifies the name. `whelani` is the ordinary verb welcome used as a complete utterance with its participants understood from the encounter.
 
-### Drill: the unlosable address
+### Practice: hear each distinction
 
-Say each of these aloud, then say what its English translation must write silently:
+For each line, identify the work done by `kona`, `ne`, an honorific, or `wa`. Then give a natural English rendering.
 
 ```
 1. kona lopia. wa thia wile.
 2. kona ne siora. kia.
-3. kona ni moli.
+3. kona ne ni moli.
 ```
 
-Answers: 1. a comma: *Child, do you want to play?* (plus the question mark `wa` already said). 2. a comma and would-be capital: *siora — hello.* 3. a comma at least, and English has no mark at all for what `ni` announces; some things Phi says, English cannot even draw.
+Answers: 1. `kona` addresses the child and `wa` asks a direct question: "Child, do you want to play?" 2. `kona` addresses siora, `ne` marks the name, and `kia` greets: "siora, hello." 3. `kona` marks the call, `ne` marks moli as a name, and `ni` states the speaker's established close bond: "Dear moli." English punctuation can show the address, but it does not encode the relationship claimed by `ni`.

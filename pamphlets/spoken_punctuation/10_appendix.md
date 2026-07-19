@@ -1,53 +1,45 @@
 # Appendix: quick reference
 
-### The audit, complete
+## Functional comparisons
 
-| English writes | Phi says | Doctrine |
+| English commonly writes | Phi form | Scope |
 |---|---|---|
-| ? (whole-sentence) | `wa`, Slot 0, first | ch10 §5 |
-| ? (content question) | the gap-word: `sua` `hina` `weno` `kua` `misa` `thela` | ch10 §5 |
-| "whether" (no mark) | `wela … welo` | ch19 §2 |
-| " … " | `shola … sholo`, frame verb `haolu`/`shemui`/`thilou`/`hea` | ch19 §3, canon |
-| the comma of address | `kona`, extra-clausal | ch21 §1 |
-| the capital of a name | `ne` | canon *Letters*; the naming pamphlet |
-| the fronted-clause comma | `lu` + period; `pheo` `phoe` `lao` `shai` `lila` + the clause's own verb | ch9 §3, ch19 §4 |
-| the clause comma before "and/but/or" | `nela` / `thona` / `sola`, the conjunction is the boundary | ch17 |
-| the list comma | `nela` between every item | ch17 §1 |
-| the closing bracket English never had | `meno` / `welo` / `sholo`, required | ch19, canon |
-| ! | `ru` on the word; the interjections; `su` for the wish | ch9 §5, Part 6 |
-| … and — (the written pause) | nothing, pauses are free and unwritten | canon |
-| . | the period (the one silent mark) | canon |
-| arbitrary source marks | preserve outside the Phi passage in the source medium | ch24, source-material pamphlet |
+| `?` after a direct yes-or-no question | `wa` | Slot 0 before the complete proposition |
+| `?` after a content question | `sua`, `hina`, `weno`, `kua`, `misa`, `thela`, or `wia` | the position where the answer would stand |
+| "whether" or "if" inside a statement | `wela ... welo` | embedded yes-or-no question before the matrix predicate |
+| quotation marks | `shola ... sholo` | exact grammatical Phi wording before a speaking, inquiry, or hearing predicate |
+| a comma of address | `kona` | extra-clausal vocative with its own period |
+| capitalization of a name | `ne` | proper designation in neutral, formal, portable, and validated Phi |
+| a comma after an if-clause | `lu` or `lu he`, then a period | complete condition before its consequence |
+| a comma after another dependent clause | `pheo`, `phoe`, `lao`, `shai`, or `lila` | complete dependent frame before the main clause |
+| a comma before "and," "but," or "or" | `nela`, `thona`, or `sola` | conjunction between equal constituents |
+| list commas | `nela` | conjunction at every list boundary |
+| an exclamation mark | no general equivalent | lexical meaning and delivery stay separate; use `ru`, `su`, or an interjection only when its own meaning fits |
+| an ellipsis or dash used for a pause | no mark | pauses may shape delivery but not grammar |
+| a period | `.` | sentence-end, the one visible Phi punctuation mark |
+| arbitrary source punctuation | the source medium | outside the Phi passage and outside Phi syntax |
 
-### The one-liners
+## Working rules
 
-- A silent mark is justified only where no word is visible to do its work; sentence-end is the one such place.
-- The punctuation moved from the end of the sentence to the beginning: announce, then deliver, at mark scale.
-- Pauses are free: no pause can change a meaning, so the page records none.
-- Every mode can say a word; only Latin script can draw a comma. Phi stores its punctuation where all its modes can reach.
-- English's busiest comma (after the if-clause) is Phi's one silent mark, promoted to a period.
-- The closer is the comma you can hear. It is never optional.
-- Volume is not information: `ru` says what is intense, the interjection says what is felt, `su` says what is hoped.
-- The Phi dictation test asks whether lexical punctuation survives a specific careful transmission; a source artifact requires its own spelling, citation, or display convention.
+- "Spoken punctuation" is a teaching analogy. `wa`, `kona`, `ne`, and the complementizers remain grammatical words with exact distributions.
+- `wa` asks a direct yes-or-no question. A content question uses its gap-word, and an embedded yes-or-no question uses `wela ... welo`.
+- `shola ... sholo` claims exact Phi wording. Source wording in another language stays outside the Phi passage.
+- A `kona` phrase is extra-clausal. A proper name within it keeps `ne` in neutral or portable Phi.
+- Clause families do not share one generic boundary marker.
+- `ru` marks degree, `su` marks an optative, and each interjection keeps its lexical meaning. None is an exclamation particle.
+- Pauses can carry rhythm and feeling, but they cannot change syntax or propositional meaning.
+- Dictation can test recovery of lexical markers. Exact period placement and arbitrary source notation require separate comparison.
 
-### What the validator holds
+## What the validator checks
 
-The validator enforces periods only, no capitals, and no `,` `?` `!` `;` throughout Phi text. Source artifacts remain outside the checked Phi passage. The voice side remains a practice to test rather than a machine-verifiable guarantee.
+The validator enforces lowercase, period-only Phi inside recognized examples and rejects unknown Phi forms. It also checks required complementizer pairings where its parser can identify them. Delivery, intended reference, and the accuracy of a speaker's exact-word claim still require human judgement.
 
-### The connectives of this pamphlet
+## Cross-references
 
-| Phi | Gloss | | Phi | Gloss |
-|---|---|---|---|---|
-| nela | COORD | | pheo | POST |
-| thona | ADVRS | | phoe | ANT |
-| sola | DISJ | | lao | BECAUSE |
-| lu | COND | | shai | CONC |
-| teo | watch out | | lila | PURP |
+- [`canon.md`](../../canon.md) for the relevant settled rulings
+- [Manual chapter 9](../../manual/part4_grammar/ch09_particle_system/01_introduction.md) for particle scope and [chapter 10](../../manual/part4_grammar/ch10_mindful_sentence/05_questions_requests_conditions.md) for questions
+- [Manual chapter 17](../../manual/part5_complex/ch17_coordination/01_simple_conjunction.md) for coordination and [chapter 19](../../manual/part5_complex/ch19_subordinate_clauses/02_complement_clauses.md) for clause frames
+- [Manual chapter 21](../../manual/part6_mastery/ch21_social_context/01_the_vocative_kona.md) for direct address and [chapter 24](../../manual/part6_mastery/ch24_source_material/01_where_source_material_lives.md) for source material
+- The complementizer, naming, and source-material pamphlets for extended practice
 
-### Cross-references
-
-- Canon: the *Punctuation*, *Letters*, and *Source material* rulings.
-- The quick reference: `manual/part7_reference/quick_reference_grammar.md`, the one-line summary.
-- Doctrine: manual ch9 §3 (Slot 0); ch10 §5 (questions); ch17 (coordination); ch19 (subordination, speech, adverbials); ch21 §1 (the vocative).
-- Sibling pamphlets: 2 (the closers, drilled); 3 (what the frame copies and never adds); 5 (the spoken capital, whole); 6 (recitation, where the free pauses earn their keep).
-- The front door: `kia.md` says all of this to a stranger in one paragraph; this pamphlet is that paragraph, taken seriously for eleven parts.
+`wa thia towe nai.` ends with the same period as an assertion. Its first syllable is enough to tell the listener which sentence they have entered.

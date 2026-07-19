@@ -1,10 +1,16 @@
-# Part 6: The exclamation, worded
+# Part 6: No exclamation mark
 
-The exclamation mark fell like the others, but it fell differently: no single word took its job, because it never had a single job. English's "!" is volume lent to a whole sentence: urgency, delight, warning, emphasis, all drawn with the same vertical line, none of them distinguished. Phi splits the work among words that each do one thing honestly, which means the exclamation did not go missing. It went specific.
+Phi has no exclamation mark and no single word that replaces one. English uses `!` for several unrelated jobs. Phi leaves each job to its own words and to the speaker's delivery.
 
-### Intensity lands on its word
+| Intended work | Phi resource |
+|---|---|
+| greater degree | `ru` before the description or action it intensifies |
+| a wish, hope, prayer, or blessing | `su` before the clause |
+| an immediate reaction | the interjection whose lexical meaning fits |
+| a warning of danger | `teo` |
+| emotional or urgent delivery | voice and context, without a grammatical punctuation mark |
 
-`ru` (INTS, Slot 2) intensifies exactly the word it stands before, not the sentence, not the speaker's volume, the word:
+### Degree belongs to `ru`
 
 ```
 ha peloru ru mioru nai.
@@ -12,23 +18,32 @@ PROX flower INTS beautiful be.
 (This flower is very beautiful.)
 ```
 
-Where English writes *"How beautiful!"* (excitement smeared across the whole clause) Phi tells you precisely what is intense and leaves the rest of the sentence at speaking volume. Emphasis with an address on it.
+`ru` raises the degree of `mioru`. It does not mean excitement, loudness, or exclamation, and an English translation may use an exclamation mark whether `ru` appears or not.
 
-### The interjections are complete
+### Interjections keep their own meanings
 
-`kia.` `mea.` `lia.` `pao.` `whelani.` `teo.` (hello, thanks, yes, goodbye, welcome, watch out) each a full utterance with its own period, and the period is the point: Phi's most emotionally immediate words are grammatically calm. The urgent register is real, and it is built from brevity, not volume:
+These interjections are complete utterances, but none is a general emotional marker:
+
+| Phi | Meaning |
+|---|---|
+| `kia` | hello |
+| `mea` | thanks |
+| `wao` | wow |
+| `lua` | lovely |
+| `sai` | ouch |
+| `teo` | watch out |
 
 ```
 teo. suliwa.
 watch out. snake.
-(Careful — a snake!)
+(Watch out! A snake!)
 ```
 
-Two words, two periods, and nothing in the language is faster. The English translation reaches for its "!" because volume is how English writes urgency; Phi's urgency is that there was no time for a longer sentence. A period costs no seconds. Shortness is the siren.
+The English translation uses exclamation marks because that punctuation suits its urgent warning. The Phi says `teo`, names the snake, and may be spoken as loudly or quickly as the situation requires. A period does not prescribe a calm voice.
 
-### The wish carries the joy
+`whelani` also works as a complete welcome, but it is a verb with understood participants rather than an interjection. Its standalone use does not change its part of speech.
 
-English exclaims its blessings (*"May all be well!"*) because without the mark they read as flat reports. Phi's blessings were never reports: `su` announced them as hopes from the first syllable, and a hope needs no shouting to be unmistakable:
+### Wishes begin with `su`
 
 ```
 su theula towe nai.
@@ -36,20 +51,18 @@ OPT UNIV well be.
 (May all be well.)
 ```
 
-The quick reference's own example, and the register of every wish in the Metta Sutta: thirty-one of them, not one exclaimed.
+`su` distinguishes a hope from an assertion. It says nothing about volume, and a quiet blessing is fully optative.
 
-### What this refuses
+No punctuation choice can make a directive harmless or a warning accurate. Phi leaves tone audible and social force open to context, just as it does elsewhere. The missing exclamation mark is a writing rule, not a moral achievement.
 
-A mark that makes a whole sentence louder is a small piece of shouting infrastructure, and Phi declines to install it: the same instinct, at punctuation scale, as the refusals in the lexicon. Nothing here prevents strong feeling; everything here asks it to say *what* it is. The intensity goes on a word, the feeling gets its own complete utterance, the hope gets announced as hope. Precision does all the lifting that volume used to fake.
+### Practice: choose the meaning
 
-### Drill: unshout the English
-
-Say each in Phi, putting the exclamation's work where it belongs:
+Render each line by deciding what the exclamation mark contributes in English. Do not add `ru` unless degree is actually part of the meaning.
 
 1. "Watch out!"
 2. "Help me!"
-3. "How warm the sun is!"
+3. "The sun is hot!"
 4. "Welcome!"
 5. "May peace come to you!"
 
-Answers: 1 `teo.` 2 `no mia naphe.` The request announced, nothing screamed. 3 `sileta ru sulae nai.` The intensity delivered to `sulae` by name. 4 `whelani.` Complete as it stands. 5 `su shea wei thia shua.` Announced as a hope, arriving at speaking volume, exactly as ch21 gives it.
+Answers: 1 `teo.` 2 `no mia naphe.` This is an explicit directive; `pi no` is available when the speaker chooses polite form, but punctuation alone settles neither relationship nor pressure. 3 `sileta sukaro nai.` Direct `sukaro` says hot without borrowing intensity from `ru`. 4 `whelani.` The ordinary welcome verb has understood participants here. 5 `su shea wei thia shua.` The optative marks the wish, while the voice remains the speaker's own.

@@ -1,20 +1,20 @@
 # Part 9: Exercises
 
-Answers follow at the end. Where an exercise asks for judgment, the key gives the reasoning, not just the mark: check your *why* against it.
+Answers follow at the end. For each judgement, identify the grammatical distinction before checking the form.
 
-## Part A: Name the word for the mark
+## Part A: Choose the Phi resource
 
-For each English sentence, name the Phi word (or words) that will do its punctuation's work, then say the Phi.
+For each English line, decide which Phi form carries the relevant work and then render the sentence.
 
 1. "Are you coming?"
 2. "Friend, sit."
-3. The elder said: "The earth receives all."
+3. The elder said, "The earth receives all."
 4. "If it rains, we sit at home."
 5. "trees, flowers, and grass"
 
 ## Part B: Repair the page
 
-Each line has been damaged by an English-trained hand. Fix it, and say what the damage was claiming.
+Each line has either an English mark inside Phi, a capital, or a missing lexical boundary. Repair it and identify the error.
 
 6. `wa thia shua?`
 7. `kona lopia, kia.`
@@ -22,38 +22,42 @@ Each line has been damaged by an English-trained hand. Fix it, and say what the 
 9. `su theula towe nai!`
 10. `mia mena shia shua sano.`
 
-## Part C: Translate, keeping every mark audible
+## Part C: Translate the construction
 
-11. sulae asked: "Is the well water warm?"
-12. "Child — what do you see?"
+11. sulae asked, "Is the well water warm?"
+12. "Child, what do you see?"
 13. "Although it rained, the flowers grow."
 
-## Part D: The dictation test
+## Part D: Test spoken recovery
 
-With a partner, or with tomorrow-morning-you: compose a core message of eight to twelve words containing at least one `wa`, one `shola … sholo` pair, one `ne`, and one `su`. Speak it once at recitation pace. Write it from hearing alone, compare it with the source, and record every difference. There is no key for Part D: agreement supports this particular core-punctuation claim, while disagreement identifies something to investigate.
+Compose a grammatical message with a direct `wa` question inside `shola ... sholo` and a name marked with `ne`. Add direct address with `kona` and a `su` wish. With a partner, or after leaving your own recording long enough for the wording to fade, transcribe the message from speech. Compare the lexical forms and the periods as separate results.
 
 ---
 
 ## Answer key
 
-**Part A.**
+### Part A
 
-1. `wa`: `wa thia shua.` The mark moved from the end of the English to the front of the Phi, which is the whole system in one move.
-2. `kona`, and `no` for the asking: `kona melu. no meilo.` Two little sentences; the comma became the period between them.
-3. `shola … sholo` with a speaking-verb frame: `wheo shola muila theula howela sholo to haolu.` The colon and both quotation marks arrived as words.
-4. `lu`, and the period: `lu pheralu lepa. lo mia mua womu meilo.` English's busiest comma is Phi's one silent mark, promoted.
-5. `nela`, twice: `shiro nela peloru nela whelina.` Between every item, so the Oxford comma has nothing left to disambiguate.
+1. `wa thia shua.` `wa` asks about the whole proposition.
+2. `kona melu. no meilo.` The vocative is extra-clausal, and `no` marks the directive.
+3. `wheo shola muila theula howela sholo to haolu.` The quote is exact Phi wording, and past `to` belongs to the final `haolu`.
+4. `lu pheralu lepa. lo mia mua womu meilo.` The `lu` condition is a complete sentence before its consequence.
+5. `shiro nela peloru nela whelina.` `nela` appears at every list boundary.
 
-**Part B.**
+### Part B
 
-6. `wa thia shua.`: the `?` was `wa`'s work, already done at the first syllable.
-7. `kona lopia. kia.`: the vocative is its own utterance; the comma was English notating a boundary Phi gives a period.
-8. `ne siora shua.`: position earns no capital; `ne` was already the tallest thing a name gets.
-9. `su theula towe nai.`: the wish was announced as a wish by `su`; the `!` added volume to a sentence that carries hope, not volume.
-10. `mia mena shia shua meno sano.` The damage here was an absence: without `meno`, two verbs collide and no one knows whose sentence ended. The only repair in this set that adds a word, because the missing mark was a word.
+6. `wa thia shua.` The opening particle already marks the direct yes-or-no question.
+7. `kona lopia. kia.` The vocative is its own utterance, not a comma phrase inside the following one.
+8. `ne siora shua.` Phi sentence starts and Phi-form names stay lowercase.
+9. `su theula towe nai.` The optative marks the wish; Phi has no exclamation mark.
+10. `mia mena shia shua meno sano.` Required `meno` closes the embedded proposition before `sano`.
 
-**Part C.**
+### Part C
 
-11. `ne sulae shola wa phitura phialu sulae nai sholo to thilou.`: the frame verb is `thilou` (inquire), canon's frame for received questions; and enjoy the sentence asking whether `phialu` is `sulae` while `ne sulae` does the asking, one announcement keeps the person and the warmth from ever colliding.
-12. `kona lopia. thia hina nila.`: the dash was `kona`'s pause between utterances; the question mark was `hina`, sitting where the answer will.
-13. `shai pheralu to nai lo peloru thuroa.` The fronted-clause comma dissolves: `shai` announced the concession going in, `nai` sealed it coming out, and the flowers grow with no mark between.
+11. `ne sulae shola wa phitura phialu sulae nai sholo to thilou.` Outside the quote, `ne` makes the first `sulae` a name. Inside it, bare `sulae` is the predicate warm. `thilou` names the act of inquiry.
+12. `kona lopia. thia hina nila.` `kona` addresses the child, while `hina` occupies the object position that the answer will fill.
+13. `shai pheralu to nai lo peloru thuroa.` `shai` opens the concession, and its past predicate `to nai` completes before the main clause begins.
+
+### Part D
+
+There is no single correct message. Check the direct question and its matched quotation frame first. Then check that `ne` precedes its name atom or honorific chain, `kona` begins a separate vocative utterance, and `su` opens a wish. A mismatch in period placement belongs in the written-boundary result rather than being hidden among lexical errors.

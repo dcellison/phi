@@ -38,7 +38,7 @@ The workflow gives every new or revised entry a separate Humanizer pass and chec
 
 Articulatory notes follow the word through the mouth and describe breath, contact, release, stress, and hiatus accurately. Sound symbolism has a narrower optional role: it may preserve a genuine Phi-specific association, but it cannot turn a syllable into a hidden morpheme or treat a phoneme's meaning as universal.
 
-The completed lexicon audit worked in `vocabulary/`, the canonical source, and regenerated every dependent reference. [`documents/validation/vocabulary_prose_coverage.json`](../documents/validation/vocabulary_prose_coverage.json) records 1,275 target entries with no legacy, partial, or dual remainder. The contextual retrofit now checks active Phi against that finished vocabulary. The literary shelf, drafted book, all seven manual parts, the primer, the evidentiality pamphlet, and the three-slots pamphlet are current; work resumes with the other seven pamphlets before the current documents.
+The completed lexicon audit worked in `vocabulary/`, the canonical source, and regenerated every dependent reference. [`documents/validation/vocabulary_prose_coverage.json`](../documents/validation/vocabulary_prose_coverage.json) records 1,275 target entries with no legacy, partial, or dual remainder. The contextual retrofit now checks active Phi against that finished vocabulary. The literary shelf, drafted book, all seven manual parts, the primer, the evidentiality pamphlet, the three-slots pamphlet, and the spoken-punctuation pamphlet are current; work resumes with the other six pamphlets before the current documents.
 
 ### Lexical relations between content words
 

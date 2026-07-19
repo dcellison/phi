@@ -293,7 +293,7 @@ The completed base and function vocabulary covers the primer without a new root 
 
 ## Pamphlets
 
-Two of nine pamphlets are reviewed. The evidentiality pass keeps the snake-at-the-well practice while rebuilding its account of source marking around current canon. Direct perception, inference, report, assumption, truth, reliability, confidence, and courtesy no longer borrow one another's work.
+Three of nine pamphlets are reviewed. The evidentiality pass keeps the snake-at-the-well practice while rebuilding its account of source marking around current canon. Direct perception, inference, report, assumption, truth, reliability, confidence, and courtesy no longer borrow one another's work.
 
 | File | State | Finding and disposition |
 |---|---|---|
@@ -335,6 +335,26 @@ The three-slots pass reviews all thirteen files around the closed particle inven
 
 The completed base and function vocabulary covers the pamphlet without a new root, lexical question, or optional module term. Direct `pharelo` replaces generic making in the soup exercise; other revisions concern grammar, interpretation, and teaching voice. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
 
+The spoken-punctuation pass reviews all eleven files around Phi's period-only writing rule. It retains the useful comparison with English marks while distinguishing that teaching analogy from the grammatical categories of particles, complementizers, vocatives, names, relators, and conjunctions.
+
+| File | State | Finding and disposition |
+|---|---|---|
+| `spoken_punctuation/00_title.md` | Revised | The opening now presents spoken punctuation as a functional analogy, removes reflex-speed practice, and gives the silent period and outside-source boundary their honest limits. |
+| `spoken_punctuation/01_one_silent_mark.md` | Revised | The comparison table distinguishes yes-or-no and content questions, gives clause constructions separate boundaries, and lets pauses carry expression without assigning them grammar. |
+| `spoken_punctuation/02_the_question_mark_wa.md` | Revised | `wa` is restricted to direct yes-or-no questions, all seven gap-words are present, and embedded `wela ... welo` is kept apart from both. A bare household name no longer distracts from the exercise. |
+| `spoken_punctuation/03_the_quotation_marks.md` | Revised | `shola ... sholo` now claims exact grammatical Phi wording rather than a universal solution to quotation. Required closing, matrix predicates, pronoun reference, report, and the source boundary follow chapter 19. |
+| `spoken_punctuation/04_comma_of_address_capital.md` | Revised | A harmless know-and-address contrast replaces the former violence joke. Portable names keep `ne` regardless of presence, while `kona`, honorifics, and established conversational omission retain their own work. |
+| `spoken_punctuation/05_the_clause_commas.md` | Revised | Conditions, adverbial frames, complements, coordination, and lists each receive their actual boundary. Purpose `lila` explicitly precedes the action it modifies, with no modifier-first exception. |
+| `spoken_punctuation/06_the_exclamation_worded.md` | Revised | Phi is no longer said to divide a general exclamation particle among `ru`, interjections, and `su`. Each form keeps its lexical meaning, prosody stays free, `whelani` remains a verb, and direct `sukaro` replaces very warm when the exercise means hot. |
+| `spoken_punctuation/07_the_dictation_test.md` | Revised | The check now measures lexical recovery separately from period placement and source notation. Portable `ne`, question predicate `thilou`, direct-address `kona`, and motion with `kau` repair the carried exchange. |
+| `spoken_punctuation/08_common_errors.md` | Revised | The error set separates clause force from intonation, syntax from expressive pauses, and degree `ru` from exclamation. Period-only writing no longer prescribes a monotone voice. |
+| `spoken_punctuation/09_exercises.md` | Revised | Exercises and answers now test the real construction rather than counting English marks. The dictation task includes `kona` and records lexical and period results separately. |
+| `spoken_punctuation/10_appendix.md` | Revised | The quick reference includes `wia`, gives every clause family its boundary, records the absence of a general exclamation equivalent, and narrows the validator and dictation claims. |
+
+### Lexical and canonical result
+
+The completed base and function vocabulary covers the pamphlet without a new root, lexical question, optional module term, or membership change. Base `sukaro` says hot where the old exercise intensified warm, and existing `kau` restores the motion endpoint in a quoted question. The directly related `thilou` vocabulary note is corrected from final `wa` to clause-initial `wa`. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
+
 ### Resume point
 
-Continue with `pamphlets/spoken_punctuation/`, the closest teaching dependency of the Slot 0, vocative, name, and quotation work, and then review the other six pamphlets. The later current-document sweep must revisit the shorthand "source of knowledge" in `documents/grammar/particle_reference.md` and "How you know" in `documents/reference/taught_patterns.md`; neither phrase should restore an epistemic claim that the particles do not make.
+Continue with `pamphlets/complementizers/`, whose older explanations of quotation, frame shape, scope, and cognition need the same contextual review, and then review the other five pamphlets. The later current-document sweep must revisit the shorthand "source of knowledge" in `documents/grammar/particle_reference.md` and "How you know" in `documents/reference/taught_patterns.md`; neither phrase should restore an epistemic claim that the particles do not make.

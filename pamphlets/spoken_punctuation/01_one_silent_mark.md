@@ -1,18 +1,6 @@
 # Part 1: One silent mark
 
-The ruling stands on one principle: a silent mark is justified only where no word is visible to do its work. Phi audited the marks English writes, and each fell to a word already on duty: the period alone survived, because sentence-end is the one boundary the language gives no word. Phi therefore shows periods, lowercase letters, and nothing else. Source material outside a Phi passage follows the punctuation of its own medium without creating an exception inside Phi.
-
-| English writes | Phi says | The doctrine lives |
-|---|---|---|
-| ? | `wa`, or the question's own gap-word | ch10 §5 · Part 2 |
-| " … " | `shola … sholo`, both audible | ch19 §3 · Part 3 |
-| the comma of address | `kona` | ch21 §1 · Part 4 |
-| the capital of a name | `ne` | the naming pamphlet · Part 4 |
-| the clause comma | the announcers in front, the closers behind | ch17, ch19 · Part 5 |
-| ! | the word itself: `ru`, the interjections, `su` | Part 6 |
-| . | the period (kept) | the one silent mark |
-
-### The founding pair
+Compare two short lines:
 
 ```
 thia towe nai.
@@ -24,19 +12,32 @@ Q 2SG well be.
 (Are you well?)
 ```
 
-English tells these apart by a mark at the far end of the sentence; you can be halfway through reading one aloud before discovering what it was. Phi files the difference first, as a syllable. And notice where the question mark went: into the *translation*. Throughout this pamphlet the English lines carry commas, question marks, capitals, because English needs them. The Phi lines above them never do. That asymmetry is this whole pamphlet.
+The period closes both written utterances. The difference between assertion and question is already present in `wa`, so Phi needs no question mark at the far end.
+
+Canon phrases the wider rule this way: a silent mark is justified only where no word is visible to do its work. Sentence-end has no word of its own, so the period stays. The table below treats English punctuation as a functional comparison rather than a word-for-mark substitution.
+
+| English commonly writes | Phi uses |
+|---|---|
+| `?` after a yes-or-no question | `wa` before the proposition |
+| `?` after a content question | a gap-word in the answer's position |
+| quotation marks around exact speech | `shola ... sholo` around exact grammatical Phi wording |
+| a comma around direct address | a separate `kona` phrase |
+| capitals on names | `ne` before a Phi-form proper designation in the neutral register |
+| commas at clause boundaries | the particular relator, closer, conjunction, or sentence boundary required by the construction |
+| `!` for several different effects | words and delivery chosen for the intended meaning; there is no general Phi equivalent |
+| `.` at sentence-end | the period |
 
 ### Pauses are free
 
-No pause can change a Phi sentence's meaning: the words carry every distinction, so the breath carries none. This is why nothing like an ellipsis or a dash exists to write: a pause is the speaker's own, to spend on emphasis, on thought, on the garden being loud, and the page has no business recording it. Recitation style (the texts, the metta above all) leans on this hard: breathe wherever the practice wants, and nothing breaks.
+A pause can give someone time to breathe, think, or let a line settle. It can also carry feeling. What it cannot do is alter a Phi sentence's grammatical structure or propositional meaning. A hesitation therefore needs no ellipsis, and an expressive pause needs no dash. The same sentence may be read with different rhythms without becoming a different sentence.
 
-### Every mode can say a word
+### Every Phi mode carries the words
 
-The deeper reason is the one the Letters ruling gave for capitals (the naming pamphlet, part 6): romanization is one writing mode among peers, and Phi meaning may depend only on signals every mode can carry. A *word* is the mark every mode shares. Exact source material remains outside the Phi passage, where its own medium may preserve marks that Phi writing modes do not share.
+Romanization, Tengwar, and the developing glyph mode can all represent canonical Phi words. Latin case and the punctuation of another writing system do not meet that test. Source material stays outside the Phi passage, where its own medium can preserve those details without asking Phi syntax to contain them.
 
-### Drill: name the silent marks
+### Practice: identify the spoken work
 
-For each Phi line, say aloud which silent marks its English translation will need, then translate and check yourself.
+For each line, identify the form that tells you how to parse it. Then give a natural English rendering.
 
 ```
 1. wa lo thia so shua.
@@ -45,4 +46,4 @@ For each Phi line, say aloud which silent marks its English translation will nee
 4. ne thinoe shola muila theula howela sholo to haolu.
 ```
 
-Answers: 1. a question mark: *Will you all come?* 2. a comma and a capital: *sulae — welcome.* (the name stays lowercase even in English; only the dash and the pause-comma are English's). 3. a comma after the if-clause: *If rain falls, we sit at home.* Note Phi spent a period there, its one mark, where English spends its busiest one. 4. a colon, two quotation marks, and a capital: *thinoe said: "The earth receives all."* Four silent marks in one translation; the Phi line said all four.
+Answers: 1. `wa` makes a direct yes-or-no question: "Will you all come?" 2. `kona` marks direct address and `ne` marks sulae as a name: "sulae, welcome." Phi's project convention keeps the Phi name lowercase even in English narration. 3. `lu` opens a condition that ends with its own period: "If rain falls, we sit at home." 4. `ne` identifies thinoe as the speaker's name, while `shola ... sholo` bounds her exact Phi words: "thinoe said, 'The earth receives all.'"
