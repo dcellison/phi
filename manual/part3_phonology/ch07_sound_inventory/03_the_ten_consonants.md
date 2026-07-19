@@ -1,83 +1,57 @@
-# The ten consonants
+# The ten single-letter consonants
 
-## Simple and clear
+Phi writes ten consonants with one roman letter each: **m, n, p, t, k, l, r, s, h, w**. The four consonant digraphs come on the next page. Keeping the groups separate matters for spelling, not for rank; `sh` is as much one consonant sound as `s` is.
 
-Phi uses ten basic consonants: **m, n, p, t, k, l, r, s, h, w**. Each was chosen for its cross-linguistic frequency and ease of production. If vowels provide the soul of Phi's words, consonants provide their structure and guide the flow of breath into recognizable shapes.
-
-| Consonant | IPA | Type | English example |
-|-----------|-----|------|-----------------|
-| m | /m/ | nasal | "mother" |
-| n | /n̪/ | nasal (dental) | softer than English |
-| p | /p/ | stop | "spin" (unaspirated) |
-| t | /t̪/ | stop (dental) | softer than English |
-| k | /k/ | stop | "skin" (unaspirated) |
-| l | /l/ | liquid | "light" |
-| r | /r/ or /ɾ/ | liquid | Spanish "pero" or "perro" |
-| s | /s/ | fricative | "see" |
-| h | /h/ | fricative | "hat" |
-| w | /w/ | glide | "water" |
+| Consonant | Reference IPA | Type | Useful approach |
+|-----------|---------------|------|-----------------|
+| m | /m/ | nasal | English "mother" |
+| n | /n̪/ | dental nasal | tongue at the back of the upper teeth |
+| p | /p/ | stop | English "spin", with little aspiration |
+| t | /t̪/ | dental stop | tongue at the back of the upper teeth |
+| k | /k/ | stop | English "skin", with little aspiration |
+| l | /l/ | lateral | English "light" |
+| r | /r/ or /ɾ/ | trill or tap | Spanish *perro* or *pero* |
+| s | /s/ | fricative | English "see" |
+| h | /h/ | fricative | English "hat" |
+| w | /w/ | approximant | English "water" |
 
 ## The stops: p, t, k
 
-The stops create brief, clean moments of closure before releasing breath.
+A stop briefly closes the vocal tract and then releases it. **P** /p/ closes at the lips. **T** /t̪/ places the tongue tip against the back of the upper teeth. **K** /k/ closes farther back, where the tongue meets the soft palate.
 
-**P** /p/ closes the lips completely, then releases with a gentle burst. In Phi, this should be unaspirated, meaning without the puff of air that follows English "pin." Aim for the "p" in "spin" instead.
+The careful reference stops are unaspirated. Put a hand near the mouth while comparing the `p` in English "pin" with the `p` in "spin"; the second has much less of a following puff. Light aspiration from a speaker's accent is accepted in conversational Phi because aspiration distinguishes no words.
 
-**T** /t̪/ is **dental** in Phi. Place your tongue tip against the back of your upper teeth, not the ridge behind them as in English. This creates a softer, more delicate sound. Many Romance languages use this dental position.
-
-**K** /k/ raises the back of your tongue to touch the soft palate, stops airflow, then releases. Like **p**, keep it unaspirated. Aim for the "k" in "skin" rather than "kin."
-
-**Practice words:**
 - `wepu` /ˈwe̞.pu/ (go)
-- `thomari` /θo̞.ˈmä.ri/ (courage)
-- `shelomu` /ʃe̞.ˈlo̞.mu/ (understand)
+- `tomi` /ˈt̪o̞.mi/ (pot)
+- `kati` /ˈkä.t̪i/ (cut)
 
 ## The nasals: m and n
 
-Nasals redirect breath through the nose while closing the mouth, creating warm, resonant sounds.
+For **m** /m/, close the lips while voice and air continue through the nose. For **n** /n̪/, make the same kind of nasal sound with the tongue at the back of the upper teeth. The dental placement is the careful target; alveolar [n], made on the ridge just behind the teeth, remains an accepted accent variant.
 
-**M** /m/ closes the lips (like **p**) but allows sound to resonate through the nasal passage. This produces the gentle hum of words like `mia` (I) and `lumani` (family).
-
-**N** /n̪/ follows Phi's dental pattern. Touch your tongue tip to the back of your upper teeth, not the alveolar ridge. This makes **n** softer than its English counterpart.
-
-**Practice words:**
 - `mia` /ˈmi.ä/ (I)
 - `lumani` /lu.ˈmä.n̪i/ (family)
 - `nulae` /n̪u.ˈlä.e̞/ (sleep)
 
 ## The liquids: l and r
 
-Liquids shape breath into flowing streams rather than stopping or narrowing it.
+For **l** /l/, touch the tongue to the ridge behind the upper teeth and let air pass along its sides. For the reference **r**, use either a trill /r/, with repeated contact at that ridge, or a tap /ɾ/, with one quick contact. Both belong to careful Phi. Conversational [ɹ], familiar from many English accents, is accepted as well.
 
-**L** /l/ places the tongue tip on the ridge behind the teeth while air flows past both sides. This lateral release creates the smooth quality heard in `lothea` (love) and `shelira` (forest).
-
-**R** offers flexibility. You can produce it two ways:
-
-1. **Trilled** /r/: vibrate your tongue tip against the alveolar ridge, like Spanish *perro*
-2. **Tapped** /ɾ/: a single quick touch in the same position, like Spanish *pero* or American "water"
-
-Both pronunciations are equally correct. Choose whichever feels more natural.
-
-**Practice words:**
 - `lothea` /lo̞.ˈθe̞.ä/ (love)
 - `shelira` /ʃe̞.ˈli.rä/ (forest)
 - `shiro` /ˈʃi.ro̞/ (tree)
 
-## The sibilant and breath: s and h
+## The fricatives: s and h
 
-**S** /s/ channels air through a narrow groove in the tongue toward the teeth, creating a crisp hissing sound. Keep it sharp and clear.
+For **s** /s/, direct air along a narrow groove toward the teeth. For **h** /h/, let unvoiced air pass through the open mouth as the following vowel takes shape.
 
-**H** /h/ is pure breath with no obstruction. The sound signals the beginning of a word without shaping it, simply the audible texture of air passing through an open throat.
+- `sileta` /si.ˈle̞.t̪ä/ (sun)
+- `haolu` /hä.ˈo̞.lu/ (speak)
 
-**Practice words:**
-- `shea` /ˈʃe̞.ä/ (peace)
-- `womu` /ˈwo̞.mu/ (home)
+## The approximant: w
 
-## The glide: w
+For **w** /w/, round the lips and raise the back of the tongue, then move directly into the vowel. It is voiced, which will matter when the next page sets it beside `wh`.
 
-**W** /w/ rounds the lips while raising the back of the tongue, creating a warm, flowing transition into the following vowel. This sound bridges consonant and vowel qualities, carrying words forward with gentle momentum.
-
-**Practice words:**
 - `welao` /we̞.ˈlä.o̞/ (good)
 - `womu` /ˈwo̞.mu/ (home)
 - `wepu` /ˈwe̞.pu/ (go)

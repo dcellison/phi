@@ -1,18 +1,10 @@
 # The golden rule
 
-## Vowel hiatus: Phi's distinctive feature
+## Two vowels, two syllables
 
-If you learn nothing else about Phi pronunciation, learn this: **adjacent vowels never merge**. This principle, called vowel hiatus, defines Phi's sonic character more than any other feature.
+The final two letters of `shea` are neighbours on the page and separate syllables in the mouth: *she.a*. Finish the `e`, move directly to `a`, and let both remain audible. There is no required silence between them and no consonant hiding at the boundary.
 
-In most languages, when two vowels meet, they blend. English "coin" merges two vowel sounds into one syllable. Spanish allows diphthongs like "bueno" where vowels glide together. Phi forbids this entirely.
-
-Every vowel in Phi gets its own syllable. Every vowel maintains its individual character. The space between vowels isn't silence; it's space the sound needs, giving each element room to breathe.
-
-## The principle of syllabic independence
-
-When you see two vowels in a row in Phi, pronounce them as two separate syllables with a clean break between them. No blending. No gliding.
-
-Use a dot to visualize syllable breaks:
+This is vowel hiatus. Languages handle adjacent vowels in many ways, and some use both hiatus and diphthongs. Phi makes the rule categorical: **adjacent vowels never merge into one syllable**.
 
 | Word | Syllables | Count |
 |------|-----------|-------|
@@ -21,42 +13,28 @@ Use a dot to visualize syllable breaks:
 | `nulae` (sleep) | nu.la.e | 3 |
 | `welao` (good) | we.la.o | 3 |
 
-The pause between vowels should be small but definite, just enough to maintain distinctness without creating awkward interruption.
+The boundary can be brief. At conversational tempo, the vowels may shorten and the movement between them may become quick, but a listener should still recover two vowel qualities and two syllables.
 
-## Why hiatus matters
+## Why the boundary matters
 
-This rule reflects Phi's commitment to clarity and transparency. Blending would compromise that integrity.
+Hiatus fixes the syllable count used for stress and word shape. `lothea` has three syllables, so stress falls on `the`; treating its final `ea` as one glide would move the stress and alter the canonical form. The rule also lets the romanization and Tengwar mode encode the same vowel sequence without guessing how a pair should be read.
 
+The dot in *lo.the.a* is a teaching mark. It shows where the syllables meet but does not belong in ordinary Phi spelling.
 
-Consider `lothea` (love), pronounced `lo.the.a`. Its last two syllables meet at a vowel border: the **e** of `the` and the open **a**, each sounded fully, with a clean break between them. That break is the hiatus: small, deliberate, and never smoothed over.
+## Finding the movement
 
-## Practical strategies
+At first, lengthen the two vowels enough to hear both targets. In `shea`, hold `e`, then move the tongue and jaw to `a` without inserting a pause. Let the transition grow shorter as it becomes familiar.
 
-The best approach is deliberate exaggeration followed by gradual naturalization:
+The same method works through longer routes:
 
-1. **Start slow**: pronounce each syllable distinctly, with clear pauses
-2. **Feel the transitions**: notice how your mouth moves between vowel positions
-3. **Speed up gradually**: maintain separation while increasing tempo
-4. **Listen to yourself**: record and verify that vowels remain distinct
+- `welao` (*we.la.o*) moves from front `e` to central `a`, then to rounded `o`.
+- `nulae` (*nu.la.e*) moves from rounded `u` through `a` to front `e`.
+- `lothea` (*lo.the.a*) keeps its final `e.a` as two syllables under one smooth movement.
 
-Practice with vowel-heavy words:
+Record a few attempts if hearing the boundary from inside the word proves difficult. The recording is evidence about one attempt, not a verdict on the speaker's accent.
 
-- `welao` (we.la.o): from mid-front **e** through open **a** to mid-back **o**
-- `nulae` (nu.la.e): from high-back **u** through open **a** to mid-front **e**
-- `lothea` (lo.the.a): the hiatus is **e** meeting **a**, two vowels, two syllables, one clean break
+## No third consecutive vowel
 
-The key is thinking of each vowel as having its own complete moment before the next begins.
+Phi permits a pair of adjacent vowels but never a sequence of three or more. The hypothetical *maou* would have three consecutive vowels and is therefore not a possible Phi form. A consonant onset must follow a vowel pair before another vowel can appear.
 
-## The three-vowel constraint
-
-A consequence of hiatus is that Phi forbids three or more consecutive vowels. Three vowels in a row would blur into one another, so the language forbids the sequence outright: no word contains three consecutive vowels.
-
-A hypothetical word like *naoui* would require four separate syllables (na.o.u.i), a clumsy cascade without consonant structure. Phi requires that a consonant separate any vowel pair from another vowel.
-
-This constraint ensures that while hiatus adds richness to Phi's sound system, it never compromises ease of pronunciation.
-
-## The sound of peace
-
-Vowel hiatus creates Phi's characteristic flowing quality. Words breathe. Syllables don't crowd each other. The language sounds like what it means: spacious, clear, unhurried.
-
-Mastering this rule is pronunciation, not moral achievement. It keeps words recoverable as tempo changes. If the physical attention becomes a cue for mindful speech as well, that is a practice the speaker undertakes.
+The constraint belongs to Phi word formation. Other languages and their speakers are free to pronounce longer vowel sequences; this sound system simply does not build words from them.

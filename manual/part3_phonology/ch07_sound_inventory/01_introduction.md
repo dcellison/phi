@@ -1,9 +1,9 @@
-# A limited palette, infinite expression
+# Nineteen sounds
 
-Phi's entire sound system is nineteen phonemes: ten consonants, four fricative digraphs, five vowels. That is a small palette by any standard (English uses around forty-four), and the smallness is the design.
+Say *shea* aloud. The word begins with one consonant, `sh`, then moves through two separate vowels: *she.a*. Its four roman letters record three phonemes and two syllables. That small example contains most of what this chapter needs to teach.
 
-Most of the nineteen are among the most common speech sounds on Earth. If you speak Spanish, Japanese, Italian, or Swahili, nearly everything in this chapter will feel familiar on the first day; if you speak English, German, or Mandarin, a few sounds ask for small adjustments. The four fricatives are the deliberate exception: rarer sounds, kept for their breath-like character rather than their universality, and the one place the inventory will ask you for real practice.
+Phi has nineteen phonemes: five vowels and fourteen consonants. Ten consonants use one roman letter each. The other four use the digraphs `ph`, `th`, `sh`, and `wh`, but each digraph is still one sound and one syllable onset.
 
-What makes Phi sound like Phi is not any individual sound but the combining rules: pure vowels that never glide, syllables that always end open, adjacent vowels kept separate, breathy fricatives reserved for abstract ideas, stress always on the second-to-last syllable. Common ingredients, uncommon recipe.
+The inventory is compact enough to fit on two tables, though the effort will not be evenly shared. The vowels and several consonants occur widely across languages; `/ɸ/`, `/θ/`, and `/ʍ/` may take practice. Chapter 7 gives one careful pronunciation to work from, and the final page records the accent variants Phi already accepts.
 
-Mastering the sounds takes attention rather than talent: noticing the shape of your mouth, the position of your tongue, the flow of your breath. That attention is not a chore on the way to the language. In a language built for mindfulness, it is the first exercise.
+The combining rules do much of the audible work. Syllables end in vowels, adjacent vowels stay in separate syllables, and stress falls on the penultimate syllable. These rules cannot make an utterance thoughtful. They give the speaker a physical place to notice it; what happens there is still the speaker's work.

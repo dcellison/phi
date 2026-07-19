@@ -2,134 +2,114 @@
 
 ## Hearing and speaking Phi
 
-These exercises develop both perception and production. Work through them in order, and return to earlier exercises as you advance.
+These exercises move from isolated positions to a short scene. The numbers give one route through them, but a stubborn contrast is reason enough to turn back a page.
 
-## Exercise 1: Vowel purity
+## Exercise 1: Vowel targets
 
-Practice the five vowels in isolation, holding each for 3-4 seconds:
+Say the five vowels in order and hold each long enough to hear whether it stays near one quality:
 
-**a** ... **e** ... **i** ... **o** ... **u**
+**a ... e ... i ... o ... u**
 
-Now reverse:
+Then reverse them:
 
-**u** ... **o** ... **i** ... **e** ... **a**
+**u ... o ... i ... e ... a**
 
-Check yourself:
-- Is each vowel stable throughout?
-- Are you gliding between positions?
-- Can you freeze your mouth in each position?
+Notice the jaw opening for `a`, the unrounded front position of `e` and `i`, and the rounded back position of `o` and `u`. Keep the attention physical: where the mouth moves and where it settles.
 
-Record and listen. If any vowel shifts during production, practice it individually until stable.
+## Exercise 2: Vowel contrasts
 
-## Exercise 2: Vowel contrast pairs
-
-Read each pair aloud and emphasize the difference:
+Read each pair aloud and make the difference easy to hear:
 
 | Pair | Focus |
 |------|-------|
-| a - e | open vs. mid-front |
-| e - i | mid-front vs. high-front |
-| a - o | open vs. mid-back |
-| o - u | mid-back vs. high-back |
-| i - u | front vs. back (both high) |
+| a / e | open central / mid front |
+| e / i | mid front / high front |
+| a / o | open central / rounded mid back |
+| o / u | mid back / high back |
+| i / u | unrounded front / rounded back |
 
-Create minimal pairs by combining with consonants:
-- ma - me - mi - mo - mu
-- la - le - li - lo - lu
-- sha - she - shi - sho - shu
+Now compare the opening syllables of `lawe`, `lepa`, `lioru`, `lothea`, and `lumani`. Each is a Phi word, and the shared `l` lets the first vowel do the changing.
 
-## Exercise 3: Hiatus practice
+## Exercise 3: Hiatus
 
-Read these words slowly, maintaining clear separation between adjacent vowels:
+Read these words at a teaching pace. Keep adjacent vowels in separate syllables:
 
 | Word | Syllables | Meaning |
 |------|-----------|---------|
-| shea | she.a | peace |
-| lothea | lo.the.a | love |
-| nulae | nu.la.e | sleep |
-| welao | we.la.o | good |
+| `shea` | she.a | peace |
+| `lothea` | lo.the.a | love |
+| `nulae` | nu.la.e | sleep |
+| `welao` | we.la.o | good |
 
-Now read them at natural speed while maintaining separation. The break between vowels should be small but perceptible.
+Repeat them at an ordinary conversational pace. Shorten the movement without losing either vowel.
 
-**Advanced**: create sentences using multiple hiatus words and maintain clarity throughout.
+## Exercise 4: Consonant positions
 
-## Exercise 4: Consonant refinement
+Compare the English word with the Phi word. Pay attention to the named contact:
 
-Practice these consonant contrasts:
+| Contrast | English side | Phi side |
+|----------|--------------|----------|
+| alveolar / dental n | "no" | the opening of `nulae` |
+| alveolar / dental t | "two" | the opening of `tomi` |
+| aspirated / unaspirated p | "pin" | the `p` in `wepu` |
+| aspirated / unaspirated k | "kin" | the `k` in `kati` |
+| lip and teeth / two lips | "file" | the `ph` in `phiro` |
 
-**Dental vs. alveolar** (tongue position):
-- English "no" vs. Phi `no` (dental)
-- English "to" vs. Phi `to` (dental)
-
-**Aspirated vs. unaspirated** (breath control):
-- English "pin" vs. Phi `pi` (unaspirated)
-- English "tin" vs. Phi `ti` (unaspirated)
-
-**ph vs. f** (lips only):
-- English "file" (teeth + lip) vs. Phi `phe` (lips only)
+The right column gives the careful reference. An accepted conversational variant may bring some of the left column back.
 
 ## Exercise 5: Fricative digraphs
 
-Practice each digraph in isolation, then in words:
+Practise each digraph in words:
 
-| Digraph | Isolation | Word practice |
-|---------|-----------|---------------|
-| ph | /ɸ/ (blow through lips) | phiro, nophi |
-| th | /θ/ (tongue between teeth) | thomari, thesua |
-| sh | /ʃ/ (tongue raised to palate) | shea, shiro, shelira |
-| wh | /ʍ/ (whispered w) | *whemura*, *whelani*, *whunei* |
+| Digraph | Physical focus | Words |
+|---------|----------------|-------|
+| ph /ɸ/ | air between the lips | `phiro`, `nophi` |
+| th /θ/ | air at the teeth | `thomari`, `thesua` |
+| sh /ʃ/ | broad channel behind the tooth ridge | `shea`, `shiro`, `shelira` |
+| wh /ʍ/ | rounded lips without voice | `whemura`, `whelani`, `whunei` |
 
-Focus on keeping all four voiceless. Place your hand on your throat; you should feel no vibration.
+Place a hand lightly on the throat. The fricative itself is unvoiced in the reference pronunciation; vibration begins when the following vowel begins.
 
-## Exercise 6: Stress patterns
+## Exercise 6: Stress
 
-Mark stress on these words, then read aloud:
+Mark the penultimate syllable before reading each word aloud:
 
 | Word | Syllable count | Stress |
 |------|----------------|--------|
-| mia | 2 | MI-a |
-| shiro | 2 | SHI-ro |
-| lothea | 3 | lo-THE-a |
-| lumani | 3 | lu-MA-ni |
-| mioru | 3 | mi-O-ru |
-| shelomu | 3 | she-LO-mu |
+| `mia` | 2 | **mi**-a |
+| `shiro` | 2 | **shi**-ro |
+| `lothea` | 3 | lo-**the**-a |
+| `lumani` | 3 | lu-**ma**-ni |
+| `mioru` | 3 | mi-**o**-ru |
+| `shelomu` | 3 | she-**lo**-mu |
 
-Read sentences applying consistent penultimate stress:
-- lo mioru shiro (the beautiful tree)
-- mia shelomu (I understand)
+Then read `lo mioru shiro` (the beautiful tree) and `mia thena shelomu` (I understand the thing). Keep the word stress present without giving every stressed syllable equal dramatic weight.
 
 ## Exercise 7: Complete words
 
-Practice these common words with full attention to all features:
+Each word below asks the mouth to coordinate more than one feature:
 
-| Word | IPA | Focus points |
-|------|-----|--------------|
-| shea | /ˈʃe̞.ä/ | sh fricative, hiatus, stress |
-| lothea | /lo̞.ˈθe̞.ä/ | th voiceless, hiatus, stress |
-| welao | /we̞.ˈlä.o̞/ | vowel purity, hiatus, stress |
-| thomari | /θo̞.ˈmä.ri/ | th voiceless, dental n, stress |
-| shelira | /ʃe̞.ˈli.rä/ | sh fricative, r trill/tap, stress |
-| mioru | /mi.ˈo̞.ru/ | nasal opening, hiatus, r trill/tap, stress |
+| Word | IPA | Focus |
+|------|-----|-------|
+| `shea` | /ˈʃe̞.ä/ | `sh`, hiatus, first-syllable stress |
+| `lothea` | /lo̞.ˈθe̞.ä/ | `th`, hiatus, middle stress |
+| `welao` | /we̞.ˈlä.o̞/ | three vowel qualities, hiatus |
+| `thomari` | /θo̞.ˈmä.ri/ | voiceless `th`, tap or trill, middle stress |
+| `shelira` | /ʃe̞.ˈli.rä/ | `sh`, `l`, tap or trill |
+| `mioru` | /mi.ˈo̞.ru/ | `m`, hiatus, tap or trill |
 
-## Exercise 8: Minimal attention
+## Exercise 8: Meaning first
 
-This exercise develops automatic production. Read the following text aloud while focusing on meaning rather than pronunciation:
+Read the short scene aloud while attending to what it says:
 
-> lumani shea phelu. mia lo shelira lothea. lo shiro mioru nai.
+> mia mua shelira thalo. mia mioru shiro nila. mia shea phaelo.
 
-If your pronunciation remains accurate without conscious effort, you're internalizing the system. If errors creep in, return to earlier exercises.
+I walk in the forest. I see a beautiful tree. I feel peace.
 
-## Daily practice routine
+If one sound needs attention, return to its earlier exercise and then read the scene again. Pronunciation practice has done its work when the meaning can lead and the contrasts remain available to a listener.
 
-**5 minutes daily**:
-1. Vowel purity drill (Exercise 1)
-2. Three hiatus words (Exercise 3)
-3. One complete sentence with attention to all features
+## Returning to the exercises
 
-**Weekly review**:
-- Record yourself reading a short text
-- Listen for common pitfalls
-- Note areas needing work
-- Adjust practice accordingly
+At the start of a practice session, choose the contrast your mouth has not yet made ordinary. On another occasion, record a short passage and listen for one feature rather than grading the entire performance at once.
 
-Consistency matters more than duration. Short daily practice builds habits faster than occasional long sessions.
+A recognizable Phi word can still sound like the person saying it. That is the result these exercises are after.
