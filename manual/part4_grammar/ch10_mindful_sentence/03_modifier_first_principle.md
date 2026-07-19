@@ -1,29 +1,31 @@
 # The modifier-first principle
 
-Verb-final order is one case of something larger, and this is the right place to name it, because every chapter after this one leans on it.
+Verb-final order is one instance of Phi's broader organizing principle:
 
-**In Phi, everything that modifies, specifies, or relates comes before what it affects.** Objects before verbs. Adjectives before nouns. Possessors before the possessed. Prepositions before their objects. Particles before the words they mark. Clauses before the nouns they describe. One principle, no exceptions: this is the "announce, then deliver" pattern you will now see at every scale of the language.
+**Everything that modifies, specifies, or relates comes before what it affects.**
 
-A linguist would reach for the term *head-final* here, and would be half right. Head-final languages like Japanese put modifiers before nouns and verbs at the end, but they use postpositions, relators that come *after* their nouns. Phi uses prepositions, because a relator is a modifier too, and modifiers come first. Phi is not head-final or head-initial; it is modifier-first, which is a different and stricter idea. (The full argument lives in `documents/design/modifier_first_philosophy.md`.)
+Objects precede verbs. Descriptors precede nouns and verbs. Possessors precede what is possessed. Prepositions precede their objects. Particles precede their targets. Relative clauses precede the nouns they describe.
 
-## The principle at phrase level
+The project calls this pattern "announce, then deliver." The phrase is a memory aid, not a linguistic claim that every early word is literally an announcement. The more exact typological description is mixed: Phi is predicate-final and modifier-first in many structures, but its prepositions come before their objects. `documents/design/modifier_first_philosophy.md` gives the design argument in full.
 
-Descriptors before what they describe:
+## Inside a phrase
 
-- *welao shelu* — good book
-- *sheloi melu* — many friends
-- *ha thepalu* — this garden
+Descriptors and determiners gather before a noun:
 
-And the verb's own modifiers, the Slot 1 particles, cluster immediately before it, in a fixed order:
+- **welao shelu** — good book
+- **sheloi melu** — many friends
+- **ha thepalu** — this garden
 
-- *phao shelu to theo* — the parent read the book
-- *phao shelu so theo* — the parent will read the book
-- *phao shelu to si theo* — the parent was reading the book
+The verb's particles and manner descriptors precede it too:
 
-The verb itself never changes form. *theo* is *theo* whether the reading happened yesterday, is happening now, or merely might happen; the particles around it carry all of that. Chapters 15 and 16 give tense, aspect, and the modals their full treatment; here it is enough to see the shape: a stable core, dressed in modifiers, all of them announced in advance.
+- **phao shelu to theo** — the parent read the book
+- **phao shelu so theo** — the parent will read the book
+- **phao shelu to si theo** — the parent was reading the book
 
-## Why it earns its keep
+The verb remains **theo** in all three. Tense and aspect are separate words, and their fixed position makes the contrast audible before the action arrives.
 
-The payoff is that Phi never asks a listener to revise. In a language with postpositions, you hear a noun and only afterward learn what role it played; in a language with suffixes, a word's ending rewrites what its beginning meant. In Phi, by the time any element arrives, its relationship to the sentence has already been declared. Listening becomes accumulation instead of correction.
+## What the principle does
 
-The cost is the one you already know from the last section: everything important waits. Phi pays that cost knowingly, every sentence, and calls it patience.
+Modifier-first order gives many relationships an early cue. **mua shelira** identifies a location before the forest enters the sentence; **to si theo** establishes past ongoing time before the act of reading. A listener can build those pieces in one familiar direction.
+
+Ambiguity and revision remain. A noun can have several plausible roles until more of the clause arrives, words can have contextual senses, and a mistaken expectation may still need repair. The principle offers a stable route through the sentence. Learning to walk that route is simpler than being promised that it has no corners.

@@ -1,61 +1,63 @@
 # Deixis: here and there
 
-Deixis refers to words whose meaning depends on the speaker's position in space or time. In Phi, the particles *ha* and *ra* mark proximity and distance.
+Deictic reference depends on a centre: usually the speaker's position, the current time, or the matter under discussion. Phi divides that field into proximal **ha** and distal **ra**.
 
-## ha: here / this (proximal)
+## ha: proximal
 
-The proximal particle *ha* marks something as near the speaker, either physically or conceptually.
+Before a noun, **ha** selects what the speaker treats as near or current:
 
-**ha** — here (as a location)  
-**ha melu** — this friend (near me)  
-**ha philo** — this day (the present day)
+**ha melu** — this friend
 
-**mia ha nai.** — I am here.  
-**ha shiro mioru nai.** — This tree is beautiful.  
+**ha philo** — this day
+
+With **nai**, it supplies the location predicate *here*:
+
+**mia ha nai.** — I am here.
+
+**ha shiro mioru nai.** — This tree is beautiful.
+
 **wa thia ha womu sano.** — Do you know this home?
 
-## ra: there / that (distal)
+The open breath and vowel arrive almost together in **ha**. That immediacy can be a modest whole-word mnemonic for the nearer form.
 
-The distal particle *ra* marks something as far from the speaker.
+## ra: distal
 
-**ra** — there (as a location)  
-**ra melu** — that friend (over there)  
-**ra tomora** — that mountain (in the distance)
+**ra** points beyond the immediate frame:
 
-**shia ra nai.** — They are there.  
-**ra shiro ru whalo nai.** — That tree is very large.  
+**ra melu** — that friend
+
+**ra tomora** — that mountain
+
+With **nai**, it supplies *there*:
+
+**shia ra nai.** — They are there.
+
+**ra shiro ru whalo nai.** — That tree is very large.
+
 **wa thia ra womu sano.** — Do you know that home?
 
-## Using ha and ra
+The tap or trill at the beginning gives **ra** a distinct physical gesture. A learner may hear distance in that movement, but the association belongs to the whole-word mnemonic; **r** itself has no distance.
 
-As noun modifiers, *ha* and *ra* appear directly before the noun they modify:
+## Inside a noun phrase
 
-**mia ha peloru lothea.** — I love this flower.  
-**mia ra peloru lothea.** — I love that flower.
+**ha** and **ra** precede plurality, numerals, focus, and degree:
 
-They can combine with other Slot 2 particles:
+**ha lo melu** — these friends
 
-**ha lo melu** — these friends  
 **ra nu wi shiro** — that second tree
 
-## Spatial and temporal reference
+They do not change for number. The surrounding noun phrase supplies singular or plural reference.
 
-While *ha* and *ra* primarily mark spatial distance, they can extend to temporal reference:
+## Space, time, and discourse
 
-**ha philo** — this day, today  
-**ra philo** — that day (in the past or future)
+The same pair can locate a day, year, or topic:
 
-**ha torua** — this year  
+**ha philo** — this day, today
+
+**ra philo** — that day
+
+**ha torua** — this year
+
 **ra torua** — that year
 
-## No three-way distinction
-
-Some languages distinguish three levels: near the speaker, near the listener, and far from both. Phi uses only two: near (*ha*) and far (*ra*). If finer distinctions are needed, speakers can elaborate with additional locational phrases.
-
-## Sound symbolism
-
-The sounds reinforce the meanings:
-- *ha* begins with an open breath, immediate and present
-- *ra* rolls outward with the *r*; the roll itself is acoustic distance
-
-This phonetic iconicity helps learners remember which particle indicates which distance.
+The deictic system stops at a two-way contrast rather than adding a separate form for something near the listener. A locational phrase names finer distinctions when **ha** and **ra** are insufficient. They draw the first line; the room itself may need a better map.

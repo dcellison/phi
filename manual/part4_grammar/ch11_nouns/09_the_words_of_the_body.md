@@ -119,7 +119,7 @@ Sensations and feelings that are nouns are objects of *phaelo* (feel). The same 
 | *tiphori* | tingling |
 | *wiloru* | dizziness |
 
-This is also the pattern that runs through the journal practice of chapter 23:
+This pattern will also run through the journal practice of chapter 23:
 
 ```
 mia kipona phaelo.
@@ -127,7 +127,7 @@ mia kipona phaelo.
 (I feel pain.)
 ```
 
-A body part locates the feeling with *mua*, standing where preposition phrases stand:
+A body part locates the feeling with *mua* in the ordinary preposition-phrase position:
 
 ```
 mia mua rokai kipona phaelo.
@@ -190,12 +190,12 @@ mia kiparu murase.
 
 ## The healing house
 
-Healing has a family: *nepha* (medicine) is the general word, with *heloa* (remedy), *thelai* (balm), and *wenu* (tonic) beneath it; *theala* (heal) and *talome* (restore) are its verbs, and *theama* (care) and *numelo* (nurture) keep them company.
+Healing has a small base family: *nepha* (medicine), *theala* (heal), *talome* (restore), *theama* (care), and *numelo* (nurture). The Medical and Bodily Care module adds narrower remedies and care relations for speakers who need them.
 
 ```
-heloa mia theala.
-remedy 1SG heal.
-(The remedy heals me.)
+nepha mia theala.
+medicine 1SG heal.
+(The medicine heals me.)
 ```
 
 Recovery ends where it began, in the ordinary words:
@@ -216,6 +216,6 @@ mia towe nai.
 
 ## Unwell, never bad
 
-Phi has no generic *bad*, and the sickroom is where that refusal earns its keep. Things are harmful, broken, or unwell, each a specific, addressable condition. A sick person is *mokela*, a state like weather, not a verdict; the question is *wa thia mokela nai*, and the grammar itself expects the state to pass, the way *mia mokela to nai* (I was sick) already files it in the past.
+The lexicon refuses generic *bad*, and the sickroom shows why a more exact word helps. A person may be *mokela* (sick), a tool *pukeri* (damaged), or an act *peloma* (harmful). These are conditions that can be described and answered, not one verdict spread over everything.
 
-Phi's bedside manner is built into its grammar. It asks where the pain is, hands water to the thirsty, and never once confuses the sick with their sickness.
+Grammar does not provide a bedside manner. It does, however, keep the person as subject in **mia mokela nai** and the pain as an object in **mia kipona phaelo**. A careful speaker can then ask where it hurts, offer water, and listen to the answer without turning the person into the condition.

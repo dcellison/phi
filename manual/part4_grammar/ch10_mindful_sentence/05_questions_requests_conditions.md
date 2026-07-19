@@ -1,32 +1,30 @@
 # Questions, requests, and conditions
 
-The first word of a Phi sentence can declare what the whole sentence is *for*. These are the Slot 0 framing particles: chapter 9 catalogs them; this section is about what framing does to a conversation.
+Slot 0 can label a whole clause before its subject arrives.
 
-*wa thia shelomu.* — Do you understand?
+**wa thia shelomu.** — Do you understand?
 
-The question is announced before it is asked. In English, a question often reveals itself only at the final rising tone: the listener processes a statement and then reinterprets it. In Phi, `wa` settles the matter in the first syllable: what follows is an inquiry, not an assertion. Nothing said afterward can turn out, retroactively, to have been a demand.
+English often marks this question by moving an auxiliary. Phi leaves the statement order untouched and adds **wa**. The first syllable tells the listener that the whole proposition is being asked rather than asserted.
 
 ## Content questions
 
-Asking *what* or *who* needs no `wa` at all. The interrogative word sits exactly where its answer would sit, and its presence alone marks the sentence as a question:
+A content question does not use **wa**. Its interrogative stands exactly where the answer would stand:
 
-*thia hina nila.* — What do you see? (literally: you see *what*, and `hina` stands where the seen thing would stand)
+**thia hina nila.** — What do you see?
 
-*sua shua.* — Who comes?
+**sua shua.** — Who comes?
 
-*thia thela kealo.* — How do you create?
+**thia thela kealo.** — How do you create it?
 
-Seven words cover the questions a life asks: `sua` who, `hina` what, `weno` when, `kua` where, `misa` why, `thela` how, and `wia` how many, which stands before a classifier or noun the way a quantifier does. Each occupies the position of the unknown, so the shape of the question already sketches the shape of its answer. `wa` is for uncertainty about the whole; these are for a gap in the middle, and because the gap-word announces itself, the two never need each other. This is settled canon: the gap-word stands where the answer will.
+Phi has seven interrogatives: **sua** who, **hina** what, **weno** when, **kua** where, **misa** why, **thela** how, and **wia** how many. **wia** precedes a classifier or noun as a quantifier does.
 
-Every system the language owns is askable this way, and the question always previews its answer's shape. Color:
+The same placement works across ordinary topics:
 
 ```
 ha hina welisha nai.
 PROX what color be.
 (What color is this?)
 ```
-
-Age, where `wia` meets the counting of years:
 
 ```
 thia wia torua phelu.
@@ -37,32 +35,32 @@ thia wia torua phelu.
 ```
 mia wi phoi torua phelu.
 1SG two nine-group year hold.
-(I hold eighteen years.)
+(I am eighteen. Literally, I hold eighteen years.)
 ```
 
-Time, place, feeling: `thia weno shua.` (when do you come?), `lohau kua nai.` (where is the dog?), and the healer's `thia kua kipona phaelo.` (where do you feel pain?). Selection, English's "which cup," is `hina` before the noun: what-kind is Phi's honest which.
+**thia weno shua.** asks when someone comes; **lohau kua nai.** asks where the dog is; **thia kua kipona phaelo.** asks where someone feels pain. English "which cup" is **hina noru**, with **hina** asking what kind or selection before the noun. A gap-word and **wa** never share a clause because they ask different kinds of question.
 
-The same holds for the imperative:
+## Directives
 
-*no thepalu naphe.* — Help with the garden.
+**no** marks a directive:
 
-`no` is Phi's imperative marker: there is no verb mutation or clipped special form. It marks a command or request before the clause begins, so a speaker choosing the direct form makes its directive force audible. The particle does not make the request gentle or remove authority from the situation; those remain facts about the people and the context.
+**no thepalu temoe.** — Tend the garden.
 
-Conditions work the same way:
+The grammar covers requests and commands without disguising either as a statement. The listener's practical freedom remains a matter for the people involved. Courtesy can be marked with **pi**.
 
-*lu mia shelu theo…* — If I read the book…
+**pi no thepalu temoe.** — Please tend the garden.
 
-`lu` marks the border between the world as it is and a world under consideration. Everything after it is hypothesis, and everyone knows it from the first breath.
+## Conditions
 
-And politeness, when chosen, comes first of all:
+**lu** introduces a realis condition and gives it its own clause:
 
-*pi no thepalu naphe.* — Please help with the garden.
+**lu mia shelu theo. mia so shelomu.** — If I read the book, I will understand.
 
-The documented combinations put `pi` before the act it softens: *pi no* for gentle requests, *pi wa* for gentle questions.
+**lu** does not turn the consequence into part of the condition. Each clause keeps its own subject, tense, and predicate. **lu he** changes the condition to irrealis when the speaker presents it as imagined or counterfactual.
 
-## A request is not consent
+## A request and an answer
 
-A polite question makes the proposed action visible; it does not supply the other person's answer. Phi names freely and specifically given consent with `lesawi`:
+Polite wording does not supply consent. Phi has a direct verb for a freely given answer to a particular act:
 
 ```
 pi wa mia thia weloni po palo.
@@ -76,10 +74,6 @@ mia ha palo lesawi.
 (I consent to this touch.)
 ```
 
-`lesawi` has a stated scope and may be conditional, withheld, or withdrawn. It is not the same as `nawo` agreement, `kelomi` acceptance, silence, lack of resistance, or another person's `kanuwa` authorization. The word also does not prove that the proposal was understood or that the choice was free from pressure; state the explanation, conditions, alternatives, and withdrawal when they matter.
+**lesawi** belongs to the act named, with whatever conditions the person states, and it can be withheld or withdrawn. Agreement with an explanation, another person's authorization, and silence are different facts. The question makes room for an answer; the answer is still the speaker's own act.
 
-## What framing buys
-
-The pattern across all four is the same trade Phi makes elsewhere: a speaker can declare clause type up front, so less of that work is left to tone alone. A marked question, directive, or condition is labelled before its content arrives.
-
-That transparency does not abolish implication. Phi speakers can still hint, evade, flatter, or misuse a polite form; a language cannot confiscate subtext at the border. The marked forms offer a direct route when clarity matters. Right Speech begins with choosing that route honestly, not with mistaking a particle for consent or goodwill.
+Framing makes clause type audible early. It cannot make a directive harmless or a question sincere. What it can do is leave fewer excuses for pretending that an assertion was only a question, or that politeness was permission.

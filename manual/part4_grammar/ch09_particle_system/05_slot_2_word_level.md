@@ -1,165 +1,111 @@
-# Slot 2: Refining words
+# Slot 2: refining a constituent
 
-Slot 2 particles attach to individual words rather than modifying the entire sentence or verb phrase. They appear immediately before the word they modify.
+Slot 2 particles do not gather in one sentence-wide block. Each stands immediately before the word or phrase whose reference it changes.
 
-## lo: Plural
+## lo: unquantified plural
 
-The particle *lo* marks a noun as plural when no specific quantity is given.
+**lo** marks more than one when no numeral or quantifier supplies quantity.
 
-**lo melu** — friends  
-**lo shiro** — trees  
-**lo miona** — people
+**lo melu** — friends
 
-**mia lo melu lothea.** — I love (my) friends.
+**lo shiro** — trees
 
-**Important:** When a numeral or quantifier is present, *lo* is not used. The number itself implies plurality:
+**mia lo melu lothea.** — I love my friends.
 
-**wi melu** — two friends (not *lo wi melu*)  
-**ta shao shiro** — three trees  
-**sheloi miona** — many people
+A numeral or quantifier replaces **lo**: **wi melu** is two friends, **ta shao shiro** is three trees, and **sheloi miona** is many people. Forms such as *lo wi melu* say the quantity twice and are not grammatical.
 
-Use *lo* for unquantified plurals; omit it when a number appears.
+## nu: ordinal position
 
-## nu: Ordinal
+**nu** turns a cardinal numeral into a position.
 
-The particle *nu* turns a cardinal number into an ordinal: it marks position rather than quantity.
+**nu ta lopia** — the first child
 
-**nu ta** — first  
-**nu wi** — second  
-**nu ta shao** — third
+**nu wi philo** — the second day
 
-**nu ta lopia shua.** — The first child arrives.  
-**ha nu wi philo nai.** — This is the second day.
+**nu** comes before the whole numeral, including a compound one: **nu ta shao philo** is the third day.
 
-## ko: Focus
+## ko: focus
 
-The particle *ko* draws attention to one specific element.
+**ko** marks the constituent selected for contrast or correction.
 
-**mia ko lothea sano.** — I know *love* (specifically, not other things).  
-**ko mia thia nila.** — *I* see you (not someone else).
+**ko mia thia nila.** — I am the one who sees you.
 
-Focus is useful for contrast and clarification. It answers the implied question "which one?" by picking out the relevant element.
+**mia ko lothea sano.** — Love is the thing I know.
 
-## mo: Comparative
+Focus points to the contrasted element. Context supplies the alternatives; **ko** does not have to list them.
 
-The particle *mo* forms comparatives, equivalent to English "-er" or "more."
+## mo and mo ko: comparison
 
-**mo welao** — better (more good)  
-**mo mioru** — more beautiful  
-**mo thiku** — smaller
+**mo** forms a comparative quality. A phrase with **sheo** names the standard of comparison.
 
-To express what something is being compared to, use the preposition *sheo* ("than"):
+**thepalu sheo shelira mo mioru nai.** — The garden is more beautiful than the forest.
 
-**thepalu sheo shelira mo mioru nai.**  
-*garden THAN forest CMPR beautiful be*  
-"The garden is more beautiful than the forest."
+The fixed pair **mo ko** forms a superlative:
 
-## mo ko: Superlative
+**ha thepalu mo ko mioru nai.** — This garden is the most beautiful.
 
-Combining *mo* with the focus particle *ko* creates the superlative, equivalent to "-est" or "most."
+Comparison states a relation. Greater size, speed, or beauty carries no extra worth with it.
 
-**mo ko welao** — best  
-**mo ko mioru** — most beautiful  
+## ha and ra: proximal and distal
 
-**ha thepalu mo ko mioru nai.**  
-*PROX garden CMPR FOC beautiful be*  
-"This garden is the most beautiful."
+**ha** locates a referent near the speaker or discourse centre; **ra** locates it farther away.
 
-## ha: Proximal (this)
+**ha melu** — this friend
 
-The particle *ha* marks something as near the speaker, equivalent to "this" or "these."
+**ra melu** — that friend
 
-**ha melu** — this friend  
-**ha philo** — this day  
-**ha womu** — this home
+The same particles can be locative predicates with **nai**: **mia ha nai.** means "I am here," and **shia ra nai.** means "They are there."
 
-**mia ha shiro lothea.** — I love this tree.
+## ru: intensity
 
-## ra: Distal (that)
+**ru** increases the degree of the following quality or action.
 
-The particle *ra* marks something as far from the speaker, equivalent to "that" or "those."
+**ru mioru** — very beautiful
 
-**ra melu** — that friend  
-**ra tomora** — that mountain
-**ra philo** — that day
-
-**wa thia ra womu sano.** — Do you know that home?
-
-## ru: Intensity
-
-The particle *ru* intensifies adjectives and verbs, equivalent to "very" or "really."
-
-**ru mioru** — very beautiful  
-**ru welao** — very good  
 **ru thiku** — very small
 
 **ha peloru ru mioru nai.** — This flower is very beautiful.
 
-## we: Additive
+Intensity is not comparison. **ru mioru** strengthens one description; **mo mioru** compares it with another.
 
-The particle *we* marks the following element as added to what came before: "also," "too."
+## we and li: addition and restriction
 
-**we lohau wile.** — The dog plays too.  
-**ne siora we shua.** — siora comes too.
+**we** adds a constituent to what the discourse has already established:
 
-*we* stands before the constituent it adds: the new subject, or the repeated verb once the newcomer has been named. Chapter 17 §4 gives it a full treatment beside the conjunctions.
+**we lohau wile.** — The dog plays too.
 
-## li: Restrictive
+**li** restricts the claim to the constituent it marks:
 
-The particle *li* restricts reference to the element it precedes: "only." It is a fence around identity (who, which, when), never a sigh over quantity.
+**li shia sano.** — Only they know.
 
-**li shia sano.** — Only they know.  
-**li ne sulae ruela sano.** — Only sulae knows the path.
+**li** restricts identity, not quantity. "Only three eggs" is stated as the exact count, or as a shortfall with **henoi ma nai** when insufficiency is the point. **we** and **li** do not stack on the same phrase.
 
-Quantity-restriction is not *li*'s job: "only three eggs" is a count plus a feeling, and Phi states the count (`ta shao lipha powea`) or the honest shortfall (`henoi ma nai`). Canon rules it: *li is a fence, not a sigh*.
+## ne: name
 
-## Proper names
+**ne** licenses the following atom as a proper designation:
 
-The particle `ne` marks the following token as a proper name so it is not interpreted as vocabulary. The token may be a listed content word or a productive Phi-form name:
+**ne keruko** — keruko, a listed content word borne as a name
 
-**ne keruko** — keruko (a person's name)
-**ne samira** — samira (a productive name-form, not a lexicon word)
-**mia ne sulae nila.** — I see sulae.
+**ne samira** — samira, a productive name-form without a lexicon meaning
 
-A productive name-form is one lowercase token of two, three, or four legal Phi syllables. It follows the sound rules, including the ban on duplicated syllables that have an onset, but it needs no dictionary entry and receives no lexical meaning. If the form matches a current lexicon entry, that entry must be a content word. Forms absent from the current lexicon follow the same charter without a history check. A preferred name with five or more syllables, multiple tokens, a non-Phi shape, or dependence on another script remains outside the Phi passage unless its bearer or naming community accepts a valid onym. Check a proposed form with `python3 scripts/validate_examples.py name FORM`.
+A productive onym is one lowercase token of two, three, or four legal Phi syllables. It follows ordinary phonotactics and does not duplicate a syllable that has an onset. A current lexicon form may be used as a name only when it is a content word. An unlisted form needs no historical check, and a four-syllable onym needs no special registry. The validator checks candidates with `python3 scripts/validate_examples.py name FORM`.
 
-Formal and neutral speech keep `ne` at every mention. Once a referent is established, conversational speech may omit it while reference remains unambiguous; keeping it is always correct. When an honorific is present, established conversational speech may let the honorific carry the name expectation. When `ne` is used, it precedes the honorific.
+Formal and neutral Phi keeps **ne** at every mention. Conversation may omit it after the referent is established and while reference remains clear. A source name that does not fit the onym charter stays outside the Phi passage unless the bearer or naming community accepts an adapted Phi-form name.
 
 ## Honorifics
 
-Honorific particles appear before names and mark the speaker's relationship to the person named. They follow `ne` when present.
+The three honorifics follow **ne** and state the speaker's relationship to the named bearer:
 
-### sa: Respect
+- **sa** marks respect, often toward a mentor or elder.
+- **ni** marks personal closeness.
+- **le** marks regard for a community role.
 
-The respect honorific *sa* marks esteem for a mentor, elder, or person of wisdom.
+**ne sa sulae**, **ne ni moli**, and **ne le siora** name three different relations. None assigns universal rank to the bearer, and a particle cannot prove that the relation is mutual or deserved.
 
-**ne sa sulae** — honored sulae
-**mia ne sa thinoe whaline.** — I thank honored thinoe.
+## Nesting Slot 2
 
-### ni: Intimacy
+Wider scope comes first:
 
-The intimacy honorific *ni* marks closeness with a dear friend or family member.
+**we / li > ha / ra > lo / numeral > ko > ru / mo > word**
 
-**ne ni moli** — dear moli
-**kona ne ni moli. kia.** — Dear moli — hello.
-
-### le: Role
-
-The role honorific *le* marks respect for someone's community function or position.
-
-**ne le siora** — respected siora (in their role)
-**mia ne le siora naphe rinu.** — I want to help siora, in their role.
-
-## Combining Slot 2 particles
-
-Multiple Slot 2 particles can modify the same word, and their order is the modifier-first principle applied inside the phrase: wider relations stand earlier. The cline is fixed:
-
-**we / li > ha / ra > lo / numerals > ko > ru / mo > word**
-
-**ha lo melu** — these friends  
-**ra nu wi shiro** — that second tree  
-**ha mo ko mioru peloru** — this most beautiful flower  
-**we ha melu** — this friend too  
-**li ha lo melu** — only these friends
-
-A phrase carries one discourse relation: *we* and *li* do not stack with each other. The pair micro-orders stand as ruled: `mo ko`, `ne` before any honorific, `nu` before its numeral. Slot 2 particles create precise, layered descriptions while keeping each modification explicit and transparent, and the order costs nothing to learn, because it is announce-then-deliver, one level down.
+This gives **ha lo melu** (these friends), **ra nu wi shiro** (that second tree), **ha mo ko mioru peloru** (this most beautiful flower), and **li ha lo melu** (only these friends). The sequence is learned once, but a crowded phrase still takes effort to hear. When a stack begins to obscure its noun, another sentence is available.

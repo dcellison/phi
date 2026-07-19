@@ -1,18 +1,18 @@
 # The words of color
 
-Phi names seven colors, and each one carries its origin:
+Phi coins seven basic color adjectives:
 
-| Phi | Gloss | The anchor |
-|-----|-------|------------|
-| *nuko* | black | night |
-| *whilo* | white | snow and cloud |
-| *rulo* | red | blood and fire |
-| *liro* | green | leaf and growing things |
-| *soriu* | yellow | the sun |
-| *shilu* | blue | sky and deep water |
-| *mureli* | brown | earth and bark |
+| Phi | Gloss | Natural anchor |
+|---|---|---|
+| **nuko** | black | night |
+| **whilo** | white | snow and cloud |
+| **rulo** | red | blood and fire |
+| **liro** | green | leaves and growing plants |
+| **soriu** | yellow | sunlight |
+| **shilu** | blue | sky and deep water |
+| **mureli** | brown | earth and bark |
 
-They are ordinary adjectives. Before a noun they describe; before *nai* they predicate.
+Before a noun they describe; before **nai** they predicate.
 
 ```
 peloru rulo nai.
@@ -26,13 +26,15 @@ mia shilu waero nila.
 (I see the blue sky.)
 ```
 
-## The palette that stops
+## Why the coined palette stops
 
-Seven, and no more. Languages that coin color words coin them in a nearly fixed order: dark and light first, then red, then green and yellow, then blue, then brown. Phi's seven are exactly that shared sequence, the distinctions every eye makes before any culture has said a word. The next colors in the order (gray, orange, purple, pink) are where cultures begin to disagree, and there Phi stops coining. This is settled canon: no eighth color adjective will be added.
+The seven-word palette follows an influential cross-linguistic sequence often associated with basic color-term research through brown. That research describes recurring patterns, not colors that every person or culture must divide in the same way. Vision, language, materials, and local practice all affect how speakers group hues.
+
+Phi makes a design decision at that boundary: there will be no eighth basic color adjective. Gray, orange, pink, violet, and finer shades keep a visible natural referent instead.
 
 ## Colors from their carriers
 
-The refusal costs nothing, because the grammar already had the rest of the rainbow. Section 5 of this chapter taught that any noun describes from the descriptor position, and *welisha* (color) is a noun like any other. So a referent standing before *welisha* names the color it carries:
+The noun **welisha** means color. A referent before it names the color that referent carries:
 
 ```
 ha liru horathe welisha nai.
@@ -43,14 +45,16 @@ PROX fabric dawn color be.
 ```
 mia kerou welisha waero nila.
 1SG stone color sky see.
-(I see the gray sky.)
+(I see the stone-colored, gray sky.)
 ```
 
-Four of these are canonized in the compound registry: *kerou welisha* (stone color, gray), *thero welisha* (fire color, orange), *horathe welisha* (dawn color, pink), *norawhi welisha* (dusk color, violet). The pattern stays open past the registry: *hesura welisha* (the color of ash), *lunei welisha* (the color of moonlight), whatever shade a sentence needs, provided the referent honestly carries it. Where English hides the orange tree inside the word "orange," Phi keeps the fire visible.
+The compound registry records **kerou welisha** (stone color, gray), **thero welisha** (fire color, orange), **horathe welisha** (dawn color, pink), and **norawhi welisha** (dusk color, violet). The pattern remains productive when another anchor is clearer: **hesura welisha** is ash color, and **lunei welisha** moonlight color.
 
-## Dark, bright, pale
+This method has a cost. It takes more words, and an anchor can vary across places or materials. A speaker choosing **thero welisha** relies on the fire color shared in that conversation; an exact technical color specification stays with its source notation. What the compound gains is a comparison the listener can inspect.
 
-Shades need no new words either. The light adjectives stack before a color the way descriptors always stack:
+## Light and shade
+
+Brightness descriptors stack before a hue:
 
 ```
 phialu nuelo shilu nai.
@@ -58,8 +62,8 @@ water dark blue be.
 (The water is dark blue.)
 ```
 
-So *keru rulo* is bright red and *whilo shilu* is pale blue; white lends its lightness to the hue beside it.
+**keru rulo** is bright red, and **whilo shilu** pale blue.
 
-One near pair is worth keeping straight. *nuko* is a hue: the color a surface wears. *nuelo* is an amount of light: how much of it reaches the scene. A room at dusk is *nuelo* though nothing in it is *nuko*, and a black bowl in full sun is *nuko* and not at all *nuelo*. The entries carve the pair, and the night sentence shows the difference: *nuko shero* praises the night's color, *nuelo shero* reports its darkness.
+Hue stays apart from illumination. **nuko** names black; **nuelo** names darkness or low illumination. A black bowl in full sun remains **nuko** without being **nuelo**, while a white wall at dusk may be **nuelo** without becoming black. One describes the surface color. The other describes the light reaching it.
 
-The day's two ends sit in the registry as colors, *horathe welisha* and *norawhi welisha*, pink and violet, dawn and dusk. Phi tells time by the sky, and it turns out the sky was a paintbox all along.
+Dawn and dusk can therefore tell two stories at once. **horathe welisha** and **norawhi welisha** name colors by the sky, while **horathe** and **norawhi** themselves tell where the day has reached.

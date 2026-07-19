@@ -1,29 +1,21 @@
-# Nouns and their world
+# Nouns and their phrases
 
-## Things and beings
+**shelu**, a book, is the starting point. With **serao** before it, the book is old: **serao shelu**. A possessor comes first, and **ha** points to the one nearby: **mia ha serao shelu**, this old book of mine.
 
-With the mindful sentence's structure in place, we turn to the characters who inhabit it. A sentence is a stage, and a stage is empty without actors. In Phi's grammar, these roles are played by nouns and noun phrases: the words representing people, places, things, and concepts that participate in the action of the verb.
-
-A noun in Phi is rarely a solitary word. The language's structure encourages rich, descriptive clusters that paint a detailed picture of each participant. Before we learn about the book, we learn that it is old, that it is a gift, that it is the *one* book on the table.
-
-This chapter explores the tools Phi provides for building these descriptive clusters: how the language defines its actors with mindful precision.
-
-## The head-final principle in noun phrases
-
-These descriptive clusters follow the same philosophy that shapes the sentence: the head-final principle. Just as the verb, the "head" of the clause, comes at the end, the noun, the "head" of its own phrase, must also come at the end of its descriptive cluster.
-
-This means that any words modifying or describing the noun (adjectives, possessors, quantifiers) must appear *before* it. A speaker of Phi does not describe a book that is beautiful; they first establish the quality of beauty and then present the book to which it applies.
-
-This consistent rule creates a nested rhythm of "context before conclusion," where the listener receives all descriptive details before learning the identity of the thing being described.
+The noun closes the phrase. Under the modifier-first principle already familiar from the verb phrase, everything before it narrows, counts, locates, or describes the referent. A noun can also stand alone when context supplies the rest.
 
 ## The basic pattern
 
-The simplest application of this principle can be seen with adjectives and other descriptors. In Phi, to describe a noun is to first present its quality, then reveal the noun that possesses it.
+The smallest descriptive noun phrase is:
 
-For example, to express "a beautiful garden," a speaker places the adjective `mioru` before the noun `thepalu`. The resulting phrase, `mioru thepalu`, layers the ideas in sequence: first the quality, then the thing itself.
+**[descriptor] [noun]**
 
-This structure applies to all forms of simple description, from color to size to any other attribute. The pattern `[DESCRIPTOR] [NOUN]` is the fundamental building block of the noun phrase: the listener pictures a quality before learning what embodies it.
+**mioru thepalu** means a beautiful garden. The quality comes first; **thepalu** identifies what carries it. More material can gather before the noun, but each addition must have a clear job. A long row of modifiers is grammatical and may still be unkind to working memory.
+
+Noun phrases do more than describe objects. They refer to people, places, living beings, events, qualities, and relationships. Phi uses the same leftward structure across those kinds, while lexical meaning and context distinguish a parent from an old thing or a count from a colour.
 
 ## The chapter ahead
 
-With this foundational pattern established, the sections ahead take up the noun-modifier's main tools in turn: the zero-article system that handles definiteness, the possession construction that treats relationships as another form of description, the determiners and quantifiers that answer "which one?" and "how many?", and finally the optional classifier system, which lets a speaker assign a counted referent to one of four broad categories, alongside the plural particle `lo`.
+The next sections begin with what Phi leaves unmarked: article status and, when context permits, number. They then add explicit plurality, optional classifiers, quantifiers, possession, and the quality-noun rule. The remaining sections tour the base vocabulary of colour, place, bodies, feelings, arts, and exchange.
+
+The tour is not a demand to use every available word. It shows what the phrase can hold. Most conversations will need something closer to **ha shelu** than the entire shelf.

@@ -1,9 +1,9 @@
 # Introduction: the verb comes last
 
-One rule shapes every sentence in Phi: the verb is the final word. Everything else in this chapter, and most of what makes Phi feel like Phi, follows from it.
+**phao shelu theo.** Parent, book, read. The parent and book arrive before **theo** tells us what connects them.
 
-*phao shelu theo.* Parent, book, read. By the time the action arrives, you already know everyone involved. The sentence builds its scene first and names the event last, the way a careful storyteller sets the room before anything happens in it.
+Independent Phi clauses are predicate-final. In an ordinary transitive sentence, that gives Subject-Object-Verb order; in a clause of being, **nai** comes last. The content verb does not change for tense, person, or number. Particles placed before it carry distinctions such as past, ongoing action, or possibility.
 
-This is not decoration. Verb-final order is the sentence-level face of the language's one organizing principle: everything that modifies comes before what it modifies. The next section walks through what it does to the experience of speaking and listening, and the section after that extends the principle from sentences down to phrases. Then come the tools: particles as signposts, the framing words that declare a sentence's purpose, and exercises.
+This order is the sentence-scale form of Phi's modifier-first design. Descriptors precede nouns, prepositions precede their objects, and particles precede what they mark. The pattern is regular, but regularity does not make it effortless. A listener may need to hold several participants and relations before the final verb reveals the event.
 
-Two things are worth knowing before you start. The pattern has no irregular verbs or special cases to memorise, but it does carry a real cost: the speaker and listener hold the participants in mind until the final verb connects them. Familiarity may make the sentence quick; it does not remove that ordering. Phi treats the wait as an occasion to keep the scene present, not as a requirement to prolong it.
+That interval can support a practice of attention. It can also be barely noticeable in fluent speech, and it can burden working memory in a long clause. Phi prescribes the order, not the speed or state of mind with which anyone uses it. This chapter teaches the structure first; what a speaker makes of the moment before the verb belongs to practice, not grammar.

@@ -1,60 +1,31 @@
-# Reported *ti*
+# Reported ti
 
-The particle *ti* marks information as received from another source. The speaker is passing along what they have heard, read, or been told, and honestly acknowledges its secondhand nature.
+**ti** marks information received from another source, whether heard or read.
 
-## Basic usage
+**shia to ti wepu.** — They reportedly left.
 
-**shia to ti wepu.** — They left. (I was told.)  
-**lo miona ti naphe.** — People helped. (I heard.)  
-**ha shelira ti mioru nai.** — This forest is beautiful. (so I'm told.)
+**lo miona to ti naphe.** — People helped, according to a report I received.
 
-With *ti*, the speaker signals that they're reporting information from an external source rather than personal experience or inference.
+**ha shelira ti mioru nai.** — This forest is beautiful, I am told.
 
-## What counts as reportative
+The particle states provenance without preserving exact words and without rating the source. A careful scientific report, a friend's message, and an unverified rumour can all reach the speaker through **ti**. The surrounding account identifies which one.
 
-Reportative evidence includes:
-- What someone told you verbally
-- What you read in a book, article, or message
-- News reports or broadcasts
-- Rumors, gossip, or community knowledge
-- Traditional stories or passed-down information
+## Report and quotation
 
-The common thread is that the information came from outside the speaker's direct experience or reasoning. Someone else is the original source.
+**ti** marks the source of a proposition. The frame **shola ... sholo** encloses exact Phi wording:
 
-## Distinguishing *ti* from quotation
+```
+melu shola mia wepu sholo to haolu.
+friend QUOT.COMP 1SG go QUOT.COMP.CLOSE PST speak.
+(The friend said, "I am leaving.")
+```
 
-The reportative *ti* marks knowledge source. It says "someone told me" without quoting their exact words.
+**shia to ti wepu.** reports that they left without claiming the source's wording. A **mena ... meno** clause can report fuller content when the proposition itself needs to be stated.
 
-**shia to ti wepu.** — They left (I was told).
+## Transmission and responsibility
 
-For direct quotation, use the quotative complementizer *shola*:
+Using **ti** avoids claiming direct witness or personal inference. The speaker still chooses what to repeat. When reliability matters, another clause can name the source, date, document, or chain of transmission, and the exact record remains beside Phi when its identity matters.
 
-**melu shola mia wepu sholo to haolu.** — The friend said "I'm leaving."
+General knowledge need not carry **ti** merely because the speaker learned it from someone. **sileta ru whalo nai.** can be an ordinary assertion that the sun is very large. Reportative marking belongs when received provenance is part of the present claim.
 
-The first reports the content; the second quotes the words. Both involve information from others, but they do different grammatical work.
-
-## The responsibility of transmission
-
-Using *ti* acknowledges a chain of information. You received knowledge from someone else and are passing it on. This creates an implicit responsibility:
-
-- You don't claim to have witnessed what you're reporting
-- You acknowledge the possibility of transmission error
-- You leave room for the original source to be wrong
-
-This honesty serves communication. A listener who hears *ti* knows not to ask "How do you know?" expecting direct evidence. They know the speaker is relaying.
-
-## When to omit *ti*
-
-Not every secondhand claim needs to be marked. For general knowledge or well-established facts, evidential marking may be unnecessary:
-
-**sileta ru whalo nai.** — The sun is very large.
-
-This is technically something you learned from others (unless you measured it yourself), but marking it with *ti* would be odd. Use *ti* for information where the secondhand nature matters.
-
-## Sound and meaning
-
-The *ti* particle is soft and brief: a gentle dental stop followed by a high vowel. The sound suggests transmission, the quick passing of information from one person to another. It's lighter than the crisp *ke* of inference. That fits: passing along a report takes less cognitive work than a deduction.
-
-## Rumor and reliability
-
-Marking something with *ti* doesn't validate or invalidate it. It simply identifies the source type. The information might be perfectly reliable (a trusted friend's eyewitness account) or highly dubious (third-hand gossip). The particle enables honest communication about sourcing without prejudging accuracy.
+For **ti**, the tongue tip makes a dental closure and releases into high front **i**. That brief form is easy to pass along, but the sound makes no promise about how much thought transmission required. The report still belongs to the source and to the person choosing to repeat it.

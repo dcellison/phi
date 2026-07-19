@@ -1,48 +1,50 @@
-# Building your first sentences
+# Building sentences
 
-If the verb waits until the end, how does a listener follow the scene as it assembles? English answers with early verbs. Latin and Japanese answer with case endings and postpositions. Phi answers with two tools that never change shape: word order and particles.
+Phi uses word order for the ordinary clause and particles for marked distinctions. Neither tool changes shape.
 
-## The default path: word order
+## The default path
 
-Without any other instruction, order assigns the roles. First noun phrase: the doer. Second: the done-to. Verb: last.
+In a transitive clause, the first unmarked noun phrase is the subject and the next is the object. The verb closes the clause.
 
-*phao shelu theo.* Because *phao* comes first, the parent reads; because *shelu* comes second, the book is read. No endings, no agreement, no ambiguity: position is the grammar. This single pattern carries the large majority of everything said in Phi.
+**phao shelu theo.** — The parent reads the book.
 
-## Particles as signposts
+Because **phao** comes first, it is the reader. **shelu** stands in the object position, and **theo** states the event. Context can still make a clause unclear, especially after topic-drop or with several noun phrases, but the unmarked roles begin here.
 
-For everything beyond the default, Phi uses particles: small, invariant words with no meaning of their own (you cannot point at a *no* or a *se*) whose job is to stand before another word and label its function.
+## Particles as short instructions
 
-Their shape is part of the design. Every particle is exactly one consonant plus one vowel, and no content word is that short. A listener sorting the speech stream can tell signpost from cargo instantly, by size alone. (Chapter 9 catalogs the full inventory; here we need only two.)
+Every particle is one plain consonant-vowel syllable, and content words cannot take that shape. A listener can therefore recognize a particle without mistaking it for a noun or verb. Chapter 9 gives the closed inventory.
 
-## Reversing the flow: *se*
+Two voice particles show how these instructions alter the default argument structure.
 
-When the story is about the book, not the parent, the passive particle *se* reverses the default:
+## Promoting the patient with se
 
-*shelu se theo.* — The book is read.
+**se** makes the patient the subject:
 
-The affected thing takes first position, *se* stands before the verb to confirm the reversal, and the doer leaves the sentence. One particle, one instruction, no change to any word's form.
+**shelu se theo.** — The book is read.
 
-## Adding an instigator: *ka*
+The reader is absent. That may reflect missing knowledge or a deliberate choice of focus. If the actor matters to responsibility or understanding, an active clause keeps that person visible.
 
-The causative particle *ka* works the other direction: instead of removing a participant, it adds the one who set things in motion:
+## Adding a causer with ka
 
-*phao lopia shelu ka theo.* — The parent has the child read the book.
+**ka** adds the participant who causes another participant to act:
 
-The causer takes subject position, the one who acts moves to object, and *ka* before the verb announces the chain of influence.
+**phao lopia shelu ka theo.** — The parent causes the child to read the book.
 
-## Describing the action: manner
+The causer takes subject position, followed by the causee and the original object. The sentence asserts causation alone. The route may have been an invitation, persuasion, a requirement, or coercion; another clause must say which.
 
-Phi has no separate class of adverbs, and none is needed. The descriptors that characterize nouns also characterize verbs, and they obey the same law: the modifier stands immediately before what it modifies.
+## Manner before the verb
 
-*ta kalora miona to reshi kolua.* — One carried a person, swiftly.
+Descriptors do the work of manner, so Phi needs no adverb class. A descriptor placed immediately before a verb describes how the action proceeds:
 
-The Slot 1 particles keep their ranked place before the whole of it, so the verb phrase takes exactly the shape of the noun phrase: function words first, then descriptors, then the head:
+**mia wiru to reshi kolua.** — I carried the basket quickly.
 
-| | function words | descriptor | head |
+Slot 1 particles remain before the descriptor, so noun and verb phrases share a visible shape:
+
+| Phrase | Function words | Descriptor | Head |
 |---|---|---|---|
-| noun phrase | `ha` | `mioru` | `thepalu` |
-| verb phrase | `to` | `reshi` | `kolua` |
+| noun | **ha** | **mioru** | **thepalu** |
+| verb | **to** | **reshi** | **kolua** |
 
-"This beautiful garden"; "carried swiftly". One shape, two phrases. The same position serves when the description belongs to how something is perceived rather than how it is done: the Velveteen text's `thia ma mioru nila`, "see you as unbeautiful".
+The same position can describe how the object is perceived rather than how the action proceeds: **thia ma mioru nila** means "see you as unbeautiful." The surrounding meaning decides whether the descriptor is manner or a depictive quality.
 
-That is the whole method, and it scales to everything ahead: a reliable default, and explicit, audible instructions for every departure from it. The speaker carries the burden of clarity so the listener never has to guess. Phi considers that a fair division of labor.
+Word order supplies the ordinary roles, particles mark a departure, and the final verb completes the relation. When those cues are still not enough, a second sentence is better than pretending the first one could never be misunderstood.

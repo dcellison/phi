@@ -1,4 +1,4 @@
-# Conscious calculation
+# Calculating aloud
 
 Phi can narrate integer arithmetic with five verbs:
 
@@ -30,6 +30,6 @@ Addition and subtraction require commensurable quantities. If nouns or classifie
 
 In multiplication, the first operand may carry the counted thing while the second is a bare factor; the product inherits the counted thing: *ta shao themo noru nela wi welura. wi shao themo noru kelai.* — Three bowls multiplied by two result in six bowls.
 
-In division, the total carries the thing being portioned, while the second operand may name recipients or groups; the quotient inherits the total's kind. Remainders are stated separately: *ta phoi wi lipha powea nela ta shao himo miona phanoi. ta shao lipha powea kelai. wi lipha powea therilu.* — Eleven eggs portioned among three people result in three eggs each, with two eggs remaining. Phi does not currently define fractional numeral syntax; preserve an exact fractional value in source material when the quotient and remainder do not express what the context needs.
+In division, the total carries the thing being portioned, while the second operand may name recipients or groups; the quotient inherits the total's kind. Remainders are stated separately: *ta phoi wi lipha powea nela ta shao himo miona phanoi. ta shao lipha powea kelai. wi lipha powea therilu.* — Eleven eggs portioned among three people result in three eggs each, with two eggs remaining. Phi does not currently define fractional numeral syntax; an exact fractional value remains in source material when the quotient and remainder do not express what the context needs.
 
-For bare mathematics, omit nouns and classifiers but retain `nela`. These verbs make the selected operation and its metaphor explicit; they do not make a calculation fair, mindful, useful, or correct. Exact notation can preserve arbitrary calculations in source material outside the Phi passage.
+Bare mathematics omits nouns and classifiers but retains `nela`. The verbs identify the selected operation and give it a concrete metaphor. Fairness, usefulness, and correctness remain claims about the quantities, procedure, and result. Exact notation can preserve arbitrary calculations in source material outside the Phi passage.

@@ -1,25 +1,23 @@
 # The particle system
 
-## Transparent signposts
+## A small word before the turn
 
-In many languages, grammatical information hides inside words. English buries tense in verb endings (*walk* becomes *walked*), number in noun plurals (*friend* becomes *friends*), and much else in patterns so automatic that speakers barely notice them. The grammar works, but it works invisibly.
+Two Phi sentences show the difference:
 
-Phi takes a different approach. Every piece of grammatical information is announced by a small, separate word called a particle. These particles appear before whatever they modify and give the listener a transparent signpost for exactly what's coming.
+**mia nila.** — I see.
 
-Consider the difference:
+**mia to ke nila.** — I saw, as I infer from evidence.
 
-**English**: "I might have been being watched."  
-The grammar is tangled inside the verb phrase. To understand the sentence, you must parse five words that fuse together.
+The content word **nila** does not change. Two short words placed before it locate the seeing in the past and identify inference as the speaker's source. Remove them and the sentence returns to an unmarked present assertion.
 
-**Phi**: `mia to si se po nila.`  
-Each grammatical element is a separate particle: past (*to*), ongoing (*si*), passive (*se*), possibility (*po*). You encounter each piece of information before the verb (*nila*, "see") ever arrives.
+Words such as **to** and **ke** are particles. Phi has thirty-five of them, all plain consonant-vowel syllables. Their brief, regular shape makes them easy to distinguish from content words, and their position shows what they affect. A particle does not hide inside a verb ending or ask the verb to change form.
 
-The visibility is the point. When grammar becomes audible, the choices inside it become conscious: is this past or present? Direct knowledge or inference? Certain or merely possible? English lets you speak without ever deciding. Phi's particles put the decisions where you can hear yourself making them: *mia hi nila* ("I see, witnessed") is a different claim from *mia ho nila* ("I see, I assume"), and the difference costs exactly one syllable.
+Particles are only one part of Phi grammar. Word order distinguishes subject from object, prepositions relate phrases, complementizers frame embedded clauses, and other function words do work of their own. The particle system handles three kinds of scope: a whole utterance, a verb phrase, or one constituent.
 
-## Why particles matter
+## What the system asks of a speaker
 
-Everything else the system offers follows from that visibility. Particles never change form, so there is nothing irregular to memorize: hear a particle, know its meaning, always. They also stand before what they modify, so context arrives ahead of content: you know a sentence is a question before you hear what is asked, know an action is past before you learn what happened. They combine in fixed, predictable ways, too, which means learning the individual pieces is learning the whole machine. It is modular grammar, and the modules are one syllable each.
+Separate words make grammatical choices audible. **wa** declares a yes/no question; **to** places an event in the past; **ke** claims an inferential source; **ma** denies the verb. The distinction can therefore be heard without examining an ending or waiting for intonation.
 
-## The three slots
+Audibility is not the same as virtue. A source particle can be used carelessly, a polite particle can cover pressure, and an unmarked statement can be entirely responsible. Phi supplies explicit forms. Attention, truthfulness, and care still belong to the people using them.
 
-Phi organizes its particles into three slots by grammatical scope: the whole sentence, the verb phrase, the single word. The slots always appear in that order. The next section maps the three slots; the sections after it take each slot in turn, and the chapter ends with how particles combine.
+The system also has a learning cost. Particle meanings and ordering must be remembered, especially when several gather before a verb. The three-slot model makes that work finite: Slot 0 frames the utterance, Slot 1 shapes the verb phrase, and Slot 2 attaches to a particular word or phrase. The next five sections take those scopes in order.

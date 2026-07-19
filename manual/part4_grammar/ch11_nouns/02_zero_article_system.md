@@ -1,58 +1,37 @@
 # The zero-article system
 
-Before specifying *which* noun or *how many*, Phi's grammar begins with a philosophical choice: it does not require specification at all. By default, a noun in Phi is unmarked for definiteness. The language is a **zero-article system**, meaning it has no direct equivalents for English "the" or "a/an."
+English **a**, **an**, and **the** have no Phi equivalents. A bare noun leaves definiteness to context.
 
-## Trust in context
+**mia melu nila.** — I see a friend, or I see the friend.
 
-A word like `shelu` (book) on its own can mean "the book" we were just discussing or simply "a book" that has not yet been introduced. The ambiguity is deliberate.
+The clause is present because its verb has no **to**. If the seeing happened in the past, it becomes **mia melu to nila.** The missing article changes only how the friend is identified, not the tense.
 
-Consider English:
+## What context carries
 
-- *"I saw **a** friend."* (indefinite, new information)
-- *"I saw **the** friend."* (definite, shared knowledge)
+A speaker may use **melu** for someone just introduced, someone already under discussion, or someone visible to both participants. The listener follows the discourse and situation rather than an article. Many natural languages handle definiteness without a compulsory article system, so the task is neither exotic nor effortless.
 
-In Phi, both could simply be:
+Context will sometimes fail. A bare noun can remain ambiguous, and two attentive people can still track different referents. When identity matters, the speaker adds information rather than treating the ambiguity as a moral test.
 
-**mia melu nila.**  
-*1SG friend see*  
-"I see/saw (a/the) friend."
+## Pointing with ha and ra
 
-The listener must determine from context whether this is a known friend or a new one. This reflects trust in the listener and in the power of shared context. The language assumes that participants in dialogue are mindfully present and aware of the conversational flow, and that in most cases, the specificity of a noun will be clear from the situation.
+The deictic particles locate a referent relative to the speaker or the current discourse centre:
 
-## Why no articles?
+**ha shelu** — this book
 
-Many languages lack articles entirely. Mandarin Chinese, Japanese, Russian, Hindi, and countless others function perfectly well without them. Speakers of these languages navigate definiteness through context, word order, and shared understanding.
+**ra shelu** — that book
 
-Phi joins this tradition. The zero-article approach removes grammatical clutter and creates a more direct mode of expression. Instead of mandatory markers that must accompany every noun, the language relies on mutual awareness.
+**ha** and **ra** often make a referent easier to identify, but they are not definite articles in disguise. They contribute proximal or distal reference. A room may contain two nearby books, and **ha shelu** alone will not decide between them.
 
-The design earns its keep three ways. Without automatic articles, speakers have to stay present in the conversation: trusting shared context to carry definiteness, or adding an explicit marker when it can't. The grammar sheds a whole category of busywork; English speakers spend real cognitive effort on the/a decisions that rarely change what anyone understands. And definiteness itself gets relocated: a book isn't inherently "the book" or "a book," it becomes specific through its place in the conversation, which is where specificity actually lives.
+Further descriptors can do that work:
 
-## When precision is needed
+**ha serao shelu** — this old book
 
-A language built on trust must also provide tools for precision when that trust is insufficient. When shared context is not enough to clarify which "book" or "friend" is being discussed, Phi provides the deictic particles `ha` and `ra`.
+**mia ha serao shelu** — this old book of mine
 
-These Slot 2 particles are the language's primary determiners: they answer the question "Which one?"
+A name, relative clause, place phrase, or second sentence can supply still more context when needed.
 
-**ha shelu**  
-*this book*  
-The book near the speaker, or the one just mentioned.
+## Discourse, not hidden grammar
 
-**ra shelu**  
-*that book*  
-The book further away, or one from earlier context.
+An established topic often receives a definite reading, while a newly introduced object often receives an indefinite one. Possession and description narrow the possibilities without necessarily identifying one unique thing: **mia shelu** can still refer to any one of several books associated with me.
 
-By placing the proximal particle `ha` before a noun, the speaker grounds it in the immediate conversational space. The distal particle `ra` points to something outside that immediate space.
-
-This system does more than mark a noun as abstractly definite: it anchors the noun in a shared physical or conceptual map, so speaker and listener orient toward the same object.
-
-## Definiteness through position
-
-Beyond the deictic particles, Phi conveys definiteness through pragmatic means. Nouns that appear early in a sentence, especially in subject position, tend to read as more definite: placing a noun first suggests the listener should already know which one is meant. A possessed noun (`mia shelu`, "my book") is inherently definite too; there's no question about which book once it's tied to someone. And once a noun has been introduced, later uses of it tend to be understood as the same thing, so the flow of discourse builds definiteness on its own, without any explicit marking.
-
-These strategies work together to create a system where definiteness emerges from context rather than being imposed by grammar. The speaker trusts the listener to track referents; the listener trusts the speaker to provide enough context when needed.
-
-## The practice of contextual awareness
-
-The zero-article system invites a particular kind of attention in conversation. Speakers must consider what their listeners already know. Listeners must stay present and track nouns as they enter and develop through discourse.
-
-The grammar hands that work to the speakers on purpose: two people genuinely attending to each other do better disambiguation than any article system, and the attending is the point.
+The zero-article system saves a learner from memorizing article forms and transfers work to discourse. Sometimes that makes a sentence lighter. Sometimes the speaker has to say more. **ha serao shelu** is available for exactly that morning when "the book" turns out to mean two different books on the same table.

@@ -1,54 +1,62 @@
-# Negation *ma*
+# Negation ma
 
-Without negation a language could only agree. Doubt, refusal, boundaries, alternatives: all of it rests on being able to say what is not. Phi gives the job to **ma**, and gives it the gentlest sound in the negation business: a closed `m`, an open `a`. The lips refuse, then the mouth opens again. No is said; the door is not slammed.
+**ma** denies the fully specified predicate and occupies the final Slot 1 position.
 
-> **mia theo** — "I read"
-> **mia ma theo** — "I don't read"
+**mia theo.** — I read.
 
-> **pheralu ma nai**
-> rain NEG be
-> "It is not raining"
+**mia ma theo.** — I do not read.
 
-`ma` has one home: the *final* position of the Slot 1 stack, immediately before the verb. Tense and aspect come first, negation last. "I won't go" is therefore `mia so ma wepu`, never `mia ma so wepu`. The future is announced, and then denied:
+**pheralu ma lepa.** — Rain does not fall.
 
-> **mia so ma wepu**
-> 1SG FUT NEG go
-> "I won't go"
+The lips close for **m** and open into **a**. That bodily refusal followed by release gives the particle a useful whole-word mnemonic. Gentleness still depends on tone, power, and the listener's freedom.
 
-> **mia to ma theo** — "I didn't read"
-> **mia si ma theo** — "I am not reading"
-> **mia to ki ma theo** — "I had not read"
+## Fixed position
 
-Because the order is fixed, the listener always knows what is being negated: the fully specified action, with all of its temporal texture already announced. Negation never ambushes the sentence: every layer is declared before `ma` turns the whole toward what did not occur.
+Tense, aspect, voice, evidentiality, and modality all precede **ma**:
+
+| Phi | English |
+|---|---|
+| **mia so ma wepu.** | I will not go. |
+| **mia to ma theo.** | I did not read. |
+| **mia si ma theo.** | I am not reading. |
+| **mia to ki ma theo.** | I had not read. |
+
+The order never changes to move the scope of negation. If a different distinction is needed, Phi uses another clause or a lexical expression.
 
 ## With the modals
 
-Two combinations matter, and both keep `ma` in its final slot:
+**po ma** denies possibility:
 
-**Cannot**: possibility, negated:
+```
+mia po ma thalo.
+1SG POT NEG walk.
+(I cannot walk.)
+```
 
-> **mia po ma thalo**
-> 1SG POT NEG walk
-> "I cannot walk"
+**na ma** presents refraining as necessary:
 
-**Must not**: necessity of refraining:
+```
+thia na ma wepu.
+2SG NEC NEG go.
+(You must not go.)
+```
 
-> **thia na ma wepu**
-> 2SG NEC NEG go
-> "You must not go"
+These forms may describe capacity, prohibition, safety, or another circumstance. They do not identify who set the boundary.
 
-English works the same way, as it happens: *can't* denies the possibility, *must not* requires the not-doing. The surface order is identical; the modal decides which way the negation cuts, and context has never once left a Phi speaker confused about whether they were forbidden or merely unable.
+## Need not
 
-**Need not**, the absence of obligation, is the third meaning, and Phi refuses to express it by shuffling the particles: the order is fixed, and Phi makes no exceptions to its own rules. Instead the language does something more characteristic. It states the absence of obligation as the presence of freedom:
+Absence of obligation is not expressed by reordering **ma** and **na**. Phi states the corresponding freedom:
 
-> **thia lila wepu ralu nai**
-> 2SG PURP go free be
-> "You are free as to going" (you need not go)
+```
+thia lila wepu ralu nai.
+2SG PURP go free be.
+(You are free as to going. You need not go.)
+```
 
-`lila` (as to, for the purpose of) frames the action; `ralu` (free) is the predicate. Where English says what is *not required*, Phi says what you *are*: free, in both directions, to go or to stay. The periphrasis is longer than a particle, and that is fine. Freedom deserves the extra breath.
+The construction leaves going and refraining available. It is longer than a modal pair because it makes freedom, rather than denied necessity, the predicate.
 
-## What every no affirms
+## What negation leaves open
 
-Each negation carves a shape out of the world and, in doing so, points at what remains. `mia ma nulae`, I don't sleep, is also a report of wakefulness. `pheralu ma nai` clears the sky. A boundary drawn with `ma` tells the other person exactly where the open ground begins.
+Negating one predicate leaves the rest open. **mia ma nulae** says that I do not sleep; work, wakeful rest, and an inability to sleep are all still possible. **pheralu ma lepa** denies falling rain without promising a clear sky. A second clause names what remains when that matters.
 
 That is the sound the particle was built to make: firm but not final, clear but not harsh. The lips close. Then they open.

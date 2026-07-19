@@ -1,64 +1,76 @@
-# The causative *ka*
+# The causative ka
 
-Some actions have two authors: the one who performs them and the one who set them in motion. The teacher does not read the book; the child reads it, because the teacher arranged it. The causative particle **ka** puts that arrangement into grammar.
+**ka** adds a causer: the subject brings about what another participant does or becomes.
 
-With an intransitive verb, the causer takes the subject position and the original actor becomes the object:
+With an intransitive verb, the original subject becomes the caused participant:
 
-> **lopia nulae**
-> child sleep
-> "The child sleeps"
+```
+lopia nulae.
+child sleep.
+(The child sleeps.)
+```
 
-> **mia lopia ka nulae**
-> 1SG child CAUS sleep
-> "I make the child sleep"
+```
+mia lopia ka nulae.
+1SG child CAUS sleep.
+(I cause the child to sleep.)
+```
 
-With a transitive verb, the same shift happens and the original object stays where it was:
+With a transitive verb, the original object remains after the caused participant:
 
-> **mia thia nophi ka theo**
-> 1SG 2SG story CAUS read
-> "I make you read the story"
+```
+mia thia nophi ka theo.
+1SG 2SG story CAUS read.
+(I cause you to read the story.)
+```
 
-`ka` says nothing about *how* the causing was done: force, persuasion, invitation, or simply leaving the book where it would be found. Context carries that. What the grammar insists on is only that the influence itself be visible: this action had a second author, and here they are, in subject position, on the record.
+**ka** asserts a causal relation. The path may run through invitation, teaching, material support, pressure, or force. When that distinction affects consent or responsibility, the surrounding clauses must carry it.
 
-## With tense and aspect
+## Position and scope
 
-`ka` is a Slot 1 voice particle (like the passive `se`, it restructures who acts) and sits in the fixed order: tense, aspect, then voice, as a block before the verb:
+The causative occupies the voice rank after tense and aspect:
 
-> **mia thia to ka theo** — "I made you read"
-> **mia thia so ka theo** — "I will make you read"
-> **mia thia si ka theo** — "I am making you read"
-> **mia thia ki ka theo** — "I have made you read"
-> **lopia se ka nulae** — "The child is made to sleep"
-> **mia lopia ka na nulae** — "I must make the child sleep"
+| Phi | English |
+|---|---|
+| **mia thia to ka theo.** | I caused you to read. |
+| **mia thia so ka theo.** | I will cause you to read. |
+| **mia thia si ka theo.** | I am in the process of causing you to read. |
+| **mia thia ki ka theo.** | I have completed the causing of your reading. |
 
-The voice pair is fixed `se ka`; with modals, voice precedes modality (`ka na` must make, `ka po` can make), the modal scoping the whole caused event. And `ka ma` denies the causation itself, the honest refusal of authorship: **mia lopia to ka ma nulae**, "I did not make the child sleep." Making someone refrain is said with its own verb or two clauses.
+Aspect describes the causing event, not the caused action. In **mia thia si ka theo**, **si** says that my causing is underway. If your reading has its own progress or habit, another clause gives that event its own aspect.
 
-## What the visibility is for
+Within voice, **se ka** is the only pair and keeps that order. Voice precedes modality:
 
-Most languages let influence hide. "The child read the book" can be said by the teacher who required it, and no grammar objects. Phi objects. If you were the cause, saying so costs one syllable, and not saying so is a choice you made.
+**lopia se ka nulae.** — The child is made to sleep.
 
-That visibility matters most where influence is easiest to overlook, in teaching, parenting, leading:
+**mia lopia ka na nulae.** — I must cause the child to sleep.
 
-> **lo miona lopia ka shonela**
-> PL person child CAUS learn
-> "The people have the children learn"
+Negation after **ka** denies the causation itself:
 
-Growth rarely happens alone; `ka` lets a community say so plainly, and it lets the question of responsibility be asked with the facts already on the table. Who acted is one answer. Who arranged the acting is another. Phi keeps room for both.
+**mia lopia to ka ma nulae.** — I did not cause the child to sleep.
 
-## Causing states
+This sentence does not say whether the child slept for another reason. Causing someone to refrain requires a verb that names the refraining or a second clause; particle order never moves.
 
-Qualities are not verbs in Phi: nothing is "cleaned" or "calmed" in a single word. A state is entered with `kelu` (become), the quality standing before it, and caused with the same machinery every other verb uses:
+## Causing a state
 
-> **lureko seroli kelu**
-> fruit mature become
-> "The fruit ripens"
+An adjective enters a state with **kelu** and remains in one with **nai**. The causative applies to those predicates without turning the adjective into a verb:
 
-> **mia noru hiso ka kelu**
-> 1SG bowl clean CAUS become
-> "I clean the bowl"
+```
+lureko seroli kelu.
+fruit mature become.
+(The fruit matures.)
+```
 
-> **mia lopia shena ka nai**
-> 1SG child calm CAUS be
-> "I keep the child calm"
+```
+mia noru hiso ka kelu.
+1SG bowl clean CAUS become.
+(I clean the bowl.)
+```
 
-`ka kelu` brings something to a state; `ka nai` holds it there. The quality stays what it is (a descriptor), and the causing stays where causing always lives: in Slot 1, on the record.
+```
+mia lopia shena ka nai.
+1SG child calm CAUS be.
+(I keep the child calm.)
+```
+
+Naming a causer can keep influence visible, especially where power is unequal. Responsibility may still be shared, authority disputed, and the attempted cause unsuccessful. **ka** opens the causal question. The evidence and relationship answer it.

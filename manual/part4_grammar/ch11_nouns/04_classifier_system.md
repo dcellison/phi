@@ -8,7 +8,7 @@ Phi offers four optional classifiers that can stand between a numeral and its no
 
 `wia ([classifier]) [noun]`
 
-A classifier can foreground what kind of referent a count concerns. It does not reveal an intrinsic essence, guarantee mindfulness or respect, validate the count, or settle a disputed category.
+A classifier foregrounds the category Phi assigns to the counted referent in this situation. The choice remains an analysis: a speaker may omit it, another person may dispute it, and ethical use still depends on what the count is doing.
 
 ## The four classifiers
 
@@ -61,18 +61,18 @@ two ABST.CLF year
 (two years, explicitly classified as time units)
 ```
 
-`Nophe` also applies to counted events and non-physical countables. Its use states Phi's category choice; it does not prove that an abstraction has the same status as a physical object.
+`Nophe` also applies to counted events and non-physical countables. Its use states Phi's category choice without granting an abstraction the same status as a physical object.
 
 ## The nature-now rule
 
-Classify the referent as it exists in the described situation:
+The referent is classified as it exists in the described situation:
 
 - A living ear takes `lipha`; a carved wooden ear takes `themo`.
 - A branch on a living tree takes `lipha`; a detached branch used as material takes `themo`.
 - A storm counted as an event takes `nophe`.
 - An egg or seed treated as life in waiting takes `lipha`.
 
-If the category is irrelevant, unclear, contested, or needlessly reductive, omit the classifier. Optionality is the canonical rule, not a casual-speech exception.
+The classifier is omitted when the category is irrelevant, unclear, contested, or needlessly reductive. Optionality is the canonical rule, not a casual-speech exception.
 
 ## Exact and approximate counts
 
@@ -91,4 +91,4 @@ Bare `shao` is approximate; exact three is `ta shao`. Neither a numeral nor quan
 
 A speaker may choose a classifier when the category matters to the discussion, when contrasting two possible analyses, or when its tone suits the passage. The listener must not infer that omission is disrespectful or that inclusion makes the statement ethical. A human classifier can appear in an exploitative census; a bare human noun can appear in a caring conversation.
 
-Arithmetic keeps classifiers optional and applies operation-specific referent rules. Addition and subtraction require commensurable quantities, multiplication takes a counted quantity plus a factor, and division may relate a total to differently classified recipients or groups. Chapter 12 gives the complete patterns.
+Arithmetic keeps classifiers optional and applies operation-specific referent rules. Addition and subtraction require commensurable quantities, multiplication takes a counted quantity plus a factor, and division may relate a total to differently classified recipients or groups. Chapter 12 will give the complete patterns.

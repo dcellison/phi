@@ -1,26 +1,32 @@
-# Past *to*: completed events
+# Past to
 
-The past tense particle *to* marks actions that have already occurred. Its crisp, definitive 't' sound creates a clean break, echoing the boundary it draws around completed events.
+**to** places the clause's event or state before the present moment.
 
-## Reaching into memory
+**mia sileta to nila.** — I saw the sun.
 
-When we say *mia to theo* (I read [past]), we do more than report that reading occurred: we mark the action as finished, a discrete unit of experience. The particle *to* transforms the timeless concept *theo* into a bounded past event with clear temporal edges.
+The tongue makes a dental closure and releases into rounded **o**. That physical edge helps the particle remain distinct in a stack, but Phi assigns no hidden meaning of completion to its sound.
 
-> *mia sileta to nila*
-> "I saw the sun."
+## Past is not perfective
 
-This creates a psychological shift. Present-tense actions feel fluid, connected to the moment of speaking. Past-tense actions feel settled and definitive. They become part of established personal history rather than current experience.
-
-## Conscious acknowledgment
-
-By requiring explicit use of *to* to mark past events, Phi ensures speakers cannot accidentally drift into past-tense thinking. Every use of *to* is a conscious acknowledgment: "I am stepping away from present-moment awareness to examine something already completed."
-
-The sound itself reinforces this meaning. The crisp 't' marks a definite point. The round 'o' acknowledges the completeness of what has passed. Together, they create acoustic closure appropriate for finished actions.
-
-## Examples
+A past event may be complete, ongoing at a past reference point, beginning, ending, or habitual. Aspect states the difference:
 
 | Phi | Gloss | English |
-|-----|-------|---------|
-| *mia to theo* | 1SG PST read | I read (in the past) |
-| *thia to shua* | 2SG PST come | You came |
-| *shia to meliho* | 3SG PST sing | They sang |
+|---|---|---|
+| **mia to theo.** | 1SG PST read | I read in the past. |
+| **mia to si theo.** | 1SG PST IPFV read | I was reading. |
+| **mia to ki theo.** | 1SG PST PFV read | I had read. |
+| **mia to pa theo.** | 1SG PST INCH read | I began to read. |
+| **mia to te theo.** | 1SG PST CESS read | I stopped reading. |
+| **mia to ro theo.** | 1SG PST HAB read | I read habitually then. |
+
+**to** comes before aspect because tense is the first Slot 1 rank.
+
+## Past is not source
+
+The particle says when, not how the speaker knows. A memory, record, inference, or report can all concern the past. An evidential appears only when the source claim belongs in the sentence:
+
+**shia to hi wepu.** — They left, as I directly witnessed.
+
+**shia to ke wepu.** — They left, as I infer from evidence.
+
+An unmarked **shia to wepu.** simply asserts that they left and leaves provenance unstated. Past time has enough work of its own.

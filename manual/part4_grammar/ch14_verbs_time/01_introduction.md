@@ -1,25 +1,25 @@
 # The unmarked present
 
-In Phi, verbs are stable anchors. A word like *theo* represents the pure concept of "to read," unchanged by who reads, what is read, or when reading happens. This chapter explores the Slot 1 particles that clothe this stable core in the specifics of time, duration, and completion.
+The content verb stays stable while short Slot 1 particles locate and shape its event. **theo** remains **theo** in **mia theo** (I read), **mia to theo** (I read in the past), and **mia so theo** (I will read).
 
 ## Tense and aspect
 
-At the heart of Phi's temporal system lies a distinction many languages blur: the separation of tense and aspect.
+Tense and aspect answer different questions. Tense locates the clause relative to the present moment: before it with **to**, after it with **so**, or at it without a tense particle. Aspect chooses how the event is presented: in progress, complete at the reference time, beginning, ending, or recurring across occasions.
 
-**Tense** answers a simple question: when did the action happen relative to now? It pins an event on a timeline of past, present, or future.
+English and many other languages also distinguish tense from aspect, sometimes with endings and sometimes with separate words. Phi's particular choice is to give each distinction one particle and one fixed rank.
 
-**Aspect** answers a different question: how did the action unfold? It reveals the internal texture of an event. Was it a single completed whole, or an ongoing process? Was it just beginning, or was it a repeated habit?
+The contrast appears in two clauses:
 
-By providing separate particles for these two concepts, Phi enables nuance that other languages struggle to express. Knowing an action was in the past differs from knowing whether it was a momentary flash or a habitual occurrence.
+**mia to theo.** — I read in the past.
 
-## Present as foundation
+**mia to si theo.** — I was reading.
 
-The present tense is Phi's default, unmarked state. An action is assumed to be happening now unless the speaker consciously chooses otherwise.
+The first clause is past and neutral in aspect. The second is past and explicitly in progress. **to** alone never means that an event was completed.
 
-This design nudges speakers toward present-moment awareness. To speak of the past requires an explicit reach into memory with the particle *to*. To speak of the future requires deliberate projection with the particle *so*.
+## What unmarked means
 
-The grammar itself becomes a tool for staying present. Every departure from the here-and-now demands acknowledgment. Where is your mind, really?
+A main clause translated as past or future must carry **to** or **so** on its own verb. Without either particle, the clause is present. Its aspect is neutral; completion, progression, beginning, ending, and habit remain unstated.
 
-## What follows
+Unmarked present is a grammatical resting state, not an instruction to think only about now. Past testimony and future planning are ordinary parts of mindful speech. The particles make their time explicit; they do not judge where the speaker's attention ought to be.
 
-The sections ahead take up the tense particles *to* and *so* first, which locate events on a timeline, then the aspect particles *si*, *ki*, *pa*, *te*, and *ro*, which describe how actions unfold through time.
+The next sections take **to** and **so** separately, then the five aspect particles and their combinations. Event nouns and the vocabulary of lived time complete the chapter.

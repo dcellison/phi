@@ -284,17 +284,9 @@ These were explicitly decided and should not silently fork again:
   to all life, the entry's own sentence). Gentleness lives in the
   grammar, not in avoidance: grief takes the feeling pattern
   (`mia nuhe phaelo.`, `mia holume phaelo.`), mourning marks the
-  mourned with `wei` (`mia wei ni melu nuhemi.`), and the
+  mourned with `wei` (`mia wei ne ni moli nuhemi.`), and the
   optative holds what cannot be fixed.
-- **Rites are described, never prescribed** (settled 2026-07-06):
-  `thorea` (ceremony) is the only rite word Phi will ever have.
-  Specific rites (funeral, wedding, baptism, and their kin) are
-  refused by design: naming a rite standardizes it, and Phi's
-  speakers come from every tradition. A ceremony is described
-  (`lumeo thorea`, a death ceremony; `sila wei shia thorea
-  kealo.`, the community makes a ceremony for them) and the
-  content belongs to whoever holds it. The stance the Prophet
-  transmutation stated in passing is hereby canon.
+- **Rites are described, never standardized** (settled 2026-07-06; clarified 2026-07-19): `thorea` names an organized ceremony, `thelumo` a patterned meaningful act or ritual, and `holia` a festival centered on celebration. These general words describe an occasion and what people do within it without assigning one inherited form to every community. Specific prescribed rite categories such as funeral, wedding rite, and baptism do not receive generic Phi roots. Their exact names and inherited forms remain with the source tradition. Phi may describe who participates and what they do; timing, significance, and consent can be stated separately. `lumeo thorea` is a death ceremony; `sila wei shia thorea kealo.` says that the community makes a ceremony for them without specifying its contents.
 - **The heart names and composes** (settled 2026-07-06; scope clarified 2026-07-15): the noun feelings taken by `phaelo` (`shea`, `nuhe`, `sukima`, `nupira`, `thomari`) and the adjective states worn with `nai` (`siora`, `loshi`, `shena`, `phaelu`, `noalu`, `thiro`, `nuloe`, `nemo`, `kuelo`, `phaeli`, `hurao`, `shaelo`, `phena`, `thoru`) form the core teaching inventory for Phi's feeling grammar. This inventory teaches the two patterns. Phi's affective lexicon extends beyond it, with direct roots such as `monelu` (amused), `wiroa` (hopeful), `luroi` (nervous), and `nilua` (shy). Composition is chosen when the parts reveal a relation worth keeping in view. The registry settles `korua thero` (anger, and hatred with it), `thiku nila` (contempt), `phelu pula` (envy), `sonu` + `nuhe` (loneliness), and wonder as a question held inside feeling (`wela … welo` under `phaelo`, ch19's own rendering). Those expressions keep their settled forms. Other affective states may still receive direct roots when they carry a useful distinction.
 - **A work is its making** (settled 2026-07-06): art-form and
   genre roots (poem, painting, sculpture, novel, and their kin)

@@ -1,51 +1,33 @@
-# Inference *ke*
+# Inference ke
 
-The particle *ke* marks information as inferred from evidence rather than directly witnessed. The speaker has reasoned toward a conclusion based on observable signs, patterns, or logical deduction.
+**ke** presents a claim as a conclusion drawn from evidence specific to the case.
 
-## Basic usage
+**shia to ke wepu.** — It appears from the evidence that they left.
 
-**shia to ke wepu.** — They left. (I infer from evidence.)  
-**pheralu to ke shua.** — Rain came. (I see the wet ground.)  
-**thia ke shorui nai.** — You must be weary. (I can tell from how you look.)
+**pheralu to ke lepa.** — I infer from the wet ground that rain fell.
 
-With *ke*, the speaker signals that they didn't witness the event directly but have deduced it from available evidence.
+**thia ke shorui nai.** — I infer that you are weary.
 
-## What counts as inference
+The last sentence remains an inference about another person's state. The person can correct it. **ke** makes the inferential step audible without turning an outward sign into privileged access to someone else's experience.
 
-Inference involves reasoning from evidence to conclusion:
+## From sign to conclusion
 
-- Seeing wet streets and concluding it rained
-- Finding an empty room and concluding someone left
-- Noticing someone's expression and concluding they're upset
-- Observing patterns and concluding a general rule
+An empty room may support the conclusion that someone left. Wet ground may support past rain. A repeated observation may support a broader pattern. In each case, the speaker perceived something, then reasoned beyond it.
 
-The speaker perceived *something*, but not the event itself. The particle *ke* makes this gap explicit.
+Direct and inferential claims differ here:
 
-## Inference vs. direct evidence
+**shia to hi wepu.** — I witnessed them leave.
 
-Compare:
+**shia to ke wepu.** — I infer that they left.
 
-**shia to hi wepu.** — They left. (I saw them go.)  
-**shia to ke wepu.** — They left. (I infer they left.)
+One is not automatically more reliable. Direct perception can be brief or obstructed; a well-supported inference can draw on several records. The particles identify the route. Evidence quality and reasoning remain open for examination.
 
-The first commits to witnessing the departure. The second only commits to evidence that leads to that conclusion. Perhaps the speaker returned to find the person gone, saw their coat missing, or noticed their car wasn't parked outside.
+## Inference and necessity
 
-Both sentences assert that the person left, but they differ in epistemological status. A listener might trust the *hi* version more than the *ke* version, or might want to know what evidence supported the inference.
+**ke** is an evidential; necessity belongs to modal **na**, after the evidential rank, while probability remains unstated:
 
-## The honesty of *ke*
+**womu ki se ke na lorima.** — From the evidence, I infer that the house must have been built.
 
-Using *ke* is an act of intellectual honesty. It says: "I believe this is true, but I'm working from evidence rather than direct perception. I might be wrong if I've misread the signs."
+Here **ke** names inference and **na** presents the conclusion as necessary. A listener may still challenge either step.
 
-This honesty is valuable in contexts where certainty matters:
-
-**shia to ke naphe.** — They helped (I infer).
-
-Perhaps the speaker sees the results of help but didn't witness the helping itself. Marking this with *ke* prevents overclaiming.
-
-## Sound and meaning
-
-The *ke* particle begins with a crisp *k*, suggesting the click of deduction, the moment when pieces fit together. The open *e* that follows makes space for the reasoning process. The sound is more complex than the direct *hi*. So is the act it marks: inference adds a cognitive step between evidence and conclusion.
-
-## Inference in daily life
-
-Most of what we "know" is actually inference. We infer other people's mental states, infer causes from effects, infer the past from its traces. The *ke* particle brings this usually invisible process into awareness: it encourages speakers to notice when they're reasoning beyond direct perception.
+The back of the tongue closes and releases into **e** in **ke**. That crisp gesture may help a learner distinguish the particle, but deduction does not live in the consonant. The reasoning lives in the evidence and the path from it to the claim.

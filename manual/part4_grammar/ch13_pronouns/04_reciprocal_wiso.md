@@ -1,47 +1,43 @@
-# The reciprocal *wiso*
+# The reciprocal wiso
 
-The reciprocal pronoun *wiso* expresses mutual action between members of a plural subject. It does the work of English "each other" or "one another."
+**wiso** occupies the object position and says that members of a plural subject act upon one another.
 
-## Basic usage
+**lo mia wiso lothea.** — We love each other.
 
-**lo mia wiso lothea.** — We love each other.  
-**lo thia wiso naphe.** — You (all) help each other.  
-**lo shia wiso sano.** — They know each other.
+**lo thia wiso naphe.** — You all help each other.
 
-The reciprocal indicates that the action flows in both directions among the participants. When we say *lo mia wiso lothea*, we mean that I love you and you love me; all of us love all of us, in mutual exchange.
+**lo shia wiso sano.** — They know one another.
 
-## Requires plural subject
+The reciprocal does not specify a complete all-to-all pattern in a large group. Context decides whether every member acts toward every other member, people form pairs, or the relation is mutual across the group in some other relevant way.
 
-Because reciprocal action involves multiple participants acting upon each other, *wiso* requires a plural subject. You cannot use it with a singular pronoun:
+## A plural subject is required
 
-**Correct:** Lo mia wiso nila. — We see each other.  
-**Incorrect:** *Mia wiso nila. — (cannot use reciprocal with singular)
+**wiso** brings no plurality of its own. The subject must already be plural through **lo** or coordination:
 
-If two specific individuals are involved, make them plural:
+**lo mia wiso nila.** — We see each other.
 
-**mia nela thia wiso lothea.** — I and you love each other.  
-(Literally: I and you, each-other love.)
+**mia nela thia wiso lothea.** — You and I love each other.
 
-## Difference from reflexive
+A singular **mia wiso nila** is not grammatical because one participant cannot supply the reciprocal relation.
 
-The reflexive *miso* means the subject acts upon itself. The reciprocal *wiso* means plural subjects act upon each other:
+## Reflexive and reciprocal
 
-**lo mia miso nila.** — We see ourselves. (each of us sees ourself)  
-**lo mia wiso nila.** — We see each other. (I see you, you see me)
+**miso** returns an action to each actor; **wiso** carries it between actors:
 
-Both involve the subject in the object position, but the relationship differs.
+**lo mia miso nila.** — We see ourselves.
 
-## Sound and meaning
+**lo mia wiso nila.** — We see each other.
 
-The *wi* in *wiso* echoes the number *wi* (two): reciprocal action is inherently paired. The *so* ending matches the reflexive *miso*; the two pronouns form a family of self-referential terms.
+The contrast matters most when the plural subject is already established and only the short object pronoun changes.
 
-## Common uses
+## Sound family and use
 
-Phi emphasizes relationship and mutuality, so reciprocal constructions appear frequently:
+The opening **wi** is also Phi's word for two, a useful mnemonic for mutual action. It is not a claim that every reciprocal event contains exactly two participants. Final **so** links the form audibly with **miso**.
 
-**lo mia wiso naphe.** — We help each other.  
-**lo mia wiso shonela.** — We teach each other. / We learn from each other.  
-**lo mia wiso whaline.** — We thank each other.  
-**lo mia wiso sano.** — We know each other.
+**lo mia wiso naphe.** — We help each other.
 
-These constructions emphasize that healthy relationships involve exchange rather than one-way flows.
+**lo mia wiso thumela.** — We teach each other.
+
+**lo mia wiso whaline.** — We thank each other.
+
+Reciprocal grammar reports a direction of action. Whether the exchange is welcome, equal, or caring belongs to what the participants do and say next.

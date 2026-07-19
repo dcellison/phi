@@ -1,6 +1,6 @@
 # The words of the exchange
 
-The last of the words-of sections is about what changes hands. Phi conducts its whole economy with a handful of verbs, one gift, one trader, and a refusal that completes a family you have met twice already.
+The last words-of section follows what changes hands. Base Phi has verbs for giving, receiving, sharing, taking, and exchanging, along with words for a gift, labor, worth, and sufficiency.
 
 ## The hands' verbs
 
@@ -20,30 +20,24 @@ PL 1SG RECP exchange.
 (We exchange with each other.)
 ```
 
-The one who lives by exchanging is *piru* (trader), the goods-mover, cousin to *toloi* (messenger), the word-mover:
-
-```
-piru lo thena wisola.
-trader PL thing exchange.
-(The trader exchanges goods.)
-```
+The optional Work, Craft, and Repair module adds *piru* (trader) when exchange is a person's continuing work. A base-vocabulary description remains available: *rena lo thena ro wisola miona*, a person who habitually exchanges goods.
 
 ## The counting owed
 
-An exchange often requires exact counts because the difference affects what each participant gives and receives. The market-day text conducts a morning of trade on that principle, bowls for eggs, asked with *wia* and answered with exact ternary numerals. Other exchanges may use an estimate or qualitative description by agreement. Notice what the scene does not contain: no price, no payment, and no money vocabulary; exact source economic records still remain available outside the Phi passage when needed.
+An exchange often requires exact counts because the difference affects what each participant gives and receives. The market-day text conducts a morning of trade on that principle, bowls for eggs, asked with *wia* and answered with exact ternary numerals. Other exchanges may use an estimate or qualitative description by agreement. The scene names neither price nor payment; an exact economic record remains available outside the Phi passage when needed.
 
 ## The refusal, third of three
 
-That lexical absence is settled canon for now. Phi coins no money, price, buying, selling, debt, or wage vocabulary; ordinary Phi prefers to describe the transfer, labor, need, gift, or institution under discussion. Exact amounts and source economic terms remain available in separate source records for history, labor rights, contracts, critique, testimony, and practical coordination. Separate preservation prevents a lexical refusal from becoming an inability to describe exploitation or keep an accurate record.
+Phi has deliberately left money, price, buying, selling, debt, and wage without core roots. Ordinary Phi describes the transfer, work, need, gift, or institution under discussion. Exact amounts and source economic terms remain in separate records for history, labour rights, contracts, critique, testimony, and practical coordination, so the refusal cannot blur exploitation or falsify a record.
 
 ## Work and worth
 
 Work is *riola* (labor), and its kin are all plural at heart: *molawi* (cooperate), *wenola* (collaborate), *shorema* (contribute), *muraki* (harvest):
 
 ```
-lo telo molawi.
-PL farmer cooperate.
-(The farmers cooperate.)
+lo miona molawi.
+PL person cooperate.
+(People cooperate.)
 ```
 
 Worth survives the refusal intact, carved into two honest words. *rolia* (worth) is inherent, what a being has by being. *sone* (value) is a verb, so valuing is visibly something someone does to a thing, never a property the thing carries alone:
@@ -54,8 +48,8 @@ mia thia rolia nila.
 (I see your worth.)
 ```
 
-*simoe* (rich) enriches soil, colors, and flavors, and ranks no one. There is no word for poor: a harvest can be *phina* (few), a bowl can be *whemoa* (empty), and *henoi* (enough) with *lorua* (abundant, plenty to share) hold the other end. Scarcity in Phi is a count, and counts can change; a class of person is a verdict, and Phi does not issue it.
+*simoe* (rich) describes soil, colours, and flavours, not a social rank. Material lack has no base root meaning poor: a harvest can be *phina* (few), a bowl can be *whemoa* (empty), and *henoi* (enough) with *lorua* (abundant, plenty to share) hold the other end. When material lack matters, the account names the missing thing or the insufficient amount instead of making it a class of person.
 
-## The gift closes the circle
+## The gift in use
 
-The Prophet's teaching on giving lives on the texts shelf with reward rendered as *loami*, because this economy has no wages, and the Tao's counsel hands kindness back for harm. The grammar was on their side all along: *wisola* wants the reciprocal, *sone* wants a subject who does the valuing, and the dative gift sentence is among the first a learner builds. What changes hands in Phi changes hands the way everything else in the language moves, announced, counted honestly, and offered with both hands visible.
+The Prophet's teaching on giving lives on the texts shelf with reward transmuted as *loami*, while the Tao selection answers harm with kindness. Those are literary choices, not meanings forced by the grammar. **wisola** often takes the reciprocal, **sone** requires someone who does the valuing, and the dative gift sentence identifies its recipient. The words leave the terms of an exchange open enough for speakers to state them, refuse them, or change them together.
