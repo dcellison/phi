@@ -1,14 +1,14 @@
 # Part 6: The stack
 
-Everything from Parts 3–5 in one fixed line, at speed. The order is canon and has no exceptions:
+Slot 1 has one fixed order:
 
 **Tense > Aspect > Voice > Evidentiality > Modality > Negation**
 
-One per rank; `se ka` the single pairing; `ma` always last, against the verb. The order runs from the world toward the speaker: first when it happened, then its shape in time, then who acted, then how I know, then what constrains, then (closest to the deed) whether it happened at all. Announce everything; deliver once.
+Each rank permits one particle, apart from the fixed voice pair `se ka`. The whole block precedes any manner descriptor and the verb. Its order is a parsing rule, not a scale from worldly fact to private feeling.
 
-### Reading scales
+### Reading stacks
 
-The stack is learned the way musicians learn scales: read aloud until the ranks resolve at reading speed. Name every particle's rank as you go:
+Read each sentence and name the occupied ranks.
 
 ```
 1. mia to ki nila.
@@ -19,34 +19,36 @@ The stack is learned the way musicians learn scales: read aloud until the ranks 
 6. mia to si ke po ma nila.
 ```
 
-Answers: 1 tense-aspect. 2 tense-voice. 3 tense-aspect-evidential. 4 tense-evidential. 5 tense-voice-negation. 6 tense-aspect-evidential-modal-negation, the fullest stack the corpus ever needs, five ranks deep: *I was not being able to see, as I infer.* If line 6 resolved as fast as line 1, this part is done with you.
+Answers: 1 tense and aspect. 2 tense and voice. 3 tense, aspect, and evidentiality. 4 tense and evidentiality. 5 tense, voice, and negation. 6 tense, aspect, evidentiality, modality, and negation.
 
-### Building scales
+The sixth sentence means, "I infer that I was unable to see while the event was in progress." It is grammatical because each distinction belongs to the same seeing event. It is also dense. Phi permits the stack; it does not award a small medal for filling it.
 
-Now the other direction. Start from `lopia nulae.` (the child sleeps) and add exactly what each line asks, one particle per step, each sliding into its rank:
+### Building a stack
 
-1. …in the past.
-2. …and the sleeping was mid-flow when you looked in.
-3. …and you infer it (the lamp is out) rather than saw it.
-4. …and deny the whole thing instead: the child was not sleeping, as you infer.
+Begin with `lopia nulae.` (The child sleeps.) Add only what each step requests.
 
-Answers: 1 `lopia to nulae.` 2 `lopia to si nulae.` 3 `lopia to si ke nulae.` 4 `lopia to si ke ma nulae.` Notice that step 4 changed nothing but the last position. Negation never reaches back into the stack; it stands at the door of the verb and says no to the deed, leaving every announcement (the time, the flow, your inference) intact and still claimed. You still infer; what you infer is an absence.
+1. Place the sleeping in the past.
+2. Present it as ongoing at that past reference point.
+3. Mark the claim as inferred rather than directly perceived.
+4. Instead infer that the child was not sleeping at that point.
 
-### Why the order is this order
+Answers: 1 `lopia to nulae.` 2 `lopia to si nulae.` 3 `lopia to si ke nulae.` 4 `lopia to si ke ma nulae.` In the final sentence, `ma` remains last in the block and negates the sleeping predicate. The past, ongoing viewpoint, and inferential source remain part of the claim.
 
-The temptation, forever, is English's: hedges out front ("probably, they left"), negation floating ("didn't used to"), tense buried in the verb. Phi files each claim by how much of it belongs to the world and how much to you, and makes the most speaker-owned claims stand closest to the verb, where the deed can answer them. The stack is not a memorized sequence; it is a worldview with positions. Learn it as the second, and you will never mis-order the first.
+### Why fixed order matters
 
-### The validator's ear
+English distributes related meanings among auxiliaries, verb forms, adverbs, and context. Phi gives each particle a stable rank. The rule removes one parsing question: once the Slot 1 block begins, a listener knows the sequence in which its categories can arrive.
 
-Since the July audit, the validator checks every example's stack against this order and the one-per-rank rule mechanically: nine violations were found sleeping in four months of corpus, and none can enter again. Your own ear is the same tool, trained by these scales: a `ma to` should now sound to you the way a wrong note sounds, before you can say why.
+This is also modifier-first structure. The complete grammatical block comes before the manner and verb it modifies. A speaker may still choose two shorter clauses when a long stack becomes difficult to hear.
 
-### Drill: repair shop
+The example validator checks rank order and the one-per-rank rule. It can reject `ma to`, but it cannot decide whether an evidential is warranted or whether a dense clause suits the conversation. Those remain matters of meaning and judgement.
 
-Each is mis-stacked. Fix it aloud, then name what was filed wrong:
+### Practice: repair the order
 
-1. `mia ma to sheluo.`
+Each sentence is mis-stacked. Repair it and name the displaced rank.
+
+1. `mia ma to nila.`
 2. `shia hi to wepu.`
-3. `pheralu ho so shua.`
+3. `pheralu ho so lepa.`
 4. `mia lopia na ka wile.`
 
-Answers: 1 `mia to ma sheluo.` Negation had crept ahead of time. 2 `shia to hi wepu.` The witness-claim stood before the when; evidence is rank four, not rank one. 3 `pheralu so ho shua.` The assumption had swallowed the future. 4 `mia lopia ka na wile.` Voice precedes modality: first who was made to act, then what constrained the making. All four wrong forms are the ones an English-trained ear reaches for first; repairing them is how the order becomes reflex.
+Answers: 1 `mia to ma nila.` Negation followed tense. 2 `shia to hi wepu.` Evidentiality followed tense. 3 `pheralu so ho lepa.` Evidentiality followed future tense. 4 `mia lopia ka na wile.` Voice preceded modality.

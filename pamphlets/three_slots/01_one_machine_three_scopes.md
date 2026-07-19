@@ -1,50 +1,48 @@
-# Part 1: One machine, three scopes
+# Part 1: One system, three scopes
 
-The doctrine lives in manual ch9; here is the working shape, once, and then we practice. Phi sorts its grammar by scope: how much of the sentence a particle governs decides where it stands.
+Put `wa` at the front and the whole utterance becomes a yes/no question. Put `to` before the verb and only the event moves into the past. Phi sorts particles by that difference in reach: how much of the utterance does this small word affect?
 
-| Slot | Scope | Stands | Holds |
+| Slot | Scope | Position | Inventory |
 |---|---|---|---|
-| 0 | the whole utterance | first | `wa` `no` `lu` (`lu he`) `su` `pi` |
+| 0 | the utterance | at the beginning | `wa` `no` `lu` `he` `su` `pi` |
 | 1 | the verb phrase | before the verb, in ranked order | tense, aspect, voice, evidentiality, modality, negation |
-| 2 | one word | immediately before that word | `lo` `nu` `ko` `we` `li` `ru` `mo` `ha` `ra` `ne` `sa` `ni` `le` |
+| 2 | one constituent | directly before the word or phrase it modifies | `lo` `nu` `ko` `we` `li` `ru` `mo` `ha` `ra` `ne` `sa` `ni` `le` |
 
-The sentence formula, with everything in place:
+A useful working template is:
 
-**[Slot 0] [Subject] [Slot 2 + Object] [Slot 1 stack] [Verb]**
+**[Slot 0] [Subject] [Adjuncts] [Slot 2 + Object] [Slot 1] [Manner] [Verb]**
 
-And the shape rule from ch8 §2 rides underneath it all: every one of these is a bare CV syllable, which is why you can sort a Phi sentence by ear before you know what any word means: the one-syllable words are the grammar, and the grammar always announces.
+Most sentences leave several positions empty. An intransitive verb has no object, an ordinary assertion may need no particle, and a manner word appears only when manner matters. The remaining elements keep their relative order. Every modifier still precedes what it modifies, without exception.
 
-### The unmarked defaults
+### What an unmarked clause leaves unmarked
 
-Half the system's elegance is what absence means. No particle is ever mandatory filler; every silence is a meaning:
+Absence has a narrow grammatical reading. It should not be asked to confess more than it knows.
 
-- No Slot 0 particle: a declarative statement.
-- No tense: present.
-- No aspect: simple, no claim about the action's internal shape.
-- No evidential: a plain assertion, the fact claimed, **no source named** (canon: the unmarked sentence claims no source; `hi` claims witnesshood explicitly).
-- No modal: actual, not possible or necessary.
-- No negation: it happened.
+- No Slot 0 particle gives an ordinary declarative assertion.
+- No tense particle gives present time.
+- No aspect particle selects completion, ongoing flow, beginning, ending, or habit.
+- No evidential names a source for the assertion.
+- No modal marks possibility, ability, necessity, or obligation.
+- No `ma` leaves the predicate affirmative rather than negated.
 
-So the simplest sentence is already complete: `mia thia nila.` — I see you. Present, plain, positive, unframed. Everything a particle adds is a departure from that resting state, chosen and audible.
+Unmarked grammar says no more than this list gives it. Certainty and responsibility belong to the claim and its use, not to an empty particle position.
 
-### One per rank
+### One choice per Slot 1 rank
 
-Canon's newest structural ruling closes the system: each Slot 1 rank admits **at most one particle per clause**: one tense, one aspect, one source, one modal, with a single ruled pairing inside voice (`se ka`, Part 4). You never choose *which two* aspects; you choose *the* aspect or add a clause. Two sources are two sentences. Complexity in Phi goes into more clauses, not thicker stacks, and every stack you will ever read obeys one fixed order (Part 6).
+Each Slot 1 rank permits at most one particle in a clause. A clause may have one tense, one aspect, one evidential, and one modal. The voice rank alone permits the fixed pair `se ka`. If a thought genuinely needs two sources or two views of an event, Phi gives each one its own clause.
 
-### The machine at work
-
-ch9 §6 grows one sentence layer by layer; here is its finished form, the whole system in nine words:
+### All three scopes at work
 
 ```
 pi wa mia ha lo melu so po nila.
 POL Q 1SG PROX PL friend FUT POT see.
-(Might I please see these friends?)
+(Might I please be able to see these friends?)
 ```
 
-Slot 0 twice (`pi wa`: politeness first, always), the subject, a Slot 2 stack on the object (`ha lo melu`: deixis before plural, by the cline), the Slot 1 stack (`so po`: tense before modality, by the ranks), the verb. Read it aloud left to right and notice that nothing surprises you: every piece announced itself before its content arrived, which is the entire design, at every scale, all the way down.
+`pi wa` frames the whole utterance. `ha lo` belongs to the object `melu`. `so po` belongs to the verb `nila`. Each group finds its place by scope, not by the order in which the speaker happened to think of it.
 
-### Drill: sort by ear
+### Practice: sort by scope
 
-Cover the table above. For each particle, say its slot aloud, fast, no thinking: `ma`, `wa`, `lo`, `so`, `ne`, `pi`, `ki`, `ru`, `lu`, `se`, `nu`, `ho`, `we`, `na`, `ha`.
+Assign each particle to Slot 0, 1, or 2, then state what its scope is: `ma`, `wa`, `lo`, `so`, `ne`, `pi`, `ki`, `ru`, `lu`, `se`, `nu`, `ho`, `we`, `na`, `ha`.
 
-Answers: 1, 0, 2, 1, 2, 0, 1, 2, 0, 1, 2, 1, 2, 1, 2. If any cost you a beat, the tell is scope: does it frame the sentence, shape the verb, or touch one word? Run it again tomorrow; Part 6 assumes this is reflex.
+Answers: 1, 0, 2, 1, 2, 0, 1, 2, 0, 1, 2, 1, 2, 1, 2. When a particle is unfamiliar, return to scope: utterance, verb phrase, or constituent.

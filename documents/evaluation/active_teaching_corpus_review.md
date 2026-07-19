@@ -293,7 +293,7 @@ The completed base and function vocabulary covers the primer without a new root 
 
 ## Pamphlets
 
-The first of nine pamphlets is reviewed. The evidentiality pass keeps the snake-at-the-well practice while rebuilding its account of source marking around current canon. Direct perception, inference, report, assumption, truth, reliability, confidence, and courtesy no longer borrow one another's work.
+Two of nine pamphlets are reviewed. The evidentiality pass keeps the snake-at-the-well practice while rebuilding its account of source marking around current canon. Direct perception, inference, report, assumption, truth, reliability, confidence, and courtesy no longer borrow one another's work.
 
 | File | State | Finding and disposition |
 |---|---|---|
@@ -313,6 +313,28 @@ The first of nine pamphlets is reviewed. The evidentiality pass keeps the snake-
 
 The completed base and function vocabulary covers the pamphlet without a new root, lexical question, or optional module term. Its direct dependencies in the pamphlet catalogue, the three-slots source summary, and the manual's journal pointer now use the same account. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
 
+The three-slots pass reviews all thirteen files around the closed particle inventory and modifier-first structure. The pamphlet now teaches grammatical scope without asking particles to certify a speaker's character or the social force of an utterance.
+
+| File | State | Finding and disposition |
+|---|---|---|
+| `three_slots/00_title.md` | Revised | The opening now calls the thirty-five particles one part of grammar, gives the pamphlet a current learning purpose, and removes project chronology and reflex-speed claims. |
+| `three_slots/01_one_machine_three_scopes.md` | Revised | Slot 2 now modifies a constituent rather than one word, the sentence template includes adjuncts and manner, and every unmarked category receives a narrow reading instead of a hidden truth claim. |
+| `three_slots/02_slot_0_framing.md` | Revised | `no` is a context-sensitive directive, `pi` marks politeness without supplying care or consent, and the only multiple Slot 0 forms are `pi wa`, `pi no`, and `lu he`. The soup exercise now uses direct `pharelo`. |
+| `three_slots/03_slot_1_tense_aspect.md` | Revised | `si` is kept apart from source, `ro` means a recurring pattern rather than always, and `te` presents an ending without assigning it a social quality. |
+| `three_slots/04_slot_1_voice.md` | Revised | Passive and causative voice now describe argument structure without turning agency into a character test. `ka ma` denies causation while leaving the caused event open. |
+| `three_slots/05_slot_1_evidence_modality.md` | Revised | Claimed source and modality keep separate jobs. The practice set removes timetable reasoning, prescribed daily measurement, and a claim that impossibility itself is gentle. |
+| `three_slots/06_the_stack.md` | Revised | The fixed six-rank order is presented as a parsing rule rather than a moral or metaphysical scale. Dense stacks remain available without becoming a speed target, and rain now uses `lepa`. |
+| `three_slots/07_slot_2_nesting_phrase.md` | Revised | The wider-to-narrower cline now applies to constituents, while `li`, `ko`, `we`, the superlative, ordinal, and name orders retain their current boundaries. |
+| `three_slots/08_the_interaction_tables.md` | Revised | Open and unattested cells are gone. The tables now state the complete licensed Slot 0 forms, fixed Slot 1 ranks, cross-slot composition, and Slot 2 restrictions, including a directive over a negated predicate. |
+| `three_slots/09_one_sentence_grown.md` | Revised | The garden scene compares active, passive, inferred, and future-habitual clauses by the information they provide. Questions and politeness remain frames; passive choice and future habit receive their meanings from context. |
+| `three_slots/10_common_errors.md` | Revised | Structural errors are separated from contextual misreadings. The guide no longer labels passive voice dishonest, treats habit as nature, or reads an unmarked source as direct evidence. |
+| `three_slots/11_exercises.md` | Revised | Exercises now test the closed Slot 0 combinations, negative directives, one-per-rank structure, contextual passive use, quantity restriction, and optional source marking without a weekly quota. |
+| `three_slots/12_appendix.md` | Revised | The quick reference gives all thirty-five particles their current bounded functions, records every local order and licensed combination, and restores the complete modifier-first sentence template. |
+
+### Lexical and canonical result
+
+The completed base and function vocabulary covers the pamphlet without a new root, lexical question, or optional module term. Direct `pharelo` replaces generic making in the soup exercise; other revisions concern grammar, interpretation, and teaching voice. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
+
 ### Resume point
 
-Continue with `pamphlets/three_slots/`, the closest teaching dependency of this pass, and then review the other seven pamphlets. The later current-document sweep must revisit the shorthand "source of knowledge" in `documents/grammar/particle_reference.md` and "How you know" in `documents/reference/taught_patterns.md`; neither phrase should restore an epistemic claim that the particles do not make.
+Continue with `pamphlets/spoken_punctuation/`, the closest teaching dependency of the Slot 0, vocative, name, and quotation work, and then review the other six pamphlets. The later current-document sweep must revisit the shorthand "source of knowledge" in `documents/grammar/particle_reference.md` and "How you know" in `documents/reference/taught_patterns.md`; neither phrase should restore an epistemic claim that the particles do not make.

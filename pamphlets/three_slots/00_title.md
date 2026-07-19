@@ -2,38 +2,38 @@
 
 ## A practice companion to the manual
 
-Phi's entire grammar is thirty-five small words that never change shape. Six frame the sentence, sixteen shape the verb, thirteen refine single words. Every one of them stands before what it affects, announcing its work in advance. The doctrine belongs to manual ch9, the backbone chapter, with ch14–16 owning the deep corners and the canon rulings settling the last open joints: one particle per rank, the causative seated with the voice particles, the restrictive fenced, the Slot 2 stack ordered. This pamphlet is the whole machine, drilled: the first place all of it stands together.
+Thirty-five short particles do a surprising amount of work in Phi, and each keeps one shape. They are not the whole grammar. Word order, prepositions, complementizers, and other function words still have work to do. The particles handle three kinds of scope: a frame for the utterance, a ranked block before the verb, and a modifier attached to one constituent.
 
-Two skills interleave throughout, as ever. The first is mechanical: sorting particles by slot at hearing speed, building and reading stacks without thought, placing every piece where the fixed orders put it. The second is the one Phi actually cares about: hearing what each added particle *costs* (the claim it makes, the accountability it takes on) until a fully dressed sentence reads not as complexity but as care, taken out loud, one syllable at a time.
+This pamphlet brings the complete particle system into one place. It begins with the three scopes, works through each inventory, and then practises the combinations that Phi actually licenses. The order is strict, but the aim is not to build the longest possible sentence. A long stack is useful only when one event genuinely needs every distinction in it. Particle collecting is an innocent hobby, though not a recognised branch of grammar.
 
-By the end of this pamphlet, you will:
+By the end of this pamphlet, you will be able to:
 
-- Sort any particle into its slot by ear, and know each slot's unmarked default
-- Build and read Slot 1 stacks at speaking pace, one per rank, negation always last
-- Work the voice machinery: passives, causatives, `se ka`, `ka na`, and the denial of authorship `ka ma`
-- Give `li` and bare `ko` their first workout: the fence and the pointing finger
-- Nest a Slot 2 stack by the cline, and hear it as modifier-first one level down
-- Read the interaction tables: what combines, what one-per-rank refuses, and which cells the corpus has honestly never needed
+- Sort all thirty-five particles by scope.
+- Build Slot 1 in its fixed order, with one choice per rank and negation last.
+- Distinguish tense, aspect, voice, claimed source, modality, and negation without making one do another's work.
+- Use the documented Slot 0 combinations and recognise combinations Phi does not license.
+- Nest Slot 2 particles from wider scope to narrower scope.
+- Read passive, causative, focus, and restriction in context without assigning them moral force that their grammar does not carry.
 
-This pamphlet assumes the primer or manual Part I–III. It is a companion to ch9 above all, with ch14 (tense and aspect), ch15 (voice and possibility), ch16 (evidentiality), and the particle reference behind it, and the evidentiality, naming, and punctuation pamphlets as its siblings on single slots' territories.
+The pamphlet assumes the primer or Parts I through III of the manual. Its closest companion is manual chapter 9, followed by the chapters on tense and aspect, voice and modality, and evidentiality. The evidentiality, naming, and spoken-punctuation pamphlets take several parts of this system further.
 
 ---
 
 **Contents:**
 
-1. One machine, three scopes
+1. One system, three scopes
 2. Slot 0: framing
 3. Slot 1: tense and aspect
-4. Slot 1: voice (who acts)
+4. Slot 1: voice
 5. Slot 1: evidence and modality
 6. The stack
 7. Slot 2: the nesting phrase
 8. The interaction tables
-9. One sentence, grown with care
+9. One sentence, grown with context
 10. Common errors
 11. Exercises
 12. Appendix: the complete inventory
 
 ---
 
-*Every particle says one thing, says it before, and never changes. The whole grammar fits in a pocket. The practice is reaching for the right piece.*
+*The three slots do not decide what a speaker ought to say. They make several choices audible before the words those choices affect.*
