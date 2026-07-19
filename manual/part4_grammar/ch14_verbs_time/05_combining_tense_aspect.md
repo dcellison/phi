@@ -1,65 +1,42 @@
 # Combining tense and aspect
 
-Tense and aspect particles can combine to create precise temporal meanings. In Phi's strict ordering, tense precedes aspect: tense > aspect > voice > evidentiality > modality > negation.
+Tense precedes aspect in the fixed Slot 1 order. One particle locates the event; the next chooses its view.
 
-## The combination system
+## The combinations
 
-When tense particles combine with aspect particles, they create nuanced descriptions of how events unfold through time.
+| Combination | Gloss | Ordinary English |
+|---|---|---|
+| **to si** | PST IPFV | was doing |
+| **to ki** | PST PFV | had done |
+| **to pa** | PST INCH | began doing |
+| **to te** | PST CESS | stopped doing |
+| **to ro** | PST HAB | did habitually then |
+| **so si** | FUT IPFV | will be doing |
+| **so ki** | FUT PFV | will have done |
+| **so pa** | FUT INCH | will begin doing |
+| **so te** | FUT CESS | will stop doing |
+| **so ro** | FUT HAB | will do habitually |
 
-| Combination | Gloss | Meaning |
-|-------------|-------|---------|
-| *to si* | PST IPFV | was doing (ongoing in the past) |
-| *to ki* | PST PFV | had completed (finished in the past) |
-| *to pa* | PST INCH | began (started in the past) |
-| *to te* | PST CESS | stopped doing (ceased in the past) |
-| *to ro* | PST HAB | used to do (past habit) |
-| *so si* | FUT IPFV | will be doing (ongoing in the future) |
-| *so ki* | FUT PFV | will have completed |
-| *so pa* | FUT INCH | will begin |
-| *so te* | FUT CESS | will stop doing |
-| *so ro* | FUT HAB | will habitually do |
+## Four examples
 
-## Examples in context
+**mia to si theo.** — I was reading.
 
-**Past progressive** (*to si*):
+At a past reference point, the reading was in progress.
 
-> *mia to si theo*
-> "I was reading."
+**mia peloru to ki nila.** — I had seen the flower.
 
-This marks an action that was ongoing at some past moment. The event is placed in the past with *to*, and its unfinished, flowing quality is captured by *si*.
+The seeing is complete at the past reference time. **to ki** never means the present perfect "have seen."
 
-**Past perfective** (*to ki*):
+**thia so pa theo.** — You will begin to read.
 
-> *mia peloru to ki nila*
-> "I had seen the flower."
+The beginning lies in the future.
 
-This marks an action completed before another past reference point. The past tense *to* locates the event, while perfective *ki* emphasizes its bounded completeness.
+**mia to ro meliho.** — I sang habitually then.
 
-**Future inchoative** (*so pa*):
-
-> *thia so pa theo*
-> "You will begin to read."
-
-This projects the inception of an action into the future. The future *so* establishes when, while inchoative *pa* focuses on the moment of beginning.
-
-**Past habitual** (*to ro*):
-
-> *mia to ro meliho*
-> "I used to sing."
-
-This describes a pattern of repeated action in the past. The habit existed then but no longer continues into the present.
+The pattern belongs to a past span. The grammar does not say whether it continues now; a following clause can settle that.
 
 ## Unmarked forms
 
-Remember that both present tense and neutral aspect are unmarked in Phi. The verb alone, without particles, expresses present tense with neutral aspect:
+Without tense or aspect, **mia theo.** is a present clause with a neutral view: "I read." Ability, completion, progression, and habit require **po**, **ki**, **si**, or **ro**.
 
-> *mia theo*
-> "I read."
-
-This could describe reading happening now, or express a general truth about the speaker's reading ability. Context determines the interpretation.
-
-## The complete palette
-
-Together, tense and aspect particles provide a precise vocabulary for temporal expression. Past and future require explicit marking, while present and neutral aspect remain unmarked. Choosing among them can become a moment of attention to time; the grammar cannot ensure that it does.
-
-The present remains the unmarked foundation. Every departure into past or future requires a grammatical choice. Within each temporal location, aspect particles show whether the speaker presents the action from inside its flow, at its boundaries, or across its repetitions.
+Because the aspect rank admits one particle, a clause cannot combine **si** with **ro**, or **pa** with **ki**. A singer may begin, continue, and finish in the same evening, but the account reaches those boundaries one clause at a time.

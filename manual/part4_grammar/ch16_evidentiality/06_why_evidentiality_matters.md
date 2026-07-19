@@ -1,58 +1,52 @@
 # Why evidentiality matters for peace
 
-Evidentiality may look like a technical detail, but it is one of the clearest places where Phi turns mindful speech into a grammatical choice. When a source matters, a speaker can say whether a claim comes from witness, inference, report, or assumption. An unmarked sentence remains a plain assertion and makes no source claim.
+Disagreement often concerns two questions at once: what happened, and how each person reached that account. Evidentials cannot reconcile the speakers. They can keep the second question from disappearing inside the first.
 
-## Locating a disagreement
+## Four source claims
 
-Some conflicts begin with competing accounts. "This is what happened." "No, that's what happened." Evidentials do not reconcile the speakers, but they can show whether each account claims witness, inference, report, or assumption.
+| Particle | Gloss | Claim |
+|---|---|---|
+| **hi** | DIR | I perceived the event or state directly. |
+| **ke** | INFER | I concluded this from specific evidence. |
+| **ti** | REP | I received this information from another source. |
+| **ho** | ASSUM | I rely on background expectation. |
 
-The four markers give those claims different shapes:
+Each marker gives a listener a more exact place to respond. A false **hi** remains false, an inference may be weak, a report may have lost its source, and an assumption can be asserted with great confidence. Provenance makes none of them harmless or correct.
 
-**mia hi nila.** — I saw it. (But you might have seen something different.)  
-**mia ke sano.** — I believe I understand. (But I'm reasoning from evidence, not certainty.)  
-**mia ti haolu.** — I heard this. (But reports can be wrong.)  
-**mia ho sano.** — I assume this is true. (But I'm not sure.)
+## A disagreement with evidence
 
-Each marker gives the listener a more precise place to question the claim. A false `hi` remains false, and an assumption marked `ho` can still be delivered with great confidence. The grammar cannot create epistemic coexistence. It can help speakers state the basis on which they disagree.
+```
+shia to hi wepu.
+3SG PST DIR go.
+(They left. I witnessed it.)
+```
 
-## Making accountability visible
+```
+shia to ke ma wepu.
+3SG PST INFER NEG go.
+(I infer that they did not leave.)
+```
 
-An unmarked assertion is not an evasion by definition. It simply makes no source claim. When provenance matters, an evidential puts the speaker's claimed relationship to the statement into the sentence.
+```
+thia hina thesori phelu.
+2SG what evidence hold.
+(What evidence do you have?)
+```
 
-With *hi*, the speaker claims to have witnessed the event. With *ho*, the speaker presents it as an assumption. Those markings give another person something specific to confirm, challenge, or remember. Accountability still depends on what the people do next.
+```
+mia shia wiru to hi nila.
+1SG 3SG basket PST DIR see.
+(I saw their basket.)
+```
 
-Choosing a marker may prompt a useful pause: do I know this directly, or am I assuming? Nothing in the syllable itself prevents carelessness.
+The basket does not settle the departure. It gives the disagreement somewhere to go: perhaps the person left without it, perhaps the witness mistook someone else, perhaps the time of the sight matters. The speakers can now examine the claimed witness and evidence instead of repeating two conclusions louder.
 
-## Practising epistemic awareness
+## Accountability without a badge
 
-Regular use of evidentials can become an exercise in epistemic awareness. Before choosing a particle, a speaker can inspect the path by which the claim arrived. Because marking is optional, this is a practice the speaker takes up rather than a demand attached to every sentence.
+An unmarked assertion is not an evasion. It makes no source claim. When provenance affects testimony, care, a shared decision, or another person's ability to answer, an evidential can put the speaker's claimed relation to the statement on the record.
 
-Phi has no speech evidence showing that this exercise changes anyone's thought patterns over time. The design intention is modest: make the distinction between knowledge, inference, report, and assumption easy to state, then see what speakers do with it.
+That relation is itself accountable. **hi** can be challenged by asking what was perceived; **ke** by examining the evidence and inference; **ti** by tracing the report; **ho** by testing the expectation. One source per clause keeps those claims distinct.
 
-## Evidentiality in practice
+Regular use can become a practice of noticing how a claim arrived. No speech evidence yet shows that this practice changes thought or behaviour over time, and grammar cannot undertake Right Speech for its users. The more modest value is already substantial: witness, inference, report, and assumption are short enough to say before disagreement hardens around an unnamed source.
 
-Consider a disagreement about what happened at an event:
-
-**Speaker A:** shia to hi wepu. — They left (I saw them go).  
-**Speaker B:** mia ke sano. shia to ma wepu. — I reason otherwise. They didn't leave.  
-**Speaker A:** thia hina ke nila. — What did you infer from?  
-**Speaker B:** mia shia wiru to nila. — I saw their basket.
-
-The exchange remains a disagreement. The markers clarify the claimed basis of each position, so the next question can concern evidence rather than merely repeat the conclusion.
-
-## Summary of evidentials
-
-| Particle | Gloss | Meaning | Use when... |
-|----------|-------|---------|-------------|
-| hi | DIR | Direct evidence | You witnessed it yourself |
-| ke | INFER | Inference | You reasoned from evidence |
-| ti | REP | Reportative | Someone told you |
-| ho | ASSUM | Assumptive | You're assuming or guessing |
-
-## The choice to mark or not
-
-Remember that evidentiality is optional in Phi. Unmarked sentences are plain assertions: they claim no source. The choice to include or omit evidentials is itself meaningful.
-
-Marking states a source when that precision is useful. Omitting leaves the source unstated. Neither choice proves confidence, care, honesty, or neglect; context supplies the reason.
-
-Evidentiality gives Phi speakers a concise way to state the claimed basis of knowledge. Right Speech depends on what the speaker does with that precision and how the listener is allowed to answer.
+When provenance matters, it receives a particle; when it does not, it stays unmarked. In either case, the next person remains free to ask how you know.

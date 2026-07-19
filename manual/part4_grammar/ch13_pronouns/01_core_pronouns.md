@@ -1,79 +1,76 @@
 # The core pronouns
 
-Phi has three basic personal pronouns, one for each grammatical person. Unlike many languages, Phi uses the same pronoun regardless of gender, and the third person singular serves where English would use "he," "she," or "they."
+Phi has three singular personal pronouns. They mark grammatical person without gender, animacy, rank, or case endings.
 
-## mia: I / me
+| Phi | Gloss | Referent |
+|---|---|---|
+| **mia** | 1SG | the speaker |
+| **thia** | 2SG | the addressee |
+| **shia** | 3SG | one other being or thing |
 
-The first-person pronoun *mia* refers to the speaker.
+## mia: the speaker
 
-**mia thia nila.** — I see you.  
-**thia mia sano.** — You know me.  
+**mia** keeps the same form in every role:
+
+**mia thia nila.** — I see you.
+
+**thia mia sano.** — You know me.
+
 **mia shea lothea.** — I love peace.
 
-The sound of *mia* reflects its meaning. The *m* is the most internal consonant: it forms with closed lips and resonates inside the head. The bright *i* focuses into self-awareness. The open *a* acknowledges that even in saying "I," we exist in relation to everything else.
+In careful speech, **mia** has two syllables: stressed **mi**, then a separate unstressed **a**. The same hiatus pattern unites all three core pronouns.
 
-*mia* is gender-neutral and carries no case marking. The same form serves whether the pronoun is subject, object, or part of a prepositional phrase.
+## thia: the addressee
 
-## thia: you
+**thia** refers to one person or thing being addressed:
 
-The second-person pronoun *thia* refers to the one being addressed.
+**wa thia shea nai.** — Are you at peace?
 
-**wa thia shea nai.** — Are you at peace?  
-**mia thia whaline.** — I thank you.  
+**mia thia whaline.** — I thank you.
+
 **thia womu lothea.** — You love home.
 
-The *th* in *thia* requires careful placement of the tongue, neither fully in nor out: a deliberate articulation for the deliberate act of addressing another person.
+Second person has one form across formal and informal settings. Politeness, when wanted, belongs to **pi**, and named relationships may use an honorific. The single pronoun avoids encoding rank; it cannot guarantee equal treatment in the conversation around it.
 
-Phi makes no distinction between formal and informal address. There is no separate polite "you" like French *vous* or German *Sie*. All beings receive the same *thia*, and the same respect goes with it.
+## shia: another being or thing
 
-## shia: they (singular)
+**shia** refers to one third-person being or thing:
 
-The third-person pronoun *shia* refers to someone other than the speaker or listener. It is gender-neutral and singular.
+**shia shua.** — They arrive. It arrives.
 
-**shia shua.** — They arrive. (He/she arrives.)  
-**mia shia sano.** — I know them.  
+**mia shia sano.** — I know them. I know it.
+
 **shia womu mioru nai.** — Their home is beautiful.
 
-The use of "they" for a singular person matches growing usage in English and sidesteps the question of gender entirely. In Phi, grammatical gender simply does not exist. *shia* refers to any single person without encoding assumptions about their identity.
+The pronoun marks neither gender nor animacy. English may render it as singular *they*, *he*, *she*, or *it* according to the referent. A noun or productive name can identify someone more specifically without making that information part of the pronoun system.
 
-## Case neutrality
+## Case comes from position
 
-All three pronouns remain unchanged regardless of grammatical role:
+The forms do not change as subject, object, possessor, or prepositional object:
 
-**Subject:** Mia thia nila. — I see you.  
-**Object:** Thia mia nila. — You see me.  
-**After preposition:** Thia mia wei shua. — You come to me.
+| Role | Phi | English |
+|---|---|---|
+| subject | **mia thia nila.** | I see you. |
+| object | **thia mia nila.** | You see me. |
+| prepositional object | **thia wei mia shua.** | You come to me. |
+| possessor | **mia shelu welao nai.** | My book is good. |
 
-Position in the sentence, not the pronoun's form, indicates its role. This analytical structure keeps the system simple and transparent.
+A bare pronoun at the start of a predicate clause is the subject. Predicative possession uses **phelu**, as chapter 11 explains.
 
-## No grammatical gender
+## Topic-drop
 
-Phi pronouns carry no gender marking. This is a deliberate design choice. Languages that require speakers to assign gender to every pronoun embed assumptions about identity into basic communication. Phi refuses this: people can be named without being categorized.
-
-This doesn't prevent speakers from discussing gender when relevant. But it ensures that the grammar itself never forces the issue.
-
-## Topic-drop: the unspoken subject
-
-Phi allows speakers to omit the subject when it is clear from context. This is called topic-drop, and it is common in verb-final languages like Japanese and Korean.
-
-Once a topic has been established, subsequent clauses can leave the subject position empty if the referent is obvious:
+Once a subject is established and remains recoverable, a later clause may omit it:
 
 ```
 shai shelira thiku nai mioru nai.
 CONC forest small be beautiful be.
-(Although the forest is small, [it] is beautiful.)
+(Although the forest is small, it is beautiful.)
 ```
-
-The second clause has no explicit subject. The forest, having just been mentioned, is understood to remain the topic.
 
 ```
 mia shelu theo. shelomu.
 1SG book read. understand.
-(I read the book. [I] understand.)
+(I read the book. I understand.)
 ```
 
-The speaker continues as the understood subject without needing to repeat *mia*.
-
-Topic-drop is never required. Speakers may always include the subject for clarity, emphasis, or contrast. But the option to omit it makes Phi flow more naturally. Some languages impose a repetitive quality by requiring explicit subjects in every clause; Phi does not.
-
-This feature also means that Phi does not need a dedicated pronoun for "it." When referring back to a thing rather than a person, simply drop the subject and let context carry the reference.
+Topic-drop is optional. Repeating the noun or pronoun is always available when two referents might compete. Omission can make an exchange lighter, but context does real work here and sometimes gets it wrong. Phi has **shia** when an explicit third-person pronoun is useful; topic-drop is an alternative, not a substitute for clarity.

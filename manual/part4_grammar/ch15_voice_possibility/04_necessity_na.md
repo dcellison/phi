@@ -1,45 +1,38 @@
-# Necessity *na*
+# Necessity na
 
-Where *po* opens a door, **na** points at the one door there is. It marks what must be so, and Phi uses a single particle for every flavor of *must*, trusting context to say which one is speaking:
+**na** presents a predicate as necessary. The source may be a bodily need, physical constraint, logical conclusion, practical requirement, or stated obligation.
 
-> **thia thuroa** — "You grow"
-> **thia na thuroa** — "You must grow"
+**mia na nulae.** — I need to sleep.
 
-**The body's needs:**
+**womu ki se na lorima.** — The house must have been built.
 
-> **miona na nulae**
-> person NEC sleep
-> "A person must sleep"
+**lo mia na naphe.** — We must help.
 
-**Conclusions the evidence forces.** This is `na` doing inference: you did not see it happen, but what you see now leaves one explanation:
+The same particle covers these readings because each presents one course or conclusion as necessary. Context must say what creates that necessity and who accepts it.
 
-> **thinoe ki na thuroa**
-> seed PFV NEC grow
-> "The seeds must have sprouted"
+## Necessity and inference
 
-> **womu ki se na lorima**
-> home PFV PASS NEC build
-> "The house must have been built" (it stands there, after all)
+**na** is a modal, not an evidential. A logical conclusion may also be inferred from specific evidence, in which case both ranks can appear:
 
-**Obligations circumstances or ethics impose:**
+**womu ki se ke na lorima.** — From the evidence, I infer that the house must have been built.
 
-> **lo mia na naphe**
-> PL 1SG NEC help
-> "We must help"
+**ke** identifies inference as the claimed source. **na** states that the conclusion is judged necessary. Neither particle rates the evidence or guarantees the reasoning.
 
-Notice what the inferential uses share with the evidential `ke` (Part IV, chapter 16): both admit the speaker is reasoning, not witnessing. `na` claims the reasoning is airtight; `ke` claims only that it happened. A careful speaker keeps the two apart, and listeners learn quickly which kind of speaker they are dealing with.
+## Necessity and power
 
-## With tense and aspect
+In **lo mia na naphe**, grammar does not reveal who set the obligation, what circumstances support it, or whether anyone agrees. A physical need and an institutional demand can wear the same modal while having very different consequences.
 
-`na` sits in the modal position of the fixed Slot 1 order:
+This is where Phi's peace-linguistic practice belongs: not in pretending that **na** makes pressure reasonable, but in asking for the source, authority, alternatives, and effects when they matter. Those answers take ordinary nouns and clauses rather than another modal particle.
 
-> **mia to na thalo** — "I had to walk"
-> **thia so na shonela** — "You will need to learn"
-> **mia si na thalo** — "I must be walking" (the necessity is ongoing)
-> **mia ki na kamo** — "I must have arrived"
+## In a Slot 1 stack
 
-## Saying *must* out loud
+| Phi | English |
+|---|---|
+| **mia to na thalo.** | I had to walk. |
+| **thia so na shonela.** | You will need to learn. |
+| **mia si na thalo.** | I must be walking. |
+| **mia ki na kamo.** | I must have arrived. |
 
-An unmarked assertion hides its reasoning; `na` shows it. When someone says `lo mia na naphe`, they are not reporting a fact about the world: they are presenting the conclusion of an argument and inviting you to check it. That is the difference between pressure and reasoning made audible, and it is why necessity in Phi tends to start conversations rather than end them.
+Negation follows the modal. **na ma** means *must not*, the necessity of refraining. Absence of obligation is a different claim and uses the freedom construction in the next section.
 
-What must be done is heavy enough. `na` at least makes sure everyone can see where the weight comes from.
+**na** makes necessity audible. Whether necessity was discovered, negotiated, imposed, or merely asserted is still the question worth asking.

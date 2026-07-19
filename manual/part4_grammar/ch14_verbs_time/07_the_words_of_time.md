@@ -9,12 +9,12 @@ Phi divides the day into eight stations of light:
 | Phi | Gloss | The station |
 |-----|-------|-------------|
 | *horathe* | dawn | first light |
-| *kelua* | morning | the rising hours |
+| *kelua* | morning | the early daylight span |
 | *thaeso* | midday | the sun at its height |
-| *lorui* | afternoon | the long descent |
+| *lorui* | afternoon | the span after midday |
 | *howai* | evening | the day settling |
 | *norawhi* | dusk | last light |
-| *shero* | night | the dark hours |
+| *shero* | night | the dark span |
 | *phoemu* | midnight | the still point |
 
 These are ordinary nouns, and the ordinary prepositions locate you among them: *sui* (during), *tei* (until), *mua* (in, at).
@@ -37,7 +37,7 @@ mia mua shero sheluo.
 (I listen in the night.)
 ```
 
-Phi keeps eight natural stations and coins nothing finer for now. This is a preference for shared, embodied reference, not a claim that a minute is inherently harmful or that natural stations meet every coordination need. When an exact time matters for travel, care, accessibility, testimony, or interoperability, preserve the complete source time outside the Phi passage: the precision remains exact and its source status remains explicit.
+Phi keeps eight natural stations and has no internal words for hour, minute, second, or clock time. This is a preference for shared, embodied reference, not a claim that natural stations meet every coordination need. When an exact time matters for travel, care, accessibility, testimony, or interoperability, the complete source time stays outside the Phi passage: the precision remains exact and its source status remains explicit.
 
 ## The calendar
 
@@ -63,7 +63,7 @@ Every span, whatever its size, has *thorui* (beginning), *kesho* (middle), and *
 
 The near days compose from words you already know: *ha philo* (today), *luera philo* (yesterday), *wireo philo* (tomorrow). The primer's journal chapter dates its entries this way, and the compounds keep the tense system visible every time they are said.
 
-For distances beyond a day, *pheo* and *phoe* do the work. Chapter 19 taught them as subordinators over clauses; they take counted time phrases the same way, standing where any preposition phrase stands, after the subject and before the object.
+For distances beyond a day, *pheo* and *phoe* do the work. Chapter 19 will teach them as subordinators over clauses; with counted time phrases, they occupy the ordinary preposition-phrase position after the subject and before the object.
 
 ```
 mia pheo wi philo so shua.
@@ -77,7 +77,7 @@ friend ANT two day PST arrive.
 (The friend arrived two days ago.)
 ```
 
-Notice what is missing: there is no separate word for "ago" and none for "in ... from now." The preposition gives the distance and the tense particle gives the direction: *pheo* with *so* looks forward from now, *phoe* with *to* looks back. Two small words agree, and English's special machinery turns out to be unnecessary.
+The missing machinery matters: there is no separate word for "ago" and none for "in ... from now." The preposition gives the distance and the tense particle gives the direction: *pheo* with *so* looks forward from now, *phoe* with *to* looks back. Two small words agree, and English's special machinery turns out to be unnecessary.
 
 ## Time as a thing, time as a place
 
@@ -99,7 +99,7 @@ The first sentence talks about time. The second stands in it. Phi keeps the two 
 
 ## The turning words
 
-Five nouns cover repetition and change, each with carved territory. *nuri* (cycle) is the great return: the circle a season or a generation completes. *telui* (rhythm) is the pulse felt inside it, at the scale of breath, footfall, song. *kaero* (phase) is one segment of a turning cycle, the waxing moon. *mosha* (period) is a bounded span that need not return at all. *nuwoe* (stage) is a step on a path that goes somewhere: position in growth, not in return.
+Five nouns keep repetition and change apart. *nuri* (cycle) returns to a comparable starting condition. *telui* (rhythm) is perceived recurrence in breath, footfall, song, or another changing medium. *kaero* (phase) is one segment of a cycle or process. *mosha* (period) is a bounded span that need not recur. *nuwoe* (stage) is a position in a development whose direction matters.
 
 ```
 lo meluna nuri nai.
@@ -141,11 +141,11 @@ child UNIV time play.
 (The child always plays.)
 ```
 
-The scale has two materials. Its middle counts *shemu*, moments, a number honestly vague. Its ends claim *thimu*, time entire, because "always" and "never" are claims about the whole of time, and Phi makes you say so.
+The middle of the frequency range quantifies *shemu*, moments. Its ends quantify *thimu*, time entire, because "always" and "never" make claims about the whole relevant span.
 
 ## The day, lived
 
-The journal practice of chapter 23 runs on these words, and the honest journal of the evidentiality pamphlet already writes with them:
+The journal practice of chapter 23 will run on these words, and the honest journal of the evidentiality pamphlet already writes with them:
 
 ```
 lopia sui philo to wile.
@@ -153,4 +153,4 @@ child DUR day PST play.
 (The child played during the day.)
 ```
 
-A dated page, a day located rather than clocked, a claim no larger than what was seen. That is Phi telling time.
+The sentence locates play during the day and in the past. Provenance stays unmarked, so a witnessed journal entry would add **hi** if witnesshood mattered. Natural time and evidential source remain two separate decisions on the page.

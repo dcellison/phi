@@ -1,6 +1,6 @@
 # The words of place
 
-Chapter 13 §5 gives you here and there (*ha* and *ra*, standing alone with *nai*). This section gives you everything between them: the compass, the sides, the sixteen spatial relators, and the reason Phi owns no ruler.
+Here and there use *ha* and *ra* alone with *nai*; chapter 13 §5 will return to the pair as part of deixis. This section adds the compass, the sides, the nineteen spatial prepositions, and the reason Phi owns no ruler.
 
 ## The compass reads the sky
 
@@ -11,7 +11,7 @@ Chapter 13 §5 gives you here and there (*ha* and *ra*, standing alone with *nai
 | *sileta thorui* | sun's beginning | east |
 | *sileta lumae* | sun's end | west |
 
-East and west compose from the sun because everyone on Earth agrees where it rises; north and south are their own words because no sun-anchor is hemisphere-neutral. All four are ordinary nouns, value-neutral by design: north is not up, south is not down, and no direction outranks another. They ride inside preposition phrases like any noun:
+East and west compose from the sun's daily path when it is visible; north and south remain their own words because the sun's noonward direction changes by hemisphere. All four are ordinary nouns, and none carries an up, down, better, or worse judgment. They ride inside preposition phrases like any noun:
 
 ```
 melu lue nitho shua.
@@ -27,7 +27,7 @@ mia wea sileta thorui thalo.
 
 ## Whose left
 
-*lawe* (left) and *kuri* (right) name sides a body lends to the scene, and the pair is built to be unmistakable in sound. Bare, they are the speaker's sides:
+*lawe* (left) and *kuri* (right) name sides a body lends to the scene. Their distinct forms help, but the reference body still matters. Bare, they are the speaker's sides:
 
 ```
 womu mua lawe nai.
@@ -35,11 +35,11 @@ home LOC left be.
 (The house is on my left.)
 ```
 
-A possessor re-anchors them: *thia lawe* is your left, *keruko kuri* is keruko's right. There is no absolute left in Phi, so none can be imposed; the hearer always knows whose body orients the scene.
+A possessor re-anchors them: *thia lawe* is your left, *keruko kuri* is keruko's right. There is no unmarked absolute left in Phi. When the reference body is not obvious, the possessor says whose orientation governs the scene.
 
 ## The household of relations
 
-Sixteen prepositions place things relative to other things, and every one works the same way: relator first, then the landmark, the whole phrase standing after the subject. The vertical:
+The spatial prepositions all place the relator before its landmark. Familiar *mua* locates an event in or at a place; it never marks a motion endpoint. The vertical set begins with:
 
 ```
 neparu leo tomora nai.
@@ -79,7 +79,7 @@ PL child AROUND fire dance.
 (The children dance around the fire.)
 ```
 
-And passage: *muo* (into), *mue* (out of), *thue* (through), *phei* (away from), joining the motion three you already know, *kau* (to, with arrival promised), *lue* (from), *wea* (toward, promising nothing).
+The passage set is *muo* (into), *mue* (out of), *thue* (through), and *phei* (away from). They join the motion three you already know: *kau* (to, with arrival promised), *lue* (from), and *wea* (toward, promising nothing).
 
 ```
 shalu thue phialu wepu.
@@ -109,7 +109,7 @@ mountain FAR village be.
 (The mountain is far from the village.)
 ```
 
-Near and far are judgements. When you need the separation before making either judgement, use *hirawo* (distance):
+Near and far are judgements. *hirawo* (distance) names the separation before either judgement is made:
 
 ```
 shia thei wi silawo hirawo masue.
@@ -136,12 +136,12 @@ bowl circle shape be.
 *ponalu* (size) names a thing's overall physical scale before anyone calls it large or small:
 
 ```
-ha wi themo molupa ponalu kolo nai.
-PROX two THING.CLF box size equal be.
-(These two boxes are equal in size.)
+ha wi themo molu ponalu kolo nai.
+PROX two THING.CLF container size equal be.
+(These two containers are equal in size.)
 ```
 
-None of these words contains a metre, mile, kilogram, or litre. Phi extends the clock refusal from chapter 14 to the ruler and the scale. It offers honest gauging instead. *masue* (measure) means comparing against a shared standard, not counting units:
+None of these words contains a metre, mile, kilogram, or litre. Phi keeps ruler and scale units outside, just as chapter 14 will keep clock units outside. It offers honest gauging instead. *masue* (measure) means comparing against a shared standard, not counting units:
 
 ```
 shia sheo pelio wetha masue.
@@ -149,12 +149,12 @@ shia sheo pelio wetha masue.
 (They measure the cloth against an arm.)
 ```
 
-Weight has a neutral noun too. *pamolu* names what is compared before either basket is judged *tumoa* (heavy) or *phelo* (light):
+Weight has a neutral noun too. *pamolu* names what is compared before either container is judged *tumoa* (heavy) or *phelo* (light):
 
 ```
-shia ha molupa pamolu masue.
-3SG PROX box weight measure.
-(They measure this box's weight.)
+shia ha molu pamolu masue.
+3SG PROX container weight measure.
+(They measure this container's weight.)
 ```
 
 Where ranking is the honest point, *sheo* with *mo* ranks openly:
@@ -185,6 +185,6 @@ The neutral noun says what is being gauged. The adjectives make the judgement.
 | *nusho* (depth) | extent below a surface or into a thing | *nulo* deep, *saphei* shallow |
 | *pamolu* (weight) | force needed to lift or support | *tumoa* heavy, *phelo* light |
 
-Area and volume keep the measured thing in view. *leko ponalu* is surface size, *lokue ponalu* the size of a place, and *tholu ponalu* the size of a space. Systems *henora* remains capacity, a conditioned limit rather than the room presently occupied. Scientific mass keeps its source distinction when it must be separated from ordinary weight.
+Area and volume keep the measured thing in view. *leko ponalu* is surface size, *lokue ponalu* the size of a place, and *tholu ponalu* the size of a space. Scientific mass keeps its source distinction when it must be separated from ordinary weight.
 
-A language that will not slice the day into minutes will not slice the road into metres. The arm, the day's walk, the balance, and the sky remain close at hand. When repair, health, science, testimony, or shared work needs an exact value, its source record stands beside the Phi sentence that identifies and discusses it.
+The road stays whole rather than being sliced into metres, just as the day stays whole rather than being sliced into minutes. An arm, a day's walk, or a balance can provide a shared comparison in ordinary speech. When repair, health, science, testimony, or shared work needs an exact value, its source record stands beside the Phi sentence that identifies and discusses it.

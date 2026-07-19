@@ -6,15 +6,15 @@ Phi does not require every noun to state number. A bare noun can be interpreted 
 
 **lo melu**  
 *PL friend*  
-“friends”
+"friends"
 
 **lo shiro**  
 *PL tree*  
-“trees”
+"trees"
 
 **lo nophi**  
 *PL story*  
-“stories”
+"stories"
 
 `Lo` marks more than one without giving an exact count or relative quantity.
 
@@ -26,7 +26,7 @@ mia lo melu nila.
 
 ## Numerals and quantifiers replace *lo*
 
-A numeral or quantifier already supplies quantity information, so `lo` is prohibited in the same noun phrase. This is not an optional redundancy distinction: use one quantity marker.
+A numeral or quantifier already supplies quantity information, so `lo` is prohibited in the same noun phrase. This is not an optional redundancy distinction: one noun phrase takes one quantity marker.
 
 | Correct | Incorrect | Meaning |
 |---|---|---|
@@ -37,7 +37,7 @@ A numeral or quantifier already supplies quantity information, so `lo` is prohib
 | `theula melu` | `*theula lo melu` | all friends |
 | `mawha melu` | `*mawha lo melu` | no friends |
 
-Remember the distinction inside the numeral system: `ta shao nophi` is exactly three stories, while bare `shao nophi` is approximately a three-group of stories. Neither combines with `lo`.
+Inside the numeral system, `ta shao nophi` is exactly three stories, while bare `shao nophi` is approximately a three-group of stories. Neither combines with `lo`.
 
 ## Classifiers do not change the rule
 
@@ -58,13 +58,13 @@ The alternatives are:
 
 ## Singular and zero
 
-Phi has no separate singular article. Use `ta` when exact singularity matters:
+Exact singularity takes `ta`; no separate singular article is needed:
 
 **ta melu**  
 *one friend*  
-“one friend”
+"one friend"
 
-Use `mu` for the exact numerical value zero and `mawha` for the quantifier *none*. Both exclude `lo`:
+Exact numerical zero takes `mu`, while the quantifier *none* is `mawha`. Both exclude `lo`:
 
 ```text
 mu melu
@@ -89,7 +89,7 @@ NONE friend
 | `soli melu` | some friends; relative size unstated |
 | `sheloi melu` | contextually many friends |
 
-Exact, approximate, quantified, and unquantified forms make different claims. None is automatically more mindful or truthful; choose the one supported by knowledge and context.
+Exact, approximate, quantified, and unquantified forms make different claims. None is automatically more mindful or truthful; knowledge and context determine which claim is supported.
 
 ## Noun phrase order
 

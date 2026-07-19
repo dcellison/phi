@@ -63,7 +63,7 @@ The joy pair carves the same way: *siora* is felt joy, the upwelling in the one 
 
 The list above gives a learner the core feeling patterns, but Phi's heart has more than one shelf. Beyond it are *monelu* (amused), *wiroa* (hopeful), *luroi* (nervous), and *nilua* (shy). *therua* (eager), *sheli* (impatient), and *wipha* (restless) belong there too. Each word has a useful carve of its own.
 
-Several other feelings keep their parts visible. Anger is *korua thero*, heart-fire, and hatred is the same fire spoken of the same way. Contempt is *thiku nila*, seeing-as-small, an act rather than a verdict. Envy is *phelu pula*, the holding-wish, the wish aimed at what another holds. Loneliness is *sonu* plus *nuhe*, the sadness of being alone. Each expression shows its working: a person who says *phelu pula* has already begun to see what the feeling is made of. Composition here is a choice about meaning. A direct word remains possible when it carries a clear, useful distinction.
+Several other feelings keep their parts visible. Anger is *korua thero*, heart-fire, and hatred uses the same settled expression. Contempt is *thiku nila*, seeing-as-small, framed as an act of perception and never a fact about another person's worth. Envy is *phelu pula*, a wish aimed at what another holds. Loneliness combines *sonu* with *nuhe*, sadness in being alone. These expressions expose Phi's chosen analysis without proving that every person experiences the feeling in exactly that way. A direct word remains possible when it carries a useful distinction.
 
 Wonder needs no compound at all, because wonder is a question held as a feeling, and Phi can put a whole question inside *phaelo*:
 
@@ -91,4 +91,4 @@ mia thia whaline.
 (I thank you.)
 ```
 
-The primer's very first conversation ends on *mia thia lothea*, and every carve in this section stands behind that sentence. The heart's vocabulary is small, its grammar is two patterns, and its compounds show their working. What Phi will not do is hand you a label that thinks for you; it hands you the pieces, and the noticing is yours.
+The primer's first conversation ends on *mia thia lothea*. This section adds the distinctions needed when love is not the only thing in the room. The two predicate patterns keep a person separate from a passing feeling, while the settled compounds leave their interpretation visible enough to question.

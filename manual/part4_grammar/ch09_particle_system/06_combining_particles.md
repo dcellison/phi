@@ -1,102 +1,73 @@
 # How particles combine
 
-When multiple particles appear in a sentence, they follow a predictable structure. Understanding this structure allows you to parse complex sentences and construct precise expressions.
+A particle finds its place by scope, not by the order in which the speaker happens to think of it. The broad frame comes first, word-level particles stay with their constituent, and the verb-phrase block keeps its ranked order.
 
-## The complete particle order
+## The sentence frame
 
-A fully-loaded sentence follows this pattern:
+A useful working template is:
 
-**[Slot 0] [Subject] [Slot 2 + Object] [Slot 1 stack] [Verb]**
+**[Slot 0] [Subject] [Adjuncts] [Slot 2 + Object] [Slot 1] [Manner] [Verb]**
 
-Or more precisely:
+Not every sentence fills every position. An intransitive verb has no object, an unmarked assertion may have no particles at all, and established subjects may be omitted. What remains keeps the same relative order.
 
-**[Frame] [Subject] [Word-particles + Words] [Tense-Aspect-Voice-Evid-Modal-Neg] [Verb]**
+## Building one sentence
 
-## Example: Building a complex sentence
+A plain clause begins the sequence:
 
-A sentence, built layer by layer:
+**mia melu nila.** — I see a friend.
 
-**Base:** mia melu nila. — I see a friend.
+The future comes next:
 
-**Add future:** mia melu so nila. — I will see a friend.
+**mia melu so nila.** — I will see a friend.
 
-**Add possibility:** mia melu so po nila. — I might see a friend.
+Possibility follows:
 
-**Make it plural:** mia lo melu so po nila. — I might see friends.
+**mia melu so po nila.** — I may be able to see a friend.
 
-**Make it proximal:** mia ha lo melu so po nila. — I might see these friends.
+Make the object an unquantified plural, then locate it near the speaker:
 
-**Add politeness:** pi mia ha lo melu so po nila. — (Politely) I might see these friends.
+**mia ha lo melu so po nila.** — I may be able to see these friends.
 
-**Make it a question:** pi wa mia ha lo melu so po nila. — Might I please see these friends?
+Frame the whole clause as a polite question:
 
-Each addition slots into its proper position. The result is long but entirely transparent.
+**pi wa mia ha lo melu so po nila.** — Might I please be able to see these friends?
 
-## Slot 1 stacking examples
+Each addition moves to its grammatical home. **pi wa** applies to the utterance, **ha lo** applies to the object, and **so po** applies to seeing.
 
-The Slot 1 order (Tense → Aspect → Voice → Evidentiality → Modality → Negation) produces clear combinations:
+## Slot 1 in practice
 
-**mia to ki nila.** — I have seen. (past + perfective)
+These pairs make the fixed order audible:
 
-**mia to si nila.** — I was seeing. (past + imperfective)
+**mia to ki nila.** — I had seen.
 
-**nophi to se kealo.** — The story was created. (past + passive)
+**mia to si nila.** — I was seeing.
 
-**mia to ke nila.** — I saw (I infer). (past + inferential)
+**nophi to se kealo.** — The story was created.
 
-**mia to po nila.** — I could see. (past + possibility)
+**mia to ke nila.** — I saw, as I infer from evidence.
 
-**mia to ma nila.** — I did not see. (past + negation)
+**mia to po nila.** — I could see.
 
-**mia to si ke po ma nila.** — I was not being able to see (I infer).  
-(past + imperfective + inferential + possibility + negation)
+**mia to ma nila.** — I did not see.
 
-## Slot 0 and Slot 1 together
+The longer **mia to si ke po ma nila.** uses five ranks: past, ongoing, inferred, possible, and negated. Such a stack is grammatical, but it is not a target to collect. It belongs only to an event that truly needs all five distinctions.
 
-Slot 0 particles frame; Slot 1 particles shape the verb:
+## Slot 0 with Slot 1
 
-**wa thia to nila.** — Did you see? (question + past)
+**wa thia to nila.** — Did you see?
 
-**pi no mia naphe.** — Please help me. (politeness + imperative)
+**pi no mia naphe.** — Please help me.
 
-**lu mia so naphe. thia towe nai.** — If I will help, you will be well.  
-(conditional + future)
+**lu mia naphe. thia so towe nai.** — If I help, you will be well.
 
-**su shea so shua.** — May peace come. (optative + future)
+**su shea so shua.** — May peace come.
 
-## Slot 2 particles in complex sentences
+The condition and its consequence are separate clauses, so each verb carries its own tense. Slot 0 supplies the frame, and ordinary tense grammar still applies.
 
-Slot 2 particles attach to their target words wherever those words appear:
+## A full noun phrase
 
-**pi wa thia ha lo ru mioru peloru so nila.**  
-*POL Q 2SG PROX PL INTS beautiful flower FUT see*  
-"Could you please see these very beautiful flowers?"
+**pi wa thia ha lo ru mioru peloru so nila.** — Will you please see these very beautiful flowers?
 
-Breaking it down:
-- *pi* (Slot 0): politeness
-- *wa* (Slot 0): question
-- *thia*: subject
-- *ha lo ru mioru peloru* (Slot 2 stack + noun): these very beautiful flowers
-- *so* (Slot 1): future
-- *nila*: verb
+Inside the object, **ha** has wider scope than **lo**, and **ru** touches **mioru** directly. Around it, **pi wa** frames the question and **so** locates the seeing in the future.
 
-## Common patterns
-
-Some combinations appear frequently:
-
-**Polite question:** pi wa ...  
-**Polite request:** pi no ...  
-**Past perfect:** to ki  
-**Future possibility:** so po  
-**Negated past:** to ma  
-**Inferential past:** to ke  
-
-## The philosophy of stacking
-
-Every particle adds exactly one piece of information. They compose without interference. This modularity means you can express subtle distinctions that English would require entire phrases to capture:
-
-**mia to si ke po ma naphe.**
-
-This single sentence conveys: "I" + "past" + "ongoing" + "inferred" + "possible" + "not" + "help." In English: "I was apparently not being able to help" or "It seems I wasn't able to be helping." The Phi version is longer but clearer: each element is announced separately.
-
-This transparency costs syllables but gains precision. You always know exactly what the speaker is claiming, how they know it, and how certain they are.
+Particles make distinctions inspectable, but they do not make every crowded sentence kind to the ear. Fixed order helps the listener parse what the speaker chose. Good judgment still decides how much one clause should carry.

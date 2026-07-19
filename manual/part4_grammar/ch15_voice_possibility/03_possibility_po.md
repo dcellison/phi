@@ -1,52 +1,40 @@
-# Possibility *po*
+# Possibility po
 
-English speakers say "it's raining" from the sound on the roof, without looking, in the same grammar they would use if they were standing in it. The possibility particle **po** gives Phi a cheap, precise way to stop doing that:
+**po** presents an event as something that can or may occur. Context decides whether the opening comes from ability, permission, or circumstances.
 
-> **pheralu nai**
-> rain be
-> "It is raining"
+## Three ordinary readings
 
-> **pheralu po nai**
-> rain POT be
-> "It might be raining"
+**mia po theo.** — I can read.
 
-One syllable, and the sentence now tells the truth about how firmly it is held.
+**thia po wepu.** — You may go.
 
-## Three jobs, one particle
+**lo mia po nuawe thuroa.** — We might grow together.
 
-`po` covers the family of meanings that English splits across *can*, *may*, and *might*; context does the sorting, as it does in most languages with a single possibility modal.
+The second clause can express permission only in a context where someone is granting or recognizing it. **po** supplies neither the person's standing to permit the action nor consent from the person affected.
 
-**Ability:**
+## Possibility is not source
 
-> **mia po theo**
-> 1SG POT read
-> "I can read"
+Evidentiality says where a claim came from. **po** says whether the event is presented as possible:
 
-**Permission:**
+**pheralu ke lepa.** — I infer from signs that rain is falling.
 
-> **thia po wepu**
-> 2SG POT go
-> "You may go"
+**pheralu po lepa.** — Rain may fall.
 
-**Speculation:**
+The first clause asserts rain and marks inference as its source. The second makes no source claim and presents rainfall as possible. A speaker may combine the two when both distinctions matter, with evidentiality before modality.
 
-> **lo mia po nuawe thuroa**
-> PL 1SG POT together grow
-> "We might grow together"
+## In a Slot 1 stack
 
-The last one is worth noticing. A bare future would be a prediction; `po` makes it an opening, something offered for consideration rather than asserted. Much of Phi's collaborative tone in practice comes down to speakers reaching for `po` where English habit would assert.
+The modal rank follows evidentiality and precedes negation:
 
-## With tense and aspect
+| Phi | English |
+|---|---|
+| **mia to po naphe.** | I was able to help. |
+| **shia so po kamo.** | They may arrive. They will be able to arrive. |
+| **mia si po shonela.** | I may be learning. |
+| **thinoe ki po thuroa.** | The seeds may have grown. |
 
-`po` holds the modal position in the Slot 1 order:
+Only one modal belongs in a clause. **po ma** denies possibility:
 
-> **mia to po naphe** — "I was able to help" / "I could have helped"
-> **shia so po kamo** — "They might arrive" / "They will be able to"
-> **mia si po shonela** — "I may be learning"
-> **thinoe ki po thuroa** — "The seeds may have grown"
+**mia po ma thalo.** — I cannot walk.
 
-## The cost of leaving it out
-
-Because `po` is optional, omitting it is also a statement. An unmarked sentence claims the plain fact; a `po`-marked one claims a possibility. A speaker who says `pheralu nai` from the sound on the roof has, by Phi's lights, overspoken. Nothing forbids it, but the language keeps the honest version one syllable away, which is close enough that reaching past it gets noticed.
-
-That is the design: not a rule against overconfidence, but a grammar in which possibility has a short explicit form. Accuracy remains the speaker's work.
+Leaving **po** out produces a plain assertion, not a claim of certainty or overconfidence. Adding it makes possibility part of the proposition. The choice can support careful speech, but the grammar cannot tell whether the speaker judged the possibility well.

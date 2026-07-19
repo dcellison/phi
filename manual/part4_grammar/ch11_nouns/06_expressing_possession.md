@@ -1,103 +1,64 @@
 # Expressing possession
 
-## Beyond ownership
+Phi uses two related constructions. Inside a noun phrase, the associated person or thing comes first. In a full predicate, **phelu** states present holding, control, or possession.
 
-Having explored how nouns are described, we turn to a culturally significant type of description: possession. How does a language express the relationship between a person and a thing, or between a part and a whole?
+## Possessor before possessed
 
-Many languages use special possessive cases, endings, or particles for this purpose. Phi approaches it differently. It treats possession not as "owning" in a legalistic sense, but as another descriptive attribute.
+**sila nophi** means the community's story. The first noun modifies the second without a genitive ending or possessive particle.
 
-A "parent's book" is structured the same way as a "beautiful book." The possessor is simply another quality that adds context to the noun being described. This grammatical choice de-emphasizes ownership and frames connections as relationships and associations instead.
+| Phi | Literal gloss | Likely reading |
+|---|---|---|
+| **phao shelu** | parent book | the parent's book |
+| **melu thepalu** | friend garden | the friend's garden |
+| **shiro lirowa** | tree leaf | the tree's leaf |
+| **sila kerou** | community stone | a stone associated with the community |
 
-## The simplicity of positional grammar
+Adjacency does not specify the legal or social relation. It can express ownership, kinship, part-whole structure, authorship, custody, use, or another association that context makes available. When that distinction matters, another clause names it.
 
-The mechanism for expressing possession is simple and requires no new rules. It is a direct application of the head-final principle.
+## Pronoun possessors
 
-To indicate that a noun is "possessed" by another, the speaker places the possessor noun directly before the possessed noun. The possessor is the modifier, and the possessed noun is the head.
+The core pronouns keep their ordinary form:
 
-For example, to speak of "the community's story," one combines `sila` (community) and `nophi` (story) into the phrase:
+| Phi | Literal gloss | English |
+|---|---|---|
+| **mia shelu** | I book | my book |
+| **thia thepalu** | you garden | your garden |
+| **shia melu** | other friend | their friend |
 
-**sila nophi**  
-*community story*  
-"the community's story"
+The possessor precedes the rest of its noun phrase:
 
-There are no special "genitive" endings to add and no possessive particles to insert. The relationship is conveyed entirely through word order. This clean system relies on consistent grammatical rhythm rather than additional machinery.
+**mia serao shelu** — my old book
 
-More examples:
+**mia ha serao shelu** — this old book of mine
 
-| Phi | Gloss | English |
-|-----|-------|---------|
-| `phao shelu` | parent book | the parent's book |
-| `melu thepalu` | friend garden | the friend's garden |
-| `sila kerou` | community stone | the community's stone |
-| `shiro lirowa` | tree leaf | the tree's leaf |
+The order is not freely reversible. **serao mia shelu** would disturb the canonical nesting rather than create an elegant emphasis. Focus uses **ko**, and a separate clause can carry a contrast that the noun phrase should not be asked to hold.
 
-## Pronouns follow the same pattern
+## Predicative possession with phelu
 
-This consistency extends to pronouns. To indicate possession, a pronoun takes the place of the possessor noun at the beginning of the phrase, with no change to its form. Phi does not require separate "possessive pronouns" like English "my," "your," or "their."
+To say that someone has or holds something, make the possessed thing the object of **phelu**:
 
-The core pronouns `mia` (I), `thia` (you), and `shia` (they/other) remain constant and stable. A speaker indicates possession simply by placing them in the modifier slot:
+```
+mia lohau phelu.
+1SG dog hold.
+(I have a dog. This dog is mine.)
+```
 
-| Phi | Gloss | English |
-|-----|-------|---------|
-| `mia shelu` | I book | my book |
-| `thia thepalu` | you garden | your garden |
-| `shia melu` | they friend | their friend |
+```
+mia wi themo wiru phelu.
+1SG two THING.CLF basket hold.
+(I have two baskets.)
+```
 
-The system is transparent. The listener understands that because the pronoun is attached to a noun phrase rather than in the subject or object slot, its function must be that of a possessor. This removes unnecessary grammatical complexity. Position defines the relationship; the word forms never change.
+A bare clause-initial pronoun remains the subject. **mia lohau nai.** can only mean "I am a dog." In **mia lohau welao nai.**, noun-phrase structure makes **mia lohau** the possessed subject, so the clause means "My dog is good." "I am a good dog" keeps the descriptor with the predicate noun: **mia welao lohau nai.**
 
-## Meaning provides clarity
-
-This unified system might raise a question: if both an adjective like `mioru` (beautiful) and a possessor like `phao` (parent) appear in the same slot before a noun, how does the listener distinguish "a beautiful book" from "the parent's book"?
-
-The distinction comes from lexical class and context rather than a possessive marker. `mioru` is an adjective and normally describes a quality here, while `phao` is a noun and normally names a participant in a relationship.
-
-The ordinary readings are therefore:
-
-- `mioru shelu`: a beautiful book
-- `phao shelu`: a book with a relationship to a parent
-
-The quality-noun rule means an adjective can also stand in a noun position, so syntax does not forbid every unlikely alternative. Ordinary context handles most cases; when a rare reading genuinely matters, a speaker can state the relationship in a separate clause.
-
-## Layering possessors with descriptors
-
-Possession and description can combine freely. The order follows a consistent pattern: possessors tend to come before other modifiers, closer to the head noun.
-
-**mia serao shelu**  
-*1SG old book*  
-"my old book"
-
-The possessor `mia` appears first, then the descriptor `serao` (old), then the noun `shelu`. This creates a natural information flow: whose book, what kind of book, the book itself.
-
-However, Phi's flexible word order allows speakers to emphasize different aspects:
-
-**serao mia shelu**  
-*old 1SG book*  
-"the old book of mine" (emphasizing age)
-
-The meaning shifts subtly based on what comes first. Context and communication goals guide these choices.
+**phelu** names present grasp, control, or possession. A wider institutional ownership claim needs its own account. General Phi can describe who holds, uses, tends, made, or received a thing; an exact property status belongs to the source record that establishes it.
 
 ## Nested possession
 
-Possession can nest recursively:
+Possession can nest:
 
-**mia melu shelu**  
-*1SG friend book*  
-"my friend's book"
+**mia melu shelu** — my friend's book
 
-Here, `mia melu` forms a unit meaning "my friend," and this entire unit modifies `shelu`. The resulting phrase describes a book that belongs to someone who is my friend.
+Here **mia melu** forms the possessor phrase for **shelu**. Another layer quickly becomes hard to recover by ear. Two short clauses usually leave the relationships clearer than a chain such as community-parent-friend-book, which asks four nouns to settle their own family meeting.
 
-Deeper nesting is possible but tends toward complexity:
-
-**sila phao melu**  
-*community parent friend*  
-"the community's parent's friend"
-
-In practice, speakers often restructure deeply nested possession into clearer forms, perhaps by breaking it into multiple sentences or using explicit relational language.
-
-## A philosophy of connection
-
-Phi's possessive construction makes a subtle statement about our relationship to the world. By treating possession as another descriptive quality, on par with color or size, the grammar steers speakers away from rigid, legalistic ownership.
-
-It favors a more fluid perspective, one in which people and objects are defined by connections and associations rather than by titles of dominion. The language doesn't ask "Who owns this?" but rather "What is this thing's story? What is it connected to?"
-
-A possession system with no possession marker: the relationship is stated by adjacency alone, which is quietly fitting for a language suspicious of ownership.
+The grammar supplies association by position and possession by **phelu**. Neither construction praises ownership or condemns it. It gives the speaker enough room to say who is connected to the book and, when necessary, what that connection actually is.

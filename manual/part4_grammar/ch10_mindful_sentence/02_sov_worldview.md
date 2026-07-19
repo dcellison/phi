@@ -1,17 +1,17 @@
-# The SOV worldview: context before action
+# Subject, object, verb
 
-To feel what verb-final order does, take one thought through both grammars.
+Take one thought through two word orders.
 
-English: "The parent reads the book." The verb arrives before its object, so the action is known while the book is still on its way. That ordering says nothing about whether the speaker is careful; English has carried more than its share of reflection. It simply places the action earlier in the stream.
+English says, "The parent reads the book." The verb arrives before its object. Phi says **phao shelu theo.** The parent comes first, the book follows, and reading completes the clause.
 
-Now the same thought in Phi: *phao shelu theo.*
-
-First *phao*, a parent. A person appears, and the scene centers on them. Then *shelu*, a book. The scene gains a second element, not yet acted on, simply present. The listener now holds a complete still image: a parent, a book, and a quiet space of possibility between them. Only then comes *theo* (reads), and the image resolves. The verb does not drive the sentence; it completes it.
+The contrast does not divide careless languages from careful ones. English has ample room for reflection, and natural Subject-Object-Verb languages can be spoken with every degree of haste or attention. Word order decides sequence. People decide how to inhabit it.
 
 ## What the order offers
 
-For the speaker, the structure offers a small repeated practice: keep the participants and their relations present until the verb connects them. It does not require the whole sentence to be planned before speech begins. A reactive sentence can move through Phi quickly, and a careful one can take its time. When a speaker takes up the practice, the scene remains present while it is still being spoken.
+For the speaker, Phi offers a repeated opportunity to keep the participants in view until the predicate connects them. The sentence need not be planned in full before speech begins, but the actor and the affected thing must be placed before the act.
 
-For the listener, early particles and relators announce much of the structure, while the final verb requires the participants to be held in memory. Ambiguity and reinterpretation have not vanished; grammar rarely grants such favours. What Phi supplies is a recurring order in which relations can become audible before the event is complete.
+For the listener, early particles and prepositions reveal some relations as they arrive. Other information waits. In **phao shelu theo**, the first two nouns do not tell us whether the parent reads, carries, repairs, or gives the book until **theo** closes the clause. Context helps, as it does in any language, and context can also mislead.
 
-None of this is mystical, and the memory cost is familiar to speakers of other verb-final languages. Phi's particular choice is to use that order as one place where mindful speech may be practised. The interval before the verb may be long or barely felt. What matters to the practice is the speaker's attention, not the elapsed time.
+The cost is working memory. Longer noun phrases and adjuncts make the final predicate harder to anticipate, especially for a new learner. Shorter clauses and topic-drop after a subject is established can ease that burden without changing the grammar.
+
+Phi uses the interval before the predicate as one possible site of mindful speech. A speaker can notice what has already been named and what claim is about to join it. Nothing in the word order forces that notice, which is why it remains worth practising.

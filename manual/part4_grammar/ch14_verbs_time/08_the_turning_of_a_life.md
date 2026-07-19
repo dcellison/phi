@@ -1,10 +1,10 @@
 # The turning of a life
 
-The words of time gave you the day, the calendar, and the cycle. This section gives you the one cycle every speaker is inside: living, aging, dying, and grieving, in a language that has decided to be honest about all four.
+Time becomes personal in the words for living, growth, birth, death, grief, and remembrance. The vocabulary names these plainly without assigning one life course or one account of what follows it.
 
-## The li- family
+## The li family
 
-Life keeps one sound: *lima* (alive), *liona* (live), *lioru* (life). The adjective states, the verb acts, the noun names the whole.
+**lima** (alive), **liona** (live), and **lioru** (life) share an audible opening. The adjective states a condition, the verb presents living as an activity, and the noun names life as a whole.
 
 ```
 mia mua womu liona.
@@ -12,9 +12,11 @@ mia mua womu liona.
 (I live at home.)
 ```
 
-## The arc
+The sound relationship helps memory without turning **li** into a productive prefix.
 
-Age is a built three-step: *limu* (young), *seroli* (mature), *serao* (old), and none of the three is an insult. Ripening is becoming:
+## Age and development
+
+**limu** (young), **seroli** (mature), and **serao** (old) describe different parts of development and duration. None decides worth or ability. A fruit can become mature:
 
 ```
 lureko seroli kelu.
@@ -22,11 +24,11 @@ fruit mature become.
 (The fruit matures.)
 ```
 
-The same arc turns for people, and its late stations are honored roles: *wheo* (elder) and *phewo* (sage, wisdom rather than knowledge, the goal of a lifetime's practice). Things that outlast lives are *tholua* (ancient), and lives that follow lives are *noruwa* (generation), from the words of time.
+**wheo** names an older person recognized in the social role of elder; **phewo** names someone regarded as a sage through sustained reflection or experience. Age alone supplies neither role, and either title leaves authority open to question. **tholua** reaches into ancient duration, while **noruwa** names a generation.
 
-## Entering and leaving
+## Birth and death
 
-The arc is bounded by two verbs, and both license their event nouns by rule: *thowia* (born, a birth), *lumeo* (die, a death).
+**thowia** means be born and, through the event-noun rule, a birth. **lumeo** means die and death.
 
 ```
 lopia to thowia.
@@ -37,10 +39,12 @@ child PST born.
 ```
 shia to lumeo.
 3SG PST die.
-(She died.)
+(They died.)
 ```
 
-*lumeo* is the word, and it is the only word Phi will ever have for this. Where English says passed away, departed, lost, Phi says what happened, because a language built for honesty does not grow a fog bank around the one certainty. The dead one is *rena to lumeo*, the one who died. And death the noun can stand as a subject like any other:
+**lumeo** is Phi's sole verb for death. It names the event plainly rather than turning it into passing away or being lost. Plain naming need not be cold, and grammar cannot make it gentle; care appears in timing, relationship, listening, and the words that surround the fact.
+
+The person who died is **rena to lumeo**. Death can also be the event noun:
 
 ```
 lumeo wei theula lioru shua.
@@ -48,11 +52,9 @@ die DAT UNIV life come.
 (Death comes to all life.)
 ```
 
-Plain naming is not coldness. The gentleness is in the grammar, and the next two sections are where it lives.
-
 ## Grief
 
-Grief uses the feeling pattern from the words of the body: sensations are felt, not been. *nuhe* (sadness) and *holume* (loss) go with *phaelo*; *nuhemi* (grieve) marks the one grieved for with *wei*; *nuhewa* (weep) is the body's part, and the registry's *mirae phialu* (eye-water) is its oldest kenning.
+**nuhe** (sadness) and **holume** (loss) are felt with **phaelo**. **nuhemi** (grieve) introduces the person mourned with **wei**, while **nuhewa** names weeping. The words remain separate because grief can occur without tears, and tears can have another cause.
 
 ```
 mia wei melu nuhemi.
@@ -60,7 +62,13 @@ mia wei melu nuhemi.
 (I grieve for a friend.)
 ```
 
-The intimate honorific deepens it: *mia wei ni melu nuhemi*, I grieve for a dear friend, the grammar of address carrying the closeness the sentence mourns.
+A named intimate relation can remain audible:
+
+```
+mia wei ne ni moli nuhemi.
+1SG DAT NAME HON.INTIM moli grieve.
+(I grieve for dear moli.)
+```
 
 ```
 lo mia holume phowe.
@@ -68,11 +76,11 @@ PL 1SG loss share.
 (We share the loss.)
 ```
 
-That second sentence is the community's whole theory of mourning in three words: the loss is a thing, and it can be shared.
+The reciprocal or shared vocabulary does not prescribe how mourning should look. It makes company sayable when company is present.
 
-## Remembering
+## Remembering and belief
 
-*halemu* (remember) and *sahu* (forget) do the keeping and the releasing, and remembering someone is a plain transitive sentence:
+**halemu** means remember and **sahu** forget:
 
 ```
 mia thia halemu.
@@ -80,11 +88,13 @@ mia thia halemu.
 (I remember you.)
 ```
 
-For what remains, Phi offers two carved words and imposes neither: *phiora* (spirit) is what animates, *norea* (soul) is what identifies. Speakers bring their own understanding of whether and how these outlast *lumeo*; the language holds the words open.
+Phi also has **phiora** (spirit) and **norea** (soul). Spirit concerns an animating presence or disposition; soul belongs to accounts of continuing identity or an immaterial self. Speakers may affirm, question, deny, or use either poetically. Exact doctrine keeps the source terms and definitions that give it identity.
 
-## The ceremony
+## Ceremony and ritual
 
-Phi has *thorea* (ceremony) and will never have more rite words than that. No funeral, no wedding-rite, no baptism: naming a rite standardizes it, and Phi's speakers come from every tradition. A ceremony is described instead, *lumeo thorea* (a death ceremony), and its content belongs to whoever holds it:
+**thorea** is an organized occasion that marks shared significance. **thelumo** is a patterned meaningful act that may occur within a ceremony or stand alone. **holia** is a festival centered on celebration. These general words let Phi describe what people do without assigning one tradition's inherited form to everyone.
+
+A death ceremony is **lumeo thorea**:
 
 ```
 sila wei shia thorea kealo.
@@ -92,6 +102,6 @@ community DAT 3SG ceremony create.
 (The community makes a ceremony for them.)
 ```
 
-What the ceremony contains, the language does not say. That silence is not a gap; it is the door every tradition walks through carrying its own light.
+Funeral, wedding rite, baptism, and other tradition-specific ceremonies keep the names, formulas, roles, and meanings of their source communities rather than receiving separate generic Phi roots. A Phi account can still describe the gathering, patterned acts, participants, consent, and care.
 
-The optative closes the circle. The same *su* that opens the Metta Sutta's wishes holds what cannot be fixed: *su thia shea phaelo.* May you feel peace. It is the sentence Phi offers when nothing can be done, and it is enough.
+The optative offers a wish when repair is not possible: **su thia shea phaelo.** May you feel peace. The sentence does not fill the silence after a death. It gives one person a way to sit inside it with another.

@@ -1,34 +1,24 @@
-# Evidentiality: knowing how we know
+# Evidentiality: naming a source
 
-## Epistemic humility as grammar
+Rain can reach a speaker in several ways. They may stand in it, infer it from wet roofs, receive a message from someone outdoors, or expect it because this season usually brings rain. Phi can name each route.
 
-Most languages allow speakers to make claims without specifying how they know what they claim. "It's raining" commits to a fact but says nothing about whether the speaker looked out the window, heard rain on the roof, or simply assumed based on forecast.
+| Particle | Gloss | Claimed source |
+|---|---|---|
+| **hi** | DIR | direct sensory witness |
+| **ke** | INFER | conclusion from specific evidence |
+| **ti** | REP | information received from another source |
+| **ho** | ASSUM | background expectation without evidence specific to this case |
 
-Phi makes this explicit. The evidentiality system provides particles that mark the source of the speaker's knowledge. When you claim something in Phi, you can also signal how you came to know it.
+The particles occupy the evidential rank after voice and before modality. One clause carries at most one of them. If two sources matter, two clauses can state them without forcing one particle to impersonate both.
 
-It is a practice of epistemic humility, made grammatical. By marking your knowledge source, you acknowledge that what you know has limits, that your perspective is partial, and that others might know differently.
+## Optional marking
 
-## The four evidential particles
+An evidential is optional. **pheralu lepa.** asserts that rain falls with provenance unstated. **pheralu hi lepa.** adds a claim of direct witness; **pheralu ke lepa.** adds inference from signs.
 
-Phi provides four evidential particles; each marks a different relationship between speaker and knowledge:
+The unmarked sentence does not secretly mean **hi**, certain, or careless. It simply leaves provenance unstated. Marking a source does not prove honesty, and omitting one does not prove confidence. The choice matters when the route to the claim matters.
 
-**hi** — direct evidence (I witnessed it myself)  
-**ke** — inferential evidence (I deduced it from evidence)  
-**ti** — reportative evidence (someone told me)  
-**ho** — assumptive evidence (I'm assuming or supposing)
+## Source is not truth or probability
 
-These particles occupy Slot 1 and appear before the verb.
+An eyewitness can misperceive. An inference can be excellent, a report carefully checked, and an assumption correct by chance. Evidentials sort claims by their stated source, not by reliability or degree of belief.
 
-## When to use evidentials
-
-Evidential particles are optional. When no evidential appears, the sentence is a plain assertion: it claims the fact and names no source. Direct knowledge is the natural assumption for present, perceivable events, but the grammar claims nothing: that is `hi`'s job.
-
-Use evidentials when:
-- The knowledge source matters for interpretation
-- You want to be explicitly honest about uncertainty
-- You're reporting something secondhand and shouldn't claim firsthand authority
-- The listener might benefit from knowing how reliable your information is
-
-The choice to include or omit evidentials is itself communicatively meaningful. Marking evidentiality signals care for accuracy; omitting it signals confidence or simplicity.
-
-The four sections that follow take each particle in turn; the chapter closes with why this system exists at all: what marking your knowledge does to a disagreement, and to a mind.
+That limited job is useful. It gives a listener a more exact question: what did you witness, which signs support the inference, who supplied the report, or what expectation supports the assumption? The grammar opens those questions. It cannot require good answers.

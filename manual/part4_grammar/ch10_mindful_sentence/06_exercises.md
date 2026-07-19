@@ -1,174 +1,145 @@
-# Exercises: constructing mindful sentences
+# Exercises: constructing sentences
 
-These exercises will help you internalize Phi's sentence structure. Remember that all sentences follow the SOV pattern, with the verb always coming last.
+These exercises move from the unmarked Subject-Object-Verb clause to particles, manner, and full noun phrases. Every answer is a complete Phi sentence with its period.
 
-## Exercise 1: basic SOV sentences
+## Exercise 1: subject, object, verb
 
-Translate these English sentences into Phi using the basic Subject-Object-Verb structure. The verb should always be the final word.
+The first three sentences establish the order. The remaining three are for translation, with the subject first, the object second, and the verb last.
 
-1. I read the book. → *mia shelu theo*
-2. You help the garden. → *thia thepalu naphe*
-3. The parent understands the friend. → *phao melu shelomu*
-
-Now try these on your own:
-
+1. **mia shelu theo.** — I read the book.
+2. **thia thepalu temoe.** — You tend the garden.
+3. **phao melu shelomu.** — The parent understands the friend.
 4. The friend reads the book.
 5. I help the parent.
-6. You understand the garden. (metaphorically)
+6. You understand the book.
 
-## Exercise 2: adding tense
+## Exercise 2: tense
 
-Add temporal markers to place these sentences in the past or future. Remember that tense particles come immediately before the verb.
+This exercise adds **to** for a past event or **so** for a future event. The particle belongs before the verb.
 
-Present (no marker):
-- *mia shelu theo* — I read the book.
+- **mia shelu theo.** — I read the book.
+- **mia shelu to theo.** — I read the book in the past.
+- **mia shelu so theo.** — I will read the book.
 
-Past (add *to*):
-- *mia shelu to theo* — I read the book (yesterday).
+The remaining sentences:
 
-Future (add *so*):
-- *mia shelu so theo* — I will read the book.
+1. The parent helped the friend.
+2. You will understand the book.
+3. I will tend the garden.
 
-Now try these:
+## Exercise 3: aspect and manner
 
-1. The parent helped the friend. (past)
-2. You will understand the book. (future)
-3. I will help the garden. (future)
+The target forms are **si** for an event in progress, **ki** for one complete at the present reference time, and a descriptor immediately before the verb for manner.
 
-## Exercise 3: aspect markers
+- **phao shelu si theo.** — The parent is reading the book.
+- **phao shelu ki theo.** — The parent has read the book.
+- **phao shelu maeli theo.** — The parent reads the book quietly.
 
-Practice adding aspect to describe the texture of actions.
+The remaining sentences:
 
-Imperfective (*si*) for ongoing actions:
-- *phao shelu si theo* — The parent is reading the book.
+1. I am tending the garden.
+2. You have understood the book.
+3. The friend was reading quietly.
 
-Perfective (*ki*) for completed actions:
-- *phao shelu ki theo* — The parent has finished reading the book.
+## Exercise 4: Slot 0 frames
 
-Combine tense and aspect:
-- *phao shelu to si theo* — The parent was reading the book.
+Each answer begins with the appropriate frame.
 
-Now try these:
+- **wa thia shelu theo.** — Do you read the book?
+- **no shelu theo.** — Read the book.
+- **pi no shelu theo.** — Please read the book.
+- **lu thia shelu theo. mia so shelomu.** — If you read the book, I will understand.
 
-1. I am helping the garden. (ongoing)
-2. You have understood the book. (completed)
-3. The friend was reading. (past, ongoing)
+The remaining sentences:
 
-## Exercise 4: framing sentences
+1. Does the friend help?
+2. Please tend the garden.
+3. If you understand the book, you will help me.
 
-Add framing particles to change the sentence type. Remember that framing particles always come first.
+## Exercise 5: passive voice
 
-Statement:
-- *thia shelu theo* — You read the book.
+In each passive answer, the patient moves to subject position and **se** precedes the verb.
 
-Question (add *wa*):
-- *wa thia shelu theo.* — Do you read the book?
+- **phao shelu theo.** — The parent reads the book.
+- **shelu se theo.** — The book is read.
 
-Request (add *no*):
-- *no shelu theo* — Read the book.
+The remaining sentences:
 
-Polite request (add *pi no*):
-- *pi no shelu theo* — Please read the book.
+1. The garden is tended.
+2. The book is understood.
 
-Conditional (add *lu*):
-- *lu thia shelu theo...* — If you read the book...
+The final step asks what each passive leaves out. One answer then becomes an active clause with a named actor.
 
-Now try these:
+## Exercise 6: noun phrases
 
-1. Turn "The friend helps" into a question.
-2. Make a polite request to help the garden.
-3. Create a conditional about understanding the book.
+In each noun phrase, every modifier precedes the noun it affects.
 
-## Exercise 5: shifting focus with passive
+- **welao shelu** — good book
+- **ha melu** — this friend
+- **lo thepalu** — gardens
+- **ha welao shelu** — this good book
 
-Practice using *se* to shift focus from the agent to the patient. The passive particle comes immediately before the verb.
+The remaining phrases:
 
-Active:
-- *phao shelu theo* — The parent reads the book.
-
-Passive:
-- *shelu se theo* — The book is read.
-
-Now try these:
-
-1. Change "I help the garden" to "The garden is helped."
-2. Change "You understand the book" to "The book is understood."
-
-## Exercise 6: modifying nouns
-
-Practice placing modifiers before the nouns they describe.
-
-Basic pattern:
-- *welao shelu* — good book
-- *ha melu* — this friend
-- *lo thepalu* — gardens (plural)
-
-Combined:
-- *ha welao shelu* — this good book
-- *lo welao melu* — good friends
-
-Now translate:
-
-1. that garden (use *ra* for "that")
+1. that garden
 2. many books
 3. this good parent
 
-## Exercise 7: complete sentences
+## Exercise 7: complete clauses
 
-Combine everything you have learned to translate these complex sentences:
+The complete clauses:
 
 1. Do you understand this book?
-2. Please help the good garden.
-3. If I read the book, I will understand. (Remember: Phi uses periods, not commas.)
+2. Please tend the good garden.
+3. If I read the book, I will understand.
 4. The friends were reading many books.
 5. Is the parent helping?
+6. I carried this basket quickly.
 
 ## Answer key
 
 Exercise 1:
-4. *melu shelu theo*
-5. *mia phao naphe*
-6. *thia thepalu shelomu*
+
+4. **melu shelu theo.** — The friend reads the book.
+5. **mia phao naphe.** — I help the parent.
+6. **thia shelu shelomu.** — You understand the book.
 
 Exercise 2:
-1. *phao melu to naphe*
-2. *thia shelu so shelomu*
-3. *mia thepalu so naphe*
+
+1. **phao melu to naphe.** — The parent helped the friend.
+2. **thia shelu so shelomu.** — You will understand the book.
+3. **mia thepalu so temoe.** — I will tend the garden.
 
 Exercise 3:
-1. *mia thepalu si naphe*
-2. *thia shelu ki shelomu*
-3. *melu to si theo*
+
+1. **mia thepalu si temoe.** — I am tending the garden.
+2. **thia shelu ki shelomu.** — You have understood the book.
+3. **melu to si maeli theo.** — The friend was reading quietly.
 
 Exercise 4:
-1. *wa melu naphe*
-2. *pi no thepalu naphe*
-3. *lu thia shelu shelomu…*
+
+1. **wa melu naphe.** — Does the friend help?
+2. **pi no thepalu temoe.** — Please tend the garden.
+3. **lu thia shelu shelomu. thia so mia naphe.** — If you understand the book, you will help me.
 
 Exercise 5:
-1. *thepalu se naphe*
-2. *shelu se shelomu*
+
+1. **thepalu se temoe.** — The garden is tended.
+2. **shelu se shelomu.** — The book is understood.
 
 Exercise 6:
-1. *ra thepalu*
-2. *sheloi shelu* (or *lo shelu* for unquantified plural)
-3. *ha welao phao*
+
+1. **ra thepalu** — that garden
+2. **sheloi shelu** — many books
+3. **ha welao phao** — this good parent
 
 Exercise 7:
-1. *wa thia ha shelu shelomu*
-2. *pi no welao thepalu naphe*
-3. *lu mia shelu theo. mia so shelomu*
-4. *lo melu sheloi shelu to si theo*
-5. *wa phao si naphe*
 
-## Practice tip
+1. **wa thia ha shelu shelomu.** — Do you understand this book?
+2. **pi no welao thepalu temoe.** — Please tend the good garden.
+3. **lu mia shelu theo. mia so shelomu.** — If I read the book, I will understand.
+4. **lo melu sheloi shelu to si theo.** — The friends were reading many books.
+5. **wa phao si naphe.** — Is the parent helping?
+6. **mia ha wiru to reshi kolua.** — I carried this basket quickly.
 
-When forming sentences, follow this mental order:
-
-1. Begin with the framing particle if needed (question, request, condition)
-2. State the subject
-3. State the object (if any)
-4. Add any modifiers to the verb (tense, aspect, modality)
-5. End with the verb
-
-This sequence ensures that you build context before action, and it invites your listener into a shared understanding before you complete the thought.
+The longest answers read from left to right by scope: frame, participants, verb particles, manner, verb. If the final verb feels delayed, that feeling is useful information. Repetition can make the order familiar; the delay is not a test of virtue.

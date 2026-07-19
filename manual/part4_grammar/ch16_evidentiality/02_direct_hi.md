@@ -1,49 +1,33 @@
-# Direct experience *hi*
+# Direct experience hi
 
-The particle *hi* marks information as directly witnessed through the speaker's own senses. The speaker was there, perceived the event, and can vouch for it personally.
+**hi** explicitly claims that the speaker perceived the event or state through their own senses.
 
-## Basic usage
+**mia hi nila.** — I see this directly.
 
-**mia hi nila.** — I see (this). (I am directly witnessing it.)  
-**shia to hi wepu.** — They left. (I saw them leave.)  
-**peloru hi mioru nai.** — The flower is beautiful. (I see it myself.)
+**shia to hi wepu.** — They left; I witnessed it.
 
-The *hi* particle emphasizes that the speaker has firsthand sensory knowledge, not inference, report, or assumption.
+**peloru hi rulo nai.** — The flower is red, as I directly perceive it.
 
-## When to use *hi*
+The particle claims witnesshood, not merely strong confidence. A speaker who saw traces after an event uses **ke** for the conclusion rather than **hi** for the event itself.
 
-An unmarked sentence claims no source. For a present, perceivable event (*mia nila*, I see), direct perception is the natural assumption, but only *hi* claims it, and takes on the accountability of the claim. So when is *hi* worth spending?
+## The boundary
 
-Use *hi* when:
-- You want to emphasize the directness of your knowledge
-- The context involves other evidential types and you need to contrast
-- Your claim might be doubted and you're vouching for it
-- You're being precise about how you know
+Direct evidence may come through sight, hearing, touch, taste, smell, or another immediate bodily perception. The boundary is simple to state even when a real case is difficult: **hi** concerns perception of the claimed event or state, while **ke** concerns signs from which the claim is inferred.
 
-**shia to wepu.** — They left. (simple past)  
-**shia to hi wepu.** — They left. (I saw it happen.)
+The contrast:
 
-The second version explicitly commits to witnessing, which may matter in some contexts (testimony, dispute resolution, important news).
+**shia to hi wepu.** — I witnessed them leave.
 
-## What counts as direct evidence
+**shia to ke wepu.** — I infer from evidence that they left.
 
-Direct evidence includes:
-- Seeing something happen
-- Hearing something
-- Feeling, tasting, or smelling something
-- Any firsthand sensory perception
+The first may matter in testimony; the second may be the more accurate account when the speaker returned to an empty room. Neither particle tells the listener how good the eyesight, lighting, memory, or inference was.
 
-It does not include:
-- Seeing signs that something happened (that's inference, *ke*)
-- Being told something happened (that's reportative, *ti*)
-- Assuming something is probably true (that's assumptive, *ho*)
+## Form and position
 
-The boundary is between "I perceived the event itself" and "I perceived something else that led me to conclude about the event."
+Breath passes through the open glottis for **h** and moves into high front **i**. The form has no special claim to immediacy hidden in its sound.
 
-## Sound and meaning
+Evidentiality follows voice and precedes modality. Past witnesshood keeps tense first:
 
-The *hi* particle is minimal: just a voiced glide into a bright vowel. It's quick and clear, like pointing at something present. The sound suggests immediacy, the here-and-now quality of direct perception.
+**womu to se hi lorima.** — The house was built; I witnessed it.
 
-## Cultural note
-
-Some languages grammatically require evidential marking; speakers cannot make a claim without specifying how they know. Phi doesn't go that far, but it provides the tools for speakers who value epistemic precision. The availability of *hi* invites reflection: "Have I actually witnessed this? Or am I assuming?"
+Witnessing can be worth stating when accounts differ. It also puts a clear responsibility on the claim: **hi** says the speaker perceived this event, and another person may ask what, where, and under what conditions.

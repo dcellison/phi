@@ -1,41 +1,41 @@
-# The reflexive *miso*
+# The reflexive miso
 
-The reflexive pronoun *miso* indicates that the action refers back to the subject. It does the work of English "myself," "yourself," "themselves," and similar constructions.
+**miso** occupies the object position and sends the action back to the subject.
 
-## Basic usage
+**mia miso nila.** — I see myself.
 
-**mia miso nila.** — I see myself.  
-**thia miso sano.** — You know yourself.  
+**thia miso sano.** — You know yourself.
+
 **shia miso whaline.** — They thank themselves.
 
-The reflexive appears before the verb, in the object position. It marks the subject and object as the same entity.
+## One form for every subject
 
-## One form for all persons
+The subject supplies person and number, so **miso** never changes:
 
-Unlike English, which changes reflexive forms based on person (myself, yourself, herself), Phi uses *miso* universally. The subject of the sentence tells you who *miso* refers to:
+**mia miso theala.** — I heal myself.
 
-**mia miso theala.** — I heal myself.  
-**thia miso theala.** — You heal yourself.  
-**shia miso theala.** — They heal themselves.  
+**thia miso theala.** — You heal yourself.
+
+**shia miso theala.** — They heal themselves.
+
 **lo mia miso theala.** — We heal ourselves.
 
-This simplification loses no clarity. The reflexive relationship is already established by the verb's structure; the pronoun simply makes it explicit.
+With a plural subject, **miso** returns the action to each acting member. Action among the members belongs instead to **wiso**.
 
-## Sound and meaning
+## Sound family
 
-The word *miso* connects to *mia* through its initial *mi*, an echo of the self-referential first person. The addition of *so* (which also appears in the future particle) adds a sense of continuation or direction, the self reaching toward itself.
+**miso** and **wiso** share final **so**, which makes the pair easy to recognize. The ending is an audible family mark, not a productive suffix and not the future particle hidden inside a pronoun. The closed-lip beginning of **miso** gives it a more inward whole-word contour, an aid to memory rather than part of its definition.
 
-## When to use reflexive
+## When the reflexive matters
 
-Use *miso* when the subject performs an action on or for itself:
+**miso** appears when a transitive action's subject and object are the same:
 
-**mia miso naphe.** — I help myself.  
-**thia miso nila.** — You see yourself. (in a mirror, metaphorically, etc.)  
-**shia miso shonela.** — They teach themselves.
+**mia miso naphe.** — I help myself.
 
-Without *miso*, these sentences would require a different object:
+**thia miso nila.** — You see yourself.
 
-**mia thia naphe.** — I help you. (not myself)  
-**mia shia naphe.** — I help them. (not myself)
+**shia miso thumela.** — They teach themselves.
 
-The reflexive makes the self-directed nature of the action explicit.
+The ordinary learning clause needs no reflexive object: **shia shonela.** means "They learn." **thumela** is the transitive verb *teach*, so **shia miso thumela** has an actual object to return to the subject.
+
+Without **miso**, a different object names a different participant: **mia thia naphe.** is "I help you." The short pronoun prevents one particularly consequential misunderstanding.
