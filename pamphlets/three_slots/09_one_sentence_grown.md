@@ -1,20 +1,38 @@
-# Part 9: One sentence, grown with care
+# Part 9: One sentence, grown with context
 
-One scene, everything at once, and this time the everything is small: a child, an evening, a garden that did not get its water. The particle system's second skill, the one this pamphlet actually exists for, is hearing what each particle *costs*. Here is a day's worth of cost, in one exchange.
+A garden gives the particle system somewhere ordinary to work. The scene is small: someone asks about water that was meant for the garden. Several answers are grammatical, but they answer different questions and reveal different amounts of information.
 
-### The evening question
+### The question
 
 ```
-wa thia wei muila phialu to loa.
-Q 2SG DAT earth water PST give.
-(Did you give water to the earth?)
+wa thia wei thepalu phialu to loa.
+Q 2SG DAT garden water PST give.
+(Did you give water to the garden?)
 ```
 
-The elder's question arrives fully announced: `wa` first, so the child consents to be asked before hearing what; the household's oldest sentence-shape inside it; `to` filing the day where it now lives. No softening `pi`: this is family register, and the question is gentle already, being a question at all.
+`wa` frames a yes/no question. `to` places the giving in the past. The frame says nothing about whether the question is welcome; that remains in the conversation around it.
 
-### The sentence not said
+The polite form is equally exact about its limited addition:
 
-The child knows two true answers. The first is grammatically perfect:
+```
+pi wa thia wei thepalu phialu to loa.
+POL Q 2SG DAT garden water PST give.
+(Did you give water to the garden?)
+```
+
+`pi` marks a polite stance. Tone, timing, relationship, and the listener's circumstances still matter.
+
+### An active answer
+
+```
+mia wei thepalu phialu to ma loa.
+1SG DAT garden water PST NEG give.
+(I did not give water to the garden.)
+```
+
+This answer names the actor because the question asked about that person's action. `ma` negates the giving, while the rest of the clause stays in place.
+
+### A passive answer
 
 ```
 phialu to se ma loa.
@@ -22,44 +40,47 @@ water PST PASS NEG give.
 (The water was not given.)
 ```
 
-Every particle legal, every rank in order, and the whole sentence a hiding place. `se` has quietly retired the agent; the not-giving floats agentless, a weather event that befell the water. This is the passive's shadow side, and the manual names it honestly: `se` can soften statements that might otherwise assign blame. Sometimes that is mercy. From your own mouth, about your own deed, it is a door marked out.
+This sentence is also grammatical. It presents the water as subject without naming a giver. That may be appropriate when the giver cannot be identified or when the present topic is the water itself. As a reply to "Did you give it?", however, it supplies less of the information requested. The difference comes from context, not from a rule that makes passive voice evasive.
 
-### The sentence said
-
-```
-mia wei muila phialu to ma loa.
-1SG DAT earth water PST NEG give.
-(I did not give water to the earth.)
-```
-
-One word different at the front, one particle different in the stack: `mia` stepping into the place `se` had emptied, `ma` standing against the child's own verb. The negation denies the deed and nothing else; the tense keeps the day; the subject keeps the authorship. Nobody made this happen, and nothing in the sentence pretends otherwise. It costs more to say. That is how you know it is the right one.
-
-### The answer to honesty
+An observer who infers the same result can say:
 
 ```
-lu thia ro loa. thepalu thuroa.
-COND 2SG HAB give. garden grow.
-(If you give habitually, the garden grows.)
+phialu to se ke ma loa.
+water PST PASS INFER NEG give.
+(I infer that the water was not given.)
+```
+
+Now the source is part of the message. The sentence still does not identify an actor.
+
+### A future pattern
+
+```
+mia wei thepalu phialu so ro loa.
+1SG DAT garden water FUT HAB give.
+(I will give water to the garden regularly.)
+```
+
+`so ro` presents a recurring pattern in the future. A promise or a schedule would need its own context; the grammar reports the pattern.
+
+The same content can enter a condition and a wish:
+
+```
+lu mia wei thepalu phialu ro loa. thepalu thuroa.
+COND 1SG DAT garden water HAB give. garden grow.
+(If I give water to the garden regularly, the garden flourishes.)
 
 su thepalu thuroa.
 OPT garden grow.
-(May the garden grow.)
+(May the garden flourish.)
 ```
 
-No reproach arrives: a condition does, wearing `lu`, with `ro` inside it, because the elder is not asking for tomorrow's watering but for the pattern (Part 3's carve, earning its keep in consolation). And the child answers with the pattern promised, in the grid's own cell:
+The condition precedes its consequence. The wish frames its own clause. Neither sentence borrows moral force from the particles around it.
 
-```
-theula philo mia so ro loa.
-UNIV day 1SG FUT HAB give.
-(Every day, I will give — habitually.)
-```
+### Practice: change one choice at a time
 
-`so ro`: the habit is coming. A child who answered `mia so loa` would have promised one watering; this one promised a shape of days. The elder spends the evening's `su` on the garden, and the scene closes the way Phi scenes close: nothing exclaimed, everything said.
+1. Make the opening question polite.
+2. Answer as the person who knows they did not give the water.
+3. Answer as an observer who infers only that the water was not given.
+4. Give a sentence that presents your future giving of water as a recurring pattern.
 
-### The count
-
-Walk back through and tally the moral machinery: a question announced before asked; a passive dodge constructed and declined; a negation that touched only the deed; authorship kept by one pronoun; a condition offered instead of a verdict; a habit promised instead of a moment; a hope spent on the garden rather than the child, who did not need it. Seven particle choices, every one audible, every one a small act of character. The stack is a conscience with positions.
-
-### Drill: your own evening question
-
-Take one true small failure from your week. Write both answers (the agentless passive and the owned active) with correct stacks, and read them aloud in that order. Feel where the second one costs. Then write the promise you can actually keep, choosing `so` alone or `so ro` honestly: one act, or a pattern. (The audit habit is the evidentiality pamphlet's; the register is the naming pamphlet's; the growing is this one's.)
+Answers: 1 `pi wa thia wei thepalu phialu to loa.` 2 `mia wei thepalu phialu to ma loa.` 3 `phialu to se ke ma loa.` 4 `mia wei thepalu phialu so ro loa.` Compare the actor, source, and temporal view in each line. That comparison is the useful work of the scene.

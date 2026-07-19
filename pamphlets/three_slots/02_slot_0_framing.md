@@ -1,51 +1,72 @@
 # Part 2: Slot 0: framing
 
-Slot 0 is where a sentence declares what kind of act it is, before one word of content. Five intents and one dress: `wa` asks, `no` requests, `lu` supposes, `su` hopes, `pi` softens whichever of them it wraps. Absence is the sixth option and the commonest: no frame, plain statement.
+Compare `thia towe nai.` (You are well.) with `wa thia towe nai.` (Are you well?). One small word changes the work of the whole utterance, so Slot 0 comes before the subject and before the clause it frames.
+
+| Form | Work |
+|---|---|
+| no particle | ordinary declarative assertion |
+| `wa` | yes/no question |
+| `no` | directive, interpreted in context as a request or command |
+| `lu` | realis condition |
+| `lu he` | irrealis or counterfactual condition |
+| `su` | wish, hope, blessing, or prayer |
+| `pi` | polite stance |
+
+### Questions, directives, and wishes
 
 ```
 pi wa thia towe nai.
 POL Q 2SG well be.
-(Are you well? — politely asked)
+(Are you well?)
+
+pi no mia naphe.
+POL IMP 1SG help.
+(Please help me.)
 
 su theula towe nai.
 OPT UNIV well be.
 (May all be well.)
-
-lu thia naphe. mia towe phaelo.
-COND 2SG help. 1SG well feel.
-(If you help, I feel well.)
 ```
 
-### Politeness is the outermost frame
+`wa` identifies a yes/no question, though the conversation still decides whether that question is welcome. `no` identifies a directive; context makes it a request or a command. `pi` marks politeness, which can cover goodwill or pressure with equal grammatical ease.
 
-When Slot 0 particles combine, `pi` comes first, always (`pi wa`, `pi no`, `pi su`), and ch21 §2 gives the reason in one line: respect is the outermost frame, wrapped around even the sentence's own speech-act. The listener hears care before they hear what kind of sentence is coming, which is the modifier-first principle applied to feelings.
+### Conditions come before consequences
+
+The condition is its own sentence and precedes the consequence it modifies:
 
 ```
-pi su thia towe nai.
-POL OPT 2SG well be.
-(I hope, respectfully, that you are well.)
+lu thia mia naphe. mia so thia whaline.
+COND 2SG 1SG help. 1SG FUT 2SG thank.
+(If you help me, I will thank you.)
 ```
 
-### The irrealis: `lu he`
-
-`lu` alone supposes something real or likely; `lu he` supposes against the world: counterfactuals, roads not taken. `he` exists only here, canon-bound to `lu`:
+For an unreal, imagined, or counterfactual condition, `he` follows `lu`:
 
 ```
 lu he mia to naphe. shia to ma wepu.
 COND IRR 1SG PST help. 3SG PST NEG go.
-(If I had helped — but I didn't — they would not have left.)
+(If I had helped, although I did not, they would not have left.)
 ```
 
-### What Slot 0 does not do
+`he` occurs only in the fixed form `lu he`. Each clause still carries its own tense, aspect, and other Slot 1 choices.
 
-Two boundary notes worth fixing early. First, the intents do not stack with each other: the corpus never asks a wish or commands a question: a sentence performs one speech-act, and `pi` is the only particle that dresses another. (`pi lu` itself is unattested; nobody has yet needed a *polite if*.) Second, `kona` is not Slot 0, however sentence-initial it looks: the vocative stands outside the sentence entirely, its own little utterance with its own period (ch21 §1, the naming pamphlet). `kona melu. wa thia towe nai.` is a call and then a framed sentence: two acts, two periods.
+### The licensed combinations
 
-### Deep coverage elsewhere
+Phi documents two combinations of politeness with another Slot 0 frame: `pi wa` and `pi no`. Politeness comes first in both. `lu he` is the other fixed two-particle form. No other multiple Slot 0 sequence is licensed.
 
-Each frame has its own literature now: `wa` and the questions that need no `wa` are the punctuation pamphlet, part 2; `su` has `lothea thole` entirely to itself, with thirty-one wishes in one text; `no`'s gentleness is ch10 §5. This part's job is only the system: five intents, one dress, politeness first, absence meaningful.
+`kona` is not a Slot 0 particle. A vocative is an extra-clausal utterance with its own period:
 
-### Drill: one thought, five frames
+**kona melu. wa thia towe nai.** (Friend. Are you well?)
 
-Take `thia sulopa pilewa.` (you make soup) and reframe it aloud: as a question; a request; a condition with a consequence of your own; a wish; then the polite question and the polite request. Check yourself:
+### Practice: one proposition, several frames
 
-1. `wa thia sulopa pilewa.` 2. `no sulopa pilewa.` (the subject rests: requests address their doer) 3. `lu thia sulopa pilewa. mia seniku.` 4. `su thia sulopa pilewa.` Odd as a wish? Then feel why: hoping aloud about someone's soup-making is a strange spend of `su`. The strangeness is the drill working: frames are not decorations, they are claims about why you are speaking. 5. `pi wa thia sulopa pilewa.` 6. `pi no sulopa pilewa.`
+Begin with `thia sulopa pharelo.` (You cook soup.) Give it each requested frame.
+
+1. Ask whether the listener cooks soup.
+2. Direct the listener to cook soup.
+3. Make the cooking a condition, followed by `mia seniku.` (I smile.)
+4. Wish that the listener may cook soup.
+5. Make the question polite.
+6. Make the directive polite.
+
+Answers: 1 `wa thia sulopa pharelo.` 2 `no sulopa pharelo.` 3 `lu thia sulopa pharelo. mia seniku.` 4 `su thia sulopa pharelo.` 5 `pi wa thia sulopa pharelo.` 6 `pi no sulopa pharelo.` The subject is normally omitted from the directive because the listener is its understood actor.
