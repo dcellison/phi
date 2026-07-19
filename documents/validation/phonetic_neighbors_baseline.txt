@@ -2,7 +2,7 @@
 # score	unit_edits	left	left_gloss	left_kind	right	right_gloss	right_kind	corpus_attestations
 0.47	1	mia	1SG	function	mea	thanks	interjection	1746
 0.47	1	lu	COND	function	lo	PL	function	1548
-0.47	1	shea	peace	content	shia	3SG	function	1437
+0.47	1	shea	peace	content	shia	3SG	function	1435
 0.47	1	nila	see	content	nela	COORD	function	658
 0.47	1	so	FUT	function	su	OPT	function	368
 0.47	1	sholu	complete	content	sholo	QUOT.COMP.CLOSE	function	277
@@ -29,8 +29,8 @@
 0.47	1	wenu	tonic	content	weno	when	function	3
 0.47	1	phelu	hold	content	phelo	light	content	207
 0.47	1	philu	candle	content	phelu	hold	content	204
-0.47	1	phaelo	feel	content	phaelu	peaceful	content	162
-0.47	1	loa	give	content	lua	lovely	interjection	159
+0.47	1	phaelo	feel	content	phaelu	peaceful	content	163
+0.47	1	loa	give	content	lua	lovely	interjection	156
 0.47	1	kelu	become	content	kelo	frame	content	149
 0.47	1	welao	good	content	wilao	long-for	content	126
 0.47	1	shero	night	content	shiro	tree	content	99
@@ -111,8 +111,8 @@
 0.50	1	shua	come	content	sua	who	function	220
 0.50	1	mo	CMPR	function	no	IMP	function	212
 0.50	1	ki	PFV	function	pi	POL	function	211
-0.50	1	shea	peace	content	phea	AS	function	193
 0.50	1	ki	PFV	function	ti	REP	function	191
+0.50	1	shea	peace	content	phea	AS	function	191
 0.50	1	ka	CAUS	function	pa	INCH	function	185
 0.50	1	mu	zero	content	nu	ORD	function	169
 0.50	1	theo	read	content	pheo	POST	function	157
@@ -155,7 +155,7 @@
 0.50	1	sheli	impatient	content	theli	EACH	function	2
 0.50	1	sheli	impatient	content	wheli	ANY	function	1
 0.50	1	wheli	ANY	function	theli	EACH	function	1
-0.50	1	sano	know	content	whano	stand	content	317
+0.50	1	sano	know	content	whano	stand	content	314
 0.50	1	shelu	book	content	phelu	hold	content	266
 0.50	1	phena	kind	content	thena	thing	content	236
 0.50	1	shua	come	content	thua	fair	content	218
@@ -165,17 +165,17 @@
 0.50	1	phelu	hold	content	helu	smooth	content	205
 0.50	1	sena	pattern	content	thena	thing	content	205
 0.50	1	thema	guardian	content	thena	thing	content	205
-0.50	1	shaelo	brave	content	phaelo	feel	content	160
+0.50	1	shaelo	brave	content	phaelo	feel	content	161
 0.50	1	phao	parent	content	shao	three-group	content	158
-0.50	1	melu	friend	content	nelu	revere	content	157
+0.50	1	melu	friend	content	nelu	revere	content	155
 0.50	1	thinu	put	content	thimu	time	content	134
 0.50	1	whalo	large	content	thalo	walk	content	130
 0.50	1	nophi	story	content	mophi	wool	content	107
 0.50	1	wheo	elder	content	theo	read	content	103
 0.50	1	shao	three-group	content	hao	pardon	interjection	102
-0.50	1	hea	hear	content	shea	peace	content	99
 0.50	1	korua	heart	content	torua	year	content	99
 0.50	1	noshi	near (adj)	content	nophi	story	content	99
+0.50	1	hea	hear	content	shea	peace	content	97
 0.50	1	phulae	mouth	content	sulae	warm	content	97
 0.50	1	korua	heart	content	porua	purpose	content	93
 0.50	1	siora	joy	content	phiora	spirit	content	90

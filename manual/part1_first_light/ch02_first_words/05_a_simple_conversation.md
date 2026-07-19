@@ -1,56 +1,67 @@
 # A simple conversation
 
-Now let's put your first words together in a natural exchange. Two people meet and greet each other. Follow along, speaking both parts aloud.
+Two friends meet on the road. They greet each other, ask how the other is doing, and part. Speak both sides aloud.
 
 ---
 
-**A:** Kia!  
-*Hello!*
+**A:** kia.
 
-**B:** Kia! Thia melu nai.  
-*Hello! You are a friend.*
+*Hello.*
 
-**A:** Mia thia sano. Wa thia shea nai.  
-*I know you. Are you at peace?*
+**B:** kia. wa thia towe nai.
 
-**B:** Mia shea nai. Mia womu lothea.  
-*I am at peace. I love home.*
+*Hello. Are you well?*
 
-**A:** Mia womu lothea.  
-*I love home.*
+**A:** mia towe nai. wa thia towe nai.
 
-**B:** Kona melu. Mia thia lothea.  
-*I love you, friend.*
+*I am well. Are you well?*
 
-**A:** Mia thia lothea.  
-*I love you.*
+**B:** mia towe nai.
+
+*I am well.*
+
+**A:** kona melu. pao.
+
+*Goodbye, friend.*
+
+**B:** pao.
+
+*Goodbye.*
 
 ---
 
 ## Breaking it down
 
-**kia.** — The universal greeting. Simple, warm, complete on its own.
+**kia.** A greeting is complete on its own. It does not need a subject or verb.
 
-**thia melu nai.** — You are a friend. Literally: you friend are. The predicate comes before the verb, just like objects do.
+**wa thia towe nai.** `wa` announces a yes or no question. `thia` is the person addressed, `towe` is the good present condition, and `nai` completes the predicate.
 
-**mia thia sano.** — I know you. Subject (*mia*), object (*thia*), verb (*sano*).
+**mia towe nai.** The answer keeps the same predicate and changes the subject to `mia`: I am well.
 
-**wa thia shea nai.** — Are you at peace? The question particle *wa* transforms the statement into a question. Literally: Q you peace be?
+**kona melu.** `kona` is the vocative particle. It marks `melu` as the person being addressed rather than a subject or predicate.
 
-**mia shea nai.** — I am at peace. Literally: I peace am. *shea* is peace itself, the noun, and to be at peace in Phi is simply to be it.
+**pao.** The farewell closes the encounter. Nothing more is required, which is useful when both people really were on their way somewhere.
 
-**mia womu lothea.** — I love home. A simple statement of belonging.
-
-**kona melu. mia thia lothea.** — Friend, I love you. *kona* is the calling word: it announces that someone is being addressed before the address arrives. It stands outside the sentence it introduces.
+Every Phi utterance is lowercase and ends with a period. Words and delivery carry emotional force; Phi does not need an exclamation mark to supply it.
 
 ## Practice
 
-Read the conversation again. This time, pause between each phrase and feel the words in your mouth. Notice the rhythm: short phrase, breath, short phrase.
+Read the exchange again at a comfortable pace. Keep adjacent vowels in separate syllables, but do not insert a theatrical pause between every word. The point is attentive speech, not traffic control.
 
-Then cover the translations and see how much you understand from the Phi alone.
+Then cover the English and follow the Phi alone. The repeated question and answer should make the roles visible without a grammatical explanation beside them.
 
-Finally, modify it. What if you wanted to ask "Do you love home?" You would say: *wa thia womu lothea.* What if you wanted to say "You know me"? Simply: *thia mia sano.*
+Finally, change one part at a time:
 
-You now have the tools for basic conversation. The rest is vocabulary and elaboration, but the foundation is here: greetings, being, knowing, loving, giving, and the simple question that opens dialogue.
+**wa thia mia lothea.**
 
-Welcome to Phi.
+Do you love me?
+
+**thia mia lothea.**
+
+You love me.
+
+**wa thia shea lothea.**
+
+Do you love peace?
+
+This exchange is deliberately small. It gives you an opening, a question, an answer, and a parting. Later chapters add names and gratitude. They also teach invitations, consent, uncertainty, and the useful ability to repair a sentence after it has gone wrong.

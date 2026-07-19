@@ -1,81 +1,63 @@
 # Ten essential words to start
 
-These ten words form the core of beginner Phi. Master them and you can already express fundamental thoughts.
+These ten words are enough for a greeting, a simple wellbeing question, and several short statements. Keep their scale in view: they are a first handful. Ordinary conversation soon asks for more.
 
----
+## People
 
-## The pronouns
+**mia** (I, me), */ˈmi.ä/*, *mi-a* with stress on the first syllable. The speaker as subject, object, or possessor. Position supplies the role.
 
-**mia** (I, me)  
-*/ˈmi.a/*, *mee-ah*  
-The speaker. The self that reaches toward others.
+**thia** (you), */ˈθi.ä/*, *thi-a* with stress on the first syllable. One person being addressed. It carries no gender or social rank.
 
-**thia** (you)  
-*/ˈθi.a/*, *thee-ah*  
-The one addressed. The *th* requires careful articulation: the same care we owe those we speak to.
+## Clause tools
 
----
+**wa** (yes or no question), */ˈwä/*, *wa*. Put it at the beginning of a complete proposition. The rest of the clause keeps its ordinary order.
 
-## The verbs
+**nai** (be), */ˈn̪ä.i/*, *na-i* with stress on the first syllable. It links a subject to a description, identity, or place. The predicate comes before `nai`.
 
-**nai** (be, is, am)  
-*/ˈna.i/*, *nah-ee*  
-Existence, identity, presence. *mia melu nai* (I am a friend).
+## Relation and condition
 
-**lothea** (love)  
-*/lo.ˈθe.a/*, *lo-thay-ah*  
-To feel and express deep affection. Love as action, not feeling alone.
+**lothea** (love), */lo̞.ˈθe̞.ä/*, *lo-the-a* with stress on the middle syllable. Deep affection or active care towards a person, place, living thing, or way of life.
 
-**sano** (know)  
-*/ˈsa.no/*, *sah-no*  
-To understand, to be familiar with, to have knowledge of.
+**towe** (well), */ˈt̪o̞.we̞/*, *to-we* with stress on the first syllable. An overall good state in the frame that matters. It can answer an ordinary question about how someone is doing now.
 
-**loa** (give)  
-*/ˈlo.a/*, *lo-ah*  
-To pass something to another with open hands. Generosity in sound.
+**shea** (peace), */ˈʃe̞.ä/*, *she-a* with stress on the first syllable. Inward peace may be felt; social peace is freedom from violence and workable accord. Peace does not require the absence of disagreement.
 
----
+**melu** (friend), */ˈme̞.lu/*, *me-lu* with stress on the first syllable. A person joined to another by a chosen relation of affection or trust. One speaker using the word does not announce the other person's view of the relationship.
 
-## The nouns
+## Meeting and parting
 
-**shea** (peace)  
-*/ˈʃe.a/*, *shay-ah*  
-Harmony, stillness, the absence of violence and presence of flourishing.
+**kia** (hello), */ˈki.ä/*, *ki-a* with stress on the first syllable. A complete greeting that acknowledges another person's presence. Voice and gesture supply its social tone.
 
-**melu** (friend)  
-*/ˈme.lu/*, *may-loo*  
-One with whom you share affection and trust. Chosen connection.
-
-**womu** (home)  
-*/ˈwo.mu/*, *woh-moo*  
-The place of belonging, safety, and rest.
-
----
-
-## The greeting
-
-**kia** (hello)  
-*/ˈki.a/*, *kee-ah*  
-Universal greeting. The *k* makes gentle contact; the *ia* opens in welcome. Use anytime, with anyone.
-
----
+**pao** (goodbye), */ˈpä.o̞/*, *pa-o* with stress on the first syllable. A complete farewell that closes a visit or conversation without predicting how long the parting will last.
 
 ## Using them
 
-With these ten words, you can already form meaningful phrases:
+With these words, you can already form useful utterances:
 
-**kia. melu.** (Hello, friend!)
+**kia.**
 
-**mia thia sano.** (I know you.)
+Hello.
 
-**thia melu nai.** (You are a friend.)
+**wa thia towe nai.**
 
-**mia shea loa.** (I give peace.)
+Are you well?
 
-**mia womu lothea.** (I love home.)
+**mia towe nai.**
 
-**thia wei mia shea loa.** (You give peace to me. *wei* marks the receiver; you will meet it properly in Part IV.)
+I am well.
 
-Notice the pattern: Subject, then object (if any), then verb. Once you internalize this order, building sentences becomes intuitive.
+**mia thia lothea.**
 
-In the next section, you'll put these words into a simple conversation.
+I love you.
+
+**mia shea lothea.**
+
+I love peace.
+
+**thia melu nai.**
+
+You are a friend.
+
+That last sentence reports the speaker's classification of the relationship. It does not prove that both people name the relation alike. Phi can state warmth plainly without pretending that another person's answer has already been given.
+
+In the next section, these words meet on an ordinary road and manage not to make a ceremony of it.
