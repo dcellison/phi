@@ -11,7 +11,7 @@ The manual explains Phi's machinery once. These pamphlets give the difficult par
 | Evidentiality in Phi | Choosing and stacking four claimed-source particles while keeping source apart from truth, confidence, and reliability. | [Open](evidentiality/00_title.md) |
 | Counting in Phi | Ternary numerals, optional classifiers, approximation, and arithmetic spoken in full sentences. | [Open](ternary_numerals/00_title.md) |
 | How Phi names people | `ne`, productive Phi-form names, calling, honorifics, and the established-name register. | [Open](naming/00_title.md) |
-| Punctuation you can hear | Spoken questions, quotation boundaries, address, names, and the period-only writing rule. | [Open](spoken_punctuation/00_title.md) |
+| Punctuation you can hear | Period-only writing, its spoken grammatical boundaries, the absence of an exclamation mark, and honest dictation limits. | [Open](spoken_punctuation/00_title.md) |
 | Source material beside Phi | The choice among vocabulary, composition, a valid name, and exact material kept outside Phi. | [Open](source_material/00_title.md) |
 | The three slots | All thirty-five particles by scope, with current combination rules, contextual readings, and full-stack practice. | [Open](three_slots/00_title.md) |
 | How Phi is written in Tengwar | Consonant letters, vowel tehtar, hiatus, the two forms of `r`, and line practice in both scripts. | [Open](tengwar_mode/00_title.md) |

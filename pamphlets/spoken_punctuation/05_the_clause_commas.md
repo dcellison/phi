@@ -1,26 +1,42 @@
 # Part 5: The clause commas
 
-English's busiest mark is the comma between clauses: after the if-clause, before the "and", around the "because", at every seam a sentence has. Phi writes none of them, and loses nothing, because every seam in a Phi sentence is audible three ways at once: something announced the clause going in, the clause's own verb closes it coming out, and whatever follows announces itself. This part is the seam inventory.
+English uses commas at several kinds of clause boundary. Phi has no single clause-comma word. Each construction marks its own structure:
 
-### Announcers in front
+| Construction | Audible or visible boundary |
+|---|---|
+| realis or irrealis condition | `lu` or `lu he`, followed by a complete sentence and its period |
+| adverbial dependent frame | `pheo`, `phoe`, `lao`, `shai`, or `lila` before the dependent clause; its final predicate completes the frame |
+| embedded complement | matched `mena ... meno`, `wela ... welo`, or `shola ... sholo` |
+| coordination | `nela`, `thona`, or `sola` between equal constituents |
+| list | `nela` at every boundary |
 
-Dependent clauses are declared before they begin: `lu` for conditions (Slot 0), and the subordinators `pheo`, `phoe`, `lao`, `shai`, `lila` for time, cause, concession, and purpose (manual ch19 §4). Where English tucks a comma after the fronted clause, Phi has already told you everything:
+### Conditions take a period
 
 ```
-pheo mia to theo mia shea phaelo.
-POST 1SG PST read 1SG peace feel.
-(After I read I feel peace.)
-
 lu thia naphe. mia towe phaelo.
 COND 2SG help. 1SG well feel.
 (If you help, I feel well.)
 ```
 
-Read the first line's seam aloud: `theo` is the dependent clause's verb, and the moment it lands, the clause is over: verb-final structure makes every clause self-sealing. No mark stands between the clauses because none is needed: when one verb ends, the next clause begins. And the conditional goes one better: `lu … . …` writes a full period where English writes its most famous comma. Phi spends its one silent mark exactly where English spends its busiest one, and both clauses get to be whole sentences about it.
+The condition is one complete sentence and the consequence is another. English often writes a comma between them; Phi uses its one visible mark.
 
-### Closers behind
+### Dependent frames come first
 
-Embedded clauses get the pair treatment (`mena … meno`, `wela … welo`, `shola … sholo`) and the closer is the audible right-hand comma English never had:
+Each adverbial relator introduces material that modifies the main clause, so the complete dependent frame precedes it:
+
+```
+pheo mia to theo mia shea phaelo.
+POST 1SG PST read 1SG peace feel.
+(After I read, I feel peace.)
+
+lila mia shonela mia theo.
+PURP 1SG learn 1SG read.
+(I read in order to learn.)
+```
+
+In the first sentence, `pheo` opens the earlier event and `theo` completes it before the main subject `mia` arrives. The purpose clause follows the same modifier-first rule: `lila mia shonela` comes before the reading it explains. No adverbial clause may move behind the main clause.
+
+### Complement frames have closers
 
 ```
 mia mena shia to wepu meno sano.
@@ -28,11 +44,9 @@ mia mena shia to wepu meno sano.
 (I know that they left.)
 ```
 
-Canon makes the closers required, and the complementizers pamphlet drills them to reflex; here, just hear what `meno` is doing in punctuation terms: it is the bracket that keeps two verbs from colliding, clicking shut (the primer's phrase) like a well-made box.
+`mena` opens the proposition known, and required `meno` closes it before the outer `sano`. The closer, rather than a pause, tells the listener where the embedded material ends.
 
-### Conjunctions between
-
-Coordination needs no comma because the conjunction is the boundary (manual ch17): the first clause's verb arrives, the door closes, and `nela`, `thona`, or `sola` announces another clause is coming.
+### Conjunctions stand between equals
 
 ```
 sileta sulae nai nela howeli phaelu nai.
@@ -40,11 +54,21 @@ sun warm be COORD wind peaceful be.
 (The sun is warm, and the wind is peaceful.)
 ```
 
-The translation's comma is English's; the Phi has a verb and a conjunction standing exactly where it would go, both audible. And lists dissolve English's most litigated mark entirely: `nela` stands between *every* item (`shiro nela peloru nela whelina.`) so there is no final-item attachment for an Oxford comma to disambiguate. A mark that has been argued over in courtrooms corresponds, in Phi, to nothing at all: the ambiguity it patrols cannot be constructed.
+The first predicate completes its clause, `nela` joins it to an equal clause, and the period waits until the coordination is complete. `thona` does the same structural work while marking contrast, and `sola` offers an alternative.
 
-### Drill: tap the seams
+Lists repeat `nela` at every join:
 
-Read each line aloud and tap the table at every clause seam; then name what marked the seam: announcer, verb, closer, or conjunction.
+```
+shiro nela peloru nela whelina.
+tree COORD flower COORD grass.
+(Trees and flowers and grass.)
+```
+
+This repeated conjunction makes the grouping audible without importing English's choice between a serial comma and no serial comma.
+
+### Practice: locate the boundaries
+
+For each line, locate the dependent frame, complement closer, conjunction, or sentence boundary. Explain which word or period makes it recoverable.
 
 ```
 1. lao pheralu to nai lo peloru thuroa.
@@ -53,4 +77,4 @@ Read each line aloud and tap the table at every clause seam; then name what mark
 4. lu pheralu lepa. lo mia mua womu meilo.
 ```
 
-Answers: 1. one seam, after `nai`: announced by `lao` going in, sealed by the clause verb coming out. 2. two seams: `wela` opens, `welo` closes; the frame verb `phaelo` was never in danger. 3. one seam at `theo`, re-announced by `nela`. 4. the seam is a period, plus `lu`'s advance warning; English's comma, promoted to a full stop.
+Answers: 1. `lao` opens the reason, and the dependent predicate `nai` completes it before the main clause begins. 2. `wela` opens the embedded yes-or-no question and `welo` closes it before `phaelo`. 3. `nela` joins two complete clauses after `theo`. 4. `lu` opens the condition, and its period separates it from the consequence.

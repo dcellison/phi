@@ -1,43 +1,51 @@
-# Part 7: The dictation test
+# Part 7: The dictation check
 
-One scene, everything at once, and this time the scene is also an experiment. The narrower claim of this pamphlet is that Phi punctuation has no silent contrast to lose. The test builds a message containing a question, a Phi quotation, a Phi name, a wish, and an address, then passes it through careful speech. Separately presented source artifacts are not part of that dictation claim.
+This scene tests whether its lexical markers survive careful spoken transmission. It does not test exact recovery of every period. Sentence-end is the one boundary Phi deliberately leaves to a silent mark.
 
 ### The question arrives
 
-siora comes across from the neighbor's house, carrying sulae's exact words:
+siora comes from the neighbouring house with sulae's exact words:
 
 ```
-ne siora kau womu shua. siora haolu.
-NAME siora ALL home come. siora speak.
+ne siora kau womu shua. ne siora haolu.
+NAME siora ALL home come. NAME siora speak.
 (siora comes to the house. siora speaks.)
 
-ne sulae shola wa lo thia wei lo mia so shua sholo to haolu.
-NAME sulae QUOT.COMP Q PL 2SG DAT PL 1SG FUT come QUOT.COMP.CLOSE PST speak.
-(sulae said: "Will you all come to us?")
+ne sulae shola wa lo thia kau lo mia so shua sholo to thilou.
+NAME sulae QUOT.COMP Q PL 2SG ALL PL 1SG FUT come QUOT.COMP.CLOSE PST inquire.
+(sulae asked, "Will you all come to us?")
 ```
 
-Count what the English translation had to draw in silence: a colon, an opening quotation mark, a capital, a closing quotation mark, a question mark. Now count what siora had to carry: `to haolu`, `shola`, `sholo`, `wa`, words, every one, no easier to drop than any other syllable of the message. The quotation's pronouns are sulae's own, preserved inside the brackets, so `lo mia` (*us*) still means sulae's household in siora's mouth. And one register note in passing: `siora haolu` stands bare, because she is in the room; `ne sulae` is announced, because she is not. The punctuation and the register machinery are the same machinery (the naming pamphlet), running at once, all of it audible.
+The direct question begins with `wa` inside `shola ... sholo`. Its `lo mia` is still sulae's "us," because an exact quotation preserves the original speaker's reference. Motion toward that group uses allative `kau`. Outside the frame, `ne sulae` identifies the asker and `to thilou` reports the past inquiry.
+
+Both mentions of siora take `ne` because the example uses portable neutral Phi. Established conversation could omit the second marker once the referent was clear, but physical presence would not be the reason.
 
 ### The reply goes back
 
-The parent answers by handing siora one sentence to carry home, and the sentence is this pamphlet's whole inventory in one breath:
+The parent gives siora an exact reply to carry:
 
 ```
-no wei ne sulae shola lia. lo mia so shua. su theula towe nai sholo haolu.
-IMP DAT NAME sulae QUOT.COMP yes. PL 1SG FUT come. OPT UNIV well be QUOT.COMP.CLOSE speak.
-(Say to sulae: "Yes. We will come. May all be well.")
+no wei ne sulae shola kona ne sulae. lia. lo mia kau lo thia so shua. su theula towe nai sholo haolu.
+IMP DAT NAME sulae QUOT.COMP VOC NAME sulae. yes. PL 1SG ALL PL 2SG FUT come. OPT UNIV well be QUOT.COMP.CLOSE speak.
+(Say to sulae, "sulae, yes. We will come to you. May all be well.")
 ```
 
-Read it slowly, naming the parts: the request announced (`no`), the recipient announced (`wei ne sulae`, dative, name particle, name), the exact words opened (`shola`), three complete sentences inside (an interjection with its period, a plain future, a wish announced as a wish) the words closed (`sholo`), and the verb of saying. English needs a comma, a colon, two quotation marks, three capitals, and arguably an exclamation mark to write what that sentence *is*; siora needs only to say it.
+The outer directive has a recipient, `wei ne sulae`, followed by the exact words and final `haolu`. Inside the quotation, `kona ne sulae.` calls the recipient, `lia.` answers, the future clause states movement toward the addressee, and `su` opens a wish. The several periods inside the quotation are visible divisions among its utterances; the lexical forms do not pretend to replace them.
 
-### The count
+### What to compare
 
-The full round trip is designed to test whether the audible core markers survive transcription. English would need quotation marks, colons, a question mark, capitals, and a vocative comma; Phi supplies words for their grammatical work. A successful transcription is evidence about this message and speaker, not proof that every listener or channel will be error-free.
+A transcription can be checked at two levels. First compare every word. Pay particular attention to frame boundaries and names. Then compare the periods separately. A difference in sentence division matters for the written text, but it does not disprove the narrower claim that these grammatical distinctions were spoken.
 
-This is what the ruling means in practice: Phi punctuation is lexical rather than typographic. An identifier such as `DOI:10.1000/182` remains outside the Phi passage and must be shown, spelled, cited, or transmitted through a convention appropriate to that artifact.
+The same limit appears more sharply with source material. An identifier such as `DOI:10.1000/182` sits outside Phi syntax. Exact oral recovery requires an agreed spelling, citation, or display convention appropriate to that artifact.
 
-### Drill: run the test
+### Practice: run the check
 
-With a partner: read this part's two core framed sentences aloud at recitation pace while they transcribe, then compare against the page. Record every difference instead of treating mismatch as learner failure. Then trade roles with a message containing at least `wa`, one `shola … sholo`, one `ne`, and one `su`.
+With a partner, have one person read the two framed messages while the other transcribes them. Use a clear natural pace. Compare the lexical forms first and period placement second. Record each difference without treating it as a character test. Then exchange roles with a new message that contains:
 
-Alone: record the reply sentence, wait until tomorrow, transcribe it without looking, and record every difference. As a separate comparison, transmit the source identifier `DOI:10.1000/182` by an agreed oral method and notice that exact recovery depends on a spelling or citation convention outside Phi grammar.
+- A direct yes-or-no question with `wa`
+- An exact Phi quotation in `shola ... sholo`
+- A name marked with `ne`
+- A separate `kona` address
+- A wish opened by `su`
+
+Working alone, record a message and return after its exact wording is no longer fresh. Transcribe it without looking at the source, then make the same two comparisons. An outside identifier can be tried separately with an agreed oral convention; it is a useful reminder that no grammar turns arbitrary notation into speech by itself.

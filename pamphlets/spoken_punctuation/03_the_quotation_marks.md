@@ -1,26 +1,36 @@
-# Part 3: The quotation marks: `shola … sholo`
+# Part 3: The quotation marks: `shola ... sholo`
 
-English quotation marks are silent twins that readers must pair by eye, and speech drops them entirely: "quote unquote" is the sound of a language noticing the hole. Phi's quotation marks are the pair `shola … sholo` (manual ch19 §3; the complementizers pamphlet for the whole complementizer family): the opener says *exact words begin*, the closer says *exact words end*, and both survive every medium a sentence can travel.
+`shola` and `sholo` are a complementizer pair for exact grammatical Phi wording. The opener begins the quoted material; the closer returns the listener to the surrounding clause.
 
 ```
 ne thinoe shola no wei muila thinoe loa. no wei muila phialu loa. muila theula howela sholo to haolu.
 NAME thinoe QUOT.COMP IMP DAT earth seed give. IMP DAT earth water give. earth UNIV receive QUOT.COMP.CLOSE PST speak.
-(thinoe said: "Give seeds to the earth. Give water to the earth. The earth receives all.")
+(thinoe said, "Give seeds to the earth. Give water to the earth. The earth receives all.")
 ```
 
-The elder's story again (primer 21), because it shows everything at once: three full sentences ride inside the frame, keeping their own imperatives, their own periods, their own everything: `shola … sholo` changes nothing it carries. Then the closer, then the frame's own verb. Count what the translation needed: a colon, an opening mark, a closing mark. The Phi said all three.
+The quotation contains three complete utterances. Their directives and pronouns belong to thinoe's words; on the page, periods divide those utterances. After `sholo`, `to haolu` gives the tense and predicate of the surrounding report.
 
-### Why the closer is not optional
+### The closer is required
 
-Drop `sholo` and the quotation's last verb stands face to face with the frame's verb, and nothing says whose sentence ended: the same collision the primer's message chapter teaches for `meno`, the closer that "clicks shut like a well-made box." Canon makes the closers required, and requires one more honesty of the frame: `shola … sholo` closes with a verb of speaking or of receiving speech (`haolu`, `shemui`, `thilou`, `hea`). Hearing exact words is as sayable as speaking them; the frame verb tells you which side of the words the reporter stood on.
+The frame must show where the quoted words end before the matrix predicate begins. `sholo` supplies that boundary even when the final quoted predicate and the reporting predicate would otherwise meet. Pauses cannot replace it.
 
-### The frame copies; it never adds
+The predicate after the closer names the speech event or its reception. `haolu` speaks, `shemui` utters, `thilou` inquires, and `hea` hears. The appropriate choice depends on what the matrix subject did:
 
-One inheritance from the evidentiality pamphlet, restated here because it is punctuation-shaped: whatever evidentials, tenses, and pronouns the original speaker used, the quotation preserves, and your own distance from the quoted claim is marked outside the frame or not at all. English's quotation marks make no such promise; scare quotes, paraphrase-in-quotes, and stealth editing all live inside the same silent twins. `shola` is a stricter contract: these are the words, verbatim, and the closer is where my carrying of them ends.
+```
+mia shola wa thia towe nai sholo to hea.
+1SG QUOT.COMP Q 2SG well be QUOT.COMP.CLOSE PST hear.
+(I heard, "Are you well?")
+```
 
-### Reported speech has no marks to lose
+### Exactness belongs inside the frame
 
-Say the gist instead of the words and the quotation marks vanish in both languages, but Phi still brackets the thought, with `mena … meno`:
+The quote preserves the original Phi wording: tense, evidentiality, clause force, and reference from the quoted speaker's point of view. The reporter's source for the speech event belongs in the matrix clause when it matters. `shola ... sholo` does not certify that the quoted claim is true; it says which words are being presented as exact.
+
+The exactness claim reaches grammatical Phi only. Wording in another language, a source script, or a form whose notation matters stays outside the Phi passage. A Phi translation can be quoted as Phi if those were the Phi words actually spoken, but the frame cannot make it verbatim with the foreign source.
+
+### Reported content uses another pair
+
+When the proposition matters more than the original wording, `mena ... meno` frames reported content:
 
 ```
 shia mena thia so kamo meno haolu.
@@ -28,10 +38,10 @@ shia mena thia so kamo meno haolu.
 (They say that you will arrive.)
 ```
 
-English marks exact words with punctuation and reported words with nothing. Phi marks both with words: which pair you hear is itself the information English's page keeps in typography.
+The report may adjust pronouns or condense the wording because it makes no verbatim claim. Phi marks that difference lexically, so a listener can hear it as well as a reader can see it.
 
-### Drill: the audible brackets
+### Practice: find the frame
 
-1. Read the thinoe quotation aloud three times: once whole, once frame-only (`ne thinoe shola … sholo to haolu` with silence between), once quote-only. The frame should feel like hands; the quote like the thing carried.
-2. Quote someone in your household saying something they actually said today: frame verb `haolu` if you heard it said to you, `hea` if you overheard. Both periods, both brackets, aloud.
-3. Convert your quotation to a report (`mena … meno`) and say what changed: pronouns, maybe tense, and which brackets you spent.
+Read the thinoe example and locate four things: the matrix subject, the `shola ... sholo` boundaries, the three quoted utterances, and the matrix predicate. Then frame one short Phi sentence whose wording you can verify, perhaps something you just said yourself. Choose the matrix predicate according to whether the subject spoke, inquired, or heard those words.
+
+Finally, report the same proposition with `mena ... meno`. Note any pronoun or tense change required by the new point of view rather than changing it merely to make the two versions look different.

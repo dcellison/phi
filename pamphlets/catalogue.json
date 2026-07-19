@@ -33,7 +33,7 @@
     {
       "directory": "spoken_punctuation",
       "title": "Punctuation you can hear",
-      "summary": "Core Phi writes one mark and lexicalizes the rest: wa the question, shola and sholo the quotation boundary, kona the address, ne the name, and a dictation practice whose limits are stated explicitly.",
+    "summary": "Core Phi writes only periods. This pamphlet follows its spoken grammatical boundaries, explains the missing exclamation mark, and tests what careful dictation can and cannot recover.",
       "dual_script": false
     },
     {
