@@ -1,6 +1,6 @@
 # Alternative: `sola`
 
-The third conjunction, `sola`, presents alternatives. It is Phi's "or": it offers a choice between possibilities without forcing a decision.
+The third conjunction, **sola**, presents alternatives. It is Phi's ordinary "or."
 
 ```
 mia theo sola sheluo.
@@ -16,11 +16,11 @@ thia shea sola maeli pula.
 
 ## Open versus closed alternatives
 
-In English, "or" can be either inclusive (you can have both) or exclusive (pick one). Context usually resolves the ambiguity, but sometimes it doesn't. Phi's `sola` works the same way: the context determines whether both options are available or only one.
+Like English "or," **sola** can have an inclusive reading that allows both alternatives or an exclusive reading that permits only one. Context often settles the reading. When the difference matters, another sentence states whether both are possible or one must be chosen.
 
-You may notice that `sola` in a plain statement sounds slightly odd: "you read or listen" is grammatically valid (it describes someone's alternatives or habits) but less natural than what you get with `nela` or `thona`. In practice, `sola` appears most often in questions and conditionals, where presenting alternatives feels intuitive.
+A plain statement can use **sola** for available choices or recurring alternatives. Questions and conditions are also common homes for it.
 
-When combined with the question particle `wa`, `sola` naturally creates choice questions:
+With the question particle **wa**, **sola** presents the alternatives inside a yes-or-no question:
 
 ```
 wa thia theo sola sheluo.
@@ -36,7 +36,7 @@ Q sun warm be DISJ wind cold be.
 
 ## Alternatives between clauses
 
-Like the other conjunctions, `sola` scales to full clauses:
+Like the other conjunctions, **sola** can stand between full clauses:
 
 ```
 mia so theo sola mia so thalo.
@@ -50,4 +50,4 @@ thia po mia naphe sola mia po miso naphe.
 (You can help me, or I can help myself.)
 ```
 
-Note the second example: `miso` (reflexive pronoun) appears in the second clause because the subject and object are the same person. Coordination naturally creates opportunities for these more complex constructions.
+In the second example, **miso** is the object of the second clause because its subject, **mia**, refers to the same person. The two clauses keep their own argument structure on either side of **sola**.

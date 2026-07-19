@@ -1,6 +1,6 @@
 # Contrast: `thona`
 
-Where `nela` says "and," `thona` says "but." It connects elements that stand in some kind of tension: two things are true even though they pull in different directions.
+Where **nela** says "and," **thona** says "but." It coordinates two equally ranked elements while presenting the second against an expectation raised by the first.
 
 ```
 shiro mioru nai thona thiku nai.
@@ -14,33 +14,33 @@ mia shelomu thona thia ma shelomu.
 (I understand, but you do not.)
 ```
 
-Like `nela`, `thona` can join words, phrases, or clauses. At the word level:
+Like **nela**, **thona** can join words, phrases, or clauses. Here it joins two descriptions of the same person:
 
 ```
-shaelo thona thesua.
-brave ADVRS mindful.
-(Brave but mindful.)
+shia shaelo thona thesua nai.
+3SG brave ADVRS mindful be.
+(They are brave but mindful.)
 ```
 
-## The philosophy of contrast
+## What the contrast claims
 
-`thona` does something subtle that pure opposition doesn't. It acknowledges both sides. Saying "brave but mindful" doesn't diminish either quality; it recognizes that they coexist, perhaps unexpectedly. This makes `thona` useful for nuance, for expressing the kind of balanced perspective that flattens into oversimplification without the right connective.
+Both coordinated elements remain asserted. In "brave but mindful," the second quality may be unexpected in the immediate conversation, but **thona** does not say that bravery and mindfulness are natural opposites. That expectation belongs to the speaker and can be questioned.
 
 Compare two ways of handling a complex observation:
 
 Without contrast: `shiro mioru nai. shiro thiku nai.`
 (The tree is beautiful. The tree is small.)
 
-Two separate statements, sitting next to each other without acknowledged tension.
+The two sentences state the qualities without relating them.
 
 With contrast: `shiro mioru nai thona thiku nai.`
 (The tree is beautiful, but it is small.)
 
-A single observation that holds both truths together and lets the listener feel the relationship between them.
+The coordinated sentence marks the smallness as a contrast to the beauty. The facts stay the same; the speaker has added a relation between them.
 
 ## Contrast between clauses
 
-At the clause level, `thona` is particularly useful for presenting balanced perspectives:
+At clause level, **thona** stands between two complete assertions:
 
 ```
 mia to theo thona to ma shelomu.
@@ -60,4 +60,4 @@ shia haolu thona lo miona ma sheluo.
 (They speak, but the people do not listen.)
 ```
 
-In each case, `thona` creates space for complexity. It resists the pressure to reduce a situation to one side or the other; it holds the tension so the listener can sit with it.
+**thona** marks a local contrast inside one sentence. When the turn comes after a period and redirects a longer line of thought, Part V uses the discourse marker **whekai** instead.

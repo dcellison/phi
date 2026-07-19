@@ -1,12 +1,10 @@
 # Complement clauses
 
-A complement clause is a sentence that functions as the object of another verb. In English: "I know *that she left*." The italicized portion is a complete thought that serves as the thing known.
+A complement clause is a clause used as the object of another predicate. In "I know that they left," the departure is the thing known. Phi encloses that content with one of two matched pairs.
 
-Phi uses two complementizer pairs for this: `mena`/`meno` for embedded statements and `wela`/`welo` for embedded yes/no questions.
+## Embedded statements: `mena ... meno`
 
-## Embedded statements: `mena` / `meno`
-
-The declarative complementizer `mena` announces that what follows is a statement being treated as an object. Its required closer `meno` marks where that embedded statement ends, so the main verb can follow without ambiguity. The pair works like spoken parentheses around the embedded thought.
+**mena** opens an embedded statement and **meno** closes it before the main predicate. The pair reports propositional content rather than exact wording.
 
 ```
 mia mena shia to wepu meno sano.
@@ -15,9 +13,9 @@ mia mena shia to wepu meno sano.
 ```
 
 ```
-mia mena sileta sulae nai meno phaelo.
-1SG DECL.COMP sun warm be DECL.COMP.CLOSE feel.
-(I feel that the sun is warm.)
+mia mena sileta sulae nai meno sano.
+1SG DECL.COMP sun warm be DECL.COMP.CLOSE know.
+(I know that the sun is warm.)
 ```
 
 ```
@@ -26,23 +24,23 @@ shia mena thia so kamo meno haolu.
 (They say that you will arrive.)
 ```
 
-The structure is consistent: `mena` opens the embedded clause, the clause unfolds with its own subject, objects, and particles, `meno` closes it, and then the main verb arrives. Without `meno`, the boundary between the embedded verb and the main verb would be ambiguous; two verbs in a row with no marker between them.
+The embedded clause keeps ordinary word order and its own tense. After **meno**, the surrounding clause resumes with **sano** or **haolu**. Without the closer, the listener could not tell which predicate governs the framed content merely by waiting for a pause.
 
 ### Nesting
 
-`mena`/`meno` clauses can nest inside each other when one embedded thought contains another. Each `mena` requires its own `meno`, and they resolve from the inside out, like matched parentheses:
+A declarative frame may contain another declarative frame. Each **mena** requires one **meno**, and the innermost pair closes first:
 
 ```
-mia mena thia mena shia to wepu meno phaelo meno sano.
-1SG DECL.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE feel DECL.COMP.CLOSE know.
-(I know that you feel that they left.)
+mia mena thia mena shia to wepu meno to haolu meno sano.
+1SG DECL.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE PST speak DECL.COMP.CLOSE know.
+(I know that you said that they left.)
 ```
 
-Count the `mena` markers, count the `meno` markers; they always match. The innermost `meno` closes the innermost `mena`, and each verb belongs to its own clause.
+The first **meno** completes "that they left." The past **haolu** then completes "you said that they left," and the second **meno** returns the sentence to **mia ... sano**. Nesting is regular, though a second sentence may be kinder to working memory when the frames begin to breed.
 
-## Embedded questions: `wela` / `welo`
+## Embedded yes-or-no questions: `wela ... welo`
 
-The interrogative complementizer pair `wela`/`welo` embeds a yes/no question as the object of a verb. Where `mena` says "here comes a statement," `wela` says "here comes an uncertainty." The closer `welo` marks where the question ends, just as `meno` closes declarative embeddings.
+**wela** turns a question with yes and no as possible answers into the object of a larger clause. **welo** closes that question before the main predicate.
 
 ```
 mia wela shia to wepu welo phaelo.
@@ -57,14 +55,16 @@ shia wela mia so kamo welo ma sano.
 ```
 
 ```
-mia wela sileta sulae nai welo nila.
-1SG INT.COMP sun warm be INT.COMP.CLOSE see.
-(I see whether the sun is warm.)
+shia wela mia to nila welo to thilou.
+3SG INT.COMP 1SG PST see INT.COMP.CLOSE PST inquire.
+(They asked whether I had seen.)
 ```
 
-### Embedded content questions
+The embedded question never takes **wa**. **wa** frames a direct question addressed to someone; **wela ... welo** makes the unresolved yes-or-no proposition part of a statement.
 
-When the embedded question involves an interrogative pronoun (`sua`, `hina`, `kua`, etc.), the pronoun itself signals that the clause is a question. No `wela`/`welo` is needed:
+## Embedded content questions
+
+A content question already contains the gap-word that identifies what is unknown. The interrogative stands where its answer would stand, and no **wela ... welo** frame is used.
 
 ```
 mia sua to wepu sano.
@@ -84,4 +84,4 @@ shia thela peloru thuroa shelomu.
 (They understand how the flowers grow.)
 ```
 
-The interrogative pronoun occupies the position of the unknown element within the embedded clause. The main sentence remains a statement; only the embedded clause carries the question.
+The surrounding clauses are statements. **sua**, **kua**, and **thela** occupy the unknown roles inside their embedded content, while the final predicates say what the matrix subjects know or understand.

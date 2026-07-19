@@ -1,12 +1,12 @@
 # Simple conjunction: `nela`
 
-Until now, every sentence in this book has expressed a single thought. Real communication doesn't work that way. We connect ideas, pile them up, set them beside each other. The simplest tool for this in Phi is the conjunction `nela`, which links elements of equal grammatical weight, the equivalent of English "and."
+A sentence can hold more than one participant, quality, action, or clause. **nela** joins elements of equal grammatical status, much as English "and" does.
 
-`nela` can join words, phrases, or entire clauses. The key constraint: whatever appears on both sides must be the same kind of thing. Two nouns, two verbs, two adjectives, two full sentences. You can't join a noun to a clause with `nela` any more than you could in English.
+The two sides must be comparable pieces of structure. A noun can join a noun, a verb can join a verb, and a full clause can join another full clause. **nela** does not turn unlike elements into a pair.
 
 ## Joining words
 
-At the word level, `nela` connects items within a sentence:
+At word level, **nela** coordinates two objects of **phaelo**, two descriptions of a tree, or two actions with the same subject:
 
 ```
 mia shea nela lothea phaelo.
@@ -26,11 +26,11 @@ mia theo nela sheluo.
 (I read and listen.)
 ```
 
-Notice that `nela` carries no implications beyond connection. It doesn't suggest sequence, causation, or any relationship other than "these belong together." Saying `shea nela lothea` doesn't imply peace comes before love or causes it. They simply coexist in the same statement.
+The conjunction adds no sequence or cause. In **shea nela lothea**, peace and love share the same place before **phaelo**; neither is said to produce the other.
 
 ## Joining phrases
 
-When `nela` connects phrases, each phrase maintains its internal structure:
+Longer phrases keep their internal order on each side of **nela**:
 
 ```
 mia [mioru peloru] nela [whalo shiro] nila.
@@ -46,7 +46,7 @@ mia [melu nela lumani] lothea.
 
 ## Joining clauses
 
-At the clause level, `nela` connects complete thoughts. Each clause keeps its own subject, object, and verb:
+At clause level, each side may carry its own subject, objects, and verb:
 
 ```
 mia theo nela thia sheluo.
@@ -60,11 +60,11 @@ sun warm be COORD wind peaceful be.
 (The sun is warm, and the wind is peaceful.)
 ```
 
-The conjunction itself marks the boundary between clauses. Because Phi is verb-final, the listener knows a clause has ended when the verb arrives; `nela` then announces that another clause follows. No additional punctuation is needed.
+The first verb completes its clause. **nela** then opens a second coordinated clause inside the same Phi sentence, so the period waits until both clauses are complete.
 
 ## Lists
 
-In lists of three or more items, `nela` appears between each element rather than only before the last. There is no equivalent of the English convention where "and" appears only at the end:
+In a list of three or more items, **nela** appears at every boundary rather than only before the final item:
 
 ```
 shiro nela peloru nela whelina.
@@ -72,4 +72,4 @@ tree COORD flower COORD grass.
 (Trees and flowers and grass.)
 ```
 
-This even-handed repetition treats each item with equal weight. No element is singled out as the final addition; they all join the list on the same terms.
+The repeated conjunction makes every join audible: tree and flower and grass. Any ranking among those items would need its own words.

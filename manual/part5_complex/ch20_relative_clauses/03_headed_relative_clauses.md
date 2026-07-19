@@ -1,10 +1,10 @@
 # Headed relative clauses
 
-A headed relative clause modifies an explicit noun. The noun, called the "head," appears after the clause and receives the description. This is the most common type of relative clause, used whenever you want to specify which particular thing you're talking about.
+A headed relative clause modifies an explicit noun. That noun is the head, and it appears after the clause that describes it.
 
-## Basic examples
+## The head's role inside the description
 
-The subject describes the object:
+The gap may occupy different roles within the relative clause. Here **miona** supplies the object of **lothea**:
 
 ```
 mia rena mia lothea miona sano.
@@ -12,15 +12,15 @@ mia rena mia lothea miona sano.
 (I know the person whom I love.)
 ```
 
-The object describes the subject:
+Here the same head supplies the subject of **thumela**:
 
 ```
-rena lopia thumela miona phue nai.
-REL child teach person wise be.
-(The person who teaches children is wise.)
+rena lopia thumela miona ha nai.
+REL child teach person PROX be.
+(The person who teaches children is here.)
 ```
 
-A state describes the noun:
+A state can describe the missing subject:
 
 ```
 mia rena serao nai shelu theo.
@@ -28,7 +28,7 @@ mia rena serao nai shelu theo.
 (I read the book that is old.)
 ```
 
-A location describes the noun:
+A location can do the same:
 
 ```
 rena nia tomora nai womu mioru nai.
@@ -36,21 +36,21 @@ REL ON mountain be home beautiful be.
 (The home that is on the mountain is beautiful.)
 ```
 
-## Using relative clauses in sentences
+## The complete noun phrase
 
-Relative clauses are noun phrases. They can be the subject, the object, or part of a prepositional phrase:
+The relative clause and its head form one noun phrase. That phrase can occupy the same positions as a simpler noun.
 
-**As subject:**
+### As subject
 
 ```
-rena mia to nila miona shia nai.
-REL 1SG PST see person 3SG be.
+rena mia to nila miona ha nai.
+REL 1SG PST see person PROX be.
 (The person whom I saw is here.)
 ```
 
-The entire phrase `rena mia to nila miona` is the subject of `nai`.
+The complete phrase **rena mia to nila miona** is the subject of **ha nai**.
 
-**As object:**
+### As object
 
 ```
 mia rena shia to kealo nophi theo.
@@ -58,9 +58,9 @@ mia rena shia to kealo nophi theo.
 (I read the story that they created.)
 ```
 
-The relative clause `rena shia to kealo nophi` modifies "story," and the whole noun phrase is the object of `theo`.
+The complete phrase **rena shia to kealo nophi** is the object of **theo**.
 
-**With prepositions:**
+### Inside a prepositional phrase
 
 ```
 mia nia rena mua shelira nai ruela thalo.
@@ -68,9 +68,23 @@ mia nia rena mua shelira nai ruela thalo.
 (I walk on the path that is in the forest.)
 ```
 
-## Complex descriptions
+The preposition **nia** takes the complete headed phrase as its object.
 
-Relative clauses can include their own modifiers, objects, and adverbials:
+## When the head fills a prepositional gap
+
+A different pattern appears when the head itself is the missing object of a preposition:
+
+```
+mia rena mia mua to thalo shelira lothea.
+1SG REL 1SG LOC PST walk forest love.
+(I love the forest that I walked in.)
+```
+
+The relative clause contains **mua** before its gap. Phi keeps that preposition in place, then supplies **shelira** as its object after the relative predicate.
+
+## Longer descriptions
+
+A relative clause can carry its own modifiers, objects, and adjuncts:
 
 ```
 mia rena mia mua serao shelira to thalo ruela lothea.
@@ -79,16 +93,16 @@ mia rena mia mua serao shelira to thalo ruela lothea.
 ```
 
 ```
-rena shia wei lopia mioru nophi to haolu miona ha nai.
-REL 3SG DAT child beautiful story PST speak person PROX be.
+rena shia wei lopia mioru nophi to shane miona ha nai.
+REL 3SG DAT child beautiful story PST tell person PROX be.
 (The person who told a beautiful story to the child is here.)
 ```
 
-The key is that everything before the head noun is part of the description. No matter how complex the clause becomes, the structure remains the same: `rena` opens it, the clause unfolds, the noun closes it.
+The final verb inside the description still arrives before the head noun. More material raises the memory cost, but it does not change the gap or the frame.
 
 ## Stacking descriptions
 
-A noun can receive multiple descriptions by stacking adjectives and relative clauses:
+An adjective may follow the relative clause while remaining before the noun:
 
 ```
 mia rena mia to nila serao mioru shelu lothea.
@@ -96,4 +110,4 @@ mia rena mia to nila serao mioru shelu lothea.
 (I love the old beautiful book that I saw.)
 ```
 
-All modifiers precede the noun. The relative clause comes first (announced by `rena`), then adjectives, then the noun. Each layer adds to the description and builds toward the final reveal of what is being described.
+The order is relative clause, then the nearer adjective descriptions, then **shelu**. The listener reaches the book only after hearing every condition meant to identify it, which is useful right up to the moment it becomes too much and a second sentence wins.

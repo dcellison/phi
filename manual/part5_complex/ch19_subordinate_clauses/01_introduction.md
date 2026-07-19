@@ -1,28 +1,28 @@
 # Subordinate clauses
 
-Coordination joins equals. Subordination nests one thought inside another: a sentence becomes a component of a larger sentence, its object, its reason, its condition, or its context.
+Coordination joins equals. Subordination gives one clause a role inside or beside another: something known, a reason, an earlier event, or an intended result.
 
-English handles this with words like "that," "because," "after," "although," and "whether." Phi does the same, but with a characteristic difference: the subordinating word always comes first and announces the relationship before the content arrives. The listener knows they're entering a subordinate clause the moment they hear the marker.
+Phi uses complementizer frames for clauses that occupy an argument position. Clause relators handle time, cause, purpose, and concession. The two groups have different boundaries and deserve separate patterns.
 
-## How subordination works in Phi
+## Clause relators
 
-A subordinate clause is introduced by a complementizer or subordinating conjunction that announces its function. The clause then unfolds, and the main clause follows (or, in the case of complement clauses, the subordinate clause sits in the object position).
+**pheo**, **phoe**, **lao**, and **shai** precede a dependent clause, which is followed by the main clause:
 
-The general pattern for adverbial clauses:
-
-`[subordinator] [subordinate clause] [main clause]`
+`[relator] [dependent clause] [main clause]`
 
 ```
-lao shia to wepu mia phaelo.
-BECAUSE 3SG PST go 1SG feel.
-(Because they left I feel.)
+lao shia to wepu mia nuhe phaelo.
+BECAUSE 3SG PST go 1SG sadness feel.
+(Because they left, I feel sadness.)
 ```
 
-The subordinator `lao` announces "here comes a reason." The reason unfolds (`shia to wepu`, "they left"). Then the main clause delivers what that reason explains (`mia phaelo`, "I feel").
+The verb **wepu** completes the reason introduced by **lao**. The main clause, **mia nuhe phaelo**, states what that reason explains. Purpose clauses use a different order: the action comes first, followed by **lila** and the intended outcome. Chapter 19 closes with all of these patterns.
 
-For complement clauses, the embedded clause serves as the object of a verb. Complementizers that introduce these clauses come in pairs: an opener and a closer, which work like spoken parentheses around the embedded thought.
+## Complementizer frames
 
-`[subject] [complementizer] [embedded clause] [closer] [verb]`
+A complement clause occupies the object position of a verb such as **sano**. Its opener announces the kind of content, and its required closer marks where that content ends.
+
+`[subject] [opener] [embedded clause] [closer] [main verb]`
 
 ```
 mia mena shia to wepu meno sano.
@@ -30,6 +30,6 @@ mia mena shia to wepu meno sano.
 (I know that they left.)
 ```
 
-The complementizer `mena` announces "here comes an embedded statement." The closer `meno` marks where it ends. The main verb `sano` ("know") follows: it tells you what the speaker is doing with that statement. Without `meno`, the boundary between the embedded verb and the main verb would be ambiguous.
+**mena** opens the embedded statement and **meno** closes it. The main verb **sano** then states what the subject does with that proposition. A pause cannot replace the closer.
 
-Both patterns follow the modifier-first principle: the relationship is announced before the content that fills it. The listener is never caught off guard by a clause's function.
+The two constructions share Phi's modifier-first order, but not one universal template. A clause-initial reason and an object framed inside a larger clause ask the listener to keep different boundaries in mind.

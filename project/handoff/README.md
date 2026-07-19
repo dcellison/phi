@@ -20,15 +20,15 @@ Do not use `archive/` as current evidence. It preserves history, including appro
 
 ## Where the work stopped
 
-SEM-09B and SEM-09C are complete. D045 through D052 migrated all eight module learning paths, and all 1,275 lexicon entries are target-shaped. There are no legacy, partial, or dual entries. SEM-09D is in progress: fifteen literary passes complete the shelf, the drafted Phi book is current through chapter 7, and manual Parts I through IV have received teaching passes. Part I repairs the beginner's conceptual and conversational foundation. Part II brings the philosophy and learning chapters under the evidence contract. Part III brings pronunciation and writing-mode teaching under the current sound canon. Part IV brings all fifty-three grammar lessons under the closed inventories, current lexical meanings, and source-provenance rules. None of the four passes found a lexical gap. Part IV uses one optional Work root only where the exchange chapter labels it and supplies a base alternative.
+SEM-09B and SEM-09C are complete. D045 through D052 migrated all eight module learning paths, and all 1,275 lexicon entries are target-shaped. There are no legacy, partial, or dual entries. SEM-09D is in progress: fifteen literary passes complete the shelf, the drafted Phi book is current through chapter 7, and manual Parts I through V have received teaching passes. Part I repairs the beginner's conceptual and conversational foundation. Part II brings the philosophy and learning chapters under the evidence contract. Part III brings pronunciation and writing-mode teaching under the current sound canon. Part IV brings all fifty-three grammar lessons under the closed inventories, current lexical meanings, and source-provenance rules. Part V restores the exact scopes and orders of coordination, discourse marking, clause frames, and relative clauses. None of the five passes found a lexical gap. Part IV uses one optional Work root only where the exchange chapter labels it and supplies a base alternative; Part V uses base and function vocabulary throughout.
 
 The execution sequence is settled:
 
 1. The literary shelf and Phi book are current through chapter 7.
-2. Resume SEM-09D at manual Part V, then continue through the rest of the manual, primer, pamphlets, and current documents.
+2. Resume SEM-09D at manual Part VI, then continue through the rest of the manual, primer, pamphlets, and current documents.
 3. Return to the Phi book at chapter 8 after that sweep.
 
-The immediate task is `manual/part5_complex/`. Check its clause-linking, complementation, comparison, and derivational teaching against current canon, and keep general examples in base vocabulary unless a lesson explicitly earns a module term.
+The immediate task is `manual/part6_mastery/`. Check every translation, transmutation, dialogue, practice, and fluency claim against current canon and the completed lexicon, and keep general examples in base vocabulary unless a lesson explicitly earns a module term.
 
 ## The maintainer's working contract
 
