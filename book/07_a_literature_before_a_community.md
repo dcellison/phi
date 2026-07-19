@@ -12,13 +12,13 @@ The source check begins with a plain arrangement. A text keeps an English witnes
 
 Paired works have one further rule. The same cited wording may appear once in the close translation and once in the transmutation, because each rendering needs to show what it did with that passage. It may not be quietly reused twice within either one. The checker is incapable of boredom, but it has been instructed to recognize duplication.
 
-The current shelf contains 1,397 of these labeled source lines. They run from the two sentences of Article 1 to all 430 aligned units of *The Velveteen Rabbit* and the first three chapters of *News from Nowhere*. Ten short works have their own source witnesses, and Morris's chapters share the complete novel stored beside them. A full validation checks every labeled fragment against those files.
+The current shelf contains nearly fourteen hundred of these labeled source lines. They run from the two sentences of Article 1 to all 430 aligned units of *The Velveteen Rabbit* and the first three chapters of *News from Nowhere*. Ten short works have their own source witnesses, and Morris's chapters share the complete novel stored beside them. For those configured shelf texts, a full validation checks every labeled fragment against its witness.
 
 That does not prove that every source claim has been translated. An omitted sentence leaves no bad citation for a machine to catch. Nor can string matching decide whether a Phi line has narrowed a metaphor, strengthened an obligation, or turned a punishment into a garden. The program guards the quotation. The review ledger and the reader have to judge what was done beside it.
 
 ## Thirteen works and one reader
 
-Phi's catalogue counts thirteen works. Nine include a close translation, eleven include a transmutation, and seven appear in both forms. The arithmetic overlaps on purpose. A paired work belongs to both counts, which is less mysterious than many things that happen in libraries.
+The shelf as it stands here contains thirteen works. Nine include a close translation, eleven include a transmutation, and seven appear in both forms. The arithmetic overlaps on purpose. A paired work belongs to both counts, which is less mysterious than many things that happen in libraries.
 
 The Metta Sutta opens the shelf. Fables, sacred texts, political declarations, and children's stories follow. A translation of *A Solarpunk Manifesto* sits near the front, while *News from Nowhere* has three of its planned thirty-two chapters. Literature is an accommodating word here: a declaration and a manifesto have been admitted without being made to pretend that they are novels.
 
@@ -28,13 +28,13 @@ This order changes what an invitation can contain. A newcomer need not accept a 
 
 ## The old test pieces
 
-Language makers have long reached for short texts that can be compared across languages. The International Phonetic Association usually places a translation of "The North Wind and the Sun" in its language Illustrations, together with a recording and phonetic transcription (International Phonetic Association n.d.). The fable sets a spoken dispute and a comparison inside weather moving a garment on a person's body. It also provides a conveniently overworked traveler. A language has to move through more than a word list can.
+Language makers have long reached for short texts that can be compared across languages. The International Phonetic Association usually places a translation of "The North Wind and the Sun" in its language Illustrations (International Phonetic Association n.d.). The usual package has a phonemic transcription and recordings of the words and passage by one or more native speakers. Some Illustrations add a phonetic transcription. The fable sets a spoken dispute and a comparison inside weather moving a garment on a person's body. It also provides a conveniently overworked traveler. A language has to move through more than a word list can.
 
-On a Phi page, the fable shows morphology and sentence structure. It does not yet do the IPA Illustration's full job. There is no accompanying body of recorded Phi speech from multiple speakers, and print cannot settle what unfamiliar words sound like across a room. The text is a script for future speech evidence, not the evidence itself.
+On a Phi page, the fable shows morphology and sentence structure. It does not yet do the IPA Illustration's full job. There is no accompanying recording of Phi speech. Evidence from several speakers lies further off, and print cannot settle what unfamiliar words sound like across a room. The text is a script for future speech evidence, not the evidence itself.
 
-The Babel text belongs to a more particular constructed-language custom. Jeffrey Henning proposed Genesis 11:1-9 in 1996 as a standard comparison text because it had many existing translations, repeated structures, and more varied grammar than the Lord's Prayer (Henning n.d.). Schleicher's fable is older still. In 1868 August Schleicher used a short story of a sheep and horses to demonstrate connected sentences in his reconstruction of Proto-Indo-European. His introduction admits the difficulty directly: the available vocabulary was small, particles were especially scarce, and he had to press the sentences into what the reconstruction could support (Schleicher 1868).
+The Babel text belongs to a more particular constructed-language custom. Jeffrey Henning began comparing constructed-language versions of Genesis 11:1-9 in 1996 and hoped that the passage would become a standard text. Many translations already existed. Its patterns repeated without the rigid formula of the Lord's Prayer (Henning 2000). Schleicher's fable is older still. In 1868 August Schleicher used a short story of a sheep and horses to demonstrate connected sentences in his reconstruction of Proto-Indo-European. His introduction admits the difficulty directly: the available vocabulary was small, particles were especially scarce, and he had to constrain and adapt his own expression to what the reconstruction allowed (Schleicher 1868).
 
-These pieces are useful because they are small enough to finish and familiar enough to compare. They are poor hiding places for a missing past tense or an uncertain relative clause. They are also specimens. A fable can reveal that a language has no comfortable way to say *persuade*; it cannot show whether the same language can carry a sickroom for four hundred units or sustain a political novel across thirty-two chapters.
+These pieces are useful because they are small enough to finish and familiar enough to compare. They are poor hiding places for a missing past tense or an uncertain relative clause. They are also specimens. A fable can reveal that a language has no comfortable way to say *persuade*; it cannot show whether the same language can carry a 430-unit story through its sickroom and beyond, or sustain a political novel across thirty-two chapters.
 
 That is why the shelf moves outward. *The Velveteen Rabbit* puts affection beside wear and disability. Fever leads through contamination and burning before the story permits return. Morris moves through rooms and meals, then into clothing and craft. River knowledge meets political argument and the peculiar social customs of a future that no longer recognizes payment. The longer texts do not merely use more vocabulary. They keep a distinction alive long enough for an easy approximation to contradict itself twenty pages later.
 
@@ -80,9 +80,9 @@ Each pillar changes a text only where the source and Phi actually meet. Article 
 
 ## What the machine knows
 
-The validator checks more than quotations. It knows all 1,275 lexicon entries. In a fenced Phi example it rejects an unknown token, checks a gloss against the dictionary, and catches several detectable ordering errors. It also checks the reading-shelf catalogue, so a new text cannot appear on the website by accident or vanish from the index without notice.
+The validator checks more than quotations. It knows the whole lexicon. In a fenced Phi example it rejects an unknown token, checks a gloss against the dictionary, and catches several detectable ordering errors. It also checks the reading-shelf catalogue: every short work and every book directory with a README must have one catalogue entry. That check stops at the book's front door. It does not compare the chapter files inside with the book's contents page, although the site builder discovers those files directly. A new chapter can therefore appear on the site without an index link, and an old link can survive after its chapter vanishes.
 
-Its competence has a clean edge. The validator can prove that `thiwera` exists and that its gloss is *scatter*. Whether scattering people like seeds is an honest transmutation or an evasive one lies beyond it. The code notices some prepositions with nowhere legal to stand, though it calls that check a net rather than a proof. A quotation missing one letter fails; a complete set of perfectly cited bad judgments could pass.
+Its competence has a clean edge. The validator can prove that `thiwera` exists and that its gloss is *scatter*. Whether scattering people like seeds is an honest transmutation or an evasive one lies beyond it. The code notices some prepositions with nowhere legal to stand, though it calls that check a net rather than a proof. A quotation missing one letter in a configured shelf citation fails; a complete set of perfectly cited bad judgments could pass.
 
 Source coverage therefore belongs to review as well as code. The corpus ledger asks whether every proposition and relation survives in a translation, whether every departure in a transmutation is deliberate, whether optional vocabulary earns the burden it places on a reader, and whether the English says only what the Phi says. It also records a decision to keep a transparent composition. A direct root is not automatically better merely because the lexicon has one.
 
@@ -90,13 +90,13 @@ The division of labor matters. Machines are excellent at refusing the same mista
 
 ## Vocabulary under pressure
 
-The close translation of "The North Wind and the Sun" needs an ordinary distinction. Coercion cannot do the work because the wind and sun are trying to influence the traveler through means that leave refusal open. Kind speech describes manner without saying that one person is trying to move another. Phi's base verb `sharemi`, persuade, carries that attempt. Aesop supplies the sentence that makes the distinction useful.
+The close translation of "The North Wind and the Sun" needs an ordinary distinction. Aesop's moral contrasts kind persuasion with force and bluster. `kawhera`, coerce, names the latter; it cannot do the former's work. Kind speech describes manner without saying that one person is trying to move another. Phi's base verb `sharemi`, persuade, carries that attempt while leaving an answer available. The story then complicates its own moral: the Sun's burning heat eventually sends the traveler fleeing. Aesop supplies the distinction, and his plot makes Phi test it.
 
 Direct roots prevent other passages from walking around distinctions their sources already make. The same fable uses `mesatu`, try, `komeri`, forehead, and `phesari`, flee. The Metta Sutta has direct words for searching, burden, wanting, and weakness. Morris's river uses `lunisa`, tide, while his boatman's work uses `pheloma`, service. Each word earns its place by restoring something the source carries, not by arriving later than the composition it replaces.
 
 Sometimes the pressure runs the other way. Schleicher's horses and sheep are animal objects of `kawhera`, coerce, and `pilora`, exploit. The definitions have to cover that use. Changing animals into people for the convenience of dictionary prose would repair the wrong thing.
 
-Modules receive the same test. The Solarpunk Manifesto uses thirty-three optional roots across all eight modules because it moves through politics and technical proposals while making claims about access, ecology, and craft. *The Velveteen Rabbit* uses thirteen optional roots across six modules. The Ring Verse refusal needs none: twelve base and function forms can state its answer. A module is useful when a text reaches for a specialist distinction, not when the module is lonely and would like to be mentioned.
+Modules receive the same test. The Solarpunk Manifesto uses thirty-three optional roots across all eight modules because it moves through politics and technical proposals while making claims about access, ecology, and craft. *The Velveteen Rabbit* uses thirteen optional roots across six modules. The Ring Verse refusal needs none: its four-line answer uses eleven base and function forms. The count reaches twelve only when the title `naweri` is counted too. A module is useful when a text reaches for a specialist distinction, not when the module is lonely and would like to be mentioned.
 
 That is what *laboratory* means here. Literature supplies sustained, inspectable pressure. It can reveal a missing common word, an overbroad gloss, a dishonest back-translation, or a specialist distinction that earns its place. It cannot tell the project how often an unaffiliated speaker would need the same word. That question requires people Phi does not yet have.
 
@@ -134,16 +134,16 @@ There is no `kjv:` line beneath that coda. The source did not say it, so the tex
 
 ## References
 
-Henning, Jeffrey. n.d. "The Babel Text." Langmaker archive. First proposed in 1996. https://langmaker.github.io/babel/babel.htm. Accessed July 2026.
+Henning, Jeffrey. 2000. "The Babel Text." Langmaker archive of the page dated 27 May 2000. Henning began the comparison project in 1996. https://langmaker.github.io/babel/babel.htm.
 
-International Phonetic Association. n.d. "Illustrations of the IPA." *Journal of the IPA*. https://www.internationalphoneticassociation.org/content/journal-ipa. Accessed July 2026.
+International Phonetic Association. n.d. "Illustrations of the IPA." *Journal of the IPA*. https://www.internationalphoneticassociation.org/content/journal-ipa. Accessed 19 July 2026.
 
-Schleicher, August. 1868. "Eine Fabel in indogermanischer Ursprache." *Beiträge zur vergleichenden Sprachforschung auf dem Gebiete der arischen, celtischen und slawischen Sprachen* 5: 206-208.
+Schleicher, August. 1868. "Eine Fabel in indogermanischer Ursprache." *Beiträge zur vergleichenden Sprachforschung auf dem Gebiete der arischen, celtischen und slawischen Sprachen* 5: 206-208. Scan: https://archive.org/details/bub_gb_CVP5DJ-pxeIC/page/n214/mode/2up. JSTOR: https://www.jstor.org/stable/23458804.
 
-*The Holy Bible, King James Version*. 1611. Genesis 11:1-9. Project Gutenberg, ebook 8001. https://www.gutenberg.org/ebooks/8001.
+Anonymous. 2005. *The Bible, King James version, Book 1: Genesis*. Project Gutenberg, ebook 8001. Updated 26 December 2020. https://www.gutenberg.org/ebooks/8001. The King James Version was first published in 1611.
 
-United Nations General Assembly. 1948. *Universal Declaration of Human Rights*. Resolution 217 A (III), adopted 10 December 1948. https://www.un.org/en/about-us/universal-declaration-of-human-rights/.
+United Nations General Assembly. 1948. *Universal Declaration of Human Rights*. A/RES/217(III)[A], adopted 10 December 1948 at the 183rd plenary meeting. Text: https://www.un.org/en/about-us/universal-declaration-of-human-rights. Resolution record: https://digitallibrary.un.org/record/666853?ln=en.
 
 ### Phi sources
 
-The shelf catalogue and its two-method doctrine are in `texts/README.md` and `texts/catalogue.json`. The paired Babel renderings are in `texts/babel_text.md`; Article 1 is in `texts/human_rights_article_one.md`; the review method and corpus decisions are in `documents/evaluation/active_text_corpus_review.md`. Source witnesses live in `texts/sources/`, while the three current *News from Nowhere* chapters share `texts/news_from_nowhere/source.txt`. The checks described here are implemented in `scripts/validate_examples.py`.
+The shelf catalogue and its two-method doctrine are in `texts/README.md` and `texts/catalogue.json`. The paired Babel renderings are in `texts/babel_text.md`; Article 1 is in `texts/human_rights_article_one.md`; the review method and corpus decisions are in `documents/evaluation/active_text_corpus_review.md`. Source witnesses live in `texts/sources/`, while the three current *News from Nowhere* chapters share `texts/news_from_nowhere/source.txt`. Source verification is configured in `scripts/validate_examples.py`; catalogue membership is checked in `scripts/content_catalogues.py`; chapter discovery belongs to `scripts/build_site.py`.
