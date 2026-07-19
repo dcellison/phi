@@ -1,108 +1,53 @@
-# Common pitfalls
+# Common transfers
 
-## Pronunciation mistakes to avoid
+A learner does not arrive with an empty mouth. Existing speech habits will follow them into Phi, usually before they have been formally introduced. The points below help an English speaker approach the careful reference pronunciation while keeping accent difference separate from error.
 
-Learning any new language involves unlearning habits from your native tongue. Here are the most common errors English speakers make with Phi pronunciation, and how to correct them.
+## Turning e and o into glides
 
-## Vowel gliding
+English `e` and `o` often move toward a second vowel quality, as in many pronunciations of "day" and "go". Careful Phi holds `e` and `o` near one target. Try stopping the English words before their glides, then carry that shorter vowel into `shea`, `welao`, and `womu`.
 
-**The problem**: English vowels often glide from one position to another. The "o" in "go" starts as one sound and ends as another. The "a" in "day" does the same.
+An accented vowel need not occupy one exact point. The five categories must remain distinct; matching another speaker's mouth is not the task.
 
-**In careful Phi**: vowels aim at stable five-vowel targets without becoming English-style diphthongs. Accented placement within those categories is expected; preserving contrasts matters more than matching one mouth exactly.
+## Adding aspiration to p, t, k
 
-**How to fix it**:
-- Practice holding vowels on a single pitch, like singing one note
-- Record yourself and listen for any movement
-- Freeze your tongue and lips in position throughout the vowel
-- Use Spanish or Italian speakers as models
+English often adds a puff after a stop at the beginning of a stressed syllable. Compare "pin" with "spin" while holding a hand near the mouth. The `p` in "spin" is the closer approach to careful Phi.
 
-**Test words**: `welao`, `shea`, `womu`
+Use the same reduced puff in `wepu`, `tomi`, and `kati`. Light aspiration remains accepted because Phi has no aspirated-unaspirated contrast.
 
-## Aspirating stops
+## Placing n and t behind the teeth
 
-**The problem**: English adds a puff of air after p, t, k at the beginning of stressed syllables. Say "pin" with your hand in front of your mouth; you'll feel the burst. This aspiration doesn't belong in Phi.
+The reference **n** /n̪/ and **t** /t̪/ are dental. The tongue tip touches the back of the upper teeth rather than the ridge behind them. Try the opening of `nulae` and `tomi`, then compare it with your ordinary English `n` and `t`.
 
-**In careful Phi**: stops are unaspirated. Light accent-driven aspiration is accepted because Phi does not contrast aspirated and unaspirated stops.
+Alveolar [n] and [t] are accepted in conversation. The dental position is a common reference, not an examination of the speaker's upbringing.
 
-**How to fix it**:
-- Practice with the "sp," "st," "sk" sounds from "spin," "stop," "skip"
-- These English clusters naturally lack aspiration
-- Isolate that softer p, t, k quality for Phi words
+## Reading ph as English f
 
-**Test words**: `wepu`, `thomari`, `shelomu`
+English spelling teaches many readers that `ph` means [f]. Careful Phi **ph** /ɸ/ uses only the lips, with air passing through a narrow gap. Practise the contrast between the lip-and-teeth contact of English "file" and the two-lip opening in `phiro`.
 
-## Alveolar n and t
-
-**The problem**: English places n and t against the ridge behind the teeth (alveolar position). Phi uses dental position, with the tongue touching the teeth themselves.
-
-**In careful Phi**: dental n and t define the reference. Alveolar [n t] are accepted conversational variants because no Phi word depends on the dental-alveolar distinction.
-
-**How to fix it**:
-- Touch your tongue tip to the back of your upper front teeth
-- Practice Spanish or Italian words for reference (they use dental stops)
-- The change is subtle but noticeable
-
-**Test words**: `nulae`, `lumani`, `thomari`
-
-## Confusing ph with f
-
-**The problem**: English spelling uses "ph" for the f-sound (phone, philosophy). Phi's **ph** is completely different: a bilabial fricative using only the lips.
-
-**In careful Phi**: **ph** /ɸ/ involves no teeth. Conversational [f] is accepted; practice /ɸ/ so the reference pronunciation remains available.
-
-**How to fix it**:
-- Practice blowing out a candle gently
-- Keep your lower lip away from your upper teeth
-- Think of it as a whispered, breathy "p"
-
-**Test words**: `phiro`, `nophi`
+Conversational [f] is accepted. Learning /ɸ/ gives access to the reference form without making [f] a lesser accent.
 
 ## Voicing th
 
-**The problem**: English has two "th" sounds: voiceless (think) and voiced (this). Phi uses only the voiceless version.
+Phi **th** /θ/ is voiceless, like English "think", rather than voiced like "this". Touch the throat while saying `thomari`; vibration should begin with the vowel, not the fricative.
 
-**In careful Phi**: **th** is /θ/, never /ð/. A mildly affricated [t̪θ] is accepted, but a complete merger with `t`, `s`, or `ph` would erase lexical contrasts.
+A mildly affricated [t̪θ] is accepted. Whatever its accent, `th` must remain distinguishable from `t`, `s`, and `ph`.
 
-**How to fix it**:
-- Put your hand on your throat while saying "th"
-- You should feel no vibration
-- If you feel buzzing, you're voicing; stop the vocal cords
+## Merging wh with w
 
-**Test words**: `thomari`, `thesua`, `lothea`
+Many English accents pronounce "which" and "witch" alike. Phi keeps **wh** /ʍ/ apart from voiced **w** /w/. Round the lips for both, but leave the vocal folds quiet in `whunei` and let them vibrate in `wepu`.
 
-## Merging vowel sequences
+The accepted [w̥] and [hw] variants give more than one route to the distinction. The contrast matters more than which route a speaker takes.
 
-**The problem**: when two vowels appear in a row, English speakers instinctively merge them into diphthongs or single long vowels.
+## Merging adjacent vowels
 
-**In Phi**: adjacent vowels stay separate. Each gets its own syllable.
+English spelling gives no dependable instruction when two vowels meet. In Phi, each vowel has its own syllable. Lengthen `shea`, `lothea`, and `welao` enough to hear both sides of each boundary, then shorten them without turning either pair into a glide.
 
-**How to fix it**:
-- Exaggerate separation at first, with clear pauses
-- Think of each vowel as a distinct note
-- Gradually speed up while maintaining distinctness
+Do not insert a glottal stop or a theatrical pause unless your accent naturally supplies one. Hiatus needs two syllables, not two separate performances.
 
-**Test words**: `shea` (two syllables), `lothea` (three syllables), `welao` (three syllables)
+## Moving the stress
 
-## Stress errors
+English lexical stress is irregular, so a familiar-looking letter sequence may invite the wrong pattern. Count the vowels and stress the penultimate syllable every time: **she**-a, lo-**the**-a, she-**lo**-mu.
 
-**The problem**: English stress is unpredictable and often needs memorization (PHOtograph vs. phoTOGraphy). Learners may apply English patterns to Phi.
+## Listening back
 
-**In Phi**: stress always falls on the penultimate (second-to-last) syllable.
-
-**How to fix it**:
-- Count syllables first
-- Identify the second-to-last
-- Apply gentle emphasis there, every time
-
-**Test words**: `SHE-a`, `lo-THE-a`, `she-lo-MU-i`
-
-## Self-diagnosis
-
-Record yourself reading Phi text, then listen critically:
-
-1. Are vowels pure or gliding?
-2. Are stops gentle or aspirated?
-3. Are vowel sequences separate or merged?
-4. Is stress consistent and penultimate?
-
-Recording makes repeated production patterns easier to notice. Compare several sessions rather than treating one take or one accent difference as an error, and record genuine confusions in `documents/evaluation/listening_audit.md`.
+A short recording can reveal habits that are hard to hear while speaking. Listen for five distinct vowels, separate hiatus syllables, penultimate stress, and the contrasts `th`/`t` and `wh`/`w`. Compare several attempts. One stray glide is an event, not a diagnosis.

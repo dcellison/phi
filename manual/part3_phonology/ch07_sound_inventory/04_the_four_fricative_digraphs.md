@@ -1,86 +1,59 @@
 # The four fricative digraphs
 
-## Doorways to abstraction
+## Two letters, one onset
 
-Phi uses four two-letter combinations that represent single sounds: **ph, th, sh, wh**. These fricative digraphs create Phi's characteristic "breathy" texture, sounds that hover between vowel openness and consonant closure.
+Phi writes four consonant sounds with two roman letters: **ph, th, sh, wh**. Each pair stays together when a word is divided into syllables. Thus `lothea` is *lo.the.a*, never *lot.he.a*.
 
-These sounds carry semantic weight. They appear predominantly in words dealing with abstract concepts, philosophy, and the unseen. When you encounter a fricative digraph, you're often entering the realm of thought, relationship, or spirit.
+The digraphs give Phi much of its audible breath, but they do not reveal a word's meaning. `shiro` is a tree and `shelomu` is understanding. Any association a speaker hears belongs to the whole word, not to a secret definition inside `sh`.
 
-| Digraph | IPA | Description | Example |
-|---------|-----|-------------|---------|
-| ph | /ɸ/ | bilabial fricative | lips only, NOT "f" |
-| th | /θ/ | dental fricative | "think" (voiceless) |
-| sh | /ʃ/ | post-alveolar fricative | "ship" |
-| wh | /ʍ/ | labio-velar fricative | whispered "w" |
+| Digraph | Reference IPA | Description | Useful approach |
+|---------|---------------|-------------|-----------------|
+| ph | /ɸ/ | voiceless bilabial fricative | air between the lips, without the teeth |
+| th | /θ/ | voiceless dental fricative | English "think" |
+| sh | /ʃ/ | voiceless postalveolar fricative | English "ship" |
+| wh | /ʍ/ | voiceless labial-velar sound | an unvoiced `w` |
 
-## The bilabial whisper: ph
+## ph at the lips
 
-**Ph** /ɸ/ may be unfamiliar to English speakers. It is NOT the "f" sound of English "fish," which uses teeth against lip. Phi's **ph** uses only the lips.
+For **ph** /ɸ/, bring the lips close without sealing them and send air through the narrow gap. The teeth take no part. A hand in front of the mouth should feel steady air rather than the brief release of `p`.
 
-To produce this sound:
+Conversational [f] is accepted. Learning /ɸ/ still gives a speaker access to the shared reference pronunciation and to the contrast between continuous `ph` and the brief closure of `p`.
 
-1. Bring your lips close together, as if preparing to say "p"
-2. Don't seal them completely; leave a small relaxed gap
-3. Push air steadily through this gap
-
-Imagine blowing out a candle with a soft, controlled puff. The sound that emerges is very close to **ph**. Japanese speakers will recognize this sound from words like *Fuji*.
-
-**Practice words:**
 - `phiro` /ˈɸi.ro̞/ (elegant)
 - `nophi` /ˈn̪o̞.ɸi/ (story)
 
-## The dental stream: th
+## th at the teeth
 
-**Th** /θ/ will be familiar to English speakers, though Phi requires consistency. It must always be **voiceless**, like "think," never voiced like "this."
+For **th** /θ/, rest the tongue tip lightly between the teeth or just behind the upper front teeth, then let air pass through the gap without voice. A hand on the throat helps distinguish the quiet vocal folds of English "think" from the vibration in "this".
 
-To produce this sound:
+A mildly affricated [t̪θ] is accepted. The important contrast is that `th` remains distinguishable from `t`, `s`, and `ph`.
 
-1. Place your tongue tip lightly between your teeth, or just behind your upper front teeth
-2. Push air through the narrow gap
-3. Keep your vocal cords still (no vibration)
-
-Test for voicelessness by placing your hand on your throat. You should feel no buzzing.
-
-**Practice words:**
 - `thomari` /θo̞.ˈmä.ri/ (courage)
 - `thesua` /θe̞.ˈsu.ä/ (mindful)
 - `lothea` /lo̞.ˈθe̞.ä/ (love)
 
-## The hush of sh
+## sh behind the ridge
 
-**Sh** /ʃ/ creates a soft, rushing sound by raising the tongue body toward the hard palate and pushing air through the wide channel that forms. This sound appears across many languages and should feel natural to most speakers.
+For **sh** /ʃ/, raise the front of the tongue behind the tooth ridge and leave a broad channel for unvoiced air. English "ship" is a close model for many speakers.
 
-English "ship," "shine," and "hush" all contain this sound. In Phi, **sh** often appears in words involving connection, relationship, and careful attention.
-
-**Practice words:**
 - `shea` /ˈʃe̞.ä/ (peace)
 - `shiro` /ˈʃi.ro̞/ (tree)
 - `shelira` /ʃe̞.ˈli.rä/ (forest)
 - `shelomu` /ʃe̞.ˈlo̞.mu/ (understand)
 
-## The labio-velar breath: wh
+## wh with rounded lips
 
-**Wh** /ʍ/ may feel archaic to some English speakers, though many dialects still preserve it. Think of it as spelling "hw," a whispered "h" flowing immediately into "w."
+For **wh** /ʍ/, take the lip and tongue position for `w` but leave the vocal folds quiet. Some English accents preserve this difference in "which" and "witch". Speakers who do not have it can begin with a softly whispered `w`.
 
-To produce this sound:
+Conversational [w̥] and [hw] are accepted. In each case, keep `wh` distinct from voiced `w` so that pairs of Phi words do not collapse into one another.
 
-1. Round your lips as if to say "w"
-2. Before voicing, push a distinct puff of breath through your rounded lips
-3. Let the "w" sound emerge from that breath
+- `whemura` /ʍe̞.ˈmu.rä/ (dream)
+- `whelani` /ʍe̞.ˈlä.n̪i/ (welcome)
+- `whunei` /ʍu.ˈn̪e̞.i/ (breathe)
+- `whuo` /ˈʍu.o̞/ (without)
 
-Some English speakers distinguish "which" from "witch" with this sound. If you don't, practice by saying "hue" and feeling the breath before the vowel, then apply that breath to a rounded lip position.
+## Comparing the four
 
-**Practice words:**
-- *whemura* (dream), *whelani* (welcome), *whunei* (breath), *whuo* (without)
+Hold /ɸ/, /θ/, /ʃ/, and /ʍ/ in turn, with no voice during any fricative. Then place a hand lightly on the throat and repeat them. The four tongue and lip positions should differ even though the airflow stays unvoiced.
 
-## The harmony of controlled breath
-
-These four fricatives require conscious attention to breath and articulation. They demand that speakers develop a more deliberate relationship with their voice, which aligns with Phi's encouragement of mindful communication.
-
-When practicing these sounds, notice:
-
-- The position of your lips and tongue
-- The steady flow of breath without voice
-- The subtle differences between each fricative
-
-Mastering these sounds isn't just pronunciation practice. It's developing the controlled, conscious expression that characterizes thoughtful speech.
+That attention can become part of mindful speech, but producing /ɸ/ does not certify anyone's state of mind. It is first of all a consonant, and consonants have enough work already.

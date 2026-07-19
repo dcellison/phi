@@ -77,6 +77,28 @@ All nineteen files under `manual/part2_soul/` are reviewed. Seventeen needed rev
 
 The completed base vocabulary and closed grammar cover every repaired lesson. The pass found no candidate for the decision register, and none of the general chapters required an optional module word. Existing direct words replaced no transparent expression solely for novelty.
 
+## Part III: Phonology
+
+All eleven files under `manual/part3_phonology/` are reviewed. Ten needed revision; the IPA reference already matched canon and was preserved. The pass found no lexical gap and used no optional module word.
+
+| File | State | Finding and disposition |
+|---|---|---|
+| `ch07_sound_inventory/01_introduction.md` | Revised | The inventory now counts five vowels and fourteen consonants, with ten single-letter spellings and four digraphs. Uneven learning cost and accepted accents replace the old promise of near-universal first-day ease. |
+| `ch07_sound_inventory/02_the_five_vowels.md` | Revised | Stable reference targets replace purity and unwavering speech. The five contrasts remain firm while accented placement within them stays legitimate. |
+| `ch07_sound_inventory/03_the_ten_consonants.md` | Revised | The chapter now teaches the ten single-letter consonants and their conversational variants. Its practice lists finally contain the stops, `s`, and `h` they claim to demonstrate. |
+| `ch07_sound_inventory/04_the_four_fricative_digraphs.md` | Revised | The obsolete claim that digraphs predict abstraction is gone. Each sound receives a physical path, its accepted variants, and examples with current forms and glosses. |
+| `ch07_sound_inventory/05_ipa_reference.md` | Reviewed and preserved | The table already gives the canonical inventory, hiatus, stress, accepted variants, and contrast boundary without turning accent into a test of belonging. |
+| `ch08_music_of_phi/01_the_golden_rule.md` | Revised | The hiatus lesson no longer invents a pause, makes a false claim about most languages, or treats the rule as moral transparency. It now connects the two-syllable boundary to stress, spelling, and Tengwar. |
+| `ch08_music_of_phi/02_syllable_structure.md` | Revised | Open syllables, the three-syllable lexical ceiling, four-syllable names, and duplicate restrictions now agree with canon. The function-word charter replaces the false rule that every two-syllable form is grammatical. |
+| `ch08_music_of_phi/03_penultimate_stress.md` | Revised | Fixed penultimate placement remains, while claims about a universal falling rhythm and one mandatory acoustic cue are gone. Bold lowercase syllables teach stress without creating invalid capitalized Phi. |
+| `ch08_music_of_phi/04_common_pitfalls.md` | Revised | The former mistake list now treats English habits as transfers and sets each careful target beside its accepted accent range. It adds the missing `wh`/`w` contrast and removes retired `shelomui`. |
+| `ch08_music_of_phi/05_exercises.md` | Revised | The exercises use current words, repair mismatched focus notes, replace clock-timed routines with repeatable listening work, and end in a coherent base-vocabulary scene. |
+| `ch08_music_of_phi/06_writing_phi_down.md` | Revised | Romanization is now one mode among peers rather than the real orthography. The carrier-free Tengwar mapping, developing glyph mode, spoken punctuation, and outside-source boundary all match current canon. |
+
+### Lexical result
+
+The existing base and function vocabulary covers every lesson and exercise. No workaround exposed a missing concept, and pronunciation teaching had no reason to draw from an optional module. The new forest scene says what it needs with ordinary `thalo`, `nila`, and `phaelo`.
+
 ### Resume point
 
-Continue with `manual/part3_phonology/`. Check every articulation and sound claim against the current lexicon and phonetics reference, preserve valid examples, and keep learner difficulty separate from character or philosophical attainment.
+Continue with `manual/part4_grammar/`. Start with the particle system, check each closed inventory and example against current canon, and preserve base-vocabulary teaching unless a chapter explicitly teaches a module.

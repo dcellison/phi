@@ -1,36 +1,39 @@
 # Syllable structure
 
-Every syllable in Phi ends with a vowel. This one rule creates the language's open, flowing character, and, as you'll see below, the shape of a word tells you what kind of word it is.
+Divide `lothea` before each consonant onset and between its adjacent vowels: *lo.the.a*. The digraph `th` stays whole, each syllable ends in a vowel, and the final `a` stands without an onset because it follows another vowel. That pattern accounts for every Phi word.
 
-The formula is **(C)CV**: an onset followed by one vowel. The onset is either a single consonant (*ma*, *ke*, *lo*) or one of the four digraphs, which count as single consonants and fill both consonant slots of the formula (*tho*, *she*, *phe*). There are no other options: no consonant clusters, no closed syllables, no final consonants anywhere in the language.
+## Open syllables
 
-A syllable with no onset at all, a bare vowel, occurs in exactly one situation: after another vowel inside a word, like the final *a* of `she.a` or `lo.the.a`. **Words themselves always begin with a consonant.** There are no vowel-initial words in Phi.
+An ordinary Phi syllable has one consonant onset followed by one vowel. The onset may be any of the ten single-letter consonants or one of the four digraphs. There are no other consonant clusters, and no syllable ends in a consonant.
 
-This open-syllable pattern is the same one that gives Hawaiian, Māori, and Japanese their fluid sound. Without final consonants, syllables release into each other; boundaries always fall in predictable places; and speakers from cluster-heavy languages (English, German, Polish) get to simplify rather than struggle.
+A bare vowel syllable occurs only as the second half of hiatus. Words themselves always begin with a consonant onset, so a Phi word never begins with a vowel.
 
-## Syllable boundaries
+| Word | Syllabification | What to notice |
+|------|-----------------|----------------|
+| `lothea` | lo.the.a | `th` stays together; `e.a` is hiatus |
+| `mioru` | mi.o.ru | `i.o` is hiatus |
+| `thesua` | the.su.a | `u.a` is hiatus |
+| `thomari` | tho.ma.ri | three onset-vowel syllables |
 
-Boundaries fall before each consonant and between adjacent vowels:
+Counting syllables is unusually kind to the learner: count the vowels. `phelona` has `e`, `o`, and `a`, so it has three syllables. Canonical vocabulary forms have no more than three syllables. Productive Phi-form names have two, three, or four.
 
-| Word | Syllabification | Note |
-|------|-----------------|------|
-| `lothea` | lo.the.a | th stays together; e.a is hiatus |
-| `mioru` | mi.o.ru | i.o is hiatus |
-| `thesua` | the.su.a | u.a is hiatus |
-| `thomari` | tho.ma.ri | courage, three even steps |
+## Whole-word constraints
 
-Counting syllables is therefore trivial: count the vowels. `phelona` (require) has three vowels (e, o, a), so three syllables: `phe.lo.na`. Vocabulary words stop at three syllables. Productive names may have four because they designate a particular bearer rather than joining the shared lexicon.
+A lexicon word cannot repeat a syllable. `kala` has two different syllables and is structurally possible; *kaka* repeats `ka` and cannot enter the vocabulary. Productive names use the related rule that no syllable with its own onset may repeat.
 
-## Two more word-level rules
+Phi also reserves every one-syllable CV form for the thirty-five particles and the base numerals `mu`, `ta`, and `wi`. A content word or productive name therefore cannot be one syllable. This is the one word shape that identifies its broad grammatical role before a learner knows the word.
 
-Two constraints operate on whole words, and both matter for reading Part IV comfortably.
+## What other shapes can tell you
 
-**No syllable repeats within a word.** `kala` is a possible Phi word; `kaka` is not. This keeps every word internally varied: nothing in the lexicon stutters.
+The remaining shape charter organizes the closed function-word families without reserving their forms from content vocabulary. `shea` is a two-syllable content word even though many two-syllable function words have a hiatus. `shiro` is another content word even though several frame words share its plain two-syllable pattern.
 
-**Word shape signals word class.** This is the structural rule that will pay off most: a single CV syllable (`mia`-sized pieces like `to`, `lo`, `wa`, `ma`) is always a grammatical particle or a base numeral, never a content word. Two-syllable CV.V shapes (`mia`, `mua`, `sheo`) are pronouns, prepositions, and scale units. Content words (nouns, verbs, adjectives) are always longer. When you hear a Phi sentence, the small words are the grammar and the long words are the meaning, and you can sort them by ear before you know what any of them mean. Keep this in your pocket for Part IV: it is the reason particle grammar is learnable at conversational speed.
+| Shape among function words | Families | Memory cue |
+|----------------------------|----------|------------|
+| one plain CV syllable | particles; `mu`, `ta`, `wi` | reserved grammar and base-numeral forms |
+| two syllables with hiatus | prepositions, core pronouns, clause relators, scale units | relations between participants, clauses, or quantities |
+| two plain syllables | complementizers, frame conjunctions, classifiers, `kona`, plus `miso` and `wiso` | frames and a small set of closed forms |
+| two or three content-shaped syllables | quantifiers, discourse markers, interrogatives | grammar that travels where content words travel |
 
-**The frame words add one more layer to the sort.** The bracket pairs you will meet in Part V (`mena/meno` for embedded statements, `wela/welo` for embedded questions, `shola/sholo` for quotations) plus the relativizer `rena` and the vocative `kona` form a small closed family of two-syllable words, and the pairs twin on a single skeleton with only the final vowel swapping: **-a opens a frame, -o closes it.** The two unpaired members end in -a and only ever open; their closing is done by something else: the head noun after a relative clause, the little sentence-end after a call. The extra syllable is structural, not decorative: these words mark the boundaries a listener can least afford to miss, mid-sentence, between verbs, so they ride long, sturdy forms, and the one-syllable tier gets to keep meaning exactly one thing. Hear a lone CV syllable and it is slot machinery; hear a member of this family and a frame is opening or closing, and the vowel tells you which.
+The table is a memory aid, not an automatic parser. Except for reserved CV monosyllables, an unfamiliar shape does not disclose whether the word is content or function. Sentence position and learned vocabulary still have jobs to do.
 
-## The sound of it
-
-Open syllables give Phi its texture: no hard stops mid-word, no consonant tangles, breath released rather than blocked, syllable by syllable. A language designed for ease of listening turns out, not accidentally, to be designed for ease of speaking too.
+Open syllables make boundaries predictable on the page. How readily listeners recover them in rapid speech remains a question for listening evidence.
