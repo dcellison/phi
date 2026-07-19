@@ -2,38 +2,32 @@
 
 ### The planned city of language
 
-If a natural language is an ancient city, shaped by centuries of unplanned growth with medieval streets and imperial avenues and modern towers layered on top of each other, then a constructed language is a planned city. Its avenues aren't former cow paths; they follow a grid. Its squares serve a specific kind of public life by design, not by accident. The whole structure answers a question: "What kind of place do we want to build?"
+If a natural language resembles an old city, a constructed language resembles one founded from a plan. The old city has streets laid over paths, walls absorbed into houses, and names whose original owners have been forgotten. The planned city begins with stated intentions. Of course, people soon find shortcuts, argue over the square, and sit on the one wall the planner had not meant as a bench. A language becomes a lived place only when use exceeds the drawing.
 
-This distinction between inherited city and intentional model is the key to understanding language creation as applied philosophy.
+Language creation is therefore less like solving language once and for all than building a working model around a question. The history of constructed languages offers several very different questions.
 
-### The dream of peace: Esperanto
+### The hope of a shared language: Esperanto
 
-This tradition found its first major expression in the late 19th century. Thinkers and pacifists, watching nationalist fervor tear Europe apart, dreamed of a tool that could unite people across borders. From this came the International Auxiliary Language movement.
+In the late nineteenth century, international-language advocates sought a common second language across national borders. The best-known result was Esperanto, published by L. L. Zamenhof in 1887. Zamenhof hoped it could serve as a neutral bridge between communities. Its grammar is highly regular, and much of its vocabulary draws on European languages, which made many forms familiar to some learners and less neutral to others.
 
-The most successful project was Esperanto, created by L. L. Zamenhof. It was designed as a second language for everyone: politically neutral, a bridge between nations. The grammar was radically simple and regular, free of the exceptions that plague English or French. The vocabulary drew from multiple European languages to feel familiar to the widest audience.
+Esperanto did not replace national languages. People use it in conversation and correspondence, and it has literature, family speakers, and a durable international community. That achievement matters more than a tidy verdict of success or failure. A designed language had left the notebook and acquired people who could disagree about it in its own words.
 
-Esperanto never replaced national languages. But it did something else: it proved that a language built on explicit values, such as peace, neutrality, and accessibility, could create a real, lasting community. People still speak it today.
+### The experiment in logical structure: Lojban
 
-### The dream of pure reason: Lojban
+Loglan and its later relative Lojban pursued a different problem. Their grammars draw on predicate logic and are designed so that a sentence's syntactic structure can be recovered without the structural ambiguity common in natural languages.
 
-If the first wave of constructed languages pursued peace, the next pursued logic. In the mid-20th century, "logical languages" emerged: not designed for diplomacy, but as experiments in thought itself.
+That does not make every Lojban utterance mean only one thing. Context, reference, implication, and human misunderstanding remain cheerfully employed. A parser may know how the branches attach while two speakers still disagree about the tree. The experiment lies in making grammatical structure unusually explicit, not in producing perfect reason or removing everything poetry might use.
 
-The most prominent are Loglan and its successor, Lojban. Their creators built communication tools based entirely on predicate logic. The goal was grammar so precise and syntax so unambiguous that a machine could parse it as easily as a human.
+### The experiment in a small vocabulary: Toki Pona
 
-In Lojban, no sentence can be parsed two ways: the grammar engineers out the ambiguity that poetry lives on, and what remains states its structure exactly. This makes it difficult to speak conversationally, which is sort of the point. It's an attempt to build a tool for perfectly clear reasoning, pushing the edges of what language can do.
+Sonja Lang's Toki Pona begins from deliberate smallness. Its compact core vocabulary and light grammar ask speakers to build many ideas from broad words, composition, and context. A car or computer has no single compulsory paraphrase; the speaker chooses which features matter in the moment.
 
-### The dream of simplicity: Toki Pona
+That constraint can prompt reframing. Many speakers describe the practice as clarifying or mindful, while others simply enjoy the language. The grammar does not prescribe the experience. Toki Pona shows how omission can become a productive design choice rather than an unfinished dictionary.
 
-A more recent branch comes from minimalism. Where Lojban adds machinery until nothing is ambiguous, Sonja Lang's Toki Pona subtracts: maximum meaning from minimum elements.
+### Phi's place among the experiments
 
-Toki Pona has a deliberately small vocabulary, few grammatical categories, and a compact sound system. Its constraints invite speakers to compose many complex ideas from a small set of building blocks. Some learners experience that as mindful practice, but the language does not force a particular mental state.
+Esperanto, Lojban, Toki Pona, and many other constructed languages demonstrate that inherited patterns are not the only patterns people can use. They do not jointly prove that language controls thought, and their purposes cannot be arranged as stages on one ladder.
 
-A car becomes "moving space for people." A computer becomes "thinking machine." Speaking Toki Pona is a practice in letting go of intellectual clutter and focusing on what's simple and direct. It shows that a language's power can come from what it leaves out.
+Phi is one more experiment, with a narrower purpose of its own. It is not intended as a universal second language, nor does it pursue machine-like precision. Its vocabulary is larger than a minimalist language's because speakers need room for inner life and shared systems. Ecological relations, craft, care, and philosophical discussion have room of their own.
 
-### Phi's place in the tradition
-
-These projects, Esperanto, Lojban, Toki Pona, and others, are laboratories for the mind. Their individual goals differ, but together they prove something: we're not prisoners of the linguistic architecture we inherit. The patterns of thought handed down by our ancestors are not the only ones possible. We can design new tools for thinking and choose the values we build them on.
-
-Phi inherits from this whole tradition, but it has its own purpose. It doesn't aim to be a universal second language; it wants to enrich, not replace. Machine-like logical precision isn't the goal either; warmth and human connection matter more. And while it values simplicity, it doesn't go as minimal as Toki Pona: it wants vocabulary for discussing inner life and how to build a better world.
-
-Phi is the next experiment in the line. Esperanto asked whether a language could carry peace between nations; Toki Pona asked how little a language needs. Phi asks whether a language can be a mindfulness practice, whether the values can live in the grammar itself. The rest of this book is the experiment's apparatus. You are its next trial.
+Its question is whether a language can support mindful and compassionate speech as a present practice. The grammar offers places to attend to relation, evidence, intention, and the effect of an utterance. Whether those choices become habits beyond Phi speech remains untested. The rest of this book teaches the instrument; you are here to learn it, not to be entered on a clipboard.

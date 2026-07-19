@@ -1,9 +1,21 @@
 ## How to use this book
 
-The book moves in seven parts: first words (the rest of Part I), the philosophy (Part II), the sounds (Part III), the grammar (Parts IV and V), mastery and daily practice (Part VI), and reference material with the complete lexicon (Part VII). Appendices cover linguistic terms, comparisons with natural languages, and resources for further study.
+The manual moves through the language in this order:
 
-Two paths through it work equally well. If you want immersion, go straight to the sounds and grammar (Parts III and IV) and return for the philosophy when you're curious why the rules are shaped the way they are. If you want understanding before practice, read Part II first. The chapters cross-reference each other, so neither order leaves you stranded.
+| Part | Contents |
+|---|---|
+| I | First words. |
+| II | Philosophy. |
+| III | Sounds. |
+| IV and V | Grammar. |
+| VI | Social practice, transmutation, and source material. |
+| VII | Reference material. |
+| Appendices | Linguistic terms, comparisons with natural languages, and resources for further study. |
 
-One suggestion regardless of path: don't race. The goal isn't memorised rules or accumulated vocabulary but a different relationship to your own speech, and attention does not arrive on a timetable. Read quickly where understanding comes easily and return where it does not. Phi's full vowels offer a small physical reminder: let each sound be present before moving on.
+Two routes through it work well. For immersion, continue into the sounds and grammar, then return to the philosophy when you want to know why a rule has its present shape. For explanation before practice, read Part II first. The chapters cross-reference one another, so neither route leaves you wandering the corridors indefinitely.
 
-Last thing. Phi is alive. The lexicon grows as speakers find concepts worth naming, the texts accumulate, and the design decisions are still being made, some by whoever is reading this. You're not studying a finished monument. You're early.
+Whichever route you take, do not race. The aim is closer attention to the utterance now being made. Rules and vocabulary matter because they make that attention usable. Read quickly where understanding comes easily and return where it does not. Phi's full vowels offer a small physical reminder: let each sound be present before moving on.
+
+This unhurried quality is freedom from needless haste, not a prescribed speaking speed. Fluent Phi may be quick. A difficult thought may need silence. What matters is whether the speaker can notice what they know, what they intend, and how the words may enter a relationship.
+
+Use the book aloud as well as silently. A rule that looks elegant on a page must still survive breath, memory, and an ordinary morning. The next chapter starts with a sentence short enough to carry into all three.

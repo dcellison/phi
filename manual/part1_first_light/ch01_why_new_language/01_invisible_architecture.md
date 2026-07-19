@@ -1,27 +1,29 @@
 # Why a new language?
 
-## The invisible architecture of thought
+## The invisible architecture of speech
 
-We live inside a structure we didn't build and rarely notice. Like air or gravity, our native language is so basic to our existence that it disappears. It's not a tool we pick up consciously, like a hammer. It's the medium where our first thoughts form, the space where our inner world takes shape. We're born into its architecture and learn its passages the way a child learns the layout of their home: not through blueprints, but through living there.
+Most of us meet grammar long before we know it has a name. We learn where a question begins, which detail must be stated, and how an action is arranged around the people and things involved. By the time anyone draws a sentence diagram, the language has been doing its work for years and is rather surprised to find itself on a blackboard.
 
-And every language is a complete theory of everything, whether its speakers realize it or not. Before we ever encounter formal philosophy, our grammar has already answered the big questions. Is the world made of separate, nameable things, or a web of connected processes? Is time a road, a resource to be "spent" and "saved," or a tide? Is the self an independent agent acting on a passive world, or a temporary pattern in something larger? The grammatical structures we use every day aren't neutral containers. They're arguments about how the world works.
+Those familiar patterns matter while a sentence is being formed. A language may make one distinction routine and leave another to context. A familiar word can bring an experience close to hand; another idea may take a whole phrase. Such choices direct attention during speech, but they do not imprison thought. No grammar contains a complete philosophy, and no word order assigns one worldview to everyone who uses it.
 
-## The subject-verb-object worldview
+That modest claim leaves plenty for a language designer to do. Evidentials can put the source of a claim within reach. A question marker can arrive before the proposition has a chance to sound like an assertion. Vocabulary can make a useful distinction ordinary enough to use over breakfast.
 
-Take the sentence "I threw the ball." On the surface, it describes a physical event. But look at what it assumes. It starts with "I": a discrete self, the primary cause of everything that follows. Then "threw," an action originating in the subject and traveling outward. Finally "the ball," a passive object, pure recipient. Subject-Verb-Object builds a world centered on individual agency and a sharp line between the active self and the world it acts upon.
+## What word order can ask
 
-This feels natural to English speakers, but it's one architecture among thousands. In Tagalog, grammar often centers on what's affected rather than who acts. In Navajo, verbs encode how objects move through space. In Japanese and Korean, the verb comes last. You can't know what happened until the sentence finishes. Each grammar builds on a different foundation.
+Take the English sentence "I threw the ball." English usually places the actor first, then the action, then what the action affects. That order is useful and familiar. It does not make an English speaker an individualist, any more than a road to the market compels the traveller to buy cabbage.
 
-## The cracks in the inheritance
+Languages arrange the same event in many ways. Tagalog voice constructions can organise a clause around different participants. Navajo verbs carry rich information about motion and the things moving. Japanese and Korean commonly place the verb at the end. These are grammatical resources, not ready-made theories of the self.
 
-Our inherited structures carry the weight of conquest, empire, and old hierarchies. We inherit the damage along with the utility. Three cracks are worth seeing clearly, because Phi was designed in response to them.
+Phi also places the verb last. In `mia thia lothea`, "I love you," the speaker and the person loved arrive before the loving. That sequence offers a small practice of attention: establish who is present, then deliver the action. It does not impose a pause, and a fluent speaker can still speak carelessly at considerable speed. The grammar provides an order that attention can inhabit.
 
-**Possession as default.** English uses one structure for tools, ideas, body parts, land, and people: *my* hammer, *my* idea, *my* hand, *my* land, *my* wife. The grammar frames the world as ownable and the self as owner, and the framing is invisible precisely because it is everywhere. A language could instead make ownership a conscious claim rather than a default, and the difference would show up in how we treat land as much as how we treat each other.
+## Where design can intervene
 
-**Combat as the metaphor for disagreement.** In English we don't discuss; we *defend positions*, *attack claims*, *shoot down* ideas, *win* arguments. The metaphor is so deep it doesn't register as metaphor. It makes the person who disagrees with you an opponent before either of you has said anything substantive.
+Phi does not begin from the claim that English is broken. It begins with places where deliberate language design may help a speaker notice a choice.
 
-**Separation from the living world.** "It is raining." What is this "it"? The grammar posits an impersonal force acting on a world we merely observe. Compare Potawatomi, where "bay" is a verb (*to be a bay*), and the water is doing something rather than being something. A grammar can place its speakers inside the world's processes or outside them, and ours chose outside.
+Possession needs context. English uses the same possessive construction for a tool, a body part, a piece of land, or a relationship. Phi also permits a possessor before a noun, so syntax alone cannot rescue anyone from confusing relationship with ownership. Its teaching and vocabulary must keep the distinction visible. `mia melu`, "my friend," identifies a relationship without making the friend property. `panuri`, "resource," names something treated as available for a purpose without granting ownership, access, or permission.
 
-None of these cracks makes English speakers bad people; grammar is pressure, not destiny. But pressure applied billions of times a day adds up. To imagine speech built on stewardship rather than ownership, we first have to see the cracks. Then the question this book asks becomes unavoidable: do we keep patching, or could a language be designed from the ground up, on values chosen deliberately?
+Disagreement need not become a contest. English often describes an argument as something to win or lose. Speakers can choose other language, but the familiar framing is always nearby. Phi's peace-linguistic practice keeps disagreement, refusal, harm, and accountability speakable without first turning another person into an opponent.
 
-That question is where Phi begins.
+The living world is more than a storehouse. English can describe a forest as a community, a commodity, a process, or a home. Phi cannot force the wiser choice. It can provide ordinary words for cycles, interdependence, care, and limits, then require a speaker to say which relation they mean. Even a useful thing does not become a resource by nature; someone treats it as one for a stated purpose.
+
+The opportunity lies in practice; the speakers were never the defective part. Phi asks whether a language can make mindful and compassionate choices easier to practise in the utterance being spoken: what the speaker knows, what they intend, and how the words may enter a relationship. That question is where Phi begins.

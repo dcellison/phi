@@ -1,32 +1,45 @@
 # The music of vowel hiatus
 
-Listen to these words: *lothea*, *shea*, *mia*, *thia*, *soriu*. Every one contains two vowels standing side by side. What Phi does at that meeting point is the single most important fact about how it sounds.
+Listen to *lothea*, *shea*, *mia*, *thia*, and *soriu*. Each contains adjacent vowels. Phi gives every one of those vowels its own syllable.
 
-Most languages, when two vowels meet, blend them. English turns *a+i* into the glide of "eye"; Spanish fuses *ue* into a single flowing syllable. Phi never does. When vowels meet in Phi, **each one keeps its own syllable**: a full beat for the first, a small clean break, a full beat for the second. This is *vowel hiatus*: vowels in sequence, never in fusion.
+English spelling offers no single rule when vowels meet: a pair may form a glide, mark one vowel, or cross a syllable boundary. Spanish also has both diphthongs and hiatus. Phi makes one categorical choice. Adjacent vowels never become a diphthong or one long vowel. Each retains its own quality and syllable.
 
-Say *mia* once at teaching pace: *mee-ah*. Two beats, not one. Now *lothea*: *lo-theh-ah*. Three beats, with the border between *eh* and *ah* kept crisp, like two notes played separately rather than slurred. And *soriu*: *so-ree-oo*. The final *i.u* takes two clear steps.
-
-Stepping stones, not a slide. That is the rule, and it has no exceptions anywhere in the language.
+Say *mia* at teaching pace: *mi-a*, with stress on the first syllable. Two syllables, not one. Now *lothea*: *lo-the-a*, with stress on the middle syllable. Three syllables, with `e` and `a` heard separately. The boundary does not require silence or an inserted consonant. One vowel finishes and the mouth moves directly to the next. In *soriu*, final `i.u` likewise takes two syllables: *so-ri-u*, with stress on the middle syllable.
 
 ## What the rule does
 
-First, it defines the careful reference rhythm. Every vowel retains its syllable, so *mia thia lothea* has seven syllables even when tempo changes. Teaching gives those syllables full duration; conversational speech may shorten them without merging contrasts.
+For pronunciation, every vowel retains its syllable. `mia thia lothea` has seven syllables even when the tempo changes. Teaching speech gives them full duration; conversational speech may shorten them without merging them.
 
-Second, it makes the music. Phi's characteristic lilt (rise, step, fall, step) comes from these vowel sequences sounding out one by one. Each adjacent vowel gets its own footfall, even when the walk quickens.
+For rhythm, hiatus gives Phi much of its audible character. The changing vowel qualities create distinct steps inside many words, and the pattern remains when speech quickens.
 
-Third, it gives listeners a regular syllable structure to follow through an unfamiliar word. That may aid segmentation, but actual recognition also depends on tempo, accent, lexical neighbors, and experience.
+For a learner facing an unfamiliar word, the rule gives a dependable syllable count and route through the vowels. Whether it also makes words easier to recognise in running speech remains a question for listening evidence, accents, and experience.
 
 ## Hearing it
 
-Read these aloud, giving every vowel its full beat and keeping every border clean:
+Read these clauses aloud. Keep every adjacent vowel pair distinct without adding a pause that is not otherwise needed.
 
-**phialu sileta nila.** — The water sees the sun.
-*fee-ah-loo see-leh-tah nee-lah*
+**mia sileta nila.**
 
-**shea womu nai.** — Peace is home.
-*sheh-ah woh-moo nah-ee*
+I see the sun.
 
-**mia mioru peloru nila.** — I see a beautiful flower.
-*mee-ah mee-oh-roo peh-loh-roo nee-lah*
+*mi-a si-le-ta ni-la*
 
-If you feel yourself folding the vowel pairs together, that is another sound system doing familiar work. Let each vowel finish. The technical rules arrive in Part III; for now, teach your mouth the walk.
+Stress the first syllable of `mia`, the middle of `sileta`, and the first of `nila`.
+
+**mia shea phaelo.**
+
+I feel peace.
+
+*mi-a she-a pha-e-lo*
+
+Stress the first syllable of `mia` and `shea`, and the middle of `phaelo`.
+
+**mia mioru peloru nila.**
+
+I see a beautiful flower.
+
+*mi-a mi-o-ru pe-lo-ru ni-la*
+
+Stress the first syllable of `mia` and `nila`, and the middle of `mioru` and `peloru`.
+
+If two vowels begin to fold into one, let the first reach its target before moving to the second. The technical account arrives in Part III. For now, teach the mouth the path without making it march.

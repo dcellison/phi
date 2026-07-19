@@ -2,49 +2,54 @@
 
 **mia thia lothea.**
 
-Three words. Subject, object, verb. I, you, love.
+Three words: subject, object, verb. I, you, love.
 
-In Phi, the verb comes last. This is not arbitrary. Consider what this means: before you can act, you must first establish who is involved and what the context is. You cannot blurt out the action and figure out the rest later.
+Phi places the verb last. English normally puts the verb before its object, while Phi lets the participants arrive before the final action. In `mia thia lothea`, the speaker names `mia`, then the person loved, `thia`, and then delivers `lothea`.
 
-English lets you fire first and aim second: "Kill him!" In Phi, you must name your target, consider the action, then finally act. The structure itself creates a pause for reflection.
+That order can offer a moment of attention, but it does not force a pause or improve anyone's intention. Fluent Phi can be quick and careless. The practice lies in using the available sequence to notice who is involved before the action is complete.
 
-This is your first meeting with the one rule that organizes everything in Phi: **whatever modifies, specifies, or relates comes before what it affects.** Objects before verbs. Adjectives before nouns. Every particle before the word it marks. The language announces, then delivers. Once you can feel that pattern in a three-word sentence, you already hold the key to all the grammar ahead.
+The sentence also introduces the broad pattern that organises Phi: **a dependent comes before what it depends on.** Objects precede verbs. Descriptors precede nouns. Most particles announce their scope before it; paired complement and quotation frames also mark where that scope closes. The language announces, then delivers. Once that pattern feels familiar in a three-word sentence, much of the later grammar has somewhere to settle.
 
-**mia** — I  
-The first-person pronoun. *Mee-ah.* The *m* hums inside your head, the most internal consonant. Then *i* sharpens into self-awareness. Finally *a* opens outward, acknowledging that even as you say "I," you exist in relation to everything that isn't you.
+**mia** means I or me. Close the lips for nasal `m`, release into high-front `i`, then keep the following `a` in its own syllable: *mi-a*, with stress on the first syllable. Position tells the listener whether `mia` is subject, object, or possessor.
 
-**thia** — you  
-*Thee-ah.* The *th* requires careful placement of your tongue, neither fully in nor out. This deliberate articulation mirrors the care required in addressing another person. Every "you" in Phi becomes a small act of attention.
+**thia** means you, addressing one person. Place the tongue tip lightly between the teeth for `th`, move into high-front `i`, then open a separate `a`: *thi-a*, with stress on the first syllable. The form carries no rank or case ending.
 
-**lothea** — love  
-*Lo-theh-ah.* The liquid *l* reaches toward another. The intimate breath of *th* creates tender connection. The final *a* opens completely, love given without reservation.
+**lothea** means love as deep affection or active care. Release `l` into rounded `o`, place the tongue at the teeth for stressed `the`, then keep final `a` separate: *lo-the-a*, with stress on the middle syllable. The full contour moves from voice through breath into an open vowel, but its parts are sounds, not smaller words for kinds of love.
 
-Put them together and you have a complete thought: *mia thia lothea.* I, you, love. I love you.
+Put them together and you have a complete clause: `mia thia lothea.` I love you.
 
-Now try the reverse:
+Now reverse the participants:
 
-**thia mia lothea.** — You love me.
+**thia mia lothea.**
 
-Same three words. Different order. Different meaning. In Phi, position tells you who does what: no conjugations, no case endings. The arrangement is the grammar.
+You love me.
+
+The words themselves do not change. Their positions identify the subject and object in these complete clauses.
 
 ## A question
 
-What if you want to ask?
+To ask a yes or no question, place **wa** at the beginning:
 
-Add **wa** to the beginning. This single particle transforms any statement into a yes/no question:
+**wa thia mia lothea.**
 
-**wa thia mia lothea.** — Do you love me?
+Do you love me?
 
-Notice that nothing else changes. The question particle simply opens the door for an answer. And the sound of *wa* is itself welcoming: the *w* rounds your lips as if already receiving the response, and the *a* creates space.
+The clause keeps its ordinary order. `wa` changes the assertion into an inquiry before the proposition arrives. To say it, round the lips for `w` and then open into `a`. That widening can recall the room a real answer needs, though the question's fairness still depends on how it is asked.
 
 ## Building more
 
-With just these elements, you can already say quite a lot:
+With the same order and a few new words, you can make other short clauses:
 
-**mia thia nila.** — I see you.  
-**wa thia mia sano.** — Do you know me?  
-**mia shea wilao.** — I long for peace.
+**mia thia nila.**
 
-Three words, clear meaning, no ambiguity.
+I see you.
 
-This is Phi.
+**wa thia mia sano.**
+
+Do you know me?
+
+**mia shea wilao.**
+
+I long for peace.
+
+Word order distinguishes the participants in these examples. Context still supplies reference, implication, and anything the speaker leaves unsaid. Phi is regular; it is not without ambiguity.

@@ -1,39 +1,37 @@
 # What Phi sounds like
 
-Before you learn a word of Phi, listen to it.
+Before you learn a rule, listen to a sentence.
 
 *mia thia lothea.*
 
-Say it aloud: *mee-ah thee-ah lo-theh-ah*. Give every vowel its own beat. Notice how the vowels meet without merging: each is sounded fully, with a small clean break between them: stepping stones, not a slide.
+Say it aloud: *mi-a thi-a lo-the-a*. Stress the first syllable of `mia` and `thia`, and the middle syllable of `lothea`. Each written vowel has its own syllable, including the vowels that meet inside a word. There is no slide from one into the next. The syllable boundary need not be a pause; both vowel qualities simply remain audible.
 
-This is the sound of Phi. Soft consonants. Open vowels. Words that breathe.
+Phi uses five vowels, open syllables, and no consonant clusters. English approximations can help at first, but two cautions matter: `e` is a pure middle vowel rather than the glide in English *bay*, and `o` is a pure middle vowel rather than the glide in English *boat*.
 
-Here are a few more:
+Here are five words to try:
 
-**shea** (peace)  
-*shay-ah*. The hushing *sh* calms; the open *a* gives space to breathe.
+**shea** (peace), */ˈʃe̞.ä/*, *she-a* with stress on the first syllable. Raise the tongue blade for `sh`, let the breath pass through its narrow channel, then keep `e` and `a` in separate syllables. The hush opening into an exposed vowel can recall room left for breath and reply.
 
-**mioru** (beautiful)  
-*mee-oh-roo*. The word begins in a hum, opens at the stressed middle vowel, and closes with a brief *r* into rounded *u*.
+**mioru** (beautiful), */mi.ˈo̞.ru/*, *mi-o-ru* with stress on the middle syllable. Begin with nasal `m` and high-front `i`, give rounded `o` its own stressed syllable, then tap or briefly trill the `r` before `u`.
 
-**kia** (hello)  
-*kee-ah*. Bright and welcoming, like eyes meeting.
+**kia** (hello), */ˈki.ä/*, *ki-a* with stress on the first syllable. Release `k` into `i`, then open into a separate `a`. Some Phi speakers hear the quick contact and opening as a small knock with room for an answer. The association belongs to the whole word, not to either sound alone.
 
-**phialu** (water)  
-*fee-ah-loo*. Flowing from breath to depth, the sound of water itself.
+**phialu** (water), */ɸi.ˈä.lu/*, *phi-a-lu* with stress on the middle syllable. Bring the lips close for `ph` without using the teeth, open through the `i.a` hiatus, then release `l` into rounded `u`.
 
-**sileta** (sun), *see-leh-tah*. The middle flows, and the final *a* opens like warmth reaching skin.
+**sileta** (sun), */si.ˈle̞.t̪ä/*, *si-le-ta* with stress on the middle syllable. The final `t` touches the backs of the upper teeth before opening into `a`.
 
-Do you hear it? Phi was designed to sound peaceful: no guttural sounds, no clusters, nothing to bark. The language leans toward calm: these syllables are hard to spit and easy to flow. Anger will still find a way; anger always does. But the sounds will not help it.
+The first two syllables of `sileta` deliberately resemble `silero`, "star," because the sun is a star. This is a lexical family resemblance, not a rule that gives `sile` an independent meaning.
 
-This wasn't an accident. Every sound in Phi was chosen for how it feels in the mouth and how it lands in the ear. The breathy *ph* and *th*, the liquid *l*, the soft *sh*, the open vowels that never collide but always glide. These create a language that sounds the way a gentle stream looks.
+Phi's sound system was designed with an open, unclustered rhythm, but it is not effortless for every speaker. The fricatives `ph`, `th`, `sh`, and `wh` are marked sounds and may need practice. Accent variants are welcome where the distinctions remain recoverable.
 
-And this is just the beginning. In Phi, the sounds carry meaning. Words for soft things use soft sounds. Flowing things get sounds that flow. Peace sounds like peace.
+Nor can phonology make an utterance peaceful. A person can speak Phi harshly, just as a gentle thought can be expressed in a language full of clusters. Mouthfeel can support attention; ethics still belongs to the speaker and the relationship.
 
-But for now, just listen. Say the words. Feel how your mouth relaxes around them, how your breath moves without catching.
+Sound symbolism in Phi is therefore optional and local. It may help a speaker remember the contour of a whole word, but it is not hidden morphology and no sound carries one universal meaning. The physical instructions remain true whether a mnemonic works for you or not.
+
+Say the sentence once more.
 
 *mia thia lothea.*
 
 I love you.
 
-Your first sentence in Phi.
+That is your first sentence in Phi.
