@@ -66,7 +66,7 @@ Arithmetic: `[operand 1] nela [operand 2] [operation]. [result] kelai.` Operatio
 
 ## Conjunctions
 
-Coordinating: `nela` and · `thona` but · `sola` or. Subordinating: `pheo` after · `phoe` before · `lao` because · `shai` although · `lila` for (purpose)
+Coordinating: `nela` and · `thona` but · `sola` or. Subordinating: `pheo` after · `phoe` before · `lao` because · `shai` although · `lila` for (purpose). Every subordinator opens dependent material before the main clause: `[relator dependent clause] [main clause]`.
 
 ## Pronouns and question words
 

@@ -166,6 +166,59 @@ class VocabularySchemaTests(unittest.TestCase):
             [],
         )
 
+    def test_purpose_frame_precedes_what_it_modifies(self):
+        self.assertEqual(
+            validate_examples.purpose_frame_misplacements(
+                "lila mia shonela mia theo".split()
+            ),
+            [],
+        )
+        self.assertEqual(
+            validate_examples.purpose_frame_misplacements(
+                "thelao lila mia shonela mia theo".split()
+            ),
+            [],
+        )
+        self.assertEqual(
+            validate_examples.purpose_frame_misplacements(
+                "mia mena lila shia shonela shia theo meno remo".split()
+            ),
+            [],
+        )
+        self.assertEqual(
+            validate_examples.purpose_frame_misplacements(
+                "mia theo nela lila shia shonela shia haolu".split()
+            ),
+            [],
+        )
+        self.assertTrue(
+            validate_examples.purpose_frame_misplacements(
+                "mia theo lila mia shonela".split()
+            )
+        )
+        self.assertTrue(
+            validate_examples.purpose_frame_misplacements(
+                "mia mena shia theo lila shia shonela meno remo".split()
+            )
+        )
+        self.assertTrue(
+            validate_examples.purpose_frame_misplacements(
+                "mia mena shia theo nela shia haolu meno lila mia shonela mia remo".split()
+            )
+        )
+        self.assertEqual(
+            validate_examples.purpose_frame_misplacements(
+                "thia lila wepu ralu nai".split()
+            ),
+            [],
+        )
+        self.assertEqual(
+            validate_examples.purpose_frame_misplacements(
+                "thia lila wepu ralu nai nela mia nulae".split()
+            ),
+            [],
+        )
+
     def test_empty_required_prose_is_rejected(self):
         entry = copy.deepcopy(self.by_word["sileta"])
         entry["description"] = ""

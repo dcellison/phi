@@ -30,6 +30,8 @@ The single validation tool for the Phi project. Checks:
      - gloss lines beneath Phi lines render each word by its lexicon
        gloss, verbatim (names after ne/honorifics gloss as themselves;
        translation lines and marked-wrong teaching examples are exempt)
+     - purpose frames opened by `lila` precede the main clause they modify;
+       the separate `S lila V ralu nai` freedom construction remains valid
      - a small whitelist covers deliberate error and contrast forms
 
   3. Phi quoted inside lexicon prose fields:
@@ -204,6 +206,19 @@ SLOT1_ORDER = {
     rank: index
     for index, rank in enumerate(SCHEMA_PROPERTIES["slot1_rank"]["enum"])
 }
+
+# `lila` opens a dependent purpose frame, which precedes the main clause.
+# These sentence-edge words may scope the whole construction before that
+# frame begins. A complementizer opener resets the local clause boundary,
+# and a coordinating conjunction begins a new coordinate.
+PURPOSE_FRAME_PREFIXES = {
+    "wa", "no", "lu", "he", "su", "pi",
+    "phisu", "shekoi", "shelao", "sheno", "shorela", "thelao", "whekai",
+    "pheo", "phoe", "lao", "shai", "rena",
+}
+FRAME_OPENERS = {"mena", "wela", "shola"}
+FRAME_CLOSERS = {"meno", "welo", "sholo"}
+COORDINATING_CONJUNCTIONS = {"nela", "thona", "sola"}
 
 IPA_CONSONANTS = {
     "h": "h", "k": "k", "l": "l", "m": "m", "n": "n̪", "p": "p",
@@ -629,6 +644,12 @@ def check_lexicon(entries):
                         f"{field} (canon: every preposition precedes its "
                         f"object)"
                     )
+                for run in purpose_frame_misplacements_in_line(span):
+                    errors.append(
+                        f"{rel}: postposed purpose frame near '{run}' in "
+                        f"{field} (canon: lila and its dependent clause "
+                        f"precede the main clause)"
+                    )
             for cited, paren in CITED.findall(text):
                 if not set(cited) <= PHI_LETTERS or cited == word:
                     continue
@@ -965,6 +986,85 @@ def preposition_misplacements(raw_line, prepositions, slot1_rank):
     return bad
 
 
+def purpose_frame_misplacements(tokens):
+    """Return detectable `lila` frames that begin after their main clause.
+
+    A purpose frame begins at the front of its local clause, after only
+    sentence-level framing words. Matrix material before a complementizer
+    belongs to the outer clause, so an open `mena`, `wela`, or `shola` frame
+    establishes a fresh local boundary. Coordinating conjunctions do the same
+    for the next coordinate. The freedom construction is distinct: when
+    `ralu nai` closes the local clause, `lila V` already precedes the predicate
+    it modifies.
+
+    This is intentionally the machine-detectable part of the rule. Human
+    review still resolves clause boundaries in unusually nested prose.
+    """
+    bad = []
+    frame_stack = []
+    local_boundaries = [0]
+
+    for index, token in enumerate(tokens):
+        if token in FRAME_OPENERS:
+            frame_stack.append((token, index))
+            local_boundaries.append(index + 1)
+            continue
+        if token in FRAME_CLOSERS:
+            if frame_stack:
+                frame_stack.pop()
+                local_boundaries.pop()
+            continue
+        if token in COORDINATING_CONJUNCTIONS:
+            local_boundaries[-1] = index + 1
+            continue
+        if token != "lila":
+            continue
+
+        local_end = len(tokens)
+        nested_depth = 0
+        for position in range(index + 1, len(tokens)):
+            following = tokens[position]
+            if following in FRAME_OPENERS:
+                nested_depth += 1
+            elif following in FRAME_CLOSERS:
+                if nested_depth == 0:
+                    local_end = position
+                    break
+                nested_depth -= 1
+            elif (
+                following in COORDINATING_CONJUNCTIONS
+                and nested_depth == 0
+            ):
+                local_end = position
+                break
+
+        freedom = any(
+            tokens[position:position + 2] == ["ralu", "nai"]
+            and position + 2 == local_end
+            for position in range(index + 1, max(index + 1, local_end - 1))
+        )
+        if freedom:
+            continue
+
+        start = local_boundaries[-1]
+        prefix = tokens[start:index]
+        if any(word not in PURPOSE_FRAME_PREFIXES for word in prefix):
+            left = max(start, index - 5)
+            right = min(len(tokens), index + 3)
+            bad.append(" ".join(tokens[left:right]))
+
+    return bad
+
+
+def purpose_frame_misplacements_in_line(raw_line):
+    """Check each period-bounded sentence in a Phi line independently."""
+    return [
+        run
+        for sentence in raw_line.split(".")
+        for run in purpose_frame_misplacements(phi_tokens(sentence))
+    ]
+
+
 def strip_brackets(line):
     """Remove [...] placeholder/label segments, (...) inline translation
     segments, and punctuation."""
@@ -1059,6 +1159,12 @@ def structured_example_errors(
             errors.append(
                 f"{sentence_label}: postposed preposition near '{run}' "
                 "(canon: every preposition precedes its object)"
+            )
+        for run in purpose_frame_misplacements(tokens):
+            errors.append(
+                f"{sentence_label}: postposed purpose frame near '{run}' "
+                "(canon: lila and its dependent clause precede the main "
+                "clause)"
             )
     return errors
 
@@ -1287,6 +1393,8 @@ def check_docs(lexicon_words, paths=None, gloss_of=None, prepositions=None,
                         cand.lower(), prepositions, slot1_rank
                     ):
                         errors.append(f"{rel}:{lineno}: postposed preposition near '{run}' (canon: every preposition precedes its object)")
+                    for run in purpose_frame_misplacements_in_line(cand.lower()):
+                        errors.append(f"{rel}:{lineno}: postposed purpose frame near '{run}' (canon: lila and its dependent clause precede the main clause)")
             # IPA citations: a line that names a known word in backticks
             # and quotes exactly one /.../ transcription must quote that
             # word's canonical IPA. Single phonemes (/m/) and slashed

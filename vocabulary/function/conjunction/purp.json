@@ -15,10 +15,10 @@
   ],
   "description": "'lila' introduces an intended outcome. English often renders it as in order to, so that, or as to. Unlike 'lao' (BECAUSE), it relates an action to an agent's purpose; an unintended result takes causal wording instead.",
   "articulatory_notes": "Touch the tongue tip to the alveolar ridge for 'l' and let voiced air escape along both sides as the tongue rises into high-front unrounded 'i'. Repeat the lateral contact, then lower the jaw into open central 'a'. Stress 'li'.",
-  "usage_notes": "The purpose clause normally follows the action it explains. In the construction 'S lila V ralu nai', the form frames an action as the respect in which the subject is free; this is Phi's regular expression of 'need not'.",
+  "usage_notes": "'lila' stands before its purpose clause, and that whole frame precedes the action it explains. The separate construction 'S lila V ralu nai' frames an action as the respect in which the subject is free; this is Phi's regular expression of 'need not'.",
   "examples": [
     {
-      "phi": "mia theo lila mia shonela.",
+      "phi": "lila mia shonela mia theo.",
       "translation": "I read in order to learn."
     },
     {
@@ -27,6 +27,6 @@
     }
   ],
   "pillars": {
-    "secular-buddhist-philosophy": "Right Intention asks how an aim relates to an action. 'lila' places that aim beside the action in the clause itself."
+    "secular-buddhist-philosophy": "Right Intention asks what an action is for. 'lila' makes that aim audible before the action is stated."
   }
 }

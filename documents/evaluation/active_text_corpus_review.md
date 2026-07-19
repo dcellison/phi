@@ -28,6 +28,19 @@ Module vocabulary is adopted when its meaning earns the place. A transparent bas
 
 The shelf uses two methods. A translation remains answerable to the source at every proposition; composition solves lexical differences without granting permission to rewrite the claim. A transmutation may change the source through the language's concepts and commitments, but its freedom is not vagueness. The Phi line must agree with its exact gloss and back-translation; the citation and gap log must show what shifted. Reviewing a transmutation does not turn it into a translation. It clears accidental loss, misleading back-translations, stale vocabulary, and unexamined approximation while leaving defended choices in place.
 
+## Modifier-first purpose migration
+
+D054 applies the same order to every purpose construction on the reviewed shelf: `[lila purpose clause] [main clause]`. Sixteen active attestations required reversal. This count includes the complete-text copies below their aligned examples. Their propositions and source citations remain unchanged. The Solarpunk Manifesto and the shelf's other existing purpose-first clauses already had the canonical order.
+
+| Text | Active attestations changed | Result |
+|---|---:|---|
+| Babel | 2 | Intended communicative loss now precedes the act of making the language unfamiliar. |
+| *News from Nowhere*, chapter 2 | 2 | Helping precedes the offered hand; catching fish precedes the journey upriver. |
+| *News from Nowhere*, chapter 3 | 2 | Listening precedes the posture behind the narrator; seeing the departure precedes arrival at the porch. |
+| *The North Wind and the Sun* | 4 | Escape precedes the move into shade in both renderings and their complete copies. |
+| *The Prophet, On Children* | 4 | Becoming like the children and the flight of the living wooden things precede the actions directed towards those ends. |
+| *Tao Te Ching* selections | 2 | Shaping the room precedes cutting its door and windows. |
+
 ## Paired review: The North Wind and the Sun
 
 The ground truth is the 1919 *Aesop for Children* text stored at `texts/sources/aesop_for_children.txt`. The close translation uses 104 unique forms and the transmutation uses 98. Both still reach well beyond the preceding graded chapters, so the glosses and back-translations remain part of the reading method. Both renderings use base vocabulary throughout.
@@ -56,7 +69,7 @@ The companion rendering answers to its own method. Its departures are deliberate
 | Time and manner | `nosa` is the noun "now," but two clauses used it as the adverb "immediately." | Both clauses now use `to reshi` for fast past action. The note teaches the distinction without narrating the correction. |
 | Comparative escalation | The Wind blew more strongly, but the old response said that the Traveler also held more strongly. Aesop's relational contrast, tighter against harder, had flattened. | `mo noshi` makes the second grip closer. The two `mo` clauses now differ where the source differs. |
 | Traveler's agency | The Sun and Wind agree to act on a stranger who did not join their wager. Gendered English and passive paraphrase then hid several of the Traveler's choices. | Singular they follows Phi's ungendered `shia`. The Traveler holds, opens, releases, wipes, goes away, and lies down in the aligned account. |
-| Loose garment and final posture | `luwi` means flexible, not loose. `wapho` means throw, but the reflexive construction made the body sound like an object hurled into shade. | The Traveler stops holding the garment close. `ruemi` gives the final posture, while `lila` marks escape as conscious purpose. |
+| Loose garment and final posture | `luwi` means flexible, not loose. `wapho` means throw, but the reflexive construction made the body sound like an object hurled into shade. | The Traveler stops holding the garment close. `ruemi` gives the final posture, while the `lila` frame places escape before the move into shade. |
 | The Sun's outcome | Aesop calls the Sun the winner, yet the gentle warmth only loosens the cloak. Escalating heat secures full release and sends the Traveler into shade. | Both outcomes appear. The notes treat the Sun's result as mixed. |
 | Moral semantics | `puro` is neutral strength, not violent force, and `theisa` is loudness, not bluster. The former moral blamed two ordinary qualities and claimed that pressure is fruitless even though the plot shows it working. | `keloa haolu` names rough speech and `kawhera` names coercion. Good fruit answers departure instead of victory answering failure. |
 | The Wind's motion | Phi gives the cloak a quiver and the Wind a pull. The source has whipping cloth and tearing effort. | The Phi stays as a deliberate softening, but the back-translation no longer borrows the stronger source verbs. |

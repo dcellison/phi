@@ -470,8 +470,8 @@ LOC DIST time DIST INTS beautiful person TOWARD 1SG PST come. 3SG ON floor PL sw
 (Meanwhile the handsome one came toward me; she had been scattering little branches of sweet-smelling herbs on the floor.)
 morris: "while one of the girls, the handsome one, who had been scattering little twigs of lavender and other sweet-smelling herbs about the floor, came near to listen,"
 
-shia lila sheluo noe mia to whano. shia manuwe nia mia talua to nai.
-3SG PURP listen BEHIND 1SG PST stand. 3SG hand ON 1SG shoulder PST be.
+lila shia sheluo shia noe mia to whano. shia manuwe nia mia talua to nai.
+PURP 3SG listen 3SG BEHIND 1SG PST stand. 3SG hand ON 1SG shoulder PST be.
 (She stood behind me to listen, with her hand on my shoulder.)
 morris: "and stood behind me with her hand on my shoulder,"
 
@@ -1285,8 +1285,8 @@ PL 1SG INTO wagon PST climb. NAME kulo COORD 1SG.
 (We got in, Guide and I.)
 morris: "We got in, Dick and I."
 
-lo limu miona lila lo mia pholeni nila muo ponu lokue to ki shua. lo miona roe lo manuwe wei lo mia kiroa to loa.
-PL young person PURP PL 1SG depart see INTO door place PST PFV come. PL person INS PL hand DAT PL 1SG sign PST give.
+lila lo limu miona lo mia pholeni nila lo shia muo ponu lokue to ki shua. lo miona roe lo manuwe wei lo mia kiroa to loa.
+PURP PL young person PL 1SG depart see PL 3SG INTO door place PST PFV come. PL person INS PL hand DAT PL 1SG sign PST give.
 (The young ones, who had come into the porch to see our departing, waved their hands to us.)
 morris: "The girls, who had come into the porch to see us off, waved their hands to us;"
 

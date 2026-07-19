@@ -119,8 +119,8 @@ PL vessel function empty space depend.
 (The vessels' function depends on empty space.)
 legge: "but it is on their empty hollowness, that their use depends."
 
-miona lue lo moru ponu nela lo wira kati lila shia tholupi kire.
-person ABL PL wall door COORD PL window cut PURP 3SG room shape.
+lila miona tholupi kire miona lue lo moru ponu nela lo wira kati.
+PURP person room shape person ABL PL wall door COORD PL window cut.
 (One cuts a door and windows from walls in order to shape a room.)
 legge: "The door and windows are cut out (from the walls) to form an apartment;"
 
@@ -334,7 +334,7 @@ womu welao theali lokue nai. remo welao nulo shena nai. phiremo welao nua welao 
 
 [rena mo ko welao phelu] miona mua mulu noa themore ma kealo. thelao mawha miona shia phelira nila.
 
-ta lau ta shao wolea monaki lue rolu shuna wea ta kesho wepu. lo shia mua ta kesho koluma. rolu kelitho wei tolu whemoa tholu pherami. miona muo lo lopha mueri kire. lo lopha kelitho whemoa tholu pherami. miona lue lo moru ponu nela lo wira kati lila shia tholupi kire. tholupi kelitho mua shia whemoa tholu pherami. [rena nai] lo thena se po hinolu. whemoa tholu lo shia kelasu ka nai.
+ta lau ta shao wolea monaki lue rolu shuna wea ta kesho wepu. lo shia mua ta kesho koluma. rolu kelitho wei tolu whemoa tholu pherami. miona muo lo lopha mueri kire. lo lopha kelitho whemoa tholu pherami. lila miona tholupi kire miona lue lo moru ponu nela lo wira kati. tholupi kelitho mua shia whemoa tholu pherami. [rena nai] lo thena se po hinolu. whemoa tholu lo shia kelasu ka nai.
 
 lo miona mua mo ko tholua thimu mena [rena punoa karami phelu] lo miona nai meno to ma sano. lo miona mua nu wi thimu lo shia to lothea. lo miona lo shia to keluro. lo miona mua nu ta shao thimu wea lo shia sukima to phaelo. lo miona mua nu ta shao ta thimu lo shia to thiku nila. lu [rena punoa karami phelu] lo miona keiro to ma themui. lo miona lo shia to ma themui.
 

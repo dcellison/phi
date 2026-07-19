@@ -177,10 +177,10 @@ All sixteen files under `manual/part5_complex/` are reviewed and revised. The pa
 | `ch18_discourse/02_consequence_and_contrast.md` | Revised | `thelao` exposes an inference without supplying its missing premises, while `whekai` introduces a sentence-level counterpoint. Concrete rain and path examples replace loose causal and contrast claims. |
 | `ch18_discourse/03_addition_and_example.md` | Revised | `sheno` adds another relevant proposition and `phisu` offers a case to inspect. The former non-examples are replaced, and the chapter now states that an example is not proof. |
 | `ch18_discourse/04_precision.md` | Revised | `shorela`, `shekoi`, and `shelao` now distinguish intended reformulation, narrowing, and synthesis. The chapter openly tests a questionable silence-to-quiet rephrasing instead of treating it as identity. |
-| `ch19_subordinate_clauses/01_introduction.md` | Revised | Complement frames and clause relators receive separate patterns. The introduction no longer forces purpose clauses into the clause-initial order used by time, cause, and concession. |
+| `ch19_subordinate_clauses/01_introduction.md` | Revised | Complement frames and clause relators receive separate patterns. All five relators now put their dependent material before the main clause. Purpose `lila` follows the same rule. |
 | `ch19_subordinate_clauses/02_complement_clauses.md` | Revised | Required closers, independent embedded tense, nested declaratives, embedded yes-or-no questions, and unframed content questions now form one exact account. The nested example has a natural reporting predicate at each level. |
 | `ch19_subordinate_clauses/03_speech.md` | Revised | Direct quotation now preserves exact grammatical Phi only, while indirect speech reports content and adjusts perspective. A malformed `ti` example has been rebuilt so its Phi actually reports a secondhand speech event. |
-| `ch19_subordinate_clauses/04_adverbial_clauses.md` | Revised | `pheo` and `phoe` receive their correct event orientation, `lila` follows the action it explains, and `tei` is restored to its actual class as a temporal preposition. The freedom construction and noun-phrase uses of `lao` and `shai` remain canonical. |
+| `ch19_subordinate_clauses/04_adverbial_clauses.md` | Revised | `pheo` and `phoe` receive their correct event orientation, purpose `lila` opens a dependent frame before the action it explains, and `tei` remains a temporal preposition. The freedom construction and noun-phrase uses of `lao` and `shai` remain canonical. |
 | `ch20_relative_clauses/01_introduction.md` | Revised | Prenominal relatives now receive both their audible boundary and their working-memory cost. Topic-drop is presented as a general discourse option rather than a special power of the relative clause. |
 | `ch20_relative_clauses/02_relativizer_rena.md` | Revised | The obsolete segment-by-segment sound meanings are replaced by the physical articulation of `rena`. Subject, object, and oblique gaps now agree with canon, including the preposition that remains before its missing object. |
 | `ch20_relative_clauses/03_headed_relative_clauses.md` | Revised | The lesson now identifies the head's role correctly, distinguishes a relative clause from the complete noun phrase, and fixes the former `shia nai` mistranslation of "is here" with predicative `ha nai`. Direct `shane` replaces broad `haolu` in the story example. |
@@ -188,7 +188,7 @@ All sixteen files under `manual/part5_complex/` are reviewed and revised. The pa
 
 ### Lexical and canonical result
 
-The completed base and function vocabulary covers every Part V construction, and no optional module word is used. The pass opens no lexical decision. It does repair one higher-authority dependency in `documents/grammar/complementizer_reference.md`: the headless-relative example now omits its head instead of ending in an explicit pronoun.
+The completed base and function vocabulary covers every Part V construction, and no optional module word is used. The pass opens no lexical decision. It repairs two dependencies outside the manual: the headless-relative example in `documents/grammar/complementizer_reference.md` now omits its head, and the `lila` lexicon entry enforces the same modifier-first order as every other dependent clause.
 
 ### Resume point
 

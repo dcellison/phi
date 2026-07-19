@@ -1,13 +1,12 @@
 # Adverbial clauses
 
-Adverbial clauses place an event in relation to another event. Phi marks sequence, cause, purpose, and concession with five clause relators. Four precede the dependent clause; **lila** follows the action whose purpose it introduces.
+Adverbial clauses place an event in relation to another event. Phi marks sequence, cause, purpose, and concession with five clause relators. Each relator opens the dependent material, and that complete frame precedes the main clause it modifies.
 
-| Relation | Pattern |
-|---|---|
-| after, before, because, although | `[relator] [dependent clause] [main clause]` |
-| purpose | `[main action] lila [purpose clause]` |
+All five use one order:
 
-The difference in order matters. There is no single adverbial template with five interchangeable words.
+`[relator] [dependent clause] [main clause]`
+
+The order is shared; the relation is not. The first four locate or qualify an event, while **lila** states an agent's intended outcome.
 
 ## Sequence: `pheo` and `phoe`
 
@@ -85,21 +84,21 @@ BECAUSE rain path wet be.
 
 ## Purpose: `lila`
 
-**lila** follows an action and introduces its intended outcome:
+**lila** introduces an intended outcome before the action undertaken for it:
 
 ```
-mia theo lila mia shonela.
-1SG read PURP 1SG learn.
+lila mia shonela mia theo.
+PURP 1SG learn 1SG read.
 (I read in order to learn.)
 ```
 
 ```
-shia haolu lila lo miona shelomu.
-3SG speak PURP PL person understand.
+lila lo miona shelomu shia haolu.
+PURP PL person understand 3SG speak.
 (They speak so that the people understand.)
 ```
 
-The subject of the purpose clause may match the actor in the main clause, as in the first example, or differ, as in the second. **lila** attributes a goal to an agent's action. An unintended result takes **lao** or a separate consequence.
+The subject of the purpose clause may match the actor in the main clause, as in the first example, or differ, as in the second. The listener hears the intended outcome before the action. An unintended result takes **lao** or a separate consequence.
 
 The freedom construction gives **lila** another established use:
 
@@ -145,6 +144,6 @@ The expectation belongs to the speaker's framing. **shai** does not declare smal
 | `phoe` | ANT | before | dependent clause, then main clause |
 | `lao` | BECAUSE | cause | dependent clause or noun phrase, then main clause |
 | `shai` | CONC | concession | dependent clause or noun phrase, then main clause |
-| `lila` | PURP | intended outcome | main action, then purpose clause |
+| `lila` | PURP | intended outcome | dependent clause, then main clause |
 
-The final verb in each clause supplies its boundary. The order of **lila** is the useful snag in an otherwise tidy set: purpose waits until the action it explains has been spoken.
+The final verb in each dependent clause supplies its boundary. With **lila**, the purpose arrives first and closes before the action it explains begins.
