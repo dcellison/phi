@@ -342,24 +342,16 @@ leather horse QUOT.COMP true ABL make NEG come QUOT.COMP.CLOSE PST speak.
 (The Leather Horse said: "Real does not come from how you are made.")
 williams: "\"Real isn't how you are made,\" said the Skin Horse."
 
-shola shewo rena wei thia kelu thena nai sholo.
-QUOT.COMP true REL DAT 2SG become thing be QUOT.COMP.CLOSE.
+shola shewo rena wei thia kelu thena nai sholo to haolu.
+QUOT.COMP true REL DAT 2SG become thing be QUOT.COMP.CLOSE PST speak.
 ("Real is a thing that happens to you.")
 williams: "It's a thing that happens to you."
 
-shola lu lopia sui ru laeno thimu thia lothea sholo.
-QUOT.COMP COND child DUR INTS long time 2SG love QUOT.COMP.CLOSE.
-("When a child loves you for a very long time,")
+shola lu lopia sui ru laeno thimu thia lothea nela shia thia li wilemo ma nila nela shia thia ru lothea. pheo thena thia shewo kelu sholo to haolu.
+QUOT.COMP COND child DUR INTS long time 2SG love COORD 3SG 2SG RESTR toy NEG see COORD 3SG 2SG INTS love. POST thing 2SG true become QUOT.COMP.CLOSE PST speak.
+("When a child loves you for a very long time, does not see you merely as a toy, and truly loves you, then you become Real.")
 williams: "When a child loves you for a long, long time,"
-
-shola lu shia thia li wilemo ma nila. lu shia thia ru lothea sholo.
-QUOT.COMP COND 3SG 2SG RESTR toy NEG see. COND 3SG 2SG INTS love QUOT.COMP.CLOSE.
-("If the child does not see you as a toy merely; if the child truly loves you.")
 williams: "not just to play with, but REALLY loves you,"
-
-shola pheo thena thia shewo kelu sholo.
-QUOT.COMP POST thing 2SG true become QUOT.COMP.CLOSE.
-("Then you become Real.")
 williams: "then you become Real."
 
 tupiwa shola wa ha kipona thola sholo to thilou.
@@ -377,8 +369,8 @@ shia theula thimu wero to nai.
 (He was always honest.)
 williams: "for he was always truthful."
 
-shola lu thia shewo nai. kipona thia ma kulo sholo.
-QUOT.COMP COND 2SG true be. pain 2SG NEG guide QUOT.COMP.CLOSE.
+shola lu thia shewo nai. kipona thia ma kulo sholo to haolu.
+QUOT.COMP COND 2SG true be. pain 2SG NEG guide QUOT.COMP.CLOSE PST speak.
 ("When you are Real, pain does not guide you.")
 williams: "\"When you are Real you don't mind being hurt.\""
 
@@ -392,38 +384,38 @@ leather horse QUOT.COMP PROX LOC one moment NEG become QUOT.COMP.CLOSE PST speak
 (The Leather Horse said: "It does not happen in one moment.")
 williams: "\"It doesn't happen all at once,\" said the Skin Horse."
 
-shola thia kelu. ha laeno thimu phelona sholo.
-QUOT.COMP 2SG become. PROX long time require QUOT.COMP.CLOSE.
+shola thia kelu. ha laeno thimu phelona sholo to haolu.
+QUOT.COMP 2SG become. PROX long time require QUOT.COMP.CLOSE PST speak.
 ("You become. It requires a long time.")
 williams: "\"You become. It takes a long time."
 
-shola thelao ha wei lo welua miona phina shemu kelu sholo.
-QUOT.COMP CONS PROX DAT PL fragile person FEW moment become QUOT.COMP.CLOSE.
+shola thelao ha wei lo welua miona phina shemu kelu sholo to haolu.
+QUOT.COMP CONS PROX DAT PL fragile person FEW moment become QUOT.COMP.CLOSE PST speak.
 ("That is why it comes only rarely to fragile people.")
 williams: "That's why it doesn't happen often to people who break easily,"
 
-shola ha wei lo rena tiso shuna phelu miona nela lo rena se na moli phelu miona we phina shemu kelu sholo.
-QUOT.COMP PROX DAT PL REL sharp edge hold person COORD PL REL PASS NEC gentle hold person ALSO FEW moment become QUOT.COMP.CLOSE.
+shola ha wei lo rena tiso shuna phelu miona nela lo rena se na moli phelu miona we phina shemu kelu sholo to haolu.
+QUOT.COMP PROX DAT PL REL sharp edge hold person COORD PL REL PASS NEC gentle hold person ALSO FEW moment become QUOT.COMP.CLOSE PST speak.
 ("To those who hold sharp edges, and those who must be gently kept, it also comes rarely.")
 williams: "or have sharp edges, or who have to be carefully kept."
 
-shola lu thia shewo kelu. pai theula thia whila lue lothea ki wepu sholo.
-QUOT.COMP COND 2SG true become. NEAR UNIV 2SG hair ABL love PFV go QUOT.COMP.CLOSE.
+shola lu thia shewo kelu. pai theula thia whila lue lothea ki wepu sholo to haolu.
+QUOT.COMP COND 2SG true become. NEAR UNIV 2SG hair ABL love PFV go QUOT.COMP.CLOSE PST speak.
 ("By the time you become Real, nearly all your hair has been loved away.")
 williams: "Generally, by the time you are Real, most of your hair has been loved off,"
 
-shola thia mirae lepa. thia lo kiparu ralu kelu. thia ru rohemi sholo.
-QUOT.COMP 2SG eye fall. 2SG PL joint free become. 2SG INTS wear down QUOT.COMP.CLOSE.
+shola thia mirae lepa. thia lo kiparu ralu kelu. thia ru rohemi sholo to haolu.
+QUOT.COMP 2SG eye fall. 2SG PL joint free become. 2SG INTS wear down QUOT.COMP.CLOSE PST speak.
 ("Your eyes fall out. Your joints grow loose. You become very worn.")
 williams: "and your eyes drop out and you get loose in the joints and very shabby."
 
-shola whekai lo ha thena ru thiku nai sholo.
-QUOT.COMP CONTR PL PROX thing INTS small be QUOT.COMP.CLOSE.
+shola whekai lo ha thena ru thiku nai sholo to haolu.
+QUOT.COMP CONTR PL PROX thing INTS small be QUOT.COMP.CLOSE PST speak.
 ("But these things are altogether small.")
 williams: "But these things don't matter at all,"
 
-shola lu thia shewo kelu. li rena ma shelomu miona thia ma mioru nila sholo.
-QUOT.COMP COND 2SG true become. RESTR REL NEG understand person 2SG NEG beautiful see QUOT.COMP.CLOSE.
+shola lu thia shewo kelu. li rena ma shelomu miona thia ma mioru nila sholo to haolu.
+QUOT.COMP COND 2SG true become. RESTR REL NEG understand person 2SG NEG beautiful see QUOT.COMP.CLOSE PST speak.
 ("Once you become Real, only the people who do not understand see you as unbeautiful.")
 williams: "because once you are Real you can't be ugly, except to people who don't understand.\""
 
@@ -453,18 +445,18 @@ shia shola lopia lumani wheo mia shewo ka kelu sholo to haolu.
 (He said: "The child's family-elder made me Real.")
 williams: "\"The Boy's Uncle made me Real,\" he said."
 
-shola ha phoe sheloi torua to kelu sholo.
-QUOT.COMP PROX ANT MANY year PST become QUOT.COMP.CLOSE.
+shola ha phoe sheloi torua to kelu sholo to haolu.
+QUOT.COMP PROX ANT MANY year PST become QUOT.COMP.CLOSE PST speak.
 ("That happened a great many years before.")
 williams: "That was a great many years ago;"
 
-shola lu thia ta shemu shewo kelu. thia mawha thimu phirae thena kelu sholo.
-QUOT.COMP COND 2SG one moment true become. 2SG NONE time different thing become QUOT.COMP.CLOSE.
+shola lu thia ta shemu shewo kelu. thia mawha thimu phirae thena kelu sholo to haolu.
+QUOT.COMP COND 2SG one moment true become. 2SG NONE time different thing become QUOT.COMP.CLOSE PST speak.
 ("Once you become Real, you never become a different thing again.")
 williams: "but once you are Real you can't become unreal again."
 
-shola ha theula thimu manolu sholo.
-QUOT.COMP PROX UNIV time stay QUOT.COMP.CLOSE.
+shola ha theula thimu manolu sholo to haolu.
+QUOT.COMP PROX UNIV time stay QUOT.COMP.CLOSE PST speak.
 ("It stays for always.")
 williams: "It lasts for always.\""
 
@@ -832,8 +824,8 @@ shia shola thia thia serao tupiwa na phelu sholo to haolu.
 (She said: "You must have your old rabbit!")
 williams: "\"You must have your old Bunny!\" she said."
 
-shola wao. theula ha theko wei ta wilemo nai sholo.
-QUOT.COMP wow. UNIV PROX craft DAT one toy be QUOT.COMP.CLOSE.
+shola wao. theula ha theko wei ta wilemo nai sholo to haolu.
+QUOT.COMP wow. UNIV PROX craft DAT one toy be QUOT.COMP.CLOSE PST speak.
 ("Well! All this work, for one toy!")
 williams: "\"Fancy all that fuss for a toy!\""
 
@@ -852,13 +844,13 @@ shia shola no wei mia mia tupiwa loa sholo to haolu.
 (He said: "Give my rabbit to me!")
 williams: "\"Give me my Bunny!\" he said."
 
-shola thia ha na ma haolu sholo.
-QUOT.COMP 2SG PROX NEC NEG speak QUOT.COMP.CLOSE.
+shola thia ha na ma haolu sholo to haolu.
+QUOT.COMP 2SG PROX NEC NEG speak QUOT.COMP.CLOSE PST speak.
 ("You must not say that.")
 williams: "\"You mustn't say that."
 
-shola shia wilemo ma nai. shia shewo nai sholo.
-QUOT.COMP 3SG toy NEG be. 3SG true be QUOT.COMP.CLOSE.
+shola shia wilemo ma nai. shia shewo nai sholo to haolu.
+QUOT.COMP 3SG toy NEG be. 3SG true be QUOT.COMP.CLOSE PST speak.
 ("He is not a toy. He is Real!")
 williams: "He isn't a toy. He's REAL!\""
 
@@ -1184,8 +1176,8 @@ shia shola shia mawha rokai tolae phelu sholo to kapura.
 (He called out: "He has no hind legs!")
 williams: "\"He hasn't got any hind legs!\" he called out."
 
-shola wao. tupiwa whuo rokai tolae nai sholo.
-QUOT.COMP wow. rabbit WITHOUT back leg be QUOT.COMP.CLOSE.
+shola wao. tupiwa whuo rokai tolae nai sholo to haolu.
+QUOT.COMP wow. rabbit WITHOUT back leg be QUOT.COMP.CLOSE PST speak.
 ("Well! A rabbit without any hind legs!")
 williams: "\"Fancy a rabbit without any hind legs!\""
 
@@ -1289,8 +1281,8 @@ small rabbit QUOT.COMP IMP return. IMP COM 1SG play QUOT.COMP.CLOSE PST shout.
 (The little rabbit called: "Come back! Play with me!")
 williams: "\"Come back and play with me!\" called the little Rabbit."
 
-shola pi no turema. mia mena mia shewo nai meno sano sholo.
-QUOT.COMP POL IMP return. 1SG DECL.COMP 1SG true be DECL.COMP.CLOSE know QUOT.COMP.CLOSE.
+shola pi no turema. mia mena mia shewo nai meno sano sholo to haolu.
+QUOT.COMP POL IMP return. 1SG DECL.COMP 1SG true be DECL.COMP.CLOSE know QUOT.COMP.CLOSE PST speak.
 ("Oh, please come back! I know that I am Real!")
 williams: "\"Oh, do come back! I know I am Real!\""
 
@@ -1662,23 +1654,23 @@ REL heal person QUOT.COMP Q PROX QUOT.COMP.CLOSE PST inquire.
 (The healer said: "That?")
 williams: "\"That?\" said the doctor."
 
-shola ha sheloi rulo suloru hisophi phelu sholo.
-QUOT.COMP PROX MANY red fever contaminant hold QUOT.COMP.CLOSE.
+shola ha sheloi rulo suloru hisophi phelu sholo to haolu.
+QUOT.COMP PROX MANY red fever contaminant hold QUOT.COMP.CLOSE PST speak.
 ("It holds a mass of scarlet-fever contamination!")
 williams: "\"Why, it's a mass of scarlet fever germs!-"
 
-shola no ha nosa thape sholo.
-QUOT.COMP IMP PROX now burn QUOT.COMP.CLOSE.
+shola no ha nosa thape sholo to haolu.
+QUOT.COMP IMP PROX now burn QUOT.COMP.CLOSE PST speak.
 ("Burn it at once.")
 williams: "Burn it at once."
 
-shola hina. tawimo haolu. no wei shia ta newu tupiwa loa sholo.
-QUOT.COMP what. foolish speak. IMP DAT 3SG one new rabbit give QUOT.COMP.CLOSE.
+shola hina. tawimo haolu. no wei shia ta newu tupiwa loa sholo to haolu.
+QUOT.COMP what. foolish speak. IMP DAT 3SG one new rabbit give QUOT.COMP.CLOSE PST speak.
 ("What? Foolish talk! Give him a new one.")
 williams: "What? Nonsense! Get him a new one."
 
-shola shia ha mawha thimu na ma phelu sholo.
-QUOT.COMP 3SG PROX NONE time NEC NEG hold QUOT.COMP.CLOSE.
+shola shia ha mawha thimu na ma phelu sholo to haolu.
+QUOT.COMP 3SG PROX NONE time NEC NEG hold QUOT.COMP.CLOSE PST speak.
 ("He must never have that again!")
 williams: "He mustn't have that any more!\""
 ```
@@ -1999,13 +1991,13 @@ shia shola mia lopia tholu whekelu miona nai sholo to haolu.
 (She said: "I am the nursery magic person.")
 williams: "\"I am the nursery magic Fairy,\" she said."
 
-shola mia theula rena lo lopia ki lothea wilemo woru nai sholo.
-QUOT.COMP 1SG UNIV REL PL child PFV love toy keeper be QUOT.COMP.CLOSE.
+shola mia theula rena lo lopia ki lothea wilemo woru nai sholo to haolu.
+QUOT.COMP 1SG UNIV REL PL child PFV love toy keeper be QUOT.COMP.CLOSE PST speak.
 ("I am the keeper of all the toys that children have loved.")
 williams: "\"I take care of all the playthings that the children have loved."
 
-shola lu lo shia serao kelu nela rohemi. lu lo lopia lo shia mawha thimu phelona. mia shua. mia nua mia lo shia kolua. mia lo shia shewo ka kelu sholo.
-QUOT.COMP COND PL 3SG old become COORD wear down. COND PL child PL 3SG NONE time require. 1SG come. 1SG COM 1SG PL 3SG carry. 1SG PL 3SG true CAUS become QUOT.COMP.CLOSE.
+shola lu lo shia serao kelu nela rohemi nela lo lopia lo shia mawha thimu phelona. mia shua. mia nua mia lo shia kolua. mia lo shia shewo ka kelu sholo to haolu.
+QUOT.COMP COND PL 3SG old become COORD wear down COORD PL child PL 3SG NONE time require. 1SG come. 1SG COM 1SG PL 3SG carry. 1SG PL 3SG true CAUS become QUOT.COMP.CLOSE PST speak.
 ("When they grow old and worn, and the children no longer need them, I come. I carry them away with me, and I turn them into Real.")
 williams: "When they are old and worn out and the children don't need them any more, then I come and take them away with me and turn them into Real.\""
 
@@ -2019,8 +2011,8 @@ magic person QUOT.COMP BECAUSE 3SG 2SG PST love 2SG DAT child true PST be QUOT.C
 (The magic person said: "Because he loved you, you were Real to the child.")
 williams: "\"You were Real to the Boy,\" the Fairy said, \"because he loved you."
 
-shola nosa thia wei theula miona shewo so nai sholo.
-QUOT.COMP now 2SG DAT UNIV person true FUT be QUOT.COMP.CLOSE.
+shola nosa thia wei theula miona shewo so nai sholo to haolu.
+QUOT.COMP now 2SG DAT UNIV person true FUT be QUOT.COMP.CLOSE PST speak.
 ("Now you shall be Real to everyone.")
 williams: "Now you shall be Real to every one.\""
 ```
@@ -2055,8 +2047,8 @@ LOC forest meadow BETWEEN PL tree PL wild rabbit COM PL REFL shadow ON soft gras
 (In the forest's meadow between the trees, the wild rabbits danced with their own shadows on the velvet grass.)
 williams: "In the open glade between the tree-trunks the wild rabbits danced with their shadows on the velvet grass,"
 
-whekai lu lo shia whekelu miona nila. lo shia to te rotiku.
-CONTR COND PL 3SG magic person see. PL 3SG PST CESS dance.
+lu whekai lo shia whekelu miona nila. lo shia to te rotiku.
+COND CONTR PL 3SG magic person see. PL 3SG PST CESS dance.
 (But when they saw the magic person, they all ceased dancing.)
 williams: "but when they saw the Fairy they all stopped dancing"
 
@@ -2070,18 +2062,18 @@ magic person QUOT.COMP 1SG DAT PL 2SG one new play friend PFV bring QUOT.COMP.CL
 (The magic person said: "I have brought you a new play-friend.")
 williams: "\"I've brought you a new playfellow,\" the Fairy said."
 
-shola no wei shia ru phena nai sholo.
-QUOT.COMP IMP DAT 3SG INTS kind be QUOT.COMP.CLOSE.
+shola no wei shia ru phena nai sholo to haolu.
+QUOT.COMP IMP DAT 3SG INTS kind be QUOT.COMP.CLOSE PST speak.
 ("Be very kind to him.")
 williams: "\"You must be very kind to him"
 
-shola no wei shia theula rena shia mua tupiwa muila na sano thena thumela sholo.
-QUOT.COMP IMP DAT 3SG UNIV REL 3SG LOC rabbit earth NEC know thing teach QUOT.COMP.CLOSE.
+shola no wei shia theula rena shia mua tupiwa muila na sano thena thumela sholo to haolu.
+QUOT.COMP IMP DAT 3SG UNIV REL 3SG LOC rabbit earth NEC know thing teach QUOT.COMP.CLOSE PST speak.
 ("Teach him all the things he must know in rabbit-land.")
 williams: "and teach him all he needs to know in Rabbit-land,"
 
-shola shia nua lo thia theula thimu so liona sholo.
-QUOT.COMP 3SG COM PL 2SG UNIV time FUT live QUOT.COMP.CLOSE.
+shola shia nua lo thia theula thimu so liona sholo to haolu.
+QUOT.COMP 3SG COM PL 2SG UNIV time FUT live QUOT.COMP.CLOSE PST speak.
 ("He is going to live with you for ever and ever!")
 williams: "for he is going to live with you for ever and ever!\""
 

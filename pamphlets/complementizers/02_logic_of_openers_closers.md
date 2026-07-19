@@ -8,7 +8,7 @@ Understanding these questions reveals the deeper logic of Phi's clause structure
 
 ## The problem Phi solves
 
-Phi is a strictly head-final language. The verb comes at the end of the clause. The main verb comes at the end of the main clause. When a clause is embedded inside another clause, we get this structure:
+Phi is predicate-final, not uniformly head-final. A clause ends at its verb, and an embedded clause occupies its argument position before the main verb. The two predicates therefore arrive in this order:
 
 ```
 [Main subject] [Embedded clause ... embedded-verb] [Main verb]
@@ -144,7 +144,7 @@ Each `mena` matches exactly one `meno`. The first `meno` closes the innermost op
 
 This is not metaphor. Phi's complementizer system is formally equivalent to balanced parentheses, making the language **structurally unambiguous**. A parser could process Phi sentences deterministically, without backtracking or probabilistic guessing.
 
-## The vocative exception
+## The vocative boundary
 
 One more word belongs in this chapter: the vocative marker `kona`, which addresses someone directly.
 

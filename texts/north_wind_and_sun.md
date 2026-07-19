@@ -44,8 +44,8 @@ sun QUOT.COMP OPT PL 1SG agree QUOT.COMP.CLOSE PST speak.
 (The Sun said: "May we agree.")
 aesop: "\"Let us agree,\" said the Sun,"
 
-shola rena lue ha laniru miona wethalu po leiro miona mo kema nai sholo.
-QUOT.COMP REL ABL PROX journey person garment POT release person CMPR strong be QUOT.COMP.CLOSE.
+shola rena lue ha laniru miona wethalu po leiro miona mo kema nai sholo to haolu.
+QUOT.COMP REL ABL PROX journey person garment POT release person CMPR strong be QUOT.COMP.CLOSE PST speak.
 ("The person who can release the garment from that traveler is stronger.")
 aesop: "\"that he is the stronger who can strip that Traveler of his cloak.\""
 
@@ -167,7 +167,7 @@ nitho howeli nela sileta
 
 nitho howeli nela sileta sua mo kema nai to shareo. lo shia to ma nawo. lo shia roe sheloi korua thero to shareo. lo shia theisa to kapura. ta rena laniru miona nia ruela to thalo. shia roe wethalu to se lomare.
 
-sileta shola su lo mia nawo sholo to haolu. shola rena lue ha laniru miona wethalu po leiro miona mo kema nai sholo. nitho howeli shola lia sholo roe keloa haoni to haolu. pheo mu thimu shia wea laniru miona rena kapura pelui kema howeli to sepho.
+sileta shola su lo mia nawo sholo to haolu. shola rena lue ha laniru miona wethalu po leiro miona mo kema nai sholo to haolu. nitho howeli shola lia sholo roe keloa haoni to haolu. pheo mu thimu shia wea laniru miona rena kapura pelui kema howeli to sepho.
 
 roe nu ta teku kema howeli lo wethalu shuna roa laniru miona weloni to se wapho. whekai pheo mu thimu shia wethalu miso to noshi ka lomare. howeli mo kema to whesu. miona roa miso wethalu mo noshi to phelu. nitho howeli roe korua thero wethalu to ru kema natu. whekai shia theula mesatu whuo lureko to nai.
 
@@ -242,8 +242,8 @@ sun QUOT.COMP OPT PL 1SG agree QUOT.COMP.CLOSE PST speak.
 (The Sun said: "May we agree.")
 aesop: "\"Let us agree,\" said the Sun,"
 
-shola rena ha laniru miona wethalu ka po leiro miona mo kema nai sholo.
-QUOT.COMP REL PROX journey person garment CAUS POT release person CMPR strong be QUOT.COMP.CLOSE.
+shola rena ha laniru miona wethalu ka po leiro miona mo kema nai sholo to haolu.
+QUOT.COMP REL PROX journey person garment CAUS POT release person CMPR strong be QUOT.COMP.CLOSE PST speak.
 ("The person who can cause that traveler to release the garment is stronger.")
 aesop: "\"that he is the stronger who can strip that Traveler of his cloak.\""
 
@@ -367,7 +367,7 @@ nitho howeli nela sileta
 
 nitho howeli nela sileta sua mo kema nai to shareo. lo shia roe sheloi thero nela theisa haoni to shareo. ta rena laniru miona nia ruela to thalo. shia roe wethalu to se lomare.
 
-sileta shola su lo mia nawo sholo to haolu. shola rena ha laniru miona wethalu ka po leiro miona mo kema nai sholo. nitho howeli shola lia sholo roe keloa haoni to haolu. shia wea laniru miona ta pelui theisa howeli to reshi sepho.
+sileta shola su lo mia nawo sholo to haolu. shola rena ha laniru miona wethalu ka po leiro miona mo kema nai sholo to haolu. nitho howeli shola lia sholo roe keloa haoni to haolu. shia wea laniru miona ta pelui theisa howeli to reshi sepho.
 
 roe nu ta howeli lo wethalu shuna roa laniru miona weloni to tiripe. whekai shia roa miso wethalu to reshi noshi phelu. howeli mo kema to whesu. miona roa miso wethalu mo noshi to phelu. nitho howeli roe korua thero wethalu to natu. whekai shia theula mesatu whuo lureko to nai.
 

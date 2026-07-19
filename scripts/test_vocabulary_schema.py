@@ -289,26 +289,149 @@ class VocabularySchemaTests(unittest.TestCase):
             data["word"] for _rel, data in self.entries
             if data.get("pos") == "preposition"
         }
+        pos_by_word = {
+            data["word"]: data["pos"] for _rel, data in self.entries
+        }
         ranks = validate_examples.slot1_rank_map(self.entries)
         self.assertEqual(
             validate_examples.structured_example_errors(
                 "test", 0, "sileta keru nai.", lexicon_words,
-                content_words, prepositions, ranks
+                content_words, prepositions, ranks, pos_by_word
             ),
             [],
         )
         self.assertEqual(
             validate_examples.structured_example_errors(
                 "test", 0, "mia ma nai. mia to nai.", lexicon_words,
-                content_words, prepositions, ranks
+                content_words, prepositions, ranks, pos_by_word
+            ),
+            [],
+        )
+        self.assertEqual(
+            validate_examples.structured_example_errors(
+                "test", 0, "kona ne ni moli. kia.", lexicon_words,
+                content_words, prepositions, ranks, pos_by_word
+            ),
+            [],
+        )
+        self.assertEqual(
+            validate_examples.structured_example_errors(
+                "test", 0,
+                "mia shola mia thia lothea. thia towe nai sholo to shemui.",
+                lexicon_words, content_words, prepositions, ranks, pos_by_word
+            ),
+            [],
+        )
+        self.assertEqual(
+            validate_examples.structured_example_errors(
+                "test", 0, "lu thia naphe. mia towe phaelo.",
+                lexicon_words, content_words, prepositions, ranks, pos_by_word
+            ),
+            [],
+        )
+        self.assertEqual(
+            validate_examples.structured_example_errors(
+                "test", 0, "lu whekai thia naphe. mia towe phaelo.",
+                lexicon_words, content_words, prepositions, ranks, pos_by_word
+            ),
+            [],
+        )
+        self.assertEqual(
+            validate_examples.structured_example_errors(
+                "test", 0,
+                "mia shola lu thia naphe. mia towe phaelo sholo to haolu.",
+                lexicon_words, content_words, prepositions, ranks, pos_by_word
+            ),
+            [],
+        )
+        self.assertEqual(
+            validate_examples.structured_example_errors(
+                "test", 0, "pi su thia towe nai.",
+                lexicon_words, content_words, prepositions, ranks, pos_by_word
+            ),
+            [],
+        )
+        self.assertEqual(
+            validate_examples.structured_example_errors(
+                "test", 0, "wa thia theo sola wa thia sheluo.",
+                lexicon_words, content_words, prepositions, ranks, pos_by_word
+            ),
+            [],
+        )
+        self.assertEqual(
+            validate_examples.structured_example_errors(
+                "test", 0, "pi no phoe thia kamo hasi.",
+                lexicon_words, content_words, prepositions, ranks, pos_by_word
+            ),
+            [],
+        )
+        self.assertEqual(
+            validate_examples.structured_example_errors(
+                "test", 0, "no thelao thia wepu.",
+                lexicon_words, content_words, prepositions, ranks, pos_by_word
             ),
             [],
         )
         errors = validate_examples.structured_example_errors(
             "test", 0, "sileta notaword nai.", lexicon_words,
-            content_words, prepositions, ranks
+            content_words, prepositions, ranks, pos_by_word
         )
         self.assertTrue(any("unknown Phi word 'notaword'" in error for error in errors))
+        errors = validate_examples.structured_example_errors(
+            "test", 0, "perola whinu keru.", lexicon_words,
+            content_words, prepositions, ranks, pos_by_word
+        )
+        self.assertTrue(any("sentence ends in 'keru'" in error for error in errors))
+        errors = validate_examples.structured_example_errors(
+            "test", 0, "shola mia thia lothea sholo.", lexicon_words,
+            content_words, prepositions, ranks, pos_by_word
+        )
+        self.assertTrue(any("no following matrix predicate" in error for error in errors))
+        errors = validate_examples.structured_example_errors(
+            "test", 0, "mia mena shia wepu sano.", lexicon_words,
+            content_words, prepositions, ranks, pos_by_word
+        )
+        self.assertTrue(any("has no matching 'meno'" in error for error in errors))
+        errors = validate_examples.structured_example_errors(
+            "test", 0, "mia shia wepu meno sano.", lexicon_words,
+            content_words, prepositions, ranks, pos_by_word
+        )
+        self.assertTrue(any("has no matching opener" in error for error in errors))
+        errors = validate_examples.structured_example_errors(
+            "test", 0, "lu thia naphe mia towe phaelo.", lexicon_words,
+            content_words, prepositions, ranks, pos_by_word
+        )
+        self.assertTrue(any("no complete following consequence" in error for error in errors))
+        errors = validate_examples.structured_example_errors(
+            "test", 0, "mia towe phaelo. lu thia naphe.", lexicon_words,
+            content_words, prepositions, ranks, pos_by_word
+        )
+        self.assertTrue(any("no complete following consequence" in error for error in errors))
+        errors = validate_examples.structured_example_errors(
+            "test", 0, "whekai lu thia naphe. mia towe phaelo.",
+            lexicon_words, content_words, prepositions, ranks, pos_by_word
+        )
+        self.assertTrue(any("material before it" in error for error in errors))
+        errors = validate_examples.structured_example_errors(
+            "test", 0, "phoe thia kamo pi no hasi.", lexicon_words,
+            content_words, prepositions, ranks, pos_by_word
+        )
+        self.assertTrue(any("Slot 0 'pi'" in error for error in errors))
+        errors = validate_examples.structured_example_errors(
+            "test", 0, "whekai wa thia towe nai.", lexicon_words,
+            content_words, prepositions, ranks, pos_by_word
+        )
+        self.assertTrue(any("Slot 0 'wa'" in error for error in errors))
+        errors = validate_examples.structured_example_errors(
+            "test", 0, "mia whekai thia nila.", lexicon_words,
+            content_words, prepositions, ranks, pos_by_word
+        )
+        self.assertTrue(any("discourse marker 'whekai'" in error for error in errors))
+        errors = validate_examples.structured_example_errors(
+            "test", 0, "mia theo nela whekai thia sheluo.", lexicon_words,
+            content_words, prepositions, ranks, pos_by_word
+        )
+        self.assertTrue(any("discourse marker 'whekai'" in error for error in errors))
         self.assertTrue(validate_examples.structured_examples_use_word(
             "sileta", [{"phi": "sileta keru nai."}]
         ))

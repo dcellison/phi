@@ -529,8 +529,8 @@ B: mia lo phelui so thekiro. mia wei lona lo shia so shorema.
 1SG PL word FUT write. 1SG DAT meeting PL 3SG FUT contribute.
 (I will write the words. I will contribute them to the meeting.)
 
-B: phoe lo thia mia lo phelui howela pi no hasi.
-ANT PL 2SG 1SG PL word receive POL IMP wait.
+B: pi no phoe lo thia mia lo phelui howela hasi.
+POL IMP ANT PL 2SG 1SG PL word receive wait.
 (Please wait until you receive my words.)
 
 A: lo mia thia naweri thekao. lo mia so hasi.
@@ -772,8 +772,8 @@ A: lo mia mena lo mia shiroka riola so phowe meno nawo.
 PL 1SG DECL.COMP PL 1SG repair labor FUT share DECL.COMP.CLOSE agree.
 (We agree that we will share the repair labor.)
 
-B: whekai wa ha theloma nai.
-CONTR Q PROX justice be.
+B: wa whekai ha theloma nai.
+Q CONTR PROX justice be.
 (However, is this justice?)
 
 A: lo mia ma sano. pheo ha keli se shiroka lo mia mua kowela ha teru so shareo.
@@ -1028,8 +1028,8 @@ C: ra wolea mua koshira so manolu. ruela shurano so nai.
 DIST wood LOC grove FUT stay. path safe FUT be.
 (That wood will remain in the grove. The path will be safe.)
 
-B: mia ha kanu kelomi. whekai wa ha kanu lo phirae lima thena shorupo.
-1SG PROX choose accept. CONTR Q PROX choose PL different alive thing protect.
+B: mia ha kanu kelomi. wa whekai ha kanu lo phirae lima thena shorupo.
+1SG PROX choose accept. Q CONTR PROX choose PL different alive thing protect.
 (I accept this choice. However, does this choice protect different living things?)
 
 C: lo mia ma sano. lo mia lo ha thena so nila.

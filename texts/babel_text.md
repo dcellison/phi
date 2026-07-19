@@ -41,8 +41,8 @@ PL 3SG DAT RECP PST speak.
 (They spoke to one another.)
 kjv: "And they said one to another,"
 
-shola su lo mia lo mueri kerou pilewa. su lo mia lo ha ru thape sholo.
-QUOT.COMP OPT PL 1SG PL clay stone make. OPT PL 1SG PL PROX INTS burn QUOT.COMP.CLOSE.
+shola su lo mia lo mueri kerou pilewa. su lo mia lo ha ru thape sholo to haolu.
+QUOT.COMP OPT PL 1SG PL clay stone make. OPT PL 1SG PL PROX INTS burn QUOT.COMP.CLOSE PST speak.
 ("Let us make clay-stones. Let us burn them thoroughly.")
 kjv: "Go to, let us make brick, and burn them thoroughly."
 
@@ -56,13 +56,13 @@ PL 3SG PST speak.
 (They spoke.)
 kjv: "And they said,"
 
-shola su lo mia wei lo mia whalo silawo nela raelu moru lorima. shia raelu shuna mua waero po kamo. su lo mia nomei se sano sholo.
-QUOT.COMP OPT PL 1SG DAT PL 1SG large village COORD tall wall build. 3SG tall edge LOC sky POT arrive. OPT PL 1SG name PASS know QUOT.COMP.CLOSE.
+shola su lo mia wei lo mia whalo silawo nela raelu moru lorima. shia raelu shuna mua waero po kamo. su lo mia nomei se sano sholo to haolu.
+QUOT.COMP OPT PL 1SG DAT PL 1SG large village COORD tall wall build. 3SG tall edge LOC sky POT arrive. OPT PL 1SG name PASS know QUOT.COMP.CLOSE PST speak.
 ("Let us build a great village and a tall wall for ourselves. Its high edge may reach the sky. May our name be known.")
 kjv: "Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name,"
 
-shola lo mia mena lo mia nia theula muila menoa se thiwera meno ma pula sholo.
-QUOT.COMP PL 1SG DECL.COMP PL 1SG ON UNIV earth face PASS scatter DECL.COMP.CLOSE NEG wish QUOT.COMP.CLOSE.
+shola lo mia mena lo mia nia theula muila menoa se thiwera meno ma pula sholo to haolu.
+QUOT.COMP PL 1SG DECL.COMP PL 1SG ON UNIV earth face PASS scatter DECL.COMP.CLOSE NEG wish QUOT.COMP.CLOSE PST speak.
 ("We do not wish to be scattered upon the face of the whole earth.")
 kjv: "lest we be scattered abroad upon the face of the whole earth."
 ```
@@ -82,8 +82,8 @@ REL authority hold thing QUOT.COMP IMP see. UNIV person one be. PL 3SG one langu
 (The being who holds authority said: "Look. All people are one. They hold one language.")
 kjv: "And the LORD said, Behold, the people is one, and they have all one language;"
 
-shola lo shia ha pa phoa. nosa wei lo shia mawha rena lo shia phoa ki weni thena so noraku kelu sholo.
-QUOT.COMP PL 3SG PROX INCH do. now DAT PL 3SG NONE REL PL 3SG do PFV imagine thing FUT blocked become QUOT.COMP.CLOSE.
+shola lo shia ha pa phoa. nosa wei lo shia mawha rena lo shia phoa ki weni thena so noraku kelu sholo to haolu.
+QUOT.COMP PL 3SG PROX INCH do. now DAT PL 3SG NONE REL PL 3SG do PFV imagine thing FUT blocked become QUOT.COMP.CLOSE PST speak.
 ("They begin to do this. Now, for them, no thing they have imagined doing will become blocked.")
 kjv: "and this they begin to do: and now nothing will be restrained from them, which they have imagined to do."
 ```
@@ -93,8 +93,8 @@ kjv: "and this they begin to do: and now nothing will be restrained from them, w
 ### Confounding and dispersal
 
 ```
-shia shola su lo mia lue waero kau muila wepu. lila lo shia lue wiso haolu po ma shelomu su lo mia mua ha lokue lo shia haluma kuewa ka kelu sholo to haolu.
-3SG QUOT.COMP OPT PL 1SG ABL sky ALL earth go. PURP PL 3SG ABL RECP speak POT NEG understand OPT PL 1SG LOC PROX place PL 3SG language strange CAUS become QUOT.COMP.CLOSE PST speak.
+shia shola su lo mia lue waero kau muila wepu. su lila lo shia lue wiso haolu po ma shelomu lo mia mua ha lokue lo shia haluma kuewa ka kelu sholo to haolu.
+3SG QUOT.COMP OPT PL 1SG ABL sky ALL earth go. OPT PURP PL 3SG ABL RECP speak POT NEG understand PL 1SG LOC PROX place PL 3SG language strange CAUS become QUOT.COMP.CLOSE PST speak.
 (The being said: "Let us go from the sky to the earth. Let us make their language unfamiliar in this place so that they cannot understand speech from one another.")
 kjv: "Go to, let us go down, and there confound their language, that they may not understand one another's speech."
 
@@ -133,13 +133,13 @@ ta haluma
 
 theula muila ta haluma nela ta haolu to phelu. lo miona lue sileta thorui to laniru. lo shia mua muila wemo to hekawi. lo shia mua ha lokue to menui.
 
-lo shia wei wiso to haolu. shola su lo mia lo mueri kerou pilewa. su lo mia lo ha ru thape sholo. lo mueri kerou wei lo shia kerou to nai. theru nuko loesi wei lo shia rena lo mueri kerou lorea muralo to nai.
+lo shia wei wiso to haolu. shola su lo mia lo mueri kerou pilewa. su lo mia lo ha ru thape sholo to haolu. lo mueri kerou wei lo shia kerou to nai. theru nuko loesi wei lo shia rena lo mueri kerou lorea muralo to nai.
 
-lo shia to haolu. shola su lo mia wei lo mia whalo silawo nela raelu moru lorima. shia raelu shuna mua waero po kamo. su lo mia nomei se sano sholo. shola lo mia mena lo mia nia theula muila menoa se thiwera meno ma pula sholo.
+lo shia to haolu. shola su lo mia wei lo mia whalo silawo nela raelu moru lorima. shia raelu shuna mua waero po kamo. su lo mia nomei se sano sholo to haolu. shola lo mia mena lo mia nia theula muila menoa se thiwera meno ma pula sholo to haolu.
 
-lo miona lo lumira ha whalo silawo nela ha raelu moru to lorima. lila ha lo thena nila rena karami phelu thena lue waero to shua. rena karami phelu thena shola no nila. theula miona ta nai. lo shia ta haluma phelu sholo to haolu. shola lo shia ha pa phoa. nosa wei lo shia mawha rena lo shia phoa ki weni thena so noraku kelu sholo.
+lo miona lo lumira ha whalo silawo nela ha raelu moru to lorima. lila ha lo thena nila rena karami phelu thena lue waero to shua. rena karami phelu thena shola no nila. theula miona ta nai. lo shia ta haluma phelu sholo to haolu. shola lo shia ha pa phoa. nosa wei lo shia mawha rena lo shia phoa ki weni thena so noraku kelu sholo to haolu.
 
-shia shola su lo mia lue waero kau muila wepu. lila lo shia lue wiso haolu po ma shelomu su lo mia mua ha lokue lo shia haluma kuewa ka kelu sholo to haolu. rena karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera. lo shia whalo silawo to te lorima.
+shia shola su lo mia lue waero kau muila wepu. su lila lo shia lue wiso haolu po ma shelomu lo mia mua ha lokue lo shia haluma kuewa ka kelu sholo to haolu. rena karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera. lo shia whalo silawo to te lorima.
 
 thelao nomei wei ha whalo silawo se loa. lao rena karami phelu thena mua ha lokue theula muila haluma kuewa to ka kelu. rena karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera.
 ```
@@ -198,8 +198,8 @@ PL 3SG DAT RECP PST speak.
 (They said to one another:)
 kjv: "And they said one to another,"
 
-shola su lo mia lo mueri kerou pilewa. su lo mia lo ha ru thape sholo.
-QUOT.COMP OPT PL 1SG PL clay stone make. OPT PL 1SG PL PROX INTS burn QUOT.COMP.CLOSE.
+shola su lo mia lo mueri kerou pilewa. su lo mia lo ha ru thape sholo to haolu.
+QUOT.COMP OPT PL 1SG PL clay stone make. OPT PL 1SG PL PROX INTS burn QUOT.COMP.CLOSE PST speak.
 ("Let us make clay-stones. Let us burn them thoroughly.")
 kjv: "Go to, let us make brick, and burn them thoroughly."
 
@@ -213,13 +213,13 @@ PL 3SG QUOT.COMP OPT PL 1SG large village COORD REL LOC sky arrive tall wall bui
 (They said: "Let us build a great village, and a tall wall that arrives at the sky.")
 kjv: "And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven;"
 
-shola su lo mia nomei se sano sholo.
-QUOT.COMP OPT PL 1SG name PASS know QUOT.COMP.CLOSE.
+shola su lo mia nomei se sano sholo to haolu.
+QUOT.COMP OPT PL 1SG name PASS know QUOT.COMP.CLOSE PST speak.
 ("May our name be known.")
 kjv: "and let us make us a name,"
 
-shola lo mia mena lo mia nia theula muila menoa se thiwera meno ma pula sholo.
-QUOT.COMP PL 1SG DECL.COMP PL 1SG ON UNIV earth face PASS scatter DECL.COMP.CLOSE NEG wish QUOT.COMP.CLOSE.
+shola lo mia mena lo mia nia theula muila menoa se thiwera meno ma pula sholo to haolu.
+QUOT.COMP PL 1SG DECL.COMP PL 1SG ON UNIV earth face PASS scatter DECL.COMP.CLOSE NEG wish QUOT.COMP.CLOSE PST speak.
 ("We do not wish to be scattered upon the face of the whole earth.")
 kjv: "lest we be scattered abroad upon the face of the whole earth."
 ```

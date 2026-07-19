@@ -76,10 +76,10 @@ You might wonder: why does Phi need closers? English manages without them.
 
 The answer lies in Phi's word order. Phi is strictly SOV (Subject-Object-Verb), meaning verbs come at the end of their clauses. When you embed one clause inside another, you get verb-verb sequences:
 
-**Without closer (ambiguous):**
+**Without closer (ungrammatical):**
 
 ```
-mia mena shia to wepu shelomu
+*mia mena shia to wepu shelomu
 1SG DECL.COMP 3SG PST go understand
 ```
 

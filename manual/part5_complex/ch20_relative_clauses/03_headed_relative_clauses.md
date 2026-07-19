@@ -80,7 +80,7 @@ mia rena mia mua to thalo shelira lothea.
 (I love the forest that I walked in.)
 ```
 
-The relative clause contains **mua** before its gap. Phi keeps that preposition in place, then supplies **shelira** as its object after the relative predicate.
+The relative clause keeps **mua** before its object gap. **shelira** is the head outside the clause, not an object moved past the relative predicate; the complete description precedes the noun it identifies.
 
 ## Longer descriptions
 

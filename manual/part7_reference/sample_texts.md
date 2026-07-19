@@ -105,8 +105,8 @@ OPT UNIV creature joy heart hold.
 ***mophira nela lo kalora*** (The Sheep and the Horses) begins from a controlled English translation of Schleicher's 1868 German. The close rendering preserves the constricted heart, the horses' knowledge, the master claim, and both descriptions of the sheep's flight. The transmutation names coercion and exploitation, then declines to rank the unlike burdens:
 
 ```
-shola lo kalora nela lo mophira lo phirae tupeka kolua sholo.
-QUOT.COMP PL horse COORD PL sheep PL different burden carry QUOT.COMP.CLOSE.
+shola lo kalora nela lo mophira lo phirae tupeka kolua sholo to haolu.
+QUOT.COMP PL horse COORD PL sheep PL different burden carry QUOT.COMP.CLOSE PST speak.
 ("The horses and the sheep carry different burdens.")
 ```
 
