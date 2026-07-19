@@ -48,8 +48,8 @@ love RESTR DECL.COMP REFL full become DECL.COMP.CLOSE wish.
 (Love wishes only that it become full.)
 gibran: "Love has no other desire but to fulfil itself."
 
-whekai lu thia lothea nela lo pula phelu. su lo ha thia pula nai.
-CONTR COND 2SG love COORD PL wish hold. OPT PL PROX 2SG wish be.
+lu whekai thia lothea nela lo pula phelu. su lo ha thia pula nai.
+COND CONTR 2SG love COORD PL wish hold. OPT PL PROX 2SG wish be.
 (But if you love, and hold desires, may these be your desires:)
 gibran: "But if you love and must needs have desires, let these be your desires:"
 
@@ -155,8 +155,8 @@ gibran: "For their souls dwell in the house of tomorrow, which you cannot visit,
 ### Becoming and time
 
 ```
-lila thia phea lo shia kelu thia po meloa. whekai no mena thia lo shia phea thia ka kelu meno ma mesatu.
-PURP 2SG AS PL 3SG become 2SG POT persevere. CONTR IMP DECL.COMP 2SG PL 3SG AS 2SG CAUS become DECL.COMP.CLOSE NEG try.
+lila thia phea lo shia kelu thia po meloa. no whekai mena thia lo shia phea thia ka kelu meno ma mesatu.
+PURP 2SG AS PL 3SG become 2SG POT persevere. IMP CONTR DECL.COMP 2SG PL 3SG AS 2SG CAUS become DECL.COMP.CLOSE NEG try.
 (You may persevere so that you become like them. However, do not try to make them become like you.)
 gibran: "You may strive to be like them, but seek not to make them like you."
 
@@ -208,7 +208,7 @@ lo thia phomila thia phomila ma nai. lo shia lioru wei miso wilao phomila nai. l
 
 thia wei lo shia lothea po loa. thia wei lo shia remo po ma loa. lo shia miso remo phelu. thia lo shia weloni ka po menui. thia lo shia norea ka po ma menui. lo shia norea mua wireo womu menui. thia ha womu po ma phemiru. we mua thia whemura thia ha womu po ma phemiru.
 
-lila thia phea lo shia kelu thia po meloa. whekai no mena thia lo shia phea thia ka kelu meno ma mesatu. lioru wea luera ma wepu. shia nua luera philo ma manolu.
+lila thia phea lo shia kelu thia po meloa. no whekai mena thia lo shia phea thia ka kelu meno ma mesatu. lioru wea luera ma wepu. shia nua luera philo ma manolu.
 
 thia lo [rena nira phelu] luwi wolea tenoa nai. lo thia phomila phea [rena wapi] lima tiso wolea thena lue thia se sepho. mua [rena mawha lumae phelu] ruela [rena roe ha tenoa phoa] porua siru nila. lila shia lo [rena wapi] lima tiso wolea thena reshi nela wuero wapi shia roe shia puro thia luwi ka kelu. su mua shia manuwe thia roe siora luwi kelu. shia [rena wapi] lima tiso wolea thena lothea. shia we mureo [rena nira phelu] luwi wolea tenoa lothea.
 ```

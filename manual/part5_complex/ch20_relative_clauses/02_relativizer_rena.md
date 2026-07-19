@@ -68,4 +68,4 @@ mia rena mia mua to thalo shelira lothea.
 (I love the forest that I walked in.)
 ```
 
-Inside the relative clause, **mua** still precedes its missing object. The head **shelira** supplies that object after the clause, so the preposition neither disappears nor moves to the end.
+Inside the relative clause, **mua** still precedes the gap in its object position. The head **shelira** stands outside that clause and follows the whole description; it refers to the same place as the gap without becoming a postposed prepositional object.

@@ -39,6 +39,7 @@ These were explicitly decided and should not silently fork again:
 - **Slot 1 order**: Tense > Aspect > Voice > Evidentiality > Modality >
   Negation. The order is fixed; negation scope does not move `ma`.
   There are no exceptions to established rules — ever.
+- **Modifier-first syntax has no exceptions** (settled 2026-07-19): A modifier, specifier, or relator always precedes what it affects. Noun-phrase material and prepositions come before the noun or object they govern. Objects, manner material, and Slot 1 particles come before predicates. Slot 0 opens its sentence, with any discourse marker next. Complete dependent frames come before main clauses; a `lu` condition is one complete sentence before its consequence. Complement frames come before matrix predicates, relative clauses come before head nouns, and a predicative adjective comes before `nai`. Coordinators stand between equal constituents, complementizer closers follow the material they bound, and a standalone `kona` phrase is extra-clausal; none of these modifies material to its left.
 - **Modal negation** (settled 2026-07): `po ma V` = cannot (possibility
   denied); `na ma V` = must not (necessity of refraining). "Need not"
   (absence of obligation) is not expressed by reordering; it uses the

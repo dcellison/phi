@@ -32,10 +32,19 @@ The single validation tool for the Phi project. Checks:
        translation lines and marked-wrong teaching examples are exempt)
      - purpose frames opened by `lila` precede the main clause they modify;
        the separate `S lila V ralu nai` freedom construction remains valid
+     - Slot 0 framing precedes dependent and discourse material at each
+       sentence or coordinate boundary, with outermost `pi` first
+     - discourse markers follow any Slot 0 frame and precede the sentence
+       they turn or connect
+     - `lu` conditions occupy a complete sentence before a complete
+       consequence sentence
+     - paired complement frames close before a following matrix predicate
      - a small whitelist covers deliberate error and contrast forms
 
   3. Phi quoted inside lexicon prose fields:
      - multiword examples use real words in canon Slot 1 order
+     - every structured sentence closes with a predicate or is a standalone
+       vocative/interjection
      - single-word citations "'word' (gloss)" cite real words, and
        short lowercase parentheticals must contain the cited gloss
 
@@ -109,6 +118,19 @@ CONSONANTS = set("hklmnprstw")
 DIGRAPHS = ("ph", "th", "sh", "wh")
 VOWELS = set("aeiou")
 PHI_LETTERS = CONSONANTS | VOWELS
+
+COMPLEMENT_PAIRS = {
+    "mena": "meno",
+    "wela": "welo",
+    "shola": "sholo",
+}
+COMPLEMENT_CLOSERS = {
+    closer: opener for opener, closer in COMPLEMENT_PAIRS.items()
+}
+SLOT0_WORDS = {"pi", "wa", "no", "lu", "he", "su"}
+DISCOURSE_MARKERS = {
+    "phisu", "shekoi", "shelao", "sheno", "shorela", "thelao", "whekai",
+}
 
 
 MIGRATION_FIELDS = ["old_form", "new_form", "gloss", "scope", "status"]
@@ -581,6 +603,9 @@ def check_lexicon(entries):
         d.get("word", "") for _, d in entries
         if d.get("pos") == "preposition"
     }
+    pos_by_word = {
+        d.get("word", ""): d.get("pos", "") for _, d in entries
+    }
     QUOTED = re.compile(r"(?<![A-Za-z])['`]([a-z][a-z .?!]*?)['`](?![A-Za-z])")
     CITED = re.compile(r"(?<![A-Za-z])'([a-z]{3,})' \(([^)]+)\)")
     for rel, data in entries:
@@ -679,6 +704,7 @@ def check_lexicon(entries):
                 content_words,
                 prepositions,
                 slot1_rank,
+                pos_by_word,
             ))
         if examples and not structured_examples_use_word(word, examples):
             errors.append(
@@ -1106,6 +1132,292 @@ def phi_tokens(raw_line):
     return strip_brackets(raw_line).split()
 
 
+def complement_frame_errors(raw_line, pos_by_word):
+    """Return structural errors in paired complement frames.
+
+    A frame modifies its matrix predicate, so that predicate must occur after
+    the closer and before the containing frame or sentence ends. Periods
+    inside an open frame remain available to multi-sentence quotations.
+    """
+    line = re.sub(r"\[[^\]]*\]", " ", raw_line.lower())
+    line = re.sub(r"\([^)]*\)", " ", line)
+    tokens = re.findall(r"[a-z]+|\.", line)
+    stack = []
+    pairs = []
+    errors = []
+
+    for index, token in enumerate(tokens):
+        if token in COMPLEMENT_PAIRS:
+            stack.append((token, index))
+            continue
+        if token not in COMPLEMENT_CLOSERS:
+            continue
+        if not stack:
+            errors.append(f"closer '{token}' has no matching opener")
+            continue
+        opener, opener_index = stack[-1]
+        expected = COMPLEMENT_PAIRS[opener]
+        if token != expected:
+            errors.append(
+                f"opener '{opener}' closes with '{token}', not '{expected}'"
+            )
+            continue
+        stack.pop()
+        pairs.append((opener, opener_index, index))
+
+    for opener, _index in stack:
+        errors.append(
+            f"opener '{opener}' has no matching '{COMPLEMENT_PAIRS[opener]}'"
+        )
+
+    for opener, _opener_index, closer_index in pairs:
+        depth = 0
+        matrix_verbs = []
+        for token in tokens[closer_index + 1:]:
+            if token in COMPLEMENT_PAIRS:
+                depth += 1
+                continue
+            if token in COMPLEMENT_CLOSERS:
+                if depth == 0:
+                    break
+                depth -= 1
+                continue
+            if token == "." and depth == 0:
+                break
+            if depth == 0 and pos_by_word.get(token) == "verb":
+                matrix_verbs.append(token)
+        closer = COMPLEMENT_PAIRS[opener]
+        if not matrix_verbs:
+            errors.append(
+                f"frame '{opener} ... {closer}' has no following matrix "
+                "predicate"
+            )
+    return errors
+
+
+def slot0_frame_errors(raw_line):
+    """Return Slot 0 particles that arrive after local sentence material.
+
+    Complement openers and coordinating conjunctions establish local starts.
+    `pi` may wrap an intent, and `he` belongs directly after `lu`; otherwise
+    a Slot 0 word has no material before it at that depth.
+    """
+    line = re.sub(r"\[[^\]]*\]", " ", raw_line.lower())
+    line = re.sub(r"\([^)]*\)", " ", line)
+    tokens = re.findall(r"[a-z]+|\.", line)
+    depths = []
+    stack = []
+
+    for token in tokens:
+        if token in COMPLEMENT_PAIRS:
+            depths.append(len(stack))
+            stack.append(token)
+            continue
+        if token in COMPLEMENT_CLOSERS:
+            expected_opener = COMPLEMENT_CLOSERS[token]
+            if stack and stack[-1] == expected_opener:
+                stack.pop()
+            depths.append(len(stack))
+            continue
+        depths.append(len(stack))
+
+    errors = []
+    for index, token in enumerate(tokens):
+        if token not in SLOT0_WORDS:
+            continue
+        depth = depths[index]
+        prefix = []
+        position = index - 1
+        while position >= 0:
+            if depths[position] < depth:
+                break
+            same_depth_boundary = (
+                depths[position] == depth
+                and (
+                    tokens[position] == "."
+                    or tokens[position] in COORDINATING_CONJUNCTIONS
+                )
+            )
+            if same_depth_boundary:
+                break
+            if depths[position] == depth:
+                prefix.append(tokens[position])
+            position -= 1
+        prefix.reverse()
+
+        if token == "pi":
+            valid = not prefix
+        elif token == "he":
+            valid = prefix in (["lu"], ["pi", "lu"])
+        else:
+            valid = prefix in ([], ["pi"])
+        if not valid:
+            errors.append(
+                f"Slot 0 '{token}' has material before it in the same "
+                f"sentence: '{' '.join(prefix[-4:])}'"
+            )
+    return errors
+
+
+def discourse_frame_errors(raw_line):
+    """Return discourse markers placed after local sentence content."""
+    line = re.sub(r"\[[^\]]*\]", " ", raw_line.lower())
+    line = re.sub(r"\([^)]*\)", " ", line)
+    tokens = re.findall(r"[a-z]+|\.", line)
+    depths = []
+    stack = []
+
+    for token in tokens:
+        if token in COMPLEMENT_PAIRS:
+            depths.append(len(stack))
+            stack.append(token)
+            continue
+        if token in COMPLEMENT_CLOSERS:
+            expected_opener = COMPLEMENT_CLOSERS[token]
+            if stack and stack[-1] == expected_opener:
+                stack.pop()
+            depths.append(len(stack))
+            continue
+        depths.append(len(stack))
+
+    allowed_prefixes = {
+        (),
+        ("pi",), ("wa",), ("no",), ("su",), ("lu",),
+        ("pi", "wa"), ("pi", "no"), ("pi", "su"), ("pi", "lu"),
+        ("lu", "he"), ("pi", "lu", "he"),
+    }
+    errors = []
+    for index, token in enumerate(tokens):
+        if token not in DISCOURSE_MARKERS:
+            continue
+        depth = depths[index]
+        prefix = []
+        position = index - 1
+        while position >= 0:
+            if depths[position] < depth:
+                break
+            if tokens[position] == "." and depths[position] == depth:
+                break
+            if depths[position] == depth:
+                prefix.append(tokens[position])
+            position -= 1
+        prefix.reverse()
+        if tuple(prefix) not in allowed_prefixes:
+            errors.append(
+                f"discourse marker '{token}' has sentence material before "
+                f"it: '{' '.join(prefix[-4:])}'"
+            )
+    return errors
+
+
+def conditional_frame_errors(raw_line, pos_by_word):
+    """Return structural errors in `lu` condition-consequence frames.
+
+    `lu` follows only an optional outer `pi` at its local sentence depth. Its
+    condition ends at a period, and a complete consequence follows before
+    the containing complement frame closes. Tracking complement depth lets
+    a quoted conditional begin after `shola` without treating the quote's
+    matrix subject as material before `lu`.
+    """
+    line = re.sub(r"\[[^\]]*\]", " ", raw_line.lower())
+    line = re.sub(r"\([^)]*\)", " ", line)
+    tokens = re.findall(r"[a-z]+|\.", line)
+    depths = []
+    stack = []
+
+    for token in tokens:
+        if token in COMPLEMENT_PAIRS:
+            depths.append(len(stack))
+            stack.append(token)
+            continue
+        if token in COMPLEMENT_CLOSERS:
+            expected_opener = COMPLEMENT_CLOSERS[token]
+            if stack and stack[-1] == expected_opener:
+                stack.pop()
+            depths.append(len(stack))
+            continue
+        depths.append(len(stack))
+
+    errors = []
+    for index, token in enumerate(tokens):
+        if token != "lu":
+            continue
+        depth = depths[index]
+
+        prefix = []
+        position = index - 1
+        while position >= 0:
+            if depths[position] < depth:
+                break
+            same_depth_boundary = (
+                depths[position] == depth
+                and (
+                    tokens[position] == "."
+                    or tokens[position] in COORDINATING_CONJUNCTIONS
+                )
+            )
+            if same_depth_boundary:
+                break
+            if depths[position] == depth:
+                prefix.append(tokens[position])
+            position -= 1
+        if prefix not in ([], ["pi"]):
+            errors.append(
+                "conditional 'lu' has material before it in the same "
+                f"sentence: '{' '.join(reversed(prefix[-4:]))}'"
+            )
+
+        boundary = None
+        for position in range(index + 1, len(tokens)):
+            if depths[position] < depth:
+                break
+            if tokens[position] == "." and depths[position] == depth:
+                boundary = position
+                break
+        if boundary is None:
+            errors.append(
+                "conditional 'lu' has no period after its condition "
+                "before the containing frame ends"
+            )
+            continue
+
+        condition_words = [
+            tokens[position]
+            for position in range(index + 1, boundary)
+            if depths[position] == depth and tokens[position] != "."
+        ]
+        if not condition_words or pos_by_word.get(condition_words[-1]) != "verb":
+            ending = condition_words[-1] if condition_words else "empty"
+            errors.append(
+                "conditional 'lu' condition does not end in a predicate "
+                f"before its period: '{ending}'"
+            )
+
+        consequence_words = []
+        consequence_closed = False
+        for position in range(boundary + 1, len(tokens)):
+            if depths[position] < depth:
+                consequence_closed = True
+                break
+            if tokens[position] == "." and depths[position] == depth:
+                consequence_closed = True
+                break
+            if depths[position] == depth:
+                consequence_words.append(tokens[position])
+        if not consequence_closed and consequence_words:
+            consequence_closed = True
+        if (
+            not consequence_words
+            or pos_by_word.get(consequence_words[-1]) != "verb"
+        ):
+            ending = consequence_words[-1] if consequence_words else "empty"
+            errors.append(
+                "conditional 'lu' has no complete following consequence "
+                f"before the containing frame ends: '{ending}'"
+            )
+    return errors
+
+
 def structured_example_errors(
     rel,
     index,
@@ -1114,6 +1426,7 @@ def structured_example_errors(
     content_words,
     prepositions,
     slot1_rank,
+    pos_by_word,
 ):
     """Validate one target-contract example beyond its JSON shape."""
     label = f"{rel}: examples[{index}].phi"
@@ -1128,6 +1441,15 @@ def structured_example_errors(
             "spaces and periods only"
         )
         return errors
+
+    for frame_error in complement_frame_errors(phi, pos_by_word):
+        errors.append(f"{label}: {frame_error}")
+    for frame_error in slot0_frame_errors(phi):
+        errors.append(f"{label}: {frame_error}")
+    for frame_error in discourse_frame_errors(phi):
+        errors.append(f"{label}: {frame_error}")
+    for frame_error in conditional_frame_errors(phi, pos_by_word):
+        errors.append(f"{label}: {frame_error}")
 
     for sentence_index, sentence in enumerate(phi.split(".")[:-1], 1):
         sentence_label = (
@@ -1165,6 +1487,15 @@ def structured_example_errors(
                 f"{sentence_label}: postposed purpose frame near '{run}' "
                 "(canon: lila and its dependent clause precede the main "
                 "clause)"
+            )
+        final_pos = pos_by_word.get(tokens[-1])
+        standalone_vocative = tokens[0] == "kona"
+        if final_pos not in {"verb", "interjection"} and not standalone_vocative:
+            errors.append(
+                f"{sentence_label}: sentence ends in '{tokens[-1]}' "
+                f"({final_pos or 'unknown'}); a complete Phi assertion "
+                "ends in its predicate, while a standalone call begins "
+                "with 'kona'"
             )
     return errors
 
@@ -1299,11 +1630,12 @@ def check_gloss_lines(rel, text, lexicon_words, gloss_of):
 
 
 def check_docs(lexicon_words, paths=None, gloss_of=None, prepositions=None,
-               content_words=None, slot1_rank=None):
+               content_words=None, slot1_rank=None, pos_by_word=None):
     errors = []
     prepositions = prepositions or set()
     content_words = content_words or set()
     slot1_rank = slot1_rank or {}
+    pos_by_word = pos_by_word or {}
     roots = paths or DOC_ROOTS
     files = []
     for root in roots:
@@ -1395,6 +1727,46 @@ def check_docs(lexicon_words, paths=None, gloss_of=None, prepositions=None,
                         errors.append(f"{rel}:{lineno}: postposed preposition near '{run}' (canon: every preposition precedes its object)")
                     for run in purpose_frame_misplacements_in_line(cand.lower()):
                         errors.append(f"{rel}:{lineno}: postposed purpose frame near '{run}' (canon: lila and its dependent clause precede the main clause)")
+                    candidate_tokens = phi_tokens(cand.lower())
+                    has_opener = any(
+                        token in COMPLEMENT_PAIRS for token in candidate_tokens
+                    )
+                    has_closer = any(
+                        token in COMPLEMENT_CLOSERS for token in candidate_tokens
+                    )
+                    complete_candidate = (
+                        "[" not in cand
+                        and "]" not in cand
+                        and (not strict or cand.rstrip().endswith("."))
+                    )
+                    if complete_candidate and (has_opener or has_closer):
+                        for frame_error in complement_frame_errors(
+                            cand, pos_by_word
+                        ):
+                            errors.append(
+                                f"{rel}:{lineno}: {frame_error}"
+                            )
+                    if complete_candidate and SLOT0_WORDS.intersection(
+                        candidate_tokens
+                    ):
+                        for frame_error in slot0_frame_errors(cand):
+                            errors.append(
+                                f"{rel}:{lineno}: {frame_error}"
+                            )
+                    if complete_candidate and DISCOURSE_MARKERS.intersection(
+                        candidate_tokens
+                    ):
+                        for frame_error in discourse_frame_errors(cand):
+                            errors.append(
+                                f"{rel}:{lineno}: {frame_error}"
+                            )
+                    if complete_candidate and "lu" in candidate_tokens:
+                        for frame_error in conditional_frame_errors(
+                            cand, pos_by_word
+                        ):
+                            errors.append(
+                                f"{rel}:{lineno}: {frame_error}"
+                            )
             # IPA citations: a line that names a known word in backticks
             # and quotes exactly one /.../ transcription must quote that
             # word's canonical IPA. Single phonemes (/m/) and slashed
@@ -1611,9 +1983,12 @@ def main():
             if d.get("pos") == "preposition"
         }
         slot1_rank = slot1_rank_map(entries)
+        pos_by_word = {
+            d.get("word", ""): d.get("pos", "") for _, d in entries
+        }
         errors.extend(check_docs(
             lexicon_words, args.paths, gloss_of, prepositions, content_words,
-            slot1_rank
+            slot1_rank, pos_by_word
         ))
         errors.extend(check_active_prose(args.paths))
         if not args.paths:

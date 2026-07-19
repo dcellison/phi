@@ -13,7 +13,7 @@
   "usage_notes": "A phrase can remove the plant-or-flower ambiguity: 'perola wotami' is a rose shrub and 'perola peloru' a rose flower. Exact cultivars keep their source names.",
   "examples": [
     {
-      "phi": "perola whinu keru.",
+      "phi": "perola whinu loa.",
       "translation": "The rose gives a scent."
     }
   ],

@@ -509,7 +509,7 @@ morris: "which, indeed, will be the easier and more natural to me, since I under
 
 **Notes:** the report frame now steps into view. The clause `melu mena ... meno haolu` says outright that the friend is speaking, just as Morris moves from parenthetical reminders to "Our friend says." He wakes from `ra nulae`, that sleep, and enters `lo rulami`, adventures that truly surprise. Passive necessity, `se na shane`, says they should be told, and the audience widens from the allies to everyone else.
 
-The direct quotation performs the handoff to the first person: the friend wants to tell the adventures himself. His reason follows in the `lao` clause. He understands the ally's feelings and longings better than anyone else does, so the telling will not be very difficult and will feel more natural. Negated `kethua` supplies the first idea without pretending that `siloma`, structurally uncomplicated, is a general word for "easy." The reportative then falls away. From the next chapter onward, the borrowed account has become the traveller's own testimony.
+The direct quotation performs the handoff to the first person: the friend wants to tell the adventures himself. The next Phi sentence puts his reason first under `lao`. He understands the ally's feelings and longings better than anyone else does, so the telling will not be very difficult and will feel more natural. Negated `kethua` supplies the first idea without pretending that `siloma`, structurally uncomplicated, is a general word for "easy." The reportative then falls away. From the next chapter onward, the borrowed account has become the traveller's own testimony.
 
 ---
 

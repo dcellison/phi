@@ -34,7 +34,7 @@ one horse person PST fast carry.
 schleicher-en: "and one swiftly carrying a human being."
 ```
 
-**Notes:** The opening relative clause follows Schleicher's unusual description, a sheep on which wool was not, then his parenthesis identifies the animal as shorn. The passive perfect `to ki se kati` makes the earlier cutting explicit. Each horse has its own work. `tupeka` locates the great load on a living bearer, while `tumoa` describes the wagon's physical weight.
+**Notes:** The opening relative clause preserves Schleicher's unusual description, a sheep on which wool was not, then his parenthesis identifies the animal as shorn. The passive perfect `to ki se kati` makes the earlier cutting explicit. Each horse has its own work. `tupeka` locates the great load on a living bearer, while `tumoa` describes the wagon's physical weight.
 
 ### The sheep speaks
 
@@ -44,8 +44,8 @@ sheep DAT PL horse PST speak.
 (The sheep spoke to the horses.)
 schleicher-en: "The sheep said to the horses:"
 
-shola sui mia mena miona lo kalora ka wepu meno nila mia korua se peki. mia ru nuhe phaelo sholo.
-QUOT.COMP DUR 1SG DECL.COMP person PL horse CAUS go DECL.COMP.CLOSE see 1SG heart PASS squeeze. 1SG INTS sadness feel QUOT.COMP.CLOSE.
+shola sui mia mena miona lo kalora ka wepu meno nila mia korua se peki. mia ru nuhe phaelo sholo to haolu.
+QUOT.COMP DUR 1SG DECL.COMP person PL horse CAUS go DECL.COMP.CLOSE see 1SG heart PASS squeeze. 1SG INTS sadness feel QUOT.COMP.CLOSE PST speak.
 ("During my seeing the human being cause the horses to go, my heart is squeezed. I feel deep sadness.")
 schleicher-en: "\"My heart is constricted in me (I am deeply grieved) as I see the human being driving the horses.\""
 ```
@@ -60,38 +60,38 @@ PL horse DAT sheep PST speak.
 (The horses spoke to the sheep.)
 schleicher-en: "The horses said:"
 
-shola kona mophira. no sheluo sholo.
-QUOT.COMP VOC sheep. IMP listen QUOT.COMP.CLOSE.
+shola kona mophira. no sheluo sholo to haolu.
+QUOT.COMP VOC sheep. IMP listen QUOT.COMP.CLOSE PST speak.
 ("Sheep. Listen.")
 schleicher-en: "\"Listen, sheep."
 
-shola lo mia ha ki nila. lo mia korua se peki. lao lo mia ha sano lo mia ru nuhe phaelo sholo.
-QUOT.COMP PL 1SG PROX PFV see. PL 1SG heart PASS squeeze. BECAUSE PL 1SG PROX know PL 1SG INTS sadness feel QUOT.COMP.CLOSE.
+shola lo mia ha ki nila. lo mia korua se peki. lao lo mia ha sano lo mia ru nuhe phaelo sholo to haolu.
+QUOT.COMP PL 1SG PROX PFV see. PL 1SG heart PASS squeeze. BECAUSE PL 1SG PROX know PL 1SG INTS sadness feel QUOT.COMP.CLOSE PST speak.
 ("We have seen this. Our hearts are squeezed. Because we know this, we feel deep sadness.")
 schleicher-en: "The heart is constricted in us who have seen (we are deeply grieved, because we know):"
 
-shola rena lo mophira phenori phelu miona sholo.
-QUOT.COMP REL PL sheep ownership hold person QUOT.COMP.CLOSE.
+shola rena lo mophira phenori phelu miona sholo to haolu.
+QUOT.COMP REL PL sheep ownership hold person QUOT.COMP.CLOSE PST speak.
 ("The human being who holds ownership of the sheep.")
 schleicher-en: "the human being, the master,"
 
-shola ha miona wei miso lo mophira mophi sulae wethalu ka kelu sholo.
-QUOT.COMP PROX person DAT REFL PL sheep wool warm garment CAUS become QUOT.COMP.CLOSE.
+shola ha miona wei miso lo mophira mophi sulae wethalu ka kelu sholo to haolu.
+QUOT.COMP PROX person DAT REFL PL sheep wool warm garment CAUS become QUOT.COMP.CLOSE PST speak.
 ("This person makes the sheep's wool become a warm garment for themself.")
 schleicher-en: "makes the sheep's wool into a warm garment for himself,"
 
-shola wei lo mophira mawha mophi nai sholo.
-QUOT.COMP DAT PL sheep NONE wool be QUOT.COMP.CLOSE.
+shola wei lo mophira mawha mophi nai sholo to haolu.
+QUOT.COMP DAT PL sheep NONE wool be QUOT.COMP.CLOSE PST speak.
 ("The sheep have no wool.")
 schleicher-en: "and the sheep have no wool."
 
-shola whekai nosa wei lo mophira mawha mophi nai. lo mophira mophi se kati sholo.
-QUOT.COMP CONTR now DAT PL sheep NONE wool be. PL sheep wool PASS cut QUOT.COMP.CLOSE.
+shola whekai nosa wei lo mophira mawha mophi nai. lo mophira mophi se kati sholo to haolu.
+QUOT.COMP CONTR now DAT PL sheep NONE wool be. PL sheep wool PASS cut QUOT.COMP.CLOSE PST speak.
 ("However, now the sheep have no wool. The sheep's wool is cut.")
 schleicher-en: "(The sheep, however, no longer have any wool; they are shorn;"
 
-shola lo kalora sheo lo mophira mo towe nai sholo.
-QUOT.COMP PL horse THAN PL sheep CMPR well be QUOT.COMP.CLOSE.
+shola lo kalora sheo lo mophira mo towe nai sholo to haolu.
+QUOT.COMP PL horse THAN PL sheep CMPR well be QUOT.COMP.CLOSE PST speak.
 ("The horses are more well than the sheep.")
 schleicher-en: "they fare even worse than the horses.)"
 ```
@@ -121,9 +121,9 @@ mophira nela lo kalora
 
 rena mophi ma phelu mophira lo kalora to nila. shia mophi to ki se kati. ta kalora tumoa rolutha to natu. ta kalora ta whalo tupeka to kolua. ta kalora miona to reshi kolua.
 
-mophira wei lo kalora to haolu. shola sui mia mena miona lo kalora ka wepu meno nila mia korua se peki. mia ru nuhe phaelo sholo.
+mophira wei lo kalora to haolu. shola sui mia mena miona lo kalora ka wepu meno nila mia korua se peki. mia ru nuhe phaelo sholo to haolu.
 
-lo kalora wei mophira to haolu. shola kona mophira. no sheluo sholo. shola lo mia ha ki nila. lo mia korua se peki. lao lo mia ha sano lo mia ru nuhe phaelo sholo. shola rena lo mophira phenori phelu miona sholo. shola ha miona wei miso lo mophira mophi sulae wethalu ka kelu sholo. shola wei lo mophira mawha mophi nai sholo. shola whekai nosa wei lo mophira mawha mophi nai. lo mophira mophi se kati sholo. shola lo kalora sheo lo mophira mo towe nai sholo.
+lo kalora wei mophira to haolu. shola kona mophira. no sheluo sholo to haolu. shola lo mia ha ki nila. lo mia korua se peki. lao lo mia ha sano lo mia ru nuhe phaelo sholo to haolu. shola rena lo mophira phenori phelu miona sholo to haolu. shola ha miona wei miso lo mophira mophi sulae wethalu ka kelu sholo to haolu. shola wei lo mophira mawha mophi nai sholo to haolu. shola whekai nosa wei lo mophira mawha mophi nai. lo mophira mophi se kati sholo to haolu. shola lo kalora sheo lo mophira mo towe nai sholo to haolu.
 
 pheo ha hea mophira kau kosha to rato. shia kau kosha to phesari. shia to reshi pholeni.
 ```
@@ -184,8 +184,8 @@ sheep DAT PL horse PST speak.
 (The sheep spoke to the horses.)
 schleicher-en: "The sheep said to the horses:"
 
-shola sui mia mena miona lo kalora kawhera meno nila mia korua se peki. mia ru nuhe phaelo sholo.
-QUOT.COMP DUR 1SG DECL.COMP person PL horse coerce DECL.COMP.CLOSE see 1SG heart PASS squeeze. 1SG INTS sadness feel QUOT.COMP.CLOSE.
+shola sui mia mena miona lo kalora kawhera meno nila mia korua se peki. mia ru nuhe phaelo sholo to haolu.
+QUOT.COMP DUR 1SG DECL.COMP person PL horse coerce DECL.COMP.CLOSE see 1SG heart PASS squeeze. 1SG INTS sadness feel QUOT.COMP.CLOSE PST speak.
 ("During my seeing the human being coerce the horses, my heart is squeezed. I feel deep sadness.")
 schleicher-en: "\"My heart is constricted in me (I am deeply grieved) as I see the human being driving the horses.\""
 ```
@@ -200,38 +200,38 @@ PL horse DAT sheep PST speak.
 (The horses spoke to the sheep.)
 schleicher-en: "The horses said:"
 
-shola kona mophira. no sheluo sholo.
-QUOT.COMP VOC sheep. IMP listen QUOT.COMP.CLOSE.
+shola kona mophira. no sheluo sholo to haolu.
+QUOT.COMP VOC sheep. IMP listen QUOT.COMP.CLOSE PST speak.
 ("Sheep. Listen.")
 schleicher-en: "\"Listen, sheep."
 
-shola lo mia ha ki nila. lo mia ha sano. lo mia korua se peki. lo mia ru nuhe phaelo sholo.
-QUOT.COMP PL 1SG PROX PFV see. PL 1SG PROX know. PL 1SG heart PASS squeeze. PL 1SG INTS sadness feel QUOT.COMP.CLOSE.
+shola lo mia ha ki nila. lo mia ha sano. lo mia korua se peki. lo mia ru nuhe phaelo sholo to haolu.
+QUOT.COMP PL 1SG PROX PFV see. PL 1SG PROX know. PL 1SG heart PASS squeeze. PL 1SG INTS sadness feel QUOT.COMP.CLOSE PST speak.
 ("We have seen this. We know this. Our hearts are squeezed. We feel deep sadness.")
 schleicher-en: "The heart is constricted in us who have seen (we are deeply grieved, because we know):"
 
-shola ha miona lo kalora kawhera. ha miona lo mophira pilora sholo.
-QUOT.COMP PROX person PL horse coerce. PROX person PL sheep exploit QUOT.COMP.CLOSE.
+shola ha miona lo kalora kawhera. ha miona lo mophira pilora sholo to haolu.
+QUOT.COMP PROX person PL horse coerce. PROX person PL sheep exploit QUOT.COMP.CLOSE PST speak.
 ("This human being coerces the horses. This human being exploits the sheep.")
 schleicher-en: "the human being, the master,"
 
-shola ha miona wei miso lo mophira mophi sulae wethalu ka kelu sholo.
-QUOT.COMP PROX person DAT REFL PL sheep wool warm garment CAUS become QUOT.COMP.CLOSE.
+shola ha miona wei miso lo mophira mophi sulae wethalu ka kelu sholo to haolu.
+QUOT.COMP PROX person DAT REFL PL sheep wool warm garment CAUS become QUOT.COMP.CLOSE PST speak.
 ("This person makes the sheep's wool become a warm garment for themself.")
 schleicher-en: "makes the sheep's wool into a warm garment for himself,"
 
-shola wei lo mophira mawha mophi nai sholo.
-QUOT.COMP DAT PL sheep NONE wool be QUOT.COMP.CLOSE.
+shola wei lo mophira mawha mophi nai sholo to haolu.
+QUOT.COMP DAT PL sheep NONE wool be QUOT.COMP.CLOSE PST speak.
 ("The sheep have no wool.")
 schleicher-en: "and the sheep have no wool."
 
-shola whekai nosa wei lo mophira mawha mophi nai. lo mophira mophi ro se kati sholo.
-QUOT.COMP CONTR now DAT PL sheep NONE wool be. PL sheep wool HAB PASS cut QUOT.COMP.CLOSE.
+shola whekai nosa wei lo mophira mawha mophi nai. lo mophira mophi ro se kati sholo to haolu.
+QUOT.COMP CONTR now DAT PL sheep NONE wool be. PL sheep wool HAB PASS cut QUOT.COMP.CLOSE PST speak.
 ("However, now the sheep have no wool. The sheep's wool is cut habitually.")
 schleicher-en: "(The sheep, however, no longer have any wool; they are shorn;"
 
-shola lo kalora nela lo mophira lo phirae tupeka kolua sholo.
-QUOT.COMP PL horse COORD PL sheep PL different burden carry QUOT.COMP.CLOSE.
+shola lo kalora nela lo mophira lo phirae tupeka kolua sholo to haolu.
+QUOT.COMP PL horse COORD PL sheep PL different burden carry QUOT.COMP.CLOSE PST speak.
 ("The horses and the sheep carry different burdens.")
 schleicher-en: "they fare even worse than the horses.)"
 ```
@@ -261,9 +261,9 @@ mophira nela lo kalora
 
 rena mophi ma phelu mophira lo kalora to nila. shia mophi to ki se kati. ta kalora tumoa rolutha to natu. ta kalora ta whalo tupeka to kolua. ta kalora miona to reshi kolua.
 
-mophira wei lo kalora to haolu. shola sui mia mena miona lo kalora kawhera meno nila mia korua se peki. mia ru nuhe phaelo sholo.
+mophira wei lo kalora to haolu. shola sui mia mena miona lo kalora kawhera meno nila mia korua se peki. mia ru nuhe phaelo sholo to haolu.
 
-lo kalora wei mophira to haolu. shola kona mophira. no sheluo sholo. shola lo mia ha ki nila. lo mia ha sano. lo mia korua se peki. lo mia ru nuhe phaelo sholo. shola ha miona lo kalora kawhera. ha miona lo mophira pilora sholo. shola ha miona wei miso lo mophira mophi sulae wethalu ka kelu sholo. shola wei lo mophira mawha mophi nai sholo. shola whekai nosa wei lo mophira mawha mophi nai. lo mophira mophi ro se kati sholo. shola lo kalora nela lo mophira lo phirae tupeka kolua sholo.
+lo kalora wei mophira to haolu. shola kona mophira. no sheluo sholo to haolu. shola lo mia ha ki nila. lo mia ha sano. lo mia korua se peki. lo mia ru nuhe phaelo sholo to haolu. shola ha miona lo kalora kawhera. ha miona lo mophira pilora sholo to haolu. shola ha miona wei miso lo mophira mophi sulae wethalu ka kelu sholo to haolu. shola wei lo mophira mawha mophi nai sholo to haolu. shola whekai nosa wei lo mophira mawha mophi nai. lo mophira mophi ro se kati sholo to haolu. shola lo kalora nela lo mophira lo phirae tupeka kolua sholo to haolu.
 
 pheo ha hea mophira kau kosha to phesari. shia to reshi pholeni.
 ```

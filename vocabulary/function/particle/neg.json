@@ -12,7 +12,7 @@
     "negation",
     "not"
   ],
-  "description": "The final Slot 1 particle 'ma' negates the fully specified predicate that comes before it. Tense, aspect, voice, evidentiality, and modality therefore remain in scope when it denies the event. Noun-phrase absence uses 'mawha' (NONE) instead.",
+  "description": "The final Slot 1 particle 'ma' negates the fully specified predicate that follows it. Tense, aspect, voice, evidentiality, and modality come before 'ma' and remain in scope when it denies the event. Noun-phrase absence uses 'mawha' (NONE) instead.",
   "articulatory_notes": "Voiced 'm' resonates through the nose behind closed lips, which then open into central 'a'. The monosyllable is stressed.",
   "sound_symbolism": "The lips close completely and then open into 'a'. That bodily refusal followed by release gives negation a firm but unsealed shape.",
   "usage_notes": "The order is always modal then negation: 'po ma' means cannot, while 'na ma' means must not. For need not, the 'na' (NEC) entry gives Phi's freedom expression; reordering these particles is never allowed. No particle follows 'ma' before the verb.",

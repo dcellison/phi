@@ -165,8 +165,9 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 
 ### When Creating Constructions
 - [ ] Preserve strict SOV order (modifier-first principle)
+- [ ] Put Slot 0 first, then any discourse marker; give every `lu` condition its own sentence before the consequence
 - [ ] Place every dependent clause before the main clause it modifies; this rule includes purpose frames opened by `lila`
-- [ ] Maintain head-final principle
+- [ ] Apply modifier-first order without inferring a head-final shortcut; Phi remains mixed in typological head direction because it uses prepositions
 - [ ] Support compositional transparency
 - [ ] Enable mindful sentence building
 - [ ] Document how causative `ka` changes structure (agent→subject, subject→object)

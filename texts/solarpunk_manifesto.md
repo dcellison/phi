@@ -35,8 +35,8 @@ solarpunk: "The aesthetics of solarpunk merge the practical with the beautiful, 
 ### Hope amid calamity
 
 ```
-ha moenu mioru wireo weni po nai. shia li wiroa po nai. sola shia wea mo welao muila lo rena miona meloa keiro po theama. thona shia mawha peloma wireo weni nai. lao muila lo pukea nela lo kipona phelu. lo mia lo keiro phelona. li lo pukea shanewi henoi ma nai.
-PROX culture beautiful future imagine POT be. 3SG RESTR hopeful POT be. DISJ 3SG TOWARD CMPR good earth PL REL person persevere way POT care. ADVRS 3SG NONE harmful future imagine be. BECAUSE earth PL danger COORD PL pain hold. PL 1SG PL way require. RESTR PL danger notify ENOUGH NEG be.
+ha moenu mioru wireo weni po nai. shia li wiroa po nai. sola shia wea mo welao muila lo rena miona meloa keiro po theama. thona shia mawha peloma wireo weni nai. lao muila lo pukea nela lo kipona phelu lo mia lo keiro phelona. li lo pukea shanewi henoi ma nai.
+PROX culture beautiful future imagine POT be. 3SG RESTR hopeful POT be. DISJ 3SG TOWARD CMPR good earth PL REL person persevere way POT care. ADVRS 3SG NONE harmful future imagine be. BECAUSE earth PL danger COORD PL pain hold PL 1SG PL way require. RESTR PL danger notify ENOUGH NEG be.
 (This culture can imagine a beautiful future. It can be simply hopeful, or it can care about the ways people persevere toward a better world, but it is no imagining of a harmful future. Because the world holds dangers and pain, we need ways forward. Warnings of danger alone are not enough.)
 solarpunk: "Solarpunk can be utopian, just optimistic, or concerned with the struggles en route to a better world ,  but never dystopian. As our world roils with calamity, we need solutions, not only warnings."
 ```
@@ -72,8 +72,8 @@ solarpunk: "Solarpunk is at once a vision of the future, a thoughtful provocatio
 ### 1. Taking hope back
 
 ```
-lo mia ha moenu wemari nai lao lue lo mia wiroa to se pilu. lo mia mena lo mia ha wiroa talome meno mesatu.
-PL 1SG PROX culture member be BECAUSE ABL PL 1SG hopeful PST PASS take. PL 1SG DECL.COMP PL 1SG PROX hopeful restore DECL.COMP.CLOSE try.
+lao lue lo mia wiroa to se pilu lo mia ha moenu wemari nai. lo mia mena lo mia ha wiroa talome meno mesatu.
+BECAUSE ABL PL 1SG hopeful PST PASS take PL 1SG PROX culture member be. PL 1SG DECL.COMP PL 1SG PROX hopeful restore DECL.COMP.CLOSE try.
 (We are members of this culture because hopefulness was taken from us. We try to restore it.)
 solarpunk: "We are solarpunks because optimism has been taken away from us and we are trying to take it back."
 ```
@@ -83,8 +83,8 @@ solarpunk: "We are solarpunks because optimism has been taken away from us and w
 ### 2. The other paths
 
 ```
-lo mia ha moenu wemari nai lao li wi keiro ra nai. ta keiro theloa naweri. nu wi keiro whuo soliru liona.
-PL 1SG PROX culture member be BECAUSE RESTR two way DIST be. one way truth refuse. ORD two way WITHOUT hope live.
+lao li wi keiro ra nai lo mia ha moenu wemari nai. ta keiro theloa naweri. nu wi keiro whuo soliru liona.
+BECAUSE RESTR two way DIST be PL 1SG PROX culture member be. one way truth refuse. ORD two way WITHOUT hope live.
 (We are members of this culture because only two other paths are there. One path refuses truth. The second lives without hope.)
 solarpunk: "We are solarpunks because the only other options are denial or despair."
 ```
@@ -399,15 +399,15 @@ ha sileta kenua wireo moenu lo wireo weni nophi nela shela nela wetha senalu nel
 
 ha moenu senalu towe kelitho nela mioru shemoli. shia towe noporu nela liro pheno thuroa shemoli. shia keru welisha mioru nela phea muila kethua mioru shemoli.
 
-ha moenu mioru wireo weni po nai. shia li wiroa po nai. sola shia wea mo welao muila lo rena miona meloa keiro po theama. thona shia mawha peloma wireo weni nai. lao muila lo pukea nela lo kipona phelu. lo mia lo keiro phelona. li lo pukea shanewi henoi ma nai.
+ha moenu mioru wireo weni po nai. shia li wiroa po nai. sola shia wea mo welao muila lo rena miona meloa keiro po theama. thona shia mawha peloma wireo weni nai. lao muila lo pukea nela lo kipona phelu lo mia lo keiro phelona. li lo pukea shanewi henoi ma nai.
 
 ha lo keiro ha lo porua phelu. lo mia whuo lo rena lue tholua lioru se phelure kenua welira. lu lo panuri henoi ma nai. lo mia lo shia thua phanuli. lu lo panuri lorua nai. lo mia lo shia phowe. lo mia li lo telua sherewa shaweri. lo mia wei wiso nela wei rena lo mia phowe muila mo phena phoa.
 
 ha moenu wireo lunai nela phenui whakeru nela liona keiro nela lo rena se po phoa repora nai.
 
-lo mia ha moenu wemari nai lao lue lo mia wiroa to se pilu. lo mia mena lo mia ha wiroa talome meno mesatu.
+lao lue lo mia wiroa to se pilu lo mia ha moenu wemari nai. lo mia mena lo mia ha wiroa talome meno mesatu.
 
-lo mia ha moenu wemari nai lao li wi keiro ra nai. ta keiro theloa naweri. nu wi keiro whuo soliru liona.
+lao li wi keiro ra nai lo mia ha moenu wemari nai. ta keiro theloa naweri. nu wi keiro whuo soliru liona.
 
 ha moenu korua wireo lunai nai. shia mo ko welao rena theula miona po phoa thena weni. mua ha wireo lo panuri henoi nai. lo karami noa raelu nela mulu ma nai. phenori wei miona pilora karami ma loa. theula miona miso phea woeli lioru monaki nila. lo rena pesenu ma phoa kenua sephori. lo rena lue tholua lioru se phelure kenua te se sephori.
 

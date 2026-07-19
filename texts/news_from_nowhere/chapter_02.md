@@ -229,8 +229,8 @@ thia sano. rihe lunisa theula thimu luphore thiku theru ka kelu.
 (You know. The rising tide always makes the river a little thick.)
 morris: "You know the flood-tide always thickens it a bit.\""
 
-mia shola lu lunisa pai kesho lepa mia luphore muphia welisha we to ki hi nila. sholo to haolu.
-1SG QUOT.COMP COND tide NEAR middle fall 1SG river mud color ALSO PST PFV DIR see. QUOT.COMP.CLOSE PST speak.
+mia shola lu lunisa pai kesho lepa. mia luphore muphia welisha we to ki hi nila sholo to haolu.
+1SG QUOT.COMP COND tide NEAR middle fall. 1SG river mud color ALSO PST PFV DIR see QUOT.COMP.CLOSE PST speak.
 ("I have seen it mud-colored with my own eyes," I said, "even when the tide had fallen only near halfway.")
 morris: "\"H'm,\" said I, \"I have seen it pretty muddy even at half-ebb.\""
 
@@ -464,8 +464,8 @@ PL person INS DIST PL thing what do.
 ("What are they doing with those things here?")
 morris: "\"What are they doing with those things here?"
 
-lu he lo mia mua ra nitho luphore nai mia mena lo miona roe ra lo thena shalumi mera natu meno haolu.
-COND IRR PL 1SG LOC DIST north river be 1SG DECL.COMP PL person INS DIST PL thing salmon net pull DECL.COMP.CLOSE speak.
+lu he lo mia mua ra nitho luphore nai. mia mena lo miona roe ra lo thena shalumi mera natu meno haolu.
+COND IRR PL 1SG LOC DIST north river be. 1SG DECL.COMP PL person INS DIST PL thing salmon net pull DECL.COMP.CLOSE speak.
 (If we were on that great northern river, I should say that people were drawing the salmon-nets with them.)
 morris: "If we were on the Tay, I should have said that they were for drawing the salmon nets;"
 
@@ -664,8 +664,8 @@ mia mena rena se po ma shelomu thena to ki kelu meno to nila.
 (For I saw that something had happened that could not be understood.)
 morris: "for I saw that something inexplicable had happened,"
 
-lu mia sheloi haolu lo haolu phea lo sima mia so tiwa.
-COND 1SG MANY speak PL speak AS PL thread 1SG FUT tie.
+lu mia sheloi haolu. lo haolu phea lo sima mia so tiwa.
+COND 1SG MANY speak. PL speak AS PL thread 1SG FUT tie.
 (And that if I said much, the sayings would tie me up like threads.)
 morris: "and that if I said much, I should be mixed up in a game of cross questions and crooked answers."
 
@@ -866,9 +866,9 @@ shia phena miona ke nai. thelao mia wei shia mo thena to po loa.
 (He seems such a nice fellow that I could well give him a little more.)
 morris: "He seems such a nice fellow that I'm sure I don't grudge him a little over-payment."
 
-mia wela shia sui ta sola wi philo mia po kulo welo to remo. lao shia korua ru tiso nai.
-1SG INT.COMP 3SG DUR one DISJ two day 1SG POT guide INT.COMP.CLOSE PST think. BECAUSE 3SG heart INTS sharp be.
-(I wondered whether he could guide me for a day or two, since his mind was so sharp.)
+lao shia korua ru tiso nai mia wela shia sui ta sola wi philo mia po kulo welo to remo.
+BECAUSE 3SG heart INTS sharp be 1SG INT.COMP 3SG DUR one DISJ two day 1SG POT guide INT.COMP.CLOSE PST think.
+(Because his mind was so sharp, I wondered whether he could guide me for a day or two.)
 morris: "I wonder, by the way, whether I couldn't hire him as a guide for a day or two, since he is so intelligent."
 
 pheo thena mia newu melu roe nulo remo to haolu.
@@ -886,9 +886,9 @@ thia mena mia thia to pheloma meno remo. thelao thia mena thia wei mia thena na 
 (You think that I have done you a service; so you feel yourself bound to give me something.)
 morris: "You think that I have done you a service; so you feel yourself bound to give me something"
 
-whekai mia wei phewani ra thena ro ma loa. li lu phewani wei mia phirae thena to ki phoa.
-CONTR 1SG DAT neighbor DIST thing HAB NEG give. RESTR COND neighbor DAT 1SG different thing PST PFV do.
-(But such a thing I do not give to a neighbour, unless he has done something apart for me.)
+lu phewani wei mia phirae thena to ki ma phoa. whekai mia wei phewani ra thena ro ma loa.
+COND neighbor DAT 1SG different thing PST PFV NEG do. CONTR 1SG DAT neighbor DIST thing HAB NEG give.
+(If a neighbour has not done something special for me, I do not give them such a thing.)
 morris: "which I am not to give to a neighbour, unless he has done something special for me."
 
 mia ha keno lo haolu to ti hea.
@@ -906,13 +906,13 @@ mia thue phialu miona kolua. ha mia riola nai. mia wei theula miona ha ro phoa.
 (And you see, I carry people over the water: this is my work, which I would do for anybody.)
 morris: "And you see this ferrying and giving people casts about the water is my _business_, which I would do for anybody;"
 
-lu mia nua riola lo loami pilu lo miona ha ru kuewa so nila.
-COND 1SG COM labor PL gift take PL person PROX INTS strange FUT see.
+lu mia nua riola lo loami pilu. lo miona ha ru kuewa so nila.
+COND 1SG COM labor PL gift take. PL person PROX INTS strange FUT see.
 (So if I took gifts along with the work, people would see that as very strange.)
 morris: "so to take gifts in connection with it would look very queer."
 
-sheno lu ta miona wei mia thena loa wi miona so po loa. pheo thena mo lo miona so po loa.
-ADD COND one person DAT 1SG thing give two person FUT POT give. POST thing CMPR PL person FUT POT give.
+lu sheno ta miona wei mia thena loa. wi miona so po loa. pheo thena mo lo miona so po loa.
+COND ADD one person DAT 1SG thing give. two person FUT POT give. POST thing CMPR PL person FUT POT give.
 (Besides, if one person gave me something, a second might, and then more might, and so on.)
 morris: "Besides, if one person gave me something, then another might, and another, and so on;"
 
@@ -1007,24 +1007,19 @@ mia mena thia kuewa miona nai meno ke sano. thia lue ru phirae lokue na kamo.
 (For, not to mince matters, I can tell that you are a stranger, and must come from a very different place.)
 morris: "For, not to mince matters, I can tell that you _are_ a stranger, and must come from a place very unlike England."
 
-lu mia nosa wei thia ha lokue theula sano loa ha thia so ma naphe. thia ha roe lo thiku phanoi na milau.
-COND 1SG now DAT 2SG PROX place UNIV know give PROX 2SG FUT NEG help. 2SG PROX INS PL small portion NEC drink.
-(But it would not do to give you all the knowledge of this place at once; you must drink it in by small draughts.)
+lu mia nosa wei thia ha lokue theula sano loa. ha thia so ma naphe. thia ha roe lo thiku phanoi na milau.
+COND 1SG now DAT 2SG PROX place UNIV know give. PROX 2SG FUT NEG help. 2SG PROX INS PL small portion NEC drink.
+(If I give you all the knowledge of this place now, that will not help you. You must drink it in by small draughts.)
 morris: "But also it is clear that it won't do to overdose you with information about this place, and that you had best suck it in little by little."
 
-sheno lu thia mena mia rena wei thia lo mia newu punoa ka nila miona kelu meno kelomi ha wei mia ru phena so nai.
-ADD COND 2SG DECL.COMP 1SG REL DAT 2SG PL 1SG new society CAUS see person become DECL.COMP.CLOSE accept PROX DAT 1SG INTS kind FUT be.
-(Further, I should take it as very kind of you if you would accept me as the one who shows you our new world.)
-morris: "Further, I should take it as very kind in you if you would allow me to be the showman of our new world to you,"
+lu thia mena mia rena wei thia lo mia newu punoa ka nila miona kelu meno kelomi. sheno lao thia lue soleha mia nu ta to hekawi ha wei mia ru phena so nai.
+COND 2SG DECL.COMP 1SG REL DAT 2SG PL 1SG new society CAUS see person become DECL.COMP.CLOSE accept. ADD BECAUSE 2SG ABL luck 1SG ORD one PST find PROX DAT 1SG INTS kind FUT be.
+(If you accept me as the person who shows you our new world, then, since by good luck you found me first, that will be very kind to me.)
+morris: "Further, I should take it as very kind in you if you would allow me to be the showman of our new world to you, since you have stumbled on me first."
 
-lao thia lue soleha mia nu ta to hekawi.
-BECAUSE 2SG ABL luck 1SG ORD one PST find.
-(Since by good luck you found me first.)
-morris: "since you have stumbled on me first."
-
-shai ha li thia phena loami so nai. pai theula miona thia phea mia towe po kulo. sheloi miona thia sheo mia mo towe po kulo.
-CONC PROX RESTR 2SG kind gift FUT be. NEAR UNIV person 2SG AS 1SG well POT guide. MANY person 2SG THAN 1SG CMPR well POT guide.
-(Though it will be a mere kindness on your part: almost anyone could guide you as well as I, and many could guide you better.)
+whekai ha li thia phena loami so nai. pai theula miona thia phea mia towe po kulo. sheloi miona thia sheo mia mo towe po kulo.
+CONTR PROX RESTR 2SG kind gift FUT be. NEAR UNIV person 2SG AS 1SG well POT guide. MANY person 2SG THAN 1SG CMPR well POT guide.
+(Still, it will be a mere kindness on your part: almost anyone could guide you as well as I, and many could guide you better.)
 morris: "Though indeed it will be a mere kindness on your part, for almost anybody would make as good a guide, and many much better.\""
 
 mu phelira remo kiroa mua shia to ke nai.
@@ -1032,9 +1027,9 @@ zero mistaken think sign LOC 3SG PST INFER be.
 (There seemed to be no sign of mistaken thinking in him.)
 morris: "There certainly seemed no flavour in him of Colney Hatch;"
 
-sheno mia mena lu shia phelira remo phelu mia phei shia po kethua ma wepu meno to remo.
-ADD 1SG DECL.COMP COND 3SG mistaken think hold 1SG AWAY 3SG POT hard NEG go DECL.COMP.CLOSE PST think.
-(And besides, I thought I could easily get away if he held mistaken thoughts.)
+lu sheno shia phelira remo phelu. mia phei shia po kethua ma wepu. mia ha to remo.
+COND ADD 3SG mistaken think hold. 1SG AWAY 3SG POT hard NEG go. 1SG PROX PST think.
+(And besides, if he held mistaken thoughts, I could easily get away from him. That was what I thought.)
 morris: "and besides I thought I could easily shake him off if it turned out that he really was mad;"
 
 thia loa ru phena nai. whekai ha kelomi wei mia kethua nai.
@@ -1042,9 +1037,9 @@ thia loa ru phena nai. whekai ha kelomi wei mia kethua nai.
 ("It is a very kind offer, but it is difficult for me to accept it--")
 morris: "\"It is a very kind offer, but it is difficult for me to accept it, unless--\""
 
-mia mena mia shola li lu thia lo thiku keluo thena kelomi sholo haolu meno to pa thueli.
-1SG DECL.COMP 1SG QUOT.COMP RESTR COND 2SG PL small metal thing accept QUOT.COMP.CLOSE speak DECL.COMP.CLOSE PST INCH intend.
-(I was going to say: "Only if you will accept the metal pieces.")
+mia mena mia shola lu thia lo thiku keluo thena ma kelomi. mia mena thia mia kulo meno so ma kelomi sholo haolu meno to pa thueli.
+1SG DECL.COMP 1SG QUOT.COMP COND 2SG PL small metal thing NEG accept. 1SG DECL.COMP 2SG 1SG guide DECL.COMP.CLOSE FUT NEG accept QUOT.COMP.CLOSE speak DECL.COMP.CLOSE PST INCH intend.
+(I was going to say: "If you will not accept the metal pieces, I will not accept you as my guide.")
 morris: "I was going to say, Unless you will let me pay you properly;"
 
 whekai mia mena mia shia phelira remo so ka turema meno sukima to phaelo. mia haolu to moluki.
@@ -1057,8 +1052,8 @@ mia mena mia thia lue riola sola lue siora natu meno sukima phaelo.
 ("I fear I shall be taking you away from your work--or your amusement.")
 morris: "\"I fear I shall be taking you away from your work--or your amusement.\""
 
-ra mu thena nai. lao ha wei mia soleha so loa. mia wei ta melu welao thena po phoa.
-DIST zero thing be. BECAUSE PROX DAT 1SG luck FUT give. 1SG DAT one friend good thing POT do.
+ra mu thena nai. lao ha wei mia soleha so loa mia wei ta melu welao thena po phoa.
+DIST zero thing be. BECAUSE PROX DAT 1SG luck FUT give 1SG DAT one friend good thing POT do.
 ("Don't trouble about that: it will give me a lucky opening to do a good turn for a friend of mine.)
 morris: "\"O,\" he said, \"don't trouble about that, because it will give me an opportunity of doing a good turn to a friend of mine,"
 
@@ -1082,8 +1077,8 @@ shia mia melu nai. lo mia nolami ru kema nai. thelao shia kau mia to kamo. shia 
 (He is a close friend of mine, so he naturally came to me wanting outdoor work.)
 morris: "and being a great friend of mine, he naturally came to me to get him some outdoor work."
 
-lu thia mia po kelomi pi no mena mia thia kulo meno kelomi.
-COND 2SG 1SG POT accept POL IMP DECL.COMP 1SG 2SG guide DECL.COMP.CLOSE accept.
+lu thia mia po kelomi. pi no mena mia thia kulo meno kelomi.
+COND 2SG 1SG POT accept. POL IMP DECL.COMP 1SG 2SG guide DECL.COMP.CLOSE accept.
 (If you think you can put up with me, please accept that I guide you.)
 morris: "If you think you can put up with me, pray take me as your guide.\""
 
@@ -1107,8 +1102,8 @@ ADD 2SG COM 1SG POT go. 2SG SOME INTS kind person FUT see. 2SG LOC DIST earth PL
 (And besides, you might come with me: you would see some very nice people, and could make notes of our ways in that country.)
 morris: "and besides, you might go with me, you know, and see some very nice people, besides making notes of our ways in Oxfordshire."
 
-lu thia muila nila rinu thia mo welao ruela po ma hekawi.
-COND 2SG earth see want 2SG CMPR good path POT NEG find.
+lu thia muila nila rinu. thia mo welao ruela po ma hekawi.
+COND 2SG earth see want. 2SG CMPR good path POT NEG find.
 (You could hardly find a better road, if you want to see the country.)
 morris: "You could hardly do better if you want to see the country.\""
 
@@ -1122,8 +1117,8 @@ CONS PL 1SG PFV agree. 1SG DAT friend sign FUT send.
 ("Well, then, that's settled. I will give my friend a call.)
 morris: "\"Well, then, that's settled. I will give my friend a call;"
 
-shia phea thia mua phemi womu menui. lu shia si nulae shia mua ha mioru keloi kelua na nowae.
-3SG AS 2SG LOC guest home dwell. COND 3SG IPFV sleep 3SG LOC PROX beautiful summer morning NEC awaken.
+shia phea thia mua phemi womu menui. lu shia si nulae. shia mua ha mioru keloi kelua na nowae.
+3SG AS 2SG LOC guest home dwell. COND 3SG IPFV sleep. 3SG LOC PROX beautiful summer morning NEC awaken.
 (He is living in the Guest House like you; and if he isn't up yet, he ought to be, on this fine summer morning.)
 morris: "he is living in the Guest House like you, and if he isn't up yet, he ought to be this fine summer morning.\""
 ```
@@ -1218,8 +1213,8 @@ shia shola lia. kona ne selomi. thia muo mia riola so lepa. sholo to haolu.
 ("All right, Weaver," said my sculler. "You will drop into my place.)
 morris: "\"All right, Bob,\" said my sculler; \"you will drop into my place,"
 
-lu ha riola thia pushali ne keru we riola si sheraki. shia pai thia menui.
-COND PROX labor 2SG overload NAME keru ALSO labor IPFV search. 3SG NEAR 2SG dwell.
+lu ha riola thia pushali. ne keru we riola si sheraki. shia pai thia menui.
+COND PROX labor 2SG overload. NAME keru ALSO labor IPFV search. 3SG NEAR 2SG dwell.
 (And if this work overloads you, Bright is looking for a stroke of work, and he lives close by you.)
 morris: "and if you find it too much, there is George Brightling on the look out for a stroke of work, and he lives close handy to you."
 
@@ -1228,14 +1223,14 @@ IMP see. PROX strange person DECL.COMP 1SG 3SG guide DECL.COMP.CLOSE want. PROX 
 (But see: this stranger wants me to guide him, and that will keep me amused today.)
 morris: "But see, here is a stranger who is willing to amuse me to-day by taking me as his guide about our country-side,"
 
-thia mena mia ha soleha leiro ma rinu meno po remo. thelao no nosa kau luphonu wepu.
-2SG DECL.COMP 1SG PROX luck release NEG want DECL.COMP.CLOSE POT think. CONS IMP now ALL boat go.
+thia mena mia ha soleha leiro ma rinu meno po remo. no thelao nosa kau luphonu wepu.
+2SG DECL.COMP 1SG PROX luck release NEG want DECL.COMP.CLOSE POT think. IMP CONS now ALL boat go.
 (You may imagine I don't want to let that luck go; so you had better take to the boat at once.)
 morris: "and you may imagine I don't want to lose the opportunity; so you had better take to the boat at once."
 
-whekai mia ha riola laeno thimu so ma phelu. lao pheo phina philo lo mia mua lo whelina pelowa na nai.
-CONTR 1SG PROX labor long time FUT NEG hold. BECAUSE POST FEW day PL 1SG LOC PL grass meadow NEC be.
-(But in any case I shouldn't have kept hold of this work for long, since in a few days I must be in the hay-fields.)
+whekai lao pheo phina philo lo mia mua lo whelina pelowa na nai mia ha riola laeno thimu so ma phelu.
+CONTR BECAUSE POST FEW day PL 1SG LOC PL grass meadow NEC be 1SG PROX labor long time FUT NEG hold.
+(But since in a few days we must be in the hayfields, I should not have kept hold of this work for long in any case.)
 morris: "But in any case I shouldn't have kept you out of it for long, since I am due in the hay-fields in a few days.\""
 
 newu miona lo manuwe wiso to rohi. shia siora to phaelo.
