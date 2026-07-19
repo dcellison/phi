@@ -451,11 +451,11 @@ Twenty-nine aligned units change. Every `morris:` line remains byte-for-byte unc
 
 ## Transmutation review: News from Nowhere, chapter 2
 
-Morris's second chapter has 241 aligned source units. The revised Phi uses 359 unique forms. Five optional roots enter with seven memberships across four modules: Accessibility and Participation, Household and Daily Life, Systems and Shared Infrastructure, and Work, Craft, and Repair. The room, meals, and limits of work earn that vocabulary; the rest of the chapter remains largely in the base language.
+Morris's second chapter has 241 aligned source units. The revised Phi uses 361 unique forms. Five optional roots enter with seven memberships across four modules: Accessibility and Participation, Household and Daily Life, Systems and Shared Infrastructure, and Work, Craft, and Repair. The room, meals, and limits of work earn that vocabulary; the rest of the chapter remains largely in the base language.
 
 ### Post-migration contextual retrofit
 
-Fifty aligned units change. Every `morris:` line remains byte-for-byte unchanged. The longer count reflects the chapter's length and its accumulation of small distinctions. Searching does not promise discovery. The bugle also parts company with the flute, to the probable relief of both.
+Fifty-seven aligned units change. Every `morris:` line remains byte-for-byte unchanged. The longer count reflects the chapter's length and its accumulation of small distinctions. Searching does not promise discovery. The bugle also parts company with the flute, to the probable relief of both.
 
 | Question | Disposition | Reason |
 |---|---|---|
@@ -463,6 +463,7 @@ Fifty aligned units change. Every `morris:` line remains byte-for-byte unchanged
 | Awareness and bodily sensation | Use `selua` and `wiloru`; retain `waeli` for the wider waking state | Awareness of the place, dizziness, and full consciousness are distinct claims. The narrator's clear mind remains a further sentence. |
 | Search, material, form, and wear | Use `sheraki`, `teshilo`, `luwae`, `phiro`, and `rohemi` | Eyes search without guaranteeing discovery, and Bright is still looking for work rather than finding it. The clasp is steel, the bridges have graceful and elegant form, and exposed stone weathers without being declared damaged. |
 | River life and landscape | Give `kawepa` its salmon object, use `thelomi` for the lake, and retain `pilomu` for Morris's tree label | `kawepa` reports the net meeting the moving fish and leaves what follows to another clause. Lake need not borrow pond, while the sycamore entry deliberately leaves exact species to the source or local name. |
+| Tide and service | Use `lunisa` through the river scene and `pheloma` for the work done for another person | Flood, ebb, the boat held against the tide, and Dick's guess now keep the tidal cycle in view. Both speakers describe the ferrying as service rather than reducing it to a particular act of help. |
 | Difficulty and simplicity | Use negated `kethua` for easy passage or escape and positive `kethua` for troublesome custom and hard acceptance; retain `siloma` for the garment's simple construction | English *easy* no longer pulls simplicity into effort. The one remaining `siloma` describes structure, which is its proper work. |
 | Guidance, workload, and ordinary acts | Keep `kulo` as an action with participants visible, use `pushali` for work beyond present capacity, `pilewa` for the clasp's making, and `rohi` for rubbing hands | The proposal is to guide a person, not to transform into an abstract guidance. Overload leaves the work meaningful. `pilewa` names the crafted piece, and rubbing differs physically from wiping. |
 | Rooms, blankets, and meals | Use Household `tholupi`, `wethamo`, and `nurome` | The hot interior is a room, bedclothes are blankets, and breakfast or dinner is a meal rather than food in general. These are ordinary details, which is precisely why the Household module has them. |
@@ -493,7 +494,27 @@ Forty-six aligned units change, and every `morris:` line remains byte-for-byte u
 | Transparent compositions | Keep stone rainbows, the fire-blowing device, the gray horse, the old oar-man, and the description of lead by inferred weight | These phrases remain more revealing than a narrow label. The exact metal and vanished occupations stay available in Morris's adjacent witness. |
 | Optional module reach | Use 14 roots with 15 memberships across five modules | Accessibility contributes `kelasu`; Commons contributes six roots; Ecological contributes `telo`; Household contributes `nurome` and `tholupi`; Work contributes five roots and shares `telo`. No module is added merely to raise the count. |
 | Source boundaries and peace linguistics | Preserve Morris's exact dates, places, gendered sorting, armor, and fighting language beside the established transmutation choices | Phi reports authority, harm, retaliation, and guardianship without cleaning the narrator's politics or importing martial vocabulary for the golden coat. |
-| Active dependencies | Update the chapter notes, review ledger, progress records, handoff, and phonetic-neighbour attestations | All 245 source units retain their exact Morris lines. The literary retrofit is complete, and the next contextual pass begins at the book's cold open. |
+| Active dependencies | Update the chapter notes, review ledger, progress records, handoff, and phonetic-neighbour attestations | All 245 source units retain their exact Morris lines. The literary retrofit is complete, and the drafted-book review now carries its method and vocabulary forward. |
+
+## Contextual review: the drafted Phi book
+
+The drafted book comprises its cold open, chapters 1 through 6, and chapter 11. Fifteen fenced Phi examples appear across five of those files, with inline forms carrying the language through the others. Thirteen blocks remain exact. Two in the cold open change: service receives its direct word, and Dick's full answer now carries the tide into the Phi quotation.
+
+### Post-migration contextual retrofit
+
+The review keeps the garment-and-hand composition, changes no source quotation, and coins no root. Its largest repair is explanatory. `wia` can ask about a count or an amount, so Dick's difficulty is the missing referent supplied by a vanished payment custom, not a grammatical demand that everything become countable. Later chapters also shed three claims inherited from the old lexicon schema: sound symbolism and pillar rationales are optional, while articulatory notes do the required physical work.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| Service and help | Replace `naphe` with `pheloma` in the quoted expectation and both dependent novel units | Morris names service, and Phi already distinguishes work done for another person's use from help offered to a particular activity. The narrator's assumption remains marked by `ho`. |
+| Quantity and the missing object | Describe `wia` as a quantity gap for counts or amounts | A numeral, estimate, quantifier, or unknown answer may fill the gap. The bare question becomes puzzling because the narrator assumes a payment custom that Dick does not share. |
+| The tide | Add the complete reply with `lunisa` and carry the same root through the dependent river scene | The joke lands on Dick's guess. Showing only his failure to understand left out the answer on which the cold open depends. |
+| Translation and transmutation | Name the method accurately and remove the claim that Phi produced Morris's joke without prompting | Morris supplied the misunderstanding. Phi changes its wording under a declared transmutation and exposes the missing economic expectation without claiming authorship of the joke. |
+| Transparent composition | Retain `muo wethalu manuwe sepho` for putting a hand into the garment | Phi has no pocket noun, and the composition preserves the physical act without pretending that the whole garment is a pocket. |
+| Lexicon prose contract | Replace chapter 5's retired `muila` symbolism and chapter 6's claim that names lack two supposedly required optional fields | `muila` now demonstrates articulatory description without a symbolic tale; `nuwera` supplies a genuine optional mnemonic through its audible kinship with `nulae`. A productive name lacks shared lexical definition and classification without being deficient in optional symbolism or philosophy. |
+| Preserved chapters and examples | Leave chapters 1, 3, 4, and 11 unchanged; preserve every non-cold-open block in chapters 2, 4, 6, and 11 | Chapters 1 and 3 contain no Phi sentence requiring retrofit. The remaining examples already agree with their literary or manual sources and the completed lexicon. |
+| Optional module reach | Add no optional root | The cold open's argument belongs to base vocabulary and grammar. Existing module vocabulary in later teaching examples remains where its subject needs it; no term enters merely to display the modules. |
+| Active dependencies | Update chapter 2, the treatment, review ledger, progress records, handoff, and phonetic-neighbour attestations | All Morris lines remain exact, and every drafted Phi book chapter is current. The requested execution-sequence reassessment comes before another corpus pass or a new chapter. |
 
 ## Transmutation review: the original shelf pass
 
@@ -530,7 +551,7 @@ The source citations and gap logs in each pamphlet hold the detailed decisions. 
 | `texts/ring_verse_refusal.md` | Transmutation | Reviewed | The 12-form base-only refusal survives the post-migration pass; completed Commons terms sharpen the account without entering the four lines. |
 | `texts/velveteen_rabbit.md` | Transmutation | Reviewed | The 430-unit post-migration pass changes 46 units and uses 13 optional roots across six modules without altering Williams's source lines. |
 | `texts/news_from_nowhere/chapter_01.md` | Transmutation | Reviewed | The 85-unit post-migration pass changes 29 units and uses six optional roots across four modules without altering Morris's source lines. |
-| `texts/news_from_nowhere/chapter_02.md` | Transmutation | Reviewed | The 241-unit post-migration pass changes 50 units and uses five optional roots with seven memberships across four modules without altering Morris's source lines. |
+| `texts/news_from_nowhere/chapter_02.md` | Transmutation | Reviewed | The 241-unit post-migration pass changes 57 units and uses five optional roots with seven memberships across four modules without altering Morris's source lines. |
 | `texts/news_from_nowhere/chapter_03.md` | Transmutation | Reviewed | The 245-unit post-migration pass changes 46 units and uses 14 optional roots with 15 memberships across five modules without altering Morris's source lines. |
 
-The full transmutation shelf has received its original review and its post-migration contextual retrofit. Selective paired work has added close translations where a second rendering exposes Phi's capacity or its limits without displacing the transmutation. The next pass begins at the Phi book's cold open, where active examples meet teaching prose rather than a literary source line.
+The full transmutation shelf has received its original review and its post-migration contextual retrofit. Selective paired work has added close translations where a second rendering exposes Phi's capacity or its limits without displacing the transmutation. The drafted Phi book is now current, including the dependent tide and service lines in *News from Nowhere* chapter 2. The execution sequence is due for reassessment before the next corpus pass or chapter draft.

@@ -30,11 +30,11 @@ A cold open, fourteen chapters in four parts, and a close. Chapters run 4,000 to
 
 ### Cold open: the boatman
 
-A time traveler in William Morris's News from Nowhere reaches for his money to tip a boatman, and Phi's rendering of the scene produces the question `wia.` (how many) with nothing to count. Morris wrote the boatman's baffled reply, "Do you mean the tide?", in 1890; the grammar produces the same confusion unprompted. One scene, two pages, receipts before philosophy.
+A time traveller in William Morris's News from Nowhere reaches for his money to pay a boatman, and Phi's transmutation gives him the bare question `wia.` (how many) without an understood quantity. Morris wrote the boatman's baffled reply, "Do you mean the tide?", in 1890. Phi does not invent the confusion; its refusal of money leaves the old ambiguity exposed. One scene, two pages, receipts before philosophy.
 
 Receipts: texts/news_from_nowhere/chapter_02.md and its source witness; the wia entry; the exchange refusal in canon.
 
-Opens on the hand going into the garment; ends on the sentence "the language and the book had already agreed."
+Opens on the hand going into the garment; ends with Morris's misunderstanding still waiting at the landing-stage.
 
 ### Part I: The case
 

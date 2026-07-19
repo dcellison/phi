@@ -83,7 +83,7 @@ mia nomei ne samira nai.
 (My name is samira.)
 ```
 
-`samira` has no lexicon entry. So it comes without the shared gloss, part of speech, sound symbolism, and pillar rationale that a vocabulary entry would need. It is a valid three-syllable onym because it follows Phi phonotactics and appears after `ne`; any personal association belongs to its bearer. A person called `ne samira` carries only themselves.
+`samira` has no lexicon entry. It therefore comes without a shared gloss, part of speech, definition, or articulatory note. It is a valid three-syllable onym because it follows Phi phonotactics and appears after `ne`; any personal association belongs to its bearer. A person called `ne samira` carries only themselves.
 
 The productive charter allows one lowercase token of two, three, or four syllables. The syllables stay open, and the token's onset syllables are all distinct. A form that matches a current dictionary entry may be used only if that entry is a content word; function words keep their grammatical work. Four syllables are available here even though shared vocabulary stops at three, because a name identifies one referent rather than asking every learner to acquire another definition.
 

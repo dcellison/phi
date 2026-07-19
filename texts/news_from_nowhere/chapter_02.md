@@ -224,14 +224,14 @@ shia shola wa phialu nuwi nai. mia ha to ma morae. sholo to haolu.
 ("Is it?" he said. "I did not notice it.")
 morris: "\"Is it?\" said he; \"I didn't notice it."
 
-thia sano. rena rihe phialu theula thimu luphore thiku theru ka kelu.
-2SG know. REL rise water UNIV time river small thick CAUS become.
-(You know. The rising water always makes the river a little thick.)
+thia sano. rihe lunisa theula thimu luphore thiku theru ka kelu.
+2SG know. rise tide UNIV time river small thick CAUS become.
+(You know. The rising tide always makes the river a little thick.)
 morris: "You know the flood-tide always thickens it a bit.\""
 
-mia shola lu phialu pai kesho lepa mia luphore muphia welisha we to ki hi nila. sholo to haolu.
-1SG QUOT.COMP COND water NEAR middle fall 1SG river mud color ALSO PST PFV DIR see. QUOT.COMP.CLOSE PST speak.
-("I have seen it mud-colored with my own eyes," I said, "even when the water had fallen only near halfway.")
+mia shola lu lunisa pai kesho lepa mia luphore muphia welisha we to ki hi nila. sholo to haolu.
+1SG QUOT.COMP COND tide NEAR middle fall 1SG river mud color ALSO PST PFV DIR see. QUOT.COMP.CLOSE PST speak.
+("I have seen it mud-colored with my own eyes," I said, "even when the tide had fallen only near halfway.")
 morris: "\"H'm,\" said I, \"I have seen it pretty muddy even at half-ebb.\""
 
 shia mu thena to haolu. whekai shia wakomi to ke phaelo.
@@ -239,22 +239,22 @@ shia mu thena to haolu. whekai shia wakomi to ke phaelo.
 (He said nothing in answer, but seemed to feel some astonishment.)
 morris: "He said nothing in answer, but seemed rather astonished;"
 
-shia mua selu luphonu to ka manolu. mia wethalu to ki leiro. mia whuo hasi muo phialu to tupi.
-3SG LOC flow boat PST CAUS stay. 1SG garment PST PFV release. 1SG WITHOUT wait INTO water PST jump.
-(He held the boat steady in the current; my clothes were off; and I jumped into the water without more waiting.)
+shia mua lunisa luphonu to ka manolu. mia wethalu to ki leiro. mia whuo hasi muo phialu to tupi.
+3SG LOC tide boat PST CAUS stay. 1SG garment PST PFV release. 1SG WITHOUT wait INTO water PST jump.
+(He held the boat steady in the tide; my clothes were off; and I jumped into the water without more waiting.)
 morris: "and as he now lay just stemming the tide, and I had my clothes off, I jumped in without more ado."
 ```
 
 **Notes:** the puzzlement that will run through the chapter is `remo tiwa`, thoughts tied. The first chapter watched threads weave themselves into a story; here they have knotted. `wiloru` states the dizziness itself, while `kuewa` keeps the separate strangeness. The river retains Morris's familiar `menoa`, its face. Biffin's gives up its name as the Thames did, and the boathouse's work survives in the carrying-person the narrator expects to find. `ho` marks "I daresay" as an assumption, which is all the evidence he has.
 
-The tide needs no coined word: the flood-tide is `rena rihe phialu`, the water that rises, the ebb is the water fallen near halfway, and "stemming the tide" is making the boat stay in the flow (`selu`, the river's own verb). The waterman's boat is judged by eye throughout, and `ke` marks every one of those judgments: solid-looking, seemed to expect me, seemed astonished; against them the narrator's one hard piece of evidence, the muddy Thames of his own century, carries `hi`, seen with his own eyes. His compulsion to speak is `na`, necessity: "couldn't help saying" is what the obligation particle is for. Mud-color, `muphia welisha`, composes by the color rule that gives Phi gray and orange.
+`lunisa` keeps the tide present through its changing phases. `rihe lunisa`, the rising tide, carries Morris's flood-tide; the later fall gives the ebb, and the boat stays directly in the tide rather than in a generic flow. The waterman's boat is judged by eye throughout, and `ke` marks every one of those judgments: solid-looking, seemed to expect me, seemed astonished; against them the narrator's one hard piece of evidence, the muddy Thames of his own century, carries `hi`, seen with his own eyes. His compulsion to speak is `na`, necessity: "couldn't help saying" is what the obligation particle is for. Mud-color, `muphia welisha`, composes by the color rule that gives Phi gray and orange.
 
 ## wishe — The swim
 
 ```
-pheo mia koma leo phialu we rihe mia wea selu to rato.
-POST 1SG head ABOVE water ALSO rise 1SG TOWARD flow PST turn.
-(When my head rose above the water again, I turned toward the current.)
+pheo mia koma leo phialu we rihe mia wea lunisa to rato.
+POST 1SG head ABOVE water ALSO rise 1SG TOWARD tide PST turn.
+(When my head rose above the water again, I turned toward the tide.)
 morris: "Of course when I had my head above water again I turned towards the tide,"
 
 mia lo mirae repha to sheraki.
@@ -791,8 +791,8 @@ shia to hasi. ha mia to ma wakomi.
 (He waited; and of course that did not surprise me.)
 morris: "and of course I was not surprised to see him wait,"
 
-mia mena shia rena pheo naphe kamo thena hasi meno to ho remo.
-1SG DECL.COMP 3SG REL POST help arrive thing wait DECL.COMP.CLOSE PST ASSUM think.
+mia mena shia rena pheo pheloma kamo thena hasi meno to ho remo.
+1SG DECL.COMP 3SG REL POST serve arrive thing wait DECL.COMP.CLOSE PST ASSUM think.
 (For I took it as given that he was waiting for the thing that follows a service.)
 morris: "as if for the inevitable after-piece that follows the doing of a service to a fellow-citizen."
 
@@ -816,8 +816,8 @@ how many. 1SG REL 2SG speak thing POT NEG understand.
 ("How many? I don't quite understand what you are asking about.")
 morris: "\"How much? I don't quite understand what you are asking about."
 
-wa thia rena rihe phialu haolu. rihe phialu nosa pai rato nai.
-Q 2SG REL rise water speak. rise water now NEAR turn be.
+wa thia lunisa haolu. lunisa nosa pai rato nai.
+Q 2SG tide speak. tide now NEAR turn be.
 (Do you mean the tide? If so, it is close on the turn now.)
 morris: "Do you mean the tide? If so, it is close on the turn now.\""
 
@@ -881,8 +881,8 @@ mia mena mia thia remo sano meno remo.
 ("I think I know what you mean.")
 morris: "\"I think I know what you mean."
 
-thia mena mia thia to naphe meno remo. thelao thia mena thia wei mia thena na loa meno phaelo.
-2SG DECL.COMP 1SG 2SG PST help DECL.COMP.CLOSE think. CONS 2SG DECL.COMP 2SG DAT 1SG thing NEC give DECL.COMP.CLOSE feel.
+thia mena mia thia to pheloma meno remo. thelao thia mena thia wei mia thena na loa meno phaelo.
+2SG DECL.COMP 1SG 2SG PST serve DECL.COMP.CLOSE think. CONS 2SG DECL.COMP 2SG DAT 1SG thing NEC give DECL.COMP.CLOSE feel.
 (You think that I have done you a service; so you feel yourself bound to give me something.)
 morris: "You think that I have done you a service; so you feel yourself bound to give me something"
 
@@ -987,7 +987,7 @@ INS gold COORD PL thin metal labor DAT 1SG joyful be. PROX close 1SG young make 
 morris: "\"I am fond of working in gold and fine metals; this buckle here is an early piece of mine.\""
 ```
 
-**Notes:** `wia`, how many, leaves its object unstated, so Guide answers with the quantity he can see: the rising water. The narrator's second attempt is `wei thia hina na loa`, what must I give you. Obligation falls on the giving because payment has no Phi root. Coins remain small metal things and the museum a remembering-house. The rulers stay in Morris's lines; Phi describes a recent age, a person in a ship, little great-cats, and flower-shapes. Guide has heard of payment, but his joke about storing friendship-remembrances leaves the awkwardness unresolved. The narrator briefly imagines hiring him, yet Phi can state only the resulting proposal: perhaps this man could guide him for a day or two. Guide calls the custom `kethua`, difficult, and likens its roundabout course to a tied path. The narrator's psychiatric judgement remains his own inference, while the clasp is an early `pilewa`, a thing of its maker's making. Only the blackleaded-stove comparison remains outside the Phi scene.
+**Notes:** `wia`, how many, leaves its object unstated, so Guide answers with the quantity he can see: the tide. Both speakers call the boat work `pheloma`, service, rather than reducing it to `naphe`, a particular act of help. The narrator's second attempt is `wei thia hina na loa`, what must I give you. Obligation falls on the giving because payment has no Phi root. Coins remain small metal things and the museum a remembering-house. The rulers stay in Morris's lines; Phi describes a recent age, a person in a ship, little great-cats, and flower-shapes. Guide has heard of payment, but his joke about storing friendship-remembrances leaves the awkwardness unresolved. The narrator briefly imagines hiring him, yet Phi can state only the resulting proposal: perhaps this man could guide him for a day or two. Guide calls the custom `kethua`, difficult, and likens its roundabout course to a tied path. The narrator's psychiatric judgement remains his own inference, while the clasp is an early `pilewa`, a thing of its maker's making. Only the blackleaded-stove comparison remains outside the Phi scene.
 
 ## kulo — The guide
 

@@ -32,17 +32,17 @@ The effort will inventory existing body, birth, consent, and Medical vocabulary,
 
 ### Legacy vocabulary prose audit
 
-Status: Active, with the lexicon prose contract established.
+Status: Lexicon complete; contextual retrofit in progress.
 
-The existing workflow gives every new or revised entry a separate Humanizer pass and checks it against the [Phi voice guide](../documents/reference/voice_for_models.md). Older canonical JSON entries remain uneven. Their required prose now has a destination in `description`, `articulatory_notes`, structured `examples`, and accurate semantic-domain rationales. Search terms, usage notes, sound symbolism, and direct pillar connections remain optional.
+The workflow gives every new or revised entry a separate Humanizer pass and checks it against the [Phi voice guide](../documents/reference/voice_for_models.md). All 1,275 canonical entries now follow the target contract: definitions live in `description`, physical pronunciation in `articulatory_notes`, and usage in structured `examples`. Content entries also carry accurate semantic-domain rationales. Search terms, usage notes, sound symbolism, and direct pillar connections remain optional.
 
 Articulatory notes follow the word through the mouth and describe breath, contact, release, stress, and hiatus accurately. Sound symbolism has a narrower optional role: it may preserve a genuine Phi-specific association, but it cannot turn a syllable into a hidden morpheme or treat a phoneme's meaning as universal.
 
-The audit works in `vocabulary/`, the canonical source, and generated lexicon references follow through regeneration. It may rewrite English prose while leaving Phi forms and exact glosses fixed. [`documents/validation/vocabulary_prose_coverage.json`](../documents/validation/vocabulary_prose_coverage.json) divides the inventory into legacy, partial, dual, and target states. Each batch refreshes that report, regenerates references, and passes full validation.
+The completed lexicon audit worked in `vocabulary/`, the canonical source, and regenerated every dependent reference. [`documents/validation/vocabulary_prose_coverage.json`](../documents/validation/vocabulary_prose_coverage.json) records 1,275 target entries with no legacy, partial, or dual remainder. The contextual retrofit now checks active Phi against that finished vocabulary. The literary shelf and drafted book are current; the manual, primer, pamphlets, and current documents remain.
 
 ### Lexical relations between content words
 
-Status: Parked while the legacy vocabulary prose audit continues.
+Status: Parked until curated navigation would justify maintaining the field.
 
 Revised definitions already cite the nearest Phi neighbour when the distinction helps a speaker. `thua` (fair) is located against `kolo` (equal), for example. This practice should continue as semantic neighbourhoods are revised, without making every entry recite a family tree. Search terms help English lookup and semantic domains collect broad areas, but neither records a direct relationship between two Phi words.
 
