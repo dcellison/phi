@@ -1,89 +1,91 @@
 # Part 6: Choosing and combining
 
-The four particles are simple alone. Fluency is the seams: the cases that sit between sources, the sentences that need an evidential *and* a negation, the stories whose evidence changes midway. This chapter is all seams.
+The four particles become useful at their boundaries. A memory may come from something once witnessed, a sound may be the event itself or only a sign, and a report may eventually lead a listener to see the event directly. The question throughout is narrower than "How certain am I?" It is "What source am I putting forward for this clause?"
 
-### Boundary cases, adjudicated
+### Memory
 
-Serious speakers ask these sooner or later; here are the adjudications the system itself implies, each reasoned from the boundary rule: *what did your senses actually meet?*
+```
+mia suliwa to hi nila.
+1SG snake PST DIR see.
+(I saw the snake directly.)
+```
 
-**Memory.** You saw it yesterday; you claim it today. Still `hi`. Witnessing does not expire, only tense moves: `mia suliwa to hi nila.` (I saw the snake, myself, then.) If your memory has gone soft enough that you are reconstructing rather than recalling, you have crossed into `ke`, and the honest sentence says so.
+Saying this later still identifies the earlier event as something the speaker saw. The past tense locates the perception; `hi` identifies its source. Neither particle certifies the present accuracy of the speaker's memory. A reconstruction from notes or traces takes `ke`, while a recollection supplied by another person's account takes `ti` when that received source matters.
 
-**Your own inner life.** No particle is needed and none fits well: `mia siora phaelo.` (I feel joy.) You are not witnessing your joy across a gap; you are having it. First-person feeling is the one place where bare assertion is the *most* honest form.
+### One's own inner life
 
-**Dreams.** `mia mua whemura suliwa to nila.` (In my dream I saw a snake.) The dream frame does the epistemic work; inside it, dream-witnessing is witnessing. What you may not do is carry dream-knowledge out of the frame and mark it `hi` at the breakfast table.
+```
+mia siora phaelo.
+1SG joy feel.
+(I feel joy.)
+```
 
-**Sound, smell, and the indirect senses.** Hearing the rain is `hi`: the sound is the event's own body. Smelling smoke and claiming fire is `ke`: the smoke is a trace, however fresh. The nose witnesses smoke; the mind supplies fire.
+An ordinary first-person feeling can remain unmarked because the clause need not make provenance part of its message. This is a common use, not a special evidential exemption. If a speaker is reasoning from bodily signs or repeating what a clinician said, the actual source may be marked in the usual way.
 
-**Being told by a witness.** Your source's certainty does not transfer. The child's `hi` is your `ti`, forever. Reliability can travel; witnesshood cannot.
+### Dreams
 
-### Evidentials under negation
+```
+mia mua whemura suliwa to nila.
+1SG LOC dream snake PST see.
+(I saw a snake in a dream.)
+```
 
-Negation follows the evidential in the stack, and the meaning follows the order; the evidence governs the denial:
+The dream phrase confines the seeing to the dream. It does not turn a dream image into direct perception of a waking snake. Phi has no separate dream evidential; the frame and ordinary source particles keep their stated jobs.
+
+### Sound, smell, and signs
+
+```
+mia pheralu hi hea.
+1SG rain DIR hear.
+(I hear the rain directly.)
+
+pheralu to ke lepa. muila lue phialu nai.
+rain PST INFER fall. earth ABL water be.
+(I infer that rain fell. The ground is wet.)
+```
+
+In the first clause, rain itself reaches the speaker through sound. In the second, wet ground is a sign of an earlier event. Smell and touch follow the same distinction: direct perception supports `hi` for the state perceived, while a conclusion that goes beyond it takes `ke`.
+
+### A report from a witness
+
+One person's source does not transfer automatically to the next speaker. If a child saw the snake and tells a neighbour, the child may use `hi`; the neighbour uses `ti` when that report is the neighbour's source. If the neighbour later sees the snake, a new clause may carry `hi` because the neighbour now has direct perception of their own.
+
+### Evidentials with negation
+
+Negation follows evidentiality in Slot 1:
 
 ```
 shia to hi ma wepu.
 3SG PST DIR NEG go.
-(They did not leave — I was there; I watched them stay.)
+(They did not leave; I witnessed the interval in question.)
 
 shia to ti ma wepu.
 3SG PST REP NEG go.
-(They did not leave — so I am told.)
+(They did not leave, according to a report.)
 ```
 
-Witnessed absence is strong testimony; reported absence is only relayed. Drill the pair until the placement feels inevitable: the evidential is never negated; it locates the speaker, and the deed is what is denied.
+Both clauses deny the departure. The first locates that denial in direct perception, and the second locates it in received information. Reordering the particles cannot make negation apply to the source marker.
 
 ### Evidentials in questions
-
-`wa` opens a question, and an evidential inside it does elegant work. It asks not just *whether* but *how the answerer knows*:
 
 ```
 wa thia suliwa hi nila.
 Q 2SG snake DIR see.
-(Did you see the snake yourself?)
+(Did you see the snake directly?)
 
 wa suliwa ti nai.
 Q snake REP be.
-(Is the snake a thing people are saying?)
+(Is there a report that a snake is present?)
 ```
 
-The first is the household's verification move: the question the elder is really settling by walking to the well. The second asks about the chain itself. A question can request evidence-of-a-kind, and a good answer pays in the coin requested.
+The source particle remains inside the questioned clause. The first asks whether direct perception applies; the second asks whether the proposition is reported. Neither form obliges the answerer to accept the questioner's framing, and an answer may correct the proposed source.
 
-### Switching sources mid-story
+### Switching sources
 
-Real accounts braid sources, and the honest narrator re-marks at every switch. The child's summary at the end of the news chapter is the corpus's own masterclass:
+When a retelling moves from witnessed material to inference or report, each new clause can mark its own source. A long account need not wear one particle throughout. It also need not mark every clause: a source particle appears when provenance is part of what the speaker is saying.
 
-```
-mia suliwa hi nila. sulae ti sano. wheo ke sano. phao ho sano.
-1SG snake DIR see. sulae REP know. elder INFER know. parent ASSUM know.
-(I saw it myself. sulae knew by telling. The elder knew by signs. The parent knew by expectation.)
-```
+The unmarked clause is not a fifth evidential. It asserts without naming a source. That makes it ordinary, not evasive, and keeps the four marked choices available for the moments when the route to a claim matters.
 
-Four clauses, four sources, one true story. Note the discipline: the child does not average the household's knowledge into one confident claim. Each knowing keeps its own passport. Practice retelling any shared event this way (who knew, and how) and the particles will start arriving unbidden.
+### Drill: one event, four routes
 
-### The fifth choice: silence
-
-Omission is a marking too. The unmarked sentence says *this needs no pedigree*: table talk, shared sights, settled knowledge. A speaker who marks everything has misunderstood the system as thoroughly as one who marks nothing; constant `hi` is swagger, constant `ho` is hedging, and both drown the signal. The evidentials are salt, not water. The primer's household uses four in one chapter because that chapter is *news*; most chapters of a life are not.
-
-### Drill: the braided retelling
-
-Yesterday: you watched the morning rain; thinoe told you the well path flooded; you found the garden gate open and concluded the dog had been through; and you expect sulae stayed home, as she does in rain. Tell the day in four sentences, one source each. One good version:
-
-```
-pheralu sui kelua to hi lepa.
-rain DUR morning PST DIR fall.
-(Rain fell in the morning — I watched it.)
-
-phitura ruela to ti phialu howela.
-well path PST REP water receive.
-(The well path took water — thinoe told me.)
-
-lohau thue thepalu to ke wepu. mia mua muila lohau ruela to nila.
-dog THROUGH garden PST INFER go. 1SG LOC earth dog path PST see.
-(The dog went through the garden — I infer; I saw his trail in the earth.)
-
-sulae mua womu to ho manolu.
-sulae LOC home PST ASSUM stay.
-(sulae stayed home, I expect — she does, in rain.)
-```
-
-Four sentences, four honest debts, each paid in its own coin. That is the whole system, working.
+Imagine that the well path flooded yesterday. Say this four times: once because you watched the water rise, once because you found silt on the path, once because the elder told you, and once because this path usually floods after rain. The event stays the same, but the appropriate source moves through `hi`, `ke`, `ti`, and `ho`.

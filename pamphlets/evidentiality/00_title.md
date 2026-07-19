@@ -2,21 +2,13 @@
 
 ## A practice companion to the manual
 
-This pamphlet practices Phi's four evidential particles (`hi`, I witnessed it; `ke`, I infer it; `ti`, someone told me; `ho`, I assume it) until choosing among them is as unconscious as choosing a tense. The machinery is the manual's: chapter 16 owns the doctrine, and this pamphlet never restates what it can point to. What the manual cannot give you is volume, and volume is what turns a grammatical option into a habit of mind.
+A child sees a snake at the well. A friend hears the news, an elder finds a trail, and a parent expects the snake to avoid the gathering. The event is one; the routes to each account are not. Phi can make those routes audible with four particles: `hi` for direct perception, `ke` for inference from particular signs, `ti` for a report, and `ho` for background assumption.
 
-The primer's last grammar chapter ends on the sentence this pamphlet serves: *Phi does not ask you to be certain. It asks you to be exact about how you are not.* Exactness under uncertainty is a skill, and skills are built by repetition. Expect drills.
+The manual's chapter 16 owns the definitions. This pamphlet supplies room to compare them, place them in the Slot 1 stack, and practise the places where one source shades into another. It also keeps apart several questions that are easily bundled together. A source marker is not a guarantee of truth, a grade of confidence, or a certificate of good faith.
 
-By the end of this pamphlet, you will:
+By the end, the four particles should be easier to hear and place. The exercises move from the snake at the well into reported speech, negation, questions, short narratives, and an optional journal form. A clause takes no more than one evidential; when two routes matter, Phi gives each its own sentence.
 
-- Hear the difference between the four sources before you finish hearing the sentence
-- Place any evidential correctly in the Slot 1 stack without counting on your fingers
-- Choose between `hi` and `ke` at the boundary where witnessing shades into reading signs
-- Choose between `ke` and `ho` at the boundary where evidence shades into expectation
-- Keep `ti` honest across chains of retelling, and layered under reported speech
-- Say true things about other minds without trespassing on them
-- Keep a journal in the three-line form, where evidentiality does its quietest work
-
-This pamphlet assumes the particle system (manual ch9), tense and aspect (ch14), and the complementizers (ch19); the reportative chapter leans on that last one. It is a companion to manual Part IV, chapter 16.
+This pamphlet assumes the particle system in manual chapter 9, tense and aspect in chapter 14, and the complement frames in chapter 19. It is a companion to manual Part IV, chapter 16.
 
 ---
 
@@ -25,14 +17,14 @@ This pamphlet assumes the particle system (manual ch9), tense and aspect (ch14),
 1. Four sources, one stack
 2. Witness: `hi`
 3. Signs: `ke`
-4. Word: `ti`
+4. Report: `ti`
 5. Expectation: `ho`
 6. Choosing and combining
-7. The honest journal
+7. A journal of sources
 8. Common errors
 9. Exercises
 10. Appendix: quick reference
 
 ---
 
-*"theula miona shewo haolu." Everyone spoke truly. Not everyone knew the same way; that is the point.*
+The elder ends the primer's story with `theula miona shewo haolu`, everyone spoke truly. That is the elder's judgement after the account. The four particles did not supply it.

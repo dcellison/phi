@@ -1,20 +1,20 @@
 # Part 9: Exercises
 
-Answers follow at the end. Where an exercise asks for judgment, the key gives the reasoning, not just the mark: check your *why* against it.
+The answer key explains which source each marked clause presents. Where more than one sentence is possible, the intended context decides whether the source is worth stating.
 
 ## Part A: Name the source
 
-For each situation, choose `hi`, `ke`, `ti`, `ho`, or no mark, and say the Phi sentence.
+For each situation, choose `hi`, `ke`, `ti`, `ho`, or no mark, and write the Phi sentence.
 
-1. You watched sulae arrive this morning. Report her arrival.
-2. Her basket is by the door; you have not seen her. Report her arrival.
-3. siora told you she arrived. Report her arrival.
-4. It is market day, and she always comes on market day. Report her arrival.
-5. You are chatting about the weather while both of you stand in the rain.
+1. You watched sulae arrive this morning. Report the arrival with witnesshood made explicit.
+2. Her basket is by the door; you have not seen her. Infer that she arrived.
+3. siora told you that sulae arrived. Report the arrival.
+4. It is market day, and sulae usually comes on market day. Say that she will come.
+5. You and a friend are standing in the rain. Say that rain is falling without making source part of the message.
 
 ## Part B: Order the stack
 
-Rebuild each scrambled particle set into a correct sentence. (All are past-tense claims about the elder going to the well.)
+Rebuild each scrambled particle set into a correct sentence. All three concern the elder going to the well.
 
 6. `wheo / wepu / hi / to / kau phitura`
 7. `wheo / wepu / ma / ti / to / kau phitura`
@@ -22,72 +22,74 @@ Rebuild each scrambled particle set into a correct sentence. (All are past-tense
 
 ## Part C: Translate into Phi
 
-9. Rain fell; someone told me.
-10. The child is probably asleep.
-11. Did you yourself see the snake?
-12. They did not leave; I watched them stay.
-13. I am told that the elder said the well path took water.
+9. Rain fell, according to a report.
+10. I assume that the child is asleep.
+11. Did you see the snake directly?
+12. They did not leave; I witnessed the interval in question.
+13. The elder reportedly said that the well path took water.
 
-## Part D: Translate into English (with the evidential's force)
+## Part D: Translate into English
 
 14. `mia suliwa ruela to hi nila.`
-15. `sulae so ho shua.`
+15. `ne sulae so ho shua.`
 16. `suliwa ke nai. mia ruela mua muila nila.`
 17. `wa suliwa ti nai.`
 
-## Part E: Repair the claim
+## Part E: Compare source and situation
 
-Each item is grammatical. Decide whether it is also honest; if not, repair it.
+Each item is grammatical. Decide whether its source marker matches the situation. If it does not, repair it.
 
-18. `pheralu to hi lepa.`: said by someone who woke to wet ground.
-19. `suliwa ti nai.`: said by the child who saw the snake.
-20. `thia siora phaelo.`: said to a friend whose smile you have just noticed.
-21. `sileta ti keru loa.`: offered as a remark about the sun.
+18. `pheralu to hi lepa.` is said by someone whose only evidence is wet ground after waking.
+19. `suliwa ti nai.` is said by the child whose only source is seeing the snake.
+20. `thia siora phaelo.` is said to a friend whose smile the speaker has noticed.
+21. `sileta ti keru loa.` is offered as an ordinary remark about the sun, with no particular report under discussion.
 
-## Part F: The braided week
+## Part F: A short source ledger
 
-Write six journal witness lines in the three-line form's first slot, one for each prompt, choosing marks honestly: (a) something you watched happen; (b) something you concluded from a trace; (c) something a household member told you; (d) something you expect but did not check; (e) a day with no kept image, honestly recorded; (f) rewrite line (b) as the two-sentence habit: claim plus evidence.
-
-There is no key for Part F. Read your six lines aloud a day later; you will know.
+Choose one event from your day. Write one clause using the source you actually had. Then imagine that you had learned the same event by a different route and rewrite the clause with the corresponding particle. If the first clause does not need provenance at all, leave it unmarked and explain why.
 
 ---
 
 ## Answer key
 
-**Part A.**
+### Part A
 
-1. `sulae sui kelua to hi shua.`: witnessed arrival, `hi` spent on the news of it.
-2. `sulae to ke shua. mia shia wiru mua ponu nila.` The basket is a trace: claim marked, evidence bare.
-3. `sulae to ti shua. siora mia shane.`: relay plus named source.
-4. `sulae so ho shua.` (or past `to ho shua` if the market has closed): pattern, not evidence.
-5. No mark: `pheralu lepa.` You are both in it; a pedigree would be comedy.
+1. `ne sulae sui kelua to hi shua.` Direct perception is explicit.
+2. `ne sulae to ke shua. mia shia wiru mua ponu nila.` The basket is evidence specific to this arrival.
+3. `ne sulae to ti shua. ne siora mia shane.` The source is a report, and the second clause names it.
+4. `ne sulae so ho shua.` Habit supplies a background expectation.
+5. `pheralu lepa.` The assertion leaves source unstated. `pheralu hi lepa.` would also be grammatical, but it would make direct perception part of the message.
 
-**Part B.**
+### Part B
 
-6. `wheo kau phitura to hi wepu.`: S PP, then past, then witness, then verb.
-7. `wheo kau phitura to ti ma wepu.` Tense, evidential, negation, verb: the told-of not-going.
-8. `wheo kau phitura to si ke wepu.` Tense, aspect, evidential: was going, as I infer.
+6. `wheo kau phitura to hi wepu.`
+7. `wheo kau phitura to ti ma wepu.`
+8. `wheo kau phitura to si ke wepu.`
 
-**Part C.**
+The verb-phrase particles in the last answer follow tense, aspect, then evidentiality. The prepositional phrase remains before the Slot 1 cluster and predicate.
+
+### Part C
 
 9. `pheralu to ti lepa.`
 10. `lopia ho nulae.`
 11. `wa thia suliwa hi nila.`
 12. `shia to hi ma wepu.`
-13. `mia ti mena phitura ruela phialu to howela meno hea.` The layered form: report of a saying of a taking-of-water.
+13. `wheo mena phitura ruela phialu to howela meno to ti haolu.`
 
-**Part D.**
+In answer 13, the entire `mena ... meno` complement precedes the matrix Slot 1 cluster `to ti` and the predicate `haolu`.
 
-14. "I saw the snake's trail myself.": the witness claim covers the trail, and only the trail.
-15. "sulae will come, I expect.": pattern-based, open to correction.
-16. "There is a snake; I infer. I see the trail in the earth.": the two-sentence habit, working.
-17. "Is the snake just something people are saying?": a question about the chain, not the snake.
+### Part D
 
-**Part E.**
+14. I saw the snake's trail directly.
+15. I assume that sulae will come.
+16. I infer that a snake is present. I see a trail in the earth.
+17. Is there a report that a snake is present?
 
-18. Not honest as marked: wet ground is a trace. `pheralu to ke lepa. muila lue phialu nai.`
-19. Under-claimed: the child is the witness and may say so. `mia suliwa hi nila.` Modesty about sourcing is a virtue, but false modesty garbles the chain for everyone downstream.
-20. Trespass as marked, however kind. The smile is evidence: `thia ke siora phaelo.` Or, the better move entirely, `wa thia siora phaelo.`
-21. The `ti` is technically defensible and socially strange: the sun's giving of light is settled knowledge, and marking it implies doubt where none exists. Unmarked is correct: `sileta keru loa.`
+### Part E
 
-**A note on 19.** It is the key's only *under*-marking repair, and worth a pause: evidentiality is not a humility contest. The system wants accuracy in both directions: claim no more than you know, and no less. The child who says `ti` about their own witnessing has not been humble; they have misfiled the household's only firsthand report.
+18. The source does not match. Wet ground is a sign, so `pheralu to ke lepa. muila lue phialu nai.` fits the stated situation.
+19. If the child's sight is the only source, `ti` does not match. `mia suliwa hi nila.` makes direct perception explicit; `suliwa nai.` is also possible when source is not part of the message.
+20. The clause is grammatically possible and names no source. If the speaker intends to expose the inference from the smile, `thia ke siora nai.` does so. `wa thia siora nai.` lets the friend answer instead.
+21. Nothing grammatical is wrong with `ti` here, but it makes received provenance salient. In the stated ordinary context, `sileta keru loa.` better matches the message.
+
+Part F has no single answer. The two clauses should differ only where the imagined source or the decision to state it requires a difference.

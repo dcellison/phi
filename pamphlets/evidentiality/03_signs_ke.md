@@ -1,74 +1,77 @@
 # Part 3: Signs (`ke`)
 
-`ke` marks the claim your reasoning reached from evidence your senses gathered. It is the working evidential of daily life, because most of what anyone "knows" arrived exactly this way: through traces, patterns, and absences. The manual (ch16) owns the definition; the skill here is the *two-sentence habit*.
+`ke` marks a conclusion drawn from evidence specific to the case. The speaker perceived something, then reasoned beyond it.
 
-### The two-sentence habit
+### A conclusion and its evidence
 
-The elder at the well does not just conclude. The elder shows the work:
+The elder at the well gives the inference and the observations separate clauses:
 
 ```
 suliwa ke nai. mia suliwa ma nila. mia ruela mua muila nila.
 snake INFER be. 1SG snake NEG see. 1SG path LOC earth see.
-(There is a snake — I infer it. I do not see the snake. I see the trail in the earth.)
+(There is a snake; I infer it. I do not see the snake. I see the trail in the earth.)
 ```
 
-Claim with `ke`, then evidence unmarked. This is the pattern to drill until it is a reflex, because it is what makes `ke` conversationally complete: a `ke` claim invites the question *what did you see?*, and a good speaker answers it before it is asked. The manual's dispute scene runs on exactly this exchange: `thia hina ke nila.` (what did you infer from?) is a real question in Phi, and having an answer ready is part of what the particle means.
+The first clause carries `ke`. The two observations stay unmarked because their sources are not part of those assertions. This two-sentence habit is useful rather than grammatical: `ke` does not require the evidence to be spoken, but naming it gives the listener something concrete to examine.
 
-### Absence is evidence too
+### Absence as a sign
 
-Inference does not need a positive trace. The missing thing is a sign like any other:
+An observed absence can support an inference when the missing thing would ordinarily be present.
 
 ```
 melu to ke wepu. mia shia wiru ma nila.
 friend PST INFER go. 1SG 3SG basket NEG see.
-(The friend has left — I infer. I do not see her basket.)
+(I infer that the friend left. I do not see their basket.)
 ```
 
-Cultivate this pair shape with different absences: no light, no voice, no footprints, an unwatered garden. The reasoning stays honest as long as the absence is truly observed and the leap is truly acknowledged.
+The absent basket is not proof of departure. It is the stated basis for a conclusion that may need another look. `ke` keeps that reasoning step audible.
 
-### The `hi`/`ke` boundary, drilled
+### The `hi` and `ke` boundary
 
-The boundary rule from Part 2: sense meets event → `hi`; sense meets trace, mind meets event → `ke`. Boundary cases build judgment:
+Compare hearing rain with finding wet earth later:
 
 ```
 mia pheralu hi hea.
 1SG rain DIR hear.
-(I hear the rain — hearing counts; the event itself is meeting my ears.)
+(I hear the rain directly.)
 
 pheralu to ke lepa. muila lue phialu nai.
 rain PST INFER fall. earth ABL water be.
-(It rained — I infer. The ground is wet.)
+(I infer that rain fell. The ground is wet.)
 ```
 
-Hearing rain on the roof is witness: sound is the event's own body. Wet ground an hour later is inference. Between them lies a gradient every speaker walks daily; the particles do not remove the judgment, they *record* it.
+In the first clause, the speaker directly perceives the falling rain through sound. In the second, the wet ground is a present sign of a past event. The boundary can require judgement, especially when a perception is incomplete. The particles record the route the speaker chooses; they do not decide whether the choice was good.
 
-### Drill: mark the claim, not the evidence
+### Reading another person
 
-Each item gives a perception and a conclusion. Produce two Phi sentences: the conclusion marked `ke`, the perception unmarked. Answers below.
+```
+thia ke shorui nai.
+2SG INFER weary be.
+(I infer that you are weary.)
+```
 
-1. The soup pot is empty → the household has eaten.
-2. The dog is at the door, ears up → someone comes.
-3. The garden earth is turned → the elder worked this morning.
-4. Your friend's eyes are heavy → she is weary.
+Here a face, posture, or voice may be the evidence, but `ke` supplies no privileged access to the person's experience. The person may correct the inference. When their answer is available, `wa thia shorui nai.` asks instead of concluding.
 
-Answers (one good version each; yours may differ in vocabulary, not in placement):
+### Drill: mark the conclusion
+
+Each item gives a conclusion and the observation behind it. Put `ke` on the conclusion and leave the supporting perception unmarked.
 
 ```
 1. lo mia to ke nuola. mia mua tomi mawha sulopa nila.
    PL 1SG PST INFER eat. 1SG LOC pot NONE soup see.
-   (We have eaten — I infer. I see no soup in the pot.)
+   (I infer that we ate. I see no soup in the pot.)
 
 2. miona ke shua. lohau mua ponu nai.
    person INFER come. dog LOC door be.
-   (Someone comes — I infer. The dog is at the door.)
+   (I infer that someone is coming. The dog is at the door.)
 
 3. wheo sui kelua to ke riola. muila to se helui.
    elder DURING morning PST INFER labor. earth PST PASS change.
-   (The elder worked during the morning — I infer. The earth was turned.)
+   (I infer that the elder worked during the morning. The earth was changed.)
 
 4. thia ke shorui nai.
    2SG INFER weary be.
-   (You must be weary — I can see it.)
+   (I infer that you are weary.)
 ```
 
-Item 4 has no second sentence, and that is a lesson in itself: when the evidence is the other person's own face, saying it aloud can be an intrusion. `ke` alone does the honest work: it admits the reading without conducting the examination in public. Part 5 returns to this courtesy from the other side.
+The fourth answer leaves its evidence private. `ke` still exposes the inferential step, and the listener still has room to answer for themselves.

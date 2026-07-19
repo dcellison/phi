@@ -1,34 +1,34 @@
 # Part 2: Witness (`hi`)
 
-`hi` claims the most a Phi speaker can claim: my senses met the event itself. The manual (ch16) draws the boundary; this chapter walks it until you stop needing the map.
+With `hi`, a speaker says that their own senses met the event or state. It makes witnesshood explicit when witnesshood matters.
 
-### What it buys you
-
-Since unmarked speech already implies ordinary firsthand confidence, `hi` is never grammatically required. It is *spent* only on the occasions when witnessing is the point:
+### What `hi` adds
 
 ```
 suliwa mua phitura nai. mia suliwa hi nila.
 snake LOC well be. 1SG snake DIR see.
-(A snake is at the well. I saw it with my own eyes.)
+(A snake is at the well. I see it with my own eyes.)
 ```
 
-The child at the well does not say `hi` to be grammatical. The child says `hi` because a snake at the well is *news*, and news demands its pedigree. Compare the same fact unmarked: `mia suliwa nila.` True, but flat, a remark, not a testimony. The primer's gloss on this is worth keeping whole: *that is the strongest thing a Phi speaker can say about anything, and the language spends it carefully.*
+The same sight can be asserted without an evidential: `mia suliwa nila.` The unmarked form names no source. Adding `hi` puts the speaker on record as a direct perceiver; it does not make the eyesight better or the sentence true.
+
+News and testimony are common places for that distinction, but grammar does not require it there. A speaker may leave provenance unstated. Choosing `hi` makes a source statement that another person can question.
 
 ### Where witnessing ends
 
-Every sense counts (sight, hearing, touch, taste, smell), but the sense must meet the *event*, not its traces:
+Sight is not privileged. Hearing, touch, taste, and smell can support `hi` when the sense meets the event or state being described.
 
 ```
 mia lohau hi hea.
 1SG dog DIR hear.
-(I heard the dog — my own ears.)
+(I hear the dog directly.)
 
 mia sulopa hi thorima.
 1SG soup DIR taste.
-(I tasted the soup myself.)
+(I taste the soup directly.)
 ```
 
-But the wet ground is not the rain, the empty room is not the leaving, and the trail in the earth is not the snake. The moment your claim outruns your senses by even one step of reasoning, `hi` becomes a false pedigree and `ke` is the honest particle. The elder at the well models the discipline exactly. The elder sees the trail, sees no snake, and says `ke`, never `hi`:
+Traces call for another particle. Wet ground may support past rain, an empty room may support a departure, and a trail may support a snake's presence. In those conclusions the senses meet a sign and reasoning reaches beyond it, so `ke` names the route more accurately.
 
 ```
 mia suliwa ma nila. mia ruela mua muila nila.
@@ -36,31 +36,29 @@ mia suliwa ma nila. mia ruela mua muila nila.
 (I do not see the snake. I see the trail in the earth.)
 ```
 
-Notice what the elder marks and what the elder leaves bare. The two seeings are unmarked: ordinary present perception needs no badge. The conclusion, when it comes, is what carries `ke`. Marking discipline is placement discipline: the evidential goes on the *claim*, not on the perceptions that support it.
+The elder leaves both perceptions unmarked and later places `ke` on the conclusion. The source particle belongs to the clause it describes.
 
-### `hi` under tense
+### Past witness and memory
 
-Witness marking combines freely with time. Past witness is testimony; future witness is commitment:
+Tense comes before evidentiality:
 
 ```
-shia to hi wepu.
-3SG PST DIR go.
-(They left — I watched them go.)
-
-mia so hi nila.
-1SG FUT DIR see.
-(I will see it myself.)
+mia suliwa to hi nila.
+1SG snake PST DIR see.
+(I saw the snake myself.)
 ```
 
-The second form is rarer and stronger than it looks: it promises presence. A speaker who says `so hi` is declining to rely on reports in advance.
+The sentence presents the original seeing as direct. It says nothing about the quality of the speaker's present memory. If the current account is reconstructed from a trail, a note, or somebody else's report, the source particle follows that actual route instead.
 
-### Drill: spend or save
+A future event cannot yet have been witnessed. A prediction from tonight's clouds takes `ke`; one based on the season takes `ho`; a forecast received from another source takes `ti`. `hi` can return after the event, if the speaker was there to perceive it.
 
-For each situation, decide: unmarked, or `hi`? There is no single right answer: there is a right *reasoning*. Say your sentence aloud, then check your reasoning against the note.
+### Drill: when witnesshood matters
 
-1. You are asked where the dog is. You are looking at the dog.
-2. A dispute: someone claims your friend never came to the garden. You were there when she came.
-3. You mention to your household that the soup is warm.
-4. The child claims a snake is at the well. You went and saw it too.
+For each situation, decide whether `hi` contributes information worth stating. An unmarked assertion remains grammatical and leaves source unstated.
 
-Notes: 1: unmarked; present perception, nothing at stake (`lohau mua thepalu nai.`). 2: spend it; this is testimony (`sulae to hi shua.` — she came, I witnessed it). 3: unmarked; table talk (`sulopa sulae nai.`). 4: spend it; you are adding a second witness to news (`mia suliwa hi nila.`), and two `hi` claims are how a household verifies.
+1. You answer where the dog is while looking at the dog.
+2. Someone says your friend never came to the garden, and you watched them arrive.
+3. You remark that the soup is warm while eating together.
+4. The child reports a snake at the well, and you later see it too.
+
+The first and third can rest naturally as plain assertions: `lohau mua thepalu nai.` and `sulopa sulae nai.` In the second, `ne sulae to hi shua.` makes witnesshood relevant to the disagreement. In the fourth, `mia suliwa hi nila.` records a second direct account. Two `hi` clauses still belong to two speakers; agreement between them is evidence to examine, not automatic verification.

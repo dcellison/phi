@@ -1,77 +1,77 @@
 # Part 5: Expectation (`ho`)
 
-`ho` marks the claim you hold without evidence for this case: the one carried by pattern, habit, and reasonable presumption. It is the humblest of the four (manual ch16), and the one whose absence does the most quiet damage, because unmarked assumptions are how households and villages talk themselves into certainty.
+`ho` rests an assertion on background expectation rather than evidence specific to the present case. A familiar habit, season, or recurring pattern may supply that background.
 
 ### The shape of an assumption
 
 ```
-suliwa ho wepu. suliwa lo miona ma lothea.
-snake ASSUM go. snake PL person NEG love.
-(The snake has probably gone — snakes do not love crowds.)
+suliwa ki ho wepu. suliwa lo miona ma lothea.
+snake PFV ASSUM go. snake PL person NEG love.
+(I assume the snake has gone. Snakes do not love crowds.)
 ```
 
-The parent's line from the primer carries the whole craft: the assumption wears `ho`, and the *pattern behind it* follows unmarked: not evidence about this snake, but knowledge about snakes. Compare `ke`'s two-sentence habit from Part 3: same architecture, different second sentence. Evidence is about the case; pattern is about the kind.
+The parent's first clause marks the departure as complete with `ki` and its source as assumption with `ho`. The second clause gives the general expectation behind it. Nothing in the particle says how confidently the parent holds that expectation.
 
-### `ke` or `ho`: the boundary drilled
+### `ke` or `ho`
 
-The manual draws the line (specific evidence versus general expectation), and daily speech walks it constantly:
+Specific evidence points to `ke`; a background pattern points to `ho`.
 
 ```
 shia to ke wepu. mia shia wiru ma nila.
 3SG PST INFER go. 1SG 3SG basket NEG see.
-(She has left — I infer. I do not see her basket.)
+(I infer that they left. I do not see their basket.)
 
 shia to ho wepu.
 3SG PST ASSUM go.
-(She has left — I expect. She usually leaves by now.)
+(I assume they left.)
 ```
 
-Ask one question at the boundary: *did I check anything?* If your claim rests on something you observed about this occasion, you inferred. If it rests on how things usually go, you assumed. Neither is weaker speech (`ho` on a strong pattern can outperform `ke` on a thin trace), but they are different debts, and the particles keep the books.
+The missing basket belongs to this occasion, so it supports inference. A usual departure time belongs to a broader pattern, so it supports assumption. A strong pattern may prove more reliable than a weak sign; the particles do not rank the two.
 
-### `ho` or `po`: knowing softly versus possibly
+### `ho` or `po`
 
-Learners reach for `ho` where the possibility modal `po` belongs, and the reverse. They live in different slots and make different claims:
+`ho` names a source. `po` says that the event is possible.
 
 ```
 shia ho womu nai.
 3SG ASSUM home be.
-(They are home, I expect — a belief, held on pattern.)
+(I assume they are home.)
 
 shia po womu nai.
 3SG POT home be.
-(They can be home — a possibility, asserted about the world.)
+(They may be home.)
 ```
 
-`ho` says: I believe it, and here is how loosely I hold the belief. `po` says nothing about your belief at all; it speaks of what the world allows. The test is the question each answers. *Where are they?* takes `ho`. *Could they be home by dark?* takes `po`. And because Modality follows Evidentiality in the stack, the two can even meet (`ho po`), an assumption about a possibility, rare but perfectly legal.
+The first asserts that they are home and identifies background expectation as the basis. The second presents being home as possible. Because evidentiality precedes modality, both can appear when both readings are intended: `pheralu ho po lepa.` says that, from background expectation, the speaker assumes rainfall is possible.
 
-### Other minds
+### Claims about another person
 
-`ho`'s finest work is on the sentences English lets you get away with. *You're fine. She's happy. He doesn't mind.* Phi can say these bare, but a bare claim about another's inner life asserts an access you do not have. The evidentials offer three honest postures:
+Source marking can make an interpretation of another person's state easier to inspect. It does not make the interpretation courteous or correct.
 
 ```
 thia ho shea nai.
 2SG ASSUM peace be.
-(You are at peace, I trust — said gently, claiming nothing.)
+(I assume you are at peace.)
 
 thia ke shorui nai.
 2SG INFER weary be.
-(You must be weary — your face says so, and I say only what I read.)
+(I infer that you are weary.)
 
 wa thia shea nai.
 Q 2SG peace be.
-(Are you at peace? — the most honest of all: asking.)
+(Are you at peace?)
 ```
 
-The courtesy scale runs from assumption through inference to the question. Notice the primer greeting sits at the top of it: `wa thia shea nai.` is how the household says hello. The language put the humblest form in everyone's mouth from chapter one.
+The first names an expectation, and the second names an inference from signs. The question does not assert the listener's state and gives them the answer. That may be the better social choice when an answer is available, but it is not a higher evidential rank. `hi`, `ke`, `ti`, and `ho` describe sources, not manners.
 
-### Drill: check or expect
+### Drill: sign or pattern
 
-For each claim, decide `ke` or `ho`, and say the full sentence with its supporting line where one exists.
+| Situation | Particle | Phi |
+|---|---|---|
+| Rain tomorrow; tonight's clouds are heavy | `ke` | `pheralu so ke lepa. lo neparu tumoa nai.` |
+| Rain tomorrow; this is the rain season | `ho` | `pheralu so ho lepa.` |
+| The child is asleep; this house is silent now | `ke` | `lopia ke nulae. womu maeli nai.` |
+| The child is asleep; it is the usual sleeping time | `ho` | `lopia ho nulae.` |
+| sulae will come; market day is her usual day | `ho` | `ne sulae so ho shua.` |
 
-1. It will rain tomorrow (the clouds are heavy tonight).
-2. It will rain tomorrow (it is the rain season).
-3. The child is asleep (the house is silent).
-4. The child is asleep (it is night, and children sleep at night).
-5. sulae will come today (she comes every market day, and today is market day).
-
-Answers: 1: `ke`, you read tonight's sky: `pheralu so ke shua. lo neparu tumoa nai.` 2: `ho`, season is pattern: `pheralu so ho shua.` 3: `ke`, the silence is this house's, tonight: `lopia ke nulae. womu maeli nai.` 4: `ho`, the pattern is about children, not this child: `lopia ho nulae.` 5: `ho`, habit, however reliable, is still pattern: `sulae so ho shua.` If 5 tempted you toward `ke`, note what you actually observed: a calendar, not a friend.
+The last pattern may be dependable and still remain a pattern. If someone sees sulae on the road, the next sentence has different evidence and may take `ke` or stay unmarked, depending on what the speaker intends to state.
