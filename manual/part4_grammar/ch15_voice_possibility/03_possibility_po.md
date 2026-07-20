@@ -37,4 +37,4 @@ Only one modal belongs in a clause. **po ma** denies possibility:
 
 **mia po ma thalo.** — I cannot walk.
 
-Leaving **po** out produces a plain assertion, not a claim of certainty or overconfidence. Adding it makes possibility part of the proposition. The choice can support careful speech, but the grammar cannot tell whether the speaker judged the possibility well.
+Leaving **po** out produces a plain assertion, not a claim of certainty or overconfidence. Adding it makes possibility part of the proposition, where a listener can weigh it.

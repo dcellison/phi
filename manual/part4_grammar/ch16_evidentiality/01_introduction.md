@@ -21,4 +21,4 @@ The unmarked sentence does not secretly mean **hi**, certain, or careless. It si
 
 An eyewitness can misperceive. An inference can be excellent, a report carefully checked, and an assumption correct by chance. Evidentials sort claims by their stated source, not by reliability or degree of belief.
 
-That limited job is useful. It gives a listener a more exact question: what did you witness, which signs support the inference, who supplied the report, or what expectation supports the assumption? The grammar opens those questions. It cannot require good answers.
+That limited job is useful. It gives a listener a more exact question: what did you witness, which signs support the inference, who supplied the report, or what expectation supports the assumption?

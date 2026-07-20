@@ -30,7 +30,7 @@ In careful speech, **mia** has two syllables: stressed **mi**, then a separate u
 
 **thia womu lothea.** — You love home.
 
-Second person has one form across formal and informal settings. Politeness, when wanted, belongs to **pi**, and named relationships may use an honorific. The single pronoun avoids encoding rank; it cannot guarantee equal treatment in the conversation around it.
+Second person has one form across formal and informal settings. Politeness, when wanted, belongs to **pi**, and named relationships may use an honorific. The single form declines to encode rank, so the grammar never asks who outranks whom before you can say you.
 
 ## shia: another being or thing
 
