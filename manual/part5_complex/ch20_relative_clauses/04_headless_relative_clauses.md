@@ -61,3 +61,5 @@ Q REL PROX create 2SG be.
 The headless phrase **rena ha kealo** is the subject, and **thia** is the identity being tested. The question names the relation to the action without assigning the referent a role noun.
 
 A headed relative ends by naming its category. A headless relative declines to do so. Both keep **rena**, and both leave one role inside the description for the referent to fill.
+
+And that is the last grammar lesson in the book. The sounds, the word shapes, the thirty-five particles, the clause, and now the ways clauses join, turn, carry, and describe one another: all of it is behind you. Part VI is not more grammar. It is what speakers do with it, courtesy and consent, transmutation, a life lived partly in the language. Part I promised that this book would teach the instrument. You are holding it now; the rest is music.
