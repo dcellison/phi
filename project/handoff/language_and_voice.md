@@ -193,9 +193,9 @@ Read adjacent chapters before drafting so the warmth and furniture continue. Do 
 
 ## Spelling note
 
-Daniel is Canadian and explicitly prefers British-derived forms such as "analyse" and "honour" in the book. The roadmap records a Canadian spelling preference for future chapters. The current voice guide contains a contrary hard-mechanics line saying "American spelling: color, gray," while current repository prose contains both practices.
+At the July 2026 model handoff, Daniel ruled that new prose uses American spelling for now, in the book as well as everywhere else, matching the voice guide's hard-mechanics line. His earlier Canadian preference for book chapters is superseded until he reopens it, and existing repository prose still contains both practices.
 
-Do not resolve this conflict through an unrequested repository-wide sweep. For a new book chapter, follow Daniel's explicit Canadian preference and the roadmap. For a small revision, preserve the surrounding file's established spelling. If a new cross-project policy must be chosen, ask Daniel and then repair the voice guide and relevant instructions in a dedicated change.
+Do not resolve the residual mix through an unrequested repository-wide sweep; a dedicated spelling pass remains Daniel's to schedule. Write American in new prose, and preserve the surrounding file's established spelling during small revisions.
 
 ## Interaction with Daniel
 
