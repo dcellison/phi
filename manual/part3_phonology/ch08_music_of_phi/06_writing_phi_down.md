@@ -19,3 +19,5 @@ Phi also reserves a place for a script of its own. The glyph mode is still a des
 For now, a learner can write Phi in romanization and learn Tengwar as a second hand. The third hand remains on the drawing table.
 
 Outside source material keeps its own spelling or script. A title, exact record, or name written outside a Phi passage need not be squeezed into romanization, Tengwar, or a future glyph block. A productive Phi-form name is different: after `ne`, it follows Phi phonology and can be written in any complete Phi mode.
+
+The opening page of this part made a promise: nineteen sounds, three rules, and the whole language pronounceable. You hold all of it now, in two working hands, with nothing saved back for later chapters. What remains is what the sounds are for. Part IV begins the grammar, and every rule in it will arrive in words you already know how to say.

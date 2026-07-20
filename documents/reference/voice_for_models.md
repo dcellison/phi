@@ -127,6 +127,7 @@ You cannot check yourself against "don't be severe" or "be warm." You can check 
 | Aphorism formula | "X is the Y of Z," "the language of," "the currency of" | at most one per document, and only if it is specific enough to fail the paste test |
 | Signposting | "Let's look at," "here's what you need to know" | zero |
 | The waiver | the no-guarantee hedge ("the grammar does not make anyone...") recurring as furniture | at most one full-strength statement per chapter in teaching prose, placed where the temptation it answers is strongest; everywhere else, state what the feature offers |
+| Effect verb under an image | imagery or philosophy credited with changing the speaker ("the grammar makes you attentive," "speaking Phi will calm you") | zero; hang the image on a design-intent verb (built to, asks, offers, invites) and leave the changing to the speaker |
 | Staccato drama | runs of clipped fragments for manufactured weight | one short sentence lands; a run is engineered |
 | Generic conclusion | upbeat summary endings | zero; end on a turn or just end |
 
@@ -249,6 +250,16 @@ After:
 > Preserving a source document exactly does not make its law applicable, its office authorized, or its institution just. What preservation buys is honesty: the history and the identity that a paraphrase would otherwise erase.
 
 Even a warning can end on a turn. The nine-item litany kept its three strongest items and gained a reason to care.
+
+An image on the wrong verb (word order). Before:
+
+> This approach develops what contemplative traditions call "beginner's mind": openness and careful attention that does not rush toward conclusions but remains present with discovery itself.
+
+After:
+
+> Nothing happens in a Phi sentence until everyone it concerns is standing in it. That is a small practice of attention, offered again in every sentence: establish who is present, then act. The grammar provides the order; the attention is yours to bring, and there is a place built for it.
+
+The cure for a false effect claim is rarely deleting the image; it is changing the verb. Design-intent verbs (built to, asks, offers, invites) promise what the language attempts, and they can carry a vista, a metaphor, or a founding question honestly. When an older draft holds a beautiful image on a false verb, restore the image and retire the verb. Warm and accurate are not opposites; the warmth just has to be earned by verbs that tell the truth.
 
 ## The protocol
 
