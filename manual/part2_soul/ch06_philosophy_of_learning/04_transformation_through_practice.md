@@ -8,7 +8,7 @@ Practice changes what a learner can do. Repetition helps a form become available
 
 Pronunciation can bring attention to breath, contact, stress, and vowel boundaries. It does not give every sound a philosophical meaning. Phi's `sound_symbolism` is optional and local to a word or documented family, while `articulatory_notes` carries the physical account a learner can check.
 
-Grammar practice is similarly concrete. Choosing `hi` rather than `ke` requires a source distinction. Placing tense before aspect and evidence requires the Slot 1 order. Repeating those choices may make them easier to use, but ease is a linguistic skill, not proof of honesty or mindfulness.
+Grammar practice is similarly concrete. Choosing `hi` rather than `ke` requires a source distinction. Placing tense before aspect and evidence requires the Slot 1 order. Repeating those choices makes them come more readily to hand.
 
 ## From rule to use
 

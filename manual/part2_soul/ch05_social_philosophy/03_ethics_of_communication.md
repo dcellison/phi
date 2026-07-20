@@ -14,6 +14,6 @@ Sometimes the careful choice is blunt. Testimony may need exact names and action
 
 Putting `pi` before directive `no` adds courtesy. It does not turn an order into an invitation. A considerate request leaves practical room for refusal and does not punish the answer for being inconvenient.
 
-The grammar cannot inspect that room. It can only mark the courtesy and directive force openly enough for both people to discuss. Power, consent, and consequence remain facts of the situation.
+The grammar marks the courtesy and the directive force openly enough for both people to discuss; the room itself is theirs to inspect. Power, consent, and consequence remain facts of the situation.
 
 No wording can guarantee a gentle reception. The listener may be hurt, disagree, ask for time, or correct the account. Ethical speech includes that uncertainty. A person is not a doorstep where a carefully wrapped sentence can be left and declared delivered.

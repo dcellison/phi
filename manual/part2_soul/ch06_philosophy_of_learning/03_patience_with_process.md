@@ -8,13 +8,13 @@ Language courses often promise fluency on a schedule. A deadline can organise st
 
 Patience is active. Say the difficult form, compare it with the reference, rest, and return. Retrieve a word before looking it up. Put it in a sentence that gives the meaning work to do. A short practice revisited often may be more useful than one heroic evening followed by avoidance.
 
-Nearby words can be learned together when the relationship is real:
+Nearby words grow well in one bed, learned together when the relationship is real:
 
 - `sano` (know) beside `shelomu` (understand) teaches a semantic contrast.
 - `sileta` (sun) beside `silero` (star) uses a documented sound kinship.
 - `nuhe` (sadness) beside `nuhemi` (grieve) shows a deliberately extended form.
 
-This is different from gathering any words that happen to share a consonant. The lexicon records the intended link when sound supplies the mnemonic. Otherwise the description and examples do the teaching.
+This is different from gathering any words that happen to share a consonant. The lexicon records the intended link when sound supplies the mnemonic. Otherwise the description and examples do the teaching. Either way, return: a word revisited after a season shows connections it kept quiet at first meeting.
 
 ## Difficulty without a moral
 

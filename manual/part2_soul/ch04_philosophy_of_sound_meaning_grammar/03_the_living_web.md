@@ -14,8 +14,8 @@ This does not make Phi a system of reusable sound roots. A learner cannot take a
 
 ## A practical way to learn the web
 
-Study a word with the nearest distinction that matters. Put `sano` beside `shelomu` in two short sentences. Put `hi` beside `ke` when a witnessed event and an inferred event could be confused. When a sound relationship is documented, use it as another route back to the form rather than as evidence about every similar word.
+Words grow best in company. Study a word with the nearest distinction that matters: put `sano` beside `shelomu` in two short sentences, and put `hi` beside `ke` when a witnessed event and an inferred event could be confused. Planted beside its neighbour, a word has something to hold onto. When a sound relationship is documented, use it as another route back to the form rather than as evidence about every similar word.
 
-The lexicon's descriptions already carry much of this work. They name a close neighbour when the contrast helps and give an example in which the intended sense has something real to do. Semantic domains gather a broader area, while search terms help a speaker find the entry from English. A future relation field may make those paths easier to browse, but there is no reason to pretend every path is audible now.
+The lexicon's descriptions already carry much of this work. They name a close neighbour when the contrast helps and give an example in which the intended sense has something real to do. Semantic domains gather a broader area, while search terms help a speaker find the entry from English.
 
 The web is useful because its paths are marked. Otherwise it is only a thicket with a handsome name.

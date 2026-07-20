@@ -1,6 +1,6 @@
 # Respect without hierarchy
 
-An elder can say `pi` to a child, and a child can say `pi` to an elder. The particle is unchanged. It presents the utterance considerately or respectfully without placing either person above the other.
+An elder can say `pi` to a child, and a child can say `pi` to an elder. The particle is unchanged. It presents the utterance considerately or respectfully without placing either person above the other. Respect, in this grammar, travels level.
 
 Many languages express politeness through forms that depend partly on age, office, familiarity, or social rank. Such systems can acknowledge relationships and maintain social expectations. They can also require a speaker to calculate who stands where before choosing an ordinary verb or ending.
 
@@ -14,7 +14,7 @@ These claims are not interchangeable decorations. `ni` used for a stranger claim
 
 ## Power remains in the room
 
-Rank-neutral grammar does not remove authority from a family, workplace, school, or institution. The same polite form may pass between two people who have very different power to refuse, leave, or impose consequences. Phi cannot make that difference harmless by declining to conjugate for it.
+Rank-neutral grammar leaves authority where it stands in a family, workplace, school, or institution. The same polite form may pass between two people who have very different power to refuse, leave, or impose consequences, and the difference does not become harmless because the verbs decline to conjugate for it.
 
 What the system avoids is grammatical deference owed merely because one person is treated as higher. Respect may be sincere, role-specific, intimate, or absent without turning a plain name into an insult. The speaker owns the relationship claimed by the particle; the person addressed owes no matching performance.
 
