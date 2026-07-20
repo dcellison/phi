@@ -12,8 +12,8 @@ This makes explanation necessary. A speaker can give an example, contrast the wo
 
 ## What grammar can contribute
 
-Predictable particle positions can help a learner locate clause force, verb marking, and word-level modification once the slot system is familiar. Verb-final order also carries a cost: earlier participants may have to remain in memory until the action arrives. Neither feature makes an unfamiliar idea easy by itself.
+Predictable particle positions can help a learner locate clause force, verb marking, and word-level modification once the slot system is familiar. Verb-final order also carries a cost: earlier participants may have to remain in memory until the action arrives.
 
 Evidentials can locate one kind of difference. A witnessed claim and a reported claim invite different questions, while `ho` marks background assumption rather than a degree of low confidence. Repair becomes more exact when the next question addresses the source actually claimed.
 
-The remaining work is social. A speaker must notice confusion, pause long enough to ask, and accept that understanding may arrive without agreement. Grammar keeps the repair tools on the table. Someone still has to pick one up.
+The remaining work is social: noticing confusion, pausing long enough to ask, accepting that understanding may arrive without agreement. Grammar keeps the repair tools on the table where both speakers can reach them. Picking one up is the conversation.

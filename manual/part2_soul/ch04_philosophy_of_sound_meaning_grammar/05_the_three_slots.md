@@ -26,4 +26,4 @@ The particles narrow or relate a particular constituent. `ha melu` is this frien
 
 The three slots do not carry all of Phi's grammar. Pronouns and content words have their own places. Prepositions relate phrases, conjunctions join them, and complementizer pairs frame embedded clauses. The slot model is useful precisely because it does one job: it keeps particles with different scopes from wandering into each other's chairs.
 
-With practice, the positions can become automatic. That frees attention for meaning, but automatic grammar is still only grammar. Mindfulness begins when a speaker notices what they are doing with it.
+With practice, the positions become automatic, and attention comes free for the person and the meaning. That freed attention is what the slots were built to buy.

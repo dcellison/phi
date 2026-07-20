@@ -4,7 +4,7 @@ Two people disagree about a leaking tank. One saw water running from a joint and
 
 Collaboration here means treating the source distinction as material both people can inspect. It can coexist with disagreement, refusal, and an ending in which nobody changes position. The aim is to understand what each claim rests on before deciding what follows.
 
-The grammar supplies useful material. Evidentials can identify the claimed source. `wa` makes a binary question audible, while the interrogative words identify the part of a proposition being asked for. A clarification request may begin with polite `pi no`. None of these can make a person listen; they give listening a more precise next move.
+The grammar supplies useful material. Evidentials can identify the claimed source. `wa` makes a binary question audible, while the interrogative words identify the part of a proposition being asked for. A clarification request may begin with polite `pi no`. Each gives listening a more precise next move.
 
 Collaboration does not require consensus. A conversation may end with a corrected fact, a better question, a refusal, or two positions that remain apart. Phi's repair conventions explicitly preserve the last possibility:
 
