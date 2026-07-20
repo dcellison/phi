@@ -8,25 +8,21 @@ Say it aloud: *mi-a thi-a lo-the-a*. Stress the first syllable of `mia` and `thi
 
 Phi uses five vowels, open syllables, and no consonant clusters. English approximations can help at first, but two cautions matter: `e` is a pure middle vowel rather than the glide in English *bay*, and `o` is a pure middle vowel rather than the glide in English *boat*.
 
-Here are five words to try:
+Here are five words to try, and notice what they mean: peace, beautiful, hello, water, sun. A language shows its hand in the words it teaches first.
 
 **shea** (peace), */ˈʃe̞.ä/*, *she-a* with stress on the first syllable. Raise the tongue blade for `sh`, let the breath pass through its narrow channel, then keep `e` and `a` in separate syllables. The hush opening into an exposed vowel can recall room left for breath and reply.
 
-**mioru** (beautiful), */mi.ˈo̞.ru/*, *mi-o-ru* with stress on the middle syllable. Begin with nasal `m` and high-front `i`, give rounded `o` its own stressed syllable, then tap or briefly trill the `r` before `u`.
+**mioru** (beautiful), */mi.ˈo̞.ru/*, *mi-o-ru* with stress on the middle syllable. Begin with nasal `m` and high-front `i`, give rounded `o` its own stressed syllable, then tap or briefly trill the `r` before `u`. The word for beautiful spends its stress on an open rounded vowel, which seems only fair.
 
-**kia** (hello), */ˈki.ä/*, *ki-a* with stress on the first syllable. Release `k` into `i`, then open into a separate `a`. Some Phi speakers hear the quick contact and opening as a small knock with room for an answer. The association belongs to the whole word, not to either sound alone.
+**kia** (hello), */ˈki.ä/*, *ki-a* with stress on the first syllable. Release `k` into `i`, then open into a separate `a`. Some Phi speakers hear the quick contact and opening as a small knock with room for an answer.
 
-**phialu** (water), */ɸi.ˈä.lu/*, *phi-a-lu* with stress on the middle syllable. Bring the lips close for `ph` without using the teeth, open through the `i.a` hiatus, then release `l` into rounded `u`.
+**phialu** (water), */ɸi.ˈä.lu/*, *phi-a-lu* with stress on the middle syllable. Bring the lips close for `ph` without using the teeth, open through the `i.a` hiatus, then release `l` into rounded `u`. The word pours: a soft opening, a wide middle, a rounded close.
 
 **sileta** (sun), */si.ˈle̞.t̪ä/*, *si-le-ta* with stress on the middle syllable. The final `t` touches the backs of the upper teeth before opening into `a`.
 
-The first two syllables of `sileta` deliberately resemble `silero`, "star," because the sun is a star. This is a lexical family resemblance, not a rule that gives `sile` an independent meaning.
+The first two syllables of `sileta` resemble `silero`, "star," because the sun is one; the kinship is there to be heard.
 
-Phi's sound system was designed with an open, unclustered rhythm, but it is not effortless for every speaker. The fricatives `ph`, `th`, `sh`, and `wh` are marked sounds and may need practice. Accent variants are welcome where the distinctions remain recoverable.
-
-Nor can phonology make an utterance peaceful. A person can speak Phi harshly, just as a gentle thought can be expressed in a language full of clusters. Mouthfeel can support attention; ethics still belongs to the speaker and the relationship.
-
-Sound symbolism in Phi is therefore optional and local. It may help a speaker remember the contour of a whole word, but it is not hidden morphology and no sound carries one universal meaning. The physical instructions remain true whether a mnemonic works for you or not.
+Two honest notes before you go on, and then the book will trust you with them. First, the four breaths `ph`, `th`, `sh`, and `wh` are the hardest sounds here, and your accent is welcome so long as the four stay distinct; the words will carry it. Second, the small images offered above are mnemonics, not meanings. Phi's sounds keep no secret morals, and a mouth doing lovely mechanics can still say something unkind; what a speaker does with the instrument stays with the speaker.
 
 Say the sentence once more.
 
@@ -34,4 +30,4 @@ Say the sentence once more.
 
 I love you.
 
-That is your first sentence in Phi.
+That is your first sentence in Phi, and the next section takes it apart to show you why it was worth being first.

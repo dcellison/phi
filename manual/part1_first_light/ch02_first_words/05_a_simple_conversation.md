@@ -1,6 +1,6 @@
 # A simple conversation
 
-Two friends meet on the road. They greet each other, ask how the other is doing, and part. Speak both sides aloud.
+Two friends meet on the road, each with somewhere to be and a moment to spare. They greet each other, ask how the other is doing, and part. Speak both sides aloud; a conversation is the one kind of text that only half-exists on the page.
 
 ---
 
@@ -64,4 +64,4 @@ You love me.
 
 Do you love peace?
 
-This exchange is deliberately small. It gives you an opening, a question, an answer, and a parting. Later chapters add names and gratitude. They also teach invitations, consent, uncertainty, and the useful ability to repair a sentence after it has gone wrong.
+This exchange is deliberately small. It gives you an opening, a question, an answer, and a parting, which is to say a whole social visit in twenty words. Later chapters add names and gratitude. They also teach invitations, consent, uncertainty, and the useful ability to repair a sentence after it has gone wrong, which every speaker of every language eventually needs.

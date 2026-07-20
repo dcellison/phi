@@ -1,6 +1,6 @@
 # Ten essential words to start
 
-These ten words are enough for a greeting, a simple wellbeing question, and several short statements. Keep their scale in view: they are a first handful. Ordinary conversation soon asks for more.
+These ten words are a first handful, and a warm one on purpose: with them you can greet a friend, ask after their wellbeing, answer honestly, and tell someone you love them. Ordinary conversation soon asks for more, but few languages hand you this much heart in ten words.
 
 ## People
 
@@ -22,7 +22,7 @@ These ten words are enough for a greeting, a simple wellbeing question, and seve
 
 **shea** (peace), */ˈʃe̞.ä/*, *she-a* with stress on the first syllable. Inward peace may be felt; social peace is freedom from violence and workable accord. Peace does not require the absence of disagreement.
 
-**melu** (friend), */ˈme̞.lu/*, *me-lu* with stress on the first syllable. A person joined to another by a chosen relation of affection or trust. One speaker using the word does not announce the other person's view of the relationship.
+**melu** (friend), */ˈme̞.lu/*, *me-lu* with stress on the first syllable. A person joined to another by a chosen relation of affection or trust. Calling someone `melu` states your side of the relation; their answer is their own.
 
 ## Meeting and parting
 
@@ -58,6 +58,6 @@ I love peace.
 
 You are a friend.
 
-That last sentence reports the speaker's classification of the relationship. It does not prove that both people name the relation alike. Phi can state warmth plainly without pretending that another person's answer has already been given.
+That last sentence states your side plainly, without ceremony and without waiting for permission. What the other person says back is the conversation.
 
 In the next section, these words meet on an ordinary road and manage not to make a ceremony of it.

@@ -22,12 +22,12 @@ That does not make every Lojban utterance mean only one thing. Context, referenc
 
 Sonja Lang's Toki Pona begins from deliberate smallness. Its compact core vocabulary and light grammar ask speakers to build many ideas from broad words, composition, and context. A car or computer has no single compulsory paraphrase; the speaker chooses which features matter in the moment.
 
-That constraint can prompt reframing. Many speakers describe the practice as clarifying or mindful, while others simply enjoy the language. The grammar does not prescribe the experience. Toki Pona shows how omission can become a productive design choice rather than an unfinished dictionary.
+That constraint can prompt reframing. Many speakers describe the practice as clarifying or mindful, while others simply enjoy the language. Toki Pona shows how omission can become a productive design choice rather than an unfinished dictionary.
 
 ### Phi's place among the experiments
 
-Esperanto, Lojban, Toki Pona, and many other constructed languages demonstrate that inherited patterns are not the only patterns people can use. They do not jointly prove that language controls thought, and their purposes cannot be arranged as stages on one ladder.
+Esperanto, Lojban, Toki Pona, and many other constructed languages demonstrate that inherited patterns are not the only patterns people can use, and their purposes cannot be arranged as stages on one ladder.
 
 Phi is one more experiment, with a narrower purpose of its own. It is not intended as a universal second language, nor does it pursue machine-like precision. Its vocabulary is larger than a minimalist language's because speakers need room for inner life and shared systems. Ecological relations, craft, care, and philosophical discussion have room of their own.
 
-Its question is whether a language can support mindful and compassionate speech as a present practice. The grammar offers places to attend to relation, evidence, intention, and the effect of an utterance. Whether those choices become habits beyond Phi speech remains untested. The rest of this book teaches the instrument; you are here to learn it, not to be entered on a clipboard.
+Its question is whether a language can support mindful and compassionate speech as a present practice. The grammar offers places to attend to relation, evidence, intention, and the effect of an utterance. The rest of this book teaches the instrument; you are here to learn it, not to be entered on a clipboard.
