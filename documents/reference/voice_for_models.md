@@ -126,7 +126,7 @@ You cannot check yourself against "don't be severe" or "be warm." You can check 
 | Inline-header list | bolded label, colon, sentence | zero; prose or a real table |
 | Aphorism formula | "X is the Y of Z," "the language of," "the currency of" | at most one per document, and only if it is specific enough to fail the paste test |
 | Signposting | "Let's look at," "here's what you need to know" | zero |
-| The waiver | the no-guarantee hedge ("the grammar does not make anyone...") recurring as furniture | at most one full-strength statement per chapter in teaching prose, placed where the temptation it answers is strongest; everywhere else, state what the feature offers |
+| The waiver | the no-guarantee hedge ("the grammar does not make anyone...") recurring as furniture | at most one full-strength statement per chapter in teaching prose, placed where the temptation it answers is strongest; the cap is a ceiling, not a quota, and a chapter whose subject does not raise the temptation carries none. A kept statement teaches its own chapter's subject; the general charter lives once, in Part I. Everywhere else, state what the feature offers |
 | Effect verb under an image | imagery or philosophy credited with changing the speaker ("the grammar makes you attentive," "speaking Phi will calm you") | zero; hang the image on a design-intent verb (built to, asks, offers, invites) and leave the changing to the speaker |
 | Staccato drama | runs of clipped fragments for manufactured weight | one short sentence lands; a run is engineered |
 | Generic conclusion | upbeat summary endings | zero; end on a turn or just end |

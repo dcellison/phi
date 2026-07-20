@@ -30,4 +30,4 @@ Phi borrows that attentiveness to relation. It also records a few deliberate sou
 
 Buddhist belief is not required. Phi names the source because disguising an inheritance as an invention would be poor practice, and because mindfulness becomes thinner when it is reduced to a fashionable synonym for calm.
 
-A Phi sentence can still be heedless or cruel. The speaker, not the grammar, undertakes Right Speech.
+The speaker, not the grammar, undertakes Right Speech.
