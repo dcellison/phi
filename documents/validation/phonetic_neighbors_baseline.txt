@@ -124,7 +124,7 @@
 0.50	1	wheo	elder	content	pheo	POST	function	133
 0.50	1	te	CESS	function	ke	INFER	function	131
 0.50	1	pheo	POST	function	sheo	THAN	function	118
-0.50	1	thelao	CONS	function	shelao	SUMM	function	109
+0.50	1	thelao	CONS	function	shelao	SUMM	function	111
 0.50	1	koma	head	content	kona	VOC	function	94
 0.50	1	phoa	do	content	thoa	AMONG	function	87
 0.50	1	heloi	generous	content	sheloi	MANY	function	74
@@ -139,11 +139,11 @@
 0.50	1	phue	wise	content	thue	THROUGH	function	38
 0.50	1	thuo	prosper	content	whuo	WITHOUT	function	35
 0.50	1	whuo	WITHOUT	function	phuo	phew	interjection	35
-0.50	1	pheno	full	content	sheno	ADD	function	32
+0.50	1	pheno	full	content	sheno	ADD	function	33
 0.50	1	thenoi	falls-short	content	henoi	ENOUGH	function	32
 0.50	1	thua	fair	content	sua	who	function	28
 0.50	1	kua	where	function	tua	no	interjection	25
-0.50	1	heno	satisfy	content	sheno	ADD	function	22
+0.50	1	heno	satisfy	content	sheno	ADD	function	23
 0.50	1	shela	art	content	thela	how	function	22
 0.50	1	thoa	AMONG	function	soa	sorry	interjection	20
 0.50	1	phei	AWAY	function	thei	BETWEEN	function	16
