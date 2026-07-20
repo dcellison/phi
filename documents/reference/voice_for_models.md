@@ -126,6 +126,7 @@ You cannot check yourself against "don't be severe" or "be warm." You can check 
 | Inline-header list | bolded label, colon, sentence | zero; prose or a real table |
 | Aphorism formula | "X is the Y of Z," "the language of," "the currency of" | at most one per document, and only if it is specific enough to fail the paste test |
 | Signposting | "Let's look at," "here's what you need to know" | zero |
+| The waiver | the no-guarantee hedge ("the grammar does not make anyone...") recurring as furniture | at most one full-strength statement per chapter in teaching prose, placed where the temptation it answers is strongest; everywhere else, state what the feature offers |
 | Staccato drama | runs of clipped fragments for manufactured weight | one short sentence lands; a run is engineered |
 | Generic conclusion | upbeat summary endings | zero; end on a turn or just end |
 
@@ -140,6 +141,8 @@ This is not hypothetical. In one generation batch here, the flourish "confers no
 The rules that follow from this:
 
 A flourish used once is spent for the batch. If you write a striking closer or a pointed triple in one artifact, the next artifact may not reuse its shape.
+
+Caution stamps as readily as flourish. The same honest hedge closing section after section is a template tic even though every instance is true; the waiver row above gives its budget, and the count is per chapter, not per file.
 
 When producing more than one artifact, scan the whole batch for repeated sentence shapes, repeated openers, repeated closers, and any phrase of three or more words appearing in more than one artifact. Vary or flatten what you find. The uniform-boilerplate exemption applies only to text that is boilerplate on the register map.
 
