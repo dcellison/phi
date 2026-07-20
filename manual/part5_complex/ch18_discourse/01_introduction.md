@@ -4,6 +4,8 @@ Conjunctions connect elements inside one Phi sentence. Discourse markers begin a
 
 English has phrases such as "therefore," "however," "for example," and "in other words." Phi gives seven such relations their own words and one fixed position.
 
+Say the seven aloud, **thelao**, **whekai**, **sheno**, **phisu**, **shorela**, **shekoi**, **shelao**, and notice how each begins: on one of the four fricatives, a consonant made of moving air. The design spends its audible breath where a conversation changes direction, so every turn of thought opens on a small turn of breath.
+
 ## Position in the sentence
 
 Every discourse marker follows any Slot 0 particle and precedes the subject. With no Slot 0 frame, the marker opens the sentence.

@@ -24,7 +24,7 @@ shia to ma haolu. thelao lo miona to ma shelomu.
 (They did not speak. Therefore the people did not understand.)
 ```
 
-The marker makes the inference explicit. It does not provide a missing premise or make a weak inference stronger. A sheltered path may remain dry after rain; **thelao** tells the listener what connection the speaker claims. The claim remains open to examination.
+The marker makes the inference explicit. It does not provide a missing premise or make a weak inference stronger. A sheltered path may remain dry after rain; **thelao** tells the listener what connection the speaker claims.
 
 ## Contrast: `whekai`
 
