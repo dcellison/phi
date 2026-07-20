@@ -27,7 +27,7 @@ one HUM.CLF friend
 (one friend, explicitly classified as a person)
 ```
 
-`Ta melu` is equally grammatical. Adding `himo` makes the human category audible but cannot prevent a count from being used impersonally or coercively.
+`Ta melu` is equally grammatical. Adding `himo` makes the human category audible in the count.
 
 ### *lipha*: living beings
 

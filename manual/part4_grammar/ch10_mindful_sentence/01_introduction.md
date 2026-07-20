@@ -6,4 +6,4 @@ Independent Phi clauses are predicate-final. In an ordinary transitive sentence,
 
 This order is the sentence-scale form of Phi's modifier-first design. Descriptors precede nouns, prepositions precede their objects, and particles precede what they mark. The pattern is regular, but regularity does not make it effortless. A listener may need to hold several participants and relations before the final verb reveals the event.
 
-That interval can support a practice of attention. It can also be barely noticeable in fluent speech, and it can burden working memory in a long clause. Phi prescribes the order, not the speed or state of mind with which anyone uses it. This chapter teaches the structure first; what a speaker makes of the moment before the verb belongs to practice, not grammar.
+That interval can support a practice of attention; it can also pass unnoticed in fluent speech, and in a long clause it can tax working memory. Phi prescribes the order, not the speed or state of mind anyone brings to it. This chapter teaches the structure. The moment before the verb comes unfurnished, and it is yours.

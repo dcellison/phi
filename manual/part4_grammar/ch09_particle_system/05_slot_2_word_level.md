@@ -100,7 +100,7 @@ The three honorifics follow **ne** and state the speaker's relationship to the n
 - **ni** marks personal closeness.
 - **le** marks regard for a community role.
 
-**ne sa sulae**, **ne ni moli**, and **ne le siora** name three different relations. None assigns universal rank to the bearer, and a particle cannot prove that the relation is mutual or deserved.
+**ne sa sulae**, **ne ni moli**, and **ne le siora** name three different relations. None assigns universal rank to the bearer; each records how the speaker holds the relation.
 
 ## Nesting Slot 2
 
