@@ -142,4 +142,4 @@ Exercise 7:
 5. **wa phao si naphe.** — Is the parent helping?
 6. **mia ha wiru to reshi kolua.** — I carried this basket quickly.
 
-The longest answers read from left to right by scope: frame, participants, verb particles, manner, verb. If the final verb feels delayed, that feeling is useful information. Repetition can make the order familiar; the delay is not a test of virtue.
+The longest answers read from left to right by scope: frame, participants, verb particles, manner, verb. If the final verb feels delayed, that feeling is useful information. Repetition can make the order familiar; in time the delay stops feeling like a wait and starts sounding like the language.

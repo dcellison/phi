@@ -14,4 +14,4 @@ For the listener, early particles and prepositions reveal some relations as they
 
 The cost is working memory. Longer noun phrases and adjuncts make the final predicate harder to anticipate, especially for a new learner. Shorter clauses and topic-drop after a subject is established can ease that burden without changing the grammar.
 
-Phi uses the interval before the predicate as one possible site of mindful speech. A speaker can notice what has already been named and what claim is about to join it. Nothing in the word order forces that notice, which is why it remains worth practising.
+Phi uses the interval before the predicate as one possible site of mindful speech. A speaker can notice what has already been named and what claim is about to join it. The interval returns in every sentence, which makes it a generous practice ground: miss it a hundred times and it is waiting in the hundred and first.

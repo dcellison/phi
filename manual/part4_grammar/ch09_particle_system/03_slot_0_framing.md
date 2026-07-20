@@ -10,7 +10,7 @@ Slot 0 comes before the subject because it applies to the utterance as a whole. 
 
 **wa thia mia sano.** — Do you know me?
 
-The particle marks clause type. Whether the question is welcome, fair, or answerable still depends on tone, timing, power, and the relationship.
+The particle settles the clause type at the first syllable, so nobody spends the sentence wondering whether it will end up being asked.
 
 ## no: directive
 
@@ -20,7 +20,7 @@ The particle marks clause type. Whether the question is welcome, fair, or answer
 
 **no mia naphe.** — Help me.
 
-A directive cannot hide inside a bare verb, yet naming its force does not soften it. **pi no** adds politeness, while the listener's freedom and practical circumstances remain separate facts.
+A directive cannot hide inside a bare verb: whoever hears `no` knows at once what kind of sentence has arrived. **pi no** adds politeness.
 
 ## lu: realis condition
 
@@ -46,7 +46,7 @@ The extra particle marks irrealis status. The surrounding tense still belongs to
 
 **su thia thuroa.** — May you flourish.
 
-A wish leaves its fulfilment open. The grammar tells the listener what kind of utterance this is; it makes no promise about the outcome.
+A wish leaves its fulfilment open. The frame gives hope its own grammar, so a blessing never has to disguise itself as a prediction.
 
 ## pi: politeness
 
@@ -56,7 +56,7 @@ A wish leaves its fulfilment open. The grammar tells the listener what kind of u
 
 **pi wa thia po shua.** — Could you please come?
 
-Politeness can express care, convention, distance, or deference. Goodwill and equal power do not follow from it. Those meanings belong to the occasion, not to the syllable.
+Politeness can express care, convention, distance, or deference; the occasion decides which. The syllable's whole job is to make the stance audible.
 
 ## The unmarked assertion
 

@@ -61,4 +61,4 @@ Possession can nest:
 
 Here **mia melu** forms the possessor phrase for **shelu**. Another layer quickly becomes hard to recover by ear. Two short clauses usually leave the relationships clearer than a chain such as community-parent-friend-book, which asks four nouns to settle their own family meeting.
 
-The grammar supplies association by position and possession by **phelu**. Neither construction praises ownership or condemns it. It gives the speaker enough room to say who is connected to the book and, when necessary, what that connection actually is.
+The grammar supplies association by position and possession by **phelu**, and gives the speaker enough room to say who is connected to the book and, when necessary, what that connection actually is.

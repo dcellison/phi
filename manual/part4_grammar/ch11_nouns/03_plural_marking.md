@@ -89,7 +89,7 @@ NONE friend
 | `soli melu` | some friends; relative size unstated |
 | `sheloi melu` | contextually many friends |
 
-Exact, approximate, quantified, and unquantified forms make different claims. None is automatically more mindful or truthful; knowledge and context determine which claim is supported.
+Exact, approximate, quantified, and unquantified forms make different claims; knowledge and context decide which claim the moment supports.
 
 ## Noun phrase order
 
