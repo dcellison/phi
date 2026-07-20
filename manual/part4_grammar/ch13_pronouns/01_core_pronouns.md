@@ -1,5 +1,7 @@
 # The core pronouns
 
+Say the three of them in a row: *mi-a*, *thi-a*, *shi-a*. One shape, three onsets. Phi hands every person in a conversation a word of the same size, two syllables on the same open hiatus, and who you are in the sentence changes the consonant and nothing else.
+
 Phi has three singular personal pronouns. They mark grammatical person without gender, animacy, rank, or case endings.
 
 | Phi | Gloss | Referent |
@@ -30,7 +32,7 @@ In careful speech, **mia** has two syllables: stressed **mi**, then a separate u
 
 **thia womu lothea.** — You love home.
 
-Second person has one form across formal and informal settings. Politeness, when wanted, belongs to **pi**, and named relationships may use an honorific. The single form declines to encode rank, so the grammar never asks who outranks whom before you can say you.
+Second person has one form across formal and informal settings. Politeness, when wanted, belongs to **pi**, and named relationships may use an honorific. The single form declines to encode rank, so the grammar never asks who outranks whom before you can say you. Its `th` asks the tongue for a moment of deliberate placement, and some speakers like it that the word for you begins with a sound that cannot be said carelessly.
 
 ## shia: another being or thing
 
@@ -42,7 +44,7 @@ Second person has one form across formal and informal settings. Politeness, when
 
 **shia womu mioru nai.** — Their home is beautiful.
 
-The pronoun marks neither gender nor animacy. English may render it as singular *they*, *he*, *she*, or *it* according to the referent. A noun or productive name can identify someone more specifically without making that information part of the pronoun system.
+The pronoun marks neither gender nor animacy. English may render it as singular *they*, *he*, *she*, or *it* according to the referent. A noun or productive name can identify someone more specifically when it matters; the pronoun's whole ambition is to let a person be mentioned without being categorized.
 
 ## Case comes from position
 

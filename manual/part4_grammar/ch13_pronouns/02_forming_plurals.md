@@ -32,4 +32,4 @@ The first **lo** belongs to the subject and the second to the object. Position k
 
 The second example explicitly excludes the addressee from the group meant by **lo mia** in that exchange. The pronoun alone would not.
 
-Three singular forms plus **lo** cover the personal inventory. That regularity is easy to learn. Tracking who belongs to a plural group remains the ordinary work of conversation.
+Three singular forms plus **lo** cover the personal inventory; everyone who will ever stand in a Phi sentence can already be pointed to with them. That regularity is easy to learn. Tracking who belongs to a plural group remains the ordinary work of conversation.

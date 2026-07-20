@@ -1,6 +1,6 @@
 # Possibility po
 
-**po** presents an event as something that can or may occur. Context decides whether the opening comes from ability, permission, or circumstances.
+**po** presents an event as something that can or may occur. Context decides whether the opening comes from ability, permission, or circumstances. Some speakers hear the word's own shape as a mnemonic for that opening: a quick release of the lips into a rounded vowel, a door set ajar.
 
 ## Three ordinary readings
 

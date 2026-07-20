@@ -1,6 +1,6 @@
 # Simple conjunction: `nela`
 
-A sentence can hold more than one participant, quality, action, or clause. **nela** joins elements of equal grammatical status, much as English "and" does.
+Until now, most sentences in this book have said one thing at a time. Days are not like that: bread and rain and a friend's arrival come together, and a sentence needs a way to keep two things in hand without dropping either. **nela** joins elements of equal grammatical status, much as English "and" does.
 
 The two sides must be comparable pieces of structure. A noun can join a noun, a verb can join a verb, and a full clause can join another full clause. **nela** does not turn unlike elements into a pair.
 
@@ -72,4 +72,4 @@ tree COORD flower COORD grass.
 (Trees and flowers and grass.)
 ```
 
-The repeated conjunction makes every join audible: tree and flower and grass. Any ranking among those items would need its own words.
+The repeated conjunction makes every join audible: tree and flower and grass, the way a child counts treasures, each one worth its own and. Any ranking among those items would need its own words.

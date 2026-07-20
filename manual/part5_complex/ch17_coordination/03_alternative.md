@@ -50,4 +50,4 @@ thia po mia naphe sola mia po miso naphe.
 (You can help me, or I can help myself.)
 ```
 
-In the second example, **miso** is the object of the second clause because its subject, **mia**, refers to the same person. The two clauses keep their own argument structure on either side of **sola**.
+In the second example, **miso** is the object of the second clause because its subject, **mia**, refers to the same person. The two clauses keep their own argument structure on either side of **sola**, which draws a fork in the sentence and leaves both paths open on the page.
