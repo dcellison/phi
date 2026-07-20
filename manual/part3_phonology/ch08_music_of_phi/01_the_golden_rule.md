@@ -13,7 +13,7 @@ This is vowel hiatus. Languages handle adjacent vowels in many ways, and some us
 | `nulae` (sleep) | nu.la.e | 3 |
 | `welao` (good) | we.la.o | 3 |
 
-The boundary can be brief. At conversational tempo, the vowels may shorten and the movement between them may become quick, but a listener should still recover two vowel qualities and two syllables.
+The boundary can be brief. At conversational tempo, the vowels may shorten and the movement between them may become quick, but a listener should still recover two vowel qualities and two syllables. Each syllable is a pearl on the word's thread, and the boundary is the small knot that keeps two pearls from wearing into one bead.
 
 ## Why the boundary matters
 

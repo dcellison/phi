@@ -36,4 +36,4 @@ The remaining shape charter organizes the closed function-word families without 
 
 The table is a memory aid, not an automatic parser. Except for reserved CV monosyllables, an unfamiliar shape does not disclose whether the word is content or function. Sentence position and learned vocabulary still have jobs to do.
 
-Open syllables make boundaries predictable on the page. How readily listeners recover them in rapid speech remains a question for listening evidence.
+Open syllables make every boundary predictable on the page; how readily listeners recover them in rapid speech is a question for listening evidence. On paper, at least, a Phi word's joints show through its spelling, which is more than most languages let a beginner say.
