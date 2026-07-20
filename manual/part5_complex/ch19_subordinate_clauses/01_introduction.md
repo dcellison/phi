@@ -1,6 +1,6 @@
 # Subordinate clauses
 
-Coordination joins equals. Subordination gives one clause a role inside or beside another: something known, a reason, an earlier event, or an intended result.
+A sentence can hold another sentence inside it: something known, something heard, something hoped for. Coordination joins equals; subordination gives one clause a role inside or beside another.
 
 Phi uses complementizer frames for clauses that occupy an argument position. Clause relators handle time, cause, purpose, and concession. The two groups have different boundaries and deserve separate patterns.
 
@@ -30,6 +30,6 @@ mia mena shia to wepu meno sano.
 (I know that they left.)
 ```
 
-**mena** opens the embedded statement and **meno** closes it. The main verb **sano** then states what the subject does with that proposition. A pause cannot replace the closer.
+**mena** opens the embedded statement and **meno** closes it. The main verb **sano** then states what the subject does with that proposition. A pause cannot replace the closer: the frame keeps a hand at each end of the inner thought, and nothing enters or leaves it unmarked.
 
 Both constructions keep modifier-first order. Their boundaries differ: a clause relator opens a dependent frame before the main clause, while a complementizer encloses an argument inside a larger clause.

@@ -1,6 +1,6 @@
 # The passive se
 
-An active clause makes the actor its subject. **se** promotes the patient instead and allows the actor to go unexpressed.
+Voice is the sentence's stagecraft: it decides who stands in the light. An active clause puts the actor there. **se** turns the light onto the patient instead and allows the actor to leave the stage.
 
 ```
 mia womu lorima.

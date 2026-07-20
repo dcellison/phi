@@ -98,7 +98,7 @@ PURP PL person understand 3SG speak.
 (They speak so that the people understand.)
 ```
 
-The subject of the purpose clause may match the actor in the main clause, as in the first example, or differ, as in the second. The listener hears the intended outcome before the action. An unintended result takes **lao** or a separate consequence.
+The subject of the purpose clause may match the actor in the main clause, as in the first example, or differ, as in the second. The listener hears the intended outcome before the action, and that order is one of Phi's quietest commitments: the hoped-for thing is named before the deed done for it, so a purpose clause always says what the work is for before the work begins. An unintended result takes **lao** or a separate consequence.
 
 The freedom construction gives **lila** another established use:
 
