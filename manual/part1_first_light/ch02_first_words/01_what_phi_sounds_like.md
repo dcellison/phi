@@ -22,7 +22,7 @@ Here are five words to try, and notice what they mean: peace, beautiful, hello, 
 
 The first two syllables of `sileta` resemble `silero`, "star," because the sun is one; the kinship is there to be heard.
 
-Two honest notes before you go on, and then the book will trust you with them. First, the four breaths `ph`, `th`, `sh`, and `wh` are the hardest sounds here, and your accent is welcome so long as the four stay distinct; the words will carry it. Second, the small images offered above are mnemonics, not meanings. Phi's sounds keep no secret morals, and a mouth doing lovely mechanics can still say something unkind; what a speaker does with the instrument stays with the speaker.
+Two honest notes before you go on, and then the book will trust you with them. First, the four breaths `ph`, `th`, `sh`, and `wh` are the hardest sounds here, and your accent is welcome so long as the four stay distinct; the words will carry it. Second, the small images offered above are mnemonics, not meanings. Phi's sounds keep no secret morals, and a mouth doing lovely mechanics can still say something unkind.
 
 Say the sentence once more.
 
