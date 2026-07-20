@@ -65,3 +65,5 @@ You love me.
 Do you love peace?
 
 This exchange is deliberately small. It gives you an opening, a question, an answer, and a parting, which is to say a whole social visit in twenty words. Later chapters add names and gratitude. They also teach invitations, consent, uncertainty, and the useful ability to repair a sentence after it has gone wrong, which every speaker of every language eventually needs.
+
+And that is Part I: you have been greeted in Phi, asked after, answered, and taken your leave, speaking both sides yourself. The house from the opening pages has a floor under it now; you have stood in its doorway and heard it spoken. There are many more rooms, and the rest of this book walks them with you. Welcome to the path.

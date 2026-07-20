@@ -2,6 +2,8 @@
 
 ## The invisible architecture of speech
 
+We live inside a structure we did not build and rarely notice. A first language is not a tool picked up like a hammer; it is the house where thought first learns to walk, and we know its passages the way a child knows the route to the kitchen in the dark: not from blueprints, but from living there.
+
 Most of us meet grammar long before we know it has a name. We learn where a question begins, which detail must be stated, and how an action is arranged around the people and things involved. By the time anyone draws a sentence diagram, the language has been doing its work for years and is rather surprised to find itself on a blackboard.
 
 Those patterns matter most in the moment a sentence is being formed. A language makes one distinction routine and leaves another to context; a familiar word brings an experience close to hand, while a less furnished idea waits for a whole phrase. While the speaking lasts, attention follows the roads the grammar has already paved.
@@ -26,4 +28,4 @@ Disagreement is another. English reaches easily for the language of winning an a
 
 The living world is a third. English can describe a forest as a community, a commodity, a process, or a home. Phi provides ordinary words for cycles, interdependence, care, and limits, then asks the speaker to say which relation they mean. The asking is the design: in Phi, no relation to the living world is the default, so each one said is one chosen.
 
-The opportunity lies in practice; the speakers were never the defective part. Phi asks whether a language can make mindful and compassionate choices easier to practise in the utterance being spoken: what the speaker knows, what they intend, and how the words may enter a relationship. That question is where Phi begins.
+The opportunity lies in practice; the speakers were never the defective part. The question Phi was built around is easy to say and takes a lexicon, a grammar, and a shelf of literature to answer: can a language make it easier to be the people we want to be, in the sentence being spoken now? That question is where Phi begins, and this book is the long form of asking it.
