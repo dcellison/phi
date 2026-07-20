@@ -21,3 +21,5 @@ shia shola ha keli shurano nai sholo to haolu.
 ```
 
 Label the Phi passage as a translation so it cannot be mistaken for the original wording. Keeping the source available preserves its identity without approving or validating its claim. That separation matters whenever testimony or technical practice depends on exact wording. Law, medicine, science, and tradition-specific material supply common cases.
+
+The boundary is a form of respect in both directions: the source keeps its exact face, and Phi keeps its whole voice.

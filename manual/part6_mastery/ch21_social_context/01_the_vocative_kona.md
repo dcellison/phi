@@ -30,6 +30,6 @@ VOC child. IMP ALL 1SG come.
 
 ## What the marker contributes
 
-`kona` makes direct address audible before the addressee arrives. It may be spoken gently across a table or quickly in danger; the marker itself promises neither ceremony nor care. What it offers is a small grammatical turn towards someone. What the speaker does with that turn remains their responsibility.
+`kona` makes direct address audible before the addressee arrives. It may be spoken gently across a table or quickly in danger; the marker itself promises neither ceremony nor care. What it offers is a small grammatical turn towards someone.
 
 Because the vocative is extra-clausal, it can also be a complete utterance on its own. `kona ni moli.` calls an established dear one without adding a claim or request. The answer may simply be a face turning towards the voice.
