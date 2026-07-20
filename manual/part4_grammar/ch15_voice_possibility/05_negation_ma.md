@@ -8,7 +8,7 @@
 
 **pheralu ma lepa.** — Rain does not fall.
 
-The lips close for **m** and open into **a**. That bodily refusal followed by release gives the particle a useful whole-word mnemonic. Gentleness still depends on tone, power, and the listener's freedom.
+The lips close for **m** and open into **a**. That bodily refusal followed by release gives the particle a useful whole-word mnemonic.
 
 ## Fixed position
 

@@ -40,4 +40,4 @@ The opening **wi** is also Phi's word for two, a useful mnemonic for mutual acti
 
 **lo mia wiso whaline.** — We thank each other.
 
-Reciprocal grammar reports a direction of action. Whether the exchange is welcome, equal, or caring belongs to what the participants do and say next.
+Reciprocal grammar reports the direction of the action, and the examples above show where it points most often: help, teaching, thanks, passed both ways.

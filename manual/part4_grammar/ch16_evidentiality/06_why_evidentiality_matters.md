@@ -47,6 +47,8 @@ An unmarked assertion is not an evasion. It makes no source claim. When provenan
 
 That relation is itself accountable. **hi** can be challenged by asking what was perceived; **ke** by examining the evidence and inference; **ti** by tracing the report; **ho** by testing the expectation. One source per clause keeps those claims distinct.
 
-Regular use can become a practice of noticing how a claim arrived. No speech evidence yet shows that this practice changes thought or behaviour over time, and grammar cannot undertake Right Speech for its users. The more modest value is already substantial: witness, inference, report, and assumption are short enough to say before disagreement hardens around an unnamed source.
+Regular use can become a practice of noticing how a claim arrived. No speech evidence yet shows that this practice changes thought or behaviour over time. The more modest value is already substantial: witness, inference, report, and assumption are short enough to say before disagreement hardens around an unnamed source.
 
 When provenance matters, it receives a particle; when it does not, it stays unmarked. In either case, the next person remains free to ask how you know.
+
+That closes the particle system, and with it the grammar of the single clause. Chapter 9 called the inventory finite; you have now met all thirty-five, each in its slot. What remains is what clauses do in company. Part V joins them, frames them, and sets them inside one another, and every sentence it teaches stands on the clause you can now build.
