@@ -48,11 +48,11 @@ Phi uses a pure five-vowel system. The vowels are "tense" and should not be diph
 
 As defined in `phonology_rules.md`, all vowel pairs are pronounced in **hiatus**. This means that each vowel is pronounced fully and distinctly, creating two separate syllables. There is no gliding between them.
 
-*   **`saule`** is pronounced /sa.u.le/ (three syllables: sa-u-le), NOT /sau.le/.
-*   **`sheala`** is pronounced /ʃe.a.la/ (three syllables: ko-a-la), NOT /ʃea.la/.
-*   **`nei`** is pronounced /ne.i/ (two syllables: ne-i), NOT /neɪ/.
+*   **`phaelo`** (feel) is pronounced /ɸa.e.lo/ (three syllables: pha-e-lo), NOT /ɸae.lo/.
+*   **`mioru`** (beautiful) is pronounced /mi.o.ru/ (three syllables: mi-o-ru), NOT /mio.ru/.
+*   **`lue`** (ABL) is pronounced /lu.e/ (two syllables: lu-e), NOT a glided /lwe/.
 
-This rule is fundamental to the reference rhythm. Conversational speech may shorten the vowels and the transition between them, but both syllables remain present and no pair becomes a diphthong or single long vowel.
+This rule is fundamental to the reference rhythm. Conversational speech may shorten the vowels and the transition between them, but both syllables remain present and no pair becomes a diphthong or single long vowel. The hiatus is Phi's signature rhythm: where English glides, Phi takes the second step.
 
 ## 5. Careful and Conversational Pronunciation
 

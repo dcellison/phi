@@ -38,10 +38,10 @@
 ## IV
 
 > lopia: **wa ne thinoe welao miona to nai.**
-> wheo: **lia. mia shola muila theula howela sholo ro remo.**
+> wheo: **lia. mia shola muila theula howela sholo ro haolu.**
 > **shero shua. lo mia nulae.**
 
-*Was thinoe good? Yes, and the elder still thinks her words over, habitually,* ro remo: *the quotation carried forward like a seed, planted in a new season every time it is spoken. That is what quotation is for, in the end. It is how a household outlives its members. This garden, with its trees and its flowers, is thinoe's sentence, still being said.*
+*Was thinoe good? Yes, and the elder still says her words, habitually,* ro haolu: *the quotation carried forward like a seed, planted in a new season every time it is spoken. That is what quotation is for, in the end. It is how a household outlives its members. This garden, with its trees and its flowers, is thinoe's sentence, still being said.*
 
 ---
 

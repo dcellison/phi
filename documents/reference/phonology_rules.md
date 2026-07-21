@@ -46,7 +46,7 @@ This single rule defines **all** possible syllable onsets in the language.
   - The optional `(C)` is **used** and represents the **first character** of the digraph (e.g., `p` in `ph`).
   - The mandatory `C` represents the **second character** of the digraph (e.g., `h` in `ph`).
   - This is the **only** time the optional `(C)` is ever used.
-  - *Example:* `ha`, `ko`, `tho`. (Structure: `(C)CV`)
+  - *Example:* `pha`, `sho`, `tho`. (Structure: `(C)CV`)
 
 ### 2.2. The Syllable Nucleus: `V` or `P`
 The nucleus of a syllable (the part that follows the onset) can be either a Single Vowel (`V`) or a Vowel Pair (`P`).
@@ -83,9 +83,13 @@ A lexicon word cannot contain the same syllable twice. Source material outside P
 - **Forbidden:** `kaka` 
 
 ### 4.2. Structural Hierarchy
+
+The function-word shape charter is a canon ruling; this list summarizes its four tiers.
+
 - **Single Syllable Forms (`CV` only):** Reserved for particles and base numerals (mu, ta, wi). Particles use CV structure exclusively (no fricative digraphs) for instant recognition and disambiguation.
-- **Two-Syllable Forms (`CV.V` or `FV.V`):** Used for pronouns (mia, thia, shia), prepositions (mua, thue, wei), and scale units (shao, phoi)
-- **Multi-Syllable Forms:** Used for content words (nouns, verbs, descriptors)
+- **Hiatus Disyllables (`(C)V.V`):** The relator shape: prepositions (mua, thue, wei), the core pronouns (mia, thia, shia), the clause relators (lao, pheo, phoe, shai), and the scale units (shao, phoi, lau, rei).
+- **Plain Disyllables (`CV.CV`):** The frame shape: the complementizers (openers in `-a`, closers in `-o`), the vocative kona, the four classifiers, the frame conjunctions, and the `-so` pronoun pair (miso, wiso).
+- **Multi-Syllable Forms:** Used for content words (nouns, verbs, descriptors); quantifiers, discourse markers, and interrogatives are content-shaped.
 
 ## 5. IPA Notation Standards
 
@@ -119,5 +123,5 @@ Phi uses **penultimate stress**: primary stress falls on the second-to-last syll
 
 ---
 **Related Documentation:**
-- Grammar rules: See `reference_grammar.md`
+- Grammar references: see `documents/grammar/`; the compact grammar is `manual/part7_reference/quick_reference_grammar.md`
 - Language philosophy: See `language_guide.md`
