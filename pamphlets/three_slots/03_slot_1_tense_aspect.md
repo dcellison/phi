@@ -62,7 +62,7 @@ The tense supplies the reference time, and `ki` presents the event as complete a
 
 ### Combining tense and aspect
 
-The same composition gives `to si` for an event that was in progress, `so si` for one that will be in progress, `to ro` for a past recurring pattern, and `so ro` for a future recurring pattern. `te` presents an ending. Whether that ending is welcome belongs to the event, not the particle.
+The same composition gives `to si` for an event that was in progress, `so si` for one that will be in progress, `to ro` for a past recurring pattern, and `so ro` for a future recurring pattern. `te` presents an ending.
 
 ### Practice: choose the time and view
 
