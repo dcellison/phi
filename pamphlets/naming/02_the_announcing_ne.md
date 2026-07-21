@@ -6,7 +6,7 @@ The token may be a content word (`ne sulae`) or a productive onym absent from th
 
 ### The name arrives before its bearer
 
-The primer plays the announcement absolutely straight: `ne` touches a name one full chapter before its owner walks in.
+The primer plays the announcement absolutely straight: `ne` touches a name three chapters before its owner walks in.
 
 ```
 ne sulae ha ma nai.
@@ -40,7 +40,7 @@ thia nomei hina nai.
 (What is your name?)
 ```
 
-The question puts `hina` exactly where the answer will stand, as chapter 12 §5 teaches: the shape of the question already sketches the shape of the reply. Soften it with `pi` at the front when the person is a stranger: `pi thia nomei hina nai.`
+The question puts `hina` exactly where the answer will stand, as chapter 10 §5 teaches: the shape of the question already sketches the shape of the reply. Soften it with `pi` at the front when the person is a stranger: `pi thia nomei hina nai.`
 
 ### A name owns things
 
@@ -60,23 +60,27 @@ One particle is the whole distance between a well-made pot and somebody's proper
 
 ### The words keep working
 
-Bearing a name takes nothing from the word. The texts shelf uses the cast's own syllables as plain vocabulary, unannounced and unbothered:
+Bearing a name takes nothing from the word. The Metta Sutta wishes gentle speech with the beloved's own syllables:
+
+```
+su shia moli haolu.
+OPT 3SG gentle speak.
+(May they speak gently.)
+```
+
+And ordinary sentences keep their ordinary readings:
 
 ```
 shia sulae wetha to phelu.
 3SG warm cloth PST hold.
-(They held a warm cloth about them.)
-
-su shia moli haolu.
-OPT 3SG gentle speak.
-(May they speak gently.)
+(They held a warm cloth.)
 
 tupiwa siora to phaelo.
 rabbit joy PST feel.
 (The rabbit felt joy.)
 ```
 
-A cloak did not become sulae's because she exists; the North Wind's traveler keeps their warm cloth, the sutta keeps its gentle speech, the rabbit keeps its joy. The lexicon serves both masters without strain, because `ne`, and only `ne`, says which master is speaking. The same announcement serves any proper name the language needs to carry, a village as readily as a person; the mechanism does not care what kind of someone follows.
+A cloth did not become sulae's because she exists. Across the shelf the cast's syllables keep working unannounced: the North Wind's traveler wraps their warm `wethalu` (garment) tighter, the velveteen rabbit's hind legs have a `siora` of their own, and the sutta keeps its gentle speech. The lexicon serves both masters without strain, because `ne`, and only `ne`, says which master is speaking. The same announcement serves any proper name the language needs to carry, a village as readily as a person; the mechanism does not care what kind of someone follows.
 
 ### Drill: the width of one particle
 

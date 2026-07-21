@@ -374,6 +374,26 @@ The complementizers pass reviews all ten files against chapter 19's current fram
 
 The completed base and function vocabulary covers the pamphlet without a new root, lexical question, or optional module term. The pass repairs three dependencies outside the pamphlet: chapter 19's embedded `kua` example moves to the in-situ position its own rule requires, the complementizer reference's conditional consequence gains `so`, and the shape charter's complementizer count in `canon.md` returns to seven, where the inventory has stood since the external frames were removed. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
 
+The naming pass reviews all eleven files in `pamphlets/naming/` against the current name rulings, the completed lexicon, and the corpus it cites. The pamphlet is younger than its shelf-mates and already teaches `ne` as a proper-designation marker, the productive onym charter, bearer authority, and the honesty law of the honorifics; most findings concern citation precision rather than doctrine.
+
+| File | State | Finding and disposition |
+|---|---|---|
+| `naming/00_title.md` | Revised | The title page opens on the household's warm friend and her warm soup before the charter paragraph; the scope and prerequisites were already current. |
+| `naming/01_a_name_is_a_word.md` | Reviewed | The founding pair, the cast table, and the onym charter check against canon and the lexicon; every gloss verified. Preserved. |
+| `naming/02_the_announcing_ne.md` | Revised | The question-shape reference moves from chapter 12 §5 to chapter 10 §5, the primer gap between a name's first mention and its bearer's arrival is counted honestly at three chapters, and the shelf section now quotes the Metta Sutta line verbatim while pointing at the North Wind's `wethalu` and the velveteen rabbit's `siora` by word rather than by invented quotation. |
+| `naming/03_calling_kona.md` | Revised | The claim that address in Phi cannot be abrupt becomes a design fact: the grammar builds the turn toward a person into the address itself. The cat lesson checks against primer chapter 16. |
+| `naming/04_the_three_honorifics.md` | Reviewed | The honesty law's home file; entries, order, and drill check against the three honorific entries. Preserved. |
+| `naming/05_the_family_register.md` | Revised | The portable-writing example moves `kua` to the in-situ position the embedded-question rule requires, matching the chapter 19 repair. One drill answer sheds a repeated reassurance. |
+| `naming/06_the_spoken_capital.md` | Reviewed | The letters ruling, gloss-line rule, narration rule, and Tengwar claim all check; the file carries the pamphlet's vista. Preserved. |
+| `naming/07_the_open_door.md` | Revised | The table scene now points at Part 4 instead of restating its promise; the braided scene otherwise checks against the primer's household lines. |
+| `naming/08_common_errors.md` | Reviewed | The seven errors, including the register-policing refusal, check against canon and the honorific entries. Preserved. |
+| `naming/09_exercises.md` | Revised | Exercise 24 takes the corrected in-situ `kua` line, and one answer sheds the repeated reassurance while keeping its teaching. |
+| `naming/10_appendix.md` | Revised | The particle table's duty column now varies its verbs to match each entry's own claim, and the primer cross-reference list replaces chapter 18, which carries no names, with chapters 19 and 20, which do. |
+
+### Lexical and canonical result
+
+The completed base and function vocabulary covers the pamphlet without a new root, lexical question, or optional module term. The pass repairs one dependency outside the pamphlet: the same pre-repair `kua` example survived the spoken-punctuation retrofit in `pamphlets/spoken_punctuation/02_the_question_mark_wa.md` and now matches the in-situ rule its own following sentence states. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
+
 ### Resume point
 
-Continue with `pamphlets/naming/`, then the remaining four pamphlets and the current documents. The later current-document sweep must revisit the shorthand "source of knowledge" in `documents/grammar/particle_reference.md` and "How you know" in `documents/reference/taught_patterns.md`; neither phrase should restore an epistemic claim that the particles do not make.
+Continue with `pamphlets/relative_clauses/`, then the remaining three pamphlets and the current documents. The later current-document sweep must revisit the shorthand "source of knowledge" in `documents/grammar/particle_reference.md` and "How you know" in `documents/reference/taught_patterns.md`; neither phrase should restore an epistemic claim that the particles do not make.

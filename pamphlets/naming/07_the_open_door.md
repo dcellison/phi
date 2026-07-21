@@ -46,7 +46,7 @@ thanks. 1SG grateful be.
 (Thank you. I am grateful.)
 ```
 
-Notice what the whole table declines to spend: honorifics. No one has earned `ni` in an hour, no one owes `sa`, and plain `ne keruko` is doing what canon promised it always does: correct, neutral, never cold.
+Notice what the whole table declines to spend: honorifics. No one has earned `ni` in an hour, no one owes `sa`, and plain `ne keruko` is doing exactly what Part 4 promised the plain form always does.
 
 ### The story
 

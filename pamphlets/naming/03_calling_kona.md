@@ -12,7 +12,7 @@ VOC child. IMP DAT 1SG come.
 (Child — come to me.)
 ```
 
-The pattern is the address system in miniature. `kona ne sulae`: a call, a name coming, the name. `kona lopia`: a call, a relation. Both give the person a breath's warning before their own word lands on them; address in Phi cannot be abrupt, because the grammar performs the turn toward a person before permitting speech at them.
+The pattern is the address system in miniature. `kona ne sulae`: a call, a name coming, the name. `kona lopia`: a call, a relation. Both give the person a breath's warning before their own word lands on them; the grammar builds the turn toward a person into the address itself, and the turn comes first.
 
 ### The cat lesson
 
