@@ -1,6 +1,6 @@
-# Phi Solo Listening Audit
+# Phi solo listening audit
 
-This protocol turns lexical-density concerns into reproducible maintainer observations. It does not substitute for other listeners and cannot establish universal ease. Its first purpose is to prevent intuition or spelling distance from triggering broad renames.
+This protocol turns lexical-density concerns into reproducible maintainer observations. It does not substitute for other listeners and cannot establish universal ease. Its first purpose is to prevent intuition or spelling distance from triggering broad renames. The stakes are concrete: `to` and `so` split past from future by one consonant, and only recorded trials can say whether a listener keeps them apart in a noisy kitchen.
 
 ## Two complementary audits
 
@@ -49,4 +49,4 @@ Without independent listeners, even a repeated maintainer confusion remains limi
 
 ## Claims this protocol does not license
 
-This audit cannot show that Phi is easy, that an accent is acceptable to every listener, that a pair is safe in spontaneous conversation, or that a vocabulary-wide threshold predicts comprehension. Those questions stay in the development log's external-evidence backlog.
+This audit cannot show that Phi is easy, that an accent is acceptable to every listener, that a pair is safe in spontaneous conversation, or that a vocabulary-wide threshold predicts comprehension. Those questions stay open in the recommendation table of the [language assessment](language_assessment.md) until outside listeners exist.

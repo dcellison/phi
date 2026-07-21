@@ -1,6 +1,6 @@
-# Language Assessment
+# Language assessment
 
-**Status:** Current development assessment, updated 2026-07-17 after Phi 2026.1 and Phi 2026.2.
+**Status:** Current development assessment, updated 2026-07-21 after Phi 2026.1 and Phi 2026.2.
 
 ## Executive assessment
 
@@ -19,7 +19,7 @@ Phi's strongest achievements are regularity and thematic unity. Extensive docume
 | Basic grammar | Easy to moderate | Strict order and invariant particles make rules predictable. |
 | Advanced syntax | Moderate | Particle ranks, pre-nominal clauses, complementizer pairs, topic-drop, classifiers, and scope require practice. |
 | Pronunciation | Moderate | CV syllables are simple, but hiatus and `/ɸ θ ʍ/` will be unfamiliar to many learners. |
-| Vocabulary | Moderate to hard | Roughly 1,000 content roots are mostly invented rather than internationally recognizable. |
+| Vocabulary | Moderate to hard | Roughly 1,100 content roots are mostly invented rather than internationally recognizable. |
 | Listening | Potentially hard | Many words and grammatical particles differ by only one sound. |
 | General fluency | Unknown | There is no recorded speech corpus, learner study, or spontaneous speaker community. |
 
@@ -29,7 +29,7 @@ Phi should still benefit greatly from its systematicity. Experimental artificial
 
 ### The hidden listening problem
 
-The lexicon is much more crowded than the project's minimal-pair language initially implies. The current [grandfathered baseline](../validation/minimal_pairs_baseline.txt) contains **771 edit-distance-one content-word pairs involving 470 of 1,089 content entries**. Not all are equally confusable. One cluster begins with `helu`, `kelu`, and `melu`, then continues through `phelu`, `shelu`, and `thelu`; together they create substantial lexical competition.
+The lexicon is much more crowded than the project's minimal-pair language initially implies. The current [grandfathered baseline](../validation/minimal_pairs_baseline.txt) contains **760 edit-distance-one content-word pairs involving 466 of 1,145 content entries**. Not all are equally confusable. One cluster begins with `helu`, `kelu`, and `melu`, then continues through `phelu`, `shelu`, and `thelu`; together they create substantial lexical competition.
 
 The short function words are denser still: `to`, `so`, `ro`, `po`, `no`, `lo`, `ko`, and `mo` carry sharply different meanings through a single consonant. Syntactic position helps, but noise, accents, and learner errors will expose the weakness. A perceptual collision model is needed in addition to character-level edit distance.
 
@@ -45,7 +45,7 @@ Phi now draws a firmer boundary around identity and interoperability. `ne` licen
 
 These mechanisms establish a design boundary, not demonstrated usability. Exact data still needs a Phi explanation of its role, source pronunciation remains an outside convention, and productive names still need learner and listening evidence. The Systems module supplies technical relations around state and function; the Ecological module follows evidence and material pathways; Commons names institutional power; Work covers organized activity and labor criticism; Medical separates bodily reports from clinical conclusions; Accessibility names barriers and participation harm; Household fills practical gaps in domestic life. None interprets a source artifact or replaces domain expertise.
 
-## What Remains Missing
+## What remains missing
 
 1. **Precision beyond internal expression.** Separately preserved source material still carries exact quantities and technical values, named medicines and test results, legal wording and standards, identity wording, and institutional records. Phi's internal ternary numerals express exact integers through 242, and its eight established modules supply relations around those artifacts. Economic, specialized legal, advanced medical, and cross-domain scientific interpretation remain much thinner, and no module term makes an exact source self-interpreting.
 2. **Modern semantic coverage.** The lexicon is strong in household and craft vocabulary, in nature and emotion, and in reflective or philosophical writing. Its modules now support systems, ecology, governance, and work. Bodily care, public health, accessibility, and domestic material life also have dedicated coverage. Employment and political economy remain thin. So do reproductive health and sexuality, contemporary technology, and specialized science. Advanced medical and legal systems remain thin too.
@@ -54,7 +54,7 @@ These mechanisms establish a design boundary, not demonstrated usability. Exact 
 5. **Accent and casual-speech evidence.** "Pure vowels forever" and exceptionless hiatus are viable recital standards, not demonstrated predictions about a speaker community. Natural fast speech may produce reduction, gliding, assimilation, and regional accents; Phi needs evidence before defining accepted variation.
 6. **Empirical validation.** Machine validation establishes internal consistency, not learnability, intelligibility, semantic parity, or peaceful behavior. Phi needs recordings from diverse speakers, listening tests, learner-error data, blind paraphrase, and unscripted conversation.
 
-The claim that Phi "cannot be spoken fast" should be treated as pedagogy, not phonological fact. Cross-language research finds that languages trade syllabic complexity against speech rate; simpler syllables can be produced more rapidly. See [Pellegrino, Coupe, and Marsico](https://hub.hku.hk/handle/10722/262830).
+Phi's own teaching now describes unhurried speech as freedom from needless haste rather than a speed limit, and that restraint is well judged: cross-language research finds that languages trade syllabic complexity against speech rate, so Phi's simple open syllables favor fast speech. See [Pellegrino, Coupe, and Marsico](https://hub.hku.hk/handle/10722/262830).
 
 ## Comparison with constructed languages
 
@@ -77,7 +77,7 @@ Phi's evidential system may successfully remind speakers to consider their sourc
 
 Likewise, the five pillars are a strong artistic identity, not cultural neutrality. Solarpunk, secular Buddhism, Art Nouveau, peace linguistics, and an idealized pre-industrial household are particular values. Phi is admirable for being value-explicit, but it should not present those values as universal or neutral.
 
-## Recommendation Status
+## Recommendation status
 
 | Recommendation | Status | Next criterion |
 |---|---|---|

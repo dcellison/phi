@@ -8,11 +8,11 @@ The audit excludes `archive/`. Historical material has no authority over current
 
 ## What was checked
 
-The review covered the current canon, grammar references, manual, pamphlets, primer, book, texts, project guidance, all 1,275 vocabulary entries, generated reference material, and the validator. It searched both English explanations and Phi examples. The structured lexicon contains 1,375 examples and 1,398 sentences. Active Markdown contains 5,313 Phi spans recognised by the validator. Of these, 489 have a Slot 0 frame, 319 have a discourse marker, and 109 use `lu`. The same scan found 246 clause-relator spans and 393 with `rena`.
+The review covered the current canon, grammar references, manual, pamphlets, primer, book, texts, project guidance, all 1,275 vocabulary entries, generated reference material, and the validator. It searched both English explanations and Phi examples. The structured lexicon contains 1,375 examples and 1,398 sentences. The review's scan covered 5,313 active Markdown Phi spans recognized by the validator. Of these, 489 had a Slot 0 frame, 319 had a discourse marker, and 109 used `lu`. The same scan found 246 clause-relator spans and 393 with `rena`.
 
 | Construction | Required order | Audit result |
 |---|---|---|
-| Predicate clause | subject, circumstances, object, manner and Slot 1 material before the predicate | No licensed post-predicate argument or modifier was found. The validator reports no Slot 1 misorder. |
+| Predicate clause | subject, circumstances, object, predicative complement, manner and Slot 1 material before the predicate | No licensed post-predicate argument or modifier was found. The validator reports no Slot 1 misorder, and the later complement-order ruling keeps the complement before the Slot 1 stack. |
 | Noun phrase | possessors, descriptions, quantity, classifiers and Slot 2 material before the noun | Current teaching and examples agree. The fixed `mo ko` superlative remains wholly before its target. |
 | Prepositional phrase | preposition before its object; the phrase before the object or predicate it modifies | All 27 preposition entries agree, and the detectable postposition check reports no violation. |
 | Dependent frame | `pheo`, `phoe`, `lao`, `shai` or `lila` before its dependent material; a complete dependent clause before the main clause | Every current relator span was screened. Twenty causal or concessive renderings that looked backward across a result or sentence boundary were repaired. The `lila` check reports no postposed purpose frame. |

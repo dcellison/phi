@@ -1,4 +1,4 @@
-# Peace Linguistics Vocabulary Audit
+# Peace linguistics vocabulary audit
 
 **Audit date:** 17 July 2026
 
@@ -6,7 +6,7 @@
 
 ## Purpose and conclusion
 
-This audit asks whether Phi's current vocabulary makes violence, domination, humiliation, or combat-shaped thought ordinary in the language. It covers all 1,221 current lexicon entries and excludes `archive/`. The result is mostly reassuring. No entry gives Phi a direct root for generic conflict, organised violence, a violent role, or a weapon. Phi is much more at home with consent, care, accountability, and repair.
+This audit asks whether Phi's current vocabulary makes violence, domination, humiliation, or combat-shaped thought ordinary in the language. It covers all 1,221 lexicon entries current at the audit date and excludes `archive/`. The result is mostly reassuring. No entry gives Phi a direct root for generic conflict, organised violence, a violent role, or a weapon. Phi is much more at home with consent, care, accountability, and repair.
 
 The audit found one recent lexical concern. `patore`, glossed *hit*, entered the base vocabulary on 17 July 2026 in commit `6ef76685`, merged through PR #404. It never entered authored Phi or a registered compound. Its nonviolent uses divide cleanly among forceful contact, displacement, damage, injury, and rhythmic hand contact, so the broad root is retired rather than narrowed.
 
@@ -126,7 +126,7 @@ This audit records the candidate as declined. Modules are not a side door for vi
 
 The machine-checked register now closes `CV-HIT-02` with the compositional result and records the former root as declined under `CV-HIT-01`. The ritual-and-play batch is closed as well: its applause expression no longer depends on a general impact verb.
 
-The neighbouring `CV-AIM-01` remains open, but its wording now asks only about physical alignment in craft or measurement. It no longer proposes a general target noun. Direction, orientation, intention, and purpose should continue to carry the abstract work unless an embodied practice reveals a narrower need.
+The neighbouring `CV-AIM-01` was reworded during the audit to ask only about physical alignment in craft or measurement, without its earlier general target noun, and the register has since settled it compositionally: `wea` (toward) names the selected reference and `rato` (turn) changes the object's facing. Direction, orientation, intention, and purpose continue to carry the abstract work.
 
 ## Admission test for future vocabulary
 

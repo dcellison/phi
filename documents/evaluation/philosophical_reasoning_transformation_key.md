@@ -1,25 +1,25 @@
-# Philosophical Reasoning Transformation Key
+# Philosophical reasoning transformation key
 
-**Status:** Authoring and comparison key for the [Phi-only prompt packet](philosophical_reasoning_transformation_prompts.md), current to 2026-07-10. This is not a human comprehension or conversation result.
+**Status:** Authoring and comparison key for the [Phi-only prompt packet](philosophical_reasoning_transformation_prompts.md), current to 2026-07-21. This is not a human comprehension or conversation result.
 
-## Use Boundary
+## Use boundary
 
 Keep this key closed while making any interpretation that is intended to be independent. The prompt packet is available immediately; a useful comparison exists only after the learner's interpretation is recorded along with any grammar or lexicon references used.
 
 The key states intended readings so the transformation controls can be audited and optionally compared with a later interpretation. It does not establish that those readings are recoverable by a learner or another reader.
 
-## Transformation Controls
+## Transformation controls
 
 | Prompt | Source dialogue | Controlled change | Material held constant | Principal conclusion | Authored repair practice |
 |---|---|---|---|---|---|
-| 1A | [Rain and the River](philosophical_test_corpus.md#3-rain-and-the-river) | The rain premise changes from reported knowledge to direct knowledge. | Rainfall content, direct observation of the unclean river, and the causal belief remain. | Rain caused the river to become harmful, held as inference rather than direct knowledge. | Understanding without agreement and an evidence-source challenge. |
-| 1B | [Rain and the River](philosophical_test_corpus.md#3-rain-and-the-river) | The premises remain while the causal conclusion is withdrawn and replaced by suspended judgment. | Reported rainfall and direct observation of the unclean river remain. | The cause of the river's harmful condition is not known. | Alternative harmful example, provisional withdrawal, rephrasing, and pause. |
-| 2A | [Grain for Hunger and Seed](philosophical_test_corpus.md#11-grain-for-hunger-and-seed) | C's contribution premise changes to non-contribution; the dependent larger-share claim is removed rather than contradicted. | Scarcity, hunger, seed need, C's need for a portion, urgency, two-part allocation, provisional acceptance, disagreement, and review remain. | Make two portions, give one to hungry people, and retain one as seed. | Clarification request, acceptance without agreement, and scheduled review. |
-| 2B | [Grain for Hunger and Seed](philosophical_test_corpus.md#11-grain-for-hunger-and-seed) | All source premises remain while the allocation changes from two portions to three, adding a portion for C. | Scarcity, hunger, seed need, contribution, larger-share claim, urgency, provisional acceptance, disagreement, and review remain. | Make three portions for hungry people, seed, and C. | Clarification request, acceptance without agreement, and scheduled review. |
-| 3A | [Definition Under Pressure](philosophical_test_corpus.md#5-definition-under-pressure) | The counterexample premise changes from the community not feeling peace to some people not feeling peace. | Symbol, proposed meaning, characterization of peace, universal-negative conclusion, and final agreement remain. | Peace does not connect every person. | Clarification, understanding without agreement, example, rephrasing, and agreement. |
-| 3B | [Definition Under Pressure](philosophical_test_corpus.md#5-definition-under-pressure) | All source premises remain while the conclusion changes from a claim about peace to a claim about the symbol's signification. | Symbol, proposed meaning, characterization, community counterexample, and final agreement remain. | The symbol cannot signify peace for every person. | Clarification, understanding without agreement, example, rephrasing, and agreement. |
+| 1A | [Rain and the river](philosophical_test_corpus.md#3-rain-and-the-river) | The rain premise changes from reported knowledge to direct knowledge. | Rainfall content, direct observation of the unclean river, and the causal belief remain. | Rain caused the river to become harmful, held as inference rather than direct knowledge. | Understanding without agreement and an evidence-source challenge. |
+| 1B | [Rain and the river](philosophical_test_corpus.md#3-rain-and-the-river) | The premises remain while the causal conclusion is withdrawn and replaced by suspended judgment. | Reported rainfall and direct observation of the unclean river remain. | The cause of the river's harmful condition is not known. | Alternative harmful example, provisional withdrawal, rephrasing, and pause. |
+| 2A | [Grain for hunger and seed](philosophical_test_corpus.md#11-grain-for-hunger-and-seed) | C's contribution premise changes to non-contribution; the dependent larger-share claim is removed rather than contradicted. | Scarcity, hunger, seed need, C's need for a portion, urgency, two-part allocation, provisional acceptance, disagreement, and review remain. | Make two portions, give one to hungry people, and retain one as seed. | Clarification request, acceptance without agreement, and scheduled review. |
+| 2B | [Grain for hunger and seed](philosophical_test_corpus.md#11-grain-for-hunger-and-seed) | All source premises remain while the allocation changes from two portions to three, adding a portion for C. | Scarcity, hunger, seed need, contribution, larger-share claim, urgency, provisional acceptance, disagreement, and review remain. | Make three portions for hungry people, seed, and C. | Clarification request, acceptance without agreement, and scheduled review. |
+| 3A | [Definition under pressure](philosophical_test_corpus.md#5-definition-under-pressure) | The counterexample premise changes from the community not feeling peace to some people not feeling peace. | Symbol, proposed meaning, characterization of peace, universal-negative conclusion, and final agreement remain. | Peace does not connect every person. | Clarification, understanding without agreement, example, rephrasing, and agreement. |
+| 3B | [Definition under pressure](philosophical_test_corpus.md#5-definition-under-pressure) | All source premises remain while the conclusion changes from a claim about peace to a claim about the symbol's signification. | Symbol, proposed meaning, characterization, community counterexample, and final agreement remain. | The symbol cannot signify peace for every person. | Clarification, understanding without agreement, example, rephrasing, and agreement. |
 
-## Prompt 1A Proposition Inventory
+## Prompt 1A proposition inventory
 
 | ID | Intended content | Source, modality, or negation | Argument or discourse role |
 |---|---|---|---|
@@ -37,7 +37,7 @@ The key states intended readings so the transformation controls can be audited a
 
 **Primary recovery pressure.** A reader must keep `hi sano`, `hi ma sano`, and `ke nohero` separate. Recovering only that A is certain, uncertain, or contradicted would erase the evidential control.
 
-## Prompt 1B Proposition Inventory
+## Prompt 1B proposition inventory
 
 | ID | Intended content | Source, modality, or negation | Argument or discourse role |
 |---|---|---|---|
@@ -54,7 +54,7 @@ The key states intended readings so the transformation controls can be audited a
 
 **Primary recovery pressure.** The old device is an alternative possibility, not the replacement conclusion. The final conclusion is non-knowledge, and `phelui naweri` must not be softened into mere hesitation or expanded into moral repudiation without evidence.
 
-## Prompt 2A Proposition Inventory
+## Prompt 2A proposition inventory
 
 | ID | Intended content | Source, modality, or negation | Argument or discourse role |
 |---|---|---|---|
@@ -73,7 +73,7 @@ The key states intended readings so the transformation controls can be audited a
 | 2A-C2 | One portion will be given to hungry people. | future transfer | First allocation action. |
 | 2A-C3 | One portion will be held as seed. | `phea`; future holding | Second allocation action. |
 | 2A-S1 | C does not believe the choice is fair. | embedded proposition; `ma nohero` | Evaluation remains unresolved. |
-| 2A-P7 | If the group does not choose now, hungry people may be unable to have food. | `lu`; negated choice; `po ma phelu` | Urgency premise and pressure on delay. |
+| 2A-P7 | If the group does not choose now, hungry people cannot have food. | `lu`; negated choice; `po ma phelu` | Urgency premise and pressure on delay. |
 | 2A-S2 | C accepts the choice for the present but does not agree. | present-time acceptance; `whekai`; `ma nawo` | Provisional compliance without endorsement. |
 | 2A-R4 | The group will discuss the choice again after one day. | `pheo`; future | Scheduled review without a conventional review procedure. |
 
@@ -81,7 +81,7 @@ The key states intended readings so the transformation controls can be audited a
 
 **Primary recovery pressure.** The negative scope in `to ma shorema` must remain attached to C's past contribution. A paraphrase that says C contributed, did not need a portion, or was excluded from all hungry people would add or reverse information.
 
-## Prompt 2B Proposition Inventory
+## Prompt 2B proposition inventory
 
 | ID | Intended content | Source, modality, or negation | Argument or discourse role |
 |---|---|---|---|
@@ -100,7 +100,7 @@ The key states intended readings so the transformation controls can be audited a
 | 2B-C3 | One portion will be held as seed. | future holding | Second allocation action. |
 | 2B-C4 | One portion will be given to C. | `wei thia`; future transfer | New third allocation action. |
 | 2B-S1 | C still does not believe the choice is fair. | `ma nohero` | Evaluation held constant despite receiving a portion. |
-| 2B-P7 | Delay may leave hungry people without food. | conditional; `po ma` | Urgency premise preserved. |
+| 2B-P7 | If the group does not choose now, hungry people cannot have food. | conditional; `po ma` | Urgency premise preserved. |
 | 2B-S2 | C accepts the present action but still does not agree. | acceptance plus contrastive disagreement | Provisional stance preserved. |
 | 2B-R4 | The choice will be discussed again after one day. | future review | Review preserved. |
 
@@ -108,7 +108,7 @@ The key states intended readings so the transformation controls can be audited a
 
 **Primary recovery pressure.** `ta shao` is exactly three, not an approximate many, while the sizes and sufficiency of the three portions remain unstated. A paraphrase that makes the portions equal, sufficient, or proportionate would add conclusions.
 
-## Prompt 3A Proposition Inventory
+## Prompt 3A proposition inventory
 
 | ID | Intended content | Source, modality, or negation | Argument or discourse role |
 |---|---|---|---|
@@ -123,9 +123,9 @@ The key states intended readings so the transformation controls can be audited a
 
 **Expected plain paraphrase.** The proposed symbol meaning and characterization remain. The counterexample narrows from a community to some people, while the rephrased universal-negative conclusion remains unchanged. A understands without agreeing before B's example, and B agrees with A's final rephrase.
 
-**Primary recovery pressure.** `soli miona` means some people, while `ma theula miona lorea` denies connection to every person. The prompt does not state how many people, which community, or whether the example is sufficient to define peace.
+**Primary recovery pressure.** `soli miona` means some people, while `theula miona ma lorea` denies connection to every person. The prompt does not state how many people, which community, or whether the example is sufficient to define peace.
 
-## Prompt 3B Proposition Inventory
+## Prompt 3B proposition inventory
 
 | ID | Intended content | Source, modality, or negation | Argument or discourse role |
 |---|---|---|---|
@@ -142,7 +142,7 @@ The key states intended readings so the transformation controls can be audited a
 
 **Primary recovery pressure.** `po ma` denies possibility and should be read as *cannot*, not weak *may not*. The dative `wei theula miona` marks the people for whom signification is claimed; the prompt does not say that the symbol has no meaning or that nobody understands it.
 
-## Authored Repair Coverage
+## Authored repair coverage
 
 | Required operation | Prompt evidence | What remains unproven |
 |---|---|---|
@@ -151,7 +151,7 @@ The key states intended readings so the transformation controls can be audited a
 | Retraction | 1B uses provisional `phelui naweri` before suspended judgment. | Whether the form is heard as withdrawal rather than moral refusal or rejection of the interlocutor. |
 | Understood disagreement | 1A, 2A, 2B, 3A, and 3B keep understanding, acceptance, agreement, and disagreement distinct. | Whether those stances remain recoverable under unrehearsed delivery and repair. |
 
-## Scoring Method
+## Scoring method
 
 For each prompt, compare the independent paraphrase against every proposition row. Record a proposition as lost when its content is absent, added when the paraphrase asserts unsupported content, and changed when source, modality, negation, participant, quantity, temporal scope, or discourse role differs.
 
@@ -159,7 +159,7 @@ Do not collapse errors into one accuracy percentage. Report at least these count
 
 Treat alternative but defensible paraphrases as ambiguity evidence rather than forcing one answer. The key records the authored target, not exclusive authority over every pragmatic reading.
 
-## Authoring Observations, Not Test Results
+## Authoring observations, not test results
 
 - All six transformations were written before the Philosophical Reasoning vocabulary pass and therefore remain useful core-vocabulary before-states. The module now supplies explicit words for premise, conclusion, objection, support relations, validity, and related concepts without changing the prompts' grammar.
 - Prompt 1A makes direct access to premises and inferential access to a causal conclusion formally separable. A learner's reading may later show whether that scope is easy or difficult to recover, but no such result is required before Phi continues to grow.

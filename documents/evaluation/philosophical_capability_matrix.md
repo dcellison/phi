@@ -1,6 +1,6 @@
-# Phi Philosophical Capability Matrix
+# Phi philosophical capability matrix
 
-This matrix is a development instrument, not a claim of philosophical completeness. It asks whether Phi can perform recurring operations in connected argument, identifies the current mechanism, and records when the honest answer is composition, separately preserved source material, or an unresolved gap.
+This matrix is a development instrument, not a claim of philosophical completeness. It asks whether Phi can perform recurring operations in connected argument, identifies the current mechanism, and records when the honest answer is composition, separately preserved source material, or an unresolved gap. The operation bank at the end holds validated Phi lines for the core operations, so a Demonstrated row can be checked rather than believed.
 
 ## Status key
 

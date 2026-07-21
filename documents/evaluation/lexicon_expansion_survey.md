@@ -1,4 +1,4 @@
-# Lexicon Expansion Survey (2026-07-18)
+# Lexicon expansion survey (2026-07-21)
 
 This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,275 entries: 1,145 content words, 110 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become detailed where speakers need specialised discussion.
 
@@ -21,7 +21,7 @@ The previous survey described a 906-word snapshot and must not be used as a curr
 | berry | `mirulo` (berry) | Remove from the staple/nature list. |
 | branch | `loremi` (branch) | Remove from the household/nature list. |
 | bread | `napa` (bread) | Do not treat all culturally situated staples as absent. |
-| meeting | `lona` (meeting) | A gathering event exists; `CV-MEET-01` now preserves the question of whether a dedicated verb *meet* is useful. |
+| meeting | `lona` (meeting); `haromi` (meet) | The register has since answered the verb question: `haromi` names an encounter by plan or chance, while `lona` remains the gathering event. |
 
 ## What is already well covered
 
@@ -109,25 +109,25 @@ The [Household and Daily Life module](../modules/household_and_daily_life.md) ha
 
 The original pass added `mirewu` private to shared core because privacy matters beyond the household. It belongs in care and friendship as readily as it does in governance or questions of access. Solitude needs the word too. The current completeness review adds no root. Chair remains within `meipa` seat, while general container and basket remain `molu` and `wiru`. Hospitality and tidying stay explicit compositions, as do food preservation, cooking methods, and domestic-work relations. Exact sanitation instructions and utility records retain their sources. So do tenancy, addresses, and culturally specific food terms. Narrower appliances, furnishings, and tools keep recorded return conditions; materials and cultivation practices do as well.
 
-## Priority 2: Registered vocabulary opportunities
+## Priority 2: Registered vocabulary outcomes
 
-These candidates may be coined whenever they suit an active text, a planned module, or the desired texture of Phi.
+These families were tracked here while their questions stayed open. Each has since been decided in the register, and the rows below record where the answers landed.
 
 ### Animals for fables and ecological writing
 
-Current coverage includes dog, cat, bird, fish, sheep, horse, snake, insect, butterfly, mouse, rabbit, and animal. Bee, wolf, deer, bear, frog, spider, cow, and goat have no dedicated roots in the current inventory. `CV-ANIMAL-01` keeps this set open.
+Current coverage includes dog, cat, bird, fish, sheep, horse, snake, insect, butterfly, mouse, rabbit, and animal, and `CV-ANIMAL-01` is implemented: `hemoko` (bee), `lorahu` (wolf), `thenari` (deer), `maruko` (bear), `tuleno` (frog), `nirowe` (spider), `mukowa` (cow), and `karume` (goat) give the familiar animals direct roots for ecological description, household life, and stories.
 
-An original text, ecological discussion, or planned fable can motivate any of these words. A transparent description remains useful when it feels better, but Phi need not wait until the general animal term becomes impossible.
+Further species follow the ordinary test: a named animal earns a root when it recurs, turns a scene, or belongs to the daily round, and a transparent description remains available when it feels better.
 
 ### Writing and correspondence
 
-Phi has `thekiro` (write), `theo` (read), `shelu` (book), `toloi` (messenger), and the event-noun rule. It has no dedicated roots for page, ink, letter, or message. `CV-WRITE-01` keeps the choice visible.
+Phi has `thekiro` (write), `theo` (read), `shelu` (book), `toloi` (messenger), and the event-noun rule, and `CV-WRITE-01` is implemented: `penuwa` (page) and `milaro` (message) are direct nouns, while registered compounds supply ink as writing dye, a written character as a writing sign, and a letter as a written message. A journal-practice culture can now name its own materials.
 
-This matters to a journal-practice culture. A message might remain a telling carried by a messenger and a page a portion of a book, but page, ink, letter, or message may be coined whenever those concepts deserve a stable place in ordinary writing practice.
+One writing question stays deliberately open: `CV-WRITE-02` defers a verb for spelling a form aloud character by character until conversational repair shows the recurring need. Asking a speaker to say a word is already possible, and the exact written form lives in the surrounding medium, where spelling and script belong.
 
 ### Staples and household implements
 
-`napa` (bread) is present. Rice and tea still lack dedicated roots and remain open under `CV-FOOD-01`; nut is the registered compound `kerou lureko` (stone-fruit) under `CV-FOOD-02`. The Household module covers several ordinary implements directly, including the spoon, broom, and portable containers. Chair remains covered by `meipa` (seat), which already includes chairs, stools, benches, and sitting cushions.
+`napa` (bread), `napari` (rice), and `hasumi` (tea) are present; `CV-FOOD-01` is implemented, and nut is the registered compound `kerou lureko` (stone-fruit) under `CV-FOOD-02`. The Household module covers several ordinary implements directly, including the spoon, broom, and portable containers. Chair remains covered by `meipa` (seat), which already includes chairs, stools, benches, and sitting cushions.
 
 Culturally situated foods may receive ordinary roots whenever Phi wants them. Other implements can remain descriptions of shape, use, or material until a direct word feels better.
 

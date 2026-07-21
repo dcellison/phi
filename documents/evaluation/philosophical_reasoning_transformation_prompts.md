@@ -1,6 +1,6 @@
-# Philosophical Reasoning Transformation Prompts
+# Philosophical reasoning transformation prompts
 
-**Status:** Authored Phi-only optional practice packet, current to 2026-07-10. No human interpretation or unrehearsed repair result has been recorded.
+**Status:** Authored Phi-only optional practice packet, current to 2026-07-21. No human interpretation or unrehearsed repair result has been recorded.
 
 ## Purpose
 
@@ -8,7 +8,7 @@ This packet begins the [Philosophical Reasoning profile](../modules/philosophica
 
 The prompts contain no glosses or free translations. The separate [transformation key](philosophical_reasoning_transformation_key.md) records the controlled changes, proposition inventory, expected sources, modality, negation, participants, discourse relations, and scoring form. A learner who wants to compare an independent interpretation should keep the key closed until that interpretation is complete.
 
-## Use Protocol
+## Use protocol
 
 1. Use any unread prompt immediately or later, keeping the source dialogue and proposition key closed if you want an independent comparison.
 2. Read the transformed dialogue and write a plain-language paraphrase. The grammar, lexicon, and Philosophical Reasoning module may be consulted; record which references were used.
@@ -19,7 +19,7 @@ The prompts contain no glosses or free translations. The separate [transformatio
 
 The repair lines already authored into these transformations demonstrate structural availability only. They are not evidence that a convention works in unrehearsed conversation.
 
-## 1A. Rain and the River: Premise Variation
+## 1A. Rain and the river: premise variation
 
 ```
 A: mia mena pheralu to lepa meno hi sano.
@@ -35,7 +35,7 @@ B: thia mena pheralu to lepa meno hi sano. thia mena luphore hiso ma nai meno hi
 A: mia shelomu. whekai mia mena pheralu luphore peloma ka kelu meno ke nohero.
 ```
 
-## 1B. Rain and the River: Conclusion Variation
+## 1B. Rain and the river: conclusion variation
 
 ```
 A: mia mena pheralu to lepa meno ti sano.
@@ -51,7 +51,7 @@ A: mia phelui naweri. shorela mia wela hina luphore to peloma ka kelu welo ma sa
 B: mia shelomu. lo mia therilu.
 ```
 
-## 2A. Grain for Hunger and Seed: Premise Variation
+## 2A. Grain for hunger and seed: premise variation
 
 ```
 A: laenu henoi napuro ma phelu.
@@ -88,10 +88,10 @@ A: lu lo mia ha thimu ma kanu. lo kumoli miona nuora po ma phelu.
 
 C: mia ha thimu ha kanu kelomi. whekai mia ma nawo.
 
-A: pheo ta philo lo mia ha kanu so shareo.
+A: lo mia pheo ta philo ha kanu so shareo.
 ```
 
-## 2B. Grain for Hunger and Seed: Conclusion Variation
+## 2B. Grain for hunger and seed: conclusion variation
 
 ```
 A: laenu henoi napuro ma phelu.
@@ -134,10 +134,10 @@ A: lu lo mia ha thimu ma kanu. lo kumoli miona nuora po ma phelu.
 
 C: mia ha thimu ha kanu kelomi. whekai mia ma nawo.
 
-A: pheo ta philo lo mia ha kanu so shareo.
+A: lo mia pheo ta philo ha kanu so shareo.
 ```
 
-## 3A. Definition Under Pressure: Premise Variation
+## 3A. Definition under pressure: premise variation
 
 ```
 A: ha relo hina reo.
@@ -152,12 +152,12 @@ A: mia shelomu. whekai mia ma nawo.
 
 B: phisu soli miona shea ma phaelo.
 
-A: shorela shea ma theula miona lorea.
+A: shorela shea theula miona ma lorea.
 
 B: mia nawo.
 ```
 
-## 3B. Definition Under Pressure: Conclusion Variation
+## 3B. Definition under pressure: conclusion variation
 
 ```
 A: ha relo hina reo.
@@ -177,7 +177,7 @@ A: shorela ha relo wei theula miona shea po ma shelo.
 B: mia nawo.
 ```
 
-## Optional Use Record
+## Optional use record
 
 | Prompt | Use date | Conditions and references | Propositions lost | Propositions added | Source, modality, or negation changes | Participant or discourse changes | Repair result | Follow-up |
 |---|---|---|---|---|---|---|---|---|

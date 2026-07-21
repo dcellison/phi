@@ -1,8 +1,8 @@
-# Work, Craft, and Repair Vocabulary Audit
+# Work, Craft, and Repair vocabulary audit
 
 **Status:** Preserved before-state audit underlying the established [Work, Craft, and Repair module](../modules/work_craft_and_repair.md), conducted 2026-07-10. `archive/` excluded. The findings describe the pre-module lexicon; the later vocabulary pass is summarized below.
 
-## Purpose and Method
+## Purpose and method
 
 This audit was conducted against Phi's 937-entry pre-module inventory to determine what could support a zero-new-root Work, Craft, and Repair profile. It reviews documented roots for labor, making, repair, tools, materials, qualities, teaching, learning, coordination, consent, safety, exchange, and responsibility. It remains the before-state and concept inventory for the completed first vocabulary pass.
 
@@ -10,7 +10,7 @@ The later [Systems and Shared Infrastructure module](../modules/systems_and_shar
 
 The audit is not a list of English headwords to translate. A missing term matters only when connected Phi use cannot preserve the needed distinction through ordinary clauses, an existing conversion, separately presented source material, or a deliberate refusal to conventionalize it.
 
-## Findings at a Glance
+## Findings at a glance
 
 These findings are historical claims about the audited 937-entry inventory, not claims that the corresponding distinctions remain absent after the module pass.
 
@@ -20,7 +20,7 @@ These findings are historical claims about the audited 937-entry inventory, not 
 - Exact specifications, safety instructions, certifications, contracts, prices, wages, identifiers, and technical role names can be preserved in source material outside the Phi passage. Exact source preservation does not establish understanding, competence, consent, authority, compliance, or safe completion.
 - The existing inventory is strong enough to justify testing a zero-new-root profile. It is not strong enough to claim that work relations, occupational safety, quality assurance, or economic life are already well covered.
 
-## Direct Coverage Map
+## Direct coverage map
 
 | Area | Existing resources | Audit judgment |
 |---|---|---|
@@ -35,7 +35,7 @@ These findings are historical claims about the audited 937-entry inventory, not 
 | Commitment, capacity, and safety | `seru` commit, `thonai` responsible, `phelona` require, `po` possibility, `na` necessity, `ralu` free, `therilu` rest, `kipona` pain, `pukea` danger, `shurano` safe, `shorupo` protect | Speakers can state self-binding commitment, willingly carried responsibility, need, practical possibility, necessity, freedom, rest, pain, danger, and safety. These forms do not define assigned duty, work capacity, fatigue, hazard control, stop-work authority, accommodation, or responsibility for final approval. |
 | Exchange and association | `wisola` exchange, `piru` trader, `loami` gift, `loa` give, `howela` receive, `pheloma` serve, `temu` guild, `thorae` facilitator, `woru` keeper | Phi can describe gifts, exchange, trade, service, craft association, facilitation, and keeping. It lacks conventional price, wage, payment, compensation, contract, employment, ownership, credentialing body, or regulatory authority. |
 
-## Semantic Pressure and Unsafe Inferences
+## Semantic pressure and unsafe inferences
 
 - **`riola` is not neutral work.** Its entry defines labor as purposeful contribution serving beyond the self and contrasts it with drudgery. Using it for coerced, alienated, extractive, meaningless, or harmful labor may falsely dignify the relation or erase the worker's judgment.
 - **`pheloma`, `molawi`, and `wenola` presuppose positive relations.** Joyful service, harmonious cooperation, and mutually respectful collaboration cannot neutrally describe compelled service, conflict inside a team, sabotage, domination, or nominal collaboration without shared control.
@@ -47,7 +47,7 @@ These findings are historical claims about the audited 937-entry inventory, not 
 - **Measurement is not certification.** `masue`, comparison roots, and an exact dimension can support checking, but they do not establish instrument validity, tolerance, applicable standard, qualified interpretation, or approval.
 - **`temu` does not create jurisdiction.** A guild is an association around shared skill, not automatically a licensing body, employer, owner, disciplinary authority, or representative of every practitioner.
 
-## Missing or Thin Relations
+## Missing or thin relations
 
 | Vocabulary family | Distinctions currently missing or thin | Initial zero-root handling |
 |---|---|---|
@@ -62,7 +62,7 @@ These findings are historical claims about the audited 937-entry inventory, not 
 | Materials and logistics | raw material, stock, inventory, supply, component, offcut, waste, reuse, recycling, disposal | Follow each material through holding, movement, transformation, use, repair, and final handling; compare with Ecological Systems and Material Life. |
 | Access and participation | adapted tool, communication format, pacing, work accommodation, assistance, representation | State the person, intended activity, barrier, requested change, accepted or refused help, timing, and participation outcome; compare with Accessibility and Participation. |
 
-## Current Composition and External Strategies
+## Current composition and external strategies
 
 | Need | Current strategy | Limit to record |
 |---|---|---|
@@ -74,13 +74,13 @@ These findings are historical claims about the audited 937-entry inventory, not 
 | Describe completion | State the actions performed and the resulting whole, sturdy, smooth, fitting, repaired, or restored condition; state remaining uncertainty separately. | Phi has no conventional work-status, acceptance, handoff, sign-off, or warranty relation. |
 | Discuss compensation or institutional terms | Preserve the exact wage, price, contract, credential, role, or rule in source material outside the Phi passage and describe concrete giving, receiving, exchange, commitment, and authority in Phi. | A paraphrase may erase legal force or exploitation; a source record does not make the arrangement legitimate or understood. |
 
-## Scenario Evidence
+## Scenario evidence
 
 [The wheel, the chisel, and the promised repair](philosophical_test_corpus.md#15-the-wheel-the-chisel-and-the-promised-repair) applies this audit in connected Phi. It tests method knowledge, apprenticeship, an imposed sharp-tool task, refusal, hand pain, a prior commitment, urgency, exact dimensional and safety instructions, self-selected work, teaching boundaries, shared recording, and unresolved safe return to use.
 
 The scenario confirms that concrete craft, refusal, capacity, teaching, measurement, and planned contribution are compositional. It also confirms that task identity, assignment authority, skill or qualification, bounded consent to training, workload, inspection, completion criteria, and final safety responsibility remain thin.
 
-## Audit Conclusion
+## Audit conclusion
 
 The inventory and scenario together supplied the before-state and boundaries for the initial [Work, Craft, and Repair profile](../modules/work_craft_and_repair.md). Existing vocabulary was dense enough to organize and teach, while its idealized work semantics and thin organizational relations provided clear opportunities for transparent compounds and module coinage.
 

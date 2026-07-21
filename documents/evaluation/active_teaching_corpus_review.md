@@ -221,10 +221,6 @@ All twenty files under `manual/part6_mastery/` are reviewed. Eighteen needed rev
 
 The completed base and function vocabulary covers Part VI. One optional Commons word, `kowela`, appears only where the community lesson labels it and supplies base `sila lona`; no other module term is needed. Direct `tuleno`, `tupi`, `shonuwa`, `norawhi`, `rinu`, and `whemura` repair stale gaps or workarounds, and no lexical question remains open.
 
-### Resume point
-
-Continue with `manual/part7_reference/`. Separate maintained teaching and reference prose from generated lexicon views, preserve approved module furniture, and change a Phi passage only when current grammar or vocabulary improves its exact job.
-
 ## Part VII: Reference
 
 All seventeen files under `manual/part7_reference/` are reviewed. Five are generated views: four come from the 1,275 canonical vocabulary entries, while the compound reference comes from `documents/reference/compounds.md`. The pass corrects the compact grammar and reading samples, gives all eight module chapters a restrained semantic and voice repair, and regenerates every derived view. It adds no root and changes no module membership.
@@ -528,6 +524,29 @@ The design-and-modules pass reviews the three design documents, the twelve modul
 
 The pass adds no root, lexical question, or membership change; its verification confirms the recorded counts exactly. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
 
+## Evaluation corpus
+
+All fourteen files under `documents/evaluation/` are reviewed, the sweep's last batch. The two active review ledgers received their currency updates in the same pass. The batch's sharpest findings hid in the dialogue corpus, in word order and free translations, where the validator's vocabulary lint cannot see them.
+
+| File | State | Finding and disposition |
+|---|---|---|
+| `modifier_first_invariant_audit.md` | Revised | The predicate-clause row gains the predicative complement under the later complement-order ruling, and the span counts move into the review's own past tense. |
+| `listening_audit.md` | Revised | The intro opens on its concrete stake, one consonant between past and future, and the closing pointer now names the assessment's recommendation table, which actually holds the open questions. |
+| `solo_evaluation_tasks.md` | Revised | The intro adds the rehearsal-not-audience line. |
+| `language_assessment.md` | Revised | The minimal-pair baseline and content-root counts now match the current lexicon, and the tempo criticism addresses the teaching Phi actually gives, since no current document claims the language cannot be spoken fast. |
+| `work_craft_repair_vocabulary_audit.md` | Reviewed | Headings move to sentence case; the preserved before-state is otherwise exact against the register and module. Claimed saturated. |
+| `peace_linguistics_vocabulary_audit.md` | Revised | The entry count anchors to the audit date, and `CV-AIM-01` now carries its settled compositional answer instead of an open question. |
+| `lexicon_expansion_survey.md` | Revised | The registered families catch up with the register: the eight animals, page and message with the writing compounds, and rice and tea are implemented, `haromi` answers the meeting verb, and `CV-WRITE-02` holds the one open writing deferral. |
+| `philosophical_capability_matrix.md` | Revised | The intro now points at the operation bank that backs every Demonstrated row. All eight membership counts verified exactly. |
+| `philosophical_reasoning_transformation_prompts.md` | Revised | The 3A rephrase returns `ma` to the verb, and the review line moves its counted-time phrase into the adjunct slot; both repairs mirror the source corpus. |
+| `philosophical_reasoning_transformation_key.md` | Revised | The quoted 3A form and the two urgency propositions follow the repairs, so `po ma` reads as cannot throughout, exactly as the key's own 3B warning requires. |
+| `philosophical_test_corpus.md` | Revised | Five free translations return `po ma` to cannot. The 3A-source rephrase, one `wa` beside `misa` and one beside `sua`, three prepositional phrases standing after their objects, one clause-initial counted-time phrase, one `lo ha` phrase, and the freedom periphrasis with fronted material are repaired. The two planned-revisit sentences join the present tense, and the intro takes the one-village image. |
+| `content_vocabulary_scenario_tests.md` | Reviewed | Every decision row verified against the register and lexicon; the file already carries its earned images. Claimed saturated. |
+
+### Lexical and canonical result
+
+The pass adds no root and leaves no lexical question open. Its verification confirms 1,275 entries, 393 module memberships, the 760-pair minimal-pair baseline, and every register state the batch cites. The repaired dialogue lines all enforce rulings the corpus predates: complement order, the `wa` and gap-word exclusion, adjunct position, counted-time placement, Slot 2 nesting, and `ma` at the verb.
+
 ### Resume point
 
-Continue the current-documents sweep with the evaluation corpus, `documents/evaluation/`, the sweep's last batch, then PED-08 at chapter 8. One copy of the planned-revisit stale tense waits there in the philosophical test corpus's closing note.
+The current-documents sweep is complete and SEM-09D is done. Continue with PED-08 at chapter 8 of the Phi book.
