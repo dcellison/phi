@@ -10,7 +10,7 @@ snake LOC well be. 1SG snake DIR see.
 (A snake is at the well. I see it with my own eyes.)
 ```
 
-The same sight can be asserted without an evidential: `mia suliwa nila.` The unmarked form names no source. Adding `hi` puts the speaker on record as a direct perceiver; it does not make the eyesight better or the sentence true.
+The same sight can be asserted without an evidential: `mia suliwa nila.` The unmarked form names no source. Adding `hi` puts the speaker on record as a direct perceiver.
 
 News and testimony are common places for that distinction, but grammar does not require it there. A speaker may leave provenance unstated. Choosing `hi` makes a source statement that another person can question.
 

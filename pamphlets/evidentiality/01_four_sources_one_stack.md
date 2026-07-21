@@ -25,7 +25,7 @@ rain PST REP fall.
 (Rain fell; I received a report of it.)
 ```
 
-The rain does not change. The first line presents the falling as directly perceived; the second presents it as reported. Neither particle tells us whether the account is accurate.
+The rain does not change. The first line presents the falling as directly perceived; the second presents it as reported.
 
 ### Where the source stands
 

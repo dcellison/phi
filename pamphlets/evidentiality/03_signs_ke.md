@@ -40,7 +40,7 @@ rain PST INFER fall. earth ABL water be.
 (I infer that rain fell. The ground is wet.)
 ```
 
-In the first clause, the speaker directly perceives the falling rain through sound. In the second, the wet ground is a present sign of a past event. The boundary can require judgement, especially when a perception is incomplete. The particles record the route the speaker chooses; they do not decide whether the choice was good.
+In the first clause, the speaker directly perceives the falling rain through sound. In the second, the wet ground is a present sign of a past event. The boundary can require judgement, especially when a perception is incomplete. The particles record the route the speaker chose, and a recorded route is one the listener can walk back along.
 
 ### Reading another person
 
