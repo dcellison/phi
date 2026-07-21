@@ -34,6 +34,8 @@ Nothing about the syllables changed. What changed is the sentence's population: 
 
 The word remains in the dictionary with its ordinary meaning. `ne` selects its proper-name reading. Any listed content word may be borne this way; a current function or other non-content word cannot also be a name.
 
+Phi keeps no separate stock of given names. The dictionary itself is the name-book, and any content word in it may someday be someone.
+
 ## A productive Phi-form name
 
 A person may instead assemble or adapt one name-form without creating a lexicon entry:

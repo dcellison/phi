@@ -76,7 +76,7 @@ VOC NAME keruko. OPT peace DAT 2SG come.
 (keruko — may peace come to you.)
 ```
 
-He knocked nameless this morning and leaves announced tonight; an hour ago the household announced thinoe with the same word. This is the household's chosen threshold style: a reusable ceremony built on an ordinary marker of proper reference. Another community may use the grammar differently without naming anyone less carefully.
+He knocked nameless this morning and leaves announced tonight; an hour ago the household announced thinoe with the same word. This is the household's chosen threshold style: a reusable ceremony built on an ordinary marker of proper reference. Another community may use the grammar differently without naming anyone less carefully. But look what this one did with a single evening: it took in a stranger and sent out a name.
 
 ### Drill: your own open door
 

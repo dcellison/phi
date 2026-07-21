@@ -2,6 +2,8 @@
 
 `ne` is a Slot 2 particle: it stands before one name atom, and what it says is *a proper designation follows*. It does not claim that the bearer is a person; the same marker can name an animal, place, community, institution, work, event, or artifact. In the full chain of address the order is fixed: `kona`, then `ne`, then any honorific, then the name, and every link announces before it delivers: the call, then the fact of a name, then the relationship, then at last the referent.
 
+The marker doing this heaviest of work is nearly the smallest word Phi can make: one dental syllable, gone in a breath, carrying a whole person into the sentence. All the weight rides in the cargo, none in the marker, and that is the design: a word spoken before every name had better be easy to say.
+
 The token may be a content word (`ne sulae`) or a productive onym absent from the current lexicon (`ne samira`). In each case `ne` has the same scope: one proper designation. A preferred source name that does not fit the Phi charter remains outside the Phi passage.
 
 ### The name arrives before its bearer

@@ -1,6 +1,6 @@
 # Part 3: Calling: `kona`
 
-The vocative has its own chapter of doctrine (manual ch21 §1); here is the working shape, once. `kona` announces *I am addressing someone*: it stands outside the sentence entirely, takes no slot in it, and owes the verb nothing. Call by name and the name particle follows; call by role or relation and it does not:
+The vocative has its own chapter of doctrine (manual ch21 §1); here is the working shape, once. `kona` announces *I am addressing someone*: it stands outside the sentence entirely, takes no slot in it, and owes the verb nothing. It is the raised hand before the sentence: it asks for eyes before it asks for anything else. Call by name and the name particle follows; call by role or relation and it does not:
 
 ```
 kona ne sulae. whelani.
