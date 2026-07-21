@@ -65,4 +65,4 @@ Render each line by deciding what the exclamation mark contributes in English. D
 4. "Welcome!"
 5. "May peace come to you!"
 
-Answers: 1 `teo.` 2 `no mia naphe.` This is an explicit directive; `pi no` is available when the speaker chooses polite form, but punctuation alone settles neither relationship nor pressure. 3 `sileta sukaro nai.` Direct `sukaro` says hot without borrowing intensity from `ru`. 4 `whelani.` The ordinary welcome verb has understood participants here. 5 `su shea wei thia shua.` The optative marks the wish, while the voice remains the speaker's own.
+Answers: 1 `teo.` 2 `no mia naphe.` This is an explicit directive; `pi no` is available when the speaker chooses the polite form. 3 `sileta sukaro nai.` Direct `sukaro` says hot without borrowing intensity from `ru`. 4 `whelani.` The ordinary welcome verb has understood participants here. 5 `su shea wei thia shua.` The optative marks the wish, while the voice remains the speaker's own.

@@ -6,6 +6,8 @@ English often gives a written mark work that Phi gives to a spoken form. A direc
 
 One visible mark remains: the period. Pauses may shape delivery, but they do not change Phi grammar, and the page does not record them with commas, dashes, or ellipses. Material outside a Phi passage retains the script, case, and punctuation of its own medium.
 
+One consequence deserves saying plainly: a Phi page can be read aloud without loss. Every question, quotation, call, and name is audible, because the work English gives to silent marks was given to words a listener can hear. The period alone stays behind on the page.
+
 By the end of this pamphlet, you will be able to:
 
 - Distinguish direct yes-or-no questions with `wa` from content questions with a gap-word
