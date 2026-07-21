@@ -47,8 +47,8 @@ That threshold rhythm is a cultural and ceremonial style, not the grammar that l
 A reader does not share the room or all of its active referents. Writing intended to travel therefore keeps `ne`:
 
 ```
-mia kua ne sulae nai ma sano.
-1SG where NAME sulae be NEG know.
+mia ne sulae kua nai ma sano.
+1SG NAME sulae where be NEG know.
 (I do not know where sulae is.)
 ```
 
@@ -70,4 +70,4 @@ For each line, identify whether `ne` is present for portable clarity, first ment
 5. ne siora pao.
 ```
 
-Answers: 1. portable clarity or first mention. 2. established reference in the household scene. 3. the story reintroduces thinoe; the household also chooses memorial announcement. 4. an honorific carries the name expectation in established conversational address. 5. the household chooses its threshold style at departure. Every line could keep `ne` without becoming colder or less intimate.
+Answers: 1. portable clarity or first mention. 2. established reference in the household scene. 3. the story reintroduces thinoe; the household also chooses memorial announcement. 4. an honorific carries the name expectation in established conversational address. 5. the household chooses its threshold style at departure. Every line could keep `ne`; nothing about the relationships would change.

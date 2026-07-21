@@ -49,7 +49,7 @@ For each corpus line, say why `ne` is present or absent.
 21. `ne sulae ha ma nai.`
 22. `wa siora sulopa sola milura nuola.`
 23. `ne siora pao.`
-24. `mia kua ne sulae nai ma sano.`
+24. `mia ne sulae kua nai ma sano.`
 25. `ne thinoe shola no wei muila thinoe loa. … sholo to haolu.`: account for both the announced `thinoe` and the bare one.
 
 ## Part F: Build a Phi-form name
@@ -90,7 +90,7 @@ Then classify these candidates for direct use after `ne`:
 11. `kona ne sa …` Respect earned and announced.
 12. `kona ne le …` You know the role, not the person; announce the truth you have.
 13. `kona ni …` `le` may also be true if the friend is a healer, but the night needs the friend, not the role; which truth you announce is itself information.
-14. `kona ne …` Plain, correct, never cold. If it feels cold, the feeling is imported.
+14. `kona ne …` Plain and correct. If it feels cold, the feeling is imported.
 15. Plain `ne thinoe`, as the corpus story has it. The story reintroduces the referent clearly; `sa` would report a particular speaker's respect but is not required to make the memorial form grammatical.
 
 **Part D.**

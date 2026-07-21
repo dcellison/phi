@@ -51,8 +51,8 @@ mia wela sileta sulae nai welo phaelo.
 1SG INT.COMP sun warm be INT.COMP.CLOSE feel.
 (I wonder whether the sun is warm.)
 
-mia kua ne sulae nai ma sano.
-1SG where NAME sulae be NEG know.
+mia ne sulae kua nai ma sano.
+1SG NAME sulae where be NEG know.
 (I do not know where sulae is.)
 ```
 

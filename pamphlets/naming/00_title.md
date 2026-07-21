@@ -2,6 +2,8 @@
 
 ## A practice companion to the manual
 
+The primer's household has a friend named sulae, and `sulae` means warm. The soup at her welcome table is warm too, sometimes in the same sentence, and nobody is ever confused, because a Phi name goes nowhere unannounced: the particle `ne` walks ahead of it, saying that what follows is someone, not something.
+
 A Phi name is one token announced by `ne`. It may be an ordinary content word someone bears (*warm*, *joy*, *seed*) or a single Phi-shaped onym someone chooses without adding it to the dictionary. Names with five or more syllables, multiple tokens, non-Phi shapes, and source-script forms remain outside Phi passages unless their bearer or naming community accepts a valid adaptation.
 
 Two skills interleave throughout. The first is mechanical: placing `ne`, `kona`, and the honorifics in their fixed order, at speaking pace, without thought. The second is the one Phi actually cares about: telling the truth with them: announcing only the relationships you have, resting a name only where presence has earned it, and never once making a person taller than the words around them.

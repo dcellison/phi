@@ -6,9 +6,9 @@
 |---|---|---|
 | `ne` | NAME | announces that the next atom is a proper designation |
 | `kona` | VOC | opens the channel: *I am addressing you*, before any name lands |
-| `sa` | HON.RESPECT | announces your respect for a mentor or elder |
-| `ni` | HON.INTIM | announces earned closeness |
-| `le` | HON.ROLE | announces respect for a community role |
+| `sa` | HON.RESPECT | reports your respect for a mentor or elder |
+| `ni` | HON.INTIM | claims earned closeness |
+| `le` | HON.ROLE | recognizes a person in a current community role |
 
 ### The templates
 
@@ -65,5 +65,5 @@
 
 - Doctrine: the manual, ch9 §5 (Slot 2: `ne` and the honorifics); ch21 §§1–5 (the vocative, politeness, the honorific system, register, the field guide); ch10 §5 (questions, for `hina`).
 - Canon: *`ne` licenses a name atom*; *Productive Phi-form onyms*; *Source material remains outside Phi*; *Letters*; *Punctuation*.
-- The corpus this pamphlet reads: primer chapters 13, 16, 17, 18, 21, and 22; manual ch18 §4 and ch19 §§2–3; the texts shelf, where the cast's words go on working unannounced.
+- The corpus this pamphlet reads: primer chapters 13, 16, 17, and 19 through 22; manual ch18 §4 and ch19 §§2 and 3; the texts shelf, where the cast's words go on working unannounced.
 - The particle inventory: `documents/grammar/particle_reference.md`.
