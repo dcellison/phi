@@ -41,7 +41,7 @@ Tense and aspect combine compositionally: `to ki`, `so ki`, `to si`, `so si`, `t
 | question over a past clause | `wa thia to nila.` | Did you see? |
 | directive over negation | `no ponu ma tapu.` | Do not close the door. |
 | wish over future | `su shea so shua.` | May peace come. |
-| realis condition with its own stack | `lu mia naphe. thia so towe nai.` | If I help, you will be well. |
+| realis condition with its own stack | `lu mia naphe. thia towe so nai.` | If I help, you will be well. |
 | polite question | `pi wa thia po shua.` | Could you please come? |
 | polite directive | `pi no mia naphe.` | Please help me. |
 

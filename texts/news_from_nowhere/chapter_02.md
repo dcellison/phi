@@ -931,8 +931,8 @@ PROX COM labor gift take think DAT 3SG INTS amused story PST INFER be.
 (As if the idea of being given things for his work were a very funny tale.)
 morris: "as if the idea of being paid for his work was a very funny joke."
 
-mia to pa sukima phaelo. mia mena ha miona phelira remo phelu meno to remo. shai shia nuwi remo phelu to ke nai.
-1SG PST INCH fear feel. 1SG DECL.COMP PROX person mistaken think hold DECL.COMP.CLOSE PST think. CONC 3SG clear think hold PST INFER be.
+mia sukima to pa phaelo. mia mena ha miona phelira remo phelu meno to remo. shai shia nuwi remo phelu to ke nai.
+1SG fear PST INCH feel. 1SG DECL.COMP PROX person mistaken think hold DECL.COMP.CLOSE PST think. CONC 3SG clear think hold PST INFER be.
 (I began to fear that the man held mistaken thoughts, though his thinking seemed clear.)
 morris: "I confess I began to be afraid that the man was mad, though he looked sane enough;"
 

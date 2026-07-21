@@ -65,16 +65,16 @@ A: mia mena pheralu to lepa meno ti sano.
 1SG DECL.COMP rain PST fall DECL.COMP.CLOSE REP know.
 (I know by report that rain fell.)
 
-B: mia luphore hi nila. luphore ma hiso nai.
-1SG river DIR see. river NEG clean be.
+B: mia luphore hi nila. luphore hiso ma nai.
+1SG river DIR see. river clean NEG be.
 (I see the river directly. The river is not clean.)
 
-A: mia mena pheralu luphore ka peloma kelu meno ke nohero.
-1SG DECL.COMP rain river CAUS harmful become DECL.COMP.CLOSE INFER believe.
+A: mia mena pheralu luphore peloma ka kelu meno ke nohero.
+1SG DECL.COMP rain river harmful CAUS become DECL.COMP.CLOSE INFER believe.
 (I infer that the rain made the river harmful.)
 
-B: mia ma sano. phisu serao keli po peloma nai.
-1SG NEG know. EXMP old device POT harmful be.
+B: mia ma sano. phisu serao keli peloma po nai.
+1SG NEG know. EXMP old device harmful POT be.
 (I do not know. For example, an old device may be harmful.)
 
 A: mia to kanelu. mia nohero to helui.
@@ -189,8 +189,8 @@ A: lu lo mia ha keli shiroka. lo mia wei thepalu phialu loa.
 COND PL 1SG PROX device repair. PL 1SG DAT garden water give.
 (If we repair this device, we give water to the garden.)
 
-B: lu lo mia wei thepalu phialu loa. luphore po ma hiso kelu.
-COND PL 1SG DAT garden water give. river POT NEG clean become.
+B: lu lo mia wei thepalu phialu loa. luphore hiso po ma kelu.
+COND PL 1SG DAT garden water give. river clean POT NEG become.
 (If we give water to the garden, the river may become unclean.)
 
 A: thelao lo mia ha keli na shiroka.
@@ -265,8 +265,8 @@ B: mia ma nawo.
 1SG NEG agree.
 (I do not agree.)
 
-B: phisu ha sileta kenua keli ha masue phelu. whekai ha sileta kenua keli po ma welao nai.
-EXMP PROX sun energy device PROX measure hold. CONTR PROX sun energy device POT NEG good be.
+B: phisu ha sileta kenua keli ha masue phelu. whekai ha sileta kenua keli welao po ma nai.
+EXMP PROX sun energy device PROX measure hold. CONTR PROX sun energy device good POT NEG be.
 (For example, this solar-energy device has this measurement and yet may not function well.)
 
 A: mia to kanelu. mia nohero to helui.

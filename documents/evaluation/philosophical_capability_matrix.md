@@ -96,8 +96,8 @@ mia mena pheralu to lepa meno ke sano.
 1SG DECL.COMP rain PST fall DECL.COMP.CLOSE INFER know.
 (I infer that rain fell.)
 
-mia mena wireo po welao nai meno nohero.
-1SG DECL.COMP future POT good be DECL.COMP.CLOSE believe.
+mia mena wireo welao po nai meno nohero.
+1SG DECL.COMP future good POT be DECL.COMP.CLOSE believe.
 (I believe that the future can be good.)
 ```
 

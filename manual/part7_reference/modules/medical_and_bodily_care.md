@@ -120,8 +120,8 @@ PROX disease chronic be.
 ```
 
 ```
-ha peshiro po ma welathi nai.
-PROX infection POT NEG contagious be.
+ha peshiro welathi po ma nai.
+PROX infection contagious POT NEG be.
 (This infection may not be contagious.)
 ```
 

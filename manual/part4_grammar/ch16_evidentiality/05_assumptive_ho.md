@@ -2,9 +2,9 @@
 
 **ho** rests a claim on background expectation rather than evidence specific to the present case.
 
-**thia ho shorui nai.** — I assume you are weary.
+**thia shorui ho nai.** — I assume you are weary.
 
-**shia ho womu nai.** — I assume they are home.
+**shia womu ho nai.** — I assume they are home.
 
 **pheralu so ho lepa.** — I assume rain will fall.
 
@@ -30,6 +30,6 @@ Both clauses assert a past departure and may be wrong. The evidence available fo
 
 The two can combine in their fixed ranks: **pheralu ho po lepa.** means that, from background expectation, the speaker assumes rainfall is possible.
 
-Assumptive marking can be especially useful when discussing another person's plans or state. Politeness does not follow from it. **thia ho shorui nai** is still an assertion about the listener, and a question may be the better form when their answer is available.
+Assumptive marking can be especially useful when discussing another person's plans or state. Politeness does not follow from it. **thia shorui ho nai** is still an assertion about the listener, and a question may be the better form when their answer is available.
 
 Breath leads **ho** into rounded **o**. Its lightly held contour can be a mnemonic, but it carries no lower epistemic rank. Assumptions deserve correction or confirmation according to their consequences and the evidence, not according to how soft the particle sounds.

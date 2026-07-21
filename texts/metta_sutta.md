@@ -18,8 +18,8 @@
 (The person who has skill in searching for goodness must do every thing that requires action.)
 fausboll: "1. Whatever is to be done by one who is skilful in seeking (what is) good,"
 
-shia ki noalu kelu.
-3SG PFV tranquil become.
+shia noalu ki kelu.
+3SG tranquil PFV become.
 (They have become tranquil.)
 fausboll: "having attained that tran- quil state (of Nibbana) :—"
 
@@ -44,7 +44,7 @@ OPT 3SG proud NEG be.
 fausboll: "not proud,"
 ```
 
-**Notes:** The opening keeps three ideas apart. `welao sheraki` makes goodness the object of a search; `thesani` gives the seeker skill in that work; and `theula [rena phoa phelona] thena` names everything that genuinely requires action. `shia ki noalu kelu` makes attainment a completed change into tranquility. The tradition-specific name Nibbana remains in the source citation beside the Phi and does not enter Phi syntax. "Able" is the ability modal `po` on `phoa`, to act, while `wero` takes the truthfulness within "upright." It does not exhaust the source's wider moral sense.
+**Notes:** The opening keeps three ideas apart. `welao sheraki` makes goodness the object of a search; `thesani` gives the seeker skill in that work; and `theula [rena phoa phelona] thena` names everything that genuinely requires action. `shia noalu ki kelu` makes attainment a completed change into tranquility. The tradition-specific name Nibbana remains in the source citation beside the Phi and does not enter Phi syntax. "Able" is the ability modal `po` on `phoa`, to act, while `wero` takes the truthfulness within "upright." It does not exhaust the source's wider moral sense.
 
 ### Verse 2: Few burdens
 
@@ -273,7 +273,7 @@ fausboll: "after subduing greediness for sensual pleasures, will never again go 
 lothea thole
 
 [rena [welao sheraki] thesani phelu] miona theula [rena phoa phelona] thena na phoa.
-shia ki noalu kelu.
+shia noalu ki kelu.
 su shia po phoa. su shia wero nai. su shia thesa nai.
 su shia moli haolu. su shia moli nai. su shia thoru ma nai.
 
@@ -326,7 +326,7 @@ The gap log records each place where Phi composes or narrows Fausböll's wording
 
 | Source detail | Phi | What changes |
 |---|---|---|
-| attaining Nibbana's tranquil state | `ki noalu kelu` | `ki` describes attainment as a completed change into tranquility; Nibbana remains in the adjacent citation. |
+| attaining Nibbana's tranquil state | `noalu ki kelu` | `ki` describes attainment as a completed change into tranquility; Nibbana remains in the adjacent citation. |
 | upright | `wero` | Honesty covers the truthfulness in upright conduct, but not its whole moral range. |
 | easily supported | `roe phina riola se panoru` | The support requires little labor. |
 | few cares | `phina naseru phelu` | The cares narrow to obligations; `whuo tupeka` states "unburdened" directly. |

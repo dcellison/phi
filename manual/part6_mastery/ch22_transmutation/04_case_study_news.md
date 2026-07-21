@@ -11,7 +11,7 @@ This transmutation chooses four claims for its Phi account: a storm came, homes 
 ## Step 2: The Phi concepts
 
 - The storm: `kurisha`. The night: `shero`.
-- "Damaged" is `pukeri`, an adverse change that may leave the thing standing and recognizable. It keeps this case apart from `pukate` (break), while `ma sholu nai` (not be complete) remains available when wholeness itself is the point.
+- "Damaged" is `pukeri`, an adverse change that may leave the thing standing and recognizable. It keeps this case apart from `pukate` (break), while `sholu ma nai` (not be complete) remains available when wholeness itself is the point.
 - The counts: 47 and 214 both fit Phi's exact range, as `ta lau wi phoi wi` and `wi rei ta lau wi phoi wi shao ta`. The source record also keeps the familiar decimal forms.
 - "Evacuated" becomes the reported event that people went to safety. The allative `kau` marks safety as their destination.
 - The reportative evidential `ti` says that each proposition came from another source. The source record keeps the report's reference to officials and its exact wording.

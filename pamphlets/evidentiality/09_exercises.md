@@ -89,7 +89,7 @@ In answer 13, the entire `mena ... meno` complement precedes the matrix Slot 1 c
 
 18. The source does not match. Wet ground is a sign, so `pheralu to ke lepa. muila lue phialu nai.` fits the stated situation.
 19. If the child's sight is the only source, `ti` does not match. `mia suliwa hi nila.` makes direct perception explicit; `suliwa nai.` is also possible when source is not part of the message.
-20. The clause is grammatically possible and names no source. If the speaker intends to expose the inference from the smile, `thia ke siora nai.` does so. `wa thia siora nai.` lets the friend answer instead.
+20. The clause is grammatically possible and names no source. If the speaker intends to expose the inference from the smile, `thia siora ke nai.` does so. `wa thia siora nai.` lets the friend answer instead.
 21. Nothing grammatical is wrong with `ti` here, but it makes received provenance salient. In the stated ordinary context, `sileta keru loa.` better matches the message.
 
 Part F has no single answer. The two clauses should differ only where the imagined source or the decision to state it requires a difference.
