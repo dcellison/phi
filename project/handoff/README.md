@@ -28,7 +28,7 @@ The execution sequence is settled:
 2. Finish SEM-09D with the current documents; all nine pamphlets are current.
 3. Return to the Phi book at chapter 8 after that sweep.
 
-The immediate task is the current-documents sweep, running as directory batches: the grammar references and `documents/reference/` are done, the complement-order fork is ruled and swept (canon, settled 2026-07-21), and `documents/design/` with `documents/modules/` is next, then the evaluation corpus. The teaching review's resume point tracks the batches.
+The immediate task is the current-documents sweep, running as directory batches: the grammar references, `documents/reference/`, the complement-order ruling and sweep (canon, settled 2026-07-21), and the design, module, and vocabulary documents are done; the evaluation corpus is the last batch before PED-08 resumes at chapter 8. The teaching review's resume point tracks the batches.
 
 ## The maintainer's working contract
 

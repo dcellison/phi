@@ -1,6 +1,6 @@
 # Base vocabulary placement assessment
 
-**Status:** Complete. Thirty former base roots now carry 35 module classifications, while 789 content roots remain in base vocabulary.
+**Status:** Complete. Thirty former base roots took 35 module classifications in this review. Later connected reviews have since grown the optional layer to 261 roots and 393 memberships; the [profile index](README.md) carries the current totals, and the counts below record this review's completed snapshot.
 
 A learner who selects base vocabulary in the explorer should not meet a railway, a guild, a chisel, or a medicinal tonic on the way to ordinary Phi. Those words are still canonical and available to every speaker. Their module labels put them in the learning paths where their meanings do the most work.
 
@@ -126,6 +126,6 @@ Words for art, music, ritual, spiritual practice, and cultural life were not pus
 
 ## Completion and next work
 
-The canonical entries carry the accepted classifications, the generated module index reflects all 352 memberships, and the profile counts distinguish roots coined in a module pass from older roots later classified there. The lexicon explorer already derives base vocabulary from the absence of a `modules` field, so it needs no special-case list.
+The canonical entries carry the accepted classifications, the generated module index reflects every membership, and the profile counts distinguish roots coined in a module pass from older roots later classified there. The lexicon explorer already derives base vocabulary from the absence of a `modules` field, so it needs no special-case list.
 
-The active-corpus revisit remains next. This assessment identifies older specialist words that appear in general teaching and literature, so the corpus review can ask whether each occurrence still reads naturally. Where it does not, the text can add a nearby explanation or use a base paraphrase. The words did not change. What changed is the promise about which ones a general learner is expected to study first.
+This assessment identifies older specialist words that appear in general teaching and literature, so the active-corpus revisit asks of each occurrence whether it still reads naturally. Where it does not, the text can add a nearby explanation or use a base paraphrase. The words did not change. What changed is the promise about which ones a general learner is expected to study first.

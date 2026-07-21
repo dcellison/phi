@@ -1,12 +1,12 @@
-# The Modifier-First Philosophy: Phi's Grammar of Announcement
+# The modifier-first philosophy: Phi's grammar of announcement
 
-## Beyond Typological Categories
+## Beyond typological categories
 
 Traditional linguistics categorizes languages by their head-directionality—whether the head of a phrase comes before (head-initial) or after (head-final) its dependents. Languages like Japanese and Turkish are head-final, with postpositions and verbs at the end. Languages like English and Spanish are head-initial, with prepositions and SVO order.
 
 Phi deliberately combines an OV clause pattern with prepositions and other prenominal relators. The project explains this uncommon profile through **modifier-first consistency** rather than claiming to transcend linguistic typology.
 
-## The Principle: Announce Then Deliver
+## The principle: announce then deliver
 
 In Phi, every element that modifies, specifies, or relates another element comes BEFORE what it affects:
 
@@ -21,7 +21,9 @@ In Phi, every element that modifies, specifies, or relates another element comes
 
 This creates a recurring left-to-right pattern in which many grammatical relationships are announced before their heads. It does not eliminate lexical ambiguity, pragmatic inference, or the memory cost of waiting for a final verb.
 
-## Not Head-Final, But Modifier-First
+One sentence carries the whole pattern: `melu wei lopia peloru loa.` (The friend gives the child a flower.) `wei` announces a recipient before the child is named, the flower stands before the act of giving, and the verb arrives last, once everyone the sentence concerns is present in it.
+
+## Not head-final, but modifier-first
 
 While Phi maintains SOV word order (often associated with head-final languages), it is not truly head-final because:
 
@@ -31,9 +33,9 @@ While Phi maintains SOV word order (often associated with head-final languages),
 
 Typologically this is a mixed-directionality system. Within Phi, the mixture is intentional rather than random: prepositions and OV order both place the relating or specifying material before the element the project treats as its head.
 
-## Philosophical Alignment with the Five Pillars
+## Philosophical alignment with the five pillars
 
-### Peace Linguistics: Non-Violent Communication
+### Peace linguistics: nonviolent communication
 
 The modifier-first approach serves peace linguistics by requiring speakers to **announce their grammatical intentions** before delivering content. This creates transparency in communication:
 
@@ -43,7 +45,7 @@ The modifier-first approach serves peace linguistics by requiring speakers to **
 
 This announcement structure can reduce some late structural surprises by placing particles and relators early. It cannot prevent misunderstanding or guarantee honesty and nonviolence; those are practices the design attempts to support.
 
-### Buddhist Mindfulness: Conscious Speech
+### Buddhist mindfulness: conscious speech
 
 The requirement to announce many grammatical relationships before their heads creates an opportunity for **conscious intention**:
 
@@ -55,7 +57,7 @@ This can be used as an analogy to Buddhist-inspired mindful speech: becoming awa
 
 Mindfulness here concerns presence, not duration. A fluent clause may pass quickly, and an emergency may require it. The practice lies in noticing a linguistic choice while making it, not in stretching the interval before the head arrives.
 
-### Solarpunk Values: Transparent Systems
+### Solarpunk values: transparent systems
 
 Just as solarpunk technology makes its workings visible and comprehensible, Phi's modifier-first grammar makes linguistic structure transparent:
 
@@ -65,7 +67,7 @@ Just as solarpunk technology makes its workings visible and comprehensible, Phi'
 
 This visibility is intended to support learning and shared analysis. Whether the system is immediately apparent or easier for a particular learner remains a question for actual use.
 
-### Pre-Industrial Wisdom: Natural Information Flow
+### Pre-industrial wisdom: natural information flow
 
 The modifier-first principle also uses a preparation-before-action metaphor familiar from storytelling and craft:
 
@@ -75,7 +77,7 @@ The modifier-first principle also uses a preparation-before-action metaphor fami
 
 Like a storyteller who chooses to set a scene first, or a craftsperson who prepares tools before work, Phi treats preparation preceding action as a valued pattern. It is one possible ordering, not the natural form of all oral traditions.
 
-### Art Nouveau Aesthetics: Organic Unity
+### Art Nouveau aesthetics: organic unity
 
 The complete consistency of the modifier-first principle creates the kind of organic unity celebrated in Art Nouveau:
 
@@ -85,30 +87,30 @@ The complete consistency of the modifier-first principle creates the kind of org
 
 Like Art Nouveau's rejection of stark geometric divisions in favor of flowing natural forms, Phi rejects the rigid head-initial/head-final binary in favor of a more organic organizing principle.
 
-## Practical Implications
+## Practical implications
 
-### For Speakers
+### For speakers
 
 The modifier-first principle asks speakers to:
 1. **Place relations early**: Put modifying, specifying, and relating material before the element it affects
 2. **Use marked intentions plainly**: Let particles and clause frames identify the work they are doing
 3. **Attend to the structure in progress**: Treat the recurring order as an occasion for attention without mistaking it for compulsory reflection
 
-### For Listeners  
+### For listeners  
 
 The modifier-first principle means listeners can:
 1. **Anticipate structure**: Grammatical markers announce what follows before it arrives
 2. **Use early signals**: Many relationships are declared before their content, although lexical and pragmatic reinterpretation still occurs
 3. **Hold with support**: Verb-final order does ask listeners to hold arguments in mind until the verb arrives. Phi accepts this load deliberately — the waiting is part of the practice of patience — and bounds it structurally: explicit clause closers (`meno`, `welo`, `sholo`) always mark what is open and what has closed
 
-### For Learners
+### For learners
 
 The modifier-first principle gives learners:
 1. **One organizing principle**: Material treated as modifying, specifying, or relating comes first
 2. **Recurring orientation**: The same direction returns across clauses and phrases
 3. **A mnemonic, not a whole curriculum**: Learners still need the particle inventory, ordering rules, clause frames, classifiers, conversion rules, and numeral system
 
-## Comparison with Other Systems
+## Comparison with other systems
 
 ### Predominantly head-final languages
 - Languages such as Japanese and Turkish commonly place objects before verbs and use postpositions
@@ -120,12 +122,12 @@ The modifier-first principle gives learners:
 - Modifier positions vary by construction and language
 - Phi shares their prepositions but reverses the ordinary verb-object order
 
-### Phi's Modifier-First
+### Phi's modifier-first
 - **Project analysis**: The language treats its relators and dependents as preceding what they affect
 - **Early grammatical signals**: Particles, prepositions, and openers often announce a relation before its content or head
 - **Real tradeoff**: Verb-final order requires listeners to hold arguments until the predicate; closers bound embedded material but do not remove that load
 
-## Conclusion: A Grammar of Conscious Announcement
+## Conclusion: a grammar of conscious announcement
 
 Phi's modifier-first philosophy creates more than linguistic consistency—it instantiates a worldview where:
 
@@ -134,7 +136,7 @@ Phi's modifier-first philosophy creates more than linguistic consistency—it in
 - **Context precedes** content
 - **Preparation precedes** delivery
 
-This is both a grammatical choice and a philosophical stance: Phi values announcing linguistic relations before delivering their heads. A speaker can use each sentence as mindful structuring, but every utterance does not automatically become mindful.
+This is both a grammatical choice and a philosophical stance: Phi values announcing linguistic relations before delivering their heads.
 
 The modifier-first principle provides one place where Phi's five pillars can be interpreted together: transparent structure, deliberate attention, repeated patterns, preparation-before-action metaphors, and aesthetic unity. These are the project's readings of the grammar, not demonstrated effects or culturally neutral truths.
 

@@ -33,7 +33,7 @@ Phi's finite pure ternary system is deliberately unusual. The project has not es
 
 ### Small exact quantities and grouped quantities are different
 
-Research on subitizing distinguishes the rapid enumeration of very small sets, commonly fewer than four items, from slower counting of larger sets. This supports a cautious claim that three can often be recognized without serial counting. It does not support claims that people directly “see” nine, twenty-seven, or eighty-one as exact quantities.
+Research on subitizing distinguishes the rapid enumeration of very small sets, commonly fewer than four items, from slower counting of larger sets. This supports a cautious claim that three can often be recognized without serial counting. It does not support claims that people directly "see" nine, twenty-seven, or eighty-one as exact quantities.
 
 Visual grouping can improve enumeration of larger sets when people combine small subgroups, a learned process sometimes called *groupitizing*. Triads and triads-of-triads may therefore help teach Phi's structure. The arrangement is a learning aid, not evidence that powers of three are innate perceptual units.
 
@@ -124,10 +124,10 @@ The defensible aim is narrower and stronger: keep the choice of precision visibl
 
 ## Research references
 
-- Bernard Comrie, [“Numeral Bases,” World Atlas of Language Structures Online](https://wals.info/chapter/131).
-- Lana M. Trick and Zenon W. Pylyshyn, [“Why are small and large numbers enumerated differently?”](https://pubmed.ncbi.nlm.nih.gov/8121961/), *Psychological Review* 101(1), 1994.
-- Gillian S. Starkey and Bruce D. McCandliss, [“The emergence of ‘groupitizing’ in children’s numerical cognition”](https://www.sciencedirect.com/science/article/pii/S0022096514000630), *Journal of Experimental Child Psychology* 126, 2014.
-- Elizabeth S. Spelke and Sanna Tsivkin, [“Language and number: a bilingual training study”](https://pubmed.ncbi.nlm.nih.gov/11062322/), *Cognition* 78(1), 2001.
-- Pierre Pica, Cathy Lemer, Véronique Izard, and Stanislas Dehaene, [“Exact and Approximate Arithmetic in an Amazonian Indigene Group”](https://doi.org/10.1126/science.1102085), *Science* 306(5695), 2004.
-- Sebastian Holt and David Barner, [“Learning a Novel Number System: The Role of Compositional Rules and Counting Procedures”](https://onlinelibrary.wiley.com/doi/10.1111/cogs.70071), *Cognitive Science* 49(6), 2025.
-- Nick C. Ellis and Richard A. Hennelly, [“A bilingual word-length effect”](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/j.2044-8295.1980.tb02728.x), *British Journal of Psychology* 71(1), 1980.
+- Bernard Comrie, ["Numeral Bases," World Atlas of Language Structures Online](https://wals.info/chapter/131).
+- Lana M. Trick and Zenon W. Pylyshyn, ["Why are small and large numbers enumerated differently?"](https://pubmed.ncbi.nlm.nih.gov/8121961/), *Psychological Review* 101(1), 1994.
+- Gillian S. Starkey and Bruce D. McCandliss, ["The emergence of 'groupitizing' in children's numerical cognition"](https://www.sciencedirect.com/science/article/pii/S0022096514000630), *Journal of Experimental Child Psychology* 126, 2014.
+- Elizabeth S. Spelke and Sanna Tsivkin, ["Language and number: a bilingual training study"](https://pubmed.ncbi.nlm.nih.gov/11062322/), *Cognition* 78(1), 2001.
+- Pierre Pica, Cathy Lemer, Véronique Izard, and Stanislas Dehaene, ["Exact and Approximate Arithmetic in an Amazonian Indigene Group"](https://doi.org/10.1126/science.1102085), *Science* 306(5695), 2004.
+- Sebastian Holt and David Barner, ["Learning a Novel Number System: The Role of Compositional Rules and Counting Procedures"](https://onlinelibrary.wiley.com/doi/10.1111/cogs.70071), *Cognitive Science* 49(6), 2025.
+- Nick C. Ellis and Richard A. Hennelly, ["A bilingual word-length effect"](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/j.2044-8295.1980.tb02728.x), *British Journal of Psychology* 71(1), 1980.

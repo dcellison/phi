@@ -502,6 +502,32 @@ The pass adds no root, lexical question, or module term. It repairs two primer d
 
 A ruling then closed the fork the reference pass surfaced: the complement stands before the Slot 1 stack (canon, settled 2026-07-21), before `nai` and `kelu` alike, with a manner descriptor keeping its place between the cluster and the verb. The sweep carried every minority line to the ruled order, and the ruling's reach proved wider than the recorded count: extending the scan to `kelu` and to dialogue-prefixed lines found the same inversion in the Metta Sutta's attainment refrain, Babel's restraint line, the Velveteen wish and stretch, further News from Nowhere clauses, and the philosophical evaluation dialogues. Twenty-eight files changed in all, across the manual, two pamphlets, the primer, five texts, and the evaluation corpus, with every gloss line and bare citation reordered beside its sentence. Two object-order repairs rode along under the standing rules: News from Nowhere chapter 2's fear moves before its Slot 1 cluster, and chapter 1's self-reproach line takes its licensed shape, `nupira` (shame) leaving the descriptor slot, where a noun cannot stand, to ride as the metaphorical location `mua nupira`, the pattern the corpus already speaks in `mua korua`. Chapter 3's dress line likewise moves its preposition before its object: `noe ha kire sola ra kire`, behind neither shape. The scan reports zero remaining inversions.
 
+The design-and-modules pass reviews the three design documents, the twelve module documents, and the two vocabulary prose files under the additive-first contract, with the module membership counts verified mechanically against the lexicon: 261 optional roots, 393 memberships, every per-module figure exact. The batch's findings were currency and doctrine drift rather than dark examples: the vocabulary README still described the completed prose migration as ongoing, the word-shape memo still commanded implementation work finished weeks ago, four module profiles still called the active-corpus revisit planned, the explorations register still assigned the retired guest and exact frames, the placement assessment presented a pre-additions snapshot as the current totals, and the commons profile still carried, verbatim, the nine-item preservation litany the voice guide's gallery records as rewritten.
+
+| File | State | Finding and disposition |
+|---|---|---|
+| `design/modifier_first_philosophy.md` | Revised | Gains its first worked Phi sentence, the giving line walked through announce-then-deliver; headings take sentence case; the conclusion sheds one of its three stacked waivers. |
+| `design/word_shape_and_external_boundaries.md` | Revised | The implementation section stops commanding completed work and states the present state; the rationale stands. |
+| `design/psychological_violence_of_measurement.md` | Revised | Nineteen curly quote characters become straight, references included. Claimed saturated beyond that repair: the argument, its evidence boundaries, and its citations stand. |
+| `vocabulary/README.md` | Revised | The migration paragraph joins the completed state, mirroring the protocol's own sentence. |
+| `vocabulary/semantic_domains.md` | Reviewed | The fifteen domains, their carves, and the retrieval test check against the schema and lexicon. Claimed saturated; no change. |
+| `modules/README.md` | Reviewed | Every count and status verified against the lexicon and profiles. Claimed saturated; no change. |
+| `modules/philosophical_reasoning.md` | Reviewed | Status arithmetic and shared-root accounting verified. Claimed saturated; no change. |
+| `modules/household_and_daily_life.md` | Reviewed | Claimed saturated; no change: the profile already carries its earned lines. |
+| `modules/medical_and_bodily_care.md` | Revised | Two planned-revisit sentences join the present tense. |
+| `modules/systems_and_shared_infrastructure.md` | Reviewed | Claimed saturated; no change. |
+| `modules/accessibility_and_participation.md` | Revised | The planned-revisit sentence joins the present tense. |
+| `modules/commons_and_collective_governance.md` | Revised | The nine-item preservation litany takes the gallery's cure: its three strongest items and the honesty preservation buys. |
+| `modules/ecological_systems_and_material_life.md` | Reviewed | Claimed saturated; no change. |
+| `modules/work_craft_and_repair.md` | Revised | Two planned-revisit sentences join the present tense. |
+| `modules/module_overlap_assessment.md` | Revised | The current-totals pointer moves to the profile index, which actually carries them. |
+| `modules/base_vocabulary_placement_assessment.md` | Revised | The status line places this review's completed snapshot beside the current totals, and the completion section stops citing a superseded count and a next step already underway. |
+| `modules/potential_profile_explorations.md` | Revised | The translation exploration stops assigning the retired guest and exact frames; exact source preservation and outside pronunciation conventions take their place. |
+
+### Lexical and canonical result
+
+The pass adds no root, lexical question, or membership change; its verification confirms the recorded counts exactly. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
+
 ### Resume point
 
-Continue the current-documents sweep with `documents/design/` and `documents/modules/`, then the evaluation corpus, then PED-08 at chapter 8.
+Continue the current-documents sweep with the evaluation corpus, `documents/evaluation/`, the sweep's last batch, then PED-08 at chapter 8. One copy of the planned-revisit stale tense waits there in the philosophical test corpus's closing note.
