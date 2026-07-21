@@ -116,8 +116,8 @@ PROX grove PROX amphibian habitat be.
 `likori` opens species-level talk while leaving the exact taxonomic boundary to whatever source draws it. `liloni` narrows further to one place and time: a species can carry several populations, and one population can shift without the species definition moving at all.
 
 ```
-lo ha likori nolika phirae nai.
-PL PROX species animal different be.
+ha likori lo nolika phirae nai.
+PROX species PL animal different be.
 (The animals of this species are different.)
 ```
 

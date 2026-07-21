@@ -892,8 +892,8 @@ B: mue kosha phialu ha masue thena po phelu.
 OUT.OF field water PROX measure thing POT hold.
 (Water from the field may contain this measured thing.)
 
-C: mia wela hina lo shalu to ka lumeo welo ma sano.
-1SG INT.COMP what PL fish PST CAUS die INT.COMP.CLOSE NEG know.
+C: mia hina lo shalu to ka lumeo ma sano.
+1SG what PL fish PST CAUS die NEG know.
 (I do not know what caused the fish to die.)
 
 A: whekai lo mia luphore na shorupo.
@@ -916,8 +916,8 @@ C: lo mia pheo ta philo mua ne meliko luphore phialu so masue.
 PL 1SG POST one day LOC NAME meliko river water FUT measure.
 (In one day, we will measure river water at meliko.)
 
-A: mia nawo. whekai lo mia wela sua thonai nai welo ma sano.
-1SG agree. CONTR PL 1SG INT.COMP who responsible be INT.COMP.CLOSE NEG know.
+A: mia nawo. whekai lo mia sua thonai nai ma sano.
+1SG agree. CONTR PL 1SG who responsible be NEG know.
 (I agree. However, we do not know who is responsible.)
 ```
 
@@ -1000,8 +1000,8 @@ B: ha teru roe ha phelui se thelima.
 PROX process INS PROX word PASS describe.
 (This process is described with this source term.)
 
-A: mia lo phelui shelomu. whekai mia wela ha teru thela turema welo ma shelomu.
-1SG PL word understand. CONTR 1SG INT.COMP PROX process how return INT.COMP.CLOSE NEG understand.
+A: mia lo phelui shelomu. whekai mia ha teru thela turema ma shelomu.
+1SG PL word understand. CONTR 1SG PROX process how return NEG understand.
 (I understand the words. However, I do not understand how this process returns.)
 
 B: mia thekao. ha phelui ha teru ma lilea.

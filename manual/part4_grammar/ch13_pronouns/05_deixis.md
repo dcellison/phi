@@ -48,6 +48,12 @@ The tap or trill at the beginning gives **ra** a distinct physical gesture. A le
 
 They do not change for number. The surrounding noun phrase supplies singular or plural reference.
 
+Standing alone, with no noun after them, the deictics take **lo** the way the pronouns do: **lo ha** (these), **lo ra** (those), a plural pointing that names no class. Babel's builders use it for their own bricks:
+
+**su lo mia lo ha ru thape.** — Let us burn these thoroughly.
+
+The two orders divide the work. Before a noun the deictic leads, **ha lo thena**; alone, **lo** leads, as it does in **lo mia**.
+
 ## Space, time, and discourse
 
 The same pair can locate a day, year, or topic:

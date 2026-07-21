@@ -624,8 +624,8 @@ yes. bridge beautiful be. Q 2SG agree.
 ("Yes, it is a pretty bridge, isn't it?")
 morris: "\"Yes, it _is_ a pretty bridge, isn't it?"
 
-lo wea luphore thorui repha ru mo thiku nai. whekai lo ra repha sheo ha repha to po ma mo luwae nai.
-PL TOWARD river beginning bridge INTS CMPR small be. CONTR PL DIST bridge THAN PROX bridge PST POT NEG CMPR graceful be.
+lo wea luphore thorui repha ru mo thiku nai. whekai ra lo repha sheo ha repha to po ma mo luwae nai.
+PL TOWARD river beginning bridge INTS CMPR small be. CONTR DIST PL bridge THAN PROX bridge PST POT NEG CMPR graceful be.
 (The upstream bridges are much smaller, but they are scarcely daintier than this one.)
 morris: "Even the up-stream bridges, which are so much smaller, are scarcely daintier,"
 
