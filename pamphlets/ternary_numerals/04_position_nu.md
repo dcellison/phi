@@ -18,7 +18,7 @@ ORD one three-group story
 (the third story)
 ```
 
-The number inside is ordinary ternary: `nu ta shao` is *third* because `ta shao` is three. Everything Part 2 built transfers: `nu wi phoi ta` is nineteenth. Exact ordinals share the cardinal range through 242; larger exact positions remain source material outside the Phi passage.
+The number inside is ordinary ternary: `nu ta shao` is *third* because `ta shao` is three. Everything Part 2 built transfers: `nu wi phoi ta` is nineteenth, if a nineteenth ever matters, and the length of saying it is the language's gentle opinion about whether it does. Exact ordinals share the cardinal range through 242; larger exact positions remain source material outside the Phi passage.
 
 ### Dating the days
 
@@ -42,7 +42,7 @@ child LOC two position be.
 (The child is in the second position.)
 ```
 
-`nu` marks; `noa` names. The working distinction: if English wants *second X*, reach for `nu`; if it wants *the second position* as a place or rank to discuss, reach for `noa`. Phi can order people in queues, selections, or rankings, so speakers must still examine who established the order, what it measures, and what consequences it carries.
+`nu` marks; `noa` names. The working distinction: if English wants *second X*, reach for `nu`; if it wants *the second position* as a place or rank to discuss, reach for `noa`. A rank in Phi is a place in a line; who set the line, and what standing in it costs, are the questions the word leaves open.
 
 ### Ordinals and classifiers together
 
@@ -58,4 +58,4 @@ The stack reads outward-in, like everything in Phi: which one, what kind, who. R
 
 ### Drill: order the story
 
-The velveteen story runs in eighteen scenes; the journal runs in dated days; the market runs in stalls. Produce, aloud: the fifth scene (`nu ta shao wi nophi`? No, scenes are events, but *scene* here is `nophi`, story; decide and defend), the sixth day, the second trader, the eighth egg, the first storm of the year. Answers and the classifier reasoning in Part 9: the egg and the storm are the instructive two.
+The velveteen story runs in eighteen scenes; the journal runs in dated days; the market runs in stalls. Produce, aloud: the fifth scene (an event, or a stretch of story? decide and defend), the sixth day, the second trader, the eighth egg, the first storm of the year. Answers and the classifier reasoning in Part 9: the egg and the storm are the instructive two.

@@ -65,11 +65,11 @@ night come. eighty-one-group star.
 
 lopia sui philo ta shao wi lipha powea to wisola. lopia mua korua ta themo noru phelu.
 child DUR day one three-group two LIFE.CLF egg PST exchange. child LOC heart one THING.CLF bowl hold.
-(Across the day the child traded five eggs. In her heart she holds one bowl.)
+(Across the day the child traded five eggs. In their heart they hold one bowl.)
 ```
 
-The day ends with an exact memory of what was exchanged and a scale estimate for a sky that nobody counted. The pairing (`ta shao wi` for the eggs, bare `rei` for the stars) illustrates two different claims: one exact, one approximate. Context, knowledge, and consequences determine which is accurate.
+The day ends with an exact memory of what was exchanged and a scale estimate for a sky that nobody counted. The pairing (`ta shao wi` for the eggs, bare `rei` for the stars) is two different claims, one exact and one approximate, each precise about exactly as much as the child knows. If the pamphlet leaves one pairing in your pocket, let it be that one.
 
 ### Drill: your own market
 
-Write the scene's skeleton for your own errand (real or invented) in eight to twelve sentences: one exact count whose difference affects the event, one contextually justified `phina` or `soli`, one optional classifier choice you can explain, one `nu` position, one exchange with `wei … loa`, and one quantity expressed without a number. Read it aloud the next day and audit each choice: what did you know, what did the situation require, and what would an exact, approximate, quantified, or qualitative alternative change?
+Write the scene's skeleton for your own errand (real or invented) in eight to twelve sentences: one exact count whose difference affects the event, one contextually justified `phina` or `soli`, one optional classifier choice you can explain, one `nu` position, one exchange with `wei … loa`, and one quantity expressed without a number. Read it aloud the next day and check each number against what you knew and what the errand required: did it earn its exactness, or wear its about?

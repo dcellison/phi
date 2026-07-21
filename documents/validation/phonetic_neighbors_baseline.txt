@@ -3,10 +3,10 @@
 0.47	1	mia	1SG	function	mea	thanks	interjection	1851
 0.47	1	lu	COND	function	lo	PL	function	1575
 0.47	1	shea	peace	content	shia	3SG	function	1435
-0.47	1	nila	see	content	nela	COORD	function	703
+0.47	1	nila	see	content	nela	COORD	function	705
 0.47	1	so	FUT	function	su	OPT	function	415
 0.47	1	sholu	complete	content	sholo	QUOT.COMP.CLOSE	function	281
-0.47	1	wi	two	content	we	ALSO	function	274
+0.47	1	wi	two	content	we	ALSO	function	275
 0.47	1	ro	HAB	function	ru	INTS	function	264
 0.47	1	ke	INFER	function	ki	PFV	function	263
 0.47	1	si	IPFV	function	se	PASS	function	243
@@ -20,8 +20,8 @@
 0.47	1	nia	ON	function	nea	aha	interjection	73
 0.47	1	wia	how many	function	wea	TOWARD	function	72
 0.47	1	le	HON.ROLE	function	li	RESTR	function	70
+0.47	1	phoi	nine-group	content	phoe	ANT	function	59
 0.47	1	phena	kind	content	phina	FEW	function	58
-0.47	1	phoi	nine-group	content	phoe	ANT	function	58
 0.47	1	noa	position	content	nua	COM	function	53
 0.47	1	phue	wise	content	phoe	ANT	function	48
 0.47	1	thua	fair	content	thoa	AMONG	function	28
@@ -50,7 +50,7 @@
 0.47	1	menua	counselor	content	menoa	face	content	39
 0.47	1	shero	night	content	sheru	slow	content	33
 0.47	1	thero	fire	content	thiro	serene	content	33
-0.47	1	phui	flute	content	phoi	nine-group	content	29
+0.47	1	phui	flute	content	phoi	nine-group	content	30
 0.47	1	molu	container	content	mulu	low	content	27
 0.47	1	solae	explain	content	solai	gold	content	24
 0.47	1	kuma	drum	content	koma	head	content	23
@@ -100,8 +100,8 @@
 0.50	1	sa	HON.RESPECT	function	ha	PROX	function	756
 0.50	1	na	NEC	function	ma	NEG	function	650
 0.50	1	nua	COM	function	mua	LOC	function	501
-0.50	1	ta	one	content	ka	CAUS	function	476
-0.50	1	ta	one	content	pa	INCH	function	372
+0.50	1	ta	one	content	ka	CAUS	function	479
+0.50	1	ta	one	content	pa	INCH	function	375
 0.50	1	ho	ASSUM	function	so	FUT	function	330
 0.50	1	ko	FOC	function	po	POT	function	316
 0.50	1	shola	QUOT.COMP	function	sola	DISJ	function	305
@@ -165,7 +165,7 @@
 0.50	1	shena	calm	content	thena	thing	content	212
 0.50	1	sena	pattern	content	thena	thing	content	204
 0.50	1	thema	guardian	content	thena	thing	content	204
-0.50	1	phao	parent	content	shao	three-group	content	177
+0.50	1	phao	parent	content	shao	three-group	content	180
 0.50	1	melu	friend	content	nelu	revere	content	176
 0.50	1	wheo	elder	content	theo	read	content	170
 0.50	1	shaelo	brave	content	phaelo	feel	content	162
@@ -175,8 +175,8 @@
 0.50	1	shelu	book	content	thelu	dialogue	content	123
 0.50	1	shelu	book	content	helu	smooth	content	122
 0.50	1	nophi	story	content	mophi	wool	content	111
+0.50	1	shao	three-group	content	hao	pardon	interjection	106
 0.50	1	noshi	near (adj)	content	nophi	story	content	103
-0.50	1	shao	three-group	content	hao	pardon	interjection	103
 0.50	1	korua	heart	content	torua	year	content	99
 0.50	1	phulae	mouth	content	sulae	warm	content	94
 0.50	1	siora	joy	content	phiora	spirit	content	94
@@ -212,7 +212,7 @@
 0.50	1	wemi	ally	content	weni	imagine	content	33
 0.50	1	thola	bring	content	hola	laugh	content	32
 0.50	1	norae	method	content	morae	sense	content	30
-0.50	1	phoi	nine-group	content	hoi	onward	interjection	29
+0.50	1	phoi	nine-group	content	hoi	onward	interjection	30
 0.50	1	thelomi	lake	content	selomi	weave	content	29
 0.50	1	wetha	cloth	content	wesha	lazy	content	28
 0.50	1	whila	hair	content	shila	winter	content	28

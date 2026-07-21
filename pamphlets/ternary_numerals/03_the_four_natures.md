@@ -1,6 +1,6 @@
 # Part 3: The four natures
 
-Between a number and its noun, Phi offers a classifier: one small word naming a category assigned to what is counted. Four exist, always optional and never inflected: `himo` (HUM.CLF, people), `lipha` (LIFE.CLF, living beings), `themo` (THING.CLF, detached and crafted objects), and `nophe` (ABST.CLF, concepts, time, events). The doctrine, including the nature-now rule, is canon and the reference's; this part is judgment practice because real categories can be contested or uncertain.
+Between a number and its noun, Phi offers a classifier: one small word naming a category assigned to what is counted. Four exist, always optional and never inflected: `himo` (HUM.CLF, people), `lipha` (LIFE.CLF, living beings), `themo` (THING.CLF, detached and crafted objects), and `nophe` (ABST.CLF, concepts, time, events). The doctrine, including the nature-now rule, is canon and the reference's; this part is judgment practice because the rule is easy and the world is not.
 
 ### The pattern, once
 
@@ -24,7 +24,7 @@ one ABST.CLF day. two ABST.CLF day.
 (One day. Two days.)
 ```
 
-All four appear in the primer's market chapter: people, living things, crafted things, and time, one scene each. The lexicon classifies an egg with `lipha` as life in waiting; a speaker may omit the classifier when that categorization is irrelevant or uncertain.
+All four appear in the primer's market chapter, from its hatching eggs to its counted days. The market's eggs ride as `lipha`, life in waiting, because they are meant for hatching; the lexicon licenses `themo` for an egg counted as food or detached material, and a bare count leaves the category unspoken.
 
 ### The nature-now rule, drilled
 
@@ -53,4 +53,4 @@ Choose the classifier (or defensibly decline one) and say the full phrase. Reaso
 
 ### Optional, and therefore meaningful
 
-Because classifiers are never required, every use is a choice and may carry tone. `wi melu` and `wi himo melu` both mean two friends; the second explicitly adds the human category. This can function as courtesy or emphasis, but omission is fully grammatical and does not imply disregard. In arithmetic, referent compatibility matters even when all classifiers are omitted; Part 6 gives separate rules for addition, subtraction, multiplication, and division.
+Because classifiers are never required, every use is a choice and may carry tone. `wi melu` and `wi himo melu` both mean two friends; the second explicitly adds the human category, as courtesy or as emphasis, and omission remains fully grammatical. In arithmetic, referent compatibility matters even when every classifier is omitted; Part 6 gives the rules that keep a calculation from forgetting what it counts.
