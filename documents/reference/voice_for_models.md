@@ -46,7 +46,7 @@ The voice is one voice in three registers, plus a class of text you must never t
 
 When adding an artifact to an existing series, inherit the series' furniture exactly before writing anything new: the shared section headings, the table column headers, and every standing sentence the series carries in each instance. A module guide, for example, always names the reader's right to ask for a core paraphrase, because canon grants it; omitting that sentence is a content gap, not a style choice. Read one or two siblings first and copy their scaffolding verbatim, and take the scaffolding from the merged siblings as they stand today, not from your own earlier artifact or its draft: review may have corrected the furniture since you last wrote it, and self-consistency with your own past output is exactly how a corrected mistake gets reintroduced. Newness belongs in the prose between the furniture, never in the furniture itself.
 
-**Untouchable text**: existing validated Phi example blocks (the fenced four-line blocks of Phi sentence, gloss line, parenthetical English, and source line), gloss lines anywhere, source quotations, and the protected formatting conventions listed under mechanics below. Humanizer does not turn a reuse task into a rewrite. When a task creates a new block, its ordinary English receives the pass before validation, while its Phi and exact gloss stay governed by the lexicon. Existing blocks are never edited for style, and several of them contain em dashes that are part of the convention, not a defect.
+**Untouchable text**: existing validated Phi example blocks (the fenced four-line blocks of Phi sentence, gloss line, parenthetical English, and source line), gloss lines anywhere, source quotations, and the protected formatting conventions listed under mechanics below. Humanizer does not turn a reuse task into a rewrite. When a task creates a new block, its ordinary English receives the pass before validation, while its Phi and exact gloss stay governed by the lexicon. The boundary runs between style and accuracy: a style pass never edits an existing block, and several blocks contain em dashes that are part of the convention, not a defect. An accuracy retrofit may revise a block when current grammar, the lexicon, or a corpus convention requires it, and the revised block then validates like any new one.
 
 ## The rules
 
@@ -260,6 +260,16 @@ After:
 > Nothing happens in a Phi sentence until everyone it concerns is standing in it. That is a small practice of attention, offered again in every sentence: establish who is present, then act. The grammar provides the order; the attention is yours to bring, and there is a place built for it.
 
 The cure for a false effect claim is rarely deleting the image; it is changing the verb. Design-intent verbs (built to, asks, offers, invites) promise what the language attempts, and they can carry a vista, a metaphor, or a founding question honestly. When an older draft holds a beautiful image on a false verb, restore the image and retire the verb. Warm and accurate are not opposites; the warmth just has to be earned by verbs that tell the truth.
+
+## Passes over existing prose
+
+A pass over existing prose owes additions, not only corrections. These rules are the maintainer's, set after two passes shorted the additive half of a warmth commission, and they bind every teaching-corpus or retrofit pass and any commission naming an additive goal such as warmth, richness, or aspiration.
+
+The additive question runs first at every file: what should this file become? Only then the accuracy question: what is wrong in it? A file already judged accurate is not thereby finished. Dryness is its own finding, and the hunt for latent images runs on every file whether or not anything was ever stripped from it.
+
+No file closes at zero additions on the writer's own judgment. A file believed saturated is flagged as claimed saturated for the maintainer, who confirms or sends it back; only he closes a file at zero.
+
+The delivery for such a pass carries a per-file additions ledger: every file listed, what was added to it, zeros visible. Presenting a low count as restraint or taste is the exact failure these rules exist to prevent.
 
 ## The protocol
 

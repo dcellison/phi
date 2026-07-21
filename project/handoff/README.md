@@ -10,7 +10,7 @@ Before changing anything, read these sources in order:
 
 1. [`AGENTS.md`](../../AGENTS.md) for Markdown, Humanizer, publication, and post-merge rules.
 2. [`canon.md`](../../canon.md) for the authority order and settled language decisions.
-3. [`documents/reference/voice_for_models.md`](../../documents/reference/voice_for_models.md) in full, then the complete Humanizer skill installed for this model, before generating any Phi project prose. On the current Codex installation its source is `/Users/daniel/.codex/skills/humanizer/SKILL.md`; use the active skill locator rather than assuming that absolute path on another host.
+3. [`documents/reference/voice_for_models.md`](../../documents/reference/voice_for_models.md) in full, then the complete Humanizer skill installed for this model, before generating any Phi project prose. Locate the skill through the active installation's own skill registry rather than a remembered absolute path.
 4. [`project/development_protocol.md`](../development_protocol.md) for word creation, source material, names, semantic choices, and validation.
 5. [`project/roadmap.md`](../roadmap.md) for the execution sequence and evidence gates.
 6. [`project/content_vocabulary_coverage.md`](../content_vocabulary_coverage.md) and the generated [`project/content_vocabulary_decisions.md`](../content_vocabulary_decisions.md) for the active vocabulary migration.

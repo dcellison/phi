@@ -188,7 +188,7 @@ diff -u documents/validation/phonetic_neighbors_baseline.txt /tmp/phonetic_neigh
 python3 scripts/audit_phonetic_neighbors.py --kind function --prompts 40 --seed 202601
 ```
 
-The committed baseline had 250 pairs after #418. When no form changes, the generated file must match exactly. Distance scores are prompts for listening work, not proof that two words must change.
+The committed baseline had 250 pairs after #418. Its attestation counts track the active corpus, so the generated file changes whenever cited examples change, even when no word form does; regenerate it unconditionally before any corpus pull request and commit the result when it differs. Distance scores are prompts for listening work, not proof that two words must change.
 
 ## Productive-name utility
 

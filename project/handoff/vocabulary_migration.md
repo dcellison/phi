@@ -1,6 +1,6 @@
 # Vocabulary migration
 
-This guide describes the active SEM-09 prose migration and the content-coverage gate around it. It supplements the live [`development protocol`](../development_protocol.md), [`schema`](../../vocabulary/schema.json), [`coverage ledger`](../content_vocabulary_coverage.md), and [`decision register`](../content_vocabulary_decisions.json). Those sources remain authoritative.
+This guide preserves the batch method of the completed SEM-09 prose migration; the same method governs any future vocabulary batch, and the content-coverage gate around it remains in force. It supplements the live [`development protocol`](../development_protocol.md), [`schema`](../../vocabulary/schema.json), [`coverage ledger`](../content_vocabulary_coverage.md), and [`decision register`](../content_vocabulary_decisions.json). Those sources remain authoritative.
 
 ## What counts as migrated
 
@@ -14,7 +14,7 @@ The target prose contract is not a cosmetic rewrite. A completed content entry h
 - any useful `search_terms`, `usage_notes`, `sound_symbolism`, direct `pillars`, and established `modules` memberships;
 - no legacy `concept` or `grammatical_notes` field.
 
-The schema still accepts legacy forms while migration is underway. That compatibility is not permission to leave old fields in an entry that receives a complete revision.
+The schema retains its migration-era tolerance for legacy forms. The migration is complete, and that tolerance is not permission to reintroduce old fields in any entry.
 
 Entry state is computed by `scripts/vocabulary_prose_coverage.py`:
 
@@ -128,7 +128,7 @@ python3 scripts/audit_phonetic_neighbors.py --candidate CANDIDATE
 
 The validator's distance-1 rule is a hard gate subject only to the existing grandfathered baseline. The phonetic-neighbour score is advisory and never orders a rename by itself. Natural opposites should be easy to distinguish, not designed as minimal pairs.
 
-When a form replaces another form, search the entire active repository explicitly. The validator has a known limitation around single-word italic mentions. Update examples, grammatical notes, compounds, manual and primer teaching, texts, generated references, and sound-related prose in context. Retire the old short form in `documents/validation/retired_forms.txt` when canon requires lexical protection. Four-syllable forms are excluded by class and do not belong in that file.
+When a form replaces another form, search the entire active repository explicitly. The validator has a known limitation around single-word italic mentions. Update examples, compounds, manual and primer teaching, texts, generated references, and sound-related prose in context. Retire the old short form in `documents/validation/retired_forms.txt` when canon requires lexical protection. Four-syllable forms are excluded by class and do not belong in that file.
 
 ### Base and modules
 
