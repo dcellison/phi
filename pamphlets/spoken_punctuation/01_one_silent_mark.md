@@ -29,7 +29,7 @@ Canon phrases the wider rule this way: a silent mark is justified only where no 
 
 ### Pauses are free
 
-A pause can give someone time to breathe, think, or let a line settle. It can also carry feeling. What it cannot do is alter a Phi sentence's grammatical structure or propositional meaning. A hesitation therefore needs no ellipsis, and an expressive pause needs no dash. The same sentence may be read with different rhythms without becoming a different sentence.
+A pause can give someone time to breathe, think, or let a line settle. It can also carry feeling. What it cannot do is alter a Phi sentence's grammatical structure or propositional meaning. A hesitation therefore needs no ellipsis, and an expressive pause needs no dash. The same sentence may be read with different rhythms without becoming a different sentence. The page records what was said and leaves the silences unspelled.
 
 ### Every Phi mode carries the words
 
