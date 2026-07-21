@@ -63,7 +63,8 @@
     {"id": "household-daily-life-module-prose", "heading": "Household and Daily Life module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-CLEAN-01", "CV-FOOD-01", "CV-FOOD-02", "CV-ECON-01", "CV-CULT-01", "CV-MAT-09", "CV-DWELL-01", "CV-DWELL-02", "CV-DWELL-03", "CV-DWELL-04", "CV-DWELL-05", "CV-TOOL-01", "CV-MESH-01", "CV-ENERGY-01", "CV-RESOURCE-01", "CV-ENERGY-04", "CV-COMMONS-04", "CV-HOUSE-01", "CV-HOUSE-02", "CV-HOUSE-03", "CV-HOUSE-04", "CV-HOUSE-05", "CV-HOUSE-06", "CV-HOUSE-07", "CV-HOUSE-08", "CV-HOUSE-09"]},
     {"id": "medical-bodily-care-module-prose", "heading": "Medical and Bodily Care module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-01", "CV-TASTE-01", "CV-SENS-01", "CV-CLEAN-01", "CV-NAUSEA-01", "CV-BREATH-01", "CV-SWELL-01", "CV-MED-01", "CV-MED-02", "CV-MED-SENSITIVE-01", "CV-BODY-08", "CV-BODY-09", "CV-REPRO-01", "CV-HOUSE-07", "CV-ROLE-01", "CV-WORK-01", "CV-MED-03", "CV-MED-04", "CV-MED-05", "CV-MED-06", "CV-MED-07", "CV-MED-08", "CV-MED-09", "CV-MED-10", "CV-MED-11", "CV-MED-12", "CV-MED-13", "CV-MED-14", "CV-MED-15", "CV-MED-16"]},
     {"id": "accessibility-participation-module-prose", "heading": "Accessibility and Participation module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-01", "CV-ACCESS-01", "CV-ECON-01", "CV-DWELL-01", "CV-DWELL-02", "CV-DWELL-04", "CV-TOOL-01", "CV-TRAVEL-03", "CV-TRAVEL-04", "CV-LANG-02", "CV-ROLE-01", "CV-SECRET-01", "CV-WORK-01", "CV-COMMONS-07", "CV-MED-13", "CV-SYSTEMS-07", "CV-ACCESS-02", "CV-ACCESS-03", "CV-ACCESS-04", "CV-ACCESS-05", "CV-ACCESS-06", "CV-ACCESS-07", "CV-ACCESS-08", "CV-ACCESS-09", "CV-ACCESS-10", "CV-ACCESS-11", "CV-ACCESS-12", "CV-ACCESS-13", "CV-ACCESS-14", "CV-ACCESS-15", "CV-ACCESS-16", "CV-ACCESS-17"]},
-    {"id": "work-craft-repair-module-prose", "heading": "Work, Craft, and Repair module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-01", "CV-SYS-01", "CV-WORK-01", "CV-ECON-01", "CV-MAT-08", "CV-MAT-09", "CV-MAT-11", "CV-TOOL-01", "CV-TOOL-02", "CV-RISK-01", "CV-RISK-02", "CV-RESOURCE-01", "CV-ROLE-01", "CV-SECRET-01", "CV-ART-03", "CV-COMMONS-07", "CV-COMMONS-11", "CV-HOUSE-06", "CV-MED-13", "CV-ACCESS-02", "CV-ACCESS-10", "CV-SYSTEMS-07", "CV-WORK-02", "CV-WORK-03", "CV-WORK-04", "CV-WORK-05", "CV-WORK-06", "CV-WORK-07", "CV-WORK-08", "CV-WORK-09", "CV-WORK-10", "CV-WORK-11", "CV-WORK-12", "CV-WORK-13", "CV-WORK-14"]}
+    {"id": "work-craft-repair-module-prose", "heading": "Work, Craft, and Repair module prose", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-MEAS-01", "CV-SYS-01", "CV-WORK-01", "CV-ECON-01", "CV-MAT-08", "CV-MAT-09", "CV-MAT-11", "CV-TOOL-01", "CV-TOOL-02", "CV-RISK-01", "CV-RISK-02", "CV-RESOURCE-01", "CV-ROLE-01", "CV-SECRET-01", "CV-ART-03", "CV-COMMONS-07", "CV-COMMONS-11", "CV-HOUSE-06", "CV-MED-13", "CV-ACCESS-02", "CV-ACCESS-10", "CV-SYSTEMS-07", "CV-WORK-02", "CV-WORK-03", "CV-WORK-04", "CV-WORK-05", "CV-WORK-06", "CV-WORK-07", "CV-WORK-08", "CV-WORK-09", "CV-WORK-10", "CV-WORK-11", "CV-WORK-12", "CV-WORK-13", "CV-WORK-14"]},
+    {"id": "grammar-references-retrofit", "heading": "Grammar references retrofit", "migration_status": "complete", "decision_status": "closed", "candidate_ids": ["CV-WRITE-02"]}
   ],
   "candidates": [
     {
@@ -2180,6 +2181,15 @@
       "summary": "The current words already distinguish practical evaluation from institutional claims and present safety. A useful account keeps the criterion and evidence with the person or institution responsible for each one. Exact sign-off, warranty, liability, and compliance terms remain in their operative source.",
       "expressions": ["kirero", "kirema", "somaki", "kisome", "nilaki", "tukiro", "sikanu", "kanuwa", "kelomi", "shurano"],
       "batches": ["work-craft-repair-module-prose"]
+    },
+    {
+      "id": "CV-WRITE-02",
+      "concept": "spell aloud: walk a written form character by character",
+      "status": "deferred",
+      "placement": "ordinary base coinage when conversational repair shows the recurring need",
+      "summary": "Asking for a word is already sayable: `pi wa thia phelui po haolu.` asks the speaker to say it, and the exact written form then lives in the surrounding medium, where spelling, script, and notation belong. A dedicated verb would name the act of naming characters in order, and conversation has not yet needed that act inside Phi often enough to justify a root.",
+      "revisit_when": "original dialogues, teaching, or repair practice repeatedly need an in-Phi request to walk a form character by character rather than presenting the written form separately",
+      "batches": ["grammar-references-retrofit"]
     }
   ],
   "prompt_sources": [

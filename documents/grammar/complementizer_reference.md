@@ -6,7 +6,7 @@ This document covers complementizers and the vocative marker—function words th
 
 ## Complementizers
 
-Complementizers are multi-syllable function words that introduce subordinate clauses. They announce the relationship between the main clause and the embedded clause that follows.
+Complementizers are two-syllable function words that introduce subordinate clauses, the frame shape of the function-word charter. They announce the relationship between the main clause and the embedded clause that follows, and the three opener and closer pairs share a sound pattern: each pair keeps one first syllable and contrasts only the final vowel, `-a` to open a frame and `-o` to close it.
 
 ### `rena` - Relativizer (REL)
 
@@ -52,12 +52,12 @@ The frame verb may be a verb of speaking (`haolu`, `shemui`, `thilou`) or of rec
 
 **Examples**:
 ```
-shia shola sileta mioru nai sholo haolu
-3SG QUOT.COMP sun beautiful be QUOT.COMP.CLOSE speak
+shia shola sileta mioru nai sholo haolu.
+3SG QUOT.COMP sun beautiful be QUOT.COMP.CLOSE speak.
 (They say, "The sun is beautiful.")
 
-mia shola mia so wepu sholo to haolu
-1SG QUOT.COMP 1SG FUT go QUOT.COMP.CLOSE PST speak
+mia shola mia so wepu sholo to haolu.
+1SG QUOT.COMP 1SG FUT go QUOT.COMP.CLOSE PST speak.
 (I said: "I will leave.")
 ```
 
@@ -76,23 +76,23 @@ mia shola mia so wepu sholo to haolu
 
 **Examples**:
 ```
-mia mena shia to wepu meno shelomu
-1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
+mia mena shia to wepu meno shelomu.
+1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand.
 (I understand that they left.)
 
-shia mena thia to wepu meno to haolu
-3SG DECL.COMP 2SG PST go DECL.COMP.CLOSE PST speak
+shia mena thia to wepu meno to haolu.
+3SG DECL.COMP 2SG PST go DECL.COMP.CLOSE PST speak.
 (They said that you left.)
 
-mia mena sileta sulae nai meno phaelo
-1SG DECL.COMP sun warm be DECL.COMP.CLOSE feel
+mia mena sileta sulae nai meno phaelo.
+1SG DECL.COMP sun warm be DECL.COMP.CLOSE feel.
 (I feel that the sun is warm.)
 ```
 
 **Nesting**: `mena`/`meno` clauses can nest. Each `mena` must have its own `meno`:
 ```
-mia mena thia mena shia to wepu meno phaelo meno shelomu
-1SG DECL.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE feel DECL.COMP.CLOSE understand
+mia mena thia mena shia to wepu meno phaelo meno shelomu.
+1SG DECL.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE feel DECL.COMP.CLOSE understand.
 (I understand that you feel that they left.)
 ```
 
@@ -113,16 +113,16 @@ mia mena thia mena shia to wepu meno phaelo meno shelomu
 
 **Examples**:
 ```
-mia wela shia to wepu welo phaelo
-1SG INT.COMP 3SG PST go INT.COMP.CLOSE feel
+mia wela shia to wepu welo phaelo.
+1SG INT.COMP 3SG PST go INT.COMP.CLOSE feel.
 (I wonder whether they left.)
 
-shia wela mia to nila welo to thilou
-3SG INT.COMP 1SG PST see INT.COMP.CLOSE PST inquire
+shia wela mia to nila welo to thilou.
+3SG INT.COMP 1SG PST see INT.COMP.CLOSE PST inquire.
 (They asked whether I had seen.)
 
-lo mia wela sileta mioru nai welo ma shelomu
-PL 1SG INT.COMP sun beautiful be INT.COMP.CLOSE NEG understand
+lo mia wela sileta mioru nai welo ma shelomu.
+PL 1SG INT.COMP sun beautiful be INT.COMP.CLOSE NEG understand.
 (We don't know whether the sun is beautiful.)
 ```
 
@@ -159,16 +159,16 @@ The vocative is a separate part of speech for direct address, existing outside t
 
 **Examples**:
 ```
-kona melu. mia ha nai
-VOC friend. 1SG PROX be
+kona melu. mia ha nai.
+VOC friend. 1SG PROX be.
 (Friend, I am here.)
 
-kona ne sa sulae. wa thia towe nai
-VOC NAME HON.RESPECT sulae. Q 2SG well be
+kona ne sa sulae. wa thia towe nai.
+VOC NAME HON.RESPECT sulae. Q 2SG well be.
 (Honored sulae, are you well?)
 
-kona ne ni moli. mia thia lothea
-VOC NAME HON.INTIM moli. 1SG 2SG love
+kona ne ni moli. mia thia lothea.
+VOC NAME HON.INTIM moli. 1SG 2SG love.
 (Dear moli, I love you.)
 ```
 

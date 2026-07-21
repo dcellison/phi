@@ -28,7 +28,7 @@ The execution sequence is settled:
 2. Finish SEM-09D with the current documents; all nine pamphlets are current.
 3. Return to the Phi book at chapter 8 after that sweep.
 
-The immediate task is the current-documents sweep. The teaching review's resume note records what awaits it: the epistemic shorthands "source of knowledge" in the particle reference and "How you know" in the taught patterns, and curly quotes in the numeral reference.
+The immediate task is the current-documents sweep, running as directory batches: the grammar references are done, and `documents/reference/` is next (its taught patterns still carry the "How you know" shorthand). The teaching review's resume point tracks the batches.
 
 ## The maintainer's working contract
 

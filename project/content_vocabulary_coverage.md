@@ -1619,6 +1619,16 @@ A chair comes back from repair with one leg pale and new. Before anyone sits dow
 
 The batch migrates all sixteen inherited Work entries and adds no root. Work, Craft, and Repair keeps seventy current memberships and now has no legacy entry. Every lexicon entry is target-shaped, so SEM-09C is complete and the contextual active-corpus retrofit is next.
 
+## Grammar references retrofit
+
+A conversation stalls on a word nobody quite catches, and the repair conventions already know the sequence: ask for the word again, then hand its exact written form to the page beside the conversation. The grammar-references pass re-noticed the one lexical question standing in that scene and recorded it durably instead of leaving it inside a document's aside.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| Spell aloud: walk a written form character by character | `pi wa thia phelui po haolu.`, separate source presentation, and `CV-WRITE-02` | **DEFERRED** | Asking for the word is sayable, and the exact written form lives in the surrounding medium, where spelling, script, and notation belong. A dedicated verb waits for dialogues that repeatedly need the character-by-character act inside Phi. |
+
+The batch adds no root and changes no membership; it converts a standing aside in the conversation-repair conventions into a registered return condition.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -1710,4 +1720,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The decision queue is closed. The register holds 49 implemented groups and 110 compositional decisions. It also preserves 29 deferrals with return conditions, 43 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,275 lexicon entries follow the target prose contract. Fifteen literary retrofits complete the shelf, the drafted Phi book is current through chapter 7, and all seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes without a new lexical decision. Resume SEM-09D with the current documents, before chapter 8. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
+The decision queue is closed. The register holds 49 implemented groups and 110 compositional decisions. It also preserves 30 deferrals with return conditions, 43 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,275 lexicon entries follow the target prose contract. Fifteen literary retrofits complete the shelf, the drafted Phi book is current through chapter 7, and all seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes without a new lexical decision. Resume SEM-09D with the current documents, before chapter 8. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.

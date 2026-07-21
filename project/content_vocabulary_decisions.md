@@ -83,6 +83,7 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Medical and Bodily Care module prose](#medical-and-bodily-care-module-prose) | complete | closed | 30 |
 | [Accessibility and Participation module prose](#accessibility-and-participation-module-prose) | complete | closed | 32 |
 | [Work, Craft, and Repair module prose](#work-craft-and-repair-module-prose) | complete | closed | 35 |
+| [Grammar references retrofit](#grammar-references-retrofit) | complete | closed | 1 |
 
 ## Core material qualities
 
@@ -770,6 +771,12 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | `CV-WORK-12` | patents, copyright, trade marks, trade secrets, intellectual property, and ownership claims over designs or knowledge | Source-bound | exact legal, institutional, or community source beside Work and Commons relations | Every legal or institutional intellectual-property record retains its exact identity. Its jurisdiction and scope stay with the record. So do the holder, dates, and operative wording. Community knowledge restrictions keep their own authority and terminology. Phi describes the surrounding work and power relations without treating legal ownership as the only possible account. Phi can describe the design, its history, and the claims or restrictions around it. It cannot rebuild the legal or community category that decides what is protected, for how long, or against whom. |
 | `CV-WORK-13` | sourcing, procurement, logistics, distribution, storage, and disposal | Compositional | Work material flow with Ecological, Systems, Commons, and exact economic sources | `luseri`, `sephori`, `sekaru`, `muphera`, `sitawi`, `phelure`, `tukelu`, `whemori`, `phenori`, `karami`. Provenance follows where material came from; supplying and transfer follow how it becomes available; stock and inventory separate the shelf from the record. Storage, reuse, recycling, and waste state later stages. Procurement terms that depend on price, contract, or institutional procedure remain with their source. |
 | `CV-WORK-14` | quality assurance, quality control, approval, sign-off, warranty, and safe return to use | Compositional | Work evaluation with Systems inspection, Commons review and authorization, and exact source records | `kirero`, `kirema`, `somaki`, `kisome`, `nilaki`, `tukiro`, `sikanu`, `kanuwa`, `kelomi`, `shurano`. The current words already distinguish practical evaluation from institutional claims and present safety. A useful account keeps the criterion and evidence with the person or institution responsible for each one. Exact sign-off, warranty, liability, and compliance terms remain in their operative source. |
+
+## Grammar references retrofit
+
+| ID | Concept | Status | Placement | Decision or return condition |
+|---|---|---|---|---|
+| `CV-WRITE-02` | spell aloud: walk a written form character by character | Deferred | ordinary base coinage when conversational repair shows the recurring need | When original dialogues, teaching, or repair practice repeatedly need an in-Phi request to walk a form character by character rather than presenting the written form separately. Asking for a word is already sayable: `pi wa thia phelui po haolu.` asks the speaker to say it, and the exact written form then lives in the surrounding medium, where spelling, script, and notation belong. A dedicated verb would name the act of naming characters in order, and conversation has not yet needed that act inside Phi often enough to justify a root. |
 
 ## Prompt sources
 

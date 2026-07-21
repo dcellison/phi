@@ -1,12 +1,12 @@
 # Phi Particle Reference
 
-This document provides a complete inventory of all particles in Phi, organized by the three-slot system. All particles follow strict CV structure and announce their grammatical function BEFORE the content they modify.
+This document provides a complete inventory of all particles in Phi, organized by the three-slot system. All particles follow strict CV structure and announce their grammatical function BEFORE the content they modify. The shape is chartered: one plain syllable, never a digraph onset, so the grammar's smallest words stay its most instantly recognizable.
 
 ## The Three-Slot System
 
 Particles appear in a fixed order based on their slot:
 
-**[Slot 0] [Subject] [Object] [Slot 1 stack] [Verb]** — Slot 2 particles attach directly before whichever word they modify
+**[Slot 0] [Subject] [Adjuncts] [Object] [Slot 1 stack] [Verb]** — Slot 2 particles attach directly before whichever word they modify; adjunct prepositional phrases stand before the direct object (S PP O V)
 
 Example:
 ```
@@ -190,7 +190,7 @@ Causative: mia thia nophi ka shelomu. (I make you understand the story.)
 
 ### Evidentiality Particles
 
-Evidential particles mark the source of the speaker's knowledge. They are optional — an unmarked sentence is a plain assertion, claiming no source — and they provide explicit epistemic transparency when the source is part of the message.
+Evidential particles mark the claimed source of a statement: what the speaker offers as where it came from, not proof that it is known, true, or reliable. They are optional — an unmarked sentence is a plain assertion, claiming no source — and marking one makes the claimed source an audible part of the message.
 
 #### `hi` - Direct Evidence (DIR)
 **Function**: Announces that the speaker directly witnessed the event through their own senses
@@ -208,7 +208,7 @@ mia hi nila.
 ```
 shia to ke wepu.
 3SG PST INFER go.
-(She left [I infer from evidence].)
+(They left [I infer from evidence].)
 ```
 
 #### `ti` - Reportative Evidence (REP)
@@ -268,11 +268,8 @@ mia so ki po ma shelomu.
 **Modal negation conventions** (order is always modal-then-`ma`):
 - `po ma V` — cannot (the possibility is denied)
 - `na ma V` — must not (the necessity is to refrain)
-- `ka ma V` — the causation is denied (I did not make them V); making
-  someone refrain takes its own verb or two clauses.
-- "Need not" (absence of obligation) is never expressed by reordering.
-  Use the freedom periphrasis: `S lila V ralu nai` — "S is free as to
-  V-ing": `thia lila wepu ralu nai` (you need not go).
+- `ka ma V` — the causation is denied (I did not make them V); making someone refrain takes its own verb or two clauses.
+- "Need not" (absence of obligation) is never expressed by reordering. Use the freedom periphrasis: `S lila V ralu nai` — "S is free as to V-ing": `thia lila wepu ralu nai` (you need not go).
 
 ### Stacking Example
 
@@ -476,7 +473,7 @@ While not technically particles, these function words occupy argument positions 
 - **`kua`** (where) - announces inquiry about place
 - **`misa`** (why) - announces inquiry about reason
 - **`thela`** (how) - announces inquiry about manner
-- **`wia`** (which, how many) - announces inquiry about selection or quantity
+- **`wia`** (how many) - announces inquiry about quantity
 
 **Examples**:
 ```
@@ -497,7 +494,7 @@ thia weno wepu.
 
 ## Discourse Adverbs
 
-These announce how the current sentence relates to prior discourse. They appear **after any Slot 0 particle but before the subject**.
+These announce how the current sentence relates to prior discourse. They appear **after any Slot 0 particle but before the subject**. All seven begin with a fricative digraph: the breath a speaker takes before redirecting the conversation.
 
 **Position**: `[Slot 0] [Discourse Adverb] [Subject]...`
 
@@ -505,6 +502,9 @@ These announce how the current sentence relates to prior discourse. They appear 
 - **`whekai`** - however, on the other hand (contrastive connection)
 - **`sheno`** - in addition, furthermore (additive connection)
 - **`phisu`** - for example, for instance (illustrative connection)
+- **`shorela`** - in other words, put another way (rephrasing)
+- **`shekoi`** - specifically, in particular (specification)
+- **`shelao`** - in summary, in short (summarizing)
 
 **Example**:
 ```
@@ -529,9 +529,9 @@ mia shea nela sila lothea.
 1SG peace COORD community love.
 (I love peace and community.)
 
-wa [shia mioru] sola [thiku].
-Q [3SG beautiful] OR [small].
-(Is it beautiful or small?)
+wa thia theo sola sheluo.
+Q 2SG read DISJ listen.
+(Do you read or listen?)
 ```
 
 ---

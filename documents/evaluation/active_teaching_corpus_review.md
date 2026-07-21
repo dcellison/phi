@@ -472,6 +472,20 @@ The ternary-numerals pass reviews all eleven files under the additive-first cont
 
 The completed base and function vocabulary covers the pamphlet without a new root, lexical question, or optional module term; `sharoi` and `thenoi` are base words, so the pamphlet remains module-free. No dependency outside the pamphlet needed repair: the manual's chapter 12, the numeral reference, primer chapters 15 and 24, and the egg entry already carry the accounts the pamphlet now matches. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
 
+The grammar-references pass opens the current-documents sweep, reviewing all five files under `documents/grammar/` under the additive-first contract. Two of the five are recent and already current; the particle and complementizer references predate the voice era and several rulings, and the pass's sharpest finding was mechanical: some reference examples were invisible to the validator, the complementizer examples because they lacked final periods and one particle example because bracket notation hid it, and the dark lines had drifted.
+
+| File | State | Finding and disposition |
+|---|---|---|
+| `grammar/particle_reference.md` | Revised | The evidentiality section now marks the claimed source of a statement rather than "the source of the speaker's knowledge." The sentence schema gains the adjunct slot (S PP O V). The discourse list grows from four members to canon's seven, with the breath-before-reframing line. The dark coordination example becomes chapter 17's own (`wa thia theo sola sheluo.`), repairing an OR label that contradicted `sola`'s DISJ gloss. `wia` takes its current how-many gloss, a gendered translation joins the corpus convention, two hard-wrapped bullets become single lines, and the intro gains the chartered-shape line. |
+| `grammar/complementizer_reference.md` | Revised | Every sentence example now ends in a period and lints for the first time. The intro states the frame shape and the `-a`/`-o` opener-closer pattern the reference never named. |
+| `grammar/numeral_reference.md` | Revised | Sixteen curly quote characters become straight. Claimed saturated beyond that repair: the reference is the numeral system's boundary home and already carries its earned images. |
+| `grammar/preposition_reference.md` | Reviewed | The 27-preposition inventory, adjunct order, relative-gap rule, motion carves, and compass check against canon. Claimed saturated: written inside the current voice. |
+| `grammar/philosophical_conversation.md` | Revised | The stale capability-log pointer becomes the decision register, where the spell-verb gap is now the registered deferral CV-WRITE-02. The intro gains its purpose line: repair as ordinary speech, not an interruption of it. |
+
+### Lexical and canonical result
+
+The pass adds no root and changes no membership. Its one lexical action is registration: the spell-verb gap, standing as an aside in the conversation-repair conventions, becomes deferral CV-WRITE-02 with a return condition, and the register's generated view and coverage counts move with it. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
+
 ### Resume point
 
-Continue with the current documents. That sweep must revisit the shorthand "source of knowledge" in `documents/grammar/particle_reference.md` and "How you know" in `documents/reference/taught_patterns.md`; neither phrase should restore an epistemic claim that the particles do not make. The numeral reference also carries curly quotes beside its `noa` example.
+Continue the current-documents sweep with `documents/reference/`: the taught patterns still carry the "How you know" shorthand recorded by the evidentiality pass, and no phrase there should restore an epistemic claim the particles do not make. After the reference batch come `documents/design/` with `documents/modules/`, then the evaluation corpus, then PED-08 at chapter 8.
