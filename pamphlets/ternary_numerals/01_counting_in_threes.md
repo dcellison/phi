@@ -29,11 +29,11 @@ Notice what never appears: a remainder of three. The moment you have three left 
 
 ### The rhythm drill
 
-Ternary counting has a spoken rhythm different from English counting. One useful practice is to say one number per step:
+Ternary counting has a spoken rhythm different from English counting, and a good way to own it is the child's own way: aloud, walking, one number per step:
 
 `ta. wi. ta shao. ta shao ta. ta shao wi. wi shao. wi shao ta. wi shao wi.`
 
-Then go backwards, start from four, and use shuffled orders. The long-term goal is for `ta shao wi` to be recognized as *five* without reconstructing it every time, but learners reach that familiarity at different rates. Understanding the structure is enough to proceed; automatic recognition grows through later use.
+Then go backwards, start from four, and use shuffled orders. The long-term aim is for `ta shao wi` to stop being arithmetic and become *five*, one word-shape, heard whole. Learners arrive at that hearing at different rates, and understanding the structure is enough to proceed.
 
 ### `mu`: the count that is absence
 
@@ -53,7 +53,7 @@ Alongside `mu` stands the quantifier `mawha` (none): `mawha suliwa.` (no snake a
 
 ### Drill: hear it whole
 
-Cover the right column. Read each aloud, say the quantity, uncover, and check. Repeat over several sessions, then reverse the task by producing Phi forms from quantities or visible triad arrangements.
+Cover the right column. Read each aloud, say the quantity, uncover, and check. Repeat over several sessions, then reverse the task by producing Phi forms from quantities or visible triad arrangements. The target: a line that takes no longer to understand than to say.
 
 ```
 wi shao ta          — 7
@@ -66,4 +66,4 @@ wi shao             — 6
 ta shao ta          — 4
 ```
 
-Then produce 6, 3, 8, 1, 5, 0, 7, 4, and 2 aloud, first in that order and then shuffled. This is the pamphlet's foundation; later sections remain usable even while recognition is still becoming automatic.
+Then produce 6, 3, 8, 1, 5, 0, 7, 4, and 2 aloud, first in that order and then shuffled. Tomorrow, again. This is the times-table stage of the pamphlet: nothing later is this dry, and everything later leans on it.

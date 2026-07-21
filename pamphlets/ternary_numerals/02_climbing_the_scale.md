@@ -37,7 +37,7 @@ The reading habit from Part 1 scales: largest unit first, then the remainder, de
 | `ta rei` | 81 | 81 |
 | `ta rei ta lau ta phoi ta shao ta` | 81 + 27 + 9 + 3 + 1 | 121 |
 
-That last row is legal and exact. The full exact range ends at `wi rei wi lau wi phoi wi shao wi` (242): each scale appears at most once, with `ta` or `wi`, and `rei` is not recursively counted. Values from 243 upward remain exact source material outside the Phi passage. Longer internal forms make precision more conspicuous, but context decides whether an exact count or an estimate is appropriate; Part 5 practices that choice.
+That last row is legal and exact. The full exact range ends at `wi rei wi lau wi phoi wi shao wi` (242): each scale appears at most once, with `ta` or `wi`, and no scale is recursively counted. Values from 243 upward remain exact source material outside the Phi passage. Nothing breaks as you climb, but every unit adds a breath, and somewhere past `ta lau` the length itself asks a quiet question: *do you need this number, or do you need its size?* Part 5 practices answering; this part is about being able to pay the full price when the count truly matters.
 
 ### Decomposition drills
 
@@ -51,7 +51,7 @@ Now yours (answers in Part 9's key): 11, 17, 21, 25, 28, 33, 45, 60.
 
 ### Reading at tempo
 
-The pamphlet's standing exercise, borrowed from the evidentiality drills: read each line at speaking pace and say the value before the line ends.
+The pamphlet's standing exercise: read each line at speaking pace and say the value before the line ends.
 
 ```
 ta phoi wi
@@ -62,4 +62,4 @@ ta lau ta phoi wi shao wi
 wi lau ta phoi
 ```
 
-(11, 21, 28, 8, 44, 63.) Practice for accurate recognition before speed, and revisit the set in shuffled order. Extended numerals are a later skill, not a test of ordinary conversational competence.
+(11, 21, 28, 8, 44, 63.) Practice for accurate recognition before speed, and revisit the set in shuffled order. When the fifth line resolves as readily as the fourth, the ladder is yours; until then, the child on the village road is ahead of you, counting eggs.

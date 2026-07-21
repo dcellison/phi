@@ -1,6 +1,6 @@
 # Part 8: Common errors
 
-The numeral system's errors divide the way the evidentiality pamphlet's did: forms the grammar forbids, and forms the grammar allows that say something you did not mean. Both kinds below, with the repair reasoning.
+The numeral system's errors divide in two: forms the grammar forbids, and forms the grammar allows that say something you did not mean. Both kinds below, with the repair reasoning.
 
 ### Error 1: a remainder of three
 
@@ -41,17 +41,17 @@ Largest unit first, always: the ladder descends. The wrong form is not ambiguous
 *shao lipha powea.
 ```
 
-Intended as exactly three eggs. This form is grammatical, but it is Part 5's *about*: a bare scale unit gives an approximate magnitude around three. Exactly three is counted: `ta shao lipha powea.` The minimal pair matters in trade, recipes, and any context where the difference affects action. Digit-then-unit for exact; bare unit for an estimate.
+Intended as exactly three eggs. This form is grammatical, but it is Part 5's *about*: a bare scale unit gives an approximate magnitude around three. Exactly three is counted: `ta shao lipha powea.` The minimal pair matters in trade, recipes, and any context where the difference affects action; mixing them up is how a soup comes out wrong. Digit-then-unit for exact; bare unit for an estimate.
 
 ### Error 4: the classifier misfiled
 
-**Wrong (for the nature):**
+**Wrong (for the market's eggs):**
 ```
 wi themo powea.
 two THING.CLF egg.
 ```
 
-Grammatical, but it assigns the egg to the detached-or-crafted category even though Phi's canonical lexicon treats an egg as life in waiting, `lipha`. Conversely, a branch in the woodpile has left `lipha` behind. The repair is not syntactic; it is the nature-now question from Part 3: *what is this, now?* When genuinely torn (a seed packet? cut flowers in water?), remember that classifiers are optional: `wi powea` remains complete without a category claim.
+Grammatical, and for some eggs even right: the lexicon licenses `themo` for an egg counted as food or detached material. The market's eggs are meant for hatching, life in waiting, so `themo` misfiles them. Conversely, a branch in the woodpile has left `lipha` behind. The repair is not syntactic; it is the nature-now question from Part 3, asked of these eggs rather than eggs in general: *what is this, now?* When genuinely torn (a seed packet? cut flowers in water?), remember that classifiers are optional, and declining to classify is the honest form of not knowing: `wi powea` is always complete.
 
 ### Error 5: classifier disagreement across an operation
 
@@ -87,7 +87,7 @@ ORD one HUM.CLF person.
 (the first person)
 ```
 
-Legal, and sometimes exactly right: someone *is* first in line for soup. The grammatical form does not distinguish a harmless queue from a consequential ranking. State or examine who established the order, what criterion it uses, and what follows from it; the ordinal itself supplies none of those safeguards.
+Legal, and sometimes exactly right: someone *is* first in line for soup. The grammatical form does not distinguish a harmless queue from a consequential ranking; who set the order, by what criterion, and at what cost are the questions the ordinal leaves open. Order events, days, stories, and steps freely; order people where a line is truly just a line.
 
 ### Error 8: unsupported precision
 
@@ -96,4 +96,4 @@ Legal, and sometimes exactly right: someone *is* first in line for soup. The gra
 ta rei ta lau wi phoi wi silero.
 ```
 
-One hundred twenty-eight stars, composed correctly, but the scene says nobody counted them. The problem is not precision itself; it is asserting evidence the speaker does not have. If only a rough scale is known, `rei silero` gives one without claiming literal uncountability. In a scientific observation or a child's completed tally, the exact form could instead be appropriate.
+One hundred twenty-eight stars, composed correctly, but the scene says nobody counted them. The problem is not precision itself; it is asserting evidence the speaker does not have. If only a rough scale is known, `rei silero` says so without claiming literal uncountability. Where someone truly counted (a scientific observation, a child's finished tally), the long exact form is the honest one, and its length is the price of knowing.
