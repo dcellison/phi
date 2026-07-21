@@ -177,6 +177,10 @@ Reference entries must not be stamped from a template. Compare openers, closers,
 
 State one boundary once. The earlier generated module prose accumulated long lists of what each word did not authorize or guarantee. Those lists were factually careful and humanly unreadable. The correct move is usually one positive definition and one nearby contrast.
 
+The no-guarantee hedge has a ruled budget: at most one full-strength statement per chapter in teaching prose, placed where its temptation is strongest, and the cap is a ceiling rather than a quota. A kept boundary must teach its own chapter's subject; the general charter is stated once, in Part I, and a chapter whose subject does not raise the temptation carries none.
+
+Imagery is welcome under one rule: hang it on design-intent verbs (built to, asks, offers, invites), never on effect verbs that credit grammar with changing the speaker. When an older draft holds a good image on a false verb, restore the image and retire the verb. The voice guide's gallery shows the move on the real Part I restoration.
+
 ## Book voice
 
 The book is narrative nonfiction for an intelligent general reader. It is not the manual, a sales page, or a project diary. It may discuss project history because the treatment grants the book that register; teaching prose elsewhere still describes Phi as it is now.
