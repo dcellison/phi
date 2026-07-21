@@ -10,7 +10,7 @@ Q 2SG DAT garden water PST give.
 (Did you give water to the garden?)
 ```
 
-`wa` frames a yes/no question. `to` places the giving in the past. The frame says nothing about whether the question is welcome; that remains in the conversation around it.
+`wa` frames a yes/no question. `to` places the giving in the past.
 
 The polite form is equally exact about its limited addition:
 
@@ -20,7 +20,7 @@ POL Q 2SG DAT garden water PST give.
 (Did you give water to the garden?)
 ```
 
-`pi` marks a polite stance. Tone, timing, relationship, and the listener's circumstances still matter.
+`pi` marks a polite stance and nothing larger.
 
 ### An active answer
 

@@ -52,8 +52,6 @@ Absence of obligation is not made by changing the particle order. Phi uses a fre
 
 **thia lila wepu ralu nai.** (You need not go. Literally, you are free with regard to going.)
 
-These are grammatical scope distinctions. The cause of an impossibility and the social force of an obligation remain in the surrounding account.
-
 ### Practice: choose the needed ranks
 
 Choose an evidential, a modal, both, or neither. Mark only what each prompt asks you to claim.

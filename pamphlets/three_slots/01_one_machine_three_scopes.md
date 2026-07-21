@@ -1,6 +1,6 @@
 # Part 1: One system, three scopes
 
-Put `wa` at the front and the whole utterance becomes a yes/no question. Put `to` before the verb and only the event moves into the past. Phi sorts particles by that difference in reach: how much of the utterance does this small word affect?
+Put `wa` at the front and the whole utterance becomes a yes/no question. Put `to` before the verb and only the event moves into the past. Phi sorts particles by that difference in reach: how much of the utterance does this small word affect? A Slot 0 particle fills the whole room, a Slot 1 particle shapes one deed, and a Slot 2 particle rests a finger on one thing.
 
 | Slot | Scope | Position | Inventory |
 |---|---|---|---|

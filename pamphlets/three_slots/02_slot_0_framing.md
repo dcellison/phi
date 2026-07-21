@@ -28,7 +28,7 @@ OPT UNIV well be.
 (May all be well.)
 ```
 
-`wa` identifies a yes/no question, though the conversation still decides whether that question is welcome. `no` identifies a directive; context makes it a request or a command. `pi` marks politeness, which can cover goodwill or pressure with equal grammatical ease.
+`wa` identifies a yes/no question. `no` identifies a directive; context makes it a request or a command. `pi` marks politeness, which can cover goodwill or pressure with equal grammatical ease.
 
 ### Conditions come before consequences
 
