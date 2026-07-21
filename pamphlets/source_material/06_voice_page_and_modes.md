@@ -10,4 +10,6 @@ mia ha sirami theo.
 
 The Phi line above can move intact between writing modes. The source record it refers to may need its own display, spelling, pronunciation, accessibility description, or transmission convention. That is a property of the artifact and medium, not hidden Phi grammar.
 
-In speech, establish the source by whatever shared practice the situation requires, then speak Phi about it. Do not promise letter-perfect recovery merely because a Phi sentence refers to the artifact.
+In speech, establish the source by whatever shared practice the situation requires, then speak Phi about it. A Phi sentence that refers to an artifact does not promise letter-perfect recovery of it; the promise, if one is needed, belongs to the medium that holds the artifact.
+
+The Phi line travels light; the artifact travels with luggage. Keeping them separate lets each move the way it must.

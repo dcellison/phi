@@ -14,4 +14,4 @@ Source name outside Phi: `Amina`
 
 Possible bearer-approved onym: `ne hamina`
 
-Similarity does not grant permission. A person may prefer the source form only, choose a different onym, change an earlier choice, or use no Phi adaptation.
+Similarity does not grant permission. A person may prefer the source form only, choose a different onym, change an earlier choice, or use no Phi adaptation. The name belongs to its bearer in every language.

@@ -1,5 +1,7 @@
 # Part 7: Exercises
 
+Each exercise is a boundary decision of the kind an ordinary week supplies. Work them aloud or on paper; the answers and their reasoning follow in Part 8.
+
 ## A. Choose the layer
 
 For each item, choose canonical vocabulary, a transparent Phi expression, a vocabulary-module term, a productive onym, a translation, or separate source presentation: a person's preferred source-script name; a recurring word for system capacity; a one-time description of a broken wooden handle; a dosage; a legal clause; a community-approved name `samira`; and a technical identifier.

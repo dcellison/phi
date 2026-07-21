@@ -5,7 +5,7 @@
 | Existing Phi concept | Use canonical vocabulary |
 | Specialized recurring concept | Use or extend a vocabulary module |
 | Clear one-time composition | Use ordinary Phi words in ordinary syntax |
-| Proper name inside Phi | `ne` plus a listed content word or accepted two-/three-syllable onym |
+| Proper name inside Phi | `ne` plus a listed content word or an accepted onym of two to four syllables |
 | Longer, multi-token, non-Phi-shaped, or source-script name | Keep the source name outside Phi unless an accepted onym exists |
 | Exact value, unit, formula, identifier, quotation, record, or legal wording | Preserve it in the surrounding medium |
 | Translation | Show the source separately and label the Phi rendering as a translation |

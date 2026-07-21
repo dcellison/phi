@@ -16,4 +16,4 @@ PL 1SG PROX specification acknowledge.
 (We acknowledge this specification.)
 ```
 
-The Phi account can distinguish seeing the record, receiving notice, understanding it, accepting it, satisfying it, enforcing it, and deciding that it applies. Exact typography alone settles none of those relations.
+The Phi account can distinguish seeing the record, receiving notice, understanding it, accepting it, satisfying it, enforcing it, and deciding that it applies. Exact typography alone settles none of those relations. Most disputes about a posted notice are disputes about which of these happened, and Phi gives each one its own verb.
