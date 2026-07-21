@@ -412,6 +412,25 @@ The relative-clauses pass reviews all nine files under the additive-first contra
 
 The completed base and function vocabulary covers the pamphlet without a new root, lexical question, or optional module term. No dependency outside the pamphlet needed repair: the manual's chapter 20 account was already correct, and the pamphlet moves to it. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
 
+The source-material pass reviews all ten files under the additive-first contract. The pamphlet is compact and doctrinally current, written alongside the revised name charter; its one stale fact was a quick-reference row still offering onyms of two or three syllables where the charter grants two to four. The pass is therefore mostly additive: the boundary pamphlet was the sparest on the shelf, and its subject tempts the contract register more than any other.
+
+| File | State | Finding and disposition |
+|---|---|---|
+| `source_material/00_title.md` | Revised | The title page gains the practice-companion furniture it lacked: the nitrate-slip scene, the manual chapter 24 pointer, and a contents list, keeping its boundary epigraph. |
+| `source_material/01_four_choices.md` | Revised | The choices table stands; a closing line says the four are not ranks, each honest somewhere. |
+| `source_material/02_names_and_adaptation.md` | Revised | The consent teaching stands; the file now closes on the name belonging to its bearer in every language. |
+| `source_material/03_preserving_records.md` | Revised | The record teaching gains the catalogue's promised testimony beat: exact words stay in their own language beside the Phi that says who spoke and what should happen next. |
+| `source_material/04_reference_without_an_atom.md` | Revised | The seven relations gain their point: most disputes about a posted notice are disputes about which of them happened, and Phi gives each its own verb. |
+| `source_material/05_translation_and_commitment.md` | Revised | The accountable-act teaching stands; labeling now keeps the seam visible, where trust is honestly asked for. |
+| `source_material/06_voice_page_and_modes.md` | Revised | The reader-aimed warning becomes a property of the sentence, and the file closes on the Phi line travelling light while the artifact travels with luggage. |
+| `source_material/07_exercises.md` | Revised | A framing line seats the exercises in an ordinary week. |
+| `source_material/08_answers.md` | Reviewed | The reasoning-rich answers check against the current charter, including the retired-form and function-word tests. Claimed saturated. |
+| `source_material/09_quick_reference.md` | Revised | The onym row takes the current two-to-four-syllable charter; the closing boundary sentence stands. |
+
+### Lexical and canonical result
+
+The completed base and function vocabulary covers the pamphlet without a new root or lexical question. The pamphlet's examples use four labelled optional terms where its subject calls for them, `tukiro`, `kisholu`, `remuma`, and `whakeru`, which is the module choice its own first chapter teaches; no membership changes. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
+
 ### Resume point
 
-Continue with `pamphlets/source_material/`, then the remaining two pamphlets and the current documents. The later current-document sweep must revisit the shorthand "source of knowledge" in `documents/grammar/particle_reference.md` and "How you know" in `documents/reference/taught_patterns.md`; neither phrase should restore an epistemic claim that the particles do not make.
+Continue with `pamphlets/tengwar_mode/`, then `pamphlets/ternary_numerals/` and the current documents. The later current-document sweep must revisit the shorthand "source of knowledge" in `documents/grammar/particle_reference.md` and "How you know" in `documents/reference/taught_patterns.md`; neither phrase should restore an epistemic claim that the particles do not make.

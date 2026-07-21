@@ -11,6 +11,8 @@ When an outside expression appears, first decide what kind of need it represents
 
 Vocabulary modules make the first choice broader without changing grammar. Separate source presentation keeps the fourth choice honest without creating a third class of half-Phi material.
 
+The four choices are not ranks. Each is the honest one somewhere, and the drill below is practice in hearing which need is actually in front of you.
+
 ### Drill
 
 Classify each need: a recurring ecological concept, a one-time description of a tool, a community-approved short name, an exact dosage, a legal quotation, a mathematical formula, and a tradition-specific term whose source form is under discussion.
