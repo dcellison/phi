@@ -19,7 +19,7 @@
 > **sulae shua.**
 > sulae: **suliwa ti nai. siora mia shane.**
 > **wheo kau phitura thalo. wheo muila nila.**
-> wheo: **suliwa ke nai. mia suliwa ma nila. mia ruela mua muila nila.**
+> wheo: **suliwa ke nai. mia suliwa ma nila. mia mua muila ruela nila.**
 
 | new word | say it | it means |
 |---|---|---|

@@ -59,8 +59,8 @@ The event described is the same. Only the speaker's stated source changes.
 ### Useful two-sentence patterns
 
 ```
-suliwa ke nai. mia ruela mua muila nila.
-snake INFER be. 1SG path LOC earth see.
+suliwa ke nai. mia mua muila ruela nila.
+snake INFER be. 1SG LOC earth path see.
 (I infer that a snake is present. I see a trail in the earth.)
 
 suliwa ti nai. ne siora mia shane.

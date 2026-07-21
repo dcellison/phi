@@ -431,6 +431,27 @@ The source-material pass reviews all ten files under the additive-first contract
 
 The completed base and function vocabulary covers the pamphlet without a new root or lexical question. The pamphlet's examples use four labelled optional terms where its subject calls for them, `tukiro`, `kisholu`, `remuma`, and `whakeru`, which is the module choice its own first chapter teaches; no membership changes. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
 
+The Tengwar pass reviews all twelve files under the additive-first contract. The pamphlet was written inside the current voice and carries its own vista and closing turns; the pass found its doctrine sound against the mode specification's decisions section and its files largely saturated. Its two real findings were an internal contradiction and an unlicensed particle combination, and one of its example lines exposed a five-copy corpus defect older than the pamphlet.
+
+| File | State | Finding and disposition |
+|---|---|---|
+| `tengwar_mode/00_title.md` | Revised | An en dash in the prerequisites line becomes prose. Otherwise saturated: the scene, the outcome list, and the carrier epigraph stand. |
+| `tengwar_mode/01_two_hands_for_one_language.md` | Reviewed | The peers claim, the efficiency comparison, and the fit argument check against the Letters ruling and the mode specification. Claimed saturated. |
+| `tengwar_mode/02_the_consonant_tengwar.md` | Revised | The claim that rómen and órë are "two different sounds" contradicted chapter 5, the appendix, and the mode specification's own decision that the choice is positional while speech trills or taps freely. The corrected passage says one sound wearing two positions. |
+| `tengwar_mode/03_the_vowel_marks_above_and_below.md` | Reviewed | The distinct-shapes and above-placement claims check against the specification. Claimed saturated. |
+| `tengwar_mode/04_one_tengwa_two_vowels.md` | Reviewed | The no-carrier argument matches the specification's own two-facts account. Claimed saturated. |
+| `tengwar_mode/05_romen_and_ore_the_two_rs.md` | Reviewed | The positional rule, stated correctly here, is the account file 02 now agrees with. Claimed saturated. |
+| `tengwar_mode/06_the_silent_marks.md` | Reviewed | Nuquerna-throughout, the optional separator, and the double pusta all match the specification's decisions. Claimed saturated. |
+| `tengwar_mode/07_a_line_written_by_hand.md` | Reviewed | The braided line checks letter by letter. Claimed saturated; its ending is among the shelf's best. |
+| `tengwar_mode/08_common_errors.md` | Reviewed | The six errors and the seventh non-error check against the specification; the hand-variation close needs nothing. Claimed saturated. |
+| `tengwar_mode/09_exercises.md` | Reviewed | Every hiatus, tehta, and r-form answer verified against the word list. Claimed saturated. |
+| `tengwar_mode/10_appendix.md` | Revised | An en dash in the cross-references becomes prose; the reference tables check against the specification. |
+| `tengwar_mode/11_examples.md` | Revised | The unlicensed Slot 0 combination `pi su` becomes plain `su`, the adjunct-order defect takes the ruled S PP O V shape, and the file gains its closing turn: nothing in these lines was new; only the hand changed. |
+
+### Lexical and canonical result
+
+The completed base and function vocabulary covers the pamphlet without a new root, lexical question, or optional module term. The pass repairs a five-copy corpus defect the examples file exposed: `mia ruela mua muila nila.` placed its object before the prepositional phrase against the adjunct-order ruling, in primer chapter 24, three evidentiality files, and the Tengwar examples; all five now read `mia mua muila ruela nila.` The defect predates and survived the modifier-first audit because that audit's invariant list restates every boundary except the adjunct bullet. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
+
 ### Resume point
 
-Continue with `pamphlets/tengwar_mode/`, then `pamphlets/ternary_numerals/` and the current documents. The later current-document sweep must revisit the shorthand "source of knowledge" in `documents/grammar/particle_reference.md` and "How you know" in `documents/reference/taught_patterns.md`; neither phrase should restore an epistemic claim that the particles do not make.
+Continue with `pamphlets/ternary_numerals/`, the last pamphlet, then the current documents. The later current-document sweep must revisit the shorthand "source of knowledge" in `documents/grammar/particle_reference.md` and "How you know" in `documents/reference/taught_patterns.md`; neither phrase should restore an epistemic claim that the particles do not make.

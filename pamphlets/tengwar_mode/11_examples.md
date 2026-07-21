@@ -9,9 +9,9 @@ mia thia whaline.
 ```
 
 ```
-pi su thia towe nai.
-POL OPT 2SG well be.
-(I hope that you are well.)
+su thia towe nai.
+OPT 2SG well be.
+(May you be well.)
 ```
 
 ```
@@ -63,8 +63,8 @@ mia lohau hi hea.
 ```
 
 ```
-mia ruela mua muila nila.
-1SG path LOC earth see.
+mia mua muila ruela nila.
+1SG LOC earth path see.
 (I see the trail in the earth.)
 ```
 
@@ -133,3 +133,5 @@ rena shia to kealo nophi mioru nai.
 REL 3SG PST create story beautiful be.
 (The story that they created is beautiful.)
 ```
+
+Nothing in these lines was new. Particles, classifiers, frames, and relative clauses work here exactly as the rest of the shelf speaks them; only the hand changed. That is the whole promise of the mode, kept twenty-two times in a row.
