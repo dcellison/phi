@@ -18,8 +18,8 @@ The result is remarkably compact. Six-letter *lothea* takes two tengwar. Particl
 | t | tinco | U+E000 | t |
 | m | malta | U+E011 | m |
 | n | númen | U+E010 | n |
-| r (word-initial, trilled [r]) | rómen | U+E020 | r |
-| r (word-internal, tapped [ɾ]) | órë | U+E014 | shift-r |
+| r (word-initial) | rómen | U+E020 | r |
+| r (word-internal) | órë | U+E014 | shift-r |
 | ph | formen | U+E009 | shift-p |
 | wh | hwesta | U+E00B | shift-k |
 | th | thúlë | U+E008 | shift-t |
@@ -30,7 +30,7 @@ The result is remarkably compact. Six-letter *lothea* takes two tengwar. Particl
 | w | vala | U+E015 | w |
 | l | lambë | U+E022 | l |
 
-Two rules govern the doubled rows. The two silmë forms are the writer's choice: whichever form sits more comfortably under the word's tehtar — the classical Quenya convention, kept. The two r forms are not a choice: word-initial r is always the trill and always rómen; word-internal r is always the tap and always órë. (The classical modes split rómen/órë by pre-vocalic versus final position; the Phi mode repurposes the pair for its trill/tap allophony.)
+Two rules govern the doubled rows. The two silmë forms are the writer's choice: whichever form sits more comfortably under the word's tehtar — the classical Quenya convention, kept. The two r forms are not a choice: word-initial r is always rómen, word-internal r always órë. The rule reads position, not sound: a speaker may trill or tap any r, and the writing stays the same (ruling 3 below). (The classical modes split rómen/órë by pre-vocalic versus final position; the Phi mode repurposes the pair to mark where a word begins.)
 
 ## Vowel tehtar
 
