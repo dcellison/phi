@@ -32,7 +32,7 @@ Rebuild each scrambled particle set into a correct sentence. All three concern t
 
 14. `mia suliwa ruela to hi nila.`
 15. `ne sulae so ho shua.`
-16. `suliwa ke nai. mia ruela mua muila nila.`
+16. `suliwa ke nai. mia mua muila ruela nila.`
 17. `wa suliwa ti nai.`
 
 ## Part E: Compare source and situation

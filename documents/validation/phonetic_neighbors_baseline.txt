@@ -108,7 +108,7 @@
 0.50	1	hola	laugh	content	shola	QUOT.COMP	function	273
 0.50	1	thola	bring	content	shola	QUOT.COMP	function	265
 0.50	1	whola	invite	content	shola	QUOT.COMP	function	253
-0.50	1	ki	PFV	function	pi	POL	function	249
+0.50	1	ki	PFV	function	pi	POL	function	248
 0.50	1	mo	CMPR	function	no	IMP	function	228
 0.50	1	ki	PFV	function	ti	REP	function	226
 0.50	1	theo	read	content	pheo	POST	function	225
@@ -120,7 +120,7 @@
 0.50	1	hi	DIR	function	si	IPFV	function	159
 0.50	1	theo	read	content	sheo	THAN	function	155
 0.50	1	hea	hear	content	phea	AS	function	148
-0.50	1	pi	POL	function	ti	REP	function	137
+0.50	1	pi	POL	function	ti	REP	function	136
 0.50	1	wheo	elder	content	pheo	POST	function	133
 0.50	1	te	CESS	function	ke	INFER	function	131
 0.50	1	pheo	POST	function	sheo	THAN	function	118

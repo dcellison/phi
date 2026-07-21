@@ -31,8 +31,8 @@ mia sulopa hi thorima.
 Traces call for another particle. Wet ground may support past rain, an empty room may support a departure, and a trail may support a snake's presence. In those conclusions the senses meet a sign and reasoning reaches beyond it, so `ke` names the route more accurately.
 
 ```
-mia suliwa ma nila. mia ruela mua muila nila.
-1SG snake NEG see. 1SG path LOC earth see.
+mia suliwa ma nila. mia mua muila ruela nila.
+1SG snake NEG see. 1SG LOC earth path see.
 (I do not see the snake. I see the trail in the earth.)
 ```
 

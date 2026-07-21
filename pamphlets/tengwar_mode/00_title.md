@@ -15,7 +15,7 @@ By the end of this pamphlet, you will:
 - Write the word separator and the period, the mode's only two marks
 - Read and write a full line by hand, slowly, the way the mode was meant to be used
 
-This pamphlet assumes the sound system (manual ch07–08) and the romanization the manual teaches throughout. It is a companion to `writing_systems/tengwar_mode.md`, the mode's full specification, and to canon's *Letters* ruling.
+This pamphlet assumes the sound system (manual chapters 7 and 8) and the romanization the manual teaches throughout. It is a companion to `writing_systems/tengwar_mode.md`, the mode's full specification, and to canon's *Letters* ruling.
 
 ---
 
