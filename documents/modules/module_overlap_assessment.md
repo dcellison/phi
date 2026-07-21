@@ -2,7 +2,7 @@
 
 **Status:** Complete for the 227 roots established during the eight profile passes. Seventy-seven carry shared module classifications, 137 keep one module, and thirteen belong in base vocabulary.
 
-The later [base vocabulary placement assessment](base_vocabulary_placement_assessment.md) classifies thirty older roots that were outside this review's source set. Current whole-lexicon totals live there and in the profile index; the counts below describe the 227 profile-pass roots.
+The later [base vocabulary placement assessment](base_vocabulary_placement_assessment.md) classifies thirty older roots that were outside this review's source set. The [profile index](README.md) carries the current whole-lexicon totals; the counts below describe the 227 profile-pass roots.
 
 A speaker who selects Medical and Bodily Care in the lexicon explorer now sees forty-five words. The list includes the thirty roots coined for care and shared entries such as `hisophi` contaminant, `nomiki` concentration, `perawi` expose, and `mothami` baseline. That is the practical result of this review: words that belong to care are now taught there even when another profile first gave them a lexical home.
 

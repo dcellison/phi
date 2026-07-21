@@ -137,7 +137,7 @@ A community, institution, place, project, office, or other named entity may use 
 
 Describe the practical relations in core and module Phi where useful: who acts and who is affected; which institution, role, authority, jurisdiction, rule, entitlement, ownership claim, or obligation is asserted; what procedure and evidence are involved; what was proposed, decided, accepted, refused, or implemented; what notice and record exist; which coercion, retaliation, or harm is alleged; and how accountability, appeal, redress, amendment, or review may occur. Do not claim that this analysis exhausts the separately preserved source concept.
 
-Exact preservation does not make a law applicable, an office authorized, a right recognized, a contract voluntary, a vote valid, a record authentic, a sanction legitimate, a government representative, or an institution just. Module words identify analytical roles around source material; they do not import its force or settle the dispute.
+Exact preservation does not make a law applicable, an office authorized, or an institution just; what it buys is honesty, the history and identity a paraphrase would erase. Module words identify analytical roles around source material; they do not import its force or settle the dispute.
 
 ## Continued Development
 

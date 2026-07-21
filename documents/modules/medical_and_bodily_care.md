@@ -104,7 +104,7 @@ The pass keeps several expressions compositional because their parts expose info
 - [A reading, a boundary, and care](../evaluation/philosophical_test_corpus.md#8-a-reading-a-boundary-and-care) is the primary before-state scenario. The module can now distinguish its symptom, clinical finding, possible severity, diagnosis, prognosis, treatment, intervention, dose, effects, and consent relations while retaining the exact temperature record, uncertainty, refusal, explanation, and difference between data and care.
 - [A doorway, a route, and written words](../evaluation/philosophical_test_corpus.md#9-a-doorway-a-route-and-written-words) supplies boundary evidence: consent and support recur in access work, but disability and participation must not be absorbed into a medical category.
 
-These scenarios supplied useful compositions and a before-state for vocabulary development. They do not establish a medical standard, and the original dialogues remain valid before-state regression texts rather than being rewritten merely to display the new words. They remain available for the planned active-corpus revisit.
+These scenarios supplied useful compositions and a before-state for vocabulary development. They do not establish a medical standard, and the original dialogues remain valid before-state regression texts rather than being rewritten merely to display the new words. They remain available to the active-corpus revisit.
 
 ## Source Material Guidance
 
@@ -120,4 +120,4 @@ Use the module in care conversations, health narratives, recovery accounts, sour
 
 Future use should particularly test mental and emotional care, reproductive and sexual health, chronic care outside institutions, emergency communication, uncertain diagnosis, medication changes, disability boundaries, adverse-effect reporting, infection-control support, and public-health disagreement. These are opportunities for careful development, not evidence gates or permission to classify identities and testimony without respectful scenarios.
 
-The planned active-corpus pass will revisit existing texts as a whole after the remaining module prose is complete. A passage changes when expanded vocabulary makes it clearer, safer, more direct, or less evasive; it stays as written when the original composition remains natural or intentionally records the before-state. Every later entry must still satisfy the vocabulary schema and phonology, along with collision and semantic checks. Its examples and generated references must remain in sync.
+The active-corpus revisit takes existing texts as a whole. A passage changes when expanded vocabulary makes it clearer, safer, more direct, or less evasive; it stays as written when the original composition remains natural or intentionally records the before-state. Every later entry must still satisfy the vocabulary schema and phonology, along with collision and semantic checks. Its examples and generated references must remain in sync.

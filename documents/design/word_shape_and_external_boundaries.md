@@ -50,17 +50,15 @@ For alternate scripts such as Tengwar, this avoids mixed-mode failure. A Phi pas
 
 ## Implementation implications
 
-Remove `hasha`, `hasho`, `patha`, and `patho` from the lexicon and grammar references. Keep them on the lexical retirement list so they cannot recover their former grammatical roles. They need no separate name restriction because forms absent from the current lexicon are judged by the ordinary onym charter.
+`hasha`, `hasho`, `patha`, and `patho` are removed from the lexicon and grammar references and stand on the lexical retirement list, so they cannot recover their former grammatical roles. They need no separate name restriction because forms absent from the current lexicon are judged by the ordinary onym charter.
 
-Retire the external-register validator path, including guest payload validation, exact payload masking, closer escaping, and external-frame tests.
+The external-register validator path is retired, including guest payload validation, exact payload masking, closer escaping, and external-frame tests.
 
-Update the manual, quick reference, module documents, examples, and development protocol wherever they instruct speakers to use guest or exact frames.
+The manual, quick reference, module documents, examples, and development protocol no longer instruct speakers to use guest or exact frames, and the name-form documentation no longer presents those frames as the fallback for long, multi-token, or source-exact names.
 
-Revise the name-form documentation so it no longer presents guest or exact frames as the fallback for long, multi-token, or source-exact names.
+`shola ... sholo` remains conceptually separate: it quotes Phi speech as Phi speech and is not an external-material container.
 
-Keep `shola ... sholo` conceptually separate. It quotes Phi speech as Phi speech; it is not an external-material container.
-
-Keep a word-shape gate in the coinage workflow: every lexicon proposal must fit the one-, two-, or three-syllable system, with three syllables as the absolute maximum for content vocabulary. The completed migration ledger records replacements but creates no exception to this gate.
+The coinage workflow keeps a word-shape gate: every lexicon proposal must fit the one-, two-, or three-syllable system, with three syllables as the absolute maximum for content vocabulary. The completed migration ledger records replacements but creates no exception to this gate.
 
 ## Procedural check
 

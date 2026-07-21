@@ -109,7 +109,7 @@ The [Work, Craft, and Repair vocabulary audit](../evaluation/work_craft_repair_v
 - [The fallen tree and the living grove](../evaluation/philosophical_test_corpus.md#14-the-fallen-tree-and-the-living-grove) can distinguish stock, offcuts, supply, inventory, and provenance around retained material while ecological resource, waste, habitat, and decomposition relations remain separate.
 - [The Old Table](household_and_daily_life.md#before-state-scenario-the-old-table) can now frame small repair as a task or project with a plan, design, skill, test, and quality judgment while domestic labor allocation, ownership, and household hierarchy remain separate questions.
 
-These fictional or pedagogical regression texts were written by one maintainer. They demonstrate available compositions and recurring failures; they cannot establish trade competence, procedural safety, fair labor, or another worker's acceptance of Phi's values. They remain valid before-state texts for the planned active-corpus revisit rather than being rewritten merely to display new words.
+These fictional or pedagogical regression texts were written by one maintainer. They demonstrate available compositions and recurring failures; they cannot establish trade competence, procedural safety, fair labor, or another worker's acceptance of Phi's values. They remain valid before-state texts for the active-corpus revisit rather than being rewritten merely to display new words.
 
 ## Comparative Findings
 
@@ -144,4 +144,4 @@ Use the module in craft narratives, repair records, project discussions, learnin
 
 Future use should particularly test non-workshop coordination, source-faithful wage and contract disputes, household and care labor, software and automated work, protective systems, learner exit, contested certification, and material provenance across more than one community. These are opportunities for development, not admission gates for vocabulary.
 
-The classification review is complete, so the active-corpus revisit can now begin. Update a text when the expanded vocabulary makes its meaning clearer, more direct, or less evasive; preserve it when the original composition remains natural or when it is intentionally retained as before-state evidence. Every later entry must still satisfy the vocabulary schema, phonology, collision checks, semantic contrasts, examples, and reference generation.
+The classification review is complete, and the active-corpus revisit carries its results through the texts. Update a text when the expanded vocabulary makes its meaning clearer, more direct, or less evasive; preserve it when the original composition remains natural or when it is intentionally retained as before-state evidence. Every later entry must still satisfy the vocabulary schema, phonology, collision checks, semantic contrasts, examples, and reference generation.
