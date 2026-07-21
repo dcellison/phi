@@ -99,7 +99,7 @@
 0.50	1	nia	ON	function	mia	1SG	function	1915
 0.50	1	sa	HON.RESPECT	function	ha	PROX	function	756
 0.50	1	na	NEC	function	ma	NEG	function	650
-0.50	1	nua	COM	function	mua	LOC	function	501
+0.50	1	nua	COM	function	mua	LOC	function	502
 0.50	1	ta	one	content	ka	CAUS	function	479
 0.50	1	ta	one	content	pa	INCH	function	375
 0.50	1	ho	ASSUM	function	so	FUT	function	330

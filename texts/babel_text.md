@@ -82,8 +82,8 @@ REL authority hold thing QUOT.COMP IMP see. UNIV person one be. PL 3SG one langu
 (The being who holds authority said: "Look. All people are one. They hold one language.")
 kjv: "And the LORD said, Behold, the people is one, and they have all one language;"
 
-shola lo shia ha pa phoa. nosa wei lo shia mawha rena lo shia phoa ki weni thena so noraku kelu sholo to haolu.
-QUOT.COMP PL 3SG PROX INCH do. now DAT PL 3SG NONE REL PL 3SG do PFV imagine thing FUT blocked become QUOT.COMP.CLOSE PST speak.
+shola lo shia ha pa phoa. nosa wei lo shia mawha rena lo shia phoa ki weni thena noraku so kelu sholo to haolu.
+QUOT.COMP PL 3SG PROX INCH do. now DAT PL 3SG NONE REL PL 3SG do PFV imagine thing blocked FUT become QUOT.COMP.CLOSE PST speak.
 ("They begin to do this. Now, for them, no thing they have imagined doing will become blocked.")
 kjv: "and this they begin to do: and now nothing will be restrained from them, which they have imagined to do."
 ```
@@ -137,7 +137,7 @@ lo shia wei wiso to haolu. shola su lo mia lo mueri kerou pilewa. su lo mia lo h
 
 lo shia to haolu. shola su lo mia wei lo mia whalo silawo nela raelu moru lorima. shia raelu shuna mua waero po kamo. su lo mia nomei se sano sholo to haolu. shola lo mia mena lo mia nia theula muila menoa se thiwera meno ma pula sholo to haolu.
 
-lo miona lo lumira ha whalo silawo nela ha raelu moru to lorima. lila ha lo thena nila rena karami phelu thena lue waero to shua. rena karami phelu thena shola no nila. theula miona ta nai. lo shia ta haluma phelu sholo to haolu. shola lo shia ha pa phoa. nosa wei lo shia mawha rena lo shia phoa ki weni thena so noraku kelu sholo to haolu.
+lo miona lo lumira ha whalo silawo nela ha raelu moru to lorima. lila ha lo thena nila rena karami phelu thena lue waero to shua. rena karami phelu thena shola no nila. theula miona ta nai. lo shia ta haluma phelu sholo to haolu. shola lo shia ha pa phoa. nosa wei lo shia mawha rena lo shia phoa ki weni thena noraku so kelu sholo to haolu.
 
 shia shola su lo mia lue waero kau muila wepu. su lila lo shia lue wiso haolu po ma shelomu lo mia mua ha lokue lo shia haluma kuewa ka kelu sholo to haolu. rena karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera. lo shia whalo silawo to te lorima.
 

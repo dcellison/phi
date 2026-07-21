@@ -49,8 +49,8 @@ pheo mia wonepa hewe hemilo nia wonepa nai.
 POST 1SG table wipe honey ON table be.
 (After I wipe the table, honey is on the table.)
 
-wonepa ma hiso nai.
-table NEG clean be.
+wonepa hiso ma nai.
+table clean NEG be.
 (The table is not clean.)
 ```
 
@@ -291,8 +291,8 @@ A box must return to a crowded shelf. Two pieces of cloth meet on a worktable, a
 A replacement box may differ from the old one in material or lid while taking up the same room on the shelf. Phi can say plainly that they are not the same:
 
 ```
-ha wi themo molupa ma senao nai.
-PROX two THING.CLF box NEG same be.
+ha wi themo molupa senao ma nai.
+PROX two THING.CLF box same NEG be.
 (These two boxes are not the same.)
 ```
 
@@ -319,8 +319,8 @@ shia sheo pelio wetha masue.
 The trouble appears when two axes must be discussed separately:
 
 ```
-wi wetha lonai kolo nai. wi wetha laeno ma kolo nai.
-two cloth width equal be. two cloth long NEG equal be.
+wi wetha lonai kolo nai. wi wetha laeno kolo ma nai.
+two cloth width equal be. two cloth long equal NEG be.
 (The two pieces of cloth have equal width but different length.)
 ```
 
@@ -382,8 +382,8 @@ ha wi themo molupa ponalu kolo nai.
 PROX two THING.CLF box size equal be.
 (These two boxes are equal in size.)
 
-wi wetha lonai kolo nai. wi wetha waleru ma kolo nai.
-two cloth width equal be. two cloth length NEG equal be.
+wi wetha lonai kolo nai. wi wetha waleru kolo ma nai.
+two cloth width equal be. two cloth length equal NEG be.
 (The two pieces of cloth have equal width but different lengths.)
 
 shia thei wi silawo hirawo masue.

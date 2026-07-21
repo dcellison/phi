@@ -6,7 +6,7 @@
 
 **lo miona to ti naphe.** — People helped, according to a report I received.
 
-**ha shelira ti mioru nai.** — This forest is beautiful, I am told.
+**ha shelira mioru ti nai.** — This forest is beautiful, I am told.
 
 The particle states provenance without preserving exact words and without rating the source. A careful scientific report, a friend's message, and an unverified rumour can all reach the speaker through **ti**. The surrounding account identifies which one.
 

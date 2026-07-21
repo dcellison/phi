@@ -25,7 +25,7 @@ The key states intended readings so the transformation controls can be audited a
 |---|---|---|---|
 | 1A-P1 | A knows directly that rain fell. | `hi sano`; past embedded event | Changed premise: same content as the source dialogue, stronger claimed access. |
 | 1A-P2 | B directly sees the river. | `hi nila` | Observational premise. |
-| 1A-P3 | The river is not clean. | `ma hiso nai` | Observed-state premise with negation. |
+| 1A-P3 | The river is not clean. | `hiso ma nai` | Observed-state premise with negation. |
 | 1A-C1 | A believes by inference that rain caused the river to become harmful. | `ke nohero`; embedded causative proposition | Principal conclusion, unchanged from the source dialogue. |
 | 1A-S1 | B understands A's claim but does not agree. | `shelomu`; `whekai`; `ma nawo` | Understood disagreement. |
 | 1A-E1 | B grants that A directly knows rain fell. | `hi sano` | Evidence challenge preserves P1. |
@@ -43,9 +43,9 @@ The key states intended readings so the transformation controls can be audited a
 |---|---|---|---|
 | 1B-P1 | A knows by report that rain fell. | `ti sano`; past embedded event | Premise preserved exactly from the source dialogue. |
 | 1B-P2 | B directly sees the river. | `hi nila` | Observational premise. |
-| 1B-P3 | The river is not clean. | `ma hiso nai` | Observed-state premise with negation. |
+| 1B-P3 | The river is not clean. | `hiso ma nai` | Observed-state premise with negation. |
 | 1B-C0 | A initially believes by inference that rain caused the river to become harmful. | `ke nohero` | Source conclusion shown before revision. |
-| 1B-E1 | B does not know the cause and offers an old device as another thing that may be harmful. | `ma sano`; `phisu`; `po peloma nai` | Evidence challenge and alternative example, not a claim that the device affected the river. |
+| 1B-E1 | B does not know the cause and offers an old device as another thing that may be harmful. | `ma sano`; `phisu`; `peloma po nai` | Evidence challenge and alternative example, not a claim that the device affected the river. |
 | 1B-R1 | A withdraws the prior formulation. | `phelui naweri` | Provisional retraction convention whose strength remains under test. |
 | 1B-C1 | A rephrases the final stance as not knowing what caused the river to become harmful. | `shorela`; embedded question; `ma sano` | Changed principal conclusion: suspended judgment. |
 | 1B-S1 | B understands, and both pause. | `shelomu`; plural `therilu` | Repair acknowledgement and topic suspension. |

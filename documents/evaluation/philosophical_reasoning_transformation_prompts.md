@@ -24,15 +24,15 @@ The repair lines already authored into these transformations demonstrate structu
 ```
 A: mia mena pheralu to lepa meno hi sano.
 
-B: mia luphore hi nila. luphore ma hiso nai.
+B: mia luphore hi nila. luphore hiso ma nai.
 
-A: mia mena pheralu luphore ka peloma kelu meno ke nohero.
+A: mia mena pheralu luphore peloma ka kelu meno ke nohero.
 
 B: mia shelomu. whekai mia ma nawo.
 
-B: thia mena pheralu to lepa meno hi sano. thia mena luphore ma hiso nai meno hi sano. whekai thia mena pheralu luphore ka peloma kelu meno hi ma sano.
+B: thia mena pheralu to lepa meno hi sano. thia mena luphore hiso ma nai meno hi sano. whekai thia mena pheralu luphore peloma ka kelu meno hi ma sano.
 
-A: mia shelomu. whekai mia mena pheralu luphore ka peloma kelu meno ke nohero.
+A: mia shelomu. whekai mia mena pheralu luphore peloma ka kelu meno ke nohero.
 ```
 
 ## 1B. Rain and the River: Conclusion Variation
@@ -40,13 +40,13 @@ A: mia shelomu. whekai mia mena pheralu luphore ka peloma kelu meno ke nohero.
 ```
 A: mia mena pheralu to lepa meno ti sano.
 
-B: mia luphore hi nila. luphore ma hiso nai.
+B: mia luphore hi nila. luphore hiso ma nai.
 
-A: mia mena pheralu luphore ka peloma kelu meno ke nohero.
+A: mia mena pheralu luphore peloma ka kelu meno ke nohero.
 
-B: mia ma sano. phisu serao keli po peloma nai.
+B: mia ma sano. phisu serao keli peloma po nai.
 
-A: mia phelui naweri. shorela mia wela hina luphore to ka peloma kelu welo ma sano.
+A: mia phelui naweri. shorela mia wela hina luphore to peloma ka kelu welo ma sano.
 
 B: mia shelomu. lo mia therilu.
 ```

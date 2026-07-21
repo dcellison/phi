@@ -6,7 +6,7 @@
 
 **pheralu to ke lepa.** — I infer from the wet ground that rain fell.
 
-**thia ke shorui nai.** — I infer that you are weary.
+**thia shorui ke nai.** — I infer that you are weary.
 
 The last sentence remains an inference about another person's state. The person can correct it. **ke** makes the inferential step audible without turning an outward sign into privileged access to someone else's experience.
 

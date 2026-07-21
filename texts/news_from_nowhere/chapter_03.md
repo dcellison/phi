@@ -156,8 +156,8 @@ LOC 1SG society MANY person AS seat full HAB become.
 (In my own world, many people habitually become as full-stuffed as seats.)
 morris: "as most women of our time are."
 
-lo wethalu thei tholua punoa wethalu kire nela serao punoa siloma wethalu kire to whano. whekai ha nuwi to nai. lo wethalu ha kire sola ra kire to ma noe wepu.
-PL garment BETWEEN ancient society garment shape COORD old society simple garment shape PST stand. CONTR PROX clear PST be. PL garment PROX shape DISJ DIST shape PST NEG BEHIND go.
+lo wethalu thei tholua punoa wethalu kire nela serao punoa siloma wethalu kire to whano. whekai ha nuwi to nai. lo wethalu noe ha kire sola ra kire to ma wepu.
+PL garment BETWEEN ancient society garment shape COORD old society simple garment shape PST stand. CONTR PROX clear PST be. PL garment BEHIND PROX shape DISJ DIST shape PST NEG go.
 (Their dress stood between an ancient world's garment-shape and the simpler garment-shape of a later old world; but this was clear: it walked behind neither shape.)
 morris: "In short, their dress was somewhat between that of the ancient classical costume and the simpler forms of the fourteenth century garments, though it was clearly not an imitation of either:"
 
@@ -399,8 +399,8 @@ CONS 1SG long moment PST take. 1SG one lie PST careful create. small truth PROX 
 (So I took time and carefully made a lie; a little truth was that lie's guardian; and I said:)
 morris: "so I took time to invent a lie with circumstance, guarded by a little truth, and said:"
 
-mia shola mia lue ha lo muila ru laeno thimu to wuero nai. thelao lo thena wei mia nosa kuewa ke nai. sholo to haolu.
-1SG QUOT.COMP 1SG ABL PROX PL earth INTS long time PST far be. CONS PL thing DAT 1SG now strange INFER be. QUOT.COMP.CLOSE PST speak.
+mia shola mia lue ha lo muila ru laeno thimu wuero to nai. thelao lo thena wei mia nosa kuewa ke nai. sholo to haolu.
+1SG QUOT.COMP 1SG ABL PROX PL earth INTS long time far PST be. CONS PL thing DAT 1SG now strange INFER be. QUOT.COMP.CLOSE PST speak.
 ("You see, I have been away from these lands so long a time that things seem strange to me now.")
 morris: "\"You see, I have been such a long time away from Europe that things seem strange to me now;"
 
@@ -711,8 +711,8 @@ thia lo haolu ha to ka nuwi nila. thia mua rena lo miona wiso phena ma nai lo mu
 (And your own words showed it clearly: you have journeyed in lands where people are not kind to one another.)
 morris: "and clearly from all you have been saying, in unsocial countries."
 
-lu miona thoa rena nuhe phaelo lo miona menui. shia reshi serao kelu. lo miona ha sheloi shemu ti haolu. ha ho shewo nai.
-COND person AMONG REL sadness feel PL person dwell. 3SG fast old become. PL person PROX MANY moment REP speak. PROX ASSUM true be.
+lu miona thoa rena nuhe phaelo lo miona menui. shia serao reshi kelu. lo miona ha sheloi shemu ti haolu. ha shewo ho nai.
+COND person AMONG REL sadness feel PL person dwell. 3SG old fast become. PL person PROX MANY moment REP speak. PROX true ASSUM be.
 (If a person lives among people who feel sadness, they grow old quickly. People have often said this, and no doubt it is true.)
 morris: "It has often been said, and no doubt truly, that one ages very quickly if one lives amongst unhappy people."
 
@@ -852,8 +852,8 @@ CONTR BECAUSE 1SG DECL.COMP 2SG weave person be DECL.COMP.CLOSE REP hear 1SG DAT
 (But since I hear that you are a weaver, I should like to ask you something about that craft.)
 morris: "but since I hear that you are a weaver, I should like to ask you something about that craft,"
 
-mia roa ha theko mewali nai. sola mia to mewali nai.
-1SG AROUND PROX craft interested be. DISJ 1SG PST interested be.
+mia roa ha theko mewali nai. sola mia mewali to nai.
+1SG AROUND PROX craft interested be. DISJ 1SG interested PST be.
 (As I am interested in it. Or: I was.)
 morris: "as I am--or was--interested in it.\""
 
@@ -877,8 +877,8 @@ ADD 1SG INS device DAT PL book small labor. CONTR LOC CMPR careful book labor 1S
 (Then besides the weaving, I do a little device-work for books, though at the finer kinds of book-work I fall short.)
 morris: "Then besides the weaving, I do a little with machine printing and composing, though I am little use at the finer kinds of printing;"
 
-sheno ha keli shelu riola pa lumeo. shelu kealo mokela we pa thiku kelu.
-ADD PROX device book labor INCH die. book create sick ALSO INCH small become.
+sheno ha keli shelu riola pa lumeo. shelu kealo mokela we thiku pa kelu.
+ADD PROX device book labor INCH die. book create sick ALSO small INCH become.
 (And moreover this device book-work is beginning to die, as the sickness of book-making wanes with it.)
 morris: "and moreover machine printing is beginning to die out, along with the waning of the plague of book-making,"
 

@@ -174,8 +174,8 @@ shia phea lo miona nuloe to ma nai.
 (He, like the others, was discontented.)
 morris: "he, like others, stewed discontentedly"
 
-shia rena shia mua shareo to ki sahu sheloi tiso themore ki nupira themio.
-3SG REL 3SG LOC discuss PST PFV forget MANY sharp argument PFV shame reflect.
+shia mua nupira rena shia mua shareo to ki sahu sheloi tiso themore ki themio.
+3SG LOC shame REL 3SG LOC discuss PST PFV forget MANY sharp argument PFV reflect.
 (In self-reproach, he turned over the many sharp arguments he had forgotten in the discussion.)
 morris: "while in self-reproachful mood he turned over the many excellent and conclusive arguments which, though they lay at his fingers' ends, he had forgotten in the just past discussion"
 

@@ -490,8 +490,8 @@ PROX think sadness PST bring.
 (That thought brought sadness.)
 williams: "was rather sad."
 
-shia mena miso whuo lo ha kipona thena po shewo kelu meno to pula.
-3SG DECL.COMP REFL WITHOUT PL PROX pain thing POT true become DECL.COMP.CLOSE PST wish.
+shia mena miso whuo lo ha kipona thena shewo po kelu meno to pula.
+3SG DECL.COMP REFL WITHOUT PL PROX pain thing true POT become DECL.COMP.CLOSE PST wish.
 (He wished that he could become Real without these hurting things.)
 williams: "He wished that he could become it without these uncomfortable things happening to him."
 ```
@@ -834,8 +834,8 @@ child LOC bed PST sit.
 (The child sat up in bed.)
 williams: "The Boy sat up in bed"
 
-shia manuwe to laeno kelu.
-3SG hand PST long become.
+shia manuwe laeno to kelu.
+3SG hand long PST become.
 (His hands stretched out long.)
 williams: "and stretched out his hands."
 

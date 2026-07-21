@@ -33,12 +33,12 @@ The missing basket belongs to this occasion, so it supports inference. A usual d
 `ho` names a source. `po` says that the event is possible.
 
 ```
-shia ho womu nai.
-3SG ASSUM home be.
+shia womu ho nai.
+3SG home ASSUM be.
 (I assume they are home.)
 
-shia po womu nai.
-3SG POT home be.
+shia womu po nai.
+3SG home POT be.
 (They may be home.)
 ```
 
@@ -49,12 +49,12 @@ The first asserts that they are home and identifies background expectation as th
 Source marking can make an interpretation of another person's state easier to inspect.
 
 ```
-thia ho shea nai.
-2SG ASSUM peace be.
+thia shea ho nai.
+2SG peace ASSUM be.
 (I assume you are at peace.)
 
-thia ke shorui nai.
-2SG INFER weary be.
+thia shorui ke nai.
+2SG weary INFER be.
 (I infer that you are weary.)
 
 wa thia shea nai.

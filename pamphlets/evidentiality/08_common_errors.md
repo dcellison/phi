@@ -76,7 +76,7 @@ thia siora phaelo.
 (You feel joy.)
 ```
 
-This unmarked sentence states the feeling without naming a source. The grammar does not grant privileged access, though the social assertion may still be unwelcome or mistaken. If a smile is the stated basis, `thia ke siora nai.` marks an inference. If the person's own account is available, `wa thia siora nai.` asks them. The relationship and purpose decide among these forms; the evidential system does not supply a courtesy ranking.
+This unmarked sentence states the feeling without naming a source. The grammar does not grant privileged access, though the social assertion may still be unwelcome or mistaken. If a smile is the stated basis, `thia siora ke nai.` marks an inference. If the person's own account is available, `wa thia siora nai.` asks them. The relationship and purpose decide among these forms; the evidential system does not supply a courtesy ranking.
 
 ### Error 6: marking source when it is not part of the message
 

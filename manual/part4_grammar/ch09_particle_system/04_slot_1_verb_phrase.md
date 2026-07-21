@@ -85,7 +85,7 @@ The four evidentials name the source claimed for the clause:
 
 **lo miona to ti naphe.** — People helped, according to a report I received.
 
-**thia ho shea nai.** — I assume you are at peace.
+**thia shea ho nai.** — I assume you are at peace.
 
 Source is unmarked in an ordinary assertion. Evidentials do not grade truth or confidence, and **hi** is not a badge of honesty; each one makes a particular provenance claim that may itself be mistaken.
 
