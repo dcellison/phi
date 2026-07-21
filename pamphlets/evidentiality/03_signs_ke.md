@@ -45,8 +45,8 @@ In the first clause, the speaker directly perceives the falling rain through sou
 ### Reading another person
 
 ```
-thia ke shorui nai.
-2SG INFER weary be.
+thia shorui ke nai.
+2SG weary INFER be.
 (I infer that you are weary.)
 ```
 
@@ -69,8 +69,8 @@ Each item gives a conclusion and the observation behind it. Put `ke` on the conc
    elder DURING morning PST INFER labor. earth PST PASS change.
    (I infer that the elder worked during the morning. The earth was changed.)
 
-4. thia ke shorui nai.
-   2SG INFER weary be.
+4. thia shorui ke nai.
+   2SG weary INFER be.
    (I infer that you are weary.)
 ```
 

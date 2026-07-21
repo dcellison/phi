@@ -16,7 +16,7 @@
 
 ## II
 
-> wheo: **mia to lopia nai.**
+> wheo: **mia lopia to nai.**
 > wheo: **ne thinoe mia wheo to nai.**
 > wheo: **thepalu thiku to nai. mawha shiro. mawha peloru. muila sonu.**
 

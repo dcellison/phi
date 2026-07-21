@@ -58,7 +58,7 @@ The longer **mia to si ke po ma nila.** uses five ranks: past, ongoing, inferred
 
 **pi no mia naphe.** — Please help me.
 
-**lu mia naphe. thia so towe nai.** — If I help, you will be well.
+**lu mia naphe. thia towe so nai.** — If I help, you will be well.
 
 **su shea so shua.** — May peace come.
 

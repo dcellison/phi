@@ -22,7 +22,7 @@ A polite order from someone holding power remains an order, and a gentle voice c
 
 ## Observation and accountability
 
-A pot lies in pieces on the floor. One possible first sentence is `tomi ma sholu nai`, "the pot is not complete." It names the shared condition without deciding, in the same breath, why it happened or who must answer for it. That can make room for care before accusation.
+A pot lies in pieces on the floor. One possible first sentence is `tomi sholu ma nai`, "the pot is not complete." It names the shared condition without deciding, in the same breath, why it happened or who must answer for it. That can make room for care before accusation.
 
 Phi also has `pukate` (break). When cause, responsibility, or danger matters, nobody needs to hide the actor. The passive marker `se` may help when an actor is unknown or beside the point; it may also be used to evade accountability. Peace lives in choosing the construction that tells enough truth for this relationship and this moment.
 

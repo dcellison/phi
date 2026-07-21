@@ -6,7 +6,7 @@
 
 **shia to hi wepu.** — They left; I witnessed it.
 
-**peloru hi rulo nai.** — The flower is red, as I directly perceive it.
+**peloru rulo hi nai.** — The flower is red, as I directly perceive it.
 
 The particle claims witnesshood, not merely strong confidence. A speaker who saw traces after an event uses **ke** for the conclusion rather than **hi** for the event itself.
 
