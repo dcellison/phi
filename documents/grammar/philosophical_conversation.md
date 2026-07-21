@@ -1,6 +1,6 @@
 # Philosophical Conversation and Repair
 
-These are recommended conventions built from existing Phi resources. They are not new particles or proof of spontaneous usage. The maintainer should use them in original dialogues, revise them when they fail, and coin nothing until a recurring repair need cannot be served compositionally.
+These are recommended conventions built from existing Phi resources. They are not new particles or proof of spontaneous usage. The maintainer should use them in original dialogues, revise them when they fail, and coin nothing until a recurring repair need cannot be served compositionally. The conventions exist so that mid-conversation repair is ordinary speech, not an interruption of it.
 
 ## Core repair sequence
 
@@ -106,7 +106,7 @@ POL Q 2SG word POT speak.
 (Could you say the word?)
 ```
 
-If spelling, script, or notation matters, present the source artifact separately in writing or establish an outside spelling convention in conversation. Phi does not yet have a core verb meaning *spell*; repeated need for finer requests belongs in the capability log and may motivate ordinary coinage.
+If spelling, script, or notation matters, present the source artifact separately in writing or establish an outside spelling convention in conversation. Phi does not yet have a core verb meaning *spell*; the gap is a registered deferral in the content-vocabulary decision register (CV-WRITE-02), and repeated need for finer requests may motivate ordinary coinage.
 
 ## Argument practice
 

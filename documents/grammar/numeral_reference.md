@@ -137,9 +137,9 @@ Quantifiers precede what they quantify:
 | `henoi` | enough |
 | `wia` | how many |
 
-`henoi` expresses sufficiency, not a numerical result: `henoi sulopa nai.` means “There is enough soup.” What counts as enough depends on the people, purpose, and conditions; the word does not settle that judgment.
+`henoi` expresses sufficiency, not a numerical result: `henoi sulopa nai.` means "There is enough soup." What counts as enough depends on the people, purpose, and conditions; the word does not settle that judgment.
 
-`wia` asks for quantity: `wia himo miona so shua.` means “How many people will come?” An answer may be exact, approximate, or quantified, according to what the speaker knows and what the context needs.
+`wia` asks for quantity: `wia himo miona so shua.` means "How many people will come?" An answer may be exact, approximate, or quantified, according to what the speaker knows and what the context needs.
 
 ## Nature classifiers
 
@@ -180,7 +180,7 @@ ORD one three-group day
 (the third day)
 ```
 
-When position itself is the topic, use the noun `noa`: `lopia mua wi noa nai.` means “The child is in the second position.” All exact ordinal numerals share the cardinal range of 1 through 242; preserve a larger exact position in source material.
+When position itself is the topic, use the noun `noa`: `lopia mua wi noa nai.` means "The child is in the second position." All exact ordinal numerals share the cardinal range of 1 through 242; preserve a larger exact position in source material.
 
 ## Numerals and plural marking
 
@@ -235,7 +235,7 @@ one nine-group COORD one three-group portion. one three-group equals.
 (Nine divided by three results in three.)
 ```
 
-A plain equality uses the same boundary: `ta shao ta nela ta shao ta kelai.` means “Four equals four.” To ask for a result, use `hina kelai`: `ta shao nela wi sholei. hina kelai.` means “Three plus two; what results?”
+A plain equality uses the same boundary: `ta shao ta nela ta shao ta kelai.` means "Four equals four." To ask for a result, use `hina kelai`: `ta shao nela wi sholei. hina kelai.` means "Three plus two; what results?"
 
 ### Referents in arithmetic
 
@@ -261,7 +261,7 @@ The operation words supply metaphors, not guarantees. `sholei` does not make gat
 
 ## Magnitude comparison
 
-`sharoi` means “exceed in magnitude” and `thenoi` means “fall short in magnitude.” Comparison uses the same mandatory operand boundary as arithmetic:
+`sharoi` means "exceed in magnitude" and `thenoi` means "fall short in magnitude." Comparison uses the same mandatory operand boundary as arithmetic:
 
 `[quantity 1] nela [quantity 2] [comparison verb]`
 
@@ -279,7 +279,7 @@ Q one three-group COORD two three-group exceed.
 (Does three exceed six?)
 ```
 
-Negation expresses inclusive comparisons: `ta shao nela ta shao ma thenoi.` means “Three does not fall short of three; 3 ≥ 3.” Real-world comparisons should state comparable quantities and preserve the relevant measure or criterion when it is not obvious.
+Negation expresses inclusive comparisons: `ta shao nela ta shao ma thenoi.` means "Three does not fall short of three; 3 ≥ 3." Real-world comparisons should state comparable quantities and preserve the relevant measure or criterion when it is not obvious.
 
 These verbs lexically separate magnitude from worth: *exceeds* need not mean *is better*, and *falls short* need not mean *is inadequate*. That distinction does not prevent a speaker or institution from using comparison to rank, shame, or exclude; context and consequences remain open to criticism.
 
