@@ -55,21 +55,18 @@ rena mia mua ___ to thalo shelira
 
 ### Headless relatives
 
-When the noun is implied:
+When the noun is implied, `rena` remains and the head goes unspoken:
 ```
 rena lothea shelomu phue nai
 "one who understands love is wise"
 ```
 
-`rena` can sometimes be omitted if structure is clear:
-```
-lothea shelomu phue nai
-```
+Headless never means markerless: without `rena`, the words are a statement, not a thing.
 
 ### What `rena` is NOT
 
 - NOT a pronoun (doesn't change form, doesn't fill the gap)
-- NOT optional in headed relatives
+- NOT optional, headed or headless
 - NOT followed by a closer
 
 ### Checklist
@@ -154,12 +151,12 @@ lothea shelomu phue nai
 
 ## Cross-reference to main manual
 
-This pamphlet expands on **Chapter 20: Relative Clauses** in the Phi manual.
+This pamphlet expands on **chapter 20, Relative clauses**, in the Phi manual.
 
 Related chapters:
-- **Chapter 9: The Particle System**, how particles work in relative clauses
-- **Chapter 13: Pronouns**, topic-drop and when subjects can be omitted
-- **Chapter 19: Subordinate Clauses**, complementizers `mena`/`meno`, `shola`/`sholo`, `wela`/`welo`
+- **Chapter 9**, the particle system: how particles work in relative clauses
+- **Chapter 13**, pronouns: topic-drop and when subjects can be omitted
+- **Chapter 19**, subordinate clauses: the complementizers `mena`/`meno`, `shola`/`sholo`, `wela`/`welo`
 
 Related grammar documents:
 - `complementizer_reference.md`, full reference for all complementizers including `rena`

@@ -394,6 +394,24 @@ The naming pass reviews all eleven files in `pamphlets/naming/` against the curr
 
 The completed base and function vocabulary covers the pamphlet without a new root, lexical question, or optional module term. The pass repairs one dependency outside the pamphlet: the same pre-repair `kua` example survived the spoken-punctuation retrofit in `pamphlets/spoken_punctuation/02_the_question_mark_wa.md` and now matches the in-situ rule its own following sentence states. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
 
+The relative-clauses pass reviews all nine files under the additive-first contract, warmth question first at every file. The pamphlet predates the voice era, and its two largest findings are doctrinal: it taught that `rena` may be omitted in clear headless contexts, which chapter 20 §4 rules out, and it described the head noun as moving out of the clause, which the manual's no-movement account rejects. Its translations also ran all-lowercase against the corpus convention, and its promised full answer key was missing an entire section.
+
+| File | State | Finding and disposition |
+|---|---|---|
+| `relative_clauses/00_title.md` | Revised | Rebuilt to the practice-companion form: the title page now walks the reader through hearing a relative clause arrive, names what chapter 20 owns, and closes on the portrait epigraph. |
+| `relative_clauses/01_understanding_the_concept.md` | Revised | The section-list ending becomes a short bridge with a closing reversal: Phi introduces no one it has not already described. Translations join the corpus capitalization convention. |
+| `relative_clauses/02_mechanics_of_rena.md` | Revised | Movement language gives way to the gap left empty, with the head waiting outside; the gap gains the place-at-the-table image; the sound note is grounded in articulation. |
+| `relative_clauses/03_headed_relatives_examples.md` | Revised | The catalogue opens on reading aloud, the odd help-the-home example becomes help for its builder, headed examples translate with their heads, and the mini-stories gain their closing note. |
+| `relative_clauses/04_headless_relatives.md` | Revised | The omission section is replaced by the manual's rule: `rena` remains, and one word separates a thing from a claim. The unattested bare-existential proverb becomes the licensed presence pair, and the file closes on the headless relative trusting the room. |
+| `relative_clauses/05_advanced_patterns.md` | Revised | The topic-drop example stops dropping an object and teaches the subject-only boundary instead; stranding language becomes the preposition whose object never arrives; the opening names the thicker weave. |
+| `relative_clauses/06_common_errors.md` | Revised | The self-check no longer offers `rena` omission as a headless option, and the file closes on English trying to help. |
+| `relative_clauses/07_exercises.md` | Revised | The one-sentence-to-two exercises receive the answer block the catalogue's full-key promise required, the two-to-one key gains its first answer, and the working intro line frames the practice. |
+| `relative_clauses/08_appendix.md` | Revised | The omission note is replaced by headless-never-means-markerless, the NOT-optional row covers both clause kinds, and the cross-references take sentence case. |
+
+### Lexical and canonical result
+
+The completed base and function vocabulary covers the pamphlet without a new root, lexical question, or optional module term. No dependency outside the pamphlet needed repair: the manual's chapter 20 account was already correct, and the pamphlet moves to it. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
+
 ### Resume point
 
-Continue with `pamphlets/relative_clauses/`, then the remaining three pamphlets and the current documents. The later current-document sweep must revisit the shorthand "source of knowledge" in `documents/grammar/particle_reference.md` and "How you know" in `documents/reference/taught_patterns.md`; neither phrase should restore an epistemic claim that the particles do not make.
+Continue with `pamphlets/source_material/`, then the remaining two pamphlets and the current documents. The later current-document sweep must revisit the shorthand "source of knowledge" in `documents/grammar/particle_reference.md` and "How you know" in `documents/reference/taught_patterns.md`; neither phrase should restore an epistemic claim that the particles do not make.
