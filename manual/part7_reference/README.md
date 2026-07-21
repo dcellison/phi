@@ -1,5 +1,7 @@
 # Part VII: Reference
 
+This part is the book you keep open while speaking. The teaching is done; what follows is the whole language arranged for the moment you need it mid-sentence.
+
 | File | What it is |
 |---|---|
 | `quick_reference_grammar.md` | The whole grammar on one page |

@@ -1,6 +1,6 @@
 # Domain Modules
 
-Phi's domain modules are optional vocabulary paths for speakers who want to discuss a specialized field in depth. A module adds ordinary content words, recommended compounds, semantic distinctions, and examples; it never adds particles, syntax, inflection, or a separate way to parse Phi.
+Phi's domain modules are optional vocabulary paths for speakers who want to discuss a specialized field in depth. A module adds ordinary content words, recommended compounds, semantic distinctions, and examples; it never adds particles, syntax, inflection, or a separate way to parse Phi. A module is a deeper shelf in the same library, not a second language: every word on it obeys the grammar you already know.
 
 Every module word remains part of the canonical lexicon in `vocabulary/content/`. The generated [module lexicon](../lexicon/by_module.md) is the complete source-derived index, while the chapters here explain how the words work together in practice. A chapter may also teach a base word established during the same profile pass; that word appears under the explorer's base-vocabulary filter rather than in the optional module index. A module's current membership can be larger than its introduced set because older roots may later receive a specialist learning home and shared words appear in every path where they belong.
 
