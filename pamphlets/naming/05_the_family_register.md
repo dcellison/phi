@@ -1,6 +1,6 @@
 # Part 5: Established names and the household register
 
-Formal, neutral, portable, and machine-validated Phi keeps `ne` at every mention. That standard is inexpensive, unambiguous, and available for every kind of name atom:
+Formal, neutral, portable, and machine-validated Phi keeps `ne` at every mention. The standard is inexpensive and unambiguous, and it is also a small courtesy: every announcement seats the person in the sentence again, so no reader ever meets a name doing its work unintroduced. It serves every kind of name atom:
 
 ```
 ne sulae shua. ne samira we shua.
@@ -40,6 +40,8 @@ NAME sulae goodbye. NAME siora goodbye.
 (sulae takes her leave. siora takes hers.)
 ```
 
+Announced at the door, at rest among the bowls, announced again into the night: in this house a bare name is not a name neglected. A name at rest is proof of presence, the sound of someone so surely there that nobody needs to say so.
+
 That threshold rhythm is a cultural and ceremonial style, not the grammar that licenses omission. Another household may keep `ne`, omit it throughout an unambiguous exchange, or reintroduce it whenever attention shifts. None of those choices measures the relationship's worth.
 
 ## Portable writing
@@ -56,7 +58,7 @@ Productive name-forms absent from the current lexicon especially keep the marker
 
 ## Remembered and absent people
 
-Phi imposes no special grammar on the names of dead, absent, or remembered people. The primer household repeatedly announces `ne thinoe` as part of its memorial style, and that practice may remain meaningful without becoming a universal rule. What matters grammatically is whether the reference is established and unambiguous; what matters socially is how the participants choose to remember.
+Phi imposes no special grammar on the names of dead, absent, or remembered people. The primer household announces `ne thinoe` at every telling of her story all the same. Established reference would license resting the name; the household declines the license, because for someone who can no longer arrive, being announced is the arrival. The practice may remain meaningful without becoming a universal rule: what matters grammatically is whether the reference is established and unambiguous, and what matters socially is how the participants choose to remember.
 
 ## Drill: read the source of the license
 
