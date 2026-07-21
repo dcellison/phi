@@ -1,6 +1,6 @@
-# Phi Philosophical Test Corpus
+# Phi philosophical test corpus
 
-This is an original regression corpus for philosophical Phi. It is deliberately small, value-conflicted, and revisable. Its purpose is to expose missing distinctions and brittle constructions, not to present ideal speakers or prove that Phi produces good decisions.
+This is an original regression corpus for philosophical Phi. It is deliberately small, value-conflicted, and revisable. Its purpose is to expose missing distinctions and brittle constructions, not to present ideal speakers or prove that Phi produces good decisions. The scenarios share one village's life, its garden, river, grain, and workshop, so the dialogues can question one another.
 
 ## 1. Water for the garden
 
@@ -143,8 +143,8 @@ B: phisu sila shea ma phaelo.
 EXMP community peace NEG feel.
 (For example, the community does not feel peace.)
 
-A: shorela shea ma theula miona lorea.
-REPH peace NEG UNIV person connect.
+A: shorela shea theula miona ma lorea.
+REPH peace UNIV person NEG connect.
 (In other words, peace does not connect every person.)
 
 B: mia nawo.
@@ -191,7 +191,7 @@ COND PL 1SG PROX device repair. PL 1SG DAT garden water give.
 
 B: lu lo mia wei thepalu phialu loa. luphore hiso po ma kelu.
 COND PL 1SG DAT garden water give. river clean POT NEG become.
-(If we give water to the garden, the river may become unclean.)
+(If we give water to the garden, the river cannot become clean.)
 
 A: thelao lo mia ha keli na shiroka.
 CONS PL 1SG PROX device NEC repair.
@@ -228,7 +228,7 @@ PL 1SG rest.
 
 ### Gap log
 
-The following findings describe the before-state dialogue. The established [Medical and Bodily Care module](../modules/medical_and_bodily_care.md) now supplies vocabulary for many care distinctions, while the [Systems and Shared Infrastructure module](../modules/systems_and_shared_infrastructure.md) supplies voltage, feedback, system state, and related technical vocabulary. The dialogue itself remains unchanged until the planned corpus-wide review.
+The following findings describe the before-state dialogue. The established [Medical and Bodily Care module](../modules/medical_and_bodily_care.md) now supplies vocabulary for many care distinctions, while the [Systems and Shared Infrastructure module](../modules/systems_and_shared_infrastructure.md) supplies voltage, feedback, system state, and related technical vocabulary. The dialogue itself remains as first authored so the before-state can be examined beside those words.
 
 - **Exact measurement works as a separate record, not as a lexical unit.** The displayed `12 V` artifact preserves the number and unit while the Phi dialogue refers to its marker and measurement role. This does not by itself provide vocabulary for voltage, calibration, threshold, or technical comparison.
 - **The measurement restriction makes one useful ethical distinction easy.** `miona sone po ma masue` separates a person's value from a thing that can be measured. The scenario therefore does not establish that the restriction is wrong; it shows a real benefit of keeping ranking separate from technical conditions.
@@ -267,7 +267,7 @@ B: mia ma nawo.
 
 B: phisu ha sileta kenua keli ha masue phelu. whekai ha sileta kenua keli welao po ma nai.
 EXMP PROX sun energy device PROX measure hold. CONTR PROX sun energy device good POT NEG be.
-(For example, this solar-energy device has this measurement and yet may not function well.)
+(For example, this solar-energy device has this measurement and yet cannot be functioning well.)
 
 A: mia to kanelu. mia nohero to helui.
 1SG PST err. 1SG believe PST change.
@@ -311,7 +311,7 @@ PL 1SG rest.
 These are before-state findings from the original scenario. The Systems module now names voltage with `poweshi`, feedback with `turelo`, and several relations that the chain of generic connections could not express; the scenario remains untouched so the earlier failure can still be examined.
 
 - **The technical-condition-versus-human-value distinction recurs.** Exact voltage can be preserved safely outside Phi, and `miona sone po ma masue` from the prior scenario still separates a person's worth from measurement. The remaining question is how to state a technical condition and its role in a decision without treating the source record as an opaque authority.
-- **`phisu` supplies an example, not a counterexample convention.** B can give a case in which the voltage is present and function may still fail. Phi has no established form saying that this case refutes A's inference rather than merely adding another consideration.
+- **`phisu` supplies an example, not a counterexample convention.** B can give a case in which the voltage is present while good function fails. Phi has no established form saying that this case refutes A's inference rather than merely adding another consideration.
 - **`thelao` again marks consequence, not validity.** A can retract the conclusion after B's case, but the language cannot yet state that the conclusion was unsupported by the premise. This is a second independent occurrence of the logical-validity gap.
 - **The systems gap recurs outside the water scenario.** The chain of `lorea` clauses can name interconnection among energy, device, and community, but cannot identify control, technical flow, recurrence, feedback, or a system boundary. The separately presented term remains a label rather than a Phi explanation.
 
@@ -438,7 +438,7 @@ C: mia lo phelui po theo. thelao mia mua lona po pawela.
 
 B: ta naphe theula miona po ma panoru. lo mia phirae naphe phelona.
 one help UNIV person POT NEG support. PL 1SG different help require.
-(One form of help may not support every person. We need different forms of help.)
+(One form of help cannot support every person. We need different forms of help.)
 
 A: mia nawo.
 1SG agree.
@@ -458,7 +458,7 @@ PL 1SG meeting FUT change.
 - **Phi can place a barrier in the environment rather than in a person's body.** `ha ponu hieru nai` and `mia roe ha keli po ma koema` state the incompatible doorway and device without calling A sick, broken, or less capable. This is a useful compositional strength.
 - **The generic device term protects against premature classification but loses relevant distinctions.** `keli` avoids assigning a diagnosis or identity, yet it cannot distinguish a mobility aid from another device. `rolu` is primarily a craft wheel, so `rolu keli` would not transparently repair the gap. The separately presented source term `wheelchair` preserves a category for comparison, but the label alone does not explain what the environment must permit.
 - **The consent pattern recurs independently of medicine.** `pi wa ... po` requests permission before carrying; `naweri` refuses; `thekao` acknowledges the refusal. As in the bodily-care scenario, `po` still also expresses practical possibility, and the scope or duration of consent remains contextual. This is stronger evidence for a recurring permission-and-consent distinction, but not yet a proposal for new grammar or vocabulary.
-- **Access is plural and relational.** A wider safe route supports A, while written words support C. `ta naphe theula miona po ma panoru` can state that one intervention may not serve everyone. Phi still lacks conventional core terms for barrier, accommodation, access requirement, communication format, or independent access.
+- **Access is plural and relational.** A wider safe route supports A, while written words support C. `ta naphe theula miona po ma panoru` can state that one intervention cannot serve everyone. Phi still lacks conventional core terms for barrier, accommodation, access requirement, communication format, or independent access.
 - **Participation is available even when the technical access category is not.** `pawela` states the practical outcome: taking part in the meeting. The separately presented source term `accessibility` preserves a source category for comparison, but it does not identify the route, format, consent, or decision that participation requires.
 - **This material crosses module boundaries.** Device use, refusal, support, writing, safety, and participation remain shared or cross-module resources. The established Accessibility and Participation module now adds `ruweli` access, `lokane` accessible, `kopharu` barrier, `hinawu` accommodate, and `phelotu` format without claiming the core words as its private vocabulary.
 
@@ -585,7 +585,7 @@ CONS 1SG POT prepare. 1SG POT participate.
 | Institutional boundary | Building and meeting format overlap with infrastructure | Facilitation, representation, and decision timing overlap with governance | Accessibility is cross-domain and cannot be assigned exclusively to medicine, infrastructure, or governance. |
 | New unresolved distinctions | barrier, accommodation, access requirement, communication format, independent access | advance notice, processing time, postponement, proxy representation, asynchronous contribution, decision hold | The first family now recurs; the second remains a first occurrence requiring further use. |
 
-Together, the two scenarios provide the before-state evidence for the established [Accessibility and Participation module](../modules/accessibility_and_participation.md). They reproduce environmental mismatch, different forms of support, permission and refusal, and participation as an outcome while changing the physical, sensory, temporal, semantic, and decision conditions. The vocabulary pass now names the recurring access relation, communication forms, timing distinctions, and participation harms. The dialogues remain unchanged so the later corpus review can compare those words with the original compositions rather than rewriting the evidence as soon as a word exists.
+Together, the two scenarios provide the before-state evidence for the established [Accessibility and Participation module](../modules/accessibility_and_participation.md). They reproduce environmental mismatch, different forms of support, permission and refusal, and participation as an outcome while changing the physical, sensory, temporal, semantic, and decision conditions. The vocabulary pass now names the recurring access relation, communication forms, timing distinctions, and participation harms. The dialogues remain unchanged so a reader can compare those words with the original compositions rather than rewriting the evidence as soon as a word exists.
 
 ## 11. Grain for hunger and seed
 
@@ -618,7 +618,7 @@ PL hungry person ENOUGH grain require.
 
 B: lu lo mia theula napuro loa. lo mia wireo thepalu po ma muraki.
 COND PL 1SG UNIV grain give. PL 1SG future garden POT NEG harvest.
-(If we give all the grain, we may not harvest the future garden.)
+(If we give all the grain, we cannot harvest the future garden.)
 
 C: lao mia riola to shorema mia mo whalo phanoi phelona.
 BECAUSE 1SG labor PST contribute 1SG CMPR large portion require.
@@ -658,14 +658,14 @@ C: mia mena ha kanu thua nai meno ma nohero.
 
 A: lu lo mia ha thimu ma kanu. lo kumoli miona nuora po ma phelu.
 COND PL 1SG PROX time NEG choose. PL hungry person food POT NEG hold.
-(If we do not choose now, the hungry people may not have food.)
+(If we do not choose now, the hungry people cannot have food.)
 
 C: mia ha thimu ha kanu kelomi. whekai mia ma nawo.
 1SG PROX time PROX choose accept. CONTR 1SG NEG agree.
 (I accept this choice now. However, I do not agree.)
 
-A: pheo ta philo lo mia ha kanu so shareo.
-POST one day PL 1SG PROX choose FUT discuss.
+A: lo mia pheo ta philo ha kanu so shareo.
+PL 1SG POST one day PROX choose FUT discuss.
 (In one day, we will discuss this choice.)
 ```
 
@@ -900,8 +900,8 @@ A: whekai lo mia luphore na shorupo.
 CONTR PL 1SG river NEC protect.
 (However, we must protect the river.)
 
-C: lo mia keritha tinoa muo phuliro so ma thinu.
-PL 1SG workshop dye INTO stream FUT NEG put.
+C: lo mia muo phuliro keritha tinoa so ma thinu.
+PL 1SG INTO stream workshop dye FUT NEG put.
 (We will not put workshop dye into the stream.)
 
 C: lo mia mue kosha phialu so masue.
@@ -952,8 +952,8 @@ A: ruela shurano ma nai.
 path safe NEG be.
 (The path is not safe.)
 
-A: lo mia theula ha wolea mue koshira na kolua.
-PL 1SG UNIV PROX wood OUT.OF grove NEC carry.
+A: lo mia mue koshira theula ha wolea na kolua.
+PL 1SG OUT.OF grove UNIV PROX wood NEC carry.
 (We must carry all this wood out of the grove.)
 
 B: mia ma nawo. ha wolea whemoa ma nai.
@@ -1012,16 +1012,16 @@ A: whekai nia ruela wolea pukea nai.
 CONTR ON path wood danger be.
 (However, the wood on the path is a danger.)
 
-B: lo mia theula ha wolea mue koshira lila kolua ralu nai.
-PL 1SG UNIV PROX wood OUT.OF grove PURP carry free be.
+B: lo mia lila mue koshira theula ha wolea kolua ralu nai.
+PL 1SG PURP OUT.OF grove UNIV PROX wood carry free be.
 (We need not carry all this wood out of the grove.)
 
 C: lo mia rena nia ruela nai li wolea na kolua.
 PL 1SG REL ON path be RESTR wood NEC carry.
 (We must carry only the wood that is on the path.)
 
-C: lo mia rena nia ruela nai wolea mue ruela so kolua.
-PL 1SG REL ON path be wood OUT.OF path FUT carry.
+C: lo mia mue ruela rena nia ruela nai wolea so kolua.
+PL 1SG OUT.OF path REL ON path be wood FUT carry.
 (We will carry the wood that is on the path off the path.)
 
 C: ra wolea mua koshira so manolu. ruela shurano so nai.
@@ -1032,8 +1032,8 @@ B: mia ha kanu kelomi. wa whekai ha kanu lo phirae lima thena shorupo.
 1SG PROX choose accept. Q CONTR PROX choose PL different alive thing protect.
 (I accept this choice. However, does this choice protect different living things?)
 
-C: lo mia ma sano. lo mia lo ha thena so nila.
-PL 1SG NEG know. PL 1SG PL PROX thing FUT see.
+C: lo mia ma sano. lo mia ha lo thena so nila.
+PL 1SG NEG know. PL 1SG PROX PL thing FUT see.
 (We do not know. We will observe these things.)
 
 C: lo mia pheo ta philo ha lokue helui so thekiro.
@@ -1084,8 +1084,8 @@ A: rena phialu kolua keli ha rolu phelona.
 REL water carry device PROX wheel require.
 (The device that carries water requires this wheel.)
 
-C: mia mena mia ha rolu pheo ta philo so shiroka meno to seru.
-1SG DECL.COMP 1SG PROX wheel POST one day FUT repair DECL.COMP.CLOSE PST commit.
+C: mia mena mia pheo ta philo ha rolu so shiroka meno to seru.
+1SG DECL.COMP 1SG POST one day PROX wheel FUT repair DECL.COMP.CLOSE PST commit.
 (I committed that I would repair this wheel in one day.)
 
 A: ha rolu ha masue phelona.
@@ -1128,8 +1128,8 @@ A: mia lo thia wi naweri thekao.
 1SG PL 2SG two refuse acknowledge.
 (I acknowledge both of your refusals.)
 
-A: wa thia misa to seru.
-Q 2SG why PST commit.
+A: thia misa to seru.
+2SG why PST commit.
 (Why did you commit?)
 
 C: lao sila rena phialu kolua keli phelona mia to seru.
@@ -1180,8 +1180,8 @@ C: lu rolu shurano ma nai. lo mia keli so ma roke.
 COND wheel safe NEG be. PL 1SG device FUT NEG move.
 (If the wheel is not safe, we will not move the device.)
 
-B: wa sua mena rolu shurano nai meno so sano.
-Q who DECL.COMP wheel safe be DECL.COMP.CLOSE FUT know.
+B: sua mena rolu shurano nai meno so sano.
+who DECL.COMP wheel safe be DECL.COMP.CLOSE FUT know.
 (Who will know that the wheel is safe?)
 
 A: lo mia ma sano. pheo shiroka lo mia rolu so masue. lo mia rolu so somela.
@@ -1225,7 +1225,7 @@ No new root follows from this scenario. It demonstrates enough existing craft la
 | Can Phi establish safe completion? | The group plans measurement and observation but cannot identify who will know the wheel is safe. | **Gap.** Inspection, testing, acceptance criteria, sign-off, and safe return to use remain unconventionalized. |
 | Do positive labor roots cover unwanted work neutrally? | Dangerous imposed work can be refused, but `riola` still frames it as purposeful contribution. | **Semantic pressure confirmed.** The module states an explicit boundary against romanticizing labor and adds direct critical vocabulary. |
 
-Together, the [vocabulary audit](work_craft_repair_vocabulary_audit.md) and this scenario supplied the before-state for the established [Work, Craft, and Repair module](../modules/work_craft_and_repair.md). Vocabulary established with the profile now names many of the scenario's work-organization, skill, evaluation, labor-condition, and material relations, while bounded consent, bodily capacity, exact safety sources, inspection, safe approval, economic force, and final responsibility remain separate questions. The dialogue remains a valid before-state regression text for the planned active-corpus revisit.
+Together, the [vocabulary audit](work_craft_repair_vocabulary_audit.md) and this scenario supplied the before-state for the established [Work, Craft, and Repair module](../modules/work_craft_and_repair.md). Vocabulary established with the profile now names many of the scenario's work-organization, skill, evaluation, labor-condition, and material relations, while bounded consent, bodily capacity, exact safety sources, inspection, safe approval, economic force, and final responsibility remain separate questions. The dialogue remains a valid before-state regression text beside the module's vocabulary.
 
 ## Regression method
 

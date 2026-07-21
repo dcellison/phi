@@ -178,11 +178,11 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | SEM-08C | **DONE** | Replace 24 Systems and Shared Infrastructure forms. | Completed ledger scope and phonetic-neighbor baseline | Reopen only if an active use of an old form is found. |
 | SEM-08D | **DONE** | Replace 30 Ecological Systems and Material Life forms. | Completed ledger scope, scenarios, profile, and generated reference | Reopen only if an active use of an old form is found. |
 | SEM-08E | **DONE** | Replace 29 Commons and Collective Governance forms and close the migration. | Completed ledger scope; validator has no long-form exception | Reopen only if an active use of an old form is found. |
-| SEM-09 | **PARTIAL** | Migrate inherited vocabulary prose to the target contract and revisit the active corpus in context. | D017, the target JSON Schema, field-aware explorer, D052 with all 1,275 entries target-shaped, D053, fifteen contextual literary retrofits, the drafted-book review, all seven manual parts, the primer, and all nine pamphlets | Complete SEM-09D through the current documents. Change active Phi only where the present lexicon improves fidelity or naturalness. |
+| SEM-09 | **DONE** | Migrate inherited vocabulary prose to the target contract and revisit the active corpus in context. | D017, the target JSON Schema, field-aware explorer, D052 with all 1,275 entries target-shaped, D053, fifteen contextual literary retrofits, the drafted-book review, all seven manual parts, the primer, all nine pamphlets, and the current-documents sweep | Reopen a completed passage only for a real semantic, factual, voice, or corpus problem. |
 | SEM-09A | **DONE** | Apply a semantic coverage gate to content prose batches and preserve every noticed lexical decision. | `project/content_vocabulary_coverage.md` audits every completed batch; `project/content_vocabulary_decisions.json` has no open or accepted candidate; D020 through D052 record the resulting additions, compositions, deferrals, source boundaries, and refusals. | Keep the gate for future content-vocabulary work so a newly noticed question receives an ID before its batch closes. |
 | SEM-09B | **DONE** | Complete target-prose migration for base content vocabulary. | D044 leaves all 884 base content entries target-shaped and no base entry legacy-shaped | Reopen a completed entry only for a real semantic, factual, voice, or corpus problem. |
 | SEM-09C | **DONE** | Complete target-prose migration for module content vocabulary. | D045 through D052 complete all eight learning paths; Work, Craft, and Repair closes the final 16 entries without adding a root | Reopen an entry only for a real semantic, factual, voice, or corpus problem. |
-| SEM-09D | **IN PROGRESS** | Retrofit active Phi passages after the full vocabulary-prose migration. | Fifteen literary retrofits complete the shelf, the drafted Phi book is current, and all seven manual parts, the primer, and all nine pamphlets are reviewed without adding a root | Continue with the current documents. |
+| SEM-09D | **DONE** | Retrofit active Phi passages after the full vocabulary-prose migration. | Fifteen literary retrofits complete the shelf, the drafted Phi book is current, all seven manual parts, the primer, and all nine pamphlets are reviewed, and the current grammar, reference, design, module, vocabulary, and evaluation documents complete the sweep without adding a root | Reopen a completed passage only for a real semantic, factual, voice, or corpus problem. |
 
 ### Default coinage checklist
 
@@ -216,7 +216,7 @@ This checklist protects implementation quality. It does not require external app
 | PED-05 | **EVIDENCE** | Curriculum pacing and retention evidence. | No result yet | Re-test selected material after a delay; revise ordering before adding explanations. |
 | PED-06 | **READY** | Maintainer-as-learner regression pass after a blind interval. | Existing curriculum | Complete the primer exercises without consulting answers and log friction without generalizing to all learners. |
 | PED-07 | **EVIDENCE** | Accessibility review for visual, auditory, cognitive, and motor needs. | Established vocabulary module, speaker chapter, and two scripted scenarios exist; no affected-user review yet | Invite affected users to identify barriers; prioritize practical access over aesthetic doctrine. |
-| PED-08 | **PARTIAL** | Continue the Phi book under its treatment and established chapter voice. | The cold open, chapters 1 through 7, and chapter 11 are drafted; chapter 7 is citation-checked and follows the reviewed literary shelf | Return at chapter 8 after the remaining SEM-09D corpus retrofit, then audit every new citation before publication. |
+| PED-08 | **PARTIAL** | Continue the Phi book under its treatment and established chapter voice. | The cold open, chapters 1 through 7, and chapter 11 are drafted; chapter 7 is citation-checked and follows the reviewed literary shelf | Return at chapter 8, then audit every new citation before publication. |
 
 ## Phase 8: Community practice and cultural accountability
 
@@ -251,7 +251,7 @@ This phase is adjacent to the linguistic improvement plan and follows the order 
 
 ## Current execution sequence
 
-The three-syllable lexical migration, literary-shelf review, recovered vocabulary decisions, and all base and module prose migrations are complete. Fifteen contextual literary passes complete the active shelf, the drafted Phi book is current through chapter 7, and all seven manual parts, the primer, and all nine pamphlets have received teaching-corpus passes. SEM-09D now continues with the current documents. A transparent composition stays when it remains better Phi.
+The three-syllable lexical migration, literary-shelf review, recovered vocabulary decisions, and all base and module prose migrations are complete. Fifteen contextual literary passes complete the active shelf, the drafted Phi book is current through chapter 7, all seven manual parts, the primer, and all nine pamphlets have received teaching-corpus passes, and the current-documents sweep is complete. SEM-09 and SEM-09D are done, and PED-08 resumes at chapter 8. A transparent composition stays when it remains better Phi.
 
 ### Completed work package 0: Three-syllable lexical migration
 
@@ -273,7 +273,7 @@ All 112 replacements preserve the vocabulary schema and active uses under forms 
 
 1. D044 completed the base queue with every base content entry target-shaped.
 2. D045 through D052 completed all eight module learning paths, with every established membership preserved and every entry target-shaped.
-3. The literary shelf, drafted book, all seven manual parts, the primer, the evidentiality pamphlet, the three-slots pamphlet, and the spoken-punctuation pamphlet are current. Inspect active Phi in the other six pamphlets and current documents. Replace an older workaround only when the completed vocabulary improves fidelity or naturalness in that exact passage.
+3. The literary shelf, drafted book, all seven manual parts, the primer, all nine pamphlets, and the current project, grammar, reference, design, module, vocabulary, and evaluation documents are current. An older workaround was replaced only when the completed vocabulary improved fidelity or naturalness in that exact passage.
 4. Record every newly noticed question before calling its prose work complete.
 5. Refresh the coverage report and generated references after every batch, then run the standalone validator and site build.
 
@@ -284,7 +284,7 @@ All 112 replacements preserve the vocabulary schema and active uses under forms 
 **Roadmap item:** PED-08.
 
 1. Read `book/treatment.md` and the preceding chapters before drafting the next planned chapter.
-2. Follow the established Phi voice, Canadian spelling preference, restrained Jerome humour, and separate Humanizer pass.
+2. Follow the established Phi voice, American spelling for now, restrained Jerome humor, and a separate Humanizer pass.
 3. Validate every citation after the chapter draft is complete and repair the chapter from that audit.
 4. Publish the chapter as its own reviewed pull request.
 

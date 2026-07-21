@@ -1,6 +1,6 @@
-# Solo Evaluation Tasks
+# Solo evaluation tasks
 
-These tasks let one maintainer gather disciplined observations without disguising self-review as learner research. They are reusable later with informal learners, but no score from the maintainer alone licenses a general learnability claim.
+These tasks let one maintainer gather disciplined observations without disguising self-review as learner research. They are reusable later with informal learners, but no score from the maintainer alone licenses a general learnability claim. One person reading their own language is a rehearsal, not an audience.
 
 ## 1. Structural regression
 
