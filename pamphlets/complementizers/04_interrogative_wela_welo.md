@@ -1,6 +1,6 @@
 # Interrogative embedding: `wela`/`welo`
 
-The interrogative complementizer pair `wela`/`welo` introduces embedded questions: uncertainties being wondered about, inquiries being asked, possibilities being considered. This section covers the full range of interrogative embedding in Phi.
+A question does not have to be asked to be spoken of. With `wela` and `welo`, Phi takes a question, whole and unanswered, and hands it to a verb: something wondered about, inquired after, considered, or not yet known.
 
 ## The basic structure
 
@@ -29,11 +29,11 @@ Breaking this down:
 
 ## Sound symbolism
 
-**`wela`** begins with the glide `w`, which reaches outward into possibility, into the unknown. The liquid `l` flows toward whatever answer might come. The final `a` opens into the question that follows.
+**`wela`** begins with the glide `w`, the lips rounding and reaching outward, and the liquid `l` flows toward whatever answer might come. The final `a` opens into the question that follows.
 
-**`welo`** shares the reaching `we` onset. The shift from `a` to `o` signals closure, the question now contained as an object of thought rather than an open inquiry.
+**`welo`** shares the reaching `we` onset. The shift from `a` to `o` rounds the reach off: the question is no longer an open inquiry but an object of thought.
 
-Speaking `wela` feels like opening a door to uncertainty, inviting a question to unfold. Speaking `welo` feels like closing that door, the question now held within the sentence as content.
+`wela` is a hand opening, palm up, to receive a question; `welo` is the same hand closing gently around it. Nothing is answered between them. The question is simply carried.
 
 ## Distinguishing `wela`/`welo` from related words
 
@@ -68,8 +68,8 @@ This is not asking the listener to answer. It reports the speaker's state of unc
 The Slot 0 particle `lu` frames conditional sentences (if-then):
 
 ```
-lu thia wepu. mia ma towe phaelo
-COND 2SG go. 1SG NEG well feel
+lu thia wepu. mia so ma towe phaelo
+COND 2SG go. 1SG FUT NEG well feel
 (If you leave, I will not feel well.)
 ```
 
@@ -139,9 +139,9 @@ PL 1SG INT.COMP sun FUT come INT.COMP.CLOSE NEG know
 ### Discovering and finding out
 
 ```
-shia wela melu to kamo welo nila
-3SG INT.COMP friend PST arrive INT.COMP.CLOSE see
-(They saw (discovered) whether the friend had arrived.)
+shia wela melu to kamo welo to nila
+3SG INT.COMP friend PST arrive INT.COMP.CLOSE PST see
+(They discovered whether the friend had arrived.)
 ```
 
 ### Caring about
@@ -195,9 +195,9 @@ shia wela sileta ro shua welo sano
 ### Perfective aspect (`ki`)
 
 ```
-mia wela shelu ki se kealo welo nila
-1SG INT.COMP book PFV PASS create INT.COMP.CLOSE see
-(I discovered whether the book has been created.)
+mia wela shelu ki se kealo welo to nila
+1SG INT.COMP book PFV PASS create INT.COMP.CLOSE PST see
+(I discovered whether the book had been created.)
 ```
 
 ## With negation
@@ -265,8 +265,8 @@ shia wela melu thia to naphe welo sano
 ### With ditransitive verbs
 
 ```
-mia wela shia wei melu shelu loa welo nila
-1SG INT.COMP 3SG DAT friend book give INT.COMP.CLOSE see
+mia wela shia wei melu shelu loa welo to nila
+1SG INT.COMP 3SG DAT friend book give INT.COMP.CLOSE PST see
 (I discovered whether they gave the friend a book.)
 ```
 
@@ -400,16 +400,16 @@ mia wela thia wela shia towe nai welo sano welo phaelo
 (I wonder whether you know whether they are well.)
 ```
 
-Each `wela` pairs with its own `welo`, maintaining structural clarity even in nested questions.
+Each `wela` pairs with its own `welo`, and the structure stays clear even in nested questions.
 
 ## Content questions (wh-questions)
 
-The examples above involve yes/no questions. Content questions (who, what, where, when, why) work differently in Phi: the interrogative word itself announces that the clause is a question, so the clause embeds bare, with no `wela`/`welo` frame:
+The examples above involve yes/no questions. Content questions (who, what, where, when, why) work differently in Phi: the interrogative word itself signals that the clause is a question, so the clause embeds bare, with no `wela`/`welo` frame:
 
 ```
-mia sua to shua phaelo
-1SG who PST come feel
-(I wonder who came.)
+mia sua to shua sano
+1SG who PST come know
+(I know who came.)
 ```
 
 ```
@@ -441,8 +441,7 @@ Distinguished from:
 
 The system embeds yes/no questions with `wela`/`welo`; content questions embed bare, their interrogative word carrying the signal. Nesting is possible. The structure remains unambiguous.
 
+Many languages make uncertainty easy to hide and slightly awkward to confess. Phi builds the unanswered question its own frame, with the same two-syllable sturdiness it gives to facts, so that admitting an open question costs a speaker nothing but the honesty.
+
 With `wela` and `welo`, not knowing something becomes something you can say.
 
----
-
-*Next: Quotative embedding with `shola`/`sholo`*

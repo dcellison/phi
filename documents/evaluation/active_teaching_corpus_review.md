@@ -355,6 +355,25 @@ The spoken-punctuation pass reviews all eleven files around Phi's period-only wr
 
 The completed base and function vocabulary covers the pamphlet without a new root, lexical question, optional module term, or membership change. Base `sukaro` says hot where the old exercise intensified warm, and existing `kau` restores the motion endpoint in a quoted question. The directly related `thilou` vocabulary note is corrected from final `wa` to clause-initial `wa`. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
 
+The complementizers pass reviews all ten files against chapter 19's current frames, the closed complementizer inventory, and the completed lexicon. The pamphlet keeps its role as extended practice for the three opener and closer pairs, while its examples come under main-clause tense, in-situ content questions, and the manner and coordination orders the manual now teaches. The register rules arrived in the same pass rather than as a later revision.
+
+| File | State | Finding and disposition |
+|---|---|---|
+| `complementizers/00_title.md` | Revised | The title page now follows the practice-companion form: the `-a`/`-o` mouth gesture opens it, chapter 19 keeps the definitions, and the outcome list gives way to the pamphlet's actual scope and a statement of what the frames were built to hold. |
+| `complementizers/01_understanding_embedded_clauses.md` | Revised | The three embedding types keep their cross-linguistic context while the section-by-section roadmap becomes a short bridge. The vowel-shift observation is grounded in articulation, and copula avoidance is repaired. |
+| `complementizers/02_logic_of_openers_closers.md` | Revised | The onset table no longer assigns meanings to syllables; the shared onset and the vowel alternation carry the pattern. The frame-word signature and the two-syllable allocation teaching stay, and the salvaged encouragement to nest fearlessly returns. |
+| `complementizers/03_declarative_mena_meno.md` | Revised | The unattested focus-before-frame construction is removed. Topic-drop now points to chapter 13's never-required rule, and the evaluative-verb section says what the frame does for feelings about facts. |
+| `complementizers/04_interrogative_wela_welo.md` | Revised | Three discovery examples gain the `to` their past translations claimed, the conditional consequence carries `so`, and the bare content-question examples follow chapter 19's in-situ rule. The closing turn keeps not-knowing sayable. |
+| `complementizers/05_quotative_shola_sholo.md` | Revised | The frame-verb inventory now names `haolu`, `shemui`, `thilou`, and `hea`. Five past-tense frames gain `to`, the trust of quotation stands on design-intent verbs, and the manner heading matches its example. |
+| `complementizers/06_advanced_patterns.md` | Revised | The relative-with-`wela` example takes a shallow subject gap in place of extraction from inside an embedded question, the deep-gap prose describes what the examples show, and a quoted relative clause carries its past marking. |
+| `complementizers/07_common_errors.md` | Revised | Two errors join the set: wrapping a content question in the frame, and leaving the frame verb without its own tense. The recovery example repairs with `shorela` in its chapter 18 position, and false starts keep their non-parsed marking. |
+| `complementizers/08_exercises.md` | Revised | Answer-key gloss lines now render every word by its lexicon gloss: `haolu` speak, `thilou` inquire, `phaelo` feel, `lo mia` PL 1SG, and `ha` PROX. |
+| `complementizers/09_appendix.md` | Revised | The phonetic table presents its readings as one speaker's mnemonic, the vocative joins the quick reference, the glossary limits embedded clauses to object position, and further study follows the sibling form with a validator line. |
+
+### Lexical and canonical result
+
+The completed base and function vocabulary covers the pamphlet without a new root, lexical question, or optional module term. The pass repairs three dependencies outside the pamphlet: chapter 19's embedded `kua` example moves to the in-situ position its own rule requires, the complementizer reference's conditional consequence gains `so`, and the shape charter's complementizer count in `canon.md` returns to seven, where the inventory has stood since the external frames were removed. The lexicon remains at 1,275 entries, 261 optional roots, and 393 module memberships.
+
 ### Resume point
 
-Continue with `pamphlets/complementizers/`, whose older explanations of quotation, frame shape, scope, and cognition need the same contextual review, and then review the other five pamphlets. The later current-document sweep must revisit the shorthand "source of knowledge" in `documents/grammar/particle_reference.md` and "How you know" in `documents/reference/taught_patterns.md`; neither phrase should restore an epistemic claim that the particles do not make.
+Continue with `pamphlets/naming/`, then the remaining four pamphlets and the current documents. The later current-document sweep must revisit the shorthand "source of knowledge" in `documents/grammar/particle_reference.md` and "How you know" in `documents/reference/taught_patterns.md`; neither phrase should restore an epistemic claim that the particles do not make.

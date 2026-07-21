@@ -1,6 +1,6 @@
 # Quotative embedding: `shola`/`sholo`
 
-The quotative complementizer pair `shola`/`sholo` preserves someone's exact words: it is Phi's spoken quotation marks. Unlike `mena`/`meno`, which reports content, `shola`/`sholo` keeps the original form of speech.
+Some words should arrive exactly as they were spoken. `shola` and `sholo` are Phi's spoken quotation marks: everything between them is someone else's wording, preserved sound for sound, and carrying it is a small act of trust. Where `mena`/`meno` reports what someone meant, `shola`/`sholo` carries what someone said.
 
 ## The basic structure
 
@@ -25,7 +25,7 @@ Breaking this down:
 - `shola`: opens quotation
 - `mia wepu`, quoted material: "I am leaving"
 - `sholo`: closes quotation
-- `haolu`: main verb (say)
+- `haolu`: main verb (speak)
 
 Note: the `mia` inside the quote refers to the original speaker, not to whoever is reporting the quote now.
 
@@ -33,15 +33,15 @@ Note: the `mia` inside the quote refers to the original speaker, not to whoever 
 
 **`shola`** begins with `sh` /ʃ/, the soft fricative that sounds like whispered speech itself, the rustle of words passing from one person to another. This speech-like consonant meets `o`, the round vowel of containment and wholeness. The second syllable `la` flows forward with the liquid `l`, carrying the quoted speech along, while `a` opens into the quotation.
 
-**`sholo`** shares the `sho` onset, maintaining the acoustic signature of speech being carried. The shift from `a` to `o` signals closure, the quoted words now contained and complete.
+**`sholo`** keeps the `sho` onset, so the ear stays inside quoted speech until the vowel turns. The shift from `a` to `o` signals closure, the quoted words now contained and complete.
 
-Speaking `shola` feels like opening your mouth to speak another's words. Speaking `sholo` feels like closing that borrowed voice, returning to your own.
+`shola` lends your mouth to someone else. For as long as the frame stays open, the words you make are not yours; `sholo` ends the loan, and your own voice comes back.
 
 ## The sacred trust of quotation
 
-Phi treats exact quotation as a responsibility. When you use `shola`/`sholo`, you commit to preserving the original speaker's words without alteration. Misquotation causes harm, and by building the distinction between quotation and paraphrase into the grammar, Phi makes speakers conscious of when they are transmitting words faithfully and when they are interpreting meaning. The quoted material belongs to its original speaker; the frame makes clear whose words these are. And where paraphrasing presumes understanding, quotation admits that sometimes the original words matter more than our reading of them.
+Phi treats exact quotation as a responsibility. When you use `shola`/`sholo`, you commit to preserving the original speaker's words without alteration. Misquotation causes real harm: disagreements turn on what was actually said, and testimony is only as good as its carrying. By building the line between quotation and paraphrase into the grammar, Phi asks a speaker to notice, every time, which of the two they are doing. Whether they notice is theirs to bring; the question is asked in every frame.
 
-In contexts where exact words matter, whether sacred texts, legal testimony, or simply respecting someone's voice, `shola`/`sholo` provides the appropriate structure.
+The quoted words remain their speaker's own, and the frame says so out loud. There is a quiet humility in choosing it: paraphrase presumes understanding, while quotation admits that the original words may matter more than our reading of them. A community that carries its stories and its promises by voice needs exactly this, quotation marks that weigh nothing and cannot be lost between teller and listener.
 
 ## Quotation vs. content reporting
 
@@ -63,7 +63,7 @@ shia mena shia wepu meno to haolu
 (They said that they were leaving.)
 ```
 
-The `shia` refers to they from the reporter's perspective. The pronouns shift to maintain reference.
+The `shia` refers to the original speaker, named from the reporter's perspective. The pronouns shift to keep reference straight.
 
 **Practical difference:**
 
@@ -87,7 +87,7 @@ In the quotation, `mia` and `thia` are exactly what they said. In the content re
 
 ## Verbs that take `shola`/`sholo` clauses
 
-Quotative embedding works with verbs of speaking and communication:
+The frame closes into one of Phi's speech verbs: `haolu` (speak), `shemui` (utter), `thilou` (inquire), or, for words received rather than produced, `hea` (hear). Hearing exact words is as sayable as speaking them; the closer bounds the quote either way.
 
 ### Saying
 
@@ -116,14 +116,14 @@ Note: The direct question particle `wa` appears inside the quotation because it 
 ### Announcing, declaring, proclaiming
 
 ```
-miona shola mia ha nai sholo haolu
-person QUOT.COMP 1SG PROX be QUOT.COMP.CLOSE speak
-(The person announced: "I am here.")
+miona shola mia ha nai sholo to shemui
+person QUOT.COMP 1SG PROX be QUOT.COMP.CLOSE PST utter
+(The person declared: "I am here.")
 ```
 
-### Whispering, shouting, etc.
+### Manner of speaking
 
-Manner of speaking can modify the verb:
+A descriptor before the verb says how the words were delivered:
 
 ```
 shia shola mia wepu sholo to shena haolu
@@ -160,8 +160,8 @@ shia shola no shua sholo to haolu
 ```
 
 ```
-melu shola wao sholo haolu
-friend QUOT.COMP wow QUOT.COMP.CLOSE speak
+melu shola wao sholo to haolu
+friend QUOT.COMP wow QUOT.COMP.CLOSE PST speak
 (The friend exclaimed: "Wow!")
 ```
 
@@ -226,7 +226,7 @@ mia shola thia shola mia so turema sholo to haolu sholo to hea
 This is complex but parseable. Each opener matches its closer:
 
 ```
-mia shola [...shola...sholo...] sholo hea
+mia shola [...shola...sholo...] sholo to hea
     └────────────────────────┘
               └─────────┘
 ```
@@ -280,14 +280,14 @@ The quoted material remains intact.
 The main clause can question the quotation:
 
 ```
-wa shia shola mia wepu sholo haolu
-Q 3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE speak
+wa shia shola mia wepu sholo to haolu
+Q 3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE PST speak
 (Did they say: "I am leaving"?)
 ```
 
 ```
-wa thia shola shewo sholo hea
-Q 2SG QUOT.COMP true QUOT.COMP.CLOSE hear
+wa thia shola shewo sholo to hea
+Q 2SG QUOT.COMP true QUOT.COMP.CLOSE PST hear
 (Did you hear (someone say): "True"?)
 ```
 
@@ -296,8 +296,8 @@ Q 2SG QUOT.COMP true QUOT.COMP.CLOSE hear
 Negating that someone said something:
 
 ```
-shia shola mia wepu sholo ma haolu
-3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE NEG speak
+shia shola mia wepu sholo to ma haolu
+3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE PST NEG speak
 (They did not say: "I am leaving.")
 ```
 
@@ -374,7 +374,7 @@ Both sentences report the same event, but:
 
 ## Summary
 
-`shola`/`sholo` provides Phi's mechanism for exact quotation: preserving another's words, carrying another's voice, honoring the form of speech alongside its meaning. Key points:
+`shola`/`sholo` is Phi's mechanism for exact quotation: another person's words preserved whole, in their own voice. Key points:
 
 - **`shola` opens:** "here begins exact quotation"
 - **`sholo` closes:** "here ends that quotation"
@@ -388,6 +388,3 @@ The system handles any length of quoted material. Nesting is possible. Questions
 
 `shola` marks where your voice ends and another's begins; `sholo` gives the voice back.
 
----
-
-*Next: Advanced patterns and nesting*

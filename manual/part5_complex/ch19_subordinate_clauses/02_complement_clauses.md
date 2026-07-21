@@ -73,8 +73,8 @@ mia sua to wepu sano.
 ```
 
 ```
-mia kua ne sulae nai ma sano.
-1SG where NAME sulae be NEG know.
+mia ne sulae kua nai ma sano.
+1SG NAME sulae where be NEG know.
 (I do not know where sulae is.)
 ```
 

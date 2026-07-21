@@ -133,7 +133,7 @@ PL 1SG INT.COMP sun beautiful be INT.COMP.CLOSE NEG understand
 
 **Comparison**:
 - `wa thia wepu` = Are you going? (direct question)
-- `lu thia wepu. mia ma towe phaelo` = If you go, I won't feel well. (conditional)
+- `lu thia wepu. mia so ma towe phaelo` = If you go, I won't feel well. (conditional)
 - `mia wela thia wepu welo phaelo` = I wonder whether you're going. (embedded question)
 
 ---

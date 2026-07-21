@@ -190,7 +190,7 @@ These were explicitly decided and should not silently fork again:
   Hiatus disyllables ((C)V.V) are relators: all 27 prepositions and
   the core pronouns `mia thia shia`; the reflexive/reciprocal pair
   `miso wiso` is the designed -so extension of the pronoun set.
-  Plain disyllables are frames: the eleven complementizers (openers
+  Plain disyllables are frames: the seven complementizers (openers
   in -a, closers in -o), the vocative `kona`, the four classifiers,
   and the frame conjunctions — while the clause-relators `lao pheo
   phoe shai` carry the relator shape instead, prepositions over

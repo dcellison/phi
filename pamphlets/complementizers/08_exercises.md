@@ -1,6 +1,6 @@
 # Exercises
 
-This section provides practice with Phi's complementizer system. Work through each exercise type to build fluency. An answer key follows.
+Practice is where the counting becomes reflex. Work through each exercise type in order; an answer key follows. When your answer differs from the key only in wording, check the boundaries first: the opener, the closer, and how much each one holds.
 
 ---
 
@@ -199,10 +199,10 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
    2SG DECL.COMP story true be DECL.COMP.CLOSE feel
 
 4. **melu mena mia to naphe meno to haolu**
-   friend DECL.COMP 1SG PST help DECL.COMP.CLOSE PST say
+   friend DECL.COMP 1SG PST help DECL.COMP.CLOSE PST speak
 
 5. **lo mia mena shia to wepu meno shelomu**
-   1PL DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
+   PL 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 
 6. **shia mena thia towe nai meno remo**
    3SG DECL.COMP 2SG well be DECL.COMP.CLOSE think
@@ -211,43 +211,43 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
    1SG DECL.COMP friend PST arrive DECL.COMP.CLOSE NEG know
 
 8. **shia mena shelu welao nai meno to haolu**
-   3SG DECL.COMP book good be DECL.COMP.CLOSE PST say
+   3SG DECL.COMP book good be DECL.COMP.CLOSE PST speak
 
 9. **mia wela shia towe nai welo phaelo**
-   1SG INT.COMP 3SG well be INT.COMP.CLOSE wonder
+   1SG INT.COMP 3SG well be INT.COMP.CLOSE feel
 
 10. **shia wela thia to nila welo to thilou**
-    3SG INT.COMP 2SG PST see INT.COMP.CLOSE PST ask
+    3SG INT.COMP 2SG PST see INT.COMP.CLOSE PST inquire
 
 11. **lo mia wela pheralu so shua welo ma sano**
-    1PL INT.COMP rain FUT come INT.COMP.CLOSE NEG know
+    PL 1SG INT.COMP rain FUT come INT.COMP.CLOSE NEG know
 
 12. **shia wela melu so turema welo phaelo**
-    3SG INT.COMP friend FUT return INT.COMP.CLOSE wonder
+    3SG INT.COMP friend FUT return INT.COMP.CLOSE feel
 
 13. **wa thia wela nophi shewo nai welo sano**
     Q 2SG INT.COMP story true be INT.COMP.CLOSE know
 
 14. **lo shia wela mia to naphe welo to thilou**
-    PL 3SG INT.COMP 1SG PST help INT.COMP.CLOSE PST ask
+    PL 3SG INT.COMP 1SG PST help INT.COMP.CLOSE PST inquire
 
 15. **mia wela nophi mioru nai welo ma phaelo**
     1SG INT.COMP story beautiful be INT.COMP.CLOSE NEG feel
 
 16. **shia shola mia wepu sholo to haolu**
-    3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE PST say
+    3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE PST speak
 
 17. **melu shola sileta mioru nai sholo to haolu**
-    friend QUOT.COMP sun beautiful be QUOT.COMP.CLOSE PST say
+    friend QUOT.COMP sun beautiful be QUOT.COMP.CLOSE PST speak
 
 18. **shia shola wa thia towe nai sholo to thilou**
-    3SG QUOT.COMP Q 2SG well be QUOT.COMP.CLOSE PST ask
+    3SG QUOT.COMP Q 2SG well be QUOT.COMP.CLOSE PST inquire
 
 19. **mia shola mia so turema sholo to haolu**
-    1SG QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE PST say
+    1SG QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE PST speak
 
 20. **shia shola lo mia ha nai sholo to haolu**
-    3SG QUOT.COMP 1PL here be QUOT.COMP.CLOSE PST say
+    3SG QUOT.COMP PL 1SG PROX be QUOT.COMP.CLOSE PST speak
 
 ## Part B: Translation (Phi to English)
 
@@ -377,6 +377,3 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 65. **rena mena melu towe nai meno sano miona mioru nai**
     The person who knows that the friend is well is beautiful.
 
----
-
-*Next: Appendix: quick reference*

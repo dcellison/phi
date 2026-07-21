@@ -31,7 +31,7 @@ Breaking this down:
 
 **`mena`** begins with the closed lips of `m`, turning inward. This is fitting for introducing content that exists within the mind as knowledge or belief. The nasal resonance of `m` and `n` creates continuity and grounding. The final `a` opens toward the embedded clause that follows.
 
-**`meno`** shares the `m` and `n`, maintaining the acoustic signature. The shift from open `a` to rounded `o` signals closure, the vowel completing what the opener began.
+**`meno`** keeps the same `m` and `n`, so opener and closer sound like one word in two states. The shift from open `a` to rounded `o` signals closure, the vowel completing what the opener began.
 
 Speaking `mena` feels like opening an inner door to let knowledge flow outward. Speaking `meno` feels like that door closing again, the reported content now contained and complete.
 
@@ -116,6 +116,8 @@ shia mena pheralu so shua meno sukima phaelo
 3SG DECL.COMP rain FUT come DECL.COMP.CLOSE fear feel
 (They fear that rain will come.)
 ```
+
+This is the pair at its warmest work. Gladness and fear are rarely about bare facts; they are about facts held by someone. The frame hands the main verb a whole state of affairs to rejoice over or dread, and the closer keeps the feeling's object exactly as large as the speaker meant it.
 
 ## With tense and aspect particles
 
@@ -309,16 +311,6 @@ IMP DECL.COMP 3SG PST go DECL.COMP.CLOSE think
 (Consider that they left!)
 ```
 
-### Focused embedded content
-
-`ko` focuses the element it precedes, so to focus the embedded clause, `ko` stands before `mena`:
-
-```
-mia ko mena shia to wepu meno shelomu
-1SG FOC DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
-(It is that they left that I understand.)
-```
-
 ## Topic-drop with `mena`/`meno`
 
 When the subject of the main clause is clear from context, it can be dropped:
@@ -337,7 +329,7 @@ DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 ((I) understand that they left.)
 ```
 
-The embedded clause structure remains intact. Only the main clause subject is dropped.
+The embedded clause structure remains intact. Only the main clause subject is dropped. Topic-drop is never required; repeating the subject is always available when two referents might compete (see the manual, ch13).
 
 ## Extended examples in context
 
@@ -421,8 +413,5 @@ More on this distinction in Section 5.
 - `meno` closes: "here ends reported content"
 - Main verb follows: clear parsing, no ambiguity
 
-The system works with all tense, aspect, mood, and negation markers. Clauses can be as simple or complex as meaning requires. Nesting is unlimited.
+The system works with every tense, aspect, mood, and negation marker, and clauses can be as simple or complex as meaning requires. Section 6 takes the nesting as deep as working memory will follow.
 
----
-
-*Next: Interrogative embedding with `wela`/`welo`*

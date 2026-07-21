@@ -43,7 +43,7 @@ mia mena shia to wepu meno shelomu
 Now the structure is unambiguous:
 - `mena` announces: "an embedded statement is beginning"
 - `shia to wepu` is the content of that statement
-- `meno` announces: "the embedded statement has ended"
+- `meno` replies: "the embedded statement has ended"
 - `shelomu` is clearly the main verb
 
 The listener knows exactly what belongs to what.
@@ -104,19 +104,17 @@ This is why:
 
 ## The acoustic pattern
 
-Phi reinforces this logic with consistent sound symbolism:
+Each pair shares its onset and differs only in the final vowel:
 
-| Opener | Closer | Shared onset |
-|--------|--------|--------------|
-| men**a** | men**o** | men- (nasal, grounding) |
-| wel**a** | wel**o** | wel- (reaching, wondering) |
-| shol**a** | shol**o** | shol- (carrying speech) |
+| Opener | Closer |
+|--------|--------|
+| men**a** | men**o** |
+| wel**a** | wel**o** |
+| shol**a** | shol**o** |
 
-The `-a` ending is open, unfinished, reaching forward. It announces: something is beginning.
+The shared onset tells you which pair you are in; the vowel tells you which end of it. And the vowel does its telling with the mouth itself. `a` drops the jaw to the openest posture Phi has, while `o` rounds the lips toward closure. An opener ends open; a closer ends closed. Each frame word performs the boundary it marks.
 
-The `-o` ending is rounded, complete, closing. It announces: something has ended.
-
-This pattern is learnable after a single example. Once you know that `mena` opens and `meno` closes, you can predict that any unfamiliar complementizer ending in `-a` opens and its `-o` variant closes.
+The pattern is learnable after a single example. Once you know that `mena` opens and `meno` closes, you can trust every `-a` to open and every `-o` to close, including in a pair you have never met.
 
 And the pattern reaches past the three pairs. Look down the whole family: `rena` and `kona` also end in `-a`, and neither ever takes a closer: they are pure openers, whose closing is done by something else (the head noun; the call's own sentence-end). Within the frame family the rule has no exceptions: **-a means a frame is opening; -o means one just closed.** The manual's shape rule (ch8 §2) sorts Phi words by size (one syllable for slot particles, longer for everything else), and this is the frame words' own layer of that system: a small closed family of two-syllable words, twinned by vowel wherever they pair.
 
@@ -142,7 +140,7 @@ mia mena thia mena shia wepu meno phaelo meno shelomu
 
 Each `mena` matches exactly one `meno`. The first `meno` closes the innermost open `mena`. The second `meno` closes the next one out.
 
-This is not metaphor. Phi's complementizer system is formally equivalent to balanced parentheses, making the language **structurally unambiguous**. A parser could process Phi sentences deterministically, without backtracking or probabilistic guessing.
+This is not metaphor. Phi's complementizer system is formally equivalent to balanced parentheses, and the language is **structurally unambiguous** because of it. A parser could process Phi sentences deterministically, without backtracking or probabilistic guessing.
 
 ## The vocative boundary
 
@@ -154,7 +152,7 @@ VOC friend. 1SG PROX be
 (Friend, I am here.)
 ```
 
-The vocative is **extra-clausal**. It exists outside the sentence structure entirely, framing who is being addressed but not participating in subject-object-verb relations. Because it is not embedded within a clause, it faces no verb-verb boundary issue and needs no closer.
+The vocative is **extra-clausal**. It stands outside the sentence structure entirely: it names who is being addressed and takes no part in subject-object-verb relations. Because it is not embedded within a clause, it faces no verb-verb boundary issue and needs no closer.
 
 ## Summary: when closers are required
 
@@ -168,10 +166,7 @@ The vocative is **extra-clausal**. It exists outside the sentence structure enti
 
 ## Implications for learning
 
-Understanding *why* the system works this way helps you use it correctly. Always pair openers with closers for `mena`, `wela`, and `shola`; there are no exceptions. Never add a closer after `rena`, since the head noun closes the relative clause on its own. Listen for the vowel shift: when you hear `-a` become `-o`, something has closed. If you are uncertain where a clause ends, trust the closer to tell you explicitly, and nest as deeply as meaning requires, since closers match openers one-to-one and the structure never loses track.
+Understanding *why* the system works this way helps you use it correctly. Always pair openers with closers for `mena`, `wela`, and `shola`; there are no exceptions. Never add a closer after `rena`: the head noun closes the relative clause on its own. Listen for the vowel shift, because when `-a` becomes `-o`, something has closed. And nest fearlessly. Closers match openers one to one, so the structure never loses track, however deep the thought goes.
 
-Learn the pairs and trust the boundaries, and even deeply nested sentences become parseable.
+Learn the pairs and trust the boundaries. The most tangled sentence in this pamphlet opens quietly to a reader who counts its closers.
 
----
-
-*Next: Declarative embedding with `mena`/`meno`*

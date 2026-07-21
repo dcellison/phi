@@ -1,23 +1,14 @@
 # Complementizers and embedded clauses in Phi
 
----
+## A practice companion to the manual
 
-*For learners who want to embed thoughts within thoughts*
+Say `mena` aloud, then `meno`. The first ends with the jaw dropped open on `a`; the second ends with the lips rounding shut on `o`. Phi builds its clause brackets out of that gesture. Three pairs open an inner thought on `-a` and close it on `-o`: `mena`/`meno` for statements, `wela`/`welo` for yes-or-no questions, `shola`/`sholo` for someone's exact words. Beside them stands `rena`, the opener that lets a whole clause describe a noun and lets the noun itself do the closing. Seven words, one gesture, and a listener always hears where a thought inside a thought begins and ends.
 
----
+The definitions live in manual chapter 19. What this pamphlet adds is room to practice: why the closers exist, each pair in depth, the errors English habits invite, and exercises with an answer key. The relative clauses pamphlet gives `rena` a treatment of its own; here it appears where its closer-free design explains the others.
 
-This pamphlet covers Phi's complementizer system: the pairs of words that let speakers nest statements, questions, and quotations inside larger sentences. If relative clauses let us describe *what* something is by *what it does*, complementizers let us express *what we know*, *what we wonder*, and *what others said*.
+Embedding is how one mind carries another in speech. I understand that you feel that the friend is well: three people stand inside that one sentence, and Phi marks every boundary between them, so no one's thought blurs into anyone else's. The pairs were built for that care.
 
-By the end of this guide, you will understand:
-
-- Why Phi uses paired complementizers (openers and closers)
-- How `mena`/`meno` embeds statements you know, believe, or report
-- How `wela`/`welo` embeds questions you wonder about or ask
-- How `shola`/`sholo` preserves someone's exact words
-- How these systems interact with each other and with relative clauses
-- How to avoid common errors that come from English interference
-
-This pamphlet assumes familiarity with Phi's basic word order (SOV), the particle system, and the concept of relative clauses. It is designed as a companion to Chapter 19 of the manual, providing the extended practice and explanation that some learners need to achieve fluency with embedded structures.
+This pamphlet assumes the particle system in manual chapter 9, the sentence shapes of chapter 10, and tense marking from chapter 14. It is a companion to manual Part V, chapter 19.
 
 ---
 
@@ -35,4 +26,4 @@ This pamphlet assumes familiarity with Phi's basic word order (SOV), the particl
 
 ---
 
-*"To speak of what we know, we must first mark where knowing begins and ends."*
+*To speak of what we know, we must first mark where knowing begins and ends.*
