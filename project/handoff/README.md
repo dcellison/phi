@@ -28,7 +28,7 @@ The execution sequence is settled:
 2. Finish SEM-09D with the current documents; all nine pamphlets are current.
 3. Return to the Phi book at chapter 8 after that sweep.
 
-The immediate task is the current-documents sweep, running as directory batches: the grammar references are done, and `documents/reference/` is next (its taught patterns still carry the "How you know" shorthand). The teaching review's resume point tracks the batches.
+The immediate task is the current-documents sweep, running as directory batches: the grammar references and `documents/reference/` are done, and `documents/design/` with `documents/modules/` is next, then the evaluation corpus. The teaching review's resume point tracks the batches and holds the open `nai`-order fork awaiting a canon ruling.
 
 ## The maintainer's working contract
 

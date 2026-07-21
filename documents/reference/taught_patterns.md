@@ -105,8 +105,8 @@ friend name NAME sulae be.
 **P14 · Politeness first.** `pi` at the very front, before even `wa` — respect announced before anything else. Taught in ch. 14 and 16.
 
 ```
-pi wa mia po mua luphore wishe.
-POL Q 1SG POT LOC river swim.
+pi wa mia mua luphore po wishe.
+POL Q 1SG LOC river POT swim.
 (Please — may I swim in the river?)
 ```
 
@@ -223,8 +223,8 @@ IMP door close.
 **P28 · May and must.** `po [verb]` may, can · `na [verb]` must — and stacked with negation: `po ma` cannot, `na ma` must not. Taught in ch. 14.
 
 ```
-lopia mua luphore sonu na ma wishe.
-child LOC river alone NEC NEG swim.
+lopia mua luphore na ma sonu wishe.
+child LOC river NEC NEG alone swim.
 (The child must not swim in the river alone.)
 ```
 
@@ -267,9 +267,9 @@ child INT.COMP rain FUT fall INT.COMP.CLOSE NEG know.
 **P33 · The quotation.** `shola [exact words] sholo` — the words themselves, pronouns, tenses, and commands intact; the frame closes with a verb of speaking or hearing. Taught in ch. 21.
 
 ```
-mia shola muila theula howela sholo ro remo.
-1SG QUOT.COMP earth UNIV receive QUOT.COMP.CLOSE HAB think.
-(I still think over her words: the earth receives all.)
+mia shola muila theula howela sholo ro haolu.
+1SG QUOT.COMP earth UNIV receive QUOT.COMP.CLOSE HAB speak.
+(I still say her words: the earth receives all.)
 ```
 
 **P34 · The describing clause.** `rena [clause] [noun]` — a little sentence missing its doer, and the noun steps in at the end to be it; no closer needed. Taught in ch. 22.
@@ -300,12 +300,12 @@ COND IRR 1SG bird be. 1SG fly.
 
 ## X. Evidence
 
-**P37 · How you know.** `hi` witnessed · `ke` inferred · `ti` told · `ho` assumed — the evidentials stand in the Slot 1 block and make a claimed source explicit; the unmarked sentence claims no source at all. Taught in ch. 24.
+**P37 · The claimed source.** `hi` witnessed · `ke` inferred · `ti` told · `ho` assumed — the evidentials stand in the Slot 1 block and make a claimed source explicit; the unmarked sentence claims no source at all. Taught in ch. 24.
 
 ```
 mia suliwa hi nila.
 1SG snake DIR see.
-(I saw the snake myself.)
+(I see the snake myself.)
 ```
 
 ## XI. The wish

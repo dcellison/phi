@@ -29,7 +29,7 @@
 0.47	1	wenu	tonic	content	weno	when	function	5
 0.47	1	phelu	hold	content	phelo	light	content	216
 0.47	1	philu	candle	content	phelu	hold	content	213
-0.47	1	phaelo	feel	content	phaelu	peaceful	content	163
+0.47	1	phaelo	feel	content	phaelu	peaceful	content	164
 0.47	1	loa	give	content	lua	lovely	interjection	156
 0.47	1	kelu	become	content	kelo	frame	content	150
 0.47	1	welao	good	content	wilao	long-for	content	128
@@ -168,7 +168,7 @@
 0.50	1	phao	parent	content	shao	three-group	content	180
 0.50	1	melu	friend	content	nelu	revere	content	176
 0.50	1	wheo	elder	content	theo	read	content	171
-0.50	1	shaelo	brave	content	phaelo	feel	content	162
+0.50	1	shaelo	brave	content	phaelo	feel	content	163
 0.50	1	whalo	large	content	thalo	walk	content	138
 0.50	1	thinu	put	content	thimu	time	content	133
 0.50	1	shelu	book	content	selu	flow	content	125

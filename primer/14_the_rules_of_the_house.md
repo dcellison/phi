@@ -18,11 +18,11 @@
 
 ## II
 
-> **thia po ponu phae.**
-> **lopia po mua thepalu wile.**
-> **lohau po mua thepalu wile.**
+> **thia ponu po phae.**
+> **lopia mua thepalu po wile.**
+> **lohau mua thepalu po wile.**
 > **lopia na nulae.**
-> **lohau na mua womu nulae.**
+> **lohau mua womu na nulae.**
 
 | new word | say it | it means |
 |---|---|---|
@@ -37,7 +37,7 @@
 > phao: **no mua wonepa ma thalo.**
 > **lohau nekuma po pilu.**
 > phao: **no nekuma ma pilu.**
-> **lopia mua luphore sonu na ma wishe.**
+> **lopia mua luphore na ma sonu wishe.**
 
 | new word | say it | it means |
 |---|---|---|
@@ -49,7 +49,7 @@
 
 ## IV
 
-> lopia: **pi wa mia po mua luphore wishe.** *That first little word is politeness itself; chapter sixteen makes it formal. The child is already using it, because the child wants something.*
+> lopia: **pi wa mia mua luphore po wishe.** *That first little word is politeness itself; chapter sixteen makes it formal. The child is already using it, because the child wants something.*
 > phao: **lia. lo mia kau luphore wepu. thia po wishe.**
 > lopia: **mea.**
 > **lo mia kau luphore wepu.**
