@@ -46,7 +46,7 @@ Phi places relative clauses before the noun they modify:
 ```
 rena mia to theo shelu mioru nai
 REL 1SG PST read book beautiful be
-(the book that i read is beautiful.)
+(The book that I read is beautiful.)
 ```
 
 The relative clause `rena mia to theo` ("that I read") comes first, announced by the relativizer `rena`. Then the noun `shelu` ("book") arrives, receiving all that description. Finally, the main clause continues with `mioru nai` ("is beautiful").
@@ -102,15 +102,8 @@ English is actually the odd one out typologically. It has relatively free verb p
 
 Phi, by committing fully to the modifier-first principle, achieves the consistency that English lacks. Learning Phi's relatives is learning a system that hundreds of millions of Japanese, Korean, and Turkish speakers find natural.
 
-## What you'll learn in this pamphlet
+## Where this leads
 
-The rest of this pamphlet will give you:
+The next section takes `rena` apart mechanically: its position, its missing closer, and the gap. Two sections of examples follow, headed and headless, then the advanced patterns, the errors English invites, and exercises with a full answer key.
 
-1. A detailed understanding of how `rena` works mechanically
-2. Abundant examples of headed relative clauses (where the noun is explicit)
-3. Exploration of headless relative clauses (where the noun is implied)
-4. Advanced patterns including nested relatives and interactions with other clause types
-5. Common errors and how to avoid them
-6. Practice exercises to build fluency
-
-By the end, you should be able to construct and understand relative clauses in Phi.
+Somewhere along the way the strangeness quietly reverses. English has you meet the stranger first and learn about them afterward; Phi introduces no one it has not already described.

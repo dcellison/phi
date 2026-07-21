@@ -6,7 +6,7 @@ The relativizer `rena` announces that what follows is a descriptive clause. It's
 
 ### Sound symbolism
 
-The rolling `r` links and the grounding nasal `na` anchors: `rena` opens a descriptive space and holds it until the head noun arrives to close it.
+Say it aloud: a tapped `r`, two open syllables, quickly gone. What `rena` opens is not in its sound but in its grammar: a descriptive space that stays open until the head noun arrives to close it.
 
 ### Gloss and category
 
@@ -78,7 +78,7 @@ The answer lies in position. Embedded statements with `mena` are followed by the
 ```
 mia mena shia to wepu meno sano
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE know
-(i know that they went.)
+(I know that they went.)
 ```
 
 Without `meno`, the sentence would be ambiguous: where does the embedded clause end? Which verb belongs to which clause?
@@ -88,10 +88,10 @@ Relative clauses with `rena` are followed by a noun:
 ```
 rena shia to kealo nophi mioru nai
 REL 3SG PST create story beautiful be
-(the story that they created is beautiful.)
+(The story that they created is beautiful.)
 ```
 
-The noun `nophi` ("story") itself signals that the relative clause has ended. Not every noun does this: a noun inside the clause is one of the clause's own arguments, as in `rena nophi kealo miona` (the person who creates stories), where `nophi` is the clause's object. The head is the noun that arrives after the clause is complete, the first noun after the clause's verb. That noun IS the closer.
+The noun `nophi` ("story") itself signals that the relative clause has ended. Not every noun does this: a noun inside the clause is one of the clause's own arguments, as in `rena nophi kealo miona` (the person who creates stories), where `nophi` is the clause's object. The head is the noun that arrives after the clause is complete, the first noun after the clause's verb. That noun *is* the closer.
 
 This is the advantage of pre-nominal relatives: they're self-delimiting. The structure has a built-in endpoint.
 
@@ -112,6 +112,8 @@ In a relative clause, the head noun plays a role inside the clause's action. In 
 
 But the noun itself appears outside the clause, at the end. Inside the clause, there's a gap: an empty position where the noun would be if it were a normal sentence.
 
+Think of it as a place laid at the table before the guest arrives. The clause sets everything around one empty seat, and the head noun, when it comes, sits down exactly there.
+
 ### Gap in subject position
 
 When the head noun is the subject of the relative clause's action:
@@ -119,27 +121,27 @@ When the head noun is the subject of the relative clause's action:
 ```
 rena ___ nophi kealo miona phue nai
 REL [gap] story create person wise be
-(the person who creates stories is wise.)
+(The person who creates stories is wise.)
 ```
 
 Analysis:
 - The gap is in subject position (before the object and verb)
 - The person is the one who creates stories
 - If this were a standalone sentence: "miona nophi kealo" (a person creates stories)
-- In the relative clause, `miona` moves to the end, leaving a gap
+- In the relative clause, the subject's seat stands empty, and `miona` waits outside as the head
 
 More examples:
 
 ```
 rena ___ to shua miona ha nai
 REL [gap] PST come person PROX be
-(the person who came is here.)
+(The person who came is here.)
 ```
 
 ```
 rena ___ mioru nai peloru thuroa
 REL [gap] beautiful be flower grow
-(the flower that is beautiful grows.)
+(The flower that is beautiful grows.)
 ```
 
 ### Gap in object position
@@ -149,27 +151,27 @@ When the head noun is the object of the relative clause's action:
 ```
 mia rena mia ___ to nila shelu lothea
 1SG REL 1SG [gap] PST see book love
-(i love the book that i saw.)
+(I love the book that I saw.)
 ```
 
 Analysis:
 - The gap is in object position (after subject, before tense+verb)
 - The book is what was seen
-- If this were a standalone sentence: "mia shelu to nila" (i saw a book)
-- In the relative clause, `shelu` moves to the end, leaving a gap where the object was
+- If this were a standalone sentence: "mia shelu to nila" (I saw a book)
+- In the relative clause, the object's seat stands empty, and `shelu` waits outside as the head
 
 More examples:
 
 ```
 rena thia ___ to kealo nophi mioru nai
 REL 2SG [gap] PST create story beautiful be
-(the story that you created is beautiful.)
+(The story that you created is beautiful.)
 ```
 
 ```
 mia rena shia ___ thumela lopia sano
 1SG REL 3SG [gap] teach child know
-(i know the child whom they teach.)
+(I know the child whom they teach.)
 ```
 
 ### Gap in oblique position
@@ -179,7 +181,7 @@ When the head noun is part of a prepositional phrase inside the relative clause:
 ```
 rena mia mua ___ to thalo shelira mioru nai
 REL 1SG LOC [gap] PST walk forest beautiful be
-(the forest that i walked in is beautiful.)
+(The forest that I walked in is beautiful.)
 ```
 
 Analysis:
@@ -192,7 +194,7 @@ More examples:
 ```
 rena shia wei ___ to haolu miona ha nai
 REL 3SG DAT [gap] PST speak person PROX be
-(the person whom they spoke to is here.)
+(The person whom they spoke to is here.)
 ```
 
 ### No case marking
@@ -222,7 +224,7 @@ rena to shua miona
 ```
 rena mia mua shelira to nila ruela
 ```
-→ "mia mua shelira ruela to nila" (i saw a path in the forest)
+→ "mia mua shelira ruela to nila" (I saw a path in the forest)
 → gap is in... wait, which noun is the head?
 
 This last example shows that you must wait for the head noun to know what's gapped. The word `ruela` (path) at the end is the head, so the path is what was seen. The forest (`shelira`) is inside the clause, not gapped.

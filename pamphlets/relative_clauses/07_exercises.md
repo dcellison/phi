@@ -1,5 +1,7 @@
 # Part 7: Practice exercises
 
+The order becomes yours by use. Work each set aloud; the answer key closes the file, and wherever your Phi differs from it, check the gap first.
+
 ## Translation: English to Phi
 
 Translate these sentences into Phi. All use relative clauses.
@@ -185,7 +187,7 @@ Example:
 ```
 mia rena shea thumela miona sano.
 1SG REL peace teach person know.
-(i know a person who teaches peace.)
+(I know a person who teaches peace.)
 ```
 
 Your turn:
@@ -201,7 +203,7 @@ Example:
 ```
 rena mia mua to thuroa shelira mioru nai.
 REL 1SG LOC PST grow forest beautiful be.
-(the forest where i grew up is beautiful.)
+(The forest where I grew up is beautiful.)
 ```
 
 Your turn:
@@ -246,7 +248,7 @@ Write a 5-sentence story that uses at least 3 relative clauses.
 2. I read the story that you created.
 3. The flower that is beautiful grows.
 4. I know the person whom I saw.
-5. One who creates peace is wise.
+5. The person who creates peace is wise.
 6. The home that is in the forest is beautiful.
 7. I understand the story that they told me.
 8. One who helps receives help.
@@ -255,6 +257,7 @@ Write a 5-sentence story that uses at least 3 relative clauses.
 
 ### Two to one (Phi answers)
 
+1. `rena to shua miona mia melu nai`
 2. `rena mia to theo shelu serao nai`
 3. `mia rena shia to kealo nophi lothea`
 4. `rena mua thepalu thuroa peloru mioru nai`
@@ -265,13 +268,21 @@ Write a 5-sentence story that uses at least 3 relative clauses.
 9. `mia nia rena mua shelira nai ruela to thalo`
 10. `rena mia to naphe miona ha nai`
 
+### One to two (sample answers; several splits are possible)
+
+1. `mia miona to nila. ha miona mia melu nai.` ("I saw a person. This person is my friend.")
+2. `shia nophi to kealo. mia ha nophi lothea.` ("They created a story. I love this story.")
+3. `shiro mua shelira thuroa. ha shiro whalo nai.` ("A tree grows in the forest. This tree is large.")
+4. `miona nophi kealo. mia rena ha miona to thumela lopia sano.` ("A person creates stories. I know the child whom this person taught.")
+5. `miona mena shea welao nai meno phaelo. shia ha nai.` ("A person feels that peace is good. They are here.")
+
 ### Gap identification
 
 1. Subject (the person creates)
 2. Object (I read the book)
-3. Oblique/locative (I walked in the forest; the stranded `mua` marks the gap)
+3. Oblique/locative (I walked in the forest; the `mua` with no object after it marks the gap)
 4. Subject (the flower is beautiful)
-5. Oblique/recipient (they spoke to the person; the stranded `wei` marks the gap)
+5. Oblique/recipient (they spoke to the person; the `wei` with no object after it marks the gap)
 6. Subject (the tree grows)
 7. Object (I saw the home)
 8. Subject (the person taught the child)
@@ -279,10 +290,10 @@ Write a 5-sentence story that uses at least 3 relative clauses.
 ### Error correction
 
 1. Wrong order → `rena mia to nila peloru mioru nai`
-2. Dropped preposition (it stays; its object is gapped) → `rena mia mua to thalo ruela mioru nai` ("the path that i walked on is beautiful")
+2. Dropped preposition (it stays; its object is gapped) → `rena mia mua to thalo ruela mioru nai` ("The path that I walked on is beautiful")
 3. False closer → `rena mia to theo shelu mioru nai`
 4. Word order/structure → `mia rena to shua miona sano`
 5. `rena` at end → `mia rena mia to nila miona sano`
-6. The `mia` has no role in the clause; `mioru nai` takes no argument beyond the gap → `rena mioru nai peloru thuroa` ("the flower that is beautiful grows")
-7. No gap: the clause is already complete (`shia` subject, `nophi` object), so a head noun would have no role to fill. Drop the clause-internal subject and the head fills it → `rena nophi kealo miona phue nai` ("the person who creates stories is wise")
-8. The preposition never moves out of the clause; it stays, and its object is gapped → `mia rena shia wei to haolu miona sano` ("i know the person whom they spoke to")
+6. The `mia` has no role in the clause; `mioru nai` takes no argument beyond the gap → `rena mioru nai peloru thuroa` ("The flower that is beautiful grows")
+7. No gap: the clause is already complete (`shia` subject, `nophi` object), so a head noun would have no role to fill. Drop the clause-internal subject and the head fills it → `rena nophi kealo miona phue nai` ("The person who creates stories is wise")
+8. The preposition never moves out of the clause; it stays, and its object is gapped → `mia rena shia wei to haolu miona sano` ("I know the person whom they spoke to")

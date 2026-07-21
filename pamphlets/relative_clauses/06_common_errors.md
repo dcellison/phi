@@ -18,7 +18,7 @@ This puts "book" before the relative clause, following English order. In Phi, th
 ```
 rena mia to theo shelu
 REL 1SG PST read book
-(the book that i read)
+(the book that I read)
 ```
 
 The entire relative clause comes first; the noun arrives last.
@@ -41,7 +41,7 @@ Attempting to use `rena` where the gap should be. But `rena` is a clause marker,
 ```
 rena mia to nila shelu
 REL 1SG PST see book
-(the book that i saw)
+(the book that I saw)
 ```
 
 The gap where "book" would be is simply empty. `rena` marks the start, not the position.
@@ -56,17 +56,17 @@ After processing a complex relative clause, learners sometimes forget to produce
 ```
 rena shia to kealo mioru nai
 REL 3SG PST create beautiful be
-(what they created is beautiful.)
+(What they created is beautiful.)
 ```
 
 **What you meant:**
 ```
 rena shia to kealo nophi mioru nai
 REL 3SG PST create story beautiful be
-(the story that they created is beautiful.)
+(The story that they created is beautiful.)
 ```
 
-The headless form is grammatical (chapter 4 is full of them) but it says something more general than you intended. The error is not ungrammaticality; it is leaving your listener to guess a referent you had in mind. After every relative clause, ask: "Did I name what's being described, or is it truly obvious from context?"
+The headless form is grammatical (Part 4 is full of them) but it says something more general than you intended. The error is not ungrammaticality; it is leaving your listener to guess a referent you had in mind. After every relative clause, ask: "Did I name what's being described, or is it truly obvious from context?"
 
 ### Error 4: Adding an unnecessary closer
 
@@ -84,7 +84,7 @@ There is no `reno`. Relative clauses don't have closers.
 ```
 rena mia to theo shelu
 REL 1SG PST read book
-(the book that i read)
+(the book that I read)
 ```
 
 The noun itself closes the clause.
@@ -98,12 +98,12 @@ Learners sometimes read the clause-internal pronoun with English habits, taking 
 ```
 rena mia nila miona
 REL 1SG see person
-(the person whom i see)
+(the person whom I see)
 ```
 
-A clause-initial bare pronoun is the subject. `mia` is the one seeing, the gap is in object position, and the head `miona` is what is seen. The phrase can only mean "the person whom i see." Reading it as "the person who sees me" imports English order into a clause that does not use it.
+A clause-initial bare pronoun is the subject. `mia` is the one seeing, the gap is in object position, and the head `miona` is what is seen. The phrase can only mean "the person whom I see." Reading it as "the person who sees me" imports English order into a clause that does not use it.
 
-Tense does not help here. `rena mia to nila miona` ("the person whom i saw") changes when the seeing happened, not who sees whom. Role comes from position, never from particles.
+Tense does not help here. `rena mia to nila miona` ("the person whom I saw") changes when the seeing happened, not who sees whom. Role comes from position, never from particles.
 
 When a pronoun immediately follows `rena`, treat it as the subject of the description, then look for the gap among the remaining roles.
 
@@ -116,7 +116,7 @@ Long relative clauses can overload working memory:
 ```
 rena mia mua serao shelira nia mioru ruela kau to thalo womu
 REL 1SG LOC old forest ON beautiful path ALL PST walk home
-(the home that i walked to on a beautiful path in the old forest)
+(the home that I walked to on a beautiful path in the old forest)
 ```
 
 By the time you reach `womu`, you may have forgotten what role it plays.
@@ -163,7 +163,7 @@ When parsing relative clauses:
 
 ### Checklist after producing a relative clause
 
-1. **Did I start with `rena`?** (Or deliberately omit it for a headless relative?)
+1. **Did I start with `rena`?** (Headed or headless, the relativizer begins the clause.)
 2. **Is there exactly one `rena`?** (Not zero, not two)
 3. **Is there a noun at the end of the clause?** (Unless headless)
 4. **Does the sentence have a main verb?** (The relative clause isn't the whole sentence)
@@ -206,10 +206,12 @@ Find and fix the errors in these sentences (careful: one of them is merely vague
 
 1. Noun before clause. Fix: `rena mia to theo shelu mioru nai`
 
-2. Dropped preposition. When the relativized noun is a preposition's object, the preposition stays in place and its object is gapped. Fix: `mia rena mia mua to thalo shelira sano` ("i know the forest that i walked in")
+2. Dropped preposition. When the relativized noun is a preposition's object, the preposition stays in place and its object is gapped. Fix: `mia rena mia mua to thalo shelira sano` ("I know the forest that I walked in")
 
 3. False closer `reno`. Fix: `rena mia to kealo nophi mioru nai`
 
-4. `rena` repeated as if it were a pronoun. `rena` appears once, at the beginning; the gap stays empty. Fix: `rena mia to nila shelu mioru nai` ("the book that i saw is beautiful")
+4. `rena` repeated as if it were a pronoun. `rena` appears once, at the beginning; the gap stays empty. Fix: `rena mia to nila shelu mioru nai` ("The book that I saw is beautiful")
 
-5. Not an error: `rena shia to thumela` is a valid headless relative, "i know the one whom they taught." The risk is vagueness, not ungrammaticality. If you meant the child, name the head: `mia rena shia to thumela lopia sano` ("i know the child whom they taught")
+5. Not an error: `rena shia to thumela` is a valid headless relative, "I know the one whom they taught." The risk is vagueness, not ungrammaticality. If you meant the child, name the head: `mia rena shia to thumela lopia sano` ("I know the child whom they taught")
+
+Most of these errors are English trying to help. Thank it, set it down, and say `rena` first.
