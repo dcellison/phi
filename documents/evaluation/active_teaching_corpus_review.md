@@ -545,7 +545,7 @@ All fourteen files under `documents/evaluation/` are reviewed, the sweep's last 
 
 ### Lexical and canonical result
 
-The pass adds no root and leaves no lexical question open. Its verification confirms 1,275 entries, 393 module memberships, the 760-pair minimal-pair baseline, and every register state the batch cites. The repaired dialogue lines all enforce rulings the corpus predates: complement order, the `wa` and gap-word exclusion, adjunct position, counted-time placement, Slot 2 nesting, and `ma` at the verb.
+The pass adds no root and leaves no lexical question open. Its verification confirms 1,275 entries, 393 module memberships, the 760-pair minimal-pair baseline, and every register state the batch cites. The repaired dialogue lines all enforce rulings the corpus predates: complement order, the `wa` and gap-word exclusion, adjunct position, counted-time placement, Slot 2 nesting, and `ma` at the verb. A follow-up pass unwraps the four embedded content questions that wore the `wela ... welo` frame against ch19's bare-embedding rule, three in the test corpus and one in prompt 1B.
 
 ### Resume point
 

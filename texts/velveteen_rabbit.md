@@ -409,8 +409,8 @@ QUOT.COMP 2SG eye fall. 2SG PL joint free become. 2SG INTS wear down QUOT.COMP.C
 ("Your eyes fall out. Your joints grow loose. You become very worn.")
 williams: "and your eyes drop out and you get loose in the joints and very shabby."
 
-shola whekai lo ha thena ru thiku nai sholo to haolu.
-QUOT.COMP CONTR PL PROX thing INTS small be QUOT.COMP.CLOSE PST speak.
+shola whekai ha lo thena ru thiku nai sholo to haolu.
+QUOT.COMP CONTR PROX PL thing INTS small be QUOT.COMP.CLOSE PST speak.
 ("But these things are altogether small.")
 williams: "But these things don't matter at all,"
 
@@ -490,8 +490,8 @@ PROX think sadness PST bring.
 (That thought brought sadness.)
 williams: "was rather sad."
 
-shia mena miso whuo lo ha kipona thena shewo po kelu meno to pula.
-3SG DECL.COMP REFL WITHOUT PL PROX pain thing true POT become DECL.COMP.CLOSE PST wish.
+shia mena miso whuo ha lo kipona thena shewo po kelu meno to pula.
+3SG DECL.COMP REFL WITHOUT PROX PL pain thing true POT become DECL.COMP.CLOSE PST wish.
 (He wished that he could become Real without these hurting things.)
 williams: "He wished that he could become it without these uncomfortable things happening to him."
 ```
@@ -637,8 +637,8 @@ shia we mua lopia tholu lo laeno lunei shemu to wilao.
 (He missed, too, the long moon-lit hours in the nursery.)
 williams: "And he missed, too, those long moonlight hours in the nursery,"
 
-mua lo ha shemu theula womu maeli to nai.
-LOC PL PROX moment UNIV home quiet PST be.
+mua ha lo shemu theula womu maeli to nai.
+LOC PROX PL moment UNIV home quiet PST be.
 (In those hours all the house was quiet.)
 williams: "when all the house was silent,"
 
@@ -909,8 +909,8 @@ PL 3SG ANT long time PST CESS bright give.
 (They had long ago ceased giving light.)
 williams: "that had long ago lost their polish,"
 
-muo lo ha mirae nulo sano nela mioru nila to shua.
-INTO PL PROX eye deep know COORD beautiful see PST come.
+muo ha lo mirae nulo sano nela mioru nila to shua.
+INTO PROX PL eye deep know COORD beautiful see PST come.
 (Into those eyes there came a look of deep knowing and of beauty.)
 williams: "there came a look of wisdom and beauty,"
 
@@ -1221,8 +1221,8 @@ one amused new tingling THROUGH 3SG PST run.
 (For a funny new tingling ran through him.)
 williams: "for a funny new tickly feeling ran through him,"
 
-shia mena miso wei phea lo ha tupiwa tupi theula muila thena so loa meno to phaelo.
-3SG DECL.COMP REFL DAT AS PL PROX rabbit jump UNIV earth thing FUT give DECL.COMP.CLOSE PST feel.
+shia mena miso wei phea ha lo tupiwa tupi theula muila thena so loa meno to phaelo.
+3SG DECL.COMP REFL DAT AS PROX PL rabbit jump UNIV earth thing FUT give DECL.COMP.CLOSE PST feel.
 (He felt that he would give every thing in the world to jump the way these rabbits jumped.)
 williams: "and he felt he would give anything in the world to be able to jump about like these rabbits did."
 
@@ -1518,8 +1518,8 @@ DUR child middle sleep rabbit ALL pillow PST quiet come.
 (While the child lay half asleep, the rabbit crept close to the pillow.)
 williams: "and while the Boy lay half asleep he crept up close to the pillow"
 
-shia muo lopia shonui lo ha thena to whishela.
-3SG INTO child ear PL PROX thing PST whisper.
+shia muo lopia shonui ha lo thena to whishela.
+3SG INTO child ear PROX PL thing PST whisper.
 (And whispered these things into his ear.)
 williams: "and whispered them in his ear."
 
@@ -1840,8 +1840,8 @@ shia mua shelira lo maeli howai to nila.
 (He saw the quiet evenings in the wood.)
 williams: "the quiet evenings in the wood"
 
-mua lo ha howai shia thoa phero to ruemi. lo thiku nireku nia shia paloi to rashelo.
-LOC PL PROX evening 3SG AMONG fern PST lie down. PL small insect ON 3SG foot PST run.
+mua ha lo howai shia thoa phero to ruemi. lo thiku nireku nia shia paloi to rashelo.
+LOC PROX PL evening 3SG AMONG fern PST lie down. PL small insect ON 3SG foot PST run.
 (In those evenings he lay in the bracken, and the little insects ran over his paws.)
 williams: "when he lay in the bracken and the little ants ran over his paws;"
 

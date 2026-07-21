@@ -217,8 +217,8 @@ LOC DIST table PL 1SG morning meal PST PFV PASS spread.
 (On that table our breakfast had been spread for us.)
 morris: "where our breakfast was spread for us;"
 
-sui lo mia meilo ta miona thue lo ra tholupi mue lona lokue to reshi wepu.
-DUR PL 1SG sit one person THROUGH PL DIST room OUT.OF meeting place PST fast go.
+sui lo mia meilo ta miona thue ra lo tholupi mue lona lokue to reshi wepu.
+DUR PL 1SG sit one person THROUGH DIST PL room OUT.OF meeting place PST fast go.
 (As we sat down, one of them hurried out of the hall through those rooms.)
 morris: "and, as we sat down, one of them hurried out by the chambers aforesaid,"
 
@@ -490,8 +490,8 @@ mia to pa shane.
 (I started off.)
 morris: "I started off:"
 
-mua mia lopia thimu nela pheo ra laeno thimu pai theula shelira rena koma se kati shiro to nai. lo theru thiku shiro thoa lo ra shiro to whano.
-LOC 1SG child time COORD POST DIST long time NEAR UNIV forest REL head PASS cut tree PST be. PL thick small tree AMONG PL DIST tree PST stand.
+mua mia lopia thimu nela pheo ra laeno thimu pai theula shelira rena koma se kati shiro to nai. lo theru thiku shiro thoa ra lo shiro to whano.
+LOC 1SG child time COORD POST DIST long time NEAR UNIV forest REL head PASS cut tree PST be. PL thick small tree AMONG DIST PL tree PST stand.
 ("In my child-time, and long after, almost the whole forest was trees with their heads cut, and dense small trees stood among them.")
 morris: "\"When I was a boy, and for long after, ... the Forest was almost wholly made up of pollard hornbeams mixed with holly thickets."
 
