@@ -46,7 +46,7 @@ The first asserts that they are home and identifies background expectation as th
 
 ### Claims about another person
 
-Source marking can make an interpretation of another person's state easier to inspect. It does not make the interpretation courteous or correct.
+Source marking can make an interpretation of another person's state easier to inspect.
 
 ```
 thia ho shea nai.
