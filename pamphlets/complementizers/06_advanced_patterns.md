@@ -1,6 +1,6 @@
 # Advanced patterns and nesting
 
-This section explores complex structures: nested embeddings, interactions between complementizer types, complementizers inside relative clauses, and multi-level constructions. These patterns are less common in everyday speech but essential for expressing sophisticated thoughts.
+Thought does not stop at one level of holding. You believe that a friend knows something; you wonder whether they said it; you carry their exact words about what someone else felt. This section takes the frames into that deeper water: nesting, mixing the three types, and the traffic between complement frames and relative clauses. The patterns are less common in everyday speech, but when a conversation turns on who knows what, and who said so, nothing else will do.
 
 ## Nested declarative clauses
 
@@ -115,15 +115,17 @@ Here, the relative clause contains an embedded declarative. The structure:
 [rena mia mena [___ towe nai] meno sano] miona
 ```
 
-The head noun `miona` closes the relative clause and fills the gap inside the embedded clause: the relativized element can sit arbitrarily deep. The `mena`/`meno` pair is fully contained within the relative clause.
+The head noun `miona` closes the relative clause and supplies the missing subject inside the embedded statement: the gap a relative clause leaves may sit inside a complement frame, as it does here. The `mena`/`meno` pair is fully contained within the relative clause.
 
 ### Relative clause with `wela`/`welo`
 
 ```
-rena thia wela towe nai welo phaelo miona
-REL 2SG INT.COMP well be INT.COMP.CLOSE feel person
-(the person about whom you wonder whether (they are) well)
+rena wela melu so turema welo thilou miona
+REL INT.COMP friend FUT return INT.COMP.CLOSE inquire person
+(the person who asks whether the friend will return)
 ```
+
+Here the gap is the asker: the missing subject of `thilou`, supplied by the head noun.
 
 ### Relative clause with `shola`/`sholo`
 
@@ -163,8 +165,8 @@ mia wela rena mia to nila shelu shewo nai welo phaelo
 ### `shola`/`sholo` containing relative clause
 
 ```
-shia shola rena mia kealo nophi mioru nai sholo to haolu
-3SG QUOT.COMP REL 1SG create story beautiful be QUOT.COMP.CLOSE PST speak
+shia shola rena mia to kealo nophi mioru nai sholo to haolu
+3SG QUOT.COMP REL 1SG PST create story beautiful be QUOT.COMP.CLOSE PST speak
 (They said: "The story that I created is beautiful.")
 ```
 
@@ -246,6 +248,5 @@ The advanced patterns show the regularity of Phi's complementizer system. Nestin
 
 In practice, prioritize clarity over complexity. The system supports whatever depth meaning requires, but simpler expression usually serves communication better.
 
----
+There is a reason to learn these depths even so. When it matters exactly whose belief, whose question, and whose words are in play, the frames can say it: a doubt stays a doubt, and borrowed words stay visibly borrowed. However deep the nesting goes, each closer steps the sentence back out one level, until the last thought standing is your own.
 
-*Next: Common errors and how to avoid them*

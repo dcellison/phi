@@ -7,7 +7,7 @@ When we speak, we often need to express not just simple actions, but thoughts *a
 **Simple:** *She left.*
 **Embedded:** *I know that she left.*
 
-In the second sentence, "she left" is no longer a standalone statement. It has become the *content* of knowing, tucked inside a larger sentence. The embedded clause "that she left" functions as what I know, the object of my mental verb.
+In the second sentence, "she left" is no longer a standalone statement. It has become the *content* of knowing, tucked inside a larger sentence. The embedded clause "that she left" is what I know, the object of my mental verb.
 
 This lets us take a complete thought and make it part of a larger thought. We can report what others said, wonder about possibilities, express beliefs, and stack knowledge upon knowledge, all through embedding.
 
@@ -17,7 +17,7 @@ Languages generally embed three kinds of content. The first is statements: facts
 
 English handles these differently. Statements use "that" (often optional). Questions use "whether" or "if." Quotations use quotation marks in writing, and intonation shifts in speech.
 
-Phi handles all three with the same elegant system: paired complementizers that open and close the embedded material, like spoken brackets.
+Phi handles all three with one system: paired complementizers that open and close the embedded material, like spoken brackets.
 
 ## How English does it
 
@@ -49,7 +49,7 @@ Where does each embedded clause end? English speakers parse this through accumul
 
 ## How Phi does it differently
 
-Phi makes all boundaries explicit. Every embedded clause has both an opener and a closer, functioning as spoken brackets:
+Phi makes all boundaries explicit. Every embedded clause gets both an opener and a closer: spoken brackets.
 
 | Type | Opener | Closer | Function |
 |------|--------|--------|----------|
@@ -93,7 +93,7 @@ mia mena shia to wepu meno shelomu
 (I understand that they left.)
 ```
 
-Now the boundary is explicit. The `meno` announces: the embedded clause has ended. What follows is the main verb.
+Now the boundary is explicit. The `meno` says so: the embedded clause has ended. What follows is the main verb.
 
 This is especially important when clauses nest:
 
@@ -112,9 +112,7 @@ Phi uses a consistent phonetic pattern for complementizer pairs:
 - **Openers end in `-a`**: mena, wela, shola
 - **Closers end in `-o`**: meno, welo, sholo
 
-The vowel shift from open `a` to rounded `o` enacts closure acoustically. When you hear a complementizer ending in `-a`, you know something is opening. When you hear the same root ending in `-o`, you know it is closing.
-
-The principle is consistent across all three pairs: `-a` opens, `-o` closes. Learn this once, apply it everywhere.
+The vowel shift is not arbitrary decoration. `a` is the openest sound the mouth makes; `o` rounds the lips toward closure. Every time a frame opens or closes, the mouth acts out the boundary: jaw dropped at the opening, lips drawn round and nearly shut at the close. When you hear a complementizer ending in `-a`, something is opening. When you hear the same root ending in `-o`, it just closed.
 
 ## Cross-linguistic perspective
 
@@ -124,34 +122,14 @@ Phi's approach resembles several natural languages more than it resembles Englis
 
 **Korean** similarly places verbs at the end and uses various complementizers and quotative markers to manage embedded clauses.
 
-**Turkish** embeds clauses through nominalization and explicit case marking, maintaining clear structural boundaries in its verb-final sentences.
+**Turkish** embeds clauses through nominalization and explicit case marking, which keeps the structural boundaries of its verb-final sentences clear.
 
 What these languages share is the recognition that when verbs cluster at clause boundaries, explicit marking prevents ambiguity. Phi takes this principle further by systematically pairing every opener with a closer.
 
-**Lisp and formal languages** offer another parallel. In Lisp programming, every opening parenthesis has a matching closing parenthesis: `(outer (inner content) continues)`. Phi's complementizers work similarly, creating balanced, parseable structures. This is not coincidental. Phi was designed with awareness that spoken language can be structurally unambiguous when delimiters match.
+**Lisp and formal languages** offer another parallel. In Lisp programming, every opening parenthesis has a matching closing parenthesis: `(outer (inner content) continues)`. Phi's complementizers work the same way: every opener finds its closer, and the whole parses without guesswork. This is not coincidental. Phi was designed with awareness that spoken language can be structurally unambiguous when delimiters match.
 
-## What you will learn
+## Where this leads
 
-The following sections explore each complementizer pair in depth:
+The next section explains why the closers exist and why `rena` alone does without one. The three sections after it give each pair its own room, and the rest of the pamphlet turns the system into reflex: nesting, the errors English invites, exercises, and a reference page.
 
-**Section 2** explains the logic behind openers and closers, including why relative clauses (`rena`) do not need closers while the others do.
-
-**Section 3** covers `mena`/`meno` (declarative), the most common complementizer pair, used for everything from stating beliefs to reporting speech content.
-
-**Section 4** covers `wela`/`welo` (interrogative), for embedding questions you wonder about, ask, or consider.
-
-**Section 5** covers `shola`/`sholo` (quotative), for preserving someone's exact words rather than paraphrasing their meaning.
-
-**Section 6** explores advanced patterns: nesting, interaction with relative clauses, and complex multi-level structures.
-
-**Section 7** addresses common errors, especially those arising from English interference.
-
-**Section 8** provides exercises for practice, with an answer key.
-
-**Section 9** offers a quick reference appendix summarizing everything in compact form.
-
-By the end, you will be able to construct and understand embedded clauses of any complexity.
-
----
-
-*Next: The logic of openers and closers*
+None of it is decoration. Every belief you report, every doubt you voice, and every word you repeat for someone absent will pass through one of these frames. A speaker who can open and close them without thinking is free to attend to what actually matters: whose thought is being held, and how carefully.

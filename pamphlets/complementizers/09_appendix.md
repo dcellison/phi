@@ -14,6 +14,12 @@
 |------|-------|----------|--------|
 | `rena` | REL | Introduces relative clauses | None (noun closes it) |
 
+## The vocative
+
+| Word | Gloss | Function | Closer |
+|------|-------|----------|--------|
+| `kona` | VOC | Marks direct address, outside the clause | None (extra-clausal) |
+
 ---
 
 ## Basic structures
@@ -88,7 +94,7 @@ REL story create person
 |------|----------|---------|
 | `wa` | Direct question (expects answer) | `wa thia wepu` = Are you leaving? |
 | `wela`/`welo` | Embedded question (content of wondering) | `mia wela thia wepu welo phaelo` = I wonder whether you're leaving. |
-| `lu` | Conditional (if-then) | `lu thia wepu. mia ma towe phaelo` = If you leave, I won't feel well. |
+| `lu` | Conditional (if-then) | `lu thia wepu. mia so ma towe phaelo` = If you leave, I won't feel well. |
 
 ---
 
@@ -175,15 +181,17 @@ Before finalizing an embedded clause:
 
 ## Quick phonetic reference
 
-| Word | IPA | Sound symbolism |
-|------|-----|-----------------|
-| `mena` | /ˈme̞.n̪ä/ | Nasal resonance; inner knowing |
-| `meno` | /ˈme̞.n̪o̞/ | Same root; rounded closure |
-| `wela` | /ˈwe̞.lä/ | Reaching glide; wondering |
-| `welo` | /ˈwe̞.lo̞/ | Same root; resolved |
-| `shola` | /ˈʃo̞.lä/ | Whisper-like; carrying speech |
-| `sholo` | /ˈʃo̞.lo̞/ | Same root; speech complete |
-| `rena` | /ˈre̞.n̪ä/ | Rolling connection; relating |
+| Word | IPA | A way to hear it |
+|------|-----|------------------|
+| `mena` | /ˈme̞.n̪ä/ | closed lips opening onto a held thought |
+| `meno` | /ˈme̞.n̪o̞/ | the same word rounding shut |
+| `wela` | /ˈwe̞.lä/ | a glide reaching outward |
+| `welo` | /ˈwe̞.lo̞/ | the reach closing around its question |
+| `shola` | /ˈʃo̞.lä/ | breath shaped like hushed speech |
+| `sholo` | /ˈʃo̞.lo̞/ | the borrowed words handed back |
+| `rena` | /ˈre̞.n̪ä/ | a tapped r rolling toward its noun |
+
+The right column is a mnemonic, one speaker's way of hearing the family. The sounds carry no hidden meanings; the vowel alternation alone is systematic.
 
 ---
 
@@ -197,7 +205,7 @@ Before finalizing an embedded clause:
 
 **Declarative**: A statement; a clause that asserts something is true or false.
 
-**Embedded clause**: A clause that functions inside another clause, typically as subject or object.
+**Embedded clause**: A clause that functions inside another clause as the object of its verb.
 
 **Head noun**: In a relative clause, the noun being modified by the clause.
 
@@ -219,11 +227,8 @@ Before finalizing an embedded clause:
 
 ## Further study
 
-- **Chapter 19** of the manual: Subordinate Clauses
-- **Chapter 20** of the manual: Relative Clauses
-- **Relative clauses pamphlet**: guide to `rena`
-- **complementizer_reference.md**: Technical grammar reference
-
----
-
-*End of pamphlet*
+- Manual Part V, chapter 19 defines the complement frames and content-question embedding.
+- Manual chapter 20 and the relative clauses pamphlet give `rena` its full treatment.
+- Manual chapter 13 covers the pronouns and topic-drop used throughout these examples.
+- `documents/grammar/complementizer_reference.md` is the compact technical reference.
+- `python3 scripts/validate_examples.py --paths pamphlets/complementizers --show-warnings` checks every example in this pamphlet against the lexicon and the frame rules.

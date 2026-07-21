@@ -91,7 +91,7 @@ mia mena shia to wepu meno shelomu
 (I understand that they left.)
 ```
 
-**Why it matters:** Phi is strictly SOV. The embedded clause (functioning as object) must come before the main verb.
+**Why it matters:** Phi is strictly SOV. The embedded clause is the object, and objects come before the main verb.
 
 **How to avoid:**
 - Embedded clauses are objects
@@ -175,8 +175,8 @@ mia wela thia wepu welo ma towe phaelo
 
 When you meant:
 ```
-lu thia wepu. mia ma towe phaelo
-COND 2SG go. 1SG NEG well feel
+lu thia wepu. mia so ma towe phaelo
+COND 2SG go. 1SG FUT NEG well feel
 (If you leave, I will not feel well.)
 ```
 
@@ -257,6 +257,53 @@ mia wela shia to wepu welo phaelo
 - Do not add `wa` inside `wela`/`welo` clauses
 - Exception: When quoting a direct question with `shola`/`sholo`, the `wa` is part of the quoted material
 
+## Error 11: Wrapping a content question in `wela`/`welo`
+
+**The problem:** English uses "whether" for yes/no questions and moves who/what/where to the front. Learners who have just mastered the frame sometimes wrap it around every embedded question.
+
+**Wrong:**
+```
+*mia wela sua to shua welo sano
+1SG INT.COMP who PST come INT.COMP.CLOSE know
+```
+
+**Right:**
+```
+mia sua to shua sano
+1SG who PST come know
+(I know who came.)
+```
+
+**Why it matters:** A content question already carries its signal. The interrogative word stands where the unknown element would stand, and that placement alone marks the clause as a question. The frame would mark it twice.
+
+**How to avoid:**
+- `wela`/`welo` embeds yes/no questions only
+- If the embedded clause contains `sua`, `hina`, `kua`, or another gap-word, embed it bare
+
+## Error 12: Leaving the frame verb without its tense
+
+**The problem:** The embedded clause and the main clause each carry their own time. Learners mark the inner clause carefully and forget the outer verb.
+
+**Says something else (present saying instead of past):**
+```
+shia mena thia to wepu meno haolu
+3SG DECL.COMP 2SG PST go DECL.COMP.CLOSE speak
+(They say that you left.)
+```
+
+When you meant:
+```
+shia mena thia to wepu meno to haolu
+3SG DECL.COMP 2SG PST go DECL.COMP.CLOSE PST speak
+(They said that you left.)
+```
+
+**Why it matters:** An unmarked verb is present. The leaving and the saying are separate events with separate times: the `to` inside the frame marks the leaving, and only a second `to` after the closer marks the saying.
+
+**How to avoid:**
+- After the closer, ask when the knowing, saying, or asking itself happened
+- Slot 1 marking for the main verb stands between the closer and that verb
+
 ## Self-correction checklist
 
 When you produce an embedded clause, verify:
@@ -277,20 +324,24 @@ When you produce an embedded clause, verify:
 
 8. **Right complementizer type?** Am I using the appropriate one for my meaning?
 
+9. **Content question?** Then no frame; the gap-word already marks it.
+
+10. **Frame verb timed?** Did the main verb get its own tense after the closer?
+
 ## Practice recovery
 
 When you make an error mid-sentence:
 
 **Option 1: Restart**
 ```
-*mia mena shia to wepu... *mia mena shia to wepu meno shelomu
-(restart and complete correctly)
+*mia mena shia to wepu... mia mena shia to wepu meno shelomu
+(abandon the false start, then say the whole sentence correctly)
 ```
 
-**Option 2: Insert the closer**
+**Option 2: Rephrase**
 ```
-*mia mena shia to wepu shelomu... shekoi. mia mena shia to wepu meno shelomu
-(correct yourself: "specifically, I [mena] they left [meno] understand")
+*mia mena shia to wepu shelomu... shorela mia mena shia to wepu meno shelomu
+(catch the missing closer, then offer the repaired sentence with REPH: "in other words...")
 ```
 
 **Option 3: Simplify**
@@ -315,7 +366,8 @@ With practice, the Phi system becomes intuitive. The regularity helps: once you 
 2. `rena` needs no closer
 3. Closer comes after embedded verb, before main verb
 4. Closers match openers in reverse nesting order
+5. A content question embeds bare; its gap-word never takes the frame
+6. Each clause carries its own tense, the frame verb included
 
----
+None of these errors survives the habit of counting: openers on one hand, closers on the other, until the hands match.
 
-*Next: Exercises*
