@@ -66,55 +66,55 @@ The vats at Merton Abbey needed days, and a man's arms to the elbow, to strike a
 
 ## References
 
-Amazon Kindle Direct Publishing. n.d. "Content Guidelines." The AI-content disclosure requirement, in force since September 2023. https://kdp.amazon.com/en_US/help/topic/G200672390. Accessed 22 July 2026.
+Amazon Kindle Direct Publishing. n.d. Content Guidelines. The AI-content disclosure requirement, in force since September 2023. https://kdp.amazon.com/en_US/help/topic/G200672390. Accessed 22 July 2026.
 
 Bartz v. Anthropic PBC. 2025. Order on fair use, No. 3:24-cv-05417 (N.D. Cal., 23 June 2025). Settlement of the piracy claims granted final approval 20 July 2026.
 
-Carpenter, Humphrey, ed. 1981. *The Letters of J.R.R. Tolkien*. Boston: Houghton Mifflin. Letter 165, to the Houghton Mifflin Co., 30 June 1955.
+Carpenter, Humphrey, ed. 1981. The Letters of J.R.R. Tolkien. Boston: Houghton Mifflin. Letter 165, to the Houghton Mifflin Co., 30 June 1955.
 
-Cockerell, Sydney. 1898. *A Note by William Morris on His Aims in Founding the Kelmscott Press, Together with a Short Description of the Press by S.C. Cockerell, and an Annotated List of the Books Printed Thereat*. Hammersmith: Kelmscott Press. The annotated list runs to fifty-three books, one of them printed twice, in sixty-six volumes.
+Cockerell, Sydney. 1898. A Note by William Morris on His Aims in Founding the Kelmscott Press, Together with a Short Description of the Press by S.C. Cockerell, and an Annotated List of the Books Printed Thereat. Hammersmith: Kelmscott Press. The annotated list runs to fifty-three books, one of them printed twice, in sixty-six volumes.
 
-Fairclough, Oliver. 1981. *Textiles by William Morris and Morris & Co. 1861-1940*. London: Thames and Hudson. Page 49 for Jeffrey and Co.'s contract printing of the wallpapers.
+Fairclough, Oliver. 1981. Textiles by William Morris and Morris & Co. 1861-1940. London: Thames and Hudson. Page 49 for Jeffrey and Co.'s contract printing of the wallpapers.
 
-Fedora Council. 2025. "AI-Assisted Contributions Policy." Version 1.0, approved October 2025, announced 22 October. https://docs.fedoraproject.org/en-US/council/policy/ai-contribution-policy/.
+Fedora Council. 2025. AI-Assisted Contributions Policy. Version 1.0, approved October 2025, announced 22 October. https://docs.fedoraproject.org/en-US/council/policy/ai-contribution-policy/.
 
-Grace's Guide. n.d. "Morris and Co." Grace's Guide to British Industrial History. https://www.gracesguide.co.uk/Morris_and_Co. Accessed 22 July 2026.
+Grace's Guide. n.d. Morris and Co. Grace's Guide to British Industrial History. https://www.gracesguide.co.uk/Morris_and_Co. Accessed 22 July 2026.
 
-Hostetter, Carl F. 2006. "Elvish as She Is Spoke." In *The Lord of the Rings 1954-2004: Scholarship in Honor of Richard E. Blackwelder*, edited by Wayne G. Hammond and Christina Scull, 231-255. Milwaukee: Marquette University Press.
+Hostetter, Carl F. 2006. Elvish as She Is Spoke. In The Lord of the Rings 1954-2004: Scholarship in Honor of Richard E. Blackwelder, edited by Wayne G. Hammond and Christina Scull, 231-255. Milwaukee: Marquette University Press.
 
-International Energy Agency. 2025. *Energy and AI*. Paris: IEA. https://www.iea.org/reports/energy-and-ai. Updated projections in *Key Questions on Energy and AI*, 2026.
+International Energy Agency. 2025. Energy and AI. Paris: IEA. https://www.iea.org/reports/energy-and-ai. Updated projections in Key Questions on Energy and AI, 2026.
 
-Lazarus, Emma. 1886. "A Day in Surrey with William Morris." *Century Magazine*, July 1886. Quotes Morris's letter of 21 April 1884 on wages and profit sharing.
+Lazarus, Emma. 1886. A Day in Surrey with William Morris. Century Magazine, July 1886. Quotes Morris's letter of 21 April 1884 on wages and profit sharing.
 
-Lethaby, W.R. 1935. *Philip Webb and His Work*. London: Oxford University Press, Humphrey Milford. The "swinish luxury" remark, made to Lowthian Bell around 1877, reached print here via Alfred Powell.
+Lethaby, W.R. 1935. Philip Webb and His Work. London: Oxford University Press, Humphrey Milford. The "swinish luxury" remark, made to Lowthian Bell around 1877, reached print here via Alfred Powell.
 
-Linux kernel documentation. 2026. "AI Coding Assistants." Documentation/process/coding-assistants.rst, merged to mainline January 2026. https://www.kernel.org/doc/html/latest/process/coding-assistants.html.
+Linux kernel documentation. 2026. AI Coding Assistants. Documentation/process/coding-assistants.rst, merged to mainline January 2026. https://www.kernel.org/doc/html/latest/process/coding-assistants.html.
 
-Mackail, J.W. 1899. *The Life of William Morris*. Two volumes. London: Longmans, Green. The dye-house quotes are in volume 1, chapter X; the tapestry diary and dawn habit at volume 1, page 373; the Merton Abbey site in volume 2, pages 34 and 35.
+Mackail, J.W. 1899. The Life of William Morris. Two volumes. London: Longmans, Green. The dye-house quotes are in volume 1, chapter X; the tapestry diary and dawn habit at volume 1, page 373; the Merton Abbey site in volume 2, pages 34 and 35.
 
-Nature. 2023. "Tools such as ChatGPT threaten transparent science; here are our ground rules for their use." *Nature* 613: 612.
+Nature. 2023. Tools such as ChatGPT threaten transparent science; here are our ground rules for their use. Nature 613: 612. https://doi.org/10.1038/d41586-023-00191-1.
 
-Parry, Linda. 1983. *William Morris Textiles*. London: Weidenfeld and Nicolson. Revised edition 2013, London: V&A Publishing; page 259 for the Compton reattribution.
+Parry, Linda. 1983. William Morris Textiles. London: Weidenfeld and Nicolson. Revised edition 2013, London: V&A Publishing; page 259 for the Compton reattribution.
 
-Quinn, Susan Kaye. 2024. "Solarpunk Don't Need No AI." Bright Green Futures, 18 October 2024. https://brightgreenfutures.substack.com/p/solarpunk-dont-need-no-ai.
+Quinn, Susan Kaye. 2024. Solarpunk Don't Need No AI. Bright Green Futures, 18 October 2024. https://brightgreenfutures.substack.com/p/solarpunk-dont-need-no-ai.
 
-Regulation (EU) 2024/1689 (the EU Artificial Intelligence Act). 2024. *Official Journal of the European Union*, 12 July 2024. Article 50 transparency obligations, applying from 2 August 2026.
+Regulation (EU) 2024/1689 (the EU Artificial Intelligence Act). 2024. Official Journal of the European Union, 12 July 2024. Article 50 transparency obligations, applying from 2 August 2026.
 
-Ritchie, Hannah. 2025. "What's the carbon footprint of using ChatGPT or Gemini? [August 2025 update]." Sustainability by Numbers, 21 August 2025. https://hannahritchie.substack.com/p/ai-footprint-august-2025.
+Ritchie, Hannah. 2025. What's the carbon footprint of using ChatGPT or Gemini? [August 2025 update]. Sustainability by Numbers, 21 August 2025. https://hannahritchie.substack.com/p/ai-footprint-august-2025.
 
-Society of Antiquaries of London. n.d. "The 'Acanthus and Vine' Tapestry." Collections highlight, with the collections record for object KM032 identifying Morris's 1879 work diary (National Art Library MSL/1939/2637). https://www.sal.org.uk/collections/explore-our-collections/collections-highlights/the-acanthus-and-vine-tapestry/.
+Society of Antiquaries of London. n.d. The 'Acanthus and Vine' Tapestry. Collections highlight, with the collections record for object KM032 identifying Morris's 1879 work diary (National Art Library MSL/1939/2637). https://www.sal.org.uk/collections/explore-our-collections/collections-highlights/the-acanthus-and-vine-tapestry/.
 
-Solarpunk Magazine. n.d. "Submissions." The policy on artificial intelligence, in force since January 2023. https://solarpunkmagazine.com/submissions/. Accessed 22 July 2026.
+Solarpunk Magazine. n.d. Submissions. The policy on artificial intelligence, in force since January 2023. https://solarpunkmagazine.com/submissions/. Accessed 22 July 2026.
 
-Sparling, H. Halliday. 1924. *The Kelmscott Press and William Morris Master Craftsman*. London: Macmillan. Page 74 for the wrong-box recollection.
+Sparling, H. Halliday. 1924. The Kelmscott Press and William Morris Master Craftsman. London: Macmillan. Page 74 for the wrong-box recollection.
 
-Stirling, John. 2020-21. "The People of the Kelmscott Press." *Journal of William Morris Studies* 24, no. 1-2: 95-105.
+Stirling, John. 2020-21. The People of the Kelmscott Press. Journal of William Morris Studies 24(1-2): 95-105.
 
-US Copyright Office. 2025. *Copyright and Artificial Intelligence, Part 2: Copyrightability*. Washington: Report of the Register of Copyrights, January 2025. The registration disclosure duty is in "Copyright Registration Guidance: Works Containing Material Generated by Artificial Intelligence," 88 FR 16190, 16 March 2023.
+US Copyright Office. 2025. Copyright and Artificial Intelligence, Part 2: Copyrightability. Washington: Report of the Register of Copyrights, January 2025. The registration disclosure duty is in "Copyright Registration Guidance: Works Containing Material Generated by Artificial Intelligence," 88 FR 16190, 16 March 2023.
 
-Valve. 2024. "AI Content on Steam." Steamworks Development announcement, 9 January 2024. https://steamcommunity.com/groups/steamworks/announcements/detail/3862463747997849619.
+Valve. 2024. AI Content on Steam. Steamworks Development announcement, 9 January 2024. https://steamcommunity.com/groups/steamworks/announcements/detail/3862463747997849619.
 
-You, Josh. 2025. "How much energy does ChatGPT use?" Epoch AI, 7 February 2025. https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use.
+You, Josh. 2025. How much energy does ChatGPT use? Epoch AI, 7 February 2025. https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use.
 
 ### Phi sources
 

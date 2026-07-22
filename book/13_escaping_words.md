@@ -52,17 +52,17 @@ The blessing validates, which in this project means the machine has checked ever
 
 ## References
 
-Čapek, Karel. 1933. "O slově robot" (About the Word Robot). *Lidové noviny*, December 24. English translation by Norma Comrada, preserved on the archived Karel Čapek website capek.misto.cz.
+Čapek, Karel. 1933. O slově robot (About the Word Robot). Lidové noviny, December 24. English translation by Norma Comrada, preserved on the archived Karel Čapek website capek.misto.cz.
 
-Collins. 2019. "Collins Word of the Year 2019 shortlist." Collins Dictionary Language Blog, November 7. https://blog.collinsdictionary.com/language-lovers/collins-word-of-the-year-2019-shortlist/.
+Collins. 2019. Collins Word of the Year 2019 shortlist. Collins Dictionary Language Blog, November 7. https://blog.collinsdictionary.com/language-lovers/collins-word-of-the-year-2019-shortlist/.
 
-Collins English Dictionary. n.d. "Hopepunk." HarperCollins. https://www.collinsdictionary.com/dictionary/english/hopepunk.
+Collins English Dictionary. n.d. Hopepunk. HarperCollins. https://www.collinsdictionary.com/dictionary/english/hopepunk.
 
-Dawkins, Richard. 1976. *The Selfish Gene*. Oxford: Oxford University Press. Chapter 11, "Memes: the new replicators."
+Dawkins, Richard. 1976. The Selfish Gene. Oxford: Oxford University Press. Chapter 11, "Memes: the new replicators."
 
-Drews, Stefan, and Miklós Antal. 2016. "Degrowth: A 'missile word' that backfires?" *Ecological Economics* 126: 182-187.
+Drews, Stefan, and Miklós Antal. 2016. Degrowth: A 'missile word' that backfires? Ecological Economics 126: 182-187. https://doi.org/10.1016/j.ecolecon.2016.04.001.
 
-Rowland, Alexandra. 2017. Tumblr post, July. https://ariaste.tumblr.com/post/163500138919/. Her own account of the coinage is in "One Atom of Justice, One Molecule of Mercy, and the Empire of Unsheathed Knives," in the Winter 2019 issue of *The Stellar Beacon*, the zine at festive.ninja.
+Rowland, Alexandra. 2017. Tumblr post, July. https://ariaste.tumblr.com/post/163500138919/. Her own account of the coinage is in "One Atom of Justice, One Molecule of Mercy, and the Empire of Unsheathed Knives," in the Winter 2019 issue of The Stellar Beacon, the zine at festive.ninja.
 
 ### Phi sources
 

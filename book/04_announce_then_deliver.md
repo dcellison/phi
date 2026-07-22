@@ -70,15 +70,15 @@ Dryer, Matthew S. 2013. Relationship between the order of object and verb and th
 
 Gibran, Kahlil. 1923. The Prophet. New York: Alfred A. Knopf. The lines are from the teaching On Giving.
 
-Goldin-Meadow, Susan, Wing Chee So, Aslı Özyürek, and Carolyn Mylander. 2008. The natural order of events: how speakers of different languages represent events nonverbally. Proceedings of the National Academy of Sciences 105(27): 9163-9168.
+Goldin-Meadow, Susan, Wing Chee So, Aslı Özyürek, and Carolyn Mylander. 2008. The natural order of events: how speakers of different languages represent events nonverbally. Proceedings of the National Academy of Sciences 105(27): 9163-9168. https://doi.org/10.1073/pnas.0710060105.
 
-Hall, Matthew L., Rachel I. Mayberry, and Victor S. Ferreira. 2013. Cognitive constraints on constituent order: evidence from elicited pantomime. Cognition 129(1): 1-17.
+Hall, Matthew L., Rachel I. Mayberry, and Victor S. Ferreira. 2013. Cognitive constraints on constituent order: evidence from elicited pantomime. Cognition 129(1): 1-17. https://doi.org/10.1016/j.cognition.2013.05.004.
 
-Imamura, Satoshi. 2016. A corpus-based analysis of scrambling in Japanese in terms of anaphoric and cataphoric co-referencing. Research in Corpus Linguistics 4: 39-49.
+Imamura, Satoshi. 2016. A corpus-based analysis of scrambling in Japanese in terms of anaphoric and cataphoric co-referencing. Research in Corpus Linguistics 4: 39-49. https://doi.org/10.32714/ricl.04.05.
 
 Ketrez, F. Nihan. 2012. A Student Grammar of Turkish. Cambridge: Cambridge University Press.
 
-Özçalışkan, Şeyda, Ché Lucero, and Susan Goldin-Meadow. 2016. Does language shape silent gesture? Cognition 148: 10-18.
+Özçalışkan, Şeyda, Ché Lucero, and Susan Goldin-Meadow. 2016. Does language shape silent gesture? Cognition 148: 10-18. https://doi.org/10.1016/j.cognition.2015.12.001.
 
 Slobin, Dan I. 1996. From "thought and language" to "thinking for speaking." In Rethinking Linguistic Relativity, edited by John J. Gumperz and Stephen C. Levinson, 70-96. Cambridge: Cambridge University Press.
 

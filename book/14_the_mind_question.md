@@ -48,15 +48,15 @@ Whether a life of such sentences changes the speaker is the mind question, and t
 
 ## References
 
-Coluzzi, Paolo. 2022. "How learning Toki Pona may help improving communication strategies in a foreign or second language." *Language Problems and Language Planning* 46, no. 1: 78-98.
+Coluzzi, Paolo. 2022. How learning Toki Pona may help improving communication strategies in a foreign or second language. Language Problems and Language Planning 46(1): 78-98. https://doi.org/10.1075/lplp.00086.col.
 
-Hallett, Darcy, Michael J. Chandler, and Christopher E. Lalonde. 2007. "Aboriginal language knowledge and youth suicide." *Cognitive Development* 22, no. 3: 392-399.
+Hallett, Darcy, Michael J. Chandler, and Christopher E. Lalonde. 2007. Aboriginal language knowledge and youth suicide. Cognitive Development 22(3): 392-399. https://doi.org/10.1016/j.cogdev.2007.02.001.
 
-Rathje, Steve, Jay J. Van Bavel, and Sander van der Linden. 2021. "Out-group animosity drives engagement on social media." *Proceedings of the National Academy of Sciences* 118, no. 26: e2024292118.
+Rathje, Steve, Jay J. Van Bavel, and Sander van der Linden. 2021. Out-group animosity drives engagement on social media. Proceedings of the National Academy of Sciences 118(26): e2024292118. https://doi.org/10.1073/pnas.2024292118.
 
-Tosun, Sümeyra, Jyotsna Vaid, and Lisa Geraci. 2013. "Does obligatory linguistic marking of source of evidence affect source memory? A Turkish/English investigation." *Journal of Memory and Language* 69: 121-134.
+Tosun, Sümeyra, Jyotsna Vaid, and Lisa Geraci. 2013. Does obligatory linguistic marking of source of evidence affect source memory? A Turkish/English investigation. Journal of Memory and Language 69: 121-134. https://doi.org/10.1016/j.jml.2013.03.004.
 
-Whalen, D. H., Melissa E. Lewis, Stefanie Gillson, Brittany McBeath, Bri Alexander, and Kate Nyhan. 2022. "Health effects of Indigenous language use and revitalization: a realist review." *International Journal for Equity in Health* 21: article 169.
+Whalen, D. H., Melissa E. Lewis, Stefanie Gillson, Brittany McBeath, Bri Alexander, and Kate Nyhan. 2022. Health effects of Indigenous language use and revitalization: a realist review. International Journal for Equity in Health 21: article 169. https://doi.org/10.1186/s12939-022-01782-6.
 
 ### Phi sources
 
