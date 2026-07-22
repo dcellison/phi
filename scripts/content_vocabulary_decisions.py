@@ -12,6 +12,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_FILE = ROOT / "project" / "content_vocabulary_decisions.json"
 REPORT_FILE = ROOT / "project" / "content_vocabulary_decisions.md"
 COVERAGE_FILE = ROOT / "project" / "content_vocabulary_coverage.md"
+HANDOFF_FILE = ROOT / "project" / "handoff" / "current_state.md"
 FORMAT = "phi-content-vocabulary-decisions-v1"
 DECISION_STATUSES = {
     "open",
@@ -31,6 +32,15 @@ STATUS_LABELS = {
     "deferred": "Deferred",
     "source-bound": "Source-bound",
     "declined": "Declined",
+}
+HANDOFF_STATUS_ROWS = {
+    "Implemented": "implemented",
+    "Compositional": "compositional",
+    "Deferred with return condition": "deferred",
+    "Source-bound": "source-bound",
+    "Declined": "declined",
+    "Open": "open",
+    "Accepted but not implemented": "accepted",
 }
 
 
@@ -65,7 +75,55 @@ def coverage_decision_rows(text):
     ]
 
 
-def validate(data, root=ROOT, coverage_text=None):
+def expected_handoff_counts(data):
+    candidates = data["candidates"]
+    counts = {
+        "Registered batches": len(data["batches"]),
+        "Decisions": len(candidates),
+    }
+    counts.update(
+        {
+            label: sum(candidate.get("status") == status for candidate in candidates)
+            for label, status in HANDOFF_STATUS_ROWS.items()
+        }
+    )
+    return counts
+
+
+def handoff_decision_counts(text):
+    try:
+        body = text.split("## Decision register", 1)[1]
+        body = body.split("\n## ", 1)[0]
+    except IndexError:
+        return None
+    return {
+        label.strip(): int(value.replace(",", ""))
+        for label, value in re.findall(
+            r"^\|\s*([^|]+?)\s*\|\s*([0-9][0-9,]*)\s*\|$", body, re.M
+        )
+    }
+
+
+def validate_handoff_counts(data, text):
+    actual = handoff_decision_counts(text)
+    if actual is None:
+        return ["project/handoff/current_state.md has no Decision register section"]
+
+    errors = []
+    for label, expected in expected_handoff_counts(data).items():
+        if label not in actual:
+            errors.append(
+                f"project/handoff/current_state.md is missing decision count row: {label}"
+            )
+        elif actual[label] != expected:
+            errors.append(
+                "project/handoff/current_state.md has a stale decision count for "
+                f"{label}: expected {expected}, found {actual[label]}"
+            )
+    return errors
+
+
+def validate(data, root=ROOT, coverage_text=None, handoff_text=None):
     errors = []
     if data.get("format") != FORMAT:
         errors.append(f"format must be {FORMAT!r}")
@@ -188,6 +246,14 @@ def validate(data, root=ROOT, coverage_text=None):
         for marker in markers:
             if marker not in candidate_by_id:
                 errors.append(f"coverage row references unknown decision: {marker}")
+
+    if handoff_text is None:
+        if not HANDOFF_FILE.is_file():
+            errors.append("project/handoff/current_state.md does not exist")
+        else:
+            handoff_text = HANDOFF_FILE.read_text(encoding="utf-8")
+    if handoff_text is not None:
+        errors.extend(validate_handoff_counts(data, handoff_text))
 
     return errors
 
