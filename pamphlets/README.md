@@ -8,6 +8,8 @@ The manual explains Phi's machinery once. These pamphlets give the difficult par
 |---|---|---|
 | Relative clauses in Phi | Headed, headless, and nested pre-nominal relatives, followed by repair work and exercises. | [Open](relative_clauses/00_title.md) |
 | Complementizers and embedded clauses in Phi | The three opener and closer pairs for statements, questions, and quotations. | [Open](complementizers/00_title.md) |
+| Adverbial clauses in Phi | The five clause relators for sequence, cause, purpose, and concession, every frame complete before its main clause. | [Open](adverbial_clauses/00_title.md) |
+| Tense and aspect in Phi | Two tenses and five views of an event, drilled through all ten combinations to reflex. | [Open](tense_aspect/00_title.md) |
 | Evidentiality in Phi | Choosing and stacking four claimed-source particles while keeping source apart from truth, confidence, and reliability. | [Open](evidentiality/00_title.md) |
 | Counting in Phi | Ternary numerals, optional classifiers, approximation, and arithmetic spoken in full sentences. | [Open](ternary_numerals/00_title.md) |
 | How Phi names people | `ne`, productive Phi-form names, calling, honorifics, and the established-name register. | [Open](naming/00_title.md) |
