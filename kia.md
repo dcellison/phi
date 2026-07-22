@@ -2,11 +2,11 @@
 
 That word means *hello*. Say it aloud without hurrying: **ki · a**. The final vowel is its own syllable, left open like a door.
 
-Phi is a philosophical constructed language for practising mindful and compassionate speech. It asks speakers to attend to the present utterance: what they know, what they intend, and how their words may enter a relationship. Its unhurried quality is freedom from needless haste, not a prescribed speaking speed.
+Phi is a philosophical constructed language for practicing mindful and compassionate speech. It asks speakers to attend to the present utterance: what they know, what they intend, and how their words may enter a relationship. Its unhurried quality is freedom from needless haste, not a prescribed speaking speed.
 
 It cannot make a speaker mindful or kind; grammar has never been good at supervising people. It can make certain choices audible and give a speaker a chance to notice them. Spend a few minutes with it and decide what you hear.
 
-## The grammar has one organising principle
+## The grammar has one organizing principle
 
 Here is a Phi sentence in the order a listener receives it:
 

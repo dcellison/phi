@@ -8,7 +8,7 @@ Phi has five vowels, each kept full in careful speech. Its syllables are open, a
 
 Careful speech also distinguishes `ph`, `th`, `sh`, and `wh`. Conversational Phi may move faster and carry an accent. Enough of each word's shape must remain for a listener to recover it.
 
-## One organising principle
+## One organizing principle
 
 Here is an ordinary Phi sentence.
 
@@ -24,7 +24,7 @@ Phi calls this *announce, then deliver*. A modifier precedes its head, a possess
 
 ## Thirty-five particles keep their places
 
-Phi content words keep one shape: there is no conjugation, declension, plural ending, or grammatical case ending. Thirty-five one-syllable particles carry much of the grammar in three fixed positions. Prepositions, complementisers, pronouns, and classifiers work beside them. A content word learned once does not change. Watch a sentence grow:
+Phi content words keep one shape: there is no conjugation, declension, plural ending, or grammatical case ending. Thirty-five one-syllable particles carry much of the grammar in three fixed positions. Prepositions, complementizers, pronouns, and classifiers work beside them. A content word learned once does not change. Watch a sentence grow:
 
 ```
 misheko nulae.
@@ -96,7 +96,7 @@ mia wi phoi ta shao torua phelu.
 (I hold twenty-one years.)
 ```
 
-Two nines and a three make twenty-one. The grouping is audible, but familiarity still takes practice; most learners will not greet base three as a long-lost relation. The foundation runs from zero through eight, the working range through twenty-six, and the extended exact range through 242. Conversational competence does not require quick conversion from decimal or memorisation of every possible form.
+Two nines and a three make twenty-one. The grouping is audible, but familiarity still takes practice; most learners will not greet base three as a long-lost relation. The foundation runs from zero through eight, the working range through twenty-six, and the extended exact range through 242. Conversational competence does not require quick conversion from decimal or memorization of every possible form.
 
 ## The day follows the sky
 
@@ -104,7 +104,7 @@ Phi has no word for *hour*, *minute*, or *o'clock*. Ordinary time follows eight 
 
 When clock time matters, a medicine schedule, transport record, or scientific observation retains the exact figure in its surrounding medium. Phi has chosen not to turn that notation into ordinary vocabulary.
 
-The same boundary applies to measurement. Phi has no unit words such as *metre* or *mile*. Everyday extent can rest on comparison or lived reference:
+The same boundary applies to measurement. Phi has no unit words such as *meter* or *mile*. Everyday extent can rest on comparison or lived reference:
 
 ```
 ruela wi philo thalo nai.
@@ -118,7 +118,7 @@ Technical dimensions retain their source notation. The missing unit word is no r
 
 Phi has no words for money, price, or wage, nor verbs meaning pay, buy, or sell. What changes hands can be said through the acts themselves: `loa` (give), `howela` (receive), `phowe` (share), and `wisola` (exchange). A financial source can retain its own terms and figures when speakers need to report, study, or criticise them.
 
-The text shelf puts this refusal to work. In the second chapter of the *News from Nowhere* transmutation, William Morris's time traveller tries to tip his boatman:
+The text shelf puts this refusal to work. In the second chapter of the *News from Nowhere* transmutation, William Morris's time traveler tries to tip his boatman:
 
 ```
 thelao mia muo wethalu manuwe to sepho. mia shola wia. sholo to haolu.
@@ -130,9 +130,9 @@ Morris wrote "How much?" Phi's `wia.` means "how many", but the sentence supplie
 
 ## Meanings can stay in view
 
-Phi has seven coined colour adjectives. Other hues show their source in registered compounds: `kerou welisha`, stone colour, is grey; `horathe welisha`, dawn colour, is pink.
+Phi has seven coined color adjectives. Other hues show their source in registered compounds: `kerou welisha`, stone color, is gray; `horathe welisha`, dawn color, is pink.
 
-The same method reaches beyond colour. East is `sileta thorui`, the sun's beginning, and west is `sileta lumae`, its end. `korua thero`, heart-fire, names anger; `thiku nila`, seeing-small, names contempt. These are canonical expressions made from lexicon words, not extra dictionary entries hiding under the floorboards.
+The same method reaches beyond color. East is `sileta thorui`, the sun's beginning, and west is `sileta lumae`, its end. `korua thero`, heart-fire, names anger; `thiku nila`, seeing-small, names contempt. These are canonical expressions made from lexicon words, not extra dictionary entries hiding under the floorboards.
 
 Two conversion rules widen the vocabulary without changing a word's shape. A verb can name its event: `remo` means *think* and also *a thought*, while `thalo` means *walk* and *a walk*. An adjective can name its quality, so `siloma` means *simple* and *simplicity*. Position and surrounding grammar tell the readings apart.
 
@@ -152,7 +152,7 @@ The shelf distinguishes translation from transmutation. A close translation rema
 
 Phi names five pillars rather than presenting its choices as neutral. The sky stations and walking-distance measure draw on pre-industrial wisdom, while the moneyless Morris scene looks towards solarpunk.
 
-*Announce, then deliver* owes part of its attention to Buddhist mindfulness and Right Speech, the practices of staying present to an utterance and considering what it will do. Grammar promises neither automatically. Art Nouveau appears in meanings grown through relation: grey from stone, pink from dawn. Peace linguistics asks whether an utterance sustains relationship or rehearses domination. That is why the Ring Verse receives a refusal.
+*Announce, then deliver* owes part of its attention to Buddhist mindfulness and Right Speech, the practices of staying present to an utterance and considering what it will do. Grammar promises neither automatically. Art Nouveau appears in meanings grown through relation: gray from stone, pink from dawn. Peace linguistics asks whether an utterance sustains relationship or rehearses domination. That is why the Ring Verse receives a refusal.
 
 These commitments make Phi culturally situated and value-explicit. Speakers remain responsible for what they do with it.
 
