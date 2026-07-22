@@ -18,19 +18,23 @@ Berman, Ruth A., and Dan Isaac Slobin, editors. 1994. Relating Events in Narrati
 
 Blasi, Damián E., Søren Wichmann, Harald Hammarström, Peter F. Stadler, and Morten H. Christiansen. 2016. Sound-meaning association biases evidenced across thousands of languages. Proceedings of the National Academy of Sciences 113(39): 10818-10823. https://doi.org/10.1073/pnas.1605782113.
 
-Boroditsky, Lera, and Alice Gaby. 2010. Remembrances of times east: absolute spatial representations of time in an Australian Aboriginal community. Psychological Science 21: 1635-1639. https://doi.org/10.1177/0956797610386621.
-
-Boroditsky, Lera, Lauren A. Schmidt, and Webb Phillips. 2003. Sex, syntax, and semantics. In Language in Mind: Advances in the Study of Language and Thought, edited by Dedre Gentner and Susan Goldin-Meadow, 61-79. Cambridge, MA: MIT Press. https://doi.org/10.7551/mitpress/4117.003.0010.
+Boroditsky, Lera. 2001. Does language shape thought? Mandarin and English speakers' conceptions of time. Cognitive Psychology 43: 1-22. https://doi.org/10.1006/cogp.2001.0748.
 
 Boroditsky, Lera, Orly Fuhrman, and Kelly McCormick. 2011. Do English and Mandarin speakers think about time differently? Cognition 118: 123-129. https://doi.org/10.1016/j.cognition.2010.09.010.
 
-Boroditsky, Lera. 2001. Does language shape thought? Mandarin and English speakers' conceptions of time. Cognitive Psychology 43: 1-22. https://doi.org/10.1006/cogp.2001.0748.
+Boroditsky, Lera, and Alice Gaby. 2010. Remembrances of times east: absolute spatial representations of time in an Australian Aboriginal community. Psychological Science 21: 1635-1639. https://doi.org/10.1177/0956797610386621.
+
+Boroditsky, Lera, Lauren A. Schmidt, and Webb Phillips. 2003. Sex, syntax, and semantics. In Language in Mind: Advances in the Study of Language and Thought, edited by Dedre Gentner and Susan Goldin-Meadow, 61-79. Cambridge, MA: MIT Press. https://doi.org/10.7551/mitpress/4117.003.0010.
 
 Brady, William J., Julian A. Wills, John T. Jost, Joshua A. Tucker, and Jay J. Van Bavel. 2017. Emotion shapes the diffusion of moralized content in social networks. Proceedings of the National Academy of Sciences 114(28): 7313-7318. https://doi.org/10.1073/pnas.1618923114.
 
 Brown, James Cooke. 1960. Loglan. Scientific American 202(6): 53-63. https://doi.org/10.1038/scientificamerican0660-53.
 
+Čapek, Karel. 1933. O slově robot (About the Word Robot). Lidové noviny, December 24. English translation by Norma Comrada, preserved on the archived Karel Čapek website capek.misto.cz.
+
 Carpenter, Humphrey, ed. 1981. The Letters of J.R.R. Tolkien. Boston: Houghton Mifflin. Letter 165, to the Houghton Mifflin Co., 30 June 1955.
+
+Čavar, Franziska, and Agnieszka Ewa Tytus. 2018. Moral judgement and foreign language effect: when the foreign language becomes the second language. Journal of Multilingual and Multicultural Development 39(1): 17-28. https://doi.org/10.1080/01434632.2017.1304397.
 
 Chen, Jenn-Yeu. 2007. Do Chinese and English speakers think about time differently? Failure of replicating Boroditsky (2001). Cognition 104: 427-436. https://doi.org/10.1016/j.cognition.2006.09.012.
 
@@ -49,6 +53,8 @@ Coluzzi, Paolo. 2022. How learning Toki Pona may help improving communication st
 Costa, Albert, Alice Foucart, Sayuri Hayakawa, Melina Aparici, Jose Apesteguia, Joy Heafner, and Boaz Keysar. 2014. Your Morals Depend on Language. PLoS ONE 9(4): e94842. https://doi.org/10.1371/journal.pone.0094842.
 
 Crockett, M. J. 2017. Moral outrage in the digital age. Nature Human Behaviour 1: 769-771. https://doi.org/10.1038/s41562-017-0213-3.
+
+Ćwiek, Aleksandra, Susanne Fuchs, Christoph Draxler, Eva Liina Asu, Dan Dediu, Katri Hiovain, Shigeto Kawahara, Sofia Koutalidis, Manfred Krifka, Pärtel Lippus, Gary Lupyan, Grace E. Oh, Jing Paul, Caterina Petrone, Rachid Ridouane, Sabine Reiter, Nathalie Schümchen, Ádám Szalontai, Özlem Ünal-Logacev, Jochen Zeller, Marcus Perlman, and Bodo Winter. 2022. The bouba/kiki effect is robust across cultures and writing systems. Philosophical Transactions of the Royal Society B 377(1841): 20200390. https://doi.org/10.1098/rstb.2020.0390.
 
 Dawkins, Richard. 1976. The Selfish Gene. Oxford: Oxford University Press. Chapter 11, "Memes: the new replicators."
 
@@ -148,11 +154,11 @@ Ketrez, F. Nihan. 2012. A Student Grammar of Turkish. Cambridge: Cambridge Unive
 
 Keysar, Boaz, Sayuri L. Hayakawa, and Sun Gyu An. 2012. The Foreign-Language Effect: Thinking in a Foreign Tongue Reduces Decision Biases. Psychological Science 23(6): 661-668. https://doi.org/10.1177/0956797611432178.
 
+Köhler, Benedikt, Sabria David, and Jörg Blumtritt. 2010. The Slow Media Manifesto. en.slow-media.net/manifesto.
+
 Krupnik, Igor, and Ludger Müller-Wille. 2010. Franz Boas and Inuktitut terminology for ice and snow: from the emergence of the field to the "Great Eskimo Vocabulary Hoax." In SIKU: Knowing Our Ice, edited by Igor Krupnik, Claudio Aporta, Shari Gearheard, Gita J. Laidler, and Lene Kielsen Holm, 377-400. Dordrecht: Springer. https://doi.org/10.1007/978-90-481-8587-0_16.
 
 Kuykendall, Lauren, Louis Tay, and Vincent Ng. 2015. Leisure engagement and subjective well-being: A meta-analysis. Psychological Bulletin 141(2): 364-403. https://doi.org/10.1037/a0038508.
-
-Köhler, Benedikt, Sabria David, and Jörg Blumtritt. 2010. The Slow Media Manifesto. en.slow-media.net/manifesto.
 
 Lang, Martin, Jan Krátký, and Dimitris Xygalatas. 2020. The role of ritual behaviour in anxiety reduction: an investigation of Marathi religious practices in Mauritius. Philosophical Transactions of the Royal Society B 375(1805): 20190431. https://doi.org/10.1098/rstb.2019.0431.
 
@@ -224,6 +230,8 @@ Olivia, of Land of Masks and Jewels. 2014. Tumblr post proposing the solarpunk a
 
 Organizational Behavior and Human Decision Processes. 2024. Retraction notice to "Don't stop believing: Rituals improve performance by decreasing anxiety" [vol. 137 (2016): 71-85]. Organizational Behavior and Human Decision Processes 185: 104377. https://doi.org/10.1016/j.obhdp.2024.104377.
 
+Özçalışkan, Şeyda, Ché Lucero, and Susan Goldin-Meadow. 2016. Does language shape silent gesture? Cognition 148: 10-18. https://doi.org/10.1016/j.cognition.2015.12.001.
+
 Papafragou, Anna, Peggy Li, Youngon Choi, and Chung-hye Han. 2007. Evidentiality in language and cognition. Cognition 103: 253-299. https://doi.org/10.1016/j.cognition.2006.04.001.
 
 Parry, Linda. 1983. William Morris Textiles. London: Weidenfeld and Nicolson. Revised edition 2013, London: V&A Publishing; page 259 for the Compton reattribution.
@@ -288,13 +296,15 @@ Toki Pona census. 2024. Results of the 2024 Toki Pona census. Updated February 2
 
 Toki Pona. n.d. Toki Pona and Esperanto: Two friendly world languages. tokipona.org. https://tokipona.org/two_conlangs.
 
-Tolkien, J. R. R. 1954-1955. The Lord of the Rings. London: George Allen & Unwin. The Ring Verse is the work's epigraph and is recited in The Fellowship of the Ring, Book I, chapter 2.
-
-Tolkien, J. R. R. 1954. The Fellowship of the Ring. London: George Allen & Unwin. The quoted couplet is spoken in Book I, chapter 2, "The Shadow of the Past."
+Tolkien, J. R. R. 1954-1955. The Lord of the Rings. London: George Allen & Unwin. The Ring Verse is the work's epigraph and is recited in The Fellowship of the Ring, Book I, chapter 2, "The Shadow of the Past."
 
 Tosun, Sümeyra, Jyotsna Vaid, and Lisa Geraci. 2013. Does obligatory linguistic marking of source of evidence affect source memory? A Turkish/English investigation. Journal of Memory and Language 69: 121-134. https://doi.org/10.1016/j.jml.2013.03.004.
 
 Tse, Chi-Shing, and Jeanette Altarriba. 2008. Evidence against linguistic relativity in Chinese and English: a case study of spatial and temporal metaphors. Journal of Cognition and Culture 8: 335-357. https://doi.org/10.1163/156853708X358218.
+
+Ünal, Ercenur, Adrienne Pinto, Ann Bunger, and Anna Papafragou. 2016. Monitoring sources of event memories: a cross-linguistic investigation. Journal of Memory and Language 87: 157-176. https://doi.org/10.1016/j.jml.2015.10.009.
+
+Ünal, Ercenur, and Anna Papafragou. 2018. Evidentials, information sources, and cognition. In The Oxford Handbook of Evidentiality, edited by Alexandra Y. Aikhenvald, 175-184. Oxford: Oxford University Press. https://doi.org/10.1093/oxfordhb/9780198759515.013.8.
 
 United Nations General Assembly. 1948. Universal Declaration of Human Rights. A/RES/217(III)[A], adopted 10 December 1948 at the 183rd plenary meeting. Text: https://www.un.org/en/about-us/universal-declaration-of-human-rights. Resolution record: https://digitallibrary.un.org/record/666853?ln=en.
 
@@ -323,15 +333,3 @@ Wolff, Phillip, and Kevin J. Holmes. 2011. Linguistic relativity. WIREs Cognitiv
 You, Josh. 2025. How much energy does ChatGPT use? Epoch AI, 7 February 2025. https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use.
 
 Zamenhof, L. L. 1907. Speech at the Third World Esperanto Congress, Cambridge, August. In Originala Verkaro, edited by Johannes Dietterle. The Boulogne declaration of 1905 is cited from the same collection.
-
-Özçalışkan, Şeyda, Ché Lucero, and Susan Goldin-Meadow. 2016. Does language shape silent gesture? Cognition 148: 10-18. https://doi.org/10.1016/j.cognition.2015.12.001.
-
-Ünal, Ercenur, Adrienne Pinto, Ann Bunger, and Anna Papafragou. 2016. Monitoring sources of event memories: a cross-linguistic investigation. Journal of Memory and Language 87: 157-176. https://doi.org/10.1016/j.jml.2015.10.009.
-
-Ünal, Ercenur, and Anna Papafragou. 2018. Evidentials, information sources, and cognition. In The Oxford Handbook of Evidentiality, edited by Alexandra Y. Aikhenvald, 175-184. Oxford: Oxford University Press. https://doi.org/10.1093/oxfordhb/9780198759515.013.8.
-
-Ćwiek, Aleksandra, Susanne Fuchs, Christoph Draxler, Eva Liina Asu, Dan Dediu, Katri Hiovain, Shigeto Kawahara, Sofia Koutalidis, Manfred Krifka, Pärtel Lippus, Gary Lupyan, Grace E. Oh, Jing Paul, Caterina Petrone, Rachid Ridouane, Sabine Reiter, Nathalie Schümchen, Ádám Szalontai, Özlem Ünal-Logacev, Jochen Zeller, Marcus Perlman, and Bodo Winter. 2022. The bouba/kiki effect is robust across cultures and writing systems. Philosophical Transactions of the Royal Society B 377(1841): 20200390. https://doi.org/10.1098/rstb.2020.0390.
-
-Čapek, Karel. 1933. O slově robot (About the Word Robot). Lidové noviny, December 24. English translation by Norma Comrada, preserved on the archived Karel Čapek website capek.misto.cz.
-
-Čavar, Franziska, and Agnieszka Ewa Tytus. 2018. Moral judgement and foreign language effect: when the foreign language becomes the second language. Journal of Multilingual and Multicultural Development 39(1): 17-28. https://doi.org/10.1080/01434632.2017.1304397.

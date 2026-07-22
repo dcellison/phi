@@ -4,9 +4,9 @@ The book begins beside the Thames, where a traveler wakes in William Morris's fu
 
 Phi already has a primer for learning and a manual for checking the machinery. This book asks why the machinery is there. It begins in the hurried public world Phi answers, then follows the design into the claims Phi makes for itself. Later chapters put those claims beside the evidence and ask what could happen if a community forms.
 
-The book does not promise that grammar remakes a mind. Phi offers a practice, and the evidence still gets the last word. Where the research says "small," this book says small too.
+The book does not promise that grammar remakes a mind. Phi offers a practice, and the evidence still gets the last word.
 
-The book is complete and published on the project site: a cold open, fourteen chapters, a close, and a consolidated bibliography, from the river to the door. The language-and-thought chapter was drafted early because it tests the book's hardest empirical claims. Chapters may still be revised as the whole is read together.
+The book is complete and published on the project site: a cold open, fourteen chapters, a close, and a consolidated bibliography, from the river to the door. Chapters may still be revised as the whole is read together.
 
 ## Read the current chapters
 

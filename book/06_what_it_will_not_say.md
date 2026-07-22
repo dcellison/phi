@@ -4,25 +4,15 @@ Put Tolkien's Ring Verse on a Phi page and the first troublesome word is not *Ri
 
 > *One Ring to rule them all, One Ring to find them, / One Ring to bring them all and in the darkness bind them.*
 
-The source wording stays where the reader can see it (Tolkien 1954). Chapter 2 followed Phi's refusal of *rule*, *lord*, and *throne* and showed what the transmutation says instead. The harder question comes afterward: what happens to a word once Phi declines to make it ordinary? If the source disappears, refusal has become silence. If *rule* quietly becomes *guide*, the language has cleaned the villain's coat and called the laundry ethical.
+The source wording stays where the reader can see it (Tolkien 1954-1955). Chapter 2 followed Phi's refusal of *rule*, *lord*, and *throne* and showed what the transmutation says instead. The harder question comes afterward: what happens to a word once Phi declines to make it ordinary? If the source disappears, refusal has become silence. If *rule* quietly becomes *guide*, the language has cleaned the villain's coat and called the laundry ethical.
 
 Phi leaves the source where it is and writes its answer beside it. That answer names what the office does.
 
 ## The act beneath the office
 
-The tempting substitutions are `kulo`, guide, and `theluo`, steward. Both are respectable words, which is precisely the problem. A guide helps someone find a way. A steward accepts care for what has been entrusted to them. The Ring would probably welcome either title on its papers. An object seeking dominion has every reason to describe the position as stewardship.
+Chapter 2 printed the transmutation's answer: where the source crowns an office, the Phi line accuses an act, `kawhera`, coerce, and the last verb ties with a literal cord. What that chapter did not follow is the temptation the transmutation had to refuse first. The nearest respectable words are `kulo`, guide, and `theluo`, steward, and respectable is precisely the problem. An object seeking dominion has every reason to describe the position as stewardship, and the Ring would welcome either title on its papers.
 
-The transmutation gives it no such assistance:
-
-```
-ta thumai sorui theula miona kawhera.
-one finger circle UNIV person coerce.
-(One finger-ring coerces all people.)
-```
-
-`kawhera` does not translate the office. It accuses the act. The word means closing practical alternatives through power or threat. In the verse, universal domination supplies the evidence. In an ordinary dispute, the claim still has to answer to the demand, the power behind it, the alternatives that remained, and the affected person's account.
-
-The last source verb receives the same treatment. Phi has `tiwa` for tying with cord and `nolami` for the mutual connection people form through experience and care. The transmutation extends the bodily cord verb into Tolkien's darkness because the Ring imposes a fastening; it does not create a relationship. Calling that act a bond would make subjugation sound reciprocal. The gentler word would be the less truthful one.
+`kawhera` gives it no such assistance. The word means closing practical alternatives through power or threat, and outside the verse it stays an accusation with work to do: in an ordinary dispute, the claim still has to answer to the demand, the power behind it, the alternatives that remained, and the affected person's account. The verse's last verb gets the same scrutiny from the other side. Calling the Ring's fastening a bond, `nolami`, the connection people form through experience and care, would make subjugation sound reciprocal. The gentler word would be the less truthful one.
 
 None of this makes a Phi speaker incapable of coercion. A missing title is not a barrier around human conduct; a determined tyrant can usually proceed without consulting the dictionary. The design choice is smaller: when someone analyzes domination in ordinary Phi, the easy words identify pressure and imposed action rather than granting the person who wields them a clean social office. Peace linguistics becomes euphemism the moment it makes a witness borrow the gentler word.
 
@@ -54,7 +44,7 @@ A euphemism replaces a hard expression with a softer one. The source boundary do
 
 Separate presentation implies no automatic verdict. The artifact keeps its own form while Phi speaks about it; any judgment must come from the Phi account, not from the placement alone. This matters most where wording itself is evidence, as it may be in testimony, identity, law, or care.
 
-The development protocol gives refusal a strict limit: care, self-identification, consent, and safety must be possible. Testimony and critique receive equal protection. When a refusal burdens one of those needs, the ruling must be reviewed. Source preservation is one guardrail, not a reason to leave a recurring needed concept permanently outside the language.
+The development protocol holds every refusal to the limit chapter 2 named, and a refusal that burdens one of the protected needs goes back under review. Source preservation is one guardrail, not a reason to leave a recurring needed concept permanently outside the language.
 
 Article 1 of the Universal Declaration of Human Rights shows the distinction in a close translation. Its source asks people to act toward one another "in a spirit of brotherhood." Phi has no universal male person class. The translation preserves the kinship and leaves the source's gendered word visible:
 
@@ -95,9 +85,9 @@ Return to the line at the top of the page. Tolkien's title and threat are still 
 
 ## References
 
-Tolkien, J. R. R. 1954. The Fellowship of the Ring. London: George Allen & Unwin. The quoted couplet is spoken in Book I, chapter 2, "The Shadow of the Past."
+Tolkien, J. R. R. 1954-1955. The Lord of the Rings. London: George Allen & Unwin. The Ring Verse is the work's epigraph and is recited in The Fellowship of the Ring, Book I, chapter 2, "The Shadow of the Past."
 
-United Nations General Assembly. 1948. Universal Declaration of Human Rights. Resolution 217 A (III), adopted 10 December 1948. https://www.un.org/en/about-us/universal-declaration-of-human-rights/.
+United Nations General Assembly. 1948. Universal Declaration of Human Rights. A/RES/217(III)[A], adopted 10 December 1948 at the 183rd plenary meeting. Text: https://www.un.org/en/about-us/universal-declaration-of-human-rights. Resolution record: https://digitallibrary.un.org/record/666853?ln=en.
 
 ### Phi sources
 

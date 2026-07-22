@@ -58,7 +58,7 @@ Brown, James Cooke. 1960. Loglan. Scientific American 202(6): 53-63. https://doi
 
 Declaration of Boulogne. 1905. Adopted at the first World Esperanto Congress, Boulogne-sur-Mer.
 
-Elgin, Suzette Haden. 1999. Láadan, the constructed language in Native Tongue. Self-published essay, originally at sfwa.org, now hosted at laadanlanguage.com.
+Elgin, Suzette Haden. 1999. Láadan, the Constructed Language in Native Tongue. Essay first published on the author's SFWA member site, updated 2 April 1999; now hosted, under a slightly expanded title, at https://laadanlanguage.com/articles/articles-by-suzette/laadan-constructed-language/.
 
 Garvía, Roberto. 2015. Esperanto and Its Rivals: The Struggle for an International Language. Philadelphia: University of Pennsylvania Press.
 
@@ -66,7 +66,7 @@ Guérard, Albert Léon. 1922. A Short History of the International Language Move
 
 ISO 639-3 Registration Authority. Change requests 2007-011 and 2017-035 (rejected) and 2021-043 (adopted; the code tok took effect January 20, 2022). iso639-3.sil.org.
 
-Lang, Sonja. 2014. Toki Pona: The Language of Good. Self-published; official site tokipona.org.
+Lang, Sonja. 2014. Toki Pona: The Language of Good. Self-published; official site https://tokipona.org/.
 
 Lang, Sonja. 2021. Le Toki Pona: une langue universelle à découvrir. Interview with Radio-Canada, July 31; English translation at tokipona.org.
 
@@ -92,7 +92,7 @@ Pereira, Alyssa. 2019. 1.2 million Game of Thrones fans have signed up to learn 
 
 Sweet, Henry. 1911. Volapük. Encyclopaedia Britannica, 11th edition, volume 28.
 
-Toki Pona census. 2024. Results of the 2024 Toki Pona census. tokiponacensus.github.io. Accessed July 2026.
+Toki Pona census. 2024. Results of the 2024 Toki Pona census. Updated February 27, 2025. https://tokiponacensus.github.io/results2024/.
 
 Wandel, Amri. 2015. How many people speak Esperanto? Esperanto on the web. Interdisciplinary Description of Complex Systems 13(2): 318-321. https://doi.org/10.7906/indecs.13.2.9.
 
