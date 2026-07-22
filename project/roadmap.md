@@ -216,7 +216,7 @@ This checklist protects implementation quality. It does not require external app
 | PED-05 | **EVIDENCE** | Curriculum pacing and retention evidence. | No result yet | Re-test selected material after a delay; revise ordering before adding explanations. |
 | PED-06 | **READY** | Maintainer-as-learner regression pass after a blind interval. | Existing curriculum | Complete the primer exercises without consulting answers and log friction without generalizing to all learners. |
 | PED-07 | **EVIDENCE** | Accessibility review for visual, auditory, cognitive, and motor needs. | Established vocabulary module, speaker chapter, and two scripted scenarios exist; no affected-user review yet | Invite affected users to identify barriers; prioritize practical access over aesthetic doctrine. |
-| PED-08 | **PARTIAL** | Continue the Phi book under its treatment and established chapter voice. | The cold open, chapters 1 through 7, and chapter 11 are drafted; chapter 7 is citation-checked and follows the reviewed literary shelf | Return at chapter 8, then audit every new citation before publication. |
+| PED-08 | **DONE** | Continue the Phi book under its treatment and established chapter voice. | The book is complete and published: the cold open, chapters 1 through 14, the close, and a consolidated bibliography, each merged through its own reviewed pull request, with citation audits archived for chapters 3 through 5, 8 through 10, 12 through 14, and the close | Revise chapters only as reading the whole warrants; the title decision remains open. |
 
 ## Phase 8: Community practice and cultural accountability
 
@@ -251,7 +251,7 @@ This phase is adjacent to the linguistic improvement plan and follows the order 
 
 ## Current execution sequence
 
-The three-syllable lexical migration, literary-shelf review, recovered vocabulary decisions, and all base and module prose migrations are complete. Fifteen contextual literary passes complete the active shelf, the drafted Phi book is current through chapter 7, all seven manual parts, the primer, and all nine pamphlets have received teaching-corpus passes, and the current-documents sweep is complete. SEM-09 and SEM-09D are done, and PED-08 resumes at chapter 8. A transparent composition stays when it remains better Phi.
+The three-syllable lexical migration, literary-shelf review, recovered vocabulary decisions, and all base and module prose migrations are complete. Fifteen contextual literary passes complete the active shelf, the drafted Phi book is current through chapter 7, all seven manual parts, the primer, and all nine pamphlets have received teaching-corpus passes, and the current-documents sweep is complete. SEM-09 and SEM-09D are done, and PED-08 is complete: the Phi book is published whole, from the cold open through the close and its consolidated bibliography. A transparent composition stays when it remains better Phi.
 
 ### Completed work package 0: Three-syllable lexical migration
 
@@ -283,12 +283,12 @@ All 112 replacements preserve the vocabulary schema and active uses under forms 
 
 **Roadmap item:** PED-08.
 
-1. Read `book/treatment.md` and the preceding chapters before drafting the next planned chapter.
-2. Follow the established Phi voice, American spelling for now, restrained Jerome humor, and a separate Humanizer pass.
-3. Validate every citation after the chapter draft is complete and repair the chapter from that audit.
-4. Publish the chapter as its own reviewed pull request.
+1. The book completed in treatment order: the cold open, chapters 1 through 14, and the close, with chapter 11 drafted early as the register trial.
+2. Every chapter followed the established voice, American spelling, restrained Jerome humor, and a separate Humanizer pass, under the hedging-low and warmth-high register rulings.
+3. Every chapter's sources were verified before drafting and audited after merging where the audits ran as repository documents, and an audit's own findings were verified before application; four findings in the series were overturned on recheck.
+4. The consolidated bibliography closes the book, preserving each chapter's audited entries, and the site renders the whole under the book door.
 
-**Exit criterion:** the next treatment chapter is written, citation-checked, voice-audited, and merged.
+**Exit criterion:** met. The planning treatment is archived at `archive/book_treatment.md`, and a chapter reopens only for revision as the whole is read together.
 
 ### Work package C: Original Philosophical Reasoning use
 
