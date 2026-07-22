@@ -1,6 +1,6 @@
 # The Phi book
 
-**Work in progress**
+**Complete in draft**
 
 The book begins beside the Thames, where a traveler wakes in William Morris's future and promptly tries to tip the boatman. The coin is refused, and that small embarrassment opens the book's question: what kind of language is Phi trying to be, and what do its choices cost?
 
@@ -8,7 +8,7 @@ Phi already has a primer for learning and a manual for checking the machinery. T
 
 The book does not promise that grammar remakes a mind. Phi offers a practice, and the evidence still gets the last word. Where the research says "small," this book says small too.
 
-Fifteen chapters are available now, the complete run from the river to the mind question. The language-and-thought chapter was drafted early because it tests the book's hardest empirical claims; only the close remains unwritten. Every published chapter may still change as the rest of the argument takes shape.
+The book is complete in draft: a cold open, fourteen chapters, and a close, from the river to the door. The language-and-thought chapter was drafted early because it tests the book's hardest empirical claims. Every chapter may still change as the whole is read together.
 
 ## Read the current chapters
 
@@ -27,5 +27,6 @@ Fifteen chapters are available now, the complete run from the river to the mind 
 - [Chapter 12: A language for the commons](12_a_language_for_the_commons.md)
 - [Chapter 13: Escaping words](13_escaping_words.md)
 - [Chapter 14: The mind question](14_the_mind_question.md)
+- [Close: The door](15_the_door.md)
 
 Start at the river to read in order. Start with chapter 11 if you would rather inspect the evidence before trusting the premise; the boatman will wait.
