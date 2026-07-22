@@ -13,6 +13,12 @@
       "dual_script": false
     },
     {
+      "directory": "adverbial_clauses",
+      "title": "Adverbial clauses in Phi",
+      "summary": "The five clause relators that set one event against another: sequence, cause, purpose, and concession, every frame complete before its main clause, with the trailing-frame errors English invites and exercises with a full answer key.",
+      "dual_script": false
+    },
+    {
       "directory": "evidentiality",
       "title": "Evidentiality in Phi",
       "summary": "Four particles for claimed source: direct perception, inference, report, and assumption. Practice moves from the snake at the well through questions, retelling, and an optional source journal.",
@@ -33,7 +39,7 @@
     {
       "directory": "spoken_punctuation",
       "title": "Punctuation you can hear",
-    "summary": "Core Phi writes only periods. This pamphlet follows its spoken grammatical boundaries, explains the missing exclamation mark, and tests what careful dictation can and cannot recover.",
+      "summary": "Core Phi writes only periods. This pamphlet follows its spoken grammatical boundaries, teaches the twenty interjections, gives the counterpart-less marks to sentence structure, and tests what careful dictation can and cannot recover.",
       "dual_script": false
     },
     {
