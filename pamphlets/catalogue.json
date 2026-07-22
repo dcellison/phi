@@ -37,6 +37,12 @@
       "dual_script": false
     },
     {
+      "directory": "coordination",
+      "title": "Coordination in Phi",
+      "summary": "Three conjunctions and one particle for standing together: nela level and unranked, thona with both sides asserted, sola leaving the fork open, we adding alongside the established, and the scope choice between a joiner inside one sentence and a marker across two.",
+      "dual_script": false
+    },
+    {
       "directory": "evidentiality",
       "title": "Evidentiality in Phi",
       "summary": "Four particles for claimed source: direct perception, inference, report, and assumption. Practice moves from the snake at the well through questions, retelling, and an optional source journal.",
