@@ -6,11 +6,11 @@ This ledger contains the questions and work that survived maintainer review on 2
 
 ### Native glyph mode
 
-Status: Parked for further exploration.
+Status: Active visual exploration; no design selected.
 
-Phi intends to acquire one native script. That script is the mode already reserved in canon as the glyph mode, not another mode beyond it; Romanization and Tengwar are the other two peers. No design has been chosen.
+Phi intends to acquire one native script. That script is the mode already reserved in canon as the glyph mode, not another mode beyond it; Romanization and Tengwar are the other two peers. The current working description is a featural alphasyllabary, but no glyph, vowel position, block layout, or stroke order has been adopted.
 
-Possible lineages include the [Mayan-inspired word-block exploration](../writing_systems/mayan_glyph_mode.md) and featural approaches suggested by Tengwar and Hangul. A breath stroke, open-ended glyphs, and word-blocks are seeds for drawing rather than a specification. Design resumes when the maintainer chooses to pick up those experiments. A mature proposal will need to preserve the same Phi information in Romanization, Tengwar, and the glyph mode.
+The [`writing_systems/glyph_mode/`](../writing_systems/glyph_mode/) studio now tests a Maya-inspired block presence against the compact consonant-plus-vowel insight of the Tengwar mode. Its first sheets compare line treatments, consonant families, explicit vowel attachment, hiatus, one-through-four-cell blocks, and pen or quill ductus. The breath stroke and open-ended forms remain questions rather than promised features. A mature proposal must preserve the same Phi information in Romanization, Tengwar, and the glyph mode and survive repeated handwriting before it enters canon or teaching.
 
 ### Spoken source material and code-switching
 

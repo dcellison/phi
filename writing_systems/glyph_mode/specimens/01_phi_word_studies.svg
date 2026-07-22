@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Provisional glyph blocks for four Phi forms</title>
+  <desc id="desc">The forms mia, lothea, sileta, and ne samiraku test hiatus and word blocks containing one through four onset cells.</desc>
+  <rect width="1800" height="1080" fill="#ffffff"/>
+  <style>
+    .heading { font: 700 42px system-ui, sans-serif; fill: #17252a; }
+    .subheading { font: 400 20px system-ui, sans-serif; fill: #52636a; }
+    .panel { fill: #f7faf9; stroke: #c9d5d2; stroke-width: 2; }
+    .block { fill: #ffffff; stroke: #263238; stroke-width: 3; stroke-dasharray: 7 8; }
+    .cell { fill: none; stroke: #c9d5d2; stroke-width: 2; }
+    .ink { fill: none; stroke: #263238; stroke-width: 11; stroke-linecap: round; stroke-linejoin: round; }
+    .relation { fill: none; stroke: #263238; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+    .vowel { fill: none; stroke: #b45309; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+    .vowel-fill { fill: #b45309; }
+    .word { font: 700 31px ui-monospace, monospace; fill: #17252a; text-anchor: middle; }
+    .analysis { font: 500 18px ui-monospace, monospace; fill: #0f766e; text-anchor: middle; }
+    .caption { font: 400 17px system-ui, sans-serif; fill: #52636a; text-anchor: middle; }
+    .tag { font: 650 15px system-ui, sans-serif; letter-spacing: 1px; fill: #0f766e; }
+    .plus { font: 700 30px system-ui, sans-serif; fill: #52636a; text-anchor: middle; }
+  </style>
+
+  <defs>
+    <g id="c-m"><path class="ink" d="M15 56 Q15 20 49 17 Q84 17 87 53 Q90 88 52 103 Q15 91 15 56 M52 19 Q39 56 52 102"/><path class="relation" d="M24 76 Q51 89 79 72"/></g>
+    <g id="c-n"><path class="ink" d="M19 95 Q7 59 25 31 Q45 6 74 20 Q101 32 100 61 Q99 88 73 97 M27 61 Q49 42 75 57 Q90 68 77 88"/><path class="relation" d="M18 96 Q44 111 73 97"/></g>
+    <g id="c-l"><path class="ink" d="M85 20 Q42 7 23 44 Q8 76 34 101 Q57 122 86 101"/><path class="relation" d="M39 48 Q64 34 82 54"/></g>
+    <g id="c-th"><path class="ink" d="M16 35 Q53 8 94 34 Q77 58 51 55 Q29 53 16 35 M52 55 Q70 78 55 108"/><path class="relation" d="M84 13 Q113 29 88 47"/></g>
+    <g id="c-s"><path class="ink" d="M19 29 Q50 4 87 23 Q104 34 92 49 Q74 66 42 59 Q16 58 15 78 Q15 98 40 106 Q69 117 96 94"/></g>
+    <g id="c-t"><path class="ink" d="M16 35 Q53 8 94 34 Q77 58 51 55 Q29 53 16 35 M52 55 Q70 78 55 108"/></g>
+    <g id="c-r"><path class="ink" d="M20 103 Q9 70 26 37 Q45 6 76 19 Q103 30 101 58 Q99 84 75 91 Q50 97 40 79 Q31 62 49 51 Q65 42 76 55"/><path class="relation" d="M75 91 Q93 103 105 113"/></g>
+    <g id="c-k"><path class="ink" d="M17 61 Q49 18 88 23 Q111 54 88 88 Q55 108 22 82 M43 50 Q60 34 76 51 Q83 65 65 77 Q48 83 39 69"/></g>
+    <g id="v-a"><circle class="vowel-fill" cx="0" cy="0" r="9"/></g>
+    <g id="v-e"><path class="vowel" d="M-13 0 Q0 -10 13 0 Q0 10 -13 0Z"/></g>
+    <g id="v-i"><path class="vowel" d="M0 -13 L0 13"/><circle class="vowel-fill" cx="0" cy="-18" r="4"/></g>
+    <g id="v-o"><circle class="vowel" cx="0" cy="0" r="11"/></g>
+    <g id="v-u"><path class="vowel" d="M-13 -6 Q0 14 13 -6"/></g>
+  </defs>
+
+  <text class="heading" x="54" y="68">The proposal meets four Phi forms</text>
+  <text class="subheading" x="54" y="107">Dashed frames reveal construction and disappear in ordinary writing. Orange vowels must eventually work in the same ink as their consonants.</text>
+
+  <g transform="translate(40 150)">
+    <rect class="panel" width="400" height="810" rx="6"/>
+    <text class="tag" x="26" y="40">ONE ONSET CELL</text>
+    <rect class="block" x="75" y="100" width="250" height="250" rx="5"/>
+    <use href="#c-m" transform="translate(125 150) scale(1.25)"/>
+    <use href="#v-i" transform="translate(270 155) scale(1.15)"/>
+    <use href="#v-a" transform="translate(270 310) scale(1.15)"/>
+    <text class="word" x="200" y="415">mia</text>
+    <text class="analysis" x="200" y="452">m + i + a</text>
+    <text class="caption" x="200" y="498">One consonant core carries two syllables.</text>
+    <text class="caption" x="200" y="525">The lower a is visible hiatus.</text>
+    <path class="cell" d="M92 582 H308 M92 632 H308"/>
+    <text class="caption" x="200" y="610">one word</text>
+    <text class="caption" x="200" y="660">one block</text>
+  </g>
+
+  <g transform="translate(470 150)">
+    <rect class="panel" width="400" height="810" rx="6"/>
+    <text class="tag" x="26" y="40">TWO ONSET CELLS</text>
+    <rect class="block" x="75" y="86" width="250" height="300" rx="5"/>
+    <path class="cell" d="M75 236 H325"/>
+    <use href="#c-l" transform="translate(136 102) scale(.9)"/>
+    <use href="#v-o" transform="translate(268 128)"/>
+    <use href="#c-th" transform="translate(132 248) scale(.9)"/>
+    <use href="#v-e" transform="translate(268 269)"/>
+    <use href="#v-a" transform="translate(268 354)"/>
+    <text class="word" x="200" y="445">lothea</text>
+    <text class="analysis" x="200" y="482">lo + the.a</text>
+    <text class="caption" x="200" y="528">The word remains one quadrat.</text>
+    <text class="caption" x="200" y="555">Its two cells read from top to bottom.</text>
+    <path class="cell" d="M92 612 H308 M92 662 H308"/>
+    <text class="caption" x="200" y="640">two consonants</text>
+    <text class="caption" x="200" y="690">three syllables</text>
+  </g>
+
+  <g transform="translate(900 150)">
+    <rect class="panel" width="400" height="810" rx="6"/>
+    <text class="tag" x="26" y="40">THREE ONSET CELLS</text>
+    <rect class="block" x="55" y="86" width="290" height="300" rx="5"/>
+    <path class="cell" d="M55 220 H345 M200 220 V386"/>
+    <use href="#c-s" transform="translate(142 98) scale(.88)"/>
+    <use href="#v-i" transform="translate(278 121)"/>
+    <use href="#c-l" transform="translate(76 239) scale(.72)"/>
+    <use href="#v-e" transform="translate(163 258) scale(.9)"/>
+    <use href="#c-t" transform="translate(221 239) scale(.72)"/>
+    <use href="#v-a" transform="translate(310 258) scale(.9)"/>
+    <text class="word" x="200" y="445">sileta</text>
+    <text class="analysis" x="200" y="482">si + le + ta</text>
+    <text class="caption" x="200" y="528">The first cell holds the upper field.</text>
+    <text class="caption" x="200" y="555">The next two read across the lower field.</text>
+    <path class="cell" d="M92 612 H308 M92 662 H308"/>
+    <text class="caption" x="200" y="640">three consonants</text>
+    <text class="caption" x="200" y="690">three syllables</text>
+  </g>
+
+  <g transform="translate(1330 150)">
+    <rect class="panel" width="430" height="810" rx="6"/>
+    <text class="tag" x="26" y="40">FOUR-CELL NAME TEST</text>
+    <g transform="translate(22 128)">
+      <rect class="block" width="108" height="170" rx="5"/>
+      <use href="#c-n" transform="translate(18 42) scale(.62)"/>
+      <use href="#v-e" transform="translate(88 59) scale(.78)"/>
+    </g>
+    <text class="plus" x="146" y="222">+</text>
+    <g transform="translate(166 86)">
+      <rect class="block" width="238" height="300" rx="5"/>
+      <path class="cell" d="M119 0 V300 M0 150 H238"/>
+      <use href="#c-s" transform="translate(20 25) scale(.62)"/>
+      <use href="#v-a" transform="translate(100 42) scale(.8)"/>
+      <use href="#c-m" transform="translate(139 25) scale(.62)"/>
+      <use href="#v-i" transform="translate(219 46) scale(.8)"/>
+      <use href="#c-r" transform="translate(20 174) scale(.62)"/>
+      <use href="#v-a" transform="translate(100 193) scale(.8)"/>
+      <use href="#c-k" transform="translate(144 174) scale(.62)"/>
+      <use href="#v-u" transform="translate(219 193) scale(.8)"/>
+    </g>
+    <text class="word" x="215" y="445">ne samiraku</text>
+    <text class="analysis" x="215" y="482">ne  sa + mi + ra + ku</text>
+    <text class="caption" x="215" y="528">The name particle keeps its own block.</text>
+    <text class="caption" x="215" y="555">The productive name uses a four-cell grid.</text>
+    <path class="cell" d="M92 612 H338 M92 662 H338"/>
+    <text class="caption" x="215" y="640">two spoken words</text>
+    <text class="caption" x="215" y="690">two written blocks</text>
+  </g>
+
+  <text class="subheading" x="54" y="1010">samiraku is a valid productive name-form used only to exercise the four-cell layout. It is not a vocabulary entry or an adopted name.</text>
+  <text class="subheading" x="54" y="1044">These drawings test the strict quadrat. The elastic layouts remain equally open for comparison.</text>
+</svg>

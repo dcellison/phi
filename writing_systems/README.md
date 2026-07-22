@@ -7,7 +7,8 @@ Phi's romanization is one mode of writing the language among peers — canon's L
 | File | What it is |
 |---|---|
 | `tengwar_mode.md` | The Phi Tengwar mode — full specification recovered from the 2021 LaTeX manual and decoded from its CSUR codepoints, with a modernization agenda |
-| `mayan_glyph_mode.md` | The Mayan-inspired glyph block exploration, un-parked from the archive, with corrections noted against current canon |
+| `glyph_mode/` | The active native-script studio: a featural alphasyllabary brief, cited visual references, SVG comparisons, and Phi word-block studies |
+| `mayan_glyph_mode.md` | The earlier Maya-inspired block exploration, preserved as a predecessor notebook with corrections noted against current canon |
 | `recovered/tengwar.tex` | Raw recovered source: the Tengwar chapter of the 2021 manual (commit `fde058a`, `old/latex/source/`) |
 | `recovered/orthography.tex` | Raw recovered source: the 2021 orthography chapter (same provenance) |
 | `recovered/tengwar-telcontar.css` | The Obsidian snippet that rendered Tengwar in the original vault (commit `fde058a^`, `.obsidian/snippets/`) |
@@ -15,6 +16,8 @@ Phi's romanization is one mode of writing the language among peers — canon's L
 ## Provenance
 
 The Tengwar/LaTeX manual was built in the 2021 "plath" era and retired when the project moved to markdown — it sits in the abandoned-direction ledger of `archive/LANGUAGE_ARCHAEOLOGY_REPORT.md`. The sources were recovered from git history on 2026-07-05; the compiled `manual.pdf` and the Tengwar Telcontar font binaries were left in history rather than re-committed (recovery commands are in `tengwar_mode.md` §Tooling). The Mayan exploration was written later and parked in `archive/writing-system/` until this folder opened.
+
+The native-script studio resumes one question from that exploration without adopting its old grammar, inventories, or logogram plan. Its working structure composes explicit consonants and vowels into onset cells, then composes those cells into a word block. The drawings remain proposals until a tested hand earns a canonical specification.
 
 ## Ground rules for development here
 

@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1240" role="img" aria-labelledby="title desc">
+  <title id="title">One through four onset cells in Phi word blocks</title>
+  <desc id="desc">Two block families compare a fixed square with an elastic block. Numbered onset cells and arrows show an invariant reading order.</desc>
+  <rect width="1800" height="1240" fill="#ffffff"/>
+  <style>
+    .heading { font: 700 42px system-ui, sans-serif; fill: #17252a; }
+    .subheading { font: 400 20px system-ui, sans-serif; fill: #52636a; }
+    .family { fill: #f7faf9; stroke: #c9d5d2; stroke-width: 2; }
+    .family-title { font: 700 28px system-ui, sans-serif; fill: #17252a; }
+    .family-copy { font: 400 18px system-ui, sans-serif; fill: #52636a; }
+    .block { fill: #ffffff; stroke: #263238; stroke-width: 4; }
+    .zone { fill: #eef6f4; stroke: #b7d1cb; stroke-width: 2; }
+    .core { fill: none; stroke: #263238; stroke-width: 9; stroke-linecap: round; stroke-linejoin: round; }
+    .vowel { fill: #b45309; }
+    .index { fill: #0f766e; }
+    .index-text { font: 700 17px system-ui, sans-serif; fill: #ffffff; text-anchor: middle; dominant-baseline: middle; }
+    .count { font: 700 22px system-ui, sans-serif; fill: #17252a; text-anchor: middle; }
+    .measure { font: 400 16px system-ui, sans-serif; fill: #52636a; text-anchor: middle; }
+    .arrow { fill: none; stroke: #0f766e; stroke-width: 3; marker-end: url(#arrowhead); }
+  </style>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#0f766e"/></marker>
+    <g id="cell">
+      <path class="core" d="M20 75 C9 46 23 18 51 15 C78 12 95 31 89 56 C84 75 62 82 48 70 C38 61 42 47 53 43"/>
+      <circle class="vowel" cx="90" cy="20" r="7"/>
+    </g>
+    <g id="cell-small">
+      <path class="core" d="M14 54 C6 33 17 13 37 11 C57 8 69 22 65 40 C61 54 45 59 35 50 C28 44 30 34 38 31"/>
+      <circle class="vowel" cx="66" cy="14" r="5"/>
+    </g>
+  </defs>
+
+  <text class="heading" x="54" y="68">How many cells fit inside a word?</text>
+  <text class="subheading" x="54" y="107">The numbers show spoken onset order. Layout may compress that sequence, but it may not rearrange it.</text>
+
+  <g transform="translate(40 145)">
+    <rect class="family" width="1720" height="490" rx="6"/>
+    <text class="family-title" x="30" y="48">Strict quadrat</text>
+    <text class="family-copy" x="30" y="81">Every word receives the same square advance. Page texture is steady, while crowded blocks ask smaller cells to do more.</text>
+
+    <g transform="translate(115 130)">
+      <rect class="block" width="270" height="270" rx="4"/>
+      <rect class="zone" x="45" y="45" width="180" height="180" rx="4"/>
+      <use href="#cell" transform="translate(83 79) scale(1.2)"/>
+      <circle class="index" cx="65" cy="65" r="14"/><text class="index-text" x="65" y="66">1</text>
+      <text class="count" x="135" y="307">one cell</text>
+      <text class="measure" x="135" y="333">full field</text>
+    </g>
+
+    <g transform="translate(525 130)">
+      <rect class="block" width="270" height="270" rx="4"/>
+      <rect class="zone" x="35" y="22" width="200" height="104" rx="4"/>
+      <rect class="zone" x="35" y="144" width="200" height="104" rx="4"/>
+      <use href="#cell-small" transform="translate(92 39)"/>
+      <use href="#cell-small" transform="translate(92 161)"/>
+      <circle class="index" cx="53" cy="40" r="14"/><text class="index-text" x="53" y="41">1</text>
+      <circle class="index" cx="53" cy="162" r="14"/><text class="index-text" x="53" y="163">2</text>
+      <path class="arrow" d="M25 76 C10 112 10 138 25 174"/>
+      <text class="count" x="135" y="307">two cells</text>
+      <text class="measure" x="135" y="333">top, then bottom</text>
+    </g>
+
+    <g transform="translate(935 130)">
+      <rect class="block" width="270" height="270" rx="4"/>
+      <rect class="zone" x="38" y="22" width="194" height="101" rx="4"/>
+      <rect class="zone" x="25" y="145" width="102" height="103" rx="4"/>
+      <rect class="zone" x="143" y="145" width="102" height="103" rx="4"/>
+      <use href="#cell-small" transform="translate(94 36)"/>
+      <use href="#cell-small" transform="translate(42 162) scale(.82)"/>
+      <use href="#cell-small" transform="translate(160 162) scale(.82)"/>
+      <circle class="index" cx="55" cy="40" r="14"/><text class="index-text" x="55" y="41">1</text>
+      <circle class="index" cx="43" cy="163" r="14"/><text class="index-text" x="43" y="164">2</text>
+      <circle class="index" cx="161" cy="163" r="14"/><text class="index-text" x="161" y="164">3</text>
+      <path class="arrow" d="M28 76 C12 113 15 139 31 174"/>
+      <path class="arrow" d="M77 260 C111 274 143 274 177 260"/>
+      <text class="count" x="135" y="307">three cells</text>
+      <text class="measure" x="135" y="333">top, lower left, lower right</text>
+    </g>
+
+    <g transform="translate(1345 130)">
+      <rect class="block" width="270" height="270" rx="4"/>
+      <rect class="zone" x="25" y="24" width="103" height="102" rx="4"/>
+      <rect class="zone" x="142" y="24" width="103" height="102" rx="4"/>
+      <rect class="zone" x="25" y="144" width="103" height="102" rx="4"/>
+      <rect class="zone" x="142" y="144" width="103" height="102" rx="4"/>
+      <use href="#cell-small" transform="translate(42 42) scale(.82)"/>
+      <use href="#cell-small" transform="translate(159 42) scale(.82)"/>
+      <use href="#cell-small" transform="translate(42 162) scale(.82)"/>
+      <use href="#cell-small" transform="translate(159 162) scale(.82)"/>
+      <circle class="index" cx="42" cy="42" r="13"/><text class="index-text" x="42" y="43">1</text>
+      <circle class="index" cx="159" cy="42" r="13"/><text class="index-text" x="159" y="43">2</text>
+      <circle class="index" cx="42" cy="162" r="13"/><text class="index-text" x="42" y="163">3</text>
+      <circle class="index" cx="159" cy="162" r="13"/><text class="index-text" x="159" y="163">4</text>
+      <path class="arrow" d="M68 13 L176 13"/>
+      <path class="arrow" d="M259 69 C272 105 270 139 253 174"/>
+      <path class="arrow" d="M68 258 L176 258"/>
+      <text class="count" x="135" y="307">four cells</text>
+      <text class="measure" x="135" y="333">row by row</text>
+    </g>
+  </g>
+
+  <g transform="translate(40 675)">
+    <rect class="family" width="1720" height="490" rx="6"/>
+    <text class="family-title" x="30" y="48">Elastic block</text>
+    <text class="family-copy" x="30" y="81">Cell size stays nearer to constant. Longer words grow modestly wider, and their outer contour still reads as one block.</text>
+
+    <g transform="translate(80 145)">
+      <rect class="block" width="190" height="225" rx="4"/>
+      <rect class="zone" x="24" y="25" width="142" height="175" rx="4"/>
+      <use href="#cell" transform="translate(47 65)"/>
+      <circle class="index" cx="42" cy="44" r="14"/><text class="index-text" x="42" y="45">1</text>
+      <text class="count" x="95" y="261">one</text>
+    </g>
+
+    <g transform="translate(365 145)">
+      <rect class="block" width="290" height="225" rx="4"/>
+      <rect class="zone" x="22" y="25" width="115" height="175" rx="4"/>
+      <rect class="zone" x="153" y="25" width="115" height="175" rx="4"/>
+      <use href="#cell" transform="translate(31 66) scale(.9)"/>
+      <use href="#cell" transform="translate(162 66) scale(.9)"/>
+      <circle class="index" cx="38" cy="43" r="14"/><text class="index-text" x="38" y="44">1</text>
+      <circle class="index" cx="169" cy="43" r="14"/><text class="index-text" x="169" y="44">2</text>
+      <path class="arrow" d="M64 13 L183 13"/>
+      <text class="count" x="145" y="261">two</text>
+    </g>
+
+    <g transform="translate(745 145)">
+      <rect class="block" width="360" height="225" rx="4"/>
+      <rect class="zone" x="22" y="25" width="160" height="175" rx="4"/>
+      <rect class="zone" x="199" y="25" width="139" height="81" rx="4"/>
+      <rect class="zone" x="199" y="119" width="139" height="81" rx="4"/>
+      <use href="#cell" transform="translate(55 65)"/>
+      <use href="#cell-small" transform="translate(232 34)"/>
+      <use href="#cell-small" transform="translate(232 128)"/>
+      <circle class="index" cx="39" cy="43" r="14"/><text class="index-text" x="39" y="44">1</text>
+      <circle class="index" cx="216" cy="43" r="14"/><text class="index-text" x="216" y="44">2</text>
+      <circle class="index" cx="216" cy="137" r="14"/><text class="index-text" x="216" y="138">3</text>
+      <path class="arrow" d="M65 13 L229 13"/>
+      <path class="arrow" d="M348 73 C360 91 360 111 348 135"/>
+      <text class="count" x="180" y="261">three</text>
+    </g>
+
+    <g transform="translate(1195 145)">
+      <rect class="block" width="430" height="225" rx="4"/>
+      <rect class="zone" x="22" y="25" width="184" height="81" rx="4"/>
+      <rect class="zone" x="224" y="25" width="184" height="81" rx="4"/>
+      <rect class="zone" x="22" y="119" width="184" height="81" rx="4"/>
+      <rect class="zone" x="224" y="119" width="184" height="81" rx="4"/>
+      <use href="#cell-small" transform="translate(79 34)"/>
+      <use href="#cell-small" transform="translate(281 34)"/>
+      <use href="#cell-small" transform="translate(79 128)"/>
+      <use href="#cell-small" transform="translate(281 128)"/>
+      <circle class="index" cx="39" cy="43" r="14"/><text class="index-text" x="39" y="44">1</text>
+      <circle class="index" cx="241" cy="43" r="14"/><text class="index-text" x="241" y="44">2</text>
+      <circle class="index" cx="39" cy="137" r="14"/><text class="index-text" x="39" y="138">3</text>
+      <circle class="index" cx="241" cy="137" r="14"/><text class="index-text" x="241" y="138">4</text>
+      <path class="arrow" d="M65 13 L254 13"/>
+      <path class="arrow" d="M419 72 C432 91 432 111 419 136"/>
+      <path class="arrow" d="M65 213 L254 213"/>
+      <text class="count" x="215" y="261">four</text>
+    </g>
+  </g>
+
+  <text class="subheading" x="54" y="1212">Outer frames are guides on this sheet. The handwritten block may be held together by alignment and white space alone.</text>
+</svg>

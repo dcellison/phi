@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1320" role="img" aria-labelledby="title desc">
+  <title id="title">Provisional consonant families for the Phi glyph mode</title>
+  <desc id="desc">Fourteen consonants grouped into closure, channel, and breath families. Related forms share substantial strokes while remaining visually distinct.</desc>
+  <rect width="1800" height="1320" fill="#ffffff"/>
+  <style>
+    .heading { font: 700 42px system-ui, sans-serif; fill: #17252a; }
+    .subheading { font: 400 20px system-ui, sans-serif; fill: #52636a; }
+    .family { fill: #f7faf9; stroke: #c9d5d2; stroke-width: 2; }
+    .family-title { font: 700 25px system-ui, sans-serif; fill: #17252a; }
+    .family-copy { font: 400 17px system-ui, sans-serif; fill: #52636a; }
+    .cell { fill: #ffffff; stroke: #d7e0de; stroke-width: 2; }
+    .label { font: 700 24px system-ui, sans-serif; fill: #17252a; text-anchor: middle; }
+    .note { font: 400 15px system-ui, sans-serif; fill: #52636a; text-anchor: middle; }
+    .core { fill: none; stroke: #263238; stroke-width: 11; stroke-linecap: round; stroke-linejoin: round; }
+    .relation { fill: none; stroke: #0f766e; stroke-width: 9; stroke-linecap: round; stroke-linejoin: round; }
+    .place { fill: #b45309; }
+    .key { font: 650 15px system-ui, sans-serif; fill: #52636a; }
+  </style>
+
+  <defs>
+    <g id="g-p">
+      <path class="core" d="M18 100 C4 72 10 34 42 19 C73 4 103 22 104 52 C105 79 82 97 59 90 C40 84 35 66 46 55 C57 44 75 49 77 62"/>
+      <circle class="place" cx="29" cy="39" r="6"/>
+    </g>
+    <g id="g-ph">
+      <path class="core" d="M18 100 C4 72 10 34 42 19 C73 4 103 22 104 52 C105 79 82 97 59 90 C40 84 35 66 46 55 C57 44 75 49 77 62"/>
+      <circle class="place" cx="29" cy="39" r="6"/>
+      <path class="relation" d="M87 18 Q116 34 89 51"/>
+    </g>
+    <g id="g-t">
+      <path class="core" d="M16 35 Q53 8 94 34 Q77 58 51 55 Q29 53 16 35 M52 55 Q70 78 55 108"/>
+      <circle class="place" cx="51" cy="36" r="6"/>
+    </g>
+    <g id="g-th">
+      <path class="core" d="M16 35 Q53 8 94 34 Q77 58 51 55 Q29 53 16 35 M52 55 Q70 78 55 108"/>
+      <circle class="place" cx="51" cy="36" r="6"/>
+      <path class="relation" d="M84 13 Q113 29 88 47"/>
+    </g>
+    <g id="g-k">
+      <path class="core" d="M17 61 Q49 18 88 23 Q111 54 88 88 Q55 108 22 82 M43 50 Q60 34 76 51 Q83 65 65 77 Q48 83 39 69"/>
+      <circle class="place" cx="28" cy="65" r="6"/>
+    </g>
+    <g id="g-m">
+      <path class="core" d="M15 56 Q15 20 49 17 Q84 17 87 53 Q90 88 52 103 Q15 91 15 56 M52 19 Q39 56 52 102"/>
+      <path class="relation" d="M24 76 Q51 89 79 72"/>
+    </g>
+    <g id="g-n">
+      <path class="core" d="M19 95 Q7 59 25 31 Q45 6 74 20 Q101 32 100 61 Q99 88 73 97 M27 61 Q49 42 75 57 Q90 68 77 88"/>
+      <path class="relation" d="M18 96 Q44 111 73 97"/>
+    </g>
+    <g id="g-r">
+      <path class="core" d="M20 103 Q9 70 26 37 Q45 6 76 19 Q103 30 101 58 Q99 84 75 91 Q50 97 40 79 Q31 62 49 51 Q65 42 76 55"/>
+      <path class="relation" d="M75 91 Q93 103 105 113"/>
+    </g>
+    <g id="g-l">
+      <path class="core" d="M85 20 Q42 7 23 44 Q8 76 34 101 Q57 122 86 101"/>
+      <path class="relation" d="M39 48 Q64 34 82 54"/>
+    </g>
+    <g id="g-s">
+      <path class="core" d="M19 29 Q50 4 87 23 Q104 34 92 49 Q74 66 42 59 Q16 58 15 78 Q15 98 40 106 Q69 117 96 94"/>
+    </g>
+    <g id="g-sh">
+      <path class="core" d="M19 29 Q50 4 87 23 Q104 34 92 49 Q74 66 42 59 Q16 58 15 78 Q15 98 40 106 Q69 117 96 94"/>
+      <path class="relation" d="M82 12 Q111 27 88 44 M91 52 Q114 65 96 80"/>
+    </g>
+    <g id="g-h">
+      <path class="core" d="M22 102 Q7 61 27 28 Q46 1 75 18 Q105 34 97 66 Q88 100 52 103"/>
+      <path class="relation" d="M38 66 Q58 46 80 65"/>
+    </g>
+    <g id="g-w">
+      <path class="core" d="M15 38 Q35 11 57 33 Q77 54 96 25 M15 78 Q38 52 58 75 Q78 99 103 65"/>
+    </g>
+    <g id="g-wh">
+      <path class="core" d="M15 38 Q35 11 57 33 Q77 54 96 25 M15 78 Q38 52 58 75 Q78 99 103 65"/>
+      <path class="relation" d="M76 12 Q105 28 80 45"/>
+    </g>
+  </defs>
+
+  <text class="heading" x="54" y="68">A provisional consonant skeleton</text>
+  <text class="subheading" x="54" y="107">Accent color exposes the family hypothesis on this study only. A written Phi glyph uses one ink.</text>
+
+  <g transform="translate(40 150)">
+    <rect class="family" width="1720" height="340" rx="6"/>
+    <text class="family-title" x="28" y="42">Closure and release</text>
+    <text class="family-copy" x="28" y="72">The paired forms share most of their body. The colored release needs a full gesture that will survive quick writing.</text>
+    <g transform="translate(250 92)">
+      <g transform="translate(0 0)"><rect class="cell" width="245" height="218" rx="5"/><use href="#g-p" transform="translate(68 24)"/><text class="label" x="122" y="181">p</text><text class="note" x="122" y="205">lip closure</text></g>
+      <g transform="translate(275 0)"><rect class="cell" width="245" height="218" rx="5"/><use href="#g-ph" transform="translate(62 24)"/><text class="label" x="122" y="181">ph</text><text class="note" x="122" y="205">lip frication</text></g>
+      <g transform="translate(550 0)"><rect class="cell" width="245" height="218" rx="5"/><use href="#g-t" transform="translate(67 24)"/><text class="label" x="122" y="181">t</text><text class="note" x="122" y="205">dental closure</text></g>
+      <g transform="translate(825 0)"><rect class="cell" width="245" height="218" rx="5"/><use href="#g-th" transform="translate(61 24)"/><text class="label" x="122" y="181">th</text><text class="note" x="122" y="205">dental frication</text></g>
+      <g transform="translate(1100 0)"><rect class="cell" width="245" height="218" rx="5"/><use href="#g-k" transform="translate(67 24)"/><text class="label" x="122" y="181">k</text><text class="note" x="122" y="205">rear closure</text></g>
+    </g>
+  </g>
+
+  <g transform="translate(40 520)">
+    <rect class="family" width="1720" height="340" rx="6"/>
+    <text class="family-title" x="28" y="42">Channel and turn</text>
+    <text class="family-copy" x="28" y="72">These forms keep a visible opening or continuation. Their lower gestures offer a place for the hand to leave the core.</text>
+    <g transform="translate(390 92)">
+      <g transform="translate(0 0)"><rect class="cell" width="245" height="218" rx="5"/><use href="#g-m" transform="translate(61 24) scale(.9)"/><text class="label" x="122" y="181">m</text><text class="note" x="122" y="205">paired channel</text></g>
+      <g transform="translate(275 0)"><rect class="cell" width="245" height="218" rx="5"/><use href="#g-n" transform="translate(70 24)"/><text class="label" x="122" y="181">n</text><text class="note" x="122" y="205">single channel</text></g>
+      <g transform="translate(550 0)"><rect class="cell" width="245" height="218" rx="5"/><use href="#g-r" transform="translate(66 22)"/><text class="label" x="122" y="181">r</text><text class="note" x="122" y="205">returning turn</text></g>
+      <g transform="translate(825 0)"><rect class="cell" width="245" height="218" rx="5"/><use href="#g-l" transform="translate(76 22)"/><text class="label" x="122" y="181">l</text><text class="note" x="122" y="205">open descent</text></g>
+    </g>
+  </g>
+
+  <g transform="translate(40 890)">
+    <rect class="family" width="1720" height="340" rx="6"/>
+    <text class="family-title" x="28" y="42">Breath and stream</text>
+    <text class="family-copy" x="28" y="72">Curves carry continuous air. The paired forms test whether a shared breath gesture remains distinct at speed.</text>
+    <g transform="translate(250 92)">
+      <g transform="translate(0 0)"><rect class="cell" width="245" height="218" rx="5"/><use href="#g-s" transform="translate(68 22)"/><text class="label" x="122" y="181">s</text><text class="note" x="122" y="205">narrow stream</text></g>
+      <g transform="translate(275 0)"><rect class="cell" width="245" height="218" rx="5"/><use href="#g-sh" transform="translate(61 22)"/><text class="label" x="122" y="181">sh</text><text class="note" x="122" y="205">turned stream</text></g>
+      <g transform="translate(550 0)"><rect class="cell" width="245" height="218" rx="5"/><use href="#g-h" transform="translate(66 22)"/><text class="label" x="122" y="181">h</text><text class="note" x="122" y="205">open passage</text></g>
+      <g transform="translate(825 0)"><rect class="cell" width="245" height="218" rx="5"/><use href="#g-w" transform="translate(64 22)"/><text class="label" x="122" y="181">w</text><text class="note" x="122" y="205">rounded wave</text></g>
+      <g transform="translate(1100 0)"><rect class="cell" width="245" height="218" rx="5"/><use href="#g-wh" transform="translate(57 22)"/><text class="label" x="122" y="181">wh</text><text class="note" x="122" y="205">voiceless wave</text></g>
+    </g>
+  </g>
+
+  <circle class="place" cx="60" cy="1282" r="7"/><text class="key" x="76" y="1288">place anchor</text>
+  <path class="relation" d="M220 1282 L264 1282"/><text class="key" x="278" y="1288">shared family gesture</text>
+  <text class="key" x="1738" y="1288" text-anchor="end">All shapes remain candidates.</text>
+</svg>
