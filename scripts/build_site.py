@@ -544,7 +544,7 @@ def book_page(body, title, footer_nav=""):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="The book about why Phi was made this way and what the evidence permits it to claim. Work in progress.">
+<meta name="description" content="The book about why Phi was made this way and what the evidence permits it to claim.">
 <title>Phi book: {title}</title>
 <script src="../theme.js"></script>
 <script src="../reader.js" defer></script>
@@ -557,7 +557,7 @@ def book_page(body, title, footer_nav=""):
 {footer_nav}
 </main>
 <footer>
-  <p>The book is being written in public. Its source chapters live in
+  <p>The book was written in public. Its source chapters live in
      <a href="https://github.com/dcellison/phi/tree/main/book">the repository</a>, and the site renders them at build time.
      The <a href="../colophon.html">colophon</a> records how Phi is made.</p>
 </footer>
@@ -566,7 +566,7 @@ def book_page(body, title, footer_nav=""):
 """
 
 
-book_chapters = sorted(BOOK_SRC.glob("[0-9][0-9]_*.md"))
+book_chapters = sorted(BOOK_SRC.glob("[0-9][0-9]_*.md")) + [p for p in [BOOK_SRC / "bibliography.md"] if p.exists()]
 book_titles = {chapter.name: title_of(chapter.read_text()) for chapter in book_chapters}
 for i, chapter in enumerate(book_chapters):
     body = link_text_citations(md_to_html(chapter.read_text()))
@@ -586,12 +586,8 @@ for i, chapter in enumerate(book_chapters):
     )
 
 book_readme = md_to_html((BOOK_SRC / "README.md").read_text())
-book_readme = book_readme.replace(
-    "<p><strong>Work in progress</strong></p>",
-    '<p class="text-method">Work in progress</p>',
-)
 book_readme = re.sub(
-    r'href="([0-9][0-9]_[a-z0-9_]+)\.md"',
+    r'href="([0-9][0-9]_[a-z0-9_]+|bibliography)\.md"',
     r'href="\1.html"',
     book_readme,
 )
