@@ -58,7 +58,7 @@ Brown, James Cooke. 1960. Loglan. Scientific American 202(6): 53-63.
 
 Declaration of Boulogne. 1905. Adopted at the first World Esperanto Congress, Boulogne-sur-Mer.
 
-Elgin, Suzette Haden. 1999. Láadan, the constructed language in Native Tongue books. Self-published essay, originally at sfwa.org, now hosted at laadanlanguage.com.
+Elgin, Suzette Haden. 1999. Láadan, the constructed language in Native Tongue. Self-published essay, originally at sfwa.org, now hosted at laadanlanguage.com.
 
 Garvía, Roberto. 2015. Esperanto and Its Rivals: The Struggle for an International Language. Philadelphia: University of Pennsylvania Press.
 
