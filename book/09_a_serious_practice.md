@@ -26,7 +26,7 @@ The sleeping cat is Phi's official picture of what a habit is. And the deeper le
 
 ## What kind of thing this is
 
-The sociologist Robert Stebbins spent a career studying people who give themselves seriously to things they do not get paid for: amateur musicians and astronomers, quilters, mountain hobbyists, volunteer archaeologists. He called it serious leisure, and he found that it has a recognizable anatomy, six qualities that separate it from channel-surfing: the need to persevere, the availability of a career in the pursuit, real effort to gain skill and knowledge, durable benefits, a unique ethos and social world, and an identity a person comes to carry (Stebbins 1982; 1992).
+The sociologist Robert Stebbins spent a career studying people who give themselves seriously to things they do not get paid for: amateur musicians and astronomers, magicians and stand-up comics, barbershop singers, mountain hobbyists, amateur archaeologists. He called it serious leisure, and he found that it has a recognizable anatomy, six qualities that separate it from channel-surfing: the need to persevere, the availability of a career in the pursuit, real effort to gain skill and knowledge, durable benefits, a unique ethos and social world, and an identity a person comes to carry (Stebbins 1982; 1992).
 
 Learning Phi is serious leisure with every organ intact. It asks perseverance: vowel hiatus does not master itself, and a verb-final sentence makes a memory work. It offers a career, a path that runs from the primer's household, through the grammar, into a shelf where Morris and the Metta Sutta wait. It demands effort and returns skill. It carries a pronounced ethos, mindful and compassionate speech, held in an actual protocol. And it confers an identity with a texture all its own: the person learning the quiet language, the one who knows what the eight stations of the sun are called.
 
@@ -46,7 +46,7 @@ mia norawhi hi nila. mia shea phaelo.
 
 The evidential `hi` claims the seeing as the writer's own; `phaelo` gives the feeling a clause to live in. On a harder day the second sentence is `mia nuhe phaelo`, I feel sadness, and the manual is explicit that the exercise does not ask the feeling to improve before it can be written.
 
-This is expressive writing, a practice psychology has tested for four decades. The pooled effect across 146 randomized studies is real and small, r = .075, and the conditions that strengthen it read like a description of what Phi's journal form already is: writing repeatedly rather than once, writing at home, writing to a specific form rather than an open page (Frattaroli 2006; Reinhold, Bürkner and Holling 2018). Two sentences with assigned jobs, witnessed and felt, at the same hour of the same kitchen table, is about as specific and repeatable as writing gets. The journal form never read the literature. It arrived at the same design from its own commitments, because a practice built around witness and feeling has to give each its own grammar.
+This is expressive writing, a practice psychology has tested for four decades. The pooled effect across 146 randomized studies is real and small, r = .075, and the conditions that strengthen it read like a description of what Phi's journal form already is: writing repeatedly rather than once, writing at home, writing on an assigned topic rather than an open page (Frattaroli 2006; Reinhold, Bürkner and Holling 2018). Two sentences with assigned jobs, witnessed and felt, at the same hour of the same kitchen table, is about as specific and repeatable as writing gets. The journal form never read the literature. It arrived at the same design from its own commitments, because a practice built around witness and feeling has to give each its own grammar.
 
 ## Sitting with the phrases
 
@@ -64,7 +64,7 @@ One more number belongs here, stated once and plainly: pooled across eighty-thre
 
 ## Two lines and a rhyme
 
-Theodor Geisel's publisher bet him that he could not write a book in fifty distinct words, and the result was *Green Eggs and Ham*. A psychologist borrowed the principle and tested it: asked to write two-line rhymes for ordinary occasions, people wrote more creative ones when required to include a given noun, and the benefit lingered after the constraint was lifted (Haught-Tromp 2017). A sweeping review of 145 studies across disciplines reached the same shape: a healthy dose of constraint helps creative work, and only an excess smothers it (Acar, Tarakci and van Knippenberg 2019).
+Theodor Geisel's publisher bet him that he could not write a book in fifty distinct words, and the result was *Green Eggs and Ham*. A psychologist borrowed the principle and tested it: asked to write two-line rhymes for special occasions, people wrote more creative ones when required to include a given noun, and the benefit lingered after the constraint was lifted (Haught-Tromp 2017). A sweeping review of 145 studies across disciplines reached the same shape: a healthy dose of constraint helps creative work, and only an excess smothers it (Acar, Tarakci and van Knippenberg 2019).
 
 Phi is a standing version of the bet. Write your evening in Phi: no name for the minute, no word for what the day cost, seven color words and a way to borrow any color the world owns. The refusals of chapter 2 are not only positions; they are prompts. Every sentence is a two-line rhyme with a required noun, and the requirement is the point. Writers have always known this about sonnets. Phi makes it true of Tuesday.
 
@@ -94,7 +94,7 @@ Acar, Oguz A., Murat Tarakci, and Daan van Knippenberg. 2019. "Creativity and In
 
 Daykin, Norma, Louise Mansfield, Catherine Meads, Guy Julier, Alan Tomlinson, Annette Payne, Lily Grigsby Duffy, et al. 2018. "What works for wellbeing? A systematic review of wellbeing outcomes for music and singing in adults." *Perspectives in Public Health* 138, no. 1: 39-46.
 
-Farias, Miguel, Everton Maraldi, K.C. Wallenkampf, and Giancarlo Lucchetti. 2020. "Adverse events in meditation practices and meditation-based therapies: a systematic review." *Acta Psychiatrica Scandinavica* 142, no. 5: 374-393.
+Farias, Miguel, Everton Maraldi, K. C. Wallenkampf, and Giancarlo Lucchetti. 2020. "Adverse events in meditation practices and meditation-based therapies: a systematic review." *Acta Psychiatrica Scandinavica* 142, no. 5: 374-393.
 
 Frattaroli, Joanne. 2006. "Experimental disclosure and its moderators: A meta-analysis." *Psychological Bulletin* 132, no. 6: 823-865.
 
@@ -110,7 +110,7 @@ Hobson, Nicholas M., Juliana Schroeder, Jane L. Risen, Dimitris Xygalatas, and M
 
 Kuykendall, Lauren, Louis Tay, and Vincent Ng. 2015. "Leisure engagement and subjective well-being: A meta-analysis." *Psychological Bulletin* 141, no. 2: 364-403.
 
-Lang, Martin, Jan Krátký, and Dimitris Xygalatas. 2020. "The role of ritual behaviour in anxiety reduction: an investigation of Marathi religious practices in Mauritius." *Philosophical Transactions of the Royal Society B* 375: 20190431.
+Lang, Martin, Jan Krátký, and Dimitris Xygalatas. 2020. "The role of ritual behaviour in anxiety reduction: an investigation of Marathi religious practices in Mauritius." *Philosophical Transactions of the Royal Society B* 375, no. 1805: 20190431.
 
 Lehtonen, Minna, Anna Soveri, Aini Laine, Janica Järvenpää, Angela de Bruin, and Jan Antfolk. 2018. "Is bilingualism associated with enhanced executive functioning in adults? A meta-analytic review." *Psychological Bulletin* 144, no. 4: 394-425.
 
@@ -124,7 +124,7 @@ Stebbins, Robert A. 1982. "Serious Leisure: A Conceptual Statement." *Pacific So
 
 Stebbins, Robert A. 1992. *Amateurs, Professionals, and Serious Leisure*. Montreal: McGill-Queen's University Press.
 
-Wilkie, Lowri, Zoe Fisher, Antonia Geidel, Isabel Goodall, Shannon Kamil, Elen Davies, and Andrew Haddon Kemp. 2026. "A systematic review and network meta-analysis of randomized controlled trials of well-being-focused interventions." *Nature Human Behaviour*, 2 January 2026.
+Wilkie, Lowri, Zoe Fisher, Antonia Geidel, Isabel Goodall, Shannon Kamil, Elen Davies, and Andrew Haddon Kemp. 2026. "A systematic review and network meta-analysis of randomized controlled trials of well-being-focused interventions." *Nature Human Behaviour* 10: 715-726.
 
 ### Phi sources
 
