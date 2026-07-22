@@ -1,6 +1,6 @@
 # Part 4: The comma of address, the capital of a name
 
-English can distinguish a person addressed from a person discussed with a comma. Phi makes the distinction audible:
+The naming pamphlet owns this territory at depth, from honorifics to the family register; this part keeps only what the marks-lens needs. English can distinguish a person addressed from a person discussed with a comma. Phi makes the distinction audible:
 
 ```
 kona ne sulae. mia sano.

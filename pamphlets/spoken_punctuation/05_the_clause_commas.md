@@ -66,6 +66,10 @@ tree COORD flower COORD grass.
 
 This repeated conjunction makes the grouping audible without importing English's choice between a serial comma and no serial comma.
 
+### The splice that cannot happen
+
+English's commonest punctuation error is the comma splice, two sentences joined by a mark too weak to hold them. Phi cannot commit it. Between two clauses there is either the full period or an audible conjunction, and nothing weaker exists to misuse. The semicolon, English's licensed splice, gets its own reckoning in Part 8.
+
 ### Practice: locate the boundaries
 
 For each line, locate the dependent frame, complement closer, conjunction, or sentence boundary. Explain which word or period makes it recoverable.

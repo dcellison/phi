@@ -15,9 +15,11 @@ By the end of this pamphlet, you will be able to:
 - Keep `kona`, `ne`, and the name register in their proper roles
 - Hear the different boundaries used by conditions, dependent clauses, complement frames, coordination, and lists
 - Choose words for intensity, wishes, warnings, and reactions without treating any of them as a general exclamation mark
+- Choose among Phi's twenty interjections by their own meanings and nearest neighbors
+- Give the colon, semicolon, parentheses, dash, and ellipsis to sentence structure, the discourse markers, or an honest silence
 - Test which lexical distinctions survive careful dictation, while keeping the silent period and source artifacts outside that claim
 
-This pamphlet assumes the particle system in manual chapter 9 and the sentence patterns in chapter 10. Chapters 17, 19, 21, and 24 provide the fuller grammar behind the examples.
+This pamphlet assumes the particle system in manual chapter 9 and the sentence patterns in chapter 10. Chapters 17, 18, 19, 21, and 24 provide the fuller grammar behind the examples.
 
 ---
 
@@ -29,10 +31,12 @@ This pamphlet assumes the particle system in manual chapter 9 and the sentence p
 4. The comma of address, the capital of a name
 5. The clause commas
 6. No exclamation mark
-7. The dictation check
-8. Common errors
-9. Exercises
-10. Appendix: quick reference
+7. Twenty complete utterances
+8. The marks with no counterpart
+9. The dictation check
+10. Common errors
+11. Exercises
+12. Appendix: quick reference
 
 ---
 

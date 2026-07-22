@@ -27,9 +27,11 @@ Canon phrases the wider rule this way: a silent mark is justified only where no 
 | `!` for several different effects | words and delivery chosen for the intended meaning; there is no general Phi equivalent |
 | `.` at sentence-end | the period |
 
+Five further marks, the colon, semicolon, parentheses, dash, and ellipsis, have no row of their own because their work belongs to sentence structure rather than to any single word; Part 8 takes them one by one.
+
 ### Pauses are free
 
-A pause can give someone time to breathe, think, or let a line settle. It can also carry feeling. What it cannot do is alter a Phi sentence's grammatical structure or propositional meaning. A hesitation therefore needs no ellipsis, and an expressive pause needs no dash. The same sentence may be read with different rhythms without becoming a different sentence. The page records what was said and leaves the silences unspelled.
+A pause can give someone time to breathe, think, or let a line settle. It can also carry feeling. What it cannot do is alter a Phi sentence's grammatical structure or propositional meaning. A hesitation therefore needs no ellipsis, and an expressive pause needs no dash. The same sentence may be read with different rhythms without becoming a different sentence. The page records what was said and leaves the silences unspelled. One pause, though, is a word: when the hesitation itself is spoken, Phi says `nuo`, and Parts 7 and 8 give it its due.
 
 ### Every Phi mode carries the words
 

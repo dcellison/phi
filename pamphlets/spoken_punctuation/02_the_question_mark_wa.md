@@ -56,7 +56,19 @@ mia ne sulae kua nai ma sano.
 (I do not know where sulae is.)
 ```
 
-The first sentence treats the unresolved proposition as the object of `phaelo`. The second embeds a content question directly: `kua` occupies the unknown place, while the final `ma sano` says that the speaker does not know it.
+The first sentence treats the unresolved proposition as the object of `phaelo`. The second embeds a content question directly: `kua` occupies the unknown place, while the final `ma sano` says that the speaker does not know it. The complementizers pamphlet drills both frames at full depth.
+
+### The stacked marks
+
+English sometimes writes `?!` when a question arrives with feeling attached. Phi keeps the two jobs in two utterances: the interjection reacts, then `wa` asks.
+
+```
+wao. wa thia ha nila.
+wow. Q 2SG PROX see.
+(Wow. Are you seeing this?)
+```
+
+Neither word borrows work from the other. The reaction is complete at its period, and the question announces itself the ordinary way.
 
 ### Practice: choose the question form
 

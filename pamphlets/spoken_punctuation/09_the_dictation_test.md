@@ -1,4 +1,4 @@
-# Part 7: The dictation check
+# Part 9: The dictation check
 
 This scene tests whether its lexical markers survive careful spoken transmission. It does not test exact recovery of every period. Sentence-end is the one boundary Phi deliberately leaves to a silent mark.
 
@@ -47,5 +47,11 @@ With a partner, have one person read the two framed messages while the other tra
 - A name marked with `ne`
 - A separate `kona` address
 - A wish opened by `su`
+- An interjection chosen for its own meaning
+- A discourse marker opening a related sentence
 
 Working alone, record a message and return after its exact wording is no longer fresh. Transcribe it without looking at the source, then make the same two comparisons. An outside identifier can be tried separately with an agreed oral convention; it is a useful reminder that no grammar turns arbitrary notation into speech by itself.
+
+### The far room
+
+A third round tests the claim where it earns its keep: under rough conditions. Have the reader stand in the next room, or face away across a courtyard, and read the message once at a natural pace. The transcriber writes what arrives. The interesting result is not the score; it is which distinctions survive the distance. A frame boundary, a `ne` before a name, an opening `wa`: each was designed to be carried by a word rather than a mark, and the far room is where that design either holds or does not. Record what was lost as evidence about the conditions, not about the language or the listener, and bring the message closer until it survives whole.

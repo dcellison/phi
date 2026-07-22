@@ -41,6 +41,8 @@ watch out. snake.
 
 The English translation uses exclamation marks because that punctuation suits its urgent warning. The Phi says `teo`, names the snake, and may be spoken as loudly or quickly as the situation requires. A period does not prescribe a calm voice.
 
+These six are the interjections English most often hides behind an exclamation mark. Phi has twenty, and Part 7 shelves the whole class, neighbor by neighbor.
+
 `whelani` also works as a complete welcome, but it is a verb with understood participants rather than an interjection. Its standalone use does not change its part of speech.
 
 ### Wishes begin with `su`

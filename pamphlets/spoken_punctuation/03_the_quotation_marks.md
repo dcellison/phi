@@ -38,7 +38,11 @@ shia mena thia so kamo meno haolu.
 (They say that you will arrive.)
 ```
 
-The report may adjust pronouns or condense the wording because it makes no verbatim claim. Phi marks that difference lexically, so a listener can hear it as well as a reader can see it.
+The report may adjust pronouns or condense the wording because it makes no verbatim claim. Phi marks that difference lexically, so a listener can hear it as well as a reader can see it. The complementizers pamphlet gives both frames their full workout.
+
+### The other jobs of the marks
+
+English quotation marks moonlight. Around a title, they signal a name: Phi already has the spoken word for that job, and `ne` announces a work's designation exactly as it announces a person's. Around a single word, they hold the word at arm's length, the scare quotes of doubt or borrowed vocabulary. Phi holds a word at arm's length by saying whose it is: quote it exactly, `shola welao sholo`, with the speaker named in the matrix clause, or mark the whole claim as carried by report with `ti`. Either way the distance is audible and attributed. Irony that refuses to name its source has no silent mark to hide behind, which is not an accident of the design.
 
 ### Practice: find the frame
 
