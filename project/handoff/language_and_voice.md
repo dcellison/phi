@@ -195,6 +195,8 @@ Warmth matters. Daniel found the early chapters too cool and asked for a light t
 
 Read adjacent chapters before drafting so the warmth and furniture continue. Do not paste the same humorous turn into each chapter. Scientific claims stay exact, qualifications stay near the claim, and humour cannot make a weak citation look stronger.
 
+Two register rulings from 22 July 2026 bind the book beyond the humour note. Hedging is low: the honest number, stated once where the claim is made, is the hedge, and the prose then moves on with confidence rather than stacking qualifications. A boundary or refusal appears at most once in the whole book, as a sentence in the chapter where the reader actually brings the temptation, so search the other chapters before spending one, and never restate a hedge as a paragraph closer or a chapter-ending caution. Warmth is high: the book is openly aspirational and inspirational, with imagery hung on design-intent verbs such as built to, offers, asks, and invites, and aspiration reserved for what the practice opens rather than promises of what it causes. Daniel's own words set both: "Lower the importance of hedging. It is getting in the way of a good book," and "keep it very warm, aspirational, and inspirational."
+
 ## Spelling note
 
 At the July 2026 model handoff, Daniel ruled that new prose uses American spelling for now, in the book as well as everywhere else, matching the voice guide's hard-mechanics line. His earlier Canadian preference for book chapters is superseded until he reopens it, and existing repository prose still contains both practices.
