@@ -1,4 +1,4 @@
-# Part 8: Common errors
+# Part 10: Common errors
 
 Most errors in this system come from asking delivery to carry grammar or from restoring marks that the Phi words have already supplied.
 
@@ -39,3 +39,15 @@ Period-only writing does not prescribe monotone speech. `wa` identifies a direct
 ### Error 7: treating `ru` as an exclamation mark
 
 English "Wonderful!" might be the immediate reaction `lua.`, the assertion `ha nophi welao nai.` (This story is good), or the degree claim `ha nophi ru welao nai.` (This story is very good). `ru` belongs only in the third reading. Translate the intended meaning of the utterance, not the shape of the punctuation after it.
+
+### Error 8: the all-purpose interjection
+
+**Wrong for the moment described:** `wao.` offered while an explanation finally comes clear.
+
+The moment something clicks is `nea.`; `wao.` says expectation was exceeded, which is a different event. Each of the twenty interjections keeps its lexical meaning, and volume cannot substitute one for another. When two candidates feel close, the entry's nearest neighbor decides: reception is `mio`, assent is `lia`; the speaker's own pain is `sai`, sympathy beside it is `halu`. Part 7 drills the pairs.
+
+### Error 9: importing the scare quotes
+
+**Wrong inside Phi:** `shia "welao" haolu.`
+
+The marks contribute nothing a Phi listener can hear, and the validator rejects them. When the point is that the word is someone else's, say so and quote it: `shia shola welao sholo to haolu.` (They said, "good.") When the point is that the claim travels on another's word, mark the clause with `ti`. Distance in Phi is attributed aloud, never floated on silent typography.
