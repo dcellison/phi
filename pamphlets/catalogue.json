@@ -31,6 +31,12 @@
       "dual_script": false
     },
     {
+      "directory": "nouns_classifiers",
+      "title": "Nouns and classifiers in Phi",
+      "summary": "Building the phrase that finds the thing: the bare noun and what context carries, one quantity marker from lo to the exact count, the classifier's optional place, description and association before the noun, and possession inside the phrase and out.",
+      "dual_script": false
+    },
+    {
       "directory": "evidentiality",
       "title": "Evidentiality in Phi",
       "summary": "Four particles for claimed source: direct perception, inference, report, and assumption. Practice moves from the snake at the well through questions, retelling, and an optional source journal.",
