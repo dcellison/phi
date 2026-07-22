@@ -149,6 +149,8 @@ python3 scripts/build_site.py
 
 It renders the invitation, colophon, short road, primer, manual, book, texts, and pamphlets; generates lexicon and compound data; and checks that the text and pamphlet catalogues match their directories.
 
+The top navigation on every rendered page reads kia, walk, primer, book, manual, pamphlets, texts, lexicon, in that maintainer-set order. The single word walk is the shelf label for the short road; the link target stays `short_road.html` and the page keeps its own title. The nav markup lives in eight templates inside `scripts/build_site.py` and in the static `site/explore.html`, so a shelf change touches all nine.
+
 The maintained shelf order and display metadata live in `texts/catalogue.json` and `pamphlets/catalogue.json`. `scripts/content_catalogues.py` is the shared library that rejects duplicate, missing, uncatalogued, or malformed entries. Update the catalogue in the same PR as any shelf addition, removal, rename, or reorder.
 
 The explorer has several settled interaction rules. `any module` includes base vocabulary and every module word; `base vocabulary` includes only entries whose `modules` array is absent or empty; a named module includes every word listing that module, including words shared with other modules. The `Phi word` search scope matches the entry form alone and never returns registered compounds. Compounds appear in `all fields` when no word facet is active, or under their own search scope. Pressing `/` focuses the search box. Preserve these distinctions when changing `site/app.js` or `site/explore.html`.
