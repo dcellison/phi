@@ -1,10 +1,10 @@
 # Current state
 
-This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D055, the fifteenth SEM-09D literary retrofit, all seven manual teaching passes, the primer pass, all nine pamphlet passes, the whole-manual warmth revision, the current-documents sweep, and the completed, published book. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
+This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D055, the fifteenth SEM-09D literary retrofit, all seven manual teaching passes, the primer pass, all nine pamphlet passes, the whole-manual warmth revision, the current-documents sweep, the completed, published book, and the whole-book revision read. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
 
 ## Active execution sequence
 
-SEM-09D is complete, and so is PED-08: the book is published whole, from the cold open through the close and its consolidated bibliography, with the planning treatment archived at `archive/book_treatment.md`. No work package is commissioned. The open questions awaiting the maintainer are the book's title, a possible uniform restyle of the bibliography's two inherited citation styles, and revision passes as the whole book is read together.
+SEM-09D is complete, and so is PED-08: the book is published whole, from the cold open through the close and its consolidated bibliography, with the planning treatment archived at `archive/book_treatment.md`. No work package is commissioned. The book's title remains The Phi Book for now by the maintainer's ruling, the bibliography's citation style is uniform, and the whole-book revision read is complete; further revision waits on the maintainer's own reading of the finished book.
 
 D044 completed the base-first boundary, and D045 through D052 completed all eight learning paths in their historical order. The full migration has one editorial judgement and voice. SEM-09D began with Schleicher's fable. That pilot preserved every Phi line after checking later base roots and optional terms, while D053 repaired `kawhera` and `pilora` after their target prose proved narrower than their validated animal uses. The second pass replaced three older circumlocutions in *The North Wind and the Sun* with `mesatu` (try), `komeri` (forehead), and `phesari` (flee) in both the translation and transmutation. The third replaced four detours in the Metta Sutta with `sheraki` (search), `tupeka` (burden), `rinu` (want), and `huwa` (weak). The fourth leaves both UDHR Article 1 renderings intact and identifies `remo` as thinking rather than a dedicated rational faculty. The fifth repairs Babel's physical joining, the tower's top, the builders' wish for renown, imagined action, and punitive scattering without adding a root. The sixth restores reverence, perception, change, and verse in the Heart Sutra. It also removes a quantitative misuse of `thenoi` and keeps physical `whalo` out of the English "great" homonym. The seventh brings `phomila`, `lioru`, `lima`, and `mesatu` into *The Prophet, On Children*. The eighth gives the Tao Te Ching translation `kowanu`, `monaki`, and direct `kethua`; both renderings distinguish `lioru`, life, and state completed withering through `ki kureno`. The ninth revises seventeen Solarpunk units, uses all eight modules, and removes technical vocabulary from general solutions, human ability, social power, and ordinary living. The tenth replaces unadorned `mueli` with simple `siloma` in *The Little Prince* and uses perfective `ki` for the bond whose result still holds. The eleventh preserves the Ring Verse refusal's 12 base and function forms while bringing its account of dominion into line with the completed Commons and Systems distinctions. The twelfth changes 46 units in *The Velveteen Rabbit*, separates search from finding and wear from age, and brings exact household and bodily words into the nursery without changing Williams's source witness. The thirteenth changes 29 units in *News from Nowhere* chapter 1, separates authority from guidance and representation from thought, and brings direct words for coercion, winter, wear, waking, and observation into Morris's first night without changing his source witness. The fourteenth now changes 57 units in chapter 2, adds direct tide and service to its earlier repairs, and preserves every Morris line. The fifteenth changes 46 units in chapter 3, gives the house and breakfast direct household language, gives the weaver his craft terms, and preserves all 245 Morris lines. The drafted-book pass preserves thirteen of fifteen fenced examples, revises two in the cold open, corrects the account of `wia` and transmutation, and aligns the schema discussion with the completed lexicon contract. The first teaching pass reviews all nine Part I files, corrects determinist and universal claims, replaces obsolete sound lore with current articulation, and rebuilds the beginner exchange without adding a root or module term. The second reviews all nineteen Part II files, preserves the two current sound essays, and repairs the remaining chapters' cultural, phonesthetic, grammatical, social, and learning claims without adding a root or module term.
 
@@ -118,25 +118,25 @@ The shelf's method distinction remains settled:
 
 ## Book state
 
-The book is complete and published: the cold open, chapters 1 through 14, the close, and the consolidated bibliography, seventeen files, all rendered on the website. Every chapter has a references section and a `Phi sources` subsection; the close carries only Phi sources, and `book/bibliography.md` consolidates all 167 cited works while preserving each entry as its audited chapter gives it.
+The book is complete and published: the cold open, chapters 1 through 14, the close, and the consolidated bibliography, seventeen files, all rendered on the website. Every chapter has a references section and a `Phi sources` subsection; the close carries only Phi sources, and `book/bibliography.md` consolidates all 166 cited works, each entry byte-identical to the reference line in every chapter that cites it, verified in both directions.
 
 | Chapter | File | Approximate words |
 |---|---|---:|
 | Cold open: The boatman | `book/00_the_boatman.md` | 993 |
-| 1. The hurried tongue | `book/01_the_hurried_tongue.md` | 2,481 |
-| 2. What a refusal is | `book/02_what_a_refusal_is.md` | 1,621 |
-| 3. The invented century | `book/03_the_invented_century.md` | 3,049 |
-| 4. Announce, then deliver | `book/04_announce_then_deliver.md` | 2,532 |
-| 5. The web | `book/05_the_web.md` | 2,545 |
-| 6. What it will not say | `book/06_what_it_will_not_say.md` | 1,675 |
+| 1. The hurried tongue | `book/01_the_hurried_tongue.md` | 2,465 |
+| 2. What a refusal is | `book/02_what_a_refusal_is.md` | 1,616 |
+| 3. The invented century | `book/03_the_invented_century.md` | 3,064 |
+| 4. Announce, then deliver | `book/04_announce_then_deliver.md` | 2,455 |
+| 5. The web | `book/05_the_web.md` | 2,535 |
+| 6. What it will not say | `book/06_what_it_will_not_say.md` | 1,653 |
 | 7. A literature before a community | `book/07_a_literature_before_a_community.md` | 3,248 |
-| 8. The workshop | `book/08_the_workshop.md` | 3,312 |
-| 9. A serious practice | `book/09_a_serious_practice.md` | 2,617 |
-| 10. The distance of a learned tongue | `book/10_the_distance_of_a_learned_tongue.md` | 2,164 |
-| 11. The lens, not the cage | `book/11_the_lens_not_the_cage.md` | 4,073 |
-| 12. A language for the commons | `book/12_a_language_for_the_commons.md` | 2,442 |
-| 13. Escaping words | `book/13_escaping_words.md` | 1,745 |
-| 14. The mind question | `book/14_the_mind_question.md` | 1,623 |
+| 8. The workshop | `book/08_the_workshop.md` | 3,300 |
+| 9. A serious practice | `book/09_a_serious_practice.md` | 2,627 |
+| 10. The distance of a learned tongue | `book/10_the_distance_of_a_learned_tongue.md` | 2,169 |
+| 11. The lens, not the cage | `book/11_the_lens_not_the_cage.md` | 4,096 |
+| 12. A language for the commons | `book/12_a_language_for_the_commons.md` | 2,443 |
+| 13. Escaping words | `book/13_escaping_words.md` | 1,746 |
+| 14. The mind question | `book/14_the_mind_question.md` | 1,622 |
 | Close: The door | `book/15_the_door.md` | 642 |
 
 The treatment aims for 4,000 to 6,000 words per chapter and 70,000 to 90,000 words overall, but Daniel chose to continue rather than pad early chapters merely to meet a projection. Do not silently lengthen merged chapters. A later structural edit can decide where depth is genuinely missing.
@@ -145,9 +145,11 @@ Two register rulings from the chapter 9 and 10 work bind every future chapter; [
 
 No further chapter is planned; the treatment that governed drafting is archived at `archive/book_treatment.md`. The proven chapter method stays recorded here because it binds revision passes too: a verification agent pins every source with verbatim quotes and transcribes exact title lines before drafting, author names come from Crossref at entry-writing time, repository receipts are checked by grep, a list attributed to a source is treated as a quotation and checked against the source's own enumeration, the full voice protocol runs with the counting pass, and restrained Jerome humour appears where it fits.
 
-The leading book title remains *A Language You Cannot Hurry*. *Announce, Then Deliver* is the alternate. The title is open. "Hurry" must continue to mean attention discarded under pressure, not fast speech.
+The book's title is The Phi Book for now, by the maintainer's ruling of 22 July 2026. *A Language You Cannot Hurry* and *Announce, Then Deliver* stay on record as candidates if he reopens the question, and "Hurry" in the first candidate must continue to mean attention discarded under pressure, not fast speech.
 
 Post-merge citation audits are archived as repository documents where run: chapters 3 through 5 from July 13, and chapters 8 through 10, 12 through 14, and the close from July 22, all catalogued in `archive/README.md`. Citation work for the remaining early chapters is not preserved as a complete set of audit reports, so do not infer that a citation is sound merely because the chapter is merged. Recheck any citation whose surrounding claim changes, and verify an audit's own findings before applying them; four findings in this audit series were themselves overturned on recheck.
+
+The whole-book revision read of 22 July 2026 is the first pass over the published whole and the model for any later one. A front-to-back read logged observations at the moment of noticing, every finding was verified by grep against the corpus before it reached the maintainer, and one reviewed pull request repaired all fourteen: the chapter 2 and 6 Ring Verse duplication, chapter 10's forward reference phrased as past, chapter 9's primer facts, hedging past the once-per-book rule in chapters 1, 4, and 5, four British spellings, the drafting chronology on the public contents page, and the bibliography's Tolkien double and byte-order sort. Since that repair the chapter references and the bibliography match byte for byte in both directions, so a mismatch found later is a regression, not an inherited style seam.
 
 ## Parked and future work
 
