@@ -165,6 +165,16 @@ The public site deploys from `build/site/` on each push to `main` through `.gith
 
 Routine content work does not require headless Chrome or a screenshot. Use browser automation only when a UI change genuinely needs visual or interaction verification.
 
+## GitHub presence
+
+The repository's public face on GitHub is maintainer-set. Treat all three surfaces as his outward voice and change none of them without his instruction.
+
+The About description reads, verbatim: "A personal constructed language for mindful and compassionate speech. One grammar rule: announce, then deliver. No word for the hour, the price, or the lord. Primer, manual, literature shelf, and a book about why, all on the site." He picked this wording himself. Do not reword it, and never reintroduce slow-language framing on any outward surface; the unhurried quality is freedom from needless haste, not slowness.
+
+The topics are `conlang`, `constructed-language`, `language-learning`, `linguistics`, `mindfulness`, `solarpunk`, and `peace-linguistics`. The absence of an auxiliary-language topic is deliberate, since Phi is a personal language and not an auxlang; `language-learning` stays by his call.
+
+The root `README.md` is the repository's public map. It covers the whole current top level, the book and `writing_systems/` included, and it should be refreshed in the same PR whenever the top-level shape changes.
+
 ## Lexicon lookup tool
 
 `scripts/lexicon_tool_simple.py` creates ignored `build/lexicon.db` from the canonical JSON:
