@@ -12,6 +12,7 @@ class ContentVocabularyDecisionTests(unittest.TestCase):
     def setUpClass(cls):
         cls.data = decisions.load_data()
         cls.coverage = decisions.COVERAGE_FILE.read_text(encoding="utf-8")
+        cls.handoff = decisions.HANDOFF_FILE.read_text(encoding="utf-8")
 
     def test_repository_register_is_valid(self):
         self.assertEqual(decisions.validate(self.data, coverage_text=self.coverage), [])
@@ -58,6 +59,27 @@ class ContentVocabularyDecisionTests(unittest.TestCase):
         coverage = self.coverage.replace("CV-MAT-03", "UNTRACKED", 1)
         errors = decisions.validate(self.data, coverage_text=coverage)
         self.assertTrue(any("unregistered REVIEW or DEFERRED row" in error for error in errors))
+
+    def test_stale_handoff_count_is_rejected(self):
+        current = decisions.expected_handoff_counts(self.data)["Decisions"]
+        stale = self.handoff.replace(
+            f"| Decisions | {current} |", f"| Decisions | {current - 1} |", 1
+        )
+        self.assertNotEqual(stale, self.handoff)
+        errors = decisions.validate(
+            self.data, coverage_text=self.coverage, handoff_text=stale
+        )
+        self.assertTrue(any("stale decision count for Decisions" in error for error in errors))
+
+    def test_missing_handoff_count_is_rejected(self):
+        missing = self.handoff.replace("| Registered batches |", "| Semantic batches |", 1)
+        self.assertNotEqual(missing, self.handoff)
+        errors = decisions.validate(
+            self.data, coverage_text=self.coverage, handoff_text=missing
+        )
+        self.assertTrue(
+            any("missing decision count row: Registered batches" in error for error in errors)
+        )
 
 
 if __name__ == "__main__":

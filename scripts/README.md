@@ -42,7 +42,7 @@ python3 scripts/test_name_forms.py
 
 ## content_vocabulary_decisions.py
 
-Validates the canonical content-vocabulary decision register in `project/content_vocabulary_decisions.json` and generates its readable Markdown view. The check requires every semantic batch and every carried-forward lexical question to have an explicit state, links related batches and questions in both directions, prevents batch state from disagreeing with unresolved work, verifies implemented words and registered compounds, and rejects detailed review rows in the coverage ledger when they lack a decision ID.
+Validates the canonical content-vocabulary decision register in `project/content_vocabulary_decisions.json` and generates its readable Markdown view. The check requires every registered batch and carried-forward lexical question to have an explicit state. It verifies reciprocal links, batch closure, implementation evidence, and coverage-ledger IDs, then compares the decision-count snapshot in `project/handoff/current_state.md` with the live register.
 
 ```bash
 python3 scripts/content_vocabulary_decisions.py --write

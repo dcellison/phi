@@ -110,7 +110,7 @@ At the #418 checkpoint the suites contain 21 schema tests, 20 name tests, and 6 
 python3 scripts/vocabulary_prose_coverage.py
 ```
 
-`scripts/content_vocabulary_decisions.py` owns the readable decision view and validates reciprocal links, state requirements, implementation files, compounds, batch closure, and coverage headings:
+`scripts/content_vocabulary_decisions.py` owns the readable decision view and checks the register against its linked files. It verifies reciprocal links and state evidence, then checks implementation files, compounds, batch closure, and coverage headings. The same command compares the decision-count snapshot in `project/handoff/current_state.md` with the live register:
 
 ```bash
 python3 scripts/content_vocabulary_decisions.py --write
