@@ -90,41 +90,41 @@ But look at what smallness comes to when a practice gathers it. A sentence at wa
 
 ## References
 
-Acar, Oguz A., Murat Tarakci, and Daan van Knippenberg. 2019. "Creativity and Innovation Under Constraints: A Cross-Disciplinary Integrative Review." *Journal of Management* 45, no. 1: 96-121.
+Acar, Oguz A., Murat Tarakci, and Daan van Knippenberg. 2019. Creativity and Innovation Under Constraints: A Cross-Disciplinary Integrative Review. Journal of Management 45(1): 96-121. https://doi.org/10.1177/0149206318805832.
 
-Daykin, Norma, Louise Mansfield, Catherine Meads, Guy Julier, Alan Tomlinson, Annette Payne, Lily Grigsby Duffy, et al. 2018. "What works for wellbeing? A systematic review of wellbeing outcomes for music and singing in adults." *Perspectives in Public Health* 138, no. 1: 39-46.
+Daykin, Norma, Louise Mansfield, Catherine Meads, Guy Julier, Alan Tomlinson, Annette Payne, Lily Grigsby Duffy, et al. 2018. What works for wellbeing? A systematic review of wellbeing outcomes for music and singing in adults. Perspectives in Public Health 138(1): 39-46. https://doi.org/10.1177/1757913917740391.
 
-Farias, Miguel, Everton Maraldi, K. C. Wallenkampf, and Giancarlo Lucchetti. 2020. "Adverse events in meditation practices and meditation-based therapies: a systematic review." *Acta Psychiatrica Scandinavica* 142, no. 5: 374-393.
+Farias, Miguel, Everton Maraldi, K. C. Wallenkampf, and Giancarlo Lucchetti. 2020. Adverse events in meditation practices and meditation-based therapies: a systematic review. Acta Psychiatrica Scandinavica 142(5): 374-393. https://doi.org/10.1111/acps.13225.
 
-Frattaroli, Joanne. 2006. "Experimental disclosure and its moderators: A meta-analysis." *Psychological Bulletin* 132, no. 6: 823-865.
+Frattaroli, Joanne. 2006. Experimental disclosure and its moderators: A meta-analysis. Psychological Bulletin 132(6): 823-865. https://doi.org/10.1037/0033-2909.132.6.823.
 
-Galante, Julieta, Claire Friedrich, Anna F. Dawson, Marta Modrego-Alarcón, Pia Gebbing, Irene Delgado-Suárez, Radhika Gupta, et al. 2021. "Mindfulness-based programmes for mental health promotion in adults in nonclinical settings: A systematic review and meta-analysis of randomised controlled trials." *PLoS Medicine* 18, no. 1: e1003481.
+Galante, Julieta, Claire Friedrich, Anna F. Dawson, Marta Modrego-Alarcón, Pia Gebbing, Irene Delgado-Suárez, Radhika Gupta, et al. 2021. Mindfulness-based programmes for mental health promotion in adults in nonclinical settings: A systematic review and meta-analysis of randomised controlled trials. PLoS Medicine 18(1): e1003481. https://doi.org/10.1371/journal.pmed.1003481.
 
-Galante, Julieta, Claire Friedrich, the Collaboration of Mindfulness Trials, Tim Dalgleish, Peter B. Jones, and Ian R. White. 2023. "Systematic review and individual participant data meta-analysis of randomized controlled trials assessing mindfulness-based programs for mental health promotion." *Nature Mental Health* 1, no. 7: 462-476.
+Galante, Julieta, Claire Friedrich, the Collaboration of Mindfulness Trials, Tim Dalgleish, Peter B. Jones, and Ian R. White. 2023. Systematic review and individual participant data meta-analysis of randomized controlled trials assessing mindfulness-based programs for mental health promotion. Nature Mental Health 1(7): 462-476. https://doi.org/10.1038/s44220-023-00081-5.
 
-Goldberg, Simon B., Kevin M. Riordan, Shufang Sun, and Richard J. Davidson. 2022. "The Empirical Status of Mindfulness-Based Interventions: A Systematic Review of 44 Meta-Analyses of Randomized Controlled Trials." *Perspectives on Psychological Science* 17, no. 1: 108-130.
+Goldberg, Simon B., Kevin M. Riordan, Shufang Sun, and Richard J. Davidson. 2022. The Empirical Status of Mindfulness-Based Interventions: A Systematic Review of 44 Meta-Analyses of Randomized Controlled Trials. Perspectives on Psychological Science 17(1): 108-130. https://doi.org/10.1177/1745691620968771.
 
-Haught-Tromp, Catrinel. 2017. "The Green Eggs and Ham hypothesis: How constraints facilitate creativity." *Psychology of Aesthetics, Creativity, and the Arts* 11, no. 1: 10-17.
+Haught-Tromp, Catrinel. 2017. The Green Eggs and Ham hypothesis: How constraints facilitate creativity. Psychology of Aesthetics, Creativity, and the Arts 11(1): 10-17. https://doi.org/10.1037/aca0000061.
 
-Hobson, Nicholas M., Juliana Schroeder, Jane L. Risen, Dimitris Xygalatas, and Michael Inzlicht. 2018. "The Psychology of Rituals: An Integrative Review and Process-Based Framework." *Personality and Social Psychology Review* 22, no. 3: 260-284.
+Hobson, Nicholas M., Juliana Schroeder, Jane L. Risen, Dimitris Xygalatas, and Michael Inzlicht. 2018. The Psychology of Rituals: An Integrative Review and Process-Based Framework. Personality and Social Psychology Review 22(3): 260-284. https://doi.org/10.1177/1088868317734944.
 
-Kuykendall, Lauren, Louis Tay, and Vincent Ng. 2015. "Leisure engagement and subjective well-being: A meta-analysis." *Psychological Bulletin* 141, no. 2: 364-403.
+Kuykendall, Lauren, Louis Tay, and Vincent Ng. 2015. Leisure engagement and subjective well-being: A meta-analysis. Psychological Bulletin 141(2): 364-403. https://doi.org/10.1037/a0038508.
 
-Lang, Martin, Jan Krátký, and Dimitris Xygalatas. 2020. "The role of ritual behaviour in anxiety reduction: an investigation of Marathi religious practices in Mauritius." *Philosophical Transactions of the Royal Society B* 375, no. 1805: 20190431.
+Lang, Martin, Jan Krátký, and Dimitris Xygalatas. 2020. The role of ritual behaviour in anxiety reduction: an investigation of Marathi religious practices in Mauritius. Philosophical Transactions of the Royal Society B 375(1805): 20190431. https://doi.org/10.1098/rstb.2019.0431.
 
-Lehtonen, Minna, Anna Soveri, Aini Laine, Janica Järvenpää, Angela de Bruin, and Jan Antfolk. 2018. "Is bilingualism associated with enhanced executive functioning in adults? A meta-analytic review." *Psychological Bulletin* 144, no. 4: 394-425.
+Lehtonen, Minna, Anna Soveri, Aini Laine, Janica Järvenpää, Angela de Bruin, and Jan Antfolk. 2018. Is bilingualism associated with enhanced executive functioning in adults? A meta-analytic review. Psychological Bulletin 144(4): 394-425. https://doi.org/10.1037/bul0000142.
 
-Mukadam, Naaheed, Andrew Sommerlad, and Gill Livingston. 2017. "The Relationship of Bilingualism Compared to Monolingualism to the Risk of Cognitive Decline or Dementia: A Systematic Review and Meta-Analysis." *Journal of Alzheimer's Disease* 58, no. 1: 45-54.
+Mukadam, Naaheed, Andrew Sommerlad, and Gill Livingston. 2017. The Relationship of Bilingualism Compared to Monolingualism to the Risk of Cognitive Decline or Dementia: A Systematic Review and Meta-Analysis. Journal of Alzheimer's Disease 58(1): 45-54. https://doi.org/10.3233/jad-170131.
 
-Organizational Behavior and Human Decision Processes. 2024. Retraction notice to "Don't stop believing: Rituals improve performance by decreasing anxiety" [vol. 137 (2016): 71-85]. *Organizational Behavior and Human Decision Processes* 185: 104377.
+Organizational Behavior and Human Decision Processes. 2024. Retraction notice to "Don't stop believing: Rituals improve performance by decreasing anxiety" [vol. 137 (2016): 71-85]. Organizational Behavior and Human Decision Processes 185: 104377. https://doi.org/10.1016/j.obhdp.2024.104377.
 
-Reinhold, Maren, Paul-Christian Bürkner, and Heinz Holling. 2018. "Effects of expressive writing on depressive symptoms—A meta-analysis." *Clinical Psychology: Science and Practice* 25, no. 1: e12224.
+Reinhold, Maren, Paul-Christian Bürkner, and Heinz Holling. 2018. Effects of expressive writing on depressive symptoms—A meta-analysis. Clinical Psychology: Science and Practice 25(1): e12224. https://doi.org/10.1111/cpsp.12224.
 
-Stebbins, Robert A. 1982. "Serious Leisure: A Conceptual Statement." *Pacific Sociological Review* 25, no. 2: 251-272.
+Stebbins, Robert A. 1982. Serious Leisure: A Conceptual Statement. Pacific Sociological Review 25(2): 251-272. https://doi.org/10.2307/1388726.
 
-Stebbins, Robert A. 1992. *Amateurs, Professionals, and Serious Leisure*. Montreal: McGill-Queen's University Press.
+Stebbins, Robert A. 1992. Amateurs, Professionals, and Serious Leisure. Montreal: McGill-Queen's University Press.
 
-Wilkie, Lowri, Zoe Fisher, Antonia Geidel, Isabel Goodall, Shannon Kamil, Elen Davies, and Andrew Haddon Kemp. 2026. "A systematic review and network meta-analysis of randomized controlled trials of well-being-focused interventions." *Nature Human Behaviour* 10: 715-726.
+Wilkie, Lowri, Zoe Fisher, Antonia Geidel, Isabel Goodall, Shannon Kamil, Elen Davies, and Andrew Haddon Kemp. 2026. A systematic review and network meta-analysis of randomized controlled trials of well-being-focused interventions. Nature Human Behaviour 10: 715-726. https://doi.org/10.1038/s41562-025-02369-1.
 
 ### Phi sources
 

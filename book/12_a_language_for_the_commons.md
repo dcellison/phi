@@ -54,39 +54,39 @@ So the case for solarpunk first closes without needing luck: a movement whose ma
 
 ## References
 
-Eckert, Penelope, and Sally McConnell-Ginet. 1992. "Think Practically and Look Locally: Language and Gender as Community-Based Practice." *Annual Review of Anthropology* 21: 461-488.
+Eckert, Penelope, and Sally McConnell-Ginet. 1992. Think Practically and Look Locally: Language and Gender as Community-Based Practice. Annual Review of Anthropology 21: 461-488. https://doi.org/10.1146/annurev.an.21.100192.002333.
 
-The Encyclopedia of Science Fiction. 2024. "Solarpunk." Entry first archived August 5, 2024; updated April 6, 2026. https://sf-encyclopedia.com/entry/solarpunk.
+The Encyclopedia of Science Fiction. 2024. Solarpunk. Entry first archived August 5, 2024; updated April 6, 2026. https://sf-encyclopedia.com/entry/solarpunk.
 
-Flynn, Adam. 2014. "Solarpunk: Notes toward a manifesto." Project Hieroglyph, Arizona State University, September 4. https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/.
+Flynn, Adam. 2014. Solarpunk: Notes toward a manifesto. Project Hieroglyph, Arizona State University, September 4. https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/.
 
 GummySearch. 2026. r/solarpunk subreddit statistics: approximately 201,000 members, retrieved July 22, 2026. https://gummysearch.com/r/solarpunk/.
 
-Halliday, M. A. K. 1976. "Anti-Languages." *American Anthropologist* 78, no. 3: 570-584.
+Halliday, M. A. K. 1976. Anti-Languages. American Anthropologist 78(3): 570-584. https://doi.org/10.1525/aa.1976.78.3.02a00050.
 
-Harris, Lee. 2018. "Announcing a Pair of Solarpunk Novellas from Becky Chambers." Tor.com, July 18. Now at https://reactormag.com/announcing-a-pair-of-solarpunk-novellas-from-becky-chambers/.
+Harris, Lee. 2018. Announcing a Pair of Solarpunk Novellas from Becky Chambers. Tor.com, July 18. Now at https://reactormag.com/announcing-a-pair-of-solarpunk-novellas-from-becky-chambers/.
 
-Hugo Awards. 2022. "2022 Hugo Awards." Best Novella: *A Psalm for the Wild-Built*, by Becky Chambers (Tordotcom). Presented at Chicon 8, Chicago, September 4. https://www.thehugoawards.org/hugo-history/2022-hugo-awards/.
+Hugo Awards. 2022. 2022 Hugo Awards. Best Novella: A Psalm for the Wild-Built, by Becky Chambers (Tordotcom). Presented at Chicon 8, Chicago, September 4. https://www.thehugoawards.org/hugo-history/2022-hugo-awards/.
 
-Lave, Jean, and Etienne Wenger. 1991. *Situated Learning: Legitimate Peripheral Participation*. Cambridge: Cambridge University Press.
+Lave, Jean, and Etienne Wenger. 1991. Situated Learning: Legitimate Peripheral Participation. Cambridge: Cambridge University Press. https://doi.org/10.1017/CBO9780511815355.
 
-The Line. 2021. *Dear Alice*. Animated short film for Chobani, directed by Bjørn-Erik Aschim, score by Joe Hisaishi, released July 13. https://thelinestudio.com/work/chobani.
+The Line. 2021. Dear Alice. Animated short film for Chobani, directed by Bjørn-Erik Aschim, score by Joe Hisaishi, released July 13. https://thelinestudio.com/work/chobani.
 
 Olivia, of Land of Masks and Jewels. 2014. Tumblr post proposing the solarpunk aesthetic, August 10; credited by Flynn 2014 as "Olivia/Land of Masks and Jewels." https://missolivialouise.tumblr.com/post/94374063675/.
 
-Republic of the Bees. 2008. "From Steampunk to Solarpunk." Anonymous blog post, May 27. https://republicofthebees.wordpress.com/2008/05/27/from-steampunk-to-solarpunk/.
+Republic of the Bees. 2008. From Steampunk to Solarpunk. Anonymous blog post, May 27. https://republicofthebees.wordpress.com/2008/05/27/from-steampunk-to-solarpunk/.
 
 Slrpnk.net. 2026. Site statistics from the public Lemmy API, retrieved July 22, 2026: 2,414 registered users, 375 active in the prior month. Instance founded March 2022. https://slrpnk.net.
 
-The Solarpunk Community. 2019. "A Solarpunk Manifesto." re-des.org, archived from October 2019; the current page carries a Creative Commons Attribution-ShareAlike 4.0 license. https://re-des.org/a-solarpunk-manifesto/.
+The Solarpunk Community. 2019. A Solarpunk Manifesto. re-des.org, archived from October 2019; the current page carries a Creative Commons Attribution-ShareAlike 4.0 license. https://re-des.org/a-solarpunk-manifesto/.
 
 Solarpunk Magazine. 2026. Publishing since 2022 under the motto "Demand Utopia"; issue 28 current as of July 2026. https://solarpunkmagazine.com.
 
-Toki Pona. n.d. "Toki Pona and Esperanto: Two friendly world languages." tokipona.org. https://tokipona.org/two_conlangs.
+Toki Pona. n.d. Toki Pona and Esperanto: Two friendly world languages. tokipona.org. https://tokipona.org/two_conlangs.
 
-Waffle To The Left. 2021. "'Dear Alice' Decommodified Edition | Solarpunk anime ambience with no ads." YouTube, October 19. https://www.youtube.com/watch?v=UqJJktxCY9U.
+Waffle To The Left. 2021. 'Dear Alice' Decommodified Edition | Solarpunk anime ambience with no ads. YouTube, October 19. https://www.youtube.com/watch?v=UqJJktxCY9U.
 
-Zamenhof, L. L. 1907. Speech at the Third World Esperanto Congress, Cambridge, August. In *Originala Verkaro*, edited by Johannes Dietterle. The Boulogne declaration of 1905 is cited from the same collection.
+Zamenhof, L. L. 1907. Speech at the Third World Esperanto Congress, Cambridge, August. In Originala Verkaro, edited by Johannes Dietterle. The Boulogne declaration of 1905 is cited from the same collection.
 
 ### Phi sources
 

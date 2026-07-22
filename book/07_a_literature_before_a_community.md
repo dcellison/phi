@@ -134,15 +134,15 @@ There is no `kjv:` line beneath that coda. The source did not say it, so the tex
 
 ## References
 
-Henning, Jeffrey. 2000. "The Babel Text." Langmaker archive of the page dated 27 May 2000. Henning began the comparison project in 1996. https://langmaker.github.io/babel/babel.htm.
+Henning, Jeffrey. 2000. The Babel Text. Langmaker archive of the page dated 27 May 2000. Henning began the comparison project in 1996. https://langmaker.github.io/babel/babel.htm.
 
-International Phonetic Association. n.d. "Illustrations of the IPA." *Journal of the IPA*. https://www.internationalphoneticassociation.org/content/journal-ipa. Accessed 19 July 2026.
+International Phonetic Association. n.d. Illustrations of the IPA. Journal of the IPA. https://www.internationalphoneticassociation.org/content/journal-ipa. Accessed 19 July 2026.
 
-Schleicher, August. 1868. "Eine Fabel in indogermanischer Ursprache." *Beiträge zur vergleichenden Sprachforschung auf dem Gebiete der arischen, celtischen und slawischen Sprachen* 5: 206-208. Scan: https://archive.org/details/bub_gb_CVP5DJ-pxeIC/page/n214/mode/2up. JSTOR: https://www.jstor.org/stable/23458804.
+Schleicher, August. 1868. Eine Fabel in indogermanischer Ursprache. Beiträge zur vergleichenden Sprachforschung auf dem Gebiete der arischen, celtischen und slawischen Sprachen 5: 206-208. Scan: https://archive.org/details/bub_gb_CVP5DJ-pxeIC/page/n214/mode/2up. JSTOR: https://www.jstor.org/stable/23458804.
 
-Anonymous. 2005. *The Bible, King James version, Book 1: Genesis*. Project Gutenberg, ebook 8001. Updated 26 December 2020. https://www.gutenberg.org/ebooks/8001. The King James Version was first published in 1611.
+Anonymous. 2005. The Bible, King James version, Book 1: Genesis. Project Gutenberg, ebook 8001. Updated 26 December 2020. https://www.gutenberg.org/ebooks/8001. The King James Version was first published in 1611.
 
-United Nations General Assembly. 1948. *Universal Declaration of Human Rights*. A/RES/217(III)[A], adopted 10 December 1948 at the 183rd plenary meeting. Text: https://www.un.org/en/about-us/universal-declaration-of-human-rights. Resolution record: https://digitallibrary.un.org/record/666853?ln=en.
+United Nations General Assembly. 1948. Universal Declaration of Human Rights. A/RES/217(III)[A], adopted 10 December 1948 at the 183rd plenary meeting. Text: https://www.un.org/en/about-us/universal-declaration-of-human-rights. Resolution record: https://digitallibrary.un.org/record/666853?ln=en.
 
 ### Phi sources
 

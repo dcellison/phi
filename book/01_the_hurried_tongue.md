@@ -60,31 +60,31 @@ What would a language built for mindful and compassionate speech look like?
 
 ## References
 
-Allcott, Hunt, Luca Braghieri, Sarah Eichmeyer, and Matthew Gentzkow. 2020. The welfare effects of social media. American Economic Review 110(3): 629-676.
+Allcott, Hunt, Luca Braghieri, Sarah Eichmeyer, and Matthew Gentzkow. 2020. The welfare effects of social media. American Economic Review 110(3): 629-676. https://doi.org/10.1257/aer.20190658.
 
-Brady, William J., Julian A. Wills, John T. Jost, Joshua A. Tucker, and Jay J. Van Bavel. 2017. Emotion shapes the diffusion of moralized content in social networks. Proceedings of the National Academy of Sciences 114(28): 7313-7318.
+Brady, William J., Julian A. Wills, John T. Jost, Joshua A. Tucker, and Jay J. Van Bavel. 2017. Emotion shapes the diffusion of moralized content in social networks. Proceedings of the National Academy of Sciences 114(28): 7313-7318. https://doi.org/10.1073/pnas.1618923114.
 
-Crockett, M. J. 2017. Moral outrage in the digital age. Nature Human Behaviour 1: 769-771.
+Crockett, M. J. 2017. Moral outrage in the digital age. Nature Human Behaviour 1: 769-771. https://doi.org/10.1038/s41562-017-0213-3.
 
 Freeman, John. 2009. The Tyranny of E-mail: The Four-Thousand-Year Journey to Your Inbox. New York: Scribner.
 
 Honoré, Carl. 2004. In Praise of Slowness: How a Worldwide Movement Is Challenging the Cult of Speed. San Francisco: HarperSanFrancisco.
 
-Jaidka, Kokil, Alvin Zhou, and Yphtach Lelkes. 2019. Brevity is the soul of Twitter: the constraint affordance and political discussion. Journal of Communication 69(4): 345-372.
+Jaidka, Kokil, Alvin Zhou, and Yphtach Lelkes. 2019. Brevity is the soul of Twitter: the constraint affordance and political discussion. Journal of Communication 69(4): 345-372. https://doi.org/10.1093/joc/jqz023.
 
 Köhler, Benedikt, Sabria David, and Jörg Blumtritt. 2010. The Slow Media Manifesto. en.slow-media.net/manifesto.
 
-Lorenz-Spreen, Philipp, Bjarke Mørch Mønsted, Philipp Hövel, and Sune Lehmann. 2019. Accelerating dynamics of collective attention. Nature Communications 10: 1759.
+Lorenz-Spreen, Philipp, Bjarke Mørch Mønsted, Philipp Hövel, and Sune Lehmann. 2019. Accelerating dynamics of collective attention. Nature Communications 10: 1759. https://doi.org/10.1038/s41467-019-09311-w.
 
 Newport, Cal. 2019. Digital Minimalism: Choosing a Focused Life in a Noisy World. New York: Portfolio.
 
 Odell, Jenny. 2019. How to Do Nothing: Resisting the Attention Economy. Brooklyn: Melville House.
 
-Rathje, Steve, Jay J. Van Bavel, and Sander van der Linden. 2021. Out-group animosity drives engagement on social media. Proceedings of the National Academy of Sciences 118(26): e2024292118.
+Rathje, Steve, Jay J. Van Bavel, and Sander van der Linden. 2021. Out-group animosity drives engagement on social media. Proceedings of the National Academy of Sciences 118(26): e2024292118. https://doi.org/10.1073/pnas.2024292118.
 
 Slow Food. Our history. slowfood.com/our-history. Accessed July 2026.
 
-Vosoughi, Soroush, Deb Roy, and Sinan Aral. 2018. The spread of true and false news online. Science 359(6380): 1146-1151.
+Vosoughi, Soroush, Deb Roy, and Sinan Aral. 2018. The spread of true and false news online. Science 359(6380): 1146-1151. https://doi.org/10.1126/science.aap9559.
 
 ### Phi sources
 

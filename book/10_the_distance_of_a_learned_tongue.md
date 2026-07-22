@@ -60,25 +60,25 @@ The footbridge will never be a comfortable place to stand, and this chapter does
 
 ## References
 
-Čavar, Franziska, and Agnieszka Ewa Tytus. 2018. "Moral judgement and foreign language effect: when the foreign language becomes the second language." *Journal of Multilingual and Multicultural Development* 39, no. 1: 17-28.
+Čavar, Franziska, and Agnieszka Ewa Tytus. 2018. Moral judgement and foreign language effect: when the foreign language becomes the second language. Journal of Multilingual and Multicultural Development 39(1): 17-28. https://doi.org/10.1080/01434632.2017.1304397.
 
-Circi, Riccardo, Daniele Gatti, Vincenzo Russo, and Tomaso Vecchi. 2021. "The foreign language effect on decision-making: A meta-analysis." *Psychonomic Bulletin & Review* 28, no. 4: 1131-1141.
+Circi, Riccardo, Daniele Gatti, Vincenzo Russo, and Tomaso Vecchi. 2021. The foreign language effect on decision-making: A meta-analysis. Psychonomic Bulletin & Review 28(4): 1131-1141. https://doi.org/10.3758/s13423-020-01871-z.
 
-Coluzzi, Paolo. 2022. "How learning Toki Pona may help improving communication strategies in a foreign or second language." *Language Problems and Language Planning* 46, no. 1: 78-98.
+Coluzzi, Paolo. 2022. How learning Toki Pona may help improving communication strategies in a foreign or second language. Language Problems and Language Planning 46(1): 78-98. https://doi.org/10.1075/lplp.00086.col.
 
-Costa, Albert, Alice Foucart, Sayuri Hayakawa, Melina Aparici, Jose Apesteguia, Joy Heafner, and Boaz Keysar. 2014. "Your Morals Depend on Language." *PLoS ONE* 9, no. 4: e94842.
+Costa, Albert, Alice Foucart, Sayuri Hayakawa, Melina Aparici, Jose Apesteguia, Joy Heafner, and Boaz Keysar. 2014. Your Morals Depend on Language. PLoS ONE 9(4): e94842. https://doi.org/10.1371/journal.pone.0094842.
 
-Del Maschio, Nicola, Federico Crespi, Francesca Peressotti, Jubin Abutalebi, and Simone Sulpizio. 2022. "Decision-making depends on language: A meta-analysis of the Foreign Language Effect." *Bilingualism: Language and Cognition* 25, no. 4: 617-630.
+Del Maschio, Nicola, Federico Crespi, Francesca Peressotti, Jubin Abutalebi, and Simone Sulpizio. 2022. Decision-making depends on language: A meta-analysis of the Foreign Language Effect. Bilingualism: Language and Cognition 25(4): 617-630. https://doi.org/10.1017/S1366728921001012.
 
-Dylman, Alexandra S., and Marie-France Champoux-Larsson. 2020. "It's (not) all Greek to me: Boundaries of the foreign language effect." *Cognition* 196: 104148.
+Dylman, Alexandra S., and Marie-France Champoux-Larsson. 2020. It's (not) all Greek to me: Boundaries of the foreign language effect. Cognition 196: 104148. https://doi.org/10.1016/j.cognition.2019.104148.
 
-Elgin, Suzette Haden. 1988. *A First Dictionary and Grammar of Láadan*. 2nd ed. Madison, WI: Society for the Furtherance and Study of Fantasy and Science Fiction; lessons hosted at laadanlanguage.com.
+Elgin, Suzette Haden. 1988. A First Dictionary and Grammar of Láadan. 2nd ed. Madison, WI: Society for the Furtherance and Study of Fantasy and Science Fiction; lessons hosted at laadanlanguage.com.
 
-Elgin, Suzette Haden. 1999. "Láadan, the Constructed Language in Native Tongue." Essay first published on the author's SFWA member site, updated 2 April 1999; now hosted, under a slightly expanded title, at laadanlanguage.com.
+Elgin, Suzette Haden. 1999. Láadan, the Constructed Language in Native Tongue. Essay first published on the author's SFWA member site, updated 2 April 1999; now hosted, under a slightly expanded title, at laadanlanguage.com.
 
-Keysar, Boaz, Sayuri L. Hayakawa, and Sun Gyu An. 2012. "The Foreign-Language Effect: Thinking in a Foreign Tongue Reduces Decision Biases." *Psychological Science* 23, no. 6: 661-668.
+Keysar, Boaz, Sayuri L. Hayakawa, and Sun Gyu An. 2012. The Foreign-Language Effect: Thinking in a Foreign Tongue Reduces Decision Biases. Psychological Science 23(6): 661-668. https://doi.org/10.1177/0956797611432178.
 
-Vives, Marc-Lluís, Melina Aparici, and Albert Costa. 2018. "The limits of the foreign language effect on decision-making: The case of the outcome bias and the representativeness heuristic." *PLOS ONE* 13, no. 9: e0203528.
+Vives, Marc-Lluís, Melina Aparici, and Albert Costa. 2018. The limits of the foreign language effect on decision-making: The case of the outcome bias and the representativeness heuristic. PLOS ONE 13(9): e0203528. https://doi.org/10.1371/journal.pone.0203528.
 
 ### Phi sources
 

@@ -95,9 +95,9 @@ Return to the line at the top of the page. Tolkien's title and threat are still 
 
 ## References
 
-Tolkien, J. R. R. 1954. *The Fellowship of the Ring*. London: George Allen & Unwin. The quoted couplet is spoken in Book I, chapter 2, "The Shadow of the Past."
+Tolkien, J. R. R. 1954. The Fellowship of the Ring. London: George Allen & Unwin. The quoted couplet is spoken in Book I, chapter 2, "The Shadow of the Past."
 
-United Nations General Assembly. 1948. *Universal Declaration of Human Rights*. Resolution 217 A (III), adopted 10 December 1948. https://www.un.org/en/about-us/universal-declaration-of-human-rights/.
+United Nations General Assembly. 1948. Universal Declaration of Human Rights. Resolution 217 A (III), adopted 10 December 1948. https://www.un.org/en/about-us/universal-declaration-of-human-rights/.
 
 ### Phi sources
 

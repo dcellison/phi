@@ -54,7 +54,7 @@ If the hundred and forty years have a single epitaph, this book would phrase it 
 
 ## References
 
-Brown, James Cooke. 1960. Loglan. Scientific American 202(6): 53-63.
+Brown, James Cooke. 1960. Loglan. Scientific American 202(6): 53-63. https://doi.org/10.1038/scientificamerican0660-53.
 
 Declaration of Boulogne. 1905. Adopted at the first World Esperanto Congress, Boulogne-sur-Mer.
 
@@ -94,7 +94,7 @@ Sweet, Henry. 1911. Volapük. Encyclopaedia Britannica, 11th edition, volume 28.
 
 Toki Pona census. 2024. Results of the 2024 Toki Pona census. tokiponacensus.github.io. Accessed July 2026.
 
-Wandel, Amri. 2015. How many people speak Esperanto? Esperanto on the web. Interdisciplinary Description of Complex Systems 13(2): 318-321.
+Wandel, Amri. 2015. How many people speak Esperanto? Esperanto on the web. Interdisciplinary Description of Complex Systems 13(2): 318-321. https://doi.org/10.7906/indecs.13.2.9.
 
 ### Phi sources
 
