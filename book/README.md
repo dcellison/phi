@@ -8,7 +8,7 @@ Phi already has a primer for learning and a manual for checking the machinery. T
 
 The book does not promise that grammar remakes a mind. Phi offers a practice, and the evidence still gets the last word. Where the research says "small," this book says small too.
 
-Eleven chapters are available now. Chapter 11 still arrives before chapter 10, which is deliberate if slightly discourteous: the language-and-thought chapter was drafted early because it tests the book's hardest empirical claims. The gaps are unwritten chapters, and every published chapter may still change as the rest of the argument takes shape.
+Twelve chapters are available now, and for the first time they run unbroken from the river to the lens. The language-and-thought chapter was drafted early because it tests the book's hardest empirical claims; what remains unwritten is the final part, on what could happen if a community forms, and the close. Every published chapter may still change as the rest of the argument takes shape.
 
 ## Read the current chapters
 
@@ -22,6 +22,7 @@ Eleven chapters are available now. Chapter 11 still arrives before chapter 10, w
 - [Chapter 7: A literature before a community](07_a_literature_before_a_community.md)
 - [Chapter 8: The workshop](08_the_workshop.md)
 - [Chapter 9: A serious practice](09_a_serious_practice.md)
+- [Chapter 10: The distance of a learned tongue](10_the_distance_of_a_learned_tongue.md)
 - [Chapter 11: The lens, not the cage](11_the_lens_not_the_cage.md)
 
 Start at the river to read in order. Start with chapter 11 if you would rather inspect the evidence before trusting the premise; the boatman will wait.
