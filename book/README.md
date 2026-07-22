@@ -8,7 +8,7 @@ Phi already has a primer for learning and a manual for checking the machinery. T
 
 The book does not promise that grammar remakes a mind. Phi offers a practice, and the evidence still gets the last word. Where the research says "small," this book says small too.
 
-Fourteen chapters are available now, running unbroken from the river deep into Part IV, where the book asks what happens if a community forms. The language-and-thought chapter was drafted early because it tests the book's hardest empirical claims; still unwritten are the mind question and the close. Every published chapter may still change as the rest of the argument takes shape.
+Fifteen chapters are available now, the complete run from the river to the mind question. The language-and-thought chapter was drafted early because it tests the book's hardest empirical claims; only the close remains unwritten. Every published chapter may still change as the rest of the argument takes shape.
 
 ## Read the current chapters
 
@@ -26,5 +26,6 @@ Fourteen chapters are available now, running unbroken from the river deep into P
 - [Chapter 11: The lens, not the cage](11_the_lens_not_the_cage.md)
 - [Chapter 12: A language for the commons](12_a_language_for_the_commons.md)
 - [Chapter 13: Escaping words](13_escaping_words.md)
+- [Chapter 14: The mind question](14_the_mind_question.md)
 
 Start at the river to read in order. Start with chapter 11 if you would rather inspect the evidence before trusting the premise; the boatman will wait.
