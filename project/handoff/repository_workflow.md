@@ -39,7 +39,7 @@ Several surfaces cover neighbouring ground, but they do different work. Preserve
 | `manual/` | The complete teaching and reference authority beneath canon and the lexicon. Generated Part VII views belong here. |
 | `pamphlets/` | Focused companions for one practice or feature. They are neither a miscellaneous document drawer nor the literary shelf. |
 | `texts/` | Phi literature, with every work labelled as translation or transmutation and every source witness preserved. |
-| `book/` | Narrative nonfiction about Phi for a general reader, governed by `book/treatment.md` and its warmer chapter voice. |
+| `book/` | Narrative nonfiction about Phi for a general reader, complete and published from cold open to close with a consolidated bibliography; its warmer chapter voice remains the register for revision, and the planning treatment is archived. |
 
 ## Worktree discipline
 
