@@ -1,13 +1,13 @@
 # Current state
 
-This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D055, the fifteenth SEM-09D literary retrofit, the drafted-book pass, chapter 7, all seven manual teaching passes, the primer pass, all nine pamphlet passes, and the whole-manual warmth revision. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
+This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D055, the fifteenth SEM-09D literary retrofit, all seven manual teaching passes, the primer pass, all nine pamphlet passes, the whole-manual warmth revision, the current-documents sweep, and the drafted book through chapter 10. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
 
 ## Active execution sequence
 
-The literary shelf and Phi book are current through chapter 7. The execution sequence is now:
+SEM-09D is complete. The current-documents sweep closed with the evaluation corpus, and the roadmap records SEM-09 as done. The live thread is PED-08, drafting the Phi book:
 
-1. Finish SEM-09D with the current documents; all nine pamphlets are current.
-2. Return to PED-08 at chapter 8 after that sweep.
+1. Run the chapter 10 citation audit on the maintainer's go.
+2. Draft Part IV, chapters 12 through 14, and the close, one chapter per branch and pull request, each on the maintainer's go.
 
 D044 completed the base-first boundary, and D045 through D052 completed all eight learning paths in their historical order. The full migration has one editorial judgement and voice. SEM-09D began with Schleicher's fable. That pilot preserved every Phi line after checking later base roots and optional terms, while D053 repaired `kawhera` and `pilora` after their target prose proved narrower than their validated animal uses. The second pass replaced three older circumlocutions in *The North Wind and the Sun* with `mesatu` (try), `komeri` (forehead), and `phesari` (flee) in both the translation and transmutation. The third replaced four detours in the Metta Sutta with `sheraki` (search), `tupeka` (burden), `rinu` (want), and `huwa` (weak). The fourth leaves both UDHR Article 1 renderings intact and identifies `remo` as thinking rather than a dedicated rational faculty. The fifth repairs Babel's physical joining, the tower's top, the builders' wish for renown, imagined action, and punitive scattering without adding a root. The sixth restores reverence, perception, change, and verse in the Heart Sutra. It also removes a quantitative misuse of `thenoi` and keeps physical `whalo` out of the English "great" homonym. The seventh brings `phomila`, `lioru`, `lima`, and `mesatu` into *The Prophet, On Children*. The eighth gives the Tao Te Ching translation `kowanu`, `monaki`, and direct `kethua`; both renderings distinguish `lioru`, life, and state completed withering through `ki kureno`. The ninth revises seventeen Solarpunk units, uses all eight modules, and removes technical vocabulary from general solutions, human ability, social power, and ordinary living. The tenth replaces unadorned `mueli` with simple `siloma` in *The Little Prince* and uses perfective `ki` for the bond whose result still holds. The eleventh preserves the Ring Verse refusal's 12 base and function forms while bringing its account of dominion into line with the completed Commons and Systems distinctions. The twelfth changes 46 units in *The Velveteen Rabbit*, separates search from finding and wear from age, and brings exact household and bodily words into the nursery without changing Williams's source witness. The thirteenth changes 29 units in *News from Nowhere* chapter 1, separates authority from guidance and representation from thought, and brings direct words for coercion, winter, wear, waking, and observation into Morris's first night without changing his source witness. The fourteenth now changes 57 units in chapter 2, adds direct tide and service to its earlier repairs, and preserves every Morris line. The fifteenth changes 46 units in chapter 3, gives the house and breakfast direct household language, gives the weaver his craft terms, and preserves all 245 Morris lines. The drafted-book pass preserves thirteen of fifteen fenced examples, revises two in the cold open, corrects the account of `wia` and transmutation, and aligns the schema discussion with the completed lexicon contract. The first teaching pass reviews all nine Part I files, corrects determinist and universal claims, replaces obsolete sound lore with current articulation, and rebuilds the beginner exchange without adding a root or module term. The second reviews all nineteen Part II files, preserves the two current sound essays, and repairs the remaining chapters' cultural, phonesthetic, grammatical, social, and learning claims without adding a root or module term.
 
@@ -111,7 +111,7 @@ All eight profiles already have canonical JSON membership, a generated module in
 
 The literary shelf has completed its full review against the current lexicon. It contains nine close translations and eleven transmutations; seven works have both. *News from Nowhere* is one 32-chapter work with the first three chapters transmuted and reviewed. The current review record is [`documents/evaluation/active_text_corpus_review.md`](../../documents/evaluation/active_text_corpus_review.md).
 
-SEM-09D is in progress. Fifteen literary passes complete the shelf, and all three drafted *News from Nowhere* chapters are among them. The Phi book is current through chapter 7. All seven manual parts, all twenty-seven primer files, and eight pamphlets are reviewed without a lexical gap. Parts IV and VI each use one explicitly labelled optional term with a base alternative; Part VII teaches module words only inside their named learning paths, while the general primer and six of the seven reviewed pamphlets use no module terms; the source-material pamphlet demonstrates the module choice it teaches. The remaining active-corpus retrofit resumes with the last pamphlet and current documents. A Phi passage changes only when the current form is more faithful or natural there. A transparent composition stays when its parts still teach or express the thought better, and every changed sentence and dependency receives validation.
+SEM-09D is complete. Fifteen literary passes finished the shelf, and all three drafted *News from Nowhere* chapters are among them. All seven manual parts, all twenty-seven primer files, and all nine pamphlets are reviewed without a lexical gap, and the current-documents sweep closed with the evaluation corpus. Parts IV and VI each use one explicitly labelled optional term with a base alternative; Part VII teaches module words only inside their named learning paths, while the general primer and eight of the nine pamphlets use no module terms; the source-material pamphlet demonstrates the module choice it teaches. A Phi passage changes only when the current form is more faithful or natural there. A transparent composition stays when its parts still teach or express the thought better, and every changed sentence and dependency receives validation.
 
 The shelf's method distinction remains settled:
 
@@ -121,7 +121,7 @@ The shelf's method distinction remains settled:
 
 ## Book state
 
-The book has nine drafted files: the cold open, chapters 1 through 7, and chapter 11. All appear on the website. Every chapter has a references section and a `Phi sources` subsection.
+The book has twelve drafted files: the cold open and chapters 1 through 11. All appear on the website. Every chapter has a references section and a `Phi sources` subsection.
 
 | Chapter | File | Approximate words |
 |---|---|---:|
@@ -132,16 +132,21 @@ The book has nine drafted files: the cold open, chapters 1 through 7, and chapte
 | 4. Announce, then deliver | `book/04_announce_then_deliver.md` | 2,532 |
 | 5. The web | `book/05_the_web.md` | 2,545 |
 | 6. What it will not say | `book/06_what_it_will_not_say.md` | 1,675 |
-| 7. A literature before a community | `book/07_a_literature_before_a_community.md` | 3,076 |
+| 7. A literature before a community | `book/07_a_literature_before_a_community.md` | 3,248 |
+| 8. The workshop | `book/08_the_workshop.md` | 3,312 |
+| 9. A serious practice | `book/09_a_serious_practice.md` | 2,617 |
+| 10. The distance of a learned tongue | `book/10_the_distance_of_a_learned_tongue.md` | 2,164 |
 | 11. The lens, not the cage | `book/11_the_lens_not_the_cage.md` | 4,073 |
 
 The treatment aims for 4,000 to 6,000 words per chapter and 70,000 to 90,000 words overall, but Daniel chose to continue rather than pad early chapters merely to meet a projection. Do not silently lengthen merged chapters. A later structural edit can decide where depth is genuinely missing.
 
-The next planned draft is chapter 8, "The workshop," after the remaining SEM-09D teaching and project-document sweep. Its targeted research includes current disclosure norms for generative tools in creative work and a historical check of the Morris and Co. analogy. Read [`book/treatment.md`](../../book/treatment.md), chapter 7, and several neighbouring finished chapters before drafting. Each chapter is its own PR. Audit every external citation after the draft, repair the prose from the audit, preserve the consistent `Phi sources` subsection, and use restrained Jerome humour where it fits.
+Two register rulings from the chapter 9 and 10 work bind every future chapter; [`language_and_voice.md`](language_and_voice.md) records them under the book voice. Hedging is low: a claim's true size appears once, cleanly, where the claim is made, and a boundary or refusal spends at most once in the whole book, in the chapter where the reader actually brings the temptation, so search the other chapters before spending one. Warmth is high: the register is openly aspirational, with imagery hung on design-intent verbs rather than effect claims.
+
+The next planned draft is chapter 12, "A language for the commons", the first chapter of Part IV, on the maintainer's go after the chapter 10 citation audit. Its receipts live in the treatment: the 2019 manifesto and Flynn's 2014 notes quoted directly, the community evidence, and `texts/solarpunk_manifesto.md` as the bridge artifact. Read [`book/treatment.md`](../../book/treatment.md) and several neighbouring finished chapters before drafting. Each chapter is its own PR. The proven method: a verification agent pins every source with verbatim quotes and transcribes exact title lines before drafting, author names come from Crossref at entry-writing time, repository receipts are checked by grep, the full voice protocol runs with the counting pass, the `Phi sources` subsection continues, and restrained Jerome humour appears where it fits.
 
 The leading book title remains *A Language You Cannot Hurry*. *Announce, Then Deliver* is the alternate. The title is open. "Hurry" must continue to mean attention discarded under pressure, not fast speech.
 
-Citation work performed in earlier conversations is not preserved as a complete set of repository audit reports. Do not infer that a citation is sound merely because the chapter is merged. Recheck any citation whose surrounding claim changes, and audit every new chapter from primary sources before calling it complete.
+Post-merge citation audits are archived as repository documents when run: chapters 3 through 5 from July 13 and chapters 8 and 9 from July 22, all catalogued in `archive/README.md`. Chapter 10 was verified against primary sources before drafting, and its post-merge audit is pending on the maintainer's go. Citation work for the other chapters is not preserved as a complete set of audit reports, so do not infer that a citation is sound merely because the chapter is merged. Recheck any citation whose surrounding claim changes, and verify an audit's own findings before applying them; three findings in this audit series were themselves overturned on recheck.
 
 ## Parked and future work
 
@@ -152,7 +157,7 @@ Citation work performed in earlier conversations is not preserved as a complete 
 | Native glyph mode | Parked | Daniel chooses to resume exploration of Phi's one intended native script. |
 | Spoken source material and code-switching | Open design question | Live conversational examples make the current outside-syntax boundary inadequate. Do not reintroduce guest or exact frames. |
 | Sexual and reproductive anatomy | Queued scenario-led vocabulary effort | Begin as its own respectful corpus and vocabulary project, not as an unnoticed extension of Medical vocabulary. |
-| Legacy vocabulary prose audit | Complete; contextual retrofit in progress | D044 completed the base queue, and D045 through D052 completed all eight module learning paths. The literary shelf, drafted book, all seven manual parts, the primer, and eight pamphlets are current; the remaining teaching and project-document sweep resumes with the last pamphlet. |
+| Legacy vocabulary prose audit | Complete | D044 completed the base queue, D045 through D052 completed all eight module learning paths, and SEM-09D completed the literary shelf, the drafted book, the manual, the primer, all nine pamphlets, and the current documents. Reopen a passage only for a real semantic, factual, voice, or corpus problem. |
 | Lexical relations between content words | Parked | The explorer or project needs curated related-word navigation strongly enough to add and maintain a schema field. |
 | Tengwar renderer verification | Parked | Tengwar work resumes or approaches publication status. |
 | Solarpunk community engagement | Open strategic question | Daniel is ready to offer Phi outside its repository and decide what a healthy invitation looks like. |

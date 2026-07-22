@@ -32,13 +32,13 @@ The effort will inventory existing body, birth, consent, and Medical vocabulary,
 
 ### Legacy vocabulary prose audit
 
-Status: Lexicon complete; contextual retrofit in progress.
+Status: Complete.
 
 The workflow gives every new or revised entry a separate Humanizer pass and checks it against the [Phi voice guide](../documents/reference/voice_for_models.md). All 1,275 canonical entries now follow the target contract: definitions live in `description`, physical pronunciation in `articulatory_notes`, and usage in structured `examples`. Content entries also carry accurate semantic-domain rationales. Search terms, usage notes, sound symbolism, and direct pillar connections remain optional.
 
 Articulatory notes follow the word through the mouth and describe breath, contact, release, stress, and hiatus accurately. Sound symbolism has a narrower optional role: it may preserve a genuine Phi-specific association, but it cannot turn a syllable into a hidden morpheme or treat a phoneme's meaning as universal.
 
-The completed lexicon audit worked in `vocabulary/`, the canonical source, and regenerated every dependent reference. [`documents/validation/vocabulary_prose_coverage.json`](../documents/validation/vocabulary_prose_coverage.json) records 1,275 target entries with no legacy, partial, or dual remainder. The contextual retrofit now checks active Phi against that finished vocabulary. The literary shelf, drafted book, all seven manual parts, the primer, the evidentiality pamphlet, the three-slots pamphlet, and the spoken-punctuation pamphlet are current; work resumes with the other six pamphlets before the current documents.
+The completed lexicon audit worked in `vocabulary/`, the canonical source, and regenerated every dependent reference. [`documents/validation/vocabulary_prose_coverage.json`](../documents/validation/vocabulary_prose_coverage.json) records 1,275 target entries with no legacy, partial, or dual remainder. The contextual retrofit checked active Phi against that finished vocabulary and is also complete: the literary shelf, the drafted book, all seven manual parts, the primer, all nine pamphlets, and the current documents are current, with the evaluation corpus the final batch. A passage reopens only for a real semantic, factual, voice, or corpus problem.
 
 ### Lexical relations between content words
 
