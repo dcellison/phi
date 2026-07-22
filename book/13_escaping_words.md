@@ -52,7 +52,7 @@ The blessing validates, which in this project means the machine has checked ever
 
 ## References
 
-Čapek, Karel. 1933. "O slově robot" (About the Word Robot). *Lidové noviny*, December 24. English translation by Norma Comrada, published by the Čapek Brothers Society.
+Čapek, Karel. 1933. "O slově robot" (About the Word Robot). *Lidové noviny*, December 24. English translation by Norma Comrada, preserved on the archived Karel Čapek website capek.misto.cz.
 
 Collins. 2019. "Collins Word of the Year 2019 shortlist." Collins Dictionary Language Blog, November 7. https://blog.collinsdictionary.com/language-lovers/collins-word-of-the-year-2019-shortlist/.
 
@@ -62,7 +62,7 @@ Dawkins, Richard. 1976. *The Selfish Gene*. Oxford: Oxford University Press. Cha
 
 Drews, Stefan, and Miklós Antal. 2016. "Degrowth: A 'missile word' that backfires?" *Ecological Economics* 126: 182-187.
 
-Rowland, Alexandra. 2017. Tumblr post, July. https://ariaste.tumblr.com/post/163500138919/. Her own account of the coinage is in "One Atom of Justice, One Molecule of Mercy, and the Empire of Unsheathed Knives," first published in *The Stellar Beacon*, reprinted at festive.ninja.
+Rowland, Alexandra. 2017. Tumblr post, July. https://ariaste.tumblr.com/post/163500138919/. Her own account of the coinage is in "One Atom of Justice, One Molecule of Mercy, and the Empire of Unsheathed Knives," in the Winter 2019 issue of *The Stellar Beacon*, the zine at festive.ninja.
 
 ### Phi sources
 
