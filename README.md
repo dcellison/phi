@@ -30,6 +30,7 @@ Everything below is rendered to **[dcellison.github.io/phi](https://dcellison.gi
 | [documents/](documents/) | Current language documentation, indexed and separated by purpose. |
 | [documents/modules/](documents/modules/) | Eight established vocabulary modules: optional specialist words organized over the one shared grammar, never a separate one. |
 | [project/](project/) | Operational records: the development protocol, decision log, status roadmap, publication strategy, and release manifests. |
+| [writing_systems/](writing_systems/) | The writing-systems studio: the Phi Tengwar mode, the active native glyph-mode exploration, and their recovered predecessors. Proposals live here until a tested hand earns canon. |
 | [kia.md](kia.md) | The site's front page: the invitation and its seven doors, rendered to the index on every merge. |
 | [canon.md](canon.md) | The authority order when documents disagree, and every settled design decision. |
 | [colophon.md](colophon.md) | How Phi is made: the designer, the instrument, and the rules between them. Signed at the end, in the old way. |
