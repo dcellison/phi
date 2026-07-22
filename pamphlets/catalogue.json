@@ -25,6 +25,12 @@
       "dual_script": false
     },
     {
+      "directory": "pronouns_topic_drop",
+      "title": "Pronouns and topic-drop in Phi",
+      "summary": "Three words of one shape for every person in the room: case from position, we built with a particle, miso and wiso for self and each other, ha and ra for pointing, and the art of the dropped subject, light when light is safe and explicit the moment two referents compete.",
+      "dual_script": false
+    },
+    {
       "directory": "evidentiality",
       "title": "Evidentiality in Phi",
       "summary": "Four particles for claimed source: direct perception, inference, report, and assumption. Practice moves from the snake at the well through questions, retelling, and an optional source journal.",
