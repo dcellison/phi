@@ -11,6 +11,7 @@ The manual explains Phi's machinery once. These pamphlets give the difficult par
 | Adverbial clauses in Phi | The five clause relators for sequence, cause, purpose, and concession, every frame complete before its main clause. | [Open](adverbial_clauses/00_title.md) |
 | Tense and aspect in Phi | Two tenses and five views of an event, drilled through all ten combinations to reflex. | [Open](tense_aspect/00_title.md) |
 | Pronouns and topic-drop in Phi | The three same-shaped pronouns, the reflexive and reciprocal pair, pointing with two words, and the dropped subject. | [Open](pronouns_topic_drop/00_title.md) |
+| Nouns and classifiers in Phi | The noun phrase assembled position by position, from the bare noun to the full canonical order. | [Open](nouns_classifiers/00_title.md) |
 | Evidentiality in Phi | Choosing and stacking four claimed-source particles while keeping source apart from truth, confidence, and reliability. | [Open](evidentiality/00_title.md) |
 | Counting in Phi | Ternary numerals, optional classifiers, approximation, and arithmetic spoken in full sentences. | [Open](ternary_numerals/00_title.md) |
 | How Phi names people | `ne`, productive Phi-form names, calling, honorifics, and the established-name register. | [Open](naming/00_title.md) |
