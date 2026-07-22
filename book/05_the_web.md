@@ -28,7 +28,7 @@ Form can relate to meaning in more than one way. The kinship of `sileta` and `si
 
 Phi accepts that tension rather than choosing one side. The learning chapter recommends studying in clusters, such as `nulae`, sleep, with `nuwera`, bed, and `whemura`, dream. The grouping is guidance rather than code. These words share enough depth and softness to sit together in memory, but each has its own shape and must be learned on its own terms. A familiar sound can help with the next door. Too much familiarity makes the doors hard to tell apart.
 
-Sound families reduce the loneliness of an arbitrary list, but they create neighbors in the ear. This is the web's first cost. A student may remember that `sileta` and `silero` belong together and still reach for the wrong ending. Calling the pattern easy must wait until learners demonstrate ease. For now, Phi can say that the relationship was made audible on purpose and that the resulting risk is watched.
+Sound families reduce the loneliness of an arbitrary list, but they create neighbors in the ear. This is the web's first cost. A student may remember that `sileta` and `silero` belong together and still reach for the wrong ending. For now, Phi can say that the relationship was made audible on purpose and that the resulting risk is watched.
 
 ## What composition keeps visible
 

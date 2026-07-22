@@ -34,7 +34,7 @@ Set beside Phi's ruling, the armor shows a second face, and this reading is this
 
 ## The optional step back
 
-Phi's ruling runs the other way, and its documents state it as doctrine: an unmarked sentence is a plain assertion that names no source, and "the unmarked form is the system's resting state." The four source markers the reader met in chapter 11, witness, inference, report, and assumption, exist so that disclosure can be an act, taken when the route to a claim is part of what the speaker means to say. Watch the choice work at household scale:
+Phi's ruling runs the other way, and its documents state it as doctrine: an unmarked sentence is a plain assertion that names no source, and "the unmarked form is the system's resting state." The four source markers the reader will meet in chapter 11, witness, inference, report, and assumption, exist so that disclosure can be an act, taken when the route to a claim is part of what the speaker means to say. Watch the choice work at household scale:
 
 ```
 phemi so shua.
@@ -74,7 +74,7 @@ Dylman, Alexandra S., and Marie-France Champoux-Larsson. 2020. It's (not) all Gr
 
 Elgin, Suzette Haden. 1988. A First Dictionary and Grammar of Láadan. 2nd ed. Madison, WI: Society for the Furtherance and Study of Fantasy and Science Fiction; lessons hosted at laadanlanguage.com.
 
-Elgin, Suzette Haden. 1999. Láadan, the Constructed Language in Native Tongue. Essay first published on the author's SFWA member site, updated 2 April 1999; now hosted, under a slightly expanded title, at laadanlanguage.com.
+Elgin, Suzette Haden. 1999. Láadan, the Constructed Language in Native Tongue. Essay first published on the author's SFWA member site, updated 2 April 1999; now hosted, under a slightly expanded title, at https://laadanlanguage.com/articles/articles-by-suzette/laadan-constructed-language/.
 
 Keysar, Boaz, Sayuri L. Hayakawa, and Sun Gyu An. 2012. The Foreign-Language Effect: Thinking in a Foreign Tongue Reduces Decision Biases. Psychological Science 23(6): 661-668. https://doi.org/10.1177/0956797611432178.
 

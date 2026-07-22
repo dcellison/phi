@@ -106,7 +106,7 @@ Toki Pona presents a different case. It has a living international community, no
 
 The obstacles therefore do not rhyme quite as neatly as one might wish. Loglan did not assemble and fund the proposed experiment, while Láadan did not receive the broad adoption its test required. Toki Pona achieved community but has not turned testimony into controlled evidence. A constructed-language study needs speakers and a question precise enough to fail, followed by researchers willing to ask it. Obtaining the whole arrangement at once has proved difficult.
 
-Phi occupies an earlier position still. The most it may claim today is close to Dan Slobin's "thinking for speaking," the idea that a language's requirements shape what speakers attend to while preparing an utterance (Slobin 1996). Phi places relations before content, puts a question where its answer would stand, and offers a slot for information source. These choices plainly organize Phi sentences. Any effect beyond the act of speaking remains a hypothesis.
+Phi occupies an earlier position still. The most it may claim today is close to the position chapter 4 built on, Dan Slobin's "thinking for speaking": a language's requirements shape what speakers attend to while preparing an utterance (Slobin 1996). Phi places relations before content, puts a question where its answer would stand, and offers a slot for information source. These choices plainly organize Phi sentences. Any effect beyond the act of speaking remains a hypothesis.
 
 For now, the evidence leaves Phi where its protocol already put it: its structures are "design intentions to test in use, not guarantees about what the language does to a speaker."
 
@@ -128,7 +128,7 @@ Chen, Jenn-Yeu. 2007. Do Chinese and English speakers think about time different
 
 Chen, M. Keith. 2013. The effect of language on economic behavior: evidence from savings rates, health behaviors, and retirement assets. American Economic Review 103(2): 690-731. https://doi.org/10.1257/aer.103.2.690.
 
-Elgin, Suzette Haden. 1999. Láadan, the Constructed Language in "Native Tongue" Books. Láadan Language. https://laadanlanguage.com/articles/articles-by-suzette/laadan-constructed-language/.
+Elgin, Suzette Haden. 1999. Láadan, the Constructed Language in Native Tongue. Essay first published on the author's SFWA member site, updated 2 April 1999; now hosted, under a slightly expanded title, at https://laadanlanguage.com/articles/articles-by-suzette/laadan-constructed-language/.
 
 Fedorenko, Evelina, Steven T. Piantadosi, and Edward A. F. Gibson. 2024. Language is primarily a tool for communication rather than thought. Nature 630: 575-586. https://doi.org/10.1038/s41586-024-07522-w.
 
@@ -140,7 +140,7 @@ January, David, and Edward Kako. 2007. Re-evaluating evidence for linguistic rel
 
 Krupnik, Igor, and Ludger Müller-Wille. 2010. Franz Boas and Inuktitut terminology for ice and snow: from the emergence of the field to the "Great Eskimo Vocabulary Hoax." In SIKU: Knowing Our Ice, edited by Igor Krupnik, Claudio Aporta, Shari Gearheard, Gita J. Laidler, and Lene Kielsen Holm, 377-400. Dordrecht: Springer. https://doi.org/10.1007/978-90-481-8587-0_16.
 
-Lang, Sonja. 2014. Toki Pona: The Language of Good. Self-published. https://tokipona.org/.
+Lang, Sonja. 2014. Toki Pona: The Language of Good. Self-published; official site https://tokipona.org/.
 
 Levinson, Stephen C., Sotaro Kita, Daniel B. M. Haun, and Björn H. Rasch. 2002. Returning the tables: language affects spatial reasoning. Cognition 84: 155-188. https://doi.org/10.1016/S0010-0277(02)00045-8.
 

@@ -32,7 +32,7 @@ Exact counts remain available after the price tag leaves. An exchange uses them 
 
 ## Reading the absences
 
-The list goes on, and every entry keeps its reasoning attached. Phi has no universal gendered person classes. `miona` (person) and `tewema` (partner) do unmarked work, as does `phao` (parent). A person's exact self-description stays available in source material beside the Phi, and the canon keeps the ruling open to case-by-case review. When the language translated Article 1 of the Universal Declaration of Human Rights, "the spirit of brotherhood" arrived as sibling spirit. The kinship came through; the gender did not hitch a ride.
+The list goes on, and every entry keeps its reasoning attached. Phi has no universal gendered person classes. `miona` (person) and `tewema` (partner) do unmarked work, as does `phao` (parent). A person's exact self-description stays available in source material beside the Phi. When the language translated Article 1 of the Universal Declaration of Human Rights, "the spirit of brotherhood" arrived as sibling spirit. The kinship came through; the gender did not hitch a ride.
 
 The lexicon also refuses the offices and tools of domination. It has no root for one person ruling another, and neither lord nor throne gets a neutral home. Binding captives is described as an act rather than stocked as an office. A quieter row of refusals sits nearby, among them hunt and generic bad. A thing may instead be harmful, broken, or unwell, each a diagnosis where bad supplies only a verdict. The blade is declined as a weapon-part, while the knife is left to get on with its work in the kitchen. Marriage as an institution is refused too.
 
@@ -66,7 +66,7 @@ That is what a refusal is, and why the word gap never fits. A gap can be filled 
 
 ## References
 
-Tolkien, J. R. R. 1954-1955. The Lord of the Rings. London: George Allen & Unwin. The Ring Verse is the work's epigraph and is recited in The Fellowship of the Ring, Book I, chapter 2.
+Tolkien, J. R. R. 1954-1955. The Lord of the Rings. London: George Allen & Unwin. The Ring Verse is the work's epigraph and is recited in The Fellowship of the Ring, Book I, chapter 2, "The Shadow of the Past."
 
 ### Phi sources
 
