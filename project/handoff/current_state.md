@@ -155,9 +155,11 @@ The whole-book revision read of 22 July 2026 is the first pass over the publishe
 
 [`project/deferred_questions.md`](../deferred_questions.md) is the maintained list. Its live entries are:
 
+The native glyph mode resumed visual exploration on 22 July 2026. [`writing_systems/glyph_mode/`](../../writing_systems/glyph_mode/) now holds the first non-canonical studio package: a featural-alphasyllabary brief and SVG studies of line, consonants, vowels, hiatus, word blocks, and quill ductus. The package chooses no form. Its next movement depends on the maintainer's visual and handwritten response to those sheets.
+
 | Item | State | Return condition |
 |---|---|---|
-| Native glyph mode | Parked | Daniel chooses to resume exploration of Phi's one intended native script. |
+| Native glyph mode | Active visual exploration | Daniel selects the line qualities and block proportions worth taking into repeated handwriting trials. |
 | Spoken source material and code-switching | Open design question | Live conversational examples make the current outside-syntax boundary inadequate. Do not reintroduce guest or exact frames. |
 | Sexual and reproductive anatomy | Queued scenario-led vocabulary effort | Begin as its own respectful corpus and vocabulary project, not as an unnoticed extension of Medical vocabulary. |
 | Legacy vocabulary prose audit | Complete | D044 completed the base queue, D045 through D052 completed all eight module learning paths, and SEM-09D completed the literary shelf, the drafted book, the manual, the primer, all nine pamphlets, and the current documents. Reopen a passage only for a real semantic, factual, voice, or corpus problem. |

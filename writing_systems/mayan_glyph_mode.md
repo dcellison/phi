@@ -1,5 +1,7 @@
 > **Status (2026-07-05):** un-parked from `archive/writing-system/` into the writing-systems studio. The exploration below is preserved as written; it predates much of current Phi, so read it with these corrections in mind:
 >
+> **Current continuation (2026-07-22):** [`glyph_mode/`](glyph_mode/) carries the active visual study. It keeps the word-block question and replaces the old logogram-first plan with an uncommitted featural-alphasyllabary proposal. No form in either document is canonical.
+>
 > - Old particles `re` (relativizer) and `sho` (quotative) are now the multi-syllable complementizers `rena` and `shola…sholo` (with required closers) — the "27 particle forms" count and the Slot 2 list have changed.
 > - `shia` is no longer the numeral three (it is the 3SG pronoun); the scale units are `shao` (3), `phoi` (9), `lau` (27), `rei` (81), and the base glyph list should read `mu`, `ta`, `wi` + those four.
 > - Example vocabulary has moved on: `kofe` (help) is now `naphe`; `wela` (good) is retired for `welao`; `kea` (knowledge) is not a current word; `ke` is not a current particle; `thela` is now "how".

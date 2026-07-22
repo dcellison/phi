@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Pen and quill ductus study</title>
+  <desc id="desc">One provisional glyph skeleton shown as construction geometry, a monoline hand, a broad-quill hand, and a fuller display hand, followed by a reduction test.</desc>
+  <rect width="1600" height="1080" fill="#ffffff"/>
+  <style>
+    .heading { font: 700 42px system-ui, sans-serif; fill: #17252a; }
+    .subheading { font: 400 20px system-ui, sans-serif; fill: #52636a; }
+    .panel { fill: #f7faf9; stroke: #c9d5d2; stroke-width: 2; }
+    .panel-title { font: 700 25px system-ui, sans-serif; fill: #17252a; text-anchor: middle; }
+    .panel-copy { font: 400 16px system-ui, sans-serif; fill: #52636a; text-anchor: middle; }
+    .guide { fill: none; stroke: #b8c8c5; stroke-width: 2; stroke-dasharray: 7 8; }
+    .skeleton { fill: none; stroke: #90a4ae; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+    .node { fill: #0f766e; }
+    .mono { fill: none; stroke: #263238; stroke-width: 10; stroke-linecap: round; stroke-linejoin: round; }
+    .quill { fill: none; stroke: #263238; stroke-width: 17; stroke-linecap: square; stroke-linejoin: bevel; }
+    .quill-light { fill: none; stroke: #263238; stroke-width: 8; stroke-linecap: square; stroke-linejoin: bevel; }
+    .display { fill: none; stroke: #263238; stroke-width: 15; stroke-linecap: round; stroke-linejoin: round; }
+    .display-fill { fill: #263238; }
+    .vowel { fill: #b45309; }
+    .vowel-line { fill: none; stroke: #b45309; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+    .step { fill: #0f766e; }
+    .step-text { font: 700 16px system-ui, sans-serif; fill: #ffffff; text-anchor: middle; dominant-baseline: middle; }
+    .size-label { font: 650 18px system-ui, sans-serif; fill: #52636a; text-anchor: middle; }
+  </style>
+
+  <defs>
+    <g id="base-glyph">
+      <path d="M24 145 Q5 100 27 58 Q49 16 91 27 Q129 37 130 76 Q131 110 101 124 Q72 138 54 118 Q38 100 54 82 Q70 65 91 77"/>
+      <path d="M101 124 Q142 157 181 127 Q213 103 198 72 Q184 43 151 55 Q125 65 128 91 Q131 112 153 114"/>
+    </g>
+    <g id="display-terminals">
+      <path d="M19 62 Q27 39 46 31 Q30 31 19 17 Q11 40 19 62Z"/>
+      <path d="M197 98 Q216 111 219 130 Q226 113 243 106 Q220 96 197 98Z"/>
+    </g>
+  </defs>
+
+  <text class="heading" x="54" y="68">The skeleton stays; the tool may speak</text>
+  <text class="subheading" x="54" y="107">Stroke contrast, terminals, and pressure belong to the hand. Consonant and vowel identity must survive when those pleasures disappear.</text>
+
+  <g transform="translate(40 150)">
+    <g transform="translate(0 0)">
+      <rect class="panel" width="355" height="470" rx="6"/>
+      <text class="panel-title" x="177" y="44">Construction</text>
+      <text class="panel-copy" x="177" y="73">The path and its decisions.</text>
+      <rect class="guide" x="64" y="110" width="228" height="238" rx="4"/>
+      <use href="#base-glyph" class="skeleton" transform="translate(66 138)"/>
+      <circle class="node" cx="90" cy="283" r="6"/><circle class="node" cx="157" cy="165" r="6"/><circle class="node" cx="167" cy="262" r="6"/><circle class="node" cx="247" cy="265" r="6"/><circle class="node" cx="217" cy="193" r="6"/><circle class="node" cx="219" cy="252" r="6"/>
+      <circle class="vowel" cx="269" cy="158" r="11"/>
+      <circle class="step" cx="82" cy="366" r="14"/><text class="step-text" x="82" y="367">1</text>
+      <circle class="step" cx="135" cy="366" r="14"/><text class="step-text" x="135" y="367">2</text>
+      <circle class="step" cx="188" cy="366" r="14"/><text class="step-text" x="188" y="367">3</text>
+      <text class="panel-copy" x="177" y="414">Three principal gestures in this trial.</text>
+      <text class="panel-copy" x="177" y="440">The vowel is a separate touch.</text>
+    </g>
+
+    <g transform="translate(390 0)">
+      <rect class="panel" width="355" height="470" rx="6"/>
+      <text class="panel-title" x="177" y="44">Ordinary pen</text>
+      <text class="panel-copy" x="177" y="73">One weight, open joins.</text>
+      <rect class="guide" x="64" y="110" width="228" height="238" rx="4"/>
+      <use href="#base-glyph" class="mono" transform="translate(66 138)"/>
+      <circle class="vowel" cx="269" cy="158" r="11"/>
+      <path class="vowel-line" d="M250 313 Q269 335 288 313"/>
+      <text class="panel-copy" x="177" y="414">This is the plain working hand.</text>
+      <text class="panel-copy" x="177" y="440">Every other version must reduce to it.</text>
+    </g>
+
+    <g transform="translate(780 0)">
+      <rect class="panel" width="355" height="470" rx="6"/>
+      <text class="panel-title" x="177" y="44">Broad quill</text>
+      <text class="panel-copy" x="177" y="73">Pressure follows the main descent.</text>
+      <rect class="guide" x="64" y="110" width="228" height="238" rx="4"/>
+      <use href="#base-glyph" class="quill" transform="translate(66 138)"/>
+      <circle class="vowel" cx="269" cy="158" r="11"/>
+      <path class="vowel-line" d="M250 313 Q269 335 288 313"/>
+      <text class="panel-copy" x="177" y="414">Weight is expressive, never phonemic.</text>
+      <text class="panel-copy" x="177" y="440">A blunt nib may simplify the return.</text>
+    </g>
+
+    <g transform="translate(1170 0)">
+      <rect class="panel" width="355" height="470" rx="6"/>
+      <text class="panel-title" x="177" y="44">Display hand</text>
+      <text class="panel-copy" x="177" y="73">Terminals fill spare space.</text>
+      <rect class="guide" x="64" y="110" width="228" height="238" rx="4"/>
+      <use href="#base-glyph" class="display" transform="translate(66 138)"/>
+      <use href="#display-terminals" class="display-fill" transform="translate(66 138) scale(.84)"/>
+      <circle class="vowel" cx="269" cy="158" r="12"/>
+      <path class="vowel-line" d="M250 313 Q269 335 288 313"/>
+      <path class="display" d="M112 323 Q136 350 160 323"/>
+      <text class="panel-copy" x="177" y="414">Ornament occupies non-reading space.</text>
+      <text class="panel-copy" x="177" y="440">Removing it leaves the ordinary form.</text>
+    </g>
+  </g>
+
+  <g transform="translate(40 665)">
+    <rect class="panel" width="1525" height="350" rx="6"/>
+    <text class="panel-title" x="762" y="45">Reduction test</text>
+    <text class="panel-copy" x="762" y="75">The same two-vowel block is reduced without redrawing its details. The smallest size exposes fragile marks quickly.</text>
+    <g transform="translate(270 108)">
+      <rect class="guide" x="0" y="0" width="230" height="190" rx="4"/>
+      <use href="#base-glyph" class="mono" transform="translate(12 14) scale(.96)"/>
+      <circle class="vowel" cx="208" cy="34" r="11"/>
+      <path class="vowel-line" d="M185 160 Q205 183 225 160"/>
+      <text class="size-label" x="115" y="226">large note</text>
+    </g>
+    <g transform="translate(650 128)">
+      <rect class="guide" x="0" y="0" width="170" height="145" rx="4"/>
+      <use href="#base-glyph" class="mono" transform="translate(7 8) scale(.70)"/>
+      <circle class="vowel" cx="150" cy="24" r="8"/>
+      <path class="vowel-line" d="M135 119 Q150 136 165 119"/>
+      <text class="size-label" x="85" y="181">running hand</text>
+    </g>
+    <g transform="translate(965 155)">
+      <rect class="guide" x="0" y="0" width="112" height="95" rx="4"/>
+      <use href="#base-glyph" class="mono" transform="translate(4 5) scale(.45)"/>
+      <circle class="vowel" cx="98" cy="16" r="5"/>
+      <path class="vowel-line" d="M89 78 Q98 88 107 78"/>
+      <text class="size-label" x="56" y="130">margin hand</text>
+    </g>
+  </g>
+
+  <text class="subheading" x="54" y="1054">If a vowel vanishes before the consonant does, the vowel needs more body. This sheet is meant to reveal that failure.</text>
+</svg>

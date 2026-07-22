@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1040" role="img" aria-labelledby="title desc">
+  <title id="title">Four visual directions for the Phi glyph mode</title>
+  <desc id="desc">The same provisional two-cell word block drawn as open rounded strokes, stepped reed strokes, a woven continuous line, and a heavier display form.</desc>
+  <rect width="1600" height="1040" fill="#ffffff"/>
+  <style>
+    .heading { font: 700 42px system-ui, sans-serif; fill: #17252a; }
+    .subheading { font: 400 21px system-ui, sans-serif; fill: #52636a; }
+    .panel { fill: #f7faf9; stroke: #c9d5d2; stroke-width: 2; }
+    .panel-title { font: 700 28px system-ui, sans-serif; fill: #17252a; }
+    .panel-copy { font: 400 18px system-ui, sans-serif; fill: #52636a; }
+    .tag { font: 650 15px system-ui, sans-serif; letter-spacing: 1px; fill: #0f766e; }
+    .guide { fill: none; stroke: #b8c8c5; stroke-width: 2; stroke-dasharray: 7 8; }
+    .open-ink { fill: none; stroke: #143d3a; stroke-width: 15; stroke-linecap: round; stroke-linejoin: round; }
+    .open-vowel { fill: #b45309; stroke: #ffffff; stroke-width: 3; }
+    .step-ink { fill: none; stroke: #263238; stroke-width: 17; stroke-linecap: square; stroke-linejoin: bevel; }
+    .step-vowel { fill: none; stroke: #b91c1c; stroke-width: 11; stroke-linecap: square; }
+    .woven-ink { fill: none; stroke: #4338ca; stroke-width: 12; stroke-linecap: round; stroke-linejoin: round; }
+    .woven-cross { fill: #ffffff; stroke: #4338ca; stroke-width: 8; }
+    .stone { fill: #263238; }
+    .stone-cut { fill: #f7faf9; }
+    .stone-vowel { fill: #d97706; }
+  </style>
+
+  <text class="heading" x="54" y="72">One structure, four hands</text>
+  <text class="subheading" x="54" y="111">Each panel contains the same provisional two-cell word. Only the line, mass, and pen rhythm change.</text>
+
+  <g transform="translate(40 150)">
+    <rect class="panel" width="740" height="390" rx="6"/>
+    <text class="tag" x="32" y="42">DIRECTION A</text>
+    <text class="panel-title" x="32" y="78">Open court</text>
+    <text class="panel-copy" x="380" y="120">Rounded cores leave open counters.</text>
+    <text class="panel-copy" x="380" y="150">Vowels remain clear companions.</text>
+    <text class="panel-copy" x="380" y="180">Open ends leave room for the pen to pause.</text>
+    <rect class="guide" x="60" y="100" width="270" height="250" rx="4"/>
+    <path class="open-ink" d="M112 220 C88 194 92 148 129 132 C166 116 210 132 219 166 C228 201 203 226 170 220 C148 216 143 194 157 180"/>
+    <circle class="open-vowel" cx="245" cy="143" r="14"/>
+    <path class="open-ink" d="M110 287 C142 254 205 254 237 287 M172 263 L172 331 C172 343 185 348 199 341"/>
+    <path class="open-vowel" d="M95 306 Q111 287 127 306 Q111 326 95 306Z"/>
+    <circle class="open-vowel" cx="250" cy="325" r="10"/>
+  </g>
+
+  <g transform="translate(820 150)">
+    <rect class="panel" width="740" height="390" rx="6"/>
+    <text class="tag" x="32" y="42">DIRECTION B</text>
+    <text class="panel-title" x="32" y="78">Stepped reed</text>
+    <text class="panel-copy" x="380" y="120">Angular turns suit a broad nib.</text>
+    <text class="panel-copy" x="380" y="150">Repeated steps reveal families.</text>
+    <text class="panel-copy" x="380" y="180">Corners give the block a reedlike rhythm.</text>
+    <rect class="guide" x="60" y="100" width="270" height="250" rx="4"/>
+    <path class="step-ink" d="M102 218 L102 145 L148 118 L220 118 L244 145 L244 197 L216 224 L166 224 L166 180 L203 180 L203 154 L157 154 L142 168 L142 235"/>
+    <path class="step-vowel" d="M258 132 L280 132 L280 154 L258 154"/>
+    <path class="step-ink" d="M104 282 L140 250 L222 250 L252 280 M176 252 L176 334 L210 334"/>
+    <path class="step-vowel" d="M91 300 L111 280 L131 300 L111 320 Z"/>
+    <path class="step-vowel" d="M244 316 L275 316"/>
+  </g>
+
+  <g transform="translate(40 580)">
+    <rect class="panel" width="740" height="390" rx="6"/>
+    <text class="tag" x="32" y="42">DIRECTION C</text>
+    <text class="panel-title" x="32" y="78">Woven breath</text>
+    <text class="panel-copy" x="380" y="120">One line crosses most of the block.</text>
+    <text class="panel-copy" x="380" y="150">The crossings suggest thread.</text>
+    <text class="panel-copy" x="380" y="180">Vowels must survive its speed.</text>
+    <rect class="guide" x="60" y="100" width="270" height="250" rx="4"/>
+    <path class="woven-ink" d="M104 215 C90 165 119 127 167 127 C218 127 248 169 226 207 C209 237 167 231 157 207 C146 180 180 161 205 174 C236 190 247 246 213 270 C176 296 116 265 111 304 C107 336 150 348 182 326 C212 305 225 278 253 284"/>
+    <circle class="woven-cross" cx="252" cy="143" r="13"/>
+    <path class="woven-ink" d="M92 287 Q110 267 128 287 Q110 309 92 287Z"/>
+    <circle class="woven-cross" cx="266" cy="308" r="9"/>
+  </g>
+
+  <g transform="translate(820 580)">
+    <rect class="panel" width="740" height="390" rx="6"/>
+    <text class="tag" x="32" y="42">DIRECTION D</text>
+    <text class="panel-title" x="32" y="78">Ink stone</text>
+    <text class="panel-copy" x="380" y="120">A display hand adds mass.</text>
+    <text class="panel-copy" x="380" y="150">White cuts preserve the skeleton.</text>
+    <text class="panel-copy" x="380" y="180">The plain hand keeps no fill.</text>
+    <rect class="guide" x="60" y="100" width="270" height="250" rx="4"/>
+    <path class="stone" d="M100 224 C72 165 99 111 160 102 C225 92 270 131 266 188 C264 228 237 251 194 250 L194 208 C217 208 229 196 229 177 C229 150 207 137 178 142 C147 148 135 172 146 202 L146 237 Z"/>
+    <path class="stone-cut" d="M160 160 C174 148 197 152 204 168 C212 187 195 201 174 197 C159 194 153 174 160 160Z"/>
+    <circle class="stone-vowel" cx="281" cy="131" r="15"/>
+    <path class="stone" d="M100 297 L142 254 L239 254 L275 295 L246 319 L218 291 L188 291 L188 351 L143 351 L143 291 L129 309 Z"/>
+    <path class="stone-vowel" d="M82 315 Q107 278 132 315 Q107 343 82 315Z"/>
+    <circle class="stone-vowel" cx="269" cy="337" r="11"/>
+  </g>
+
+  <text class="subheading" x="54" y="1010">These are line studies, not four alphabets. The underlying cells and vowel positions are deliberately unchanged.</text>
+</svg>
