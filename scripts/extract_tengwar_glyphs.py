@@ -1,7 +1,7 @@
 """One-off extraction: pull the Phi mode's glyph outlines out of Tengwar
-Telcontar (writing_systems/fonts/, by Johan Winge, freetengwar.sourceforge.net,
-GNU GPL) into a committed JSON so the site build needs no font tooling.
-Requires fontTools; run manually:
+Telcontar (tengwar/fonts/, by Johan Winge, freetengwar.sourceforge.net, GNU
+GPL) into a committed JSON so the site build needs no font tooling. Requires
+fontTools; run manually:
 
     python3 -m venv /tmp/ftenv && /tmp/ftenv/bin/pip install fonttools
     /tmp/ftenv/bin/python scripts/extract_tengwar_glyphs.py
@@ -14,8 +14,8 @@ from fontTools.pens.svgPathPen import SVGPathPen
 from fontTools.ttLib import TTFont
 
 ROOT = Path(__file__).resolve().parent.parent
-FONT = ROOT / "writing_systems" / "fonts" / "TengwarTelcontar.ttf"
-OUT = ROOT / "writing_systems" / "tengwar_glyphs.json"
+FONT = ROOT / "tengwar" / "fonts" / "TengwarTelcontar.ttf"
+OUT = ROOT / "tengwar" / "glyphs.json"
 
 # The Phi mode's full inventory: 16 tengwar, 5 above-tehtar, 5 below-tehtar,
 # the double pusta (the period), and the pusta (documented calligraphic

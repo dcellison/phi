@@ -52,8 +52,8 @@ This repository contains four licensing categories, set out below.
 
 FONTS. The font files under site/fonts/ are third-party works under the
 SIL Open Font License 1.1; see the OFL-*.txt files alongside them. The
-Tengwar Telcontar font under writing_systems/fonts/, used only to
-generate the Tengwar glyph outlines in writing_systems/tengwar_glyphs.json,
+Tengwar Telcontar font under tengwar/fonts/, used only to generate the
+Tengwar glyph outlines in tengwar/glyphs.json,
 is a third-party work by Johan Winge (freetengwar.sourceforge.net)
 under the GNU General Public License; see the font's own name table
 for its license statement.

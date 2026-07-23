@@ -1,5 +1,7 @@
 # Design brief
 
+> **Archived:** This brief belonged to the native-glyph project retired on 23 July 2026. Its requirements and open questions are preserved as design history and do not describe planned Phi work.
+
 ## The job
 
 The glyph mode will give Phi one native hand. It should be writable with an ordinary pen and satisfying with a broad quill, compact enough for running prose, and composed with some of the spatial presence of Maya glyph blocks. Its appearance may be new; the language inside it is not.

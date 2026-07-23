@@ -1,7 +1,7 @@
-"""Render romanized Phi as Tengwar SVG, per the Phi mode
-(writing_systems/tengwar_mode.md). Pure geometry over the glyph outlines in
-writing_systems/tengwar_glyphs.json - no font tooling, no shaping engine, so
-the output renders identically in every browser.
+"""Render romanized Phi as Tengwar SVG, per the Phi mode (tengwar/mode.md).
+Pure geometry over the glyph outlines in tengwar/glyphs.json means the output
+needs no font tooling or shaping engine and renders identically in every
+browser.
 
 Mode decisions encoded here (ruled 2026-07-05): k = calma; word-initial r =
 romen, internal r = ore; s = silme nuquerna throughout (every Phi s carries a
@@ -15,7 +15,7 @@ from pathlib import Path
 import name_forms
 
 _DATA = json.loads((Path(__file__).resolve().parent.parent /
-                    "writing_systems" / "tengwar_glyphs.json").read_text())
+                    "tengwar" / "glyphs.json").read_text())
 _G = _DATA["glyphs"]
 
 # Manual per-base-glyph position corrections, keyed by the base tengwa's
@@ -32,13 +32,12 @@ _G = _DATA["glyphs"]
 # or floats a way off above the letter. Empty entries just mean the
 # plain placement hasn't been checked against a reference yet, not that
 # it's known correct. Add one at a time, informed by an actual rendered
-# comparison - see writing_systems/tengwar_mode.md and
-# [[tengwar-telcontar-swap]] in memory for the story of why this exists
-# (automated per-glyph shape analysis was tried and abandoned: it kept
-# finding a new letter shape it got wrong) and for th specifically, the
-# standing correction: center it above the hump, not the mast, then
-# nudge right by roughly the stem's own width so it clears the stem
-# instead of sitting on top of it.
+# comparison. The mode is specified in tengwar/mode.md, and the remaining
+# reference-evidence gap is recorded in project/deferred_questions.md.
+# Automated per-glyph shape analysis was tried and abandoned because each
+# correction exposed another letter shape it handled poorly. For th, center
+# the tehta above the hump rather than the mast, then nudge it right by roughly
+# the stem's width so it clears the stem instead of sitting on top of it.
 TWEAKS = _DATA.get("tweaks", {})
 
 TENGWA = {"p": "E001", "t": "E000", "k": "E002", "m": "E011", "n": "E010",

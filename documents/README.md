@@ -15,6 +15,7 @@ The [grammar index](grammar/) leads to the authoritative machinery references an
 | [Compound registry](reference/compounds.md) | Established compositions and their documented interpretations. |
 | [Taught patterns](reference/taught_patterns.md) | Indexed inventory of constructions taught across the learning materials. |
 | [The voice, for models](reference/voice_for_models.md) | Writing reference for Phi's register, mechanics, Humanizer pass, and final audit. |
+| [Tengwar mode](../tengwar/mode.md) | Current mapping, hiatus rule, punctuation, and implementation reference for Phi's second writing mode. |
 
 ## Design rationale
 

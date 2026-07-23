@@ -35,7 +35,7 @@ A pause can give someone time to breathe, think, or let a line settle. It can al
 
 ### Every Phi mode carries the words
 
-Romanization, Tengwar, and the developing glyph mode can all represent canonical Phi words. Latin case and the punctuation of another writing system do not meet that test. Source material stays outside the Phi passage, where its own medium can preserve those details without asking Phi syntax to contain them.
+Romanization and Tengwar can both represent canonical Phi words. Latin case and the punctuation of another writing system do not meet that test. Source material stays outside the Phi passage, where its own medium can preserve those details without asking Phi syntax to contain them.
 
 ### Practice: identify the spoken work
 

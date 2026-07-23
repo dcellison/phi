@@ -1,6 +1,6 @@
 # Part 6: The spoken capital
 
-Phi vocabulary and productive Phi-form names have no capital letters: not for sentences, not for names, in any mode of writing. The canon ruling (*Letters*) rests on one principle: romanization is only one way of writing Phi, a peer among peers with the Tengwar mode and the glyph mode, and Phi meaning cannot depend on Latin case. What capitals do for names, `ne` does aloud.
+Phi vocabulary and productive Phi-form names have no capital letters: not for sentences, not for names, in either mode of writing. The canon ruling (*Letters*) rests on one principle: romanization is only one way of writing Phi, with Tengwar as its peer, and Phi meaning cannot depend on Latin case. What capitals do for names, `ne` does aloud.
 
 This chapter is the writer's checklist: four surfaces where an English-trained hand will reach for a capital, and what Phi does instead on each.
 
@@ -18,7 +18,7 @@ When English hosts a Phi name (in a translation line, a note, a story about the 
 
 ### Tengwar
 
-Switch the texts shelf to tengwar and look at any line: nothing is taller than anything else, and nothing ever was. The mode never had a case to lose, which is exactly the situation the ruling protects. A name written in tengwar looks like the word it is; the only thing that marks the person is the small sign of `ne` standing before them, same as the voice does. The reader of that mode does not see the capital. They hear it, the way a listener always has.
+Open the Tengwar pamphlet and look at any paired line: nothing is taller than anything else, and nothing ever was. The mode never had a case to lose, which is exactly the situation the ruling protects. A name written in tengwar looks like the word it is; the only thing that marks the person is the small sign of `ne` standing before them, same as the voice does. The reader of that mode does not see the capital. They hear it, the way a listener always has.
 
 ### Why the language holds this line
 

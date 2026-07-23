@@ -82,7 +82,7 @@ The guest and exact frames were removed. Do not restore them under another name.
 
 Foreign wording, source-script names, exact values and records, identifiers, formulas, quotations, legal and medical text, citations, and other unassimilated artifacts remain beside or around Phi in the surrounding page, interface, or conversation. Phi may point to, describe, translate, analyse, or discuss them, but the source tokens occupy no Phi syntactic position under current canon.
 
-This boundary preserves source identity and parity among Romanization, Tengwar, and the future glyph mode. It says nothing about approval, condemnation, stigma, or Phi's capacity to understand the material.
+This boundary preserves source identity and parity between Romanization and Tengwar. It says nothing about approval, condemnation, stigma, or Phi's capacity to understand the material.
 
 Live spoken source material and code-switching remain an open design question. The difficulty is that conversation has no obvious page margin. Until canon changes, retain the current boundary; a new frame requires an explicit language-design decision. Any solution must use the complete existing grammar and discourse practice rather than create a second parser.
 
