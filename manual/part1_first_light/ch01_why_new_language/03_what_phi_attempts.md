@@ -6,7 +6,7 @@ Phi's answer is concrete. Its modifier-first grammar lets participants and relat
 
 The language is also large enough to live in, not merely to sample. Its lexicon holds more than a thousand entries with definitions, articulatory guidance, and validated examples, and its literary shelf reaches from the Metta Sutta and Aesop's *North Wind and the Sun* to the whole of *The Velveteen Rabbit*. That shelf is where this book is taking you. By its end you will be able to greet a friend at the door, tell the time of day by the sky, ask how someone knows what they claim, and read a story about a toy becoming real in words you understand from the inside.
 
-Phi carries source texts in two ways. A close translation protects the source's claims while finding natural Phi grammar. A *transmutation* allows Phi's five pillars to reshape the source, then records what changed and why. In the paired *North Wind and the Sun*, the translation preserves the contest while the transmutation concludes `keloa haolu nela kawhera pholeni thola`, "rough speech and coercion bring departure." Part VI teaches transmutation; Part VII maps both methods across the text shelf.
+Phi carries source texts in two ways. A close translation protects the source's claims while finding natural Phi grammar. A *transmutation* allows Phi's five pillars to reshape the source, then records what changed and why. In the paired *North Wind and the Sun*, the translation preserves the contest while the transmutation concludes `keloa haolu nela kawhera pholeni thola`, "rough speech and coercion bring departure." In original work, Phi comes first; English follows as a close reading. Part VI teaches transmutation; Part VII maps all three methods across the text shelf.
 
 ### A glimpse of the five pillars
 

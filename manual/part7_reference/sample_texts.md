@@ -2,7 +2,7 @@
 
 Complete, validated Phi for reading practice, from two-line exchanges to whole texts. Every word here exists in the lexicon; every construction is taught in Parts IV and V.
 
-For original philosophical dialogues that test disagreement, revision, evidence, resource tradeoffs, and separately presented source terminology, see `documents/evaluation/philosophical_test_corpus.md`. It is a regression corpus rather than literature: its unresolved questions are part of its purpose.
+For a sustained original Phi dialogue, read `texts/care_and_coercion.md`. Its two speakers test danger, refusal, consent, evidence, and authority without arriving at a complete conclusion. The shorter dialogues in `documents/evaluation/philosophical_test_corpus.md` are regression cases rather than literature: their unresolved questions are part of their purpose.
 
 ## Dialogues
 
@@ -108,9 +108,9 @@ The Metta Sutta's final verse predicts that the practitioner will never return t
 
 The five Tao chapters bring the comparison into a workshop. One version describes the wheel and follows a tree cutter to the broad trunk; the other stays with an empty vessel until a great wind arrives.
 
-A **translation** keeps the source's claims and distinctions, along with its images and force, while letting Phi grammar do its own work. A **transmutation** may recast the source in Phi's own terms. Its citations and gap log make the distance visible. Both practices can compose a missing term or coin a word; the difference is what each owes the source.
+A **translation** keeps the source's claims and distinctions, along with its images and force, while letting Phi grammar do its own work. A **transmutation** may recast the source in Phi's own terms. Its citations and gap log make the distance visible. An **original** takes Phi as its source; the English is a close reading rather than a prior text waiting to be rendered. All three methods can compose a missing term or coin a word. What changes is the work each owes to a source, or to the propositions it makes on its own.
 
-The complete texts live in `texts/`. Each short work has one file; a longer book has its own directory, where the chapters and their shared source stay together. Every rendering presents Phi beside glosses, back-translations, source citations where publication permits them, and a record of the choices made. Nine are the manual's touchstones.
+The complete texts live in `texts/`. Each short work has one file; a longer book has its own directory, where the chapters and their shared source stay together. Translations and transmutations place source wording beneath their Phi, glosses, and back-translations where publication permits it. Original work uses three-line blocks because Phi is the source, then records its propositions and lexical pressure separately. Ten are the manual's touchstones.
 
 ***lothea thole*** (The Practice of Love) is a translation of the Karaniya Metta Sutta: ten verses of loving-kindness carried almost entirely by the optative `su`. Its refrain is the language in one line:
 
@@ -121,6 +121,8 @@ OPT UNIV creature joy heart hold.
 ```
 
 ***sileta kenua wireo moenu lo sherewa*** (Claims of a Solar-Energy Future Culture) translates *A Solarpunk Manifesto* across all five opening paragraphs, 22 propositions, and both nested lists. Political labels such as post-capitalism and decolonialism, identity categories, and named aesthetic references stay exact in the licensed English source; the Phi lines state the relations the current lexicon can defend. The long analytic phrases show both reach and strain in a text written squarely for solarpunk readers.
+
+***theama weno kawhera kelu*** (When Care Becomes Coercion) is the shelf's first original Phi work. Two friends sit with a hot room, a refusal to leave, and a danger neither can dismiss. Their dialogue separates evidence from entailment, persuasion from coercion, and care from authority. Conditional consent settles what the friends may do this afternoon; the harder case, when no prior answer can speak, still waits.
 
 ***nitho howeli nela sileta*** (The North Wind and the Sun) pairs a close translation with a transmutation of Aesop's familiar linguistic benchmark. The translation uses past-tense scene chains and direct removal in a relative clause; base `sharemi` (persuade) lets Aesop's moral stay whole. The transmutation has no scoreboard: `moli nela phena haolu welao lureko thola`, gentleness and kind speech bring good fruit; `keloa haolu nela kawhera pholeni thola`, rough speech and coercion bring departure. A comparison after both renderings follows the change through Phi's five pillars.
 

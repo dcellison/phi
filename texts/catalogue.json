@@ -15,6 +15,13 @@
       "summary": "The Solarpunk Community's five opening paragraphs and 22 propositions in close Phi translation. Political claims, aesthetic references, and practical proposals stay aligned to the licensed source."
     },
     {
+      "path": "care_and_coercion.md",
+      "kind": "short",
+      "title": "theama weno kawhera kelu: When care becomes coercion",
+      "method": "Original",
+      "summary": "An original Phi dialogue set in a hot room, where two friends test whether care can protect without borrowing authority and end with a bounded agreement rather than a complete conclusion."
+    },
+    {
       "path": "north_wind_and_sun.md",
       "kind": "short",
       "title": "nitho howeli nela sileta \u2014 The North Wind and the Sun",

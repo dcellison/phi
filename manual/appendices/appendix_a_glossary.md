@@ -34,6 +34,8 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **optative**: The mood of wishes and blessings ("may all beings be well"). Phi's `su`, the workhorse of the Metta Sutta.
 
+**original composition**: A work composed first in Phi rather than inherited from another source. English supplies a close reading, while a proposition record tracks the argument and its unanswered questions.
+
 **particle**: A short, invariant grammatical word. In Phi, always a single CV syllable, assigned to one of three slots: sentence-frame (Slot 0), verb-phrase (Slot 1), word-level (Slot 2).
 
 **phonotactics**: The rules for how sounds may combine. Phi uses open (C)CV syllables, consonant-initial and vowel-final words, no three-vowel runs, no repeated syllable with an onset within a word, and an absolute three-syllable lexical ceiling.

@@ -5,6 +5,7 @@ from pathlib import Path
 
 
 TEXT_METHODS = {
+    "Original",
     "Translation",
     "Transmutation",
     "Translation + transmutation",

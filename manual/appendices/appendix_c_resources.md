@@ -17,7 +17,7 @@ The manual is the teaching path; these are the working documents behind it.
 | `documents/reference/compounds.md` | The canonized compound idioms and why each stays compositional |
 | `documents/design/modifier_first_philosophy.md` | The organizing principle, argued in full |
 | `documents/design/psychological_violence_of_measurement.md` | Why the numbers are the way they are |
-| [`texts/`](https://github.com/dcellison/phi/tree/main/texts) | The literary shelf: the Metta Sutta and Solarpunk Manifesto translations, seven paired works, three further transmutations, and *News from Nowhere* in its own book directory |
+| [`texts/`](https://github.com/dcellison/phi/tree/main/texts) | The literary shelf: nine close translations, eleven transmutations, one original Phi dialogue, and *News from Nowhere* in its own book directory |
 | `pamphlets/` | Focused companions to the manual, with extended teaching, exercises, and answer keys |
 | `manual/part7_reference/` | The one-page grammar and the generated lexicon listings |
 | `scripts/validate_examples.py` | The validator; also `neighbors <word>` before coining |
