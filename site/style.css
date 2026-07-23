@@ -418,13 +418,16 @@ footer a { color: var(--sage); }
   box-decoration-break: clone;
   color: var(--ink);
   font-family: ui-monospace, "SFMono-Regular", consolas, monospace;
-  font-size: 1em;
+  font-size: .9em;
   letter-spacing: 0;
   line-height: 1;
-  padding: .12em .34em .16em;
+  padding: .18em .4em .22em;
   white-space: normal;
 }
-.book-editorial p code:not(.phi-inline) { overflow-wrap: anywhere; }
+.book-editorial p code:not(.phi-inline) {
+  font-size: .78em;
+  overflow-wrap: anywhere;
+}
 
 @media (max-width: 560px) {
   .book-editorial h1 { font-size: 2.15rem; }
