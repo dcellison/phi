@@ -30,7 +30,7 @@ A Vowel Pair consists of two adjacent, distinct vowels. There are **20** possibl
 - **From `o`**: `oa, oi, ou, oe`
 - **From `a`**: `ae, ai, au, ao`
 
-**Fundamental Property:** All Vowel Pairs are pronounced in hiatus, meaning each vowel forms a separate syllable. For example, `au` is pronounced /a.u/.
+**Fundamental Property:** All Vowel Pairs are pronounced in hiatus, meaning each vowel forms a separate syllable. For example, `au` is pronounced /ä.u/.
 
 ## 2. Syllable Structure
 
@@ -56,7 +56,7 @@ The nucleus of a syllable (the part that follows the onset) can be either a Sing
 ### 2.3. Universal Syllable Constraints
 - **Consonant Onset Rule:**
   - The **initial syllable** of any word must begin with a Consonant (`C`) or Fricative (`F`).
-  - **Subsequent syllables** must also begin with a `C` or `F`, with one exception: a lone vowel (`V`) resulting from vowel hiatus (e.g., the `u` in `hauno` /ha.u.no/) does not require an onset.
+  - **Subsequent syllables** must also begin with a `C` or `F`, with one exception: a lone vowel (`V`) resulting from vowel hiatus (e.g., the `u` in `hauno` /hä.ˈu.no̞/) does not require an onset.
 - **Open Syllables Only:** Every syllable must end with a vowel.
 - **No Consonant Clusters:** The only multi-letter onsets are Fricative Digraphs (`F`), which are treated as a single unit under the `(C)CV` rule.
 
@@ -71,8 +71,8 @@ As stated in 1.4, all Vowel Pairs (`P`) are pronounced in hiatus. This means the
 
 | Allowed Structure | Example | Forbidden Structure | Example (Invalid) |
 | :--- | :--- | :--- | :--- |
-| `CP` | `nau` (/na.u/) | `CVP` | `maou` (`a` + `ou`) |
-| `CVC` + `P` | `nelau` (/ne.la.u/) | `CPV` | `naui` (`au` + `i`) |
+| `CP` | `nau` (/ˈn̪ä.u/) | `CVP` | `maou` (`a` + `ou`) |
+| `CVC` + `P` | `nelau` (/n̪e̞.ˈlä.u/) | `CPV` | `naui` (`au` + `i`) |
 
 
 ## 4. Word-Level Constraints

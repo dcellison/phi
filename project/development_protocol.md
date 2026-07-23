@@ -26,15 +26,15 @@ This "announce then deliver" principle creates transparent communication where a
 
 ### Phonological Requirements
 - [ ] **Uses only permitted sounds**: C={h,k,l,m,n,p,r,s,t,w}, F={ph,th,sh,wh}, V={a,e,i,o,u}
-- [ ] **The fricative digraphs (F) are**: ph=/φ/, th=/θ/, sh=/ʃ/, wh=/ʍ/
+- [ ] **The fricative digraphs (F) are**: ph=/ɸ/, th=/θ/, sh=/ʃ/, wh=/ʍ/
 - [ ] **Follows (C)CV structure**: Single consonants OR fricative digraphs only
 - [ ] **Maintains vowel hiatus**: Each vowel = separate syllable (no diphthongs)
-- [ ] **Vowel hiatus transcription**: Always show syllable breaks with dots: au=/a.u/, not /au/
+- [ ] **Vowel hiatus transcription**: Always show syllable breaks with dots: au=/ä.u/, not /äu/
 - [ ] **Respects three-vowel constraint**: Never VVV+ sequences
 - [ ] **No duplicate syllables in lexicon words**: Every proposed word satisfies the rule; source material outside Phi is not a lexical exception
 - [ ] **Begins with consonant**: All words start with C or F
 - [ ] **Ends with vowel**: All syllables are open
-- [ ] **Dental articulation**: /t/ and /n/ are dental, not alveolar
+- [ ] **Dental articulation**: /t̪/ and /n̪/ are dental, not alveolar
 
 ### Structural Hierarchy
 The full function-word shape charter is a canon ruling (see `/canon.md`); the checklist summarizes it.

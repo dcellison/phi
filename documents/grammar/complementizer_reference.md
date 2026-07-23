@@ -11,7 +11,7 @@ Complementizers are two-syllable function words that introduce subordinate claus
 ### `rena` - Relativizer (REL)
 
 **Function**: Introduces relative clauses that describe a noun
-**IPA**: /re.na/
+**IPA**: /ˈre̞.n̪ä/
 **Position**: Before the relative clause and the noun it modifies
 **Structure**: `[rena CLAUSE] NOUN`
 
@@ -42,7 +42,7 @@ Complementizers are two-syllable function words that introduce subordinate claus
 ### `shola` / `sholo` - Quotative (QUOT.COMP / QUOT.COMP.CLOSE)
 
 **Function**: Introduces and closes direct speech, preserving the exact words spoken
-**IPA**: /ʃo.la/ and /ʃo.lo/
+**IPA**: /ˈʃo̞.lä/ and /ˈʃo̞.lo̞/
 **Position**: `shola` opens the quoted material; `sholo` closes it. The main verb follows `sholo`.
 **Structure**: `[Subject] shola [Quote] sholo [Verb of speaking or receiving speech]`
 
@@ -68,7 +68,7 @@ mia shola mia so wepu sholo to haolu.
 ### `mena` / `meno` - Declarative Complementizer (DECL.COMP / DECL.COMP.CLOSE)
 
 **Function**: Introduces and closes embedded declarative clauses (reports content, not exact words)
-**IPA**: /me.na/ and /me.no/
+**IPA**: /ˈme̞.n̪ä/ and /ˈme̞.n̪o̞/
 **Position**: `mena` opens the embedded statement; `meno` closes it. The main verb follows `meno`.
 **Structure**: `[Subject] mena [Embedded statement] meno [Main verb]`
 
@@ -105,7 +105,7 @@ mia mena thia mena shia to wepu meno phaelo meno shelomu.
 ### `wela` / `welo` - Interrogative Complementizer (INT.COMP / INT.COMP.CLOSE)
 
 **Function**: Introduces and closes embedded yes/no questions
-**IPA**: /we.la/ and /we.lo/
+**IPA**: /ˈwe̞.lä/ and /ˈwe̞.lo̞/
 **Position**: `wela` opens the embedded question; `welo` closes it. The main verb follows `welo`.
 **Structure**: `[Subject] wela [Embedded yes/no question] welo [Main verb]`
 
@@ -153,7 +153,7 @@ The vocative is a separate part of speech for direct address, existing outside t
 ### `kona` - Vocative Marker (VOC)
 
 **Function**: Announces that someone is being directly addressed
-**IPA**: /ko.na/
+**IPA**: /ˈko̞.n̪ä/
 **Position**: Before the name/title of the addressee, outside the main clause
 **Structure**: `kona [ne] [Name/Title]. [Sentence]`
 

@@ -12,7 +12,7 @@ Phi is a constructed language, but almost every one of its features lives somewh
 
 ## Sounds
 
-**The small, gentle inventory** (10 consonants, 5 vowels) sits comfortably within natural range: Hawaiian manages with 8 consonants and 5 vowels; Rotokas (Papua New Guinea) with about 11 sounds in total. Phi's five-vowel system /a e i o u/ is the single most common vowel system in the world.
+**The small, gentle inventory** (10 consonants, 5 vowels) sits comfortably within natural range: Hawaiian manages with 8 consonants and 5 vowels; Rotokas (Papua New Guinea) with about 11 sounds in total. Phi's five careful targets are /ä e̞ i o̞ u/; together they form the world's most common five-vowel pattern.
 
 **Open CV syllables** are the pattern of Hawaiian, Māori, and Swahili, languages routinely described as flowing and musical for exactly this reason.
 
