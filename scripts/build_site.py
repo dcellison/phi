@@ -538,7 +538,116 @@ prepare_html_output(BOOK_OUT)
 NAV_BOOK = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../short_road.html">walk</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a class="here" href="index.html">book</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="../pamphlets/index.html">pamphlets</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
 
-def book_page(body, title, footer_nav=""):
+def load_editorial_pages():
+    """Load opt-in editorial treatments and reject stale source paths."""
+    config_path = SITE_SRC / "editorial.json"
+    config = json.loads(config_path.read_text(encoding="utf-8"))
+    pages = config.get("pages")
+    if set(config) != {"pages"} or not isinstance(pages, dict):
+        raise ValueError("site/editorial.json must contain one 'pages' object")
+    for repo_path, treatment in pages.items():
+        source_path = ROOT / repo_path
+        if not source_path.is_file():
+            raise ValueError(f"editorial source does not exist: {repo_path}")
+        if set(treatment) != {"pull_quotes"}:
+            raise ValueError(
+                f"editorial treatment for {repo_path} must contain only 'pull_quotes'"
+            )
+        quotes = treatment["pull_quotes"]
+        if not isinstance(quotes, list) or not quotes or any(
+            not isinstance(quote, str) or not quote.strip() for quote in quotes
+        ):
+            raise ValueError(
+                f"editorial pull_quotes for {repo_path} must be a non-empty string list"
+            )
+        if len(quotes) != len(set(quotes)):
+            raise ValueError(f"editorial pull_quotes repeat in {repo_path}")
+    return pages
+
+
+def mark_drop_cap(paragraph):
+    """Wrap the first visible letter while preserving it for assistive tools."""
+    in_tag = False
+    in_entity = False
+    for index, char in enumerate(paragraph):
+        if char == "<" and not in_entity:
+            in_tag = True
+        elif char == ">" and in_tag:
+            in_tag = False
+        elif char == "&" and not in_tag:
+            in_entity = True
+        elif char == ";" and in_entity:
+            in_entity = False
+        elif not in_tag and not in_entity and char.isalpha():
+            return (
+                paragraph[:index]
+                + f'<span class="drop-cap">{char}</span>'
+                + paragraph[index + 1:]
+            )
+    raise ValueError("editorial opening paragraph has no visible letter")
+
+
+def apply_book_editorial(body, source, repo_path, treatment):
+    """Generate the chapter furniture named in site/editorial.json."""
+    chapter_match = re.match(r"book/([0-9]+)_", repo_path)
+    if not chapter_match:
+        raise ValueError(f"editorial book path lacks a chapter number: {repo_path}")
+    chapter_number = int(chapter_match.group(1))
+    body, heading_count = re.subn(
+        r"(<h1>.*?</h1>)",
+        rf'<p class="chapter-eyebrow">Chapter {chapter_number}</p>\n\1',
+        body,
+        count=1,
+        flags=re.S,
+    )
+    if heading_count != 1:
+        raise ValueError(f"editorial source must have one level-one heading: {repo_path}")
+
+    lede_match = re.search(r"<p>(.*?)</p>", body, flags=re.S)
+    if lede_match is None:
+        raise ValueError(f"editorial source has no opening paragraph: {repo_path}")
+    marked_lede = mark_drop_cap(lede_match.group(1))
+    body = (
+        body[:lede_match.start()]
+        + f'<p class="chapter-lede">{marked_lede}</p>'
+        + body[lede_match.end():]
+    )
+
+    paragraph_matches = list(re.finditer(r"<p>.*?</p>", body, flags=re.S))
+    insertions = {}
+    for quote in treatment["pull_quotes"]:
+        if source.count(quote) != 1:
+            raise ValueError(
+                f"editorial pull quote must occur exactly once in {repo_path}: {quote!r}"
+            )
+        escaped_quote = html_module.escape(quote, quote=False)
+        containing = [
+            match for match in paragraph_matches
+            if escaped_quote in match.group(0)
+        ]
+        if len(containing) != 1:
+            raise ValueError(
+                f"editorial pull quote did not survive rendering in {repo_path}: {quote!r}"
+            )
+        aside = (
+            '\n<aside class="chapter-pullquote" aria-hidden="true">'
+            f"<p>{escaped_quote}</p></aside>"
+        )
+        insertions.setdefault(containing[0].end(), []).append(aside)
+    for position in sorted(insertions, reverse=True):
+        body = body[:position] + "".join(insertions[position]) + body[position:]
+    return body
+
+
+EDITORIAL_PAGES = load_editorial_pages()
+
+
+def book_page(body, title, footer_nav="", editorial=False):
+    body_class = "landing primer book-editorial" if editorial else "landing primer"
+    content = (
+        f'<article class="chapter-copy">\n{body}\n{footer_nav}\n</article>'
+        if editorial else f"{body}\n{footer_nav}"
+    )
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -550,11 +659,10 @@ def book_page(body, title, footer_nav=""):
 <script src="../reader.js" defer></script>
 <link rel="stylesheet" href="../style.css">
 </head>
-<body class="landing primer">
+<body class="{body_class}">
 {NAV_BOOK}
 <main>
-{body}
-{footer_nav}
+{content}
 </main>
 <footer>
   <p>The book was written in public. Its source chapters live in
@@ -569,7 +677,12 @@ def book_page(body, title, footer_nav=""):
 book_chapters = sorted(BOOK_SRC.glob("[0-9][0-9]_*.md")) + [p for p in [BOOK_SRC / "bibliography.md"] if p.exists()]
 book_titles = {chapter.name: title_of(chapter.read_text()) for chapter in book_chapters}
 for i, chapter in enumerate(book_chapters):
-    body = link_text_citations(md_to_html(chapter.read_text()))
+    source = chapter.read_text()
+    repo_path = chapter.relative_to(ROOT).as_posix()
+    treatment = EDITORIAL_PAGES.get(repo_path)
+    body = link_text_citations(md_to_html(source))
+    if treatment is not None:
+        body = apply_book_editorial(body, source, repo_path, treatment)
     prev_link = (
         f'<a href="{book_chapters[i - 1].stem}.html">'
         f'&lsaquo; {book_titles[book_chapters[i - 1].name]}</a>'
@@ -582,7 +695,12 @@ for i, chapter in enumerate(book_chapters):
     )
     chapter_nav = f'<div class="chapnav">{prev_link}<a href="index.html">contents</a>{next_link}</div>'
     (BOOK_OUT / f"{chapter.stem}.html").write_text(
-        book_page(body, book_titles[chapter.name], chapter_nav)
+        book_page(
+            body,
+            book_titles[chapter.name],
+            chapter_nav,
+            editorial=treatment is not None,
+        )
     )
 
 book_readme = md_to_html((BOOK_SRC / "README.md").read_text())

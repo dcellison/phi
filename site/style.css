@@ -364,6 +364,72 @@ footer a { color: var(--sage); }
 .chapnav a { color: var(--sage); text-decoration: none; }
 .chapnav a:hover { color: var(--ink); }
 
+/* --- opt-in editorial chapter treatment (site/editorial.json) --- */
+.book-editorial main { max-width: 64rem; }
+.book-editorial .chapter-copy { max-width: 38rem; margin: 0 auto; }
+.book-editorial .chapter-eyebrow {
+  color: var(--gold);
+  font-family: var(--sans);
+  font-size: .76rem;
+  font-weight: 650;
+  letter-spacing: 0;
+  margin: 0 0 .35rem;
+}
+.book-editorial h1 {
+  font-size: 2.65rem;
+  letter-spacing: 0;
+  line-height: 1.12;
+  margin-bottom: 1.5rem;
+}
+.book-editorial .chapter-lede {
+  font-family: var(--serif);
+  font-size: 1.16rem;
+  line-height: 1.68;
+  margin-bottom: 1.25rem;
+}
+.book-editorial .drop-cap {
+  color: var(--sage);
+  float: left;
+  font-family: var(--serif);
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: .78;
+  margin: .14rem .13rem 0 0;
+}
+.book-editorial .chapter-pullquote {
+  border-bottom: 1px solid var(--gold);
+  border-top: 1px solid var(--gold);
+  color: var(--sage);
+  float: right;
+  font-family: var(--serif);
+  font-size: 1.3rem;
+  line-height: 1.42;
+  margin: .55rem -12.5rem 1.5rem 2rem;
+  padding: .8rem 0;
+  width: 10.5rem;
+}
+.book-editorial .chapter-pullquote p { margin: 0; }
+.book-editorial .chapnav { clear: both; }
+
+@media (max-width: 62rem) {
+  .book-editorial main { max-width: 38rem; }
+  .book-editorial .chapter-pullquote {
+    float: none;
+    margin: 1.8rem 0;
+    width: auto;
+  }
+}
+
+@media (max-width: 560px) {
+  .book-editorial h1 { font-size: 2.15rem; }
+  .book-editorial .chapter-lede { font-size: 1.08rem; }
+  .book-editorial .drop-cap { font-size: 3.55rem; }
+}
+
+@media print {
+  .book-editorial .chapter-pullquote { display: none; }
+}
+
 /* --- manual reader extras --- */
 .crumb { color: var(--muted); font-size: .8rem; letter-spacing: .08em; margin: 0 0 .3rem; }
 .toc-ch { font-family: var(--serif); font-weight: 500; font-size: 1rem; margin: 1.1rem 0 .2rem; color: var(--ink); }
