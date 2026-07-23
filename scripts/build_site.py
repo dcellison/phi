@@ -594,7 +594,7 @@ book_readme = re.sub(
 (BOOK_OUT / "index.html").write_text(book_page(book_readme, "contents"))
 print(f"wrote build/site/book/: {len(book_chapters)} chapters + contents")
 
-# ---- the texts: translated and transmuted literature rendered to build/site/texts/ ----
+# ---- the texts: translated, transmuted, and original literature rendered to build/site/texts/ ----
 import tengwar
 
 PHI_WORDS = {e["word"] for e in entries}
@@ -661,7 +661,7 @@ def texts_page(body, title, depth=1, footer_nav=None):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Phi's literature in close translation and transmutation, from the Metta Sutta to News from Nowhere and the Ring Verse refusal.">
+<meta name="description" content="Phi literature in close translation, transmutation, and original composition, from the Metta Sutta to News from Nowhere.">
 <title>Phi texts &mdash; {title}</title>
 <script src="{root_prefix}theme.js"></script>
 <script src="{root_prefix}reader.js" defer></script>
@@ -674,7 +674,7 @@ def texts_page(body, title, depth=1, footer_nav=None):
 {footer_nav}
 </main>
 <footer>
-  <p>Each rendering identifies itself as a translation or a transmutation. The source files live in <a href="https://github.com/dcellison/phi/tree/main/texts">the repository</a>, and the site renders them at build time.
+  <p>Each work identifies itself as a translation, transmutation, or original Phi composition. Source witnesses, where a work has one, live with the texts in <a href="https://github.com/dcellison/phi/tree/main/texts">the repository</a>. The site renders them at build time.
      The <a href="{root_prefix}colophon.html">colophon</a> records how Phi is made.</p>
 </footer>
 </body>
@@ -738,9 +738,10 @@ news_readme = news_readme.replace(
 )
 
 toc = ["<h1>The texts</h1>",
-       "<p>The Metta Sutta contains all ten verses of its source. The North Wind, Schleicher, and Article 1 pages put a close translation before a transmutation. Babel, the Heart Sutra, and five Tao chapters apply the same order to longer pieces. On Children pairs one teaching within The Prophet's three-part page. Each paired text then shows where the methods part.</p>",
+       "<p>The Metta Sutta contains all ten verses of its source. The North Wind, Schleicher, and Article 1 pages put a close translation before a transmutation. Babel, the Heart Sutra, and five Tao chapters apply the same order to longer pieces. On Children pairs one teaching within The Prophet's three-part page. The shelf's first original work begins in a hot room, where care meets a refusal and the argument has to remain with both.</p>",
        "<p>A close translation answers to the source's claims and distinctions in natural Phi. Its purpose here is practical: to show that Phi can handle any source on its own terms and produce a close analogue, even when Phi would tell it differently. Every rendering says what it owes the source.</p>",
-       "<p>Transmutation is Phi's preferred method because it gives the source room to change as Phi understands it. The five pillars and Phi's own habits of thought shape the result, while the source stays in view. This is how transmutation preserves the heart of Phi. Seven works put both methods side by side so a reader can see what changed and why.</p>"]
+       "<p>Transmutation is Phi's preferred method for inherited material because it gives the source room to change as Phi understands it. The five pillars and Phi's own habits of thought shape the result, while the source stays in view. Seven works put translation and transmutation side by side so a reader can see what changed and why.</p>",
+       "<p>Original work puts Phi first. English follows closely, and a proposition record tracks challenges, revisions, and questions left open. The block needs no fourth source line.</p>"]
 for work in TEXTS:
     stem = Path(work["path"]).stem
     toc.append(f'<h2><a href="{stem}.html">{work["title"]}</a></h2><p class="text-method">{work["method"]}</p><p>{work["summary"]}</p>')

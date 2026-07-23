@@ -7,7 +7,7 @@ When documents disagree, this is the authority order. Anything lower in the list
 1. **`vocabulary/`** — the lexicon JSON files are the single source of truth for every lexical word: its form, gloss, IPA, syllables, and meaning. A lexical word not in the lexicon does not exist. Productive name-forms licensed by `ne` are proper designations rather than lexical words and gain no gloss or dictionary meaning. A gloss in a document that contradicts the lexicon is wrong.
 2. **Grammar references** — `documents/grammar/particle_reference.md`, `complementizer_reference.md`, `numeral_reference.md`. These define the grammatical system: particle inventory and slot order, complementizer pairs, numeral structure.
 3. **`manual/`** — the teaching text. Must agree with (1)–(2).
-4. **`texts/`** — translations and transmutations. Must agree with (1)–(3).
+4. **`texts/`** — translations, transmutations, and original Phi compositions. Must agree with (1)–(3).
 5. **`pamphlets/`** — focused deep-dives. Must agree with (1)–(3).
 6. **Design rationale:** `documents/reference/language_guide.md`, `documents/design/modifier_first_philosophy.md`, and `documents/design/psychological_violence_of_measurement.md`. Authoritative for *why*, not for word forms or grammar details.
 7. **`archive/`** — historical record only. Never a reference for the current language. (The six narrative grammar chapters were dissolved into the manual, July 2026.)

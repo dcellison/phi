@@ -16,7 +16,7 @@ Phi is maintained as repository source, generated views, and machine checks. A r
 | `documents/validation/` | Committed baselines and migration evidence. |
 | `manual/` | Complete teaching reference and generated Part VII views. |
 | `primer/` | Graded reader and exercises. |
-| `texts/` | Translation and transmutation shelf, catalogued for the site. |
+| `texts/` | Translation, transmutation, and original Phi shelf, catalogued for the site. |
 | `pamphlets/` | Focused teaching companions, also catalogued. |
 | `book/` | General-reader book treatment and drafted chapters. |
 | `tengwar/` | Current Tengwar specification, renderer outlines, and source font. |
@@ -39,7 +39,7 @@ Several surfaces cover neighbouring ground, but they do different work. Preserve
 | `primer/` | A graded first course built around use and exercises. |
 | `manual/` | The complete teaching and reference authority beneath canon and the lexicon. Generated Part VII views belong here. |
 | `pamphlets/` | Focused companions for one practice or feature. They are neither a miscellaneous document drawer nor the literary shelf. |
-| `texts/` | Phi literature, with every work labelled as translation or transmutation and every source witness preserved. |
+| `texts/` | Phi literature, with every work labelled as translation, transmutation, or original and every applicable source witness preserved. |
 | `book/` | Narrative nonfiction about Phi for a general reader, complete and published from cold open to close with a consolidated bibliography; its warmer chapter voice remains the register for revision, and the planning treatment is archived. |
 
 ## Worktree discipline

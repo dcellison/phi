@@ -16,11 +16,11 @@ The current shelf contains nearly fourteen hundred of these labeled source lines
 
 That does not prove that every source claim has been translated. An omitted sentence leaves no bad citation for a machine to catch. Nor can string matching decide whether a Phi line has narrowed a metaphor, strengthened an obligation, or turned a punishment into a garden. The program guards the quotation. The review ledger and the reader have to judge what was done beside it.
 
-## Thirteen works and one reader
+## Fourteen works and one reader
 
-The shelf as it stands here contains thirteen works. Nine include a close translation, eleven include a transmutation, and seven appear in both forms. The arithmetic overlaps on purpose. A paired work belongs to both counts, which is less mysterious than many things that happen in libraries.
+The shelf as it stands here contains fourteen works. Nine include a close translation, eleven include a transmutation, and one is an original Phi composition. Seven source works appear in both forms. The arithmetic overlaps on purpose. A paired work belongs to two counts; the original has had the decency to occupy only one.
 
-The Metta Sutta opens the shelf. Fables, sacred texts, political declarations, and children's stories follow. A translation of *A Solarpunk Manifesto* sits near the front, while *News from Nowhere* has three of its planned thirty-two chapters. Literature is an accommodating word here: a declaration and a manifesto have been admitted without being made to pretend that they are novels.
+The Metta Sutta opens the shelf. Fables, sacred texts, political declarations, and children's stories follow. A translation of *A Solarpunk Manifesto* sits near the front, followed by an original dialogue about care and coercion. *News from Nowhere* has three of its planned thirty-two chapters. Literature is an accommodating word here: a declaration and a manifesto have been admitted without being made to pretend that they are novels.
 
 There is no Phi reading group behind these numbers. The language has one known learner and designer, and the same person has final responsibility for every rendering. Chapter 3 ended with the observation that people adopt a community rather than a grammar. Phi has not disproved it. Instead, the project has made the unusual choice available to a solitary language maker: build the shelf first, then let a possible reader see whether there is anything worth gathering around.
 
@@ -38,9 +38,11 @@ These pieces are useful because they are small enough to finish and familiar eno
 
 That is why the shelf moves outward. *The Velveteen Rabbit* puts affection beside wear and disability. Fever leads through contamination and burning before the story permits return. Morris moves through rooms and meals, then into clothing and craft. River knowledge meets political argument and the peculiar social customs of a future that no longer recognizes payment. The longer texts do not merely use more vocabulary. They keep a distinction alive long enough for an easy approximation to contradict itself twenty pages later.
 
-## Two promises
+## Three promises
 
-Every Phi text declares its method before the first rendering. A translation promises to remain answerable to the source's claims and distinctions as closely as Phi permits. A transmutation permits the source to change under Phi's five pillars and habits of thought. Phi prefers transmutation as its own literary practice. Close translation remains beside it because preference is easier to trust when the alternative has been attempted honestly.
+Every Phi text declares its method before the first rendering. A translation promises to remain answerable to the source's claims and distinctions as closely as Phi permits. A transmutation permits the source to change under Phi's five pillars and habits of thought. Phi prefers transmutation when it works from inherited material. Close translation remains beside it because preference is easier to trust when the alternative has been attempted honestly.
+
+An original makes a different promise. Phi comes first. English comes afterward and stays answerable to it. There is no inherited claim to preserve or recast, but the work still has to answer for what it says. A proposition record and vocabulary-pressure notes make that answer visible.
 
 The paired Babel text makes the difference visible in one act. The close translation follows the King James account of dispersal:
 
@@ -66,15 +68,19 @@ The actor is now `muila`, earth. People move `phea lo thinoe`, like seeds. The s
 
 Calling both passages translations would hide the largest decision on the page. Calling the first one Phi's preferred telling would hide the claim that prompted the second. The paired form keeps two promises apart: translation shows what Phi can carry while staying close, and transmutation shows what Phi chooses when it accepts responsibility for changing the story.
 
+The third method has no source to depart from. In *When Care Becomes Coercion*, two friends argue in Phi about danger, refusal, evidence, and authority. The English beneath each line follows the Phi; it cannot quietly improve the reasoning or lend the speakers a distinction they did not make. The proposition record then shows where the argument revised itself and where it stopped without a complete conclusion.
+
 ## The space between the lines
 
-Each aligned block gives the reader four things: the Phi sentence, its exact lexicon gloss, a literal English back-translation, and the source wording. The gloss answers a narrow question about the words. The back-translation answers a harder one about the sentence that those words actually made. The source line then shows what was gained, lost, or deliberately moved.
+A translated or transmuted block gives the reader four things: the Phi sentence, its exact lexicon gloss, a literal English back-translation, and the source wording. An original block gives the first three because Phi is the source. The gloss answers a narrow question about the words. The back-translation answers a harder one about the sentence those words actually made. In inherited work, the source line then shows what was gained, lost, or deliberately moved.
 
 Back-translation needs its own honesty because fluent English is very good at repairing a sentence without permission. In "The North Wind and the Sun," `tiripe` means *quiver*, not *whipped*, and a strong pull is not the same act as *tore*. Those stronger verbs belong to Aesop's line. Returning them to the English beside the Phi would make the translation look closer than it is.
 
 A close translation then carries a limits table. Article 1's table records that event-noun `remo`, thinking, is wider than the source's faculty of reason. It puts the greater force of `na`, necessity, beside English *should* and explains why `lomea`, sibling, cannot preserve the gender in *brotherhood*. The source survives, but surviving is not the same as arriving unchanged.
 
 A transmutation uses a gap log for a different purpose. The Babel log says that the LORD becomes earth, punishment becomes sowing, and Babel becomes `lo haluma`, Many Languages. It names the added garden coda as Phi's own. The Ring Verse log records that ruler and lord remain only in the separately presented source while the Phi lines name coercion and physical tying. A gap log is not an apology tucked beneath the work. It is where the work signs its changes.
+
+An original has no source gap to inventory. Its proposition record follows the claims instead: which evidence both speakers accept, which inference is challenged, what one speaker retracts, and what remains unanswered. A second record notes where the vocabulary had to work. In the care dialogue, the English umbrella *control* separates into authority, coercion, consent, and refusal; technical `ketora` never enters the room.
 
 Each pillar changes a text only where the source and Phi actually meet. Article 1 offers no material or organic scene for Art Nouveau aesthetics to remake. The Metta Sutta does not acquire a solar panel merely to prove that the solarpunk pillar was awake. Otherwise the five pillars would become five customs officers, each demanding that a poem surrender an image before entering.
 
@@ -84,7 +90,7 @@ The validator checks more than quotations. It knows the whole lexicon. In a fenc
 
 Its competence has a clean edge. The validator can prove that `thiwera` exists and that its gloss is *scatter*. Whether scattering people like seeds is an honest transmutation or an evasive one lies beyond it. The code notices some prepositions with nowhere legal to stand, though it calls that check a net rather than a proof. A quotation missing one letter in a configured shelf citation fails; a complete set of perfectly cited bad judgments could pass.
 
-Source coverage therefore belongs to review as well as code. The corpus ledger asks whether every proposition and relation survives in a translation, whether every departure in a transmutation is deliberate, whether optional vocabulary earns the burden it places on a reader, and whether the English says only what the Phi says. It also records a decision to keep a transparent composition. A direct root is not automatically better merely because the lexicon has one.
+Source coverage therefore belongs to review as well as code. The corpus ledger asks whether every proposition and relation survives in a translation, whether every departure in a transmutation is deliberate, whether optional vocabulary earns the burden it places on a reader, and whether the English says only what the Phi says. For an original, it asks whether the proposition record matches the dialogue and whether an unresolved question was allowed to remain unresolved. It also records a decision to keep a transparent composition. A direct root is not automatically better merely because the lexicon has one.
 
 The division of labor matters. Machines are excellent at refusing the same mistake for the thousandth time. People are better placed to decide whether the rule refusing it was sensible in the first place. The arrangement works only while neither party is credited with the other's judgment.
 
@@ -146,4 +152,4 @@ United Nations General Assembly. 1948. Universal Declaration of Human Rights. A/
 
 ### Phi sources
 
-The shelf catalogue and its two-method doctrine are in `texts/README.md` and `texts/catalogue.json`. The paired Babel renderings are in `texts/babel_text.md`; Article 1 is in `texts/human_rights_article_one.md`; the review method and corpus decisions are in `documents/evaluation/active_text_corpus_review.md`. Source witnesses live in `texts/sources/`, while the three current *News from Nowhere* chapters share `texts/news_from_nowhere/source.txt`. Source verification is configured in `scripts/validate_examples.py`; catalogue membership is checked in `scripts/content_catalogues.py`; chapter discovery belongs to `scripts/build_site.py`.
+The shelf catalogue and its three-method doctrine are in `texts/README.md` and `texts/catalogue.json`. The paired Babel renderings are in `texts/babel_text.md`; Article 1 is in `texts/human_rights_article_one.md`; the original care dialogue is in `texts/care_and_coercion.md`; the review method and corpus decisions are in `documents/evaluation/active_text_corpus_review.md`. Source witnesses live in `texts/sources/`, while the three current *News from Nowhere* chapters share `texts/news_from_nowhere/source.txt`. Source verification is configured in `scripts/validate_examples.py`; catalogue membership is checked in `scripts/content_catalogues.py`; chapter discovery belongs to `scripts/build_site.py`.

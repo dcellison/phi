@@ -245,7 +245,7 @@ Install the pinned validation dependency with `python3 -m pip install --requirem
 - Validator evidence and ledgers → `/documents/validation/`
 - Python scripts → `/scripts/`
 - Manual content → `/manual/`
-- Literary translations and transmutations → `/texts/`
+- Literary translations, transmutations, and original Phi compositions → `/texts/`
 - Focused deep-dives → `/pamphlets/`
 - Project operations and release records → `/project/`
 - Historical material → `/archive/` (never a reference for current canon)

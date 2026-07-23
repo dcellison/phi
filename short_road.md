@@ -142,11 +142,13 @@ Two conversion rules widen the vocabulary without changing a word's shape. A ver
 
 A content-word name retains its lexical association. A new onym can identify a person, place, work, or other referent without acquiring a shared dictionary gloss. In either case, Phi says aloud that the next form is a name.
 
-## Two ways through a text
+## Three ways through a text
 
-The shelf distinguishes translation from transmutation. A close translation remains answerable to the source's claims and distinctions while using Phi grammar. A transmutation permits the work to change under Phi's five pillars. Phi prefers transmutation, but paired renderings show both the language's reach and the consequences of its values.
+The shelf distinguishes translation from transmutation when another work supplies the source. A close translation remains answerable to the source's claims and distinctions while using Phi grammar. A transmutation permits the work to change under Phi's five pillars. Phi prefers transmutation for inherited material, but paired renderings show both the language's reach and the consequences of its values.
 
 *The North Wind and the Sun* gives the clearest comparison: its translation preserves the contest, while its transmutation asks what remains after coercion stops being the lesson. Article 1, Babel, and the Heart Sutra also stand in pairs. The Metta Sutta and *A Solarpunk Manifesto* are close translations; the Ring Verse refusal and the opening chapters of *News from Nowhere* use transmutation alone. The shelf catalogue holds the rest.
+
+***theama weno kawhera kelu*** (*When Care Becomes Coercion*) takes the other direction. Phi supplies the dialogue, and English reads it afterward. Two friends reach a practical boundary without solving the whole argument. The open window contributes less.
 
 ## Where the choices come from
 

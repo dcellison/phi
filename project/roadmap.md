@@ -53,12 +53,12 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | Source-material interoperability | **DONE** | Unassimilated source material remains outside Phi passages; active teaching and tooling no longer parse guest or exact frames. |
 | Productive proper names | **DONE** | `ne` licenses validated Phi-form onyms of two, three, or four syllables. |
 | Three-syllable lexical ceiling | **DONE** | All 112 inherited four-syllable entries have replacements, and the validator permits no lexical exception. |
-| Philosophical capability | **PARTIAL** | Matrix, repair conventions, and fifteen test dialogues exist; several operations remain gaps. |
+| Philosophical capability | **PARTIAL** | Matrix, repair conventions, fifteen test dialogues, and one sustained literary dialogue exist; several operations remain gaps. |
 | Solo evaluation | **READY** | Structural checks are complete; choice, paraphrase, transformation, and repair trials remain available after the breaking migration. |
 | Speech and listening evidence | **READY** | Audit tooling and protocols exist; recordings and perception results do not. |
 | Evidence-led semantic growth | **PARTIAL** | All eight active profiles have completed first vocabulary passes, every recovered content-vocabulary question has an explicit decision, and all 1,275 lexicon entries follow the target prose contract. The literary shelf and drafted Phi book are current; the remaining corpus retrofit covers teaching and project documents. |
 | Practice and domain profiles | **DONE** | Eight active profiles are established vocabulary modules with speaker chapters, and further possibilities remain recorded separately. |
-| Original Phi corpus | **PARTIAL** | Fifteen philosophical dialogues exist, and the literary shelf has completed its after-state review. Scenarios, dialogues, and teaching texts remain; sustained essays and spontaneous transcripts do not yet exist. |
+| Original Phi corpus | **PARTIAL** | Fifteen regression dialogues and one sustained original literary dialogue exist. The planned essay set and spontaneous transcripts do not yet exist. |
 | Learner and community evidence | **EVIDENCE** | Materials exist, but there is no recorded outside learner or recurring speaker evidence. |
 | Public governance and print publication | **DEFERRED** | Reconsider after recurring use and stable evidence-led development. |
 
@@ -111,8 +111,8 @@ An item is not **DONE** merely because a protocol, prompt, or script exists. A l
 | PHL-01A | **DONE** | Establish Philosophical Reasoning as Phi's first optional vocabulary module. | Profile, 18 complete module entries, four base words established with the pass, generated module index, speaker-facing Part VII chapter, regression corpus, and six authored transformations | Revise the vocabulary through actual writing and discussion when a compound or coined term feels inadequate. |
 | PHL-02 | **DONE** | Fifteen original regression dialogues covering ecological tradeoff, repair/replace, evidential revision, external-language critique, definition under pressure, two measurement/systems challenges, bodily-care decision-making, two access cases, commons allocation, shared-infrastructure accountability, two ecological-systems challenges, and work-sharing during a craft repair. | `documents/evaluation/philosophical_test_corpus.md` | Existing dialogues remain validated and revisable. |
 | PHL-03 | **PARTIAL** | Repair conventions for clarification, error, withdrawal, disagreement, turn handoff, waiting, consent, refusal, and source requests. | `documents/grammar/philosophical_conversation.md` | Move conventions to demonstrated only after unscripted use succeeds repeatedly. |
-| PHL-04 | **PARTIAL** | Demonstrate definition, truth, evidence, conditionals, consequence, example, summary, agreement, agency, and revision in connected text. | Demonstrated rows in the capability matrix | Add at least one independent original passage per operation, not merely a reference example. |
-| PHL-05 | **PARTIAL** | Express cause versus reason, retraction, competing goods, responsibility, uncertainty, and suspended judgment. | Base vocabulary supplies `remotha` reason; Philosophical Reasoning adds `whamoi`, `norethi`, `soneho`, and `manawi`; Commons adds `naseru` obligation and `lothoni` accountability; the corpus provides material for use | Write original passages using the vocabulary and revise any term or composition that feels unclear or unnatural. |
+| PHL-04 | **PARTIAL** | Demonstrate definition, truth, evidence, conditionals, consequence, example, summary, agreement, agency, and revision in connected text. | Demonstrated rows in the capability matrix; `texts/care_and_coercion.md` independently uses evidence, conditionals, consequence, agreement, and revision | Add at least one independent original passage for the remaining operations, not merely a reference example. |
+| PHL-05 | **PARTIAL** | Express cause versus reason, retraction, competing goods, responsibility, uncertainty, and suspended judgment. | Base and module vocabulary supply the distinctions; `texts/care_and_coercion.md` uses reason, retraction, a safety-and-freedom tradeoff, doubt, and an unresolved conclusion in connected Phi | Use responsibility and further forms of uncertainty in original work, and revise any term or composition that feels unclear or unnatural. |
 | PHL-06 | **PARTIAL** | Express logical validity, contradiction, consistency, counterexample, systems, feedback, and emergence. | Philosophical Reasoning supplies the logical vocabulary; Systems and Shared Infrastructure supplies system, state, dependency, control, feedback, feedforward, emergence, correlation, and hypothesis terminology | Use the terms in connected philosophical and systems writing, then revise any relation that proves unclear or unnatural. |
 | PHL-07 | **READY** | Distinguish understanding, agreement, endorsement, and willingness to continue. | Repair conventions | Complete unscripted dialogues whose successful ending includes disagreement or suspension. |
 | PHL-08 | **EVIDENCE** | Determine whether other speakers recover intended propositions and distinctions. | No outside result yet | Use blind paraphrase and dialogue tasks with consenting readers; report losses without blaming learners. |
@@ -203,10 +203,10 @@ This checklist protects implementation quality. It does not require external app
 
 | ID | Status | Deliverable | Evidence | Completion or next criterion |
 |---|---|---|---|---|
-| COR-01 | **DONE** | A validated shelf of nine close translations, eleven transmuted works, and extensive teaching examples; seven works appear in both forms. | `texts/`; manual; primer | Keep every rendering labeled by method and continue to distinguish deliberate transmutation choices from Phi's general expressive capacity. |
+| COR-01 | **DONE** | A validated shelf of nine close translations, eleven transmuted works, one original Phi work, and extensive teaching examples; seven source works pair the two methods. | `texts/`; manual; primer | Keep every work labeled by method and continue to distinguish source fidelity, deliberate transmutation, and original Phi composition. |
 | COR-02 | **DONE** | Fifteen original philosophical regression dialogues. | `documents/evaluation/philosophical_test_corpus.md` | Preserve as baseline tests rather than polished doctrine. |
 | COR-03 | **READY** | Sustained original philosophical essays in Phi. | Depends on PHL-05/06 scenario selection | Write at least three essays with claims, objections, revision, and unresolved tension; maintain proposition and gap logs. |
-| COR-04 | **READY** | Dialogue set whose successful outcome is disagreement, suspension, or revised framing rather than consensus. | Repair conventions | Add validated dialogues and re-run repair tests. |
+| COR-04 | **PARTIAL** | Dialogue set whose successful outcome is disagreement, suspension, or revised framing rather than consensus. | `texts/care_and_coercion.md` ends with a bounded practical agreement and an unresolved general question | Add dialogues on unrelated questions and keep unscripted evidence separate. |
 | COR-05 | **EVIDENCE** | Transcripts or reconstructions of spontaneous Phi conversation. | No spontaneous corpus yet | With consent, preserve normalized text and an error/repair log; do not publish raw voice by default. |
 | COR-06 | **PARTIAL** | Corpus-attestation data for phonetic and lexical decisions. | Phonetic audit counts documentation examples | Separate authored Phi usage from mentions in explanation as the corpus grows. |
 | PED-01 | **DONE** | Complete primer, reference manual, text shelf, pamphlet shelf, quick reference, and generated explorer. | `primer/`; `manual/`; `texts/`; `pamphlets/`; `build/site/` output | Keep generated outputs synchronized. |
@@ -251,7 +251,7 @@ This phase is adjacent to the linguistic improvement plan and follows the order 
 
 ## Current execution sequence
 
-The three-syllable lexical migration, literary-shelf review, recovered vocabulary decisions, and all base and module prose migrations are complete. Fifteen contextual literary passes complete the active shelf, the drafted Phi book is current through chapter 7, all seven manual parts, the primer, and all nine pamphlets have received teaching-corpus passes, and the current-documents sweep is complete. SEM-09 and SEM-09D are done, and PED-08 is complete: the Phi book is published whole, from the cold open through the close and its consolidated bibliography. A transparent composition stays when it remains better Phi.
+The three-syllable lexical migration, literary-shelf review, recovered vocabulary decisions, and all base and module prose migrations are complete. Fifteen contextual literary passes complete the inherited shelf; all seven manual parts, the primer, and all nine pamphlets have received teaching-corpus passes; the current-documents sweep is complete; and the Phi book is published whole. Work package C is complete at its stated exit criterion: `texts/care_and_coercion.md` is the shelf's first sustained original composition. The planned essay set and unscripted conversation evidence remain open. No further work package is commissioned.
 
 ### Completed work package 0: Three-syllable lexical migration
 
@@ -290,7 +290,7 @@ All 112 replacements preserve the vocabulary schema and active uses under forms 
 
 **Exit criterion:** met. The planning treatment is archived at `archive/book_treatment.md`, and a chapter reopens only for revision as the whole is read together.
 
-### Work package C: Original Philosophical Reasoning use
+### Completed work package C: Original Philosophical Reasoning use
 
 **Roadmap items:** PHL-04 through PHL-07, COR-03, COR-04.
 
@@ -299,7 +299,7 @@ All 112 replacements preserve the vocabulary schema and active uses under forms 
 3. Include an objection, a response, revision or clarified scope, and either an unresolved tension or a reasoned conclusion.
 4. Revise any word, definition, compound, or example that feels awkward in actual use.
 
-**Exit criterion:** at least one original connected work uses the module naturally and records any vocabulary changes it prompted.
+**Exit criterion:** met by `texts/care_and_coercion.md`. The dialogue uses the Philosophical Reasoning, Commons, Medical, and Household learning paths where their distinctions are useful, records its proposition structure and vocabulary pressure, and prompts no lexical change. COR-03 and the wider COR-04 dialogue set remain active roadmap items rather than conditions on this first connected work.
 
 ### Work package D: Optional reading and repair practice
 
