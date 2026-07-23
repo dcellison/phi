@@ -7,7 +7,9 @@
   const REGISTERED_COMPOUNDS = "registered-compounds";
   const WORD_FILTERS = ["f-pos", "f-domain", "f-module", "f-pillar"];
   const HONORIFIC_GLOSSES = new Set(["HON.RESPECT", "HON.INTIM", "HON.ROLE"]);
-  let lexicon = [], compounds = [], words = new Set(), glosses = new Map(), shown = 0, current = [];
+  let lexicon = [], compounds = [], words = new Set(), glosses = new Map();
+  let currentResults = [], currentPage = 1, emptyStatus = "";
+  let resultCounts = { words: 0, compounds: 0, compoundOnly: false };
 
   const PILLAR_NAMES = {
     "solarpunk-values": "solarpunk",
@@ -75,8 +77,6 @@
   fill($("f-domain"), opts.domain);
   fill($("f-module"), opts.module, (v) => MODULE_NAMES[v] || v);
   fill($("f-pillar"), opts.pillar, (v) => PILLAR_NAMES[v] || v);
-  const requestedModule = new URLSearchParams(window.location.search).get("module");
-  if (requestedModule === BASE_VOCABULARY || opts.module.has(requestedModule)) $("f-module").value = requestedModule;
 
   const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
@@ -155,13 +155,13 @@
         : esc(t);
     }).join(" ");
 
-  function search() {
+  function search({ page = 1, historyMode = "replace", moveFocus = false } = {}) {
     const q = $("q").value.trim().normalize("NFC").toLowerCase();
     const field = $("f-field").value;
     const compoundOnly = field === REGISTERED_COMPOUNDS;
     const fp = $("f-pos").value, fd = $("f-domain").value;
     const fm = $("f-module").value, fl = $("f-pillar").value;
-    current = lexicon
+    const wordMatches = lexicon
       .map((e) => ({ e, s: q ? score(e, q, field) : (compoundOnly ? -1 : 9) }))
       .filter(({ e, s }) =>
         s >= 0 &&
@@ -181,31 +181,145 @@
           .sort((a, b) => a.s - b.s || a.c.compound.localeCompare(b.c.compound))
           .map(({ c }) => c)
       : [];
-    const wordCount = `${current.length} ${current.length === 1 ? "word" : "words"}`;
-    if (compoundOnly) {
-      $("status").textContent = compMatches.length === 0
-        ? "nothing found: the compound registry may simply not have it yet"
-        : `${compMatches.length} registered ${compMatches.length === 1 ? "compound" : "compounds"}`;
-    } else {
-      $("status").textContent =
-        current.length === lexicon.length ? "" :
-        current.length === 0 && compMatches.length === 0 ? "nothing found: the lexicon may simply not have it yet" :
-        compMatches.length === 0 ? wordCount :
-        `${wordCount}, ${compMatches.length} ${compMatches.length === 1 ? "compound" : "compounds"}`;
-    }
-    $("results").innerHTML = "";
-    shown = 0;
-    for (const c of compMatches) $("results").appendChild(compRow(c));
-    renderMore();
+
+    currentResults = [
+      ...compMatches.map((value) => ({ kind: "compound", value })),
+      ...wordMatches.map((value) => ({ kind: "word", value })),
+    ];
+    resultCounts = {
+      words: wordMatches.length,
+      compounds: compMatches.length,
+      compoundOnly,
+    };
+    emptyStatus = compoundOnly
+      ? "nothing found: the compound registry may simply not have it yet"
+      : "nothing found: the lexicon may simply not have it yet";
+    currentPage = clampPage(page);
+    renderPage();
+    syncUrl(historyMode);
+    if (moveFocus) moveToResults();
   }
 
-  function renderMore() {
-    const slice = current.slice(shown, shown + PAGE);
-    shown += slice.length;
+  function totalPages() {
+    return Math.ceil(currentResults.length / PAGE);
+  }
+
+  function clampPage(page) {
+    const last = Math.max(1, totalPages());
+    const requested = Number.parseInt(page, 10);
+    return Number.isFinite(requested) ? Math.min(Math.max(requested, 1), last) : 1;
+  }
+
+  function renderPage() {
+    const start = (currentPage - 1) * PAGE;
+    const slice = currentResults.slice(start, start + PAGE);
     const frag = document.createDocumentFragment();
-    for (const e of slice) frag.appendChild(row(e));
-    $("results").appendChild(frag);
-    $("more").hidden = shown >= current.length;
+    for (const result of slice)
+      frag.appendChild(result.kind === "compound" ? compRow(result.value) : row(result.value));
+    $("results").replaceChildren(frag);
+    renderStatus(start, slice.length);
+    renderPagination($("pages-top"));
+    renderPagination($("pages-bottom"));
+  }
+
+  function renderStatus(start, count) {
+    if (!currentResults.length) {
+      $("status").textContent = emptyStatus;
+      return;
+    }
+    const first = start + 1;
+    const last = start + count;
+    const firstLabel = first.toLocaleString("en-US");
+    const lastLabel = last.toLocaleString("en-US");
+    const range = first === last ? firstLabel : `${firstLabel}-${lastLabel}`;
+    const total = currentResults.length.toLocaleString("en-US");
+    if (resultCounts.compoundOnly) {
+      $("status").textContent =
+        `showing ${range} of ${total} registered ${resultCounts.compounds === 1 ? "compound" : "compounds"}`;
+      return;
+    }
+    if (!resultCounts.compounds) {
+      $("status").textContent =
+        `showing ${range} of ${total} ${resultCounts.words === 1 ? "word" : "words"}`;
+      return;
+    }
+    const wordsLabel = `${resultCounts.words.toLocaleString("en-US")} ${resultCounts.words === 1 ? "word" : "words"}`;
+    const compoundsLabel =
+      `${resultCounts.compounds.toLocaleString("en-US")} ${resultCounts.compounds === 1 ? "compound" : "compounds"}`;
+    $("status").textContent =
+      `showing ${range} of ${total} results: ${wordsLabel}, ${compoundsLabel}`;
+  }
+
+  function pageWindow(last) {
+    const compact = window.matchMedia("(max-width: 560px)").matches;
+    if (last <= (compact ? 4 : 7)) return Array.from({ length: last }, (_, i) => i + 1);
+    const pages = new Set([1, last, currentPage]);
+    const radius = compact ? 0 : 1;
+    for (let page = currentPage - radius; page <= currentPage + radius; page++)
+      if (page > 1 && page < last) pages.add(page);
+    const edge = compact ? 2 : 4;
+    if (currentPage <= edge)
+      for (let page = 2; page <= edge; page++) pages.add(page);
+    if (currentPage >= last - edge + 1)
+      for (let page = last - edge + 1; page < last; page++) pages.add(page);
+    return [...pages].sort((a, b) => a - b);
+  }
+
+  function pageButton(text, label, page, disabled = false) {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "page-button";
+    button.textContent = text;
+    button.setAttribute("aria-label", label);
+    button.title = label;
+    button.disabled = disabled;
+    if (!disabled) button.addEventListener("click", () => goToPage(page));
+    return button;
+  }
+
+  function renderPagination(nav) {
+    const last = totalPages();
+    nav.replaceChildren();
+    nav.hidden = last <= 1;
+    if (last <= 1) return;
+
+    nav.appendChild(pageButton("←", "previous page", currentPage - 1, currentPage === 1));
+    let previous = 0;
+    for (const page of pageWindow(last)) {
+      if (previous && page - previous > 1) {
+        const ellipsis = document.createElement("span");
+        ellipsis.className = "page-ellipsis";
+        ellipsis.textContent = "…";
+        ellipsis.setAttribute("aria-hidden", "true");
+        nav.appendChild(ellipsis);
+      }
+      if (page === currentPage) {
+        const current = document.createElement("span");
+        current.className = "page-current";
+        current.textContent = page;
+        current.setAttribute("aria-current", "page");
+        current.setAttribute("aria-label", `page ${page}, current page`);
+        nav.appendChild(current);
+      } else {
+        nav.appendChild(pageButton(`${page}`, `page ${page}`, page));
+      }
+      previous = page;
+    }
+    nav.appendChild(pageButton("→", "next page", currentPage + 1, currentPage === last));
+  }
+
+  function goToPage(page) {
+    const next = clampPage(page);
+    if (next === currentPage) return;
+    currentPage = next;
+    renderPage();
+    syncUrl("push");
+    moveToResults();
+  }
+
+  function moveToResults() {
+    $("results").focus({ preventScroll: true });
+    $("results").scrollIntoView({ behavior: "smooth", block: "start" });
   }
 
   function row(e) {
@@ -334,6 +448,48 @@
     }
   }
 
+  function selectHasValue(id, value) {
+    return [...$(id).options].some((option) => option.value === value);
+  }
+
+  function applyUrlState() {
+    const params = new URLSearchParams(window.location.search);
+    $("q").value = params.get("q") || "";
+    const selections = [
+      ["f-field", "field", "all"],
+      ["f-pos", "pos", ""],
+      ["f-domain", "domain", ""],
+      ["f-module", "module", ""],
+      ["f-pillar", "pillar", ""],
+    ];
+    for (const [id, key, fallback] of selections) {
+      const requested = params.get(key);
+      $(id).value = requested && selectHasValue(id, requested) ? requested : fallback;
+    }
+    updateWordFilters();
+    const page = Number.parseInt(params.get("page"), 10);
+    return Number.isFinite(page) && page > 0 ? page : 1;
+  }
+
+  function syncUrl(mode) {
+    if (!mode) return;
+    const params = new URLSearchParams();
+    const q = $("q").value.trim();
+    if (q) params.set("q", q);
+    if ($("f-field").value !== "all") params.set("field", $("f-field").value);
+    if ($("f-pos").value) params.set("pos", $("f-pos").value);
+    if ($("f-domain").value) params.set("domain", $("f-domain").value);
+    if ($("f-module").value) params.set("module", $("f-module").value);
+    if ($("f-pillar").value) params.set("pillar", $("f-pillar").value);
+    if (currentPage > 1) params.set("page", currentPage);
+
+    const query = params.toString();
+    const next = `${window.location.pathname}${query ? `?${query}` : ""}${window.location.hash}`;
+    const here = `${window.location.pathname}${window.location.search}${window.location.hash}`;
+    if (next === here) return;
+    window.history[mode === "push" ? "pushState" : "replaceState"]({}, "", next);
+  }
+
   // cross-reference clicks
   document.addEventListener("click", (ev) => {
     const w = ev.target?.dataset?.w;
@@ -341,8 +497,7 @@
       $("q").value = w;
       $("f-field").value = "word";
       updateWordFilters();
-      search();
-      window.scrollTo({ top: 0, behavior: "smooth" });
+      search({ historyMode: "push", moveFocus: true });
     }
   });
 
@@ -358,11 +513,22 @@
     updateWordFilters();
     search();
   });
-  $("more").addEventListener("click", renderMore);
+  window.addEventListener("popstate", () => {
+    clearTimeout(t);
+    const page = applyUrlState();
+    search({ page, historyMode: null });
+  });
+  const compactPages = window.matchMedia("(max-width: 560px)");
+  const refreshPagination = () => {
+    renderPagination($("pages-top"));
+    renderPagination($("pages-bottom"));
+  };
+  if (compactPages.addEventListener) compactPages.addEventListener("change", refreshPagination);
+  else compactPages.addListener(refreshPagination);
   document.addEventListener("keydown", (ev) => {
     if (ev.key === "/" && document.activeElement !== $("q")) { ev.preventDefault(); $("q").focus(); }
   });
 
-  updateWordFilters();
-  search();
+  const initialPage = applyUrlState();
+  search({ page: initialPage, historyMode: "replace" });
 })();

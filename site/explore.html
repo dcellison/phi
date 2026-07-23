@@ -42,17 +42,10 @@
     <button id="clear" type="button" title="clear search and filters">clear</button>
   </div>
 
-  <div class="vine" aria-hidden="true">
-    <svg viewBox="0 0 400 14" preserveAspectRatio="xMidYMid meet">
-      <path d="M2 7 C 60 7, 90 2, 130 7 S 190 13, 200 7 S 260 1, 270 7 S 340 12, 398 7"
-            fill="none" stroke="currentColor" stroke-width="1"/>
-      <circle cx="200" cy="7" r="2.2" fill="currentColor"/>
-    </svg>
-  </div>
-
-  <p id="status" class="status"></p>
-  <ol id="results" class="results"></ol>
-  <button id="more" class="more" type="button" hidden>show more</button>
+  <p id="status" class="status" aria-live="polite" aria-atomic="true"></p>
+  <nav id="pages-top" class="pagination pagination-top" aria-label="pages above the lexicon results" aria-describedby="status" hidden></nav>
+  <ol id="results" class="results" tabindex="-1"></ol>
+  <nav id="pages-bottom" class="pagination pagination-bottom" aria-label="pages below the lexicon results" aria-describedby="status" hidden></nav>
 </main>
 
 <footer>
