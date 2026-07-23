@@ -52,6 +52,7 @@
   --sage: #7a8b6f;
   --gold: #b0975b;
   --hairline: #ddd6c6;
+  --phi-inline-bg: #e1e6db;
   --serif: "Fraunces", georgia, serif;
   --sans: "Source Sans 3", system-ui, sans-serif;
   --ipa: "Gentium Plus", "Charis SIL", serif;
@@ -404,26 +405,36 @@ footer a { color: var(--sage); }
   font-family: var(--serif);
   font-size: 1.3rem;
   line-height: 1.42;
-  margin: .55rem -12.5rem 1.5rem 2rem;
+  margin: .55rem 0 1.2rem 1.6rem;
   padding: .8rem 0;
-  width: 10.5rem;
+  width: 14rem;
 }
 .book-editorial .chapter-pullquote p { margin: 0; }
 .book-editorial .chapnav { clear: both; }
-
-@media (max-width: 62rem) {
-  .book-editorial main { max-width: 38rem; }
-  .book-editorial .chapter-pullquote {
-    float: none;
-    margin: 1.8rem 0;
-    width: auto;
-  }
+.book-editorial code.phi-inline {
+  -webkit-box-decoration-break: clone;
+  background: var(--phi-inline-bg);
+  border-radius: 5px;
+  box-decoration-break: clone;
+  color: var(--ink);
+  font-family: ui-monospace, "SFMono-Regular", consolas, monospace;
+  font-size: 1em;
+  letter-spacing: 0;
+  line-height: 1;
+  padding: .12em .34em .16em;
+  white-space: normal;
 }
+.book-editorial p code:not(.phi-inline) { overflow-wrap: anywhere; }
 
 @media (max-width: 560px) {
   .book-editorial h1 { font-size: 2.15rem; }
   .book-editorial .chapter-lede { font-size: 1.08rem; }
   .book-editorial .drop-cap { font-size: 3.55rem; }
+  .book-editorial .chapter-pullquote {
+    float: none;
+    margin: 1.6rem 0 1rem;
+    width: auto;
+  }
 }
 
 @media print {
@@ -483,6 +494,7 @@ html[data-theme="dark"] {
   --sage: #a3b795;
   --gold: #c9b078;
   --hairline: #3a443a;
+  --phi-inline-bg: #3a443a;
 }
 html[data-theme="dark"] body { background: var(--paper); color: var(--ink); }
 

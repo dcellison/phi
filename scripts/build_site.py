@@ -587,6 +587,23 @@ def mark_drop_cap(paragraph):
     raise ValueError("editorial opening paragraph has no visible letter")
 
 
+def mark_inline_phi(body):
+    """Identify backticked Phi in prose without styling paths or labels."""
+    def mark_code(match):
+        code = html_module.unescape(match.group(1)).strip()
+        if not re.fullmatch(r"[a-z]+(?: [a-z]+)*[.]?", code):
+            return match.group(0)
+        words = code.removesuffix(".").split()
+        if not words or any(word not in ALL_WORDS for word in words):
+            return match.group(0)
+        return f'<code class="phi-inline">{match.group(1)}</code>'
+
+    def mark_paragraph(match):
+        return re.sub(r"<code>([^<]+)</code>", mark_code, match.group(0))
+
+    return re.sub(r"<p(?: [^>]*)?>.*?</p>", mark_paragraph, body, flags=re.S)
+
+
 def apply_book_editorial(body, source, repo_path, treatment):
     """Generate the chapter furniture named in site/editorial.json."""
     chapter_match = re.match(r"book/([0-9]+)_", repo_path)
@@ -612,6 +629,7 @@ def apply_book_editorial(body, source, repo_path, treatment):
         + f'<p class="chapter-lede">{marked_lede}</p>'
         + body[lede_match.end():]
     )
+    body = mark_inline_phi(body)
 
     paragraph_matches = list(re.finditer(r"<p>.*?</p>", body, flags=re.S))
     insertions = {}
@@ -630,10 +648,10 @@ def apply_book_editorial(body, source, repo_path, treatment):
                 f"editorial pull quote did not survive rendering in {repo_path}: {quote!r}"
             )
         aside = (
-            '\n<aside class="chapter-pullquote" aria-hidden="true">'
-            f"<p>{escaped_quote}</p></aside>"
+            '<aside class="chapter-pullquote" aria-hidden="true">'
+            f"<p>{escaped_quote}</p></aside>\n"
         )
-        insertions.setdefault(containing[0].end(), []).append(aside)
+        insertions.setdefault(containing[0].start(), []).append(aside)
     for position in sorted(insertions, reverse=True):
         body = body[:position] + "".join(insertions[position]) + body[position:]
     return body
