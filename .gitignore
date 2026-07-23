@@ -9,4 +9,3 @@ __pycache__/
 .idx/
 lexicon.db
 build/
-web/
