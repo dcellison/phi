@@ -148,13 +148,15 @@ After staging intended source and generated changes, rerun the generator and use
 python3 scripts/build_site.py
 ```
 
-It renders the invitation, colophon, short road, primer, manual, book, texts, and pamphlets; generates lexicon and compound data; and checks that the text and pamphlet catalogues match their directories.
+It renders the invitation, colophon, short road, primer, manual, book, texts, and pamphlets; generates lexicon, compound, and Tengwar placement data; and checks that the text and pamphlet catalogues match their directories.
 
 The top navigation on every rendered page reads kia, walk, primer, book, manual, pamphlets, texts, lexicon, in that maintainer-set order. The single word walk is the shelf label for the short road; the link target stays `short_road.html` and the page keeps its own title. The nav markup lives in eight templates inside `scripts/build_site.py` and in the static `site/explore.html`, so a shelf change touches all nine.
 
 The maintained shelf order and display metadata live in `texts/catalogue.json` and `pamphlets/catalogue.json`. `scripts/content_catalogues.py` is the shared library that rejects duplicate, missing, uncatalogued, or malformed entries. Update the catalogue in the same PR as any shelf addition, removal, rename, or reorder.
 
 The explorer has several settled interaction rules. `any module` includes base vocabulary and every module word; `base vocabulary` includes only entries whose `modules` array is absent or empty; a named module includes every word listing that module, including words shared with other modules. The `Phi word` search scope matches the entry form alone and never returns registered compounds. Compounds appear in `all fields` when no word facet is active, or under their own search scope. Pressing `/` focuses the search box. Preserve these distinctions when changing `site/app.js` or `site/explore.html`.
+
+The opened entry also shows the headword's Tengwar hand at the pamphlet's two-to-one scale, with the space above and below it balanced. The build writes `tengwar_words.json`, one shared glyph dictionary plus pre-rounded per-word placements from the renderer's own layout, and `app.js` assembles markup kept byte-identical to `render_line()`'s, so a rendering question is answered in `scripts/tengwar.py`, never patched in the browser composer.
 
 Do not leave a local server running by default. Daniel uses SSH to reach the Mac mini. A successful `build_site.py` run is enough for routine repository work. If a specific preview arrangement is requested, the disposable command is:
 
@@ -164,7 +166,7 @@ python3 -m http.server -d build/site
 
 The public site deploys from `build/site/` on each push to `main` through `.github/workflows/pages.yml` and is available at [dcellison.github.io/phi](https://dcellison.github.io/phi/).
 
-Routine content work does not require headless Chrome or a screenshot. Use browser automation only when a UI change genuinely needs visual or interaction verification.
+Routine content work does not require headless Chrome or a screenshot. Use browser automation only when a UI change genuinely needs visual or interaction verification. A stylesheet or layout change is exactly that case: measure the computed style and geometry with a headless probe page before shipping, and never trust selector arithmetic alone, because a generic rule such as `.entry-body p` outweighs a new single-class rule and once swallowed three merged spacing adjustments without a visible pixel changing.
 
 ## GitHub presence
 
