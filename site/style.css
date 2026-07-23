@@ -382,7 +382,7 @@ html[data-theme="dark"] body { background: var(--paper); color: var(--ink); }
 
 /* ---- lexicon explorer: the headword's Tengwar hand opens the entry, at
    the pamphlet's two-to-one scale over the surrounding text ---- */
-.entry-teng { font-size: 2em; margin: -0.35rem 0 0.8rem; }
+.entry-teng { font-size: 2em; margin: -0.7rem 0 0.8rem; }
 
 /* ---- reading memory (reader.js): continue-reading box, bookmarks ---- */
 .readerhome {
