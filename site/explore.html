@@ -20,11 +20,12 @@
     <input id="q" type="search" aria-label="search query" placeholder="search the lexicon&hellip;" autocomplete="off" autofocus>
   </div>
 
-  <div class="filters">
-    <label class="search-field" for="f-field"><span>search in</span>
+  <div class="search-controls">
+    <label class="search-field" for="f-field">
+      <span>search in</span>
       <select id="f-field">
         <option value="all">all fields</option>
-        <option value="word">Phi word</option>
+        <option value="word">phi word</option>
         <option value="registered-compounds">registered compounds</option>
         <option value="gloss">gloss</option>
         <option value="pronunciation">pronunciation</option>
@@ -35,11 +36,31 @@
         <option value="usage_and_examples">usage and examples</option>
       </select>
     </label>
-    <select id="f-pos"><option value="">any part of speech</option></select>
-    <select id="f-domain"><option value="">any semantic domain</option></select>
-    <select id="f-module"><option value="">any module</option><option value="base-vocabulary">base vocabulary</option></select>
-    <select id="f-pillar"><option value="">any pillar</option></select>
-    <button id="clear" type="button" title="clear search and filters">clear</button>
+
+    <div class="filters" role="group" aria-labelledby="filter-label">
+      <div class="filter-heading">
+        <span id="filter-label">filter by</span>
+        <button id="clear" type="button" title="clear search and filters">clear</button>
+      </div>
+      <div class="filter-grid">
+        <label class="filter-field" for="f-pos">
+          <span>part of speech</span>
+          <select id="f-pos"><option value="">any</option></select>
+        </label>
+        <label class="filter-field" for="f-domain">
+          <span>semantic domain</span>
+          <select id="f-domain"><option value="">any</option></select>
+        </label>
+        <label class="filter-field" for="f-module">
+          <span>module</span>
+          <select id="f-module"><option value="">any</option><option value="base-vocabulary">base vocabulary</option></select>
+        </label>
+        <label class="filter-field" for="f-pillar">
+          <span>pillar</span>
+          <select id="f-pillar"><option value="">any</option></select>
+        </label>
+      </div>
+    </div>
   </div>
 
   <p id="status" class="status" aria-live="polite" aria-atomic="true"></p>
