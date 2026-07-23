@@ -6,13 +6,15 @@ This prelude needs one short sitting. After that, everything in the primer is Ph
 
 Phi distinguishes five vowels. In careful reference pronunciation, each has the same target wherever it occurs:
 
-| Letter | Sound | As in |
+| Letter | IPA | First approach |
 |---|---|---|
-| a | ah | f**a**ther |
-| e | eh | b**e**d, held pure |
-| i | ee | mach**i**ne |
-| o | oh | n**o**te, held pure |
-| u | oo | fl**u**te |
+| a | /ä/ | jaw open, tongue low and central, lips unrounded |
+| e | /e̞/ | Spanish *mesa*, held pure |
+| i | /i/ | mach**i**ne |
+| o | /o̞/ | Spanish *poco*, held pure |
+| u | /u/ | fl**u**te |
+
+The **a** row uses a mouth position because English keywords move with the accent. Open the jaw comfortably and keep the tongue low near the centre, without rounding the lips.
 
 "Held pure" describes the careful form. English often glides a vowel, so *note* drifts towards "no-oot." A Phi vowel keeps one quality from start to finish. Accents may shift the exact quality, but the five contrasts stay distinct and adjacent vowels remain separate syllables.
 

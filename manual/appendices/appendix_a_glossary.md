@@ -24,7 +24,7 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **head / head-directionality**: The "head" is a phrase's core word (the noun in a noun phrase, the verb in a verb phrase); languages are classed by whether heads come before or after their dependents. Phi deliberately does not fit this binary; see *modifier-first*.
 
-**hiatus**: Two adjacent vowels pronounced as separate syllables, with no glide or merger between them. Phi's foundational sound rule: `au` is always /a.u/, never a diphthong.
+**hiatus**: Two adjacent vowels pronounced as separate syllables, with no glide or merger between them. Phi's foundational sound rule: `au` is always /ä.u/, never a diphthong.
 
 **minimal pair**: Two words differing by a single sound (`hea`/`shea`). Phi's coining policy forbids new minimal pairs within a word class, and requires natural opposites to be maximally dissimilar (`lawe`/`kuri`, left/right).
 

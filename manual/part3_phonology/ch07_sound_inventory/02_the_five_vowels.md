@@ -8,7 +8,7 @@ Each accent will land around these targets in its own way. Phi asks that the fiv
 
 | Vowel | IPA | Mouth position | Approximate model |
 |-------|-----|----------------|-------------------|
-| a | /ä/ | open, central, unrounded | Spanish *padre* or English "father" |
+| a | /ä/ | open, central, unrounded | Use the mouth position below; English keywords vary by accent |
 | e | /e̞/ | mid, front, unrounded | Spanish *mesa*, without the glide of English "hay" |
 | i | /i/ | high, front, unrounded | English "machine" |
 | o | /o̞/ | mid, back, rounded | Spanish *poco*, without the glide of English "go" |
@@ -16,7 +16,7 @@ Each accent will land around these targets in its own way. Phi asks that the fiv
 
 ## The open vowel: a
 
-For **a** /ä/, let the jaw open and keep the tongue low near the centre of the mouth. The lips stay unrounded. English "father" is a useful approach for many speakers, though the exact vowel varies by accent.
+For **a** /ä/, let the jaw open and keep the tongue low near the centre of the mouth. The lips stay unrounded, and the tongue remains central rather than drawing towards the back.
 
 - `shea` /ˈʃe̞.ä/ (peace)
 - `mia` /ˈmi.ä/ (I)

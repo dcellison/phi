@@ -42,15 +42,15 @@ Phi uses a pure five-vowel system. The vowels are "tense" and should not be diph
 *   **u** /u/ - as in fl**u**te or r**u**le.
 *   **e** /e̞/ - A true-mid vowel, like the 'e' in Spanish *m**e**sa* or the first 'e' in German *G**e**bet*. It is never the /eɪ/ sound of English *b**ay***.
 *   **o** /o̞/ - A true-mid vowel, like the 'o' in Spanish *p**o**co* or German *S**o**hn*. It is never the /oʊ/ sound of English *b**o**at*.
-*   **a** /ä/ - An open central vowel, like the 'a' in f**a**ther or Spanish *p**a**dre*. It is not the /æ/ of English *c**a***t.
+*   **a** /ä/ - An open central unrounded vowel. Open the jaw, keep the tongue low near the centre of the mouth, and leave the lips unrounded.
 
 ## 4. Vowel Hiatus
 
 As defined in `phonology_rules.md`, all vowel pairs are pronounced in **hiatus**. This means that each vowel is pronounced fully and distinctly, creating two separate syllables. There is no gliding between them.
 
-*   **`phaelo`** (feel) is pronounced /ɸa.e.lo/ (three syllables: pha-e-lo), NOT /ɸae.lo/.
-*   **`mioru`** (beautiful) is pronounced /mi.o.ru/ (three syllables: mi-o-ru), NOT /mio.ru/.
-*   **`lue`** (ABL) is pronounced /lu.e/ (two syllables: lu-e), NOT a glided /lwe/.
+*   **`phaelo`** (feel) is pronounced /ɸä.ˈe̞.lo̞/ (three syllables: pha-e-lo), not /ɸäe̞.lo̞/.
+*   **`mioru`** (beautiful) is pronounced /mi.ˈo̞.ru/ (three syllables: mi-o-ru), not /mio̞.ru/.
+*   **`lue`** (ABL) is pronounced /ˈlu.e̞/ (two syllables: lu-e), not a glided /lwe̞/.
 
 This rule is fundamental to the reference rhythm. Conversational speech may shorten the vowels and the transition between them, but both syllables remain present and no pair becomes a diphthong or single long vowel. The hiatus is Phi's signature rhythm: where English glides, Phi takes the second step.
 
