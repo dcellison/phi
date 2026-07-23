@@ -17,6 +17,7 @@ A registered compound can be used when its recorded analysis fits. Free composit
 | Compound | Literal | Meaning | Why compositional |
 |---|---|---|---|
 | `korua thero` | heart-fire | anger | The image places anger in inward heat without assigning moral character to the person who feels it. |
+| `lothea korua` | love-heart | the loving heart; a friendly mind | The pair names the disposition the Metta Sutta cultivates. When the sutta declares its reach, `mawha norui`, no boundary, composes freely before it. |
 | `thiku nila` | see (as) small | to despise, contempt | Contempt appears as a manner of seeing rather than a property of the person seen. |
 | `remo kire` | thought-shape | a fixed view, an opinion held rigidly | The image treats a rigid view as a shape formed and held in thought. |
 | `phelu pula` | holding-wish | envy, jealousy | The wish is directed towards what another holds. When that possession relation does not fit, direct `rinu` states wanting without adding it. |
@@ -90,7 +91,6 @@ A registered compound can be used when its recorded analysis fits. Free composit
 |---|---|---|---|
 | `wea thowia shua` | come toward birth | seeking birth; the not-yet-born | Birth lies ahead, but nothing in the phrase says that the approach was chosen. The Metta Sutta fixes this reading. |
 | `thowia phao` | birth parent | the parent in the birth relation | Birth names the relevant parent without assigning gender to parenthood as a whole. The Metta Sutta uses the phrase in its parent and child simile. |
-| `mawha norui lothea korua` | no-boundary love-heart | a boundless friendly mind | No boundary modifies the loving heart itself, the disposition cultivated throughout the Metta Sutta. |
 | `shero phiwapi` | night butterfly | moth in ordinary descriptive reference | The night-active image gives an ordinary reading for moth. Exact species identity remains with its source. |
 | `nuko pelori` | black bird | black bird; blackbird in ordinary context | Colour and bird identify the creature in ordinary context. Exact species identity remains with its source. |
 | `shiro pakewu` | tree stem | trunk | A trunk is a tree's principal stem. The compound also works for trees with several trunks and leaves exact botanical boundaries with their sources. |
