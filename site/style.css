@@ -381,8 +381,11 @@ html[data-theme="dark"] body { background: var(--paper); color: var(--ink); }
 .teng-dual { font-size: 2em; }
 
 /* ---- lexicon explorer: the headword's Tengwar hand opens the entry, at
-   the pamphlet's two-to-one scale over the surrounding text ---- */
-.entry-teng { font-size: 2em; margin: -1.05rem 0 0.8rem; }
+   the pamphlet's two-to-one scale over the surrounding text. The selector
+   carries .entry-body so the margin outweighs the generic .entry-body p
+   rule, and the block display keeps line-box leading out of the gap. ---- */
+.entry-body p.entry-teng { font-size: 2em; margin: -0.85rem 0 0.8rem; }
+.entry-teng .teng-svg { display: block; }
 
 /* ---- reading memory (reader.js): continue-reading box, bookmarks ---- */
 .readerhome {
