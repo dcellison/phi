@@ -39,6 +39,12 @@
   } catch {
     compounds = []; // the explorer stands without the registry file
   }
+  let teng = { glyphs: {}, words: {} };
+  try {
+    teng = await (await fetch("tengwar_words.json")).json();
+  } catch {
+    // the explorer stands without the tengwar hand
+  }
   words = new Set(lexicon.map((e) => e.word));
   glosses = new Map(lexicon.map((e) => [e.word, e.gloss]));
   const compoundsOf = new Map();
@@ -251,10 +257,24 @@
     return div;
   }
 
+  function tengSvg(t) {
+    // Mirrors scripts/tengwar.py render_line(): same markup, same numbers,
+    // assembled from the shared glyph dictionary.
+    const paths = t.p
+      .map(([k, gx, gy]) => `<path transform="translate(${gx} ${gy})" d="${teng.glyphs[k]}"/>`)
+      .join("");
+    return `<svg class="teng-svg" xmlns="http://www.w3.org/2000/svg" ` +
+      `viewBox="${t.vb[0]} ${t.vb[1]} ${t.vb[2]} ${t.vb[3]}" ` +
+      `style="height:${t.em}em" fill="currentColor">` +
+      `<g transform="scale(1,-1)">${paths}</g></svg>`;
+  }
+
   function body(e) {
     const div = document.createElement("div");
     div.className = "entry-body";
-    let h = e.concept ? `<p class="concept">${esc(e.concept)}</p>` : "";
+    const t = teng.words[e.word];
+    let h = t ? `<p class="entry-teng">${tengSvg(t)}</p>` : "";
+    h += e.concept ? `<p class="concept">${esc(e.concept)}</p>` : "";
     h += `<p>${phiify(e.description)}</p>`;
     if (e.pos === "verb")
       h += `<p class="rule-note">Also its own noun, the act or its result, by the event-noun rule.</p>`;

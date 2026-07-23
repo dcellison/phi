@@ -380,6 +380,10 @@ html[data-theme="dark"] body { background: var(--paper); color: var(--ink); }
 /* ---- tengwar mode pamphlet: both hands shown at once, no toggle ---- */
 .teng-dual { font-size: 2em; }
 
+/* ---- lexicon explorer: the headword's Tengwar hand opens the entry, at
+   the pamphlet's two-to-one scale over the surrounding text ---- */
+.entry-teng { font-size: 2em; margin: 0.15em 0 0.4em; }
+
 /* ---- reading memory (reader.js): continue-reading box, bookmarks ---- */
 .readerhome {
   margin: 1rem 0 1.5rem;
