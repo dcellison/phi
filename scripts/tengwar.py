@@ -109,9 +109,11 @@ def _tehta(placed, key, base_key, x, above):
     return _place(placed, key, pen, dx, dy)
 
 
-def render_line(line):
-    """One Phi line (periods only, lowercase, brackets tolerated) -> SVG
-    string, or None if any word fails to parse."""
+def layout_line(line):
+    """One Phi line (periods only, lowercase, brackets tolerated) -> the
+    placed glyph list and bounding box, or None if any word fails to parse.
+    `placed` is [(glyph_key, x, y), ...] in paint order; the box is
+    (xmin, ymin, xmax, ymax) in unflipped font units."""
     placed, boxes, x = [], [], 0.0
     for token in line.split():
         word = token.strip("[]")
@@ -137,6 +139,16 @@ def render_line(line):
     xmax = max(b[2] for b in boxes) + 40
     ymin = min(b[1] for b in boxes) - 40
     ymax = max(b[3] for b in boxes) + 40
+    return placed, (xmin, ymin, xmax, ymax)
+
+
+def render_line(line):
+    """One Phi line (periods only, lowercase, brackets tolerated) -> SVG
+    string, or None if any word fails to parse."""
+    laid = layout_line(line)
+    if laid is None:
+        return None
+    placed, (xmin, ymin, xmax, ymax) = laid
     parts = [f'<path transform="translate({gx:.0f} {gy:.0f})" d="{_G[k]["path"]}"/>'
              for k, gx, gy in placed]
     w, h = xmax - xmin, ymax - ymin
@@ -144,6 +156,14 @@ def render_line(line):
             f'viewBox="{xmin:.0f} {-ymax:.0f} {w:.0f} {h:.0f}" '
             f'style="height:{h / _DATA["upem"]:.2f}em" fill="currentColor">'
             f'<g transform="scale(1,-1)">{"".join(parts)}</g></svg>')
+
+
+UPEM = _DATA["upem"]
+
+
+def glyph_path(key):
+    """The committed outline path for one glyph key."""
+    return _G[key]["path"]
 
 
 def phi_line(line, words):

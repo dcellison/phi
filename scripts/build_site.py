@@ -599,6 +599,31 @@ import tengwar
 
 PHI_WORDS = {e["word"] for e in entries}
 
+# Every headword's Tengwar hand, as compact placement data over one shared
+# glyph dictionary rather than a full SVG per word: the explorer assembles
+# the same markup render_line() produces, and the coordinates ship already
+# rounded so the browser does string work only.
+teng_words = {}
+teng_glyph_keys = set()
+for headword in sorted(PHI_WORDS):
+    laid = tengwar.layout_line(headword)
+    if laid is None:
+        continue
+    placed, (txmin, tymin, txmax, tymax) = laid
+    tw, th = txmax - txmin, tymax - tymin
+    teng_words[headword] = {
+        "p": [[key, int(f"{gx:.0f}"), int(f"{gy:.0f}")] for key, gx, gy in placed],
+        "vb": [int(f"{txmin:.0f}"), int(f"{-tymax:.0f}"), int(f"{tw:.0f}"), int(f"{th:.0f}")],
+        "em": f"{th / tengwar.UPEM:.2f}",
+    }
+    teng_glyph_keys.update(key for key, _, _ in placed)
+teng_out = BUILD_SITE / "tengwar_words.json"
+teng_out.write_text(json.dumps(
+    {"glyphs": {key: tengwar.glyph_path(key) for key in sorted(teng_glyph_keys)},
+     "words": teng_words},
+    ensure_ascii=False, separators=(",", ":")))
+print(f"wrote {teng_out.relative_to(ROOT)}: {len(teng_words)} words, {teng_out.stat().st_size // 1024} KB")
+
 def tengwarize_dual(html):
     """For the tengwar_mode pamphlet: every Phi line gets its Tengwar
     rendering on its own line directly above the romanization, both always
