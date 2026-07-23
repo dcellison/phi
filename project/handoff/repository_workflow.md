@@ -19,6 +19,7 @@ Phi is maintained as repository source, generated views, and machine checks. A r
 | `texts/` | Translation and transmutation shelf, catalogued for the site. |
 | `pamphlets/` | Focused teaching companions, also catalogued. |
 | `book/` | General-reader book treatment and drafted chapters. |
+| `tengwar/` | Current Tengwar specification, renderer outlines, and source font. |
 | `site/` | Maintained browser assets. No generated pages or data belong here. |
 | `build/` | Ignored, disposable build products such as the site and SQLite lexicon. |
 | `project/` | Operational protocol, roadmap, decisions, publishing strategy, releases, and this handoff. |
@@ -173,7 +174,7 @@ The About description reads, verbatim: "A personal constructed language for mind
 
 The topics are `conlang`, `constructed-language`, `language-learning`, `linguistics`, `mindfulness`, `solarpunk`, and `peace-linguistics`. The absence of an auxiliary-language topic is deliberate, since Phi is a personal language and not an auxlang; `language-learning` stays by his call.
 
-The root `README.md` is the repository's public map. It covers the whole current top level, the book and `writing_systems/` included, and it should be refreshed in the same PR whenever the top-level shape changes.
+The root `README.md` is the repository's public map. It covers the whole current top level, the book and `tengwar/` included, and it should be refreshed in the same PR whenever the top-level shape changes.
 
 ## Lexicon lookup tool
 
@@ -214,7 +215,7 @@ A productive onym is a lowercase single token with two, three, or four legal Phi
 
 ## Tengwar utilities
 
-`scripts/tengwar.py` is the renderer library used by the site build. It converts validated Romanized Phi lines into deterministic inline SVG using committed outlines in `writing_systems/tengwar_glyphs.json`. It is not a general foreign-text renderer, and source material remains outside the Phi SVG passage.
+`scripts/tengwar.py` is the renderer library used by the site build. It converts validated Romanized Phi lines into deterministic inline SVG using committed outlines in `tengwar/glyphs.json`. It is not a general foreign-text renderer, and source material remains outside the Phi SVG passage.
 
 `scripts/extract_tengwar_glyphs.py` is a manual one-off extraction tool, still current but not part of ordinary builds. It requires `fontTools`, reads Tengwar Telcontar, preserves hand-tuned placement offsets, and rewrites the committed glyph outline JSON. Do not run it during normal vocabulary or site work. Its documented isolated environment is:
 

@@ -19,4 +19,4 @@ The four lexicon files are generated from the entry JSON under `vocabulary/`, an
 python3 scripts/generate_reference.py
 ```
 
-How Phi is written is chapter 8 §6: the romanization, the Tengwar mode, and the reserved glyph mode. The Tengwar mode is taught glyph by glyph in `pamphlets/tengwar_mode/`, whose pages render every line in both scripts.
+How Phi is written is chapter 8 §6: romanization and the Tengwar mode. The Tengwar mode is taught glyph by glyph in `pamphlets/tengwar_mode/`, whose pages render every line in both scripts.

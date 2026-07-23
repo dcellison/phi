@@ -93,7 +93,7 @@ All eleven files under `manual/part3_phonology/` are reviewed. Ten needed revisi
 | `ch08_music_of_phi/03_penultimate_stress.md` | Revised | Fixed penultimate placement remains, while claims about a universal falling rhythm and one mandatory acoustic cue are gone. Bold lowercase syllables teach stress without creating invalid capitalized Phi. |
 | `ch08_music_of_phi/04_common_pitfalls.md` | Revised | The former mistake list now treats English habits as transfers and sets each careful target beside its accepted accent range. It adds the missing `wh`/`w` contrast and removes retired `shelomui`. |
 | `ch08_music_of_phi/05_exercises.md` | Revised | The exercises use current words, repair mismatched focus notes, replace clock-timed routines with repeatable listening work, and end in a coherent base-vocabulary scene. |
-| `ch08_music_of_phi/06_writing_phi_down.md` | Revised | Romanization is now one mode among peers rather than the real orthography. The carrier-free Tengwar mapping, developing glyph mode, spoken punctuation, and outside-source boundary all match current canon. |
+| `ch08_music_of_phi/06_writing_phi_down.md` | Revised | Romanization and Tengwar are the two current modes. The carrier-free Tengwar mapping, spoken punctuation, and outside-source boundary match current canon; the retired native-glyph project no longer appears as unfinished learner work. |
 
 ### Lexical result
 

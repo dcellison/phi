@@ -4,14 +4,6 @@ This ledger contains the questions and work that survived maintainer review on 2
 
 ## Design and language questions
 
-### Native glyph mode
-
-Status: Active visual exploration; no design selected.
-
-Phi intends to acquire one native script. That script is the mode already reserved in canon as the glyph mode, not another mode beyond it; Romanization and Tengwar are the other two peers. The current working description is a featural alphasyllabary, but no glyph, vowel position, block layout, or stroke order has been adopted.
-
-The [`writing_systems/glyph_mode/`](../writing_systems/glyph_mode/) studio now tests a Maya-inspired block presence against the compact consonant-plus-vowel insight of the Tengwar mode. Its first sheets compare line treatments, consonant families, explicit vowel attachment, hiatus, one-through-four-cell blocks, and pen or quill ductus. The breath stroke and open-ended forms remain questions rather than promised features. A mature proposal must preserve the same Phi information in Romanization, Tengwar, and the glyph mode and survive repeated handwriting before it enters canon or teaching.
-
 ### Spoken source material and code-switching
 
 Status: Open design question.
@@ -56,7 +48,7 @@ Status: Parked until Tengwar work resumes or the mode approaches publication-rea
 
 The renderer covers the full Phi inventory and builds every example in the Tengwar pamphlet. The gap is visual reference evidence for tehta placement. `h` has manual offsets but lacks independent confirmation; `p`, `k`, `w`, and internal `r` still rely on default bounding-box placement without preserved comparisons.
 
-A verification pass will compare representative vowel placements against authoritative Tengwar Telcontar renders. Any justified offsets belong in `writing_systems/tengwar_glyphs.json`, accompanied by enough durable evidence to explain them. Temporary reference images belong under `build/` rather than among the project documents.
+A verification pass will compare representative vowel placements against authoritative Tengwar Telcontar renders. Any justified offsets belong in `tengwar/glyphs.json`, accompanied by enough durable evidence to explain them. Temporary reference images belong under `build/` rather than among the project documents.
 
 ## Community direction
 

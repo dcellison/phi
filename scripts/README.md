@@ -1,4 +1,4 @@
-# Phi Vocabulary Management Scripts
+# Phi repository scripts
 
 The entry JSON under `vocabulary/content/`, `vocabulary/function/`, and `vocabulary/interjection/` is the single source of truth. [`vocabulary/schema.json`](../vocabulary/schema.json) owns the shared field and classification metadata. These scripts validate the entries, keep derived artifacts in sync, and support coining. Install the validator's pinned dependency once in each Python environment:
 
@@ -98,5 +98,11 @@ python3 scripts/audit_phonetic_neighbors.py --output documents/validation/phonet
 python3 scripts/audit_phonetic_neighbors.py --candidate proposed_word
 python3 scripts/audit_phonetic_neighbors.py --kind function --prompts 40 --seed 202601
 ```
+
+## Tengwar renderer and extractor
+
+`tengwar.py` converts validated romanized Phi into deterministic inline SVG using the committed outlines in `tengwar/glyphs.json`. The site build uses it for paired examples in the Tengwar pamphlet; it does not attempt to render foreign source material.
+
+`extract_tengwar_glyphs.py` rebuilds that JSON from `tengwar/fonts/TengwarTelcontar.ttf` while preserving hand-tuned placement adjustments. It is a manual maintenance tool, not part of an ordinary build, and requires `fontTools`.
 
 Retired one-off scripts live in `archive/scripts/`; everything in this directory is current and in use.

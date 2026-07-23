@@ -76,7 +76,7 @@ No other punctuation exists in any mode of writing Phi. What English marks silen
 
 ### Cross-references
 
-- `writing_systems/tengwar_mode.md` — the mode's full specification: every codepoint, every keypress, every ruling this pamphlet drills
+- `tengwar/mode.md` — the mode's full specification: every codepoint, every keypress, every ruling this pamphlet drills
 - canon.md, the *Letters* ruling — mode-invariance, and why Phi has no capitals in any script
 - manual chapters 7 and 8 — the sound inventory and syllable structure this mode is built on
 - `spoken_punctuation` — the full case for why Phi's punctuation is spoken, not written

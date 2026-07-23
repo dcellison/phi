@@ -1,12 +1,14 @@
-# References for the glyph-mode studio
+# References for the retired glyph-mode studio
+
+This bibliography belonged to the native-glyph project retired on 23 July 2026. The links record the evidence available to that exploration; current Phi no longer proposes a native third mode.
 
 ## Phi sources
 
-- [`canon.md`](../../canon.md), especially the Letters and Punctuation rulings, owns mode parity, lowercase Phi, and the single visible period.
-- [`manual/part3_phonology/ch08_music_of_phi/06_writing_phi_down.md`](../../manual/part3_phonology/ch08_music_of_phi/06_writing_phi_down.md) places the glyph mode in the teaching corpus and keeps it on the drawing table.
-- [`writing_systems/tengwar_mode.md`](../tengwar_mode.md) proves that Phi can encode a consonant with one vowel above and an optional hiatus vowel below without carriers.
-- [`project/deferred_questions.md`](../../project/deferred_questions.md) records the surviving design seeds: featural structure, a breath stroke, open-ended forms, and word blocks.
-- [`writing_systems/mayan_glyph_mode.md`](../mayan_glyph_mode.md) is the earlier exploration. Its status note identifies obsolete grammar and counts; the present studio keeps its block question while reconsidering its logogram and particle-attachment proposals.
+- [`canon.md`](../../../canon.md), especially the Letters and Punctuation rulings, owns mode parity, lowercase Phi, and the single visible period.
+- [`manual/part3_phonology/ch08_music_of_phi/06_writing_phi_down.md`](../../../manual/part3_phonology/ch08_music_of_phi/06_writing_phi_down.md) now teaches Phi's two current modes.
+- [`tengwar/mode.md`](../../../tengwar/mode.md) specifies the active carrier-free Tengwar encoding.
+- [`project/deferred_questions.md`](../../../project/deferred_questions.md) records the design questions and parked work that remain active.
+- [`mayan_glyph_mode.md`](../mayan_glyph_mode.md) is the earlier block exploration. Its status note identifies obsolete grammar and counts.
 
 ## Maya writing and visual reference
 

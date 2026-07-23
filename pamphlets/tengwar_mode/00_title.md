@@ -2,7 +2,7 @@
 
 ## A practice companion to the Tengwar mode
 
-Romanization is not the only hand Phi writes in. `writing_systems/tengwar_mode.md` documents a second: the Phi Tengwar mode, built from the same script Fëanor gave Quenya and Sindarin, fitted to Phi's own sound rules until it needed almost nothing borrowed. That document owns the doctrine: every codepoint, every keypress, every ruling. This pamphlet drills the two skills a hand actually needs: reading a tengwa's consonant and its vowels in one glance, and writing them back down without a carrier to lean on.
+Romanization is not the only hand Phi writes in. `tengwar/mode.md` documents a second: the Phi Tengwar mode, built from the same script Fëanor gave Quenya and Sindarin, fitted to Phi's own sound rules until it needed almost nothing borrowed. That document owns the doctrine: every codepoint, every keypress, every ruling. This pamphlet drills the two skills a hand actually needs: reading a tengwa's consonant and its vowels in one glance, and writing them back down without a carrier to lean on.
 
 Two skills interleave throughout. The first is mechanical: matching each consonant to its tengwa and each vowel to a tehta placed above or below it, at reading pace, without counting on your fingers. The second is the one this mode was built for: trusting the fit. Phi never needs a vowel carrier, because every word starts with a consonant and no more than two vowels ever stand in a row. Once that trust is real, the hand stops hesitating.
 
@@ -15,7 +15,7 @@ By the end of this pamphlet, you will:
 - Write the word separator and the period, the mode's only two marks
 - Read and write a full line by hand, slowly, the way the mode was meant to be used
 
-This pamphlet assumes the sound system (manual chapters 7 and 8) and the romanization the manual teaches throughout. It is a companion to `writing_systems/tengwar_mode.md`, the mode's full specification, and to canon's *Letters* ruling.
+This pamphlet assumes the sound system (manual chapters 7 and 8) and the romanization the manual teaches throughout. It is a companion to `tengwar/mode.md`, the mode's full specification, and to canon's *Letters* ruling.
 
 ---
 

@@ -1,6 +1,6 @@
-# The Phi glyph-mode studio
+# The retired Phi glyph-mode studio
 
-Phi's intended native script is under active visual exploration here. Nothing in this directory is canon, a teachable alphabet, or a change to Phi grammar. Romanization and the Tengwar mode remain the two usable writing modes while this work is on the drawing table.
+This studio was retired on 23 July 2026 when Phi chose to keep Tengwar as its alternative writing system. Nothing in this directory is canon, a teachable alphabet, or current work. The drawings and notes remain together so the abandoned visual direction can be understood without being mistaken for a third Phi mode.
 
 The present direction is a **featural alphasyllabary**. Each spoken word occupies one compact block. Inside it, every consonant begins an onset cell with one required vowel and, where Phi has hiatus, one optional second vowel. The structure borrows the economy of the Phi Tengwar mode while seeking a hand of its own, with open counters and an organic line that remains comfortable under a pen or broad quill.
 
@@ -27,6 +27,6 @@ The sheets are proposals, not an elimination tournament. A useful curve from one
 - `specimens/` applies a proposal to actual Phi forms without making those shapes canonical.
 - Disposable exports and renderer trials belong under ignored `build/glyph_mode/`.
 
-## Status
+## Final status
 
-The first studies use a shared provisional skeleton so that vowel placement and block composition can be inspected together. No consonant, vowel, cell layout, stroke order, or direction has been selected. The next decision belongs to the maintainer after looking at the sheets and, where useful, trying their gestures on paper.
+The studies use a shared provisional skeleton so that vowel placement and block composition can be inspected together. No consonant, vowel, cell layout, stroke order, or direction was selected. The project ended at that exploratory stage.

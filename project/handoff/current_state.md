@@ -1,6 +1,6 @@
 # Current state
 
-This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D055, the fifteenth SEM-09D literary retrofit, all seven manual teaching passes, the primer pass, all nine pamphlet passes, the whole-manual warmth revision, the current-documents sweep, the completed, published book, the whole-book revision read, and the pamphlet-shelf survey with the expansion that completed the practice apparatus. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
+This snapshot was first assembled after pull request #418 merged on 17 July 2026 and has been refreshed through D055, the fifteenth SEM-09D literary retrofit, all seven manual teaching passes, the primer pass, all nine pamphlet passes, the whole-manual warmth revision, the current-documents sweep, the completed, published book, the whole-book revision read, the pamphlet-shelf survey with the expansion that completed the practice apparatus, and the writing-system consolidation that made Tengwar Phi's sole alternative to romanization. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
 
 ## Active execution sequence
 
@@ -155,13 +155,12 @@ The whole-book revision read of 22 July 2026 is the first pass over the publishe
 
 ## Parked and future work
 
-[`project/deferred_questions.md`](../deferred_questions.md) is the maintained list. Its live entries are:
+[`project/deferred_questions.md`](../deferred_questions.md) is the maintained list. The native-glyph exploration was retired on 23 July 2026 and removed from that ledger; its studies remain under [`archive/writing_systems/`](../../archive/writing_systems/) as history rather than parked work. Phi's current Tengwar specification and renderer assets live under [`tengwar/`](../../tengwar/).
 
-The native glyph mode resumed visual exploration on 22 July 2026. [`writing_systems/glyph_mode/`](../../writing_systems/glyph_mode/) now holds the first non-canonical studio package: a featural-alphasyllabary brief and SVG studies of line, consonants, vowels, hiatus, word blocks, and quill ductus. The package chooses no form. Its next movement depends on the maintainer's visual and handwritten response to those sheets.
+The live entries are:
 
 | Item | State | Return condition |
 |---|---|---|
-| Native glyph mode | Active visual exploration | Daniel selects the line qualities and block proportions worth taking into repeated handwriting trials. |
 | Spoken source material and code-switching | Open design question | Live conversational examples make the current outside-syntax boundary inadequate. Do not reintroduce guest or exact frames. |
 | Sexual and reproductive anatomy | Queued scenario-led vocabulary effort | Begin as its own respectful corpus and vocabulary project, not as an unnoticed extension of Medical vocabulary. |
 | Legacy vocabulary prose audit | Complete | D044 completed the base queue, D045 through D052 completed all eight module learning paths, and SEM-09D completed the literary shelf, the drafted book, the manual, the primer, the nine pamphlets then current, and the current documents. Reopen a passage only for a real semantic, factual, voice, or corpus problem. |
