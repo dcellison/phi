@@ -5257,24 +5257,10 @@ def load_pamphlet_editorial():
 
 
 def pamphlet_motif(name):
-    """Return the Lucide layers and checklist mark for a workbook."""
+    """Return the CSS-painted Lucide motif anchor for a workbook."""
     if name != "ordered_slots":
         raise ValueError(f"unknown pamphlet motif: {name}")
-    return """
-<div class="pamphlet-page-motif" aria-hidden="true">
-  <svg viewBox="0 0 24 24" focusable="false">
-    <path d="m12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z"/>
-    <path d="m22 12.5-9.17 4.17a2 2 0 0 1-1.66 0L2 12.5"/>
-    <path d="m22 17.5-9.17 4.17a2 2 0 0 1-1.66 0L2 17.5"/>
-  </svg>
-  <svg viewBox="0 0 24 24" focusable="false">
-    <path d="m3 7 2 2 4-4"/>
-    <path d="m3 17 2 2 4-4"/>
-    <path d="M13 6h8"/>
-    <path d="M13 12h8"/>
-    <path d="M13 18h8"/>
-  </svg>
-</div>"""
+    return '<div class="pamphlet-page-motif" aria-hidden="true"></div>'
 
 
 def pamphlet_display_title(title, index):
@@ -5316,18 +5302,51 @@ def pamphlet_reading_rail(directory, paths, titles, current):
             ' class="current" aria-current="page"' if index == current else ""
         )
         href = f"{directory}__{path.stem}.html"
+        accessible_label = (
+            f"Page {index + 1} of {len(paths)}: {accessible_title}"
+        )
         links.append(
             f'<a href="{href}"{current_attributes} '
-            f'title="{html_module.escape(accessible_title, quote=True)}">'
-            f'<span aria-hidden="true">{index:02d}</span>'
-            f'<span class="visually-hidden">'
-            f"{html_module.escape(accessible_title)}</span></a>"
+            f'data-page="{index:02d}" '
+            f'aria-label="{html_module.escape(accessible_label, quote=True)}" '
+            f'title="{html_module.escape(accessible_title, quote=True)}"></a>'
         )
     return (
-        '<nav class="pamphlet-reading-rail" aria-label="Workbook pages">'
+        '<nav class="pamphlet-reading-rail pager" '
+        'aria-label="Workbook pages">'
         + "".join(links)
         + "</nav>"
     )
+
+
+def validate_pamphlet_reader_fallback(header, rail, title, page_count):
+    """Keep decorative and compact UI out of simplified article text."""
+    if "<svg" in header.lower():
+        raise ValueError("pamphlet header contains extractable decorative SVG")
+    rail_text = html_module.unescape(
+        re.sub(r"<[^>]+>", "", rail)
+    ).strip()
+    labels = re.findall(
+        r'<a [^>]*aria-label="Page \d+ of \d+: [^"]+"',
+        rail,
+    )
+    if rail_text or len(labels) != page_count:
+        raise ValueError(
+            "pamphlet rail is not safe for simplified reading mode"
+        )
+    meta_match = re.search(
+        r'<div class="pamphlet-header-meta"><p>(.*?)</p>',
+        header,
+        flags=re.S,
+    )
+    if meta_match is None:
+        raise ValueError("pamphlet header metadata is missing")
+    meta_text = html_module.unescape(
+        re.sub(r"<[^>]+>", "", meta_match.group(1))
+    )
+    meta_text = " ".join(meta_text.split())
+    if meta_text != f"Phi practice \N{MIDDLE DOT} {title}":
+        raise ValueError("pamphlet header metadata needs literal separators")
 
 
 def mark_pamphlet_inline_phi(body):
@@ -5515,7 +5534,7 @@ def style_pamphlet_opening(body, directory, paths, titles):
         raise ValueError("pamphlet opening contents differ from its live pages")
     linked_items = "".join(
         f'<li><a href="{directory}__{path.stem}.html">'
-        f'<span>{index:02d}</span>'
+        f'<span>{index:02d}</span> '
         f"{html_module.escape(label)}</a></li>"
         for index, (path, label) in enumerate(
             zip(paths[1:], expected_items),
@@ -5611,7 +5630,9 @@ def apply_pamphlet_editorial(
     header = (
         '<header class="pamphlet-page-header">'
         '<div class="pamphlet-header-meta"><p>'
-        '<span class="pamphlet-shelf-label">Phi practice</span>'
+        '<span class="pamphlet-shelf-label">Phi practice</span> '
+        '<span class="pamphlet-meta-separator" aria-hidden="true">'
+        '&middot;</span> '
         f'<span>{html_module.escape(pamphlet["title"])}</span></p>'
         f"<p>{position}</p></div>"
         '<div class="pamphlet-title-row"><div>'
@@ -5628,6 +5649,12 @@ def apply_pamphlet_editorial(
         titles,
         index,
     )
+    validate_pamphlet_reader_fallback(
+        header,
+        rail,
+        pamphlet["title"],
+        len(paths),
+    )
     return header + rail + body
 
 
@@ -5635,22 +5662,22 @@ def pamphlet_editorial_navigation(previous, following):
     """Give a workbook page labelled previous and next links."""
     previous_link = (
         f'<a class="pamphlet-nav-page pamphlet-nav-previous" '
-        f'href="{previous["href"]}"><span>Previous</span>'
+        f'href="{previous["href"]}"><span>Previous</span> '
         f'<strong>{html_module.escape(previous["title"])}</strong></a>'
         if previous
         else '<span class="pamphlet-nav-page"></span>'
     )
     next_link = (
         f'<a class="pamphlet-nav-page pamphlet-nav-next" '
-        f'href="{following["href"]}"><span>Next</span>'
+        f'href="{following["href"]}"><span>Next</span> '
         f'<strong>{html_module.escape(following["title"])}</strong></a>'
         if following
         else '<span class="pamphlet-nav-page"></span>'
     )
     return (
         '<nav class="chapnav pamphlet-page-nav" aria-label="Workbook pages">'
-        f'{previous_link}<a class="pamphlet-nav-contents" '
-        f'href="index.html">All pamphlets</a>{next_link}</nav>'
+        f'{previous_link} <a class="pamphlet-nav-contents" '
+        f'href="index.html">All pamphlets</a> {next_link}</nav>'
     )
 
 
