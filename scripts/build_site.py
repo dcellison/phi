@@ -5206,7 +5206,13 @@ def load_pamphlet_editorial():
             not re.fullmatch(r"[a-z0-9_]+", directory)
             or not isinstance(metadata, dict)
             or set(metadata) != {"motif"}
-            or metadata["motif"] not in {"ordered_slots", "clause_links"}
+            or metadata["motif"]
+            not in {
+                "ordered_slots",
+                "clause_links",
+                "event_views",
+                "source_routes",
+            }
         ):
             raise ValueError(
                 f"invalid pamphlet editorial metadata: {directory}"
@@ -5287,7 +5293,12 @@ def load_pamphlet_editorial():
 
 def pamphlet_motif(name):
     """Return the CSS-painted Lucide motif anchor for a workbook."""
-    if name not in {"ordered_slots", "clause_links"}:
+    if name not in {
+        "ordered_slots",
+        "clause_links",
+        "event_views",
+        "source_routes",
+    }:
         raise ValueError(f"unknown pamphlet motif: {name}")
     return '<div class="pamphlet-page-motif" aria-hidden="true"></div>'
 
@@ -5313,7 +5324,14 @@ def pamphlet_contents_label(title, index):
         return title
     part_match = re.fullmatch(r"Part \d+: (.+)", title)
     if part_match is not None:
-        return part_match.group(1)
+        label = part_match.group(1)
+        parenthetical_particle = re.fullmatch(r"(.+) \(([a-z]+)\)", label)
+        if parenthetical_particle is not None:
+            return (
+                f"{parenthetical_particle.group(1)}: "
+                f"{parenthetical_particle.group(2)}"
+            )
+        return label
     if title.startswith("Appendix: "):
         return title
     return title
@@ -5562,6 +5580,50 @@ def style_pamphlet_answer_glosses(body):
     )
 
 
+def style_pamphlet_answer_runs(body):
+    """Restore answer items collapsed onto one Markdown source line."""
+    single_item_list = re.compile(
+        r"<ol(?P<attrs>[^>]*)><li>"
+        r"(?P<content>(?:(?!</?li(?:\s|>)).)*)"
+        r"</li></ol>",
+        flags=re.S,
+    )
+    numbered_boundary = re.compile(r"\s(?P<number>\d+)\.\s+")
+
+    def split_run(match):
+        attributes = match.group("attrs")
+        content = match.group("content")
+        start_match = re.search(r'\bstart="(\d+)"', attributes)
+        first_number = int(start_match.group(1)) if start_match else 1
+        boundaries = list(numbered_boundary.finditer(content))
+        numbers = [int(boundary.group("number")) for boundary in boundaries]
+        if numbers != list(
+            range(first_number + 1, first_number + 1 + len(numbers))
+        ):
+            return match.group(0)
+        items = []
+        item_start = 0
+        for boundary in boundaries:
+            items.append(content[item_start:boundary.start()].strip())
+            item_start = boundary.end()
+        items.append(content[item_start:].strip())
+        if len(items) < 2 or any(not item for item in items):
+            return match.group(0)
+        return (
+            f'<ol{attributes} class="pamphlet-answer-run">'
+            + "".join(f"<li>{item}</li>" for item in items)
+            + "</ol>"
+        )
+
+    return re.sub(
+        r'<section class="[^"]*\bpamphlet-answer-section\b[^"]*"'
+        r"[^>]*>.*?</section>",
+        lambda section: single_item_list.sub(split_run, section.group(0)),
+        body,
+        flags=re.S,
+    )
+
+
 def style_pamphlet_opening(body, directory, paths, titles):
     """Turn the source opening into a linked workbook map."""
     subtitle_match = re.search(r"<h2>(.*?)</h2>", body, flags=re.S)
@@ -5592,7 +5654,10 @@ def style_pamphlet_opening(body, directory, paths, titles):
         for item in source_items
     ]
     if plain_items != expected_items:
-        raise ValueError("pamphlet opening contents differ from its live pages")
+        raise ValueError(
+            f"pamphlet opening contents differ from its live pages: {directory}; "
+            f"source={plain_items!r}; pages={expected_items!r}"
+        )
     linked_items = "".join(
         f'<li><a href="{directory}__{path.stem}.html">'
         f'<span>{index:02d}</span> '
@@ -5705,6 +5770,7 @@ def apply_pamphlet_editorial(
         )
         if treatment["variant"] == "exercises":
             body = style_pamphlet_answer_glosses(body)
+            body = style_pamphlet_answer_runs(body)
 
     motif = PAMPHLET_GROUPS[pamphlet["directory"]]["motif"]
     position = f"Reading {index + 1} of {len(paths)}"

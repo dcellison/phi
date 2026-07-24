@@ -4,7 +4,9 @@
     "adverbial_clauses",
     "complementizers",
     "coordination",
-    "relative_clauses"
+    "relative_clauses",
+    "tense_aspect",
+    "evidentiality"
   ],
   "pamphlets": {
     "three_slots": {
@@ -21,6 +23,12 @@
     },
     "relative_clauses": {
       "motif": "clause_links"
+    },
+    "tense_aspect": {
+      "motif": "event_views"
+    },
+    "evidentiality": {
+      "motif": "source_routes"
     }
   },
   "pages": {
@@ -243,6 +251,99 @@
     "pamphlets/relative_clauses/08_appendix.md": {
       "section_level": 2,
       "shape": "h1,2,3,3,3,3,3,3,3,2,2,2,2;t3x4,3x39;f1,1,1,2,2,2,2;q-;u3,3,5;o5;r4;s1",
+      "variant": "appendix"
+    },
+    "pamphlets/tense_aspect/00_title.md": {
+      "shape": "h1,2;t-;f-;q-;u6;o11;r2;s1",
+      "variant": "opening"
+    },
+    "pamphlets/tense_aspect/01_the_verb_at_rest.md": {
+      "shape": "h1,3,3;t-;f3,3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/tense_aspect/02_looking_back_to.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3,3;q-;u-;o3;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/tense_aspect/03_looking_forward_so.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3,3;q-;u-;o3;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/tense_aspect/04_within_and_whole_si_ki.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3,3,3,3;q-;u-;o3;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/tense_aspect/05_the_edges_pa_te.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3,3;q-;u-;o3;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/tense_aspect/06_the_pattern_ro.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3,3,3;q-;u-;o3;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/tense_aspect/07_the_ten_combinations.md": {
+      "shape": "h1,3,3,3;t3x10;f3,3,3,3,3;q-;u-;o-;r0;s-",
+      "variant": "tables"
+    },
+    "pamphlets/tense_aspect/08_the_day_around_the_verb.md": {
+      "shape": "h1,3,3,3,3;t3x8;f3,3,3,3,3,3,3;q-;u-;o3;r0;s1",
+      "variant": "scenario"
+    },
+    "pamphlets/tense_aspect/09_common_errors.md": {
+      "shape": "h1,3,3,3,3,3,3,3;t-;f-;q-;u-;o-;r0;s-",
+      "variant": "errors"
+    },
+    "pamphlets/tense_aspect/10_exercises.md": {
+      "shape": "h1,2,2,2,2,2,2,3,3,3,3,3;t-;f-;q-;u-;o5,6,5,4,4,1,1,1,1,1;r1;s1,6,12,17,21,1,6,12,17,21",
+      "variant": "exercises"
+    },
+    "pamphlets/tense_aspect/11_appendix.md": {
+      "section_level": 2,
+      "shape": "h1,2,2,2,2,2;t3x7,6x2,3x15;f-;q-;u7,5;o-;r0;s-",
+      "variant": "appendix"
+    },
+    "pamphlets/evidentiality/00_title.md": {
+      "shape": "h1,2;t-;f-;q-;u-;o10;r2;s1",
+      "variant": "opening"
+    },
+    "pamphlets/evidentiality/01_four_sources_one_stack.md": {
+      "shape": "h1,3,3,3,3;t3x4;f7,11,3,4;q-;u-;o-;r0;s-",
+      "variant": "stack"
+    },
+    "pamphlets/evidentiality/02_witness_hi.md": {
+      "shape": "h1,3,3,3,3;t-;f3,7,3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/evidentiality/03_signs_ke.md": {
+      "shape": "h1,3,3,3,3,3;t-;f3,3,7,3,15;q-;u-;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/evidentiality/04_word_ti.md": {
+      "shape": "h1,3,3,3,3,3,3;t-;f3,11,3,11,11;q-;u-;o-;r0;s-",
+      "variant": "scenario"
+    },
+    "pamphlets/evidentiality/05_expectation_ho.md": {
+      "shape": "h1,3,3,3,3,3;t3x5;f3,7,7,11;q-;u-;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/evidentiality/06_choosing_and_combining.md": {
+      "shape": "h1,3,3,3,3,3,3,3,3,3;t-;f3,3,3,7,7,7;q-;u-;o-;r0;s-",
+      "variant": "stack"
+    },
+    "pamphlets/evidentiality/07_a_journal_of_sources.md": {
+      "shape": "h1,3,3,3,3,3;t3x4;f11,7;q-;u-;o-;r0;s-",
+      "variant": "scenario"
+    },
+    "pamphlets/evidentiality/08_common_errors.md": {
+      "shape": "h1,3,3,3,3,3,3,3;t-;f2,3,2,3,3,3,3,3,3,3;q-;u-;o-;r0;s-",
+      "variant": "errors"
+    },
+    "pamphlets/evidentiality/09_exercises.md": {
+      "shape": "h1,2,2,2,2,2,2,2,3,3,3,3,3;t-;f-;q-;u-;o5,3,5,4,4,5,3,5,4,4;r1;s1,6,9,14,18,1,6,9,14,18",
+      "variant": "exercises"
+    },
+    "pamphlets/evidentiality/10_appendix.md": {
+      "shape": "h1,3,3,3,3,3,3,3,3;t4x4,2x9;f3,15,11;q-;u8,5;o-;r0;s-",
       "variant": "appendix"
     }
   }
