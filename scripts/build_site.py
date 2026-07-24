@@ -1556,14 +1556,32 @@ import tengwar
 PHI_WORDS = {e["word"] for e in entries}
 
 TEXT_MOTIFS = {
+    "heart_radiance",
     "wind_sun",
     "people_equal",
     "dwelling_garden",
     "wool_journey",
     "water_open",
     "lotus_circle",
+    "sun_sprout",
     "words_seed",
 }
+
+
+def split_text_editorial_title(source_title, phi_title, repo_path):
+    """Separate a validated Phi title from its English display title."""
+    if not source_title.startswith(phi_title):
+        raise ValueError(
+            f"texts editorial title does not begin with its Phi title: {repo_path}"
+        )
+    title_tail = source_title[len(phi_title):]
+    if title_tail.startswith(" — "):
+        return phi_title, title_tail[3:]
+    if title_tail.startswith(": "):
+        return phi_title, title_tail[2:]
+    raise ValueError(
+        f"texts editorial title has no supported separator: {repo_path}"
+    )
 
 
 def load_texts_editorial():
@@ -1605,6 +1623,7 @@ def load_texts_editorial():
         form_fields = {
             "paired": set(),
             "collection": {"reading_map"},
+            "translation": set(),
         }
         if form not in form_fields:
             raise ValueError(f"unknown texts editorial form: {form}")
@@ -1617,21 +1636,30 @@ def load_texts_editorial():
         if treatment["motif"] not in TEXT_MOTIFS:
             raise ValueError(f"unknown texts editorial motif: {treatment['motif']}")
         work = catalogued[repo_path]
-        if work["method"] != "Translation + transmutation":
+        expected_method = {
+            "paired": "Translation + transmutation",
+            "collection": "Translation + transmutation",
+            "translation": "Translation",
+        }[form]
+        if work["method"] != expected_method:
             raise ValueError(
-                f"paired texts editorial source has incompatible method: {repo_path}"
+                f"texts editorial source has incompatible method: {repo_path}"
             )
 
         source = (ROOT / repo_path).read_text(encoding="utf-8")
         source_title = title_of(source)
-        if source_title != work["title"] or " — " not in source_title:
+        if source_title != work["title"]:
             raise ValueError(
                 f"texts editorial title differs from the catalogue: {repo_path}"
             )
-        phi_title, english_title = source_title.split(" — ", 1)
+        phi_title = treatment["phi_title"]
+        _, english_title = split_text_editorial_title(
+            source_title,
+            phi_title,
+            repo_path,
+        )
         if (
-            treatment["phi_title"] != phi_title
-            or not is_current_phi(phi_title)
+            not is_current_phi(phi_title)
             or not english_title.strip()
         ):
             raise ValueError(f"invalid texts editorial Phi title: {repo_path}")
@@ -1645,6 +1673,8 @@ def load_texts_editorial():
             "transmutation",
             "comparison",
             "collection_detail",
+            "complete",
+            "apparatus",
         }
         if (
             not isinstance(sections, list)
@@ -1679,11 +1709,33 @@ def load_texts_editorial():
                 "collection_detail",
             ],
         }
-        if major_kinds != expected_kinds[form]:
+        if form in expected_kinds and major_kinds != expected_kinds[form]:
             raise ValueError(
                 f"texts editorial sections have the wrong order for {form}: "
                 f"{repo_path}"
             )
+        if form == "translation":
+            first_complete = (
+                major_kinds.index("complete")
+                if "complete" in major_kinds
+                else -1
+            )
+            if (
+                first_complete < 1
+                or any(
+                    kind != "translation"
+                    for kind in major_kinds[:first_complete]
+                )
+                or major_kinds[first_complete + 1:] == []
+                or any(
+                    kind != "apparatus"
+                    for kind in major_kinds[first_complete + 1:]
+                )
+            ):
+                raise ValueError(
+                    "translation-only editorial sections must contain one or "
+                    f"more translations, one complete reading, and apparatus: {repo_path}"
+                )
         if form == "collection":
             reading_map = treatment["reading_map"]
             reading_map_fields = {"label", "method", "target"}
@@ -1769,6 +1821,8 @@ def texts_motif(name):
     <path d="M2 12h20"/>"""
     circle = """
     <circle cx="12" cy="12" r="9"/>"""
+    heart = """
+    <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3.33.82-4.5 2.09C10.83 3.82 9.26 3 7.5 3A5.5 5.5 0 0 0 2 8.5C2 10.79 3.51 12.54 5 14l7 7Z"/>"""
     lotus = """
     <path d="M12 5a3 3 0 1 1 3 3m-3-3a3 3 0 1 0-3 3m3-3v1M9 8a3 3 0 1 0 3 3M9 8h1m5 0a3 3 0 1 1-3 3m3-3h-1m-2 3v-1"/>
     <circle cx="12" cy="8" r="2"/>
@@ -1776,12 +1830,14 @@ def texts_motif(name):
     <path d="M12 22c4.2 0 7-1.667 7-5-4.2 0-7 1.667-7 5Z"/>
     <path d="M12 22c-4.2 0-7-1.667-7-5 4.2 0 7 1.667 7 5Z"/>"""
     motifs = {
+        "heart_radiance": (heart, circle),
         "wind_sun": (wind, sun),
         "people_equal": (people, equal),
         "dwelling_garden": (dwelling, sprout),
         "wool_journey": (waves, journey),
         "water_open": (waves, circle),
         "lotus_circle": (circle, lotus),
+        "sun_sprout": (sun, sprout),
         "words_seed": (words, sprout),
     }
     if name not in motifs:
@@ -1815,6 +1871,14 @@ def text_section_icon(kind):
             '<path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/>'
             '<path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>'
         ),
+        "complete": (
+            '<path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/>'
+            '<path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>'
+        ),
+        "apparatus": (
+            '<path d="M9 6h11"/><path d="M9 12h11"/><path d="M9 18h11"/>'
+            '<path d="M5 6h.01"/><path d="M5 12h.01"/><path d="M5 18h.01"/>'
+        ),
     }
     if kind not in paths:
         raise ValueError(f"unknown texts section kind: {kind}")
@@ -1836,7 +1900,7 @@ def text_heading_slug(title):
 
 def text_reading_map(treatment):
     """Build the reading map shown before a treated literary work."""
-    if treatment["form"] == "paired":
+    if treatment["form"] in {"paired", "translation"}:
         map_items = [
             {
                 "label": section["title"],
@@ -1993,26 +2057,39 @@ def style_text_fences(body, repo_path, treatment):
                 + "</div>"
             )
 
-        readings = [group.strip() for group in groups if group.strip()]
-        if readings and all(
-            "\n" not in reading and is_text_phi_passage(reading)
-            for reading in readings
+        reading_groups = [
+            [line.strip() for line in group.splitlines() if line.strip()]
+            for group in groups
+            if group.strip()
+        ]
+        if reading_groups and all(
+            lines and all(is_text_phi_passage(line) for line in lines)
+            for lines in reading_groups
         ):
             counts["complete_readings"] += 1
-            lines = []
-            for index, reading in enumerate(readings):
-                class_name = (
-                    "text-reading-line text-reading-title"
-                    if index == 0
-                    else "text-reading-line"
-                )
-                lines.append(
-                    f'<p class="{class_name}" lang="art-x-phi">{reading}</p>'
+            rendered_groups = []
+            line_index = 0
+            for lines in reading_groups:
+                rendered_lines = []
+                for reading in lines:
+                    class_name = (
+                        "text-reading-line text-reading-title"
+                        if line_index == 0
+                        else "text-reading-line"
+                    )
+                    rendered_lines.append(
+                        f'<p class="{class_name}" lang="art-x-phi">{reading}</p>'
+                    )
+                    line_index += 1
+                rendered_groups.append(
+                    '<div class="text-reading-stanza">'
+                    + "".join(rendered_lines)
+                    + "</div>"
                 )
             return (
                 '<section class="text-complete-reading" '
                 'aria-label="Complete Phi reading">'
-                + "".join(lines)
+                + "".join(rendered_groups)
                 + "</section>"
             )
 
@@ -2101,7 +2178,28 @@ def style_text_subheadings(body):
     def convert(match):
         title = match.group(1)
         plain = html_module.unescape(re.sub(r"<[^>]+>", "", title))
-        if plain.startswith("Complete "):
+        classes = []
+        verse = re.fullmatch(r"Verse ([0-9]+): (.+)", plain)
+        proposition = re.fullmatch(r"([0-9]+)\. (.+)", plain)
+        if verse is not None:
+            kind = "text-scene-heading"
+            classes.extend(("text-numbered-heading", "text-verse-heading"))
+            title = (
+                '<span class="text-heading-number">'
+                f'{int(verse.group(1)):02d}</span>'
+                '<span class="text-heading-label">'
+                f'{html_module.escape(verse.group(2))}</span>'
+            )
+        elif proposition is not None:
+            kind = "text-scene-heading"
+            classes.extend(("text-numbered-heading", "text-proposition-heading"))
+            title = (
+                '<span class="text-heading-number">'
+                f'{int(proposition.group(1)):02d}</span>'
+                '<span class="text-heading-label">'
+                f'{html_module.escape(proposition.group(2))}</span>'
+            )
+        elif plain.startswith("Complete "):
             kind = "text-reading-heading"
         elif "limits" in plain.lower() or "gap log" in plain.lower():
             kind = "text-ledger-heading"
@@ -2117,7 +2215,8 @@ def style_text_subheadings(body):
                     '<span class="visually-hidden">, </span>'
                     f'<span class="text-subheading-english">{english}</span>'
                 )
-        return f'<h3 class="{kind}">{title}</h3>'
+        class_names = " ".join((kind, *classes))
+        return f'<h3 class="{class_names}">{title}</h3>'
 
     return re.sub(r"<h3>(.*?)</h3>", convert, body, flags=re.S)
 
@@ -2185,7 +2284,11 @@ def text_method_heading(title, kind, form):
 def apply_text_editorial(body, source, repo_path, treatment):
     """Apply the anthology treatment to one validated literary work."""
     source_title = title_of(source)
-    phi_title, english_title = source_title.split(" — ", 1)
+    phi_title, english_title = split_text_editorial_title(
+        source_title,
+        treatment["phi_title"],
+        repo_path,
+    )
     heading = re.search(r"<h1>(.*?)</h1>", body, flags=re.S)
     if heading is None or html_module.unescape(heading.group(1)) != source_title:
         raise ValueError(f"editorial text has no matching heading: {repo_path}")
@@ -2202,11 +2305,13 @@ def apply_text_editorial(body, source, repo_path, treatment):
             '<span>Translation</span><span aria-hidden="true">+</span>'
             '<span>transmutation</span>'
         )
-    else:
+    elif treatment["form"] == "collection":
         method_label = (
             '<span>Transmutations</span><span aria-hidden="true">+</span>'
             '<span>paired teaching</span>'
         )
+    else:
+        method_label = '<span>Close translation</span>'
     header = f"""
 <header class="text-work-header">
   <div class="text-work-meta">
@@ -2299,6 +2404,10 @@ def apply_text_editorial(body, source, repo_path, treatment):
             class_name = f"text-rendering text-{kind}"
         elif kind == "comparison":
             class_name = "text-comparison"
+        elif kind == "complete":
+            class_name = "text-complete-section"
+        elif kind == "apparatus":
+            class_name = "text-apparatus"
         else:
             class_name = "text-collection-detail"
         sections.append(f'<section class="{class_name}">{section}</section>')
@@ -2390,7 +2499,14 @@ def texts_nav(depth):
     return f'<nav class="topnav"><a href="{root_prefix}index.html">kia</a> <span class="sep">&middot;</span> <a href="{root_prefix}short_road.html">walk</a> <span class="sep">&middot;</span> <a href="{root_prefix}primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="{root_prefix}book/index.html">book</a> <span class="sep">&middot;</span> <a href="{root_prefix}manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="{root_prefix}pamphlets/index.html">pamphlets</a> <span class="sep">&middot;</span> <a class="here" href="{texts_index}">texts</a> <span class="sep">&middot;</span> <a href="{root_prefix}explore.html">lexicon</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
 
-def texts_page(body, title, depth=1, footer_nav=None, editorial_kind=None):
+def texts_page(
+    body,
+    title,
+    depth=1,
+    footer_nav=None,
+    editorial_kind=None,
+    editorial_motif=None,
+):
     root_prefix = "../" * depth
     texts_index = "index.html" if depth == 1 else "../index.html"
     if footer_nav is None:
@@ -2399,6 +2515,9 @@ def texts_page(body, title, depth=1, footer_nav=None, editorial_kind=None):
     content = f"{body}\n{footer_nav}"
     if editorial_kind is not None:
         body_class += f" text-editorial text-{editorial_kind}-page"
+        if editorial_motif is not None:
+            motif_class = editorial_motif.replace("_", "-")
+            body_class += f" text-{motif_class}-page"
         content = f'<article class="text-work">\n{body}\n{footer_nav}\n</article>'
     return f"""<!doctype html>
 <html lang="en">
@@ -2461,6 +2580,7 @@ for work_index, work in enumerate(TEXTS):
     rendered = md_to_html(md)
     footer_nav = None
     editorial_kind = None
+    editorial_motif = None
     if treatment is not None:
         rendered = apply_text_editorial(
             rendered,
@@ -2470,6 +2590,7 @@ for work_index, work in enumerate(TEXTS):
         )
         footer_nav = text_work_nav(work_index)
         editorial_kind = treatment["form"]
+        editorial_motif = treatment["motif"]
     else:
         rendered = rendered.replace(
             "</h1>",
@@ -2482,6 +2603,7 @@ for work_index, work in enumerate(TEXTS):
             work["title"],
             footer_nav=footer_nav,
             editorial_kind=editorial_kind,
+            editorial_motif=editorial_motif,
         )
     )
 

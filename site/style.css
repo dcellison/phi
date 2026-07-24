@@ -949,6 +949,20 @@ table.primer-ladder {
   margin-left: -.25rem;
   width: 2.7rem;
 }
+.text-work-motif-heart_radiance svg:first-child {
+  color: var(--gold);
+  transform: translateY(.15rem);
+}
+.text-work-motif-heart_radiance svg + svg {
+  color: var(--sage);
+  margin-left: -.7rem;
+  opacity: .75;
+}
+.text-work-motif-sun_sprout svg:first-child { color: var(--gold); }
+.text-work-motif-sun_sprout svg + svg {
+  color: var(--sage);
+  margin-left: -.45rem;
+}
 .text-title-tengwar {
   color: var(--muted);
   margin-top: .85rem;
@@ -1000,6 +1014,9 @@ table.primer-ladder {
   margin: 0;
   padding: 0;
 }
+.text-translation-page .text-reading-map ol {
+  grid-template-columns: repeat(auto-fit, minmax(8.5rem, 1fr));
+}
 .text-reading-map li { min-width: 0; }
 .text-reading-map a {
   align-items: baseline;
@@ -1029,7 +1046,9 @@ table.primer-ladder {
   margin-top: .14rem;
 }
 .text-rendering,
-.text-comparison { margin-top: 4rem; }
+.text-comparison,
+.text-complete-section,
+.text-apparatus { margin-top: 4rem; }
 .text-editorial h2.text-method-heading {
   align-items: center;
   border-bottom: 1px solid var(--hairline);
@@ -1067,6 +1086,8 @@ table.primer-ladder {
   color: var(--muted);
   transform: rotate(90deg);
 }
+.text-complete-heading .text-section-icon { color: var(--sage); }
+.text-apparatus-heading .text-section-icon { color: var(--muted); }
 .text-heading-copy,
 .text-teaching-name,
 .text-rendering-kind { display: block; }
@@ -1129,6 +1150,19 @@ table.primer-ladder {
   font-size: 1.42rem;
   margin: 3rem 0 .8rem;
 }
+.text-editorial h3.text-numbered-heading {
+  align-items: baseline;
+  display: grid;
+  gap: .8rem;
+  grid-template-columns: 2.25rem minmax(0, 1fr);
+}
+.text-heading-number {
+  color: var(--gold);
+  font-family: var(--sans);
+  font-size: .52em;
+  font-weight: 650;
+}
+.text-heading-label { display: block; }
 .text-subheading-phi {
   color: var(--sage);
   display: block;
@@ -1147,6 +1181,10 @@ table.primer-ladder {
   border-top: 1px solid var(--gold);
   margin: 3rem 0;
   width: 6rem;
+}
+.text-translation-page .text-rendering + .text-rendering {
+  border-top: 1px solid var(--gold);
+  padding-top: 1.25rem;
 }
 .text-interlinear {
   border-bottom: 1px solid var(--hairline);
@@ -1233,11 +1271,63 @@ table.primer-ladder {
   line-height: 1.75;
   margin: .65rem 0;
 }
+.text-reading-stanza + .text-reading-stanza { margin-top: 1.35rem; }
 .text-complete-reading p.text-reading-title {
   color: var(--sage);
   font-size: 1.18rem;
   font-weight: 600;
   margin-top: 0;
+}
+.text-complete-section .text-complete-reading {
+  border-left: 2px solid var(--sage);
+}
+.text-apparatus > p {
+  color: var(--muted);
+  font-size: .9rem;
+  line-height: 1.65;
+}
+.text-apparatus > p:last-child {
+  border-top: 1px solid var(--hairline);
+  padding-top: 1rem;
+}
+.text-heart-radiance-page .text-work-opening {
+  max-width: 40rem;
+}
+.text-heart-radiance-page h3.text-verse-heading {
+  margin-top: 3.5rem;
+}
+.text-heart-radiance-page .text-interlinear {
+  border-left-color: var(--sage);
+  margin-left: 0;
+  margin-right: 0;
+}
+.text-heart-radiance-page .text-stanza {
+  padding-bottom: 1.2rem;
+  padding-top: 1.2rem;
+}
+.text-heart-radiance-page .text-phi-line {
+  font-size: 1.12rem;
+}
+.text-heart-radiance-page .text-notes {
+  margin-left: 2.25rem;
+}
+.text-sun-sprout-page h3.text-proposition-heading {
+  border-top: 1px solid var(--hairline);
+  font-size: 1.55rem;
+  margin-top: 3.5rem;
+  padding-top: .7rem;
+}
+.text-sun-sprout-page h3.text-proposition-heading .text-heading-number {
+  font-size: .62em;
+}
+.text-sun-sprout-page .text-rendering + .text-rendering {
+  border-top-width: 2px;
+}
+.text-sun-sprout-page .text-rendering + .text-rendering .text-method-heading {
+  color: var(--sage);
+}
+.text-sun-sprout-page .text-complete-reading {
+  border-left-color: var(--gold);
 }
 .text-ledger-wrap { margin: .9rem 0 2rem; }
 table.text-ledger {
@@ -1340,6 +1430,9 @@ table.text-ledger {
   .primer-ladder-grid { grid-template-columns: minmax(0, 1fr); }
   .text-reading-map ol {
     gap: 0;
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .text-translation-page .text-reading-map ol {
     grid-template-columns: minmax(0, 1fr);
   }
   .text-reading-map li + li { border-top: 1px solid var(--hairline); }
@@ -1460,6 +1553,12 @@ table.text-ledger {
     margin-right: -.55rem;
     padding-left: .75rem;
     padding-right: .75rem;
+  }
+  .text-heart-radiance-page .text-interlinear {
+    margin-left: 0;
+  }
+  .text-heart-radiance-page .text-notes {
+    margin-left: .55rem;
   }
   .text-notes {
     margin-left: .55rem;
