@@ -5137,18 +5137,21 @@ def pamphlet_ordered_list_starts(source):
     starts = []
     in_fence = False
     in_list = False
+    previous_blank = True
     for line in source.splitlines():
         if line.startswith("```"):
             in_fence = not in_fence
             in_list = False
+            previous_blank = False
             continue
         match = None if in_fence else re.match(r"^(\d+)\. ", line)
-        if match is not None:
+        if match is not None and (in_list or previous_blank):
             if not in_list:
                 starts.append(int(match.group(1)))
             in_list = True
         else:
             in_list = False
+        previous_blank = not line.strip()
     return starts
 
 
@@ -5160,6 +5163,15 @@ def pamphlet_structural_signature(source):
         + ";s"
         + (",".join(map(str, starts)) if starts else "-")
     )
+
+
+def pamphlet_default_section_level(variant):
+    """Choose the section level used by the compact workbook sources."""
+    if variant == "opening":
+        return 0
+    if variant == "exercises":
+        return 2
+    return 3
 
 
 def load_pamphlet_editorial():
@@ -5194,7 +5206,7 @@ def load_pamphlet_editorial():
             not re.fullmatch(r"[a-z0-9_]+", directory)
             or not isinstance(metadata, dict)
             or set(metadata) != {"motif"}
-            or metadata["motif"] != "ordered_slots"
+            or metadata["motif"] not in {"ordered_slots", "clause_links"}
         ):
             raise ValueError(
                 f"invalid pamphlet editorial metadata: {directory}"
@@ -5222,11 +5234,28 @@ def load_pamphlet_editorial():
     }
     for repo_path, treatment in pages.items():
         path = ROOT / repo_path
+        treatment_fields = set(treatment) if isinstance(treatment, dict) else set()
+        default_section_level = (
+            pamphlet_default_section_level(treatment.get("variant"))
+            if isinstance(treatment, dict)
+            else None
+        )
+        section_level = (
+            treatment.get("section_level", default_section_level)
+            if isinstance(treatment, dict)
+            else None
+        )
         if (
             not path.is_file()
             or not isinstance(treatment, dict)
-            or set(treatment) != {"shape", "variant"}
+            or treatment_fields
+            not in (
+                {"shape", "variant"},
+                {"section_level", "shape", "variant"},
+            )
             or treatment["variant"] not in allowed_variants
+            or section_level
+            not in ({0} if treatment["variant"] == "opening" else {2, 3})
             or treatment["shape"]
             != pamphlet_structural_signature(path.read_text(encoding="utf-8"))
         ):
@@ -5258,7 +5287,7 @@ def load_pamphlet_editorial():
 
 def pamphlet_motif(name):
     """Return the CSS-painted Lucide motif anchor for a workbook."""
-    if name != "ordered_slots":
+    if name not in {"ordered_slots", "clause_links"}:
         raise ValueError(f"unknown pamphlet motif: {name}")
     return '<div class="pamphlet-page-motif" aria-hidden="true"></div>'
 
@@ -5275,7 +5304,7 @@ def pamphlet_display_title(title, index):
     appendix_match = re.fullmatch(r"Appendix: (.+)", title)
     if appendix_match is not None:
         return "Appendix", appendix_match.group(1)
-    raise ValueError(f"pamphlet page title lacks its order label: {title}")
+    return f"Part {index}", title
 
 
 def pamphlet_contents_label(title, index):
@@ -5287,7 +5316,7 @@ def pamphlet_contents_label(title, index):
         return part_match.group(1)
     if title.startswith("Appendix: "):
         return title
-    raise ValueError(f"pamphlet contents title is invalid: {title}")
+    return title
 
 
 def pamphlet_reading_rail(directory, paths, titles, current):
@@ -5401,13 +5430,13 @@ def rename_manual_editorial_classes(body):
     )
 
 
-def apply_pamphlet_ordered_starts(body, source):
+def apply_pamphlet_ordered_starts(body, source, title):
     """Keep the source numbering when Markdown begins a list above one."""
     starts = pamphlet_ordered_list_starts(source)
     rendered = list(re.finditer(r"<ol>", body))
     if len(rendered) != len(starts):
         raise ValueError(
-            "pamphlet ordered-list count changed "
+            f"pamphlet ordered-list count changed in {title} "
             f"({len(rendered)} rendered, {len(starts)} in source)"
         )
     start_iter = iter(starts)
@@ -5450,9 +5479,8 @@ def pamphlet_section_heading(title, variant, section_number):
     return heading_id, heading
 
 
-def style_pamphlet_sections(body, variant):
+def style_pamphlet_sections(body, variant, heading_level):
     """Wrap the page's primary workbook sections without changing their text."""
-    heading_level = 2 if variant == "exercises" else 3
     pattern = re.compile(
         rf"<h{heading_level}>(.*?)</h{heading_level}>",
         flags=re.S,
@@ -5489,7 +5517,7 @@ def style_pamphlet_sections(body, variant):
         content = body[match.end():end]
         if variant == "exercises" and answer_section:
             content = re.sub(
-                r"<h3>(Part [A-F])</h3>",
+                r"<h3>(Part [A-Z](?:: .*?)?)</h3>",
                 r'<h3 class="pamphlet-answer-part">'
                 r"<span>Answers</span>\1</h3>",
                 content,
@@ -5499,6 +5527,39 @@ def style_pamphlet_sections(body, variant):
             f'aria-labelledby="{heading_id}">{heading}{content}</section>'
         )
     return "".join(result)
+
+
+def style_pamphlet_answer_glosses(body):
+    """Separate Phi and gloss lines in legacy interlinear answer items."""
+    gloss_marker = re.compile(
+        r"(?:^| )(?:[123]SG|PL|PST|FUT|NEG|REL|"
+        r"[A-Z]+(?:\.[A-Z]+)+)(?: |$)"
+    )
+
+    def split_item(match):
+        phi, gloss = match.groups()
+        plain_gloss = html_module.unescape(gloss).strip()
+        if gloss_marker.search(plain_gloss) is None:
+            return match.group(0)
+        return (
+            '<li class="pamphlet-answer-interlinear">'
+            f'<span class="pamphlet-answer-phi">{phi}</span>'
+            f'<span class="pamphlet-answer-gloss">{gloss.strip()}</span>'
+            "</li>"
+        )
+
+    return re.sub(
+        r'<section class="[^"]*\bpamphlet-answer-section\b[^"]*"'
+        r"[^>]*>.*?</section>",
+        lambda section: re.sub(
+            r'<li>(<code class="phi-inline"[^>]*>.*?</code>)\s+'
+            r"([^<]+)</li>",
+            split_item,
+            section.group(0),
+        ),
+        body,
+        flags=re.S,
+    )
 
 
 def style_pamphlet_opening(body, directory, paths, titles):
@@ -5553,14 +5614,18 @@ def style_pamphlet_opening(body, directory, paths, titles):
         + body[contents_match.end():]
     )
     body, outcome_count = re.subn(
-        r"<p>(By the end of this pamphlet, you will be able to:)</p>\s*<ul>",
-        r'<div class="pamphlet-outcomes"><p>\1</p><ul>',
+        r"<p>(By the end of this pamphlet, you will be able to:)</p>\s*"
+        r"(<ul>.*?</ul>)",
+        r'<div class="pamphlet-outcomes"><p>\1</p>\2</div>',
         body,
         count=1,
+        flags=re.S,
     )
-    if outcome_count != 1:
+    if (
+        "By the end of this pamphlet, you will be able to:" in body
+        and outcome_count != 1
+    ):
         raise ValueError("pamphlet opening outcome boundary changed")
-    body = body.replace("</ul>", "</ul></div>", 1)
     body = re.sub(
         r"<p><em>(.*?)</em></p>\s*$",
         r'<p class="pamphlet-closing-note">\1</p>',
@@ -5609,7 +5674,19 @@ def apply_pamphlet_editorial(
     body = mark_manual_inline_phi(body)
     body = style_pamphlet_tables(body, title)
     body = style_pamphlet_examples(body)
-    body = apply_pamphlet_ordered_starts(body, source)
+    body = apply_pamphlet_ordered_starts(body, source, title)
+    if treatment["variant"] == "exercises":
+        answer_key_count = body.count("<h1>Answer key</h1>")
+        if answer_key_count > 1:
+            raise ValueError("pamphlet exercises have multiple answer keys")
+        if answer_key_count == 1:
+            before_key, after_key = body.split("<h1>Answer key</h1>")
+            after_key = re.sub(
+                r"<h2>(Part [A-Z](?:: .*?)?)</h2>",
+                r"<h3>\1</h3>",
+                after_key,
+            )
+            body = before_key + "<h2>Answer key</h2>" + after_key
     body = re.sub(
         r"<p>",
         '<p class="pamphlet-page-lede">',
@@ -5617,7 +5694,17 @@ def apply_pamphlet_editorial(
         count=1,
     )
     if treatment["variant"] != "opening":
-        body = style_pamphlet_sections(body, treatment["variant"])
+        section_level = treatment.get(
+            "section_level",
+            pamphlet_default_section_level(treatment["variant"]),
+        )
+        body = style_pamphlet_sections(
+            body,
+            treatment["variant"],
+            section_level,
+        )
+        if treatment["variant"] == "exercises":
+            body = style_pamphlet_answer_glosses(body)
 
     motif = PAMPHLET_GROUPS[pamphlet["directory"]]["motif"]
     position = f"Reading {index + 1} of {len(paths)}"

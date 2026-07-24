@@ -4261,12 +4261,12 @@ table.text-ledger {
   mask-size: contain;
   width: 3.6rem;
 }
-.pamphlet-page-motif::before {
+.pamphlet-ordered-slots-page .pamphlet-page-motif::before {
   --pamphlet-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2024%2024%27%20fill%3D%27none%27%20stroke%3D%27black%27%20stroke-linecap%3D%27round%27%20stroke-linejoin%3D%27round%27%20stroke-width%3D%271.25%27%3E%3Cpath%20d%3D%27m12.83%202.18a2%202%200%200%200-1.66%200L2.6%206.08a1%201%200%200%200%200%201.83l8.58%203.91a2%202%200%200%200%201.66%200l8.58-3.9a1%201%200%200%200%200-1.83z%27%2F%3E%3Cpath%20d%3D%27m22%2012.5-9.17%204.17a2%202%200%200%201-1.66%200L2%2012.5%27%2F%3E%3Cpath%20d%3D%27m22%2017.5-9.17%204.17a2%202%200%200%201-1.66%200L2%2017.5%27%2F%3E%3C%2Fsvg%3E");
   -webkit-mask-image: var(--pamphlet-icon);
   mask-image: var(--pamphlet-icon);
 }
-.pamphlet-page-motif::after {
+.pamphlet-ordered-slots-page .pamphlet-page-motif::after {
   --pamphlet-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2024%2024%27%20fill%3D%27none%27%20stroke%3D%27black%27%20stroke-linecap%3D%27round%27%20stroke-linejoin%3D%27round%27%20stroke-width%3D%271.25%27%3E%3Cpath%20d%3D%27m3%207%202%202%204-4%27%2F%3E%3Cpath%20d%3D%27m3%2017%202%202%204-4%27%2F%3E%3Cpath%20d%3D%27M13%206h8%27%2F%3E%3Cpath%20d%3D%27M13%2012h8%27%2F%3E%3Cpath%20d%3D%27M13%2018h8%27%2F%3E%3C%2Fsvg%3E");
   background: var(--gold);
   height: 2.5rem;
@@ -4274,6 +4274,29 @@ table.text-ledger {
   -webkit-mask-image: var(--pamphlet-icon);
   mask-image: var(--pamphlet-icon);
   width: 2.5rem;
+}
+.pamphlet-clause-links-page .pamphlet-page-motif::before {
+  --pamphlet-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2024%2024%27%20fill%3D%27none%27%20stroke%3D%27black%27%20stroke-linecap%3D%27round%27%20stroke-linejoin%3D%27round%27%20stroke-width%3D%271.25%27%3E%3Cpath%20d%3D%27M8%203H5v18h3%27%2F%3E%3Cpath%20d%3D%27M16%2021h3V3h-3%27%2F%3E%3C%2Fsvg%3E");
+  -webkit-mask-image: var(--pamphlet-icon);
+  mask-image: var(--pamphlet-icon);
+}
+.pamphlet-clause-links-page .pamphlet-page-motif::after {
+  --pamphlet-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2024%2024%27%20fill%3D%27none%27%20stroke%3D%27black%27%20stroke-linecap%3D%27round%27%20stroke-linejoin%3D%27round%27%20stroke-width%3D%271.25%27%3E%3Ccircle%20cx%3D%2718%27%20cy%3D%2718%27%20r%3D%273%27%2F%3E%3Ccircle%20cx%3D%276%27%20cy%3D%276%27%20r%3D%273%27%2F%3E%3Cpath%20d%3D%27M6%2021V9a9%209%200%200%200%209%209%27%2F%3E%3C%2Fsvg%3E");
+  background: var(--gold);
+  height: 2.5rem;
+  margin-left: -.35rem;
+  -webkit-mask-image: var(--pamphlet-icon);
+  mask-image: var(--pamphlet-icon);
+  width: 2.5rem;
+}
+.pamphlet-clause-links-page .pamphlet-progress span {
+  background: var(--gold);
+}
+.pamphlet-clause-links-page .pamphlet-reading-rail a.current {
+  box-shadow: inset 0 -2px var(--sage);
+}
+.pamphlet-clause-links-page .pamphlet-section-title > span {
+  color: var(--sage);
 }
 .pamphlet-progress {
   background: var(--hairline);
@@ -4452,6 +4475,7 @@ table.text-ledger {
   border-left: 2px solid var(--gold);
   margin-bottom: 1.1rem;
   margin-top: 1rem;
+  overflow-x: auto;
   padding: .75rem 1rem;
 }
 .pamphlet-example-set .pamphlet-example {
@@ -4512,6 +4536,20 @@ table.text-ledger {
   font-family: var(--sans);
   font-size: .62rem;
   font-weight: 650;
+}
+.pamphlet-answer-interlinear {
+  padding-bottom: .2rem;
+}
+.pamphlet-answer-phi,
+.pamphlet-answer-gloss {
+  display: block;
+}
+.pamphlet-answer-gloss {
+  color: var(--muted);
+  font-family: var(--ipa);
+  font-size: .76rem;
+  line-height: 1.45;
+  margin-top: .18rem;
 }
 .pamphlet-opening-page .pamphlet-work { max-width: 52rem; }
 .pamphlet-opening-page .pamphlet-page-lede { max-width: 44rem; }
