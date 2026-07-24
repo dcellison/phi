@@ -852,6 +852,12 @@ table.primer-ladder {
   font-size: .78em;
   overflow-wrap: anywhere;
 }
+.manual-editorial a code:not(.phi-inline) {
+  font-size: .78em;
+  overflow-wrap: anywhere;
+  white-space: normal;
+  word-break: break-word;
+}
 
 /* --- opt-in literary anthology treatment (site/texts_editorial.json) --- */
 .text-editorial main {
@@ -2459,6 +2465,9 @@ table.text-ledger {
 .manual-first-light-page .manual-page-motif svg + svg { color: var(--sage); }
 .manual-spoken-sound-page .manual-page-motif { color: var(--muted); }
 .manual-spoken-sound-page .manual-page-motif svg + svg { color: var(--sage); }
+.manual-woven-thoughts-page .manual-page-motif svg + svg { color: var(--muted); }
+.manual-lived-practice-page .manual-page-motif { color: var(--gold); }
+.manual-lived-practice-page .manual-page-motif svg + svg { color: var(--sage); }
 .manual-page-opening,
 .manual-unsectioned-copy {
   min-width: 0;
@@ -2519,12 +2528,13 @@ table.text-ledger {
   text-decoration: none;
 }
 .manual-page-map a:hover { color: var(--sage); }
-.manual-page-map a span {
+.manual-map-number {
   color: var(--gold);
   font-family: var(--sans);
   font-size: .7rem;
   font-weight: 650;
 }
+.manual-map-title { min-width: 0; }
 .manual-reference-section {
   margin-top: 2.8rem;
   scroll-margin-top: 1rem;
@@ -2551,10 +2561,32 @@ table.text-ledger {
   font-size: .55em;
   font-weight: 650;
 }
+.manual-editorial h2.manual-step-title {
+  align-items: start;
+  grid-template-columns: 3rem minmax(0, 1fr);
+}
+.manual-step-number {
+  color: var(--gold);
+  display: flex;
+  flex-direction: column;
+  font-family: var(--sans);
+  font-size: .72em;
+  font-weight: 650;
+  line-height: 1;
+  padding-top: .08rem;
+}
+.manual-step-number small {
+  color: var(--muted);
+  font-size: .52em;
+  font-weight: 650;
+  margin-bottom: .18rem;
+}
 .manual-reference-section > p,
 .manual-reference-section > .manual-table-wrap,
 .manual-reference-section > .manual-example,
+.manual-reference-section > .manual-example-set,
 .manual-reference-section > .manual-pattern,
+.manual-reference-section > .manual-syntax-formula,
 .manual-reference-section > .manual-code-sample,
 .manual-reference-section > ul,
 .manual-reference-section > ol,
@@ -2654,6 +2686,19 @@ table.text-ledger {
   margin-top: 1rem;
   padding: .75rem 1rem .8rem;
 }
+.manual-example-set {
+  background: var(--paper-raised);
+  border-left: 2px solid var(--sage);
+  margin-bottom: 1.35rem;
+  margin-top: 1rem;
+}
+.manual-example-set .manual-example {
+  background: transparent;
+  border-bottom: 1px solid var(--hairline);
+  border-left: 0;
+  margin: 0;
+}
+.manual-example-set .manual-example:last-child { border-bottom: 0; }
 .manual-example p { margin: 0; }
 .manual-example-phi {
   color: var(--ink);
@@ -2696,6 +2741,22 @@ table.text-ledger {
   overflow-x: auto;
   padding: .75rem 1rem;
   white-space: pre-wrap;
+}
+.manual-syntax-formula {
+  background: var(--paper-raised);
+  border-bottom: 1px solid var(--hairline);
+  border-top: 2px solid var(--sage);
+  margin-bottom: 1.35rem;
+  margin-top: 1rem;
+  padding: .8rem 1rem;
+}
+.manual-syntax-formula code {
+  background: transparent;
+  color: var(--ink);
+  font-family: var(--ipa);
+  font-size: .98rem;
+  overflow-wrap: anywhere;
+  padding: 0;
 }
 .manual-dialogue {
   border-bottom: 1px solid var(--hairline);
@@ -3139,7 +3200,9 @@ table.text-ledger {
   .manual-reference-section > p,
   .manual-reference-section > .manual-table-wrap,
   .manual-reference-section > .manual-example,
+  .manual-reference-section > .manual-example-set,
   .manual-reference-section > .manual-pattern,
+  .manual-reference-section > .manual-syntax-formula,
   .manual-reference-section > .manual-code-sample,
   .manual-reference-section > ul,
   .manual-reference-section > ol,
@@ -3149,6 +3212,9 @@ table.text-ledger {
   .manual-editorial h2.manual-section-title {
     font-size: 1.25rem;
     grid-template-columns: 1.8rem minmax(0, 1fr);
+  }
+  .manual-editorial h2.manual-step-title {
+    grid-template-columns: 2.6rem minmax(0, 1fr);
   }
   .manual-editorial h3.manual-subsection-title {
     font-size: 1rem;
@@ -3195,6 +3261,15 @@ table.text-ledger {
     margin-right: -.55rem;
     padding-left: .75rem;
     padding-right: .75rem;
+  }
+  .manual-example-set,
+  .manual-syntax-formula {
+    margin-left: -.55rem;
+    margin-right: -.55rem;
+  }
+  .manual-example-set .manual-example {
+    margin-left: 0;
+    margin-right: 0;
   }
   .manual-code-sample,
   .manual-editorial blockquote {
@@ -3657,7 +3732,9 @@ table.text-ledger {
   .manual-editorial h3.manual-subsection-title { break-after: avoid; }
   .manual-table-wrap,
   .manual-example,
+  .manual-example-set,
   .manual-pattern,
+  .manual-syntax-formula,
   .manual-code-sample,
   .manual-dialogue,
   .manual-editorial blockquote { break-inside: avoid; }
@@ -3691,7 +3768,14 @@ table.text-ledger {
     width: auto;
   }
   .manual-reference-table td::before { display: none; }
-  .manual-example { background: none; }
+  .manual-example,
+  .manual-example-set,
+  .manual-syntax-formula { background: none; }
+  .manual-example-set {
+    margin-left: 3em;
+    margin-right: 0;
+  }
+  .manual-page-opening > .manual-example-set { margin-left: 0; }
   .manual-code-sample,
   .manual-editorial blockquote { background: none; }
   .manual-dialogue-turn { break-inside: avoid; }

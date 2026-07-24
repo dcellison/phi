@@ -2,7 +2,10 @@
   "complete_parts": [
     "part1_first_light",
     "part2_soul",
-    "part3_phonology"
+    "part3_phonology",
+    "part4_grammar",
+    "part5_complex",
+    "part6_mastery"
   ],
   "parts": {
     "part1_first_light": {
@@ -16,6 +19,12 @@
     },
     "part4_grammar": {
       "motif": "ordered_layers"
+    },
+    "part5_complex": {
+      "motif": "woven_thoughts"
+    },
+    "part6_mastery": {
+      "motif": "lived_practice"
     }
   },
   "pages": {
@@ -175,10 +184,367 @@
       "shape": "h1,2;t-;f-;q-;u-;o-;r0",
       "variant": "standard"
     },
+    "manual/part4_grammar/ch09_particle_system/01_introduction.md": {
+      "shape": "h1,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch09_particle_system/02_three_slots_explained.md": {
+      "shape": "h1,2,2,2,2;t3x5;f-;q-;u5,6,5;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch09_particle_system/03_slot_0_framing.md": {
+      "shape": "h1,2,2,2,2,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch09_particle_system/04_slot_1_verb_phrase.md": {
+      "shape": "h1,2,2,2,2,2,2,2;t-;f-;q-;u5,4;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch09_particle_system/05_slot_2_word_level.md": {
+      "shape": "h1,2,2,2,2,2,2,2,2,2,2;t-;f-;q-;u3;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch09_particle_system/06_combining_particles.md": {
+      "shape": "h1,2,2,2,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch10_mindful_sentence/01_introduction.md": {
+      "shape": "h1;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch10_mindful_sentence/02_sov_worldview.md": {
+      "shape": "h1,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch10_mindful_sentence/03_modifier_first_principle.md": {
+      "shape": "h1,2,2;t-;f-;q-;u3,3;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch10_mindful_sentence/04_building_sentences.md": {
+      "shape": "h1,2,2,2,2,2;t4x2;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch10_mindful_sentence/05_questions_requests_conditions.md": {
+      "shape": "h1,2,2,2,2;t-;f3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch10_mindful_sentence/06_exercises.md": {
+      "shape": "h1,2,2,2,2,2,2,2,2;t-;f-;q-;u3,3,4,2,4;o6,3,3,3,2,3,6,3,3,3,3,2,3,6;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch11_nouns/01_introduction.md": {
+      "shape": "h1,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch11_nouns/02_zero_article_system.md": {
+      "shape": "h1,2,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch11_nouns/03_plural_marking.md": {
+      "shape": "h1,2,2,2,2,2,2;t3x6,2x8,3x7;f3,3,7;q-;u4;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch11_nouns/04_classifier_system.md": {
+      "shape": "h1,2,2,3,3,3,3,2,2,2;t3x4,3x4;f3,3,3,7;q-;u4;o-;r0",
+      "variant": "standard"
+    },
     "manual/part4_grammar/ch11_nouns/05_descriptors_and_quantifiers.md": {
       "shape": "h1,2,2,2,2,2,2;t3x3,3x10,3x2;f3,3;q-;u-;o-;r0",
       "variant": "ordered_reference",
       "pattern": "[Possessor] [Quantifier] [Deictic] [Number or lo] [Classifier] [Descriptors] [Noun]"
+    },
+    "manual/part4_grammar/ch11_nouns/06_expressing_possession.md": {
+      "shape": "h1,2,2,2,2;t3x4,3x3;f3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch11_nouns/07_the_words_of_color.md": {
+      "shape": "h1,2,2,2;t3x7;f3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch11_nouns/08_the_words_of_place.md": {
+      "shape": "h1,2,2,2,2;t3x4,3x7;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch11_nouns/09_the_words_of_the_body.md": {
+      "shape": "h1,2,2,2,2,2,2;t2x16,2x17,2x11,2x9,2x5,3x2,3x5;f3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch11_nouns/10_the_words_of_the_heart.md": {
+      "shape": "h1,2,2,2,2;t2x5,2x14;f3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch11_nouns/11_the_words_of_the_arts.md": {
+      "shape": "h1,2,2,2,2,2;t-;f3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch11_nouns/12_the_words_of_the_exchange.md": {
+      "shape": "h1,2,2,2,2,2;t-;f3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch12_numbers/01_the_ternary_foundation.md": {
+      "shape": "h1;t2x3,2x4;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch12_numbers/02_building_numbers.md": {
+      "shape": "h1;t3x7;f-;q-;u-;o-;r0",
+      "variant": "standard",
+      "table_headers": [
+        "Number",
+        "Phi",
+        "Reading"
+      ]
+    },
+    "manual/part4_grammar/ch12_numbers/03_approximation.md": {
+      "shape": "h1;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch12_numbers/04_position_and_kind.md": {
+      "shape": "h1,2,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch12_numbers/05_conscious_calculation.md": {
+      "shape": "h1;t3x5;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch13_pronouns/01_core_pronouns.md": {
+      "shape": "h1,2,2,2,2,2;t3x3,3x4;f3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch13_pronouns/02_forming_plurals.md": {
+      "shape": "h1,2,2;t3x3;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch13_pronouns/03_reflexive_miso.md": {
+      "shape": "h1,2,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch13_pronouns/04_reciprocal_wiso.md": {
+      "shape": "h1,2,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch13_pronouns/05_deixis.md": {
+      "shape": "h1,2,2,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch14_verbs_time/01_introduction.md": {
+      "shape": "h1,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch14_verbs_time/02_past_to.md": {
+      "shape": "h1,2,2;t3x6;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch14_verbs_time/03_future_so.md": {
+      "shape": "h1,2,2;t3x3;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch14_verbs_time/04_aspect.md": {
+      "shape": "h1,2,2,2,2,2;t4x5;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch14_verbs_time/05_combining_tense_aspect.md": {
+      "shape": "h1,2,2,2;t3x10;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch14_verbs_time/06_event_nouns.md": {
+      "shape": "h1,2,2;t3x5;f3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch14_verbs_time/07_the_words_of_time.md": {
+      "shape": "h1,2,2,2,2,2,2,2,2;t3x8;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch14_verbs_time/08_the_turning_of_a_life.md": {
+      "shape": "h1,2,2,2,2,2,2;t-;f3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch15_voice_possibility/01_the_passive_se.md": {
+      "shape": "h1,2,2;t2x4;f3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch15_voice_possibility/02_the_causative_ka.md": {
+      "shape": "h1,2,2;t2x4;f3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch15_voice_possibility/03_possibility_po.md": {
+      "shape": "h1,2,2,2;t2x4;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch15_voice_possibility/04_necessity_na.md": {
+      "shape": "h1,2,2,2;t2x4;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch15_voice_possibility/05_negation_ma.md": {
+      "shape": "h1,2,2,2,2;t2x4;f3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch16_evidentiality/01_introduction.md": {
+      "shape": "h1,2,2;t3x4;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch16_evidentiality/02_direct_hi.md": {
+      "shape": "h1,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch16_evidentiality/03_inferential_ke.md": {
+      "shape": "h1,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch16_evidentiality/04_reportative_ti.md": {
+      "shape": "h1,2,2;t-;f3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch16_evidentiality/05_assumptive_ho.md": {
+      "shape": "h1,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part4_grammar/ch16_evidentiality/06_why_evidentiality_matters.md": {
+      "shape": "h1,2,2,2;t3x4;f3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part5_complex/ch17_coordination/01_simple_conjunction.md": {
+      "shape": "h1,2,2,2,2;t-;f3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part5_complex/ch17_coordination/02_contrast.md": {
+      "shape": "h1,2,2;t-;f3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part5_complex/ch17_coordination/03_alternative.md": {
+      "shape": "h1,2,2;t-;f3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part5_complex/ch17_coordination/04_addition_we.md": {
+      "shape": "h1,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part5_complex/ch18_discourse/01_introduction.md": {
+      "shape": "h1,2,2;t-;f3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part5_complex/ch18_discourse/02_consequence_and_contrast.md": {
+      "shape": "h1,2,2,2;t-;f3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part5_complex/ch18_discourse/03_addition_and_example.md": {
+      "shape": "h1,2,2,2;t3x2;f3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part5_complex/ch18_discourse/04_precision.md": {
+      "shape": "h1,2,2,2,2;t4x7;f3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part5_complex/ch19_subordinate_clauses/01_introduction.md": {
+      "shape": "h1,2,2;t-;f3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part5_complex/ch19_subordinate_clauses/02_complement_clauses.md": {
+      "shape": "h1,2,3,2,2;t-;f3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part5_complex/ch19_subordinate_clauses/03_speech.md": {
+      "shape": "h1,2,2,2;t-;f3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part5_complex/ch19_subordinate_clauses/04_adverbial_clauses.md": {
+      "shape": "h1,2,2,2,2,2,2;t4x5;f3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part5_complex/ch20_relative_clauses/01_introduction.md": {
+      "shape": "h1,2,2;t-;f3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part5_complex/ch20_relative_clauses/02_relativizer_rena.md": {
+      "shape": "h1,2,2,2,2;t-;f1,3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part5_complex/ch20_relative_clauses/03_headed_relative_clauses.md": {
+      "shape": "h1,2,2,3,3,3,2,2,2;t-;f3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part5_complex/ch20_relative_clauses/04_headless_relative_clauses.md": {
+      "shape": "h1,2,2,2,2;t-;f3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch21_social_context/01_the_vocative_kona.md": {
+      "shape": "h1,2,2;t-;f3,7;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch21_social_context/02_politeness_pi.md": {
+      "shape": "h1,2,2,2;t-;f7;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch21_social_context/03_the_honorific_system.md": {
+      "shape": "h1,2,2,2;t3x3;f11;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch21_social_context/04_register_and_formality.md": {
+      "shape": "h1,2,3,3,3,3,3,2;t-;f7,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch21_social_context/05_when_to_use_what.md": {
+      "shape": "h1,2,2,2,2,2;t-;f7,7,7;q-;u4;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch22_transmutation/01_introduction.md": {
+      "shape": "h1;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch22_transmutation/02_the_process.md": {
+      "shape": "h1,2,2,2,2,2,2,3,3,3,3,3,2;t-;f1;q-;u3;o3;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch22_transmutation/03_case_study_anger.md": {
+      "shape": "h1,2,2,2,2,2;t-;f11,3;q1;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch22_transmutation/04_case_study_news.md": {
+      "shape": "h1,2,2,2,2;t-;f15,3;q1;u6;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch22_transmutation/05_case_study_poetry.md": {
+      "shape": "h1,2,2,2,2,2,2;t-;f11,11;q2;u4;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch22_transmutation/06_practice.md": {
+      "shape": "h1,2,2,2,2,2,2;t-;f-;q1,1;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch23_living_in_phi/01_daily_practice.md": {
+      "shape": "h1,2,2,2,2,2;t-;f3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch23_living_in_phi/02_journaling.md": {
+      "shape": "h1,2,2,2,2;t-;f7;q-;u-;o3;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch23_living_in_phi/03_meditation.md": {
+      "shape": "h1,2,2,2;t-;f11,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch23_living_in_phi/04_community.md": {
+      "shape": "h1,2,2,2;t-;f-;q-;u3;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch23_living_in_phi/05_the_ongoing_journey.md": {
+      "shape": "h1,2,2,2;t-;f11;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch24_source_material/01_where_source_material_lives.md": {
+      "shape": "h1;t2x5;f3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch24_source_material/02_names_across_languages.md": {
+      "shape": "h1;t-;f3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch24_source_material/03_exact_records_and_technical_material.md": {
+      "shape": "h1;t-;f3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part6_mastery/ch24_source_material/04_translation_and_responsibility.md": {
+      "shape": "h1;t-;f3,3;q-;u-;o-;r0",
+      "variant": "standard"
     }
   }
 }
