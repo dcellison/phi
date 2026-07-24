@@ -212,10 +212,11 @@ landing = f"""<!doctype html>
 (BUILD_SITE / "index.html").write_text(landing)
 print(f"wrote build/site/index.html from kia.md ({len(body.splitlines())} blocks)")
 
-# ---- colophon: colophon.md rendered to build/site/colophon.html ----
+# ---- colophon: colophon.md rendered after the manual treatment is loaded ----
 
-colophon_body = md_to_html((ROOT / "colophon.md").read_text())
-colophon_page = f"""<!DOCTYPE html>
+def colophon_page(body):
+    """Render the root colophon with the same treatment as its manual copy."""
+    return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -225,10 +226,10 @@ colophon_page = f"""<!DOCTYPE html>
 <script src="theme.js"></script>
 <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body class="landing primer manual-editorial manual-reference-page manual-makers-mark-page manual-maker-note-variant">
 <nav class="topnav"><a href="index.html">kia</a> <span class="sep">&middot;</span> <a href="short_road.html">walk</a> <span class="sep">&middot;</span> <a href="primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="book/index.html">book</a> <span class="sep">&middot;</span> <a href="manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="pamphlets/index.html">pamphlets</a> <span class="sep">&middot;</span> <a href="texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="explore.html">lexicon</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>
 <main>
-{colophon_body}
+<article class="manual-work">{body}</article>
 </main>
 <footer>
   <p>Signed at the end, in the old way. This page is colophon.md, rendered from
@@ -237,8 +238,6 @@ colophon_page = f"""<!DOCTYPE html>
 </body>
 </html>
 """
-(BUILD_SITE / "colophon.html").write_text(colophon_page)
-print("wrote build/site/colophon.html from colophon.md")
 
 # ---- the short road: short_road.md rendered to build/site/short_road.html ----
 
@@ -403,16 +402,50 @@ def add_gloss_popovers(html):
         rows = re.findall(r"<tr>(.*?)</tr>", table, re.S)
         if not rows or "Explanation" not in rows[0]:
             return table
-        out = ["<table class=\"gloss-table\">"]
-        out.append("<tr>" + "".join(f"<th>{c}</th>" for c in
-                    re.findall(r"<th>(.*?)</th>", rows[0], re.S)[:3]) + "</tr>")
+        headers = re.findall(r"<th>(.*?)</th>", rows[0], re.S)
+        if len(headers) != 4:
+            raise ValueError("Appendix A gloss table requires four columns")
+        visible_headers = headers[:3]
+        plain_headers = [
+            html_module.unescape(re.sub(r"<[^>]+>", "", header))
+            for header in visible_headers
+        ]
+        out = [
+            '<div class="manual-table-wrap manual-table-dense '
+            'manual-gloss-table-wrap">',
+            '<table class="manual-reference-table gloss-table">',
+        ]
+        out.append(
+            "<tr>"
+            + "".join(
+                f'<th scope="col">{header}</th>'
+                for header in visible_headers
+            )
+            + "</tr>"
+        )
         for row in rows[1:]:
             cells = re.findall(r"<td>(.*?)</td>", row, re.S)
-            first = (f'{cells[0]} <span class="glossmark" aria-hidden="true">&#9432;</span>'
-                     f'<span class="gloss-pop">{cells[3]}</span>')
-            out.append(f'<tr class="gloss-row" tabindex="0">'
-                        f'<td>{first}</td><td>{cells[1]}</td><td>{cells[2]}</td></tr>')
-        out.append("</table>")
+            if len(cells) != 4:
+                raise ValueError("Appendix A gloss table has an uneven row")
+            first = (
+                f'{cells[0]} <span class="glossmark" '
+                'aria-hidden="true">&#9432;</span>'
+                f'<span class="gloss-pop">{cells[3]}</span>'
+            )
+            visible_cells = [first, cells[1], cells[2]]
+            out.append(
+                '<tr class="gloss-row" tabindex="0">'
+                + "".join(
+                    '<td data-label="'
+                    + html_module.escape(plain_headers[index], quote=True)
+                    + '"><span class="manual-table-value">'
+                    + cell
+                    + "</span></td>"
+                    for index, cell in enumerate(visible_cells)
+                )
+                + "</tr>"
+            )
+        out.extend(("</table>", "</div>"))
         return "".join(out)
     return re.sub(r"<table>.*?</table>", do_table, html, flags=re.S)
 
@@ -1237,6 +1270,7 @@ def manual_page(
     footer_nav="",
     editorial_kind=None,
     editorial_motif=None,
+    editorial_variant=None,
 ):
     body_class = "landing primer"
     main_body = body
@@ -1247,6 +1281,9 @@ def manual_page(
         if editorial_motif is not None:
             motif_class = editorial_motif.replace("_", "-")
             body_class += f" manual-{motif_class}-page"
+        if editorial_variant is not None:
+            variant_class = editorial_variant.replace("_", "-")
+            body_class += f" manual-{variant_class}-variant"
         main_body = f'<article class="manual-work">{body}</article>'
     return f"""<!doctype html>
 <html lang="en">
@@ -1307,6 +1344,16 @@ def slug(path):
         return path.stem + ".html"
     rel = path.relative_to(MANUAL_SRC)
     return str(rel.with_suffix("")).replace("/", "__") + ".html"
+
+
+def manual_editorial_group(repo_path):
+    """Map a rendered manual source to its motif and coverage group."""
+    parts = Path(repo_path).parts
+    if len(parts) >= 3 and parts[0] == "manual":
+        return parts[1]
+    if parts == ("colophon.md",):
+        return "colophon"
+    raise ValueError(f"unknown manual editorial group: {repo_path}")
 
 
 MANUAL_SITE_PATHS = {path.resolve(): slug(path) for _, _, path in sections}
@@ -1401,25 +1448,25 @@ def manual_structural_signature(source):
 
 
 def load_manual_editorial():
-    """Load treated manual parts and pin each page's block structure."""
+    """Load treated manual groups and pin each page's block structure."""
     config_path = SITE_SRC / "manual_editorial.json"
     config = json.loads(config_path.read_text(encoding="utf-8"))
-    if set(config) != {"complete_parts", "parts", "pages"}:
+    if set(config) != {"complete_groups", "groups", "pages"}:
         raise ValueError(
-            "site/manual_editorial.json requires complete_parts, parts, and pages"
+            "site/manual_editorial.json requires complete_groups, groups, and pages"
         )
-    complete_parts = config["complete_parts"]
-    parts = config["parts"]
+    complete_groups = config["complete_groups"]
+    groups = config["groups"]
     pages = config.get("pages")
     if (
-        not isinstance(complete_parts, list)
-        or len(complete_parts) != len(set(complete_parts))
-        or not isinstance(parts, dict)
+        not isinstance(complete_groups, list)
+        or len(complete_groups) != len(set(complete_groups))
+        or not isinstance(groups, dict)
         or not isinstance(pages, dict)
         or not pages
     ):
         raise ValueError(
-            "manual editorial coverage, parts, and pages must be valid collections"
+            "manual editorial coverage, groups, and pages must be valid collections"
         )
     allowed_motifs = {
         "first_light",
@@ -1428,22 +1475,27 @@ def load_manual_editorial():
         "ordered_layers",
         "woven_thoughts",
         "lived_practice",
+        "open_reference",
+        "indexed_notes",
+        "makers_mark",
     }
-    for part_key, part in parts.items():
+    for group_key, group in groups.items():
         if (
-            not re.fullmatch(r"part\d+_[a-z0-9_]+", part_key)
-            or not isinstance(part, dict)
-            or set(part) != {"motif"}
-            or part["motif"] not in allowed_motifs
+            not re.fullmatch(
+                r"(?:part\d+_[a-z0-9_]+|appendices|colophon)",
+                group_key,
+            )
+            or not isinstance(group, dict)
+            or set(group) != {"motif"}
+            or group["motif"] not in allowed_motifs
         ):
-            raise ValueError(f"invalid manual editorial part: {part_key}")
-    if any(part not in parts for part in complete_parts):
-        raise ValueError("every complete manual part requires part metadata")
+            raise ValueError(f"invalid manual editorial group: {group_key}")
+    if any(group not in groups for group in complete_groups):
+        raise ValueError("every complete manual group requires group metadata")
 
     rendered_paths = {
         path.relative_to(ROOT).as_posix()
         for _, _, path in sections
-        if MANUAL_SRC in path.parents
     }
     configured_paths = set(pages)
     if not configured_paths <= rendered_paths:
@@ -1454,20 +1506,20 @@ def load_manual_editorial():
     expected_complete = {
         repo_path
         for repo_path in rendered_paths
-        if Path(repo_path).parts[1] in complete_parts
+        if manual_editorial_group(repo_path) in complete_groups
     }
     missing = expected_complete - configured_paths
     if missing:
         raise ValueError(
-            "complete manual parts have untreated pages: "
+            "complete manual groups have untreated pages: "
             + ", ".join(sorted(missing))
         )
 
     for repo_path, treatment in pages.items():
         source_path = ROOT / repo_path
-        part_key = Path(repo_path).parts[1]
+        group_key = manual_editorial_group(repo_path)
         if (
-            part_key not in parts
+            group_key not in groups
             or not source_path.is_file()
             or not isinstance(treatment, dict)
         ):
@@ -1476,6 +1528,8 @@ def load_manual_editorial():
         required = {"shape", "variant"}
         if variant == "ordered_reference":
             required.add("pattern")
+        if variant == "glossary":
+            required.add("definition_count")
         optional = {"table_headers"}
         treatment_keys = set(treatment)
         if (
@@ -1487,7 +1541,16 @@ def load_manual_editorial():
                 + ", ".join(sorted(required))
                 + " and permits table_headers"
             )
-        if variant not in {"standard", "conversation", "ordered_reference"}:
+        if variant not in {
+            "standard",
+            "conversation",
+            "ordered_reference",
+            "directory",
+            "module_guide",
+            "glossary",
+            "appendix",
+            "maker_note",
+        }:
             raise ValueError(f"unknown manual editorial variant: {variant}")
         source = source_path.read_text(encoding="utf-8")
         table_headers = treatment.get("table_headers")
@@ -1501,6 +1564,13 @@ def load_manual_editorial():
         ):
             raise ValueError(
                 f"manual editorial table headers are invalid: {repo_path}"
+            )
+        if variant == "glossary" and (
+            not isinstance(treatment["definition_count"], int)
+            or treatment["definition_count"] < 1
+        ):
+            raise ValueError(
+                f"manual editorial glossary count is invalid: {repo_path}"
             )
         if treatment["shape"] != manual_structural_signature(source):
             raise ValueError(
@@ -1516,7 +1586,7 @@ def load_manual_editorial():
             raise ValueError(
                 f"manual editorial conversation boundaries changed: {repo_path}"
             )
-    return parts, pages
+    return groups, pages
 
 
 def manual_motif(name):
@@ -1592,6 +1662,38 @@ def manual_motif(name):
     <path d="M9.5 9.4c1.1.8 1.8 2.2 2.3 3.7-2 .4-3.5 0-4.6-.7-1.1-.8-1.8-2.2-2.3-3.7 2-.4 3.5 0 4.6.7z"/>
     <path d="M14.1 6a7 7 0 0 0-1.9 2.8c1.7.3 3.1 0 4.1-.7 1-.7 1.6-1.9 2-3.3-1.8-.3-3.2 0-4.2.7z"/>""",
         ),
+        "open_reference": (
+            """
+    <path d="M12 7v14"/>
+    <path d="M3 18a1 1 0 0 1-1-1V5a2 2 0 0 1 2-2h5a3 3 0 0 1 3 3v15a3 3 0 0 0-3-3Z"/>
+    <path d="M21 18a1 1 0 0 0 1-1V5a2 2 0 0 0-2-2h-5a3 3 0 0 0-3 3v15a3 3 0 0 1 3-3Z"/>""",
+            """
+    <path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>""",
+        ),
+        "indexed_notes": (
+            """
+    <path d="M20 7h-3a2 2 0 0 1-2-2V2"/>
+    <path d="M15 2H7a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V6Z"/>
+    <path d="M9 13h6"/>
+    <path d="M9 17h6"/>
+    <path d="M9 9h1"/>""",
+            """
+    <path d="M21 12h-8"/>
+    <path d="M21 6H8"/>
+    <path d="M21 18h-8"/>
+    <path d="M3 6h1v4"/>
+    <path d="M3 10h4"/>
+    <path d="M3 18h6"/>
+    <path d="M3 14h1v4"/>""",
+        ),
+        "makers_mark": (
+            """
+    <path d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z"/>
+    <line x1="16" x2="2" y1="8" y2="22"/>
+    <line x1="17.5" x2="9" y1="15" y2="15"/>""",
+            """
+    <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/>""",
+        ),
     }
     if name not in motifs:
         raise ValueError(f"unknown manual motif: {name}")
@@ -1621,6 +1723,25 @@ def mark_manual_inline_phi(body):
         )
 
     return re.sub(r"<strong>([^<]+)</strong>", mark_strong, body)
+
+
+def mark_manual_repo_paths(body):
+    """Mark repository paths without shrinking ordinary inline code."""
+    def mark_path(match):
+        value = html_module.unescape(match.group(1))
+        root_path = re.fullmatch(
+            r"/[A-Za-z0-9_.-]+(?:/[A-Za-z0-9_.-]+)*/?",
+            value,
+        )
+        relative_path = re.fullmatch(
+            r"[A-Za-z0-9_.-]+(?:/[A-Za-z0-9_.-]+)+/?",
+            value,
+        )
+        if root_path is None and relative_path is None:
+            return match.group(0)
+        return f'<code class="manual-repo-path">{match.group(1)}</code>'
+
+    return re.sub(r"<code>([^<]+)</code>", mark_path, body)
 
 
 def style_manual_tables(body, title, table_headers=None):
@@ -1687,6 +1808,8 @@ def style_manual_tables(body, title, table_headers=None):
         classes = ["manual-table-wrap"]
         if len(rows) - 1 > 6:
             classes.append("manual-table-dense")
+        if len(headers) == 2:
+            classes.append("manual-table-pair")
         if len(headers) > 3:
             classes.append("manual-table-wide")
         replacement = (
@@ -1750,6 +1873,40 @@ def style_manual_examples(body):
             replacement = f'<pre class="manual-code-sample">{block}</pre>'
         body = body.replace(f"<pre>{block}</pre>", replacement, 1)
     return body
+
+
+def style_manual_glossary(body, definition_count):
+    """Turn Appendix A's prose definitions into a compact reference grid."""
+    pattern = re.compile(
+        r"<p><strong>([^<]+)</strong>: (.*?)</p>",
+        flags=re.S,
+    )
+    definitions = list(pattern.finditer(body))
+    if len(definitions) != definition_count:
+        raise ValueError(
+            "manual editorial glossary definition count changed "
+            f"({len(definitions)} found, {definition_count} expected)"
+        )
+    between = body[definitions[0].start():definitions[-1].end()]
+    if pattern.sub("", between).strip():
+        raise ValueError("manual editorial glossary definitions are not contiguous")
+    entries = "".join(
+        '<div class="manual-glossary-entry">'
+        f"<dt>{match.group(1)}</dt>"
+        f"<dd>{match.group(2)}</dd>"
+        "</div>"
+        for match in definitions
+    )
+    glossary = (
+        '<dl class="manual-glossary" aria-label="Linguistic terms">'
+        + entries
+        + "</dl>"
+    )
+    return (
+        body[:definitions[0].start()]
+        + glossary
+        + body[definitions[-1].end():]
+    )
 
 
 def style_manual_dialogue(body):
@@ -1816,22 +1973,54 @@ def style_manual_pattern(body, pattern):
     return body.replace(source, replacement, 1)
 
 
-def manual_label_parts(part, chapter):
-    """Extract number and sentence-case name from manual path labels."""
+def manual_header_context(part, chapter, section_number, section_total):
+    """Build orientation labels for teaching, reference, and back matter."""
     part_match = re.fullmatch(r"Part (\d+) · (.+)", part)
     chapter_match = re.fullmatch(r"Chapter (\d+) · (.+)", chapter or "")
-    if part_match is None or chapter_match is None:
-        raise ValueError("manual editorial page requires numbered part and chapter")
 
     def label_case(value):
         return re.sub(r"\bphi\b", "Phi", value.capitalize())
 
-    return (
-        int(part_match.group(1)),
-        label_case(part_match.group(2)),
-        int(chapter_match.group(1)),
-        label_case(chapter_match.group(2)),
-    )
+    if part_match is not None:
+        part_number = int(part_match.group(1))
+        roman_parts = ("I", "II", "III", "IV", "V", "VI", "VII")
+        if not 1 <= part_number <= len(roman_parts):
+            raise ValueError("manual editorial part number is outside the manual")
+        meta = (
+            f"<span>Part {roman_parts[part_number - 1]}</span>"
+            f"<span>{html_module.escape(label_case(part_match.group(2)))}</span>"
+        )
+        if chapter_match is not None:
+            detail = (
+                f"Chapter {int(chapter_match.group(1))} "
+                '<span aria-hidden="true">&middot;</span> '
+                f"{html_module.escape(label_case(chapter_match.group(2)))}"
+            )
+            position = f"Section {section_number} of {section_total}"
+        elif part_number == 7 and chapter is None:
+            detail = "Reference desk"
+            position = f"Reference {section_number} of {section_total}"
+        elif part_number == 7 and chapter == "Domain Modules":
+            detail = "Domain modules"
+            position = f"Module {section_number} of {section_total}"
+        else:
+            raise ValueError(
+                "manual editorial numbered part has an invalid chapter label"
+            )
+        return meta, detail, position
+    if part == "Appendices" and chapter is None:
+        return (
+            "<span>Back matter</span><span>Appendices</span>",
+            "Reference notes",
+            f"Appendix {section_number} of {section_total}",
+        )
+    if part == "Colophon" and chapter is None:
+        return (
+            "<span>Back matter</span><span>Colophon</span>",
+            "Maker's note",
+            "Final page",
+        )
+    raise ValueError("manual editorial page has an invalid reading-order label")
 
 
 def apply_manual_editorial(
@@ -1862,6 +2051,12 @@ def apply_manual_editorial(
         body = style_manual_dialogue(body)
     body = mark_inline_phi(body)
     body = mark_manual_inline_phi(body)
+    body = mark_manual_repo_paths(body)
+    if treatment["variant"] == "glossary":
+        body = style_manual_glossary(
+            body,
+            treatment["definition_count"],
+        )
     body = style_manual_tables(body, title, treatment.get("table_headers"))
     body = style_manual_examples(body)
     if treatment["variant"] == "ordered_reference":
@@ -1988,13 +2183,12 @@ def apply_manual_editorial(
             + "</div>"
         )
 
-    part_number, part_name, chapter_number, chapter_name = manual_label_parts(
+    meta_labels, detail_label, position_label = manual_header_context(
         part,
         chapter,
+        section_number,
+        section_total,
     )
-    roman_parts = ("I", "II", "III", "IV", "V", "VI", "VII")
-    if not 1 <= part_number <= len(roman_parts):
-        raise ValueError("manual editorial part number is outside the manual")
     title_words = re.findall(r"[A-Za-z]+", title)
     longest_title_word = max(map(len, title_words)) if title_words else 0
     if longest_title_word >= 12:
@@ -2016,12 +2210,12 @@ def apply_manual_editorial(
     header = f"""
 <header class="manual-page-header">
   <div class="manual-header-meta">
-    <p><span class="manual-shelf-label">Phi manual</span><span>Part {roman_parts[part_number - 1]}</span><span>{html_module.escape(part_name)}</span></p>
-    <p>Section {section_number} of {section_total}</p>
+    <p><span class="manual-shelf-label">Phi manual</span>{meta_labels}</p>
+    <p>{position_label}</p>
   </div>
   <div class="manual-title-row">
     <div>
-      <p class="manual-chapter-label">Chapter {chapter_number} <span aria-hidden="true">&middot;</span> {html_module.escape(chapter_name)}</p>
+      <p class="manual-chapter-label">{detail_label}</p>
       <h1{title_class}>{title_html}</h1>
     </div>
     {manual_motif(motif)}
@@ -2062,23 +2256,26 @@ def manual_editorial_navigation(previous, following):
     )
 
 
-MANUAL_PARTS, MANUAL_EDITORIAL = load_manual_editorial()
+MANUAL_GROUPS, MANUAL_EDITORIAL = load_manual_editorial()
 
 
 sec_titles = [title_of(f.read_text()) for _, _, f in sections]
+colophon_manual_body = None
 for i, (part, ch, f) in enumerate(sections):
     source = f.read_text()
     repo_path = f.relative_to(ROOT).as_posix()
     treatment = MANUAL_EDITORIAL.get(repo_path)
     body = md_to_html(source)
+    if f.name == "appendix_a_glossary.md":
+        body = add_gloss_popovers(body)
     editorial_kind = None
     if treatment is None:
         crumb_bits = [part] + ([ch] if ch else [])
         crumb = '<p class="crumb">' + " &mdash; ".join(crumb_bits) + "</p>"
         body = crumb + body
     else:
-        part_key = f.relative_to(MANUAL_SRC).parts[0]
-        motif = MANUAL_PARTS[part_key]["motif"]
+        group_key = manual_editorial_group(repo_path)
+        motif = MANUAL_GROUPS[group_key]["motif"]
         chapter_sections = [
             item
             for item in sections
@@ -2096,8 +2293,6 @@ for i, (part, ch, f) in enumerate(sections):
             sec_titles[i],
         )
         editorial_kind = "reference"
-    if f.name == "appendix_a_glossary.md":
-        body = add_gloss_popovers(body)
     prev_link = f'<a href="{slug(sections[i-1][2])}">&lsaquo; {sec_titles[i-1]}</a>' if i > 0 else ""
     next_link = f'<a href="{slug(sections[i+1][2])}">{sec_titles[i+1]} &rsaquo;</a>' if i + 1 < len(sections) else ""
     if treatment is None:
@@ -2115,6 +2310,8 @@ for i, (part, ch, f) in enumerate(sections):
         )
         footer_nav = manual_editorial_navigation(previous, following)
     linked_body = link_manual_pages(link_text_citations(body), f)
+    if f == colo:
+        colophon_manual_body = linked_body
     (MANUAL_OUT / slug(f)).write_text(
         manual_page(
             linked_body,
@@ -2122,8 +2319,16 @@ for i, (part, ch, f) in enumerate(sections):
             footer_nav,
             editorial_kind=editorial_kind,
             editorial_motif=motif if treatment is not None else None,
+            editorial_variant=(
+                treatment["variant"] if treatment is not None else None
+            ),
         )
     )
+
+if colophon_manual_body is None:
+    raise ValueError("the manual colophon did not receive its treatment")
+(BUILD_SITE / "colophon.html").write_text(colophon_page(colophon_manual_body))
+print("wrote build/site/colophon.html from colophon.md")
 
 # contents page grouped by part and chapter
 toc = ["<h1>The Phi manual</h1>",

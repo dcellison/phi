@@ -1,13 +1,16 @@
 {
-  "complete_parts": [
+  "complete_groups": [
     "part1_first_light",
     "part2_soul",
     "part3_phonology",
     "part4_grammar",
     "part5_complex",
-    "part6_mastery"
+    "part6_mastery",
+    "part7_reference",
+    "appendices",
+    "colophon"
   ],
-  "parts": {
+  "groups": {
     "part1_first_light": {
       "motif": "first_light"
     },
@@ -25,6 +28,15 @@
     },
     "part6_mastery": {
       "motif": "lived_practice"
+    },
+    "part7_reference": {
+      "motif": "open_reference"
+    },
+    "appendices": {
+      "motif": "indexed_notes"
+    },
+    "colophon": {
+      "motif": "makers_mark"
     }
   },
   "pages": {
@@ -545,6 +557,75 @@
     "manual/part6_mastery/ch24_source_material/04_translation_and_responsibility.md": {
       "shape": "h1;t-;f3,3;q-;u-;o-;r0",
       "variant": "standard"
+    },
+    "manual/part7_reference/README.md": {
+      "shape": "h1;t2x8;f1;q-;u-;o-;r0",
+      "variant": "directory"
+    },
+    "manual/part7_reference/compounds.md": {
+      "shape": "h1,2,2,2,2,2,2,2,2,2;t4x8,4x3,4x10,4x1,4x3,4x4,4x9,4x19,4x19;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part7_reference/quick_reference_grammar.md": {
+      "shape": "h1,2,2,2,2,2,2,2,2,2;t3x9,3x3,3x6;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part7_reference/sample_texts.md": {
+      "shape": "h1,2,3,3,3,2,2;t3x4;f11,15,15,11,11,3,3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part7_reference/modules/README.md": {
+      "shape": "h1;t5x8;f-;q-;u-;o-;r0",
+      "variant": "directory"
+    },
+    "manual/part7_reference/modules/accessibility_and_participation.md": {
+      "shape": "h1,2,2,2,2,2,2,2,2,2,2,2,2;t2x7,4x30,3x9;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "module_guide"
+    },
+    "manual/part7_reference/modules/commons_and_collective_governance.md": {
+      "shape": "h1,2,2,2,2,2,2,2,2,2,2,2,2,2;t2x8,3x10,4x29,3x17;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "module_guide"
+    },
+    "manual/part7_reference/modules/ecological_systems_and_material_life.md": {
+      "shape": "h1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2;t2x7,3x7,4x30,3x17;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "module_guide"
+    },
+    "manual/part7_reference/modules/household_and_daily_life.md": {
+      "shape": "h1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2;t2x9,3x3,4x30,3x10;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "module_guide"
+    },
+    "manual/part7_reference/modules/medical_and_bodily_care.md": {
+      "shape": "h1,2,2,2,2,2,2,2,2,2,2,2,2,2;t2x7,3x3,4x30,3x13;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "module_guide"
+    },
+    "manual/part7_reference/modules/philosophical_reasoning.md": {
+      "shape": "h1,2,2,2,2,2,2,2,2,2,2,2,2,2,2;t2x7,4x21,3x7;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "module_guide"
+    },
+    "manual/part7_reference/modules/systems_and_shared_infrastructure.md": {
+      "shape": "h1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2;t2x7,3x17,4x24,4x9,3x19;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "module_guide"
+    },
+    "manual/part7_reference/modules/work_craft_and_repair.md": {
+      "shape": "h1,2,2,2,2,2,2,2,2,2,2,2,2,2;t2x8,3x12,4x28,3x10;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0",
+      "variant": "module_guide"
+    },
+    "manual/appendices/appendix_a_glossary.md": {
+      "shape": "h1,2;t4x67;f-;q-;u-;o-;r0",
+      "variant": "glossary",
+      "definition_count": 28
+    },
+    "manual/appendices/appendix_b_natural_languages.md": {
+      "shape": "h1,2,2,2,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "appendix"
+    },
+    "manual/appendices/appendix_c_resources.md": {
+      "shape": "h1,2,2,2,2;t2x16;f-;q-;u5,6;o-;r0",
+      "variant": "appendix"
+    },
+    "colophon.md": {
+      "shape": "h1;t-;f-;q-;u-;o-;r0",
+      "variant": "maker_note"
     }
   }
 }
