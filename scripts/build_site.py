@@ -5167,9 +5167,9 @@ def pamphlet_structural_signature(source):
 
 def pamphlet_default_section_level(variant):
     """Choose the section level used by the compact workbook sources."""
-    if variant == "opening":
+    if variant in {"opening", "reference"}:
         return 0
-    if variant == "exercises":
+    if variant in {"exercises", "answers"}:
         return 2
     return 3
 
@@ -5214,6 +5214,8 @@ def load_pamphlet_editorial():
                 "source_routes",
                 "participant_reference",
                 "noun_phrase",
+                "name_designation",
+                "source_beside",
             }
         ):
             raise ValueError(
@@ -5238,10 +5240,13 @@ def load_pamphlet_editorial():
         "scenario",
         "errors",
         "exercises",
+        "answers",
         "appendix",
+        "reference",
     }
     for repo_path, treatment in pages.items():
         path = ROOT / repo_path
+        source = path.read_text(encoding="utf-8") if path.is_file() else ""
         treatment_fields = set(treatment) if isinstance(treatment, dict) else set()
         default_section_level = (
             pamphlet_default_section_level(treatment.get("variant"))
@@ -5263,9 +5268,18 @@ def load_pamphlet_editorial():
             )
             or treatment["variant"] not in allowed_variants
             or section_level
-            not in ({0} if treatment["variant"] == "opening" else {2, 3})
+            not in (
+                {0}
+                if treatment["variant"] in {"opening", "reference"}
+                else {0, 2, 3}
+            )
+            or (
+                section_level == 0
+                and treatment["variant"] != "opening"
+                and re.search(r"^#{2,6} ", source, flags=re.M)
+            )
             or treatment["shape"]
-            != pamphlet_structural_signature(path.read_text(encoding="utf-8"))
+            != pamphlet_structural_signature(source)
         ):
             raise ValueError(
                 f"invalid pamphlet editorial treatment: {repo_path}"
@@ -5302,6 +5316,8 @@ def pamphlet_motif(name):
         "source_routes",
         "participant_reference",
         "noun_phrase",
+        "name_designation",
+        "source_beside",
     }:
         raise ValueError(f"unknown pamphlet motif: {name}")
     return '<div class="pamphlet-page-motif" aria-hidden="true"></div>'
@@ -5478,6 +5494,9 @@ def pamphlet_section_heading(title, variant, section_number):
     prefix_match = re.fullmatch(r"(Table \d+|Error \d+|Part [A-F]): (.+)", title)
     if prefix_match is not None:
         label, display_title = prefix_match.groups()
+    elif letter_match := re.fullmatch(r"([A-F])\. (.+)", title):
+        label = f"Part {letter_match.group(1)}"
+        display_title = letter_match.group(2)
     elif title.startswith("Practice: "):
         label = "Practice"
         display_title = title.removeprefix("Practice: ")
@@ -5534,12 +5553,20 @@ def style_pamphlet_sections(body, variant, heading_level):
                 if answer_section
                 else "pamphlet-exercise-section"
             )
+        if variant == "answers":
+            classes.append("pamphlet-reasoning-section")
         if variant == "appendix":
             classes.append("pamphlet-appendix-section")
         content = body[match.end():end]
         if variant == "exercises" and answer_section:
             content = re.sub(
                 r"<h3>(Part [A-Z](?:: .*?)?)</h3>",
+                r'<h3 class="pamphlet-answer-part">'
+                r"<span>Answers</span>\1</h3>",
+                content,
+            )
+            content = re.sub(
+                r"<p><strong>(Part [A-Z])\.</strong></p>",
                 r'<h3 class="pamphlet-answer-part">'
                 r"<span>Answers</span>\1</h3>",
                 content,
@@ -5756,22 +5783,40 @@ def apply_pamphlet_editorial(
                 after_key,
             )
             body = before_key + "<h2>Answer key</h2>" + after_key
-    body = re.sub(
-        r"<p>",
-        '<p class="pamphlet-page-lede">',
-        body,
-        count=1,
-    )
+    if treatment["variant"] == "reference":
+        if (
+            not body.lstrip().startswith(
+                '<div class="pamphlet-table-wrap'
+            )
+            or body.count("<p>") != 1
+        ):
+            raise ValueError(
+                "pamphlet reference page needs a table and one closing note"
+            )
+        body = re.sub(
+            r"<p>",
+            '<p class="pamphlet-closing-note">',
+            body,
+            count=1,
+        )
+    elif treatment["variant"] != "answers":
+        body = re.sub(
+            r"<p>",
+            '<p class="pamphlet-page-lede">',
+            body,
+            count=1,
+        )
     if treatment["variant"] != "opening":
         section_level = treatment.get(
             "section_level",
             pamphlet_default_section_level(treatment["variant"]),
         )
-        body = style_pamphlet_sections(
-            body,
-            treatment["variant"],
-            section_level,
-        )
+        if section_level:
+            body = style_pamphlet_sections(
+                body,
+                treatment["variant"],
+                section_level,
+            )
         if treatment["variant"] == "exercises":
             body = style_pamphlet_answer_glosses(body)
             body = style_pamphlet_answer_runs(body)
