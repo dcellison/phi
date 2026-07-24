@@ -1192,14 +1192,14 @@ table.primer-ladder {
   font-family: var(--serif);
   font-size: .9rem;
   font-style: italic;
-  gap: .7rem;
-  grid-template-columns: 3.7rem minmax(0, 1fr);
+  gap: .25rem;
+  grid-template-columns: max-content minmax(0, 1fr);
   line-height: 1.52;
 }
 .text-source-name {
   color: var(--gold);
   font-family: var(--sans);
-  font-size: .68rem;
+  font-size: inherit;
   font-style: normal;
   font-weight: 650;
 }
@@ -1470,10 +1470,6 @@ table.text-ledger {
     margin-right: -.55rem;
     padding-left: .75rem;
     padding-right: .75rem;
-  }
-  .text-source-line {
-    gap: .4rem;
-    grid-template-columns: 3.1rem minmax(0, 1fr);
   }
   .text-ledger td,
   .text-ledger td:first-child {
