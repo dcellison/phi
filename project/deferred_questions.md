@@ -24,7 +24,7 @@ The effort will inventory existing body, birth, consent, and Medical vocabulary,
 
 ### Shelf visual identities
 
-Status: Ready in a fixed order, with the primer first.
+Status: In progress. The primer now has its visual identity; texts are next.
 
 The website should give each shelf a presentation suited to its work instead of extending the book's magazine treatment everywhere. A common frame keeps the shelves recognisably Phi: the site's colour, type, navigation, and accessibility behaviour do not change with the genre. Presentation belongs in the renderer and maintained site assets; the Markdown remains clean unless a necessary distinction cannot be inferred safely.
 
@@ -32,7 +32,7 @@ Current Phi words and passages set in backticks inside English paragraphs keep t
 
 Work proceeds in this order:
 
-1. **Primer:** a quiet illustrated reader shaped around the household story, with a restrained domestic or botanical motif for each of its four parts. Part and chapter progress should be easy to see without becoming a scoreboard. Phi passages hold the centre of each scene, while compact word ledgers and speaker labels support them. The manual pointer closes as a note rather than another lesson paragraph. Chapter 1 is the prototype because it contains every recurring element.
+1. **Primer:** Complete. The full shelf is a quiet illustrated reader shaped around the household story, with a restrained motif for each of its four parts. Part and chapter progress remain easy to see without becoming a scoreboard. Phi passages hold the centre of each scene, compact word ledgers and speaker labels support them, and the manual pointer closes as a note. The pronunciation prelude, contents ladder, and capstone keep distinct layouts within the same family.
 2. **Texts:** a literary anthology whose method labels are immediately visible. Translation, transmutation, and original Phi work retain distinct identities, while paired renderings receive a deliberate comparison structure. Individual works may vary within the common anthology frame.
 3. **Manual:** a sober working reference with strong part identity, breadcrumbs, local navigation, and clearer treatment of tables, examples, and marginal notes. Visual hierarchy should make a fact easier to find without turning the manual into a magazine.
 4. **Pamphlets:** a practical workbook that separates explanation, drills, exercises, and answers at a glance. Numbered progress and navigation should support repeated use as readily as a first reading.

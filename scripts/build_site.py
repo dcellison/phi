@@ -310,7 +310,7 @@ def link_text_citations(html):
 
 
 PHI_INLINE_FORM = re.compile(
-    r"[a-z]+(?:(?:[.]? | [.]{3} )[a-z]+)*[.]?"
+    r"[a-z]+(?:(?:[.]? | [.]{3} | … )[a-z]+)*[.]?"
 )
 
 
@@ -318,6 +318,15 @@ def is_current_phi(value):
     """Return whether a short rendered string consists only of current Phi."""
     text = html_module.unescape(value).strip()
     if not PHI_INLINE_FORM.fullmatch(text):
+        return False
+    words = re.findall(r"[a-z]+", text)
+    return bool(words) and all(word in ALL_WORDS for word in words)
+
+
+def is_current_phi_passage(value):
+    """Return whether a punctuated passage contains only current Phi forms."""
+    text = html_module.unescape(value).strip()
+    if not re.fullmatch(r"[a-z]+(?:[ .]+[a-z]+)*[.]?", text):
         return False
     words = re.findall(r"[a-z]+", text)
     return bool(words) and all(word in ALL_WORDS for word in words)
@@ -336,37 +345,53 @@ def mark_inline_phi(body):
     return re.sub(r"<p(?: [^>]*)?>.*?</p>", mark_paragraph, body, flags=re.S)
 
 
-def mark_primer_inline_phi(body):
-    """Lift the primer's emphasized inline Phi into the shared chip style."""
-    def mark_paragraph(match):
-        paragraph = match.group(0)
+def mark_primer_inline_fragment(fragment):
+    """Lift intentional Phi mentions from one primer prose fragment."""
+    def mark_strong(strong_match):
+        if not is_current_phi(strong_match.group(1)):
+            return strong_match.group(0)
+        return f'<code class="phi-inline">{strong_match.group(1)}</code>'
 
-        def mark_strong(strong_match):
-            if not is_current_phi(strong_match.group(1)):
-                return strong_match.group(0)
-            return f'<code class="phi-inline">{strong_match.group(1)}</code>'
+    fragment = re.sub(r"<strong>([^<]+)</strong>", mark_strong, fragment)
 
-        paragraph = re.sub(r"<strong>([^<]+)</strong>", mark_strong, paragraph)
+    def mark_em(em_match):
+        if not is_current_phi(em_match.group(1)):
+            return em_match.group(0)
+        return f'<code class="phi-inline">{em_match.group(1)}</code>'
 
-        def mark_em_bridge(bridge_match):
-            if bridge_match.group(2) not in ALL_WORDS:
-                return bridge_match.group(0)
-            return (
-                "</em>"
-                + bridge_match.group(1)
-                + f'<code class="phi-inline">{bridge_match.group(2)}</code>'
-                + bridge_match.group(3)
-                + bridge_match.group(4)
-                + "<em>"
-            )
+    fragment = re.sub(r"<em>([^<]+)</em>", mark_em, fragment)
 
-        return re.sub(
-            r"</em>(\s+)([a-z]+)([.,:;]?)(\s+)<em>",
-            mark_em_bridge,
-            paragraph,
+    def mark_em_bridge(bridge_match):
+        value = bridge_match.group(2)
+        punctuation = ""
+        if value.endswith((".", ",", ":", ";", "?", "!")):
+            value, punctuation = value[:-1], value[-1]
+        if not is_current_phi(value):
+            return bridge_match.group(0)
+        return (
+            "</em>"
+            + bridge_match.group(1)
+            + f'<code class="phi-inline">{value}</code>'
+            + punctuation
+            + bridge_match.group(3)
+            + "<em>"
         )
 
-    return re.sub(r"<p(?: [^>]*)?>.*?</p>", mark_paragraph, body, flags=re.S)
+    return re.sub(
+        r"</em>(\s+)([^<>]+?)(\s*)<em>",
+        mark_em_bridge,
+        fragment,
+    )
+
+
+def mark_primer_inline_phi(body):
+    """Lift the primer's emphasized inline Phi into the shared chip style."""
+    return re.sub(
+        r"<p(?: [^>]*)?>.*?</p>",
+        lambda match: mark_primer_inline_fragment(match.group(0)),
+        body,
+        flags=re.S,
+    )
 
 
 def add_gloss_popovers(html):
@@ -406,20 +431,64 @@ def title_of(md):
     return "untitled"
 
 
-def load_primer_editorial_pages():
-    """Load opt-in primer treatments and reject stale or incomplete entries."""
+def load_primer_editorial():
+    """Load the complete primer treatment and reject gaps or stale entries."""
     config_path = SITE_SRC / "primer_editorial.json"
     config = json.loads(config_path.read_text(encoding="utf-8"))
+    if set(config) != {"total_chapters", "parts", "pages"}:
+        raise ValueError(
+            "site/primer_editorial.json requires total_chapters, parts, and pages"
+        )
+    total = config["total_chapters"]
+    if not isinstance(total, int) or total < 1:
+        raise ValueError("primer editorial total_chapters must be positive")
+    parts = config["parts"]
+    if not isinstance(parts, list) or not parts:
+        raise ValueError("primer editorial parts must be a non-empty list")
+    expected_first = 1
+    for part in parts:
+        if not isinstance(part, dict) or set(part) != {
+            "first",
+            "last",
+            "label",
+            "motif",
+        }:
+            raise ValueError(
+                "each primer editorial part requires first, last, label, and motif"
+            )
+        if (
+            not isinstance(part["first"], int)
+            or not isinstance(part["last"], int)
+            or part["first"] != expected_first
+            or part["last"] < part["first"]
+            or part["last"] > total
+        ):
+            raise ValueError("primer editorial part ranges must be contiguous")
+        if not isinstance(part["label"], str) or not part["label"].strip():
+            raise ValueError("primer editorial part labels must be non-empty")
+        if part["motif"] not in {"household", "seasons", "gathering", "story"}:
+            raise ValueError(
+                f"unknown primer editorial motif: {part['motif']}"
+            )
+        expected_first = part["last"] + 1
+    if expected_first != total + 1:
+        raise ValueError("primer editorial parts must cover every chapter")
+
     pages = config.get("pages")
-    if set(config) != {"pages"} or not isinstance(pages, dict):
-        raise ValueError("site/primer_editorial.json must contain one 'pages' object")
-    required = {
-        "part",
-        "story_title",
-        "progress",
-        "motif",
-        "manual_reference",
+    if not isinstance(pages, dict):
+        raise ValueError("primer editorial pages must be an object")
+    expected_pages = {
+        path.relative_to(ROOT).as_posix()
+        for path in PRIMER_SRC.glob("[0-9][0-9]_*.md")
+        if 1 <= int(path.name[:2]) <= total
     }
+    if set(pages) != expected_pages:
+        missing = sorted(expected_pages - set(pages))
+        extra = sorted(set(pages) - expected_pages)
+        raise ValueError(
+            f"primer editorial page inventory differs: missing={missing}, extra={extra}"
+        )
+    resolved = {}
     for repo_path, treatment in pages.items():
         source_path = ROOT / repo_path
         if (
@@ -428,79 +497,130 @@ def load_primer_editorial_pages():
             or not isinstance(treatment, dict)
         ):
             raise ValueError(f"invalid primer editorial source: {repo_path}")
-        if set(treatment) != required:
+        if set(treatment) != {"story_title", "manual_source"}:
             raise ValueError(
                 f"primer editorial treatment for {repo_path} requires "
-                f"{sorted(required)}"
+                "manual_source and story_title"
             )
-        for field in ("part", "story_title"):
-            value = treatment[field]
-            if not isinstance(value, str) or not value.strip():
-                raise ValueError(
-                    f"primer editorial {field} for {repo_path} must be non-empty"
-                )
-        progress = treatment["progress"]
         if (
-            not isinstance(progress, dict)
-            or set(progress) != {"current", "total"}
-            or not all(
-                isinstance(progress[field], int) and progress[field] > 0
-                for field in ("current", "total")
-            )
-            or progress["current"] > progress["total"]
+            not isinstance(treatment["story_title"], str)
+            or not treatment["story_title"].strip()
         ):
             raise ValueError(
-                f"primer editorial progress for {repo_path} must be positive "
-                "current and total integers"
+                f"primer editorial story_title for {repo_path} must be non-empty"
             )
         chapter_match = re.match(r"primer/([0-9]+)_", repo_path)
+        if chapter_match is None:
+            raise ValueError(f"primer editorial chapter is not numbered: {repo_path}")
+        chapter = int(chapter_match.group(1))
+        part = next(
+            (
+                candidate
+                for candidate in parts
+                if candidate["first"] <= chapter <= candidate["last"]
+            ),
+            None,
+        )
+        if part is None:
+            raise ValueError(f"primer editorial chapter has no part: {repo_path}")
+        manual_source = treatment["manual_source"]
         if (
-            chapter_match is None
-            or int(chapter_match.group(1)) != progress["current"]
-        ):
-            raise ValueError(
-                f"primer editorial progress does not match {repo_path}"
-            )
-        if treatment["motif"] not in {"household"}:
-            raise ValueError(
-                f"unknown primer editorial motif for {repo_path}: "
-                f"{treatment['motif']}"
-            )
-        reference = treatment["manual_reference"]
-        if (
-            not isinstance(reference, dict)
-            or set(reference) != {"text", "source"}
-            or any(
-                not isinstance(reference[field], str)
-                or not reference[field].strip()
-                for field in ("text", "source")
-            )
-            or not (ROOT / reference["source"]).is_file()
+            not isinstance(manual_source, str)
+            or not manual_source.startswith("manual/")
+            or not (ROOT / manual_source).is_file()
         ):
             raise ValueError(
                 f"invalid primer editorial manual reference for {repo_path}"
             )
-    return pages
+        resolved[repo_path] = {
+            "part": part["label"],
+            "story_title": treatment["story_title"],
+            "progress": {"current": chapter, "total": total},
+            "motif": part["motif"],
+            "manual_source": manual_source,
+        }
+    return total, parts, resolved
 
 
 def primer_motif(name):
-    """Return the restrained part motif used by an editorial primer page."""
-    if name != "household":
-        raise ValueError(f"unknown primer motif: {name}")
-    # Lucide House and Sprout outlines; the deployed site carries the ISC notice.
-    return """
-<div class="primer-part-motif" aria-hidden="true">
-  <svg viewBox="0 0 24 24" focusable="false">
+    """Return one of the restrained motifs used across the primer."""
+    # Lucide outlines; the deployed site carries the project's ISC notice.
+    icons = {
+        "household": (
+            """
     <path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"/>
-    <path d="M3 10a2 2 0 0 1 .71-1.53l7-6a2 2 0 0 1 2.58 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
-  </svg>
-  <svg viewBox="0 0 24 24" focusable="false">
+    <path d="M3 10a2 2 0 0 1 .71-1.53l7-6a2 2 0 0 1 2.58 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>""",
+            """
     <path d="M7 20h8"/>
     <path d="M10 20c5.5-2.5.8-6.4 3-10"/>
     <path d="M9.5 9.4c1.1.8 1.8 2.2 2.3 3.7-2 .4-3.5 0-4.6-.7-1.1-.8-1.8-2.2-2.3-3.7 2-.4 3.5 0 4.6.7z"/>
-    <path d="M14.1 6a7 7 0 0 0-1.9 2.8c1.7.3 3.1 0 4.1-.7 1-.7 1.6-1.9 2-3.3-1.8-.3-3.2 0-4.2.7z"/>
-  </svg>
-</div>""".strip()
+    <path d="M14.1 6a7 7 0 0 0-1.9 2.8c1.7.3 3.1 0 4.1-.7 1-.7 1.6-1.9 2-3.3-1.8-.3-3.2 0-4.2.7z"/>""",
+        ),
+        "seasons": (
+            """
+    <circle cx="12" cy="12" r="4"/>
+    <path d="M12 2v2"/><path d="M12 20v2"/>
+    <path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/>
+    <path d="M2 12h2"/><path d="M20 12h2"/>
+    <path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/>""",
+            """
+    <path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10Z"/>
+    <path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"/>""",
+        ),
+        "gathering": (
+            """
+    <path d="M18 21a8 8 0 0 0-16 0"/>
+    <circle cx="10" cy="8" r="5"/>
+    <path d="M22 20c0-3.37-2-6.5-4-8a5 5 0 0 0-.45-8.3"/>""",
+            """
+    <path d="M12 5a3 3 0 1 1 3 3m-3-3a3 3 0 1 0-3 3m3-3v1M9 8a3 3 0 1 0 3 3M9 8h1m5 0a3 3 0 1 1-3 3m3-3h-1m-2 3v-1"/>
+    <circle cx="12" cy="8" r="2"/>
+    <path d="M12 10v12"/>
+    <path d="M12 22c4.2 0 7-1.667 7-5-4.2 0-7 1.667-7 5Z"/>
+    <path d="M12 22c-4.2 0-7-1.667-7-5 4.2 0 7 1.667 7 5Z"/>""",
+        ),
+        "story": (
+            """
+    <path d="M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719"/>""",
+            """
+    <path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10Z"/>
+    <path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"/>""",
+        ),
+        "capstone": (
+            """
+    <path d="M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719"/>""",
+            """
+    <path d="M12 5v16"/>
+    <path d="M20.001 19A2 2 0 0 0 22 17V5a2 2 0 0 0-1.999-2L16 3.002A5 5 0 0 0 12 5a5 5 0 0 0-4-2H4a2 2 0 0 0-2 2v12a2 2 0 0 0 1.999 2H8a5 5 0 0 1 4 2 5 5 0 0 1 4-2z"/>""",
+        ),
+        "breath": (
+            """
+    <path d="M12.8 19.6A2 2 0 1 0 14 16H2"/>
+    <path d="M17.5 8a2.5 2.5 0 1 1 2 4H2"/>
+    <path d="M9.8 4.4A2 2 0 1 1 11 8H2"/>""",
+            """
+    <path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10Z"/>
+    <path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"/>""",
+        ),
+        "contents": (
+            """
+    <path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"/>
+    <path d="M3 10a2 2 0 0 1 .71-1.53l7-6a2 2 0 0 1 2.58 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>""",
+            """
+    <path d="M12 5v16"/>
+    <path d="M20.001 19A2 2 0 0 0 22 17V5a2 2 0 0 0-1.999-2L16 3.002A5 5 0 0 0 12 5a5 5 0 0 0-4-2H4a2 2 0 0 0-2 2v12a2 2 0 0 0 1.999 2H8a5 5 0 0 1 4 2 5 5 0 0 1 4-2z"/>""",
+        ),
+    }
+    if name not in icons:
+        raise ValueError(f"unknown primer motif: {name}")
+    rendered = "".join(
+        f'<svg viewBox="0 0 24 24" focusable="false">{icon}</svg>'
+        for icon in icons[name]
+    )
+    return (
+        f'<div class="primer-part-motif primer-motif-{name}" '
+        f'aria-hidden="true">{rendered}</div>'
+    )
 
 
 def style_primer_blockquotes(body):
@@ -511,15 +631,50 @@ def style_primer_blockquotes(body):
             for line in match.group(1).split("<br>")
             if line.strip()
         ]
-        readings = []
+        parsed = []
+        has_turn = False
         for line in lines:
-            reading = re.fullmatch(r"<strong>(.*?)</strong>", line, flags=re.S)
-            if reading is None or not is_current_phi(reading.group(1)):
-                break
-            readings.append(
-                f'<span class="primer-phi-line">{reading.group(1)}</span>'
+            turn = re.fullmatch(
+                r"([a-z]+):\s*<strong>(.*?)</strong>(?:\s*(.*))?",
+                line,
+                flags=re.S,
             )
-        else:
+            if (
+                turn is not None
+                and turn.group(1) in ALL_WORDS
+                and is_current_phi(turn.group(2))
+            ):
+                parsed.append(
+                    ("turn", turn.group(1), turn.group(2), turn.group(3))
+                )
+                has_turn = True
+                continue
+            reading = re.fullmatch(
+                r"<strong>(.*?)</strong>(?:\s*(.*))?",
+                line,
+                flags=re.S,
+            )
+            if reading is not None and is_current_phi(reading.group(1)):
+                parsed.append(
+                    ("reading", None, reading.group(1), reading.group(2))
+                )
+                continue
+            return match.group(0)
+
+        if not has_turn:
+            readings = []
+            for _, _, utterance, note_html in parsed:
+                note = (
+                    '<span class="primer-reading-note">'
+                    f"{mark_primer_inline_fragment(note_html)}</span>"
+                    if note_html
+                    else ""
+                )
+                readings.append(
+                    '<span class="primer-reading-line">'
+                    f'<span class="primer-phi-line">{utterance}</span>'
+                    f"{note}</span>"
+                )
             return (
                 '<blockquote class="primer-reading" aria-label="Phi passage">'
                 + "".join(readings)
@@ -527,24 +682,30 @@ def style_primer_blockquotes(body):
             )
 
         turns = []
-        for line in lines:
-            turn = re.fullmatch(
-                r"([a-z]+):\s*<strong>(.*?)</strong>",
-                line,
-                flags=re.S,
+        for kind, speaker, utterance, note_html in parsed:
+            note = (
+                '<span class="primer-dialogue-note">'
+                f"{mark_primer_inline_fragment(note_html)}</span>"
+                if note_html
+                else ""
             )
-            if (
-                turn is None
-                or turn.group(1) not in ALL_WORDS
-                or not is_current_phi(turn.group(2))
-            ):
-                return match.group(0)
-            turns.append(
-                '<span class="primer-dialogue-line">'
-                f'<span class="primer-speaker">{turn.group(1)}</span>'
-                f'<span class="primer-utterance">{turn.group(2)}</span>'
-                "</span>"
-            )
+            if kind == "turn":
+                turns.append(
+                    '<span class="primer-dialogue-line">'
+                    f'<span class="primer-speaker">{speaker}</span>'
+                    '<span class="primer-dialogue-copy">'
+                    f'<span class="primer-utterance">{utterance}</span>'
+                    f"{note}</span>"
+                    "</span>"
+                )
+            else:
+                turns.append(
+                    '<span class="primer-dialogue-line primer-narration-line">'
+                    '<span class="primer-dialogue-copy">'
+                    f'<span class="primer-utterance">{utterance}</span>'
+                    f"{note}</span>"
+                    "</span>"
+                )
         return (
             '<blockquote class="primer-dialogue" aria-label="Phi dialogue">'
             + "".join(turns)
@@ -633,21 +794,20 @@ def apply_primer_editorial(body, source, repo_path, treatment):
         body,
     )
 
-    reference = treatment["manual_reference"]
-    reference_text = html_module.escape(reference["text"], quote=False)
-    if source.count(reference["text"]) != 1 or body.count(reference_text) != 1:
+    manual_label = "The machinery, when you want it:"
+    if source.count(manual_label) != 1 or body.count(manual_label) != 1:
         raise ValueError(
             f"editorial manual reference must occur once in {repo_path}"
         )
-    manual_source = Path(reference["source"]).relative_to("manual")
+    manual_source = Path(treatment["manual_source"]).relative_to("manual")
     manual_href = (
         "../manual/"
         + str(manual_source.with_suffix("")).replace("/", "__")
         + ".html"
     )
     body = body.replace(
-        reference_text,
-        f'<a href="{manual_href}">{reference_text}</a>',
+        manual_label,
+        f'<a class="primer-manual-link" href="{manual_href}">{manual_label}</a>',
     )
     if body.count("<hr>") != 1:
         raise ValueError(
@@ -662,17 +822,322 @@ def apply_primer_editorial(body, source, repo_path, treatment):
     )
 
 
-PRIMER_EDITORIAL_PAGES = load_primer_editorial_pages()
+def primer_special_header(
+    eyebrow,
+    progress_label,
+    title,
+    story_title,
+    motif,
+    progress=None,
+):
+    """Build a primer header for contents, prelude, or capstone pages."""
+    progress_html = ""
+    if progress is not None:
+        progress_html = f"""
+  <div class="primer-progress" aria-hidden="true">
+    <span style="width: {progress:.4f}%"></span>
+  </div>"""
+    return f"""
+<header class="primer-chapter-header primer-special-header">
+  <div class="primer-chapter-meta">
+    <p class="primer-part">{html_module.escape(eyebrow)}</p>
+    <p class="primer-progress-label">{html_module.escape(progress_label)}</p>
+  </div>
+  <div class="primer-title-row">
+    <div>
+      <h1><span class="primer-chapter-word">{html_module.escape(title)}</span></h1>
+      <p class="primer-story-title">{html_module.escape(story_title)}</p>
+    </div>
+    {primer_motif(motif)}
+  </div>{progress_html}
+</header>""".strip()
+
+
+def apply_primer_prelude(body, repo_path):
+    """Give the pronunciation prelude the primer's reference-page treatment."""
+    heading = "<h1>Before you begin: the sounds</h1>"
+    if body.count(heading) != 1:
+        raise ValueError(f"primer prelude heading changed: {repo_path}")
+    header = primer_special_header(
+        "Prelude",
+        "Before chapter 1",
+        "Before you begin",
+        "The sounds",
+        "breath",
+    )
+    body = body.replace(heading, header)
+    header_end = body.index("</header>") + len("</header>")
+    opening = body[header_end:]
+    opening, lede_count = re.subn(
+        r"<p>(.*?)</p>",
+        r'<p class="primer-chapter-lede">\1</p>',
+        opening,
+        count=1,
+        flags=re.S,
+    )
+    if lede_count != 1:
+        raise ValueError(f"primer prelude has no lede: {repo_path}")
+    body = body[:header_end] + opening
+    body, section_count = re.subn(
+        r"<h2>(.*?)</h2>",
+        r'<h2 class="primer-reference-title">\1</h2>',
+        body,
+    )
+    if section_count != 5:
+        raise ValueError(
+            f"primer prelude requires five reference sections: {repo_path}"
+        )
+    body, table_count = re.subn(
+        r"<table>",
+        '<table class="primer-sound-table">',
+        body,
+    )
+    if table_count != 2:
+        raise ValueError(f"primer prelude requires two sound tables: {repo_path}")
+    body = mark_inline_phi(mark_primer_inline_phi(body))
+    closing = (
+        "<p>Now turn the page. From here on, the language will teach you "
+        "itself.</p>"
+    )
+    if body.count(closing) != 1:
+        raise ValueError(f"primer prelude closing changed: {repo_path}")
+    return body.replace(
+        closing,
+        f'<aside class="primer-threshold-note">{closing}</aside>',
+    )
+
+
+def apply_primer_capstone(body, repo_path):
+    """Give the capstone a bridge-page treatment without changing its source."""
+    heading = "<h1>Capstone · the fable</h1>"
+    if body.count(heading) != 1:
+        raise ValueError(f"primer capstone heading changed: {repo_path}")
+    header = primer_special_header(
+        "Capstone",
+        "After chapter 24",
+        "The fable",
+        "A bridge to the texts",
+        "capstone",
+        progress=100,
+    )
+    body = body.replace(heading, header)
+    header_end = body.index("</header>") + len("</header>")
+    opening = body[header_end:]
+    opening, lede_count = re.subn(
+        r"<p>(.*?)</p>",
+        r'<p class="primer-chapter-lede">\1</p>',
+        opening,
+        count=1,
+        flags=re.S,
+    )
+    if lede_count != 1:
+        raise ValueError(f"primer capstone has no lede: {repo_path}")
+    body = body[:header_end] + opening
+    body, section_count = re.subn(
+        r"<h2>(.*?)</h2>",
+        r'<h2 class="primer-reference-title">\1</h2>',
+        body,
+    )
+    if section_count != 1:
+        raise ValueError(f"primer capstone requires one road section: {repo_path}")
+    if body.count("<hr>") != 1:
+        raise ValueError(f"primer capstone requires one closing rule: {repo_path}")
+    chapter_body, closing = body.split("<hr>", 1)
+    chapter_body = mark_inline_phi(mark_primer_inline_phi(chapter_body))
+    section_at = chapter_body.index(
+        '<h2 class="primer-reference-title">After the fable</h2>'
+    )
+    prefix, roads = chapter_body[:section_at], chapter_body[section_at:]
+    road_index = 0
+
+    def style_road(match):
+        nonlocal road_index
+        road_index += 1
+        road_class = (
+            "primer-road-intro" if road_index == 1 else "primer-capstone-road"
+        )
+        return f'<p class="{road_class}">{match.group(1)}</p>'
+
+    roads = re.sub(r"<p>(.*?)</p>", style_road, roads, flags=re.S)
+    if road_index != 4:
+        raise ValueError(f"primer capstone requires three roads: {repo_path}")
+    chapter_body = prefix + roads
+    manual_label = "The manual"
+    if chapter_body.count(manual_label) != 1:
+        raise ValueError(f"primer capstone manual pointer changed: {repo_path}")
+    chapter_body = chapter_body.replace(
+        manual_label,
+        '<a class="primer-manual-link" href="../manual/index.html">'
+        f"{manual_label}</a>",
+    )
+    closing_match = re.fullmatch(
+        r"\s*<p><em>(.*?)</em></p>\s*<p><em>(.*?)</em></p>\s*",
+        closing,
+        flags=re.S,
+    )
+    if (
+        closing_match is None
+        or not is_current_phi_passage(closing_match.group(1))
+    ):
+        raise ValueError(f"primer capstone farewell changed: {repo_path}")
+    return (
+        chapter_body
+        + '<aside class="primer-capstone-farewell">'
+        + '<blockquote class="primer-reading" aria-label="Phi passage">'
+        + '<span class="primer-reading-line">'
+        + f'<span class="primer-phi-line">{closing_match.group(1)}</span>'
+        + "</span></blockquote>"
+        + f'<p>{closing_match.group(2)}</p>'
+        + "</aside>"
+    )
+
+
+def apply_primer_contents(body):
+    """Shape the primer contents as a four-part reading ladder."""
+    heading = "<h1>The Phi Primer</h1>"
+    if body.count(heading) != 1:
+        raise ValueError("primer contents heading changed")
+    header = primer_special_header(
+        "Primer",
+        "Contents",
+        "The Phi Primer",
+        "Twenty-four chapters in four parts",
+        "contents",
+    )
+    body = body.replace(heading, header)
+    header_end = body.index("</header>") + len("</header>")
+    opening = body[header_end:]
+    opening, lede_count = re.subn(
+        r"<p>(.*?)</p>",
+        r'<p class="primer-chapter-lede">\1</p>',
+        opening,
+        count=1,
+        flags=re.S,
+    )
+    if lede_count != 1:
+        raise ValueError("primer contents has no lede")
+    body = body[:header_end] + opening
+    body, section_count = re.subn(
+        r"<h2>(.*?)</h2>",
+        r'<h2 class="primer-reference-title">\1</h2>',
+        body,
+    )
+    if section_count != 4:
+        raise ValueError("primer contents requires four named sections")
+
+    ladder_index = 0
+
+    def style_ladder(match):
+        nonlocal ladder_index
+        ladder_index += 1
+        configured_label = PRIMER_EDITORIAL_PARTS[ladder_index - 1][
+            "label"
+        ].split(" · ", 1)
+        if configured_label != [match.group(1), match.group(2)]:
+            raise ValueError(
+                "primer contents part label does not match editorial configuration"
+            )
+        rows = re.findall(
+            r"<tr><td><a [^>]*>([0-9]+)</a></td><td>.*?</td>"
+            r"<td>(.*?)</td></tr>",
+            match.group(3),
+            flags=re.S,
+        )
+        for chapter_text, story_title in rows:
+            chapter = int(chapter_text)
+            treatment = next(
+                (
+                    candidate
+                    for candidate in PRIMER_EDITORIAL_PAGES.values()
+                    if candidate["progress"]["current"] == chapter
+                ),
+                None,
+            )
+            if (
+                treatment is None
+                or treatment["story_title"]
+                != html_module.unescape(re.sub(r"<[^>]+>", "", story_title))
+            ):
+                raise ValueError(
+                    f"primer contents story title differs for chapter {chapter}"
+                )
+        return (
+            f'<section class="primer-ladder-part primer-ladder-part-{ladder_index}">'
+            '<h3>'
+            f'<span class="primer-ladder-number">{match.group(1)}</span>'
+            f'<span>{match.group(2)}</span>'
+            "</h3>"
+            f'<table class="primer-ladder">{match.group(3)}</table>'
+            "</section>"
+        )
+
+    body = re.sub(
+        r"<p><strong>(Part [IV]+): ([^<]+)</strong></p>\n"
+        r"<table>(.*?)</table>",
+        style_ladder,
+        body,
+        flags=re.S,
+    )
+    if ladder_index != len(PRIMER_EDITORIAL_PARTS):
+        raise ValueError("primer contents ladder does not match configured parts")
+    first_part = body.index('<section class="primer-ladder-part')
+    last_part = body.rindex("</section>") + len("</section>")
+    body = (
+        body[:first_part]
+        + '<div class="primer-ladder-grid">'
+        + body[first_part:last_part]
+        + "</div>"
+        + body[last_part:]
+    )
+    body, capstone_count = re.subn(
+        r"<p><strong>Capstone</strong>: (.*?)</p>",
+        r'<p class="primer-contents-capstone"><strong>Capstone</strong>: \1</p>',
+        body,
+        flags=re.S,
+    )
+    if capstone_count != 1:
+        raise ValueError("primer contents capstone pointer changed")
+    body = mark_inline_phi(mark_primer_inline_phi(body))
+    body, status_count = re.subn(
+        (
+            r'(<h2 class="primer-reference-title">Status</h2>)\n'
+            r"<p>(.*?)</p>"
+        ),
+        r'\1\n<p class="primer-status-note">\2</p>',
+        body,
+        flags=re.S,
+    )
+    if status_count != 1:
+        raise ValueError("primer contents status note changed")
+    body, start_count = re.subn(
+        r"<p>Start with (.*?)</p>",
+        r'<p class="primer-start-note">Start with \1</p>',
+        body,
+        flags=re.S,
+    )
+    if start_count != 1:
+        raise ValueError("primer contents start note changed")
+    return body
+
+
+(
+    PRIMER_EDITORIAL_TOTAL,
+    PRIMER_EDITORIAL_PARTS,
+    PRIMER_EDITORIAL_PAGES,
+) = load_primer_editorial()
 
 
 NAV_PRIMER = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../short_road.html">walk</a> <span class="sep">&middot;</span> <a class="here" href="index.html">primer</a> <span class="sep">&middot;</span> <a href="../book/index.html">book</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="../pamphlets/index.html">pamphlets</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
-def primer_page(body, title, footer_nav="", editorial=False):
-    body_class = "landing primer primer-editorial" if editorial else "landing primer"
-    content = (
-        f'<article class="primer-chapter">\n{body}\n{footer_nav}\n</article>'
-        if editorial else f"{body}\n{footer_nav}"
-    )
+def primer_page(body, title, footer_nav="", editorial_kind=None):
+    body_class = "landing primer"
+    content = f"{body}\n{footer_nav}"
+    if editorial_kind is not None:
+        body_class += f" primer-editorial primer-{editorial_kind}-page"
+        content = (
+            f'<article class="primer-chapter primer-{editorial_kind}">\n'
+            f"{body}\n{footer_nav}\n</article>"
+        )
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -707,6 +1172,15 @@ for i, f in enumerate(chapters):
     treatment = PRIMER_EDITORIAL_PAGES.get(repo_path)
     if treatment is not None:
         body = apply_primer_editorial(body, md, repo_path, treatment)
+        editorial_kind = "lesson"
+    elif f.name == "00_before_you_begin.md":
+        body = apply_primer_prelude(body, repo_path)
+        editorial_kind = "prelude"
+    elif f.name == "25_capstone.md":
+        body = apply_primer_capstone(body, repo_path)
+        editorial_kind = "capstone"
+    else:
+        raise ValueError(f"primer page has no editorial treatment: {repo_path}")
     prev_link = f'<a href="{chapters[i-1].stem}.html">&lsaquo; {titles[chapters[i-1].name]}</a>' if i > 0 else ""
     next_link = f'<a href="{chapters[i+1].stem}.html">{titles[chapters[i+1].name]} &rsaquo;</a>' if i + 1 < len(chapters) else ""
     footer_nav = f'<div class="chapnav">{prev_link}<a href="index.html">contents</a>{next_link}</div>'
@@ -715,7 +1189,7 @@ for i, f in enumerate(chapters):
             link_text_citations(body),
             titles[f.name],
             footer_nav,
-            editorial=treatment is not None,
+            editorial_kind=editorial_kind,
         )
     )
 
@@ -731,7 +1205,11 @@ for f in chapters:
             f'<tr><td><a href="{f.stem}.html">{n}</a></td>')
 start_end = (f'<p>Start with <a href="{chapters[0].stem}.html">{titles[chapters[0].name]}</a>; '
              f'the ladder above links every chapter; end with <a href="{chapters[-1].stem}.html">the capstone</a>.</p>')
-(PRIMER_OUT / "index.html").write_text(primer_page(link_text_citations(readme_body) + "\n" + start_end, "contents"))
+readme_body = link_text_citations(readme_body) + "\n" + start_end
+readme_body = apply_primer_contents(readme_body)
+(PRIMER_OUT / "index.html").write_text(
+    primer_page(readme_body, "contents", editorial_kind="contents")
+)
 print(f"wrote build/site/primer/: {len(chapters)} chapters + contents")
 
 # ---- manual reader: manual/**.md rendered to build/site/manual/ ----

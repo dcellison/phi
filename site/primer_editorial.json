@@ -1,17 +1,127 @@
 {
+  "total_chapters": 24,
+  "parts": [
+    {
+      "first": 1,
+      "last": 6,
+      "label": "Part I · Being and doing",
+      "motif": "household"
+    },
+    {
+      "first": 7,
+      "last": 12,
+      "label": "Part II · Time",
+      "motif": "seasons"
+    },
+    {
+      "first": 13,
+      "last": 18,
+      "label": "Part III · People together",
+      "motif": "gathering"
+    },
+    {
+      "first": 19,
+      "last": 24,
+      "label": "Part IV · Saying and thinking",
+      "motif": "story"
+    }
+  ],
   "pages": {
     "primer/01_the_household.md": {
-      "part": "Part I · Being and doing",
       "story_title": "The household",
-      "progress": {
-        "current": 1,
-        "total": 24
-      },
-      "motif": "household",
-      "manual_reference": {
-        "text": "manual, Part IV, chapter 10 (The Mindful Sentence)",
-        "source": "manual/part4_grammar/ch10_mindful_sentence/01_introduction.md"
-      }
+      "manual_source": "manual/part4_grammar/ch10_mindful_sentence/01_introduction.md"
+    },
+    "primer/02_the_day_begins.md": {
+      "story_title": "The day begins",
+      "manual_source": "manual/part4_grammar/ch10_mindful_sentence/02_sov_worldview.md"
+    },
+    "primer/03_big_and_small.md": {
+      "story_title": "Big and small",
+      "manual_source": "manual/part4_grammar/ch11_nouns/03_plural_marking.md"
+    },
+    "primer/04_at_the_door.md": {
+      "story_title": "At the door",
+      "manual_source": "manual/part4_grammar/ch09_particle_system/03_slot_0_framing.md"
+    },
+    "primer/05_whose_and_where.md": {
+      "story_title": "Whose and where",
+      "manual_source": "manual/part4_grammar/ch11_nouns/06_expressing_possession.md"
+    },
+    "primer/06_around_the_village.md": {
+      "story_title": "Around the village",
+      "manual_source": "manual/part4_grammar/ch11_nouns/08_the_words_of_place.md"
+    },
+    "primer/07_yesterday.md": {
+      "story_title": "Yesterday",
+      "manual_source": "manual/part4_grammar/ch14_verbs_time/02_past_to.md"
+    },
+    "primer/08_tomorrow.md": {
+      "story_title": "Tomorrow",
+      "manual_source": "manual/part4_grammar/ch14_verbs_time/03_future_so.md"
+    },
+    "primer/09_meanwhile.md": {
+      "story_title": "Meanwhile",
+      "manual_source": "manual/part4_grammar/ch14_verbs_time/04_aspect.md"
+    },
+    "primer/10_finished_work.md": {
+      "story_title": "Finished work",
+      "manual_source": "manual/part4_grammar/ch14_verbs_time/04_aspect.md"
+    },
+    "primer/11_every_morning.md": {
+      "story_title": "Every morning",
+      "manual_source": "manual/part4_grammar/ch14_verbs_time/04_aspect.md"
+    },
+    "primer/12_the_year_turns.md": {
+      "story_title": "The year turns",
+      "manual_source": "manual/part4_grammar/ch14_verbs_time/07_the_words_of_time.md"
+    },
+    "primer/13_what_is_not.md": {
+      "story_title": "What is not",
+      "manual_source": "manual/part4_grammar/ch15_voice_possibility/05_negation_ma.md"
+    },
+    "primer/14_the_rules_of_the_house.md": {
+      "story_title": "The rules of the house",
+      "manual_source": "manual/part4_grammar/ch15_voice_possibility/03_possibility_po.md"
+    },
+    "primer/15_at_the_market.md": {
+      "story_title": "At the market",
+      "manual_source": "manual/part4_grammar/ch12_numbers/01_the_ternary_foundation.md"
+    },
+    "primer/16_visitors.md": {
+      "story_title": "Visitors",
+      "manual_source": "manual/part6_mastery/ch21_social_context/01_the_vocative_kona.md"
+    },
+    "primer/17_the_gift.md": {
+      "story_title": "The gift",
+      "manual_source": "manual/part4_grammar/ch11_nouns/12_the_words_of_the_exchange.md"
+    },
+    "primer/18_together.md": {
+      "story_title": "Together",
+      "manual_source": "manual/part5_complex/ch17_coordination/01_simple_conjunction.md"
+    },
+    "primer/19_the_message.md": {
+      "story_title": "The message",
+      "manual_source": "manual/part5_complex/ch19_subordinate_clauses/02_complement_clauses.md"
+    },
+    "primer/20_the_question.md": {
+      "story_title": "The question",
+      "manual_source": "manual/part5_complex/ch19_subordinate_clauses/02_complement_clauses.md"
+    },
+    "primer/21_the_elders_story.md": {
+      "story_title": "The elder's story",
+      "manual_source": "manual/part5_complex/ch19_subordinate_clauses/03_speech.md"
+    },
+    "primer/22_the_one_who.md": {
+      "story_title": "The one who",
+      "manual_source": "manual/part5_complex/ch20_relative_clauses/02_relativizer_rena.md"
+    },
+    "primer/23_weather_plans.md": {
+      "story_title": "Weather plans",
+      "manual_source": "manual/part4_grammar/ch09_particle_system/03_slot_0_framing.md"
+    },
+    "primer/24_the_news.md": {
+      "story_title": "The news",
+      "manual_source": "manual/part4_grammar/ch16_evidentiality/01_introduction.md"
     }
   }
 }
