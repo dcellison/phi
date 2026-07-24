@@ -549,9 +549,15 @@ def load_editorial_pages():
         source_path = ROOT / repo_path
         if not source_path.is_file():
             raise ValueError(f"editorial source does not exist: {repo_path}")
-        if set(treatment) != {"pull_quotes"}:
+        if not isinstance(treatment, dict):
             raise ValueError(
-                f"editorial treatment for {repo_path} must contain only 'pull_quotes'"
+                f"editorial treatment for {repo_path} must be an object"
+            )
+        fields = set(treatment)
+        if "pull_quotes" not in fields or not fields <= {"eyebrow", "pull_quotes"}:
+            raise ValueError(
+                f"editorial treatment for {repo_path} requires 'pull_quotes' "
+                "and permits an optional 'eyebrow'"
             )
         quotes = treatment["pull_quotes"]
         if not isinstance(quotes, list) or not quotes or any(
@@ -562,6 +568,13 @@ def load_editorial_pages():
             )
         if len(quotes) != len(set(quotes)):
             raise ValueError(f"editorial pull_quotes repeat in {repo_path}")
+        eyebrow = treatment.get("eyebrow")
+        if eyebrow is not None and (
+            not isinstance(eyebrow, str) or not eyebrow.strip()
+        ):
+            raise ValueError(
+                f"editorial eyebrow for {repo_path} must be a non-empty string"
+            )
     return pages
 
 
@@ -591,9 +604,12 @@ def mark_inline_phi(body):
     """Identify backticked Phi in prose without styling paths or labels."""
     def mark_code(match):
         code = html_module.unescape(match.group(1)).strip()
-        if not re.fullmatch(r"[a-z]+(?: [a-z]+)*[.]?", code):
+        if not re.fullmatch(
+            r"[a-z]+(?:(?:[.]? | [.]{3} )[a-z]+)*[.]?",
+            code,
+        ):
             return match.group(0)
-        words = code.removesuffix(".").split()
+        words = re.findall(r"[a-z]+", code)
         if not words or any(word not in ALL_WORDS for word in words):
             return match.group(0)
         return f'<code class="phi-inline">{match.group(1)}</code>'
@@ -610,9 +626,10 @@ def apply_book_editorial(body, source, repo_path, treatment):
     if not chapter_match:
         raise ValueError(f"editorial book path lacks a chapter number: {repo_path}")
     chapter_number = int(chapter_match.group(1))
+    eyebrow = treatment.get("eyebrow", f"Chapter {chapter_number}")
     body, heading_count = re.subn(
         r"(<h1>.*?</h1>)",
-        rf'<p class="chapter-eyebrow">Chapter {chapter_number}</p>\n\1',
+        rf'<p class="chapter-eyebrow">{html_module.escape(eyebrow)}</p>\n\1',
         body,
         count=1,
         flags=re.S,
@@ -632,7 +649,7 @@ def apply_book_editorial(body, source, repo_path, treatment):
     body = mark_inline_phi(body)
 
     paragraph_matches = list(re.finditer(r"<p>.*?</p>", body, flags=re.S))
-    insertions = {}
+    contexts = {}
     for quote in treatment["pull_quotes"]:
         if source.count(quote) != 1:
             raise ValueError(
@@ -651,9 +668,16 @@ def apply_book_editorial(body, source, repo_path, treatment):
             '<aside class="chapter-pullquote" aria-hidden="true">'
             f"<p>{escaped_quote}</p></aside>\n"
         )
-        insertions.setdefault(containing[0].start(), []).append(aside)
-    for position in sorted(insertions, reverse=True):
-        body = body[:position] + "".join(insertions[position]) + body[position:]
+        paragraph = containing[0]
+        contexts.setdefault((paragraph.start(), paragraph.end()), []).append(aside)
+    for (start, end), asides in sorted(contexts.items(), reverse=True):
+        context = (
+            '<div class="pullquote-context">\n'
+            + "".join(asides)
+            + body[start:end]
+            + "\n</div>"
+        )
+        body = body[:start] + context + body[end:]
     return body
 
 

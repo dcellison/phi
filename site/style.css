@@ -366,8 +366,10 @@ footer a { color: var(--sage); }
 .chapnav a:hover { color: var(--ink); }
 
 /* --- opt-in editorial chapter treatment (site/editorial.json) --- */
-.book-editorial main { max-width: 64rem; }
-.book-editorial .chapter-copy { max-width: 38rem; margin: 0 auto; }
+.book-editorial main { max-width: 64rem; min-width: 0; width: 100%; }
+.book-editorial .chapter-copy { max-width: 38rem; min-width: 0; margin: 0 auto; width: 100%; }
+.book-editorial p { overflow-wrap: anywhere; }
+.book-editorial pre { max-width: 100%; }
 .book-editorial .chapter-eyebrow {
   color: var(--gold);
   font-family: var(--sans);
@@ -410,6 +412,7 @@ footer a { color: var(--sage); }
   width: 14rem;
 }
 .book-editorial .chapter-pullquote p { margin: 0; }
+.book-editorial .pullquote-context { display: flow-root; }
 .book-editorial .chapnav { clear: both; }
 .book-editorial code.phi-inline {
   -webkit-box-decoration-break: clone;
