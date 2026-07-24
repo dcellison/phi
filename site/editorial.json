@@ -1,8 +1,85 @@
 {
   "pages": {
+    "book/00_the_boatman.md": {
+      "eyebrow": "Opening",
+      "pull_quotes": [
+        "The grammar supplies the question; it cannot supply the missing custom."
+      ]
+    },
+    "book/01_the_hurried_tongue.md": {
+      "pull_quotes": [
+        "They do, however, make one question reasonable: what happens when the material of communication is designed to keep source, intention, and relationship available for notice?"
+      ]
+    },
     "book/02_what_a_refusal_is.md": {
       "pull_quotes": [
         "The language did not mislay the hour. It looked at the hour and said no."
+      ]
+    },
+    "book/03_the_invented_century.md": {
+      "pull_quotes": [
+        "A community anchored in use shrugs off reform; a community anchored in design is one clever proposal away from splitting."
+      ]
+    },
+    "book/04_announce_then_deliver.md": {
+      "pull_quotes": [
+        "A rehearsal is not a rewiring, and this book will not blur the two."
+      ]
+    },
+    "book/05_the_web.md": {
+      "pull_quotes": [
+        "Transparency gives the memory somewhere to put the meaning. It does not put it there unaided."
+      ]
+    },
+    "book/06_what_it_will_not_say.md": {
+      "pull_quotes": [
+        "Peace linguistics becomes euphemism the moment it makes a witness borrow the gentler word."
+      ]
+    },
+    "book/07_a_literature_before_a_community.md": {
+      "pull_quotes": [
+        "The literature does not pre-write the community's agreement. It gives disagreement a page number."
+      ]
+    },
+    "book/08_the_workshop.md": {
+      "pull_quotes": [
+        "Disclosure without an answerable human is a label on a can."
+      ]
+    },
+    "book/09_a_serious_practice.md": {
+      "pull_quotes": [
+        "Nobody joins a choir to delay aging. They join to sing."
+      ]
+    },
+    "book/10_the_distance_of_a_learned_tongue.md": {
+      "pull_quotes": [
+        "Distance that cannot be declined stops being distance. It is testimony on a schedule."
+      ]
+    },
+    "book/11_the_lens_not_the_cage.md": {
+      "pull_quotes": [
+        "That leaves room for a lens, but none for a locked room."
+      ]
+    },
+    "book/12_a_language_for_the_commons.md": {
+      "pull_quotes": [
+        "A paradigm and a vocabulary. The manifesto describes its gift to its members as a way of seeing and a stock of words."
+      ]
+    },
+    "book/13_escaping_words.md": {
+      "pull_quotes": [
+        "Escape, not conquest, is what words are built for, and designed words have been escaping their designers for a century."
+      ]
+    },
+    "book/14_the_mind_question.md": {
+      "pull_quotes": [
+        "The language offers the practice; speakers do the work."
+      ]
+    },
+    "book/15_the_door.md": {
+      "eyebrow": "Close",
+      "pull_quotes": [
+        "Borrow a word. That is the entire first invitation."
       ]
     }
   }
