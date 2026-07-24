@@ -1,0 +1,17 @@
+{
+  "pages": {
+    "primer/01_the_household.md": {
+      "part": "Part I · Being and doing",
+      "story_title": "The household",
+      "progress": {
+        "current": 1,
+        "total": 24
+      },
+      "motif": "household",
+      "manual_reference": {
+        "text": "manual, Part IV, chapter 10 (The Mindful Sentence)",
+        "source": "manual/part4_grammar/ch10_mindful_sentence/01_introduction.md"
+      }
+    }
+  }
+}

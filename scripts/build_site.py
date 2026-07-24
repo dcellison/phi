@@ -40,6 +40,7 @@ def prepare_site_output():
     for name in ("app.js", "explore.html", "reader.js", "style.css", "theme.js"):
         shutil.copy2(SITE_SRC / name, BUILD_SITE / name)
     shutil.copytree(SITE_SRC / "fonts", BUILD_SITE / "fonts")
+    shutil.copytree(SITE_SRC / "icons", BUILD_SITE / "icons")
 
 
 def prepare_html_output(path):
@@ -307,6 +308,67 @@ def link_text_citations(html):
     )
     return html
 
+
+PHI_INLINE_FORM = re.compile(
+    r"[a-z]+(?:(?:[.]? | [.]{3} )[a-z]+)*[.]?"
+)
+
+
+def is_current_phi(value):
+    """Return whether a short rendered string consists only of current Phi."""
+    text = html_module.unescape(value).strip()
+    if not PHI_INLINE_FORM.fullmatch(text):
+        return False
+    words = re.findall(r"[a-z]+", text)
+    return bool(words) and all(word in ALL_WORDS for word in words)
+
+
+def mark_inline_phi(body):
+    """Identify backticked Phi in prose without styling paths or labels."""
+    def mark_code(match):
+        if not is_current_phi(match.group(1)):
+            return match.group(0)
+        return f'<code class="phi-inline">{match.group(1)}</code>'
+
+    def mark_paragraph(match):
+        return re.sub(r"<code>([^<]+)</code>", mark_code, match.group(0))
+
+    return re.sub(r"<p(?: [^>]*)?>.*?</p>", mark_paragraph, body, flags=re.S)
+
+
+def mark_primer_inline_phi(body):
+    """Lift the primer's emphasized inline Phi into the shared chip style."""
+    def mark_paragraph(match):
+        paragraph = match.group(0)
+
+        def mark_strong(strong_match):
+            if not is_current_phi(strong_match.group(1)):
+                return strong_match.group(0)
+            return f'<code class="phi-inline">{strong_match.group(1)}</code>'
+
+        paragraph = re.sub(r"<strong>([^<]+)</strong>", mark_strong, paragraph)
+
+        def mark_em_bridge(bridge_match):
+            if bridge_match.group(2) not in ALL_WORDS:
+                return bridge_match.group(0)
+            return (
+                "</em>"
+                + bridge_match.group(1)
+                + f'<code class="phi-inline">{bridge_match.group(2)}</code>'
+                + bridge_match.group(3)
+                + bridge_match.group(4)
+                + "<em>"
+            )
+
+        return re.sub(
+            r"</em>(\s+)([a-z]+)([.,:;]?)(\s+)<em>",
+            mark_em_bridge,
+            paragraph,
+        )
+
+    return re.sub(r"<p(?: [^>]*)?>.*?</p>", mark_paragraph, body, flags=re.S)
+
+
 def add_gloss_popovers(html):
     """Appendix A's Leipzig table carries a fourth column of longer
     explanations; lift it into each row so a click or hover reveals it
@@ -333,6 +395,7 @@ PRIMER_SRC = ROOT / "primer"
 PRIMER_OUT = BUILD_SITE / "primer"
 prepare_html_output(PRIMER_OUT)
 
+
 def title_of(md):
     for line in md.splitlines():
         if line.startswith("# "):
@@ -342,9 +405,274 @@ def title_of(md):
             return re.sub(r"[*`]", "", line[3:]).strip()
     return "untitled"
 
+
+def load_primer_editorial_pages():
+    """Load opt-in primer treatments and reject stale or incomplete entries."""
+    config_path = SITE_SRC / "primer_editorial.json"
+    config = json.loads(config_path.read_text(encoding="utf-8"))
+    pages = config.get("pages")
+    if set(config) != {"pages"} or not isinstance(pages, dict):
+        raise ValueError("site/primer_editorial.json must contain one 'pages' object")
+    required = {
+        "part",
+        "story_title",
+        "progress",
+        "motif",
+        "manual_reference",
+    }
+    for repo_path, treatment in pages.items():
+        source_path = ROOT / repo_path
+        if (
+            not repo_path.startswith("primer/")
+            or not source_path.is_file()
+            or not isinstance(treatment, dict)
+        ):
+            raise ValueError(f"invalid primer editorial source: {repo_path}")
+        if set(treatment) != required:
+            raise ValueError(
+                f"primer editorial treatment for {repo_path} requires "
+                f"{sorted(required)}"
+            )
+        for field in ("part", "story_title"):
+            value = treatment[field]
+            if not isinstance(value, str) or not value.strip():
+                raise ValueError(
+                    f"primer editorial {field} for {repo_path} must be non-empty"
+                )
+        progress = treatment["progress"]
+        if (
+            not isinstance(progress, dict)
+            or set(progress) != {"current", "total"}
+            or not all(
+                isinstance(progress[field], int) and progress[field] > 0
+                for field in ("current", "total")
+            )
+            or progress["current"] > progress["total"]
+        ):
+            raise ValueError(
+                f"primer editorial progress for {repo_path} must be positive "
+                "current and total integers"
+            )
+        chapter_match = re.match(r"primer/([0-9]+)_", repo_path)
+        if (
+            chapter_match is None
+            or int(chapter_match.group(1)) != progress["current"]
+        ):
+            raise ValueError(
+                f"primer editorial progress does not match {repo_path}"
+            )
+        if treatment["motif"] not in {"household"}:
+            raise ValueError(
+                f"unknown primer editorial motif for {repo_path}: "
+                f"{treatment['motif']}"
+            )
+        reference = treatment["manual_reference"]
+        if (
+            not isinstance(reference, dict)
+            or set(reference) != {"text", "source"}
+            or any(
+                not isinstance(reference[field], str)
+                or not reference[field].strip()
+                for field in ("text", "source")
+            )
+            or not (ROOT / reference["source"]).is_file()
+        ):
+            raise ValueError(
+                f"invalid primer editorial manual reference for {repo_path}"
+            )
+    return pages
+
+
+def primer_motif(name):
+    """Return the restrained part motif used by an editorial primer page."""
+    if name != "household":
+        raise ValueError(f"unknown primer motif: {name}")
+    # Lucide House and Sprout outlines; the deployed site carries the ISC notice.
+    return """
+<div class="primer-part-motif" aria-hidden="true">
+  <svg viewBox="0 0 24 24" focusable="false">
+    <path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"/>
+    <path d="M3 10a2 2 0 0 1 .71-1.53l7-6a2 2 0 0 1 2.58 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+  </svg>
+  <svg viewBox="0 0 24 24" focusable="false">
+    <path d="M7 20h8"/>
+    <path d="M10 20c5.5-2.5.8-6.4 3-10"/>
+    <path d="M9.5 9.4c1.1.8 1.8 2.2 2.3 3.7-2 .4-3.5 0-4.6-.7-1.1-.8-1.8-2.2-2.3-3.7 2-.4 3.5 0 4.6.7z"/>
+    <path d="M14.1 6a7 7 0 0 0-1.9 2.8c1.7.3 3.1 0 4.1-.7 1-.7 1.6-1.9 2-3.3-1.8-.3-3.2 0-4.2.7z"/>
+  </svg>
+</div>""".strip()
+
+
+def style_primer_blockquotes(body):
+    """Distinguish Phi reading lines and speaker turns in a primer chapter."""
+    def style_quote(match):
+        lines = [
+            line.strip()
+            for line in match.group(1).split("<br>")
+            if line.strip()
+        ]
+        readings = []
+        for line in lines:
+            reading = re.fullmatch(r"<strong>(.*?)</strong>", line, flags=re.S)
+            if reading is None or not is_current_phi(reading.group(1)):
+                break
+            readings.append(
+                f'<span class="primer-phi-line">{reading.group(1)}</span>'
+            )
+        else:
+            return (
+                '<blockquote class="primer-reading" aria-label="Phi passage">'
+                + "".join(readings)
+                + "</blockquote>"
+            )
+
+        turns = []
+        for line in lines:
+            turn = re.fullmatch(
+                r"([a-z]+):\s*<strong>(.*?)</strong>",
+                line,
+                flags=re.S,
+            )
+            if (
+                turn is None
+                or turn.group(1) not in ALL_WORDS
+                or not is_current_phi(turn.group(2))
+            ):
+                return match.group(0)
+            turns.append(
+                '<span class="primer-dialogue-line">'
+                f'<span class="primer-speaker">{turn.group(1)}</span>'
+                f'<span class="primer-utterance">{turn.group(2)}</span>'
+                "</span>"
+            )
+        return (
+            '<blockquote class="primer-dialogue" aria-label="Phi dialogue">'
+            + "".join(turns)
+            + "</blockquote>"
+        )
+
+    return re.sub(r"<blockquote>(.*?)</blockquote>", style_quote, body, flags=re.S)
+
+
+def apply_primer_editorial(body, source, repo_path, treatment):
+    """Add the opt-in reader treatment for one primer chapter."""
+    progress = treatment["progress"]
+    heading = re.search(r"<h1>(.*?)</h1>", body, flags=re.S)
+    if heading is None:
+        raise ValueError(f"editorial primer source has no heading: {repo_path}")
+    heading_parts = heading.group(1).split(" · ", 1)
+    if (
+        len(heading_parts) != 2
+        or not heading_parts[0].isdigit()
+        or int(heading_parts[0]) != progress["current"]
+    ):
+        raise ValueError(
+            f"editorial primer heading does not match progress: {repo_path}"
+        )
+    ratio = 100 * progress["current"] / progress["total"]
+    header = f"""
+<header class="primer-chapter-header">
+  <div class="primer-chapter-meta">
+    <p class="primer-part">{html_module.escape(treatment["part"])}</p>
+    <p class="primer-progress-label">Chapter {progress["current"]} of {progress["total"]}</p>
+  </div>
+  <div class="primer-title-row">
+    <div>
+      <h1><span class="primer-chapter-number">{heading_parts[0]}</span><span class="primer-title-divider" aria-hidden="true">·</span><span class="primer-chapter-word">{heading_parts[1]}</span></h1>
+      <p class="primer-story-title">{html_module.escape(treatment["story_title"])}</p>
+    </div>
+    {primer_motif(treatment["motif"])}
+  </div>
+  <div class="primer-progress" role="progressbar" aria-label="Chapter {progress["current"]} of {progress["total"]}" aria-valuemin="1" aria-valuemax="{progress["total"]}" aria-valuenow="{progress["current"]}">
+    <span style="width: {ratio:.4f}%"></span>
+  </div>
+</header>""".strip()
+    body = body[:heading.start()] + header + body[heading.end():]
+
+    header_end = body.index("</header>") + len("</header>")
+    opening = body[header_end:]
+    opening, lede_count = re.subn(
+        r"<p>(.*?)</p>",
+        r'<p class="primer-chapter-lede">\1</p>',
+        opening,
+        count=1,
+        flags=re.S,
+    )
+    if lede_count != 1:
+        raise ValueError(f"editorial primer source has no lede: {repo_path}")
+    body = body[:header_end] + opening
+    body = mark_inline_phi(mark_primer_inline_phi(body))
+
+    body, scene_count = re.subn(
+        r"<h2>([IVXLCDM]+)</h2>",
+        (
+            '<h2 class="primer-scene-title">'
+            '<span class="primer-scene-label">Scene</span>'
+            r'<span class="primer-scene-number">\1</span>'
+            "</h2>"
+        ),
+        body,
+    )
+    if scene_count == 0:
+        raise ValueError(f"editorial primer source has no scenes: {repo_path}")
+    body = style_primer_blockquotes(body)
+
+    body, ledger_count = re.subn(
+        (
+            r"<table>(?=<tr><th>new word</th><th>say it</th>"
+            r"<th>it means</th></tr>)"
+        ),
+        '<table class="primer-word-ledger">',
+        body,
+    )
+    if ledger_count == 0:
+        raise ValueError(f"editorial primer source has no word ledger: {repo_path}")
+    body = re.sub(
+        r"(</table>)\n<p>",
+        r'\1\n<p class="primer-scene-note">',
+        body,
+    )
+
+    reference = treatment["manual_reference"]
+    reference_text = html_module.escape(reference["text"], quote=False)
+    if source.count(reference["text"]) != 1 or body.count(reference_text) != 1:
+        raise ValueError(
+            f"editorial manual reference must occur once in {repo_path}"
+        )
+    manual_source = Path(reference["source"]).relative_to("manual")
+    manual_href = (
+        "../manual/"
+        + str(manual_source.with_suffix("")).replace("/", "__")
+        + ".html"
+    )
+    body = body.replace(
+        reference_text,
+        f'<a href="{manual_href}">{reference_text}</a>',
+    )
+    if body.count("<hr>") != 1:
+        raise ValueError(
+            f"editorial primer source must have one closing rule: {repo_path}"
+        )
+    chapter_body, closing = body.split("<hr>", 1)
+    return (
+        chapter_body
+        + '<aside class="primer-closing-note">\n'
+        + closing.strip()
+        + "\n</aside>"
+    )
+
+
+PRIMER_EDITORIAL_PAGES = load_primer_editorial_pages()
+
+
 NAV_PRIMER = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../short_road.html">walk</a> <span class="sep">&middot;</span> <a class="here" href="index.html">primer</a> <span class="sep">&middot;</span> <a href="../book/index.html">book</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="../pamphlets/index.html">pamphlets</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
-def primer_page(body, title, footer_nav=""):
+def primer_page(body, title, footer_nav="", editorial=False):
+    body_class = "landing primer primer-editorial" if editorial else "landing primer"
+    content = (
+        f'<article class="primer-chapter">\n{body}\n{footer_nav}\n</article>'
+        if editorial else f"{body}\n{footer_nav}"
+    )
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -356,11 +684,10 @@ def primer_page(body, title, footer_nav=""):
 <script src="../reader.js" defer></script>
 <link rel="stylesheet" href="../style.css">
 </head>
-<body class="landing primer">
+<body class="{body_class}">
 {NAV_PRIMER}
 <main>
-{body}
-{footer_nav}
+{content}
 </main>
 <footer>
   <p>The primer is written in the repository and rendered here at build time &mdash;
@@ -376,10 +703,21 @@ titles = {f.name: title_of(f.read_text()) for f in chapters}
 for i, f in enumerate(chapters):
     md = f.read_text()
     body = md_to_html(md)
+    repo_path = f.relative_to(ROOT).as_posix()
+    treatment = PRIMER_EDITORIAL_PAGES.get(repo_path)
+    if treatment is not None:
+        body = apply_primer_editorial(body, md, repo_path, treatment)
     prev_link = f'<a href="{chapters[i-1].stem}.html">&lsaquo; {titles[chapters[i-1].name]}</a>' if i > 0 else ""
     next_link = f'<a href="{chapters[i+1].stem}.html">{titles[chapters[i+1].name]} &rsaquo;</a>' if i + 1 < len(chapters) else ""
     footer_nav = f'<div class="chapnav">{prev_link}<a href="index.html">contents</a>{next_link}</div>'
-    (PRIMER_OUT / (f.stem + ".html")).write_text(primer_page(link_text_citations(body), titles[f.name], footer_nav))
+    (PRIMER_OUT / (f.stem + ".html")).write_text(
+        primer_page(
+            link_text_citations(body),
+            titles[f.name],
+            footer_nav,
+            editorial=treatment is not None,
+        )
+    )
 
 # contents page: the primer README plus a generated reading list
 readme_body = md_to_html((PRIMER_SRC / "README.md").read_text())
@@ -598,26 +936,6 @@ def mark_drop_cap(paragraph):
                 + paragraph[index + 1:]
             )
     raise ValueError("editorial opening paragraph has no visible letter")
-
-
-def mark_inline_phi(body):
-    """Identify backticked Phi in prose without styling paths or labels."""
-    def mark_code(match):
-        code = html_module.unescape(match.group(1)).strip()
-        if not re.fullmatch(
-            r"[a-z]+(?:(?:[.]? | [.]{3} )[a-z]+)*[.]?",
-            code,
-        ):
-            return match.group(0)
-        words = re.findall(r"[a-z]+", code)
-        if not words or any(word not in ALL_WORDS for word in words):
-            return match.group(0)
-        return f'<code class="phi-inline">{match.group(1)}</code>'
-
-    def mark_paragraph(match):
-        return re.sub(r"<code>([^<]+)</code>", mark_code, match.group(0))
-
-    return re.sub(r"<p(?: [^>]*)?>.*?</p>", mark_paragraph, body, flags=re.S)
 
 
 def apply_book_editorial(body, source, repo_path, treatment):
