@@ -5212,6 +5212,8 @@ def load_pamphlet_editorial():
                 "clause_links",
                 "event_views",
                 "source_routes",
+                "participant_reference",
+                "noun_phrase",
             }
         ):
             raise ValueError(
@@ -5298,6 +5300,8 @@ def pamphlet_motif(name):
         "clause_links",
         "event_views",
         "source_routes",
+        "participant_reference",
+        "noun_phrase",
     }:
         raise ValueError(f"unknown pamphlet motif: {name}")
     return '<div class="pamphlet-page-motif" aria-hidden="true"></div>'

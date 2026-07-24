@@ -4341,6 +4341,55 @@ table.text-ledger {
   mask-image: var(--pamphlet-icon);
   width: 2.5rem;
 }
+.pamphlet-participant-reference-page .pamphlet-page-motif::before {
+  --pamphlet-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2024%2024%27%20fill%3D%27none%27%20stroke%3D%27black%27%20stroke-linecap%3D%27round%27%20stroke-linejoin%3D%27round%27%20stroke-width%3D%271.25%27%3E%3Cpath%20d%3D%27M16%2021v-2a4%204%200%200%200-4-4H6a4%204%200%200%200-4%204v2%27%2F%3E%3Ccircle%20cx%3D%279%27%20cy%3D%277%27%20r%3D%274%27%2F%3E%3Cpath%20d%3D%27M22%2021v-2a4%204%200%200%200-3-3.87%27%2F%3E%3Cpath%20d%3D%27M16%203.13a4%204%200%200%201%200%207.75%27%2F%3E%3C%2Fsvg%3E");
+  -webkit-mask-image: var(--pamphlet-icon);
+  mask-image: var(--pamphlet-icon);
+}
+.pamphlet-participant-reference-page .pamphlet-page-motif::after {
+  --pamphlet-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2024%2024%27%20fill%3D%27none%27%20stroke%3D%27black%27%20stroke-linecap%3D%27round%27%20stroke-linejoin%3D%27round%27%20stroke-width%3D%271.25%27%3E%3Cpath%20d%3D%27M10.1%202.18a10%2010%200%200%201%203.8%200%27%2F%3E%3Cpath%20d%3D%27M13.9%2021.82a10%2010%200%200%201-3.8%200%27%2F%3E%3Cpath%20d%3D%27M17.61%203.72a10%2010%200%200%201%202.69%202.7%27%2F%3E%3Cpath%20d%3D%27M2.18%2013.9a10%2010%200%200%201%200-3.8%27%2F%3E%3Cpath%20d%3D%27M20.28%2017.61a10%2010%200%200%201-2.7%202.69%27%2F%3E%3Cpath%20d%3D%27M21.82%2010.1a10%2010%200%200%201%200%203.8%27%2F%3E%3Cpath%20d%3D%27M3.72%206.39a10%2010%200%200%201%202.7-2.69%27%2F%3E%3Cpath%20d%3D%27M6.39%2020.28a10%2010%200%200%201-2.69-2.7%27%2F%3E%3C%2Fsvg%3E");
+  background: var(--gold);
+  height: 2.5rem;
+  margin-left: -.35rem;
+  -webkit-mask-image: var(--pamphlet-icon);
+  mask-image: var(--pamphlet-icon);
+  width: 2.5rem;
+}
+.pamphlet-participant-reference-page .pamphlet-progress span {
+  background: var(--gold);
+}
+.pamphlet-participant-reference-page .pamphlet-reading-rail a.current {
+  box-shadow: inset 0 -2px var(--sage);
+}
+.pamphlet-participant-reference-page .pamphlet-example,
+.pamphlet-participant-reference-page .pamphlet-example-set,
+.pamphlet-participant-reference-page .pamphlet-code-sample {
+  border-left-color: var(--sage);
+}
+.pamphlet-noun-phrase-page .pamphlet-page-motif::before {
+  --pamphlet-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2024%2024%27%20fill%3D%27none%27%20stroke%3D%27black%27%20stroke-linecap%3D%27round%27%20stroke-linejoin%3D%27round%27%20stroke-width%3D%271.25%27%3E%3Cpath%20d%3D%27M8.3%2010a.7.7%200%200%201-.63-1.08l3.7-6.12a.7.7%200%200%201%201.2-.04l3.73%206.12a.7.7%200%200%201-.57%201.11Z%27%2F%3E%3Crect%20x%3D%273%27%20y%3D%2714%27%20width%3D%277%27%20height%3D%277%27%20rx%3D%271%27%2F%3E%3Ccircle%20cx%3D%2717.5%27%20cy%3D%2717.5%27%20r%3D%273.5%27%2F%3E%3C%2Fsvg%3E");
+  background: var(--gold);
+  -webkit-mask-image: var(--pamphlet-icon);
+  mask-image: var(--pamphlet-icon);
+}
+.pamphlet-noun-phrase-page .pamphlet-page-motif::after {
+  --pamphlet-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2024%2024%27%20fill%3D%27none%27%20stroke%3D%27black%27%20stroke-linecap%3D%27round%27%20stroke-linejoin%3D%27round%27%20stroke-width%3D%271.25%27%3E%3Cpath%20d%3D%27M21%2012h-8%27%2F%3E%3Cpath%20d%3D%27M21%206H8%27%2F%3E%3Cpath%20d%3D%27M21%2018h-8%27%2F%3E%3Cpath%20d%3D%27M3%206v4c0%201.1.9%202%202%202h3%27%2F%3E%3Cpath%20d%3D%27M3%2010v6c0%201.1.9%202%202%202h3%27%2F%3E%3C%2Fsvg%3E");
+  background: var(--sage);
+  height: 2.5rem;
+  margin-left: -.35rem;
+  -webkit-mask-image: var(--pamphlet-icon);
+  mask-image: var(--pamphlet-icon);
+  width: 2.5rem;
+}
+.pamphlet-noun-phrase-page .pamphlet-reading-rail a.current {
+  box-shadow: inset 0 -2px var(--sage);
+}
+.pamphlet-noun-phrase-page .pamphlet-section-title > span {
+  color: var(--sage);
+}
+.pamphlet-noun-phrase-page .pamphlet-table-wrap {
+  border-top-color: var(--sage);
+}
 .pamphlet-progress {
   background: var(--hairline);
   height: 2px;
