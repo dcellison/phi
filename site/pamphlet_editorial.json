@@ -6,7 +6,9 @@
     "coordination",
     "relative_clauses",
     "tense_aspect",
-    "evidentiality"
+    "evidentiality",
+    "pronouns_topic_drop",
+    "nouns_classifiers"
   ],
   "pamphlets": {
     "three_slots": {
@@ -29,6 +31,12 @@
     },
     "evidentiality": {
       "motif": "source_routes"
+    },
+    "pronouns_topic_drop": {
+      "motif": "participant_reference"
+    },
+    "nouns_classifiers": {
+      "motif": "noun_phrase"
     }
   },
   "pages": {
@@ -344,6 +352,100 @@
     },
     "pamphlets/evidentiality/10_appendix.md": {
       "shape": "h1,3,3,3,3,3,3,3,3;t4x4,2x9;f3,15,11;q-;u8,5;o-;r0;s-",
+      "variant": "appendix"
+    },
+    "pamphlets/pronouns_topic_drop/00_title.md": {
+      "shape": "h1,2;t-;f-;q-;u6;o10;r2;s1",
+      "variant": "opening"
+    },
+    "pamphlets/pronouns_topic_drop/01_three_words_one_shape.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/pronouns_topic_drop/02_case_from_position.md": {
+      "shape": "h1,3,3,3;t3x4;f3,3,3,3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/pronouns_topic_drop/03_building_we.md": {
+      "shape": "h1,3,3,3;t3x3;f3,3,3,3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/pronouns_topic_drop/04_back_to_yourself_miso.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3,3,3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/pronouns_topic_drop/05_between_each_other_wiso.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3,3,3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/pronouns_topic_drop/06_pointing_ha_ra.md": {
+      "shape": "h1,3,3,3,3;t-;f3,3,3,3,3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/pronouns_topic_drop/07_the_dropped_subject.md": {
+      "shape": "h1,3,3,3,3,3;t-;f3,3,3,3;q-;u-;o4;r0;s1",
+      "variant": "scenario"
+    },
+    "pamphlets/pronouns_topic_drop/08_common_errors.md": {
+      "shape": "h1,3,3,3,3,3,3,3;t-;f-;q-;u-;o-;r0;s-",
+      "variant": "errors"
+    },
+    "pamphlets/pronouns_topic_drop/09_exercises.md": {
+      "shape": "h1,2,2,2,2,2,2,3,3,3,3,3;t-;f-;q-;u-;o5,6,5,4,4,1,1,1,1,1;r1;s1,6,12,17,21,1,6,12,17,21",
+      "variant": "exercises"
+    },
+    "pamphlets/pronouns_topic_drop/10_appendix.md": {
+      "section_level": 2,
+      "shape": "h1,2,2,2,2,2,2;t3x3,4x2,3x4,3x15;f-;q-;u6,5;o-;r0;s-",
+      "variant": "appendix"
+    },
+    "pamphlets/nouns_classifiers/00_title.md": {
+      "shape": "h1,2;t-;f-;q-;u7;o11;r2;s1",
+      "variant": "opening"
+    },
+    "pamphlets/nouns_classifiers/01_the_bare_noun.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/nouns_classifiers/02_marking_many_lo.md": {
+      "shape": "h1,3,3,3;t3x5,2x4;f3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/nouns_classifiers/03_counting_and_quantifying.md": {
+      "shape": "h1,3,3,3;t2x8,3x10;f-;q-;u-;o4;r0;s1",
+      "variant": "tables"
+    },
+    "pamphlets/nouns_classifiers/04_the_classifiers_place.md": {
+      "shape": "h1,3,3,3,3;t3x3;f3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/nouns_classifiers/05_describing_before_the_noun.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/nouns_classifiers/06_nouns_modifying_nouns.md": {
+      "shape": "h1,3,3,3;t3x5;f-;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/nouns_classifiers/07_having_and_holding.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/nouns_classifiers/08_the_whole_phrase.md": {
+      "shape": "h1,3,3,3,3;t-;f3,3,3;q-;u-;o4;r0;s1",
+      "variant": "stack"
+    },
+    "pamphlets/nouns_classifiers/09_common_errors.md": {
+      "shape": "h1,3,3,3,3,3,3,3;t-;f-;q-;u-;o-;r0;s-",
+      "variant": "errors"
+    },
+    "pamphlets/nouns_classifiers/10_exercises.md": {
+      "shape": "h1,2,2,2,2,2,2,3,3,3,3,3;t-;f-;q-;u-;o5,6,5,4,4,1,1,1,1,1;r1;s1,6,12,17,21,1,6,12,17,21",
+      "variant": "exercises"
+    },
+    "pamphlets/nouns_classifiers/11_appendix.md": {
+      "section_level": 2,
+      "shape": "h1,2,2,2,2,2,2,2;t2x8,3x10,3x4,3x15;f-;q-;u7,5;o-;r0;s-",
       "variant": "appendix"
     }
   }
