@@ -3031,18 +3031,228 @@ news_readme = news_readme.replace(
     texts_page(news_readme, "News from Nowhere", depth=2)
 )
 
-toc = ["<h1>The texts</h1>",
-       "<p>The Metta Sutta contains all ten verses of its source. The North Wind, Schleicher, and Article 1 pages put a close translation before a transmutation. Babel, the Heart Sutra, and five Tao chapters apply the same order to longer pieces. On Children pairs one teaching within The Prophet's three-part page. The shelf's first original work begins in a hot room, where care meets a refusal and the argument has to remain with both.</p>",
-       "<p>A close translation answers to the source's claims and distinctions in natural Phi. Its purpose here is practical: to show that Phi can handle any source on its own terms and produce a close analogue, even when Phi would tell it differently. Every rendering says what it owes the source.</p>",
-       "<p>Transmutation is Phi's preferred method for inherited material because it gives the source room to change as Phi understands it. The five pillars and Phi's own habits of thought shape the result, while the source stays in view. Seven works put translation and transmutation side by side so a reader can see what changed and why.</p>",
-       "<p>Original work puts Phi first. English follows closely, and a proposition record tracks challenges, revisions, and questions left open. The block needs no fourth source line.</p>"]
-for work in TEXTS:
-    stem = Path(work["path"]).stem
-    toc.append(f'<h2><a href="{stem}.html">{work["title"]}</a></h2><p class="text-method">{work["method"]}</p><p>{work["summary"]}</p>')
-news_toc_title = NEWS_WORK["title"].replace("—", "&mdash;")
-toc.append(f'<h2><a href="{NEWS_WORK["path"]}/index.html">{news_toc_title}</a></h2><p class="text-method">{NEWS_WORK["method"]}</p><p>{NEWS_WORK["summary"]}</p>')
-toc.append("<hr><p><em>More texts are coming; the shelf is built to grow.</em></p>")
-(TEXTS_OUT / "index.html").write_text(texts_page("\n".join(toc), "contents", footer_nav=""))
+TEXT_CONTENTS_METHODS = (
+    {
+        "method": "Translation",
+        "label": "Close translation",
+        "kind": "translation",
+        "icon": "translation",
+        "description": (
+            "Close translation answers to the source's claims and "
+            "distinctions. It shows what Phi can carry when the source sets "
+            "the terms."
+        ),
+    },
+    {
+        "method": "Transmutation",
+        "label": "Transmutation",
+        "kind": "transmutation",
+        "icon": "transmutation",
+        "description": (
+            "Phi prefers transmutation for inherited material. The source "
+            "stays in view, but the five pillars can reshape the work."
+        ),
+    },
+    {
+        "method": "Translation + transmutation",
+        "label": "Paired renderings",
+        "kind": "paired",
+        "icon": "comparison",
+        "description": (
+            "Paired renderings place close translation beside transmutation. "
+            "Their differences show what stayed near the source and what "
+            "changed under Phi."
+        ),
+    },
+    {
+        "method": "Original",
+        "label": "Original work",
+        "kind": "original",
+        "icon": "dialogue",
+        "description": (
+            "Original work begins in Phi. English follows as a close reading "
+            "rather than governing the sentence."
+        ),
+    },
+)
+
+
+def split_catalogued_text_title(work):
+    """Separate and verify the Phi and English parts of a catalogue title."""
+    repo_path = f"texts/{work['path']}"
+    treatment = TEXT_EDITORIAL_PAGES.get(repo_path)
+    if treatment is not None:
+        return split_text_editorial_title(
+            work["title"],
+            treatment["phi_title"],
+            repo_path,
+        )
+    for separator in (" — ", ": "):
+        if separator not in work["title"]:
+            continue
+        phi_title, english_title = work["title"].split(separator, 1)
+        if is_current_phi(phi_title) and english_title.strip():
+            return phi_title, english_title
+    raise ValueError(f"text catalogue title has no verified Phi opening: {repo_path}")
+
+
+def text_contents_title(work):
+    """Render one catalogue title in romanized Phi and Tengwar."""
+    phi_title, english_title = split_catalogued_text_title(work)
+    tengwar_title = tengwar.render_line(phi_title)
+    if tengwar_title is None:
+        raise ValueError(
+            f"text catalogue title cannot render in Tengwar: texts/{work['path']}"
+        )
+    return phi_title, english_title, tengwar_title
+
+
+def text_contents_arrow():
+    """Return the decorative Lucide arrow used at the end of a work link."""
+    return (
+        '<span class="text-index-arrow" aria-hidden="true">'
+        '<svg viewBox="0 0 24 24" focusable="false">'
+        '<path d="M5 12h14"/><path d="m12 5 7 7-7 7"/>'
+        "</svg></span>"
+    )
+
+
+def text_contents_page(news_chapter_count):
+    """Build the catalogue-driven entrance to the literary shelf."""
+    expected_editorial = {
+        f"texts/{work['path']}"
+        for work in TEXTS
+    }
+    if set(TEXT_EDITORIAL_PAGES) != expected_editorial:
+        raise ValueError(
+            "texts contents require one editorial treatment for every short work"
+        )
+    method_specs = {
+        spec["method"]: spec
+        for spec in TEXT_CONTENTS_METHODS
+    }
+    all_works = [*TEXTS, NEWS_WORK]
+    if any(work["method"] not in method_specs for work in all_works):
+        raise ValueError("texts contents contain an unknown catalogue method")
+
+    method_key = []
+    for spec in TEXT_CONTENTS_METHODS:
+        count = sum(work["method"] == spec["method"] for work in all_works)
+        noun = "work" if count == 1 else "works"
+        method_key.append(
+            f'<article class="text-index-method text-index-method-{spec["kind"]}">'
+            "<header>"
+            f'{text_section_icon(spec["icon"])}'
+            "<div>"
+            f'<h3>{html_module.escape(spec["label"])}</h3>'
+            f'<p class="text-index-method-count">{count:02d} {noun}</p>'
+            "</div>"
+            "</header>"
+            f'<p>{html_module.escape(spec["description"])}</p>'
+            "</article>"
+        )
+
+    work_rows = []
+    for index, work in enumerate(TEXTS, 1):
+        spec = method_specs[work["method"]]
+        phi_title, english_title, tengwar_title = text_contents_title(work)
+        href = f"{Path(work['path']).stem}.html"
+        work_rows.append(
+            f'<li class="text-index-entry text-index-entry-{spec["kind"]}">'
+            f'<a href="{href}">'
+            f'<span class="text-index-number">{index:02d}</span>'
+            '<div class="text-index-copy">'
+            f'<p class="text-index-phi-title" lang="art-x-phi">'
+            f"{html_module.escape(phi_title)}</p>"
+            f'<h3>{html_module.escape(english_title)}</h3>'
+            f'<p class="text-index-summary">{html_module.escape(work["summary"])}</p>'
+            "</div>"
+            '<div class="text-index-entry-meta">'
+            f'<p class="text-index-entry-method">{html_module.escape(spec["label"])}</p>'
+            f'<div class="text-index-entry-tengwar" aria-hidden="true">'
+            f"{tengwar_title}</div>"
+            "</div>"
+            f"{text_contents_arrow()}"
+            "</a></li>"
+        )
+
+    news_spec = method_specs[NEWS_WORK["method"]]
+    news_phi, news_english, news_tengwar = text_contents_title(NEWS_WORK)
+    chapter_noun = "chapter" if news_chapter_count == 1 else "chapters"
+    book_entry = (
+        '<section class="text-index-book" aria-labelledby="text-index-book-heading">'
+        '<header class="text-index-section-heading">'
+        '<div>'
+        '<p class="text-index-section-label">Book in progress</p>'
+        '<h2 id="text-index-book-heading">Book-length work</h2>'
+        "</div>"
+        '<p class="text-index-section-count">01 work</p>'
+        "</header>"
+        f'<a href="{NEWS_WORK["path"]}/index.html">'
+        '<span class="text-index-book-mark" aria-hidden="true">'
+        f'{text_section_icon("complete")}</span>'
+        '<div class="text-index-copy">'
+        f'<p class="text-index-phi-title" lang="art-x-phi">'
+        f"{html_module.escape(news_phi)}</p>"
+        f"<h3>{html_module.escape(news_english)}</h3>"
+        f'<p class="text-index-summary">'
+        f'{html_module.escape(NEWS_WORK["summary"])}</p>'
+        "</div>"
+        '<div class="text-index-entry-meta">'
+        f'<p class="text-index-entry-method">'
+        f'{html_module.escape(news_spec["label"])}</p>'
+        f'<p class="text-index-book-progress">{news_chapter_count:02d} '
+        f"{chapter_noun} available</p>"
+        f'<div class="text-index-entry-tengwar" aria-hidden="true">'
+        f"{news_tengwar}</div>"
+        "</div>"
+        f"{text_contents_arrow()}"
+        "</a></section>"
+    )
+
+    return (
+        '<header class="text-index-header">'
+        '<div class="text-work-meta">'
+        '<p class="text-shelf-label">Phi texts</p>'
+        f'<p class="text-index-count">{len(all_works):02d} works</p>'
+        "</div>"
+        '<div class="text-index-title-row">'
+        "<h1>The texts</h1>"
+        '<p class="text-index-lede">This shelf holds work written in Phi and '
+        "work brought into it. Each page says what it owes to a source. A "
+        "close translation and a transmutation can begin with the same "
+        "passage and end in different places.</p>"
+        f'{texts_motif("words_seed")}'
+        "</div>"
+        "</header>"
+        '<section class="text-index-methods" '
+        'aria-labelledby="text-index-methods-heading">'
+        '<h2 id="text-index-methods-heading">How the shelf relates to sources</h2>'
+        f'<div class="text-index-method-grid">{"".join(method_key)}</div>'
+        "</section>"
+        '<section class="text-index-catalogue" '
+        'aria-labelledby="text-index-catalogue-heading">'
+        '<header class="text-index-section-heading">'
+        "<div>"
+        '<p class="text-index-section-label">Catalogue order</p>'
+        '<h2 id="text-index-catalogue-heading">Short works</h2>'
+        "</div>"
+        f'<p class="text-index-section-count">{len(TEXTS):02d} works</p>'
+        "</header>"
+        f'<ol class="text-index-list">{"".join(work_rows)}</ol>'
+        "</section>"
+        f"{book_entry}"
+    )
+
+
+(TEXTS_OUT / "index.html").write_text(
+    texts_page(
+        text_contents_page(len(news_chapters)),
+        "contents",
+        footer_nav="",
+        editorial_kind="contents",
+    )
+)
 print(f"wrote build/site/texts/: {len(TEXT_CATALOGUE)} works, {len(news_chapters)} News from Nowhere chapters + contents")
 
 # ---- the pamphlets: deep-dive companions rendered to build/site/pamphlets/ ----

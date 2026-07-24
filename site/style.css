@@ -866,6 +866,285 @@ table.primer-ladder {
   width: 100%;
 }
 .text-editorial p { overflow-wrap: anywhere; }
+.text-contents-page main { max-width: 72rem; }
+.text-contents-page .text-work { max-width: 64rem; }
+.text-index-header {
+  border-bottom: 1px solid var(--hairline);
+  margin-bottom: 3rem;
+  padding: 0 0 1.5rem;
+  text-align: left;
+}
+.text-index-count {
+  color: var(--muted);
+  font-size: .72rem;
+  font-weight: 600;
+  margin: 0;
+}
+.text-index-title-row {
+  align-items: end;
+  display: grid;
+  column-gap: 2rem;
+  grid-template-columns: minmax(0, 1fr) 8rem;
+  margin-top: .7rem;
+  row-gap: .7rem;
+}
+.text-index-title-row h1 {
+  color: var(--ink);
+  font-size: 3.8rem;
+  grid-column: 1;
+  grid-row: 1;
+  letter-spacing: 0;
+  line-height: 1;
+  margin: 0;
+  text-align: left;
+}
+.text-index-lede {
+  font-family: var(--serif);
+  font-size: 1.12rem;
+  grid-column: 1;
+  grid-row: 2;
+  line-height: 1.7;
+  margin: 1rem 0 0;
+  max-width: 45rem;
+}
+.text-index-title-row .text-work-motif {
+  align-self: center;
+  grid-column: 2;
+  grid-row: 1 / span 2;
+  padding: 0;
+}
+.text-index-title-row .text-work-motif svg {
+  height: 4rem;
+  width: 4rem;
+}
+.text-index-title-row .text-work-motif svg + svg {
+  height: 2.9rem;
+  width: 2.9rem;
+}
+.text-index-methods { margin: 0 0 4rem; }
+.text-index-methods > h2 {
+  color: var(--ink);
+  font-size: 1.5rem;
+  letter-spacing: 0;
+  line-height: 1.2;
+  margin: 0 0 1.2rem;
+}
+.text-index-method-grid {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+.text-index-method {
+  border-top: 2px solid var(--hairline);
+  min-width: 0;
+  padding-top: .75rem;
+}
+.text-index-method-translation,
+.text-index-method-paired { border-top-color: var(--gold); }
+.text-index-method-transmutation,
+.text-index-method-original { border-top-color: var(--sage); }
+.text-index-method header {
+  align-items: start;
+  display: grid;
+  gap: .55rem;
+  grid-template-columns: 1.55rem minmax(0, 1fr);
+  padding: 0;
+  text-align: left;
+}
+.text-index-method .text-section-icon {
+  justify-content: start;
+  padding-top: .08rem;
+}
+.text-index-method .text-section-icon svg {
+  height: 1.25rem;
+  width: 1.25rem;
+}
+.text-index-method h3 {
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: .98rem;
+  font-weight: 600;
+  line-height: 1.25;
+  margin: 0;
+  padding: 0;
+}
+.text-index-method-count {
+  color: var(--gold);
+  font-size: .64rem;
+  font-weight: 650;
+  margin: .14rem 0 0;
+}
+.text-index-method > p {
+  color: var(--muted);
+  font-size: .78rem;
+  line-height: 1.55;
+  margin: .65rem 0 0;
+}
+.text-index-section-heading {
+  align-items: end;
+  border-bottom: 1px solid var(--hairline);
+  display: flex;
+  justify-content: space-between;
+  padding: 0 0 .65rem;
+  text-align: left;
+}
+.text-index-section-label {
+  color: var(--gold);
+  font-size: .68rem;
+  font-weight: 650;
+  margin: 0 0 .14rem;
+}
+.text-index-section-heading h2 {
+  color: var(--ink);
+  font-size: 1.85rem;
+  letter-spacing: 0;
+  line-height: 1.15;
+  margin: 0;
+}
+.text-index-section-count {
+  color: var(--muted);
+  font-size: .68rem;
+  font-weight: 600;
+  margin: 0;
+}
+.text-index-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.text-index-entry { border-bottom: 1px solid var(--hairline); }
+.text-index-entry a,
+.text-index-book > a {
+  align-items: center;
+  color: var(--ink);
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 2.25rem minmax(0, 1fr) 12.5rem 1.5rem;
+  padding: 1.35rem 0 1.45rem;
+  text-decoration: none;
+}
+.text-index-entry a:focus-visible,
+.text-index-book > a:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 4px;
+}
+.text-index-number {
+  align-self: start;
+  color: var(--gold);
+  font-size: .7rem;
+  font-weight: 650;
+  padding-top: .18rem;
+}
+.text-index-copy { min-width: 0; }
+.text-index-phi-title {
+  color: var(--sage);
+  font-family: var(--serif);
+  font-size: .78rem;
+  line-height: 1.35;
+  margin: 0 0 .12rem;
+}
+.text-index-copy h3 {
+  color: var(--ink);
+  font-size: 1.48rem;
+  font-weight: 550;
+  letter-spacing: 0;
+  line-height: 1.18;
+  margin: 0;
+  padding: 0;
+  transition: color .15s ease;
+}
+.text-index-summary {
+  color: var(--muted);
+  font-size: .82rem;
+  line-height: 1.55;
+  margin: .55rem 0 0;
+  max-width: 38rem;
+}
+.text-index-entry-meta {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-width: 0;
+}
+.text-index-entry-method {
+  color: var(--muted);
+  font-size: .66rem;
+  font-weight: 650;
+  line-height: 1.35;
+  margin: 0;
+  text-align: right;
+}
+.text-index-entry-translation .text-index-entry-method,
+.text-index-entry-paired .text-index-entry-method {
+  color: var(--gold);
+}
+.text-index-entry-transmutation .text-index-entry-method,
+.text-index-entry-original .text-index-entry-method {
+  color: var(--sage);
+}
+.text-index-entry-tengwar {
+  color: var(--muted);
+  margin: .65rem 0 0 auto;
+  max-width: 12rem;
+  opacity: .68;
+  width: 100%;
+}
+.text-index-entry-tengwar .teng-svg {
+  display: block;
+  height: 1.65rem !important;
+  margin-left: auto;
+  max-width: 100%;
+  width: auto;
+}
+.text-index-arrow {
+  color: var(--muted);
+  display: flex;
+  justify-content: end;
+  transition: color .15s ease, transform .15s ease;
+}
+.text-index-arrow svg {
+  fill: none;
+  height: 1.05rem;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.5;
+  width: 1.05rem;
+}
+.text-index-entry a:hover h3,
+.text-index-book > a:hover h3 { color: var(--sage); }
+.text-index-entry a:hover .text-index-arrow,
+.text-index-book > a:hover .text-index-arrow {
+  color: var(--gold);
+  transform: translateX(.2rem);
+}
+.text-index-book { margin-top: 4rem; }
+.text-index-book > a {
+  background: var(--paper-raised);
+  border-bottom: 1px solid var(--hairline);
+  grid-template-columns: 3rem minmax(0, 1fr) 12.5rem 1.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.text-index-book-mark {
+  align-self: start;
+  color: var(--sage);
+  padding-top: .15rem;
+}
+.text-index-book-mark .text-section-icon { justify-content: start; }
+.text-index-book-mark .text-section-icon svg {
+  height: 2rem;
+  width: 2rem;
+}
+.text-index-book .text-index-copy h3 { font-size: 1.8rem; }
+.text-index-book-progress {
+  color: var(--muted);
+  font-size: .68rem;
+  font-weight: 600;
+  margin: .45rem 0 0;
+  text-align: right;
+}
 .text-work-header {
   border-bottom: 1px solid var(--hairline);
   margin-bottom: 1.5rem;
@@ -1597,6 +1876,45 @@ table.text-ledger {
 
 @media (max-width: 760px) {
   .primer-ladder-grid { grid-template-columns: minmax(0, 1fr); }
+  .text-index-method-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .text-index-entry a,
+  .text-index-book > a {
+    align-items: start;
+    grid-template-columns: 2.25rem minmax(0, 1fr) 1.25rem;
+  }
+  .text-index-number,
+  .text-index-book-mark {
+    grid-column: 1;
+    grid-row: 1 / span 2;
+  }
+  .text-index-copy {
+    grid-column: 2;
+    grid-row: 1;
+  }
+  .text-index-entry-meta {
+    align-items: center;
+    flex-flow: row wrap;
+    gap: .35rem 1rem;
+    grid-column: 2;
+    grid-row: 2;
+    justify-content: start;
+  }
+  .text-index-entry-method,
+  .text-index-book-progress { text-align: left; }
+  .text-index-entry-tengwar {
+    flex-basis: 100%;
+    margin-left: 0;
+    margin-top: .3rem;
+    max-width: 12rem;
+  }
+  .text-index-entry-tengwar .teng-svg { margin-left: 0; }
+  .text-index-arrow {
+    align-self: center;
+    grid-column: 3;
+    grid-row: 1 / span 2;
+  }
   .text-reading-map ol {
     gap: 0;
     grid-template-columns: minmax(0, 1fr);
@@ -1697,6 +2015,51 @@ table.text-ledger {
     width: auto;
   }
   .text-editorial main { padding-top: 2rem; }
+  .text-index-title-row {
+    column-gap: .75rem;
+    grid-template-columns: minmax(0, 1fr) 4.2rem;
+    row-gap: .75rem;
+  }
+  .text-index-header {
+    margin-bottom: .75rem;
+    padding-bottom: .75rem;
+  }
+  .text-index-lede {
+    font-size: .98rem;
+    grid-column: 1 / -1;
+    line-height: 1.6;
+  }
+  .text-index-title-row .text-work-motif { grid-row: 1; }
+  .text-index-title-row h1 { font-size: 2.8rem; }
+  .text-index-title-row .text-work-motif svg {
+    height: 2.8rem;
+    width: 2.8rem;
+  }
+  .text-index-title-row .text-work-motif svg + svg {
+    height: 2rem;
+    width: 2rem;
+  }
+  .text-index-methods > h2 { font-size: 1.35rem; }
+  .text-index-method-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .text-index-section-heading h2 { font-size: 1.6rem; }
+  .text-index-entry a,
+  .text-index-book > a {
+    gap: .65rem;
+    grid-template-columns: 1.65rem minmax(0, 1fr) 1rem;
+  }
+  .text-index-copy h3 { font-size: 1.28rem; }
+  .text-index-book .text-index-copy h3 { font-size: 1.48rem; }
+  .text-index-summary { font-size: .79rem; }
+  .text-index-book > a {
+    padding-left: .7rem;
+    padding-right: .7rem;
+  }
+  .text-index-book-mark .text-section-icon svg {
+    height: 1.45rem;
+    width: 1.45rem;
+  }
   .text-collection-page .text-work-meta {
     align-items: flex-start;
     flex-direction: column;
@@ -1769,6 +2132,21 @@ table.text-ledger {
   }
   .text-work-next { text-align: left; }
   .text-work-index { grid-row: 1; }
+}
+
+@media (max-width: 360px) {
+  .text-index-title-row {
+    grid-template-columns: minmax(0, 1fr) 3.5rem;
+  }
+  .text-index-title-row h1 { font-size: 2.3rem; }
+  .text-index-title-row .text-work-motif svg {
+    height: 2.35rem;
+    width: 2.35rem;
+  }
+  .text-index-title-row .text-work-motif svg + svg {
+    height: 1.65rem;
+    width: 1.65rem;
+  }
 }
 
 @media print {
@@ -1860,6 +2238,33 @@ table.text-ledger {
     padding: 0;
   }
   .text-editorial .text-work { max-width: none; }
+  .text-index-header {
+    margin-bottom: 2em;
+    padding-bottom: 1em;
+  }
+  .text-index-title-row h1 { font-size: 3em; }
+  .text-index-lede {
+    font-size: 1em;
+    max-width: 38em;
+  }
+  .text-index-methods { margin-bottom: 2.5em; }
+  .text-index-method-grid {
+    gap: 1em;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+  .text-index-entry,
+  .text-index-book { break-inside: avoid; }
+  .text-index-entry a,
+  .text-index-book > a {
+    grid-template-columns: 2em minmax(0, 1fr) 11em;
+    padding: .8em 0;
+  }
+  .text-index-book > a {
+    background: none;
+    grid-template-columns: 2.5em minmax(0, 1fr) 11em;
+  }
+  .text-index-arrow { display: none; }
+  .text-index-entry-tengwar .teng-svg { height: 1.35em !important; }
   .text-editorial .text-work-header h1 { font-size: 2.5em; }
   .text-editorial h2.text-method-heading { font-size: 1.75em; }
   .text-editorial h3 { break-after: avoid; }
