@@ -5,7 +5,14 @@
 (function () {
   "use strict";
 
-  var SECTIONS = { manual: 1, primer: 1, book: 1, texts: 1, pamphlets: 1 };
+  var SECTIONS = {
+    manual: 1,
+    primer: 1,
+    book: 1,
+    texts: 1,
+    pamphlets: 1,
+    news_from_nowhere: 1
+  };
 
   var parts = location.pathname.split("/").filter(function (p) { return p; });
   var file = parts[parts.length - 1] || "index.html";
@@ -195,9 +202,15 @@
     var box = document.createElement("div");
     box.className = "readerhome";
     box.innerHTML = html;
+    var homeAnchor = main.querySelector("[data-reader-home]");
     var h1 = main.querySelector("h1");
-    if (h1 && h1.parentNode === main) main.insertBefore(box, h1.nextSibling);
-    else main.insertBefore(box, main.firstChild);
+    if (homeAnchor) {
+      homeAnchor.parentNode.insertBefore(box, homeAnchor.nextSibling);
+    } else if (h1 && h1.parentNode === main) {
+      main.insertBefore(box, h1.nextSibling);
+    } else {
+      main.insertBefore(box, main.firstChild);
+    }
 
     box.addEventListener("click", function (ev) {
       var b = ev.target;

@@ -1,0 +1,177 @@
+{
+  "book": {
+    "path": "texts/news_from_nowhere",
+    "phi_title": "nophi lue mawha lokue",
+    "english_title": "News from Nowhere",
+    "motif": "river_home",
+    "total_chapters": 32,
+    "chapters": [
+      {
+        "file": "chapter_01.md",
+        "number": 1,
+        "title": "Discussion and Bed",
+        "summary": "A political meeting dissolves into bad temper before the traveller takes the railway home. Along the Thames, a winter walk and a restless night bring him to the edge of Morris's changed England.",
+        "movements": [
+          {
+            "level": 2,
+            "title": "The report"
+          },
+          {
+            "level": 3,
+            "title": "shalimo lona — The alliance meeting"
+          },
+          {
+            "level": 3,
+            "title": "nurako — The railway"
+          },
+          {
+            "level": 3,
+            "title": "shero mioru — The beautiful night"
+          },
+          {
+            "level": 3,
+            "title": "luphore — The river"
+          },
+          {
+            "level": 3,
+            "title": "nulae nela remo — Sleep and the waking night"
+          },
+          {
+            "level": 2,
+            "title": "The report continues"
+          }
+        ],
+        "apparatus": "What the transmutation changed",
+        "opening_paragraphs": 2,
+        "interlinear_blocks": 7,
+        "interlinear_stanzas": 85,
+        "notes": 7,
+        "tables": 1,
+        "ledger_rows": [
+          11
+        ],
+        "inner_dividers": 1
+      },
+      {
+        "file": "chapter_02.md",
+        "number": 2,
+        "title": "A Morning Bath",
+        "summary": "Summer arrives overnight, and the Thames is suddenly fit for a swim. The traveller meets a waterman there; a handful of old coins soon reveals that ordinary exchange no longer follows the rules he knows.",
+        "movements": [
+          {
+            "level": 2,
+            "title": "nowae — The waking"
+          },
+          {
+            "level": 2,
+            "title": "luphonu — The boat"
+          },
+          {
+            "level": 2,
+            "title": "wishe — The swim"
+          },
+          {
+            "level": 2,
+            "title": "luphonu miona — The waterman"
+          },
+          {
+            "level": 2,
+            "title": "lo shalumi mera — The salmon-nets"
+          },
+          {
+            "level": 2,
+            "title": "repha — The bridge"
+          },
+          {
+            "level": 2,
+            "title": "lo womu nela thepalu — The houses and the garden"
+          },
+          {
+            "level": 2,
+            "title": "wia — How many"
+          },
+          {
+            "level": 2,
+            "title": "kulo — The guide"
+          },
+          {
+            "level": 2,
+            "title": "ne selomi — The weaver"
+          }
+        ],
+        "apparatus": "What the transmutation changed",
+        "opening_paragraphs": 2,
+        "interlinear_blocks": 12,
+        "interlinear_stanzas": 240,
+        "notes": 12,
+        "tables": 0,
+        "ledger_rows": [],
+        "inner_dividers": 1
+      },
+      {
+        "file": "chapter_03.md",
+        "number": 3,
+        "title": "The Guest House and Breakfast Therein",
+        "summary": "Breakfast at a guest house brings the new society down to table height. Talk wanders through old forests and handwork until a golden dustman arrives in time for the carriage.",
+        "movements": [
+          {
+            "level": 2,
+            "title": "womu — The house"
+          },
+          {
+            "level": 2,
+            "title": "lona lokue — The hall"
+          },
+          {
+            "level": 2,
+            "title": "ta shao himo — The three"
+          },
+          {
+            "level": 2,
+            "title": "kelua nurome — The breakfast"
+          },
+          {
+            "level": 2,
+            "title": "lo thekiro — The writing on the wall"
+          },
+          {
+            "level": 2,
+            "title": "ne phemi — The guest's name"
+          },
+          {
+            "level": 2,
+            "title": "shelira — The forest"
+          },
+          {
+            "level": 2,
+            "title": "wia torua — How many years"
+          },
+          {
+            "level": 2,
+            "title": "selomi nela tawi remo — Weaving and mathematics"
+          },
+          {
+            "level": 2,
+            "title": "ne solai — Gold"
+          },
+          {
+            "level": 2,
+            "title": "solai muhena miona — The golden dustman"
+          },
+          {
+            "level": 2,
+            "title": "rolutha — The carriage"
+          }
+        ],
+        "apparatus": "What the transmutation changed",
+        "opening_paragraphs": 2,
+        "interlinear_blocks": 12,
+        "interlinear_stanzas": 240,
+        "notes": 12,
+        "tables": 0,
+        "ledger_rows": [],
+        "inner_dividers": 1
+      }
+    ]
+  }
+}
