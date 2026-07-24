@@ -4327,7 +4327,10 @@ def tengwarize_dual(html):
             if tengwar.phi_line(source, PHI_WORDS):
                 rendered = tengwar.render_line(source)
                 if rendered:
-                    out.append(f'<span class="teng-dual">{rendered}</span>')
+                    out.append(
+                        '<span class="teng-dual" aria-hidden="true">'
+                        f"{rendered}</span>"
+                    )
             out.append(line)
         return "<pre>" + "\n".join(out) + "</pre>"
     return re.sub(r"<pre>(.*?)</pre>", do_pre, html, flags=re.S)
@@ -5167,7 +5170,7 @@ def pamphlet_structural_signature(source):
 
 def pamphlet_default_section_level(variant):
     """Choose the section level used by the compact workbook sources."""
-    if variant in {"opening", "reference"}:
+    if variant in {"opening", "reference", "examples"}:
         return 0
     if variant in {"exercises", "answers"}:
         return 2
@@ -5216,6 +5219,8 @@ def load_pamphlet_editorial():
                 "noun_phrase",
                 "name_designation",
                 "source_beside",
+                "audible_boundaries",
+                "written_hands",
             }
         ):
             raise ValueError(
@@ -5243,6 +5248,7 @@ def load_pamphlet_editorial():
         "answers",
         "appendix",
         "reference",
+        "examples",
     }
     for repo_path, treatment in pages.items():
         path = ROOT / repo_path
@@ -5318,6 +5324,8 @@ def pamphlet_motif(name):
         "noun_phrase",
         "name_designation",
         "source_beside",
+        "audible_boundaries",
+        "written_hands",
     }:
         raise ValueError(f"unknown pamphlet motif: {name}")
     return '<div class="pamphlet-page-motif" aria-hidden="true"></div>'
@@ -5446,6 +5454,73 @@ def style_pamphlet_tables(body, title):
 def style_pamphlet_examples(body):
     """Use the interlinear parser with workbook-specific presentation."""
     return rename_manual_editorial_classes(style_manual_examples(body))
+
+
+def style_pamphlet_dual_examples(body, title):
+    """Give paired Tengwar and romanized examples semantic reading layers."""
+    blocks = re.findall(r"<pre>(.*?)</pre>", body, flags=re.S)
+    for block in blocks:
+        groups = [
+            group.splitlines()
+            for group in re.split(r"\n\s*\n", block.strip())
+        ]
+        interlinear = []
+        for lines in groups:
+            if not lines:
+                raise ValueError(
+                    f"Tengwar pamphlet has an empty example group: {title}"
+                )
+            tengwar_match = re.fullmatch(
+                r'<span class="teng-dual" aria-hidden="true">'
+                r"(.*?)</span>",
+                lines[0],
+                flags=re.S,
+            )
+            source_lines = lines[1:]
+            plain_lines = [
+                html_module.unescape(line) for line in source_lines
+            ]
+            if (
+                tengwar_match is None
+                or len(source_lines) not in {2, 3, 4}
+                or not is_current_phi_passage(plain_lines[0])
+            ):
+                raise ValueError(
+                    f"Tengwar pamphlet example cannot be paired: {title}"
+                )
+            caption = (
+                f"\n  <figcaption>{source_lines[2]}</figcaption>"
+                if len(source_lines) >= 3
+                else ""
+            )
+            source_line = (
+                f'\n  <p class="pamphlet-example-source">'
+                f"{source_lines[3]}</p>"
+                if len(source_lines) == 4
+                else ""
+            )
+            interlinear.append(f"""
+<figure class="pamphlet-example pamphlet-dual-example" aria-label="Tengwar and romanized interlinear example">
+  <div class="pamphlet-example-tengwar" aria-hidden="true">{tengwar_match.group(1)}</div>
+  <p class="pamphlet-example-phi" lang="art-x-phi">{source_lines[0]}</p>
+  <p class="pamphlet-example-gloss">{source_lines[1]}</p>{caption}{source_line}
+</figure>""")
+        if len(interlinear) == 1:
+            replacement = interlinear[0]
+        else:
+            replacement = (
+                '<div class="pamphlet-example-set '
+                'pamphlet-dual-example-set" role="group" '
+                'aria-label="Tengwar and romanized interlinear examples">'
+                + "".join(interlinear)
+                + "</div>"
+            )
+        body = body.replace(f"<pre>{block}</pre>", replacement, 1)
+    if "<pre>" in body:
+        raise ValueError(
+            f"Tengwar pamphlet left an unpaired code block: {title}"
+        )
+    return body
 
 
 def rename_manual_editorial_classes(body):
@@ -5655,6 +5730,63 @@ def style_pamphlet_answer_runs(body):
     )
 
 
+def style_pamphlet_bold_exercise_parts(body, title):
+    """Restore bold exercise labels as sections when the source uses them."""
+    prompt_pattern = re.compile(
+        r"<p><strong>Part ([A-Z]): ([^<]+?)([.?!])</strong>"
+        r"\s*(.*?)</p>",
+        flags=re.S,
+    )
+    prompt_matches = list(prompt_pattern.finditer(body))
+    if not prompt_matches:
+        return body
+    if body.count("<h2>Answer key</h2>") != 1:
+        raise ValueError(
+            f"bold-part exercises need one answer key: {title}"
+        )
+    before_key, after_key = body.split("<h2>Answer key</h2>")
+    prompt_matches = list(prompt_pattern.finditer(before_key))
+    prompt_letters = [match.group(1) for match in prompt_matches]
+    expected_prompts = [
+        chr(code)
+        for code in range(ord("A"), ord("A") + len(prompt_letters))
+    ]
+    if prompt_letters != expected_prompts:
+        raise ValueError(
+            f"bold exercise parts are not consecutive: {title}"
+        )
+
+    def prompt_section(match):
+        detail = match.group(4).strip()
+        paragraph = f"<p>{detail}</p>" if detail else ""
+        terminal = match.group(3) if match.group(3) != "." else ""
+        return (
+            f"<h2>Part {match.group(1)}: "
+            f"{match.group(2)}{terminal}</h2>"
+            f"{paragraph}"
+        )
+
+    before_key = prompt_pattern.sub(prompt_section, before_key)
+    answer_pattern = re.compile(
+        r"<p><strong>Part ([A-Z])\.</strong>\s*(.*?)</p>",
+        flags=re.S,
+    )
+    answer_matches = list(answer_pattern.finditer(after_key))
+    answer_letters = [match.group(1) for match in answer_matches]
+    if answer_letters != prompt_letters[:len(answer_letters)]:
+        raise ValueError(
+            f"bold answer parts do not match their exercises: {title}"
+        )
+
+    def answer_section(match):
+        detail = match.group(2).strip()
+        paragraph = f"<p>{detail}</p>" if detail else ""
+        return f"<h3>Part {match.group(1)}</h3>{paragraph}"
+
+    after_key = answer_pattern.sub(answer_section, after_key)
+    return before_key + "<h2>Answer key</h2>" + after_key
+
+
 def style_pamphlet_opening(body, directory, paths, titles):
     """Turn the source opening into a linked workbook map."""
     subtitle_match = re.search(r"<h2>(.*?)</h2>", body, flags=re.S)
@@ -5769,7 +5901,11 @@ def apply_pamphlet_editorial(
     body = mark_pamphlet_inline_phi(body)
     body = mark_manual_inline_phi(body)
     body = style_pamphlet_tables(body, title)
-    body = style_pamphlet_examples(body)
+    body = (
+        style_pamphlet_dual_examples(body, title)
+        if pamphlet["dual_script"]
+        else style_pamphlet_examples(body)
+    )
     body = apply_pamphlet_ordered_starts(body, source, title)
     if treatment["variant"] == "exercises":
         answer_key_count = body.count("<h1>Answer key</h1>")
@@ -5783,6 +5919,8 @@ def apply_pamphlet_editorial(
                 after_key,
             )
             body = before_key + "<h2>Answer key</h2>" + after_key
+        if pamphlet["dual_script"]:
+            body = style_pamphlet_bold_exercise_parts(body, title)
     if treatment["variant"] == "reference":
         if (
             not body.lstrip().startswith(

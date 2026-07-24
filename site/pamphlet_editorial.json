@@ -10,7 +10,9 @@
     "pronouns_topic_drop",
     "nouns_classifiers",
     "naming",
-    "source_material"
+    "source_material",
+    "spoken_punctuation",
+    "tengwar_mode"
   ],
   "pamphlets": {
     "three_slots": {
@@ -45,6 +47,12 @@
     },
     "source_material": {
       "motif": "source_beside"
+    },
+    "spoken_punctuation": {
+      "motif": "audible_boundaries"
+    },
+    "tengwar_mode": {
+      "motif": "written_hands"
     }
   },
   "pages": {
@@ -546,6 +554,114 @@
     "pamphlets/source_material/09_quick_reference.md": {
       "shape": "h1;t2x8;f-;q-;u-;o-;r0;s-",
       "variant": "reference"
+    },
+    "pamphlets/spoken_punctuation/00_title.md": {
+      "shape": "h1,2;t-;f-;q-;u8;o12;r2;s1",
+      "variant": "opening"
+    },
+    "pamphlets/spoken_punctuation/01_one_silent_mark.md": {
+      "shape": "h1,3,3,3;t2x8;f7,4;q-;u-;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/spoken_punctuation/02_the_question_mark_wa.md": {
+      "shape": "h1,3,3,3,3;t3x7;f7,7,7,3,3;q-;u-;o3;r0;s4",
+      "variant": "lesson"
+    },
+    "pamphlets/spoken_punctuation/03_the_quotation_marks.md": {
+      "shape": "h1,3,3,3,3,3;t-;f3,3,3;q-;u-;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/spoken_punctuation/04_comma_of_address_capital.md": {
+      "shape": "h1,3,3,3,3;t-;f7,3,3,3,3;q-;u-;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/spoken_punctuation/05_the_clause_commas.md": {
+      "shape": "h1,3,3,3,3,3,3;t2x5;f3,7,3,3,3,4;q-;u-;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/spoken_punctuation/06_the_exclamation_worded.md": {
+      "shape": "h1,3,3,3,3;t2x5,2x6;f3,3,3;q-;u-;o5;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/spoken_punctuation/07_twenty_complete_utterances.md": {
+      "shape": "h1,3,3,3,3,3,3;t4x10;f3,7,3,3,3,3;q-;u-;o6;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/spoken_punctuation/08_the_marks_with_no_counterpart.md": {
+      "shape": "h1,3,3,3,3,3,3;t-;f3,3,3,3;q-;u-;o5;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/spoken_punctuation/09_the_dictation_test.md": {
+      "shape": "h1,3,3,3,3,3;t-;f7,3;q-;u7;o-;r0;s-",
+      "variant": "scenario"
+    },
+    "pamphlets/spoken_punctuation/10_common_errors.md": {
+      "shape": "h1,3,3,3,3,3,3,3,3,3;t-;f-;q-;u-;o-;r0;s-",
+      "variant": "errors"
+    },
+    "pamphlets/spoken_punctuation/11_exercises.md": {
+      "shape": "h1,2,2,2,2,2,2,2,3,3,3,3,3,3;t-;f-;q-;u-;o5,5,3,6,4,5,5,3,1,1;r1;s1,6,11,14,20,1,6,11,14,20",
+      "variant": "exercises"
+    },
+    "pamphlets/spoken_punctuation/12_appendix.md": {
+      "section_level": 2,
+      "shape": "h1,2,2,2,2,2;t3x22,4x10;f-;q-;u10,6;o-;r0;s-",
+      "variant": "appendix"
+    },
+    "pamphlets/tengwar_mode/00_title.md": {
+      "shape": "h1,2;t-;f-;q-;u6;o11;r2;s1",
+      "variant": "opening"
+    },
+    "pamphlets/tengwar_mode/01_two_hands_for_one_language.md": {
+      "section_level": 0,
+      "shape": "h1;t-;f3;q-;u-;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/tengwar_mode/02_the_consonant_tengwar.md": {
+      "section_level": 0,
+      "shape": "h1;t3x14;f-;q-;u-;o-;r0;s-",
+      "variant": "tables"
+    },
+    "pamphlets/tengwar_mode/03_the_vowel_marks_above_and_below.md": {
+      "section_level": 0,
+      "shape": "h1;t-;f3;q-;u-;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/tengwar_mode/04_one_tengwa_two_vowels.md": {
+      "section_level": 0,
+      "shape": "h1;t-;f3,3;q-;u-;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/tengwar_mode/05_romen_and_ore_the_two_rs.md": {
+      "section_level": 0,
+      "shape": "h1;t-;f3,3;q-;u-;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/tengwar_mode/06_the_silent_marks.md": {
+      "section_level": 0,
+      "shape": "h1;t2x2;f3;q-;u-;o-;r0;s-",
+      "variant": "tables"
+    },
+    "pamphlets/tengwar_mode/07_a_line_written_by_hand.md": {
+      "section_level": 0,
+      "shape": "h1;t-;f3,3,3;q-;u-;o-;r0;s-",
+      "variant": "scenario"
+    },
+    "pamphlets/tengwar_mode/08_common_errors.md": {
+      "shape": "h1,3,3,3,3,3,3,3;t-;f3,3,3,3,3;q-;u-;o-;r0;s-",
+      "variant": "errors"
+    },
+    "pamphlets/tengwar_mode/09_exercises.md": {
+      "shape": "h1,2;t-;f2,2,2,2,2;q-;u-;o5,5,5,5,5;r1;s1,6,11,16,21",
+      "variant": "exercises"
+    },
+    "pamphlets/tengwar_mode/10_appendix.md": {
+      "shape": "h1,3,3,3,3,3,3,3,3;t2x15,2x2,2x24;f-;q-;u5;o-;r0;s-",
+      "variant": "appendix"
+    },
+    "pamphlets/tengwar_mode/11_examples.md": {
+      "shape": "h1;t-;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0;s-",
+      "variant": "examples"
     }
   }
 }
