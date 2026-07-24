@@ -1555,6 +1555,504 @@ import tengwar
 
 PHI_WORDS = {e["word"] for e in entries}
 
+
+def load_texts_editorial():
+    """Load opt-in literary treatments and reject stale source assumptions."""
+    config_path = SITE_SRC / "texts_editorial.json"
+    config = json.loads(config_path.read_text(encoding="utf-8"))
+    if not isinstance(config, dict) or set(config) != {"pages"}:
+        raise ValueError("site/texts_editorial.json must contain one 'pages' object")
+    pages = config["pages"]
+    if not isinstance(pages, dict):
+        raise ValueError("site/texts_editorial.json pages must be an object")
+
+    catalogued = {f"texts/{work['path']}": work for work in TEXTS}
+    resolved = {}
+    required = {
+        "form",
+        "phi_title",
+        "motif",
+        "sections",
+        "interlinear_blocks",
+        "complete_readings",
+        "tables",
+        "pillar_sections",
+    }
+    for repo_path, treatment in pages.items():
+        if (
+            repo_path not in catalogued
+            or not (ROOT / repo_path).is_file()
+            or not isinstance(treatment, dict)
+        ):
+            raise ValueError(f"invalid texts editorial source: {repo_path}")
+        if set(treatment) != required:
+            raise ValueError(
+                f"texts editorial treatment for {repo_path} requires "
+                f"{', '.join(sorted(required))}"
+            )
+        if treatment["form"] != "paired":
+            raise ValueError(f"unknown texts editorial form: {treatment['form']}")
+        if treatment["motif"] != "wind_sun":
+            raise ValueError(f"unknown texts editorial motif: {treatment['motif']}")
+        work = catalogued[repo_path]
+        if work["method"] != "Translation + transmutation":
+            raise ValueError(
+                f"paired texts editorial source has incompatible method: {repo_path}"
+            )
+
+        source = (ROOT / repo_path).read_text(encoding="utf-8")
+        source_title = title_of(source)
+        if source_title != work["title"] or " — " not in source_title:
+            raise ValueError(
+                f"texts editorial title differs from the catalogue: {repo_path}"
+            )
+        phi_title, english_title = source_title.split(" — ", 1)
+        if (
+            treatment["phi_title"] != phi_title
+            or not is_current_phi(phi_title)
+            or not english_title.strip()
+        ):
+            raise ValueError(f"invalid texts editorial Phi title: {repo_path}")
+
+        sections = treatment["sections"]
+        source_sections = re.findall(r"^## (.+)$", source, flags=re.M)
+        if (
+            not isinstance(sections, list)
+            or not sections
+            or len(sections) != len(set(sections))
+            or any(not isinstance(section, str) or not section for section in sections)
+            or sections != source_sections
+        ):
+            raise ValueError(
+                f"texts editorial sections differ from the source: {repo_path}"
+            )
+        for field in (
+            "interlinear_blocks",
+            "complete_readings",
+            "tables",
+            "pillar_sections",
+        ):
+            if not isinstance(treatment[field], int) or treatment[field] < 0:
+                raise ValueError(
+                    f"texts editorial {field} must be a non-negative integer: "
+                    f"{repo_path}"
+                )
+        resolved[repo_path] = {**treatment, "work": work}
+    return resolved
+
+
+def texts_motif(name):
+    """Return the restrained Lucide motif for an editorial text."""
+    if name != "wind_sun":
+        raise ValueError(f"unknown texts motif: {name}")
+    # Lucide outlines; the deployed site carries the project's ISC notice.
+    wind = """
+    <path d="M12.8 19.6A2 2 0 1 0 14 16H2"/>
+    <path d="M17.5 8a2.5 2.5 0 1 1 2 4H2"/>
+    <path d="M9.8 4.4A2 2 0 1 1 11 8H2"/>"""
+    sun = """
+    <circle cx="12" cy="12" r="4"/>
+    <path d="M12 2v2"/><path d="M12 20v2"/>
+    <path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/>
+    <path d="M2 12h2"/><path d="M20 12h2"/>
+    <path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/>"""
+    return (
+        '<div class="text-work-motif" aria-hidden="true">'
+        f'<svg viewBox="0 0 24 24" focusable="false">{wind}</svg>'
+        f'<svg viewBox="0 0 24 24" focusable="false">{sun}</svg>'
+        "</div>"
+    )
+
+
+def text_section_icon(kind):
+    """Return a Lucide mark for a translation, transmutation, or comparison."""
+    paths = {
+        "translation": (
+            '<path d="M21 6H3"/><path d="M15 12H3"/>'
+            '<path d="M17 18H3"/>'
+        ),
+        "transmutation": (
+            '<path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2'
+            'c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10Z"/>'
+            '<path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"/>'
+        ),
+        "comparison": (
+            '<path d="M8 3 4 7l4 4"/><path d="M4 7h16"/>'
+            '<path d="m16 21 4-4-4-4"/><path d="M20 17H4"/>'
+        ),
+    }
+    if kind not in paths:
+        raise ValueError(f"unknown texts section kind: {kind}")
+    return (
+        '<span class="text-section-icon" aria-hidden="true">'
+        f'<svg viewBox="0 0 24 24" focusable="false">{paths[kind]}</svg>'
+        "</span>"
+    )
+
+
+def text_heading_slug(title):
+    """Make a stable fragment identifier from one validated section title."""
+    return re.sub(
+        r"[^a-z0-9]+",
+        "-",
+        html_module.unescape(re.sub(r"<[^>]+>", "", title)).lower(),
+    ).strip("-")
+
+
+def text_reading_map(sections):
+    """Build the major-section map shown before a treated literary work."""
+    links = []
+    for index, section in enumerate(sections, 1):
+        links.append(
+            "<li>"
+            f'<a href="#{text_heading_slug(section)}">'
+            f'<span class="text-map-number">{index:02d}</span>'
+            f"<span>{html_module.escape(section)}</span>"
+            "</a></li>"
+        )
+    return (
+        '<nav class="text-reading-map" aria-label="In this text">'
+        '<p class="text-reading-map-label">In this text</p>'
+        f'<ol>{"".join(links)}</ol>'
+        "</nav>"
+    )
+
+
+def style_text_fences(body, repo_path, treatment):
+    """Turn a paired work's exact fences into readings and interlinear rows."""
+    counts = {"interlinear_blocks": 0, "complete_readings": 0}
+
+    def convert(match):
+        raw = match.group(1).strip()
+        groups = re.split(r"\n[ \t]*\n", raw)
+        parsed = []
+        for group in groups:
+            lines = [line.strip() for line in group.splitlines()]
+            if len(lines) != 4:
+                parsed = []
+                break
+            source_match = re.fullmatch(r"([a-z]+):\s*(.+)", lines[3], flags=re.S)
+            if (
+                not is_current_phi_passage(lines[0])
+                or not lines[2].startswith("(")
+                or not lines[2].endswith(")")
+                or source_match is None
+            ):
+                parsed = []
+                break
+            parsed.append(
+                (lines[0], lines[1], lines[2], source_match.group(1), source_match.group(2))
+            )
+
+        if parsed:
+            counts["interlinear_blocks"] += 1
+            stanzas = []
+            for phi, gloss, literal, source_name, source_line in parsed:
+                stanzas.append(
+                    '<figure class="text-stanza">'
+                    '<div class="text-stanza-language">'
+                    f'<p class="text-phi-line" lang="art-x-phi">{phi}</p>'
+                    '<p class="text-gloss-line">'
+                    '<span class="visually-hidden">Word-by-word gloss: </span>'
+                    f"{gloss}</p>"
+                    "</div>"
+                    "<figcaption>"
+                    '<p class="text-literal-line">'
+                    '<span class="visually-hidden">Literal English: </span>'
+                    f"{literal}</p>"
+                    '<p class="text-source-line">'
+                    f'<span class="text-source-name">{source_name}:</span> '
+                    f"<span>{source_line}</span></p>"
+                    "</figcaption>"
+                    "</figure>"
+                )
+            return (
+                '<div class="text-interlinear" aria-label="Interlinear passage">'
+                + "".join(stanzas)
+                + "</div>"
+            )
+
+        readings = [group.strip() for group in groups if group.strip()]
+        if readings and all(
+            "\n" not in reading and is_current_phi_passage(reading)
+            for reading in readings
+        ):
+            counts["complete_readings"] += 1
+            lines = []
+            for index, reading in enumerate(readings):
+                class_name = (
+                    "text-reading-line text-reading-title"
+                    if index == 0
+                    else "text-reading-line"
+                )
+                lines.append(
+                    f'<p class="{class_name}" lang="art-x-phi">{reading}</p>'
+                )
+            return (
+                '<section class="text-complete-reading" '
+                'aria-label="Complete Phi reading">'
+                + "".join(lines)
+                + "</section>"
+            )
+
+        raise ValueError(f"unrecognized editorial text fence in {repo_path}")
+
+    body = re.sub(r"<pre>(.*?)</pre>", convert, body, flags=re.S)
+    for field, actual in counts.items():
+        if actual != treatment[field]:
+            raise ValueError(
+                f"texts editorial {field} differs in {repo_path}: "
+                f"expected {treatment[field]}, found {actual}"
+            )
+    if "<pre>" in body:
+        raise ValueError(f"editorial text left an untreated fence in {repo_path}")
+    return body
+
+
+def style_text_tables(body, repo_path, treatment):
+    """Give each known comparison table labels that remain useful on phones."""
+    table_kinds = {
+        ("Aesop's wording", "Phi rendering", "Remaining difference"):
+            "text-translation-ledger",
+        ("Aesop's detail", "Phi treatment", "What changes"):
+            "text-transmutation-ledger",
+        ("Moment", "Close translation", "Transmutation", "Why they diverge"):
+            "text-comparison-ledger",
+    }
+    count = 0
+
+    def convert(match):
+        nonlocal count
+        rows = re.findall(r"<tr>(.*?)</tr>", match.group(1), flags=re.S)
+        if not rows:
+            raise ValueError(f"empty editorial text table in {repo_path}")
+        headers = tuple(re.findall(r"<th>(.*?)</th>", rows[0], flags=re.S))
+        kind = table_kinds.get(headers)
+        if kind is None:
+            raise ValueError(
+                f"unrecognized editorial text table in {repo_path}: {headers}"
+            )
+        rebuilt = ["<tr>" + "".join(f"<th>{header}</th>" for header in headers) + "</tr>"]
+        for row in rows[1:]:
+            cells = re.findall(r"<td>(.*?)</td>", row, flags=re.S)
+            if len(cells) != len(headers):
+                raise ValueError(f"uneven editorial text table in {repo_path}")
+            rendered_cells = []
+            for header, cell in zip(headers, cells):
+                label = html_module.escape(
+                    html_module.unescape(re.sub(r"<[^>]+>", "", header)),
+                    quote=True,
+                )
+                rendered_cells.append(f'<td data-label="{label}">{cell}</td>')
+            rebuilt.append("<tr>" + "".join(rendered_cells) + "</tr>")
+        count += 1
+        return (
+            '<div class="text-ledger-wrap">'
+            f'<table class="text-ledger {kind}">'
+            + "".join(rebuilt)
+            + "</table></div>"
+        )
+
+    body = re.sub(r"<table>(.*?)</table>", convert, body, flags=re.S)
+    if count != treatment["tables"]:
+        raise ValueError(
+            f"texts editorial table count differs in {repo_path}: "
+            f"expected {treatment['tables']}, found {count}"
+        )
+    return body
+
+
+def style_text_subheadings(body):
+    """Mark scenes, readings, ledgers, and pillar reflections distinctly."""
+    pillars = {
+        "Solarpunk values",
+        "Secular Buddhist philosophy",
+        "Art Nouveau aesthetics",
+        "Peace linguistics",
+        "Pre-industrial wisdom",
+    }
+
+    def convert(match):
+        title = match.group(1)
+        plain = html_module.unescape(re.sub(r"<[^>]+>", "", title))
+        if plain.startswith("Complete "):
+            kind = "text-reading-heading"
+        elif "limits" in plain.lower() or "gap log" in plain.lower():
+            kind = "text-ledger-heading"
+        elif plain in pillars:
+            kind = "text-pillar-heading"
+        else:
+            kind = "text-scene-heading"
+        if " — " in title:
+            phi, english = title.split(" — ", 1)
+            if is_current_phi(phi):
+                title = (
+                    f'<span class="text-subheading-phi" lang="art-x-phi">{phi}</span>'
+                    '<span class="visually-hidden">, </span>'
+                    f'<span class="text-subheading-english">{english}</span>'
+                )
+        return f'<h3 class="{kind}">{title}</h3>'
+
+    return re.sub(r"<h3>(.*?)</h3>", convert, body, flags=re.S)
+
+
+def mark_text_inline_phi(body):
+    """Apply the shared inline treatment in literary prose and ledgers."""
+    def mark_fragment(match):
+        fragment = match.group(0)
+
+        def mark_code(code_match):
+            if not is_current_phi(code_match.group(1)):
+                return code_match.group(0)
+            return f'<code class="phi-inline">{code_match.group(1)}</code>'
+
+        return re.sub(r"<code>([^<]+)</code>", mark_code, fragment)
+
+    return re.sub(
+        r"<(?:p|td|li)(?: [^>]*)?>.*?</(?:p|td|li)>",
+        mark_fragment,
+        body,
+        flags=re.S,
+    )
+
+
+def group_text_pillars(body, repo_path, treatment):
+    """Pair each five-pillar heading with the reflection that belongs to it."""
+    body, count = re.subn(
+        (
+            r'(<h3 class="text-pillar-heading">.*?</h3>)\s*'
+            r"(<p>.*?</p>)"
+        ),
+        r'<section class="text-pillar-reflection">\1\2</section>',
+        body,
+        flags=re.S,
+    )
+    if count != treatment["pillar_sections"]:
+        raise ValueError(
+            f"texts editorial pillar count differs in {repo_path}: "
+            f"expected {treatment['pillar_sections']}, found {count}"
+        )
+    return body
+
+
+def text_method_heading(title, kind):
+    """Build a major method heading with its nonverbal mark."""
+    return (
+        f'<h2 class="text-method-heading text-{kind}-heading" '
+        f'id="{text_heading_slug(title)}">'
+        f"{text_section_icon(kind)}"
+        f"<span>{html_module.escape(title)}</span>"
+        "</h2>"
+    )
+
+
+def apply_text_editorial(body, source, repo_path, treatment):
+    """Apply the anthology treatment to one validated paired work."""
+    source_title = title_of(source)
+    phi_title, english_title = source_title.split(" — ", 1)
+    heading = re.search(r"<h1>(.*?)</h1>", body, flags=re.S)
+    if heading is None or html_module.unescape(heading.group(1)) != source_title:
+        raise ValueError(f"editorial text has no matching heading: {repo_path}")
+    tengwar_title = tengwar.render_line(phi_title)
+    if tengwar_title is None:
+        raise ValueError(f"editorial text title cannot render in Tengwar: {repo_path}")
+    header = f"""
+<header class="text-work-header">
+  <div class="text-work-meta">
+    <p class="text-shelf-label">Phi texts</p>
+    <p class="text-work-method"><span>Translation</span><span aria-hidden="true">+</span><span>transmutation</span></p>
+  </div>
+  <div class="text-work-title-row">
+    <div class="text-work-title-copy">
+      <p class="text-phi-title" lang="art-x-phi">{html_module.escape(phi_title)}</p>
+      <h1>{html_module.escape(english_title)}</h1>
+    </div>
+    {texts_motif(treatment["motif"])}
+  </div>
+  <div class="text-title-tengwar" aria-hidden="true">{tengwar_title}</div>
+</header>""".strip()
+    body = body[:heading.start()] + header + body[heading.end():]
+
+    opening_pattern = re.compile(
+        r"(</header>)\s*<p><em>(.*?)</em></p>\s*"
+        r"<p><em>(.*?)</em></p>\s*<hr>",
+        flags=re.S,
+    )
+    body, opening_count = opening_pattern.subn(
+        (
+            r"\1"
+            '<section class="text-work-opening">'
+            r'<p class="text-work-lede">\2</p>'
+            r'<p class="text-reader-note">\3</p>'
+            + text_reading_map(treatment["sections"])
+            + "</section>"
+        ),
+        body,
+        count=1,
+    )
+    if opening_count != 1:
+        raise ValueError(f"editorial text opening differs in {repo_path}")
+    if body.count("<hr>") != 4:
+        raise ValueError(f"editorial paired-work dividers differ in {repo_path}")
+
+    section_kinds = ("translation", "transmutation", "comparison")
+    markers = []
+    for title, kind in zip(treatment["sections"], section_kinds):
+        original = f"<h2>{html_module.escape(title)}</h2>"
+        if body.count(original) != 1:
+            raise ValueError(
+                f"editorial text section heading differs in {repo_path}: {title}"
+            )
+        marker = text_method_heading(title, kind)
+        body = body.replace(original, marker)
+        markers.append(marker)
+
+    positions = [body.index(marker) for marker in markers]
+    prefix = body[:positions[0]]
+    sections = []
+    for index, (marker, kind) in enumerate(zip(markers, section_kinds)):
+        end = positions[index + 1] if index + 1 < len(positions) else len(body)
+        section = body[positions[index]:end]
+        section = re.sub(r"\s*<hr>\s*$", "", section)
+        class_name = (
+            f"text-rendering text-{kind}"
+            if kind != "comparison"
+            else "text-comparison"
+        )
+        sections.append(f'<section class="{class_name}">{section}</section>')
+    body = prefix + "".join(sections)
+    if body.count("<hr>") != 2:
+        raise ValueError(f"editorial paired-work inner dividers differ in {repo_path}")
+    body = body.replace(
+        "<hr>",
+        '<div class="text-inner-divider" aria-hidden="true"></div>',
+    )
+
+    body = style_text_subheadings(body)
+    body = style_text_fences(body, repo_path, treatment)
+    body, note_count = re.subn(
+        r"<p><strong>Notes:</strong>\s*(.*?)</p>",
+        (
+            '<aside class="text-notes">'
+            '<p><span class="text-notes-label">Notes:</span> '
+            r"\1</p></aside>"
+        ),
+        body,
+        flags=re.S,
+    )
+    if note_count != treatment["interlinear_blocks"]:
+        raise ValueError(
+            f"texts editorial note count differs in {repo_path}: "
+            f"expected {treatment['interlinear_blocks']}, found {note_count}"
+        )
+    body = style_text_tables(body, repo_path, treatment)
+    body = group_text_pillars(body, repo_path, treatment)
+    body = mark_text_inline_phi(body)
+    return body
+
+
+TEXT_EDITORIAL_PAGES = load_texts_editorial()
+
 # Every headword's Tengwar hand, as compact placement data over one shared
 # glyph dictionary rather than a full SVG per word: the explorer assembles
 # the same markup render_line() produces, and the coordinates ship already
@@ -1607,11 +2105,16 @@ def texts_nav(depth):
     return f'<nav class="topnav"><a href="{root_prefix}index.html">kia</a> <span class="sep">&middot;</span> <a href="{root_prefix}short_road.html">walk</a> <span class="sep">&middot;</span> <a href="{root_prefix}primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="{root_prefix}book/index.html">book</a> <span class="sep">&middot;</span> <a href="{root_prefix}manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="{root_prefix}pamphlets/index.html">pamphlets</a> <span class="sep">&middot;</span> <a class="here" href="{texts_index}">texts</a> <span class="sep">&middot;</span> <a href="{root_prefix}explore.html">lexicon</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
 
-def texts_page(body, title, depth=1, footer_nav=None):
+def texts_page(body, title, depth=1, footer_nav=None, editorial_kind=None):
     root_prefix = "../" * depth
     texts_index = "index.html" if depth == 1 else "../index.html"
     if footer_nav is None:
         footer_nav = f'<div class="chapnav"><a href="{texts_index}">all texts</a></div>'
+    body_class = "landing primer"
+    content = f"{body}\n{footer_nav}"
+    if editorial_kind is not None:
+        body_class += f" text-editorial text-{editorial_kind}-page"
+        content = f'<article class="text-work">\n{body}\n{footer_nav}\n</article>'
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -1623,11 +2126,10 @@ def texts_page(body, title, depth=1, footer_nav=None):
 <script src="{root_prefix}reader.js" defer></script>
 <link rel="stylesheet" href="{root_prefix}style.css">
 </head>
-<body class="landing primer">
+<body class="{body_class}">
 {texts_nav(depth)}
 <main>
-{body}
-{footer_nav}
+{content}
 </main>
 <footer>
   <p>Each work identifies itself as a translation, transmutation, or original Phi composition. Source witnesses, where a work has one, live with the texts in <a href="https://github.com/dcellison/phi/tree/main/texts">the repository</a>. The site renders them at build time.
@@ -1637,13 +2139,66 @@ def texts_page(body, title, depth=1, footer_nav=None):
 </html>
 """
 
-for work in TEXTS:
+
+def text_work_nav(index):
+    """Build previous, shelf, and next navigation for an editorial work."""
+    links = []
+    if index > 0:
+        previous = TEXTS[index - 1]
+        links.append(
+            f'<a class="text-work-prev" href="{Path(previous["path"]).stem}.html">'
+            '<span class="text-nav-direction">&lsaquo; Previous work</span>'
+            f'<span class="text-nav-title">{html_module.escape(previous["title"])}</span>'
+            "</a>"
+        )
+    else:
+        links.append('<span class="text-work-nav-space" aria-hidden="true"></span>')
+    links.append('<a class="text-work-index" href="index.html">All texts</a>')
+    if index + 1 < len(TEXTS):
+        following = TEXTS[index + 1]
+        links.append(
+            f'<a class="text-work-next" href="{Path(following["path"]).stem}.html">'
+            '<span class="text-nav-direction">Next work &rsaquo;</span>'
+            f'<span class="text-nav-title">{html_module.escape(following["title"])}</span>'
+            "</a>"
+        )
+    else:
+        links.append('<span class="text-work-nav-space" aria-hidden="true"></span>')
+    return '<nav class="chapnav text-work-nav" aria-label="Text navigation">' + "".join(links) + "</nav>"
+
+
+for work_index, work in enumerate(TEXTS):
     source = ROOT / "texts" / work["path"]
     stem = source.stem
     md = source.read_text()
-    method = work["method"]
-    rendered = md_to_html(md).replace("</h1>", f'</h1>\n<p class="text-method">{method}</p>', 1)
-    (TEXTS_OUT / f"{stem}.html").write_text(texts_page(rendered, work["title"]))
+    repo_path = source.relative_to(ROOT).as_posix()
+    treatment = TEXT_EDITORIAL_PAGES.get(repo_path)
+    rendered = md_to_html(md)
+    footer_nav = None
+    editorial_kind = None
+    if treatment is not None:
+        rendered = apply_text_editorial(
+            rendered,
+            md,
+            repo_path,
+            treatment,
+        )
+        footer_nav = text_work_nav(work_index)
+        editorial_kind = treatment["form"]
+    else:
+        rendered = rendered.replace(
+            "</h1>",
+            f'</h1>\n<p class="text-method">{work["method"]}</p>',
+            1,
+        )
+    (TEXTS_OUT / f"{stem}.html").write_text(
+        texts_page(
+            rendered,
+            work["title"],
+            footer_nav=footer_nav,
+            editorial_kind=editorial_kind,
+        )
+    )
 
 NEWS_SRC = ROOT / "texts" / NEWS_WORK["path"]
 NEWS_OUT = TEXTS_OUT / NEWS_WORK["path"]
