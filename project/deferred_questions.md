@@ -39,6 +39,14 @@ Work proceeds in this order:
 
 Each pass begins with one representative page. Browser checks cover desktop, mobile, light, dark, and print behaviour before the treatment reaches the whole shelf. Contents and catalogue pages may need their own layout within the same visual family.
 
+### Entrance and index pages
+
+Status: In progress. Kia is complete; the Short Road and the Phi Book contents page remain.
+
+With the shelves styled, attention has moved to the pages that lead into them. Kia stays light and introductory instead of compressing the manual. Its greeting sits inside an open doorway, and the Tengwar hand appears at arrival and farewell. Six brief encounters lead to seven destinations; each door is one large link rather than a small word to aim at. Inline Phi keeps the book's quiet treatment. The renderer checks Kia's expected headings and destinations so a source change cannot silently leave the design behind, while `kia.md` stays untouched.
+
+The Short Road comes next and should feel like continuous walking rather than another catalogue. It can carry stronger route and progress cues because it is a twenty-minute tour. The Phi Book contents page follows; it should invite entry into a completed argument without pretending to be another chapter.
+
 ### Legacy vocabulary prose audit
 
 Status: Complete.
