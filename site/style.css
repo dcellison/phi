@@ -852,7 +852,8 @@ table.primer-ladder {
   font-size: .78em;
   overflow-wrap: anywhere;
 }
-.manual-editorial a code:not(.phi-inline) {
+.manual-editorial a code:not(.phi-inline),
+.manual-editorial code.manual-repo-path {
   font-size: .78em;
   overflow-wrap: anywhere;
   white-space: normal;
@@ -2468,6 +2469,12 @@ table.text-ledger {
 .manual-woven-thoughts-page .manual-page-motif svg + svg { color: var(--muted); }
 .manual-lived-practice-page .manual-page-motif { color: var(--gold); }
 .manual-lived-practice-page .manual-page-motif svg + svg { color: var(--sage); }
+.manual-open-reference-page .manual-page-motif { color: var(--sage); }
+.manual-open-reference-page .manual-page-motif svg + svg { color: var(--gold); }
+.manual-indexed-notes-page .manual-page-motif { color: var(--muted); }
+.manual-indexed-notes-page .manual-page-motif svg + svg { color: var(--gold); }
+.manual-makers-mark-page .manual-page-motif { color: var(--gold); }
+.manual-makers-mark-page .manual-page-motif svg + svg { color: var(--sage); }
 .manual-page-opening,
 .manual-unsectioned-copy {
   min-width: 0;
@@ -2678,6 +2685,10 @@ table.text-ledger {
 }
 .manual-table-dense .manual-reference-table td { padding-bottom: .4rem; padding-top: .4rem; }
 .manual-table-wide .manual-reference-table { font-size: .84rem; }
+.manual-module-guide-variant .manual-table-wide .manual-reference-table th:first-child,
+.manual-module-guide-variant .manual-table-wide .manual-reference-table td:first-child {
+  width: 18%;
+}
 .manual-example {
   background: var(--paper-raised);
   border-left: 2px solid var(--gold);
@@ -2757,6 +2768,59 @@ table.text-ledger {
   font-size: .98rem;
   overflow-wrap: anywhere;
   padding: 0;
+}
+.manual-glossary {
+  border-top: 2px solid var(--gold);
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin: 1.5rem 0 2.2rem;
+}
+.manual-glossary-entry {
+  border-bottom: 1px solid var(--hairline);
+  min-width: 0;
+  padding: .8rem 1rem .9rem 0;
+}
+.manual-glossary-entry:nth-child(odd) {
+  border-right: 1px solid var(--hairline);
+}
+.manual-glossary-entry:nth-child(even) { padding-left: 1rem; }
+.manual-glossary dt {
+  color: var(--sage);
+  font-family: var(--serif);
+  font-size: 1rem;
+  font-weight: 650;
+  line-height: 1.25;
+}
+.manual-glossary dd {
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: .83rem;
+  line-height: 1.55;
+  margin: .25rem 0 0;
+}
+.manual-gloss-table-wrap .manual-reference-table th:first-child,
+.manual-gloss-table-wrap .manual-reference-table td:first-child { width: 18%; }
+.manual-maker-note-variant p.manual-page-lede {
+  border-left: 0;
+  font-size: 1.08rem;
+  padding-left: 0;
+}
+.manual-maker-note-variant p.manual-page-lede::first-letter {
+  color: var(--gold);
+  float: left;
+  font-family: var(--serif);
+  font-size: 4.4rem;
+  line-height: .78;
+  padding: .12rem .45rem 0 0;
+}
+.manual-maker-note-variant .manual-page-opening > p:not(.manual-page-lede) {
+  max-width: 44rem;
+}
+@media (min-width: 641px) {
+  .manual-directory-variant .manual-table-pair .manual-reference-table th:first-child,
+  .manual-directory-variant .manual-table-pair .manual-reference-table td:first-child {
+    width: 34%;
+  }
 }
 .manual-dialogue {
   border-bottom: 1px solid var(--hairline);
@@ -3256,6 +3320,22 @@ table.text-ledger {
     font-size: .68rem;
     font-weight: 650;
   }
+  .manual-glossary {
+    grid-template-columns: minmax(0, 1fr);
+    margin-left: -.55rem;
+    margin-right: -.55rem;
+    padding-left: .75rem;
+    padding-right: .75rem;
+  }
+  .manual-glossary-entry,
+  .manual-glossary-entry:nth-child(even) {
+    border-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .manual-maker-note-variant p.manual-page-lede::first-letter {
+    font-size: 3.7rem;
+  }
   .manual-example {
     margin-left: -.55rem;
     margin-right: -.55rem;
@@ -3738,6 +3818,8 @@ table.text-ledger {
   .manual-code-sample,
   .manual-dialogue,
   .manual-editorial blockquote { break-inside: avoid; }
+  .manual-glossary-entry { break-inside: avoid; }
+  .manual-editorial .gloss-pop { display: none !important; }
   .manual-table-wrap {
     background: none;
     margin-left: 3em;
