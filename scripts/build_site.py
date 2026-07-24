@@ -11,6 +11,8 @@ import re
 import shutil
 from pathlib import Path
 
+import tengwar
+
 from compound_registry import load_compounds
 from content_catalogues import load_pamphlet_catalogue, load_text_catalogue
 
@@ -164,6 +166,178 @@ def md_to_html(md):
             out.append(f"<p>{inline(block)}</p>")
     return "\n".join(out)
 
+
+KIA_SECTION_TITLES = (
+    "The grammar has one organizing principle",
+    "A dog in three syllables",
+    "Punctuation speaks",
+    "How do you know?",
+    "Some choices are deliberate",
+    "The shelf is occupied",
+    "Seven doors",
+)
+
+KIA_DOORS = (
+    ("Walk", "short_road.html"),
+    ("Wander", "explore.html"),
+    ("Begin", "primer/index.html"),
+    ("Verify", "manual/index.html"),
+    ("Consider", "book/index.html"),
+    ("Read", "texts/index.html"),
+    ("Practice", "pamphlets/index.html"),
+)
+
+
+def mark_kia_inline_phi(body):
+    """Give source-authored Phi its site treatment, apart from doors."""
+    body = re.sub(
+        r"<strong>(?!<a\b)(.*?)</strong>",
+        r'<strong class="kia-phi">\1</strong>',
+        body,
+        flags=re.S,
+    )
+    return re.sub(
+        r"<em>([a-z]+)</em>",
+        lambda match: (
+            f'<em class="kia-phi">{match.group(1)}</em>'
+            if match.group(1) in ALL_WORDS
+            else match.group(0)
+        ),
+        body,
+    )
+
+
+def apply_kia_threshold(body):
+    """Turn Kia's stable source shape into a welcoming site threshold."""
+    parts = re.split(r"(?=<h2>)", body)
+    if len(parts) != len(KIA_SECTION_TITLES) + 1:
+        raise ValueError(
+            "kia threshold expects one opening and seven titled sections"
+        )
+
+    opening = re.fullmatch(
+        r"<h1>kia</h1>\n"
+        r"(?P<greeting><p>.*?</p>)\n"
+        r"(?P<statement><p>.*?</p>)\n"
+        r"(?P<invitation><p>.*?</p>)",
+        parts[0].strip(),
+        flags=re.S,
+    )
+    if opening is None:
+        raise ValueError("kia threshold opening shape differs from kia.md")
+
+    section_parts = []
+    for expected, section in zip(KIA_SECTION_TITLES, parts[1:]):
+        match = re.fullmatch(
+            r"<h2>(?P<title>.*?)</h2>\n?(?P<body>.*)",
+            section.strip(),
+            flags=re.S,
+        )
+        if match is None or match.group("title") != expected:
+            found = match.group("title") if match is not None else "unreadable"
+            raise ValueError(
+                f"kia threshold expected section {expected!r}, found {found!r}"
+            )
+        section_parts.append(match.group("body").strip())
+
+    door_source = section_parts.pop()
+    if door_source.count("<hr>") != 1:
+        raise ValueError("kia threshold expects one divider after the seven doors")
+    door_paragraphs, farewell = (
+        part.strip() for part in door_source.split("<hr>", 1)
+    )
+    door_blocks = door_paragraphs.splitlines()
+    if len(door_blocks) != len(KIA_DOORS):
+        raise ValueError(
+            f"kia threshold expects {len(KIA_DOORS)} door paragraphs, "
+            f"found {len(door_blocks)}"
+        )
+    if not re.fullmatch(r"<p>.*?</p>", farewell, flags=re.S):
+        raise ValueError("kia threshold expects one closing welcome after the doors")
+
+    door_items = []
+    for block, (expected_label, expected_href) in zip(door_blocks, KIA_DOORS):
+        paragraph = re.fullmatch(r"<p>(?P<body>.*?)</p>", block, flags=re.S)
+        if paragraph is None:
+            raise ValueError("kia threshold door is not one paragraph")
+        anchor = re.search(
+            r'<strong><a href="(?P<href>[^"]+)">(?P<label>[^<]+)</a></strong>',
+            paragraph.group("body"),
+        )
+        if (
+            anchor is None
+            or anchor.group("label") != expected_label
+            or anchor.group("href") != expected_href
+        ):
+            raise ValueError(
+                f"kia threshold door differs for {expected_label!r}"
+            )
+        copy = (
+            paragraph.group("body")[:anchor.start()]
+            + f'<strong class="kia-door-name">{expected_label}</strong>'
+            + paragraph.group("body")[anchor.end():]
+        )
+        door_items.append(
+            '<li class="kia-door-item">'
+            f'<a class="kia-door" href="{expected_href}">'
+            f'<span class="kia-door-copy">{copy}</span>'
+            '<span class="kia-door-arrow" aria-hidden="true">&rarr;</span>'
+            "</a></li>"
+        )
+
+    hero_hand = tengwar.render_line("kia.")
+    farewell_hand = tengwar.render_line("kia. whelani.")
+    if hero_hand is None or farewell_hand is None:
+        raise ValueError("kia threshold Tengwar greeting did not render")
+
+    encounters = []
+    for number, (title, section_body) in enumerate(
+        zip(KIA_SECTION_TITLES[:-1], section_parts),
+        start=1,
+    ):
+        slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
+        encounters.append(
+            f'<section class="kia-encounter" id="{slug}">'
+            '<header class="kia-section-header">'
+            f'<span class="kia-section-number" aria-hidden="true">{number:02}</span>'
+            f"<h2>{title}</h2>"
+            "</header>"
+            f'<div class="kia-section-copy">{section_body}</div>'
+            "</section>"
+        )
+
+    page = (
+        '<article class="kia-threshold-work">'
+        '<header class="kia-hero">'
+        '<div class="kia-hero-frame">'
+        '<p class="kia-hero-label">Phi</p>'
+        f'<div class="kia-hero-hand" aria-hidden="true">{hero_hand}</div>'
+        "<h1>kia</h1>"
+        f'<div class="kia-hero-greeting">{opening.group("greeting")}</div>'
+        "</div>"
+        "</header>"
+        '<div class="kia-opening">'
+        f'{opening.group("statement")}{opening.group("invitation")}'
+        "</div>"
+        + "".join(encounters)
+        + '<section class="kia-doors-section" id="seven-doors">'
+        '<header class="kia-section-header">'
+        '<span class="kia-section-number" aria-hidden="true">07</span>'
+        "<h2>Seven doors</h2>"
+        "</header>"
+        '<nav class="kia-doors" aria-label="Ways into Phi">'
+        f'<ol class="kia-door-list">{"".join(door_items)}</ol>'
+        "</nav>"
+        "</section>"
+        '<aside class="kia-farewell" aria-label="Welcome in Phi">'
+        f'<div class="kia-farewell-hand" aria-hidden="true">{farewell_hand}</div>'
+        f"{farewell}"
+        "</aside>"
+        "</article>"
+    )
+    return mark_kia_inline_phi(page)
+
+
 kia = (ROOT / "kia.md").read_text()
 body = md_to_html(kia)
 # the doors become links
@@ -181,6 +355,7 @@ body = body.replace("<strong>Read</strong>",
                     '<strong><a href="texts/index.html">Read</a></strong>')
 body = body.replace("<strong>Practice</strong>",
                     '<strong><a href="pamphlets/index.html">Practice</a></strong>')
+body = apply_kia_threshold(body)
 landing = f"""<!doctype html>
 <html lang="en">
 <head>
@@ -195,11 +370,10 @@ landing = f"""<!doctype html>
 <script src="theme.js"></script>
 <link rel="stylesheet" href="style.css">
 </head>
-<body class="landing">
+<body class="landing kia-threshold-page">
 <nav class="topnav"><span class="here">kia</span> <span class="sep">&middot;</span> <a href="short_road.html">walk</a> <span class="sep">&middot;</span> <a href="primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="book/index.html">book</a> <span class="sep">&middot;</span> <a href="manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="pamphlets/index.html">pamphlets</a> <span class="sep">&middot;</span> <a href="texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="explore.html">lexicon</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>
 <main>
 {body}
-<p class="doorlink"><a href="explore.html">Enter the lexicon &rarr;</a></p>
 </main>
 <footer>
   <p>The lexicon is the single source of truth &mdash; this site is a view over
@@ -210,7 +384,10 @@ landing = f"""<!doctype html>
 </html>
 """
 (BUILD_SITE / "index.html").write_text(landing)
-print(f"wrote build/site/index.html from kia.md ({len(body.splitlines())} blocks)")
+print(
+    "wrote build/site/index.html from kia.md "
+    f"({len(KIA_SECTION_TITLES) - 1} encounters, {len(KIA_DOORS)} doors)"
+)
 
 # ---- colophon: colophon.md rendered after the manual treatment is loaded ----
 
@@ -2836,7 +3013,6 @@ book_readme = re.sub(
 print(f"wrote build/site/book/: {len(book_chapters)} chapters + contents")
 
 # ---- the texts: translated, transmuted, and original literature rendered to build/site/texts/ ----
-import tengwar
 
 PHI_WORDS = {e["word"] for e in entries}
 

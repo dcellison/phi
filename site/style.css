@@ -329,6 +329,313 @@ footer a { color: var(--sage); }
 .landing a { color: var(--sage); }
 .landing .doorlink { text-align: center; margin-top: 2.5rem; font-size: 1.1rem; }
 
+/* --- Kia: the light threshold into Phi --- */
+.kia-threshold-page main {
+  max-width: 60rem;
+  min-width: 0;
+  padding-top: 2.25rem;
+  width: 100%;
+}
+.kia-threshold-work {
+  line-height: 1.68;
+  margin: 0 auto;
+  max-width: 50rem;
+  min-width: 0;
+}
+.kia-hero {
+  margin: 0 auto;
+  max-width: 42rem;
+  padding: .45rem 0 1.3rem;
+  text-align: center;
+}
+.kia-hero-frame {
+  border-top: 1px solid var(--gold);
+  margin: 0 auto;
+  max-width: 32rem;
+  padding: 1.55rem 2.6rem 1.95rem;
+  position: relative;
+}
+.kia-hero-frame::before,
+.kia-hero-frame::after {
+  background: var(--gold);
+  content: "";
+  height: calc(100% + .8rem);
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+.kia-hero-frame::before { left: 0; }
+.kia-hero-frame::after { right: 0; }
+.kia-hero-label {
+  color: var(--muted);
+  font-size: .7rem;
+  font-weight: 650;
+  margin: 0;
+}
+.kia-hero-hand {
+  color: var(--sage);
+  font-size: 2.15rem;
+  line-height: 1;
+  margin: .7rem auto .35rem;
+}
+.kia-hero-hand .teng-svg { display: block; margin: 0 auto; }
+.kia-threshold-page .kia-hero h1 {
+  color: var(--ink);
+  font-size: 4.2rem;
+  font-weight: 350;
+  letter-spacing: 0;
+  line-height: .95;
+  margin: .25rem 0 1rem;
+}
+.kia-hero-greeting p {
+  font-family: var(--serif);
+  font-size: 1.06rem;
+  line-height: 1.56;
+  margin: 0;
+}
+.kia-opening {
+  margin: 1.9rem auto 3.5rem;
+  max-width: 38rem;
+}
+.kia-opening p:first-child {
+  font-family: var(--serif);
+  font-size: 1.22rem;
+  line-height: 1.68;
+}
+.kia-threshold-page p { overflow-wrap: anywhere; }
+.kia-threshold-page p .kia-phi {
+  -webkit-box-decoration-break: clone;
+  background: var(--phi-inline-bg);
+  border-radius: 5px;
+  box-decoration-break: clone;
+  color: var(--ink);
+  font-family: ui-monospace, "SFMono-Regular", consolas, monospace;
+  font-size: .9em;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 1;
+  padding: .18em .4em .22em;
+}
+.kia-encounter,
+.kia-doors-section {
+  border-top: 1px solid var(--hairline);
+  display: grid;
+  grid-template-columns: 4.2rem minmax(0, 1fr);
+  margin-top: 3.4rem;
+  padding-top: .9rem;
+}
+.kia-section-header {
+  align-items: baseline;
+  display: grid;
+  gap: 0;
+  grid-column: 1 / -1;
+  grid-template-columns: 4.2rem minmax(0, 1fr);
+  padding: 0;
+  text-align: left;
+}
+.kia-section-number {
+  color: var(--gold);
+  font-size: .67rem;
+  font-weight: 650;
+}
+.kia-threshold-page .kia-section-header h2 {
+  color: var(--ink);
+  font-size: 1.65rem;
+  font-weight: 550;
+  letter-spacing: 0;
+  line-height: 1.18;
+  margin: 0 0 .65rem;
+}
+.kia-section-copy {
+  grid-column: 2;
+  max-width: 38rem;
+}
+.kia-threshold-page .kia-section-copy > p:first-child { margin-top: 0; }
+.kia-threshold-page .kia-section-copy blockquote {
+  background: var(--paper-raised);
+  border-left-color: var(--gold);
+  margin: 1.2rem 0 1.35rem;
+  padding: .9rem 1rem;
+}
+.kia-threshold-page .kia-section-copy blockquote .kia-phi {
+  background: none;
+  color: var(--sage);
+  font-family: var(--serif);
+  font-size: 1.04rem;
+  font-weight: 600;
+  padding: 0;
+}
+.kia-doors-section { margin-top: 4.4rem; }
+.kia-doors {
+  grid-column: 1 / -1;
+  margin-top: .65rem;
+}
+.kia-door-list {
+  border-top: 1px solid var(--hairline);
+  counter-reset: kia-door;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.kia-door-item {
+  border-bottom: 1px solid var(--hairline);
+  counter-increment: kia-door;
+  min-width: 0;
+}
+.kia-door-item:nth-child(odd) { border-right: 1px solid var(--hairline); }
+.kia-door-item:last-child {
+  border-right: 0;
+  grid-column: 1 / -1;
+}
+.kia-threshold-page .kia-door {
+  align-items: start;
+  color: var(--ink);
+  display: grid;
+  gap: .8rem;
+  grid-template-columns: 1.7rem minmax(0, 1fr) 1rem;
+  height: 100%;
+  padding: 1rem;
+  text-decoration: none;
+}
+.kia-door::before {
+  color: var(--gold);
+  content: counter(kia-door, decimal-leading-zero);
+  font-size: .64rem;
+  font-weight: 650;
+  padding-top: .28rem;
+}
+.kia-threshold-page .kia-door:hover {
+  background: var(--paper-raised);
+  color: var(--ink);
+}
+.kia-door:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: -2px;
+}
+.kia-door-copy {
+  line-height: 1.5;
+  min-width: 0;
+}
+.kia-door-name {
+  color: var(--sage);
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  font-weight: 650;
+}
+.kia-door-arrow {
+  color: var(--sage);
+  font-family: var(--sans);
+  text-align: right;
+}
+.kia-farewell {
+  margin: 4.2rem auto 0;
+  max-width: 34rem;
+  padding: 2.2rem 1rem 1rem;
+  position: relative;
+  text-align: center;
+}
+.kia-farewell::before {
+  background: var(--gold);
+  content: "";
+  height: 1px;
+  left: 50%;
+  position: absolute;
+  top: 0;
+  width: 5rem;
+  transform: translateX(-50%);
+}
+.kia-farewell-hand {
+  color: var(--sage);
+  font-size: 2.3rem;
+  line-height: 1;
+  margin: 0 auto 1rem;
+}
+.kia-farewell-hand .teng-svg { display: block; margin: 0 auto; }
+.kia-farewell p {
+  font-family: var(--serif);
+  font-size: 1.12rem;
+}
+.kia-farewell p .kia-phi {
+  background: none;
+  color: var(--sage);
+  font-family: var(--serif);
+  font-size: 1em;
+  font-weight: 650;
+  padding: 0;
+}
+
+@media (max-width: 760px) {
+  .kia-door-list { grid-template-columns: minmax(0, 1fr); }
+  .kia-door-item:nth-child(odd) { border-right: 0; }
+  .kia-door-item:last-child { grid-column: 1; }
+}
+
+@media (max-width: 560px) {
+  .kia-threshold-page main { padding-top: 2rem; }
+  .kia-hero { padding-top: .35rem; }
+  .kia-hero-frame { padding: 1.4rem 1.25rem 1.8rem; }
+  .kia-hero-hand { font-size: 2rem; }
+  .kia-threshold-page .kia-hero h1 { font-size: 3.8rem; }
+  .kia-hero-greeting p { font-size: 1.02rem; }
+  .kia-opening { margin-bottom: 3.2rem; }
+  .kia-opening p:first-child { font-size: 1.1rem; }
+  .kia-encounter,
+  .kia-doors-section {
+    grid-template-columns: minmax(0, 1fr);
+    margin-top: 3rem;
+  }
+  .kia-section-header {
+    gap: .65rem;
+    grid-template-columns: 2rem minmax(0, 1fr);
+  }
+  .kia-threshold-page .kia-section-header h2 { font-size: 1.42rem; }
+  .kia-section-copy {
+    grid-column: 1 / -1;
+    margin-top: .2rem;
+  }
+  .kia-threshold-page .kia-section-copy blockquote {
+    margin-left: -.35rem;
+    margin-right: -.35rem;
+  }
+  .kia-threshold-page .kia-door {
+    gap: .6rem;
+    grid-template-columns: 1.5rem minmax(0, 1fr) .9rem;
+    padding: .9rem .55rem;
+  }
+  .kia-farewell { margin-top: 3.4rem; }
+  .kia-farewell-hand { font-size: 1.8rem; }
+}
+
+@media print {
+  body.kia-threshold-page {
+    --paper: #fff;
+    --paper-raised: #fff;
+    --ink: #1f2d25;
+    --muted: #5f675f;
+    --sage: #53684e;
+    --gold: #8b7136;
+    --hairline: #cfc9bb;
+    --phi-inline-bg: transparent;
+    font-size: 11pt;
+  }
+  .kia-threshold-page .topnav,
+  .kia-threshold-page footer { display: none; }
+  .kia-threshold-page main {
+    max-width: none;
+    padding: 0;
+  }
+  .kia-threshold-work { max-width: none; }
+  .kia-hero { padding-top: 0; }
+  .kia-door-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .kia-door { background: none; }
+  .kia-encounter,
+  .kia-door-item,
+  .kia-farewell { break-inside: avoid; }
+}
+
 /* --- top navigation, both pages --- */
 .topnav {
   text-align: center;
