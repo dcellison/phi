@@ -365,7 +365,7 @@ footer a { color: var(--sage); }
 .chapnav a { color: var(--sage); text-decoration: none; }
 .chapnav a:hover { color: var(--ink); }
 
-/* --- opt-in primer chapter treatment (site/primer_editorial.json) --- */
+/* --- primer illustrated-reader treatment (site/primer_editorial.json) --- */
 .primer-editorial main {
   max-width: 56rem;
   min-width: 0;
@@ -525,6 +525,17 @@ blockquote.primer-reading {
   letter-spacing: 0;
   line-height: 1.72;
 }
+.primer-reading-line { display: block; }
+.primer-reading-line + .primer-reading-line { margin-top: .08rem; }
+.primer-reading-note {
+  color: var(--muted);
+  display: block;
+  font-family: var(--sans);
+  font-size: .78rem;
+  font-style: italic;
+  line-height: 1.5;
+  margin-top: -.08rem;
+}
 table.primer-word-ledger {
   border-collapse: collapse;
   margin: .9rem 0 1.25rem;
@@ -578,6 +589,14 @@ blockquote.primer-dialogue {
   grid-template-columns: 5.5rem minmax(0, 1fr);
   padding: .55rem 0;
 }
+.primer-narration-line::before {
+  align-self: center;
+  background: var(--gold);
+  content: "";
+  height: 1px;
+  justify-self: end;
+  width: 1.4rem;
+}
 .primer-speaker {
   color: var(--sage);
   font-family: var(--sans);
@@ -587,7 +606,18 @@ blockquote.primer-dialogue {
 }
 .primer-utterance {
   color: var(--ink);
+  display: block;
   line-height: 1.62;
+}
+.primer-dialogue-copy { display: block; min-width: 0; }
+.primer-dialogue-note {
+  color: var(--muted);
+  display: block;
+  font-family: var(--sans);
+  font-size: .76rem;
+  font-style: italic;
+  line-height: 1.5;
+  margin-top: .12rem;
 }
 .primer-closing-note {
   border-bottom: 1px solid var(--hairline);
@@ -605,7 +635,144 @@ blockquote.primer-dialogue {
   font-family: var(--sans);
   font-size: .88rem;
 }
+.primer-manual-link { color: inherit; text-decoration-color: var(--gold); }
 .primer-editorial .chapnav { margin-top: 2.25rem; }
+
+/* Prelude, contents, and capstone share the reader family without pretending to be scenes. */
+.primer-special-header .primer-title-row { align-items: center; }
+h2.primer-reference-title {
+  align-items: baseline;
+  border-bottom: 1px solid var(--hairline);
+  color: var(--ink);
+  display: flex;
+  font-size: 1.12rem;
+  gap: .75rem;
+  letter-spacing: 0;
+  margin: 2.4rem 0 .8rem;
+  padding-bottom: .38rem;
+}
+h2.primer-reference-title::before {
+  background: var(--gold);
+  content: "";
+  flex: 0 0 1.75rem;
+  height: 2px;
+}
+table.primer-sound-table {
+  font-size: .9rem;
+  table-layout: auto;
+}
+.primer-sound-table th {
+  border-bottom-color: var(--gold);
+  letter-spacing: 0;
+}
+.primer-sound-table th:first-child,
+.primer-sound-table td:first-child { width: 20%; }
+.primer-threshold-note {
+  border-bottom: 1px solid var(--hairline);
+  border-top: 1px solid var(--gold);
+  margin-top: 2.7rem;
+  padding: 1rem 0 .15rem;
+}
+.primer-threshold-note p {
+  font-family: var(--serif);
+  line-height: 1.7;
+  margin: 0 0 .8rem;
+}
+
+.primer-contents-page main { max-width: 68rem; }
+.primer-contents-page .primer-chapter { max-width: 52rem; }
+.primer-ladder-grid {
+  display: grid;
+  gap: 1.9rem 2.4rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin: 1.2rem 0 2.2rem;
+}
+.primer-ladder-part {
+  border-top: 2px solid var(--gold);
+  min-width: 0;
+  padding-top: .7rem;
+}
+.primer-ladder-part h3 {
+  color: var(--ink);
+  font-size: 1rem;
+  letter-spacing: 0;
+  margin: 0 0 .55rem;
+}
+.primer-ladder-number {
+  color: var(--sage);
+  display: block;
+  font-family: var(--sans);
+  font-size: .7rem;
+  font-weight: 650;
+  margin-bottom: .08rem;
+}
+table.primer-ladder {
+  font-size: .82rem;
+  line-height: 1.35;
+  margin: 0;
+  table-layout: fixed;
+}
+.primer-ladder th {
+  font-size: .68rem;
+  letter-spacing: 0;
+  padding-right: .45rem;
+}
+.primer-ladder td {
+  padding: .42rem .45rem .42rem 0;
+  vertical-align: top;
+}
+.primer-ladder th:first-child,
+.primer-ladder td:first-child { width: 12%; }
+.primer-ladder th:nth-child(2),
+.primer-ladder td:nth-child(2) { width: 45%; }
+.primer-contents-capstone {
+  border-bottom: 1px solid var(--hairline);
+  border-top: 1px solid var(--gold);
+  font-family: var(--serif);
+  line-height: 1.7;
+  margin: 1rem 0 2.2rem;
+  padding: .85rem 0;
+}
+.primer-status-note {
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: .88rem;
+}
+.primer-start-note {
+  background: var(--paper-raised);
+  border-left: 2px solid var(--gold);
+  font-family: var(--serif);
+  margin-top: 2rem;
+  padding: .85rem 1rem;
+}
+
+.primer-road-intro {
+  color: var(--muted);
+  font-family: var(--serif);
+  margin-bottom: .6rem;
+}
+.primer-capstone-road {
+  border-top: 1px solid var(--hairline);
+  font-family: var(--serif);
+  line-height: 1.7;
+  margin: 0;
+  padding: .85rem 0;
+}
+.primer-capstone-farewell {
+  border-top: 1px solid var(--gold);
+  margin-top: 2.7rem;
+  padding-top: .7rem;
+}
+.primer-capstone-farewell blockquote.primer-reading {
+  margin-bottom: .55rem;
+  margin-top: 0;
+}
+.primer-capstone-farewell > p {
+  color: var(--muted);
+  font-family: var(--serif);
+  font-style: italic;
+  margin: 0;
+}
 
 /* --- opt-in editorial chapter treatment (site/editorial.json) --- */
 .book-editorial main { max-width: 64rem; min-width: 0; width: 100%; }
@@ -675,6 +842,10 @@ blockquote.primer-dialogue {
   overflow-wrap: anywhere;
 }
 
+@media (max-width: 760px) {
+  .primer-ladder-grid { grid-template-columns: minmax(0, 1fr); }
+}
+
 @media (max-width: 560px) {
   .primer-editorial main { padding-top: 2rem; }
   .primer-title-row {
@@ -705,6 +876,12 @@ blockquote.primer-dialogue {
     gap: .65rem;
     grid-template-columns: 4.2rem minmax(0, 1fr);
   }
+  .primer-contents-page .primer-title-row {
+    grid-template-columns: minmax(0, 1fr) 4rem;
+  }
+  .primer-ladder-grid { gap: 1.6rem; }
+  .primer-ladder th:nth-child(2),
+  .primer-ladder td:nth-child(2) { width: 43%; }
   .book-editorial h1 { font-size: 2.15rem; }
   .book-editorial .chapter-lede { font-size: 1.08rem; }
   .book-editorial .drop-cap { font-size: 3.55rem; }
@@ -763,7 +940,26 @@ blockquote.primer-dialogue {
   .primer-editorial blockquote.primer-dialogue { break-inside: avoid; }
   .primer-editorial h2.primer-scene-title { break-after: avoid; }
   .primer-editorial .primer-dialogue-line,
-  .primer-editorial .primer-closing-note { break-inside: avoid; }
+  .primer-editorial .primer-closing-note,
+  .primer-editorial .primer-ladder-part,
+  .primer-editorial .primer-capstone-road,
+  .primer-editorial .primer-capstone-farewell,
+  .primer-editorial .primer-threshold-note { break-inside: avoid; }
+  .primer-editorial h2.primer-reference-title { break-after: avoid; }
+  body.primer-capstone-page { font-size: 10pt; }
+  .primer-capstone-page .primer-chapter-header {
+    margin-bottom: 1.1em;
+    padding-bottom: .7em;
+  }
+  .primer-capstone-page p.primer-chapter-lede { margin-bottom: .9em; }
+  .primer-capstone-page h2.primer-reference-title {
+    margin: 1.35em 0 .55em;
+  }
+  .primer-capstone-page .primer-capstone-road { padding: .58em 0; }
+  .primer-capstone-page .primer-capstone-farewell {
+    margin-top: 1.2em;
+    padding-top: .5em;
+  }
 }
 
 /* --- manual reader extras --- */
