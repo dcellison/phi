@@ -1568,6 +1568,7 @@ TEXT_MOTIFS = {
     "ring_refusal",
     "star_bond",
     "rabbit_heart",
+    "window_water",
 }
 
 
@@ -1628,6 +1629,12 @@ def load_texts_editorial():
             "collection": {"reading_map"},
             "translation": set(),
             "transmutation": set(),
+            "original": {
+                "dialogue_blocks",
+                "dialogue_speakers",
+                "dialogue_actions",
+                "ledger_rows",
+            },
         }
         if form not in form_fields:
             raise ValueError(f"unknown texts editorial form: {form}")
@@ -1645,6 +1652,7 @@ def load_texts_editorial():
             "collection": "Translation + transmutation",
             "translation": "Translation",
             "transmutation": "Transmutation",
+            "original": "Original",
         }[form]
         if work["method"] != expected_method:
             raise ValueError(
@@ -1681,6 +1689,9 @@ def load_texts_editorial():
             "complete",
             "apparatus",
             "context",
+            "dialogue",
+            "record",
+            "pillars",
         }
         if (
             not isinstance(sections, list)
@@ -1714,6 +1725,7 @@ def load_texts_editorial():
                 "transmutation",
                 "collection_detail",
             ],
+            "original": ["dialogue", "record", "record", "pillars"],
         }
         if form in expected_kinds and major_kinds != expected_kinds[form]:
             raise ValueError(
@@ -1768,6 +1780,55 @@ def load_texts_editorial():
                 raise ValueError(
                     "transmutation-only editorial sections must keep context "
                     f"before renderings and apparatus after them: {repo_path}"
+                )
+        if form == "original":
+            if any(
+                treatment[field] != 0
+                for field in (
+                    "interlinear_blocks",
+                    "interlinear_stanzas",
+                    "source_free_blocks",
+                    "source_free_stanzas",
+                    "complete_readings",
+                    "notes",
+                    "pillar_sections",
+                    "inner_dividers",
+                )
+            ):
+                raise ValueError(
+                    f"original editorial treatment has incompatible shared counts: "
+                    f"{repo_path}"
+                )
+            speakers = treatment["dialogue_speakers"]
+            if (
+                not isinstance(treatment["dialogue_blocks"], int)
+                or treatment["dialogue_blocks"] < 1
+                or not isinstance(treatment["dialogue_actions"], int)
+                or treatment["dialogue_actions"] < 0
+                or not isinstance(speakers, dict)
+                or len(speakers) < 2
+                or any(
+                    not re.fullmatch(r"[A-Z]", label)
+                    or not isinstance(speaker, dict)
+                    or set(speaker) != {"name", "turns"}
+                    or not isinstance(speaker["name"], str)
+                    or not re.fullmatch(r"[a-z]+", speaker["name"])
+                    or not isinstance(speaker["turns"], int)
+                    or speaker["turns"] < 1
+                    for label, speaker in speakers.items()
+                )
+                or not isinstance(treatment["ledger_rows"], list)
+                or len(
+                    {speaker["name"] for speaker in speakers.values()}
+                ) != len(speakers)
+                or len(treatment["ledger_rows"]) != treatment["tables"]
+                or any(
+                    not isinstance(row_count, int) or row_count < 1
+                    for row_count in treatment["ledger_rows"]
+                )
+            ):
+                raise ValueError(
+                    f"invalid original editorial structure: {repo_path}"
                 )
         if form == "collection":
             reading_map = treatment["reading_map"]
@@ -1876,6 +1937,12 @@ def texts_motif(name):
     <path d="M18 21h-8a4 4 0 0 1-4-4 7 7 0 0 1 7-7h.2L9.6 6.4a1 1 0 1 1 2.8-2.8L15.8 7h.2c3.3 0 6 2.7 6 6v1a2 2 0 0 1-2 2h-1a3 3 0 0 0-3 3"/>
     <path d="M20 8.54V4a2 2 0 1 0-4 0v3"/>
     <path d="M7.612 12.524a3 3 0 1 0-1.6 4.3"/>"""
+    window = """
+    <rect width="18" height="18" x="3" y="3" rx="2"/>
+    <path d="M3 9h18"/>
+    <path d="M9 21V9"/>"""
+    droplet = """
+    <path d="M12 22a7 7 0 0 0 7-7c0-2-1-3.9-3-5.5s-3.5-4-4-6.5c-.5 2.5-2 4.9-4 6.5C6 11.1 5 13 5 15a7 7 0 0 0 7 7z"/>"""
     motifs = {
         "heart_radiance": (heart, circle),
         "wind_sun": (wind, sun),
@@ -1889,6 +1956,7 @@ def texts_motif(name):
         "ring_refusal": (circle, ban),
         "star_bond": (star, link),
         "rabbit_heart": (rabbit, heart),
+        "window_water": (window, droplet),
     }
     if name not in motifs:
         raise ValueError(f"unknown texts motif: {name}")
@@ -1902,7 +1970,7 @@ def texts_motif(name):
 
 
 def text_section_icon(kind):
-    """Return a Lucide mark for a translation, transmutation, or comparison."""
+    """Return the Lucide mark for one editorial section kind."""
     paths = {
         "translation": (
             '<path d="M21 6H3"/><path d="M15 12H3"/>'
@@ -1933,6 +2001,28 @@ def text_section_icon(kind):
             '<circle cx="11" cy="11" r="8"/>'
             '<path d="m21 21-4.3-4.3"/>'
         ),
+        "dialogue": (
+            '<path d="M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29'
+            'a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092'
+            ' 10 10 0 1 0-4.777-4.719"/>'
+            '<path d="M8 12h.01"/><path d="M12 12h.01"/>'
+            '<path d="M16 12h.01"/>'
+        ),
+        "record": (
+            '<rect width="8" height="4" x="8" y="2" rx="1" ry="1"/>'
+            '<path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6'
+            'a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/>'
+            '<path d="M12 11h4"/><path d="M12 16h4"/>'
+            '<path d="M8 11h.01"/><path d="M8 16h.01"/>'
+        ),
+        "pillars": (
+            '<path d="M12 5a3 3 0 1 1 3 3m-3-3a3 3 0 1 0-3 3m3-3v1'
+            'M9 8a3 3 0 1 0 3 3M9 8h1m5 0a3 3 0 1 1-3 3m3-3h-1'
+            'm-2 3v-1"/>'
+            '<circle cx="12" cy="8" r="2"/><path d="M12 10v12"/>'
+            '<path d="M12 22c4.2 0 7-1.667 7-5-4.2 0-7 1.667-7 5Z"/>'
+            '<path d="M12 22c-4.2 0-7-1.667-7-5 4.2 0 7 1.667 7 5Z"/>'
+        ),
     }
     if kind not in paths:
         raise ValueError(f"unknown texts section kind: {kind}")
@@ -1954,7 +2044,8 @@ def text_heading_slug(title):
 
 def text_reading_map(treatment):
     """Build the reading map shown before a treated literary work."""
-    if treatment["form"] in {"paired", "translation", "transmutation"}:
+    automatic_forms = {"paired", "translation", "transmutation", "original"}
+    if treatment["form"] in automatic_forms:
         map_items = [
             {
                 "label": (
@@ -2016,8 +2107,131 @@ def is_text_phi_passage(value):
     return is_current_phi_passage(unbracketed)
 
 
+def style_original_dialogue(body, repo_path, treatment):
+    """Render and verify the exact speaker turns in an original Phi dialogue."""
+    speakers = treatment["dialogue_speakers"]
+    speaker_names = {speaker["name"] for speaker in speakers.values()}
+    speaker_counts = {label: 0 for label in speakers}
+    block_count = 0
+    action_count = 0
+
+    def is_original_phi(value):
+        text = html_module.unescape(value).strip()
+        if not re.fullmatch(r"[a-z]+(?:[ .]+[a-z]+)*[.]?", text):
+            return False
+        words = re.findall(r"[a-z]+", text)
+        return bool(words) and all(
+            word in ALL_WORDS or word in speaker_names
+            for word in words
+        )
+
+    def render_reading(phi, gloss, literal):
+        return (
+            '<div class="text-dialogue-body">'
+            f'<p class="text-phi-line" lang="art-x-phi">{phi}</p>'
+            '<p class="text-gloss-line">'
+            '<span class="visually-hidden">Word-by-word gloss: </span>'
+            f"{gloss}</p>"
+            '<div class="text-dialogue-close-reading">'
+            '<p class="text-literal-line">'
+            '<span class="visually-hidden">Close English reading: </span>'
+            f"{literal}</p>"
+            "</div>"
+            "</div>"
+        )
+
+    def convert(match):
+        nonlocal action_count, block_count
+        raw = match.group(1).strip()
+        groups = re.split(r"\n[ \t]*\n", raw)
+        rendered = []
+        for group in groups:
+            lines = [line.strip() for line in group.splitlines()]
+            if (
+                len(lines) != 3
+                or not lines[2].startswith("(")
+                or not lines[2].endswith(")")
+            ):
+                first_line = lines[0][:80] if lines else "(empty)"
+                raise ValueError(
+                    f"unrecognized original dialogue turn in {repo_path}: "
+                    f"{first_line}"
+                )
+            speaker_match = re.fullmatch(r"([A-Z]):\s+(.+)", lines[0])
+            if speaker_match is not None:
+                label, phi = speaker_match.groups()
+                if label not in speakers or not is_original_phi(phi):
+                    raise ValueError(
+                        f"invalid original dialogue speaker turn in {repo_path}: "
+                        f"{lines[0][:80]}"
+                    )
+                speaker = speakers[label]
+                speaker_counts[label] += 1
+                rendered.append(
+                    '<div class="text-dialogue-turn text-dialogue-speaker-turn" '
+                    f'data-speaker="{html_module.escape(label, quote=True)}" '
+                    f'role="group" '
+                    f'aria-label="{html_module.escape(speaker["name"], quote=True)} '
+                    'speaks">'
+                    '<div class="text-dialogue-who">'
+                    '<span class="text-dialogue-initial" aria-hidden="true">'
+                    f"{html_module.escape(label)}</span>"
+                    '<span class="text-dialogue-name" lang="art-x-phi">'
+                    f'{html_module.escape(speaker["name"])}</span>'
+                    "</div>"
+                    f"{render_reading(phi, lines[1], lines[2])}"
+                    "</div>"
+                )
+            else:
+                if re.match(r"[A-Z]:", lines[0]) or not is_original_phi(lines[0]):
+                    raise ValueError(
+                        f"invalid original dialogue action in {repo_path}: "
+                        f"{lines[0][:80]}"
+                    )
+                action_count += 1
+                rendered.append(
+                    '<div class="text-dialogue-turn text-dialogue-action" '
+                    'role="group" aria-label="Scene action">'
+                    '<div class="text-dialogue-who">'
+                    '<span class="text-dialogue-scene">scene</span>'
+                    "</div>"
+                    f"{render_reading(lines[0], lines[1], lines[2])}"
+                    "</div>"
+                )
+        block_count += 1
+        return (
+            '<div class="text-dialogue" aria-label="Original Phi dialogue">'
+            + "".join(rendered)
+            + "</div>"
+        )
+
+    body = re.sub(r"<pre>(.*?)</pre>", convert, body, flags=re.S)
+    if block_count != treatment["dialogue_blocks"]:
+        raise ValueError(
+            f"texts editorial dialogue block count differs in {repo_path}: "
+            f"expected {treatment['dialogue_blocks']}, found {block_count}"
+        )
+    if action_count != treatment["dialogue_actions"]:
+        raise ValueError(
+            f"texts editorial dialogue action count differs in {repo_path}: "
+            f"expected {treatment['dialogue_actions']}, found {action_count}"
+        )
+    expected_counts = {
+        label: speaker["turns"]
+        for label, speaker in speakers.items()
+    }
+    if speaker_counts != expected_counts:
+        raise ValueError(
+            f"texts editorial dialogue speaker counts differ in {repo_path}: "
+            f"expected {expected_counts}, found {speaker_counts}"
+        )
+    if "<pre>" in body:
+        raise ValueError(f"editorial text left an untreated fence in {repo_path}")
+    return body
+
+
 def style_text_fences(body, repo_path, treatment):
-    """Turn a paired work's exact fences into readings and interlinear rows."""
+    """Turn a literary work's exact fences into readings and interlinear rows."""
     counts = {
         "interlinear_blocks": 0,
         "interlinear_stanzas": 0,
@@ -2202,6 +2416,7 @@ def style_text_fences(body, repo_path, treatment):
 def style_text_tables(body, repo_path, treatment):
     """Give each literary table labels that remain useful on phones."""
     count = 0
+    row_counts = []
 
     def convert(match):
         nonlocal count
@@ -2235,6 +2450,7 @@ def style_text_tables(body, repo_path, treatment):
                 rendered_cells.append(f'<td data-label="{label}">{cell}</td>')
             rebuilt.append("<tr>" + "".join(rendered_cells) + "</tr>")
         count += 1
+        row_counts.append(len(rows) - 1)
         width_class = (
             "text-ledger-wide" if len(headers) == 4 else "text-ledger-compact"
         )
@@ -2250,6 +2466,11 @@ def style_text_tables(body, repo_path, treatment):
         raise ValueError(
             f"texts editorial table count differs in {repo_path}: "
             f"expected {treatment['tables']}, found {count}"
+        )
+    if "ledger_rows" in treatment and row_counts != treatment["ledger_rows"]:
+        raise ValueError(
+            f"texts editorial table row counts differ in {repo_path}: "
+            f"expected {treatment['ledger_rows']}, found {row_counts}"
         )
     return body
 
@@ -2388,7 +2609,7 @@ def text_method_heading(title, kind, form, sequence_number=None):
 
 
 def apply_text_editorial(body, source, repo_path, treatment):
-    """Apply the anthology treatment to one validated literary work."""
+    """Apply an editorial treatment to one validated literary work."""
     source_title = title_of(source)
     phi_title, english_title = split_text_editorial_title(
         source_title,
@@ -2418,8 +2639,10 @@ def apply_text_editorial(body, source, repo_path, treatment):
         )
     elif treatment["form"] == "translation":
         method_label = '<span>Close translation</span>'
-    else:
+    elif treatment["form"] == "transmutation":
         method_label = '<span>Transmutation</span>'
+    else:
+        method_label = '<span>Original</span>'
     header = f"""
 <header class="text-work-header">
   <div class="text-work-meta">
@@ -2437,8 +2660,13 @@ def apply_text_editorial(body, source, repo_path, treatment):
 </header>""".strip()
     body = body[:heading.start()] + header + body[heading.end():]
 
+    opening_boundary = (
+        r"(?=<h2>)"
+        if treatment["form"] == "original"
+        else r"<hr>"
+    )
     opening_pattern = re.compile(
-        r"(</header>)\s*((?:<p>.*?</p>\s*)+)<hr>",
+        r"(</header>)\s*((?:<p>.*?</p>\s*)+)" + opening_boundary,
         flags=re.S,
     )
     opening = opening_pattern.search(body)
@@ -2547,6 +2775,12 @@ def apply_text_editorial(body, source, repo_path, treatment):
             class_name = "text-complete-section"
         elif kind == "apparatus":
             class_name = "text-apparatus"
+        elif kind == "dialogue":
+            class_name = "text-dialogue-section"
+        elif kind == "record":
+            class_name = "text-record-section"
+        elif kind == "pillars":
+            class_name = "text-pillars-section"
         else:
             class_name = "text-collection-detail"
         sections.append(f'<section class="{class_name}">{section}</section>')
@@ -2562,7 +2796,10 @@ def apply_text_editorial(body, source, repo_path, treatment):
     )
 
     body = style_text_subheadings(body)
-    body = style_text_fences(body, repo_path, treatment)
+    if treatment["form"] == "original":
+        body = style_original_dialogue(body, repo_path, treatment)
+    else:
+        body = style_text_fences(body, repo_path, treatment)
     body, note_count = re.subn(
         r"<p><strong>Notes:</strong>\s*(.*?)</p>",
         (

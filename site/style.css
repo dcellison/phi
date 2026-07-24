@@ -979,6 +979,12 @@ table.primer-ladder {
   margin-left: -.35rem;
   transform: translateY(.2rem);
 }
+.text-work-motif-window_water svg:first-child { color: var(--sage); }
+.text-work-motif-window_water svg + svg {
+  color: var(--gold);
+  margin-left: -.45rem;
+  transform: translateY(.2rem);
+}
 .text-title-tengwar {
   color: var(--muted);
   margin-top: .85rem;
@@ -1036,6 +1042,9 @@ table.primer-ladder {
 .text-transmutation-page .text-reading-map ol {
   grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
 }
+.text-original-page .text-reading-map ol {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
 .text-rabbit-heart-page .text-reading-map ol {
   gap: .55rem 1.1rem;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -1076,7 +1085,10 @@ table.primer-ladder {
 .text-comparison,
 .text-complete-section,
 .text-apparatus,
-.text-context { margin-top: 4rem; }
+.text-context,
+.text-dialogue-section,
+.text-record-section,
+.text-pillars-section { margin-top: 4rem; }
 .text-editorial h2.text-method-heading {
   align-items: center;
   border-bottom: 1px solid var(--hairline);
@@ -1117,6 +1129,9 @@ table.primer-ladder {
 .text-complete-heading .text-section-icon { color: var(--sage); }
 .text-apparatus-heading .text-section-icon { color: var(--muted); }
 .text-context-heading .text-section-icon { color: var(--gold); }
+.text-dialogue-heading .text-section-icon { color: var(--sage); }
+.text-record-heading .text-section-icon { color: var(--gold); }
+.text-pillars-heading .text-section-icon { color: var(--sage); }
 .text-section-number {
   color: var(--gold);
   font-family: var(--sans);
@@ -1257,6 +1272,61 @@ table.primer-ladder {
   display: grid;
   gap: .25rem;
   margin-top: .6rem;
+}
+.text-dialogue {
+  border-bottom: 1px solid var(--hairline);
+  border-top: 1px solid var(--hairline);
+  margin: .8rem 0 1.5rem;
+}
+.text-dialogue-turn {
+  display: grid;
+  gap: 1.15rem;
+  grid-template-columns: 5.4rem minmax(0, 1fr);
+  margin: 0;
+  padding: 1rem 0 1.08rem;
+}
+.text-dialogue-turn + .text-dialogue-turn {
+  border-top: 1px solid var(--hairline);
+}
+.text-dialogue-who {
+  align-items: baseline;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding-top: .08rem;
+}
+.text-dialogue-initial {
+  color: var(--gold);
+  font-family: var(--serif);
+  font-size: 1.28rem;
+  font-weight: 600;
+  line-height: 1;
+}
+.text-dialogue-name {
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: .68rem;
+  font-weight: 600;
+  margin-top: .25rem;
+}
+.text-dialogue-turn[data-speaker="S"] .text-dialogue-initial {
+  color: var(--sage);
+}
+.text-dialogue-scene {
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: .64rem;
+  font-weight: 650;
+}
+.text-dialogue-body { min-width: 0; }
+.text-dialogue-body p { margin: 0; }
+.text-dialogue-close-reading { margin-top: .58rem; }
+.text-dialogue-action {
+  background: var(--paper-raised);
+}
+.text-dialogue-action .text-phi-line {
+  color: var(--sage);
+  font-style: italic;
 }
 .text-literal-line {
   color: var(--ink);
@@ -1427,6 +1497,29 @@ table.text-ledger {
   font-family: var(--serif);
   font-weight: 600;
 }
+.text-original-page .text-record-section .text-ledger-wrap,
+.text-original-page .text-pillars-section .text-ledger-wrap {
+  margin-top: 1.15rem;
+}
+.text-original-page .text-record-section .text-ledger tr,
+.text-original-page .text-pillars-section .text-ledger tr {
+  border-bottom: 1px solid var(--hairline);
+}
+.text-original-page .text-record-section .text-ledger tr:last-child,
+.text-original-page .text-pillars-section .text-ledger tr:last-child {
+  border-bottom: 0;
+}
+.text-original-page .text-pillars-section .text-ledger td:first-child {
+  width: 11rem;
+}
+.text-original-page .text-pillars-section > p:last-child {
+  border-top: 1px solid var(--gold);
+  font-family: var(--serif);
+  font-size: 1.08rem;
+  line-height: 1.68;
+  margin: 2rem 0 0;
+  padding-top: 1rem;
+}
 .text-comparison { padding-top: 1rem; }
 .text-pillar-reflection {
   border-top: 1px solid var(--hairline);
@@ -1512,6 +1605,9 @@ table.text-ledger {
     grid-template-columns: minmax(0, 1fr);
   }
   .text-transmutation-page .text-reading-map ol {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .text-original-page .text-reading-map ol {
     grid-template-columns: minmax(0, 1fr);
   }
   .text-rabbit-heart-page .text-reading-map ol {
@@ -1658,6 +1754,11 @@ table.text-ledger {
     padding-left: .75rem;
     padding-right: .75rem;
   }
+  .text-dialogue-turn {
+    gap: .7rem;
+    grid-template-columns: 3.8rem minmax(0, 1fr);
+  }
+  .text-dialogue-name { font-size: .64rem; }
   .text-ledger td,
   .text-ledger td:first-child {
     gap: .5rem;
@@ -1765,7 +1866,14 @@ table.text-ledger {
   .text-stanza,
   .text-notes,
   .text-pillar-reflection,
-  .text-collection-detail { break-inside: avoid; }
+  .text-collection-detail,
+  .text-dialogue-turn { break-inside: avoid; }
+  .text-dialogue-turn {
+    gap: .8em;
+    grid-template-columns: 4.5em minmax(0, 1fr);
+    padding: .7em 0;
+  }
+  .text-dialogue-action { background: none; }
   .text-interlinear,
   .text-complete-reading {
     background: none;

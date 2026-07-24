@@ -66,6 +66,56 @@
       "pillar_sections": 0,
       "inner_dividers": 0
     },
+    "texts/care_and_coercion.md": {
+      "form": "original",
+      "phi_title": "theama weno kawhera kelu",
+      "motif": "window_water",
+      "sections": [
+        {
+          "title": "The dialogue",
+          "kind": "dialogue"
+        },
+        {
+          "title": "Proposition record",
+          "kind": "record"
+        },
+        {
+          "title": "Vocabulary under pressure",
+          "kind": "record"
+        },
+        {
+          "title": "Five-pillar reading",
+          "kind": "pillars"
+        }
+      ],
+      "opening_paragraphs": 2,
+      "interlinear_blocks": 0,
+      "interlinear_stanzas": 0,
+      "source_free_blocks": 0,
+      "source_free_stanzas": 0,
+      "complete_readings": 0,
+      "notes": 0,
+      "tables": 3,
+      "pillar_sections": 0,
+      "inner_dividers": 0,
+      "dialogue_blocks": 1,
+      "dialogue_speakers": {
+        "T": {
+          "name": "telari",
+          "turns": 18
+        },
+        "S": {
+          "name": "sanuwe",
+          "turns": 16
+        }
+      },
+      "dialogue_actions": 5,
+      "ledger_rows": [
+        8,
+        5,
+        5
+      ]
+    },
     "texts/north_wind_and_sun.md": {
       "form": "paired",
       "phi_title": "nitho howeli nela sileta",
