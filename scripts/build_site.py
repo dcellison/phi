@@ -1565,6 +1565,9 @@ TEXT_MOTIFS = {
     "lotus_circle",
     "sun_sprout",
     "words_seed",
+    "ring_refusal",
+    "star_bond",
+    "rabbit_heart",
 }
 
 
@@ -1624,6 +1627,7 @@ def load_texts_editorial():
             "paired": set(),
             "collection": {"reading_map"},
             "translation": set(),
+            "transmutation": set(),
         }
         if form not in form_fields:
             raise ValueError(f"unknown texts editorial form: {form}")
@@ -1640,6 +1644,7 @@ def load_texts_editorial():
             "paired": "Translation + transmutation",
             "collection": "Translation + transmutation",
             "translation": "Translation",
+            "transmutation": "Transmutation",
         }[form]
         if work["method"] != expected_method:
             raise ValueError(
@@ -1675,6 +1680,7 @@ def load_texts_editorial():
             "collection_detail",
             "complete",
             "apparatus",
+            "context",
         }
         if (
             not isinstance(sections, list)
@@ -1735,6 +1741,33 @@ def load_texts_editorial():
                 raise ValueError(
                     "translation-only editorial sections must contain one or "
                     f"more translations, one complete reading, and apparatus: {repo_path}"
+                )
+        if form == "transmutation":
+            if "transmutation" not in major_kinds or "apparatus" not in major_kinds:
+                raise ValueError(
+                    "transmutation-only editorial sections require a rendering "
+                    f"and apparatus: {repo_path}"
+                )
+            first_transmutation = major_kinds.index("transmutation")
+            first_apparatus = major_kinds.index("apparatus")
+            if (
+                first_apparatus <= first_transmutation
+                or any(
+                    kind != "context"
+                    for kind in major_kinds[:first_transmutation]
+                )
+                or any(
+                    kind != "transmutation"
+                    for kind in major_kinds[first_transmutation:first_apparatus]
+                )
+                or any(
+                    kind != "apparatus"
+                    for kind in major_kinds[first_apparatus:]
+                )
+            ):
+                raise ValueError(
+                    "transmutation-only editorial sections must keep context "
+                    f"before renderings and apparatus after them: {repo_path}"
                 )
         if form == "collection":
             reading_map = treatment["reading_map"]
@@ -1829,6 +1862,20 @@ def texts_motif(name):
     <path d="M12 10v12"/>
     <path d="M12 22c4.2 0 7-1.667 7-5-4.2 0-7 1.667-7 5Z"/>
     <path d="M12 22c-4.2 0-7-1.667-7-5 4.2 0 7 1.667 7 5Z"/>"""
+    ban = """
+    <circle cx="12" cy="12" r="10"/>
+    <path d="M4.929 4.929 19.07 19.071"/>"""
+    star = """
+    <path d="M11.525 2.295a.53.53 0 0 1 .95 0l2.31 4.679a2.123 2.123 0 0 0 1.595 1.16l5.166.756a.53.53 0 0 1 .294.904l-3.736 3.638a2.123 2.123 0 0 0-.611 1.878l.882 5.14a.53.53 0 0 1-.771.56l-4.618-2.428a2.122 2.122 0 0 0-1.973 0L6.396 21.01a.53.53 0 0 1-.77-.56l.881-5.139a2.122 2.122 0 0 0-.611-1.879L2.16 9.795a.53.53 0 0 1 .294-.906l5.165-.755a2.122 2.122 0 0 0 1.597-1.16z"/>"""
+    link = """
+    <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>
+    <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>"""
+    rabbit = """
+    <path d="M13 16a3 3 0 0 1 2.24 5"/>
+    <path d="M18 12h.01"/>
+    <path d="M18 21h-8a4 4 0 0 1-4-4 7 7 0 0 1 7-7h.2L9.6 6.4a1 1 0 1 1 2.8-2.8L15.8 7h.2c3.3 0 6 2.7 6 6v1a2 2 0 0 1-2 2h-1a3 3 0 0 0-3 3"/>
+    <path d="M20 8.54V4a2 2 0 1 0-4 0v3"/>
+    <path d="M7.612 12.524a3 3 0 1 0-1.6 4.3"/>"""
     motifs = {
         "heart_radiance": (heart, circle),
         "wind_sun": (wind, sun),
@@ -1839,6 +1886,9 @@ def texts_motif(name):
         "lotus_circle": (circle, lotus),
         "sun_sprout": (sun, sprout),
         "words_seed": (words, sprout),
+        "ring_refusal": (circle, ban),
+        "star_bond": (star, link),
+        "rabbit_heart": (rabbit, heart),
     }
     if name not in motifs:
         raise ValueError(f"unknown texts motif: {name}")
@@ -1879,6 +1929,10 @@ def text_section_icon(kind):
             '<path d="M9 6h11"/><path d="M9 12h11"/><path d="M9 18h11"/>'
             '<path d="M5 6h.01"/><path d="M5 12h.01"/><path d="M5 18h.01"/>'
         ),
+        "context": (
+            '<circle cx="11" cy="11" r="8"/>'
+            '<path d="m21 21-4.3-4.3"/>'
+        ),
     }
     if kind not in paths:
         raise ValueError(f"unknown texts section kind: {kind}")
@@ -1900,10 +1954,18 @@ def text_heading_slug(title):
 
 def text_reading_map(treatment):
     """Build the reading map shown before a treated literary work."""
-    if treatment["form"] in {"paired", "translation"}:
+    if treatment["form"] in {"paired", "translation", "transmutation"}:
         map_items = [
             {
-                "label": section["title"],
+                "label": (
+                    section["title"].split(" — ", 1)[1]
+                    if (
+                        treatment["form"] == "transmutation"
+                        and " — " in section["title"]
+                        and is_current_phi(section["title"].split(" — ", 1)[0])
+                    )
+                    else section["title"]
+                ),
                 "method": None,
                 "target": section["title"],
             }
@@ -1964,14 +2026,28 @@ def style_text_fences(body, repo_path, treatment):
         "complete_readings": 0,
     }
 
-    def stanza(phi, gloss, literal, source_name=None, source_line=None):
+    def source_witness(serialized):
+        try:
+            witness = json.loads(serialized)
+        except json.JSONDecodeError as exc:
+            raise ValueError(
+                f"invalid quoted source witness in {repo_path}: {serialized}"
+            ) from exc
+        if not isinstance(witness, str):
+            raise ValueError(
+                f"source witness is not text in {repo_path}: {serialized}"
+            )
+        return witness
+
+    def stanza(phi, gloss, literal, source_name=None, source_lines=None):
         source = ""
         class_name = "text-stanza"
         if source_name is not None:
+            source_copy = "<br>".join(source_lines)
             source = (
                 '<p class="text-source-line">'
                 f'<span class="text-source-name">{source_name}:</span> '
-                f"<span>{source_line}</span></p>"
+                f"<span>{source_copy}</span></p>"
             )
         else:
             class_name += " text-stanza-source-free"
@@ -1998,32 +2074,45 @@ def style_text_fences(body, repo_path, treatment):
         parsed = []
         for group in groups:
             lines = [line.strip() for line in group.splitlines()]
-            if len(lines) != 4:
+            if len(lines) < 4:
                 parsed = []
                 break
-            source_match = re.fullmatch(
-                r"([a-z][a-z0-9-]*):\s*(.+)",
-                lines[3],
-                flags=re.S,
-            )
+            source_matches = [
+                re.fullmatch(
+                    r"([a-z][a-z0-9-]*):\s*(.+)",
+                    line,
+                    flags=re.S,
+                )
+                for line in lines[3:]
+            ]
             if (
                 not is_text_phi_passage(lines[0])
                 or not lines[2].startswith("(")
                 or not lines[2].endswith(")")
-                or source_match is None
+                or any(source_match is None for source_match in source_matches)
+                or len({source_match.group(1) for source_match in source_matches}) != 1
             ):
                 parsed = []
                 break
             parsed.append(
-                (lines[0], lines[1], lines[2], source_match.group(1), source_match.group(2))
+                (
+                    lines[0],
+                    lines[1],
+                    lines[2],
+                    source_matches[0].group(1),
+                    tuple(
+                        source_witness(source_match.group(2))
+                        for source_match in source_matches
+                    ),
+                )
             )
 
         if parsed:
             counts["interlinear_blocks"] += 1
             counts["interlinear_stanzas"] += len(parsed)
             stanzas = [
-                stanza(phi, gloss, literal, source_name, source_line)
-                for phi, gloss, literal, source_name, source_line in parsed
+                stanza(phi, gloss, literal, source_name, source_lines)
+                for phi, gloss, literal, source_name, source_lines in parsed
             ]
             return (
                 '<div class="text-interlinear" aria-label="Interlinear passage">'
@@ -2260,7 +2349,7 @@ def group_text_pillars(body, repo_path, treatment):
     return body
 
 
-def text_method_heading(title, kind, form):
+def text_method_heading(title, kind, form, sequence_number=None):
     """Build a major method heading with its nonverbal mark."""
     kind_class = kind.replace("_", "-")
     heading = html_module.escape(title)
@@ -2272,10 +2361,27 @@ def text_method_heading(title, kind, form):
             f'<span class="text-rendering-kind">{html_module.escape(method)}</span>'
             "</span>"
         )
+    elif form == "transmutation" and " — " in title:
+        phi, english = title.split(" — ", 1)
+        if is_current_phi(phi):
+            heading = (
+                '<span class="text-heading-copy">'
+                f'<span class="text-subheading-phi" lang="art-x-phi">'
+                f'{html_module.escape(phi)}</span>'
+                f'<span class="text-subheading-english">'
+                f'{html_module.escape(english)}</span>'
+                "</span>"
+            )
+    lead = (
+        '<span class="text-section-number" aria-hidden="true">'
+        f"{sequence_number:02d}</span>"
+        if sequence_number is not None
+        else text_section_icon(kind)
+    )
     return (
         f'<h2 class="text-method-heading text-{kind_class}-heading" '
         f'id="{text_heading_slug(title)}">'
-        f"{text_section_icon(kind)}"
+        f"{lead}"
         f"{heading}"
         "</h2>"
     )
@@ -2310,8 +2416,10 @@ def apply_text_editorial(body, source, repo_path, treatment):
             '<span>Transmutations</span><span aria-hidden="true">+</span>'
             '<span>paired teaching</span>'
         )
-    else:
+    elif treatment["form"] == "translation":
         method_label = '<span>Close translation</span>'
+    else:
+        method_label = '<span>Transmutation</span>'
     header = f"""
 <header class="text-work-header">
   <div class="text-work-meta">
@@ -2330,17 +2438,31 @@ def apply_text_editorial(body, source, repo_path, treatment):
     body = body[:heading.start()] + header + body[heading.end():]
 
     opening_pattern = re.compile(
-        r"(</header>)\s*((?:<p><em>.*?</em></p>\s*)+)<hr>",
+        r"(</header>)\s*((?:<p>.*?</p>\s*)+)<hr>",
         flags=re.S,
     )
     opening = opening_pattern.search(body)
     if opening is None:
         raise ValueError(f"editorial text opening differs in {repo_path}")
     opening_paragraphs = re.findall(
-        r"<p><em>(.*?)</em></p>",
+        r"<p>(.*?)</p>",
         opening.group(2),
         flags=re.S,
     )
+    opening_paragraphs = [
+        (
+            fully_emphasized.group(1)
+            if (
+                fully_emphasized := re.fullmatch(
+                    r"<em>(.*?)</em>",
+                    paragraph,
+                    flags=re.S,
+                )
+            )
+            else re.sub(r"</?em>", "", paragraph)
+        )
+        for paragraph in opening_paragraphs
+    ]
     if len(opening_paragraphs) != treatment["opening_paragraphs"]:
         raise ValueError(
             f"texts editorial opening paragraph count differs in {repo_path}: "
@@ -2364,7 +2486,7 @@ def apply_text_editorial(body, source, repo_path, treatment):
     for section in treatment["sections"]:
         if section["kind"] != "translation_detail":
             continue
-        original = f'<h2>{html_module.escape(section["title"])}</h2>'
+        original = f'<h2>{html_module.escape(section["title"], quote=False)}</h2>'
         if body.count(original) != 1:
             raise ValueError(
                 f"editorial text section heading differs in {repo_path}: "
@@ -2380,15 +2502,30 @@ def apply_text_editorial(body, source, repo_path, treatment):
         if section["kind"] != "translation_detail"
     ]
     markers = []
+    transmutation_total = sum(
+        section["kind"] == "transmutation"
+        for section in major_sections
+    )
+    transmutation_index = 0
     for section in major_sections:
         title = section["title"]
         kind = section["kind"]
-        original = f"<h2>{html_module.escape(title)}</h2>"
+        sequence_number = None
+        if kind == "transmutation":
+            transmutation_index += 1
+            if treatment["form"] == "transmutation" and transmutation_total > 1:
+                sequence_number = transmutation_index
+        original = f"<h2>{html_module.escape(title, quote=False)}</h2>"
         if body.count(original) != 1:
             raise ValueError(
                 f"editorial text section heading differs in {repo_path}: {title}"
             )
-        marker = text_method_heading(title, kind, treatment["form"])
+        marker = text_method_heading(
+            title,
+            kind,
+            treatment["form"],
+            sequence_number,
+        )
         body = body.replace(original, marker)
         markers.append(marker)
 
@@ -2402,6 +2539,8 @@ def apply_text_editorial(body, source, repo_path, treatment):
         section = re.sub(r"\s*<hr>\s*$", "", section)
         if kind in {"translation", "transmutation"}:
             class_name = f"text-rendering text-{kind}"
+        elif kind == "context":
+            class_name = "text-context"
         elif kind == "comparison":
             class_name = "text-comparison"
         elif kind == "complete":

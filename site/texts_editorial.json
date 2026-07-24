@@ -301,6 +301,161 @@
       "tables": 2,
       "pillar_sections": 5,
       "inner_dividers": 0
+    },
+    "texts/ring_verse_refusal.md": {
+      "form": "transmutation",
+      "phi_title": "naweri",
+      "motif": "ring_refusal",
+      "sections": [
+        {
+          "title": "The attempt",
+          "kind": "context"
+        },
+        {
+          "title": "What comes out instead",
+          "kind": "transmutation"
+        },
+        {
+          "title": "Why this is the entry",
+          "kind": "apparatus"
+        }
+      ],
+      "opening_paragraphs": 1,
+      "interlinear_blocks": 0,
+      "interlinear_stanzas": 0,
+      "source_free_blocks": 1,
+      "source_free_stanzas": 4,
+      "complete_readings": 0,
+      "notes": 0,
+      "tables": 0,
+      "pillar_sections": 0,
+      "inner_dividers": 1
+    },
+    "texts/little_prince_excerpts.md": {
+      "form": "transmutation",
+      "phi_title": "thiku miona lue silero",
+      "motif": "star_bond",
+      "sections": [
+        {
+          "title": "The request",
+          "kind": "transmutation"
+        },
+        {
+          "title": "The secret",
+          "kind": "transmutation"
+        },
+        {
+          "title": "The responsibility",
+          "kind": "transmutation"
+        },
+        {
+          "title": "What the transmutation changed",
+          "kind": "apparatus"
+        }
+      ],
+      "opening_paragraphs": 2,
+      "interlinear_blocks": 0,
+      "interlinear_stanzas": 0,
+      "source_free_blocks": 3,
+      "source_free_stanzas": 5,
+      "complete_readings": 0,
+      "notes": 3,
+      "tables": 0,
+      "pillar_sections": 0,
+      "inner_dividers": 0
+    },
+    "texts/velveteen_rabbit.md": {
+      "form": "transmutation",
+      "phi_title": "wuloe wetha tupiwa",
+      "motif": "rabbit_heart",
+      "sections": [
+        {
+          "title": "horae thorui — The splendid beginning",
+          "kind": "transmutation"
+        },
+        {
+          "title": "lopia tholu — The nursery",
+          "kind": "transmutation"
+        },
+        {
+          "title": "kori kalora — The Skin Horse",
+          "kind": "transmutation"
+        },
+        {
+          "title": "shewo — What is Real",
+          "kind": "transmutation"
+        },
+        {
+          "title": "kori kalora nophi — The Skin Horse's story",
+          "kind": "transmutation"
+        },
+        {
+          "title": "tholu woru — The keeper of the nursery",
+          "kind": "transmutation"
+        },
+        {
+          "title": "lopia nuwera — In the child's bed",
+          "kind": "transmutation"
+        },
+        {
+          "title": "wirae — Spring",
+          "kind": "transmutation"
+        },
+        {
+          "title": "shewo haolu — The declaration",
+          "kind": "transmutation"
+        },
+        {
+          "title": "keloi — Summer",
+          "kind": "transmutation"
+        },
+        {
+          "title": "waeshi tupiwa — The wild rabbits",
+          "kind": "transmutation"
+        },
+        {
+          "title": "serao nela rohemi — Growing old and worn",
+          "kind": "transmutation"
+        },
+        {
+          "title": "rulo suloru — The scarlet fever",
+          "kind": "transmutation"
+        },
+        {
+          "title": "moriwhe remo — The seaside plan",
+          "kind": "transmutation"
+        },
+        {
+          "title": "lirupa — The sack",
+          "kind": "transmutation"
+        },
+        {
+          "title": "whekelu peloru — The magic flower",
+          "kind": "transmutation"
+        },
+        {
+          "title": "shelira — Into the wood",
+          "kind": "transmutation"
+        },
+        {
+          "title": "lumae — The return",
+          "kind": "transmutation"
+        },
+        {
+          "title": "What the transmutation changed",
+          "kind": "apparatus"
+        }
+      ],
+      "opening_paragraphs": 2,
+      "interlinear_blocks": 18,
+      "interlinear_stanzas": 428,
+      "source_free_blocks": 0,
+      "source_free_stanzas": 0,
+      "complete_readings": 0,
+      "notes": 18,
+      "tables": 0,
+      "pillar_sections": 0,
+      "inner_dividers": 0
     }
   }
 }

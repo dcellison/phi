@@ -963,6 +963,22 @@ table.primer-ladder {
   color: var(--sage);
   margin-left: -.45rem;
 }
+.text-work-motif-ring_refusal svg:first-child { color: var(--gold); }
+.text-work-motif-ring_refusal svg + svg {
+  color: var(--sage);
+  margin-left: -.55rem;
+}
+.text-work-motif-star_bond svg:first-child { color: var(--gold); }
+.text-work-motif-star_bond svg + svg {
+  color: var(--sage);
+  margin-left: -.45rem;
+}
+.text-work-motif-rabbit_heart svg:first-child { color: var(--sage); }
+.text-work-motif-rabbit_heart svg + svg {
+  color: var(--gold);
+  margin-left: -.35rem;
+  transform: translateY(.2rem);
+}
 .text-title-tengwar {
   color: var(--muted);
   margin-top: .85rem;
@@ -1017,6 +1033,17 @@ table.primer-ladder {
 .text-translation-page .text-reading-map ol {
   grid-template-columns: repeat(auto-fit, minmax(8.5rem, 1fr));
 }
+.text-transmutation-page .text-reading-map ol {
+  grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
+}
+.text-rabbit-heart-page .text-reading-map ol {
+  gap: .55rem 1.1rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.text-rabbit-heart-page .text-reading-map a {
+  font-family: var(--sans);
+  font-size: .78rem;
+}
 .text-reading-map li { min-width: 0; }
 .text-reading-map a {
   align-items: baseline;
@@ -1048,7 +1075,8 @@ table.primer-ladder {
 .text-rendering,
 .text-comparison,
 .text-complete-section,
-.text-apparatus { margin-top: 4rem; }
+.text-apparatus,
+.text-context { margin-top: 4rem; }
 .text-editorial h2.text-method-heading {
   align-items: center;
   border-bottom: 1px solid var(--hairline);
@@ -1088,6 +1116,14 @@ table.primer-ladder {
 }
 .text-complete-heading .text-section-icon { color: var(--sage); }
 .text-apparatus-heading .text-section-icon { color: var(--muted); }
+.text-context-heading .text-section-icon { color: var(--gold); }
+.text-section-number {
+  color: var(--gold);
+  font-family: var(--sans);
+  font-size: .76rem;
+  font-weight: 650;
+  text-align: center;
+}
 .text-heading-copy,
 .text-teaching-name,
 .text-rendering-kind { display: block; }
@@ -1184,6 +1220,10 @@ table.primer-ladder {
 }
 .text-translation-page .text-rendering + .text-rendering {
   border-top: 1px solid var(--gold);
+  padding-top: 1.25rem;
+}
+.text-transmutation-page .text-rendering + .text-rendering {
+  border-top: 1px solid var(--hairline);
   padding-top: 1.25rem;
 }
 .text-interlinear {
@@ -1329,6 +1369,42 @@ table.primer-ladder {
 .text-sun-sprout-page .text-complete-reading {
   border-left-color: var(--gold);
 }
+.text-ring-refusal-page .text-context blockquote {
+  border-bottom: 1px solid var(--hairline);
+  border-left: 0;
+  border-top: 1px solid var(--hairline);
+  font-size: 1.12rem;
+  margin: 1.5rem 0 2rem;
+  padding: 1rem 0;
+}
+.text-ring-refusal-page .text-transmutation .text-interlinear,
+.text-star-bond-page .text-transmutation .text-interlinear {
+  margin-left: 0;
+  margin-right: 0;
+}
+.text-ring-refusal-page .text-transmutation .text-interlinear {
+  background: var(--paper-raised);
+  border-right: 1px solid var(--hairline);
+}
+.text-star-bond-page .text-rendering blockquote {
+  border-left-color: var(--sage);
+  font-size: 1.08rem;
+  margin-bottom: 1.5rem;
+}
+.text-rabbit-heart-page .text-work-opening { max-width: 44rem; }
+.text-rabbit-heart-page .text-subheading-phi {
+  font-size: .58em;
+  margin-bottom: .16rem;
+}
+.text-rabbit-heart-page .text-rendering {
+  scroll-margin-top: 1.5rem;
+}
+.text-rabbit-heart-page .text-stanza:first-child {
+  padding-top: 1.25rem;
+}
+.text-rabbit-heart-page .text-notes {
+  margin-bottom: 3.2rem;
+}
 .text-ledger-wrap { margin: .9rem 0 2rem; }
 table.text-ledger {
   font-size: .79rem;
@@ -1435,6 +1511,13 @@ table.text-ledger {
   .text-translation-page .text-reading-map ol {
     grid-template-columns: minmax(0, 1fr);
   }
+  .text-transmutation-page .text-reading-map ol {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .text-rabbit-heart-page .text-reading-map ol {
+    gap: 0 .8rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
   .text-reading-map li + li { border-top: 1px solid var(--hairline); }
   .text-reading-map a { padding: .5rem 0; }
   .text-ledger tr:first-child {
@@ -1537,6 +1620,10 @@ table.text-ledger {
     height: 1.75rem;
     width: 1.75rem;
   }
+  .text-work-motif-rabbit_heart svg:first-child {
+    height: 2.65rem;
+    width: 2.65rem;
+  }
   .text-title-tengwar { max-width: 100%; }
   .text-title-tengwar .teng-svg { height: 2.2rem !important; }
   .text-editorial h2.text-method-heading {
@@ -1548,6 +1635,7 @@ table.text-ledger {
     font-size: 1.45rem;
   }
   .text-section-icon svg { height: 1.55rem; width: 1.55rem; }
+  .text-section-number { font-size: .68rem; }
   .text-interlinear {
     margin-left: -.55rem;
     margin-right: -.55rem;
@@ -1706,7 +1794,10 @@ table.text-ledger {
     width: auto;
   }
   .text-ledger td::before { display: none; }
-  .text-editorial code.phi-inline { background: none; }
+  .text-editorial code.phi-inline {
+    background: none;
+    padding: 0;
+  }
 }
 
 /* --- manual reader extras --- */
