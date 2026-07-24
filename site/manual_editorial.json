@@ -1,0 +1,77 @@
+{
+  "pages": {
+    "manual/part4_grammar/ch11_nouns/05_descriptors_and_quantifiers.md": {
+      "motif": "ordered_layers",
+      "title": "Descriptors and quantifiers",
+      "headings": [
+        {
+          "level": 1,
+          "title": "Descriptors and quantifiers"
+        },
+        {
+          "level": 2,
+          "title": "Descriptors"
+        },
+        {
+          "level": 2,
+          "title": "Quantifiers"
+        },
+        {
+          "level": 2,
+          "title": "Numerals"
+        },
+        {
+          "level": 2,
+          "title": "Deictics"
+        },
+        {
+          "level": 2,
+          "title": "Canonical order"
+        },
+        {
+          "level": 2,
+          "title": "Qualities as nouns"
+        }
+      ],
+      "tables": [
+        {
+          "headers": [
+            "Phi",
+            "Literal gloss",
+            "English"
+          ],
+          "rows": 3
+        },
+        {
+          "headers": [
+            "Phi",
+            "Gloss",
+            "Range"
+          ],
+          "rows": 10
+        },
+        {
+          "headers": [
+            "Particle",
+            "Example",
+            "English"
+          ],
+          "rows": 2
+        }
+      ],
+      "examples": [
+        [
+          "ta shao miona",
+          "one three-group person",
+          "(exactly three people)"
+        ],
+        [
+          "ta shao mioru thepalu",
+          "one three-group beautiful garden",
+          "(exactly three beautiful gardens)"
+        ]
+      ],
+      "pattern": "[Possessor] [Quantifier] [Deictic] [Number or lo] [Classifier] [Descriptors] [Noun]"
+    }
+  }
+}
