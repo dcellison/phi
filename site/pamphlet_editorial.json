@@ -12,7 +12,8 @@
     "naming",
     "source_material",
     "spoken_punctuation",
-    "tengwar_mode"
+    "tengwar_mode",
+    "ternary_numerals"
   ],
   "pamphlets": {
     "three_slots": {
@@ -53,6 +54,9 @@
     },
     "tengwar_mode": {
       "motif": "written_hands"
+    },
+    "ternary_numerals": {
+      "motif": "ternary_scale"
     }
   },
   "pages": {
@@ -662,6 +666,50 @@
     "pamphlets/tengwar_mode/11_examples.md": {
       "shape": "h1;t-;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0;s-",
       "variant": "examples"
+    },
+    "pamphlets/ternary_numerals/00_title.md": {
+      "shape": "h1,2;t-;f-;q-;u6;o10;r2;s1",
+      "variant": "opening"
+    },
+    "pamphlets/ternary_numerals/01_counting_in_threes.md": {
+      "shape": "h1,3,3,3,3;t2x8;f3,7,8;q-;u-;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/ternary_numerals/02_climbing_the_scale.md": {
+      "shape": "h1,3,3,3,3;t3x8;f15,6;q-;u-;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/ternary_numerals/03_the_four_natures.md": {
+      "shape": "h1,3,3,3,3;t-;f15;q-;u-;o8;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/ternary_numerals/04_position_nu.md": {
+      "shape": "h1,3,3,3,3,3;t-;f11,3,3,3;q-;u-;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/ternary_numerals/05_the_honest_about.md": {
+      "shape": "h1,3,3,3,3;t-;f15,7,3,3;q-;u-;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/ternary_numerals/06_calculating_aloud.md": {
+      "shape": "h1,3,3,3,3,3,3,3,3;t-;f15,3,3,3,7;q-;u-;o7;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/ternary_numerals/07_market_day.md": {
+      "shape": "h1,3,3,3,3,3;t-;f11,11,11,7;q-;u-;o-;r0;s-",
+      "variant": "scenario"
+    },
+    "pamphlets/ternary_numerals/08_common_errors.md": {
+      "shape": "h1,3,3,3,3,3,3,3,3;t-;f1,3,1,3,1,2,1,1,3,3,1;q-;u-;o-;r0;s-",
+      "variant": "errors"
+    },
+    "pamphlets/ternary_numerals/09_exercises.md": {
+      "shape": "h1,2,2,2,2,2,2,2;t-;f-;q-;u-;o5,5,5,5,5,6;r1;s1,6,11,16,21,26",
+      "variant": "exercises"
+    },
+    "pamphlets/ternary_numerals/10_appendix.md": {
+      "shape": "h1,3,3,3,3,3,3,3,3;t3x7,4x4,2x6,3x5,2x11;f-;q-;u4;o-;r0;s-",
+      "variant": "appendix"
     }
   }
 }
