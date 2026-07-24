@@ -1,0 +1,64 @@
+{
+  "complete_pamphlets": [
+    "three_slots"
+  ],
+  "pamphlets": {
+    "three_slots": {
+      "motif": "ordered_slots"
+    }
+  },
+  "pages": {
+    "pamphlets/three_slots/00_title.md": {
+      "shape": "h1,2;t-;f-;q-;u6;o12;r2;s1",
+      "variant": "opening"
+    },
+    "pamphlets/three_slots/01_one_machine_three_scopes.md": {
+      "shape": "h1,3,3,3,3;t4x3;f3;q-;u6;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/three_slots/02_slot_0_framing.md": {
+      "shape": "h1,3,3,3,3;t2x7;f11,3,3;q-;u-;o6;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/three_slots/03_slot_1_tense_aspect.md": {
+      "shape": "h1,3,3,3,3,3;t3x5;f7,7,11;q-;u-;o6;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/three_slots/04_slot_1_voice.md": {
+      "shape": "h1,3,3,3,3;t-;f7,7,11;q-;u-;o7;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/three_slots/05_slot_1_evidence_modality.md": {
+      "shape": "h1,3,3,3,3;t2x4;f3,11;q-;u2;o6;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/three_slots/06_the_stack.md": {
+      "shape": "h1,3,3,3,3;t-;f6;q-;u-;o4,4;r0;s1,1",
+      "variant": "stack"
+    },
+    "pamphlets/three_slots/07_slot_2_nesting_phrase.md": {
+      "shape": "h1,3,3,3;t-;f14,7,7;q-;u-;o7;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/three_slots/08_the_interaction_tables.md": {
+      "shape": "h1,3,3,3,3,3;t2x10,2x8,3x6,2x8;f-;q-;u-;o10;r0;s1",
+      "variant": "tables"
+    },
+    "pamphlets/three_slots/09_one_sentence_grown.md": {
+      "shape": "h1,3,3,3,3,3;t-;f3,3,3,3,3,3,7;q-;u-;o4;r0;s1",
+      "variant": "scenario"
+    },
+    "pamphlets/three_slots/10_common_errors.md": {
+      "shape": "h1,3,3,3,3,3,3,3,3,3,3;t-;f-;q-;u-;o-;r0;s-",
+      "variant": "errors"
+    },
+    "pamphlets/three_slots/11_exercises.md": {
+      "shape": "h1,2,2,2,2,2,2,2,3,3,3,3,3,3;t-;f-;q-;u-;o8,6,4,8,4,4,6,4,8,4,4;r1;s1,9,15,19,27,31,9,15,19,27,31",
+      "variant": "exercises"
+    },
+    "pamphlets/three_slots/12_appendix.md": {
+      "shape": "h1,3,3,3,3,3,3;t3x6,4x16,3x13;f-;q-;u6,6;o-;r0;s-",
+      "variant": "appendix"
+    }
+  }
+}

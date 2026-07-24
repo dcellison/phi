@@ -5131,7 +5131,549 @@ PAMPH_OUT = BUILD_SITE / "pamphlets"
 prepare_html_output(PAMPH_OUT)
 NAV_PAMPH = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../short_road.html">walk</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../book/index.html">book</a> <span class="sep">&middot;</span> <a href="../manual/index.html">manual</a> <span class="sep">&middot;</span> <a class="here" href="index.html">pamphlets</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
-def pamphlet_page(body, title, footer_nav=""):
+
+def pamphlet_ordered_list_starts(source):
+    """Return the first number of each Markdown ordered-list block."""
+    starts = []
+    in_fence = False
+    in_list = False
+    for line in source.splitlines():
+        if line.startswith("```"):
+            in_fence = not in_fence
+            in_list = False
+            continue
+        match = None if in_fence else re.match(r"^(\d+)\. ", line)
+        if match is not None:
+            if not in_list:
+                starts.append(int(match.group(1)))
+            in_list = True
+        else:
+            in_list = False
+    return starts
+
+
+def pamphlet_structural_signature(source):
+    """Pin workbook structure and visible exercise numbering."""
+    starts = pamphlet_ordered_list_starts(source)
+    return (
+        manual_structural_signature(source)
+        + ";s"
+        + (",".join(map(str, starts)) if starts else "-")
+    )
+
+
+def load_pamphlet_editorial():
+    """Load opt-in pamphlet treatments and verify complete workbook coverage."""
+    config_path = SITE_SRC / "pamphlet_editorial.json"
+    config = json.loads(config_path.read_text(encoding="utf-8"))
+    if set(config) != {"complete_pamphlets", "pamphlets", "pages"}:
+        raise ValueError(
+            "site/pamphlet_editorial.json requires complete_pamphlets, "
+            "pamphlets, and pages"
+        )
+    complete = config["complete_pamphlets"]
+    pamphlets = config["pamphlets"]
+    pages = config["pages"]
+    if (
+        not isinstance(complete, list)
+        or len(complete) != len(set(complete))
+        or not isinstance(pamphlets, dict)
+        or set(pamphlets) != set(complete)
+        or not isinstance(pages, dict)
+        or not pages
+    ):
+        raise ValueError("pamphlet editorial coverage must be complete and unique")
+
+    catalogue_directories = {
+        pamphlet["directory"] for pamphlet in PAMPHLET_CATALOGUE
+    }
+    if not set(complete) <= catalogue_directories:
+        raise ValueError("pamphlet editorial coverage names an unknown pamphlet")
+    for directory, metadata in pamphlets.items():
+        if (
+            not re.fullmatch(r"[a-z0-9_]+", directory)
+            or not isinstance(metadata, dict)
+            or set(metadata) != {"motif"}
+            or metadata["motif"] != "ordered_slots"
+        ):
+            raise ValueError(
+                f"invalid pamphlet editorial metadata: {directory}"
+            )
+
+    expected_paths = {
+        path.relative_to(ROOT).as_posix()
+        for directory in complete
+        for path in sorted((ROOT / "pamphlets" / directory).glob("*.md"))
+    }
+    if set(pages) != expected_paths:
+        raise ValueError(
+            "pamphlet editorial pages differ from complete coverage: "
+            + ", ".join(sorted(set(pages) ^ expected_paths))
+        )
+    allowed_variants = {
+        "opening",
+        "lesson",
+        "stack",
+        "tables",
+        "scenario",
+        "errors",
+        "exercises",
+        "appendix",
+    }
+    for repo_path, treatment in pages.items():
+        path = ROOT / repo_path
+        if (
+            not path.is_file()
+            or not isinstance(treatment, dict)
+            or set(treatment) != {"shape", "variant"}
+            or treatment["variant"] not in allowed_variants
+            or treatment["shape"]
+            != pamphlet_structural_signature(path.read_text(encoding="utf-8"))
+        ):
+            raise ValueError(
+                f"invalid pamphlet editorial treatment: {repo_path}"
+            )
+    for directory in complete:
+        directory_pages = sorted(
+            repo_path
+            for repo_path in pages
+            if Path(repo_path).parts[1] == directory
+        )
+        if (
+            not directory_pages
+            or Path(directory_pages[0]).name != "00_title.md"
+            or pages[directory_pages[0]]["variant"] != "opening"
+            or sum(
+                treatment["variant"] == "opening"
+                for repo_path, treatment in pages.items()
+                if Path(repo_path).parts[1] == directory
+            )
+            != 1
+        ):
+            raise ValueError(
+                f"pamphlet editorial opening is invalid: {directory}"
+            )
+    return pamphlets, pages
+
+
+def pamphlet_motif(name):
+    """Return the Lucide layers and checklist mark for a workbook."""
+    if name != "ordered_slots":
+        raise ValueError(f"unknown pamphlet motif: {name}")
+    return """
+<div class="pamphlet-page-motif" aria-hidden="true">
+  <svg viewBox="0 0 24 24" focusable="false">
+    <path d="m12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z"/>
+    <path d="m22 12.5-9.17 4.17a2 2 0 0 1-1.66 0L2 12.5"/>
+    <path d="m22 17.5-9.17 4.17a2 2 0 0 1-1.66 0L2 17.5"/>
+  </svg>
+  <svg viewBox="0 0 24 24" focusable="false">
+    <path d="m3 7 2 2 4-4"/>
+    <path d="m3 17 2 2 4-4"/>
+    <path d="M13 6h8"/>
+    <path d="M13 12h8"/>
+    <path d="M13 18h8"/>
+  </svg>
+</div>"""
+
+
+def pamphlet_display_title(title, index):
+    """Separate a workbook page's small label from its display title."""
+    if index == 0:
+        return "Workbook", title
+    part_match = re.fullmatch(r"Part (\d+): (.+)", title)
+    if part_match is not None:
+        if int(part_match.group(1)) != index:
+            raise ValueError(f"pamphlet part number differs from order: {title}")
+        return f"Part {index}", part_match.group(2)
+    appendix_match = re.fullmatch(r"Appendix: (.+)", title)
+    if appendix_match is not None:
+        return "Appendix", appendix_match.group(1)
+    raise ValueError(f"pamphlet page title lacks its order label: {title}")
+
+
+def pamphlet_contents_label(title, index):
+    """Return the source contents wording expected for a workbook page."""
+    if index == 0:
+        return title
+    part_match = re.fullmatch(r"Part \d+: (.+)", title)
+    if part_match is not None:
+        return part_match.group(1)
+    if title.startswith("Appendix: "):
+        return title
+    raise ValueError(f"pamphlet contents title is invalid: {title}")
+
+
+def pamphlet_reading_rail(directory, paths, titles, current):
+    """Give every workbook page a compact route to every other page."""
+    links = []
+    for index, (path, title) in enumerate(zip(paths, titles)):
+        label, display_title = pamphlet_display_title(title, index)
+        accessible_title = (
+            f"{label}: {display_title}" if label != "Workbook" else display_title
+        )
+        current_attributes = (
+            ' class="current" aria-current="page"' if index == current else ""
+        )
+        href = f"{directory}__{path.stem}.html"
+        links.append(
+            f'<a href="{href}"{current_attributes} '
+            f'title="{html_module.escape(accessible_title, quote=True)}">'
+            f'<span aria-hidden="true">{index:02d}</span>'
+            f'<span class="visually-hidden">'
+            f"{html_module.escape(accessible_title)}</span></a>"
+        )
+    return (
+        '<nav class="pamphlet-reading-rail" aria-label="Workbook pages">'
+        + "".join(links)
+        + "</nav>"
+    )
+
+
+def mark_pamphlet_inline_phi(body):
+    """Mark current Phi in prose, lists, and table cells."""
+    def mark_container(match):
+        return re.sub(
+            r"<code>([^<]+)</code>",
+            lambda code: (
+                '<code class="phi-inline" lang="art-x-phi">'
+                f"{code.group(1)}</code>"
+                if is_current_phi(code.group(1))
+                else code.group(0)
+            ),
+            match.group(0),
+        )
+
+    return re.sub(
+        r"<(?:p|li|td)(?: [^>]*)?>.*?</(?:p|li|td)>",
+        mark_container,
+        body,
+        flags=re.S,
+    )
+
+
+def style_pamphlet_tables(body, title):
+    """Use the responsive reference-table machinery with workbook classes."""
+    return rename_manual_editorial_classes(style_manual_tables(body, title))
+
+
+def style_pamphlet_examples(body):
+    """Use the interlinear parser with workbook-specific presentation."""
+    return rename_manual_editorial_classes(style_manual_examples(body))
+
+
+def rename_manual_editorial_classes(body):
+    """Rename shared renderer classes without touching prose or code samples."""
+    return re.sub(
+        r'class="([^"]*)"',
+        lambda match: (
+            'class="'
+            + " ".join(
+                (
+                    class_name.replace("manual-", "pamphlet-", 1)
+                    if class_name.startswith("manual-")
+                    else class_name
+                )
+                for class_name in match.group(1).split()
+            )
+            + '"'
+        ),
+        body,
+    )
+
+
+def apply_pamphlet_ordered_starts(body, source):
+    """Keep the source numbering when Markdown begins a list above one."""
+    starts = pamphlet_ordered_list_starts(source)
+    rendered = list(re.finditer(r"<ol>", body))
+    if len(rendered) != len(starts):
+        raise ValueError(
+            "pamphlet ordered-list count changed "
+            f"({len(rendered)} rendered, {len(starts)} in source)"
+        )
+    start_iter = iter(starts)
+    return re.sub(
+        r"<ol>",
+        lambda _match: (
+            "<ol>"
+            if (start := next(start_iter)) == 1
+            else f'<ol start="{start}">'
+        ),
+        body,
+    )
+
+
+def pamphlet_section_heading(title, variant, section_number):
+    """Build a workbook heading with an earned label."""
+    prefix_match = re.fullmatch(r"(Table \d+|Error \d+|Part [A-F]): (.+)", title)
+    if prefix_match is not None:
+        label, display_title = prefix_match.groups()
+    elif title.startswith("Practice: "):
+        label = "Practice"
+        display_title = title.removeprefix("Practice: ")
+    elif title == "Answer key":
+        label = "Check your work"
+        display_title = title
+    elif variant == "appendix":
+        label = "Reference"
+        display_title = title
+    else:
+        label = f"{section_number:02d}"
+        display_title = title
+    heading_id = manual_heading_id(title)
+    if not heading_id:
+        raise ValueError(f"pamphlet section lacks a stable anchor: {title}")
+    heading = (
+        f'<h2 class="pamphlet-section-title" id="{heading_id}">'
+        f'<span>{html_module.escape(label)}</span>'
+        f"{display_title}</h2>"
+    )
+    return heading_id, heading
+
+
+def style_pamphlet_sections(body, variant):
+    """Wrap the page's primary workbook sections without changing their text."""
+    heading_level = 2 if variant == "exercises" else 3
+    pattern = re.compile(
+        rf"<h{heading_level}>(.*?)</h{heading_level}>",
+        flags=re.S,
+    )
+    matches = list(pattern.finditer(body))
+    if not matches:
+        raise ValueError(f"pamphlet {variant} page has no primary sections")
+    result = [body[:matches[0].start()]]
+    seen_ids = set()
+    answer_section = False
+    for index, match in enumerate(matches, start=1):
+        end = matches[index].start() if index < len(matches) else len(body)
+        title = html_module.unescape(re.sub(r"<[^>]+>", "", match.group(1)))
+        heading_id, heading = pamphlet_section_heading(title, variant, index)
+        if heading_id in seen_ids:
+            raise ValueError(f"pamphlet section anchor repeats: {title}")
+        seen_ids.add(heading_id)
+        classes = ["pamphlet-section"]
+        if title.startswith("Practice: "):
+            classes.append("pamphlet-practice-section")
+        if variant == "tables" and title.startswith("Table "):
+            classes.append("pamphlet-table-section")
+        if variant == "errors":
+            classes.append("pamphlet-error-section")
+        if variant == "exercises":
+            answer_section = answer_section or title == "Answer key"
+            classes.append(
+                "pamphlet-answer-section"
+                if answer_section
+                else "pamphlet-exercise-section"
+            )
+        if variant == "appendix":
+            classes.append("pamphlet-appendix-section")
+        content = body[match.end():end]
+        if variant == "exercises" and answer_section:
+            content = re.sub(
+                r"<h3>(Part [A-F])</h3>",
+                r'<h3 class="pamphlet-answer-part">'
+                r"<span>Answers</span>\1</h3>",
+                content,
+            )
+        result.append(
+            f'<section class="{" ".join(classes)}" '
+            f'aria-labelledby="{heading_id}">{heading}{content}</section>'
+        )
+    return "".join(result)
+
+
+def style_pamphlet_opening(body, directory, paths, titles):
+    """Turn the source opening into a linked workbook map."""
+    subtitle_match = re.search(r"<h2>(.*?)</h2>", body, flags=re.S)
+    if subtitle_match is None:
+        raise ValueError("pamphlet opening lacks its subtitle")
+    subtitle = subtitle_match.group(1)
+    body = body[:subtitle_match.start()] + body[subtitle_match.end():]
+    contents_match = re.search(
+        r"<hr>\s*<p><strong>Contents:</strong></p>\s*"
+        r"<ol>(.*?)</ol>\s*<hr>",
+        body,
+        flags=re.S,
+    )
+    if contents_match is None:
+        raise ValueError("pamphlet opening contents boundaries changed")
+    source_items = re.findall(
+        r"<li>(.*?)</li>",
+        contents_match.group(1),
+        flags=re.S,
+    )
+    expected_items = [
+        pamphlet_contents_label(title, index)
+        for index, title in enumerate(titles)
+        if index > 0
+    ]
+    plain_items = [
+        html_module.unescape(re.sub(r"<[^>]+>", "", item))
+        for item in source_items
+    ]
+    if plain_items != expected_items:
+        raise ValueError("pamphlet opening contents differ from its live pages")
+    linked_items = "".join(
+        f'<li><a href="{directory}__{path.stem}.html">'
+        f'<span>{index:02d}</span>'
+        f"{html_module.escape(label)}</a></li>"
+        for index, (path, label) in enumerate(
+            zip(paths[1:], expected_items),
+            start=1,
+        )
+    )
+    contents = (
+        '<nav class="pamphlet-contents" aria-label="Workbook contents">'
+        '<p>Workbook map</p><ol>'
+        + linked_items
+        + "</ol></nav>"
+    )
+    body = (
+        body[:contents_match.start()]
+        + contents
+        + body[contents_match.end():]
+    )
+    body, outcome_count = re.subn(
+        r"<p>(By the end of this pamphlet, you will be able to:)</p>\s*<ul>",
+        r'<div class="pamphlet-outcomes"><p>\1</p><ul>',
+        body,
+        count=1,
+    )
+    if outcome_count != 1:
+        raise ValueError("pamphlet opening outcome boundary changed")
+    body = body.replace("</ul>", "</ul></div>", 1)
+    body = re.sub(
+        r"<p><em>(.*?)</em></p>\s*$",
+        r'<p class="pamphlet-closing-note">\1</p>',
+        body,
+        count=1,
+        flags=re.S,
+    )
+    return subtitle, body
+
+
+def apply_pamphlet_editorial(
+    body,
+    source,
+    treatment,
+    pamphlet,
+    paths,
+    titles,
+    index,
+):
+    """Apply the workbook treatment to one structurally pinned page."""
+    title = titles[index]
+    title_tags = [
+        match.group(0)
+        for match in re.finditer(r"<h1>(.*?)</h1>", body, flags=re.S)
+        if html_module.unescape(
+            re.sub(r"<[^>]+>", "", match.group(1))
+        )
+        == title
+    ]
+    if len(title_tags) != 1:
+        raise ValueError(
+            f"pamphlet editorial title is missing or ambiguous: {title}"
+        )
+    body = body.replace(title_tags[0], "", 1)
+    label, display_title = pamphlet_display_title(title, index)
+    subtitle = None
+    if treatment["variant"] == "opening":
+        subtitle, body = style_pamphlet_opening(
+            body,
+            pamphlet["directory"],
+            paths,
+            titles,
+        )
+
+    body = mark_pamphlet_inline_phi(body)
+    body = mark_manual_inline_phi(body)
+    body = style_pamphlet_tables(body, title)
+    body = style_pamphlet_examples(body)
+    body = apply_pamphlet_ordered_starts(body, source)
+    body = re.sub(
+        r"<p>",
+        '<p class="pamphlet-page-lede">',
+        body,
+        count=1,
+    )
+    if treatment["variant"] != "opening":
+        body = style_pamphlet_sections(body, treatment["variant"])
+
+    motif = PAMPHLET_GROUPS[pamphlet["directory"]]["motif"]
+    position = f"Reading {index + 1} of {len(paths)}"
+    subtitle_html = (
+        f'<p class="pamphlet-subtitle">{subtitle}</p>'
+        if subtitle is not None
+        else ""
+    )
+    progress = (index + 1) * 100 / len(paths)
+    header = (
+        '<header class="pamphlet-page-header">'
+        '<div class="pamphlet-header-meta"><p>'
+        '<span class="pamphlet-shelf-label">Phi practice</span>'
+        f'<span>{html_module.escape(pamphlet["title"])}</span></p>'
+        f"<p>{position}</p></div>"
+        '<div class="pamphlet-title-row"><div>'
+        f'<p class="pamphlet-page-label">{html_module.escape(label)}</p>'
+        f"<h1>{html_module.escape(display_title)}</h1></div>"
+        f"{pamphlet_motif(motif)}{subtitle_html}</div>"
+        '<div class="pamphlet-progress" aria-hidden="true">'
+        f'<span style="width:{progress:.3f}%"></span></div>'
+        "</header>"
+    )
+    rail = pamphlet_reading_rail(
+        pamphlet["directory"],
+        paths,
+        titles,
+        index,
+    )
+    return header + rail + body
+
+
+def pamphlet_editorial_navigation(previous, following):
+    """Give a workbook page labelled previous and next links."""
+    previous_link = (
+        f'<a class="pamphlet-nav-page pamphlet-nav-previous" '
+        f'href="{previous["href"]}"><span>Previous</span>'
+        f'<strong>{html_module.escape(previous["title"])}</strong></a>'
+        if previous
+        else '<span class="pamphlet-nav-page"></span>'
+    )
+    next_link = (
+        f'<a class="pamphlet-nav-page pamphlet-nav-next" '
+        f'href="{following["href"]}"><span>Next</span>'
+        f'<strong>{html_module.escape(following["title"])}</strong></a>'
+        if following
+        else '<span class="pamphlet-nav-page"></span>'
+    )
+    return (
+        '<nav class="chapnav pamphlet-page-nav" aria-label="Workbook pages">'
+        f'{previous_link}<a class="pamphlet-nav-contents" '
+        f'href="index.html">All pamphlets</a>{next_link}</nav>'
+    )
+
+
+PAMPHLET_GROUPS, PAMPHLET_EDITORIAL = load_pamphlet_editorial()
+
+
+def pamphlet_page(
+    body,
+    title,
+    footer_nav="",
+    editorial_variant=None,
+    editorial_motif=None,
+):
+    body_class = "landing primer"
+    main_body = body
+    if editorial_variant is not None:
+        body_class += " pamphlet-editorial"
+        variant_class = editorial_variant.replace("_", "-")
+        body_class += f" pamphlet-{variant_class}-page"
+        if editorial_motif is not None:
+            motif_class = editorial_motif.replace("_", "-")
+            body_class += f" pamphlet-{motif_class}-page"
+        main_body = f'<article class="pamphlet-work">{body}</article>'
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -5143,10 +5685,10 @@ def pamphlet_page(body, title, footer_nav=""):
 <script src="../reader.js" defer></script>
 <link rel="stylesheet" href="../style.css">
 </head>
-<body class="landing primer">
+<body class="{body_class}">
 {NAV_PAMPH}
 <main>
-{body}
+{main_body}
 {footer_nav}
 </main>
 <footer>
@@ -5170,12 +5712,58 @@ for pamphlet in PAMPHLETS:
     ptitles = [title_of(f.read_text()) for f in pfiles]
     dual = pamphlet["dual_script"]
     for i, f in enumerate(pfiles):
-        html = md_to_html(f.read_text())
+        source = f.read_text()
+        repo_path = f.relative_to(ROOT).as_posix()
+        treatment = PAMPHLET_EDITORIAL.get(repo_path)
+        html = md_to_html(source)
         body = tengwarize_dual(html) if dual else html
-        prev_link = f'<a href="{dirname}__{pfiles[i-1].stem}.html">&lsaquo; {ptitles[i-1]}</a>' if i > 0 else ""
-        next_link = f'<a href="{dirname}__{pfiles[i+1].stem}.html">{ptitles[i+1]} &rsaquo;</a>' if i + 1 < len(pfiles) else ""
-        footer_nav = f'<div class="chapnav">{prev_link}<a href="index.html">all pamphlets</a>{next_link}</div>'
-        (PAMPH_OUT / f"{dirname}__{f.stem}.html").write_text(pamphlet_page(link_text_citations(body), ptitles[i], footer_nav))
+        if treatment is None:
+            prev_link = f'<a href="{dirname}__{pfiles[i-1].stem}.html">&lsaquo; {ptitles[i-1]}</a>' if i > 0 else ""
+            next_link = f'<a href="{dirname}__{pfiles[i+1].stem}.html">{ptitles[i+1]} &rsaquo;</a>' if i + 1 < len(pfiles) else ""
+            footer_nav = f'<div class="chapnav">{prev_link}<a href="index.html">all pamphlets</a>{next_link}</div>'
+        else:
+            body = apply_pamphlet_editorial(
+                body,
+                source,
+                treatment,
+                pamphlet,
+                pfiles,
+                ptitles,
+                i,
+            )
+            previous = (
+                {
+                    "href": f"{dirname}__{pfiles[i - 1].stem}.html",
+                    "title": ptitles[i - 1],
+                }
+                if i > 0
+                else None
+            )
+            following = (
+                {
+                    "href": f"{dirname}__{pfiles[i + 1].stem}.html",
+                    "title": ptitles[i + 1],
+                }
+                if i + 1 < len(pfiles)
+                else None
+            )
+            footer_nav = pamphlet_editorial_navigation(previous, following)
+        linked_body = link_text_citations(body)
+        (PAMPH_OUT / f"{dirname}__{f.stem}.html").write_text(
+            pamphlet_page(
+                linked_body,
+                ptitles[i],
+                footer_nav,
+                editorial_variant=(
+                    treatment["variant"] if treatment is not None else None
+                ),
+                editorial_motif=(
+                    PAMPHLET_GROUPS[dirname]["motif"]
+                    if treatment is not None
+                    else None
+                ),
+            )
+        )
         pamph_pages += 1
     toc.append(f'<h2><a href="{dirname}__{pfiles[0].stem}.html">{title}</a></h2><p>{blurb}</p>')
 toc.append("<hr><p><em>More pamphlets are coming; the shelf is built to grow.</em></p>")
