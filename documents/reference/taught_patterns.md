@@ -2,7 +2,7 @@
 
 Every sentence pattern the primer teaches, in one inventory: the pattern's shape, where it is taught, a worked example with its gloss, and the seed of its explanation. Nothing here is new — this document gathers what the twenty-six primer chapters spread across a household's days, so that anything teaching or checking Phi (a person, the validator, a teaching tool) can find the whole curriculum in one place. Examples are drawn from the primer wherever possible and are validator-checked, gloss lines included.
 
-Notation: square brackets mark slots (`[subject]`, `[place]`); parentheses mark an optional slot; everything else is literal. The Slot 1 particles stack in the canon order — tense, aspect, voice, evidentiality, modality, negation — one per rank; manner descriptors stand after the Slot 1 block, immediately before the verb.
+Notation: the square brackets `[` and `]` are editorial guides, not Phi. They mark slots (`[subject]`, `[place]`), constituents, clauses, and understood gaps. A reader says their contents aloud without the marks; ordinary romanized or Tengwar writing leaves them out as well. Parentheses mark an optional slot; everything else is literal. The Slot 1 particles stack in the canon order: tense, aspect, voice, evidentiality, modality, negation, one per rank. Manner descriptors stand after the Slot 1 block, immediately before the verb.
 
 ## I. Being and doing
 

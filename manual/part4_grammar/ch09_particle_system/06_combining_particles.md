@@ -8,6 +8,8 @@ A useful working template is:
 
 **[Slot 0] [Subject] [Adjuncts] [Slot 2 + Object] [Slot 1] [Manner] [Verb]**
 
+The template's square brackets are guides for the eye. They make the positions easier to see. In speech and ordinary romanized or Tengwar writing, only the material inside remains.
+
 Not every sentence fills every position. An intransitive verb has no object, an unmarked assertion may have no particles at all, and established subjects may be omitted. What remains keeps the same relative order.
 
 ## Building one sentence
