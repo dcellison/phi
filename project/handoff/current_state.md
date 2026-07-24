@@ -164,6 +164,7 @@ The live entries are:
 |---|---|---|
 | Spoken source material and code-switching | Open design question | Live conversational examples make the current outside-syntax boundary inadequate. Do not reintroduce guest or exact frames. |
 | Sexual and reproductive anatomy | Queued scenario-led vocabulary effort | Begin as its own respectful corpus and vocabulary project, not as an unnoticed extension of Medical vocabulary. |
+| Shelf visual identities | Ready; primer first | Give the primer, texts, manual, and pamphlets distinct renderer-led treatments in that order. Keep current Phi inside English paragraphs visually consistent with the book's inline treatment. |
 | Legacy vocabulary prose audit | Complete | D044 completed the base queue, D045 through D052 completed all eight module learning paths, and SEM-09D completed the literary shelf, the drafted book, the manual, the primer, the nine pamphlets then current, and the current documents. Reopen a passage only for a real semantic, factual, voice, or corpus problem. |
 | Lexical relations between content words | Parked | The explorer or project needs curated related-word navigation strongly enough to add and maintain a schema field. |
 | Tengwar renderer verification | Parked, with a live review surface | The lexicon explorer now renders all 1,275 headwords in Tengwar, and the first finding is recorded and deferred: the a tehta sits slightly low over the h tengwa, to be adjusted through the placement tweaks in `tengwar/glyphs.json` when the maintainer reopens glyph tuning. |
