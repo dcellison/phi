@@ -1231,7 +1231,14 @@ def pretty(name, kind):
 
 NAV_MANUAL = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../short_road.html">walk</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../book/index.html">book</a> <span class="sep">&middot;</span> <a class="here" href="index.html">manual</a> <span class="sep">&middot;</span> <a href="../pamphlets/index.html">pamphlets</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
-def manual_page(body, title, footer_nav=""):
+def manual_page(body, title, footer_nav="", editorial_kind=None):
+    body_class = "landing primer"
+    main_body = body
+    if editorial_kind is not None:
+        body_class += (
+            f" manual-editorial manual-{editorial_kind}-page"
+        )
+        main_body = f'<article class="manual-work">{body}</article>'
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -1243,10 +1250,10 @@ def manual_page(body, title, footer_nav=""):
 <script src="../reader.js" defer></script>
 <link rel="stylesheet" href="../style.css">
 </head>
-<body class="landing primer">
+<body class="{body_class}">
 {NAV_MANUAL}
 <main>
-{body}
+{main_body}
 {footer_nav}
 </main>
 <footer>
@@ -1315,18 +1322,438 @@ def link_manual_pages(html, source):
     return re.sub(r'href="([^"]+\.md(?:#[^"]*)?)"', rewrite, html)
 
 
+def markdown_table_inventory(source):
+    """Return each Markdown table's headers and number of data rows."""
+    blocks = []
+    current = []
+    for line in source.splitlines() + [""]:
+        if line.startswith("|"):
+            current.append(line)
+        elif current:
+            blocks.append(current)
+            current = []
+    inventory = []
+    for block in blocks:
+        if (
+            len(block) < 2
+            or not set(block[1].replace("|", "").strip()) <= set("-: ")
+        ):
+            raise ValueError("manual editorial table lacks a separator row")
+        headers = [cell.strip() for cell in block[0].strip("|").split("|")]
+        inventory.append({"headers": headers, "rows": len(block) - 2})
+    return inventory
+
+
+def load_manual_editorial():
+    """Load opt-in manual treatments and pin their source structure."""
+    config_path = SITE_SRC / "manual_editorial.json"
+    config = json.loads(config_path.read_text(encoding="utf-8"))
+    pages = config.get("pages")
+    if set(config) != {"pages"} or not isinstance(pages, dict) or not pages:
+        raise ValueError(
+            "site/manual_editorial.json must contain one non-empty 'pages' object"
+        )
+    required = {
+        "motif",
+        "title",
+        "headings",
+        "tables",
+        "examples",
+        "pattern",
+    }
+    for repo_path, treatment in pages.items():
+        source_path = ROOT / repo_path
+        if (
+            not repo_path.startswith("manual/")
+            or not source_path.is_file()
+            or not isinstance(treatment, dict)
+        ):
+            raise ValueError(f"invalid manual editorial source: {repo_path}")
+        if set(treatment) != required:
+            raise ValueError(
+                f"manual editorial treatment for {repo_path} requires "
+                + ", ".join(sorted(required))
+            )
+        if treatment["motif"] != "ordered_layers":
+            raise ValueError(
+                f"unknown manual editorial motif: {treatment['motif']}"
+            )
+        source = source_path.read_text(encoding="utf-8")
+        headings = [
+            {"level": len(mark), "title": title}
+            for mark, title in re.findall(r"^(#{1,6}) (.+)$", source, flags=re.M)
+        ]
+        if headings != treatment["headings"]:
+            raise ValueError(
+                f"manual editorial heading inventory changed: {repo_path}"
+            )
+        if treatment["title"] != title_of(source):
+            raise ValueError(f"manual editorial title changed: {repo_path}")
+        if markdown_table_inventory(source) != treatment["tables"]:
+            raise ValueError(
+                f"manual editorial table inventory changed: {repo_path}"
+            )
+        examples = [
+            block.strip("\n").splitlines()
+            for block in re.findall(r"```[a-z]*\n(.*?)```", source, flags=re.S)
+        ]
+        if examples != treatment["examples"]:
+            raise ValueError(
+                f"manual editorial example inventory changed: {repo_path}"
+            )
+        pattern = f'**{treatment["pattern"]}**'
+        if source.count(pattern) != 1:
+            raise ValueError(
+                f"manual editorial pattern changed or is ambiguous: {repo_path}"
+            )
+    return pages
+
+
+def manual_motif(name):
+    """Return the restrained Lucide motif for a manual reference page."""
+    if name != "ordered_layers":
+        raise ValueError(f"unknown manual motif: {name}")
+    # Lucide outlines; the deployed site carries the project's ISC notice.
+    layers = """
+    <path d="m12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z"/>
+    <path d="m22 12.5-9.17 4.17a2 2 0 0 1-1.66 0L2 12.5"/>
+    <path d="m22 17.5-9.17 4.17a2 2 0 0 1-1.66 0L2 17.5"/>"""
+    ordered = """
+    <line x1="10" x2="21" y1="6" y2="6"/>
+    <line x1="10" x2="21" y1="12" y2="12"/>
+    <line x1="10" x2="21" y1="18" y2="18"/>
+    <path d="M4 6h1v4"/>
+    <path d="M4 10h2"/>
+    <path d="M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"/>"""
+    return (
+        '<div class="manual-page-motif manual-motif-ordered-layers" '
+        'aria-hidden="true">'
+        f'<svg viewBox="0 0 24 24" focusable="false">{layers}</svg>'
+        f'<svg viewBox="0 0 24 24" focusable="false">{ordered}</svg>'
+        "</div>"
+    )
+
+
+def manual_heading_id(title):
+    """Make a stable local anchor from a configured manual heading."""
+    return re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
+
+
+def mark_manual_inline_phi(body):
+    """Give current Phi in strong spans the shared inline treatment."""
+    def mark_strong(match):
+        if not is_current_phi(match.group(1)):
+            return match.group(0)
+        return (
+            f'<code class="phi-inline" lang="art-x-phi">'
+            f"{match.group(1)}</code>"
+        )
+
+    return re.sub(r"<strong>([^<]+)</strong>", mark_strong, body)
+
+
+def style_manual_tables(body, table_specs):
+    """Add responsive labels while preserving every rendered table cell."""
+    tables = re.findall(r"<table>.*?</table>", body, flags=re.S)
+    if len(tables) != len(table_specs):
+        raise ValueError("manual editorial rendered table count changed")
+    for table_number, (table, spec) in enumerate(
+        zip(tables, table_specs),
+        start=1,
+    ):
+        rows = re.findall(r"<tr>(.*?)</tr>", table, flags=re.S)
+        headers = re.findall(r"<th>(.*?)</th>", rows[0], flags=re.S)
+        plain_headers = [
+            html_module.unescape(re.sub(r"<[^>]+>", "", header))
+            for header in headers
+        ]
+        if plain_headers != spec["headers"] or len(rows) - 1 != spec["rows"]:
+            raise ValueError(
+                f"manual editorial rendered table {table_number} changed"
+            )
+        rebuilt = ['<table class="manual-reference-table">']
+        rebuilt.append(
+            "<tr>"
+            + "".join(f'<th scope="col">{header}</th>' for header in headers)
+            + "</tr>"
+        )
+        for row in rows[1:]:
+            cells = re.findall(r"<td>(.*?)</td>", row, flags=re.S)
+            if len(cells) != len(headers):
+                raise ValueError(
+                    f"manual editorial table {table_number} has uneven rows"
+                )
+            rebuilt.append(
+                "<tr>"
+                + "".join(
+                    '<td data-label="'
+                    + html_module.escape(plain_headers[index], quote=True)
+                    + '">'
+                    + cell
+                    + "</td>"
+                    for index, cell in enumerate(cells)
+                )
+                + "</tr>"
+            )
+        rebuilt.append("</table>")
+        density = " manual-table-dense" if spec["rows"] > 6 else ""
+        replacement = (
+            f'<div class="manual-table-wrap{density}">'
+            + "".join(rebuilt)
+            + "</div>"
+        )
+        body = body.replace(table, replacement, 1)
+    return body
+
+
+def style_manual_examples(body, examples):
+    """Render three-line manual fences as compact interlinear evidence."""
+    blocks = re.findall(r"<pre>(.*?)</pre>", body, flags=re.S)
+    if len(blocks) != len(examples):
+        raise ValueError("manual editorial rendered example count changed")
+    for block, expected in zip(blocks, examples):
+        lines = block.splitlines()
+        if [html_module.unescape(line) for line in lines] != expected:
+            raise ValueError("manual editorial rendered example changed")
+        replacement = f"""
+<figure class="manual-example" aria-label="Interlinear example">
+  <p class="manual-example-phi" lang="art-x-phi">{lines[0]}</p>
+  <p class="manual-example-gloss">{lines[1]}</p>
+  <figcaption>{lines[2]}</figcaption>
+</figure>"""
+        body = body.replace(f"<pre>{block}</pre>", replacement, 1)
+    return body
+
+
+def style_manual_pattern(body, pattern):
+    """Turn the configured noun-phrase formula into an ordered reference row."""
+    pattern_html = html_module.escape(pattern)
+    source = f"<p><strong>{pattern_html}</strong></p>"
+    if body.count(source) != 1:
+        raise ValueError("manual editorial canonical pattern changed")
+    labels = re.findall(r"\[([^\]]+)\]", pattern)
+    items = "".join(
+        f'<li><span class="manual-pattern-number" aria-hidden="true">'
+        f"{index:02d}</span> "
+        f"<span>{html_module.escape(label)}</span></li>"
+        for index, label in enumerate(labels, start=1)
+    )
+    replacement = (
+        '<div class="manual-pattern" role="group" '
+        'aria-label="Canonical noun phrase order">'
+        f'<ol class="manual-pattern-list">{items}</ol>'
+        "</div>"
+    )
+    return body.replace(source, replacement, 1)
+
+
+def manual_label_parts(part, chapter):
+    """Extract number and sentence-case name from manual path labels."""
+    part_match = re.fullmatch(r"Part (\d+) · (.+)", part)
+    chapter_match = re.fullmatch(r"Chapter (\d+) · (.+)", chapter or "")
+    if part_match is None or chapter_match is None:
+        raise ValueError("manual editorial page requires numbered part and chapter")
+    return (
+        int(part_match.group(1)),
+        part_match.group(2).capitalize(),
+        int(chapter_match.group(1)),
+        chapter_match.group(2).capitalize(),
+    )
+
+
+def apply_manual_editorial(
+    body,
+    treatment,
+    part,
+    chapter,
+    section_number,
+    section_total,
+):
+    """Apply the opt-in manual reference treatment to one pinned page."""
+    title = treatment["title"]
+    title_html = html_module.escape(title)
+    title_tag = f"<h1>{title_html}</h1>"
+    if body.count(title_tag) != 1:
+        raise ValueError("manual editorial title is missing or ambiguous")
+    body = body.replace(title_tag, "", 1)
+    body = mark_manual_inline_phi(body)
+    body = style_manual_tables(body, treatment["tables"])
+    body = style_manual_examples(body, treatment["examples"])
+    body = style_manual_pattern(body, treatment["pattern"])
+
+    section_headings = [
+        heading["title"]
+        for heading in treatment["headings"]
+        if heading["level"] == 2
+    ]
+    for number, heading in enumerate(section_headings, start=1):
+        heading_html = html_module.escape(heading)
+        source = f"<h2>{heading_html}</h2>"
+        heading_id = manual_heading_id(heading)
+        replacement = (
+            f'<h2 class="manual-section-title" id="{heading_id}">'
+            f'<span class="manual-section-number" aria-hidden="true">'
+            f"{number:02d}</span> "
+            f"<span>{heading_html}</span></h2>"
+        )
+        if body.count(source) != 1:
+            raise ValueError(
+                f"manual editorial section is missing or ambiguous: {heading}"
+            )
+        body = body.replace(source, replacement, 1)
+
+    first_section = body.find('<h2 class="manual-section-title"')
+    if first_section < 0:
+        raise ValueError("manual editorial page has no sections")
+    opening = body[:first_section]
+    rest = body[first_section:]
+    opening, count = re.subn(
+        r"<p>",
+        '<p class="manual-page-lede">',
+        opening,
+        count=1,
+    )
+    if count != 1 or opening.count("<p") != 1:
+        raise ValueError(
+            "manual editorial page requires one opening paragraph"
+        )
+
+    section_matches = list(
+        re.finditer(
+            r'<h2 class="manual-section-title" id="([^"]+)">.*?</h2>',
+            rest,
+            flags=re.S,
+        )
+    )
+    sections_html = []
+    for index, match in enumerate(section_matches):
+        end = (
+            section_matches[index + 1].start()
+            if index + 1 < len(section_matches)
+            else len(rest)
+        )
+        sections_html.append(
+            f'<section class="manual-reference-section" '
+            f'aria-labelledby="{match.group(1)}">'
+            + rest[match.start():end]
+            + "</section>"
+        )
+
+    part_number, part_name, chapter_number, chapter_name = manual_label_parts(
+        part,
+        chapter,
+    )
+    roman_parts = ("I", "II", "III", "IV", "V", "VI", "VII")
+    if not 1 <= part_number <= len(roman_parts):
+        raise ValueError("manual editorial part number is outside the manual")
+    map_items = "".join(
+        f'<li><a href="#{manual_heading_id(heading)}">'
+        f'<span aria-hidden="true">{index:02d}</span> '
+        f"{html_module.escape(heading)}</a></li>"
+        for index, heading in enumerate(section_headings, start=1)
+    )
+    header = f"""
+<header class="manual-page-header">
+  <div class="manual-header-meta">
+    <p><span class="manual-shelf-label">Phi manual</span><span>Part {roman_parts[part_number - 1]}</span><span>{html_module.escape(part_name)}</span></p>
+    <p>Section {section_number} of {section_total}</p>
+  </div>
+  <div class="manual-title-row">
+    <div>
+      <p class="manual-chapter-label">Chapter {chapter_number} <span aria-hidden="true">&middot;</span> {html_module.escape(chapter_name)}</p>
+      <h1>{title_html}</h1>
+    </div>
+    {manual_motif(treatment["motif"])}
+  </div>
+</header>"""
+    section_map = f"""
+<nav class="manual-page-map" aria-label="On this page">
+  <p>On this page</p>
+  <ol>{map_items}</ol>
+</nav>"""
+    return header + opening + section_map + "".join(sections_html)
+
+
+def manual_editorial_navigation(previous, following):
+    """Give an editorial manual page labelled previous and next links."""
+    previous_link = (
+        f'<a class="manual-nav-page manual-nav-previous" '
+        f'href="{previous["href"]}"><span>Previous</span>'
+        f'<strong>{html_module.escape(previous["title"])}</strong></a>'
+        if previous
+        else '<span class="manual-nav-page"></span>'
+    )
+    next_link = (
+        f'<a class="manual-nav-page manual-nav-next" '
+        f'href="{following["href"]}"><span>Next</span>'
+        f'<strong>{html_module.escape(following["title"])}</strong></a>'
+        if following
+        else '<span class="manual-nav-page"></span>'
+    )
+    return (
+        '<nav class="chapnav manual-page-nav" aria-label="Manual pages">'
+        f'{previous_link}<a class="manual-nav-contents" '
+        f'href="index.html">Manual contents</a>{next_link}</nav>'
+    )
+
+
+MANUAL_EDITORIAL = load_manual_editorial()
+
+
 sec_titles = [title_of(f.read_text()) for _, _, f in sections]
 for i, (part, ch, f) in enumerate(sections):
-    crumb_bits = [part] + ([ch] if ch else [])
-    crumb = '<p class="crumb">' + " &mdash; ".join(crumb_bits) + "</p>"
-    body = crumb + md_to_html(f.read_text())
+    source = f.read_text()
+    repo_path = f.relative_to(ROOT).as_posix()
+    treatment = MANUAL_EDITORIAL.get(repo_path)
+    body = md_to_html(source)
+    editorial_kind = None
+    if treatment is None:
+        crumb_bits = [part] + ([ch] if ch else [])
+        crumb = '<p class="crumb">' + " &mdash; ".join(crumb_bits) + "</p>"
+        body = crumb + body
+    else:
+        chapter_sections = [
+            item
+            for item in sections
+            if item[0] == part and item[1] == ch
+        ]
+        chapter_paths = [item[2] for item in chapter_sections]
+        body = apply_manual_editorial(
+            body,
+            treatment,
+            part,
+            ch,
+            chapter_paths.index(f) + 1,
+            len(chapter_paths),
+        )
+        editorial_kind = "reference"
     if f.name == "appendix_a_glossary.md":
         body = add_gloss_popovers(body)
     prev_link = f'<a href="{slug(sections[i-1][2])}">&lsaquo; {sec_titles[i-1]}</a>' if i > 0 else ""
     next_link = f'<a href="{slug(sections[i+1][2])}">{sec_titles[i+1]} &rsaquo;</a>' if i + 1 < len(sections) else ""
-    footer_nav = f'<div class="chapnav">{prev_link}<a href="index.html">contents</a>{next_link}</div>'
+    if treatment is None:
+        footer_nav = f'<div class="chapnav">{prev_link}<a href="index.html">contents</a>{next_link}</div>'
+    else:
+        previous = (
+            {"href": slug(sections[i - 1][2]), "title": sec_titles[i - 1]}
+            if i > 0
+            else None
+        )
+        following = (
+            {"href": slug(sections[i + 1][2]), "title": sec_titles[i + 1]}
+            if i + 1 < len(sections)
+            else None
+        )
+        footer_nav = manual_editorial_navigation(previous, following)
     linked_body = link_manual_pages(link_text_citations(body), f)
-    (MANUAL_OUT / slug(f)).write_text(manual_page(linked_body, sec_titles[i], footer_nav))
+    (MANUAL_OUT / slug(f)).write_text(
+        manual_page(
+            linked_body,
+            sec_titles[i],
+            footer_nav,
+            editorial_kind=editorial_kind,
+        )
+    )
 
 # contents page grouped by part and chapter
 toc = ["<h1>The Phi manual</h1>",
