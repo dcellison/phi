@@ -418,7 +418,208 @@ def colophon_page(body):
 
 # ---- the short road: short_road.md rendered to build/site/short_road.html ----
 
+SHORT_ROAD_SECTION_TITLES = (
+    "Let the vowels finish",
+    "One organizing principle",
+    "Thirty-five particles keep their places",
+    "The question stands where the answer will",
+    "Count in threes",
+    "The day follows the sky",
+    "The question with nothing to count",
+    "Meanings can stay in view",
+    "A name announces itself",
+    "Three ways through a text",
+    "Where the choices come from",
+    "The door",
+)
+
+
+def style_short_road_examples(body):
+    """Turn the Short Road's fenced triples into interlinear figures."""
+    group_count = 0
+
+    def replace_fence(match):
+        nonlocal group_count
+        figures = []
+        groups = re.split(r"\n\s*\n", match.group(1).strip())
+        for group in groups:
+            lines = group.splitlines()
+            if len(lines) != 3:
+                raise ValueError(
+                    "short road examples must contain Phi, gloss, and translation"
+                )
+            source = html_module.unescape(lines[0]).strip()
+            if not tengwar.phi_line(source, ALL_WORDS):
+                raise ValueError(
+                    f"short road example is not valid-looking Phi: {source!r}"
+                )
+            if not lines[2].startswith("(") or not lines[2].endswith(")"):
+                raise ValueError(
+                    f"short road translation lacks parentheses: {source!r}"
+                )
+            group_count += 1
+            figures.append(
+                '<figure class="walk-example">'
+                f'<div class="walk-phi-line">{lines[0]}</div>'
+                f'<div class="walk-gloss-line">{lines[1]}</div>'
+                f"<figcaption>{lines[2][1:-1]}</figcaption>"
+                "</figure>"
+            )
+        if len(figures) == 1:
+            return figures[0]
+        return '<div class="walk-example-set">' + "".join(figures) + "</div>"
+
+    body, fence_count = re.subn(
+        r"<pre>(.*?)</pre>",
+        replace_fence,
+        body,
+        flags=re.S,
+    )
+    return body, fence_count, group_count
+
+
+def mark_short_road_inline_phi(body):
+    """Mark the Short Road's source-authored inline Phi."""
+    code_count = body.count("<code>")
+    strong_count = body.count("<strong>")
+    if code_count != 40 or strong_count != 4:
+        raise ValueError(
+            "short road inline Phi shape differs: "
+            f"expected 40 code spans and 4 strong spans, found {code_count} "
+            f"and {strong_count}"
+        )
+    body = body.replace("<code>", '<code class="walk-phi">')
+    return re.sub(
+        r"<strong>(.*?)</strong>",
+        r'<strong class="walk-phi">\1</strong>',
+        body,
+        flags=re.S,
+    )
+
+
+def apply_short_road_walk(body):
+    """Turn the Short Road's stable source shape into one continuous route."""
+    parts = re.split(r"(?=<h2>)", body)
+    if len(parts) != len(SHORT_ROAD_SECTION_TITLES) + 1:
+        raise ValueError(
+            "short road expects one opening and twelve titled sections"
+        )
+
+    opening = re.fullmatch(
+        r"<h1>The short road</h1>\n(?P<lede><p>.*?</p>)",
+        parts[0].strip(),
+        flags=re.S,
+    )
+    if opening is None:
+        raise ValueError("short road opening shape differs from short_road.md")
+
+    sections = []
+    for expected, section in zip(SHORT_ROAD_SECTION_TITLES, parts[1:]):
+        match = re.fullmatch(
+            r"<h2>(?P<title>.*?)</h2>\n?(?P<body>.*)",
+            section.strip(),
+            flags=re.S,
+        )
+        if match is None or match.group("title") != expected:
+            found = match.group("title") if match is not None else "unreadable"
+            raise ValueError(
+                f"short road expected section {expected!r}, found {found!r}"
+            )
+        sections.append((expected, match.group("body").strip()))
+
+    styled_sections = []
+    fence_total = 0
+    group_total = 0
+    for title, section_body in sections:
+        section_body, fence_count, group_count = style_short_road_examples(
+            section_body
+        )
+        fence_total += fence_count
+        group_total += group_count
+        styled_sections.append((title, section_body))
+
+    if fence_total != 9 or group_total != 13:
+        raise ValueError(
+            "short road example shape differs: "
+            f"expected 9 fences and 13 groups, found {fence_total} and "
+            f"{group_total}"
+        )
+
+    closing_hand = tengwar.render_line("pi no shua.")
+    if closing_hand is None:
+        raise ValueError("short road closing invitation did not render in Tengwar")
+    closing = (
+        '<figure class="walk-closing-invitation">'
+        f'<div class="walk-closing-hand" aria-hidden="true">{closing_hand}</div>'
+        '<div class="walk-closing-phi">pi no shua.</div>'
+        '<div class="walk-closing-gloss">POL IMP come.</div>'
+        "<figcaption>Please, come.</figcaption>"
+        "</figure>"
+    )
+    last_title, last_body = styled_sections[-1]
+    last_body, closing_count = re.subn(
+        r"<p><strong>pi no shua\.</strong>\n"
+        r"POL IMP come\.\n"
+        r"\(Please, come\.\)</p>$",
+        closing,
+        last_body,
+        flags=re.S,
+    )
+    if closing_count != 1:
+        raise ValueError("short road closing invitation shape differs")
+    styled_sections[-1] = (last_title, last_body)
+
+    route_items = []
+    stage_html = []
+    total = len(SHORT_ROAD_SECTION_TITLES)
+    for number, (title, section_body) in enumerate(styled_sections, start=1):
+        slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
+        safe_title = html_module.escape(title, quote=True)
+        route_items.append(
+            "<li>"
+            f'<a href="#{slug}" aria-label="Stop {number}: {safe_title}">'
+            f'<span aria-hidden="true">{number:02}</span>'
+            "</a></li>"
+        )
+        position_class = (
+            " walk-stage-first" if number == 1
+            else " walk-stage-last" if number == total
+            else ""
+        )
+        stage_html.append(
+            f'<section class="walk-stage{position_class}" id="{slug}">'
+            '<div class="walk-stage-marker" aria-hidden="true">'
+            f"<span>{number:02}</span>"
+            "</div>"
+            '<div class="walk-stage-copy">'
+            f"<h2>{title}</h2>{section_body}"
+            "</div>"
+            "</section>"
+        )
+
+    page = (
+        '<article class="walk-work">'
+        '<header class="walk-header">'
+        '<p class="walk-kicker"><span>12 stops</span>'
+        '<span class="walk-kicker-sep" aria-hidden="true">/</span>'
+        "<span>about 20 minutes</span></p>"
+        '<div class="walk-title-row">'
+        "<h1>The short road</h1>"
+        '<div class="walk-route-motif" aria-hidden="true"></div>'
+        "</div>"
+        f'<div class="walk-lede">{opening.group("lede")}</div>'
+        "</header>"
+        '<nav class="walk-route-map" aria-label="The short road, twelve stops">'
+        f'<ol>{"".join(route_items)}</ol>'
+        "</nav>"
+        + "".join(stage_html)
+        + "</article>"
+    )
+    return mark_short_road_inline_phi(page)
+
+
 short_road_body = md_to_html((ROOT / "short_road.md").read_text())
+short_road_body = apply_short_road_walk(short_road_body)
 short_road_page = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -429,7 +630,7 @@ short_road_page = f"""<!DOCTYPE html>
 <script src="theme.js"></script>
 <link rel="stylesheet" href="style.css">
 </head>
-<body class="landing primer">
+<body class="landing primer short-road-page">
 <nav class="topnav"><a href="index.html">kia</a> <span class="sep">&middot;</span> <a class="here" href="short_road.html">walk</a> <span class="sep">&middot;</span> <a href="primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="book/index.html">book</a> <span class="sep">&middot;</span> <a href="manual/index.html">manual</a> <span class="sep">&middot;</span> <a href="pamphlets/index.html">pamphlets</a> <span class="sep">&middot;</span> <a href="texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="explore.html">lexicon</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>
 <main>
 {short_road_body}
@@ -443,7 +644,10 @@ short_road_page = f"""<!DOCTYPE html>
 </html>
 """
 (BUILD_SITE / "short_road.html").write_text(short_road_page)
-print("wrote build/site/short_road.html from short_road.md")
+print(
+    "wrote build/site/short_road.html from short_road.md "
+    f"({len(SHORT_ROAD_SECTION_TITLES)} stops, 13 examples)"
+)
 
 # ---- primer reader: primer/*.md rendered to build/site/primer/ ----
 
