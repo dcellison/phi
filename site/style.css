@@ -1018,6 +1018,16 @@ table.primer-ladder {
   font-size: .68rem;
   font-weight: 650;
 }
+.text-map-copy,
+.text-map-title,
+.text-map-method { display: block; }
+.text-map-method {
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: .66rem;
+  font-weight: 550;
+  margin-top: .14rem;
+}
 .text-rendering,
 .text-comparison { margin-top: 4rem; }
 .text-editorial h2.text-method-heading {
@@ -1057,6 +1067,49 @@ table.primer-ladder {
   color: var(--muted);
   transform: rotate(90deg);
 }
+.text-heading-copy,
+.text-teaching-name,
+.text-rendering-kind { display: block; }
+.text-collection-page .text-teaching-name {
+  color: var(--gold);
+  font-family: var(--sans);
+  font-size: .36em;
+  font-weight: 650;
+  line-height: 1.4;
+  margin-bottom: .14rem;
+}
+.text-collection-page .text-rendering-kind { display: block; }
+.text-collection-page .text-transmutation + .text-translation,
+.text-collection-page .text-comparison + .text-transmutation {
+  border-top: 1px solid var(--gold);
+  padding-top: 1.25rem;
+}
+.text-collection-detail {
+  border-top: 1px solid var(--gold);
+  margin-top: 4rem;
+  padding-top: 1.25rem;
+}
+.text-editorial h2.text-collection-detail-heading {
+  border-bottom: 0;
+  color: var(--sage);
+  font-size: 1.45rem;
+  grid-template-columns: 2rem minmax(0, 1fr);
+  margin-bottom: .85rem;
+  padding-bottom: 0;
+}
+.text-collection-detail-heading .text-section-icon svg {
+  height: 1.45rem;
+  width: 1.45rem;
+}
+.text-collection-detail > p {
+  border-left: 1px solid var(--hairline);
+  color: var(--muted);
+  font-size: .86rem;
+  line-height: 1.65;
+  margin: 0 0 1rem 1rem;
+  padding-left: 1rem;
+}
+.text-collection-detail > p em { font-style: normal; }
 .text-method-heading + p {
   font-family: var(--serif);
   font-size: 1.05rem;
@@ -1372,6 +1425,12 @@ table.text-ledger {
     width: auto;
   }
   .text-editorial main { padding-top: 2rem; }
+  .text-collection-page .text-work-meta {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: .25rem;
+  }
+  .text-collection-page .text-work-method span { white-space: nowrap; }
   .text-work-title-row {
     gap: .5rem;
     grid-template-columns: minmax(0, 1fr) 3.8rem;
@@ -1391,6 +1450,9 @@ table.text-ledger {
     font-size: 1.75rem;
     gap: .55rem;
     grid-template-columns: 2rem minmax(0, 1fr);
+  }
+  .text-editorial h2.text-collection-detail-heading {
+    font-size: 1.45rem;
   }
   .text-section-icon svg { height: 1.55rem; width: 1.55rem; }
   .text-interlinear {
@@ -1519,7 +1581,8 @@ table.text-ledger {
   .text-editorial h3 { break-after: avoid; }
   .text-stanza,
   .text-notes,
-  .text-pillar-reflection { break-inside: avoid; }
+  .text-pillar-reflection,
+  .text-collection-detail { break-inside: avoid; }
   .text-interlinear,
   .text-complete-reading {
     background: none;

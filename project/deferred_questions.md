@@ -24,7 +24,7 @@ The effort will inventory existing body, birth, consent, and Medical vocabulary,
 
 ### Shelf visual identities
 
-Status: In progress. The primer is complete; the regular paired texts are ready for review.
+Status: In progress. The primer is complete; the regular paired texts and *The Prophet* are ready for review.
 
 The website should give each shelf a presentation suited to its work instead of extending the book's magazine treatment everywhere. A common frame keeps the shelves recognisably Phi: the site's colour, type, navigation, and accessibility behaviour do not change with the genre. Presentation belongs in the renderer and maintained site assets; the Markdown remains clean unless a necessary distinction cannot be inferred safely.
 
@@ -33,7 +33,7 @@ Current Phi words and passages set in backticks inside English paragraphs keep t
 Work proceeds in this order:
 
 1. **Primer:** Complete. The full shelf is a quiet illustrated reader shaped around the household story, with a restrained motif for each of its four parts. Part and chapter progress remain easy to see without becoming a scoreboard. Phi passages hold the centre of each scene, compact word ledgers and speaker labels support them, and the manual pointer closes as a note. The pronunciation prelude, contents ladder, and capstone keep distinct layouts within the same family.
-2. **Texts:** In progress. The Aesop prototype and the five other regular paired works share one anthology design without losing their individual shapes. Each has its own masthead motif and Tengwar title. Translation, transmutation, and comparison remain visible at a glance; literary rows handle exact source witnesses, including Schleicher's hyphenated labels and Babel's uncited Phi coda. *The Prophet* comes next because its one paired teaching sits inside a mixed collection. Standalone methods and original work follow, then the contents page; *News from Nowhere* keeps the final book-scale pass.
+2. **Texts:** In progress. The Aesop prototype and the five other regular paired works share one anthology design without losing their individual shapes. Each has its own masthead motif and Tengwar title. Translation, transmutation, and comparison remain visible at a glance; literary rows handle exact source witnesses, including Schleicher's hyphenated labels and Babel's uncited Phi coda. *The Prophet* now begins with love, opens into both methods for children, and returns to a single method for giving. Its speech-and-seed masthead and three-teaching map hold the excerpts together. Translation-only works come next, followed by the standalone transmutations, original work, and contents page. *News from Nowhere* keeps the final book-scale pass.
 3. **Manual:** a sober working reference with strong part identity, breadcrumbs, local navigation, and clearer treatment of tables, examples, and marginal notes. Visual hierarchy should make a fact easier to find without turning the manual into a magazine.
 4. **Pamphlets:** a practical workbook that separates explanation, drills, exercises, and answers at a glance. Numbered progress and navigation should support repeated use as readily as a first reading.
 

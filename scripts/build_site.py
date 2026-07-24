@@ -1562,6 +1562,7 @@ TEXT_MOTIFS = {
     "wool_journey",
     "water_open",
     "lotus_circle",
+    "words_seed",
 }
 
 
@@ -1577,7 +1578,7 @@ def load_texts_editorial():
 
     catalogued = {f"texts/{work['path']}": work for work in TEXTS}
     resolved = {}
-    required = {
+    shared_required = {
         "form",
         "phi_title",
         "motif",
@@ -1600,13 +1601,19 @@ def load_texts_editorial():
             or not isinstance(treatment, dict)
         ):
             raise ValueError(f"invalid texts editorial source: {repo_path}")
+        form = treatment.get("form")
+        form_fields = {
+            "paired": set(),
+            "collection": {"reading_map"},
+        }
+        if form not in form_fields:
+            raise ValueError(f"unknown texts editorial form: {form}")
+        required = shared_required | form_fields[form]
         if set(treatment) != required:
             raise ValueError(
                 f"texts editorial treatment for {repo_path} requires "
                 f"{', '.join(sorted(required))}"
             )
-        if treatment["form"] != "paired":
-            raise ValueError(f"unknown texts editorial form: {treatment['form']}")
         if treatment["motif"] not in TEXT_MOTIFS:
             raise ValueError(f"unknown texts editorial motif: {treatment['motif']}")
         work = catalogued[repo_path]
@@ -1637,6 +1644,7 @@ def load_texts_editorial():
             "translation_detail",
             "transmutation",
             "comparison",
+            "collection_detail",
         }
         if (
             not isinstance(sections, list)
@@ -1659,15 +1667,47 @@ def load_texts_editorial():
             section for section in sections
             if section["kind"] != "translation_detail"
         ]
-        if [section["kind"] for section in major_sections] != [
-            "translation",
-            "transmutation",
-            "comparison",
-        ]:
+        major_kinds = [section["kind"] for section in major_sections]
+        expected_kinds = {
+            "paired": ["translation", "transmutation", "comparison"],
+            "collection": [
+                "transmutation",
+                "translation",
+                "transmutation",
+                "comparison",
+                "transmutation",
+                "collection_detail",
+            ],
+        }
+        if major_kinds != expected_kinds[form]:
             raise ValueError(
-                f"paired texts editorial sections have the wrong method order: "
+                f"texts editorial sections have the wrong order for {form}: "
                 f"{repo_path}"
             )
+        if form == "collection":
+            reading_map = treatment["reading_map"]
+            reading_map_fields = {"label", "method", "target"}
+            section_titles = {section["title"] for section in sections}
+            if (
+                not isinstance(reading_map, list)
+                or len(reading_map) < 2
+                or any(
+                    not isinstance(item, dict)
+                    or set(item) != reading_map_fields
+                    or any(
+                        not isinstance(item[field], str) or not item[field]
+                        for field in reading_map_fields
+                    )
+                    or item["target"] not in section_titles
+                    for item in reading_map
+                )
+                or len({item["label"] for item in reading_map}) != len(reading_map)
+                or len({item["target"] for item in reading_map}) != len(reading_map)
+            ):
+                raise ValueError(
+                    f"texts editorial reading map differs from the source: "
+                    f"{repo_path}"
+                )
         for field in (
             "opening_paragraphs",
             "interlinear_blocks",
@@ -1717,6 +1757,9 @@ def texts_motif(name):
     <path d="M10 20c5.5-2.5.8-6.4 3-10"/>
     <path d="M9.5 9.4c1.1.8 1.8 2.2 2.3 3.7-2 .4-3.5 0-4.6-.7-1.1-.8-1.8-2.2-2.3-3.7 2-.4 3.5 0 4.6.7z"/>
     <path d="M14.1 6a7 7 0 0 0-1.9 2.8c1.7.3 3.1 0 4.1-.7 1-.7 1.6-1.9 2-3.3-1.8-.3-3.2 0-4.2.7z"/>"""
+    words = """
+    <path d="M21 15a4 4 0 0 1-4 4H8l-5 3V7a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4z"/>
+    <path d="M8 8h8"/><path d="M8 12h5"/>"""
     waves = """
     <path d="M2 6c.6.5 1.2 1 2.5 1C7 7 7 5 9.5 5s2.5 2 5 2 2.5-2 5-2c1.3 0 1.9.5 2.5 1"/>
     <path d="M2 12c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2s2.5 2 5 2 2.5-2 5-2c1.3 0 1.9.5 2.5 1"/>
@@ -1739,6 +1782,7 @@ def texts_motif(name):
         "wool_journey": (waves, journey),
         "water_open": (waves, circle),
         "lotus_circle": (circle, lotus),
+        "words_seed": (words, sprout),
     }
     if name not in motifs:
         raise ValueError(f"unknown texts motif: {name}")
@@ -1767,6 +1811,10 @@ def text_section_icon(kind):
             '<path d="M8 3 4 7l4 4"/><path d="M4 7h16"/>'
             '<path d="m16 21 4-4-4-4"/><path d="M20 17H4"/>'
         ),
+        "collection_detail": (
+            '<path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/>'
+            '<path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>'
+        ),
     }
     if kind not in paths:
         raise ValueError(f"unknown texts section kind: {kind}")
@@ -1786,19 +1834,35 @@ def text_heading_slug(title):
     ).strip("-")
 
 
-def text_reading_map(sections):
-    """Build the major-section map shown before a treated literary work."""
-    major_sections = [
-        section for section in sections
-        if section["kind"] != "translation_detail"
-    ]
+def text_reading_map(treatment):
+    """Build the reading map shown before a treated literary work."""
+    if treatment["form"] == "paired":
+        map_items = [
+            {
+                "label": section["title"],
+                "method": None,
+                "target": section["title"],
+            }
+            for section in treatment["sections"]
+            if section["kind"] != "translation_detail"
+        ]
+    else:
+        map_items = treatment["reading_map"]
     links = []
-    for index, section in enumerate(major_sections, 1):
+    for index, item in enumerate(map_items, 1):
+        method = ""
+        if item["method"] is not None:
+            method = (
+                '<span class="text-map-method">'
+                f'{html_module.escape(item["method"])}</span>'
+            )
         links.append(
             "<li>"
-            f'<a href="#{text_heading_slug(section["title"])}">'
+            f'<a href="#{text_heading_slug(item["target"])}">'
             f'<span class="text-map-number">{index:02d}</span>'
-            f'<span>{html_module.escape(section["title"])}</span>'
+            '<span class="text-map-copy">'
+            f'<span class="text-map-title">{html_module.escape(item["label"])}</span>'
+            f"{method}</span>"
             "</a></li>"
         )
     return (
@@ -2097,19 +2161,30 @@ def group_text_pillars(body, repo_path, treatment):
     return body
 
 
-def text_method_heading(title, kind):
+def text_method_heading(title, kind, form):
     """Build a major method heading with its nonverbal mark."""
+    kind_class = kind.replace("_", "-")
+    heading = html_module.escape(title)
+    if form == "collection" and kind != "collection_detail" and ": " in title:
+        teaching, method = title.split(": ", 1)
+        heading = (
+            '<span class="text-heading-copy">'
+            f'<span class="text-teaching-name">{html_module.escape(teaching)}</span>'
+            '<span class="visually-hidden">: </span>'
+            f'<span class="text-rendering-kind">{html_module.escape(method)}</span>'
+            "</span>"
+        )
     return (
-        f'<h2 class="text-method-heading text-{kind}-heading" '
+        f'<h2 class="text-method-heading text-{kind_class}-heading" '
         f'id="{text_heading_slug(title)}">'
         f"{text_section_icon(kind)}"
-        f"<span>{html_module.escape(title)}</span>"
+        f"{heading}"
         "</h2>"
     )
 
 
 def apply_text_editorial(body, source, repo_path, treatment):
-    """Apply the anthology treatment to one validated paired work."""
+    """Apply the anthology treatment to one validated literary work."""
     source_title = title_of(source)
     phi_title, english_title = source_title.split(" — ", 1)
     heading = re.search(r"<h1>(.*?)</h1>", body, flags=re.S)
@@ -2123,11 +2198,21 @@ def apply_text_editorial(body, source, repo_path, treatment):
         if len(english_title) > 44
         else ""
     )
+    if treatment["form"] == "paired":
+        method_label = (
+            '<span>Translation</span><span aria-hidden="true">+</span>'
+            '<span>transmutation</span>'
+        )
+    else:
+        method_label = (
+            '<span>Transmutations</span><span aria-hidden="true">+</span>'
+            '<span>paired teaching</span>'
+        )
     header = f"""
 <header class="text-work-header">
   <div class="text-work-meta">
     <p class="text-shelf-label">Phi texts</p>
-    <p class="text-work-method"><span>Translation</span><span aria-hidden="true">+</span><span>transmutation</span></p>
+    <p class="text-work-method">{method_label}</p>
   </div>
   <div class="text-work-title-row">
     <div class="text-work-title-copy">
@@ -2167,7 +2252,7 @@ def apply_text_editorial(body, source, repo_path, treatment):
         '<section class="text-work-opening">'
         f'<p class="text-work-lede">{opening_paragraphs[0]}</p>'
         f'<div class="text-reader-notes">{reader_notes}</div>'
-        f'{text_reading_map(treatment["sections"])}'
+        f'{text_reading_map(treatment)}'
         "</section>"
     )
     body = body[:opening.start()] + rendered_opening + body[opening.end():]
@@ -2199,7 +2284,7 @@ def apply_text_editorial(body, source, repo_path, treatment):
             raise ValueError(
                 f"editorial text section heading differs in {repo_path}: {title}"
             )
-        marker = text_method_heading(title, kind)
+        marker = text_method_heading(title, kind, treatment["form"])
         body = body.replace(original, marker)
         markers.append(marker)
 
@@ -2211,11 +2296,12 @@ def apply_text_editorial(body, source, repo_path, treatment):
         end = positions[index + 1] if index + 1 < len(positions) else len(body)
         section = body[positions[index]:end]
         section = re.sub(r"\s*<hr>\s*$", "", section)
-        class_name = (
-            f"text-rendering text-{kind}"
-            if kind != "comparison"
-            else "text-comparison"
-        )
+        if kind in {"translation", "transmutation"}:
+            class_name = f"text-rendering text-{kind}"
+        elif kind == "comparison":
+            class_name = "text-comparison"
+        else:
+            class_name = "text-collection-detail"
         sections.append(f'<section class="{class_name}">{section}</section>')
     body = prefix + "".join(sections)
     if body.count("<hr>") != treatment["inner_dividers"]:
