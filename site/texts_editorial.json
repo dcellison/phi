@@ -1,5 +1,71 @@
 {
   "pages": {
+    "texts/metta_sutta.md": {
+      "form": "translation",
+      "phi_title": "lothea thole",
+      "motif": "heart_radiance",
+      "sections": [
+        {
+          "title": "The text",
+          "kind": "translation"
+        },
+        {
+          "title": "The complete text",
+          "kind": "complete"
+        },
+        {
+          "title": "Translation gap log",
+          "kind": "apparatus"
+        }
+      ],
+      "opening_paragraphs": 3,
+      "interlinear_blocks": 10,
+      "interlinear_stanzas": 39,
+      "source_free_blocks": 0,
+      "source_free_stanzas": 0,
+      "complete_readings": 1,
+      "notes": 10,
+      "tables": 1,
+      "pillar_sections": 0,
+      "inner_dividers": 0
+    },
+    "texts/solarpunk_manifesto.md": {
+      "form": "translation",
+      "phi_title": "sileta kenua wireo moenu lo sherewa",
+      "motif": "sun_sprout",
+      "sections": [
+        {
+          "title": "Opening account",
+          "kind": "translation"
+        },
+        {
+          "title": "The 22 propositions",
+          "kind": "translation"
+        },
+        {
+          "title": "Complete translation",
+          "kind": "complete"
+        },
+        {
+          "title": "Translation limits",
+          "kind": "apparatus"
+        },
+        {
+          "title": "Source and license",
+          "kind": "apparatus"
+        }
+      ],
+      "opening_paragraphs": 3,
+      "interlinear_blocks": 38,
+      "interlinear_stanzas": 38,
+      "source_free_blocks": 0,
+      "source_free_stanzas": 0,
+      "complete_readings": 1,
+      "notes": 27,
+      "tables": 1,
+      "pillar_sections": 0,
+      "inner_dividers": 0
+    },
     "texts/north_wind_and_sun.md": {
       "form": "paired",
       "phi_title": "nitho howeli nela sileta",
