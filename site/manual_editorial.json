@@ -1,76 +1,183 @@
 {
+  "complete_parts": [
+    "part1_first_light",
+    "part2_soul",
+    "part3_phonology"
+  ],
+  "parts": {
+    "part1_first_light": {
+      "motif": "first_light"
+    },
+    "part2_soul": {
+      "motif": "living_heart"
+    },
+    "part3_phonology": {
+      "motif": "spoken_sound"
+    },
+    "part4_grammar": {
+      "motif": "ordered_layers"
+    }
+  },
   "pages": {
+    "manual/part1_first_light/ch01_why_new_language/01_invisible_architecture.md": {
+      "shape": "h1,2,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part1_first_light/ch01_why_new_language/02_language_laboratory.md": {
+      "shape": "h2,3,3,3,3,3;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part1_first_light/ch01_why_new_language/03_what_phi_attempts.md": {
+      "shape": "h2,3,3;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part1_first_light/ch01_why_new_language/04_how_to_use_this_book.md": {
+      "shape": "h2;t2x7;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part1_first_light/ch02_first_words/01_what_phi_sounds_like.md": {
+      "shape": "h1;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part1_first_light/ch02_first_words/02_your_first_sentence.md": {
+      "shape": "h1,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part1_first_light/ch02_first_words/03_the_music_of_vowel_hiatus.md": {
+      "shape": "h1,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part1_first_light/ch02_first_words/04_ten_essential_words.md": {
+      "shape": "h1,2,2,2,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part1_first_light/ch02_first_words/05_a_simple_conversation.md": {
+      "shape": "h1,2,2;t-;f-;q-;u-;o-;r2",
+      "variant": "conversation"
+    },
+    "manual/part2_soul/ch03_five_pillars/01_solarpunk_values.md": {
+      "shape": "h1,2,2,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part2_soul/ch03_five_pillars/02_buddhist_concepts.md": {
+      "shape": "h1,2,2,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part2_soul/ch03_five_pillars/03_art_nouveau_aesthetics.md": {
+      "shape": "h1,2,2,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part2_soul/ch03_five_pillars/04_peace_linguistics.md": {
+      "shape": "h1,2,2,2,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part2_soul/ch03_five_pillars/05_pre_industrial_wisdom.md": {
+      "shape": "h1,2,2,2,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part2_soul/ch04_philosophy_of_sound_meaning_grammar/01_sound_as_practice.md": {
+      "shape": "h1,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part2_soul/ch04_philosophy_of_sound_meaning_grammar/02_sound_as_symbol.md": {
+      "shape": "h1,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part2_soul/ch04_philosophy_of_sound_meaning_grammar/03_the_living_web.md": {
+      "shape": "h1,2,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part2_soul/ch04_philosophy_of_sound_meaning_grammar/04_from_reaction_to_reflection.md": {
+      "shape": "h1,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part2_soul/ch04_philosophy_of_sound_meaning_grammar/05_the_three_slots.md": {
+      "shape": "h1,2,2,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part2_soul/ch05_social_philosophy/01_respect_without_hierarchy.md": {
+      "shape": "h1,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part2_soul/ch05_social_philosophy/02_conversation_as_collaboration.md": {
+      "shape": "h1;t-;f3;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part2_soul/ch05_social_philosophy/03_ethics_of_communication.md": {
+      "shape": "h1,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part2_soul/ch05_social_philosophy/04_building_bridges.md": {
+      "shape": "h1,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part2_soul/ch06_philosophy_of_learning/01_introduction.md": {
+      "shape": "h1;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part2_soul/ch06_philosophy_of_learning/02_student_teacher_relationship.md": {
+      "shape": "h1;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part2_soul/ch06_philosophy_of_learning/03_patience_with_process.md": {
+      "shape": "h1,2,2;t-;f-;q-;u3;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part2_soul/ch06_philosophy_of_learning/04_transformation_through_practice.md": {
+      "shape": "h1,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part2_soul/ch06_philosophy_of_learning/05_ripple_effects.md": {
+      "shape": "h1,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part3_phonology/ch07_sound_inventory/01_introduction.md": {
+      "shape": "h1;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part3_phonology/ch07_sound_inventory/02_the_five_vowels.md": {
+      "shape": "h1,2,2,2,2,2;t4x5;f-;q-;u3,3,3;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part3_phonology/ch07_sound_inventory/03_the_ten_consonants.md": {
+      "shape": "h1,2,2,2,2,2;t4x10;f-;q-;u3,3,3,2,3;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part3_phonology/ch07_sound_inventory/04_the_four_fricative_digraphs.md": {
+      "shape": "h1,2,2,2,2,2,2;t4x4;f-;q-;u2,3,4,4;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part3_phonology/ch07_sound_inventory/05_ipa_reference.md": {
+      "shape": "h1,2,2,2,2,2;t2x5,3x10,2x4;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part3_phonology/ch08_music_of_phi/01_the_golden_rule.md": {
+      "shape": "h1,2,2,2,2;t3x4;f-;q-;u3;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part3_phonology/ch08_music_of_phi/02_syllable_structure.md": {
+      "shape": "h1,2,2,2;t3x4,3x4;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part3_phonology/ch08_music_of_phi/03_penultimate_stress.md": {
+      "shape": "h1,2,2,2;t3x5;f-;q-;u3,3;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part3_phonology/ch08_music_of_phi/04_common_pitfalls.md": {
+      "shape": "h1,2,2,2,2,2,2,2,2,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part3_phonology/ch08_music_of_phi/05_exercises.md": {
+      "shape": "h1,2,2,2,2,2,2,2,2,2,2;t2x5,3x4,3x5,3x4,3x6,3x6;f-;q1;u-;o-;r0",
+      "variant": "standard"
+    },
+    "manual/part3_phonology/ch08_music_of_phi/06_writing_phi_down.md": {
+      "shape": "h1,2;t-;f-;q-;u-;o-;r0",
+      "variant": "standard"
+    },
     "manual/part4_grammar/ch11_nouns/05_descriptors_and_quantifiers.md": {
-      "motif": "ordered_layers",
-      "title": "Descriptors and quantifiers",
-      "headings": [
-        {
-          "level": 1,
-          "title": "Descriptors and quantifiers"
-        },
-        {
-          "level": 2,
-          "title": "Descriptors"
-        },
-        {
-          "level": 2,
-          "title": "Quantifiers"
-        },
-        {
-          "level": 2,
-          "title": "Numerals"
-        },
-        {
-          "level": 2,
-          "title": "Deictics"
-        },
-        {
-          "level": 2,
-          "title": "Canonical order"
-        },
-        {
-          "level": 2,
-          "title": "Qualities as nouns"
-        }
-      ],
-      "tables": [
-        {
-          "headers": [
-            "Phi",
-            "Literal gloss",
-            "English"
-          ],
-          "rows": 3
-        },
-        {
-          "headers": [
-            "Phi",
-            "Gloss",
-            "Range"
-          ],
-          "rows": 10
-        },
-        {
-          "headers": [
-            "Particle",
-            "Example",
-            "English"
-          ],
-          "rows": 2
-        }
-      ],
-      "examples": [
-        [
-          "ta shao miona",
-          "one three-group person",
-          "(exactly three people)"
-        ],
-        [
-          "ta shao mioru thepalu",
-          "one three-group beautiful garden",
-          "(exactly three beautiful gardens)"
-        ]
-      ],
+      "shape": "h1,2,2,2,2,2,2;t3x3,3x10,3x2;f3,3;q-;u-;o-;r0",
+      "variant": "ordered_reference",
       "pattern": "[Possessor] [Quantifier] [Deictic] [Number or lo] [Classifier] [Descriptors] [Noun]"
     }
   }

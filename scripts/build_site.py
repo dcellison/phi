@@ -1231,13 +1231,22 @@ def pretty(name, kind):
 
 NAV_MANUAL = '<nav class="topnav"><a href="../index.html">kia</a> <span class="sep">&middot;</span> <a href="../short_road.html">walk</a> <span class="sep">&middot;</span> <a href="../primer/index.html">primer</a> <span class="sep">&middot;</span> <a href="../book/index.html">book</a> <span class="sep">&middot;</span> <a class="here" href="index.html">manual</a> <span class="sep">&middot;</span> <a href="../pamphlets/index.html">pamphlets</a> <span class="sep">&middot;</span> <a href="../texts/index.html">texts</a> <span class="sep">&middot;</span> <a href="../explore.html">lexicon</a> <button class="themetoggle" aria-label="toggle light and dark" title="light / dark">&#9681;</button></nav>'
 
-def manual_page(body, title, footer_nav="", editorial_kind=None):
+def manual_page(
+    body,
+    title,
+    footer_nav="",
+    editorial_kind=None,
+    editorial_motif=None,
+):
     body_class = "landing primer"
     main_body = body
     if editorial_kind is not None:
         body_class += (
             f" manual-editorial manual-{editorial_kind}-page"
         )
+        if editorial_motif is not None:
+            motif_class = editorial_motif.replace("_", "-")
+            body_class += f" manual-{motif_class}-page"
         main_body = f'<article class="manual-work">{body}</article>'
     return f"""<!doctype html>
 <html lang="en">
@@ -1322,8 +1331,8 @@ def link_manual_pages(html, source):
     return re.sub(r'href="([^"]+\.md(?:#[^"]*)?)"', rewrite, html)
 
 
-def markdown_table_inventory(source):
-    """Return each Markdown table's headers and number of data rows."""
+def markdown_table_shapes(source):
+    """Return each Markdown table's column and data-row counts."""
     blocks = []
     current = []
     for line in source.splitlines() + [""]:
@@ -1340,96 +1349,220 @@ def markdown_table_inventory(source):
         ):
             raise ValueError("manual editorial table lacks a separator row")
         headers = [cell.strip() for cell in block[0].strip("|").split("|")]
-        inventory.append({"headers": headers, "rows": len(block) - 2})
+        inventory.append((len(headers), len(block) - 2))
     return inventory
 
 
+def manual_structural_signature(source):
+    """Describe the block structure a manual treatment depends on."""
+    fences = [
+        block.strip("\n").splitlines()
+        for block in re.findall(r"```[a-z]*\n(.*?)```", source, flags=re.S)
+    ]
+    bare = re.sub(r"```[a-z]*\n.*?```", "", source, flags=re.S)
+    headings = [
+        len(mark)
+        for mark in re.findall(r"^(#{1,6}) .+$", bare, flags=re.M)
+    ]
+    blocks = [block.strip() for block in bare.split("\n\n") if block.strip()]
+    quote_shapes = [
+        sum(line.startswith(">") for line in block.splitlines())
+        for block in blocks
+        if block.startswith(">")
+    ]
+    unordered_shapes = [
+        sum(bool(re.match(r"^[-*] ", line)) for line in block.splitlines())
+        for block in blocks
+        if re.match(r"^[-*] ", block)
+    ]
+    ordered_shapes = [
+        sum(bool(re.match(r"^\d+\. ", line)) for line in block.splitlines())
+        for block in blocks
+        if re.match(r"^\d+\. ", block)
+    ]
+
+    def joined(values, formatter=str):
+        return ",".join(formatter(value) for value in values) or "-"
+
+    return ";".join(
+        (
+            "h" + joined(headings),
+            "t" + joined(
+                markdown_table_shapes(bare),
+                lambda shape: f"{shape[0]}x{shape[1]}",
+            ),
+            "f" + joined([len(block) for block in fences]),
+            "q" + joined(quote_shapes),
+            "u" + joined(unordered_shapes),
+            "o" + joined(ordered_shapes),
+            "r" + str(len(re.findall(r"^---$", bare, flags=re.M))),
+        )
+    )
+
+
 def load_manual_editorial():
-    """Load opt-in manual treatments and pin their source structure."""
+    """Load treated manual parts and pin each page's block structure."""
     config_path = SITE_SRC / "manual_editorial.json"
     config = json.loads(config_path.read_text(encoding="utf-8"))
-    pages = config.get("pages")
-    if set(config) != {"pages"} or not isinstance(pages, dict) or not pages:
+    if set(config) != {"complete_parts", "parts", "pages"}:
         raise ValueError(
-            "site/manual_editorial.json must contain one non-empty 'pages' object"
+            "site/manual_editorial.json requires complete_parts, parts, and pages"
         )
-    required = {
-        "motif",
-        "title",
-        "headings",
-        "tables",
-        "examples",
-        "pattern",
+    complete_parts = config["complete_parts"]
+    parts = config["parts"]
+    pages = config.get("pages")
+    if (
+        not isinstance(complete_parts, list)
+        or len(complete_parts) != len(set(complete_parts))
+        or not isinstance(parts, dict)
+        or not isinstance(pages, dict)
+        or not pages
+    ):
+        raise ValueError(
+            "manual editorial coverage, parts, and pages must be valid collections"
+        )
+    allowed_motifs = {
+        "first_light",
+        "living_heart",
+        "spoken_sound",
+        "ordered_layers",
     }
+    for part_key, part in parts.items():
+        if (
+            not re.fullmatch(r"part\d+_[a-z0-9_]+", part_key)
+            or not isinstance(part, dict)
+            or set(part) != {"motif"}
+            or part["motif"] not in allowed_motifs
+        ):
+            raise ValueError(f"invalid manual editorial part: {part_key}")
+    if any(part not in parts for part in complete_parts):
+        raise ValueError("every complete manual part requires part metadata")
+
+    rendered_paths = {
+        path.relative_to(ROOT).as_posix()
+        for _, _, path in sections
+        if MANUAL_SRC in path.parents
+    }
+    configured_paths = set(pages)
+    if not configured_paths <= rendered_paths:
+        raise ValueError(
+            "manual editorial pages include files outside the rendered manual: "
+            + ", ".join(sorted(configured_paths - rendered_paths))
+        )
+    expected_complete = {
+        repo_path
+        for repo_path in rendered_paths
+        if Path(repo_path).parts[1] in complete_parts
+    }
+    missing = expected_complete - configured_paths
+    if missing:
+        raise ValueError(
+            "complete manual parts have untreated pages: "
+            + ", ".join(sorted(missing))
+        )
+
     for repo_path, treatment in pages.items():
         source_path = ROOT / repo_path
+        part_key = Path(repo_path).parts[1]
         if (
-            not repo_path.startswith("manual/")
+            part_key not in parts
             or not source_path.is_file()
             or not isinstance(treatment, dict)
         ):
             raise ValueError(f"invalid manual editorial source: {repo_path}")
+        variant = treatment.get("variant")
+        required = {"shape", "variant"}
+        if variant == "ordered_reference":
+            required.add("pattern")
         if set(treatment) != required:
             raise ValueError(
-                f"manual editorial treatment for {repo_path} requires "
+                f"manual editorial treatment for {repo_path} requires exactly "
                 + ", ".join(sorted(required))
             )
-        if treatment["motif"] != "ordered_layers":
-            raise ValueError(
-                f"unknown manual editorial motif: {treatment['motif']}"
-            )
+        if variant not in {"standard", "conversation", "ordered_reference"}:
+            raise ValueError(f"unknown manual editorial variant: {variant}")
         source = source_path.read_text(encoding="utf-8")
-        headings = [
-            {"level": len(mark), "title": title}
-            for mark, title in re.findall(r"^(#{1,6}) (.+)$", source, flags=re.M)
-        ]
-        if headings != treatment["headings"]:
+        if treatment["shape"] != manual_structural_signature(source):
             raise ValueError(
-                f"manual editorial heading inventory changed: {repo_path}"
+                f"manual editorial source structure changed: {repo_path}"
             )
-        if treatment["title"] != title_of(source):
-            raise ValueError(f"manual editorial title changed: {repo_path}")
-        if markdown_table_inventory(source) != treatment["tables"]:
-            raise ValueError(
-                f"manual editorial table inventory changed: {repo_path}"
-            )
-        examples = [
-            block.strip("\n").splitlines()
-            for block in re.findall(r"```[a-z]*\n(.*?)```", source, flags=re.S)
-        ]
-        if examples != treatment["examples"]:
-            raise ValueError(
-                f"manual editorial example inventory changed: {repo_path}"
-            )
-        pattern = f'**{treatment["pattern"]}**'
-        if source.count(pattern) != 1:
+        if variant == "ordered_reference" and source.count(
+            f'**{treatment["pattern"]}**'
+        ) != 1:
             raise ValueError(
                 f"manual editorial pattern changed or is ambiguous: {repo_path}"
             )
-    return pages
+        if variant == "conversation" and source.count("\n---\n") != 2:
+            raise ValueError(
+                f"manual editorial conversation boundaries changed: {repo_path}"
+            )
+    return parts, pages
 
 
 def manual_motif(name):
-    """Return the restrained Lucide motif for a manual reference page."""
-    if name != "ordered_layers":
-        raise ValueError(f"unknown manual motif: {name}")
+    """Return the restrained Lucide motif for a manual part."""
     # Lucide outlines; the deployed site carries the project's ISC notice.
-    layers = """
+    motifs = {
+        "first_light": (
+            """
+    <path d="M12 2v8"/>
+    <path d="m4.93 10.93 1.41 1.41"/>
+    <path d="M2 18h2"/>
+    <path d="M20 18h2"/>
+    <path d="m19.07 10.93-1.41 1.41"/>
+    <path d="M22 22H2"/>
+    <path d="m8 6 4-4 4 4"/>
+    <path d="M16 18a4 4 0 0 0-8 0"/>""",
+            """
+    <path d="M7 20h8"/>
+    <path d="M10 20c5.5-2.5.8-6.4 3-10"/>
+    <path d="M9.5 9.4c1.1.8 1.8 2.2 2.3 3.7-2 .4-3.5 0-4.6-.7-1.1-.8-1.8-2.2-2.3-3.7 2-.4 3.5 0 4.6.7z"/>
+    <path d="M14.1 6a7 7 0 0 0-1.9 2.8c1.7.3 3.1 0 4.1-.7 1-.7 1.6-1.9 2-3.3-1.8-.3-3.2 0-4.2.7z"/>""",
+        ),
+        "living_heart": (
+            """
+    <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/>""",
+            """
+    <path d="M7 20h8"/>
+    <path d="M10 20c5.5-2.5.8-6.4 3-10"/>
+    <path d="M9.5 9.4c1.1.8 1.8 2.2 2.3 3.7-2 .4-3.5 0-4.6-.7-1.1-.8-1.8-2.2-2.3-3.7 2-.4 3.5 0 4.6.7z"/>
+    <path d="M14.1 6a7 7 0 0 0-1.9 2.8c1.7.3 3.1 0 4.1-.7 1-.7 1.6-1.9 2-3.3-1.8-.3-3.2 0-4.2.7z"/>""",
+        ),
+        "spoken_sound": (
+            """
+    <path d="M2 10v3"/>
+    <path d="M6 6v11"/>
+    <path d="M10 3v18"/>
+    <path d="M14 8v7"/>
+    <path d="M18 5v13"/>
+    <path d="M22 10v3"/>""",
+            """
+    <path d="M6 8.5a6.5 6.5 0 1 1 13 0c0 7-6 7-6 10a2.5 2.5 0 0 1-5 0"/>
+    <path d="M6 8.5A6.5 6.5 0 0 0 12.5 15"/>
+    <path d="M11 8.5a2 2 0 1 1 4 0c0 2-2 3-2 3"/>""",
+        ),
+        "ordered_layers": (
+            """
     <path d="m12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z"/>
     <path d="m22 12.5-9.17 4.17a2 2 0 0 1-1.66 0L2 12.5"/>
-    <path d="m22 17.5-9.17 4.17a2 2 0 0 1-1.66 0L2 17.5"/>"""
-    ordered = """
+    <path d="m22 17.5-9.17 4.17a2 2 0 0 1-1.66 0L2 17.5"/>""",
+            """
     <line x1="10" x2="21" y1="6" y2="6"/>
     <line x1="10" x2="21" y1="12" y2="12"/>
     <line x1="10" x2="21" y1="18" y2="18"/>
     <path d="M4 6h1v4"/>
     <path d="M4 10h2"/>
-    <path d="M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"/>"""
+    <path d="M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"/>""",
+        ),
+    }
+    if name not in motifs:
+        raise ValueError(f"unknown manual motif: {name}")
+    first, second = motifs[name]
     return (
-        '<div class="manual-page-motif manual-motif-ordered-layers" '
+        f'<div class="manual-page-motif manual-motif-{name}" '
         'aria-hidden="true">'
-        f'<svg viewBox="0 0 24 24" focusable="false">{layers}</svg>'
-        f'<svg viewBox="0 0 24 24" focusable="false">{ordered}</svg>'
+        f'<svg viewBox="0 0 24 24" focusable="false">{first}</svg>'
+        f'<svg viewBox="0 0 24 24" focusable="false">{second}</svg>'
         "</div>"
     )
 
@@ -1452,25 +1585,24 @@ def mark_manual_inline_phi(body):
     return re.sub(r"<strong>([^<]+)</strong>", mark_strong, body)
 
 
-def style_manual_tables(body, table_specs):
+def style_manual_tables(body):
     """Add responsive labels while preserving every rendered table cell."""
     tables = re.findall(r"<table>.*?</table>", body, flags=re.S)
-    if len(tables) != len(table_specs):
-        raise ValueError("manual editorial rendered table count changed")
-    for table_number, (table, spec) in enumerate(
-        zip(tables, table_specs),
-        start=1,
-    ):
+    for table_number, table in enumerate(tables, start=1):
         rows = re.findall(r"<tr>(.*?)</tr>", table, flags=re.S)
+        if not rows:
+            raise ValueError(
+                f"manual editorial table {table_number} has no rows"
+            )
         headers = re.findall(r"<th>(.*?)</th>", rows[0], flags=re.S)
+        if not headers:
+            raise ValueError(
+                f"manual editorial table {table_number} has no header"
+            )
         plain_headers = [
             html_module.unescape(re.sub(r"<[^>]+>", "", header))
             for header in headers
         ]
-        if plain_headers != spec["headers"] or len(rows) - 1 != spec["rows"]:
-            raise ValueError(
-                f"manual editorial rendered table {table_number} changed"
-            )
         rebuilt = ['<table class="manual-reference-table">']
         rebuilt.append(
             "<tr>"
@@ -1488,17 +1620,21 @@ def style_manual_tables(body, table_specs):
                 + "".join(
                     '<td data-label="'
                     + html_module.escape(plain_headers[index], quote=True)
-                    + '">'
+                    + '"><span class="manual-table-value">'
                     + cell
-                    + "</td>"
+                    + "</span></td>"
                     for index, cell in enumerate(cells)
                 )
                 + "</tr>"
             )
         rebuilt.append("</table>")
-        density = " manual-table-dense" if spec["rows"] > 6 else ""
+        classes = ["manual-table-wrap"]
+        if len(rows) - 1 > 6:
+            classes.append("manual-table-dense")
+        if len(headers) > 3:
+            classes.append("manual-table-wide")
         replacement = (
-            f'<div class="manual-table-wrap{density}">'
+            f'<div class="{" ".join(classes)}">'
             + "".join(rebuilt)
             + "</div>"
         )
@@ -1506,23 +1642,73 @@ def style_manual_tables(body, table_specs):
     return body
 
 
-def style_manual_examples(body, examples):
-    """Render three-line manual fences as compact interlinear evidence."""
+def style_manual_examples(body):
+    """Render interlinear fences and retain other preformatted material."""
     blocks = re.findall(r"<pre>(.*?)</pre>", body, flags=re.S)
-    if len(blocks) != len(examples):
-        raise ValueError("manual editorial rendered example count changed")
-    for block, expected in zip(blocks, examples):
+    for block in blocks:
         lines = block.splitlines()
-        if [html_module.unescape(line) for line in lines] != expected:
-            raise ValueError("manual editorial rendered example changed")
-        replacement = f"""
+        plain_lines = [html_module.unescape(line) for line in lines]
+        if (
+            len(lines) in {3, 4}
+            and is_current_phi_passage(plain_lines[0])
+        ):
+            source_line = (
+                f'\n  <p class="manual-example-source">{lines[3]}</p>'
+                if len(lines) == 4
+                else ""
+            )
+            replacement = f"""
 <figure class="manual-example" aria-label="Interlinear example">
   <p class="manual-example-phi" lang="art-x-phi">{lines[0]}</p>
   <p class="manual-example-gloss">{lines[1]}</p>
-  <figcaption>{lines[2]}</figcaption>
+  <figcaption>{lines[2]}</figcaption>{source_line}
 </figure>"""
+        else:
+            replacement = f'<pre class="manual-code-sample">{block}</pre>'
         body = body.replace(f"<pre>{block}</pre>", replacement, 1)
     return body
+
+
+def style_manual_dialogue(body):
+    """Lift the Part I road conversation into speaker rows."""
+    match = re.search(r"<hr>\n(.*?)\n<hr>", body, flags=re.S)
+    if match is None or body.count("<hr>") != 2:
+        raise ValueError("manual editorial conversation boundaries changed")
+    paragraphs = re.findall(r"<p>(.*?)</p>", match.group(1), flags=re.S)
+    if len(paragraphs) < 2 or len(paragraphs) % 2:
+        raise ValueError("manual editorial conversation turns changed")
+    turns = []
+    for index in range(0, len(paragraphs), 2):
+        spoken = re.fullmatch(
+            r"<strong>([A-Z]):</strong>\s*(.+)",
+            paragraphs[index],
+            flags=re.S,
+        )
+        translation = re.fullmatch(
+            r"<em>(.*?)</em>",
+            paragraphs[index + 1],
+            flags=re.S,
+        )
+        if spoken is None or translation is None:
+            raise ValueError("manual editorial conversation row changed")
+        phi = spoken.group(2)
+        plain_phi = html_module.unescape(re.sub(r"<[^>]+>", "", phi))
+        if not is_current_phi_passage(plain_phi):
+            raise ValueError("manual editorial conversation contains non-Phi")
+        turns.append(
+            '<div class="manual-dialogue-turn">'
+            f'<span class="manual-dialogue-speaker">{spoken.group(1)}</span>'
+            '<div class="manual-dialogue-copy">'
+            f'<p class="manual-dialogue-phi" lang="art-x-phi">{phi}</p>'
+            f'<p class="manual-dialogue-english">{translation.group(1)}</p>'
+            "</div></div>"
+        )
+    replacement = (
+        '<figure class="manual-dialogue" aria-label="Conversation">'
+        + "".join(turns)
+        + "</figure>"
+    )
+    return body[:match.start()] + replacement + body[match.end():]
 
 
 def style_manual_pattern(body, pattern):
@@ -1553,11 +1739,15 @@ def manual_label_parts(part, chapter):
     chapter_match = re.fullmatch(r"Chapter (\d+) · (.+)", chapter or "")
     if part_match is None or chapter_match is None:
         raise ValueError("manual editorial page requires numbered part and chapter")
+
+    def label_case(value):
+        return re.sub(r"\bphi\b", "Phi", value.capitalize())
+
     return (
         int(part_match.group(1)),
-        part_match.group(2).capitalize(),
+        label_case(part_match.group(2)),
         int(chapter_match.group(1)),
-        chapter_match.group(2).capitalize(),
+        label_case(chapter_match.group(2)),
     )
 
 
@@ -1568,75 +1758,135 @@ def apply_manual_editorial(
     chapter,
     section_number,
     section_total,
+    motif,
+    title,
 ):
-    """Apply the opt-in manual reference treatment to one pinned page."""
-    title = treatment["title"]
-    title_html = html_module.escape(title)
-    title_tag = f"<h1>{title_html}</h1>"
-    if body.count(title_tag) != 1:
-        raise ValueError("manual editorial title is missing or ambiguous")
-    body = body.replace(title_tag, "", 1)
-    body = mark_manual_inline_phi(body)
-    body = style_manual_tables(body, treatment["tables"])
-    body = style_manual_examples(body, treatment["examples"])
-    body = style_manual_pattern(body, treatment["pattern"])
-
-    section_headings = [
-        heading["title"]
-        for heading in treatment["headings"]
-        if heading["level"] == 2
+    """Apply the manual reference treatment to one structurally pinned page."""
+    title_html = html_module.escape(title, quote=False)
+    title_tags = [
+        tag
+        for tag in (f"<h1>{title_html}</h1>", f"<h2>{title_html}</h2>")
+        if body.count(tag) == 1
     ]
-    for number, heading in enumerate(section_headings, start=1):
-        heading_html = html_module.escape(heading)
-        source = f"<h2>{heading_html}</h2>"
+    if len(title_tags) != 1:
+        raise ValueError(
+            f"manual editorial title is missing or ambiguous: {title}"
+        )
+    body = body.replace(title_tags[0], "", 1)
+    if treatment["variant"] == "conversation":
+        body = style_manual_dialogue(body)
+    body = mark_inline_phi(body)
+    body = mark_manual_inline_phi(body)
+    body = style_manual_tables(body)
+    body = style_manual_examples(body)
+    if treatment["variant"] == "ordered_reference":
+        body = style_manual_pattern(body, treatment["pattern"])
+
+    section_headings = []
+    used_ids = set()
+
+    def style_h2(match):
+        heading_html = match.group(1)
+        heading = html_module.unescape(re.sub(r"<[^>]+>", "", heading_html))
         heading_id = manual_heading_id(heading)
-        replacement = (
-            f'<h2 class="manual-section-title" id="{heading_id}">'
+        if not heading_id or heading_id in used_ids:
+            raise ValueError(
+                f"manual editorial section anchor is invalid: {heading}"
+            )
+        used_ids.add(heading_id)
+        number = len(section_headings) + 1
+        is_exercise = bool(re.match(r"Exercise \d+:", heading))
+        section_headings.append(
+            {
+                "html": heading_html,
+                "id": heading_id,
+                "title": heading,
+                "exercise": is_exercise,
+            }
+        )
+        exercise_class = " manual-exercise-title" if is_exercise else ""
+        return (
+            f'<h2 class="manual-section-title{exercise_class}" '
+            f'id="{heading_id}">'
             f'<span class="manual-section-number" aria-hidden="true">'
             f"{number:02d}</span> "
             f"<span>{heading_html}</span></h2>"
         )
-        if body.count(source) != 1:
-            raise ValueError(
-                f"manual editorial section is missing or ambiguous: {heading}"
-            )
-        body = body.replace(source, replacement, 1)
+
+    body = re.sub(r"<h2>(.*?)</h2>", style_h2, body, flags=re.S)
+
+    subsection_ids = set()
+
+    def style_h3(match):
+        heading_html = match.group(1)
+        heading = html_module.unescape(re.sub(r"<[^>]+>", "", heading_html))
+        base = "sub-" + manual_heading_id(heading)
+        heading_id = base
+        suffix = 2
+        while heading_id in subsection_ids or heading_id in used_ids:
+            heading_id = f"{base}-{suffix}"
+            suffix += 1
+        subsection_ids.add(heading_id)
+        return (
+            f'<h3 class="manual-subsection-title" id="{heading_id}">'
+            f"{heading_html}</h3>"
+        )
+
+    body = re.sub(r"<h3>(.*?)</h3>", style_h3, body, flags=re.S)
 
     first_section = body.find('<h2 class="manual-section-title"')
-    if first_section < 0:
-        raise ValueError("manual editorial page has no sections")
-    opening = body[:first_section]
-    rest = body[first_section:]
-    opening, count = re.subn(
+    opening_end = first_section if first_section >= 0 else len(body)
+    opening = body[:opening_end]
+    opening, lede_count = re.subn(
         r"<p>",
         '<p class="manual-page-lede">',
         opening,
         count=1,
     )
-    if count != 1 or opening.count("<p") != 1:
+    if lede_count == 0 and first_section >= 0 and not opening.strip():
+        opening = ""
+    elif lede_count != 1:
         raise ValueError(
-            "manual editorial page requires one opening paragraph"
+            f"manual editorial page requires an opening paragraph: {title}"
         )
+    if opening:
+        opening = f'<div class="manual-page-opening">{opening}</div>'
 
-    section_matches = list(
-        re.finditer(
-            r'<h2 class="manual-section-title" id="([^"]+)">.*?</h2>',
-            rest,
-            flags=re.S,
-        )
-    )
     sections_html = []
-    for index, match in enumerate(section_matches):
-        end = (
-            section_matches[index + 1].start()
-            if index + 1 < len(section_matches)
-            else len(rest)
+    if first_section >= 0:
+        rest = body[first_section:]
+        section_matches = list(
+            re.finditer(
+                r'<h2 class="manual-section-title(?: manual-exercise-title)?" '
+                r'id="([^"]+)">.*?</h2>',
+                rest,
+                flags=re.S,
+            )
         )
-        sections_html.append(
-            f'<section class="manual-reference-section" '
-            f'aria-labelledby="{match.group(1)}">'
-            + rest[match.start():end]
-            + "</section>"
+        if len(section_matches) != len(section_headings):
+            raise ValueError("manual editorial section wrapping changed")
+        for index, match in enumerate(section_matches):
+            end = (
+                section_matches[index + 1].start()
+                if index + 1 < len(section_matches)
+                else len(rest)
+            )
+            exercise_class = (
+                " manual-exercise-section"
+                if section_headings[index]["exercise"]
+                else ""
+            )
+            sections_html.append(
+                f'<section class="manual-reference-section{exercise_class}" '
+                f'aria-labelledby="{match.group(1)}">'
+                + rest[match.start():end]
+                + "</section>"
+            )
+    else:
+        opening = (
+            '<div class="manual-unsectioned-copy">'
+            + opening
+            + "</div>"
         )
 
     part_number, part_name, chapter_number, chapter_name = manual_label_parts(
@@ -1646,10 +1896,20 @@ def apply_manual_editorial(
     roman_parts = ("I", "II", "III", "IV", "V", "VI", "VII")
     if not 1 <= part_number <= len(roman_parts):
         raise ValueError("manual editorial part number is outside the manual")
+    title_words = re.findall(r"[A-Za-z]+", title)
+    longest_title_word = max(map(len, title_words)) if title_words else 0
+    if longest_title_word >= 12:
+        title_class = ' class="manual-title-very-long"'
+    elif longest_title_word >= 10 or (
+        longest_title_word >= 9 and len(title) >= 16
+    ):
+        title_class = ' class="manual-title-long"'
+    else:
+        title_class = ""
     map_items = "".join(
-        f'<li><a href="#{manual_heading_id(heading)}">'
+        f'<li><a href="#{heading["id"]}">'
         f'<span aria-hidden="true">{index:02d}</span> '
-        f"{html_module.escape(heading)}</a></li>"
+        f'{heading["html"]}</a></li>'
         for index, heading in enumerate(section_headings, start=1)
     )
     header = f"""
@@ -1661,16 +1921,20 @@ def apply_manual_editorial(
   <div class="manual-title-row">
     <div>
       <p class="manual-chapter-label">Chapter {chapter_number} <span aria-hidden="true">&middot;</span> {html_module.escape(chapter_name)}</p>
-      <h1>{title_html}</h1>
+      <h1{title_class}>{title_html}</h1>
     </div>
-    {manual_motif(treatment["motif"])}
+    {manual_motif(motif)}
   </div>
 </header>"""
-    section_map = f"""
+    section_map = (
+        f"""
 <nav class="manual-page-map" aria-label="On this page">
   <p>On this page</p>
   <ol>{map_items}</ol>
 </nav>"""
+        if len(section_headings) >= 2
+        else ""
+    )
     return header + opening + section_map + "".join(sections_html)
 
 
@@ -1697,7 +1961,7 @@ def manual_editorial_navigation(previous, following):
     )
 
 
-MANUAL_EDITORIAL = load_manual_editorial()
+MANUAL_PARTS, MANUAL_EDITORIAL = load_manual_editorial()
 
 
 sec_titles = [title_of(f.read_text()) for _, _, f in sections]
@@ -1712,6 +1976,8 @@ for i, (part, ch, f) in enumerate(sections):
         crumb = '<p class="crumb">' + " &mdash; ".join(crumb_bits) + "</p>"
         body = crumb + body
     else:
+        part_key = f.relative_to(MANUAL_SRC).parts[0]
+        motif = MANUAL_PARTS[part_key]["motif"]
         chapter_sections = [
             item
             for item in sections
@@ -1725,6 +1991,8 @@ for i, (part, ch, f) in enumerate(sections):
             ch,
             chapter_paths.index(f) + 1,
             len(chapter_paths),
+            motif,
+            sec_titles[i],
         )
         editorial_kind = "reference"
     if f.name == "appendix_a_glossary.md":
@@ -1752,6 +2020,7 @@ for i, (part, ch, f) in enumerate(sections):
             sec_titles[i],
             footer_nav,
             editorial_kind=editorial_kind,
+            editorial_motif=motif if treatment is not None else None,
         )
     )
 
