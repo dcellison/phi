@@ -12,32 +12,76 @@
   ],
   "groups": {
     "part1_first_light": {
-      "motif": "first_light"
+      "motif": "first_light",
+      "title": "First light",
+      "summary": "Begin with the question that made Phi necessary. Its first sounds and sentences end in a conversation."
     },
     "part2_soul": {
-      "motif": "living_heart"
+      "motif": "living_heart",
+      "title": "The soul of Phi",
+      "summary": "The five pillars lead into Phi's sound, its social life, and its way of learning."
     },
     "part3_phonology": {
-      "motif": "spoken_sound"
+      "motif": "spoken_sound",
+      "title": "Phonology",
+      "summary": "Nineteen sounds become words through open syllables, vowel hiatus, and penultimate stress. Romanization and Tengwar give them two written forms."
     },
     "part4_grammar": {
-      "motif": "ordered_layers"
+      "motif": "ordered_layers",
+      "title": "Grammar",
+      "summary": "This is the working machinery. Particles and word order set the frame; the later chapters fill it with nouns, numbers, time, voice, and claimed sources."
     },
     "part5_complex": {
-      "motif": "woven_thoughts"
+      "motif": "woven_thoughts",
+      "title": "Complex structures",
+      "summary": "Coordination leads into discourse, subordinate clauses, and relative clauses. Simple sentences learn to travel together."
     },
     "part6_mastery": {
-      "motif": "lived_practice"
+      "motif": "lived_practice",
+      "title": "Mastery",
+      "summary": "Courtesy and social context open the part. Transmutation, daily practice, and exact source material bring the grammar into use."
     },
     "part7_reference": {
-      "motif": "open_reference"
+      "motif": "open_reference",
+      "title": "Reference",
+      "summary": "Here the grammar, compounds, module guides, and sample texts sit within reach."
     },
     "appendices": {
-      "motif": "indexed_notes"
+      "motif": "indexed_notes",
+      "title": "Appendices",
+      "summary": "The appendices collect linguistic terms, comparisons with natural languages, and paths for further study."
     },
     "colophon": {
-      "motif": "makers_mark"
+      "motif": "makers_mark",
+      "title": "Colophon",
+      "summary": "The maker signs the book and explains how Phi's human decisions and AI-assisted workshop fit together."
     }
+  },
+  "chapters": {
+    "ch01_why_new_language": "Why a new language?",
+    "ch02_first_words": "Your first words in Phi",
+    "ch03_five_pillars": "The five pillars of wisdom",
+    "ch04_philosophy_of_sound_meaning_grammar": "The philosophy of sound, meaning, and grammar",
+    "ch05_social_philosophy": "The social philosophy of language",
+    "ch06_philosophy_of_learning": "The philosophy of learning",
+    "ch07_sound_inventory": "The sound inventory",
+    "ch08_music_of_phi": "The music of Phi",
+    "ch09_particle_system": "The particle system, Phi's backbone",
+    "ch10_mindful_sentence": "The mindful sentence",
+    "ch11_nouns": "Nouns and their world",
+    "ch12_numbers": "Numbers",
+    "ch13_pronouns": "Pronouns and reference",
+    "ch14_verbs_time": "Verbs and time",
+    "ch15_voice_possibility": "Voice and possibility",
+    "ch16_evidentiality": "Evidentiality, or knowing how we know",
+    "ch17_coordination": "Coordination and contrast",
+    "ch18_discourse": "Discourse flow",
+    "ch19_subordinate_clauses": "Subordinate clauses",
+    "ch20_relative_clauses": "Relative clauses",
+    "ch21_social_context": "Social context and nuance",
+    "ch22_transmutation": "The art of transmutation",
+    "ch23_living_in_phi": "Living in Phi",
+    "ch24_source_material": "Source material"
   },
   "pages": {
     "manual/part1_first_light/ch01_why_new_language/01_invisible_architecture.md": {
