@@ -1569,6 +1569,7 @@ TEXT_MOTIFS = {
     "star_bond",
     "rabbit_heart",
     "window_water",
+    "river_home",
 }
 
 
@@ -1875,6 +1876,185 @@ def load_texts_editorial():
     return resolved
 
 
+def split_news_chapter_title(source_title, phi_title, english_title, repo_path):
+    """Separate one validated book chapter heading into its number and title."""
+    prefix = f"{phi_title} — {english_title}, ch. "
+    if not source_title.startswith(prefix):
+        raise ValueError(f"News from Nowhere chapter title differs: {repo_path}")
+    match = re.fullmatch(r"([0-9]+): (.+)", source_title[len(prefix):])
+    if match is None:
+        raise ValueError(f"News from Nowhere chapter title is malformed: {repo_path}")
+    return int(match.group(1)), match.group(2)
+
+
+def load_news_editorial():
+    """Load the book treatment and pin every current chapter to its source."""
+    config_path = SITE_SRC / "news_from_nowhere_editorial.json"
+    config = json.loads(config_path.read_text(encoding="utf-8"))
+    if not isinstance(config, dict) or set(config) != {"book"}:
+        raise ValueError(
+            "site/news_from_nowhere_editorial.json must contain one 'book' object"
+        )
+    book = config["book"]
+    book_fields = {
+        "path",
+        "phi_title",
+        "english_title",
+        "motif",
+        "total_chapters",
+        "chapters",
+    }
+    if not isinstance(book, dict) or set(book) != book_fields:
+        raise ValueError(
+            "News from Nowhere editorial book requires "
+            f"{', '.join(sorted(book_fields))}"
+        )
+
+    repo_path = f"texts/{NEWS_WORK['path']}"
+    phi_title = book["phi_title"]
+    english_title = book["english_title"]
+    if (
+        book["path"] != repo_path
+        or NEWS_WORK["method"] != "Transmutation"
+        or not isinstance(phi_title, str)
+        or not is_current_phi(phi_title)
+        or not isinstance(english_title, str)
+        or not english_title.strip()
+        or book["motif"] not in TEXT_MOTIFS
+    ):
+        raise ValueError("News from Nowhere editorial identity differs from the shelf")
+    catalogue_phi, catalogue_english = split_text_editorial_title(
+        NEWS_WORK["title"],
+        phi_title,
+        repo_path,
+    )
+    if catalogue_phi != phi_title or catalogue_english != english_title:
+        raise ValueError("News from Nowhere editorial title differs from the catalogue")
+
+    total_chapters = book["total_chapters"]
+    chapters = book["chapters"]
+    book_dir = ROOT / repo_path
+    chapter_files = sorted(path.name for path in book_dir.glob("chapter_*.md"))
+    if (
+        not isinstance(total_chapters, int)
+        or total_chapters < 1
+        or not isinstance(chapters, list)
+        or not chapters
+        or len(chapters) > total_chapters
+        or [chapter.get("file") for chapter in chapters] != chapter_files
+    ):
+        raise ValueError("News from Nowhere editorial chapter sequence differs")
+
+    chapter_fields = {
+        "file",
+        "number",
+        "title",
+        "summary",
+        "movements",
+        "apparatus",
+        "opening_paragraphs",
+        "interlinear_blocks",
+        "interlinear_stanzas",
+        "notes",
+        "tables",
+        "ledger_rows",
+        "inner_dividers",
+    }
+    movement_fields = {"level", "title"}
+    count_fields = (
+        "opening_paragraphs",
+        "interlinear_blocks",
+        "interlinear_stanzas",
+        "notes",
+        "tables",
+        "inner_dividers",
+    )
+    for expected_number, chapter in enumerate(chapters, 1):
+        if not isinstance(chapter, dict) or set(chapter) != chapter_fields:
+            raise ValueError(
+                "News from Nowhere editorial chapter requires "
+                f"{', '.join(sorted(chapter_fields))}"
+            )
+        filename = chapter["file"]
+        movements = chapter["movements"]
+        if (
+            chapter["number"] != expected_number
+            or filename != f"chapter_{expected_number:02d}.md"
+            or not isinstance(chapter["title"], str)
+            or not chapter["title"].strip()
+            or not isinstance(chapter["summary"], str)
+            or not chapter["summary"].strip()
+            or not isinstance(movements, list)
+            or not movements
+            or any(
+                not isinstance(movement, dict)
+                or set(movement) != movement_fields
+                or movement["level"] not in {2, 3}
+                or not isinstance(movement["title"], str)
+                or not movement["title"].strip()
+                for movement in movements
+            )
+            or len({movement["title"] for movement in movements}) != len(movements)
+            or not isinstance(chapter["apparatus"], str)
+            or not chapter["apparatus"].strip()
+            or chapter["apparatus"] in {
+                movement["title"] for movement in movements
+            }
+            or any(
+                not isinstance(chapter[field], int) or chapter[field] < 0
+                for field in count_fields
+            )
+            or not isinstance(chapter["ledger_rows"], list)
+            or len(chapter["ledger_rows"]) != chapter["tables"]
+            or any(
+                not isinstance(row_count, int) or row_count < 1
+                for row_count in chapter["ledger_rows"]
+            )
+        ):
+            raise ValueError(
+                f"invalid News from Nowhere editorial chapter: {filename}"
+            )
+
+        source_path = book_dir / filename
+        source = source_path.read_text(encoding="utf-8")
+        source_number, source_chapter_title = split_news_chapter_title(
+            title_of(source),
+            phi_title,
+            english_title,
+            source_path.relative_to(ROOT).as_posix(),
+        )
+        source_headings = [
+            (len(marks), title)
+            for marks, title in re.findall(
+                r"^(#{2,3}) (.+)$",
+                source,
+                flags=re.M,
+            )
+        ]
+        expected_headings = [
+            (movement["level"], movement["title"])
+            for movement in movements
+        ] + [(2, chapter["apparatus"])]
+        source_labels = re.findall(
+            r"^([a-z][a-z0-9-]*):",
+            source,
+            flags=re.M,
+        )
+        if (
+            source_number != expected_number
+            or source_chapter_title != chapter["title"]
+            or source_headings != expected_headings
+            or len(source_labels) != chapter["interlinear_stanzas"]
+            or any(label != "morris" for label in source_labels)
+            or len(re.findall(r"^---$", source, flags=re.M))
+            != chapter["inner_dividers"] + 1
+        ):
+            raise ValueError(
+                f"News from Nowhere editorial source differs: {filename}"
+            )
+    return book
+
+
 def texts_motif(name):
     """Return the restrained Lucide motif for an editorial text."""
     # Lucide outlines; the deployed site carries the project's ISC notice.
@@ -1957,6 +2137,7 @@ def texts_motif(name):
         "star_bond": (star, link),
         "rabbit_heart": (rabbit, heart),
         "window_water": (window, droplet),
+        "river_home": (waves, dwelling),
     }
     if name not in motifs:
         raise ValueError(f"unknown texts motif: {name}")
@@ -2822,6 +3003,7 @@ def apply_text_editorial(body, source, repo_path, treatment):
 
 
 TEXT_EDITORIAL_PAGES = load_texts_editorial()
+NEWS_EDITORIAL = load_news_editorial()
 
 # Every headword's Tengwar hand, as compact placement data over one shared
 # glyph dictionary rather than a full SVG per word: the explorer assembles
@@ -2983,52 +3165,456 @@ for work_index, work in enumerate(TEXTS):
         )
     )
 
+def news_link_arrow():
+    """Return the Lucide arrow used by book and chapter links."""
+    return (
+        '<span class="news-link-arrow" aria-hidden="true">'
+        '<svg viewBox="0 0 24 24" focusable="false">'
+        '<path d="M5 12h14"/><path d="m12 5 7 7-7 7"/>'
+        "</svg></span>"
+    )
+
+
+def split_news_movement_title(title):
+    """Separate a movement's optional Phi title from its English title."""
+    if " — " in title:
+        phi_title, english_title = title.split(" — ", 1)
+        if is_current_phi(phi_title) and english_title.strip():
+            return phi_title, english_title
+    return None, title
+
+
+def news_chapter_map(chapter):
+    """Build a complete movement map for one book chapter."""
+    items = []
+    for index, movement in enumerate(chapter["movements"], 1):
+        phi_title, english_title = split_news_movement_title(movement["title"])
+        phi = (
+            f'<span class="news-map-phi" lang="art-x-phi">'
+            f"{html_module.escape(phi_title)}</span>"
+            if phi_title is not None
+            else ""
+        )
+        items.append(
+            "<li>"
+            f'<a href="#{text_heading_slug(movement["title"])}">'
+            f'<span class="news-map-number">{index:02d}</span>'
+            '<span class="news-map-copy">'
+            f"{phi}"
+            f'<span class="news-map-title">{html_module.escape(english_title)}</span>'
+            "</span>"
+            "</a></li>"
+        )
+    return (
+        '<nav class="news-chapter-map" aria-label="In this chapter">'
+        '<p class="news-chapter-map-label">In this chapter</p>'
+        f'<ol>{"".join(items)}</ol>'
+        "</nav>"
+    )
+
+
+def news_movement_heading(movement, sequence_number):
+    """Build a numbered chapter movement heading without changing its level."""
+    title = movement["title"]
+    phi_title, english_title = split_news_movement_title(title)
+    phi = (
+        f'<span class="news-movement-phi" lang="art-x-phi">'
+        f"{html_module.escape(phi_title)}</span>"
+        if phi_title is not None
+        else ""
+    )
+    level = movement["level"]
+    return (
+        f'<h{level} class="news-movement-heading" '
+        f'id="{text_heading_slug(title)}">'
+        f'<span class="news-movement-number" aria-hidden="true">'
+        f"{sequence_number:02d}</span>"
+        '<span class="news-movement-copy">'
+        f"{phi}"
+        f'<span class="news-movement-english">'
+        f"{html_module.escape(english_title)}</span>"
+        f"</span></h{level}>"
+    )
+
+
+def news_chapter_nav(chapters, index):
+    """Build chapter navigation with the adjacent titles in view."""
+    links = []
+    if index > 0:
+        previous = chapters[index - 1]
+        links.append(
+            f'<a class="news-chapter-prev" '
+            f'href="{Path(previous["file"]).stem}.html">'
+            '<span class="news-nav-direction">&lsaquo; Previous chapter</span>'
+            f'<span class="news-nav-title">{html_module.escape(previous["title"])}</span>'
+            "</a>"
+        )
+    else:
+        links.append('<span class="news-nav-space" aria-hidden="true"></span>')
+    links.append('<a class="news-chapter-contents" href="index.html">Book contents</a>')
+    if index + 1 < len(chapters):
+        following = chapters[index + 1]
+        links.append(
+            f'<a class="news-chapter-next" '
+            f'href="{Path(following["file"]).stem}.html">'
+            '<span class="news-nav-direction">Next chapter &rsaquo;</span>'
+            f'<span class="news-nav-title">{html_module.escape(following["title"])}</span>'
+            "</a>"
+        )
+    else:
+        links.append('<span class="news-nav-space" aria-hidden="true"></span>')
+    return (
+        '<nav class="chapnav news-chapter-nav" aria-label="Book navigation">'
+        + "".join(links)
+        + "</nav>"
+    )
+
+
+def apply_news_chapter_editorial(body, source, chapter, book):
+    """Render one complete chapter and reject any source-shape drift."""
+    repo_path = f'{book["path"]}/{chapter["file"]}'
+    source_title = title_of(source)
+    source_number, source_chapter_title = split_news_chapter_title(
+        source_title,
+        book["phi_title"],
+        book["english_title"],
+        repo_path,
+    )
+    heading = re.search(r"<h1>(.*?)</h1>", body, flags=re.S)
+    if (
+        heading is None
+        or html_module.unescape(heading.group(1)) != source_title
+        or source_number != chapter["number"]
+        or source_chapter_title != chapter["title"]
+    ):
+        raise ValueError(f"News from Nowhere chapter heading differs: {repo_path}")
+    tengwar_title = tengwar.render_line(book["phi_title"])
+    if tengwar_title is None:
+        raise ValueError("News from Nowhere title cannot render in Tengwar")
+    title_class = (
+        " news-chapter-title-long"
+        if len(chapter["title"]) > 30
+        else ""
+    )
+    header = f"""
+<header class="news-chapter-header">
+  <div class="news-chapter-meta">
+    <p class="news-book-kicker"><a href="index.html">{html_module.escape(book["english_title"])}</a></p>
+    <p class="news-chapter-position"><span>Transmutation</span><span>Chapter {chapter["number"]:02d} of {book["total_chapters"]:02d}</span></p>
+  </div>
+  <div class="news-chapter-title-row">
+    <div class="news-chapter-title-copy">
+      <p class="text-phi-title" lang="art-x-phi">{html_module.escape(book["phi_title"])}</p>
+      <h1 class="news-chapter-title{title_class}">{html_module.escape(chapter["title"])}</h1>
+    </div>
+    {texts_motif(book["motif"])}
+  </div>
+  <div class="text-title-tengwar" aria-hidden="true">{tengwar_title}</div>
+</header>""".strip()
+    body = body[:heading.start()] + header + body[heading.end():]
+
+    opening = re.search(
+        r"(</header>)\s*((?:<p>.*?</p>\s*)+)<hr>",
+        body,
+        flags=re.S,
+    )
+    if opening is None:
+        raise ValueError(f"News from Nowhere chapter opening differs: {repo_path}")
+    opening_paragraphs = re.findall(
+        r"<p>(.*?)</p>",
+        opening.group(2),
+        flags=re.S,
+    )
+    opening_paragraphs = [
+        (
+            emphasized.group(1)
+            if (
+                emphasized := re.fullmatch(
+                    r"<em>(.*?)</em>",
+                    paragraph,
+                    flags=re.S,
+                )
+            )
+            else re.sub(r"</?em>", "", paragraph)
+        )
+        for paragraph in opening_paragraphs
+    ]
+    if len(opening_paragraphs) != chapter["opening_paragraphs"]:
+        raise ValueError(
+            f"News from Nowhere opening paragraph count differs in {repo_path}: "
+            f"expected {chapter['opening_paragraphs']}, "
+            f"found {len(opening_paragraphs)}"
+        )
+    reader_notes = "".join(
+        f'<p class="text-reader-note">{paragraph}</p>'
+        for paragraph in opening_paragraphs[1:]
+    )
+    rendered_opening = (
+        f"{opening.group(1)}"
+        '<section class="news-chapter-opening">'
+        '<div class="news-chapter-intro-copy">'
+        f'<p class="text-work-lede">{opening_paragraphs[0]}</p>'
+        f'<div class="text-reader-notes">{reader_notes}</div>'
+        "</div>"
+        f"{news_chapter_map(chapter)}"
+        "</section>"
+    )
+    body = body[:opening.start()] + rendered_opening + body[opening.end():]
+
+    section_specs = [
+        {
+            "kind": "movement",
+            "level": movement["level"],
+            "title": movement["title"],
+            "marker": news_movement_heading(movement, index),
+        }
+        for index, movement in enumerate(chapter["movements"], 1)
+    ]
+    section_specs.append(
+        {
+            "kind": "apparatus",
+            "level": 2,
+            "title": chapter["apparatus"],
+            "marker": text_method_heading(
+                chapter["apparatus"],
+                "apparatus",
+                "transmutation",
+            ),
+        }
+    )
+    for section in section_specs:
+        original = (
+            f'<h{section["level"]}>'
+            f'{html_module.escape(section["title"], quote=False)}'
+            f'</h{section["level"]}>'
+        )
+        if body.count(original) != 1:
+            raise ValueError(
+                f"News from Nowhere section heading differs in {repo_path}: "
+                f"{section['title']}"
+            )
+        body = body.replace(original, section["marker"])
+
+    if body.count("<hr>") != chapter["inner_dividers"]:
+        raise ValueError(
+            f"News from Nowhere divider count differs in {repo_path}: "
+            f"expected {chapter['inner_dividers']}, found {body.count('<hr>')}"
+        )
+    positions = [body.index(section["marker"]) for section in section_specs]
+    prefix = body[:positions[0]]
+    rendered_sections = []
+    removed_dividers = 0
+    for index, section_spec in enumerate(section_specs):
+        end = positions[index + 1] if index + 1 < len(positions) else len(body)
+        section = body[positions[index]:end]
+        section, removed = re.subn(r"\s*<hr>\s*$", "", section)
+        removed_dividers += removed
+        if section_spec["kind"] == "movement":
+            level_class = f'news-movement-level-{section_spec["level"]}'
+            rendered_sections.append(
+                f'<section class="news-movement {level_class}">{section}</section>'
+            )
+        else:
+            rendered_sections.append(
+                f'<section class="text-apparatus news-apparatus">{section}</section>'
+            )
+    body = prefix + "".join(rendered_sections)
+    if removed_dividers != chapter["inner_dividers"] or "<hr>" in body:
+        raise ValueError(f"News from Nowhere left an untreated divider in {repo_path}")
+
+    fence_treatment = {
+        "interlinear_blocks": chapter["interlinear_blocks"],
+        "interlinear_stanzas": chapter["interlinear_stanzas"],
+        "source_free_blocks": 0,
+        "source_free_stanzas": 0,
+        "complete_readings": 0,
+    }
+    body = style_text_fences(body, repo_path, fence_treatment)
+    body, note_count = re.subn(
+        r"<p><strong>Notes:</strong>\s*(.*?)</p>",
+        (
+            '<aside class="text-notes">'
+            '<p><span class="text-notes-label">Notes:</span> '
+            r"\1</p></aside>"
+        ),
+        body,
+        flags=re.S,
+    )
+    if note_count != chapter["notes"]:
+        raise ValueError(
+            f"News from Nowhere note count differs in {repo_path}: "
+            f"expected {chapter['notes']}, found {note_count}"
+        )
+    body = style_text_tables(body, repo_path, chapter)
+    body = body.replace(r"\<code>", "<code>").replace(r"\</code>", "</code>")
+    return mark_text_inline_phi(body)
+
+
+def news_book_index(readme_source, book):
+    """Build the book's landing page from its README and strict chapter data."""
+    body = md_to_html(readme_source)
+    body = re.sub(
+        r'href="(chapter_[0-9]+)\.md"',
+        r'href="\1.html"',
+        body,
+    )
+    body = body.replace(
+        'href="source.txt"',
+        'href="https://github.com/dcellison/phi/blob/main/texts/news_from_nowhere/source.txt"',
+    )
+    match = re.fullmatch(
+        r"<h1><em>(.*?)</em></h1>\s*"
+        r"<p>(.*?)</p>\s*"
+        r"<h2>Chapters</h2>\s*"
+        r"<table>(.*?)</table>",
+        body.strip(),
+        flags=re.S,
+    )
+    if match is None or html_module.unescape(match.group(1)) != book["english_title"]:
+        raise ValueError("News from Nowhere README structure differs")
+    rows = re.findall(r"<tr>(.*?)</tr>", match.group(3), flags=re.S)
+    if not rows:
+        raise ValueError("News from Nowhere README has no chapter table")
+    headers = re.findall(r"<th>(.*?)</th>", rows[0], flags=re.S)
+    if headers != ["Chapter", "Title", "Text"]:
+        raise ValueError("News from Nowhere README chapter headers differ")
+    if len(rows) - 1 != len(book["chapters"]):
+        raise ValueError("News from Nowhere README chapter count differs")
+    for row, chapter in zip(rows[1:], book["chapters"]):
+        cells = re.findall(r"<td>(.*?)</td>", row, flags=re.S)
+        expected_link = (
+            f'<a href="{Path(chapter["file"]).stem}.html">'
+            f'Read chapter {chapter["number"]}</a>'
+        )
+        if cells != [
+            str(chapter["number"]),
+            chapter["title"],
+            expected_link,
+        ]:
+            raise ValueError(
+                f'News from Nowhere README row differs: {chapter["file"]}'
+            )
+
+    tengwar_title = tengwar.render_line(book["phi_title"])
+    if tengwar_title is None:
+        raise ValueError("News from Nowhere title cannot render in Tengwar")
+    available = len(book["chapters"])
+    chapter_rows = []
+    for chapter in book["chapters"]:
+        movement_noun = "movement" if len(chapter["movements"]) == 1 else "movements"
+        passage_noun = (
+            "passage" if chapter["interlinear_stanzas"] == 1 else "passages"
+        )
+        chapter_rows.append(
+            '<li class="news-book-chapter">'
+            f'<a href="{Path(chapter["file"]).stem}.html">'
+            f'<span class="news-book-chapter-number">'
+            f'{chapter["number"]:02d}</span>'
+            '<div class="news-book-chapter-copy">'
+            f'<p class="news-book-chapter-label">Chapter '
+            f'{chapter["number"]:02d}</p>'
+            f'<h3>{html_module.escape(chapter["title"])}</h3>'
+            f'<p class="news-book-chapter-summary">'
+            f'{html_module.escape(chapter["summary"])}</p>'
+            "</div>"
+            '<div class="news-book-chapter-meta">'
+            f'<p>{len(chapter["movements"]):02d} {movement_noun}</p>'
+            f'<p>{chapter["interlinear_stanzas"]:03d} {passage_noun}</p>'
+            "</div>"
+            f"{news_link_arrow()}"
+            "</a></li>"
+        )
+    return (
+        '<header class="news-book-header">'
+        '<div class="news-book-meta">'
+        '<p class="text-shelf-label">Phi texts</p>'
+        '<p class="news-book-method">Transmutation</p>'
+        "</div>"
+        '<div class="news-book-title-row">'
+        '<div class="news-book-title-copy">'
+        f'<p class="text-phi-title" lang="art-x-phi">'
+        f'{html_module.escape(book["phi_title"])}</p>'
+        f'<h1>{html_module.escape(book["english_title"])}</h1>'
+        '<p class="news-book-author">William Morris</p>'
+        "</div>"
+        f'{texts_motif(book["motif"])}'
+        "</div>"
+        f'<div class="text-title-tengwar" aria-hidden="true">{tengwar_title}</div>'
+        "</header>"
+        '<section class="news-book-opening" data-reader-home>'
+        f'<p class="news-book-lede">{match.group(2)}</p>'
+        "</section>"
+        '<section class="news-book-status" aria-labelledby="news-book-status-heading">'
+        '<div class="news-book-status-copy">'
+        '<p class="news-book-status-label" id="news-book-status-heading">'
+        "Book in progress</p>"
+        f'<p class="news-book-status-count"><strong>{available:02d}</strong> '
+        f'<span>of {book["total_chapters"]:02d} chapters</span></p>'
+        "</div>"
+        f'<progress max="{book["total_chapters"]}" value="{available}">'
+        f'{available} of {book["total_chapters"]} chapters</progress>'
+        "</section>"
+        '<section class="news-book-catalogue" '
+        'aria-labelledby="news-book-catalogue-heading">'
+        '<header class="news-book-section-heading">'
+        '<p class="news-book-section-label">Current transmutation</p>'
+        '<h2 id="news-book-catalogue-heading">Chapters available</h2>'
+        "</header>"
+        f'<ol class="news-book-chapter-list">{"".join(chapter_rows)}</ol>'
+        "</section>"
+    )
+
+
 NEWS_SRC = ROOT / "texts" / NEWS_WORK["path"]
 NEWS_OUT = TEXTS_OUT / NEWS_WORK["path"]
 prepare_html_output(NEWS_OUT)
-news_chapters = sorted(NEWS_SRC.glob("chapter_*.md"))
-for i, chapter in enumerate(news_chapters):
-    chapter_number = int(chapter.stem.split("_")[1])
-    chapter_title = title_of(chapter.read_text())
-    rendered = md_to_html(chapter.read_text()).replace(
-        "</h1>", f'</h1>\n<p class="text-method">{NEWS_WORK["method"]}</p>', 1
+news_chapters = [
+    NEWS_SRC / chapter["file"]
+    for chapter in NEWS_EDITORIAL["chapters"]
+]
+for chapter_index, (chapter_path, chapter) in enumerate(
+    zip(news_chapters, NEWS_EDITORIAL["chapters"])
+):
+    chapter_source = chapter_path.read_text(encoding="utf-8")
+    rendered = apply_news_chapter_editorial(
+        md_to_html(chapter_source),
+        chapter_source,
+        chapter,
+        NEWS_EDITORIAL,
     )
-    prev_number = (
-        int(news_chapters[i - 1].stem.split("_")[1]) if i > 0 else None
+    chapter_nav = news_chapter_nav(NEWS_EDITORIAL["chapters"], chapter_index)
+    page_title = (
+        f'{NEWS_EDITORIAL["english_title"]}, chapter '
+        f'{chapter["number"]}: {chapter["title"]}'
     )
-    next_number = (
-        int(news_chapters[i + 1].stem.split("_")[1])
-        if i + 1 < len(news_chapters)
-        else None
-    )
-    prev_link = (
-        f'<a href="{news_chapters[i - 1].stem}.html">'
-        f'&lsaquo; Chapter {prev_number}</a>'
-        if prev_number is not None else ""
-    )
-    next_link = (
-        f'<a href="{news_chapters[i + 1].stem}.html">'
-        f'Chapter {next_number} &rsaquo;</a>'
-        if next_number is not None else ""
-    )
-    chapter_nav = f'<div class="chapnav">{prev_link}<a href="index.html">book contents</a>{next_link}</div>'
-    (NEWS_OUT / f"{chapter.stem}.html").write_text(
-        texts_page(rendered, chapter_title, depth=2, footer_nav=chapter_nav)
+    (NEWS_OUT / f"{chapter_path.stem}.html").write_text(
+        texts_page(
+            rendered,
+            page_title,
+            depth=2,
+            footer_nav=chapter_nav,
+            editorial_kind="news-chapter",
+            editorial_motif=NEWS_EDITORIAL["motif"],
+        )
     )
 
-news_readme = md_to_html((NEWS_SRC / "README.md").read_text())
-news_readme = news_readme.replace(
-    "</h1>", f'</h1>\n<p class="text-method">{NEWS_WORK["method"]}</p>', 1
+news_index = news_book_index(
+    (NEWS_SRC / "README.md").read_text(encoding="utf-8"),
+    NEWS_EDITORIAL,
 )
-news_readme = re.sub(
-    r'href="(chapter_[0-9]+)\.md"', r'href="\1.html"', news_readme
-)
-news_readme = news_readme.replace(
-    'href="source.txt"',
-    'href="https://github.com/dcellison/phi/blob/main/texts/news_from_nowhere/source.txt"',
+news_index_nav = (
+    '<nav class="chapnav news-book-footer-nav" aria-label="Text navigation">'
+    '<a href="../index.html">All texts</a></nav>'
 )
 (NEWS_OUT / "index.html").write_text(
-    texts_page(news_readme, "News from Nowhere", depth=2)
+    texts_page(
+        news_index,
+        NEWS_EDITORIAL["english_title"],
+        depth=2,
+        footer_nav=news_index_nav,
+        editorial_kind="news-book",
+        editorial_motif=NEWS_EDITORIAL["motif"],
+    )
 )
 
 TEXT_CONTENTS_METHODS = (
