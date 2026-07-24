@@ -4203,10 +4203,8 @@ table.text-ledger {
   gap: .55rem;
   margin: 0;
 }
-.pamphlet-header-meta p:first-child span + span::before {
+.pamphlet-meta-separator {
   color: var(--gold);
-  content: "·";
-  margin-right: .55rem;
 }
 .pamphlet-shelf-label {
   color: var(--gold);
@@ -4248,19 +4246,33 @@ table.text-ledger {
   justify-content: end;
   padding-bottom: .2rem;
 }
-.pamphlet-page-motif svg {
-  fill: none;
+.pamphlet-page-motif::before,
+.pamphlet-page-motif::after {
+  background: currentColor;
+  content: "";
+  display: block;
+  flex: 0 0 auto;
   height: 3.6rem;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  stroke-width: 1.25;
+  -webkit-mask-position: center;
+  mask-position: center;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  mask-size: contain;
   width: 3.6rem;
 }
-.pamphlet-page-motif svg + svg {
-  color: var(--gold);
+.pamphlet-page-motif::before {
+  --pamphlet-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2024%2024%27%20fill%3D%27none%27%20stroke%3D%27black%27%20stroke-linecap%3D%27round%27%20stroke-linejoin%3D%27round%27%20stroke-width%3D%271.25%27%3E%3Cpath%20d%3D%27m12.83%202.18a2%202%200%200%200-1.66%200L2.6%206.08a1%201%200%200%200%200%201.83l8.58%203.91a2%202%200%200%200%201.66%200l8.58-3.9a1%201%200%200%200%200-1.83z%27%2F%3E%3Cpath%20d%3D%27m22%2012.5-9.17%204.17a2%202%200%200%201-1.66%200L2%2012.5%27%2F%3E%3Cpath%20d%3D%27m22%2017.5-9.17%204.17a2%202%200%200%201-1.66%200L2%2017.5%27%2F%3E%3C%2Fsvg%3E");
+  -webkit-mask-image: var(--pamphlet-icon);
+  mask-image: var(--pamphlet-icon);
+}
+.pamphlet-page-motif::after {
+  --pamphlet-icon: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2024%2024%27%20fill%3D%27none%27%20stroke%3D%27black%27%20stroke-linecap%3D%27round%27%20stroke-linejoin%3D%27round%27%20stroke-width%3D%271.25%27%3E%3Cpath%20d%3D%27m3%207%202%202%204-4%27%2F%3E%3Cpath%20d%3D%27m3%2017%202%202%204-4%27%2F%3E%3Cpath%20d%3D%27M13%206h8%27%2F%3E%3Cpath%20d%3D%27M13%2012h8%27%2F%3E%3Cpath%20d%3D%27M13%2018h8%27%2F%3E%3C%2Fsvg%3E");
+  background: var(--gold);
   height: 2.5rem;
   margin-left: -.35rem;
+  -webkit-mask-image: var(--pamphlet-icon);
+  mask-image: var(--pamphlet-icon);
   width: 2.5rem;
 }
 .pamphlet-progress {
@@ -4293,6 +4305,7 @@ table.text-ledger {
   text-align: center;
   text-decoration: none;
 }
+.pamphlet-reading-rail a::before { content: attr(data-page); }
 .pamphlet-reading-rail a:first-child { border-left: 1px solid var(--hairline); }
 .pamphlet-reading-rail a:hover { color: var(--sage); }
 .pamphlet-reading-rail a.current {
@@ -4666,11 +4679,11 @@ table.text-ledger {
     word-break: normal;
   }
   .pamphlet-subtitle { grid-column: 1 / -1; }
-  .pamphlet-page-motif svg {
+  .pamphlet-page-motif::before {
     height: 2.35rem;
     width: 2.35rem;
   }
-  .pamphlet-page-motif svg + svg {
+  .pamphlet-page-motif::after {
     height: 1.6rem;
     width: 1.6rem;
   }
