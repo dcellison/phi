@@ -2,6 +2,8 @@
 
 *One word this chapter, and a game to learn it with.* **rena** *opens a describing-clause that stands before a noun, the way every describing thing in Phi stands before what it describes:* rena *[clause] noun. No closer needed: the noun itself shuts the door. The children invent a guessing game:*
 
+*These square brackets are the lesson's pencil marks. They help the eye find the clause; speech and ordinary romanized or Tengwar writing keep only what is inside.*
+
 ## I
 
 > lopia: **rena sulopa ro pilewa miona.**

@@ -2,6 +2,8 @@
 
 One page of the whole system. Details: `documents/grammar/`; authority order: `/canon.md`.
 
+Notation: the diagrams use square brackets to show the span of a slot, constituent, clause, or understood gap. The marks are editorial; Phi speakers pronounce only their contents, and ordinary romanized or Tengwar writing omits them. Parentheses inside a template mark optional material.
+
 ## The organizing principle
 
 **Every element that modifies, specifies, or relates comes BEFORE what it affects.** Everything below is this principle applied.
