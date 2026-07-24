@@ -5221,6 +5221,7 @@ def load_pamphlet_editorial():
                 "source_beside",
                 "audible_boundaries",
                 "written_hands",
+                "ternary_scale",
             }
         ):
             raise ValueError(
@@ -5326,6 +5327,7 @@ def pamphlet_motif(name):
         "source_beside",
         "audible_boundaries",
         "written_hands",
+        "ternary_scale",
     }:
         raise ValueError(f"unknown pamphlet motif: {name}")
     return '<div class="pamphlet-page-motif" aria-hidden="true"></div>'
@@ -5454,6 +5456,178 @@ def style_pamphlet_tables(body, title):
 def style_pamphlet_examples(body):
     """Use the interlinear parser with workbook-specific presentation."""
     return rename_manual_editorial_classes(style_manual_examples(body))
+
+
+def style_pamphlet_ternary_drills(body, title):
+    """Turn bare numeral drills into readable correspondence and recital grids."""
+    pair_count = 0
+    recital_count = 0
+
+    def style_block(match):
+        nonlocal pair_count, recital_count
+        block = match.group(1)
+        lines = [line for line in block.splitlines() if line.strip()]
+        pairs = [
+            re.fullmatch(r"(.+?)\s{2,}\N{EM DASH}\s+(\d+)", line)
+            for line in lines
+        ]
+        if lines and all(pair is not None for pair in pairs):
+            if not all(is_current_phi(pair.group(1)) for pair in pairs):
+                raise ValueError(
+                    f"ternary correspondence drill contains non-Phi: {title}"
+                )
+            pair_count += 1
+            rows = "".join(
+                "<div>"
+                f'<dt><code lang="art-x-phi">{pair.group(1)}</code></dt>'
+                f"<dd>{pair.group(2)}</dd>"
+                "</div>"
+                for pair in pairs
+            )
+            return (
+                '<dl class="pamphlet-number-drill" '
+                'aria-label="Phi numeral recognition drill">'
+                f"{rows}</dl>"
+            )
+        if len(lines) >= 2 and all(is_current_phi(line) for line in lines):
+            recital_count += 1
+            entries = "".join(
+                f'<code lang="art-x-phi">{line}</code>' for line in lines
+            )
+            return (
+                '<div class="pamphlet-number-recital" role="group" '
+                'aria-label="Phi numeral reading drill">'
+                f"{entries}</div>"
+            )
+        return match.group(0)
+
+    body = re.sub(r"<pre>(.*?)</pre>", style_block, body, flags=re.S)
+    expected_pairs = 1 if title == "Part 1: Counting in threes" else 0
+    expected_recitals = 1 if title == "Part 2: Climbing the scale" else 0
+    if pair_count != expected_pairs or recital_count != expected_recitals:
+        raise ValueError(
+            f"ternary numeral drill count changed: {title} "
+            f"({pair_count} correspondences, {recital_count} recitals)"
+        )
+    return body
+
+
+def style_pamphlet_ternary_worked_numbers(body, title):
+    """Set worked decompositions apart without changing their explanation."""
+    body, count = re.subn(
+        r"<p><strong>Worked:</strong>\s*(.*?)</p>",
+        r'<div class="pamphlet-worked-number">'
+        r"<p><span>Worked</span>\1</p></div>",
+        body,
+        flags=re.S,
+    )
+    expected = 2 if title == "Part 2: Climbing the scale" else 0
+    if count != expected:
+        raise ValueError(
+            f"ternary worked-example count changed: {title} ({count})"
+        )
+    return body
+
+
+def style_pamphlet_ternary_dialogue_examples(body, title):
+    """Keep the market's spoken exchange inside the interlinear treatment."""
+    count = 0
+
+    def style_block(match):
+        nonlocal count
+        block = match.group(1)
+        groups = [
+            group.splitlines()
+            for group in re.split(r"\n\s*\n", block.strip())
+        ]
+        if not any(
+            lines and f" {chr(0x2014)} " in lines[0]
+            for lines in groups
+        ):
+            return match.group(0)
+        figures = []
+        for lines in groups:
+            if len(lines) != 3:
+                raise ValueError(
+                    f"ternary dialogue example has the wrong depth: {title}"
+                )
+            phi_parts = [
+                html_module.unescape(part)
+                for part in lines[0].split(f" {chr(0x2014)} ")
+            ]
+            if not all(is_current_phi_passage(part) for part in phi_parts):
+                raise ValueError(
+                    f"ternary dialogue example contains non-Phi: {title}"
+                )
+            dialogue_class = (
+                " pamphlet-dialogue-example"
+                if len(phi_parts) > 1
+                else ""
+            )
+            figures.append(
+                f'<figure class="pamphlet-example{dialogue_class}" '
+                'aria-label="Interlinear example">'
+                f'<p class="pamphlet-example-phi" lang="art-x-phi">'
+                f"{lines[0]}</p>"
+                f'<p class="pamphlet-example-gloss">{lines[1]}</p>'
+                f"<figcaption>{lines[2]}</figcaption>"
+                "</figure>"
+            )
+        count += 1
+        return (
+            '<div class="pamphlet-example-set" role="group" '
+            'aria-label="Interlinear examples">'
+            + "".join(figures)
+            + "</div>"
+        )
+
+    body = re.sub(r"<pre>(.*?)</pre>", style_block, body, flags=re.S)
+    expected = 1 if title == "Part 7: Market day" else 0
+    if count != expected:
+        raise ValueError(
+            f"ternary dialogue-example count changed: {title} ({count})"
+        )
+    return body
+
+
+def style_pamphlet_ternary_answer_parts(body, title):
+    """Restore inline answer labels as real divisions in the answer key."""
+    if title != "Part 9: Exercises":
+        return body
+    if body.count("<h2>Answer key</h2>") != 1:
+        raise ValueError("ternary exercises need one answer key")
+    before_key, after_key = body.split("<h2>Answer key</h2>")
+    pattern = re.compile(
+        r"<p><strong>(Part [A-F](?:, deferred from Part \d+)?)\."
+        r"</strong>\s*(.*?)</p>",
+        flags=re.S,
+    )
+    labels = [match.group(1) for match in pattern.finditer(after_key)]
+    expected = [
+        "Part A",
+        "Part B",
+        "Part B, deferred from Part 2",
+        "Part C",
+        "Part C, deferred from Part 3",
+        "Part D",
+        "Part E",
+        "Part E, deferred from Part 4",
+        "Part E, deferred from Part 6",
+        "Part F",
+    ]
+    if labels != expected:
+        raise ValueError(
+            f"ternary answer divisions changed: {labels!r}"
+        )
+    after_key = pattern.sub(
+        lambda match: (
+            f"<h3>{match.group(1)}</h3><p>{match.group(2).strip()}</p>"
+        ),
+        after_key,
+    )
+    if re.search(r"<strong>Part [A-F]", after_key):
+        raise ValueError("ternary answer division remained inline")
+    return before_key + "<h2>Answer key</h2>" + after_key
 
 
 def style_pamphlet_dual_examples(body, title):
@@ -5635,7 +5809,7 @@ def style_pamphlet_sections(body, variant, heading_level):
         content = body[match.end():end]
         if variant == "exercises" and answer_section:
             content = re.sub(
-                r"<h3>(Part [A-Z](?:: .*?)?)</h3>",
+                r"<h3>(Part [A-Z](?:(?::|,) .*?)?)</h3>",
                 r'<h3 class="pamphlet-answer-part">'
                 r"<span>Answers</span>\1</h3>",
                 content,
@@ -5842,7 +6016,8 @@ def style_pamphlet_opening(body, directory, paths, titles):
         + body[contents_match.end():]
     )
     body, outcome_count = re.subn(
-        r"<p>(By the end of this pamphlet, you will be able to:)</p>\s*"
+        r"<p>(By the end of this pamphlet, you will"
+        r"(?: be able to)?:)</p>\s*"
         r"(<ul>.*?</ul>)",
         r'<div class="pamphlet-outcomes"><p>\1</p>\2</div>',
         body,
@@ -5850,7 +6025,7 @@ def style_pamphlet_opening(body, directory, paths, titles):
         flags=re.S,
     )
     if (
-        "By the end of this pamphlet, you will be able to:" in body
+        "By the end of this pamphlet, you will" in body
         and outcome_count != 1
     ):
         raise ValueError("pamphlet opening outcome boundary changed")
@@ -5901,6 +6076,11 @@ def apply_pamphlet_editorial(
     body = mark_pamphlet_inline_phi(body)
     body = mark_manual_inline_phi(body)
     body = style_pamphlet_tables(body, title)
+    motif = PAMPHLET_GROUPS[pamphlet["directory"]]["motif"]
+    if motif == "ternary_scale":
+        body = style_pamphlet_ternary_drills(body, title)
+        body = style_pamphlet_ternary_worked_numbers(body, title)
+        body = style_pamphlet_ternary_dialogue_examples(body, title)
     body = (
         style_pamphlet_dual_examples(body, title)
         if pamphlet["dual_script"]
@@ -5921,6 +6101,8 @@ def apply_pamphlet_editorial(
             body = before_key + "<h2>Answer key</h2>" + after_key
         if pamphlet["dual_script"]:
             body = style_pamphlet_bold_exercise_parts(body, title)
+        if motif == "ternary_scale":
+            body = style_pamphlet_ternary_answer_parts(body, title)
     if treatment["variant"] == "reference":
         if (
             not body.lstrip().startswith(
@@ -5959,7 +6141,6 @@ def apply_pamphlet_editorial(
             body = style_pamphlet_answer_glosses(body)
             body = style_pamphlet_answer_runs(body)
 
-    motif = PAMPHLET_GROUPS[pamphlet["directory"]]["motif"]
     position = f"Reading {index + 1} of {len(paths)}"
     subtitle_html = (
         f'<p class="pamphlet-subtitle">{subtitle}</p>'
