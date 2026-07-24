@@ -177,6 +177,64 @@
       "tables": 2,
       "pillar_sections": 5,
       "inner_dividers": 1
+    },
+    "texts/prophet_excerpts.md": {
+      "form": "collection",
+      "phi_title": "phewo phelui",
+      "motif": "words_seed",
+      "sections": [
+        {
+          "title": "On love: transmutation",
+          "kind": "transmutation"
+        },
+        {
+          "title": "On children: close translation",
+          "kind": "translation"
+        },
+        {
+          "title": "On children: transmutation",
+          "kind": "transmutation"
+        },
+        {
+          "title": "On children: what changes between the two renderings",
+          "kind": "comparison"
+        },
+        {
+          "title": "On giving: transmutation",
+          "kind": "transmutation"
+        },
+        {
+          "title": "What the transmutations changed",
+          "kind": "collection_detail"
+        }
+      ],
+      "reading_map": [
+        {
+          "label": "On love",
+          "method": "Transmutation",
+          "target": "On love: transmutation"
+        },
+        {
+          "label": "On children",
+          "method": "Translation + transmutation",
+          "target": "On children: close translation"
+        },
+        {
+          "label": "On giving",
+          "method": "Transmutation",
+          "target": "On giving: transmutation"
+        }
+      ],
+      "opening_paragraphs": 3,
+      "interlinear_blocks": 7,
+      "interlinear_stanzas": 52,
+      "source_free_blocks": 0,
+      "source_free_stanzas": 0,
+      "complete_readings": 1,
+      "notes": 7,
+      "tables": 2,
+      "pillar_sections": 5,
+      "inner_dividers": 0
     }
   }
 }
