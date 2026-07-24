@@ -2169,8 +2169,7 @@ def text_method_heading(title, kind, form):
         teaching, method = title.split(": ", 1)
         heading = (
             '<span class="text-heading-copy">'
-            f'<span class="text-teaching-name">{html_module.escape(teaching)}</span>'
-            '<span class="visually-hidden">: </span>'
+            f'<span class="text-teaching-name">{html_module.escape(teaching)}:</span> '
             f'<span class="text-rendering-kind">{html_module.escape(method)}</span>'
             "</span>"
         )
