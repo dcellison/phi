@@ -1555,6 +1555,15 @@ import tengwar
 
 PHI_WORDS = {e["word"] for e in entries}
 
+TEXT_MOTIFS = {
+    "wind_sun",
+    "people_equal",
+    "dwelling_garden",
+    "wool_journey",
+    "water_open",
+    "lotus_circle",
+}
+
 
 def load_texts_editorial():
     """Load opt-in literary treatments and reject stale source assumptions."""
@@ -1573,10 +1582,16 @@ def load_texts_editorial():
         "phi_title",
         "motif",
         "sections",
+        "opening_paragraphs",
         "interlinear_blocks",
+        "interlinear_stanzas",
+        "source_free_blocks",
+        "source_free_stanzas",
         "complete_readings",
+        "notes",
         "tables",
         "pillar_sections",
+        "inner_dividers",
     }
     for repo_path, treatment in pages.items():
         if (
@@ -1592,7 +1607,7 @@ def load_texts_editorial():
             )
         if treatment["form"] != "paired":
             raise ValueError(f"unknown texts editorial form: {treatment['form']}")
-        if treatment["motif"] != "wind_sun":
+        if treatment["motif"] not in TEXT_MOTIFS:
             raise ValueError(f"unknown texts editorial motif: {treatment['motif']}")
         work = catalogued[repo_path]
         if work["method"] != "Translation + transmutation":
@@ -1616,21 +1631,54 @@ def load_texts_editorial():
 
         sections = treatment["sections"]
         source_sections = re.findall(r"^## (.+)$", source, flags=re.M)
+        section_fields = {"title", "kind"}
+        section_kinds = {
+            "translation",
+            "translation_detail",
+            "transmutation",
+            "comparison",
+        }
         if (
             not isinstance(sections, list)
             or not sections
-            or len(sections) != len(set(sections))
-            or any(not isinstance(section, str) or not section for section in sections)
-            or sections != source_sections
+            or any(
+                not isinstance(section, dict)
+                or set(section) != section_fields
+                or not isinstance(section["title"], str)
+                or not section["title"]
+                or section["kind"] not in section_kinds
+                for section in sections
+            )
+            or len({section["title"] for section in sections}) != len(sections)
+            or [section["title"] for section in sections] != source_sections
         ):
             raise ValueError(
                 f"texts editorial sections differ from the source: {repo_path}"
             )
+        major_sections = [
+            section for section in sections
+            if section["kind"] != "translation_detail"
+        ]
+        if [section["kind"] for section in major_sections] != [
+            "translation",
+            "transmutation",
+            "comparison",
+        ]:
+            raise ValueError(
+                f"paired texts editorial sections have the wrong method order: "
+                f"{repo_path}"
+            )
         for field in (
+            "opening_paragraphs",
             "interlinear_blocks",
+            "interlinear_stanzas",
+            "source_free_blocks",
+            "source_free_stanzas",
             "complete_readings",
+            "notes",
             "tables",
             "pillar_sections",
+            "inner_dividers",
         ):
             if not isinstance(treatment[field], int) or treatment[field] < 0:
                 raise ValueError(
@@ -1643,8 +1691,6 @@ def load_texts_editorial():
 
 def texts_motif(name):
     """Return the restrained Lucide motif for an editorial text."""
-    if name != "wind_sun":
-        raise ValueError(f"unknown texts motif: {name}")
     # Lucide outlines; the deployed site carries the project's ISC notice.
     wind = """
     <path d="M12.8 19.6A2 2 0 1 0 14 16H2"/>
@@ -1656,10 +1702,51 @@ def texts_motif(name):
     <path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/>
     <path d="M2 12h2"/><path d="M20 12h2"/>
     <path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/>"""
+    people = """
+    <path d="M18 21a8 8 0 0 0-16 0"/>
+    <circle cx="10" cy="8" r="5"/>
+    <path d="M22 20c0-3.37-2-6.5-4-8a5 5 0 0 0-.45-8.3"/>"""
+    equal = """
+    <path d="M5 9h14"/>
+    <path d="M5 15h14"/>"""
+    dwelling = """
+    <path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"/>
+    <path d="M3 10a2 2 0 0 1 .71-1.53l7-6a2 2 0 0 1 2.58 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>"""
+    sprout = """
+    <path d="M7 20h8"/>
+    <path d="M10 20c5.5-2.5.8-6.4 3-10"/>
+    <path d="M9.5 9.4c1.1.8 1.8 2.2 2.3 3.7-2 .4-3.5 0-4.6-.7-1.1-.8-1.8-2.2-2.3-3.7 2-.4 3.5 0 4.6.7z"/>
+    <path d="M14.1 6a7 7 0 0 0-1.9 2.8c1.7.3 3.1 0 4.1-.7 1-.7 1.6-1.9 2-3.3-1.8-.3-3.2 0-4.2.7z"/>"""
+    waves = """
+    <path d="M2 6c.6.5 1.2 1 2.5 1C7 7 7 5 9.5 5s2.5 2 5 2 2.5-2 5-2c1.3 0 1.9.5 2.5 1"/>
+    <path d="M2 12c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2s2.5 2 5 2 2.5-2 5-2c1.3 0 1.9.5 2.5 1"/>
+    <path d="M2 18c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2s2.5 2 5 2 2.5-2 5-2c1.3 0 1.9.5 2.5 1"/>"""
+    journey = """
+    <path d="M18 8l4 4-4 4"/>
+    <path d="M2 12h20"/>"""
+    circle = """
+    <circle cx="12" cy="12" r="9"/>"""
+    lotus = """
+    <path d="M12 5a3 3 0 1 1 3 3m-3-3a3 3 0 1 0-3 3m3-3v1M9 8a3 3 0 1 0 3 3M9 8h1m5 0a3 3 0 1 1-3 3m3-3h-1m-2 3v-1"/>
+    <circle cx="12" cy="8" r="2"/>
+    <path d="M12 10v12"/>
+    <path d="M12 22c4.2 0 7-1.667 7-5-4.2 0-7 1.667-7 5Z"/>
+    <path d="M12 22c-4.2 0-7-1.667-7-5 4.2 0 7 1.667 7 5Z"/>"""
+    motifs = {
+        "wind_sun": (wind, sun),
+        "people_equal": (people, equal),
+        "dwelling_garden": (dwelling, sprout),
+        "wool_journey": (waves, journey),
+        "water_open": (waves, circle),
+        "lotus_circle": (circle, lotus),
+    }
+    if name not in motifs:
+        raise ValueError(f"unknown texts motif: {name}")
+    first, second = motifs[name]
     return (
-        '<div class="text-work-motif" aria-hidden="true">'
-        f'<svg viewBox="0 0 24 24" focusable="false">{wind}</svg>'
-        f'<svg viewBox="0 0 24 24" focusable="false">{sun}</svg>'
+        f'<div class="text-work-motif text-work-motif-{name}" aria-hidden="true">'
+        f'<svg viewBox="0 0 24 24" focusable="false">{first}</svg>'
+        f'<svg viewBox="0 0 24 24" focusable="false">{second}</svg>'
         "</div>"
     )
 
@@ -1701,13 +1788,17 @@ def text_heading_slug(title):
 
 def text_reading_map(sections):
     """Build the major-section map shown before a treated literary work."""
+    major_sections = [
+        section for section in sections
+        if section["kind"] != "translation_detail"
+    ]
     links = []
-    for index, section in enumerate(sections, 1):
+    for index, section in enumerate(major_sections, 1):
         links.append(
             "<li>"
-            f'<a href="#{text_heading_slug(section)}">'
+            f'<a href="#{text_heading_slug(section["title"])}">'
             f'<span class="text-map-number">{index:02d}</span>'
-            f"<span>{html_module.escape(section)}</span>"
+            f'<span>{html_module.escape(section["title"])}</span>'
             "</a></li>"
         )
     return (
@@ -1718,9 +1809,60 @@ def text_reading_map(sections):
     )
 
 
+def is_text_phi_passage(value):
+    """Accept current Phi plus the square brackets used to expose clause shape."""
+    text = html_module.unescape(value).strip()
+    depth = 0
+    for character in text:
+        if character == "[":
+            depth += 1
+        elif character == "]":
+            depth -= 1
+            if depth < 0:
+                return False
+    if depth != 0:
+        return False
+    unbracketed = re.sub(r"\s+", " ", text.replace("[", "").replace("]", ""))
+    return is_current_phi_passage(unbracketed)
+
+
 def style_text_fences(body, repo_path, treatment):
     """Turn a paired work's exact fences into readings and interlinear rows."""
-    counts = {"interlinear_blocks": 0, "complete_readings": 0}
+    counts = {
+        "interlinear_blocks": 0,
+        "interlinear_stanzas": 0,
+        "source_free_blocks": 0,
+        "source_free_stanzas": 0,
+        "complete_readings": 0,
+    }
+
+    def stanza(phi, gloss, literal, source_name=None, source_line=None):
+        source = ""
+        class_name = "text-stanza"
+        if source_name is not None:
+            source = (
+                '<p class="text-source-line">'
+                f'<span class="text-source-name">{source_name}:</span> '
+                f"<span>{source_line}</span></p>"
+            )
+        else:
+            class_name += " text-stanza-source-free"
+        return (
+            f'<figure class="{class_name}">'
+            '<div class="text-stanza-language">'
+            f'<p class="text-phi-line" lang="art-x-phi">{phi}</p>'
+            '<p class="text-gloss-line">'
+            '<span class="visually-hidden">Word-by-word gloss: </span>'
+            f"{gloss}</p>"
+            "</div>"
+            "<figcaption>"
+            '<p class="text-literal-line">'
+            '<span class="visually-hidden">Literal English: </span>'
+            f"{literal}</p>"
+            f"{source}"
+            "</figcaption>"
+            "</figure>"
+        )
 
     def convert(match):
         raw = match.group(1).strip()
@@ -1731,9 +1873,13 @@ def style_text_fences(body, repo_path, treatment):
             if len(lines) != 4:
                 parsed = []
                 break
-            source_match = re.fullmatch(r"([a-z]+):\s*(.+)", lines[3], flags=re.S)
+            source_match = re.fullmatch(
+                r"([a-z][a-z0-9-]*):\s*(.+)",
+                lines[3],
+                flags=re.S,
+            )
             if (
-                not is_current_phi_passage(lines[0])
+                not is_text_phi_passage(lines[0])
                 or not lines[2].startswith("(")
                 or not lines[2].endswith(")")
                 or source_match is None
@@ -1746,35 +1892,46 @@ def style_text_fences(body, repo_path, treatment):
 
         if parsed:
             counts["interlinear_blocks"] += 1
-            stanzas = []
-            for phi, gloss, literal, source_name, source_line in parsed:
-                stanzas.append(
-                    '<figure class="text-stanza">'
-                    '<div class="text-stanza-language">'
-                    f'<p class="text-phi-line" lang="art-x-phi">{phi}</p>'
-                    '<p class="text-gloss-line">'
-                    '<span class="visually-hidden">Word-by-word gloss: </span>'
-                    f"{gloss}</p>"
-                    "</div>"
-                    "<figcaption>"
-                    '<p class="text-literal-line">'
-                    '<span class="visually-hidden">Literal English: </span>'
-                    f"{literal}</p>"
-                    '<p class="text-source-line">'
-                    f'<span class="text-source-name">{source_name}:</span> '
-                    f"<span>{source_line}</span></p>"
-                    "</figcaption>"
-                    "</figure>"
-                )
+            counts["interlinear_stanzas"] += len(parsed)
+            stanzas = [
+                stanza(phi, gloss, literal, source_name, source_line)
+                for phi, gloss, literal, source_name, source_line in parsed
+            ]
             return (
                 '<div class="text-interlinear" aria-label="Interlinear passage">'
                 + "".join(stanzas)
                 + "</div>"
             )
 
+        source_free = []
+        for group in groups:
+            lines = [line.strip() for line in group.splitlines()]
+            if (
+                len(lines) != 3
+                or not is_text_phi_passage(lines[0])
+                or not lines[2].startswith("(")
+                or not lines[2].endswith(")")
+            ):
+                source_free = []
+                break
+            source_free.append((lines[0], lines[1], lines[2]))
+        if source_free:
+            counts["source_free_blocks"] += 1
+            counts["source_free_stanzas"] += len(source_free)
+            stanzas = [
+                stanza(phi, gloss, literal)
+                for phi, gloss, literal in source_free
+            ]
+            return (
+                '<div class="text-interlinear text-interlinear-source-free" '
+                'aria-label="Phi passage without a source line">'
+                + "".join(stanzas)
+                + "</div>"
+            )
+
         readings = [group.strip() for group in groups if group.strip()]
         if readings and all(
-            "\n" not in reading and is_current_phi_passage(reading)
+            "\n" not in reading and is_text_phi_passage(reading)
             for reading in readings
         ):
             counts["complete_readings"] += 1
@@ -1795,7 +1952,10 @@ def style_text_fences(body, repo_path, treatment):
                 + "</section>"
             )
 
-        raise ValueError(f"unrecognized editorial text fence in {repo_path}")
+        first_line = raw.splitlines()[0][:80] if raw else "(empty)"
+        raise ValueError(
+            f"unrecognized editorial text fence in {repo_path}: {first_line}"
+        )
 
     body = re.sub(r"<pre>(.*?)</pre>", convert, body, flags=re.S)
     for field, actual in counts.items():
@@ -1810,15 +1970,7 @@ def style_text_fences(body, repo_path, treatment):
 
 
 def style_text_tables(body, repo_path, treatment):
-    """Give each known comparison table labels that remain useful on phones."""
-    table_kinds = {
-        ("Aesop's wording", "Phi rendering", "Remaining difference"):
-            "text-translation-ledger",
-        ("Aesop's detail", "Phi treatment", "What changes"):
-            "text-transmutation-ledger",
-        ("Moment", "Close translation", "Transmutation", "Why they diverge"):
-            "text-comparison-ledger",
-    }
+    """Give each literary table labels that remain useful on phones."""
     count = 0
 
     def convert(match):
@@ -1827,8 +1979,15 @@ def style_text_tables(body, repo_path, treatment):
         if not rows:
             raise ValueError(f"empty editorial text table in {repo_path}")
         headers = tuple(re.findall(r"<th>(.*?)</th>", rows[0], flags=re.S))
-        kind = table_kinds.get(headers)
-        if kind is None:
+        plain_headers = [
+            html_module.unescape(re.sub(r"<[^>]+>", "", header)).strip()
+            for header in headers
+        ]
+        if (
+            not 2 <= len(headers) <= 4
+            or any(not header for header in plain_headers)
+            or len(set(plain_headers)) != len(plain_headers)
+        ):
             raise ValueError(
                 f"unrecognized editorial text table in {repo_path}: {headers}"
             )
@@ -1846,9 +2005,12 @@ def style_text_tables(body, repo_path, treatment):
                 rendered_cells.append(f'<td data-label="{label}">{cell}</td>')
             rebuilt.append("<tr>" + "".join(rendered_cells) + "</tr>")
         count += 1
+        width_class = (
+            "text-ledger-wide" if len(headers) == 4 else "text-ledger-compact"
+        )
         return (
             '<div class="text-ledger-wrap">'
-            f'<table class="text-ledger {kind}">'
+            f'<table class="text-ledger {width_class}">'
             + "".join(rebuilt)
             + "</table></div>"
         )
@@ -1956,6 +2118,11 @@ def apply_text_editorial(body, source, repo_path, treatment):
     tengwar_title = tengwar.render_line(phi_title)
     if tengwar_title is None:
         raise ValueError(f"editorial text title cannot render in Tengwar: {repo_path}")
+    title_class = (
+        ' class="text-work-title-long"'
+        if len(english_title) > 44
+        else ""
+    )
     header = f"""
 <header class="text-work-header">
   <div class="text-work-meta">
@@ -1965,7 +2132,7 @@ def apply_text_editorial(body, source, repo_path, treatment):
   <div class="text-work-title-row">
     <div class="text-work-title-copy">
       <p class="text-phi-title" lang="art-x-phi">{html_module.escape(phi_title)}</p>
-      <h1>{html_module.escape(english_title)}</h1>
+      <h1{title_class}>{html_module.escape(english_title)}</h1>
     </div>
     {texts_motif(treatment["motif"])}
   </div>
@@ -1974,30 +2141,59 @@ def apply_text_editorial(body, source, repo_path, treatment):
     body = body[:heading.start()] + header + body[heading.end():]
 
     opening_pattern = re.compile(
-        r"(</header>)\s*<p><em>(.*?)</em></p>\s*"
-        r"<p><em>(.*?)</em></p>\s*<hr>",
+        r"(</header>)\s*((?:<p><em>.*?</em></p>\s*)+)<hr>",
         flags=re.S,
     )
-    body, opening_count = opening_pattern.subn(
-        (
-            r"\1"
-            '<section class="text-work-opening">'
-            r'<p class="text-work-lede">\2</p>'
-            r'<p class="text-reader-note">\3</p>'
-            + text_reading_map(treatment["sections"])
-            + "</section>"
-        ),
-        body,
-        count=1,
-    )
-    if opening_count != 1:
+    opening = opening_pattern.search(body)
+    if opening is None:
         raise ValueError(f"editorial text opening differs in {repo_path}")
-    if body.count("<hr>") != 4:
-        raise ValueError(f"editorial paired-work dividers differ in {repo_path}")
+    opening_paragraphs = re.findall(
+        r"<p><em>(.*?)</em></p>",
+        opening.group(2),
+        flags=re.S,
+    )
+    if len(opening_paragraphs) != treatment["opening_paragraphs"]:
+        raise ValueError(
+            f"texts editorial opening paragraph count differs in {repo_path}: "
+            f"expected {treatment['opening_paragraphs']}, "
+            f"found {len(opening_paragraphs)}"
+        )
+    reader_notes = "".join(
+        f'<p class="text-reader-note">{paragraph}</p>'
+        for paragraph in opening_paragraphs[1:]
+    )
+    rendered_opening = (
+        f"{opening.group(1)}"
+        '<section class="text-work-opening">'
+        f'<p class="text-work-lede">{opening_paragraphs[0]}</p>'
+        f'<div class="text-reader-notes">{reader_notes}</div>'
+        f'{text_reading_map(treatment["sections"])}'
+        "</section>"
+    )
+    body = body[:opening.start()] + rendered_opening + body[opening.end():]
 
-    section_kinds = ("translation", "transmutation", "comparison")
+    for section in treatment["sections"]:
+        if section["kind"] != "translation_detail":
+            continue
+        original = f'<h2>{html_module.escape(section["title"])}</h2>'
+        if body.count(original) != 1:
+            raise ValueError(
+                f"editorial text section heading differs in {repo_path}: "
+                f"{section['title']}"
+            )
+        body = body.replace(
+            original,
+            f'<h3>{html_module.escape(section["title"])}</h3>',
+        )
+
+    major_sections = [
+        section for section in treatment["sections"]
+        if section["kind"] != "translation_detail"
+    ]
     markers = []
-    for title, kind in zip(treatment["sections"], section_kinds):
+    for section in major_sections:
+        title = section["title"]
+        kind = section["kind"]
         original = f"<h2>{html_module.escape(title)}</h2>"
         if body.count(original) != 1:
             raise ValueError(
@@ -2010,7 +2206,8 @@ def apply_text_editorial(body, source, repo_path, treatment):
     positions = [body.index(marker) for marker in markers]
     prefix = body[:positions[0]]
     sections = []
-    for index, (marker, kind) in enumerate(zip(markers, section_kinds)):
+    for index, section_spec in enumerate(major_sections):
+        kind = section_spec["kind"]
         end = positions[index + 1] if index + 1 < len(positions) else len(body)
         section = body[positions[index]:end]
         section = re.sub(r"\s*<hr>\s*$", "", section)
@@ -2021,8 +2218,11 @@ def apply_text_editorial(body, source, repo_path, treatment):
         )
         sections.append(f'<section class="{class_name}">{section}</section>')
     body = prefix + "".join(sections)
-    if body.count("<hr>") != 2:
-        raise ValueError(f"editorial paired-work inner dividers differ in {repo_path}")
+    if body.count("<hr>") != treatment["inner_dividers"]:
+        raise ValueError(
+            f"texts editorial inner divider count differs in {repo_path}: "
+            f"expected {treatment['inner_dividers']}, found {body.count('<hr>')}"
+        )
     body = body.replace(
         "<hr>",
         '<div class="text-inner-divider" aria-hidden="true"></div>',
@@ -2040,10 +2240,10 @@ def apply_text_editorial(body, source, repo_path, treatment):
         body,
         flags=re.S,
     )
-    if note_count != treatment["interlinear_blocks"]:
+    if note_count != treatment["notes"]:
         raise ValueError(
             f"texts editorial note count differs in {repo_path}: "
-            f"expected {treatment['interlinear_blocks']}, found {note_count}"
+            f"expected {treatment['notes']}, found {note_count}"
         )
     body = style_text_tables(body, repo_path, treatment)
     body = group_text_pillars(body, repo_path, treatment)

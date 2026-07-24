@@ -5,14 +5,178 @@
       "phi_title": "nitho howeli nela sileta",
       "motif": "wind_sun",
       "sections": [
-        "Close translation",
-        "Transmutation",
-        "What changes between the two renderings"
+        {
+          "title": "Close translation",
+          "kind": "translation"
+        },
+        {
+          "title": "Transmutation",
+          "kind": "transmutation"
+        },
+        {
+          "title": "What changes between the two renderings",
+          "kind": "comparison"
+        }
       ],
+      "opening_paragraphs": 2,
       "interlinear_blocks": 10,
+      "interlinear_stanzas": 48,
+      "source_free_blocks": 0,
+      "source_free_stanzas": 0,
       "complete_readings": 2,
+      "notes": 10,
       "tables": 3,
-      "pillar_sections": 5
+      "pillar_sections": 5,
+      "inner_dividers": 2
+    },
+    "texts/human_rights_article_one.md": {
+      "form": "paired",
+      "phi_title": "theula miona",
+      "motif": "people_equal",
+      "sections": [
+        {
+          "title": "Close translation",
+          "kind": "translation"
+        },
+        {
+          "title": "Translation limits",
+          "kind": "translation_detail"
+        },
+        {
+          "title": "Transmutation",
+          "kind": "transmutation"
+        },
+        {
+          "title": "What changes between the two renderings",
+          "kind": "comparison"
+        }
+      ],
+      "opening_paragraphs": 2,
+      "interlinear_blocks": 7,
+      "interlinear_stanzas": 7,
+      "source_free_blocks": 0,
+      "source_free_stanzas": 0,
+      "complete_readings": 2,
+      "notes": 7,
+      "tables": 3,
+      "pillar_sections": 5,
+      "inner_dividers": 4
+    },
+    "texts/babel_text.md": {
+      "form": "paired",
+      "phi_title": "ta haluma",
+      "motif": "dwelling_garden",
+      "sections": [
+        {
+          "title": "Close translation",
+          "kind": "translation"
+        },
+        {
+          "title": "Transmutation",
+          "kind": "transmutation"
+        },
+        {
+          "title": "What changes between the two renderings",
+          "kind": "comparison"
+        }
+      ],
+      "opening_paragraphs": 3,
+      "interlinear_blocks": 9,
+      "interlinear_stanzas": 36,
+      "source_free_blocks": 1,
+      "source_free_stanzas": 2,
+      "complete_readings": 1,
+      "notes": 10,
+      "tables": 2,
+      "pillar_sections": 5,
+      "inner_dividers": 1
+    },
+    "texts/schleicher_fable.md": {
+      "form": "paired",
+      "phi_title": "mophira nela lo kalora",
+      "motif": "wool_journey",
+      "sections": [
+        {
+          "title": "Close translation",
+          "kind": "translation"
+        },
+        {
+          "title": "Transmutation",
+          "kind": "transmutation"
+        },
+        {
+          "title": "What changes between the two renderings",
+          "kind": "comparison"
+        }
+      ],
+      "opening_paragraphs": 2,
+      "interlinear_blocks": 8,
+      "interlinear_stanzas": 32,
+      "source_free_blocks": 0,
+      "source_free_stanzas": 0,
+      "complete_readings": 2,
+      "notes": 8,
+      "tables": 3,
+      "pillar_sections": 5,
+      "inner_dividers": 0
+    },
+    "texts/tao_te_ching.md": {
+      "form": "paired",
+      "phi_title": "keiro",
+      "motif": "water_open",
+      "sections": [
+        {
+          "title": "Close translation",
+          "kind": "translation"
+        },
+        {
+          "title": "Transmutation",
+          "kind": "transmutation"
+        },
+        {
+          "title": "What changes between the two renderings",
+          "kind": "comparison"
+        }
+      ],
+      "opening_paragraphs": 4,
+      "interlinear_blocks": 16,
+      "interlinear_stanzas": 81,
+      "source_free_blocks": 0,
+      "source_free_stanzas": 0,
+      "complete_readings": 1,
+      "notes": 0,
+      "tables": 3,
+      "pillar_sections": 5,
+      "inner_dividers": 1
+    },
+    "texts/heart_sutra.md": {
+      "form": "paired",
+      "phi_title": "nulo sano korua",
+      "motif": "lotus_circle",
+      "sections": [
+        {
+          "title": "Close translation",
+          "kind": "translation"
+        },
+        {
+          "title": "Transmutation",
+          "kind": "transmutation"
+        },
+        {
+          "title": "What changes between the two renderings",
+          "kind": "comparison"
+        }
+      ],
+      "opening_paragraphs": 4,
+      "interlinear_blocks": 14,
+      "interlinear_stanzas": 63,
+      "source_free_blocks": 0,
+      "source_free_stanzas": 0,
+      "complete_readings": 1,
+      "notes": 7,
+      "tables": 2,
+      "pillar_sections": 5,
+      "inner_dividers": 1
     }
   }
 }

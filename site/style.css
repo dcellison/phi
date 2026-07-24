@@ -916,6 +916,10 @@ table.primer-ladder {
   position: relative;
   text-align: left;
 }
+.text-editorial .text-work-header h1.text-work-title-long {
+  font-size: 2.35rem;
+  line-height: 1.12;
+}
 .text-editorial .text-work-header h1 > .markbtn,
 .text-editorial h2.text-method-heading > .markbtn,
 .text-editorial h3 > .markbtn {
@@ -964,14 +968,18 @@ table.primer-ladder {
   line-height: 1.7;
   margin: 0 0 1rem;
 }
-.text-editorial p.text-reader-note {
+.text-reader-notes {
   border-left: 2px solid var(--gold);
   color: var(--muted);
-  font-size: .88rem;
-  line-height: 1.62;
   margin: 0 0 1.8rem;
   padding-left: .9rem;
 }
+.text-editorial p.text-reader-note {
+  font-size: .88rem;
+  line-height: 1.62;
+  margin: 0;
+}
+.text-editorial p.text-reader-note + p.text-reader-note { margin-top: .7rem; }
 .text-reading-map {
   border-bottom: 1px solid var(--hairline);
   border-top: 1px solid var(--hairline);
@@ -1369,6 +1377,9 @@ table.text-ledger {
     grid-template-columns: minmax(0, 1fr) 3.8rem;
   }
   .text-editorial .text-work-header h1 { font-size: 2.1rem; }
+  .text-editorial .text-work-header h1.text-work-title-long {
+    font-size: 1.7rem;
+  }
   .text-work-motif svg { height: 2.4rem; width: 2.4rem; }
   .text-work-motif svg + svg {
     height: 1.75rem;
