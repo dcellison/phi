@@ -1,37 +1,37 @@
-# The Phi Language Manual
+# Phi manual
 
-*A complete, accessible, authoritative guide to the Phi language.*
+The manual is Phi's complete teaching and reference work. Read it from First light, or leave it open when a particle, sound, or clause refuses to come to mind. The website builds its contents from the live files and keeps all 145 readings in one sequence.
 
----
+## Reading order
 
-## Vision
+| Part | Focus | Chapters | Source |
+|---|---|---:|---|
+| I | First light | 1-2 | `part1_first_light/` |
+| II | The soul of Phi | 3-6 | `part2_soul/` |
+| III | Phonology | 7-8 | `part3_phonology/` |
+| IV | Grammar | 9-16 | `part4_grammar/` |
+| V | Complex structures | 17-20 | `part5_complex/` |
+| VI | Mastery | 21-24 | `part6_mastery/` |
+| VII | Reference | - | `part7_reference/` |
+| Back matter | Appendices and colophon | - | `appendices/` and `/colophon.md` |
 
-A beautifully bound physical tome that embodies Phi aesthetics: the definitive guide to understanding and practicing Phi.
+[`outline.md`](outline.md) maps the parts and chapters. Each reading takes its title from its own Markdown heading. The root colophon closes the manual's reading order and also supplies the site's footer-linked colophon.
 
-## Structure
+## Authority
 
-| Part | Title | Chapters | Status |
-|------|-------|----------|--------|
-| I | First Light | 1-2 | ✅ Drafted (`part1_first_light/`) |
-| II | The Soul of Phi | 3-6 | ✅ Drafted (`part2_soul/`) |
-| III | Phonology | 7-8 | ✅ Drafted (`part3_phonology/`) |
-| IV | Grammar | 9-16 | ✅ Drafted (`part4_grammar/`) |
-| V | Complex Structures | 17-20 | ✅ Drafted (`part5_complex/`) |
-| VI | Mastery | 21-24 | ✅ Drafted (`part6_mastery/`) |
-| VII | Reference | — | ✅ Built (`part7_reference/`; lexicon auto-generated; domain modules established) |
-| — | Appendices A–C | — | ✅ Drafted (`appendices/`) |
+The manual teaches Phi, but it does not outrank [`/canon.md`](../canon.md) or the canonical JSON under [`/vocabulary/`](../vocabulary/). Current grammar references live under [`/documents/grammar/`](../documents/grammar/). When two documents disagree, the authority order in canon settles the matter.
 
-The original `/book/` manuscript this manual replaced is preserved at `/archive/book/`.
+Part VII's lexicon listings and compound registry are generated views. Edit the vocabulary JSON or [`documents/reference/compounds.md`](../documents/reference/compounds.md), then rebuild the references:
 
-## Canonical Sources
+```bash
+python3 scripts/generate_reference.py
+```
 
-All vocabulary and grammar must match (see `/canon.md`):
+## Checks
 
-- `/vocabulary/`: the authoritative lexicon
-- `/documents/grammar/`: the authoritative grammar rules
+Validate the language examples and rebuild the reader from the repository root:
 
-Verify examples with `python3 scripts/validate_examples.py --paths manual`.
-
----
-
-*Started February 2, 2026*
+```bash
+python3 scripts/validate_examples.py --paths manual
+python3 scripts/build_site.py
+```

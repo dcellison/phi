@@ -1356,6 +1356,18 @@ def manual_editorial_group(repo_path):
     raise ValueError(f"unknown manual editorial group: {repo_path}")
 
 
+def manual_editorial_chapter(repo_path):
+    """Return the numbered chapter directory for a teaching page."""
+    parts = Path(repo_path).parts
+    if (
+        len(parts) >= 4
+        and parts[0] == "manual"
+        and re.fullmatch(r"ch\d+_[a-z0-9_]+", parts[2])
+    ):
+        return parts[2]
+    return None
+
+
 MANUAL_SITE_PATHS = {path.resolve(): slug(path) for _, _, path in sections}
 MODULE_LEXICON = (MANUAL_SRC / "part7_reference" / "lexicon" / "by_module.md").resolve()
 
@@ -1451,22 +1463,26 @@ def load_manual_editorial():
     """Load treated manual groups and pin each page's block structure."""
     config_path = SITE_SRC / "manual_editorial.json"
     config = json.loads(config_path.read_text(encoding="utf-8"))
-    if set(config) != {"complete_groups", "groups", "pages"}:
+    if set(config) != {"complete_groups", "groups", "chapters", "pages"}:
         raise ValueError(
-            "site/manual_editorial.json requires complete_groups, groups, and pages"
+            "site/manual_editorial.json requires complete_groups, groups, "
+            "chapters, and pages"
         )
     complete_groups = config["complete_groups"]
     groups = config["groups"]
-    pages = config.get("pages")
+    chapters = config["chapters"]
+    pages = config["pages"]
     if (
         not isinstance(complete_groups, list)
         or len(complete_groups) != len(set(complete_groups))
         or not isinstance(groups, dict)
+        or not isinstance(chapters, dict)
         or not isinstance(pages, dict)
         or not pages
     ):
         raise ValueError(
-            "manual editorial coverage, groups, and pages must be valid collections"
+            "manual editorial coverage, groups, chapters, and pages "
+            "must be valid collections"
         )
     allowed_motifs = {
         "first_light",
@@ -1486,8 +1502,12 @@ def load_manual_editorial():
                 group_key,
             )
             or not isinstance(group, dict)
-            or set(group) != {"motif"}
+            or set(group) != {"motif", "title", "summary"}
             or group["motif"] not in allowed_motifs
+            or not isinstance(group["title"], str)
+            or not group["title"].strip()
+            or not isinstance(group["summary"], str)
+            or not group["summary"].strip()
         ):
             raise ValueError(f"invalid manual editorial group: {group_key}")
     if any(group not in groups for group in complete_groups):
@@ -1497,6 +1517,69 @@ def load_manual_editorial():
         path.relative_to(ROOT).as_posix()
         for _, _, path in sections
     }
+    expected_chapters = {
+        chapter
+        for repo_path in rendered_paths
+        if (chapter := manual_editorial_chapter(repo_path)) is not None
+    }
+    if set(chapters) != expected_chapters:
+        raise ValueError(
+            "manual editorial chapters differ from the rendered manual: "
+            + ", ".join(sorted(set(chapters) ^ expected_chapters))
+        )
+    chapter_numbers = []
+    for chapter_key, chapter_title in chapters.items():
+        chapter_match = re.fullmatch(r"ch(\d+)_[a-z0-9_]+", chapter_key)
+        if (
+            chapter_match is None
+            or not isinstance(chapter_title, str)
+            or not chapter_title.strip()
+        ):
+            raise ValueError(f"invalid manual editorial chapter: {chapter_key}")
+        chapter_numbers.append(int(chapter_match.group(1)))
+    if sorted(chapter_numbers) != list(range(1, len(chapters) + 1)):
+        raise ValueError("manual editorial chapter numbers must be contiguous")
+    outline = (MANUAL_SRC / "outline.md").read_text(encoding="utf-8")
+    outline_parts = re.findall(
+        r"^## Part ([IVX]+): (.+)$",
+        outline,
+        flags=re.M,
+    )
+    numbered_groups = sorted(
+        (
+            int(re.fullmatch(r"part(\d+)_[a-z0-9_]+", group_key).group(1)),
+            group,
+        )
+        for group_key, group in groups.items()
+        if group_key.startswith("part")
+    )
+    roman_parts = ("I", "II", "III", "IV", "V", "VI", "VII")
+    expected_outline_parts = [
+        (roman_parts[number - 1], group["title"])
+        for number, group in numbered_groups
+    ]
+    if outline_parts != expected_outline_parts:
+        raise ValueError("manual outline part titles differ from editorial metadata")
+    outline_chapters = [
+        (int(number), title)
+        for number, title in re.findall(
+            r"^- Chapter (\d+): (.+)$",
+            outline,
+            flags=re.M,
+        )
+    ]
+    expected_outline_chapters = sorted(
+        (
+            int(re.fullmatch(r"ch(\d+)_[a-z0-9_]+", chapter_key).group(1)),
+            chapter_title,
+        )
+        for chapter_key, chapter_title in chapters.items()
+    )
+    if outline_chapters != expected_outline_chapters:
+        raise ValueError(
+            "manual outline chapter titles differ from editorial metadata"
+        )
+
     configured_paths = set(pages)
     if not configured_paths <= rendered_paths:
         raise ValueError(
@@ -1586,7 +1669,7 @@ def load_manual_editorial():
             raise ValueError(
                 f"manual editorial conversation boundaries changed: {repo_path}"
             )
-    return groups, pages
+    return groups, chapters, pages
 
 
 def manual_motif(name):
@@ -1973,14 +2056,15 @@ def style_manual_pattern(body, pattern):
     return body.replace(source, replacement, 1)
 
 
-def manual_header_context(part, chapter, section_number, section_total):
+def manual_header_context(
+    group_key,
+    chapter_key,
+    chapter_label,
+    section_number,
+    section_total,
+):
     """Build orientation labels for teaching, reference, and back matter."""
-    part_match = re.fullmatch(r"Part (\d+) · (.+)", part)
-    chapter_match = re.fullmatch(r"Chapter (\d+) · (.+)", chapter or "")
-
-    def label_case(value):
-        return re.sub(r"\bphi\b", "Phi", value.capitalize())
-
+    part_match = re.fullmatch(r"part(\d+)_[a-z0-9_]+", group_key)
     if part_match is not None:
         part_number = int(part_match.group(1))
         roman_parts = ("I", "II", "III", "IV", "V", "VI", "VII")
@@ -1988,19 +2072,22 @@ def manual_header_context(part, chapter, section_number, section_total):
             raise ValueError("manual editorial part number is outside the manual")
         meta = (
             f"<span>Part {roman_parts[part_number - 1]}</span>"
-            f"<span>{html_module.escape(label_case(part_match.group(2)))}</span>"
+            f"<span>{html_module.escape(MANUAL_GROUPS[group_key]['title'])}</span>"
         )
-        if chapter_match is not None:
+        if chapter_key is not None:
+            chapter_number = int(
+                re.fullmatch(r"ch(\d+)_[a-z0-9_]+", chapter_key).group(1)
+            )
             detail = (
-                f"Chapter {int(chapter_match.group(1))} "
+                f"Chapter {chapter_number} "
                 '<span aria-hidden="true">&middot;</span> '
-                f"{html_module.escape(label_case(chapter_match.group(2)))}"
+                f"{html_module.escape(MANUAL_CHAPTERS[chapter_key])}"
             )
             position = f"Section {section_number} of {section_total}"
-        elif part_number == 7 and chapter is None:
+        elif part_number == 7 and chapter_label is None:
             detail = "Reference desk"
             position = f"Reference {section_number} of {section_total}"
-        elif part_number == 7 and chapter == "Domain Modules":
+        elif part_number == 7 and chapter_label == "Domain Modules":
             detail = "Domain modules"
             position = f"Module {section_number} of {section_total}"
         else:
@@ -2008,13 +2095,13 @@ def manual_header_context(part, chapter, section_number, section_total):
                 "manual editorial numbered part has an invalid chapter label"
             )
         return meta, detail, position
-    if part == "Appendices" and chapter is None:
+    if group_key == "appendices" and chapter_label is None:
         return (
             "<span>Back matter</span><span>Appendices</span>",
             "Reference notes",
             f"Appendix {section_number} of {section_total}",
         )
-    if part == "Colophon" and chapter is None:
+    if group_key == "colophon" and chapter_label is None:
         return (
             "<span>Back matter</span><span>Colophon</span>",
             "Maker's note",
@@ -2026,12 +2113,13 @@ def manual_header_context(part, chapter, section_number, section_total):
 def apply_manual_editorial(
     body,
     treatment,
-    part,
-    chapter,
+    chapter_label,
     section_number,
     section_total,
     motif,
     title,
+    group_key,
+    chapter_key,
 ):
     """Apply the manual reference treatment to one structurally pinned page."""
     title_html = html_module.escape(title, quote=False)
@@ -2184,8 +2272,9 @@ def apply_manual_editorial(
         )
 
     meta_labels, detail_label, position_label = manual_header_context(
-        part,
-        chapter,
+        group_key,
+        chapter_key,
+        chapter_label,
         section_number,
         section_total,
     )
@@ -2256,7 +2345,202 @@ def manual_editorial_navigation(previous, following):
     )
 
 
-MANUAL_GROUPS, MANUAL_EDITORIAL = load_manual_editorial()
+def manual_contents(entries):
+    """Build the manual catalogue from its verified reading order."""
+    roman_parts = ("I", "II", "III", "IV", "V", "VI", "VII")
+    part_keys = [
+        key
+        for key in MANUAL_GROUPS
+        if re.fullmatch(r"part\d+_[a-z0-9_]+", key)
+    ]
+    part_numbers = [
+        int(re.fullmatch(r"part(\d+)_[a-z0-9_]+", key).group(1))
+        for key in part_keys
+    ]
+    if part_numbers != list(range(1, 8)):
+        raise ValueError("manual contents require Parts I through VII in order")
+
+    indexed_entries = []
+    seen_hrefs = set()
+    for index, (part, chapter, source, title) in enumerate(entries, start=1):
+        repo_path = source.relative_to(ROOT).as_posix()
+        href = slug(source)
+        if href in seen_hrefs:
+            raise ValueError(f"manual contents repeat a page: {href}")
+        seen_hrefs.add(href)
+        indexed_entries.append(
+            {
+                "index": index,
+                "part": part,
+                "chapter_label": chapter,
+                "title": title,
+                "href": href,
+                "group": manual_editorial_group(repo_path),
+                "chapter": manual_editorial_chapter(repo_path),
+            }
+        )
+    if len(indexed_entries) != len(MANUAL_EDITORIAL):
+        raise ValueError(
+            "manual contents and editorial catalogue have different page counts"
+        )
+
+    def entry_list(items):
+        return (
+            '<ol class="manual-index-readings">'
+            + "".join(
+                f'<li><a href="{item["href"]}">'
+                '<span class="manual-index-reading-number" aria-hidden="true">'
+                f'{item["index"]:03d}</span>'
+                '<span class="manual-index-reading-title">'
+                f'{html_module.escape(item["title"])}</span>'
+                '<span class="manual-index-arrow" aria-hidden="true">'
+                "&rsaquo;</span></a></li>"
+                for item in items
+            )
+            + "</ol>"
+        )
+
+    def chapter_block(chapter_key, items, label=None):
+        if not items:
+            raise ValueError("manual contents chapter cannot be empty")
+        if chapter_key is not None:
+            match = re.fullmatch(r"ch(\d+)_[a-z0-9_]+", chapter_key)
+            number = int(match.group(1))
+            heading = (
+                f"<span>Chapter {number}</span>"
+                f"<strong>{html_module.escape(MANUAL_CHAPTERS[chapter_key])}</strong>"
+            )
+        elif label is not None:
+            heading = f"<strong>{html_module.escape(label)}</strong>"
+        else:
+            raise ValueError("manual contents reference group requires a label")
+        return (
+            '<section class="manual-index-chapter">'
+            f"<h3>{heading}</h3>{entry_list(items)}</section>"
+        )
+
+    jump_links = "".join(
+        f'<a href="#part-{roman.lower()}"><span>Part {roman}</span>'
+        f'{html_module.escape(MANUAL_GROUPS[group_key]["title"])}</a>'
+        for roman, group_key in zip(roman_parts, part_keys)
+    )
+    jump_links += (
+        '<a href="#back-matter"><span>After Part VII</span>Back matter</a>'
+    )
+
+    part_sections = []
+    for roman, group_key in zip(roman_parts, part_keys):
+        group = MANUAL_GROUPS[group_key]
+        group_entries = [
+            item for item in indexed_entries if item["group"] == group_key
+        ]
+        if not group_entries:
+            raise ValueError(f"manual contents group is empty: {group_key}")
+        if group_key != "part7_reference":
+            chapter_keys = []
+            for item in group_entries:
+                if item["chapter"] not in chapter_keys:
+                    chapter_keys.append(item["chapter"])
+            if None in chapter_keys:
+                raise ValueError(
+                    f"manual teaching part has an unnumbered page: {group_key}"
+                )
+            blocks = [
+                chapter_block(
+                    chapter_key,
+                    [
+                        item
+                        for item in group_entries
+                        if item["chapter"] == chapter_key
+                    ],
+                )
+                for chapter_key in chapter_keys
+            ]
+        else:
+            reference_entries = [
+                item
+                for item in group_entries
+                if item["chapter_label"] is None
+            ]
+            module_entries = [
+                item
+                for item in group_entries
+                if item["chapter_label"] == "Domain Modules"
+            ]
+            if len(reference_entries) + len(module_entries) != len(group_entries):
+                raise ValueError("manual reference contents have an unknown group")
+            blocks = [
+                chapter_block(None, reference_entries, "Reference desk"),
+                chapter_block(None, module_entries, "Domain modules"),
+            ]
+        part_sections.append(
+            f'<section class="manual-index-part" id="part-{roman.lower()}">'
+            '<header class="manual-index-part-header"><div>'
+            f'<p class="manual-index-part-label">Part {roman} '
+            '<span aria-hidden="true">&middot;</span> '
+            f'{len(group_entries)} readings</p>'
+            f"<h2>{html_module.escape(group['title'])}</h2>"
+            f"<p>{html_module.escape(group['summary'])}</p></div>"
+            f'{manual_motif(group["motif"])}</header>'
+            '<div class="manual-index-chapters">'
+            + "".join(blocks)
+            + "</div></section>"
+        )
+
+    appendix_entries = [
+        item for item in indexed_entries if item["group"] == "appendices"
+    ]
+    colophon_entries = [
+        item for item in indexed_entries if item["group"] == "colophon"
+    ]
+    if len(appendix_entries) != 3 or len(colophon_entries) != 1:
+        raise ValueError("manual contents require three appendices and one colophon")
+    back_matter = (
+        '<section class="manual-index-part manual-index-back-matter" '
+        'id="back-matter"><header class="manual-index-part-header"><div>'
+        '<p class="manual-index-part-label">After Part VII '
+        '<span aria-hidden="true">&middot;</span> 4 readings</p>'
+        '<h2>Back matter</h2><p>'
+        + html_module.escape(MANUAL_GROUPS["appendices"]["summary"])
+        + " "
+        + html_module.escape(MANUAL_GROUPS["colophon"]["summary"])
+        + "</p></div>"
+        + manual_motif(MANUAL_GROUPS["appendices"]["motif"])
+        + '</header><div class="manual-index-chapters">'
+        + chapter_block(None, appendix_entries, "Reference notes")
+        + chapter_block(None, colophon_entries, "Maker's note")
+        + "</div></section>"
+    )
+
+    header = (
+        '<header class="manual-index-header"><div class="manual-index-meta">'
+        '<p><span>Phi manual</span><span>Contents</span></p>'
+        '<p>Working reference</p></div>'
+        '<div class="manual-index-title-row"><h1>The Phi manual</h1>'
+        + manual_motif("ordered_layers")
+        + '<p class="manual-index-lede">The '
+        '<a href="../primer/index.html">primer</a> teaches Phi through one '
+        "household's day. The manual lays the language out in full. Begin at "
+        '<a href="#part-i">First light</a>, or enter wherever a question has '
+        'brought you. Every page returns here, and the '
+        '<a href="../explore.html">lexicon</a> keeps every word close by.</p>'
+        '</div><p class="manual-index-counts" aria-label="Manual extent">'
+        "<span><strong>7</strong> parts</span>"
+        f"<span><strong>{len(MANUAL_CHAPTERS)}</strong> chapters</span>"
+        f"<span><strong>{len(indexed_entries)}</strong> readings</span></p>"
+        "</header>"
+    )
+    return (
+        header
+        + '<nav class="manual-index-jump" aria-label="Manual parts">'
+        + jump_links
+        + "</nav>"
+        + "".join(part_sections)
+        + back_matter
+    )
+
+
+MANUAL_GROUPS, MANUAL_CHAPTERS, MANUAL_EDITORIAL = load_manual_editorial()
 
 
 sec_titles = [title_of(f.read_text()) for _, _, f in sections]
@@ -2275,6 +2559,7 @@ for i, (part, ch, f) in enumerate(sections):
         body = crumb + body
     else:
         group_key = manual_editorial_group(repo_path)
+        chapter_key = manual_editorial_chapter(repo_path)
         motif = MANUAL_GROUPS[group_key]["motif"]
         chapter_sections = [
             item
@@ -2285,12 +2570,13 @@ for i, (part, ch, f) in enumerate(sections):
         body = apply_manual_editorial(
             body,
             treatment,
-            part,
             ch,
             chapter_paths.index(f) + 1,
             len(chapter_paths),
             motif,
             sec_titles[i],
+            group_key,
+            chapter_key,
         )
         editorial_kind = "reference"
     prev_link = f'<a href="{slug(sections[i-1][2])}">&lsaquo; {sec_titles[i-1]}</a>' if i > 0 else ""
@@ -2330,23 +2616,20 @@ if colophon_manual_body is None:
 (BUILD_SITE / "colophon.html").write_text(colophon_page(colophon_manual_body))
 print("wrote build/site/colophon.html from colophon.md")
 
-# contents page grouped by part and chapter
-toc = ["<h1>The Phi manual</h1>",
-       "<p>The complete reference, rendered from the repository. Read it in order or dip in anywhere; the primer is the gentler road, and the lexicon holds every word.</p>"]
-cur_part = cur_ch = None
-open_list = False
-for i, (part, ch, f) in enumerate(sections):
-    if part != cur_part:
-        if open_list: toc.append("</ol>"); open_list = False
-        toc.append(f"<h2>{part}</h2>"); cur_part, cur_ch = part, None
-    if ch != cur_ch and ch is not None:
-        if open_list: toc.append("</ol>"); open_list = False
-        toc.append(f"<h3 class=\"toc-ch\">{ch}</h3>"); cur_ch = ch
-    if not open_list:
-        toc.append("<ol class=\"toc\">"); open_list = True
-    toc.append(f'<li><a href="{slug(f)}">{sec_titles[i]}</a></li>')
-if open_list: toc.append("</ol>")
-(MANUAL_OUT / "index.html").write_text(manual_page("\n".join(toc), "contents"))
+# contents page generated from the same verified reading order
+contents_entries = [
+    (part, chapter, source, sec_titles[index])
+    for index, (part, chapter, source) in enumerate(sections)
+]
+(MANUAL_OUT / "index.html").write_text(
+    manual_page(
+        manual_contents(contents_entries),
+        "contents",
+        editorial_kind="contents",
+        editorial_motif="ordered_layers",
+        editorial_variant="contents",
+    )
+)
 print(f"wrote build/site/manual/: {len(sections)} sections + contents")
 
 # ---- the Phi book: available chapters rendered as a work in progress ----
