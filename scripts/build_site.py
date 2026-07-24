@@ -6202,6 +6202,103 @@ def pamphlet_editorial_navigation(previous, following):
     )
 
 
+PAMPHLET_MOTIF_LABELS = {
+    "ordered_slots": "Particle system",
+    "clause_links": "Clause work",
+    "event_views": "Time and view",
+    "source_routes": "Claimed source",
+    "participant_reference": "Participant reference",
+    "noun_phrase": "Noun phrase",
+    "name_designation": "Naming",
+    "source_beside": "Source boundary",
+    "audible_boundaries": "Speech and writing",
+    "written_hands": "Writing system",
+    "ternary_scale": "Number",
+}
+
+
+def pamphlet_contents_arrow():
+    """Return the decorative Lucide arrow used by a workbook link."""
+    return (
+        '<span class="pamphlet-index-arrow" aria-hidden="true">'
+        '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" '
+        'stroke="currentColor" stroke-linecap="round" '
+        'stroke-linejoin="round" stroke-width="1.5" focusable="false">'
+        '<path d="M5 12h14"/><path d="m12 5 7 7-7 7"/>'
+        "</svg></span>"
+    )
+
+
+def pamphlet_contents_page(entries):
+    """Build the catalogue-driven entrance to the workbook shelf."""
+    if not entries:
+        raise ValueError("pamphlet contents require at least one workbook")
+    directories = [entry["directory"] for entry in entries]
+    if (
+        len(directories) != len(set(directories))
+        or set(directories) != set(PAMPHLET_GROUPS)
+    ):
+        raise ValueError(
+            "pamphlet contents and editorial catalogue differ"
+        )
+    motifs = {entry["motif"] for entry in entries}
+    if not motifs <= set(PAMPHLET_MOTIF_LABELS):
+        raise ValueError("pamphlet contents contain an unknown motif")
+    if any(entry["page_count"] < 1 for entry in entries):
+        raise ValueError("pamphlet contents contain an empty workbook")
+
+    rows = []
+    for entry in entries:
+        page_count = entry["page_count"]
+        page_noun = "reading" if page_count == 1 else "readings"
+        motif_class = entry["motif"].replace("_", "-")
+        rows.append(
+            f'<li class="pamphlet-index-entry '
+            f'pamphlet-{motif_class}-page">'
+            f'<a href="{entry["href"]}">'
+            '<div class="pamphlet-index-copy">'
+            '<p class="pamphlet-index-entry-meta">'
+            f'{html_module.escape(PAMPHLET_MOTIF_LABELS[entry["motif"]])}'
+            ' <span aria-hidden="true">&middot;</span> '
+            f"{page_count} {page_noun}</p>"
+            f'<h3>{html_module.escape(entry["title"])}</h3>'
+            f'<p class="pamphlet-index-summary">'
+            f'{html_module.escape(entry["summary"])}</p></div>'
+            f'{pamphlet_motif(entry["motif"])}'
+            f"{pamphlet_contents_arrow()}</a></li>"
+        )
+
+    total_pages = sum(entry["page_count"] for entry in entries)
+    return (
+        '<header class="pamphlet-index-header">'
+        '<div class="pamphlet-index-meta">'
+        '<p><span>Phi practice</span> <span>Contents</span></p>'
+        '<p>Workbooks for use</p></div>'
+        '<div class="pamphlet-index-title-row">'
+        '<h1>The pamphlets</h1>'
+        '<div class="pamphlet-index-mark" aria-hidden="true"></div>'
+        '<p class="pamphlet-index-lede">The manual gives Phi\'s grammar '
+        "its full account. These workbooks spend more time with the places "
+        "where an example on its own is not quite enough. Read one straight "
+        "through, or keep it open beside the manual with a pencil nearby.</p>"
+        "</div>"
+        '<p class="pamphlet-index-counts" aria-label="Pamphlet shelf extent">'
+        f"<span><strong>{len(entries)}</strong> workbooks</span> "
+        f"<span><strong>{total_pages}</strong> readings</span></p>"
+        "</header>"
+        '<section class="pamphlet-index-catalogue" '
+        'aria-labelledby="pamphlet-index-catalogue-heading">'
+        '<header class="pamphlet-index-section-heading"><div>'
+        '<p class="pamphlet-index-section-label">Catalogue order</p>'
+        '<h2 id="pamphlet-index-catalogue-heading">Choose a workbook</h2>'
+        "</div>"
+        f'<p class="pamphlet-index-section-count">{len(entries):02d} '
+        "on the shelf</p></header>"
+        f'<ol class="pamphlet-index-list">{"".join(rows)}</ol>'
+        "</section>"
+    )
+
+
 PAMPHLET_GROUPS, PAMPHLET_EDITORIAL = load_pamphlet_editorial()
 
 
@@ -6249,13 +6346,11 @@ def pamphlet_page(
 """
 
 PAMPHLETS = PAMPHLET_CATALOGUE
-toc = ["<h1>The pamphlets</h1>",
-       "<p>Focused deep-dives: extended explanation and abundant practice for the features learners find hardest. Each is a companion to the manual, not a rival — read one straight through, or keep it open beside the exercises.</p>"]
 pamph_pages = 0
+pamphlet_index_entries = []
 for pamphlet in PAMPHLETS:
     dirname = pamphlet["directory"]
     title = pamphlet["title"]
-    blurb = pamphlet["summary"]
     pfiles = sorted((ROOT / "pamphlets" / dirname).glob("*.md"))
     ptitles = [title_of(f.read_text()) for f in pfiles]
     dual = pamphlet["dual_script"]
@@ -6313,7 +6408,19 @@ for pamphlet in PAMPHLETS:
             )
         )
         pamph_pages += 1
-    toc.append(f'<h2><a href="{dirname}__{pfiles[0].stem}.html">{title}</a></h2><p>{blurb}</p>')
-toc.append("<hr><p><em>More pamphlets are coming; the shelf is built to grow.</em></p>")
-(PAMPH_OUT / "index.html").write_text(pamphlet_page("\n".join(toc), "contents"))
+    pamphlet_index_entries.append(
+        {
+            **pamphlet,
+            "href": f"{dirname}__{pfiles[0].stem}.html",
+            "motif": PAMPHLET_GROUPS[dirname]["motif"],
+            "page_count": len(pfiles),
+        }
+    )
+(PAMPH_OUT / "index.html").write_text(
+    pamphlet_page(
+        pamphlet_contents_page(pamphlet_index_entries),
+        "contents",
+        editorial_variant="contents",
+    )
+)
 print(f"wrote build/site/pamphlets/: {pamph_pages} pages + contents")
