@@ -96,9 +96,9 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 - Choose a legal, speakable form whose rhythm and phonetic character suit its intended use
 - Ensure phonological rules are met
 - **Run the collision check**: `python3 scripts/validate_examples.py neighbors <candidate>`
-  - REJECT any candidate at edit distance 1 from an existing word of the same part-of-speech class (content vs. the same function class)
+  - REJECT any content-word candidate at edit distance 1 from an existing content word. Function words are exempt: particles, prepositions, and the rest are identified by slot and position as well as by shape, and the particle inventory is built on minimal pairs by necessity in a fifty-form space
   - The designed opener/closer paradigms are the sole same-class exception: each grammatical clause pair shares its first syllable and contrasts final `a` with `o`. Evaluate a new pair as one proposal, require that neither form has any additional distance-1 neighbor in its class, and prioritize the contrast in listening review
-  - Cross-class distance-1 neighbors are allowed only when position disambiguates (particle vs. content word); note a useful warning in `usage_notes`
+  - A function word at distance 1 from a content word is allowed where position disambiguates; note a useful warning in `usage_notes`. Judge a new particle by ear against its slot-mates rather than by the distance count
   - For natural opposites (left/right, give/take), prefer maximal phonetic dissimilarity, never a minimal pair
   - Prefer three syllables unless the concept truly belongs to the daily round: the two-syllable space is the most collision-congested (approximately 5,200 legal forms, heavily grandfathered), while three syllables offer approximately 377,000 legal forms and remain the absolute lexical maximum
 
