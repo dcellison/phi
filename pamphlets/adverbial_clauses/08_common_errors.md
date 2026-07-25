@@ -1,4 +1,4 @@
-# Part 7: Common errors
+# Part 8: Common errors
 
 Most errors in this system are English word order asking for a visa. It does not get one.
 
@@ -36,7 +36,7 @@ That sentence is grammatical and means the opposite order: it makes the arrival 
 
 **Wrong:** `*lu pheralu lepa lo mia mua womu meilo.` as one sentence.
 
-`lu` is Slot 0, not a relator, and its condition is a complete sentence: `lu pheralu lepa. lo mia mua womu meilo.` The five relators share one sentence with their main clause; the condition never does.
+`lu` is Slot 0, not a relator, and its condition is a complete sentence: `lu pheralu lepa. lo mia mua womu meilo.` The six relators share one sentence with their main clause; the condition never does.
 
 ### Error 7: the freedom construction misread as purpose
 

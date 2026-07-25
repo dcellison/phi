@@ -248,7 +248,7 @@
 | `wela` | INT.COMP |
 | `welo` | INT.COMP.CLOSE |
 
-## conjunction (8)
+## conjunction (9)
 
 | Word | Gloss |
 |---|---|
@@ -260,6 +260,7 @@
 | `shai` | CONC |
 | `sola` | DISJ |
 | `thona` | ADVRS |
+| `whau` | SIMUL |
 
 ## discourse (7)
 

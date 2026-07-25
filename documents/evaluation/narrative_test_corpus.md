@@ -122,3 +122,21 @@ PL 3SG PST quiet walk. rain IPFV fall.
 The scene lost three clauses and gained precision in all six places. Kneeling is now one word instead of a knee placed on a floor, reaching keeps the purpose that the moved arm had lost, and the darkness arrives instead of merely occurring. `wenuha` also removed the split where a wet garment and a cold apprentice had to be stated as two separate facts.
 
 Two things stayed as they were on purpose. `ka rihe` still lifts the box, because the log judged the causative honest there rather than a workaround, and `noe phao to wepu` still follows, for the same reason. The simultaneity clause is untouched and remains the one construction in the passage that costs an actor its agency.
+
+## 3. The simultaneity clause, after the relator
+
+Sections 1 and 2 both left one construction alone. The gap log called it the passage's one real cost: with no relator for while, an overlapping event had to become an event noun after `sui`, and its subject had to become a possessor. `whau` (SIMUL) closes that. Only the affected clause is shown, in both forms.
+
+```
+sui phao lumoi phelu moloi phelasi sheraki.
+DUR parent lantern hold apprentice shelf search.
+(During the parent's holding of the lantern, the apprentice searches the shelf.)
+
+whau phao lumoi phelu moloi phelasi sheraki.
+SIMUL parent lantern hold apprentice shelf search.
+(While the parent holds the lantern, the apprentice searches the shelf.)
+```
+
+The two are the same length and mean nearly the same thing, so the gain is easy to miss. It sits in what happens to `phao`. In the first, the parent owns an act of holding; in the second, the parent holds a lantern. Only the second can take aspect, negation, or its own evidential, because only the second is a clause. That difference compounds: a passage with three overlapping actions demoted three actors under `sui` and demotes none under `whau`.
+
+What the relator does not do is give Phi a way to say that two events merely happened around the same time without either framing the other. `whau` always makes one clause the span and the other its content, which is a choice the speaker has to make even when the events are equals.

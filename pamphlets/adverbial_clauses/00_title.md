@@ -2,7 +2,7 @@
 
 ## A practice companion to the manual
 
-Say in English why you read: "I read in order to learn." The purpose trails after the deed like a cart behind a horse, and a listener who stops early misses it. Phi turns the harness around. `lila mia shonela mia theo.` opens with the intended outcome, and by the time the reading arrives, everyone knows what it is for. Five clause relators do this work, placing one event against another, sequence, cause, purpose, and concession, and every one of them finishes its whole frame before the main clause begins.
+Say in English why you read: "I read in order to learn." The purpose trails after the deed like a cart behind a horse, and a listener who stops early misses it. Phi turns the harness around. `lila mia shonela mia theo.` opens with the intended outcome, and by the time the reading arrives, everyone knows what it is for. Six clause relators do this work, placing one event against another by sequence, overlap, cause, purpose, and concession, and every one of them finishes its whole frame before the main clause begins.
 
 Manual chapter 19 owns the doctrine; this pamphlet is the practice ground. The frames have no closers, so the skill is hearing where a dependent clause ends, building frames that stand where the grammar puts them, and resisting the English reflex to let the frame trail behind.
 
@@ -10,6 +10,7 @@ By the end of this pamphlet, you will be able to:
 
 - Build sequence frames with `pheo` and `phoe`, each clause carrying its own tense
 - Use both relators over counted time to say in two days and two days ago
+- Hold two events in one span with `whau`, and choose between it and `sui` over a noun
 - Place a claimed reason with `lao` and an overturned expectation with `shai`, over a clause or a bare noun phrase
 - Put the purpose first with `lila` and keep it apart from the freedom construction
 - Choose between a relator inside one sentence and a discourse marker across two
@@ -23,13 +24,14 @@ This pamphlet assumes the particle system in manual chapter 9, the sentence patt
 
 1. The frame before the deed
 2. Sequence: `pheo` and `phoe`
-3. Cause: `lao`
-4. Purpose: `lila`
-5. Concession: `shai`
-6. The frame and the main clause
-7. Common errors
-8. Exercises
-9. Appendix: quick reference
+3. Simultaneity: `whau`
+4. Cause: `lao`
+5. Purpose: `lila`
+6. Concession: `shai`
+7. The frame and the main clause
+8. Common errors
+9. Exercises
+10. Appendix: quick reference
 
 ---
 

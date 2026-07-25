@@ -87,7 +87,7 @@ A lexicon word cannot contain the same syllable twice. Source material outside P
 The function-word shape charter is a canon ruling; this list summarizes its four tiers.
 
 - **Single Syllable Forms (`CV` only):** Reserved for particles and base numerals (mu, ta, wi). Particles use CV structure exclusively (no fricative digraphs) for instant recognition and disambiguation.
-- **Hiatus Disyllables (`(C)V.V`):** The relator shape: prepositions (mua, thue, wei), the core pronouns (mia, thia, shia), the clause relators (lao, pheo, phoe, shai), and the scale units (shao, phoi, lau, rei).
+- **Hiatus Disyllables (`(C)V.V`):** The relator shape: prepositions (mua, thue, wei), the core pronouns (mia, thia, shia), the clause relators (lao, pheo, phoe, shai, whau), and the scale units (shao, phoi, lau, rei).
 - **Plain Disyllables (`CV.CV`):** The frame shape: the complementizers (openers in `-a`, closers in `-o`), the vocative kona, the four classifiers, the frame conjunctions, and the `-so` pronoun pair (miso, wiso).
 - **Multi-Syllable Forms:** Used for content words (nouns, verbs, descriptors); quantifiers, discourse markers, and interrogatives are content-shaped.
 

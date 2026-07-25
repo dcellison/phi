@@ -1,4 +1,4 @@
-# Part 6: The frame and the main clause
+# Part 7: The frame and the main clause
 
 A frame changes nothing about the clause it modifies. Once the dependent verb has closed the frame, the main clause begins with its full ordinary rights: subject first, adjunct phrases before the object, Slot 1 before the verb.
 

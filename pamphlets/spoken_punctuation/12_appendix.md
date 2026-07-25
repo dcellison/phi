@@ -11,7 +11,7 @@
 | a comma of address | `kona` | extra-clausal vocative with its own period |
 | capitalization of a name | `ne` | proper designation in neutral, formal, portable, and validated Phi |
 | a comma after an if-clause | `lu` or `lu he`, then a period | complete condition before its consequence |
-| a comma after another dependent clause | `pheo`, `phoe`, `lao`, `shai`, or `lila` | complete dependent frame before the main clause |
+| a comma after another dependent clause | `pheo`, `phoe`, `whau`, `lao`, `shai`, or `lila` | complete dependent frame before the main clause |
 | a comma before "and," "but," or "or" | `nela`, `thona`, or `sola` | conjunction between equal constituents |
 | list commas | `nela` | conjunction at every list boundary |
 | an exclamation mark | no general equivalent | lexical meaning and delivery stay separate; use `ru`, `su`, or an interjection only when its own meaning fits |

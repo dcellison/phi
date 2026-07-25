@@ -1,12 +1,12 @@
 # Adverbial clauses
 
-Adverbial clauses place an event in relation to another event. Phi marks sequence, cause, purpose, and concession with five clause relators. Each relator opens the dependent material, and that complete frame precedes the main clause it modifies.
+Adverbial clauses place an event in relation to another event. Phi marks sequence, overlap, cause, purpose, and concession with six clause relators. Each relator opens the dependent material, and that complete frame precedes the main clause it modifies.
 
-All five use one order:
+All six use one order:
 
 `[relator] [dependent clause] [main clause]`
 
-The order is shared; the relation is not. The first four locate or qualify an event, while **lila** states an agent's intended outcome.
+The order is shared; the relation is not. The first five locate or qualify an event, while **lila** states an agent's intended outcome.
 
 ## Sequence: `pheo` and `phoe`
 
@@ -55,6 +55,26 @@ PL child UNTIL evening play.
 ```
 
 Morning or evening names the endpoint. No second clause is hidden inside the phrase.
+
+## Overlap: `whau`
+
+**whau** puts two events in one span without ordering them. The dependent clause supplies the span, and the main clause reports what fell inside it:
+
+```
+whau phao lumoi phelu moloi phelasi sheraki.
+SIMUL parent lantern hold apprentice shelf search.
+(While the parent holds the lantern, the apprentice searches the shelf.)
+```
+
+Neither event is earlier and neither causes the other. Aspect is free on both verbs, and **si** on the framing verb adds that its event was already under way:
+
+```
+whau pheralu si lepa lo mia mua keritha to manolu.
+SIMUL rain IPFV fall PL 1SG LOC workshop PST stay.
+(While the rain was falling, we stayed in the workshop.)
+```
+
+**sui** (DUR) does the same job for a noun, so `lo mia sui pheralu mua keritha to manolu` says we stayed during the rain. Choose between them by asking whether the span has an actor. A stretch of weather does not, and takes **sui**. An act does, and under **sui** that actor would be reduced to owning an event noun, where **whau** lets the actor keep the verb.
 
 ## Cause: `lao`
 
@@ -136,12 +156,13 @@ CONC rain PL flower grow.
 
 The expectation belongs to the speaker's framing. **shai** does not declare smallness contrary to beauty in every setting; it says that this sentence treats it as a conceded circumstance.
 
-## The five clause relators
+## The six clause relators
 
 | Relator | Gloss | Relation | Order |
 |---|---|---|---|
 | `pheo` | POST | after | dependent clause, then main clause |
 | `phoe` | ANT | before | dependent clause, then main clause |
+| `whau` | SIMUL | overlap | dependent clause, then main clause |
 | `lao` | BECAUSE | cause | dependent clause or noun phrase, then main clause |
 | `shai` | CONC | concession | dependent clause or noun phrase, then main clause |
 | `lila` | PURP | intended outcome | dependent clause, then main clause |

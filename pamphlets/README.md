@@ -8,7 +8,7 @@ The manual explains Phi's machinery once. These pamphlets give the difficult par
 |---|---|---|
 | Relative clauses in Phi | Headed, headless, and nested pre-nominal relatives, followed by repair work and exercises. | [Open](relative_clauses/00_title.md) |
 | Complementizers and embedded clauses in Phi | The three opener and closer pairs for statements, questions, and quotations. | [Open](complementizers/00_title.md) |
-| Adverbial clauses in Phi | The five clause relators for sequence, cause, purpose, and concession, every frame complete before its main clause. | [Open](adverbial_clauses/00_title.md) |
+| Adverbial clauses in Phi | The six clause relators for sequence, overlap, cause, purpose, and concession, every frame complete before its main clause. | [Open](adverbial_clauses/00_title.md) |
 | Tense and aspect in Phi | Two tenses and five views of an event, drilled through all ten combinations to reflex. | [Open](tense_aspect/00_title.md) |
 | Pronouns and topic-drop in Phi | The three same-shaped pronouns, the reflexive and reciprocal pair, pointing with two words, and the dropped subject. | [Open](pronouns_topic_drop/00_title.md) |
 | Nouns and classifiers in Phi | The noun phrase assembled position by position, from the bare noun to the full canonical order. | [Open](nouns_classifiers/00_title.md) |

@@ -60,60 +60,8 @@
     }
   },
   "pages": {
-    "pamphlets/three_slots/00_title.md": {
-      "shape": "h1,2;t-;f-;q-;u6;o12;r2;s1",
-      "variant": "opening"
-    },
-    "pamphlets/three_slots/01_one_machine_three_scopes.md": {
-      "shape": "h1,3,3,3,3;t4x3;f3;q-;u6;o-;r0;s-",
-      "variant": "lesson"
-    },
-    "pamphlets/three_slots/02_slot_0_framing.md": {
-      "shape": "h1,3,3,3,3;t2x7;f11,3,3;q-;u-;o6;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/three_slots/03_slot_1_tense_aspect.md": {
-      "shape": "h1,3,3,3,3,3;t3x5;f7,7,11;q-;u-;o6;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/three_slots/04_slot_1_voice.md": {
-      "shape": "h1,3,3,3,3;t-;f7,7,11;q-;u-;o7;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/three_slots/05_slot_1_evidence_modality.md": {
-      "shape": "h1,3,3,3,3;t2x4;f3,11;q-;u2;o6;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/three_slots/06_the_stack.md": {
-      "shape": "h1,3,3,3,3;t-;f6;q-;u-;o4,4;r0;s1,1",
-      "variant": "stack"
-    },
-    "pamphlets/three_slots/07_slot_2_nesting_phrase.md": {
-      "shape": "h1,3,3,3;t-;f14,7,7;q-;u-;o7;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/three_slots/08_the_interaction_tables.md": {
-      "shape": "h1,3,3,3,3,3;t2x10,2x8,3x6,2x8;f-;q-;u-;o10;r0;s1",
-      "variant": "tables"
-    },
-    "pamphlets/three_slots/09_one_sentence_grown.md": {
-      "shape": "h1,3,3,3,3,3;t-;f3,3,3,3,3,3,7;q-;u-;o4;r0;s1",
-      "variant": "scenario"
-    },
-    "pamphlets/three_slots/10_common_errors.md": {
-      "shape": "h1,3,3,3,3,3,3,3,3,3,3;t-;f-;q-;u-;o-;r0;s-",
-      "variant": "errors"
-    },
-    "pamphlets/three_slots/11_exercises.md": {
-      "shape": "h1,2,2,2,2,2,2,2,3,3,3,3,3,3;t-;f-;q-;u-;o8,6,4,8,4,4,6,4,8,4,4;r1;s1,9,15,19,27,31,9,15,19,27,31",
-      "variant": "exercises"
-    },
-    "pamphlets/three_slots/12_appendix.md": {
-      "shape": "h1,3,3,3,3,3,3;t3x6,4x16,3x13;f-;q-;u6,6;o-;r0;s-",
-      "variant": "appendix"
-    },
     "pamphlets/adverbial_clauses/00_title.md": {
-      "shape": "h1,2;t-;f-;q-;u6;o9;r2;s1",
+      "shape": "h1,2;t-;f-;q-;u7;o10;r2;s1",
       "variant": "opening"
     },
     "pamphlets/adverbial_clauses/01_the_frame_before_the_deed.md": {
@@ -124,33 +72,37 @@
       "shape": "h1,3,3;t-;f3,3,3,3;q-;u-;o3;r0;s1",
       "variant": "lesson"
     },
-    "pamphlets/adverbial_clauses/03_reason_lao.md": {
+    "pamphlets/adverbial_clauses/03_simultaneity_whau.md": {
       "shape": "h1,3,3;t-;f3,3,3;q-;u-;o3;r0;s1",
       "variant": "lesson"
     },
-    "pamphlets/adverbial_clauses/04_purpose_lila.md": {
+    "pamphlets/adverbial_clauses/04_reason_lao.md": {
+      "shape": "h1,3,3;t-;f3,3,3;q-;u-;o3;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/adverbial_clauses/05_purpose_lila.md": {
       "shape": "h1,3,3,3;t-;f3,3,3;q-;u-;o3;r0;s1",
       "variant": "lesson"
     },
-    "pamphlets/adverbial_clauses/05_concession_shai.md": {
+    "pamphlets/adverbial_clauses/06_concession_shai.md": {
       "shape": "h1,3,3;t-;f3,3;q-;u-;o3;r0;s1",
       "variant": "lesson"
     },
-    "pamphlets/adverbial_clauses/06_the_frame_and_the_main_clause.md": {
+    "pamphlets/adverbial_clauses/07_the_frame_and_the_main_clause.md": {
       "shape": "h1,3,3,3,3;t-;f3,3;q-;u-;o3;r0;s1",
       "variant": "scenario"
     },
-    "pamphlets/adverbial_clauses/07_common_errors.md": {
+    "pamphlets/adverbial_clauses/08_common_errors.md": {
       "shape": "h1,3,3,3,3,3,3,3;t-;f-;q-;u-;o-;r0;s-",
       "variant": "errors"
     },
-    "pamphlets/adverbial_clauses/08_exercises.md": {
+    "pamphlets/adverbial_clauses/09_exercises.md": {
       "shape": "h1,2,2,2,2,2,2,3,3,3,3,3;t-;f-;q-;u-;o5,5,5,4,4,1,1,1,1,1;r1;s1,6,11,16,20,1,6,11,16,20",
       "variant": "exercises"
     },
-    "pamphlets/adverbial_clauses/09_appendix.md": {
+    "pamphlets/adverbial_clauses/10_appendix.md": {
       "section_level": 2,
-      "shape": "h1,2,2,2,2,2;t5x5,3x4,3x12;f-;q-;u7,5;o-;r0;s-",
+      "shape": "h1,2,2,2,2,2;t5x6,3x4,3x12;f-;q-;u7,5;o-;r0;s-",
       "variant": "appendix"
     },
     "pamphlets/complementizers/00_title.md": {
@@ -238,98 +190,6 @@
       "shape": "h1,2,2,2,2;t4x4,3x10;f-;q-;u8,4;o-;r0;s-",
       "variant": "appendix"
     },
-    "pamphlets/relative_clauses/00_title.md": {
-      "shape": "h1,2;t-;f-;q-;u-;o8;r2;s1",
-      "variant": "opening"
-    },
-    "pamphlets/relative_clauses/01_understanding_the_concept.md": {
-      "section_level": 2,
-      "shape": "h1,2,2,2,2,2,2;t-;f3,4,4,3;q-;u2,3;o-;r0;s-",
-      "variant": "lesson"
-    },
-    "pamphlets/relative_clauses/02_mechanics_of_rena.md": {
-      "section_level": 2,
-      "shape": "h1,2,3,3,2,3,3,3,2,3,3,3,2,3,3,3,3,3,3;t-;f1,1,1,3,3,3,3,3,3,3,3,3,3,1,1,1;q-;u3,6,3;o4;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/relative_clauses/03_headed_relatives_examples.md": {
-      "section_level": 2,
-      "shape": "h1,2,3,3,3,3,2,3,3,3,3,2,3,3,2,2,2,2,2,3,3,3;t-;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,7,7;q-;u-;o-;r0;s-",
-      "variant": "scenario"
-    },
-    "pamphlets/relative_clauses/04_headless_relatives.md": {
-      "section_level": 2,
-      "shape": "h1,2,3,3,3,2,3,3,2,3,3,3,2,2,2,3,3,3;t-;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,7,7;q-;u-;o-;r0;s-",
-      "variant": "lesson"
-    },
-    "pamphlets/relative_clauses/05_advanced_patterns.md": {
-      "section_level": 2,
-      "shape": "h1,2,3,3,3,3,2,3,3,3,2,3,3,3,2,3,3,2,2;t-;f3,1,1,3,3,1,3,3,3,3,3,3,3,11,3,3,3,3,15;q-;u-;o-;r0;s-",
-      "variant": "stack"
-    },
-    "pamphlets/relative_clauses/06_common_errors.md": {
-      "section_level": 2,
-      "shape": "h1,2,3,3,3,3,3,2,3,3,3,2,3,3,3,2;t-;f2,3,2,3,3,3,2,3,3,3;q-;u-;o1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,1,1,1,1,1,1,1,1,1,1;r0;s1,2,3,4,1,2,3,4,5,1,2,3,4,5,1,1,1,2,3,4,5,1,2,3,4,5",
-      "variant": "errors"
-    },
-    "pamphlets/relative_clauses/07_exercises.md": {
-      "shape": "h1,2,3,3,3,3,2,2,2,2,2,2,3,3,3,2,3,3,3,3,3,3;t-;f3,3;q-;u-;o5,5,5,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,10,10,5,8,8;r7;s1,6,11,16,1,2,3,4,5,6,7,8,9,10,1,2,3,4,5,6,7,8,9,10,1,2,3,4,5,1,2,3,4,5,6,7,8,1,2,3,4,5,6,7,8,1,1,1,1,1,1",
-      "variant": "exercises"
-    },
-    "pamphlets/relative_clauses/08_appendix.md": {
-      "section_level": 2,
-      "shape": "h1,2,3,3,3,3,3,3,3,2,2,2,2;t3x4,3x39;f1,1,1,2,2,2,2;q-;u3,3,5;o5;r4;s1",
-      "variant": "appendix"
-    },
-    "pamphlets/tense_aspect/00_title.md": {
-      "shape": "h1,2;t-;f-;q-;u6;o11;r2;s1",
-      "variant": "opening"
-    },
-    "pamphlets/tense_aspect/01_the_verb_at_rest.md": {
-      "shape": "h1,3,3;t-;f3,3,3;q-;u-;o4;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/tense_aspect/02_looking_back_to.md": {
-      "shape": "h1,3,3,3;t-;f3,3,3,3;q-;u-;o3;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/tense_aspect/03_looking_forward_so.md": {
-      "shape": "h1,3,3,3;t-;f3,3,3,3;q-;u-;o3;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/tense_aspect/04_within_and_whole_si_ki.md": {
-      "shape": "h1,3,3,3;t-;f3,3,3,3,3,3;q-;u-;o3;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/tense_aspect/05_the_edges_pa_te.md": {
-      "shape": "h1,3,3,3;t-;f3,3,3,3;q-;u-;o3;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/tense_aspect/06_the_pattern_ro.md": {
-      "shape": "h1,3,3,3;t-;f3,3,3,3,3;q-;u-;o3;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/tense_aspect/07_the_ten_combinations.md": {
-      "shape": "h1,3,3,3;t3x10;f3,3,3,3,3;q-;u-;o-;r0;s-",
-      "variant": "tables"
-    },
-    "pamphlets/tense_aspect/08_the_day_around_the_verb.md": {
-      "shape": "h1,3,3,3,3;t3x8;f3,3,3,3,3,3,3;q-;u-;o3;r0;s1",
-      "variant": "scenario"
-    },
-    "pamphlets/tense_aspect/09_common_errors.md": {
-      "shape": "h1,3,3,3,3,3,3,3;t-;f-;q-;u-;o-;r0;s-",
-      "variant": "errors"
-    },
-    "pamphlets/tense_aspect/10_exercises.md": {
-      "shape": "h1,2,2,2,2,2,2,3,3,3,3,3;t-;f-;q-;u-;o5,6,5,4,4,1,1,1,1,1;r1;s1,6,12,17,21,1,6,12,17,21",
-      "variant": "exercises"
-    },
-    "pamphlets/tense_aspect/11_appendix.md": {
-      "section_level": 2,
-      "shape": "h1,2,2,2,2,2;t3x7,6x2,3x15;f-;q-;u7,5;o-;r0;s-",
-      "variant": "appendix"
-    },
     "pamphlets/evidentiality/00_title.md": {
       "shape": "h1,2;t-;f-;q-;u-;o10;r2;s1",
       "variant": "opening"
@@ -374,49 +234,50 @@
       "shape": "h1,3,3,3,3,3,3,3,3;t4x4,2x9;f3,15,11;q-;u8,5;o-;r0;s-",
       "variant": "appendix"
     },
-    "pamphlets/pronouns_topic_drop/00_title.md": {
-      "shape": "h1,2;t-;f-;q-;u6;o10;r2;s1",
+    "pamphlets/naming/00_title.md": {
+      "shape": "h1,2;t-;f-;q-;u8;o10;r2;s1",
       "variant": "opening"
     },
-    "pamphlets/pronouns_topic_drop/01_three_words_one_shape.md": {
-      "shape": "h1,3,3,3;t-;f3,3,3,3;q-;u-;o4;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/pronouns_topic_drop/02_case_from_position.md": {
-      "shape": "h1,3,3,3;t3x4;f3,3,3,3,3;q-;u-;o4;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/pronouns_topic_drop/03_building_we.md": {
-      "shape": "h1,3,3,3;t3x3;f3,3,3,3,3;q-;u-;o4;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/pronouns_topic_drop/04_back_to_yourself_miso.md": {
-      "shape": "h1,3,3,3;t-;f3,3,3,3,3,3;q-;u-;o4;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/pronouns_topic_drop/05_between_each_other_wiso.md": {
-      "shape": "h1,3,3,3;t-;f3,3,3,3,3,3;q-;u-;o4;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/pronouns_topic_drop/06_pointing_ha_ra.md": {
-      "shape": "h1,3,3,3,3;t-;f3,3,3,3,3,3;q-;u-;o4;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/pronouns_topic_drop/07_the_dropped_subject.md": {
-      "shape": "h1,3,3,3,3,3;t-;f3,3,3,3;q-;u-;o4;r0;s1",
+    "pamphlets/naming/01_a_name_is_a_word.md": {
+      "section_level": 2,
+      "shape": "h1,2,3,3,2,2,3,3;t3x5;f7,3,3,4;q-;u-;o-;r0;s-",
       "variant": "scenario"
     },
-    "pamphlets/pronouns_topic_drop/08_common_errors.md": {
-      "shape": "h1,3,3,3,3,3,3,3;t-;f-;q-;u-;o-;r0;s-",
+    "pamphlets/naming/02_the_announcing_ne.md": {
+      "shape": "h1,3,3,3,3,3;t-;f3,3,11,7,3,7,3;q-;u-;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/naming/03_calling_kona.md": {
+      "shape": "h1,3,3,3;t-;f7,9;q-;u-;o5;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/naming/04_the_three_honorifics.md": {
+      "shape": "h1,3,3,3,3;t3x3;f11;q-;u-;o5;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/naming/05_the_family_register.md": {
+      "section_level": 2,
+      "shape": "h1,2,2,2,2;t-;f3,3,7,3,3,5;q-;u-;o-;r0;s-",
+      "variant": "scenario"
+    },
+    "pamphlets/naming/06_the_spoken_capital.md": {
+      "shape": "h1,3,3,3,3,3,3;t-;f-;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/naming/07_the_open_door.md": {
+      "shape": "h1,3,3,3,3,3;t-;f3,7,3,3,3,7,7;q-;u-;o-;r0;s-",
+      "variant": "scenario"
+    },
+    "pamphlets/naming/08_common_errors.md": {
+      "shape": "h1,3,3,3,3,3,3,3,3;t-;f3,3,1,3,3,2;q-;u-;o-;r0;s-",
       "variant": "errors"
     },
-    "pamphlets/pronouns_topic_drop/09_exercises.md": {
-      "shape": "h1,2,2,2,2,2,2,3,3,3,3,3;t-;f-;q-;u-;o5,6,5,4,4,1,1,1,1,1;r1;s1,6,12,17,21,1,6,12,17,21",
+    "pamphlets/naming/09_exercises.md": {
+      "shape": "h1,2,2,2,2,2,2,2;t-;f-;q-;u-;o5,5,5,5,5,6,5,5,5,5,5,6;r1;s1,6,11,16,21,26,1,6,11,16,21,26",
       "variant": "exercises"
     },
-    "pamphlets/pronouns_topic_drop/10_appendix.md": {
-      "section_level": 2,
-      "shape": "h1,2,2,2,2,2,2;t3x3,4x2,3x4,3x15;f-;q-;u6,5;o-;r0;s-",
+    "pamphlets/naming/10_appendix.md": {
+      "shape": "h1,3,3,3,3,3,3;t3x5,3x5,2x13;f-;q-;u7,10,4;o-;r0;s-",
       "variant": "appendix"
     },
     "pamphlets/nouns_classifiers/00_title.md": {
@@ -468,50 +329,92 @@
       "shape": "h1,2,2,2,2,2,2,2;t2x8,3x10,3x4,3x15;f-;q-;u7,5;o-;r0;s-",
       "variant": "appendix"
     },
-    "pamphlets/naming/00_title.md": {
-      "shape": "h1,2;t-;f-;q-;u8;o10;r2;s1",
+    "pamphlets/pronouns_topic_drop/00_title.md": {
+      "shape": "h1,2;t-;f-;q-;u6;o10;r2;s1",
       "variant": "opening"
     },
-    "pamphlets/naming/01_a_name_is_a_word.md": {
-      "section_level": 2,
-      "shape": "h1,2,3,3,2,2,3,3;t3x5;f7,3,3,4;q-;u-;o-;r0;s-",
+    "pamphlets/pronouns_topic_drop/01_three_words_one_shape.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/pronouns_topic_drop/02_case_from_position.md": {
+      "shape": "h1,3,3,3;t3x4;f3,3,3,3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/pronouns_topic_drop/03_building_we.md": {
+      "shape": "h1,3,3,3;t3x3;f3,3,3,3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/pronouns_topic_drop/04_back_to_yourself_miso.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3,3,3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/pronouns_topic_drop/05_between_each_other_wiso.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3,3,3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/pronouns_topic_drop/06_pointing_ha_ra.md": {
+      "shape": "h1,3,3,3,3;t-;f3,3,3,3,3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/pronouns_topic_drop/07_the_dropped_subject.md": {
+      "shape": "h1,3,3,3,3,3;t-;f3,3,3,3;q-;u-;o4;r0;s1",
       "variant": "scenario"
     },
-    "pamphlets/naming/02_the_announcing_ne.md": {
-      "shape": "h1,3,3,3,3,3;t-;f3,3,11,7,3,7,3;q-;u-;o-;r0;s-",
-      "variant": "lesson"
-    },
-    "pamphlets/naming/03_calling_kona.md": {
-      "shape": "h1,3,3,3;t-;f7,9;q-;u-;o5;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/naming/04_the_three_honorifics.md": {
-      "shape": "h1,3,3,3,3;t3x3;f11;q-;u-;o5;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/naming/05_the_family_register.md": {
-      "section_level": 2,
-      "shape": "h1,2,2,2,2;t-;f3,3,7,3,3,5;q-;u-;o-;r0;s-",
-      "variant": "scenario"
-    },
-    "pamphlets/naming/06_the_spoken_capital.md": {
-      "shape": "h1,3,3,3,3,3,3;t-;f-;q-;u-;o4;r0;s1",
-      "variant": "lesson"
-    },
-    "pamphlets/naming/07_the_open_door.md": {
-      "shape": "h1,3,3,3,3,3;t-;f3,7,3,3,3,7,7;q-;u-;o-;r0;s-",
-      "variant": "scenario"
-    },
-    "pamphlets/naming/08_common_errors.md": {
-      "shape": "h1,3,3,3,3,3,3,3,3;t-;f3,3,1,3,3,2;q-;u-;o-;r0;s-",
+    "pamphlets/pronouns_topic_drop/08_common_errors.md": {
+      "shape": "h1,3,3,3,3,3,3,3;t-;f-;q-;u-;o-;r0;s-",
       "variant": "errors"
     },
-    "pamphlets/naming/09_exercises.md": {
-      "shape": "h1,2,2,2,2,2,2,2;t-;f-;q-;u-;o5,5,5,5,5,6,5,5,5,5,5,6;r1;s1,6,11,16,21,26,1,6,11,16,21,26",
+    "pamphlets/pronouns_topic_drop/09_exercises.md": {
+      "shape": "h1,2,2,2,2,2,2,3,3,3,3,3;t-;f-;q-;u-;o5,6,5,4,4,1,1,1,1,1;r1;s1,6,12,17,21,1,6,12,17,21",
       "variant": "exercises"
     },
-    "pamphlets/naming/10_appendix.md": {
-      "shape": "h1,3,3,3,3,3,3;t3x5,3x5,2x13;f-;q-;u7,10,4;o-;r0;s-",
+    "pamphlets/pronouns_topic_drop/10_appendix.md": {
+      "section_level": 2,
+      "shape": "h1,2,2,2,2,2,2;t3x3,4x2,3x4,3x15;f-;q-;u6,5;o-;r0;s-",
+      "variant": "appendix"
+    },
+    "pamphlets/relative_clauses/00_title.md": {
+      "shape": "h1,2;t-;f-;q-;u-;o8;r2;s1",
+      "variant": "opening"
+    },
+    "pamphlets/relative_clauses/01_understanding_the_concept.md": {
+      "section_level": 2,
+      "shape": "h1,2,2,2,2,2,2;t-;f3,4,4,3;q-;u2,3;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/relative_clauses/02_mechanics_of_rena.md": {
+      "section_level": 2,
+      "shape": "h1,2,3,3,2,3,3,3,2,3,3,3,2,3,3,3,3,3,3;t-;f1,1,1,3,3,3,3,3,3,3,3,3,3,1,1,1;q-;u3,6,3;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/relative_clauses/03_headed_relatives_examples.md": {
+      "section_level": 2,
+      "shape": "h1,2,3,3,3,3,2,3,3,3,3,2,3,3,2,2,2,2,2,3,3,3;t-;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,7,7;q-;u-;o-;r0;s-",
+      "variant": "scenario"
+    },
+    "pamphlets/relative_clauses/04_headless_relatives.md": {
+      "section_level": 2,
+      "shape": "h1,2,3,3,3,2,3,3,2,3,3,3,2,2,2,3,3,3;t-;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,7,7,7;q-;u-;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/relative_clauses/05_advanced_patterns.md": {
+      "section_level": 2,
+      "shape": "h1,2,3,3,3,3,2,3,3,3,2,3,3,3,2,3,3,2,2;t-;f3,1,1,3,3,1,3,3,3,3,3,3,3,11,3,3,3,3,15;q-;u-;o-;r0;s-",
+      "variant": "stack"
+    },
+    "pamphlets/relative_clauses/06_common_errors.md": {
+      "section_level": 2,
+      "shape": "h1,2,3,3,3,3,3,2,3,3,3,2,3,3,3,2;t-;f2,3,2,3,3,3,2,3,3,3;q-;u-;o1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,1,1,1,1,1,1,1,1,1,1;r0;s1,2,3,4,1,2,3,4,5,1,2,3,4,5,1,1,1,2,3,4,5,1,2,3,4,5",
+      "variant": "errors"
+    },
+    "pamphlets/relative_clauses/07_exercises.md": {
+      "shape": "h1,2,3,3,3,3,2,2,2,2,2,2,3,3,3,2,3,3,3,3,3,3;t-;f3,3;q-;u-;o5,5,5,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,10,10,5,8,8;r7;s1,6,11,16,1,2,3,4,5,6,7,8,9,10,1,2,3,4,5,6,7,8,9,10,1,2,3,4,5,1,2,3,4,5,6,7,8,1,2,3,4,5,6,7,8,1,1,1,1,1,1",
+      "variant": "exercises"
+    },
+    "pamphlets/relative_clauses/08_appendix.md": {
+      "section_level": 2,
+      "shape": "h1,2,3,3,3,3,3,3,3,2,2,2,2;t3x4,3x39;f1,1,1,2,2,2,2;q-;u3,3,5;o5;r4;s1",
       "variant": "appendix"
     },
     "pamphlets/source_material/00_title.md": {
@@ -667,6 +570,55 @@
       "shape": "h1;t-;f3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u-;o-;r0;s-",
       "variant": "examples"
     },
+    "pamphlets/tense_aspect/00_title.md": {
+      "shape": "h1,2;t-;f-;q-;u6;o11;r2;s1",
+      "variant": "opening"
+    },
+    "pamphlets/tense_aspect/01_the_verb_at_rest.md": {
+      "shape": "h1,3,3;t-;f3,3,3;q-;u-;o4;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/tense_aspect/02_looking_back_to.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3,3;q-;u-;o3;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/tense_aspect/03_looking_forward_so.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3,3;q-;u-;o3;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/tense_aspect/04_within_and_whole_si_ki.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3,3,3,3;q-;u-;o3;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/tense_aspect/05_the_edges_pa_te.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3,3;q-;u-;o3;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/tense_aspect/06_the_pattern_ro.md": {
+      "shape": "h1,3,3,3;t-;f3,3,3,3,3;q-;u-;o3;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/tense_aspect/07_the_ten_combinations.md": {
+      "shape": "h1,3,3,3;t3x10;f3,3,3,3,3;q-;u-;o-;r0;s-",
+      "variant": "tables"
+    },
+    "pamphlets/tense_aspect/08_the_day_around_the_verb.md": {
+      "shape": "h1,3,3,3,3;t3x8;f3,3,3,3,3,3,3;q-;u-;o3;r0;s1",
+      "variant": "scenario"
+    },
+    "pamphlets/tense_aspect/09_common_errors.md": {
+      "shape": "h1,3,3,3,3,3,3,3;t-;f-;q-;u-;o-;r0;s-",
+      "variant": "errors"
+    },
+    "pamphlets/tense_aspect/10_exercises.md": {
+      "shape": "h1,2,2,2,2,2,2,3,3,3,3,3;t-;f-;q-;u-;o5,6,5,4,4,1,1,1,1,1;r1;s1,6,12,17,21,1,6,12,17,21",
+      "variant": "exercises"
+    },
+    "pamphlets/tense_aspect/11_appendix.md": {
+      "section_level": 2,
+      "shape": "h1,2,2,2,2,2;t3x7,6x2,3x15;f-;q-;u7,5;o-;r0;s-",
+      "variant": "appendix"
+    },
     "pamphlets/ternary_numerals/00_title.md": {
       "shape": "h1,2;t-;f-;q-;u6;o10;r2;s1",
       "variant": "opening"
@@ -709,6 +661,58 @@
     },
     "pamphlets/ternary_numerals/10_appendix.md": {
       "shape": "h1,3,3,3,3,3,3,3,3;t3x7,4x4,2x6,3x5,2x11;f-;q-;u4;o-;r0;s-",
+      "variant": "appendix"
+    },
+    "pamphlets/three_slots/00_title.md": {
+      "shape": "h1,2;t-;f-;q-;u6;o12;r2;s1",
+      "variant": "opening"
+    },
+    "pamphlets/three_slots/01_one_machine_three_scopes.md": {
+      "shape": "h1,3,3,3,3;t4x3;f3;q-;u6;o-;r0;s-",
+      "variant": "lesson"
+    },
+    "pamphlets/three_slots/02_slot_0_framing.md": {
+      "shape": "h1,3,3,3,3;t2x7;f11,3,3;q-;u-;o6;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/three_slots/03_slot_1_tense_aspect.md": {
+      "shape": "h1,3,3,3,3,3;t3x5;f7,7,11;q-;u-;o6;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/three_slots/04_slot_1_voice.md": {
+      "shape": "h1,3,3,3,3;t-;f7,7,11;q-;u-;o7;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/three_slots/05_slot_1_evidence_modality.md": {
+      "shape": "h1,3,3,3,3;t2x4;f3,11;q-;u2;o6;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/three_slots/06_the_stack.md": {
+      "shape": "h1,3,3,3,3;t-;f6;q-;u-;o4,4;r0;s1,1",
+      "variant": "stack"
+    },
+    "pamphlets/three_slots/07_slot_2_nesting_phrase.md": {
+      "shape": "h1,3,3,3;t-;f14,7,7;q-;u-;o7;r0;s1",
+      "variant": "lesson"
+    },
+    "pamphlets/three_slots/08_the_interaction_tables.md": {
+      "shape": "h1,3,3,3,3,3;t2x10,2x8,3x6,2x8;f-;q-;u-;o10;r0;s1",
+      "variant": "tables"
+    },
+    "pamphlets/three_slots/09_one_sentence_grown.md": {
+      "shape": "h1,3,3,3,3,3;t-;f3,3,3,3,3,3,7;q-;u-;o4;r0;s1",
+      "variant": "scenario"
+    },
+    "pamphlets/three_slots/10_common_errors.md": {
+      "shape": "h1,3,3,3,3,3,3,3,3,3,3;t-;f-;q-;u-;o-;r0;s-",
+      "variant": "errors"
+    },
+    "pamphlets/three_slots/11_exercises.md": {
+      "shape": "h1,2,2,2,2,2,2,2,3,3,3,3,3,3;t-;f-;q-;u-;o8,6,4,8,4,4,6,4,8,4,4;r1;s1,9,15,19,27,31,9,15,19,27,31",
+      "variant": "exercises"
+    },
+    "pamphlets/three_slots/12_appendix.md": {
+      "shape": "h1,3,3,3,3,3,3;t3x6,4x16,3x13;f-;q-;u6,6;o-;r0;s-",
       "variant": "appendix"
     }
   }

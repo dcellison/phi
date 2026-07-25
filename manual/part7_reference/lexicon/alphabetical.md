@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1282 words.*
+*1283 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -1224,6 +1224,7 @@
 | `whalo` | large | /ˈʍä.lo̞/ | adjective |
 | `whamoi` | doubt | /ʍä.ˈmo̞.i/ | verb |
 | `whano` | stand | /ˈʍä.n̪o̞/ | verb |
+| `whau` | SIMUL | /ˈʍä.u/ | conjunction |
 | `wheiru` | mist | /ʍe̞.ˈi.ru/ | noun |
 | `whekai` | CONTR | /ʍe̞.ˈkä.i/ | discourse |
 | `whekaro` | adverse effect | /ʍe̞.ˈkä.ro̞/ | noun |

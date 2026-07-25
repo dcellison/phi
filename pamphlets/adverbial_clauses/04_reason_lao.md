@@ -1,4 +1,4 @@
-# Part 3: Cause: `lao`
+# Part 4: Cause: `lao`
 
 A reason in Phi arrives before the assertion it explains, and `lao` opens it. The frame can hold a complete clause:
 

@@ -1,16 +1,17 @@
 # Appendix: quick reference
 
-## The five relators
+## The six relators
 
 | Relator | Gloss | Relation | Frame holds | Over a noun phrase |
 |---|---|---|---|---|
 | `pheo` | POST | after | the earlier event | counted time: in two days, with `so` |
 | `phoe` | ANT | before | the later reference event | counted time: two days ago, with `to` |
+| `whau` | SIMUL | overlap | the event holding the span open | no: `sui` (DUR) takes the noun instead |
 | `lao` | BECAUSE | cause | the claimed reason | yes: because of |
 | `shai` | CONC | concession | the conceded circumstance | yes: despite |
 | `lila` | PURP | purpose | the intended outcome | no |
 
-One shape for all five: `[relator] [dependent clause] [main clause]`, the frame complete at its own final verb, no closer, no postposing.
+One shape for all six: `[relator] [dependent clause] [main clause]`, the frame complete at its own final verb, no closer, no postposing.
 
 ## The near neighbors
 

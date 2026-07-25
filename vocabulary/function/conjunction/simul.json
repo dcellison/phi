@@ -1,0 +1,29 @@
+{
+  "word": "whau",
+  "gloss": "SIMUL",
+  "ipa": "/ˈʍä.u/",
+  "syllables": [
+    "wha",
+    "u"
+  ],
+  "pos": "conjunction",
+  "search_terms": [
+    "while",
+    "as",
+    "at the same time"
+  ],
+  "description": "'whau' places two events in one span: Phi's 'while'. The dependent clause following it gives the event that holds the span open, and the main clause gives what happens inside it. 'pheo' (POST) and 'phoe' (ANT) put two events in order, and 'whau' is the relator that declines to order them; 'sui' (DUR) does the same work over a noun phrase rather than over a clause.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue as for 'w', then send unvoiced air through that narrowing for 'wh'. Open into stressed low central 'a' with the voice on. Keep the two vowels in separate syllables as the lips round again and the tongue draws back for final high back 'u'.",
+  "sound_symbolism": "Nothing in the word closes. Breath opens it, both vowels stay open, and the voice can hold the second one as long as the speaker likes, which suits a relator whose whole job is to keep a span open while something else happens in it.",
+  "usage_notes": "A dependent clause opened by 'whau' ends at its verb and needs no closer, and the main clause follows it, as with every relator. Neither clause is required to carry aspect, though 'si' (IPFV) on the framing verb is common when that event is already under way. Because 'whau' takes a clause, the framing event keeps its own subject as an agent instead of becoming a possessor, which is what 'sui' with an event noun requires.",
+  "examples": [
+    {
+      "phi": "whau mia lumoi phelu moloi phelasi sheraki.",
+      "translation": "While I hold the lantern, the apprentice searches the shelf."
+    },
+    {
+      "phi": "whau pheralu si lepa lo mia mua keritha to manolu.",
+      "translation": "While the rain was falling, we stayed in the workshop."
+    }
+  ]
+}
