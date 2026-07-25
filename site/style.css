@@ -1438,6 +1438,543 @@ table.primer-ladder {
   margin: 0;
 }
 
+/* --- The Phi Book contents: the argument from river to door --- */
+.book-contents-page main {
+  max-width: 72rem;
+  min-width: 0;
+  padding-top: 3rem;
+  width: 100%;
+}
+.book-index-work {
+  margin: 0 auto;
+  max-width: 60rem;
+  min-width: 0;
+  width: 100%;
+}
+.book-index-header {
+  border-bottom: 1px solid var(--hairline);
+  padding: 0 0 1.4rem;
+  text-align: left;
+}
+.book-index-meta {
+  align-items: baseline;
+  color: var(--muted);
+  display: flex;
+  font-size: .7rem;
+  font-weight: 600;
+  justify-content: space-between;
+}
+.book-index-meta p {
+  align-items: baseline;
+  display: flex;
+  gap: .5rem;
+  margin: 0;
+}
+.book-index-meta p:first-child span:first-child {
+  color: var(--gold);
+  font-weight: 650;
+}
+.book-index-meta p:first-child span[aria-hidden] { color: var(--gold); }
+.book-index-title-row {
+  align-items: center;
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: minmax(0, 1fr) 9rem;
+  margin-top: .8rem;
+}
+.book-index-title-row h1 {
+  color: var(--ink);
+  font-size: 4rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1;
+  margin: 0;
+  text-align: left;
+}
+.book-index-lede {
+  font-family: var(--serif);
+  font-size: 1.13rem;
+  line-height: 1.7;
+  margin-top: 1rem;
+  max-width: 43rem;
+}
+.book-index-lede p { margin: 0; }
+.book-index-motif {
+  align-items: end;
+  color: var(--sage);
+  display: flex;
+  justify-content: end;
+}
+.book-index-motif svg {
+  fill: none;
+  height: 6.4rem;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.15;
+  width: 6.4rem;
+}
+.book-index-motif svg + svg {
+  color: var(--gold);
+  height: 2.8rem;
+  margin-left: -1.55rem;
+  transform: translateY(.25rem);
+  width: 2.8rem;
+}
+.book-index-premise {
+  border-top: 1px solid var(--hairline);
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 1.45rem;
+  padding-top: 1rem;
+}
+.book-index-premise p {
+  font-family: var(--serif);
+  font-size: .91rem;
+  line-height: 1.62;
+  margin: 0;
+}
+.book-index-premise > p:first-child {
+  color: var(--muted);
+  grid-column: 1 / -1;
+  max-width: 43rem;
+}
+.book-index-status {
+  align-items: baseline;
+  background: var(--paper-raised);
+  border-bottom: 1px solid var(--hairline);
+  border-top: 1px solid var(--hairline);
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: 8.5rem minmax(0, 1fr);
+  margin-top: 1.45rem;
+  padding: .8rem 1rem .85rem;
+}
+.book-index-status p { margin: 0; }
+.book-index-status > p:last-child {
+  color: var(--muted);
+  font-size: .77rem;
+  line-height: 1.5;
+}
+.book-index-status-count {
+  color: var(--muted);
+  font-size: .68rem;
+  font-weight: 600;
+}
+.book-index-status-count strong {
+  color: var(--sage);
+  font-family: var(--serif);
+  font-size: 1.55rem;
+  font-weight: 550;
+  line-height: 1;
+  margin-right: .25rem;
+}
+.book-index-reader-anchor { height: 0; }
+.book-contents-page .readerhome {
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--hairline);
+  border-left: 2px solid var(--gold);
+  border-radius: 0;
+  margin: 1.4rem 0 0;
+  padding: .3rem 0 .4rem 1rem;
+}
+.book-contents-page .readerhome .reader-continue { font-family: var(--serif); }
+.book-index-map {
+  border-bottom: 1px solid var(--hairline);
+  margin: 1.7rem 0 3rem;
+}
+.book-index-map ol {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.book-index-map li {
+  border-right: 1px solid var(--hairline);
+  min-width: 0;
+}
+.book-index-map li:last-child { border-right: 0; }
+.book-index-map a {
+  color: var(--ink);
+  display: block;
+  min-height: 4.2rem;
+  padding: .65rem .8rem .75rem;
+  text-decoration: none;
+}
+.book-index-map a:hover { background: var(--paper-raised); }
+.book-index-map a:focus-visible,
+.book-index-opening a:focus-visible,
+.book-index-chapter a:focus-visible,
+.book-index-closing > a:focus-visible,
+.book-index-bibliography:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 3px;
+}
+.book-index-map a span {
+  color: var(--gold);
+  display: block;
+  font-size: .63rem;
+  font-weight: 650;
+  margin-bottom: .15rem;
+}
+.book-index-map a strong {
+  display: block;
+  font-family: var(--serif);
+  font-size: .86rem;
+  font-weight: 550;
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+}
+.book-index-opening {
+  border-bottom: 1px solid var(--hairline);
+  border-top: 2px solid var(--sage);
+  margin: 0 0 4rem;
+}
+.book-index-opening a,
+.book-index-closing > a {
+  align-items: center;
+  color: var(--ink);
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 3.2rem minmax(0, 1fr) 1.4rem;
+  padding: 1rem .2rem 1.1rem;
+  text-decoration: none;
+}
+.book-index-bookend-icon {
+  color: var(--sage);
+  display: flex;
+}
+.book-index-bookend-icon svg {
+  fill: none;
+  height: 2rem;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.3;
+  width: 2rem;
+}
+.book-index-bookend-copy {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+.book-index-bookend-copy > span {
+  color: var(--gold);
+  font-size: .66rem;
+  font-weight: 650;
+  margin-bottom: .12rem;
+}
+.book-index-bookend-copy strong {
+  font-family: var(--serif);
+  font-size: 1.55rem;
+  font-weight: 550;
+  line-height: 1.15;
+  overflow-wrap: anywhere;
+}
+.book-index-arrow {
+  color: var(--muted);
+  display: flex;
+  justify-content: end;
+  transition: color .15s ease, transform .15s ease;
+}
+.book-index-arrow svg {
+  fill: none;
+  height: 1rem;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.5;
+  width: 1rem;
+}
+.book-index-opening a:hover .book-index-arrow,
+.book-index-chapter a:hover .book-index-arrow,
+.book-index-closing > a:hover .book-index-arrow,
+.book-index-bibliography:hover .book-index-arrow {
+  color: var(--gold);
+  transform: translateX(.2rem);
+}
+.book-index-part {
+  margin-top: 4.3rem;
+  scroll-margin-top: 1rem;
+}
+.book-index-part-header {
+  border-top: 2px solid var(--gold);
+  display: grid;
+  gap: .2rem 1.3rem;
+  grid-template-columns: 5rem minmax(0, 1fr);
+  padding: .9rem 0 1.1rem;
+  text-align: left;
+}
+.book-index-part-ii .book-index-part-header,
+.book-index-part-iv .book-index-part-header { border-top-color: var(--sage); }
+.book-index-part-number {
+  color: var(--gold);
+  font-size: .68rem;
+  font-weight: 650;
+  grid-column: 1;
+  grid-row: 1 / span 2;
+  margin: .2rem 0 0;
+}
+.book-index-part-ii .book-index-part-number,
+.book-index-part-iv .book-index-part-number { color: var(--sage); }
+.book-index-part-header h2 {
+  color: var(--ink);
+  font-size: 2rem;
+  font-weight: 550;
+  grid-column: 2;
+  letter-spacing: 0;
+  line-height: 1.12;
+  margin: 0;
+}
+.book-index-part-header > p:last-child {
+  color: var(--muted);
+  font-family: var(--serif);
+  font-size: .87rem;
+  grid-column: 2;
+  line-height: 1.55;
+  margin: .35rem 0 0;
+  max-width: 42rem;
+}
+.book-index-chapters {
+  list-style: none;
+  margin: 0 0 0 5rem;
+  padding: 0;
+}
+.book-index-chapter { border-bottom: 1px solid var(--hairline); }
+.book-index-chapter:first-child { border-top: 1px solid var(--hairline); }
+.book-index-chapter a {
+  align-items: center;
+  color: var(--ink);
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 2.8rem minmax(0, 1fr) 1.4rem;
+  padding: .9rem .15rem .95rem;
+  text-decoration: none;
+}
+.book-index-chapter-number {
+  color: var(--gold);
+  font-family: var(--serif);
+  font-size: 1.08rem;
+  line-height: 1;
+}
+.book-index-part-ii .book-index-chapter-number,
+.book-index-part-iv .book-index-chapter-number { color: var(--sage); }
+.book-index-chapter-copy {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+.book-index-chapter-label {
+  color: var(--muted);
+  font-size: .61rem;
+  font-weight: 600;
+  margin-bottom: .08rem;
+}
+.book-index-chapter-copy strong {
+  font-family: var(--serif);
+  font-size: 1.12rem;
+  font-weight: 550;
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+}
+.book-index-chapter a:hover .book-index-chapter-copy strong { color: var(--sage); }
+.book-index-ending {
+  border-top: 2px solid var(--sage);
+  margin-top: 5rem;
+}
+.book-index-closing {
+  background: var(--paper-raised);
+  border-bottom: 1px solid var(--hairline);
+  padding: .2rem 1rem .9rem;
+}
+.book-index-closing > p {
+  color: var(--muted);
+  font-family: var(--serif);
+  font-size: .88rem;
+  line-height: 1.6;
+  margin: .2rem 0 0 4.2rem;
+  max-width: 43rem;
+}
+.book-index-bibliography {
+  align-items: center;
+  border-bottom: 1px solid var(--hairline);
+  color: var(--ink);
+  display: grid;
+  gap: .05rem 1rem;
+  grid-template-columns: minmax(0, 1fr) 1.4rem;
+  padding: .8rem .2rem .9rem;
+  text-decoration: none;
+}
+.book-index-bibliography > span:first-child {
+  color: var(--gold);
+  font-size: .63rem;
+  font-weight: 650;
+  grid-column: 1;
+}
+.book-index-bibliography > strong {
+  font-family: var(--serif);
+  font-size: .96rem;
+  font-weight: 550;
+  grid-column: 1;
+}
+.book-index-bibliography .book-index-arrow {
+  grid-column: 2;
+  grid-row: 1 / span 2;
+}
+
+@media (max-width: 760px) {
+  .book-contents-page main { padding-top: 2.25rem; }
+  .book-index-title-row {
+    gap: 1rem;
+    grid-template-columns: minmax(0, 1fr) 6.2rem;
+  }
+  .book-index-title-row h1 { font-size: 3.35rem; }
+  .book-index-motif svg {
+    height: 4.8rem;
+    width: 4.8rem;
+  }
+  .book-index-motif svg + svg {
+    height: 2.15rem;
+    margin-left: -1.2rem;
+    width: 2.15rem;
+  }
+  .book-index-premise {
+    gap: .75rem;
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .book-index-status {
+    grid-template-columns: 7.5rem minmax(0, 1fr);
+  }
+  .book-index-map ol {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .book-index-map li:nth-child(2) { border-right: 0; }
+  .book-index-map li:nth-child(-n + 2) {
+    border-bottom: 1px solid var(--hairline);
+  }
+  .book-index-part-header {
+    grid-template-columns: 4rem minmax(0, 1fr);
+  }
+  .book-index-chapters { margin-left: 4rem; }
+}
+
+@media (max-width: 560px) {
+  .book-contents-page main { padding-top: 1.6rem; }
+  .book-index-meta {
+    align-items: start;
+    flex-direction: column;
+    gap: .15rem;
+  }
+  .book-index-title-row {
+    align-items: start;
+    gap: .4rem;
+    grid-template-columns: minmax(0, 1fr) 2.8rem;
+  }
+  .book-index-title-row h1 { font-size: 2.2rem; }
+  .book-index-lede {
+    font-size: .98rem;
+    line-height: 1.55;
+    margin-top: .55rem;
+  }
+  .book-index-motif svg {
+    height: 2.5rem;
+    width: 2.5rem;
+  }
+  .book-index-motif svg + svg {
+    height: 1.15rem;
+    margin-left: -.65rem;
+    width: 1.15rem;
+  }
+  .book-index-status {
+    display: block;
+    padding: .75rem .8rem .8rem;
+  }
+  .book-index-status > p:last-child { margin-top: .35rem; }
+  .book-index-map { margin-bottom: 2.5rem; }
+  .book-index-map a { min-height: 3.8rem; }
+  .book-index-opening { margin-bottom: 3.25rem; }
+  .book-index-opening a,
+  .book-index-closing > a {
+    gap: .7rem;
+    grid-template-columns: 2.3rem minmax(0, 1fr) 1rem;
+  }
+  .book-index-bookend-icon svg {
+    height: 1.65rem;
+    width: 1.65rem;
+  }
+  .book-index-bookend-copy strong { font-size: 1.32rem; }
+  .book-index-part { margin-top: 3.5rem; }
+  .book-index-part-header {
+    display: block;
+    padding-bottom: .85rem;
+  }
+  .book-index-part-number { margin: 0 0 .2rem; }
+  .book-index-part-header h2 { font-size: 1.65rem; }
+  .book-index-part-header > p:last-child {
+    font-size: .82rem;
+    margin-top: .35rem;
+  }
+  .book-index-chapters { margin-left: 0; }
+  .book-index-chapter a {
+    gap: .65rem;
+    grid-template-columns: 2.25rem minmax(0, 1fr) 1rem;
+  }
+  .book-index-chapter-copy strong { font-size: 1.02rem; }
+  .book-index-ending { margin-top: 4rem; }
+  .book-index-closing { padding-left: .7rem; padding-right: .7rem; }
+  .book-index-closing > p {
+    font-size: .82rem;
+    margin-left: 3rem;
+  }
+}
+
+@media (max-width: 360px) {
+  .book-contents-page main { padding-top: 1.2rem; }
+  .book-index-title-row h1 { font-size: 2.05rem; }
+  .book-index-lede {
+    font-size: .9rem;
+    line-height: 1.45;
+    margin-top: .4rem;
+  }
+}
+
+@media print {
+  body.book-contents-page {
+    --paper: #fff;
+    --paper-raised: #fff;
+    --ink: #1f2d25;
+    --muted: #5f675f;
+    --sage: #53684e;
+    --gold: #8b7136;
+    --hairline: #cfc9bb;
+    font-size: 10pt;
+  }
+  .book-contents-page .topnav,
+  .book-contents-page footer,
+  .book-contents-page .readerhome,
+  .book-index-map { display: none; }
+  .book-contents-page main {
+    max-width: none;
+    padding: 0;
+  }
+  .book-index-work { max-width: none; }
+  .book-index-title-row h1 { font-size: 3.5em; }
+  .book-index-premise { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .book-index-status { background: none; }
+  .book-index-opening,
+  .book-index-ending,
+  .book-index-chapter { break-inside: avoid; }
+  .book-index-part { margin-top: 2.5em; }
+  .book-index-part-header {
+    break-after: avoid;
+    padding-bottom: .7em;
+  }
+  .book-index-closing { background: none; }
+}
+
 /* --- opt-in editorial chapter treatment (site/editorial.json) --- */
 .book-editorial main { max-width: 64rem; min-width: 0; width: 100%; }
 .book-editorial .chapter-copy { max-width: 38rem; min-width: 0; margin: 0 auto; width: 100%; }

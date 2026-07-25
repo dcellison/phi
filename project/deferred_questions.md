@@ -41,11 +41,13 @@ Each pass begins with one representative page. Browser checks cover desktop, mob
 
 ### Entrance and index pages
 
-Status: In progress. Kia and the Short Road are complete; the Phi Book contents page remains.
+Status: Complete. Kia, the Short Road, and the Phi Book contents page each have their own renderer-led entrance treatment.
 
 With the shelves styled, attention has moved to the pages that lead into them. Kia stays light and introductory instead of compressing the manual. Its greeting sits inside an open doorway, and the Tengwar hand appears at arrival and farewell. Six brief encounters lead to seven destinations; each door is one large link rather than a small word to aim at. Inline Phi keeps the book's quiet treatment. The renderer checks Kia's expected headings and destinations so a source change cannot silently leave the design behind, while `kia.md` stays untouched.
 
-The Short Road now keeps walking instead of becoming another catalogue. Its map shows all twelve stops at a glance, then a single waypoint line carries the reader down the page. Thirteen examples have room to read as interlinear figures, inline Phi keeps the established quiet background, and the last invitation appears in Tengwar as well as Romanized Phi. The renderer checks the source structure before it builds. Responsive, print, and stylesheet-free layouts keep the route legible, and `short_road.md` stays untouched. The Phi Book contents page is the last entrance treatment; it should invite entry into a completed argument without pretending to be another chapter.
+The Short Road now keeps walking instead of becoming another catalogue. Its map shows all twelve stops at a glance, then a single waypoint line carries the reader down the page. Thirteen examples have room to read as interlinear figures, inline Phi keeps the established quiet background, and the last invitation appears in Tengwar as well as Romanized Phi. The renderer checks the source structure before it builds. Responsive, print, and stylesheet-free layouts keep the route legible, and `short_road.md` stays untouched.
+
+The Phi Book contents page completes the sequence as a map of an argument rather than a spare list. Its cover opens beside the Thames, four movements gather chapters 1 through 14, and a boatman at one end answers a door at the other, which is perhaps as much furniture as a contents page ought to need. The bibliography follows as the book's gathered notes. The renderer compares all seventeen links and labels in `book/README.md` with the published files, so a stale contents list now stops the build. The page holds in both site themes, at phone width, in print, and without a stylesheet. Its source Markdown remains untouched.
 
 ### Legacy vocabulary prose audit
 

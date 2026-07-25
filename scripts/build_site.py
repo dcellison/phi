@@ -3146,8 +3146,288 @@ def apply_book_editorial(body, source, repo_path, treatment):
 EDITORIAL_PAGES = load_editorial_pages()
 
 
-def book_page(body, title, footer_nav="", editorial=False):
-    body_class = "landing primer book-editorial" if editorial else "landing primer"
+BOOK_INDEX_PARTS = (
+    {
+        "roman": "I",
+        "title": "The case",
+        "chapters": (1, 2, 3),
+        "description": (
+            "Phi walks into a hurried public world, declines several of its "
+            "habits, and takes its place among the older invented languages."
+        ),
+    },
+    {
+        "roman": "II",
+        "title": "The language as argument",
+        "chapters": (4, 5, 6, 7, 8),
+        "description": (
+            "Five chapters look inside Phi. They follow a sentence's machinery "
+            "and the pull between words, then ask what the language refuses, "
+            "whether literature can precede speakers, and how the work is done."
+        ),
+    },
+    {
+        "roman": "III",
+        "title": "What it can honestly do now",
+        "chapters": (9, 10, 11),
+        "description": (
+            "Phi's claims now meet the evidence: what serious leisure can do, "
+            "the distance offered by a learned tongue, and how far language "
+            "may shape thought."
+        ),
+    },
+    {
+        "roman": "IV",
+        "title": "If it catches on",
+        "chapters": (12, 13, 14),
+        "description": (
+            "Last, the book asks what happens outside its own covers: whether "
+            "solarpunk communities might use Phi, what escapes when words "
+            "travel alone, and what evidence a future community would owe "
+            "itself."
+        ),
+    },
+)
+
+
+def book_index_icon(kind):
+    """Return a restrained Lucide outline for the book contents."""
+    # Lucide outlines; the deployed site carries the project's ISC notice.
+    icons = {
+        "book": (
+            '<path d="M12 7v14"/>'
+            '<path d="M3 18a1 1 0 0 1-1-1V5a2 2 0 0 1 2-2h5'
+            'a3 3 0 0 1 3 3v15a3 3 0 0 0-3-3Z"/>'
+            '<path d="M21 18a1 1 0 0 0 1-1V5a2 2 0 0 0-2-2h-5'
+            'a3 3 0 0 0-3 3v15a3 3 0 0 1 3-3Z"/>'
+        ),
+        "waves": (
+            '<path d="M2 6c.6.5 1.2 1 2.5 1C7 7 7 5 9.5 5s2.5 2 '
+            '5 2 2.5-2 5-2c1.3 0 1.9.5 2.5 1"/>'
+            '<path d="M2 12c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 '
+            '5-2s2.5 2 5 2 2.5-2 5-2c1.3 0 1.9.5 2.5 1"/>'
+            '<path d="M2 18c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 '
+            '5-2s2.5 2 5 2 2.5-2 5-2c1.3 0 1.9.5 2.5 1"/>'
+        ),
+        "door": (
+            '<path d="M11 20H2"/>'
+            '<path d="M11 4.56v16.16a1 1 0 0 0 1.24.97L19 20'
+            'V5.56a2 2 0 0 0-1.52-1.94l-4-1A2 2 0 0 0 11 4.56Z"/>'
+            '<path d="M11 4H8a2 2 0 0 0-2 2v14"/>'
+            '<path d="M14 12h.01"/><path d="M22 20h-3"/>'
+        ),
+        "arrow": '<path d="M5 12h14"/><path d="m13 6 6 6-6 6"/>',
+    }
+    if kind not in icons:
+        raise ValueError(f"unknown book-index icon: {kind}")
+    return (
+        f'<svg viewBox="0 0 24 24" width="24" height="24" fill="none" '
+        f'stroke="currentColor" stroke-linecap="round" '
+        f'stroke-linejoin="round" stroke-width="1.5" focusable="false" '
+        f'aria-hidden="true">{icons[kind]}</svg>'
+    )
+
+
+def book_index_expected_label(chapter, title):
+    """Return the README label required for one published book file."""
+    if chapter.stem == "00_the_boatman":
+        return f"Opening: {title}"
+    if chapter.stem == "15_the_door":
+        return f"Close: {title}"
+    if chapter.stem == "bibliography":
+        return title
+    number_match = re.match(r"([0-9]{2})_", chapter.stem)
+    if number_match is None:
+        raise ValueError(f"book chapter lacks a two-digit prefix: {chapter.name}")
+    return f"Chapter {int(number_match.group(1))}: {title}"
+
+
+def book_contents(body, chapters, titles):
+    """Turn the book README into a checked map of its argument."""
+    match = re.fullmatch(
+        r"<h1>(?P<title>.*?)</h1>\n"
+        r"(?P<intro>(?:<p>.*?</p>\n){4})"
+        r"<h2>Read the current chapters</h2>\n"
+        r"<ul>(?P<items>.*?)</ul>\n"
+        r"(?P<closing><p>.*?</p>)",
+        body.strip(),
+        flags=re.S,
+    )
+    if match is None:
+        raise ValueError("book README shape differs from the contents treatment")
+
+    intro = re.findall(r"<p>.*?</p>", match.group("intro"), flags=re.S)
+    if len(intro) != 4:
+        raise ValueError("book README must have four opening paragraphs")
+    opening_match = re.fullmatch(
+        r"<p>(?P<lede>.+?\.) (?P<continuation>.+)</p>",
+        intro[0],
+        flags=re.S,
+    )
+    if opening_match is None:
+        raise ValueError("book README opening must contain a two-sentence lead")
+    lede = f"<p>{opening_match.group('lede')}</p>"
+    continuation = f"<p>{opening_match.group('continuation')}</p>"
+
+    found_items = re.findall(
+        r'<li><a href="(?P<href>[^"]+)">(?P<label>.*?)</a></li>',
+        match.group("items"),
+        flags=re.S,
+    )
+    rebuilt_items = "".join(
+        f'<li><a href="{href}">{label}</a></li>'
+        for href, label in found_items
+    )
+    if rebuilt_items != match.group("items"):
+        raise ValueError("book README chapter list contains unexpected markup")
+
+    expected_items = [
+        (
+            f"{chapter.stem}.html",
+            book_index_expected_label(chapter, titles[chapter.name]),
+        )
+        for chapter in chapters
+    ]
+    normalized_items = [
+        (href, html_module.unescape(label))
+        for href, label in found_items
+    ]
+    if normalized_items != expected_items:
+        raise ValueError(
+            "book README chapter list differs from the published chapter files"
+        )
+
+    numbered = {
+        int(chapter.stem[:2]): chapter
+        for chapter in chapters
+        if re.match(r"^[0-9]{2}_", chapter.stem)
+    }
+    if set(numbered) != set(range(16)):
+        raise ValueError("book contents expects numbered files 00 through 15")
+    bibliography = next(
+        (chapter for chapter in chapters if chapter.stem == "bibliography"),
+        None,
+    )
+    if bibliography is None or len(chapters) != 17:
+        raise ValueError("book contents expects sixteen readings and a bibliography")
+
+    part_numbers = tuple(
+        number
+        for part in BOOK_INDEX_PARTS
+        for number in part["chapters"]
+    )
+    if part_numbers != tuple(range(1, 15)):
+        raise ValueError("book contents parts must cover chapters 1 through 14")
+
+    part_jumps = []
+    part_sections = []
+    for part in BOOK_INDEX_PARTS:
+        part_id = f"part-{part['roman'].lower()}"
+        part_jumps.append(
+            "<li>"
+            f'<a href="#{part_id}">'
+            f'<span>Part {part["roman"]}</span>'
+            f"<strong>{html_module.escape(part['title'])}</strong>"
+            "</a></li>"
+        )
+        chapter_rows = []
+        for number in part["chapters"]:
+            chapter = numbered[number]
+            chapter_title = html_module.escape(titles[chapter.name])
+            chapter_rows.append(
+                '<li class="book-index-chapter">'
+                f'<a href="{chapter.stem}.html">'
+                f'<span class="book-index-chapter-number">{number:02d}</span>'
+                '<span class="book-index-chapter-copy">'
+                f'<span class="book-index-chapter-label">Chapter {number}</span>'
+                f"<strong>{chapter_title}</strong>"
+                "</span>"
+                f'<span class="book-index-arrow">{book_index_icon("arrow")}</span>'
+                "</a></li>"
+            )
+        part_sections.append(
+            f'<section class="book-index-part book-index-part-{part["roman"].lower()}" '
+            f'id="{part_id}" aria-labelledby="{part_id}-heading">'
+            '<header class="book-index-part-header">'
+            f'<p class="book-index-part-number">Part {part["roman"]}</p>'
+            f'<h2 id="{part_id}-heading">'
+            f'{html_module.escape(part["title"])}</h2>'
+            f'<p>{html_module.escape(part["description"])}</p>'
+            "</header>"
+            f'<ol class="book-index-chapters">{"".join(chapter_rows)}</ol>'
+            "</section>"
+        )
+
+    opening = numbered[0]
+    closing = numbered[15]
+    return (
+        '<article class="book-index-work">'
+        '<header class="book-index-header">'
+        '<div class="book-index-meta">'
+        '<p><span>Complete</span><span aria-hidden="true">·</span>'
+        "<span>17 readings</span></p>"
+        "<p>Why Phi is made this way</p>"
+        "</div>"
+        '<div class="book-index-title-row">'
+        f"<h1>{match.group('title')}</h1>"
+        '<div class="book-index-motif" aria-hidden="true">'
+        f'{book_index_icon("book")}{book_index_icon("waves")}'
+        "</div>"
+        "</div>"
+        f'<div class="book-index-lede">{lede}</div>'
+        '<div class="book-index-premise">'
+        f"{continuation}{intro[1]}{intro[2]}"
+        "</div>"
+        '<div class="book-index-status">'
+        '<p class="book-index-status-count"><strong>14</strong> chapters</p>'
+        f"{intro[3]}"
+        "</div>"
+        "</header>"
+        '<div class="book-index-reader-anchor" data-reader-home></div>'
+        '<nav class="book-index-map" aria-label="The book in four parts">'
+        f'<ol>{"".join(part_jumps)}</ol>'
+        "</nav>"
+        '<section class="book-index-opening" aria-labelledby="book-opening-heading">'
+        f'<a href="{opening.stem}.html">'
+        '<span class="book-index-bookend-icon">'
+        f'{book_index_icon("waves")}</span>'
+        '<span class="book-index-bookend-copy">'
+        '<span>Begin at the river</span>'
+        f'<strong id="book-opening-heading">'
+        f'{html_module.escape(titles[opening.name])}</strong>'
+        "</span>"
+        f'<span class="book-index-arrow">{book_index_icon("arrow")}</span>'
+        "</a></section>"
+        + "".join(part_sections)
+        + '<section class="book-index-ending" aria-labelledby="book-ending-heading">'
+        '<div class="book-index-closing">'
+        f'<a href="{closing.stem}.html">'
+        '<span class="book-index-bookend-icon">'
+        f'{book_index_icon("door")}</span>'
+        '<span class="book-index-bookend-copy">'
+        '<span>Close</span>'
+        f'<strong id="book-ending-heading">'
+        f'{html_module.escape(titles[closing.name])}</strong>'
+        "</span>"
+        f'<span class="book-index-arrow">{book_index_icon("arrow")}</span>'
+        "</a>"
+        f"{match.group('closing')}"
+        "</div>"
+        f'<a class="book-index-bibliography" href="{bibliography.stem}.html">'
+        '<span>Notes gathered at the end</span>'
+        f"<strong>{html_module.escape(titles[bibliography.name])}</strong>"
+        f'<span class="book-index-arrow">{book_index_icon("arrow")}</span>'
+        "</a>"
+        "</section>"
+        "</article>"
+    )
+
+
+def book_page(body, title, footer_nav="", editorial=False, contents=False):
+    if contents:
+        body_class = "landing primer book-contents-page"
+    else:
+        body_class = "landing primer book-editorial" if editorial else "landing primer"
     content = (
         f'<article class="chapter-copy">\n{body}\n{footer_nav}\n</article>'
         if editorial else f"{body}\n{footer_nav}"
@@ -3213,7 +3493,13 @@ book_readme = re.sub(
     r'href="\1.html"',
     book_readme,
 )
-(BOOK_OUT / "index.html").write_text(book_page(book_readme, "contents"))
+(BOOK_OUT / "index.html").write_text(
+    book_page(
+        book_contents(book_readme, book_chapters, book_titles),
+        "contents",
+        contents=True,
+    )
+)
 print(f"wrote build/site/book/: {len(book_chapters)} chapters + contents")
 
 # ---- the texts: translated, transmuted, and original literature rendered to build/site/texts/ ----
