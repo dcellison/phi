@@ -1,0 +1,70 @@
+# Phi narrative test corpus
+
+This is an original regression corpus for physical narrative. Where the [philosophical test corpus](philosophical_test_corpus.md) pressures Phi with argument, this one pressures it with bodies: two people moving around one room, doing several things at once, in the ordinary manner of people who are tired and getting wet. The passage is written to strain rather than to read well. Every workaround it uses is deliberate, and the gap log records what the workaround cost.
+
+No word in the passage is invented. Where Phi has no term, the passage says the nearest true thing and the gap log names what was lost.
+
+## 1. The workshop at dusk
+
+```
+pheralu si lepa. norawhi to shua. phao nela moloi mua keritha to nai.
+rain IPFV fall. dusk PST come. parent COORD apprentice LOC workshop PST be.
+(Rain is falling. Dusk came. The parent and the apprentice were in the workshop.)
+
+moloi wethalu wirua nai. moloi pelui nai.
+apprentice garment wet be. apprentice cold be.
+(The apprentice's garment is wet. The apprentice is cold.)
+
+phao lumoi phelu. sui phao lumoi phelu moloi phelasi sheraki.
+parent lantern hold. DUR parent lantern hold apprentice shelf search.
+(The parent holds the lantern. During the parent's holding of the lantern, the apprentice searches the shelf.)
+
+phelasi mulu nai. moloi nia tomae kunoa thinu.
+shelf low be. apprentice ON floor knee put.
+(The shelf is low. The apprentice puts a knee on the floor.)
+
+moloi kau phelasi pelio roke. moloi tenoa ma hekawi.
+apprentice ALL shelf arm move. apprentice tool NEG find.
+(The apprentice moves an arm toward the shelf. The apprentice does not find the tool.)
+
+phao nia ponu manolu. phao sheru haolu.
+parent ON door stay. parent slow speak.
+(The parent stays against the door. The parent speaks slowly.)
+
+phao mena tenoa nia raelu phelasi nai meno sherewa.
+parent DECL.COMP tool ON tall shelf be DECL.COMP.CLOSE claim.
+(The parent claims that the tool is on the high shelf.)
+
+moloi to whano. moloi phao molupa ka nila.
+apprentice PST stand. apprentice parent box CAUS see.
+(The apprentice stood. The apprentice makes the parent see the box.)
+
+molupa tumoa nai. phao molupa ka rihe.
+box heavy be. parent box CAUS rise.
+(The box is heavy. The parent makes the box rise.)
+
+keritha nuelo to kelu. lumoi te pholuo nai.
+workshop dark PST become. lantern CESS luminous be.
+(The workshop became dark. The lantern stopped being luminous.)
+
+phao kau womu to wepu. moloi noe phao to wepu.
+parent ALL home PST go. apprentice BEHIND parent PST go.
+(The parent went to the house. The apprentice went behind the parent.)
+
+lo shia to maeli thalo. pheralu si lepa.
+PL 3SG PST quiet walk. rain IPFV fall.
+(They walked quietly. The rain is falling.)
+```
+
+The passage holds together and none of it is ungrammatical, which is the first useful result. Phi can put two people in a room, give them a task, a disagreement about where a tool is, and a way out into the rain. Word order carried every clause without strain, the causative did two separate jobs, and the manner descriptor sat where the taught pattern says it sits. What the passage cannot do is more specific than it looked from the outside, and it divides cleanly into gaps the grammar already covers and gaps that want roots.
+
+### Gap log
+
+- **Simultaneity works, and it costs a nominalization.** `sui phao lumoi phelu` puts one event inside another's span, and it is the only device available: the clause relators cover before, after, reason, concession, and purpose, with no relator for while. The price is that the simultaneous clause becomes an event noun and its subject becomes a possessor, so `phao` stops being an agent and starts being an owner of holding. In a passage with several simultaneous actions this would repeat, and each repetition demotes another actor. The construction is attested once in the corpus, in the Schleicher fable, and no taught pattern indexes it.
+- **The causative is doing more work than its documentation suggests.** `ka rihe` supplies lifting and `ka nila` supplies pointing, both without a root. Neither is a workaround in the pejorative sense: making a box rise is a fair description of lifting it, and making someone see a thing is close to what pointing is for. Whether Phi should keep paying two words for these, or coin them, is a judgment about frequency rather than about expressiveness.
+- **Wearing cannot be said at all.** `wethalu` names the garment and `wirua` calls it wet, but no verb puts it on a body. The passage states that the apprentice's garment is wet and separately that the apprentice is cold, which is two facts where the original thought was one. Possession is doing a job it was not built for, since a garment someone is carrying and a garment someone has on are not distinguishable.
+- **Kneeling is composed from the knee and the floor.** `nia tomae kunoa thinu` is legal and reads as deliberate placement rather than posture. It says what a kneeling person's knee does without saying that the person knelt. Leaning is worse: `nia ponu manolu` reports only that the parent stays against the door, and the whole sense of resting weight on something is absent.
+- **Reaching is a moved arm.** `kau phelasi pelio roke` describes the arm's motion accurately and loses the purpose that makes it reaching, which is the attempt to touch or take something not yet within grasp.
+- **Following is adequate as it stands.** `noe phao to wepu` says the apprentice went behind the parent, which is what following looks like from outside. It leaves the dependence of one path on the other unstated, so a dedicated root would add little.
+- **Abruptness has no expression.** The lantern going out is the passage's one sudden event and it is written as an ordinary change of state, `nuelo to kelu`, indistinguishable from the light fading over an hour. `te` marks that a state ceased and leaves its speed open. This is the gap that most affects narrative, because a story turns on its surprises and interruptions, and Phi currently narrates them at the same pace as everything else.
+- **Manner and nesting behaved.** `maeli thalo` and `sheru haolu` sat where P24 says they sit. One `mena` clause reported a claim without difficulty. Neither is a limitation, and an earlier impression that both were weak points is not supported here.
