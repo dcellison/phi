@@ -894,6 +894,15 @@
       "candidate_ids": [
         "CV-WORK-15"
       ]
+    },
+    {
+      "id": "original-essay-report-at-dusk",
+      "heading": "Original essay: the report at dusk",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-ETH-02"
+      ]
     }
   ],
   "candidates": [
@@ -4874,6 +4883,24 @@
       ],
       "batches": [
         "original-essay-mended-wall"
+      ]
+    },
+    {
+      "id": "CV-ETH-02",
+      "concept": "an act or change that can be undone, and its negation for what cannot",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "The reversibility of an act had no descriptor. 'talome' (restore) names the act of returning something toward a stated condition, but nothing said in advance that such a return remained available, so a class of acts could not be described or quantified over. The adjective supplies that, and ordinary negation supplies the harder half: 'tulawe ma nai' says the way back is closed. The distinction carries weight in repair, consent, ecological decisions, and any choice made under an unverified claim.",
+      "implementation": {
+        "words": [
+          "tulawe"
+        ],
+        "files": [
+          "vocabulary/content/reversible.json"
+        ]
+      },
+      "batches": [
+        "original-essay-report-at-dusk"
       ]
     }
   ],

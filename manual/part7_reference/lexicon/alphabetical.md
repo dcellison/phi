@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1275 words.*
+*1276 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -1148,6 +1148,7 @@
 | `tukelu` | recycle | /t̪u.ˈke̞.lu/ | verb |
 | `tukiro` | review | /t̪u.ˈki.ro̞/ | verb |
 | `tuko` | sour | /ˈt̪u.ko̞/ | adjective |
+| `tulawe` | reversible | /t̪u.ˈlä.we̞/ | adjective |
 | `tuleno` | frog | /t̪u.ˈle̞.n̪o̞/ | noun |
 | `tulira` | tail | /t̪u.ˈli.rä/ | noun |
 | `tumeki` | root | /t̪u.ˈme̞.ki/ | noun |

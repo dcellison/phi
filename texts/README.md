@@ -12,6 +12,7 @@ Short works each have one Markdown file. A book gets its own directory, where it
 | A Solarpunk Manifesto | Translation | Five opening paragraphs and all 22 propositions. | [Read](solarpunk_manifesto.md) |
 | When care becomes coercion | Original | A sustained dialogue that ends with a bounded agreement and an unresolved general question. | [Read](care_and_coercion.md) |
 | The thing holds its mending | Original | An essay on a rebuilt wall that narrows its own claim under objection and leaves the chooser of criteria open. | [Read](the_mended_wall.md) |
+| When a report is enough | Original | An essay on acting under a claim nobody has checked, answered by reversibility rather than by belief. | [Read](the_report_at_dusk.md) |
 | The North Wind and the Sun | Translation + transmutation | The complete fable in two renderings, followed by their comparison. | [Read](north_wind_and_sun.md) |
 | Universal Declaration of Human Rights, Article 1 | Translation + transmutation | Both sentences in two renderings, followed by their comparison. | [Read](human_rights_article_one.md) |
 | The Babel text | Translation + transmutation | Genesis 11:1-9 in two renderings. | [Read](babel_text.md) |

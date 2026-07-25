@@ -85,6 +85,7 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Work, Craft, and Repair module prose](#work-craft-and-repair-module-prose) | complete | closed | 35 |
 | [Grammar references retrofit](#grammar-references-retrofit) | complete | closed | 1 |
 | [Original essay: the mended wall](#original-essay-the-mended-wall) | complete | closed | 1 |
+| [Original essay: the report at dusk](#original-essay-the-report-at-dusk) | complete | closed | 1 |
 
 ## Core material qualities
 
@@ -784,6 +785,12 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
 | `CV-WORK-15` | the visible trace a mend leaves in a thing: a seam, a scar, or a repaired join | Compositional | Work, Craft, and Repair repair vocabulary, and ordinary description of used things | `whori`, `shiroka`, `talome`, `thesori`, `rohemi`. The event-noun rule already gives the result reading, so `moru whori` is both the wall's mending and the mend it left, and `thesori` reads wear as evidence of a thing's past. A dedicated noun would name the mark rather than the act, and the first original essay on repair did not need one. Coin it if sustained use keeps reaching for the mark alone. |
+
+## Original essay: the report at dusk
+
+| ID | Concept | Status | Placement | Decision or return condition |
+|---|---|---|---|---|
+| `CV-ETH-02` | an act or change that can be undone, and its negation for what cannot | Implemented | base | Words: `tulawe`. The reversibility of an act had no descriptor. 'talome' (restore) names the act of returning something toward a stated condition, but nothing said in advance that such a return remained available, so a class of acts could not be described or quantified over. The adjective supplies that, and ordinary negation supplies the harder half: 'tulawe ma nai' says the way back is closed. The distinction carries weight in repair, consent, ecological decisions, and any choice made under an unverified claim. |
 
 ## Prompt sources
 

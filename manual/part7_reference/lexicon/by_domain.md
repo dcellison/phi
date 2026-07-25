@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (318)
+## activity (319)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -292,6 +292,7 @@
 | `tomi` | pot | a vessel used in cooking and food preparation |
 | `tukelu` | recycle | processing recovered or discarded material into another input or material |
 | `tukiro` | review | systematically reconsidering an earlier decision, record, or action |
+| `tulawe` | reversible | acts and changes that admit a way back to the earlier condition |
 | `tumoa` | heavy | work or obligation experienced as burdensome through metaphorical weight |
 | `tupeka` | burden | a difficult demand borne through action or responsibility |
 | `tupi` | jump | a jump treated as one bounded bodily act |
@@ -1340,7 +1341,7 @@
 | `wiroa` | hopeful | felt expectation that a desired outcome remains possible |
 | `woraka` | appreciate | the favourable response that accompanies recognised value |
 
-## ethics (33)
+## ethics (34)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1373,6 +1374,7 @@
 | `thonai` | responsible | willingly taking up care or answerability for a matter |
 | `thua` | fair | an arrangement weighed against the needs and circumstances that matter |
 | `thunoa` | dignified | conduct or treatment that acknowledges a person's inherent worth |
+| `tulawe` | reversible | the weight a decision carries when its effects cannot be undone |
 | `warosha` | reconcile | reconciliation pursued alongside acknowledgement and repair |
 | `welao` | good | the broad favourable term when conduct or its effects are being weighed |
 | `wero` | honest | a person's choice not to deceive in speech or conduct |

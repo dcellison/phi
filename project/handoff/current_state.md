@@ -48,9 +48,9 @@ Kia opens the separate entrance-page sequence. Its first greeting sits in an ope
 
 | Inventory | Total | Target | Legacy |
 |---|---:|---:|---:|
-| Entire lexicon | 1,275 | 1,275 | 0 |
-| Content vocabulary | 1,145 | 1,145 | 0 |
-| Base content vocabulary | 884 | 884 | 0 |
+| Entire lexicon | 1,276 | 1,276 | 0 |
+| Content vocabulary | 1,146 | 1,146 | 0 |
+| Base content vocabulary | 885 | 885 | 0 |
 | Optional-module content vocabulary | 261 | 261 | 0 |
 | Function vocabulary | 110 | 110 | 0 |
 | Interjections | 20 | 20 | 0 |
@@ -65,9 +65,9 @@ The latest completed prose batch is D052, Work, Craft, and Repair. It migrated s
 
 | Item | Count |
 |---|---:|
-| Registered batches | 65 |
-| Decisions | 237 |
-| Implemented | 49 |
+| Registered batches | 66 |
+| Decisions | 238 |
+| Implemented | 50 |
 | Compositional | 111 |
 | Deferred with return condition | 30 |
 | Source-bound | 43 |
