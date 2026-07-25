@@ -39,6 +39,7 @@ The [grammar index](grammar/) leads to the authoritative machinery references an
 | [Work, Craft, and Repair vocabulary audit](evaluation/work_craft_repair_vocabulary_audit.md) | Before-state review of concrete craft coverage, work relations, semantic pressure, and source-material handling. |
 | [Philosophical capability matrix](evaluation/philosophical_capability_matrix.md) | Operation-level classification of demonstrated abilities, compositions, source-material bridges, and gaps. |
 | [Philosophical test corpus](evaluation/philosophical_test_corpus.md) | Validated regression dialogues and gap logs for the established profile domains. |
+| [Narrative test corpus](evaluation/narrative_test_corpus.md) | Validated physical-action passages written to strain, with gap logs separating what the grammar already covers from what wants roots. |
 | [Philosophical transformation prompts](evaluation/philosophical_reasoning_transformation_prompts.md) and [key](evaluation/philosophical_reasoning_transformation_key.md) | Phi-only premise and conclusion transformations with separate comparison material. |
 | [Solo evaluation tasks](evaluation/solo_evaluation_tasks.md) | Reproducible choice, paraphrase, transformation, and repair tasks. |
 | [Listening audit](evaluation/listening_audit.md) | Protocol and evidence gate for perceptual collisions and pronunciation variation. |
