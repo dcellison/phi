@@ -54,6 +54,9 @@ Each rank permits one particle. The sole same-rank pair is `se ka`, in that orde
 | `nu` | ORD | makes the following numeral ordinal |
 | `ko` | FOC | selects a constituent for contrast or correction |
 | `ru` | INTS | increases the degree of a quality or action |
+| `la` | ATTEN | lowers the degree of a quality or action |
+| `pe` | SUFF | the degree meets what the situation asks |
+| `wo` | EXC | the degree passes what the situation can take |
 | `mo` | CMPR | forms a comparative; `mo ko` forms a superlative |
 | `ne` | NAME | introduces a name atom |
 | `sa` | HON.RESPECT | marks respect toward a named bearer |

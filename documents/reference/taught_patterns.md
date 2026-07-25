@@ -312,6 +312,8 @@ mia suliwa hi nila.
 
 **P38 · The optative.** `su [sentence]` — the mood of wishes and blessings, named in the capstone and taught by the texts; the Metta Sutta runs on it. Slot 0, like `wa` and `no` and `lu`.
 
+**P39 · Degree.** `[ru | la | pe | wo] [descriptor or verb]` — one degree particle immediately before the quality or action it measures: `ru` raises, `la` lowers, `pe` meets what is asked, `wo` passes it. They never stack. Taught in ch. 9.
+
 ```
 su sila shea nai.
 OPT community peace be.

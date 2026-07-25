@@ -712,7 +712,7 @@
       "variant": "exercises"
     },
     "pamphlets/three_slots/12_appendix.md": {
-      "shape": "h1,3,3,3,3,3,3;t3x6,4x16,3x13;f-;q-;u6,6;o-;r0;s-",
+      "shape": "h1,3,3,3,3,3,3;t3x6,4x16,3x16;f-;q-;u6,6;o-;r0;s-",
       "variant": "appendix"
     }
   }
