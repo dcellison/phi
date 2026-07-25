@@ -1629,6 +1629,16 @@ A conversation stalls on a word nobody quite catches, and the repair conventions
 
 The batch adds no root and changes no membership; it converts a standing aside in the conversation-repair conventions into a registered return condition.
 
+## Original essay: the mended wall
+
+A garden wall goes down in a storm and is built back from its own stones. The shelf's first original essay argues about that wall for a page, and the one lexical question it raised belongs to the mark the mending left rather than to the mending itself.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| The visible trace a mend leaves: seam, scar, repaired join | `moru whori` by the event-noun rule, `thesori` for wear read as evidence, and `CV-WORK-15` | **COMPOSITIONAL** | The result reading already names the mend as well as the mending, and a sustained argument about repair never reached past it. A noun for the mark alone waits for use that keeps wanting the mark without the act. |
+
+The essay adds no root and changes no membership. It also puts the Philosophical Reasoning path through its first essay-length use, and the terms for claim, objection, and conclusion carried a sustained argument without a workaround.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.

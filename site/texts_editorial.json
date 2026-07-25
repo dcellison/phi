@@ -506,6 +506,46 @@
       "tables": 0,
       "pillar_sections": 0,
       "inner_dividers": 0
+    },
+    "texts/the_mended_wall.md": {
+      "form": "essay",
+      "phi_title": "thena whori phelu",
+      "motif": "window_water",
+      "sections": [
+        {
+          "title": "The essay",
+          "kind": "essay"
+        },
+        {
+          "title": "Proposition record",
+          "kind": "record"
+        },
+        {
+          "title": "Vocabulary under pressure",
+          "kind": "record"
+        },
+        {
+          "title": "Five-pillar reading",
+          "kind": "pillars"
+        }
+      ],
+      "opening_paragraphs": 2,
+      "interlinear_blocks": 0,
+      "interlinear_stanzas": 0,
+      "source_free_blocks": 0,
+      "source_free_stanzas": 0,
+      "complete_readings": 0,
+      "notes": 0,
+      "tables": 3,
+      "pillar_sections": 0,
+      "inner_dividers": 0,
+      "argument_blocks": 1,
+      "argument_passages": 31,
+      "ledger_rows": [
+        12,
+        5,
+        5
+      ]
     }
   }
 }
