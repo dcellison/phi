@@ -56,17 +56,31 @@ Comparison states a relation. Greater size, speed, or beauty carries no extra wo
 
 The same particles can be locative predicates with **nai**: **mia ha nai.** means "I am here," and **shia ra nai.** means "They are there."
 
-## ru: intensity
+## ru, la, pe, wo: degree
 
-**ru** increases the degree of the following quality or action.
+Four particles share one position, immediately before the quality or action they modify. Only one may stand there at a time, because a degree cannot be raised and lowered at once.
+
+**ru** raises the degree and **la** lowers it.
 
 **ru mioru** — very beautiful
 
-**ru thiku** — very small
+**la sulae** — slightly warm
 
 **ha peloru ru mioru nai.** — This flower is very beautiful.
 
-Intensity is not comparison. **ru mioru** strengthens one description; **mo mioru** compares it with another.
+**phialu la sulae nai.** — The water is slightly warm.
+
+**la** says a quality is present in small measure. Denying it outright is **ma**, which is a different claim: **la sulae** is slightly warm, and **ma sulae** is not warm.
+
+The other two measure a degree against what the moment asks rather than against a scale.
+
+**phialu pe sukaro nai.** — The water is hot enough.
+
+**sulopa wo sukaro nai.** — The soup is too hot.
+
+**pe** says the degree meets the need and **wo** says it has gone past it. Both take their standard from the purpose at hand, so the same heat can be enough for a bath and too much for a mouth. Negation gives the missing corner: **pe ma sukaro nai** is not hot enough.
+
+Degree is not comparison. **ru mioru** strengthens one description, while **mo mioru** measures it against another. And **ru** is not **wo**: a thing that is very hot may be exactly right for the work in hand, where **wo** says it has stopped being right.
 
 ## we and li: addition and restriction
 

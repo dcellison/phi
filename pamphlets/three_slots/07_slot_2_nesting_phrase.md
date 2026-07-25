@@ -2,7 +2,7 @@
 
 `ha lo melu` is not a loose handful of particles. `ha` reaches across `lo melu`, while `lo` supplies the plurality inside that demonstrative phrase. Slot 2 orders such layers from wider scope to narrower scope:
 
-**`we` / `li` > `ha` / `ra` > `lo` / numeral > `ko` > `ru` / `mo` > word**
+**`we` / `li` > `ha` / `ra` > `lo` / numeral > `ko` > degree > word**
 
 The broadest addition or restriction comes first, followed by deixis, quantity, focus, and degree. The content word arrives last.
 

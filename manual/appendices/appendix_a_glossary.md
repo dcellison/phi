@@ -74,6 +74,7 @@ Click or hover on a row for a longer explanation of that gloss.
 | ALL | kau | to (allative) | To, the goal of motion, with arrival promised. Its counterpart `wea` (toward) makes no such promise. |
 | ANT | phoe | before | The clause or span it introduces sets a boundary the main event precedes: before. Over a counted span it points backward: `phoe wi philo` is two days ago. |
 | ASSUM | ho | assumed | Marks that the speaker is assuming or supposing something rather than knowing it, one of Phi's four evidentials alongside `hi` (witnessed), `ke` (inferred), and `ti` (told). |
+| ATTEN | la | attenuator | The attenuator: slightly, a little. `la sulae` is slightly warm. Denying the quality outright is `ma`. |
 | CAUS | ka | causative | The causative: the one who causes an action becomes the subject, and the original subject becomes the object. `lopia nulae` (the child sleeps) becomes `mia lopia ka nulae` (I make the child sleep). |
 | CESS | te | cessative | The aspect for an action's ending: `mia te shelomu` is I stop understanding. |
 | CMPR | mo | comparative | The comparative marker, paired with `sheo` (than): `tomora sheo shiro mo raelu nai` is the mountain is taller than the tree. |
@@ -89,6 +90,7 @@ Click or hover on a row for a longer explanation of that gloss.
 | DIR | hi | witnessed | Marks that the speaker witnessed the event directly, through their own senses. |
 | DISJ | sola | or | Or, the coordinating conjunction for alternatives. |
 | DUR | sui | during | Temporal containment: the event happens within a span, not at a point. `sui kelua` is during the morning. |
+| EXC | wo | excessive | Says a degree has passed what the purpose allows. `wo sukaro` is too hot, where `ru sukaro` is only very hot. |
 | EXMP | phisu | for example | The discourse marker that steps from the general to a concrete case: what follows illustrates what was just said. |
 | FOC | ko | focus | Marks emphatic focus on one element of the sentence: `mia ko lothea shelomu` singles out love, not other things, as what is understood. |
 | FUT | so | future | The future tense particle. Present tense carries no particle at all. |
@@ -129,6 +131,7 @@ Click or hover on a row for a longer explanation of that gloss.
 | REPH | shorela | in other words | The discourse marker of restatement: what follows says the previous thought again in a different form, another road offered to the same place. |
 | RESTR | li | only, restrictive | Marks that a statement holds for the one thing named, and nothing else: only. It fences identity, who or which, never quantity; a count is stated exactly or with `henoi`. |
 | SPEC | shekoi | specifically | The discourse marker that narrows from the general to the particular, singling out the case the speaker means. |
+| SUFF | pe | sufficient | Says a degree meets what the situation asks. `pe sukaro` is hot enough; `henoi` does the same for a quantity. |
 | SUMM | shelao | in summary | The discourse marker that gathers what came before into its essence, the turn from exploration to distillation. |
 | THING.CLF | themo | object classifier | The optional classifier for detached or crafted physical objects such as tools, containers, buildings, and stones; it is not a classifier for all inanimate matter or places. |
 | UNIV | theula | all, every | The universal quantifier: every member of the set, none left out. `theula miona` is all people, the opening words of Phi's Article 1. |

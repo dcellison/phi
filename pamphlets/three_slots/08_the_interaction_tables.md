@@ -55,7 +55,7 @@ A licensed Slot 0 frame may contain an ordinary Slot 1 stack. The particles stil
 | `ha` or `ra` | deixis precedes quantity, focus, degree, and the word |
 | `lo` or a numeral or quantifier | one expression of quantity; `lo` does not accompany another quantity |
 | `ko` | focus follows quantity and precedes an ordinary degree particle |
-| `ru` or `mo` | degree stays next to the quality or action it modifies |
+| `ru`, `la`, `pe`, `wo`, or `mo` | degree stays next to the quality or action it modifies, one particle at a time |
 | `mo ko` | fixed superlative construction |
 | `nu` + numeral | fixed ordinal construction |
 | `ne` + honorific + name | name marker precedes the relationship marker |
