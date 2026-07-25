@@ -1,0 +1,28 @@
+{
+  "word": "soweri",
+  "gloss": "reach",
+  "ipa": "/so̞.ˈwe̞.ri/",
+  "syllables": [
+    "so",
+    "we",
+    "ri"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "extend toward",
+    "stretch for"
+  ],
+  "description": "To 'soweri' is to extend an arm or hand toward something in order to touch or take it. The verb reports the attempt and leaves the outcome open, so a hand may close on the cup or fall short of it. 'pilu' (take) claims the thing was got, 'palo' (touch) claims contact, and 'kamo' (arrive) belongs to a whole body completing a journey.",
+  "articulatory_notes": "Groove the tongue blade near the alveolar ridge for 's' and round the lips into middle-height back 'o'. Round further and raise the tongue back for 'w', opening into stressed middle-height front 'e'. Tap the tongue tip once for 'r' and finish on high front unrounded 'i'.",
+  "usage_notes": "The target takes 'kau' (ALL) or 'wea' (TOWARD) before the verb, and 'roe' (INS) can name the reaching limb. Because the verb makes no claim about success, whether the hand arrived belongs to the following clause.",
+  "examples": [
+    {
+      "phi": "lopia kau lureko soweri.",
+      "translation": "The child reaches toward the fruit."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "an attempt to touch or take within arm's range",
+    "physical": "an arm or hand extended toward something not yet held"
+  }
+}

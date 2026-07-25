@@ -1,0 +1,33 @@
+{
+  "word": "pakiro",
+  "gloss": "sudden",
+  "ipa": "/pä.ˈki.ro̞/",
+  "syllables": [
+    "pa",
+    "ki",
+    "ro"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "abrupt",
+    "without warning"
+  ],
+  "description": "A change is 'pakiro' when it begins without warning or preparation: a door swinging open, a light going out, a bird leaving a branch. The word concerns the onset of an event rather than the speed at which it then runs, which is why 'reshi' (fast) and 'pakiro' can describe the same event or come apart entirely.",
+  "articulatory_notes": "Close the lips fully for voiceless 'p' and release into open central 'a'. Raise the tongue back to the soft palate for 'k' and release into stressed high front unrounded 'i'. Tap the tongue tip once for 'r' and round the lips for final middle-height back 'o'.",
+  "sound_symbolism": "Two voiceless stops open the first two syllables, so the word starts twice before it runs. That repeated release can suggest an event that has begun before a listener is ready for it.",
+  "usage_notes": "Before a noun, 'pakiro' describes the event or change. Standing immediately before a verb it works as a manner descriptor and supplies suddenly, and the quality-noun reading gives suddenness. A slow change can still be sudden in this sense if nothing announced it.",
+  "examples": [
+    {
+      "phi": "pakiro howeli to shua.",
+      "translation": "A sudden wind came."
+    },
+    {
+      "phi": "shia pakiro to whano.",
+      "translation": "They suddenly stood."
+    }
+  ],
+  "semantic_domains": {
+    "physical": "an abrupt beginning perceived in an event or motion",
+    "temporal": "the unannounced onset of a change, apart from its speed"
+  }
+}

@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1276 words.*
+*1282 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -205,6 +205,7 @@
 | `kuma` | drum | /ˈku.mä/ | noun |
 | `kumoe` | stomach | /ku.ˈmo̞.e̞/ | noun |
 | `kumoli` | hungry | /ku.ˈmo̞.li/ | adjective |
+| `kuneshi` | kneel | /ku.ˈn̪e̞.ʃi/ | verb |
 | `kunoa` | knee | /ku.ˈn̪o̞.ä/ | noun |
 | `kupe` | hide | /ˈku.pe̞/ | verb |
 | `kupela` | secret | /ku.ˈpe̞.lä/ | noun |
@@ -463,6 +464,7 @@
 | `naseru` | obligation | /n̪ä.ˈse̞.ru/ | noun |
 | `nashaku` | enforce | /n̪ä.ˈʃä.ku/ | verb |
 | `nasholu` | rule | /n̪ä.ˈʃo̞.lu/ | noun |
+| `nathelo` | lean | /n̪ä.ˈθe̞.lo̞/ | verb |
 | `natheri` | entail | /n̪ä.ˈθe̞.ri/ | verb |
 | `nathoku` | contraindicated | /n̪ä.ˈθo̞.ku/ | adjective |
 | `natu` | pull | /ˈn̪ä.t̪u/ | verb |
@@ -574,6 +576,7 @@
 | `pa` | INCH | /ˈpä/ | particle |
 | `pai` | NEAR | /ˈpä.i/ | preposition |
 | `pakewu` | stem | /pä.ˈke̞.wu/ | noun |
+| `pakiro` | sudden | /pä.ˈki.ro̞/ | adjective |
 | `palethu` | tactile | /pä.ˈle̞.θu/ | adjective |
 | `palo` | touch | /ˈpä.lo̞/ | verb |
 | `paloi` | foot | /pä.ˈlo̞.i/ | noun |
@@ -955,6 +958,7 @@
 | `soriu` | yellow | /so̞.ˈri.u/ | adjective |
 | `sorui` | circle | /so̞.ˈru.i/ | noun |
 | `sowelu` | disabled | /so̞.ˈwe̞.lu/ | adjective |
+| `soweri` | reach | /so̞.ˈwe̞.ri/ | verb |
 | `su` | OPT | /ˈsu/ | particle |
 | `sua` | who | /ˈsu.ä/ | interrogative |
 | `suhari` | saliva | /su.ˈhä.ri/ | noun |
@@ -1120,6 +1124,7 @@
 | `thurai` | vibrant | /θu.ˈrä.i/ | adjective |
 | `thuroa` | grow | /θu.ˈro̞.ä/ | verb |
 | `thuroi` | resilient | /θu.ˈro̞.i/ | adjective |
+| `thusemi` | point | /θu.ˈse̞.mi/ | verb |
 | `ti` | REP | /ˈt̪i/ | particle |
 | `tinako` | rigid | /t̪i.ˈn̪ä.ko̞/ | adjective |
 | `tinoa` | dye | /t̪i.ˈn̪o̞.ä/ | noun |
@@ -1194,6 +1199,7 @@
 | `weno` | when | /ˈwe̞.n̪o̞/ | interrogative |
 | `wenola` | collaborate | /we̞.ˈn̪o̞.lä/ | verb |
 | `wenu` | tonic | /ˈwe̞.n̪u/ | noun |
+| `wenuha` | wear | /we̞.ˈn̪u.hä/ | verb |
 | `weoli` | reed | /we̞.ˈo̞.li/ | noun |
 | `wepanu` | redundant | /we̞.ˈpä.n̪u/ | adjective |
 | `wephari` | coordinate | /we̞.ˈɸä.ri/ | verb |

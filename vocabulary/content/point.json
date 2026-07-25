@@ -1,0 +1,28 @@
+{
+  "word": "thusemi",
+  "gloss": "point",
+  "ipa": "/θu.ˈse̞.mi/",
+  "syllables": [
+    "thu",
+    "se",
+    "mi"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "indicate",
+    "gesture toward"
+  ],
+  "description": "A person 'thusemi' when they direct another's attention to a thing or place by gesture, usually with a hand or a finger. The verb names the indicating, not its success, so a pointed-at bird may still go unseen. Causative 'ka nila' instead reports that the other person did see, and 'kiroa' (sign) is a standing marker rather than an act.",
+  "articulatory_notes": "Set the tongue between the teeth for voiceless 'th' and release into high back rounded 'u'. Groove the blade near the alveolar ridge for 's' and open into stressed middle-height front 'e'. Close the lips for nasal 'm', carrying the voice through the nose into final high front unrounded 'i'.",
+  "usage_notes": "What is indicated follows 'kau' (ALL) or 'wea' (TOWARD), and the person whose attention is wanted takes 'wei' (DAT). When the means matters, 'thumai' (finger) or 'manuwe' (hand) follows 'roe' (INS).",
+  "examples": [
+    {
+      "phi": "moloi kau molupa thusemi.",
+      "translation": "The apprentice points toward the box."
+    }
+  ],
+  "semantic_domains": {
+    "communication": "directing another person's attention by gesture rather than by naming",
+    "physical": "a hand or finger extended to indicate a thing or place"
+  }
+}

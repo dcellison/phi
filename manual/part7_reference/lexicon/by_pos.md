@@ -8,7 +8,7 @@
 *Content words appear under their listed lexical class. A rule-supplied event or quality noun does not add another class to the entry. Function words are grouped by grammatical class.*
 
 
-## adjective (213)
+## adjective (214)
 
 | Word | Gloss |
 |---|---|
@@ -106,6 +106,7 @@
 | `nuloe` | content |
 | `nurawi` | chronic |
 | `nuwi` | clear |
+| `pakiro` | sudden |
 | `palethu` | tactile |
 | `pasharo` | frustrated |
 | `pekira` | toxic |
@@ -992,7 +993,7 @@
 | `theula` | UNIV |
 | `wheli` | ANY |
 
-## verb (356)
+## verb (361)
 
 | Word | Gloss |
 |---|---|
@@ -1047,6 +1048,7 @@
 | `koluma` | unite |
 | `korei` | fulfill |
 | `kulo` | guide |
+| `kuneshi` | kneel |
 | `kupe` | hide |
 | `kuremi` | grind |
 | `kureno` | wither |
@@ -1102,6 +1104,7 @@
 | `napako` | bake |
 | `naphe` | help |
 | `nashaku` | enforce |
+| `nathelo` | lean |
 | `natheri` | entail |
 | `natu` | pull |
 | `nawea` | respect |
@@ -1253,6 +1256,7 @@
 | `sone` | value |
 | `soranu` | screen |
 | `sorila` | cultivate |
+| `soweri` | reach |
 | `sunoe` | regenerate |
 | `talome` | restore |
 | `tapu` | close |
@@ -1302,6 +1306,7 @@
 | `thunaro` | train |
 | `thuo` | prosper |
 | `thuroa` | grow |
+| `thusemi` | point |
 | `tiripe` | quiver |
 | `tisharu` | puncture |
 | `tiwa` | tie |
@@ -1319,6 +1324,7 @@
 | `wema` | belong |
 | `weni` | imagine |
 | `wenola` | collaborate |
+| `wenuha` | wear |
 | `wephari` | coordinate |
 | `wepu` | go |
 | `wepuri` | progress |

@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (319)
+## activity (323)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -61,6 +61,7 @@
 | `kopharu` | barrier | a condition obstructing a stated action |
 | `korei` | fulfill | a purpose or undertaking carried into actual performance |
 | `kowanu` | governance | the continuing practice through which collective decisions are made and carried out |
+| `kuneshi` | kneel | work and attention carried out close to the ground |
 | `kupe` | hide | deliberately placing a person or thing beyond an observer's perception |
 | `kuremi` | grind | working material repeatedly against hard surfaces |
 | `laniru` | journey | extended travel gathered into one event |
@@ -107,6 +108,7 @@
 | `naphelu` | assistive | a device or practice supporting a chosen action |
 | `naropu` | feedforward | a control relation acting from an observed or expected input before output returns |
 | `nashaku` | enforce | applying authority or procedure in relation to compliance |
+| `nathelo` | lean | a resting posture taken during work or pause |
 | `natu` | pull | exerting force through a drawing action or held connection |
 | `naweri` | refuse | declining participation, an offer, or a proposed course |
 | `nelore` | preserve | protection against loss, decay, or unwanted alteration |
@@ -236,6 +238,7 @@
 | `sonari` | isolate | separating a known or suspected carrier from transmission pathways |
 | `soranu` | screen | a systematic health check with a stated follow-up path |
 | `sorila` | cultivate | deliberate repeated work that supports development |
+| `soweri` | reach | an attempt to touch or take within arm's range |
 | `sulopa` | soup | a dish prepared, served, and eaten as food |
 | `takori` | load | required work or throughput relative to a technical function |
 | `talome` | restore | work directed towards a stated earlier or reference condition |
@@ -304,6 +307,7 @@
 | `welura` | spread | an agent distributing or extending something |
 | `wemi` | ally | practical support committed within a shared undertaking |
 | `wenola` | collaborate | working jointly on one undertaking or result |
+| `wenuha` | wear | the daily act of dressing and undressing |
 | `wepanu` | redundant | continued function through an alternate component, path, or method |
 | `wephari` | coordinate | arranging relations among dependent activities |
 | `wepu` | go | going from a present situation along a path |
@@ -659,7 +663,7 @@
 | `woraka` | appreciate | attention that recognises value in a person, act, thing, or condition |
 | `wuneri` | variable | a selected feature used in models, records, tests, and comparisons |
 
-## communication (135)
+## communication (136)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -788,6 +792,7 @@
 | `thosami` | compatible | communication formats able to be exchanged or rendered together |
 | `thumela` | teach | knowledge or skill offered through explanation and demonstration |
 | `thunesi` | asynchronous | an exchange designed for replies without simultaneous presence |
+| `thusemi` | point | directing another person's attention by gesture rather than by naming |
 | `toloi` | messenger | a participant who conveys a message or communicative object |
 | `welura` | spread | a story or account becoming present among more people |
 | `wero` | honest | speech or conduct free from knowing deception |
@@ -1631,7 +1636,7 @@
 | `wosanu` | absorb | soil or a living body taking in water or another material |
 | `wotami` | shrub | a usually low woody plant with several stems near the ground |
 
-## physical (508)
+## physical (514)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1719,6 +1724,7 @@
 | `kulai` | tooth | a hard oral structure used for biting and grinding food |
 | `kumoe` | stomach | the muscular digestive organ that holds, churns, and continues breaking down food |
 | `kumoli` | hungry | the body's present need for food |
+| `kuneshi` | kneel | a posture in which the knees take the body's weight |
 | `kunoa` | knee | the bending joint in the middle of a leg |
 | `kurathi` | dry | little liquid present on a surface or within a material |
 | `kuremi` | grind | abrasion or crushing that makes a material finer |
@@ -1831,6 +1837,7 @@
 | `napari` | rice | rice handled or prepared as food |
 | `naphelu` | assistive | support for a bodily or sensory function |
 | `napuro` | grain | grain handled as a crop, stored material, or food |
+| `nathelo` | lean | weight given at an angle to a supporting surface |
 | `nathoku` | contraindicated | advice based on the relation between an intervention and bodily conditions |
 | `natu` | pull | force that draws a body or object along its line of contact |
 | `nekuma` | meat | animal flesh handled or eaten as food |
@@ -1871,6 +1878,7 @@
 | `nuwesu` | mucus | a protective bodily fluid made by moist inner surfaces |
 | `nuwi` | clear | low visual obstruction in water, air, or another material |
 | `pakewu` | stem | a plant structure that supports growth and carries material |
+| `pakiro` | sudden | an abrupt beginning perceived in an event or motion |
 | `palethu` | tactile | touch used as the sensory channel |
 | `palo` | touch | bodily or material contact at a surface |
 | `paloi` | foot | the terminal part of the leg that supports standing and walking |
@@ -2017,6 +2025,7 @@
 | `sophae` | cotton | a soft cellulose fibre with variable length and treatment |
 | `sorui` | circle | a closed round outline or form |
 | `sowelu` | disabled | bodily or sensory disability and its relation to access |
+| `soweri` | reach | an arm or hand extended toward something not yet held |
 | `suhari` | saliva | the bodily fluid that moistens the mouth and food |
 | `suilo` | dew | small liquid drops resting on a surface |
 | `sukaro` | hot | high temperature strongly felt through contact or surrounding air |
@@ -2070,6 +2079,7 @@
 | `thumiro` | smoke | particles and gases suspended after combustion |
 | `thuroa` | grow | change in bodily or material size |
 | `thuroi` | resilient | return toward workable form or function after stress |
+| `thusemi` | point | a hand or finger extended to indicate a thing or place |
 | `tinako` | rigid | resistance to bending, twisting, or rearrangement under force |
 | `tinoa` | dye | a colourant taken into the receiving material instead of lying there as loose particles |
 | `tiphori` | tingling | a dispersed prickling sensation felt in a body region |
@@ -2107,6 +2117,7 @@
 | `welua` | fragile | easy breakage or damage under comparatively small force |
 | `welura` | spread | material distributed across a surface or area |
 | `wenu` | tonic | a drink intended to support bodily strength or condition |
+| `wenuha` | wear | a garment resting on and moving with the body |
 | `wetha` | cloth | a flexible piece or amount of textile |
 | `wethaki` | towel | an absorbent textile kept to receive moisture |
 | `wethalu` | garment | clothing worn on or around the body |
@@ -2408,7 +2419,7 @@
 | `wotami` | shrub | a woody growth form occupying the layer below or beside trees |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (154)
+## temporal (155)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2489,6 +2500,7 @@
 | `nurawi` | chronic | continuation or return across a duration set by a clinical source |
 | `nuri` | cycle | an ordered course that returns to a comparable beginning |
 | `nuwoe` | stage | a position or portion within a directed development |
+| `pakiro` | sudden | the unannounced onset of a change, apart from its speed |
 | `phaeno` | week | a calendar span of seven days |
 | `pharea` | adult | the life stage following youth |
 | `phelure` | store | holding something now for access at a later time |
