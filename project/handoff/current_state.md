@@ -48,11 +48,11 @@ Kia opens the separate entrance-page sequence. Its first greeting sits in an ope
 
 | Inventory | Total | Target | Legacy |
 |---|---:|---:|---:|
-| Entire lexicon | 1,283 | 1,283 | 0 |
+| Entire lexicon | 1,286 | 1,286 | 0 |
 | Content vocabulary | 1,152 | 1,152 | 0 |
 | Base content vocabulary | 891 | 891 | 0 |
 | Optional-module content vocabulary | 261 | 261 | 0 |
-| Function vocabulary | 111 | 111 | 0 |
+| Function vocabulary | 114 | 114 | 0 |
 | Interjections | 20 | 20 | 0 |
 
 There are no partial or dual entries. A target entry has both `articulatory_notes` and structured `examples` and has neither legacy `concept` nor `grammatical_notes`. The committed evidence is [`documents/validation/vocabulary_prose_coverage.json`](../../documents/validation/vocabulary_prose_coverage.json).

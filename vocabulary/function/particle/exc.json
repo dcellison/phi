@@ -1,0 +1,32 @@
+{
+  "word": "wo",
+  "gloss": "EXC",
+  "ipa": "/ˈwo̞/",
+  "syllables": [
+    "wo"
+  ],
+  "slot": 2,
+  "pos": "particle",
+  "search_terms": [
+    "too",
+    "excessively",
+    "overly"
+  ],
+  "description": "Soup can be hot in a way that stops a person eating it, and 'wo' is the particle for that: 'wo sukaro' is too hot, 'wo reshi' too fast. What it adds is a purpose the degree has overshot, so the same heat is fine for scalding jars and too much for a mouth. 'ru' (INTS) reports a high degree and leaves whether that is a problem unsaid, which is the distinction speakers most often need here.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for 'w', then release into rounded middle-height back 'o' without unrounding between them. The particle is stressed and the lips stay rounded from beginning to end.",
+  "sound_symbolism": "The lips hold one rounded posture across the whole word, so nothing in it marks a stopping point. That open ending suits a degree that has gone past where it should have halted.",
+  "usage_notes": "One particle to a phrase, so 'wo' replaces 'ru' (INTS), 'la' (ATTEN), and 'pe' (SUFF) rather than joining them. A 'lila' frame can name what the degree has overshot, as in too hot for me to drink. Its nearest slot-mate is 'we' (ALSO), which attaches to a whole constituent where 'wo' leads a descriptor.",
+  "examples": [
+    {
+      "phi": "sulopa wo sukaro nai.",
+      "translation": "The soup is too hot."
+    },
+    {
+      "phi": "lila mia thoru sulopa wo sukaro nai.",
+      "translation": "The soup is too hot for me to drink."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "Excess can be named without naming a culprit. Saying that a demand is too great states the burden while leaving who imposed it to its own clause."
+  }
+}

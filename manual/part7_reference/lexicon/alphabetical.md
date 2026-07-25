@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1283 words.*
+*1286 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -217,6 +217,7 @@
 | `kurisha` | storm | /ku.ˈri.ʃä/ | noun |
 | `kuroi` | muscle | /ku.ˈro̞.i/ | noun |
 | `kurona` | horn | /ku.ˈro̞.n̪ä/ | noun |
+| `la` | ATTEN | /ˈlä/ | particle |
 | `laeno` | long | /lä.ˈe̞.n̪o̞/ | adjective |
 | `laenu` | commons | /lä.ˈe̞.n̪u/ | noun |
 | `laniru` | journey | /lä.ˈn̪i.ru/ | verb |
@@ -591,6 +592,7 @@
 | `pashenu` | petition | /pä.ˈʃe̞.n̪u/ | verb |
 | `patoku` | solid | /pä.ˈt̪o̞.ku/ | noun |
 | `pawela` | participate | /pä.ˈwe̞.lä/ | verb |
+| `pe` | SUFF | /ˈpe̞/ | particle |
 | `peki` | squeeze | /ˈpe̞.ki/ | verb |
 | `pekira` | toxic | /pe̞.ˈki.rä/ | adjective |
 | `pelaku` | severity | /pe̞.ˈlä.ku/ | noun |
@@ -1277,6 +1279,7 @@
 | `wishe` | swim | /ˈwi.ʃe̞/ | verb |
 | `wiso` | RECP | /ˈwi.so̞/ | pronoun |
 | `wisola` | exchange | /wi.ˈso̞.lä/ | verb |
+| `wo` | EXC | /ˈwo̞/ | particle |
 | `woe` | FAR | /ˈwo̞.e̞/ | preposition |
 | `woeli` | natural | /wo̞.ˈe̞.li/ | adjective |
 | `woenu` | tame | /wo̞.ˈe̞.n̪u/ | adjective |

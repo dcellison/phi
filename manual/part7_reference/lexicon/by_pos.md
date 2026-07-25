@@ -898,7 +898,7 @@
 | `ta` | one |
 | `wi` | two |
 
-## particle (35)
+## particle (38)
 
 | Word | Gloss |
 |---|---|
@@ -910,6 +910,7 @@
 | `ke` | INFER |
 | `ki` | PFV |
 | `ko` | FOC |
+| `la` | ATTEN |
 | `le` | HON.ROLE |
 | `li` | RESTR |
 | `lo` | PL |
@@ -922,6 +923,7 @@
 | `no` | IMP |
 | `nu` | ORD |
 | `pa` | INCH |
+| `pe` | SUFF |
 | `pi` | POL |
 | `po` | POT |
 | `ra` | DIST |
@@ -937,6 +939,7 @@
 | `to` | PST |
 | `wa` | Q |
 | `we` | ALSO |
+| `wo` | EXC |
 
 ## preposition (27)
 

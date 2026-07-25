@@ -1,0 +1,31 @@
+{
+  "word": "pe",
+  "gloss": "SUFF",
+  "ipa": "/ˈpe̞/",
+  "syllables": [
+    "pe"
+  ],
+  "slot": 2,
+  "pos": "particle",
+  "search_terms": [
+    "enough",
+    "sufficiently"
+  ],
+  "description": "Sufficiency 'pe' says the degree of a descriptor or verb meets what the situation asks: 'pe sukaro' is hot enough and 'pe laeno' is long enough. The standard comes from the purpose at hand rather than from a measurement. 'henoi' (ENOUGH) does the same work for a quantity of something countable or measurable.",
+  "articulatory_notes": "Close the lips fully and release voiceless 'p', then open into middle-height front unrounded 'e'. The particle is stressed, and the stop gives it a definite beginning where the vowel that follows stays level.",
+  "sound_symbolism": "A full closure opens onto a vowel that neither rises nor falls. The shape can suggest a threshold reached and then held rather than passed.",
+  "usage_notes": "The particle takes the degree position, so it stands where 'ru' (INTS) would and never beside it. Negation supplies the other half: 'pe ma sukaro nai' is not hot enough. Where the sufficiency is for something in particular, a 'lila' frame says what.",
+  "examples": [
+    {
+      "phi": "phialu pe sukaro nai.",
+      "translation": "The water is hot enough."
+    },
+    {
+      "phi": "lila mia wishe phialu pe sulae nai.",
+      "translation": "The water is warm enough for me to swim."
+    }
+  ],
+  "pillars": {
+    "secular-buddhist-philosophy": "Sufficiency is a judgement against a purpose, not a place on a scale. The particle lets a speaker say that something will do without also calling it large."
+  }
+}

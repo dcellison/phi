@@ -17,6 +17,7 @@
 0.47	1	nophi	story	content	nophe	ABST.CLF	function	99
 0.47	1	lau	twenty-seven-group	content	lao	BECAUSE	function	91
 0.47	1	hi	DIR	function	he	IRR	function	89
+0.47	1	pi	POL	function	pe	SUFF	function	86
 0.47	1	nia	ON	function	nea	aha	interjection	80
 0.47	1	wia	how many	function	wea	TOWARD	function	72
 0.47	1	le	HON.ROLE	function	li	RESTR	function	70
@@ -36,8 +37,8 @@
 0.47	1	shelu	book	content	shelo	signify	content	134
 0.47	1	welao	good	content	wilao	long-for	content	129
 0.47	1	shero	night	content	shiro	tree	content	116
-0.47	1	solae	explain	content	sulae	warm	content	100
-0.47	1	sulai	musician	content	sulae	warm	content	93
+0.47	1	solae	explain	content	sulae	warm	content	101
+0.47	1	sulai	musician	content	sulae	warm	content	94
 0.47	1	philo	day	content	phelo	light	content	82
 0.47	1	ruela	path	content	roela	scroll	content	82
 0.47	1	philu	candle	content	philo	day	content	79
@@ -127,6 +128,7 @@
 0.50	1	thelao	CONS	function	shelao	SUMM	function	113
 0.50	1	phoa	do	content	thoa	AMONG	function	106
 0.50	1	koma	head	content	kona	VOC	function	96
+0.50	1	ke	INFER	function	pe	SUFF	function	95
 0.50	1	heloi	generous	content	sheloi	MANY	function	80
 0.50	1	hola	laugh	content	sola	DISJ	function	80
 0.50	1	seloi	insightful	content	sheloi	MANY	function	79
@@ -136,6 +138,7 @@
 0.50	1	whola	invite	content	sola	DISJ	function	58
 0.50	1	phui	flute	content	sui	DUR	function	56
 0.50	1	muo	INTO	function	nuo	um	interjection	55
+0.50	1	te	CESS	function	pe	SUFF	function	45
 0.50	1	phue	wise	content	thue	THROUGH	function	37
 0.50	1	thua	fair	content	sua	who	function	37
 0.50	1	thuo	prosper	content	whuo	WITHOUT	function	35
@@ -179,7 +182,7 @@
 0.50	1	phao	parent	content	hao	pardon	interjection	107
 0.50	1	noshi	near (adj)	content	nophi	story	content	105
 0.50	1	korua	heart	content	torua	year	content	100
-0.50	1	phulae	mouth	content	sulae	warm	content	96
+0.50	1	phulae	mouth	content	sulae	warm	content	97
 0.50	1	phoa	do	content	soa	sorry	interjection	95
 0.50	1	siora	joy	content	phiora	spirit	content	95
 0.50	1	hea	hear	content	shea	peace	content	94
@@ -247,6 +250,3 @@
 0.50	1	hiru	intuit	content	siru	marker	content	10
 0.50	1	sheloa	bloom	content	theloa	truth	content	10
 0.50	1	telua	accurate	content	pelua	paper	content	10
-0.50	1	lopha	vessel	content	losha	wide	content	9
-0.50	1	shoru	dull	content	thoru	proud	content	9
-0.50	1	phelo	light	content	shelo	signify	content	8
