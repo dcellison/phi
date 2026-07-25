@@ -134,7 +134,7 @@
 0.50	1	hina	what	function	phina	FEW	function	65
 0.50	1	wheo	elder	content	sheo	THAN	function	64
 0.50	1	whola	invite	content	sola	DISJ	function	58
-0.50	1	phui	flute	content	sui	DUR	function	55
+0.50	1	phui	flute	content	sui	DUR	function	56
 0.50	1	muo	INTO	function	nuo	um	interjection	53
 0.50	1	thua	fair	content	sua	who	function	37
 0.50	1	phue	wise	content	thue	THROUGH	function	36
