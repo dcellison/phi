@@ -84,6 +84,7 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Accessibility and Participation module prose](#accessibility-and-participation-module-prose) | complete | closed | 32 |
 | [Work, Craft, and Repair module prose](#work-craft-and-repair-module-prose) | complete | closed | 35 |
 | [Grammar references retrofit](#grammar-references-retrofit) | complete | closed | 1 |
+| [Original essay: the mended wall](#original-essay-the-mended-wall) | complete | closed | 1 |
 
 ## Core material qualities
 
@@ -777,6 +778,12 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
 | `CV-WRITE-02` | spell aloud: walk a written form character by character | Deferred | ordinary base coinage when conversational repair shows the recurring need | When original dialogues, teaching, or repair practice repeatedly need an in-Phi request to walk a form character by character rather than presenting the written form separately. Asking for a word is already sayable: `pi wa thia phelui po haolu.` asks the speaker to say it, and the exact written form then lives in the surrounding medium, where spelling, script, and notation belong. A dedicated verb would name the act of naming characters in order, and conversation has not yet needed that act inside Phi often enough to justify a root. |
+
+## Original essay: the mended wall
+
+| ID | Concept | Status | Placement | Decision or return condition |
+|---|---|---|---|---|
+| `CV-WORK-15` | the visible trace a mend leaves in a thing: a seam, a scar, or a repaired join | Compositional | Work, Craft, and Repair repair vocabulary, and ordinary description of used things | `whori`, `shiroka`, `talome`, `thesori`, `rohemi`. The event-noun rule already gives the result reading, so `moru whori` is both the wall's mending and the mend it left, and `thesori` reads wear as evidence of a thing's past. A dedicated noun would name the mark rather than the act, and the first original essay on repair did not need one. Coin it if sustained use keeps reaching for the mark alone. |
 
 ## Prompt sources
 

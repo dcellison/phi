@@ -2565,6 +2565,7 @@ table.primer-ladder {
 .text-apparatus,
 .text-context,
 .text-dialogue-section,
+.text-essay-section,
 .text-record-section,
 .text-pillars-section { margin-top: 4rem; }
 .text-editorial h2.text-method-heading {
@@ -2806,6 +2807,24 @@ table.primer-ladder {
   color: var(--sage);
   font-style: italic;
 }
+/* An essay argues in one voice, so its passages carry no speaker column.
+   The left rule stands in for the turn boundary the dialogue gets. */
+.text-essay {
+  border-bottom: 1px solid var(--hairline);
+  border-top: 1px solid var(--hairline);
+  margin: .8rem 0 1.5rem;
+}
+.text-essay-passage {
+  border-left: 2px solid var(--hairline);
+  margin: 0;
+  padding: 1rem 0 1.08rem 1.35rem;
+}
+.text-essay-passage + .text-essay-passage {
+  border-top: 1px solid var(--hairline);
+}
+.text-essay-passage p { margin: 0; }
+.text-essay-close-reading { margin-top: .58rem; }
+
 .text-literal-line {
   color: var(--ink);
   font-family: var(--serif);
