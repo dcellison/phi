@@ -1649,6 +1649,17 @@ A friend brings word at dusk that the footbridge is broken, and nobody in the ho
 
 The essay adds one base root and changes no membership. It also confirmed three existing boundaries under pressure: `nohero` (believe) takes the proposition, `theomi` (trust) takes the person, and `phoa` (do) is the act, so the argument could say that acting on a claim is not endorsing it.
 
+## Original essay: the worth of a fallen branch
+
+A branch comes down at the edge of a garden and lies there unvalued for two summers. The third original essay asks what it is worth during that time, and the two questions it raised sit on opposite sides of the coinage line.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| The grammatical class a word is assigned to | `haluma` (language), `phelui` (word), `remole` (concept), and `CV-LANG-03` | **DEFERRED** | Phi can name a language, a word, and a concept, but not the class that its own one-word-one-class rule assigns, so the essay could not say in Phi that worth is a noun and valuing is a verb. Describing what the two words demand proved sharper than naming their classes would have been. The term waits for a Phi account of Phi's own grammar. |
+| A property held apart from any relation | The locative predicate, `noetha` (essential), and `CV-PHIL-10` | **COMPOSITIONAL** | `rolia mua thena nai` and `whemori mua phoa nai` already put worth in the thing and waste in the activity that assigned it. An adjective for inherence would state the same contrast while hiding which side a speaker had picked, and the argument needs that choice to stay visible. |
+
+The essay adds no root and changes no membership. It also found the particle inventory ahead of it: `te` (CESS) supplied the withdrawal of regard that had looked like a missing verb, and `wei` (DAT) supplied the test the whole argument rests on, since `thaemo` (precious) takes a holder and `rolia` (worth) has nowhere to put one.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.

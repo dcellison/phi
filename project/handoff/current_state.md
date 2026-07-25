@@ -65,11 +65,11 @@ The latest completed prose batch is D052, Work, Craft, and Repair. It migrated s
 
 | Item | Count |
 |---|---:|
-| Registered batches | 66 |
-| Decisions | 238 |
+| Registered batches | 67 |
+| Decisions | 240 |
 | Implemented | 50 |
-| Compositional | 111 |
-| Deferred with return condition | 30 |
+| Compositional | 112 |
+| Deferred with return condition | 31 |
 | Source-bound | 43 |
 | Declined | 4 |
 | Open | 0 |

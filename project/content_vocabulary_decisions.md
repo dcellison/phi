@@ -86,6 +86,7 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Grammar references retrofit](#grammar-references-retrofit) | complete | closed | 1 |
 | [Original essay: the mended wall](#original-essay-the-mended-wall) | complete | closed | 1 |
 | [Original essay: the report at dusk](#original-essay-the-report-at-dusk) | complete | closed | 1 |
+| [Original essay: the worth of a fallen branch](#original-essay-the-worth-of-a-fallen-branch) | complete | closed | 2 |
 
 ## Core material qualities
 
@@ -791,6 +792,13 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
 | `CV-ETH-02` | an act or change that can be undone, and its negation for what cannot | Implemented | base | Words: `tulawe`. The reversibility of an act had no descriptor. 'talome' (restore) names the act of returning something toward a stated condition, but nothing said in advance that such a return remained available, so a class of acts could not be described or quantified over. The adjective supplies that, and ordinary negation supplies the harder half: 'tulawe ma nai' says the way back is closed. The distinction carries weight in repair, consent, ecological decisions, and any choice made under an unverified claim. |
+
+## Original essay: the worth of a fallen branch
+
+| ID | Concept | Status | Placement | Decision or return condition |
+|---|---|---|---|---|
+| `CV-LANG-03` | a name for the grammatical class a word belongs to: the noun, verb, adjective, or particle status that Phi's one-word-one-class rule assigns | Deferred | Philosophical Reasoning, and any Phi account of Phi | When a Phi text teaches or argues about Phi's own grammar and needs the class of a word rather than what the class requires. Phi has 'haluma' (language), 'phelui' (word), 'nomei' (name), and 'remole' (concept), but no term for the class a word is assigned to, so the language cannot state in Phi the rule its own lexicon is built on. The third original essay wanted it to say that worth being a noun and valuing being a verb is a choice recorded in the language. It went around the gap by describing behavior instead, and the behavioral version was more precise: valuing requires a person and worth does not. Coin when Phi teaches its own grammar in Phi, or when a text needs the class itself rather than what the class does. |
+| `CV-PHIL-10` | a property held by a thing independent of any relation, as against a status assigned within one | Compositional | Philosophical Reasoning, and ordinary description of things | `mua`, `rolia`, `whemori`, `kelasu`, `noetha`. The locative predicate already draws the line the distinction needs: 'rolia mua thena nai' puts worth in the thing, and 'whemori mua phoa nai' puts waste in the activity that assigned it. An adjective for inherence would say the same thing while hiding which side of the contrast a speaker had chosen, and the essay's argument depends on that choice staying visible. 'noetha' (essential) remains available where a purpose supplies the reference. |
 
 ## Prompt sources
 

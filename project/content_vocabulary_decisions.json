@@ -903,6 +903,16 @@
       "candidate_ids": [
         "CV-ETH-02"
       ]
+    },
+    {
+      "id": "original-essay-fallen-branch",
+      "heading": "Original essay: the worth of a fallen branch",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-LANG-03",
+        "CV-PHIL-10"
+      ]
     }
   ],
   "candidates": [
@@ -4901,6 +4911,41 @@
       },
       "batches": [
         "original-essay-report-at-dusk"
+      ]
+    },
+    {
+      "id": "CV-LANG-03",
+      "concept": "a name for the grammatical class a word belongs to: the noun, verb, adjective, or particle status that Phi's one-word-one-class rule assigns",
+      "status": "deferred",
+      "placement": "Philosophical Reasoning, and any Phi account of Phi",
+      "summary": "Phi has 'haluma' (language), 'phelui' (word), 'nomei' (name), and 'remole' (concept), but no term for the class a word is assigned to, so the language cannot state in Phi the rule its own lexicon is built on. The third original essay wanted it to say that worth being a noun and valuing being a verb is a choice recorded in the language. It went around the gap by describing behavior instead, and the behavioral version was more precise: valuing requires a person and worth does not. Coin when Phi teaches its own grammar in Phi, or when a text needs the class itself rather than what the class does.",
+      "revisit_when": "a Phi text teaches or argues about Phi's own grammar and needs the class of a word rather than what the class requires",
+      "expressions": [
+        "haluma",
+        "phelui",
+        "nomei",
+        "remole",
+        "kirothe"
+      ],
+      "batches": [
+        "original-essay-fallen-branch"
+      ]
+    },
+    {
+      "id": "CV-PHIL-10",
+      "concept": "a property held by a thing independent of any relation, as against a status assigned within one",
+      "status": "compositional",
+      "placement": "Philosophical Reasoning, and ordinary description of things",
+      "summary": "The locative predicate already draws the line the distinction needs: 'rolia mua thena nai' puts worth in the thing, and 'whemori mua phoa nai' puts waste in the activity that assigned it. An adjective for inherence would say the same thing while hiding which side of the contrast a speaker had chosen, and the essay's argument depends on that choice staying visible. 'noetha' (essential) remains available where a purpose supplies the reference.",
+      "expressions": [
+        "mua",
+        "rolia",
+        "whemori",
+        "kelasu",
+        "noetha"
+      ],
+      "batches": [
+        "original-essay-fallen-branch"
       ]
     }
   ],
