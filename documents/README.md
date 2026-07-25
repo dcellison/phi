@@ -24,6 +24,7 @@ The [grammar index](grammar/) leads to the authoritative machinery references an
 | [Modifier-first philosophy](design/modifier_first_philosophy.md) | Full argument for Phi's organising principle and its typological limits. |
 | [Psychological violence of measurement](design/psychological_violence_of_measurement.md) | Argument behind the numeral design and the limits of its evidence. |
 | [Word shape and external boundaries](design/word_shape_and_external_boundaries.md) | Current rationale for the lexical syllable ceiling and Phi's treatment of outside material. |
+| [The word proposal form](design/word_proposal_form.md) | Specification for a public coinage proposal channel, and the division between what a machine can check and what the maintainer must. |
 
 ## Evaluation
 
