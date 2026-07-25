@@ -18,7 +18,7 @@ Phi is maintained as repository source, generated views, and machine checks. A r
 | `primer/` | Graded reader and exercises. |
 | `texts/` | Translation, transmutation, and original Phi shelf, catalogued for the site. |
 | `pamphlets/` | Focused teaching companions, also catalogued. |
-| `book/` | General-reader book treatment and drafted chapters. |
+| `book/` | Complete general-reader book, its public contents source, and consolidated bibliography. |
 | `tengwar/` | Current Tengwar specification, renderer outlines, and source font. |
 | `site/` | Maintained browser assets. No generated pages or data belong here. |
 | `build/` | Ignored, disposable build products such as the site and SQLite lexicon. |
@@ -101,7 +101,7 @@ python3 scripts/test_content_vocabulary_decisions.py
 
 Invoke these files directly from the repository root. Running them through `python3 -m unittest scripts/...` can fail to resolve sibling imports even when the tests themselves are sound.
 
-At the #418 checkpoint the suites contain 21 schema tests, 20 name tests, and 6 decision-register tests.
+At the #580 checkpoint the suites contain 22 schema tests, 20 name tests, and 8 decision-register tests.
 
 ## Vocabulary coverage and decisions
 
@@ -167,6 +167,21 @@ python3 -m http.server -d build/site
 The public site deploys from `build/site/` on each push to `main` through `.github/workflows/pages.yml` and is available at [dcellison.github.io/phi](https://dcellison.github.io/phi/).
 
 Routine content work does not require headless Chrome or a screenshot. Use browser automation only when a UI change genuinely needs visual or interaction verification. A stylesheet or layout change is exactly that case: measure the computed style and geometry with a headless probe page before shipping, and never trust selector arithmetic alone, because a generic rule such as `.entry-body p` outweighs a new single-class rule and once swallowed three merged spacing adjustments without a visible pixel changing.
+
+### One-off PDF record
+
+The current workspace may contain `build/the_phi_book.pdf`, a 118-page reading copy made from the website-rendered book on 24 July 2026. It preserves the site's book design and adds the navigation and page labels recorded in [`current_state.md`](current_state.md). The file is ignored with the rest of `build/` and is not a repository deliverable.
+
+The temporary sequence was:
+
+1. Run `scripts/build_site.py`.
+2. Assemble the rendered contents, files `00` through `15`, and the bibliography in the order enforced by `book/README.md`.
+3. Add print CSS for Letter margins, reading breaks, web-navigation removal, and long `<pre>` wrapping.
+4. Print the raw PDF with headless Chromium.
+5. Add metadata, destinations, bookmarks, and page labels with `pypdf`.
+6. Inspect the structure with `pypdf` and Ghostscript.
+
+The assembly and finalization scripts live outside the repository, and neither `pypdf` nor the browser and Ghostscript dependencies are pinned in `project/requirements.txt`. This is a local proof, not a reproducible build or maintained review edition. PUB-03 begins when the project chooses stable dependencies, preserves the assembly logic, exposes one checked-in command, and adds deterministic checks.
 
 ## GitHub presence
 
