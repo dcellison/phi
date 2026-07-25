@@ -1,0 +1,32 @@
+{
+  "word": "wenuha",
+  "gloss": "wear",
+  "ipa": "/we̞.ˈn̪u.hä/",
+  "syllables": [
+    "we",
+    "nu",
+    "ha"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "have on",
+    "be dressed in"
+  ],
+  "description": "Rain makes the difference plain: a coat over the arm is being carried, and a coat on the shoulders is being worn. 'wenuha' is the second, covering a working apron and a ring kept on the hand as readily as outdoor clothing. 'wethalu' (garment) names the thing itself, while 'kolua' (carry) and 'phelu' (hold) leave it in the hands.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for 'w', then release into middle-height front unrounded 'e'. Bring the tongue tip against the upper teeth for dental 'n' and carry the voice through the nose into stressed high back rounded 'u'. Open the throat for plain 'h' and let the jaw drop into a final central 'a'.",
+  "usage_notes": "The garment precedes the verb. Inchoative 'pa wenuha' is putting a garment on and cessative 'te wenuha' is taking it off, so dressing and undressing need no separate roots. Whether a garment suits, fits, or belongs to the wearer stays with the surrounding clause.",
+  "examples": [
+    {
+      "phi": "moloi wirua wethalu wenuha.",
+      "translation": "The apprentice wears a wet garment."
+    },
+    {
+      "phi": "mia pa wenuha.",
+      "translation": "I am putting it on."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "the daily act of dressing and undressing",
+    "physical": "a garment resting on and moving with the body"
+  }
+}

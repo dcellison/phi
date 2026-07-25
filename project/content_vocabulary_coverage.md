@@ -1660,6 +1660,23 @@ A branch comes down at the edge of a garden and lies there unvalued for two summ
 
 The essay adds no root and changes no membership. It also found the particle inventory ahead of it: `te` (CESS) supplied the withdrawal of regard that had looked like a missing verb, and `wei` (DAT) supplied the test the whole argument rests on, since `thaemo` (precious) takes a holder and `rolia` (worth) has nowhere to put one.
 
+## Narrative diagnostic: body, motion, and onset
+
+Two people work in a workshop at dusk in the rain, and the passage that puts them there was written to strain rather than to read well. The [narrative test corpus](../documents/evaluation/narrative_test_corpus.md) records what broke. The batch separates gaps the grammar already covers from gaps that wanted roots, and it coins only the second kind.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| Wearing a garment | `wethalu` (garment), `kolua` (carry), and `CV-BODY-10` | **IMPLEMENTED** | Nothing put a garment on a body, so a coat over the arm and a coat on the shoulders shared one description. `wenuha` closes it, and the inchoative and cessative particles supply dressing and undressing free. |
+| Leaning against a support | `manolu` (stay), `panoru` (support), and `CV-BODY-11` | **IMPLEMENTED** | The composed form reported only that a person stayed against a door. `nathelo` restores the weight, and `panoru` keeps the support's side of the relation. |
+| Kneeling | `kunoa` (knee), `meilo` (sit), and `CV-BODY-12` | **IMPLEMENTED** | Composition gave the deliberate placement of a knee rather than the posture. `kuneshi` names the working posture, and deference stays in its own clause rather than entering the verb. |
+| Reaching toward something | `pilu` (take), `palo` (touch), and `CV-BODY-13` | **IMPLEMENTED** | Every existing verb claims an outcome, so the attempt itself could not be stated. `soweri` reports the extended arm and leaves success to the next clause. |
+| Abrupt onset | `reshi` (fast), `te` (CESS), and `CV-TIME-07` | **IMPLEMENTED** | A lantern going out read like light fading over an hour. `pakiro` marks onset without warning, which is separate from speed, and supplies suddenly and suddenness through the ordinary descriptor and quality-noun readings. |
+| Pointing at a thing | `nila` (see) under `ka`, `kiroa` (sign), and `CV-COMM-12` | **IMPLEMENTED** | Causative seeing reports that the other person saw, which pointing does not promise. `thusemi` names the gesture and leaves the outcome open. |
+| Lifting | `ka rihe` and `CV-BODY-14` | **COMPOSITIONAL** | Making a thing rise is a fair description of lifting it, and the diagnostic found no loss. The open question is frequency, not expressiveness. |
+| Following | `noe` (BEHIND) with a motion verb, and `CV-BODY-15` | **COMPOSITIONAL** | Going behind someone is what following looks like from outside. What it leaves unstated is that one path depends on the other, which waits for a passage where the dependence carries weight. |
+
+The batch adds six base roots and changes no membership. It also leaves one finding unresolved by design: Phi has clause relators for before, after, reason, concession, and purpose, and none for while, so a simultaneous clause becomes an event noun after `sui` and its subject becomes a possessor. That is a grammar question rather than a vocabulary one, and it is the maintainer's to open.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.

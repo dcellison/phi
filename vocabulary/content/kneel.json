@@ -1,0 +1,30 @@
+{
+  "word": "kuneshi",
+  "gloss": "kneel",
+  "ipa": "/ku.ˈn̪e̞.ʃi/",
+  "syllables": [
+    "ku",
+    "ne",
+    "shi"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "go down on the knees"
+  ],
+  "description": "Weeding a bed, banking a low fire, and coming down to a child's height all put a person on the ground the same way. To 'kuneshi' is to lower the body until one or both knees carry its weight. 'kunoa' (knee) names the joint that takes the load, and 'meilo' (sit) puts the weight somewhere else.",
+  "articulatory_notes": "Raise the back of the tongue to the soft palate for 'k' and release into high back rounded 'u'. Touch the tongue tip to the upper teeth for dental 'n', voicing through the nose into stressed middle-height front 'e'. Draw the tongue blade back for the post-alveolar fricative 'sh' and close on high front unrounded 'i'.",
+  "usage_notes": "Where the kneeling happens takes 'mua' (LOC) before the verb. Kneeling in Phi is a working and attending posture; deference, if a speaker means it, is stated in its own clause rather than carried by this verb.",
+  "examples": [
+    {
+      "phi": "moloi mua thepalu kuneshi.",
+      "translation": "The apprentice kneels in the garden."
+    }
+  ],
+  "pillars": {
+    "pre-industrial-wisdom": "Much tending happens at ground level, and a word for the posture keeps that work describable without borrowing a term for submission."
+  },
+  "semantic_domains": {
+    "activity": "work and attention carried out close to the ground",
+    "physical": "a posture in which the knees take the body's weight"
+  }
+}

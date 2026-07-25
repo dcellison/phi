@@ -68,3 +68,57 @@ The passage holds together and none of it is ungrammatical, which is the first u
 - **Following is adequate as it stands.** `noe phao to wepu` says the apprentice went behind the parent, which is what following looks like from outside. It leaves the dependence of one path on the other unstated, so a dedicated root would add little.
 - **Abruptness has no expression.** The lantern going out is the passage's one sudden event and it is written as an ordinary change of state, `nuelo to kelu`, indistinguishable from the light fading over an hour. `te` marks that a state ceased and leaves its speed open. This is the gap that most affects narrative, because a story turns on its surprises and interruptions, and Phi currently narrates them at the same pace as everything else.
 - **Manner and nesting behaved.** `maeli thalo` and `sheru haolu` sat where P24 says they sit. One `mena` clause reported a claim without difficulty. Neither is a limitation, and an earlier impression that both were weak points is not supported here.
+
+## 2. The same room, after the coinage
+
+The passage above stays as first written so the before-state remains examinable. This is the same scene with six roots the log asked for: `wenuha` (wear), `nathelo` (lean), `kuneshi` (kneel), `soweri` (reach), `pakiro` (sudden), and `thusemi` (point). Nothing else changed, and the simultaneity construction is deliberately left alone.
+
+```
+pheralu si lepa. norawhi to shua. phao nela moloi mua keritha to nai.
+rain IPFV fall. dusk PST come. parent COORD apprentice LOC workshop PST be.
+(Rain is falling. Dusk came. The parent and the apprentice were in the workshop.)
+
+moloi wirua wethalu wenuha. moloi pelui nai.
+apprentice wet garment wear. apprentice cold be.
+(The apprentice wears a wet garment. The apprentice is cold.)
+
+phao lumoi phelu. sui phao lumoi phelu moloi phelasi sheraki.
+parent lantern hold. DUR parent lantern hold apprentice shelf search.
+(The parent holds the lantern. During the parent's holding of the lantern, the apprentice searches the shelf.)
+
+phelasi mulu nai. moloi kuneshi.
+shelf low be. apprentice kneel.
+(The shelf is low. The apprentice kneels.)
+
+moloi kau phelasi soweri. moloi tenoa ma hekawi.
+apprentice ALL shelf reach. apprentice tool NEG find.
+(The apprentice reaches toward the shelf. The apprentice does not find the tool.)
+
+phao nia ponu nathelo. phao sheru haolu.
+parent ON door lean. parent slow speak.
+(The parent leans on the door. The parent speaks slowly.)
+
+moloi to whano. moloi kau molupa thusemi.
+apprentice PST stand. apprentice ALL box point.
+(The apprentice stood. The apprentice points toward the box.)
+
+molupa tumoa nai. phao molupa ka rihe.
+box heavy be. parent box CAUS rise.
+(The box is heavy. The parent makes the box rise.)
+
+pakiro nuelo to shua.
+sudden dark PST come.
+(A sudden darkness came.)
+
+phao kau womu to wepu. moloi noe phao to wepu.
+parent ALL home PST go. apprentice BEHIND parent PST go.
+(The parent went to the house. The apprentice went behind the parent.)
+
+lo shia to maeli thalo. pheralu si lepa.
+PL 3SG PST quiet walk. rain IPFV fall.
+(They walked quietly. The rain is falling.)
+```
+
+The scene lost three clauses and gained precision in all six places. Kneeling is now one word instead of a knee placed on a floor, reaching keeps the purpose that the moved arm had lost, and the darkness arrives instead of merely occurring. `wenuha` also removed the split where a wet garment and a cold apprentice had to be stated as two separate facts.
+
+Two things stayed as they were on purpose. `ka rihe` still lifts the box, because the log judged the causative honest there rather than a workaround, and `noe phao to wepu` still follows, for the same reason. The simultaneity clause is untouched and remains the one construction in the passage that costs an actor its agency.

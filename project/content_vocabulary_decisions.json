@@ -913,6 +913,22 @@
         "CV-LANG-03",
         "CV-PHIL-10"
       ]
+    },
+    {
+      "id": "narrative-body-and-onset",
+      "heading": "Narrative diagnostic: body, motion, and onset",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-BODY-10",
+        "CV-BODY-11",
+        "CV-BODY-12",
+        "CV-BODY-13",
+        "CV-TIME-07",
+        "CV-COMM-12",
+        "CV-BODY-14",
+        "CV-BODY-15"
+      ]
     }
   ],
   "candidates": [
@@ -4946,6 +4962,177 @@
       ],
       "batches": [
         "original-essay-fallen-branch"
+      ]
+    },
+    {
+      "id": "CV-BODY-10",
+      "concept": "wearing a garment, as against carrying or holding one",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "'wethalu' (garment) named the thing and nothing put it on a body, so a coat over the arm and a coat on the shoulders were one description. The narrative diagnostic had to state a wet garment and a cold apprentice as two separate facts where the thought was one. Inchoative 'pa wenuha' and cessative 'te wenuha' supply dressing and undressing without further roots.",
+      "expressions": [
+        "wethalu",
+        "kolua",
+        "phelu"
+      ],
+      "implementation": {
+        "words": [
+          "wenuha"
+        ],
+        "files": [
+          "vocabulary/content/wear.json"
+        ]
+      },
+      "batches": [
+        "narrative-body-and-onset"
+      ]
+    },
+    {
+      "id": "CV-BODY-11",
+      "concept": "leaning: giving part of one's weight to a support at an angle",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "The diagnostic's best available form, 'nia ponu manolu', reported only that a person stayed against a door and lost the whole sense of weight resting on something. 'panoru' (support) held the other side of the relation with nothing on the leaner's side.",
+      "expressions": [
+        "manolu",
+        "panoru",
+        "nia"
+      ],
+      "implementation": {
+        "words": [
+          "nathelo"
+        ],
+        "files": [
+          "vocabulary/content/lean.json"
+        ]
+      },
+      "batches": [
+        "narrative-body-and-onset"
+      ]
+    },
+    {
+      "id": "CV-BODY-12",
+      "concept": "kneeling as a working and attending posture",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "Composing the posture from its parts gave 'nia tomae kunoa thinu', which reads as deliberate placement of a knee rather than as a person kneeling. Phi refuses domination vocabulary, so the entry states the working sense and leaves deference to its own clause rather than building it into the verb.",
+      "expressions": [
+        "kunoa",
+        "meilo",
+        "tomae"
+      ],
+      "implementation": {
+        "words": [
+          "kuneshi"
+        ],
+        "files": [
+          "vocabulary/content/kneel.json"
+        ]
+      },
+      "batches": [
+        "narrative-body-and-onset"
+      ]
+    },
+    {
+      "id": "CV-BODY-13",
+      "concept": "reaching toward something without claiming to have touched or taken it",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "'kau phelasi pelio roke' described the arm's motion accurately and lost the purpose that makes it reaching. The existing verbs all claim an outcome: 'pilu' (take) that the thing was got, 'palo' (touch) that contact happened, 'kamo' (arrive) that a journey completed. The gap was a word for the attempt.",
+      "expressions": [
+        "pilu",
+        "palo",
+        "kamo",
+        "roke"
+      ],
+      "implementation": {
+        "words": [
+          "soweri"
+        ],
+        "files": [
+          "vocabulary/content/reach.json"
+        ]
+      },
+      "batches": [
+        "narrative-body-and-onset"
+      ]
+    },
+    {
+      "id": "CV-TIME-07",
+      "concept": "the unannounced onset of a change, as against the speed at which it runs",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "A lantern going out was written as an ordinary change of state, indistinguishable from light fading over an hour. 'reshi' (fast) covers speed once under way and says nothing about warning. Canon holds that tempo is neither a virtue nor evidence of mindfulness and that fluent Phi may be quick, so an adjective for abruptness raises no conflict with the unhurried description. As a manner descriptor it supplies suddenly, and the quality-noun reading supplies suddenness.",
+      "expressions": [
+        "reshi",
+        "te",
+        "kelu"
+      ],
+      "implementation": {
+        "words": [
+          "pakiro"
+        ],
+        "files": [
+          "vocabulary/content/sudden.json"
+        ]
+      },
+      "batches": [
+        "narrative-body-and-onset"
+      ]
+    },
+    {
+      "id": "CV-COMM-12",
+      "concept": "indicating a thing or place to another person by gesture",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "Causative 'ka nila' was the nearest form and it reports that the other person saw, which pointing does not promise. A bird can be pointed at and still go unseen. 'kiroa' (sign) is a standing marker rather than an act, so nothing named the gesture itself.",
+      "expressions": [
+        "nila",
+        "ka",
+        "kiroa",
+        "thumai"
+      ],
+      "implementation": {
+        "words": [
+          "thusemi"
+        ],
+        "files": [
+          "vocabulary/content/point.json"
+        ]
+      },
+      "batches": [
+        "narrative-body-and-onset"
+      ]
+    },
+    {
+      "id": "CV-BODY-14",
+      "concept": "lifting: raising a thing against its weight",
+      "status": "compositional",
+      "placement": "base",
+      "summary": "Causative 'ka rihe' makes a thing rise, and making a box rise is a fair description of lifting it. The diagnostic found no loss, so the two words stay. Coin only if sustained narrative use keeps reaching for a single verb, since the question is frequency rather than expressiveness.",
+      "expressions": [
+        "rihe",
+        "ka",
+        "tumoa"
+      ],
+      "batches": [
+        "narrative-body-and-onset"
+      ]
+    },
+    {
+      "id": "CV-BODY-15",
+      "concept": "following: moving along a path because another is moving along it",
+      "status": "compositional",
+      "placement": "base",
+      "summary": "'noe' (BEHIND) with a motion verb says the apprentice went behind the parent, which is what following looks like from outside. What it leaves unstated is that one path depends on the other. The diagnostic judged the loss small; a root waits for a passage where the dependence carries weight.",
+      "expressions": [
+        "noe",
+        "wepu",
+        "thalo",
+        "kulo"
+      ],
+      "batches": [
+        "narrative-body-and-onset"
       ]
     }
   ],

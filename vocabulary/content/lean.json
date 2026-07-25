@@ -1,0 +1,29 @@
+{
+  "word": "nathelo",
+  "gloss": "lean",
+  "ipa": "/n̪ä.ˈθe̞.lo̞/",
+  "syllables": [
+    "na",
+    "the",
+    "lo"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "rest against",
+    "prop"
+  ],
+  "description": "To 'nathelo' is to give part of one's weight to a support and rest at an angle against it: a shoulder to a doorframe, a ladder to a wall, a tired body to a tree. 'manolu' (stay) reports only that something remains in place, and 'panoru' (support) takes the other side of the relation, naming what holds the weight.",
+  "articulatory_notes": "Place the tongue tip behind the upper teeth for dental 'n' and voice through the nose into open central 'a'. Bring the tongue between the teeth for voiceless 'th' and release into stressed middle-height front 'e'. Return the tip to the alveolar ridge for lateral 'l' and round the lips into final middle-height back 'o'.",
+  "sound_symbolism": "The word begins closed at the teeth, opens through a long fricative, and settles on a rounded vowel. That slow release can suggest weight arriving somewhere and staying.",
+  "usage_notes": "The support takes a preposition, most often 'nia' (ON) or 'sio' (BESIDE), and the phrase precedes the verb. A thing as well as a person can lean, so a propped tool and a resting body use one verb.",
+  "examples": [
+    {
+      "phi": "phao nia ponu nathelo.",
+      "translation": "The parent leans on the door."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "a resting posture taken during work or pause",
+    "physical": "weight given at an angle to a supporting surface"
+  }
+}
