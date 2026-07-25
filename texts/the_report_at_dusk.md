@@ -51,8 +51,8 @@ whekai hirawo whalo nai nela shero nuko nai. mia sui shero po kanelu.
 CONTR distance large be COORD night black be. 1SG DUR night POT err.
 (However, the distance is large and the night is black. I can err during the night.)
 
-ha kirema mia phelu. lu ti sherewa shewo nai nela mia mawha phoa. lopia pukea mua nai.
-PROX criterion 1SG hold. COND REP claim true be COORD 1SG NONE do. child danger LOC be.
+ha kirema mia phelu. lu ti sherewa shewo nai nela mia mawha phoa. lopia mua pukea nai.
+PROX criterion 1SG hold. COND REP claim true be COORD 1SG NONE do. child LOC danger be.
 (I hold this criterion. If the reported claim is true and I do nothing, the child is in danger.)
 
 lu ti sherewa peshu nai nela mia to phoa. mia sui ta shero to thalo nela repha whoa to nai.
@@ -107,8 +107,8 @@ lao ha nila na manolu. mia so wepu nela mia so nila.
 BECAUSE PROX see NEC stay. 1SG FUT go COORD 1SG FUT see.
 (Because of this, seeing must stay. I will go and I will see.)
 
-ti sherewa hi sherewa ma nai. ha wi sherewa lo phirae lokue lue shua.
-REP claim DIR claim NEG be. PROX two claim PL different place ABL come.
+ti sherewa hi sherewa ma nai. ha wi sherewa lue lo phirae lokue shua.
+REP claim DIR claim NEG be. PROX two claim ABL PL different place come.
 (A reported claim is not a witnessed claim. These two claims come from different places.)
 
 haluma ha hirawo ma kupe. ti mua sherewa manolu.
