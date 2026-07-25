@@ -1,0 +1,33 @@
+{
+  "word": "tulawe",
+  "gloss": "reversible",
+  "ipa": "/t̪u.ˈlä.we̞/",
+  "syllables": [
+    "tu",
+    "la",
+    "we"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "able to be undone",
+    "can be returned from"
+  ],
+  "description": "An act, change, or arrangement is 'tulawe' when what it did can be undone and the earlier condition regained. A gate left open, a plan set aside, a wall taken down stone by stone: each admits a way back. 'talome' (restore) is the act of returning something toward a stated condition, while 'tulawe' says beforehand that such a return remains available. The judgment belongs to the case at hand, since a return may be possible yet slow, costly, or the work of other hands.",
+  "articulatory_notes": "Begin with the tongue tip against the upper teeth for dental 't', releasing into rounded high-back 'u'. Raise the tongue to the alveolar ridge for 'l' at the start of stressed 'la', then open into low central 'a'. Round the lips for 'w' and let them part into mid-front 'e', which ends the word open and unstopped.",
+  "sound_symbolism": "The word opens outward across its three syllables and ends unclosed, which some speakers hear as the way back still standing open. Its dental beginning keeps company with 'talome' (restore) and 'turema' (return) as an audible kinship rather than a shared part.",
+  "usage_notes": "Negation gives the harder half: 'ha phoa tulawe ma nai.' says that this act cannot be undone. Reversibility concerns the return itself, not its ease or its cost, and says nothing about whether the return should be made.",
+  "examples": [
+    {
+      "phi": "ha phoa tulawe nai.",
+      "translation": "This act is reversible."
+    },
+    {
+      "phi": "lo mia tulawe winora kanu.",
+      "translation": "We choose a reversible plan."
+    }
+  ],
+  "semantic_domains": {
+    "activity": "acts and changes that admit a way back to the earlier condition",
+    "ethics": "the weight a decision carries when its effects cannot be undone"
+  }
+}

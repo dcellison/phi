@@ -1639,6 +1639,16 @@ A garden wall goes down in a storm and is built back from its own stones. The sh
 
 The essay adds no root and changes no membership. It also puts the Philosophical Reasoning path through its first essay-length use, and the terms for claim, objection, and conclusion carried a sustained argument without a workaround.
 
+## Original essay: the report at dusk
+
+A friend brings word at dusk that the footbridge is broken, and nobody in the house has seen it. The second original essay argues about whether to act on that report, and the argument reached for one word the language did not have.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| An act or change that can be undone | `talome` (restore), the predicate `po talome`, and `CV-ETH-02` | **IMPLEMENTED** | Restoring names the return once it is under way; nothing said in advance that a return remained available, so reversible and irreversible acts could not be described as classes. `tulawe` (reversible) fills that place, and ordinary negation carries the harder half. |
+
+The essay adds one base root and changes no membership. It also confirmed three existing boundaries under pressure: `nohero` (believe) takes the proposition, `theomi` (trust) takes the person, and `phoa` (do) is the act, so the argument could say that acting on a claim is not endorsing it.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.

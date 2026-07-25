@@ -8,7 +8,7 @@
 *Content words appear under their listed lexical class. A rule-supplied event or quality noun does not add another class to the entry. Function words are grouped by grammatical class.*
 
 
-## adjective (212)
+## adjective (213)
 
 | Word | Gloss |
 |---|---|
@@ -198,6 +198,7 @@
 | `tiso` | sharp |
 | `towe` | well |
 | `tuko` | sour |
+| `tulawe` | reversible |
 | `tumoa` | heavy |
 | `waeli` | conscious |
 | `waeshi` | wild |
