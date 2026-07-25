@@ -147,15 +147,17 @@ A pillar rationale must be direct and specific. It should fail when pasted into 
 
 ## Phi project voice
 
-Before generating or revising any Phi project text:
+Before generating or revising any Phi project text, run all seven steps in full. Both documents apply whole, including the parts that look irrelevant to the artifact in hand, and both apply to every artifact rather than once per working session.
 
 1. Read `documents/reference/voice_for_models.md` in full.
 2. Load Humanizer and read its `SKILL.md` in full.
 3. Draft the complete, accurate text under canon, schema, source, and artifact requirements.
-4. Apply Humanizer to the complete draft as a separate revision.
+4. Apply Humanizer to the complete draft as a separate revision. Invoke the skill for this artifact even when it was already loaded for another.
 5. Audit the result against every applicable voice count and the batch-stamping rules.
 6. Validate Phi, structure, sources, and generated files after prose revision.
 7. Report one concrete pattern found and corrected.
+
+Two recorded failures shape step 4. A compressed loop once let one phrase stamp itself across a whole batch, and the model later audited an essay by judgment alone because the skill had been loaded hours earlier for different work. The skill's own audit question, asked of this text, catches what the writer's in-flight judgment cannot see in it.
 
 The voice has three registers:
 
