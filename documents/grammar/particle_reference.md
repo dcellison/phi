@@ -285,7 +285,7 @@ Order: Tense (`to`) > Aspect (`si`) > Voice (`se`) > Evidentiality (`hi`/`ke`/`t
 
 ## Slot 2: Word-Level Particles
 
-These particles appear **immediately before** the specific word they modify (noun, verb, or adjective). When several modify the same word, wider relations stand earlier — `we`/`li` > `ha`/`ra` > `lo`/numerals > `ko` > `ru`/`mo` > word — modifier-first inside the phrase (canon, *Slot 2 nests*).
+These particles appear **immediately before** the specific word they modify (noun, verb, or adjective). When several modify the same word, wider relations stand earlier — `we`/`li` > `ha`/`ra` > `lo`/numerals > `ko` > `ru`/`la`/`pe`/`wo`/`mo` > word — modifier-first inside the phrase (canon, *Slot 2 nests*).
 
 ### Number
 
@@ -361,7 +361,9 @@ RESTR 3SG understand.
 ```
 **Note**: `li` fences identity — who, which, when — never quantity; counts are stated exactly or with `henoi` (canon: *li is a fence, not a sigh*).
 
-### Intensity
+### Degree
+
+Four particles share the degree position, immediately before the descriptor or verb they modify. One per phrase: they never stack with each other.
 
 #### `ru` - Intensifier (INTS)
 **Function**: Announces intensification of the following word ("very", "truly")
@@ -371,6 +373,35 @@ ru welao.
 INTS good.
 (very good)
 ```
+
+#### `la` - Attenuator (ATTEN)
+**Function**: Announces a small degree of the following word ("slightly", "a little")
+**Example**:
+```
+phialu la sulae nai.
+water ATTEN warm be.
+(The water is slightly warm.)
+```
+
+#### `pe` - Sufficiency (SUFF)
+**Function**: Announces that the degree meets what the situation asks ("enough")
+**Example**:
+```
+phialu pe sukaro nai.
+water SUFF hot be.
+(The water is hot enough.)
+```
+**Note**: `henoi` (ENOUGH) does the same work for a quantity; `pe` judges a degree. Negation gives the other half: `pe ma sukaro nai` is not hot enough.
+
+#### `wo` - Excess (EXC)
+**Function**: Announces that the degree passes what the situation can take ("too")
+**Example**:
+```
+sulopa wo sukaro nai.
+soup EXC hot be.
+(The soup is too hot.)
+```
+**Note**: `ru` says only that a degree is high. `wo` says it has gone past what the purpose allows, which `ru` had been carrying by implication.
 
 ### Comparison
 
@@ -564,7 +595,7 @@ PL 1SG RECP love.
 |------|----------|----------|
 | **0** | Sentence frame | `wa`, `no`, `lu`, `lu he`, `su`, `pi` |
 | **1** | Verb phrase (Tense > Aspect > Voice > Evid > Modal > Neg) | `to`, `so`, `ki`, `si`, `pa`, `te`, `ro`, `se`, `hi`, `ke`, `ti`, `ho`, `po`, `na`, `ka`, `ma` |
-| **2** | Word-level | `lo`, `nu`, `ko`, `mo`, `ha`, `ra`, `ne`, `sa`, `ni`, `le`, `ru`, `we`, `li` |
+| **2** | Word-level | `lo`, `nu`, `ko`, `mo`, `ha`, `ra`, `ne`, `sa`, `ni`, `le`, `ru`, `la`, `pe`, `wo`, `we`, `li` |
 
 **Note**: Complementizers (`rena`, `shola`/`sholo`, `mena`/`meno`, `wela`/`welo`) and vocative (`kona`) are not particles—see `complementizer_reference.md`.
 

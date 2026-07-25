@@ -1672,7 +1672,15 @@ def check_docs(lexicon_words, paths=None, gloss_of=None, prepositions=None,
                 bolds = re.findall(r"\*\*([^*\n]+)\*\*", line)
                 rest = re.sub(r"\*\*[^*\n]+\*\*", " ", line)
                 candidates = [(c, True, False) for c in bolds]
-                candidates += [(c, True, True) for c in re.findall(r"\*([^*\n]+)\*", rest)]
+                candidates += [
+                    (c, True, True)
+                    for c in re.findall(r"\*([^*\n]+)\*", rest)
+                    # A syllabification gloss such as *we.la.o* is one token
+                    # with internal dots: pronunciation notation, not a Phi
+                    # sentence. Its syllables can spell real words, so it
+                    # would otherwise be parsed as one.
+                    if not re.fullmatch(r"[a-z]+(?:\.[a-z]+)+", c.strip())
+                ]
             for cand, strict, excuse_commas in candidates:
                 # detection is case-blind so capitalized Phi cannot hide
                 if not is_phi_line(cand.lower(), lexicon_words, strict=strict):
