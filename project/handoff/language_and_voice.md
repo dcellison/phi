@@ -199,11 +199,11 @@ Two register rulings from 22 July 2026 bind the book beyond the humour note. Hed
 
 The whole-book revision read enforced the once-per-book rule across the published chapters, so the boundaries now have settled homes: the mind-effect boundary lives in chapter 4's opening statement and its rehearsal-not-rewiring landing, with chapters 11 and 14 carrying the evidence as their own subject, and the "says small" promise lives in the cold open alone. Before adding a hedge to any chapter, find the boundary's existing home first; a second spend within reach of the first is what that read removed.
 
-## Spelling note
+## Spelling priority
 
-At the July 2026 model handoff, Daniel ruled that new prose uses American spelling for now, in the book as well as everywhere else, matching the voice guide's hard-mechanics line. His earlier Canadian preference for book chapters is superseded until he reopens it, and existing repository prose still contains both practices.
+Spelling normalization is explicitly out of the current work sequence. The repository contains Canadian, British, and American forms, and Daniel has ruled that another model can examine them later. Do not spend a substantive vocabulary, corpus, or renderer pass chasing that mixture.
 
-Do not resolve the residual mix through an unrequested repository-wide sweep; a dedicated spelling pass remains Daniel's to schedule. Write American in new prose, and preserve the surrounding file's established spelling during small revisions.
+For new prose, follow the current voice guide and the local file without turning spelling into a second commission. A small revision preserves neighbouring prose as found. A repository-wide spelling decision begins only when Daniel schedules that sweep.
 
 ## Interaction with Daniel
 

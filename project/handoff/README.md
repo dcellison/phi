@@ -1,6 +1,6 @@
 # Phi continuation handoff
 
-This directory is the transfer package for continuing Phi after 17 July 2026. It was first assembled from the live repository after pull request #418 merged and is maintained as the work advances. It records the current position, the working method, the tools, and the maintainer's standing instructions that are easy to lose when a conversation ends.
+This directory is the transfer package for continuing Phi after 17 July 2026. It was first assembled from the live repository after pull request #418 merged and is current through pull request #580 and the local book PDF assembled later on 24 July 2026. It records the current position, the working method, the tools, and the maintainer's standing instructions that are easy to lose when a conversation ends.
 
 This package is a map, not a new authority. When anything here disagrees with a live source, follow the authority order in [`canon.md`](../../canon.md), repair this package, and record a language decision where the disagreement is substantive.
 
@@ -13,7 +13,7 @@ Before changing anything, read these sources in order:
 3. [`documents/reference/voice_for_models.md`](../../documents/reference/voice_for_models.md) in full, then the complete Humanizer skill installed for this model, before generating any Phi project prose. Locate the skill through the active installation's own skill registry rather than a remembered absolute path.
 4. [`project/development_protocol.md`](../development_protocol.md) for word creation, source material, names, semantic choices, and validation.
 5. [`project/roadmap.md`](../roadmap.md) for the execution sequence and evidence gates.
-6. [`project/content_vocabulary_coverage.md`](../content_vocabulary_coverage.md) and the generated [`project/content_vocabulary_decisions.md`](../content_vocabulary_decisions.md) for the active vocabulary migration.
+6. [`project/content_vocabulary_coverage.md`](../content_vocabulary_coverage.md) and the generated [`project/content_vocabulary_decisions.md`](../content_vocabulary_decisions.md) for the completed migration record and any later vocabulary work.
 7. The four files beside this one for the exact handoff state and operating method.
 
 Do not use `archive/` as current evidence. It preserves history, including approaches that were deliberately retired.
@@ -28,11 +28,13 @@ The renderer-led shelf commission is complete too. The primer, texts, manual, an
 
 The entrance sequence is complete. The renderer leaves `kia.md` alone and turns its existing shape into an open threshold. Romanized Phi and Tengwar share the greeting, six compact encounters lead towards seven linked doors, and the final welcome returns in both hands. Each destination opens from anywhere on its row. The Short Road takes the next door: a map gives the whole twenty-minute route at once, then twelve waypoints follow one another through thirteen interlinear examples to a final welcome in both hands. The Phi Book contents page opens a different sort of door. A cover-like introduction leads into four movements containing chapters 1 through 14. The boatman and the door form the bookends. Its strict renderer will not build unless the README's full reading order agrees with the published files. All three source documents remain plain Markdown.
 
+Later that day the generated site supplied a readable, 118-page Phi Book PDF at `build/the_phi_book.pdf`. It has book navigation, proper page labels, metadata, and print-safe examples without adding decoration to the Markdown. The assembly and post-processing scripts were temporary, so this is not the automated publication pipeline deferred as PUB-03. The file remains a disposable local artifact rather than repository source.
+
 The writing system then consolidated. On 23 July 2026 the maintainer retired the native glyph-mode exploration and moved its studies to `archive/writing_systems/` as history; Phi's one second hand is Tengwar, specified and rendered from `tengwar/` at the repository root. The lexicon explorer now shows every headword's Tengwar rendering in the opened entry, at the Tengwar pamphlet's two-to-one scale, assembled in the browser from build-time placement data kept byte-identical to the Python renderer's output, with the space above and below the rendering balanced by measurement. Displaying all 1,275 headwords at once gave the renderer its first full-lexicon review and its first recorded finding, deferred by the maintainer: the a tehta sits slightly low over the h tengwa. In the same span the compound registry returned to word-pair scale: the maintainer ruled its one four-word entry an overreach of compound toward canonized phrase, so `lothea korua`, love-heart, is registered in its place while `mawha norui` composes freely before it in the Metta Sutta's own lines.
 
 PED-08 is complete. The book is published whole: the cold open, chapters 1 through 14, the close, and a consolidated bibliography, every file merged through its own reviewed pull request and rendered on the site. Post-merge citation audits are archived for chapters 3 through 5, 8 through 10, 12 through 14, and the close, and the planning treatment is archived at `archive/book_treatment.md`. The chapter method that produced the book binds any revision pass: a verification agent pins every source with verbatim quotes before drafting, author names and title lines come from Crossref at entry-writing time, repository receipts are checked by grep rather than recall, a list attributed to a source is treated as a quotation, the register follows the maintainer's hedging-low and warmth-high rulings recorded in [`language_and_voice.md`](language_and_voice.md), the full voice protocol runs with the counting pass, and an audit's own findings are verified before they are applied. The whole-book revision read of 22 July 2026 ran under that method as the first pass over the published whole: a front-to-back read logged findings at the moment of noticing, every finding was verified by grep before it reached the maintainer, and one reviewed pull request repaired all fourteen. That repair removed the chapter 2 and 6 Ring Verse duplication, corrected the primer facts in chapter 9 and a forward reference in chapter 10, thinned hedging to the once-per-book rule where it had crowded, and left every chapter reference byte-identical to its bibliography entry.
 
-No work is commissioned. The book's title remains The Phi Book for now, by the maintainer's ruling, with *A Language You Cannot Hurry* and *Announce, Then Deliver* on record as candidates. The bibliography's citation style is uniform with DOIs intact, and the whole-book revision read is complete, so further revision waits on the maintainer's own reading of the finished book.
+No content or language work is commissioned. The book's title remains The Phi Book for now, by the maintainer's ruling, with *A Language You Cannot Hurry* and *Announce, Then Deliver* on record as candidates. The bibliography's citation style is uniform with DOIs intact, and the whole-book revision read is complete, so further revision waits on the maintainer's own reading of the finished book. The maintained future-work ledger has five unfinished entries, all named in [`current_state.md`](current_state.md) and [`project/deferred_questions.md`](../deferred_questions.md).
 
 ## The maintainer's working contract
 
@@ -51,7 +53,7 @@ The following habits came from direct maintainer corrections. Treat them as stan
 - `sound_symbolism` is optional embodied phonesthetics. It is not hidden morphology and should not become grandiose prose. `articulatory_notes` is the physical account of how the complete word is spoken.
 - Apply Humanizer to every generated English string, including JSON fields, table cells, reports, and PR boilerplate. Then run the Phi voice audit separately and name at least one pattern corrected.
 - Keep every Markdown prose paragraph and list-item paragraph on one physical line.
-- Do not spend the remaining vocabulary-migration sequence on Canadian or British spelling checks. A later sweep can settle spelling without interrupting the prose-contract work.
+- Do not spend a substantive vocabulary, corpus, or renderer pass on Canadian, British, or American spelling checks. A later sweep can settle the repository's mixture.
 - Book humour should borrow the kind, not the quantity, of Jerome K. Jerome's *Three Men in a Boat*: mild self-exposure, practical absurdity, and an occasional dry turn. It must not become a string of jokes.
 - Do not describe Phi merely as a "slow language." Its unhurried quality is freedom from needless haste, and the centre is mindful and compassionate speech in the present utterance.
 - Warmth is never rationed downward. On every teaching-corpus and retrofit pass, and on any commission naming an additive goal such as warmth, richness, or aspiration, the additive pass runs first, file by file, before the accuracy pass. A file already judged accurate is not thereby finished; dryness is its own finding, and the latent-image hunt runs on every file whether or not anything was ever stripped from it.
@@ -78,8 +80,8 @@ A replacement model can use this opening checklist:
 1. Confirm the newest user request and whether it is a question or a command.
 2. Read AGENTS.md, canon.md, the full voice guide, and the full Humanizer skill.
 3. Run git status --short --branch and verify that main is clean and current.
-4. Read the current coverage resume point and decision register counts.
-5. If continuing SEM-09D, inspect each Phi passage in context, including its translation or transmutation method, dependencies, and validated examples, before replacing an older workaround.
+4. Read current_state.md, project/deferred_questions.md, and project/roadmap.md before assuming that an older sequence is still active.
+5. If revising the corpus, inspect each Phi passage in context, including its translation, transmutation, or original method, dependencies, module vocabulary, and validated examples.
 6. Create a feature branch only after the scope is understood.
 7. Carry the work through prose, Humanizer, voice audit, validation, commit, push, PR, and CI unless the user explicitly asks to pause.
 ```
