@@ -5,7 +5,7 @@ English uses commas at several kinds of clause boundary. Phi has no single claus
 | Construction | Audible or visible boundary |
 |---|---|
 | realis or irrealis condition | `lu` or `lu he`, followed by a complete sentence and its period |
-| adverbial dependent frame | `pheo`, `phoe`, `lao`, `shai`, or `lila` before the dependent clause; its final predicate completes the frame |
+| adverbial dependent frame | `pheo`, `phoe`, `whau`, `lao`, `shai`, or `lila` before the dependent clause; its final predicate completes the frame |
 | embedded complement | matched `mena ... meno`, `wela ... welo`, or `shola ... sholo` |
 | coordination | `nela`, `thona`, or `sola` between equal constituents |
 | list | `nela` at every boundary |

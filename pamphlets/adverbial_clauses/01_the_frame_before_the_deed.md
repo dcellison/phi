@@ -6,7 +6,7 @@ Every adverbial frame in Phi has one shape:
 
 The relator opens the frame, the dependent clause fills it, and the dependent clause's own verb closes it. No closing word exists for these frames, and none is needed: when the dependent verb has sounded, the frame is complete, and the next word begins the main clause. This is the opposite arrangement from the complement frames, whose `meno`, `welo`, and `sholo` close them audibly; there, the boundary is a word, and here, the boundary is the frame's own final verb.
 
-The set is closed at five: `pheo` (after), `phoe` (before), `lao` (because), `shai` (although), and `lila` (in order to). Canon settles the inventory, and no sixth relator is waiting in a drawer.
+The set is closed at six: `pheo` (after), `phoe` (before), `whau` (while), `lao` (because), `shai` (although), and `lila` (in order to). Canon settles the inventory, and nothing outside it does this work.
 
 ### Two look-alikes that are not relators
 

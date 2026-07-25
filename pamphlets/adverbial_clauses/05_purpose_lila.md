@@ -1,4 +1,4 @@
-# Part 4: Purpose: `lila`
+# Part 5: Purpose: `lila`
 
 `lila` opens an intended outcome, and the whole frame stands before the action undertaken for it:
 

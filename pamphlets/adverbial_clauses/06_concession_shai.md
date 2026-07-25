@@ -1,4 +1,4 @@
-# Part 5: Concession: `shai`
+# Part 6: Concession: `shai`
 
 `shai` opens a circumstance that raises an expectation, and the main clause overturns it:
 
@@ -20,7 +20,7 @@ The expectation belongs to the speaker's framing, not to the world. `shai shelir
 
 ### One sentence or two, again
 
-The pairing from Part 3 repeats here exactly. `shai` concedes inside one sentence; `whekai`, the discourse marker, redirects across a boundary, with the first claim standing as its own sentence and `whekai` opening the turn. A concession folded into the assertion takes `shai`; a reversal that deserves its own breath takes the period and `whekai`. The scope is the choice, and the choice is audible.
+The pairing from Part 4 repeats here exactly. `shai` concedes inside one sentence; `whekai`, the discourse marker, redirects across a boundary, with the first claim standing as its own sentence and `whekai` opening the turn. A concession folded into the assertion takes `shai`; a reversal that deserves its own breath takes the period and `whekai`. The scope is the choice, and the choice is audible.
 
 ### Practice: concede, then assert
 
