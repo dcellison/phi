@@ -78,7 +78,7 @@ legge: "and that of (the initiation of) any movement is in its timeliness."
 Legge places excellence in six settings, and Phi lets each one find its own predicate. A home needs a fitting place. Mind takes the event noun of `remo`, think, and rests in deep calm. Government becomes `kowanu`, governance, whose excellence here lies in making society harmonious. `pokera`, competent, states present ability in the conduct of affairs. Movement begins at `theali thimu`, a fitting time.
 
 ```
-[wha mo ko welao phelu] miona mua mulu noa themore ma kealo.
+[whu mo ko welao phelu] miona mua mulu noa themore ma kealo.
 [REL CMPR FOC good hold] person LOC low position argument NEG create.
 (The person who holds the highest excellence creates no argument in a low position.)
 legge: "3. And when (one with the highest excellence) does not wrangle (about his low position),"
@@ -129,7 +129,7 @@ room function LOC 3SG empty space depend.
 (The room's function depends on the empty space within it.)
 legge: "but it is on the empty space (within), that its use depends."
 
-[wha nai] lo thena se po hinolu.
+[whu nai] lo thena se po hinolu.
 [REL be] PL thing PASS POT adapt.
 (Things that exist can be adapted.)
 legge: "Therefore, what has a (positive) existence serves for profitable adaptation,"
@@ -147,7 +147,7 @@ The closing pair separates adaptation from usability. Existing things can be alt
 ### Chapter 17: authority barely seen
 
 ```
-lo miona mua mo ko tholua thimu tha [wha punoa karami phelu] lo miona nai tho to ma sano.
+lo miona mua mo ko tholua thimu tha [whu punoa karami phelu] lo miona nai tho to ma sano.
 PL person LOC CMPR FOC ancient time DECL.COMP [REL society authority hold] PL person be DECL.COMP.CLOSE PST NEG know.
 (In the most ancient time, people did not know that there were people who held authority in society.)
 legge: "17. 1. In the highest antiquity, (the people) did not know that there were (their rulers)."
@@ -167,7 +167,7 @@ PL person LOC ORD one three-group one time PL 3SG PST small see.
 (In the fourth time, people saw them as small.)
 legge: "in the next they despised them."
 
-lu [wha punoa karami phelu] lo miona keiro to ma themui. lo miona lo shia to ma themui.
+lu [whu punoa karami phelu] lo miona keiro to ma themui. lo miona lo shia to ma themui.
 COND [REL society authority hold] PL person way PST NEG faith. PL person PL 3SG PST NEG faith.
 (When the people who held authority lacked faith in the way, the people lacked faith in them.)
 legge: "Thus it was that when faith (in the Tao) was deficient (in the rulers) a want of faith in them ensued (in the people)."
@@ -212,7 +212,7 @@ person thing taste. 3SG taste different NEG see.
 (One tastes a thing without seeing distinctions of flavor.)
 legge: "to taste without discerning any flavour;"
 
-miona [wha thiku nai] thena whalo nila. shia phea sheloi thena phina thena nila.
+miona [whu thiku nai] thena whalo nila. shia phea sheloi thena phina thena nila.
 person [REL small be] thing large see. 3SG AS many thing few thing see.
 (One sees what is small as great and a few things as many.)
 legge: "to consider what is small as great, and a few as many;"
@@ -226,17 +226,17 @@ legge: "and to recompense injury with kindness."
 `whuo phoa remo` is a thought of doing held outside the act. That stays close to Legge's English without claiming to exhaust *wu wei*. Trouble appears as `tupeka`, a burden felt by the person conducting affairs. Flavor is the event noun of `thorima`, taste; no difference in it is seen. Legge's injury line takes the form of a condition and request: if someone acts harmfully toward you, give kindness to them.
 
 ```
-phoe lo riola kethua kelu [wha ha keiro thole] miona lo riola thilonu.
+phoe lo riola kethua kelu [whu ha keiro thole] miona lo riola thilonu.
 ANT PL labor hard become [REL PROX way practice] person PL labor prepare.
 (Before affairs become difficult, the person who practices this way prepares them.)
 legge: "2. (The master of it) anticipates things that are difficult while they are easy,"
 
-[wha ha keiro thole] miona [wha so whalo kelu] lo thiku thena phoa.
+[whu ha keiro thole] miona [whu so whalo kelu] lo thiku thena phoa.
 [REL PROX way practice] person [REL FUT large become] PL small thing do.
 (The person who practices this way does small things that will become great.)
 legge: "and does things that would become great while they are small."
 
-theula [wha kethua nai] muila thena lue [wha kethua ma nai] mirela shua.
+theula [whu kethua nai] muila thena lue [whu kethua ma nai] mirela shua.
 UNIV [REL hard be] earth thing ABL [REL hard NEG be] state come.
 (All difficult things in the world come from a state that is not difficult.)
 legge: "All difficult things in the world are sure to arise from a previous state in which they were easy,"
@@ -255,12 +255,12 @@ legge: "Therefore the sage, while he never does what is great, is able on that a
 Phi has `kethua`, hard, for a task or condition that demands substantial effort, but it has no separate adjective for easy. Negating `kethua` supplies the other side without making it a second root. `phoe` places preparation before affairs become difficult. Legge's master is a person who practices this way, while `phewo` stays where the source has a sage.
 
 ```
-[wha phelo seru] miona phina seru ro korei.
+[whu phelo seru] miona phina seru ro korei.
 [REL light commit] person few commit HAB fulfill.
 (A person who commits lightly usually fulfills few commitments.)
 legge: "3. He who lightly promises is sure to keep but little faith;"
 
-[wha tha lo riola kethua ma nai tho theula thimu remo] miona [wha kethua nai] lo riola ro hekawi.
+[whu tha lo riola kethua ma nai tho theula thimu remo] miona [whu kethua nai] lo riola ro hekawi.
 [REL DECL.COMP PL labor hard NEG be DECL.COMP.CLOSE UNIV time think] person [REL hard be] PL labor HAB find.
 (A person who always thinks that affairs are not difficult usually finds difficult affairs.)
 legge: "he who is continually thinking things easy is sure to find them difficult."
@@ -305,12 +305,12 @@ rigid COORD strong COM die come. soft COORD weak COM life come.
 (Rigidity and strength come with death. Softness and weakness come with life.)
 legge: "2. Thus it is that firmness and strength are the concomitants of death; softness and weakness, the concomitants of life."
 
-[wha miso [wha roe puro phoa] lo miona puro theomi] miona miso porua ma korei.
+[whu miso [whu roe puro phoa] lo miona puro theomi] miona miso porua ma korei.
 [REL REFL [REL INS strength do] PL person strength trust] person REFL purpose NEG fulfill.
 (The person who trusts the strength of their own people who act through force does not fulfill their purpose.)
 legge: "3. Hence he who (relies on) the strength of his forces does not conquer;"
 
-kema shiro [wha shia lomare] lo pelio pheno ka nai. thelao [wha lo shiro kati] miona shia kanu.
+kema shiro [whu shia lomare] lo pelio pheno ka nai. thelao [whu lo shiro kati] miona shia kanu.
 strong tree [REL 3SG embrace] PL arm full CAUS be. CONS [REL PL tree cut] person 3SG choose.
 (A strong tree fills the arms that embrace it. Therefore a person who cuts trees chooses it.)
 legge: "and a tree which is strong will fill the out-stretched arms, (and thereby invites the feller.)"
@@ -332,23 +332,23 @@ mo ko welao phea phialu nai. phialu theula thena naphe. phialu mua mulu lokue me
 
 womu welao theali lokue nai. remo welao nulo shena nai. phiremo welao nua welao miona nai. welao punoa kowanu punoa koru ka nai. lo riola welao mua pokera phoa nai. roke thorui welao mua theali thimu nai.
 
-[wha mo ko welao phelu] miona mua mulu noa themore ma kealo. thelao mawha miona shia phelira nila.
+[whu mo ko welao phelu] miona mua mulu noa themore ma kealo. thelao mawha miona shia phelira nila.
 
-ta lau ta shao wolea monaki lue rolu shuna wea ta kesho wepu. lo shia mua ta kesho koluma. rolu kelitho wei tolu whemoa tholu pherami. miona muo lo lopha mueri kire. lo lopha kelitho whemoa tholu pherami. lila miona tholupi kire miona lue lo moru ponu nela lo wira kati. tholupi kelitho mua shia whemoa tholu pherami. [wha nai] lo thena se po hinolu. whemoa tholu lo shia kelasu ka nai.
+ta lau ta shao wolea monaki lue rolu shuna wea ta kesho wepu. lo shia mua ta kesho koluma. rolu kelitho wei tolu whemoa tholu pherami. miona muo lo lopha mueri kire. lo lopha kelitho whemoa tholu pherami. lila miona tholupi kire miona lue lo moru ponu nela lo wira kati. tholupi kelitho mua shia whemoa tholu pherami. [whu nai] lo thena se po hinolu. whemoa tholu lo shia kelasu ka nai.
 
-lo miona mua mo ko tholua thimu tha [wha punoa karami phelu] lo miona nai tho to ma sano. lo miona mua nu wi thimu lo shia to lothea. lo miona lo shia to keluro. lo miona mua nu ta shao thimu wea lo shia sukima to phaelo. lo miona mua nu ta shao ta thimu lo shia to thiku nila. lu [wha punoa karami phelu] lo miona keiro to ma themui. lo miona lo shia to ma themui.
+lo miona mua mo ko tholua thimu tha [whu punoa karami phelu] lo miona nai tho to ma sano. lo miona mua nu wi thimu lo shia to lothea. lo miona lo shia to keluro. lo miona mua nu ta shao thimu wea lo shia sukima to phaelo. lo miona mua nu ta shao ta thimu lo shia to thiku nila. lu [whu punoa karami phelu] lo miona keiro to ma themui. lo miona lo shia to ma themui.
 
 lo shia nilua to nai. lo shia thiku haolu. lo shia miso lo phelui to sone. lo shia riola sholu to nai. lo shia lo rinoka to korei. theula miona sha lo mia lue miso phea lo mia nai sho to haolu.
 
-miona whuo phoa remo phoa. miona lo riola phoa. shia tupeka ma phaelo. miona thena thorima. shia thorima phirae ma nila. miona [wha thiku nai] thena whalo nila. shia phea sheloi thena phina thena nila. lu miona wei thia peloma phoa. no wei shia phena loa.
+miona whuo phoa remo phoa. miona lo riola phoa. shia tupeka ma phaelo. miona thena thorima. shia thorima phirae ma nila. miona [whu thiku nai] thena whalo nila. shia phea sheloi thena phina thena nila. lu miona wei thia peloma phoa. no wei shia phena loa.
 
-phoe lo riola kethua kelu [wha ha keiro thole] miona lo riola thilonu. [wha ha keiro thole] miona [wha so whalo kelu] lo thiku thena phoa. theula [wha kethua nai] muila thena lue [wha kethua ma nai] mirela shua. theula whalo thena lue thiku thena shua. phewo whalo thena mawha thimu phoa. thelao phewo mo ko whalo thena po korei.
+phoe lo riola kethua kelu [whu ha keiro thole] miona lo riola thilonu. [whu ha keiro thole] miona [whu so whalo kelu] lo thiku thena phoa. theula [whu kethua nai] muila thena lue [whu kethua ma nai] mirela shua. theula whalo thena lue thiku thena shua. phewo whalo thena mawha thimu phoa. thelao phewo mo ko whalo thena po korei.
 
-[wha phelo seru] miona phina seru ro korei. [wha tha lo riola kethua ma nai tho theula thimu remo] miona [wha kethua nai] lo riola ro hekawi. shai miona riola kethua ma nila phewo riola kethua nila. thelao phewo mawha thimu kethua phelu.
+[whu phelo seru] miona phina seru ro korei. [whu tha lo riola kethua ma nai tho theula thimu remo] miona [whu kethua nai] lo riola ro hekawi. shai miona riola kethua ma nila phewo riola kethua nila. thelao phewo mawha thimu kethua phelu.
 
 miona mua thowia thimu luwi nela huwa nai. miona mua lumeo thimu tinako nela kema nai. theula thena we phea ha nai. lo shiro nela lo phireo mua limu thuroa thimu wuloe nela welua nai. lo shia mua lumeo thimu kurathi nai. lo shia mua lumeo thimu ki kureno.
 
-tinako nela kema nua lumeo shua. wuloe nela huwa nua lioru shua. [wha miso [wha roe puro phoa] lo miona puro theomi] miona miso porua ma korei. kema shiro [wha shia lomare] lo pelio pheno ka nai. thelao [wha lo shiro kati] miona shia kanu. tinako nela kema noa mulu nai. wuloe nela huwa noa raelu nai.
+tinako nela kema nua lumeo shua. wuloe nela huwa nua lioru shua. [whu miso [whu roe puro phoa] lo miona puro theomi] miona miso porua ma korei. kema shiro [whu shia lomare] lo pelio pheno ka nai. thelao [whu lo shiro kati] miona shia kanu. tinako nela kema noa mulu nai. wuloe nela huwa noa raelu nai.
 ```
 
 ### Translation limits
@@ -452,7 +452,7 @@ The pot contains `mu thena`, zero things. That is `mu` doing ordinary counting b
 The excerpt is the chapter entire.
 
 ```
-lo miona mua nu ta thimu [wha kulo miona] to ma sano.
+lo miona mua nu ta thimu [whu kulo miona] to ma sano.
 PL person LOC ORD one time [REL guide person] PST NEG know.
 (In the first time, the people did not know the ones who guide.)
 legge: "17. 1. In the highest antiquity, (the people) did not know that there were (their rulers)."
@@ -472,7 +472,7 @@ PL person LOC ORD one three-group one time 3SG PST small see.
 (In the fourth time, the people saw them as small.)
 legge: "in the next they despised them."
 
-lu [wha kulo miona] keiro ma theomi. lo miona shia ma theomi.
+lu [whu kulo miona] keiro ma theomi. lo miona shia ma theomi.
 COND [REL guide person] way NEG trust. PL person 3SG NEG trust.
 (When the one who guides does not trust the way, the people do not trust the guide.)
 legge: "Thus it was that when faith (in the Tao) was deficient (in the rulers) a want of faith in them ensued (in the people)."
@@ -493,7 +493,7 @@ UNIV person QUOT.COMP PL 1SG ABL REFL AS PL 1SG be QUOT.COMP.CLOSE PST speak.
 legge: "while the people all said, 'We are as we are, of ourselves!'"
 ```
 
-No neutral ruler word exists in Phi, so this version chooses `wha kulo miona`, the one who guides. That is the chapter's refusal and its largest departure from Legge. Four ordinal time phrases count the ages, and every historical verb carries `to`. The registered compound `thiku nila` sees someone as small. The faith sentence repeats one negation on both sides of the relation: the guide does not trust `keiro`, then the people do not trust the guide. Reticence takes little speech and cherished words. `sha ... sho` closes around the people's exact claim, where the guide is finally absent: we, of ourselves, are as we are.
+No neutral ruler word exists in Phi, so this version chooses `whu kulo miona`, the one who guides. That is the chapter's refusal and its largest departure from Legge. Four ordinal time phrases count the ages, and every historical verb carries `to`. The registered compound `thiku nila` sees someone as small. The faith sentence repeats one negation on both sides of the relation: the guide does not trust `keiro`, then the people do not trust the guide. Reticence takes little speech and cherished words. `sha ... sho` closes around the people's exact claim, where the guide is finally absent: we, of ourselves, are as we are.
 
 ### Chapter 63: the great begins small
 
@@ -553,12 +553,12 @@ rigid COORD strong die friend be. soft COORD weak life friend be.
 (The rigid and the strong are death's companions; the soft and the weak are life's companions.)
 legge: "2. Thus it is that firmness and strength are the concomitants of death; softness and weakness, the concomitants of life."
 
-wha li kema theomi miona mawha lureko thola.
+whu li kema theomi miona mawha lureko thola.
 REL RESTR strong trust person NONE fruit bring.
 (The person who trusts only strength brings no fruit.)
 legge: "Hence he who (relies on) the strength of his forces does not conquer;"
 
-lu whalo howeli shua. wha tinako nai shiro lepa. wha luwi nai shiro manolu.
+lu whalo howeli shua. whu tinako nai shiro lepa. whu luwi nai shiro manolu.
 COND large wind come. REL rigid be tree fall. REL flexible be tree stay.
 (When the great wind comes, the tree that is rigid falls, and the tree that is flexible stays.)
 legge: "and a tree which is strong will fill the out-stretched arms, (and thereby invites the feller.)"
@@ -583,7 +583,7 @@ Legge's pairs stay on `nela`: `luwi nela huwa`, flexible and weak, then `tinako 
 | dislike of the low place | refusal to dwell there |
 | thirty spokes | omitted while pot, door, and window carry the argument |
 | useful | possibility under `po` |
-| rulers | `wha kulo miona`, people who guide |
+| rulers | `whu kulo miona`, people who guide |
 | four ages; praised | ternary ordinals; `keluro`, honor |
 | faith in the Tao | trust in `keiro` |
 | irresolute reticence | speaking little and cherishing words |

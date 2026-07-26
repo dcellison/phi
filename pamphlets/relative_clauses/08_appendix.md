@@ -5,23 +5,23 @@
 ### The basic structure
 
 ```
-[wha CLAUSE] NOUN
+[whu CLAUSE] NOUN
 ```
 
-- `wha` announces a relative clause
+- `whu` announces a relative clause
 - The clause describes the noun
 - The noun appears at the end, closing the clause
 
 ### In a full sentence
 
 ```
-[wha CLAUSE NOUN] MAIN-VERB
+[whu CLAUSE NOUN] MAIN-VERB
 ```
 
 or
 
 ```
-SUBJECT [wha CLAUSE NOUN] MAIN-VERB
+SUBJECT [whu CLAUSE NOUN] MAIN-VERB
 ```
 
 ### Key facts
@@ -29,7 +29,7 @@ SUBJECT [wha CLAUSE NOUN] MAIN-VERB
 | Feature | Phi | English |
 |---------|-----|---------|
 | Position | Pre-nominal (clause before noun) | Post-nominal (noun before clause) |
-| Marker | Single `wha` for all cases | who, whom, which, that, where, when... |
+| Marker | Single `whu` for all cases | who, whom, which, that, where, when... |
 | Closer | None needed (noun closes clause) | None (but can sprawl) |
 | Gap | Position indicates role | Relative pronoun indicates role |
 
@@ -37,33 +37,33 @@ SUBJECT [wha CLAUSE NOUN] MAIN-VERB
 
 **Subject gap:** The head noun is the doer
 ```
-wha ___ nophi kealo miona
+whu ___ nophi kealo miona
 "the person who creates stories"
 ```
 
 **Object gap:** The head noun is the receiver
 ```
-wha mia ___ to theo shelu
+whu mia ___ to theo shelu
 "the book that I read"
 ```
 
 **Oblique gap:** The head noun fills a prepositional phrase; the preposition stays and its object is gapped
 ```
-wha mia mua ___ to thalo shelira
+whu mia mua ___ to thalo shelira
 "the forest that I walked in"
 ```
 
 ### Headless relatives
 
-When the noun is implied, `wha` remains and the head goes unspoken:
+When the noun is implied, `whu` remains and the head goes unspoken:
 ```
-wha lothea shelomu phue nai
+whu lothea shelomu phue nai
 "one who understands love is wise"
 ```
 
-Headless never means markerless: without `wha`, the words are a statement, not a thing.
+Headless never means markerless: without `whu`, the words are a statement, not a thing.
 
-### What `wha` is NOT
+### What `whu` is NOT
 
 - NOT a pronoun (doesn't change form, doesn't fill the gap)
 - NOT optional, headed or headless
@@ -71,7 +71,7 @@ Headless never means markerless: without `wha`, the words are a statement, not a
 
 ### Checklist
 
-- `wha` at the beginning
+- `whu` at the beginning
 - Complete clause (subject, verb, etc.)
 - Gap where the head noun would be
 - Head noun at the end
@@ -81,7 +81,7 @@ Headless never means markerless: without `wha`, the words are a statement, not a
 
 ## Glossary
 
-**Complementizer:** A function word that introduces a subordinate clause. In Phi: `wha`, `tha`/`tho`, `sha`/`sho`, `pha`/`pho`.
+**Complementizer:** A function word that introduces a subordinate clause. In Phi: `whu`, `tha`/`tho`, `sha`/`sho`, `pha`/`pho`.
 
 **Gap:** The empty position inside a relative clause where the head noun would appear if it were a normal sentence.
 
@@ -97,7 +97,7 @@ Headless never means markerless: without `wha`, the words are a statement, not a
 
 **Relative clause:** A clause that functions as a modifier, describing a noun by relating it to a situation or action.
 
-**Relativizer:** A word that introduces a relative clause. In Phi: `wha`. In English: who, which, that, etc.
+**Relativizer:** A word that introduces a relative clause. In Phi: `whu`. In English: who, which, that, etc.
 
 **Relative pronoun:** A pronoun that introduces a relative clause and stands in for the head noun inside it. English uses these; Phi does not.
 
@@ -159,7 +159,7 @@ Related chapters:
 - **Chapter 19**, subordinate clauses: the complementizers `tha`/`tho`, `sha`/`sho`, `pha`/`pho`
 
 Related grammar documents:
-- `complementizer_reference.md`, full reference for all complementizers including `wha`
+- `complementizer_reference.md`, full reference for all complementizers including `whu`
 
 ---
 

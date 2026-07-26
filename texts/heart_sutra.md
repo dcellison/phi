@@ -6,7 +6,7 @@
 
 *The ground truth is Müller's 1894 translation in Buddhist Mahâyâna Texts, Sacred Books of the East, volume XLIX. It is stored verbatim in `texts/sources/buddhist_mahayana_texts_1894.txt`, and the citations retain the scan's spellings and broken words. The citations alone carry the personal names Avalokiteshvara and Sariputra. They also carry Prajnaparamita, Nirvana, and Svaha wherever a Phi description would falsely claim equivalence.*
 
-*Each block carries the Phi sentence, its word-by-word gloss, a literal English back-translation, and the source wording. The close rendering uses `nulo sholu sano`, deep complete knowing, for Prajnaparamita and `[wha se nelu nela wea nowae thalo] miona`, a revered person walking toward awakening, for the venerable Bodhisattva. They show how Phi approaches each relation; the source terms do the rest.*
+*Each block carries the Phi sentence, its word-by-word gloss, a literal English back-translation, and the source wording. The close rendering uses `nulo sholu sano`, deep complete knowing, for Prajnaparamita and `[whu se nelu nela wea nowae thalo] miona`, a revered person walking toward awakening, for the venerable Bodhisattva. They show how Phi approaches each relation; the source terms do the rest.*
 
 ---
 
@@ -15,12 +15,12 @@
 ### Adoration and five gatherings
 
 ```
-wei [wha theula sano] keluro.
+wei [whu theula sano] keluro.
 DAT [REL UNIV know] honor.
 (Honor to the one who knows all.)
 muller: "Adoration to the Omniscient !"
 
-[wha se nelu nela wea nowae thalo] miona nulo sholu sano to thole.
+[whu se nelu nela wea nowae thalo] miona nulo sholu sano to thole.
 [REL PASS revere COORD TOWARD awaken walk] person deep complete know PST practice.
 (The person who was revered and walked toward awakening practiced deep complete knowing.)
 muller: "The venerable Bodhisattva Avalokite^vara, per- forming his study in the deep Pra^;^aparamita (perfection of wisdom),"
@@ -56,7 +56,7 @@ empty ABL shape different NEG be. shape ABL empty different NEG be.
 (Emptiness is not different from form. Form is not different from emptiness.)
 muller: "Emptiness is not different from form, form is not different from emptiness."
 
-[wha kire nai] whemoa nai. [wha whemoa nai] kire nai.
+[whu kire nai] whemoa nai. [whu whemoa nai] kire nai.
 [REL shape be] empty be. [REL empty be] shape be.
 (That which is form is emptiness. That which is emptiness is form.)
 muller: "What is form that is emptiness, what is emptiness that is form."
@@ -149,7 +149,7 @@ muller: "There is no knowledge, no obtaining (of Nirva;/a)."
 ### Consciousness and fear
 
 ```
-miona wea [wha wea nowae thalo] miona nulo sholu sano ki shua. waeli shia roa nai. shia mua ha waeli menui.
+miona wea [whu wea nowae thalo] miona nulo sholu sano ki shua. waeli shia roa nai. shia mua ha waeli menui.
 person TOWARD [REL TOWARD awaken walk] person deep complete know PFV come. conscious 3SG AROUND be. 3SG LOC PROX conscious dwell.
 (A person has approached the deep complete knowing of the person who walks toward awakening. Consciousness surrounds them. They dwell within this consciousness.)
 muller: "' A man who has approached the Pra^;Hparamita of the Bodhisattva dwells enveloped in conscious- ness '."
@@ -170,13 +170,13 @@ muller: "beyond the reach of change, enjoying final Nirv^awa."
 ### Awakening
 
 ```
-pheo theula [wha nowae] miona mua luera nela nosa nela wireo wea nulo sholu sano to shua lo shia kau mo ko sholu sano to nowae.
+pheo theula [whu nowae] miona mua luera nela nosa nela wireo wea nulo sholu sano to shua lo shia kau mo ko sholu sano to nowae.
 POST UNIV [REL awaken] person LOC past COORD now COORD future TOWARD deep complete know PST come PL 3SG ALL CMPR FOC complete know PST awaken.
 (After all awakened people of the past, present, and future approached deep complete knowing, they awakened to the highest complete knowledge.)
 muller: "' All Buddhas of the past, present, and future, after approaching the Pra^;7aparamita, have awoke to the highest perfect knowledge.'"
 ```
 
-**Notes:** Buddha is translated by meaning as `[wha nowae] miona`, a person who awakens. Past, present, and future share one time phrase, and `pheo` places the approach before awakening. The source's superlative sits in `mo ko sholu sano`, the most complete knowledge. Buddha therefore enters as an action rather than a Phi rank or office.
+**Notes:** Buddha is translated by meaning as `[whu nowae] miona`, a person who awakens. Past, present, and future share one time phrase, and `pheo` places the approach before awakening. The source's superlative sits in `mo ko sholu sano`, the most complete knowledge. Buddha therefore enters as an action rather than a Phi rank or office.
 
 ### The verse and the crossing
 
@@ -229,17 +229,17 @@ muller: "Thus ends the heart of the Pra^'waparamita."
 ```
 nulo sano korua
 
-wei [wha theula sano] keluro. [wha se nelu nela wea nowae thalo] miona nulo sholu sano to thole. shia tha ta shao wi sholei nai tho to remo. shia tha lo shia woeli kire whemoa nai tho to remo.
+wei [whu theula sano] keluro. [whu se nelu nela wea nowae thalo] miona nulo sholu sano to thole. shia tha ta shao wi sholei nai tho to remo. shia tha lo shia woeli kire whemoa nai tho to remo.
 
-kona miona. mua ha kire whemoa nai. whemoa ko kire nai. whemoa lue kire phirae ma nai. kire lue whemoa phirae ma nai. [wha kire nai] whemoa nai. [wha whemoa nai] kire nai. morae nela nomei nela remole nela sano ha we phelu.
+kona miona. mua ha kire whemoa nai. whemoa ko kire nai. whemoa lue kire phirae ma nai. kire lue whemoa phirae ma nai. [whu kire nai] whemoa nai. [whu whemoa nai] kire nai. morae nela nomei nela remole nela sano ha we phelu.
 
 kona miona. theula thena whemoa kire phelu. lo shia mawha thorui mawha lumae phelu. lo shia shiloa nai. lo shia we shiloa ma nai. lo shia sholu nai. lo shia we sholu ma nai.
 
 kona miona. thelao mua ha whemoa mu kire mu morae mu nomei mu remole mu sano nai. mu mirae mu shonui mu nophae mu lathoe mu weloni mu remo nai. mu kire mu shonuwa mu whinu mu thorima mu palo mu thena nai. mu sano mu sano whemoa mu sano lumae mu sano whemoa lumae nai. mu serao kelu mu lumeo nai. mu serao kelu lumae mu lumeo lumae nai. mu kipona mu kipona thorui mu kipona lumae mu kipona lumae ruela nai. mu sano mu pilu nai.
 
-miona wea [wha wea nowae thalo] miona nulo sholu sano ki shua. waeli shia roa nai. shia mua ha waeli menui. lu waeli roa shia lumae se ka kelu. shia lue theula sukima ralu kelu. helui shia po ma pilu. shia sholu nulo shea phaelo.
+miona wea [whu wea nowae thalo] miona nulo sholu sano ki shua. waeli shia roa nai. shia mua ha waeli menui. lu waeli roa shia lumae se ka kelu. shia lue theula sukima ralu kelu. helui shia po ma pilu. shia sholu nulo shea phaelo.
 
-pheo theula [wha nowae] miona mua luera nela nosa nela wireo wea nulo sholu sano to shua lo shia kau mo ko sholu sano to nowae.
+pheo theula [whu nowae] miona mua luera nela nosa nela wireo wea nulo sholu sano to shua lo shia kau mo ko sholu sano to nowae.
 
 thelao miona nulo sholu sano ru welao melira na sano. ha ru nulo sano melira nai. mawha melira ha sheo mo welao nai. ha mawha kolo melira phelu. ha melira theula kipona shena ka nai. lao ha ma peshu ha shewo nai. ha melira mua nulo sholu sano to se shemui.
 
@@ -251,7 +251,7 @@ kona nulo sano. thia ki wepu. thia ki wepu. thia kau phirae kerime ki wepu. thia
 | Müller wording | Phi rendering | Remaining difference |
 |---|---|---|
 | Avalokiteshvara; Sariputra | semantic roles in Phi; exact names in the source lines | The names have no accepted Phi-form onyms. `kona miona` carries direct address but not the addressee's identity. |
-| venerable Bodhisattva | `[wha se nelu nela wea nowae thalo] miona`, a revered person walking toward awakening | Reverence and the direction of practice survive, but the description does not carry the Sanskrit title's full doctrinal history. |
+| venerable Bodhisattva | `[whu se nelu nela wea nowae thalo] miona`, a revered person walking toward awakening | Reverence and the direction of practice survive, but the description does not carry the Sanskrit title's full doctrinal history. |
 | Prajnaparamita | `nulo sholu sano`, deep complete knowing | The compound renders Müller's parenthetical "perfection of wisdom" but is not a tradition-specific equivalent. |
 | five Skandhas | `ta shao wi sholei`, five gatherings | The count and gathered character survive; the generic event noun does not encode the Buddhist aggregate theory. |
 | form; emptiness | event noun `kire`; quality noun `whemoa` | `kire` begins from material shape, while `whemoa` begins from an empty vessel. Their ordinary ranges are audible inside the equation. |
@@ -277,12 +277,12 @@ The transmutation follows Müller's sequence but lets Phi's ordinary words decid
 ### The seeing
 
 ```
-wei [wha theula sano] keluro.
+wei [whu theula sano] keluro.
 DAT [REL UNIV know] honor.
 (Honor to the one who knows all.)
 muller: "Adoration to the Omniscient !"
 
-wha nulo nila nulo sano thole.
+whu nulo nila nulo sano thole.
 REL deep see deep know practice.
 (The one who sees deeply practices deep knowing.)
 muller: "The venerable Bodhisattva Avalokite^vara, per- forming his study in the deep Pra^;^aparamita (perfection of wisdom),"
@@ -293,7 +293,7 @@ shia tha kire nela phaelo nela nomei nela remo nela sano whemoa nai tho remo.
 muller: "thought thus : ' There are the five Skandhas, and these he considered as by their nature empty (phenomenal).'"
 ```
 
-**Notes.** Müller opens with an invocation, and Phi answers with `keluro`, honor, offered to a headless relative: the one who knows all. The source citation supplies Avalokiteshvara while the Phi line describes the action, `wha nulo nila`, the one who sees deeply. The five bundles must stay five here. Form, feeling, name, thought, and knowledge stand together inside `tha ... tho`; the outer `remo` preserves Müller's verb "thought" without broadening the source to all things before the sutra itself does so.
+**Notes.** Müller opens with an invocation, and Phi answers with `keluro`, honor, offered to a headless relative: the one who knows all. The source citation supplies Avalokiteshvara while the Phi line describes the action, `whu nulo nila`, the one who sees deeply. The five bundles must stay five here. Form, feeling, name, thought, and knowledge stand together inside `tha ... tho`; the outer `remo` preserves Müller's verb "thought" without broadening the source to all things before the sutra itself does so.
 
 ### The equation
 
@@ -308,7 +308,7 @@ empty COORD shape different NEG be.
 (Emptiness and form are not different.)
 muller: "Emptiness is not different from form, form is not different from emptiness."
 
-[wha kire nai] whemoa nai. [wha whemoa nai] kire nai.
+[whu kire nai] whemoa nai. [whu whemoa nai] kire nai.
 [REL shape be] empty be. [REL empty be] shape be.
 (That which is form is emptiness; that which is emptiness is form.)
 muller: "What is form that is emptiness, what is emptiness that is form."
@@ -386,7 +386,7 @@ muller: "There is no knowledge, no obtaining (of Nirva;/a)."
 ### The one who walks
 
 ```
-[wha nulo sano thole] mua remo kire menui.
+[whu nulo sano thole] mua remo kire menui.
 [REL deep know practice] LOC think shape dwell.
 (The one who practices deep knowing dwells within thought-shapes.)
 muller: "' A man who has approached the Pra^;Hparamita of the Bodhisattva dwells enveloped in conscious- ness '."
@@ -407,13 +407,13 @@ muller: "beyond the reach of change, enjoying final Nirv^awa."
 ### The awakened
 
 ```
-theula [wha nowae miona] mua luera nela nosa nela wireo nulo sano to thole. lo shia kau mo ko sholu sano to nowae.
+theula [whu nowae miona] mua luera nela nosa nela wireo nulo sano to thole. lo shia kau mo ko sholu sano to nowae.
 UNIV [REL awaken person] LOC past COORD now COORD future deep know PST practice. PL 3SG ALL CMPR FOC complete know PST awaken.
 (All awakened ones, in the past and the present and the future, practiced deep knowing. They awakened to the most complete knowledge.)
 muller: "' All Buddhas of the past, present, and future, after approaching the Pra^;7aparamita, have awoke to the highest perfect knowledge.'"
 ```
 
-**Notes.** The Buddhas cross over the same way the bodhisattva did: not as a title but as what they are, `wha nowae miona`, the ones who awaken, since Buddha means exactly that and Phi says meanings. Their three times stand in one prepositional phrase, past and now and future on `nela`; their approach to the perfection of wisdom is this text's own equivalence, the practice of `nulo sano`; and the highest perfect knowledge is the superlative stacked on `sholu`, the most complete knowing, reached by the same verb the awakened are named with.
+**Notes.** The Buddhas cross over the same way the bodhisattva did: not as a title but as what they are, `whu nowae miona`, the ones who awaken, since Buddha means exactly that and Phi says meanings. Their three times stand in one prepositional phrase, past and now and future on `nela`; their approach to the perfection of wisdom is this text's own equivalence, the practice of `nulo sano`; and the highest perfect knowledge is the superlative stacked on `sholu`, the most complete knowing, reached by the same verb the awakened are named with.
 
 ### The going
 
@@ -465,7 +465,7 @@ muller: "Svaha !"
 
 ### Transmutation gap log
 
-*Gap log: the Omniscient → `wha theula sano`, the one who knows all; Avalokiteshvara → `wha nulo nila`, the one who sees deeply, while the name and office remain in the citation; five bundles → `kire`, `phaelo`, `nomei`, `remo`, and `sano`; natural and phenomenal → omitted; Sariputra → an unnamed listener; both therefore links → omitted; form → the event noun of `kire`; emptiness → the quality noun of `whemoa`; here and indeed → omitted; character of emptiness → `whemoa kire`; the two denials of difference → one relation on `nela`; faultless and not faultless → `shiloa` asserted and denied; not imperfect and not perfect → completeness asserted and denied; mind → `remo`; sense objects → sound, smell, taste, touch, and thing; the eighteen elements → omitted with Müller's "till we come to" abbreviation; knowledge, ignorance, and their destruction → omitted by the transmutation before Müller's causal-chain abbreviation; decay → `serao kelu`; four truths → pain, its coming, its end, and the path; obtaining → `pilu`; enveloped in consciousness → dwelling within `remo kire`; annihilated → released; Nirvana → `nulo shea`, deep peace, with the source term retained beside it; Buddhas → people who awaken; highest perfect knowledge → `mo ko sholu sano`; verse → `melira`, song or poem; great → `ru welao`, very good; peerless → folded into no song being better; proclamation within Prajnaparamita → deixis on `ha melira`; O wisdom → omitted as a direct address; mantra → an optative passage toward `ra shuna`, the far shore; svāhā → `shea shua`, peace comes; wisdom → `nulo sano`; colophon → answered by the title `nulo sano korua`. New words coined: none.*
+*Gap log: the Omniscient → `whu theula sano`, the one who knows all; Avalokiteshvara → `whu nulo nila`, the one who sees deeply, while the name and office remain in the citation; five bundles → `kire`, `phaelo`, `nomei`, `remo`, and `sano`; natural and phenomenal → omitted; Sariputra → an unnamed listener; both therefore links → omitted; form → the event noun of `kire`; emptiness → the quality noun of `whemoa`; here and indeed → omitted; character of emptiness → `whemoa kire`; the two denials of difference → one relation on `nela`; faultless and not faultless → `shiloa` asserted and denied; not imperfect and not perfect → completeness asserted and denied; mind → `remo`; sense objects → sound, smell, taste, touch, and thing; the eighteen elements → omitted with Müller's "till we come to" abbreviation; knowledge, ignorance, and their destruction → omitted by the transmutation before Müller's causal-chain abbreviation; decay → `serao kelu`; four truths → pain, its coming, its end, and the path; obtaining → `pilu`; enveloped in consciousness → dwelling within `remo kire`; annihilated → released; Nirvana → `nulo shea`, deep peace, with the source term retained beside it; Buddhas → people who awaken; highest perfect knowledge → `mo ko sholu sano`; verse → `melira`, song or poem; great → `ru welao`, very good; peerless → folded into no song being better; proclamation within Prajnaparamita → deixis on `ha melira`; O wisdom → omitted as a direct address; mantra → an optative passage toward `ra shuna`, the far shore; svāhā → `shea shua`, peace comes; wisdom → `nulo sano`; colophon → answered by the title `nulo sano korua`. New words coined: none.*
 
 ---
 

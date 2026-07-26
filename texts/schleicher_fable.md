@@ -13,7 +13,7 @@ The source asks Phi for two distinctions that ordinary departure and technical l
 ### The sheep sees
 
 ```
-wha mophi ma phelu mophira lo kalora to nila. shia mophi to ki se kati.
+whu mophi ma phelu mophira lo kalora to nila. shia mophi to ki se kati.
 REL wool NEG hold sheep PL horse PST see. 3SG wool PST PFV PASS cut.
 (A sheep that held no wool saw horses. Its wool had been cut.)
 schleicher-en: "A sheep on which there was no wool (a shorn sheep) saw horses:"
@@ -70,7 +70,7 @@ QUOT.COMP PL 1SG PROX PFV see. PL 1SG heart PASS squeeze. BECAUSE PL 1SG PROX kn
 ("We have seen this. Our hearts are squeezed. Because we know this, we feel deep sadness.")
 schleicher-en: "The heart is constricted in us who have seen (we are deeply grieved, because we know):"
 
-sha wha lo mophira phenori phelu miona sho to haolu.
+sha whu lo mophira phenori phelu miona sho to haolu.
 QUOT.COMP REL PL sheep ownership hold person QUOT.COMP.CLOSE PST speak.
 ("The human being who holds ownership of the sheep.")
 schleicher-en: "the human being, the master,"
@@ -119,11 +119,11 @@ schleicher-en: "(It made off.)"
 ```
 mophira nela lo kalora
 
-wha mophi ma phelu mophira lo kalora to nila. shia mophi to ki se kati. ta kalora tumoa rolutha to natu. ta kalora ta whalo tupeka to kolua. ta kalora miona to reshi kolua.
+whu mophi ma phelu mophira lo kalora to nila. shia mophi to ki se kati. ta kalora tumoa rolutha to natu. ta kalora ta whalo tupeka to kolua. ta kalora miona to reshi kolua.
 
 mophira wei lo kalora to haolu. sha sui mia tha miona lo kalora ka wepu tho nila mia korua se peki. mia ru nuhe phaelo sho to haolu.
 
-lo kalora wei mophira to haolu. sha kona mophira. no sheluo sho to haolu. sha lo mia ha ki nila. lo mia korua se peki. lao lo mia ha sano lo mia ru nuhe phaelo sho to haolu. sha wha lo mophira phenori phelu miona sho to haolu. sha ha miona wei miso lo mophira mophi sulae wethalu ka kelu sho to haolu. sha wei lo mophira mawha mophi nai sho to haolu. sha whekai nosa wei lo mophira mawha mophi nai. lo mophira mophi se kati sho to haolu. sha lo kalora sheo lo mophira mo towe nai sho to haolu.
+lo kalora wei mophira to haolu. sha kona mophira. no sheluo sho to haolu. sha lo mia ha ki nila. lo mia korua se peki. lao lo mia ha sano lo mia ru nuhe phaelo sho to haolu. sha whu lo mophira phenori phelu miona sho to haolu. sha ha miona wei miso lo mophira mophi sulae wethalu ka kelu sho to haolu. sha wei lo mophira mawha mophi nai sho to haolu. sha whekai nosa wei lo mophira mawha mophi nai. lo mophira mophi se kati sho to haolu. sha lo kalora sheo lo mophira mo towe nai sho to haolu.
 
 pheo ha hea mophira kau kosha to rato. shia kau kosha to phesari. shia to reshi pholeni.
 ```
@@ -153,7 +153,7 @@ The wagon is still heavy and the sheep still shorn, but the account of power cha
 ### The animals at work
 
 ```
-wha mophi ma phelu mophira lo kalora to nila. shia mophi to ki se kati.
+whu mophi ma phelu mophira lo kalora to nila. shia mophi to ki se kati.
 REL wool NEG hold sheep PL horse PST see. 3SG wool PST PFV PASS cut.
 (A sheep that held no wool saw horses. Its wool had been cut.)
 schleicher-en: "A sheep on which there was no wool (a shorn sheep) saw horses:"
@@ -259,7 +259,7 @@ schleicher-en: "(It made off.)"
 ```
 mophira nela lo kalora
 
-wha mophi ma phelu mophira lo kalora to nila. shia mophi to ki se kati. ta kalora tumoa rolutha to natu. ta kalora ta whalo tupeka to kolua. ta kalora miona to reshi kolua.
+whu mophi ma phelu mophira lo kalora to nila. shia mophi to ki se kati. ta kalora tumoa rolutha to natu. ta kalora ta whalo tupeka to kolua. ta kalora miona to reshi kolua.
 
 mophira wei lo kalora to haolu. sha sui mia tha miona lo kalora kawhera tho nila mia korua se peki. mia ru nuhe phaelo sho to haolu.
 

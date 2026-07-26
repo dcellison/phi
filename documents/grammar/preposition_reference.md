@@ -4,7 +4,7 @@ This document is the authoritative inventory of Phi's 27 prepositions, completin
 
 ## The shape and the position
 
-Every preposition is a hiatus disyllable, (C)V.V, the relator shape of the function-word charter. Every preposition precedes its object (modifier-first), and the whole phrase stands in the adjunct slot: S PP O V, circumstances before the thing acted on. When the relativized element is a preposition's object, the preposition remains and its object is gapped (`wha mia mua ___ to thalo shelira`, the forest that I walked in); the preposition never drops and never moves.
+Every preposition is a hiatus disyllable, (C)V.V, the relator shape of the function-word charter. Every preposition precedes its object (modifier-first), and the whole phrase stands in the adjunct slot: S PP O V, circumstances before the thing acted on. When the relativized element is a preposition's object, the preposition remains and its object is gapped (`whu mia mua ___ to thalo shelira`, the forest that I walked in); the preposition never drops and never moves.
 
 Prepositions over clauses are the four hiatus-shaped clause relators `lao` (BECAUSE), `pheo` (POST), `phoe` (ANT), and `shai` (CONC); `pheo` and `phoe` also stand over counted time noun phrases (`pheo wi philo`, in two days). The plain-disyllable conjunction `lila` (PURP) joins them in the subordinate-clause grammar. All five open their dependent material before the main clause.
 

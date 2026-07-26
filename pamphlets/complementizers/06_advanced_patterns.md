@@ -100,19 +100,19 @@ shia sha mia tha thia towe nai tho sano sho to haolu
 
 ## Relative clauses containing complementizers
 
-Relative clauses (`wha`) can contain embedded clauses:
+Relative clauses (`whu`) can contain embedded clauses:
 
 ### Relative clause with `tha`/`tho`
 
 ```
-wha mia tha towe nai tho sano miona
+whu mia tha towe nai tho sano miona
 REL 1SG DECL.COMP well be DECL.COMP.CLOSE know person
 (the person whom I know is well)
 ```
 
 Here, the relative clause contains an embedded declarative. The structure:
 ```
-[wha mia tha [___ towe nai] tho sano] miona
+[whu mia tha [___ towe nai] tho sano] miona
 ```
 
 The head noun `miona` closes the relative clause and supplies the missing subject inside the embedded statement: the gap a relative clause leaves may sit inside a complement frame, as it does here. The `tha`/`tho` pair is fully contained within the relative clause.
@@ -120,7 +120,7 @@ The head noun `miona` closes the relative clause and supplies the missing subjec
 ### Relative clause with `pha`/`pho`
 
 ```
-wha pha melu so turema pho thilou miona
+whu pha melu so turema pho thilou miona
 REL INT.COMP friend FUT return INT.COMP.CLOSE inquire person
 (the person who asks whether the friend will return)
 ```
@@ -130,7 +130,7 @@ Here the gap is the asker: the missing subject of `thilou`, supplied by the head
 ### Relative clause with `sha`/`sho`
 
 ```
-wha sha mia so turema sho to haolu miona
+whu sha mia so turema sho to haolu miona
 REL QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE PST speak person
 (the person who said: "I will return")
 ```
@@ -142,22 +142,22 @@ The embedded clause can itself contain a relative clause:
 ### `tha`/`tho` containing relative clause
 
 ```
-mia tha wha nophi kealo miona to wepu tho sano
+mia tha whu nophi kealo miona to wepu tho sano
 1SG DECL.COMP REL story create person PST go DECL.COMP.CLOSE know
 (I know that the person who creates stories left.)
 ```
 
 Structure:
 ```
-mia tha [[wha nophi kealo] miona to wepu] tho sano
+mia tha [[whu nophi kealo] miona to wepu] tho sano
 ```
 
-The relative clause `wha nophi kealo` modifies `miona`, and the whole noun phrase is subject of the embedded clause.
+The relative clause `whu nophi kealo` modifies `miona`, and the whole noun phrase is subject of the embedded clause.
 
 ### `pha`/`pho` containing relative clause
 
 ```
-mia pha wha mia to nila shelu shewo nai pho phaelo
+mia pha whu mia to nila shelu shewo nai pho phaelo
 1SG INT.COMP REL 1SG PST see book true be INT.COMP.CLOSE feel
 (I wonder whether the book that I saw is true.)
 ```
@@ -165,7 +165,7 @@ mia pha wha mia to nila shelu shewo nai pho phaelo
 ### `sha`/`sho` containing relative clause
 
 ```
-shia sha wha mia to kealo nophi mioru nai sho to haolu
+shia sha whu mia to kealo nophi mioru nai sho to haolu
 3SG QUOT.COMP REL 1SG PST create story beautiful be QUOT.COMP.CLOSE PST speak
 (They said: "The story that I created is beautiful.")
 ```
@@ -229,7 +229,7 @@ mia tha thia pha shia tha melu so turema tho sano pho phaelo tho shelomu
 ### Relative clause with nested embedding
 
 ```
-wha mia tha thia tha towe nai tho phaelo tho sano miona
+whu mia tha thia tha towe nai tho phaelo tho sano miona
 REL 1SG DECL.COMP 2SG DECL.COMP well be DECL.COMP.CLOSE feel DECL.COMP.CLOSE know person
 (the person about whom I know that you feel that they are well)
 ```

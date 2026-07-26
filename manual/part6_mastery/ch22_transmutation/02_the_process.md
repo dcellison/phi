@@ -24,7 +24,7 @@ Phi's shape is not English's shape. As you rebuild:
 
 - Break a source sentence when separate Phi clauses make its relations clearer. Complex clauses remain available when the source needs them. Phi uses periods rather than commas between sentences.
 - Keep modifier before modified. Prepositional material and objects precede the predicate, while complete dependent clauses precede the clauses they affect. Complementizer openers keep their closers.
-- Use the grammar's own instruments. The optative `su` carries wishes and blessings. Evidentials can mark where knowledge comes from. Headless relatives beginning with `wha` can name a category without supplying a separate head noun.
+- Use the grammar's own instruments. The optative `su` carries wishes and blessings. Evidentials can mark where knowledge comes from. Headless relatives beginning with `whu` can name a category without supplying a separate head noun.
 
 ## Step 4: Check the philosophy
 

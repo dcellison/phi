@@ -8,7 +8,7 @@ Learning pre-nominal relative clauses requires overwriting deeply ingrained habi
 
 **Wrong:**
 ```
-*shelu wha mia to theo
+*shelu whu mia to theo
 *book REL 1SG PST read
 ```
 
@@ -16,37 +16,37 @@ This puts "book" before the relative clause, following English order. In Phi, th
 
 **Correct:**
 ```
-wha mia to theo shelu
+whu mia to theo shelu
 REL 1SG PST read book
 (the book that I read)
 ```
 
 The entire relative clause comes first; the noun arrives last.
 
-When you want to say "the X that...", stop yourself before saying X. Say `wha`, then the clause, then X.
+When you want to say "the X that...", stop yourself before saying X. Say `whu`, then the clause, then X.
 
-### Error 2: Using `wha` as a pronoun
+### Error 2: Using `whu` as a pronoun
 
-In English, "who/which/that" are relative pronouns: they stand in for the noun inside the clause. Learners sometimes try to use `wha` the same way.
+In English, "who/which/that" are relative pronouns: they stand in for the noun inside the clause. Learners sometimes try to use `whu` the same way.
 
 **Wrong:**
 ```
-*wha mia wha to nila shelu
+*whu mia whu to nila shelu
 *REL 1SG REL PST see book
 ```
 
-Attempting to use `wha` where the gap should be. But `wha` is a clause marker, not a pronoun. It appears once, at the beginning.
+Attempting to use `whu` where the gap should be. But `whu` is a clause marker, not a pronoun. It appears once, at the beginning.
 
 **Correct:**
 ```
-wha mia to nila shelu
+whu mia to nila shelu
 REL 1SG PST see book
 (the book that I saw)
 ```
 
-The gap where "book" would be is simply empty. `wha` marks the start, not the position.
+The gap where "book" would be is simply empty. `whu` marks the start, not the position.
 
-`wha` appears exactly once per relative clause, always at the beginning. If you find yourself wanting to say `wha` again inside the clause, stop; that's English thinking.
+`whu` appears exactly once per relative clause, always at the beginning. If you find yourself wanting to say `whu` again inside the clause, stop; that's English thinking.
 
 ### Error 3: Forgetting the head noun entirely
 
@@ -54,14 +54,14 @@ After processing a complex relative clause, learners sometimes forget to produce
 
 **What you said:**
 ```
-wha shia to kealo mioru nai
+whu shia to kealo mioru nai
 REL 3SG PST create beautiful be
 (What they created is beautiful.)
 ```
 
 **What you meant:**
 ```
-wha shia to kealo nophi mioru nai
+whu shia to kealo nophi mioru nai
 REL 3SG PST create story beautiful be
 (The story that they created is beautiful.)
 ```
@@ -70,11 +70,11 @@ The headless form is grammatical (Part 4 is full of them) but it says something 
 
 ### Error 4: Adding an unnecessary closer
 
-Because `tha`/`tho` and `sha`/`sho` require closers, learners sometimes try to close `wha` too:
+Because `tha`/`tho` and `sha`/`sho` require closers, learners sometimes try to close `whu` too:
 
 **Wrong:**
 ```
-*wha mia to theo tho shelu
+*whu mia to theo tho shelu
 *REL 1SG PST read DECL.COMP.CLOSE book
 ```
 
@@ -82,30 +82,30 @@ Relative clauses don't have closers, and no other frame will lend one. `tho` clo
 
 **Correct:**
 ```
-wha mia to theo shelu
+whu mia to theo shelu
 REL 1SG PST read book
 (the book that I read)
 ```
 
 The noun itself closes the clause.
 
-Only `wha` lacks a closer among complementizers; `tha`/`tho`, `sha`/`sho`, and `pha`/`pho` all have closers. For relative clauses, when you reach the noun, the clause is done.
+Only `whu` lacks a closer among complementizers; `tha`/`tho`, `sha`/`sho`, and `pha`/`pho` all have closers. For relative clauses, when you reach the noun, the clause is done.
 
 ### Error 5: Assuming English roles inside the clause
 
 Learners sometimes read the clause-internal pronoun with English habits, taking `mia` below for the one being seen:
 
 ```
-wha mia nila miona
+whu mia nila miona
 REL 1SG see person
 (the person whom I see)
 ```
 
 A clause-initial bare pronoun is the subject. `mia` is the one seeing, the gap is in object position, and the head `miona` is what is seen. The phrase can only mean "the person whom I see." Reading it as "the person who sees me" imports English order into a clause that does not use it.
 
-Tense does not help here. `wha mia to nila miona` ("the person whom I saw") changes when the seeing happened, not who sees whom. Role comes from position, never from particles.
+Tense does not help here. `whu mia to nila miona` ("the person whom I saw") changes when the seeing happened, not who sees whom. Role comes from position, never from particles.
 
-When a pronoun immediately follows `wha`, treat it as the subject of the description, then look for the gap among the remaining roles.
+When a pronoun immediately follows `whu`, treat it as the subject of the description, then look for the gap among the remaining roles.
 
 ## Processing difficulties
 
@@ -114,7 +114,7 @@ When a pronoun immediately follows `wha`, treat it as the subject of the descrip
 Long relative clauses can overload working memory:
 
 ```
-wha mia mua serao shelira nia mioru ruela kau to thalo womu
+whu mia mua serao shelira nia mioru ruela kau to thalo womu
 REL 1SG LOC old forest ON beautiful path ALL PST walk home
 (the home that I walked to on a beautiful path in the old forest)
 ```
@@ -137,7 +137,7 @@ When constructing relative clauses:
 
 1. **Plan the head noun first.** Decide what you're describing before you start speaking.
 
-2. **Say `wha` to commit.** Once you've said it, you must produce a clause and a noun.
+2. **Say `whu` to commit.** Once you've said it, you must produce a clause and a noun.
 
 3. **Build the clause systematically.** Subject (if not gapped), object (if not gapped), adverbials, verb.
 
@@ -149,7 +149,7 @@ When constructing relative clauses:
 
 When parsing relative clauses:
 
-1. **`wha` means "description starting."** Shift into description-receiving mode.
+1. **`whu` means "description starting."** Shift into description-receiving mode.
 
 2. **Track elements.** Note subjects, verbs, objects as they appear.
 
@@ -163,15 +163,15 @@ When parsing relative clauses:
 
 ### Checklist after producing a relative clause
 
-1. **Did I start with `wha`?** (Headed or headless, the relativizer begins the clause.)
-2. **Is there exactly one `wha`?** (Not zero, not two)
+1. **Did I start with `whu`?** (Headed or headless, the relativizer begins the clause.)
+2. **Is there exactly one `whu`?** (Not zero, not two)
 3. **Is there a noun at the end of the clause?** (Unless headless)
 4. **Does the sentence have a main verb?** (The relative clause isn't the whole sentence)
 5. **Can I identify the gap?** (Where would the noun go inside?)
 
 ### Checklist when confused by a relative clause
 
-1. **Find `wha`.** That's where the clause starts.
+1. **Find `whu`.** That's where the clause starts.
 2. **Find the noun after the clause's verb.** That's the head; the clause ends there.
 3. **What's the main verb?** That belongs to the main clause, not the relative.
 4. **What role does the head play inside the relative clause?** Find the gap.
@@ -180,10 +180,10 @@ When parsing relative clauses:
 ### Common repair patterns
 
 **If you accidentally put the noun first:**
-Stop, say `wha`, rebuild the clause, then say the noun again.
+Stop, say `whu`, rebuild the clause, then say the noun again.
 
 **If you forget the noun:**
-Pause and add it: "wha mia to theo. shelu. mioru nai."
+Pause and add it: "whu mia to theo. shelu. mioru nai."
 
 **If you nest too deeply:**
 Stop, start a new sentence, establish the inner referent, then continue.
@@ -192,26 +192,26 @@ Stop, start a new sentence, establish the inner referent, then continue.
 
 Find and fix the errors in these sentences (careful: one of them is merely vague, not wrong):
 
-1. `*shelu wha mia to theo mioru nai`
+1. `*shelu whu mia to theo mioru nai`
 
-2. `*mia wha mia to thalo shelira sano`
+2. `*mia whu mia to thalo shelira sano`
 
-3. `*wha mia to kealo tho nophi mioru nai`
+3. `*whu mia to kealo tho nophi mioru nai`
 
-4. `*wha mia wha to nila shelu mioru nai`
+4. `*whu mia whu to nila shelu mioru nai`
 
-5. `*mia wha shia to thumela sano`
+5. `*mia whu shia to thumela sano`
 
 **Answers:**
 
-1. Noun before clause. Fix: `wha mia to theo shelu mioru nai`
+1. Noun before clause. Fix: `whu mia to theo shelu mioru nai`
 
-2. Dropped preposition. When the relativized noun is a preposition's object, the preposition stays in place and its object is gapped. Fix: `mia wha mia mua to thalo shelira sano` ("I know the forest that I walked in")
+2. Dropped preposition. When the relativized noun is a preposition's object, the preposition stays in place and its object is gapped. Fix: `mia whu mia mua to thalo shelira sano` ("I know the forest that I walked in")
 
-3. A closer borrowed from the declarative frame. Fix: `wha mia to kealo nophi mioru nai`
+3. A closer borrowed from the declarative frame. Fix: `whu mia to kealo nophi mioru nai`
 
-4. `wha` repeated as if it were a pronoun. `wha` appears once, at the beginning; the gap stays empty. Fix: `wha mia to nila shelu mioru nai` ("The book that I saw is beautiful")
+4. `whu` repeated as if it were a pronoun. `whu` appears once, at the beginning; the gap stays empty. Fix: `whu mia to nila shelu mioru nai` ("The book that I saw is beautiful")
 
-5. Not an error: `wha shia to thumela` is a valid headless relative, "I know the one whom they taught." The risk is vagueness, not ungrammaticality. If you meant the child, name the head: `mia wha shia to thumela lopia sano` ("I know the child whom they taught")
+5. Not an error: `whu shia to thumela` is a valid headless relative, "I know the one whom they taught." The risk is vagueness, not ungrammaticality. If you meant the child, name the head: `mia whu shia to thumela lopia sano` ("I know the child whom they taught")
 
-Most of these errors are English trying to help. Thank it, set it down, and say `wha` first.
+Most of these errors are English trying to help. Thank it, set it down, and say `whu` first.

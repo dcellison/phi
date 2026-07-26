@@ -10,7 +10,7 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **classifier**: An optional word that assigns what is counted to one of Phi's broad categories: `himo` (people), `lipha` (non-human living things), `themo` (detached or crafted objects), and `nophe` (abstractions, time, and events). It can foreground a category but does not guarantee regard or settle a disputed classification.
 
-**complementizer**: A framing function word, one syllable long and always opening on a fricative digraph, which is how the ear tells one from a particle. The clause frames are `tha…tho` (that-clauses), `pha…pho` (embedded questions), `sha…sho` (Phi quotations), and `wha`, which opens a relative clause and lets the head noun close it.
+**complementizer**: A framing function word, one syllable long and always opening on a fricative digraph, which is how the ear tells one from a particle. The clause frames are `tha…tho` (that-clauses), `pha…pho` (embedded questions), `sha…sho` (Phi quotations), and `whu`, which opens a relative clause and lets the head noun close it.
 
 **source material**: Foreign wording, source-script names, exact records, formulas, identifiers, quotations, and other unassimilated artifacts preserved outside a Phi passage in the surrounding medium. Phi may point to, translate, or analyze that material without treating its tokens as Phi syntax.
 
@@ -40,7 +40,7 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **phonotactics**: The rules for how sounds may combine. Phi uses open (C)CV syllables, consonant-initial and vowel-final words, no three-vowel runs, no repeated syllable with an onset within a word, and an absolute three-syllable lexical ceiling.
 
-**pre-nominal relative clause**: A relative clause placed *before* the noun it describes: `[wha mia to nila] shelu` — the [that I saw] book. Phi's relativizer `wha` opens the clause; the head noun itself closes it.
+**pre-nominal relative clause**: A relative clause placed *before* the noun it describes: `[whu mia to nila] shelu` — the [that I saw] book. Phi's relativizer `whu` opens the clause; the head noun itself closes it.
 
 **pro-drop / topic-drop**: Omitting the subject when context makes it obvious. Phi allows it once a topic is established; it is never required.
 
@@ -126,7 +126,7 @@ Click or hover on a row for a longer explanation of that gloss.
 | QUOT.COMP | sha | quotation (opener) | Opens a direct quotation, preserving the speaker's exact words rather than their content. It always closes with `sho`. |
 | QUOT.COMP.CLOSE | sho | quotation (closer) | Closes a `sha` quotation, marking where the quoted words end so the verb of speaking or hearing can follow. |
 | RECP/REFL | wiso, miso | each other / oneself | `wiso` marks mutual action between plural subjects (we help each other); `miso` turns an action back on its own subject (I wash myself). The designed -so pair extending the pronoun set. |
-| REL | wha | relativizer | Introduces a relative clause, which stands before the noun it describes: `[wha mia to nila] shelu` is the book that I saw. |
+| REL | whu | relativizer | Introduces a relative clause, which stands before the noun it describes: `[whu mia to nila] shelu` is the book that I saw. |
 | REP | ti | reported | Marks that the speaker received the information from someone else, rather than witnessing, inferring, or assuming it. |
 | REPH | shorela | in other words | The discourse marker of restatement: what follows says the previous thought again in a different form, another road offered to the same place. |
 | RESTR | li | only, restrictive | Marks that a statement holds for the one thing named, and nothing else: only. It fences identity, who or which, never quantity; a count is stated exactly or with `henoi`. |

@@ -9,7 +9,7 @@ Sometimes the noun being described is obvious from context or intentionally left
 When the previous sentence establishes what you're talking about, repeating the noun can feel redundant:
 
 ```
-mia lo miona to nila. wha wei mia to haolu ha nai.
+mia lo miona to nila. whu wei mia to haolu ha nai.
 1SG PL person PST see. REL DAT 1SG PST speak PROX be.
 (I saw the people. The one who spoke to me is here.)
 ```
@@ -17,7 +17,7 @@ mia lo miona to nila. wha wei mia to haolu ha nai.
 The listener knows we're talking about people. Saying `miona` again would be unnecessary.
 
 ```
-sheloi shelu ha nai. mia wha thia to kealo theo.
+sheloi shelu ha nai. mia whu thia to kealo theo.
 MANY book PROX be. 1SG REL 2SG PST create read.
 (Many books are here. I read the one that you created.)
 ```
@@ -29,7 +29,7 @@ The head noun `shelu` is implied; the clause specifies which one.
 When you want to speak about anyone or anything that fits a description, not a specific individual:
 
 ```
-wha lothea shelomu phue nai
+whu lothea shelomu phue nai
 REL love understand wise be
 (One who understands love is wise.)
 ```
@@ -37,7 +37,7 @@ REL love understand wise be
 This isn't about a particular person. It's a general truth about anyone who understands love.
 
 ```
-wha shea kealo shea howela
+whu shea kealo shea howela
 REL peace create peace receive
 (One who creates peace receives peace.)
 ```
@@ -49,7 +49,7 @@ A proverbial statement, applicable universally.
 Sometimes you want to emphasize the action or quality rather than naming what kind of thing:
 
 ```
-mia wha thia to kealo nila
+mia whu thia to kealo nila
 1SG REL 2SG PST create see
 (I see what you created.)
 ```
@@ -57,7 +57,7 @@ mia wha thia to kealo nila
 We don't need to specify "the thing" or "the work": the creation itself is the focus.
 
 ```
-wha ha nai ha nai. wha ha ma nai ha ma nai.
+whu ha nai ha nai. whu ha ma nai ha ma nai.
 REL PROX be PROX be. REL PROX NEG be PROX NEG be.
 (What is here, is here. What is not here, is not here.)
 ```
@@ -69,64 +69,64 @@ A philosophical statement that doesn't need nouns to make its point.
 ### A gallery of shapes
 
 ```
-wha mia to nila ha nai
+whu mia to nila ha nai
 REL 1SG PST see PROX be
 (The one whom I saw is here.)
 ```
 
 ```
-mia wha thia to haolu shelomu
+mia whu thia to haolu shelomu
 1SG REL 2SG PST speak understand
 (I understand what you said.)
 ```
 
 ```
-wha naphe naphe howela
+whu naphe naphe howela
 REL help help receive
 (One who helps receives help.)
 ```
 
 ```
-mia wha shea kealo sano
+mia whu shea kealo sano
 1SG REL peace create know
 (I know one who creates peace.)
 ```
 
 ```
-wha ma lothea sonu nai
+whu ma lothea sonu nai
 REL NEG love alone be
 (One who doesn't love is alone.)
 ```
 
 ```
-wa thia wha mia to kealo nila
+wa thia whu mia to kealo nila
 Q 2SG REL 1SG PST create see
 (Do you see what I created?)
 ```
 
-### `wha` remains
+### `whu` remains
 
-Headless does not mean markerless. Every canonical headless relative begins with `wha`; what goes missing is the head noun, never the relativizer. Dropping an established subject is ordinary topic-drop, but dropping `wha` is a different operation altogether: without it, a listener receives content words with no grammatical signal that the whole clause is standing in a noun's place.
+Headless does not mean markerless. Every canonical headless relative begins with `whu`; what goes missing is the head noun, never the relativizer. Dropping an established subject is ordinary topic-drop, but dropping `whu` is a different operation altogether: without it, a listener receives content words with no grammatical signal that the whole clause is standing in a noun's place.
 
 One word is the whole distance between a thing and a claim:
 
 ```
-wha thia to kealo mioru nai
+whu thia to kealo mioru nai
 REL 2SG PST create beautiful be
 (What you created is beautiful.)
 ```
 
-Remove `wha` and the opening words stop naming a creation; `thia to kealo` simply reports that you created. The relativizer is what turns a statement into something the sentence can hold.
+Remove `whu` and the opening words stop naming a creation; `thia to kealo` simply reports that you created. The relativizer is what turns a statement into something the sentence can hold.
 
 The cost of omission only grows when the clause is an object, where its verb would land directly against the main verb:
 
 ```
-mia wha shia to naphe sano
+mia whu shia to naphe sano
 1SG REL 3SG PST help know
 (I know one whom they helped.)
 ```
 
-Without `wha`, `mia shia to naphe sano` collapses into two verbs fighting over one clause: is this a person known, or a mangled attempt at "I know that they helped," which would need `tha`/`tho`? The relativizer removes the doubt before it can form.
+Without `whu`, `mia shia to naphe sano` collapses into two verbs fighting over one clause: is this a person known, or a mangled attempt at "I know that they helped," which would need `tha`/`tho`? The relativizer removes the doubt before it can form.
 
 ## Philosophical and proverbial uses
 
@@ -135,19 +135,19 @@ Headless relatives are natural for expressing wisdom, proverbs, and general trut
 ### On character
 
 ```
-wha lothea shelomu phue nai
+whu lothea shelomu phue nai
 REL love understand wise be
 (One who understands love is wise.)
 ```
 
 ```
-wha shea wilao shea nila
+whu shea wilao shea nila
 REL peace long-for peace see
 (One who longs for peace sees peace.)
 ```
 
 ```
-wha ma shelomu ma sano
+whu ma shelomu ma sano
 REL NEG understand NEG know
 (One who doesn't understand doesn't know.)
 ```
@@ -155,19 +155,19 @@ REL NEG understand NEG know
 ### On action and consequence
 
 ```
-wha naphe naphe howela
+whu naphe naphe howela
 REL help help receive
 (One who helps receives help.)
 ```
 
 ```
-wha kealo kealo nila
+whu kealo kealo nila
 REL create create see
 (One who creates sees creation.)
 ```
 
 ```
-wha thumela shonela
+whu thumela shonela
 REL teach learn
 (One who teaches learns.)
 ```
@@ -175,13 +175,13 @@ REL teach learn
 ### On presence
 
 ```
-wha ha nai ha nai
+whu ha nai ha nai
 REL PROX be PROX be
 (What is here, is here.)
 ```
 
 ```
-wha thuroa thuroa
+whu thuroa thuroa
 REL grow grow
 (What grows, grows.)
 ```
@@ -191,25 +191,25 @@ REL grow grow
 Using headless relatives to ask about identity or characteristics:
 
 ```
-wa wha ha kealo thia nai
+wa whu ha kealo thia nai
 Q REL PROX create 2SG be
 (Are you the one who created this?)
 ```
 
 ```
-wa thia wha mia to nila sano
+wa thia whu mia to nila sano
 Q 2SG REL 1SG PST see know
 (Do you know the one whom I saw?)
 ```
 
 ```
-wa wha shua shia nai
+wa whu shua shia nai
 Q REL come 3SG be
 (Is the one who came them?)
 ```
 
 ```
-wha thia lothea sua nai
+whu thia lothea sua nai
 REL 2SG love who be
 (Who is the one you love?)
 ```
@@ -221,7 +221,7 @@ Headless relatives can be interpreted as definite ("the one who...") or indefini
 **Definite**, referring to a specific individual:
 
 ```
-wha mia to naphe ha nai
+whu mia to naphe ha nai
 REL 1SG PST help PROX be
 (The one who helped me is here.)
 ```
@@ -231,7 +231,7 @@ The speaker has someone specific in mind.
 **Indefinite/Generic**, referring to anyone fitting the description:
 
 ```
-wha naphe naphe howela
+whu naphe naphe howela
 REL help help receive
 (Anyone who helps receives help.)
 ```
@@ -245,11 +245,11 @@ Context usually makes the distinction clear. If a specific referent has been est
 ### The wise one
 
 ```
-mia phue miona wilao. wha phue nai shelomu.
+mia phue miona wilao. whu phue nai shelomu.
 1SG wise person long-for. REL wise be understand.
 (I long for a wise person. One who is wise understands.)
 
-wha shelomu thumela. wha thumela shonela.
+whu shelomu thumela. whu thumela shonela.
 REL understand teach. REL teach learn.
 (One who understands teaches. One who teaches learns.)
 ```
@@ -257,11 +257,11 @@ REL understand teach. REL teach learn.
 ### What matters
 
 ```
-mia wha thia to haolu shelomu.
+mia whu thia to haolu shelomu.
 1SG REL 2SG PST speak understand.
 (I understand what you said.)
 
-wha thia to haolu ruka nai. mia si shelomu.
+whu thia to haolu ruka nai. mia si shelomu.
 REL 2SG PST speak complex be. 1SG IPFV understand.
 (What you said is complex. I am coming to understand.)
 ```
@@ -269,11 +269,11 @@ REL 2SG PST speak complex be. 1SG IPFV understand.
 ### Finding the one
 
 ```
-mia wha shea kealo wilao. wa thia wha mia wilao sano.
+mia whu shea kealo wilao. wa thia whu mia wilao sano.
 1SG REL peace create long-for. Q 2SG REL 1SG long-for know.
 (I long for one who creates peace. Do you know the one I long for?)
 
-wha thia sano ha nai.
+whu thia sano ha nai.
 REL 2SG know PROX be.
 (The one you know is here.)
 ```

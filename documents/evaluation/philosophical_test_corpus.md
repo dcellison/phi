@@ -1016,11 +1016,11 @@ B: lo mia lila mue koshira theula ha wolea kolua ralu nai.
 PL 1SG PURP OUT.OF grove UNIV PROX wood carry free be.
 (We need not carry all this wood out of the grove.)
 
-C: lo mia wha nia ruela nai li wolea na kolua.
+C: lo mia whu nia ruela nai li wolea na kolua.
 PL 1SG REL ON path be RESTR wood NEC carry.
 (We must carry only the wood that is on the path.)
 
-C: lo mia mue ruela wha nia ruela nai wolea so kolua.
+C: lo mia mue ruela whu nia ruela nai wolea so kolua.
 PL 1SG OUT.OF path REL ON path be wood FUT carry.
 (We will carry the wood that is on the path off the path.)
 
@@ -1080,7 +1080,7 @@ A: laenu keritha rolu to pukate.
 commons workshop wheel PST break.
 (The commons workshop's wheel broke.)
 
-A: wha phialu kolua keli ha rolu phelona.
+A: whu phialu kolua keli ha rolu phelona.
 REL water carry device PROX wheel require.
 (The device that carries water requires this wheel.)
 
@@ -1132,7 +1132,7 @@ A: thia misa to seru.
 2SG why PST commit.
 (Why did you commit?)
 
-C: lao sila wha phialu kolua keli phelona mia to seru.
+C: lao sila whu phialu kolua keli phelona mia to seru.
 BECAUSE community REL water carry device require 1SG PST commit.
 (Because the community needs the water-carrying device, I committed.)
 

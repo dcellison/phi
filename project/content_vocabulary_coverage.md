@@ -520,7 +520,7 @@ Fourteen base adjectives sit across the life arc and the body's ordinary reports
 | Conceptual test | Current Phi coverage | Status | Finding |
 |---|---|---|---|
 | Living state, life, and living | `lima` (alive), `lioru` (life), `liona` (live), and `limoe` (creature) | **COVERED** | The adjective states that an organism is alive, the noun names life, the verb presents living or dwelling as an activity, and the creature noun identifies a living being. Consciousness and health remain separate questions. |
-| Birth, death, dying, and the dead | `thowia` (born), `lumeo` (die), event nouns from both verbs, and canonical `wha to lumeo` (the one who died) | **SETTLED** | Phi names birth and death directly. Canon refuses a softened death synonym, and the relative expression already identifies someone who has died without a separate dead adjective. |
+| Birth, death, dying, and the dead | `thowia` (born), `lumeo` (die), event nouns from both verbs, and canonical `whu to lumeo` (the one who died) | **SETTLED** | Phi names birth and death directly. Canon refuses a softened death synonym, and the relative expression already identifies someone who has died without a separate dead adjective. |
 | Vitality, necessity, and energy | `lori` (vital), `noetha` (essential), and `kenua` (energy) | **COVERED** | Vitality keeps continued life in view. General necessity and capacity for action have their own words. |
 | Young, mature, old, and ancient | `limu` (young), `seroli` (mature), `serao` (old), and `tholua` (ancient) | **COVERED** | The sequence separates early development, full development, contextual age, and deep time. Wisdom, weakness, and rank require their own claims. |
 | Child, youth, adult, elder, and sage | `lopia` (child), `helia` (youth), `pharea` (adult), `wheo` (elder), and `phewo` (sage) | **COVERED** | Life-stage and recognised community roles remain nouns. The age adjectives can describe the person without turning a stage into a title. |
@@ -535,7 +535,7 @@ Fourteen base adjectives sit across the life arc and the body's ordinary reports
 | Weariness, rest, sleep, and laziness | `shorui` (weary), `therilu` (rest), `nulae` (sleep), `kenua` (energy), and `wesha` (lazy) | **COVERED** | Weariness reports depleted capacity. Rest is a restorative pause, sleep is a cyclic state, and laziness is a separate judgement about a pattern of avoiding effort. |
 | Exhaustion and sleepiness | Degree-marked `shorui`, available energy, and a wish or need to `nulae` (sleep) | **COMPOSITIONAL** | Intense weariness supplies exhaustion. Sleepiness adds the direction towards sleep, which a short clause can state without losing the bodily condition. |
 
-No root is added. A person who has died remains `wha to lumeo`, and finer life stages use the stage and event already meant. Hunger, thirst, exhaustion, and sleepiness likewise keep the bodily need visible instead of replacing it with a broader label.
+No root is added. A person who has died remains `whu to lumeo`, and finer life stages use the stage and event already meant. Hunger, thirst, exhaustion, and sleepiness likewise keep the bodily need visible instead of replacing it with a broader label.
 
 ## Cultivation, abundance, and wildness
 

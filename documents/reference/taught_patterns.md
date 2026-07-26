@@ -272,10 +272,10 @@ mia sha muila theula howela sho ro haolu.
 (I still say her words: the earth receives all.)
 ```
 
-**P34 · The describing clause.** `wha [clause] [noun]` — a little sentence missing its doer, and the noun steps in at the end to be it; no closer needed. Taught in ch. 22.
+**P34 · The describing clause.** `whu [clause] [noun]` — a little sentence missing its doer, and the noun steps in at the end to be it; no closer needed. Taught in ch. 22.
 
 ```
-wha sulopa ro pilewa miona.
+whu sulopa ro pilewa miona.
 REL soup HAB make person.
 (The person who habitually makes soup.)
 ```

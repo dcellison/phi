@@ -36,7 +36,7 @@ Before a noun the deictic leads; standing alone, `lo` leads.
 - Two plurals in one clause keep their seats: the first `lo` phrase is the subject, the second the object.
 - `lo mia` gathers the speaker and others; membership is said aloud when it matters, by `nela` coordination or a contrast clause.
 - Topic-drop needs a subject established and recoverable; the drop is always optional, and `shia` stands ready when a third person needs saying.
-- Frames and relative clauses hand a subject forward exactly as a period does; `wha` itself never drops.
+- Frames and relative clauses hand a subject forward exactly as a period does; `whu` itself never drops.
 - The moment two referents compete, restore the noun or the pronoun rather than leave the listener to choose.
 
 ## Vocabulary in this pamphlet

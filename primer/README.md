@@ -58,7 +58,7 @@ The chapters add sentence shapes in a fixed order, usually with a small set of w
 | 19 | Saying that: *tha* … *tho* | The message |
 | 20 | Asking whether: *pha* … *pho* | The question |
 | 21 | Quoting: *sha* … *sho* | The elder's story |
-| 22 | Relative clauses with *wha* | The one who |
+| 22 | Relative clauses with *whu* | The one who |
 | 23 | If: *lu* and *lu he* | Weather plans |
 | 24 | Claimed sources: *hi*, *ke*, *ti*, *ho* | The news |
 

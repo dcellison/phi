@@ -12,7 +12,7 @@
 
 | Word | Gloss | Function | Closer |
 |------|-------|----------|--------|
-| `wha` | REL | Introduces relative clauses | None (noun closes it) |
+| `whu` | REL | Introduces relative clauses | None (noun closes it) |
 
 ## The vocative
 
@@ -63,11 +63,11 @@ shia sha mia wepu sho to haolu
 ### Relative clause
 
 ```
-[wha CLAUSE] NOUN
+[whu CLAUSE] NOUN
 ```
 
 ```
-wha nophi kealo miona
+whu nophi kealo miona
 REL story create person
 (the person who creates stories)
 ```
@@ -169,10 +169,10 @@ Phi uses a consistent vowel pattern:
 
 Before finalizing an embedded clause:
 
-- [ ] Opener present (`tha`, `pha`, `sha`, or `wha`)
+- [ ] Opener present (`tha`, `pha`, `sha`, or `whu`)
 - [ ] Closer present if required (`tho`, `pho`, `sho`)
 - [ ] Closer positioned correctly (after embedded verb, before main verb)
-- [ ] No closer after `wha` (noun closes it)
+- [ ] No closer after `whu` (noun closes it)
 - [ ] Embedded clause has complete structure (subject, verb)
 - [ ] Nesting order correct (closers match openers in reverse)
 - [ ] Correct complementizer type for meaning
@@ -189,7 +189,7 @@ Before finalizing an embedded clause:
 | `pho` | /ˈɸo̞/ | the lips closing back toward where they began |
 | `sha` | /ˈʃä/ | a hiss like speech through a wall |
 | `sho` | /ˈʃo̞/ | the borrowed words handed back |
-| `wha` | /ˈʍä/ | breath, then a door left open |
+| `whu` | /ˈʍu/ | a small round breath with no door to close |
 
 The right column is a mnemonic, one speaker's way of hearing the family. The sounds carry no hidden meanings; the vowel alternation alone is systematic.
 
@@ -219,7 +219,7 @@ The right column is a mnemonic, one speaker's way of hearing the family. The sou
 
 **Relative clause**: A clause that modifies a noun, describing it by what it does or experiences.
 
-**Relativizer**: The word that introduces a relative clause. (`wha`)
+**Relativizer**: The word that introduces a relative clause. (`whu`)
 
 **SOV**: Subject-Object-Verb word order, where the verb comes at the end of the clause.
 
@@ -228,7 +228,7 @@ The right column is a mnemonic, one speaker's way of hearing the family. The sou
 ## Further study
 
 - Manual Part V, chapter 19 defines the complement frames and content-question embedding.
-- Manual chapter 20 and the relative clauses pamphlet give `wha` its full treatment.
+- Manual chapter 20 and the relative clauses pamphlet give `whu` its full treatment.
 - Manual chapter 13 covers the pronouns and topic-drop used throughout these examples.
 - `documents/grammar/complementizer_reference.md` is the compact technical reference.
 - `python3 scripts/validate_examples.py --paths pamphlets/complementizers --show-warnings` checks every example in this pamphlet against the lexicon and the frame rules.

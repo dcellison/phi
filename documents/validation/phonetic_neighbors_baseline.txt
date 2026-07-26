@@ -97,24 +97,20 @@
 0.50	1	ko	FOC	function	to	PST	function	2153
 0.50	1	nia	ON	function	mia	1SG	function	2127
 0.50	1	thia	2SG	function	shia	3SG	function	2043
-0.50	1	wha	REL	function	ha	PROX	function	1271
 0.50	1	tha	DECL.COMP	function	ha	PROX	function	1228
 0.50	1	sha	QUOT.COMP	function	ha	PROX	function	1102
 0.50	1	pha	INT.COMP	function	ha	PROX	function	945
 0.50	1	sa	HON.RESPECT	function	ha	PROX	function	858
-0.50	1	tha	DECL.COMP	function	wha	REL	function	809
 0.50	1	na	NEC	function	ma	NEG	function	760
-0.50	1	sha	QUOT.COMP	function	wha	REL	function	683
 0.50	1	tho	DECL.COMP.CLOSE	function	so	FUT	function	680
 0.50	1	tha	DECL.COMP	function	sha	QUOT.COMP	function	640
 0.50	1	tho	DECL.COMP.CLOSE	function	sho	QUOT.COMP.CLOSE	function	640
+0.50	1	whu	REL	function	su	OPT	function	574
 0.50	1	sho	QUOT.COMP.CLOSE	function	so	FUT	function	554
 0.50	1	nua	COM	function	mua	LOC	function	551
-0.50	1	pha	INT.COMP	function	wha	REL	function	526
 0.50	1	ta	one	content	ka	CAUS	function	514
 0.50	1	tha	DECL.COMP	function	pha	INT.COMP	function	483
 0.50	1	tho	DECL.COMP.CLOSE	function	pho	INT.COMP.CLOSE	function	483
-0.50	1	wha	REL	function	sa	HON.RESPECT	function	439
 0.50	1	tho	DECL.COMP.CLOSE	function	ho	ASSUM	function	432
 0.50	1	pho	INT.COMP.CLOSE	function	so	FUT	function	397
 0.50	1	tha	DECL.COMP	function	sa	HON.RESPECT	function	396
@@ -250,3 +246,7 @@
 0.50	1	seru	commit	content	heru	herb	content	17
 0.50	1	heru	herb	content	theru	thick	content	16
 0.50	1	lima	alive	content	lina	string (instrument)	content	16
+0.50	1	kiru	chisel	content	piru	trader	content	15
+0.50	1	pelui	cold	content	telui	rhythm	content	15
+0.50	1	thola	bring	content	whola	invite	content	15
+0.50	1	sorui	circle	content	shorui	weary	content	14

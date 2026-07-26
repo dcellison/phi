@@ -1221,7 +1221,6 @@
 | `wethalu` | garment | /we̞.ˈθä.lu/ | noun |
 | `wethamo` | blanket | /we̞.ˈθä.mo̞/ | noun |
 | `wethate` | laundry | /we̞.ˈθä.t̪e̞/ | noun |
-| `wha` | REL | /ˈʍä/ | complementizer |
 | `whakeru` | object | /ʍä.ˈke̞.ru/ | verb |
 | `whaline` | thank | /ʍä.ˈli.n̪e̞/ | verb |
 | `whalo` | large | /ˈʍä.lo̞/ | adjective |
@@ -1255,6 +1254,7 @@
 | `whoa` | whole | /ˈʍo̞.ä/ | adjective |
 | `whola` | invite | /ˈʍo̞.lä/ | verb |
 | `whori` | mend | /ˈʍo̞.ri/ | verb |
+| `whu` | REL | /ˈʍu/ | complementizer |
 | `whunei` | breathe | /ʍu.ˈn̪e̞.i/ | verb |
 | `whuo` | WITHOUT | /ˈʍu.o̞/ | preposition |
 | `wi` | two | /ˈwi/ | numeral |

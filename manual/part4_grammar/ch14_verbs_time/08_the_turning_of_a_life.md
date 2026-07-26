@@ -44,7 +44,7 @@ shia to lumeo.
 
 **lumeo** is Phi's sole verb for death. It names the event plainly rather than turning it into passing away or being lost. Plain naming need not be cold, and grammar cannot make it gentle; care appears in timing, relationship, listening, and the words that surround the fact.
 
-The person who died is **wha to lumeo**. Death can also be the event noun:
+The person who died is **whu to lumeo**. Death can also be the event noun:
 
 ```
 lumeo wei theula lioru shua.

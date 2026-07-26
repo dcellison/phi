@@ -44,7 +44,7 @@ CONTR 1SG heart clear PST NEG be.
 (But my mind was not clear.)
 morris: "but in a hazy and half-awake condition,"
 
-mia tha mia phea wha ru laeno thimu to ki nulae miona nai tho to phaelo.
+mia tha mia phea whu ru laeno thimu to ki nulae miona nai tho to phaelo.
 1SG DECL.COMP 1SG AS REL INTS long time PST PFV sleep person be DECL.COMP.CLOSE PST feel.
 (I felt that I was like one who had slept a very, very long time.)
 morris: "as if I had slept for a long, long while,"
@@ -98,7 +98,7 @@ LOC past night winter PST be. CONTR now summer be.
 (Last night it was winter. But now it is summer.)
 morris: "for it was winter when I went to bed the last night, and now, ... it was summer,"
 
-wha sio luphore whano lo shiro wei mia ha to ka nila.
+whu sio luphore whano lo shiro wei mia ha to ka nila.
 REL BESIDE river stand PL tree DAT 1SG PROX PST CAUS see.
 (The trees that stand beside the river showed this to me.)
 morris: "by witness of the river-side trees,"
@@ -154,7 +154,7 @@ mia tha mia ha we phoa tho to remo.
 (I thought that I would do the same.)
 morris: "I thought I would do no less."
 
-mia wei miso sha kelua ru thorui ke nai. whekai mia wha mia kolua miona so ho hekawi. sho to haolu.
+mia wei miso sha kelua ru thorui ke nai. whekai mia whu mia kolua miona so ho hekawi. sho to haolu.
 1SG DAT REFL QUOT.COMP morning INTS beginning INFER be. CONTR 1SG REL 1SG carry person FUT ASSUM find. QUOT.COMP.CLOSE PST speak.
 ("It seems very early," I said to myself, "but I daresay I shall find someone to carry me.")
 morris: "It seems very early, quoth I to myself, but I daresay I shall find someone at Biffin's to take me."
@@ -194,7 +194,7 @@ shia roe koma wei mia kiroa to loa. shia wei mia welao kelua to haolu.
 (He gave me a sign with his head, and spoke a good morning to me.)
 morris: "He nodded to me, and bade me good-morning"
 
-shia phea wha mia hasi miona to ke nai.
+shia phea whu mia hasi miona to ke nai.
 3SG AS REL 1SG wait person PST INFER be.
 (He seemed like one who had been waiting for me.)
 morris: "as if he expected me,"
@@ -262,7 +262,7 @@ mia lo mirae repha to sheraki.
 (My eyes searched for the bridge.)
 morris: "and my eyes naturally sought for the bridge,"
 
-wha mia nila mia ru to wakomi. thelao mia wishe to sahu.
+whu mia nila mia ru to wakomi. thelao mia wishe to sahu.
 REL 1SG see 1SG INTS PST surprise. CONS 1SG swim PST forget.
 (What I saw astonished me so utterly that I forgot to swim.)
 morris: "and so utterly astonished was I by what I saw, that I forgot to strike out,"
@@ -292,7 +292,7 @@ CONTR LOC PROX time sleep burden COORD dizziness ABL 1SG PST PFV fall. 1SG INTS 
 (But by this time the burden of sleep and the dizziness had fallen from me: I was wide awake, and my mind was clear.)
 morris: "though by this time I was quit of the slumbrous and dizzy feeling, and was wide-awake and clear-headed."
 
-mia roe wha shia to ki ka lepa lo kalei thena muo luphonu to kalei.
+mia roe whu shia to ki ka lepa lo kalei thena muo luphonu to kalei.
 1SG INS REL 3SG PST PFV CAUS fall PL climb thing INTO boat PST climb.
 (I climbed into the boat by the climbing-steps he had let down.)
 morris: "As I got in up the steps which he had lowered,"
@@ -353,7 +353,7 @@ thia mua kelua thorui to nowae. mia siora phaelo. sileta li nosa ki rihe.
 morris: "I'm glad you got up early; it's barely five o'clock yet.\""
 ```
 
-**Notes:** the astonishment is built so that the seeing itself is the subject, `wha mia nila`, what I saw, surprising the seer, and the forgetting takes swimming as a plain object, since `wishe`'s event noun comes by the ordinary rule. The spluttering keeps its own body: a fall below the water and a cough. Upstream and downstream never need compass words: they are `wea luphore thorui` and `wea luphore lumae`, toward the river's beginning and toward its end, the same `thorui` and `lumae` that already give Phi its east and west from the sun. The waterman's strange courtesy survives in his own grammar: `pheo thia laniru`, after your journey, is dropped into his sentence as easily as Morris drops it, the first small sign that this man knows more about his passenger than a stranger should. Barn Elms keeps its trees instead of its name: `ra welamu lokue`, that elm-place, using the first chapter's own coined elm. And the refused clock does not cost the morning its earliness: the sun has only now risen, which on a June morning says five o'clock more honestly than a bell could.
+**Notes:** the astonishment is built so that the seeing itself is the subject, `whu mia nila`, what I saw, surprising the seer, and the forgetting takes swimming as a plain object, since `wishe`'s event noun comes by the ordinary rule. The spluttering keeps its own body: a fall below the water and a cough. Upstream and downstream never need compass words: they are `wea luphore thorui` and `wea luphore lumae`, toward the river's beginning and toward its end, the same `thorui` and `lumae` that already give Phi its east and west from the sun. The waterman's strange courtesy survives in his own grammar: `pheo thia laniru`, after your journey, is dropped into his sentence as easily as Morris drops it, the first small sign that this man knows more about his passenger than a stranger should. Barn Elms keeps its trees instead of its name: `ra welamu lokue`, that elm-place, using the first chapter's own coined elm. And the refused clock does not cost the morning its earliness: the sun has only now risen, which on a June morning says five o'clock more honestly than a bell could.
 
 ## luphonu miona — The waterman
 
@@ -388,7 +388,7 @@ ADD 3SG hair black PST be. 3SG skin berry color PST be.
 (For the rest, his hair was dark and his skin berry-brown.)
 morris: "For the rest, he was dark-haired and berry-brown of skin,"
 
-shia kema to nai. shia lo kuroi phea wha ro kema roke thena to ke nai.
+shia kema to nai. shia lo kuroi phea whu ro kema roke thena to ke nai.
 3SG strong PST be. 3SG PL muscle AS REL HAB strong move thing PST INFER be.
 (He was well-knit and strong, and his muscles plainly looked accustomed to vigorous movement.)
 morris: "well-knit and strong, and obviously used to exercising his muscles,"
@@ -398,7 +398,7 @@ CONTR zero rough thing LOC 3SG PST be. 3SG INTS clean PST be.
 (But there was nothing rough or coarse about him, and he was as clean as might be.)
 morris: "but with nothing rough or coarse about him, and clean as might be."
 
-shia wethalu phea wha mia to ki nila lo nosa riola wethalu to ma nai.
+shia wethalu phea whu mia to ki nila lo nosa riola wethalu to ma nai.
 3SG garment AS REL 1SG PST PFV see PL now labor garment PST NEG be.
 (His dress was not like any modern work-a-day clothes I had seen.)
 morris: "His dress was not like any modern work-a-day clothes I had seen,"
@@ -484,7 +484,7 @@ yes. PL person INS DIST PL thing salmon net pull.
 ("Of course: people draw the salmon-nets with those things.")
 morris: "\"of course that is what they _are_ for."
 
-mua wha shalumi nai lokue shalumi mera ho nai.
+mua whu shalumi nai lokue shalumi mera ho nai.
 LOC REL salmon be place salmon net ASSUM be.
 (Where there are salmon, one may take it there will be salmon-nets.)
 morris: "Where there are salmon, there are likely to be salmon-nets,"
@@ -510,7 +510,7 @@ morris: "we don't want salmon _every_ day of the season.\""
 ## repha — The bridge
 
 ```
-mia tha mia sha wa ha wha mia sano luphore nai. sho haolu tho to thueli.
+mia tha mia sha wa ha whu mia sano luphore nai. sho haolu tho to thueli.
 1SG DECL.COMP 1SG QUOT.COMP Q PROX REL 1SG know river be. QUOT.COMP.CLOSE speak DECL.COMP.CLOSE PST intend.
 (I was going to say, "But is this the river I know?")
 morris: "I was going to say, \"But is this the Thames?\""
@@ -525,7 +525,7 @@ mia wea sileta thorui lo mirae to rato. mia repha we to nila. pheo thena mia lup
 (I turned my bewildered eyes eastward, looked at the bridge again, and thence at the shores of the river.)
 morris: "and turned my bewildered eyes eastward to look at the bridge again, and thence to the shores of the London river;"
 
-wha mia wakomi thena henoi to nai.
+whu mia wakomi thena henoi to nai.
 REL 1SG surprise thing ENOUGH PST be.
 (And surely there was enough to astonish me.)
 morris: "and surely there was enough to astonish me."
@@ -540,7 +540,7 @@ CONTR UNIV thing ABL past night PST PFV INTS transform.
 (But how everything had utterly transformed since last night!)
 morris: "how all was changed from last night!"
 
-lo wha thumiro sepho sawa thena riola womu to ma manolu.
+lo whu thumiro sepho sawa thena riola womu to ma manolu.
 PL REL smoke send wash thing labor home PST NEG stay.
 (The soap-works with their smoke-vomiting chimneys did not remain.)
 morris: "The soap-works with their smoke-vomiting chimneys were gone;"
@@ -560,12 +560,12 @@ wow. bridge.
 (Then the bridge!)
 morris: "Then the bridge!"
 
-mia phea ha repha to ki po whemura. whekai mia phea ha repha mue wha lo kolai phelu shelu mawha thimu to ki nila.
+mia phea ha repha to ki po whemura. whekai mia phea ha repha mue whu lo kolai phelu shelu mawha thimu to ki nila.
 1SG AS PROX bridge PST PFV POT dream. CONTR 1SG AS PROX bridge OUT.OF REL PL pigment hold book NONE time PST PFV see.
 (I had perhaps dreamed of such a bridge, but never seen such a one outside a painted book.)
 morris: "I had perhaps dreamed of such a bridge, but never seen such an one out of an illuminated manuscript;"
 
-wha mia sano ru mioru lo repha pai ha we to ma kamo.
+whu mia sano ru mioru lo repha pai ha we to ma kamo.
 REL 1SG know INTS beautiful PL bridge NEAR PROX ALSO PST NEG arrive.
 (Even the most beautiful bridges I had known came nowhere near it.)
 morris: "for not even the Ponte Vecchio at Florence came anywhere near it."
@@ -590,7 +590,7 @@ mia tha lo thena wei loa nela pilu womu nai tho to ho remo.
 (I supposed them to be houses for giving and taking.)
 morris: "which I supposed to be booths or shops,"
 
-nia lo womu sheloi wha kolai nela solai phelu rato keli nela thiku raelu lorima to whano.
+nia lo womu sheloi whu kolai nela solai phelu rato keli nela thiku raelu lorima to whano.
 ON PL home MANY REL pigment COORD gold hold turn device COORD small tall build PST stand.
 (On them stood many painted and gilded vanes and little spire-works.)
 morris: "beset with painted and gilded vanes and spirelets."
@@ -600,7 +600,7 @@ stone PST PFV ATTEN wear down. CONTR zero smoke spot ON stone PST be.
 (The stone had weathered a little, but there was no smoke-stain on it.)
 morris: "The stone was a little weathered, but showed no marks of the grimy sootiness"
 
-mua wha mia sano whalo silawo nia theula serao womu thumiro piloe to ro nai.
+mua whu mia sano whalo silawo nia theula serao womu thumiro piloe to ro nai.
 LOC REL 1SG know large village ON UNIV old home smoke spot PST HAB be.
 (In the great city I knew, smoke-stains were the rule on every old building.)
 morris: "which I was used to on every London building more than a year old."
@@ -614,7 +614,7 @@ morris: "In short, to me a wonder of a bridge."
 **Notes:** the vanished riverfront keeps Morris's drumbeat as three parallel not-remainings: the works that made wash-things and sent up smoke, the device-works, and the works of the heavy metal. The industrial noise keeps Morris's two acts. `keluo tiwa shonuwa` names the sound of fastening metal, and `roe toka kema palo shonuwa` the sound of forceful contact with a hammer. Both fail to arrive with the sun's-end wind. The arches remain `kerou loriphi`, stone rainbows, while `luwae` gives their lines the grace Morris sees. The painted manuscript is still a book that holds pigments. Shops remain houses for giving and taking, supposed through `ho`; importing a market noun would settle a question the scene has only begun to ask. `rohemi` gives the stone its slight weathering without calling it damaged. The paragraph's exclamation is spoken instead of left to punctuation: `wao. repha.`
 
 ```
-rewa miona mia therua wakomi menoa kire to morae. shia phea wha mia lo remo hea miona to haolu.
+rewa miona mia therua wakomi menoa kire to morae. shia phea whu mia lo remo hea miona to haolu.
 oar person 1SG eager surprise face shape PST sense. 3SG AS REL 1SG PL think hear person PST speak.
 (The sculler noticed my eager, astonished expression, and spoke as if in answer to my thoughts--)
 morris: "The sculler noted my eager astonished look, and said, as if in answer to my thoughts--"
@@ -654,12 +654,12 @@ ANT DIST time LOC DIST place plain wood bridge PST HAB stand.
 (Before then, a rather plain timber bridge used to stand there.)
 morris: "There used to be a rather plain timber bridge before then.\""
 
-ha tawi mia phulae to ka tapu. mia phulae phea wha roe kira se tapu ponu to nai.
+ha tawi mia phulae to ka tapu. mia phulae phea whu roe kira se tapu ponu to nai.
 PROX count 1SG mouth PST CAUS close. 1SG mouth AS REL INS key PASS close door PST be.
 (That count of years shut my mouth: it was like a door a key had closed.)
 morris: "The date shut my mouth as if a key had been turned in a padlock fixed to my lips;"
 
-mia tha wha se po ma shelomu thena to ki kelu tho to nila.
+mia tha whu se po ma shelomu thena to ki kelu tho to nila.
 1SG DECL.COMP REL PASS POT NEG understand thing PST PFV become DECL.COMP.CLOSE PST see.
 (For I saw that something had happened that could not be understood.)
 morris: "for I saw that something inexplicable had happened,"
@@ -674,7 +674,7 @@ CONS 1SG REFL content PST CAUS see. 1SG AS custom river PL shore PST see.
 (So I tried to look unconcerned, and glanced at the river's banks as if this were all a matter of course.)
 morris: "So I tried to look unconcerned, and to glance in a matter-of-course way at the banks of the river,"
 
-mia tei wha lo sawa thena riola womu to whano lokue ha lo thena to nila.
+mia tei whu lo sawa thena riola womu to whano lokue ha lo thena to nila.
 1SG UNTIL REL PL wash thing labor home PST stand place PROX PL thing PST see.
 (This is what I saw, up to where the soap-works had stood.)
 morris: "though this is what I saw up to the bridge and a little beyond; say as far as the site of the soap-works."
@@ -700,12 +700,12 @@ PL person MANY home INS red clay stone PST PFV build. PL home roof clay PST be.
 (People had built most of them of red brick, and their roofs were of fired clay.)
 morris: "they were mostly built of red brick and roofed with tiles,"
 
-lo womu phea wha therilu loa lokue to ke nai.
+lo womu phea whu therilu loa lokue to ke nai.
 PL home AS REL rest give place PST INFER be.
 (The houses looked, above all, like places that give rest.)
 morris: "and looked, above all, comfortable,"
 
-lo womu phea lima thena to ke nai. lo womu phea wha lo menui miona lioru morae thena to ke nai.
+lo womu phea lima thena to ke nai. lo womu phea whu lo menui miona lioru morae thena to ke nai.
 PL home AS alive thing PST INFER be. PL home AS REL PL dwell person life sense thing PST INFER be.
 (They seemed, so to say, alive, like things that sense the life of the people who dwell in them.)
 morris: "and as if they were, so to say, alive, and sympathetic with the life of the dwellers in them."
@@ -720,7 +720,7 @@ LOC garden PL flower now PST INTS bloom.
 (In it the flowers were now blooming luxuriantly.)
 morris: "in which the flowers were now blooming luxuriantly,"
 
-lo peloru leo wha rato luphore loshi keloi whinu to sepho.
+lo peloru leo whu rato luphore loshi keloi whinu to sepho.
 PL flower ABOVE REL turn river joyful summer smell PST send.
 (They were sending delicious waves of summer scent over the eddying river.)
 morris: "and sending delicious waves of summer scent over the eddying stream."
@@ -735,7 +735,7 @@ TOWARD river end PL large tree INTS thick PST stand.
 (Looking downstream, the big trees stood very thick.)
 morris: "so thick were the big trees;"
 
-thelao luphore phea wha shelira kerime phelu thelomi to ke nai.
+thelao luphore phea whu shelira kerime phelu thelomi to ke nai.
 CONS river AS REL forest shore hold lake PST INFER be.
 (So the reaches of the river seemed like a lake with a forest shore.)
 morris: "and looking down the water there were the reaches towards Putney almost as if they were a lake with a forest shore,"
@@ -791,7 +791,7 @@ shia to hasi. ha mia to ma wakomi.
 (He waited; and of course that did not surprise me.)
 morris: "and of course I was not surprised to see him wait,"
 
-mia tha shia wha pheo pheloma kamo thena hasi tho to ho remo.
+mia tha shia whu pheo pheloma kamo thena hasi tho to ho remo.
 1SG DECL.COMP 3SG REL POST serve arrive thing wait DECL.COMP.CLOSE PST ASSUM think.
 (For I took it as given that he was waiting for the thing that follows a service.)
 morris: "as if for the inevitable after-piece that follows the doing of a service to a fellow-citizen."
@@ -811,7 +811,7 @@ shia menoa remo tiwa to ka nila. shia to haolu.
 (He looked puzzled, and said--)
 morris: "He looked puzzled, and said,"
 
-wia. mia wha thia haolu thena po ma shelomu.
+wia. mia whu thia haolu thena po ma shelomu.
 how many. 1SG REL 2SG speak thing POT NEG understand.
 ("How many? I don't quite understand what you are asking about.")
 morris: "\"How much? I don't quite understand what you are asking about."
@@ -841,7 +841,7 @@ POST thing 1SG OUT.OF garment hand full PL small metal thing PST take.
 (And therewith I took a handful of the little metal pieces out of my garment.)
 morris: "And therewith I took a handful of money out of my pocket,"
 
-mia phea wha mua kuewa muila laniru miona to phoa.
+mia phea whu mua kuewa muila laniru miona to phoa.
 1SG AS REL LOC strange earth journey person PST do.
 (As one does when journeying in a strange land.)
 morris: "as one does in a foreign country."
@@ -856,7 +856,7 @@ shia remo tiwa to si ke phaelo. whekai shia peloma to ma phaelo. shia lo thiku k
 (He still seemed puzzled, but not at all offended; and he looked at the coins with some curiosity.)
 morris: "He still seemed puzzled, but not at all offended; and he looked at the coins with some curiosity."
 
-mia tha shia shewo luphonu miona nai tho to remo. shia wha shia po pilu thena to remo. mia ha to ho remo.
+mia tha shia shewo luphonu miona nai tho to remo. shia whu shia po pilu thena to remo. mia ha to ho remo.
 1SG DECL.COMP 3SG true boat person be DECL.COMP.CLOSE PST think. 3SG REL 3SG POT take thing PST think. 1SG PROX PST ASSUM think.
 (I thought: well, after all, he is a waterman, and is considering what he may venture to take. So I assumed.)
 morris: "I thought, Well after all, he _is_ a waterman, and is considering what he may venture to take."
@@ -941,7 +941,7 @@ BECAUSE PL 1SG NEAR deep fast river PST be 1SG DECL.COMP 1SG good swim person be
 (And since we were close to a deep swift river, I was rather glad to think that I was a good swimmer.)
 morris: "and I was rather glad to think that I was a good swimmer, since we were so close to a deep swift stream."
 
-whekai shia phea wha phelira remo phelu miona to ma haolu.
+whekai shia phea whu phelira remo phelu miona to ma haolu.
 CONTR 3SG AS REL mistaken think hold person PST NEG speak.
 (However, he did not go on like a person holding mistaken thoughts.)
 morris: "However, he went on by no means like a madman:"
@@ -951,7 +951,7 @@ thia lo thiku keluo thena kuelo nai. whekai lo thena ru serao ma nai. theula the
 ("As to your coins, they are curious, but not very old; they seem to be all of one recent age.")
 morris: "\"As to your coins, they are curious, but not very old; they seem to be all of the reign of Victoria;"
 
-thia lo thena wei wha phina thena phelu halemu womu po loa.
+thia lo thena wei whu phina thena phelu halemu womu po loa.
 2SG PL thing DAT REL FEW thing hold remember home POT give.
 (You might give them to some scantily-furnished memory-house.)
 morris: "you might give them to some scantily-furnished museum."
@@ -1012,7 +1012,7 @@ COND 1SG now DAT 2SG PROX place UNIV know give. PROX 2SG FUT NEG help. 2SG PROX 
 (If I give you all the knowledge of this place now, that will not help you. You must drink it in by small draughts.)
 morris: "But also it is clear that it won't do to overdose you with information about this place, and that you had best suck it in little by little."
 
-lu thia tha mia wha wei thia lo mia newu punoa ka nila miona kelu tho kelomi. sheno lao thia lue soleha mia nu ta to hekawi ha wei mia ru phena so nai.
+lu thia tha mia whu wei thia lo mia newu punoa ka nila miona kelu tho kelomi. sheno lao thia lue soleha mia nu ta to hekawi ha wei mia ru phena so nai.
 COND 2SG DECL.COMP 1SG REL DAT 2SG PL 1SG new society CAUS see person become DECL.COMP.CLOSE accept. ADD BECAUSE 2SG ABL luck 1SG ORD one PST find PROX DAT 1SG INTS kind FUT be.
 (If you accept me as the person who shows you our new world, then, since by good luck you found me first, that will be very kind to me.)
 morris: "Further, I should take it as very kind in you if you would allow me to be the showman of our new world to you, since you have stumbled on me first."
@@ -1133,7 +1133,7 @@ POST thing 3SG ABL leather tie small silver wind voice device PST take. 3SG two 
 (Therewith he took a small silver wind-voice instrument from his belt and blew two or three sharp but agreeable notes.)
 morris: "Therewith he took a little silver bugle-horn from his girdle and blew two or three sharp but agreeable notes on it;"
 
-pheo teku shemu lue wha mua mia serao womu lokue whano womu phirae limu miona wea lo mia to moli thalo.
+pheo teku shemu lue whu mua mia serao womu lokue whano womu phirae limu miona wea lo mia to moli thalo.
 POST short moment ABL REL LOC 1SG old home place stand home different young person TOWARD PL 1SG PST gentle walk.
 (And presently, from the house that stood on the site of my old dwelling, another young man came sauntering toward us.)
 morris: "and presently from the house which stood on the site of my old dwelling ... another young man came sauntering towards us."
@@ -1168,7 +1168,7 @@ mia roe siora tha mia tha shia remo phelira nai tho sherewa na leiro tho to nila
 (I saw with pleasure that I must release my claim that his thinking was mistaken.)
 morris: "I saw with pleasure that I must give up the Colney Hatch theory as to the waterman,"
 
-lao wi wha phelira remo phelu miona neo nuwi remo miona phea ha mawha thimu phoa.
+lao wi whu phelira remo phelu miona neo nuwi remo miona phea ha mawha thimu phoa.
 BECAUSE two REL mistaken think hold person FRONT clear think person AS PROX NONE time do.
 (For two people who held mistaken thoughts would never act like this before a clear-minded person.)
 morris: "for no two madmen ever behaved as they did before a sane man."
@@ -1258,7 +1258,7 @@ mia tha thia pheo mia nulae mua luera shero muo phemi womu kamo tho ho remo.
 (I suppose you came into the Guest House last night, after I had gone to sleep?)
 morris: "I suppose you came into the Guest House after I had gone to bed last night?\""
 
-mia roe koma kiroa to loa. mia laeno wha kau mu thena wepu haolu to ma rinu.
+mia roe koma kiroa to loa. mia laeno whu kau mu thena wepu haolu to ma rinu.
 1SG INS head sign PST give. 1SG long REL ALL zero thing go speak PST NEG want.
 (I nodded: I did not care for a long explanation that would have led to nothing.)
 morris: "I nodded, not caring to enter into a long explanation which would have led to nothing,"

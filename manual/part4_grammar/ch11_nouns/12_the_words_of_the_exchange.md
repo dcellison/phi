@@ -20,7 +20,7 @@ PL 1SG RECP exchange.
 (We exchange with each other.)
 ```
 
-The optional Work, Craft, and Repair module adds *piru* (trader) when exchange is a person's continuing work. A base-vocabulary description remains available: *wha lo thena ro wisola miona*, a person who habitually exchanges goods.
+The optional Work, Craft, and Repair module adds *piru* (trader) when exchange is a person's continuing work. A base-vocabulary description remains available: *whu lo thena ro wisola miona*, a person who habitually exchanges goods.
 
 ## The counting owed
 

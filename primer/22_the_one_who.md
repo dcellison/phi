@@ -1,35 +1,35 @@
-# 22 · wha
+# 22 · whu
 
-*One word this chapter, and a game to learn it with.* **wha** *opens a describing-clause that stands before a noun, the way every describing thing in Phi stands before what it describes:* wha *[clause] noun. No closer needed: the noun itself shuts the door. The children invent a guessing game:*
+*One word this chapter, and a game to learn it with.* **whu** *opens a describing-clause that stands before a noun, the way every describing thing in Phi stands before what it describes:* whu *[clause] noun. No closer needed: the noun itself shuts the door. The children invent a guessing game:*
 
 *These square brackets are the lesson's pencil marks. They help the eye find the clause; speech and ordinary romanized or Tengwar writing keep only what is inside.*
 
 ## I
 
-> lopia: **wha sulopa ro pilewa miona.**
+> lopia: **whu sulopa ro pilewa miona.**
 > siora: **phao.**
 > lopia: **lia.**
 
 | new word | say it | it means |
 |---|---|---|
-| wha | wha | (opens a who/which clause) |
+| whu | whu | (opens a who/which clause) |
 
-*The person who habitually makes soup? The parent. Correct. Look at the shape:* wha sulopa ro pilewa *is a whole little sentence missing its doer, and* miona *steps in at the end to be that doer. Clause first, noun after: chapter three's* thiku pelori, *grown up.*
+*The person who habitually makes soup? The parent. Correct. Look at the shape:* whu sulopa ro pilewa *is a whole little sentence missing its doer, and* miona *steps in at the end to be that doer. Clause first, noun after: chapter three's* thiku pelori, *grown up.*
 
 ## II
 
-> siora: **wha mua luphore ro wishe nolika.**
+> siora: **whu mua luphore ro wishe nolika.**
 > lopia: **lohau.**
-> siora: **wha theula thimu nulae nolika.**
+> siora: **whu theula thimu nulae nolika.**
 > lopia: **misheko. misheko. misheko.**
 
 *The animal who swims in the river; the animal who sleeps for all time. The second riddle is not a difficult riddle. The child answers it three times for the joy of it.*
 
 ## III
 
-> lopia: **wha lo nophi shane miona.**
+> lopia: **whu lo nophi shane miona.**
 > siora: **wheo.**
-> siora: **wha wei muila thinoe to loa miona.**
+> siora: **whu wei muila thinoe to loa miona.**
 > lopia: **ne thinoe.**
 > **wheo sheluo. wheo siora phaelo.**
 
@@ -41,7 +41,7 @@
 
 ## IV
 
-> siora: **wha mia loami to loa miona.**
+> siora: **whu mia loami to loa miona.**
 > lopia: **mia.**
 > **lo lopia hola.**
 
@@ -53,6 +53,6 @@
 
 ---
 
-*A clause before a noun, and the noun completes it:* wha *is the whole apparatus, and you already knew where everything goes. Play the game yourself tonight: describe someone you know by what they habitually do, and let the noun arrive last.*
+*A clause before a noun, and the noun completes it:* whu *is the whole apparatus, and you already knew where everything goes. Play the game yourself tonight: describe someone you know by what they habitually do, and let the noun arrive last.*
 
 *The machinery, when you want it: relative clauses are the manual's Part V; the glossary's* pre-nominal relative clause *entry shows the anatomy.*

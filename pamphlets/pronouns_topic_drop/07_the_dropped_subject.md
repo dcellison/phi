@@ -31,7 +31,7 @@ The frame establishes the forest; the main clause drops it and predicates beauty
 A relative clause builds an unusually detailed subject, and the next sentence can spend the credit:
 
 ```
-wha mia to nila peloru mioru nai. thuroa.
+whu mia to nila peloru mioru nai. thuroa.
 REL 1SG PST see flower beautiful be. grow.
 (The flower that I saw is beautiful. It grows.)
 ```
