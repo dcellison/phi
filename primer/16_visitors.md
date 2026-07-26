@@ -29,6 +29,20 @@
 
 *Calling by name (*kona ne sulae*) or by role:* kona lopia, *child. The call stands first, its own little sentence, and then the real sentence follows. The children require one question to reach an understanding.*
 
+*Three more small words may follow* ne, *and the household uses all of them on the same guest:*
+
+> phao: **kona ne sa sulae.**
+> lopia: **kona ne ni sulae.**
+> wheo: **kona ne le sulae.**
+
+| new word | say it | it means |
+|---|---|---|
+| sa | sa | (after ne: with respect) |
+| ni | ni | (after ne: with closeness) |
+| le | le | (after ne: for a role held among neighbours) |
+
+*One guest, called three ways in one afternoon. None of the three ranks her. Each records how the speaker holds the relation: the parent's respect, the child's fondness, the elder's regard for what she does in the village. She is the same person after all three.*
+
 ## III
 
 > sulae: **pi wa lo mia mua thepalu meilo.**

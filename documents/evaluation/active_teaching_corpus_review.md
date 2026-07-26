@@ -281,7 +281,7 @@ All twenty-seven Markdown files under `primer/` are reviewed. The pass keeps its
 | `22_the_one_who.md` | Reviewed and preserved | The pre-nominal relative clause, missing participant, head noun, and noun-final guessing game already match the modifier-first invariant and current vocabulary. |
 | `23_weather_plans.md` | Revised | The complete `lu` condition remains before its consequence, `lu he` is limited to counterfactual or impossible conditions, and direct `pharelo` replaces generic making where the story means cooking. |
 | `24_the_news.md` | Revised | `hi`, `ke`, `ti`, and `ho` now mark claimed sources without ranking them or certifying knowledge, honesty, or truth. Perfective `ki` makes the assumed departure complete, while `shewo` remains a later judgement within the story. |
-| `25_capstone.md` | Revised | The three-line journal remains available without becoming a daily quota; the fable, Metta Sutta, and manual keep their distinct next-reading roles. |
+| `31_capstone.md` | Revised | The three-line journal remains available without becoming a daily quota; the fable, Metta Sutta, and manual keep their distinct next-reading roles. |
 
 ### Lexical and canonical result
 

@@ -51,6 +51,7 @@
 ## IV
 
 > **ta nophe philo. wi nophe philo. ta shao nophe philo.**
+> **nu ta philo. nu wi philo.**
 > lopia: **wireo philo. wa lo mia mua silawo nai.**
 > phao: **tua. lo mia mua womu so nai.**
 > **lo mia kau womu wepu. sileta lepa.**
@@ -59,8 +60,9 @@
 |---|---|---|
 | nophe | no · phe | (classifier: ideas, times, events) |
 | mu | mu | zero |
+| nu | nu | (before a numeral: turns counting into order) |
 
-*Days are counted with* nophe, *the classifier of things you cannot pick up: one day, two days, three. Tomorrow, will we be at the market? No: home.* mu *is zero. The manual's ternary arithmetic will be ready for the occasion when nothing at all needs counting. The walk home is downhill, the way markets arrange it.*
+*Days are counted with* nophe, *the classifier of things you cannot pick up: one day, two days, three. Put* nu *in front of the numeral and you get position instead of quantity: the first day, the second day. Tomorrow, will we be at the market? No: home.* mu *is zero. The manual's ternary arithmetic will be ready for the occasion when nothing at all needs counting. The walk home is downhill, the way markets arrange it.*
 
 ---
 
