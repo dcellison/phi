@@ -988,9 +988,9 @@ CONS 1SG REFL PST turn. 1SG WITHOUT fast REL ON stone floor gentle walk radiant 
 (So I turned round, and at my ease saw a splendid figure sauntering slowly over the stone floor.)
 morris: "so I turned round, and at my ease saw a splendid figure slowly sauntering over the pavement;"
 
-shia leo wethalu roe ru sheloi solai sima to se phiro selomi.
-3SG ABOVE garment INS INTS MANY gold thread PST PASS elegant weave.
-(His surcoat was embroidered, elegantly and most copiously, with gold thread.)
+shia leo wethalu roe solai sima to se ru lorua nela phiro selomi.
+3SG ABOVE garment INS gold thread PST PASS INTS abundant COORD elegant weave.
+(His surcoat was woven with gold thread, very abundantly and elegantly.)
 morris: "a man whose surcoat was embroidered most copiously as well as elegantly,"
 
 thelao sileta lue shia to keru tiripe. shia phea rena roe solai wethalu se lomare miona to nai.
@@ -1134,7 +1134,7 @@ POST thing 3SG PST turn. 3SG OUT.OF meeting place PST graceful go.
 morris: "And therewith he turned and swung himself out of the hall."
 ```
 
-**Notes:** the golden dustman enters as light before he enters as a person: something quivering brightly (`tiripe`, the river's own sparkle-verb) in sunlight that lies (`ruemi`) across the hall. Morris gives him the scene's one martial image, golden armor. Phi keeps what the eye can report, a person wrapped in gold garments, while the intended use that defines armor stays in the source. His portrait follows the last chapter's grammar. "Both men and women" becomes `theula miona`, everyone, and the suspected "senator" becomes `wheo kowela miona`, an elder-council person. Rank yields to role. `thunoa` gives Gold his dignified look without stretching pride across his whole appearance. `lonae` also keeps answering distinct from hearing questions or giving words. The Dickens allusion survives at Morris's own depth, a name out of the old stories known to narrator and hosts alike. `ne luwae` (Graceful) appears in Boffin's mouth at Morris's moment for Annie. Jim, keeper of the gray horse, is `ne woru` (Keeper), and the animal itself is `kerou welisha kalora`, the stone-colored horse. Dick's boat joke lands unchanged: he guides (`kulo`) a boat better than a wagon. Boffin's "old oar-wearer" returns as the old oar-man. "Without affectation" remains `whuo miso nila`, without watching oneself. Phi names the act and lets the pose fend for itself.
+**Notes:** the golden dustman enters as light before he enters as a person: something quivering brightly (`tiripe`, the river's own sparkle-verb) in sunlight that lies (`ruemi`) across the hall. Morris gives him the scene's one martial image, golden armor. Phi keeps what the eye can report, a person wrapped in gold garments, while the intended use that defines armor stays in the source. Copious and elegant both describe the working, so they stand together in the manner position as `ru lorua nela phiro`; `lorua` measures plenty against what a place or need asks, which is what covering a surcoat in gold thread does, where `sheloi` would only count the threads. His portrait follows the last chapter's grammar. "Both men and women" becomes `theula miona`, everyone, and the suspected "senator" becomes `wheo kowela miona`, an elder-council person. Rank yields to role. `thunoa` gives Gold his dignified look without stretching pride across his whole appearance. `lonae` also keeps answering distinct from hearing questions or giving words. The Dickens allusion survives at Morris's own depth, a name out of the old stories known to narrator and hosts alike. `ne luwae` (Graceful) appears in Boffin's mouth at Morris's moment for Annie. Jim, keeper of the gray horse, is `ne woru` (Keeper), and the animal itself is `kerou welisha kalora`, the stone-colored horse. Dick's boat joke lands unchanged: he guides (`kulo`) a boat better than a wagon. Boffin's "old oar-wearer" returns as the old oar-man. "Without affectation" remains `whuo miso nila`, without watching oneself. Phi names the act and lets the pose fend for itself.
 
 ## solai muhena miona — The golden dustman
 
