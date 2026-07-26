@@ -15,7 +15,7 @@
   "description": "Irrealis 'he' follows 'lu' (COND) when a condition is already known not to hold, or lies beyond possibility. Together they open a counterfactual or imagined condition; the next sentence gives its consequence.",
   "articulatory_notes": "Let unvoiced breath pass through the open glottis for 'h'. For true-mid 'e', raise the tongue's front to mid height and leave the lips unrounded. Stress covers this brief syllable.",
   "sound_symbolism": "Breath gives 'he' a light entrance ahead of the focused vowel. In Phi, that slightness can cue a condition's departure from fact.",
-  "usage_notes": "The settled irrealis frame begins 'lu he'; 'he' has no independent Slot 0 use. The framed condition fills one sentence, and its consequence follows in a second.",
+  "usage_notes": "The irrealis frame begins 'lu he'. A supposition is the only thing that can be contrary to fact, and 'lu' is the Slot 0 frame that puts one forward. The framed condition fills one sentence, and its consequence follows in a second.",
   "examples": [
     {
       "phi": "lu he mia pelori nai. mia wapi.",
