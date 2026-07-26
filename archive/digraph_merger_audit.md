@@ -83,7 +83,9 @@ Three of the standing pairs deserve naming, because they sit in the same syntact
 
 Each closer stands immediately before the main verb, which is exactly where those particles stand, so position does not separate them the way it separates most function words. The two often land side by side: the corpus holds 227 instances of `sho to`, 122 of `tho to`, 17 of `pho to`, and a handful of `tho po`, `tho so`, and `sho so`. What separates them is the onset alone.
 
-Two of the three are fricative against stop, `/θ/` against `/t̪/` and `/ɸ/` against `/p/`, which is a much stronger cue than the voicing contrast this audit rules on. The third, `/ʃ/` against `/s/`, is sibilant against sibilant and therefore the weakest of the three, though still a contrast every language with both sounds maintains, and `sho to` is the commonest of these sequences. The settled decision that minimal pairs are acceptable among function words, judged by ear and position, covers all three. They are recorded here so that keeping them is a choice rather than an oversight.
+Two of the three are fricative against stop, `/θ/` against `/t̪/` and `/ɸ/` against `/p/`, which is a much stronger cue than the voicing contrast this audit rules on. The third, `/ʃ/` against `/s/`, is sibilant against sibilant, and it is the weakest of the three only beside its neighbours rather than in absolute terms: sibilants are the loudest consonants Phi has, these two differ in place with a wide spectral separation, and no English dialect merges them. `sho to` is also the commonest of these sequences. The settled decision that minimal pairs are acceptable among function words, judged by ear and position, covers all three.
+
+All three were kept. The maintainer judged the sibilant pair much easier to tell apart than the voicing pair this audit bars, and set a speaker's reported confusion as the only condition for reopening the question (D063).
 
 ## What the audit did not examine
 
