@@ -10,7 +10,7 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **classifier**: An optional word that assigns what is counted to one of Phi's broad categories: `himo` (people), `lipha` (non-human living things), `themo` (detached or crafted objects), and `nophe` (abstractions, time, and events). It can foreground a category but does not guarantee regard or settle a disputed classification.
 
-**complementizer**: A framing function word. Phi's clause frames include `mena…meno` (that-clauses), `wela…welo` (embedded questions), and `shola…sholo` (Phi quotations).
+**complementizer**: A framing function word, one syllable long and always opening on a fricative digraph, which is how the ear tells one from a particle. The clause frames are `tha…tho` (that-clauses), `pha…pho` (embedded questions), `sha…sho` (Phi quotations), and `wha`, which opens a relative clause and lets the head noun close it.
 
 **source material**: Foreign wording, source-script names, exact records, formulas, identifiers, quotations, and other unassimilated artifacts preserved outside a Phi passage in the surrounding medium. Phi may point to, translate, or analyze that material without treating its tokens as Phi syntax.
 
@@ -40,11 +40,11 @@ The technical vocabulary used in this manual, in plain language, with the Phi fe
 
 **phonotactics**: The rules for how sounds may combine. Phi uses open (C)CV syllables, consonant-initial and vowel-final words, no three-vowel runs, no repeated syllable with an onset within a word, and an absolute three-syllable lexical ceiling.
 
-**pre-nominal relative clause**: A relative clause placed *before* the noun it describes: `[rena mia to nila] shelu` — the [that I saw] book. Phi's relativizer `rena` opens the clause; the head noun itself closes it.
+**pre-nominal relative clause**: A relative clause placed *before* the noun it describes: `[wha mia to nila] shelu` — the [that I saw] book. Phi's relativizer `wha` opens the clause; the head noun itself closes it.
 
 **pro-drop / topic-drop**: Omitting the subject when context makes it obvious. Phi allows it once a topic is established; it is never required.
 
-**quotative**: Marking for directly quoted speech. Phi's `shola…sholo` frame preserves the speaker's exact words, including their original tense and pronouns.
+**quotative**: Marking for directly quoted speech. Phi's `sha…sho` frame preserves the speaker's exact words, including their original tense and pronouns.
 
 **reflexive / reciprocal**: Action on oneself (`miso`: I see *myself*) versus on each other (`wiso`: we love *each other*).
 
@@ -85,8 +85,8 @@ Click or hover on a row for a longer explanation of that gloss.
 | CONTR | whekai | however | The discourse marker of contrast: the sentence it opens turns against the one before. Like all discourse markers it begins with a fricative, the breath a speaker takes before redirecting the conversation. |
 | COORD | nela | and | And, the basic coordinating conjunction, joining words, phrases, or clauses of equal weight. |
 | DAT | wei | to, for (recipient) | To, for, marking the recipient or beneficiary of an action: `mia wei thia loami loa` is I give you a gift. |
-| DECL.COMP | mena | that-clause (opener) | Opens an embedded clause that reports the content of a statement rather than its exact words. It always closes with `meno`. |
-| DECL.COMP.CLOSE | meno | that-clause (closer) | Closes a `mena` clause. Phi's verb-final order needs the closer; without it, the embedded verb and the main verb would sit side by side with no way to tell them apart. |
+| DECL.COMP | tha | that-clause (opener) | Opens an embedded clause that reports the content of a statement rather than its exact words. It always closes with `tho`. |
+| DECL.COMP.CLOSE | tho | that-clause (closer) | Closes a `tha` clause. Phi's verb-final order needs the closer; without it, the embedded verb and the main verb would sit side by side with no way to tell them apart. |
 | DIR | hi | witnessed | Marks that the speaker witnessed the event directly, through their own senses. |
 | DISJ | sola | or | Or, the coordinating conjunction for alternatives. |
 | DUR | sui | during | Temporal containment: the event happens within a span, not at a point. `sui kelua` is during the morning. |
@@ -101,8 +101,8 @@ Click or hover on a row for a longer explanation of that gloss.
 | INCH | pa | inchoative | The aspect for an action's beginning: `mia pa shelomu` is I begin to understand. |
 | INFER | ke | inferred | Marks that the speaker reached the claim by inference from evidence, not by direct witness or report. |
 | INS | roe | with (tool) | The instrumental: the tool, means, or method an action uses. `mia roe kiru wolea kati` is I cut the wood with the chisel; company takes `nua` instead. |
-| INT.COMP | wela | embedded question (opener) | Opens an embedded yes/no question (I wonder whether). It always closes with `welo`. |
-| INT.COMP.CLOSE | welo | embedded question (closer) | Closes a `wela` clause, marking where the embedded question ends so the main verb can follow without ambiguity. |
+| INT.COMP | pha | embedded question (opener) | Opens an embedded yes/no question (I wonder whether). It always closes with `pho`. |
+| INT.COMP.CLOSE | pho | embedded question (closer) | Closes a `pha` clause, marking where the embedded question ends so the main verb can follow without ambiguity. |
 | INTS | ru | intensifier | The intensifier: very, truly. `ru welao` is very good. |
 | IPFV | si | imperfective | The aspect for action in progress, mid-flow, right now, distinct from `ro` (habitual). |
 | IRR | he | irrealis | Paired with `lu` as `lu he`, an unreal or counterfactual conditional, for a condition that did not or cannot hold. |
@@ -123,10 +123,10 @@ Click or hover on a row for a longer explanation of that gloss.
 | PST | to | past | The past tense particle. |
 | PURP | lila | so that (purpose) | Introduces a purpose clause, the intention announced before the act: `lila hea` is in order to hear. Purpose, unlike cause, looks forward. |
 | Q | wa | question | Opens a sentence to announce a yes/no question, always sentence-initial. |
-| QUOT.COMP | shola | quotation (opener) | Opens a direct quotation, preserving the speaker's exact words rather than their content. It always closes with `sholo`. |
-| QUOT.COMP.CLOSE | sholo | quotation (closer) | Closes a `shola` quotation, marking where the quoted words end so the verb of speaking or hearing can follow. |
+| QUOT.COMP | sha | quotation (opener) | Opens a direct quotation, preserving the speaker's exact words rather than their content. It always closes with `sho`. |
+| QUOT.COMP.CLOSE | sho | quotation (closer) | Closes a `sha` quotation, marking where the quoted words end so the verb of speaking or hearing can follow. |
 | RECP/REFL | wiso, miso | each other / oneself | `wiso` marks mutual action between plural subjects (we help each other); `miso` turns an action back on its own subject (I wash myself). The designed -so pair extending the pronoun set. |
-| REL | rena | relativizer | Introduces a relative clause, which stands before the noun it describes: `[rena mia to nila] shelu` is the book that I saw. |
+| REL | wha | relativizer | Introduces a relative clause, which stands before the noun it describes: `[wha mia to nila] shelu` is the book that I saw. |
 | REP | ti | reported | Marks that the speaker received the information from someone else, rather than witnessing, inferring, or assuming it. |
 | REPH | shorela | in other words | The discourse marker of restatement: what follows says the previous thought again in a different form, another road offered to the same place. |
 | RESTR | li | only, restrictive | Marks that a statement holds for the one thing named, and nothing else: only. It fences identity, who or which, never quantity; a count is stated exactly or with `henoi`. |

@@ -86,7 +86,7 @@ This boundary preserves source identity and parity between Romanization and Teng
 
 Live spoken source material and code-switching remain an open design question. The difficulty is that conversation has no obvious page margin. Until canon changes, retain the current boundary; a new frame requires an explicit language-design decision. Any solution must use the complete existing grammar and discourse practice rather than create a second parser.
 
-`shola ... sholo` instead quotes grammatical Phi as Phi and therefore remains inside the language.
+`sha ... sho` instead quotes grammatical Phi as Phi and therefore remains inside the language.
 
 ## Modules
 

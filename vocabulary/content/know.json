@@ -13,14 +13,14 @@
   ],
   "description": "'sano' says that someone has information, an answer, familiarity with a person, or practical command of a method. A neighbour may know who left yet not understand why, and a craftsperson may know a method through years of use. 'shelomu' (understand) is about meaning and relations; 'nohero' (believe) is about what someone holds true.",
   "articulatory_notes": "Hold the tongue close to the alveolar ridge and direct voiceless air through a narrow groove for 's', then open into stressed central 'a'. Place the tongue tip against the back of the upper teeth for dental 'n', continue voicing through the nose, and release into rounded true-mid back 'o'.",
-  "usage_notes": "A person, thing, or method may be a direct object. A known proposition takes 'mena ... meno'; embedded yes or no questions and content questions follow Phi's ordinary complement-clause patterns. In noun position, 'sano' is knowledge.",
+  "usage_notes": "A person, thing, or method may be a direct object. A known proposition takes 'tha ... tho'; embedded yes or no questions and content questions follow Phi's ordinary complement-clause patterns. In noun position, 'sano' is knowledge.",
   "examples": [
     {
       "phi": "mia thia sano.",
       "translation": "I know you."
     },
     {
-      "phi": "mia mena shia to wepu meno sano.",
+      "phi": "mia tha shia to wepu tho sano.",
       "translation": "I know that they left."
     }
   ],

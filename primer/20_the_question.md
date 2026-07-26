@@ -1,17 +1,17 @@
-# 20 · wela
+# 20 · pha
 
-*Chapter four taught you to ask; this chapter teaches you to hold a question inside a sentence without asking it.* **wela … welo** *brackets an embedded yes-or-no question (whether) the way* mena … meno *brackets a statement. Same architecture, different doorway. The feast needs planning, and planning contains a fair amount of not-knowing:*
+*Chapter four taught you to ask; this chapter teaches you to hold a question inside a sentence without asking it.* **pha … pho** *brackets an embedded yes-or-no question (whether) the way* tha … tho *brackets a statement. Same architecture, different doorway. The feast needs planning, and planning contains a fair amount of not-knowing:*
 
 ## I
 
-> **lopia wela pheralu so lepa welo ma sano.**
-> **phao wela pheralu so lepa welo ma sano.**
+> **lopia pha pheralu so lepa pho ma sano.**
+> **phao pha pheralu so lepa pho ma sano.**
 > **wheo waero nila.**
 
 | new word | say it | it means |
 |---|---|---|
-| wela | we · la | (opens an embedded question) |
-| welo | we · lo | (closes it) |
+| pha | pha | (opens an embedded question) |
+| pho | pho | (closes it) |
 
 *Whether it will rain, nobody knows. The embedded question sits in its brackets with its own future particle, and the main verb outside is simply* ma sano, *not-know. Phi is precise about ignorance: you say exactly which question you do not have the answer to.*
 
@@ -19,13 +19,13 @@
 
 > lopia: **wa ne siora so shua.**
 > sulae: **lia. siora so shua.**
-> **nosa lopia mena siora so shua meno sano.**
+> **nosa lopia tha siora so shua tho sano.**
 
-*The embedded question and the plain question are cousins: to wonder whether is* wela … welo; *to ask outright is chapter four's* wa. *The child skips the wondering, asks, and receives an answer. What was unresolved can now enter a* mena … meno *statement as known content.*
+*The embedded question and the plain question are cousins: to wonder whether is* pha … pho; *to ask outright is chapter four's* wa. *The child skips the wondering, asks, and receives an answer. What was unresolved can now enter a* tha … tho *statement as known content.*
 
 ## III
 
-> **phao wela lo mia nekuma sola shalu pilewa welo remo.**
+> **phao pha lo mia nekuma sola shalu pilewa pho remo.**
 > **phao sulae thilou.**
 > sulae: **shalu. mea.**
 
@@ -39,7 +39,7 @@
 ## IV
 
 > **shero shua.**
-> **lopia wela wireo philo welao so nai welo remo.**
+> **lopia pha wireo philo welao so nai pho remo.**
 > **lopia nulae.**
 
 *The child falls asleep wondering whether tomorrow will be good, which is the correct thing to fall asleep wondering, at that age or any other.*

@@ -4,29 +4,29 @@ Thought does not stop at one level of holding. You believe that a friend knows s
 
 ## Nested declarative clauses
 
-When we think about what others think, or know what others know, we nest `mena`/`meno` clauses:
+When we think about what others think, or know what others know, we nest `tha`/`tho` clauses:
 
 ### Two levels
 
 ```
-mia mena thia mena shia to wepu meno phaelo meno shelomu
+mia tha thia tha shia to wepu tho phaelo tho shelomu
 1SG DECL.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE feel DECL.COMP.CLOSE understand
 (I understand that you feel that they left.)
 ```
 
 Structure:
 ```
-mia mena [thia mena [shia to wepu] meno phaelo] meno shelomu
+mia tha [thia tha [shia to wepu] tho phaelo] tho shelomu
     └────────────────────────────────────────────┘
               └─────────────────────┘
 ```
 
-Each `mena` has its own `meno`. They nest like parentheses.
+Each `tha` has its own `tho`. They nest like parentheses.
 
 ### Three levels
 
 ```
-shia mena mia mena thia mena melu to wepu meno sano meno nohero meno to haolu
+shia tha mia tha thia tha melu to wepu tho sano tho nohero tho to haolu
 3SG DECL.COMP 1SG DECL.COMP 2SG DECL.COMP friend PST go DECL.COMP.CLOSE know DECL.COMP.CLOSE believe DECL.COMP.CLOSE PST speak
 (They said that I believe that you know that the friend left.)
 ```
@@ -34,7 +34,7 @@ shia mena mia mena thia mena melu to wepu meno sano meno nohero meno to haolu
 This is grammatically correct but approaches the limit of comfortable processing. In practice, speakers break complex nestings into separate sentences:
 
 ```
-melu to wepu. thia mena melu to wepu meno sano. mia mena thia sano meno nohero. shia mena mia nohero meno to haolu
+melu to wepu. thia tha melu to wepu tho sano. mia tha thia sano tho nohero. shia tha mia nohero tho to haolu
 friend PST go. 2SG DECL.COMP friend PST go DECL.COMP.CLOSE know. 1SG DECL.COMP 2SG know DECL.COMP.CLOSE believe. 3SG DECL.COMP 1SG believe DECL.COMP.CLOSE PST speak
 (The friend left. You know that the friend left. I believe that you know. They said that I believe.)
 ```
@@ -46,12 +46,12 @@ Both express the same meaning; the second is easier to follow.
 Wondering about wondering:
 
 ```
-mia wela thia wela shia so turema welo phaelo welo remo
+mia pha thia pha shia so turema pho phaelo pho remo
 1SG INT.COMP 2SG INT.COMP 3SG FUT return INT.COMP.CLOSE feel INT.COMP.CLOSE think
 (I'm thinking about whether you wonder whether they will return.)
 ```
 
-Each `wela` pairs with its own `welo`.
+Each `pha` pairs with its own `pho`.
 
 ## Mixing complementizer types
 
@@ -60,24 +60,24 @@ Different complementizer types can nest within each other:
 ### Declarative inside interrogative
 
 ```
-mia wela thia mena shia to wepu meno sano welo phaelo
+mia pha thia tha shia to wepu tho sano pho phaelo
 1SG INT.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE know INT.COMP.CLOSE feel
 (I wonder whether you know that they left.)
 ```
 
 Structure:
 ```
-mia wela [thia mena [shia to wepu] meno sano] welo phaelo
+mia pha [thia tha [shia to wepu] tho sano] pho phaelo
     └───────────────────────────────────────────────┘
               └──────────────────────┘
 ```
 
-The `mena`/`meno` pair is inside the `wela`/`welo` pair.
+The `tha`/`tho` pair is inside the `pha`/`pho` pair.
 
 ### Interrogative inside declarative
 
 ```
-mia mena thia wela shia to wepu welo phaelo meno sano
+mia tha thia pha shia to wepu pho phaelo tho sano
 1SG DECL.COMP 2SG INT.COMP 3SG PST go INT.COMP.CLOSE feel DECL.COMP.CLOSE know
 (I know that you wonder whether they left.)
 ```
@@ -85,7 +85,7 @@ mia mena thia wela shia to wepu welo phaelo meno sano
 ### Quotative inside declarative
 
 ```
-mia mena shia shola mia so turema sholo haolu meno shelomu
+mia tha shia sha mia so turema sho haolu tho shelomu
 1SG DECL.COMP 3SG QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE speak DECL.COMP.CLOSE understand
 (I understand that they said: "I will return.")
 ```
@@ -93,44 +93,44 @@ mia mena shia shola mia so turema sholo haolu meno shelomu
 ### Declarative inside quotative
 
 ```
-shia shola mia mena thia towe nai meno sano sholo to haolu
+shia sha mia tha thia towe nai tho sano sho to haolu
 3SG QUOT.COMP 1SG DECL.COMP 2SG well be DECL.COMP.CLOSE know QUOT.COMP.CLOSE PST speak
 (They said: "I know that you are well.")
 ```
 
 ## Relative clauses containing complementizers
 
-Relative clauses (`rena`) can contain embedded clauses:
+Relative clauses (`wha`) can contain embedded clauses:
 
-### Relative clause with `mena`/`meno`
+### Relative clause with `tha`/`tho`
 
 ```
-rena mia mena towe nai meno sano miona
+wha mia tha towe nai tho sano miona
 REL 1SG DECL.COMP well be DECL.COMP.CLOSE know person
 (the person whom I know is well)
 ```
 
 Here, the relative clause contains an embedded declarative. The structure:
 ```
-[rena mia mena [___ towe nai] meno sano] miona
+[wha mia tha [___ towe nai] tho sano] miona
 ```
 
-The head noun `miona` closes the relative clause and supplies the missing subject inside the embedded statement: the gap a relative clause leaves may sit inside a complement frame, as it does here. The `mena`/`meno` pair is fully contained within the relative clause.
+The head noun `miona` closes the relative clause and supplies the missing subject inside the embedded statement: the gap a relative clause leaves may sit inside a complement frame, as it does here. The `tha`/`tho` pair is fully contained within the relative clause.
 
-### Relative clause with `wela`/`welo`
+### Relative clause with `pha`/`pho`
 
 ```
-rena wela melu so turema welo thilou miona
+wha pha melu so turema pho thilou miona
 REL INT.COMP friend FUT return INT.COMP.CLOSE inquire person
 (the person who asks whether the friend will return)
 ```
 
 Here the gap is the asker: the missing subject of `thilou`, supplied by the head noun.
 
-### Relative clause with `shola`/`sholo`
+### Relative clause with `sha`/`sho`
 
 ```
-rena shola mia so turema sholo to haolu miona
+wha sha mia so turema sho to haolu miona
 REL QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE PST speak person
 (the person who said: "I will return")
 ```
@@ -139,33 +139,33 @@ REL QUOT.COMP 1SG FUT return QUOT.COMP.CLOSE PST speak person
 
 The embedded clause can itself contain a relative clause:
 
-### `mena`/`meno` containing relative clause
+### `tha`/`tho` containing relative clause
 
 ```
-mia mena rena nophi kealo miona to wepu meno sano
+mia tha wha nophi kealo miona to wepu tho sano
 1SG DECL.COMP REL story create person PST go DECL.COMP.CLOSE know
 (I know that the person who creates stories left.)
 ```
 
 Structure:
 ```
-mia mena [[rena nophi kealo] miona to wepu] meno sano
+mia tha [[wha nophi kealo] miona to wepu] tho sano
 ```
 
-The relative clause `rena nophi kealo` modifies `miona`, and the whole noun phrase is subject of the embedded clause.
+The relative clause `wha nophi kealo` modifies `miona`, and the whole noun phrase is subject of the embedded clause.
 
-### `wela`/`welo` containing relative clause
+### `pha`/`pho` containing relative clause
 
 ```
-mia wela rena mia to nila shelu shewo nai welo phaelo
+mia pha wha mia to nila shelu shewo nai pho phaelo
 1SG INT.COMP REL 1SG PST see book true be INT.COMP.CLOSE feel
 (I wonder whether the book that I saw is true.)
 ```
 
-### `shola`/`sholo` containing relative clause
+### `sha`/`sho` containing relative clause
 
 ```
-shia shola rena mia to kealo nophi mioru nai sholo to haolu
+shia sha wha mia to kealo nophi mioru nai sho to haolu
 3SG QUOT.COMP REL 1SG PST create story beautiful be QUOT.COMP.CLOSE PST speak
 (They said: "The story that I created is beautiful.")
 ```
@@ -177,7 +177,7 @@ A sentence can contain multiple embedded clauses that are not nested:
 ### Coordinated embedded clauses
 
 ```
-mia mena shia towe nai meno sano nela mia mena shia so turema meno nohero
+mia tha shia towe nai tho sano nela mia tha shia so turema tho nohero
 1SG DECL.COMP 3SG well be DECL.COMP.CLOSE know COORD 1SG DECL.COMP 3SG FUT return DECL.COMP.CLOSE believe
 (I know that they are well, and I believe that they will return.)
 ```
@@ -185,7 +185,7 @@ mia mena shia towe nai meno sano nela mia mena shia so turema meno nohero
 ### Different embedding types in sequence
 
 ```
-mia mena shia towe nai meno sano thona mia wela shia so turema welo ma sano
+mia tha shia towe nai tho sano thona mia pha shia so turema pho ma sano
 1SG DECL.COMP 3SG well be DECL.COMP.CLOSE know ADVRS 1SG INT.COMP 3SG FUT return INT.COMP.CLOSE NEG know
 (I know that they are well, but I don't know whether they will return.)
 ```
@@ -198,7 +198,7 @@ When encountering or producing complex nested structures:
 
 ### For comprehension
 
-Track the openers: each time you hear `mena`, `wela`, or `shola`, note that a clause has opened. Each `meno`, `welo`, or `sholo` closes the most recent unmatched opener of the same type. The verb after the outermost closer is the main verb. Then build meaning from the inside out: understand the innermost clause first, and see how it functions in the next level out.
+Track the openers: each time you hear `tha`, `pha`, or `sha`, note that a clause has opened. Each `tho`, `pho`, or `sho` closes the most recent unmatched opener of the same type. The verb after the outermost closer is the main verb. Then build meaning from the inside out: understand the innermost clause first, and see how it functions in the next level out.
 
 ### For production
 
@@ -221,7 +221,7 @@ For the ambitious learner, here are grammatically correct but demanding examples
 ### Three-level mixed nesting
 
 ```
-mia mena thia wela shia mena melu so turema meno sano welo phaelo meno shelomu
+mia tha thia pha shia tha melu so turema tho sano pho phaelo tho shelomu
 1SG DECL.COMP 2SG INT.COMP 3SG DECL.COMP friend FUT return DECL.COMP.CLOSE know INT.COMP.CLOSE feel DECL.COMP.CLOSE understand
 (I understand that you wonder whether they know that the friend will return.)
 ```
@@ -229,7 +229,7 @@ mia mena thia wela shia mena melu so turema meno sano welo phaelo meno shelomu
 ### Relative clause with nested embedding
 
 ```
-rena mia mena thia mena towe nai meno phaelo meno sano miona
+wha mia tha thia tha towe nai tho phaelo tho sano miona
 REL 1SG DECL.COMP 2SG DECL.COMP well be DECL.COMP.CLOSE feel DECL.COMP.CLOSE know person
 (the person about whom I know that you feel that they are well)
 ```
@@ -237,7 +237,7 @@ REL 1SG DECL.COMP 2SG DECL.COMP well be DECL.COMP.CLOSE feel DECL.COMP.CLOSE kno
 ### Quotation of complex content
 
 ```
-shia shola mia mena melu so turema meno nohero sholo to haolu
+shia sha mia tha melu so turema tho nohero sho to haolu
 3SG QUOT.COMP 1SG DECL.COMP friend FUT return DECL.COMP.CLOSE believe QUOT.COMP.CLOSE PST speak
 (They said: "I believe that the friend will return.")
 ```

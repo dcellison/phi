@@ -1,41 +1,41 @@
-# Interrogative embedding: `wela`/`welo`
+# Interrogative embedding: `pha`/`pho`
 
-A question does not have to be asked to be spoken of. With `wela` and `welo`, Phi takes a question, whole and unanswered, and hands it to a verb: something wondered about, inquired after, considered, or not yet known.
+A question does not have to be asked to be spoken of. With `pha` and `pho`, Phi takes a question, whole and unanswered, and hands it to a verb: something wondered about, inquired after, considered, or not yet known.
 
 ## The basic structure
 
 The structure for interrogative embedding is:
 
 ```
-[Subject] wela [Embedded question] welo [Main verb]
+[Subject] pha [Embedded question] pho [Main verb]
 ```
 
-The embedded question follows standard Phi word order. The main verb comes after `welo`.
+The embedded question follows standard Phi word order. The main verb comes after `pho`.
 
 **Basic example:**
 
 ```
-mia wela shia to wepu welo phaelo
+mia pha shia to wepu pho phaelo
 1SG INT.COMP 3SG PST go INT.COMP.CLOSE feel
 (I wonder whether they left.)
 ```
 
 Breaking this down:
 - `mia`: main clause subject (I)
-- `wela`: opens embedded question
+- `pha`: opens embedded question
 - `shia to wepu`, embedded clause: did they leave?
-- `welo`: closes embedded question
+- `pho`: closes embedded question
 - `phaelo`: main verb (wonder/feel)
 
 ## Sound symbolism
 
-**`wela`** begins with the glide `w`, the lips rounding and reaching outward, and the liquid `l` flows toward whatever answer might come. The final `a` opens into the question that follows.
+**`pha`** begins with the lips almost touching and breath slipping through the gap between them: no voice, no closure, nothing yet decided. It is the softest opening Phi has, and it suits a question you are carrying rather than putting to anyone. Then `a` opens and the uncertainty follows it in.
 
-**`welo`** shares the reaching `we` onset. The shift from `a` to `o` rounds the reach off: the question is no longer an open inquiry but an object of thought.
+**`pho`** repeats that same breath between the lips and turns the vowel instead of the consonant. The lips round rather than spread, so the word finishes almost where it started. Nothing has been answered. The question has only been set down.
 
-`wela` is a hand opening, palm up, to receive a question; `welo` is the same hand closing gently around it. Nothing is answered between them. The question is simply carried.
+`pha` is a hand opening, palm up, to receive a question; `pho` is the same hand closing gently around it. Nothing is answered between them. The question is simply carried.
 
-## Distinguishing `wela`/`welo` from related words
+## Distinguishing `pha`/`pho` from related words
 
 Phi has several question-related words. Understanding their differences is essential:
 
@@ -51,12 +51,12 @@ Q 2SG go
 
 This is a real question, directed at the listener, expecting a response.
 
-### `wela`/`welo`: Embedded question complementizers
+### `pha`/`pho`: Embedded question complementizers
 
-`wela`/`welo` embeds a question as the content of another verb:
+`pha`/`pho` embeds a question as the content of another verb:
 
 ```
-mia wela thia wepu welo phaelo
+mia pha thia wepu pho phaelo
 1SG INT.COMP 2SG go INT.COMP.CLOSE feel
 (I wonder whether you are leaving.)
 ```
@@ -80,28 +80,28 @@ This is neither a question nor an embedded question. It is a hypothesis with a c
 | Word | Function | Example translation |
 |------|----------|---------------------|
 | `wa` | Direct question | "Are you leaving?" |
-| `wela`/`welo` | Embedded question | "whether you are leaving" |
+| `pha`/`pho` | Embedded question | "whether you are leaving" |
 | `lu` | Conditional | "if you leave" |
 
 All three involve possibility, but:
 - `wa` seeks an answer
-- `wela`/`welo` expresses uncertainty as content
+- `pha`/`pho` expresses uncertainty as content
 - `lu` posits a hypothesis
 
-## Verbs that take `wela`/`welo` clauses
+## Verbs that take `pha`/`pho` clauses
 
 Interrogative embedding works with several categories of verbs:
 
 ### Wondering and contemplating
 
 ```
-mia wela pheralu so shua welo phaelo
+mia pha pheralu so shua pho phaelo
 1SG INT.COMP rain FUT come INT.COMP.CLOSE feel
 (I wonder whether rain will come.)
 ```
 
 ```
-shia wela nophi shewo nai welo remo
+shia pha nophi shewo nai pho remo
 3SG INT.COMP story true be INT.COMP.CLOSE think
 (They contemplate whether the story is true.)
 ```
@@ -109,29 +109,29 @@ shia wela nophi shewo nai welo remo
 ### Asking and inquiring
 
 ```
-shia wela mia to nila welo to thilou
+shia pha mia to nila pho to thilou
 3SG INT.COMP 1SG PST see INT.COMP.CLOSE PST inquire
 (They asked whether I had seen.)
 ```
 
 ```
-melu wela thia so turema welo to thilou
+melu pha thia so turema pho to thilou
 friend INT.COMP 2SG FUT return INT.COMP.CLOSE PST inquire
 (The friend asked whether you will return.)
 ```
 
-As with `mena`/`meno`, the frame verb carries its own tense after the closer: the asking is marked past with `to` while the embedded clause keeps its own time.
+As with `tha`/`tho`, the frame verb carries its own tense after the closer: the asking is marked past with `to` while the embedded clause keeps its own time.
 
 ### Knowing and not knowing
 
 ```
-mia wela shia towe nai welo sano
+mia pha shia towe nai pho sano
 1SG INT.COMP 3SG well be INT.COMP.CLOSE know
 (I know whether they are well.)
 ```
 
 ```
-lo mia wela sileta so shua welo ma sano
+lo mia pha sileta so shua pho ma sano
 PL 1SG INT.COMP sun FUT come INT.COMP.CLOSE NEG know
 (We do not know whether the sun will come.)
 ```
@@ -139,7 +139,7 @@ PL 1SG INT.COMP sun FUT come INT.COMP.CLOSE NEG know
 ### Discovering and finding out
 
 ```
-shia wela melu to kamo welo to nila
+shia pha melu to kamo pho to nila
 3SG INT.COMP friend PST arrive INT.COMP.CLOSE PST see
 (They discovered whether the friend had arrived.)
 ```
@@ -147,7 +147,7 @@ shia wela melu to kamo welo to nila
 ### Caring about
 
 ```
-wa thia wela mia towe nai welo phaelo
+wa thia pha mia towe nai pho phaelo
 Q 2SG INT.COMP 1SG well be INT.COMP.CLOSE feel
 (Do you care whether I am well?)
 ```
@@ -159,13 +159,13 @@ The embedded question can contain any tense or aspect marking:
 ### Past tense (`to`)
 
 ```
-mia wela shia to kamo welo phaelo
+mia pha shia to kamo pho phaelo
 1SG INT.COMP 3SG PST arrive INT.COMP.CLOSE feel
 (I wonder whether they arrived.)
 ```
 
 ```
-shia wela melu to naphe welo to thilou
+shia pha melu to naphe pho to thilou
 3SG INT.COMP friend PST help INT.COMP.CLOSE PST inquire
 (They asked whether the friend had helped.)
 ```
@@ -173,13 +173,13 @@ shia wela melu to naphe welo to thilou
 ### Future tense (`so`)
 
 ```
-mia wela pheralu so shua welo ma sano
+mia pha pheralu so shua pho ma sano
 1SG INT.COMP rain FUT come INT.COMP.CLOSE NEG know
 (I don't know whether rain will come.)
 ```
 
 ```
-lo mia wela shia so turema welo phaelo
+lo mia pha shia so turema pho phaelo
 PL 1SG INT.COMP 3SG FUT return INT.COMP.CLOSE feel
 (We wonder whether they will return.)
 ```
@@ -187,7 +187,7 @@ PL 1SG INT.COMP 3SG FUT return INT.COMP.CLOSE feel
 ### Habitual aspect (`ro`)
 
 ```
-shia wela sileta ro shua welo sano
+shia pha sileta ro shua pho sano
 3SG INT.COMP sun HAB come INT.COMP.CLOSE know
 (They know whether the sun regularly comes.)
 ```
@@ -195,7 +195,7 @@ shia wela sileta ro shua welo sano
 ### Perfective aspect (`ki`)
 
 ```
-mia wela shelu ki se kealo welo to nila
+mia pha shelu ki se kealo pho to nila
 1SG INT.COMP book PFV PASS create INT.COMP.CLOSE PST see
 (I discovered whether the book had been created.)
 ```
@@ -205,7 +205,7 @@ mia wela shelu ki se kealo welo to nila
 Negation inside the embedded question:
 
 ```
-mia wela shia to ma wepu welo phaelo
+mia pha shia to ma wepu pho phaelo
 1SG INT.COMP 3SG PST NEG go INT.COMP.CLOSE feel
 (I wonder whether they did not leave.)
 ```
@@ -213,7 +213,7 @@ mia wela shia to ma wepu welo phaelo
 Negation of the main verb:
 
 ```
-mia wela shia to wepu welo ma sano
+mia pha shia to wepu pho ma sano
 1SG INT.COMP 3SG PST go INT.COMP.CLOSE NEG know
 (I do not know whether they left.)
 ```
@@ -221,7 +221,7 @@ mia wela shia to wepu welo ma sano
 Both:
 
 ```
-mia wela shia to ma wepu welo ma sano
+mia pha shia to ma wepu pho ma sano
 1SG INT.COMP 3SG PST NEG go INT.COMP.CLOSE NEG know
 (I do not know whether they did not leave.)
 ```
@@ -231,7 +231,7 @@ mia wela shia to ma wepu welo ma sano
 ### Possibility (`po`)
 
 ```
-mia wela shia po shua welo phaelo
+mia pha shia po shua pho phaelo
 1SG INT.COMP 3SG POT come INT.COMP.CLOSE feel
 (I wonder whether they might come.)
 ```
@@ -239,7 +239,7 @@ mia wela shia po shua welo phaelo
 ### Necessity (`na`)
 
 ```
-shia wela lo mia na wepu welo to thilou
+shia pha lo mia na wepu pho to thilou
 3SG INT.COMP PL 1SG NEC go INT.COMP.CLOSE PST inquire
 (They asked whether we must leave.)
 ```
@@ -251,13 +251,13 @@ The embedded question can contain full clause structure:
 ### With transitive verbs
 
 ```
-mia wela shia shelu kealo welo phaelo
+mia pha shia shelu kealo pho phaelo
 1SG INT.COMP 3SG book create INT.COMP.CLOSE feel
 (I wonder whether they create books.)
 ```
 
 ```
-shia wela melu thia to naphe welo sano
+shia pha melu thia to naphe pho sano
 3SG INT.COMP friend 2SG PST help INT.COMP.CLOSE know
 (They know whether the friend helped you.)
 ```
@@ -265,7 +265,7 @@ shia wela melu thia to naphe welo sano
 ### With ditransitive verbs
 
 ```
-mia wela shia wei melu shelu loa welo to nila
+mia pha shia wei melu shelu loa pho to nila
 1SG INT.COMP 3SG DAT friend book give INT.COMP.CLOSE PST see
 (I discovered whether they gave the friend a book.)
 ```
@@ -273,7 +273,7 @@ mia wela shia wei melu shelu loa welo to nila
 ### With prepositional phrases
 
 ```
-shia wela melu mua womu nai welo to thilou
+shia pha melu mua womu nai pho to thilou
 3SG INT.COMP friend LOC home be INT.COMP.CLOSE PST inquire
 (They asked whether the friend is at home.)
 ```
@@ -283,31 +283,31 @@ shia wela melu mua womu nai welo to thilou
 The main clause can itself be a question:
 
 ```
-wa thia wela shia so turema welo sano
+wa thia pha shia so turema pho sano
 Q 2SG INT.COMP 3SG FUT return INT.COMP.CLOSE know
 (Do you know whether they will return?)
 ```
 
 ```
-wa shia wela mia towe nai welo to thilou
+wa shia pha mia towe nai pho to thilou
 Q 3SG INT.COMP 1SG well be INT.COMP.CLOSE PST inquire
 (Did they ask whether I am well?)
 ```
 
-## Topic-drop with `wela`/`welo`
+## Topic-drop with `pha`/`pho`
 
 When the main clause subject is clear from context:
 
 **Full form:**
 ```
-mia wela shia to wepu welo phaelo
+mia pha shia to wepu pho phaelo
 1SG INT.COMP 3SG PST go INT.COMP.CLOSE feel
 (I wonder whether they left.)
 ```
 
 **With topic-drop:**
 ```
-wela shia to wepu welo phaelo
+pha shia to wepu pho phaelo
 INT.COMP 3SG PST go INT.COMP.CLOSE feel
 ((I) wonder whether they left.)
 ```
@@ -316,18 +316,18 @@ INT.COMP 3SG PST go INT.COMP.CLOSE feel
 
 Compare carefully:
 
-**Embedded statement (`mena`/`meno`):**
+**Embedded statement (`tha`/`tho`):**
 ```
-mia mena shia to wepu meno sano
+mia tha shia to wepu tho sano
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE know
 (I know that they left.)
 ```
 
 The speaker asserts knowledge of a fact.
 
-**Embedded question (`wela`/`welo`):**
+**Embedded question (`pha`/`pho`):**
 ```
-mia wela shia to wepu welo sano
+mia pha shia to wepu pho sano
 1SG INT.COMP 3SG PST go INT.COMP.CLOSE know
 (I know whether they left.)
 ```
@@ -337,7 +337,7 @@ The speaker knows the answer to a question (but doesn't tell us what it is).
 **The difference in "not knowing":**
 
 ```
-mia mena shia to wepu meno ma sano
+mia tha shia to wepu tho ma sano
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE NEG know
 (I don't know that they left.)
 ```
@@ -345,7 +345,7 @@ mia mena shia to wepu meno ma sano
 This could mean: I have no knowledge of their leaving.
 
 ```
-mia wela shia to wepu welo ma sano
+mia pha shia to wepu pho ma sano
 1SG INT.COMP 3SG PST go INT.COMP.CLOSE NEG know
 (I don't know whether they left.)
 ```
@@ -359,19 +359,19 @@ The interrogative embedding explicitly frames the content as a question to be re
 ### A conversation about uncertainty
 
 ```
-wa thia wela pheralu so shua welo sano
+wa thia pha pheralu so shua pho sano
 Q 2SG INT.COMP rain FUT come INT.COMP.CLOSE know
 (Do you know whether rain will come?)
 ```
 
 ```
-mia wela pheralu so shua welo ma sano
+mia pha pheralu so shua pho ma sano
 1SG INT.COMP rain FUT come INT.COMP.CLOSE NEG know
 (I don't know whether rain will come.)
 ```
 
 ```
-mia wela pheralu so shua welo ma phaelo. sileta ha nai
+mia pha pheralu so shua pho ma phaelo. sileta ha nai
 1SG INT.COMP rain FUT come INT.COMP.CLOSE NEG feel. sun PROX be
 (I don't care whether rain will come. The sun is here.)
 ```
@@ -379,32 +379,32 @@ mia wela pheralu so shua welo ma phaelo. sileta ha nai
 ### Reporting someone's question
 
 ```
-shia wela thia so turema welo to thilou
+shia pha thia so turema pho to thilou
 3SG INT.COMP 2SG FUT return INT.COMP.CLOSE PST inquire
 (They asked whether you will return.)
 ```
 
 ```
-wa thia wela mia to shua welo to haolu
+wa thia pha mia to shua pho to haolu
 Q 2SG INT.COMP 1SG PST come INT.COMP.CLOSE PST speak
 (Did you tell whether I had come?)
 ```
 
-(Note: When reporting that someone asked a question, we use `wela`/`welo`. When reporting their answer or statement, we use `mena`/`meno`.)
+(Note: When reporting that someone asked a question, we use `pha`/`pho`. When reporting their answer or statement, we use `tha`/`tho`.)
 
 ### Nested uncertainty
 
 ```
-mia wela thia wela shia towe nai welo sano welo phaelo
+mia pha thia pha shia towe nai pho sano pho phaelo
 1SG INT.COMP 2SG INT.COMP 3SG well be INT.COMP.CLOSE know INT.COMP.CLOSE feel
 (I wonder whether you know whether they are well.)
 ```
 
-Each `wela` pairs with its own `welo`, and the structure stays clear even in nested questions.
+Each `pha` pairs with its own `pho`, and the structure stays clear even in nested questions.
 
 ## Content questions (wh-questions)
 
-The examples above involve yes/no questions. Content questions (who, what, where, when, why) work differently in Phi: the interrogative word itself signals that the clause is a question, so the clause embeds bare, with no `wela`/`welo` frame:
+The examples above involve yes/no questions. Content questions (who, what, where, when, why) work differently in Phi: the interrogative word itself signals that the clause is a question, so the clause embeds bare, with no `pha`/`pho` frame:
 
 ```
 mia sua to shua sano
@@ -424,24 +424,24 @@ PL 1SG 3SG where be NEG know
 (We don't know where they are.)
 ```
 
-The interrogative word does inside the clause what `wela` does for yes/no questions: it announces the question. Wrapping a content question in `wela`/`welo` is redundant, and Phi does not do it: the interrogative pronoun occupies the position of the unknown element, and that alone carries the signal (see the manual, ch19).
+The interrogative word does inside the clause what `pha` does for yes/no questions: it announces the question. Wrapping a content question in `pha`/`pho` is redundant, and Phi does not do it: the interrogative pronoun occupies the position of the unknown element, and that alone carries the signal (see the manual, ch19).
 
 ## Summary
 
-`wela`/`welo` provides Phi's mechanism for embedding questions: uncertainties we wonder about, inquiries we ask, possibilities we consider. Key points:
+`pha`/`pho` provides Phi's mechanism for embedding questions: uncertainties we wonder about, inquiries we ask, possibilities we consider. Key points:
 
-- **`wela` opens:** "here begins a question being considered"
-- **`welo` closes:** "here ends that question"
+- **`pha` opens:** "here begins a question being considered"
+- **`pho` closes:** "here ends that question"
 - **Main verb follows:** the verb that takes the question as its content
 
 Distinguished from:
 - `wa` (direct questions seeking answers)
 - `lu` (conditional hypotheses with consequences)
-- `mena`/`meno` (embedded statements, not questions)
+- `tha`/`tho` (embedded statements, not questions)
 
-The system embeds yes/no questions with `wela`/`welo`; content questions embed bare, their interrogative word carrying the signal. Nesting is possible. The structure remains unambiguous.
+The system embeds yes/no questions with `pha`/`pho`; content questions embed bare, their interrogative word carrying the signal. Nesting is possible. The structure remains unambiguous.
 
-Many languages make uncertainty easy to hide and slightly awkward to confess. Phi builds the unanswered question its own frame, with the same two-syllable sturdiness it gives to facts, so that admitting an open question costs a speaker nothing but the honesty.
+Many languages make uncertainty easy to hide and slightly awkward to confess. Phi builds the unanswered question its own frame, cut from the same cloth as the frame it gives to facts, so that admitting an open question costs a speaker nothing but the honesty.
 
-With `wela` and `welo`, not knowing something becomes something you can say.
+With `pha` and `pho`, not knowing something becomes something you can say.
 

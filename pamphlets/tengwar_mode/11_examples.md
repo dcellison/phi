@@ -111,25 +111,25 @@ tree beautiful COORD large be.
 ```
 
 ```
-shia shola mia wepu sholo to haolu.
+shia sha mia wepu sho to haolu.
 3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE PST speak.
 (They said, "I am leaving.")
 ```
 
 ```
-mia mena shia to wepu meno sano.
+mia tha shia to wepu tho sano.
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE know.
 (I know that they left.)
 ```
 
 ```
-rena mia to theo shelu mioru nai.
+wha mia to theo shelu mioru nai.
 REL 1SG PST read book beautiful be.
 (The book that I read is beautiful.)
 ```
 
 ```
-rena shia to kealo nophi mioru nai.
+wha shia to kealo nophi mioru nai.
 REL 3SG PST create story beautiful be.
 (The story that they created is beautiful.)
 ```

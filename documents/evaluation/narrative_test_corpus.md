@@ -31,7 +31,7 @@ phao nia ponu manolu. phao sheru haolu.
 parent ON door stay. parent slow speak.
 (The parent stays against the door. The parent speaks slowly.)
 
-phao mena tenoa nia raelu phelasi nai meno sherewa.
+phao tha tenoa nia raelu phelasi nai tho sherewa.
 parent DECL.COMP tool ON tall shelf be DECL.COMP.CLOSE claim.
 (The parent claims that the tool is on the high shelf.)
 
@@ -67,7 +67,7 @@ The passage holds together and none of it is ungrammatical, which is the first u
 - **Reaching is a moved arm.** `kau phelasi pelio roke` describes the arm's motion accurately and loses the purpose that makes it reaching, which is the attempt to touch or take something not yet within grasp.
 - **Following is adequate as it stands.** `noe phao to wepu` says the apprentice went behind the parent, which is what following looks like from outside. It leaves the dependence of one path on the other unstated, so a dedicated root would add little.
 - **Abruptness has no expression.** The lantern going out is the passage's one sudden event and it is written as an ordinary change of state, `nuelo to kelu`, indistinguishable from the light fading over an hour. `te` marks that a state ceased and leaves its speed open. This is the gap that most affects narrative, because a story turns on its surprises and interruptions, and Phi currently narrates them at the same pace as everything else.
-- **Manner and nesting behaved.** `maeli thalo` and `sheru haolu` sat where P24 says they sit. One `mena` clause reported a claim without difficulty. Neither is a limitation, and an earlier impression that both were weak points is not supported here.
+- **Manner and nesting behaved.** `maeli thalo` and `sheru haolu` sat where P24 says they sit. One `tha` clause reported a claim without difficulty. Neither is a limitation, and an earlier impression that both were weak points is not supported here.
 
 ## 2. The same room, after the coinage
 
@@ -150,7 +150,7 @@ melu nela mia mua womu shareo.
 friend COORD 1SG LOC home discuss.
 (The friend and I are discussing at home.)
 
-melu shola lo mia so wepu sholo haolu.
+melu sha lo mia so wepu sho haolu.
 friend QUOT.COMP PL 1SG FUT go QUOT.COMP.CLOSE speak.
 (The friend says: "We will go.")
 
@@ -158,11 +158,11 @@ hao. mia ha ma hea.
 pardon. 1SG PROX NEG hear.
 (Pardon? I did not hear that.)
 
-melu ki nosheku. shorela melu shola lo mia so ma wepu sholo haolu.
+melu ki nosheku. shorela melu sha lo mia so ma wepu sho haolu.
 friend PFV retract. REPH friend QUOT.COMP PL 1SG FUT NEG go QUOT.COMP.CLOSE speak.
 (The friend took it back. In other words, the friend says: "We will not go.")
 
-mia wela melu hina reo welo thilou.
+mia pha melu hina reo pho thilou.
 1SG INT.COMP friend what meaning INT.COMP.CLOSE inquire.
 (I ask what the friend means.)
 
@@ -197,8 +197,8 @@ Repair turns out to be the best-supported thing in this corpus. `hao` asks for a
 
 - **Interruption cannot be said as one act.** The passage has to write it as two facts: I speak, and the friend does not finish speaking. Stacking will not help, because Slot 1 puts aspect before voice, so `te ka haolu` makes the causing cease rather than the speaking. A verb for cutting into another's turn would be a real addition, and it is the one thing this passage genuinely could not say.
 - **Repeating has no verb.** `hao` asks for a repetition and nothing performs one. Saying it again, doing it again, and going over a step again all reach for the same missing word, and it is wanted in teaching and procedure as much as in talk.
-- **The quotative frame is doing well under pressure.** Two nested speech reports, one of them corrected mid-passage, stayed legible because `shola` and `sholo` close explicitly. Nothing here argues for a change.
-- **Asking and answering are covered.** `thilou` takes a `wela` frame with an in-situ question word, and `lonae` responds. Neither needed a workaround.
+- **The quotative frame is doing well under pressure.** Two nested speech reports, one of them corrected mid-passage, stayed legible because `sha` and `sho` close explicitly. Nothing here argues for a change.
+- **Asking and answering are covered.** `thilou` takes a `pha` frame with an in-situ question word, and `lonae` responds. Neither needed a workaround.
 
 ## 5. Following instructions
 

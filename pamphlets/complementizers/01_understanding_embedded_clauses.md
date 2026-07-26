@@ -53,9 +53,9 @@ Phi makes all boundaries explicit. Every embedded clause gets both an opener and
 
 | Type | Opener | Closer | Function |
 |------|--------|--------|----------|
-| Declarative | `mena` | `meno` | Embeds statements (that...) |
-| Interrogative | `wela` | `welo` | Embeds questions (whether...) |
-| Quotative | `shola` | `sholo` | Preserves exact words ("...") |
+| Declarative | `tha` | `tho` | Embeds statements (that...) |
+| Interrogative | `pha` | `pho` | Embeds questions (whether...) |
+| Quotative | `sha` | `sho` | Preserves exact words ("...") |
 
 The opener announces what kind of content follows. The closer marks exactly where that content ends. The main verb then follows the closer, unambiguously.
 
@@ -63,12 +63,12 @@ The opener announces what kind of content follows. The closer marks exactly wher
 **Phi structure:** I [DECL.COMP they left DECL.COMP.CLOSE] understand.
 
 ```
-mia mena shia to wepu meno shelomu
+mia tha shia to wepu tho shelomu
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
 
-The `mena` opens the embedded statement. The `meno` closes it. The main verb `shelomu` follows, and there is no ambiguity about what belongs to the embedded clause versus the main clause.
+The `tha` opens the embedded statement. The `tho` closes it. The main verb `shelomu` follows, and there is no ambiguity about what belongs to the embedded clause versus the main clause.
 
 ## Why closers matter
 
@@ -79,7 +79,7 @@ The answer lies in Phi's word order. Phi is strictly SOV (Subject-Object-Verb), 
 **Without closer (ungrammatical):**
 
 ```
-*mia mena shia to wepu shelomu
+*mia tha shia to wepu shelomu
 1SG DECL.COMP 3SG PST go understand
 ```
 
@@ -88,29 +88,29 @@ Is this "I understand that they left"? Or is it attempting to say something abou
 **With closer (unambiguous):**
 
 ```
-mia mena shia to wepu meno shelomu
+mia tha shia to wepu tho shelomu
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
 
-Now the boundary is explicit. The `meno` says so: the embedded clause has ended. What follows is the main verb.
+Now the boundary is explicit. The `tho` says so: the embedded clause has ended. What follows is the main verb.
 
 This is especially important when clauses nest:
 
 ```
-mia mena thia mena shia to wepu meno phaelo meno shelomu
+mia tha thia tha shia to wepu tho phaelo tho shelomu
 1SG DECL.COMP 2SG DECL.COMP 3SG PST go DECL.COMP.CLOSE feel DECL.COMP.CLOSE understand
 (I understand that you feel that they left.)
 ```
 
-Three verbs in sequence: `wepu`, `phaelo`, `shelomu`. Without the closers, parsing would be impossible. With them, each `meno` resolves exactly one `mena`, like matched parentheses in mathematics.
+Three verbs in sequence: `wepu`, `phaelo`, `shelomu`. Without the closers, parsing would be impossible. With them, each `tho` resolves exactly one `tha`, like matched parentheses in mathematics.
 
 ## The opener-closer pattern
 
 Phi uses a consistent phonetic pattern for complementizer pairs:
 
-- **Openers end in `-a`**: mena, wela, shola
-- **Closers end in `-o`**: meno, welo, sholo
+- **Openers end in `-a`**: tha, pha, sha
+- **Closers end in `-o`**: tho, pho, sho
 
 The vowel shift is not arbitrary decoration. `a` is the openest sound the mouth makes; `o` rounds the lips toward closure. Every time a frame opens or closes, the mouth acts out the boundary: jaw dropped at the opening, lips drawn round and nearly shut at the close. When you hear a complementizer ending in `-a`, something is opening. When you hear the same root ending in `-o`, it just closed.
 
@@ -130,6 +130,6 @@ What these languages share is the recognition that when verbs cluster at clause 
 
 ## Where this leads
 
-The next section explains why the closers exist and why `rena` alone does without one. The three sections after it give each pair its own room, and the rest of the pamphlet turns the system into reflex: nesting, the errors English invites, exercises, and a reference page.
+The next section explains why the closers exist and why `wha` alone does without one. The three sections after it give each pair its own room, and the rest of the pamphlet turns the system into reflex: nesting, the errors English invites, exercises, and a reference page.
 
 None of it is decoration. Every belief you report, every doubt you voice, and every word you repeat for someone absent will pass through one of these frames. A speaker who can open and close them without thinking is free to attend to what actually matters: whose thought is being held, and how carefully.

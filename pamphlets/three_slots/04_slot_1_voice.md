@@ -16,7 +16,7 @@ story PASS create.
 
 The passive omits the actor. This is useful when the actor cannot be identified, when the context has already established that person, or when the present point lies elsewhere. It can also omit information a listener needs. The surrounding question and context decide which situation holds.
 
-Phi also uses passive voice inside relative clauses. `[rena se nila]` means the one who is seen, while `[rena se ma nila]` means the one who is not seen.
+Phi also uses passive voice inside relative clauses. `[wha se nila]` means the one who is seen, while `[wha se ma nila]` means the one who is not seen.
 
 ### `ka`: causative voice
 

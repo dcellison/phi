@@ -23,7 +23,7 @@ PL 3SG INS MANY heart fire PST discuss. PL 3SG loud PST shout.
 (They discussed it with much heart-fire. They shouted loudly.)
 aesop: "While they were disputing with much heat and bluster,"
 
-ta rena laniru miona nia ruela to thalo.
+ta wha laniru miona nia ruela to thalo.
 one REL journey person ON path PST walk.
 (A person on a journey walked on the road.)
 aesop: "a Traveler passed along the road"
@@ -34,33 +34,33 @@ shia roe wethalu to se lomare.
 aesop: "wrapped in a cloak."
 ```
 
-**Notes:** The quarrel takes two ordinary acts: the Wind and Sun discuss the question, then fail to agree. In the next source clause, `korua thero` gives the heat as heart-fire and `theisa kapura` gives the bluster as loud shouting. The boast is already present in what they are shouting about: which one is stronger. `rena laniru miona` describes the Traveler by the journey, and `wethalu` is the general garment word whose range includes a cloak.
+**Notes:** The quarrel takes two ordinary acts: the Wind and Sun discuss the question, then fail to agree. In the next source clause, `korua thero` gives the heat as heart-fire and `theisa kapura` gives the bluster as loud shouting. The boast is already present in what they are shouting about: which one is stronger. `wha laniru miona` describes the Traveler by the journey, and `wethalu` is the general garment word whose range includes a cloak.
 
 ### The wager
 
 ```
-sileta shola su lo mia nawo sholo to haolu.
+sileta sha su lo mia nawo sho to haolu.
 sun QUOT.COMP OPT PL 1SG agree QUOT.COMP.CLOSE PST speak.
 (The Sun said: "May we agree.")
 aesop: "\"Let us agree,\" said the Sun,"
 
-shola rena lue ha laniru miona wethalu po leiro miona mo kema nai sholo to haolu.
+sha wha lue ha laniru miona wethalu po leiro miona mo kema nai sho to haolu.
 QUOT.COMP REL ABL PROX journey person garment POT release person CMPR strong be QUOT.COMP.CLOSE PST speak.
 ("The person who can release the garment from that traveler is stronger.")
 aesop: "\"that he is the stronger who can strip that Traveler of his cloak.\""
 
-nitho howeli shola lia sholo roe keloa haoni to haolu.
+nitho howeli sha lia sho roe keloa haoni to haolu.
 north wind QUOT.COMP yes QUOT.COMP.CLOSE INS rough voice PST speak.
 ("Yes," the North Wind said with a rough voice.)
 aesop: "\"Very well,\" growled the North Wind,"
 
-pheo mu thimu shia wea laniru miona rena kapura pelui kema howeli to sepho.
+pheo mu thimu shia wea laniru miona wha kapura pelui kema howeli to sepho.
 POST zero time 3SG TOWARD journey person REL shout cold strong wind PST send.
 (After no time, it sent a cold, strong wind that roared toward the traveler.)
 aesop: "and at once sent a cold, howling blast against the Traveler."
 ```
 
-**Notes:** The relative clause makes the contestant the direct agent of removing the garment: `lue ... wethalu leiro`, release the garment from the Traveler. Nothing in the line makes the Traveler choose that release. A rough voice composes the growl, while `rena kapura ... howeli` is a wind that roars. `pheo mu thimu`, after no time, gives Aesop's suddenness a literal zero-time phrase without asking the noun `nosa` (now) to act as an adverb.
+**Notes:** The relative clause makes the contestant the direct agent of removing the garment: `lue ... wethalu leiro`, release the garment from the Traveler. Nothing in the line makes the Traveler choose that release. A rough voice composes the growl, while `wha kapura ... howeli` is a wind that roars. `pheo mu thimu`, after no time, gives Aesop's suddenness a literal zero-time phrase without asking the noun `nosa` (now) to act as an adverb.
 
 ### The wind
 
@@ -136,7 +136,7 @@ POST long moment 3SG INTS hot PST become. CONS 3SG REFL garment ABL REFL body PS
 (After a long moment, they became very hot. Therefore they pulled their garment from their body. They released it.)
 aesop: "At last he became so heated that he pulled off his cloak,"
 
-sio ruela ta shiro to whano. lila shia lue rena thape sileta keru loa phesari miona wea muila muo rena shia whelani shiro shomelu miso to wapho.
+sio ruela ta shiro to whano. lila shia lue wha thape sileta keru loa phesari miona wea muila muo wha shia whelani shiro shomelu miso to wapho.
 BESIDE path one tree PST stand. PURP 3SG ABL REL burn sun bright give flee person TOWARD earth INTO REL 3SG welcome tree shadow REFL PST throw.
 (A tree stood beside the road. The person threw themself toward the earth into the tree-shadow that welcomed them in order to flee the Sun's burning gift of brightness.)
 aesop: "and, to escape the blazing sunshine, threw himself down in the welcome shade of a tree by the roadside."
@@ -165,13 +165,13 @@ aesop: "where force and bluster fail."
 ```
 nitho howeli nela sileta
 
-nitho howeli nela sileta sua mo kema nai to shareo. lo shia to ma nawo. lo shia roe sheloi korua thero to shareo. lo shia theisa to kapura. ta rena laniru miona nia ruela to thalo. shia roe wethalu to se lomare.
+nitho howeli nela sileta sua mo kema nai to shareo. lo shia to ma nawo. lo shia roe sheloi korua thero to shareo. lo shia theisa to kapura. ta wha laniru miona nia ruela to thalo. shia roe wethalu to se lomare.
 
-sileta shola su lo mia nawo sholo to haolu. shola rena lue ha laniru miona wethalu po leiro miona mo kema nai sholo to haolu. nitho howeli shola lia sholo roe keloa haoni to haolu. pheo mu thimu shia wea laniru miona rena kapura pelui kema howeli to sepho.
+sileta sha su lo mia nawo sho to haolu. sha wha lue ha laniru miona wethalu po leiro miona mo kema nai sho to haolu. nitho howeli sha lia sho roe keloa haoni to haolu. pheo mu thimu shia wea laniru miona wha kapura pelui kema howeli to sepho.
 
 roe nu ta teku kema howeli lo wethalu shuna roa laniru miona weloni to se wapho. whekai pheo mu thimu shia wethalu miso to noshi ka lomare. howeli mo kema to whesu. miona roa miso wethalu mo noshi to phelu. nitho howeli roe korua thero wethalu to ru kema natu. whekai shia theula mesatu whuo lureko to nai.
 
-pheo thena sileta to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. shia wethalu nia miso talua ralu to ka manolu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso komeri to hewe. pheo laeno shemu shia ru sukaro to kelu. thelao shia miso wethalu lue miso weloni to natu. shia wethalu to leiro. sio ruela ta shiro to whano. lila shia lue rena thape sileta keru loa phesari miona wea muila muo rena shia whelani shiro shomelu miso to wapho.
+pheo thena sileta to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. shia wethalu nia miso talua ralu to ka manolu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso komeri to hewe. pheo laeno shemu shia ru sukaro to kelu. thelao shia miso wethalu lue miso weloni to natu. shia wethalu to leiro. sio ruela ta shiro to whano. lila shia lue wha thape sileta keru loa phesari miona wea muila muo wha shia whelani shiro shomelu miso to wapho.
 
 moli nela phena sharemi porua korei. kawhera nela theisa kapura porua ma korei.
 ```
@@ -182,7 +182,7 @@ moli nela phena sharemi porua korei. kawhera nela theisa kapura porua ma korei.
 |---|---|---|
 | quarrel and disputing | discussion, disagreement, and heart-fire | Phi states the acts and feeling separately rather than using one quarrel root. |
 | heat and bluster | heart-fire and loud shouting | The topic supplies the boast; Phi has no separate bluster word. |
-| Traveler, man, he | `rena laniru miona`, `miona`, `shia` | The role and person survive, while grammatical gender does not. |
+| Traveler, man, he | `wha laniru miona`, `miona`, `shia` | The role and person survive, while grammatical gender does not. |
 | cloak and cap | garment and head-garment | Transparent composition expresses their clothing functions. |
 | strip | release the garment from the Traveler | The removal is direct, though Phi uses its ordinary release verb. |
 | growled and howling | rough-voiced speech and a wind that roars | Each sound is described through an existing voice or vocalization word. |
@@ -221,7 +221,7 @@ PL 3SG INS MANY fire COORD loud voice PST discuss.
 (They discussed it with much fire and a loud voice.)
 aesop: "While they were disputing with much heat and bluster,"
 
-ta rena laniru miona nia ruela to thalo.
+ta wha laniru miona nia ruela to thalo.
 one REL journey person ON path PST walk.
 (A person on a journey walked on the road.)
 aesop: "a Traveler passed along the road"
@@ -232,22 +232,22 @@ shia roe wethalu to se lomare.
 aesop: "wrapped in a cloak."
 ```
 
-**Notes:** The first departure arrives with the first verb. Phi has no dedicated quarrel word, so `shareo` makes this a discussion. `roe sheloi thero nela theisa haoni` puts the heat and volume where they can be heard; `theisa` reports loudness without treating a loud voice as violent. The bare content question `sua mo kema nai` sits inside the discussion. The Traveler is `rena laniru miona`, a person who journeys, and the passive `lomare` turns the cloak into a garment whose embrace surrounds them.
+**Notes:** The first departure arrives with the first verb. Phi has no dedicated quarrel word, so `shareo` makes this a discussion. `roe sheloi thero nela theisa haoni` puts the heat and volume where they can be heard; `theisa` reports loudness without treating a loud voice as violent. The bare content question `sua mo kema nai` sits inside the discussion. The Traveler is `wha laniru miona`, a person who journeys, and the passive `lomare` turns the cloak into a garment whose embrace surrounds them.
 
 ### nawo — The wager
 
 ```
-sileta shola su lo mia nawo sholo to haolu.
+sileta sha su lo mia nawo sho to haolu.
 sun QUOT.COMP OPT PL 1SG agree QUOT.COMP.CLOSE PST speak.
 (The Sun said: "May we agree.")
 aesop: "\"Let us agree,\" said the Sun,"
 
-shola rena ha laniru miona wethalu ka po leiro miona mo kema nai sholo to haolu.
+sha wha ha laniru miona wethalu ka po leiro miona mo kema nai sho to haolu.
 QUOT.COMP REL PROX journey person garment CAUS POT release person CMPR strong be QUOT.COMP.CLOSE PST speak.
 ("The person who can cause that traveler to release the garment is stronger.")
 aesop: "\"that he is the stronger who can strip that Traveler of his cloak.\""
 
-nitho howeli shola lia sholo roe keloa haoni to haolu.
+nitho howeli sha lia sho roe keloa haoni to haolu.
 north wind QUOT.COMP yes QUOT.COMP.CLOSE INS rough voice PST speak.
 ("Yes," the North Wind said with a rough voice.)
 aesop: "\"Very well,\" growled the North Wind,"
@@ -334,7 +334,7 @@ POST long moment 3SG INTS hot PST become. CONS 3SG REFL garment PST release.
 (After a long moment, they became very hot. Therefore they released their garment.)
 aesop: "At last he became so heated that he pulled off his cloak,"
 
-sio ruela ta shiro to whano. lila shia lue rena thape sileta keru loa phesari miona muo rena whelani shomelu to reshi ruemi.
+sio ruela ta shiro to whano. lila shia lue wha thape sileta keru loa phesari miona muo wha whelani shomelu to reshi ruemi.
 BESIDE path one tree PST stand. PURP 3SG ABL REL burn sun bright give flee person INTO REL welcome shadow PST fast lie down.
 (A tree stood beside the road. The person quickly lay down in welcoming shadow in order to flee the Sun's burning gift of brightness.)
 aesop: "and, to escape the blazing sunshine, threw himself down in the welcome shade of a tree by the roadside."
@@ -365,13 +365,13 @@ aesop: "where force and bluster fail."
 ```
 nitho howeli nela sileta
 
-nitho howeli nela sileta sua mo kema nai to shareo. lo shia roe sheloi thero nela theisa haoni to shareo. ta rena laniru miona nia ruela to thalo. shia roe wethalu to se lomare.
+nitho howeli nela sileta sua mo kema nai to shareo. lo shia roe sheloi thero nela theisa haoni to shareo. ta wha laniru miona nia ruela to thalo. shia roe wethalu to se lomare.
 
-sileta shola su lo mia nawo sholo to haolu. shola rena ha laniru miona wethalu ka po leiro miona mo kema nai sholo to haolu. nitho howeli shola lia sholo roe keloa haoni to haolu. shia wea laniru miona ta pelui theisa howeli to reshi sepho.
+sileta sha su lo mia nawo sho to haolu. sha wha ha laniru miona wethalu ka po leiro miona mo kema nai sho to haolu. nitho howeli sha lia sho roe keloa haoni to haolu. shia wea laniru miona ta pelui theisa howeli to reshi sepho.
 
 roe nu ta howeli lo wethalu shuna roa laniru miona weloni to tiripe. whekai shia roa miso wethalu to reshi noshi phelu. howeli mo kema to whesu. miona roa miso wethalu mo noshi to phelu. nitho howeli roe korua thero wethalu to natu. whekai shia theula mesatu whuo lureko to nai.
 
-pheo thena sileta to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. shia wethalu nia miso talua to ma noshi phelu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso komeri to hewe. pheo laeno shemu shia ru sukaro to kelu. thelao shia miso wethalu to leiro. sio ruela ta shiro to whano. lila shia lue rena thape sileta keru loa phesari miona muo rena whelani shomelu to reshi ruemi.
+pheo thena sileta to pa keru loa. mua thorui shia keru loa moli to nai. pheo nitho howeli puko pelui welao sulae to shua. laniru miona wethalu to phae. shia wethalu nia miso talua to ma noshi phelu. sileta keru loa mo sulae to kelu. shia mo sulae to kelu. miona miso koma wethalu to leiro. shia miso komeri to hewe. pheo laeno shemu shia ru sukaro to kelu. thelao shia miso wethalu to leiro. sio ruela ta shiro to whano. lila shia lue wha thape sileta keru loa phesari miona muo wha whelani shomelu to reshi ruemi.
 
 moli nela phena haolu welao lureko thola. keloa haolu nela kawhera pholeni thola.
 ```
@@ -384,7 +384,7 @@ moli nela phena haolu welao lureko thola. keloa haolu nela kawhera pholeni thola
 |---|---|---|
 | quarrel and disputing | `shareo`, with fire and a loud voice | The conflict becomes discussion; its heat and volume remain observable. |
 | which one was stronger | `sua mo kema nai` | A bare content question sits inside the past discussion. |
-| Traveler | `rena laniru miona` | A title becomes a person described by the journey. |
+| Traveler | `wha laniru miona` | A title becomes a person described by the journey. |
 | cloak | `wethalu`, worn through passive `lomare` | The garment embraces the Traveler rather than merely wrapping them. |
 | Let us agree | optative `su` with `nawo` | The Sun proposes shared agreement, though only the Sun and Wind take part. |
 | strip the Traveler | causative potential `ka po leiro` | Stripping becomes causing the Traveler to release the garment. |

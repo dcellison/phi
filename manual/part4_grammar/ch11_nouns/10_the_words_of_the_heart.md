@@ -68,7 +68,7 @@ Several other feelings keep their parts visible. Anger is *korua thero*, heart-f
 Wonder needs no compound at all, because wonder is a question held as a feeling, and Phi can put a whole question inside *phaelo*:
 
 ```
-mia wela lopia nulae welo phaelo.
+mia pha lopia nulae pho phaelo.
 1SG INT.COMP child sleep INT.COMP.CLOSE feel.
 (I wonder whether the child sleeps.)
 ```

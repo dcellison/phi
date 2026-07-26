@@ -20,7 +20,7 @@ Canon phrases the wider rule this way: a silent mark is justified only where no 
 |---|---|
 | `?` after a yes-or-no question | `wa` before the proposition |
 | `?` after a content question | a gap-word in the answer's position |
-| quotation marks around exact speech | `shola ... sholo` around exact grammatical Phi wording |
+| quotation marks around exact speech | `sha ... sho` around exact grammatical Phi wording |
 | a comma around direct address | a separate `kona` phrase |
 | capitals on names | `ne` before a Phi-form proper designation in the neutral register |
 | commas at clause boundaries | the particular relator, closer, conjunction, or sentence boundary required by the construction |
@@ -45,7 +45,7 @@ For each line, identify the form that tells you how to parse it. Then give a nat
 1. wa lo thia so shua.
 2. kona ne sulae. whelani.
 3. lu pheralu lepa. lo mia mua womu meilo.
-4. ne thinoe shola muila theula howela sholo to haolu.
+4. ne thinoe sha muila theula howela sho to haolu.
 ```
 
-Answers: 1. `wa` makes a direct yes-or-no question: "Will you all come?" 2. `kona` marks direct address and `ne` marks sulae as a name: "sulae, welcome." Phi's project convention keeps the Phi name lowercase even in English narration. 3. `lu` opens a condition that ends with its own period: "If rain falls, we sit at home." 4. `ne` identifies thinoe as the speaker's name, while `shola ... sholo` bounds her exact Phi words: "thinoe said, 'The earth receives all.'"
+Answers: 1. `wa` makes a direct yes-or-no question: "Will you all come?" 2. `kona` marks direct address and `ne` marks sulae as a name: "sulae, welcome." Phi's project convention keeps the Phi name lowercase even in English narration. 3. `lu` opens a condition that ends with its own period: "If rain falls, we sit at home." 4. `ne` identifies thinoe as the speaker's name, while `sha ... sho` bounds her exact Phi words: "thinoe said, 'The earth receives all.'"

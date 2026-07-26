@@ -43,7 +43,7 @@ Phi's answer is built, not promised. The pillars are documented in the open, the
 The manifesto's prose ends on the best three sentences the movement has written about itself: "We're no longer overlords. We're caretakers. We're gardeners." On Phi's shelf, that proposition reads:
 
 ```
-lo mia lo theluo nai. lo mia lo rena thepalu temoe miona nai.
+lo mia lo theluo nai. lo mia lo wha thepalu temoe miona nai.
 PL 1SG PL steward be. PL 1SG PL REL garden tend person be.
 (We are stewards. We are people who tend gardens.)
 ```

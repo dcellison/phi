@@ -43,7 +43,7 @@ Every Phi `s` carries a tehta, because every Phi syllable is open. The mode writ
 | word separator | a raised dot, optional; plain spacing suffices |
 | period | the tengwar double pusta |
 
-No other punctuation exists in any mode of writing Phi. What English marks silently, Phi speaks: `wa` (question), `shola`/`sholo` (quotation), `kona` (comma of address), `ne` (the capital a name would carry).
+No other punctuation exists in any mode of writing Phi. What English marks silently, Phi speaks: `wa` (question), `sha`/`sho` (quotation), `kona` (comma of address), `ne` (the capital a name would carry).
 
 ### Vocabulary of this pamphlet
 

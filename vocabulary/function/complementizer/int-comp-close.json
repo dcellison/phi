@@ -1,22 +1,21 @@
 {
-  "word": "welo",
+  "word": "pho",
   "gloss": "INT.COMP.CLOSE",
-  "ipa": "/ˈwe̞.lo̞/",
+  "ipa": "/ˈɸo̞/",
   "syllables": [
-    "we",
-    "lo"
+    "pho"
   ],
   "pos": "complementizer",
   "search_terms": [
     "whether clause closer",
     "embedded question boundary"
   ],
-  "description": "At 'welo', a binary question begun by 'wela' (INT.COMP) ends before the surrounding predicate continues. The uncertainty may remain unresolved because the word completes a grammatical frame, not an answer.",
-  "articulatory_notes": "Shape 'w' by rounding the lips while raising the tongue dorsum, then draw them apart and advance the tongue for middle-height 'e'. To form 'l', the blade touches the alveolar area; voiced air exits laterally, and the lips return to 'o', rounded at the back. Accent 'we'.",
-  "usage_notes": "'welo' pairs only with 'wela' and cannot be replaced by a pause. In a nested sentence, it resolves the nearest unmatched 'wela' before the outer structure continues.",
+  "description": "At 'pho', a binary question begun by 'pha' (INT.COMP) ends before the surrounding predicate continues. The uncertainty may remain unresolved because the word completes a grammatical frame, not an answer.",
+  "articulatory_notes": "The lips come near each other without closing, and unvoiced air passes through the narrow gap for 'ph'. They then round instead of spreading, the tongue retracts, and voicing carries mid back 'o'. One stressed syllable that finishes with the mouth close to where it began.",
+  "usage_notes": "'pho' pairs only with 'pha' and cannot be replaced by a pause. In a nested sentence, it resolves the nearest unmatched 'pha' before the outer structure continues.",
   "examples": [
     {
-      "phi": "shia wela mia so kamo welo ma sano.",
+      "phi": "shia pha mia so kamo pho ma sano.",
       "translation": "They do not know whether I will arrive."
     }
   ]

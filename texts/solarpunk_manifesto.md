@@ -35,7 +35,7 @@ solarpunk: "The aesthetics of solarpunk merge the practical with the beautiful, 
 ### Hope amid calamity
 
 ```
-ha moenu mioru wireo weni po nai. shia li wiroa po nai. sola shia wea mo welao muila lo rena miona meloa keiro po theama. thona shia mawha peloma wireo weni nai. lao muila lo pukea nela lo kipona phelu lo mia lo keiro phelona. li lo pukea shanewi henoi ma nai.
+ha moenu mioru wireo weni po nai. shia li wiroa po nai. sola shia wea mo welao muila lo wha miona meloa keiro po theama. thona shia mawha peloma wireo weni nai. lao muila lo pukea nela lo kipona phelu lo mia lo keiro phelona. li lo pukea shanewi henoi ma nai.
 PROX culture beautiful future imagine POT be. 3SG RESTR hopeful POT be. DISJ 3SG TOWARD CMPR good earth PL REL person persevere way POT care. ADVRS 3SG NONE harmful future imagine be. BECAUSE earth PL danger COORD PL pain hold PL 1SG PL way require. RESTR PL danger notify ENOUGH NEG be.
 (This culture can imagine a beautiful future. It can be simply hopeful, or it can care about the ways people persevere toward a better world, but it is no imagining of a harmful future. Because the world holds dangers and pain, we need ways forward. Warnings of danger alone are not enough.)
 solarpunk: "Solarpunk can be utopian, just optimistic, or concerned with the struggles en route to a better world ,  but never dystopian. As our world roils with calamity, we need solutions, not only warnings."
@@ -46,7 +46,7 @@ solarpunk: "Solarpunk can be utopian, just optimistic, or concerned with the str
 ### What the solutions must do
 
 ```
-ha lo keiro ha lo porua phelu. lo mia whuo lo rena lue tholua lioru se phelure kenua welira. lu lo panuri henoi ma nai. lo mia lo shia thua phanuli. lu lo panuri lorua nai. lo mia lo shia phowe. lo mia li lo telua sherewa shaweri. lo mia wei wiso nela wei rena lo mia phowe muila mo phena phoa.
+ha lo keiro ha lo porua phelu. lo mia whuo lo wha lue tholua lioru se phelure kenua welira. lu lo panuri henoi ma nai. lo mia lo shia thua phanuli. lu lo panuri lorua nai. lo mia lo shia phowe. lo mia li lo telua sherewa shaweri. lo mia wei wiso nela wei wha lo mia phowe muila mo phena phoa.
 PROX PL way PROX PL purpose hold. PL 1SG WITHOUT PL REL ABL ancient life PASS store energy thrive. COND PL resource ENOUGH NEG be. PL 1SG PL 3SG fair allocate. COND PL resource abundant be. PL 1SG PL 3SG share. PL 1SG RESTR PL accurate claim advocate. PL 1SG DAT RECP COORD DAT REL PL 1SG share earth CMPR kind do.
 (These ways have these purposes. We thrive without energy stored from ancient life. If resources are not enough, we allocate them fairly. If resources are abundant, we share them. We advocate only accurate claims. We act more kindly toward one another and toward Earth, which we share.)
 solarpunk: "Solutions to thrive without fossil fuels, to equitably manage real scarcity and share in abundance instead of supporting false scarcity and false abundance, to be kinder to each other and to the planet we share."
@@ -57,13 +57,13 @@ solarpunk: "Solutions to thrive without fossil fuels, to equitably manage real s
 ### Four things at once
 
 ```
-ha moenu wireo lunai nela phenui whakeru nela liona keiro nela lo rena se po phoa repora nai.
+ha moenu wireo lunai nela phenui whakeru nela liona keiro nela lo wha se po phoa repora nai.
 PROX culture future vision COORD thoughtful object COORD live way COORD PL REL PASS POT do propose be.
 (This culture is a vision of the future, a thoughtful objection, a way of living, and proposals that can be carried out.)
 solarpunk: "Solarpunk is at once a vision of the future, a thoughtful provocation, a way of living and a set of achievable proposals to get there."
 ```
 
-**Notes:** `whakeru` is an objection raised for consideration, narrower and less theatrical than provocation. The passive possibility in `rena se po phoa repora` makes the proposals achievable rather than merely attractive.
+**Notes:** `whakeru` is an objection raised for consideration, narrower and less theatrical than provocation. The passive possibility in `wha se po phoa repora` makes the proposals achievable rather than merely attractive.
 
 ---
 
@@ -72,7 +72,7 @@ solarpunk: "Solarpunk is at once a vision of the future, a thoughtful provocatio
 ### 1. Taking hope back
 
 ```
-lao lue lo mia wiroa to se pilu lo mia ha moenu wemari nai. lo mia mena lo mia ha wiroa talome meno mesatu.
+lao lue lo mia wiroa to se pilu lo mia ha moenu wemari nai. lo mia tha lo mia ha wiroa talome tho mesatu.
 BECAUSE ABL PL 1SG hopeful PST PASS take PL 1SG PROX culture member be. PL 1SG DECL.COMP PL 1SG PROX hopeful restore DECL.COMP.CLOSE try.
 (We are members of this culture because hopefulness was taken from us. We try to restore it.)
 solarpunk: "We are solarpunks because optimism has been taken away from us and we are trying to take it back."
@@ -94,7 +94,7 @@ solarpunk: "We are solarpunks because the only other options are denial or despa
 ### 3. The future at its core
 
 ```
-ha moenu korua wireo lunai nai. shia mo ko welao rena theula miona po phoa thena weni. mua ha wireo lo panuri henoi nai. lo karami noa raelu nela mulu ma nai. phenori wei miona pilora karami ma loa. theula miona miso phea woeli lioru monaki nila. lo rena pesenu ma phoa kenua sephori. lo rena lue tholua lioru se phelure kenua te se sephori.
+ha moenu korua wireo lunai nai. shia mo ko welao wha theula miona po phoa thena weni. mua ha wireo lo panuri henoi nai. lo karami noa raelu nela mulu ma nai. phenori wei miona pilora karami ma loa. theula miona miso phea woeli lioru monaki nila. lo wha pesenu ma phoa kenua sephori. lo wha lue tholua lioru se phelure kenua te se sephori.
 PROX culture heart future vision be. 3SG CMPR FOC good REL UNIV person POT do thing imagine. LOC PROX future PL resource ENOUGH be. PL authority position tall COORD low NEG be. ownership DAT person exploit authority NEG give. UNIV person REFL AS natural life component see. PL REL pollute NEG do energy supply. PL REL ABL ancient life PASS store energy CESS PASS supply.
 (At this culture's heart is a vision of the future. It imagines the best that all people can do. In this future, resources are enough, authority is not arranged in high and low positions, and ownership gives no one authority to exploit. All people see themselves as components of natural life. Energy that does not pollute is supplied, and energy stored from ancient life ceases to be supplied.)
 solarpunk: "At its core, Solarpunk is a vision of a future that embodies the best of what humanity can achieve: a post-scarcity, post-hierarchy, post-capitalistic world where humanity sees itself as part of nature and clean energy replaces fossil fuels."
@@ -105,7 +105,7 @@ solarpunk: "At its core, Solarpunk is a vision of a future that embodies the bes
 ### 4. The punk direction
 
 ```
-ha moenu phiora lo punoki karami naweri. shia lue rena phenori pilora ka kelu punoa wepu. shia lue rena woe lo punoki karami phelu punoa wepu. shia rashowe nela kesu nai. shia wea phirae ruela wepu. shelami miona ruela wea rena lo miona mo sukima ka phaelo keiro si helui.
+ha moenu phiora lo punoki karami naweri. shia lue wha phenori pilora ka kelu punoa wepu. shia lue wha woe lo punoki karami phelu punoa wepu. shia rashowe nela kesu nai. shia wea phirae ruela wepu. shelami miona ruela wea wha lo miona mo sukima ka phaelo keiro si helui.
 PROX culture spirit PL institution authority refuse. 3SG ABL REL ownership exploit CAUS become society go. 3SG ABL REL FAR PL institution authority hold society go. 3SG excited COORD determined be. 3SG TOWARD different path go. MOST person path TOWARD REL PL person CMPR fear CAUS feel way IPFV change.
 (This culture's spirit refuses institutional authority. It leaves a society in which ownership causes exploitation, and it leaves a society in which distant institutions hold authority. It is excited and determined. It goes toward a different path while the path of most people is changing toward a way that makes people feel more fear.)
 solarpunk: "The “punk” in Solarpunk is about rebellion, counterculture, post-capitalism, decolonialism and enthusiasm. It is about going in a different direction than the mainstream, which is increasingly going in a scary direction."
@@ -138,7 +138,7 @@ solarpunk: "Solarpunk embraces a diversity of tactics: there is no single right 
 ### 7. A possible future
 
 ```
-ha moenu newu rolia nila nela reteru nela lo phelui loa. roe ha lo thena miona ta rena po nai wireo thelima. shia luera wireo weni ma lomare. shia li wireo nila. shia ma phirae wireo nai. shia rena po nai wireo nai.
+ha moenu newu rolia nila nela reteru nela lo phelui loa. roe ha lo thena miona ta wha po nai wireo thelima. shia luera wireo weni ma lomare. shia li wireo nila. shia ma phirae wireo nai. shia wha po nai wireo nai.
 PROX culture new worth see COORD model COORD PL word give. INS PROX PL thing person one REL POT be future describe. 3SG past future imagine NEG embrace. 3SG RESTR future see. 3SG NEG different future be. 3SG REL POT be future be.
 (This culture gives a new way of seeing that has worth, a model, and words. With these things, a person can describe one possible future. It does not embrace past imagining of the future. It looks only to the future. It is not a different future. It is a future that may be.)
 solarpunk: "Solarpunk provides a valuable new perspective, a paradigm and a vocabulary through which to describe one possible future. Instead of embracing retrofuturism, solarpunk looks completely to the future. Not an alternative future, but a possible future."
@@ -149,7 +149,7 @@ solarpunk: "Solarpunk provides a valuable new perspective, a paradigm and a voca
 ### 8. What this futurism values
 
 ```
-lo mia wireo weni theula rolia nela soliru ma naweri. shia lue rena wea luera karami po shua keiro wepu. shia phisoe thesani nela kealo nela ralemi nela sila sone.
+lo mia wireo weni theula rolia nela soliru ma naweri. shia lue wha wea luera karami po shua keiro wepu. shia phisoe thesani nela kealo nela ralemi nela sila sone.
 PL 1SG future imagine UNIV worth COORD hope NEG refuse. 3SG ABL REL TOWARD past authority POT come way go. 3SG creative skill COORD create COORD independent COORD community value.
 (Our future-imagining does not refuse all worth and hope. It goes away from a path that may lead toward past authority. It values creative skill, creation, independence, and community.)
 solarpunk: "Our futurism is not nihilistic like cyberpunk and it avoids steampunk’s potentially quasi-reactionary tendencies: it is about ingenuity, generativity, independence, and community."
@@ -182,7 +182,7 @@ solarpunk: "Solarpunk is about finding ways to make life more wonderful for us r
 ### 11. Old things, new purposes
 
 ```
-mua lo mia wireo lo mia lo serao thena wei lo newu porua na loa. lo mia lue lo rena lo mia phelu thena lo newu thena na kealo. no weni. lo rena lo keli ketora terura phelu silawo whemori kelu. lo mia lo rena lo terura shelomu miona ko sone.
+mua lo mia wireo lo mia lo serao thena wei lo newu porua na loa. lo mia lue lo wha lo mia phelu thena lo newu thena na kealo. no weni. lo wha lo keli ketora terura phelu silawo whemori kelu. lo mia lo wha lo terura shelomu miona ko sone.
 LOC PL 1SG future PL 1SG PL old thing DAT PL new purpose NEC give. PL 1SG ABL PL REL PL 1SG hold thing PL new thing NEC create. IMP imagine. PL REL PL device control system hold village waste become. PL 1SG PL REL PL system understand person FOC value.
 (In our future, we must give old things new purposes. We must create new things from what we already hold. Imagine settlements with device-control systems becoming waste. We especially value people who understand systems.)
 solarpunk: "Our future must involve repurposing and creating new things from what we already have. Imagine “smart cities” being junked in favor of smart citizenry."
@@ -193,7 +193,7 @@ solarpunk: "Our future must involve repurposing and creating new things from wha
 ### 12. Politics and science fiction
 
 ```
-ha moenu mena sui luera kowanu nela lo thesori somaki sano weni nophi wiso to ka helui meno miratu.
+ha moenu tha sui luera kowanu nela lo thesori somaki sano weni nophi wiso to ka helui tho miratu.
 PROX culture DECL.COMP DUR past governance COORD PL evidence test know imagine story RECP PST CAUS change DECL.COMP.CLOSE recognize.
 (This culture recognizes that throughout the past, governance and stories imagining knowledge made through evidence and testing caused one another to change.)
 solarpunk: "Solarpunk recognizes the historical influence politics and science fiction have had on each other."
@@ -215,7 +215,7 @@ solarpunk: "Solarpunk recognizes science fiction as not just entertainment but a
 ### 14. Three futures refused
 
 ```
-ha moenu mena shia ta shao wireo weni naweri meno rinu. mua ta weni muila sheru lumeo. nu wi weni thei lo sheloi panuri phelu miona nela lo phina panuri phelu miona ta rena se po ma phae kopharu phelu. mua nu ta shao weni lo phenori phelu punoki punoa karami phelu. ha porua woe wireo ma nai. lo mia shia po ruweli.
+ha moenu tha shia ta shao wireo weni naweri tho rinu. mua ta weni muila sheru lumeo. nu wi weni thei lo sheloi panuri phelu miona nela lo phina panuri phelu miona ta wha se po ma phae kopharu phelu. mua nu ta shao weni lo phenori phelu punoki punoa karami phelu. ha porua woe wireo ma nai. lo mia shia po ruweli.
 PROX culture DECL.COMP 3SG one three-group future imagine refuse DECL.COMP.CLOSE want. LOC one imagine earth slow die. ORD two imagine BETWEEN PL MANY resource hold person COORD PL FEW resource hold person one REL PASS POT NEG open barrier hold. LOC ORD one three-group imagine PL ownership hold institution society authority hold. PROX purpose FAR future NEG be. PL 1SG 3SG POT access.
 (This culture wants to refuse three imagined futures. In one imagining, Earth slowly dies. The second holds a barrier between people with many resources and people with few, a barrier that cannot be opened. In the third imagining, institutions with ownership hold authority over society. This purpose is not in the distant future. We can reach it.)
 solarpunk: "Solarpunk wants to counter the scenarios of a dying earth, an insuperable gap between rich and poor, and a society controlled by corporations. Not in hundreds of years, but within reach."
@@ -259,7 +259,7 @@ solarpunk: "Solarpunk is the idea of humanity achieving a social evolution that 
 ### 18. An open and evolving aesthetic
 
 ```
-ha moenu rena se nila senalu lo newu thena po pharune. shia si molei. mua nosa shia ha lo keiro nuawe shemoli.
+ha moenu wha se nila senalu lo newu thena po pharune. shia si molei. mua nosa shia ha lo keiro nuawe shemoli.
 PROX culture REL PASS see style PL new thing POT include. 3SG IPFV evolve. LOC now 3SG PROX PL way together harmonize.
 (This culture's visible style can include new things. It is evolving. At present it harmonizes the following ways together.)
 solarpunk: "The visual aesthetics of Solarpunk are open and evolving. As it stands, it is a mash-up of the following:"
@@ -301,14 +301,14 @@ solarpunk: "Hayao Miyazaki"
 ```
 
 ```
-lo rena nua phina panuri phisoe phoa norae lue lo phirae muila sila shua.
+lo wha nua phina panuri phisoe phoa norae lue lo phirae muila sila shua.
 PL REL COM FEW resource creative do method ABL PL different earth community come.
 (Methods from different communities of the world that act creatively with few resources.)
 solarpunk: "Jugaad-style innovation from the non-Western world"
 ```
 
 ```
-lo rena nulo ruka keli monaki phelu terura lo siloma phiro thirulo phelu.
+lo wha nulo ruka keli monaki phelu terura lo siloma phiro thirulo phelu.
 PL REL deep complex device component hold system PL simple elegant output hold.
 (Systems that hold deep, complex device components have simple, elegant outputs.)
 solarpunk: "High-tech backends with simple, elegant outputs"
@@ -330,7 +330,7 @@ solarpunk: "Solarpunk is set in a future built according to principles of New Ur
 ### 20. Built places and the sun
 
 ```
-ha moenu lo rena lo miona lorima lokue weni. lila lo lokue sileta kenua ruweli lo miona roe lo phirae keli nela norae lo shia phisoe hinolu. lo miona wei lo phirae porua lo shia we hinolu. porua ha nai. lo sila miso thenoki. lo shia mua woeli henora liona.
+ha moenu lo wha lo miona lorima lokue weni. lila lo lokue sileta kenua ruweli lo miona roe lo phirae keli nela norae lo shia phisoe hinolu. lo miona wei lo phirae porua lo shia we hinolu. porua ha nai. lo sila miso thenoki. lo shia mua woeli henora liona.
 PROX culture PL REL PL person build place imagine. PURP PL place sun energy access PL person INS PL different device COORD method PL 3SG creative adapt. PL person DAT PL different purpose PL 3SG ALSO adapt. purpose PROX be. PL community REFL sustain. PL 3SG LOC natural capacity live.
 (This culture imagines places people have built. So that the places can access solar energy, people creatively adapt them with different devices and methods. People also adapt them for different purposes. The purpose is this: communities sustain themselves and live within natural capacity.)
 solarpunk: "Solarpunk envisions a built environment creatively adapted for solar gain, amongst other things, using different technologies. The objective is to promote self sufficiency and living within natural limits."
@@ -341,7 +341,7 @@ solarpunk: "Solarpunk envisions a built environment creatively adapted for solar
 ### 21. From overlords to gardeners
 
 ```
-lila lo mia muila te ka sheru lumeo lo mia lue peloma ruela theali thimu to wepu. lo mia lo thesori somaki sano phue phelu. lo mia roe ha sano lo mia liona mo welao ka kelu. lo mia phea muila monaki nai. lo mia muila karami te phelu. lo mia lo theluo nai. lo mia lo rena thepalu temoe miona nai.
+lila lo mia muila te ka sheru lumeo lo mia lue peloma ruela theali thimu to wepu. lo mia lo thesori somaki sano phue phelu. lo mia roe ha sano lo mia liona mo welao ka kelu. lo mia phea muila monaki nai. lo mia muila karami te phelu. lo mia lo theluo nai. lo mia lo wha thepalu temoe miona nai.
 PURP PL 1SG earth CESS CAUS slow die PL 1SG ABL harmful path fitting time PST go. PL 1SG PL evidence test know wise hold. PL 1SG INS PROX know PL 1SG live CMPR good CAUS become. PL 1SG AS earth component be. PL 1SG earth authority CESS hold. PL 1SG PL steward be. PL 1SG PL REL garden tend person be.
 (To make Earth's slow dying cease, we moved from a harmful path at the fitting time. We hold knowledge from evidence and testing wisely. With this knowledge, we make our living better. We are components of Earth. We cease holding authority over Earth. We are stewards. We are people who tend gardens.)
 solarpunk: "In Solarpunk we’ve pulled back just in time to stop the slow destruction of our planet. We’ve learned to use science wisely, for the betterment of our life conditions as part of our planet. We’re no longer overlords. We’re caretakers. We’re gardeners."
@@ -399,39 +399,39 @@ ha sileta kenua wireo moenu lo wireo weni nophi nela shela nela wetha senalu nel
 
 ha moenu senalu towe kelitho nela mioru shemoli. shia towe noporu nela liro pheno thuroa shemoli. shia keru welisha mioru nela phea muila kethua mioru shemoli.
 
-ha moenu mioru wireo weni po nai. shia li wiroa po nai. sola shia wea mo welao muila lo rena miona meloa keiro po theama. thona shia mawha peloma wireo weni nai. lao muila lo pukea nela lo kipona phelu lo mia lo keiro phelona. li lo pukea shanewi henoi ma nai.
+ha moenu mioru wireo weni po nai. shia li wiroa po nai. sola shia wea mo welao muila lo wha miona meloa keiro po theama. thona shia mawha peloma wireo weni nai. lao muila lo pukea nela lo kipona phelu lo mia lo keiro phelona. li lo pukea shanewi henoi ma nai.
 
-ha lo keiro ha lo porua phelu. lo mia whuo lo rena lue tholua lioru se phelure kenua welira. lu lo panuri henoi ma nai. lo mia lo shia thua phanuli. lu lo panuri lorua nai. lo mia lo shia phowe. lo mia li lo telua sherewa shaweri. lo mia wei wiso nela wei rena lo mia phowe muila mo phena phoa.
+ha lo keiro ha lo porua phelu. lo mia whuo lo wha lue tholua lioru se phelure kenua welira. lu lo panuri henoi ma nai. lo mia lo shia thua phanuli. lu lo panuri lorua nai. lo mia lo shia phowe. lo mia li lo telua sherewa shaweri. lo mia wei wiso nela wei wha lo mia phowe muila mo phena phoa.
 
-ha moenu wireo lunai nela phenui whakeru nela liona keiro nela lo rena se po phoa repora nai.
+ha moenu wireo lunai nela phenui whakeru nela liona keiro nela lo wha se po phoa repora nai.
 
-lao lue lo mia wiroa to se pilu lo mia ha moenu wemari nai. lo mia mena lo mia ha wiroa talome meno mesatu.
+lao lue lo mia wiroa to se pilu lo mia ha moenu wemari nai. lo mia tha lo mia ha wiroa talome tho mesatu.
 
 lao li wi keiro ra nai lo mia ha moenu wemari nai. ta keiro theloa naweri. nu wi keiro whuo soliru liona.
 
-ha moenu korua wireo lunai nai. shia mo ko welao rena theula miona po phoa thena weni. mua ha wireo lo panuri henoi nai. lo karami noa raelu nela mulu ma nai. phenori wei miona pilora karami ma loa. theula miona miso phea woeli lioru monaki nila. lo rena pesenu ma phoa kenua sephori. lo rena lue tholua lioru se phelure kenua te se sephori.
+ha moenu korua wireo lunai nai. shia mo ko welao wha theula miona po phoa thena weni. mua ha wireo lo panuri henoi nai. lo karami noa raelu nela mulu ma nai. phenori wei miona pilora karami ma loa. theula miona miso phea woeli lioru monaki nila. lo wha pesenu ma phoa kenua sephori. lo wha lue tholua lioru se phelure kenua te se sephori.
 
-ha moenu phiora lo punoki karami naweri. shia lue rena phenori pilora ka kelu punoa wepu. shia lue rena woe lo punoki karami phelu punoa wepu. shia rashowe nela kesu nai. shia wea phirae ruela wepu. shelami miona ruela wea rena lo miona mo sukima ka phaelo keiro si helui.
+ha moenu phiora lo punoki karami naweri. shia lue wha phenori pilora ka kelu punoa wepu. shia lue wha woe lo punoki karami phelu punoa wepu. shia rashowe nela kesu nai. shia wea phirae ruela wepu. shelami miona ruela wea wha lo miona mo sukima ka phaelo keiro si helui.
 
 ha moenu lo nophi moenu nela sila rinoka kolo nai. shia li lo nophi ma reo. lo mia thela kau ha wireo kamo we shia reo nai.
 
 ha moenu lo phirae norae kelomi. li ta theali keiro ma nai. lo phirae sila mua theula muila ha nomei nela lo remole pilu. lila punoa ru helui lo shia lo miso thenoki thiku womu lorima.
 
-ha moenu newu rolia nila nela reteru nela lo phelui loa. roe ha lo thena miona ta rena po nai wireo thelima. shia luera wireo weni ma lomare. shia li wireo nila. shia ma phirae wireo nai. shia rena po nai wireo nai.
+ha moenu newu rolia nila nela reteru nela lo phelui loa. roe ha lo thena miona ta wha po nai wireo thelima. shia luera wireo weni ma lomare. shia li wireo nila. shia ma phirae wireo nai. shia wha po nai wireo nai.
 
-lo mia wireo weni theula rolia nela soliru ma naweri. shia lue rena wea luera karami po shua keiro wepu. shia phisoe thesani nela kealo nela ralemi nela sila sone.
+lo mia wireo weni theula rolia nela soliru ma naweri. shia lue wha wea luera karami po shua keiro wepu. shia phisoe thesani nela kealo nela ralemi nela sila sone.
 
 ha moenu litero thenoki nela punoa theloma ko sone.
 
 lila lo mia mua nosa lo mia lioru nela lo mia lumira lioru mo waora ka kelu lo mia lo keiro hekawi.
 
-mua lo mia wireo lo mia lo serao thena wei lo newu porua na loa. lo mia lue lo rena lo mia phelu thena lo newu thena na kealo. no weni. lo rena lo keli ketora terura phelu silawo whemori kelu. lo mia lo rena lo terura shelomu miona ko sone.
+mua lo mia wireo lo mia lo serao thena wei lo newu porua na loa. lo mia lue lo wha lo mia phelu thena lo newu thena na kealo. no weni. lo wha lo keli ketora terura phelu silawo whemori kelu. lo mia lo wha lo terura shelomu miona ko sone.
 
-ha moenu mena sui luera kowanu nela lo thesori somaki sano weni nophi wiso to ka helui meno miratu.
+ha moenu tha sui luera kowanu nela lo thesori somaki sano weni nophi wiso to ka helui tho miratu.
 
 lo thesori somaki sano weni nophi li loshi wile ma nai. lo shia we shaweri keiro nai. ha moenu ha lo thena miratu.
 
-ha moenu mena shia ta shao wireo weni naweri meno rinu. mua ta weni muila sheru lumeo. nu wi weni thei lo sheloi panuri phelu miona nela lo phina panuri phelu miona ta rena se po ma phae kopharu phelu. mua nu ta shao weni lo phenori phelu punoki punoa karami phelu. ha porua woe wireo ma nai. lo mia shia po ruweli.
+ha moenu tha shia ta shao wireo weni naweri tho rinu. mua ta weni muila sheru lumeo. nu wi weni thei lo sheloi panuri phelu miona nela lo phina panuri phelu miona ta wha se po ma phae kopharu phelu. mua nu ta shao weni lo phenori phelu punoki punoa karami phelu. ha porua woe wireo ma nai. lo mia shia po ruweli.
 
 ha moenu helia pilewa moenu nela lo pai sila keiro nela lo pai sila thewaki kenua phaliso nela lo miso ketora terura kealo keiro sone. ha lo terura kelitho. shia muila lothea.
 
@@ -439,7 +439,7 @@ ha moenu theula moenu nela theula phiora therema nela theula sowelu miona nela t
 
 ha moenu ta remole phelu. theula miona punoa po molei. ha molei li lo phirae miona ma pharune. shia losha ruesha nela kelomi pharune.
 
-ha moenu rena se nila senalu lo newu thena po pharune. shia si molei. mua nosa shia ha lo keiro nuawe shemoli.
+ha moenu wha se nila senalu lo newu thena po pharune. shia si molei. mua nosa shia ha lo keiro nuawe shemoli.
 
 phora thimu nela norui lokue liona thona nua sheloi wi rolu kolua keli.
 
@@ -451,15 +451,15 @@ shaemu selu sena shela.
 
 ha miona nophi shela.
 
-lo rena nua phina panuri phisoe phoa norae lue lo phirae muila sila shua.
+lo wha nua phina panuri phisoe phoa norae lue lo phirae muila sila shua.
 
-lo rena nulo ruka keli monaki phelu terura lo siloma phiro thirulo phelu.
+lo wha nulo ruka keli monaki phelu terura lo siloma phiro thirulo phelu.
 
 lila lo miona mua lo silawo thalo mua ha wireo lo silawo se noporu nela lorima. lo shia litero thenoki.
 
-ha moenu lo rena lo miona lorima lokue weni. lila lo lokue sileta kenua ruweli lo miona roe lo phirae keli nela norae lo shia phisoe hinolu. lo miona wei lo phirae porua lo shia we hinolu. porua ha nai. lo sila miso thenoki. lo shia mua woeli henora liona.
+ha moenu lo wha lo miona lorima lokue weni. lila lo lokue sileta kenua ruweli lo miona roe lo phirae keli nela norae lo shia phisoe hinolu. lo miona wei lo phirae porua lo shia we hinolu. porua ha nai. lo sila miso thenoki. lo shia mua woeli henora liona.
 
-lila lo mia muila te ka sheru lumeo lo mia lue peloma ruela theali thimu to wepu. lo mia lo thesori somaki sano phue phelu. lo mia roe ha sano lo mia liona mo welao ka kelu. lo mia phea muila monaki nai. lo mia muila karami te phelu. lo mia lo theluo nai. lo mia lo rena thepalu temoe miona nai.
+lila lo mia muila te ka sheru lumeo lo mia lue peloma ruela theali thimu to wepu. lo mia lo thesori somaki sano phue phelu. lo mia roe ha sano lo mia liona mo welao ka kelu. lo mia phea muila monaki nai. lo mia muila karami te phelu. lo mia lo theluo nai. lo mia lo wha thepalu temoe miona nai.
 
 ha moenu ha lo sherewa phelu.
 

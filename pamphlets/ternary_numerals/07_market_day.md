@@ -49,7 +49,7 @@ ta lipha powea nela wi shao ta himo miona phanoi. mu lipha powea kelai. ta lipha
 one LIFE.CLF egg COORD two three-group one HUM.CLF person portion. zero LIFE.CLF egg equals. one LIFE.CLF egg rest. ENOUGH NEG be.
 (One egg divided among seven people results in zero whole eggs for each, with one egg remaining. It is not enough.)
 
-phao seniku. phao shola su lo mia sulopa kealo sholo haolu.
+phao seniku. phao sha su lo mia sulopa kealo sho haolu.
 parent smile. parent QUOT.COMP OPT PL 1SG soup create QUOT.COMP.CLOSE speak.
 (The parent smiles. The parent says: "Let us make soup.")
 ```

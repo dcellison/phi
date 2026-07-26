@@ -166,7 +166,7 @@ Urgency is yet another question. A mild condition can call for immediate action;
 `kithero` is a conclusion drawn by someone, under criteria. It can take a complement clause, so the proposition being concluded stays visible in the sentence.
 
 ```
-shia mena mia ha mokanu phelu meno kithero.
+shia tha mia ha mokanu phelu tho kithero.
 3SG DECL.COMP 1SG PROX disease hold DECL.COMP.CLOSE diagnose.
 (They diagnose that I have this disease.)
 ```

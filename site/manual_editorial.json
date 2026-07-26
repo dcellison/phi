@@ -221,7 +221,7 @@
       "variant": "standard"
     },
     "manual/part3_phonology/ch08_music_of_phi/02_syllable_structure.md": {
-      "shape": "h1,2,2,2;t3x4,3x4;f-;q-;u-;o-;r0",
+      "shape": "h1,2,2,2;t3x4,3x5;f-;q-;u-;o-;r0",
       "variant": "standard"
     },
     "manual/part3_phonology/ch08_music_of_phi/03_penultimate_stress.md": {
@@ -510,7 +510,7 @@
       "shape": "h1,2,2;t-;f3,3;q-;u-;o-;r0",
       "variant": "standard"
     },
-    "manual/part5_complex/ch20_relative_clauses/02_relativizer_rena.md": {
+    "manual/part5_complex/ch20_relative_clauses/02_relativizer_wha.md": {
       "shape": "h1,2,2,2,2;t-;f1,3,3,3,3,3,3;q-;u-;o-;r0",
       "variant": "standard"
     },

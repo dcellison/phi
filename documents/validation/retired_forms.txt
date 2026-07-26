@@ -2,9 +2,16 @@
 # Four-syllable forms need no listing because the lexical ceiling excludes them all.
 hasha
 hasho
+mena
+meno
 patha
 patho
 patore
 phelora
+rena
+shola
+sholo
 sorae
 thaeru
+wela
+welo

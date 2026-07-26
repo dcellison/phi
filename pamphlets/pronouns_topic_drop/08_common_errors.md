@@ -32,11 +32,11 @@ Topic-drop spends credit, and an opening line has none: no subject is establishe
 
 Two referents stand live, and the bare verb leaves the singer to chance. Say the name: `lopia to meliho.` Explicitness here is not heaviness; it is the same care for the listener that allowed the drop while only one candidate stood.
 
-### Error 6: `rena` dropped as if it were a subject
+### Error 6: `wha` dropped as if it were a subject
 
 **Wrong:** `*mia to nila peloru mioru nai.` intended as "the flower that I saw is beautiful."
 
-Dropping an established subject is topic-drop; dropping the relativizer is a different operation, and the grammar does not offer it. Without `rena`, the listener receives content words with no signal that a whole clause is standing in a noun's position. Keep the marker: `rena mia to nila peloru mioru nai.`
+Dropping an established subject is topic-drop; dropping the relativizer is a different operation, and the grammar does not offer it. Without `wha`, the listener receives content words with no signal that a whole clause is standing in a noun's position. Keep the marker: `wha mia to nila peloru mioru nai.`
 
 ### Error 7: the pointing order reversed
 

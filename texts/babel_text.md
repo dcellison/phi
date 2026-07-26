@@ -41,12 +41,12 @@ PL 3SG DAT RECP PST speak.
 (They spoke to one another.)
 kjv: "And they said one to another,"
 
-shola su lo mia lo mueri kerou pilewa. su lo mia lo ha ru thape sholo to haolu.
+sha su lo mia lo mueri kerou pilewa. su lo mia lo ha ru thape sho to haolu.
 QUOT.COMP OPT PL 1SG PL clay stone make. OPT PL 1SG PL PROX INTS burn QUOT.COMP.CLOSE PST speak.
 ("Let us make clay-stones. Let us burn them thoroughly.")
 kjv: "Go to, let us make brick, and burn them thoroughly."
 
-lo mueri kerou wei lo shia kerou to nai. theru nuko loesi wei lo shia rena lo mueri kerou lorea muralo to nai.
+lo mueri kerou wei lo shia kerou to nai. theru nuko loesi wei lo shia wha lo mueri kerou lorea muralo to nai.
 PL clay stone DAT PL 3SG stone PST be. thick black oil DAT PL 3SG REL PL clay stone connect material PST be.
 (Clay-stones were stone for them. Thick black oil was for them material that connects clay-stones.)
 kjv: "And they had brick for stone, and slime had they for morter."
@@ -56,49 +56,49 @@ PL 3SG PST speak.
 (They spoke.)
 kjv: "And they said,"
 
-shola su lo mia wei lo mia whalo silawo nela raelu moru lorima. shia raelu shuna mua waero po kamo. su lo mia nomei se sano sholo to haolu.
+sha su lo mia wei lo mia whalo silawo nela raelu moru lorima. shia raelu shuna mua waero po kamo. su lo mia nomei se sano sho to haolu.
 QUOT.COMP OPT PL 1SG DAT PL 1SG large village COORD tall wall build. 3SG tall edge LOC sky POT arrive. OPT PL 1SG name PASS know QUOT.COMP.CLOSE PST speak.
 ("Let us build a great village and a tall wall for ourselves. Its high edge may reach the sky. May our name be known.")
 kjv: "Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name,"
 
-shola lo mia mena lo mia nia theula muila menoa se thiwera meno ma pula sholo to haolu.
+sha lo mia tha lo mia nia theula muila menoa se thiwera tho ma pula sho to haolu.
 QUOT.COMP PL 1SG DECL.COMP PL 1SG ON UNIV earth face PASS scatter DECL.COMP.CLOSE NEG wish QUOT.COMP.CLOSE PST speak.
 ("We do not wish to be scattered upon the face of the whole earth.")
 kjv: "lest we be scattered abroad upon the face of the whole earth."
 ```
 
-**Notes:** The archaic "Go to" joins "let us" as an exhortation, so the optative `su` carries its force instead of pretending that the builders are telling one another to travel. Brick remains the registered `mueri kerou`, clay-stone. The KJV's "slime" is bitumen, so `theru nuko loesi`, thick black oil, describes the substance and `rena lo mueri kerou lorea muralo`, material that connects clay-stones, describes its work as mortar. The city is a great village. The tower is a tall wall whose `raelu shuna`, high edge, may arrive in the sky. `wei lo mia` restores the repeated benefit "for ourselves," while `lo mia nomei se sano`, may our name be known, carries the builders' wish for renown without turning "make a name" into a second Phi idiom. Phi has no dedicated form for "lest," so the builders state the fear inside the quotation: they do not wish to be scattered.
+**Notes:** The archaic "Go to" joins "let us" as an exhortation, so the optative `su` carries its force instead of pretending that the builders are telling one another to travel. Brick remains the registered `mueri kerou`, clay-stone. The KJV's "slime" is bitumen, so `theru nuko loesi`, thick black oil, describes the substance and `wha lo mueri kerou lorea muralo`, material that connects clay-stones, describes its work as mortar. The city is a great village. The tower is a tall wall whose `raelu shuna`, high edge, may arrive in the sky. `wei lo mia` restores the repeated benefit "for ourselves," while `lo mia nomei se sano`, may our name be known, carries the builders' wish for renown without turning "make a name" into a second Phi idiom. Phi has no dedicated form for "lest," so the builders state the fear inside the quotation: they do not wish to be scattered.
 
 ### Descent and judgment
 
 ```
-lo miona lo lumira ha whalo silawo nela ha raelu moru to lorima. lila ha lo thena nila rena karami phelu thena lue waero to shua.
+lo miona lo lumira ha whalo silawo nela ha raelu moru to lorima. lila ha lo thena nila wha karami phelu thena lue waero to shua.
 PL person PL descendant PROX large village COORD PROX tall wall PST build. PURP PROX PL thing see REL authority hold thing ABL sky PST come.
 (The descendants of people built this great village and this tall wall. In order to see these things, the being who holds authority came from the sky.)
 kjv: "And the LORD came down to see the city and the tower, which the children of men builded."
 
-rena karami phelu thena shola no nila. theula miona ta nai. lo shia ta haluma phelu sholo to haolu.
+wha karami phelu thena sha no nila. theula miona ta nai. lo shia ta haluma phelu sho to haolu.
 REL authority hold thing QUOT.COMP IMP see. UNIV person one be. PL 3SG one language hold QUOT.COMP.CLOSE PST speak.
 (The being who holds authority said: "Look. All people are one. They hold one language.")
 kjv: "And the LORD said, Behold, the people is one, and they have all one language;"
 
-shola lo shia ha pa phoa. nosa wei lo shia mawha rena lo shia phoa ki weni thena noraku so kelu sholo to haolu.
+sha lo shia ha pa phoa. nosa wei lo shia mawha wha lo shia phoa ki weni thena noraku so kelu sho to haolu.
 QUOT.COMP PL 3SG PROX INCH do. now DAT PL 3SG NONE REL PL 3SG do PFV imagine thing blocked FUT become QUOT.COMP.CLOSE PST speak.
 ("They begin to do this. Now, for them, no thing they have imagined doing will become blocked.")
 kjv: "and this they begin to do: and now nothing will be restrained from them, which they have imagined to do."
 ```
 
-**Notes:** The title LORD stays exact in the source line. Inside Phi, `rena karami phelu thena` says only what the title makes practical here: a being who holds authority. It does not call that authority legitimate. Coming from the sky supplies the downward motion that Phi lacks a bare adverb for. "Children of men" becomes ungendered descendants of people, not young children. The quoted `no nila`, look, renders "Behold" as an address to attention. Work-module `noraku`, blocked, gives the last claim its negative shape: none of the actions they have imagined will meet an obstacle that stops it.
+**Notes:** The title LORD stays exact in the source line. Inside Phi, `wha karami phelu thena` says only what the title makes practical here: a being who holds authority. It does not call that authority legitimate. Coming from the sky supplies the downward motion that Phi lacks a bare adverb for. "Children of men" becomes ungendered descendants of people, not young children. The quoted `no nila`, look, renders "Behold" as an address to attention. Work-module `noraku`, blocked, gives the last claim its negative shape: none of the actions they have imagined will meet an obstacle that stops it.
 
 ### Confounding and dispersal
 
 ```
-shia shola su lo mia lue waero kau muila wepu. su lila lo shia lue wiso haolu po ma shelomu lo mia mua ha lokue lo shia haluma kuewa ka kelu sholo to haolu.
+shia sha su lo mia lue waero kau muila wepu. su lila lo shia lue wiso haolu po ma shelomu lo mia mua ha lokue lo shia haluma kuewa ka kelu sho to haolu.
 3SG QUOT.COMP OPT PL 1SG ABL sky ALL earth go. OPT PURP PL 3SG ABL RECP speak POT NEG understand PL 1SG LOC PROX place PL 3SG language strange CAUS become QUOT.COMP.CLOSE PST speak.
 (The being said: "Let us go from the sky to the earth. Let us make their language unfamiliar in this place so that they cannot understand speech from one another.")
 kjv: "Go to, let us go down, and there confound their language, that they may not understand one another's speech."
 
-rena karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera.
+wha karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera.
 REL authority hold thing PL person ABL PROX place ON UNIV earth face PST scatter.
 (The being who holds authority scattered the people from this place upon the face of the whole earth.)
 kjv: "So the LORD scattered them abroad from thence upon the face of all the earth:"
@@ -113,12 +113,12 @@ CONS name DAT PROX large village PASS give.
 (Therefore a name was given to this great village.)
 kjv: "Therefore is the name of it called Babel;"
 
-lao rena karami phelu thena mua ha lokue theula muila haluma kuewa to ka kelu.
+lao wha karami phelu thena mua ha lokue theula muila haluma kuewa to ka kelu.
 BECAUSE REL authority hold thing LOC PROX place UNIV earth language strange PST CAUS become.
 (Because the being who holds authority caused the whole earth's language to become unfamiliar in this place.)
 kjv: "because the LORD did there confound the language of all the earth:"
 
-rena karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera.
+wha karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera.
 REL authority hold thing PL person ABL PROX place ON UNIV earth face PST scatter.
 (The being who holds authority scattered the people from this place upon the face of the whole earth.)
 kjv: "and from thence did the LORD scatter them abroad upon the face of all the earth."
@@ -133,15 +133,15 @@ ta haluma
 
 theula muila ta haluma nela ta haolu to phelu. lo miona lue sileta thorui to laniru. lo shia mua muila wemo to hekawi. lo shia mua ha lokue to menui.
 
-lo shia wei wiso to haolu. shola su lo mia lo mueri kerou pilewa. su lo mia lo ha ru thape sholo to haolu. lo mueri kerou wei lo shia kerou to nai. theru nuko loesi wei lo shia rena lo mueri kerou lorea muralo to nai.
+lo shia wei wiso to haolu. sha su lo mia lo mueri kerou pilewa. su lo mia lo ha ru thape sho to haolu. lo mueri kerou wei lo shia kerou to nai. theru nuko loesi wei lo shia wha lo mueri kerou lorea muralo to nai.
 
-lo shia to haolu. shola su lo mia wei lo mia whalo silawo nela raelu moru lorima. shia raelu shuna mua waero po kamo. su lo mia nomei se sano sholo to haolu. shola lo mia mena lo mia nia theula muila menoa se thiwera meno ma pula sholo to haolu.
+lo shia to haolu. sha su lo mia wei lo mia whalo silawo nela raelu moru lorima. shia raelu shuna mua waero po kamo. su lo mia nomei se sano sho to haolu. sha lo mia tha lo mia nia theula muila menoa se thiwera tho ma pula sho to haolu.
 
-lo miona lo lumira ha whalo silawo nela ha raelu moru to lorima. lila ha lo thena nila rena karami phelu thena lue waero to shua. rena karami phelu thena shola no nila. theula miona ta nai. lo shia ta haluma phelu sholo to haolu. shola lo shia ha pa phoa. nosa wei lo shia mawha rena lo shia phoa ki weni thena noraku so kelu sholo to haolu.
+lo miona lo lumira ha whalo silawo nela ha raelu moru to lorima. lila ha lo thena nila wha karami phelu thena lue waero to shua. wha karami phelu thena sha no nila. theula miona ta nai. lo shia ta haluma phelu sho to haolu. sha lo shia ha pa phoa. nosa wei lo shia mawha wha lo shia phoa ki weni thena noraku so kelu sho to haolu.
 
-shia shola su lo mia lue waero kau muila wepu. su lila lo shia lue wiso haolu po ma shelomu lo mia mua ha lokue lo shia haluma kuewa ka kelu sholo to haolu. rena karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera. lo shia whalo silawo to te lorima.
+shia sha su lo mia lue waero kau muila wepu. su lila lo shia lue wiso haolu po ma shelomu lo mia mua ha lokue lo shia haluma kuewa ka kelu sho to haolu. wha karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera. lo shia whalo silawo to te lorima.
 
-thelao nomei wei ha whalo silawo se loa. lao rena karami phelu thena mua ha lokue theula muila haluma kuewa to ka kelu. rena karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera.
+thelao nomei wei ha whalo silawo se loa. lao wha karami phelu thena mua ha lokue theula muila haluma kuewa to ka kelu. wha karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera.
 ```
 
 ### Translation limits
@@ -155,7 +155,7 @@ thelao nomei wei ha whalo silawo se loa. lao rena karami phelu thena mua ha loku
 | city and tower | great village and tall wall with a high edge that may reach the sky | Scale, height, top, and reach survive; the two built forms use transparent descriptions. |
 | make us a name | may our name be known | The wish for renown survives, while Phi states the desired recognition rather than copying the English idiom as if names were being manufactured. |
 | lest we be scattered | the builders do not wish to be scattered | Fear is explicit, but Phi states the attitude instead of subordinating it under "lest." |
-| the LORD | `rena karami phelu thena`, the being who holds authority | The source title stays outside Phi. `karami` reports authority without settling its legitimacy or the actor's nature. |
+| the LORD | `wha karami phelu thena`, the being who holds authority | The source title stays outside Phi. `karami` reports authority without settling its legitimacy or the actor's nature. |
 | came down | came from the sky | Phi supplies a source for the vertical motion rather than a bare downward adverb. |
 | children of men | descendants of people | Lineage survives, while the masculine expression and its idiomatic sense of humankind do not. |
 | nothing will be restrained from them | no imagined action will become blocked for them | `noraku` names inability to proceed because of an obstacle, not restraint by an unnamed agent. |
@@ -198,7 +198,7 @@ PL 3SG DAT RECP PST speak.
 (They said to one another:)
 kjv: "And they said one to another,"
 
-shola su lo mia lo mueri kerou pilewa. su lo mia lo ha ru thape sholo to haolu.
+sha su lo mia lo mueri kerou pilewa. su lo mia lo ha ru thape sho to haolu.
 QUOT.COMP OPT PL 1SG PL clay stone make. OPT PL 1SG PL PROX INTS burn QUOT.COMP.CLOSE PST speak.
 ("Let us make clay-stones. Let us burn them thoroughly.")
 kjv: "Go to, let us make brick, and burn them thoroughly."
@@ -208,44 +208,44 @@ PL clay stone DAT PL 3SG stone PST be. mud PL clay stone PST connect.
 (Clay-stones were their stone, and mud connected the clay-stones.)
 kjv: "And they had brick for stone, and slime had they for morter."
 
-lo shia shola su lo mia whalo silawo nela rena mua waero kamo raelu moru lorima sholo to haolu.
+lo shia sha su lo mia whalo silawo nela wha mua waero kamo raelu moru lorima sho to haolu.
 PL 3SG QUOT.COMP OPT PL 1SG large village COORD REL LOC sky arrive tall wall build QUOT.COMP.CLOSE PST speak.
 (They said: "Let us build a great village, and a tall wall that arrives at the sky.")
 kjv: "And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven;"
 
-shola su lo mia nomei se sano sholo to haolu.
+sha su lo mia nomei se sano sho to haolu.
 QUOT.COMP OPT PL 1SG name PASS know QUOT.COMP.CLOSE PST speak.
 ("May our name be known.")
 kjv: "and let us make us a name,"
 
-shola lo mia mena lo mia nia theula muila menoa se thiwera meno ma pula sholo to haolu.
+sha lo mia tha lo mia nia theula muila menoa se thiwera tho ma pula sho to haolu.
 QUOT.COMP PL 1SG DECL.COMP PL 1SG ON UNIV earth face PASS scatter DECL.COMP.CLOSE NEG wish QUOT.COMP.CLOSE PST speak.
 ("We do not wish to be scattered upon the face of the whole earth.")
 kjv: "lest we be scattered abroad upon the face of the whole earth."
 ```
 
-**Notes:** the builders speak in the optative throughout, `su lo mia`, let us, may we: the King James's "Go to, let us" is a chain of wishes, and Phi's wish-mood carries every link. Brick is `mueri kerou`, clay-stone, composition doing what a coin would, and the verse of materials stands whole: clay-stone for stone, with `muphia`, mud, joining the pieces. The city is `whalo silawo`, a village grown large: Phi's settlement vocabulary is deliberately human-scale, and the story is about what happens when the scale is exceeded. There is still no tower-word: the tower is a relative clause, `rena mua waero kamo raelu moru`, a tall wall that arrives at the sky, the grammar reaching upward one modifier at a time, which is how towers are built. The builders wish for a known name and fear scattering, `mena ... se thiwera meno ma pula`, on the earth's face, `muila menoa`. They build against the very thing the story will rename as planting.
+**Notes:** the builders speak in the optative throughout, `su lo mia`, let us, may we: the King James's "Go to, let us" is a chain of wishes, and Phi's wish-mood carries every link. Brick is `mueri kerou`, clay-stone, composition doing what a coin would, and the verse of materials stands whole: clay-stone for stone, with `muphia`, mud, joining the pieces. The city is `whalo silawo`, a village grown large: Phi's settlement vocabulary is deliberately human-scale, and the story is about what happens when the scale is exceeded. There is still no tower-word: the tower is a relative clause, `wha mua waero kamo raelu moru`, a tall wall that arrives at the sky, the grammar reaching upward one modifier at a time, which is how towers are built. The builders wish for a known name and fear scattering, `tha ... se thiwera tho ma pula`, on the earth's face, `muila menoa`. They build against the very thing the story will rename as planting.
 
 ### muila nila: The earth sees
 
 ```
-muila rena lo miona lorima whalo silawo nela raelu moru to nila.
+muila wha lo miona lorima whalo silawo nela raelu moru to nila.
 earth REL PL person build large village COORD tall wall PST see.
 (The earth saw the great village and the tall wall that the people built.)
 kjv: "And the LORD came down to see the city and the tower, which the children of men builded."
 
-muila mena theula miona ta punoa nai. lo shia ta haluma phelu meno to sano.
+muila tha theula miona ta punoa nai. lo shia ta haluma phelu tho to sano.
 earth DECL.COMP UNIV person one society be. PL 3SG one language hold DECL.COMP.CLOSE PST know.
 (The earth knew that all the people were one society, and that they held one language.)
 kjv: "And the LORD said, Behold, the people is one, and they have all one language;"
 
-lo shia ha pa phoa. nosa lo shia theula rena lo shia phoa ki weni thena po phoa.
+lo shia ha pa phoa. nosa lo shia theula wha lo shia phoa ki weni thena po phoa.
 PL 3SG PROX INCH do. now PL 3SG UNIV REL PL 3SG do PFV imagine thing POT do.
 (They begin to do this. Now they can do everything they have imagined doing.)
 kjv: "and this they begin to do: and now nothing will be restrained from them, which they have imagined to do."
 ```
 
-**Notes:** here the departure begins, and the citations mark it verse by verse. The King James has the LORD come down to see; canon refuses the title along with every vocabulary of rule, and this text's teller is `muila`, the earth itself. The earth needs no descent: it is already everywhere the builders are, so "came down to see" becomes plain seeing, and the LORD's spoken "Behold" becomes the earth's knowing, `mena ... meno sano`, since the ground under a city knows what stands on it. The builders still begin their work in the present moment. The verse's double negative then turns into a plain affirmative: they can do everything they have imagined doing. Nothing here softens their power; only the watcher changes.
+**Notes:** here the departure begins, and the citations mark it verse by verse. The King James has the LORD come down to see; canon refuses the title along with every vocabulary of rule, and this text's teller is `muila`, the earth itself. The earth needs no descent: it is already everywhere the builders are, so "came down to see" becomes plain seeing, and the LORD's spoken "Behold" becomes the earth's knowing, `tha ... tho sano`, since the ground under a city knows what stands on it. The builders still begin their work in the present moment. The verse's double negative then turns into a plain affirmative: they can do everything they have imagined doing. Nothing here softens their power; only the watcher changes.
 
 ### thiwera: The sowing
 

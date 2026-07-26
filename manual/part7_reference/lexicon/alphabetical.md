@@ -351,9 +351,7 @@
 | `melu` | friend | /ˈme̞.lu/ | noun |
 | `meluna` | season | /me̞.ˈlu.n̪ä/ | noun |
 | `meluri` | climate | /me̞.ˈlu.ri/ | noun |
-| `mena` | DECL.COMP | /ˈme̞.n̪ä/ | complementizer |
 | `menai` | dedicate | /me̞.ˈn̪ä.i/ | verb |
-| `meno` | DECL.COMP.CLOSE | /ˈme̞.n̪o̞/ | complementizer |
 | `menoa` | face | /me̞.ˈn̪o̞.ä/ | noun |
 | `menua` | counselor | /me̞.ˈn̪u.ä/ | noun |
 | `menui` | dwell | /me̞.ˈn̪u.i/ | verb |
@@ -613,6 +611,7 @@
 | `peshiro` | infection | /pe̞.ˈʃi.ro̞/ | noun |
 | `peshu` | lie | /ˈpe̞.ʃu/ | verb |
 | `peshuma` | buttocks | /pe̞.ˈʃu.mä/ | noun |
+| `pha` | INT.COMP | /ˈɸä/ | complementizer |
 | `phae` | open | /ˈɸä.e̞/ | verb |
 | `phaeli` | tender | /ɸä.ˈe̞.li/ | adjective |
 | `phaelo` | feel | /ɸä.ˈe̞.lo̞/ | verb |
@@ -690,6 +689,7 @@
 | `phitura` | well (water) | /ɸi.ˈt̪u.rä/ | noun |
 | `phiwapi` | butterfly | /ɸi.ˈwä.pi/ | noun |
 | `phiwheki` | counterexample | /ɸi.ˈʍe̞.ki/ | noun |
+| `pho` | INT.COMP.CLOSE | /ˈɸo̞/ | complementizer |
 | `phoa` | do | /ˈɸo̞.ä/ | verb |
 | `phoe` | ANT | /ˈɸo̞.e̞/ | conjunction |
 | `phoemu` | midnight | /ɸo̞.ˈe̞.mu/ | noun |
@@ -762,7 +762,6 @@
 | `remole` | concept | /re̞.ˈmo̞.le̞/ | noun |
 | `remotha` | reason | /re̞.ˈmo̞.θä/ | noun |
 | `remuma` | conclusion | /re̞.ˈmu.mä/ | noun |
-| `rena` | REL | /ˈre̞.n̪ä/ | complementizer |
 | `renoa` | liberate | /re̞.ˈn̪o̞.ä/ | verb |
 | `reo` | meaning | /ˈre̞.o̞/ | verb |
 | `repha` | bridge | /ˈre̞.ɸä/ | noun |
@@ -837,6 +836,7 @@
 | `seru` | commit | /ˈse̞.ru/ | verb |
 | `sethoni` | handoff | /se̞.ˈθo̞.n̪i/ | verb |
 | `sewaro` | transmit | /se̞.ˈwä.ro̞/ | verb |
+| `sha` | QUOT.COMP | /ˈʃä/ | complementizer |
 | `shaelo` | brave | /ʃä.ˈe̞.lo̞/ | adjective |
 | `shaemu` | organic | /ʃä.ˈe̞.mu/ | adjective |
 | `shai` | CONC | /ˈʃä.i/ | conjunction |
@@ -890,10 +890,9 @@
 | `shiroka` | repair | /ʃi.ˈro̞.kä/ | verb |
 | `shiu` | shh | /ˈʃi.u/ | interjection |
 | `shiwolu` | integrate | /ʃi.ˈwo̞.lu/ | verb |
+| `sho` | QUOT.COMP.CLOSE | /ˈʃo̞/ | complementizer |
 | `shoeka` | route | /ʃo̞.ˈe̞.kä/ | noun |
-| `shola` | QUOT.COMP | /ˈʃo̞.lä/ | complementizer |
 | `sholei` | gather | /ʃo̞.ˈle̞.i/ | verb |
-| `sholo` | QUOT.COMP.CLOSE | /ˈʃo̞.lo̞/ | complementizer |
 | `sholu` | complete | /ˈʃo̞.lu/ | adjective |
 | `shomelu` | shadow | /ʃo̞.ˈme̞.lu/ | noun |
 | `shonela` | learn | /ʃo̞.ˈn̪e̞.lä/ | verb |
@@ -1007,6 +1006,7 @@
 | `teshori` | quarantine | /t̪e̞.ˈʃo̞.ri/ | verb |
 | `tesu` | iron | /ˈt̪e̞.su/ | noun |
 | `tewema` | partner | /t̪e̞.ˈwe̞.mä/ | noun |
+| `tha` | DECL.COMP | /ˈθä/ | complementizer |
 | `thaemo` | precious | /θä.ˈe̞.mo̞/ | adjective |
 | `thaemu` | sincere | /θä.ˈe̞.mu/ | adjective |
 | `thaeso` | midday | /θä.ˈe̞.so̞/ | noun |
@@ -1084,6 +1084,7 @@
 | `thiru` | exit | /ˈθi.ru/ | verb |
 | `thirulo` | output | /θi.ˈru.lo̞/ | noun |
 | `thiwera` | scatter | /θi.ˈwe̞.rä/ | verb |
+| `tho` | DECL.COMP.CLOSE | /ˈθo̞/ | complementizer |
 | `thoa` | AMONG | /ˈθo̞.ä/ | preposition |
 | `thoepa` | sacred | /θo̞.ˈe̞.pä/ | adjective |
 | `thokaru` | volcano | /θo̞.ˈkä.ru/ | noun |
@@ -1182,13 +1183,11 @@
 | `wea` | TOWARD | /ˈwe̞.ä/ | preposition |
 | `wei` | DAT | /ˈwe̞.i/ | preposition |
 | `weilo` | balanced | /we̞.ˈi.lo̞/ | adjective |
-| `wela` | INT.COMP | /ˈwe̞.lä/ | complementizer |
 | `welamu` | elm | /we̞.ˈlä.mu/ | noun |
 | `welao` | good | /we̞.ˈlä.o̞/ | adjective |
 | `welathi` | contagious | /we̞.ˈlä.θi/ | adjective |
 | `welira` | thrive | /we̞.ˈli.rä/ | verb |
 | `welisha` | color | /we̞.ˈli.ʃä/ | noun |
-| `welo` | INT.COMP.CLOSE | /ˈwe̞.lo̞/ | complementizer |
 | `weloa` | loom | /we̞.ˈlo̞.ä/ | noun |
 | `weloni` | body | /we̞.ˈlo̞.n̪i/ | noun |
 | `welotu` | mix | /we̞.ˈlo̞.t̪u/ | verb |
@@ -1222,6 +1221,7 @@
 | `wethalu` | garment | /we̞.ˈθä.lu/ | noun |
 | `wethamo` | blanket | /we̞.ˈθä.mo̞/ | noun |
 | `wethate` | laundry | /we̞.ˈθä.t̪e̞/ | noun |
+| `wha` | REL | /ˈʍä/ | complementizer |
 | `whakeru` | object | /ʍä.ˈke̞.ru/ | verb |
 | `whaline` | thank | /ʍä.ˈli.n̪e̞/ | verb |
 | `whalo` | large | /ˈʍä.lo̞/ | adjective |

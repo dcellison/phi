@@ -74,9 +74,9 @@ The verb-phrase particles in the last answer follow tense, aspect, then evidenti
 10. `lopia ho nulae.`
 11. `wa thia suliwa hi nila.`
 12. `shia to hi ma wepu.`
-13. `wheo mena phitura ruela phialu to howela meno to ti haolu.`
+13. `wheo tha phitura ruela phialu to howela tho to ti haolu.`
 
-In answer 13, the entire `mena ... meno` complement precedes the matrix Slot 1 cluster `to ti` and the predicate `haolu`.
+In answer 13, the entire `tha ... tho` complement precedes the matrix Slot 1 cluster `to ti` and the predicate `haolu`.
 
 ### Part D
 

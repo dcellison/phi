@@ -21,7 +21,7 @@ ROW = re.compile(r"^\| `([^`]+)` \| (.+?) \| (.+?) \| (.+?) \|$")
 def compound_tokens(compound):
     """The Phi words inside a compound, bracket notation stripped.
 
-    Brackets mark an embedded clause for the reader (`theula [rena
+    Brackets mark an embedded clause for the reader (`theula [wha
     lima nai]`); they are display, not words.
     """
     return compound.replace("[", " ").replace("]", " ").split()

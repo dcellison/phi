@@ -3168,12 +3168,12 @@
       "placement": "base relative clauses beside existing role nouns",
       "summary": "Direct nouns already name musician, poet, and storyteller. Other roles use a relative clause whose verb states the person's actual work. This also lets a role belong to one occasion without turning it into a permanent class.",
       "expressions": [
-        "rena shela kealo miona",
-        "rena thekiro miona",
-        "rena theo miona",
-        "rena meliho miona",
-        "rena rotiku miona",
-        "rena meliphe kealo miona"
+        "wha shela kealo miona",
+        "wha thekiro miona",
+        "wha theo miona",
+        "wha meliho miona",
+        "wha rotiku miona",
+        "wha meliphe kealo miona"
       ],
       "batches": [
         "language-story-art-and-representation"
@@ -4668,7 +4668,7 @@
         "riporu",
         "seru",
         "sholu",
-        "rena"
+        "wha"
       ],
       "batches": [
         "work-craft-repair-module-prose"
@@ -4682,7 +4682,7 @@
       "summary": "A relative clause identifies the person performing the present work act. `sithora` records a continuing role when one is actually claimed. This keeps an occasional act from hardening into an occupation or an authority over others.",
       "expressions": [
         "miona",
-        "rena",
+        "wha",
         "pilewa",
         "theko",
         "shiroka",

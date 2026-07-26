@@ -1,22 +1,21 @@
 {
-  "word": "meno",
+  "word": "tho",
   "gloss": "DECL.COMP.CLOSE",
-  "ipa": "/ˈme̞.n̪o̞/",
+  "ipa": "/ˈθo̞/",
   "syllables": [
-    "me",
-    "no"
+    "tho"
   ],
   "pos": "complementizer",
   "search_terms": [
     "that clause closer",
     "embedded statement boundary"
   ],
-  "description": "In a declarative frame, 'meno' ends the content introduced by 'mena' (DECL.COMP). The governing predicate follows; this audible boundary prevents its verb from being heard as part of the embedded statement.",
-  "articulatory_notes": "Press the lips together for voiced 'm' and open onto 'e', unrounded at mid height near the front. Dental 'n' follows at the upper incisors, with the tongue apex touching from behind. Keep voice on while the mouth rounds toward back 'o' at middle height. Accent 'me'.",
-  "usage_notes": "After the subject, 'mena' opens the statement and 'meno' closes it before the matrix predicate. Its internal verb takes the tense appropriate to that statement. A pause never substitutes for 'meno', and nested pairs close from the inside out.",
+  "description": "In a declarative frame, 'tho' ends the content introduced by 'tha' (DECL.COMP). The governing predicate follows; this audible boundary prevents its verb from being heard as part of the embedded statement.",
+  "articulatory_notes": "The same dental breath opens the word: tongue tip at the backs of the upper teeth, unvoiced air escaping over it. Voice begins as the lips round and the tongue body draws back for mid 'o'. A single stressed syllable, and that rounding at the end is the whole audible difference from 'tha' (DECL.COMP).",
+  "usage_notes": "After the subject, 'tha' opens the statement and 'tho' closes it before the matrix predicate. Its internal verb takes the tense appropriate to that statement. A pause never substitutes for 'tho', and nested pairs close from the inside out.",
   "examples": [
     {
-      "phi": "shia mena thia so kamo meno haolu.",
+      "phi": "shia tha thia so kamo tho haolu.",
       "translation": "They say that you will arrive."
     }
   ]

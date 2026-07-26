@@ -16,9 +16,9 @@ A rising tone may express uncertainty, invitation, or a speaker's familiar style
 
 ### Error 3: dropping the closer
 
-**Wrong:** `mia mena shia to wepu sano.`
+**Wrong:** `mia tha shia to wepu sano.`
 
-The declarative complement opens at `mena` and requires `meno` before the matrix predicate: `mia mena shia to wepu meno sano.` The same rule pairs `wela` with `welo` and `shola` with `sholo`. A pause cannot substitute for any closer.
+The declarative complement opens at `tha` and requires `tho` before the matrix predicate: `mia tha shia to wepu tho sano.` The same rule pairs `pha` with `pho` and `sha` with `sho`. A pause cannot substitute for any closer.
 
 ### Error 4: writing an expressive pause
 
@@ -34,7 +34,7 @@ Romanized Phi has no capitals at sentence starts or in names: `ne siora shua.` T
 
 ### Error 6: reading every period alike
 
-Period-only writing does not prescribe monotone speech. `wa` identifies a direct question without requiring a terminal rise; `kona` identifies a call without deciding its warmth or urgency; `sholo` closes exact words before the matrix clause resumes. Delivery can respond to those meanings, but no melody is compulsory.
+Period-only writing does not prescribe monotone speech. `wa` identifies a direct question without requiring a terminal rise; `kona` identifies a call without deciding its warmth or urgency; `sho` closes exact words before the matrix clause resumes. Delivery can respond to those meanings, but no melody is compulsory.
 
 ### Error 7: treating `ru` as an exclamation mark
 
@@ -50,4 +50,4 @@ The moment something clicks is `nea.`; `wao.` says expectation was exceeded, whi
 
 **Wrong inside Phi:** `shia "welao" haolu.`
 
-The marks contribute nothing a Phi listener can hear, and the validator rejects them. When the point is that the word is someone else's, say so and quote it: `shia shola welao sholo to haolu.` (They said, "good.") When the point is that the claim travels on another's word, mark the clause with `ti`. Distance in Phi is attributed aloud, never floated on silent typography.
+The marks contribute nothing a Phi listener can hear, and the validator rejects them. When the point is that the word is someone else's, say so and quote it: `shia sha welao sho to haolu.` (They said, "good.") When the point is that the claim travels on another's word, mark the clause with `ti`. Distance in Phi is attributed aloud, never floated on silent typography.

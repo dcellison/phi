@@ -248,34 +248,34 @@ PL 1SG together labor.
 
 ## VIII. Sentences inside sentences
 
-**P31 · The embedded statement.** `mena [sentence] meno` — a whole sentence bracketed into a thing that can be known, said, told, felt; it keeps its own tense. Taught in ch. 19.
+**P31 · The embedded statement.** `tha [sentence] tho` — a whole sentence bracketed into a thing that can be known, said, told, felt; it keeps its own tense. Taught in ch. 19.
 
 ```
-siora mena ne sulae so shua meno shane.
+siora tha ne sulae so shua tho shane.
 siora DECL.COMP NAME sulae FUT come DECL.COMP.CLOSE tell.
 (siora tells that sulae will come.)
 ```
 
-**P32 · The embedded question.** `wela [sentence] welo` — whether, held without asking; precise about which question one cannot answer. Taught in ch. 20.
+**P32 · The embedded question.** `pha [sentence] pho` — whether, held without asking; precise about which question one cannot answer. Taught in ch. 20.
 
 ```
-lopia wela pheralu so lepa welo ma sano.
+lopia pha pheralu so lepa pho ma sano.
 child INT.COMP rain FUT fall INT.COMP.CLOSE NEG know.
 (The child does not know whether it will rain.)
 ```
 
-**P33 · The quotation.** `shola [exact words] sholo` — the words themselves, pronouns, tenses, and commands intact; the frame closes with a verb of speaking or hearing. Taught in ch. 21.
+**P33 · The quotation.** `sha [exact words] sho` — the words themselves, pronouns, tenses, and commands intact; the frame closes with a verb of speaking or hearing. Taught in ch. 21.
 
 ```
-mia shola muila theula howela sholo ro haolu.
+mia sha muila theula howela sho ro haolu.
 1SG QUOT.COMP earth UNIV receive QUOT.COMP.CLOSE HAB speak.
 (I still say her words: the earth receives all.)
 ```
 
-**P34 · The describing clause.** `rena [clause] [noun]` — a little sentence missing its doer, and the noun steps in at the end to be it; no closer needed. Taught in ch. 22.
+**P34 · The describing clause.** `wha [clause] [noun]` — a little sentence missing its doer, and the noun steps in at the end to be it; no closer needed. Taught in ch. 22.
 
 ```
-rena sulopa ro pilewa miona.
+wha sulopa ro pilewa miona.
 REL soup HAB make person.
 (The person who habitually makes soup.)
 ```
@@ -322,4 +322,4 @@ OPT community peace be.
 
 ## Coverage notes
 
-The primer also teaches, without needing patterns of their own: the pronouns `mia`, `thia`, and the many-I `lo mia` (we); nested announcements (`mua mia nuwera` — whose-grammar inside where-grammar, ch. 5); embedded `sola` choices inside `wela … welo` (ch. 20); and the stacking of everything above, since every pattern composes with every other by the one law — announce, then deliver. Transmutation itself — the reframing of concepts rather than the substitution of words — is deliberately not a pattern: it is judgment, taught by the texts, and no inventory can hold it.
+The primer also teaches, without needing patterns of their own: the pronouns `mia`, `thia`, and the many-I `lo mia` (we); nested announcements (`mua mia nuwera` — whose-grammar inside where-grammar, ch. 5); embedded `sola` choices inside `pha … pho` (ch. 20); and the stacking of everything above, since every pattern composes with every other by the one law — announce, then deliver. Transmutation itself — the reframing of concepts rather than the substitution of words — is deliberately not a pattern: it is judgment, taught by the texts, and no inventory can hold it.

@@ -4,7 +4,7 @@ Parts 2 through 6 found a Phi word doing the work of an English mark. Five marks
 
 ### The colon
 
-An English colon is a promise: what follows will deliver what was just set up. Phi spent its whole grammar on that promise. `wa` promises a question before the proposition arrives, `ne` a name, `lu` a condition, `shola` exact words, `mena` a proposition. A language built to announce before delivering has no leftover work for a colon to do; the mark's one idea is the sentence's standing order.
+An English colon is a promise: what follows will deliver what was just set up. Phi spent its whole grammar on that promise. `wa` promises a question before the proposition arrives, `ne` a name, `lu` a condition, `sha` exact words, `tha` a proposition. A language built to announce before delivering has no leftover work for a colon to do; the mark's one idea is the sentence's standing order.
 
 ### The semicolon
 
@@ -52,7 +52,7 @@ um. 1SG think.
 (Um. I am thinking.)
 ```
 
-The trailing off is not a word, and Phi does not spell it. An unfinished sentence is honestly unfinished; the page records what was said and leaves the silence unspelled, exactly as Part 1 promised. One more English habit deserves a warning here: three dots inside a quotation, marking words silently removed. An exact `shola ... sholo` frame claims the original wording, so a silently shortened quotation breaks the claim it is making. When only part of the wording matters, report the content with `mena ... meno` instead, where no verbatim claim was ever on the table.
+The trailing off is not a word, and Phi does not spell it. An unfinished sentence is honestly unfinished; the page records what was said and leaves the silence unspelled, exactly as Part 1 promised. One more English habit deserves a warning here: three dots inside a quotation, marking words silently removed. An exact `sha ... sho` frame claims the original wording, so a silently shortened quotation breaks the claim it is making. When only part of the wording matters, report the content with `tha ... tho` instead, where no verbatim claim was ever on the table.
 
 ### Practice: give the mark its Phi
 

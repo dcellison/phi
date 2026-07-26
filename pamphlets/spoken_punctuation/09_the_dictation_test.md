@@ -11,12 +11,12 @@ ne siora kau womu shua. ne siora haolu.
 NAME siora ALL home come. NAME siora speak.
 (siora comes to the house. siora speaks.)
 
-ne sulae shola wa lo thia kau lo mia so shua sholo to thilou.
+ne sulae sha wa lo thia kau lo mia so shua sho to thilou.
 NAME sulae QUOT.COMP Q PL 2SG ALL PL 1SG FUT come QUOT.COMP.CLOSE PST inquire.
 (sulae asked, "Will you all come to us?")
 ```
 
-The direct question begins with `wa` inside `shola ... sholo`. Its `lo mia` is still sulae's "us," because an exact quotation preserves the original speaker's reference. Motion toward that group uses allative `kau`. Outside the frame, `ne sulae` identifies the asker and `to thilou` reports the past inquiry.
+The direct question begins with `wa` inside `sha ... sho`. Its `lo mia` is still sulae's "us," because an exact quotation preserves the original speaker's reference. Motion toward that group uses allative `kau`. Outside the frame, `ne sulae` identifies the asker and `to thilou` reports the past inquiry.
 
 Both mentions of siora take `ne` because the example uses portable neutral Phi. Established conversation could omit the second marker once the referent was clear, but physical presence would not be the reason.
 
@@ -25,7 +25,7 @@ Both mentions of siora take `ne` because the example uses portable neutral Phi. 
 The parent gives siora an exact reply to carry:
 
 ```
-no wei ne sulae shola kona ne sulae. lia. lo mia kau lo thia so shua. su theula towe nai sholo haolu.
+no wei ne sulae sha kona ne sulae. lia. lo mia kau lo thia so shua. su theula towe nai sho haolu.
 IMP DAT NAME sulae QUOT.COMP VOC NAME sulae. yes. PL 1SG ALL PL 2SG FUT come. OPT UNIV well be QUOT.COMP.CLOSE speak.
 (Say to sulae, "sulae, yes. We will come to you. May all be well.")
 ```
@@ -43,7 +43,7 @@ The same limit appears more sharply with source material. An identifier such as 
 With a partner, have one person read the two framed messages while the other transcribes them. Use a clear natural pace. Compare the lexical forms first and period placement second. Record each difference without treating it as a character test. Then exchange roles with a new message that contains:
 
 - A direct yes-or-no question with `wa`
-- An exact Phi quotation in `shola ... sholo`
+- An exact Phi quotation in `sha ... sho`
 - A name marked with `ne`
 - A separate `kona` address
 - A wish opened by `su`

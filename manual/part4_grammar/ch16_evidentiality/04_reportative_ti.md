@@ -12,15 +12,15 @@ The particle states provenance without preserving exact words and without rating
 
 ## Report and quotation
 
-**ti** marks the source of a proposition. The frame **shola ... sholo** encloses exact Phi wording:
+**ti** marks the source of a proposition. The frame **sha ... sho** encloses exact Phi wording:
 
 ```
-melu shola mia wepu sholo to haolu.
+melu sha mia wepu sho to haolu.
 friend QUOT.COMP 1SG go QUOT.COMP.CLOSE PST speak.
 (The friend said, "I am leaving.")
 ```
 
-**shia to ti wepu.** reports that they left without claiming the source's wording. A **mena ... meno** clause can report fuller content when the proposition itself needs to be stated.
+**shia to ti wepu.** reports that they left without claiming the source's wording. A **tha ... tho** clause can report fuller content when the proposition itself needs to be stated.
 
 ## Transmission and responsibility
 

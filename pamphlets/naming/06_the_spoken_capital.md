@@ -22,7 +22,7 @@ Open the Tengwar pamphlet and look at any paired line: nothing is taller than an
 
 ### Why the language holds this line
 
-Phi's punctuation ruling and its letters ruling are the same thought twice: a silent mark is justified only where no word is visible to do its work. The question mark fell to `wa`, the quotation marks to `shola … sholo`, the comma of address to `kona`, and the capital letter of a name fell to `ne`, the one that was audible all along. Only the period survives, because sentence-end genuinely has no word. A name does.
+Phi's punctuation ruling and its letters ruling are the same thought twice: a silent mark is justified only where no word is visible to do its work. The question mark fell to `wa`, the quotation marks to `sha … sho`, the comma of address to `kona`, and the capital letter of a name fell to `ne`, the one that was audible all along. Only the period survives, because sentence-end genuinely has no word. A name does.
 
 ### Drill: lower the flags
 

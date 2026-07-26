@@ -13,7 +13,7 @@
 ### Verse 1: The one seeking good
 
 ```
-[rena [welao sheraki] thesani phelu] miona theula [rena phoa phelona] thena na phoa.
+[wha [welao sheraki] thesani phelu] miona theula [wha phoa phelona] thena na phoa.
 [REL [good search] skill hold] person UNIV [REL do require] thing NEC do.
 (The person who has skill in searching for goodness must do every thing that requires action.)
 fausboll: "1. Whatever is to be done by one who is skilful in seeking (what is) good,"
@@ -44,7 +44,7 @@ OPT 3SG proud NEG be.
 fausboll: "not proud,"
 ```
 
-**Notes:** The opening keeps three ideas apart. `welao sheraki` makes goodness the object of a search; `thesani` gives the seeker skill in that work; and `theula [rena phoa phelona] thena` names everything that genuinely requires action. `shia noalu ki kelu` makes attainment a completed change into tranquility. The tradition-specific name Nibbana remains in the source citation beside the Phi and does not enter Phi syntax. "Able" is the ability modal `po` on `phoa`, to act, while `wero` takes the truthfulness within "upright." It does not exhaust the source's wider moral sense.
+**Notes:** The opening keeps three ideas apart. `welao sheraki` makes goodness the object of a search; `thesani` gives the seeker skill in that work; and `theula [wha phoa phelona] thena` names everything that genuinely requires action. `shia noalu ki kelu` makes attainment a completed change into tranquility. The tradition-specific name Nibbana remains in the source citation beside the Phi and does not enter Phi syntax. "Able" is the ability modal `po` on `phoa`, to act, while `wero` takes the truthfulness within "upright." It does not exhaust the source's wider moral sense.
 
 ### Verse 2: Few burdens
 
@@ -69,18 +69,18 @@ OPT 3SG humble be.
 (May they be humble.)
 fausboll: "not arrogant,"
 
-su shia thoa lo lumani ro thalo. su shia mena shia thoa lo lumani sheloi thena pilu meno ma rinu.
+su shia thoa lo lumani ro thalo. su shia tha shia thoa lo lumani sheloi thena pilu tho ma rinu.
 OPT 3SG AMONG PL family HAB walk. OPT 3SG DECL.COMP 3SG AMONG PL family MANY thing take DECL.COMP.CLOSE NEG want.
 (May they make their round among families. May they not want to take many things among the families.)
 fausboll: "without (showing) greediness (when going his round) in families."
 ```
 
-**Notes:** "Easily supported" becomes support requiring little labor, not `henoi sano` (knowing enough). The source's few cares are `phina naseru`, few obligations; `whuo tupeka` then says that the person bears no burden. `phelo` does not appear: it means light in weight, so using it here would depend on an English homonym. The following predicate forces the possessive reading of `shia lo morae`, just as `mia lohau welao nai` means "my dog is good." The last pair restores both the alms round and greediness. The `mena ... meno` frame holds the wanted action: taking many things among the families.
+**Notes:** "Easily supported" becomes support requiring little labor, not `henoi sano` (knowing enough). The source's few cares are `phina naseru`, few obligations; `whuo tupeka` then says that the person bears no burden. `phelo` does not appear: it means light in weight, so using it here would depend on an English homonym. The following predicate forces the possessive reading of `shia lo morae`, just as `mia lohau welao nai` means "my dog is good." The last pair restores both the alms round and greediness. The `tha ... tho` frame holds the wanted action: taking many things among the families.
 
 ### Verse 3: The wish for every creature
 
 ```
-su shia [rena lo phue miona mena ha thena peloma nai meno po sherewa] thena ma phoa.
+su shia [wha lo phue miona tha ha thena peloma nai tho po sherewa] thena ma phoa.
 OPT 3SG [REL PL wise person DECL.COMP PROX thing harmful be DECL.COMP.CLOSE POT claim] thing NEG do.
 (May they not do a thing that wise people might claim is harmful.)
 fausboll: "3. And let him not do anything mean for which others who are wise might reprove (him);"
@@ -111,22 +111,22 @@ UNIV alive creature.
 (Every living creature.)
 fausboll: "4. Whatever living beings there are,"
 
-[rena huwa nai] sola [rena kema nai].
+[wha huwa nai] sola [wha kema nai].
 [REL weak be] DISJ [REL strong be].
 (Those who are weak or those who are strong.)
 fausboll: "either feeble or strong,"
 
-[rena laeno nai] sola [rena ru whalo nai].
+[wha laeno nai] sola [wha ru whalo nai].
 [REL long be] DISJ [REL INTS large be].
 (Those who are long or those who are very large.)
 fausboll: "all either long or great,"
 
-[rena kesho ponalu phelu] sola [rena teku nai].
+[wha kesho ponalu phelu] sola [wha teku nai].
 [REL middle size hold] DISJ [REL short be].
 (Those who have middle size or those who are short.)
 fausboll: "middle-sized, short,"
 
-[rena thiku nai] sola [rena whalo nai].
+[wha thiku nai] sola [wha whalo nai].
 [REL small be] DISJ [REL large be].
 (Those who are small or those who are large.)
 fausboll: "small or large,"
@@ -137,17 +137,17 @@ fausboll: "small or large,"
 ### Verse 5: Seen and unseen
 
 ```
-[rena se nila] sola [rena se ma nila].
+[wha se nila] sola [wha se ma nila].
 [REL PASS see] DISJ [REL PASS NEG see].
 (Those who are seen or those who are not seen.)
 fausboll: "5. Either seen or which are not seen,"
 
-[rena wuero menui] sola [rena noshi menui].
+[wha wuero menui] sola [wha noshi menui].
 [REL far dwell] DISJ [REL near dwell].
 (Those who dwell far away or those who dwell near.)
 fausboll: "and which live far (or) near,"
 
-[rena ki thowia] sola [rena wea thowia shua].
+[wha ki thowia] sola [wha wea thowia shua].
 [REL PFV born] DISJ [REL TOWARD born come].
 (Those who have been born or those coming toward birth.)
 fausboll: "either born or seeking birth,"
@@ -184,7 +184,7 @@ fausboll: "let him not out of anger or resentment wish harm to another."
 ### Verse 7: The unbounded friendly mind
 
 ```
-phea [rena miso lioru mua pukea nai nela miso ta lopia shorupo] thowia phao.
+phea [wha miso lioru mua pukea nai nela miso ta lopia shorupo] thowia phao.
 AS [REL REFL life LOC danger be COORD REFL one child protect] born parent.
 (Like a birth parent whose own life is in danger and who protects their own one child.)
 fausboll: "7, As a mother at the risk of her life watches over her own child, her only child,"
@@ -247,7 +247,7 @@ fausboll: "this (way of) living they say is the best in this world."
 ### Verse 10: Insight and the end of return
 
 ```
-[rena lo remo kire ma phelu] miona welao phoa.
+[wha lo remo kire ma phelu] miona welao phoa.
 [REL PL think shape NEG hold] person good do.
 (The person who does not hold fixed thought-shapes acts well.)
 fausboll: "10. He who, not having embraced (philosophical) views, is virtuous,"
@@ -272,7 +272,7 @@ fausboll: "after subduing greediness for sensual pleasures, will never again go 
 ```
 lothea thole
 
-[rena [welao sheraki] thesani phelu] miona theula [rena phoa phelona] thena na phoa.
+[wha [welao sheraki] thesani phelu] miona theula [wha phoa phelona] thena na phoa.
 shia noalu ki kelu.
 su shia po phoa. su shia wero nai. su shia thesa nai.
 su shia moli haolu. su shia moli nai. su shia thoru ma nai.
@@ -280,28 +280,28 @@ su shia moli haolu. su shia moli nai. su shia thoru ma nai.
 su shia nuloe nai. su shia roe phina riola se panoru.
 su shia phina naseru phelu. su shia whuo tupeka nai.
 su shia lo morae shena nai. su shia phue nai. su shia motu nai.
-su shia thoa lo lumani ro thalo. su shia mena shia thoa lo lumani sheloi thena pilu meno ma rinu.
+su shia thoa lo lumani ro thalo. su shia tha shia thoa lo lumani sheloi thena pilu tho ma rinu.
 
-su shia [rena lo phue miona mena ha thena peloma nai meno po sherewa] thena ma phoa.
+su shia [wha lo phue miona tha ha thena peloma nai tho po sherewa] thena ma phoa.
 su theula limoe siora nai. su theula limoe shurano nai.
 su theula limoe siora korua phelu.
 
 theula lima limoe.
-[rena huwa nai] sola [rena kema nai].
-[rena laeno nai] sola [rena ru whalo nai].
-[rena kesho ponalu phelu] sola [rena teku nai].
-[rena thiku nai] sola [rena whalo nai].
+[wha huwa nai] sola [wha kema nai].
+[wha laeno nai] sola [wha ru whalo nai].
+[wha kesho ponalu phelu] sola [wha teku nai].
+[wha thiku nai] sola [wha whalo nai].
 
-[rena se nila] sola [rena se ma nila].
-[rena wuero menui] sola [rena noshi menui].
-[rena ki thowia] sola [rena wea thowia shua].
+[wha se nila] sola [wha se ma nila].
+[wha wuero menui] sola [wha noshi menui].
+[wha ki thowia] sola [wha wea thowia shua].
 su theula limoe siora korua phelu.
 
 su mawha miona roe peshu shia phelira ka nai.
 su mawha miona mua theula lokue shia thiku nila.
 su mawha miona lue korua thero sola lue laeno thimu korua thero wei shia peloma pula.
 
-phea [rena miso lioru mua pukea nai nela miso ta lopia shorupo] thowia phao.
+phea [wha miso lioru mua pukea nai nela miso ta lopia shorupo] thowia phao.
 su theula miona wea theula limoe [mawha norui lothea korua] sorila.
 
 su shia wea theula lokue lothea sorila.
@@ -313,7 +313,7 @@ su ha korua whuo korua thero nai. su ha korua whuo laeno thimu korua thero nai.
 su shia sui [whano sola thalo sola meilo sola ruemi] sui waeli wei ha korua miso menai.
 ha liona ruela mua ha muila mo ko welao ti nai.
 
-[rena lo remo kire ma phelu] miona welao phoa.
+[wha lo remo kire ma phelu] miona welao phoa.
 shia sholu sorai phelu.
 pheo shia lo weloni siora te ru wilao shia mawha thimu muo thowia phao mokura so turema.
 ```
@@ -330,7 +330,7 @@ The gap log records each place where Phi composes or narrows Fausböll's wording
 | upright | `wero` | Honesty covers the truthfulness in upright conduct, but not its whole moral range. |
 | easily supported | `roe phina riola se panoru` | The support requires little labor. |
 | few cares | `phina naseru phelu` | The cares narrow to obligations; `whuo tupeka` states "unburdened" directly. |
-| greediness on the family round | `thoa lo lumani ro thalo` and `mena shia thoa lo lumani sheloi thena pilu meno ma rinu` | The round among families and the desire to take many things are stated separately. |
+| greediness on the family round | `thoa lo lumani ro thalo` and `tha shia thoa lo lumani sheloi thena pilu tho ma rinu` | The round among families and the desire to take many things are stated separately. |
 | mean; reprove | a harmful deed that wise people might `sherewa` | Harm narrows "mean"; a possible claim restores the social act of reproof. |
 | great; large | `ru whalo`; `whalo` | Intensity distinguishes the two sizes. |
 | seeking birth | `wea thowia shua` | The not-yet-born come toward birth without being assigned an intention. |
