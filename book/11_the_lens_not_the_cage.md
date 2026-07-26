@@ -70,6 +70,8 @@ The savings claim remains livelier and less tidy. M. Keith Chen reported that sp
 
 Not every effect disappears, but fame selects for a cleaner story than research usually supplies. Milliseconds and source-memory differences can survive, as can habits of spatial layout. Worldviews are considerably harder to fit into the data.
 
+This matters to Phi more than to most languages in this literature, because Phi is the one that was built on purpose. A natural language's speakers inherited their grammar and owe it no defense. A designed language arrives with a designer's hopes attached, and every story in this section is a hope of that kind that grew in the retelling until the data could no longer hold it up. The eight stations of the sun, the unpriced day, the syllable of admitted assumption: each of them is a design intention with a plain description available, and the plain description is what the rest of this book has been giving them.
+
 ## The strongest counsel
 
 The skeptical case deserves to be heard in its strongest form.
@@ -106,9 +108,7 @@ Toki Pona presents a different case. It has a living international community, no
 
 The obstacles therefore do not rhyme quite as neatly as one might wish. Loglan did not assemble and fund the proposed experiment, while Láadan did not receive the broad adoption its test required. Toki Pona achieved community but has not turned testimony into controlled evidence. A constructed-language study needs speakers and a question precise enough to fail, followed by researchers willing to ask it. Obtaining the whole arrangement at once has proved difficult.
 
-Phi occupies an earlier position still. The most it may claim today is close to the position chapter 4 built on, Dan Slobin's "thinking for speaking": a language's requirements shape what speakers attend to while preparing an utterance (Slobin 1996). Phi places relations before content, puts a question where its answer would stand, and offers a slot for information source. These choices plainly organize Phi sentences. Any effect beyond the act of speaking remains a hypothesis.
-
-For now, the evidence leaves Phi where its protocol already put it: its structures are "design intentions to test in use, not guarantees about what the language does to a speaker."
+Phi occupies an earlier position still. The most it may claim today is close to the position chapter 3 built on, Dan Slobin's "thinking for speaking": a language's requirements shape what speakers attend to while preparing an utterance (Slobin 1996). Phi places relations before content, puts a question where its answer would stand, and offers a slot for information source. These choices plainly organize Phi sentences, and anything past that is a hypothesis, which is where the evidence in this chapter leaves the whole question and where the protocol had already put it: Phi's structures are "design intentions to test in use, not guarantees about what the language does to a speaker."
 
 ## References
 

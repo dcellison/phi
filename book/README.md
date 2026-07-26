@@ -2,7 +2,7 @@
 
 The book begins beside the Thames, where a traveler wakes in William Morris's future and promptly tries to tip the boatman. The coin is refused, and that small embarrassment opens the book's question: what kind of language is Phi trying to be, and what do its choices cost?
 
-Phi already has a primer for learning and a manual for checking the machinery. This book asks why the machinery is there. It begins in the hurried public world Phi answers, then follows the design into the claims Phi makes for itself. Later chapters put those claims beside the evidence and ask what could happen if a community forms.
+Phi already has a primer for learning and a manual for checking the machinery. This book asks why the machinery is there. It begins in the hurried public world Phi answers, follows the design through what the language refuses, how it orders a sentence, how it builds a word, and where it stops, and then sets that design beside the century of invented languages that came before it. Later chapters put the claims beside the evidence and ask what could happen if a community forms.
 
 The book does not promise that grammar remakes a mind. Phi offers a practice, and the evidence still gets the last word.
 
@@ -13,10 +13,10 @@ The book is complete and published on the project site: a cold open, fourteen ch
 - [Opening: The boatman](00_the_boatman.md)
 - [Chapter 1: The hurried tongue](01_the_hurried_tongue.md)
 - [Chapter 2: What a refusal is](02_what_a_refusal_is.md)
-- [Chapter 3: The invented century](03_the_invented_century.md)
-- [Chapter 4: Announce, then deliver](04_announce_then_deliver.md)
-- [Chapter 5: The web](05_the_web.md)
-- [Chapter 6: What it will not say](06_what_it_will_not_say.md)
+- [Chapter 3: Announce, then deliver](03_announce_then_deliver.md)
+- [Chapter 4: The web](04_the_web.md)
+- [Chapter 5: What it will not say](05_what_it_will_not_say.md)
+- [Chapter 6: The invented century](06_the_invented_century.md)
 - [Chapter 7: A literature before a community](07_a_literature_before_a_community.md)
 - [Chapter 8: The workshop](08_the_workshop.md)
 - [Chapter 9: A serious practice](09_a_serious_practice.md)

@@ -129,21 +129,21 @@ The book is complete and published: the cold open, chapters 1 through 14, the cl
 
 | Chapter | File | Approximate words |
 |---|---|---:|
-| Cold open: The boatman | `book/00_the_boatman.md` | 993 |
-| 1. The hurried tongue | `book/01_the_hurried_tongue.md` | 2,465 |
-| 2. What a refusal is | `book/02_what_a_refusal_is.md` | 1,616 |
-| 3. The invented century | `book/03_the_invented_century.md` | 3,064 |
-| 4. Announce, then deliver | `book/04_announce_then_deliver.md` | 2,455 |
-| 5. The web | `book/05_the_web.md` | 2,535 |
-| 6. What it will not say | `book/06_what_it_will_not_say.md` | 1,653 |
-| 7. A literature before a community | `book/07_a_literature_before_a_community.md` | 3,248 |
-| 8. The workshop | `book/08_the_workshop.md` | 3,300 |
-| 9. A serious practice | `book/09_a_serious_practice.md` | 2,627 |
-| 10. The distance of a learned tongue | `book/10_the_distance_of_a_learned_tongue.md` | 2,169 |
-| 11. The lens, not the cage | `book/11_the_lens_not_the_cage.md` | 4,096 |
-| 12. A language for the commons | `book/12_a_language_for_the_commons.md` | 2,443 |
-| 13. Escaping words | `book/13_escaping_words.md` | 1,746 |
-| 14. The mind question | `book/14_the_mind_question.md` | 1,622 |
+| Cold open: The boatman | `book/00_the_boatman.md` | 933 |
+| 1. The hurried tongue | `book/01_the_hurried_tongue.md` | 2,162 |
+| 2. What a refusal is | `book/02_what_a_refusal_is.md` | 1,542 |
+| 3. Announce, then deliver | `book/03_announce_then_deliver.md` | 2,107 |
+| 4. The web | `book/04_the_web.md` | 2,346 |
+| 5. What it will not say | `book/05_what_it_will_not_say.md` | 1,512 |
+| 6. The invented century | `book/06_the_invented_century.md` | 2,648 |
+| 7. A literature before a community | `book/07_a_literature_before_a_community.md` | 3,290 |
+| 8. The workshop | `book/08_the_workshop.md` | 2,819 |
+| 9. A serious practice | `book/09_a_serious_practice.md` | 2,031 |
+| 10. The distance of a learned tongue | `book/10_the_distance_of_a_learned_tongue.md` | 1,799 |
+| 11. The lens, not the cage | `book/11_the_lens_not_the_cage.md` | 3,222 |
+| 12. A language for the commons | `book/12_a_language_for_the_commons.md` | 2,015 |
+| 13. Escaping words | `book/13_escaping_words.md` | 1,528 |
+| 14. The mind question | `book/14_the_mind_question.md` | 1,393 |
 | Close: The door | `book/15_the_door.md` | 642 |
 
 ### Reading PDF
