@@ -130,6 +130,7 @@
 | `nunoa` | forager | gathering food or useful material from uncultivated places |
 | `nuola` | eat | taking food into the body as eating |
 | `nuora` | food | what people gather, prepare, share, and eat |
+| `nurima` | wander | movement allowed to find its course as it proceeds |
 | `nuroa` | kitchen | a place organised around preparing and cooking food |
 | `nurome` | meal | one occasion of eating |
 | `nuwera` | bed | the ordinary place prepared for sleep and bodily rest |
@@ -319,7 +320,6 @@
 | `wethaki` | towel | cloth used while wiping or drying |
 | `wethate` | laundry | cloth moving through washing, drying, or folding |
 | `whano` | stand | holding or entering an upright posture |
-| `whenola` | wander | movement allowed to find its course as it proceeds |
 | `wheparu` | discriminate | category-shaped treatment producing disadvantage |
 | `whepelo` | retaliate | imposing a disadvantage in response to a stated prior action |
 | `wheraku` | erode | detachment and movement of earth or rock |
@@ -510,6 +510,7 @@
 | `nowae` | awaken | return of waking awareness after sleep |
 | `nukesa` | expert | extensive domain understanding supported by practice and study |
 | `nulae` | sleep | reduced waking awareness and responsiveness during sleep |
+| `nurima` | wander | thought moving without a chosen conclusion |
 | `nuwi` | clear | meaning or structure that can be followed without a tangle |
 | `palethu` | tactile | information distinguished through tactile perception |
 | `panoru` | support | evidence or reasoning that supports a claim |
@@ -655,7 +656,6 @@
 | `whekelu` | magic | an event or working understood through a magical account |
 | `whemaki` | allergy | a clinically supported hypersensitivity claim |
 | `whemura` | dream | dream experience during sleep or a waking vision held as a dream |
-| `whenola` | wander | thought moving without a chosen conclusion |
 | `wheparu` | discriminate | an assigned or perceived category directing action |
 | `whinu` | smell | an odour becoming perceptible and recognisable |
 | `wiero` | imaginative | the capacity to form possibilities beyond what is presently perceived |
@@ -2317,6 +2317,7 @@
 | `nuawe` | together | people or things present together in one place |
 | `nulo` | deep | substantial distance inward or downward from a reference surface |
 | `nurako` | railway | a fixed path linking places by rail |
+| `nurima` | wander | a route or destination left unsettled |
 | `nuroa` | kitchen | a room or area identified by food preparation |
 | `nusho` | depth | distance inward or downward from a reference surface |
 | `pareshi` | cliff | a sharp vertical change between higher and lower terrain |
@@ -2411,7 +2412,6 @@
 | `whalo` | large | considerable extent without selecting a particular dimension |
 | `whano` | stand | vertical position relative to a surface |
 | `whemoa` | empty | a bounded container or place with no contents or occupants |
-| `whenola` | wander | a route or destination left unsettled |
 | `wira` | window | a controlled opening between an interior and another place |
 | `wiralu` | runoff | movement from a source surface toward a lower or receiving place |
 | `wishe` | swim | a route within a body of water |

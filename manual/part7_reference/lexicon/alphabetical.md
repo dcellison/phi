@@ -566,6 +566,7 @@
 | `nurako` | railway | /n̪u.ˈrä.ko̞/ | noun |
 | `nurawi` | chronic | /n̪u.ˈrä.wi/ | adjective |
 | `nuri` | cycle | /ˈn̪u.ri/ | noun |
+| `nurima` | wander | /n̪u.ˈri.mä/ | verb |
 | `nuroa` | kitchen | /n̪u.ˈro̞.ä/ | noun |
 | `nurome` | meal | /n̪u.ˈro̞.me̞/ | noun |
 | `nusho` | depth | /ˈn̪u.ʃo̞/ | noun |
@@ -1239,7 +1240,6 @@
 | `whemoa` | empty | /ʍe̞.ˈmo̞.ä/ | adjective |
 | `whemori` | waste | /ʍe̞.ˈmo̞.ri/ | noun |
 | `whemura` | dream | /ʍe̞.ˈmu.rä/ | verb |
-| `whenola` | wander | /ʍe̞.ˈn̪o̞.lä/ | verb |
 | `wheo` | elder | /ˈʍe̞.o̞/ | noun |
 | `wheparu` | discriminate | /ʍe̞.ˈpä.ru/ | verb |
 | `whepelo` | retaliate | /ʍe̞.ˈpe̞.lo̞/ | verb |

@@ -29,6 +29,7 @@ For the authority order of current documentation, see `/canon.md`.
 | `adjective_verb_adjudication.md` | The word-by-word audit behind the qualities-do-not-act ruling (adjective+verb dual listings pruned, 2026-07-06); the rule lives in `/canon.md` |
 | `manner_placement_study.md` | The attestation study behind the manner-descriptor placement ruling (2026-07-06); the rule lives in `/canon.md` |
 | `function_word_shape_audit.md` | The 113-word audit behind the function-word shape charter (2026-07-06); the ruling lives in `/canon.md` |
+| `digraph_merger_audit.md` | Every digraph word measured against its plain-consonant twin (2026-07-26); the `wh` against `w` ruling lives in `/canon.md` |
 | `synonym_carve_audit.md` | The 36-cluster near-synonym audit closing the consistency-sweeps program (2026-07-06); 13 carves completed, zero retirements |
 | `time_system_audit.md` | The survey behind the four time rulings — natural clock, age, temporal distance, frequency (2026-07-06); the rulings live in `/canon.md` |
 | `color_system_audit.md` | The survey behind the color-composes ruling (2026-07-06): seven basics match the Berlin-Kay universals, further hues compose with `welisha`; the ruling lives in `/canon.md` |

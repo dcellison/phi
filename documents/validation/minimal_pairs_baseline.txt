@@ -735,7 +735,6 @@ wemi wemo
 wemi weni
 wemo wero
 weni wenu
-wenola whenola
 wenu wepu
 wenu weru
 wenu woenu

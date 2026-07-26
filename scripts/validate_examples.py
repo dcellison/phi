@@ -116,6 +116,9 @@ PROHIBITED_HYPHENATED_CONSTRUCTION = re.compile(
 
 CONSONANTS = set("hklmnprstw")
 DIGRAPHS = ("ph", "th", "sh", "wh")
+# The one digraph whose plain counterpart differs from it by voicing alone,
+# and which the majority of English speakers merge (the wine-whine merger).
+MERGED_DIGRAPH, MERGED_PLAIN = "wh", "w"
 VOWELS = set("aeiou")
 PHI_LETTERS = CONSONANTS | VOWELS
 
@@ -592,6 +595,24 @@ def check_lexicon(entries):
             f"stale baseline line: '{pair[0]} {pair[1]}' is no longer a "
             f"minimal pair; prune it from documents/validation/minimal_pairs_baseline.txt"
         )
+
+    # The merged-pronunciation rule: no two words may differ only by `wh`
+    # against `w`, in any position and across every word class. Most English
+    # speakers merge /ʍ/ into /w/, so such a pair is one word for them. The
+    # other three digraphs stand apart from their plain consonants by more
+    # than voicing and are judged by ear under the collision rule instead.
+    all_words = {d.get("word", "") for _, d in entries}
+    for word in sorted(w for w in all_words if MERGED_DIGRAPH in w):
+        merged = {word.replace(MERGED_DIGRAPH, MERGED_PLAIN)} | {
+            word[: m.start()] + MERGED_PLAIN + word[m.end():]
+            for m in re.finditer(MERGED_DIGRAPH, word)
+        }
+        for form in sorted(merged & all_words - {word}):
+            errors.append(
+                f"merged-pronunciation collision: '{word}' and '{form}' "
+                f"differ only by '{MERGED_DIGRAPH}' against '{MERGED_PLAIN}', "
+                f"which most English speakers do not distinguish; rename one"
+            )
 
     # Phi examples quoted inside JSON prose fields must use real words
     # in canon Slot 1 order, and single-word citations "'word' (gloss)"
