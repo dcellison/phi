@@ -129,9 +129,9 @@ burden ABL 1SG PST PFV NEG fall.
 (The burden had not fallen from me.)
 morris: "I had by no means shaken off the feeling of oppression,"
 
-mia mua theula lokue ha lokue selua to po ma nai.
-1SG LOC UNIV place PROX place aware PST POT NEG be.
-(Wherever I might have been, I could scarcely have been aware of the place.)
+mia mua theula lokue ha lokue ru selua to po ma nai.
+1SG LOC UNIV place PROX place INTS aware PST POT NEG be.
+(Wherever I might have been, I could hardly have been aware of the place.)
 morris: "and wherever I might have been should scarce have been quite conscious of the place;"
 
 thelao ha mu wakomi to nai. shai luphore menoa se sano nai mia remo tiwa to phaelo.
@@ -224,8 +224,8 @@ shia shola wa phialu nuwi nai. mia ha to ma morae. sholo to haolu.
 ("Is it?" he said. "I did not notice it.")
 morris: "\"Is it?\" said he; \"I didn't notice it."
 
-thia sano. rihe lunisa theula thimu luphore thiku theru ka kelu.
-2SG know. rise tide UNIV time river small thick CAUS become.
+thia sano. rihe lunisa theula thimu luphore la theru ka kelu.
+2SG know. rise tide UNIV time river ATTEN thick CAUS become.
 (You know. The rising tide always makes the river a little thick.)
 morris: "You know the flood-tide always thickens it a bit.\""
 
@@ -575,8 +575,8 @@ bridge ON MANY stone rainbow PST stand. PL rainbow INTS strong COORD ALSO gracef
 (It stood on stone arches, splendidly solid, and as graceful as they were strong.)
 morris: "It was of stone arches, splendidly solid, and as graceful as they were strong;"
 
-repha henoi raelu to nai. lo luphonu phou repha to po kethua ma wepu.
-bridge ENOUGH tall PST be. PL boat BELOW bridge PST POT hard NEG go.
+repha pe raelu to nai. lo luphonu phou repha to po kethua ma wepu.
+bridge SUFF tall PST be. PL boat BELOW bridge PST POT hard NEG go.
 (It was high enough, too, for the river traffic to pass easily beneath it.)
 morris: "high enough also to let ordinary river traffic through easily."
 
@@ -595,8 +595,8 @@ ON PL home MANY REL pigment COORD gold hold turn device COORD small tall build P
 (On them stood many painted and gilded vanes and little spire-works.)
 morris: "beset with painted and gilded vanes and spirelets."
 
-kerou thiku to ki rohemi. whekai mu thumiro piloe nia kerou to nai.
-stone small PST PFV wear down. CONTR zero smoke spot ON stone PST be.
+kerou to ki la rohemi. whekai mu thumiro piloe nia kerou to nai.
+stone PST PFV ATTEN wear down. CONTR zero smoke spot ON stone PST be.
 (The stone had weathered a little, but there was no smoke-stain on it.)
 morris: "The stone was a little weathered, but showed no marks of the grimy sootiness"
 
@@ -624,14 +624,14 @@ yes. bridge beautiful be. Q 2SG agree.
 ("Yes, it is a pretty bridge, isn't it?")
 morris: "\"Yes, it _is_ a pretty bridge, isn't it?"
 
-lo wea luphore thorui repha ru mo thiku nai. whekai ra lo repha sheo ha repha to po ma mo luwae nai.
-PL TOWARD river beginning bridge INTS CMPR small be. CONTR DIST PL bridge THAN PROX bridge PST POT NEG CMPR graceful be.
-(The upstream bridges are much smaller, but they are scarcely daintier than this one.)
+lo wea luphore thorui repha ru mo thiku nai. whekai ra lo repha sheo ha repha to la mo luwae nai.
+PL TOWARD river beginning bridge INTS CMPR small be. CONTR DIST PL bridge THAN PROX bridge PST ATTEN CMPR graceful be.
+(The upstream bridges are much smaller, but they are slightly more graceful than this one.)
 morris: "Even the up-stream bridges, which are so much smaller, are scarcely daintier,"
 
-lo wea luphore lumae repha sheo ha repha to po ma mo phiro nai.
-PL TOWARD river end bridge THAN PROX bridge PST POT NEG CMPR elegant be.
-(And the downstream ones are scarcely more stately than it.)
+lo wea luphore lumae repha sheo ha repha to la mo phiro nai.
+PL TOWARD river end bridge THAN PROX bridge PST ATTEN CMPR elegant be.
+(And the downstream ones are slightly more elegant than it.)
 morris: "and the down-stream ones are scarcely more dignified and stately.\""
 
 mia pai whuo miso rinu to haolu. mia shola repha wia torua to ki whano. sholo to haolu.
@@ -976,8 +976,8 @@ BESIDE boat wall PL small large cat COORD PL flower shape stand. UNIV PASS caref
 (And little great-cats and flower-shapes all along the boat's side, so delicately worked.)
 morris: "and little leopards and fleurs-de-lys all along the gunwale, so delicately worked."
 
-shia roe thiku thoru seniku to haolu.
-3SG INS small proud smile PST speak.
+shia roe la thoru seniku to haolu.
+3SG INS ATTEN proud smile PST speak.
 (He said, with something of a smirk--)
 morris: "You see,\" he said, with something of a smirk,"
 
@@ -992,8 +992,8 @@ morris: "\"I am fond of working in gold and fine metals; this buckle here is an 
 ## kulo — The guide
 
 ```
-lao mia ra sukima to phelu mia thiku nilua to nai. thelao shia haolu to reshi tapu. shia roe phena haoni to haolu.
-BECAUSE 1SG DIST fear PST hold 1SG small shy PST be. CONS 3SG speak PST fast close. 3SG INS kind voice PST speak.
+lao mia ra sukima to phelu mia la nilua to nai. thelao shia haolu to reshi tapu. shia roe phena haoni to haolu.
+BECAUSE 1SG DIST fear PST hold 1SG ATTEN shy PST be. CONS 3SG speak PST fast close. 3SG INS kind voice PST speak.
 (No doubt that fear made me look a little shy of him; so he broke off short, and said in a kind voice--)
 morris: "No doubt I looked a little shy of him under the influence of that doubt as to his sanity. So he broke off short, and said in a kind voice:"
 

@@ -277,8 +277,8 @@ NAME selomi 3SG head PST kind touch. PL 1SG morning meal PST INCH eat.
 (Weaver patted her head kindly, and we fell to on our breakfast.)
 morris: "Robert patted her on the head in a friendly manner; and we fell to on our breakfast,"
 
-nurome henoi siloma to nai. whekai nuora to se ru thesa pharelo. lo miona roe sheloi thesa nia wonepa nuora to ki ka whano.
-meal ENOUGH simple PST be. CONTR food PST PASS INTS careful cook. PL person INS MANY careful ON table food PST PFV CAUS stand.
+nurome siloma to nai. whekai nuora to se ru thesa pharelo. lo miona roe sheloi thesa nia wonepa nuora to ki ka whano.
+meal simple PST be. CONTR food PST PASS INTS careful cook. PL person INS MANY careful ON table food PST PFV CAUS stand.
 (The meal was simple enough, but its food was most delicately cooked and had been set on the table with much care.)
 morris: "which was simple enough, but most delicately cooked, and set on the table with much daintiness."
 
@@ -339,9 +339,9 @@ morris: "and I suppose my face showed how much I was moved, for both my friends 
 ## ne phemi — The guest's name
 
 ```
-ne selomi sheo luphonu miona welao keno to po ma mo phelu. pheo teku shemu shia wei mia to thiku keloa haolu.
-NAME selomi THAN boat person good custom PST POT NEG CMPR hold. POST short moment 3SG DAT 1SG PST small rough speak.
-(The weaver could scarcely hold so much good custom as the ferryman; presently he spoke to me a little roughly.)
+luphonu miona sheo ne selomi la mo welao keno to phelu. pheo teku shemu ne selomi wei mia to la keloa haolu.
+boat person THAN NAME selomi ATTEN CMPR good custom PST hold. POST short moment NAME selomi DAT 1SG PST ATTEN rough speak.
+(The ferryman held slightly more good custom than the weaver; presently the weaver spoke to me a little roughly.)
 morris: "Presently the weaver, who was scarcely so well mannered a man as the ferryman, said to me rather awkwardly:"
 
 kona phemi. lo mia mena lo mia thia hina shemui meno ma sano. wa mua thia nomei thilou soli peloma nai.
@@ -601,9 +601,9 @@ thia rena serao punoa loa nela pilu shane lo tawimo serao shelu we to ki muholi.
 (And you have been grubbing too into those idiotic old books that tell of the old world's giving and taking. He he!)
 morris: "and with grubbing into those idiotic old books about political economy (he he!),"
 
-thelao thia thela phoa po ma sano.
-CONS 2SG how do POT NEG know.
-(So that you scarcely know how to behave.)
+thelao thia thela phoa po ma ru sano.
+CONS 2SG how do POT NEG INTS know.
+(So that you hardly know how to behave.)
 morris: "that you scarcely know how to behave."
 
 lila thia lue meraku lo thiku mera po sawa thia nosa mue womu riola na pilu.
@@ -771,8 +771,8 @@ shia mioru lo pelio lue talua tei manuwe kiparu kema to nai. shia wei riola lue 
 (Her beautiful arms were firm and strong from shoulder to wrist; she had bared them for her work.)
 morris: "her beautiful arms, which she had bared for her work, firm and well-knit from shoulder to wrist."
 
-phou mia nila shia menoa thiku rulo to kelu. whekai ha nuwi to nai. shia mia phea rena wi lau wi phoi wi shao wi torua phelu miona to ki nila.
-BELOW 1SG see 3SG face small red PST become. CONTR PROX clear PST be. 3SG 1SG AS REL two twenty-seven-group two nine-group two three-group two year hold person PST PFV see.
+phou mia nila shia menoa la rulo to kelu. whekai ha nuwi to nai. shia mia phea rena wi lau wi phoi wi shao wi torua phelu miona to ki nila.
+BELOW 1SG see 3SG face ATTEN red PST become. CONTR PROX clear PST be. 3SG 1SG AS REL two twenty-seven-group two nine-group two three-group two year hold person PST PFV see.
 (She blushed a little under my gaze, though it was clear she had taken me for a person of eighty years.)
 morris: "She blushed a little under my gaze, though it was clear that she had taken me for a man of eighty;"
 
@@ -902,8 +902,8 @@ CONS 1SG DAT 2SG AROUND DIST forest PL inquire PST send.
 (That was why I asked you those questions about the forest.)
 morris: "That was why I asked you those questions about Epping Forest."
 
-mia ha thekao. thia mia lo remo to thiku tiwa. whekai thia lo sano mia ru mewali to ka kelu.
-1SG PROX acknowledge. 2SG 1SG PL think PST small tie. CONTR 2SG PL know 1SG INTS interested PST CAUS become.
+mia ha thekao. thia mia lo remo to la tiwa. whekai thia lo sano mia ru mewali to ka kelu.
+1SG PROX acknowledge. 2SG 1SG PL think PST ATTEN tie. CONTR 2SG PL know 1SG INTS interested PST CAUS become.
 (I confess it: you have rather tangled my thoughts, though what you knew made me deeply interested.)
 morris: "You have rather puzzled me, I confess, though your information was so interesting."
 
@@ -1003,8 +1003,8 @@ shia raelu to nai. shia whila nuko to nai. shia ru mioru to nai.
 (The man himself was tall, dark-haired, and exceedingly handsome.)
 morris: "The man himself was tall, dark-haired, and exceedingly handsome,"
 
-shia menoa kire phea lo phirae miona menoa kire phena to nai. whekai shia roe thiku thoru kire to roke.
-3SG face shape AS PL different person face shape kind PST be. CONTR 3SG INS small proud shape PST move.
+shia menoa kire phea lo phirae miona menoa kire phena to nai. whekai shia roe la thoru kire to roke.
+3SG face shape AS PL different person face shape kind PST be. CONTR 3SG INS ATTEN proud shape PST move.
 (His face was no less kindly in expression than the others', but he moved with that somewhat haughty bearing.)
 morris: "and though his face was no less kindly in expression than that of the others, he moved with that somewhat haughty mien"
 
@@ -1113,8 +1113,8 @@ CONTR 3SG PST rise. 3SG QUOT.COMP yes. VOC old oar person. REL 2SG like. QUOT.CO
 (However, he got up and said: "All right, old oar-wearer: whatever you like. This is not one of my busy days.)
 morris: "However, he got up and said, \"All right, old oar-wearer, whatever you like; this is not one of my busy days;"
 
-shia wei mia roe thiku thoru koma mulu kiroa to loa.
-3SG DAT 1SG INS small proud head low sign PST give.
+shia wei mia roe la thoru koma mulu kiroa to loa.
+3SG DAT 1SG INS ATTEN proud head low sign PST give.
 (Here he gave me a somewhat condescending bow of the head.)
 morris: "(with a condescending bow to me)"
 

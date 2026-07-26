@@ -627,9 +627,9 @@ SOME moment child BELOW pillow 3SG PST deep push.
 (Sometimes he pushed him deep under the pillow.)
 williams: "and sometimes he pushed him so far under the pillow"
 
-tupiwa to po ma whunei.
-rabbit PST POT NEG breathe.
-(The rabbit could scarcely breathe.)
+tupiwa to po ma ru whunei.
+rabbit PST POT NEG INTS breathe.
+(The rabbit could hardly breathe.)
 williams: "that the Rabbit could scarcely breathe."
 
 shia we mua lopia tholu lo laeno lunei shemu to wilao.
@@ -1377,9 +1377,9 @@ ALSO 3SG shape PST INCH go.
 (Even his shape began to go.)
 williams: "He even began to lose his shape,"
 
-shia nosa phea tupiwa to se po ma nila.
-3SG now AS rabbit PST PASS POT NEG see.
-(He could scarcely be seen as a rabbit now.)
+shia nosa phea tupiwa to se po ma ru nila.
+3SG now AS rabbit PST PASS POT NEG INTS see.
+(He could hardly be seen as a rabbit now.)
 williams: "and he scarcely looked like a rabbit any more,"
 
 li wei lopia shia tupiwa to nai.
@@ -1770,8 +1770,8 @@ shia mue lirupa to nila.
 (And he looked out.)
 williams: "and look out."
 
-shia to thiku tiripe.
-3SG PST small quiver.
+shia to la tiripe.
+3SG PST ATTEN quiver.
 (He was shivering a little.)
 williams: "He was shivering a little,"
 
