@@ -1,0 +1,37 @@
+{
+  "word": "mehalu",
+  "gloss": "busy",
+  "ipa": "/me̞.ˈhä.lu/",
+  "syllables": [
+    "me",
+    "ha",
+    "lu"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "occupied",
+    "no time",
+    "taken up"
+  ],
+  "description": "A person is 'mehalu' when their present capacity is already committed, so they cannot take on more or turn to something else now. What fills the capacity does not matter: a workbench, a small child, a friend's illness, and a week of grief all occupy a person the same way. 'pushali' (overload) is capacity already exceeded, while 'mehalu' stays at the edge of what someone can carry. 'ritako' (workload) names the demand itself rather than the state of the person under it.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm' and let the voice carry through the nose, then open into middle-height front unrounded 'e'. Let unvoiced air pass through the open glottis for 'h' and drop the jaw into stressed open central 'a'. Touch the tongue tip to the alveolar ridge for lateral 'l', let voice escape along both sides, and finish with the lips rounded for high back 'u'.",
+  "sound_symbolism": "The word never closes hard. Breath at its middle keeps the stressed syllable open, so the form carries no sense of a person braced or straining.",
+  "usage_notes": "Predicate the state with 'nai'. The word is gradable, and the degree particles carry most of its daily work: 'ru mehalu' is very busy, 'la mehalu' a little busy, and 'wo mehalu' too busy to take on what is being asked. 'ma mehalu nai' answers an invitation with room to spare. Its quality noun is the state itself, and a 'lila' frame says what the capacity has no room for.",
+  "examples": [
+    {
+      "phi": "mia mua ha philo mehalu nai.",
+      "translation": "I am busy today."
+    },
+    {
+      "phi": "wa thia wo mehalu nai.",
+      "translation": "Are you too busy?"
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "Declining is easier when a speaker can name their own capacity instead of the asker's request. 'wo mehalu nai' refuses the task without judging the person who brought it."
+  },
+  "semantic_domains": {
+    "activity": "the state of a person whose capacity is taken up by what they are already doing",
+    "temporal": "reports that the present holds no room, which is how speakers negotiate when something can happen"
+  }
+}

@@ -8,7 +8,7 @@
 *Content words appear under their listed lexical class. A rule-supplied event or quality noun does not add another class to the entry. Function words are grouped by grammatical class.*
 
 
-## adjective (214)
+## adjective (215)
 
 | Word | Gloss |
 |---|---|
@@ -65,6 +65,7 @@
 | `luwae` | graceful |
 | `luwi` | flexible |
 | `maeli` | quiet |
+| `mehalu` | busy |
 | `meraho` | relieved |
 | `mewali` | interested |
 | `mioru` | beautiful |

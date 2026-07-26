@@ -1677,6 +1677,16 @@ Two people work in a workshop at dusk in the rain, and the passage that puts the
 
 The batch adds six base roots and changes no membership. It also leaves one finding unresolved by design: Phi has clause relators for before, after, reason, concession, and purpose, and none for while, so a simultaneous clause becomes an event noun after `sui` and its subject becomes a possessor. That is a grammar question rather than a vocabulary one, and it is the maintainer's to open.
 
+## Excess conflation sweep: naming one's own capacity
+
+A sweep through the published texts for places where `ru` had been carrying excess by implication turned up one line it could not repair. A gardener with potatoes to dig is too busy to burn a sack of rubbish, and Phi had no way to say so.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| A person whose present capacity is committed | `ritako` (workload), `pushali` (overload), `sheli` (impatient), and `CV-CAPACITY-01` | **IMPLEMENTED** | Phi could name the demand and the failure but nothing between them. Workload is the demand itself, overload is capacity already exceeded, and impatience is pressure from delay rather than commitment. `mehalu` fills the space, and the degree particles do the rest: too busy for a request, a little busy, not busy at all. |
+
+The batch adds one base root and changes no membership. The form deliberately stays outside the `ri-` work family that holds `riola`, `riporu`, `ritako`, and four others. Being busy is not always work, and a parent with a toddler, a friend sitting with an illness, and a person in the first week of grief are all occupied in the way the word describes. Filing it with labor would have treated a person's hours as work hours by default.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.

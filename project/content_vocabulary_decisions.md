@@ -88,6 +88,7 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Original essay: the report at dusk](#original-essay-the-report-at-dusk) | complete | closed | 1 |
 | [Original essay: the worth of a fallen branch](#original-essay-the-worth-of-a-fallen-branch) | complete | closed | 2 |
 | [Narrative diagnostic: body, motion, and onset](#narrative-diagnostic-body-motion-and-onset) | complete | closed | 8 |
+| [Excess conflation sweep: naming one's own capacity](#excess-conflation-sweep-naming-one-s-own-capacity) | complete | closed | 1 |
 
 ## Core material qualities
 
@@ -813,6 +814,12 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | `CV-COMM-12` | indicating a thing or place to another person by gesture | Implemented | base | Words: `thusemi`. Causative 'ka nila' was the nearest form and it reports that the other person saw, which pointing does not promise. A bird can be pointed at and still go unseen. 'kiroa' (sign) is a standing marker rather than an act, so nothing named the gesture itself. |
 | `CV-BODY-14` | lifting: raising a thing against its weight | Compositional | base | `rihe`, `ka`, `tumoa`. Causative 'ka rihe' makes a thing rise, and making a box rise is a fair description of lifting it. The diagnostic found no loss, so the two words stay. Coin only if sustained narrative use keeps reaching for a single verb, since the question is frequency rather than expressiveness. |
 | `CV-BODY-15` | following: moving along a path because another is moving along it | Compositional | base | `noe`, `wepu`, `thalo`, `kulo`. 'noe' (BEHIND) with a motion verb says the apprentice went behind the parent, which is what following looks like from outside. What it leaves unstated is that one path depends on the other. The diagnostic judged the loss small; a root waits for a passage where the dependence carries weight. |
+
+## Excess conflation sweep: naming one's own capacity
+
+| ID | Concept | Status | Placement | Decision or return condition |
+|---|---|---|---|---|
+| `CV-CAPACITY-01` | busy: a person whose present capacity is already committed | Implemented | base | Words: `mehalu`. Phi could name the demand and the failure but not the state between them. 'ritako' (workload) is the demand itself, 'pushali' (overload) is capacity already exceeded, and 'sheli' (impatient) is pressure from delay rather than from commitment. Nothing let a speaker say that their capacity was taken, which is the ordinary move behind declining an invitation, asking whether someone has room for a request, or saying not now without saying no. A form in the 'ri-' work family was rejected: being busy is not always work, and filing it there would treat a person's hours as work hours by default. |
 
 ## Prompt sources
 
