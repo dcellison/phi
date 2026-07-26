@@ -3,7 +3,7 @@
 0.47	1	mia	1SG	function	mea	thanks	interjection	2049
 0.47	1	lu	COND	function	lo	PL	function	1664
 0.47	1	shea	peace	content	shia	3SG	function	1461
-0.47	1	nila	see	content	nela	COORD	function	760
+0.47	1	nila	see	content	nela	COORD	function	761
 0.47	1	so	FUT	function	su	OPT	function	433
 0.47	1	wi	two	content	we	ALSO	function	293
 0.47	1	sholu	complete	content	sholo	QUOT.COMP.CLOSE	function	286
@@ -129,9 +129,9 @@
 0.50	1	phoa	do	content	thoa	AMONG	function	106
 0.50	1	ke	INFER	function	pe	SUFF	function	99
 0.50	1	koma	head	content	kona	VOC	function	96
-0.50	1	heloi	generous	content	sheloi	MANY	function	80
 0.50	1	hola	laugh	content	sola	DISJ	function	80
-0.50	1	seloi	insightful	content	sheloi	MANY	function	79
+0.50	1	heloi	generous	content	sheloi	MANY	function	79
+0.50	1	seloi	insightful	content	sheloi	MANY	function	78
 0.50	1	thola	bring	content	sola	DISJ	function	73
 0.50	1	hina	what	function	phina	FEW	function	68
 0.50	1	wheo	elder	content	sheo	THAN	function	65

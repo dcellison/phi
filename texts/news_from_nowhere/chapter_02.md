@@ -911,8 +911,8 @@ COND 1SG COM labor PL gift take. PL person PROX INTS strange FUT see.
 (So if I took gifts along with the work, people would see that as very strange.)
 morris: "so to take gifts in connection with it would look very queer."
 
-lu sheno ta miona wei mia thena loa. wi miona so po loa. pheo thena mo lo miona so po loa.
-COND ADD one person DAT 1SG thing give. two person FUT POT give. POST thing CMPR PL person FUT POT give.
+lu sheno ta miona wei mia thena loa. wi miona so po loa. pheo thena lo mo miona so po loa.
+COND ADD one person DAT 1SG thing give. two person FUT POT give. POST thing PL CMPR person FUT POT give.
 (Besides, if one person gave me something, a second might, and then more might, and so on.)
 morris: "Besides, if one person gave me something, then another might, and another, and so on;"
 
