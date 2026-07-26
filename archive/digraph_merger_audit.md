@@ -89,4 +89,8 @@ All three were kept. The maintainer judged the sibilant pair much easier to tell
 
 ## What the audit did not examine
 
-Speakers who realize `/θ/` as `[t]`, `[f]`, or `[s]`, or `/ɸ/` as `[f]`, are a separate question from the one asked here: this audit measured the digraph against its own plain letter, not against every substitution a given accent might make. Whether Phi should also weigh `th` against `f` or `s` collisions is unasked and unruled.
+Speakers who realize `/θ/` as `[t]`, `[f]`, or `[s]`, or `/ɸ/` as `[f]`, are a separate question from the one asked here: this audit measured each digraph against its own plain letter, not against every substitution a given accent might make.
+
+That question is now closed, and the ruling is D064. Phi tells a speaker what a word should sound like and asks for care in the saying. It does not redesign its vocabulary to survive every substitution an accent makes. The `wh` bar is narrower than it looks: effort can close a difficult contrast, and closing it is the speaker's work, but nothing closes a contrast the speaker's phonology no longer holds. That is why `wh` against `w` is barred and `th` against `t` is not.
+
+Hiberno-English, the case that prompted the ruling, shows how much room the language already leaves. Irish speakers who realize `th` as a stop commonly keep "thin" apart from "tin" by making the first dental and the second alveolar, and `documents/reference/phonetics.md` section 5.2 already lets Phi's dental `/t̪/` be alveolar `[t]`, since Phi holds no dental-alveolar contrast. The same strategy carries `theo` apart from `teo` in that accent, on place rather than manner.
