@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (323)
+## activity (324)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -86,6 +86,7 @@
 | `manolu` | stay | remaining in a place, state, or relation |
 | `masue` | measure | gauging something against a standard for a practical purpose |
 | `masuro` | calibrate | comparison and adjustment of a device against a reference |
+| `mehalu` | busy | the state of a person whose capacity is taken up by what they are already doing |
 | `meilo` | sit | holding or entering a seated posture |
 | `meipa` | seat | a place prepared for the bodily posture of sitting |
 | `meliho` | sing | the bodily and practised act of singing |
@@ -2419,7 +2420,7 @@
 | `wotami` | shrub | a woody growth form occupying the layer below or beside trees |
 | `wuero` | far (adj) | substantial separation from a contextual place or object |
 
-## temporal (155)
+## temporal (156)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2470,6 +2471,7 @@
 | `luseri` | provenance | a sequence of prior stages leading to a present state |
 | `maewo` | threshold | the point at which a process or state begins to change |
 | `manolu` | stay | continuation across a stated or contextual interval |
+| `mehalu` | busy | reports that the present holds no room, which is how speakers negotiate when something can happen |
 | `meloa` | persevere | a course resumed or sustained across obstacles and delay |
 | `meluna` | season | a recurring portion of the year |
 | `meluri` | climate | conditions analyzed over an explicitly long period |

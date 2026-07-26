@@ -929,6 +929,15 @@
         "CV-BODY-14",
         "CV-BODY-15"
       ]
+    },
+    {
+      "id": "excess-conflation-sweep",
+      "heading": "Excess conflation sweep: naming one's own capacity",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-CAPACITY-01"
+      ]
     }
   ],
   "candidates": [
@@ -5133,6 +5142,31 @@
       ],
       "batches": [
         "narrative-body-and-onset"
+      ]
+    },
+    {
+      "id": "CV-CAPACITY-01",
+      "concept": "busy: a person whose present capacity is already committed",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "Phi could name the demand and the failure but not the state between them. 'ritako' (workload) is the demand itself, 'pushali' (overload) is capacity already exceeded, and 'sheli' (impatient) is pressure from delay rather than from commitment. Nothing let a speaker say that their capacity was taken, which is the ordinary move behind declining an invitation, asking whether someone has room for a request, or saying not now without saying no. A form in the 'ri-' work family was rejected: being busy is not always work, and filing it there would treat a person's hours as work hours by default.",
+      "expressions": [
+        "ritako",
+        "pushali",
+        "sheli",
+        "ralu",
+        "riporu"
+      ],
+      "implementation": {
+        "words": [
+          "mehalu"
+        ],
+        "files": [
+          "vocabulary/content/busy.json"
+        ]
+      },
+      "batches": [
+        "excess-conflation-sweep"
       ]
     }
   ],

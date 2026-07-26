@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1286 words.*
+*1287 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -340,6 +340,7 @@
 | `masuro` | calibrate | /mä.ˈsu.ro̞/ | verb |
 | `mawha` | NONE | /ˈmä.ʍä/ | quantifier |
 | `mea` | thanks | /ˈme̞.ä/ | interjection |
+| `mehalu` | busy | /me̞.ˈhä.lu/ | adjective |
 | `meilo` | sit | /me̞.ˈi.lo̞/ | verb |
 | `meipa` | seat | /me̞.ˈi.pä/ | noun |
 | `meliho` | sing | /me̞.ˈli.ho̞/ | verb |
