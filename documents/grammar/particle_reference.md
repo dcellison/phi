@@ -363,7 +363,7 @@ RESTR 3SG understand.
 
 ### Degree
 
-Four particles share the degree position, immediately before the descriptor or verb they modify. One per phrase: they never stack with each other.
+Four particles occupy the degree position, each standing directly in front of the word it measures. That word can be an adjective, a verb, or a noun with degrees of its own. One per phrase: they never stack with each other.
 
 #### `ru` - Intensifier (INTS)
 **Function**: Announces intensification of the following word ("very", "truly")
@@ -372,6 +372,12 @@ Four particles share the degree position, immediately before the descriptor or v
 ru welao.
 INTS good.
 (very good)
+```
+**Note**: `nuhe` (sadness), `sukima` (fear), `wiloru` (dizziness), and `tupeka` (burden) have no adjective anywhere in the lexicon, so a degree particle on the noun is the only route those states have to one:
+```
+mia ru nuhe phaelo.
+1SG INTS sadness feel.
+(I feel deep sadness.)
 ```
 
 #### `la` - Attenuator (ATTEN)
@@ -412,6 +418,12 @@ soup EXC hot be.
 thepalu sheo shelira mo mioru nai.
 garden THAN forest CMPR beautiful be.
 (The garden is more beautiful than the forest.)
+```
+**Note**: With a countable noun `mo` compares amount instead of degree:
+```
+mia wei thia mo thena loa.
+1SG DAT 2SG CMPR thing give.
+(I give you more.)
 ```
 
 #### `mo ko` - Superlative Marker (SUPL)

@@ -44,6 +44,12 @@ The fixed pair **mo ko** forms a superlative:
 
 **ha thepalu mo ko mioru nai.** — This garden is the most beautiful.
 
+Put **mo** in front of something countable and it compares amounts instead:
+
+**mia wei thia mo thena loa.** — I give you more.
+
+One particle, two jobs, and the noun decides which.
+
 Comparison states a relation. Greater size, speed, or beauty carries no extra worth with it.
 
 ## ha and ra: proximal and distal
@@ -58,7 +64,7 @@ The same particles can be locative predicates with **nai**: **mia ha nai.** mean
 
 ## ru, la, pe, wo: degree
 
-Four particles share one position, immediately before the quality or action they modify. Only one may stand there at a time, because a degree cannot be raised and lowered at once.
+Four particles share one position, immediately before the word they measure. Only one may stand there at a time, because a degree cannot be raised and lowered at once.
 
 **ru** raises the degree and **la** lowers it.
 
@@ -79,6 +85,12 @@ The other two measure a degree against what the moment asks rather than against 
 **sulopa wo sukaro nai.** — The soup is too hot.
 
 **pe** says the degree meets the need and **wo** says it has gone past it. Both take their standard from the purpose at hand, so the same heat can be enough for a bath and too much for a mouth. Negation gives the missing corner: **pe ma sukaro nai** is not hot enough.
+
+All four sit on the word underneath, and that word does not have to be a quality or an action. Phi names several states with nouns and gives them no adjective at all: **nuhe** is sadness, **sukima** fear, **wiloru** dizziness, **tupeka** burden. Their degrees arrive the same way.
+
+**mia ru nuhe phaelo.** — I feel deep sadness.
+
+Nothing forbids **ru womu**, very house. Nothing needs to. A house has no degree to raise, and the phrase stops making sense before any rule reaches it.
 
 Degree is not comparison. **ru mioru** strengthens one description, while **mo mioru** measures it against another. And **ru** is not **wo**: a thing that is very hot may be exactly right for the work in hand, where **wo** says it has stopped being right.
 
@@ -120,6 +132,6 @@ The three honorifics follow **ne** and state the speaker's relationship to the n
 
 Wider scope comes first:
 
-**we / li > ha / ra > lo / numeral > ko > ru / mo > word**
+**we / li > ha / ra > lo / numeral > ko > degree > word**
 
 This gives **ha lo melu** (these friends), **ra nu wi shiro** (that second tree), **ha mo ko mioru peloru** (this most beautiful flower), and **li ha lo melu** (only these friends). The sequence is learned once, but a crowded phrase still takes effort to hear. When a stack begins to obscure its noun, another sentence is available.

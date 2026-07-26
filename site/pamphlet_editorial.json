@@ -664,7 +664,7 @@
       "variant": "appendix"
     },
     "pamphlets/three_slots/00_title.md": {
-      "shape": "h1,2;t-;f-;q-;u6;o12;r2;s1",
+      "shape": "h1,2;t-;f-;q-;u7;o12;r2;s1",
       "variant": "opening"
     },
     "pamphlets/three_slots/01_one_machine_three_scopes.md": {
@@ -696,7 +696,7 @@
       "variant": "lesson"
     },
     "pamphlets/three_slots/08_the_interaction_tables.md": {
-      "shape": "h1,3,3,3,3,3;t2x10,2x8,3x6,2x8;f-;q-;u-;o10;r0;s1",
+      "shape": "h1,3,3,3,3,3;t2x10,2x8,3x6,2x8;f-;q-;u-;o12;r0;s1",
       "variant": "tables"
     },
     "pamphlets/three_slots/09_one_sentence_grown.md": {
@@ -712,7 +712,7 @@
       "variant": "exercises"
     },
     "pamphlets/three_slots/12_appendix.md": {
-      "shape": "h1,3,3,3,3,3,3;t3x6,4x16,3x16;f-;q-;u6,6;o-;r0;s-",
+      "shape": "h1,3,3,3,3,3,3;t3x6,4x16,3x16;f-;q-;u7,6;o-;r0;s-",
       "variant": "appendix"
     }
   }

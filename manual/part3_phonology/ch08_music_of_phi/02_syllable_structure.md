@@ -21,7 +21,7 @@ Counting syllables is unusually kind to the learner: count the vowels. `phelona`
 
 A lexicon word cannot repeat a syllable. `kala` has two different syllables and is structurally possible; *kaka* repeats `ka` and cannot enter the vocabulary. Productive names use the related rule that no syllable with its own onset may repeat.
 
-Phi also reserves every one-syllable CV form for the thirty-five particles and the base numerals `mu`, `ta`, and `wi`. A content word or productive name therefore cannot be one syllable. This is the one word shape that identifies its broad grammatical role before a learner knows the word.
+Phi also reserves every one-syllable CV form for the thirty-eight particles and the base numerals `mu`, `ta`, and `wi`. A content word or productive name therefore cannot be one syllable. This is the one word shape that identifies its broad grammatical role before a learner knows the word.
 
 ## What other shapes can tell you
 

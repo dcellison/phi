@@ -10,7 +10,7 @@ Two Phi sentences show the difference:
 
 The content word **nila** does not change. Two short words placed before it locate the seeing in the past and identify inference as the speaker's source. Remove them and the sentence returns to an unmarked present assertion.
 
-Words such as **to** and **ke** are particles. Phi has thirty-five of them, all plain consonant-vowel syllables. Their brief, regular shape makes them easy to distinguish from content words, and their position shows what they affect. A particle does not hide inside a verb ending or ask the verb to change form.
+Words such as **to** and **ke** are particles. Phi has thirty-eight of them, all plain consonant-vowel syllables. Their brief, regular shape makes them easy to distinguish from content words, and their position shows what they affect. A particle does not hide inside a verb ending or ask the verb to change form.
 
 Particles are only one part of Phi grammar. Word order distinguishes subject from object, prepositions relate phrases, complementizers frame embedded clauses, and other function words do work of their own. The particle system handles three kinds of scope: a whole utterance, a verb phrase, or one constituent.
 
@@ -20,4 +20,4 @@ Separate words make grammatical choices audible. **wa** declares a yes/no questi
 
 Audibility is not the same as virtue. A source particle can be used carelessly, a polite particle can cover pressure, and an unmarked statement can be entirely responsible. Phi supplies explicit forms. Attention, truthfulness, and care still belong to the people using them.
 
-The system also has a learning cost. Particle meanings and ordering must be remembered, especially when several gather before a verb. Two facts keep the cost finite. The inventory is closed: thirty-five particles today, thirty-five in every text on the shelf, and no module or future chapter adds a thirty-sixth. And the three-slot model sorts them by scope: Slot 0 frames the utterance, Slot 1 shapes the verb phrase, and Slot 2 attaches to a particular word or phrase. The next five sections take those scopes in order.
+The system also has a learning cost. Particle meanings and ordering must be remembered, especially when several gather before a verb. Two facts keep the cost finite. The inventory is closed: thirty-eight particles, the same thirty-eight in every text on the shelf, and no module or chapter adds to them. The list you learn is the list there is. And the three-slot model sorts them by scope: Slot 0 frames the utterance, Slot 1 shapes the verb phrase, and Slot 2 attaches to a particular word or phrase. The next five sections take those scopes in order.

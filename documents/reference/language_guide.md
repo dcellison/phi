@@ -43,7 +43,7 @@ Phi's lexicon uses recurring sound-symbolic associations: liquids often suggest 
 The Subject-Object-Verb order places arguments before the action, while the three-slot particle system announces many grammatical relationships early. Evidential particles let a speaker name the claimed source of a statement when it matters. These structures can become occasions for deliberate composition, but they do not force reflection, and verb-final order also requires listeners to retain material until the predicate arrives.
 
 ### 2.3. Accessibility by design
-Phi uses a small sound inventory and consistent analytic patterns, but several contrasts, dense function words, thirty-five particles, clause frames, and ternary numerals still require study. No claim about universal ease or speed is justified until people with differing first languages have learned it.
+Phi uses a small sound inventory and consistent analytic patterns, but several contrasts, dense function words, thirty-eight particles, clause frames, and ternary numerals still require study. No claim about universal ease or speed is justified until people with differing first languages have learned it.
 
 ### 2.4. Holistic concepts
 Phi's vocabulary is designed to reflect an interconnected worldview. Rather than separating concepts like "house" and "belonging," or "mind" and "spirit," Phi often uses a single, holistic word to encompass a broader meaning.

@@ -55,7 +55,7 @@ A licensed Slot 0 frame may contain an ordinary Slot 1 stack. The particles stil
 | `ha` or `ra` | deixis precedes quantity, focus, degree, and the word |
 | `lo` or a numeral or quantifier | one expression of quantity; `lo` does not accompany another quantity |
 | `ko` | focus follows quantity and precedes an ordinary degree particle |
-| `ru`, `la`, `pe`, `wo`, or `mo` | degree stays next to the quality or action it modifies, one particle at a time |
+| `ru`, `la`, `pe`, `wo`, or `mo` | degree stays next to the word it measures, which may be a noun as readily as an adjective or a verb, one particle at a time |
 | `mo ko` | fixed superlative construction |
 | `nu` + numeral | fixed ordinal construction |
 | `ne` + honorific + name | name marker precedes the relationship marker |
@@ -74,5 +74,7 @@ For each form, say whether it is licensed and give the rule.
 8. `no ponu ma tapu.`
 9. `lo wi melu`
 10. `we li ha melu`
+11. `ru nuhe`
+12. `ru womu`
 
-Answers: 1 licensed, future reference time plus completion. 2 not licensed, two evidentials in one rank. 3 not licensed, not one of the documented Slot 0 combinations. 4 licensed, voice before modality. 5 not licensed, modality cannot precede voice. 6 licensed, the fixed passive-causative pair. 7 not licensed, the voice pair has one order. 8 licensed, a directive over a negated predicate. 9 not licensed, a numeral replaces `lo`. 10 not licensed, `we` and `li` do not share one phrase.
+Answers: 1 licensed, future reference time plus completion. 2 not licensed, two evidentials in one rank. 3 not licensed, not one of the documented Slot 0 combinations. 4 licensed, voice before modality. 5 not licensed, modality cannot precede voice. 6 licensed, the fixed passive-causative pair. 7 not licensed, the voice pair has one order. 8 licensed, a directive over a negated predicate. 9 not licensed, a numeral replaces `lo`. 10 not licensed, `we` and `li` do not share one phrase. 11 licensed, a degree particle on a noun, and the only route open to a state Phi names without an adjective. 12 licensed by the ordering rule and refused by sense, since a house has no degree to raise; this is the one item on the list that no rule turns away.
