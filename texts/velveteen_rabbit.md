@@ -561,8 +561,8 @@ space keeper impatient PST be.
 (The keeper was in a hurry.)
 williams: "Nana was in a hurry,"
 
-mua nulae shemu mueri lohau sheraki ru tupeka to nai.
-LOC sleep moment clay dog search INTS burden PST be.
+mua nulae shemu mueri lohau sheraki wo tupeka to nai.
+LOC sleep moment clay dog search EXC burden PST be.
 (At bedtime, searching for clay dogs was too much of a burden.)
 williams: "and it was too much trouble to hunt for china dogs at bedtime,"
 
@@ -1478,9 +1478,9 @@ PROX long COORD weary time PST be.
 (It was a long, weary time.)
 williams: "It was a long weary time,"
 
-lopia ru mokela to nai. thelao shia to po ma wile.
-child INTS sick PST be. CONS 3SG PST POT NEG play.
-(The child was so sick that he could not play.)
+lopia wo mokela to nai. thelao shia to po ma wile.
+child EXC sick PST be. CONS 3SG PST POT NEG play.
+(The child was too sick, and so he could not play.)
 williams: "for the Boy was too ill to play,"
 
 thiku tupiwa sui theula philo moshaki to nai. shia mawha thena to po phoa.
@@ -1725,9 +1725,9 @@ PROX INTS radiant rabbit PST be. 3SG UNIV white soft fabric PST be. 3SG eye true
 (It was a truly splendid rabbit, all white soft fabric, its eyes real glass.)
 williams: "It was a splendid bunny, all white plush with real glass eyes,"
 
-whekai lopia ru rashowe to nai. thelao shia ha to po ma theonu.
-CONTR child INTS excited PST be. CONS 3SG PROX PST POT NEG attend.
-(But the child was so excited that he could scarcely attend to it.)
+whekai lopia wo rashowe to nai. thelao shia ha to po ma ru theonu.
+CONTR child EXC excited PST be. CONS 3SG PROX PST POT NEG INTS attend.
+(But the child was too excited, and so he could not attend to it very much.)
 williams: "but the Boy was too excited to care very much about it."
 
 lao wireo philo shia kau moriwhe kerime so wepu ha ru waora thena to nai.
@@ -2107,9 +2107,9 @@ shia mena whekelu miona roe lumae phimela miso ru ka helui meno to ma sano.
 (He did not know that with that last kiss the magic person had changed him altogether.)
 williams: "He did not know that when the Fairy kissed him that last time she had changed him altogether."
 
-shia ru nilua to nai. lu he shia mua nophae sikoru to ma phaelo. shia sui laeno thimu po meilo.
-3SG INTS shy PST be. COND IRR 3SG LOC nose itch PST NEG feel. 3SG DUR long time POT sit.
-(He was very shy. If he had not felt an itch on his nose, he might have sat there a long time.)
+shia wo nilua to nai. lu he shia mua nophae sikoru to ma phaelo. shia sui laeno thimu po meilo.
+3SG EXC shy PST be. COND IRR 3SG LOC nose itch PST NEG feel. 3SG DUR long time POT sit.
+(He was too shy. If he had not felt an itch on his nose, he might have sat there a long time.)
 williams: "And he might have sat there a long time, too shy to move, if just then something hadn't tickled his nose,"
 
 phoe remo shia roe miso rokai paloi thumai miso nophae to rohi.

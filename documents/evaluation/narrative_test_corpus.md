@@ -221,29 +221,29 @@ no whau phialu therapi welotu.
 IMP SIMUL water boil mix.
 (While the water boils, stir.)
 
-no tei phialu neri nai hasi.
-IMP UNTIL water cool be wait.
-(Wait until the water is cool.)
+no tei phialu pe neri nai hasi.
+IMP UNTIL water SUFF cool be wait.
+(Wait until the water is cool enough.)
 
 no thorima. lu hasumi henoi ma nai. no phina hasumi we thinu.
 IMP taste. COND tea ENOUGH NEG be. IMP FEW tea ALSO put.
 (Taste it. If the tea is not enough, put in a little more tea.)
 
-lu phialu ru sukaro nai. no hasi.
-COND water INTS hot be. IMP wait.
-(If the water is very hot, wait.)
+lu phialu wo sukaro nai. no hasi.
+COND water EXC hot be. IMP wait.
+(If the water is too hot, wait.)
 
-no maeli welotu. no ma reshi welotu.
-IMP quiet mix. IMP NEG fast mix.
+no moli welotu. no ma reshi welotu.
+IMP gentle mix. IMP NEG fast mix.
 (Stir gently. Do not stir fast.)
 ```
 
-The bones are all here. `no` gives the directive, `nu` with a numeral orders the steps, `lu` carries the conditions in their own sentences, `tei` reaches the endpoint, and `whau` now holds one action open while another happens inside it. The refusal of units costs nothing a cook would miss, because `phina`, `henoi`, and a taste settle the amounts the way a person actually settles them.
+The bones are all here. `no` gives the directive, `nu` with a numeral orders the steps, `lu` carries the conditions in their own sentences, `tei` reaches the endpoint, and `whau` holds one action open while another happens inside it. `pe neri` and `wo sukaro` are the two conditions the cook is watching for. The refusal of units costs nothing a cook would miss, because `phina`, `henoi`, and a taste settle the amounts the way a person actually settles them.
 
 ### Gap log
 
-- **The degree gap bites hardest here, and it bites twice.** A recipe wants slightly warm and not too hot, and Phi has neither. `ru sukaro` is very hot and the passage has to fall back on it where the sense was warmer than you want. `ma reshi` is not fast where the sense was gently. The one direction the degree position can move is up.
-- **Sufficiency reaches the tea and not the heat.** `hasumi henoi ma nai` says the tea is not enough, because `henoi` quantifies a thing. Nothing says hot enough, which is what a cook actually waits for, so the passage waits on a state instead: until the water is cool.
+- **The degree position moves in both directions.** `wo sukaro` says the water is hotter than the tea can take, which is the condition a cook waits out. `la` covers a warmth wanted only in small measure, though nothing in this passage asks for one. Stirring gently is a manner question rather than a degree one: `moli welotu` puts the descriptor where P24 puts it.
+- **Sufficiency reaches the heat as well as the tea.** `henoi` quantifies a thing, so `hasumi henoi ma nai` says the tea is not enough. Degrees belong to `pe`, which measures against the purpose at hand: `pe neri` waits until the water is cool enough, without naming a temperature the language has no units for.
 - **Stirring is mixing.** `welotu` covers combining substances and had to serve for the repeated motion in one pot. The two are different acts and one word carries both.
 - **An imperative will not take a frame in front of it.** `whau phialu therapi no welotu` is rejected, because Slot 0 opens its sentence and nothing may stand before it. The frame has to move inside, after `no`, which reads correctly and is worth teaching explicitly, since every other frame in the corpus opens its sentence and a learner will build this one the same way.
 - **Ordering steps works without a word for step.** `nu ta` and `nu wi` number the instructions directly, so no noun for step or stage was wanted.
@@ -291,7 +291,7 @@ Nothing in this passage strained. The prepositions carried every relation asked 
 
 ### Gap log
 
-- **Small adjustments cannot be made.** Slightly to the left has no form, and directions are mostly small adjustments, so this register needs the missing degree operator as badly as the recipe did. Three passages in three registers have now reached for it.
+- **Small adjustments go on the verb.** Left is a side, not a scale, so the attenuator attaches to the motion rather than to `lawe`: `wea lawe la roke` moves a little toward the left. Directions are mostly small adjustments, which makes this the register that leans on `la` hardest.
 - **A corner has no name.** Rooms, gardens, and pages all have them, and `shuna` (edge) is the nearest word while naming something else. The passage routed around it.
 - **A row or line of things has no name either.** Tools laid out along a bench, trees along a path, and people waiting all want it, and neither `sorui` (circle) nor `ruela` (path) reaches it.
 - **Facing is well served.** `menoa` fixes a vantage and the deictic pair `ha` and `ra` moved with the speaker without ambiguity, which is what made the second half of the passage possible.

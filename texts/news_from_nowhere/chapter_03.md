@@ -932,8 +932,8 @@ DIST time foolish UNIV REL INS PL hand POT labor person PST small see.
 (For the foolishness of that day held in contempt everyone who could work with their hands.)
 morris: "for the stupidity of that day, which despised everybody who _could_ use his hands."
 
-whekai kona ne kulo. no ha serao haolu halemu. mu thena ru sheloi na nai.
-CONTR VOC NAME kulo. IMP PROX old speak remember. zero thing INTS MANY NEC be.
+whekai kona ne kulo. no ha serao haolu halemu. mu thena wo sheloi na nai.
+CONTR VOC NAME kulo. IMP PROX old speak remember. zero thing EXC MANY NEC be.
 (But Dick, old fellow: remember the old saying. Nothing must be too much!)
 morris: "But Dick, old fellow, _Ne quid nimis_!  Don't overdo it!\""
 
