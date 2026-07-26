@@ -1,6 +1,6 @@
 # The web
 
-Open the Phi lexicon at `welisha`, color, and the entry does not stay politely on its own page. It points first to `haoni welisha`, voice color, the ordinary expression for timbre. The compound registry leads elsewhere. `kerou welisha`, stone color, is gray. `horathe welisha`, dawn color, is pink. A learner who went looking for one plain word has acquired three more ideas before managing to close the tab. This is generous behavior from a dictionary, though it can make a short study session rather longer than advertised.
+The Phi lexicon has an entry for `welisha`, color, and it does not stay politely on its own page. It points first to `haoni welisha`, voice color, the ordinary expression for timbre. The compound registry leads elsewhere. `kerou welisha`, stone color, is gray. `horathe welisha`, dawn color, is pink. A learner who went looking for one plain word has acquired three more ideas before managing to close the tab. This is generous behavior from a dictionary, though it can make a short study session rather longer than advertised.
 
 Each expression leaves its method visible. `kerou` means stone and `horathe` means dawn. Both stand before `welisha` under the modifier-first rule from the last chapter, so the source of each hue arrives before the category it colors. Voice works the same way. A suffix for gray or an unrelated root for timbre would hide those relations. Phi uses words the learner may meet elsewhere and lets each of them teach again.
 

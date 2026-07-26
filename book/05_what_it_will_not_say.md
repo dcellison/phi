@@ -1,16 +1,14 @@
 # What it will not say
 
-Put Tolkien's Ring Verse on a Phi page and the first troublesome word is not *Ring*. A ring is a finger-circle, an object the language can compose before breakfast. The trouble begins when the object applies for a position of authority.
+A refusal raises a question the last chapter left open. If Phi declines to make a word ordinary, where does the word go?
 
-> *One Ring to rule them all, One Ring to find them, / One Ring to bring them all and in the darkness bind them.*
+Two answers are available and both are bad. Let the source disappear, and the refusal has become silence: a language that cannot quote what it objects to cannot object to much. Let the hard word soften into a near neighbour, so that ruling arrives as guiding, and the language has cleaned the villain's coat and called the laundry ethical. Peace linguistics becomes euphemism at exactly that moment.
 
-The source wording stays where the reader can see it (Tolkien 1954-1955). Chapter 2 followed Phi's refusal of *rule*, *lord*, and *throne* and showed what the transmutation says instead. The harder question comes afterward: what happens to a word once Phi declines to make it ordinary? If the source disappears, refusal has become silence. If *rule* quietly becomes *guide*, the language has cleaned the villain's coat and called the laundry ethical.
-
-Phi leaves the source where it is and writes its answer beside it. That answer names what the office does.
+Phi takes neither. It leaves the source wording where the reader can see it, in its own script and spelling, and writes its answer beside it, and the answer names the act the office was covering for. This chapter is about that arrangement, which turns out to govern quotation, testimony, measurement, and a person's own name.
 
 ## The act beneath the office
 
-Chapter 2 printed the transmutation's answer: where the source crowns an office, the Phi line accuses an act, `kawhera`, coerce, and the last verb ties with a literal cord. What that chapter did not follow is the temptation the transmutation had to refuse first. The nearest respectable words are `kulo`, guide, and `theluo`, steward, and respectable is precisely the problem. An object seeking dominion has every reason to describe the position as stewardship, and the Ring would welcome either title on its papers.
+Chapter 2 printed the case. Where Tolkien's verse crowns an office, the Phi line accuses an act, `kawhera`, coerce, and the last verb ties with a literal cord. What that chapter did not follow is the temptation the transmutation had to refuse first. The nearest respectable words are `kulo`, guide, and `theluo`, steward, and respectable is precisely the problem. An object seeking dominion has every reason to describe the position as stewardship, and the Ring would welcome either title on its papers.
 
 `kawhera` gives it no such assistance. The word means closing practical alternatives through power or threat, and outside the verse it stays an accusation with work to do: in an ordinary dispute, the claim still has to answer to the demand, the power behind it, the alternatives that remained, and the affected person's account. The verse's last verb gets the same scrutiny from the other side. Calling the Ring's fastening a bond, `nolami`, the connection people form through experience and care, would make subjugation sound reciprocal. The gentler word would be the less truthful one.
 
@@ -46,16 +44,7 @@ Separate presentation implies no automatic verdict. The artifact keeps its own f
 
 The development protocol holds every refusal to the limit chapter 2 named, and a refusal that burdens one of the protected needs goes back under review. Source preservation is one guardrail, not a reason to leave a recurring needed concept permanently outside the language.
 
-Article 1 of the Universal Declaration of Human Rights shows the distinction in a close translation. Its source asks people to act toward one another "in a spirit of brotherhood." Phi has no universal male person class. The translation preserves the kinship and leaves the source's gendered word visible:
-
-```
-lo shia roe lomea phiora wiso na phoa.
-PL 3SG INS sibling spirit RECP NEC do.
-(They must act toward one another with sibling spirit.)
-udhr: "and should act towards one another in a spirit of brotherhood."
-```
-
-`lomea` means sibling. The line does not claim that *sibling* and *brotherhood* are identical, and the translation notes another difference: Phi's `na` makes the obligation stronger than the source's *should*. The labeled source line lets the reader inspect both changes. Ungendering the Phi sentence does not edit the declaration after the fact (United Nations General Assembly 1948).
+The arrangement does its plainest work where a translation has to change something. Chapter 2 noted that the Universal Declaration's "spirit of brotherhood" arrives in Phi as sibling spirit, because the language has no universal male person class. What makes that honest rather than quiet is the line underneath: the source's own wording sits there, gendered word included, so a reader can see the substitution instead of taking the translator's word for it. Ungendering the Phi sentence does not edit the declaration after the fact (United Nations General Assembly 1948).
 
 The same guardrail protects a person's own account of identity. Phi declines universal gendered classes in its core vocabulary, but it does not claim that a speaker's exact self-description is mistaken or unsayable. That wording may appear separately, and a future lexical proposal receives case-by-case review. A value-explicit language still has to hear when one of its values has made another person's sentence harder.
 
@@ -81,7 +70,7 @@ The bearer or relevant naming community controls adaptation. A source name such 
 
 The source boundary and the naming system meet here. Phi can accept a bearer-approved form inside its grammar without pretending that every name must submit to its sounds. A preferred name may sit in its own script beside the Phi passage for as long as its bearer wishes. The language can point across that distance without claiming ownership of what it sees.
 
-Return to the line at the top of the page. Tolkien's title and threat are still there, capitals included; nothing in Phi has cleaned them. Beside the source, `kawhera` states what the rule does. The refused thing has not vanished. It stands at arm's length in its own script, where the reader can see both the menace and the distance.
+Go back to the question this chapter opened on. A refused word does not vanish and it does not soften. Tolkien's title and threat sit on their own page in their own capitals, and nothing in Phi has cleaned them; beside the source, `kawhera` states what the rule does. The refused thing stands at arm's length in its own letters, where a reader can see both the menace and the distance. That is the arrangement, and Phi keeps it everywhere: an exact record, a witness's own words, a name its bearer chose. The language speaks about them without swallowing any of them.
 
 ## References
 

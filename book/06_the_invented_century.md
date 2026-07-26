@@ -4,7 +4,7 @@ In August 1889, in Paris, delegates from across the world sat through a full con
 
 Five years later the movement was a ruin. A small circle continued to care for Volapük, but the century that followed knew it mostly as a scatter of the faithful. Nothing about the language's grammar changed in those five years. What changed was who owned it.
 
-Phi enters a tradition, and this chapter is that tradition's history told with the question a new language should ask of it: not which invented language was most beautiful, but why they died, and what the survivors did differently. The century of invented languages ran its experiments at full scale, with real people. What follows is this book's reading of the results, argued case by case: the failures were social. The grammar almost never mattered.
+Four chapters have now described what Phi is. This one describes what it is joining, because Phi enters a tradition, and the tradition's history is best told with the question a new language should ask of it: not which invented language was most beautiful, but why they died, and what the survivors did differently. The century of invented languages ran its experiments at full scale, with real people. What follows is this book's reading of the results, argued case by case: the failures were social. The grammar almost never mattered.
 
 ## The emperor of words
 
