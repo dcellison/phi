@@ -1137,6 +1137,7 @@
 | `numelo` | nurture |
 | `numike` | negotiate |
 | `nuola` | eat |
+| `nurima` | wander |
 | `palo` | touch |
 | `panoru` | support |
 | `pashenu` | petition |
@@ -1343,7 +1344,6 @@
 | `whekate` | refute |
 | `whelani` | welcome |
 | `whemura` | dream |
-| `whenola` | wander |
 | `wheparu` | discriminate |
 | `whepelo` | retaliate |
 | `wheraku` | erode |

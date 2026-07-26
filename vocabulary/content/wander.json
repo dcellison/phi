@@ -1,24 +1,24 @@
 {
-  "word": "whenola",
+  "word": "nurima",
   "gloss": "wander",
-  "ipa": "/ʍe̞.ˈn̪o̞.lä/",
+  "ipa": "/n̪u.ˈri.mä/",
   "syllables": [
-    "whe",
-    "no",
-    "la"
+    "nu",
+    "ri",
+    "ma"
   ],
   "pos": "verb",
   "search_terms": [
     "roam",
     "meander"
   ],
-  "description": "A walker follows whichever opening comes next, with no fixed route or destination. That unsettled course is 'whenola'. A line of thought can wander too when it moves without a chosen conclusion. 'laniru' (journey) treats extended travel as a whole, while 'runaki' (wayfind) attends to maintaining orientation.",
-  "articulatory_notes": "Round the lips and raise the back of the tongue for voiceless 'wh', let air pass without vocal-fold vibration, and unround into middle-height front 'e'. Touch the tongue tip at the backs of the upper teeth for dental 'n', carry nasal voice into stressed middle-height back rounded 'o', then form voiced lateral 'l' at the alveolar ridge and open into central 'a'.",
-  "sound_symbolism": "The word changes course through breath, nasal resonance, and a final lateral release without meeting a full stop. Its three continuant contacts let the voice wander before it opens into 'a'.",
-  "usage_notes": "A setting takes 'mua' (LOC). Being lost is a separate claim about orientation; 'whenola' says only that the route or destination is not fixed.",
+  "description": "A walker follows whichever opening comes next, with no fixed route or destination. That unsettled course is 'nurima'. A line of thought can wander too when it moves without a chosen conclusion. 'laniru' (journey) treats extended travel as a whole, while 'runaki' (wayfind) attends to maintaining orientation.",
+  "articulatory_notes": "Set the tongue tip against the backs of the upper teeth for dental 'n' and let voice pass through the nose, then release into high back rounded 'u'. The tip taps or briefly trills at the alveolar ridge for stressed 'ri'. Close the lips for 'm', keeping voice in the nose, and open into central 'a'.",
+  "sound_symbolism": "A nasal, a tap, and a second nasal pass the voice along without one closure to halt it, and the final 'a' leaves the mouth open, which suits a course that has not settled where it ends.",
+  "usage_notes": "A setting takes 'mua' (LOC). Being lost is a separate claim about orientation; 'nurima' says only that the route or destination is not fixed.",
   "examples": [
     {
-      "phi": "suliwa mua kirua whenola.",
+      "phi": "suliwa mua kirua nurima.",
       "translation": "The snake wanders in the sand."
     }
   ],
