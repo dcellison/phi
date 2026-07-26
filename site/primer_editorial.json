@@ -1,5 +1,5 @@
 {
-  "total_chapters": 24,
+  "total_chapters": 30,
   "parts": [
     {
       "first": 1,
@@ -24,6 +24,18 @@
       "last": 24,
       "label": "Part IV · Saying and thinking",
       "motif": "story"
+    },
+    {
+      "first": 25,
+      "last": 27,
+      "label": "Part V · Shaping the claim",
+      "motif": "household"
+    },
+    {
+      "first": 28,
+      "last": 30,
+      "label": "Part VI · Degree and emphasis",
+      "motif": "gathering"
     }
   ],
   "pages": {
@@ -122,6 +134,30 @@
     "primer/24_the_news.md": {
       "story_title": "The news",
       "manual_source": "manual/part4_grammar/ch16_evidentiality/01_introduction.md"
+    },
+    "primer/25_the_work_gets_done.md": {
+      "story_title": "The work gets done",
+      "manual_source": "manual/part4_grammar/ch15_voice_possibility/01_the_passive_se.md"
+    },
+    "primer/26_making_it_happen.md": {
+      "story_title": "Making it happen",
+      "manual_source": "manual/part4_grammar/ch15_voice_possibility/02_the_causative_ka.md"
+    },
+    "primer/27_the_wish.md": {
+      "story_title": "The wish",
+      "manual_source": "manual/part4_grammar/ch09_particle_system/03_slot_0_framing.md"
+    },
+    "primer/28_how_warm_is_the_soup.md": {
+      "story_title": "How warm is the soup",
+      "manual_source": "manual/part4_grammar/ch09_particle_system/05_slot_2_word_level.md"
+    },
+    "primer/29_more_and_most.md": {
+      "story_title": "More and most",
+      "manual_source": "manual/part4_grammar/ch09_particle_system/05_slot_2_word_level.md"
+    },
+    "primer/30_this_one_only_this_one.md": {
+      "story_title": "This one, only this one",
+      "manual_source": "manual/part4_grammar/ch09_particle_system/05_slot_2_word_level.md"
     }
   }
 }

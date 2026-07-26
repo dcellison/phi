@@ -1590,7 +1590,7 @@ for i, f in enumerate(chapters):
     elif f.name == "00_before_you_begin.md":
         body = apply_primer_prelude(body, repo_path)
         editorial_kind = "prelude"
-    elif f.name == "25_capstone.md":
+    elif f.name == "31_capstone.md":
         body = apply_primer_capstone(body, repo_path)
         editorial_kind = "capstone"
     else:

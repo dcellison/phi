@@ -46,8 +46,8 @@ The chapters add sentence shapes in a fixed order, usually with a small set of w
 |---|---|---|
 | 13 | Negation *ma* | What is not |
 | 14 | Can *po*; must *na* | The rules of the house |
-| 15 | Counting: *ta*, *wi*, *shao* and the classifiers | At the market |
-| 16 | Names with *ne*; calling with *kona*; politeness *pi* | Visitors |
+| 15 | Counting: *ta*, *wi*, *shao*, the classifiers, and ordinal *nu* | At the market |
+| 16 | Names with *ne* and the honorifics *sa*, *ni*, *le*; calling with *kona*; politeness *pi* | Visitors |
 | 17 | The gift noun *loami*; sharing *phowe* | The gift |
 | 18 | And, or, also: *nela*, *sola*, *we* | Together |
 
@@ -62,8 +62,24 @@ The chapters add sentence shapes in a fixed order, usually with a small set of w
 | 23 | If: *lu* and *lu he* | Weather plans |
 | 24 | Claimed sources: *hi*, *ke*, *ti*, *ho* | The news |
 
+**Part V: Shaping the claim**
+
+| Ch. | New | Story |
+|---|---|---|
+| 25 | Passive *se* | The work gets done |
+| 26 | Causative *ka* | Making it happen |
+| 27 | Wishes with *su* | The wish |
+
+**Part VI: Degree and emphasis**
+
+| Ch. | New | Story |
+|---|---|---|
+| 28 | Degree: *ru*, *la*, *pe*, *wo* | How warm is the soup |
+| 29 | Comparison *mo* and *mo ko*; *sheo* (than) | More and most |
+| 30 | Focus *ko*; only *li* | This one, only this one |
+
 **Capstone**: read the close translation of [*The North Wind and the Sun*](../texts/north_wind_and_sun.md) as an annotated bridge into the full corpus, then compare its companion transmutation. The four-line blocks support vocabulary and grammar beyond the graded chapters. [The Metta Sutta](../texts/metta_sutta.md) then carries the language from household lessons into sustained compassionate expression.
 
 ## Status
 
-The primer is complete: the pronunciation prelude, all twenty-four chapters, and the capstone.
+The primer is complete: the pronunciation prelude, all thirty chapters, and the capstone. Every one of Phi's thirty-eight particles is introduced somewhere on the ladder.
