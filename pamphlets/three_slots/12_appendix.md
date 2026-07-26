@@ -1,6 +1,6 @@
 # Appendix: the complete inventory
 
-Phi has thirty-five particles. They are one part of its grammar, gathered here by scope.
+Phi has thirty-eight particles. They are one part of its grammar, gathered here by scope.
 
 ### Slot 0: utterance frame
 
@@ -42,7 +42,7 @@ Each rank permits one particle. The sole same-rank pair is `se ka`, in that orde
 
 ### Slot 2: constituent
 
-**`we` / `li` > `ha` / `ra` > `lo` / numeral > `ko` > `ru` / `mo` > word**
+**`we` / `li` > `ha` / `ra` > `lo` / numeral > `ko` > degree > word**
 
 | Particle | Gloss | Function |
 |---|---|---|
@@ -53,11 +53,11 @@ Each rank permits one particle. The sole same-rank pair is `se ka`, in that orde
 | `lo` | PL | marks unquantified plurality; replaced by a numeral or quantifier |
 | `nu` | ORD | makes the following numeral ordinal |
 | `ko` | FOC | selects a constituent for contrast or correction |
-| `ru` | INTS | increases the degree of a quality or action |
-| `la` | ATTEN | lowers the degree of a quality or action |
+| `ru` | INTS | raises the degree of the following word, noun included |
+| `la` | ATTEN | lowers that same degree |
 | `pe` | SUFF | the degree meets what the situation asks |
 | `wo` | EXC | the degree passes what the situation can take |
-| `mo` | CMPR | forms a comparative; `mo ko` forms a superlative |
+| `mo` | CMPR | compares: degree with a quality, amount with a countable noun; `mo ko` forms a superlative |
 | `ne` | NAME | introduces a name atom |
 | `sa` | HON.RESPECT | marks respect toward a named bearer |
 | `ni` | HON.INTIM | marks personal closeness toward a named bearer |
@@ -73,6 +73,7 @@ Each rank permits one particle. The sole same-rank pair is `se ka`, in that orde
 - No evidential names a source.
 - No modal marks possibility, ability, necessity, or obligation.
 - No `ma` leaves the predicate affirmative rather than negated.
+- No degree particle leaves a quality at its plain strength.
 
 ### Working sentence template
 

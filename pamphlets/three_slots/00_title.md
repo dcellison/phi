@@ -2,17 +2,18 @@
 
 ## A practice companion to the manual
 
-Thirty-five short particles do a surprising amount of work in Phi, and each keeps one shape. They are not the whole grammar. Word order, prepositions, complementizers, and other function words still have work to do. The particles handle three kinds of scope: a frame for the utterance, a ranked block before the verb, and a modifier attached to one constituent.
+Thirty-eight short particles do a surprising amount of work in Phi, and each keeps one shape. They are not the whole grammar. Word order, prepositions, complementizers, and other function words still have work to do. The particles handle three kinds of scope: a frame for the utterance, a ranked block before the verb, and a modifier attached to one constituent.
 
 This pamphlet brings the complete particle system into one place. It begins with the three scopes, works through each inventory, and then practises the combinations that Phi actually licenses. The order is strict, but the aim is not to build the longest possible sentence. A long stack is useful only when one event genuinely needs every distinction in it. Particle collecting is an innocent hobby, though not a recognised branch of grammar.
 
 By the end of this pamphlet, you will be able to:
 
-- Sort all thirty-five particles by scope.
+- Sort all thirty-eight particles by scope.
 - Build Slot 1 in its fixed order, with one choice per rank and negation last.
 - Distinguish tense, aspect, voice, claimed source, modality, and negation without making one do another's work.
 - Use the documented Slot 0 combinations and recognise combinations Phi does not license.
 - Nest Slot 2 particles from wider scope to narrower scope.
+- Raise or lower a degree on a quality, an action, or a noun that has one.
 - Read passive, causative, focus, and restriction in context without assigning them moral force that their grammar does not carry.
 
 The pamphlet assumes the primer or Parts I through III of the manual. Its closest companion is manual chapter 9, followed by the chapters on tense and aspect, voice and modality, and evidentiality. The evidentiality, naming, and spoken-punctuation pamphlets take several parts of this system further.
