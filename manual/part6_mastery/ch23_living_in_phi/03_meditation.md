@@ -10,7 +10,7 @@ A short Phi phrase can be repeated with each vowel kept in its own syllable. A s
 mia ha nai.
 (I am here.)
 
-su theula wha lima nai towe nai.
+su theula whu lima nai towe nai.
 (May all that lives be well.)
 
 theula kelu.

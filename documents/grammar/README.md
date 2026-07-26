@@ -5,7 +5,7 @@ These inventory documents specify Phi's grammatical machinery and serve as tiebr
 Square brackets in these references are diagram marks. They help the eye find a slot, constituent, clause, or understood gap. A speaker reads what they contain and skips the brackets; ordinary romanized or Tengwar writing leaves them out as well. Parentheses inside a pattern mark optional material.
 
 - **[particle_reference.md](./particle_reference.md)** — every particle, by slot, with the fixed Slot 1 ordering (Tense > Aspect > Voice > Evidentiality > Modality > Negation)
-- **[complementizer_reference.md](./complementizer_reference.md)** — three clause opener/closer pairs, the relativizer `wha`, the vocative `kona`, and the boundary between Phi quotation and outside source material
+- **[complementizer_reference.md](./complementizer_reference.md)** — three clause opener/closer pairs, the relativizer `whu`, the vocative `kona`, and the boundary between Phi quotation and outside source material
 - **[numeral_reference.md](./numeral_reference.md)** — the full ternary system: digits, scale units, ordinals, approximation, arithmetic, classifiers
 - **[preposition_reference.md](./preposition_reference.md)** — every preposition, its role, and the fixed preposition-before-object order
 

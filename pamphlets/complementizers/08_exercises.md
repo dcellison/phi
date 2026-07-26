@@ -75,7 +75,7 @@ Each sentence contains an error. Find and correct it.
 
 33. *shia sha mia wepu haolu
 
-34. *wha nophi kealo tho miona
+34. *whu nophi kealo tho miona
 
 35. *mia shelomu tha shia to wepu tho
 
@@ -164,7 +164,7 @@ For each sentence, identify which complementizer type is used and what it embeds
 59. **thia sha mia towe nai sho haolu**
     Type: _____ Embeds: _____
 
-60. **wha mia to nila shelu**
+60. **whu mia to nila shelu**
     Type: _____ Embeds: _____
 
 ---
@@ -282,8 +282,8 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 33. **shia sha mia wepu sho haolu**
     (Missing `sho`)
 
-34. **wha nophi kealo miona**
-    (Removed the borrowed `tho`: `wha` has no closer)
+34. **whu nophi kealo miona**
+    (Removed the borrowed `tho`: `whu` has no closer)
 
 35. **mia tha shia to wepu tho shelomu**
     (Reordered: embedded clause before main verb)
@@ -313,7 +313,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 
 44. thia **tha** melu towe nai **tho** sano
 
-45. **wha** nophi kealo miona
+45. **whu** nophi kealo miona
 
 46. lo mia **tha** shia **tha** melu to naphe **tho** sano **tho** phaelo
 
@@ -355,7 +355,7 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 59. Type: **Quotative (`sha`/`sho`)**
     Embeds: **exact words ("I am well")**
 
-60. Type: **Relative (`wha`)**
+60. Type: **Relative (`whu`)**
     Embeds: **a description of the book (that I saw)**
 
 ## Part G: Free Production
@@ -374,6 +374,6 @@ Write Phi sentences for each prompt. Use appropriate complementizers.
 64. **mia tha thia tha shia loshi nai tho phaelo tho nohero**
     I believe that you feel that they are happy.
 
-65. **wha tha melu towe nai tho sano miona mioru nai**
+65. **whu tha melu towe nai tho sano miona mioru nai**
     The person who knows that the friend is well is beautiful.
 

@@ -31,24 +31,24 @@ miona li roe korua po theali nila.
 person RESTR INS heart POT fitting see.
 (Only with the heart can one see rightly.)
 
-lo mirae wha noetha nai po ma nila.
+lo mirae whu noetha nai po ma nila.
 PL eye REL essential be POT NEG see.
 (The eyes cannot see what is essential.)
 ```
 
-**Notes:** Woods's "very simple secret" takes `siloma`, simple. `mueli` belongs to an undecorated bowl; information has no painted rim to leave bare. The intensifier stays with simplicity in the nominal fragment `ru siloma kupela`. "Rightly" is `theali`, fitting, and the two modals turn around the same act: with the heart one can see fittingly, while the eyes cannot see what is essential. `li` gives "only" to the instrument, and `wha noetha nai` lets Phi point towards what the eyes miss.
+**Notes:** Woods's "very simple secret" takes `siloma`, simple. `mueli` belongs to an undecorated bowl; information has no painted rim to leave bare. The intensifier stays with simplicity in the nominal fragment `ru siloma kupela`. "Rightly" is `theali`, fitting, and the two modals turn around the same act: with the heart one can see fittingly, while the eyes cannot see what is essential. `li` gives "only" to the instrument, and `whu noetha nai` lets Phi point towards what the eyes miss.
 
 ## The responsibility
 
 > *"You become responsible, forever, for what you have tamed."*
 
 ```
-theula thimu. thia wei wha thia nua ki nolami thonai kelu.
+theula thimu. thia wei whu thia nua ki nolami thonai kelu.
 UNIV time. 2SG DAT REL 2SG COM PFV bond responsible become.
 (Forever: you become responsible for the one with whom you have bonded.)
 ```
 
-**Notes:** The fox explains taming by the ties it creates, so this transmutation keeps `nolami`, bond. `woenu` would describe the animal's acclimation to human presence, a different centre. The comitative gap remains audible in `wha thia nua ___ ki nolami`, the one with whom you have bonded. Perfective `ki` keeps the completed bond present when responsibility begins, as Woods's "have tamed" requires. All time, `theula thimu`, stands first as its own fragment, and `thonai kelu` closes on responsibility as something a person becomes.
+**Notes:** The fox explains taming by the ties it creates, so this transmutation keeps `nolami`, bond. `woenu` would describe the animal's acclimation to human presence, a different centre. The comitative gap remains audible in `whu thia nua ___ ki nolami`, the one with whom you have bonded. Perfective `ki` keeps the completed bond present when responsibility begins, as Woods's "have tamed" requires. All time, `theula thimu`, stands first as its own fragment, and `thonai kelu` closes on responsibility as something a person becomes.
 
 ---
 

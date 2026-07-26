@@ -1,6 +1,6 @@
 # Part 5: Advanced patterns
 
-Descriptions do not stay simple. The child you mean is the one the storyteller taught; the story you mean is the one the person you love created. This section takes `wha` into that thicker weave: nesting, the traffic with complement frames, topic-drop, and reported speech.
+Descriptions do not stay simple. The child you mean is the one the storyteller taught; the story you mean is the one the person you love created. This section takes `whu` into that thicker weave: nesting, the traffic with complement frames, topic-drop, and reported speech.
 
 ## Nested relative clauses
 
@@ -9,27 +9,27 @@ A relative clause can contain another relative clause. This happens when describ
 ### Basic nesting
 
 ```
-mia wha wha nophi kealo miona to thumela lopia sano
+mia whu whu nophi kealo miona to thumela lopia sano
 1SG REL REL story create person PST teach child know
 (I know the child whom the person who creates stories taught.)
 ```
 
 Breaking this down:
-- Inner relative clause: `wha nophi kealo miona`, "the person who creates stories"
-- Outer relative clause: `wha [inner clause] to thumela lopia`, "the child whom [that person] taught"
+- Inner relative clause: `whu nophi kealo miona`, "the person who creates stories"
+- Outer relative clause: `whu [inner clause] to thumela lopia`, "the child whom [that person] taught"
 - Main clause: `mia ... sano`, "I know..."
 
 The structure nests like parentheses:
 
 ```
-mia [wha [wha nophi kealo miona] to thumela lopia] sano
+mia [whu [whu nophi kealo miona] to thumela lopia] sano
 ```
 
 ### Processing nested relatives
 
 Nested relatives require careful attention. The listener must:
-1. Recognize the first `wha`: a relative clause is starting
-2. Recognize the second `wha`: another relative clause is starting inside the first
+1. Recognize the first `whu`: a relative clause is starting
+2. Recognize the second `whu`: another relative clause is starting inside the first
 3. Find the noun after the inner clause's verb: that closes the inner clause
 4. Find the noun after the outer clause's verb: that closes the outer clause
 5. Continue with the main clause
@@ -38,12 +38,12 @@ This is cognitively demanding. In practice, speakers often break complex descrip
 
 **Instead of:**
 ```
-mia wha wha nophi kealo miona to thumela lopia sano
+mia whu whu nophi kealo miona to thumela lopia sano
 ```
 
 **Consider:**
 ```
-miona nophi kealo. mia wha ha miona to thumela lopia sano.
+miona nophi kealo. mia whu ha miona to thumela lopia sano.
 person story create. 1SG REL PROX person PST teach child know.
 (A person creates stories. I know the child whom this person taught.)
 ```
@@ -55,7 +55,7 @@ Splitting reduces nesting and aids comprehension.
 Sometimes the nested structure is exactly what you need:
 
 ```
-wha wha mia lothea miona to kealo nophi mioru nai
+whu whu mia lothea miona to kealo nophi mioru nai
 REL REL 1SG love person PST create story beautiful be
 (The story that the person whom I love created is beautiful.)
 ```
@@ -67,13 +67,13 @@ This precisely captures: there's a person I love; that person created a story; t
 In principle, nesting can continue indefinitely. In practice, more than two levels becomes nearly impossible to process:
 
 ```
-wha wha wha ... miona ... nophi ... shelu ...
+whu whu whu ... miona ... nophi ... shelu ...
 ```
 
 If you find yourself going three levels deep, restructure. Break it into multiple sentences. Phi's topic-drop makes this easy:
 
 ```
-miona ha nai. ha miona nophi kealo. mia wha ha miona to kealo nophi lothea.
+miona ha nai. ha miona nophi kealo. mia whu ha miona to kealo nophi lothea.
 person PROX be. PROX person story create. 1SG REL PROX person PST create story love.
 (A person is here. This person creates stories. I love the story that this person created.)
 ```
@@ -85,7 +85,7 @@ Relative clauses can contain embedded statements (`tha`/`tho`), quotations (`sha
 ### Containing `tha`/`tho`
 
 ```
-wha tha mia so shua tho sano miona ha nai
+whu tha mia so shua tho sano miona ha nai
 REL DECL.COMP 1SG FUT come DECL.COMP.CLOSE know person PROX be
 (The person who knows that I will come is here.)
 ```
@@ -98,7 +98,7 @@ Structure:
 Another example:
 
 ```
-mia wha tha shea welao nai tho haolu nophi theo
+mia whu tha shea welao nai tho haolu nophi theo
 1SG REL DECL.COMP peace good be DECL.COMP.CLOSE speak story read
 (I read the story that says that peace is good.)
 ```
@@ -108,7 +108,7 @@ The gap is in subject position: the story is what does the saying. `tho` closes 
 ### Containing `sha`/`sho`
 
 ```
-wha sha mia so shua sho to haolu miona mia melu nai
+whu sha mia so shua sho to haolu miona mia melu nai
 REL QUOT.COMP 1SG FUT come QUOT.COMP.CLOSE PST speak person 1SG friend be
 (The person who said "I will come" is my friend.)
 ```
@@ -118,7 +118,7 @@ The quotation sits inside the relative clause. The quoted words are preserved ex
 ### Containing `pha`/`pho`
 
 ```
-wha pha shia so shua pho ma sano miona si remo
+whu pha shia so shua pho ma sano miona si remo
 REL INT.COMP 3SG FUT come INT.COMP.CLOSE NEG know person IPFV think
 (The person who doesn't know whether they will come is still thinking.)
 ```
@@ -132,7 +132,7 @@ Topic-drop and relative clauses work together. A noun introduced with a relative
 ### Establishing and continuing
 
 ```
-wha mia to nila peloru mioru nai. thuroa. mia ha peloru lothea.
+whu mia to nila peloru mioru nai. thuroa. mia ha peloru lothea.
 REL 1SG PST see flower beautiful be. grow. 1SG PROX flower love.
 (The flower that I saw is beautiful. [It] grows. I love this flower.)
 ```
@@ -144,7 +144,7 @@ The flower, once introduced with its full description, becomes the understood su
 When you want to change the topic, introduce a new noun (with or without a relative clause):
 
 ```
-wha mia to nila peloru mioru nai. shiro ha nai. whalo nai.
+whu mia to nila peloru mioru nai. shiro ha nai. whalo nai.
 REL 1SG PST see flower beautiful be. tree PROX be. large be.
 (The flower that I saw is beautiful. A tree is here. [It] is large.)
 ```
@@ -154,11 +154,11 @@ The tree becomes the new topic; "large" describes the tree, not the flower.
 ### Extended discourse example
 
 ```
-mia serao miona to nila. wha nophi kealo miona phue nai.
+mia serao miona to nila. whu nophi kealo miona phue nai.
 1SG old person PST see. REL story create person wise be.
 (I saw an old person. The person who creates stories is wise.)
 
-shia wei mia nophi to haolu. wha mia to hea nophi mioru nai.
+shia wei mia nophi to haolu. whu mia to hea nophi mioru nai.
 3SG DAT 1SG story PST speak. REL 1SG PST hear story beautiful be.
 (They told me a story. The story that I heard is beautiful.)
 
@@ -176,17 +176,17 @@ When quoting or reporting speech that contains relative clauses, the structure e
 ### Direct quotation
 
 ```
-shia sha wha mia to kealo shelu mioru nai sho to haolu
+shia sha whu mia to kealo shelu mioru nai sho to haolu
 3SG QUOT.COMP REL 1SG PST create book beautiful be QUOT.COMP.CLOSE PST speak
 (they said "the book that I created is beautiful.")
 ```
 
-The relative clause `wha mia to kealo shelu` sits inside the quotation.
+The relative clause `whu mia to kealo shelu` sits inside the quotation.
 
 ### Indirect report
 
 ```
-shia tha wha shia to kealo shelu mioru nai tho to haolu
+shia tha whu shia to kealo shelu mioru nai tho to haolu
 3SG DECL.COMP REL 3SG PST create book beautiful be DECL.COMP.CLOSE PST speak
 (They said that the book that they created is beautiful.)
 ```
@@ -198,7 +198,7 @@ Note the pronoun shift: inside indirect speech, "I" becomes "they."
 Possession is bare juxtaposition, the possessor standing directly before the possessed noun. Inside a relative clause, nothing changes:
 
 ```
-wha mia shelu to theo miona ha nai
+whu mia shelu to theo miona ha nai
 REL 1SG book PST read person PROX be
 (The person who read my book is here.)
 ```
@@ -206,7 +206,7 @@ REL 1SG book PST read person PROX be
 "My book" (`mia shelu`) is the clause's object; the head `miona` is the one who read it.
 
 ```
-mia wha mia mua shia peloru to nila thepalu sano
+mia whu mia mua shia peloru to nila thepalu sano
 1SG REL 1SG LOC 3SG flower PST see garden know
 (I know the garden where I saw their flower.)
 ```
@@ -218,29 +218,29 @@ Here the possessed phrase `shia peloru` ("their flower") is the object, and the 
 Let's build a paragraph using multiple relative clauses, complementizers, and topic-drop:
 
 ```
-mia mua wha mua shelira nai womu to kamo. mioru nai.
+mia mua whu mua shelira nai womu to kamo. mioru nai.
 1SG LOC REL LOC forest be home PST arrive. beautiful be.
 (I arrived at the home that is in the forest. [It] is beautiful.)
 
-wha mua ha womu nai miona phue nai.
+whu mua ha womu nai miona phue nai.
 REL LOC PROX home be person wise be.
 (The person who is in this home is wise.)
 
-shia wei mia nophi to haolu. wha mia to hea nophi tha shea mua shelira nai tho to haolu.
+shia wei mia nophi to haolu. whu mia to hea nophi tha shea mua shelira nai tho to haolu.
 3SG DAT 1SG story PST speak. REL 1SG PST hear story DECL.COMP peace LOC forest be DECL.COMP.CLOSE PST speak.
 (They told me a story. The story that I heard said that peace is in the forest.)
 
-mia wha shia to haolu shelomu. shea mua mia nai.
+mia whu shia to haolu shelomu. shea mua mia nai.
 1SG REL 3SG PST speak understand. peace LOC 1SG be.
 (I understand what they said. Peace is in me.)
 ```
 
 This passage uses:
-- Locative relative clause (`wha mua shelira nai womu`)
-- Subject-gap relative clause (`wha mua ha womu nai miona`)
-- Object-gap relative clause (`wha mia to hea nophi`)
+- Locative relative clause (`whu mua shelira nai womu`)
+- Subject-gap relative clause (`whu mua ha womu nai miona`)
+- Object-gap relative clause (`whu mia to hea nophi`)
 - Embedded `tha`/`tho` inside a relative clause
-- Headless relative clause (`wha shia to haolu`)
+- Headless relative clause (`whu shia to haolu`)
 - Topic-drop throughout
 
 Nothing new was needed to combine them; each pattern keeps its own rules.

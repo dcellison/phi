@@ -50,27 +50,27 @@ mia tha shia to wepu tho shelomu
 - The embedded clause's verb comes first, then the closer, then the main verb
 - Pattern: `tha [... embedded-verb] tho main-verb`
 
-## Error 3: Adding a closer after `wha`
+## Error 3: Adding a closer after `whu`
 
-**The problem:** Learners who have learned that complementizers need closers may borrow one for `wha`.
+**The problem:** Learners who have learned that complementizers need closers may borrow one for `whu`.
 
 **Wrong:**
 ```
-*wha nophi kealo tho miona
+*whu nophi kealo tho miona
 REL story create DECL.COMP.CLOSE person
 ```
 
 **Right:**
 ```
-wha nophi kealo miona
+whu nophi kealo miona
 REL story create person
 (the person who creates stories)
 ```
 
-**Why it matters:** `wha` has no closer, and no other frame will lend it one. `tho` ends a declarative frame and nothing else, so it cannot stand here. The head noun is what closes a relative clause.
+**Why it matters:** `whu` has no closer, and no other frame will lend it one. `tho` ends a declarative frame and nothing else, so it cannot stand here. The head noun is what closes a relative clause.
 
 **How to avoid:**
-- Remember: `wha` is pre-nominal, not pre-verbal
+- Remember: `whu` is pre-nominal, not pre-verbal
 - The noun itself is the boundary
 - No closer needed, no closer exists
 
@@ -318,7 +318,7 @@ When you produce an embedded clause, verify:
 
 5. **Nesting correct?** If multiple embeddings, do closers match in reverse order?
 
-6. **No closer after `wha`?** Relative clauses don't have closers.
+6. **No closer after `whu`?** Relative clauses don't have closers.
 
 7. **Embedded clause complete?** Does it have a subject and verb?
 
@@ -363,7 +363,7 @@ With practice, the Phi system becomes intuitive. The regularity helps: once you 
 
 **Core rules to internalize:**
 1. Every `tha` needs `tho`; every `pha` needs `pho`; every `sha` needs `sho`
-2. `wha` needs no closer
+2. `whu` needs no closer
 3. Closer comes after embedded verb, before main verb
 4. Closers match openers in reverse nesting order
 5. A content question embeds bare; its gap-word never takes the frame

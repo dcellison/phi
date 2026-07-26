@@ -8,31 +8,31 @@ This document covers complementizers and the vocative marker—function words th
 
 Complementizers are one-syllable function words that introduce subordinate clauses, and they hold the bracketing shape of the function-word charter: a fricative digraph and a vowel, a shape nothing else in the language takes. They announce the relationship between the main clause and the embedded clause that follows, and the three opener and closer pairs share a sound pattern: each pair keeps its consonant and contrasts only the vowel, `-a` to open a frame and `-o` to close it.
 
-### `wha` - Relativizer (REL)
+### `whu` - Relativizer (REL)
 
 **Function**: Introduces relative clauses that describe a noun
 **IPA**: /ˈre̞.n̪ä/
 **Position**: Before the relative clause and the noun it modifies
-**Structure**: `[wha CLAUSE] NOUN`
+**Structure**: `[whu CLAUSE] NOUN`
 
 **Examples**:
 ```
-[wha nophi kealo] miona
+[whu nophi kealo] miona
 [REL story create] person
 (the person who creates stories)
 
-[wha mia to nila] shelu
+[whu mia to nila] shelu
 [REL 1SG PST see] book
 (the book that I saw)
 
-[wha mua shelira nai] ruela
+[whu mua shelira nai] ruela
 [REL LOC forest be] path
 (the path that is in the forest)
 ```
 
 **Headless relative clauses** (when the noun is implicit):
 ```
-[wha thia to kealo]
+[whu thia to kealo]
 [REL 2SG PST create]
 (what you created)
 ```
@@ -180,7 +180,7 @@ VOC NAME HON.INTIM moli. 1SG 2SG love.
 
 | Word | Gloss | Function | Closer |
 |------|-------|----------|--------|
-| `wha` | REL | Introduces relative clauses | — (pre-nominal position bounds it) |
+| `whu` | REL | Introduces relative clauses | — (pre-nominal position bounds it) |
 | `sha` | QUOT.COMP | Opens direct quotation (exact words) | `sho` (required) |
 | `sho` | QUOT.COMP.CLOSE | Closes direct quotation | — |
 | `tha` | DECL.COMP | Opens embedded statements (reported content) | `tho` (required) |

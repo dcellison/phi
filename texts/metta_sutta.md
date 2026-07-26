@@ -13,7 +13,7 @@
 ### Verse 1: The one seeking good
 
 ```
-[wha [welao sheraki] thesani phelu] miona theula [wha phoa phelona] thena na phoa.
+[whu [welao sheraki] thesani phelu] miona theula [whu phoa phelona] thena na phoa.
 [REL [good search] skill hold] person UNIV [REL do require] thing NEC do.
 (The person who has skill in searching for goodness must do every thing that requires action.)
 fausboll: "1. Whatever is to be done by one who is skilful in seeking (what is) good,"
@@ -44,7 +44,7 @@ OPT 3SG proud NEG be.
 fausboll: "not proud,"
 ```
 
-**Notes:** The opening keeps three ideas apart. `welao sheraki` makes goodness the object of a search; `thesani` gives the seeker skill in that work; and `theula [wha phoa phelona] thena` names everything that genuinely requires action. `shia noalu ki kelu` makes attainment a completed change into tranquility. The tradition-specific name Nibbana remains in the source citation beside the Phi and does not enter Phi syntax. "Able" is the ability modal `po` on `phoa`, to act, while `wero` takes the truthfulness within "upright." It does not exhaust the source's wider moral sense.
+**Notes:** The opening keeps three ideas apart. `welao sheraki` makes goodness the object of a search; `thesani` gives the seeker skill in that work; and `theula [whu phoa phelona] thena` names everything that genuinely requires action. `shia noalu ki kelu` makes attainment a completed change into tranquility. The tradition-specific name Nibbana remains in the source citation beside the Phi and does not enter Phi syntax. "Able" is the ability modal `po` on `phoa`, to act, while `wero` takes the truthfulness within "upright." It does not exhaust the source's wider moral sense.
 
 ### Verse 2: Few burdens
 
@@ -80,7 +80,7 @@ fausboll: "without (showing) greediness (when going his round) in families."
 ### Verse 3: The wish for every creature
 
 ```
-su shia [wha lo phue miona tha ha thena peloma nai tho po sherewa] thena ma phoa.
+su shia [whu lo phue miona tha ha thena peloma nai tho po sherewa] thena ma phoa.
 OPT 3SG [REL PL wise person DECL.COMP PROX thing harmful be DECL.COMP.CLOSE POT claim] thing NEG do.
 (May they not do a thing that wise people might claim is harmful.)
 fausboll: "3. And let him not do anything mean for which others who are wise might reprove (him);"
@@ -111,22 +111,22 @@ UNIV alive creature.
 (Every living creature.)
 fausboll: "4. Whatever living beings there are,"
 
-[wha huwa nai] sola [wha kema nai].
+[whu huwa nai] sola [whu kema nai].
 [REL weak be] DISJ [REL strong be].
 (Those who are weak or those who are strong.)
 fausboll: "either feeble or strong,"
 
-[wha laeno nai] sola [wha ru whalo nai].
+[whu laeno nai] sola [whu ru whalo nai].
 [REL long be] DISJ [REL INTS large be].
 (Those who are long or those who are very large.)
 fausboll: "all either long or great,"
 
-[wha kesho ponalu phelu] sola [wha teku nai].
+[whu kesho ponalu phelu] sola [whu teku nai].
 [REL middle size hold] DISJ [REL short be].
 (Those who have middle size or those who are short.)
 fausboll: "middle-sized, short,"
 
-[wha thiku nai] sola [wha whalo nai].
+[whu thiku nai] sola [whu whalo nai].
 [REL small be] DISJ [REL large be].
 (Those who are small or those who are large.)
 fausboll: "small or large,"
@@ -137,17 +137,17 @@ fausboll: "small or large,"
 ### Verse 5: Seen and unseen
 
 ```
-[wha se nila] sola [wha se ma nila].
+[whu se nila] sola [whu se ma nila].
 [REL PASS see] DISJ [REL PASS NEG see].
 (Those who are seen or those who are not seen.)
 fausboll: "5. Either seen or which are not seen,"
 
-[wha wuero menui] sola [wha noshi menui].
+[whu wuero menui] sola [whu noshi menui].
 [REL far dwell] DISJ [REL near dwell].
 (Those who dwell far away or those who dwell near.)
 fausboll: "and which live far (or) near,"
 
-[wha ki thowia] sola [wha wea thowia shua].
+[whu ki thowia] sola [whu wea thowia shua].
 [REL PFV born] DISJ [REL TOWARD born come].
 (Those who have been born or those coming toward birth.)
 fausboll: "either born or seeking birth,"
@@ -184,7 +184,7 @@ fausboll: "let him not out of anger or resentment wish harm to another."
 ### Verse 7: The unbounded friendly mind
 
 ```
-phea [wha miso lioru mua pukea nai nela miso ta lopia shorupo] thowia phao.
+phea [whu miso lioru mua pukea nai nela miso ta lopia shorupo] thowia phao.
 AS [REL REFL life LOC danger be COORD REFL one child protect] born parent.
 (Like a birth parent whose own life is in danger and who protects their own one child.)
 fausboll: "7, As a mother at the risk of her life watches over her own child, her only child,"
@@ -247,7 +247,7 @@ fausboll: "this (way of) living they say is the best in this world."
 ### Verse 10: Insight and the end of return
 
 ```
-[wha lo remo kire ma phelu] miona welao phoa.
+[whu lo remo kire ma phelu] miona welao phoa.
 [REL PL think shape NEG hold] person good do.
 (The person who does not hold fixed thought-shapes acts well.)
 fausboll: "10. He who, not having embraced (philosophical) views, is virtuous,"
@@ -272,7 +272,7 @@ fausboll: "after subduing greediness for sensual pleasures, will never again go 
 ```
 lothea thole
 
-[wha [welao sheraki] thesani phelu] miona theula [wha phoa phelona] thena na phoa.
+[whu [welao sheraki] thesani phelu] miona theula [whu phoa phelona] thena na phoa.
 shia noalu ki kelu.
 su shia po phoa. su shia wero nai. su shia thesa nai.
 su shia moli haolu. su shia moli nai. su shia thoru ma nai.
@@ -282,26 +282,26 @@ su shia phina naseru phelu. su shia whuo tupeka nai.
 su shia lo morae shena nai. su shia phue nai. su shia motu nai.
 su shia thoa lo lumani ro thalo. su shia tha shia thoa lo lumani sheloi thena pilu tho ma rinu.
 
-su shia [wha lo phue miona tha ha thena peloma nai tho po sherewa] thena ma phoa.
+su shia [whu lo phue miona tha ha thena peloma nai tho po sherewa] thena ma phoa.
 su theula limoe siora nai. su theula limoe shurano nai.
 su theula limoe siora korua phelu.
 
 theula lima limoe.
-[wha huwa nai] sola [wha kema nai].
-[wha laeno nai] sola [wha ru whalo nai].
-[wha kesho ponalu phelu] sola [wha teku nai].
-[wha thiku nai] sola [wha whalo nai].
+[whu huwa nai] sola [whu kema nai].
+[whu laeno nai] sola [whu ru whalo nai].
+[whu kesho ponalu phelu] sola [whu teku nai].
+[whu thiku nai] sola [whu whalo nai].
 
-[wha se nila] sola [wha se ma nila].
-[wha wuero menui] sola [wha noshi menui].
-[wha ki thowia] sola [wha wea thowia shua].
+[whu se nila] sola [whu se ma nila].
+[whu wuero menui] sola [whu noshi menui].
+[whu ki thowia] sola [whu wea thowia shua].
 su theula limoe siora korua phelu.
 
 su mawha miona roe peshu shia phelira ka nai.
 su mawha miona mua theula lokue shia thiku nila.
 su mawha miona lue korua thero sola lue laeno thimu korua thero wei shia peloma pula.
 
-phea [wha miso lioru mua pukea nai nela miso ta lopia shorupo] thowia phao.
+phea [whu miso lioru mua pukea nai nela miso ta lopia shorupo] thowia phao.
 su theula miona wea theula limoe [mawha norui lothea korua] sorila.
 
 su shia wea theula lokue lothea sorila.
@@ -313,7 +313,7 @@ su ha korua whuo korua thero nai. su ha korua whuo laeno thimu korua thero nai.
 su shia sui [whano sola thalo sola meilo sola ruemi] sui waeli wei ha korua miso menai.
 ha liona ruela mua ha muila mo ko welao ti nai.
 
-[wha lo remo kire ma phelu] miona welao phoa.
+[whu lo remo kire ma phelu] miona welao phoa.
 shia sholu sorai phelu.
 pheo shia lo weloni siora te ru wilao shia mawha thimu muo thowia phao mokura so turema.
 ```

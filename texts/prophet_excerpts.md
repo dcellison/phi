@@ -53,7 +53,7 @@ COND CONTR 2SG love COORD PL wish hold. OPT PL PROX 2SG wish be.
 (But if you love, and hold desires, may these be your desires:)
 gibran: "But if you love and must needs have desires, let these be your desires:"
 
-su thia phea wha wei shero meliho thiku luphore kelu.
+su thia phea whu wei shero meliho thiku luphore kelu.
 OPT 2SG AS REL DAT night sing small river become.
 (May you become like a small river singing its song to the night.)
 gibran: "To melt and be like a running brook that sings its melody to the night."
@@ -88,7 +88,7 @@ OPT 2SG LOC evening INS appreciate ALL home return.
 (May you return home at evening with gratitude.)
 gibran: "To return home at eventide with gratitude;"
 
-su thia nulae. su mua thia korua wei wha thia lothea miona thorai nai. su nia thia phulae ta woraka meliho nai.
+su thia nulae. su mua thia korua wei whu thia lothea miona thorai nai. su nia thia phulae ta woraka meliho nai.
 OPT 2SG sleep. OPT LOC 2SG heart DAT REL 2SG love person bless be. OPT ON 2SG mouth one appreciate sing be.
 (Then may you sleep: a blessing in your heart for the one you love, and a song of thanks upon your lips.)
 gibran: "And then to sleep with a prayer for the beloved in your heart and a song of praise upon your lips."
@@ -171,17 +171,17 @@ gibran: "For life goes not backward nor tarries with yesterday."
 ### Bow, arrow, and archer
 
 ```
-thia lo [wha nira phelu] luwi wolea tenoa nai. lo thia phomila phea [wha wapi] lima tiso wolea thena lue thia se sepho.
+thia lo [whu nira phelu] luwi wolea tenoa nai. lo thia phomila phea [whu wapi] lima tiso wolea thena lue thia se sepho.
 2SG PL [REL cord hold] flexible wood tool be. PL 2SG offspring AS [REL fly] alive sharp wood thing ABL 2SG PASS send.
 (You are flexible wooden tools that hold a cord. Your offspring are sent from you as living sharp wooden things that fly.)
 gibran: "You are the bows from which your children as living arrows are sent forth."
 
-mua [wha mawha lumae phelu] ruela [wha roe ha tenoa phoa] porua siru nila.
+mua [whu mawha lumae phelu] ruela [whu roe ha tenoa phoa] porua siru nila.
 LOC [REL NONE end hold] path [REL INS PROX tool do] purpose marker see.
 (On the path that holds no end, the one who acts with this tool sees a marker of purpose.)
 gibran: "The archer sees the mark upon the path of the infinite,"
 
-lila shia lo [wha wapi] lima tiso wolea thena reshi nela wuero wapi shia roe shia puro thia luwi ka kelu.
+lila shia lo [whu wapi] lima tiso wolea thena reshi nela wuero wapi shia roe shia puro thia luwi ka kelu.
 PURP 3SG PL [REL fly] alive sharp wood thing fast COORD far fly 3SG INS 3SG strength 2SG flexible CAUS become.
 (With his strength, he makes you bend so that his living sharp wooden things fly fast and far.)
 gibran: "and He bends you with His might that His arrows may go swift and far."
@@ -191,7 +191,7 @@ OPT LOC 3SG hand 2SG INS joy flexible become.
 (May you bend with joy in his hand.)
 gibran: "Let your bending in the Archer’s hand be for gladness;"
 
-shia [wha wapi] lima tiso wolea thena lothea. shia we mureo [wha nira phelu] luwi wolea tenoa lothea.
+shia [whu wapi] lima tiso wolea thena lothea. shia we mureo [whu nira phelu] luwi wolea tenoa lothea.
 3SG [REL fly] alive sharp wood thing love. 3SG ALSO stable [REL cord hold] flexible wood tool love.
 (He loves the living sharp wooden thing that flies. He also loves the stable flexible wooden tool that holds a cord.)
 gibran: "For even as he loves the arrow that flies, so He loves also the bow that is stable."
@@ -210,7 +210,7 @@ thia wei lo shia lothea po loa. thia wei lo shia remo po ma loa. lo shia miso re
 
 lila thia phea lo shia kelu thia po meloa. no whekai tha thia lo shia phea thia ka kelu tho ma mesatu. lioru wea luera ma wepu. shia nua luera philo ma manolu.
 
-thia lo [wha nira phelu] luwi wolea tenoa nai. lo thia phomila phea [wha wapi] lima tiso wolea thena lue thia se sepho. mua [wha mawha lumae phelu] ruela [wha roe ha tenoa phoa] porua siru nila. lila shia lo [wha wapi] lima tiso wolea thena reshi nela wuero wapi shia roe shia puro thia luwi ka kelu. su mua shia manuwe thia roe siora luwi kelu. shia [wha wapi] lima tiso wolea thena lothea. shia we mureo [wha nira phelu] luwi wolea tenoa lothea.
+thia lo [whu nira phelu] luwi wolea tenoa nai. lo thia phomila phea [whu wapi] lima tiso wolea thena lue thia se sepho. mua [whu mawha lumae phelu] ruela [whu roe ha tenoa phoa] porua siru nila. lila shia lo [whu wapi] lima tiso wolea thena reshi nela wuero wapi shia roe shia puro thia luwi ka kelu. su mua shia manuwe thia roe siora luwi kelu. shia [whu wapi] lima tiso wolea thena lothea. shia we mureo [whu nira phelu] luwi wolea tenoa lothea.
 ```
 
 ### Translation limits
@@ -297,7 +297,7 @@ OPT 2SG LOC wind INS joy flexible become.
 (May your bending in the wind be for gladness.)
 gibran: "Let your bending in the Archer’s hand be for gladness;"
 
-lioru wha wapi thinoe lothea. lioru we wha mureo nai shiro lothea.
+lioru whu wapi thinoe lothea. lioru we whu mureo nai shiro lothea.
 life REL fly seed love. life ALSO REL stable be tree love.
 (Life loves the seed that flies, and Life also loves the tree that stands.)
 gibran: "For even as he loves the arrow that flies, so He loves also the bow that is stable."
@@ -355,7 +355,7 @@ COND 2SG REFL give. 2SG true give.
 (When you give yourself, you truly give.)
 gibran: "It is when you give of yourself that you truly give."
 
-theula wha thia phelu so se loa.
+theula whu thia phelu so se loa.
 UNIV REL 2SG hold FUT PASS give.
 (All that you hold will one day be given.)
 gibran: "All you have shall some day be given;"
@@ -375,7 +375,7 @@ live DAT live give.
 (For in truth, Life gives to Life.)
 gibran: "For in truth it is life that gives unto life--"
 
-thia tha miso loa miona nai tho remo. whekai thia li wha nila miona nai.
+thia tha miso loa miona nai tho remo. whekai thia li whu nila miona nai.
 2SG DECL.COMP REFL give person be DECL.COMP.CLOSE think. CONTR 2SG RESTR REL see person be.
 (You think yourself the giver; but you are only the one who watches.)
 gibran: "while you, who deem yourself a giver, are but a witness."

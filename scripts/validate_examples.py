@@ -236,7 +236,7 @@ SLOT1_ORDER = {
 PURPOSE_FRAME_PREFIXES = {
     "wa", "no", "lu", "he", "su", "pi",
     "phisu", "shekoi", "shelao", "sheno", "shorela", "thelao", "whekai",
-    "pheo", "phoe", "lao", "shai", "wha",
+    "pheo", "phoe", "lao", "shai", "whu",
 }
 FRAME_OPENERS = {"tha", "pha", "sha"}
 FRAME_CLOSERS = {"tho", "pho", "sho"}
@@ -988,7 +988,7 @@ def preposition_misplacements(raw_line, prepositions, slot1_rank):
     that every preposition precedes its object and never moves, so a
     preposition followed by a Slot 1 particle, or standing last in its
     sentence, cannot be standing before its object. The check runs per
-    sentence; prepositions after 'wha' in the same sentence are exempt,
+    sentence; prepositions after 'whu' in the same sentence are exempt,
     since an oblique relative gaps the object and leaves the preposition
     directly before the verb phrase (canon's oblique-relative ruling).
     Sentences of fewer than two tokens are skipped: a single-token span
@@ -1005,7 +1005,7 @@ def preposition_misplacements(raw_line, prepositions, slot1_rank):
             continue
         rena_seen = False
         for i, tok in enumerate(tokens):
-            if tok == "wha":
+            if tok == "whu":
                 rena_seen = True
                 continue
             if tok not in prepositions or rena_seen:

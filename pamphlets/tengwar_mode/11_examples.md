@@ -123,13 +123,13 @@ mia tha shia to wepu tho sano.
 ```
 
 ```
-wha mia to theo shelu mioru nai.
+whu mia to theo shelu mioru nai.
 REL 1SG PST read book beautiful be.
 (The book that I read is beautiful.)
 ```
 
 ```
-wha shia to kealo nophi mioru nai.
+whu shia to kealo nophi mioru nai.
 REL 3SG PST create story beautiful be.
 (The story that they created is beautiful.)
 ```

@@ -2,7 +2,7 @@
 
 ## The fundamental question
 
-Why does Phi use paired complementizers? And if pairing is so important, why does the relative clause marker `wha` stand alone without a closer?
+Why does Phi use paired complementizers? And if pairing is so important, why does the relative clause marker `whu` stand alone without a closer?
 
 Understanding these questions reveals the deeper logic of Phi's clause structure: the relationship between word order, clause boundaries, and unambiguous parsing.
 
@@ -54,14 +54,14 @@ Once you have one complementizer pair, the logic demands pairs for all embedding
 
 All three face identical structural pressure: the embedded material ends with a verb (or verb-like element), and the main verb follows. Without explicit closure, verb-verb ambiguity arises.
 
-## Why `wha` needs no closer
+## Why `whu` needs no closer
 
-The relative clause marker `wha` is different because relative clauses occupy a different structural position.
+The relative clause marker `whu` is different because relative clauses occupy a different structural position.
 
 In Phi, relative clauses are **pre-nominal**: they come *before* the noun they modify, not after. The structure is:
 
 ```
-[wha CLAUSE] NOUN
+[whu CLAUSE] NOUN
 ```
 
 The noun itself provides natural closure. When the listener hears the noun, they know the relative clause has ended because:
@@ -75,12 +75,12 @@ Compare:
 **Relative clause (pre-nominal):**
 
 ```
-wha nophi kealo miona
+whu nophi kealo miona
 REL story create person
 (the person who creates stories)
 ```
 
-The word `miona` (person) is the head noun. When it appears, the relative clause `wha nophi kealo` is complete. No closer needed. The noun closes the construction.
+The word `miona` (person) is the head noun. When it appears, the relative clause `whu nophi kealo` is complete. No closer needed. The noun closes the construction.
 
 **Declarative embedding (pre-verbal):**
 
@@ -100,7 +100,7 @@ This is why:
 - `tha`/`tho` requires closer (embedded-verb followed by main-verb)
 - `pha`/`pho` requires closer (embedded-verb followed by main-verb)
 - `sha`/`sho` requires closer (quoted material followed by main-verb)
-- `wha` requires no closer (relative clause followed by head noun)
+- `whu` requires no closer (relative clause followed by head noun)
 
 ## The acoustic pattern
 
@@ -116,7 +116,7 @@ The shared onset tells you which pair you are in; the vowel tells you which end 
 
 The pattern is learnable after a single example. Once you know that `tha` opens and `tho` closes, you can trust every `-a` to open and every `-o` to close, including in a pair you have never met.
 
-And the pattern reaches past the three pairs. Look down the whole family: `wha` and `kona` also end in `-a`, and neither ever takes a closer: they are pure openers, whose closing is done by something else (the head noun; the call's own sentence-end). Within the frame family the rule has no exceptions: **-a means a frame is opening; -o means one just closed.** The manual's shape rule (ch8 §2) sorts Phi words by size and by opening sound, and the frame words own one whole shape in that system: a single syllable that begins on a fricative, twinned by vowel wherever it pairs.
+`whu` is a bracket too, and it ends in neither vowel, because nothing it opens is ever closed by a word: the head noun does that. So the rule holds in both directions at once. **-a means a frame is opening; -o means one just closed; and the relativizer's odd vowel says that no closer is coming.** Had it been given an `-a`, every learner would sooner or later reach for the `-o` that goes with it, and there is none to reach for. The manual's shape rule (ch8 §2) sorts Phi words by size and by opening sound, and the frame words own one whole shape in that system: a single syllable that begins on a fricative, twinned by vowel wherever it pairs.
 
 Why a breath, when the slot particles get a plain consonant? Because these are the words a listener can least afford to miss, and the onset is where Phi spends to protect them. Every particle opens on a closure somewhere in the mouth: lips meeting, a tongue tap, a nasal. A frame word opens on air moving through a narrow gap and holds it as long as the speaker likes, and it is the only one-syllable word in the language that does. The difference arrives before the vowel, which matters most at a closer, since a closer lands mid-sentence between two verbs, exactly where a missed boundary garden-paths the whole parse. Nothing here is padded for safety: the words are as short as Phi allows, and the fricative and the position carry the signal between them. Say this chapter's first example aloud again and listen past the words for the two soft breaths in the middle of it. They are the walls of the small room the sentence builds inside itself.
 
@@ -161,12 +161,12 @@ The vocative is **extra-clausal**. It stands outside the sentence structure enti
 | `tha` (DECL.COMP) | `tho` required | Pre-verbal position, verb-verb boundary |
 | `pha` (INT.COMP) | `pho` required | Pre-verbal position, verb-verb boundary |
 | `sha` (QUOT.COMP) | `sho` required | Pre-verbal position, verb-verb boundary |
-| `wha` (REL) | none needed | Pre-nominal position, noun provides closure |
+| `whu` (REL) | none needed | Pre-nominal position, noun provides closure |
 | `kona` (VOC) | none needed | Extra-clausal, not embedded |
 
 ## Implications for learning
 
-Understanding *why* the system works this way helps you use it correctly. Always pair openers with closers for `tha`, `pha`, and `sha`; there are no exceptions. Never add a closer after `wha`: the head noun closes the relative clause on its own. Listen for the vowel shift, because when `-a` becomes `-o`, something has closed. And nest fearlessly. Closers match openers one to one, so the structure never loses track, however deep the thought goes.
+Understanding *why* the system works this way helps you use it correctly. Always pair openers with closers for `tha`, `pha`, and `sha`; there are no exceptions. Never add a closer after `whu`: the head noun closes the relative clause on its own. Listen for the vowel shift, because when `-a` becomes `-o`, something has closed. And nest fearlessly. Closers match openers one to one, so the structure never loses track, however deep the thought goes.
 
 Learn the pairs and trust the boundaries. The most tangled sentence in this pamphlet opens quietly to a reader who counts its closers.
 

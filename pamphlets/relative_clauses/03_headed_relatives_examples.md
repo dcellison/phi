@@ -1,6 +1,6 @@
 # Part 3: Headed relative clauses: examples
 
-Fluency with `wha` is mostly a matter of volume: enough examples, said aloud, until the order stops being a puzzle and becomes a habit. Each example below is a complete sentence. Give each one your voice; the eye alone will not build the reflex.
+Fluency with `whu` is mostly a matter of volume: enough examples, said aloud, until the order stops being a puzzle and becomes a habit. Each example below is a complete sentence. Give each one your voice; the eye alone will not build the reflex.
 
 ## Subject gap examples
 
@@ -9,37 +9,37 @@ The head noun is the subject inside the relative clause: the one doing the actio
 ### Basic actions
 
 ```
-wha nophi kealo miona phue nai
+whu nophi kealo miona phue nai
 REL story create person wise be
 (The person who creates stories is wise.)
 ```
 
 ```
-wha mua shelira nai ruela mioru nai
+whu mua shelira nai ruela mioru nai
 REL LOC forest be path beautiful be
 (The path that is in the forest is beautiful.)
 ```
 
 ```
-wha to shua miona mia melu nai
+whu to shua miona mia melu nai
 REL PST come person 1SG friend be
 (The person who came is my friend.)
 ```
 
 ```
-wha lopia thumela miona ha nai
+whu lopia thumela miona ha nai
 REL child teach person PROX be
 (The person who teaches children is here.)
 ```
 
 ```
-wha thuroa peloru mioru nai
+whu thuroa peloru mioru nai
 REL grow flower beautiful be
 (The flower that grows is beautiful.)
 ```
 
 ```
-wha mioru nai womu mia womu nai
+whu mioru nai womu mia womu nai
 REL beautiful be home 1SG home be
 (The home that is beautiful is my home.)
 ```
@@ -47,19 +47,19 @@ REL beautiful be home 1SG home be
 ### With tense particles
 
 ```
-wha to naphe miona mia melu nai
+whu to naphe miona mia melu nai
 REL PST help person 1SG friend be
 (The person who helped is my friend.)
 ```
 
 ```
-wha so shua miona shia nai
+whu so shua miona shia nai
 REL FUT come person 3SG be
 (The person who will come is them.)
 ```
 
 ```
-wha to thuroa peloru mioru nai
+whu to thuroa peloru mioru nai
 REL PST grow flower beautiful be
 (The flower that grew is beautiful.)
 ```
@@ -67,13 +67,13 @@ REL PST grow flower beautiful be
 ### With aspect particles
 
 ```
-wha ro thumela miona phue nai
+whu ro thumela miona phue nai
 REL HAB teach person wise be
 (The person who habitually teaches is wise.)
 ```
 
 ```
-wha si thuroa shiro whalo nai
+whu si thuroa shiro whalo nai
 REL IPFV grow tree large be
 (The tree that is growing is large.)
 ```
@@ -81,13 +81,13 @@ REL IPFV grow tree large be
 ### With negation
 
 ```
-wa wha to ma shua miona shia nai
+wa whu to ma shua miona shia nai
 Q REL PST NEG come person 3SG be
 (Is the person who didn't come them?)
 ```
 
 ```
-wha ma thuroa peloru thiku nai
+whu ma thuroa peloru thiku nai
 REL NEG grow flower small be
 (The flower that doesn't grow is small.)
 ```
@@ -99,31 +99,31 @@ The head noun is the object inside the relative clause: the thing receiving the 
 ### Basic actions
 
 ```
-mia wha mia to nila shelu lothea
+mia whu mia to nila shelu lothea
 1SG REL 1SG PST see book love
 (I love the book that I saw.)
 ```
 
 ```
-wha thia to kealo nophi mioru nai
+whu thia to kealo nophi mioru nai
 REL 2SG PST create story beautiful be
 (The story that you created is beautiful.)
 ```
 
 ```
-mia wha shia thumela lopia sano
+mia whu shia thumela lopia sano
 1SG REL 3SG teach child know
 (I know the child whom they teach.)
 ```
 
 ```
-wha mia to theo shelu serao nai
+whu mia to theo shelu serao nai
 REL 1SG PST read book old be
 (The book that I read is old.)
 ```
 
 ```
-wha shia to howela peloru mioru nai
+whu shia to howela peloru mioru nai
 REL 3SG PST receive flower beautiful be
 (The flower that they received is beautiful.)
 ```
@@ -131,13 +131,13 @@ REL 3SG PST receive flower beautiful be
 ### With multiple actors
 
 ```
-mia wha thia wei mia to haolu nophi shelomu
+mia whu thia wei mia to haolu nophi shelomu
 1SG REL 2SG DAT 1SG PST speak story understand
 (I understand the story that you told me.)
 ```
 
 ```
-mia wha shia wei lopia to loa peloru sano
+mia whu shia wei lopia to loa peloru sano
 1SG REL 3SG DAT child PST give flower know
 (I know the flower that they gave the child.)
 ```
@@ -145,13 +145,13 @@ mia wha shia wei lopia to loa peloru sano
 ### With tense and aspect
 
 ```
-wha mia so theo shelu ha nai
+whu mia so theo shelu ha nai
 REL 1SG FUT read book PROX be
 (The book that I will read is here.)
 ```
 
 ```
-wha shia ro kealo nophi mioru nai
+whu shia ro kealo nophi mioru nai
 REL 3SG HAB create story beautiful be
 (The stories that they habitually create are beautiful.)
 ```
@@ -159,13 +159,13 @@ REL 3SG HAB create story beautiful be
 ### With negation
 
 ```
-wha mia to ma nila miona shia nai
+whu mia to ma nila miona shia nai
 REL 1SG PST NEG see person 3SG be
 (The person whom I didn't see is them.)
 ```
 
 ```
-mia wha thia to ma theo shelu wilao
+mia whu thia to ma theo shelu wilao
 1SG REL 2SG PST NEG read book long-for
 (I long for the book that you didn't read.)
 ```
@@ -177,19 +177,19 @@ The head noun fills a prepositional phrase inside the relative clause.
 ### Location
 
 ```
-wha mia mua to thalo shelira mioru nai
+whu mia mua to thalo shelira mioru nai
 REL 1SG LOC PST walk forest beautiful be
 (The forest that I walked in is beautiful.)
 ```
 
 ```
-wha shia mua nai womu whalo nai
+whu shia mua nai womu whalo nai
 REL 3SG LOC be home large be
 (The home that they are in is large.)
 ```
 
 ```
-wha mia mua to nulae womu mia womu nai
+whu mia mua to nulae womu mia womu nai
 REL 1SG LOC PST sleep home 1SG home be
 (The home that I slept in is my home.)
 ```
@@ -199,13 +199,13 @@ The preposition stays inside the clause; only its object is gapped. Hearing a pr
 ### Recipient
 
 ```
-wha mia wei to haolu miona ha nai
+whu mia wei to haolu miona ha nai
 REL 1SG DAT PST speak person PROX be
 (The person whom I spoke to is here.)
 ```
 
 ```
-wha shia wei peloru to loa miona mia melu nai
+whu shia wei peloru to loa miona mia melu nai
 REL 3SG DAT flower PST give person 1SG friend be
 (The person to whom they gave a flower is my friend.)
 ```
@@ -215,31 +215,31 @@ REL 3SG DAT flower PST give person 1SG friend be
 The entire relative clause + noun phrase serves as the subject of the main clause.
 
 ```
-wha shea kealo miona phue nai
+whu shea kealo miona phue nai
 REL peace create person wise be
 (The person who creates peace is wise.)
 ```
 
 ```
-wha ma lothea miona sonu nai
+whu ma lothea miona sonu nai
 REL NEG love person alone be
 (The person who does not love is alone.)
 ```
 
 ```
-wha serao nai shelu ruka nai
+whu serao nai shelu ruka nai
 REL old be book complex be
 (The book that is old is complex.)
 ```
 
 ```
-wha mia to shelomu nophi mia ka phaelo
+whu mia to shelomu nophi mia ka phaelo
 REL 1SG PST understand story 1SG CAUS feel
 (The story that I understood moves me.)
 ```
 
 ```
-wha mua shelira thuroa shiro whalo nai
+whu mua shelira thuroa shiro whalo nai
 REL LOC forest grow tree large be
 (The tree that grows in the forest is large.)
 ```
@@ -249,31 +249,31 @@ REL LOC forest grow tree large be
 The relative clause + noun phrase serves as the object of the main verb.
 
 ```
-mia wha shia to kealo nophi theo
+mia whu shia to kealo nophi theo
 1SG REL 3SG PST create story read
 (I read the story that they created.)
 ```
 
 ```
-wa thia wha mia to nila miona sano
+wa thia whu mia to nila miona sano
 Q 2SG REL 1SG PST see person know
 (Do you know the person whom I saw?)
 ```
 
 ```
-mia wha mioru nai peloru lothea
+mia whu mioru nai peloru lothea
 1SG REL beautiful be flower love
 (I love the flower that is beautiful.)
 ```
 
 ```
-shia wha mua shelira nai ruela nila
+shia whu mua shelira nai ruela nila
 3SG REL LOC forest be path see
 (They see the path that is in the forest.)
 ```
 
 ```
-lo mia wha womu to kealo miona naphe
+lo mia whu womu to kealo miona naphe
 PL 1SG REL home PST create person help
 (We help the person who created the home.)
 ```
@@ -283,19 +283,19 @@ PL 1SG REL home PST create person help
 The relative clause + noun phrase follows a preposition in the main clause.
 
 ```
-mia nia wha mua shelira nai ruela thalo
+mia nia whu mua shelira nai ruela thalo
 1SG ON REL LOC forest be path walk
 (I walk on the path that is in the forest.)
 ```
 
 ```
-shia mua wha mia to kealo womu nai
+shia mua whu mia to kealo womu nai
 3SG LOC REL 1SG PST create home be
 (They are in the home that I created.)
 ```
 
 ```
-mia wei wha shea kealo miona haolu
+mia wei whu shea kealo miona haolu
 1SG DAT REL peace create person speak
 (I speak to the person who creates peace.)
 ```
@@ -305,7 +305,7 @@ mia wei wha shea kealo miona haolu
 Multiple descriptors can precede the noun: relative clause, then adjectives.
 
 ```
-mia wha mia to nila mioru serao shelu lothea
+mia whu mia to nila mioru serao shelu lothea
 1SG REL 1SG PST see beautiful old book love
 (I love the beautiful old book that I saw.)
 ```
@@ -313,13 +313,13 @@ mia wha mia to nila mioru serao shelu lothea
 The order is: [relative clause] + [adjectives] + [noun]
 
 ```
-wha thuroa whalo mioru shiro mia shiro nai
+whu thuroa whalo mioru shiro mia shiro nai
 REL grow large beautiful tree 1SG tree be
 (The large beautiful tree that grows is my tree.)
 ```
 
 ```
-mia wha shia to kealo newu mioru nophi theo
+mia whu shia to kealo newu mioru nophi theo
 1SG REL 3SG PST create new beautiful story read
 (I read the new beautiful story that they created.)
 ```
@@ -331,11 +331,11 @@ These examples tell mini-stories to show relative clauses in natural discourse.
 ### The gardener
 
 ```
-mia serao miona sano. wha peloru thumela miona phue nai.
+mia serao miona sano. whu peloru thumela miona phue nai.
 1SG old person know. REL flower teach person wise be.
 (I know an old person. The person who teaches about flowers is wise.)
 
-shia wha mia to nila peloru ka thuroa. mioru nai.
+shia whu mia to nila peloru ka thuroa. mioru nai.
 3SG REL 1SG PST see flower CAUS grow. beautiful be.
 (They grow the flowers that I saw. [The flowers] are beautiful.)
 ```
@@ -343,11 +343,11 @@ shia wha mia to nila peloru ka thuroa. mioru nai.
 ### The book
 
 ```
-mia wha shia to kealo shelu theo. ruka nai.
+mia whu shia to kealo shelu theo. ruka nai.
 1SG REL 3SG PST create book read. complex be.
 (I read the book that they created. [It] is complex.)
 
-wha mia to shelomu nophi mia phaelo.
+whu mia to shelomu nophi mia phaelo.
 REL 1SG PST understand story 1SG feel.
 (The story that I understood moves me.)
 ```
@@ -355,11 +355,11 @@ REL 1SG PST understand story 1SG feel.
 ### The path home
 
 ```
-wha mua shelira nai ruela mioru nai.
+whu mua shelira nai ruela mioru nai.
 REL LOC forest be path beautiful be.
 (The path that is in the forest is beautiful.)
 
-mia nia ha ruela to thalo. mua wha mia to nila womu to kamo.
+mia nia ha ruela to thalo. mua whu mia to nila womu to kamo.
 1SG ON PROX path PST walk. LOC REL 1SG PST see home PST arrive.
 (I walked on this path. [I] arrived at the home that I saw.)
 ```

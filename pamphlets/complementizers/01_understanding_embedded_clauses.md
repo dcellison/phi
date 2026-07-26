@@ -130,6 +130,6 @@ What these languages share is the recognition that when verbs cluster at clause 
 
 ## Where this leads
 
-The next section explains why the closers exist and why `wha` alone does without one. The three sections after it give each pair its own room, and the rest of the pamphlet turns the system into reflex: nesting, the errors English invites, exercises, and a reference page.
+The next section explains why the closers exist and why `whu` alone does without one. The three sections after it give each pair its own room, and the rest of the pamphlet turns the system into reflex: nesting, the errors English invites, exercises, and a reference page.
 
 None of it is decoration. Every belief you report, every doubt you voice, and every word you repeat for someone absent will pass through one of these frames. A speaker who can open and close them without thinking is free to attend to what actually matters: whose thought is being held, and how carefully.

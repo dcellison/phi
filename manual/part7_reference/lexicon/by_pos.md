@@ -247,7 +247,7 @@
 | `sho` | QUOT.COMP.CLOSE |
 | `tha` | DECL.COMP |
 | `tho` | DECL.COMP.CLOSE |
-| `wha` | REL |
+| `whu` | REL |
 
 ## conjunction (9)
 

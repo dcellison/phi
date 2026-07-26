@@ -44,25 +44,25 @@ Translate these sentences into Phi. All use relative clauses.
 
 Translate these sentences into natural English.
 
-1. `wha to shua miona mia melu nai`
+1. `whu to shua miona mia melu nai`
 
-2. `mia wha thia to kealo nophi theo`
+2. `mia whu thia to kealo nophi theo`
 
-3. `wha mioru nai peloru thuroa`
+3. `whu mioru nai peloru thuroa`
 
-4. `mia wha mia to nila miona sano`
+4. `mia whu mia to nila miona sano`
 
-5. `wha shea kealo miona phue nai`
+5. `whu shea kealo miona phue nai`
 
-6. `wha mua shelira nai womu mioru nai`
+6. `whu mua shelira nai womu mioru nai`
 
-7. `mia wha shia wei mia to haolu nophi shelomu`
+7. `mia whu shia wei mia to haolu nophi shelomu`
 
-8. `wha naphe naphe howela`
+8. `whu naphe naphe howela`
 
-9. `wha ma lothea miona sonu nai`
+9. `whu ma lothea miona sonu nai`
 
-10. `wa wha ha kealo thia nai`
+10. `wa whu ha kealo thia nai`
 
 ---
 
@@ -106,19 +106,19 @@ Combine each pair into a single sentence using a relative clause.
 
 Break each complex sentence into two simpler sentences. Maintain the meaning.
 
-1. `wha mia to nila miona mia melu nai`
+1. `whu mia to nila miona mia melu nai`
    → ?
 
-2. `mia wha shia to kealo nophi lothea`
+2. `mia whu shia to kealo nophi lothea`
    → ?
 
-3. `wha mua shelira thuroa shiro whalo nai`
+3. `whu mua shelira thuroa shiro whalo nai`
    → ?
 
-4. `mia wha wha nophi kealo miona to thumela lopia sano`
+4. `mia whu whu nophi kealo miona to thumela lopia sano`
    → ?
 
-5. `wha tha shea welao nai tho phaelo miona ha nai`
+5. `whu tha shea welao nai tho phaelo miona ha nai`
    → ?
 
 ---
@@ -127,28 +127,28 @@ Break each complex sentence into two simpler sentences. Maintain the meaning.
 
 For each relative clause, identify whether the gap is in subject position, object position, or oblique position.
 
-1. `wha nophi kealo miona` (the person who creates stories)
+1. `whu nophi kealo miona` (the person who creates stories)
    Gap position: ?
 
-2. `wha mia to theo shelu` (the book that I read)
+2. `whu mia to theo shelu` (the book that I read)
    Gap position: ?
 
-3. `wha mia mua to thalo shelira` (the forest that I walked in)
+3. `whu mia mua to thalo shelira` (the forest that I walked in)
    Gap position: ?
 
-4. `wha mioru nai peloru` (the flower that is beautiful)
+4. `whu mioru nai peloru` (the flower that is beautiful)
    Gap position: ?
 
-5. `wha shia wei to haolu miona` (the person to whom they spoke)
+5. `whu shia wei to haolu miona` (the person to whom they spoke)
    Gap position: ?
 
-6. `wha thuroa shiro` (the tree that grows)
+6. `whu thuroa shiro` (the tree that grows)
    Gap position: ?
 
-7. `wha mia to nila womu` (the home that I saw)
+7. `whu mia to nila womu` (the home that I saw)
    Gap position: ?
 
-8. `wha lopia to thumela miona` (the person who taught the child)
+8. `whu lopia to thumela miona` (the person who taught the child)
    Gap position: ?
 
 ---
@@ -157,21 +157,21 @@ For each relative clause, identify whether the gap is in subject position, objec
 
 Each sentence contains an error. Find and fix it.
 
-1. `*peloru wha mia to nila mioru nai`
+1. `*peloru whu mia to nila mioru nai`
 
-2. `*wha mia to thalo ruela mioru nai`
+2. `*whu mia to thalo ruela mioru nai`
 
-3. `*wha mia to theo shelu tho mioru nai`
+3. `*whu mia to theo shelu tho mioru nai`
 
-4. `*wha wha to shua miona sano mia`
+4. `*whu whu to shua miona sano mia`
 
-5. `*mia to nila miona sano wha`
+5. `*mia to nila miona sano whu`
 
-6. `*wha mia mioru nai peloru thuroa`
+6. `*whu mia mioru nai peloru thuroa`
 
-7. `*wha shia nophi kealo phue nai`
+7. `*whu shia nophi kealo phue nai`
 
-8. `*mia wei wha shia to haolu miona sano`
+8. `*mia wei whu shia to haolu miona sano`
 
 ---
 
@@ -185,7 +185,7 @@ Write three sentences describing someone you admire, using at least one relative
 
 Example:
 ```
-mia wha shea thumela miona sano.
+mia whu shea thumela miona sano.
 1SG REL peace teach person know.
 (I know a person who teaches peace.)
 ```
@@ -201,7 +201,7 @@ Write three sentences describing a place meaningful to you.
 
 Example:
 ```
-wha mia mua to thuroa shelira mioru nai.
+whu mia mua to thuroa shelira mioru nai.
 REL 1SG LOC PST grow forest beautiful be.
 (The forest where I grew up is beautiful.)
 ```
@@ -221,26 +221,26 @@ Write a 5-sentence story that uses at least 3 relative clauses.
 
 ### English to Phi
 
-1. `wha to shua miona ha nai`
-2. `wha thuroa peloru mioru nai`
-3. `wha whalo nai shiro serao nai`
-4. `wha lothea phue nai`
-5. `wha mua shelira nai ruela laeno nai`
-6. `mia wha thia to theo shelu nila`
-7. `wha shia to kealo nophi mioru nai`
-8. `wa thia wha mia lothea miona sano`
-9. `shia wha mia to loa peloru lothea`
-10. `wha lo mia to kealo womu ha nai`
-11. `wha lopia thumela miona phue nai`
-12. `mia wha thia wei mia to haolu nophi shelomu`
-13. `wha mia to theo serao shelu mioru nai`
-14. `wha shea kealo shea howela`
-15. `wha nia tomora nai womu mioru nai`
-16. `mia wha wha nophi kealo miona to thumela lopia sano`
-17. `wha tha mia so shua tho sano miona ha nai`
-18. `wa thia wha mia to kealo nila`
-19. `wha mia to hea nophi tha shea mua shelira nai tho to haolu`
-20. `wha wha shia hea shelomu phue nai`
+1. `whu to shua miona ha nai`
+2. `whu thuroa peloru mioru nai`
+3. `whu whalo nai shiro serao nai`
+4. `whu lothea phue nai`
+5. `whu mua shelira nai ruela laeno nai`
+6. `mia whu thia to theo shelu nila`
+7. `whu shia to kealo nophi mioru nai`
+8. `wa thia whu mia lothea miona sano`
+9. `shia whu mia to loa peloru lothea`
+10. `whu lo mia to kealo womu ha nai`
+11. `whu lopia thumela miona phue nai`
+12. `mia whu thia wei mia to haolu nophi shelomu`
+13. `whu mia to theo serao shelu mioru nai`
+14. `whu shea kealo shea howela`
+15. `whu nia tomora nai womu mioru nai`
+16. `mia whu whu nophi kealo miona to thumela lopia sano`
+17. `whu tha mia so shua tho sano miona ha nai`
+18. `wa thia whu mia to kealo nila`
+19. `whu mia to hea nophi tha shea mua shelira nai tho to haolu`
+20. `whu whu shia hea shelomu phue nai`
 
 ### Phi to English
 
@@ -257,23 +257,23 @@ Write a 5-sentence story that uses at least 3 relative clauses.
 
 ### Two to one (Phi answers)
 
-1. `wha to shua miona mia melu nai`
-2. `wha mia to theo shelu serao nai`
-3. `mia wha shia to kealo nophi lothea`
-4. `wha mua thepalu thuroa peloru mioru nai`
-5. `mia wha thia to thumela lopia sano`
-6. `wha shea kealo miona phue nai`
-7. `wha mia to nila womu nia tomora nai`
-8. `mia wha shia to haolu shelomu`
-9. `mia nia wha mua shelira nai ruela to thalo`
-10. `wha mia to naphe miona ha nai`
+1. `whu to shua miona mia melu nai`
+2. `whu mia to theo shelu serao nai`
+3. `mia whu shia to kealo nophi lothea`
+4. `whu mua thepalu thuroa peloru mioru nai`
+5. `mia whu thia to thumela lopia sano`
+6. `whu shea kealo miona phue nai`
+7. `whu mia to nila womu nia tomora nai`
+8. `mia whu shia to haolu shelomu`
+9. `mia nia whu mua shelira nai ruela to thalo`
+10. `whu mia to naphe miona ha nai`
 
 ### One to two (sample answers; several splits are possible)
 
 1. `mia miona to nila. ha miona mia melu nai.` ("I saw a person. This person is my friend.")
 2. `shia nophi to kealo. mia ha nophi lothea.` ("They created a story. I love this story.")
 3. `shiro mua shelira thuroa. ha shiro whalo nai.` ("A tree grows in the forest. This tree is large.")
-4. `miona nophi kealo. mia wha ha miona to thumela lopia sano.` ("A person creates stories. I know the child whom this person taught.")
+4. `miona nophi kealo. mia whu ha miona to thumela lopia sano.` ("A person creates stories. I know the child whom this person taught.")
 5. `miona tha shea welao nai tho phaelo. shia ha nai.` ("A person feels that peace is good. They are here.")
 
 ### Gap identification
@@ -289,11 +289,11 @@ Write a 5-sentence story that uses at least 3 relative clauses.
 
 ### Error correction
 
-1. Wrong order → `wha mia to nila peloru mioru nai`
-2. Dropped preposition (it stays; its object is gapped) → `wha mia mua to thalo ruela mioru nai` ("The path that I walked on is beautiful")
-3. False closer → `wha mia to theo shelu mioru nai`
-4. Word order/structure → `mia wha to shua miona sano`
-5. `wha` at end → `mia wha mia to nila miona sano`
-6. The `mia` has no role in the clause; `mioru nai` takes no argument beyond the gap → `wha mioru nai peloru thuroa` ("The flower that is beautiful grows")
-7. No gap: the clause is already complete (`shia` subject, `nophi` object), so a head noun would have no role to fill. Drop the clause-internal subject and the head fills it → `wha nophi kealo miona phue nai` ("The person who creates stories is wise")
-8. The preposition never moves out of the clause; it stays, and its object is gapped → `mia wha shia wei to haolu miona sano` ("I know the person whom they spoke to")
+1. Wrong order → `whu mia to nila peloru mioru nai`
+2. Dropped preposition (it stays; its object is gapped) → `whu mia mua to thalo ruela mioru nai` ("The path that I walked on is beautiful")
+3. False closer → `whu mia to theo shelu mioru nai`
+4. Word order/structure → `mia whu to shua miona sano`
+5. `whu` at end → `mia whu mia to nila miona sano`
+6. The `mia` has no role in the clause; `mioru nai` takes no argument beyond the gap → `whu mioru nai peloru thuroa` ("The flower that is beautiful grows")
+7. No gap: the clause is already complete (`shia` subject, `nophi` object), so a head noun would have no role to fill. Drop the clause-internal subject and the head fills it → `whu nophi kealo miona phue nai` ("The person who creates stories is wise")
+8. The preposition never moves out of the clause; it stays, and its object is gapped → `mia whu shia wei to haolu miona sano` ("I know the person whom they spoke to")
