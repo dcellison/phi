@@ -185,7 +185,7 @@ PL member DAT PROX council PROX review petition.
 `repora` puts a possible action on the table, no more. What happens next, ignored, amended, adopted, rejected, is not decided by the proposing.
 
 ```
-mia mena lo mia napuro phanuli meno repora.
+mia tha lo mia napuro phanuli tho repora.
 1SG DECL.COMP PL 1SG grain allocate DECL.COMP.CLOSE propose.
 (I propose that we allocate grain.)
 ```

@@ -8,21 +8,21 @@ Learners coming from English face predictable challenges with Phi's complementiz
 
 **Wrong:**
 ```
-*mia mena shia to wepu shelomu
+*mia tha shia to wepu shelomu
 1SG DECL.COMP 3SG PST go understand
 ```
 
 **Right:**
 ```
-mia mena shia to wepu meno shelomu
+mia tha shia to wepu tho shelomu
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
 
-**Why it matters:** Without `meno`, the listener cannot know where the embedded clause ends. Is `wepu shelomu` a compound verb? Does `shelomu` belong to the embedded clause or the main clause?
+**Why it matters:** Without `tho`, the listener cannot know where the embedded clause ends. Is `wepu shelomu` a compound verb? Does `shelomu` belong to the embedded clause or the main clause?
 
 **How to avoid:**
-- Always pair `mena` with `meno`, `wela` with `welo`, `shola` with `sholo`
+- Always pair `tha` with `tho`, `pha` with `pho`, `sha` with `sho`
 - When you say an opener, mentally commit to its closer
 - Practice: count your openers, count your closers, they must match
 
@@ -32,13 +32,13 @@ mia mena shia to wepu meno shelomu
 
 **Wrong:**
 ```
-*mia mena shia to wepu shelomu meno
+*mia tha shia to wepu shelomu tho
 1SG DECL.COMP 3SG PST go understand DECL.COMP.CLOSE
 ```
 
 **Right:**
 ```
-mia mena shia to wepu meno shelomu
+mia tha shia to wepu tho shelomu
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
@@ -48,29 +48,29 @@ mia mena shia to wepu meno shelomu
 **How to avoid:**
 - Remember: CLOSER then MAIN VERB
 - The embedded clause's verb comes first, then the closer, then the main verb
-- Pattern: `mena [... embedded-verb] meno main-verb`
+- Pattern: `tha [... embedded-verb] tho main-verb`
 
-## Error 3: Adding a closer after `rena`
+## Error 3: Adding a closer after `wha`
 
-**The problem:** Learners who have learned that complementizers need closers may add one after `rena`.
+**The problem:** Learners who have learned that complementizers need closers may borrow one for `wha`.
 
 **Wrong:**
 ```
-*rena nophi kealo reno miona
-REL story create ??? person
+*wha nophi kealo tho miona
+REL story create DECL.COMP.CLOSE person
 ```
 
 **Right:**
 ```
-rena nophi kealo miona
+wha nophi kealo miona
 REL story create person
 (the person who creates stories)
 ```
 
-**Why it matters:** `rena` has no closer. The head noun closes the relative clause. There is no word `reno` in Phi.
+**Why it matters:** `wha` has no closer, and no other frame will lend it one. `tho` ends a declarative frame and nothing else, so it cannot stand here. The head noun is what closes a relative clause.
 
 **How to avoid:**
-- Remember: `rena` is pre-nominal, not pre-verbal
+- Remember: `wha` is pre-nominal, not pre-verbal
 - The noun itself is the boundary
 - No closer needed, no closer exists
 
@@ -80,13 +80,13 @@ REL story create person
 
 **Wrong:**
 ```
-*mia shelomu mena shia to wepu meno
+*mia shelomu tha shia to wepu tho
 1SG understand DECL.COMP 3SG PST go DECL.COMP.CLOSE
 ```
 
 **Right:**
 ```
-mia mena shia to wepu meno shelomu
+mia tha shia to wepu tho shelomu
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
@@ -96,15 +96,15 @@ mia mena shia to wepu meno shelomu
 **How to avoid:**
 - Embedded clauses are objects
 - Objects come before verbs in Phi
-- Pattern: Subject + `mena [clause] meno` + Verb
+- Pattern: Subject + `tha [clause] tho` + Verb
 
-## Error 5: Confusing `mena`/`meno` with `shola`/`sholo`
+## Error 5: Confusing `tha`/`tho` with `sha`/`sho`
 
 **The problem:** Both involve reported speech, but they serve different functions.
 
 **Says something else (quotation instead of content):**
 ```
-shia shola thia wepu sholo to haolu
+shia sha thia wepu sho to haolu
 3SG QUOT.COMP 2SG go QUOT.COMP.CLOSE PST speak
 (They said: "You are leaving.")
 ```
@@ -113,7 +113,7 @@ This is grammatical, but it claims those were the exact words spoken.
 
 When you meant:
 ```
-shia mena thia wepu meno to haolu
+shia tha thia wepu tho to haolu
 3SG DECL.COMP 2SG go DECL.COMP.CLOSE PST speak
 (They said that you are leaving.)
 ```
@@ -121,17 +121,17 @@ shia mena thia wepu meno to haolu
 **The difference:** In the quotation, `thia` is the original speaker's word, so it refers to whoever they were addressing. In the content report, `thia` is the reporter's word, referring to the current addressee.
 
 **How to avoid:**
-- Ask: Am I preserving exact words? Use `shola`/`sholo`.
-- Ask: Am I conveying meaning? Use `mena`/`meno`.
+- Ask: Am I preserving exact words? Use `sha`/`sho`.
+- Ask: Am I conveying meaning? Use `tha`/`tho`.
 - Check pronouns: Should they stay as originally spoken, or shift?
 
-## Error 6: Confusing `wela`/`welo` with `wa`
+## Error 6: Confusing `pha`/`pho` with `wa`
 
 **The problem:** Both involve questions, but they serve different functions.
 
 **Wrong (using embedded question for direct question):**
 ```
-*wela thia wepu welo
+*pha thia wepu pho
 INT.COMP 2SG go INT.COMP.CLOSE
 (incomplete, no main verb)
 ```
@@ -152,23 +152,23 @@ Q 2SG go
 
 When you meant:
 ```
-mia wela shia to wepu welo phaelo
+mia pha shia to wepu pho phaelo
 1SG INT.COMP 3SG PST go INT.COMP.CLOSE feel
 (I wonder whether they left.)
 ```
 
 **How to avoid:**
 - `wa` is for direct questions expecting an answer
-- `wela`/`welo` embeds questions inside larger sentences
+- `pha`/`pho` embeds questions inside larger sentences
 - Ask: Is this a question to someone, or a question in my mind?
 
-## Error 7: Confusing `wela`/`welo` with `lu`
+## Error 7: Confusing `pha`/`pho` with `lu`
 
 **The problem:** Both involve conditionality or possibility, but differently.
 
 **Grammatical, but not a conditional:**
 ```
-mia wela thia wepu welo ma towe phaelo
+mia pha thia wepu pho ma towe phaelo
 1SG INT.COMP 2SG go INT.COMP.CLOSE NEG well feel
 (I do not feel well about whether you leave.)
 ```
@@ -181,12 +181,12 @@ COND 2SG go. 1SG FUT NEG well feel
 ```
 
 **The difference:**
-- `wela`/`welo` embeds a question: "I wonder whether X"
+- `pha`/`pho` embeds a question: "I wonder whether X"
 - `lu` frames a condition: "If X, then Y"
 
 **How to avoid:**
 - Is there a consequence? Use `lu`.
-- Is there uncertainty being considered? Use `wela`/`welo`.
+- Is there uncertainty being considered? Use `pha`/`pho`.
 
 ## Error 8: Mismatched nesting
 
@@ -194,13 +194,13 @@ COND 2SG go. 1SG FUT NEG well feel
 
 **Wrong:**
 ```
-*mia mena thia wela shia wepu meno welo shelomu
+*mia tha thia pha shia wepu tho pho shelomu
 (closers in wrong order)
 ```
 
 **Right:**
 ```
-mia mena thia wela shia to wepu welo phaelo meno shelomu
+mia tha thia pha shia to wepu pho phaelo tho shelomu
 1SG DECL.COMP 2SG INT.COMP 3SG PST go INT.COMP.CLOSE feel DECL.COMP.CLOSE understand
 (I understand that you wonder whether they left.)
 ```
@@ -208,7 +208,7 @@ mia mena thia wela shia to wepu welo phaelo meno shelomu
 **How to avoid:**
 - Think of openers and closers like parentheses: ( [ ] ) not ( [ ) ]
 - The most recently opened clause is closed first
-- Each type closes its own type: `wela` with `welo`, `mena` with `meno`
+- Each type closes its own type: `pha` with `pho`, `tha` with `tho`
 
 ## Error 9: Forgetting the embedded clause's verb
 
@@ -216,13 +216,13 @@ mia mena thia wela shia to wepu welo phaelo meno shelomu
 
 **Wrong:**
 ```
-*mia mena shia towe meno sano
+*mia tha shia towe tho sano
 1SG DECL.COMP 3SG well DECL.COMP.CLOSE know
 ```
 
 **Right:**
 ```
-mia mena shia towe nai meno sano
+mia tha shia towe nai tho sano
 1SG DECL.COMP 3SG well be DECL.COMP.CLOSE know
 (I know that they are well.)
 ```
@@ -235,35 +235,35 @@ mia mena shia towe nai meno sano
 
 ## Error 10: Double-marking questions
 
-**The problem:** Using both `wa` and `wela`/`welo` for the same question.
+**The problem:** Using both `wa` and `pha`/`pho` for the same question.
 
 **Wrong:**
 ```
-*mia wela wa shia wepu welo phaelo
+*mia pha wa shia wepu pho phaelo
 1SG INT.COMP Q 3SG go INT.COMP.CLOSE feel
 ```
 
 **Right:**
 ```
-mia wela shia to wepu welo phaelo
+mia pha shia to wepu pho phaelo
 1SG INT.COMP 3SG PST go INT.COMP.CLOSE feel
 (I wonder whether they left.)
 ```
 
-**Why it matters:** `wela`/`welo` already marks the clause as a question. Adding `wa` is redundant and confusing.
+**Why it matters:** `pha`/`pho` already marks the clause as a question. Adding `wa` is redundant and confusing.
 
 **How to avoid:**
-- `wela`/`welo` contains the question-marking function
-- Do not add `wa` inside `wela`/`welo` clauses
-- Exception: When quoting a direct question with `shola`/`sholo`, the `wa` is part of the quoted material
+- `pha`/`pho` contains the question-marking function
+- Do not add `wa` inside `pha`/`pho` clauses
+- Exception: When quoting a direct question with `sha`/`sho`, the `wa` is part of the quoted material
 
-## Error 11: Wrapping a content question in `wela`/`welo`
+## Error 11: Wrapping a content question in `pha`/`pho`
 
 **The problem:** English uses "whether" for yes/no questions and moves who/what/where to the front. Learners who have just mastered the frame sometimes wrap it around every embedded question.
 
 **Wrong:**
 ```
-*mia wela sua to shua welo sano
+*mia pha sua to shua pho sano
 1SG INT.COMP who PST come INT.COMP.CLOSE know
 ```
 
@@ -277,7 +277,7 @@ mia sua to shua sano
 **Why it matters:** A content question already carries its signal. The interrogative word stands where the unknown element would stand, and that placement alone marks the clause as a question. The frame would mark it twice.
 
 **How to avoid:**
-- `wela`/`welo` embeds yes/no questions only
+- `pha`/`pho` embeds yes/no questions only
 - If the embedded clause contains `sua`, `hina`, `kua`, or another gap-word, embed it bare
 
 ## Error 12: Leaving the frame verb without its tense
@@ -286,14 +286,14 @@ mia sua to shua sano
 
 **Says something else (present saying instead of past):**
 ```
-shia mena thia to wepu meno haolu
+shia tha thia to wepu tho haolu
 3SG DECL.COMP 2SG PST go DECL.COMP.CLOSE speak
 (They say that you left.)
 ```
 
 When you meant:
 ```
-shia mena thia to wepu meno to haolu
+shia tha thia to wepu tho to haolu
 3SG DECL.COMP 2SG PST go DECL.COMP.CLOSE PST speak
 (They said that you left.)
 ```
@@ -308,9 +308,9 @@ shia mena thia to wepu meno to haolu
 
 When you produce an embedded clause, verify:
 
-1. **Opener present?** Did I begin with `mena`, `wela`, or `shola`?
+1. **Opener present?** Did I begin with `tha`, `pha`, or `sha`?
 
-2. **Closer present?** Did I add `meno`, `welo`, or `sholo`?
+2. **Closer present?** Did I add `tho`, `pho`, or `sho`?
 
 3. **Closer in right position?** Does it come after the embedded verb, before the main verb?
 
@@ -318,7 +318,7 @@ When you produce an embedded clause, verify:
 
 5. **Nesting correct?** If multiple embeddings, do closers match in reverse order?
 
-6. **No closer after `rena`?** Relative clauses don't have closers.
+6. **No closer after `wha`?** Relative clauses don't have closers.
 
 7. **Embedded clause complete?** Does it have a subject and verb?
 
@@ -334,19 +334,19 @@ When you make an error mid-sentence:
 
 **Option 1: Restart**
 ```
-*mia mena shia to wepu... mia mena shia to wepu meno shelomu
+*mia tha shia to wepu... mia tha shia to wepu tho shelomu
 (abandon the false start, then say the whole sentence correctly)
 ```
 
 **Option 2: Rephrase**
 ```
-*mia mena shia to wepu shelomu... shorela mia mena shia to wepu meno shelomu
+*mia tha shia to wepu shelomu... shorela mia tha shia to wepu tho shelomu
 (catch the missing closer, then offer the repaired sentence with REPH: "in other words...")
 ```
 
 **Option 3: Simplify**
 ```
-*mia mena shia to wepu... shia to wepu. mia shelomu
+*mia tha shia to wepu... shia to wepu. mia shelomu
 (break into simpler sentences: "They left. I understand.")
 ```
 
@@ -362,8 +362,8 @@ Most errors come from English interference:
 With practice, the Phi system becomes intuitive. The regularity helps: once you learn the pattern, it applies consistently.
 
 **Core rules to internalize:**
-1. Every `mena` needs `meno`; every `wela` needs `welo`; every `shola` needs `sholo`
-2. `rena` needs no closer
+1. Every `tha` needs `tho`; every `pha` needs `pho`; every `sha` needs `sho`
+2. `wha` needs no closer
 3. Closer comes after embedded verb, before main verb
 4. Closers match openers in reverse nesting order
 5. A content question embeds bare; its gap-word never takes the frame

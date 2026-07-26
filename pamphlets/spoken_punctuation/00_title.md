@@ -2,7 +2,7 @@
 
 ## A practice companion to the manual
 
-English often gives a written mark work that Phi gives to a spoken form. A direct yes-or-no question begins with `wa`; exact Phi words sit inside `shola ... sholo`; a call begins with `kona`; and `ne` identifies a proper designation without a capital letter. The comparison is a teaching aid, not a claim that these words are punctuation marks in grammatical disguise. Each has its own place in Phi syntax.
+English often gives a written mark work that Phi gives to a spoken form. A direct yes-or-no question begins with `wa`; exact Phi words sit inside `sha ... sho`; a call begins with `kona`; and `ne` identifies a proper designation without a capital letter. The comparison is a teaching aid, not a claim that these words are punctuation marks in grammatical disguise. Each has its own place in Phi syntax.
 
 One visible mark remains: the period. Pauses may shape delivery, but they do not change Phi grammar, and the page does not record them with commas, dashes, or ellipses. Material outside a Phi passage retains the script, case, and punctuation of its own medium.
 
@@ -13,7 +13,7 @@ One consequence deserves saying plainly: a Phi page can be read aloud without lo
 By the end of this pamphlet, you will be able to:
 
 - Distinguish direct yes-or-no questions with `wa` from content questions with a gap-word
-- Bound exact Phi quotation with `shola ... sholo`
+- Bound exact Phi quotation with `sha ... sho`
 - Keep `kona`, `ne`, and the name register in their proper roles
 - Hear the different boundaries used by conditions, dependent clauses, complement frames, coordination, and lists
 - Choose words for intensity, wishes, warnings, and reactions without treating any of them as a general exclamation mark
@@ -29,7 +29,7 @@ This pamphlet assumes the particle system in manual chapter 9 and the sentence p
 
 1. One silent mark
 2. The direct question: `wa`
-3. The quotation marks: `shola ... sholo`
+3. The quotation marks: `sha ... sho`
 4. The comma of address, the capital of a name
 5. The clause commas
 6. No exclamation mark

@@ -1,10 +1,9 @@
 {
-  "word": "wela",
+  "word": "pha",
   "gloss": "INT.COMP",
-  "ipa": "/ˈwe̞.lä/",
+  "ipa": "/ˈɸä/",
   "syllables": [
-    "we",
-    "la"
+    "pha"
   ],
   "pos": "complementizer",
   "search_terms": [
@@ -12,12 +11,12 @@
     "embedded yes or no question",
     "interrogative complement"
   ],
-  "description": "With 'wela', a question whose possible answers are yes and no becomes the content of a larger statement. Its partner 'welo' (INT.COMP.CLOSE) ends the uncertainty, and the larger statement's predicate follows. Direct questions use 'wa' (Q); embedded content questions put a gap-word in place and need no frame.",
-  "articulatory_notes": "Begin 'w' with rounded lips and a raised tongue dorsum; as you move into 'e', spread the lips and shift the tongue forward. For 'la', press the blade behind upper incisors, allow voiced air around its sides, then lower the jaw into open 'a'. Stress 'we'.",
-  "usage_notes": "The questioned clause occupies object position between 'wela' and 'welo'. It uses the usual clause order and independent tense marking, but it never takes 'wa'. With 'phaelo' (feel) the frame means wonder; 'sano' (know) makes it something known or not known.",
+  "description": "With 'pha', a question whose possible answers are yes and no becomes the content of a larger statement. Its partner 'pho' (INT.COMP.CLOSE) ends the uncertainty, and the larger statement's predicate follows. Direct questions use 'wa' (Q); embedded content questions put a gap-word in place and need no frame.",
+  "articulatory_notes": "Bring the lips close without letting them meet and blow a thin unvoiced stream through the gap for 'ph'. The lips part, the jaw drops, and voice comes on for open central 'a'. One syllable under full stress.",
+  "usage_notes": "The questioned clause occupies object position between 'pha' and 'pho'. It uses the usual clause order and independent tense marking, but it never takes 'wa'. With 'phaelo' (feel) the frame means wonder; 'sano' (know) makes it something known or not known.",
   "examples": [
     {
-      "phi": "mia wela shia to wepu welo phaelo.",
+      "phi": "mia pha shia to wepu pho phaelo.",
       "translation": "I wonder whether they left."
     }
   ]

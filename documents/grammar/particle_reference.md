@@ -1,6 +1,6 @@
 # Phi Particle Reference
 
-This document provides a complete inventory of all particles in Phi, organized by the three-slot system. All particles follow strict CV structure and announce their grammatical function BEFORE the content they modify. The shape is chartered: one plain syllable, never a digraph onset, so the grammar's smallest words stay its most instantly recognizable.
+This document provides a complete inventory of all particles in Phi, organized by the three-slot system. All particles follow strict CV structure and announce their grammatical function BEFORE the content they modify. The shape is chartered: one plain syllable, never a digraph onset. Phi's other one-syllable family, the seven complementizers, opens on a fricative digraph instead, so a listener can sort the two apart at the first sound.
 
 ## The Three-Slot System
 
@@ -609,7 +609,7 @@ PL 1SG RECP love.
 | **1** | Verb phrase (Tense > Aspect > Voice > Evid > Modal > Neg) | `to`, `so`, `ki`, `si`, `pa`, `te`, `ro`, `se`, `hi`, `ke`, `ti`, `ho`, `po`, `na`, `ka`, `ma` |
 | **2** | Word-level | `lo`, `nu`, `ko`, `mo`, `ha`, `ra`, `ne`, `sa`, `ni`, `le`, `ru`, `la`, `pe`, `wo`, `we`, `li` |
 
-**Note**: Complementizers (`rena`, `shola`/`sholo`, `mena`/`meno`, `wela`/`welo`) and vocative (`kona`) are not particles—see `complementizer_reference.md`.
+**Note**: Complementizers (`wha`, `sha`/`sho`, `tha`/`tho`, `pha`/`pho`) and vocative (`kona`) are not particles—see `complementizer_reference.md`.
 
 ---
 

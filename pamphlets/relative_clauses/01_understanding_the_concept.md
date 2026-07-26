@@ -44,28 +44,28 @@ Readers initially parse "raced" as the main verb, then must backtrack when they 
 Phi places relative clauses before the noun they modify:
 
 ```
-rena mia to theo shelu mioru nai
+wha mia to theo shelu mioru nai
 REL 1SG PST read book beautiful be
 (The book that I read is beautiful.)
 ```
 
-The relative clause `rena mia to theo` ("that I read") comes first, announced by the relativizer `rena`. Then the noun `shelu` ("book") arrives, receiving all that description. Finally, the main clause continues with `mioru nai` ("is beautiful").
+The relative clause `wha mia to theo` ("that I read") comes first, announced by the relativizer `wha`. Then the noun `shelu` ("book") arrives, receiving all that description. Finally, the main clause continues with `mioru nai` ("is beautiful").
 
 This is called pre-nominal position: description first, noun last.
 
-Phi uses a single relativizer, `rena`, for all relative clauses regardless of the noun's role, animacy, or any other factor. No who/whom/which/that distinctions. One word does all the work.
+Phi uses a single relativizer, `wha`, for all relative clauses regardless of the noun's role, animacy, or any other factor. No who/whom/which/that distinctions. One word does all the work.
 
 Because the relative clause must complete before the noun appears, there's a natural endpoint. The listener knows exactly when the description is finished: when they hear the noun.
 
-One relativizer, `rena`, handles every case. No pronoun selection rules to memorize.
+One relativizer, `wha`, handles every case. No pronoun selection rules to memorize.
 
-And the listener knows from the moment they hear `rena` that a description is coming. They're prepared to receive modifying information before they learn what's being modified. No garden paths, no surprises.
+And the listener knows from the moment they hear `wha` that a description is coming. They're prepared to receive modifying information before they learn what's being modified. No garden paths, no surprises.
 
 ## Why this feels strange to English speakers
 
 If you've grown up with post-nominal relatives, Phi's approach requires a mental shift. You're used to anchoring on the noun first, then accumulating details about it. Phi asks you to gather details first, then discover what they describe.
 
-This is the same adjustment required for Phi's basic word order. In "beautiful flower" vs. `mioru peloru`, English and Phi both put the adjective first, and that feels natural. But in "the flower that I saw" vs. `rena mia to nila peloru`, English puts the noun first while Phi puts the clause first. The principle is the same (modifier before modified), but relative clauses make it more conspicuous.
+This is the same adjustment required for Phi's basic word order. In "beautiful flower" vs. `mioru peloru`, English and Phi both put the adjective first, and that feels natural. But in "the flower that I saw" vs. `wha mia to nila peloru`, English puts the noun first while Phi puts the clause first. The principle is the same (modifier before modified), but relative clauses make it more conspicuous.
 
 The good news: this isn't arbitrary. Phi's entire grammar follows the modifier-first principle. Once you've internalized "description before described," relative clauses are just a larger application of what you already know.
 
@@ -104,6 +104,6 @@ Phi, by committing fully to the modifier-first principle, achieves the consisten
 
 ## Where this leads
 
-The next section takes `rena` apart mechanically: its position, its missing closer, and the gap. Two sections of examples follow, headed and headless, then the advanced patterns, the errors English invites, and exercises with a full answer key.
+The next section takes `wha` apart mechanically: its position, its missing closer, and the gap. Two sections of examples follow, headed and headless, then the advanced patterns, the errors English invites, and exercises with a full answer key.
 
 Somewhere along the way the strangeness quietly reverses. English has you meet the stranger first and learn about them afterward; Phi introduces no one it has not already described.

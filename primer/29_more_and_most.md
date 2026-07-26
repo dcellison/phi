@@ -43,7 +43,7 @@
 ## IV
 
 > **misheko mo ko whalo nolika ma nai.**
-> **whekai misheko mena shia mo ko whalo nolika nai meno remo.**
+> **whekai misheko tha shia mo ko whalo nolika nai tho remo.**
 
 *The cat is not the largest animal. The cat, however, believes that it is. Comparison states a relation and nothing more; it hands out no rank, and any rank the cat has awarded itself was not in the grammar.*
 

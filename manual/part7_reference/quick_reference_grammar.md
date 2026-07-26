@@ -22,7 +22,7 @@ Notation: the diagrams use square brackets to show the span of a slot, constitue
 | Wish | su + statement | `su sila towe nai.` (May the community be well.) |
 | Need not | S lila V ralu nai | `thia lila wepu ralu nai.` (You need not go.) |
 
-Phi uses periods only: no commas, question marks, or exclamation marks. Punctuation is spoken (`wa`, `shola…sholo`, `kona`, the closers, `ne`), and pauses are free. Source material outside a Phi passage retains the script, punctuation, and case of its own medium. Topic-drop: an established subject may be omitted.
+Phi uses periods only: no commas, question marks, or exclamation marks. Punctuation is spoken (`wa`, `sha…sho`, `kona`, the closers, `ne`), and pauses are free. Source material outside a Phi passage retains the script, punctuation, and case of its own medium. Topic-drop: an established subject may be omitted.
 
 ## The three slots
 
@@ -38,14 +38,14 @@ Phi uses periods only: no commas, question marks, or exclamation marks. Punctuat
 
 | Frame | Structure | Meaning |
 |---|---|---|
-| `mena … meno` | S mena [clause] meno V | that-clause (reported content) |
-| `wela … welo` | S wela [clause] welo V | embedded yes/no question |
-| `shola … sholo` | S shola [quote] sholo V | direct quotation (exact words) |
-| `rena …` + NOUN | [rena clause] NOUN | relative clause (no closer; the head noun bounds it) |
+| `tha … tho` | S tha [clause] tho V | that-clause (reported content) |
+| `pha … pho` | S pha [clause] pho V | embedded yes/no question |
+| `sha … sho` | S sha [quote] sho V | direct quotation (exact words) |
+| `wha …` + NOUN | [wha clause] NOUN | relative clause (no closer; the head noun bounds it) |
 | `ne NAME` | before one name atom | listed content word or productive two-, three-, or four-syllable onym |
 | `kona [ne] NAME` | extra-clausal | vocative address |
 
-Embedded clauses carry their own tense, and clause frames nest in matched pairs. `shola ... sholo` quotes grammatical Phi speech. Foreign wording, source-script names, source-form exact values and records, identifiers, formulas, and other unassimilated material remain outside Phi syntax in the surrounding medium; exact integers from 0 through 242 may also be rendered with internal Phi numerals when adequate.
+Embedded clauses carry their own tense, and clause frames nest in matched pairs. `sha ... sho` quotes grammatical Phi speech. Foreign wording, source-script names, source-form exact values and records, identifiers, formulas, and other unassimilated material remain outside Phi syntax in the surrounding medium; exact integers from 0 through 242 may also be rendered with internal Phi numerals when adequate.
 
 ## Noun phrase order
 

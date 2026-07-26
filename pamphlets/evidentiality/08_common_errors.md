@@ -35,7 +35,7 @@ Negation is the final Slot 1 rank and stands immediately before the verb. The co
 ### Error 3: adding a report to a quotation
 
 ```
-ne sulae shola suliwa ti nai sholo to haolu.
+ne sulae sha suliwa ti nai sho to haolu.
 NAME sulae QUOT.COMP snake REP be QUOT.COMP.CLOSE PST speak.
 (sulae said, "There is a snake, according to a report.")
 ```
@@ -48,7 +48,7 @@ snake REP be.
 (There is a snake, according to a report.)
 ```
 
-The `shola ... sholo` frame preserves an evidential that was spoken; it does not add one automatically or copy the present speaker's source into someone else's words.
+The `sha ... sho` frame preserves an evidential that was spoken; it does not add one automatically or copy the present speaker's source into someone else's words.
 
 ### Error 4: `hi` supported only by a trace
 

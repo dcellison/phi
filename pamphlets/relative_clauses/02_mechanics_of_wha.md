@@ -1,38 +1,38 @@
-# Part 2: The mechanics of `rena`
+# Part 2: The mechanics of `wha`
 
 ## The word itself
 
-The relativizer `rena` announces that what follows is a descriptive clause. It's a complementizer, not a pronoun. This distinction matters: `rena` doesn't stand in for the noun or change form based on grammatical role. It simply marks the beginning of a relative clause.
+The relativizer `wha` announces that what follows is a descriptive clause. It's a complementizer, not a pronoun. This distinction matters: `wha` doesn't stand in for the noun or change form based on grammatical role. It simply marks the beginning of a relative clause.
 
 ### Sound symbolism
 
-Say it aloud: a tapped `r`, two open syllables, quickly gone. What `rena` opens is not in its sound but in its grammar: a descriptive space that stays open until the head noun arrives to close it.
+Say it aloud: breath first, then one wide vowel, gone almost before it starts. `wha` is the only bracket in Phi that never closes, and the sound suits the job, since it ends on an open jaw with nothing after it to shut the door. What `wha` opens is held open by grammar rather than by sound, until the head noun arrives to close it.
 
 ### Gloss and category
 
-In linguistic glosses, `rena` is abbreviated as **REL** (relativizer). It belongs to the complementizer category alongside:
+In linguistic glosses, `wha` is abbreviated as **REL** (relativizer). It belongs to the complementizer category alongside:
 
-- `mena`/`meno` (DECL.COMP/DECL.COMP.CLOSE): introduces embedded statements
-- `shola`/`sholo` (QUOT.COMP/QUOT.COMP.CLOSE): introduces direct quotation
-- `wela`/`welo` (INT.COMP/INT.COMP.CLOSE): introduces embedded questions
+- `tha`/`tho` (DECL.COMP/DECL.COMP.CLOSE): introduces embedded statements
+- `sha`/`sho` (QUOT.COMP/QUOT.COMP.CLOSE): introduces direct quotation
+- `pha`/`pho` (INT.COMP/INT.COMP.CLOSE): introduces embedded questions
 
-All complementizers announce what kind of clause is coming. `rena` specifically announces: "a descriptive clause follows; wait for the noun to learn what it describes."
+All complementizers announce what kind of clause is coming. `wha` specifically announces: "a descriptive clause follows; wait for the noun to learn what it describes."
 
 ## Position and scope
 
-### Where `rena` appears
+### Where `wha` appears
 
-`rena` always appears at the very beginning of the relative clause:
+`wha` always appears at the very beginning of the relative clause:
 
 ```
-[rena ...clause... ] NOUN
+[wha ...clause... ] NOUN
 ```
 
-There are no exceptions. Unlike English, where relative pronouns can sometimes be omitted ("the book I read" vs. "the book that I read"), `rena` is consistently present when a relative clause is explicitly marked.
+There are no exceptions. Unlike English, where relative pronouns can sometimes be omitted ("the book I read" vs. "the book that I read"), `wha` is consistently present when a relative clause is explicitly marked.
 
 ### What counts as "the clause"
 
-Everything between `rena` and the head noun is part of the relative clause. This includes:
+Everything between `wha` and the head noun is part of the relative clause. This includes:
 
 - The subject (if not gapped)
 - The object (if not gapped)
@@ -41,18 +41,18 @@ Everything between `rena` and the head noun is part of the relative clause. This
 - Adverbials and prepositional phrases
 - Even embedded clauses within the relative clause
 
-The scope of `rena` extends until the head noun appears. That noun closes the relative clause and receives all the preceding description.
+The scope of `wha` extends until the head noun appears. That noun closes the relative clause and receives all the preceding description.
 
 ### The structural formula
 
 ```
-[rena CLAUSE] NOUN MAIN-CLAUSE
+[wha CLAUSE] NOUN MAIN-CLAUSE
 ```
 
 Or more precisely:
 
 ```
-[rena (subject) (object) (adverbials) VERB] NOUN (rest of sentence)
+[wha (subject) (object) (adverbials) VERB] NOUN (rest of sentence)
 ```
 
 The noun can then serve any role in the main clause: subject, object, or part of a prepositional phrase.
@@ -63,35 +63,35 @@ The noun can then serve any role in the main clause: subject, object, or part of
 
 Phi's other clause-embedding complementizers require closers:
 
-- `mena` ... `meno` (DECL.COMP ... DECL.COMP.CLOSE): required pair for embedded statements
-- `wela` ... `welo` (INT.COMP ... INT.COMP.CLOSE): required pair for embedded questions
-- `shola` ... `sholo` (QUOT.COMP ... QUOT.COMP.CLOSE): required pair for quotations
+- `tha` ... `tho` (DECL.COMP ... DECL.COMP.CLOSE): required pair for embedded statements
+- `pha` ... `pho` (INT.COMP ... INT.COMP.CLOSE): required pair for embedded questions
+- `sha` ... `sho` (QUOT.COMP ... QUOT.COMP.CLOSE): required pair for quotations
 
 These closers exist because the embedded clause is followed by more material (the main verb), and without a boundary marker, the listener wouldn't know where the embedded clause ends.
 
-But `rena` has no closer. Why not?
+But `wha` has no closer. Why not?
 
 ### Pre-nominal position creates natural bounding
 
-The answer lies in position. Embedded statements with `mena` are followed by the main verb:
+The answer lies in position. Embedded statements with `tha` are followed by the main verb:
 
 ```
-mia mena shia to wepu meno sano
+mia tha shia to wepu tho sano
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE know
 (I know that they went.)
 ```
 
-Without `meno`, the sentence would be ambiguous: where does the embedded clause end? Which verb belongs to which clause?
+Without `tho`, the sentence would be ambiguous: where does the embedded clause end? Which verb belongs to which clause?
 
-Relative clauses with `rena` are followed by a noun:
+Relative clauses with `wha` are followed by a noun:
 
 ```
-rena shia to kealo nophi mioru nai
+wha shia to kealo nophi mioru nai
 REL 3SG PST create story beautiful be
 (The story that they created is beautiful.)
 ```
 
-The noun `nophi` ("story") itself signals that the relative clause has ended. Not every noun does this: a noun inside the clause is one of the clause's own arguments, as in `rena nophi kealo miona` (the person who creates stories), where `nophi` is the clause's object. The head is the noun that arrives after the clause is complete, the first noun after the clause's verb. That noun *is* the closer.
+The noun `nophi` ("story") itself signals that the relative clause has ended. Not every noun does this: a noun inside the clause is one of the clause's own arguments, as in `wha nophi kealo miona` (the person who creates stories), where `nophi` is the clause's object. The head is the noun that arrives after the clause is complete, the first noun after the clause's verb. That noun *is* the closer.
 
 This is the advantage of pre-nominal relatives: they're self-delimiting. The structure has a built-in endpoint.
 
@@ -99,7 +99,7 @@ This is the advantage of pre-nominal relatives: they're self-delimiting. The str
 
 Train yourself to listen for the noun as a signal:
 
-1. You hear `rena`: a description is starting
+1. You hear `wha`: a description is starting
 2. You hear clause material: subjects, objects, particles, the verb
 3. You hear a noun after the clause's verb: the description is complete
 4. That noun is what was being described
@@ -119,7 +119,7 @@ Think of it as a place laid at the table before the guest arrives. The clause se
 When the head noun is the subject of the relative clause's action:
 
 ```
-rena ___ nophi kealo miona phue nai
+wha ___ nophi kealo miona phue nai
 REL [gap] story create person wise be
 (The person who creates stories is wise.)
 ```
@@ -133,13 +133,13 @@ Analysis:
 More examples:
 
 ```
-rena ___ to shua miona ha nai
+wha ___ to shua miona ha nai
 REL [gap] PST come person PROX be
 (The person who came is here.)
 ```
 
 ```
-rena ___ mioru nai peloru thuroa
+wha ___ mioru nai peloru thuroa
 REL [gap] beautiful be flower grow
 (The flower that is beautiful grows.)
 ```
@@ -149,7 +149,7 @@ REL [gap] beautiful be flower grow
 When the head noun is the object of the relative clause's action:
 
 ```
-mia rena mia ___ to nila shelu lothea
+mia wha mia ___ to nila shelu lothea
 1SG REL 1SG [gap] PST see book love
 (I love the book that I saw.)
 ```
@@ -163,13 +163,13 @@ Analysis:
 More examples:
 
 ```
-rena thia ___ to kealo nophi mioru nai
+wha thia ___ to kealo nophi mioru nai
 REL 2SG [gap] PST create story beautiful be
 (The story that you created is beautiful.)
 ```
 
 ```
-mia rena shia ___ thumela lopia sano
+mia wha shia ___ thumela lopia sano
 1SG REL 3SG [gap] teach child know
 (I know the child whom they teach.)
 ```
@@ -179,7 +179,7 @@ mia rena shia ___ thumela lopia sano
 When the head noun is part of a prepositional phrase inside the relative clause:
 
 ```
-rena mia mua ___ to thalo shelira mioru nai
+wha mia mua ___ to thalo shelira mioru nai
 REL 1SG LOC [gap] PST walk forest beautiful be
 (The forest that I walked in is beautiful.)
 ```
@@ -192,14 +192,14 @@ Analysis:
 More examples:
 
 ```
-rena shia wei ___ to haolu miona ha nai
+wha shia wei ___ to haolu miona ha nai
 REL 3SG DAT [gap] PST speak person PROX be
 (The person whom they spoke to is here.)
 ```
 
 ### No case marking
 
-In languages like English, different relative pronouns indicate different roles: "who" vs. "whom," "which" vs. "whose." Phi doesn't do this. `rena` is invariant. The gap's position tells you the role.
+In languages like English, different relative pronouns indicate different roles: "who" vs. "whom," "which" vs. "whose." Phi doesn't do this. `wha` is invariant. The gap's position tells you the role.
 
 This keeps the system simple but requires attention to structure. When you hear or read a relative clause, notice where something seems to be missing. That's the gap, and it tells you how the head noun relates to the clause's action.
 
@@ -208,21 +208,21 @@ This keeps the system simple but requires attention to structure. When you hear 
 For each relative clause, ask: "If I turned this into a standalone sentence with the head noun inside, where would it go?"
 
 ```
-rena shia lothea miona
+wha shia lothea miona
 ```
 → "shia miona lothea" (they love a person)
 → gap is in object position
 → "the person whom they love"
 
 ```
-rena to shua miona
+wha to shua miona
 ```
 → "miona to shua" (a person came)
 → gap is in subject position
 → "the person who came"
 
 ```
-rena mia mua shelira to nila ruela
+wha mia mua shelira to nila ruela
 ```
 → "mia mua shelira ruela to nila" (I saw a path in the forest)
 → gap is in... wait, which noun is the head?

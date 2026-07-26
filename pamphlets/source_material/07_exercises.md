@@ -19,7 +19,7 @@ Run `python3 scripts/validate_examples.py name FORM` for each of these candidate
 - `sawerikona`
 - `sorae`
 - `hasha`
-- `mena`
+- `tha`
 - `mimimi`
 
 Explain why four syllables and absence from the current lexicon do not reject a name, while five syllables, duplicated syllables, and a match with a current function word do.

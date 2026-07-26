@@ -15,10 +15,10 @@
   "description": "A quoted sentence is a bounded stretch of spoken words, and Phi uses 'shemui' for producing it. The verb also suits reported wording outside a direct quotation. 'haolu' (speak) names the broader activity; 'shemui' selects the particular words.",
   "articulatory_notes": "Raise the tongue blade towards the postalveolar region for voiceless 'sh' and pass air through the narrow channel into true-mid front 'e'. Close the lips for voiced nasal 'm', carry the voice through the nose, and release into stressed high-back rounded 'u'. Finish with a syllable break before high-front unrounded 'i'.",
   "sound_symbolism": "The lips close around the stressed middle syllable, then the final vowel separates cleanly from it. That brief gathering and release can help a learner remember a bounded piece of speech.",
-  "usage_notes": "A reported clause uses 'mena ... meno', and a direct quotation uses 'shola ... sholo'. A word or other bounded content can also stand as the direct object. In noun position, 'shemui' is an utterance.",
+  "usage_notes": "A reported clause uses 'tha ... tho', and a direct quotation uses 'sha ... sho'. A word or other bounded content can also stand as the direct object. In noun position, 'shemui' is an utterance.",
   "examples": [
     {
-      "phi": "thia mena mia towe nai meno to shemui.",
+      "phi": "thia tha mia towe nai tho to shemui.",
       "translation": "You said that I am well."
     }
   ],

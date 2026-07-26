@@ -1,10 +1,9 @@
 {
-  "word": "rena",
+  "word": "wha",
   "gloss": "REL",
-  "ipa": "/ˈre̞.n̪ä/",
+  "ipa": "/ˈʍä/",
   "syllables": [
-    "re",
-    "na"
+    "wha"
   ],
   "pos": "complementizer",
   "search_terms": [
@@ -13,16 +12,16 @@
     "which",
     "that"
   ],
-  "description": "'rena' lets a whole clause do the work of a modifier: a person who helped, a book that changed hands. The head noun arrives after the clause and closes the frame without an '-o' partner. One role inside the description is left empty for that noun.",
-  "articulatory_notes": "Tap or briefly trill 'r' against the alveolar ridge and release into unrounded front 'e'. For dental 'n', set the tongue tip at the backs of the front teeth, then open the jaw for central 'a'. Stress 're'.",
-  "usage_notes": "A headed relative begins with 'rena' and ends when its noun arrives. The missing role may be the subject or an object. If a preposition governs the gap, it stays in its ordinary position; when context supplies the head, the entire 'rena' clause can fill a noun-phrase slot.",
+  "description": "'wha' lets a whole clause do the work of a modifier: a person who helped, a book that changed hands. The head noun arrives after the clause and closes the frame without an '-o' partner. One role inside the description is left empty for that noun.",
+  "articulatory_notes": "Begin with the lips in a tight round and the back of the tongue high, then let voiceless breath rush through that gap for 'wh'. Voice switches on as the lips relax and the jaw falls for central 'a'. One stressed syllable that starts on breath rather than tone.",
+  "usage_notes": "A headed relative begins with 'wha' and ends when its noun arrives. The missing role may be the subject or an object. If a preposition governs the gap, it stays in its ordinary position; when context supplies the head, the entire 'wha' clause can fill a noun-phrase slot.",
   "examples": [
     {
-      "phi": "mia rena mia to theo shelu lothea.",
+      "phi": "mia wha mia to theo shelu lothea.",
       "translation": "I love the book that I read."
     },
     {
-      "phi": "mia rena thia to kealo theo.",
+      "phi": "mia wha thia to kealo theo.",
       "translation": "I read what you created."
     }
   ]

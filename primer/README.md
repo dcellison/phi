@@ -55,10 +55,10 @@ The chapters add sentence shapes in a fixed order, usually with a small set of w
 
 | Ch. | New | Story |
 |---|---|---|
-| 19 | Saying that: *mena* … *meno* | The message |
-| 20 | Asking whether: *wela* … *welo* | The question |
-| 21 | Quoting: *shola* … *sholo* | The elder's story |
-| 22 | Relative clauses with *rena* | The one who |
+| 19 | Saying that: *tha* … *tho* | The message |
+| 20 | Asking whether: *pha* … *pho* | The question |
+| 21 | Quoting: *sha* … *sho* | The elder's story |
+| 22 | Relative clauses with *wha* | The one who |
 | 23 | If: *lu* and *lu he* | Weather plans |
 | 24 | Claimed sources: *hi*, *ke*, *ti*, *ho* | The news |
 

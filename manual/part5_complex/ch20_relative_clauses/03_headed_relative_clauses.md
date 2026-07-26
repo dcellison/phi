@@ -7,7 +7,7 @@ A headed relative clause modifies an explicit noun. That noun is the head, and i
 The gap may occupy different roles within the relative clause. Here **miona** supplies the object of **lothea**:
 
 ```
-mia rena mia lothea miona sano.
+mia wha mia lothea miona sano.
 1SG REL 1SG love person know.
 (I know the person whom I love.)
 ```
@@ -15,7 +15,7 @@ mia rena mia lothea miona sano.
 Here the same head supplies the subject of **thumela**:
 
 ```
-rena lopia thumela miona ha nai.
+wha lopia thumela miona ha nai.
 REL child teach person PROX be.
 (The person who teaches children is here.)
 ```
@@ -23,7 +23,7 @@ REL child teach person PROX be.
 A state can describe the missing subject:
 
 ```
-mia rena serao nai shelu theo.
+mia wha serao nai shelu theo.
 1SG REL old be book read.
 (I read the book that is old.)
 ```
@@ -31,7 +31,7 @@ mia rena serao nai shelu theo.
 A location can do the same:
 
 ```
-rena nia tomora nai womu mioru nai.
+wha nia tomora nai womu mioru nai.
 REL ON mountain be home beautiful be.
 (The home that is on the mountain is beautiful.)
 ```
@@ -43,27 +43,27 @@ The relative clause and its head form one noun phrase. That phrase can occupy th
 ### As subject
 
 ```
-rena mia to nila miona ha nai.
+wha mia to nila miona ha nai.
 REL 1SG PST see person PROX be.
 (The person whom I saw is here.)
 ```
 
-The complete phrase **rena mia to nila miona** is the subject of **ha nai**.
+The complete phrase **wha mia to nila miona** is the subject of **ha nai**.
 
 ### As object
 
 ```
-mia rena shia to kealo nophi theo.
+mia wha shia to kealo nophi theo.
 1SG REL 3SG PST create story read.
 (I read the story that they created.)
 ```
 
-The complete phrase **rena shia to kealo nophi** is the object of **theo**.
+The complete phrase **wha shia to kealo nophi** is the object of **theo**.
 
 ### Inside a prepositional phrase
 
 ```
-mia nia rena mua shelira nai ruela thalo.
+mia nia wha mua shelira nai ruela thalo.
 1SG ON REL LOC forest be path walk.
 (I walk on the path that is in the forest.)
 ```
@@ -75,7 +75,7 @@ The preposition **nia** takes the complete headed phrase as its object.
 A different pattern appears when the head itself is the missing object of a preposition:
 
 ```
-mia rena mia mua to thalo shelira lothea.
+mia wha mia mua to thalo shelira lothea.
 1SG REL 1SG LOC PST walk forest love.
 (I love the forest that I walked in.)
 ```
@@ -87,13 +87,13 @@ The relative clause keeps **mua** before its object gap. **shelira** is the head
 A relative clause can carry its own modifiers, objects, and adjuncts:
 
 ```
-mia rena mia mua serao shelira to thalo ruela lothea.
+mia wha mia mua serao shelira to thalo ruela lothea.
 1SG REL 1SG LOC old forest PST walk path love.
 (I love the path that I walked in the old forest.)
 ```
 
 ```
-rena shia wei lopia mioru nophi to shane miona ha nai.
+wha shia wei lopia mioru nophi to shane miona ha nai.
 REL 3SG DAT child beautiful story PST tell person PROX be.
 (The person who told a beautiful story to the child is here.)
 ```
@@ -105,7 +105,7 @@ The final verb inside the description still arrives before the head noun. More m
 An adjective may follow the relative clause while remaining before the noun:
 
 ```
-mia rena mia to nila serao mioru shelu lothea.
+mia wha mia to nila serao mioru shelu lothea.
 1SG REL 1SG PST see old beautiful book love.
 (I love the old beautiful book that I saw.)
 ```

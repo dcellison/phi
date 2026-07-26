@@ -7,7 +7,7 @@ This is an original Phi essay. Phi is the source text, and the English lines fol
 ## The essay
 
 ```
-melu sui norawhi shua. shia mena repha ki pukate meno shane.
+melu sui norawhi shua. shia tha repha ki pukate tho shane.
 friend DUR dusk come. 3SG DECL.COMP bridge PFV break DECL.COMP.CLOSE tell.
 (A friend comes at dusk. They tell that the bridge has broken.)
 
@@ -23,7 +23,7 @@ ti thena mawha nai. ti sherewa lue lokue haolu.
 REP thing NONE be. REP claim ABL place speak.
 (The reportative marks no thing. It speaks from where the claim came.)
 
-ha nomi thilou sholu ma nai. mia wela mia na phoa welo thilou.
+ha nomi thilou sholu ma nai. mia pha mia na phoa pho thilou.
 PROX present inquire complete NEG be. 1SG INT.COMP 1SG NEC do INT.COMP.CLOSE inquire.
 (This present question is not complete. I ask whether I must act.)
 
@@ -79,7 +79,7 @@ lu miona theula ti sherewa phoa. peshu miona ha miona po roke.
 COND person UNIV REP claim do. lie person PROX person POT move.
 (If a person acts on every reported claim, a lying person can move this person.)
 
-peshu miona mena repha ki pukate meno sheloi shemu po shane. mia sheloi shemu po thalo.
+peshu miona tha repha ki pukate tho sheloi shemu po shane. mia sheloi shemu po thalo.
 lie person DECL.COMP bridge PFV break DECL.COMP.CLOSE MANY moment POT tell. 1SG MANY moment POT walk.
 (A lying person can tell many times that the bridge has broken. I can walk many times.)
 
@@ -87,7 +87,7 @@ mia ha whakeru kelomi. shorela mia sherewa hieru ka kelu.
 1SG PROX object accept. REPH 1SG claim narrow CAUS become.
 (I accept this objection. In other words, I make the claim narrow.)
 
-mia mena miona na theula ti sherewa phoa meno ma sherewa.
+mia tha miona na theula ti sherewa phoa tho ma sherewa.
 1SG DECL.COMP person NEC UNIV REP claim do DECL.COMP.CLOSE NEG claim.
 (I do not claim that a person must act on every reported claim.)
 

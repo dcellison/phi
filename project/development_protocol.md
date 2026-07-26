@@ -38,9 +38,10 @@ This "announce then deliver" principle creates transparent communication where a
 
 ### Structural Hierarchy
 The full function-word shape charter is a canon ruling (see `/canon.md`); the checklist summarizes it.
-- [ ] **Single syllable (CV)**: Reserved for particles and base numerals (mu, ta, wi); particles never take fricative digraphs
+- [ ] **Plain single syllable (CV)**: Reserved for particles and base numerals (mu, ta, wi); particles never take fricative digraphs
+- [ ] **Fricative single syllable (FV)**: The bracketing shape, reserved for the seven complementizers (tha, tho, pha, pho, sha, sho, wha); openers end in -a and closers in -o
 - [ ] **Hiatus disyllable ((C)V.V)**: The relator shape — prepositions (mua, thue, wei), core pronouns (mia, thia, shia), clause-relators (lao, pheo, phoe, shai, whau), and scale units (shao, phoi, lau, rei)
-- [ ] **Plain disyllable (CV.CV)**: The frame shape — complementizers (openers -a, closers -o), frame conjunctions, classifiers, the vocative, and the -so pronoun pair (miso, wiso)
+- [ ] **Plain disyllable (CV.CV)**: The frame shape — frame conjunctions, classifiers, the vocative, and the -so pronoun pair (miso, wiso)
 - [ ] **Multi-syllable**: Required for content words; quantifiers, discourse markers (fricative-initial — the breath before reframing), and interrogatives are content-shaped (2-3 syllables)
 
 ### Sound and articulation review

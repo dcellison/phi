@@ -46,7 +46,7 @@ Apply topic-drop where it is safe, and restore the subject where it is not.
 
 21. `su lo mia lo ha ru thape.`
 22. `mia nela thia wiso lothea.`
-23. `rena mia to nila peloru mioru nai. thuroa.`
+23. `wha mia to nila peloru mioru nai. thuroa.`
 24. `lo mia wepu. thia ma wepu.`
 
 ---

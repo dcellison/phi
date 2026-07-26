@@ -21,7 +21,7 @@ Counting syllables is unusually kind to the learner: count the vowels. `phelona`
 
 A lexicon word cannot repeat a syllable. `kala` has two different syllables and is structurally possible; *kaka* repeats `ka` and cannot enter the vocabulary. Productive names use the related rule that no syllable with its own onset may repeat.
 
-Phi also reserves every one-syllable CV form for the thirty-eight particles and the base numerals `mu`, `ta`, and `wi`. A content word or productive name therefore cannot be one syllable. This is the one word shape that identifies its broad grammatical role before a learner knows the word.
+Phi also reserves every one-syllable form for grammar, and the word's first sound says which kind of grammar. A plain consonant and a vowel gives one of the thirty-eight particles or the base numerals `mu`, `ta`, and `wi`. A fricative digraph and a vowel gives one of the seven complementizers, the words that bracket an embedded clause. A content word or productive name therefore cannot be one syllable at all. These two shapes announce their broad grammatical role before a learner knows the word, and the ear separates them at the first sound: a particle begins on a closure, a bracket on a breath.
 
 ## What other shapes can tell you
 
@@ -30,10 +30,11 @@ The remaining shape charter organizes the closed function-word families without 
 | Shape among function words | Families | Memory cue |
 |----------------------------|----------|------------|
 | one plain CV syllable | particles; `mu`, `ta`, `wi` | reserved grammar and base-numeral forms |
+| one fricative syllable | the seven complementizers | the breath that opens or closes a bracket |
 | two syllables with hiatus | prepositions, core pronouns, clause relators, scale units | relations between participants, clauses, or quantities |
-| two plain syllables | complementizers, frame conjunctions, classifiers, `kona`, plus `miso` and `wiso` | frames and a small set of closed forms |
+| two plain syllables | frame conjunctions, classifiers, `kona`, plus `miso` and `wiso` | frames and a small set of closed forms |
 | two or three content-shaped syllables | quantifiers, discourse markers, interrogatives | grammar that travels where content words travel |
 
-The table is a memory aid, not an automatic parser. Except for reserved CV monosyllables, an unfamiliar shape does not disclose whether the word is content or function. Sentence position and learned vocabulary still have jobs to do.
+The table is a memory aid, not an automatic parser. Except for the reserved monosyllables, an unfamiliar shape does not disclose whether the word is content or function. Sentence position and learned vocabulary still have jobs to do.
 
 Open syllables make every boundary predictable on the page; how readily listeners recover them in rapid speech is a question for listening evidence. On paper, at least, a Phi word's joints show through its spelling, which is more than most languages let a beginner say.

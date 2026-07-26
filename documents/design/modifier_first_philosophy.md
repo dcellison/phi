@@ -101,7 +101,7 @@ The modifier-first principle asks speakers to:
 The modifier-first principle means listeners can:
 1. **Anticipate structure**: Grammatical markers announce what follows before it arrives
 2. **Use early signals**: Many relationships are declared before their content, although lexical and pragmatic reinterpretation still occurs
-3. **Hold with support**: Verb-final order does ask listeners to hold arguments in mind until the verb arrives. Phi accepts this load deliberately — the waiting is part of the practice of patience — and bounds it structurally: explicit clause closers (`meno`, `welo`, `sholo`) always mark what is open and what has closed
+3. **Hold with support**: Verb-final order does ask listeners to hold arguments in mind until the verb arrives. Phi accepts this load deliberately — the waiting is part of the practice of patience — and bounds it structurally: explicit clause closers (`tho`, `pho`, `sho`) always mark what is open and what has closed
 
 ### For learners
 

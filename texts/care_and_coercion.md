@@ -23,7 +23,7 @@ T: mia wiloru phaelo. mia kishu nai. mia ki phialu milau.
 1SG dizziness feel. 1SG thirsty be. 1SG PFV water drink.
 (I feel dizziness. I am thirsty. I have drunk water.)
 
-S: mia mena thia wiloru phaelo meno thekao. mia thia siwe hi nila. ha sukaro howenu pemaru nai.
+S: mia tha thia wiloru phaelo tho thekao. mia thia siwe hi nila. ha sukaro howenu pemaru nai.
 1SG DECL.COMP 2SG dizziness feel DECL.COMP.CLOSE acknowledge. 1SG 2SG sweat DIR see. PROX hot weather hazard be.
 (I acknowledge that you feel dizziness. I directly see your sweat. This hot weather is a hazard.)
 
@@ -35,7 +35,7 @@ T: mia ha wepu ma lesawi. mia mua womu manolu rinu.
 1SG PROX go NEG consent. 1SG LOC home stay want.
 (I do not consent to this going. I want to stay home.)
 
-S: mia thia naweri thekao. whekai mia mena thia mua ha womu shurano ma nai meno nohero.
+S: mia thia naweri thekao. whekai mia tha thia mua ha womu shurano ma nai tho nohero.
 1SG 2SG refuse acknowledge. CONTR 1SG DECL.COMP 2SG LOC PROX home safe NEG be DECL.COMP.CLOSE believe.
 (I acknowledge your refusal. However, I believe that you are not safe in this home.)
 
@@ -59,7 +59,7 @@ S: mia ma sano. thia lila wepu ralu nai. pi wa mia wira po phae.
 1SG NEG know. 2SG PURP go free be. POL Q 1SG window POT open.
 (I do not know. You need not go. May I open the window?)
 
-T: mia mena thia wira phae meno lesawi.
+T: mia tha thia wira phae tho lesawi.
 1SG DECL.COMP 2SG window open DECL.COMP.CLOSE consent.
 (I consent to your opening the window.)
 
@@ -83,15 +83,15 @@ T: pi no wei mia thia remotha solae.
 POL IMP DAT 1SG 2SG reason explain.
 (Please explain your reason to me.)
 
-S: mia thia siwe hi nila. mia mena thia wiloru phaelo meno hea. ha wi thesori mia sherewa panoru.
+S: mia thia siwe hi nila. mia tha thia wiloru phaelo tho hea. ha wi thesori mia sherewa panoru.
 1SG 2SG sweat DIR see. 1SG DECL.COMP 2SG dizziness feel DECL.COMP.CLOSE hear. PROX two evidence 1SG claim support.
 (I directly see your sweat. I hear that you feel dizziness. These two pieces of evidence support my claim.)
 
-T: mia ha wi thesori kelomi. whekai mia thia remuma whamoi. thia sherewa mena mia na wepu meno ma natheri.
+T: mia ha wi thesori kelomi. whekai mia thia remuma whamoi. thia sherewa tha mia na wepu tho ma natheri.
 1SG PROX two evidence accept. CONTR 1SG 2SG conclusion doubt. 2SG claim DECL.COMP 1SG NEC go DECL.COMP.CLOSE NEG entail.
 (I accept these two pieces of evidence. However, I doubt your conclusion. Your claim does not entail that I must go.)
 
-S: mia phelira to nai. shorela mia mena thia na wepu meno ma sherewa. mia mena thia theama phelona meno sherewa. ha wi sherewa senao ma nai.
+S: mia phelira to nai. shorela mia tha thia na wepu tho ma sherewa. mia tha thia theama phelona tho sherewa. ha wi sherewa senao ma nai.
 1SG mistaken PST be. REPH 1SG DECL.COMP 2SG NEC go DECL.COMP.CLOSE NEG claim. 1SG DECL.COMP 2SG care require DECL.COMP.CLOSE claim. PROX two claim same NEG be.
 (I was mistaken. In other words, I do not claim that you must go. I claim that you require care. These two claims are not the same.)
 
@@ -111,7 +111,7 @@ T: lu mia waeli ma nai. sua ha kanu phelu.
 COND 1SG conscious NEG be. who PROX choose hold.
 (If I am not conscious, who holds this choice?)
 
-S: mia ma sano. lu thia po ma lonae. mia mena mia thia po shorupo meno nohero.
+S: mia ma sano. lu thia po ma lonae. mia tha mia thia po shorupo tho nohero.
 1SG NEG know. COND 2SG POT NEG respond. 1SG DECL.COMP 1SG 2SG POT protect DECL.COMP.CLOSE believe.
 (I do not know. If you cannot respond, I believe that I may protect you.)
 
@@ -119,7 +119,7 @@ T: thia rinu remotha nai. whekai ha karami ma nai.
 2SG want reason be. CONTR PROX authority NEG be.
 (Your desire is a reason. However, it is not authority.)
 
-S: mia nawo. mia mena mia karami phelu meno ma sherewa. whekai lo mia shurano nela ralu sone. ha kanu soneho phelu.
+S: mia nawo. mia tha mia karami phelu tho ma sherewa. whekai lo mia shurano nela ralu sone. ha kanu soneho phelu.
 1SG agree. 1SG DECL.COMP 1SG authority hold DECL.COMP.CLOSE NEG claim. CONTR PL 1SG safe COORD free value. PROX choose tradeoff hold.
 (I agree. I do not claim that I hold authority. However, we value safety and freedom. This choice has a tradeoff.)
 
@@ -131,11 +131,11 @@ S: pi no thia ha lesawi norui solae.
 POL IMP 2SG PROX consent boundary explain.
 (Please explain the boundary of your consent.)
 
-T: lu mia waeli ma nai. mia mena thia kau neri sila tholupi mia po kolua meno lesawi.
+T: lu mia waeli ma nai. mia tha thia kau neri sila tholupi mia po kolua tho lesawi.
 COND 1SG conscious NEG be. 1SG DECL.COMP 2SG ALL cool community room 1SG POT carry DECL.COMP.CLOSE consent.
 (If I am not conscious, I consent that you may carry me to the cool community room.)
 
-S: mia ha lesawi lilea. lu thia waeli ma nai. mia kau neri sila tholupi thia po kolua. lu thia waeli nai nela thia po lonae. mia wela thia ha kolua lesawi welo thilou. wa ha norui telua nai.
+S: mia ha lesawi lilea. lu thia waeli ma nai. mia kau neri sila tholupi thia po kolua. lu thia waeli nai nela thia po lonae. mia pha thia ha kolua lesawi pho thilou. wa ha norui telua nai.
 1SG PROX consent clarify. COND 2SG conscious NEG be. 1SG ALL cool community room 2SG POT carry. COND 2SG conscious be COORD 2SG POT respond. 1SG INT.COMP 2SG PROX carry consent INT.COMP.CLOSE inquire. Q PROX boundary accurate be.
 (I clarify this consent. If you are not conscious, I may carry you to the cool community room. If you are conscious and can respond, I ask whether you consent to this carrying. Is this boundary accurate?)
 
@@ -147,7 +147,7 @@ S: mia nawo. mia ha winora seru. pi wa mia mua ha womu nua thia po manolu.
 1SG agree. 1SG PROX plan commit. POL Q 1SG LOC PROX home COM 2SG POT stay.
 (I agree. I commit to this plan. May I stay here with you?)
 
-T: mia mena thia mua ha womu nua mia manolu meno lesawi. mia phialu rinu.
+T: mia tha thia mua ha womu nua mia manolu tho lesawi. mia phialu rinu.
 1SG DECL.COMP 2SG LOC PROX home COM 1SG stay DECL.COMP.CLOSE consent. 1SG water want.
 (I consent to your staying here with me. I want water.)
 
@@ -183,7 +183,7 @@ NAME sanuwe water near bring COORD laugh.
 |---|---|---|
 | Does interpersonal control need a root? | The dialogue separates `karami` authority, `kawhera` coercion, `lesawi` consent, and `naweri` refusal. Technical `ketora` control never enters the scene. | The dialogue needs no new root. The English umbrella word hides distinctions Phi can state directly. |
 | How should present decision-making ability be described? | Three ordinary observations carry the point: telari is `waeli`, understands the reasons with `shelomu`, and can `lonae`. Technical `henora` stays with systems. | The composition keeps the observed abilities visible. |
-| Can advance consent be expressed? | A `lu` condition precedes a complete act framed by `mena ... meno` as the object of `lesawi`. | The construction is long but clear. Repeated use can decide whether speakers need a shorter form. |
+| Can advance consent be expressed? | A `lu` condition precedes a complete act framed by `tha ... tho` as the object of `lesawi`. | The construction is long but clear. Repeated use can decide whether speakers need a shorter form. |
 | Do persuasion and coercion remain distinct in use? | `sharemi` leaves the route of refusal open; `kawhera` closes practical alternatives. | The pair carries the argument in ordinary use. |
 | Does danger itself decide what follows? | `pemaru`, `thesori`, `panoru`, and `natheri` separate hazard, evidence, support, and entailment. | The language can acknowledge danger without letting one observation choose the response. |
 

@@ -32,7 +32,7 @@ Phi is a constructed language, but almost every one of its features lives somewh
 
 **Honorifics** exist richly in Japanese and Korean, but there they encode social *rank*. Phi's three-way system (respect / intimacy / role) deliberately encodes *relationship* instead; there is no "upward" or "downward." This inversion of a natural category is one of Phi's clearest philosophical edits.
 
-**The opener/closer complementizer pairs** (`mena…meno`) are Phi's most engineered feature. Natural languages mark clause openings well but rarely mark clause *closings* segmentally: they rely on intonation, verb morphology, or the listener's patience. The closest natural analogues are the clause-final complementizers of some SOV languages and the bracketing particles of sign languages. Phi's strict pairing is best understood as an engineered solution to a real SOV parsing problem that natural languages solve messily.
+**The opener/closer complementizer pairs** (`tha…tho`) are Phi's most engineered feature. Natural languages mark clause openings well but rarely mark clause *closings* segmentally: they rely on intonation, verb morphology, or the listener's patience. The closest natural analogues are the clause-final complementizers of some SOV languages and the bracketing particles of sign languages. Phi's strict pairing is best understood as an engineered solution to a real SOV parsing problem that natural languages solve messily.
 
 ## Numbers
 

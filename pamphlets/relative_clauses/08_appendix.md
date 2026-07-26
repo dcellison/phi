@@ -5,23 +5,23 @@
 ### The basic structure
 
 ```
-[rena CLAUSE] NOUN
+[wha CLAUSE] NOUN
 ```
 
-- `rena` announces a relative clause
+- `wha` announces a relative clause
 - The clause describes the noun
 - The noun appears at the end, closing the clause
 
 ### In a full sentence
 
 ```
-[rena CLAUSE NOUN] MAIN-VERB
+[wha CLAUSE NOUN] MAIN-VERB
 ```
 
 or
 
 ```
-SUBJECT [rena CLAUSE NOUN] MAIN-VERB
+SUBJECT [wha CLAUSE NOUN] MAIN-VERB
 ```
 
 ### Key facts
@@ -29,7 +29,7 @@ SUBJECT [rena CLAUSE NOUN] MAIN-VERB
 | Feature | Phi | English |
 |---------|-----|---------|
 | Position | Pre-nominal (clause before noun) | Post-nominal (noun before clause) |
-| Marker | Single `rena` for all cases | who, whom, which, that, where, when... |
+| Marker | Single `wha` for all cases | who, whom, which, that, where, when... |
 | Closer | None needed (noun closes clause) | None (but can sprawl) |
 | Gap | Position indicates role | Relative pronoun indicates role |
 
@@ -37,33 +37,33 @@ SUBJECT [rena CLAUSE NOUN] MAIN-VERB
 
 **Subject gap:** The head noun is the doer
 ```
-rena ___ nophi kealo miona
+wha ___ nophi kealo miona
 "the person who creates stories"
 ```
 
 **Object gap:** The head noun is the receiver
 ```
-rena mia ___ to theo shelu
+wha mia ___ to theo shelu
 "the book that I read"
 ```
 
 **Oblique gap:** The head noun fills a prepositional phrase; the preposition stays and its object is gapped
 ```
-rena mia mua ___ to thalo shelira
+wha mia mua ___ to thalo shelira
 "the forest that I walked in"
 ```
 
 ### Headless relatives
 
-When the noun is implied, `rena` remains and the head goes unspoken:
+When the noun is implied, `wha` remains and the head goes unspoken:
 ```
-rena lothea shelomu phue nai
+wha lothea shelomu phue nai
 "one who understands love is wise"
 ```
 
-Headless never means markerless: without `rena`, the words are a statement, not a thing.
+Headless never means markerless: without `wha`, the words are a statement, not a thing.
 
-### What `rena` is NOT
+### What `wha` is NOT
 
 - NOT a pronoun (doesn't change form, doesn't fill the gap)
 - NOT optional, headed or headless
@@ -71,7 +71,7 @@ Headless never means markerless: without `rena`, the words are a statement, not 
 
 ### Checklist
 
-- `rena` at the beginning
+- `wha` at the beginning
 - Complete clause (subject, verb, etc.)
 - Gap where the head noun would be
 - Head noun at the end
@@ -81,7 +81,7 @@ Headless never means markerless: without `rena`, the words are a statement, not 
 
 ## Glossary
 
-**Complementizer:** A function word that introduces a subordinate clause. In Phi: `rena`, `mena`/`meno`, `shola`/`sholo`, `wela`/`welo`.
+**Complementizer:** A function word that introduces a subordinate clause. In Phi: `wha`, `tha`/`tho`, `sha`/`sho`, `pha`/`pho`.
 
 **Gap:** The empty position inside a relative clause where the head noun would appear if it were a normal sentence.
 
@@ -97,7 +97,7 @@ Headless never means markerless: without `rena`, the words are a statement, not 
 
 **Relative clause:** A clause that functions as a modifier, describing a noun by relating it to a situation or action.
 
-**Relativizer:** A word that introduces a relative clause. In Phi: `rena`. In English: who, which, that, etc.
+**Relativizer:** A word that introduces a relative clause. In Phi: `wha`. In English: who, which, that, etc.
 
 **Relative pronoun:** A pronoun that introduces a relative clause and stands in for the head noun inside it. English uses these; Phi does not.
 
@@ -156,10 +156,10 @@ This pamphlet expands on **chapter 20, Relative clauses**, in the Phi manual.
 Related chapters:
 - **Chapter 9**, the particle system: how particles work in relative clauses
 - **Chapter 13**, pronouns: topic-drop and when subjects can be omitted
-- **Chapter 19**, subordinate clauses: the complementizers `mena`/`meno`, `shola`/`sholo`, `wela`/`welo`
+- **Chapter 19**, subordinate clauses: the complementizers `tha`/`tho`, `sha`/`sho`, `pha`/`pho`
 
 Related grammar documents:
-- `complementizer_reference.md`, full reference for all complementizers including `rena`
+- `complementizer_reference.md`, full reference for all complementizers including `wha`
 
 ---
 

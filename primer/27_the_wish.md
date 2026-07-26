@@ -27,8 +27,8 @@
 
 ## III
 
-> **wheo shola su thia hiso ruela phelu sholo haolu.**
-> **phao shola su thia womu wireo turema sholo haolu.**
+> **wheo sha su thia hiso ruela phelu sho haolu.**
+> **phao sha su thia womu wireo turema sho haolu.**
 
 | new word | say it | it means |
 |---|---|---|

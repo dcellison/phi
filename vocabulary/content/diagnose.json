@@ -14,10 +14,10 @@
   ],
   "description": "Someone 'kithero' when they form or report a clinical conclusion from evidence under chosen criteria. The conclusion may be provisional, revised, disputed, or wrong. An exact disease label remains in its source record; the diagnosis does not decide consent or what happens next.",
   "articulatory_notes": "Close the back of the tongue against the soft palate for unvoiced 'k' and release into high-front unrounded 'i'. Rest the tongue tip lightly against the upper teeth for unvoiced 'th', pass air along it, and move into stressed true-mid front unrounded 'e'. Make a tap or short trill with the tongue tip and draw the tongue back into true-mid rounded back 'o'.",
-  "usage_notes": "A condition or conclusion can be the object; a 'mena ... meno' clause can instead contain the diagnosed proposition. As a noun, 'kithero' means a diagnosis. Symptoms and findings may support the conclusion. Tests produce evidence, assessment compares it with a criterion, and prognosis looks towards the expected course.",
+  "usage_notes": "A condition or conclusion can be the object; a 'tha ... tho' clause can instead contain the diagnosed proposition. As a noun, 'kithero' means a diagnosis. Symptoms and findings may support the conclusion. Tests produce evidence, assessment compares it with a criterion, and prognosis looks towards the expected course.",
   "examples": [
     {
-      "phi": "shia mena mia ha mokanu phelu meno kithero.",
+      "phi": "shia tha mia ha mokanu phelu tho kithero.",
       "translation": "They diagnose that I have this disease."
     }
   ],

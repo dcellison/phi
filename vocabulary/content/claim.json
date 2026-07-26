@@ -15,10 +15,10 @@
   "description": "A speaker puts forward a proposition so that others can consider it: the path is safe, or the water is clean. 'sherewa' reports that communicative act whether the speaker believes the proposition, doubts it, or repeats it for examination. 'nohero' (believe) is an inward stance, while 'shane' (tell) gives an account without necessarily asserting a proposition.",
   "articulatory_notes": "Begin with the tongue blade raised towards the postalveolar area. Unvoiced air forms 'sh' and then opens onto middle-height front 'e'. At stressed 're', tap or briefly trill the tongue tip on the alveolar ridge. Shape voiced 'w' by rounding the lips and lifting the tongue back, then drop the jaw and unround into final central 'a'.",
   "sound_symbolism": "The opening breath moves through a quick stressed tap and ends by opening from rounded 'w' into 'a'. It has the feel of something carried out of the mouth and left before another person.",
-  "usage_notes": "A nominal object names what is claimed. A complete proposition uses the declarative complement frame 'mena ... meno', and noun-position 'sherewa' is a claim. The verb attributes the assertion to its speaker without settling whether the proposition is true.",
+  "usage_notes": "A nominal object names what is claimed. A complete proposition uses the declarative complement frame 'tha ... tho', and noun-position 'sherewa' is a claim. The verb attributes the assertion to its speaker without settling whether the proposition is true.",
   "examples": [
     {
-      "phi": "mia mena ha ruela welao nai meno sherewa.",
+      "phi": "mia tha ha ruela welao nai tho sherewa.",
       "translation": "I claim that this path is good."
     }
   ],

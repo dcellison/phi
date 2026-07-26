@@ -22,27 +22,27 @@ The repair lines already authored into these transformations demonstrate structu
 ## 1A. Rain and the river: premise variation
 
 ```
-A: mia mena pheralu to lepa meno hi sano.
+A: mia tha pheralu to lepa tho hi sano.
 
 B: mia luphore hi nila. luphore hiso ma nai.
 
-A: mia mena pheralu luphore peloma ka kelu meno ke nohero.
+A: mia tha pheralu luphore peloma ka kelu tho ke nohero.
 
 B: mia shelomu. whekai mia ma nawo.
 
-B: thia mena pheralu to lepa meno hi sano. thia mena luphore hiso ma nai meno hi sano. whekai thia mena pheralu luphore peloma ka kelu meno hi ma sano.
+B: thia tha pheralu to lepa tho hi sano. thia tha luphore hiso ma nai tho hi sano. whekai thia tha pheralu luphore peloma ka kelu tho hi ma sano.
 
-A: mia shelomu. whekai mia mena pheralu luphore peloma ka kelu meno ke nohero.
+A: mia shelomu. whekai mia tha pheralu luphore peloma ka kelu tho ke nohero.
 ```
 
 ## 1B. Rain and the river: conclusion variation
 
 ```
-A: mia mena pheralu to lepa meno ti sano.
+A: mia tha pheralu to lepa tho ti sano.
 
 B: mia luphore hi nila. luphore hiso ma nai.
 
-A: mia mena pheralu luphore peloma ka kelu meno ke nohero.
+A: mia tha pheralu luphore peloma ka kelu tho ke nohero.
 
 B: mia ma sano. phisu serao keli peloma po nai.
 
@@ -82,7 +82,7 @@ B: lo mia wei lo kumoli miona ta napuro phanoi so loa.
 
 B: lo mia phea thinoe ta napuro phanoi so phelu.
 
-C: mia mena ha kanu thua nai meno ma nohero.
+C: mia tha ha kanu thua nai tho ma nohero.
 
 A: lu lo mia ha thimu ma kanu. lo kumoli miona nuora po ma phelu.
 
@@ -128,7 +128,7 @@ B: lo mia phea thinoe ta napuro phanoi so phelu.
 
 B: lo mia wei thia ta napuro phanoi so loa.
 
-C: mia mena ha kanu thua nai meno ma nohero.
+C: mia tha ha kanu thua nai tho ma nohero.
 
 A: lu lo mia ha thimu ma kanu. lo kumoli miona nuora po ma phelu.
 

@@ -96,7 +96,7 @@ mia naweri.
 (I refuse.)
 ```
 
-Agreement with a proposition should use `mena … meno`; agreement with a person uses `nua`. Bare forms rely on an already established topic.
+Agreement with a proposition should use `tha … tho`; agreement with a person uses `nua`. Bare forms rely on an already established topic.
 
 ### Request a source form
 

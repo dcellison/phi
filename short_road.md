@@ -121,7 +121,7 @@ Phi has no words for money, price, or wage, nor verbs meaning pay, buy, or sell.
 The text shelf puts this refusal to work. In the second chapter of the *News from Nowhere* transmutation, William Morris's time traveler tries to tip his boatman:
 
 ```
-thelao mia muo wethalu manuwe to sepho. mia shola wia. sholo to haolu.
+thelao mia muo wethalu manuwe to sepho. mia sha wia. sho to haolu.
 CONS 1SG INTO garment hand PST send. 1SG QUOT.COMP how many. QUOT.COMP.CLOSE PST speak.
 (So I put my hand into my garment, and said, "How many?")
 ```

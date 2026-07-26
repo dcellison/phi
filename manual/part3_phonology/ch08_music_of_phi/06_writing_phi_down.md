@@ -4,7 +4,7 @@ Write `lothea` in romanization. The six letters record five phonemes because `th
 
 Phi currently has two writing modes: romanization and Tengwar. Romanization uses ten single-letter consonants, four consonant digraphs, and five vowel letters for the nineteen reference phonemes. Each spelling points to one reference phoneme, and there are no silent letters. Accepted accent variants change how a grapheme may be pronounced, not how the word is written. Dots such as *lo.the.a* are teaching aids and disappear in ordinary text.
 
-Phi has no capital letters at the start of a sentence or in a name. A Phi-form name is introduced by `ne`, which works in speech and in every writing mode. The period is the only visible punctuation mark. Questions use `wa`; quotations use `shola` and `sholo`; direct address uses `kona`; other clause boundaries use spoken words as well. A pause may help a listener, but it cannot change the grammar.
+Phi has no capital letters at the start of a sentence or in a name. A Phi-form name is introduced by `ne`, which works in speech and in every writing mode. The period is the only visible punctuation mark. Questions use `wa`; quotations use `sha` and `sho`; direct address uses `kona`; other clause boundaries use spoken words as well. A pause may help a listener, but it cannot change the grammar.
 
 ## The Tengwar mode
 

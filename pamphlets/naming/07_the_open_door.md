@@ -57,7 +57,7 @@ ne thinoe mia wheo to nai.
 NAME thinoe 1SG elder PST be.
 (thinoe was my elder.)
 
-ne thinoe shola no wei muila thinoe loa. no wei muila phialu loa. muila theula howela sholo to haolu.
+ne thinoe sha no wei muila thinoe loa. no wei muila phialu loa. muila theula howela sho to haolu.
 NAME thinoe QUOT.COMP IMP DAT earth seed give. IMP DAT earth water give. earth UNIV receive QUOT.COMP.CLOSE PST speak.
 (thinoe said: "Give seeds to the earth. Give water to the earth. The earth receives all.")
 ```

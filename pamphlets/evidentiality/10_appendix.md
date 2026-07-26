@@ -53,7 +53,7 @@ The event described is the same. Only the speaker's stated source changes.
 - A speaker often leaves their own feeling unmarked. When discussing somebody else's state, inference or assumption may be relevant, and a question may be socially preferable.
 - Evidence specific to the case takes `ke`; background expectation takes `ho`.
 - `ho` does not grade confidence. `po` concerns possibility.
-- A `shola ... sholo` quotation preserves the exact Phi source markers that were spoken. It does not insert or transfer them.
+- A `sha ... sho` quotation preserves the exact Phi source markers that were spoken. It does not insert or transfer them.
 - Settled knowledge can remain unmarked when provenance is irrelevant. Adding `ti` foregrounds how the information was received.
 
 ### Useful two-sentence patterns

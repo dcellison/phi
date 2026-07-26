@@ -28,7 +28,7 @@ love love satisfy.
 (Love satisfies love.)
 gibran: "For love is sufficient unto love."
 
-lu thia lothea. no shola liona mua mia korua nai sholo ma haolu. no shola mia mua liona korua nai sholo haolu.
+lu thia lothea. no sha liona mua mia korua nai sho ma haolu. no sha mia mua liona korua nai sho haolu.
 COND 2SG love. IMP QUOT.COMP live LOC 1SG heart be QUOT.COMP.CLOSE NEG speak. IMP QUOT.COMP 1SG LOC live heart be QUOT.COMP.CLOSE speak.
 (When you love, do not say: "Life is in my heart." Say: "I am in the heart of Life.")
 gibran: "When you love you should not say, “God is in my heart,” but rather, “I am in the heart of God.”"
@@ -38,12 +38,12 @@ thia lothea po ma kulo.
 (You cannot guide love.)
 gibran: "And think not you can direct the course of love,"
 
-lu lothea mena thia henoi nai meno hekawi. lothea thia kulo.
+lu lothea tha thia henoi nai tho hekawi. lothea thia kulo.
 COND love DECL.COMP 2SG ENOUGH be DECL.COMP.CLOSE find. love 2SG guide.
 (If love finds that you are enough, love guides your course.)
 gibran: "for love, if it finds you worthy, directs your course."
 
-lothea li mena miso pheno kelu meno pula.
+lothea li tha miso pheno kelu tho pula.
 love RESTR DECL.COMP REFL full become DECL.COMP.CLOSE wish.
 (Love wishes only that it become full.)
 gibran: "Love has no other desire but to fulfil itself."
@@ -53,7 +53,7 @@ COND CONTR 2SG love COORD PL wish hold. OPT PL PROX 2SG wish be.
 (But if you love, and hold desires, may these be your desires:)
 gibran: "But if you love and must needs have desires, let these be your desires:"
 
-su thia phea rena wei shero meliho thiku luphore kelu.
+su thia phea wha wei shero meliho thiku luphore kelu.
 OPT 2SG AS REL DAT night sing small river become.
 (May you become like a small river singing its song to the night.)
 gibran: "To melt and be like a running brook that sings its melody to the night."
@@ -88,7 +88,7 @@ OPT 2SG LOC evening INS appreciate ALL home return.
 (May you return home at evening with gratitude.)
 gibran: "To return home at eventide with gratitude;"
 
-su thia nulae. su mua thia korua wei rena thia lothea miona thorai nai. su nia thia phulae ta woraka meliho nai.
+su thia nulae. su mua thia korua wei wha thia lothea miona thorai nai. su nia thia phulae ta woraka meliho nai.
 OPT 2SG sleep. OPT LOC 2SG heart DAT REL 2SG love person bless be. OPT ON 2SG mouth one appreciate sing be.
 (Then may you sleep: a blessing in your heart for the one you love, and a song of thanks upon your lips.)
 gibran: "And then to sleep with a prayer for the beloved in your heart and a song of praise upon your lips."
@@ -155,7 +155,7 @@ gibran: "For their souls dwell in the house of tomorrow, which you cannot visit,
 ### Becoming and time
 
 ```
-lila thia phea lo shia kelu thia po meloa. no whekai mena thia lo shia phea thia ka kelu meno ma mesatu.
+lila thia phea lo shia kelu thia po meloa. no whekai tha thia lo shia phea thia ka kelu tho ma mesatu.
 PURP 2SG AS PL 3SG become 2SG POT persevere. IMP CONTR DECL.COMP 2SG PL 3SG AS 2SG CAUS become DECL.COMP.CLOSE NEG try.
 (You may persevere so that you become like them. However, do not try to make them become like you.)
 gibran: "You may strive to be like them, but seek not to make them like you."
@@ -171,17 +171,17 @@ gibran: "For life goes not backward nor tarries with yesterday."
 ### Bow, arrow, and archer
 
 ```
-thia lo [rena nira phelu] luwi wolea tenoa nai. lo thia phomila phea [rena wapi] lima tiso wolea thena lue thia se sepho.
+thia lo [wha nira phelu] luwi wolea tenoa nai. lo thia phomila phea [wha wapi] lima tiso wolea thena lue thia se sepho.
 2SG PL [REL cord hold] flexible wood tool be. PL 2SG offspring AS [REL fly] alive sharp wood thing ABL 2SG PASS send.
 (You are flexible wooden tools that hold a cord. Your offspring are sent from you as living sharp wooden things that fly.)
 gibran: "You are the bows from which your children as living arrows are sent forth."
 
-mua [rena mawha lumae phelu] ruela [rena roe ha tenoa phoa] porua siru nila.
+mua [wha mawha lumae phelu] ruela [wha roe ha tenoa phoa] porua siru nila.
 LOC [REL NONE end hold] path [REL INS PROX tool do] purpose marker see.
 (On the path that holds no end, the one who acts with this tool sees a marker of purpose.)
 gibran: "The archer sees the mark upon the path of the infinite,"
 
-lila shia lo [rena wapi] lima tiso wolea thena reshi nela wuero wapi shia roe shia puro thia luwi ka kelu.
+lila shia lo [wha wapi] lima tiso wolea thena reshi nela wuero wapi shia roe shia puro thia luwi ka kelu.
 PURP 3SG PL [REL fly] alive sharp wood thing fast COORD far fly 3SG INS 3SG strength 2SG flexible CAUS become.
 (With his strength, he makes you bend so that his living sharp wooden things fly fast and far.)
 gibran: "and He bends you with His might that His arrows may go swift and far."
@@ -191,7 +191,7 @@ OPT LOC 3SG hand 2SG INS joy flexible become.
 (May you bend with joy in his hand.)
 gibran: "Let your bending in the Archer’s hand be for gladness;"
 
-shia [rena wapi] lima tiso wolea thena lothea. shia we mureo [rena nira phelu] luwi wolea tenoa lothea.
+shia [wha wapi] lima tiso wolea thena lothea. shia we mureo [wha nira phelu] luwi wolea tenoa lothea.
 3SG [REL fly] alive sharp wood thing love. 3SG ALSO stable [REL cord hold] flexible wood tool love.
 (He loves the living sharp wooden thing that flies. He also loves the stable flexible wooden tool that holds a cord.)
 gibran: "For even as he loves the arrow that flies, so He loves also the bow that is stable."
@@ -208,9 +208,9 @@ lo thia phomila thia phomila ma nai. lo shia lioru wei miso wilao phomila nai. l
 
 thia wei lo shia lothea po loa. thia wei lo shia remo po ma loa. lo shia miso remo phelu. thia lo shia weloni ka po menui. thia lo shia norea ka po ma menui. lo shia norea mua wireo womu menui. thia ha womu po ma phemiru. we mua thia whemura thia ha womu po ma phemiru.
 
-lila thia phea lo shia kelu thia po meloa. no whekai mena thia lo shia phea thia ka kelu meno ma mesatu. lioru wea luera ma wepu. shia nua luera philo ma manolu.
+lila thia phea lo shia kelu thia po meloa. no whekai tha thia lo shia phea thia ka kelu tho ma mesatu. lioru wea luera ma wepu. shia nua luera philo ma manolu.
 
-thia lo [rena nira phelu] luwi wolea tenoa nai. lo thia phomila phea [rena wapi] lima tiso wolea thena lue thia se sepho. mua [rena mawha lumae phelu] ruela [rena roe ha tenoa phoa] porua siru nila. lila shia lo [rena wapi] lima tiso wolea thena reshi nela wuero wapi shia roe shia puro thia luwi ka kelu. su mua shia manuwe thia roe siora luwi kelu. shia [rena wapi] lima tiso wolea thena lothea. shia we mureo [rena nira phelu] luwi wolea tenoa lothea.
+thia lo [wha nira phelu] luwi wolea tenoa nai. lo thia phomila phea [wha wapi] lima tiso wolea thena lue thia se sepho. mua [wha mawha lumae phelu] ruela [wha roe ha tenoa phoa] porua siru nila. lila shia lo [wha wapi] lima tiso wolea thena reshi nela wuero wapi shia roe shia puro thia luwi ka kelu. su mua shia manuwe thia roe siora luwi kelu. shia [wha wapi] lima tiso wolea thena lothea. shia we mureo [wha nira phelu] luwi wolea tenoa lothea.
 ```
 
 ### Translation limits
@@ -297,7 +297,7 @@ OPT 2SG LOC wind INS joy flexible become.
 (May your bending in the wind be for gladness.)
 gibran: "Let your bending in the Archer’s hand be for gladness;"
 
-lioru rena wapi thinoe lothea. lioru we rena mureo nai shiro lothea.
+lioru wha wapi thinoe lothea. lioru we wha mureo nai shiro lothea.
 life REL fly seed love. life ALSO REL stable be tree love.
 (Life loves the seed that flies, and Life also loves the tree that stands.)
 gibran: "For even as he loves the arrow that flies, so He loves also the bow that is stable."
@@ -355,7 +355,7 @@ COND 2SG REFL give. 2SG true give.
 (When you give yourself, you truly give.)
 gibran: "It is when you give of yourself that you truly give."
 
-theula rena thia phelu so se loa.
+theula wha thia phelu so se loa.
 UNIV REL 2SG hold FUT PASS give.
 (All that you hold will one day be given.)
 gibran: "All you have shall some day be given;"
@@ -375,13 +375,13 @@ live DAT live give.
 (For in truth, Life gives to Life.)
 gibran: "For in truth it is life that gives unto life--"
 
-thia mena miso loa miona nai meno remo. whekai thia li rena nila miona nai.
+thia tha miso loa miona nai tho remo. whekai thia li wha nila miona nai.
 2SG DECL.COMP REFL give person be DECL.COMP.CLOSE think. CONTR 2SG RESTR REL see person be.
 (You think yourself the giver; but you are only the one who watches.)
 gibran: "while you, who deem yourself a giver, are but a witness."
 ```
 
-**Notes:** two conditions, mirrored, and the manner slot does the philosophy: `thiku loa`, to give small; `shewo loa`, to give truly; the whole distinction between property and self fits in the one word that changes. The first line of the season-verse is a headless relative under `theula` wearing future and passive together, canon's particle stack in its ruled order; then the journal's oldest gesture, a time-phrase set down alone: `nosa.` Now. The blessing that follows uses the event-noun rule to make giving its own season, `loa thimu`, the giving's time, and hands it to `thia` rather than `lumira`, the descendant, exactly as Gibran urges. English needs reward; Phi does not have one and does not want one: a reward is payment, and this economy runs on gifts. `loami`, the gift with the giving folded inside it, says what Gibran meant more exactly than his own word. And the teaching's floor is the text's quietest pair: Life gives to Life, `liona` on both sides of `wei`; then the giver's ego dissolved in two strokes, the deeming named as thinking, `mena miso loa miona nai meno remo`, and the truth fenced with `li`: only the one-who-sees.
+**Notes:** two conditions, mirrored, and the manner slot does the philosophy: `thiku loa`, to give small; `shewo loa`, to give truly; the whole distinction between property and self fits in the one word that changes. The first line of the season-verse is a headless relative under `theula` wearing future and passive together, canon's particle stack in its ruled order; then the journal's oldest gesture, a time-phrase set down alone: `nosa.` Now. The blessing that follows uses the event-noun rule to make giving its own season, `loa thimu`, the giving's time, and hands it to `thia` rather than `lumira`, the descendant, exactly as Gibran urges. English needs reward; Phi does not have one and does not want one: a reward is payment, and this economy runs on gifts. `loami`, the gift with the giving folded inside it, says what Gibran meant more exactly than his own word. And the teaching's floor is the text's quietest pair: Life gives to Life, `liona` on both sides of `wei`; then the giver's ego dissolved in two strokes, the deeming named as thinking, `tha miso loa miona nai tho remo`, and the truth fenced with `li`: only the one-who-sees.
 
 ---
 

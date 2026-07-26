@@ -120,9 +120,9 @@ VOWELS = set("aeiou")
 PHI_LETTERS = CONSONANTS | VOWELS
 
 COMPLEMENT_PAIRS = {
-    "mena": "meno",
-    "wela": "welo",
-    "shola": "sholo",
+    "tha": "tho",
+    "pha": "pho",
+    "sha": "sho",
 }
 COMPLEMENT_CLOSERS = {
     closer: opener for opener, closer in COMPLEMENT_PAIRS.items()
@@ -236,10 +236,10 @@ SLOT1_ORDER = {
 PURPOSE_FRAME_PREFIXES = {
     "wa", "no", "lu", "he", "su", "pi",
     "phisu", "shekoi", "shelao", "sheno", "shorela", "thelao", "whekai",
-    "pheo", "phoe", "lao", "shai", "rena",
+    "pheo", "phoe", "lao", "shai", "wha",
 }
-FRAME_OPENERS = {"mena", "wela", "shola"}
-FRAME_CLOSERS = {"meno", "welo", "sholo"}
+FRAME_OPENERS = {"tha", "pha", "sha"}
+FRAME_CLOSERS = {"tho", "pho", "sho"}
 COORDINATING_CONJUNCTIONS = {"nela", "thona", "sola"}
 
 IPA_CONSONANTS = {
@@ -342,8 +342,6 @@ def prohibited_prose_errors(rel, text):
 
 # Tokens that legitimately appear in examples without being lexicon words.
 WHITELIST = {
-    # deliberate error form shown in the pamphlets
-    "reno",
     # foreign-language contrast examples
     "watashi",
 }
@@ -470,7 +468,13 @@ def load_lexicon():
         elif cls == "pronoun":
             if n != 2:
                 charter_violation = "disyllable (core (C)V.V; the -so pair CV.CV)"
-        elif cls in ("complementizer", "vocative", "classifier"):
+        elif cls == "complementizer":
+            if n != 1 or syls[0][:2] not in DIGRAPHS:
+                charter_violation = (
+                    "fricative monosyllable (the breath that opens or closes "
+                    "a frame)"
+                )
+        elif cls in ("vocative", "classifier"):
             if n != 2 or hiatus2:
                 charter_violation = "plain disyllable (the frame shape)"
         elif cls == "conjunction":
@@ -984,7 +988,7 @@ def preposition_misplacements(raw_line, prepositions, slot1_rank):
     that every preposition precedes its object and never moves, so a
     preposition followed by a Slot 1 particle, or standing last in its
     sentence, cannot be standing before its object. The check runs per
-    sentence; prepositions after 'rena' in the same sentence are exempt,
+    sentence; prepositions after 'wha' in the same sentence are exempt,
     since an oblique relative gaps the object and leaves the preposition
     directly before the verb phrase (canon's oblique-relative ruling).
     Sentences of fewer than two tokens are skipped: a single-token span
@@ -1001,7 +1005,7 @@ def preposition_misplacements(raw_line, prepositions, slot1_rank):
             continue
         rena_seen = False
         for i, tok in enumerate(tokens):
-            if tok == "rena":
+            if tok == "wha":
                 rena_seen = True
                 continue
             if tok not in prepositions or rena_seen:
@@ -1017,7 +1021,7 @@ def purpose_frame_misplacements(tokens):
 
     A purpose frame begins at the front of its local clause, after only
     sentence-level framing words. Matrix material before a complementizer
-    belongs to the outer clause, so an open `mena`, `wela`, or `shola` frame
+    belongs to the outer clause, so an open `tha`, `pha`, or `sha` frame
     establishes a fresh local boundary. Coordinating conjunctions do the same
     for the next coordinate. The freedom construction is distinct: when
     `ralu nai` closes the local clause, `lila V` already precedes the predicate
@@ -1316,7 +1320,7 @@ def conditional_frame_errors(raw_line, pos_by_word):
     `lu` follows only an optional outer `pi` at its local sentence depth. Its
     condition ends at a period, and a complete consequence follows before
     the containing complement frame closes. Tracking complement depth lets
-    a quoted conditional begin after `shola` without treating the quote's
+    a quoted conditional begin after `sha` without treating the quote's
     matrix subject as material before `lu`.
     """
     line = re.sub(r"\[[^\]]*\]", " ", raw_line.lower())

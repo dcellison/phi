@@ -6,7 +6,7 @@ English uses commas at several kinds of clause boundary. Phi has no single claus
 |---|---|
 | realis or irrealis condition | `lu` or `lu he`, followed by a complete sentence and its period |
 | adverbial dependent frame | `pheo`, `phoe`, `whau`, `lao`, `shai`, or `lila` before the dependent clause; its final predicate completes the frame |
-| embedded complement | matched `mena ... meno`, `wela ... welo`, or `shola ... sholo` |
+| embedded complement | matched `tha ... tho`, `pha ... pho`, or `sha ... sho` |
 | coordination | `nela`, `thona`, or `sola` between equal constituents |
 | list | `nela` at every boundary |
 
@@ -39,12 +39,12 @@ In the first sentence, `pheo` opens the earlier event and `theo` completes it be
 ### Complement frames have closers
 
 ```
-mia mena shia to wepu meno sano.
+mia tha shia to wepu tho sano.
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE know.
 (I know that they left.)
 ```
 
-`mena` opens the proposition known, and required `meno` closes it before the outer `sano`. The closer, rather than a pause, tells the listener where the embedded material ends.
+`tha` opens the proposition known, and required `tho` closes it before the outer `sano`. The closer, rather than a pause, tells the listener where the embedded material ends.
 
 ### Conjunctions stand between equals
 
@@ -76,9 +76,9 @@ For each line, locate the dependent frame, complement closer, conjunction, or se
 
 ```
 1. lao pheralu to nai lo peloru thuroa.
-2. mia wela shia to wepu welo phaelo.
+2. mia pha shia to wepu pho phaelo.
 3. mia theo nela thia sheluo.
 4. lu pheralu lepa. lo mia mua womu meilo.
 ```
 
-Answers: 1. `lao` opens the reason, and the dependent predicate `nai` completes it before the main clause begins. 2. `wela` opens the embedded yes-or-no question and `welo` closes it before `phaelo`. 3. `nela` joins two complete clauses after `theo`. 4. `lu` opens the condition, and its period separates it from the consequence.
+Answers: 1. `lao` opens the reason, and the dependent predicate `nai` completes it before the main clause begins. 2. `pha` opens the embedded yes-or-no question and `pho` closes it before `phaelo`. 3. `nela` joins two complete clauses after `theo`. 4. `lu` opens the condition, and its period separates it from the consequence.

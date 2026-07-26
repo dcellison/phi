@@ -20,7 +20,7 @@ Each line has either an English mark inside Phi, a capital, or a missing lexical
 7. `kona lopia, kia.`
 8. `Ne siora shua.`
 9. `su theula towe nai!`
-10. `mia mena shia shua sano.`
+10. `mia tha shia shua sano.`
 
 ## Part C: Translate the construction
 
@@ -50,7 +50,7 @@ Say what each English habit becomes in Phi.
 
 ## Part F: Test spoken recovery
 
-Compose a grammatical message with a direct `wa` question inside `shola ... sholo` and a name marked with `ne`. Add direct address with `kona`, a `su` wish, one interjection, and one discourse marker. With a partner, or after leaving your own recording long enough for the wording to fade, transcribe the message from speech. Compare the lexical forms and the periods as separate results, then try the far room.
+Compose a grammatical message with a direct `wa` question inside `sha ... sho` and a name marked with `ne`. Add direct address with `kona`, a `su` wish, one interjection, and one discourse marker. With a partner, or after leaving your own recording long enough for the wording to fade, transcribe the message from speech. Compare the lexical forms and the periods as separate results, then try the far room.
 
 ---
 
@@ -60,7 +60,7 @@ Compose a grammatical message with a direct `wa` question inside `shola ... shol
 
 1. `wa thia shua.` `wa` asks about the whole proposition.
 2. `kona melu. no meilo.` The vocative is extra-clausal, and `no` marks the directive.
-3. `wheo shola muila theula howela sholo to haolu.` The quote is exact Phi wording, and past `to` belongs to the final `haolu`.
+3. `wheo sha muila theula howela sho to haolu.` The quote is exact Phi wording, and past `to` belongs to the final `haolu`.
 4. `lu pheralu lepa. lo mia mua womu meilo.` The `lu` condition is a complete sentence before its consequence.
 5. `shiro nela peloru nela whelina.` `nela` appears at every list boundary.
 
@@ -70,11 +70,11 @@ Compose a grammatical message with a direct `wa` question inside `shola ... shol
 7. `kona lopia. kia.` The vocative is its own utterance, not a comma phrase inside the following one.
 8. `ne siora shua.` Phi sentence starts and Phi-form names stay lowercase.
 9. `su theula towe nai.` The optative marks the wish; Phi has no exclamation mark.
-10. `mia mena shia shua meno sano.` Required `meno` closes the embedded proposition before `sano`.
+10. `mia tha shia shua tho sano.` Required `tho` closes the embedded proposition before `sano`.
 
 ### Part C
 
-11. `ne sulae shola wa phitura phialu sulae nai sholo to thilou.` Outside the quote, `ne` makes the first `sulae` a name. Inside it, bare `sulae` is the predicate warm. `thilou` names the act of inquiry.
+11. `ne sulae sha wa phitura phialu sulae nai sho to thilou.` Outside the quote, `ne` makes the first `sulae` a name. Inside it, bare `sulae` is the predicate warm. `thilou` names the act of inquiry.
 12. `kona lopia. thia hina nila.` `kona` addresses the child, while `hina` occupies the object position that the answer will fill.
 13. `shai pheralu to nai lo peloru thuroa.` `shai` opens the concession, and its past predicate `to nai` completes before the main clause begins.
 

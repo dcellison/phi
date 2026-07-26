@@ -4,15 +4,15 @@
 
 | Type | Opener | Closer | Gloss | Function |
 |------|--------|--------|-------|----------|
-| Declarative | `mena` | `meno` | DECL.COMP / DECL.COMP.CLOSE | Embeds statements (that...) |
-| Interrogative | `wela` | `welo` | INT.COMP / INT.COMP.CLOSE | Embeds questions (whether...) |
-| Quotative | `shola` | `sholo` | QUOT.COMP / QUOT.COMP.CLOSE | Preserves exact words ("...") |
+| Declarative | `tha` | `tho` | DECL.COMP / DECL.COMP.CLOSE | Embeds statements (that...) |
+| Interrogative | `pha` | `pho` | INT.COMP / INT.COMP.CLOSE | Embeds questions (whether...) |
+| Quotative | `sha` | `sho` | QUOT.COMP / QUOT.COMP.CLOSE | Preserves exact words ("...") |
 
 ## The relativizer
 
 | Word | Gloss | Function | Closer |
 |------|-------|----------|--------|
-| `rena` | REL | Introduces relative clauses | None (noun closes it) |
+| `wha` | REL | Introduces relative clauses | None (noun closes it) |
 
 ## The vocative
 
@@ -27,11 +27,11 @@
 ### Declarative embedding
 
 ```
-[Subject] mena [Embedded statement] meno [Main verb]
+[Subject] tha [Embedded statement] tho [Main verb]
 ```
 
 ```
-mia mena shia to wepu meno shelomu
+mia tha shia to wepu tho shelomu
 1SG DECL.COMP 3SG PST go DECL.COMP.CLOSE understand
 (I understand that they left.)
 ```
@@ -39,11 +39,11 @@ mia mena shia to wepu meno shelomu
 ### Interrogative embedding
 
 ```
-[Subject] wela [Embedded question] welo [Main verb]
+[Subject] pha [Embedded question] pho [Main verb]
 ```
 
 ```
-mia wela shia to wepu welo phaelo
+mia pha shia to wepu pho phaelo
 1SG INT.COMP 3SG PST go INT.COMP.CLOSE feel
 (I wonder whether they left.)
 ```
@@ -51,11 +51,11 @@ mia wela shia to wepu welo phaelo
 ### Quotative embedding
 
 ```
-[Subject] shola [Quoted material] sholo [Verb of speaking or receiving speech]
+[Subject] sha [Quoted material] sho [Verb of speaking or receiving speech]
 ```
 
 ```
-shia shola mia wepu sholo to haolu
+shia sha mia wepu sho to haolu
 3SG QUOT.COMP 1SG go QUOT.COMP.CLOSE PST speak
 (They said: "I am leaving.")
 ```
@@ -63,11 +63,11 @@ shia shola mia wepu sholo to haolu
 ### Relative clause
 
 ```
-[rena CLAUSE] NOUN
+[wha CLAUSE] NOUN
 ```
 
 ```
-rena nophi kealo miona
+wha nophi kealo miona
 REL story create person
 (the person who creates stories)
 ```
@@ -76,24 +76,24 @@ REL story create person
 
 ## Key distinctions
 
-### `mena`/`meno` vs. `shola`/`sholo`
+### `tha`/`tho` vs. `sha`/`sho`
 
-| Feature | `mena`/`meno` (Declarative) | `shola`/`sholo` (Quotative) |
+| Feature | `tha`/`tho` (Declarative) | `sha`/`sho` (Quotative) |
 |---------|-----------------------------|-----------------------------|
 | What it does | Reports content/meaning | Preserves exact words |
 | Pronoun behavior | Shifts to reporter's perspective | Stays as originally spoken |
 | Use when | Paraphrasing, summarizing | Exact wording matters |
 
 **Example contrast:**
-- `shia mena shia wepu meno to haolu` = They said that they were leaving.
-- `shia shola mia wepu sholo to haolu` = They said: "I am leaving."
+- `shia tha shia wepu tho to haolu` = They said that they were leaving.
+- `shia sha mia wepu sho to haolu` = They said: "I am leaving."
 
-### `wela`/`welo` vs. `wa` vs. `lu`
+### `pha`/`pho` vs. `wa` vs. `lu`
 
 | Word | Function | Example |
 |------|----------|---------|
 | `wa` | Direct question (expects answer) | `wa thia wepu` = Are you leaving? |
-| `wela`/`welo` | Embedded question (content of wondering) | `mia wela thia wepu welo phaelo` = I wonder whether you're leaving. |
+| `pha`/`pho` | Embedded question (content of wondering) | `mia pha thia wepu pho phaelo` = I wonder whether you're leaving. |
 | `lu` | Conditional (if-then) | `lu thia wepu. mia so ma towe phaelo` = If you leave, I won't feel well. |
 
 ---
@@ -101,20 +101,20 @@ REL story create person
 ## Nesting rules
 
 1. **Each opener requires its own closer**
-   - Every `mena` needs one `meno`
-   - Every `wela` needs one `welo`
-   - Every `shola` needs one `sholo`
+   - Every `tha` needs one `tho`
+   - Every `pha` needs one `pho`
+   - Every `sha` needs one `sho`
 
 2. **Closers match in reverse order**
    - Last opened = first closed
    - Like parentheses: `( [ ] )` not `( [ ) ]`
 
 3. **Types close their own type**
-   - `mena` closes with `meno` (not `welo` or `sholo`)
+   - `tha` closes with `tho` (not `pho` or `sho`)
 
 **Nested example:**
 ```
-mia mena thia wela shia wepu welo phaelo meno shelomu
+mia tha thia pha shia wepu pho phaelo tho shelomu
     └─────────────────────────────────────────┘
               └───────────────────┘
 ```
@@ -123,7 +123,7 @@ mia mena thia wela shia wepu welo phaelo meno shelomu
 
 ## Common verbs with complementizers
 
-### With `mena`/`meno` (statements)
+### With `tha`/`tho` (statements)
 
 | Verb | Meaning | Example translation |
 |------|---------|---------------------|
@@ -136,7 +136,7 @@ mia mena thia wela shia wepu welo phaelo meno shelomu
 | `hea` | hear | I hear that... |
 | `haolu` | speak | They said that... |
 
-### With `wela`/`welo` (questions)
+### With `pha`/`pho` (questions)
 
 | Verb | Meaning | Example translation |
 |------|---------|---------------------|
@@ -145,7 +145,7 @@ mia mena thia wela shia wepu welo phaelo meno shelomu
 | `sano` | know | I know whether... |
 | `ma sano` | not know | I don't know whether... |
 
-### With `shola`/`sholo` (quotations)
+### With `sha`/`sho` (quotations)
 
 | Verb | Meaning | Example translation |
 |------|---------|---------------------|
@@ -169,10 +169,10 @@ Phi uses a consistent vowel pattern:
 
 Before finalizing an embedded clause:
 
-- [ ] Opener present (`mena`, `wela`, `shola`, or `rena`)
-- [ ] Closer present if required (`meno`, `welo`, `sholo`)
+- [ ] Opener present (`tha`, `pha`, `sha`, or `wha`)
+- [ ] Closer present if required (`tho`, `pho`, `sho`)
 - [ ] Closer positioned correctly (after embedded verb, before main verb)
-- [ ] No closer after `rena` (noun closes it)
+- [ ] No closer after `wha` (noun closes it)
 - [ ] Embedded clause has complete structure (subject, verb)
 - [ ] Nesting order correct (closers match openers in reverse)
 - [ ] Correct complementizer type for meaning
@@ -183,13 +183,13 @@ Before finalizing an embedded clause:
 
 | Word | IPA | A way to hear it |
 |------|-----|------------------|
-| `mena` | /ˈme̞.n̪ä/ | closed lips opening onto a held thought |
-| `meno` | /ˈme̞.n̪o̞/ | the same word rounding shut |
-| `wela` | /ˈwe̞.lä/ | a glide reaching outward |
-| `welo` | /ˈwe̞.lo̞/ | the reach closing around its question |
-| `shola` | /ˈʃo̞.lä/ | breath shaped like hushed speech |
-| `sholo` | /ˈʃo̞.lo̞/ | the borrowed words handed back |
-| `rena` | /ˈre̞.n̪ä/ | a tapped r rolling toward its noun |
+| `tha` | /ˈθä/ | teeth and breath, then a wide open jaw |
+| `tho` | /ˈθo̞/ | the same breath, rounded shut |
+| `pha` | /ˈɸä/ | air between the lips, deciding nothing |
+| `pho` | /ˈɸo̞/ | the lips closing back toward where they began |
+| `sha` | /ˈʃä/ | a hiss like speech through a wall |
+| `sho` | /ˈʃo̞/ | the borrowed words handed back |
+| `wha` | /ˈʍä/ | breath, then a door left open |
 
 The right column is a mnemonic, one speaker's way of hearing the family. The sounds carry no hidden meanings; the vowel alternation alone is systematic.
 
@@ -197,11 +197,11 @@ The right column is a mnemonic, one speaker's way of hearing the family. The sou
 
 ## Glossary
 
-**Closer**: The second element of a complementizer pair that marks where embedded content ends. (`meno`, `welo`, `sholo`)
+**Closer**: The second element of a complementizer pair that marks where embedded content ends. (`tho`, `pho`, `sho`)
 
 **Complementizer**: A function word that introduces a subordinate clause, marking its type and relationship to the main clause.
 
-**Content reporting**: Conveying the meaning of what someone said, with pronouns shifted to the reporter's perspective. Uses `mena`/`meno`.
+**Content reporting**: Conveying the meaning of what someone said, with pronouns shifted to the reporter's perspective. Uses `tha`/`tho`.
 
 **Declarative**: A statement; a clause that asserts something is true or false.
 
@@ -213,13 +213,13 @@ The right column is a mnemonic, one speaker's way of hearing the family. The sou
 
 **Nesting**: Placing one embedded clause inside another.
 
-**Opener**: The first element of a complementizer pair that marks where embedded content begins. (`mena`, `wela`, `shola`)
+**Opener**: The first element of a complementizer pair that marks where embedded content begins. (`tha`, `pha`, `sha`)
 
-**Quotative**: Exact quotation; preserving someone's words verbatim. Uses `shola`/`sholo`.
+**Quotative**: Exact quotation; preserving someone's words verbatim. Uses `sha`/`sho`.
 
 **Relative clause**: A clause that modifies a noun, describing it by what it does or experiences.
 
-**Relativizer**: The word that introduces a relative clause. (`rena`)
+**Relativizer**: The word that introduces a relative clause. (`wha`)
 
 **SOV**: Subject-Object-Verb word order, where the verb comes at the end of the clause.
 
@@ -228,7 +228,7 @@ The right column is a mnemonic, one speaker's way of hearing the family. The sou
 ## Further study
 
 - Manual Part V, chapter 19 defines the complement frames and content-question embedding.
-- Manual chapter 20 and the relative clauses pamphlet give `rena` its full treatment.
+- Manual chapter 20 and the relative clauses pamphlet give `wha` its full treatment.
 - Manual chapter 13 covers the pronouns and topic-drop used throughout these examples.
 - `documents/grammar/complementizer_reference.md` is the compact technical reference.
 - `python3 scripts/validate_examples.py --paths pamphlets/complementizers --show-warnings` checks every example in this pamphlet against the lexicon and the frame rules.

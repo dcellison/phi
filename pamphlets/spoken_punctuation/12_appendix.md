@@ -6,8 +6,8 @@
 |---|---|---|
 | `?` after a direct yes-or-no question | `wa` | Slot 0 before the complete proposition |
 | `?` after a content question | `sua`, `hina`, `weno`, `kua`, `misa`, `thela`, or `wia` | the position where the answer would stand |
-| "whether" or "if" inside a statement | `wela ... welo` | embedded yes-or-no question before the matrix predicate |
-| quotation marks | `shola ... sholo` | exact grammatical Phi wording before a speaking, inquiry, or hearing predicate |
+| "whether" or "if" inside a statement | `pha ... pho` | embedded yes-or-no question before the matrix predicate |
+| quotation marks | `sha ... sho` | exact grammatical Phi wording before a speaking, inquiry, or hearing predicate |
 | a comma of address | `kona` | extra-clausal vocative with its own period |
 | capitalization of a name | `ne` | proper designation in neutral, formal, portable, and validated Phi |
 | a comma after an if-clause | `lu` or `lu he`, then a period | complete condition before its consequence |
@@ -16,14 +16,14 @@
 | list commas | `nela` | conjunction at every list boundary |
 | an exclamation mark | no general equivalent | lexical meaning and delivery stay separate; use `ru`, `su`, or an interjection only when its own meaning fits |
 | quotation marks around a title | `ne` | a work's proper designation, announced like any other name |
-| scare quotes around a word | `shola ... sholo` with attribution, or `ti` | distance said aloud and owned, never floated on typography |
+| scare quotes around a word | `sha ... sho` with attribution, or `ti` | distance said aloud and owned, never floated on typography |
 | a colon before an explanation | no word needed | the sentence's own order already makes the promise |
 | a semicolon | `.` or `nela`, `thona`, `sola` | a full boundary or an audible join; no silent half-strength exists |
 | parentheses around an example or detail | `phisu` or `shekoi` opening its own sentence | the aside said at full voice with its relation named |
 | a dash of interruption or rewording | `shorela` opening the second try | the sentence changes its mind aloud |
 | an ellipsis of hesitation | `nuo` | the audible um, a complete utterance holding the floor |
 | an ellipsis or dash used for a pause | no mark | pauses may shape delivery but not grammar |
-| an ellipsis of omission inside a quotation | `mena ... meno` instead | a shortened quotation breaks the exactness claim; report the content |
+| an ellipsis of omission inside a quotation | `tha ... tho` instead | a shortened quotation breaks the exactness claim; report the content |
 | a period | `.` | sentence-end, the one visible Phi punctuation mark |
 | arbitrary source punctuation | the source medium | outside the Phi passage and outside Phi syntax |
 
@@ -47,8 +47,8 @@ Each is a complete utterance with its own period, and each keeps its lexical mea
 ## Working rules
 
 - "Spoken punctuation" is a teaching analogy. `wa`, `kona`, `ne`, and the complementizers remain grammatical words with exact distributions.
-- `wa` asks a direct yes-or-no question. A content question uses its gap-word, and an embedded yes-or-no question uses `wela ... welo`.
-- `shola ... sholo` claims exact Phi wording. Source wording in another language stays outside the Phi passage.
+- `wa` asks a direct yes-or-no question. A content question uses its gap-word, and an embedded yes-or-no question uses `pha ... pho`.
+- `sha ... sho` claims exact Phi wording. Source wording in another language stays outside the Phi passage.
 - A `kona` phrase is extra-clausal. A proper name within it keeps `ne` in neutral or portable Phi.
 - Clause families do not share one generic boundary marker.
 - `ru` marks degree, `su` marks an optative, and each interjection keeps its lexical meaning. None is an exclamation particle.

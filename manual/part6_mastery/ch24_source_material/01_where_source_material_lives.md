@@ -10,7 +10,7 @@ This boundary keeps every Phi writing mode equivalent. A passage written in Teng
 | A proper name used within Phi | Use `ne` plus a listed content word or a bearer-approved Phi-form onym of two, three, or four syllables. |
 | An exact source artifact | Present it separately and let the surrounding medium preserve its form. |
 | A translation or analysis | Give the source separately, then write an ordinary Phi account whose scope is clear. |
-| Verbatim Phi speech | Use `shola ... sholo`; its contents remain grammatical Phi. |
+| Verbatim Phi speech | Use `sha ... sho`; its contents remain grammatical Phi. |
 
 Source record outside Phi: `12 V`
 

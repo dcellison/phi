@@ -61,7 +61,7 @@ The conclusion is intentionally defeasible. The premises omit safety, energy use
 ## 3. Rain and the river
 
 ```
-A: mia mena pheralu to lepa meno ti sano.
+A: mia tha pheralu to lepa tho ti sano.
 1SG DECL.COMP rain PST fall DECL.COMP.CLOSE REP know.
 (I know by report that rain fell.)
 
@@ -69,7 +69,7 @@ B: mia luphore hi nila. luphore hiso ma nai.
 1SG river DIR see. river clean NEG be.
 (I see the river directly. The river is not clean.)
 
-A: mia mena pheralu luphore peloma ka kelu meno ke nohero.
+A: mia tha pheralu luphore peloma ka kelu tho ke nohero.
 1SG DECL.COMP rain river harmful CAUS become DECL.COMP.CLOSE INFER believe.
 (I infer that the rain made the river harmful.)
 
@@ -545,11 +545,11 @@ A: lo mia thia lo phelui to howela. lo mia ha reo shelomu.
 PL 1SG 2SG PL word PST receive. PL 1SG PROX meaning understand.
 (We received your words. We understand this meaning.)
 
-B: mia mena lo mia wei thepalu phina phialu so loa meno ma nawo. whekai mia mua lona pawela.
+B: mia tha lo mia wei thepalu phina phialu so loa tho ma nawo. whekai mia mua lona pawela.
 1SG DECL.COMP PL 1SG DAT garden FEW water FUT give DECL.COMP.CLOSE NEG agree. CONTR 1SG LOC meeting participate.
 (I do not agree that we will give a little water to the garden. However, I participate in the meeting.)
 
-A: lo mia mena thia ma nawo meno thekao. lo mia ha thimu ma kanu. lo mia so hasi.
+A: lo mia tha thia ma nawo tho thekao. lo mia ha thimu ma kanu. lo mia so hasi.
 PL 1SG DECL.COMP 2SG NEG agree DECL.COMP.CLOSE acknowledge. PL 1SG PROX time NEG choose. PL 1SG FUT wait.
 (We acknowledge that you do not agree. We do not choose now. We will wait.)
 
@@ -652,7 +652,7 @@ B: lo mia phea thinoe ta napuro phanoi so phelu.
 PL 1SG AS seed one grain portion FUT hold.
 (We will hold one portion of grain as seed.)
 
-C: mia mena ha kanu thua nai meno ma nohero.
+C: mia tha ha kanu thua nai tho ma nohero.
 1SG DECL.COMP PROX choose fair be DECL.COMP.CLOSE NEG believe.
 (I do not believe that this choice is fair.)
 
@@ -700,11 +700,11 @@ B: mia sila to ma shane. mia to kanelu.
 1SG community PST NEG tell. 1SG PST err.
 (I did not tell the community. I erred.)
 
-C: mia mena mia ha keli so thiranu meno to seru.
+C: mia tha mia ha keli so thiranu tho to seru.
 1SG DECL.COMP 1SG PROX device FUT maintain DECL.COMP.CLOSE PST commit.
 (I committed that I would maintain this device.)
 
-C: whekai mia mena siru pukea po shelo meno to ma sano.
+C: whekai mia tha siru pukea po shelo tho to ma sano.
 CONTR 1SG DECL.COMP marker danger POT signify DECL.COMP.CLOSE PST NEG know.
 (However, I did not know that the marker might signify danger.)
 
@@ -768,7 +768,7 @@ A: lo mia lo seru so thekiro.
 PL 1SG PL commit FUT write.
 (We will write the commitments.)
 
-A: lo mia mena lo mia shiroka riola so phowe meno nawo.
+A: lo mia tha lo mia shiroka riola so phowe tho nawo.
 PL 1SG DECL.COMP PL 1SG repair labor FUT share DECL.COMP.CLOSE agree.
 (We agree that we will share the repair labor.)
 
@@ -780,7 +780,7 @@ A: lo mia ma sano. pheo ha keli se shiroka lo mia mua kowela ha teru so shareo.
 PL 1SG NEG know. POST PROX device PASS repair PL 1SG LOC council PROX process FUT discuss.
 (We do not know. After this device is repaired, we will discuss this process in the council.)
 
-C: lo mia wela theula miona thonai nai welo ma sano.
+C: lo mia pha theula miona thonai nai pho ma sano.
 PL 1SG INT.COMP UNIV person responsible be INT.COMP.CLOSE NEG know.
 (We do not know whether every person is responsible.)
 ```
@@ -860,11 +860,11 @@ C: lo shalu mua luphore to lumeo.
 PL fish LOC river PST die.
 (Fish died in the river.)
 
-A: mia mena mue keritha tinoa muo phuliro to selu meno hi sano.
+A: mia tha mue keritha tinoa muo phuliro to selu tho hi sano.
 1SG DECL.COMP OUT.OF workshop dye INTO stream PST flow DECL.COMP.CLOSE DIR know.
 (I know directly that dye flowed out of the workshop into the stream.)
 
-A: mia mena keritha tinoa lo shalu to ka lumeo meno ke nohero.
+A: mia tha keritha tinoa lo shalu to ka lumeo tho ke nohero.
 1SG DECL.COMP workshop dye PL fish PST CAUS die DECL.COMP.CLOSE INFER believe.
 (I infer that the workshop dye caused the fish to die.)
 
@@ -1016,11 +1016,11 @@ B: lo mia lila mue koshira theula ha wolea kolua ralu nai.
 PL 1SG PURP OUT.OF grove UNIV PROX wood carry free be.
 (We need not carry all this wood out of the grove.)
 
-C: lo mia rena nia ruela nai li wolea na kolua.
+C: lo mia wha nia ruela nai li wolea na kolua.
 PL 1SG REL ON path be RESTR wood NEC carry.
 (We must carry only the wood that is on the path.)
 
-C: lo mia mue ruela rena nia ruela nai wolea so kolua.
+C: lo mia mue ruela wha nia ruela nai wolea so kolua.
 PL 1SG OUT.OF path REL ON path be wood FUT carry.
 (We will carry the wood that is on the path off the path.)
 
@@ -1080,11 +1080,11 @@ A: laenu keritha rolu to pukate.
 commons workshop wheel PST break.
 (The commons workshop's wheel broke.)
 
-A: rena phialu kolua keli ha rolu phelona.
+A: wha phialu kolua keli ha rolu phelona.
 REL water carry device PROX wheel require.
 (The device that carries water requires this wheel.)
 
-C: mia mena mia pheo ta philo ha rolu so shiroka meno to seru.
+C: mia tha mia pheo ta philo ha rolu so shiroka tho to seru.
 1SG DECL.COMP 1SG POST one day PROX wheel FUT repair DECL.COMP.CLOSE PST commit.
 (I committed that I would repair this wheel in one day.)
 
@@ -1132,7 +1132,7 @@ A: thia misa to seru.
 2SG why PST commit.
 (Why did you commit?)
 
-C: lao sila rena phialu kolua keli phelona mia to seru.
+C: lao sila wha phialu kolua keli phelona mia to seru.
 BECAUSE community REL water carry device require 1SG PST commit.
 (Because the community needs the water-carrying device, I committed.)
 
@@ -1180,7 +1180,7 @@ C: lu rolu shurano ma nai. lo mia keli so ma roke.
 COND wheel safe NEG be. PL 1SG device FUT NEG move.
 (If the wheel is not safe, we will not move the device.)
 
-B: sua mena rolu shurano nai meno so sano.
+B: sua tha rolu shurano nai tho so sano.
 who DECL.COMP wheel safe be DECL.COMP.CLOSE FUT know.
 (Who will know that the wheel is safe?)
 
@@ -1192,7 +1192,7 @@ C: lo mia ha phelui reo so shareo.
 PL 1SG PROX word meaning FUT discuss.
 (We will discuss the meaning of this source term.)
 
-B: mia ha kanu kelomi. whekai mia mena ha rolu shurano nai meno ma sano.
+B: mia ha kanu kelomi. whekai mia tha ha rolu shurano nai tho ma sano.
 1SG PROX choose accept. CONTR 1SG DECL.COMP PROX wheel safe be DECL.COMP.CLOSE NEG know.
 (I accept this choice. However, I do not know that this wheel is safe.)
 ```

@@ -181,7 +181,7 @@ class VocabularySchemaTests(unittest.TestCase):
         )
         self.assertEqual(
             validate_examples.purpose_frame_misplacements(
-                "mia mena lila shia shonela shia theo meno remo".split()
+                "mia tha lila shia shonela shia theo tho remo".split()
             ),
             [],
         )
@@ -198,12 +198,12 @@ class VocabularySchemaTests(unittest.TestCase):
         )
         self.assertTrue(
             validate_examples.purpose_frame_misplacements(
-                "mia mena shia theo lila shia shonela meno remo".split()
+                "mia tha shia theo lila shia shonela tho remo".split()
             )
         )
         self.assertTrue(
             validate_examples.purpose_frame_misplacements(
-                "mia mena shia theo nela shia haolu meno lila mia shonela mia remo".split()
+                "mia tha shia theo nela shia haolu tho lila mia shonela mia remo".split()
             )
         )
         self.assertEqual(
@@ -317,7 +317,7 @@ class VocabularySchemaTests(unittest.TestCase):
         self.assertEqual(
             validate_examples.structured_example_errors(
                 "test", 0,
-                "mia shola mia thia lothea. thia towe nai sholo to shemui.",
+                "mia sha mia thia lothea. thia towe nai sho to shemui.",
                 lexicon_words, content_words, prepositions, ranks, pos_by_word
             ),
             [],
@@ -339,7 +339,7 @@ class VocabularySchemaTests(unittest.TestCase):
         self.assertEqual(
             validate_examples.structured_example_errors(
                 "test", 0,
-                "mia shola lu thia naphe. mia towe phaelo sholo to haolu.",
+                "mia sha lu thia naphe. mia towe phaelo sho to haolu.",
                 lexicon_words, content_words, prepositions, ranks, pos_by_word
             ),
             [],
@@ -383,17 +383,17 @@ class VocabularySchemaTests(unittest.TestCase):
         )
         self.assertTrue(any("sentence ends in 'keru'" in error for error in errors))
         errors = validate_examples.structured_example_errors(
-            "test", 0, "shola mia thia lothea sholo.", lexicon_words,
+            "test", 0, "sha mia thia lothea sho.", lexicon_words,
             content_words, prepositions, ranks, pos_by_word
         )
         self.assertTrue(any("no following matrix predicate" in error for error in errors))
         errors = validate_examples.structured_example_errors(
-            "test", 0, "mia mena shia wepu sano.", lexicon_words,
+            "test", 0, "mia tha shia wepu sano.", lexicon_words,
             content_words, prepositions, ranks, pos_by_word
         )
-        self.assertTrue(any("has no matching 'meno'" in error for error in errors))
+        self.assertTrue(any("has no matching 'tho'" in error for error in errors))
         errors = validate_examples.structured_example_errors(
-            "test", 0, "mia shia wepu meno sano.", lexicon_words,
+            "test", 0, "mia shia wepu tho sano.", lexicon_words,
             content_words, prepositions, ranks, pos_by_word
         )
         self.assertTrue(any("has no matching opener" in error for error in errors))

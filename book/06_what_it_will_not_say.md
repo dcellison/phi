@@ -36,7 +36,7 @@ Testimony uses the same arrangement. A witness's words can be preserved in their
 
 The arrangement keeps Phi's writing systems honest. A passage in Tengwar contains Phi that Tengwar can render. A source name in another script sits beside it in that script, rather than appearing as an opaque Latin interruption between two Tengwar boundary words. Romanization gets no privilege to define what the language can carry.
 
-`shola ... sholo` does not provide a hidden route around the rule. The pair quotes grammatical Phi as Phi. It can report `ha keli shurano nai`, this device is safe, because every token in the quotation belongs to the language. Exact legal or laboratory material stays outside, as does a statement in another language. Quotation marks do not naturalize their contents, and neither do Phi's spoken quotation words.
+`sha ... sho` does not provide a hidden route around the rule. The pair quotes grammatical Phi as Phi. It can report `ha keli shurano nai`, this device is safe, because every token in the quotation belongs to the language. Exact legal or laboratory material stays outside, as does a statement in another language. Quotation marks do not naturalize their contents, and neither do Phi's spoken quotation words.
 
 ## Distance without disguise
 

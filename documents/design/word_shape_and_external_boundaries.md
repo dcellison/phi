@@ -56,7 +56,7 @@ The external-register validator path is retired, including guest payload validat
 
 The manual, quick reference, module documents, examples, and development protocol no longer instruct speakers to use guest or exact frames, and the name-form documentation no longer presents those frames as the fallback for long, multi-token, or source-exact names.
 
-`shola ... sholo` remains conceptually separate: it quotes Phi speech as Phi speech and is not an external-material container.
+`sha ... sho` remains conceptually separate: it quotes Phi speech as Phi speech and is not an external-material container.
 
 The coinage workflow keeps a word-shape gate: every lexicon proposal must fit the one-, two-, or three-syllable system, with three syllables as the absolute maximum for content vocabulary. The completed migration ledger records replacements but creates no exception to this gate.
 

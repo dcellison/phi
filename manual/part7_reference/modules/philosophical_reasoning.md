@@ -57,7 +57,7 @@ Verbs used in this chapter receive their event or result nouns through Phi's ord
 `sherewa` is the act of putting a proposition forward, whether the speaker believes it fully, holds it provisionally, or states it only to have it examined. `mothare` and `remuma` name the two roles a `themore` gives its claims: premises offered as support, and the conclusion the argument reaches for.
 
 ```
-mia mena ha ruela welao nai meno sherewa.
+mia tha ha ruela welao nai tho sherewa.
 1SG DECL.COMP PROX path good be DECL.COMP.CLOSE claim.
 (I claim that this path is good.)
 ```
@@ -77,7 +77,7 @@ PROX argument valid be.
 An objection names a difficulty and leaves it standing for someone to answer, without pretending the difficulty has already won.
 
 ```
-mia mena ha mothare shewo ma nai meno whakeru.
+mia tha ha mothare shewo ma nai tho whakeru.
 1SG DECL.COMP PROX premise true NEG be DECL.COMP.CLOSE object.
 (I object that this premise is not true.)
 ```
@@ -209,7 +209,7 @@ The paired [Article 1](../../../texts/human_rights_article_one.md) tests both di
 `whamoi` lets a speaker stay genuinely unsettled without denying anything. `norethi` reports the strength of a stance while leaving truth, knowledge, and authority as their own separate questions.
 
 ```
-mia mena ha remuma kithela nai meno whamoi.
+mia tha ha remuma kithela nai tho whamoi.
 1SG DECL.COMP PROX conclusion valid be DECL.COMP.CLOSE doubt.
 (I doubt that this conclusion is valid.)
 ```
@@ -220,7 +220,7 @@ mia norethi nai.
 (I am confident.)
 ```
 
-A principled suspension of judgment stays compositional: `mena ... meno nohero ma kanu` says explicitly that the speaker declines to choose the framed belief. Different uncertainties need not be mistaken for separate lexical states.
+A principled suspension of judgment stays compositional: `tha ... tho nohero ma kanu` says explicitly that the speaker declines to choose the framed belief. Different uncertainties need not be mistaken for separate lexical states.
 
 ## Tradeoffs and compromise
 
@@ -250,7 +250,7 @@ Some useful philosophical expressions remain clearer as combinations because the
 | `kithela themore` | valid argument | Uses the ordinary modifier-first relation. |
 | `noetha kirema` | essential criterion | Names importance without silently claiming logical sufficiency. |
 | `phirae hoshemi` | alternative hypothesis | Uses ordinary difference while preserving the kind of proposal being compared. |
-| `mena ... meno nohero ma kanu` | suspend judgment; decline to choose the framed belief | States exactly what the speaker is withholding. |
+| `tha ... tho nohero ma kanu` | suspend judgment; decline to choose the framed belief | States exactly what the speaker is withholding. |
 
 ## Source philosophical vocabulary
 

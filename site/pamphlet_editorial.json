@@ -119,17 +119,17 @@
       "shape": "h1,2,2,2,2,2,2,2,2,2,2,2;t2x3,3x5;f1,2,3,1,3,3,1,3,3;q-;u-;o3;r0;s1",
       "variant": "stack"
     },
-    "pamphlets/complementizers/03_declarative_mena_meno.md": {
+    "pamphlets/complementizers/03_declarative_tha_tho.md": {
       "section_level": 2,
       "shape": "h1,2,2,2,3,3,3,3,2,3,3,3,3,2,2,3,3,2,3,3,3,3,2,2,3,3,2,2,3,3,3,2,2;t-;f1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u3;o-;r0;s-",
       "variant": "lesson"
     },
-    "pamphlets/complementizers/04_interrogative_wela_welo.md": {
+    "pamphlets/complementizers/04_interrogative_pha_pho.md": {
       "section_level": 2,
       "shape": "h1,2,2,2,3,3,3,3,2,3,3,3,3,3,2,3,3,3,3,2,2,3,3,2,3,3,3,2,2,2,2,3,3,3,2,2;t3x3;f1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u3;o-;r0;s-",
       "variant": "lesson"
     },
-    "pamphlets/complementizers/05_quotative_shola_sholo.md": {
+    "pamphlets/complementizers/05_quotative_sha_sho.md": {
       "section_level": 2,
       "shape": "h1,2,2,2,2,2,3,3,3,3,2,3,3,3,2,3,3,2,2,2,3,3,2,2,2,2,2,3,3,3,3,2;t-;f1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3;q-;u3;o-;r0;s-",
       "variant": "lesson"
@@ -383,7 +383,7 @@
       "shape": "h1,2,2,2,2,2,2;t-;f3,4,4,3;q-;u2,3;o-;r0;s-",
       "variant": "lesson"
     },
-    "pamphlets/relative_clauses/02_mechanics_of_rena.md": {
+    "pamphlets/relative_clauses/02_mechanics_of_wha.md": {
       "section_level": 2,
       "shape": "h1,2,3,3,2,3,3,3,2,3,3,3,2,3,3,3,3,3,3;t-;f1,1,1,3,3,3,3,3,3,3,3,3,3,1,1,1;q-;u3,6,3;o4;r0;s1",
       "variant": "lesson"

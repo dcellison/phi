@@ -1,28 +1,28 @@
-# 19 · mena
+# 19 · tha
 
-*Part IV teaches Phi to speak about speaking. The first tool is the pair* **mena … meno**: *put a whole sentence between them and it becomes a thing: something known, said, or felt. The opener announces that a thought is coming; the closer marks where it ends, so the main verb can arrive without colliding with the embedded one. Spoken parentheses. A message arrives:*
+*Part IV teaches Phi to speak about speaking. The first tool is the pair* **tha … tho**: *put a whole sentence between them and it becomes a thing: something known, said, or felt. The opener announces that a thought is coming; the closer marks where it ends, so the main verb can arrive without colliding with the embedded one. Spoken parentheses. A message arrives:*
 
 ## I
 
 > **ne siora kau womu shua.**
 > **siora milaro kolua.**
 > **siora shane.**
-> **siora mena ne sulae so shua meno shane.**
+> **siora tha ne sulae so shua tho shane.**
 
 | new word | say it | it means |
 |---|---|---|
-| mena | me · na | (opens an embedded statement) |
-| meno | me · no | (closes it) |
+| tha | tha | (opens an embedded statement) |
+| tho | tho | (closes it) |
 | milaro | mi · la · ro | message |
 | shane | sha · ne | tell |
 
-*siora comes to the house carrying a message and tells it: sulae will come. Read the long sentence once while watching the brackets:* siora … shane *is the frame, and inside it sits* ne sulae so shua, *with its own future particle minding its own verb. The closer* meno *is not decoration; without it, two verbs would stand face to face with no way to tell whose sentence ended.*
+*siora comes to the house carrying a message and tells it: sulae will come. Read the long sentence once while watching the brackets:* siora … shane *is the frame, and inside it sits* ne sulae so shua, *with its own future particle minding its own verb. The closer* tho *is not decoration; without it, two verbs would stand face to face with no way to tell whose sentence ended.*
 
 ## II
 
-> **lopia mena ne sulae so shua meno sano.**
-> **phao mena ne sulae so shua meno we sano.**
-> **lopia mena lo mia sulopa so pilewa meno haolu.**
+> **lopia tha ne sulae so shua tho sano.**
+> **phao tha ne sulae so shua tho we sano.**
+> **lopia tha lo mia sulopa so pilewa tho haolu.**
 
 | new word | say it | it means |
 |---|---|---|
@@ -34,7 +34,7 @@
 
 > **phao sulopa pharelo.**
 > **lopia lo noru kolua.**
-> **wheo mena philo welao nai meno phaelo.**
+> **wheo tha philo welao nai tho phaelo.**
 
 | new word | say it | it means |
 |---|---|---|
@@ -45,8 +45,8 @@
 ## IV
 
 > **ne sulae shua.**
-> sulae: **kia. wa siora mena mia so shua meno to shane.**
-> phao: **lia. siora to shane. lo mia mena thia so shua meno to sano.**
+> sulae: **kia. wa siora tha mia so shua tho to shane.**
+> phao: **lia. siora to shane. lo mia tha thia so shua tho to sano.**
 > sulae: **welao nai.**
 
 *Did siora tell you I would come? They did. We knew you would come: the embedded clause keeps its own future even inside a past telling, because what siora said pointed forward when they said it. Time inside the brackets belongs to the bracketed thought.*

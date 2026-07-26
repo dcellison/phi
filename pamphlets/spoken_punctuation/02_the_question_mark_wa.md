@@ -44,10 +44,10 @@ The gap-word alone marks the question. It never shares its clause with `wa`, bec
 
 ### Questions inside statements
 
-An embedded yes-or-no question uses `wela ... welo`, not `wa`:
+An embedded yes-or-no question uses `pha ... pho`, not `wa`:
 
 ```
-mia wela sileta sulae nai welo phaelo.
+mia pha sileta sulae nai pho phaelo.
 1SG INT.COMP sun warm be INT.COMP.CLOSE feel.
 (I wonder whether the sun is warm.)
 
@@ -80,10 +80,10 @@ Turn each statement into a direct yes-or-no question by adding `wa` in its canon
 3. shia loami kolua.
 ```
 
-Then decide whether each English sentence needs direct `wa`, a gap-word, or embedded `wela ... welo` before you render it.
+Then decide whether each English sentence needs direct `wa`, a gap-word, or embedded `pha ... pho` before you render it.
 
 4. "Is the water warm?"
 5. "Where is the dog?"
 6. "I wonder whether the child is asleep."
 
-Answers: 1 `wa thia shalu nuola.` 2 `wa lo shia kau silawo so thalo.` 3 `wa shia loami kolua.` 4 `wa phialu sulae nai.` 5 `lohau kua nai.` The gap-word sits where the place answer would stand. 6 `mia wela lopia nulae welo phaelo.` The embedded question is bounded by its own pair, and the feeling predicate remains outside it.
+Answers: 1 `wa thia shalu nuola.` 2 `wa lo shia kau silawo so thalo.` 3 `wa shia loami kolua.` 4 `wa phialu sulae nai.` 5 `lohau kua nai.` The gap-word sits where the place answer would stand. 6 `mia pha lopia nulae pho phaelo.` The embedded question is bounded by its own pair, and the feeling predicate remains outside it.

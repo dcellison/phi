@@ -241,13 +241,13 @@
 
 | Word | Gloss |
 |---|---|
-| `mena` | DECL.COMP |
-| `meno` | DECL.COMP.CLOSE |
-| `rena` | REL |
-| `shola` | QUOT.COMP |
-| `sholo` | QUOT.COMP.CLOSE |
-| `wela` | INT.COMP |
-| `welo` | INT.COMP.CLOSE |
+| `pha` | INT.COMP |
+| `pho` | INT.COMP.CLOSE |
+| `sha` | QUOT.COMP |
+| `sho` | QUOT.COMP.CLOSE |
+| `tha` | DECL.COMP |
+| `tho` | DECL.COMP.CLOSE |
+| `wha` | REL |
 
 ## conjunction (9)
 

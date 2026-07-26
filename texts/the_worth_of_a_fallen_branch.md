@@ -87,11 +87,11 @@ mia ha phiwheki kelomi. ha phiwheki mia sherewa ma whekate.
 1SG PROX counterexample accept. PROX counterexample 1SG claim NEG refute.
 (I accept this counterexample. This counterexample does not refute my claim.)
 
-mia sherewa hieru ka kelu. mia mena rolia mua thena nai meno ma sherewa.
+mia sherewa hieru ka kelu. mia tha rolia mua thena nai tho ma sherewa.
 1SG claim narrow CAUS become. 1SG DECL.COMP worth LOC thing be DECL.COMP.CLOSE NEG claim.
 (I make my claim narrow. I do not claim that worth is in the thing.)
 
-mia mena sone rolia ma pilewa meno sherewa.
+mia tha sone rolia ma pilewa tho sherewa.
 1SG DECL.COMP value worth NEG make DECL.COMP.CLOSE claim.
 (I claim that valuing does not make worth.)
 

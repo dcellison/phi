@@ -5,12 +5,12 @@ A man falls asleep in the London of 1890 and wakes in the same house, on the sam
 A young waterman named Dick rows him across the Thames. At the landing-stage, Dick waits, and the narrator knows exactly why he waits, or thinks he does: "as if for the inevitable after-piece that follows the doing of a service to a fellow-citizen." In the Phi transmutation, that expectation arrives with its epistemology attached:
 
 ```
-mia mena shia rena pheo pheloma kamo thena hasi meno to ho remo.
+mia tha shia wha pheo pheloma kamo thena hasi tho to ho remo.
 1SG DECL.COMP 3SG REL POST serve arrive thing wait DECL.COMP.CLOSE PST ASSUM think.
 (For I took it as given that he was waiting for the thing that follows a service.)
 ```
 
-The Phi sentence tells on him before the story does. Everything that modifies or frames a thought announces itself before the thought arrives. `mena` opens the report of the narrator's own thinking and `meno` closes it. `rena` and `thena` hold the relative clause around the thing that follows a service. At the end comes the main verb, think. It carries `to ho`: past tense followed by a particle whose only job is to admit that the knowledge is assumed. By the time the narrator reaches his conclusion, the grammar has already entered a small objection.
+The Phi sentence tells on him before the story does. Everything that modifies or frames a thought announces itself before the thought arrives. `tha` opens the report of the narrator's own thinking and `tho` closes it. `wha` and `thena` hold the relative clause around the thing that follows a service. At the end comes the main verb, think. It carries `to ho`: past tense followed by a particle whose only job is to admit that the knowledge is assumed. By the time the narrator reaches his conclusion, the grammar has already entered a small objection.
 
 Then the hand moves. "So I put my hand into my waistcoat-pocket, and said, 'How much?' though still with the uncomfortable feeling that perhaps I was offering money to a gentleman."
 
@@ -21,7 +21,7 @@ Dick is not making a philosophical point. He genuinely needs to know what quanti
 More than a century after Morris, a small constructed language called Phi began transmuting his novel. Phi has no word for money or price. The same refusal covers paying and wages, as well as buying and selling. The gap is not an oversight waiting for someone to mint a word, despite the tempting metaphor. It is a refusal recorded in the language's design rulings beside its refusals of the counted hour and the measured mile. When the transmutation reached the landing-stage, the narrator's bare question became:
 
 ```
-thelao mia muo wethalu manuwe to sepho. mia shola wia. sholo to haolu.
+thelao mia muo wethalu manuwe to sepho. mia sha wia. sho to haolu.
 CONS 1SG INTO garment hand PST send. 1SG QUOT.COMP how many. QUOT.COMP.CLOSE PST speak.
 (So I put my hand into my garment, and said, "How many?")
 ```
@@ -29,7 +29,7 @@ CONS 1SG INTO garment hand PST send. 1SG QUOT.COMP how many. QUOT.COMP.CLOSE PST
 `wia.` opens a gap for quantity. It can ask how many trees or how much water, and its answer need not be an exact numeral. Here it stands alone. Morris's narrator expects the custom of payment to tell Dick what quantity he means, but Phi has no money or price word waiting offstage to help. The grammar supplies the question; it cannot supply the missing custom. The boatman's reply begins with that absent referent and reaches the tide:
 
 ```
-wia. mia rena thia haolu thena po ma shelomu. wa thia lunisa haolu. lunisa nosa pai rato nai.
+wia. mia wha thia haolu thena po ma shelomu. wa thia lunisa haolu. lunisa nosa pai rato nai.
 how many. 1SG REL 2SG speak thing POT NEG understand. Q 2SG tide speak. tide now NEAR turn be.
 ("How many? I don't quite understand what you are asking about. Do you mean the tide? If so, it is close on the turn now.")
 ```

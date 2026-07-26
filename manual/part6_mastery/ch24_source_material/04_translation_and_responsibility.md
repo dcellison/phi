@@ -15,7 +15,7 @@ PROX device safe be.
 Verbatim Phi speech remains inside the quotative pair because every quoted token is Phi:
 
 ```
-shia shola ha keli shurano nai sholo to haolu.
+shia sha ha keli shurano nai sho to haolu.
 3SG QUOT.COMP PROX device safe be QUOT.COMP.CLOSE PST speak.
 (They said, "This device is safe.")
 ```

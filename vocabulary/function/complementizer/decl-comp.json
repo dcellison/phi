@@ -1,26 +1,25 @@
 {
-  "word": "mena",
+  "word": "tha",
   "gloss": "DECL.COMP",
-  "ipa": "/ˈme̞.n̪ä/",
+  "ipa": "/ˈθä/",
   "syllables": [
-    "me",
-    "na"
+    "tha"
   ],
   "pos": "complementizer",
   "search_terms": [
     "that clause",
     "declarative complement"
   ],
-  "description": "The opener for an embedded declarative clause: content known, believed, reported, or considered by the main predicate. Its required partner 'meno' (DECL.COMP.CLOSE) marks where that content ends. The 'shola ... sholo' frame carries exact Phi words instead; 'mena ... meno' carries their proposition.",
-  "articulatory_notes": "Closed lips release 'm' into mid-front 'e'. The tongue meets the upper teeth for nasal 'n' and opens onto 'a'; stress rests on the first syllable.",
-  "usage_notes": "The frame has the order subject, 'mena', embedded clause, 'meno', main verb. The embedded clause keeps ordinary word order and its own tense. Frames may nest, but each opener requires its own closer.",
+  "description": "The opener for an embedded declarative clause: content known, believed, reported, or considered by the main predicate. Its required partner 'tho' (DECL.COMP.CLOSE) marks where that content ends. The 'sha ... sho' frame carries exact Phi words instead; 'tha ... tho' carries their proposition.",
+  "articulatory_notes": "Set the tongue tip lightly against the upper teeth and let breath pass over it without voice for 'th'. The tip drops away, the jaw opens, and the voice arrives on central 'a'. One syllable, fully stressed, and the mouth ends it wide open.",
+  "usage_notes": "The frame has the order subject, 'tha', embedded clause, 'tho', main verb. The embedded clause keeps ordinary word order and its own tense. Frames may nest, but each opener requires its own closer.",
   "examples": [
     {
-      "phi": "mia mena shia to wepu meno shelomu.",
+      "phi": "mia tha shia to wepu tho shelomu.",
       "translation": "I understand that they left."
     }
   ],
   "pillars": {
-    "peace-linguistics-practices": "The frame reports a proposition as content, while 'shola ... sholo' remains available when another speaker's exact words matter."
+    "peace-linguistics-practices": "The frame reports a proposition as content, while 'sha ... sho' remains available when another speaker's exact words matter."
   }
 }

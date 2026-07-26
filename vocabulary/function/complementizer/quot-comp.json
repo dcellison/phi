@@ -1,10 +1,9 @@
 {
-  "word": "shola",
+  "word": "sha",
   "gloss": "QUOT.COMP",
-  "ipa": "/ˈʃo̞.lä/",
+  "ipa": "/ˈʃä/",
   "syllables": [
-    "sho",
-    "la"
+    "sha"
   ],
   "pos": "complementizer",
   "search_terms": [
@@ -12,12 +11,12 @@
     "quote opener",
     "verbatim Phi speech"
   ],
-  "description": "Direct quotation in Phi begins with 'shola'. Its matching closer, 'sholo' (QUOT.COMP.CLOSE), bounds the exact Phi wording before a verb of speaking or receiving speech. A paraphrased proposition uses 'mena ... meno'; foreign and source-script wording remains outside Phi syntax.",
-  "articulatory_notes": "For 'sh', lift the blade slightly behind the tooth ridge and channel unvoiced breath along the centre; then shape mid-back 'o' with lip rounding. A light contact between the tip and tooth ridge begins 'l'; voice travels at both edges before the mouth opens fully onto central 'a'. Accent 'sho'.",
-  "usage_notes": "Inside the frame, the quoted speaker's pronouns and tense stay as spoken; questions and commands keep their form as well. Matrix tense appears after 'sholo' with the frame verb. When the source spoke another language, a Phi rendering is a translation or report rather than a verbatim quotation.",
+  "description": "Direct quotation in Phi begins with 'sha'. Its matching closer, 'sho' (QUOT.COMP.CLOSE), bounds the exact Phi wording before a verb of speaking or receiving speech. A paraphrased proposition uses 'tha ... tho'; foreign and source-script wording remains outside Phi syntax.",
+  "articulatory_notes": "Lift the blade of the tongue just behind the ridge and groove it so unvoiced air runs along the centre for 'sh'. The blade releases, the jaw falls, and the voice takes over on open 'a'. One stressed syllable; the hiss can be held as long as a speaker wants before the vowel.",
+  "usage_notes": "Inside the frame, the quoted speaker's pronouns and tense stay as spoken; questions and commands keep their form as well. Matrix tense appears after 'sho' with the frame verb. When the source spoke another language, a Phi rendering is a translation or report rather than a verbatim quotation.",
   "examples": [
     {
-      "phi": "mia shola mia thia lothea sholo to shemui.",
+      "phi": "mia sha mia thia lothea sho to shemui.",
       "translation": "I said, \"I love you.\""
     }
   ],

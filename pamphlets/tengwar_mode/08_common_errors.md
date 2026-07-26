@@ -64,7 +64,7 @@ mia phelui shonela.
 
 ### Error 6: A mark Phi's mode never carries
 
-Commas, question marks, quotation marks: English gives each its own silent glyph, and the instinct to reach for a Phi equivalent is natural. Phi does not have one, in any mode. The comma of address is `kona`, the question mark is `wa`, the quotation marks are `shola` and `sholo`: words, spoken aloud, written exactly like any other word. Only sentence-end has no word standing at it, which is why the period is the only silent mark the mode carries at all.
+Commas, question marks, quotation marks: English gives each its own silent glyph, and the instinct to reach for a Phi equivalent is natural. Phi does not have one, in any mode. The comma of address is `kona`, the question mark is `wa`, the quotation marks are `sha` and `sho`: words, spoken aloud, written exactly like any other word. Only sentence-end has no word standing at it, which is why the period is the only silent mark the mode carries at all.
 
 ### The one that is not a mistake in the hand
 

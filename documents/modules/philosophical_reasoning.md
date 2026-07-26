@@ -29,7 +29,7 @@ These existing resources remain available to every Phi speaker and keep their or
 | Meaning and reference | `reo` meaning, `relo` symbol, `shelo` signify, `lilea` clarify, `solae` explain, `thelima` describe, `phelui` word | Support ordinary questions about meaning, expression, and explanation. |
 | Thought and revision | `remo` think, `nohero` believe, `sano` know, `shelomu` understand, `hiru` intuit, `kanelu` err, `helui` change | Preserve distinctions between mental acts and make revision sayable. |
 | Truth and accuracy | `shewo` true, `theloa` truth, `telua` accurate, `phelira` mistaken | Assess correspondence and error independently of argument structure. |
-| Source and modality | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `ma` negation, `mena ... meno` proposition frame | State source, possibility, necessity, negation, and propositional content with ordinary grammar. |
+| Source and modality | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `po` possibility, `na` necessity, `ma` negation, `tha ... tho` proposition frame | State source, possibility, necessity, negation, and propositional content with ordinary grammar. |
 | Cause and purpose | `ka` cause, `lao` because, `porua` purpose, `thueli` intend, `thelao` consequence | Keep causal, purposive, motivational, and discourse relations distinct from justification and entailment. |
 | Dialogue and repair | `phisu` example marker, `whekai` contrast, `shorela` rephrase, `shekoi` specify, `shelao` summarize, `nawo` agree, `naweri` refuse, `thekao` acknowledge | Organize collaborative discussion and repair without importing special philosophical syntax. |
 | Values and agency | `sone` value, `rolia` worth, `noetha` essential, `ralu` free, `kanu` choose, `kelomi` accept, `numike` negotiate, `seru` commit, `thonai` responsible | Support practical deliberation around values, choices, commitments, and responsibility. |
@@ -92,7 +92,7 @@ The pass keeps several expressions compositional because their parts provide a u
 | Sound argument | `kithela themore` plus explicitly true premises | Prevents validity from silently implying factual truth. |
 | Necessary and sufficient conditions | Use the direction of `natheri` between membership and a `kirema` | Makes the two relations visible without adding labels that speakers may reverse. |
 | Alternative hypothesis | `phirae hoshemi` | Keeps the ordinary relation of difference visible while the noun states what kind of proposal differs. |
-| Suspension of judgment | `mena ... meno nohero ma kanu`, decline to choose the framed belief | States what the speaker withholds while leaving inquiry open. |
+| Suspension of judgment | `tha ... tho nohero ma kanu`, decline to choose the framed belief | States what the speaker withholds while leaving inquiry open. |
 | Reason for a claim | `sherewa remotha` | Ordinary modifier-first order exposes the justificatory relation. |
 
 ## Scenario Connections
