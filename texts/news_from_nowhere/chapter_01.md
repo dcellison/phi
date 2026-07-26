@@ -256,13 +256,13 @@ winter beginning night beautiful PST be.
 (The night at winter's beginning was beautiful.)
 morris: "It was a beautiful night of early winter,"
 
-haowu pheo sukaro tholupi tiso nela newai to nai.
-air POST hot room sharp COORD fresh PST be.
-(After the hot room, the air was sharp and fresh.)
+haowu pheo sukaro tholupi pe tiso to nai. thelao ha newai to nai.
+air POST hot room SUFF sharp PST be. CONS PROX fresh PST be.
+(After the hot room, the air was sharp enough. So it was fresh.)
 morris: "the air just sharp enough to be refreshing after the hot room"
 
-howeli lue sileta lumae wea nitho to ki thiku rato.
-wind ABL sun end TOWARD north PST PFV small turn.
+howeli lue sileta lumae wea nitho to ki la rato.
+wind ABL sun end TOWARD north PST PFV ATTEN turn.
 (The wind had turned a little, from the west toward the north.)
 morris: "The wind, which had lately turned a point or two north of west,"
 
@@ -296,9 +296,9 @@ place PST wear down. place beautiful PST NEG be.
 (The place had worn down and was not beautiful.)
 morris: "the shabby London suburb where he was,"
 
-shia rena shia mua whano lokue to po ma halemu.
-3SG REL 3SG LOC stand place PST POT NEG remember.
-(He could scarcely call to mind the place he stood in.)
+shia rena shia mua whano lokue to po ma ru halemu.
+3SG REL 3SG LOC stand place PST POT NEG INTS remember.
+(He could hardly call to mind the place he stood in.)
 morris: "he could scarce bring to his mind"
 
 shia mena shia mua loshi pelowa muila nai meno to phaelo.
