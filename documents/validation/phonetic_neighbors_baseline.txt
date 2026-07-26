@@ -7,8 +7,8 @@
 0.47	1	so	FUT	function	su	OPT	function	433
 0.47	1	wi	two	content	we	ALSO	function	293
 0.47	1	sholu	complete	content	sholo	QUOT.COMP.CLOSE	function	286
-0.47	1	ro	HAB	function	ru	INTS	function	277
 0.47	1	ke	INFER	function	ki	PFV	function	274
+0.47	1	ro	HAB	function	ru	INTS	function	271
 0.47	1	si	IPFV	function	se	PASS	function	260
 0.47	1	mu	zero	content	mo	CMPR	function	231
 0.47	1	no	IMP	function	nu	ORD	function	188
@@ -16,8 +16,8 @@
 0.47	1	te	CESS	function	ti	REP	function	115
 0.47	1	nophi	story	content	nophe	ABST.CLF	function	99
 0.47	1	lau	twenty-seven-group	content	lao	BECAUSE	function	91
+0.47	1	pi	POL	function	pe	SUFF	function	90
 0.47	1	hi	DIR	function	he	IRR	function	89
-0.47	1	pi	POL	function	pe	SUFF	function	89
 0.47	1	nia	ON	function	nea	aha	interjection	80
 0.47	1	wia	how many	function	wea	TOWARD	function	72
 0.47	1	le	HON.ROLE	function	li	RESTR	function	70
@@ -127,7 +127,7 @@
 0.50	1	pheo	POST	function	sheo	THAN	function	121
 0.50	1	thelao	CONS	function	shelao	SUMM	function	113
 0.50	1	phoa	do	content	thoa	AMONG	function	106
-0.50	1	ke	INFER	function	pe	SUFF	function	98
+0.50	1	ke	INFER	function	pe	SUFF	function	99
 0.50	1	koma	head	content	kona	VOC	function	96
 0.50	1	heloi	generous	content	sheloi	MANY	function	80
 0.50	1	hola	laugh	content	sola	DISJ	function	80
@@ -138,7 +138,7 @@
 0.50	1	whola	invite	content	sola	DISJ	function	58
 0.50	1	phui	flute	content	sui	DUR	function	56
 0.50	1	muo	INTO	function	nuo	um	interjection	55
-0.50	1	te	CESS	function	pe	SUFF	function	48
+0.50	1	te	CESS	function	pe	SUFF	function	49
 0.50	1	phue	wise	content	thue	THROUGH	function	37
 0.50	1	thua	fair	content	sua	who	function	37
 0.50	1	thuo	prosper	content	whuo	WITHOUT	function	35
