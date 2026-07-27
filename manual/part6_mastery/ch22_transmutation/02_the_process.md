@@ -56,7 +56,7 @@ When several Phi words meet one English word, their descriptions and usage notes
 
 ### The grammar-led choice
 
-Let a ruling shape the sentence, and trust the push. *Belong* must go through `phelu` (The Prophet: the possession ruling made the verse truer); *Real* turned out to be the habitual `ro` (The Velveteen Rabbit); *useful* became the possibility particle `po` (Tao Te Ching: emptiness opens rather than adds).
+Let a ruling shape the sentence, and trust the push. *Belong* must go through `phelu` (The Prophet: the possession ruling made the verse truer); *becoming Real* fell to tense and aspect, the nursery magic `to ki kelu` already complete while toyhood `to te nai` ceased (The Velveteen Rabbit); *useful* became the possibility particle `po` (Tao Te Ching: emptiness opens rather than adds).
 
 ### Composition
 
