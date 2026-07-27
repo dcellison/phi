@@ -1,6 +1,6 @@
 # Phi continuation handoff
 
-This directory is the transfer package for continuing Phi after 17 July 2026. It was first assembled from the live repository after pull request #418 merged and is current through pull request #617 on 27 July 2026. It records the current position, the working method, the tools, and the maintainer's standing instructions that are easy to lose when a conversation ends.
+This directory is the transfer package for continuing Phi after 17 July 2026. It was first assembled from the live repository after pull request #418 merged and is current through pull request #619 on 27 July 2026. It records the current position, the working method, the tools, and the maintainer's standing instructions that are easy to lose when a conversation ends.
 
 This package is a map, not a new authority. When anything here disagrees with a live source, follow the authority order in [`canon.md`](../../canon.md), repair this package, and record a language decision where the disagreement is substantive.
 
@@ -38,6 +38,8 @@ The maintainer's own front-to-back read of the finished book followed on 27 July
 
 That read also closed the conflation sweep's last open item. The weaver's shade of anxiousness in *News from Nowhere* chapter 3 had rendered its degree with the size adjective `thiku`; the maintainer ruled it attenuation, so `la` now lowers the anxiety and the look keeps its own shape.
 
+*News from Nowhere* has reached chapter 4 of 32. "A Market by the Way" follows Morris through six movements and 121 aligned passages. It registers `wisola lokue`, exchange-place, and rebuilds the English "poor/poorly" joke around a genuine Phi ambiguity in `huwa`, weak. Its preflight also closed the two questions that had survived in this handoff: the three-syllable lexical ceiling and the novel's use of the full vocabulary.
+
 One assessment was delivered and declined in the same span. Nothing compares a Phi line quoted in the manual against the shelf text it names, which is how chapter 22's misquoted Metta Sutta line survived. A measurement found 14 exact quotations among 1,573 teaching-corpus Phi lines, and a prototype detector caught the real defect while flagging nine lines in all. The maintainer ruled it not worth building, since the manual is close to finished and future additions will be texts. Do not raise it again unprompted.
 
 No content or language work is commissioned. The book's title remains The Phi Book for now, by the maintainer's ruling, with *A Language You Cannot Hurry* and *Announce, Then Deliver* on record as candidates. The bibliography's citation style is uniform with DOIs intact, and the whole-book revision read is complete, so further revision waits on the maintainer's own reading of the finished book. The maintained future-work ledger has five unfinished entries, all named in [`current_state.md`](current_state.md) and [`project/deferred_questions.md`](../deferred_questions.md).
@@ -52,6 +54,8 @@ The following habits came from direct maintainer corrections. Treat them as stan
 - Never let a noticed lexical gap vanish into conversation. Give it a decision ID before closing the batch, even when the decision is compositional, deferred, source-bound, or declined.
 - Keep base vocabulary ordinary and broadly useful. Specialized words may belong to several modules; the `modules` field is an array for a reason.
 - Modules add vocabulary only. Phi's grammar and particle system are complete, and no module may add syntax, parsing rules, or incompatible constructions.
+- Lexical words have no more than three syllables, including module vocabulary. Productive names alone may use a legal four-syllable form.
+- Every voice in *News from Nowhere* may use the full vocabulary, including optional modules. Module membership limits what a general learner is expected to study; it does not divide the novel's speakers into lexical registers.
 - Peace linguistics is a design boundary, not decoration. Do not introduce generic conflict or direct combat vocabulary, weapon-centred framing, domination terms, or combat metaphors into Phi-authored material. Phi must still name danger, harm, coercion, injury, testimony, protection, accountability, redress, and repair.
 - Exact clock units, physical units, money language, and industrial measurement are settled refusals. Read [`documents/design/psychological_violence_of_measurement.md`](../../documents/design/psychological_violence_of_measurement.md) before working near time, quantity, distance, weight, or exchange.
 - Point out accidental English homonyms whenever they appear in a proposed Phi form or an existing form under review.

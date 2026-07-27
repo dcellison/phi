@@ -139,6 +139,8 @@ A transmutation lets the source pass through Phi's five pillars and conceptual h
 
 The literary shelf prefers transmutation because it preserves Phi's own heart. Paired close translations demonstrate that the language can carry a source closely and make the divergence visible. Not every long work needs both. *News from Nowhere* remains a transmutation-only 32-chapter project unless Daniel changes the plan.
 
+In *News from Nowhere*, the narrator and the future people share the full vocabulary, including optional modules. Any new root keeps the three-syllable lexical ceiling; only a productive name may reach four syllables.
+
 ## The five pillars
 
 The five named commitments are Solarpunk, secular Buddhist philosophy, Art Nouveau aesthetics, peace linguistics, and pre-industrial wisdom. They guide choices but do not require a `pillars` field on every word or an equal paragraph in every text.
