@@ -5,7 +5,7 @@
 
 # The Compound Registry
 
-*76 canonized compounds.*
+*77 canonized compounds.*
 
 Canonized compound idioms are multi-word expressions with a stable reading in Phi. Each entry records what the expression means and why its visible parts remain useful.
 
@@ -121,6 +121,7 @@ A registered compound can be used when its recorded analysis fits. Free composit
 | `halemu womu` | remembering-house | museum | The institution is described as a place where a community keeps material connected with remembering. |
 | `whelina sholei` | grass-gathering | hay-harvest, haymaking | The event noun of `sholei` (gather) takes grass as the material being gathered. |
 | `lona lokue` | meeting-place | hall | The place is identified by its recurring use for meetings and gatherings. |
+| `wisola lokue` | exchange-place | market | Repeated exchange gives the place its ordinary name. A speaker can add what passes between whom and under what terms; the place itself does not smuggle a price into the event. |
 | `mueri kerou` | clay stone | brick | A brick is shaped clay hardened until it can take a stone's place in a wall. The compound already carries the material contrast at the centre of Babel. |
 | `shumeko muralo` | sticky material | glue; adhesive | Stickiness names the property that matters in ordinary joining. Chemistry, curing behaviour, and safe use belong to the particular adhesive. |
 | `thero muralo` | fire material | fuel | The material is fuel because it feeds a fire. The expression says what it does without praising the fuel or hiding its origin. |

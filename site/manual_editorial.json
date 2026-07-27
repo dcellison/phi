@@ -607,7 +607,7 @@
       "variant": "directory"
     },
     "manual/part7_reference/compounds.md": {
-      "shape": "h1,2,2,2,2,2,2,2,2,2;t4x8,4x3,4x10,4x1,4x3,4x4,4x9,4x19,4x19;f-;q-;u-;o-;r0",
+      "shape": "h1,2,2,2,2,2,2,2,2,2;t4x8,4x3,4x10,4x1,4x3,4x4,4x9,4x19,4x20;f-;q-;u-;o-;r0",
       "variant": "standard"
     },
     "manual/part7_reference/quick_reference_grammar.md": {
