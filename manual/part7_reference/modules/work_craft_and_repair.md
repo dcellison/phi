@@ -4,7 +4,7 @@ A chair comes back from the workshop with one leg pale and new. Whoever sits in 
 
 Like every module, its specialized vocabulary is optional and uses ordinary Phi grammar. A speaker who has not learned it can always ask for a core paraphrase. Learning the words gives no skill or authority over another person's labor; they describe work without handing it out.
 
-The chapter table below introduces 28 module roots. Current classifications bring the optional learning list to 70 words; base `winora` plan and `hasoru` pending are taught alongside it. The complete machine-generated list is available under [Work, Craft, and Repair in the module lexicon](../lexicon/by_module.md#work-craft-and-repair). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 28 module roots. Current classifications bring the optional learning list to 70 words; base `winora` plan and `hasoru` pending are taught alongside it. The complete list is under [Work, Craft, and Repair in the module lexicon](../lexicon/by_module.md#work-craft-and-repair).
 
 ## Core vocabulary used by the module
 
@@ -44,7 +44,7 @@ Twelve familiar roots place the module's task and evaluation vocabulary in actua
 
 ## Planning and pending status belong to base vocabulary
 
-Neither entry has a `modules` field. Someone can plan tomorrow's meal or a journey; a request can remain pending without becoming a work project. The chapter keeps both words close because organized work uses them constantly, not because work owns them.
+Neither word belongs to a module. Someone can plan tomorrow's meal or a journey; a request can remain pending without becoming a work project. The chapter keeps both words close because organized work uses them constantly, not because work owns them.
 
 ## Module roots introduced in this chapter
 

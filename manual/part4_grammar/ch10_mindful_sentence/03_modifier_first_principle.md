@@ -6,7 +6,7 @@ Verb-final order is one instance of Phi's broader organizing principle:
 
 Objects precede verbs. Descriptors precede nouns and verbs. Possessors precede what is possessed. Prepositions precede their objects. Particles precede their targets. Relative clauses precede the nouns they describe.
 
-The project calls this pattern "announce, then deliver." The phrase is a memory aid, not a linguistic claim that every early word is literally an announcement. The more exact typological description is mixed: Phi is predicate-final and modifier-first in many structures, but its prepositions come before their objects. `documents/design/modifier_first_philosophy.md` gives the design argument in full.
+The project calls this pattern "announce, then deliver." The phrase is a memory aid, not a linguistic claim that every early word is literally an announcement. The more exact typological description is mixed: Phi is predicate-final and modifier-first in many structures, but its prepositions come before their objects. The Phi book's chapter on announcing before delivering gives the design argument in full.
 
 ## Inside a phrase
 

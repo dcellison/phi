@@ -114,7 +114,7 @@ Degree is not comparison. **ru mioru** strengthens one description, while **mo m
 
 **ne samira** — samira, a productive name-form without a lexicon meaning
 
-A productive onym is one lowercase token of two, three, or four legal Phi syllables. It follows ordinary phonotactics and does not duplicate a syllable that has an onset. A current lexicon form may be used as a name only when it is a content word. An unlisted form needs no historical check, and a four-syllable onym needs no special registry. The validator checks candidates with `python3 scripts/validate_examples.py name FORM`.
+A productive onym is one lowercase token of two, three, or four legal Phi syllables. It follows ordinary phonotactics and does not duplicate a syllable that has an onset. A current lexicon form may be used as a name only when it is a content word. An unlisted form needs no historical check, and a four-syllable onym needs no special registry.
 
 Formal and neutral Phi keeps **ne** at every mention. Conversation may omit it after the referent is established and while reference remains clear. A source name that does not fit the onym charter stays outside the Phi passage unless the bearer or naming community accepts an adapted Phi-form name.
 

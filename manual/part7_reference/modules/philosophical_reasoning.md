@@ -4,7 +4,7 @@ Someone claims a path is good, another asks why, and the argument that follows n
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them supplies vocabulary, and vocabulary has never made anyone right.
 
-The chapter table below introduces 21 module roots. Shared classification brings the optional learning list to 24 words; four base words are taught alongside it. The complete machine-generated list is available under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 21 module roots. Shared classification brings the optional learning list to 24 words; four base words are taught alongside it. The complete list is under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning).
 
 ## Core vocabulary used by the module
 
@@ -22,7 +22,7 @@ The module does not replace what Phi already says about thought and dialogue. It
 
 ## Claims, evidence, reasons, and criteria belong to base vocabulary
 
-The canonical entries for `sherewa`, `thesori`, `remotha`, and `kirema` have no `modules` field. A household disagreement may need a claim and a reason; a care decision may turn on evidence and a criterion. Neither setting requires specialist philosophy, though the module gives each word sharper company.
+`sherewa`, `thesori`, `remotha`, and `kirema` belong to no module. A household disagreement may need a claim and a reason; a care decision may turn on evidence and a criterion. Neither setting requires specialist philosophy, though the module gives each word sharper company.
 
 ## Module roots introduced in this chapter
 
@@ -50,7 +50,7 @@ The canonical entries for `sherewa`, `thesori`, `remotha`, and `kirema` have no 
 | `soneho` | noun | tradeoff; a valued gain joined to a valued loss | A tradeoff joins a real gain to a real loss; simply having several options on the table is not yet one. |
 | `manawi` | verb | compromise; agree through mutual concession | Compromising reaches agreement through concession from more than one side; the word alone says nothing about whether the result is fair. |
 
-Verbs used in this chapter receive their event or result nouns through Phi's ordinary event-noun rule: `sherewa` can name a claim, `kethira` an inference, `whakeru` an objection, `whekate` a refutation, `kirothe` a definition, `whamoi` doubt, and `manawi` a compromise. The adjectives `kithela`, `letharo`, and `norethi` likewise name validity, consistency, and confidence through the quality-noun rule; their entries remain verb-only or adjective-only as required by the lexicon schema.
+Verbs used in this chapter receive their event or result nouns through Phi's ordinary event-noun rule: `sherewa` can name a claim, `kethira` an inference, `whakeru` an objection, `whekate` a refutation, `kirothe` a definition, `whamoi` doubt, and `manawi` a compromise. The adjectives `kithela`, `letharo`, and `norethi` likewise name validity, consistency, and confidence through the quality-noun rule; their entries stay verb-only or adjective-only, as the lexicon requires.
 
 ## Claims, premises, and conclusions
 

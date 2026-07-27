@@ -1,6 +1,6 @@
 # Quick Reference Grammar
 
-One page of the whole system. Details: `documents/grammar/`; authority order: `/canon.md`.
+One page of the whole system. Parts III through V give the details.
 
 Notation: the diagrams use square brackets to show the span of a slot, constituent, clause, or understood gap. The marks are editorial; Phi speakers pronounce only their contents, and ordinary romanized or Tengwar writing omits them. Parentheses inside a template mark optional material.
 

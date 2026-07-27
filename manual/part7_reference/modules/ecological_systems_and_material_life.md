@@ -4,7 +4,7 @@ Dye runs from a workshop into a stream, and a fish downstream carries it in its 
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them does not make anyone a scientist, a landholder, or an authority on what should be done.
 
-The chapter table below introduces 30 module roots. Current classifications bring the optional learning list to 55 words; base weather, material, and resource are taught alongside it. The complete machine-generated list is available under [Ecological Systems and Material Life in the module lexicon](../lexicon/by_module.md#ecological-systems-and-material-life). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 30 module roots. Current classifications bring the optional learning list to 55 words; base weather, material, and resource are taught alongside it. The complete list is under [Ecological Systems and Material Life in the module lexicon](../lexicon/by_module.md#ecological-systems-and-material-life).
 
 ## Core vocabulary used by the module
 
@@ -38,7 +38,7 @@ Seven roots widen the path beyond systems, processes, and observation.
 
 ## Weather, material, and resources belong to base vocabulary
 
-None of these three entries has a `modules` field. Weather decides whether a trip leaves now. A broken chair still has material in it, and stored water may be a resource for a garden. The ecological module sharpens the consequences without owning the ordinary words.
+None of these three words belongs to a module. Weather decides whether a trip leaves now. A broken chair still has material in it, and stored water may be a resource for a garden. The ecological module sharpens the consequences without owning the ordinary words.
 
 ## Module roots introduced in this chapter
 
@@ -75,7 +75,7 @@ None of these three entries has a `modules` field. Weather decides whether a tri
 | `wimura` | noun | humidity; water vapour in air | Humidity selects an atmospheric parameter; `wirua` can still describe damp air as it feels. |
 | `keruma` | noun | illumination; light received at a place or surface | Illumination concerns received light; brightness and radiance describe the source or visible result. |
 
-The verbs in this table receive their event or result nouns through Phi's ordinary event-noun rule: `wheraku` can name erosion, `phaluwe` a flood, `pesenu` pollution, `perawi` exposure, `morume` decomposition, `tukelu` recycling, and `somethi` monitoring. The adjective `pekira` likewise names toxicity through the quality-noun rule; its entry remains adjective-only as required by the lexicon schema.
+The verbs in this table receive their event or result nouns through Phi's ordinary event-noun rule: `wheraku` can name erosion, `phaluwe` a flood, `pesenu` pollution, `perawi` exposure, `morume` decomposition, `tukelu` recycling, and `somethi` monitoring. The adjective `pekira` likewise names toxicity through the quality-noun rule; its entry stays adjective-only, as the lexicon requires.
 
 ## Temperature, humidity, and illumination
 
