@@ -1,6 +1,6 @@
 # Current state
 
-This snapshot was first assembled after pull request #418 merged on 17 July 2026 and is current through pull request #580 and the PDF reading copy assembled after it. It covers D055, the completed SEM-09D corpus retrofit, the finished book, and the practice-complete pamphlet shelf. It also records the writing-system consolidation that made Tengwar Phi's sole alternative to romanization, the four renderer-led shelf identities, and the complete entrance sequence for Kia, the Short Road, and the Phi Book contents page. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
+This snapshot was first assembled after pull request #418 merged on 17 July 2026 and is current through pull request #617 on 27 July 2026. It covers D055, the completed SEM-09D corpus retrofit, the finished book, and the practice-complete pamphlet shelf. It also records the writing-system consolidation that made Tengwar Phi's sole alternative to romanization, the four renderer-led shelf identities, and the complete entrance sequence for Kia, the Short Road, and the Phi Book contents page. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
 
 ## Active execution sequence
 
@@ -48,9 +48,9 @@ Kia opens the separate entrance-page sequence. Its first greeting sits in an ope
 
 | Inventory | Total | Target | Legacy |
 |---|---:|---:|---:|
-| Entire lexicon | 1,286 | 1,286 | 0 |
-| Content vocabulary | 1,152 | 1,152 | 0 |
-| Base content vocabulary | 891 | 891 | 0 |
+| Entire lexicon | 1,287 | 1,287 | 0 |
+| Content vocabulary | 1,153 | 1,153 | 0 |
+| Base content vocabulary | 892 | 892 | 0 |
 | Optional-module content vocabulary | 261 | 261 | 0 |
 | Function vocabulary | 114 | 114 | 0 |
 | Interjections | 20 | 20 | 0 |
@@ -110,7 +110,7 @@ All eight profiles already have canonical JSON membership, a generated module in
 
 ## Corpus state
 
-The literary shelf has completed its full inherited-text review against the current lexicon. It contains nine close translations, eleven transmutations, and one original Phi work; seven source works use both methods. *News from Nowhere* is one 32-chapter work with the first three chapters transmuted and reviewed. The current inherited-text review record is [`documents/evaluation/active_text_corpus_review.md`](../../documents/evaluation/active_text_corpus_review.md), while the original dialogue carries its proposition and vocabulary-pressure records in the work itself. The compound registry holds 76 rows at word-pair and word-triple scale by the maintainer's ruling of 23 July 2026: its one four-word entry overreached from compound toward canonized phrase, so `lothea korua`, love-heart, is registered in its place and `mawha norui` composes freely before it in the Metta Sutta's lines.
+The literary shelf has completed its full inherited-text review against the current lexicon. It holds seventeen works: nine include a close translation, eleven include a transmutation, four are original Phi compositions, and seven source works use both methods. *News from Nowhere* is one 32-chapter work with the first three chapters transmuted and reviewed. The current inherited-text review record is [`documents/evaluation/active_text_corpus_review.md`](../../documents/evaluation/active_text_corpus_review.md), while the original dialogue carries its proposition and vocabulary-pressure records in the work itself. The compound registry holds 76 rows at word-pair and word-triple scale by the maintainer's ruling of 23 July 2026: its one four-word entry overreached from compound toward canonized phrase, so `lothea korua`, love-heart, is registered in its place and `mawha norui` composes freely before it in the Metta Sutta's lines.
 
 SEM-09D is complete. Fifteen literary passes finished the shelf, and all three drafted *News from Nowhere* chapters are among them. All seven manual parts, all twenty-seven primer files, and the nine pamphlets then on the shelf are reviewed without a lexical gap, and the current-documents sweep closed with the evaluation corpus. Parts IV and VI each use one explicitly labelled optional term with a base alternative; Part VII teaches module words only inside their named learning paths, while the general primer and every pamphlet except source-material use no module terms; the source-material pamphlet demonstrates the module choice it teaches. A Phi passage changes only when the current form is more faithful or natural there. A transparent composition stays when its parts still teach or express the thought better, and every changed sentence and dependency receives validation.
 
@@ -122,6 +122,18 @@ The shelf's method distinction remains settled:
 - A transmutation may change the source under Phi's five pillars, but every departure must be deliberate, visible in the back-translation, and recorded honestly.
 - In an original, Phi is the source. English follows as a close reading, and the proposition record states what the work argues, revises, and leaves open.
 - Phi prefers transmutation for inherited material. Close translations show what the language can carry, while original work lets the language begin without a prior source.
+
+### News from Nowhere, chapter 4
+
+The maintainer intends chapter 4, "A Market by the Way", as the next transmutation. It is the shortest of the four so far, about 1,158 words of source against chapter 3's 1,293 rendered lines, and it is the gift economy's second test: a Victorian visitor walking through a market with no money in it.
+
+One precondition stands on file and is unsettled. The module-vocabulary ruling for this novel has never been made. The proposal on record is that the future people speak core vocabulary while the narrator's old-world descriptions may reach module words, which matters immediately in a market chapter. Settle it with the maintainer before drafting rather than after. The same note asks that chapters 1 through 3 be verified as having survived the four-syllable migration sweep, which has not been checked.
+
+Whoever takes the chapter should work from `.claude/skills/transmute/SKILL.md`, the transmutation guide written for models out of this novel's own chapter 1 failures. It applies to a single-line correction as much as to a chapter. Read all three existing chapters end to end first, not excerpts: the conventions are documented, but the register is only in the chapters.
+
+The settled conventions are these. Every block runs four lines, Phi, gloss, back-translation in parentheses, and a `morris:` line quoting exactly the clause that block transmutes, checked against the complete witness at `texts/news_from_nowhere/source.txt`. Each block group carries a Notes paragraph. The names are ratified and in use: `ne phemi` for the narrator, Guest; `ne kulo` for Dick; `ne selomi` for the weaver; `ne solai` for Boffin with `ne keruko` for his real name; `ne luwae` for Annie; `ne woru` for Jim. Morris's habit of sorting people by gender dissolves by rule, which is the largest deliberate loss in the book and was ratified as such. Coining is expected rather than rationed: the maintainer's standing instruction is a closer transmutation even when it costs more coinage, and four-syllable words are welcome for concepts that recur rarely.
+
+The build enforces its own contract. `site/news_from_nowhere_editorial.json` needs a chapter record whose declared counts match what the renderer finds, covering movements, opening paragraphs, interlinear blocks and stanzas, notes, tables, ledger rows, and inner dividers, and its chapter list must match the `chapter_*.md` glob exactly. The ladder in `texts/news_from_nowhere/README.md` gains a row. A chapter that renders without those in step stops the build.
 
 ## Book state
 
