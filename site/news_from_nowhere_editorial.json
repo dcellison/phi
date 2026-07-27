@@ -171,6 +171,46 @@
         "tables": 0,
         "ledger_rows": [],
         "inner_dividers": 1
+      },
+      {
+        "file": "chapter_04.md",
+        "number": 4,
+        "title": "A Market by the Way",
+        "summary": "The road through Hammersmith opens into a market without prices, where Dick's theatre doors and an old pun about poverty leave the traveller impressed, distracted, and thoroughly misunderstood.",
+        "movements": [
+          {
+            "level": 2,
+            "title": "ruela nela phuliro — The road and the stream"
+          },
+          {
+            "level": 2,
+            "title": "lorima kire — The forms of the market"
+          },
+          {
+            "level": 2,
+            "title": "wisola lokue — The exchange-place"
+          },
+          {
+            "level": 2,
+            "title": "shela wile lokue ponu — The theatre doors"
+          },
+          {
+            "level": 2,
+            "title": "lewonu phewani — The valley neighbours"
+          },
+          {
+            "level": 2,
+            "title": "henoi — Enough of what"
+          }
+        ],
+        "apparatus": "What the transmutation changed",
+        "opening_paragraphs": 2,
+        "interlinear_blocks": 6,
+        "interlinear_stanzas": 121,
+        "notes": 6,
+        "tables": 0,
+        "ledger_rows": [],
+        "inner_dividers": 1
       }
     ]
   }
