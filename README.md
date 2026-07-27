@@ -13,7 +13,7 @@ Everything below is rendered to **[dcellison.github.io/phi](https://dcellison.gi
 | | | |
 |---|---|---|
 | **The walk** | [short_road.md](short_road.md) | The whole language at walking pace: twenty minutes, one working example per idea. |
-| **The primer** | [primer/](primer/) | Learn Phi by reading it: a prelude, twenty-four graded chapters about one household, and a capstone. No prior knowledge assumed. |
+| **The primer** | [primer/](primer/) | Learn Phi by reading it: a prelude, thirty graded chapters about one household, and a capstone. No prior knowledge assumed. |
 | **The book** | [book/](book/) | Narrative nonfiction for a general reader: why the language works this way, and what the sciences of language and mind let it claim. A cold open, fourteen chapters, a close, and a consolidated bibliography. |
 | **The manual** | [manual/](manual/) | The complete reference: phonology, the particle system, ternary numerals, social practice, source-material boundaries, translation, and transmutation. For verification and depth. |
 | **The pamphlets** | [pamphlets/](pamphlets/) | Deep-dive companions to the manual: relative clauses and embedded speech, explained patiently, with exercises and answer keys. |
