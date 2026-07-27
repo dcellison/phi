@@ -16,11 +16,11 @@ The current shelf contains nearly fourteen hundred of these labeled source lines
 
 That does not prove that every source claim has been translated. An omitted sentence leaves no bad citation for a machine to catch. Nor can string matching decide whether a Phi line has narrowed a metaphor, strengthened an obligation, or turned a punishment into a garden. The program guards the quotation. The review ledger and the reader have to judge what was done beside it.
 
-## Fourteen works and one reader
+## A whole shelf and one reader
 
-The shelf as it stands here contains fourteen works. Nine include a close translation, eleven include a transmutation, and one is an original Phi composition. Seven source works appear in both forms. The arithmetic overlaps on purpose. A paired work belongs to two counts; the original has had the decency to occupy only one.
+The shelf as it stands here contains seventeen works. Nine include a close translation, eleven include a transmutation, and four are original Phi compositions. Seven source works appear in both forms. The arithmetic overlaps on purpose. A paired work belongs to two counts; the originals have the decency to occupy only one apiece.
 
-The Metta Sutta opens the shelf. Fables, sacred texts, political declarations, and children's stories follow. A translation of *A Solarpunk Manifesto* sits near the front, followed by an original dialogue about care and coercion. *News from Nowhere* has three of its planned thirty-two chapters. Literature is an accommodating word here: a declaration and a manifesto have been admitted without being made to pretend that they are novels.
+The Metta Sutta opens the shelf. Fables, sacred texts, political declarations, and children's stories follow. A translation of *A Solarpunk Manifesto* sits near the front, followed by an original dialogue about care and coercion. Original essays follow it, each opening on something domestic and arguing outward: a garden wall rebuilt after a storm, and whether it is the same wall; a friend's word at dusk that the footbridge is broken, and when a report is enough to act on; a fallen branch going quietly back into the ground with nobody there to price it. *News from Nowhere* has three of its planned thirty-two chapters. Literature is an accommodating word here: a declaration and a manifesto have been admitted without being made to pretend that they are novels.
 
 There is no Phi reading group behind these numbers. The language has one known learner and designer, and the same person has final responsibility for every rendering. The last chapter ended with the observation that people adopt a community rather than a grammar. Phi has not disproved it. Instead, the project has made the unusual choice available to a solitary language maker: build the shelf first, then let a possible reader see whether there is anything worth gathering around.
 
@@ -68,7 +68,7 @@ The actor is now `muila`, earth. People move `phea lo thinoe`, like seeds. The s
 
 Calling both passages translations would hide the largest decision on the page. Calling the first one Phi's preferred telling would hide the claim that prompted the second. The paired form keeps two promises apart: translation shows what Phi can carry while staying close, and transmutation shows what Phi chooses when it accepts responsibility for changing the story.
 
-The third method has no source to depart from. In *When Care Becomes Coercion*, two friends argue in Phi about danger, refusal, evidence, and authority. The English beneath each line follows the Phi; it cannot quietly improve the reasoning or lend the speakers a distinction they did not make. The proposition record then shows where the argument revised itself and where it stopped without a complete conclusion.
+The third method has no source to depart from, and four works on the shelf are written that way. In *When Care Becomes Coercion*, two friends argue in Phi about danger, refusal, evidence, and authority. The English beneath each line follows the Phi; it cannot quietly improve the reasoning or lend the speakers a distinction they did not make. The proposition record then shows where the argument revised itself and where it stopped without a complete conclusion.
 
 ## The space between the lines
 
@@ -98,7 +98,7 @@ The division of labor matters. Machines are excellent at refusing the same mista
 
 The close translation of "The North Wind and the Sun" needs an ordinary distinction. Aesop's moral contrasts kind persuasion with force and bluster. `kawhera`, coerce, names the latter; it cannot do the former's work. Kind speech describes manner without saying that one person is trying to move another. Phi's base verb `sharemi`, persuade, carries that attempt while leaving an answer available. The story then complicates its own moral: the Sun's burning heat eventually sends the traveler fleeing. Aesop supplies the distinction, and his plot makes Phi test it.
 
-Direct roots prevent other passages from walking around distinctions their sources already make. The same fable uses `mesatu`, try, `komeri`, forehead, and `phesari`, flee. The Metta Sutta has direct words for searching, burden, wanting, and weakness. Morris's river uses `lunisa`, tide, while his boatman's work uses `pheloma`, service. Each word earns its place by restoring something the source carries, not by arriving later than the composition it replaces.
+Direct roots prevent other passages from walking around distinctions their sources already make. The same fable uses `mesatu`, try, `komeri`, forehead, and `phesari`, flee. The Metta Sutta has direct words for searching, burden, wanting, and weakness. Morris's river uses `lunisa`, tide, while his boatman's work uses `pheloma`, serve. Each word earns its place by restoring something the source carries, not by arriving later than the composition it replaces.
 
 Sometimes the pressure runs the other way. Schleicher's horses and sheep are animal objects of `kawhera`, coerce, and `pilora`, exploit. The definitions have to cover that use. Changing animals into people for the convenience of dictionary prose would repair the wrong thing.
 

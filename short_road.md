@@ -160,7 +160,7 @@ These commitments make Phi culturally situated and value-explicit. Speakers rema
 
 ## The door
 
-If this was your pace, the primer is the gentler road: a pronunciation prelude, one household, twenty-four short chapters, and a capstone text. The manual holds the full machinery. The lexicon explorer shows dictionary entries and registered compounds separately, and the text shelf is waiting.
+If this was your pace, the primer is the gentler road: a pronunciation prelude, one household, thirty short chapters, and a capstone text. The manual holds the full machinery. The lexicon explorer shows dictionary entries and registered compounds separately, and the text shelf is waiting.
 
 **pi no shua.**
 POL IMP come.
