@@ -61,7 +61,7 @@ The manual waits behind **Verify**. It holds the full sound system and grammar, 
 
 **Consider** leads to the Phi book, which asks why the language works this way and tests its claims against linguistic evidence.
 
-**Read** opens the text shelf, where close translations sit beside Phi's preferred transmutations and one original dialogue lets Phi lead its English reading.
+**Read** opens the text shelf, where close translations sit beside Phi's preferred transmutations and original compositions let Phi lead their English readings.
 
 For longer lessons, exercises, and answers, **Practice** opens the pamphlets.
 
