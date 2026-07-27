@@ -1,8 +1,8 @@
 # The taught patterns
 
-Every sentence pattern the primer teaches, in one inventory: the pattern's shape, where it is taught, a worked example with its gloss, and the seed of its explanation. Nothing here is new — this document gathers what the twenty-six primer chapters spread across a household's days, so that anything teaching or checking Phi (a person, the validator, a teaching tool) can find the whole curriculum in one place. Examples are drawn from the primer wherever possible and are validator-checked, gloss lines included.
+Every sentence pattern the primer teaches, in one inventory: the pattern's shape, where it is taught, a worked example with its gloss, and the seed of its explanation. Nothing here is new — this document gathers what the primer spreads across a household's days, so that anything teaching or checking Phi (a person, the validator, a teaching tool) can find the whole curriculum in one place. Examples are drawn from the primer wherever possible and are validator-checked, gloss lines included.
 
-Notation: the square brackets `[` and `]` are editorial guides, not Phi. They mark slots (`[subject]`, `[place]`), constituents, clauses, and understood gaps. A reader says their contents aloud without the marks; ordinary romanized or Tengwar writing leaves them out as well. Parentheses mark an optional slot; everything else is literal. The Slot 1 particles stack in the canon order: tense, aspect, voice, evidentiality, modality, negation, one per rank. Manner descriptors stand after the Slot 1 block, immediately before the verb.
+Notation: the square brackets `[` and `]` are editorial guides, not Phi. They mark slots (`[subject]`, `[place]`), constituents, clauses, and understood gaps. A reader says their contents aloud without the marks; ordinary romanized or Tengwar writing leaves them out as well. Parentheses mark an optional slot; everything else is literal. The Slot 1 particles stack in the canon order: tense, aspect, voice, evidentiality, modality, negation, one per rank. Manner descriptors stand after the Slot 1 block, immediately before the verb. Pattern numbers are stable labels rather than a reading order, so a number stays with its pattern wherever the pattern sits.
 
 ## I. Being and doing
 
@@ -72,6 +72,14 @@ two HUM.CLF trader LOC village be.
 (Two traders are in the village.)
 ```
 
+**P40 · Order.** `nu [numeral] ([classifier]) [noun]` — the same count turned into a position. `nu` stands before the numeral, and the phrase names which one rather than how many. Taught in ch. 15.
+
+```
+nu wi philo. lo mia kau silawo wepu.
+ORD two day. PL 1SG ALL village go.
+(The second day. We go to the village.)
+```
+
 ## III. Questions, answers, address
 
 **P09 · The plain question.** `wa [sentence]` — the statement with `wa` set before it; nothing moves. Taught in ch. 4.
@@ -100,6 +108,14 @@ VOC NAME sulae. welcome.
 melu nomei ne sulae nai.
 friend name NAME sulae be.
 (The friend's name is sulae.)
+```
+
+**P41 · The honorifics.** `ne sa` respect · `ne ni` closeness · `ne le` a role held among neighbours — one small word between `ne` and the name. It colors how the name is said without changing who it points to. Taught in ch. 16.
+
+```
+kona ne sa sulae. whelani.
+VOC NAME HON.RESPECT sulae. welcome.
+(Respected sulae. Welcome.)
 ```
 
 **P14 · Politeness first.** `pi` at the very front, before even `wa` — respect announced before anything else. Taught in ch. 14 and 16.
@@ -308,16 +324,76 @@ mia suliwa hi nila.
 (I see the snake myself.)
 ```
 
-## XI. The wish
+## XI. Voice
 
-**P38 · The optative.** `su [sentence]` — the mood of wishes and blessings, named in the capstone and taught by the texts; the Metta Sutta runs on it. Slot 0, like `wa` and `no` and `lu`.
+**P42 · The passive.** `[the one it happens to] [Slot 1] se [verb].` — `se` moves the acted-on into the subject's place and lets the doer go unsaid; it sits in the verb's cluster, after the tense particles. Taught in ch. 25.
 
-**P39 · Degree.** `[ru | la | pe | wo] [quality, action, or gradable noun]` — one degree particle immediately before the word it measures: `ru` raises, `la` lowers, `pe` meets what is asked, `wo` passes it. `nuhe` (sadness) has no adjective, so the noun takes the particle directly. They never stack. Taught in ch. 9.
+```
+moru to se shiroka.
+wall PST PASS repair.
+(The wall was repaired.)
+```
+
+**P43 · The causative.** `[maker] [doer] ka [verb].` — `ka` adds a person or force responsible for the doing; the maker takes the subject's place and the original doer steps back one position. Taught in ch. 26.
+
+```
+phao lopia ka nulae.
+parent child CAUS sleep.
+(The parent makes the child sleep.)
+```
+
+## XII. The wish
+
+**P38 · The optative.** `su [sentence]` — the mood of wishes and blessings. Nothing is claimed and something is hoped; the sentence underneath is ordinary. Slot 0, like `wa` and `no` and `lu`. Taught in ch. 27, and the Metta Sutta runs on it.
 
 ```
 su sila shea nai.
 OPT community peace be.
 (May the community be at peace.)
+```
+
+## XIII. Degree and comparison
+
+**P39 · Degree.** `[ru | la | pe | wo] [quality, action, or gradable noun]` — one degree particle immediately before the word it measures: `ru` raises, `la` lowers, `pe` meets what is asked, `wo` passes it. `nuhe` (sadness) has no adjective, so the noun takes the particle directly. They never stack. Taught in ch. 28.
+
+```
+sulopa pe sulae nai.
+soup SUFF warm be.
+(The soup is warm enough.)
+```
+
+**P44 · Comparison.** `[thing] sheo [rival] mo [quality] nai.` — `mo` stands where the degree particles stand, and `sheo` names what the comparison runs against. When everyone already knows the rival, Phi leaves it out. It states a relation and hands out no rank. Taught in ch. 29.
+
+```
+lohau sheo misheko mo whalo nai.
+dog THAN cat CMPR large be.
+(The dog is bigger than the cat.)
+```
+
+**P45 · The superlative.** `[thing] mo ko [quality] nai.` — the comparison with no rivals left. The pair is fixed and always in that order. Taught in ch. 29.
+
+```
+ha napa mo ko welao nai.
+PROX bread CMPR FOC good be.
+(This bread is the best.)
+```
+
+## XIV. Focus and restriction
+
+**P46 · Focus.** `ko [word]` — singles one part out against the others; it lands wherever the weight belongs and moves nothing else in the sentence. Taught in ch. 30.
+
+```
+ko lopia to shua.
+FOC child PST come.
+(It was the child who came.)
+```
+
+**P47 · Restriction.** `li [word]` — fences the claim to that one and shuts the others out. It never counts; a numeral does that work. Taught in ch. 30.
+
+```
+misheko li nuora rinu.
+cat RESTR food want.
+(The cat wants only food.)
 ```
 
 ## Coverage notes
