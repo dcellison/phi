@@ -36,4 +36,4 @@ OPT UNIV creature joy heart hold.
 (May every creature hold a joyful heart.)
 ```
 
-Reading the full text aloud practises both its loving-kindness teaching and the sound of Phi. Repetition can make the forms familiar, while attention to the source keeps pronunciation from replacing meaning. The text is available at `texts/metta_sutta.md`; a reader may take one verse or the whole work.
+Reading the full text aloud practises both its loving-kindness teaching and the sound of Phi. Repetition can make the forms familiar, while attention to the source keeps pronunciation from replacing meaning. The full text waits on the Phi text shelf; a reader may take one verse or the whole work.

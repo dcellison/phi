@@ -20,7 +20,7 @@ The aesthetic choice is narrower: the sounds themselves belong to the designed o
 
 ## Restraint belongs to design
 
-An individual lexicon entry may record a sound association when the complete word offers an honest mnemonic. The following chapter gives the full account of `sound_symbolism` and discusses the deliberate relationship between the words for sun and star. Such links belong where the lexicon records them; resemblance alone proves nothing.
+An individual lexicon entry may record a sound association when the complete word offers an honest mnemonic. The following chapter gives the full account of sound symbolism and discusses the deliberate relationship between the words for sun and star. Such links belong where the lexicon records them; resemblance alone proves nothing.
 
 Without that restraint, a description can assign a moral quality to each consonant and discover a tiny philosophy inside every syllable. Current Phi begins with the physical word and keeps sound symbolism optional. An image may help someone remember a form, but it never supplies the definition.
 

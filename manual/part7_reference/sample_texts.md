@@ -2,7 +2,7 @@
 
 Complete, validated Phi for reading practice, from two-line exchanges to whole texts. Every word here exists in the lexicon; every construction is taught in Parts IV and V.
 
-For a sustained original Phi dialogue, read `texts/care_and_coercion.md`. Its two speakers test danger, refusal, consent, evidence, and authority without arriving at a complete conclusion. The shorter dialogues in `documents/evaluation/philosophical_test_corpus.md` are regression cases rather than literature: their unresolved questions are part of their purpose.
+For a sustained original Phi dialogue, read *When Care Becomes Coercion* on the text shelf. Its two speakers test danger, refusal, consent, evidence, and authority without arriving at a complete conclusion.
 
 ## Dialogues
 
@@ -110,7 +110,7 @@ The five Tao chapters bring the comparison into a workshop. One version describe
 
 A **translation** keeps the source's claims and distinctions, along with its images and force, while letting Phi grammar do its own work. A **transmutation** may recast the source in Phi's own terms. Its citations and gap log make the distance visible. An **original** takes Phi as its source; the English is a close reading rather than a prior text waiting to be rendered. All three methods can compose a missing term or coin a word. What changes is the work each owes to a source, or to the propositions it makes on its own.
 
-The complete texts live in `texts/`. Each short work has one file; a longer book has its own directory, where the chapters and their shared source stay together. Translations and transmutations place source wording beneath their Phi, glosses, and back-translations where publication permits it. Original work uses three-line blocks because Phi is the source, then records its propositions and lexical pressure separately. Ten are the manual's touchstones.
+The complete texts live on the Phi text shelf. Each short work has one file; a longer book has its own directory, where the chapters and their shared source stay together. Translations and transmutations place source wording beneath their Phi, glosses, and back-translations where publication permits it. Original work uses three-line blocks because Phi is the source, then records its propositions and lexical pressure separately. Ten are the manual's touchstones.
 
 ***lothea thole*** (The Practice of Love) is a translation of the Karaniya Metta Sutta: ten verses of loving-kindness carried almost entirely by the optative `su`. Its refrain is the language in one line:
 

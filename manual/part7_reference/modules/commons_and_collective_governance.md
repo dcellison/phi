@@ -4,7 +4,7 @@ A council votes to allocate the season's grain, one member abstains, and someone
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an authority, a lawyer, or a rightful decider for anyone else.
 
-The chapter table below introduces 29 module roots. Current classifications bring the optional learning list to 53 words; base `sirami`, `kawhera`, and `whepelo` are taught alongside it. The complete machine-generated list is available under [Commons and Collective Governance in the module lexicon](../lexicon/by_module.md#commons-and-collective-governance). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 29 module roots. Current classifications bring the optional learning list to 53 words; base `sirami`, `kawhera`, and `whepelo` are taught alongside it. The complete list is under [Commons and Collective Governance in the module lexicon](../lexicon/by_module.md#commons-and-collective-governance).
 
 ## Core vocabulary used by the module
 
@@ -42,7 +42,7 @@ Ten established words give the path its concrete collective forms, group roles, 
 
 ## Records, coercion, and retaliation belong to base vocabulary
 
-Their canonical entries have no `modules` field. A person may write down what happened before any institution sees the page. Coercion can occur in a private relationship, and retaliation may follow an ordinary refusal. Governance gives these acts institutional forms, but no institution is required before a speaker can name them.
+Neither word belongs to a module. A person may write down what happened before any institution sees the page. Coercion can occur in a private relationship, and retaliation may follow an ordinary refusal. Governance gives these acts institutional forms, but no institution is required before a speaker can name them.
 
 ## Module roots introduced in this chapter
 

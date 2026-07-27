@@ -8,7 +8,7 @@ Phi leaves room for that intuition without making a law of it. A sound may help 
 
 The body gives Phi a firmer place to begin. Air narrows or stops. The lips meet, the tongue touches the teeth or the roof of the mouth, and each vowel changes the shape of the passage. Stress gives one syllable more weight. Hiatus asks adjacent vowels to remain two distinct syllables.
 
-These are observable facts about saying a word. An entry's `articulatory_notes` follows the complete form through the mouth so a speaker can reproduce it. The note may still have rhythm and warmth, but it does not need to make the tongue's every movement stand for an idea.
+These are observable facts about saying a word. Every dictionary entry carries a physical account that follows the complete form through the mouth, so a speaker can reproduce it. The note may still have rhythm and warmth, but it does not need to make the tongue's every movement stand for an idea.
 
 ## Symbolism when it earns its place
 
@@ -16,4 +16,4 @@ Sound symbolism begins after that physical account, and only when there is somet
 
 Deliberate lexical kinship is more concrete. *sileta* (sun) and *silero* (star) share their opening because the sun is a star. The resemblance belongs to those words; `sile` is not a reusable root hidden inside every form that happens to contain it.
 
-The optional `sound_symbolism` field records associations of this kind. Omitting it is more accurate than inventing a story after the word already exists. Phi listens for sound and meaning together, but it does not require them to pretend they have always agreed.
+The dictionary records an association of this kind where one is genuinely there, and says nothing where it is not. That silence is more accurate than inventing a story after the word already exists. Phi listens for sound and meaning together, but it does not require them to pretend they have always agreed.

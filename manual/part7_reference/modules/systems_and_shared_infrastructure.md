@@ -4,7 +4,7 @@ The pump that fills the cistern draws power from the same line as the mill, and 
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an engineer and grants no authority over the systems they describe.
 
-The chapter table below introduces 33 module roots. Shared classifications bring the optional learning list to 50 words; base `phelure` store is taught alongside it. The complete machine-generated list is available under [Systems and Shared Infrastructure in the module lexicon](../lexicon/by_module.md#systems-and-shared-infrastructure). The JSON entries in `vocabulary/content/` remain authoritative for each word's form and full definition.
+The chapter table below introduces 33 module roots. Shared classifications bring the optional learning list to 50 words; base `phelure` store is taught alongside it. The complete list is under [Systems and Shared Infrastructure in the module lexicon](../lexicon/by_module.md#systems-and-shared-infrastructure).
 
 ## Core vocabulary used by the module
 
@@ -46,7 +46,7 @@ Several words reach Systems from another learning path or from older base-vocabu
 
 ## Storage belongs to base vocabulary
 
-`phelure` has no `modules` field. A jar stores food and a cistern stores water before either becomes a system under analysis. The Systems chapter keeps the verb close because capacity and retrieval conditions often make storage technical, but the act itself is ordinary.
+`phelure` belongs to no module. A jar stores food and a cistern stores water before either becomes a system under analysis. The Systems chapter keeps the verb close because capacity and retrieval conditions often make storage technical, but the act itself is ordinary.
 
 ## Module roots introduced in this chapter
 
@@ -91,7 +91,7 @@ Several words reach Systems from another learning path or from older base-vocabu
 | `hosari` | noun | correlation; variables differing together across observations | Correlation reports an observed relation without supplying a cause. |
 | `naropu` | noun | feedforward; control acting from an input before output returns | Feedforward differs from feedback and from prediction without control action. |
 
-The verbs used in this chapter receive their event or result nouns through Phi's ordinary event-noun rule: `kelitho` can name a function, `pherami` a dependency, `sekaru` a transfer, `ketora` control, `phelure` storage, `masuro` calibration, `thonuki` failure, and `nilaki` inspection. The adjectives `poruli`, `wepanu`, and `koluri` likewise name efficiency, redundancy, and reliability through the quality-noun rule; their entries remain adjective-only as required by the lexicon schema. All nine electrical and analytical roots are nouns, so the module gains no special derivation or technical grammar.
+The verbs used in this chapter receive their event or result nouns through Phi's ordinary event-noun rule: `kelitho` can name a function, `pherami` a dependency, `sekaru` a transfer, `ketora` control, `phelure` storage, `masuro` calibration, `thonuki` failure, and `nilaki` inspection. The adjectives `poruli`, `wepanu`, and `koluri` likewise name efficiency, redundancy, and reliability through the quality-noun rule; their entries stay adjective-only, as the lexicon requires. All nine electrical and analytical roots are nouns, so the module gains no special derivation or technical grammar.
 
 ## Systems, components, functions, and states
 

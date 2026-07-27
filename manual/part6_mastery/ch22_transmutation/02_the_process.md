@@ -13,7 +13,7 @@ This step is where the methods separate. A translator asks which details make th
 Now open the lexicon and search by meaning rather than by one English headword. Three places deserve inspection:
 
 1. A single word. `womu` (home) and `henoi` (enough) each carry a distinction that may take a phrase in English.
-2. The compound registry (`documents/reference/compounds.md`). Established expressions such as `korua thero` (heart-fire: anger) and `remo kire` (thought-shape: a fixed view) are stable parts of Phi.
+2. The compound registry (Part VII). Established expressions such as `korua thero` (heart-fire: anger) and `remo kire` (thought-shape: a fixed view) are stable parts of Phi.
 3. A transparent composition. `pheralu philo` makes a rain-day without requiring a separate word for every kind of day. A composition that develops a stable shared meaning may belong in the registry.
 
 After checking those places, compare composition with coinage instead of treating either as a last resort. A transmutation may also reframe the source, and its gap log records that choice. A new root follows the Word Creation Protocol and is settled before the passage is finished rather than improvised inside a sentence.
@@ -34,17 +34,13 @@ Where the language resists the original, pause. An exact unit may need its sourc
 
 ## Step 5: Validate
 
-Every Phi word in your text must exist in the lexicon with the meaning you are using. Check the words you are least sure of with the lexicon tools, and if the text will live in the repository, run the validator:
-
-```bash
-python3 scripts/validate_examples.py
-```
+Every Phi word in your text must exist in the lexicon with the meaning you are using. Check the ones you are least sure of in the lexicon, one at a time, before the passage hardens around a form that is not there.
 
 The Metta Sutta translation contains no unknown forms. A transmutation has the same obligation: every Phi word in it must exist. Otherwise the passage is a wish for vocabulary, not a finished text.
 
 ## The five moves
 
-Inside steps 2 through 4, the same five moves recur: the repertoire the shelf's texts were built with. The Tao Te Ching text (`texts/tao_te_ching.md`) names them inline as a worked guide; here is the repertoire itself, each move with the shelf's clearest demonstrations.
+Inside steps 2 through 4, the same five moves recur: the repertoire the shelf's texts were built with. The Tao Te Ching on the text shelf names them inline as a worked guide; here is the repertoire itself, each move with the shelf's clearest demonstrations.
 
 ### The refusal
 

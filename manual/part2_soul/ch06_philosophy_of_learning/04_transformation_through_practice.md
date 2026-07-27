@@ -6,7 +6,7 @@ Practice changes what a learner can do. Repetition helps a form become available
 
 ## Attention without mythology
 
-Pronunciation can bring attention to breath, contact, stress, and vowel boundaries. It does not give every sound a philosophical meaning. Phi's `sound_symbolism` is optional and local to a word or documented family, while `articulatory_notes` carries the physical account a learner can check.
+Pronunciation can bring attention to breath, contact, stress, and vowel boundaries. It does not give every sound a philosophical meaning. Sound symbolism in Phi is optional and local to a word or a documented family, while the dictionary's account of how a word is spoken gives a learner something to check.
 
 Grammar practice is similarly concrete. Choosing `hi` rather than `ke` requires a source distinction. Placing tense before aspect and evidence requires the Slot 1 order. Repeating those choices makes them come more readily to hand.
 

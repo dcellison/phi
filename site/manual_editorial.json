@@ -547,7 +547,7 @@
       "variant": "standard"
     },
     "manual/part6_mastery/ch22_transmutation/02_the_process.md": {
-      "shape": "h1,2,2,2,2,2,2,3,3,3,3,3,2;t-;f1;q-;u3;o3;r0",
+      "shape": "h1,2,2,2,2,2,2,3,3,3,3,3,2;t-;f-;q-;u3;o3;r0",
       "variant": "standard"
     },
     "manual/part6_mastery/ch22_transmutation/03_case_study_anger.md": {
@@ -603,7 +603,7 @@
       "variant": "standard"
     },
     "manual/part7_reference/README.md": {
-      "shape": "h1;t2x8;f1;q-;u-;o-;r0",
+      "shape": "h1;t2x8;f-;q-;u-;o-;r0",
       "variant": "directory"
     },
     "manual/part7_reference/compounds.md": {
@@ -664,7 +664,7 @@
       "variant": "appendix"
     },
     "manual/appendices/appendix_c_resources.md": {
-      "shape": "h1,2,2,2,2;t2x16;f-;q-;u5,6;o-;r0",
+      "shape": "h1,2,2,2,2;t2x8;f-;q-;u5,6;o-;r0",
       "variant": "appendix"
     },
     "colophon.md": {
