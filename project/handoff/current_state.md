@@ -1,6 +1,6 @@
 # Current state
 
-This snapshot was first assembled after pull request #418 merged on 17 July 2026 and is current through pull request #617 on 27 July 2026. It covers D055, the completed SEM-09D corpus retrofit, the finished book, and the practice-complete pamphlet shelf. It also records the writing-system consolidation that made Tengwar Phi's sole alternative to romanization, the four renderer-led shelf identities, and the complete entrance sequence for Kia, the Short Road, and the Phi Book contents page. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
+This snapshot was first assembled after pull request #418 merged on 17 July 2026 and is current through pull request #619 on 27 July 2026. It covers D055 and the completed SEM-09D corpus retrofit. The finished book, the practice-complete pamphlet shelf, and the first four chapters of *News from Nowhere* are current here as well. It also records the writing-system consolidation that made Tengwar Phi's sole alternative to romanization, the four renderer-led shelf identities, and the complete entrance sequence for Kia, the Short Road, and the Phi Book contents page. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
 
 ## Active execution sequence
 
@@ -127,7 +127,7 @@ The shelf's method distinction remains settled:
 
 Chapter 4, "A Market by the Way", now joins the sequence. Its six movements carry 121 non-overlapping source citations and cover every source word except the chapter heading. The chapter follows the restored creek into Hammersmith market, gives Dick his theatre doors, and rebuilds the "poor/poorly" joke around contextual `huwa`, weak. Guest leaves the relevant pressure unnamed, Guide hears bodily weakness, and only the clarification names insufficient resources. No root was needed. The repeated market reading registers `wisola lokue`, exchange-place.
 
-The maintainer has settled the vocabulary ruling for the novel: every voice may use the full vocabulary, including optional modules, whenever the concept fits. The narrator does not receive a broader lexicon than the future people. The chapter 4 preflight also checked chapters 1 through 3 against the current retired-form and four-syllable migration lists and found no surviving form. Lexicon words remain capped at three syllables; four syllables belong only to productive names.
+The maintainer has settled the vocabulary ruling for the novel: every voice may use the full vocabulary, including optional modules, whenever the concept fits. The narrator and the future people share one lexicon. The chapter 4 preflight checked chapters 1 through 3 for retired lexical forms and for four-syllable tokens mistakenly left in lexical use; none remained, and chapter 4 validates under the same rule. Canon's three-syllable ceiling covers module roots too. A fourth syllable is available only under the productive-name charter.
 
 Future work on the novel begins with `.claude/skills/transmute/SKILL.md`, the guide written from chapter 1's failures. It applies to one repaired line as firmly as to a new chapter. Read every existing chapter end to end before drafting. The conventions can be listed, but their pace lives in the chapters.
 
