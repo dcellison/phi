@@ -5750,14 +5750,8 @@ def split_catalogued_text_title(work):
 
 
 def text_contents_title(work):
-    """Render one catalogue title in romanized Phi and Tengwar."""
-    phi_title, english_title = split_catalogued_text_title(work)
-    tengwar_title = tengwar.render_line(phi_title)
-    if tengwar_title is None:
-        raise ValueError(
-            f"text catalogue title cannot render in Tengwar: texts/{work['path']}"
-        )
-    return phi_title, english_title, tengwar_title
+    """Split one catalogue title into its romanized Phi and English halves."""
+    return split_catalogued_text_title(work)
 
 
 def text_contents_arrow():
@@ -5808,7 +5802,7 @@ def text_contents_page(news_chapter_count):
     work_rows = []
     for index, work in enumerate(TEXTS, 1):
         spec = method_specs[work["method"]]
-        phi_title, english_title, tengwar_title = text_contents_title(work)
+        phi_title, english_title = text_contents_title(work)
         href = f"{Path(work['path']).stem}.html"
         work_rows.append(
             f'<li class="text-index-entry text-index-entry-{spec["kind"]}">'
@@ -5822,15 +5816,13 @@ def text_contents_page(news_chapter_count):
             "</div>"
             '<div class="text-index-entry-meta">'
             f'<p class="text-index-entry-method">{html_module.escape(spec["label"])}</p>'
-            f'<div class="text-index-entry-tengwar" aria-hidden="true">'
-            f"{tengwar_title}</div>"
             "</div>"
             f"{text_contents_arrow()}"
             "</a></li>"
         )
 
     news_spec = method_specs[NEWS_WORK["method"]]
-    news_phi, news_english, news_tengwar = text_contents_title(NEWS_WORK)
+    news_phi, news_english = text_contents_title(NEWS_WORK)
     chapter_noun = "chapter" if news_chapter_count == 1 else "chapters"
     book_entry = (
         '<section class="text-index-book" aria-labelledby="text-index-book-heading">'
@@ -5856,8 +5848,6 @@ def text_contents_page(news_chapter_count):
         f'{html_module.escape(news_spec["label"])}</p>'
         f'<p class="text-index-book-progress">{news_chapter_count:02d} '
         f"{chapter_noun} available</p>"
-        f'<div class="text-index-entry-tengwar" aria-hidden="true">'
-        f"{news_tengwar}</div>"
         "</div>"
         f"{text_contents_arrow()}"
         "</a></section>"

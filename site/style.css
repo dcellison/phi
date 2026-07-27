@@ -2282,20 +2282,6 @@ table.primer-ladder {
 .text-index-entry-original .text-index-entry-method {
   color: var(--sage);
 }
-.text-index-entry-tengwar {
-  color: var(--muted);
-  margin: .65rem 0 0 auto;
-  max-width: 12rem;
-  opacity: .68;
-  width: 100%;
-}
-.text-index-entry-tengwar .teng-svg {
-  display: block;
-  height: 1.65rem !important;
-  margin-left: auto;
-  max-width: 100%;
-  width: auto;
-}
 .text-index-arrow {
   color: var(--muted);
   display: flex;
@@ -4379,13 +4365,6 @@ table.text-ledger {
   }
   .text-index-entry-method,
   .text-index-book-progress { text-align: left; }
-  .text-index-entry-tengwar {
-    flex-basis: 100%;
-    margin-left: 0;
-    margin-top: .3rem;
-    max-width: 12rem;
-  }
-  .text-index-entry-tengwar .teng-svg { margin-left: 0; }
   .text-index-arrow {
     align-self: center;
     grid-column: 3;
@@ -5141,7 +5120,6 @@ table.text-ledger {
     grid-template-columns: 2.5em minmax(0, 1fr) 11em;
   }
   .text-index-arrow { display: none; }
-  .text-index-entry-tengwar .teng-svg { height: 1.35em !important; }
   .text-editorial .text-work-header h1 { font-size: 2.5em; }
   .text-editorial h2.text-method-heading { font-size: 1.75em; }
   .text-editorial h3 { break-after: avoid; }
