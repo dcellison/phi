@@ -43,12 +43,12 @@ The rendering states an accusation, a feeling, and a requested change in separat
 The Metta Sutta translation adds one more instrument: the ablative `lue` (from). When anger drives an act, Phi names the fire as the act's *source*:
 
 ```
-su mawha miona lue korua thero wei shia peloma pula.
-OPT NONE person ABL heart fire DAT 3SG harmful wish.
-(May no one, from the fire of the heart, wish harm upon another.)
+su mawha miona lue korua thero sola lue laeno thimu korua thero wei shia peloma pula.
+OPT NONE person ABL heart fire DISJ ABL long time heart fire DAT 3SG harmful wish.
+(May no person, from heart-fire or long-held heart-fire, wish harm to another.)
 ```
 
-*From* the fire, not *as* the fire. The person and the anger remain distinct, a distinction that can leave room for both compassion and change.
+*From* the fire, not *as* the fire. The line names two of them, the sudden and the long-held, and in both the person and the anger remain distinct, a distinction that can leave room for both compassion and change.
 
 ## What transmutation preserved and what it transformed
 
