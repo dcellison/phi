@@ -364,9 +364,9 @@ COND PL 2SG want. PL 2SG ON PROX one different name POT tie.
 (And if you please, you may tie another name onto it.)
 morris: "and add William to it if you please.\""
 
-ne kulo roe koma wei mia phena kiroa to loa. whekai thiku weshoru kire leo ne selomi menoa to wepu. shia to haolu.
-NAME kulo INS head DAT 1SG kind sign PST give. CONTR small anxious shape ABOVE NAME selomi face PST go. 3SG PST speak.
-(Guide gave me a kind head-sign; but a small anxious look passed over the weaver's face, and he said:)
+ne kulo roe koma wei mia phena kiroa to loa. whekai la weshoru kire leo ne selomi menoa to wepu. shia to haolu.
+NAME kulo INS head DAT 1SG kind sign PST give. CONTR ATTEN anxious shape ABOVE NAME selomi face PST go. 3SG PST speak.
+(Guide gave me a kind head-sign; but a slightly anxious look passed over the weaver's face, and he said:)
 morris: "Dick nodded kindly to me; but a shade of anxiousness passed over the weaver's face, and he said--"
 
 su mia thilou wei thia peloma ma nai. whekai thia lue kua shua. pi no wei mia shane.
