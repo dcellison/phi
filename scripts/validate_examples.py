@@ -1596,9 +1596,9 @@ def gloss_line_tokens(gloss_line):
 def check_gloss_lines(rel, text, lexicon_words, gloss_of):
     """The gloss-line lint: the line beneath a full Phi line (fenced, or
     a full-line bold example) must render each word by its lexicon gloss,
-    verbatim. Guards: lines containing '(' are translations, next-lines
-    that are themselves Phi are continuations, and a line only counts as
-    a gloss line when most of its tokens come from gloss vocabulary."""
+    verbatim. Guards: lines beginning with '(' are translations, next-lines
+    that are themselves Phi are continuations, and a line only counts as a
+    gloss line when most of its tokens come from gloss vocabulary."""
     errors = []
     gloss_vocab = set()
     for g in gloss_of.values():
@@ -1631,7 +1631,7 @@ def check_gloss_lines(rel, text, lexicon_words, gloss_of):
         if nxt.strip().startswith("```"):
             continue
         gl = re.sub(r"^\s*(?:>\s*)?", "", nxt).strip().strip("*")
-        if not gl or "(" in gl or gl[0] in "\"“":
+        if not gl or gl.startswith("(") or gl[0] in "\"“":
             continue  # translation line, not a gloss line
         if is_phi_line(gl.lower(), lexicon_words):
             continue

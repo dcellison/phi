@@ -77,6 +77,31 @@ class VocabularySchemaTests(unittest.TestCase):
             with self.subTest(path=rel):
                 self.assertEqual(validate_examples.entry_schema_errors(entry), [])
 
+    def test_gloss_lint_checks_parenthetical_disambiguators(self):
+        words = set(self.by_word)
+        glosses = {
+            word: entry["gloss"] for word, entry in self.by_word.items()
+        }
+        text = "```\nmueli womu nai.\nplain (unadorned) home be.\n```"
+        errors = validate_examples.check_gloss_lines(
+            "example.md", text, words, glosses
+        )
+        self.assertEqual(len(errors), 1)
+        self.assertIn("gloss line mismatch", errors[0])
+
+    def test_gloss_lint_still_skips_parenthetical_translations(self):
+        words = set(self.by_word)
+        glosses = {
+            word: entry["gloss"] for word, entry in self.by_word.items()
+        }
+        text = "```\nmueli womu nai.\n(The house is plain.)\n```"
+        self.assertEqual(
+            validate_examples.check_gloss_lines(
+                "example.md", text, words, glosses
+            ),
+            [],
+        )
+
     def test_part_of_speech_is_one_scalar_value(self):
         entry = copy.deepcopy(self.by_word["sileta"])
         entry["pos"] = [entry["pos"]]
