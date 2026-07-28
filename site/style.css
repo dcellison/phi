@@ -2334,6 +2334,7 @@ table.primer-ladder {
   border-bottom: 1px solid var(--hairline);
   margin-bottom: 1.5rem;
   padding-bottom: 1rem;
+  text-align: left;
 }
 .text-work-meta {
   align-items: baseline;
