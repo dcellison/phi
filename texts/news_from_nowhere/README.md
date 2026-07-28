@@ -1,6 +1,6 @@
 # *News from Nowhere*
 
-William Morris's novel belongs here as one work. The book has 32 chapters; the first five are transmuted below, and later chapters will join the same sequence. The complete [source witness](source.txt) sits beside them so every chapter can cite one shared text.
+William Morris's novel belongs here as one work. The book has 32 chapters; the first six are transmuted below, and later chapters will join the same sequence. The complete [source witness](source.txt) sits beside them so every chapter can cite one shared text.
 
 ## Chapters
 
@@ -11,3 +11,4 @@ William Morris's novel belongs here as one work. The book has 32 chapters; the f
 | 3 | The Guest House and Breakfast Therein | [Read chapter 3](chapter_03.md) |
 | 4 | A Market by the Way | [Read chapter 4](chapter_04.md) |
 | 5 | Children on the Road | [Read chapter 5](chapter_05.md) |
+| 6 | A Little Shopping | [Read chapter 6](chapter_06.md) |
