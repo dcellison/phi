@@ -129,19 +129,19 @@ PROX PL 1SG TOWARD REL go forest portion AS garden PASS name.
 (The part of the forest we are approaching is named as gardens.)
 morris: "This part we are just coming to is called Kensington Gardens;"
 
-ne kulo sha whekai misa mia ma sano sho to haolu.
-NAME kulo QUOT.COMP CONTR why 1SG NEG know QUOT.COMP.CLOSE PST speak.
+ne kulo sha whekai mia misa ma sano sho to haolu.
+NAME kulo QUOT.COMP CONTR 1SG why NEG know QUOT.COMP.CLOSE PST speak.
 (Guide finished, "But why, I do not know.")
 morris: "though why 'gardens' I don't know.\""
 
-mia tha mia sha whekai mia sano sho haolu tho to rinu.
-1SG DECL.COMP 1SG QUOT.COMP CONTR 1SG know QUOT.COMP.CLOSE speak DECL.COMP.CLOSE PST want.
+mia tha mia sha whekai ko mia sano sho haolu tho to rinu.
+1SG DECL.COMP 1SG QUOT.COMP CONTR FOC 1SG know QUOT.COMP.CLOSE speak DECL.COMP.CLOSE PST want.
 (I wanted to say, "But I know.")
 morris: "I rather longed to say, \"Well, _I_ know\";"
 
-whekai mua roa mia sheloi thena mia to ma sano.
-CONTR LOC AROUND 1SG MANY thing 1SG PST NEG know.
-(But there were many things around me that I did not know.)
+whekai sheloi thena roa mia to nai. mia lo shia ko ma sano.
+CONTR MANY thing AROUND 1SG PST be. 1SG PL 3SG FOC NEG know.
+(But there were many things around me. I did not know them.)
 morris: "but there were so many things about me which I did _not_ know,"
 
 shai ne kulo tha mia lo shia sano tho to ho remo.
@@ -169,9 +169,9 @@ CONTR LOC north portion forest INTS wide PST be.
 (But on the north side it was plainly much wider.)
 morris: "but obviously much further on the north side,"
 
-mua ra lo wi shiro likori lo shiro to welao thuroa.
-LOC DIST PL two tree species PL tree PST good grow.
-(There the trees of two named kinds had grown well.)
+wi shiro likori lo shiro mua ra to welao thuroa.
+two tree species PL tree LOC DIST PST good grow.
+(There the trees of two kinds had grown well.)
 morris: "where even the oaks and sweet chestnuts were of a good growth;"
 
 lo reshi thuroa shiro to nai.
@@ -265,9 +265,9 @@ SOME LOC forest edge PST wander.
 (Others wandered along the forest's edges.)
 morris: "or wandering in the edges of the wood."
 
-thoa lo shia sheloi lopia nela helia to nai.
-AMONG PL 3SG MANY child COORD youth PST be.
-(Among them were many children and young people.)
+sheloi lopia nela sheloi helia thoa lo shia to nai. soli lopia wi shao sola wi shao wi torua to phelu. soli helia ta phoi wi shao ta sola ta phoi wi shao wi torua to phelu.
+MANY child COORD MANY youth AMONG PL 3SG PST be. SOME child two three-group DISJ two three-group two year PST hold. SOME youth one nine-group two three-group one DISJ one nine-group two three-group two year PST hold.
+(Among them were many children and youths. Some children were six or eight years old; some youths were sixteen or seventeen.)
 morris: "Amongst these were many children from six or eight years old up to sixteen or seventeen."
 
 lo shia weloni ru wolu nela kema to ka nila.
@@ -310,8 +310,8 @@ PL 1SG one DISJ two home PST DIR see.
 (Indeed, we caught sight of one or two.)
 morris: "and indeed we caught a glimpse of one or two."
 
-shia sha shelami lo womu ru thiku nai sho to haolu.
-3SG QUOT.COMP MOST PL home INTS small be QUOT.COMP.CLOSE PST speak.
+shia sha shelami womu ru thiku nai sho to haolu.
+3SG QUOT.COMP MOST home INTS small be QUOT.COMP.CLOSE PST speak.
 (He said, "Most of the houses are quite small.")
 morris: "He said they were mostly quite small,"
 
@@ -390,8 +390,8 @@ mia tha sheloi pharea mua keloi mua lo shelira so menui tho na shane.
 (I must tell you that many adults will live in the forests through summer.)
 morris: "Indeed, I must tell you that many grown people will go to live in the forests through the summer;"
 
-whekai shelami lo shia wea lo mo whalo shelira ro wepu.
-CONTR MOST PL 3SG TOWARD PL CMPR large forest HAB go.
+whekai shelami shia wea lo mo whalo shelira ro wepu.
+CONTR MOST 3SG TOWARD PL CMPR large forest HAB go.
 (Most of them go to larger forests.)
 morris: "though they for the most part go to the bigger ones,"
 
@@ -410,8 +410,8 @@ PROX PL 3SG small rough labor give.
 (It gives them a little rough work.)
 morris: "it gives them a little rough work,"
 
-mia nuhe phaelo. mia tha sui luera sheloi torua ha riola to pa mo phina kelu tho shane.
-1SG sadness feel. 1SG DECL.COMP DUR past MANY year PROX labor PST INCH CMPR FEW become DECL.COMP.CLOSE tell.
+mia nuhe phaelo. mia tha ha riola sui sheloi luera torua to pa mo phina kelu tho shane.
+1SG sadness feel. 1SG DECL.COMP PROX labor DUR MANY past year PST INCH CMPR FEW become DECL.COMP.CLOSE tell.
 (I am sorry. I tell you that over many past years this work has become scarcer.)
 morris: "which I am sorry to say is getting somewhat scarce for these last fifty years.\""
 
@@ -451,7 +451,7 @@ NAME kulo QUOT.COMP CONTR 1SG family person DAT 2SG PROX FUT CMPR explain QUOT.C
 morris: "but my kinsman will tell you more about it.\""
 ```
 
-**Notes:** Morris's age counts remain exact in his witness. Phi names children and youths without replacing those source years with a second official boundary. His "specimens of their race" becomes what Guest can actually claim from the road: the young people look healthy and strong, and their delight is plain. The shelters are temporary, not lesser homes, and the fires with pots above them keep the camp's working shape. Morris's "gipsy fashion" remains visible as historical wording in the citation rather than becoming a Phi category for people. The old cottages are small homes from a society in which some people were not free. This keeps slavery present without turning a human being into a lexical kind. The precise fifty-year record also stays with Morris. Phi says what Dick can say without an exact ledger in the sentence: the work has become scarcer over many years.
+**Notes:** The children range from six or eight to sixteen or seventeen, and the Phi line keeps those ages because they help us see the gathering Morris saw. His "specimens of their race" becomes what Guest can actually claim from the road: the young people look healthy and strong, and their delight is plain. The shelters are temporary, not lesser homes, and the fires with pots above them keep the camp's working shape. Morris's "gipsy fashion" remains visible as historical wording in the citation rather than becoming a Phi category for people. The old cottages are small homes from a society in which some people were not free. This keeps slavery present without turning a human being into a lexical kind. Dick's fifty years remain exact in Morris's witness; in Phi he says that the work has become scarcer over many past years. The span matters here, but no particular anniversary does.
 
 ## ra phelui — That word
 
@@ -516,9 +516,9 @@ shia sha mia tha mia ha ma shelomu tho na kelomi sho to haolu.
 (He said, "I must admit that I do not understand it.")
 morris: "\"I must own myself beaten.\""
 
-mia sha nuo sho to remo.
-1SG QUOT.COMP um QUOT.COMP.CLOSE PST think.
-(I thought, "Um.")
+mia sha mia pasharo phaelo sho to remo.
+1SG QUOT.COMP 1SG frustrated feel QUOT.COMP.CLOSE PST think.
+(I thought, "I feel frustrated.")
 morris: "Hang it! thought I,"
 
 lu mia phulae phae. phirae remo tiwa ro shua.
@@ -622,8 +622,8 @@ NONE REL POT NEG swim PROX child be.
 (There is no child here who cannot swim.)
 morris: "Why, you will not find one of these children about here, boy or girl, who cannot swim;"
 
-theula lo shia nia lo thiku shelira kalora ro wile.
-UNIV PL 3SG ON PL small forest horse HAB play.
+theula shia nia lo thiku shelira kalora ro wile.
+UNIV 3SG ON PL small forest horse HAB play.
 (Every one of them plays on the little forest horses.)
 morris: "and every one of them has been used to tumbling about the little forest ponies--there's"
 
@@ -632,8 +632,8 @@ DIST one now be.
 (There is one now.)
 morris: "one of them now!"
 
-theula lo shia thela pharelo sano.
-UNIV PL 3SG how cook know.
+theula shia thela pharelo sano.
+UNIV 3SG how cook know.
 (They all know how to cook.)
 morris: "They all of them know how to cook;"
 
@@ -642,8 +642,8 @@ PL CMPR tall youth grass POT cut.
 (The bigger young people can cut grass.)
 morris: "the bigger lads can mow;"
 
-sheloi lo shia whelina toru po kealo.
-MANY PL 3SG grass roof POT create.
+sheloi shia whelina toru po kealo.
+MANY 3SG grass roof POT create.
 (Many can make grass roofs.)
 morris: "many can thatch"
 
@@ -717,9 +717,9 @@ MOST child PL REL AROUND lie down book HAB see.
 (Most children see books lying around them.)
 morris: "Most children, seeing books lying about,"
 
-mua ru limu thimu lo shia theo ro shonela.
-LOC INTS young time PL 3SG read HAB learn.
-(They generally learn to read while very young.)
+phoe lo shia ta shao ta torua phelu lo shia theo ro shonela.
+ANT PL 3SG one three-group one year hold PL 3SG read HAB learn.
+(Before they are four years old, they generally learn to read.)
 morris: "manage to read by the time they are four years old;"
 
 whekai mia tha ha theula thimu phea nosa to ma nai tho ti shane.
@@ -798,7 +798,7 @@ NAME kulo QUOT.COMP ADD 1SG POT beautiful write QUOT.COMP.CLOSE PST speak.
 morris: "being myself a fair-writer.\""
 ```
 
-**Notes:** Guide's answer refuses the narrator's split between bodily work and mental work. Swimming and cooking call for `thesani`, skill. So do mowing and thatching, work in wood, and keeping an exchange-place. Each gives thought something real to do. Morris sorts the children as boys and girls, then calls older youths lads; Phi keeps age and ability visible without dividing skill by sex. Dorsetshire and the age of four remain exact in the witness. So do printing and the source craft title "fair-writer." Phi gives the relations they establish. A very young child learns to read, and a device produces plain writing quickly. Guide himself can make beautiful writing. His lambs remain Morris's joke. Phi lets him notice that he has wandered away from the children instead of turning them into a flock.
+**Notes:** Guide's answer refuses the narrator's split between bodily work and mental work. Swimming and cooking call for `thesani`, skill. So do mowing and thatching, work in wood, and keeping an exchange-place. Each gives thought something real to do. Morris sorts the children as boys and girls, then calls older youths lads; Phi keeps age and ability visible without dividing skill by sex. Dorsetshire remains exact in the witness, while the age of four appears in Phi because it is part of Dick's account of how children learn. Printing and the source craft title "fair-writer" stay with Morris. Phi gives the relations they establish: a child generally learns to read before four, and a device produces plain writing quickly. Guide himself can make beautiful writing. His lambs remain Morris's joke. Phi lets him notice that he has wandered away from the children instead of turning them into a flock.
 
 ## lo haluma nela kanu shonela — Languages and chosen learning
 
@@ -848,8 +848,8 @@ PROX two language PL REL LOC PROX PL island CMPR FOC PASS speak language be.
 (These two are principal languages spoken in these islands.)
 morris: "These are the principal languages we speak in these islands,"
 
-lo ta shao phirae haluma nua lo mia ha wi haluma ro haolu.
-PL one three-group different language COM PL 1SG PROX two language HAB speak.
+ta shao phirae haluma nua lo mia ha wi haluma ro haolu.
+one three-group different language COM PL 1SG PROX two language HAB speak.
 (We speak these two alongside three other languages.)
 morris: "along with English or Welsh, or Irish,"
 
@@ -888,8 +888,8 @@ NAME kulo QUOT.COMP yes QUOT.COMP.CLOSE PST speak.
 (Guide said, "Oh, yes.")
 morris: "\"O, yes,\" said he,"
 
-shelami lo shia lo wi tholua haluma nua lo nosa haluma ro shonela.
-MOST PL 3SG PL two ancient language COM PL now language HAB learn.
+shelami shia nua lo nosa haluma wi tholua haluma ro shonela.
+MOST 3SG COM PL now language two ancient language HAB learn.
 (Most learn the two ancient languages along with the modern ones.)
 morris: "\"they mostly learn Latin and Greek along with the modern ones,"
 
@@ -943,8 +943,8 @@ mia sha lo shia phirae hina shonela sho to thilou.
 (I asked, "What else do they learn?")
 morris: "\"what else do they learn?"
 
-mia sha lo shia theula lo luera nophi ke ma shonela sho to haolu.
-1SG QUOT.COMP PL 3SG UNIV PL past story INFER NEG learn QUOT.COMP.CLOSE PST speak.
+mia sha lo shia theula luera nophi ke ma shonela sho to haolu.
+1SG QUOT.COMP PL 3SG UNIV past story INFER NEG learn QUOT.COMP.CLOSE PST speak.
 (I said, "I suppose they do not all learn history.")
 morris: "I suppose they don't all learn history?\""
 
@@ -1028,9 +1028,9 @@ IMP DECL.COMP PL 3SG INTS different be DECL.COMP.CLOSE remember.
 (Remember also how greatly they differ.)
 morris: "and also you must remember how much they differ."
 
-tei pharea maewo shelami lo shia phina nophi shelu li ro theo.
-UNTIL adult threshold MOST PL 3SG FEW story book RESTR HAB read.
-(Until they approach adulthood, most of them read only a few storybooks.)
+shelami shia tei pharea maewo phina nophi shelu li ro theo. ha maewo pai ta phoi wi shao torua nai.
+MOST 3SG UNTIL adult threshold FEW story book RESTR HAB read. PROX threshold NEAR one nine-group two three-group year be.
+(Until they approach adulthood, most of them read only a few storybooks. That threshold is near fifteen years.)
 morris: "As a rule, they don't do much reading, except for a few story-books, till they are about fifteen years old;"
 
 lo mia ru limu shelu shonela ma panoru.
@@ -1058,9 +1058,9 @@ MANY moment PROX short time RESTR HAB endure.
 (Often this lasts only a short while.)
 morris: "and very often it doesn't last long with them,"
 
-phoe lo shia pharea kelu lo shia wei theali shonela ro hekawi.
-ANT PL 3SG adult become PL 3SG DAT fitting learn HAB find.
-(Before they become adults, they usually find the learning that fits them.)
+phoe lo shia wi phoi wi torua phelu lo shia wei theali shonela ro hekawi.
+ANT PL 3SG two nine-group two year hold PL 3SG DAT fitting learn HAB find.
+(Before they are twenty years old, they usually find the learning that fits them.)
 morris: "and they find their level before they are twenty years old."
 
 lo lopia phea lo wheo ro phoa.
@@ -1089,7 +1089,7 @@ CONS PL 1SG DECL.COMP PL book student INTS MANY FUT be DECL.COMP.CLOSE NEC NEG f
 morris: "so I don't think we need fear having too many book-learned men.\""
 ```
 
-**Notes:** the named languages remain exactly where language identity belongs: in Morris's source record. French and German appear across the water. English, Welsh, and Irish belong to the islands; Latin and Greek are the ancient pair. Phi distinguishes those relations without inventing onyms for the languages. Dick's claim about Irish and Welsh receives reported `ti`; the citation preserves the claim without asking Phi to certify it. History becomes stories of past societies, while the study of making and cause follows observable relations: how things are built, and how one change brings about another. The troubled historical periods receive no heroic vocabulary of strife. Society tangles, people do harmful work to one another, and interest in the past rises. The children then return the argument to its proper scale. Exact ages remain with Morris; Phi follows the practical thresholds around childhood and adulthood, and preserves the child's chosen pace.
+**Notes:** The named languages remain exactly where language identity belongs: in Morris's source record. French and German appear across the water. English, Welsh, and Irish belong to the islands; Latin and Greek are the ancient pair. Phi distinguishes those relations without inventing onyms for the languages. Dick's claim about Irish and Welsh receives reported `ti`; the citation preserves the claim without asking Phi to certify it. History becomes stories of past societies, while the study of making and cause follows observable relations: how things are built, and how one change brings about another. The troubled historical periods receive no heroic vocabulary of strife. Society tangles, people do harmful work to one another, and interest in the past rises. The children then return the argument to its proper scale. The practical threshold sits beside a count near fifteen, and Dick's "before twenty" is explicit, without turning either age into a rule for every child.
 
 ## lo shelu thunai — The book-students
 
@@ -1159,8 +1159,8 @@ PL 3SG humble be.
 (They are humble.)
 morris: "so humble,"
 
-lo shia theula miona ru therua thumela. lo shia theula lo whu sano ro phowe.
-PL 3SG UNIV person INTS eager teach. PL 3SG UNIV PL REL know HAB share.
+lo shia theula miona ru therua thumela. lo shia theula whu sano ro phowe.
+PL 3SG UNIV person INTS eager teach. PL 3SG UNIV REL know HAB share.
 (They are eager to teach everyone and share all that they know.)
 morris: "and at the same time so anxious to teach everybody all that they know."
 
@@ -1220,8 +1220,8 @@ mia sukima to phaelo. mia sha thia shia hina ki phoa sho to haolu.
 (I felt terror and asked, "What have you done with it?")
 morris: "\"Why, what have you done with it?\" quoth I in terror."
 
-ne kulo sha lo mia shia hina ki phoa sho to haolu.
-NAME kulo QUOT.COMP PL 1SG 3SG what PFV do QUOT.COMP.CLOSE PST speak.
+ne kulo sha lo ko mia shia hina ki phoa sho to haolu.
+NAME kulo QUOT.COMP PL FOC 1SG 3SG what PFV do QUOT.COMP.CLOSE PST speak.
 (Guide said, "What have we done with it?")
 morris: "\"What have _we_ done with it?\" said he;"
 
@@ -1238,12 +1238,12 @@ morris: "But you know the whole outside was spoiled centuries ago:"
 whekai muwi mioru manolu.
 CONTR interior beautiful stay.
 (The interior remains beautiful.)
-morris: "as to the inside, that remains in its beauty after the great clearance,"
+morris: "as to the inside, that remains in its beauty"
 
-pheo ru laeno luera thimu lo miona lo halemu kire to mue sekaru.
-POST INTS long past time PL person PL remember shape PST OUT.OF transfer.
+lo miona lo halemu kire phoe ru laeno thimu to mue sekaru.
+PL person PL remember shape ANT INTS long time PST OUT.OF transfer.
 (A very long time ago, people carried the memorial forms out.)
-morris: "which took place over a hundred years ago,"
+morris: "after the great clearance, which took place over a hundred years ago,"
 
 lo kire lo whu tawimo phoa nela ma wero haolu miona to keluro.
 PL shape PL REL foolish do COORD NEG honest speak person PST honor.
@@ -1506,7 +1506,7 @@ NAME kulo QUOT.COMP CONTR DAT MANY different labor 1SG DECL.COMP boundary POT be
 morris: "while in many others a limit does seem possible.\""
 ```
 
-**Notes:** the Abbey and Parliament keep their exact names in Morris's witness. Phi follows what the speakers can point to: a dignified old building, old houses of authority, their interiors, and their present uses. The monuments become memorial forms that honoured people whose conduct Guest's great-grandparent describes as foolish and dishonest. This shifts the judgement from fixed human kinds to reported acts without concealing Morris's sharper nouns. Parliament's manure store is literal `nolika mokathi`, animal faeces; no genteel "fertiliser" is needed. The antiquarian society preserves old things and serves people. It objects to destruction, offers reasons, and gets its way. None of those acts proves that its cause was wise, but Dick is glad the buildings survived. His closing architectural enthusiasm remains gloriously lopsided. Modest buildings leave endless room for worthwhile labour. Ornament can scarcely overrun a hall, and if space must be sacrificed, he has already chosen which side of the door gets his elbows.
+**Notes:** The Abbey and Parliament keep their exact names in Morris's witness. Phi follows what the speakers can point to: a dignified old building, old houses of authority, their interiors, and their present uses. The monuments become memorial forms that honoured people whose conduct Guest's great-grandparent describes as foolish and dishonest. This shifts the judgement from fixed human kinds to reported acts without concealing Morris's sharper nouns. The source dates their removal to more than a hundred years before the conversation; Phi keeps that deep distance without turning it into an anniversary. Parliament's manure store is literal `nolika mokathi`, animal faeces; no genteel "fertiliser" is needed. The antiquarian society preserves old things and serves people. It objects to destruction, offers reasons, and gets its way. None of those acts proves that its cause was wise, but Dick is glad the buildings survived. His closing architectural enthusiasm remains gloriously lopsided. Modest buildings leave endless room for worthwhile labour. Ornament can scarcely overrun a hall, and if space must be sacrificed, he has already chosen which side of the door gets his elbows.
 
 ---
 
@@ -1514,7 +1514,7 @@ morris: "while in many others a limit does seem possible.\""
 
 *The chapter keeps the whole road. The stream, arcade, wooded geography, and hot day arrive first. Fern scent, camps, forest homes, and children at work follow before the argument about learning. Westminster appears only after Guest has fallen silent and Dick has nearly talked himself past the subject. The sequence matters because the children are not examples assembled for a theory. Guest sees their life first and discovers only afterwards that his familiar institution is missing.*
 
-*Exact identities remain in the source witness. Morris names places, tree species, and languages. He also supplies historical institutions, architectural landmarks, and exact ages. Phi carries the relations that make those particulars matter while leaving their source forms intact. The chapter adds no root and registers no compound. Optional vocabulary supplies species, provenance, and skill where the subject needs them. Communal life, preservation, objection, and social harm use their module words too.*
+*Exact identities remain in the source witness. Morris names places, tree species, and languages. Historical institutions and architectural landmarks stay there too. Phi carries the relations that make those particulars matter while leaving their source forms intact. Personal ages needed by the argument use ordinary Phi numbers, so the chapter says them. The fifty-year change and the clearance of more than a hundred years ago remain qualitative in Phi because their scale matters here more than an exact ledger. The chapter adds no root and registers no compound. Optional vocabulary supplies species, provenance, and skill where the subject needs them. Communal life and objection use module words; preservation and harm come from the base vocabulary.*
 
 *School and education are not translated as though Phi already shared the English categories. Guest proposes a learning-gathering. Guide knows the source word only through fish and painting, then hears that it means a system for teaching young people and promptly asks why old people have been excluded. The joke remains a joke, but it now turns on Phi's own habits of relation rather than on a borrowed homonym.*
 
