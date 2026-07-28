@@ -33,11 +33,26 @@ Exit code 0 means no errors. Run the full check — as its own command, so the e
 
 Known limitation: single-word *italic* mentions in prose are not checked (the English/Phi heuristic needs at least two tokens). When retiring or renaming a word, grep for it explicitly.
 
+## validate_sentences.py: the full-sentence parser
+
+Parses complete Phi utterances independently of the main lexical validator. The syntax tree holds each sentence frame, embedded clause, and predicate. Separate checks cover the three particle slots, numerals, prepositions, and the modifier-first positions that the surface makes determinate.
+
+```bash
+python3 scripts/validate_sentences.py
+python3 scripts/test_sentence_validator.py
+python3 scripts/validate_sentences.py --sentence "thepalu thiku to nai." --show-tree
+python3 scripts/validate_sentences.py --paths manual/part4_grammar
+python3 scripts/validate_sentences.py --docs
+```
+
+The default command checks every structured vocabulary example and the maintained teaching corpus: canon, grammar references, manual, pamphlets, primer, book, Kia, and the Short Road. `--paths` checks selected active Markdown beside the lexicon, `--lexicon-only` narrows the run to dictionary examples, and `--docs` extends the parser to every recognized complete example in active Markdown; `archive/` is excluded. Literary texts and older evaluation material remain a migration audit until each area has been reviewed. The parser's contract and limits are recorded in [`documents/validation/sentence_validator.md`](../documents/validation/sentence_validator.md).
+
 The focused regression suites cover the executable vocabulary contract, its transitional and target prose shapes, Slot 1 metadata, Slot 2 quantity alternatives, the productive-name open class, unconditional four-syllable name acceptance, current non-content exclusion, short retired lexical forms, the completed migration ledger, and the absence of long lexicon entries:
 
 ```bash
 python3 scripts/test_vocabulary_schema.py
 python3 scripts/test_name_forms.py
+python3 scripts/test_sentence_validator.py
 ```
 
 ## content_vocabulary_decisions.py

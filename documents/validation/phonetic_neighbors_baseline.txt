@@ -30,7 +30,7 @@
 0.47	1	phelu	hold	content	phelo	light	content	306
 0.47	1	philu	candle	content	phelu	hold	content	303
 0.47	1	phaelo	feel	content	phaelu	peaceful	content	199
-0.47	1	kelu	become	content	kelo	frame	content	184
+0.47	1	kelu	become	content	kelo	frame	content	186
 0.47	1	loa	give	content	lua	lovely	interjection	178
 0.47	1	welao	good	content	wilao	long-for	content	161
 0.47	1	shilu	blue	content	shelu	book	content	157

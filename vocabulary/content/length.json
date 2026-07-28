@@ -18,7 +18,7 @@
   "usage_notes": "For a curved object or route, 'waleru' follows the course being compared. Where several courses are possible, the comparison follows the one the speaker has made clear. Duration belongs to 'mosha' (period), and an exact value keeps its source notation beside the Phi account.",
   "examples": [
     {
-      "phi": "wi wetha lonai kolo nai. wi wetha waleru ma kolo nai.",
+      "phi": "wi wetha lonai kolo nai. wi wetha waleru kolo ma nai.",
       "translation": "The two pieces of cloth have equal width but different lengths."
     },
     {

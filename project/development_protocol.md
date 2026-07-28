@@ -171,6 +171,7 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 - [ ] Put Slot 0 first, then any discourse marker; give every `lu` condition its own sentence before the consequence
 - [ ] Place every dependent clause before the main clause it modifies; this rule includes purpose frames opened by `lila`
 - [ ] Apply modifier-first order without inferring a head-final shortcut; Phi remains mixed in typological head direction because it uses prepositions
+- [ ] Run `python3 scripts/validate_sentences.py` and `python3 scripts/test_sentence_validator.py`; a lexical-validator pass alone does not establish sentence grammar
 - [ ] Support compositional transparency
 - [ ] Enable mindful sentence building
 - [ ] Document how causative `ka` changes structure (agent→subject, subject→object)

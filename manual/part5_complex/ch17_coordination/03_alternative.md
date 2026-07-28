@@ -45,8 +45,8 @@ mia so theo sola mia so thalo.
 ```
 
 ```
-thia po mia naphe sola mia po miso naphe.
-2SG POT 1SG help DISJ 1SG POT REFL help.
+thia mia po naphe sola mia miso po naphe.
+2SG 1SG POT help DISJ 1SG REFL POT help.
 (You can help me, or I can help myself.)
 ```
 

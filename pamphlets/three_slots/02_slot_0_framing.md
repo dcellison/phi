@@ -35,8 +35,8 @@ OPT UNIV well be.
 The condition is its own sentence and precedes the consequence it modifies:
 
 ```
-lu thia mia naphe. mia so thia whaline.
-COND 2SG 1SG help. 1SG FUT 2SG thank.
+lu thia mia naphe. mia thia so whaline.
+COND 2SG 1SG help. 1SG 2SG FUT thank.
 (If you help me, I will thank you.)
 ```
 

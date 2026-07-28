@@ -7,7 +7,7 @@
 > **sileta phialu sulae ka kelu.**
 > **thero sulopa sukaro ka kelu.**
 > **howeli ponu ka phae.**
-> **pheralu ruela ka hiso.**
+> **pheralu ruela hiso ka kelu.**
 
 | new word | say it | it means |
 |---|---|---|
@@ -28,7 +28,7 @@
 
 > **wheo lo mia to ka hola.**
 > **nophi lo mia to ka remo.**
-> **melu mia to ka siora.**
+> **melu mia siora to ka kelu.**
 
 *The elder made us laugh. The story made us think. The friend made me glad. The maker need not be a person doing something on purpose; a story can do it, and so can weather.*
 

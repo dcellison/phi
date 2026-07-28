@@ -57,5 +57,6 @@ The [grammar index](grammar/) leads to the authoritative machinery references an
 | [Phonetic-neighbour baseline](validation/phonetic_neighbors_baseline.txt) | Reproducible ranked output from the phonetic-neighbour audit. |
 | [Four-syllable migration ledger](validation/four_syllable_migration.tsv) | Verified record of the completed lexical replacements. |
 | [Retired forms](validation/retired_forms.txt) | Shorter forms barred from lexical reassignment without restricting productive names. |
+| [Sentence validator](validation/sentence_validator.md) | Executable full-utterance grammar, diagnostic contract, commands, and known limits. |
 
 The [project index](../project/) holds the records that govern work around these materials.
