@@ -50,10 +50,10 @@ Kia opens the separate entrance-page sequence. Its first greeting sits in an ope
 
 | Inventory | Total | Target | Legacy |
 |---|---:|---:|---:|
-| Entire lexicon | 1,287 | 1,287 | 0 |
-| Content vocabulary | 1,153 | 1,153 | 0 |
-| Base content vocabulary | 892 | 892 | 0 |
-| Optional-module content vocabulary | 261 | 261 | 0 |
+| Entire lexicon | 1,291 | 1,291 | 0 |
+| Content vocabulary | 1,157 | 1,157 | 0 |
+| Base content vocabulary | 893 | 893 | 0 |
+| Optional-module content vocabulary | 264 | 264 | 0 |
 | Function vocabulary | 114 | 114 | 0 |
 | Interjections | 20 | 20 | 0 |
 
@@ -67,9 +67,9 @@ The latest completed prose batch is D052, Work, Craft, and Repair. It migrated s
 
 | Item | Count |
 |---|---:|
-| Registered batches | 69 |
-| Decisions | 249 |
-| Implemented | 57 |
+| Registered batches | 70 |
+| Decisions | 253 |
+| Implemented | 61 |
 | Compositional | 114 |
 | Deferred with return condition | 31 |
 | Source-bound | 43 |
@@ -93,16 +93,16 @@ Run it before trusting the zero count. The snapshot is not a substitute for the 
 
 ## Module state
 
-Phi has eight established vocabulary modules, one grammar, 261 optional roots, and 393 module memberships. A root may appear in several modules.
+Phi has eight established vocabulary modules, one grammar, 264 optional roots, and 398 module memberships. A root may appear in several modules.
 
 | Module | Total current memberships | Legacy entries in that learning path |
 |---|---:|---:|
 | Household and Daily Life | 44 | 0 |
-| Medical and Bodily Care | 51 | 0 |
+| Medical and Bodily Care | 52 | 0 |
 | Systems and Shared Infrastructure | 50 | 0 |
-| Philosophical Reasoning | 24 | 0 |
+| Philosophical Reasoning | 27 | 0 |
 | Accessibility and Participation | 46 | 0 |
-| Commons and Collective Governance | 53 | 0 |
+| Commons and Collective Governance | 54 | 0 |
 | Ecological Systems and Material Life | 55 | 0 |
 | Work, Craft, and Repair | 70 | 0 |
 
@@ -203,7 +203,7 @@ The live entries are:
 | Entrance and index pages | Complete | Kia, the Short Road, and the Phi Book contents page are finished without source decoration. Kia has its doorway masthead, two Tengwar greetings, six numbered encounters, and seven broad destination links. The Short Road has a twelve-stop map, joined waypoints, thirteen interlinear figures, and a final invitation in both hands. The book contents page maps the argument from boatman to door. Four movements hold its fourteen chapters, and the bibliography stays apart. Strict shape checks guard all three renderings, including exact agreement between the README's reading order and the published files. |
 | Legacy vocabulary prose audit | Complete | D044 completed the base queue, D045 through D052 completed all eight module learning paths, and SEM-09D completed the literary shelf, the drafted book, the manual, the primer, the nine pamphlets then current, and the current documents. Reopen a passage only for a real semantic, factual, voice, or corpus problem. |
 | Lexical relations between content words | Parked | The explorer or project needs curated related-word navigation strongly enough to add and maintain a schema field. |
-| Tengwar renderer verification | Parked, with a live review surface | The lexicon explorer now renders all 1,287 headwords in Tengwar, and the first finding is recorded and deferred: the a tehta sits slightly low over the h tengwa, to be adjusted through the placement tweaks in `tengwar/glyphs.json` when the maintainer reopens glyph tuning. |
+| Tengwar renderer verification | Parked, with a live review surface | The lexicon explorer now renders all 1,291 headwords in Tengwar, and the first finding is recorded and deferred: the a tehta sits slightly low over the h tengwa, to be adjusted through the placement tweaks in `tengwar/glyphs.json` when the maintainer reopens glyph tuning. |
 | Solarpunk community engagement | Open strategic question | Daniel is ready to offer Phi outside its repository and decide what a healthy invitation looks like. |
 
 Speech evidence, outside learner evidence, community governance, and a maintained print publication pipeline remain evidence-gated or deferred in the roadmap. The one-off book PDF does not close PUB-03 or create PUB-04 review evidence. Do not mark an evidence item complete because tools or materials exist, and do not invent participants, observations, or adoption.

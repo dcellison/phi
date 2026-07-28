@@ -31,9 +31,9 @@ Slot 1 can supply prompts for grammatical noticing. If a silent Phi sentence con
 The text shelf includes *lothea thole*, a complete translation of the Metta Sutta. Its refrain works well in recitation:
 
 ```
-su theula limoe siora korua phelu.
-OPT UNIV creature joy heart hold.
-(May every creature hold a joyful heart.)
+su theula miona nela theula limoe siora korua phelu.
+OPT UNIV person COORD UNIV creature joy heart hold.
+(May every person and every creature hold a joyful heart.)
 ```
 
 Reading the full text aloud practises both its loving-kindness teaching and the sound of Phi. Repetition can make the forms familiar, while attention to the source keeps pronunciation from replacing meaning. The full text waits on the Phi text shelf; a reader may take one verse or the whole work.

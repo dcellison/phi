@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1287 words.*
+*1291 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -493,6 +493,7 @@
 | `nilua` | shy | /n̪i.ˈlu.ä/ | adjective |
 | `nira` | cord | /ˈn̪i.rä/ | noun |
 | `nireku` | insect | /n̪i.ˈre̞.ku/ | noun |
+| `nirelo` | pleasant | /n̪i.ˈre̞.lo̞/ | adjective |
 | `niro` | web | /ˈn̪i.ro̞/ | noun |
 | `nirowe` | spider | /n̪i.ˈro̞.we̞/ | noun |
 | `nishoku` | sneeze | /n̪i.ˈʃo̞.ku/ | verb |
@@ -833,6 +834,7 @@
 | `sepho` | send | /ˈse̞.ɸo̞/ | verb |
 | `sephori` | supply | /se̞.ˈɸo̞.ri/ | verb |
 | `serao` | old | /se̞.ˈrä.o̞/ | adjective |
+| `serathi` | principled | /se̞.ˈrä.θi/ | adjective |
 | `seroli` | mature | /se̞.ˈro̞.li/ | adjective |
 | `seru` | commit | /ˈse̞.ru/ | verb |
 | `sethoni` | handoff | /se̞.ˈθo̞.n̪i/ | verb |
@@ -980,6 +982,7 @@
 | `suro` | rope | /ˈsu.ro̞/ | noun |
 | `ta` | one | /ˈt̪ä/ | numeral |
 | `takori` | load | /t̪ä.ˈko̞.ri/ | noun |
+| `taleri` | virtuous | /t̪ä.ˈle̞.ri/ | adjective |
 | `talome` | restore | /t̪ä.ˈlo̞.me̞/ | verb |
 | `talua` | shoulder | /t̪ä.ˈlu.ä/ | noun |
 | `tapu` | close | /ˈt̪ä.pu/ | verb |
@@ -1296,3 +1299,4 @@
 | `wuero` | far (adj) | /wu.ˈe̞.ro̞/ | adjective |
 | `wuloe` | soft | /wu.ˈlo̞.e̞/ | adjective |
 | `wuneri` | variable | /wu.ˈn̪e̞.ri/ | noun |
+| `wurashi` | crave | /wu.ˈrä.ʃi/ | verb |

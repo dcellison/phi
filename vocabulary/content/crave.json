@@ -1,0 +1,40 @@
+{
+  "word": "wurashi",
+  "gloss": "crave",
+  "ipa": "/wu.ˈrä.ʃi/",
+  "syllables": [
+    "wu",
+    "ra",
+    "shi"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "craving",
+    "greediness",
+    "compulsive desire",
+    "urge"
+  ],
+  "description": "To 'wurashi' is to feel desire as a persistent pressure towards obtaining or repeating something, especially when the pull is hard to set aside. The word names craving without turning it into a person's identity or moral failure. 'rinu' (want) leaves strength and duration open, while 'wilao' (long-for) may be intense or lasting without this pressing demand for satisfaction.",
+  "articulatory_notes": "Round the lips and raise the back of the tongue for voiced 'w', keeping the rounding through high-back 'u'. Make a brief alveolar tap or short trill and open into stressed central 'a'. Raise the tongue blade towards the postalveolar region for unvoiced 'sh', direct air through the narrow channel, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The rounded opening gathers the mouth inward before stressed 'ra' releases it, and the final hush narrows the airflow again. That draw, release, and renewed narrowing can recall a desire that returns after attention has begun to loosen.",
+  "usage_notes": "The craved thing or action precedes the verb; a complete desired event takes `tha ... tho`. As an event noun, 'wurashi' is craving. The word reports the pressure a person experiences and does not by itself diagnose compulsion or establish harm.",
+  "examples": [
+    {
+      "phi": "mia ha nuora rinu. whekai mia shia ma wurashi.",
+      "translation": "I want this food. However, I do not crave it."
+    }
+  ],
+  "pillars": {
+    "secular-buddhist-philosophy": "Craving can be noticed as a conditioned experience before it is obeyed, resisted, or mistaken for a need. Naming the pressure gives reflection something more exact than a moral judgement.",
+    "peace-linguistics-practices": "A person can report craving in the first person without being labelled by it. The distinction leaves room for care, choice, and an honest account of what the desire is doing."
+  },
+  "semantic_domains": {
+    "cognition": "attention repeatedly pulled towards satisfying a persistent desire",
+    "emotion": "desire experienced as pressure that is hard to set aside",
+    "physical": "craving felt through bodily appetite or urge"
+  },
+  "modules": [
+    "medical-and-bodily-care",
+    "philosophical-reasoning"
+  ]
+}

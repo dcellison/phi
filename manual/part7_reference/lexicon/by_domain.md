@@ -415,7 +415,7 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `woraka` | appreciate | positive recognition of a sensory or artistic quality |
 
-## cognition (244)
+## cognition (245)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -663,6 +663,7 @@
 | `wireki` | prognosis | a conditional inference about a health course |
 | `woraka` | appreciate | attention that recognises value in a person, act, thing, or condition |
 | `wuneri` | variable | a selected feature used in models, records, tests, and comparisons |
+| `wurashi` | crave | attention repeatedly pulled towards satisfying a persistent desire |
 
 ## communication (136)
 
@@ -805,7 +806,7 @@
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
-## community (271)
+## community (272)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -969,6 +970,7 @@
 | `sano` | know | familiarity with people and knowledge held or exchanged within a group |
 | `seluwhe` | outage | loss of a stated shared or infrastructure service for affected participants |
 | `sephori` | supply | provision from one participant or place to another |
+| `serathi` | principled | conduct that remains answerable to stated ethical commitments in shared life |
 | `seru` | commit | a commitment on which another person or group may rely |
 | `sethoni` | handoff | a transition between participants without implied acceptance |
 | `shalimo` | alliance | a deliberately formed association of people or groups |
@@ -1257,7 +1259,7 @@
 | `wiru` | basket | a container formed through weaving or interlacing |
 | `wolea` | wood | plant material worked into structures and objects or remade as fuel and paper |
 
-## emotion (85)
+## emotion (87)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1291,6 +1293,7 @@
 | `nelu` | revere | deep respect joined with awe |
 | `nemo` | grateful | appreciation felt in response to benefit or support |
 | `nilua` | shy | social hesitation or self-conscious unease |
+| `nirelo` | pleasant | an agreeable or enjoyable quality in present experience |
 | `noalu` | tranquil | deep calm that has remained undisturbed |
 | `noeli` | warm (emotional) | affection or goodwill felt in someone's manner |
 | `nolami` | bond | affection or care held within an enduring relational bond |
@@ -1346,8 +1349,9 @@
 | `wipha` | restless | felt agitation or difficulty settling |
 | `wiroa` | hopeful | felt expectation that a desired outcome remains possible |
 | `woraka` | appreciate | the favourable response that accompanies recognised value |
+| `wurashi` | crave | desire experienced as pressure that is hard to set aside |
 
-## ethics (34)
+## ethics (36)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1371,8 +1375,10 @@
 | `renoa` | liberate | an imposed constraint removed so that another person's course opens |
 | `rolia` | worth | a claim of worth independent of utility, rank, or merit earned |
 | `ruesha` | compassionate | a response that treats suffering as a reason for concern and possible care |
+| `serathi` | principled | fidelity between ethical commitment and conduct when the commitment is tested |
 | `sharino` | conscience | moral self-appraisal of intended or completed conduct |
 | `sherelo` | right (normative) | a claim that can place a duty or limit on conduct |
+| `taleri` | virtuous | ethical excellence attributed to a person, act, or pattern of conduct |
 | `thaemu` | sincere | a claimed feeling or intention matched by its expression |
 | `theama` | care | conduct that answers another being's welfare or a responsibility of upkeep |
 | `theloma` | justice | a normative account of what fair treatment and redress require |
@@ -1637,7 +1643,7 @@
 | `wosanu` | absorb | soil or a living body taking in water or another material |
 | `wotami` | shrub | a usually low woody plant with several stems near the ground |
 
-## physical (514)
+## physical (516)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1849,6 +1855,7 @@
 | `newai` | fresh | retention of an expected recent quality before spoilage or fading |
 | `nila` | see | perception through sight |
 | `nira` | cord | several strands held together as a flexible line |
+| `nirelo` | pleasant | pleasure arising through bodily sensation |
 | `niro` | web | a web-like structure whose joined strands carry tension or movement |
 | `nishoku` | sneeze | an involuntary burst of air prompted by irritation in the nose |
 | `nolue` | neck | the external region joining the head to the torso |
@@ -2155,6 +2162,7 @@
 | `wonepa` | table | a supported flat surface that holds objects during use |
 | `wosanu` | absorb | material entering and remaining within a body or substance |
 | `wuloe` | soft | a yielding texture or contact that cushions pressure |
+| `wurashi` | crave | craving felt through bodily appetite or urge |
 
 ## quantity (42)
 
@@ -2581,7 +2589,7 @@
 | `wiroa` | hopeful | anticipation directed towards a future condition |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (44)
+## wisdom (46)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2612,11 +2620,13 @@
 | `romishe` | contemplate | patient examination of a subject before judgement is settled |
 | `ruela` | path | an established course of practice understood as something followed |
 | `seloi` | insightful | depth of understanding kept distinct from certainty or authority |
+| `serathi` | principled | principled conduct whose grounds remain available for examination |
 | `sharino` | conscience | moral self-appraisal that remains open to examination and correction |
 | `silero` | star | an observed guide within particular systems of navigation and seasonal knowledge |
 | `sone` | value | reflective judgement about what merits care or attention |
 | `soneho` | tradeoff | attention to what every available option preserves and relinquishes |
 | `sorai` | insight | understanding that can inform judgment while remaining revisable |
+| `taleri` | virtuous | virtue examined through practice and reasons rather than treated as an unquestionable essence |
 | `tawimo` | foolish | sound judgement absent where the circumstances call for it |
 | `theali` | fitting | selection of a response appropriate to the situation and relationship |
 | `theko` | craft | knowledge held and demonstrated through repeated practice |

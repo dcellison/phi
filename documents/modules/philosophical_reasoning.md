@@ -1,6 +1,6 @@
 # Philosophical Reasoning
 
-**Status:** **Established vocabulary module** with 18 module roots coined in its first pass, three later additions, 24 current memberships, and base-vocabulary `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 18 module roots coined in its first pass, six later additions, 27 current memberships, and base-vocabulary `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion; ordinary Phi grammar.
 
 ## Charter
 
@@ -80,6 +80,18 @@ Article 1 of the Universal Declaration of Human Rights brings two further distin
 | `sharino` | conscience; moral self-appraisal | Conscience weighs one's own conduct. `waeli` consciousness is the wider fact of subjective awareness. |
 
 Both roots use ordinary nouns and ordinary Phi clauses. The paired [Article 1](../../texts/human_rights_article_one.md) sets the close translation's faculties of reason and conscience beside the transmutation's capacity and heart-knowing.
+
+## Integrity, virtue, and craving
+
+The Metta Sutta's close translation needs three distinctions that reach beyond that source. Integrity asks whether conduct remains answerable to an ethical commitment when keeping it has a cost. Virtue makes the wider ethical judgement about a person, act, or continuing practice. Craving separates persistent pressure for satisfaction from ordinary wanting and from longing that may be intense without making the same demand.
+
+| Phi | Working sense | Essential contrast |
+|---|---|---|
+| `serathi` | principled; faithful to stated ethical commitments in conduct | Honesty concerns knowing deception. Authenticity follows one's own commitments without judging whether they are ethically sound. |
+| `taleri` | virtuous; ethically good in character, act, or continuing conduct | Broad `welao` can judge one act good. Virtue makes a larger, disputable judgement under a practice or body of reasons. |
+| `wurashi` | crave; feel persistent pressure towards satisfaction | `rinu` leaves force and duration open. `wilao` may be intense or lasting without this pressure to satisfy the desire. |
+
+All three remain ordinary content words under ordinary Phi grammar. `serathi` is shared with Commons and Collective Governance, where institutions as well as people may be tested against stated commitments. `wurashi` is shared with Medical and Bodily Care so a person can report the pressure without receiving a diagnosis or a moral label.
 
 ## Concepts Kept Compositional
 

@@ -89,6 +89,7 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Original essay: the worth of a fallen branch](#original-essay-the-worth-of-a-fallen-branch) | complete | closed | 2 |
 | [Narrative diagnostic: body, motion, and onset](#narrative-diagnostic-body-motion-and-onset) | complete | closed | 8 |
 | [Excess conflation sweep: naming one's own capacity](#excess-conflation-sweep-naming-one-s-own-capacity) | complete | closed | 1 |
+| [Metta Sutta close-translation repair](#metta-sutta-close-translation-repair) | complete | closed | 4 |
 
 ## Core material qualities
 
@@ -820,6 +821,15 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | ID | Concept | Status | Placement | Decision or return condition |
 |---|---|---|---|---|
 | `CV-CAPACITY-01` | busy: a person whose present capacity is already committed | Implemented | base | Words: `mehalu`. Phi could name the demand and the failure but not the state between them. 'ritako' (workload) is the demand itself, 'pushali' (overload) is capacity already exceeded, and 'sheli' (impatient) is pressure from delay rather than from commitment. Nothing let a speaker say that their capacity was taken, which is the ordinary move behind declining an invitation, asking whether someone has room for a request, or saying not now without saying no. A form in the 'ri-' work family was rejected: being busy is not always work, and filing it there would treat a person's hours as work hours by default. |
+
+## Metta Sutta close-translation repair
+
+| ID | Concept | Status | Placement | Decision or return condition |
+|---|---|---|---|---|
+| `CV-ETH-03` | ethical integrity or uprightness shown when conduct remains faithful to stated commitments under pressure | Implemented | Philosophical Reasoning and Commons and Collective Governance | Words: `serathi`. The Metta translation used 'wero' (honest) for upright, which preserved freedom from deliberate deception and lost the wider relation between ethical commitment and conduct. 'noemi' (authentic) reaches fidelity to one's own commitments but cannot say whether those commitments are ethically sound. The distinction belongs wherever a person or institution is asked to keep a stated principle when doing so has a cost. |
+| `CV-ETH-04` | virtue as ethical excellence attributed to character or a continuing pattern of conduct | Implemented | Philosophical Reasoning | Words: `taleri`. The earlier Metta line rendered virtuous as 'welao phoa' (act well), which changed an attributed ethical disposition into one act. Habitual aspect could repeat the action but still left philosophical discussion without a name for the quality being judged. The new adjective keeps the standard contextual and supplies virtue through the quality-noun rule. |
+| `CV-AFFECT-09` | pleasure or pleasant experience apart from joy, liking, amusement, and contentment | Implemented | base | Words: `nirelo`. The Metta line had to turn sensual pleasures into 'weloni siora' (bodily joys). Joy names gladness in a person, not the agreeable quality of an experience, while liking reports preference and contentment reports satisfaction with what is present. Pleasure recurs in food, touch, music, rest, and ordinary self-report, so it belongs in base vocabulary rather than one optional path. |
+| `CV-DESIRE-01` | craving as persistent pressure for satisfaction, distinct from ordinary want and neutral intense longing | Implemented | Philosophical Reasoning and Medical and Bodily Care | Words: `wurashi`. Base 'rinu' (want) deliberately leaves strength and duration open, while 'wilao' (long for) remains neutral even when the pull is intense or sustained. The Metta translation used both for greediness and therefore changed a difficult-to-set-aside pressure into an ordinary desire. Craving matters in reflective practice and in first-person bodily care, where naming it must not label the person or diagnose a condition. |
 
 ## Prompt sources
 

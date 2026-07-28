@@ -1,6 +1,6 @@
 # Medical and Bodily Care
 
-**Status:** **Established vocabulary module** with 30 roots coined here, 51 current memberships, and shared-core `lesawi` consent; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 30 roots coined here, 52 current memberships, and shared-core `lesawi` consent; ordinary Phi grammar.
 
 ## Charter
 
@@ -74,6 +74,8 @@ All 30 roots coined in the medical pass and the shared-core consent entry follow
 All 31 inherited Medical entries now use the target vocabulary prose contract. The review found no missing concept that deserved another root. Wounds and first aid remain concrete body, material, and care descriptions; examinations keep observation, testing, assessment, and follow-up apart; urgent care states possible harm and available time before triage enters. The module had already made the difficult distinctions. Its chief need was to speak about them like a person rather than a form awaiting seven signatures.
 
 Fourteen new decisions preserve every question raised by the review. Ordinary clauses cover bowel and bladder reports, visible skin changes, chronic and palliative care, care places and roles, emergency communication, and treatment response. Vital signs and named procedures retain exact source records. Sudden loss of consciousness or control has a specific return condition because emergency scenarios may yet earn a direct event word. The existing gates for mental health, reproductive and sexual health, varied anatomy, and exact specialist structures remain open on their stated terms rather than drifting out of memory.
+
+`wurashi`, crave, is shared with Philosophical Reasoning. Its place here is first-person care: a person can distinguish a want from pressure that is difficult to set aside without the word itself supplying a diagnosis, a cause, or a judgement of character.
 
 ## Concepts Kept Compositional or External
 

@@ -115,9 +115,9 @@ The complete texts live on the Phi text shelf. Each short work has one file; a l
 ***lothea thole*** (The Practice of Love) is a translation of the Karaniya Metta Sutta: ten verses of loving-kindness carried almost entirely by the optative `su`. Its refrain is the language in one line:
 
 ```
-su theula limoe siora korua phelu.
-OPT UNIV creature joy heart hold.
-(May every creature hold a joyful heart.)
+su theula miona nela theula limoe siora korua phelu.
+OPT UNIV person COORD UNIV creature joy heart hold.
+(May every person and every creature hold a joyful heart.)
 ```
 
 ***sileta kenua wireo moenu lo sherewa*** (Claims of a Solar-Energy Future Culture) translates *A Solarpunk Manifesto* across all five opening paragraphs, 22 propositions, and both nested lists. Political labels such as post-capitalism and decolonialism, identity categories, and named aesthetic references stay exact in the licensed English source; the Phi lines state the relations the current lexicon can defend. The long analytic phrases show both reach and strain in a text written squarely for solarpunk readers.

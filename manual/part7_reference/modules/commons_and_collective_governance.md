@@ -4,7 +4,7 @@ A council votes to allocate the season's grain, one member abstains, and someone
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an authority, a lawyer, or a rightful decider for anyone else.
 
-The chapter table below introduces 29 module roots. Current classifications bring the optional learning list to 53 words; base `sirami`, `kawhera`, and `whepelo` are taught alongside it. The complete list is under [Commons and Collective Governance in the module lexicon](../lexicon/by_module.md#commons-and-collective-governance).
+The chapter table below introduces 29 module roots. Current classifications bring the optional learning list to 54 words; base `sirami`, `kawhera`, and `whepelo` are taught alongside it. The complete list is under [Commons and Collective Governance in the module lexicon](../lexicon/by_module.md#commons-and-collective-governance).
 
 ## Core vocabulary used by the module
 
@@ -16,7 +16,7 @@ The module does not replace what Phi already says about community and shared lif
 | Deliberation and dialogue | `lona` meeting, `shareo` discuss, `thilou` inquire, `lilea` clarify, `lonae` respond, `numike` negotiate, `whakeru` object |
 | Participation and stance | `pawela` participate, `shorema` contribute, `lesawi` consent, `kanu` choose, `nawo` agree, `naweri` refuse, `kelomi` accept, `thekao` acknowledge, `ralu` free, `nawea` respect |
 | Resources and distribution | `phelu` hold, `phowe` share, `phanoi` portion, `loa` give, `howela` receive, `phelona` require, `henoi` enough, `panuri` resource, `theula` all, `theli` each |
-| Values and reasoning | `thua` fair, `theloma` justice, `kolo` equal, `sone` value, `peloma` harmful, `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion, `soneho` tradeoff, `manawi` compromise |
+| Values and reasoning | `thua` fair, `theloma` justice, `kolo` equal, `sone` value, `peloma` harmful, `serathi` principled, `sherewa` claim, `thesori` evidence, `remotha` reason, `kirema` criterion, `soneho` tradeoff, `manawi` compromise |
 | Commitment and response | `seru` commit, `thonai` responsible, `kanelu` err, `shiroka` repair, `talome` restore, `warosha` reconcile, `tholira` forgive, `ka` cause, `na` necessity, `po` possibility |
 | Information and change | `hi` direct evidence, `ke` inference, `ti` report, `ho` assumption, `shane` tell, `thekiro` write, `sirami` record, `siru` marker, `sano` know, `helui` change, and separately preserved source material |
 | Power and safety | `kawhera` coerce, `whepelo` retaliate |
@@ -25,7 +25,7 @@ Systems lends the technical state behind an institution's tools, Ecological supp
 
 ## Additional roots in this learning path
 
-Ten established words give the path its concrete collective forms, group roles, and general word for a normative right.
+Eleven established words give the path its concrete collective forms, group roles, ethical integrity, and general word for a normative right.
 
 | Phi | Working sense | Why it belongs here |
 |---|---|---|
@@ -33,6 +33,7 @@ Ten established words give the path its concrete collective forms, group roles, 
 | `kowela` | council; a deliberative collective body | A council is more specific than a meeting: it persists as a body and may claim a decision role. |
 | `laenu` | commons; land, space, or resources held for a community | Shared holding raises membership, allocation, stewardship, and authority questions without answering them. |
 | `shalimo` | alliance; a chosen group organized around a shared cause | The alliance is the continuing bond, not the meeting where its members speak. |
+| `serathi` | principled; faithful to stated ethical commitments in conduct | Integrity matters when a person or institution keeps an announced commitment after doing so becomes inconvenient. |
 | `sherelo` | right; a normative claim that can bind conduct or institutions | A right can remain live under denial, unlike an entitlement whose definition begins with recognition. |
 | `shorai` | commune; share daily life, resources, and responsibilities | The collective relation belongs here. Its domestic life gives it another place in Household and Daily Life. |
 | `temu` | guild; an association formed around a craft or profession | A guild is both an institutional body and a home for shared craft, so Work teaches it too. |

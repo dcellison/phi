@@ -1,0 +1,35 @@
+{
+  "word": "nirelo",
+  "gloss": "pleasant",
+  "ipa": "/n̪i.ˈre̞.lo̞/",
+  "syllables": [
+    "ni",
+    "re",
+    "lo"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "pleasure",
+    "pleasurable",
+    "agreeable",
+    "enjoyable"
+  ],
+  "description": "A warm bath, ripe fruit, or piece of music may be 'nirelo' when the experience is agreeable and enjoyable. In noun position the word names pleasure. 'siora' (joy) is gladness alive in a person, while 'nuloe' (content) is satisfaction with what is present; pleasure may be brief and sensory without becoming either.",
+  "articulatory_notes": "Set the tongue tip against the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and raise the tongue into high-front unrounded 'i'. Make a brief alveolar tap or short trill before stressed true-mid front unrounded 'e'. Touch the tongue tip to the alveolar ridge for voiced 'l', let the voice pass along its sides, and finish with true-mid rounded back 'o'.",
+  "sound_symbolism": "The dental nasal opens softly, the tap gives the middle a small turn, and the lateral releases into rounded 'o'. The movement has no hard closure, which may make the word feel easy to linger over.",
+  "usage_notes": "The adjective can qualify an experience directly or describe what provides it. Its quality-noun use supplies pleasure, including the plural `lo morae nirelo` for sensory pleasures.",
+  "examples": [
+    {
+      "phi": "ha hasumi nirelo nai.",
+      "translation": "This tea is pleasant."
+    },
+    {
+      "phi": "mia nirelo phaelo.",
+      "translation": "I feel pleasure."
+    }
+  ],
+  "semantic_domains": {
+    "emotion": "an agreeable or enjoyable quality in present experience",
+    "physical": "pleasure arising through bodily sensation"
+  }
+}
