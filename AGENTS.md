@@ -8,9 +8,9 @@
 
 ## Reader-facing Phi prose generation
 
-Apply this section only to prose that Phi speakers or general readers are expected to read as project content. This includes the book, manual, primer, pamphlets, literary texts, Kia, the Short Road, public website copy, prose fields exposed through the lexicon, and pull-request titles and bodies. Before creating or revising one of these artifacts, read `documents/reference/voice_for_models.md` in full and load the installed Humanizer skill. The voice guide sets Phi's register and mechanics. Humanizer then gives the generated passage a separate editing pass.
+Apply this section only to prose that Phi speakers or general readers are expected to read as project content. This includes the book, manual, primer, pamphlets, literary texts, Kia, the Short Road, public website copy, prose fields exposed through the lexicon, commit messages, pull-request titles and bodies, and public GitHub issue titles, bodies, and comments. Before creating or revising one of these artifacts, read `documents/reference/voice_for_models.md` in full and load the installed Humanizer skill. The voice guide sets Phi's register and mechanics. Humanizer then gives the generated passage a separate editing pass.
 
-Do not load or apply the voice guide or Humanizer for disposable or internal operational writing. Handoff documents, plans, roadmaps, development logs, decision records, audit notes, validation reports, temporary reports, internal boilerplate, and commit messages need direct, accurate prose instead. Apply the full voice process to one of these only when the user explicitly requests it or the text is being prepared for a reader-facing publication.
+Do not load or apply the voice guide or Humanizer for disposable or internal operational writing. Handoff documents, plans, roadmaps, development logs, decision records, audit notes, validation reports, temporary reports, and internal boilerplate need direct, accurate prose instead. Apply the full voice process to one of these only when the user explicitly requests it or the text is being prepared for a reader-facing publication.
 
 Use this order for every in-scope prose task:
 
