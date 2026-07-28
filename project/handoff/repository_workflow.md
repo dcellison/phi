@@ -101,7 +101,7 @@ python3 scripts/test_content_vocabulary_decisions.py
 
 Invoke these files directly from the repository root. Running them through `python3 -m unittest scripts/...` can fail to resolve sibling imports even when the tests themselves are sound.
 
-At the #580 checkpoint the suites contain 22 schema tests, 20 name tests, and 8 decision-register tests.
+The suites currently contain 24 schema tests, 20 name tests, and 8 decision-register tests.
 
 ## Vocabulary coverage and decisions
 
@@ -220,7 +220,19 @@ diff -u documents/validation/phonetic_neighbors_baseline.txt /tmp/phonetic_neigh
 python3 scripts/audit_phonetic_neighbors.py --kind function --prompts 40 --seed 202601
 ```
 
-The committed baseline tracks corpus attestations as well as neighbour pairs. Chapter 4 of *News from Nowhere* showed why every corpus pull request must regenerate it: no word form changed and the pair set stayed fixed, but the added attestations changed and reordered much of the file. Commit the generated result whenever it differs. Distance scores are prompts for listening work, not proof that two words must change.
+The committed baseline tracks corpus attestations as well as neighbour pairs. Chapters 4 and 5 of *News from Nowhere* showed why every corpus pull request must regenerate it: no word form changed and the pair set stayed fixed, but the added attestations changed and reordered much of the file. Commit the generated result whenever it differs. Distance scores are prompts for listening work, not proof that two words must change.
+
+## News from Nowhere source reconstruction
+
+The main validator checks that each `morris:` value occurs in `texts/news_from_nowhere/source.txt`, but it cannot show that the citations form one exhaustive, ordered partition of a chapter. Run a reconstruction check before publishing every new chapter.
+
+1. Extract the exact source body between its chapter headings. Leave the heading itself out.
+2. Decode each quoted `morris:` value as JSON in Markdown order. Do not remove its quotation marks by hand, because escaped dialogue must survive.
+3. Normalize both sides identically. Rejoin a source word split by line wrapping with `re.sub(r"(?<=\w)-\s+(?=\w)", "-", text)`, then collapse the remaining whitespace with `" ".join(text.split())`.
+4. Join the normalized citations with one ASCII space and require character-for-character equality with the normalized source body.
+5. Report the citation count and both character lengths in the pull request body. Resolve any mismatch before publication.
+
+Chapter 5 is the reference receipt: 292 citations reconstruct 13,932 normalized characters on each side. This check established that every normalized source character belongs to one unit and keeps its order.
 
 ## Productive-name utility
 
