@@ -1,6 +1,6 @@
 # Phi continuation handoff
 
-This directory is the transfer package for continuing Phi after 17 July 2026. It was first assembled from the live repository after pull request #418 merged and is current through pull request #619 on 27 July 2026. It records the current position, the working method, the tools, and the maintainer's standing instructions that are easy to lose when a conversation ends.
+This directory is the transfer package for continuing Phi after 17 July 2026. It was first assembled from the live repository after pull request #418 merged and is current through pull request #622 on 28 July 2026. It records the current position, the working method, the tools, and the maintainer's standing instructions that are easy to lose when a conversation ends.
 
 This package is a map, not a new authority. When anything here disagrees with a live source, follow the authority order in [`canon.md`](../../canon.md), repair this package, and record a language decision where the disagreement is substantive.
 
@@ -38,7 +38,7 @@ The maintainer's own front-to-back read of the finished book followed on 27 July
 
 That read also closed the conflation sweep's last open item. The weaver's shade of anxiousness in *News from Nowhere* chapter 3 had rendered its degree with the size adjective `thiku`; the maintainer ruled it attenuation, so `la` now lowers the anxiety and the look keeps its own shape.
 
-*News from Nowhere* has reached chapter 4 of 32. "A Market by the Way" follows Morris through six movements and 121 aligned passages. It registers `wisola lokue`, exchange-place, and rebuilds the English "poor/poorly" joke around a genuine Phi ambiguity in `huwa`, weak. Its preflight also closed the two questions that had survived in this handoff: the three-syllable lexical ceiling and the novel's use of the full vocabulary.
+*News from Nowhere* has reached chapter 5 of 32. "Children on the Road" follows Morris through seven movements and 292 aligned passages, from the summer camps in Kensington wood to a discussion of school and chosen learning, then Westminster's old buildings. It uses the complete lexicon. Optional module words appear where needed, but the chapter adds no root and registers no compound. Its ordered `morris:` citations reconstruct the 13,932-character normalized chapter body exactly. The corrective pass repaired modifier order and Slot 1 order. It restored purpose-first clauses and complete-event framing, removed one invalid passive-causative stack, and cut back-translation details that existed only in Morris.
 
 One assessment was delivered and declined in the same span. Nothing compares a Phi line quoted in the manual against the shelf text it names, which is how chapter 22's misquoted Metta Sutta line survived. A measurement found 14 exact quotations among 1,573 teaching-corpus Phi lines, and a prototype detector caught the real defect while flagging nine lines in all. The maintainer ruled it not worth building, since the manual is close to finished and future additions will be texts. Do not raise it again unprompted.
 
