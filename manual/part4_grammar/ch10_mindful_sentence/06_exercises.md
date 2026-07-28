@@ -120,7 +120,7 @@ Exercise 4:
 
 1. **wa melu naphe.** — Does the friend help?
 2. **pi no thepalu temoe.** — Please tend the garden.
-3. **lu thia shelu shelomu. thia so mia naphe.** — If you understand the book, you will help me.
+3. **lu thia shelu shelomu. thia mia so naphe.** — If you understand the book, you will help me.
 
 Exercise 5:
 

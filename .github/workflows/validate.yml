@@ -21,6 +21,11 @@ jobs:
       - name: Validate lexicon and examples
         run: python3 scripts/validate_examples.py
 
+      - name: Parse complete Phi sentences
+        run: |
+          python3 scripts/validate_sentences.py
+          python3 scripts/test_sentence_validator.py
+
       - name: Test vocabulary schema
         run: python3 scripts/test_vocabulary_schema.py
 

@@ -18,7 +18,7 @@
   "usage_notes": "The evidential rank comes after voice and before modality. Future 'so' can combine with 'ho', but one clause cannot carry a second evidential source.",
   "examples": [
     {
-      "phi": "shia ho womu nai.",
+      "phi": "shia womu ho nai.",
       "translation": "They are probably home."
     }
   ],

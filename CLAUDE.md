@@ -13,7 +13,7 @@ Authority order when documents disagree: `canon.md`. Settled decisions there are
 ## Repository working rules
 
 - All work happens on branches, opened as pull requests; the owner reviews and merges every PR himself. Never commit to main.
-- Run `python3 scripts/validate_examples.py` as a standalone command (never piped, so the exit code is visible) before any commit that touches vocabulary or documentation. Zero errors is the bar.
+- Run `python3 scripts/validate_examples.py` and `python3 scripts/validate_sentences.py` as separate commands before any commit that touches vocabulary or documentation. Keep their exit codes visible; zero errors is the bar.
 - After vocabulary changes, regenerate derived artifacts: `python3 scripts/generate_reference.py` and `python3 scripts/build_site.py`.
 - After any change that touches Phi examples or citations anywhere in the corpus, regenerate the neighbor baseline with `python3 scripts/audit_phonetic_neighbors.py --output documents/validation/phonetic_neighbors_baseline.txt` and commit the file when it changes. Continuous integration diffs this baseline, and its attestation counts move whenever cited examples change, even when no word form does.
 - No AI attribution anywhere: no "Generated with" footers in PRs, no Co-Authored-By trailers in commits. Contributors are not singled out.

@@ -84,7 +84,7 @@ The other two measure a degree against what the moment asks rather than against 
 
 **sulopa wo sukaro nai.** — The soup is too hot.
 
-**pe** says the degree meets the need and **wo** says it has gone past it. Both take their standard from the purpose at hand, so the same heat can be enough for a bath and too much for a mouth. Negation gives the missing corner: **pe ma sukaro nai** is not hot enough.
+**pe** says the degree meets the need and **wo** says it has gone past it. Both take their standard from the purpose at hand, so the same heat can be enough for a bath and too much for a mouth. Negation gives the missing corner: **pe sukaro ma nai** is not hot enough.
 
 All four sit on the word underneath, and that word does not have to be a quality or an action. Phi names several states with nouns and gives them no adjective at all: **nuhe** is sadness, **sukima** fear, **wiloru** dizziness, **tupeka** burden. Their degrees arrive the same way.
 

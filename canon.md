@@ -103,9 +103,11 @@ Run before committing anything that touches vocabulary or examples:
 
 ```bash
 python3 scripts/validate_examples.py
+python3 scripts/validate_sentences.py
+python3 scripts/test_sentence_validator.py
 ```
 
-It checks lexicon integrity (schema, phonotactics, syllable arrays, duplicates) and that every Phi word used in documentation examples exists in the lexicon. Check collision distance before coining:
+The first command checks lexicon integrity, documentation vocabulary, citations, and generated material. The sentence parser then requires every structured vocabulary example and every recognized example in the maintained teaching corpus to form a complete canonical utterance, while its regression suite holds the grammar's constructions and rejected orders in place. The parser's contract and current literary-corpus boundary live in `documents/validation/sentence_validator.md`. Check collision distance before coining:
 
 ```bash
 python3 scripts/validate_examples.py neighbors <candidate>

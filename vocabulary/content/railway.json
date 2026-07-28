@@ -18,7 +18,7 @@
   "usage_notes": "The noun is countable when a particular line or system is meant. 'muila phou nurako' specifies an underground railway. Optional classifier 'themo' fits a railway treated as crafted infrastructure, but can be omitted when the referent is primarily a route or network.",
   "examples": [
     {
-      "phi": "mia nurako mua wepu.",
+      "phi": "mia roe nurako wepu.",
       "translation": "I travel by railway."
     }
   ],

@@ -17,7 +17,7 @@
   "usage_notes": "A count identifies one infection. Bare 'peshiro' presents infection as a biological process. The agent and host identify the relation; site and evidence make it specific. Method and uncertainty keep the classification open to review. Mere presence or colonization can retain its exact biomedical source term when that distinction matters.",
   "examples": [
     {
-      "phi": "ha peshiro po ma welathi nai.",
+      "phi": "ha peshiro welathi po ma nai.",
       "translation": "This infection may not be contagious."
     }
   ],

@@ -397,7 +397,7 @@ phialu pe sukaro nai.
 water SUFF hot be.
 (The water is hot enough.)
 ```
-**Note**: `henoi` (ENOUGH) does the same work for a quantity; `pe` judges a degree. Negation gives the other half: `pe ma sukaro nai` is not hot enough.
+**Note**: `henoi` (ENOUGH) does the same work for a quantity; `pe` judges a degree. Negation gives the other half: `pe sukaro ma nai` is not hot enough.
 
 #### `wo` - Excess (EXC)
 **Function**: Announces that the degree passes what the situation can take ("too")

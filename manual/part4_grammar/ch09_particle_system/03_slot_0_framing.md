@@ -26,7 +26,7 @@ A directive cannot hide inside a bare verb: whoever hears `no` knows at once wha
 
 **lu** introduces a condition treated as open or plausible. The condition is its own sentence, followed by the consequence.
 
-**lu thia mia naphe. mia so thia whaline.** — If you help me, I will thank you.
+**lu thia mia naphe. mia thia so whaline.** — If you help me, I will thank you.
 
 **lu shea nai. sila thuroa.** — If there is peace, the community flourishes.
 

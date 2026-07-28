@@ -46,7 +46,7 @@ Name the relation, then say which joiner carries it and why.
 
 21. `mia melu nela lumani lothea.`
 22. `shia haolu thona lo miona ma sheluo.`
-23. `thia po mia naphe sola mia po miso naphe.`
+23. `thia mia po naphe sola mia miso po naphe.`
 24. `mia so theo sola mia so thalo.`
 
 ---

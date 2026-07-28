@@ -91,17 +91,32 @@ The full run checks JSON Schema, canonical serialization, phonotactics, IPA, syl
 
 For vocabulary and Phi prose, zero errors and zero warnings is the expected result. A duplicate-gloss warning may expose a genuine semantic collision even when schema validation succeeds.
 
+## Sentence parser
+
+`scripts/validate_sentences.py` is a separate full-utterance grammar gate. Its default run parses structured lexicon examples and recognized examples in canon, the grammar references, manual, pamphlets, primer, book, Kia, and the Short Road.
+
+```bash
+python3 scripts/validate_sentences.py
+python3 scripts/test_sentence_validator.py
+python3 scripts/validate_sentences.py --sentence "thepalu thiku to nai." --show-tree
+python3 scripts/validate_sentences.py --paths texts/example.md
+python3 scripts/validate_sentences.py --docs
+```
+
+The full active Markdown scan remains a migration command because the literary and evaluation corpora predate the parser. Its boundary and diagnostic contract are in `documents/validation/sentence_validator.md`.
+
 ## Focused test suites
 
 ```bash
 python3 scripts/test_vocabulary_schema.py
 python3 scripts/test_name_forms.py
 python3 scripts/test_content_vocabulary_decisions.py
+python3 scripts/test_sentence_validator.py
 ```
 
 Invoke these files directly from the repository root. Running them through `python3 -m unittest scripts/...` can fail to resolve sibling imports even when the tests themselves are sound.
 
-The suites currently contain 25 schema tests, 20 name tests, and 8 decision-register tests.
+Each suite reports its live test count when run.
 
 ## Vocabulary coverage and decisions
 

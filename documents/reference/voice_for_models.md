@@ -2,7 +2,7 @@
 
 This document teaches a language model to write Phi documentation in the project's established voice. It is self-contained: everything needed is embedded here, because the model reading it may have no access to this repository, its history, or its tools. Read the whole document before generating anything.
 
-The voice is one third of a trust system. This document carries the taste. The validator (`python3 scripts/validate_examples.py`, run standalone, zero errors and zero warnings) machine-checks the correctness of every Phi example, gloss, and lexicon entry. The maintainer's review is the final gate, and nothing in this document overrides it. For decisions about the language itself, the authority order is `/canon.md`; this document governs prose, not grammar.
+The voice is one third of a trust system. This document carries the taste. The lexical validator checks entries, words, and glosses; the sentence parser checks complete grammar. Run `python3 scripts/validate_examples.py` and `python3 scripts/validate_sentences.py` separately, with zero errors and zero warnings. The maintainer's review is the final gate, and nothing in this document overrides it. For decisions about the language itself, the authority order is `/canon.md`; this document governs prose, not grammar.
 
 Humanizer belongs inside the writing method, not at the edge of it. Write the complete and accurate text first, then apply the installed skill as a separate revision to everything the model generated. No prose category is exempt: a lexicon entry gets the same second look as a chapter or report, and so do table cells and boilerplate.
 
@@ -159,7 +159,7 @@ These are structural. Violating them damages the corpus in ways a style review m
 - Inside Phi text: periods are the only punctuation, and there are no capital letters anywhere, ever, including names and the starts of sentences.
 - A Phi word cited in English prose stays lowercase even when it opens the sentence. Never capitalize it to satisfy English sentence case; recast the sentence if the lowercase opening bothers you. A capitalized citation also hides the word from the validator's checks, so this is a correctness rule wearing a style rule's clothes.
 - Never invent Phi. Every Phi word you write must exist in the lexicon, and every gloss line must render each word by its exact lexicon gloss, with uppercase labels for function words. If you cannot check the lexicon, do not write new Phi sentences at all; reuse existing validated example blocks verbatim instead.
-- If you can run the validator, run it standalone before delivering anything containing Phi: `python3 scripts/validate_examples.py`. Zero errors and zero warnings is the bar. Drafts can be linted early with `--paths <file>`.
+- Before delivering anything containing Phi, run `python3 scripts/validate_examples.py` and `python3 scripts/validate_sentences.py` as separate commands. Zero errors and zero warnings is the bar. Drafts can be checked early by giving either command `--paths <file>`.
 - Protected conventions that look like style violations and are not: the vocabulary introduction form `**word** — gloss`, the example form `**Phi sentence.** — English.`, bibliography bullets of the form `- **Title** (context) — description`, and the fenced four-line example blocks. The em dash inside these conventions is part of the convention. Leave all of them exactly as found.
 - American spelling: color, gray.
 - Sentence case in headings; module names keep their established title case.

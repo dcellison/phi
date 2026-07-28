@@ -28,7 +28,7 @@
 
 > **lo powea to se pilu.**
 > **nuora to se kolua.**
-> **wonepa to se hiso ka kelu.**
+> **wonepa hiso to se ka kelu.**
 > **mawha miona ha to nila.**
 
 | new word | say it | it means |
