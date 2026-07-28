@@ -85,8 +85,8 @@ CONC UNIV thing PST PFV be 1SG INTO 1SG garment small bag hand PST go. two old k
 (Despite everything, my hand went into the small bag in my garment. It found only two old keys with spoiled metal surfaces. I remembered taking my metal exchange-signs out while we talked in the guest hall, showing them to Annie, and leaving them there.)
 morris: "But in spite of all that had happened, my hand went down into my pocket again, where to my dismay it met nothing metallic except two rusty old keys, and I remembered that amidst our talk in the guest-hall at Hammersmith I had taken the cash out of my pocket to show to the pretty Annie, and had left it lying there."
 
-mia menoa ru nuhe kire to phelu. ne kulo ha to nila nela tiso haolu to pa.
-1SG face INTS sadness shape PST hold. NAME kulo PROX PST see COORD sharp speak PST INCH.
+mia menoa ru nuhe kire to phelu. ne kulo ha to nila nela to pa tiso haolu.
+1SG face INTS sadness shape PST hold. NAME kulo PROX PST see COORD PST INCH sharp speak.
 (My face took on a deeply disappointed shape. Guide saw it and began to speak sharply.)
 morris: "My face fell fifty per cent., and Dick, beholding me, said rather sharply--"
 
@@ -125,8 +125,8 @@ mia sha thia nila. lo shia hina se po phoa sho to thilou.
 (I asked, "You see. What could be done about them?")
 morris: "You see--What do think could be done about them?\""
 
-ne kulo monelu to ka ma nila. shia shena nela kiro haolu to pa.
-NAME kulo amused PST CAUS NEG see. 3SG calm COORD precise speak PST INCH.
+ne kulo monelu to ka ma nila. shia to pa shena nela kiro haolu.
+NAME kulo amused PST CAUS NEG see. 3SG PST INCH calm COORD precise speak.
 (Guide did not look amused. He began to speak calmly and precisely.)
 morris: "He didn't seem in the least inclined to laugh, but said quite gravely:"
 
@@ -150,8 +150,8 @@ NAME kulo QUOT.COMP Q 2SG PROX feel QUOT.COMP.CLOSE PST inquire.
 (Guide asked, "Do you feel that?")
 morris: "You feel that, don't you?\" said he, earnestly."
 
-mia tha mia thoa lo whu mioru sone miona phea kuewa kosha kire na whano tho to ma kelomi. whekai mia ne kulo remo kire to nila. mia nua newu melu korua thero haolu to ma rinu.
-1SG DECL.COMP 1SG AMONG PL REL beautiful value person AS strange field shape NEC stand DECL.COMP.CLOSE PST NEG accept. CONTR 1SG NAME kulo think shape PST see. 1SG COM new friend heart fire speak PST NEG want.
+mia tha mia thoa lo whu mioru sone miona phea kuewa kosha kire na whano tho to ko ma kelomi. whekai mia ne kulo remo kire to nila. mia nua newu melu korua thero haolu to ma rinu.
+1SG DECL.COMP 1SG AMONG PL REL beautiful value person AS strange field shape NEC stand DECL.COMP.CLOSE PST FOC NEG accept. CONTR 1SG NAME kulo think shape PST see. 1SG COM new friend heart fire speak PST NEG want.
 (I did not accept that I ought to stand like a strange field figure among people who valued beauty. But I saw Guide's fixed thought, and I did not want angry speech with my new friend.)
 morris: "I did _not_ feel it my duty to set myself up for a scarecrow amidst this beauty-loving people, but I saw I had got across some ineradicable prejudice, and that it wouldn't do to quarrel with my new friend."
 
@@ -262,9 +262,9 @@ PL 1SG INTO exchange home PST PFV go. table FRONT 3SG PST be. PL shelf ON PL wal
 (We entered the exchange-house. A table stood at the front and shelves lined the walls. Everything was clean and precisely placed without showy decoration. Otherwise, it resembled exchange-houses I had known.)
 morris: "By this time we were within the shop or booth, which had a counter, and shelves on the walls, all very neat, though without any pretence of showiness, but otherwise not very different to what I had been used to."
 
-wi lopia mua womu to nai. ta lopia pai ta phoi ta shao torua to phelu. shia mureli hisae to phelu. whau shia meilo shia shelu to theo. phirae thiku mioru lopia ta phoi ta shao ta torua to phelu. shia noe wonepa to meilo. shia shelu we to theo. lo shia tha lomea nai tho to ka nuwi nila.
-two child LOC home PST be. one child NEAR one nine-group one three-group year PST hold. 3SG brown skin PST hold. SIMUL 3SG sit 3SG book PST read. different small beautiful child one nine-group one three-group one year PST hold. 3SG BEHIND table PST sit. 3SG book ALSO PST read. PL 3SG DECL.COMP sibling be DECL.COMP.CLOSE PST CAUS clear see.
-(Two children were inside. One, brown-skinned and about twelve years old, sat reading a book. The other, a beautiful small child of thirteen, read behind the table. They were plainly siblings.)
+wi lopia mua womu to nai. ta lopia pai ta phoi ta shao torua to phelu. shia mureli hisae to phelu. whau shia meilo shia shelu to theo. phirae thiku mioru lopia pai ta phoi ta shao ta torua to phelu. shia noe wonepa to meilo. shia shelu we to theo. lo shia tha lomea nai tho to ka nuwi nila.
+two child LOC home PST be. one child NEAR one nine-group one three-group year PST hold. 3SG brown skin PST hold. SIMUL 3SG sit 3SG book PST read. different small beautiful child NEAR one nine-group one three-group one year PST hold. 3SG BEHIND table PST sit. 3SG book ALSO PST read. PL 3SG DECL.COMP sibling be DECL.COMP.CLOSE PST CAUS clear see.
+(Two children were inside. One, brown-skinned and about twelve years old, sat reading a book. The other, a beautiful little child about thirteen years old, read behind the table. They were plainly siblings.)
 morris: "Within were a couple of children--a brown-skinned boy of about twelve, who sat reading a book, and a pretty little girl of about a year older, who was sitting also reading behind the counter; they were obviously brother and sister."
 
 ne kulo sha kia lo thiku phewani sho to haolu.
@@ -352,9 +352,9 @@ shia thoa lo whu mia to ki nila ru mioru nela keru wile thena to nai. shia phea 
 (It was among the most beautiful and brilliant toys I had seen. It resembled fine craft from a source-named distant land, but looked better.)
 morris: "It was, in short, as pretty and gay a toy as I had ever seen; something like the best kind of Japanese work, but better."
 
-whau mia shia to nila mia sha mea. ha wei mia wo mioru nai. ha wei theula muila ru karami miona li theali nai sho to haolu.
-SIMUL 1SG 3SG PST see 1SG QUOT.COMP thanks. PROX DAT 1SG EXC beautiful be. PROX DAT UNIV earth INTS authority person RESTR fitting be QUOT.COMP.CLOSE PST speak.
-(When I saw it, I said, "Dear me. This is too beautiful for me. It would suit only a person of very great authority over the whole world.")
+whau mia shia to nila mia sha wao. ha wei mia wo mioru nai. ha wei theula muila ru karami miona li theali nai sho to haolu.
+SIMUL 1SG 3SG PST see 1SG QUOT.COMP wow. PROX DAT 1SG EXC beautiful be. PROX DAT UNIV earth INTS authority person RESTR fitting be QUOT.COMP.CLOSE PST speak.
+(When I saw it, I said, "Wow. This is too beautiful for me. It would suit only a person of very great authority over the whole world.")
 morris: "\"Dear me!\" said I, when I set eyes on it, \"this is altogether too grand for me, or for anybody but the Emperor of the World."
 
 mia sha sheno mia shia so wesaki. mia theula thimu lo thumiro keli ro wesaki sho to haolu.
@@ -409,7 +409,7 @@ morris: "\"O, you are so very welcome,\" said the little lass, with an affectati
 
 shia sha mia tha thia pheloma ru siora nai tho phaelo. shekoi lao tha thia lue wuero moriwhe to shua tho nuwi nai mia ha siora phaelo sho to haolu.
 3SG QUOT.COMP 1SG DECL.COMP 2SG serve INTS joy be DECL.COMP.CLOSE feel. SPEC BECAUSE DECL.COMP 2SG ABL far sea PST come DECL.COMP.CLOSE clear be 1SG PROX joy feel QUOT.COMP.CLOSE PST speak.
-("I feel great joy in serving a dear elder like you. In particular, because it is clear that you came from far across the sea, I feel that joy.")
+("Serving you gives me great joy. I feel it especially because it is clear that you came from far across the sea.")
 morris: "\"It is such a pleasure to serve dear old gentlemen like you; especially when one can see at once that you have come from far over sea.\""
 
 mia sha lia kona mioru phewani. mia wea sheloi lokue ki wepu sho to haolu.
@@ -438,8 +438,8 @@ child ON table large plate PST put. 3SG INTO two long bowl dry grass color fruit
 (The child put the tray on the table and solemnly poured a dried-grass-coloured fruit drink into two long bowls.)
 morris: "Therewith the boy put the tray on the counter and solemnly poured out a straw-coloured wine into the long bowls."
 
-lao sukaro philo mia kishu to ka kelu mia to milau. mia sha mia thoa muila lioru ki manolu. ra se nomei lureko thorima to ma wesaki sho to remo. mia tha mia mua ha kelua ru welao se nomei lureko milau ki milau tho to remo. mia tha mia wei ne kulo pha lo miona ha milau thela pilewa pho so thilou tho to kanu. mia tha whau lo riola miona ru welao milau to pilewa lo shia mua luera punoa tha mukesi milau na milau tho to se kawhera tho to remo. ra keno mua ha punoa to te nai.
-BECAUSE hot day 1SG thirsty PST CAUS become 1SG PST drink. 1SG QUOT.COMP 1SG AMONG earth life PFV stay. DIST PASS name fruit taste PST NEG lose QUOT.COMP.CLOSE PST think. 1SG DECL.COMP 1SG LOC PROX morning INTS good PASS name fruit drink PFV drink DECL.COMP.CLOSE PST think. 1SG DECL.COMP 1SG DAT NAME kulo INT.COMP PL person PROX drink how make INT.COMP.CLOSE FUT inquire DECL.COMP.CLOSE PST choose. 1SG DECL.COMP SIMUL PL labor person INTS good drink PST make PL 3SG LOC past society DECL.COMP spoil drink NEC drink DECL.COMP.CLOSE PST PASS coerce DECL.COMP.CLOSE PST think. DIST custom LOC PROX society PST CESS be.
+lao sukaro philo mia kishu to ka kelu mia to milau. mia sha mia thoa muila lioru ki manolu. ra se nomei lureko thorima to ma wesaki sho to remo. mia tha mia mua ha kelua ru welao se nomei lureko milau ki milau tho to remo. mia tha mia wei ne kulo lo miona ha milau thela pilewa so thilou tho to kanu. mia tha whau lo riola miona ru welao milau to pilewa lo shia mua luera punoa tha mukesi milau na milau tho to se kawhera tho to remo. ra keno mua ha punoa to te nai.
+BECAUSE hot day 1SG thirsty PST CAUS become 1SG PST drink. 1SG QUOT.COMP 1SG AMONG earth life PFV stay. DIST PASS name fruit taste PST NEG lose QUOT.COMP.CLOSE PST think. 1SG DECL.COMP 1SG LOC PROX morning INTS good PASS name fruit drink PFV drink DECL.COMP.CLOSE PST think. 1SG DECL.COMP 1SG DAT NAME kulo PL person PROX drink how make FUT inquire DECL.COMP.CLOSE PST choose. 1SG DECL.COMP SIMUL PL labor person INTS good drink PST make PL 3SG LOC past society DECL.COMP spoil drink NEC drink DECL.COMP.CLOSE PST PASS coerce DECL.COMP.CLOSE PST think. DIST custom LOC PROX society PST CESS be.
 (I drank because the hot day had made me thirsty. I thought, "I remain among the living world, and the source-named fruit has not lost its taste." I had drunk an excellent source-named fruit drink that morning. I decided to ask Guide how people made it. In the old society, workers were coerced to drink spoiled drink while they made excellent drink; that custom had ceased here.)
 morris: "Nothing loth, I drank, for I was thirsty with the hot day; and thinks I, I am yet in the world, and the grapes of the Rhine have not yet lost their flavour; for if ever I drank good Steinberg, I drank it that morning; and I made a mental note to ask Dick how they managed to make fine wine when there were no longer labourers compelled to drink rot-gut instead of the fine wine which they themselves made."
 
@@ -535,13 +535,13 @@ shia sha sheloi miona mua lo mia punoa thorui phea lo whu ra se nomei wesha moka
 ("At the beginning of our society, many people were reportedly described as holding a source-named disease of laziness. They were direct descendants of ancestors who had coerced other people to work.")
 morris: "It is said that in the early days of our epoch there were a good many people who were hereditarily afflicted with a disease called Idleness, because they were the direct descendants of those who in the bad times used to force other people to work for them--the people, you know, who are called slave-holders or employers of labour in the history books."
 
-shia sha lao lo shia phina riola li po phoa ra lo se nomei mokanu phelu miona mua wisola womu theula thimu ro ti pheloma sho to haolu.
-3SG QUOT.COMP BECAUSE PL 3SG FEW labor RESTR POT do DIST PL PASS name disease hold person LOC exchange home UNIV time HAB REP serve QUOT.COMP.CLOSE PST speak.
+shia sha lao lo shia phina riola li po phoa ra lo se nomei mokanu phelu miona mua wisola womu ko theula thimu ro ti pheloma sho to haolu.
+3SG QUOT.COMP BECAUSE PL 3SG FEW labor RESTR POT do DIST PL PASS name disease hold person LOC exchange home FOC UNIV time HAB REP serve QUOT.COMP.CLOSE PST speak.
 ("Because those people could do only a few kinds of work, people with the source-named disease reportedly served exchange-houses all the time.")
 morris: "Well, these Idleness-stricken people used to serve booths _all_ their time, because they were fit for so little."
 
-shia sha mia tha lo shia mua ta luera thimu tha ra riola na phoa tho to se kawhera tho nohero. lu lo shia mokanu to se ma ru nephoru. lo shia weloni to helui nela mioru to ma ru nai nela lo whu lue lo shia to thowia lopia mioru to ma ru nai. lo phewani ha po ma pheru sho to haolu.
-3SG QUOT.COMP 1SG DECL.COMP PL 3SG LOC one past time DECL.COMP DIST labor NEC do DECL.COMP.CLOSE PST PASS coerce DECL.COMP.CLOSE believe. COND PL 3SG disease PST PASS NEG INTS treat. PL 3SG body PST change COORD beautiful PST NEG INTS be COORD PL REL ABL PL 3SG PST born child beautiful PST NEG INTS be. PL neighbor PROX POT NEG endure QUOT.COMP.CLOSE PST speak.
+shia sha mia tha lo shia mua ta luera thimu tha ra riola na phoa tho to se ko kawhera tho nohero. lu lo shia mokanu to se ma ru nephoru. lo shia weloni to helui nela mioru to ma ru nai nela lo whu lue lo shia to thowia lopia mioru to ma ru nai. lo phewani ha po ma pheru sho to haolu.
+3SG QUOT.COMP 1SG DECL.COMP PL 3SG LOC one past time DECL.COMP DIST labor NEC do DECL.COMP.CLOSE PST PASS FOC coerce DECL.COMP.CLOSE believe. COND PL 3SG disease PST PASS NEG INTS treat. PL 3SG body PST change COORD beautiful PST NEG INTS be COORD PL REL ABL PL 3SG PST born child beautiful PST NEG INTS be. PL neighbor PROX POT NEG endure QUOT.COMP.CLOSE PST speak.
 ("I believe that once they were coerced into doing this work. If their disease was not treated forcefully, their bodies changed and were far from beautiful, and the children born to them were far from beautiful. The neighbours could not endure it.")
 morris: "Indeed, I believe that at one time they were actually _compelled_ to do some such work, because they, especially the women, got so ugly and produced such ugly children if their disease was not treated sharply, that the neighbours couldn't stand it."
 
@@ -560,8 +560,8 @@ NAME kulo QUOT.COMP Q PROX PL PASS name word strange NEG be QUOT.COMP.CLOSE PST 
 (Guide asked, "Are those not strange names?")
 morris: "Queer names, ain't they?\""
 
-mia sha lia sho to haolu. mia to nulo remo. whekai serao miona haolu to pa.
-1SG QUOT.COMP yes QUOT.COMP.CLOSE PST speak. 1SG PST deep think. CONTR old person speak PST INCH.
+mia sha lia sho to haolu. mia to nulo remo. whekai serao miona to pa haolu.
+1SG QUOT.COMP yes QUOT.COMP.CLOSE PST speak. 1SG PST deep think. CONTR old person PST INCH speak.
 (I said, "Yes," and thought deeply. But the elder began to speak.)
 morris: "\"Yes,\" said I, pondering much. But the old man broke in:"
 
@@ -640,15 +640,13 @@ shia sha hina kuewa mokanu. ra se nomei phelui theali po nai sho to haolu.
 ("What a strange disease. That source name may suit it.")
 morris: "\"What a queer disease! it may well be called Mulleygrubs!\""
 
-ne kulo to pa we ru kenua hola. mia tha ha lue shia phena keno phirae to nai tho to remo. lila mia nua shia nai mia we to hola. whekai mia roe phulae lo kulai li to hola. mia monelu to ma nai. mia tha lo miona riola ma kaeli tho to ma monelu nila.
-NAME kulo PST INCH ALSO INTS energy laugh. 1SG DECL.COMP PROX ABL 3SG kind custom different PST be DECL.COMP.CLOSE PST think. PURP 1SG COM 3SG be 1SG ALSO PST laugh. CONTR 1SG INS mouth PL tooth RESTR PST laugh. 1SG amused PST NEG be. 1SG DECL.COMP PL person labor NEG like DECL.COMP.CLOSE PST NEG amused see.
+ne kulo to pa we ru kenua hola. mia tha ha lue shia phena keno phirae to nai tho to remo. lila mia nua shia nai mia we to hola. whekai mia roe phulae lo kulai li to hola. mia monelu to ma nai. ko mia tha lo miona riola ma kaeli tho to ma monelu nila.
+NAME kulo PST INCH ALSO INTS energy laugh. 1SG DECL.COMP PROX ABL 3SG kind custom different PST be DECL.COMP.CLOSE PST think. PURP 1SG COM 3SG be 1SG ALSO PST laugh. CONTR 1SG INS mouth PL tooth RESTR PST laugh. 1SG amused PST NEG be. FOC 1SG DECL.COMP PL person labor NEG like DECL.COMP.CLOSE PST NEG amused see.
 (Guide laughed loudly again, more than his usual good manners seemed to allow. I laughed to keep him company, but only with my teeth. I was not amused. I did not see people not liking work as amusing.)
 morris: "And he laughed out again most boisterously; rather too much so, I thought, for his usual good manners; and I laughed with him for company's sake, but from the teeth outward only; for _I_ saw nothing funny in people not liking to work, as you may well imagine."
 ```
 
-**Notes:** Market service puts varied things into the children's hands. They learn how each was made and where it came from. Full-vocabulary `luseri` anchors that history in provenance. Easy work is not lesser work. The satire then needs firmer distance. `wesha` describes avoidable reluctance within work someone has chosen or accepted. It is neither a disease nor an inheritance. Dick and the elder tell a story in which a source-named "Idleness" is both, so the Phi marks their account as reported, assumed, or believed. Morris's history books call the ancestors slave-holders and employers. Phi states what they did: they coerced other people to work.
-
-**Notes:** Morris makes the old account deliberately vicious. It singles out women, judges their bodies and children ugly, imagines compulsory work as treatment, and lets an elder call their expressions dishonest. Phi removes none of that cruelty. These speakers say the bodies changed and stood far from beautiful; they pass the same judgement on the children, then claim only similar people could love them. Morris owns the gender and class labels. The aperient cure and the disease names are his too; so is the comparison with leprosy. The clothing joke belongs to his breeches, worsted velvet, and plush. Phi reports the named disease and its claimed contagiousness without certifying the tale as medicine. The account still includes isolation and a medicine proposed as a cure. Wool fabric and recognisable clothing carry the dress joke. Guest's last laugh is social compliance. His mouth moves; amusement does not.
+**Notes:** Market service puts varied things into the children's hands. They learn how each was made and where it came from. Full-vocabulary `luseri` anchors that history in provenance. Easy work is not lesser work. The satire then needs firmer distance. `wesha` describes avoidable reluctance within work someone has chosen or accepted. It is neither a disease nor an inheritance. Dick and the elder tell a story in which a source-named "Idleness" is both, so the Phi marks their account as reported, assumed, or believed. Morris's history books call the ancestors slave-holders and employers. Phi states what they did: they coerced other people to work. Morris makes the old account deliberately vicious. It singles out women, judges their bodies and children ugly, imagines compulsory work as treatment, and lets an elder call their expressions dishonest. Phi removes none of that cruelty. These speakers say the bodies changed and stood far from beautiful; they pass the same judgement on the children, then claim only similar people could love them. Morris owns the gender and class labels. The aperient cure and the disease names are his too; so is the comparison with leprosy. The clothing joke belongs to his breeches, worsted velvet, and plush. Phi reports the named disease and its claimed contagiousness without certifying the tale as medicine. The account still includes isolation and a medicine proposed as a cure. Wool fabric and recognisable clothing carry the dress joke. Guest's last laugh is social compliance. His mouth moves; amusement does not.
 
 ---
 
