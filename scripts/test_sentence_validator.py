@@ -67,6 +67,8 @@ class SentenceParserTest(unittest.TestCase):
             "pi wa thia po naphe.",
             "pi no ponu tapu.",
             "wa whekai thia ma sano.",
+            "wa mia pha sua to wepu pho sano.",
+            "thia hina nila.",
         ):
             with self.subTest(text=text):
                 self.assertValid(text)
@@ -119,7 +121,11 @@ class SentenceParserTest(unittest.TestCase):
             "mia sha muila theula howela sho ro haolu.",
             "mia sha kia. thia nosa hina phaelo sho to thilou.",
             "mia tha shia pha pheralu lepa pho sano tho remo.",
-            "mia sua to wepu sano.",
+            "mia tha mia sha wa ha nai sho haolu tho to thueli.",
+            "mia pha sua to wepu pho sano.",
+            "tupiwa pha keli mue kua whano pho to laeno nila.",
+            "pha lo mia thela kau ha wireo kamo pho we shia reo nai.",
+            "mia tha shia pha sua to wepu pho sano tho remo.",
         ):
             with self.subTest(text=text):
                 self.assertValid(text)
@@ -145,6 +151,7 @@ class SentenceParserTest(unittest.TestCase):
             "whau ne kulo haolu lo mia shua.",
             "pheo wi philo melu so shua.",
             "thia lila wepu ralu nai.",
+            "whekai lao pheralu lepa lo mia mua womu therilu.",
         ):
             with self.subTest(text=text):
                 self.assertValid(text)
@@ -166,6 +173,8 @@ class SentenceParserTest(unittest.TestCase):
             "mia to shua nela shia to wepu.",
             "thia mia po naphe sola mia miso po naphe.",
             "wi nela ta shao sholei. ta shao wi kelai.",
+            "mia thia nila thona lao pheralu lepa lo mia mua womu therilu.",
+            "ne kulo nela ra mioru miona to pa theisa hola.",
         ):
             with self.subTest(text=text):
                 self.assertValid(text)
@@ -174,9 +183,13 @@ class SentenceParserTest(unittest.TestCase):
         for text in (
             "kia.",
             "henoi.",
+            "whekai teo.",
             "kona ne sa sulae.",
             "ha philo.",
+            "ha wisola lokue.",
+            "ne kulo nela mia.",
             "serao melothe.",
+            "whu thia kaeli.",
             "whu sulopa ro pilewa miona.",
         ):
             with self.subTest(text=text):
@@ -224,22 +237,55 @@ class SentenceParserTest(unittest.TestCase):
         self.assertInvalid("he mia pelori nai.", "PHS030")
         self.assertInvalid("lu pheralu lepa.", "PHS031")
         self.assertInvalid("mia theo lila mia shonela.", "PHS061")
+        self.assertInvalid("wa thia hina nila.", "PHS055")
+
+    def test_coordinator_boundaries(self):
+        result = self.assertInvalid("thona mia thia nila.", "PHS054")
+        self.assertEqual(["PHS054"], [item.code for item in result.diagnostics])
+        result = self.assertInvalid(
+            "thona lao pheralu lepa lo mia mua womu therilu.",
+            "PHS054",
+        )
+        self.assertEqual(["PHS054"], [item.code for item in result.diagnostics])
+        self.assertInvalid("mia thia nila thona.", "PHS054")
 
     def test_complement_errors(self):
         self.assertInvalid("mia tha shia wepu sano.", "PHS022")
         self.assertInvalid("mia tha shia wepu pho sano.", "PHS021")
-        self.assertInvalid("mia pha shia hina rinu pho sano.", "PHS082")
+        self.assertValid("mia pha shia hina rinu pho sano.")
+        self.assertInvalid("mia pha wa shia rinu pho sano.", "PHS082")
+        self.assertInvalid("mia tha sua to shua tho sano.", "PHS084")
+        self.assertInvalid("mia sua to shua sano.", "PHS102")
         self.assertInvalid("mia sha kia sho remo.", "PHS081")
 
     def test_slot_two_and_quantity_errors(self):
         self.assertInvalid("lo ha melu shua.", "PHS111")
         self.assertInvalid("lo ha likori nolika phirae nai.", "PHS111")
         self.assertInvalid("ha ru la mioru peloru nai.", "PHS112")
+        self.assertInvalid("mia lo lo womu nila.", "PHS115")
         self.assertInvalid("lo wi melu shua.", "PHS115")
         self.assertInvalid("theli himo miona shua.", "PHS116")
         self.assertInvalid("nu mu philo mua shemu nai.", "PHS114")
         self.assertInvalid("mia nurako mua wepu.", "PHS121")
         self.assertInvalid("lila mia thoru sulopa wo sukaro nai.", "PHS060")
+
+    def test_interrogative_position(self):
+        for text in (
+            "shia misa to wepu.",
+            "misa ma sano.",
+            "ha wisola lokue misa ru waora nai.",
+            "thia tha mokela miona mua ruela po nai tho misa po remo.",
+            "mia ka mo nila.",
+        ):
+            with self.subTest(text=text):
+                self.assertValid(text)
+        self.assertInvalid("whekai misa mia ma sano.", "PHS130")
+        self.assertInvalid(
+            "thia misa tha mokela miona mua ruela po nai tho remo.",
+            "PHS130",
+        )
+        self.assertInvalid("mia misa phoe ha thia ma thilou.", "PHS130")
+        self.assertInvalid("mia mo ka nila.", "PHS113")
 
     def test_every_structured_lexicon_example_parses(self):
         failures = []

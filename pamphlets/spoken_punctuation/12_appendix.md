@@ -6,7 +6,7 @@
 |---|---|---|
 | `?` after a direct yes-or-no question | `wa` | Slot 0 before the complete proposition |
 | `?` after a content question | `sua`, `hina`, `weno`, `kua`, `misa`, `thela`, or `wia` | the position where the answer would stand |
-| "whether" or "if" inside a statement | `pha ... pho` | embedded yes-or-no question before the matrix predicate |
+| a question inside a statement | `pha ... pho` | embedded question, yes/no or content, before the matrix predicate |
 | quotation marks | `sha ... sho` | exact grammatical Phi wording before a speaking, inquiry, or hearing predicate |
 | a comma of address | `kona` | extra-clausal vocative with its own period |
 | capitalization of a name | `ne` | proper designation in neutral, formal, portable, and validated Phi |
@@ -47,7 +47,7 @@ Each is a complete utterance with its own period, and each keeps its lexical mea
 ## Working rules
 
 - "Spoken punctuation" is a teaching analogy. `wa`, `kona`, `ne`, and the complementizers remain grammatical words with exact distributions.
-- `wa` asks a direct yes-or-no question. A content question uses its gap-word, and an embedded yes-or-no question uses `pha ... pho`.
+- `wa` asks a direct yes-or-no question. A direct content question uses its gap-word. Every embedded question uses `pha ... pho`, with any gap-word kept inside the frame.
 - `sha ... sho` claims exact Phi wording. Source wording in another language stays outside the Phi passage.
 - A `kona` phrase is extra-clausal. A proper name within it keeps `ne` in neutral or portable Phi.
 - Clause families do not share one generic boundary marker.

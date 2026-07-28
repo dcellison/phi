@@ -39,7 +39,7 @@ Phi uses periods only: no commas, question marks, or exclamation marks. Punctuat
 | Frame | Structure | Meaning |
 |---|---|---|
 | `tha … tho` | S tha [clause] tho V | that-clause (reported content) |
-| `pha … pho` | S pha [clause] pho V | embedded yes/no question |
+| `pha … pho` | S pha [question] pho V | embedded question, yes/no or content |
 | `sha … sho` | S sha [quote] sho V | direct quotation (exact words) |
 | `whu …` + NOUN | [whu clause] NOUN | relative clause (no closer; the head noun bounds it) |
 | `ne NAME` | before one name atom | listed content word or productive two-, three-, or four-syllable onym |

@@ -44,19 +44,19 @@ The gap-word alone marks the question. It never shares its clause with `wa`, bec
 
 ### Questions inside statements
 
-An embedded yes-or-no question uses `pha ... pho`, not `wa`:
+Every embedded question uses `pha ... pho`, not `wa`:
 
 ```
 mia pha sileta sulae nai pho phaelo.
 1SG INT.COMP sun warm be INT.COMP.CLOSE feel.
 (I wonder whether the sun is warm.)
 
-mia ne sulae kua nai ma sano.
-1SG NAME sulae where be NEG know.
+mia pha ne sulae kua nai pho ma sano.
+1SG INT.COMP NAME sulae where be INT.COMP.CLOSE NEG know.
 (I do not know where sulae is.)
 ```
 
-The first sentence treats the unresolved proposition as the object of `phaelo`. The second embeds a content question directly: `kua` occupies the unknown place, while the final `ma sano` says that the speaker does not know it. The complementizers pamphlet drills both frames at full depth.
+The first sentence asks whether a proposition holds. In the second, `kua` occupies the unknown place inside the frame. The gap-word tells us what is missing, while `pha` and `pho` keep the whole inner question apart from the final `ma sano`. The complementizers pamphlet drills both forms at full depth.
 
 ### The stacked marks
 

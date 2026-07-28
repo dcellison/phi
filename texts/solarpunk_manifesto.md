@@ -13,8 +13,8 @@
 ### A movement and a question
 
 ```
-ha sileta kenua wireo moenu lo wireo weni nophi nela shela nela wetha senalu nela shaweri sila rinoka nai. shia thenoki punoa phea hina nai solae thueli. shia lo mia thela kau ha wireo kamo solae thueli. shia ha keiro liona thueli.
-PROX sun energy future culture PL future imagine story COORD art COORD cloth style COORD advocate community project be. 3SG sustain society AS what be explain intend. 3SG PL 1SG how ALL PROX future arrive explain intend. 3SG PROX way live intend.
+ha sileta kenua wireo moenu lo wireo weni nophi nela shela nela wetha senalu nela shaweri sila rinoka nai. shia pha thenoki punoa phea hina nai pho solae thueli. shia pha lo mia thela kau ha wireo kamo pho solae thueli. shia ha keiro liona thueli.
+PROX sun energy future culture PL future imagine story COORD art COORD cloth style COORD advocate community project be. 3SG INT.COMP sustain society AS what be INT.COMP.CLOSE explain intend. 3SG INT.COMP PL 1SG how ALL PROX future arrive INT.COMP.CLOSE explain intend. 3SG PROX way live intend.
 (This solar-energy future culture is a community project of future-imagining stories, art, cloth style, and advocacy. It intends to explain what a sustainable society is like and how we can reach that future. It intends to live this way.)
 solarpunk: "Solarpunk is a movement in speculative fiction, art, fashion, and activism that seeks to answer and embody the question “what does a sustainable civilization look like, and how can we get there?”"
 ```
@@ -116,8 +116,8 @@ solarpunk: "The “punk” in Solarpunk is about rebellion, counterculture, post
 ### 5. Stories and movement
 
 ```
-ha moenu lo nophi moenu nela sila rinoka kolo nai. shia li lo nophi ma reo. lo mia thela kau ha wireo kamo we shia reo nai.
-PROX culture PL story culture COORD community project equal be. 3SG RESTR PL story NEG meaning. PL 1SG how ALL PROX future arrive ALSO 3SG meaning be.
+ha moenu lo nophi moenu nela sila rinoka kolo nai. shia li lo nophi ma reo. shia reo pha lo mia thela kau ha wireo kamo pho we pharune.
+PROX culture PL story culture COORD community project equal be. 3SG RESTR PL story NEG meaning. 3SG meaning INT.COMP PL 1SG how ALL PROX future arrive INT.COMP.CLOSE ALSO include.
 (This culture is equally a story culture and a community project. Stories alone are not its meaning. How we reach this future is also its meaning.)
 solarpunk: "Solarpunk is a movement as much as it is a genre: it is not just about the stories, it is also about how we can get there."
 ```
@@ -395,7 +395,7 @@ solarpunk: "can happen. Now."
 ```
 sileta kenua wireo moenu lo sherewa.
 
-ha sileta kenua wireo moenu lo wireo weni nophi nela shela nela wetha senalu nela shaweri sila rinoka nai. shia thenoki punoa phea hina nai solae thueli. shia lo mia thela kau ha wireo kamo solae thueli. shia ha keiro liona thueli.
+ha sileta kenua wireo moenu lo wireo weni nophi nela shela nela wetha senalu nela shaweri sila rinoka nai. shia pha thenoki punoa phea hina nai pho solae thueli. shia pha lo mia thela kau ha wireo kamo pho solae thueli. shia ha keiro liona thueli.
 
 ha moenu senalu towe kelitho nela mioru shemoli. shia towe noporu nela liro pheno thuroa shemoli. shia keru welisha mioru nela phea muila kethua mioru shemoli.
 
@@ -413,7 +413,7 @@ ha moenu korua wireo lunai nai. shia mo ko welao whu theula miona po phoa thena 
 
 ha moenu phiora lo punoki karami naweri. shia lue whu phenori pilora ka kelu punoa wepu. shia lue whu woe lo punoki karami phelu punoa wepu. shia rashowe nela kesu nai. shia wea phirae ruela wepu. shelami miona ruela wea whu lo miona mo sukima ka phaelo keiro si helui.
 
-ha moenu lo nophi moenu nela sila rinoka kolo nai. shia li lo nophi ma reo. lo mia thela kau ha wireo kamo we shia reo nai.
+ha moenu lo nophi moenu nela sila rinoka kolo nai. shia li lo nophi ma reo. shia reo pha lo mia thela kau ha wireo kamo pho we pharune.
 
 ha moenu lo phirae norae kelomi. li ta theali keiro ma nai. lo phirae sila mua theula muila ha nomei nela lo remole pilu. lila punoa ru helui lo shia lo miso thenoki thiku womu lorima.
 

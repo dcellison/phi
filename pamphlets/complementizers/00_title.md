@@ -2,7 +2,7 @@
 
 ## A practice companion to the manual
 
-Say `tha` aloud, then `tho`. The first ends with the jaw dropped open on `a`; the second ends with the lips rounding shut on `o`. Phi builds its clause brackets out of that gesture. Three pairs open an inner thought on `-a` and close it on `-o`: `tha`/`tho` for statements, `pha`/`pho` for yes-or-no questions, `sha`/`sho` for someone's exact words. Beside them stands `whu`, the opener that lets a whole clause describe a noun and lets the noun itself do the closing. Seven words, one gesture, and a listener always hears where a thought inside a thought begins and ends.
+Say `tha` aloud, then `tho`. The first ends with the jaw dropped open on `a`; the second ends with the lips rounding shut on `o`. Phi builds its clause brackets out of that gesture. Three pairs open an inner thought on `-a` and close it on `-o`: `tha`/`tho` for statements, `pha`/`pho` for questions, `sha`/`sho` for someone's exact words. Beside them stands `whu`, the opener that lets a whole clause describe a noun and lets the noun itself do the closing. Seven words, one gesture, and a listener always hears where a thought inside a thought begins and ends.
 
 The definitions live in manual chapter 19. What this pamphlet adds is room to practice: why the closers exist, each pair in depth, the errors English habits invite, and exercises with an answer key. The relative clauses pamphlet gives `whu` a treatment of its own; here it appears where its closer-free design explains the others.
 

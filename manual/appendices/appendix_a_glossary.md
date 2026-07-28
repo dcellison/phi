@@ -101,7 +101,7 @@ Click or hover on a row for a longer explanation of that gloss.
 | INCH | pa | inchoative | The aspect for an action's beginning: `mia pa shelomu` is I begin to understand. |
 | INFER | ke | inferred | Marks that the speaker reached the claim by inference from evidence, not by direct witness or report. |
 | INS | roe | with (tool) | The instrumental: the tool, means, or method an action uses. `mia roe kiru wolea kati` is I cut the wood with the chisel; company takes `nua` instead. |
-| INT.COMP | pha | embedded question (opener) | Opens an embedded yes/no question (I wonder whether). It always closes with `pho`. |
+| INT.COMP | pha | embedded question (opener) | Opens any embedded question, whether yes/no or content. It always closes with `pho`. |
 | INT.COMP.CLOSE | pho | embedded question (closer) | Closes a `pha` clause, marking where the embedded question ends so the main verb can follow without ambiguity. |
 | INTS | ru | intensifier | The intensifier: very, truly. `ru welao` is very good. |
 | IPFV | si | imperfective | The aspect for action in progress, mid-flow, right now, distinct from `ro` (habitual). |

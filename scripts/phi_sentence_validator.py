@@ -431,7 +431,12 @@ class PhiParser:
 
         if allow_fragments and self._word(start) == "whu":
             checkpoint = len(self.diagnostics)
-            relatives, _ = self._validate_relative_clauses(start, end, set())
+            relatives, _ = self._validate_relative_clauses(
+                start,
+                end,
+                set(),
+                allow_terminal=True,
+            )
             if len(self.diagnostics) == checkpoint and relatives:
                 relative = relatives[0]
                 clause_end = relative.children[0].end if relative.children else start
@@ -460,6 +465,40 @@ class PhiParser:
         if index < end and self._word(index) in DISCOURSE_MARKERS:
             discourse_node = SyntaxNode("discourse", index, index + 1, value=self._word(index))
             index += 1
+        if (
+            discourse_node
+            and index + 1 == end
+            and self._word(index) in self.lexicon.interjections
+        ):
+            return SyntaxNode(
+                "clause",
+                start,
+                end,
+                [
+                    *frame_nodes,
+                    discourse_node,
+                    SyntaxNode(
+                        "interjection",
+                        index,
+                        end,
+                        value=self._word(index),
+                    ),
+                ],
+            )
+        if index < end and self._word(index) in COORDINATORS:
+            self._error(
+                "PHS054",
+                f"coordinator '{self._word(index)}' must stand between equal constituents",
+                index,
+            )
+            return SyntaxNode("invalid-clause", start, end)
+        if self._word(end - 1) in COORDINATORS:
+            self._error(
+                "PHS054",
+                f"coordinator '{self._word(end - 1)}' needs an equal constituent after it",
+                end - 1,
+            )
+            return SyntaxNode("invalid-clause", start, end)
         for late in range(index, end):
             if self._inside_frame(late, index, end):
                 continue
@@ -493,7 +532,12 @@ class PhiParser:
             children.append(adverbial)
             return SyntaxNode("clause", start, end, children)
 
-        core = self._parse_core_clause(index, end, allow_gap=allow_gap)
+        core = self._parse_core_clause(
+            index,
+            end,
+            allow_gap=allow_gap,
+            direct_question=any(node.value == "wa" for node in frame_nodes),
+        )
         if core is None:
             return None
         children = [*frame_nodes]
@@ -545,22 +589,6 @@ class PhiParser:
             for index in self._top_level_indices(start, end)
             if self._word(index) in COORDINATORS
         ]
-        for index in candidates:
-            if (
-                index > start
-                and index + 1 < end
-                and self.lexicon.pos(self._word(index - 1)) == "verb"
-                and self.lexicon.pos(self._word(end - 1)) == "verb"
-            ):
-                left = self._parse_clause(start, index, allow_gap=allow_gap)
-                right = self._parse_clause(index + 1, end, allow_gap=allow_gap)
-                return SyntaxNode(
-                    "clause-coordination",
-                    start,
-                    end,
-                    [node for node in (left, right) if node],
-                    self._word(index),
-                )
         for index in candidates:
             if index <= start or index + 1 >= end:
                 continue
@@ -635,7 +663,12 @@ class PhiParser:
         return SyntaxNode("invalid-adverbial", start, end, value=relator)
 
     def _parse_core_clause(
-        self, start: int, end: int, *, allow_gap: bool
+        self,
+        start: int,
+        end: int,
+        *,
+        allow_gap: bool,
+        direct_question: bool = False,
     ) -> SyntaxNode | None:
         if start >= end:
             self._error("PHS050", "clause has no predicate", start)
@@ -662,10 +695,6 @@ class PhiParser:
         frame_nodes = self._validate_complement_frames(start, end)
         relative_nodes, relative_mask = self._validate_relative_clauses(start, end, nested)
         nested |= relative_mask
-        interrogative_nodes, interrogative_mask = self._validate_bare_interrogatives(
-            start, end, nested
-        )
-        nested |= interrogative_mask
 
         top_level = [
             index
@@ -676,6 +705,13 @@ class PhiParser:
             index for index in top_level if self._word(index) in self.lexicon.slot1_words
         ]
         self._validate_slot1(slot1_indices)
+        self._validate_interrogative_surface(
+            start,
+            predicate_index,
+            slot1_indices,
+            nested,
+            direct_question,
+        )
         self._validate_clause_relators(start, end, predicate_index, nested)
         self._validate_predicate_suffix(start, end, predicate_index, slot1_indices, nested)
         self._validate_slot2_and_quantity(start, end, nested)
@@ -685,10 +721,64 @@ class PhiParser:
         children = [
             *frame_nodes,
             *relative_nodes,
-            *interrogative_nodes,
             SyntaxNode("predicate", predicate_index, predicate_index + 1, value=predicate),
         ]
         return SyntaxNode("core-clause", start, end, children)
+
+    def _validate_interrogative_surface(
+        self,
+        start: int,
+        predicate_index: int,
+        slot1_indices: Sequence[int],
+        nested: set[int],
+        direct_question: bool,
+    ) -> None:
+        interrogatives = [
+            index
+            for index in range(start, predicate_index)
+            if index not in nested
+            and self._word(index) in self.lexicon.interrogatives
+        ]
+        if direct_question and interrogatives:
+            self._error(
+                "PHS055",
+                "wa asks a yes-or-no question and cannot share its clause "
+                "with a content-question gap-word",
+                interrogatives[0],
+            )
+
+        boundary = slot1_indices[0] if slot1_indices else predicate_index
+        predicate = self._word(predicate_index)
+        for misa in (
+            index for index in interrogatives if self._word(index) == "misa"
+        ):
+            if misa >= boundary:
+                self._error(
+                    "PHS130",
+                    "misa occupies the reason position before the Slot 1 stack",
+                    misa,
+                )
+                continue
+            if predicate in PREDICATIVE_VERBS:
+                continue
+            misplaced = next(
+                (
+                    index
+                    for index in range(misa + 1, boundary)
+                    if index not in nested
+                    and self._word(index) not in SLOT2_WORDS
+                    and self.lexicon.pos(self._word(index)) != "adjective"
+                ),
+                None,
+            )
+            if misplaced is not None:
+                self._error(
+                    "PHS130",
+                    "misa follows the clause's arguments and stands immediately "
+                    "before its predicate phrase",
+                    misa,
+                    misplaced,
+                )
 
     def _validate_clause_relators(
         self, start: int, end: int, predicate_index: int, nested: set[int]
@@ -741,27 +831,27 @@ class PhiParser:
                 opener + 1, closer, allow_fragments=(kind == "sha")
             )
             if kind == "pha":
-                inner_words = {
-                    self._word(index)
-                    for index in range(opener + 1, closer)
-                    if self._word(index) != "."
-                }
-                if "wa" in inner_words or inner_words & self.lexicon.interrogatives:
+                inner_words = self._direct_frame_words(opener, closer)
+                if "wa" in inner_words:
                     self._error(
                         "PHS082",
-                        "pha ... pho embeds a yes/no proposition; content questions embed bare",
+                        "pha ... pho embeds a question; wa is reserved for direct "
+                        "yes-or-no questions",
                         opener,
                     )
             if kind == "tha":
-                inner_words = {
-                    self._word(index)
-                    for index in range(opener + 1, closer)
-                    if self._word(index) != "."
-                }
+                inner_words = self._direct_frame_words(opener, closer)
                 if "wa" in inner_words:
                     self._error(
                         "PHS083",
                         "tha ... tho embeds a statement, not a direct question",
+                        opener,
+                    )
+                if inner_words & self.lexicon.interrogatives:
+                    self._error(
+                        "PHS084",
+                        "tha ... tho embeds a statement; an embedded content "
+                        "question requires pha ... pho",
                         opener,
                     )
             if len(self.diagnostics) > checkpoint and inner is None:
@@ -791,59 +881,18 @@ class PhiParser:
                 )
         return nodes
 
-    def _validate_bare_interrogatives(
-        self, start: int, end: int, already_nested: set[int]
-    ) -> tuple[list[SyntaxNode], set[int]]:
-        """Recognize a bare content-question clause before a matrix verb.
-
-        Yes/no complements have the audible ``pha ... pho`` boundary. A
-        content interrogative supplies its own boundary cue and therefore
-        embeds without that frame.
-        """
-        visible_verbs = [
-            index
-            for index in range(start, end)
-            if index not in already_nested
-            and self.lexicon.pos(self._word(index)) == "verb"
-        ]
-        if len(visible_verbs) < 2:
-            return [], set()
-
-        for interrogative in range(start, visible_verbs[-1]):
-            if (
-                interrogative in already_nested
-                or self._word(interrogative) not in self.lexicon.interrogatives
-            ):
+    def _direct_frame_words(self, opener: int, closer: int) -> set[str]:
+        words = set()
+        index = opener + 1
+        while index < closer:
+            nested_closer = self.frame_close.get(index)
+            if nested_closer is not None and nested_closer < closer:
+                index = nested_closer + 1
                 continue
-            embedded_end = next(
-                (
-                    index + 1
-                    for index in visible_verbs
-                    if interrogative < index < visible_verbs[-1]
-                ),
-                None,
-            )
-            if embedded_end is None:
-                continue
-            for embedded_start in range(interrogative, start, -1):
-                checkpoint = len(self.diagnostics)
-                clause = self._parse_clause(
-                    embedded_start, embedded_end, allow_gap=False
-                )
-                if len(self.diagnostics) == checkpoint:
-                    return (
-                        [
-                            SyntaxNode(
-                                "bare-interrogative-complement",
-                                embedded_start,
-                                embedded_end,
-                                [clause] if clause else [],
-                            )
-                        ],
-                        set(range(embedded_start, embedded_end)),
-                    )
-                del self.diagnostics[checkpoint:]
-        return [], set()
+            if self._word(index) != ".":
+                words.add(self._word(index))
+            index += 1
+        return words
 
     def _nested_mask(self, start: int, end: int) -> set[int]:
         nested: set[int] = set()
@@ -853,7 +902,12 @@ class PhiParser:
         return nested
 
     def _validate_relative_clauses(
-        self, start: int, end: int, already_nested: set[int]
+        self,
+        start: int,
+        end: int,
+        already_nested: set[int],
+        *,
+        allow_terminal: bool = False,
     ) -> tuple[list[SyntaxNode], set[int]]:
         nodes = []
         nested = set()
@@ -862,7 +916,9 @@ class PhiParser:
                 continue
             found = None
             for clause_end in reversed(self._candidate_clause_ends(whu + 1, end)):
-                if clause_end >= end:
+                if clause_end > end or (
+                    clause_end == end and not allow_terminal
+                ):
                     continue
                 checkpoint = len(self.diagnostics)
                 clause = self._parse_clause(whu + 1, clause_end, allow_gap=True)
@@ -1034,10 +1090,21 @@ class PhiParser:
                 position += 1
                 continue
             run = []
-            while position < len(indices) and self._word(indices[position]) in SLOT2_WORDS:
+            while (
+                position < len(indices)
+                and self._word(indices[position]) in SLOT2_WORDS
+                and (not run or indices[position] == run[-1] + 1)
+            ):
                 run.append(indices[position])
                 position += 1
-            target = indices[position] if position < len(indices) else None
+            target = (
+                indices[position]
+                if (
+                    position < len(indices)
+                    and indices[position] == run[-1] + 1
+                )
+                else None
+            )
             self._validate_slot2_run(run, target)
 
         self._validate_quantity_strategies(indices)
@@ -1140,6 +1207,8 @@ class PhiParser:
                 phrase = numeral_words[: max(numeral_end, 1)]
                 offset = position + max(numeral_end, 1)
             while offset < len(indices):
+                if indices[offset] != indices[offset - 1] + 1:
+                    break
                 candidate = self._word(indices[offset])
                 if (
                     candidate in self.lexicon.prepositions
@@ -1156,10 +1225,17 @@ class PhiParser:
             strategies += int(any(item in self.lexicon.quantifiers for item in phrase))
             strategies += int(any(item in NUMERAL_DIGITS for item in phrase))
             strategies += int("wia" in phrase)
-            if strategies > 1:
+            doubled_lo = phrase.count("lo") > 1
+            if doubled_lo or strategies > 1:
+                message = (
+                    "lo cannot be doubled within one noun phrase"
+                    if doubled_lo
+                    else "lo, a numeral, a quantifier, and wia are alternative "
+                    "quantity strategies"
+                )
                 self._error(
                     "PHS115",
-                    "lo, a numeral, a quantifier, and wia are alternative quantity strategies",
+                    message,
                     index,
                 )
             if any(item in self.lexicon.quantifiers for item in phrase) and any(
@@ -1238,7 +1314,7 @@ class PhiParser:
             return False
         if any(word in COMPLEMENT_PAIRS or word in COMPLEMENT_CLOSERS for word in words):
             return False
-        if any(self.lexicon.pos(word) == "verb" for word in words):
+        if self.lexicon.pos(words[-1]) == "verb":
             return False
         return self._valid_nominal_span(start, end)
 

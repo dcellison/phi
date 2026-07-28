@@ -38,9 +38,9 @@ mia tha thia tha shia to wepu tho to haolu tho sano.
 
 The first **tho** completes "that they left." The past **haolu** then completes "you said that they left," and the second **tho** returns the sentence to **mia ... sano**. Nesting is regular, though a second sentence may be kinder to working memory when the frames begin to breed.
 
-## Embedded yes-or-no questions: `pha ... pho`
+## Embedded questions: `pha ... pho`
 
-**pha** turns a question with yes and no as possible answers into the object of a larger clause. **pho** closes that question before the main predicate.
+**pha** turns a question into the object of a larger clause. **pho** closes the question before the main predicate. A question with no gap-word asks whether its proposition holds:
 
 ```
 mia pha shia to wepu pho phaelo.
@@ -60,28 +60,28 @@ shia pha mia to nila pho to thilou.
 (They asked whether I had seen.)
 ```
 
-The embedded question never takes **wa**. **wa** frames a direct question addressed to someone; **pha ... pho** makes the unresolved yes-or-no proposition part of a statement.
+An embedded question never takes **wa**. **wa** announces a direct yes-or-no question addressed to someone; **pha ... pho** announces a question held inside another clause.
 
 ## Embedded content questions
 
-A content question already contains the gap-word that identifies what is unknown. The interrogative stands where its answer would stand, and no **pha ... pho** frame is used.
+A content question keeps the gap-word that identifies what is unknown. The interrogative stands where its answer would stand, inside the same **pha ... pho** boundary used by every embedded question. The gap-word and the frame are not doing the same work: one names the missing role, while the other tells the listener exactly where the inner question begins and ends.
 
 ```
-mia sua to wepu sano.
-1SG who PST go know.
+mia pha sua to wepu pho sano.
+1SG INT.COMP who PST go INT.COMP.CLOSE know.
 (I know who left.)
 ```
 
 ```
-mia ne sulae kua nai ma sano.
-1SG NAME sulae where be NEG know.
+mia pha ne sulae kua nai pho ma sano.
+1SG INT.COMP NAME sulae where be INT.COMP.CLOSE NEG know.
 (I do not know where sulae is.)
 ```
 
 ```
-shia thela peloru thuroa shelomu.
-3SG how flower grow understand.
+shia pha thela peloru thuroa pho shelomu.
+3SG INT.COMP how flower grow INT.COMP.CLOSE understand.
 (They understand how the flowers grow.)
 ```
 
-The surrounding clauses are statements. **sua**, **kua**, and **thela** occupy the unknown roles inside their embedded content, while the final predicates say what the matrix subjects know or understand.
+The surrounding clauses are statements. **sua**, **kua**, and **thela** occupy the unknown roles inside their framed questions, while the predicates after **pho** say what the matrix subjects know or understand. Without that closing word, a listener would again have to guess which inner predicate belongs to which outer one.

@@ -45,11 +45,12 @@ The default command parses every structured sentence under `vocabulary/` and eve
 |---|---|
 | Surface | Lowercase Phi words, single spaces, periods only, and a final period |
 | Lexicon and names | Every token is current vocabulary or a legal name atom in the position licensed by `ne` or an honorific |
-| Sentence frame | Slot 0 opens the sentence; only `pi wa` and `pi no` combine; a discourse marker follows the frame and precedes the clause |
+| Sentence frame | Slot 0 opens the sentence; only `pi wa` and `pi no` combine; a discourse marker follows the frame and precedes the clause; a coordinator stands between equal constituents |
+| Questions | `wa` asks about the whole proposition and stays out of a clause with a content-question gap-word; `misa` occupies the reason position before the predicate phrase |
 | Predicate | A complete assertion ends in a lexical verb; interjections, vocatives, and recognized nominal fragments have their own trees |
 | Slot 1 | Tense, aspect, voice, evidentiality, modality, and negation keep their fixed order and one-per-rank limit, with `se ka` as the single paired voice |
-| Slot 2 | Wider scope comes first, quantity strategies stay separate, `mo ko` keeps its fixed order, and `lo ha` or `lo ra` is licensed only as a bare plural pronoun |
-| Complements | `tha ... tho`, `pha ... pho`, and `sha ... sho` balance and nest; content questions embed bare; quotations close on one of the four canonical speech or hearing verbs |
+| Slot 2 | Wider scope comes first, a noun phrase uses one quantity strategy, `lo` cannot double, `mo ko` keeps its fixed order, and `lo ha` or `lo ra` is licensed only as a bare plural pronoun |
+| Complements | `tha ... tho`, `pha ... pho`, and `sha ... sho` balance and nest; every embedded question takes `pha ... pho`; `wa` stays out of that frame; quotations close on one of the four canonical speech or hearing verbs |
 | Dependent material | Relative, adverbial, purpose, and conditional material precedes what it modifies; a `lu` condition is a complete sentence before its consequence |
 | Being and becoming | The predicative complement precedes the Slot 1 stack and `nai` or `kelu`; manner remains immediately before the final verb |
 | Relations and number | Prepositions receive an object before the predicate stack, exact numerals descend through each scale once, and classifiers appear only where the numeral system licenses them |
@@ -60,10 +61,10 @@ Diagnostic codes begin with `PHS`. They are stable enough for regression tests a
 
 The parser knows grammar, not the English translation beside it. It cannot decide whether an evidential claim is warranted, whether an honorific tells the truth about a relationship, or whether a source sentence has been translated faithfully.
 
-Some attachment remains ambiguous on the Phi surface. A clause-initial pronoun can head a possessive phrase when later structure forces that reading, while event nouns and quality nouns retain their verb or adjective spelling. The parser accepts any legal surface parse instead of inventing semantic valency. A sentence whose intended object order depends only on the English translation still needs a human reading. The machine catches determinate modifier-first failures and leaves genuine ambiguity visible.
+Some attachment remains ambiguous on the Phi surface. A clause-initial pronoun can head a possessive phrase when later structure forces that reading, while event nouns and quality nouns retain their verb or adjective spelling. Embedded questions no longer add another uncertain boundary: `pha` opens the complete question and `pho` returns the listener to the surrounding clause. The parser accepts any legal surface parse instead of inventing semantic valency. A sentence whose intended object order depends only on the English translation still needs a human reading. The machine catches determinate modifier-first failures and leaves genuine lexical ambiguity visible.
 
 ## Corpus adoption
 
 CI parses every structured lexicon example, the maintained teaching corpus, and the grammar regression suite. Literary texts and older evaluation material predate this parser, so the broader `--docs` scan remains an audit and migration tool until each remaining corpus area has been reviewed against the new tree. A clean default run means every dictionary sentence and every recognized example in canon, the references, manual, pamphlets, primer, book, Kia, and the Short Road parses. It does not yet say the same about every literary or evaluation line.
 
-Each reviewed corpus area can move under the mandatory command without weakening the grammar to accommodate what the scan finds.
+Each reviewed corpus area can move under the mandatory command after its rejected sentences have been separated into text defects and parser defects. The text changes only after the parser defects are repaired. That order matters: an old sentence does not become grammatical merely because satisfying a mistaken diagnostic would be convenient.

@@ -8,16 +8,21 @@
   "pos": "complementizer",
   "search_terms": [
     "whether",
-    "embedded yes or no question",
+    "embedded question",
+    "embedded content question",
     "interrogative complement"
   ],
-  "description": "With 'pha', a question whose possible answers are yes and no becomes the content of a larger statement. Its partner 'pho' (INT.COMP.CLOSE) ends the uncertainty, and the larger statement's predicate follows. Direct questions use 'wa' (Q); embedded content questions put a gap-word in place and need no frame.",
+  "description": "With 'pha', a complete question becomes the content of a larger clause. Its partner 'pho' (INT.COMP.CLOSE) marks the far edge, and the surrounding predicate follows. A yes-or-no question needs no gap-word inside; a content question keeps the word that names what is missing.",
   "articulatory_notes": "Bring the lips close without letting them meet and blow a thin unvoiced stream through the gap for 'ph'. The lips part, the jaw drops, and voice comes on for open central 'a'. One syllable under full stress.",
-  "usage_notes": "The questioned clause occupies object position between 'pha' and 'pho'. It uses the usual clause order and independent tense marking, but it never takes 'wa'. With 'phaelo' (feel) the frame means wonder; 'sano' (know) makes it something known or not known.",
+  "usage_notes": "The questioned clause stands between 'pha' and 'pho' with ordinary word order and its own tense marking. It never takes 'wa' (Q). A content gap-word remains where its answer would stand inside the frame; with 'phaelo' (feel) the whole frame means wonder, while 'sano' (know) makes its answer known or unknown.",
   "examples": [
     {
       "phi": "mia pha shia to wepu pho phaelo.",
       "translation": "I wonder whether they left."
+    },
+    {
+      "phi": "mia pha sua to wepu pho sano.",
+      "translation": "I know who left."
     }
   ]
 }

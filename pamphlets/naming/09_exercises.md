@@ -49,7 +49,7 @@ For each corpus line, say why `ne` is present or absent.
 21. `ne sulae ha ma nai.`
 22. `wa siora sulopa sola milura nuola.`
 23. `ne siora pao.`
-24. `mia ne sulae kua nai ma sano.`
+24. `mia pha ne sulae kua nai pho ma sano.`
 25. `ne thinoe sha no wei muila thinoe loa. … sho to haolu.`: account for both the announced `thinoe` and the bare one.
 
 ## Part F: Build a Phi-form name

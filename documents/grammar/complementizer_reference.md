@@ -11,7 +11,7 @@ Complementizers are one-syllable function words that introduce subordinate claus
 ### `whu` - Relativizer (REL)
 
 **Function**: Introduces relative clauses that describe a noun
-**IPA**: /ˈre̞.n̪ä/
+**IPA**: /ˈʍu/
 **Position**: Before the relative clause and the noun it modifies
 **Structure**: `[whu CLAUSE] NOUN`
 
@@ -42,7 +42,7 @@ Complementizers are one-syllable function words that introduce subordinate claus
 ### `sha` / `sho` - Quotative (QUOT.COMP / QUOT.COMP.CLOSE)
 
 **Function**: Introduces and closes direct speech, preserving the exact words spoken
-**IPA**: /ˈʃo̞.lä/ and /ˈʃo̞.lo̞/
+**IPA**: /ˈʃä/ and /ˈʃo̞/
 **Position**: `sha` opens the quoted material; `sho` closes it. The main verb follows `sho`.
 **Structure**: `[Subject] sha [Quote] sho [Verb of speaking or receiving speech]`
 
@@ -68,7 +68,7 @@ mia sha mia so wepu sho to haolu.
 ### `tha` / `tho` - Declarative Complementizer (DECL.COMP / DECL.COMP.CLOSE)
 
 **Function**: Introduces and closes embedded declarative clauses (reports content, not exact words)
-**IPA**: /ˈme̞.n̪ä/ and /ˈme̞.n̪o̞/
+**IPA**: /ˈθä/ and /ˈθo̞/
 **Position**: `tha` opens the embedded statement; `tho` closes it. The main verb follows `tho`.
 **Structure**: `[Subject] tha [Embedded statement] tho [Main verb]`
 
@@ -104,10 +104,10 @@ mia tha thia tha shia to wepu tho phaelo tho shelomu.
 
 ### `pha` / `pho` - Interrogative Complementizer (INT.COMP / INT.COMP.CLOSE)
 
-**Function**: Introduces and closes embedded yes/no questions
-**IPA**: /ˈwe̞.lä/ and /ˈwe̞.lo̞/
+**Function**: Introduces and closes embedded questions
+**IPA**: /ˈɸä/ and /ˈɸo̞/
 **Position**: `pha` opens the embedded question; `pho` closes it. The main verb follows `pho`.
-**Structure**: `[Subject] pha [Embedded yes/no question] pho [Main verb]`
+**Structure**: `[Subject] pha [Embedded question] pho [Main verb]`
 
 **`pho` is required.** Like `tha`/`tho` and `sha`/`sho`, the closer marks where the embedded clause ends so the main verb can follow without ambiguity.
 
@@ -124,17 +124,24 @@ shia pha mia to nila pho to thilou.
 lo mia pha sileta mioru nai pho ma shelomu.
 PL 1SG INT.COMP sun beautiful be INT.COMP.CLOSE NEG understand.
 (We don't know whether the sun is beautiful.)
+
+mia pha ne sulae kua nai pho ma sano.
+1SG INT.COMP NAME sulae where be INT.COMP.CLOSE NEG know.
+(I do not know where sulae is.)
 ```
 
 **Distinction from related words**:
-- `wa` (question particle): Marks direct questions expecting response
+- `wa` (question particle): Marks direct yes/no questions expecting a response
+- a bare gap-word: Marks a direct content question
 - `lu` (Slot 0 conditional particle): Marks hypothetical conditions with consequences
-- `pha`/`pho` (interrogative complementizer pair): Embeds questions as content
+- `pha`/`pho` (interrogative complementizer pair): Embeds every kind of question as content
 
 **Comparison**:
 - `wa thia wepu` = Are you going? (direct question)
+- `thia kua wepu` = Where are you going? (direct content question)
 - `lu thia wepu. mia so ma towe phaelo` = If you go, I won't feel well. (conditional)
 - `mia pha thia wepu pho phaelo` = I wonder whether you're going. (embedded question)
+- `mia pha thia kua wepu pho ma sano` = I do not know where you are going. (embedded content question)
 
 ---
 
@@ -185,8 +192,8 @@ VOC NAME HON.INTIM moli. 1SG 2SG love.
 | `sho` | QUOT.COMP.CLOSE | Closes direct quotation | — |
 | `tha` | DECL.COMP | Opens embedded statements (reported content) | `tho` (required) |
 | `tho` | DECL.COMP.CLOSE | Closes embedded statements | — |
-| `pha` | INT.COMP | Opens embedded yes/no questions | `pho` (required) |
-| `pho` | INT.COMP.CLOSE | Closes embedded yes/no questions | — |
+| `pha` | INT.COMP | Opens embedded questions | `pho` (required) |
+| `pho` | INT.COMP.CLOSE | Closes embedded questions | — |
 | `kona` | VOC | Marks direct address | none (extra-clausal) |
 
 ---

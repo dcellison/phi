@@ -10,7 +10,7 @@
     "whether clause closer",
     "embedded question boundary"
   ],
-  "description": "At 'pho', a binary question begun by 'pha' (INT.COMP) ends before the surrounding predicate continues. The uncertainty may remain unresolved because the word completes a grammatical frame, not an answer.",
+  "description": "At 'pho', a question begun by 'pha' (INT.COMP) ends before the surrounding predicate continues. The question may ask whether a proposition holds or use a gap-word to identify the missing role. The closer completes a grammatical frame, not the answer itself.",
   "articulatory_notes": "The lips come near each other without closing, and unvoiced air passes through the narrow gap for 'ph'. They then round instead of spreading, the tongue retracts, and voicing carries mid back 'o'. One stressed syllable that finishes with the mouth close to where it began.",
   "usage_notes": "'pho' pairs only with 'pha' and cannot be replaced by a pause. In a nested sentence, it resolves the nearest unmatched 'pha' before the outer structure continues.",
   "examples": [
