@@ -1,6 +1,6 @@
 # Current state
 
-This snapshot was first assembled after pull request #418 merged on 17 July 2026 and is current through pull request #625 on 28 July 2026. It covers D055 and the completed SEM-09D corpus retrofit. The finished book, the practice-complete pamphlet shelf, and the first five chapters of *News from Nowhere* are current here as well. It also records the writing-system consolidation that made Tengwar Phi's sole alternative to romanization, the four renderer-led shelf identities, and the complete entrance sequence for Kia, the Short Road, and the Phi Book contents page. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
+This snapshot was first assembled after pull request #418 merged on 17 July 2026 and is current through pull request #627 on 28 July 2026. It covers D055 and the completed SEM-09D corpus retrofit. The finished book, the practice-complete pamphlet shelf, and the first five chapters of *News from Nowhere* are current here as well. It also records the writing-system consolidation that made Tengwar Phi's sole alternative to romanization, the four renderer-led shelf identities, and the complete entrance sequence for Kia, the Short Road, and the Phi Book contents page. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
 
 ## Active execution sequence
 
