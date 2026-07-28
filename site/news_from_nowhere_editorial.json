@@ -211,6 +211,50 @@
         "tables": 0,
         "ledger_rows": [],
         "inner_dividers": 1
+      },
+      {
+        "file": "chapter_05.md",
+        "number": 5,
+        "title": "Children on the Road",
+        "summary": "Children camp in Kensington wood, where a stray question about school opens into practical skill, books, languages, and chosen study. Westminster follows, along with Dick's cheerful defence of storing manure in Parliament.",
+        "movements": [
+          {
+            "level": 2,
+            "title": "shelira ruela — The road into the wood"
+          },
+          {
+            "level": 2,
+            "title": "lo lopia mua shelira — The children in the wood"
+          },
+          {
+            "level": 2,
+            "title": "ra phelui — That word"
+          },
+          {
+            "level": 2,
+            "title": "thesani nela lo shelu — Skill and books"
+          },
+          {
+            "level": 2,
+            "title": "lo haluma nela kanu shonela — Languages and chosen learning"
+          },
+          {
+            "level": 2,
+            "title": "lo shelu thunai — The book-students"
+          },
+          {
+            "level": 2,
+            "title": "lo tholua womu — The old buildings"
+          }
+        ],
+        "apparatus": "What the transmutation changed",
+        "opening_paragraphs": 2,
+        "interlinear_blocks": 7,
+        "interlinear_stanzas": 292,
+        "notes": 7,
+        "tables": 0,
+        "ledger_rows": [],
+        "inner_dividers": 1
       }
     ]
   }
