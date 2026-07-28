@@ -24,7 +24,7 @@ Short works each have one Markdown file. A book gets its own directory, where it
 | The Prophet, selections | Translation + transmutation | Three teachings, with On Children rendered both ways. | [Read](prophet_excerpts.md) |
 | Tao Te Ching, selections | Translation + transmutation | Legge's chapters 8, 11, 17, 63, and 76 rendered both ways. | [Read](tao_te_ching.md) |
 | The Heart Sutra | Translation + transmutation | Müller's smaller Heart Sutra in two renderings. | [Read](heart_sutra.md) |
-| News from Nowhere | Transmutation | The first four chapters of a planned 32. | [Open the book](news_from_nowhere/) |
+| News from Nowhere | Transmutation | The first five chapters of a planned 32. | [Open the book](news_from_nowhere/) |
 
 ## Maintaining the shelf
 
