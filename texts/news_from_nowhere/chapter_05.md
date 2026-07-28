@@ -335,8 +335,8 @@ mia sha ha lo womu sheloi lopia ke phelu sho to haolu.
 (I said, "These houses must hold many children.")
 morris: "\"They must be pretty well stocked with children,\" said I,"
 
-mia lo sheloi lopia sio ruela to thusemi.
-1SG PL MANY child BESIDE path PST point.
+mia sheloi lopia sio ruela to thusemi.
+1SG MANY child BESIDE path PST point.
 (I pointed towards the many children beside the road.)
 morris: "pointing to the many youngsters about the way."
 
@@ -742,8 +742,8 @@ BECAUSE PL 3SG NEG beautiful write HAB do.
 (Because they make unlovely writing a habit.)
 morris: "because it gets them into a habit of ugly writing;"
 
-lo sheloi ma mioru thekiro phoa hina naphe.
-PL MANY NEG beautiful write do what help.
+sheloi ma mioru thekiro phoa hina naphe.
+MANY NEG beautiful write do what help.
 (What good is there in making a great quantity of ugly writing?)
 morris: "and what's the use of a lot of ugly writing being done,"
 
@@ -853,13 +853,13 @@ one three-group different language COM PL 1SG PROX two language HAB speak.
 (We speak these two alongside three other languages.)
 morris: "along with English or Welsh, or Irish,"
 
-ta ra lo haluma phea phirae haluma kire ti nai.
-one DIST PL language AS different language shape REP be.
+ta haluma thoa ra lo haluma phea phirae haluma kire ti nai.
+one language AMONG DIST PL language AS different language shape REP be.
 (One of those languages is said to be a form of another.)
 morris: "which is another form of Welsh;"
 
-lao lo shia wheo theula ra lo haluma sano lo lopia ra lo haluma reshi ro shonela.
-BECAUSE PL 3SG elder UNIV DIST PL language know PL child DIST PL language fast HAB learn.
+lao lo shia wheo ra theula haluma sano lo lopia ra lo haluma reshi ro shonela.
+BECAUSE PL 3SG elder DIST UNIV language know PL child DIST PL language fast HAB learn.
 (The children learn those languages quickly because all their elders know them.)
 morris: "and children pick them up very quickly, because their elders all know them;"
 
@@ -1430,8 +1430,8 @@ ADD one large REL different name hold home be.
 (There is also a great building with its own source name.)
 morris: "and a big building called St. Paul's."
 
-lo mia tha lo phina ma mioru womu whano tho na ma whakeru.
-PL 1SG DECL.COMP PL FEW NEG beautiful home stand DECL.COMP.CLOSE NEC NEG object.
+lo mia tha phina ma mioru womu whano tho na ma whakeru.
+PL 1SG DECL.COMP FEW NEG beautiful home stand DECL.COMP.CLOSE NEC NEG object.
 (We need not object to a few unlovely buildings standing.)
 morris: "And you see, in this matter we need not grudge a few poorish buildings standing,"
 

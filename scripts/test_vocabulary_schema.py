@@ -191,6 +191,92 @@ class VocabularySchemaTests(unittest.TestCase):
             [],
         )
 
+    def test_plural_cannot_stack_with_numerals_or_quantifiers(self):
+        pos_by_word = {
+            data["word"]: data["pos"] for _rel, data in self.entries
+        }
+        invalid = (
+            "lo sheloi lopia",
+            "sheloi lo lopia",
+            "lo wi melu",
+            "wi lo melu",
+            "lo ta shao shiro",
+            "ta shao lo shiro",
+            "ta ra lo haluma",
+            "theula ra lo haluma",
+            "sheloi mo serao lo thena",
+        )
+        for phrase in invalid:
+            with self.subTest(phrase=phrase):
+                self.assertTrue(
+                    validate_examples.quantity_tier_stacks(
+                        phrase.split(), pos_by_word
+                    )
+                )
+
+        valid = (
+            "lo mia",
+            "lo shiro",
+            "ha lo thena",
+            "sheloi lopia",
+            "wi melu",
+            "ta shao shiro",
+            "ra theula haluma",
+            "ta haluma thoa ra lo haluma",
+            "sheloi miona lo thena phelu",
+        )
+        for phrase in valid:
+            with self.subTest(phrase=phrase):
+                self.assertEqual(
+                    validate_examples.quantity_tier_stacks(
+                        phrase.split(), pos_by_word
+                    ),
+                    [],
+                )
+
+        self.assertEqual(
+            validate_examples.asserted_quantity_tier_stacks(
+                "*lo wi melu", pos_by_word
+            ),
+            [],
+        )
+        self.assertTrue(
+            validate_examples.asserted_quantity_tier_stacks(
+                "lo wi melu.", pos_by_word
+            )
+        )
+        self.assertEqual(
+            validate_examples.asserted_quantity_tier_stacks(
+                "lo shiro nai. wi melu shua.", pos_by_word
+            ),
+            [],
+        )
+
+        lexicon_words = set(self.by_word)
+        content_words = {
+            data["word"]
+            for rel, data in self.entries
+            if rel.parts[1] == "content"
+        }
+        prepositions = {
+            data["word"]
+            for _rel, data in self.entries
+            if data.get("pos") == "preposition"
+        }
+        errors = validate_examples.structured_example_errors(
+            "test",
+            0,
+            "lo sheloi miona shua.",
+            lexicon_words,
+            content_words,
+            prepositions,
+            validate_examples.slot1_rank_map(self.entries),
+            pos_by_word,
+        )
+        self.assertTrue(
+            any("quantity-tier stack" in error for error in errors)
+        )
+
     def test_purpose_frame_precedes_what_it_modifies(self):
         self.assertEqual(
             validate_examples.purpose_frame_misplacements(

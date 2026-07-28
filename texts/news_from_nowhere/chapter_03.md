@@ -1204,8 +1204,8 @@ NAME selomi PST stubborn speak. 1SG DECL.COMP 3SG PL story INTS good be DECL.COM
 ("Well, Dick," said the weaver doggedly, "I think his stories are very good.")
 morris: "\"Well, Dick,\" said the weaver, doggedly, \"I think his novels are very good.\""
 
-ne kulo sha thia ha shewo remo. sho to haolu. lo ta philea pelori wiso sholei.
-NAME kulo QUOT.COMP 2SG PROX true think. QUOT.COMP.CLOSE PST speak. PL one feather bird RECP gather.
+ne kulo sha thia ha shewo remo. sho to haolu. ta philea pelori wiso sholei.
+NAME kulo QUOT.COMP 2SG PROX true think. QUOT.COMP.CLOSE PST speak. one feather bird RECP gather.
 ("Of course you do," said Dick. "Birds of one feather gather together.")
 morris: "\"Of course you do,\" said Dick; \"birds of a feather flock together;"
 

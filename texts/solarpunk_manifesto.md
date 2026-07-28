@@ -215,8 +215,8 @@ solarpunk: "Solarpunk recognizes science fiction as not just entertainment but a
 ### 14. Three futures refused
 
 ```
-ha moenu tha shia ta shao wireo weni naweri tho rinu. mua ta weni muila sheru lumeo. nu wi weni thei lo sheloi panuri phelu miona nela lo phina panuri phelu miona ta whu se po ma phae kopharu phelu. mua nu ta shao weni lo phenori phelu punoki punoa karami phelu. ha porua woe wireo ma nai. lo mia shia po ruweli.
-PROX culture DECL.COMP 3SG one three-group future imagine refuse DECL.COMP.CLOSE want. LOC one imagine earth slow die. ORD two imagine BETWEEN PL MANY resource hold person COORD PL FEW resource hold person one REL PASS POT NEG open barrier hold. LOC ORD one three-group imagine PL ownership hold institution society authority hold. PROX purpose FAR future NEG be. PL 1SG 3SG POT access.
+ha moenu tha shia ta shao wireo weni naweri tho rinu. mua ta weni muila sheru lumeo. nu wi weni thei sheloi panuri phelu miona nela phina panuri phelu miona ta whu se po ma phae kopharu phelu. mua nu ta shao weni lo phenori phelu punoki punoa karami phelu. ha porua woe wireo ma nai. lo mia shia po ruweli.
+PROX culture DECL.COMP 3SG one three-group future imagine refuse DECL.COMP.CLOSE want. LOC one imagine earth slow die. ORD two imagine BETWEEN MANY resource hold person COORD FEW resource hold person one REL PASS POT NEG open barrier hold. LOC ORD one three-group imagine PL ownership hold institution society authority hold. PROX purpose FAR future NEG be. PL 1SG 3SG POT access.
 (This culture wants to refuse three imagined futures. In one imagining, Earth slowly dies. The second holds a barrier between people with many resources and people with few, a barrier that cannot be opened. In the third imagining, institutions with ownership hold authority over society. This purpose is not in the distant future. We can reach it.)
 solarpunk: "Solarpunk wants to counter the scenarios of a dying earth, an insuperable gap between rich and poor, and a society controlled by corporations. Not in hundreds of years, but within reach."
 ```
@@ -431,7 +431,7 @@ ha moenu tha sui luera kowanu nela lo thesori somaki sano weni nophi wiso to ka 
 
 lo thesori somaki sano weni nophi li loshi wile ma nai. lo shia we shaweri keiro nai. ha moenu ha lo thena miratu.
 
-ha moenu tha shia ta shao wireo weni naweri tho rinu. mua ta weni muila sheru lumeo. nu wi weni thei lo sheloi panuri phelu miona nela lo phina panuri phelu miona ta whu se po ma phae kopharu phelu. mua nu ta shao weni lo phenori phelu punoki punoa karami phelu. ha porua woe wireo ma nai. lo mia shia po ruweli.
+ha moenu tha shia ta shao wireo weni naweri tho rinu. mua ta weni muila sheru lumeo. nu wi weni thei sheloi panuri phelu miona nela phina panuri phelu miona ta whu se po ma phae kopharu phelu. mua nu ta shao weni lo phenori phelu punoki punoa karami phelu. ha porua woe wireo ma nai. lo mia shia po ruweli.
 
 ha moenu helia pilewa moenu nela lo pai sila keiro nela lo pai sila thewaki kenua phaliso nela lo miso ketora terura kealo keiro sone. ha lo terura kelitho. shia muila lothea.
 

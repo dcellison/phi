@@ -32,6 +32,7 @@ The single validation tool for the Phi project. Checks:
        translation lines and marked-wrong teaching examples are exempt)
      - purpose frames opened by `lila` precede the main clause they modify;
        the separate `S lila V ralu nai` freedom construction remains valid
+     - plural `lo` never shares one noun phrase with a numeral or quantifier
      - Slot 0 framing precedes dependent and discourse material at each
        sentence or coordinate boundary, with outermost `pi` first
      - discourse markers follow any Slot 0 frame and precede the sentence
@@ -133,6 +134,10 @@ COMPLEMENT_CLOSERS = {
 SLOT0_WORDS = {"pi", "wa", "no", "lu", "he", "su"}
 DISCOURSE_MARKERS = {
     "phisu", "shekoi", "shelao", "sheno", "shorela", "thelao", "whekai",
+}
+NUMERAL_SCALE_WORDS = {"shao", "phoi", "lau", "rei"}
+NOUN_PHRASE_MODIFIER_POS = {
+    "particle", "quantifier", "numeral", "classifier", "adjective",
 }
 
 
@@ -700,6 +705,14 @@ def check_lexicon(entries):
                         f"{field} (canon: lila and its dependent clause "
                         f"precede the main clause)"
                     )
+                for run in asserted_quantity_tier_stacks(
+                    span, pos_by_word
+                ):
+                    errors.append(
+                        f"{rel}: quantity-tier stack '{run}' in {field} "
+                        "(canon: lo, numerals, and quantifiers are "
+                        "alternative quantity strategies)"
+                    )
             for cited, paren in CITED.findall(text):
                 if not set(cited) <= PHI_LETTERS or cited == word:
                     continue
@@ -870,6 +883,58 @@ def slot1_misorders(tokens, slot1_rank):
         else:
             i += 1
     return bad
+
+
+def quantity_tier_stacks(tokens, pos_by_word):
+    """Return modifier runs that combine plural ``lo`` with another
+    quantity strategy.
+
+    Exact numerals may contain several digits and scale words, so the check
+    does not count quantity tokens. It asks only whether ``lo`` occurs in the
+    same modifier run as a numeral, scale word, or ordinary quantifier.
+    """
+    bad = []
+
+    def is_modifier(token):
+        return (
+            token in NUMERAL_SCALE_WORDS
+            or pos_by_word.get(token) in NOUN_PHRASE_MODIFIER_POS
+        )
+
+    def is_other_quantity(token):
+        return (
+            token in NUMERAL_SCALE_WORDS
+            or pos_by_word.get(token) in {"quantifier", "numeral"}
+        )
+
+    index = 0
+    while index < len(tokens):
+        if not is_modifier(tokens[index]):
+            index += 1
+            continue
+        end = index
+        while end < len(tokens) and is_modifier(tokens[end]):
+            end += 1
+        run = tokens[index:end]
+        has_other_quantity = any(
+            token != "lo" and is_other_quantity(token) for token in run
+        )
+        if "lo" in run and (run.count("lo") > 1 or has_other_quantity):
+            context_end = min(end + 1, len(tokens))
+            bad.append(" ".join(tokens[index:context_end]))
+        index = end
+    return bad
+
+
+def asserted_quantity_tier_stacks(raw_line, pos_by_word):
+    """Check asserted Phi while preserving deliberately marked errors."""
+    if raw_line.lstrip().startswith("*"):
+        return []
+    return [
+        run
+        for sentence in raw_line.split(".")
+        for run in quantity_tier_stacks(phi_tokens(sentence), pos_by_word)
+    ]
 
 
 CITATION_SOURCES = {
@@ -1513,6 +1578,12 @@ def structured_example_errors(
                 "(canon: lila and its dependent clause precede the main "
                 "clause)"
             )
+        for run in quantity_tier_stacks(tokens, pos_by_word):
+            errors.append(
+                f"{sentence_label}: quantity-tier stack '{run}' "
+                "(canon: lo, numerals, and quantifiers are alternative "
+                "quantity strategies)"
+            )
         final_pos = pos_by_word.get(tokens[-1])
         standalone_vocative = tokens[0] == "kona"
         if final_pos not in {"verb", "interjection"} and not standalone_vocative:
@@ -1760,6 +1831,14 @@ def check_docs(lexicon_words, paths=None, gloss_of=None, prepositions=None,
                         errors.append(f"{rel}:{lineno}: postposed preposition near '{run}' (canon: every preposition precedes its object)")
                     for run in purpose_frame_misplacements_in_line(cand.lower()):
                         errors.append(f"{rel}:{lineno}: postposed purpose frame near '{run}' (canon: lila and its dependent clause precede the main clause)")
+                    for run in asserted_quantity_tier_stacks(
+                        cand.lower(), pos_by_word
+                    ):
+                        errors.append(
+                            f"{rel}:{lineno}: quantity-tier stack '{run}' "
+                            "(canon: lo, numerals, and quantifiers are "
+                            "alternative quantity strategies)"
+                        )
                     candidate_tokens = phi_tokens(cand.lower())
                     has_opener = any(
                         token in COMPLEMENT_PAIRS for token in candidate_tokens

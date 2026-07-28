@@ -12,7 +12,7 @@ Slot 2 particles do not gather in one sentence-wide block. Each stands immediate
 
 **mia lo melu lothea.** — I love my friends.
 
-A numeral or quantifier replaces **lo**: **wi melu** is two friends, **ta shao shiro** is three trees, and **sheloi miona** is many people. Forms such as *lo wi melu* say the quantity twice and are not grammatical.
+A numeral or quantifier replaces **lo**: **wi melu** is two friends, **ta shao shiro** is three trees, and **sheloi miona** is many people. Forms such as `*lo wi melu` say the quantity twice and are not grammatical.
 
 ## nu: ordinal position
 
