@@ -255,6 +255,50 @@
         "tables": 0,
         "ledger_rows": [],
         "inner_dividers": 1
+      },
+      {
+        "file": "chapter_06.md",
+        "number": 6,
+        "title": "A Little Shopping",
+        "summary": "Piccadilly looks reassuringly like a shopping street until the traveller tries to shop. Children answer his questions about money, weight, and payment with gifts; an elder then revives a sharp old satire about idleness, coerced work, and the people once judged unfit for it.",
+        "movements": [
+          {
+            "level": 2,
+            "title": "phirae wisola lokue — Another kind of market"
+          },
+          {
+            "level": 2,
+            "title": "wethalu nela luera wisola kiroa — Clothes and old exchange-signs"
+          },
+          {
+            "level": 2,
+            "title": "solai welisha whila nela nuelo haolu — Golden hair and dark speech"
+          },
+          {
+            "level": 2,
+            "title": "lo lopia loami — The children's gifts"
+          },
+          {
+            "level": 2,
+            "title": "lureko milau — The fruit drink"
+          },
+          {
+            "level": 2,
+            "title": "serao miona sio kalora — The elder at the horse"
+          },
+          {
+            "level": 2,
+            "title": "luera mokanu nophi — The old disease story"
+          }
+        ],
+        "apparatus": "What the transmutation changed",
+        "opening_paragraphs": 2,
+        "interlinear_blocks": 7,
+        "interlinear_stanzas": 120,
+        "notes": 8,
+        "tables": 0,
+        "ledger_rows": [],
+        "inner_dividers": 1
       }
     ]
   }
