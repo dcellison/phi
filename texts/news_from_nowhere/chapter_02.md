@@ -956,8 +956,8 @@ thia lo thena wei whu phina thena phelu halemu womu po loa.
 (You might give them to some scantily-furnished memory-house.)
 morris: "you might give them to some scantily-furnished museum."
 
-lo mia halemu womu henoi phea ra lo thena phelu. halemu womu sheloi mo serao lo thena we phelu. sheloi ra lo thena mioru nai.
-PL 1SG remember home ENOUGH AS DIST PL thing hold. remember home MANY CMPR old PL thing ALSO hold. MANY DIST PL thing beautiful be.
+lo mia halemu womu ra henoi thena phelu. halemu womu sheloi mo serao thena we phelu. ra sheloi thena mioru nai.
+PL 1SG remember home DIST ENOUGH thing hold. remember home MANY CMPR old thing ALSO hold. DIST MANY thing beautiful be.
 (Ours has enough of such things, besides many older ones, and many of those are beautiful.)
 morris: "Ours has enough of such coins, besides a fair number of earlier ones, many of which are beautiful,"
 

@@ -12,7 +12,7 @@ Checks the entire language for internal consistency, and runs in CI on every pul
 
 - **Lexicon integrity**: complete Draft 2020-12 schema validation, phonotactic legality of every word, `syllables` arrays matching canonical hiatus syllabification, canonical IPA and serialization, gloss-derived filenames, structured Phi examples, prose-contract coverage, duplicate words, and duplicate glosses (warning).
 - **Minimal-pair ratchet**: two content words at edit distance 1 are an error unless grandfathered in `documents/validation/minimal_pairs_baseline.txt`, which may only shrink.
-- **Documentation examples**: every Phi word quoted in `documents/`, `project/`, `manual/`, `pamphlets/`, `primer/`, `texts/`, `CLAUDE.md`, `kia.md`, and `README.md` must exist in the vocabulary, except a valid productive name-form selected by `ne`. Works on fenced code blocks and *italicized/bold* spans.
+- **Documentation examples**: every Phi word quoted in `documents/`, `project/`, `manual/`, `pamphlets/`, `primer/`, `texts/`, `CLAUDE.md`, `kia.md`, and `README.md` must exist in the vocabulary, except a valid productive name-form selected by `ne`. The validator checks fenced code blocks and *italicized/bold* spans. It also rejects a noun phrase that combines `lo` with a numeral or quantifier while preserving deliberately marked counterexamples.
 - **Source citations**: every labeled literary citation must occur verbatim in its stored source. A source clause belongs to one aligned unit, except on a declared paired page where it may appear once in each named rendering.
 - **Productive names**: after `ne`, a name-form absent from the current lexicon must be lowercase, content-shaped, and two, three, or four syllables. Any legal four-syllable candidate is accepted without consulting lexical history. A name may match a current lexicon entry only when that entry is a content word; every current function and other non-content form remains unavailable.
 - **Three-syllable ceiling**: every lexical form must have at most three syllables, with no exception. The finite migration ledger records completed replacements rather than authorizing old forms.
@@ -33,7 +33,7 @@ Exit code 0 means no errors. Run the full check — as its own command, so the e
 
 Known limitation: single-word *italic* mentions in prose are not checked (the English/Phi heuristic needs at least two tokens). When retiring or renaming a word, grep for it explicitly.
 
-The focused regression suites cover the executable vocabulary contract, its transitional and target prose shapes, Slot 1 metadata, the productive-name open class, unconditional four-syllable name acceptance, current non-content exclusion, short retired lexical forms, the completed migration ledger, and the absence of long lexicon entries:
+The focused regression suites cover the executable vocabulary contract, its transitional and target prose shapes, Slot 1 metadata, Slot 2 quantity alternatives, the productive-name open class, unconditional four-syllable name acceptance, current non-content exclusion, short retired lexical forms, the completed migration ledger, and the absence of long lexicon entries:
 
 ```bash
 python3 scripts/test_vocabulary_schema.py

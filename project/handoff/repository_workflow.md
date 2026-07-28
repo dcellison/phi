@@ -87,7 +87,7 @@ python3 scripts/validate_examples.py neighbors CANDIDATE
 python3 scripts/validate_examples.py name PROPOSED_ONYM
 ```
 
-The full run checks JSON Schema, canonical serialization, phonotactics, IPA, syllables, filenames, duplicate words, duplicate-gloss warnings, minimal pairs, documentation vocabulary, source citations, productive names, the three-syllable ceiling, compound registry integrity, generated references, and prose-coverage freshness.
+The full run checks JSON Schema, canonical serialization, phonotactics, IPA, syllables, filenames, duplicate words, duplicate-gloss warnings, minimal pairs, documentation vocabulary, source citations, productive names, the three-syllable ceiling, quantity-tier stacking, compound registry integrity, generated references, and prose-coverage freshness.
 
 For vocabulary and Phi prose, zero errors and zero warnings is the expected result. A duplicate-gloss warning may expose a genuine semantic collision even when schema validation succeeds.
 
@@ -101,7 +101,7 @@ python3 scripts/test_content_vocabulary_decisions.py
 
 Invoke these files directly from the repository root. Running them through `python3 -m unittest scripts/...` can fail to resolve sibling imports even when the tests themselves are sound.
 
-The suites currently contain 24 schema tests, 20 name tests, and 8 decision-register tests.
+The suites currently contain 25 schema tests, 20 name tests, and 8 decision-register tests.
 
 ## Vocabulary coverage and decisions
 
