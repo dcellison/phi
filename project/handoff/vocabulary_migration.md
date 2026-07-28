@@ -193,9 +193,9 @@ Semantic domains are required for content words and may be revised during migrat
 
 ## Humanizer and voice pass
 
-Draft the complete, accurate batch first. Then make a separate Humanizer pass across every generated string, including decision summaries, coverage cells, semantic-domain rationales, and the PR body. Preserve exact forms, glosses, source quotations, schema structure, and validated Phi.
+Draft the complete, accurate batch first. Then make a separate Humanizer pass across every reader-facing string, including lexicon prose, semantic-domain rationales, speaker-facing module text, commit messages, and the PR title and body. Decision summaries, coverage cells, handoffs, audits, validation reports, and other internal records use direct, accurate prose without that pass. Preserve exact forms, glosses, source quotations, schema structure, and validated Phi.
 
-After Humanizer, audit the whole batch against `documents/reference/voice_for_models.md`:
+After Humanizer, audit the reader-facing batch against `documents/reference/voice_for_models.md`:
 
 - count negative litanies, disclaimer tails, compliance imperatives, rule-of-three constructions, present-participle tails, and copula avoidance;
 - scan explicitly for em and en dashes, curly quotes, banned inflation vocabulary, and the rejected hyphenated carrying-suffix construction;
@@ -206,7 +206,7 @@ After Humanizer, audit the whole batch against `documents/reference/voice_for_mo
 
 A prior 18-entry batch initially opened 13 descriptions with the same `A 'word' is ...` frame. Another repeated `instrument heard for` and `role through which` across neighbouring entries. Both passed per-file reading and failed the batch count. Measure the collection.
 
-When reporting the work, name a concrete pattern found and corrected. "Humanizer applied" is not evidence of a pass.
+When reporting reader-facing work, name a concrete pattern found and corrected. "Humanizer applied" is not evidence of a pass. Do not manufacture a pattern for an internal-only record.
 
 ## Batch artifacts
 

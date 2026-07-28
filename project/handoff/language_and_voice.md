@@ -149,7 +149,9 @@ A pillar rationale must be direct and specific. It should fail when pasted into 
 
 ## Phi project voice
 
-Before generating or revising any Phi project text, run all seven steps in full. Both documents apply whole, including the parts that look irrelevant to the artifact in hand, and both apply to every artifact rather than once per working session.
+Run the voice protocol only for prose that Phi speakers or general readers are expected to read as project content. This includes the book, manual, primer, pamphlets, literary texts, Kia, the Short Road, public site copy, lexicon prose, commit messages, pull-request titles and bodies, and public GitHub issue prose. Handoffs, plans, roadmaps, development logs, decision records, audit notes, validation reports, temporary reports, and internal boilerplate use direct, accurate prose without Humanizer or the voice guide. A pull request remains public and therefore in scope even when it describes internal files.
+
+For each reader-facing artifact, run all seven steps in full. Both documents apply whole, including the parts that look irrelevant to the artifact in hand, and they apply per artifact rather than once per working session.
 
 1. Read `documents/reference/voice_for_models.md` in full.
 2. Load Humanizer and read its `SKILL.md` in full.
@@ -159,7 +161,7 @@ Before generating or revising any Phi project text, run all seven steps in full.
 6. Validate Phi, structure, sources, and generated files after prose revision.
 7. Report one concrete pattern found and corrected.
 
-Two recorded failures shape step 4. A compressed loop once let one phrase stamp itself across a whole batch, and the model later audited an essay by judgment alone because the skill had been loaded hours earlier for different work. The skill's own audit question, asked of this text, catches what the writer's in-flight judgment cannot see in it.
+Two recorded failures shape step 4. A compressed loop once let one phrase stamp itself across a whole batch, and the model later audited an essay by judgment alone because the skill had been loaded hours earlier for different work. The skill's own audit question, asked of reader-facing text, catches what the writer's in-flight judgment cannot see in it. Do not spend that process on disposable operational prose.
 
 The voice has three registers:
 

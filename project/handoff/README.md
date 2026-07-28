@@ -1,6 +1,6 @@
 # Phi continuation handoff
 
-This directory is the transfer package for continuing Phi after 17 July 2026. It was first assembled from the live repository after pull request #418 merged and is current through pull request #622 on 28 July 2026. It records the current position, the working method, the tools, and the maintainer's standing instructions that are easy to lose when a conversation ends.
+This directory is the transfer package for continuing Phi after 17 July 2026. It was first assembled from the live repository after pull request #418 merged and is current through pull request #625 on 28 July 2026. It records the current position, the working method, the tools, and the maintainer's standing instructions that are easy to lose when a conversation ends.
 
 This package is a map, not a new authority. When anything here disagrees with a live source, follow the authority order in [`canon.md`](../../canon.md), repair this package, and record a language decision where the disagreement is substantive.
 
@@ -10,7 +10,7 @@ Before changing anything, read these sources in order:
 
 1. [`AGENTS.md`](../../AGENTS.md) for Markdown, Humanizer, publication, and post-merge rules.
 2. [`canon.md`](../../canon.md) for the authority order and settled language decisions.
-3. [`documents/reference/voice_for_models.md`](../../documents/reference/voice_for_models.md) in full, then the complete Humanizer skill installed for this model, before generating any Phi project prose. Locate the skill through the active installation's own skill registry rather than a remembered absolute path.
+3. [`documents/reference/voice_for_models.md`](../../documents/reference/voice_for_models.md) in full, then the complete Humanizer skill installed for this model, before generating reader-facing Phi project prose. Locate the skill through the active installation's own skill registry rather than a remembered absolute path.
 4. [`project/development_protocol.md`](../development_protocol.md) for word creation, source material, names, semantic choices, and validation.
 5. [`project/roadmap.md`](../roadmap.md) for the execution sequence and evidence gates.
 6. [`project/content_vocabulary_coverage.md`](../content_vocabulary_coverage.md) and the generated [`project/content_vocabulary_decisions.md`](../content_vocabulary_decisions.md) for the completed migration record and any later vocabulary work.
@@ -38,7 +38,7 @@ The maintainer's own front-to-back read of the finished book followed on 27 July
 
 That read also closed the conflation sweep's last open item. The weaver's shade of anxiousness in *News from Nowhere* chapter 3 had rendered its degree with the size adjective `thiku`; the maintainer ruled it attenuation, so `la` now lowers the anxiety and the look keeps its own shape.
 
-*News from Nowhere* has reached chapter 5 of 32. "Children on the Road" follows Morris through seven movements and 292 aligned passages, from the summer camps in Kensington wood to a discussion of school and chosen learning, then Westminster's old buildings. It uses the complete lexicon. Optional module words appear where needed, but the chapter adds no root and registers no compound. Its ordered `morris:` citations reconstruct the 13,932-character normalized chapter body exactly. The corrective pass repaired modifier order and Slot 1 order. It restored purpose-first clauses and complete-event framing, removed one invalid passive-causative stack, and cut back-translation details that existed only in Morris.
+*News from Nowhere* has reached chapter 5 of 32. "Children on the Road" follows Morris through seven movements and 292 aligned passages, from the summer camps in Kensington wood to a discussion of school and chosen learning, then Westminster's old buildings. It uses the complete lexicon. Optional module words appear where needed, but the chapter adds no root and registers no compound. Its ordered `morris:` citations reconstruct the 13,932-character normalized chapter body exactly. The drafting correction repaired modifier order and Slot 1 order, restored purpose-first clauses and complete-event framing, removed one invalid passive-causative stack, and cut back-translation details that existed only in Morris. The later audit correction restored the personal ages six or eight, sixteen or seventeen, four, near fifteen, and before twenty; marked Morris's contrasted "I", "not", and "we"; moved `misa` into reason position; replaced hesitant `nuo` with `pasharo`; and repaired eleven lines containing forbidden `lo` plus numeral or quantifier stacking. It also corrected citation ownership and the closing account of module vocabulary: `shorai` and `whakeru` are optional, while `nelore` and `peloma` are base. The fifty-year change and the clearance of more than a hundred years remain qualitative by transmutation choice, not because Phi lacks the numbers. `mia nuhe phaelo` remains Dick's expression of regret; `soa` would make it an apology to Guest.
 
 One assessment was delivered and declined in the same span. Nothing compares a Phi line quoted in the manual against the shelf text it names, which is how chapter 22's misquoted Metta Sutta line survived. A measurement found 14 exact quotations among 1,573 teaching-corpus Phi lines, and a prototype detector caught the real defect while flagging nine lines in all. The maintainer ruled it not worth building, since the manual is close to finished and future additions will be texts. Do not raise it again unprompted.
 
@@ -61,7 +61,7 @@ The following habits came from direct maintainer corrections. Treat them as stan
 - Point out accidental English homonyms whenever they appear in a proposed Phi form or an existing form under review.
 - Never use the discarded hyphenated adjective pattern recorded in [`language_and_voice.md`](language_and_voice.md). The maintainer has ruled it out without exception.
 - `sound_symbolism` is optional embodied phonesthetics. It is not hidden morphology and should not become grandiose prose. `articulatory_notes` is the physical account of how the complete word is spoken.
-- Invoke the installed Humanizer skill and apply [`documents/reference/voice_for_models.md`](../../documents/reference/voice_for_models.md) in full, for every artifact, every time. Both documents apply whole, including the rules that look irrelevant to the artifact in hand. Invoke the skill per artifact rather than per working session, so a second file in the same sitting gets its own invocation, and treat every generated English string as in scope, including JSON fields, table cells, reports, and pull-request bodies. Run all seven protocol steps literally, ending with the mechanical counting pass and a delivery note that names at least one concrete finding. Two recorded corrections stand behind this rule. A compressed loop once let one phrase stamp itself across a whole batch, and the model later audited an essay by judgment alone because the skill had been loaded hours earlier for different work. Invoke it before forming an opinion about what the prose needs, because forming that opinion first is what makes skipping the call feel safe.
+- Apply the installed Humanizer skill and [`documents/reference/voice_for_models.md`](../../documents/reference/voice_for_models.md) in full only to reader-facing content. That includes the book, manual, primer, pamphlets, literary texts, Kia, the Short Road, public site copy, lexicon prose, commit messages, pull-request titles and bodies, and public GitHub issue prose. Handoffs, plans, roadmaps, development logs, decision records, audit notes, validation reports, temporary reports, and internal boilerplate need direct, accurate prose instead. A public PR remains in scope even when the repository files it describes are internal. For reader-facing work, invoke the skill per artifact, run the full protocol, and report a concrete correction; do not manufacture a Humanizer finding for an internal document.
 - Keep every Markdown prose paragraph and list-item paragraph on one physical line.
 - Do not spend a substantive vocabulary, corpus, or renderer pass on Canadian, British, or American spelling checks. A later sweep can settle the repository's mixture.
 - Book humour should borrow the kind, not the quantity, of Jerome K. Jerome's *Three Men in a Boat*: mild self-exposure, practical absurdity, and an occasional dry turn. It must not become a string of jokes.
@@ -90,12 +90,12 @@ A replacement model can use this opening checklist:
 
 ```text
 1. Confirm the newest user request and whether it is a question or a command.
-2. Read AGENTS.md, canon.md, the full voice guide, and the full Humanizer skill.
+2. Read AGENTS.md and canon.md. If the request creates or revises reader-facing prose, also read the full voice guide and load the full Humanizer skill.
 3. Run git status --short --branch and verify that main is clean and current.
 4. Read current_state.md, project/deferred_questions.md, and project/roadmap.md before assuming that an older sequence is still active.
 5. If revising the corpus, inspect each Phi passage in context, including its translation, transmutation, or original method, dependencies, module vocabulary, and validated examples.
 6. Create a feature branch only after the scope is understood.
-7. Carry the work through prose, Humanizer, voice audit, validation, commit, push, PR, and CI unless the user explicitly asks to pause.
+7. Carry the work through drafting, any applicable Humanizer and voice audit, validation, commit, push, PR, and CI unless the user explicitly asks to pause.
 ```
 
 The handoff is successful when the next model can begin from the live state without re-deriving Phi's boundaries, and without treating this snapshot as permission to ignore the repository that produced it.
