@@ -1081,8 +1081,8 @@ DUR UNIV PROX moment PL 3SG nose PST quiver.
 (And all that time, their noses quivered.)
 williams: "And all the time their noses twitched."
 
-ta shia sha misa thia ma whano. misa thia nua lo mia ma wile sho to thilou.
-one 3SG QUOT.COMP why 2SG NEG stand. why 2SG COM PL 1SG NEG play QUOT.COMP.CLOSE PST inquire.
+ta shia sha thia misa ma whano. thia misa nua lo mia ma wile sho to thilou.
+one 3SG QUOT.COMP 2SG why NEG stand. 2SG why COM PL 1SG NEG play QUOT.COMP.CLOSE PST inquire.
 (One of them asked: "Why do you not get up? Why do you not play with us?")
 williams: "\"Why don't you get up and play with us?\" one of them asked."
 
@@ -1306,9 +1306,9 @@ soft cloth rabbit INTS alone PST be.
 (The velveteen rabbit was all alone.)
 williams: "The Velveteen Rabbit was all alone."
 
-shia sha wao. misa lo shia phea ha to rashelo. misa lo shia to po ma manolu. misa lo shia nua mia to po ma haolu sho to remo.
-3SG QUOT.COMP wow. why PL 3SG AS PROX PST run. why PL 3SG PST POT NEG stay. why PL 3SG COM 1SG PST POT NEG speak QUOT.COMP.CLOSE PST think.
-(He thought: "Oh! Why did they run away like that? Why could they not stay? Why could they not talk with me?")
+wao. shia pha lo shia misa phea ha to rashelo pho nela pha lo shia misa to po ma manolu pho nela pha lo shia misa nua mia to po ma haolu pho to remo.
+wow. 3SG INT.COMP PL 3SG why AS PROX PST run INT.COMP.CLOSE COORD INT.COMP PL 3SG why PST POT NEG stay INT.COMP.CLOSE COORD INT.COMP PL 3SG why COM 1SG PST POT NEG speak INT.COMP.CLOSE PST think.
+(Oh! He wondered why they had run away like that, why they could not stay, and why they could not talk with him.)
 williams: "\"Oh, dear!\" he thought. \"Why did they run away like that? Why couldn't they stop and talk to me?\""
 
 sui laeno thimu shia to ru moesha ruemi. shia phero to laeno nila.

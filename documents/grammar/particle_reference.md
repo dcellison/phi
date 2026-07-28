@@ -265,6 +265,8 @@ mia so ki po ma shelomu.
 (I will not be able to have understood.)
 ```
 
+`ma` negates a predicate, so it never enters a noun phrase to negate a descriptor. A negative attribute uses the ordinary prenominal relative clause: `whu mioru ma nai thekiro`, writing that is not beautiful.
+
 **Modal negation conventions** (order is always modal-then-`ma`):
 - `po ma V` — cannot (the possibility is denied)
 - `na ma V` — must not (the necessity is to refrain)
@@ -508,7 +510,7 @@ NAME HON.ROLE siora.
 
 ## Interrogative Pronouns
 
-While not technically particles, these function words occupy argument positions and announce what information is being sought.
+While not technically particles, these function words mark the one piece of information being sought. Most occupy the answer's ordinary phrase position. `misa` has the fixed reason position described below.
 
 - **`sua`** (who) - announces inquiry about a person
 - **`hina`** (what) - announces inquiry about a thing or action
@@ -517,6 +519,10 @@ While not technically particles, these function words occupy argument positions 
 - **`misa`** (why) - announces inquiry about reason
 - **`thela`** (how) - announces inquiry about manner
 - **`wia`** (how many) - announces inquiry about quantity
+
+Each content-question clause contains one interrogative. A second unknown belongs in a coordinated question clause or a new sentence.
+
+`misa` follows an explicit subject and comes before every other adjunct or argument, any complement frame, the Slot 1 stack, and the predicate. When the subject has already been established and drops, `misa` begins the remaining clause.
 
 **Examples**:
 ```

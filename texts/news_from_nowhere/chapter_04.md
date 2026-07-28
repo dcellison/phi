@@ -315,7 +315,7 @@ morris: "but what market is it that it is so splendid?"
 mia sha ra whalo lona lokue hina nai. ronua ruela phanoi womu hina nai sho to haolu.
 1SG QUOT.COMP DIST large meeting place what be. south path portion home what be QUOT.COMP.CLOSE PST speak.
 (I said, "What is that great hall, and what is the building on the south side of the road?")
-morris: "And what is the glorious hall there, and what is the building on the south side?"
+morris: "And what is the glorious hall there, and what is the building on the south side?\""
 
 ne kulo sha ha li lo mia wisola lokue nai sho to haolu.
 NAME kulo QUOT.COMP PROX RESTR PL 1SG exchange place be QUOT.COMP.CLOSE PST speak.
@@ -437,15 +437,10 @@ CONS 1SG one short moment PST stay. CONTR 1SG PST go.
 (So I stayed still for a moment, but then I went on.)
 morris: "so I stopped a minute, but presently went on:"
 
-mia sha mia tha mia mua wisola lokue lo whu phea lo kosha miona kire phelu miona po nila tho to remo. whekai mia lo shia ma nila. thelao mia ha thilou sho to haolu.
-1SG QUOT.COMP 1SG DECL.COMP 1SG LOC exchange place PL REL AS PL field person shape hold person POT see DECL.COMP.CLOSE PST think. CONTR 1SG PL 3SG NEG see. CONS 1SG PROX inquire QUOT.COMP.CLOSE PST speak.
-(I said, "I thought an exchange-place might have people who looked like field-dwellers. But I see none of them, so I ask.")
-morris: "I ask because I do not see any of the country-looking people I should have expected to see at a market--"
-
-shekoi mia whu thena wisola piru ma nila.
-SPEC 1SG REL thing exchange trader NEG see.
-(More precisely, I see no traders exchanging things.)
-morris: "I mean selling things there.\""
+mia sha mia tha mia mua wisola lokue lo whu phea lo kosha miona kire phelu miona po nila tho to remo. whekai mia lo shia ma nila. thelao mia ha thilou. shekoi mia whu thena wisola piru ma nila sho to haolu.
+1SG QUOT.COMP 1SG DECL.COMP 1SG LOC exchange place PL REL AS PL field person shape hold person POT see DECL.COMP.CLOSE PST think. CONTR 1SG PL 3SG NEG see. CONS 1SG PROX inquire. SPEC 1SG REL thing exchange trader NEG see QUOT.COMP.CLOSE PST speak.
+(I said, "I thought an exchange-place might have people who looked like field-dwellers. But I see none of them, so I ask. More precisely, I see no traders exchanging things.")
+morris: "\"I ask because I do not see any of the country-looking people I should have expected to see at a market--I mean selling things there.\""
 ```
 
 **Notes:** `wisola lokue` lets Guide call the market ordinary even while Guest is gawping at the roof. The winter Mote-House is the hall where the community meets; summer moves the meeting into fields beside the river, with Barn Elms retained through chapter 2's `ra welamu lokue`. Theatre becomes `shela wile lokue`, art-play-place, which is narrow enough not to turn every gallery or workshop into a theatre. The doors use the registered `welotu keluo`, mixed metal, for bronze, and the visible damascening becomes bright metal threads set carefully into their surface. Dick's blush is small and bodily. Morris's "girls" and "woman" remain in the citations. Phi follows the narrator's eye without turning sex into a person class: a tall person with dark hair, pale skin, a pale-green garment, and a smile Guest judges warmer for Guide. The final "selling" remains Morris's interpretation. Phi gives the market the agents it can actually name, traders exchanging things.
@@ -503,15 +498,10 @@ PL 3SG DECL.COMP DIST PL face CMPR different shape hold DECL.COMP.CLOSE tell. PR
 (They say those faces have more distinctive form. That is the word they use.)
 morris: "they say they have more character in them--that's the word."
 
-ha kaeli thena nai.
-PROX like thing be.
-(It is a matter of liking.)
-morris: "Well, it's a matter of taste."
-
-sheno lo lue ra lokue miona nela lo lue ha lokue miona wiso lumani ro ka kelu. ha ro welao lureko thola.
-ADD PL ABL DIST place person COORD PL ABL PROX place person RECP family HAB CAUS become. PROX HAB good fruit bring.
-(Besides, people from there and people from here often make family with one another. That usually brings good fruit.)
-morris: "Anyhow, the cross between us and them generally turns out well,"
+ha kaeli thena nai. sheno lo lue ra lokue miona nela lo lue ha lokue miona wiso lumani ro ka kelu. ha welao lureko ro thola.
+PROX like thing be. ADD PL ABL DIST place person COORD PL ABL PROX place person RECP family HAB CAUS become. PROX good fruit HAB bring.
+(It is a matter of liking. Besides, people from there and people from here often make family with one another. That usually brings good fruit.)
+morris: "Well, it's a matter of taste.--Anyhow, the cross between us and them generally turns out well,\""
 
 ne kulo ha to phenui haolu.
 NAME kulo PROX PST thoughtful speak.
@@ -548,15 +538,10 @@ mia sui teku shemu maeli to nai.
 (I remained quiet for a little while.)
 morris: "and I was silent a little."
 
-pheo laeno shemu mia sha mia mua ha lokue mawha huwa miona ki nila sho to haolu.
-POST long moment 1SG QUOT.COMP 1SG LOC PROX place NONE weak person PFV see QUOT.COMP.CLOSE PST speak.
-(At last I said, "In this place I have seen no weak person.")
-morris: "At last I said: \"What I mean is, that I haven't seen any poor people about--"
-
-mia ta huwa miona ki ma nila.
-1SG one weak person PFV NEG see.
-(I have not seen one.)
-morris: "not one.\""
+pheo laeno shemu mia sha mia mua ha lokue mawha huwa miona ki nila. mia ta huwa miona ki ma nila sho to haolu.
+POST long moment 1SG QUOT.COMP 1SG LOC PROX place NONE weak person PFV see. 1SG one weak person PFV NEG see QUOT.COMP.CLOSE PST speak.
+(At last I said, "In this place I have seen no weak person. I have not seen one.")
+morris: "At last I said: \"What I mean is, that I haven't seen any poor people about--not one.\""
 ```
 
 **Notes:** Guide answers "country" with relationship rather than category: these are neighbours, and this is how people of the Thames valley commonly look. Roughness applies to land and clothing, never to a person's worth. "Hard-bitten" reaches Phi as bodily strength and the weather's marks on a face. For "character," the neighbours prefer faces with more distinctive forms; Morris's word remains beside the choice. His "cross" joins families from the wetter regions and the valley. The good fruit survives, but people are not breeding stock. Morris's "taste" is `kaeli`, liking; `thorima` would turn the comparison into flavour. The early peas are fresh green seeds, with the exact species still present in Morris. Guest's disappointment is small, private, and faintly foolish. At the end he says only `huwa miona`, weak person. Since `huwa` measures capacity against an unstated demand, he has neglected the part of his meaning that Guide most needs.
@@ -574,15 +559,10 @@ shia sha lia. theula nuwi nai sho to haolu.
 (He said, "Yes. Clearly.")
 morris: "and said: \"No, naturally;"
 
-lu miona mokela nai. shia mua womu ro manolu.
-COND person sick be. 3SG LOC home HAB stay.
-(If a person is sick, they generally stay indoors.)
-morris: "if anybody is poorly, he is likely to be within doors,"
-
-sola shia mua thepalu po huwa thalo.
-DISJ 3SG LOC garden POT weak walk.
-(Or they may walk weakly in the garden.)
-morris: "or at best crawling about the garden:"
+lu miona mokela nai. shia mua womu ro manolu sola shia mua thepalu po huwa thalo.
+COND person sick be. 3SG LOC home HAB stay DISJ 3SG LOC garden POT weak walk.
+(If a person is sick, they generally stay indoors, or they may walk weakly in the garden.)
+morris: "if anybody is poorly, he is likely to be within doors, or at best crawling about the garden:"
 
 whekai mia tha nosa mawha miona mokela nai tho sano.
 CONTR 1SG DECL.COMP now NONE person sick be DECL.COMP.CLOSE know.

@@ -40,7 +40,9 @@ Phi has seven gap-words:
 | `thela` | how | a manner or means |
 | `wia` | how many | a quantity before a noun or classifier |
 
-The gap-word alone marks the question. It never shares its clause with `wa`, because `wa` asks about the whole proposition while the gap-word identifies the missing part.
+The gap-word alone marks the question. It never shares its clause with `wa`, because `wa` asks about the whole proposition while the gap-word identifies the missing part. Each content-question clause contains one gap-word. Two missing parts take two coordinated clauses or two sentences.
+
+After an explicit subject, `misa` comes before every other adjunct or argument, any complement frame, the Slot 1 stack, and the predicate. Topic-drop can leave it first when the subject is already understood.
 
 ### Questions inside statements
 

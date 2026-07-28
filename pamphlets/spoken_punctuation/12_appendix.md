@@ -5,7 +5,7 @@
 | English commonly writes | Phi form | Scope |
 |---|---|---|
 | `?` after a direct yes-or-no question | `wa` | Slot 0 before the complete proposition |
-| `?` after a content question | `sua`, `hina`, `weno`, `kua`, `misa`, `thela`, or `wia` | the position where the answer would stand |
+| `?` after a content question | one of `sua`, `hina`, `weno`, `kua`, `misa`, `thela`, or `wia` | one gap in the answer's position; `misa` uses its fixed reason position |
 | a question inside a statement | `pha ... pho` | embedded question, yes/no or content, before the matrix predicate |
 | quotation marks | `sha ... sho` | exact grammatical Phi wording before a speaking, inquiry, or hearing predicate |
 | a comma of address | `kona` | extra-clausal vocative with its own period |

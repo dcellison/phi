@@ -16,7 +16,7 @@ A content question does not use **wa**. Its interrogative stands exactly where t
 
 **thia thela kealo.** — How do you create it?
 
-Phi has seven interrogatives: **sua** who, **hina** what, **weno** when, **kua** where, **misa** why, **thela** how, and **wia** how many. **wia** precedes a classifier or noun as a quantifier does.
+Phi has seven interrogatives: **sua** who, **hina** what, **weno** when, **kua** where, **misa** why, **thela** how, and **wia** how many. **wia** precedes a classifier or noun as a quantifier does. One content-question clause carries one gap-word. When two pieces are unknown, Phi gives each its own question clause, either coordinated or separate.
 
 The same placement works across ordinary topics:
 
@@ -39,6 +39,16 @@ mia wi phoi torua phelu.
 ```
 
 **thia weno shua.** asks when someone comes; **lohau kua nai.** asks where the dog is; **thia kua kipona phaelo.** asks where someone feels pain. English "which cup" is **hina noru**, with **hina** asking what kind or selection before the noun. A gap-word and **wa** never share a clause because they ask different kinds of question.
+
+Most gap-words can take the place of their answer. **misa** cannot, because a reason answer is a complete dependent frame rather than an ordinary phrase. It comes immediately after the explicit subject and before every other adjunct or argument:
+
+```
+thia misa mua thepalu lopia nila.
+2SG why LOC garden child see.
+(Why do you see the child in the garden?)
+```
+
+When context has already established the subject, topic-drop leaves **misa** at the beginning of the remaining clause. It still precedes the material within its scope.
 
 ## Directives
 

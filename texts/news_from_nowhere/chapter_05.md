@@ -129,8 +129,8 @@ PROX PL 1SG TOWARD REL go forest portion AS garden PASS name.
 (The part of the forest we are approaching is named as gardens.)
 morris: "This part we are just coming to is called Kensington Gardens;"
 
-ne kulo sha whekai mia pha ha shelira phanoi thepalu nomei misa phelu pho ma sano sho to haolu.
-NAME kulo QUOT.COMP CONTR 1SG INT.COMP PROX forest portion garden name why hold INT.COMP.CLOSE NEG know QUOT.COMP.CLOSE PST speak.
+ne kulo sha whekai mia pha ha shelira phanoi misa thepalu nomei phelu pho ma sano sho to haolu.
+NAME kulo QUOT.COMP CONTR 1SG INT.COMP PROX forest portion why garden name hold INT.COMP.CLOSE NEG know QUOT.COMP.CLOSE PST speak.
 (Guide finished, "But why, I do not know.")
 morris: "though why 'gardens' I don't know.\""
 
@@ -732,18 +732,18 @@ PL 1SG PL child DECL.COMP LOC INTS young time write DECL.COMP.CLOSE NEG support.
 (We do not encourage children to write while very young.)
 morris: "As to writing, we do not encourage them to scrawl too early"
 
-shai lo shia phina ma mioru thekiro ro phoa.
-CONC PL 3SG FEW NEG beautiful write HAB do.
+shai lo shia phina whu mioru ma nai thekiro ro phoa.
+CONC PL 3SG FEW REL beautiful NEG be write HAB do.
 (Though they will do a little unlovely writing.)
 morris: "(though scrawl a little they will),"
 
-lao lo shia ma mioru thekiro ro phoa.
-BECAUSE PL 3SG NEG beautiful write HAB do.
+lao lo shia whu mioru ma nai thekiro ro phoa.
+BECAUSE PL 3SG REL beautiful NEG be write HAB do.
 (Because they make unlovely writing a habit.)
 morris: "because it gets them into a habit of ugly writing;"
 
-sheloi ma mioru thekiro phoa hina naphe.
-MANY NEG beautiful write do what help.
+sheloi whu mioru ma nai thekiro phoa hina naphe.
+MANY REL beautiful NEG be write do what help.
 (What good is there in making a great quantity of ugly writing?)
 morris: "and what's the use of a lot of ugly writing being done,"
 
@@ -757,15 +757,10 @@ thia tha lo mia mioru thekiro kaeli tho shelomu.
 (You understand that we like beautiful writing.)
 morris: "You understand that handsome writing we like,"
 
-sheloi miona lo whu kealo shelu ro thekiro.
-MANY person PL REL create book HAB write.
-(Many people write out the books they make.)
-morris: "and many people will write their books out when they make them,"
-
-sola phirae miona lo shelu ro thekiro.
-DISJ different person PL book HAB write.
-(Or another person writes the books.)
-morris: "or get them written;"
+sheloi miona lo whu kealo shelu ro thekiro sola phirae miona lo shelu ro thekiro.
+MANY person PL REL create book HAB write DISJ different person PL book HAB write.
+(Many people write out the books they make, or another person writes them.)
+morris: "and many people will write their books out when they make them, or get them written;"
 
 mia phea melira lo whu phina shelu li phelona shelu shane.
 1SG AS song PL REL FEW book RESTR require book tell.
@@ -1310,8 +1305,8 @@ shia sha kona phewani. mia thia shelomu sho to haolu.
 (He said, "Neighbour, I understand you.")
 morris: "\"I take you, neighbour;"
 
-thia pha lo mia lo shia whano misa ka manolu pho po waora phaelo.
-2SG INT.COMP PL 1SG PL 3SG stand why CAUS stay INT.COMP.CLOSE POT wondrous feel.
+thia pha lo mia misa lo shia whano ka manolu pho po waora phaelo.
+2SG INT.COMP PL 1SG why PL 3SG stand CAUS stay INT.COMP.CLOSE POT wondrous feel.
 (You may well wonder why we keep them standing.)
 morris: "you may well wonder at our keeping them standing,"
 
@@ -1430,8 +1425,8 @@ ADD one large REL different name hold home be.
 (There is also a great building with its own source name.)
 morris: "and a big building called St. Paul's."
 
-lo mia tha phina ma mioru womu whano tho na ma whakeru.
-PL 1SG DECL.COMP FEW NEG beautiful home stand DECL.COMP.CLOSE NEC NEG object.
+lo mia tha phina whu mioru ma nai womu whano tho na ma whakeru.
+PL 1SG DECL.COMP FEW REL beautiful NEG be home stand DECL.COMP.CLOSE NEC NEG object.
 (We need not object to a few unlovely buildings standing.)
 morris: "And you see, in this matter we need not grudge a few poorish buildings standing,"
 

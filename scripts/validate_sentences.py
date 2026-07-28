@@ -54,6 +54,7 @@ EPILOG = """examples:
   python3 scripts/validate_sentences.py
   python3 scripts/validate_sentences.py --paths texts/news_from_nowhere
   python3 scripts/validate_sentences.py --sentence "mia thia nila."
+  python3 scripts/validate_sentences.py --sentence "henoi." --fragment
   python3 scripts/validate_sentences.py --sentence "mia thia nila." --show-tree
 """
 
@@ -213,6 +214,11 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument("--sentence", help="validate one literal Phi sentence")
     parser.add_argument(
+        "--fragment",
+        action="store_true",
+        help="allow --sentence to be a licensed standalone fragment",
+    )
+    parser.add_argument(
         "--show-tree",
         action="store_true",
         help="print the syntax tree for a valid --sentence",
@@ -230,6 +236,8 @@ def parse_args() -> argparse.Namespace:
         parser.error("--sentence cannot be combined with corpus selection")
     if args.show_tree and args.sentence is None:
         parser.error("--show-tree requires --sentence")
+    if args.fragment and args.sentence is None:
+        parser.error("--fragment requires --sentence")
     return args
 
 
@@ -239,9 +247,9 @@ def main() -> int:
     parser = PhiParser(lexicon)
 
     if args.sentence is not None:
-        result = parser.parse(args.sentence, allow_fragments=False)
+        result = parser.parse(args.sentence, allow_fragments=args.fragment)
         for error in render_errors(
-            SentenceSource("<argument>", args.sentence, False), result
+            SentenceSource("<argument>", args.sentence, args.fragment), result
         ):
             print(f"ERROR   {error}")
         if result.ok and args.show_tree and result.tree:

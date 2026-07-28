@@ -14,7 +14,7 @@
   ],
   "description": "'misa' asks why something happens or holds. An answer may give a reason, cause, motive, or purpose. 'lao' (BECAUSE) can frame a causal reply; 'lila' (PURP) marks a purpose.",
   "articulatory_notes": "Close and voice the lips for 'm'. Its resonance travels through the nose. Release into unrounded high-front 'i'. A slender midline groove just behind the top incisors produces 's'; finish on the open central vowel 'a'. Initial 'mi' carries the accent.",
-  "usage_notes": "'misa' normally appears in the reason position, directly ahead of the predicate. It announces the inquiry by itself. The clause takes no 'wa' (Q).",
+  "usage_notes": "'misa' follows an explicit subject and precedes every other adjunct or argument, any complement frame, the Slot 1 stack, and the predicate. If context permits topic-drop, it begins the remaining clause. It asks the question without 'wa' (Q). A content-question clause takes one gap-word.",
   "examples": [
     {
       "phi": "thia misa nuhemi.",
@@ -23,6 +23,10 @@
     {
       "phi": "shia misa to wepu.",
       "translation": "Why did they leave?"
+    },
+    {
+      "phi": "thia misa mua thepalu lopia nila.",
+      "translation": "Why do you see the child in the garden?"
     }
   ],
   "pillars": {

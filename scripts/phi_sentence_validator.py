@@ -713,7 +713,20 @@ class PhiParser:
             direct_question,
         )
         self._validate_clause_relators(start, end, predicate_index, nested)
-        self._validate_predicate_suffix(start, end, predicate_index, slot1_indices, nested)
+        missing_question_frame = self._validate_unframed_content_question(
+            start,
+            predicate_index,
+            slot1_indices,
+            nested,
+        )
+        if not missing_question_frame:
+            self._validate_predicate_suffix(
+                start,
+                end,
+                predicate_index,
+                slot1_indices,
+                nested,
+            )
         self._validate_slot2_and_quantity(start, end, nested)
         self._validate_prepositions(start, end, predicate_index, slot1_indices, nested, allow_gap)
         self._validate_predicative_order(start, predicate_index, slot1_indices, nested)
@@ -746,39 +759,84 @@ class PhiParser:
                 "with a content-question gap-word",
                 interrogatives[0],
             )
+            return
+        if len(interrogatives) > 1:
+            self._error(
+                "PHS056",
+                "one content-question clause takes one gap-word; ask the "
+                "additional unknown in another coordinated clause or sentence",
+                interrogatives[1],
+            )
+            return
 
         boundary = slot1_indices[0] if slot1_indices else predicate_index
-        predicate = self._word(predicate_index)
         for misa in (
             index for index in interrogatives if self._word(index) == "misa"
         ):
             if misa >= boundary:
                 self._error(
                     "PHS130",
-                    "misa occupies the reason position before the Slot 1 stack",
+                    "misa follows an explicit subject and precedes the Slot 1 stack",
                     misa,
                 )
                 continue
-            if predicate in PREDICATIVE_VERBS:
-                continue
-            misplaced = next(
+            preceding_clause_material = next(
                 (
                     index
-                    for index in range(misa + 1, boundary)
+                    for index in range(start, misa)
                     if index not in nested
-                    and self._word(index) not in SLOT2_WORDS
-                    and self.lexicon.pos(self._word(index)) != "adjective"
+                    and (
+                        self._word(index) in self.lexicon.prepositions
+                        or index in self.frame_close
+                    )
                 ),
                 None,
             )
-            if misplaced is not None:
+            if preceding_clause_material is not None:
                 self._error(
                     "PHS130",
-                    "misa follows the clause's arguments and stands immediately "
-                    "before its predicate phrase",
+                    "misa follows an explicit subject but precedes every other "
+                    "adjunct, argument, and complement frame",
                     misa,
-                    misplaced,
+                    preceding_clause_material,
                 )
+
+    def _validate_unframed_content_question(
+        self,
+        start: int,
+        predicate_index: int,
+        slot1_indices: Sequence[int],
+        nested: set[int],
+    ) -> bool:
+        gaps = [
+            index
+            for index in range(start, predicate_index)
+            if index not in nested
+            and self._word(index) in self.lexicon.interrogatives
+        ]
+        if len(gaps) != 1:
+            return False
+
+        gap = gaps[0]
+        for inner_predicate in range(gap + 1, predicate_index):
+            if inner_predicate in nested or inner_predicate in self.name_atoms:
+                continue
+            if self.lexicon.pos(self._word(inner_predicate)) != "verb":
+                continue
+            if not any(
+                gap < slot1 < inner_predicate
+                for slot1 in slot1_indices
+            ):
+                continue
+            self._error(
+                "PHS085",
+                "a finite content question before a matrix predicate needs "
+                "its own pha ... pho frame",
+                gap,
+                inner_predicate,
+            )
+            return True
+        return False
 
     def _validate_clause_relators(
         self, start: int, end: int, predicate_index: int, nested: set[int]
