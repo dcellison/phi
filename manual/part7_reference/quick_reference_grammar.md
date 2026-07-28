@@ -74,3 +74,4 @@ Coordinating: `nela` and · `thona` but · `sola` or. Subordinating: `pheo` afte
 
 `mia` 1SG · `thia` 2SG · `shia` 3SG (`lo mia` we, `lo thia` you-all, `lo shia` they) · `miso` REFL · `wiso` RECP.
 `sua` who · `hina` what · `weno` when · `kua` where · `misa` why · `thela` how · `wia` how many.
+One content-question clause takes one gap-word. Reason order is `[subject] misa [other clause material]`; with a topic-dropped subject, `misa` comes first.

@@ -23,6 +23,18 @@ Tense, aspect, voice, evidentiality, and modality all precede **ma**:
 
 The order never changes to move the scope of negation. If a different distinction is needed, Phi uses another clause or a lexical expression.
 
+## Negative attributes
+
+**ma** belongs to the predicate stack, not inside a noun phrase. A relative clause supplies a negative attribute without moving the particle:
+
+```
+whu mioru ma nai thekiro
+REL beautiful NEG be write
+(writing that is not beautiful)
+```
+
+The relative clause comes before **thekiro**, its head noun. Negation stays before **nai**, its predicate. Both relations keep the same modifier-first order.
+
 ## With the modals
 
 **po ma** denies possibility:

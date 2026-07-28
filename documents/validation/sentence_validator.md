@@ -33,11 +33,12 @@ The tree matters when a short form is ambiguous. A verb can be an event noun, an
 python3 scripts/validate_sentences.py
 python3 scripts/test_sentence_validator.py
 python3 scripts/validate_sentences.py --sentence "thepalu thiku to nai." --show-tree
+python3 scripts/validate_sentences.py --sentence "henoi." --fragment
 python3 scripts/validate_sentences.py --paths primer/26_making_it_happen.md
 python3 scripts/validate_sentences.py --docs
 ```
 
-The default command parses every structured sentence under `vocabulary/` and every recognized complete example in canon, the grammar references, the manual, pamphlets, primer, book, Kia, and the Short Road. `--paths` checks selected active Markdown beside the lexicon, `--lexicon-only` narrows the run to structured dictionary examples, and `--docs` scans every recognized complete example in the active repository. The scanner never enters `archive/`.
+The default command parses every structured sentence under `vocabulary/` and every recognized complete example in canon, the grammar references, the manual, pamphlets, primer, book, Kia, and the Short Road. `--paths` checks selected active Markdown beside the lexicon, `--lexicon-only` narrows the run to structured dictionary examples, and `--docs` scans every recognized complete example in the active repository. A literal `--sentence` is treated as a complete assertion unless `--fragment` licenses a standalone response or noun phrase. The scanner never enters `archive/`.
 
 ## Enforced structure
 
@@ -46,7 +47,7 @@ The default command parses every structured sentence under `vocabulary/` and eve
 | Surface | Lowercase Phi words, single spaces, periods only, and a final period |
 | Lexicon and names | Every token is current vocabulary or a legal name atom in the position licensed by `ne` or an honorific |
 | Sentence frame | Slot 0 opens the sentence; only `pi wa` and `pi no` combine; a discourse marker follows the frame and precedes the clause; a coordinator stands between equal constituents |
-| Questions | `wa` asks about the whole proposition and stays out of a clause with a content-question gap-word; `misa` occupies the reason position before the predicate phrase |
+| Questions | `wa` asks about the whole proposition and stays out of a content question; each content-question clause has one gap-word; `misa` follows an explicit subject and precedes the remaining clause material |
 | Predicate | A complete assertion ends in a lexical verb; interjections, vocatives, and recognized nominal fragments have their own trees |
 | Slot 1 | Tense, aspect, voice, evidentiality, modality, and negation keep their fixed order and one-per-rank limit, with `se ka` as the single paired voice |
 | Slot 2 | Wider scope comes first, a noun phrase uses one quantity strategy, `lo` cannot double, `mo ko` keeps its fixed order, and `lo ha` or `lo ra` is licensed only as a bare plural pronoun |
@@ -57,11 +58,13 @@ The default command parses every structured sentence under `vocabulary/` and eve
 
 Diagnostic codes begin with `PHS`. They are stable enough for regression tests and direct a reader to the first word at which the rejected structure becomes determinate.
 
+`PHS085` catches the clearest missing question frame: a top-level gap-word is followed by a visibly finite inner predicate and then a matrix predicate. The diagnostic points back to `pha ... pho` without pretending that every unmarked verb has a known valency.
+
 ## Limits
 
 The parser knows grammar, not the English translation beside it. It cannot decide whether an evidential claim is warranted, whether an honorific tells the truth about a relationship, or whether a source sentence has been translated faithfully.
 
-Some attachment remains ambiguous on the Phi surface. A clause-initial pronoun can head a possessive phrase when later structure forces that reading, while event nouns and quality nouns retain their verb or adjective spelling. Embedded questions no longer add another uncertain boundary: `pha` opens the complete question and `pho` returns the listener to the surrounding clause. The parser accepts any legal surface parse instead of inventing semantic valency. A sentence whose intended object order depends only on the English translation still needs a human reading. The machine catches determinate modifier-first failures and leaves genuine lexical ambiguity visible.
+Some attachment remains ambiguous on the Phi surface. A clause-initial pronoun can head a possessive phrase when later structure forces that reading, while event nouns and quality nouns retain their verb or adjective spelling. Embedded questions no longer add another uncertain boundary: `pha` opens the complete question and `pho` returns the listener to the surrounding clause. The parser accepts any legal surface parse instead of inventing semantic valency. It can enforce `misa` against a visible preposition, complement frame, or Slot 1 stack, but a bare noun chain may admit more than one legal subject-object reading. A sentence whose intended object order depends only on the English translation still needs a human reading. The machine catches determinate modifier-first failures and leaves genuine lexical ambiguity visible.
 
 ## Corpus adoption
 

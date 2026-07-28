@@ -126,6 +126,8 @@ class SentenceParserTest(unittest.TestCase):
             "tupiwa pha keli mue kua whano pho to laeno nila.",
             "pha lo mia thela kau ha wireo kamo pho we shia reo nai.",
             "mia tha shia pha sua to wepu pho sano tho remo.",
+            "mia pha shia pha sua to wepu pho sano pho phaelo.",
+            "mia sha wa shia to wepu sho to haolu.",
         ):
             with self.subTest(text=text):
                 self.assertValid(text)
@@ -254,8 +256,11 @@ class SentenceParserTest(unittest.TestCase):
         self.assertInvalid("mia tha shia wepu pho sano.", "PHS021")
         self.assertValid("mia pha shia hina rinu pho sano.")
         self.assertInvalid("mia pha wa shia rinu pho sano.", "PHS082")
+        self.assertInvalid("mia tha wa shia to wepu tho sano.", "PHS083")
         self.assertInvalid("mia tha sua to shua tho sano.", "PHS084")
-        self.assertInvalid("mia sua to shua sano.", "PHS102")
+        result = self.assertInvalid("mia sua to shua sano.", "PHS085")
+        self.assertEqual(["PHS085"], [item.code for item in result.diagnostics])
+        self.assertValid("mia sua shua sano.")
         self.assertInvalid("mia sha kia sho remo.", "PHS081")
 
     def test_slot_two_and_quantity_errors(self):
@@ -274,18 +279,26 @@ class SentenceParserTest(unittest.TestCase):
             "shia misa to wepu.",
             "misa ma sano.",
             "ha wisola lokue misa ru waora nai.",
-            "thia tha mokela miona mua ruela po nai tho misa po remo.",
+            "thia misa tha mokela miona mua ruela po nai tho remo.",
+            "mia misa phoe ha thia ma thilou.",
+            "whekai misa mia ma sano.",
             "mia ka mo nila.",
         ):
             with self.subTest(text=text):
                 self.assertValid(text)
-        self.assertInvalid("whekai misa mia ma sano.", "PHS130")
         self.assertInvalid(
-            "thia misa tha mokela miona mua ruela po nai tho remo.",
+            "thia tha mokela miona mua ruela po nai tho misa remo.",
             "PHS130",
         )
-        self.assertInvalid("mia misa phoe ha thia ma thilou.", "PHS130")
+        self.assertInvalid("thia mua thepalu misa lopia nila.", "PHS130")
+        self.assertInvalid("shia to misa wepu.", "PHS130")
         self.assertInvalid("mia mo ka nila.", "PHS113")
+
+    def test_one_gap_per_content_question(self):
+        self.assertInvalid("mia sua hina nila.", "PHS056")
+        self.assertInvalid("mia pha sua hina to nila pho sano.", "PHS056")
+        self.assertValid("sua shua nela shia hina phelu.")
+        self.assertValid("mia hina pha shia sua to nila pho remo.")
 
     def test_every_structured_lexicon_example_parses(self):
         failures = []
@@ -335,6 +348,33 @@ class SentenceParserTest(unittest.TestCase):
         )
         self.assertEqual(0, completed.returncode, completed.stdout + completed.stderr)
         self.assertIn("0 error(s)", completed.stdout)
+
+    def test_sentence_cli_fragment_mode(self):
+        command = [
+            sys.executable,
+            str(PROJECT_ROOT / "scripts" / "validate_sentences.py"),
+            "--sentence",
+            "henoi.",
+        ]
+        complete = subprocess.run(
+            command,
+            cwd=PROJECT_ROOT,
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+        self.assertEqual(1, complete.returncode, complete.stdout + complete.stderr)
+        self.assertIn("PHS070", complete.stdout)
+
+        fragment = subprocess.run(
+            [*command, "--fragment"],
+            cwd=PROJECT_ROOT,
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+        self.assertEqual(0, fragment.returncode, fragment.stdout + fragment.stderr)
+        self.assertIn("Valid Phi utterance.", fragment.stdout)
 
 
 if __name__ == "__main__":

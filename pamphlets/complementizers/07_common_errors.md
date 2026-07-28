@@ -279,6 +279,7 @@ mia pha sua to shua pho sano
 **How to avoid:**
 - Use `pha`/`pho` around every embedded question
 - Keep `sua`, `hina`, `kua`, or another gap-word in the answer's position inside the frame
+- Give each content-question clause one gap-word; put a second unknown in another coordinated clause or sentence
 
 ## Error 12: Leaving the frame verb without its tense
 

@@ -130,6 +130,8 @@ mia pha ne sulae kua nai pho ma sano.
 (I do not know where sulae is.)
 ```
 
+An embedded content question contains one gap-word. A second unknown takes a coordinated question clause or a separate sentence. Within the frame, the reason order is `[subject] misa [rest of clause]`; topic-drop removes the subject but leaves that order otherwise intact.
+
 **Distinction from related words**:
 - `wa` (question particle): Marks direct yes/no questions expecting a response
 - a bare gap-word: Marks a direct content question

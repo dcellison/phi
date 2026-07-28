@@ -404,7 +404,7 @@ Each `pha` pairs with its own `pho`, and the structure stays clear even in neste
 
 ## Content questions
 
-The examples above ask whether a proposition holds. A content question instead places a gap-word where its answer belongs, but it keeps the same `pha`/`pho` boundary when embedded:
+The examples above ask whether a proposition holds. A content question instead places one gap-word where its answer belongs, but it keeps the same `pha`/`pho` boundary when embedded:
 
 ```
 mia pha sua to shua pho sano
@@ -424,7 +424,7 @@ PL 1SG INT.COMP 3SG where be INT.COMP.CLOSE NEG know
 (We don't know where they are.)
 ```
 
-The two markings answer different needs. The gap-word identifies the missing role. The frame marks how much of the sentence belongs to that question. A direct content question needs only its gap-word because the whole sentence is the question; once the question sits inside another clause, its left and right edges are spoken.
+The two markings answer different needs. The gap-word identifies the missing role. The frame marks how much of the sentence belongs to that question. A direct content question needs only its gap-word because the whole sentence is the question; once the question sits inside another clause, its left and right edges are spoken. Each framed question contains one gap-word. A second unknown takes a coordinated question clause or a separate sentence.
 
 ## Summary
 

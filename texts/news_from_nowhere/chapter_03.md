@@ -450,8 +450,8 @@ PROX inquire 1SG old time life know love PST catch.
 (This question caught my love of old-time nature-lore.)
 morris: "This was catching me on my archaeological natural-history side,"
 
-mia pha mia kua nela weno nai pho to ma remo. mia muo mera to lepa. thelao mia to pa haolu.
-1SG INT.COMP 1SG where COORD when be INT.COMP.CLOSE PST NEG think. 1SG INTO net PST fall. CONS 1SG PST INCH speak.
+mia pha mia kua nai pho nela pha mia weno nai pho to ma remo. mia muo mera to lepa. thelao mia to pa haolu.
+1SG INT.COMP 1SG where be INT.COMP.CLOSE COORD INT.COMP 1SG when be INT.COMP.CLOSE PST NEG think. 1SG INTO net PST fall. CONS 1SG PST INCH speak.
 (I gave no thought to where, and when, I was; I fell into the net, and began on it.)
 morris: "and I fell into the trap without any thought of where and when I was; so I began on it,"
 
