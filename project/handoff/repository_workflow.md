@@ -319,6 +319,8 @@ Completed repository work normally ends in a PR without another prompt. The sequ
 6. Create the PR against `main` with `--body-file`.
 7. Watch CI to completion.
 
+Commit messages, PR titles, and PR bodies are public GitHub prose, so they receive the Humanizer and voice pass even when the changed repository files are internal. The internal files themselves remain exempt unless they are being prepared for reader-facing publication.
+
 Example commands:
 
 ```bash
@@ -332,7 +334,7 @@ gh pr checks PR_NUMBER --watch
 
 Never pass the PR body inline. Shell interpretation has damaged formatting before; Daniel explicitly requires a body file.
 
-A detailed PR body should state the semantic scope, words or documents changed, lexical decisions, generated artifacts, checks and counts, and one concrete Humanizer or voice issue found and corrected.
+A detailed PR body should state the scope, words or documents changed, decisions, generated artifacts, and checks. When the task revises reader-facing prose, include one concrete Humanizer or voice issue found and corrected. Do not invent such a finding for internal-only work.
 
 ## Post-merge cleanup
 
@@ -372,4 +374,4 @@ A missing citation cannot be filled with a plausible substitute merely to satisf
 
 Keep working updates short and factual. State what context is being read, what boundary or pattern has emerged, and what is being validated. Do not praise the work, manufacture urgency, or turn a status message into a tutorial.
 
-The final message for a completed PR should include the PR link, the main result, the checks, the commit identifier when useful, and the concrete Humanizer correction. When work cannot be completed, say exactly what remains and why. Daniel does not see raw command output, so relay the result that matters.
+The final message for a completed PR should include the PR link, the main result, the checks, and the commit identifier when useful. Include the concrete Humanizer correction when the task revised reader-facing prose. When work cannot be completed, say exactly what remains and why. Daniel does not see raw command output, so relay the result that matters.
