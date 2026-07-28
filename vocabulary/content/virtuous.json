@@ -1,0 +1,36 @@
+{
+  "word": "taleri",
+  "gloss": "virtuous",
+  "ipa": "/t̪ä.ˈle̞.ri/",
+  "syllables": [
+    "ta",
+    "le",
+    "ri"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "virtue",
+    "ethical character",
+    "moral excellence"
+  ],
+  "description": "A person, act, or pattern of conduct is 'taleri' when it is regarded as ethically good within a stated practice or body of reasons. Its quality noun is virtue, understood through conduct rather than as an invisible substance inside a person. 'welao' (good) is Phi's broad favourable judgement; 'serathi' (principled) asks whether conduct remains faithful to ethical commitments.",
+  "articulatory_notes": "Place the tongue tip against the backs of the upper teeth for unvoiced dental 't' and release into open central 'a'. Touch the tongue tip to the alveolar ridge for voiced 'l', let the voice pass along its sides, and move into stressed true-mid front unrounded 'e'. Finish with a brief alveolar tap or short trill followed by high-front unrounded 'i'.",
+  "sound_symbolism": "Two light tongue contacts lead into the final tap, with the stressed vowel held in the open middle of the word. The measured sequence can suggest conduct made visible through repeated choices rather than virtue claimed in a single flourish.",
+  "usage_notes": "The adjective works for a person and for conduct at any scale, from one act to a continuing practice. A nearby clause may name the commitments or reasons behind the judgement.",
+  "examples": [
+    {
+      "phi": "shia taleri ro phoa.",
+      "translation": "They habitually act virtuously."
+    }
+  ],
+  "pillars": {
+    "secular-buddhist-philosophy": "Virtue is visible in repeated conduct and remains open to reflection on intention and effect. The word does not make goodness a permanent essence of the person."
+  },
+  "semantic_domains": {
+    "ethics": "ethical excellence attributed to a person, act, or pattern of conduct",
+    "wisdom": "virtue examined through practice and reasons rather than treated as an unquestionable essence"
+  },
+  "modules": [
+    "philosophical-reasoning"
+  ]
+}

@@ -1,6 +1,6 @@
 # lothea thole — The Practice of Love
 
-*This close translation of the Karaniya Metta Sutta into Phi follows V. Fausböll's 1881 English and is the language's first complete text. Every claim and image in that English source has a place in Phi. When a source term must be composed or a distinction narrows, the notes and gap log say so.*
+*This close translation of the Karaniya Metta Sutta into Phi follows V. Fausböll's 1881 English and is the language's first complete text. It follows the source claim by claim, while the literal English stays close enough to expose every compromise. The notes and gap log name those compromises rather than quietly tidying them away.*
 
 *The source is the Pali Karaniya Metta Sutta (Sn 1.8). The English ground truth is V. Fausböll's translation of the Sutta-Nipâta (Sacred Books of the East, volume X, part II, second edition; first published 1881), stored verbatim in `texts/sources/sutta_nipata_fausboll.txt`. Its scan spellings, broken words, and punctuation remain in the citations. All ten verses are represented.*
 
@@ -13,30 +13,15 @@
 ### Verse 1: The one seeking good
 
 ```
-[whu [welao sheraki] thesani phelu] miona theula [whu phoa phelona] thena na phoa.
-[REL [good search] skill hold] person UNIV [REL do require] thing NEC do.
-(The person who has skill in searching for goodness must do every thing that requires action.)
-fausboll: "1. Whatever is to be done by one who is skilful in seeking (what is) good,"
+[whu [welao sheraki] thesani phelu nela noalu ki kelu] miona ha thena na phoa. su shia po phoa. su shia serathi nai.
+[REL [good search] skill hold COORD tranquil PFV become] person PROX thing NEC do. OPT 3SG POT do. OPT 3SG principled be.
+(The person who has skill in seeking good and has become tranquil must do this. May they be able to act. May they be principled.)
+fausboll: "1. Whatever is to be done by one who is skilful in seeking (what is) good, having attained that tran- quil state (of Nibbana) :—Let him be able and upright"
 
-shia noalu ki kelu.
-3SG tranquil PFV become.
-(They have become tranquil.)
-fausboll: "having attained that tran- quil state (of Nibbana) :—"
-
-su shia po phoa. su shia wero nai.
-OPT 3SG POT do. OPT 3SG honest be.
-(May they be able to act. May they be honest.)
-fausboll: "Let him be able and upright"
-
-su shia thesa nai.
-OPT 3SG careful be.
-(May they be careful.)
-fausboll: "and conscientious"
-
-su shia moli haolu. su shia moli nai.
-OPT 3SG gentle speak. OPT 3SG gentle be.
-(May they speak gently. May they be gentle.)
-fausboll: "and of soft speech, gentle,"
+su shia miso sharino thesa theonu. su shia moli haolu. su shia moli nai.
+OPT 3SG REFL conscience careful attend. OPT 3SG gentle speak. OPT 3SG gentle be.
+(May they carefully attend to their own conscience. May they speak gently. May they be gentle.)
+fausboll: "and conscientious and of soft speech, gentle,"
 
 su shia thoru ma nai.
 OPT 3SG proud NEG be.
@@ -44,7 +29,7 @@ OPT 3SG proud NEG be.
 fausboll: "not proud,"
 ```
 
-**Notes:** The opening keeps three ideas apart. `welao sheraki` makes goodness the object of a search; `thesani` gives the seeker skill in that work; and `theula [whu phoa phelona] thena` names everything that genuinely requires action. `shia noalu ki kelu` makes attainment a completed change into tranquility. The tradition-specific name Nibbana remains in the source citation beside the Phi and does not enter Phi syntax. "Able" is the ability modal `po` on `phoa`, to act, while `wero` takes the truthfulness within "upright." It does not exhaust the source's wider moral sense.
+**Notes:** The source opens forward, towards the qualities that follow, rather than announcing a universal duty to do everything that requires action. `ha thena`, this, preserves that gesture. `welao sheraki` makes good the object of the search, `thesani` gives the seeker skill in it, and `noalu ki kelu` makes tranquility a completed attainment. The tradition-specific name Nibbana remains in the citation beside the Phi. "Able" is `po` on `phoa`, while `serathi` gives "upright" the ethical integrity that honesty alone could not carry. Conscientiousness remains transparent: the person attends carefully to their own `sharino`, conscience.
 
 ### Verse 2: Few burdens
 
@@ -64,51 +49,51 @@ OPT 3SG PL sense calm be. OPT 3SG wise be.
 (May their senses be calm. May they be wise.)
 fausboll: "and with his senses calmed and wise,"
 
-su shia motu nai.
-OPT 3SG humble be.
-(May they be humble.)
+su shia leo lo phirae miona miso ma nila.
+OPT 3SG ABOVE PL different person REFL NEG see.
+(May they not see themself above other people.)
 fausboll: "not arrogant,"
 
-su shia thoa lo lumani ro thalo. su shia tha shia thoa lo lumani sheloi thena pilu tho ma rinu.
-OPT 3SG AMONG PL family HAB walk. OPT 3SG DECL.COMP 3SG AMONG PL family MANY thing take DECL.COMP.CLOSE NEG want.
-(May they make their round among families. May they not want to take many things among the families.)
+whau shia thoa lo lumani ro thalo shia lue wurashi ma phoa.
+SIMUL 3SG AMONG PL family HAB walk 3SG ABL crave NEG do.
+(During their habitual walk among families, may they not act from craving.)
 fausboll: "without (showing) greediness (when going his round) in families."
 ```
 
-**Notes:** "Easily supported" becomes support requiring little labor, not `henoi sano` (knowing enough). The source's few cares are `phina naseru`, few obligations; `whuo tupeka` then says that the person bears no burden. `phelo` does not appear: it means light in weight, so using it here would depend on an English homonym. The following predicate forces the possessive reading of `shia lo morae`, just as `mia lohau welao nai` means "my dog is good." The last pair restores both the alms round and greediness. The `tha ... tho` frame holds the wanted action: taking many things among the families.
+**Notes:** "Easily supported" becomes support requiring little labour, not `henoi sano` (knowing enough). The source's few cares are `phina naseru`, few obligations; `whuo tupeka` then says that the person bears no burden. `phelo` does not appear: it means light in weight, so using it here would depend on an English homonym. The following predicate forces the possessive reading of `shia lo morae`, just as `mia lohau welao nai` means "my dog is good." Arrogance becomes the relation it asserts, seeing oneself above other people. The `whau` clause keeps the family round simultaneous with the instruction, and `wurashi` names the craving that the conduct is not to display.
 
 ### Verse 3: The wish for every creature
 
 ```
-su shia [whu lo phue miona tha ha thena peloma nai tho po sherewa] thena ma phoa.
-OPT 3SG [REL PL wise person DECL.COMP PROX thing harmful be DECL.COMP.CLOSE POT claim] thing NEG do.
-(May they not do a thing that wise people might claim is harmful.)
+su shia [whu lo phirae phue miona wei shia tha theali ma nai tho po shane] phoa ma phoa.
+OPT 3SG [REL PL different wise person DAT 3SG DECL.COMP fitting NEG be DECL.COMP.CLOSE POT tell] do NEG do.
+(May they do no deed that other wise people might tell them is unfitting.)
 fausboll: "3. And let him not do anything mean for which others who are wise might reprove (him);"
 
-su theula limoe siora nai.
-OPT UNIV creature joy be.
-(May every creature be joyful.)
+su theula miona nela theula limoe siora nai.
+OPT UNIV person COORD UNIV creature joy be.
+(May every person and every creature be joyful.)
 fausboll: "may all beings be happy"
 
-su theula limoe shurano nai.
-OPT UNIV creature safe be.
-(May every creature be safe.)
+su theula miona nela theula limoe shurano nai.
+OPT UNIV person COORD UNIV creature safe be.
+(May every person and every creature be safe.)
 fausboll: "and secure,"
 
-su theula limoe siora korua phelu.
-OPT UNIV creature joy heart hold.
-(May every creature hold a joyful heart.)
+su theula miona nela theula limoe siora korua phelu.
+OPT UNIV person COORD UNIV creature joy heart hold.
+(May every person and every creature hold a joyful heart.)
 fausboll: "may they be happy- minded."
 ```
 
-**Notes:** Phi has no single verb for moral reproof. The relative clause says that wise people might make a claim about the deed's harm. The modal retains the possibility, and the claim restores the social judgment. `peloma`, harmful, is narrower than Fausböll's "mean," but it states the criterion instead of replacing reproof with silent observation. `limoe` is the existing noun for a creature or living being, so the refrain names the beings directly. Happiness predicates with `nai`; it is not a sensation taken by `phaelo`.
+**Notes:** Phi has no single verb for moral reproof. The relative clause lets other wise people tell the practitioner that the deed is unfitting, so both the judgement and its address remain audible. `theali ma`, unfitting, is milder and more contextual than Fausböll's "mean"; the gap log keeps that limit visible. `limoe` normally points beyond human persons. Coordinating `theula miona` with `theula limoe` makes the refrain's inclusive reach explicit instead of asking "creature" to carry people at a distance. Happiness predicates with `nai`; it is not a sensation taken by `phaelo`.
 
 ### Verse 4: Every size and strength
 
 ```
-theula lima limoe.
-UNIV alive creature.
-(Every living creature.)
+theula lima miona nela theula lima limoe.
+UNIV alive person COORD UNIV alive creature.
+(Every living person and every living creature.)
 fausboll: "4. Whatever living beings there are,"
 
 [whu huwa nai] sola [whu kema nai].
@@ -132,7 +117,7 @@ fausboll: "middle-sized, short,"
 fausboll: "small or large,"
 ```
 
-**Notes:** Fausböll's first pair is `huwa`, weak, and `kema`, strong; `welua` would mean easily damaged rather than feeble. He then uses both "great" and "large." Phi distinguishes them by degree: `ru whalo`, very large, carries the first and plain `whalo` the second. The neutral noun lets `kesho ponalu` say middle size without calling the creature large.
+**Notes:** Fausböll's first pair is `huwa`, weak, and `kema`, strong; `welua` would mean easily damaged rather than feeble. The opening fragment names living people and other living creatures before the size list begins. Fausböll then uses both "great" and "large." Phi distinguishes them by degree: `ru whalo`, very large, carries the first and plain `whalo` the second. The neutral noun lets `kesho ponalu` say middle size without calling the being large.
 
 ### Verse 5: Seen and unseen
 
@@ -152,9 +137,9 @@ fausboll: "and which live far (or) near,"
 (Those who have been born or those coming toward birth.)
 fausboll: "either born or seeking birth,"
 
-su theula limoe siora korua phelu.
-OPT UNIV creature joy heart hold.
-(May every creature hold a joyful heart.)
+su theula miona nela theula limoe siora korua phelu.
+OPT UNIV person COORD UNIV creature joy heart hold.
+(May every person and every creature hold a joyful heart.)
 fausboll: "may al] creatures be happy-minded."
 ```
 
@@ -163,19 +148,19 @@ fausboll: "may al] creatures be happy-minded."
 ### Verse 6: No deception or contempt
 
 ```
-su mawha miona roe peshu shia phelira ka nai.
-OPT NONE person INS lie 3SG mistaken CAUS be.
-(May no person cause another to be mistaken through deception.)
+su mawha miona roe peshu phirae miona phelira ka nai.
+OPT NONE person INS lie different person mistaken CAUS be.
+(May no person cause another person to be mistaken through deception.)
 fausboll: "6. Let no one deceive another,"
 
-su mawha miona mua theula lokue shia thiku nila.
-OPT NONE person LOC UNIV place 3SG small see.
-(May no person, in any place, see another as small.)
+su mawha miona mua theula lokue phirae miona thiku nila.
+OPT NONE person LOC UNIV place different person small see.
+(May no person, in any place, see another person as small.)
 fausboll: "let him not despise (another) in any place,"
 
-su mawha miona lue korua thero sola lue laeno thimu korua thero wei shia peloma pula.
-OPT NONE person ABL heart fire DISJ ABL long time heart fire DAT 3SG harmful wish.
-(May no person, from heart-fire or long-held heart-fire, wish harm to another.)
+su mawha miona lue korua thero sola lue laeno thimu korua thero wei phirae miona peloma pula.
+OPT NONE person ABL heart fire DISJ ABL long time heart fire DAT different person harmful wish.
+(May no person, from heart-fire or long-held heart-fire, wish harm to another person.)
 fausboll: "let him not out of anger or resentment wish harm to another."
 ```
 
@@ -184,25 +169,25 @@ fausboll: "let him not out of anger or resentment wish harm to another."
 ### Verse 7: The unbounded friendly mind
 
 ```
-phea [whu miso lioru mua pukea nai nela miso ta lopia shorupo] thowia phao.
-AS [REL REFL life LOC danger be COORD REFL one child protect] born parent.
-(Like a birth parent whose own life is in danger and who protects their own one child.)
+thowia phao miso lioru mua pukea nai. shia sui ha pukea miso ta lopia shorupo.
+born parent REFL life LOC danger be. 3SG DUR PROX danger REFL one child protect.
+(A birth parent's own life is in danger. During this danger, they protect their own one child.)
 fausboll: "7, As a mother at the risk of her life watches over her own child, her only child,"
 
-su theula miona wea theula limoe [mawha norui lothea korua] sorila.
-OPT UNIV person TOWARD UNIV creature [NONE boundary love heart] cultivate.
-(May every person cultivate a loving heart without boundary toward every creature.)
+su theula miona phea ha shorupo wea theula miona nela wea theula limoe [mawha norui lothea korua] sorila.
+OPT UNIV person AS PROX protect TOWARD UNIV person COORD TOWARD UNIV creature [NONE boundary love heart] cultivate.
+(Like this protection, may every person cultivate a loving heart without boundary toward every person and every creature.)
 fausboll: "so also let every one cultivate a boundless (friendly) mind towards all beings."
 ```
 
-**Notes:** `thowia phao`, birth parent, describes the source's maternal relation without creating a universal gender class. The relative clause says that the parent's own life is in danger; it no longer turns that life into the instrument of protection. `miso ta lopia` states both "own child" and the exact count of one. Phi does not place restrictive `li` on a quantity, so the count itself does the work of "only child." The main instruction uses Fausböll's own verb: `sorila`, cultivate. Its object is `mawha norui lothea korua`, a loving heart with no boundary.
+**Notes:** `thowia phao`, birth parent, describes the source's maternal relation without creating a universal gender class. The parent's own life is in danger; it does not become the instrument of protection. `sui ha pukea` keeps the protection within that danger, while `miso ta lopia` states both "own child" and the exact count of one. Phi does not place restrictive `li` on a quantity, so the count itself does the work of "only child." `phea ha shorupo`, like this protection, attaches the comparison to the instruction instead of leaving the simile as a detached fragment. The main predicate is Fausböll's own verb, `sorila`, cultivate. Its object is `mawha norui lothea korua`, a loving heart with no boundary, and its two `wea` phrases include people as well as other creatures.
 
-### Verse 8: Above, below, and around
+### Verse 8: Above, below, and across
 
 ```
 su shia wea theula lokue lothea sorila.
 OPT 3SG TOWARD UNIV place love cultivate.
-(May they cultivate love toward every place in the world.)
+(May they cultivate love toward every place.)
 fausboll: "8. And let him cultivate goodwill towards all the world,"
 
 su shia [mawha norui lothea korua] sorila.
@@ -210,14 +195,14 @@ OPT 3SG [NONE boundary love heart] cultivate.
 (May they cultivate a loving heart without boundary.)
 fausboll: "a boundless (friendly) mind,"
 
-su shia leo muila nela phou muila nela roa muila ha korua sorila.
-OPT 3SG ABOVE earth COORD BELOW earth COORD AROUND earth PROX heart cultivate.
-(May they cultivate this heart above the earth, below it, and around it.)
+su shia leo muila nela phou muila nela thue muila ha korua sorila.
+OPT 3SG ABOVE earth COORD BELOW earth COORD THROUGH earth PROX heart cultivate.
+(May they cultivate this heart above the earth, below it, and across it.)
 fausboll: "above and below and across,"
 
-su ha korua nuwi nai.
-OPT PROX heart clear be.
-(May this heart be clear of obstruction.)
+su ha korua noraku ma nai.
+OPT PROX heart blocked NEG be.
+(May this heart not be blocked.)
 fausboll: "unobstructed,"
 
 su ha korua whuo korua thero nai. su ha korua whuo laeno thimu korua thero nai.
@@ -226,15 +211,15 @@ OPT PROX heart WITHOUT heart fire be. OPT PROX heart WITHOUT long time heart fir
 fausboll: "without hatred, without enmity."
 ```
 
-**Notes:** The first line uses `theula lokue`, every place, for the world rather than narrowing it to soil or to a single planet-name. `lothea` is love as active care and expresses goodwill here. The next lines repeat the source's cultivation instead of turning love into something merely given or held. `leo muila`, `phou muila`, and `roa muila` give the three directions objects the prepositions can govern: above the earth, below it, and around it. `nuwi` includes freedom from obstruction. Hatred and enmity follow the distinction used for anger and resentment in verse 6: heart-fire, then heart-fire that has lasted.
+**Notes:** The first line uses `theula lokue`, every place, for the world's full extent rather than narrowing it to soil or a planet-name. `lothea` is love as active care and expresses goodwill here. The next line repeats the source's cultivation instead of turning love into something merely given or held. `leo muila`, `phou muila`, and `thue muila` give the three directions objects the prepositions can govern: above the earth, below it, and across it. Negated `noraku`, blocked, states the obstruction directly. Hatred and enmity keep the settled anger image: heart-fire, then heart-fire that has lasted. Duration carries the distinction imperfectly, as the gap log records.
 
 ### Verse 9: Devotion while awake
 
 ```
-su shia sui [whano sola thalo sola meilo sola ruemi] sui waeli wei ha korua miso menai.
-OPT 3SG DUR [stand DISJ walk DISJ sit DISJ lie down] DUR conscious DAT PROX heart REFL dedicate.
-(Throughout wakefulness, whether standing, walking, sitting, or lying down, may they dedicate themself to this heart.)
-fausboll: "9. Standing, walking or sitting or lying, as long as he be awake, let him devote himself to this mind"
+su shia sui [whano sola thalo sola meilo sola ruemi] sui theula waeli thimu wei ha korua miso menai.
+OPT 3SG DUR [stand DISJ walk DISJ sit DISJ lie down] DUR UNIV conscious time DAT PROX heart REFL dedicate.
+(During standing, walking, sitting, or lying down, throughout all conscious time, may they dedicate themself to this heart.)
+fausboll: "9. Standing, walking or sitting or lying, as long as he be awake, let him devote himself to this mind ;"
 
 ha liona ruela mua ha muila mo ko welao ti nai.
 PROX live path LOC PROX earth CMPR FOC good REP be.
@@ -242,14 +227,14 @@ PROX live path LOC PROX earth CMPR FOC good REP be.
 fausboll: "this (way of) living they say is the best in this world."
 ```
 
-**Notes:** The first `sui` places devotion within every listed posture, and `sui waeli` extends it through wakefulness. `lu` is not used because the source gives duration, not a condition. The object of devotion is the heart cultivated in the preceding verses, and `wei ha korua miso menai` says that the practitioner dedicates themself to it. `liona ruela` makes the source's "way of living" explicit. The reportative `ti` marks the superlative as something said by others.
+**Notes:** The first `sui` places devotion within every listed posture. The second governs `theula waeli thimu`, all conscious time, and says how long without trusting "during consciousness" to imply the whole span. `lu` is not used because the source gives duration, not a condition. The object of devotion is the heart cultivated in the preceding verses, and `wei ha korua miso menai` says that the practitioner dedicates themself to it. `liona ruela` makes the source's "way of living" explicit. The reportative `ti` marks the superlative as something said by others.
 
 ### Verse 10: Insight and the end of return
 
 ```
-[whu lo remo kire ma phelu] miona welao phoa.
-[REL PL think shape NEG hold] person good do.
-(The person who does not hold fixed thought-shapes acts well.)
+[whu lo remo kire ma phelu] miona taleri nai.
+[REL PL think shape NEG hold] person virtuous be.
+(The person who does not hold fixed thought-shapes is virtuous.)
 fausboll: "10. He who, not having embraced (philosophical) views, is virtuous,"
 
 shia sholu sorai phelu.
@@ -257,13 +242,13 @@ shia sholu sorai phelu.
 (They hold complete insight.)
 fausboll: "endowed with (perfect) vision,"
 
-pheo shia lo weloni siora te ru wilao shia mawha thimu muo thowia phao mokura so turema.
-POST 3SG PL body joy CESS INTS long-for 3SG NONE time INTO born parent belly FUT return.
-(After they cease strongly longing for bodily joys, they will never return into a birth parent's belly.)
+pheo shia [lo morae nirelo wurashi] shena ka nai shia mawha thimu muo thowia phao mokura so turema.
+POST 3SG [PL sense pleasant crave] calm CAUS be 3SG NONE time INTO born parent belly FUT return.
+(After they calm craving for sensory pleasures, they will never return into a birth parent's belly.)
 fausboll: "after subduing greediness for sensual pleasures, will never again go to a mother’s womb."
 ```
 
-**Notes:** `remo kire`, thought-shapes, is the registered composition for fixed views. The source's virtue receives its own predicate, `welao phoa`, to act well, instead of disappearing inside a pure-heart image. `sholu sorai` is complete insight; it accounts for perfection and vision's depth. Sensual pleasures are `lo weloni siora`, bodily joys, while greediness becomes strong longing and `te` marks its cessation. The last claim is no longer omitted. `mawha thimu` says never, `turema` says return, and the future `so` marks the prediction. `thowia phao mokura`, a birth parent's belly, makes the womb concrete without a dedicated anatomy root.
+**Notes:** `remo kire`, thought-shapes, is the registered composition for fixed views; `ma phelu` says that the person does not hold them. `taleri` gives virtue its own quality rather than replacing a disposition with one well-judged act. `sholu sorai` is complete insight; it accounts for perfection and the depth of vision. `lo morae nirelo` names sensory pleasures, and the event noun of `wurashi` names craving for them. Causative `shena ka nai` calms that craving, a close Phi rendering of subduing that does not borrow domination as a metaphor for the mind. `mawha thimu` says never, `turema` says return, and future `so` marks the prediction. `thowia phao mokura`, a birth parent's belly, keeps the womb concrete without pre-empting Phi's separate, scenario-led work on reproductive anatomy.
 
 ---
 
@@ -272,21 +257,23 @@ fausboll: "after subduing greediness for sensual pleasures, will never again go 
 ```
 lothea thole
 
-[whu [welao sheraki] thesani phelu] miona theula [whu phoa phelona] thena na phoa.
-shia noalu ki kelu.
-su shia po phoa. su shia wero nai. su shia thesa nai.
+[whu [welao sheraki] thesani phelu nela noalu ki kelu] miona ha thena na phoa.
+su shia po phoa. su shia serathi nai.
+su shia miso sharino thesa theonu.
 su shia moli haolu. su shia moli nai. su shia thoru ma nai.
 
 su shia nuloe nai. su shia roe phina riola se panoru.
 su shia phina naseru phelu. su shia whuo tupeka nai.
-su shia lo morae shena nai. su shia phue nai. su shia motu nai.
-su shia thoa lo lumani ro thalo. su shia tha shia thoa lo lumani sheloi thena pilu tho ma rinu.
+su shia lo morae shena nai. su shia phue nai.
+su shia leo lo phirae miona miso ma nila.
+whau shia thoa lo lumani ro thalo shia lue wurashi ma phoa.
 
-su shia [whu lo phue miona tha ha thena peloma nai tho po sherewa] thena ma phoa.
-su theula limoe siora nai. su theula limoe shurano nai.
-su theula limoe siora korua phelu.
+su shia [whu lo phirae phue miona wei shia tha theali ma nai tho po shane] phoa ma phoa.
+su theula miona nela theula limoe siora nai.
+su theula miona nela theula limoe shurano nai.
+su theula miona nela theula limoe siora korua phelu.
 
-theula lima limoe.
+theula lima miona nela theula lima limoe.
 [whu huwa nai] sola [whu kema nai].
 [whu laeno nai] sola [whu ru whalo nai].
 [whu kesho ponalu phelu] sola [whu teku nai].
@@ -295,27 +282,27 @@ theula lima limoe.
 [whu se nila] sola [whu se ma nila].
 [whu wuero menui] sola [whu noshi menui].
 [whu ki thowia] sola [whu wea thowia shua].
-su theula limoe siora korua phelu.
+su theula miona nela theula limoe siora korua phelu.
 
-su mawha miona roe peshu shia phelira ka nai.
-su mawha miona mua theula lokue shia thiku nila.
-su mawha miona lue korua thero sola lue laeno thimu korua thero wei shia peloma pula.
+su mawha miona roe peshu phirae miona phelira ka nai.
+su mawha miona mua theula lokue phirae miona thiku nila.
+su mawha miona lue korua thero sola lue laeno thimu korua thero wei phirae miona peloma pula.
 
-phea [whu miso lioru mua pukea nai nela miso ta lopia shorupo] thowia phao.
-su theula miona wea theula limoe [mawha norui lothea korua] sorila.
+thowia phao miso lioru mua pukea nai. shia sui ha pukea miso ta lopia shorupo.
+su theula miona phea ha shorupo wea theula miona nela wea theula limoe [mawha norui lothea korua] sorila.
 
 su shia wea theula lokue lothea sorila.
 su shia [mawha norui lothea korua] sorila.
-su shia leo muila nela phou muila nela roa muila ha korua sorila.
-su ha korua nuwi nai.
+su shia leo muila nela phou muila nela thue muila ha korua sorila.
+su ha korua noraku ma nai.
 su ha korua whuo korua thero nai. su ha korua whuo laeno thimu korua thero nai.
 
-su shia sui [whano sola thalo sola meilo sola ruemi] sui waeli wei ha korua miso menai.
+su shia sui [whano sola thalo sola meilo sola ruemi] sui theula waeli thimu wei ha korua miso menai.
 ha liona ruela mua ha muila mo ko welao ti nai.
 
-[whu lo remo kire ma phelu] miona welao phoa.
+[whu lo remo kire ma phelu] miona taleri nai.
 shia sholu sorai phelu.
-pheo shia lo weloni siora te ru wilao shia mawha thimu muo thowia phao mokura so turema.
+pheo shia [lo morae nirelo wurashi] shena ka nai shia mawha thimu muo thowia phao mokura so turema.
 ```
 
 ---
@@ -327,21 +314,27 @@ The gap log records each place where Phi composes or narrows Fausböll's wording
 | Source detail | Phi | What changes |
 |---|---|---|
 | attaining Nibbana's tranquil state | `noalu ki kelu` | `ki` describes attainment as a completed change into tranquility; Nibbana remains in the adjacent citation. |
-| upright | `wero` | Honesty covers the truthfulness in upright conduct, but not its whole moral range. |
+| upright | `serathi` | Ethical integrity carries the source's wider quality; the governing commitments remain contextual rather than universal. |
+| conscientious | `miso sharino thesa theonu` | Phi describes careful attention to one's own conscience instead of adding a second adjective for the same relation. |
 | easily supported | `roe phina riola se panoru` | The support requires little labor. |
 | few cares | `phina naseru phelu` | The cares narrow to obligations; `whuo tupeka` states "unburdened" directly. |
-| greediness on the family round | `thoa lo lumani ro thalo` and `tha shia thoa lo lumani sheloi thena pilu tho ma rinu` | The round among families and the desire to take many things are stated separately. |
-| mean; reprove | a harmful deed that wise people might `sherewa` | Harm narrows "mean"; a possible claim restores the social act of reproof. |
+| not arrogant | `leo lo phirae miona miso ma nila` | The source's negative quality becomes its relation: the person does not see themself above other people. |
+| greediness on the family round | `whau ... ro thalo ... lue wurashi ma phoa` | The habitual walk remains simultaneous with an instruction not to act from craving. |
+| mean; reprove | an unfitting deed that other wise people might `shane` to the practitioner | "Unfitting" is milder and more contextual than "mean"; direct telling preserves the social address of reproof without adding a dedicated verb. |
+| all beings | `theula miona nela theula limoe` | Phi names people and other creatures separately because unqualified `limoe` normally points beyond human persons. |
 | great; large | `ru whalo`; `whalo` | Intensity distinguishes the two sizes. |
 | seeking birth | `wea thowia shua` | The not-yet-born come toward birth without being assigned an intention. |
-| deceive another | `roe peshu shia phelira ka nai` | Deliberate deception causes the other person to be mistaken. |
+| deceive another | `roe peshu phirae miona phelira ka nai` | Deliberate deception causes the other person to be mistaken. |
 | anger; resentment; hatred; enmity | `korua thero`; `laeno thimu korua thero` | Duration separates a passing heart-fire from one that has lasted. |
 | mother | `thowia phao` | Birth parent states the relevant relation without adding a gender class. |
 | only child | `miso ta lopia` | Exact one carries the quantity; Phi does not place restrictive `li` on a number. |
-| world; across | `theula lokue`; `roa muila` | Every place renders the world, and around the earth renders the transverse direction. |
+| world | `theula lokue` | Every place renders the world's extent distributively. |
+| across | `thue muila` | The THROUGH preposition gives the transverse direction an explicit object. |
+| unobstructed | `noraku ma` | Negated "blocked" states the absence of obstruction directly. |
+| as long as awake | `sui theula waeli thimu` | The universal quantity makes the whole span of conscious time explicit. |
 | philosophical views | `remo kire` | The registered thought-shapes are fixed views. |
-| virtuous | `welao phoa` | Virtue is expressed as acting well. |
+| virtuous | `taleri` | A Philosophical Reasoning adjective and its quality noun carry the source's ethical disposition. |
 | perfect vision | `sholu sorai` | Complete insight accounts for vision and its perfection. |
-| greed for sensual pleasures | `lo weloni siora te ru wilao` | The practitioner ceases strong longing for bodily joys. |
+| greed for sensual pleasures | `lo morae nirelo wurashi shena ka nai` | Sensory pleasure stays distinct from craving; causative calm renders subduing without a domination metaphor. |
 | a mother's womb; never again | `thowia phao mokura`; `mawha thimu ... so turema` | A birth parent's belly is the nearest available anatomy; the prediction of no return remains explicit. |
-| optional vocabulary | `thesani`; `naseru` | Skill comes from Work, Craft, and Repair; obligation belongs to that module and Commons and Collective Governance. No new word is coined. |
+| optional vocabulary | `thesani`; `naseru`; `sharino`; `serathi`; `taleri`; `wurashi` | The close translation uses the full lexicon. Skill and obligation come from their existing paths; conscience, integrity, virtue, and craving use the modules in which their distinctions belong. |

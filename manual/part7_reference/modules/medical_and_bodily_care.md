@@ -4,7 +4,7 @@ Someone wakes with a fever and says so, in their own words. Everything this modu
 
 Like every module, these words are optional and use ordinary Phi grammar. Core Phi already reports pain, sickness, refusal, need, and care, and a speaker who has not learned the module can always ask for a core paraphrase. Learning it gives no one medical knowledge, a professional role, or any permission to act on another person's body.
 
-The chapter table below introduces 30 roots. Current classifications bring the learning list to 51 words; the complete list is under [Medical and Bodily Care in the module lexicon](../lexicon/by_module.md#medical-and-bodily-care).
+The chapter table below introduces 30 roots. Current classifications bring the learning list to 52 words; the complete list is under [Medical and Bodily Care in the module lexicon](../lexicon/by_module.md#medical-and-bodily-care).
 
 ## Core vocabulary used by the module
 
@@ -31,6 +31,18 @@ The Medical path also includes three particular preparations.
 | `heloa` | remedy; a treatment or medicine intended to answer a particular ailment | A remedy is narrower than medicine in general because it is matched to the problem it is meant to resolve. |
 | `thelai` | balm; a soothing ointment applied to the body | Balm names an external preparation and the relief intended through touch. |
 | `wenu` | tonic; a medicinal drink intended to restore strength | The drink is a particular care preparation; health, medicine, drinking, and strength remain separate base words. |
+
+## Craving in first-person care
+
+Philosophical Reasoning and Medical and Bodily Care share `wurashi`, crave. A person may use it for food, a substance, an activity, or another repeated satisfaction that feels hard to set aside. The report names pressure in desire; it neither supplies a diagnosis nor turns the person into a moral category.
+
+```
+mia ha nuora wurashi.
+1SG PROX food crave.
+(I crave this food.)
+```
+
+`rinu` remains ordinary wanting, and `wilao` remains longing that may be intense or sustained without pressing for satisfaction. A care conversation can ask what the craving feels like, what makes it stronger, and what help the person wants without pretending the verb has answered those questions.
 
 ## Shared-core consent
 

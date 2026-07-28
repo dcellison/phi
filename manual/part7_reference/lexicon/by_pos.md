@@ -8,7 +8,7 @@
 *Content words appear under their listed lexical class. A rule-supplied event or quality noun does not add another class to the entry. Function words are grouped by grammatical class.*
 
 
-## adjective (215)
+## adjective (218)
 
 | Word | Gloss |
 |---|---|
@@ -91,6 +91,7 @@
 | `newai` | fresh |
 | `newu` | new |
 | `nilua` | shy |
+| `nirelo` | pleasant |
 | `noalu` | tranquil |
 | `noeli` | warm (emotional) |
 | `noemi` | authentic |
@@ -145,6 +146,7 @@
 | `selua` | aware |
 | `senao` | same |
 | `serao` | old |
+| `serathi` | principled |
 | `seroli` | mature |
 | `shaelo` | brave |
 | `shaemu` | organic |
@@ -168,6 +170,7 @@
 | `sowelu` | disabled |
 | `sukaro` | hot |
 | `sulae` | warm |
+| `taleri` | virtuous |
 | `tawimo` | foolish |
 | `tekari` | straight |
 | `teku` | short |
@@ -998,7 +1001,7 @@
 | `theula` | UNIV |
 | `wheli` | ANY |
 
-## verb (361)
+## verb (362)
 
 | Word | Gloss |
 |---|---|
@@ -1363,6 +1366,7 @@
 | `wisola` | exchange |
 | `woraka` | appreciate |
 | `wosanu` | absorb |
+| `wurashi` | crave |
 
 ## vocative (1)
 

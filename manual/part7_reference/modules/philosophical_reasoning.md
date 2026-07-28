@@ -1,10 +1,10 @@
 # Philosophical Reasoning
 
-Someone claims a path is good, another asks why, and the argument that follows needs words sharper than "think" and "true" to hold together: a premise from a conclusion, a valid argument from a sound one, a doubt from a refutation. Claim, evidence, reason, and criterion belong to base vocabulary because that exchange is ordinary life. Twenty-one narrower roots form the optional toolkit around them.
+Someone claims a path is good, another asks why, and the argument that follows needs words sharper than "think" and "true" to hold together: a premise from a conclusion, a valid argument from a sound one, a doubt from a refutation. Claim, evidence, reason, and criterion belong to base vocabulary because that exchange is ordinary life. Twenty-four narrower roots form the optional toolkit around them.
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them supplies vocabulary, and vocabulary has never made anyone right.
 
-The chapter table below introduces 21 module roots. Shared classification brings the optional learning list to 24 words; four base words are taught alongside it. The complete list is under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning).
+The chapter table below introduces 24 module roots. Shared classification brings the optional learning list to 27 words; four base words are taught alongside it. The complete list is under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning).
 
 ## Core vocabulary used by the module
 
@@ -45,12 +45,15 @@ The module does not replace what Phi already says about thought and dialogue. It
 | `remole` | noun | concept; an organized idea | A concept stands apart from the word that names it, the symbol that points to it, and any one example used to illustrate it. |
 | `sherelo` | noun | right; a normative claim that can bind conduct or institutions | A right can remain live while denied; `shereni` entitlement begins with recognition and scope. |
 | `sharino` | noun | conscience; moral self-appraisal | Conscience weighs one's own conduct, while `waeli` consciousness names subjective awareness more broadly. |
+| `serathi` | adjective | principled; faithful to stated ethical commitments in conduct | Integrity concerns what happens when a commitment is tested; honesty is the narrower question of knowing deception. |
+| `taleri` | adjective | virtuous; ethically good in character, act, or continuing conduct | Virtue is judged under a practice or body of reasons; it is not a hidden moral substance inside a person. |
+| `wurashi` | verb | crave; feel persistent pressure towards satisfaction | Craving is harder to set aside than an ordinary want; intense or lasting longing can still remain neutral. |
 | `whamoi` | verb | doubt; remain unsettled about a proposition | Doubting stays unsettled; it is neither a denial nor a refutation. |
 | `norethi` | adjective | confident; hold a strong but revisable stance | Confidence is a strong stance held with room to revise, and it is not the same as knowledge, truth, or authority. |
 | `soneho` | noun | tradeoff; a valued gain joined to a valued loss | A tradeoff joins a real gain to a real loss; simply having several options on the table is not yet one. |
 | `manawi` | verb | compromise; agree through mutual concession | Compromising reaches agreement through concession from more than one side; the word alone says nothing about whether the result is fair. |
 
-Verbs used in this chapter receive their event or result nouns through Phi's ordinary event-noun rule: `sherewa` can name a claim, `kethira` an inference, `whakeru` an objection, `whekate` a refutation, `kirothe` a definition, `whamoi` doubt, and `manawi` a compromise. The adjectives `kithela`, `letharo`, and `norethi` likewise name validity, consistency, and confidence through the quality-noun rule; their entries stay verb-only or adjective-only, as the lexicon requires.
+Verbs used in this chapter receive their event or result nouns through Phi's ordinary event-noun rule: `sherewa` can name a claim, `kethira` an inference, `whakeru` an objection, `whekate` a refutation, `kirothe` a definition, `whamoi` doubt, `wurashi` craving, and `manawi` a compromise. The adjectives `kithela`, `letharo`, `serathi`, `taleri`, and `norethi` likewise name validity, consistency, integrity, virtue, and confidence through the quality-noun rule; their entries stay verb-only or adjective-only, as the lexicon requires.
 
 ## Claims, premises, and conclusions
 
@@ -203,6 +206,34 @@ mia sharino mia phoa whakeru.
 ```
 
 The paired [Article 1](../../../texts/human_rights_article_one.md) tests both distinctions in adjacent claims. Its translation grants all people thought and conscience as faculties; its transmutation gives them the capacity to think and the heart's knowing.
+
+## Integrity, virtue, and craving
+
+`serathi` begins with a commitment that can be named. A person shows integrity when conduct remains answerable to that commitment after convenience has begun making suggestions. The word does not prove that the commitment itself is good; its ethical grounds remain open to the same questions as any other claim.
+
+```
+shia serathi phoa.
+3SG principled do.
+(They act with integrity.)
+```
+
+`taleri` makes the wider ethical judgement. A person, act, or practice may be virtuous under stated reasons. Virtue can be learned or lost, and the judgement itself may be disputed.
+
+```
+shia taleri ro phoa.
+3SG virtuous HAB do.
+(They habitually act virtuously.)
+```
+
+`wurashi` names pressure within desire. One may want a bowl of fruit, long for a distant home, or crave an experience that has become difficult to set aside. Philosophy needs the difference because advice about desire becomes muddled quickly when breakfast and compulsion are made to share one noun.
+
+```
+mia ha nuora rinu. whekai mia shia ma wurashi.
+1SG PROX food want. CONTR 1SG 3SG NEG crave.
+(I want this food. However, I do not crave it.)
+```
+
+The [Metta Sutta](../../../texts/metta_sutta.md) brings the three words into one close translation. Upright conduct uses `serathi`, virtue uses `taleri`, and greediness for sensory pleasure uses the event noun of `wurashi`. Conscientiousness stays compositional as careful attention to one's own `sharino`, so both the faculty and the act remain audible.
 
 ## Doubt and confidence
 

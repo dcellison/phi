@@ -938,6 +938,18 @@
       "candidate_ids": [
         "CV-CAPACITY-01"
       ]
+    },
+    {
+      "id": "metta-sutta-fidelity-repair",
+      "heading": "Metta Sutta close-translation repair",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-ETH-03",
+        "CV-ETH-04",
+        "CV-AFFECT-09",
+        "CV-DESIRE-01"
+      ]
     }
   ],
   "candidates": [
@@ -5167,6 +5179,102 @@
       },
       "batches": [
         "excess-conflation-sweep"
+      ]
+    },
+    {
+      "id": "CV-ETH-03",
+      "concept": "ethical integrity or uprightness shown when conduct remains faithful to stated commitments under pressure",
+      "status": "implemented",
+      "placement": "Philosophical Reasoning and Commons and Collective Governance",
+      "summary": "The Metta translation used 'wero' (honest) for upright, which preserved freedom from deliberate deception and lost the wider relation between ethical commitment and conduct. 'noemi' (authentic) reaches fidelity to one's own commitments but cannot say whether those commitments are ethically sound. The distinction belongs wherever a person or institution is asked to keep a stated principle when doing so has a cost.",
+      "expressions": [
+        "wero",
+        "noemi",
+        "letharo",
+        "seru"
+      ],
+      "implementation": {
+        "words": [
+          "serathi"
+        ],
+        "files": [
+          "vocabulary/content/principled.json"
+        ]
+      },
+      "batches": [
+        "metta-sutta-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-ETH-04",
+      "concept": "virtue as ethical excellence attributed to character or a continuing pattern of conduct",
+      "status": "implemented",
+      "placement": "Philosophical Reasoning",
+      "summary": "The earlier Metta line rendered virtuous as 'welao phoa' (act well), which changed an attributed ethical disposition into one act. Habitual aspect could repeat the action but still left philosophical discussion without a name for the quality being judged. The new adjective keeps the standard contextual and supplies virtue through the quality-noun rule.",
+      "expressions": [
+        "welao",
+        "serathi",
+        "ro",
+        "phoa"
+      ],
+      "implementation": {
+        "words": [
+          "taleri"
+        ],
+        "files": [
+          "vocabulary/content/virtuous.json"
+        ]
+      },
+      "batches": [
+        "metta-sutta-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-AFFECT-09",
+      "concept": "pleasure or pleasant experience apart from joy, liking, amusement, and contentment",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "The Metta line had to turn sensual pleasures into 'weloni siora' (bodily joys). Joy names gladness in a person, not the agreeable quality of an experience, while liking reports preference and contentment reports satisfaction with what is present. Pleasure recurs in food, touch, music, rest, and ordinary self-report, so it belongs in base vocabulary rather than one optional path.",
+      "expressions": [
+        "siora",
+        "kaeli",
+        "monelu",
+        "nuloe",
+        "morae"
+      ],
+      "implementation": {
+        "words": [
+          "nirelo"
+        ],
+        "files": [
+          "vocabulary/content/pleasant.json"
+        ]
+      },
+      "batches": [
+        "metta-sutta-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-DESIRE-01",
+      "concept": "craving as persistent pressure for satisfaction, distinct from ordinary want and neutral intense longing",
+      "status": "implemented",
+      "placement": "Philosophical Reasoning and Medical and Bodily Care",
+      "summary": "Base 'rinu' (want) deliberately leaves strength and duration open, while 'wilao' (long for) remains neutral even when the pull is intense or sustained. The Metta translation used both for greediness and therefore changed a difficult-to-set-aside pressure into an ordinary desire. Craving matters in reflective practice and in first-person bodily care, where naming it must not label the person or diagnose a condition.",
+      "expressions": [
+        "rinu",
+        "wilao",
+        "phelona"
+      ],
+      "implementation": {
+        "words": [
+          "wurashi"
+        ],
+        "files": [
+          "vocabulary/content/crave.json"
+        ]
+      },
+      "batches": [
+        "metta-sutta-fidelity-repair"
       ]
     }
   ],

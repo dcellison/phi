@@ -63,7 +63,7 @@
 
 ## Commons and Collective Governance
 
-*53 words in this learning path.*
+*54 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -98,6 +98,7 @@
 | `punoki` | institution | noun |
 | `repora` | propose | verb |
 | `rilowa` | assign | verb |
+| `serathi` | principled | adjective |
 | `shalimo` | alliance | noun |
 | `shalori` | represent | verb |
 | `shanewi` | notify | verb |
@@ -236,7 +237,7 @@
 
 ## Medical and Bodily Care
 
-*51 words in this learning path.*
+*52 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -291,10 +292,11 @@
 | `whemaki` | allergy | noun |
 | `wireki` | prognosis | noun |
 | `wuneri` | variable | noun |
+| `wurashi` | crave | verb |
 
 ## Philosophical Reasoning
 
-*24 words in this learning path.*
+*27 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -315,13 +317,16 @@
 | `remole` | concept | noun |
 | `remuma` | conclusion | noun |
 | `samethu` | equivalent | adjective |
+| `serathi` | principled | adjective |
 | `sharino` | conscience | noun |
 | `sherelo` | right (normative) | noun |
 | `soneho` | tradeoff | noun |
+| `taleri` | virtuous | adjective |
 | `themore` | argument | noun |
 | `whakeru` | object | verb |
 | `whamoi` | doubt | verb |
 | `whekate` | refute | verb |
+| `wurashi` | crave | verb |
 
 ## Systems and Shared Infrastructure
 

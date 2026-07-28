@@ -1,0 +1,38 @@
+{
+  "word": "serathi",
+  "gloss": "principled",
+  "ipa": "/se̞.ˈrä.θi/",
+  "syllables": [
+    "se",
+    "ra",
+    "thi"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "upright",
+    "integrity",
+    "ethical integrity"
+  ],
+  "description": "A 'serathi' person lets stated ethical commitments govern conduct when keeping them has a cost. The same adjective can describe an act that shows this integrity. 'wero' (honest) concerns knowing deception, while 'noemi' (authentic) asks whether conduct is faithful to the person's own commitments without judging those commitments ethically sound.",
+  "articulatory_notes": "Raise the tongue blade close to the alveolar ridge for unvoiced 's' and send air through its central groove into true-mid front unrounded 'e'. Make a brief alveolar tap or short trill before stressed open central 'a'. Place the tongue tip lightly against the upper teeth for unvoiced 'th', let the air continue along it, and finish with high-front unrounded 'i'.",
+  "sound_symbolism": "The form moves from steady sibilant air through the brief turn of stressed 'ra', then ends in dental breath and a close front vowel. Its changes of contact occur without breaking the line of the word, a possible echo of a commitment kept while circumstances change.",
+  "usage_notes": "The quality-noun rule supplies integrity or uprightness. When context does not already make it clear, a nearby clause can name the commitment or principle. 'serathi' does not turn the speaker's own standard into a universal one.",
+  "examples": [
+    {
+      "phi": "shia serathi phoa.",
+      "translation": "They act with integrity."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "Integrity in speech appears when a person keeps an ethical commitment to honesty, consent, or repair even when evasion would be easier."
+  },
+  "semantic_domains": {
+    "community": "conduct that remains answerable to stated ethical commitments in shared life",
+    "ethics": "fidelity between ethical commitment and conduct when the commitment is tested",
+    "wisdom": "principled conduct whose grounds remain available for examination"
+  },
+  "modules": [
+    "commons-and-collective-governance",
+    "philosophical-reasoning"
+  ]
+}

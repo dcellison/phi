@@ -1,6 +1,6 @@
 # Lexicon expansion survey (2026-07-21)
 
-This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,287 entries: 1,153 content words, 114 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become detailed where speakers need specialised discussion.
+This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,291 entries: 1,157 content words, 114 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become detailed where speakers need specialised discussion.
 
 A missing English headword is not automatically a Phi gap. A concept may already be covered elegantly by a broader root, ordinary composition, an event noun, a registered compound, or a separately presented source artifact plus Phi analysis. That observation does not prohibit coinage: a concept may receive a dedicated word because it is important, useful, beautiful, or worth making easy to discuss.
 
@@ -55,7 +55,7 @@ These domains matter to Phi's intended philosophical and solarpunk-oriented use.
 
 ### Philosophical reasoning: first pass complete
 
-The [Philosophical Reasoning profile](../modules/philosophical_reasoning.md) established 18 optional terms in its first pass across argument structure and assessment, definition, epistemic stance, and practical deliberation. Later work added rights and conscience, and the module-prose review added `hoshemi` hypothesis; the dedicated set now contains 21 roots. Systems later added shared `harusi` emergence and `hosari` correlation. The current learning path therefore has 24 memberships. `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion remain in base vocabulary.
+The [Philosophical Reasoning profile](../modules/philosophical_reasoning.md) established 18 optional terms in its first pass across argument structure and assessment, definition, epistemic stance, and practical deliberation. Later work added rights, conscience, hypothesis, integrity, virtue, and craving; the dedicated set now contains 24 roots. Systems supplies the shared terms `harusi` emergence, `hosari` correlation, and `samethu` equivalent. The current learning path therefore has 27 memberships. `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion remain in base vocabulary.
 
 The pass retains transparent compositions for priority and standpoint, and for soundness, conditionals, and suspension of judgment. The current review also keeps ordinary inference strength and responsibility compositional. The connected Systems review now supplies emergence and correlation without turning either one into a causal claim.
 
@@ -73,7 +73,7 @@ The pass keeps ecosystem boundaries, ecological niches, species ranges, abundanc
 
 ### Civic, economic, and institutional life: Commons current pass complete
 
-The [Commons and Collective Governance profile](../modules/commons_and_collective_governance.md) now establishes 29 optional roots and has 53 current memberships. The original pass covered institutional structure and claimed authority. It also separated collective procedure from resource allocation, then accountability from later revision. The current completeness pass adds `kowanu` governance and `pashenu` petition. `sirami` record, `kawhera` coerce, and `whepelo` retaliate remain in base vocabulary.
+The [Commons and Collective Governance profile](../modules/commons_and_collective_governance.md) establishes 29 optional roots and has 54 current memberships. The original pass covered institutional structure and claimed authority. It also separated collective procedure from resource allocation, then accountability from later revision. The completeness pass added `kowanu` governance and `pashenu` petition; shared `serathi` adds principled conduct. `sirami` record, `kawhera` coerce, and `whepelo` retaliate remain in base vocabulary.
 
 Affected standing and office structure remain compositional, as do meeting mechanics. Legal categories and property relations keep their source distinctions. So do enforcement methods and institutional criticism, while publication, implementation, and repeal use ordinary clauses. The full profile records each retained item. `CV-ECON-01` reserves contracts and wider political economy for a possible Economic Systems and Provisioning profile; its register entry preserves the monetary and accounting questions without importing them under governance labels.
 
