@@ -46,7 +46,7 @@ A: mia tha pheralu luphore peloma ka kelu tho ke nohero.
 
 B: mia ma sano. phisu serao keli peloma po nai.
 
-A: mia phelui naweri. shorela mia hina luphore to peloma ka kelu ma sano.
+A: mia phelui naweri. shorela mia pha hina luphore peloma to ka kelu pho ma sano.
 
 B: mia shelomu. lo mia therilu.
 ```

@@ -344,8 +344,8 @@ boat person THAN NAME selomi ATTEN CMPR good custom PST hold. POST short moment 
 (The ferryman held slightly more good custom than the weaver; presently the weaver spoke to me a little roughly.)
 morris: "Presently the weaver, who was scarcely so well mannered a man as the ferryman, said to me rather awkwardly:"
 
-kona phemi. lo mia tha lo mia thia hina shemui tho ma sano. wa mua thia nomei thilou soli peloma nai.
-VOC guest. PL 1SG DECL.COMP PL 1SG 2SG what utter DECL.COMP.CLOSE NEG know. Q LOC 2SG name inquire SOME harmful be.
+kona phemi. lo mia pha lo mia thia hina shemui pho ma sano. wa mua thia nomei thilou soli peloma nai.
+VOC guest. PL 1SG INT.COMP PL 1SG 2SG what utter INT.COMP.CLOSE NEG know. Q LOC 2SG name inquire SOME harmful be.
 ("Guest, we do not know what to call you. Is there some harm in the asking of your name?")
 morris: "\"Guest, we don't know what to call you: is there any indiscretion in asking you your name?\""
 
@@ -450,8 +450,8 @@ PROX inquire 1SG old time life know love PST catch.
 (This question caught my love of old-time nature-lore.)
 morris: "This was catching me on my archaeological natural-history side,"
 
-mia tha mia kua nela weno nai tho to ma remo. mia muo mera to lepa. thelao mia to pa haolu.
-1SG DECL.COMP 1SG where COORD when be DECL.COMP.CLOSE PST NEG think. 1SG INTO net PST fall. CONS 1SG PST INCH speak.
+mia pha mia kua nela weno nai pho to ma remo. mia muo mera to lepa. thelao mia to pa haolu.
+1SG INT.COMP 1SG where COORD when be INT.COMP.CLOSE PST NEG think. 1SG INTO net PST fall. CONS 1SG PST INCH speak.
 (I gave no thought to where, and when, I was; I fell into the net, and began on it.)
 morris: "and I fell into the trap without any thought of where and when I was; so I began on it,"
 
@@ -601,8 +601,8 @@ thia whu serao punoa loa nela pilu shane lo tawimo serao shelu we to ki muholi. 
 (And you have been grubbing too into those idiotic old books that tell of the old world's giving and taking. He he!)
 morris: "and with grubbing into those idiotic old books about political economy (he he!),"
 
-thelao thia thela phoa po ma ru sano.
-CONS 2SG how do POT NEG INTS know.
+thelao thia pha thela phoa pho po ma ru sano.
+CONS 2SG INT.COMP how do INT.COMP.CLOSE POT NEG INTS know.
 (So that you hardly know how to behave.)
 morris: "that you scarcely know how to behave."
 
@@ -721,8 +721,8 @@ ADD PL person DECL.COMP LOC PROX earth south portion person beautiful HAB stay D
 (Also they say that in the south of this land a person's good looks stay.)
 morris: "Also they say that southern England is a good place for keeping good looks.\""
 
-shia menoa rulo to kelu. shia sha thia tha mia wia torua phelu tho remo. sho to haolu.
-3SG face red PST become. 3SG QUOT.COMP 2SG DECL.COMP 1SG how many year hold DECL.COMP.CLOSE think. QUOT.COMP.CLOSE PST speak.
+shia menoa rulo to kelu. shia sha mia wia torua phelu. thia hina remo sho to haolu.
+3SG face red PST become. 3SG QUOT.COMP 1SG how many year hold. 2SG what think QUOT.COMP.CLOSE PST speak.
 (She blushed, and said: "How many years do you think I hold?")
 morris: "She blushed and said: \"How old am I, do you think?\""
 

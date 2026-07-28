@@ -1051,8 +1051,8 @@ PL 3SG nose PST IPFV quiver.
 (Their noses were quivering all the while.)
 williams: "twitching their noses,"
 
-tupiwa keli mue kua whano to laeno nila.
-rabbit device OUT.OF where stand PST long see.
+tupiwa pha keli mue kua whano pho to laeno nila.
+rabbit INT.COMP device OUT.OF where stand INT.COMP.CLOSE PST long see.
 (The rabbit stared to see out of which side the device stood.)
 williams: "while the Rabbit stared hard to see which side the clockwork stuck out,"
 
@@ -1397,8 +1397,8 @@ RESTR PROX DAT small rabbit precious PST be.
 (And only this was precious to the little rabbit.)
 williams: "and that was all that the little Rabbit cared about."
 
-lao lopia tholu whekelu shia shewo to ki ka kelu shia tha phirae miona miso thela nila tho to ma remo.
-BECAUSE child space magic 3SG true PST PFV CAUS become 3SG DECL.COMP different person REFL how see DECL.COMP.CLOSE PST NEG think.
+lao lopia tholu whekelu shia shewo to ki ka kelu shia pha phirae miona miso thela nila pho to ma remo.
+BECAUSE child space magic 3SG true PST PFV CAUS become 3SG INT.COMP different person REFL how see INT.COMP.CLOSE PST NEG think.
 (Because the nursery magic had made him Real, he did not think about how other people saw him.)
 williams: "He didn't mind how he looked to other people, because the nursery magic had made him Real,"
 
@@ -1966,8 +1966,8 @@ shia lue nuhewa wirua wuloe wetha nophae to phimela.
 (And she kissed his velveteen nose, all wet from weeping.)
 williams: "and kissed him on his velveteen nose that was all damp from crying."
 
-shia sha kona thiku tupiwa. wa thia mia sua nai ma sano sho to haolu.
-3SG QUOT.COMP VOC small rabbit. Q 2SG 1SG who be NEG know QUOT.COMP.CLOSE PST speak.
+shia sha kona thiku tupiwa. wa thia pha mia sua nai pho ma sano sho to haolu.
+3SG QUOT.COMP VOC small rabbit. Q 2SG INT.COMP 1SG who be INT.COMP.CLOSE NEG know QUOT.COMP.CLOSE PST speak.
 (She said: "Little rabbit, do you not know who I am?")
 williams: "\"Little Rabbit,\" she said, \"don't you know who I am?\""
 
@@ -1981,8 +1981,8 @@ shia tha miso mua luera shia menoa nila tho to ho remo.
 (It seemed to him that he had seen her face somewhere in the past.)
 williams: "and it seemed to him that he had seen her face before,"
 
-whekai shia kua to po ma halemu.
-CONTR 3SG where PST POT NEG remember.
+whekai shia pha miso mua kua shia menoa to nila pho to po ma halemu.
+CONTR 3SG INT.COMP REFL LOC where 3SG face PST see INT.COMP.CLOSE PST POT NEG remember.
 (But he could not remember where.)
 williams: "but he couldn't think where."
 
@@ -2102,8 +2102,8 @@ shia tha lo shia miso ta thena kire nila tho to ma rinu.
 (He did not want them to see his made-in-one-piece shape.)
 williams: "and he didn't want them to see that he was made all in one piece."
 
-shia tha whekelu miona roe lumae phimela miso ru ka helui tho to ma sano.
-3SG DECL.COMP magic person INS end kiss REFL INTS CAUS change DECL.COMP.CLOSE PST NEG know.
+shia tha whekelu miona roe lumae phimela miso ka ru helui tho to ma sano.
+3SG DECL.COMP magic person INS end kiss REFL CAUS INTS change DECL.COMP.CLOSE PST NEG know.
 (He did not know that with that last kiss the magic person had changed him altogether.)
 williams: "He did not know that when the Fairy kissed him that last time she had changed him altogether."
 

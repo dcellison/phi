@@ -34,8 +34,8 @@ LOC AROUND 3SG NONE thing DAT 1SG recognize PST be.
 (Nothing around it was familiar to me.)
 morris: "Although there was nothing familiar to me in its surroundings,"
 
-whekai mia tha lo mia kua nai tho to towe sano.
-CONTR 1SG DECL.COMP PL 1SG where be DECL.COMP.CLOSE PST well know.
+whekai mia pha lo mia kua nai pho to towe sano.
+CONTR 1SG INT.COMP PL 1SG where be INT.COMP.CLOSE PST well know.
 (But I knew fairly well where we were.)
 morris: "I knew pretty well where we were,"
 
@@ -129,8 +129,8 @@ PROX PL 1SG TOWARD REL go forest portion AS garden PASS name.
 (The part of the forest we are approaching is named as gardens.)
 morris: "This part we are just coming to is called Kensington Gardens;"
 
-ne kulo sha whekai mia misa ma sano sho to haolu.
-NAME kulo QUOT.COMP CONTR 1SG why NEG know QUOT.COMP.CLOSE PST speak.
+ne kulo sha whekai mia pha ha shelira phanoi thepalu nomei misa phelu pho ma sano sho to haolu.
+NAME kulo QUOT.COMP CONTR 1SG INT.COMP PROX forest portion garden name why hold INT.COMP.CLOSE NEG know QUOT.COMP.CLOSE PST speak.
 (Guide finished, "But why, I do not know.")
 morris: "though why 'gardens' I don't know.\""
 
@@ -486,8 +486,8 @@ shia sha thia ha phelui hina reo sho to haolu.
 (He said, "What do you mean by that word?")
 morris: "\"yes, what do you mean by that word?"
 
-mia tha shia lo lopia wei thela phiremo tho ma nila.
-1SG DECL.COMP 3SG PL child DAT how relate DECL.COMP.CLOSE NEG see.
+mia pha shia lo lopia wei thela phiremo pho ma nila.
+1SG INT.COMP 3SG PL child DAT how relate INT.COMP.CLOSE NEG see.
 (I do not see how it relates to children.)
 morris: "I don't see how it can have anything to do with children."
 
@@ -632,8 +632,8 @@ DIST one now be.
 (There is one now.)
 morris: "one of them now!"
 
-theula shia thela pharelo sano.
-UNIV 3SG how cook know.
+theula shia pha thela pharelo pho sano.
+UNIV 3SG INT.COMP how cook INT.COMP.CLOSE know.
 (They all know how to cook.)
 morris: "They all of them know how to cook;"
 
@@ -652,9 +652,9 @@ PL 3SG SOME wood task ALSO POT do.
 (They can also do odd tasks in wood.)
 morris: "and do odd jobs at carpentering;"
 
-sola lo shia wisola lokue thela thiranu sano.
-DISJ PL 3SG exchange place how maintain know.
-(Or they know how to keep an exchange-place.)
+lo phirae lopia pha wisola lokue thela thiranu pho sano.
+PL different child INT.COMP exchange place how maintain INT.COMP.CLOSE know.
+(Other children know how to keep an exchange-place.)
 morris: "or they know how to keep shop."
 
 mia tha lo shia sheloi thena sano tho po shane.
@@ -808,8 +808,8 @@ mia sha lo lopia nosa shane sho to haolu.
 (I said, "Now, about the children.")
 morris: "\"Well,\" said I, \"about the children;"
 
-lo shia thela theo nela thekiro pa sano.
-PL 3SG how read COORD write INCH know.
+lo shia pha thela theo nela thekiro pho pa sano.
+PL 3SG INT.COMP how read COORD write INT.COMP.CLOSE INCH know.
 (They come to know how to read and write.)
 morris: "when they know how to read and write,"
 
@@ -978,8 +978,8 @@ shia sha lo mia nosa phea ra ma nai sho to haolu.
 (He said, "We are not like that now.")
 morris: "\"we are not like that now."
 
-sheloi miona tha lo thena thela se lorima tho ro somela.
-MANY person DECL.COMP PL thing how PASS build DECL.COMP.CLOSE HAB observe.
+sheloi miona pha lo thena thela se lorima pho ro somela.
+MANY person INT.COMP PL thing how PASS build INT.COMP.CLOSE HAB observe.
 (Many people study how things are made.)
 morris: "No; many people study facts about the make of things"
 
@@ -1114,13 +1114,13 @@ SIMUL old horse slow PST go. 1SG PST imagine.
 (As the old horse jogged on, I wondered.)
 morris: "wondering as the old horse jogged on,"
 
-mia tha mia muo whalo punoa lokue kesho weno so kamo tho to weni.
-1SG DECL.COMP 1SG INTO large society place middle when FUT arrive DECL.COMP.CLOSE PST imagine.
+mia pha mia muo whalo punoa lokue kesho weno so kamo pho to weni.
+1SG INT.COMP 1SG INTO large society place middle when FUT arrive INT.COMP.CLOSE PST imagine.
 (I wondered when I would reach the middle of the great city.)
 morris: "when I should come into London proper,"
 
-mia tha shia nosa thela nai tho we to weni.
-1SG DECL.COMP 3SG now how be DECL.COMP.CLOSE ALSO PST imagine.
+mia pha shia nosa thela nai pho we to weni.
+1SG INT.COMP 3SG now how be INT.COMP.CLOSE ALSO PST imagine.
 (I wondered what it would be like now.)
 morris: "and what it would be like now."
 
@@ -1310,8 +1310,8 @@ shia sha kona phewani. mia thia shelomu sho to haolu.
 (He said, "Neighbour, I understand you.")
 morris: "\"I take you, neighbour;"
 
-thia tha lo mia misa lo shia whano ka manolu tho po waora phaelo.
-2SG DECL.COMP PL 1SG why PL 3SG stand CAUS stay DECL.COMP.CLOSE POT wondrous feel.
+thia pha lo mia lo shia whano misa ka manolu pho po waora phaelo.
+2SG INT.COMP PL 1SG PL 3SG stand why CAUS stay INT.COMP.CLOSE POT wondrous feel.
 (You may well wonder why we keep them standing.)
 morris: "you may well wonder at our keeping them standing,"
 

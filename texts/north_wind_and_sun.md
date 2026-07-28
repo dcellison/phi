@@ -13,8 +13,8 @@ The source is short enough that no detail needs to disappear. The whole wager an
 ### The quarrel
 
 ```
-nitho howeli nela sileta sua mo kema nai to shareo. lo shia to ma nawo.
-north wind COORD sun who CMPR strong be PST discuss. PL 3SG PST NEG agree.
+nitho howeli nela sileta pha sua mo kema nai pho to shareo. lo shia to ma nawo.
+north wind COORD sun INT.COMP who CMPR strong be INT.COMP.CLOSE PST discuss. PL 3SG PST NEG agree.
 (The North Wind and the Sun discussed who was stronger. They did not agree.)
 aesop: "The North Wind and the Sun had a quarrel about which of them was the stronger."
 
@@ -165,7 +165,7 @@ aesop: "where force and bluster fail."
 ```
 nitho howeli nela sileta
 
-nitho howeli nela sileta sua mo kema nai to shareo. lo shia to ma nawo. lo shia roe sheloi korua thero to shareo. lo shia theisa to kapura. ta whu laniru miona nia ruela to thalo. shia roe wethalu to se lomare.
+nitho howeli nela sileta pha sua mo kema nai pho to shareo. lo shia to ma nawo. lo shia roe sheloi korua thero to shareo. lo shia theisa to kapura. ta whu laniru miona nia ruela to thalo. shia roe wethalu to se lomare.
 
 sileta sha su lo mia nawo sho to haolu. sha whu lue ha laniru miona wethalu po leiro miona mo kema nai sho to haolu. nitho howeli sha lia sho roe keloa haoni to haolu. pheo mu thimu shia wea laniru miona whu kapura pelui kema howeli to sepho.
 
@@ -211,8 +211,8 @@ The plot gives Phi a reason to answer Aesop. The Sun begins gently, then increas
 ### shareo — The quarrel
 
 ```
-nitho howeli nela sileta sua mo kema nai to shareo.
-north wind COORD sun who CMPR strong be PST discuss.
+nitho howeli nela sileta pha sua mo kema nai pho to shareo.
+north wind COORD sun INT.COMP who CMPR strong be INT.COMP.CLOSE PST discuss.
 (The North Wind and the Sun discussed who was stronger.)
 aesop: "The North Wind and the Sun had a quarrel about which of them was the stronger."
 
@@ -232,7 +232,7 @@ shia roe wethalu to se lomare.
 aesop: "wrapped in a cloak."
 ```
 
-**Notes:** The first departure arrives with the first verb. Phi has no dedicated quarrel word, so `shareo` makes this a discussion. `roe sheloi thero nela theisa haoni` puts the heat and volume where they can be heard; `theisa` reports loudness without treating a loud voice as violent. The bare content question `sua mo kema nai` sits inside the discussion. The Traveler is `whu laniru miona`, a person who journeys, and the passive `lomare` turns the cloak into a garment whose embrace surrounds them.
+**Notes:** The first departure arrives with the first verb. Phi has no dedicated quarrel word, so `shareo` makes this a discussion. `roe sheloi thero nela theisa haoni` puts the heat and volume where they can be heard; `theisa` reports loudness without treating a loud voice as violent. The question `sua mo kema nai` keeps its gap-word inside `pha ... pho`, whose edges can be heard before the discussion resumes. The Traveler is `whu laniru miona`, a person who journeys, and the passive `lomare` turns the cloak into a garment whose embrace surrounds them.
 
 ### nawo — The wager
 
@@ -365,7 +365,7 @@ aesop: "where force and bluster fail."
 ```
 nitho howeli nela sileta
 
-nitho howeli nela sileta sua mo kema nai to shareo. lo shia roe sheloi thero nela theisa haoni to shareo. ta whu laniru miona nia ruela to thalo. shia roe wethalu to se lomare.
+nitho howeli nela sileta pha sua mo kema nai pho to shareo. lo shia roe sheloi thero nela theisa haoni to shareo. ta whu laniru miona nia ruela to thalo. shia roe wethalu to se lomare.
 
 sileta sha su lo mia nawo sho to haolu. sha whu ha laniru miona wethalu ka po leiro miona mo kema nai sho to haolu. nitho howeli sha lia sho roe keloa haoni to haolu. shia wea laniru miona ta pelui theisa howeli to reshi sepho.
 
@@ -383,7 +383,7 @@ moli nela phena haolu welao lureko thola. keloa haolu nela kawhera pholeni thola
 | Aesop's detail | Phi treatment | What changes |
 |---|---|---|
 | quarrel and disputing | `shareo`, with fire and a loud voice | The conflict becomes discussion; its heat and volume remain observable. |
-| which one was stronger | `sua mo kema nai` | A bare content question sits inside the past discussion. |
+| which one was stronger | `pha sua mo kema nai pho` | The content question keeps its gap-word and gains audible boundaries inside the past discussion. |
 | Traveler | `whu laniru miona` | A title becomes a person described by the journey. |
 | cloak | `wethalu`, worn through passive `lomare` | The garment embraces the Traveler rather than merely wrapping them. |
 | Let us agree | optative `su` with `nawo` | The Sun proposes shared agreement, though only the Sun and Wind take part. |

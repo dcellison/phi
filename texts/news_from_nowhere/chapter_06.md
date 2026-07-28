@@ -9,8 +9,8 @@
 ## phirae wisola lokue — Another kind of market
 
 ```
-whau ne kulo haolu lo mia lue shelira to pakiro shua. lo mia muo whu mioru womu phelu teku ruela to wepu. ne kulo ra lokue nomei to haolu. lo womu mulu phanoi phea wisola womu to nai. whekai lo miona tha lo miona wei lo thena hina wiso na loa tho ma sano to ka nila.
-SIMUL NAME kulo speak PL 1SG ABL forest PST sudden come. PL 1SG INTO REL beautiful home hold short path PST go. NAME kulo DIST place name PST speak. PL home low portion AS exchange home PST be. CONTR PL person DECL.COMP PL person DAT PL thing what RECP NEC give DECL.COMP.CLOSE NEG know PST CAUS see.
+whau ne kulo haolu lo mia lue shelira to pakiro shua. lo mia muo whu mioru womu phelu teku ruela to wepu. ne kulo ra lokue nomei to haolu. lo womu mulu phanoi phea wisola womu to nai. whekai tha lo miona pha lo miona wei lo thena hina wiso na loa pho ma sano tho to ka nila.
+SIMUL NAME kulo speak PL 1SG ABL forest PST sudden come. PL 1SG INTO REL beautiful home hold short path PST go. NAME kulo DIST place name PST speak. PL home low portion AS exchange home PST be. CONTR DECL.COMP PL person INT.COMP PL person DAT PL thing what RECP NEC give INT.COMP.CLOSE NEG know DECL.COMP.CLOSE PST CAUS see.
 (As Guide spoke, we came suddenly out of the forest into a short street of beautiful houses. Guide named the place. The lower parts looked like exchange-houses, but the people appeared not to know what had to be given in return for things.)
 morris: "As he spoke, we came suddenly out of the woodland into a short street of handsomely built houses, which my companion named to me at once as Piccadilly: the lower part of these I should have called shops, if it had not been that, as far as I could see, the people were ignorant of the arts of buying and selling."
 
@@ -75,8 +75,8 @@ morris: "Then he looked at me curiously, and said, \"Perhaps you would like to d
 ## wethalu nela luera wisola kiroa — Clothes and old exchange-signs
 
 ```
-mia mia keloa shilu wethalu to nila. lo whu lo mia to haromi miona keru wethalu to wenuha. mia tha lila lo shia monelu nai mia phea kuewa thena pheo teku shemu so se ka nila tho to remo. thelao mia tha mia phea lo phirae miona mo ka nila tho to rinu.
-1SG 1SG rough blue garment PST see. PL REL PL 1SG PST meet person bright garment PST wear. 1SG DECL.COMP PURP PL 3SG amused be 1SG AS strange thing POST short moment FUT PASS CAUS see DECL.COMP.CLOSE PST think. CONS 1SG DECL.COMP 1SG AS PL different person CMPR CAUS see DECL.COMP.CLOSE PST want.
+mia mia keloa shilu wethalu to nila. lo whu lo mia to haromi miona keru wethalu to wenuha. mia tha lila lo shia monelu nai mia phea kuewa thena pheo teku shemu so se ka nila tho to remo. thelao mia tha mia phea lo phirae miona ka mo nila tho to rinu.
+1SG 1SG rough blue garment PST see. PL REL PL 1SG PST meet person bright garment PST wear. 1SG DECL.COMP PURP PL 3SG amused be 1SG AS strange thing POST short moment FUT PASS CAUS see DECL.COMP.CLOSE PST think. CONS 1SG DECL.COMP 1SG AS PL different person CAUS CMPR see DECL.COMP.CLOSE PST want.
 (I looked at my rough blue clothes and at the bright garments worn by the people we had met. I thought I might soon be shown as a curiosity to amuse them, and I wanted to look more like everyone else.)
 morris: "I looked at what I could see of my rough blue duds, which I had plenty of opportunity of contrasting with the gay attire of the citizens we had come across; and I thought that if, as seemed likely, I should presently be shown about as a curiosity for the amusement of this most unbusinesslike people, I should like to look a little less like a discharged ship's purser."
 
@@ -438,8 +438,8 @@ child ON table large plate PST put. 3SG INTO two long bowl dry grass color fruit
 (The child put the tray on the table and solemnly poured a dried-grass-coloured fruit drink into two long bowls.)
 morris: "Therewith the boy put the tray on the counter and solemnly poured out a straw-coloured wine into the long bowls."
 
-lao sukaro philo mia kishu to ka kelu mia to milau. mia sha mia thoa muila lioru ki manolu. ra se nomei lureko thorima to ma wesaki sho to remo. mia tha mia mua ha kelua ru welao se nomei lureko milau ki milau tho to remo. mia tha mia wei ne kulo lo miona ha milau thela pilewa so thilou tho to kanu. mia tha whau lo riola miona ru welao milau to pilewa lo shia mua luera punoa tha mukesi milau na milau tho to se kawhera tho to remo. ra keno mua ha punoa to te nai.
-BECAUSE hot day 1SG thirsty PST CAUS become 1SG PST drink. 1SG QUOT.COMP 1SG AMONG earth life PFV stay. DIST PASS name fruit taste PST NEG lose QUOT.COMP.CLOSE PST think. 1SG DECL.COMP 1SG LOC PROX morning INTS good PASS name fruit drink PFV drink DECL.COMP.CLOSE PST think. 1SG DECL.COMP 1SG DAT NAME kulo PL person PROX drink how make FUT inquire DECL.COMP.CLOSE PST choose. 1SG DECL.COMP SIMUL PL labor person INTS good drink PST make PL 3SG LOC past society DECL.COMP spoil drink NEC drink DECL.COMP.CLOSE PST PASS coerce DECL.COMP.CLOSE PST think. DIST custom LOC PROX society PST CESS be.
+lao sukaro philo mia kishu to ka kelu mia to milau. mia sha mia thoa muila lioru ki manolu. ra se nomei lureko thorima to ma wesaki sho to remo. mia tha mia mua ha kelua ru welao se nomei lureko milau ki milau tho to remo. mia tha mia wei ne kulo pha lo miona ha milau thela pilewa pho so thilou tho to kanu. mia tha whau lo riola miona ru welao milau to pilewa lo shia mua luera punoa tha mukesi milau na milau tho to se kawhera tho to remo. ra keno mua ha punoa to te nai.
+BECAUSE hot day 1SG thirsty PST CAUS become 1SG PST drink. 1SG QUOT.COMP 1SG AMONG earth life PFV stay. DIST PASS name fruit taste PST NEG lose QUOT.COMP.CLOSE PST think. 1SG DECL.COMP 1SG LOC PROX morning INTS good PASS name fruit drink PFV drink DECL.COMP.CLOSE PST think. 1SG DECL.COMP 1SG DAT NAME kulo INT.COMP PL person PROX drink how make INT.COMP.CLOSE FUT inquire DECL.COMP.CLOSE PST choose. 1SG DECL.COMP SIMUL PL labor person INTS good drink PST make PL 3SG LOC past society DECL.COMP spoil drink NEC drink DECL.COMP.CLOSE PST PASS coerce DECL.COMP.CLOSE PST think. DIST custom LOC PROX society PST CESS be.
 (I drank because the hot day had made me thirsty. I thought, "I remain among the living world, and the source-named fruit has not lost its taste." I had drunk an excellent source-named fruit drink that morning. I decided to ask Guide how people made it. In the old society, workers were coerced to drink spoiled drink while they made excellent drink; that custom had ceased here.)
 morris: "Nothing loth, I drank, for I was thirsty with the hot day; and thinks I, I am yet in the world, and the grapes of the Rhine have not yet lost their flavour; for if ever I drank good Steinberg, I drank it that morning; and I made a mental note to ask Dick how they managed to make fine wine when there were no longer labourers compelled to drink rot-gut instead of the fine wine which they themselves made."
 
@@ -499,8 +499,8 @@ old person QUOT.COMP COND PL 2SG alone be NEG want. 1SG COM PL 2SG FUT come QUOT
 (The elder said, "If you two do not want to be alone, I will come with you.")
 morris: "\"If you two don't want to be alone, I'll come with you,\" said the old man."
 
-ne kulo sha welao. thia wei mia weno lue rolutha wepu rinu shane. mia rolutha so te ka kelu. no lo mia wepu sho to haolu.
-NAME kulo QUOT.COMP good. 2SG DAT 1SG when ABL wagon go want tell. 1SG wagon FUT CESS CAUS become. IMP PL 1SG go QUOT.COMP.CLOSE PST speak.
+ne kulo sha welao. thia wei mia pha weno lue rolutha wepu rinu pho shane. mia rolutha so te ka kelu. no lo mia wepu sho to haolu.
+NAME kulo QUOT.COMP good. 2SG DAT 1SG INT.COMP when ABL wagon go want INT.COMP.CLOSE tell. 1SG wagon FUT CESS CAUS become. IMP PL 1SG go QUOT.COMP.CLOSE PST speak.
 (Guide said, "Good. Tell me when you want to leave the carriage, and I will stop it. Let us go.")
 morris: "\"All right,\" said Dick, \"tell me when you want to get down and I'll stop for you. Let's get on.\""
 ```
@@ -520,8 +520,8 @@ NAME kulo QUOT.COMP COND PL thing heavy weight NEG hold. PL child MANY moment PR
 (Guide said, "When the things are not heavy, children often do this. But they do not do it all the time.")
 morris: "\"Often enough,\" said he, \"when it isn't a matter of dealing with heavy weights, but by no means always."
 
-shia sha lo lopia ha riola kaeli. lao lo shia roe manuwe lo phirae thena ro palo nela lo shia tha lo thena thela se pilewa nela luseri hina nai tho ro shonela ha wei lo shia monelu nela welao nai sho to haolu.
-3SG QUOT.COMP PL child PROX labor like. BECAUSE PL 3SG INS hand PL different thing HAB touch COORD PL 3SG DECL.COMP PL thing how PASS make COORD provenance what be DECL.COMP.CLOSE HAB learn PROX DAT PL 3SG amused COORD good be QUOT.COMP.CLOSE PST speak.
+shia sha lo lopia ha riola kaeli. lao lo shia roe manuwe lo phirae thena ro palo nela lo shia pha lo thena thela se pilewa nela luseri hina nai pho ro shonela ha wei lo shia monelu nela welao nai sho to haolu.
+3SG QUOT.COMP PL child PROX labor like. BECAUSE PL 3SG INS hand PL different thing HAB touch COORD PL 3SG INT.COMP PL thing how PASS make COORD provenance what be INT.COMP.CLOSE HAB learn PROX DAT PL 3SG amused COORD good be QUOT.COMP.CLOSE PST speak.
 ("The children like this work. Because they handle many different things and learn how those things are made and what their provenance is, the work is amusing and good for them.")
 morris: "The children like to amuse themselves with it, and it is good for them, because they handle a lot of diverse wares and get to learn about them, how they are made, and where they come from, and so on."
 

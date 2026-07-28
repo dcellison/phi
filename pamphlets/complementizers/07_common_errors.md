@@ -257,28 +257,28 @@ mia pha shia to wepu pho phaelo
 - Do not add `wa` inside `pha`/`pho` clauses
 - Exception: When quoting a direct question with `sha`/`sho`, the `wa` is part of the quoted material
 
-## Error 11: Wrapping a content question in `pha`/`pho`
+## Error 11: Leaving an embedded content question unframed
 
-**The problem:** English uses "whether" for yes/no questions and moves who/what/where to the front. Learners who have just mastered the frame sometimes wrap it around every embedded question.
+**The problem:** A gap-word shows what is unknown, but it does not say where an embedded question ends and the surrounding clause resumes.
 
 **Wrong:**
 ```
-*mia pha sua to shua pho sano
-1SG INT.COMP who PST come INT.COMP.CLOSE know
+*mia sua to shua sano
+1SG who PST come know
 ```
 
 **Right:**
 ```
-mia sua to shua sano
-1SG who PST come know
+mia pha sua to shua pho sano
+1SG INT.COMP who PST come INT.COMP.CLOSE know
 (I know who came.)
 ```
 
-**Why it matters:** A content question already carries its signal. The interrogative word stands where the unknown element would stand, and that placement alone marks the clause as a question. The frame would mark it twice.
+**Why it matters:** `sua` keeps the unknown person's place, while `pha` and `pho` tell the listener that `sua to shua` is the complete question known by the speaker. Neither marking repeats the other.
 
 **How to avoid:**
-- `pha`/`pho` embeds yes/no questions only
-- If the embedded clause contains `sua`, `hina`, `kua`, or another gap-word, embed it bare
+- Use `pha`/`pho` around every embedded question
+- Keep `sua`, `hina`, `kua`, or another gap-word in the answer's position inside the frame
 
 ## Error 12: Leaving the frame verb without its tense
 
@@ -324,7 +324,7 @@ When you produce an embedded clause, verify:
 
 8. **Right complementizer type?** Am I using the appropriate one for my meaning?
 
-9. **Content question?** Then no frame; the gap-word already marks it.
+9. **Embedded question?** Give it `pha` and `pho`, and keep any gap-word in place inside them.
 
 10. **Frame verb timed?** Did the main verb get its own tense after the closer?
 
@@ -366,8 +366,7 @@ With practice, the Phi system becomes intuitive. The regularity helps: once you 
 2. `whu` needs no closer
 3. Closer comes after embedded verb, before main verb
 4. Closers match openers in reverse nesting order
-5. A content question embeds bare; its gap-word never takes the frame
+5. Every embedded question takes `pha ... pho`; a content question keeps its gap-word inside
 6. Each clause carries its own tense, the frame verb included
 
 None of these errors survives the habit of counting: openers on one hand, closers on the other, until the hands match.
-

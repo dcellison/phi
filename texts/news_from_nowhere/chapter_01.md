@@ -36,7 +36,7 @@ morris: "finally shading off into a vigorous statement by various friends of the
 
 Morris sets the scene "one night," which becomes the plain temporal adjunct `ta shero`. His "there had been" asks for completion at a past reference point, `to ki` rather than bare `to`.
 
-"The Morrow of the Revolution" is a particular next day rather than a vague future. `Wireo philo`, tomorrow, belongs to `punoa moluki`, society's transformation. The gap-word `hina` embeds the question without another complementizer, `so po` makes the future possible rather than certain, and `kelu`, become, lets the event happen without requiring a dedicated English-shaped verb.
+"The Morrow of the Revolution" is a particular next day rather than a vague future. `Wireo philo`, tomorrow, belongs to `punoa moluki`, society's transformation. The standalone `hina` turns the disputed topic into a direct question, `so po` makes the future possible rather than certain, and `kelu`, become, lets the event happen without requiring a dedicated English-shaped verb.
 
 The discussion is `reshi thelu shareo`, brisk and conversational at once. The dialogue-word `thelu` qualifies `shareo`, so the talk's informality survives beside its pace. The speakers are `soli melu`, some friends rather than all of them, and their subject is packed into the possessor chain `newu seroli punoa wireo remo`: thoughts about the future of the new, fully developed society. They begin to put those thoughts forward eagerly, `pa therua sherewa`. The form `sherewa` suits claims or thoughts advanced for consideration; it does not make the friends louder than Morris does.
 
@@ -70,8 +70,8 @@ PL person RECP POT NEG listen.
 (They could scarcely listen to each other.)
 morris: "if they did not listen to each others' opinions (which could scarcely be expected of them),"
 
-thona lao lona nela thumela thelu lo miona keno to nai lo miona li soli shemu tha nuawe haolu tho to mesatu.
-ADVRS BECAUSE meeting COORD teach dialogue PL person custom PST be PL person RESTR SOME moment DECL.COMP together speak DECL.COMP.CLOSE PST try.
+whekai lao lona nela thumela thelu lo miona keno to nai lo miona li soli shemu tha nuawe haolu tho to mesatu.
+CONTR BECAUSE meeting COORD teach dialogue PL person custom PST be PL person RESTR SOME moment DECL.COMP together speak DECL.COMP.CLOSE PST try.
 (But, since meetings and lecture-dialogues were these people's custom, they attempted to speak all at once only sometimes.)
 morris: "for those present being used to public meetings and after-lecture debates, ... at all events did not always attempt to speak all together,"
 

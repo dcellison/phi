@@ -896,8 +896,8 @@ mia ha keno lo haolu to ti hea.
 (I have heard talk of this kind of custom.)
 morris: "I have heard of this kind of thing;"
 
-pi. ha keno wei lo mia kethua nela phea tiwa ruela keno ke nai. lo mia tha lo mia ha thela phoa tho ma sano.
-POL. PROX custom DAT PL 1SG hard COORD AS tie path custom INFER be. PL 1SG DECL.COMP PL 1SG PROX how do DECL.COMP.CLOSE NEG know.
+pi. ha keno wei lo mia kethua nela phea tiwa ruela keno ke nai. lo mia pha lo mia ha thela phoa pho ma sano.
+POL. PROX custom DAT PL 1SG hard COORD AS tie path custom INFER be. PL 1SG INT.COMP PL 1SG PROX how do INT.COMP.CLOSE NEG know.
 (But pardon me for saying that it seems to us a difficult and roundabout custom; and we don't know how to manage it.)
 morris: "but pardon me for saying, that it seems to us a troublesome and roundabout custom; and we don't know how to manage it."
 
@@ -916,8 +916,8 @@ COND ADD one person DAT 1SG thing give. two person FUT POT give. POST thing PL C
 (Besides, if one person gave me something, a second might, and then more might, and so on.)
 morris: "Besides, if one person gave me something, then another might, and another, and so on;"
 
-mia tha mia kua sheloi melu halemu thena phelu tho so ma sano. su thia tha mia keloa nai tho ma remo.
-1SG DECL.COMP 1SG where MANY friend remember thing hold DECL.COMP.CLOSE FUT NEG know. OPT 2SG DECL.COMP 1SG rough be DECL.COMP.CLOSE NEG think.
+mia pha mia kua sheloi melu halemu thena phelu pho so ma sano. su thia tha mia keloa nai tho ma remo.
+1SG INT.COMP 1SG where MANY friend remember thing hold INT.COMP.CLOSE FUT NEG know. OPT 2SG DECL.COMP 1SG rough be DECL.COMP.CLOSE NEG think.
 (And I hope you won't think me rude if I say I shouldn't know where to keep so many friendship-remembrances.)
 morris: "and I hope you won't think me rude if I say that I shouldn't know where to stow away so many mementos of friendship.\""
 

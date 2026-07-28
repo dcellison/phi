@@ -19,13 +19,13 @@ POST short moment PL 1SG LOC REL THROUGH PROX place go large path PST go.
 (Soon we were on the great road that went through this place.)
 morris: "and were soon in the main road that runs through Hammersmith."
 
-lu he mia lue luphore ma shua. mia tha mia kua nai tho po ma kethira.
-COND IRR 1SG ABL river NEG come. 1SG DECL.COMP 1SG where be DECL.COMP.CLOSE POT NEG infer.
+lu he mia lue luphore ma shua. mia pha mia kua nai pho po ma kethira.
+COND IRR 1SG ABL river NEG come. 1SG INT.COMP 1SG where be INT.COMP.CLOSE POT NEG infer.
 (Had I not come from the riverside, I could not have inferred where I was.)
 morris: "But I should have had no guess as to where I was, if I had not started from the waterside;"
 
-lao serao ruela to te nai mia tha mia kua nai tho po ma kethira.
-BECAUSE old path PST CESS be 1SG DECL.COMP 1SG where be DECL.COMP.CLOSE POT NEG infer.
+lao serao ruela to te nai mia pha mia kua nai pho po ma kethira.
+BECAUSE old path PST CESS be 1SG INT.COMP 1SG where be INT.COMP.CLOSE POT NEG infer.
 (Because the old street had vanished, I could not infer where I was.)
 morris: "for King Street was gone,"
 
@@ -453,8 +453,8 @@ morris: "I mean selling things there.\""
 ## lewonu phewani — The valley neighbours
 
 ```
-ne kulo sha mia tha thia hina miona shane tho ma shelomu sho to haolu.
-NAME kulo QUOT.COMP 1SG DECL.COMP 2SG what person tell DECL.COMP.CLOSE NEG understand QUOT.COMP.CLOSE PST speak.
+ne kulo sha mia pha thia hina miona shane pho ma shelomu sho to haolu.
+NAME kulo QUOT.COMP 1SG INT.COMP 2SG what person tell INT.COMP.CLOSE NEG understand QUOT.COMP.CLOSE PST speak.
 (Guide said, "I do not understand what sort of people you mean.")
 morris: "\"I don't understand,\" said he, \"what kind of people you would expect to see;"
 

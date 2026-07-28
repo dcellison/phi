@@ -49,8 +49,8 @@ That threshold rhythm is a cultural and ceremonial style, not the grammar that l
 A reader does not share the room or all of its active referents. Writing intended to travel therefore keeps `ne`:
 
 ```
-mia ne sulae kua nai ma sano.
-1SG NAME sulae where be NEG know.
+mia pha ne sulae kua nai pho ma sano.
+1SG INT.COMP NAME sulae where be INT.COMP.CLOSE NEG know.
 (I do not know where sulae is.)
 ```
 

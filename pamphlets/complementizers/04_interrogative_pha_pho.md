@@ -402,29 +402,29 @@ mia pha thia pha shia towe nai pho sano pho phaelo
 
 Each `pha` pairs with its own `pho`, and the structure stays clear even in nested questions.
 
-## Content questions (wh-questions)
+## Content questions
 
-The examples above involve yes/no questions. Content questions (who, what, where, when, why) work differently in Phi: the interrogative word itself signals that the clause is a question, so the clause embeds bare, with no `pha`/`pho` frame:
+The examples above ask whether a proposition holds. A content question instead places a gap-word where its answer belongs, but it keeps the same `pha`/`pho` boundary when embedded:
 
 ```
-mia sua to shua sano
-1SG who PST come know
+mia pha sua to shua pho sano
+1SG INT.COMP who PST come INT.COMP.CLOSE know
 (I know who came.)
 ```
 
 ```
-shia thia hina to nila to thilou
-3SG 2SG what PST see PST inquire
+shia pha thia hina to nila pho to thilou
+3SG INT.COMP 2SG what PST see INT.COMP.CLOSE PST inquire
 (They asked what you saw.)
 ```
 
 ```
-lo mia shia kua nai ma sano
-PL 1SG 3SG where be NEG know
+lo mia pha shia kua nai pho ma sano
+PL 1SG INT.COMP 3SG where be INT.COMP.CLOSE NEG know
 (We don't know where they are.)
 ```
 
-The interrogative word does inside the clause what `pha` does for yes/no questions: it announces the question. Wrapping a content question in `pha`/`pho` is redundant, and Phi does not do it: the interrogative pronoun occupies the position of the unknown element, and that alone carries the signal (see the manual, ch19).
+The two markings answer different needs. The gap-word identifies the missing role. The frame marks how much of the sentence belongs to that question. A direct content question needs only its gap-word because the whole sentence is the question; once the question sits inside another clause, its left and right edges are spoken.
 
 ## Summary
 
@@ -439,9 +439,8 @@ Distinguished from:
 - `lu` (conditional hypotheses with consequences)
 - `tha`/`tho` (embedded statements, not questions)
 
-The system embeds yes/no questions with `pha`/`pho`; content questions embed bare, their interrogative word carrying the signal. Nesting is possible. The structure remains unambiguous.
+The system embeds every question with `pha`/`pho`. A content question keeps its gap-word inside the frame, while a yes/no question needs no gap. Nesting remains possible, and every return to the surrounding sentence is audible.
 
 Many languages make uncertainty easy to hide and slightly awkward to confess. Phi builds the unanswered question its own frame, cut from the same cloth as the frame it gives to facts, so that admitting an open question costs a speaker nothing but the honesty.
 
 With `pha` and `pho`, not knowing something becomes something you can say.
-

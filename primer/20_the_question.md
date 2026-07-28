@@ -1,6 +1,6 @@
 # 20 · pha
 
-*Chapter four taught you to ask; this chapter teaches you to hold a question inside a sentence without asking it.* **pha … pho** *brackets an embedded yes-or-no question (whether) the way* tha … tho *brackets a statement. Same architecture, different doorway. The feast needs planning, and planning contains a fair amount of not-knowing:*
+*Chapter four taught you to ask; this chapter teaches you to hold a question inside a sentence without asking it.* **pha … pho** *brackets every embedded question the way* tha … tho *brackets a statement. A yes-or-no question needs no word inside to name the unknown; a content question keeps its gap-word. The feast needs planning, and planning contains a fair amount of not-knowing:*
 
 ## I
 
@@ -21,7 +21,7 @@
 > sulae: **lia. siora so shua.**
 > **nosa lopia tha siora so shua tho sano.**
 
-*The embedded question and the plain question are cousins: to wonder whether is* pha … pho; *to ask outright is chapter four's* wa. *The child skips the wondering, asks, and receives an answer. What was unresolved can now enter a* tha … tho *statement as known content.*
+*The embedded question and the plain question are cousins: to wonder whether is* pha … pho; *to ask outright is chapter four's* wa. *A content question keeps the gap-word it would use aloud, but carries that word between* pha *and* pho *when another sentence holds it. The child skips the wondering, asks, and receives an answer. What was unresolved can now enter a* tha … tho *statement as known content.*
 
 ## III
 

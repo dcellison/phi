@@ -81,4 +81,4 @@ For each line, locate the dependent frame, complement closer, conjunction, or se
 4. lu pheralu lepa. lo mia mua womu meilo.
 ```
 
-Answers: 1. `lao` opens the reason, and the dependent predicate `nai` completes it before the main clause begins. 2. `pha` opens the embedded yes-or-no question and `pho` closes it before `phaelo`. 3. `nela` joins two complete clauses after `theo`. 4. `lu` opens the condition, and its period separates it from the consequence.
+Answers: 1. `lao` opens the reason, and the dependent predicate `nai` completes it before the main clause begins. 2. `pha` opens the embedded question and `pho` closes it before `phaelo`. 3. `nela` joins two complete clauses after `theo`. 4. `lu` opens the condition, and its period separates it from the consequence.
