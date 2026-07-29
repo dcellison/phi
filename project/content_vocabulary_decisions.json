@@ -1007,6 +1007,25 @@
         "CV-COMMONS-10",
         "CV-ROLE-02"
       ]
+    },
+    {
+      "id": "velveteen-rabbit-fidelity-repair",
+      "heading": "The Velveteen Rabbit fidelity repair",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-TRAVEL-02",
+        "CV-DWELL-05",
+        "CV-PHIL-05",
+        "CV-ROLE-01",
+        "CV-TIME-07",
+        "CV-SHAPE-02",
+        "CV-VALUE-01",
+        "CV-CLEAN-01",
+        "CV-PLANT-02",
+        "CV-BODY-14",
+        "CV-ANIMAL-05"
+      ]
     }
   ],
   "candidates": [
@@ -1309,7 +1328,8 @@
         "aesthetic-and-formal-qualities",
         "space-orientation-boundaries-and-physical-form",
         "recovered-cross-inventory-prompts",
-        "ring-verse-fidelity-repair"
+        "ring-verse-fidelity-repair",
+        "velveteen-rabbit-fidelity-repair"
       ]
     },
     {
@@ -1419,7 +1439,8 @@
         "cultivation-abundance-and-wildness",
         "recovered-cross-inventory-prompts",
         "household-daily-life-module-prose",
-        "medical-bodily-care-module-prose"
+        "medical-bodily-care-module-prose",
+        "velveteen-rabbit-fidelity-repair"
       ]
     },
     {
@@ -1661,7 +1682,8 @@
         "terura"
       ],
       "batches": [
-        "philosophical-reasoning-module-prose"
+        "philosophical-reasoning-module-prose",
+        "velveteen-rabbit-fidelity-repair"
       ]
     },
     {
@@ -1933,7 +1955,8 @@
       ],
       "batches": [
         "reason-belief-ritual-and-value",
-        "roles-places-relations-and-remaining-concrete-nouns"
+        "roles-places-relations-and-remaining-concrete-nouns",
+        "velveteen-rabbit-fidelity-repair"
       ]
     },
     {
@@ -2817,7 +2840,8 @@
         "sorila phireo"
       ],
       "batches": [
-        "plants-animals-and-living-world"
+        "plants-animals-and-living-world",
+        "velveteen-rabbit-fidelity-repair"
       ]
     },
     {
@@ -3018,7 +3042,8 @@
       "source_rule": "An original name, cultural designation, or model stays in its source form when identity depends on it. Recipes, labels, and safety instructions remain with that source while Phi describes the item's ordinary relations and effects.",
       "batches": [
         "dwelling-vessels-food-clothing-and-light",
-        "household-daily-life-module-prose"
+        "household-daily-life-module-prose",
+        "velveteen-rabbit-fidelity-repair"
       ]
     },
     {
@@ -3108,7 +3133,8 @@
         "phaero keli"
       ],
       "batches": [
-        "tools-travel-and-practical-objects"
+        "tools-travel-and-practical-objects",
+        "velveteen-rabbit-fidelity-repair"
       ]
     },
     {
@@ -3497,7 +3523,8 @@
         "accessibility-participation-module-prose",
         "work-craft-repair-module-prose",
         "little-prince-fidelity-repair",
-        "ring-verse-fidelity-repair"
+        "ring-verse-fidelity-repair",
+        "velveteen-rabbit-fidelity-repair"
       ]
     },
     {
@@ -5170,7 +5197,8 @@
         ]
       },
       "batches": [
-        "narrative-body-and-onset"
+        "narrative-body-and-onset",
+        "velveteen-rabbit-fidelity-repair"
       ]
     },
     {
@@ -5209,7 +5237,8 @@
         "tumoa"
       ],
       "batches": [
-        "narrative-body-and-onset"
+        "narrative-body-and-onset",
+        "velveteen-rabbit-fidelity-repair"
       ]
     },
     {
@@ -5496,6 +5525,24 @@
       ],
       "batches": [
         "little-prince-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-ANIMAL-05",
+      "concept": "ant as a recurring familiar animal in ordinary and literary scenes",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "Three appearances in one story made the broad insect word visibly lossy. `tinemu` names the familiar social insect while leaving species, caste, colony structure, and ecological role available to the surrounding account.",
+      "implementation": {
+        "words": [
+          "tinemu"
+        ],
+        "files": [
+          "vocabulary/content/ant.json"
+        ]
+      },
+      "batches": [
+        "velveteen-rabbit-fidelity-repair"
       ]
     },
     {

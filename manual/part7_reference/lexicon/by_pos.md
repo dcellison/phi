@@ -315,7 +315,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (576)
+## noun (577)
 
 | Word | Gloss |
 |---|---|
@@ -828,6 +828,7 @@
 | `thumiro` | smoke |
 | `thunai` | student |
 | `thunepa` | sacred place |
+| `tinemu` | ant |
 | `tinoa` | dye |
 | `tiphori` | tingling |
 | `tipika` | fingernail |

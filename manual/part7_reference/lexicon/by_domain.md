@@ -1394,7 +1394,7 @@
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 | `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
-## nature (246)
+## nature (247)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1609,6 +1609,7 @@
 | `thula` | spring | a natural point where groundwater reaches the surface |
 | `thumiro` | smoke | airborne material from wild or managed burning |
 | `thuroa` | grow | increase and development in organisms or populations |
+| `tinemu` | ant | a familiar social insect encountered in soil, plants, nests, and foraging trails |
 | `tiripe` | quiver | small repeated movement in leaves, flame, wings, or an animal's body |
 | `tokemi` | fungus | the fungal category across mushrooms, moulds, yeasts, and less visible forms |
 | `tomora` | mountain | a major natural elevation within a landscape |

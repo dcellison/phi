@@ -94,6 +94,7 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Babel translation and transmutation fidelity repair](#babel-translation-and-transmutation-fidelity-repair) | complete | closed | 11 |
 | [The Little Prince excerpt fidelity repair](#the-little-prince-excerpt-fidelity-repair) | complete | closed | 7 |
 | [Ring Verse refusal fidelity repair](#ring-verse-refusal-fidelity-repair) | complete | closed | 5 |
+| [The Velveteen Rabbit fidelity repair](#the-velveteen-rabbit-fidelity-repair) | complete | closed | 11 |
 
 ## Core material qualities
 
@@ -879,6 +880,22 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | `CV-ROLE-01` | exact counselling, custodial, academic, religious, and traditional role titles | Source-bound | source institution, profession, lineage, or community beside an ordinary Phi role description | See the complete decision under [Roles, places, relations, and remaining concrete nouns](#roles-places-relations-and-remaining-concrete-nouns). |
 | `CV-COMMONS-10` | corruption, institutional capture, domination, and abuse of office | Compositional | Commons power, benefit, harm, and accountability relations | See the complete decision under [Commons and Collective Governance module prose](#commons-and-collective-governance-module-prose). |
 | `CV-ROLE-02` | a wearer identified through the object presently worn, without turning that relation into a permanent role | Compositional | base person, clothing, artifact, and relative-clause vocabulary | `whu thumai sorui wenuha miona`, `theula whu phirae thumai sorui wenuha miona`, `lo shia`. A headed relative of the form 'whu X wenuha miona' names a person who wears X. The relation lasts only as long as the clause claims and needs no wearer or bearer root. In the Ring Verse refusal, a universal quantifier over people wearing different finger-rings identifies the affected group, while 'lo shia' retains it in later lines. |
+
+## The Velveteen Rabbit fidelity repair
+
+| ID | Concept | Status | Placement | Decision or return condition |
+|---|---|---|---|---|
+| `CV-TRAVEL-02` | a general vehicle or transport device | Compositional | base expression | See the complete decision under [Tools, travel, and practical objects](#tools-travel-and-practical-objects). |
+| `CV-DWELL-05` | exact food, dish, garment, household-object, and product identities | Source-bound | exact source identity beside a Phi account | See the complete decision under [Dwelling, vessels, food, clothing, and light](#dwelling-vessels-food-clothing-and-light). |
+| `CV-PHIL-05` | theory, explanatory framework, and model in ordinary discussion | Compositional | Philosophical Reasoning and Systems vocabulary | See the complete decision under [Philosophical Reasoning module prose](#philosophical-reasoning-module-prose). |
+| `CV-ROLE-01` | exact counselling, custodial, academic, religious, and traditional role titles | Source-bound | source institution, profession, lineage, or community beside an ordinary Phi role description | See the complete decision under [Roles, places, relations, and remaining concrete nouns](#roles-places-relations-and-remaining-concrete-nouns). |
+| `CV-TIME-07` | the unannounced onset of a change, as against the speed at which it runs | Implemented | base | See the complete decision under [Narrative diagnostic: body, motion, and onset](#narrative-diagnostic-body-motion-and-onset). |
+| `CV-SHAPE-02` | round as an ordinary shape quality | Compositional | base expression | See the complete decision under [Aesthetic and formal qualities](#aesthetic-and-formal-qualities). |
+| `CV-VALUE-01` | importance, priority, merit, deservingness, dignity, worth, preciousness, and treasure | Compositional | base value and worth vocabulary with Work priority where needed | See the complete decision under [Reason, belief, ritual, and value](#reason-belief-ritual-and-value). |
+| `CV-CLEAN-01` | dirty, contaminated, spoiled, and rotten | Implemented | base and established modules | See the complete decision under [Cultivation, abundance, and wildness](#cultivation-abundance-and-wildness). |
+| `CV-PLANT-02` | trunk, petal, mushroom, thicket, orchard, and crop | Compositional | base compounds | See the complete decision under [Plants, animals, and the living world](#plants-animals-and-the-living-world). |
+| `CV-BODY-14` | lifting: raising a thing against its weight | Compositional | base | See the complete decision under [Narrative diagnostic: body, motion, and onset](#narrative-diagnostic-body-motion-and-onset). |
+| `CV-ANIMAL-05` | ant as a recurring familiar animal in ordinary and literary scenes | Implemented | base | Words: `tinemu`. Three appearances in one story made the broad insect word visibly lossy. `tinemu` names the familiar social insect while leaving species, caste, colony structure, and ecological role available to the surrounding account. |
 
 ## Prompt sources
 
