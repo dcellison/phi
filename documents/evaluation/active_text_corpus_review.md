@@ -173,31 +173,32 @@ The translation led to four roots. The remaining compositions fit Fausböll bett
 
 ## Paired review: UDHR Article 1
 
-The ground truth is the complete 1948 English Article 1 stored in `texts/sources/udhr_1948.txt`. The close translation uses 23 unique forms. Its two source-facing optional roots do work that composition could not do cleanly: `sherelo` is a normative right that can survive denial, and `sharino` is conscience as moral self-appraisal. The 21-form transmutation uses one optional root, Commons `shereni`, for recognised entitlement.
+The ground truth is the complete 1948 English Article 1 stored in `texts/sources/udhr_1948.txt`. The close translation uses 23 unique forms. Four optional roots preserve source distinctions: `sherelo` is a normative right that can survive denial, `remori` is reason as a faculty, `sharino` is conscience as moral self-appraisal, and `naseru` states the final obligation. The 21-form transmutation uses Commons `shereni` for recognised entitlement and `naseru` for obligation.
 
 | Area | Close translation | Transmutation |
 |---|---|---|
 | Birth and equality | A second Phi sentence says that equal worth and rights are held from birth and therefore preserves the scope of the English coordination. | Freedom stays tied to birth, while equality becomes a separate standing universal claim. |
 | Dignity and rights | `rolia` supplies inherent worth or dignity; `sherelo` leaves a right sayable before recognition or fulfillment. | Equal worth remains, but rights narrow to recognized `shereni` entitlements. |
-| Reason and conscience | Passive `se loa` retains the endowment metaphor. Event-noun `remo` supplies thinking as an activity, which leaves the faculty itself unnamed. `sharino` states conscience directly. | `po remo` gives a capacity to think, while `korua sano` turns conscience into the heart's knowing. |
+| Reason and conscience | Passive `se loa` retains the endowment metaphor. `remori` names reason as a fallible and revisable faculty, while `sharino` states conscience directly. | `po remo` gives a capacity to think, while `korua sano` turns conscience into the heart's knowing. |
 | Brotherhood and conduct | `lomea phiora` retains a sibling spirit, and reciprocal `wiso` directs the action toward one another. | People act as siblings, and `phena` makes kindness part of the observable conduct. |
-| Remaining limits | `remo` is broader than rational faculty, `phiora` is less idiomatic than English "spirit," `lomea` ungenders brotherhood, and `na` is stronger than "should." | The gap log records each deliberate change, including the loss of birth scope on equality and the narrowing from rights to entitlements. |
+| Remaining limits | `phiora` is less idiomatic than English "spirit," `lomea` necessarily ungenders brotherhood, and `naseru phelu` makes the source modal's obligation explicit. | The gap log records each deliberate change, including the loss of birth scope on equality and the narrowing from rights to entitlements. |
 
 The five-pillar comparison does not force five rewrites. Solarpunk thought tests whether a right survives institutional denial and whether an entitlement has practical form. Secular Buddhist attention shifts endowed faculties toward conditioned acts in the transmutation. Art Nouveau affects the line and repetition rather than the concepts. Peace linguistics moves the transmutation from prescribed feeling to accountable conduct. Preindustrial wisdom finds kinship and heart-knowing already present, without adding a village or tradition absent from the source.
 
-### Post-migration contextual retrofit
+### Fidelity repair
 
-The full lexicon gives neither rendering a better Phi line. Their direct roots and transparent phrases still fit Article 1; the apparent alternatives answer different questions. One English note changes: `remo` supplies thinking as an activity, not a dedicated faculty of reason.
+The source comparison exposed one lexical gap and one avoidable modal overstatement. Philosophical Reasoning `remori` now names the faculty of reason that event-noun `remo` could only approximate. Existing Commons `naseru` carries the final moral obligation without presenting it as unqualified necessity.
 
 | Question | Disposition | Reason |
 |---|---|---|
 | Freedom, equality, and dignity | Preserve `ralu thowia` and `kolo rolia` | `ralu` leaves a course open from constraint, `kolo` supplies equal standing, and `rolia` belongs to every person without being earned. `thunoa` concerns dignified conduct or treatment and cannot replace inherent dignity here. |
-| Reason | Preserve event-noun `remo` and its recorded limit | Thinking is closer to the source's faculty than `remotha`, one stated ground for accepting a claim or choice. `kethira` names inference and `themore` an argument; neither supplies a general faculty. |
+| Reason | Replace event-noun `remo` with `remori` in the close translation | `remori` names the faculty. `remo` remains thinking activity, `remotha` one stated ground for accepting a claim or choice, and `kethira` one act of inference. |
 | Rights and entitlements | Preserve `sherelo` in translation and `shereni` in transmutation | The declaration needs a right that can still be said when an institution denies it. The transmutation deliberately asks whether a social order has recognised the claim and made it usable. |
 | Conscience and heart-knowing | Preserve `sharino` in translation and `korua sano` in transmutation | `sharino` is the source's inward moral self-appraisal. The heart's knowing is a deliberate Phi reframing, while `naremu` is guilt felt after an act or omission rather than a moral faculty. |
 | Brotherhood and kinship | Preserve `lomea phiora` and `phea lomea` | The sibling noun keeps the source's specific kin relation without a universal male class. Wider `thaluni`, kin, would make the image less exact. |
-| Conduct and modality | Preserve reciprocal `wiso`, necessity `na`, and transmuted `phena` | `wiso` gives action toward one another. The stronger force of `na` remains visible in both gap logs, while kindness belongs only to the transmutation. |
-| Optional module vocabulary | Preserve close `sherelo` and `sharino`, and transmuted `shereni` | Each of these three distinctions is needed here. No other optional root improves either rendering. |
+| Conduct and modality | Preserve reciprocal `wiso`; replace `na` with the action before `naseru phelu`; preserve transmuted `phena` | `wiso` gives action toward one another. The noun construction states the source's ethical obligation without turning it into an unqualified must, while kindness belongs only to the transmutation. |
+| Optional module vocabulary | Use close `sherelo`, `remori`, `sharino`, and `naseru`; use transmuted `shereni` and `naseru` | The translation now uses every specialist distinction needed by the source. The transmutation keeps entitlement and obligation while deliberately recasting the two faculties. |
+| Active dependencies | Update the Philosophical Reasoning chapter, module record, conscience entry, sample-text guide, and generated lexicon references | The new faculty must remain distinct from thinking activity and justificatory reason wherever Article 1 teaches the contrast. |
 
 ## Paired review: Babel
 
@@ -343,7 +344,7 @@ The present pass retains the useful decisions from the completed-vocabulary retr
 | Question | Disposition | Reason |
 |---|---|---|
 | Highest excellence, virtue, and broad goodness | Preserve the quality noun of `welao` for Legge's recurring excellence; use `taleri` only where the source says virtuous | `welao` can judge practical function and ethical benefit across all six settings. `taleri` would narrow the whole sequence to ethical conduct, but it is exact for the people named in the association line. |
-| Mind, thinking, calm, and stillness | Preserve event-noun `remo`, but replace `shena` with `moesha` | Phi still approaches mind through thinking rather than a separate mental-faculty noun. `moesha` now restores absence of movement instead of substituting low agitation. |
+| Mind, thinking, calm, and stillness | Preserve event-noun `remo`, but replace `shena` with `moesha` | Phi still approaches the source's mind through thinking rather than a general mind noun. `remori` is the narrower faculty of reason and does not replace the source term here. `moesha` restores absence of movement instead of substituting low agitation. |
 | Striving, intention, wrangling, and argument | Use `meloa` for striving and `whakeru` for the objection; remove `thueli` and `themore` | Intention did not report effort, while `themore` explicitly names inferential structure rather than quarrel. Perseverance and objection each keep one visible part of Legge's wording, and the limits table names what remains narrower. |
 | Government, governance, authority, and guidance | Preserve close `kowanu` and `karami`; preserve transmuted `kulo` | Chapter 8 concerns collective arrangement, while chapter 17 needs the power relation itself. The transmutation deliberately turns rulers into guides; importing authority there would erase its reframe. |
 | Praise, honour, and appreciation | Compose close praise as spoken `woraka phelui`; preserve transmuted `keluro` | Legge names a spoken act, so honour alone was too broad in the translation. The transmutation may turn praise into visible or formal recognition because its gap log records the change. |
@@ -578,7 +579,7 @@ The source citations and gap logs in each pamphlet hold the detailed decisions. 
 | `texts/solarpunk_manifesto.md` | Translation | Reviewed | The 38-unit fidelity pass changes 17 units, aligns a 244-form Phi reading with the complete licensed witness, and uses 33 optional roots across all eight modules without altering a source line. |
 | `texts/schleicher_fable.md` | Translation + transmutation | Reviewed | The post-migration retrofit preserves both renderings and repairs the supporting animal range of `kawhera` and `pilora`. |
 | `texts/babel_text.md` | Translation + transmutation | Reviewed | Complete KJV alignment, translation limits, deliberate Earth and sowing departures, and five-pillar comparison complete. |
-| `texts/human_rights_article_one.md` | Translation + transmutation | Reviewed | Paired source alignment, two source-facing roots, translation limits, gap log, and five-pillar comparison complete. |
+| `texts/human_rights_article_one.md` | Translation + transmutation | Reviewed | Paired source alignment, exact reason and conscience faculties, held obligation, translation limits, gap log, and five-pillar comparison complete. |
 | `texts/little_prince_excerpts.md` | Transmutation | Reviewed | The 35-form base-vocabulary work corrects the secret's quality and source aspect without giving up the mutual bond. |
 | `texts/prophet_excerpts.md` | Translation + transmutation | Reviewed | Three transmuted teachings checked; On Children now has complete source alignment, translation limits, and a five-pillar comparison. |
 | `texts/tao_te_ching.md` | Translation + transmutation | Reviewed | All 51 Legge units align in order; the 158-form close translation follows every proposition, and the 104-form transmutation records each omission or redirect. |

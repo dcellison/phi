@@ -1,10 +1,10 @@
 # Philosophical Reasoning
 
-Someone claims a path is good, another asks why, and the argument that follows needs words sharper than "think" and "true" to hold together: a premise from a conclusion, a valid argument from a sound one, a doubt from a refutation. Claim, evidence, reason, and criterion belong to base vocabulary because that exchange is ordinary life. Twenty-four narrower roots form the optional toolkit around them.
+Someone claims a path is good, another asks why, and the argument that follows needs words sharper than "think" and "true" to hold together: a premise from a conclusion, a valid argument from a sound one, a doubt from a refutation. Claim, evidence, reason, and criterion belong to base vocabulary because that exchange is ordinary life. Twenty-five narrower roots form the optional toolkit around them.
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them supplies vocabulary, and vocabulary has never made anyone right.
 
-The chapter table below introduces 24 module roots. Shared classification brings the optional learning list to 27 words; four base words are taught alongside it. The complete list is under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning).
+The chapter table below introduces 25 module roots. Shared classification brings the optional learning list to 28 words; four base words are taught alongside it. The complete list is under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning).
 
 ## Core vocabulary used by the module
 
@@ -43,6 +43,7 @@ The module does not replace what Phi already says about thought and dialogue. It
 | `whekate` | verb | refute; show that a claim or inference fails | Refuting takes real work: an objection or a disagreement alone does not amount to a refutation. |
 | `kirothe` | verb | define; state meaning or conditions of application | Defining draws a boundary of application, narrower than describing or simply clarifying. |
 | `remole` | noun | concept; an organized idea | A concept stands apart from the word that names it, the symbol that points to it, and any one example used to illustrate it. |
+| `remori` | noun | reason; the faculty used to weigh reasons and reconsider conclusions | `remo` is the activity, `remotha` one offered justification, and `kethira` an act of inference; `remori` is the faculty that may carry them. |
 | `sherelo` | noun | right; a normative claim that can bind conduct or institutions | A right can remain live while denied; `shereni` entitlement begins with recognition and scope. |
 | `sharino` | noun | conscience; moral self-appraisal | Conscience weighs one's own conduct, while `waeli` consciousness names subjective awareness more broadly. |
 | `serathi` | adjective | principled; faithful to stated ethical commitments in conduct | Integrity concerns what happens when a commitment is tested; honesty is the narrower question of knowing deception. |
@@ -187,7 +188,7 @@ PROX concept complex be.
 
 Necessary and sufficient conditions need no separate roots of their own. Direction does the work: if category membership entails (`natheri`) the criterion, the criterion is necessary; if satisfying the criterion entails membership, it is sufficient. When both directions hold, one criterion is doing both jobs at once.
 
-## Rights and conscience
+## Rights, reason, and conscience
 
 A council recognizes an entitlement. A person claims a right that the council has denied. `shereni` and `sherelo` keep those sentences apart: recognition is part of the first word's definition, while the second leaves recognition open to challenge.
 
@@ -195,6 +196,14 @@ A council recognizes an entitlement. A person claims a right that the council ha
 theula miona lo kolo sherelo phelu.
 UNIV person PL equal right hold.
 (All people hold equal rights.)
+```
+
+`remori` names the faculty by which a person weighs reasons and follows connections among claims. A judgement can be reconsidered when the path proves poor; reason has taken a wrong turning before. `remo` is the activity of thinking, `remotha` is one reason offered in justification, and `kethira` is one act of inference.
+
+```
+remori nela sharino wei lo shia se loa.
+reason COORD conscience DAT PL 3SG PASS give.
+(Reason and conscience are given to them.)
 ```
 
 `sharino` turns the examination inward. It is the faculty that weighs one's own conduct against what one takes to be right, and it may object without becoming an infallible voice.
@@ -205,7 +214,7 @@ mia sharino mia phoa whakeru.
 (My conscience objects to my action.)
 ```
 
-The paired [Article 1](../../../texts/human_rights_article_one.md) tests both distinctions in adjacent claims. Its translation grants all people thought and conscience as faculties; its transmutation gives them the capacity to think and the heart's knowing.
+The paired [Article 1](../../../texts/human_rights_article_one.md) tests all three distinctions in adjacent claims. Its translation gives people equal rights, then presents reason and conscience as endowed faculties. Its transmutation gives them recognized entitlements, the capacity to think, and the heart's knowing. The close rendering draws on Commons `naseru` for the declaration's final obligation without moving that word into this learning path.
 
 ## Integrity, virtue, and craving
 

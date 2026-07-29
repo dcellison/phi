@@ -27,8 +27,8 @@
 0.47	1	thua	fair	content	thoa	AMONG	function	38
 0.47	1	sua	who	function	soa	sorry	interjection	31
 0.47	1	wenu	tonic	content	weno	when	function	8
-0.47	1	phelu	hold	content	phelo	light	content	319
-0.47	1	philu	candle	content	phelu	hold	content	316
+0.47	1	phelu	hold	content	phelo	light	content	323
+0.47	1	philu	candle	content	phelu	hold	content	320
 0.47	1	phaelo	feel	content	phaelu	peaceful	content	199
 0.47	1	kelu	become	content	kelo	frame	content	180
 0.47	1	loa	give	content	lua	lovely	interjection	176
@@ -101,7 +101,7 @@
 0.50	1	sha	QUOT.COMP	function	ha	PROX	function	1445
 0.50	1	pha	INT.COMP	function	ha	PROX	function	1185
 0.50	1	sa	HON.RESPECT	function	ha	PROX	function	1044
-0.50	1	na	NEC	function	ma	NEG	function	900
+0.50	1	na	NEC	function	ma	NEG	function	896
 0.50	1	tha	DECL.COMP	function	sha	QUOT.COMP	function	891
 0.50	1	tho	DECL.COMP.CLOSE	function	sho	QUOT.COMP.CLOSE	function	891
 0.50	1	tho	DECL.COMP.CLOSE	function	so	FUT	function	795
@@ -172,12 +172,12 @@
 0.50	1	sheli	impatient	content	theli	EACH	function	9
 0.50	1	wheli	ANY	function	theli	EACH	function	9
 0.50	1	sheli	impatient	content	wheli	ANY	function	2
-0.50	1	shelu	book	content	phelu	hold	content	465
+0.50	1	shelu	book	content	phelu	hold	content	469
 0.50	1	sano	know	content	whano	stand	content	370
-0.50	1	selu	flow	content	phelu	hold	content	321
-0.50	1	phelu	hold	content	helu	smooth	content	320
+0.50	1	selu	flow	content	phelu	hold	content	325
+0.50	1	phelu	hold	content	helu	smooth	content	324
+0.50	1	thelu	dialogue	content	phelu	hold	content	322
 0.50	1	phena	kind	content	thena	thing	content	320
-0.50	1	thelu	dialogue	content	phelu	hold	content	318
 0.50	1	shena	calm	content	thena	thing	content	286
 0.50	1	sena	pattern	content	thena	thing	content	277
 0.50	1	thema	guardian	content	thena	thing	content	275

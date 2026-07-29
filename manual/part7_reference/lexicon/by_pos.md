@@ -315,7 +315,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (574)
+## noun (575)
 
 | Word | Gloss |
 |---|---|
@@ -688,6 +688,7 @@
 | `relo` | symbol |
 | `relua` | mirror |
 | `remole` | concept |
+| `remori` | reason (faculty) |
 | `remotha` | reason |
 | `remuma` | conclusion |
 | `repha` | bridge |

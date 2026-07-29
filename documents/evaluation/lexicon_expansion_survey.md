@@ -1,6 +1,6 @@
 # Lexicon expansion survey (2026-07-21)
 
-This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,291 entries: 1,157 content words, 114 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become detailed where speakers need specialised discussion.
+This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,292 entries: 1,158 content words, 114 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become detailed where speakers need specialised discussion.
 
 A missing English headword is not automatically a Phi gap. A concept may already be covered elegantly by a broader root, ordinary composition, an event noun, a registered compound, or a separately presented source artifact plus Phi analysis. That observation does not prohibit coinage: a concept may receive a dedicated word because it is important, useful, beautiful, or worth making easy to discuss.
 
@@ -55,7 +55,7 @@ These domains matter to Phi's intended philosophical and solarpunk-oriented use.
 
 ### Philosophical reasoning: first pass complete
 
-The [Philosophical Reasoning profile](../modules/philosophical_reasoning.md) established 18 optional terms in its first pass across argument structure and assessment, definition, epistemic stance, and practical deliberation. Later work added rights, conscience, hypothesis, integrity, virtue, and craving; the dedicated set now contains 24 roots. Systems supplies the shared terms `harusi` emergence, `hosari` correlation, and `samethu` equivalent. The current learning path therefore has 27 memberships. `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion remain in base vocabulary.
+The [Philosophical Reasoning profile](../modules/philosophical_reasoning.md) established 18 optional terms in its first pass across argument structure and assessment, definition, epistemic stance, and practical deliberation. Later work added rights, conscience, hypothesis, integrity, virtue, craving, and reason as a faculty; the dedicated set now contains 25 roots. Systems supplies the shared terms `harusi` emergence, `hosari` correlation, and `samethu` equivalent. The current learning path therefore has 28 memberships. `sherewa` claim, `thesori` evidence, `remotha` reason offered in justification, and `kirema` criterion remain in base vocabulary.
 
 The pass retains transparent compositions for priority and standpoint, and for soundness, conditionals, and suspension of judgment. The current review also keeps ordinary inference strength and responsibility compositional. The connected Systems review now supplies emergence and correlation without turning either one into a causal claim.
 

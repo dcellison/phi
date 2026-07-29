@@ -8,7 +8,7 @@
 
 ## Close translation
 
-Article 1 needs a right that can remain a right when an institution denies it, and it needs a conscience distinct from awareness or a poetic knowing of the heart. `sherelo` and `sharino` supply those two concepts. The rest comes from ordinary Phi grammar and existing words.
+Article 1 needs a right that can remain a right when an institution denies it, reason as a faculty rather than one offered justification, and a conscience distinct from awareness or a poetic knowing of the heart. `sherelo`, `remori`, and `sharino` supply those concepts. The rest comes from ordinary Phi grammar and existing words.
 
 ### Freedom, dignity, and rights
 
@@ -24,24 +24,24 @@ udhr: "All human beings are born free and equal in dignity and rights."
 ### Reason and conscience
 
 ```
-remo nela sharino wei lo shia se loa.
-think COORD conscience DAT PL 3SG PASS give.
-(Thought and conscience are given to them.)
+remori nela sharino wei lo shia se loa.
+reason COORD conscience DAT PL 3SG PASS give.
+(Reason and conscience are given to them.)
 udhr: "They are endowed with reason and conscience"
 ```
 
-**Notes:** The passive `se loa` preserves the source's image of faculties given to humankind without inventing a giver. Here event-noun `remo` is thinking considered as an activity. It is wider than the rational faculty meant by the source and does not name that faculty directly. `remotha` belongs to a different sentence: it is one reason offered to justify a claim or choice. `sharino` gives conscience directly as a person's inward appraisal of their own conduct. That appraisal may be mistaken and corrected.
+**Notes:** The passive `se loa` preserves the source's image of faculties given to humankind without inventing a giver. `remori` names the faculty for weighing reasons and following the path from claims to conclusions. The faculty can still get things wrong. `remotha` belongs to a different sentence: it is one reason offered to justify a claim or choice. `sharino` gives conscience directly as a person's inward appraisal of their own conduct. That appraisal, too, may be mistaken and corrected.
 
 ### Conduct and brotherhood
 
 ```
-lo shia roe lomea phiora wiso na phoa.
-PL 3SG INS sibling spirit RECP NEC do.
-(They must act toward one another with sibling spirit.)
+lo shia roe lomea phiora wiso phoa naseru phelu.
+PL 3SG INS sibling spirit RECP do obligation hold.
+(They hold an obligation to act toward one another with sibling spirit.)
 udhr: "and should act towards one another in a spirit of brotherhood."
 ```
 
-**Notes:** `roe lomea phiora` follows the source's spirit metaphor as closely as the lexicon permits. Phi has no universal male class, so `lomea`, sibling, removes the gender from brotherhood; the kin relation remains. Reciprocal `wiso` directs the action toward one another. The modal `na` is stronger than English "should": Phi marks necessity here, not advice.
+**Notes:** `roe lomea phiora` follows the source's spirit metaphor as closely as the lexicon permits. Phi has no universal male class, so `lomea`, sibling, removes the gender from brotherhood; the kin relation remains. Reciprocal `wiso` directs the action toward one another. `naseru phelu` treats the source's "should" as a held obligation rather than an unqualified necessity. The declaration supplies the ethical source of that obligation.
 
 ---
 
@@ -52,9 +52,9 @@ theula miona
 
 theula miona ralu thowia. lo shia lue lo shia thowia kolo rolia nela lo kolo sherelo phelu.
 
-remo nela sharino wei lo shia se loa.
+remori nela sharino wei lo shia se loa.
 
-lo shia roe lomea phiora wiso na phoa.
+lo shia roe lomea phiora wiso phoa naseru phelu.
 ```
 
 ---
@@ -66,11 +66,11 @@ lo shia roe lomea phiora wiso na phoa.
 | born free and equal | `ralu thowia`, followed by `lue lo shia thowia` | Phi splits the coordinated English predicate into two sentences and repeats the birth scope explicitly. |
 | dignity | `rolia`, inherent worth or dignity | The source's civic and legal resonance depends on its place beside rights rather than on a second Phi root. |
 | rights | `sherelo`, normative right | The source citation supplies the specifically human-rights setting; the Phi root also covers rights grounded in other stated normative sources. |
-| reason | event noun of `remo` as the activity of thinking | Phi leaves the rational faculty implicit. `remotha` names a consideration offered in justification, not the faculty by which someone reasons. |
+| reason | `remori`, the faculty for reasoning from claims towards conclusions | The Phi word makes the faculty's fallibility and revisability explicit in its definition; the source leaves both unstated. `remotha` remains a consideration offered in justification. |
 | conscience | `sharino`, moral self-appraisal | The Phi term makes fallibility explicit in its definition, while the source leaves the faculty unexplained. |
 | endowed | `wei lo shia se loa`, given to them | The passive gift survives, and the giver remains unspoken. |
 | spirit of brotherhood | `roe lomea phiora`, with sibling spirit | `phiora` can sound more like an animating essence than the source's idiomatic disposition; `lomea` necessarily ungenders the kinship. |
-| should act | `wiso na phoa`, must act toward one another | `na` gives a categorical necessity stronger force than English "should." |
+| should act | `wiso phoa naseru phelu`, hold an obligation to act toward one another | Phi states the moral relation as an obligation under a source rather than leaving its force inside an English modal. |
 
 ---
 
@@ -114,13 +114,13 @@ udhr: "They are endowed with reason and conscience"
 ### Reciprocal kind action
 
 ```
-theula miona phea lomea wiso phena na phoa.
-UNIV person AS sibling RECP kind NEC do.
-(All people, as siblings, must act kindly toward one another.)
+theula miona phea lomea wiso phena phoa naseru phelu.
+UNIV person AS sibling RECP kind do obligation hold.
+(All people, as siblings, hold an obligation to act kindly toward one another.)
 udhr: "and should act towards one another in a spirit of brotherhood."
 ```
 
-**Notes:** Equative `phea` frames people as siblings before reciprocal `wiso` turns the conduct toward one another. `phena phoa` makes the obligation observable as kind action. The line does not command a feeling.
+**Notes:** Equative `phea` frames people as siblings before reciprocal `wiso` turns the conduct toward one another. `phena phoa` makes the obligation observable as kind action, and `naseru phelu` gives that action a stated moral claim. The line does not command a feeling.
 
 ---
 
@@ -135,7 +135,7 @@ theula miona kolo rolia nela lo kolo shereni phelu.
 
 theula miona po remo. lo shia korua sano phelu.
 
-theula miona phea lomea wiso phena na phoa.
+theula miona phea lomea wiso phena phoa naseru phelu.
 ```
 
 ---
@@ -150,7 +150,7 @@ theula miona phea lomea wiso phena na phoa.
 | endowed with reason | `po remo`, able to think | An endowed faculty becomes a capacity, and the gift metaphor disappears. |
 | conscience | `korua sano`, the heart's knowing | Moral self-appraisal becomes a poetic inward knowledge with a wider range. |
 | spirit of brotherhood | `phea lomea`, as siblings | The gendered kinship is ungendered, and an animating spirit becomes a relation among people. |
-| should act | `wiso phena na phoa`, must act kindly toward one another | The modal grows stronger, while kind conduct replaces the source's inward disposition. |
+| should act | `wiso phena phoa naseru phelu`, hold an obligation to act kindly toward one another | The obligation becomes explicit, while kind conduct replaces the source's inward disposition. |
 
 ---
 
@@ -162,9 +162,9 @@ The translation lets Article 1 keep its abstract faculties and normative claims.
 |---|---|---|---|
 | equality from birth | People hold equal worth and rights from their birth. | People are born free, then hold equal worth and entitlements as a standing fact. | Translation restores the scope of the English coordination. Transmutation prefers four short universal claims. |
 | rights | `sherelo`, a right that can remain valid while denied | `shereni`, a recognized and scoped entitlement | Translation must preserve the declaration's claim against institutions. Transmutation turns toward the social form through which a claim is honored. |
-| reason and conscience | Thought and conscience are passively given. | People can think and hold the heart's knowing. | Translation retains the endowment metaphor and two named faculties. Transmutation treats them as lived capacities. |
+| reason and conscience | Reason and conscience are passively given. | People can think and hold the heart's knowing. | Translation retains the endowment metaphor and two named faculties. Transmutation treats them as lived capacities. |
 | brotherhood | People act with a sibling spirit. | People act as siblings. | Both ungender the source. Transmutation changes an inward disposition into a reciprocal relation. |
-| conduct | People must act toward one another. | People must act kindly toward one another. | Translation leaves the quality of conduct inside the source's spirit metaphor. Transmutation states kindness as the act's manner. |
+| conduct | People hold an obligation to act toward one another. | People hold an obligation to act kindly toward one another. | Translation leaves the quality of conduct inside the source's spirit metaphor. Transmutation states kindness as the act's manner. |
 
 ### Solarpunk values
 
@@ -180,7 +180,7 @@ Article 1 offers no material or organic scene for either rendering to preserve. 
 
 ### Peace linguistics
 
-Translation states the declaration's obligation without pretending that accurate quotation is endorsement of every metaphor. Transmutation makes its clearest peace-linguistic choice in the last line: it does not require people to feel brotherhood, but it does require kind reciprocal conduct. Both versions leave freedom and equal worth with every person before any institution speaks.
+Translation states the declaration's obligation without pretending that accurate quotation is endorsement of every metaphor. Transmutation makes its clearest peace-linguistic choice in the last line: it does not require people to feel brotherhood, but it does make kind reciprocal conduct the obligation. Both versions leave freedom and equal worth with every person before any institution speaks.
 
 ### Pre-industrial wisdom
 

@@ -1707,6 +1707,17 @@ The Metta Sutta already covered every source verse, but several Phi choices narr
 
 The batch adds base `nirelo` and three optional roots: `serathi` in Philosophical Reasoning and Commons, `taleri` in Philosophical Reasoning, and `wurashi` in Philosophical Reasoning and Medical. It changes no grammar. The translation uses the full lexicon, while the remaining source-bound compromises stay visible beside the text.
 
+## UDHR Article 1 close-translation repair
+
+Article 1 already covered every source unit, but its close rendering acknowledged two avoidable substitutions: thinking activity stood in for reason as a faculty, and unqualified necessity stood in for normative "should." The repair settles both questions without changing Phi's grammar.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| Reason as a faculty rather than an act, justification, or inference | `remo` (think), `remotha` (reason offered in justification), `kethira` (infer), and `CV-PHIL-11` | **IMPLEMENTED** | None of the existing forms named the faculty the source presents as an endowment. Philosophical Reasoning `remori` names the capacity to consider relations, reasons, and possible conclusions without promising that the result is sound or making the capacity a condition for worth. |
+| Normative "should" without unqualified necessity | the required action as an event noun before `naseru phelu`, with `na` retained for necessity, and `CV-ETH-05` | **COMPOSITIONAL** | Article 1 supplies the ethical source of an obligation. The noun construction states that relation directly and leaves its source open to examination; a new modal or particle would reopen grammar for a distinction the lexicon already carries. |
+
+The batch adds one Philosophical Reasoning root and changes no other membership. The close translation now names reason and conscience as separate faculties and renders the final clause as a held obligation. The transmutation retains its deliberate capacity, heart-knowing, and kind-action changes while using the same obligation construction.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -1798,4 +1809,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The decision queue is closed. The register holds 61 implemented decisions and 114 compositional decisions. It also preserves 31 deferrals with return conditions, 43 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,291 lexicon entries follow the target prose contract. Fifteen literary retrofits complete the shelf, the drafted Phi book is current through chapter 7, and all seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes without a new lexical decision. Resume SEM-09D with the current documents, before chapter 8. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
+The decision queue is closed. The register holds 62 implemented decisions and 115 compositional decisions. It also preserves 31 deferrals with return conditions, 43 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,292 lexicon entries follow the target prose contract. Fifteen literary retrofits complete the shelf, the drafted Phi book is current through chapter 7, and all seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes without a new lexical decision. Resume SEM-09D with the current documents, before chapter 8. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.

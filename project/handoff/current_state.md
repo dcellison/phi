@@ -6,7 +6,7 @@ This snapshot was first assembled after pull request #418 merged on 17 July 2026
 
 SEM-09D is complete, and so is PED-08: the book is published whole, from the cold open through the close and its consolidated bibliography, with the planning treatment archived at `archive/book_treatment.md`. Work package C is complete at its stated exit criterion through `texts/care_and_coercion.md`, the shelf's first sustained original Phi composition; the planned essay set and unscripted evidence remain open. PUB-06 and PUB-07 are complete. No further work package is commissioned. The book's title remains The Phi Book for now by the maintainer's ruling, the bibliography's citation style is uniform, and the whole-book revision read is complete; further revision waits on the maintainer's own reading of the finished book. A local reading PDF shows that the website can supply book-length print output, but PUB-03 remains deferred because no reproducible PDF command or checked-in post-processing tool exists.
 
-D044 completed the base-first boundary, and D045 through D052 completed all eight learning paths in their historical order. The full migration has one editorial judgement and voice. SEM-09D began with Schleicher's fable. That pilot preserved every Phi line after checking later base roots and optional terms, while D053 repaired `kawhera` and `pilora` after their target prose proved narrower than their validated animal uses. The second pass replaced three older circumlocutions in *The North Wind and the Sun* with `mesatu` (try), `komeri` (forehead), and `phesari` (flee) in both the translation and transmutation. The third replaced four detours in the Metta Sutta with `sheraki` (search), `tupeka` (burden), `rinu` (want), and `huwa` (weak). The fourth leaves both UDHR Article 1 renderings intact and identifies `remo` as thinking rather than a dedicated rational faculty. The fifth repairs Babel's physical joining, the tower's top, the builders' wish for renown, imagined action, and punitive scattering without adding a root. The sixth restores reverence, perception, change, and verse in the Heart Sutra. It also removes a quantitative misuse of `thenoi` and keeps physical `whalo` out of the English "great" homonym. The seventh brings `phomila`, `lioru`, `lima`, and `mesatu` into *The Prophet, On Children*. The eighth gives the Tao Te Ching translation `kowanu`, `monaki`, and direct `kethua`; both renderings distinguish `lioru`, life, and state completed withering through `ki kureno`. The ninth revises seventeen Solarpunk units, uses all eight modules, and removes technical vocabulary from general solutions, human ability, social power, and ordinary living. The tenth replaces unadorned `mueli` with simple `siloma` in *The Little Prince* and uses perfective `ki` for the bond whose result still holds. The eleventh preserves the Ring Verse refusal's 12 base and function forms while bringing its account of dominion into line with the completed Commons and Systems distinctions. The twelfth changes 46 units in *The Velveteen Rabbit*, separates search from finding and wear from age, and brings exact household and bodily words into the nursery without changing Williams's source witness. The thirteenth changes 29 units in *News from Nowhere* chapter 1, separates authority from guidance and representation from thought, and brings direct words for coercion, winter, wear, waking, and observation into Morris's first night without changing his source witness. The fourteenth now changes 57 units in chapter 2, adds direct tide and service to its earlier repairs, and preserves every Morris line. The fifteenth changes 46 units in chapter 3, gives the house and breakfast direct household language, gives the weaver his craft terms, and preserves all 245 Morris lines. The drafted-book pass preserves thirteen of fifteen fenced examples, revises two in the cold open, corrects the account of `wia` and transmutation, and aligns the schema discussion with the completed lexicon contract. The first teaching pass reviews all nine Part I files, corrects determinist and universal claims, replaces obsolete sound lore with current articulation, and rebuilds the beginner exchange without adding a root or module term. The second reviews all nineteen Part II files, preserves the two current sound essays, and repairs the remaining chapters' cultural, phonesthetic, grammatical, social, and learning claims without adding a root or module term.
+D044 completed the base-first boundary, and D045 through D052 completed all eight learning paths in their historical order. The full migration has one editorial judgement and voice. SEM-09D began with Schleicher's fable. That pilot preserved every Phi line after checking later base roots and optional terms, while D053 repaired `kawhera` and `pilora` after their target prose proved narrower than their validated animal uses. The second pass replaced three older circumlocutions in *The North Wind and the Sun* with `mesatu` (try), `komeri` (forehead), and `phesari` (flee) in both the translation and transmutation. The third replaced four detours in the Metta Sutta with `sheraki` (search), `tupeka` (burden), `rinu` (want), and `huwa` (weak). The fourth now repairs UDHR Article 1 with `remori` for reason as a faculty and `naseru phelu` for its final obligation while keeping the transmutation's deliberate changes. The fifth repairs Babel's physical joining, the tower's top, the builders' wish for renown, imagined action, and punitive scattering without adding a root. The sixth restores reverence, perception, change, and verse in the Heart Sutra. It also removes a quantitative misuse of `thenoi` and keeps physical `whalo` out of the English "great" homonym. The seventh brings `phomila`, `lioru`, `lima`, and `mesatu` into *The Prophet, On Children*. The eighth gives the Tao Te Ching translation `kowanu`, `monaki`, and direct `kethua`; both renderings distinguish `lioru`, life, and state completed withering through `ki kureno`. The ninth revises seventeen Solarpunk units, uses all eight modules, and removes technical vocabulary from general solutions, human ability, social power, and ordinary living. The tenth replaces unadorned `mueli` with simple `siloma` in *The Little Prince* and uses perfective `ki` for the bond whose result still holds. The eleventh preserves the Ring Verse refusal's 12 base and function forms while bringing its account of dominion into line with the completed Commons and Systems distinctions. The twelfth changes 46 units in *The Velveteen Rabbit*, separates search from finding and wear from age, and brings exact household and bodily words into the nursery without changing Williams's source witness. The thirteenth changes 29 units in *News from Nowhere* chapter 1, separates authority from guidance and representation from thought, and brings direct words for coercion, winter, wear, waking, and observation into Morris's first night without changing his source witness. The fourteenth now changes 57 units in chapter 2, adds direct tide and service to its earlier repairs, and preserves every Morris line. The fifteenth changes 46 units in chapter 3, gives the house and breakfast direct household language, gives the weaver his craft terms, and preserves all 245 Morris lines. The drafted-book pass preserves thirteen of fifteen fenced examples, revises two in the cold open, corrects the account of `wia` and transmutation, and aligns the schema discussion with the completed lexicon contract. The first teaching pass reviews all nine Part I files, corrects determinist and universal claims, replaces obsolete sound lore with current articulation, and rebuilds the beginner exchange without adding a root or module term. The second reviews all nineteen Part II files, preserves the two current sound essays, and repairs the remaining chapters' cultural, phonesthetic, grammatical, social, and learning claims without adding a root or module term.
 
 The third teaching pass reviews all eleven Part III files. It preserves the current IPA reference, repairs the other ten lessons' articulation, accent, word-shape, and writing-mode claims, and finds no lexical gap or module need.
 
@@ -50,10 +50,10 @@ Kia opens the separate entrance-page sequence. Its first greeting sits in an ope
 
 | Inventory | Total | Target | Legacy |
 |---|---:|---:|---:|
-| Entire lexicon | 1,291 | 1,291 | 0 |
-| Content vocabulary | 1,157 | 1,157 | 0 |
+| Entire lexicon | 1,292 | 1,292 | 0 |
+| Content vocabulary | 1,158 | 1,158 | 0 |
 | Base content vocabulary | 893 | 893 | 0 |
-| Optional-module content vocabulary | 264 | 264 | 0 |
+| Optional-module content vocabulary | 265 | 265 | 0 |
 | Function vocabulary | 114 | 114 | 0 |
 | Interjections | 20 | 20 | 0 |
 
@@ -67,10 +67,10 @@ The latest completed prose batch is D052, Work, Craft, and Repair. It migrated s
 
 | Item | Count |
 |---|---:|
-| Registered batches | 70 |
-| Decisions | 253 |
-| Implemented | 61 |
-| Compositional | 114 |
+| Registered batches | 71 |
+| Decisions | 255 |
+| Implemented | 62 |
+| Compositional | 115 |
 | Deferred with return condition | 31 |
 | Source-bound | 43 |
 | Declined | 4 |
@@ -93,14 +93,14 @@ Run it before trusting the zero count. The snapshot is not a substitute for the 
 
 ## Module state
 
-Phi has eight established vocabulary modules, one grammar, 264 optional roots, and 398 module memberships. A root may appear in several modules.
+Phi has eight established vocabulary modules, one grammar, 265 optional roots, and 399 module memberships. A root may appear in several modules.
 
 | Module | Total current memberships | Legacy entries in that learning path |
 |---|---:|---:|
 | Household and Daily Life | 44 | 0 |
 | Medical and Bodily Care | 52 | 0 |
 | Systems and Shared Infrastructure | 50 | 0 |
-| Philosophical Reasoning | 27 | 0 |
+| Philosophical Reasoning | 28 | 0 |
 | Accessibility and Participation | 46 | 0 |
 | Commons and Collective Governance | 54 | 0 |
 | Ecological Systems and Material Life | 55 | 0 |
@@ -203,7 +203,7 @@ The live entries are:
 | Entrance and index pages | Complete | Kia, the Short Road, and the Phi Book contents page are finished without source decoration. Kia has its doorway masthead, two Tengwar greetings, six numbered encounters, and seven broad destination links. The Short Road has a twelve-stop map, joined waypoints, thirteen interlinear figures, and a final invitation in both hands. The book contents page maps the argument from boatman to door. Four movements hold its fourteen chapters, and the bibliography stays apart. Strict shape checks guard all three renderings, including exact agreement between the README's reading order and the published files. |
 | Legacy vocabulary prose audit | Complete | D044 completed the base queue, D045 through D052 completed all eight module learning paths, and SEM-09D completed the literary shelf, the drafted book, the manual, the primer, the nine pamphlets then current, and the current documents. Reopen a passage only for a real semantic, factual, voice, or corpus problem. |
 | Lexical relations between content words | Parked | The explorer or project needs curated related-word navigation strongly enough to add and maintain a schema field. |
-| Tengwar renderer verification | Parked, with a live review surface | The lexicon explorer now renders all 1,291 headwords in Tengwar, and the first finding is recorded and deferred: the a tehta sits slightly low over the h tengwa, to be adjusted through the placement tweaks in `tengwar/glyphs.json` when the maintainer reopens glyph tuning. |
+| Tengwar renderer verification | Parked, with a live review surface | The lexicon explorer now renders all 1,292 headwords in Tengwar, and the first finding is recorded and deferred: the a tehta sits slightly low over the h tengwa, to be adjusted through the placement tweaks in `tengwar/glyphs.json` when the maintainer reopens glyph tuning. |
 | Solarpunk community engagement | Open strategic question | Daniel is ready to offer Phi outside its repository and decide what a healthy invitation looks like. |
 
 Speech evidence, outside learner evidence, community governance, and a maintained print publication pipeline remain evidence-gated or deferred in the roadmap. The one-off book PDF does not close PUB-03 or create PUB-04 review evidence. Do not mark an evidence item complete because tools or materials exist, and do not invent participants, observations, or adoption.

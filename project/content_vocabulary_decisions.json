@@ -950,6 +950,16 @@
         "CV-AFFECT-09",
         "CV-DESIRE-01"
       ]
+    },
+    {
+      "id": "udhr-article-one-fidelity-repair",
+      "heading": "UDHR Article 1 close-translation repair",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-PHIL-11",
+        "CV-ETH-05"
+      ]
     }
   ],
   "candidates": [
@@ -5275,6 +5285,45 @@
       },
       "batches": [
         "metta-sutta-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-PHIL-11",
+      "concept": "reason as a faculty for considering relations, reasons, and possible conclusions",
+      "status": "implemented",
+      "placement": "Philosophical Reasoning",
+      "summary": "The Article 1 translation used the event noun of 'remo' (think), which names mental activity and left the source's faculty unnamed. 'remotha' names one consideration offered as justification, and 'kethira' names an act of inference. 'remori' keeps the faculty distinct from its acts and products without treating it as infallible or as a condition for human worth.",
+      "expressions": [
+        "remo",
+        "remotha",
+        "kethira"
+      ],
+      "implementation": {
+        "words": [
+          "remori"
+        ],
+        "files": [
+          "vocabulary/content/reason-faculty.json"
+        ]
+      },
+      "batches": [
+        "udhr-article-one-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-ETH-05",
+      "concept": "normative should as a moral requirement to act, distinct from unqualified modal necessity",
+      "status": "compositional",
+      "placement": "existing Commons vocabulary",
+      "summary": "Modal 'na' can report an obligation as necessity, but in Article 1 it made English 'should' read as an unqualified must. The event noun for the required action before 'naseru' (obligation), followed by 'phelu' (hold), states the moral relation and leaves its source available for examination. The construction needs no new modal or particle.",
+      "expressions": [
+        "na",
+        "phoa",
+        "naseru",
+        "phelu"
+      ],
+      "batches": [
+        "udhr-article-one-fidelity-repair"
       ]
     }
   ],
