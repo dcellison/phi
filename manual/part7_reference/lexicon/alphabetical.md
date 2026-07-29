@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1293 words.*
+*1294 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -1136,6 +1136,7 @@
 | `thusemi` | point | /θu.ˈse̞.mi/ | verb |
 | `ti` | REP | /ˈt̪i/ | particle |
 | `tinako` | rigid | /t̪i.ˈn̪ä.ko̞/ | adjective |
+| `tinemu` | ant | /t̪i.ˈn̪e̞.mu/ | noun |
 | `tinoa` | dye | /t̪i.ˈn̪o̞.ä/ | noun |
 | `tiphori` | tingling | /t̪i.ˈɸo̞.ri/ | noun |
 | `tipika` | fingernail | /t̪i.ˈpi.kä/ | noun |

@@ -1,0 +1,23 @@
+{
+  "word": "tinemu",
+  "gloss": "ant",
+  "ipa": "/t̪i.ˈn̪e̞.mu/",
+  "syllables": [
+    "ti",
+    "ne",
+    "mu"
+  ],
+  "pos": "noun",
+  "description": "An ant is 'tinemu': a small social insect whose elbowed antennae and narrow waist distinguish its familiar body. A worker may forage alone while its life remains part of a colony. 'nireku' (insect) gives the wider class, while 'hemoko' (bee) visits some of the same flowers with wings and a different social life.",
+  "articulatory_notes": "Voiceless dental 't' begins with the tongue tip against the backs of the upper teeth and releases into high-front unrounded 'i'. The tongue returns for voiced dental 'n', carries the sound through the nose, and opens into stressed true-mid front 'e'. The lips close for voiced 'm', keep the airflow nasal, and finish with high-back rounded 'u'.",
+  "usage_notes": "Optional 'lipha' can classify a count. A biological account can add the caste or species and describe the colony's structure or ecological role.",
+  "examples": [
+    {
+      "phi": "lo tinemu mua whelina to rashelo.",
+      "translation": "The ants ran in the grass."
+    }
+  ],
+  "semantic_domains": {
+    "nature": "a familiar social insect encountered in soil, plants, nests, and foraging trails"
+  }
+}

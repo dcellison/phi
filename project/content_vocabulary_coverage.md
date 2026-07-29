@@ -1770,6 +1770,25 @@ The quoted inscription is the page's complete source witness. The fidelity revie
 
 The batch adds no root, module membership, compound, or grammar. It adds one recorded compositional decision for a wearer identified through a headed relative clause and keeps all 16 passage forms in base or function vocabulary.
 
+## The Velveteen Rabbit fidelity repair
+
+The complete story already had a contextual vocabulary retrofit, but its stricter source-fidelity review found paraphrases that no longer earned their distance from Williams, twenty-two sentences rejected by the full parser, and two places where ellipses or overlapping fragments prevented exact source reconstruction. The review tests the whole story again with the completed base and module lexicon.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| Ant as a recurring familiar animal | `nireku`, `hemoko`, and `CV-ANIMAL-05` | **IMPLEMENTED** | The ants cross the story three times and help carry its close nursery-scale observation. Base `tinemu` preserves that recurring image without asking the generic insect class to do species work. |
+| Toy engine and exact foods or products | `nurako keli`, material descriptions, `CV-TRAVEL-02`, and `CV-DWELL-05` | **COMPOSITIONAL / SOURCE-BOUND** | A railway device identifies the toy's function, while brown sweet almonds preserve what Phi can observe about the confection. Engine, chocolate almond, sateen, shawl, pearl, and the other exact source identities remain in Williams's witness. |
+| Model and claims about being Real | `reteru`, `sherewa`, and `CV-PHIL-05` | **COMPOSITIONAL** | The rabbit can deny being a model of anything, and mechanical toys can claim that they are Real without being made to utter a quotation the source never gives them. |
+| Exact titles, affiliations, and source roles | ordinary person or keeper descriptions with `CV-ROLE-01` | **SOURCE-BOUND** | Nana, soldiers, Government, and Fairy remain exact in Williams. Phi describes the keeper, disabled makers, institutional membership, and magic person without turning a title, rank, or affiliation into a new general role. |
+| Sudden onset | base `pakiro` with `CV-TIME-07` | **IMPLEMENTED** | The summons to tea, the nose wrinkle, and the recovered memory begin without warning. Abrupt onset is now distinct from fast motion. |
+| Round eyes | `sorui` with `CV-SHAPE-02` | **COMPOSITIONAL** | Circle before eye describes the visible round form directly. A new adjective would hide a short and already settled composition. |
+| Worth under bodily wear | `rolia`, `sone`, and `CV-VALUE-01` | **COMPOSITIONAL** | The Skin Horse's lesson and the later worn body now agree: wear does not alter worth. Caring about the child's view is an act of valuing rather than an unrecorded thought. |
+| Dingy material and a wrinkled nose | `hureki`, `rohemi`, `hisae`, `lupaki`, and `CV-CLEAN-01` | **COVERED** | Dirt and wear jointly render dingy velveteen. Skin folded suddenly supplies the visible wrinkle without adding an object-specific verb. |
+| Berry-cane thicket | `mirulo loremi sholei` with `CV-PLANT-02` | **COMPOSITIONAL** | A gathering of berry branches gives the rabbit a visible thicket while the exact raspberry identity remains in Williams. The passage does not reopen the general thicket decision. |
+| Lifting a hind toe | causative `rihe` with `CV-BODY-14` | **COMPOSITIONAL** | Making the toe rise preserves the bodily action and confirms that the recorded lifting construction remains sufficient in sustained narrative. |
+
+The batch adds one base root and no module membership, compound, or grammar. The story has 429 exact Williams fragments across 427 Phi stanzas; 69 stanzas change in this pass. Its 427 unique Phi forms include 14 optional roots with 19 memberships across six modules.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -1861,4 +1880,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The decision queue is closed. The register holds 63 implemented decisions and 122 compositional decisions. It also preserves 31 deferrals with return conditions, 43 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,293 lexicon entries follow the target prose contract. Fifteen post-migration literary retrofits complete the shelf, the stricter source-fidelity sweep is current through the Ring Verse refusal, and all seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the paired-text fidelity sweep with the next recorded shelf candidate. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
+The decision queue is closed. The register holds 64 implemented decisions and 122 compositional decisions. It also preserves 31 deferrals with return conditions, 43 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,294 lexicon entries follow the target prose contract. Fifteen post-migration literary retrofits complete the shelf, the stricter source-fidelity sweep is current through The Velveteen Rabbit, and all seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the paired-text fidelity sweep with the next recorded shelf candidate. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
