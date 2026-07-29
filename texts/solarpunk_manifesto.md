@@ -13,57 +13,57 @@
 ### A movement and a question
 
 ```
-ha sileta kenua wireo moenu lo wireo weni nophi nela shela nela wetha senalu nela shaweri sila rinoka nai. shia pha thenoki punoa phea hina nai pho solae thueli. shia pha lo mia thela kau ha wireo kamo pho solae thueli. shia ha keiro liona thueli.
-PROX sun energy future culture PL future imagine story COORD art COORD cloth style COORD advocate community project be. 3SG INT.COMP sustain society AS what be INT.COMP.CLOSE explain intend. 3SG INT.COMP PL 1SG how ALL PROX future arrive INT.COMP.CLOSE explain intend. 3SG PROX way live intend.
-(This solar-energy future culture is a community project of future-imagining stories, art, cloth style, and advocacy. It intends to explain what a sustainable society is like and how we can reach that future. It intends to live this way.)
+ha sileta kenua wireo moenu lo wireo weni nophi nela shela nela wetha senalu nela shaweri sila rinoka nai. shia pha lo whu miso thenoki punoa phea hina nai pho solae mesatu. shia pha lo mia thela mua ha wireo po kamo pho solae mesatu. shia ha keiro liona mesatu.
+PROX sun energy future culture PL future imagine story COORD art COORD cloth style COORD advocate community project be. 3SG INT.COMP PL REL REFL sustain society AS what be INT.COMP.CLOSE explain try. 3SG INT.COMP PL 1SG how LOC PROX future POT arrive INT.COMP.CLOSE explain try. 3SG PROX way live try.
+(This solar-energy future culture is a community project of future-imagining stories, art, cloth style, and advocacy. It tries to explain what a society that sustains itself is like and how we can arrive in this future. It tries to live this way.)
 solarpunk: "Solarpunk is a movement in speculative fiction, art, fashion, and activism that seeks to answer and embody the question “what does a sustainable civilization look like, and how can we get there?”"
 ```
 
-**Notes:** `sila rinoka` puts the movement in a community project without pretending it is one institution. Future-imagining stories cover speculative fiction, cloth style covers fashion, and advocacy covers activism. Embodiment arrives in the last sentence, where the answer has to be lived.
+**Notes:** `sila rinoka` places the movement in a community project without pretending it is one institution. Future-imagining stories cover speculative fiction, cloth style covers fashion, and advocacy covers activism. `mesatu` keeps "seeks" as an attempt, while the final sentence gives embodiment the practical shape of living the answer.
 
 ### An aesthetic of joined contrasts
 
 ```
-ha moenu senalu towe kelitho nela mioru shemoli. shia towe noporu nela liro pheno thuroa shemoli. shia keru welisha mioru nela phea muila kethua mioru shemoli.
-PROX culture style well function COORD beautiful harmonize. 3SG well design COORD green full grow harmonize. 3SG bright color beautiful COORD AS earth hard beautiful harmonize.
-(This culture's style harmonizes what functions well with what is beautiful. It harmonizes good design with green, full growth. It harmonizes bright, colorful beauty with earthy, solid beauty.)
+ha moenu senalu towe kelitho nela mioru shemoli. shia towe noporu nela liro pheno thuroa shemoli. shia keru welisha mioru nela phea muila patoku muralo mioru shemoli.
+PROX culture style well function COORD beautiful harmonize. 3SG well design COORD green full grow harmonize. 3SG bright color beautiful COORD AS earth solid material beautiful harmonize.
+(This culture's style harmonizes what functions well with what is beautiful. It harmonizes good design with green, full growth. It harmonizes bright, colorful beauty with earth-like beauty in solid material.)
 solarpunk: "The aesthetics of solarpunk merge the practical with the beautiful, the well-designed with the green and lush, the bright and colorful with the earthy and solid."
 ```
 
-**Notes:** `moenu senalu` treats aesthetics as the characteristic choices shared across the culture's works. Beauty remains one side of each contrast rather than swallowing the practical side. The repeated `shemoli`, harmonize, does the joining.
+**Notes:** `moenu senalu` treats aesthetics as the characteristic choices shared across the culture's works. Beauty remains one side of each contrast rather than swallowing the practical side. `patoku muralo`, solid material, keeps the source's solidity without changing it into hardness.
 
 ### Hope amid calamity
 
 ```
-ha moenu mioru wireo weni po nai. shia li wiroa po nai. sola shia wea mo welao muila lo whu miona meloa keiro po theama. thona shia mawha peloma wireo weni nai. lao muila lo pukea nela lo kipona phelu lo mia lo keiro phelona. li lo pukea shanewi henoi ma nai.
-PROX culture beautiful future imagine POT be. 3SG RESTR hopeful POT be. DISJ 3SG TOWARD CMPR good earth PL REL person persevere way POT care. ADVRS 3SG NONE harmful future imagine be. BECAUSE earth PL danger COORD PL pain hold PL 1SG PL way require. RESTR PL danger notify ENOUGH NEG be.
-(This culture can imagine a beautiful future. It can be simply hopeful, or it can care about the ways people persevere toward a better world, but it is no imagining of a harmful future. Because the world holds dangers and pain, we need ways forward. Warnings of danger alone are not enough.)
+ha moenu mioru wireo weni po nai. shia li wiroa po nai sola shia wea mo welao muila lo whu miona meloa keiro po theama thona shia mawha peloma wireo weni nai. lao mua lo mia muila ru pukeri nela ru kipona si shua lo mia lo keiro phelona. li lo pukea shanewi henoi ma nai.
+PROX culture beautiful future imagine POT be. 3SG RESTR hopeful POT be DISJ 3SG TOWARD CMPR good earth PL REL person persevere way POT care ADVRS 3SG NONE harmful future imagine be. BECAUSE LOC PL 1SG earth INTS damage COORD INTS pain IPFV come PL 1SG PL way require. RESTR PL danger notify ENOUGH NEG be.
+(This culture can imagine a beautiful future. It can be simply hopeful, or it can care about the ways people persevere toward a better world, but it is no imagining of a harmful future. Because much damage and pain are coming upon our world, we need ways. Warnings of danger alone are not enough.)
 solarpunk: "Solarpunk can be utopian, just optimistic, or concerned with the struggles en route to a better world ,  but never dystopian. As our world roils with calamity, we need solutions, not only warnings."
 ```
 
-**Notes:** Utopia and dystopia stay in the source. Phi works with beautiful and harmful future-imagining instead. Calamity arrives as danger and pain, not as a decorative storm. Warnings still fail to count as solutions.
+**Notes:** Utopia and dystopia stay in the source. Phi works with beautiful and harmful future-imagining instead. Calamity arrives as damage and pain already moving through the present, while the source keeps its image of a world in turmoil. Warnings still fail to count as solutions.
 
 ### What the solutions must do
 
 ```
-ha lo keiro ha lo porua phelu. lo mia whuo lo whu lue tholua lioru se phelure kenua welira. lu lo panuri henoi ma nai. lo mia lo shia thua phanuli. lu lo panuri lorua nai. lo mia lo shia phowe. lo mia li lo telua sherewa shaweri. lo mia wei wiso nela wei whu lo mia phowe muila mo phena phoa.
-PROX PL way PROX PL purpose hold. PL 1SG WITHOUT PL REL ABL ancient life PASS store energy thrive. COND PL resource ENOUGH NEG be. PL 1SG PL 3SG fair allocate. COND PL resource abundant be. PL 1SG PL 3SG share. PL 1SG RESTR PL accurate claim advocate. PL 1SG DAT RECP COORD DAT REL PL 1SG share earth CMPR kind do.
-(These ways have these purposes. We thrive without energy stored from ancient life. If resources are not enough, we allocate them fairly. If resources are abundant, we share them. We advocate only accurate claims. We act more kindly toward one another and toward Earth, which we share.)
+ha lo keiro ha lo porua phelu. lo mia whuo lo whu lue tholua lioru se phelure kenua welira. lu lo panuri henoi ma nai. lo mia lo shia thua phanuli. lu lo panuri lorua nai. lo mia lo shia phowe. lu lo panuri henoi nai. lo mia tha lo shia henoi ma nai tho sherewa ma panoru. lu lo panuri lorua ma nai. lo mia tha lo shia lorua nai tho sherewa ma panoru. lo mia wei wiso nela wei whu lo mia phowe muila mo phena phoa.
+PROX PL way PROX PL purpose hold. PL 1SG WITHOUT PL REL ABL ancient life PASS store energy thrive. COND PL resource ENOUGH NEG be. PL 1SG PL 3SG fair allocate. COND PL resource abundant be. PL 1SG PL 3SG share. COND PL resource ENOUGH be. PL 1SG DECL.COMP PL 3SG ENOUGH NEG be DECL.COMP.CLOSE claim NEG support. COND PL resource abundant NEG be. PL 1SG DECL.COMP PL 3SG abundant be DECL.COMP.CLOSE claim NEG support. PL 1SG DAT RECP COORD DAT REL PL 1SG share earth CMPR kind do.
+(These ways have these purposes. We thrive without energy stored from ancient life. If resources are not enough, we allocate them fairly. If resources are abundant, we share them. If resources are enough, we do not support a claim that they are not enough. If resources are not abundant, we do not support a claim that they are abundant. We act more kindly toward one another and toward Earth, which we share.)
 solarpunk: "Solutions to thrive without fossil fuels, to equitably manage real scarcity and share in abundance instead of supporting false scarcity and false abundance, to be kinder to each other and to the planet we share."
 ```
 
-**Notes:** For fossil fuels, Phi says energy stored from ancient life. Scarcity and abundance have to be true before they can guide allocation or sharing. That test preserves the manifesto's attack on manufactured scarcity and empty abundance.
+**Notes:** For fossil fuels, Phi says energy stored from ancient life. Scarcity and abundance have to fit the resources actually present before they can guide allocation or sharing. The final two conditions refuse support for false claims rather than settling for a general preference for accuracy.
 
 ### Four things at once
 
 ```
-ha moenu wireo lunai nela phenui whakeru nela liona keiro nela lo whu se po phoa repora nai.
-PROX culture future vision COORD thoughtful object COORD live way COORD PL REL PASS POT do propose be.
-(This culture is a vision of the future, a thoughtful objection, a way of living, and proposals that can be carried out.)
+ha moenu wireo lunai nela phenui whu lo miona ka remo thena nela liona keiro nela lo whu se po phoa repora nai. lila lo mia mua ha wireo kamo lo shia se po phoa.
+PROX culture future vision COORD thoughtful REL PL person CAUS think thing COORD live way COORD PL REL PASS POT do propose be. PURP PL 1SG LOC PROX future arrive PL 3SG PASS POT do.
+(This culture is a vision of the future, a thoughtful thing that makes people think, a way of living, and proposals that can be carried out. In order that we arrive in this future, they can be carried out.)
 solarpunk: "Solarpunk is at once a vision of the future, a thoughtful provocation, a way of living and a set of achievable proposals to get there."
 ```
 
-**Notes:** `whakeru` is an objection raised for consideration, narrower and less theatrical than provocation. The passive possibility in `whu se po phoa repora` makes the proposals achievable rather than merely attractive.
+**Notes:** Provocation is not necessarily an objection. Phi describes a thoughtful thing that makes people think. The proposals remain achievable, and a following purpose sentence sends them towards the future they are meant to reach.
 
 ---
 
@@ -138,13 +138,13 @@ solarpunk: "Solarpunk embraces a diversity of tactics: there is no single right 
 ### 7. A possible future
 
 ```
-ha moenu newu rolia nila nela reteru nela lo phelui loa. roe ha lo thena miona ta whu po nai wireo thelima. shia luera wireo weni ma lomare. shia li wireo nila. shia ma phirae wireo nai. shia whu po nai wireo nai.
-PROX culture new worth see COORD model COORD PL word give. INS PROX PL thing person one REL POT be future describe. 3SG past future imagine NEG embrace. 3SG RESTR future see. 3SG NEG different future be. 3SG REL POT be future be.
-(This culture gives a new way of seeing that has worth, a model, and words. With these things, a person can describe one possible future. It does not embrace past imagining of the future. It looks only to the future. It is not a different future. It is a future that may be.)
+ha moenu newu nila keiro nela reteru nela lo phelui loa. ha newu nila keiro rolia phelu. roe ha lo thena miona ta wireo thelima. ha moenu luera wireo weni ma lomare. shia li wireo nila. ha wireo phirae wireo ma nai. shia po shua.
+PROX culture new see way COORD model COORD PL word give. PROX new see way worth hold. INS PROX PL thing person one future describe. PROX culture past future imagine NEG embrace. 3SG RESTR future see. PROX future different future NEG be. 3SG POT come.
+(This culture gives a new way of seeing, a model, and words. This new way of seeing has worth. With these things, a person describes one future. This culture does not embrace past imagining of the future. It looks only to the future. This future is not a different future. It may come.)
 solarpunk: "Solarpunk provides a valuable new perspective, a paradigm and a vocabulary through which to describe one possible future. Instead of embracing retrofuturism, solarpunk looks completely to the future. Not an alternative future, but a possible future."
 ```
 
-**Notes:** Perspective is a way of seeing; paradigm is a bounded model; vocabulary is the words available for description. Retrofuturism is past future-imagining. The source's final correction needs almost no expansion: not a different future, but one that may exist.
+**Notes:** Perspective is a way of seeing, and a separate claim gives it worth. A paradigm becomes a model, and vocabulary becomes the words available for description. Retrofuturism is past future-imagining. The future may come, which keeps possibility apart from mere difference.
 
 ### 8. What this futurism values
 
@@ -182,13 +182,13 @@ solarpunk: "Solarpunk is about finding ways to make life more wonderful for us r
 ### 11. Old things, new purposes
 
 ```
-mua lo mia wireo lo mia lo serao thena wei lo newu porua na loa. lo mia lue lo whu lo mia phelu thena lo newu thena na kealo. no weni. lo whu lo keli ketora terura phelu silawo whemori kelu. lo mia lo whu lo terura shelomu miona ko sone.
-LOC PL 1SG future PL 1SG PL old thing DAT PL new purpose NEC give. PL 1SG ABL PL REL PL 1SG hold thing PL new thing NEC create. IMP imagine. PL REL PL device control system hold village waste become. PL 1SG PL REL PL system understand person FOC value.
-(In our future, we must give old things new purposes. We must create new things from what we already hold. Imagine settlements with device-control systems becoming waste. We especially value people who understand systems.)
+mua lo mia wireo lo mia lo serao thena wei lo newu porua na loa. lo mia lue lo whu lo mia phelu thena lo newu thena na kealo. no weni. lo whu lo keli ketora terura phelu whalo silawo whemori se ka kelu thona lo whu lo terura shelomu whalo silawo wemari se kanu.
+LOC PL 1SG future PL 1SG PL old thing DAT PL new purpose NEC give. PL 1SG ABL PL REL PL 1SG hold thing PL new thing NEC create. IMP imagine. PL REL PL device control system hold large village waste PASS CAUS become ADVRS PL REL PL system understand large village member PASS choose.
+(In our future, we must give old things new purposes. We must create new things from what we already hold. Imagine cities with device-control systems being made into waste, while city members who understand systems are chosen.)
 solarpunk: "Our future must involve repurposing and creating new things from what we already have. Imagine “smart cities” being junked in favor of smart citizenry."
 ```
 
-**Notes:** Repurposing is literal: an old thing receives a new purpose. "Smart cities" are settlements with technical control systems, while smart citizenry is people who understand systems. `whemori kelu`, become waste, leaves the source's sharp "junked" intact instead of improving it into recycling.
+**Notes:** Repurposing is literal: an old thing receives a new purpose. "Smart cities" are large settlements with technical control systems, while smart citizenry is made concrete as their members who understand systems. The passive choosing carries "in favor of" instead of leaving the preference to an explanatory note.
 
 ### 12. Politics and science fiction
 
@@ -204,13 +204,13 @@ solarpunk: "Solarpunk recognizes the historical influence politics and science f
 ### 13. Fiction as action
 
 ```
-lo thesori somaki sano weni nophi li loshi wile ma nai. lo shia we shaweri keiro nai. ha moenu ha lo thena miratu.
-PL evidence test know imagine story RESTR joyful play NEG be. PL 3SG ALSO advocate way be. PROX culture PROX PL thing recognize.
-(Stories imagining knowledge made through evidence and testing are not only joyful play. They are also a way to advocate. This culture recognizes both things.)
+lo thesori somaki sano weni nophi nirelo po nai thona lo shia we shaweri keiro nai. ha moenu ha lo thena miratu.
+PL evidence test know imagine story pleasant POT be ADVRS PL 3SG ALSO advocate way be. PROX culture PROX PL thing recognize.
+(Stories imagining knowledge made through evidence and testing can be pleasant, but they are also a way to advocate. This culture recognizes both things.)
 solarpunk: "Solarpunk recognizes science fiction as not just entertainment but as a form of activism."
 ```
 
-**Notes:** Joyful play supplies entertainment without belittling it. Advocacy gives fiction an activist use: the story itself can speak or act for a position.
+**Notes:** Entertainment becomes the pleasure a story can give rather than play performed by the story itself. Advocacy gives fiction an activist use: it can speak or act for a position.
 
 ### 14. Three futures refused
 
@@ -226,56 +226,56 @@ solarpunk: "Solarpunk wants to counter the scenarios of a dying earth, an insupe
 ### 15. Young makers and local systems
 
 ```
-ha moenu helia pilewa moenu nela lo pai sila keiro nela lo pai sila thewaki kenua phaliso nela lo miso ketora terura kealo keiro sone. ha lo terura kelitho. shia muila lothea.
-PROX culture youth make culture COORD PL NEAR community way COORD PL NEAR community electricity energy network COORD PL REFL control system create way value. PROX PL system function. 3SG earth love.
-(This culture values a culture of young makers, nearby community ways, nearby community electrical-energy networks, and ways to create self-controlling systems. These systems function. It loves Earth.)
+ha moenu helia pilewa moenu nela lo pai sila keiro nela lo pai sila thewaki sekaru phaliso nela lo miso ketora terura kealo keiro sone. ha lo terura kelitho. ha moenu muila lothea.
+PROX culture youth make culture COORD PL NEAR community way COORD PL NEAR community electricity transfer network COORD PL REFL control system create way value. PROX PL system function. PROX culture earth love.
+(This culture values a culture of young makers, nearby community ways, nearby community electricity-transfer networks, and ways to create self-controlling systems. These systems function. This culture loves Earth.)
 solarpunk: "Solarpunk is about youth maker culture, local solutions, local energy grids, ways of creating autonomous functioning systems. It is about loving the world."
 ```
 
-**Notes:** Local is a relation to a nearby community, not a promise that small scale is automatically just or sustainable. The energy grids become electrical-energy networks. Technical self-control gives the systems their autonomy, while the following sentence preserves the source's requirement that they actually function.
+**Notes:** Local is a relation to a nearby community, not a promise that small scale is automatically just or sustainable. `thewaki sekaru phaliso`, electricity-transfer network, carries "grid." Technical self-control gives the systems their autonomy, while the following sentence keeps the requirement that they actually function.
 
 ### 16. No culture left outside
 
 ```
-ha moenu theula moenu nela theula phiora therema nela theula sowelu miona nela theula phirae weloni nela theula norea nomei nela theula lothea nela tewema keiro pharune.
-PROX culture UNIV culture COORD UNIV spirit tradition COORD UNIV disabled person COORD UNIV different body COORD UNIV soul name COORD UNIV love COORD partner way include.
-(This culture includes every culture, every spiritual tradition, all disabled people, every different body, every name of the self, and every way of love and partnership.)
+ha moenu theula moenu nela theula phiora therema nela theula sowelu miona nela theula phirae weloni nela theula whu lo miona miso thelima keiro nela theula whu lo miona lothea keiro nela theula tewema keiro pharune.
+PROX culture UNIV culture COORD UNIV spirit tradition COORD UNIV disabled person COORD UNIV different body COORD UNIV REL PL person REFL describe way COORD UNIV REL PL person love way COORD UNIV partner way include.
+(This culture includes every culture, every spiritual tradition, all disabled people, every different body, every way people describe themselves, every way people love, and every way of partnership.)
 solarpunk: "Solarpunk culture includes all cultures, religions, abilities, sexes, genders and sexual identities."
 ```
 
-**Notes:** The English categories stay exact in the source line. Base `sowelu` names disabled people directly instead of turning a person's abilities into the technical capacity of a system. Phi has no universal sex or gender classes, so the translation opens those categories into bodies, self-names, love, and partnership. It cannot preserve every distinction communities make among sex, gender, orientation, and identity.
+**Notes:** The English categories stay exact in the source line. Base `sowelu` names disabled people directly instead of turning a person's abilities into the technical capacity of a system. Phi has no universal sex or gender classes, so the translation opens those categories into bodies, self-description, love, and partnership. It cannot preserve every distinction communities make among sex, gender, orientation, and identity.
 
 ### 17. Beyond mere tolerance
 
 ```
-ha moenu ta remole phelu. theula miona punoa po molei. ha molei li lo phirae miona ma pharune. shia losha ruesha nela kelomi pharune.
-PROX culture one concept hold. UNIV person society POT evolve. PROX evolve RESTR PL different person NEG include. 3SG wide compassionate COORD accept include.
-(This culture holds the concept that human society can evolve. This evolution does not merely include different people. It includes wide compassion and acceptance.)
+ha moenu ta remole phelu. theula miona punoa ka po molei. ha molei li lo phirae miona ma pharune. shia mo losha ruesha nela mo losha kelomi pharune.
+PROX culture one concept hold. UNIV person society CAUS POT evolve. PROX evolve RESTR PL different person NEG include. 3SG CMPR wide compassionate COORD CMPR wide accept include.
+(This culture holds one concept. All people can cause society to evolve. This evolution does not merely include different people. It includes more expansive compassion and more expansive acceptance.)
 solarpunk: "Solarpunk is the idea of humanity achieving a social evolution that embraces not just mere tolerance, but a more expansive compassion and acceptance."
 ```
 
-**Notes:** Tolerance becomes mere inclusion, a deliberately thin threshold. The second movement is wider: compassion answers suffering, while acceptance acknowledges the person who is present. The source's social evolution remains possible rather than guaranteed.
+**Notes:** Humanity acts on the social evolution instead of watching society change by itself. Tolerance becomes mere inclusion, a deliberately thin threshold. Compassion answers suffering, while acceptance makes room for the person who is present; `mo losha` gives both qualities the wider scope the source asks for.
 
 ### 18. An open and evolving aesthetic
 
 ```
-ha moenu whu se nila senalu lo newu thena po pharune. shia si molei. mua nosa shia ha lo keiro nuawe shemoli.
-PROX culture REL PASS see style PL new thing POT include. 3SG IPFV evolve. LOC now 3SG PROX PL way together harmonize.
-(This culture's visible style can include new things. It is evolving. At present it harmonizes the following ways together.)
+ha moenu whu se nila senalu lo newu thena po pharune. shia si molei. mua nosa shia ha lo keiro nuawe pharune.
+PROX culture REL PASS see style PL new thing POT include. 3SG IPFV evolve. LOC now 3SG PROX PL way together include.
+(This culture's visible style can include new things. It is evolving. At present it includes the following ways together.)
 solarpunk: "The visual aesthetics of Solarpunk are open and evolving. As it stands, it is a mash-up of the following:"
 ```
 
 ```
-phora thimu nela norui lokue liona thona nua sheloi wi rolu kolua keli.
-sail time COORD boundary place live ADVRS COM MANY two wheel carry device.
-(The age of sail and life at a frontier, but with many two-wheeled carrying devices.)
+ha senalu phora thimu nela norui lokue liona nai thona shia sheloi kolua keli phelu. ha lo keli wi rolu phelu.
+PROX style sail time COORD boundary place live be ADVRS 3SG MANY carry device hold. PROX PL device two wheel hold.
+(This style is the age of sail and life at a frontier, but it holds many carrying devices. These devices have two wheels.)
 solarpunk: "1800s age-of-sail/frontier living (but with more bicycles)"
 ```
 
 ```
-lo serao sila terura wei lo newu porua phisoe loa. phoe whalo pukea to phoa soli keiro shua. soli keiro mua kuewa nosa nai.
-PL old community system DAT PL new purpose creative give. ANT large danger PST do SOME way come. SOME way LOC strange now be.
-(Old community systems are creatively given new purposes. After a great danger has happened, some ways arise. Some ways exist in a strange present.)
+mua nosa lo sila panoru terura lo newu porua phisoe howela. phoe muila to ru pukeri soli keiro shua. soli keiro mua kuewa nosa nai.
+LOC now PL community support system PL new purpose creative receive. ANT earth PST INTS damage SOME way come. SOME way LOC strange now be.
+(At present, community-support systems creatively receive new purposes. Some ways come after Earth was greatly damaged. Some ways exist in a strange present.)
 solarpunk: "Creative reuse of existing infrastructure (sometimes post-apocalyptic, sometimes present-weird)"
 ```
 
@@ -308,13 +308,13 @@ solarpunk: "Jugaad-style innovation from the non-Western world"
 ```
 
 ```
-lo whu nulo ruka keli monaki phelu terura lo siloma phiro thirulo phelu.
-PL REL deep complex device component hold system PL simple elegant output hold.
-(Systems that hold deep, complex device components have simple, elegant outputs.)
+lo whu lo whu se kupe ruka keli monaki phelu terura lo siloma phiro thirulo phelu.
+PL REL PL REL PASS hide complex device component hold system PL simple elegant output hold.
+(Systems that hold hidden, complex device components have simple, elegant outputs.)
 solarpunk: "High-tech backends with simple, elegant outputs"
 ```
 
-**Notes:** Source boundaries do the most work in this list. The source alone holds the exact 1800s label because Phi's internal exact numerals stop at 242; the Phi line supplies the age of sail and frontier life. A two-wheeled carrying device points toward a bicycle without pretending that every such device is one. Art Nouveau, Hayao Miyazaki, and Jugaad are exact only in the English lines; the Phi phrases say why each sits in the list. "Post-apocalyptic" and "present-weird" mark two times of reuse, while the last item contrasts hidden complexity with a simple output.
+**Notes:** Source boundaries do the most work in this list. The source alone holds the exact 1800s label because Phi's internal exact numerals stop at 242; the Phi line supplies the age of sail and frontier life. A carrying device with two wheels points toward a bicycle without pretending that every such device is one. Art Nouveau, Hayao Miyazaki, and Jugaad are exact only in the English lines; the Phi phrases say why each sits in the list. "Post-apocalyptic" becomes life after great damage to Earth, while "present-weird" keeps its strange present. The last item makes the backend hidden rather than merely deep.
 
 ### 19. Settlements made for walking
 
@@ -341,13 +341,13 @@ solarpunk: "Solarpunk envisions a built environment creatively adapted for solar
 ### 21. From overlords to gardeners
 
 ```
-lila lo mia muila te ka sheru lumeo lo mia lue peloma ruela theali thimu to wepu. lo mia lo thesori somaki sano phue phelu. lo mia roe ha sano lo mia liona mo welao ka kelu. lo mia phea muila monaki nai. lo mia muila karami te phelu. lo mia lo theluo nai. lo mia lo whu thepalu temoe miona nai.
-PURP PL 1SG earth CESS CAUS slow die PL 1SG ABL harmful path fitting time PST go. PL 1SG PL evidence test know wise hold. PL 1SG INS PROX know PL 1SG live CMPR good CAUS become. PL 1SG AS earth component be. PL 1SG earth authority CESS hold. PL 1SG PL steward be. PL 1SG PL REL garden tend person be.
-(To make Earth's slow dying cease, we moved from a harmful path at the fitting time. We hold knowledge from evidence and testing wisely. With this knowledge, we make our living better. We are components of Earth. We cease holding authority over Earth. We are stewards. We are people who tend gardens.)
+lila lo mia muila te ka sheru pukeri lo mia lue peloma ruela theali thimu to wepu. lo mia lo whu roe lo thesori somaki sano phue phoa keiro ki shonela. lo mia roe ha sano lo mia liona mo welao ka kelu. lo mia phea muila monaki nai. lo mia muila karami te phelu. lo mia lo theluo nai. lo mia lo whu thepalu temoe miona nai.
+PURP PL 1SG earth CESS CAUS slow damage PL 1SG ABL harmful path fitting time PST go. PL 1SG PL REL INS PL evidence test know wise do way PFV learn. PL 1SG INS PROX know PL 1SG live CMPR good CAUS become. PL 1SG AS earth component be. PL 1SG earth authority CESS hold. PL 1SG PL steward be. PL 1SG PL REL garden tend person be.
+(To stop causing slow damage to Earth, we moved from a harmful path at the fitting time. We have learned a way to act wisely with knowledge from evidence and testing. With this knowledge, we make our living better. We are components of Earth. We cease holding authority over Earth. We are stewards. We are people who tend gardens.)
 solarpunk: "In Solarpunk we’ve pulled back just in time to stop the slow destruction of our planet. We’ve learned to use science wisely, for the betterment of our life conditions as part of our planet. We’re no longer overlords. We’re caretakers. We’re gardeners."
 ```
 
-**Notes:** The source's "pulled back" is a departure from a harmful path at the fitting time. Evidence-and-testing knowledge is held wisely and used to improve how people live. Overlord appears only in the source; Phi renounces `muila karami`, authority over Earth, before naming steward and garden-tender as the new roles.
+**Notes:** The source's "pulled back" is a departure from a harmful path at the fitting time. Slow damage keeps destruction material instead of turning the planet into a dying organism. What the speakers have learned is a way to act wisely with evidence-and-testing knowledge, which they use to improve how people live. Overlord appears only in the source; Phi renounces `muila karami`, authority over Earth, before naming steward and garden-tender as the new roles.
 
 ### 22. Four final claims
 
@@ -380,13 +380,13 @@ solarpunk: "is beautiful"
 ```
 
 ```
-shia mua nosa po kelu.
-3SG LOC now POT become.
-(It can become now.)
+shia mua nosa po shua.
+3SG LOC now POT come.
+(It can come now.)
 solarpunk: "can happen. Now."
 ```
 
-**Notes:** The source's colon becomes one spoken Phi sentence: this culture holds the following claims. Diversity is made concrete as difference among people, concepts, and practices. Coexistence uses plain `nuawe nai`: spirituality and science can be together without either being asked to absorb the other. The final two sentences retain the manifesto's shortest cadence.
+**Notes:** The source's colon becomes one spoken Phi sentence: this culture holds the following claims. Diversity is made concrete as difference among people, concepts, and practices. Coexistence uses plain `nuawe nai`: spirituality and science can be together without either being asked to absorb the other. `shua`, come, lets the final possibility enter the present without using result-taking `kelu` on its own.
 
 ---
 
@@ -395,15 +395,15 @@ solarpunk: "can happen. Now."
 ```
 sileta kenua wireo moenu lo sherewa.
 
-ha sileta kenua wireo moenu lo wireo weni nophi nela shela nela wetha senalu nela shaweri sila rinoka nai. shia pha thenoki punoa phea hina nai pho solae thueli. shia pha lo mia thela kau ha wireo kamo pho solae thueli. shia ha keiro liona thueli.
+ha sileta kenua wireo moenu lo wireo weni nophi nela shela nela wetha senalu nela shaweri sila rinoka nai. shia pha lo whu miso thenoki punoa phea hina nai pho solae mesatu. shia pha lo mia thela mua ha wireo po kamo pho solae mesatu. shia ha keiro liona mesatu.
 
-ha moenu senalu towe kelitho nela mioru shemoli. shia towe noporu nela liro pheno thuroa shemoli. shia keru welisha mioru nela phea muila kethua mioru shemoli.
+ha moenu senalu towe kelitho nela mioru shemoli. shia towe noporu nela liro pheno thuroa shemoli. shia keru welisha mioru nela phea muila patoku muralo mioru shemoli.
 
-ha moenu mioru wireo weni po nai. shia li wiroa po nai. sola shia wea mo welao muila lo whu miona meloa keiro po theama. thona shia mawha peloma wireo weni nai. lao muila lo pukea nela lo kipona phelu lo mia lo keiro phelona. li lo pukea shanewi henoi ma nai.
+ha moenu mioru wireo weni po nai. shia li wiroa po nai sola shia wea mo welao muila lo whu miona meloa keiro po theama thona shia mawha peloma wireo weni nai. lao mua lo mia muila ru pukeri nela ru kipona si shua lo mia lo keiro phelona. li lo pukea shanewi henoi ma nai.
 
-ha lo keiro ha lo porua phelu. lo mia whuo lo whu lue tholua lioru se phelure kenua welira. lu lo panuri henoi ma nai. lo mia lo shia thua phanuli. lu lo panuri lorua nai. lo mia lo shia phowe. lo mia li lo telua sherewa shaweri. lo mia wei wiso nela wei whu lo mia phowe muila mo phena phoa.
+ha lo keiro ha lo porua phelu. lo mia whuo lo whu lue tholua lioru se phelure kenua welira. lu lo panuri henoi ma nai. lo mia lo shia thua phanuli. lu lo panuri lorua nai. lo mia lo shia phowe. lu lo panuri henoi nai. lo mia tha lo shia henoi ma nai tho sherewa ma panoru. lu lo panuri lorua ma nai. lo mia tha lo shia lorua nai tho sherewa ma panoru. lo mia wei wiso nela wei whu lo mia phowe muila mo phena phoa.
 
-ha moenu wireo lunai nela phenui whakeru nela liona keiro nela lo whu se po phoa repora nai.
+ha moenu wireo lunai nela phenui whu lo miona ka remo thena nela liona keiro nela lo whu se po phoa repora nai. lila lo mia mua ha wireo kamo lo shia se po phoa.
 
 lao lue lo mia wiroa to se pilu lo mia ha moenu wemari nai. lo mia tha lo mia ha wiroa talome tho mesatu.
 
@@ -417,7 +417,7 @@ ha moenu lo nophi moenu nela sila rinoka kolo nai. shia li lo nophi ma reo. shia
 
 ha moenu lo phirae norae kelomi. li ta theali keiro ma nai. lo phirae sila mua theula muila ha nomei nela lo remole pilu. lila punoa ru helui lo shia lo miso thenoki thiku womu lorima.
 
-ha moenu newu rolia nila nela reteru nela lo phelui loa. roe ha lo thena miona ta whu po nai wireo thelima. shia luera wireo weni ma lomare. shia li wireo nila. shia ma phirae wireo nai. shia whu po nai wireo nai.
+ha moenu newu nila keiro nela reteru nela lo phelui loa. ha newu nila keiro rolia phelu. roe ha lo thena miona ta wireo thelima. ha moenu luera wireo weni ma lomare. shia li wireo nila. ha wireo phirae wireo ma nai. shia po shua.
 
 lo mia wireo weni theula rolia nela soliru ma naweri. shia lue whu wea luera karami po shua keiro wepu. shia phisoe thesani nela kealo nela ralemi nela sila sone.
 
@@ -425,25 +425,25 @@ ha moenu litero thenoki nela punoa theloma ko sone.
 
 lila lo mia mua nosa lo mia lioru nela lo mia lumira lioru mo waora ka kelu lo mia lo keiro hekawi.
 
-mua lo mia wireo lo mia lo serao thena wei lo newu porua na loa. lo mia lue lo whu lo mia phelu thena lo newu thena na kealo. no weni. lo whu lo keli ketora terura phelu silawo whemori kelu. lo mia lo whu lo terura shelomu miona ko sone.
+mua lo mia wireo lo mia lo serao thena wei lo newu porua na loa. lo mia lue lo whu lo mia phelu thena lo newu thena na kealo. no weni. lo whu lo keli ketora terura phelu whalo silawo whemori se ka kelu thona lo whu lo terura shelomu whalo silawo wemari se kanu.
 
 ha moenu tha sui luera kowanu nela lo thesori somaki sano weni nophi wiso to ka helui tho miratu.
 
-lo thesori somaki sano weni nophi li loshi wile ma nai. lo shia we shaweri keiro nai. ha moenu ha lo thena miratu.
+lo thesori somaki sano weni nophi nirelo po nai thona lo shia we shaweri keiro nai. ha moenu ha lo thena miratu.
 
 ha moenu tha shia ta shao wireo weni naweri tho rinu. mua ta weni muila sheru lumeo. nu wi weni thei sheloi panuri phelu miona nela phina panuri phelu miona ta whu se po ma phae kopharu phelu. mua nu ta shao weni lo phenori phelu punoki punoa karami phelu. ha porua woe wireo ma nai. lo mia shia po ruweli.
 
-ha moenu helia pilewa moenu nela lo pai sila keiro nela lo pai sila thewaki kenua phaliso nela lo miso ketora terura kealo keiro sone. ha lo terura kelitho. shia muila lothea.
+ha moenu helia pilewa moenu nela lo pai sila keiro nela lo pai sila thewaki sekaru phaliso nela lo miso ketora terura kealo keiro sone. ha lo terura kelitho. ha moenu muila lothea.
 
-ha moenu theula moenu nela theula phiora therema nela theula sowelu miona nela theula phirae weloni nela theula norea nomei nela theula lothea nela tewema keiro pharune.
+ha moenu theula moenu nela theula phiora therema nela theula sowelu miona nela theula phirae weloni nela theula whu lo miona miso thelima keiro nela theula whu lo miona lothea keiro nela theula tewema keiro pharune.
 
-ha moenu ta remole phelu. theula miona punoa po molei. ha molei li lo phirae miona ma pharune. shia losha ruesha nela kelomi pharune.
+ha moenu ta remole phelu. theula miona punoa ka po molei. ha molei li lo phirae miona ma pharune. shia mo losha ruesha nela mo losha kelomi pharune.
 
-ha moenu whu se nila senalu lo newu thena po pharune. shia si molei. mua nosa shia ha lo keiro nuawe shemoli.
+ha moenu whu se nila senalu lo newu thena po pharune. shia si molei. mua nosa shia ha lo keiro nuawe pharune.
 
-phora thimu nela norui lokue liona thona nua sheloi wi rolu kolua keli.
+ha senalu phora thimu nela norui lokue liona nai thona shia sheloi kolua keli phelu. ha lo keli wi rolu phelu.
 
-lo serao sila terura wei lo newu porua phisoe loa. phoe whalo pukea to phoa soli keiro shua. soli keiro mua kuewa nosa nai.
+mua nosa lo sila panoru terura lo newu porua phisoe howela. phoe muila to ru pukeri soli keiro shua. soli keiro mua kuewa nosa nai.
 
 theali lo keli nela lo norae.
 
@@ -453,13 +453,13 @@ ha miona nophi shela.
 
 lo whu nua phina panuri phisoe phoa norae lue lo phirae muila sila shua.
 
-lo whu nulo ruka keli monaki phelu terura lo siloma phiro thirulo phelu.
+lo whu lo whu se kupe ruka keli monaki phelu terura lo siloma phiro thirulo phelu.
 
 lila lo miona mua lo silawo thalo mua ha wireo lo silawo se noporu nela lorima. lo shia litero thenoki.
 
 ha moenu lo whu lo miona lorima lokue weni. lila lo lokue sileta kenua ruweli lo miona roe lo phirae keli nela norae lo shia phisoe hinolu. lo miona wei lo phirae porua lo shia we hinolu. porua ha nai. lo sila miso thenoki. lo shia mua woeli henora liona.
 
-lila lo mia muila te ka sheru lumeo lo mia lue peloma ruela theali thimu to wepu. lo mia lo thesori somaki sano phue phelu. lo mia roe ha sano lo mia liona mo welao ka kelu. lo mia phea muila monaki nai. lo mia muila karami te phelu. lo mia lo theluo nai. lo mia lo whu thepalu temoe miona nai.
+lila lo mia muila te ka sheru pukeri lo mia lue peloma ruela theali thimu to wepu. lo mia lo whu roe lo thesori somaki sano phue phoa keiro ki shonela. lo mia roe ha sano lo mia liona mo welao ka kelu. lo mia phea muila monaki nai. lo mia muila karami te phelu. lo mia lo theluo nai. lo mia lo whu thepalu temoe miona nai.
 
 ha moenu ha lo sherewa phelu.
 
@@ -469,7 +469,7 @@ mua shia phiora therema nela thesori somaki sano nuawe po nai.
 
 shia mioru nai.
 
-shia mua nosa po kelu.
+shia mua nosa po shua.
 ```
 
 ---
@@ -480,28 +480,33 @@ shia mua nosa po kelu.
 |---|---|---|
 | Solarpunk | `sileta kenua wireo moenu`, solar-energy future culture | This is a transparent description, not a community-approved Phi name. The source form remains the only exact designation. |
 | movement, genre, speculative fiction, fashion, activism | community project, story culture, future-imagining stories, cloth style, advocacy | The practices remain recognizable, but the English categories and their histories are wider than these compositions. |
-| aesthetics | `moenu senalu`, a culture's style | Style gathers characteristic choices across works. Beauty, pattern, design, and harmony state the particular relations in the two aesthetic passages. |
+| aesthetics | `moenu senalu`, a culture's style, with practical design, beauty, growth, colour, earth, and solid material stated separately | Style gathers characteristic choices across works. The composition preserves the manifesto's contrasts, but it does not name aesthetics as a field of thought or criticism. |
 | utopian and dystopian | beautiful and harmful future-imagining | The contrast survives, while the political and literary traditions attached to both source terms stay in English. |
 | solutions | `lo keiro`, ways, followed by the outcomes they must secure | Phi has no general solution noun. Medical `heloa` is a remedy for an ailment or discomfort, so the ecological and social answers stay with the practical ways that the following clauses describe. |
 | fossil fuels | energy stored from ancient life | The origin and energy function survive. Coal, petroleum, and gas are not distinguished, and extraction and combustion must be stated separately when they matter. |
 | real and false scarcity or abundance | actual resource sufficiency assessed before fair allocation or sharing | The translation makes truth conditions explicit but does not reproduce the source's economic critique in a single phrase. |
+| thoughtful provocation | a thoughtful thing that makes people think | The intended effect survives without assuming that the provocation is an objection. The source carries its sharper social and rhetorical force. |
 | post-scarcity, post-hierarchy, post-capitalism | enough resources, no high and low authority positions, no authority to exploit granted by ownership | These are testable social relations, not complete definitions of scarcity, hierarchy, or capitalism. |
 | rebellion, counterculture, decolonialism, revolution | refusal of institutional authority, a different path, departure from distant institutional authority, deep social change | The direction remains political. Histories of resistance, colonial rule, land, race, rupture, and organized struggle cannot be recovered from the Phi phrases alone. |
 | retrofuturism, cyberpunk, steampunk | past future-imagining, with the exact genre names in the source | The translation preserves the manifesto's contrasts but not the genres' full bodies of work or visual conventions. |
 | nihilistic and reactionary | refusal of worth and hope; a path toward past authority | Each phrase gives the local argumentative force, not a general definition of either philosophical or political term. |
-| smart cities and smart citizenry | settlements with device-control systems and people who understand systems | The source's wordplay survives as a contrast between technical control and human understanding, but "smart" loses its commercial and policy associations. |
+| smart cities and smart citizenry | large settlements with device-control systems set against their members who understand systems | The choice of informed people over technical control is explicit. The source's repeated "smart" and its commercial and policy associations remain outside the Phi composition. |
 | politics and science fiction | governance and stories imagining evidence-and-testing knowledge | The reciprocal historical influence remains. Both fields are much broader than the selected descriptions. |
+| entertainment and activism | the pleasure a story can give and its use as advocacy | The contrast between enjoyment and political action survives. Neither composition defines the wider cultural or institutional field named by the source. |
 | rich, poor, corporations | people with many or few resources; institutions that hold ownership and authority over society | The material gap remains visible, but income, debt, class, legal personality, and corporate structure require further statements. |
-| religions, abilities, sexes, genders, sexual identities | spiritual traditions, disabled people, bodies, self-names, love, and partnership | The Phi line names disability without turning ability into system capacity and remains inclusive without assigning universal sex or gender classes. It does not preserve every distinction among the source categories, whose exact wording remains beside it. |
+| religions, abilities, sexes, genders, sexual identities | spiritual traditions, disabled people, bodies, self-description, love, and partnership | The Phi line names disability without turning ability into system capacity and remains inclusive without assigning universal sex or gender classes. It does not preserve every distinction among the source categories, whose exact wording remains beside it. |
 | Art Nouveau, Hayao Miyazaki, Jugaad | organic flowing-pattern art, this person's story art, creative methods with few resources | These phrases point toward why the references matter here. Only the source line identifies the movement, artist, and practice exactly. The Phi description does not reproduce the source's division between Western and non-Western worlds. |
-| bicycle | two-wheeled carrying device | The functional outline survives, but the phrase can describe more than a bicycle. |
+| bicycle | a carrying device with two wheels | The functional outline survives, but the phrase can describe more than a bicycle. |
+| existing infrastructure and post-apocalyptic reuse | present community-support systems given new purposes; ways arising after great damage to Earth | The practical relations survive, while the source retains the technical category and the named genre condition. The Phi does not assume that every existing system supports a community. |
+| high-tech backends | systems whose complex device components are hidden | Hidden technical complexity remains in contrast with a simple, elegant output. The computing metaphor and its design traditions remain in the source. |
 | 1800s; hundreds of years | age of sail and frontier life; distant future | Phi's internal exact range ends at 242. The source record preserves both decimal expressions, while the Phi lines state the historical setting and rhetorical distance that matter to each proposition. |
 | New Urbanism and New Pedestrianism | settlements designed for walking | The shared built-environment claim survives; the named schools' separate principles and histories do not. |
 | technology | devices and methods | Phi separates material apparatus from systematic practice. The source's broad technical category spans both and more. |
 | self-sufficiency and natural limits | communities sustaining themselves within natural capacity | Independence does not become isolation, and capacity remains conditioned. The source leaves the relevant scale and limits unstated. |
 | overlords, caretakers, gardeners | ending authority held above Earth; becoming stewards and people who tend gardens | The renounced domination remains explicit without admitting overlord as an ordinary Phi role. Caretaker narrows to stewardship, while gardener becomes an open relative description. |
+| can happen now | can come now | Possibility and the present are explicit. Phi presents the event as something that can arrive rather than using a general verb for happening. |
 
-No new root was coined for this translation. Its difficulty is part of the result: Phi can state the manifesto's claims with the current lexicon, but its analytic expansions make some source terms slower and more contestable than a one-word substitution would.
+This translation needs no new root. Phi can state the manifesto's claims with its current lexicon, though some source terms open into several clauses. The extra room makes their relations slower to say and easier to question than a one-word substitute would.
 
 ---
 
