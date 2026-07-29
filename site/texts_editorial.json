@@ -295,28 +295,32 @@
       "inner_dividers": 1
     },
     "texts/gibran/on_love.md": {
-      "form": "transmutation",
+      "form": "paired",
       "phi_title": "lothea",
       "motif": "heart_radiance",
       "sections": [
+        {
+          "title": "Close translation",
+          "kind": "translation"
+        },
         {
           "title": "Transmutation",
           "kind": "transmutation"
         },
         {
-          "title": "Source boundary",
-          "kind": "apparatus"
+          "title": "What changes between the two renderings",
+          "kind": "comparison"
         }
       ],
       "opening_paragraphs": 2,
-      "interlinear_blocks": 1,
-      "interlinear_stanzas": 16,
+      "interlinear_blocks": 12,
+      "interlinear_stanzas": 71,
       "source_free_blocks": 0,
       "source_free_stanzas": 0,
-      "complete_readings": 0,
-      "notes": 1,
-      "tables": 0,
-      "pillar_sections": 0,
+      "complete_readings": 1,
+      "notes": 12,
+      "tables": 2,
+      "pillar_sections": 5,
       "inner_dividers": 0
     },
     "texts/gibran/on_children.md": {
