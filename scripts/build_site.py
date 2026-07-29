@@ -5220,14 +5220,14 @@ def texts_page(
 """
 
 
-def text_work_nav(works, index, index_label="All texts"):
+def text_work_nav(works, index, index_label="All texts", item_noun="work"):
     """Build previous, contents, and next navigation for a work sequence."""
     links = []
     if index > 0:
         previous = works[index - 1]
         links.append(
             f'<a class="text-work-prev" href="{Path(previous["path"]).stem}.html">'
-            '<span class="text-nav-direction">&lsaquo; Previous work</span>'
+            f'<span class="text-nav-direction">&lsaquo; Previous {item_noun}</span>'
             f'<span class="text-nav-title">{html_module.escape(previous["title"])}</span>'
             "</a>"
         )
@@ -5241,7 +5241,7 @@ def text_work_nav(works, index, index_label="All texts"):
         following = works[index + 1]
         links.append(
             f'<a class="text-work-next" href="{Path(following["path"]).stem}.html">'
-            '<span class="text-nav-direction">Next work &rsaquo;</span>'
+            f'<span class="text-nav-direction">Next {item_noun} &rsaquo;</span>'
             f'<span class="text-nav-title">{html_module.escape(following["title"])}</span>'
             "</a>"
         )
@@ -5838,7 +5838,7 @@ def text_collection_index(readme_source, collection, works):
     match = re.fullmatch(
         r"<h1><em>(.*?)</em></h1>\s*"
         r"<p>(.*?)</p>\s*"
-        r"<h2>Works</h2>\s*"
+        r"<h2>Selections</h2>\s*"
         r"<table>(.*?)</table>",
         body.strip(),
         flags=re.S,
@@ -5851,13 +5851,19 @@ def text_collection_index(readme_source, collection, works):
         raise ValueError(
             f"text collection README structure differs: {collection_path}"
         )
+    lede = mark_text_inline_phi(f"<p>{match.group(2)}</p>")
+    lede_match = re.fullmatch(r"<p>(.*?)</p>", lede, flags=re.S)
+    if lede_match is None:
+        raise ValueError(
+            f"text collection README lede differs: {collection_path}"
+        )
     rows = re.findall(r"<tr>(.*?)</tr>", match.group(3), flags=re.S)
     if not rows:
         raise ValueError(
             f"text collection README has no work table: {collection_path}"
         )
     headers = re.findall(r"<th>(.*?)</th>", rows[0], flags=re.S)
-    if headers != ["Work", "Method", "Text"]:
+    if headers != ["Selection", "Source", "Method", "Text"]:
         raise ValueError(
             f"text collection README headers differ: {collection_path}"
         )
@@ -5868,18 +5874,19 @@ def text_collection_index(readme_source, collection, works):
     for row, work in zip(rows[1:], works):
         cells = re.findall(r"<td>(.*?)</td>", row, flags=re.S)
         _, work_english = text_contents_title(work)
-        if len(cells) != 3:
+        if len(cells) != 4:
             raise ValueError(
                 f"text collection README row differs: {text_repo_path(work)}"
             )
         link = re.fullmatch(
             rf'<a href="{re.escape(Path(work["path"]).stem)}\.html">'
             r"[^<]+</a>",
-            cells[2],
+            cells[3],
         )
         if (
             cells[0] != html_module.escape(work_english, quote=False)
-            or cells[1] != html_module.escape(work["method"], quote=False)
+            or cells[1] != html_module.escape(work["source"], quote=False)
+            or cells[2] != html_module.escape(work["method"], quote=False)
             or link is None
         ):
             raise ValueError(
@@ -5899,7 +5906,7 @@ def text_collection_index(readme_source, collection, works):
             f'<a href="{Path(work["path"]).stem}.html">'
             f'<span class="news-book-chapter-number">{index:02d}</span>'
             '<div class="news-book-chapter-copy">'
-            f'<p class="news-book-chapter-label">Work {index:02d}</p>'
+            f'<p class="news-book-chapter-label">Selection {index:02d}</p>'
             f'<p class="author-collection-work-phi" lang="art-x-phi">'
             f"{html_module.escape(work_phi)}</p>"
             f"<h3>{html_module.escape(work_english)}</h3>"
@@ -5907,12 +5914,13 @@ def text_collection_index(readme_source, collection, works):
             f'{html_module.escape(work["summary"])}</p>'
             "</div>"
             '<div class="news-book-chapter-meta">'
+            f'<p>{html_module.escape(work["source"])}</p>'
             f'<p>{html_module.escape(work["method"])}</p>'
             "</div>"
             f"{news_link_arrow()}"
             "</a></li>"
         )
-    work_noun = "work" if len(works) == 1 else "works"
+    work_noun = "selection" if len(works) == 1 else "selections"
     return (
         '<header class="news-book-header author-collection-header">'
         '<div class="news-book-meta">'
@@ -5932,13 +5940,13 @@ def text_collection_index(readme_source, collection, works):
         "</header>"
         '<section class="news-book-opening author-collection-opening" '
         'data-reader-home>'
-        f'<p class="news-book-lede">{match.group(2)}</p>'
+        f'<p class="news-book-lede">{lede_match.group(1)}</p>'
         "</section>"
         '<section class="news-book-catalogue author-collection-catalogue" '
         'aria-labelledby="author-collection-catalogue-heading">'
         '<header class="news-book-section-heading">'
         '<p class="news-book-section-label">By source work</p>'
-        '<h2 id="author-collection-catalogue-heading">Works available</h2>'
+        '<h2 id="author-collection-catalogue-heading">Selections available</h2>'
         f'<p class="author-collection-count">{len(works):02d} {work_noun}</p>'
         "</header>"
         f'<ol class="news-book-chapter-list">{"".join(work_rows)}</ol>'
@@ -5972,6 +5980,7 @@ for collection in COLLECTIONS:
             collection_works,
             work_index,
             f"{collection_english} contents",
+            "selection",
         )
         (collection_output / f"{source.stem}.html").write_text(
             texts_page(
@@ -6066,7 +6075,7 @@ def text_contents_page(news_chapter_count):
     for collection in COLLECTIONS:
         phi_title, english_title = text_contents_title(collection)
         available = len(COLLECTION_TEXTS_BY_PATH[collection["path"]])
-        work_noun = "work" if available == 1 else "works"
+        work_noun = "selection" if available == 1 else "selections"
         collection_rows.append(
             '<li class="text-index-collection">'
             f'<a href="{collection["path"]}/index.html">'
