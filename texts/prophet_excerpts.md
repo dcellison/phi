@@ -48,9 +48,9 @@ love RESTR DECL.COMP REFL full become DECL.COMP.CLOSE wish.
 (Love wishes only that it become full.)
 gibran: "Love has no other desire but to fulfil itself."
 
-lu whekai thia lothea nela lo pula phelu. su lo ha thia pula nai.
-COND CONTR 2SG love COORD PL wish hold. OPT PL PROX 2SG wish be.
-(But if you love, and hold desires, may these be your desires:)
+lu whekai thia lothea nela lo pula phelu. su thia ha lo pula phelu.
+COND CONTR 2SG love COORD PL wish hold. OPT 2SG PROX PL wish hold.
+(But if you love, and hold desires, may you hold these desires:)
 gibran: "But if you love and must needs have desires, let these be your desires:"
 
 su thia phea whu wei shero meliho thiku luphore kelu.

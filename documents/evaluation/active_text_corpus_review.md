@@ -325,6 +325,10 @@ The repaired paired section corrects a structural problem older vocabulary migra
 | Final comparison | Add `senao keiro` to both renderings | Additive `we` alone said also but did not carry the source's "even as ... so" relation. Same way restores the comparison without pretending the nouns match. |
 | Active dependencies | Update the paired page, its continuous translation, the manual shelf description, the review record, and phonetic-neighbour attestations | The repaired Phi lines recur nowhere else in the active corpus. Gibran's stored source, shelf links, registered compounds, and renderer structure remain unchanged. |
 
+### On Love legacy correction
+
+The whole-file sentence check exposed one older PHS111 error outside the paired On Children work. `lo ha` is a standalone plural pronoun, so the following noun phrase in `su lo ha thia pula nai` made its boundary unrecoverable. The repaired `su thia ha lo pula phelu`, may you hold these desires, repeats the source's possession through the same `phelu` used in the preceding condition. The cited Gibran line, stanza count, vocabulary, and method remain unchanged.
+
 ## Paired review: Tao Te Ching selections
 
 The ground truth is James Legge's complete chapters 8, 11, 17, 63, and 76 from his 1891 *Tao Teh King*, stored in `texts/sources/tao_teh_king_1891.txt`. The close translation has 51 aligned units and 158 unique Phi forms. Its citations consume the complete selected source in order without an uncited word between them, and the continuous Phi block has the same word stream as the detailed rendering. Thirteen optional roots carry distinctions the source needs. The transmutation has 30 aligned units and 104 unique forms, all from the base vocabulary. It follows chapters 17 and 76 from beginning to end, selects the first section of chapter 8, the post-wheel argument of chapter 11, and four moments from chapter 63, and records every omission or redirect in its expanded gap log.
@@ -645,7 +649,7 @@ The source citations and gap logs in each pamphlet hold the detailed decisions. 
 | `texts/babel_text.md` | Translation + transmutation | Reviewed | Complete KJV alignment, translation limits, deliberate Earth and sowing departures, and five-pillar comparison complete. |
 | `texts/human_rights_article_one.md` | Translation + transmutation | Reviewed | Paired source alignment, exact reason and conscience faculties, held obligation, translation limits, gap log, and five-pillar comparison complete. |
 | `texts/little_prince_excerpts.md` | Transmutation | Reviewed | The 36-form base-vocabulary work preserves all three short Woods excerpts, restores the current turn and passive invisibility, and makes its deliberate mutual bond and willing responsibility visible in the derived English. |
-| `texts/prophet_excerpts.md` | Translation + transmutation | Reviewed | Three transmuted teachings checked; On Children now has complete source alignment, translation limits, and a five-pillar comparison. |
+| `texts/prophet_excerpts.md` | Translation + transmutation | Reviewed | Three transmuted teachings checked; On Children has complete source alignment, translation limits, and a five-pillar comparison, while the final On Love deictic-order residue is repaired. |
 | `texts/tao_te_ching.md` | Translation + transmutation | Reviewed | All 51 Legge units align in order; the 158-form close translation follows every proposition, and the 104-form transmutation records each omission or redirect. |
 | `texts/heart_sutra.md` | Translation + transmutation | Reviewed | All 34 Müller units align in order; the 102-form close translation now preserves every printed proposition, and the 79-form transmutation records each deliberate departure. |
 | `texts/ring_verse_refusal.md` | Transmutation | Reviewed | The 17-form base-only refusal keeps Tolkien's inscription exact, narrows its affected people to wearers of the other Rings, and records the deliberate change from purpose to accusation. |
