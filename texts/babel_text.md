@@ -51,55 +51,45 @@ PL clay stone DAT PL 3SG stone PST be. thick black oil DAT PL 3SG REL PL clay st
 (Clay-stones were stone for them. Thick black oil was for them material that connects clay-stones.)
 kjv: "And they had brick for stone, and slime had they for morter."
 
-lo shia to haolu.
-PL 3SG PST speak.
-(They spoke.)
-kjv: "And they said,"
-
-sha su lo mia wei lo mia whalo silawo nela raelu moru lorima. shia raelu shuna mua waero po kamo. su lo mia nomei se sano sho to haolu.
-QUOT.COMP OPT PL 1SG DAT PL 1SG large village COORD tall wall build. 3SG tall edge LOC sky POT arrive. OPT PL 1SG name PASS know QUOT.COMP.CLOSE PST speak.
-("Let us build a great village and a tall wall for ourselves. Its high edge may reach the sky. May our name be known.")
-kjv: "Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name,"
-
-sha lo mia tha lo mia nia theula muila menoa se thiwera tho ma pula sho to haolu.
-QUOT.COMP PL 1SG DECL.COMP PL 1SG ON UNIV earth face PASS scatter DECL.COMP.CLOSE NEG wish QUOT.COMP.CLOSE PST speak.
-("We do not wish to be scattered upon the face of the whole earth.")
-kjv: "lest we be scattered abroad upon the face of the whole earth."
+lo shia sha su lila lo mia nia theula muila menoa so se ma thiwera lo mia wei lo mia whalo silawo nela whu raeli lumae mua waero po kamo torali lorima nela lo mia nomei wei sheloi miona se sano sho to haolu.
+PL 3SG QUOT.COMP OPT PURP PL 1SG ON UNIV earth face FUT PASS NEG scatter PL 1SG DAT PL 1SG large village COORD REL height end LOC sky POT arrive tower build COORD PL 1SG name DAT MANY person PASS know QUOT.COMP.CLOSE PST speak.
+(They said: "So that we will not be scattered upon the face of the whole earth, let us build a great village and a tower whose top may reach the sky for ourselves, and may our name be known to many people.")
+kjv: "And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth."
 ```
 
-**Notes:** The archaic "Go to" joins "let us" as an exhortation, so the optative `su` carries its force instead of pretending that the builders are telling one another to travel. Brick remains the registered `mueri kerou`, clay-stone. The KJV's "slime" is bitumen, so `theru nuko loesi`, thick black oil, describes the substance and `whu lo mueri kerou lorea muralo`, material that connects clay-stones, describes its work as mortar. The city is a great village. The tower is a tall wall whose `raelu shuna`, high edge, may arrive in the sky. `wei lo mia` restores the repeated benefit "for ourselves," while `lo mia nomei se sano`, may our name be known, carries the builders' wish for renown without turning "make a name" into a second Phi idiom. Phi has no dedicated form for "lest," so the builders state the fear inside the quotation: they do not wish to be scattered.
+**Notes:** The archaic "Go to" joins "let us" as an exhortation, so optative `su` carries its force instead of sending the builders anywhere. Brick is the registered `mueri kerou`, clay-stone. The KJV's "slime" is bitumen: `theru nuko loesi`, thick black oil, describes the substance, while `whu lo mueri kerou lorea muralo`, material that connects clay-stones, gives its work as mortar. The city is a great village under Phi's human-scale settlement decision. Work-module `torali` names the tower, and `raeli lumae`, the end of its height, gives the top that may reach the sky. The builders want more than an identifier, so their name becomes known to many people. Purpose-first `lila` moves the feared dispersal before the building undertaken to prevent it.
 
 ### Descent and judgment
 
 ```
-lo miona lo lumira ha whalo silawo nela ha raelu moru to lorima. lila ha lo thena nila whu karami phelu thena lue waero to shua.
-PL person PL descendant PROX large village COORD PROX tall wall PST build. PURP PROX PL thing see REL authority hold thing ABL sky PST come.
-(The descendants of people built this great village and this tall wall. In order to see these things, the being who holds authority came from the sky.)
+lo miona lo lumira whalo silawo nela torali to lorima. lila whu karami phelu limoe whalo silawo nela torali nila whu karami phelu limoe lue waero kau muila to shua.
+PL person PL descendant large village COORD tower PST build. PURP REL authority hold creature large village COORD tower see REL authority hold creature ABL sky ALL earth PST come.
+(The descendants of people built the great village and the tower. In order that the being who holds authority might see them, that being came from the sky to the earth.)
 kjv: "And the LORD came down to see the city and the tower, which the children of men builded."
 
-whu karami phelu thena sha no nila. theula miona ta nai. lo shia ta haluma phelu sho to haolu.
-REL authority hold thing QUOT.COMP IMP see. UNIV person one be. PL 3SG one language hold QUOT.COMP.CLOSE PST speak.
-(The being who holds authority said: "Look. All people are one. They hold one language.")
+whu karami phelu limoe sha no nila. theula miona ta punoa nai. lo shia ta haluma phelu sho to haolu.
+REL authority hold creature QUOT.COMP IMP see. UNIV person one society be. PL 3SG one language hold QUOT.COMP.CLOSE PST speak.
+(The being who holds authority said: "Look. All the people are one society. They hold one language.")
 kjv: "And the LORD said, Behold, the people is one, and they have all one language;"
 
-sha lo shia ha pa phoa. nosa wei lo shia mawha whu lo shia phoa ki weni thena noraku so kelu sho to haolu.
-QUOT.COMP PL 3SG PROX INCH do. now DAT PL 3SG NONE REL PL 3SG do PFV imagine thing blocked FUT become QUOT.COMP.CLOSE PST speak.
+sha lo shia ha pa phoa. nosa mawha whu lo shia phoa ki weni thena wei lo shia noraku so kelu sho to haolu.
+QUOT.COMP PL 3SG PROX INCH do. now NONE REL PL 3SG do PFV imagine thing DAT PL 3SG blocked FUT become QUOT.COMP.CLOSE PST speak.
 ("They begin to do this. Now, for them, no thing they have imagined doing will become blocked.")
 kjv: "and this they begin to do: and now nothing will be restrained from them, which they have imagined to do."
 ```
 
-**Notes:** The title LORD stays exact in the source line. Inside Phi, `whu karami phelu thena` says only what the title makes practical here: a being who holds authority. It does not call that authority legitimate. Coming from the sky supplies the downward motion that Phi lacks a bare adverb for. "Children of men" becomes ungendered descendants of people, not young children. The quoted `no nila`, look, renders "Behold" as an address to attention. Work-module `noraku`, blocked, gives the last claim its negative shape: none of the actions they have imagined will meet an obstacle that stops it.
+**Notes:** LORD appears exactly in the source line. Inside Phi, `whu karami phelu limoe` says only what the title makes practical here: a nonhuman being in the story holds authority. Coming from the sky to the earth carries the downward journey without a dedicated verb for descent. "Children of men" becomes ungendered descendants of people rather than young children. Quoted `no nila`, look, turns "Behold" towards attention. Work-module `noraku`, blocked, preserves the negative prediction: no imagined action will meet an obstacle that stops its next step.
 
 ### Confounding and dispersal
 
 ```
-shia sha su lo mia lue waero kau muila wepu. su lila lo shia lue wiso haolu po ma shelomu lo mia mua ha lokue lo shia haluma kuewa ka kelu sho to haolu.
-3SG QUOT.COMP OPT PL 1SG ABL sky ALL earth go. OPT PURP PL 3SG ABL RECP speak POT NEG understand PL 1SG LOC PROX place PL 3SG language strange CAUS become QUOT.COMP.CLOSE PST speak.
-(The being said: "Let us go from the sky to the earth. Let us make their language unfamiliar in this place so that they cannot understand speech from one another.")
+whu karami phelu limoe sha su lo mia lue waero kau muila wepu. su lila lo shia lue wiso haolu po ma shelomu lo mia mua ha lokue lo shia ta haluma lo phirae haluma ka kelu sho to haolu.
+REL authority hold creature QUOT.COMP OPT PL 1SG ABL sky ALL earth go. OPT PURP PL 3SG ABL RECP speak POT NEG understand PL 1SG LOC PROX place PL 3SG one language PL different language CAUS become QUOT.COMP.CLOSE PST speak.
+(The being who holds authority said: "Let us go from the sky to the earth. Let us cause their one language to become different languages in this place so that they cannot understand speech from one another.")
 kjv: "Go to, let us go down, and there confound their language, that they may not understand one another's speech."
 
-whu karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera.
-REL authority hold thing PL person ABL PROX place ON UNIV earth face PST scatter.
+whu karami phelu limoe lue ha lokue nia theula muila menoa lo miona to thiwera.
+REL authority hold creature ABL PROX place ON UNIV earth face PL person PST scatter.
 (The being who holds authority scattered the people from this place upon the face of the whole earth.)
 kjv: "So the LORD scattered them abroad from thence upon the face of all the earth:"
 
@@ -108,23 +98,18 @@ PL 3SG large village PST CESS build.
 (They ceased building the great village.)
 kjv: "and they left off to build the city."
 
-thelao nomei wei ha whalo silawo se loa.
-CONS name DAT PROX large village PASS give.
-(Therefore a name was given to this great village.)
-kjv: "Therefore is the name of it called Babel;"
+whu karami phelu limoe mua ha lokue theula muila ta haluma lo phirae haluma to ka kelu. thelao nomei wei whalo silawo se loa.
+REL authority hold creature LOC PROX place UNIV earth one language PL different language PST CAUS become. CONS name DAT large village PASS give.
+(The being who holds authority caused the whole earth's one language to become different languages in this place. Therefore a name was given to the great village.)
+kjv: "Therefore is the name of it called Babel; because the LORD did there confound the language of all the earth:"
 
-lao whu karami phelu thena mua ha lokue theula muila haluma kuewa to ka kelu.
-BECAUSE REL authority hold thing LOC PROX place UNIV earth language strange PST CAUS become.
-(Because the being who holds authority caused the whole earth's language to become unfamiliar in this place.)
-kjv: "because the LORD did there confound the language of all the earth:"
-
-whu karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera.
-REL authority hold thing PL person ABL PROX place ON UNIV earth face PST scatter.
+whu karami phelu limoe lue ha lokue nia theula muila menoa lo miona to thiwera.
+REL authority hold creature ABL PROX place ON UNIV earth face PL person PST scatter.
 (The being who holds authority scattered the people from this place upon the face of the whole earth.)
 kjv: "and from thence did the LORD scatter them abroad upon the face of all the earth."
 ```
 
-**Notes:** `kuewa ka kelu`, cause to become unfamiliar, renders the confounding as a deliberate act. The purpose clause secures its intended result: speech from one another can no longer be understood. `thiwera` then gives the source its scattering directly. The actor who holds authority and the absence of a seed comparison leave that dispersal as punishment; the transmutation must add its own comparison and garden coda to change the reading. Babel itself stays in the source citation. Phi can report that the city received a name and why, but it cannot supply the exact name without an accepted Phi-form onym.
+**Notes:** Phi unpacks "confound" into the change and its intended consequence. One shared language becomes different languages, and the purpose clause says that speech from one another can no longer be understood. `thiwera` gives the source its scattering directly. With authority as the actor and no seed comparison, the dispersal reads as punishment. The transmutation changes that reading through its seed and garden. Modifier-first order places the cause of Babel's name before the naming consequence in the Phi block; the King James citation retains its own order. Babel stays in that citation because no accepted Phi-form onym has been given to the source city.
 
 ### Complete translation
 
@@ -135,13 +120,13 @@ theula muila ta haluma nela ta haolu to phelu. lo miona lue sileta thorui to lan
 
 lo shia wei wiso to haolu. sha su lo mia lo mueri kerou pilewa. su lo mia lo ha ru thape sho to haolu. lo mueri kerou wei lo shia kerou to nai. theru nuko loesi wei lo shia whu lo mueri kerou lorea muralo to nai.
 
-lo shia to haolu. sha su lo mia wei lo mia whalo silawo nela raelu moru lorima. shia raelu shuna mua waero po kamo. su lo mia nomei se sano sho to haolu. sha lo mia tha lo mia nia theula muila menoa se thiwera tho ma pula sho to haolu.
+lo shia sha su lila lo mia nia theula muila menoa so se ma thiwera lo mia wei lo mia whalo silawo nela whu raeli lumae mua waero po kamo torali lorima nela lo mia nomei wei sheloi miona se sano sho to haolu.
 
-lo miona lo lumira ha whalo silawo nela ha raelu moru to lorima. lila ha lo thena nila whu karami phelu thena lue waero to shua. whu karami phelu thena sha no nila. theula miona ta nai. lo shia ta haluma phelu sho to haolu. sha lo shia ha pa phoa. nosa wei lo shia mawha whu lo shia phoa ki weni thena noraku so kelu sho to haolu.
+lo miona lo lumira whalo silawo nela torali to lorima. lila whu karami phelu limoe whalo silawo nela torali nila whu karami phelu limoe lue waero kau muila to shua. whu karami phelu limoe sha no nila. theula miona ta punoa nai. lo shia ta haluma phelu sho to haolu. sha lo shia ha pa phoa. nosa mawha whu lo shia phoa ki weni thena wei lo shia noraku so kelu sho to haolu.
 
-shia sha su lo mia lue waero kau muila wepu. su lila lo shia lue wiso haolu po ma shelomu lo mia mua ha lokue lo shia haluma kuewa ka kelu sho to haolu. whu karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera. lo shia whalo silawo to te lorima.
+whu karami phelu limoe sha su lo mia lue waero kau muila wepu. su lila lo shia lue wiso haolu po ma shelomu lo mia mua ha lokue lo shia ta haluma lo phirae haluma ka kelu sho to haolu. whu karami phelu limoe lue ha lokue nia theula muila menoa lo miona to thiwera. lo shia whalo silawo to te lorima.
 
-thelao nomei wei ha whalo silawo se loa. lao whu karami phelu thena mua ha lokue theula muila haluma kuewa to ka kelu. whu karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera.
+whu karami phelu limoe mua ha lokue theula muila ta haluma lo phirae haluma to ka kelu. thelao nomei wei whalo silawo se loa. whu karami phelu limoe lue ha lokue nia theula muila menoa lo miona to thiwera.
 ```
 
 ### Translation limits
@@ -152,14 +137,14 @@ thelao nomei wei ha whalo silawo se loa. lao whu karami phelu thena mua ha lokue
 | Shinar | a plain in the land, with Shinar kept in the source line | The place relation survives, but the Phi passage alone does not identify the land. |
 | Go to, let us | `su lo mia`, let us | The optative carries the exhortation without giving the archaic "Go to" a false motion sense. |
 | brick, slime, mortar | clay-stone and thick black oil as material that connects clay-stones | Brick and the mortar's work survive. `theru nuko loesi` approximates bitumen through appearance and mineral-oil kinship rather than naming asphalt. |
-| city and tower | great village and tall wall with a high edge that may reach the sky | Scale, height, top, and reach survive; the two built forms use transparent descriptions. |
-| make us a name | may our name be known | The wish for renown survives, while Phi states the desired recognition rather than copying the English idiom as if names were being manufactured. |
-| lest we be scattered | the builders do not wish to be scattered | Fear is explicit, but Phi states the attitude instead of subordinating it under "lest." |
-| the LORD | `whu karami phelu thena`, the being who holds authority | The source title stays outside Phi. `karami` reports authority without settling its legitimacy or the actor's nature. |
-| came down | came from the sky | Phi supplies a source for the vertical motion rather than a bare downward adverb. |
+| city and tower | `whalo silawo`, great village, and `torali`, tower | Phi keeps the city human in scale through a transparent compound. The optional Work root names the tower directly, and `torali raeli lumae`, the end of the tower's height, supplies its top. |
+| make us a name | may our name be known to many people | The wish for renown survives, while Phi states the desired recognition rather than copying the English idiom as if names were manufactured. |
+| lest we be scattered | so that we will not be scattered | Phi puts the feared result first as a negative purpose clause, then gives the building meant to prevent it. |
+| the LORD | `whu karami phelu limoe`, the creature who holds authority | The source title stays outside Phi. `karami` reports authority without settling its legitimacy, while `limoe` places the unknown actor beyond ordinary human reference. |
+| came down | came from the sky to the earth | Source and destination together carry the downward motion without a dedicated verb for descent. |
 | children of men | descendants of people | Lineage survives, while the masculine expression and its idiomatic sense of humankind do not. |
 | nothing will be restrained from them | no imagined action will become blocked for them | `noraku` names inability to proceed because of an obstacle, not restraint by an unnamed agent. |
-| confound their language | cause their language to become unfamiliar | The purpose clause supplies the intended loss of reciprocal understanding; `kuewa` itself is gentler than confounding. |
+| confound their language | cause one language to become different languages | The change is stated directly, and its purpose clause retains the intended loss of reciprocal understanding. |
 | scattered abroad | scattered from the place across the earth | `thiwera` carries dispersal without judging it welcome. Only the transmutation compares the people to seeds. |
 | Babel | a name was given, with Babel kept in the source line | The naming event and its cause survive; the exact source name and Hebrew wordplay do not enter the Phi passage. |
 
@@ -167,7 +152,7 @@ thelao nomei wei ha whalo silawo se loa. lao whu karami phelu thena mua ha lokue
 
 ## Transmutation
 
-The transmutation begins from the same verses and changes the actor and the meaning of dispersal. It follows below. Here `thiwera` is exactly the right word: the earth casts people like seed and the coda follows them into gardens.
+The transmutation begins from the same verses but changes the actor and the meaning of dispersal. Here the earth casts people like seed through `thiwera`, and the coda follows them into gardens.
 
 ### ta haolu: One speech
 
@@ -182,13 +167,13 @@ PL person ABL sun beginning PST journey.
 (The people journeyed from the east.)
 kjv: "And it came to pass, as they journeyed from the east,"
 
-lo shia wemo to hekawi. lo shia mua wemo to soki.
-PL 3SG plain PST find. PL 3SG LOC plain PST settle.
-(They found a plain, and they settled there.)
+lo shia mua muila wemo to hekawi. lo shia mua ha lokue to menui.
+PL 3SG LOC earth plain PST find. PL 3SG LOC PROX place PST dwell.
+(They found a plain in the land. They dwelt in that place.)
 kjv: "that they found a plain in the land of Shinar; and they dwelt there."
 ```
 
-**Notes:** the opening keeps both of the verse's terms: `ta haluma nela ta haolu`, one language and one speech, the coined word beside the plain event noun of speaking, as the King James keeps both. The journey is `laniru`, purposeful travel across distance, and "the east" is the compound the registry has always held, `sileta thorui`, the sun's beginning. Shinar is the one thing the verse loses: the name carries no meaning Phi can translate, and this text's custom, like the Babel name itself below, is to keep only the names that mean.
+**Notes:** The opening carries both of the verse's terms: `ta haluma nela ta haolu`, one language and one speech. The journey is `laniru`, purposeful travel across distance, and east is the registry's `sileta thorui`, the sun's beginning. The plain lies inside a land, and the people dwell rather than merely settle. Shinar appears in the source line because this telling has no accepted Phi onym for it.
 
 ### whalo silawo: The great village
 
@@ -208,44 +193,34 @@ PL clay stone DAT PL 3SG stone PST be. mud PL clay stone PST connect.
 (Clay-stones were their stone, and mud connected the clay-stones.)
 kjv: "And they had brick for stone, and slime had they for morter."
 
-lo shia sha su lo mia whalo silawo nela whu mua waero kamo raelu moru lorima sho to haolu.
-PL 3SG QUOT.COMP OPT PL 1SG large village COORD REL LOC sky arrive tall wall build QUOT.COMP.CLOSE PST speak.
-(They said: "Let us build a great village, and a tall wall that arrives at the sky.")
-kjv: "And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven;"
-
-sha su lo mia nomei se sano sho to haolu.
-QUOT.COMP OPT PL 1SG name PASS know QUOT.COMP.CLOSE PST speak.
-("May our name be known.")
-kjv: "and let us make us a name,"
-
-sha lo mia tha lo mia nia theula muila menoa se thiwera tho ma pula sho to haolu.
-QUOT.COMP PL 1SG DECL.COMP PL 1SG ON UNIV earth face PASS scatter DECL.COMP.CLOSE NEG wish QUOT.COMP.CLOSE PST speak.
-("We do not wish to be scattered upon the face of the whole earth.")
-kjv: "lest we be scattered abroad upon the face of the whole earth."
+lo shia sha su lila lo mia nia theula muila menoa so se ma thiwera lo mia wei lo mia whalo silawo nela whu raeli lumae mua waero po kamo torali lorima nela lo mia nomei wei sheloi miona se sano sho to haolu.
+PL 3SG QUOT.COMP OPT PURP PL 1SG ON UNIV earth face FUT PASS NEG scatter PL 1SG DAT PL 1SG large village COORD REL height end LOC sky POT arrive tower build COORD PL 1SG name DAT MANY person PASS know QUOT.COMP.CLOSE PST speak.
+(They said: "So that we will not be scattered upon the face of the whole earth, let us build a great village and a tower whose top may reach the sky for ourselves, and may our name be known to many people.")
+kjv: "And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth."
 ```
 
-**Notes:** the builders speak in the optative throughout, `su lo mia`, let us, may we: the King James's "Go to, let us" is a chain of wishes, and Phi's wish-mood carries every link. Brick is `mueri kerou`, clay-stone, composition doing what a coin would, and the verse of materials stands whole: clay-stone for stone, with `muphia`, mud, joining the pieces. The city is `whalo silawo`, a village grown large: Phi's settlement vocabulary is deliberately human-scale, and the story is about what happens when the scale is exceeded. There is still no tower-word: the tower is a relative clause, `whu mua waero kamo raelu moru`, a tall wall that arrives at the sky, the grammar reaching upward one modifier at a time, which is how towers are built. The builders wish for a known name and fear scattering, `tha ... se thiwera tho ma pula`, on the earth's face, `muila menoa`. They build against the very thing the story will rename as planting.
+**Notes:** The builders speak in the optative, `su lo mia`, let us, and the opening purpose clause gives the fear behind their work. Brick is `mueri kerou`, clay-stone. Here mud joins the pieces, a deliberate earthward departure from the source's bitumen. The city is `whalo silawo`, a village grown large, while Work-module `torali` gives the tower its own shape. Its top may reach the sky, the work benefits the builders themselves, and their name may become known to many people. The later answer to the builders' fear depends on first hearing that fear whole.
 
 ### muila nila: The earth sees
 
 ```
-muila whu lo miona lorima whalo silawo nela raelu moru to nila.
-earth REL PL person build large village COORD tall wall PST see.
-(The earth saw the great village and the tall wall that the people built.)
+muila whu lo miona lo lumira lorima whalo silawo nela torali to nila.
+earth REL PL person PL descendant build large village COORD tower PST see.
+(The earth saw the great village and the tower that the descendants of people built.)
 kjv: "And the LORD came down to see the city and the tower, which the children of men builded."
 
 muila tha theula miona ta punoa nai. lo shia ta haluma phelu tho to sano.
 earth DECL.COMP UNIV person one society be. PL 3SG one language hold DECL.COMP.CLOSE PST know.
-(The earth knew that all the people were one society, and that they held one language.)
+(The earth knew that all the people were one society and that they held one language.)
 kjv: "And the LORD said, Behold, the people is one, and they have all one language;"
 
-lo shia ha pa phoa. nosa lo shia theula whu lo shia phoa ki weni thena po phoa.
-PL 3SG PROX INCH do. now PL 3SG UNIV REL PL 3SG do PFV imagine thing POT do.
-(They begin to do this. Now they can do everything they have imagined doing.)
+lo shia ha pa phoa. nosa lo shia theula whu lo shia phoa ki weni thena so po phoa.
+PL 3SG PROX INCH do. now PL 3SG UNIV REL PL 3SG do PFV imagine thing FUT POT do.
+(They begin to do this. Now they will be able to do everything they have imagined doing.)
 kjv: "and this they begin to do: and now nothing will be restrained from them, which they have imagined to do."
 ```
 
-**Notes:** here the departure begins, and the citations mark it verse by verse. The King James has the LORD come down to see; canon refuses the title along with every vocabulary of rule, and this text's teller is `muila`, the earth itself. The earth needs no descent: it is already everywhere the builders are, so "came down to see" becomes plain seeing, and the LORD's spoken "Behold" becomes the earth's knowing, `tha ... tho sano`, since the ground under a city knows what stands on it. The builders still begin their work in the present moment. The verse's double negative then turns into a plain affirmative: they can do everything they have imagined doing. Nothing here softens their power; only the watcher changes.
+**Notes:** The watcher changes here. The King James has the LORD come down to see; this teller is `muila`, the earth itself. The earth needs no descent because it is already beneath the builders, so coming down becomes seeing and the spoken "Behold" becomes knowing. The descendants build the same city and tower. Their common society and shared language are still present. The source's negative prediction becomes an affirmative statement of future capacity. Nothing here softens the builders' power; only the watcher changes.
 
 ### thiwera: The sowing
 
@@ -255,39 +230,34 @@ one language DAT UNIV earth ENOUGH PST NEG be.
 (One language was not enough for the whole earth.)
 kjv: "Go to, let us go down, and there confound their language, that they may not understand one another's speech."
 
-muila phea lo thinoe lo miona nia theula muila menoa to thiwera.
-earth AS PL seed PL person ON UNIV earth face PST scatter.
-(The earth scattered the peoples like seeds upon the face of all the earth.)
+muila phea lo thinoe nia theula muila menoa lo miona to thiwera.
+earth AS PL seed ON UNIV earth face PL person PST scatter.
+(The earth scattered the people like seeds upon the face of the whole earth.)
 kjv: "So the LORD scattered them abroad from thence upon the face of all the earth:"
 
 lo miona whalo silawo to te lorima.
 PL person large village PST CESS build.
-(And they ceased building the great village.)
+(The people ceased building the great village.)
 kjv: "and they left off to build the city."
-
-ta haluma lo haluma to kelu.
-one language PL language PST become.
-(The one language became many languages.)
-kjv: "because the LORD did there confound the language of all the earth:"
 ```
 
-**Notes:** here the transmutation shows its whole hand, and the verses it stands against are quoted so the distance is measurable. Genesis treats the confusion of tongues as penalty and the scattering as punishment. This version chooses another reading: one language was not enough, `henoi to ma nai`, for so much earth. Where verse eight scatters, the earth sows `phea lo thinoe`, like seeds, on `muila menoa`, the face the builders feared. The repeated phrase lets the story answer their fear with a garden. Confounding becomes the observable change, one language becoming many, while `to te lorima` marks the city's abandonment with the cessative the source requires.
+**Notes:** Here the transmutation shows its whole hand. Genesis treats confused speech and scattering as punishment. This version says that one language was not enough, `henoi to ma nai`, for so much earth. Where verse eight scatters, the earth sows `phea lo thinoe`, like seeds, across the face the builders feared. The comparison changes the act's meaning without concealing what the source says happened. `to te lorima` then marks the city's abandonment with the cessative the source requires.
 
 ### nomei: The name
 
 ```
-thelao silawo nomei lo haluma nai.
-CONS village name PL language be.
-(Therefore the village's name is Many-Languages.)
-kjv: "Therefore is the name of it called Babel;"
+theula muila ta haluma lo phirae haluma to kelu. thelao whalo silawo nomei lo haluma nai.
+UNIV earth one language PL different language PST become. CONS large village name PL language be.
+(The whole earth's one language became different languages. Therefore the great village's name is Many-Languages.)
+kjv: "Therefore is the name of it called Babel; because the LORD did there confound the language of all the earth:"
 
-lue ha lokue muila lo miona to thiwera.
-ABL PROX place earth PL person PST scatter.
-(From this place the earth scattered the peoples.)
+muila lue ha lokue nia theula muila menoa lo miona to thiwera.
+earth ABL PROX place ON UNIV earth face PL person PST scatter.
+(From this place, the earth scattered the people upon the face of the whole earth.)
 kjv: "and from thence did the LORD scatter them abroad upon the face of all the earth."
 ```
 
-**Notes:** Hebrew hears Babel against balal, to confuse: the name is a pun on what happened there. Phi keeps the custom and drops the judgment: the place is named `lo haluma`, the Many Languages, which is simply what it became, and `thelao` carries the verse's own "Therefore." Genesis says the scattering twice, once as act and once as epitaph, and the text keeps both, the second time as the place's own story: from here, the earth scattered the peoples.
+**Notes:** Hebrew hears Babel against *balal*, to confuse: the name is a pun on what happened there. Phi takes the naming custom and changes the judgment. The shared language becomes different languages before `thelao` gives the consequence, a village called `lo haluma`, the Many Languages. Cause-before-consequence is Phi's modifier-first order, even though the citation names Babel before explaining it. Genesis states the scattering twice, and both statements appear here. The second returns to the whole face of the earth instead of shortening the journey.
 
 ### The gardens
 
@@ -301,28 +271,28 @@ ALSO PROX language garden be.
 (This language, too, is a garden.)
 ```
 
-**Notes:** the coda is Phi's own, with no verse behind it and no citation claimed: the sowing frame carried to its conclusion. If the peoples were scattered as seeds, then every language since is one of the gardens that grew. The last line is Phi referring to itself: `ha haluma`, this language.
+**Notes:** The coda is Phi's own, with no verse behind it and no citation claimed. If people were scattered as seeds, every language since is one of the gardens that grew. The last line is Phi referring to itself: `ha haluma`, this language.
 
 ---
 
 ### Transmutation gap log
 
-*Gap log: language → `haluma` (coined from speech's breath and flow, grounded as a shared whole; `lathoe` stays anatomical rather than copying English's tongue metaphor); scatter → `thiwera` (coined for broadcast motion, with the sound of seed inside it); one speech → `ta haolu`, the event noun beside the coined word; journeyed → `laniru`; Shinar → dropped, since names enter this telling only when their meaning matters; "Go to, let us" → the optative `su`; brick → `mueri kerou` (clay-stone); slime for mortar → `muphia` connecting the clay-stones; city → `whalo silawo` (great village); tower → a relative clause for a tall wall reaching the sky; make us a name → the wish that the builders' name be known; lest we be scattered → the fear stated on `muila menoa`, the face of the earth; the LORD → `muila`, earth as teller and agent; nothing will be restrained → the affirmative claim that the builders can do everything they have imagined doing; confound → one language becoming many; punishment → sowing; they left off to build → `to te lorima`; Babel → `lo haluma`, Many Languages. The gardens coda has no biblical source unit. It completes this transmutation's chosen image: diversity grows where the fearful builders expected only loss.*
+*Gap log: language → `haluma`, a shared system of speech; scatter → `thiwera`, broadcast motion that can carry the seed comparison without building it into the verb; one speech → `ta haolu`, the event noun beside `haluma`; journeyed → `laniru`; Shinar → the land relation survives while the exact name stays in the source line; "Go to, let us" → optative `su`; brick → `mueri kerou`, clay-stone; slime for mortar → `muphia` connecting the clay-stones; city → `whalo silawo`, great village; tower → Work-module `torali`, with `torali raeli lumae`, the end of the tower's height, for its top; make us a name → the wish that the builders' name be known to many people; lest we be scattered → a negative purpose clause placed before the work meant to prevent it; the LORD and came down → `muila`, earth as teller and already-present agent; children of men → descendants of people; nothing will be restrained → an affirmative statement of future capacity; confound → the whole earth's one language becoming different languages; punishment → sowing; they left off to build → `to te lorima`; Babel → `lo haluma`, Many Languages. The gardens coda has no biblical source unit. It carries the transmutation's seed comparison to what grows afterward.*
 
 ---
 
 ## What changes between the two renderings
 
-The two versions travel the same road from the east and fire the same clay-stones. Their mortar already shows the methods parting: translation describes bitumen at work, while transmutation finds a mental bond in mud. They also know the builders' fear. The larger break comes when someone looks down. Translation follows the source through judgment and departure. Transmutation puts the earth under the builders' feet, then treats linguistic difference as growth rather than sentence.
+The two versions travel the same road from the east and fire the same clay-stones. Their mortar gives the first small sign of parting: translation describes bitumen at work, while transmutation reaches for ordinary mud. Both now let the builders speak their whole ambition and fear. The larger break comes when someone looks down. Translation follows the source through judgment and departure. Transmutation puts the earth under the builders' feet, then treats linguistic difference as growth rather than sentence.
 
 | Moment | Close translation | Transmutation | Why they diverge |
 |---|---|---|---|
-| Shinar | The plain lies in a land; the exact name stays in the source line. | The plain is found and settled, and Shinar is dropped. | Translation makes the source-name boundary visible as a limit. The transmutation has no use for a name whose meaning does not enter its retelling. |
+| Shinar | The plain lies in a land; the exact name stays in the source line. | The same land relation survives; the exact name also stays in the source line. | Neither method invents an onym merely to make the Phi line look complete. |
 | mortar | Thick black oil is material that connects clay-stones. | Mud connects the clay-stones. | Translation describes the KJV's bitumen and names its masonry work. Transmutation keeps its earthier material and uses physical connection rather than borrowing the interpersonal `nolami` through an English homonym. |
-| city, tower, and name | A great village and a tall wall are built for the builders, the wall's high edge may reach the sky, and their name may be known. | A great village and a tall wall reach toward the sky, and the builders' name may be known. | Translation restores the builders' benefit and the tower's top. Both render the ambition as recognition rather than copying "make a name" into Phi. |
+| city, tower, and name | A great village and a tower are built for the builders, the tower's top may reach the sky, and their name may be known to many people. | The transmutation keeps the same ambition, benefit, possibility, and fear. | The later answer to the builders' fear matters only if both methods first let that fear be heard without abridgment. |
 | the watcher | A being who holds authority comes from the sky to see. | The earth sees from where it already lies. | Translation preserves the practical relation inside LORD without lexicalizing the title. Transmutation changes the agent outright. |
 | human possibility | No action the builders have imagined will become blocked. | The builders begin, then can do everything they have imagined doing. | Translation uses the source's negative prediction. Transmutation keeps the beginning and present moment but turns the prediction into an affirmation of capacity. |
-| confounding | Language is made unfamiliar so that people cannot understand speech from one another. | One language is not enough, and one language becomes many. | Translation preserves intention and communicative loss. Transmutation treats plurality as what a large earth needs. |
+| confounding | One shared language is made into different languages so that people cannot understand speech from one another. | One language is not enough, and the whole earth's shared language becomes different languages. | Translation preserves intention and communicative loss. Transmutation keeps the change while treating plurality as what a large earth needs. |
 | dispersal | Authority scatters people across the earth. | The earth scatters people like seed. | The verb stays neutral in both. The source actor and missing comparison leave the translation punitive; the transmutation supplies the seed and follows it into the garden image. |
 | Babel | The city receives a name; Babel stays in the source line. | The village is named Many-Languages. | Translation will not invent an accepted onym or pretend to reproduce the Hebrew pun. Transmutation writes a new Phi naming story. |
 | ending | People leave the work and are dispersed again in the final account. | Every language is called a garden, and Phi joins the garden. | The source repeats the scattering. The transmutation answers that repetition with a coda of its own. |

@@ -34,7 +34,7 @@ D054 applies the same order to every purpose construction on the reviewed shelf:
 
 | Text | Active attestations changed | Result |
 |---|---:|---|
-| Babel | 2 | Intended communicative loss now precedes the act of making the language unfamiliar. |
+| Babel | 2 | Intended communicative loss now precedes the act that changes one shared language into different languages. |
 | *News from Nowhere*, chapter 2 | 2 | Helping precedes the offered hand; catching fish precedes the journey upriver. |
 | *News from Nowhere*, chapter 3 | 2 | Listening precedes the posture behind the narrator; seeing the departure precedes arrival at the porch. |
 | *The North Wind and the Sun* | 4 | Escape precedes the move into shade in both renderings and their complete copies. |
@@ -202,37 +202,39 @@ The source comparison exposed one lexical gap and one avoidable modal overstatem
 
 ## Paired review: Babel
 
-The ground truth is KJV Genesis 11:1-9 stored in `texts/sources/kjv_genesis.txt`. The close translation uses 83 unique forms and two optional roots: Commons `karami` (authority) and Work `noraku` (blocked). The 70-form transmutation uses base vocabulary throughout. The close rendering remains answerable to all nine verses, while the transmutation marks its departures openly. Neither needs another root.
+The ground truth is KJV Genesis 11:1-9 stored in `texts/sources/kjv_genesis.txt`. The repaired close translation uses 81 unique forms and three optional roots: Commons `karami` authority and Work `noraku` blocked and `torali` tower. The 74-form transmutation uses `torali` as its only optional root. The close rendering remains answerable to all nine verses, while the transmutation keeps source detail until its declared changes of actor, judgement, and image. The review adds `torali`; every other lexical pressure resolves through composition or an existing source boundary.
 
 | Area | Close translation | Transmutation |
 |---|---|---|
-| Source names | Shinar and Babel stay exact beside the Phi. The passage gives the land relation and naming event without assigning adaptations. | Shinar is dropped. Babel becomes `lo haluma`, Many Languages, a semantic place-name made for this retelling. |
-| LORD | The KJV title stays beside the Phi. Inside the passage, `karami` identifies the actor's authority. Legitimacy and nature are separate questions. | `muila`, the earth, replaces the source actor and needs no descent. |
+| Source names | Shinar and Babel stay exact beside the Phi. The passage gives the land relation and naming event without assigning adaptations. | The land relation survives and Shinar stays in the citation. Babel becomes `lo haluma`, Many Languages, a semantic place-name made for this retelling. |
+| LORD | The KJV title stays beside the Phi. Inside the passage, `whu karami phelu limoe` reports a nonhuman story creature who holds authority. Legitimacy and exact nature remain separate questions. | `muila`, the earth, replaces the source actor and needs no descent. |
 | Materials | Brick is the registered clay-stone. The KJV's bitumen becomes thick black oil and connects the clay-stones. | Brick stays clay-stone, while bitumen becomes mud that connects the pieces. |
-| Building | The builders' benefit, the tower's high edge, their wish for a known name, and their fear of dispersal survive. | The settlement's scale and upward reach receive more attention than benefit or top; the known name and fear survive. |
+| Building | A great village and `torali` tower are built for the builders; the top may reach the sky, their name may become known to many people, and a negative purpose clause preserves their fear of dispersal. | The transmutation keeps the same structure, top, benefit, renown, possibility, and fear before it answers that fear differently. |
 | Human possibility | Actions the builders have imagined face no `noraku`, block. | The builders begin in the present moment and can do everything they have imagined doing. |
-| Confounding | Language is deliberately made unfamiliar so speech from one another cannot be understood. | One language is not enough for the earth and becomes many. |
+| Confounding | The whole earth's one language is deliberately changed into different languages so speech from one another cannot be understood. | One language is not enough for the earth, and the shared language becomes different languages without the punitive purpose. |
 | Dispersal | Authority uses `thiwera` to scatter the people from the settlement across the earth. | The earth uses the same verb, compares the people to seed, and follows the comparison into gardens. |
 | Ending | The source's final explanation and repeated dispersal close the account. | Two uncited lines call every language a garden and place Phi among them. |
 
 `thiwera` stays neutral in both passages. It describes broadcast scattering and has an audible kinship with `thinoe`, seed, but it does not make every scattering innocent. Authority is the subject in the translation, and no seed comparison appears, so the punishment remains severe. The transmutation adds that comparison and follows it into gardens. This is the peace-linguistic test: refusing violence in Phi cannot mean concealing violence in a source.
 
-### Post-migration contextual retrofit
+### Fidelity repair
 
-The completed lexicon exposes several semantic shortcuts and an omitted source claim, all repairable with existing words. The table also records why several transparent expressions remain.
+The completed lexicon exposed several semantic shortcuts, dropped source relations, and one genuine gap. The table records the repair and the expressions that remain transparent.
 
 | Question | Disposition | Reason |
 |---|---|---|
 | Brick and ceramic | Preserve registered `mueri kerou` | `mueri kerou`, clay-stone, is Phi's established brick expression and already includes clay hardened for a stone's work. `mueta` names the wider ceramic material class; it would not identify a brick's form or use by itself. |
 | Mortar and bond | Replace material `nolami` and the make-one clause with `lorea` | `nolami` is a mutual bond between beings, not the physical English homonym. In the close translation, bitumen is material that connects clay-stones. In the transmutation, mud connects them directly. |
-| Tower top | Replace close `koma` with `raelu shuna` | The source asks how high the tower's top may reach. A high edge states that relation without extending the anatomical head into an object part. The transmutation's tall wall reaching the sky remains its deliberate simplification. |
-| Name and renown | Replace `nomei pilewa` and `nomei whalo kelu` with passive `sano` | The builders want recognition, not a newly manufactured identifier or a physically large name. "May our name be known" carries the source idiom's ambition in ordinary Phi. |
-| Beginning and imagined action | Preserve close `noraku`; repair the transmutation with `pa phoa`, `nosa`, and `po phoa` | `noraku` keeps the source's negative prediction and its blocked action. The transmutation now restores "begin" and "now," then makes its affirmative turn through actions the builders can do. Bare `kelu` was incomplete because becoming requires a stated result. |
-| Scattering and sowing | Replace close caused going with direct `thiwera`; preserve transmuted `phea lo thinoe` | The same neutral verb can report punitive dispersal and seed-shaped sowing. Authority and the absence of comparison keep the translation severe; seed and garden make the transmutation's ethical departure visible. Direct `thophe` would lose the source's repeated scattering. |
+| Tower and top | Add Work `torali`; use `torali raeli lumae` for the top | `raelu moru`, tall wall, identifies a quality and one possible face rather than the complete structure. The bounded optional root names a freestanding tower or one rising from another building, while the end of its height identifies the upper endpoint without making edge mean top. |
+| Name, renown, and feared dispersal | Use a name known to many people; place the negative future passive outcome under purpose-first `lila` | The builders want public recognition and undertake the work to prevent a feared outcome. The repair carries both relations instead of substituting an identifier and a separate dislike statement. |
+| Downward path and divine actor | Use `lue waero kau muila` around motion; use `whu karami phelu limoe` inside the close Phi | Source and destination supply descent without another root. The exact title remains in the citation, while Phi reports only the nonhuman story participant and authority relation needed in the event. |
+| Beginning and imagined action | Preserve close `noraku`; give the transmutation `pa phoa`, `nosa`, future `so`, and potential `po` | `noraku` keeps the source's negative prediction and blocked action. The transmutation restores begin, now, and future time, then makes its declared affirmative turn through actions the builders will be able to do. |
+| Confounding and intended failure | Replace `kuewa` with caused change from one language to different languages plus a negative purpose clause | Unfamiliarity reports a listener's prior experience, not the source event. The repair states both the caused linguistic change and the intended loss of reciprocal understanding. |
+| Scattering and sowing | Preserve direct `thiwera`; keep transmuted `phea lo thinoe`; put source and extent before the object | The same neutral verb can report punitive dispersal and seed-shaped sowing. Authority and the absence of comparison keep the translation severe; seed and garden make the transmutation's ethical departure visible. Canonical S PP O V order now carries both occurrences. |
 | Face of the earth | Preserve `muila menoa` | The KJV itself offers the bodily image, and both renderings make that metaphor explicit. Replacing it with `muila leko`, earth's surface, would be denotationally tidy but would discard an image that the transmutation later answers with seed and garden. |
-| City, people, and source identities | Preserve `whalo silawo`, close `theula miona ta nai`, transmuted `ta punoa`, and the external Shinar, Babel, and LORD forms | The settlement expression follows the standing city decision. The close version keeps the source's unity claim, while the transmutation interprets it as one society. Exact names and the refused title remain visible beside Phi rather than entering through invented adaptations. |
-| Optional module vocabulary | Preserve close `karami` and `noraku` only | Authority is the practical relation needed to carry LORD inside the translation, and blocked action fits the source prediction. No optional root improves the transmutation. |
-| Active dependencies | Preserve the registered brick row; no repeated Phi excerpt changes elsewhere | The compound registry already defines `mueri kerou` through Babel's material contrast. Searches of the active corpus find the revised sentences only on the paired page, including its complete translation block. |
+| City, people, and source identities | Preserve `whalo silawo`, use `theula miona ta punoa nai` in both renderings, and keep Shinar, Babel, and LORD external | The settlement expression follows the standing city decision, while one society states the source's unity claim more clearly than bare one. Exact names and the title remain visible beside Phi rather than entering through improvised adaptations. |
+| Optional module vocabulary | Use close `karami`, `noraku`, and `torali`; use transmuted `torali` | Authority and blocked action fit the source's relations. Tower belongs to both methods because neither philosophical difference turns the structure into a wall. |
+| Active dependencies | Update the Work profile and speaker chapter, sample-text guide, chapter 7's two repeated Babel sentences, decision register, and generated lexicon references | The source-led root and repaired excerpts must remain identical wherever the project teaches the paired method. |
 
 ## Paired review: Heart Sutra
 

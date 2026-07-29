@@ -1,6 +1,6 @@
 # Work, Craft, and Repair
 
-**Status:** **Established vocabulary module** with 28 module roots coined here, 70 current memberships, and base-vocabulary `winora` plan and `hasoru` pending; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 28 module roots coined here, 71 current memberships, and base-vocabulary `winora` plan and `hasoru` pending; ordinary Phi grammar.
 
 ## Charter
 
@@ -72,13 +72,23 @@ The first pass admits 28 optional roots for recurring work distinctions and plac
 
 All 30 roots established in this pass follow the complete vocabulary schema, pass the lexical validator, and have no character edit-distance-one or flagged existing phonetic neighbors in the pre-coinage audit. Twenty-eight carry `work-craft-and-repair`; `winora` and `hasoru` carry no module field and remain in base vocabulary.
 
+## Towers as complete structures
+
+Babel's tower shows the limit of `raelu moru`, tall wall. That phrase gives the structure height and one possible face without naming the whole. `torali` covers a freestanding tower or one rising from another building; the surrounding phrase can say what it holds, overlooks, or gives access to.
+
+```
+lo miona torali lorima.
+PL person tower build.
+(The people build a tower.)
+```
+
 ## Current prose and completeness
 
 The final prose review migrated all sixteen inherited legacy entries. Each now has a target description and complete articulatory account. Embodied sound symbolism appears only where it honestly fits. Usage guidance and structured examples show the word at work, while direct pillar relations and stable semantic domains place it without padding. The review also removes old claims that treated syllables as meanings or let a noun quietly perform a verb's work.
 
-The completeness gate records thirteen new decisions and links twenty-two earlier ones. Together they keep ordinary workshop, labour, and institutional questions in the right mix of explicit composition and source material. Craft traditions and credentials keep their sources. Legal, economic, and technical identities do as well. No new root was needed; the workshop was already better stocked than its older definitions suggested.
+The completeness gate records thirteen new decisions and links twenty-two earlier ones. Together they keep ordinary workshop, labour, and institutional questions in the right mix of explicit composition and source material. Craft traditions and credentials keep their sources. Legal, economic, and technical identities do as well. That pass needed no new root; the later Babel review added `torali` when a tall wall proved too narrow for the source's tower.
 
-Work, Craft, and Repair retains seventy current memberships and now has no legacy entry. With all eight learning paths complete, every entry in the lexicon follows the target prose contract. The next work is contextual: revisit active Phi passages and change an older workaround only when the present vocabulary is more faithful or natural there.
+Work, Craft, and Repair now has seventy-one current memberships and no legacy entry. With all eight learning paths complete, every entry in the lexicon follows the target prose contract. Further additions remain contextual: revisit an older workaround when the present vocabulary is less faithful or natural than a bounded new root.
 
 ## Concepts Kept Compositional or External
 

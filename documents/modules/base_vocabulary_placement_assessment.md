@@ -1,6 +1,6 @@
 # Base vocabulary placement assessment
 
-**Status:** Complete. Thirty former base roots took 35 module classifications in this review. Later connected reviews have since grown the optional layer to 264 roots and 398 memberships; the [profile index](README.md) carries the current totals, and the counts below record this review's completed snapshot.
+**Status:** Complete. Thirty former base roots took 35 module classifications in this review. Later connected reviews have since grown the optional layer to 266 roots and 400 memberships; the [profile index](README.md) carries the current totals, and the counts below record this review's completed snapshot.
 
 A learner who selects base vocabulary in the explorer should not meet a railway, a guild, a chisel, or a medicinal tonic on the way to ordinary Phi. Those words are still canonical and available to every speaker. Their module labels put them in the learning paths where their meanings do the most work.
 
