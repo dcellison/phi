@@ -4,7 +4,7 @@ A chair comes back from the workshop with one leg pale and new. Whoever sits in 
 
 Like every module, its specialized vocabulary is optional and uses ordinary Phi grammar. A speaker who has not learned it can always ask for a core paraphrase. Learning the words gives no skill or authority over another person's labor; they describe work without handing it out.
 
-The chapter table below introduces 28 module roots. Current classifications and later source-led additions bring the optional learning list to 71 words; base `winora` plan and `hasoru` pending are taught alongside it. The complete list is under [Work, Craft, and Repair in the module lexicon](../lexicon/by_module.md#work-craft-and-repair).
+The chapter table below introduces 28 module roots. Current classifications and later source-led additions bring the optional learning list to 72 words; base `winora` plan and `hasoru` pending are taught alongside it. The complete list is under [Work, Craft, and Repair in the module lexicon](../lexicon/by_module.md#work-craft-and-repair).
 
 ## Core vocabulary used by the module
 
@@ -25,7 +25,7 @@ The sibling modules lend their own tools when work touches their ground: Systems
 
 ## Additional roots in this learning path
 
-Thirteen roots place the module's task and evaluation vocabulary among workshops, studios, working roles, and built forms.
+Fourteen roots place the module's task and evaluation vocabulary among workshops, studios, working roles, and built forms.
 
 | Phi | Working sense | Why it belongs here |
 |---|---|---|
@@ -33,6 +33,7 @@ Thirteen roots place the module's task and evaluation vocabulary among workshops
 | `phaewi` | studio; a place arranged for artistic work | A studio gathers tools and material around a creative practice; light often shapes the room. |
 | `kiru` | chisel; an edged tool for shaping wood, stone, or metal | Its work is narrower than cutting in general and often depends on learned handling. |
 | `weloa` | loom; a frame or machine that holds threads for weaving | The loom is a dedicated textile device, while thread and weaving remain available in base Phi. |
+| `mophiku` | shear; remove an animal's fleece by cutting | Shearing is learned work that brings animal fibre into textile practice. Ecological Systems teaches the same act through its animal and material relations. |
 | `kolai` | pigment; material that supplies color | Pigment is the substance before a maker turns it into paint or dye. |
 | `phanu` | canvas; strong cloth used as a painting surface | Canvas names a particular material in a particular artistic use. |
 | `moloi` | apprentice; a person learning a craft through guided practice | Apprenticeship combines a learning role with work done by hand. |

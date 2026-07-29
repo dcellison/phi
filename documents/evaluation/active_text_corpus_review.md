@@ -98,7 +98,7 @@ Three old detours can now give way to direct base words in both renderings. Each
 
 ## Paired review: Schleicher's fable
 
-The source chain begins with Schleicher's 1868 German rendering in `texts/sources/schleicher_1868.txt`. The controlled English source at `texts/sources/schleicher_1868_english.txt` translates the complete German wording and every explanatory parenthesis, while the German retains Schleicher's square brackets for words absent from his reconstructed Proto-Indo-European text. The close translation uses 63 unique Phi forms; the transmutation uses 60. The first uses Commons `phenori` (ownership), and the second uses `pilora` (exploit), shared by Work and Commons.
+The source chain begins with Schleicher's 1868 German rendering in `texts/sources/schleicher_1868.txt`. The controlled English source at `texts/sources/schleicher_1868_english.txt` translates the complete German wording and every explanatory parenthesis, while the German retains Schleicher's square brackets for words absent from his reconstructed Proto-Indo-European text. Each ordered citation stream reconstructs the complete stored source body exactly. The close translation uses 63 unique Phi forms; the transmutation uses 60. Both use shared Ecological and Work `mophiku` (shear). The first also uses Commons `phenori` (ownership), while the second uses `pilora` (exploit), shared by Work and Commons.
 
 ### Close translation
 
@@ -138,6 +138,22 @@ The post-migration pass checked every content phrase against the completed lexic
 | Warmth, shearing, and bodily consequence | Preserve `sulae`, passive `kati`, and the surrounding clauses | The garment is warm, not hot. The source establishes cutting and missing wool but does not separately establish damage, cruelty, or an act of covering. `sukaro`, `pukeri`, `lerasu`, and `tawemi` would add those claims rather than replace a workaround. |
 | Animal objects of power verbs | Repair the lexicon prose; preserve the Phi | The target entries for `kawhera` and `pilora` had narrowed their objects to people even though the transmutation validly applies coercion to horses and exploitation to sheep. D053 restores animals to both ranges and adds examples without changing a form or gloss. |
 | Optional module vocabulary | Preserve `phenori` and `pilora` only | Commons `phenori` supplies the practical ownership relation required by the close translation. Shared Work and Commons `pilora` supplies the transmutation's analysis. No other optional term makes either rendering more faithful or natural. |
+
+### Full source-fidelity repair
+
+The stricter pass reopens the earlier conclusion that no Phi line needed changing. Generic cutting did not identify shearing, one quoted noun phrase was not a complete assertion, "no longer" survived only in the source line, the transmutation dropped the causal force of "because we know," and the final German alternatives had become several successive departures. The citation stream also omitted the closing quotation mark after the horses' speech. D074 repairs all of them without changing the controlled source.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| Shearing and cut wool | Add shared Ecological and Work `mophiku` and use it in both renderings | `kati` names division by an edge. It did not say that an animal's grown fleece was removed, the distinction Schleicher names twice. The new root keeps the sheep as patient and places the act in both animal-material and textile-work learning paths. |
+| "Listen, sheep" | Preserve canonical `kona mophira. no sheluo.` and repair the derived English | Phi's extra-clausal vocative comes before the directive it accompanies. "Sheep, listen" is an honest natural rendering of that order; the exact source remains beside it. |
+| Master and garment clause | Merge the close rendering's fragment with the causative garment assertion | The person identified through ownership now serves as the subject of one complete sentence. The source title remains exact in English, while Phi states the practical relation and the resulting garment without a stranded noun phrase. |
+| No longer | Replace present `nosa` with past cessative `to te phelu` | "Now have no wool" repeated the resulting state but did not carry the ending of possession. Cessative hold states that transition, while the preceding source-aligned clause still reports the current absence. |
+| Because we know | Restore `lao` in the transmutation | The transmutation has no philosophical reason to turn the source's causal explanation into an unrelated fact. Knowledge again precedes and explains the horses' deep sadness. |
+| Worse off | Preserve reversed comparative `towe` and keep generic bad compositional | The close rendering says that the horses fare better than the sheep. Exact "even worse" remains in the source line, with its unmarked emphasis recorded as a limit. |
+| One final motion | Coordinate turn and quick flight in the close rendering; use one quick flight in the transmutation | Schleicher's parentheses offer escaped and made off as explanations of the same reconstructed motion. The repair no longer makes the sheep depart three times. |
+| Source reconstruction | Add the missing closing quotation mark and combine final citations | Each rendering's ordered citations now reproduce the stored source body exactly, including the end of the horses' quotation. The page heading carries the title. |
+| Active dependencies | Update the paired page, its continuous readings, both module chapters, the decision register, the review record, the site stanza count, generated lexicon references, and phonetic-neighbour attestations | The stored German and controlled English remain unchanged. No other active Phi passage uses the new root. |
 
 ## Translation review: The Metta Sutta
 
@@ -625,7 +641,7 @@ The source citations and gap logs in each pamphlet hold the detailed decisions. 
 | `texts/north_wind_and_sun.md` | Translation + transmutation | Reviewed | Paired source, back-translation, vocabulary, and five-pillar comparison complete. |
 | `texts/metta_sutta.md` | Translation | Reviewed | Full source-fidelity pass complete; two optional roots used where their distinctions matter. |
 | `texts/solarpunk_manifesto.md` | Translation | Reviewed | The 38-unit fidelity pass changes 17 units, aligns a 244-form Phi reading with the complete licensed witness, and uses 33 optional roots across all eight modules without altering a source line. |
-| `texts/schleicher_fable.md` | Translation + transmutation | Reviewed | The post-migration retrofit preserves both renderings and repairs the supporting animal range of `kawhera` and `pilora`. |
+| `texts/schleicher_fable.md` | Translation + transmutation | Reviewed | D074 adds direct shearing, removes a quoted fragment, restores cessative possession and causal knowledge, treats the final glosses as one motion, and makes both citation streams reconstruct the stored source body exactly. |
 | `texts/babel_text.md` | Translation + transmutation | Reviewed | Complete KJV alignment, translation limits, deliberate Earth and sowing departures, and five-pillar comparison complete. |
 | `texts/human_rights_article_one.md` | Translation + transmutation | Reviewed | Paired source alignment, exact reason and conscience faculties, held obligation, translation limits, gap log, and five-pillar comparison complete. |
 | `texts/little_prince_excerpts.md` | Transmutation | Reviewed | The 36-form base-vocabulary work preserves all three short Woods excerpts, restores the current turn and passive invisibility, and makes its deliberate mutual bond and willing responsibility visible in the derived English. |

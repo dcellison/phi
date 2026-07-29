@@ -95,6 +95,7 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [The Little Prince excerpt fidelity repair](#the-little-prince-excerpt-fidelity-repair) | complete | closed | 7 |
 | [Ring Verse refusal fidelity repair](#ring-verse-refusal-fidelity-repair) | complete | closed | 5 |
 | [The Velveteen Rabbit fidelity repair](#the-velveteen-rabbit-fidelity-repair) | complete | closed | 11 |
+| [Schleicher's fable fidelity repair](#schleicher-s-fable-fidelity-repair) | complete | closed | 4 |
 
 ## Core material qualities
 
@@ -896,6 +897,15 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | `CV-PLANT-02` | trunk, petal, mushroom, thicket, orchard, and crop | Compositional | base compounds | See the complete decision under [Plants, animals, and the living world](#plants-animals-and-the-living-world). |
 | `CV-BODY-14` | lifting: raising a thing against its weight | Compositional | base | See the complete decision under [Narrative diagnostic: body, motion, and onset](#narrative-diagnostic-body-motion-and-onset). |
 | `CV-ANIMAL-05` | ant as a recurring familiar animal in ordinary and literary scenes | Implemented | base | Words: `tinemu`. Three appearances in one story made the broad insect word visibly lossy. `tinemu` names the familiar social insect while leaving species, caste, colony structure, and ecological role available to the surrounding account. |
+
+## Schleicher's fable fidelity repair
+
+| ID | Concept | Status | Placement | Decision or return condition |
+|---|---|---|---|---|
+| `CV-ANIMAL-06` | shear as removing an animal's fleece by cutting | Implemented | Ecological Systems and Material Life; Work, Craft, and Repair | Words: `mophiku`. Generic cutting does not say that a grown fleece leaves its living bearer. The optional root keeps the animal as the direct object and gives ecological material discussion and textile work one shared term. |
+| `CV-MOTION-02` | turning aside, escaping, and making off as descriptions of one departure | Compositional | base direction, turning, manner, and flight vocabulary | `wea kosha rato`, `kau kosha reshi phesari`. Schleicher's German offers three descriptions of one motion rather than three successive departures. A turn towards the field followed by quick flight into it preserves the close reading; the transmutation keeps the quick flight alone. The separate verbs expose which part each rendering retains. |
+| `CV-VALUE-02` | generic bad and worse across unrelated kinds of failure, harm, and condition | Compositional | base quality, harm, fault, and comparison vocabulary | `welao ma`, `peloma`, `phelira`, `pukea`, `towe`, `mo`. Phi keeps the property under judgement visible instead of giving every failure one adjective. Harm, danger, error, poor fit, and low wellbeing use their own terms. In Schleicher's fable, reversing the comparison says that the horses fare better than the sheep without adding a generic root for worse. |
+| `CV-ROLE-01` | exact counselling, custodial, academic, religious, and traditional role titles | Source-bound | source institution, profession, lineage, or community beside an ordinary Phi role description | See the complete decision under [Roles, places, relations, and remaining concrete nouns](#roles-places-relations-and-remaining-concrete-nouns). |
 
 ## Prompt sources
 

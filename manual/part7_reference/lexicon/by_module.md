@@ -124,7 +124,7 @@
 
 ## Ecological Systems and Material Life
 
-*55 words in this learning path.*
+*56 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -148,6 +148,7 @@
 | `menuro` | habitat | noun |
 | `mirela` | state | noun |
 | `monaki` | component | noun |
+| `mophiku` | shear | verb |
 | `moreke` | mammal | noun |
 | `morume` | decompose | verb |
 | `mothami` | baseline | noun |
@@ -388,7 +389,7 @@
 
 ## Work, Craft, and Repair
 
-*71 words in this learning path.*
+*72 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -413,6 +414,7 @@
 | `masuro` | calibrate | verb |
 | `moloi` | apprentice | noun |
 | `monaki` | component | noun |
+| `mophiku` | shear | verb |
 | `muphera` | stock | noun |
 | `naseru` | obligation | noun |
 | `nilaki` | inspect | verb |

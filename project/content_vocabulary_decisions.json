@@ -1026,6 +1026,18 @@
         "CV-BODY-14",
         "CV-ANIMAL-05"
       ]
+    },
+    {
+      "id": "schleicher-fable-fidelity-repair",
+      "heading": "Schleicher's fable fidelity repair",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-ANIMAL-06",
+        "CV-MOTION-02",
+        "CV-VALUE-02",
+        "CV-ROLE-01"
+      ]
     }
   ],
   "candidates": [
@@ -3524,7 +3536,8 @@
         "work-craft-repair-module-prose",
         "little-prince-fidelity-repair",
         "ring-verse-fidelity-repair",
-        "velveteen-rabbit-fidelity-repair"
+        "velveteen-rabbit-fidelity-repair",
+        "schleicher-fable-fidelity-repair"
       ]
     },
     {
@@ -5558,6 +5571,56 @@
       ],
       "batches": [
         "ring-verse-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-ANIMAL-06",
+      "concept": "shear as removing an animal's fleece by cutting",
+      "status": "implemented",
+      "placement": "Ecological Systems and Material Life; Work, Craft, and Repair",
+      "summary": "Generic cutting does not say that a grown fleece leaves its living bearer. The optional root keeps the animal as the direct object and gives ecological material discussion and textile work one shared term.",
+      "implementation": {
+        "words": [
+          "mophiku"
+        ],
+        "files": [
+          "vocabulary/content/shear.json"
+        ]
+      },
+      "batches": [
+        "schleicher-fable-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-MOTION-02",
+      "concept": "turning aside, escaping, and making off as descriptions of one departure",
+      "status": "compositional",
+      "placement": "base direction, turning, manner, and flight vocabulary",
+      "summary": "Schleicher's German offers three descriptions of one motion rather than three successive departures. A turn towards the field followed by quick flight into it preserves the close reading; the transmutation keeps the quick flight alone. The separate verbs expose which part each rendering retains.",
+      "expressions": [
+        "wea kosha rato",
+        "kau kosha reshi phesari"
+      ],
+      "batches": [
+        "schleicher-fable-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-VALUE-02",
+      "concept": "generic bad and worse across unrelated kinds of failure, harm, and condition",
+      "status": "compositional",
+      "placement": "base quality, harm, fault, and comparison vocabulary",
+      "summary": "Phi keeps the property under judgement visible instead of giving every failure one adjective. Harm, danger, error, poor fit, and low wellbeing use their own terms. In Schleicher's fable, reversing the comparison says that the horses fare better than the sheep without adding a generic root for worse.",
+      "expressions": [
+        "welao ma",
+        "peloma",
+        "phelira",
+        "pukea",
+        "towe",
+        "mo"
+      ],
+      "batches": [
+        "schleicher-fable-fidelity-repair"
       ]
     }
   ],

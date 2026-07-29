@@ -1789,6 +1789,19 @@ The complete story already had a contextual vocabulary retrofit, but its stricte
 
 The batch adds one base root and no module membership, compound, or grammar. The story has 429 exact Williams fragments across 427 Phi stanzas; 69 stanzas change in this pass. Its 427 unique Phi forms include 14 optional roots with 19 memberships across six modules.
 
+## Schleicher's fable fidelity repair
+
+The paired fable returns to Schleicher's own German explanation and the complete controlled English witness. Both citation streams now reconstruct the source body exactly. The lexical review separates the one recurring craft action that needs a direct word from the title, comparison, and final motion that Phi handles by source boundary or composition.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| Shearing as removal of a fleece | `kati`, `mophi`, `mophira`, new `mophiku`, and `CV-ANIMAL-06` | **IMPLEMENTED** | Generic cutting did not say that the fleece leaves its living bearer. Shared Ecological and Work `mophiku` keeps the animal as direct object and names the act in both animal-material and textile practice. |
+| Master as a source title | Commons `phenori`, exact English *master*, and `CV-ROLE-01` | **SOURCE-BOUND** | The close rendering identifies the practical ownership relation in one complete relative-clause sentence. The transmutation replaces the title with coercion and exploitation, while both keep Schleicher's word in the source witness. |
+| Generic bad and worse | `towe`, `mo`, specific harm and failure vocabulary, and `CV-VALUE-02` | **COMPOSITIONAL** | The close rendering reverses the comparison and says the horses fare better than the sheep. The exact extra emphasis of "even worse" remains in the source line rather than creating one adjective for unrelated negative judgements. |
+| Turning aside, escaping, and making off | `rato`, `wea`, `kau`, `reshi`, `phesari`, and `CV-MOTION-02` | **COMPOSITIONAL** | Schleicher offers three descriptions of one motion. The close rendering combines the turn and quick flight into one departure; the transmutation keeps quick flight alone. |
+
+The batch adds one optional root with two module memberships and no compound or grammar. The close rendering uses 63 unique Phi forms, and the transmutation uses 60.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -1880,4 +1893,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The decision queue is closed. The register holds 64 implemented decisions and 122 compositional decisions. It also preserves 31 deferrals with return conditions, 43 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,294 lexicon entries follow the target prose contract. Fifteen post-migration literary retrofits complete the shelf, the stricter source-fidelity sweep is current through The Velveteen Rabbit, and all seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the paired-text fidelity sweep with the next recorded shelf candidate. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
+The decision queue is closed. The register holds 65 implemented decisions and 124 compositional decisions. It also preserves 31 deferrals with return conditions, 43 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,295 lexicon entries follow the target prose contract. Fifteen post-migration literary retrofits complete the shelf, and the stricter source-fidelity sweep is current through Schleicher's fable. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the paired-text fidelity sweep with the next recorded shelf candidate. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.

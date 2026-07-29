@@ -1,0 +1,40 @@
+{
+  "word": "mophiku",
+  "gloss": "shear",
+  "ipa": "/mo̞.ˈɸi.ku/",
+  "syllables": [
+    "mo",
+    "phi",
+    "ku"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "clip fleece",
+    "remove fleece",
+    "shear fleece",
+    "shear wool"
+  ],
+  "description": "To 'mophiku' a sheep or another fleeced animal is to cut away its grown fleece close to the body. 'kati' names cutting in general; 'mophiku' says that the fleece is removed from the animal.",
+  "articulatory_notes": "Close the lips for voiced nasal 'm' and open into rounded mid-back 'o'. Bring the lips close again for the unvoiced friction of stressed 'phi', then release into high-front 'i'. Close the back of the tongue against the soft palate for 'k' and finish with high-back rounded 'u'.",
+  "sound_symbolism": "The first two syllables repeat all of 'mophi' (wool). Final 'ku' closes at the soft palate and opens into rounded 'u'; the fleece remains audible while the word acquires a firmer edge.",
+  "usage_notes": "The animal stands before the verb as its direct object. Passive 'mophira se mophiku' means a sheep is shorn. A tool takes 'roe'; species, season, purpose, and the animal's condition can be stated around the act. In noun position, 'mophiku' is shearing.",
+  "examples": [
+    {
+      "phi": "miona mophira mophiku.",
+      "translation": "The person shears the sheep."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "The verb keeps the animal in the sentence when its fleece is removed. A speaker can then say how the animal was handled and what it experienced.",
+    "pre-industrial-wisdom": "Shearing joins knowledge of fleece growth and weather to skilled use of the tool. The fitting season depends on the animal and the place."
+  },
+  "semantic_domains": {
+    "activity": "the practical work of removing an animal's fleece by cutting",
+    "creation": "the act that brings grown animal fibre into textile work",
+    "nature": "removing fleece grown on a sheep or similar animal"
+  },
+  "modules": [
+    "ecological-systems-and-material-life",
+    "work-craft-and-repair"
+  ]
+}

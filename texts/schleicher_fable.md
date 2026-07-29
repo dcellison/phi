@@ -2,20 +2,20 @@
 
 *A sheep sees three horses at work. The horses answer by showing the sheep what its missing wool has become. August Schleicher wrote this small fable in reconstructed Proto-Indo-European in 1868 and supplied his own German rendering beside it. That German is stored in `texts/sources/schleicher_1868.txt`; the controlled English at `texts/sources/schleicher_1868_english.txt` contains every claim and explanatory parenthesis used here.*
 
-*This page gives that English source two Phi renderings. The close translation comes first. A new transmutation follows, written from the same source rather than repaired from an earlier Phi version. Each block has the Phi sentence, its exact gloss, a literal English back-translation, and the aligned source wording.*
+*This page gives that English source two Phi renderings. The close translation comes first. The transmutation follows the same source while naming its power relations through Phi's five pillars. Each block has the Phi sentence, its exact gloss, a literal English back-translation, and the aligned source wording.*
 
 ---
 
 ## Close translation
 
-The source asks Phi for two distinctions that ordinary departure and technical load cannot supply. `tupeka` is a burden borne by a living being; `phesari` is flight from danger or constraint. One Commons term also earns its place: `phenori` (ownership) gives Phi a practical relation inside Schleicher's title "master," which stays visible in English.
+The source leans on shearing, not cutting in general. Ecological and Work `mophiku` names the removal of an animal's fleece by cutting; `kati` alone would leave the removal unsaid. Base `tupeka` keeps the great load with its living bearer, and base `phesari` keeps escape apart from ordinary departure. Commons `phenori` gives the close rendering a practical relation inside Schleicher's title "master," while the exact title remains in the English witness.
 
 ### The sheep sees
 
 ```
-whu mophi ma phelu mophira lo kalora to nila. shia mophi to ki se kati.
-REL wool NEG hold sheep PL horse PST see. 3SG wool PST PFV PASS cut.
-(A sheep that held no wool saw horses. Its wool had been cut.)
+whu mophi ma phelu mophira lo kalora to nila. shia to ki se mophiku.
+REL wool NEG hold sheep PL horse PST see. 3SG PST PFV PASS shear.
+(A sheep that held no wool saw horses. It had been shorn.)
 schleicher-en: "A sheep on which there was no wool (a shorn sheep) saw horses:"
 
 ta kalora tumoa rolutha to natu.
@@ -34,7 +34,7 @@ one horse person PST fast carry.
 schleicher-en: "and one swiftly carrying a human being."
 ```
 
-**Notes:** The opening relative clause preserves Schleicher's unusual description, a sheep on which wool was not, then his parenthesis identifies the animal as shorn. The passive perfect `to ki se kati` makes the earlier cutting explicit. Each horse has its own work. `tupeka` locates the great load on a living bearer, while `tumoa` describes the wagon's physical weight.
+**Notes:** The opening relative clause preserves Schleicher's unusual description, a sheep on which wool was not, and the next sentence identifies the animal as already shorn. Perfective passive `to ki se mophiku` names the completed shearing rather than merely reporting cut wool. Each horse has its own work. `tupeka` locates the great load on a living bearer, while `tumoa` describes the wagon's physical weight.
 
 ### The sheep speaks
 
@@ -62,7 +62,7 @@ schleicher-en: "The horses said:"
 
 sha kona mophira. no sheluo sho to haolu.
 QUOT.COMP VOC sheep. IMP listen QUOT.COMP.CLOSE PST speak.
-("Sheep. Listen.")
+("Sheep, listen.")
 schleicher-en: "\"Listen, sheep."
 
 sha lo mia ha ki nila. lo mia korua se peki. lao lo mia ha sano lo mia ru nuhe phaelo sho to haolu.
@@ -70,62 +70,52 @@ QUOT.COMP PL 1SG PROX PFV see. PL 1SG heart PASS squeeze. BECAUSE PL 1SG PROX kn
 ("We have seen this. Our hearts are squeezed. Because we know this, we feel deep sadness.")
 schleicher-en: "The heart is constricted in us who have seen (we are deeply grieved, because we know):"
 
-sha whu lo mophira phenori phelu miona sho to haolu.
-QUOT.COMP REL PL sheep ownership hold person QUOT.COMP.CLOSE PST speak.
-("The human being who holds ownership of the sheep.")
-schleicher-en: "the human being, the master,"
-
-sha ha miona wei miso lo mophira mophi sulae wethalu ka kelu sho to haolu.
-QUOT.COMP PROX person DAT REFL PL sheep wool warm garment CAUS become QUOT.COMP.CLOSE PST speak.
-("This person makes the sheep's wool become a warm garment for themself.")
-schleicher-en: "makes the sheep's wool into a warm garment for himself,"
+sha whu lo mophira phenori phelu miona wei miso lo mophira mophi sulae wethalu ka kelu sho to haolu.
+QUOT.COMP REL PL sheep ownership hold person DAT REFL PL sheep wool warm garment CAUS become QUOT.COMP.CLOSE PST speak.
+("The person who holds ownership of the sheep makes the sheep's wool become a warm garment for themself.")
+schleicher-en: "the human being, the master, makes the sheep's wool into a warm garment for himself,"
 
 sha wei lo mophira mawha mophi nai sho to haolu.
 QUOT.COMP DAT PL sheep NONE wool be QUOT.COMP.CLOSE PST speak.
 ("The sheep have no wool.")
 schleicher-en: "and the sheep have no wool."
 
-sha whekai nosa wei lo mophira mawha mophi nai. lo mophira mophi se kati sho to haolu.
-QUOT.COMP CONTR now DAT PL sheep NONE wool be. PL sheep wool PASS cut QUOT.COMP.CLOSE PST speak.
-("However, now the sheep have no wool. The sheep's wool is cut.")
+sha whekai lo mophira mophi to te phelu. lo mophira se mophiku sho to haolu.
+QUOT.COMP CONTR PL sheep wool PST CESS hold. PL sheep PASS shear QUOT.COMP.CLOSE PST speak.
+("However, the sheep ceased having wool. The sheep are shorn.")
 schleicher-en: "(The sheep, however, no longer have any wool; they are shorn;"
 
 sha lo kalora sheo lo mophira mo towe nai sho to haolu.
 QUOT.COMP PL horse THAN PL sheep CMPR well be QUOT.COMP.CLOSE PST speak.
-("The horses are more well than the sheep.")
-schleicher-en: "they fare even worse than the horses.)"
+("The horses fare better than the sheep.")
+schleicher-en: "they fare even worse than the horses.)\""
 ```
 
-**Notes:** Schleicher first describes the horses as those who have seen, then explains that they know. Phi gives each claim its own clause. The source's *Herr*, master, stays exact in the English line. Since canon admits no Phi title for it, the relative clause gives the nearest practical relation: a person holding `phenori`, ownership, of the sheep. This is a translation limit rather than a refusal of the source. German reflexive *sich* becomes ungendered `miso`; the source's "himself" stays beside it. The final comparison must turn around because Phi has no generic word for *bad* or *worse*: if the sheep fare worse, the horses are more `towe`, well, than the sheep.
+**Notes:** Schleicher first describes the horses as those who have seen, then explains that they know. Phi gives each claim its own clause. The vocative `kona` comes before the directive it accompanies, so the derived English reads "Sheep, listen" while the source keeps "Listen, sheep." The source's *Herr*, master, also stays exact in English. Since canon admits no Phi title for it, one complete relative-clause sentence gives the nearest practical relation: a person holding `phenori`, ownership, of the sheep. German reflexive *sich* becomes ungendered `miso`. Cessative `to te phelu` restores "no longer," and passive `mophiku` restores shearing. The final comparison turns around because Phi has no generic word for *bad* or *worse*: if the sheep fare worse, the horses fare more `towe`, well, than the sheep.
 
 ### The sheep flees
 
 ```
-pheo ha hea mophira kau kosha to rato. shia kau kosha to phesari.
-POST PROX hear sheep ALL field PST turn. 3SG ALL field PST flee.
-(After hearing this, the sheep turned toward the field. It fled into the field.)
-schleicher-en: "Having heard this, the sheep turned aside (escaped) into the field."
-
-shia to reshi pholeni.
-3SG PST fast depart.
-(It departed quickly.)
-schleicher-en: "(It made off.)"
+pheo ha hea mophira wea kosha to rato nela kau kosha to reshi phesari.
+POST PROX hear sheep TOWARD field PST turn COORD ALL field PST fast flee.
+(After hearing this, the sheep turned toward the field and fled quickly into it.)
+schleicher-en: "Having heard this, the sheep turned aside (escaped) into the field. (It made off.)"
 ```
 
-**Notes:** The German gives the ending twice: the sheep turned or escaped into the field, then, in a colloquial parenthesis, made off. `rato` keeps the turn, `phesari` names flight, and `reshi pholeni` supplies the quick departure. The destination is `kosha`, field, rather than the broader `wemo`, plain.
+**Notes:** Schleicher's German offers three descriptions of the same motion: the sheep turned, escaped, or, more colloquially, made off. Phi keeps them within one departure. `wea kosha rato` supplies the turn towards the field, while `kau kosha reshi phesari` carries both escape and the quick leaving. The destination is `kosha`, field, rather than the broader `wemo`, plain.
 
 ### Complete translation
 
 ```
 mophira nela lo kalora
 
-whu mophi ma phelu mophira lo kalora to nila. shia mophi to ki se kati. ta kalora tumoa rolutha to natu. ta kalora ta whalo tupeka to kolua. ta kalora miona to reshi kolua.
+whu mophi ma phelu mophira lo kalora to nila. shia to ki se mophiku. ta kalora tumoa rolutha to natu. ta kalora ta whalo tupeka to kolua. ta kalora miona to reshi kolua.
 
 mophira wei lo kalora to haolu. sha sui mia tha miona lo kalora ka wepu tho nila mia korua se peki. mia ru nuhe phaelo sho to haolu.
 
-lo kalora wei mophira to haolu. sha kona mophira. no sheluo sho to haolu. sha lo mia ha ki nila. lo mia korua se peki. lao lo mia ha sano lo mia ru nuhe phaelo sho to haolu. sha whu lo mophira phenori phelu miona sho to haolu. sha ha miona wei miso lo mophira mophi sulae wethalu ka kelu sho to haolu. sha wei lo mophira mawha mophi nai sho to haolu. sha whekai nosa wei lo mophira mawha mophi nai. lo mophira mophi se kati sho to haolu. sha lo kalora sheo lo mophira mo towe nai sho to haolu.
+lo kalora wei mophira to haolu. sha kona mophira. no sheluo sho to haolu. sha lo mia ha ki nila. lo mia korua se peki. lao lo mia ha sano lo mia ru nuhe phaelo sho to haolu. sha whu lo mophira phenori phelu miona wei miso lo mophira mophi sulae wethalu ka kelu sho to haolu. sha wei lo mophira mawha mophi nai sho to haolu. sha whekai lo mophira mophi to te phelu. lo mophira se mophiku sho to haolu. sha lo kalora sheo lo mophira mo towe nai sho to haolu.
 
-pheo ha hea mophira kau kosha to rato. shia kau kosha to phesari. shia to reshi pholeni.
+pheo ha hea mophira wea kosha to rato nela kau kosha to reshi phesari.
 ```
 
 ### Translation limits
@@ -133,16 +123,15 @@ pheo ha hea mophira kau kosha to rato. shia kau kosha to phesari. shia to reshi 
 | Schleicher's English | Phi rendering | Remaining difference |
 |---|---|---|
 | sheep on which there was no wool | sheep that held no wool | Phi uses ordinary possession rather than German's locative existence. |
-| shorn | wool had been passively cut | The result and earlier event survive without a dedicated shearing verb. |
 | pulling a heavy wagon | `tumoa rolutha natu` | The ordinary pull verb does not specify harness or traction. |
 | great load | `ta whalo tupeka`, one large burden | `tupeka` centers what the horse bears; the source's broad load is slightly wider. |
 | driving the horses | causing the horses to go | The causative preserves external agency but leaves its method unstated. |
 | constricted heart and deep grief | squeezed heart and intense sadness | Phi separates the bodily image from Schleicher's emotional explanation. |
+| Listen, sheep | Sheep, listen | Phi's extra-clausal vocative announces the addressee before the directive. |
 | the master | person who holds ownership of the sheep | The exact domination title stays in English; Phi states one practical relation inside it. |
 | for himself | `wei miso`, for themself | Phi carries the reflexive benefit without grammatical gender. |
-| no longer have wool | now have no wool, after earlier shearing | The time contrast is distributed across the story rather than lexicalized in one phrase. |
 | fare even worse than the horses | horses are more well than sheep | Phi reverses the comparison because generic *bad* and *worse* are absent by design; the extra emphasis of *even* is not separately marked. |
-| turned aside, escaped, made off | turned, fled, departed quickly | Three ordinary motion clauses preserve Schleicher's formal verb and colloquial explanation. |
+| turned aside, escaped, made off | turned towards the field and fled quickly into it | Phi combines Schleicher's three descriptions of one departure instead of making them three events. |
 
 ---
 
@@ -153,9 +142,9 @@ The wagon is still heavy and the sheep still shorn, but the account of power cha
 ### The animals at work
 
 ```
-whu mophi ma phelu mophira lo kalora to nila. shia mophi to ki se kati.
-REL wool NEG hold sheep PL horse PST see. 3SG wool PST PFV PASS cut.
-(A sheep that held no wool saw horses. Its wool had been cut.)
+whu mophi ma phelu mophira lo kalora to nila. shia to ki se mophiku.
+REL wool NEG hold sheep PL horse PST see. 3SG PST PFV PASS shear.
+(A sheep that held no wool saw horses. It had been shorn.)
 schleicher-en: "A sheep on which there was no wool (a shorn sheep) saw horses:"
 
 ta kalora tumoa rolutha to natu.
@@ -174,7 +163,7 @@ one horse person PST fast carry.
 schleicher-en: "and one swiftly carrying a human being."
 ```
 
-**Notes:** The wagon stays heavy, the burden rests on a horse, and a person is carried at speed. The sheep's missing fleece comes from an earlier passive cutting rather than an inborn lack.
+**Notes:** The wagon stays heavy, the burden rests on a horse, and a person is carried at speed. The sheep's missing fleece comes from completed shearing rather than an inborn lack.
 
 ### The sheep speaks
 
@@ -202,12 +191,12 @@ schleicher-en: "The horses said:"
 
 sha kona mophira. no sheluo sho to haolu.
 QUOT.COMP VOC sheep. IMP listen QUOT.COMP.CLOSE PST speak.
-("Sheep. Listen.")
+("Sheep, listen.")
 schleicher-en: "\"Listen, sheep."
 
-sha lo mia ha ki nila. lo mia ha sano. lo mia korua se peki. lo mia ru nuhe phaelo sho to haolu.
-QUOT.COMP PL 1SG PROX PFV see. PL 1SG PROX know. PL 1SG heart PASS squeeze. PL 1SG INTS sadness feel QUOT.COMP.CLOSE PST speak.
-("We have seen this. We know this. Our hearts are squeezed. We feel deep sadness.")
+sha lo mia ha ki nila. lo mia korua se peki. lao lo mia ha sano lo mia ru nuhe phaelo sho to haolu.
+QUOT.COMP PL 1SG PROX PFV see. PL 1SG heart PASS squeeze. BECAUSE PL 1SG PROX know PL 1SG INTS sadness feel QUOT.COMP.CLOSE PST speak.
+("We have seen this. Our hearts are squeezed. Because we know this, we feel deep sadness.")
 schleicher-en: "The heart is constricted in us who have seen (we are deeply grieved, because we know):"
 
 sha ha miona lo kalora kawhera. ha miona lo mophira pilora sho to haolu.
@@ -225,47 +214,42 @@ QUOT.COMP DAT PL sheep NONE wool be QUOT.COMP.CLOSE PST speak.
 ("The sheep have no wool.")
 schleicher-en: "and the sheep have no wool."
 
-sha whekai nosa wei lo mophira mawha mophi nai. lo mophira mophi ro se kati sho to haolu.
-QUOT.COMP CONTR now DAT PL sheep NONE wool be. PL sheep wool HAB PASS cut QUOT.COMP.CLOSE PST speak.
-("However, now the sheep have no wool. The sheep's wool is cut habitually.")
+sha whekai lo mophira mophi to te phelu. lo mophira ro se mophiku sho to haolu.
+QUOT.COMP CONTR PL sheep wool PST CESS hold. PL sheep HAB PASS shear QUOT.COMP.CLOSE PST speak.
+("However, the sheep ceased having wool. The sheep are habitually shorn.")
 schleicher-en: "(The sheep, however, no longer have any wool; they are shorn;"
 
 sha lo kalora nela lo mophira lo phirae tupeka kolua sho to haolu.
 QUOT.COMP PL horse COORD PL sheep PL different burden carry QUOT.COMP.CLOSE PST speak.
 ("The horses and the sheep carry different burdens.")
-schleicher-en: "they fare even worse than the horses.)"
+schleicher-en: "they fare even worse than the horses.)\""
 ```
 
-**Notes:** The transmutation replaces the title *master* with two explicit relations. `kawhera` states constrained choice; `pilora` states disproportionate benefit through power or vulnerability. The garment and the absent fleece supply the evidence for the second claim. Habitual `ro` makes the shearing a pattern, which goes beyond the German present tense deliberately. The last line changes Schleicher's ranking. Horses and sheep carry different burdens, and the story gives no common measure that could make one pain cancel the other.
+**Notes:** The transmutation replaces the title *master* with two explicit relations. `kawhera` states constrained choice; `pilora` states disproportionate benefit through power or vulnerability. The garment and the absent fleece supply the evidence for the second claim. Cessative `to te phelu` keeps "no longer," while habitual passive `ro se mophiku` deliberately makes shearing a pattern. The last line changes Schleicher's ranking. Horses and sheep carry different burdens, and the story gives no common measure that could make one pain cancel the other.
 
 ### The sheep leaves
 
 ```
-pheo ha hea mophira kau kosha to phesari.
-POST PROX hear sheep ALL field PST flee.
-(After hearing this, the sheep fled into the field.)
-schleicher-en: "Having heard this, the sheep turned aside (escaped) into the field."
-
-shia to reshi pholeni.
-3SG PST fast depart.
-(It departed quickly.)
-schleicher-en: "(It made off.)"
+pheo ha hea mophira kau kosha to reshi phesari.
+POST PROX hear sheep ALL field PST fast flee.
+(After hearing this, the sheep fled quickly into the field.)
+schleicher-en: "Having heard this, the sheep turned aside (escaped) into the field. (It made off.)"
 ```
 
-**Notes:** The sheep still leaves alone, and the horses stay under their burdens. The verb `phesari` gives the departure its motive without judging it as cowardice. Recognition changes what the animals know, but it does not solve the scene.
+**Notes:** The sheep still leaves alone, and the horses stay under their burdens. Fast `phesari` gathers escape and making off into one flight without judging it as cowardice. Recognition changes what the animals know, but it does not solve the scene.
 
 ### Complete transmutation
 
 ```
 mophira nela lo kalora
 
-whu mophi ma phelu mophira lo kalora to nila. shia mophi to ki se kati. ta kalora tumoa rolutha to natu. ta kalora ta whalo tupeka to kolua. ta kalora miona to reshi kolua.
+whu mophi ma phelu mophira lo kalora to nila. shia to ki se mophiku. ta kalora tumoa rolutha to natu. ta kalora ta whalo tupeka to kolua. ta kalora miona to reshi kolua.
 
 mophira wei lo kalora to haolu. sha sui mia tha miona lo kalora kawhera tho nila mia korua se peki. mia ru nuhe phaelo sho to haolu.
 
-lo kalora wei mophira to haolu. sha kona mophira. no sheluo sho to haolu. sha lo mia ha ki nila. lo mia ha sano. lo mia korua se peki. lo mia ru nuhe phaelo sho to haolu. sha ha miona lo kalora kawhera. ha miona lo mophira pilora sho to haolu. sha ha miona wei miso lo mophira mophi sulae wethalu ka kelu sho to haolu. sha wei lo mophira mawha mophi nai sho to haolu. sha whekai nosa wei lo mophira mawha mophi nai. lo mophira mophi ro se kati sho to haolu. sha lo kalora nela lo mophira lo phirae tupeka kolua sho to haolu.
+lo kalora wei mophira to haolu. sha kona mophira. no sheluo sho to haolu. sha lo mia ha ki nila. lo mia korua se peki. lao lo mia ha sano lo mia ru nuhe phaelo sho to haolu. sha ha miona lo kalora kawhera. ha miona lo mophira pilora sho to haolu. sha ha miona wei miso lo mophira mophi sulae wethalu ka kelu sho to haolu. sha wei lo mophira mawha mophi nai sho to haolu. sha whekai lo mophira mophi to te phelu. lo mophira ro se mophiku sho to haolu. sha lo kalora nela lo mophira lo phirae tupeka kolua sho to haolu.
 
-pheo ha hea mophira kau kosha to phesari. shia to reshi pholeni.
+pheo ha hea mophira kau kosha to reshi phesari.
 ```
 
 ### Transmutation gap log
@@ -275,11 +259,10 @@ pheo ha hea mophira kau kosha to phesari. shia to reshi pholeni.
 | driving the horses | `lo kalora kawhera`, coerce the horses | Neutral external causation becomes an explicit judgment about constrained choice. |
 | the master | the human who coerces horses and exploits sheep | Phi refuses the domination title but exposes the relations that the title would otherwise compress. |
 | garment for himself | warm garment for `miso` | The benefit still goes to the human; grammatical gender falls away. |
-| sheep no longer have wool and are shorn | present absence plus habitual passive shearing | The transmutation makes the repeated material pattern explicit. |
+| sheep no longer have wool and are shorn | ceased possession plus habitual passive `mophiku` | The transmutation preserves the ending of possession and makes shearing a recurring pattern. |
 | sheep fare worse than horses | horses and sheep carry different burdens | A ranking becomes non-equivalence. Neither burden minimizes the other. |
-| turned aside, escaped | `phesari`, flee | The motive in escape receives one direct verb. |
-| made off | departed quickly | The colloquial force survives without pretending that ordinary running means flight. |
-| specialist vocabulary | `pilora` from Work and Commons | Exploitation earns its sharper optional term; all other forms are base or Commons `phenori` in the close translation. |
+| turned aside, escaped, made off | `reshi phesari`, flee quickly | The transmutation keeps the escape and colloquial speed while leaving the turn outside its Phi line. |
+| specialist vocabulary | `mophiku` from Ecological and Work; `pilora` from Work and Commons | Shearing and exploitation receive their narrower optional terms. |
 
 ---
 
@@ -292,13 +275,13 @@ Both renderings begin with the same bodies under weight and end with the same sh
 | the horses' movement | A human causes the horses to go. | A human coerces the horses. | Translation preserves the source action without deciding its method. Transmutation judges the labor relation shown by the scene. |
 | the master | A person holds ownership of the sheep; the exact title stays in English. | The title disappears, while coercion and exploitation are stated. | Canon refuses *master* as ordinary Phi vocabulary. Translation preserves its nearest practical relation; transmutation refuses its rank while retaining its power. |
 | the wool | Wool becomes a garment for the human. The sheep have none. | The same transfer is evidence for exploitation. | Translation reports the material sequence. Transmutation evaluates who benefits and who loses protection. |
-| repeated shearing | Sheep are shorn in the present explanation. | Their wool is habitually cut. | The transmutation turns a present condition into a recurring pattern. |
+| repeated shearing | Sheep are shorn. | Sheep are habitually shorn. | The transmutation turns the source's present condition into a recurring pattern. |
 | worse than the horses | Horses are more well than sheep. | Horses and sheep carry different burdens. | Translation reconstructs the comparison without a word for *worse*. Transmutation refuses a single scale for unlike harms. |
-| flight | The sheep turns, flees into the field, and makes off. | The sheep flees and departs quickly. | Translation gives each German expression a Phi motion. Transmutation keeps the escape but removes the doubled description. |
+| flight | The sheep turns towards the field and flees quickly into it. | The sheep flees quickly into the field. | Translation keeps the turn. Transmutation keeps only the flight that answers the scene's constraint. |
 
 ### Solarpunk values
 
-The wagon, garment, animal bodies, and wool form one material system. The close translation shows the transfers without approving them. The transmutation asks the question that an efficient inventory can miss: whose body carries the burden, and who receives the warmth?
+The wagon, garment, animal bodies, and wool form one material system. The close translation shows each transfer without approving it. The transmutation asks what an efficient inventory may miss: whose body carries the burden, and who receives the warmth?
 
 ### Secular Buddhist philosophy
 
@@ -306,7 +289,7 @@ Both renderings begin ethical attention in the body, with a heart squeezed by wh
 
 ### Art Nouveau aesthetics
 
-Schleicher's line moves through curved backs, fleece, garment, and open field. The close translation follows each turn separately. The transmutation draws coercion and benefit along the same line, so the material curve does not become ornament detached from the bodies that make it possible.
+The fable is tactile before it is abstract: fleece becomes a garment, weight settles on backs, and the sheep reaches open ground. The close translation keeps those materials visible. The transmutation keeps them visible too, then refuses to let their beauty hide the bodies from which they came.
 
 ### Peace linguistics
 
@@ -314,6 +297,6 @@ Refusing *master* can hide domination as easily as it can deny honor. The close 
 
 ### Pre-industrial wisdom
 
-Wool, wagons, harnessed motion, and animal labor belong to old material knowledge. Nostalgia cannot do the accounting. The skill of making a warm garment and the burden placed on a living body are true at the same time.
+Wool, wagons, harnessed motion, and animal labor belong to old material knowledge. Nostalgia cannot do the accounting. The skill of making a warm garment and the burden placed on a living body remain true at the same time.
 
-The transmutation withholds the title and refuses to let the power vanish with it.
+The fibre's journey from `mophi` to `wethalu` is simple. The relations around it are not.
