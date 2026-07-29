@@ -1,10 +1,32 @@
 {
   "works": [
     {
-      "path": "the_prophet.md",
-      "title": "phewo phelui \u2014 The Prophet, selections",
+      "path": "on_love.md",
+      "title": "lothea \u2014 On Love",
+      "source": "The Prophet (1923)",
+      "method": "Transmutation",
+      "summary": "Love gives and takes from itself, then the source's desires become Phi blessings carried by the optative."
+    },
+    {
+      "path": "on_children.md",
+      "title": "phomila \u2014 On Children",
+      "source": "The Prophet (1923)",
       "method": "Translation + transmutation",
-      "summary": "The speaker turns from love to children, giving, and work. On Children and On Work each have a close translation and a transmutation; On Love and On Giving have transmutations of their own."
+      "summary": "Gibran's bow remains visible in close translation; the transmutation gives the child to wind as seed rather than arrow."
+    },
+    {
+      "path": "on_giving.md",
+      "title": "loa \u2014 On Giving",
+      "source": "The Prophet (1923)",
+      "method": "Transmutation",
+      "summary": "Five movements distinguish possessions from self, make joy the gift, and leave the giver as witness."
+    },
+    {
+      "path": "on_work.md",
+      "title": "riola \u2014 On Work",
+      "source": "The Prophet (1923)",
+      "method": "Translation + transmutation",
+      "summary": "Gibran leads the reader from field to temple gate; Phi answers with rest, shared workload, and care made visible."
     }
   ]
 }

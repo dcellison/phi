@@ -1,9 +1,12 @@
 # *Kahlil Gibran*
 
-Gibran's speaker has scarcely finished with love when children, giving, and work ask for their turn. Phi keeps these neighbouring teachings together under *The Prophet*, while leaving room for other writing by Gibran to have pages of its own. The first page holds four selections. On Children and On Work each appear as both close translation and transmutation; the complete [source witness](sources/the_prophet.txt) sits beside them.
+Gibran's Almustafa remains a prophet in the 1923 source. The collection title `phewo phelui`, the sage's words, names what the figure does in these pages without erasing Gibran's office. Love, children, giving, and work have a page apiece; On Children and On Work carry both methods. The complete [source witness](sources/the_prophet.txt) sits beside them. All four use the same lexicon: no selection required a new root.
 
-## Works
+## Selections
 
-| Work | Method | Text |
-|---|---|---|
-| The Prophet, selections | Translation + transmutation | [Read the selections](the_prophet.md) |
+| Selection | Source | Method | Text |
+|---|---|---|---|
+| On Love | The Prophet (1923) | Transmutation | [Read On Love](on_love.md) |
+| On Children | The Prophet (1923) | Translation + transmutation | [Read On Children](on_children.md) |
+| On Giving | The Prophet (1923) | Transmutation | [Read On Giving](on_giving.md) |
+| On Work | The Prophet (1923) | Translation + transmutation | [Read On Work](on_work.md) |

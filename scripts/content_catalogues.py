@@ -141,7 +141,7 @@ def load_text_collection_catalogues(root, text_catalogue=None):
     texts_dir = root / "texts"
     collections = {}
     all_errors = []
-    required = {"path", "title", "method", "summary"}
+    required = {"path", "title", "source", "method", "summary"}
 
     for collection in (
         entry for entry in text_catalogue if entry["kind"] == "collection"
@@ -163,7 +163,7 @@ def load_text_collection_catalogues(root, text_catalogue=None):
             if shape_errors:
                 continue
             prefix = f"{label}: entry {index}"
-            for field in ("path", "title", "method", "summary"):
+            for field in ("path", "title", "source", "method", "summary"):
                 if not isinstance(entry[field], str) or not entry[field].strip():
                     errors.append(f"{prefix}: '{field}' must be a nonempty string")
             if not isinstance(entry["path"], str) or not entry["path"].strip():

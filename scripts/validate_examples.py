@@ -950,7 +950,16 @@ CITATION_SOURCES = {
     "texts/babel_text.md": (
         "kjv", "texts/sources/kjv_genesis.txt"
     ),
-    "texts/gibran/the_prophet.md": (
+    "texts/gibran/on_love.md": (
+        "gibran", "texts/gibran/sources/the_prophet.txt"
+    ),
+    "texts/gibran/on_children.md": (
+        "gibran", "texts/gibran/sources/the_prophet.txt"
+    ),
+    "texts/gibran/on_giving.md": (
+        "gibran", "texts/gibran/sources/the_prophet.txt"
+    ),
+    "texts/gibran/on_work.md": (
         "gibran", "texts/gibran/sources/the_prophet.txt"
     ),
     "texts/metta_sutta.md": (
@@ -1001,11 +1010,13 @@ PAIRED_CITATION_SCOPES = {
         "## Close translation",
         "## Transmutation",
     ),
-    "texts/gibran/the_prophet.md": (
-        "## On children: close translation",
-        "## On children: transmutation",
-        "## On work: close translation",
-        "## On work: transmutation",
+    "texts/gibran/on_children.md": (
+        "## Close translation",
+        "## Transmutation",
+    ),
+    "texts/gibran/on_work.md": (
+        "## Close translation",
+        "## Transmutation",
     ),
 }
 
