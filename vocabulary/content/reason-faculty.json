@@ -1,0 +1,37 @@
+{
+  "word": "remori",
+  "gloss": "reason (faculty)",
+  "ipa": "/re̞.ˈmo̞.ri/",
+  "syllables": [
+    "re",
+    "mo",
+    "ri"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "rational faculty",
+    "rationality",
+    "capacity for reasoning"
+  ],
+  "description": "'remori' is the faculty by which a person weighs reasons and follows the path from claims towards conclusions. A judgement reached through it may still be revised. 'remo' (think) names mental activity, 'remotha' (reason) names a consideration offered as justification, and 'kethira' (infer) names one act of moving from premises to a conclusion.",
+  "articulatory_notes": "Begin with a brief alveolar tap or short trill and release into true-mid front unrounded 'e'. Close the lips for voiced nasal 'm', carry the sound through the nose, and round into stressed true-mid back 'o'. Return the tongue tip to a brief tap or short trill, then finish on high-front unrounded 'i'.",
+  "sound_symbolism": "The opening 'remo' is exactly 'remo' (think), so the faculty remains audibly beside the act. The final tap turns the rounded centre towards close front 'i'. That return can suggest a judgement held open for another look.",
+  "usage_notes": "The noun usually has a possessor or appears as a faculty that someone holds or receives. In argument it describes how a person weighs reasons, not their rank or worth. Supported communication and different ways of reasoning may shape how the faculty is exercised.",
+  "examples": [
+    {
+      "phi": "mia remori ha themore kisome.",
+      "translation": "My reason assesses this argument."
+    }
+  ],
+  "pillars": {
+    "secular-buddhist-philosophy": "Reasoning is a conditioned and revisable capacity, not an infallible essence. A person can notice how habit and attachment shape a judgement, then examine it again.",
+    "peace-linguistics-practices": "Naming the faculty separately from its result lets speakers question an inference without dismissing the other person as irrational."
+  },
+  "semantic_domains": {
+    "cognition": "the faculty for examining reasons and following inferential paths",
+    "wisdom": "a revisable capacity for reflective judgement"
+  },
+  "modules": [
+    "philosophical-reasoning"
+  ]
+}

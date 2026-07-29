@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1291 words.*
+*1292 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -762,6 +762,7 @@
 | `relua` | mirror | /re̞.ˈlu.ä/ | noun |
 | `remo` | think | /ˈre̞.mo̞/ | verb |
 | `remole` | concept | /re̞.ˈmo̞.le̞/ | noun |
+| `remori` | reason (faculty) | /re̞.ˈmo̞.ri/ | noun |
 | `remotha` | reason | /re̞.ˈmo̞.θä/ | noun |
 | `remuma` | conclusion | /re̞.ˈmu.mä/ | noun |
 | `renoa` | liberate | /re̞.ˈn̪o̞.ä/ | verb |

@@ -67,7 +67,7 @@ sense ALSO PROX hold. name ALSO PROX hold. concept ALSO PROX hold. know ALSO PRO
 muller: "' The same applies to perception, name, concep- tion, and knowledge.'"
 ```
 
-**Notes:** Müller's line supplies Sariputra's name; `kona miona` marks the direct address, and `shia to haolu` keeps the speech tag that follows it. `kire` is the form given to material and becomes form as an event noun. `whemoa` is the quality of an empty vessel and becomes emptiness in a noun position. The source denies difference twice, so the close translation repeats both directions instead of asking one symmetric relation to do the work. The four short clauses at the end let each listed term point back to the whole equation. Event-noun `morae` gives perception as an act of sensing, while `remole`, concept, separates Müller's conception from `remo`, the thinking faculty used for mind below.
+**Notes:** Müller's line supplies Sariputra's name; `kona miona` marks the direct address, and `shia to haolu` keeps the speech tag that follows it. `kire` is the form given to material and becomes form as an event noun. `whemoa` is the quality of an empty vessel and becomes emptiness in a noun position. The source denies difference twice, so the close translation repeats both directions instead of asking one symmetric relation to do the work. The four short clauses at the end let each listed term point back to the whole equation. Event-noun `morae` gives perception as an act of sensing, while `remole`, concept, separates Müller's conception from `remo`, the thinking activity used for mind below.
 
 ### The character of emptiness
 

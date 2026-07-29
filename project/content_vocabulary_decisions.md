@@ -90,6 +90,7 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Narrative diagnostic: body, motion, and onset](#narrative-diagnostic-body-motion-and-onset) | complete | closed | 8 |
 | [Excess conflation sweep: naming one's own capacity](#excess-conflation-sweep-naming-one-s-own-capacity) | complete | closed | 1 |
 | [Metta Sutta close-translation repair](#metta-sutta-close-translation-repair) | complete | closed | 4 |
+| [UDHR Article 1 close-translation repair](#udhr-article-1-close-translation-repair) | complete | closed | 2 |
 
 ## Core material qualities
 
@@ -830,6 +831,13 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | `CV-ETH-04` | virtue as ethical excellence attributed to character or a continuing pattern of conduct | Implemented | Philosophical Reasoning | Words: `taleri`. The earlier Metta line rendered virtuous as 'welao phoa' (act well), which changed an attributed ethical disposition into one act. Habitual aspect could repeat the action but still left philosophical discussion without a name for the quality being judged. The new adjective keeps the standard contextual and supplies virtue through the quality-noun rule. |
 | `CV-AFFECT-09` | pleasure or pleasant experience apart from joy, liking, amusement, and contentment | Implemented | base | Words: `nirelo`. The Metta line had to turn sensual pleasures into 'weloni siora' (bodily joys). Joy names gladness in a person, not the agreeable quality of an experience, while liking reports preference and contentment reports satisfaction with what is present. Pleasure recurs in food, touch, music, rest, and ordinary self-report, so it belongs in base vocabulary rather than one optional path. |
 | `CV-DESIRE-01` | craving as persistent pressure for satisfaction, distinct from ordinary want and neutral intense longing | Implemented | Philosophical Reasoning and Medical and Bodily Care | Words: `wurashi`. Base 'rinu' (want) deliberately leaves strength and duration open, while 'wilao' (long for) remains neutral even when the pull is intense or sustained. The Metta translation used both for greediness and therefore changed a difficult-to-set-aside pressure into an ordinary desire. Craving matters in reflective practice and in first-person bodily care, where naming it must not label the person or diagnose a condition. |
+
+## UDHR Article 1 close-translation repair
+
+| ID | Concept | Status | Placement | Decision or return condition |
+|---|---|---|---|---|
+| `CV-PHIL-11` | reason as a faculty for considering relations, reasons, and possible conclusions | Implemented | Philosophical Reasoning | Words: `remori`. The Article 1 translation used the event noun of 'remo' (think), which names mental activity and left the source's faculty unnamed. 'remotha' names one consideration offered as justification, and 'kethira' names an act of inference. 'remori' keeps the faculty distinct from its acts and products without treating it as infallible or as a condition for human worth. |
+| `CV-ETH-05` | normative should as a moral requirement to act, distinct from unqualified modal necessity | Compositional | existing Commons vocabulary | `na`, `phoa`, `naseru`, `phelu`. Modal 'na' can report an obligation as necessity, but in Article 1 it made English 'should' read as an unqualified must. The event noun for the required action before 'naseru' (obligation), followed by 'phelu' (hold), states the moral relation and leaves its source available for examination. The construction needs no new modal or particle. |
 
 ## Prompt sources
 

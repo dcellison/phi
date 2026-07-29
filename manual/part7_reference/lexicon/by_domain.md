@@ -415,7 +415,7 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `woraka` | appreciate | positive recognition of a sensory or artistic quality |
 
-## cognition (245)
+## cognition (246)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -550,6 +550,7 @@
 | `relo` | symbol | a form understood through a representative relation |
 | `remo` | think | considering, remembering, imagining, and following ideas |
 | `remole` | concept | an organized idea used to relate or classify experience |
+| `remori` | reason (faculty) | the faculty for examining reasons and following inferential paths |
 | `remotha` | reason | a consideration used to justify a belief, claim, choice, or action |
 | `remuma` | conclusion | the proposition reached from stated premises |
 | `reo` | meaning | a sense understood in relation to an expression or symbol |
@@ -2589,7 +2590,7 @@
 | `wiroa` | hopeful | anticipation directed towards a future condition |
 | `wuero` | far (adj) | a time well removed from the present or another stated moment |
 
-## wisdom (46)
+## wisdom (47)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2616,6 +2617,7 @@
 | `phiwheki` | counterexample | attention to particulars that require a broad rule to be revised |
 | `phue` | wise | practical and reflective understanding applied to what matters |
 | `remole` | concept | a revisable mental pattern whose boundaries can be examined |
+| `remori` | reason (faculty) | a revisable capacity for reflective judgement |
 | `remotha` | reason | a stated basis that can be weighed against purpose, evidence, and consequences |
 | `romishe` | contemplate | patient examination of a subject before judgement is settled |
 | `ruela` | path | an established course of practice understood as something followed |

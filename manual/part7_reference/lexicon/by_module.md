@@ -296,7 +296,7 @@
 
 ## Philosophical Reasoning
 
-*27 words in this learning path.*
+*28 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -315,6 +315,7 @@
 | `phisuwa` | example | noun |
 | `phiwheki` | counterexample | noun |
 | `remole` | concept | noun |
+| `remori` | reason (faculty) | noun |
 | `remuma` | conclusion | noun |
 | `samethu` | equivalent | adjective |
 | `serathi` | principled | adjective |

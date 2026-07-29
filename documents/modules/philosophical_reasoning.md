@@ -1,6 +1,6 @@
 # Philosophical Reasoning
 
-**Status:** **Established vocabulary module** with 18 module roots coined in its first pass, six later additions, 27 current memberships, and base-vocabulary `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 18 module roots coined in its first pass, seven later additions, 28 current memberships, and base-vocabulary `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion; ordinary Phi grammar.
 
 ## Charter
 
@@ -70,16 +70,17 @@ The connected Systems review adds two shared roots that philosophical inquiry ha
 | `harusi` | emergence; whole-level pattern arising through component interaction | Becoming and growth may occur without producing a pattern at the level of the whole. Novelty alone also falls short. |
 | `hosari` | correlation; variables differing together across observations | A trend follows one ordered series; `ka` states cause. Correlation relates variables without becoming either one. |
 
-## Rights and conscience
+## Rights, reason, and conscience
 
-Article 1 of the Universal Declaration of Human Rights brings two further distinctions into sustained philosophical use. They belong beside the argument vocabulary because a discussion of moral or political claims may need to ask what a right is, where it comes from, and whether a person's conscience gives a sound judgment.
+Article 1 of the Universal Declaration of Human Rights brings three further distinctions into sustained philosophical use. They belong beside the argument vocabulary because a discussion of moral or political claims may need to ask what a right is, how a person reasons, and whether conscience gives a sound judgement.
 
 | Phi | Working sense | Essential contrast |
 |---|---|---|
+| `remori` | reason; the faculty for weighing reasons and tracing possible conclusions | `remo` names thinking activity, `remotha` names one offered justification, and `kethira` names one act of inference. The faculty guarantees none of their results. |
 | `sherelo` | right; a normative claim that can bind conduct or institutions | A right can remain under dispute or denial. `shereni` entitlement begins with social recognition and a defined scope. |
 | `sharino` | conscience; moral self-appraisal | Conscience weighs one's own conduct. `waeli` consciousness is the wider fact of subjective awareness. |
 
-Both roots use ordinary nouns and ordinary Phi clauses. The paired [Article 1](../../texts/human_rights_article_one.md) sets the close translation's faculties of reason and conscience beside the transmutation's capacity and heart-knowing.
+All three roots use ordinary nouns and ordinary Phi clauses. The paired [Article 1](../../texts/human_rights_article_one.md) sets the close translation's right, reason, and conscience beside the transmutation's entitlement, capacity, and heart-knowing.
 
 ## Integrity, virtue, and craving
 
