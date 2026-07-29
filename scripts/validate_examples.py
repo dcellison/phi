@@ -1004,6 +1004,8 @@ PAIRED_CITATION_SCOPES = {
     "texts/gibran/the_prophet.md": (
         "## On children: close translation",
         "## On children: transmutation",
+        "## On work: close translation",
+        "## On work: transmutation",
     ),
 }
 
