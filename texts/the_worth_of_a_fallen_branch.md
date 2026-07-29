@@ -1,8 +1,8 @@
 # rolia sone ma phelona: Worth does not require a valuer
 
-A branch comes down at the edge of the garden and nobody moves it. It blocks no path and spoils no view, so no afternoon ever arrives when someone stands over it and decides it is worth keeping. Two summers later there is moss along its underside and something living in the split end, and the whole length of it has begun going back into the ground. Ask what the branch was worth in those two years. The first honest answer is that nobody was there to say.
+A branch falls at the edge of a garden and stays there. Two summers pass without anyone valuing it or attending to it. When a speaker finally looks, moss is growing across its surface and insects are living inside. The branch did not wait for the visit. The harder question is whether its worth did.
 
-This is an original Phi essay. Phi is the source text, and the English lines follow it as close readings. The argument uses the Philosophical Reasoning learning path where its distinctions are useful; every other word is base vocabulary.
+This is an original Phi essay. Phi is the source text, and the English lines follow it as close readings. Nine optional roots enter from six learning paths when the argument needs their distinctions. Everything else is base vocabulary.
 
 ## The essay
 
@@ -11,170 +11,171 @@ howeli to shua. loremi to lepa. loremi mua thepalu shuna manolu.
 wind PST come. branch PST fall. branch LOC garden edge stay.
 (The wind came. A branch fell. The branch stays at the garden's edge.)
 
-mawha miona ha loremi si sone. mawha miona ha loremi si nila.
-NONE person PROX branch IPFV value. NONE person PROX branch IPFV see.
-(Nobody is valuing this branch. Nobody is looking at this branch.)
+mawha miona mua wi keloi ha loremi to sone. mawha miona mua wi keloi ha loremi to theonu.
+NONE person LOC two summer PROX branch PST value. NONE person LOC two summer PROX branch PST attend.
+(For two summers, nobody valued this branch. Nobody attended to it.)
+
+mia pheo wi keloi ha loremi to hi somela.
+1SG POST two summer PROX branch PST DIR observe.
+(After two summers, I observed the branch directly.)
 
 wa ha loremi rolia phelu.
 Q PROX branch worth hold.
 (Does this branch hold worth?)
 
-sone miona phelona. rolia miona ma phelona.
-value person require. worth person NEG require.
-(Valuing requires a person. Worth does not require a person.)
+sone phoa nai. rolia phoa ma nai. rolia sone ma phelona.
+value do be. worth do NEG be. worth value NEG require.
+(Valuing is an act. Worth is not an act. Worth does not require valuing.)
 
-thena wei sua thaemo nai. ha thilou telua nai.
-thing DAT who precious be. PROX inquire accurate be.
-(A thing is precious to whom? This question is accurate.)
+thena wei sua thaemo nai. ha thilou theali nai.
+thing DAT who precious be. PROX inquire fitting be.
+(To whom is a thing precious? This inquiry is fitting.)
 
-thena wei sua rolia phelu. ha thilou telua ma nai.
-thing DAT who worth hold. PROX inquire accurate NEG be.
-(A thing holds worth to whom? This question is not accurate.)
+thena wei sua rolia phelu. mia ha thilou po phoa. ha thilou rolia kirothe ma nai.
+thing DAT who worth hold. 1SG PROX inquire POT do. PROX inquire worth define NEG be.
+(For whom does a thing hold worth? I can make this inquiry. The inquiry is not a definition of worth.)
 
-lao ha loremi rolia phelu. mawha miona ha rolia loa.
-BECAUSE PROX branch worth hold. NONE person PROX worth give.
-(Because of this, the branch holds worth. No person gives this worth.)
+mia mua haluma tha rolia sone ma phelona tho ki sirami. ha loremi rolia phelu.
+1SG LOC language DECL.COMP worth value NEG require DECL.COMP.CLOSE PFV record. PROX branch worth hold.
+(I have recorded in the language that worth does not require valuing. This branch holds worth.)
 
-lu miona ha loremi sahu. loremi ma helui.
-COND person PROX branch forget. branch NEG change.
-(If a person forgets this branch, the branch does not change.)
+lu miona ha loremi sahu. ha loremi rolia manolu.
+COND person PROX branch forget. PROX branch worth stay.
+(If a person forgets this branch, the branch's worth stays.)
 
-lu miona te sone. miona helui. loremi ma helui.
-COND person CESS value. person change. branch NEG change.
-(If a person stops valuing, the person changes. The branch does not change.)
+lu miona ha loremi te sone. ha rolia te ma nai.
+COND person PROX branch CESS value. PROX worth CESS NEG be.
+(If a person stops valuing this branch, its worth does not cease to be.)
 
-shumu mua loremi thuroa. lo nireku mua loremi liona.
-moss LOC branch grow. PL insect LOC branch live.
-(Moss grows on the branch. Insects live in the branch.)
+shumu nia loremi leko si thuroa. lo nireku mua loremi liona.
+moss ON branch surface IPFV grow. PL insect LOC branch live.
+(Moss is growing on the branch's surface. Insects live within the branch.)
 
-lo nireku loremi ma sone. sone remo phelona. lo nireku ma remo.
-PL insect branch NEG value. value think require. PL insect NEG think.
-(The insects do not value the branch. Valuing requires thought. Insects do not think.)
+mia pha lo nireku ha loremi sone pho ma sano. ha loremi rolia lo shia sone ma phelona.
+1SG INT.COMP PL insect PROX branch value INT.COMP.CLOSE NEG know. PROX branch worth PL 3SG value NEG require.
+(I do not know whether the insects value this branch. The branch's worth does not require their valuing.)
 
-loremi si morume. loremi kau muila turema. muila simoe kelu.
-branch IPFV decompose. branch ALL earth return. earth rich become.
-(The branch is decomposing. The branch returns to the earth. The earth becomes rich.)
+loremi si morume. loremi kau muila si turema. ha morume lo lurepa po leiro.
+branch IPFV decompose. branch ALL earth IPFV return. PROX decompose PL nutrient POT release.
+(The branch is decomposing. It is returning to the earth. This decomposition may release nutrients.)
 
-rolia mua thena nai. sone mua miona nai.
-worth LOC thing be. value LOC person be.
-(Worth is in the thing. Valuing is in the person.)
+mia tha rolia mua thena nai tho sherewa.
+1SG DECL.COMP worth LOC thing be DECL.COMP.CLOSE claim.
+(I claim that worth is in the thing.)
 
-ha sherewa phiwheki phelona.
-PROX claim counterexample require.
-(This claim requires a counterexample.)
+mia ha sherewa whakeru.
+1SG PROX claim object.
+(I object to this claim.)
 
-lu miona ha loremi whemori ka kelu. whemori mua miona phoa nai.
-COND person PROX branch waste CAUS become. waste LOC person do be.
-(If a person makes this branch waste, the waste is in the person's activity.)
+ha loremi mua ta thepalu norae whemori po nai. ha loremi lo nireku menuro po nai.
+PROX branch LOC one garden method waste POT be. PROX branch PL insect habitat POT be.
+(This branch may be waste within one garden method. It may be habitat for the insects.)
 
-whemori mua thena ma nai. kelasu mua thena ma nai. kelasu mua miona nai.
-waste LOC thing NEG be. usable LOC thing NEG be. usable LOC person be.
-(Waste is not in the thing. Usability is not in the thing. Usability is in the person.)
+ha loremi ta porua panuri po nai. whemori nela panuri phiremo phelona.
+PROX branch one purpose resource POT be. waste COORD resource relate require.
+(This branch may be a resource for one purpose. Waste and resource require a relation.)
 
-miona haluma to pilewa. miona ha lo phelui to kanu.
-person language PST make. person PROX PL word PST choose.
-(People made the language. People chose these words.)
+mia haluma to pilewa. mia ha lo phelui to kanu.
+1SG language PST make. 1SG PROX PL word PST choose.
+(I made the language. I chose these words.)
 
 ha phirae mua haluma nai. wa ha phirae mua loremi nai.
 PROX different LOC language be. Q PROX different LOC branch be.
 (This difference is in the language. Is this difference in the branch?)
 
-haluma ta kanu ki sirami. haluma ha remuma ma panoru.
-language one choose PFV record. language PROX conclusion NEG support.
-(The language has recorded a choice. The language does not support this conclusion.)
+mia mua haluma ta kanu ki sirami. ha kanu ha loremi rolia remotha ma nai.
+1SG LOC language one choose PFV record. PROX choose PROX branch worth reason NEG be.
+(I have recorded one choice in the language. This choice is not a reason for the branch's worth.)
 
-mia ha phiwheki kelomi. ha phiwheki mia sherewa ma whekate.
-1SG PROX counterexample accept. PROX counterexample 1SG claim NEG refute.
-(I accept this counterexample. This counterexample does not refute my claim.)
+mia ha whakeru kelomi. ha whakeru mia ta sherewa whekate.
+1SG PROX object accept. PROX object 1SG one claim refute.
+(I accept this objection. It refutes one of my claims.)
 
-mia sherewa hieru ka kelu. mia tha rolia mua thena nai tho ma sherewa.
-1SG claim narrow CAUS become. 1SG DECL.COMP worth LOC thing be DECL.COMP.CLOSE NEG claim.
-(I make my claim narrow. I do not claim that worth is in the thing.)
+mia tha rolia mua thena nai tho nosheku.
+1SG DECL.COMP worth LOC thing be DECL.COMP.CLOSE retract.
+(I retract the claim that worth is in the thing.)
 
-mia tha sone rolia ma pilewa tho sherewa.
-1SG DECL.COMP value worth NEG make DECL.COMP.CLOSE claim.
-(I claim that valuing does not make worth.)
+whekai mia tha rolia sone ma phelona tho sherewa.
+CONTR 1SG DECL.COMP worth value NEG require DECL.COMP.CLOSE claim.
+(However, I claim that worth does not require valuing.)
 
-lu sone rolia pilewa. lu miona te sone. rolia te nai.
-COND value worth make. COND person CESS value. worth CESS be.
-(If valuing makes worth, and if a person stops valuing, worth stops being.)
+lu phao lopia te sone. lopia rolia te ma nai.
+COND parent child CESS value. child worth CESS NEG be.
+(If a parent stops valuing a child, the child's worth does not cease to be.)
 
-mia ha remuma ma kelomi. lopia rolia mua phao sone ma nai.
-1SG PROX conclusion NEG accept. child worth LOC parent value NEG be.
-(I do not accept this conclusion. A child's worth is not in the parent's valuing.)
+ha remotha mia sherewa panoru.
+PROX reason 1SG claim support.
+(This reason supports my claim.)
 
-lu miona poru ma nai. shia rolia ma helui.
-COND person productive NEG be. 3SG worth NEG change.
-(If a person is not productive, their worth does not change.)
+lu miona riola poru ma nai. miona rolia ma helui.
+COND person labor productive NEG be. person worth NEG change.
+(If a person's labor is not productive, the person's worth does not change.)
 
-loremi lopia ma nai. whekai mia roe ta phelui wi thena haolu.
-branch child NEG be. CONTR 1SG INS one word two thing speak.
-(A branch is not a child. However, I speak of two things with one word.)
+loremi lopia ma nai. whekai lopia nela loremi rolia phelu.
+branch child NEG be. CONTR child COORD branch worth hold.
+(A branch is not a child. However, a child and a branch hold worth.)
 
-haluma lopia rolia nela loremi rolia ma phirae ka kelu.
-language child worth COORD branch worth NEG different CAUS become.
-(The language does not make the child's worth and the branch's worth different.)
+ta phelui wi thena senao ka ma kelu.
+one word two thing same CAUS NEG become.
+(One word does not make two things the same.)
 
-whekai ta thilou manolu. rolia hina natheri.
-CONTR one inquire stay. worth what entail.
-(However, one question stays. What does worth entail?)
+whekai ta thilou manolu. tha ha loremi rolia phelu tho hina natheri.
+CONTR one inquire stay. DECL.COMP PROX branch worth hold DECL.COMP.CLOSE what entail.
+(However, one inquiry stays. What does the proposition that this branch holds worth entail?)
 
-rolia theama ma natheri. rolia naseru ma natheri.
-worth care NEG entail. worth obligation NEG entail.
-(Worth does not entail care. Worth does not entail obligation.)
+ha loremi rolia ha loremi temoe naseru ma pilewa.
+PROX branch worth PROX branch tend obligation NEG make.
+(The branch's worth does not create an obligation to tend it.)
 
-mawha miona ha loremi na temoe. mawha miona ha loremi na shorupo.
-NONE person PROX branch NEC tend. NONE person PROX branch NEC protect.
-(No person must tend this branch. No person must protect this branch.)
+theula miona lila ha loremi temoe ralu nai. theula miona lila ha loremi shorupo ralu nai.
+UNIV person PURP PROX branch tend free be. UNIV person PURP PROX branch protect free be.
+(Nobody is required to tend this branch. Nobody is required to protect it.)
 
-rolia miona ma phelona. whekai theama miona phelona.
-worth person NEG require. CONTR care person require.
-(Worth does not require a person. However, care requires a person.)
+ha loremi rolia wei mia ha loremi theonu remotha loa. whekai ha remotha ta phoa ma phelona.
+PROX branch worth DAT 1SG PROX branch attend reason give. CONTR PROX reason one do NEG require.
+(The branch's worth gives me a reason to attend to it. However, this reason does not require one act.)
 
-haluma kau theama mia ma roke.
-language ALL care 1SG NEG move.
-(The language does not move me toward care.)
-
-loremi mua thepalu shuna manolu. shumu si thuroa.
-branch LOC garden edge stay. moss IPFV grow.
-(The branch stays at the garden's edge. The moss is growing.)
+loremi mua thepalu shuna manolu. shumu nia loremi leko si thuroa. mia ha loremi si theonu.
+branch LOC garden edge stay. moss ON branch surface IPFV grow. 1SG PROX branch IPFV attend.
+(The branch stays at the garden's edge. Moss is growing on its surface. I am attending to it.)
 ```
 
 ## Proposition record
 
 | Move | Proposition or distinction | State at the close |
 |---|---|---|
-| The scene | A branch falls where nobody needs it moved, and nobody values it for two years. | Taken as given. The scene earns its place by leaving the branch no valuer at all. |
-| The question | Does the branch hold worth while no one is valuing it? | Asked in a form Phi can answer, because the two words come apart. |
-| The asymmetry | Valuing requires a person. Worth does not. | Stands, and the rest of the argument is an attempt to earn it. |
-| The dative test | Asking whom a thing is precious to is a good question. Asking whom it holds worth to is not. | Accepted as the sharpest evidence available, and later shown to be evidence about Phi. |
-| The insects | Something living in the branch does not rescue its worth, because use is not valuation. | Accepted, and it closes the easiest escape from the question. |
-| Withdrawal | When a person forgets a thing or stops valuing it, the person changes and the thing does not. | Stands, and it is the one consequence of the position that can be checked. |
-| Counterexample | Waste is not in the thing but in the activity, and usability is in the user. Phi makes status relational nearly everywhere. | Conceded without trimming. Worth then looks like an exemption the lexicon granted itself. |
-| The objection's force | People made the language and chose these words, so the difference may sit in the language and not in the branch. | Granted, and the essay states plainly that the language records a choice instead of supporting a conclusion. |
-| Revision | Worth being in the thing is dropped. What replaces it is smaller: valuing does not make worth. | This survives the counterexample because it no longer describes the branch at all. |
-| Why the narrow claim holds | If valuing made worth, then worth would end when the valuing did. A child's worth is not in a parent's valuing, and an unproductive person's worth does not move. | The reason the position is worth holding, and it arrives from the person case, not from the branch. |
-| One word, two things | A branch is not a child, but Phi uses one word for what both hold and declines to split it. | Stated as the cost and the point together. |
-| Unresolved | Worth entails neither care nor obligation. Nobody must tend the branch. | Open, and named as the limit of what the language does. |
+| The scene | A branch falls and remains unattended for two summers. The speaker then observes moss and insects on and within it. | Taken as the essay's situation. The later attention no longer contradicts the earlier absence. |
+| Act and property | Valuing is an act; worth is not. Phi says that worth does not require valuing. | Accepted as a lexical commitment. The essay still has to ask what reason supports it. |
+| The dative question | `wei` can name a beneficiary in either question. Preciousness requires someone who holds a thing dear, while worth does not depend on that approval. | Both questions are grammatical. Their different force comes from the two content words, not from a missing syntactic slot. |
+| Withdrawal | Forgetting the branch or ceasing to value it does not end its worth. | Accepted as a consequence of the commitment. The grammar does not prove it. |
+| The insects | The speaker does not know whether the insects value the branch. Its worth does not depend on their valuing. | Their valuation is left unknown rather than inferred from their presence. |
+| Material change | The branch decomposes and may release nutrients as it returns to the earth. | Accepted as a possible ecological consequence. Neither use nor benefit manufactures worth. |
+| First thesis | Worth is in the thing. | Retracted. The locative clause states an analysis but cannot establish where a property exists. |
+| Objection | Waste, habitat, and resource describe relations to a method, organism, or purpose. The speaker made the language and chose its words. | Accepted. Phi's lexical contrast records a choice; the choice itself is not a reason for the branch's worth. |
+| Revision | The objection refutes the locative thesis. The smaller claim is that worth does not require valuing. | Retained as the essay's position, now offered as a commitment with reasons rather than a discovery made by syntax. |
+| Reasons | A child's worth survives a parent's withdrawn valuation, and a person's worth survives labor that produces no intended result. | These cases support the position without making the branch and the child equivalent. |
+| One word, two referents | A child and a branch both hold `rolia`; they are not thereby the same. | Accepted. Shared vocabulary does not erase the relations that distinguish its referents. |
+| Unresolved | The branch's worth creates no obligation to tend it. It gives the speaker a reason to attend without requiring one particular act. | Open. The essay ends with attention rather than an invented duty. |
 
 ## Vocabulary under pressure
 
 | Question | Phi treatment | Result |
 |---|---|---|
-| Can Phi ask what a thing is worth to nobody? | Yes, because `rolia` (worth) is a noun with no place for a holder while `thaemo` (precious) takes a dative: `ha wei mia thaemo nai` is this is precious to me. Asking `thena wei sua rolia phelu` produces a question with a slot the word does not have. | The essay's central evidence is a grammatical fact a speaker can check, not a claim the essay makes. English has no comparable test, since "valuable to me" and "worth something" both accept a holder. |
-| Can the essay name its own engine in Phi? | It bumps into the gap and goes around it. Phi has `haluma` (language) and `phelui` (word) but nothing for the classes its own lexicon is built on, so the essay describes the behavior instead: valuing requires a person and worth does not. | The behavioral statement turned out to be the more precise one, and the missing term goes into the register instead of being coined to serve one sentence. |
-| Can a thing stop being valued without a special verb? | `te` (CESS) does it: `lu miona te sone` is if a person stops valuing. The essay had expected to need a root for withdrawn regard. | The particle inventory was already ahead of the essay, so withdrawal costs one line here and no new root. |
-| Does Phi treat every status as relational? | No, and the inconsistency is the essay's own counterexample. `whemori` (waste) is defined against a stated activity and `kelasu` (usable) against a user, while `rolia` is defined against nothing. | The essay grants that this makes worth look exempted, then narrows its claim instead of explaining the exemption away. |
-| Is a word needed for worth that no one attends to? | It does not appear so. `mawha miona ha loremi si sone` says it with a quantifier and an aspect particle, and a root here would have buried the argument inside one word. | The gap the essay predicted was not real. What turned up instead was the missing name for a word class, which belongs to Phi's account of itself and not to this subject. |
+| Can Phi ask what a thing is worth to someone? | Yes. `wei` (DAT) is a clause-level recipient or beneficiary, so it can appear with `rolia` (worth) as readily as with `thaemo` (precious). Preciousness names a cherishing relation; worth names the normative property under discussion. | The grammar permits both questions. A dative may name someone affected by the worth without making that person its source. |
+| Does the essay need a word for grammatical class? | No. `sone phoa nai` says valuing is an act, while `rolia phoa ma nai` says worth is not one. The argument needs that behavior rather than the labels noun and verb. | The description is both shorter and more exact. A future Phi discussion of Phi grammar may still need the class itself. |
+| Can valuing end while worth remains? | Cessative `te` ends the act: `lu miona ha loremi te sone. ha rolia te ma nai.` Forgetting uses ordinary `sahu` and reaches the same claim by another route. | No new root is needed. The grammar makes the withdrawal clear without pretending the consequence is an empirical measurement. |
+| Can the insects remain outside a human account of their minds? | The framed question `pha lo nireku ha loremi sone pho` lets the speaker say they do not know. The next sentence denies that the branch's worth depends on their valuing. Ecological `menuro` (habitat) stays possible rather than certain, since presence alone cannot establish all the conditions a habitat requires. | The branch can matter in the insects' lives without the essay granting or denying them valuation. |
+| How does worth differ from relational status? | Shared Ecological, Household, and Work noun `whemori` (waste) takes its status within a method or process, while base `panuri` (resource) requires a purpose. Ecological `menuro` relates a place to an organism and its conditions. `rolia` instead records Phi's claim that approval and use do not supply worth. | The contrast belongs to the lexicon's definitions. Locative grammar can express an analysis, but it does not prove an ontology. |
+| Which optional distinctions earn their place? | Philosophical Reasoning supplies `kirothe` (define), `natheri` (entail), `whakeru` (object), and `whekate` (refute). Ecological vocabulary supplies `morume` (decompose), `menuro` (habitat), and shared `lurepa` (nutrient) and `whemori` (waste); Commons and Work supply `naseru` (obligation). | Nine optional roots carry fifteen memberships across six learning paths. The essay needs no new root. |
 
 ## Five-pillar reading
 
 | Pillar | Work done in the essay |
 |---|---|
-| Solarpunk values | Nobody clears the branch, and the essay lets that pass without apology. What follows is moss, insects, and ground that ends up better for it, none of it waiting on a decision from the household. |
-| Secular Buddhist philosophy | The thing under discussion is changing throughout: growing moss, feeding insects, going back into the soil. The essay locates worth in something that is not holding still, and declines to make attention the thing that keeps it in existence. |
-| Art Nouveau aesthetics | Wood, moss, and a split end hold the whole argument, and the last line is a plant spreading over a surface nobody looks at. |
-| Peace linguistics | Worth is kept apart from usefulness and output, so the unproductive person and the unwanted branch lose nothing by being unvalued. The essay then admits that this protects less than it sounds like, because nothing in it obliges anyone to act. |
-| Pre-industrial wisdom | Decomposition is the branch's work, not its failure, and the soil that gains by it is the same soil the garden is planted in. |
+| Solarpunk values | The branch is not waste by nature. It may be habitat or a resource within particular relations, but none of those uses has to rescue its worth. The speaker attends without first deciding to move, protect, or leave it. |
+| Secular Buddhist philosophy | The branch changes, the observer arrives late, and the essay gives up its first account of where worth lives. What remains is a chosen commitment that does not pretend the grammar has uncovered an essence. |
+| Art Nouveau aesthetics | Wind, fallen wood, moss across a surface, and insects within the branch keep the reasoning among living curves. Even the abstract objection has to walk back through the garden. |
+| Peace linguistics | The objection is allowed to refute one claim without becoming a rejection of the whole inquiry. A child's worth survives withdrawn approval, and a person's worth survives unproductive labor; the shared word still makes neither one into the other. |
+| Pre-industrial wisdom | Two summers and the branch's decomposition tell the time. Nutrients may return through the process, but the essay does not turn a familiar material cycle into proof that every fallen branch should be left where it lies. |
 
-What survives the objection is less than the essay set out with. Worth is not manufactured by anybody's approval, and that much holds up, but it is a commitment the language records and not a discovery the language proves. From there the essay cannot reach anyone's doorstep. Worth needs no valuer; care needs one, and no sentence gets you from the first to the second. The branch will finish going into the ground either way, and the moss on it does not know it is settling an argument.
+The essay keeps less than it first reached for. Phi does not prove where worth lives through the shape of a question, and one word does not make a child and a branch the same kind of being. It records a refusal instead: approval and output do not manufacture worth. That gives the speaker a reason to attend, not an instruction about what to do next. The branch stays where it fell, and the moss continues without waiting for the argument. The speaker is still looking.
