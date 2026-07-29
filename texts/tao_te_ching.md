@@ -17,7 +17,7 @@
 ```
 mo ko welao phea phialu nai.
 CMPR FOC good AS water be.
-(The highest excellence is like water.)
+(The highest good is like water.)
 legge: "8. 1. The highest excellence is like (that of) water."
 
 phialu theula thena naphe.
@@ -27,13 +27,13 @@ legge: "The excellence of water appears in its benefiting all things,"
 
 phialu mua mulu lokue menui.
 water LOC low place dwell.
-(Water dwells in the low place.)
-legge: "and in its occupying, ... the low place"
+(Water dwells in a low place.)
+legge: "and in its occupying,"
 
-phialu phirae lokue ma thueli. theula miona ra lokue ma kaeli.
-water different place NEG intend. UNIV person DIST place NEG like.
-(Water does not intend a different place. All people dislike that place.)
-legge: "without striving (to the contrary), ... which all men dislike."
+phialu wea phirae lokue ma meloa. theula miona ra lokue ma kaeli.
+water TOWARD different place NEG persevere. UNIV person DIST place NEG like.
+(Water does not persevere towards a different place. All people dislike that place.)
+legge: "without striving (to the contrary), the low place which all men dislike."
 
 thelao phialu pai keiro nai.
 CONS water NEAR way be.
@@ -41,46 +41,46 @@ CONS water NEAR way be.
 legge: "Hence (its way) is near to (that of) the Tao."
 ```
 
-Legge's excellence takes the quality noun of `welao`, good. The line about striving needs more room. Phi says that water does not intend another place, then keeps Legge's human response: people dislike it. Nothing in the word for water makes it generous. Water helps everything and stays low. Only then does `thelao` place it near `keiro`.
+Legge's excellence takes the quality noun of `welao`, good. The line about striving needs more room. `meloa` is sustained effort through difficulty, so the water does not persevere towards another place; the next clause restores Legge's human response. Nothing in the word for water makes it generous. Water helps everything and stays low. Only then does `thelao` place it near `keiro`.
 
 ```
-womu welao theali lokue nai.
-home good fitting place be.
-(The excellence of a dwelling is a fitting place.)
+womu welao mua theali lokue nai.
+home good LOC fitting place be.
+(A home's goodness is in a fitting place.)
 legge: "2. The excellence of a residence is in (the suitability of) the place;"
 
-remo welao nulo shena nai.
-think good deep calm be.
-(The excellence of mind is deep calm.)
+remo welao mua nulo moesha nai.
+think good LOC deep still be.
+(The goodness of thinking is in deep stillness.)
 legge: "that of the mind is in abysmal stillness;"
 
-phiremo welao nua welao miona nai.
-relate good COM good person be.
-(The excellence of association is being with good people.)
+phiremo welao nua taleri miona nai.
+relate good COM virtuous person be.
+(The goodness of association is with virtuous people.)
 legge: "that of associations is in their being with the virtuous;"
 
-welao punoa kowanu punoa koru ka nai.
-good society governance society harmonious CAUS be.
-(Good governance of society keeps society harmonious.)
+punoa kowanu welao mua punoa koru ka nai.
+society governance good LOC society harmonious CAUS be.
+(The goodness of society's governance is in making society harmonious.)
 legge: "that of government is in its securing good order;"
 
 lo riola welao mua pokera phoa nai.
 PL labor good LOC competent do be.
-(The excellence of affairs is in competent action.)
+(The goodness of affairs is in competent action.)
 legge: "that of (the conduct of) affairs is in its ability;"
 
 roke thorui welao mua theali thimu nai.
 move beginning good LOC fitting time be.
-(The excellence of beginning a movement is at a fitting time.)
+(The goodness of beginning a movement is in a fitting time.)
 legge: "and that of (the initiation of) any movement is in its timeliness."
 ```
 
-Legge places excellence in six settings, and Phi lets each one find its own predicate. A home needs a fitting place. Mind takes the event noun of `remo`, think, and rests in deep calm. Government becomes `kowanu`, governance, whose excellence here lies in making society harmonious. `pokera`, competent, states present ability in the conduct of affairs. Movement begins at `theali thimu`, a fitting time.
+Legge places excellence in six settings, and Phi lets each one find its own predicate. A home needs a fitting place. Mind takes the event noun of `remo`, think, and rests in deep stillness. Associations now use `taleri`, virtuous, rather than asking broad goodness to carry the ethical judgement. Government becomes `kowanu`, governance, whose goodness here lies in making society harmonious. `pokera`, competent, states present ability in the conduct of affairs. Movement begins at `theali thimu`, a fitting time.
 
 ```
-[whu mo ko welao phelu] miona mua mulu noa themore ma kealo.
-[REL CMPR FOC good hold] person LOC low position argument NEG create.
-(The person who holds the highest excellence creates no argument in a low position.)
+[whu mo ko welao phelu] miona miso mulu noa ma whakeru.
+[REL CMPR FOC good hold] person REFL low position NEG object.
+(The person who holds the highest good does not object to their own low position.)
 legge: "3. And when (one with the highest excellence) does not wrangle (about his low position),"
 
 thelao mawha miona shia phelira nila.
@@ -89,14 +89,14 @@ CONS NONE person 3SG mistaken see.
 legge: "no one finds fault with him."
 ```
 
-`themore kealo`, create an argument, makes wrangling an act, not a character trait. Legge's finding fault is broader than `phelira nila`. The Phi phrase sees someone as mistaken, while the cited English retains the reproach.
+`whakeru`, object, narrows Legge's wrangling to raising a problem with the low position; unlike `themore`, it does not turn the exchange into a structure of premises and conclusion. Legge's finding fault is broader than `phelira nila`. The Phi phrase sees someone as mistaken, while the cited English retains the reproach.
 
 ### Chapter 11: the use of what is not there
 
 ```
-ta lau ta shao wolea monaki lue rolu shuna wea ta kesho wepu.
-one twenty-seven-group one three-group wood component ABL wheel edge TOWARD one middle go.
-(Thirty wooden components go from the wheel's edge toward one center.)
+ta lau ta shao rolu monaki lue rolu shuna wea ta kesho welura.
+one twenty-seven-group one three-group wheel component ABL wheel edge TOWARD one middle spread.
+(Thirty wheel components extend from the wheel's edge towards one centre.)
 legge: "11. The thirty spokes"
 
 lo shia mua ta kesho koluma.
@@ -104,9 +104,9 @@ PL 3SG LOC one middle unite.
 (They unite at one center.)
 legge: "unite in the one nave;"
 
-rolu kelitho wei tolu whemoa tholu pherami.
-wheel function DAT staff empty space depend.
-(The wheel's function depends on empty space for a support rod.)
+rolu kelitho wei tekari kema thena whemoa tholu pherami.
+wheel function DAT straight strong thing empty space depend.
+(The wheel's function depends on empty space for a straight, strong thing.)
 legge: "but it is on the empty space (for the axle), that the use of the wheel depends."
 
 miona muo lo lopha mueri kire.
@@ -119,9 +119,9 @@ PL vessel function empty space depend.
 (The vessels' function depends on empty space.)
 legge: "but it is on their empty hollowness, that their use depends."
 
-lila miona tholupi kire miona lue lo moru ponu nela lo wira kati.
-PURP person room shape person ABL PL wall door COORD PL window cut.
-(One cuts a door and windows from walls in order to shape a room.)
+lila miona tholupi kire miona lue lo moru ponu tholu nela lo wira kati.
+PURP person room shape person ABL PL wall door space COORD PL window cut.
+(One cuts a door-space and windows from walls in order to shape a room.)
 legge: "The door and windows are cut out (from the walls) to form an apartment;"
 
 tholupi kelitho mua shia whemoa tholu pherami.
@@ -140,7 +140,7 @@ empty space PL 3SG usable CAUS be.
 legge: "and what has not that for (actual) usefulness."
 ```
 
-Phi has a wheel but no spoke, nave, or axle. The first three lines describe the mechanism: thirty `monaki`, functional components, run from the rim to one center, where a support rod needs open space. `monaki` and `pherami`, depend, come from Systems and Shared Infrastructure. The same verb joins function to emptiness again in the vessel and the room.
+Phi has a wheel but no spoke, nave, or axle. The first three lines describe the mechanism: thirty `monaki`, functional components, extend from the rim to one centre, where a straight, strong thing needs open space. The source line identifies that thing as the axle. `monaki` and `pherami`, depend, come from Systems and Shared Infrastructure. The same verb joins function to emptiness again in the vessel and the room. `ponu tholu`, door-space, keeps the opening apart from `ponu`, the panel that closes it.
 
 The closing pair separates adaptation from usability. Existing things can be altered for a use; empty space makes that use possible. Legge's word "profitable" stays in the citation because Phi does not turn this craft lesson into a monetary claim.
 
@@ -152,9 +152,9 @@ PL person LOC CMPR FOC ancient time DECL.COMP [REL society authority hold] PL pe
 (In the most ancient time, people did not know that there were people who held authority in society.)
 legge: "17. 1. In the highest antiquity, (the people) did not know that there were (their rulers)."
 
-lo miona mua nu wi thimu lo shia to lothea. lo miona lo shia to keluro.
-PL person LOC ORD two time PL 3SG PST love. PL person PL 3SG PST honor.
-(In the second time, people loved them. People honored them.)
+lo miona mua nu wi thimu lo shia to lothea. lo miona wei lo shia woraka phelui to haolu.
+PL person LOC ORD two time PL 3SG PST love. PL person DAT PL 3SG appreciate word PST speak.
+(In the second time, people loved them. People spoke words of appreciation to them.)
 legge: "In the next age they loved them and praised them."
 
 lo miona mua nu ta shao thimu wea lo shia sukima to phaelo.
@@ -173,12 +173,12 @@ COND [REL society authority hold] PL person way PST NEG faith. PL person PL 3SG 
 legge: "Thus it was that when faith (in the Tao) was deficient (in the rulers) a want of faith in them ensued (in the people)."
 ```
 
-Legge's rulers are not called guides here. They are people who hold `karami`, authority, in society. The word reports a claimed or recognized power without deciding whether it deserves obedience. Phi's ternary ordinals keep the four ages in order, while `themui` shapes faith as sustained confidence in a process.
+Legge's rulers are not called guides here. They are people who hold `karami`, authority, in society. The word reports a claimed or recognized power without deciding whether it deserves obedience. Phi's ternary ordinals keep the four ages in order. Praise is spoken rather than folded into honour: the people speak `woraka phelui`, words of appreciation. `themui` shapes faith as sustained confidence in a process.
 
 ```
-lo shia nilua to nai. lo shia thiku haolu. lo shia miso lo phelui to sone.
-PL 3SG shy PST be. PL 3SG small speak. PL 3SG REFL PL word PST value.
-(They were hesitant. They spoke little. They valued their own words.)
+lo miona tha lo shia norethi ma nai tho to nila. lo shia thiku to haolu. lo shia miso lo phelui to sone.
+PL person DECL.COMP PL 3SG confident NEG be DECL.COMP.CLOSE PST see. PL 3SG small PST speak. PL 3SG REFL PL word PST value.
+(People saw that they were not confident. They spoke little. They valued their own words.)
 legge: "2. How irresolute did those (earliest rulers) appear, showing (by their reticence) the importance which they set upon their words!"
 
 lo shia riola sholu to nai. lo shia lo rinoka to korei.
@@ -192,7 +192,7 @@ UNIV person QUOT.COMP PL 1SG ABL REFL AS PL 1SG be QUOT.COMP.CLOSE PST speak.
 legge: "while the people all said, 'We are as we are, of ourselves!'"
 ```
 
-`nilua` is ordinary hesitation in company, narrower than Legge's irresolute reticence. The next clauses sharpen it: these authority holders speak little and value their words. `rinoka`, project, places a boundary around each undertaking; `korei` says the work reached completion. The people's words stay exact inside `sha ... sho`.
+Legge's irresolution becomes an observed lack of `norethi`, confidence; the source does not say that the rulers were shy. The next clauses carry the reticence: these authority holders speak little and value their words. `rinoka`, project, places a boundary around each undertaking; `korei` says the work reached completion. Their exact words sit inside `sha ... sho`.
 
 ### Chapter 63: the great begins small
 
@@ -217,13 +217,13 @@ person [REL small be] thing large see. 3SG AS many thing few thing see.
 (One sees what is small as great and a few things as many.)
 legge: "to consider what is small as great, and a few as many;"
 
-lu miona wei thia peloma phoa. no wei shia phena loa.
-COND person DAT 2SG harmful do. IMP DAT 3SG kind give.
-(If a person acts harmfully toward you, give kindness to them.)
+miona wei [whu wei shia peloma phoa] miona phena loa.
+person DAT [REL DAT 3SG harmful do] person kind give.
+(A person gives kindness to the person who acts harmfully towards them.)
 legge: "and to recompense injury with kindness."
 ```
 
-`whuo phoa remo` is a thought of doing held outside the act. That stays close to Legge's English without claiming to exhaust *wu wei*. Trouble appears as `tupeka`, a burden felt by the person conducting affairs. Flavor is the event noun of `thorima`, taste; no difference in it is seen. Legge's injury line takes the form of a condition and request: if someone acts harmfully toward you, give kindness to them.
+`whuo phoa remo` is a thought of doing held outside the act. It comes close to Legge's English without claiming to exhaust *wu wei*. Trouble appears as `tupeka`, a burden felt by the person conducting affairs. Flavour is the event noun of `thorima`, taste; no difference in it is seen. The last sentence remains general: a person gives kindness to whoever acted harmfully towards them. It does not become a command.
 
 ```
 phoe lo riola kethua kelu [whu ha keiro thole] miona lo riola thilonu.
@@ -246,18 +246,18 @@ UNIV large thing ABL small thing come.
 (Every great thing comes from a small thing.)
 legge: "and all great things from one in which they were small."
 
-phewo whalo thena mawha thimu phoa. thelao phewo mo ko whalo thena po korei.
-sage large thing NONE time do. CONS sage CMPR FOC large thing POT fulfill.
-(The sage never does the great thing. Therefore the sage can accomplish the greatest thing.)
+phewo whalo thena mawha thimu phoa. thelao phewo lo mo ko whalo thena po korei.
+sage large thing NONE time do. CONS sage PL CMPR FOC large thing POT fulfill.
+(The sage never does the great thing. Therefore the sage can accomplish the greatest things.)
 legge: "Therefore the sage, while he never does what is great, is able on that account to accomplish the greatest things."
 ```
 
-Phi has `kethua`, hard, for a task or condition that demands substantial effort, but it has no separate adjective for easy. Negating `kethua` supplies the other side without making it a second root. `phoe` places preparation before affairs become difficult. Legge's master is a person who practices this way, while `phewo` stays where the source has a sage.
+Phi has `kethua`, hard, for a task or condition that demands substantial effort, but it has no separate adjective for easy. Negating `kethua` supplies the other side without making it a second root. `phoe` places preparation before affairs become difficult. Legge's master is a person who practices this way; `phewo` appears only where the source has a sage.
 
 ```
-[whu phelo seru] miona phina seru ro korei.
-[REL light commit] person few commit HAB fulfill.
-(A person who commits lightly usually fulfills few commitments.)
+[whu muko seru] miona phina seru ro korei.
+[REL careless commit] person few commit HAB fulfill.
+(A person who commits carelessly usually fulfils few commitments.)
 legge: "3. He who lightly promises is sure to keep but little faith;"
 
 [whu tha lo riola kethua ma nai tho theula thimu remo] miona [whu kethua nai] lo riola ro hekawi.
@@ -265,13 +265,13 @@ legge: "3. He who lightly promises is sure to keep but little faith;"
 (A person who always thinks that affairs are not difficult usually finds difficult affairs.)
 legge: "he who is continually thinking things easy is sure to find them difficult."
 
-shai miona riola kethua ma nila phewo riola kethua nila. thelao phewo mawha thimu kethua phelu.
-CONC person labor hard NEG see sage labor hard see. CONS sage NONE time hard hold.
-(Although one does not see the work as difficult, the sage sees it as difficult. Therefore the sage never has difficulty.)
+shai riola kethua se ma nila phewo riola kethua nila. thelao phewo mawha thimu kethua phelu.
+CONC labor hard PASS NEG see sage labor hard see. CONS sage NONE time hard hold.
+(Although the work is not seen as difficult, the sage sees it as difficult. Therefore the sage never has difficulty.)
 legge: "Therefore the sage sees difficulty even in what seems easy, and so never has any difficulties."
 ```
 
-Light promises become commitments made in a light manner, then `ro` turns poor fulfillment into a pattern. The last pair uses `kethua` first for difficult work and then as the quality noun difficulty. The final sentence makes the relation possessive: the sage never has it.
+Legge's light promise is a `muko seru`, a careless commitment, rather than low physical weight borrowed through an English homonym. `ro` turns poor fulfilment into a pattern without claiming logical certainty. The last pair uses `kethua` first for difficult work and then as the quality noun difficulty. The final sentence makes the relation possessive: the sage never has it.
 
 ### Chapter 76: the soft outlasts the hard
 
@@ -310,9 +310,9 @@ legge: "2. Thus it is that firmness and strength are the concomitants of death; 
 (The person who trusts the strength of their own people who act through force does not fulfill their purpose.)
 legge: "3. Hence he who (relies on) the strength of his forces does not conquer;"
 
-kema shiro [whu shia lomare] lo pelio pheno ka nai. thelao [whu lo shiro kati] miona shia kanu.
-strong tree [REL 3SG embrace] PL arm full CAUS be. CONS [REL PL tree cut] person 3SG choose.
-(A strong tree fills the arms that embrace it. Therefore a person who cuts trees chooses it.)
+kema shiro [whu shia lomare] lo pelio pheno so ka nai. thelao [whu lo shiro kati] miona shia kanu.
+strong tree [REL 3SG embrace] PL arm full FUT CAUS be. CONS [REL PL tree cut] person 3SG choose.
+(A strong tree will fill the arms that embrace it. Therefore a person who cuts trees chooses it.)
 legge: "and a tree which is strong will fill the out-stretched arms, (and thereby invites the feller.)"
 
 tinako nela kema noa mulu nai. wuloe nela huwa noa raelu nai.
@@ -321,34 +321,34 @@ rigid COORD strong position low be. soft COORD weak position tall be.
 legge: "4. Therefore the place of what is firm and strong is below, and that of what is soft and weak is above."
 ```
 
-The military line keeps both force and failure. Without a neutral army or conquest root, Phi describes forces as people who act through strength and renders conquest as fulfillment of their purpose. That last phrase is deliberately bare: the source citation identifies the purpose as conquest. The feller receives the same treatment. A tree cutter chooses the trunk broad enough to fill embracing arms.
+The military line includes both force and failure. Without a neutral army or conquest root, Phi describes forces as people who act through strength and renders conquest as fulfillment of their purpose. That last phrase is deliberately bare: the source citation identifies the purpose as conquest. The feller receives the same treatment. A tree cutter chooses the trunk broad enough to fill embracing arms.
 
 ### Complete translation
 
 ```
 keiro
 
-mo ko welao phea phialu nai. phialu theula thena naphe. phialu mua mulu lokue menui. phialu phirae lokue ma thueli. theula miona ra lokue ma kaeli. thelao phialu pai keiro nai.
+mo ko welao phea phialu nai. phialu theula thena naphe. phialu mua mulu lokue menui. phialu wea phirae lokue ma meloa. theula miona ra lokue ma kaeli. thelao phialu pai keiro nai.
 
-womu welao theali lokue nai. remo welao nulo shena nai. phiremo welao nua welao miona nai. welao punoa kowanu punoa koru ka nai. lo riola welao mua pokera phoa nai. roke thorui welao mua theali thimu nai.
+womu welao mua theali lokue nai. remo welao mua nulo moesha nai. phiremo welao nua taleri miona nai. punoa kowanu welao mua punoa koru ka nai. lo riola welao mua pokera phoa nai. roke thorui welao mua theali thimu nai.
 
-[whu mo ko welao phelu] miona mua mulu noa themore ma kealo. thelao mawha miona shia phelira nila.
+[whu mo ko welao phelu] miona miso mulu noa ma whakeru. thelao mawha miona shia phelira nila.
 
-ta lau ta shao wolea monaki lue rolu shuna wea ta kesho wepu. lo shia mua ta kesho koluma. rolu kelitho wei tolu whemoa tholu pherami. miona muo lo lopha mueri kire. lo lopha kelitho whemoa tholu pherami. lila miona tholupi kire miona lue lo moru ponu nela lo wira kati. tholupi kelitho mua shia whemoa tholu pherami. [whu nai] lo thena se po hinolu. whemoa tholu lo shia kelasu ka nai.
+ta lau ta shao rolu monaki lue rolu shuna wea ta kesho welura. lo shia mua ta kesho koluma. rolu kelitho wei tekari kema thena whemoa tholu pherami. miona muo lo lopha mueri kire. lo lopha kelitho whemoa tholu pherami. lila miona tholupi kire miona lue lo moru ponu tholu nela lo wira kati. tholupi kelitho mua shia whemoa tholu pherami. [whu nai] lo thena se po hinolu. whemoa tholu lo shia kelasu ka nai.
 
-lo miona mua mo ko tholua thimu tha [whu punoa karami phelu] lo miona nai tho to ma sano. lo miona mua nu wi thimu lo shia to lothea. lo miona lo shia to keluro. lo miona mua nu ta shao thimu wea lo shia sukima to phaelo. lo miona mua nu ta shao ta thimu lo shia to thiku nila. lu [whu punoa karami phelu] lo miona keiro to ma themui. lo miona lo shia to ma themui.
+lo miona mua mo ko tholua thimu tha [whu punoa karami phelu] lo miona nai tho to ma sano. lo miona mua nu wi thimu lo shia to lothea. lo miona wei lo shia woraka phelui to haolu. lo miona mua nu ta shao thimu wea lo shia sukima to phaelo. lo miona mua nu ta shao ta thimu lo shia to thiku nila. lu [whu punoa karami phelu] lo miona keiro to ma themui. lo miona lo shia to ma themui.
 
-lo shia nilua to nai. lo shia thiku haolu. lo shia miso lo phelui to sone. lo shia riola sholu to nai. lo shia lo rinoka to korei. theula miona sha lo mia lue miso phea lo mia nai sho to haolu.
+lo miona tha lo shia norethi ma nai tho to nila. lo shia thiku to haolu. lo shia miso lo phelui to sone. lo shia riola sholu to nai. lo shia lo rinoka to korei. theula miona sha lo mia lue miso phea lo mia nai sho to haolu.
 
-miona whuo phoa remo phoa. miona lo riola phoa. shia tupeka ma phaelo. miona thena thorima. shia thorima phirae ma nila. miona [whu thiku nai] thena whalo nila. shia phea sheloi thena phina thena nila. lu miona wei thia peloma phoa. no wei shia phena loa.
+miona whuo phoa remo phoa. miona lo riola phoa. shia tupeka ma phaelo. miona thena thorima. shia thorima phirae ma nila. miona [whu thiku nai] thena whalo nila. shia phea sheloi thena phina thena nila. miona wei [whu wei shia peloma phoa] miona phena loa.
 
-phoe lo riola kethua kelu [whu ha keiro thole] miona lo riola thilonu. [whu ha keiro thole] miona [whu so whalo kelu] lo thiku thena phoa. theula [whu kethua nai] muila thena lue [whu kethua ma nai] mirela shua. theula whalo thena lue thiku thena shua. phewo whalo thena mawha thimu phoa. thelao phewo mo ko whalo thena po korei.
+phoe lo riola kethua kelu [whu ha keiro thole] miona lo riola thilonu. [whu ha keiro thole] miona [whu so whalo kelu] lo thiku thena phoa. theula [whu kethua nai] muila thena lue [whu kethua ma nai] mirela shua. theula whalo thena lue thiku thena shua. phewo whalo thena mawha thimu phoa. thelao phewo lo mo ko whalo thena po korei.
 
-[whu phelo seru] miona phina seru ro korei. [whu tha lo riola kethua ma nai tho theula thimu remo] miona [whu kethua nai] lo riola ro hekawi. shai miona riola kethua ma nila phewo riola kethua nila. thelao phewo mawha thimu kethua phelu.
+[whu muko seru] miona phina seru ro korei. [whu tha lo riola kethua ma nai tho theula thimu remo] miona [whu kethua nai] lo riola ro hekawi. shai riola kethua se ma nila phewo riola kethua nila. thelao phewo mawha thimu kethua phelu.
 
 miona mua thowia thimu luwi nela huwa nai. miona mua lumeo thimu tinako nela kema nai. theula thena we phea ha nai. lo shiro nela lo phireo mua limu thuroa thimu wuloe nela welua nai. lo shia mua lumeo thimu kurathi nai. lo shia mua lumeo thimu ki kureno.
 
-tinako nela kema nua lumeo shua. wuloe nela huwa nua lioru shua. [whu miso [whu roe puro phoa] lo miona puro theomi] miona miso porua ma korei. kema shiro [whu shia lomare] lo pelio pheno ka nai. thelao [whu lo shiro kati] miona shia kanu. tinako nela kema noa mulu nai. wuloe nela huwa noa raelu nai.
+tinako nela kema nua lumeo shua. wuloe nela huwa nua lioru shua. [whu miso [whu roe puro phoa] lo miona puro theomi] miona miso porua ma korei. kema shiro [whu shia lomare] lo pelio pheno so ka nai. thelao [whu lo shiro kati] miona shia kanu. tinako nela kema noa mulu nai. wuloe nela huwa noa raelu nai.
 ```
 
 ### Translation limits
@@ -356,20 +356,21 @@ tinako nela kema nua lumeo shua. wuloe nela huwa nua lioru shua. [whu miso [whu 
 | Legge wording | Phi rendering | Remaining difference |
 |---|---|---|
 | Tao | `keiro`, a way or method used here for Tao | The word can also name a physical route. It does not carry the Taoist tradition by itself. |
-| highest excellence | quality noun of `welao`, good, under `mo ko` | The ordinary adjective joins ethical benefit and proper function. It has no separate rank of virtue. |
-| mind; abysmal stillness | the excellence of thinking is deep calm | Phi uses the activity of thinking rather than a mental faculty. `nulo` and `shena` retain depth and stillness. |
-| without striving; wrangling | water seeks no other place; the person creates no argument | Phi states the visible acts. It lacks Legge's shared vocabulary of contention. |
-| virtuous associations | being with `welao miona`, good people | `welao` gives a broad judgment without encoding a doctrine of virtue. |
+| highest excellence | quality noun of `welao`, good, under `mo ko` | The ordinary adjective joins ethical benefit and proper function. It has no separate rank of excellence. |
+| mind; abysmal stillness | the goodness of thinking is in deep stillness | Phi uses the activity of thinking rather than a mental faculty. `nulo` and `moesha` retain depth and stillness. |
+| without striving; wrangling | water does not persevere towards another place; the person does not object to their low position | Perseverance adds sustained effort, while objecting is less contentious than wrangling. |
+| virtuous associations | being with `taleri miona`, virtuous people | `taleri` makes the ethical judgement explicit while leaving its grounds with the source tradition. |
 | government; rulers | `kowanu`, governance; people who hold society's `karami`, authority | Governance translates the continuing social arrangement in chapter 8. Authority preserves the political relation in chapter 17 without adding a ruler class. |
-| praised | people honored them | Honor keeps the esteem but does not require the spoken act of praise. |
+| praised | people spoke `woraka phelui`, words of appreciation | The spoken act is explicit, though Phi composes it instead of using a dedicated praise root. |
 | finds fault | sees the person as `phelira`, mistaken | Reproach narrows to a judgment of error. It does not carry blame or moral censure. |
-| spoke, nave, axle | wooden wheel components, one center, a support rod | `monaki` identifies the spokes as functional parts. The geometry and dependency remain visible, but the three craft terms have no Phi roots. |
+| spoke, nave, axle | wheel components, one centre, a straight strong thing | `monaki` identifies the spokes as functional parts. The geometry and dependency remain visible, but the three craft terms have no Phi roots. |
+| door | `ponu tholu`, door-space | Legge uses door for the opening cut from a wall. Phi keeps that opening apart from `ponu`, the movable closure. |
 | profitable adaptation | things that exist can be adapted | Adaptation survives. The English word's monetary resonance stays in Legge's line. |
-| irresolute; reticence | `nilua`, hesitant, followed by speaking little | `nilua` begins in social reserve. The following actions supply the source's care with words. |
+| irresolute; reticence | seen as not `norethi`, confident, followed by speaking little | Lack of confidence approximates irresolution. Speaking little and valuing one's words carry the reticence. |
 | master of the way | the person who practices this way | Phi describes practice instead of importing a title that can also name domination. |
 | easy; difficult | `kethua`, hard or difficult, and its negation | Phi has no separate easy adjective. Negation states the lower-effort side of the contrast without borrowing physical lightness. |
-| lightly promises; is sure to | commits lightly; habitual fulfillment or difficulty under `ro` | Commitment covers both pledge and follow-through. `ro` states a pattern instead of Legge's certainty. |
-| injury recompensed | if a person acts harmfully toward you, give kindness to them | Phi turns recompense into a condition and request, so its accounting shape is lost. |
+| lightly promises; is sure to | commits carelessly; habitual fulfilment or difficulty under `ro` | Commitment covers both pledge and follow-through. `ro` states a pattern instead of Legge's certainty. |
+| injury recompensed | a person gives kindness to someone who acts harmfully towards them | The transfer remains, but Phi leaves behind the accounting sense of recompense and describes injury as harmful action. |
 | brittle; withered | fragile; dry and perfective wither | Fragility covers susceptibility to breaking. `ki kureno` presents withering as complete at the time of death. |
 | concomitants | qualities that come with death or life | Ordinary accompaniment replaces Legge's abstract relation. |
 | forces; conquer | people who act through strength; failure to fulfill their purpose | Phi preserves reliance on force and failure, but it does not specify a military body. Conquest is explicit only in Legge's source line. |
@@ -396,15 +397,16 @@ water UNIV thing help.
 (Water helps all things.)
 legge: "The excellence of water appears in its benefiting all things,"
 
-phialu mawha pilu.
-water NONE take.
-(Water takes nothing.)
-legge: "without striving (to the contrary),"
+phialu mua mulu lokue menui.
+water LOC low place dwell.
+(Water dwells in a low place.)
+legge: "and in its occupying,"
 
-phialu mua mulu lokue menui. miona ra ma menui.
-water LOC low place dwell. person DIST NEG dwell.
-(It dwells in the low places. People will not dwell there.)
-legge: "and in its occupying, ... the low place which all men dislike."
+phialu mawha pilu. miona ra ma menui.
+water NONE take. person DIST NEG dwell.
+(Water takes nothing. People do not dwell there.)
+legge: "without striving (to the contrary),"
+legge: "the low place which all men dislike."
 
 thelao phialu pai keiro nai.
 CONS water NEAR way be.
@@ -412,11 +414,11 @@ CONS water NEAR way be.
 legge: "Hence (its way) is near to (that of) the Tao."
 ```
 
-Legge's simile opens with `no phialu nila`, look at water. The reader now has to make the comparison. A sharper change follows: `mawha pilu`, takes nothing, moves from contention to acquisition and reads the water through Phi's gift economy. That is an interpretation, not a lexical equivalent. The dislike of the low place is recast as observable behavior: `miona ra ma menui`, people will not live there. At the end, `thelao` keeps Legge's causal step into the water's nearness to the way.
+Legge's simile opens with `no phialu nila`, look at water. The reader now has to make the comparison. Water settles in a low place, then `mawha pilu`, takes nothing, changes striving into acquisition and reads the water through Phi's gift economy. People answer by not dwelling there, an observable version of dislike. This is an interpretation, not a lexical equivalent. At the end, `thelao` keeps Legge's causal step into the water's nearness to the way.
 
 ### Chapter 11: the use of what is not there
 
-The chapter is whole apart from the thirty spokes. This household throws pots and hangs doors, so the transmutation stays with examples its readers can shape with their own hands. Laozi also reached for the objects at hand.
+The wheel is absent from this version. The vessel, the room, and the closing relation between presence and use remain, though each changes shape. This household throws pots and hangs doors, so the transmutation chooses examples its readers can shape with their own hands. Laozi also reached for the objects at hand.
 
 ```
 miona muo tomi muila kire.
@@ -429,27 +431,27 @@ pot interior empty be. LOC pot zero thing be. CONS pot POT hold.
 (The pot's interior is empty; in the pot there are zero things; and so the pot can hold.)
 legge: "but it is on their empty hollowness, that their use depends."
 
-miona womu lorima. miona ponu nela wira kire.
-person home build. person door COORD window shape.
-(One builds a home, and shapes a door and a window.)
+miona womu lorima. miona ponu tholu nela wira kire.
+person home build. person door space COORD window shape.
+(One builds a home and shapes a door-space and a window.)
 legge: "The door and windows are cut out (from the walls) to form an apartment;"
 
-ponu whemoa nai. thelao miona po koema. wira whemoa nai. thelao waero po koema.
-door empty be. CONS person POT enter. window empty be. CONS sky POT enter.
-(The door is empty, and so a person can enter. The window is empty, and so the sky can enter.)
+ponu tholu whemoa nai. thelao miona po koema. wira whemoa nai. thelao waero po koema.
+door space empty be. CONS person POT enter. window empty be. CONS sky POT enter.
+(The door-space is empty, and so a person can enter. The window is empty, and so the sky can enter.)
 legge: "but it is on the empty space (within), that its use depends."
 
 thena naphe. whemoa we naphe.
 thing help. empty ALSO help.
-(What is there helps. What is not there helps also.)
+(A thing helps. Emptiness helps too.)
 legge: "Therefore, what has a (positive) existence serves for profitable adaptation, and what has not that for (actual) usefulness."
 ```
 
-The pot contains `mu thena`, zero things. That is `mu` doing ordinary counting before it does any philosophical work. The wheel stays outside this version, while pot and door remain under the reframe. Legge's dependence uses `po`: emptiness opens a possibility without adding a function. The window gets a line of its own because the sky can enter through it. In the final couplet, `whemoa` is a quality noun in subject position. Phi can say that emptiness helps without coining an abstract noun for it.
+The pot contains `mu thena`, zero things. That is `mu` doing ordinary counting before it does any philosophical work. `ponu tholu` names the space at the door rather than calling the movable panel empty. Legge's dependence uses `po`: emptiness opens a possibility without adding a function. The window gets a line of its own because the sky can enter through it. In the final couplet, `whemoa` is a quality noun in subject position. Phi can say that emptiness helps without coining an abstract noun for it.
 
 ### Chapter 17: the guide no one notices
 
-The excerpt is the chapter entire.
+The excerpt follows the chapter from beginning to end, with its compressed and omitted relations named in the gap log.
 
 ```
 lo miona mua nu ta thimu [whu kulo miona] to ma sano.
@@ -472,13 +474,13 @@ PL person LOC ORD one three-group one time 3SG PST small see.
 (In the fourth time, the people saw them as small.)
 legge: "in the next they despised them."
 
-lu [whu kulo miona] keiro ma theomi. lo miona shia ma theomi.
-COND [REL guide person] way NEG trust. PL person 3SG NEG trust.
-(When the one who guides does not trust the way, the people do not trust the guide.)
+lu [whu kulo miona] keiro to ma theomi. lo miona shia to ma theomi.
+COND [REL guide person] way PST NEG trust. PL person 3SG PST NEG trust.
+(When the one who guided did not trust the way, the people did not trust the guide.)
 legge: "Thus it was that when faith (in the Tao) was deficient (in the rulers) a want of faith in them ensued (in the people)."
 
-lo shia thiku haolu. lo shia miso phelui meropi.
-PL 3SG small speak. PL 3SG REFL word cherish.
+lo shia thiku to haolu. lo shia miso phelui to meropi.
+PL 3SG small PST speak. PL 3SG REFL word PST cherish.
 (They spoke little, and cherished their own words.)
 legge: "2. How irresolute did those (earliest rulers) appear, showing (by their reticence) the importance which they set upon their words!"
 
@@ -493,11 +495,11 @@ UNIV person QUOT.COMP PL 1SG ABL REFL AS PL 1SG be QUOT.COMP.CLOSE PST speak.
 legge: "while the people all said, 'We are as we are, of ourselves!'"
 ```
 
-No neutral ruler word exists in Phi, so this version chooses `whu kulo miona`, the one who guides. That is the chapter's refusal and its largest departure from Legge. Four ordinal time phrases count the ages, and every historical verb carries `to`. The registered compound `thiku nila` sees someone as small. The faith sentence repeats one negation on both sides of the relation: the guide does not trust `keiro`, then the people do not trust the guide. Reticence takes little speech and cherished words. `sha ... sho` closes around the people's exact claim, where the guide is finally absent: we, of ourselves, are as we are.
+No neutral ruler word exists in Phi, so this version chooses `whu kulo miona`, the one who guides. That is the chapter's refusal and its largest departure from Legge. Four ordinal time phrases count the ages, and every historical verb carries `to`. The registered compound `thiku nila` sees someone as small. The faith sentence repeats one negation on both sides of the relation: the guide did not trust `keiro`, then the people did not trust the guide. Reticence takes little speech and cherished words. `sha ... sho` closes around the people's exact claim, where the guide is finally absent: we, of ourselves, are as we are.
 
 ### Chapter 63: the great begins small
 
-The excerpt takes four moments: acting without acting, injury recompensed with kindness, the great arising from the small, and the sage's paradox. The flavors, the promises, and the difficulties stay behind.
+The excerpt takes four moments: acting without acting, injury recompensed with kindness, the great arising from the small, and the sage's paradox. Everything between those moments stays outside this version; the gap log names the omissions.
 
 ```
 no maeli phoa.
@@ -515,9 +517,9 @@ UNIV large labor ABL small labor come.
 (Every great work comes from small work.)
 legge: "and all great things from one in which they were small."
 
-phewo whalo thena ma phoa. thelao phewo mo ko whalo thena po pilewa.
-sage large thing NEG do. CONS sage CMPR FOC large thing POT make.
-(The sage does not do the great thing; and so the sage can make the greatest thing.)
+phewo whalo thena mawha thimu phoa. thelao phewo lo mo ko whalo thena po pilewa.
+sage large thing NONE time do. CONS sage PL CMPR FOC large thing POT make.
+(The sage never does the great thing; and so the sage can make the greatest things.)
 legge: "Therefore the sage, while he never does what is great, is able on that account to accomplish the greatest things."
 ```
 
@@ -538,9 +540,9 @@ UNIV thing ALSO AS PROX be.
 (All things are like this too.)
 legge: "(So it is with) all things."
 
-shiro nela whelina mua newu thimu wuloe nela welua nai.
-tree COORD grass LOC new time soft COORD fragile be.
-(Trees and grasses, in the new time, are soft and fragile.)
+lo shiro nela lo phireo mua limu thuroa thimu wuloe nela welua nai.
+PL tree COORD PL plant LOC young grow time soft COORD fragile be.
+(Trees and plants in their early growth are soft and fragile.)
 legge: "Trees and plants, in their early growth, are soft and brittle;"
 
 lo shia mua lumeo thimu kurathi nai. lo shia mua lumeo thimu ki kureno.
@@ -569,7 +571,7 @@ rigid COORD strong position low be. soft COORD weak position tall be.
 legge: "4. Therefore the place of what is firm and strong is below, and that of what is soft and weak is above."
 ```
 
-Legge's pairs stay on `nela`: `luwi nela huwa`, flexible and weak, then `tinako nela kema`, rigid and strong. Each pair belongs to a life stage under `thimu`. The plant line keeps `welua`, fragile, for brittle, while `kurathi`, dry, and perfective `kureno`, wither, restore both parts of Legge's final condition. Before the wind reaches the tree, the military warning has already changed: `li kema theomi`, trust only strength, brings `mawha lureko`, no fruit. The rigid tree falls and the flexible one stays. The feller is gone, but reliance on force is still visible before the final low and high positions.
+Legge's pairs use `nela`: `luwi nela huwa`, flexible and weak, then `tinako nela kema`, rigid and strong. Each pair belongs to a life stage under `thimu`. The plant line has the source's trees and plants in early growth; `welua`, fragile, answers brittle, while `kurathi`, dry, and perfective `kureno`, wither, restore both parts of the final condition. Before the wind reaches the tree, the military warning has already changed: `li kema theomi`, trust only strength, brings `mawha lureko`, no fruit. The rigid tree falls and the flexible one stays. The feller is gone, but reliance on force is still visible before the final low and high positions.
 
 ---
 
@@ -581,18 +583,26 @@ Legge's pairs stay on `nela`: `luwi nela huwa`, flexible and weak, then `tinako 
 | highest excellence like water | `no phialu nila`, look at water |
 | without striving | `mawha pilu`, takes nothing, an economic reframe |
 | dislike of the low place | refusal to dwell there |
-| thirty spokes | omitted while pot, door, and window carry the argument |
-| useful | possibility under `po` |
+| residence, mind, association, government, affairs, movement, and the closing refusal to wrangle | omitted with the second and third sections of chapter 8 |
+| spokes, nave, axle, and wheel use | the wheel image is omitted while pot, door-space, and window carry the argument |
+| clay vessels | earth shaped into one pot |
+| door and windows cut from walls | a home, door-space, and window are shaped; entry and sky reveal the openings |
+| profitable adaptation and usefulness | possibility under `po`, followed by things and emptiness both helping |
 | rulers | `whu kulo miona`, people who guide |
 | four ages; praised | ternary ordinals; `keluro`, honor |
 | faith in the Tao | trust in `keiro` |
-| irresolute reticence | speaking little and cherishing words |
+| irresolute reticence | the appearance of irresolution is omitted; speaking little and cherishing words carry reticence |
 | undertakings successful | complete work |
 | *wu wei* | `no maeli phoa`, do quietly |
 | recompense injury | return kindness for a harmful thing |
-| flavors, promises, and sure-to-arise difficulties | omitted from the selected moments of chapter 63 |
+| all great things arise from small things | every great work comes from small work |
+| the sage accomplishes the greatest things | the sage can make the greatest things |
+| affairs without trouble; flavour without distinction; small as great and few as many | omitted from chapter 63 |
+| anticipation while things are easy; great things done while small; difficult things arising from easy states | omitted from chapter 63 |
+| light promises; continual thoughts of ease; the sage seeing difficulty in apparent ease | omitted from chapter 63 |
 | supple and weak; firm and strong; soft and brittle | quality pairs joined by `nela` |
 | withered | `kurathi`, dry, and perfective `kureno`, wither |
+| concomitants | friends or companions of death and life |
 | strength of forces and conquest | trust in strength alone brings no fruit |
 | feller | great wind |
 | below and above | `noa mulu` and `noa raelu` |
@@ -611,8 +621,8 @@ Both renderings begin with water and end with the place of what yields. The clos
 
 | Moment | Close translation | Transmutation | Why they diverge |
 |---|---|---|---|
-| water and striving | The highest good is like water. Water does not intend another place, and people dislike the low one it occupies. | The reader is told to look at water. Water helps everything and takes nothing. | Translation retains Legge's comparison and human dislike. Transmutation changes contention into acquisition, then places the lesson inside Phi's gift economy. |
-| the wheel | Thirty wooden components meet at one center, whose open space admits a support rod. | The wheel is omitted; pot, door, and window carry the chapter. | Translation owes Legge all three objects. Transmutation keeps the household crafts its first readers can make and inspect. |
+| water and striving | The highest good is like water. Water does not persevere towards another place, and people dislike the low one it occupies. | The reader is told to look at water. Water helps everything and takes nothing. | Translation retains Legge's comparison and human dislike. Transmutation changes contention into acquisition, then places the lesson inside Phi's gift economy. |
+| the wheel | Thirty wheel components extend from the rim and unite at one centre, whose open space admits a straight, strong thing. | The wheel is omitted; pot, door-space, and window carry the chapter. | Translation owes Legge all three objects. Transmutation keeps the household crafts its first readers can make and inspect. |
 | political relation | Chapter 8 describes good governance; chapter 17 describes authority holders in society. | The rulers become people who guide, then disappear from the people's final claim. | Translation must preserve power even when Phi declines a ruler class. Transmutation tests Legge's ideal by removing authority from the relation altogether. |
 | action and difficulty | Chapter 63 includes acting without thought of action, flavor without distinction, light commitments, preparation, and difficulty under `kethua`. | `no maeli phoa`, do quietly, carries *wu wei*. Four selected moments replace the chapter's full chain. | Translation uses a direct quality for difficulty while leaving easy as its negation. The transmutation keeps four moments and leaves the longer chain out. |
 | force and the tree | Someone trusts the strength of people who act through force, then fails at the purpose Legge calls conquest. A broad tree draws the tree cutter. | Trust in strength brings no fruit. A rigid tree falls in wind while a flexible tree stays. | Translation states Legge's violent purpose without making it ordinary vocabulary. Transmutation rejects the target and lets weather teach the same warning. |
