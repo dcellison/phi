@@ -3,7 +3,7 @@
 0.47	1	mia	1SG	function	mea	thanks	interjection	2488
 0.47	1	lu	COND	function	lo	PL	function	2178
 0.47	1	shea	peace	content	shia	3SG	function	1776
-0.47	1	nila	see	content	nela	COORD	function	922
+0.47	1	nila	see	content	nela	COORD	function	923
 0.47	1	so	FUT	function	su	OPT	function	462
 0.47	1	ro	HAB	function	ru	INTS	function	427
 0.47	1	si	IPFV	function	se	PASS	function	354
@@ -15,8 +15,8 @@
 0.47	1	te	CESS	function	ti	REP	function	143
 0.47	1	lau	twenty-seven-group	content	lao	BECAUSE	function	116
 0.47	1	nophi	story	content	nophe	ABST.CLF	function	109
-0.47	1	wia	how many	function	wea	TOWARD	function	100
-0.47	1	nia	ON	function	nea	aha	interjection	98
+0.47	1	nia	ON	function	nea	aha	interjection	101
+0.47	1	wia	how many	function	wea	TOWARD	function	101
 0.47	1	pi	POL	function	pe	SUFF	function	98
 0.47	1	hi	DIR	function	he	IRR	function	93
 0.47	1	le	HON.ROLE	function	li	RESTR	function	87
@@ -95,7 +95,7 @@
 0.47	1	thorai	bless	content	thurai	vibrant	content	1
 0.50	1	po	POT	function	to	PST	function	3063
 0.50	1	ko	FOC	function	to	PST	function	2768
-0.50	1	nia	ON	function	mia	1SG	function	2571
+0.50	1	nia	ON	function	mia	1SG	function	2574
 0.50	1	thia	2SG	function	shia	3SG	function	2434
 0.50	1	tha	DECL.COMP	function	ha	PROX	function	1499
 0.50	1	sha	QUOT.COMP	function	ha	PROX	function	1427
@@ -106,7 +106,7 @@
 0.50	1	tho	DECL.COMP.CLOSE	function	sho	QUOT.COMP.CLOSE	function	880
 0.50	1	tho	DECL.COMP.CLOSE	function	so	FUT	function	799
 0.50	1	sho	QUOT.COMP.CLOSE	function	so	FUT	function	727
-0.50	1	nua	COM	function	mua	LOC	function	676
+0.50	1	nua	COM	function	mua	LOC	function	673
 0.50	1	whu	REL	function	su	OPT	function	653
 0.50	1	tho	DECL.COMP.CLOSE	function	pho	INT.COMP.CLOSE	function	631
 0.50	1	tha	DECL.COMP	function	pha	INT.COMP	function	630
@@ -139,7 +139,7 @@
 0.50	1	te	CESS	function	ke	INFER	function	166
 0.50	1	pi	POL	function	ti	REP	function	165
 0.50	1	pheo	POST	function	sheo	THAN	function	157
-0.50	1	phoa	do	content	thoa	AMONG	function	147
+0.50	1	phoa	do	content	thoa	AMONG	function	144
 0.50	1	thelao	CONS	function	shelao	SUMM	function	143
 0.50	1	heloi	generous	content	sheloi	MANY	function	121
 0.50	1	seloi	insightful	content	sheloi	MANY	function	119
@@ -177,11 +177,11 @@
 0.50	1	selu	flow	content	phelu	hold	content	333
 0.50	1	phelu	hold	content	helu	smooth	content	332
 0.50	1	thelu	dialogue	content	phelu	hold	content	330
-0.50	1	phena	kind	content	thena	thing	content	306
-0.50	1	shena	calm	content	thena	thing	content	272
+0.50	1	phena	kind	content	thena	thing	content	304
+0.50	1	shena	calm	content	thena	thing	content	270
 0.50	1	shua	come	content	thua	fair	content	264
-0.50	1	sena	pattern	content	thena	thing	content	263
-0.50	1	thema	guardian	content	thena	thing	content	261
+0.50	1	sena	pattern	content	thena	thing	content	261
+0.50	1	thema	guardian	content	thena	thing	content	259
 0.50	1	phao	parent	content	shao	three-group	content	250
 0.50	1	wheo	elder	content	theo	read	content	209
 0.50	1	melu	friend	content	nelu	revere	content	204
@@ -192,10 +192,10 @@
 0.50	1	shelu	book	content	helu	smooth	content	155
 0.50	1	shelu	book	content	thelu	dialogue	content	153
 0.50	1	phao	parent	content	hao	pardon	interjection	133
-0.50	1	phoa	do	content	soa	sorry	interjection	126
+0.50	1	phoa	do	content	soa	sorry	interjection	123
 0.50	1	noshi	near (adj)	content	nophi	story	content	122
-0.50	1	phoa	do	content	whoa	whole	content	122
 0.50	1	shao	three-group	content	hao	pardon	interjection	121
+0.50	1	phoa	do	content	whoa	whole	content	119
 0.50	1	phulae	mouth	content	sulae	warm	content	115
 0.50	1	nophi	story	content	mophi	wool	content	114
 0.50	1	korua	heart	content	torua	year	content	113
@@ -210,8 +210,8 @@
 0.50	1	teli	bell	content	keli	device	content	83
 0.50	1	sila	community	content	whila	hair	content	81
 0.50	1	shelira	forest	content	phelira	mistaken	content	78
+0.50	1	noru	bowl	content	moru	wall	content	71
 0.50	1	thero	fire	content	shero	night	content	70
-0.50	1	noru	bowl	content	moru	wall	content	69
 0.50	1	keru	bright	content	teru	process	content	67
 0.50	1	sholu	complete	content	tholu	space	content	67
 0.50	1	thelui	sanctuary	content	phelui	word	content	67
