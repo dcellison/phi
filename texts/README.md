@@ -2,9 +2,9 @@
 
 This shelf holds translations, transmutations, and original Phi work. A translation stays answerable to the source's claims and distinctions. A transmutation lets the same source change under Phi's five pillars and habits of thought. In an original, Phi comes first and the English follows instead of governing it. Phi prefers transmutation when it works from inherited material, while paired renderings keep the close analogue beside the Phi-shaped work so a reader can see what changed.
 
-Short works each have one Markdown file. A book gets its own directory, where its chapter sequence and shared source witness stay together. The `sources/` directory holds source witnesses for the remaining works.
+Short works each have one Markdown file. An author collection gets its own directory and catalogue, so separate source works can stay together without pretending to be chapters. A book also gets a directory, where its chapter sequence and shared source witness stay together. The `sources/` directory holds source witnesses for the ungrouped works.
 
-## Works
+## Short works
 
 | Work | Method | Coverage | Text |
 |---|---|---|---|
@@ -21,11 +21,21 @@ Short works each have one Markdown file. A book gets its own directory, where it
 | Schleicher's fable | Translation + transmutation | The complete fable in two renderings. | [Read](schleicher_fable.md) |
 | The Little Prince, selections | Transmutation | Three short passages from Katherine Woods's translation. | [Read](little_prince_excerpts.md) |
 | The Velveteen Rabbit | Transmutation | The complete story. | [Read](velveteen_rabbit.md) |
-| The Prophet, selections | Translation + transmutation | Three teachings, with On Children rendered both ways. | [Read](prophet_excerpts.md) |
 | Tao Te Ching, selections | Translation + transmutation | Legge's chapters 8, 11, 17, 63, and 76 rendered both ways. | [Read](tao_te_ching.md) |
 | The Heart Sutra | Translation + transmutation | Müller's smaller Heart Sutra in two renderings. | [Read](heart_sutra.md) |
-| News from Nowhere | Transmutation | The first five chapters of a planned 32. | [Open the book](news_from_nowhere/) |
+
+## Author collections
+
+| Collection | Coverage | Text |
+|---|---|---|
+| Kahlil Gibran | Three teachings from *The Prophet*, with On Children rendered both ways. | [Open the collection](gibran/) |
+
+## Book-length work
+
+| Work | Method | Coverage | Text |
+|---|---|---|---|
+| News from Nowhere | Transmutation | The first six chapters of a planned 32. | [Open the book](news_from_nowhere/) |
 
 ## Maintaining the shelf
 
-The machine-readable [catalogue](catalogue.json) owns the website order, method labels, display titles, and summaries. Every short work and book directory appears there once. The site build stops when the catalogue and the shelf disagree.
+The machine-readable [catalogue](catalogue.json) owns the website order, method labels, display titles, and summaries. Every short work, author collection, and book directory appears there once. A collection has its own member catalogue. The site build stops when a catalogue and its shelf disagree.

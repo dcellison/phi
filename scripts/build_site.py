@@ -14,7 +14,11 @@ from pathlib import Path
 import tengwar
 
 from compound_registry import load_compounds
-from content_catalogues import load_pamphlet_catalogue, load_text_catalogue
+from content_catalogues import (
+    load_pamphlet_catalogue,
+    load_text_catalogue,
+    load_text_collection_catalogues,
+)
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE_SRC = ROOT / "site"
@@ -26,12 +30,48 @@ VOCABULARY_ENTRY_DIRS = tuple(
 SCHEMA = json.loads((VOCABULARY_DIR / "schema.json").read_text(encoding="utf-8"))
 FIELDS = list(SCHEMA["properties"])
 TEXT_CATALOGUE = load_text_catalogue(ROOT)
+TEXT_COLLECTION_CATALOGUES = load_text_collection_catalogues(
+    ROOT, TEXT_CATALOGUE
+)
 PAMPHLET_CATALOGUE = load_pamphlet_catalogue(ROOT)
 TEXTS = [work for work in TEXT_CATALOGUE if work["kind"] == "short"]
+COLLECTIONS = [
+    work for work in TEXT_CATALOGUE if work["kind"] == "collection"
+]
+COLLECTION_TEXTS_BY_PATH = {
+    collection["path"]: [
+        {
+            **work,
+            "_repo_path": (
+                f'texts/{collection["path"]}/{work["path"]}'
+            ),
+            "_site_path": (
+                f'{collection["path"]}/{Path(work["path"]).stem}.html'
+            ),
+        }
+        for work in TEXT_COLLECTION_CATALOGUES[collection["path"]]
+    ]
+    for collection in COLLECTIONS
+}
+COLLECTION_TEXTS = [
+    work
+    for collection in COLLECTIONS
+    for work in COLLECTION_TEXTS_BY_PATH[collection["path"]]
+]
 BOOKS = [work for work in TEXT_CATALOGUE if work["kind"] == "book"]
 if len(BOOKS) != 1:
     raise ValueError("the site renderer currently expects exactly one catalogued book")
 NEWS_WORK = BOOKS[0]
+
+
+def text_repo_path(work):
+    """Return the repository path for a short or collected work."""
+    return work.get("_repo_path", f'texts/{work["path"]}')
+
+
+def text_site_path(work):
+    """Return the deployed path for a short or collected work."""
+    return work.get("_site_path", f'{Path(work["path"]).stem}.html')
 
 
 def prepare_site_output():
@@ -652,10 +692,15 @@ print(
 # ---- primer reader: primer/*.md rendered to build/site/primer/ ----
 
 TEXT_SITE_PATHS = {
-    f"texts/{work['path']}": f"{Path(work['path']).stem}.html"
-    for work in TEXT_CATALOGUE
-    if work["kind"] == "short"
+    text_repo_path(work): text_site_path(work)
+    for work in [*TEXTS, *COLLECTION_TEXTS]
 }
+TEXT_SITE_PATHS.update(
+    {
+        f'texts/{collection["path"]}': f'{collection["path"]}/index.html'
+        for collection in COLLECTIONS
+    }
+)
 for chapter in sorted(
     (ROOT / "texts" / NEWS_WORK["path"]).glob("chapter_*.md")
 ):
@@ -3550,7 +3595,10 @@ def load_texts_editorial():
     if not isinstance(pages, dict):
         raise ValueError("site/texts_editorial.json pages must be an object")
 
-    catalogued = {f"texts/{work['path']}": work for work in TEXTS}
+    catalogued = {
+        text_repo_path(work): work
+        for work in [*TEXTS, *COLLECTION_TEXTS]
+    }
     resolved = {}
     shared_required = {
         "form",
@@ -5169,11 +5217,11 @@ def texts_page(
 """
 
 
-def text_work_nav(index):
-    """Build previous, shelf, and next navigation for an editorial work."""
+def text_work_nav(works, index, index_label="All texts"):
+    """Build previous, contents, and next navigation for a work sequence."""
     links = []
     if index > 0:
-        previous = TEXTS[index - 1]
+        previous = works[index - 1]
         links.append(
             f'<a class="text-work-prev" href="{Path(previous["path"]).stem}.html">'
             '<span class="text-nav-direction">&lsaquo; Previous work</span>'
@@ -5182,9 +5230,12 @@ def text_work_nav(index):
         )
     else:
         links.append('<span class="text-work-nav-space" aria-hidden="true"></span>')
-    links.append('<a class="text-work-index" href="index.html">All texts</a>')
-    if index + 1 < len(TEXTS):
-        following = TEXTS[index + 1]
+    links.append(
+        '<a class="text-work-index" href="index.html">'
+        f"{html_module.escape(index_label)}</a>"
+    )
+    if index + 1 < len(works):
+        following = works[index + 1]
         links.append(
             f'<a class="text-work-next" href="{Path(following["path"]).stem}.html">'
             '<span class="text-nav-direction">Next work &rsaquo;</span>'
@@ -5213,7 +5264,7 @@ for work_index, work in enumerate(TEXTS):
             repo_path,
             treatment,
         )
-        footer_nav = text_work_nav(work_index)
+        footer_nav = text_work_nav(TEXTS, work_index)
         editorial_kind = treatment["form"]
         editorial_motif = treatment["motif"]
     else:
@@ -5732,7 +5783,7 @@ TEXT_CONTENTS_METHODS = (
 
 def split_catalogued_text_title(work):
     """Separate and verify the Phi and English parts of a catalogue title."""
-    repo_path = f"texts/{work['path']}"
+    repo_path = text_repo_path(work)
     treatment = TEXT_EDITORIAL_PAGES.get(repo_path)
     if treatment is not None:
         return split_text_editorial_title(
@@ -5764,11 +5815,198 @@ def text_contents_arrow():
     )
 
 
+def text_collection_index(readme_source, collection, works):
+    """Build one author-collection landing page from its README and catalogue."""
+    collection_path = collection["path"]
+    body = md_to_html(readme_source)
+    body = re.sub(
+        r'href="([a-z0-9_]+)\.md"',
+        r'href="\1.html"',
+        body,
+    )
+    body = re.sub(
+        r'href="sources/([^"]+)"',
+        (
+            'href="https://github.com/dcellison/phi/blob/main/'
+            f'texts/{collection_path}/sources/\\1"'
+        ),
+        body,
+    )
+    match = re.fullmatch(
+        r"<h1><em>(.*?)</em></h1>\s*"
+        r"<p>(.*?)</p>\s*"
+        r"<h2>Works</h2>\s*"
+        r"<table>(.*?)</table>",
+        body.strip(),
+        flags=re.S,
+    )
+    phi_title, english_title = text_contents_title(collection)
+    if (
+        match is None
+        or html_module.unescape(match.group(1)) != english_title
+    ):
+        raise ValueError(
+            f"text collection README structure differs: {collection_path}"
+        )
+    rows = re.findall(r"<tr>(.*?)</tr>", match.group(3), flags=re.S)
+    if not rows:
+        raise ValueError(
+            f"text collection README has no work table: {collection_path}"
+        )
+    headers = re.findall(r"<th>(.*?)</th>", rows[0], flags=re.S)
+    if headers != ["Work", "Method", "Text"]:
+        raise ValueError(
+            f"text collection README headers differ: {collection_path}"
+        )
+    if len(rows) - 1 != len(works):
+        raise ValueError(
+            f"text collection README work count differs: {collection_path}"
+        )
+    for row, work in zip(rows[1:], works):
+        cells = re.findall(r"<td>(.*?)</td>", row, flags=re.S)
+        _, work_english = text_contents_title(work)
+        if len(cells) != 3:
+            raise ValueError(
+                f"text collection README row differs: {text_repo_path(work)}"
+            )
+        link = re.fullmatch(
+            rf'<a href="{re.escape(Path(work["path"]).stem)}\.html">'
+            r"[^<]+</a>",
+            cells[2],
+        )
+        if (
+            cells[0] != html_module.escape(work_english, quote=False)
+            or cells[1] != html_module.escape(work["method"], quote=False)
+            or link is None
+        ):
+            raise ValueError(
+                f"text collection README row differs: {text_repo_path(work)}"
+            )
+
+    tengwar_title = tengwar.render_line(phi_title)
+    if tengwar_title is None:
+        raise ValueError(
+            f"text collection title cannot render in Tengwar: {collection_path}"
+        )
+    work_rows = []
+    for index, work in enumerate(works, 1):
+        work_phi, work_english = text_contents_title(work)
+        work_rows.append(
+            '<li class="news-book-chapter author-collection-work">'
+            f'<a href="{Path(work["path"]).stem}.html">'
+            f'<span class="news-book-chapter-number">{index:02d}</span>'
+            '<div class="news-book-chapter-copy">'
+            f'<p class="news-book-chapter-label">Work {index:02d}</p>'
+            f'<p class="author-collection-work-phi" lang="art-x-phi">'
+            f"{html_module.escape(work_phi)}</p>"
+            f"<h3>{html_module.escape(work_english)}</h3>"
+            f'<p class="news-book-chapter-summary">'
+            f'{html_module.escape(work["summary"])}</p>'
+            "</div>"
+            '<div class="news-book-chapter-meta">'
+            f'<p>{html_module.escape(work["method"])}</p>'
+            "</div>"
+            f"{news_link_arrow()}"
+            "</a></li>"
+        )
+    work_noun = "work" if len(works) == 1 else "works"
+    return (
+        '<header class="news-book-header author-collection-header">'
+        '<div class="news-book-meta">'
+        '<p class="text-shelf-label">Phi texts</p>'
+        '<p class="news-book-method">Author collection</p>'
+        "</div>"
+        '<div class="news-book-title-row">'
+        '<div class="news-book-title-copy">'
+        f'<p class="text-phi-title" lang="art-x-phi">'
+        f"{html_module.escape(phi_title)}</p>"
+        f"<h1>{html_module.escape(english_title)}</h1>"
+        '<p class="news-book-author">Translations and transmutations</p>'
+        "</div>"
+        f'{texts_motif("words_seed")}'
+        "</div>"
+        f'<div class="text-title-tengwar" aria-hidden="true">{tengwar_title}</div>'
+        "</header>"
+        '<section class="news-book-opening author-collection-opening" '
+        'data-reader-home>'
+        f'<p class="news-book-lede">{match.group(2)}</p>'
+        "</section>"
+        '<section class="news-book-catalogue author-collection-catalogue" '
+        'aria-labelledby="author-collection-catalogue-heading">'
+        '<header class="news-book-section-heading">'
+        '<p class="news-book-section-label">By source work</p>'
+        '<h2 id="author-collection-catalogue-heading">Works available</h2>'
+        f'<p class="author-collection-count">{len(works):02d} {work_noun}</p>'
+        "</header>"
+        f'<ol class="news-book-chapter-list">{"".join(work_rows)}</ol>'
+        "</section>"
+    )
+
+
+for collection in COLLECTIONS:
+    collection_path = collection["path"]
+    collection_source = ROOT / "texts" / collection_path
+    collection_output = TEXTS_OUT / collection_path
+    prepare_html_output(collection_output)
+    collection_works = COLLECTION_TEXTS_BY_PATH[collection_path]
+    _, collection_english = text_contents_title(collection)
+    for work_index, work in enumerate(collection_works):
+        source = collection_source / work["path"]
+        md = source.read_text(encoding="utf-8")
+        repo_path = text_repo_path(work)
+        treatment = TEXT_EDITORIAL_PAGES.get(repo_path)
+        if treatment is None:
+            raise ValueError(
+                f"collection work has no editorial treatment: {repo_path}"
+            )
+        rendered = apply_text_editorial(
+            md_to_html(md),
+            md,
+            repo_path,
+            treatment,
+        )
+        footer_nav = text_work_nav(
+            collection_works,
+            work_index,
+            f"{collection_english} contents",
+        )
+        (collection_output / f"{source.stem}.html").write_text(
+            texts_page(
+                rendered,
+                work["title"],
+                depth=2,
+                footer_nav=footer_nav,
+                editorial_kind=treatment["form"],
+                editorial_motif=treatment["motif"],
+            )
+        )
+    collection_index = text_collection_index(
+        (collection_source / "README.md").read_text(encoding="utf-8"),
+        collection,
+        collection_works,
+    )
+    collection_footer = (
+        '<nav class="chapnav news-book-footer-nav" '
+        'aria-label="Text navigation">'
+        '<a href="../index.html">All texts</a></nav>'
+    )
+    (collection_output / "index.html").write_text(
+        texts_page(
+            collection_index,
+            collection_english,
+            depth=2,
+            footer_nav=collection_footer,
+            editorial_kind="author-collection",
+            editorial_motif="words_seed",
+        )
+    )
+
+
 def text_contents_page(news_chapter_count):
     """Build the catalogue-driven entrance to the literary shelf."""
     expected_editorial = {
-        f"texts/{work['path']}"
-        for work in TEXTS
+        text_repo_path(work)
+        for work in [*TEXTS, *COLLECTION_TEXTS]
     }
     if set(TEXT_EDITORIAL_PAGES) != expected_editorial:
         raise ValueError(
@@ -5778,7 +6016,7 @@ def text_contents_page(news_chapter_count):
         spec["method"]: spec
         for spec in TEXT_CONTENTS_METHODS
     }
-    all_works = [*TEXTS, NEWS_WORK]
+    all_works = [*TEXTS, *COLLECTION_TEXTS, NEWS_WORK]
     if any(work["method"] not in method_specs for work in all_works):
         raise ValueError("texts contents contain an unknown catalogue method")
 
@@ -5820,6 +6058,47 @@ def text_contents_page(news_chapter_count):
             f"{text_contents_arrow()}"
             "</a></li>"
         )
+
+    collection_rows = []
+    for collection in COLLECTIONS:
+        phi_title, english_title = text_contents_title(collection)
+        available = len(COLLECTION_TEXTS_BY_PATH[collection["path"]])
+        work_noun = "work" if available == 1 else "works"
+        collection_rows.append(
+            '<li class="text-index-collection">'
+            f'<a href="{collection["path"]}/index.html">'
+            '<span class="text-index-book-mark" aria-hidden="true">'
+            f'{text_section_icon("collection_detail")}</span>'
+            '<div class="text-index-copy">'
+            f'<p class="text-index-phi-title" lang="art-x-phi">'
+            f"{html_module.escape(phi_title)}</p>"
+            f"<h3>{html_module.escape(english_title)}</h3>"
+            f'<p class="text-index-summary">'
+            f'{html_module.escape(collection["summary"])}</p>'
+            "</div>"
+            '<div class="text-index-entry-meta">'
+            '<p class="text-index-entry-method">Author collection</p>'
+            f'<p class="text-index-book-progress">{available:02d} '
+            f"{work_noun} available</p>"
+            "</div>"
+            f"{text_contents_arrow()}"
+            "</a></li>"
+        )
+    collection_noun = "collection" if len(COLLECTIONS) == 1 else "collections"
+    collection_section = (
+        '<section class="text-index-collections" '
+        'aria-labelledby="text-index-collections-heading">'
+        '<header class="text-index-section-heading">'
+        "<div>"
+        '<p class="text-index-section-label">Grouped by writer</p>'
+        '<h2 id="text-index-collections-heading">Author collections</h2>'
+        "</div>"
+        f'<p class="text-index-section-count">{len(COLLECTIONS):02d} '
+        f"{collection_noun}</p>"
+        "</header>"
+        f'<ol class="text-index-collection-list">{"".join(collection_rows)}</ol>'
+        "</section>"
+    )
 
     news_spec = method_specs[NEWS_WORK["method"]]
     news_phi, news_english = text_contents_title(NEWS_WORK)
@@ -5884,6 +6163,7 @@ def text_contents_page(news_chapter_count):
         "</header>"
         f'<ol class="text-index-list">{"".join(work_rows)}</ol>'
         "</section>"
+        f"{collection_section}"
         f"{book_entry}"
     )
 
@@ -5896,7 +6176,12 @@ def text_contents_page(news_chapter_count):
         editorial_kind="contents",
     )
 )
-print(f"wrote build/site/texts/: {len(TEXT_CATALOGUE)} works, {len(news_chapters)} News from Nowhere chapters + contents")
+print(
+    "wrote build/site/texts/: "
+    f"{len(TEXTS) + len(COLLECTION_TEXTS) + len(BOOKS)} works, "
+    f"{len(COLLECTIONS)} author collection, "
+    f"{len(news_chapters)} News from Nowhere chapters + contents"
+)
 
 # ---- the pamphlets: deep-dive companions rendered to build/site/pamphlets/ ----
 PAMPH_OUT = BUILD_SITE / "pamphlets"
