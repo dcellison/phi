@@ -638,10 +638,29 @@ Before selective pairing began, the nine pending transmutations were read from t
 
 The source citations and gap logs in each pamphlet hold the detailed decisions. The table records why the text remained a transmutation and whether repair or replacement was warranted.
 
+## Phi-first review: When care becomes coercion
+
+Phi is the source for all 39 dialogue units: 34 spoken turns and five narrative actions. The review therefore begins with the Phi propositions and their sequence, then asks whether each gloss and English reading follows them. There is no outside source to restore and no licence to repair an English sentence by changing a coherent Phi thought.
+
+| Area | Finding | Disposition |
+|---|---|---|
+| Modifier-first order | telari's perfective drinking clause placed `phialu` after Slot 1. | Move the object before `ki milau`. The strict parser now accepts all 39 units. |
+| Question structure | `sua hina theama kanu` placed two gap-words in one clause. The intended question is about agency rather than an open pair of unknowns. | Ask `sua mia theama kanu`, "Who chooses my care?" This preserves the argument and obeys the one-gap rule. |
+| Retraction | sanuwe described themself as mistaken, then used rephrasing to deny a conclusion. That did not explicitly perform the retraction recorded by the proposition ledger. | Use base `kanelu` for the error and `nosheku` for retraction of the conclusion. The later care claim remains distinct from required departure. |
+| Consent withdrawal | `naweri` made withdrawal sound like refusal of consent itself. Current vocabulary keeps refusal and the ending of an ongoing relation separate. | Apply cessative `te` to `lesawi`. telari can end consent to the carrying, and sanuwe must acknowledge that event. |
+| Derived English | Two readings collapsed `mua ha womu` into bare "here," while the opening and proposition ledger strengthened `neri` from cool to cooler. | Restore "this home" in both readings and keep the community room cool. No English line now adds a comparison or removes an explicit place. |
+| Argument structure | The bodily reports support a safety concern, not the necessity of departure. Consciousness, understanding, and ability to respond support telari's present choice without becoming a universal capacity test. | Keep the unresolved no-prior-consent case. The dialogue reaches a practical boundary rather than a general authority rule. |
+| Module reach and coinage | Eight optional roots carry 13 memberships across Household, Medical, Systems, Philosophical Reasoning, Commons, Ecological, and Work. Base bodily language remains preferable to clinical classification in a conversation between friends. | Keep every optional term in its earned role and add no root. The needed repairs use existing base vocabulary and grammar. |
+| Validator reach | Fenced Phi above an all-lowercase gloss escaped the Markdown sentence detector. That hid the two-gap question. | Treat a parenthetical line after a gloss as evidence of an interlinear block and add a regression fixture with two gap-words. The expanded scan adds 210 active examples; none of the other newly visible examples fails. |
+
 ## Literary shelf
 
 | Active text | Method | Status | Note |
 |---|---|---|---|
+| `texts/care_and_coercion.md` | Original | Reviewed | All 39 Phi-source units, exact glosses, derived readings, proposition structure, optional terms, and five-pillar claims have received a Phi-first review; retraction and consent withdrawal now remain distinct. |
+| `texts/the_mended_wall.md` | Original | Pending | Awaiting Phi-first review after the care dialogue. |
+| `texts/the_report_at_dusk.md` | Original | Pending | Awaiting Phi-first review after the mended wall. |
+| `texts/the_worth_of_a_fallen_branch.md` | Original | Pending | Awaiting Phi-first review after the report at dusk. |
 | `texts/north_wind_and_sun.md` | Translation + transmutation | Reviewed | Paired source, back-translation, vocabulary, and five-pillar comparison complete. |
 | `texts/metta_sutta.md` | Translation | Reviewed | Full source-fidelity pass complete; two optional roots used where their distinctions matter. |
 | `texts/solarpunk_manifesto.md` | Translation | Reviewed | The 38-unit fidelity pass changes 17 units, aligns a 244-form Phi reading with the complete licensed witness, and uses 33 optional roots across all eight modules without altering a source line. |
@@ -658,4 +677,4 @@ The source citations and gap logs in each pamphlet hold the detailed decisions. 
 | `texts/news_from_nowhere/chapter_02.md` | Transmutation | Reviewed | The 241-unit post-migration pass changes 57 units and uses five optional roots with seven memberships across four modules without altering Morris's source lines. |
 | `texts/news_from_nowhere/chapter_03.md` | Transmutation | Reviewed | The 245-unit post-migration pass changes 46 units and uses 14 optional roots with 15 memberships across five modules without altering Morris's source lines. |
 
-The full transmutation shelf has received its original review and its post-migration contextual retrofit. Selective paired work has added close translations where a second rendering exposes Phi's capacity or its limits without displacing the transmutation. The drafted Phi book is current through chapter 7, including the dependent tide and service lines in *News from Nowhere* chapter 2 and the three exact Babel passages used to examine the literary method. SEM-09D is complete; PED-08 resumes at chapter 8.
+The full transmutation shelf has received its original review and its post-migration contextual retrofit. Selective paired work has added close translations where a second rendering exposes Phi's capacity or its limits without displacing the transmutation. The original Phi shelf has received its Phi-first review through *When care becomes coercion*; the three essays remain pending in the order recorded above. The drafted Phi book is current through chapter 7, including the dependent tide and service lines in *News from Nowhere* chapter 2 and the three exact Babel passages used to examine the literary method. SEM-09D is complete; PED-08 resumes at chapter 8.

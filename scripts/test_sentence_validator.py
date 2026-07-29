@@ -6,6 +6,7 @@ from __future__ import annotations
 from pathlib import Path
 import subprocess
 import sys
+import tempfile
 import unittest
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -331,6 +332,27 @@ class SentenceParserTest(unittest.TestCase):
                 )
         self.assertGreater(checked, 1500)
         self.assertEqual([], failures)
+
+    def test_markdown_detector_includes_lowercase_gloss_blocks(self):
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            root = Path(temporary_directory)
+            (root / "sample.md").write_text(
+                "```\n"
+                "sua hina theama kanu.\n"
+                "who what care choose.\n"
+                "(Who chooses which care?)\n"
+                "```\n",
+                encoding="utf-8",
+            )
+            sources = list(
+                iter_markdown_examples(root, self.lexicon, ["sample.md"])
+            )
+
+        self.assertEqual(
+            ["sua hina theama kanu."],
+            [source.text for source in sources],
+        )
+        self.assertInvalid(sources[0].text, "PHS056")
 
     def test_docs_only_respects_selected_paths(self):
         completed = subprocess.run(

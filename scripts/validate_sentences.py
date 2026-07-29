@@ -148,9 +148,13 @@ def iter_markdown_examples(
             candidates: list[str] = []
             if in_fence and fence_is_text:
                 following = lines[lineno] if lineno < len(lines) else ""
+                translation_after_gloss = (
+                    lines[lineno + 1] if lineno + 1 < len(lines) else ""
+                )
                 has_gloss_or_translation = (
                     bool(re.search(r"\b[A-Z][A-Z0-9.]*\b", following))
                     or following.strip().startswith("(")
+                    or translation_after_gloss.strip().startswith("(")
                 )
                 if has_gloss_or_translation:
                     candidates.append(line)
