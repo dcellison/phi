@@ -1755,6 +1755,21 @@ The three Katherine Woods quotations are the complete source witness available t
 
 The batch adds no root, module membership, compound, or grammar. Its lexical result is a sharper division between what Phi can translate compositionally and what this transmutation chooses to change.
 
+## Ring Verse refusal fidelity repair
+
+The quoted inscription is the page's complete source witness. The fidelity review also consults the surrounding stanza to establish the pronoun's antecedent without reproducing more copyrighted text, then checks whether the Phi refusal exposes the same domination without pretending to be a close translation.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| Exact title, inscription, and surrounding source roles | adjacent source quotation, `CV-ART-03`, and `CV-ROLE-01` | **SOURCE-BOUND** | Tolkien's wording remains unchanged beside Phi. Lord and throne are discussed from the surrounding stanza without becoming reusable Phi roles. |
+| Ring as a worn circular object | `thumai sorui`, `sorui`, and `CV-SHAPE-02` | **COMPOSITIONAL** | Finger-circle remains the registered ordinary composition. The passage does not need a new artifact root merely because the source Ring is singular and named. |
+| People wearing the other Rings | `theula whu phirae thumai sorui wenuha miona`, `lo shia`, and `CV-ROLE-02` | **COMPOSITIONAL** | A headed relative names the affected people through the object they wear, and the plural pronoun retains them. The repair removes the old claim that the Ring coerces all people without creating a permanent wearer role. |
+| Dominion, social rules, authority, guidance, and stewardship | `kawhera`, `nasholu`, `nashaku`, `karami`, `kulo`, `theluo`, and `CV-COMMONS-10` | **COMPOSITIONAL** | `kawhera` exposes the closing of practical choice. The neighbouring terms retain their narrower social relations and do not furnish dominion with a neutral title. |
+| Find, bring, darkness, imposed tying, and mutual bond | `hekawi`, `thola`, quality-noun `nuelo`, physical `tiwa`, and reciprocal `nolami` | **COMPOSITIONAL** | Existing base vocabulary carries each distinction. The final metaphor deliberately stretches a physical tie and refuses to describe captivity as a mutual bond. |
+| Infinitive purposes and present accusations | unmarked present clauses and the work's declared transmutation method | **COMPOSITIONAL** | The four Phi lines accuse the Ring of acts rather than translating what it is for. The introduction and gap log now name that grammatical departure instead of allowing the two structures to look equivalent. |
+
+The batch adds no root, module membership, compound, or grammar. It adds one recorded compositional decision for a wearer identified through a headed relative clause and keeps all 16 passage forms in base or function vocabulary.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -1846,4 +1861,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The decision queue is closed. The register holds 63 implemented decisions and 121 compositional decisions. It also preserves 31 deferrals with return conditions, 43 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,293 lexicon entries follow the target prose contract. Fifteen post-migration literary retrofits complete the shelf, the stricter source-fidelity sweep is current through The Little Prince excerpts, and all seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the paired-text fidelity sweep with the next recorded shelf candidate. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
+The decision queue is closed. The register holds 63 implemented decisions and 122 compositional decisions. It also preserves 31 deferrals with return conditions, 43 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,293 lexicon entries follow the target prose contract. Fifteen post-migration literary retrofits complete the shelf, the stricter source-fidelity sweep is current through the Ring Verse refusal, and all seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the paired-text fidelity sweep with the next recorded shelf candidate. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.

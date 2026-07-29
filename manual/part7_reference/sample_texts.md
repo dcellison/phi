@@ -151,6 +151,6 @@ The rest of the shelf:
 | Phi title | Method | Text |
 |---|---|---|
 | `thiku miona lue silero` | Transmutation | three moments from *The Little Prince*: the request, the secret, the responsibility |
-| `naweri` | Transmutation | the Ring Verse, refused: coercion named without granting it a neutral ruler |
+| `naweri` | Transmutation | the Ring Verse, refused: the other Ring-wearers named and coercion exposed without granting it a neutral ruler |
 | `wuloe wetha tupiwa` | Transmutation | *The Velveteen Rabbit*, entire, with Medical, Accessibility, and Commons distinctions where the story needs them |
 | `nophi lue mawha lokue` | Transmutation | *News from Nowhere*, chapters 1 through 3, reviewed against Morris chapter by chapter |

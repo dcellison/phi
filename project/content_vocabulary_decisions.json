@@ -994,6 +994,19 @@
         "CV-PHIL-09",
         "CV-ANIMAL-04"
       ]
+    },
+    {
+      "id": "ring-verse-fidelity-repair",
+      "heading": "Ring Verse refusal fidelity repair",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-SHAPE-02",
+        "CV-ART-03",
+        "CV-ROLE-01",
+        "CV-COMMONS-10",
+        "CV-ROLE-02"
+      ]
     }
   ],
   "candidates": [
@@ -1295,7 +1308,8 @@
       "batches": [
         "aesthetic-and-formal-qualities",
         "space-orientation-boundaries-and-physical-form",
-        "recovered-cross-inventory-prompts"
+        "recovered-cross-inventory-prompts",
+        "ring-verse-fidelity-repair"
       ]
     },
     {
@@ -3275,7 +3289,8 @@
       "batches": [
         "language-story-art-and-representation",
         "work-craft-repair-module-prose",
-        "little-prince-fidelity-repair"
+        "little-prince-fidelity-repair",
+        "ring-verse-fidelity-repair"
       ]
     },
     {
@@ -3481,7 +3496,8 @@
         "medical-bodily-care-module-prose",
         "accessibility-participation-module-prose",
         "work-craft-repair-module-prose",
-        "little-prince-fidelity-repair"
+        "little-prince-fidelity-repair",
+        "ring-verse-fidelity-repair"
       ]
     },
     {
@@ -3986,7 +4002,8 @@
         "lothoni"
       ],
       "batches": [
-        "commons-collective-governance-module-prose"
+        "commons-collective-governance-module-prose",
+        "ring-verse-fidelity-repair"
       ]
     },
     {
@@ -5479,6 +5496,21 @@
       ],
       "batches": [
         "little-prince-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-ROLE-02",
+      "concept": "a wearer identified through the object presently worn, without turning that relation into a permanent role",
+      "status": "compositional",
+      "placement": "base person, clothing, artifact, and relative-clause vocabulary",
+      "summary": "A headed relative of the form 'whu X wenuha miona' names a person who wears X. The relation lasts only as long as the clause claims and needs no wearer or bearer root. In the Ring Verse refusal, a universal quantifier over people wearing different finger-rings identifies the affected group, while 'lo shia' retains it in later lines.",
+      "expressions": [
+        "whu thumai sorui wenuha miona",
+        "theula whu phirae thumai sorui wenuha miona",
+        "lo shia"
+      ],
+      "batches": [
+        "ring-verse-fidelity-repair"
       ]
     }
   ],

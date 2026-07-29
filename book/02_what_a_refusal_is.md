@@ -44,23 +44,23 @@ A refusal, then, is not an absence at all. It is a stated position holding a pla
 
 A fair reader should ask the obvious question: what happens when someone needs the very thing a beautiful refusal leaves out? Languages are used by people in trouble, and elegance is worthless if it purchases their silence. Every refusal must therefore leave care and self-identification unobstructed. Consent, safety, testimony, and critique receive the same protection. The rulings above each carry their answer. The clock refusal admits exact time through source records whenever coordination, testimony, or safety depends on it. The gendered-class ruling keeps a person's own words available and reviewable. The measurement family keeps exact figures beside the text, quotable and untranslated, whenever they matter.
 
-The strongest test on the shelf is a familiar custom among language builders. People who invent languages translate Tolkien's Ring Verse the way climbers attempt a famous face. It is something close to a rite of passage, though usually attempted indoors. Phi's shelf answers the custom with a page titled the Ring Verse, refused. The page takes the couplet word by word. Nearly all of it is ordinary vocabulary that the language holds without complaint. Ring composes as finger-circle; one and all are present, as are find, bring, and darkness. What fails is the offices. To rule has no root, and the nearest words, `kulo` (guide) and `theluo` (steward), would falsify the line by replacing power with care. Lord has no one set above; the throne finds only furniture for resting.
+The strongest test on the shelf is a familiar custom among language builders. People who invent languages translate Tolkien's Ring Verse the way climbers attempt a famous face. It is something close to a rite of passage, though usually attempted indoors. Phi's shelf answers the custom with a page titled the Ring Verse, refused. The page takes the inscription word by word, then notices where its pronouns point. By then the surrounding stanza has counted the other Rings. The Phi refusal traces power from those Rings to the people wearing them. Nearly everything else is ordinary vocabulary that the language holds without complaint. Ring composes as finger-circle; one and all are present, as are find, bring, and darkness. What fails is the offices. To rule has no root. `kulo` (guide) and `theluo` (steward) are the nearest words, but both would replace power with care and misstate the line. Lord has no one set above; the throne finds only furniture for resting.
 
-So the page does something better than translate. It names the acts beneath the offices:
-
-```
-ta thumai sorui theula miona kawhera.
-one finger circle UNIV person coerce.
-(One finger-ring coerces all people.)
-```
+So the page does not translate. It turns the inscription's purposes into accusations and names the acts beneath the offices:
 
 ```
-ta thumai sorui mua nuelo theula miona tiwa.
-one finger circle LOC dark UNIV person tie.
-(One finger-ring ties all people in the darkness.)
+ta thumai sorui theula whu phirae thumai sorui wenuha miona kawhera.
+one finger circle UNIV REL different finger circle wear person coerce.
+(One finger-ring coerces everyone who wears a different finger-ring.)
 ```
 
-`kawhera` (coerce) is an accusation where the original had a title. `tiwa` (tie) is a cord verb, bodily and uncomfortable, held deliberately apart from `nolami` (bond), the connection people form with one another; the Ring gets the rope, not the relationship. The menace of the verse survives entirely, and that is the point the page itself makes in one line: the refusal is narrower than silence. The Ring is present, its acts are audible, and no title makes them clean. Phi can testify about domination in full. What it declines is to keep a clean uniform in the closet for domination to wear.
+```
+ta thumai sorui mua nuelo lo shia tiwa.
+one finger circle LOC dark PL 3SG tie.
+(One finger-ring ties them in the darkness.)
+```
+
+The plural pronoun in the second example returns to the people named in the first rather than widening the target to everyone. `kawhera` (coerce) is an accusation where the original had a title. `tiwa` (tie) is a cord verb, bodily and uncomfortable, held deliberately apart from `nolami` (bond), the connection people form with one another; the Ring gets the rope, not the relationship. The menace of the verse survives entirely, and that is the point the page itself makes in one line: the refusal is narrower than silence. The Ring is present, its acts are audible, and no title makes them clean. Phi can testify about domination in full. What it declines is to keep a clean uniform in the closet for domination to wear.
 
 That is what a refusal is, and why the word gap never fits. A gap can be filled by the first person who needs it. A refusal holds its ground and explains itself, carve by carve, in writing. Read this dictionary forward and it will tell you what things are called. Read it backward, refusal by refusal, and it will tell you what it loves: the unsliced day, the walkable distance, the gift that needs no price. The backward reading was written on purpose.
 

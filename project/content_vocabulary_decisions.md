@@ -93,6 +93,7 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [UDHR Article 1 close-translation repair](#udhr-article-1-close-translation-repair) | complete | closed | 2 |
 | [Babel translation and transmutation fidelity repair](#babel-translation-and-transmutation-fidelity-repair) | complete | closed | 11 |
 | [The Little Prince excerpt fidelity repair](#the-little-prince-excerpt-fidelity-repair) | complete | closed | 7 |
+| [Ring Verse refusal fidelity repair](#ring-verse-refusal-fidelity-repair) | complete | closed | 5 |
 
 ## Core material qualities
 
@@ -868,6 +869,16 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | `CV-ACCESS-07` | visibility and visual availability | Compositional | base perception and light clauses with Accessibility use relations | See the complete decision under [Accessibility and Participation module prose](#accessibility-and-participation-module-prose). |
 | `CV-PHIL-09` | responsibility, accountability, obligation, and causal contribution | Compositional | base agency vocabulary with Commons and Work | See the complete decision under [Philosophical Reasoning module prose](#philosophical-reasoning-module-prose). |
 | `CV-ANIMAL-04` | taming as caused habituation to people, distinct from forming a mutual bond | Compositional | base animal, change, causation, and relationship vocabulary | `nolika woenu ka kelu`, `nolami`. An animal can be caused to become 'woenu' (tame), accustomed to human presence or handling. That construction keeps one participant as the cause of the animal's change. The Little Prince transmutation deliberately chooses reciprocal 'nolami' (bond) instead, making the other being a participant in a mutual relation rather than an object made tame. |
+
+## Ring Verse refusal fidelity repair
+
+| ID | Concept | Status | Placement | Decision or return condition |
+|---|---|---|---|---|
+| `CV-SHAPE-02` | round as an ordinary shape quality | Compositional | base expression | See the complete decision under [Aesthetic and formal qualities](#aesthetic-and-formal-qualities). |
+| `CV-ART-03` | exact work titles, quotations, lyrics, scores, named styles, genre labels, and source identifiers | Source-bound | source material beside a Phi account or an accepted Phi-form onym | See the complete decision under [Language, story, art, and representation](#language-story-art-and-representation). |
+| `CV-ROLE-01` | exact counselling, custodial, academic, religious, and traditional role titles | Source-bound | source institution, profession, lineage, or community beside an ordinary Phi role description | See the complete decision under [Roles, places, relations, and remaining concrete nouns](#roles-places-relations-and-remaining-concrete-nouns). |
+| `CV-COMMONS-10` | corruption, institutional capture, domination, and abuse of office | Compositional | Commons power, benefit, harm, and accountability relations | See the complete decision under [Commons and Collective Governance module prose](#commons-and-collective-governance-module-prose). |
+| `CV-ROLE-02` | a wearer identified through the object presently worn, without turning that relation into a permanent role | Compositional | base person, clothing, artifact, and relative-clause vocabulary | `whu thumai sorui wenuha miona`, `theula whu phirae thumai sorui wenuha miona`, `lo shia`. A headed relative of the form 'whu X wenuha miona' names a person who wears X. The relation lasts only as long as the clause claims and needs no wearer or bearer root. In the Ring Verse refusal, a universal quantifier over people wearing different finger-rings identifies the affected group, while 'lo shia' retains it in later lines. |
 
 ## Prompt sources
 
