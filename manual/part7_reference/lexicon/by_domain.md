@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (324)
+## activity (325)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -99,6 +99,7 @@
 | `molawi` | cooperate | adjusting separate actions so they work compatibly |
 | `moloi` | apprentice | learning a craft through guided practice |
 | `moluki` | transform | extensive change caused or undergone |
+| `mophiku` | shear | the practical work of removing an animal's fleece by cutting |
 | `muholi` | dig | removing or shifting workable material to make an opening |
 | `muko` | careless | an action performed without attention reasonably available for avoiding mistakes or harm |
 | `muphera` | stock | items held for future practical use |
@@ -1084,7 +1085,7 @@
 | `womuri` | household | a person or group sharing domestic arrangements |
 | `woru` | keeper | a person recognised as responsible for stated continuing care |
 
-## creation (172)
+## creation (173)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1149,6 +1150,7 @@
 | `monae` | integral | a component a made system needs in order to remain complete or function as defined |
 | `monaki` | component | a functionally identified part of a designed or analyzed whole |
 | `mophi` | wool | animal fibre spun, felted, or otherwise formed into textile material |
+| `mophiku` | shear | the act that brings grown animal fibre into textile work |
 | `morisa` | salt | a mineral substance used in food preservation and other material processes |
 | `moru` | wall | an upright division built from joined or placed material |
 | `motha` | foundation | the supporting base established before a structure rises |
@@ -1394,7 +1396,7 @@
 | `wero` | honest | a person's choice not to deceive in speech or conduct |
 | `whepelo` | retaliate | a harmful reprisal directed at someone for an earlier act |
 
-## nature (247)
+## nature (248)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1479,6 +1481,7 @@
 | `molei` | evolve | change in populations or lineages across generations |
 | `molira` | hill | a modest natural elevation within the surrounding terrain |
 | `mophi` | wool | hair fibre grown as part of an animal's fleece |
+| `mophiku` | shear | removing fleece grown on a sheep or similar animal |
 | `mophira` | sheep | a domesticated grazing mammal commonly bearing fleece |
 | `moreke` | mammal | a vertebrate class whose defining traits include hair and milk production |
 | `morilu` | wave | a moving surface form on sea, lake, river, or other water |

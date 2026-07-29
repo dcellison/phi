@@ -4,7 +4,7 @@ Dye runs from a workshop into a stream, and a fish downstream carries it in its 
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them does not make anyone a scientist, a landholder, or an authority on what should be done.
 
-The chapter table below introduces 30 module roots. Current classifications bring the optional learning list to 55 words; base weather, material, and resource are taught alongside it. The complete list is under [Ecological Systems and Material Life in the module lexicon](../lexicon/by_module.md#ecological-systems-and-material-life).
+The chapter table below introduces 30 module roots. Current classifications and later source-led additions bring the optional learning list to 56 words; base weather, material, and resource are taught alongside it. The complete list is under [Ecological Systems and Material Life in the module lexicon](../lexicon/by_module.md#ecological-systems-and-material-life).
 
 ## Core vocabulary used by the module
 
@@ -24,7 +24,7 @@ Systems lends its own vocabulary for the mechanics underneath: `terura` system, 
 
 ## Additional roots in this learning path
 
-Seven roots widen the path beyond systems, processes, and observation.
+Eight roots widen the path beyond systems, processes, and observation.
 
 | Phi | Working sense | Why it belongs here |
 |---|---|---|
@@ -35,6 +35,7 @@ Seven roots widen the path beyond systems, processes, and observation.
 | `nunoa` | forager; a gatherer of food from uncultivated land | Foraging joins ecological knowledge to practical work. Work, Craft, and Repair teaches the labor side of the same role. |
 | `telo` | farmer; a cultivator of land and food crops | Land, seasons, and living growth shape the role; its sustained labor places it in the Work module as well. |
 | `theluo` | steward; one who tends land, resources, or communities for others and the future | Stewardship crosses ecological care and collective responsibility, which also places the word in Commons. |
+| `mophiku` | shear; remove an animal's fleece by cutting | Shearing joins a living animal to fibre gathered for use. Work, Craft, and Repair teaches the skill and textile relation of the same work. |
 
 ## Weather, material, and resources belong to base vocabulary
 

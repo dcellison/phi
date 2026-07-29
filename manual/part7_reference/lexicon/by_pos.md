@@ -1004,7 +1004,7 @@
 | `theula` | UNIV |
 | `wheli` | ANY |
 
-## verb (362)
+## verb (363)
 
 | Word | Gloss |
 |---|---|
@@ -1102,6 +1102,7 @@
 | `molawi` | cooperate |
 | `molei` | evolve |
 | `moluki` | transform |
+| `mophiku` | shear |
 | `morae` | sense |
 | `morashi` | relapse |
 | `moreko` | articulate |

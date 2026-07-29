@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1294 words.*
+*1295 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -404,6 +404,7 @@
 | `monaki` | component | /mo̞.ˈn̪ä.ki/ | noun |
 | `monelu` | amused | /mo̞.ˈn̪e̞.lu/ | adjective |
 | `mophi` | wool | /ˈmo̞.ɸi/ | noun |
+| `mophiku` | shear | /mo̞.ˈɸi.ku/ | verb |
 | `mophira` | sheep | /mo̞.ˈɸi.rä/ | noun |
 | `morae` | sense | /mo̞.ˈrä.e̞/ | verb |
 | `morashi` | relapse | /mo̞.ˈrä.ʃi/ | verb |
