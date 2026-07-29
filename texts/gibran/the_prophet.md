@@ -1,4 +1,4 @@
-# phewo phelui — from The Prophet
+# phewo phelui — The Prophet, selections
 
 *Kahlil Gibran's The Prophet (1923) has counseled a century of readers in twenty-six short teachings, and it enters the public domain speaking freely. These are Phi's excerpts: transmutations of the teachings on love, children, and giving, with a close translation beside the transmutation of On Children. The ground truth is the 1923 text itself, stored verbatim, and every unit cites the lines it stands against. Each section says where its excerpt begins and ends, and the gap log names what stayed behind.*
 

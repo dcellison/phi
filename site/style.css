@@ -2213,6 +2213,7 @@ table.primer-ladder {
 }
 .text-index-entry { border-bottom: 1px solid var(--hairline); }
 .text-index-entry a,
+.text-index-collection > a,
 .text-index-book > a {
   align-items: center;
   color: var(--ink);
@@ -2223,6 +2224,7 @@ table.primer-ladder {
   text-decoration: none;
 }
 .text-index-entry a:focus-visible,
+.text-index-collection > a:focus-visible,
 .text-index-book > a:focus-visible {
   outline: 2px solid var(--gold);
   outline-offset: 4px;
@@ -2298,13 +2300,23 @@ table.primer-ladder {
   width: 1.05rem;
 }
 .text-index-entry a:hover h3,
+.text-index-collection > a:hover h3,
 .text-index-book > a:hover h3 { color: var(--sage); }
 .text-index-entry a:hover .text-index-arrow,
+.text-index-collection > a:hover .text-index-arrow,
 .text-index-book > a:hover .text-index-arrow {
   color: var(--gold);
   transform: translateX(.2rem);
 }
+.text-index-collections,
 .text-index-book { margin-top: 4rem; }
+.text-index-collection-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.text-index-collection { border-bottom: 1px solid var(--hairline); }
+.text-index-collection > a,
 .text-index-book > a {
   background: var(--paper-raised);
   border-bottom: 1px solid var(--hairline);
@@ -2323,6 +2335,7 @@ table.primer-ladder {
   width: 2rem;
 }
 .text-index-book .text-index-copy h3 { font-size: 1.8rem; }
+.text-index-collection .text-index-copy h3 { font-size: 1.8rem; }
 .text-index-book-progress {
   color: var(--muted);
   font-size: .68rem;
@@ -3079,12 +3092,14 @@ table.text-ledger {
   padding-top: .05rem;
 }
 
-/* --- News from Nowhere: one book, rather than thirty-two shelf items --- */
-.text-news-book-page main {
+/* --- collected and book-length texts --- */
+.text-news-book-page main,
+.text-author-collection-page main {
   max-width: 74rem;
   padding-top: 3rem;
 }
-.text-news-book-page .text-work { max-width: 66rem; }
+.text-news-book-page .text-work,
+.text-author-collection-page .text-work { max-width: 66rem; }
 .news-book-header {
   border-bottom: 1px solid var(--hairline);
   padding-bottom: 1.4rem;
@@ -3114,8 +3129,10 @@ table.text-ledger {
 }
 .news-book-title-copy { min-width: 0; }
 .text-news-book-page .text-phi-title,
+.text-author-collection-page .text-phi-title,
 .text-news-chapter-page .text-phi-title { margin-bottom: .25rem; }
-.text-news-book-page .news-book-header h1 {
+.text-news-book-page .news-book-header h1,
+.text-author-collection-page .news-book-header h1 {
   color: var(--ink);
   font-size: 4rem;
   letter-spacing: 0;
@@ -3148,7 +3165,8 @@ table.text-ledger {
   max-width: 46rem;
   padding: 1.7rem 0 2.25rem;
 }
-.text-news-book-page p.news-book-lede {
+.text-news-book-page p.news-book-lede,
+.text-author-collection-page p.news-book-lede {
   font-family: var(--serif);
   font-size: 1.12rem;
   line-height: 1.72;
@@ -3220,7 +3238,8 @@ table.text-ledger {
   font-weight: 650;
   margin: 0 0 .15rem;
 }
-.text-news-book-page .news-book-section-heading h2 {
+.text-news-book-page .news-book-section-heading h2,
+.text-author-collection-page .news-book-section-heading h2 {
   color: var(--ink);
   font-size: 1.9rem;
   letter-spacing: 0;
@@ -3264,7 +3283,8 @@ table.text-ledger {
   font-weight: 650;
   margin: 0 0 .15rem;
 }
-.text-news-book-page .news-book-chapter h3 {
+.text-news-book-page .news-book-chapter h3,
+.text-author-collection-page .news-book-chapter h3 {
   color: var(--ink);
   font-family: var(--serif);
   font-size: 1.55rem;
@@ -3314,7 +3334,8 @@ table.text-ledger {
   color: var(--gold);
   transform: translateX(.2rem);
 }
-.text-news-book-page .readerhome {
+.text-news-book-page .readerhome,
+.text-author-collection-page .readerhome {
   background: transparent;
   border: 0;
   border-bottom: 1px solid var(--hairline);
@@ -3323,12 +3344,33 @@ table.text-ledger {
   margin: -1rem 0 2.25rem;
   padding: .25rem 0 .35rem 1rem;
 }
-.text-news-book-page .readerhome .reader-continue {
+.text-news-book-page .readerhome .reader-continue,
+.text-author-collection-page .readerhome .reader-continue {
   font-family: var(--serif);
 }
-.text-news-book-page .news-book-footer-nav {
+.text-news-book-page .news-book-footer-nav,
+.text-author-collection-page .news-book-footer-nav {
   justify-content: center;
   margin-top: 3.5rem;
+}
+.author-collection-catalogue .news-book-section-heading {
+  position: relative;
+}
+.author-collection-count {
+  bottom: .75rem;
+  color: var(--muted);
+  font-size: .68rem;
+  font-weight: 600;
+  margin: 0;
+  position: absolute;
+  right: 0;
+}
+.author-collection-work-phi {
+  color: var(--sage);
+  font-family: var(--serif);
+  font-size: .72rem;
+  line-height: 1.35;
+  margin: 0 0 .18rem;
 }
 
 .text-news-chapter-page main {
@@ -4343,11 +4385,13 @@ table.text-ledger {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
   .text-index-entry a,
+  .text-index-collection > a,
   .text-index-book > a {
     align-items: start;
     grid-template-columns: 2.25rem minmax(0, 1fr) 1.25rem;
   }
   .text-index-number,
+  .text-index-collection .text-index-book-mark,
   .text-index-book-mark {
     grid-column: 1;
     grid-row: 1 / span 2;
@@ -4527,13 +4571,16 @@ table.text-ledger {
   }
   .text-index-section-heading h2 { font-size: 1.6rem; }
   .text-index-entry a,
+  .text-index-collection > a,
   .text-index-book > a {
     gap: .65rem;
     grid-template-columns: 1.65rem minmax(0, 1fr) 1rem;
   }
   .text-index-copy h3 { font-size: 1.28rem; }
   .text-index-book .text-index-copy h3 { font-size: 1.48rem; }
+  .text-index-collection .text-index-copy h3 { font-size: 1.48rem; }
   .text-index-summary { font-size: .79rem; }
+  .text-index-collection > a,
   .text-index-book > a {
     padding-left: .7rem;
     padding-right: .7rem;
@@ -4860,12 +4907,16 @@ table.text-ledger {
 
 @media (max-width: 560px) {
   .text-news-book-page main,
+  .text-author-collection-page main,
   .text-news-chapter-page main { padding-top: 2rem; }
   .news-book-title-row {
     gap: .65rem;
     grid-template-columns: minmax(0, 1fr);
   }
-  .text-news-book-page .news-book-header h1 { font-size: 2.7rem; }
+  .text-news-book-page .news-book-header h1,
+  .text-author-collection-page .news-book-header h1 {
+    font-size: 2.7rem;
+  }
   .news-book-title-row .text-work-motif {
     justify-self: end;
     margin-top: .25rem;
@@ -4879,7 +4930,8 @@ table.text-ledger {
     width: 2rem;
   }
   .news-book-opening { padding-bottom: 1.8rem; }
-  .text-news-book-page p.news-book-lede { font-size: 1rem; }
+  .text-news-book-page p.news-book-lede,
+  .text-author-collection-page p.news-book-lede { font-size: 1rem; }
   .news-book-status {
     align-items: start;
     gap: .75rem;
@@ -4888,7 +4940,8 @@ table.text-ledger {
     padding-left: .8rem;
     padding-right: .8rem;
   }
-  .text-news-book-page .news-book-section-heading h2 {
+  .text-news-book-page .news-book-section-heading h2,
+  .text-author-collection-page .news-book-section-heading h2 {
     font-size: 1.55rem;
   }
   .news-book-chapter a {
@@ -4906,7 +4959,10 @@ table.text-ledger {
     grid-column: 2;
     grid-row: 1;
   }
-  .text-news-book-page .news-book-chapter h3 { font-size: 1.32rem; }
+  .text-news-book-page .news-book-chapter h3,
+  .text-author-collection-page .news-book-chapter h3 {
+    font-size: 1.32rem;
+  }
   .news-book-chapter-summary { font-size: .79rem; }
   .news-book-chapter-meta {
     align-items: center;
@@ -4988,7 +5044,10 @@ table.text-ledger {
 
 @media (max-width: 360px) {
   .news-book-title-row { grid-template-columns: minmax(0, 1fr); }
-  .text-news-book-page .news-book-header h1 { font-size: 2.3rem; }
+  .text-news-book-page .news-book-header h1,
+  .text-author-collection-page .news-book-header h1 {
+    font-size: 2.3rem;
+  }
   .news-book-title-row .text-work-motif svg {
     height: 2.3rem;
     width: 2.3rem;
@@ -5110,12 +5169,15 @@ table.text-ledger {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
   .text-index-entry,
+  .text-index-collection,
   .text-index-book { break-inside: avoid; }
   .text-index-entry a,
+  .text-index-collection > a,
   .text-index-book > a {
     grid-template-columns: 2em minmax(0, 1fr) 11em;
     padding: .8em 0;
   }
+  .text-index-collection > a,
   .text-index-book > a {
     background: none;
     grid-template-columns: 2.5em minmax(0, 1fr) 11em;
@@ -5168,11 +5230,15 @@ table.text-ledger {
     padding: 0;
   }
   .text-news-book-page .readerhome,
+  .text-author-collection-page .readerhome,
   .text-news-book-page .news-book-status progress,
   .text-news-chapter-page .news-chapter-map,
   .text-news-book-page .markbtn,
   .text-news-chapter-page .markbtn { display: none; }
-  .text-news-book-page .news-book-header h1 { font-size: 3.25em; }
+  .text-news-book-page .news-book-header h1,
+  .text-author-collection-page .news-book-header h1 {
+    font-size: 3.25em;
+  }
   .news-book-opening {
     max-width: 40em;
     padding: 1.2em 0 1.5em;

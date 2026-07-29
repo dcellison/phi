@@ -291,7 +291,7 @@ The paired page now uses direct words wherever the current entries provide the s
 
 ## Paired review: The Prophet, On Children
 
-The ground truth is the complete On Children teaching in Kahlil Gibran's 1923 *The Prophet*, stored in `texts/sources/the_prophet.txt`. Both renderings now begin with the request for the teaching and continue through the stable bow. The close translation preserves every proposition and its logical relation in 88 unique Phi forms, while its derived English states only what the Phi contains. Its optional roots remain Commons `phenori` (ownership) and Household `phemiru` (visit). The 69-form transmutation uses base vocabulary throughout.
+The ground truth is the complete On Children teaching in Kahlil Gibran's 1923 *The Prophet*, stored in `texts/gibran/sources/the_prophet.txt`. Both renderings now begin with the request for the teaching and continue through the stable bow. The close translation preserves every proposition and its logical relation in 88 unique Phi forms, while its derived English states only what the Phi contains. Its optional roots remain Commons `phenori` (ownership) and Household `phemiru` (visit). The 69-form transmutation uses base vocabulary throughout.
 
 | Area | Close translation | Transmutation |
 |---|---|---|
@@ -717,7 +717,7 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/babel_text.md` | Translation + transmutation | Reviewed | Complete KJV alignment, translation limits, deliberate Earth and sowing departures, and five-pillar comparison complete. |
 | `texts/human_rights_article_one.md` | Translation + transmutation | Reviewed | Paired source alignment, exact reason and conscience faculties, held obligation, translation limits, gap log, and five-pillar comparison complete. |
 | `texts/little_prince_excerpts.md` | Transmutation | Reviewed | The 36-form base-vocabulary work preserves all three short Woods excerpts, restores the current turn and passive invisibility, and makes its deliberate mutual bond and willing responsibility visible in the derived English. |
-| `texts/prophet_excerpts.md` | Translation + transmutation | Reviewed | Three transmuted teachings checked; On Children has complete source alignment, translation limits, and a five-pillar comparison, while the final On Love deictic-order residue is repaired. |
+| `texts/gibran/the_prophet.md` | Translation + transmutation | Reviewed | Three transmuted teachings checked; On Children has complete source alignment, translation limits, and a five-pillar comparison, while the final On Love deictic-order residue is repaired. |
 | `texts/tao_te_ching.md` | Translation + transmutation | Reviewed | All 51 Legge units align in order; the 158-form close translation follows every proposition, and the 104-form transmutation records each omission or redirect. |
 | `texts/heart_sutra.md` | Translation + transmutation | Reviewed | All 34 Müller units align in order; the 102-form close translation now preserves every printed proposition, and the 79-form transmutation records each deliberate departure. |
 | `texts/ring_verse_refusal.md` | Transmutation | Reviewed | The 17-form base-only refusal keeps Tolkien's inscription exact, narrows its affected people to wearers of the other Rings, and records the deliberate change from purpose to accusation. |

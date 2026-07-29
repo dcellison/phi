@@ -92,11 +92,11 @@
       "summary": "Williams's full story, with Real learned through love and the hard scenes of disability, fever, contamination, coercion, burning, and return stated plainly."
     },
     {
-      "path": "prophet_excerpts.md",
-      "kind": "short",
-      "title": "phewo phelui \u2014 from The Prophet",
+      "path": "gibran",
+      "kind": "collection",
+      "title": "phewo phelui \u2014 Kahlil Gibran",
       "method": "Translation + transmutation",
-      "summary": "Three selected teachings by Gibran. On Children appears in two forms: the close translation retains the bow and arrow, while the transmutation gives their motion to a tree and its wind-carried seed."
+      "summary": "Gibran's writing in Phi is arranged by source, with room for each book or essay on its own page. The collection begins with three teachings from The Prophet."
     },
     {
       "path": "tao_te_ching.md",

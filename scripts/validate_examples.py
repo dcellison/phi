@@ -950,8 +950,8 @@ CITATION_SOURCES = {
     "texts/babel_text.md": (
         "kjv", "texts/sources/kjv_genesis.txt"
     ),
-    "texts/prophet_excerpts.md": (
-        "gibran", "texts/sources/the_prophet.txt"
+    "texts/gibran/the_prophet.md": (
+        "gibran", "texts/gibran/sources/the_prophet.txt"
     ),
     "texts/metta_sutta.md": (
         "fausboll", "texts/sources/sutta_nipata_fausboll.txt"
@@ -1001,7 +1001,7 @@ PAIRED_CITATION_SCOPES = {
         "## Close translation",
         "## Transmutation",
     ),
-    "texts/prophet_excerpts.md": (
+    "texts/gibran/the_prophet.md": (
         "## On children: close translation",
         "## On children: transmutation",
     ),
@@ -2036,16 +2036,23 @@ def check_compound_registry(lexicon_words):
 
 
 def check_content_catalogues():
-    """The text and pamphlet shelves match their ordered catalogues."""
+    """The text, collection, and pamphlet shelves match their catalogues."""
     errors = []
-    for loader in (
-        content_catalogues.load_text_catalogue,
-        content_catalogues.load_pamphlet_catalogue,
-    ):
+    try:
+        text_catalogue = content_catalogues.load_text_catalogue(PROJECT_ROOT)
+    except content_catalogues.CatalogueError as exc:
+        errors.extend(exc.errors)
+    else:
         try:
-            loader(PROJECT_ROOT)
+            content_catalogues.load_text_collection_catalogues(
+                PROJECT_ROOT, text_catalogue
+            )
         except content_catalogues.CatalogueError as exc:
             errors.extend(exc.errors)
+    try:
+        content_catalogues.load_pamphlet_catalogue(PROJECT_ROOT)
+    except content_catalogues.CatalogueError as exc:
+        errors.extend(exc.errors)
     return errors
 
 
