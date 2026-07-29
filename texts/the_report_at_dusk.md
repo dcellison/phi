@@ -1,171 +1,171 @@
-# ti sherewa henoi weno nai: When a report is enough
+# shane weno phoa kirema heno: When a report is enough
 
-A friend arrives at dusk and says the footbridge is broken. Nobody in the house has seen it. A child will want to cross in the morning, and the river is an hour's walk away in the dark.
+A friend arrives at dusk and tells the speaker that the footbridge has broken. The speaker hears the friend but does not see the bridge. A child will use it in the morning, so someone must decide what one unverified report is enough to justify before the dark walk becomes a burden of its own.
 
-This is an original Phi essay. Phi is the source text, and the English lines follow it as close readings. The argument uses the Philosophical Reasoning learning path where its distinctions are useful; every other word is base vocabulary.
+This is an original Phi essay. Phi is the source text, and the English lines follow it as close readings. Five optional roots enter from six learning paths when the argument needs their distinctions. Everything else is base vocabulary.
 
 ## The essay
 
 ```
-melu sui norawhi shua. shia tha repha ki pukate tho shane.
-friend DUR dusk come. 3SG DECL.COMP bridge PFV break DECL.COMP.CLOSE tell.
-(A friend comes at dusk. They tell that the bridge has broken.)
+melu sui norawhi shua. shia wei mia tha repha ki pukate tho shane.
+friend DUR dusk come. 3SG DAT 1SG DECL.COMP bridge PFV break DECL.COMP.CLOSE tell.
+(A friend comes at dusk. They tell me that the bridge has broken.)
 
-mia repha ma nila. mia melu ti hea.
-1SG bridge NEG see. 1SG friend REP hear.
-(I do not see the bridge. I hear it from my friend, as reported.)
+mia melu hi hea. whekai mia repha ma nila. repha ki ti pukate.
+1SG friend DIR hear. CONTR 1SG bridge NEG see. bridge PFV REP break.
+(I hear the friend myself. However, I do not see the bridge. The bridge has broken, according to the report.)
 
-ti sherewa lue miona shua. ti sherewa shewo sola peshu po nai.
-REP claim ABL person come. REP claim true DISJ lie POT be.
-(A reported claim comes from a person. A reported claim can be true or a lie.)
+ha sherewa lue melu shua. ha sherewa shewo sola phelira po nai.
+PROX claim ABL friend come. PROX claim true DISJ mistaken POT be.
+(This claim comes from the friend. It may be true or mistaken.)
 
-ti thena mawha nai. ti sherewa lue lokue haolu.
-REP thing NONE be. REP claim ABL place speak.
-(The reportative marks no thing. It speaks from where the claim came.)
+shane sherewa shewo ka ma kelu. ha shane mawha remuma loa.
+tell claim true CAUS NEG become. PROX tell NONE conclusion give.
+(A telling does not make a claim true. This telling supplies no conclusion.)
 
-ha nomi thilou sholu ma nai. mia pha mia na phoa pho thilou.
-PROX present inquire complete NEG be. 1SG INT.COMP 1SG NEC do INT.COMP.CLOSE inquire.
-(This present question is not complete. I ask whether I must act.)
+ha nomi thilou sholu ma nai. mia pha ha shane phoa kirema heno pho thilou.
+PROX present inquire complete NEG be. 1SG INT.COMP PROX tell do criterion satisfy INT.COMP.CLOSE inquire.
+(This present question is incomplete. I ask whether this report satisfies the criterion for acting.)
 
-nohero nela theomi nela phoa wiso senao ma nai.
-believe COORD trust COORD do RECP same NEG be.
-(Believing and trusting and acting are not the same as each other.)
+nohero nela theomi nela phoa senao ma nai.
+believe COORD trust COORD do same NEG be.
+(Believing, trusting, and acting are not the same.)
 
-mia melu theomi. whekai mia ha sherewa ma nohero. mia to ma nila.
-1SG friend trust. CONTR 1SG PROX claim NEG believe. 1SG PST NEG see.
-(I trust my friend. However, I do not believe this claim. I did not see it.)
+mia melu theomi. whekai mia ha sherewa whamoi. mia repha ma nila.
+1SG friend trust. CONTR 1SG PROX claim doubt. 1SG bridge NEG see.
+(I trust my friend. However, I doubt this claim. I do not see the bridge.)
 
-shai mia ma nohero mia po phoa.
-CONC 1SG NEG believe 1SG POT do.
-(Although I do not believe, I can act.)
+shai mia ha sherewa whamoi mia po phoa.
+CONC 1SG PROX claim doubt 1SG POT do.
+(Although I doubt this claim, I can act.)
 
-phoa sherewa ma panoru. phoa lopia shorupo.
-do claim NEG support. do child protect.
-(Acting does not support the claim. Acting protects the child.)
+phoa sherewa ma panoru. phoa sherewa shewo ka ma kelu.
+do claim NEG support. do claim true CAUS NEG become.
+(Acting does not support the claim. Acting does not make the claim true.)
 
-mia po wepu nela repha po nila. lu mia ha phoa. ti sherewa hi sherewa kelu.
-1SG POT go COORD bridge POT see. COND 1SG PROX do. REP claim DIR claim become.
-(I can go and see the bridge. If I do this, the reported claim becomes a witnessed claim.)
+mia po wepu nela repha po nilaki. lu mia ha phoa. ha nilaki newu thesori loa.
+1SG POT go COORD bridge POT inspect. COND 1SG PROX do. PROX inspect new evidence give.
+(I can go and inspect the bridge. If I do this, the inspection gives new evidence.)
 
-whekai hirawo whalo nai nela shero nuko nai. mia sui shero po kanelu.
-CONTR distance large be COORD night black be. 1SG DUR night POT err.
-(However, the distance is large and the night is black. I can err during the night.)
+whekai hirawo whalo nai nela shero nuelo nai. mia sui shero po kanelu.
+CONTR distance large be COORD night dark be. 1SG DUR night POT err.
+(However, the distance is great and the night is dark. I may err during the night.)
 
-ha kirema mia phelu. lu ti sherewa shewo nai nela mia mawha phoa. lopia mua pukea nai.
-PROX criterion 1SG hold. COND REP claim true be COORD 1SG NONE do. child LOC danger be.
-(I hold this criterion. If the reported claim is true and I do nothing, the child is in danger.)
+lopia sui kelua thue repha so wepu. lu repha ki pukate. lopia mua pukea po nai.
+child DUR morning THROUGH bridge FUT go. COND bridge PFV break. child LOC danger POT be.
+(A child will go by way of the bridge in the morning. If the bridge has broken, the child may be in danger.)
 
-lu ti sherewa peshu nai nela mia to phoa. mia sui ta shero to thalo nela repha whoa to nai.
-COND REP claim lie be COORD 1SG PST do. 1SG DUR one night PST walk COORD bridge whole PST be.
-(If the reported claim is a lie and I acted, I walked for one night and the bridge was whole.)
+lu repha whoa nai nela mia repha nilaki. mia sui shero thalo. mia ta thalo tupeka kolua.
+COND bridge whole be COORD 1SG bridge inspect. 1SG DUR night walk. 1SG one walk burden carry.
+(If the bridge is whole and I inspect it, I walk during the night. I bear the burden of one walk.)
 
-ha wi remuma kolo ma nai.
-PROX two conclusion equal NEG be.
-(These two conclusions are not equal.)
+ta thalo tupeka nela lopia kaworu senao ma nai.
+one walk burden COORD child injury same NEG be.
+(The burden of one walk and a child's injury are not the same.)
 
-thalo tulawe nai. lopia kaworu tulawe ma nai.
-walk reversible be. child injury reversible NEG be.
-(A walk is reversible. A child's injury is not reversible.)
+lopia whu tulawe ma nai kaworu po phelu. whekai ta thalo thimu ma turema.
+child REL reversible NEG be injury POT hold. CONTR one walk time NEG return.
+(The child may have an injury that cannot be undone. However, the time of one walk does not return.)
 
-lao ha mia phoa. mia ma nohero thona mia phoa.
-BECAUSE PROX 1SG do. 1SG NEG believe ADVRS 1SG do.
-(Because of this, I act. I do not believe, but I act.)
+lao lopia whu tulawe ma nai kaworu po phelu ha shane nilaki remotha loa.
+BECAUSE child REL reversible NEG be injury POT hold PROX tell inspect reason give.
+(Because the child may have an injury that cannot be undone, this report gives a reason to inspect.)
+
+mia ha remotha kelomi. mia ha sherewa ma nohero thona mia repha nilaki.
+1SG PROX reason accept. 1SG PROX claim NEG believe ADVRS 1SG bridge inspect.
+(I accept this reason. I do not believe the claim, but I inspect the bridge.)
 
 ha sherewa whakeru phelona.
 PROX claim object require.
 (This claim requires an objection.)
 
-lu miona theula ti sherewa phoa. peshu miona ha miona po roke.
-COND person UNIV REP claim do. lie person PROX person POT move.
-(If a person acts on every reported claim, a lying person can move this person.)
+lu theula shane nilaki remotha loa. miona po peshu nela shia phirae miona ka po roke.
+COND UNIV tell inspect reason give. person POT lie COORD 3SG different person CAUS POT move.
+(If every report gives a reason to inspect, a person can lie and move another person.)
 
-peshu miona tha repha ki pukate tho sheloi shemu po shane. mia sheloi shemu po thalo.
-lie person DECL.COMP bridge PFV break DECL.COMP.CLOSE MANY moment POT tell. 1SG MANY moment POT walk.
-(A lying person can tell many times that the bridge has broken. I can walk many times.)
+miona sheloi shemu tha repha ki pukate tho po shane. phirae miona sheloi shemu repha po nilaki.
+person MANY moment DECL.COMP bridge PFV break DECL.COMP.CLOSE POT tell. different person MANY moment bridge POT inspect.
+(A person can report many times that the bridge has broken. Another person can inspect it many times.)
 
 mia ha whakeru kelomi. shorela mia sherewa hieru ka kelu.
 1SG PROX object accept. REPH 1SG claim narrow CAUS become.
-(I accept this objection. In other words, I make the claim narrow.)
+(I accept this objection. In other words, I make the claim narrower.)
 
-mia tha miona na theula ti sherewa phoa tho ma sherewa.
-1SG DECL.COMP person NEC UNIV REP claim do DECL.COMP.CLOSE NEG claim.
-(I do not claim that a person must act on every reported claim.)
+mia tha theula shane nilaki remotha loa tho ma sherewa.
+1SG DECL.COMP UNIV tell inspect reason give DECL.COMP.CLOSE NEG claim.
+(I do not claim that every report gives a reason to inspect.)
 
-lu phoa tulawe nai nela pukea tulawe ma nai. miona po phoa.
-COND do reversible be COORD danger reversible NEG be. person POT do.
-(If the act is reversible and the danger is not, a person can act.)
+lu mia melu theomi nela lopia sui kelua thue repha so wepu nela lopia whu tulawe ma nai kaworu po phelu. ha shane nilaki remotha loa.
+COND 1SG friend trust COORD child DUR morning THROUGH bridge FUT go COORD child REL reversible NEG be injury POT hold. PROX tell inspect reason give.
+(If I trust the friend, the child will use the bridge in the morning, and an injury that cannot be undone is possible, this report gives a reason to inspect.)
 
-lu ha wi thena senao nai. ha kirema mawha remotha loa.
-COND PROX two thing same be. PROX criterion NONE reason give.
-(If these two things are the same, this criterion gives no reason.)
+ha shane naseru ma pilewa. miona repha nilaki po kanu.
+PROX tell obligation NEG make. person bridge inspect POT choose.
+(This report does not create an obligation. A person may choose to inspect the bridge.)
 
-sheloi thalo tulawe ma nai. thimu ma turema.
-MANY walk reversible NEG be. time NEG return.
-(Many walks are not reversible. Time does not return.)
+lu miona sheloi shemu repha nilaki. thimu ma turema. tupeka whalo kelu.
+COND person MANY moment bridge inspect. time NEG return. burden large become.
+(If a person inspects the bridge many times, time does not return. The burden becomes great.)
 
-lao ha nila na manolu. mia so wepu nela mia so nila.
-BECAUSE PROX see NEC stay. 1SG FUT go COORD 1SG FUT see.
-(Because of this, seeing must stay. I will go and I will see.)
+lao ha nilaki ritako norui phelona mia ha shemu ta nilaki kelomi.
+BECAUSE PROX inspect workload boundary require 1SG PROX moment one inspect accept.
+(Because the inspection workload requires a limit, I accept one inspection on this occasion.)
 
-ti sherewa hi sherewa ma nai. ha wi sherewa lue lo phirae lokue shua.
-REP claim DIR claim NEG be. PROX two claim ABL PL different place come.
-(A reported claim is not a witnessed claim. These two claims come from different places.)
+mia repha hi nila. ha nila nela ha shane phirae thesori nai.
+1SG bridge DIR see. PROX see COORD PROX tell different evidence be.
+(I see the bridge directly. This seeing and this telling are different evidence.)
 
-haluma ha hirawo ma kupe. ti mua sherewa manolu.
-language PROX distance NEG hide. REP LOC claim stay.
-(The language does not hide this distance. The reportative stays on the claim.)
+haluma ha thesori phirae lilea. repha ki ti pukate.
+language PROX evidence different clarify. bridge PFV REP break.
+(The language clarifies this difference in evidence. The bridge has broken, according to the report.)
 
-lu miona sheloi shemu ti sherewa haolu nela mawha miona nila. ha ti manolu.
-COND person MANY moment REP claim speak COORD NONE person see. PROX REP stay.
-(If a person speaks a reported claim many times and nobody sees, this reportative stays.)
+lu miona sheloi shemu tha repha ki pukate tho shane nela mawha miona repha nila. repha ki ti pukate.
+COND person MANY moment DECL.COMP bridge PFV break DECL.COMP.CLOSE tell COORD NONE person bridge see. bridge PFV REP break.
+(If a person reports many times that the bridge has broken and nobody sees it, the bridge has broken, according to a report.)
 
-mia ha kirema phelu. whekai ta thilou manolu. sua thalo.
-1SG PROX criterion hold. CONTR one inquire stay. who walk.
-(I hold this criterion. However, one question stays. Who walks?)
+mia ha kirema phelu. whekai ta thilou manolu. sua repha nilaki.
+1SG PROX criterion hold. CONTR one inquire stay. who bridge inspect.
+(I hold this criterion. However, one question remains. Who inspects the bridge?)
 
-lopia phao thalo. whekai theula philo phao po ma thalo.
-child parent walk. CONTR UNIV day parent POT NEG walk.
-(The child's parent walks. However, the parent cannot walk every day.)
-
-mia ha thilou ma lilea. mia ha norawhi repha nila.
-1SG PROX inquire NEG clarify. 1SG PROX dusk bridge see.
-(I do not clarify this question. I see the bridge this dusk.)
+mia ha shemu repha nilaki. whekai mia theula nilaki tupeka po ma kolua. mia ha thilou ma lilea. mia sui ha norawhi repha hi nila.
+1SG PROX moment bridge inspect. CONTR 1SG UNIV inspect burden POT NEG carry. 1SG PROX inquire NEG clarify. 1SG DUR PROX dusk bridge DIR see.
+(I inspect the bridge on this occasion. However, I cannot carry the burden of every inspection. I do not resolve this question. At dusk, I see the bridge directly.)
 ```
 
 ## Proposition record
 
 | Move | Proposition or distinction | State at the close |
 |---|---|---|
-| The report | A friend reports a broken bridge. Nobody in the house has seen it. | Accepted as the situation, not as a fact about the bridge. |
-| What `ti` marks | The reportative names where a claim came from. It does not rank the claim as true or false. | Stands, and everything after it depends on the separation. |
-| Three acts | Believing a claim, trusting a person, and acting are three different things. | Accepted, and the argument spends the rest of its length keeping them apart. |
-| Acting without believing | One can act on an unbelieved claim, and the act does not endorse it. | Accepted, and it dissolves the question as first posed. |
-| Verification | Going to look converts a reported claim into a witnessed one. | Available, but it costs a night walk and can go wrong. |
-| The asymmetry | If the report is true and nothing is done, a child is in danger. If it is false and something is done, a walk is wasted. | The two outcomes are not equal. |
-| The criterion | Act when the act is reversible and the danger is not. | Stated plainly, then cut down to size by the objection. |
-| Objection | Then a liar can move the listener at will, one report at a time. | Granted in full, including that repetition costs what a single walk does not. |
-| Revision | The claim is not that every report must be acted on. Many walks are not reversible, because time does not return. | What is left is narrower and holds. |
-| What the grammar does | The reportative stays on the claim, so an unchecked report stays visibly unchecked however often it is repeated. | Accepted as what the evidential offers, which is memory rather than judgment. |
-| Unresolved | Who does the walking, and how often anyone can be asked to. | Open, and the essay says so in its last line rather than closing it. |
+| The report | A friend says that the bridge has broken. The speaker hears the friend directly but has not seen the bridge. | Accepted as the situation; `ti` belongs to the finite bridge proposition rather than to a noun meaning reported claim. |
+| Truth and source | A telling does not make its claim true, and reportative marking does not choose between truth and mistake. | Stands. An honest error is not dressed up as a lie. |
+| Three acts | Believing a claim, trusting a person, and acting are different relations. | Accepted, then used: the speaker trusts the friend, doubts the claim, and still acts. |
+| Acting without endorsement | Choosing to act neither supports the bridge claim nor makes it true. | Accepted. Inspection can be warranted without a performance of certainty. |
+| Inspection | Going to the bridge supplies new evidence. It does not convert the old report into direct evidence. | Accepted. The later seeing and the earlier telling stay separate. |
+| Unequal stakes | If the report is right, the child may have an injury that cannot be undone. If it is mistaken, the speaker bears a dark walk. The walk's time does not return either. | Neither cost is erased. The possible injury gives a reason to inspect without making the walk free. |
+| Contextual criterion | Trust in this friend, the child's intended morning crossing, and the possibility of an irreversible injury together give this report practical weight. | Narrowed to this situation. The report offers a reason; it does not establish belief. |
+| Objection | If every report supplies that reason, someone can lie repeatedly and move another person one inspection at a time. | Granted in full. Repetition turns a single walk into a growing workload. |
+| Revision | Not every report warrants inspection. Even here, the reason creates no obligation, and the person still chooses the response. | What survives is a contextual reason for one inspection, not a general command. |
+| What the grammar does | Each finite proposition marks its own source. Repeating an unseen bridge claim leaves `ti` on the new assertion; seeing the bridge permits a separate `hi` assertion. | Accepted. The grammar records the route without judging the destination. |
+| Unresolved | Who bears later inspections, and how a household limits that workload. | Open. The speaker takes this walk and refuses to assign all future walks by doing so. |
 
 ## Vocabulary under pressure
 
 | Question | Phi treatment | Result |
 |---|---|---|
-| Does Phi have a noun for testimony? | No, and the essay found it did not need one. `shane` (tell) supplies the telling through the event-noun rule, `thesori` (evidence) covers testimony's role in an assessment, and the claim itself keeps `ti` on its verb where the source belongs. | The source lives in the grammar rather than in a noun, which is why the essay can say that the reportative stays on a claim through every repetition. |
-| Can Phi say that an act can be undone? | It could not. `talome` (restore) names the act of returning something toward a stated condition, but no word said in advance that a return remained available, so a class of acts could not be described at all. | `tulawe` (reversible) is coined here, the essay's one new root and the first from original composition. Negation supplies the harder half: `tulawe ma nai`. |
-| Do believing, trusting, and acting stay apart in use? | `nohero` takes the proposition, `theomi` takes the person, and `phoa` is the act. The essay puts all three in one clause and then separates them across the argument. | English "I believe you" collapses the first two, and the essay needs them apart before it can say anything at all. |
-| Can verification be expressed without a verb for it? | Yes, as a change of evidential: `ti sherewa hi sherewa kelu`, the reported claim becomes a witnessed claim. | Checking a report is going to look, and Phi says it that way rather than with a dedicated verb. |
-| Does the cost of repeated checking need special vocabulary? | No. `sheloi shemu` counts the occasions and `thimu turema ma phoa` states what cannot be recovered. | Ordinary frequency and the refusal of clock units carry the point without a measurement word. |
+| Does Phi need a noun dedicated to reports or testimony? | Event-noun `shane` is a telling or report, `thesori` covers its possible role as evidence, and `ti` marks a finite proposition learned through report. | No new root is needed. The noun, evidential role, and grammatical source marker remain three different things. |
+| Can Phi express verification without pretending one claim changes its source? | Shared Systems and Work verb `nilaki` is inspection against a criterion. Direct `hi nila` then gives the speaker's seeing, while the earlier bridge proposition remains `ki ti pukate`. | Inspection supplies new evidence. It does not turn a reported assertion into the same assertion with a different history. |
+| Does `tulawe` still do useful work here? | Yes, but not in the old claim that a walk is reversible. `whu tulawe ma nai kaworu` describes an injury that cannot be undone, while `po phelu` keeps that injury possible rather than certain. The essay separately admits that the walk consumes time that does not return. | Reversibility keeps its strict meaning: the earlier condition can be regained. Walking home again does not make the first walk unhappen. |
+| Can a reason remain distinct from duty and choice? | `remotha` lets the report offer a reason, Commons and Work `naseru` denies that it creates an obligation, and `kanu` leaves the inspection as a choice. | The report can matter without issuing a command, and the speaker can act without claiming compulsion. |
+| Can repeated checking keep its human cost visible? | Base `tupeka` is a burden borne by a living being. Shared Accessibility, Household, and Work term `ritako` gathers repeated inspections into a workload that needs a limit. | Five optional roots carry ten memberships across six learning paths; no new root is coined. |
 
 ## Five-pillar reading
 
 | Pillar | Work done in the essay |
 |---|---|
-| Solarpunk values | The response to an uncertain warning is a walk and a look, not a rule imposed on everyone who crosses. The check stays with the household that received the report. |
-| Secular Buddhist philosophy | The essay acts under uncertainty without resolving it, and it declines to convert an unverified claim into a settled belief in order to feel ready to move. |
-| Art Nouveau aesthetics | The reasoning happens at dusk, beside a river, on the way to a bridge, and it ends with someone putting on their shoes. |
-| Peace linguistics | The liar is answered without a word for enemies. What limits a false report is the reportative staying on it, plus an honest account of who pays for the walking. |
-| Pre-industrial wisdom | The distance is an hour of walking rather than a measured length, and the cost of repetition is stated as time that does not return. |
+| Solarpunk values | A footbridge is shared infrastructure, and an uncertain warning prompts inspection rather than neglect or automatic closure. The work still needs a person, a limit, and a fair way to be shared. |
+| Secular Buddhist philosophy | The speaker remains with doubt instead of manufacturing belief for the sake of action. Direct seeing later adds evidence without rewriting how the earlier proposition was known. |
+| Art Nouveau aesthetics | The reasoning stays with dusk, dark distance, a morning crossing, and the body travelling towards a bridge. Its abstract distinctions remain attached to a path someone must actually walk. |
+| Peace linguistics | The essay separates an honest mistake from a lie, states the objection without making an enemy, and refuses to let a warning silently create another person's obligation. |
+| Pre-industrial wisdom | Distance is known through the walk and time through dusk, night, and morning. No clock unit or measured length is needed to make either the warning or the burden intelligible. |
 
-A report is enough when acting on it can be undone and the harm it warns of cannot. That answers the evening but not the year, because the walking has to be done by someone, and the essay names no one who owes it. What the language contributes is smaller than an answer and harder to lose: the claim keeps its source on its face, so nobody in the house has to remember, a month from now, which of them actually saw the bridge.
+One report is enough here to offer one reason for inspection. It does not make the claim true, settle belief, or assign the walking forever. That smaller answer survives the objection because the burden stays attached to whoever bears it. At dusk the speaker reaches the bridge and can finally say what the first telling could not: this seeing and that report are different evidence. The bridge may now have an answer. Who carries the next inspection does not.
