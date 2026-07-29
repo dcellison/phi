@@ -92,6 +92,7 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [Metta Sutta close-translation repair](#metta-sutta-close-translation-repair) | complete | closed | 4 |
 | [UDHR Article 1 close-translation repair](#udhr-article-1-close-translation-repair) | complete | closed | 2 |
 | [Babel translation and transmutation fidelity repair](#babel-translation-and-transmutation-fidelity-repair) | complete | closed | 11 |
+| [The Little Prince excerpt fidelity repair](#the-little-prince-excerpt-fidelity-repair) | complete | closed | 7 |
 
 ## Core material qualities
 
@@ -855,6 +856,18 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | `CV-MOTION-01` | descent or downward travel between a named source and destination | Compositional | base motion and spatial relations | `lue waero kau muila shua`, `lue`, `kau`, `shua`. A motion verb with an ablative source and allative destination states the whole path without turning English 'down' into a context-free direction. In Babel, coming from the sky to the earth supplies the descent; another setting can name its own higher source and lower destination. |
 | `CV-LANG-04` | confounding a shared language so that reciprocal speech is no longer understood | Compositional | base language, change, causation, and understanding vocabulary | `ta haluma lo phirae haluma ka kelu`, `lue wiso haolu po ma shelomu`. Calling the language unfamiliar described only its relation to a listener's prior experience. Babel instead needs a caused change from one shared language to different languages, followed by the intended inability to understand speech from one another. Existing causative and purpose grammar keeps both the change and its consequence audible. |
 | `CV-PURPOSE-01` | lest or action undertaken to prevent a feared outcome | Compositional | existing purpose, mood, tense, negation, and voice grammar | `lila`, `su`, `so`, `se`, `ma`. Phi places the unwanted result first under 'lila' as a negative purpose clause, then gives the action meant to prevent it. Mood in the governing clause can present the undertaking as a wish or exhortation. No new conjunction is needed, and the feared outcome remains within the language's absolute modifier-first order. |
+
+## The Little Prince excerpt fidelity repair
+
+| ID | Concept | Status | Placement | Decision or return condition |
+|---|---|---|---|---|
+| `CV-ART-01` | poems, paintings, drawings, sculptures, novels, genres, and performances | Compositional | base roots and event nouns | See the complete decision under [Language, story, art, and representation](#language-story-art-and-representation). |
+| `CV-ART-03` | exact work titles, quotations, lyrics, scores, named styles, genre labels, and source identifiers | Source-bound | source material beside a Phi account or an accepted Phi-form onym | See the complete decision under [Language, story, art, and representation](#language-story-art-and-representation). |
+| `CV-ROLE-01` | exact counselling, custodial, academic, religious, and traditional role titles | Source-bound | source institution, profession, lineage, or community beside an ordinary Phi role description | See the complete decision under [Roles, places, relations, and remaining concrete nouns](#roles-places-relations-and-remaining-concrete-nouns). |
+| `CV-TIME-02` | always, never, often, rarely, and sometimes | Compositional | base expressions | See the complete decision under [Time, sequence, natural stations, and recurrence](#time-sequence-natural-stations-and-recurrence). |
+| `CV-ACCESS-07` | visibility and visual availability | Compositional | base perception and light clauses with Accessibility use relations | See the complete decision under [Accessibility and Participation module prose](#accessibility-and-participation-module-prose). |
+| `CV-PHIL-09` | responsibility, accountability, obligation, and causal contribution | Compositional | base agency vocabulary with Commons and Work | See the complete decision under [Philosophical Reasoning module prose](#philosophical-reasoning-module-prose). |
+| `CV-ANIMAL-04` | taming as caused habituation to people, distinct from forming a mutual bond | Compositional | base animal, change, causation, and relationship vocabulary | `nolika woenu ka kelu`, `nolami`. An animal can be caused to become 'woenu' (tame), accustomed to human presence or handling. That construction keeps one participant as the cause of the animal's change. The Little Prince transmutation deliberately chooses reciprocal 'nolami' (bond) instead, making the other being a participant in a mutual relation rather than an object made tame. |
 
 ## Prompt sources
 

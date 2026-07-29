@@ -979,6 +979,21 @@
         "CV-LANG-04",
         "CV-PURPOSE-01"
       ]
+    },
+    {
+      "id": "little-prince-fidelity-repair",
+      "heading": "The Little Prince excerpt fidelity repair",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-ART-01",
+        "CV-ART-03",
+        "CV-ROLE-01",
+        "CV-TIME-02",
+        "CV-ACCESS-07",
+        "CV-PHIL-09",
+        "CV-ANIMAL-04"
+      ]
     }
   ],
   "candidates": [
@@ -1694,7 +1709,8 @@
       ],
       "batches": [
         "philosophical-reasoning-module-prose",
-        "commons-collective-governance-module-prose"
+        "commons-collective-governance-module-prose",
+        "little-prince-fidelity-repair"
       ]
     },
     {
@@ -2512,7 +2528,8 @@
         "soli shemu"
       ],
       "batches": [
-        "time-sequence-natural-stations-and-recurrence"
+        "time-sequence-natural-stations-and-recurrence",
+        "little-prince-fidelity-repair"
       ]
     },
     {
@@ -3202,7 +3219,8 @@
         "wile"
       ],
       "batches": [
-        "language-story-art-and-representation"
+        "language-story-art-and-representation",
+        "little-prince-fidelity-repair"
       ]
     },
     {
@@ -3256,7 +3274,8 @@
       "source_rule": "Preserve exact titles, quotations, lyrics, scores, named styles, genre labels, catalogue identifiers, and edition details in their source form. A work may also bear an accepted Phi-form onym under `ne`, without changing the preserved source material.",
       "batches": [
         "language-story-art-and-representation",
-        "work-craft-repair-module-prose"
+        "work-craft-repair-module-prose",
+        "little-prince-fidelity-repair"
       ]
     },
     {
@@ -3461,7 +3480,8 @@
         "commons-collective-governance-module-prose",
         "medical-bodily-care-module-prose",
         "accessibility-participation-module-prose",
-        "work-craft-repair-module-prose"
+        "work-craft-repair-module-prose",
+        "little-prince-fidelity-repair"
       ]
     },
     {
@@ -4474,7 +4494,8 @@
         "lokane"
       ],
       "batches": [
-        "accessibility-participation-module-prose"
+        "accessibility-participation-module-prose",
+        "little-prince-fidelity-repair"
       ]
     },
     {
@@ -5444,6 +5465,20 @@
       ],
       "batches": [
         "babel-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-ANIMAL-04",
+      "concept": "taming as caused habituation to people, distinct from forming a mutual bond",
+      "status": "compositional",
+      "placement": "base animal, change, causation, and relationship vocabulary",
+      "summary": "An animal can be caused to become 'woenu' (tame), accustomed to human presence or handling. That construction keeps one participant as the cause of the animal's change. The Little Prince transmutation deliberately chooses reciprocal 'nolami' (bond) instead, making the other being a participant in a mutual relation rather than an object made tame.",
+      "expressions": [
+        "nolika woenu ka kelu",
+        "nolami"
+      ],
+      "batches": [
+        "little-prince-fidelity-repair"
       ]
     }
   ],

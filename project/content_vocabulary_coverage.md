@@ -1738,6 +1738,23 @@ The paired Babel text covered every source verse, but both renderings inherited 
 
 The batch adds one Work, Craft, and Repair root and one module membership. It adds no grammar. The close rendering now follows every source relation it can state, while the transmutation keeps the source detail until its declared changes of actor, judgement, and image.
 
+## The Little Prince excerpt fidelity repair
+
+The three Katherine Woods quotations are the complete source witness available to this page. The fidelity review keeps their copyrighted wording short, checks each Phi unit against the words it actually contains, and records where the transmutation deliberately changes rank, taming, and responsibility.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| Exact work title and three short Woods quotations | adjacent source excerpts and `CV-ART-03` | **SOURCE-BOUND** | The page preserves only the quoted lines needed for the three transmutations. No stored source witness or expanded English passage is required. |
+| Prince as a source rank | the exact English title, `thiku miona lue silero`, and `CV-ROLE-01` | **SOURCE-BOUND** | The source keeps Prince. Phi describes a small person from the stars without turning inherited rank into a reusable role word. |
+| Drawing a sheep | `kire`, `mophira`, and `CV-ART-01` | **COMPOSITIONAL** | `kire` includes a pencil giving a subject its drawn outline. The derived English can therefore say "draw" while the exact gloss remains shape. |
+| The current turn, simplicity, essentiality, and right seeing | `nosa`, `siloma`, `noetha`, and `theali nila` | **COMPOSITIONAL** | Existing base roots carry every distinction. `nosa` restores Woods's "now"; the intensifier belongs to simple; and `theali` is explicitly licensed as fitting manner before seeing. |
+| Invisibility to the singular eye | headless `whu noetha nai`, instrumental `roe mirae`, passive `se`, potential `po`, negation `ma`, and `CV-ACCESS-07` | **COMPOSITIONAL** | The essential thing remains the subject and cannot be seen with the eye. A dedicated visible or invisible adjective would hide the perceptual relation already stated by the clause. |
+| Forever | `theula thimu` and `CV-TIME-02` | **COMPOSITIONAL** | All time supplies the unbounded duration as a modifier-first fragment without importing exact clock or calendar measurement. |
+| Exact taming and the transmuted mutual bond | `nolika woenu ka kelu`, `nolami`, and `CV-ANIMAL-04` | **COMPOSITIONAL** | Phi can describe caused habituation to people when taming itself matters. The transmutation instead follows the fox's explanation and makes the other being a participant in a mutual bond. |
+| Responsibility after the bond | `thonai kelu` and `CV-PHIL-09` | **COMPOSITIONAL** | `thonai` is willingly assumed care or answerability. The derived English now makes that willingness audible instead of repeating Woods's unqualified "responsible." |
+
+The batch adds no root, module membership, compound, or grammar. Its lexical result is a sharper division between what Phi can translate compositionally and what this transmutation chooses to change.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -1829,4 +1846,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The decision queue is closed. The register holds 63 implemented decisions and 119 compositional decisions. It also preserves 31 deferrals with return conditions, 43 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,293 lexicon entries follow the target prose contract. Fifteen post-migration literary retrofits complete the shelf, the stricter source-fidelity sweep is current through Babel, and all seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the paired-text fidelity sweep with the next recorded shelf candidate. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
+The decision queue is closed. The register holds 63 implemented decisions and 121 compositional decisions. It also preserves 31 deferrals with return conditions, 43 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,293 lexicon entries follow the target prose contract. Fifteen post-migration literary retrofits complete the shelf, the stricter source-fidelity sweep is current through The Little Prince excerpts, and all seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the paired-text fidelity sweep with the next recorded shelf candidate. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
