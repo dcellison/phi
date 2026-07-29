@@ -1,10 +1,10 @@
 # Philosophical Reasoning
 
-Someone claims a path is good, another asks why, and the argument that follows needs words sharper than "think" and "true" to hold together: a premise from a conclusion, a valid argument from a sound one, a doubt from a refutation. Claim, evidence, reason, and criterion belong to base vocabulary because that exchange is ordinary life. Twenty-five narrower roots form the optional toolkit around them.
+Someone claims a path is good, another asks why, and the argument that follows needs words sharper than "think" and "true" to hold together: a premise from a conclusion, a valid argument from a sound one, a doubt from a refutation. Claim, evidence, reason, and criterion belong to base vocabulary because that exchange is ordinary life. Twenty-seven narrower roots form the optional toolkit around them.
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them supplies vocabulary, and vocabulary has never made anyone right.
 
-The chapter table below introduces 25 module roots. Shared classification brings the optional learning list to 28 words; four base words are taught alongside it. The complete list is under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning).
+The chapter table below introduces 27 module roots. Shared classification brings the optional learning list to 30 words; four base words are taught alongside it. The complete list is under [Philosophical Reasoning in the module lexicon](../lexicon/by_module.md#philosophical-reasoning).
 
 ## Core vocabulary used by the module
 
@@ -53,8 +53,10 @@ The module does not replace what Phi already says about thought and dialogue. It
 | `norethi` | adjective | confident; hold a strong but revisable stance | Confidence is a strong stance held with room to revise, and it is not the same as knowledge, truth, or authority. |
 | `soneho` | noun | tradeoff; a valued gain joined to a valued loss | A tradeoff joins a real gain to a real loss; simply having several options on the table is not yet one. |
 | `manawi` | verb | compromise; agree through mutual concession | Compromising reaches agreement through concession from more than one side; the word alone says nothing about whether the result is fair. |
+| `parelu` | verb | deserve; be judged fitting for an outcome under stated grounds | Deservingness is a judgement about an outcome, while `rolia` worth belongs to the person without being earned. |
+| `thaweno` | noun | reward; a benefit connected to an act, result, or condition | A reward answers something; `loami` gift requires no matching act. |
 
-Verbs used in this chapter receive their event or result nouns through Phi's ordinary event-noun rule: `sherewa` can name a claim, `kethira` an inference, `whakeru` an objection, `whekate` a refutation, `kirothe` a definition, `whamoi` doubt, `wurashi` craving, and `manawi` a compromise. The adjectives `kithela`, `letharo`, `serathi`, `taleri`, and `norethi` likewise name validity, consistency, integrity, virtue, and confidence through the quality-noun rule; their entries stay verb-only or adjective-only, as the lexicon requires.
+Verbs used in this chapter receive their event or result nouns through Phi's ordinary event-noun rule: `sherewa` can name a claim, `kethira` an inference, `whakeru` an objection, `whekate` a refutation, `kirothe` a definition, `whamoi` doubt, `wurashi` craving, `manawi` a compromise, and `parelu` deservingness or desert. The adjectives `kithela`, `letharo`, `serathi`, `taleri`, and `norethi` likewise name validity, consistency, integrity, virtue, and confidence through the quality-noun rule; their entries stay verb-only or adjective-only, as the lexicon requires.
 
 ## Claims, premises, and conclusions
 
@@ -215,6 +217,24 @@ mia sharino mia phoa whakeru.
 ```
 
 The paired [Article 1](../../../texts/human_rights_article_one.md) tests all three distinctions in adjacent claims. Its translation gives people equal rights, then presents reason and conscience as endowed faculties. Its transmutation gives them recognized entitlements, the capacity to think, and the heart's knowing. The close rendering draws on Commons `naseru` for the declaration's final obligation without moving that word into this learning path.
+
+## Deservingness and reward
+
+An orchard gives fruit without asking whether the receiver earned it. A workshop may promise a reward for completed work, and a council may argue that someone deserves redress. `parelu` names the judgement that links a person to an outcome under offered grounds. `thaweno` names the benefit that follows an act, result, or condition. The relations can part company: a person may deserve an outcome no one offered as a reward, while a reward may rest on reasons a speaker rejects.
+
+```
+shia ha loami parelu.
+3SG PROX gift deserve.
+(They deserve this gift.)
+```
+
+```
+ha siora shia thaweno nai.
+PROX joy 3SG reward be.
+(This joy is their reward.)
+```
+
+[On Giving](../../../texts/gibran/on_giving.md) needs both words in close translation. Gibran asks who deserves to receive and calls joy the giver's reward. The transmutation can then question desert and debt without blurring what it answers.
 
 ## Integrity, virtue, and craving
 

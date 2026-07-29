@@ -1,6 +1,6 @@
 # Commons and Collective Governance
 
-**Status:** **Established vocabulary module** with 29 module roots coined here, 54 current memberships, and base-vocabulary `sirami` record, `kawhera` coerce, and `whepelo` retaliate; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 29 module roots coined here, 55 current memberships, and base-vocabulary `sirami` record, `kawhera` coerce, and `whepelo` retaliate; ordinary Phi grammar.
 
 ## Charter
 
@@ -80,7 +80,7 @@ The target-prose review migrated all 42 inherited module entries and returned to
 | `kowanu` | governance; a continuing arrangement for collective decisions, practice, and later review | A council or institution may take part in governance without becoming the whole arrangement. The word reports neither legitimacy nor a particular political form. |
 | `pashenu` | petition; present a formal request to a person or institution able to respond | A petition asks its recipient to act. It differs from `repora`, which puts an action before a collective for decision, and `whetuma`, which asks for reconsideration of an earlier decision. |
 
-Both words pass the lexical, example, character-neighbour, and phonetic-neighbour checks. Neither uses a retired form or an English homonym. They brought the module to 29 roots coined here and 53 memberships. Shared `serathi`, principled, adds conduct that remains answerable to a stated ethical commitment when keeping it has a cost. The current learning path therefore holds 54 words. Every Commons entry uses the target prose contract.
+Both words pass the lexical, example, character-neighbour, and phonetic-neighbour checks. Neither uses a retired form or an English homonym. They brought the module to 29 roots coined here and 53 memberships. Shared `serathi`, principled, adds conduct that remains answerable to a stated ethical commitment when keeping it has a cost. Shared `parelu`, deserve, keeps a judgement of desert separate from rights, entitlements, and human worth. The current learning path therefore holds 55 words. Every Commons entry uses the target prose contract.
 
 ## Rights and entitlements
 
@@ -89,6 +89,10 @@ A `sherelo` is a normative right whose recognition or fulfillment may be contest
 The paired [Article 1](../../texts/human_rights_article_one.md) puts the contrast in one place.
 
 Its close translation uses equal `sherelo` rights from birth. Its transmutation uses equal `shereni` entitlements and records the narrower choice in its gap log.
+
+## Deservingness
+
+`parelu` belongs in the learning path because claims about who deserves a benefit or response can shape allocation, recognition, and redress. The verb records the judgement and its offered grounds. A council cannot use it to manufacture the person's `rolia` worth, and a denied `sherelo` right does not disappear for lack of merit.
 
 ## Concepts Kept Compositional
 

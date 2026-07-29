@@ -63,7 +63,7 @@
 
 ## Commons and Collective Governance
 
-*54 words in this learning path.*
+*55 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -90,6 +90,7 @@
 | `naweso` | consensus | noun |
 | `norathu` | procedure | noun |
 | `norulo` | jurisdiction | noun |
+| `parelu` | deserve | verb |
 | `pashenu` | petition | verb |
 | `phanuli` | allocate | verb |
 | `pharomu` | exclude | verb |
@@ -297,7 +298,7 @@
 
 ## Philosophical Reasoning
 
-*28 words in this learning path.*
+*30 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -312,6 +313,7 @@
 | `mothare` | premise | noun |
 | `natheri` | entail | verb |
 | `norethi` | confident | adjective |
+| `parelu` | deserve | verb |
 | `phiketu` | contradict | verb |
 | `phisuwa` | example | noun |
 | `phiwheki` | counterexample | noun |
@@ -324,6 +326,7 @@
 | `sherelo` | right (normative) | noun |
 | `soneho` | tradeoff | noun |
 | `taleri` | virtuous | adjective |
+| `thaweno` | reward | noun |
 | `themore` | argument | noun |
 | `whakeru` | object | verb |
 | `whamoi` | doubt | verb |
@@ -389,7 +392,7 @@
 
 ## Work, Craft, and Repair
 
-*72 words in this learning path.*
+*73 words in this learning path.*
 
 | Word | Gloss | Part of speech |
 |---|---|---|
@@ -451,6 +454,7 @@
 | `someru` | supervise | verb |
 | `telo` | farmer | noun |
 | `temu` | guild | noun |
+| `thaweno` | reward | noun |
 | `thesani` | skill | noun |
 | `thewaki` | electricity | noun |
 | `thimelo` | pace | noun |

@@ -1802,6 +1802,20 @@ The paired fable returns to Schleicher's own German explanation and the complete
 
 The batch adds one optional root with two module memberships and no compound or grammar. The close rendering uses 63 unique Phi forms, and the transmutation uses 60.
 
+## Gibran's On Giving fidelity repair
+
+The rebuilt page follows the whole teaching in 33 close-translation units and 33 transmutation units. Both citation streams preserve the source order, and the complete close reading matches its detailed Phi blocks exactly. Gibran's dog, well, myrtle, orchard, ocean, baptism, divine parentage, and wings stay visible instead of being reduced to seven selected moments.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| Worth and deservingness | `rolia`, new `parelu`, `CV-VALUE-01`, and `CV-VALUE-03` | **IMPLEMENTED** | Inherent worth does not say that an outcome fits someone because of an act or offered reason. `parelu` reports that judgement without making it true or turning it into a right. |
+| Reward, gift, and exchange | new `thaweno`, `loami`, `wisola`, and `CV-EXCHANGE-01` | **IMPLEMENTED** | Gibran calls joy a reward. A gift requires no matching act, while exchange names the reciprocal arrangement; `thaweno` names the benefit that answers an act, result, or condition. |
+| Myrtle, baptism, God, holy city, and inheritors | Exact source wording beside shrub, sacred water ceremony, sacred spirit, sacred place, and descendant descriptions | **SOURCE-BOUND / COMPOSITIONAL** | Phi gives each passage a defensible material description while the citation preserves the identity and religious, botanical, or legal force that the description does not reproduce. |
+| Asking and unasked giving | A polite whole-clause question followed by `whuo ha haolu` | **COMPOSITIONAL** | Phi needs no request root. The question makes the proposed act and the addressee's answer audible; the second clause can then say that no such speech occurred. |
+| Receiver, debt, and freedom | `howela`, `naseru`, `ralu`, `tupeka`, and explicit burden clauses | **COVERED** | The transmutation lets the receiver accept freely and declines to turn gratitude into an imposed obligation. The close translation keeps Gibran's yoke and debt claim visible. |
+
+The batch adds two optional roots with four module memberships and no registered compound or grammar.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -1893,4 +1907,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The decision queue is closed. The register holds 65 implemented decisions and 124 compositional decisions. It also preserves 31 deferrals with return conditions, 43 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,295 lexicon entries follow the target prose contract. Fifteen post-migration literary retrofits complete the shelf, and the stricter source-fidelity sweep is current through Schleicher's fable. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the paired-text fidelity sweep with the next recorded shelf candidate. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
+The decision queue is closed. The register holds 67 implemented decisions and 124 compositional decisions. It also preserves 31 deferrals with return conditions, 43 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,297 lexicon entries follow the target prose contract. Fifteen post-migration literary retrofits complete the shelf, and the stricter source-fidelity sweep is current through Gibran's On Giving. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the paired-text fidelity sweep with the next recorded shelf candidate. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
