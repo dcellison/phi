@@ -4,7 +4,7 @@ A chair comes back from the workshop with one leg pale and new. Whoever sits in 
 
 Like every module, its specialized vocabulary is optional and uses ordinary Phi grammar. A speaker who has not learned it can always ask for a core paraphrase. Learning the words gives no skill or authority over another person's labor; they describe work without handing it out.
 
-The chapter table below introduces 28 module roots. Current classifications bring the optional learning list to 70 words; base `winora` plan and `hasoru` pending are taught alongside it. The complete list is under [Work, Craft, and Repair in the module lexicon](../lexicon/by_module.md#work-craft-and-repair).
+The chapter table below introduces 28 module roots. Current classifications and later source-led additions bring the optional learning list to 71 words; base `winora` plan and `hasoru` pending are taught alongside it. The complete list is under [Work, Craft, and Repair in the module lexicon](../lexicon/by_module.md#work-craft-and-repair).
 
 ## Core vocabulary used by the module
 
@@ -25,7 +25,7 @@ The sibling modules lend their own tools when work touches their ground: Systems
 
 ## Additional roots in this learning path
 
-Twelve familiar roots place the module's task and evaluation vocabulary in actual workshops, studios, and working roles.
+Thirteen roots place the module's task and evaluation vocabulary among workshops, studios, working roles, and built forms.
 
 | Phi | Working sense | Why it belongs here |
 |---|---|---|
@@ -41,6 +41,15 @@ Twelve familiar roots place the module's task and evaluation vocabulary in actua
 | `nunoa` | forager; a worker who gathers food from the wild | Practical knowledge of land grounds the work; Ecological Systems teaches the same role through its living relations. |
 | `telo` | farmer; a person whose work is growing food on cultivated land | Farming is sustained work in living material systems, which gives the word its ecological classification. |
 | `temu` | guild; a craft or professional association | A guild connects practical learning with collective organization, which gives it a second home in Commons. |
+| `torali` | tower; a built structure whose height is central to its form | A tower is more than a tall wall: it may stand alone or rise from another building, carry something aloft, or open a view. |
+
+In the Babel translation, a tall wall cannot honestly do a tower's work. `torali` names the whole structure, and the ordinary modifier-first phrase `torali raeli lumae`, the end of the tower's height, gives its top.
+
+```
+lo miona torali lorima.
+PL person tower build.
+(The people build a tower.)
+```
 
 ## Planning and pending status belong to base vocabulary
 

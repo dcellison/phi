@@ -47,20 +47,20 @@ An original makes a different promise. Phi comes first. English comes afterward 
 The paired Babel text makes the difference visible in one act. The close translation follows the King James account of dispersal:
 
 ```
-whu karami phelu thena lo miona lue ha lokue nia theula muila menoa to thiwera.
-REL authority hold thing PL person ABL PROX place ON UNIV earth face PST scatter.
+whu karami phelu limoe lue ha lokue nia theula muila menoa lo miona to thiwera.
+REL authority hold creature ABL PROX place ON UNIV earth face PL person PST scatter.
 (The being who holds authority scattered the people from this place upon the face of the whole earth.)
 kjv: "So the LORD scattered them abroad from thence upon the face of all the earth:"
 ```
 
-The title LORD remains in the cited source. Inside Phi, `whu karami phelu thena` identifies a being who holds authority without declaring that authority legitimate. `thiwera` reports the scattering. Nothing in the Phi line makes the event welcome.
+The title LORD remains in the cited source. Inside Phi, `whu karami phelu limoe` identifies a nonhuman story creature who holds authority without declaring that authority legitimate. `thiwera` reports the scattering. Nothing in the Phi line makes the event welcome.
 
 The transmutation stands against the same source clause:
 
 ```
-muila phea lo thinoe lo miona nia theula muila menoa to thiwera.
-earth AS PL seed PL person ON UNIV earth face PST scatter.
-(The earth scattered the peoples like seeds upon the face of all the earth.)
+muila phea lo thinoe nia theula muila menoa lo miona to thiwera.
+earth AS PL seed ON UNIV earth face PL person PST scatter.
+(The earth scattered the people like seeds upon the face of the whole earth.)
 kjv: "So the LORD scattered them abroad from thence upon the face of all the earth:"
 ```
 

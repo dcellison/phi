@@ -1718,6 +1718,26 @@ Article 1 already covered every source unit, but its close rendering acknowledge
 
 The batch adds one Philosophical Reasoning root and changes no other membership. The close translation now names reason and conscience as separate faculties and renders the final clause as a held obligation. The transmutation retains its deliberate capacity, heart-knowing, and kind-action changes while using the same obligation construction.
 
+## Babel translation and transmutation fidelity repair
+
+The paired Babel text covered every source verse, but both renderings inherited an avoidable substitution for tower and the transmutation dropped several ordinary details before reaching its philosophical departures. The repair tests the full passage against the King James source and records every distinction it raises.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| Mortar, bitumen, and related construction products | `theru nuko loesi`, a material relative clause, `muphia`, and `CV-MAT-09` | **DEFERRED** | The close translation describes thick black oil and its work connecting clay-stones; the transmutation deliberately uses mud. One passage does not settle the wider distinctions among mortar, cement, plaster, asphalt, and other products. |
+| Exact source wording and named linguistic identities | the tracked King James source and `CV-LANG-02` | **SOURCE-BOUND** | Exact quotations remain beside the Phi blocks. Phi does not recode an inherited source wording or claim to replace the language identity that supplied it. |
+| LORD as a named divine title | `whu karami phelu limoe` and `CV-META-01` | **SOURCE-BOUND** | The close Phi line reports a nonhuman story participant who holds authority; the exact title remains in the source citation. The transmutation changes the actor to the earth and labels that departure. |
+| City as a human-scale settlement | `whalo silawo` and `CV-SETTLE-01` | **COMPOSITIONAL** | Great village preserves the settlement and scale without introducing a civic category whose legal or administrative sense the passage does not need. |
+| Shinar and Babel as exact place names | the adjacent source citations and `CV-SETTLE-02` | **SOURCE-BOUND** | The land relation, naming event, and reason for the name remain in Phi. The exact source names do not become improvised onyms. |
+| Tower as a complete built structure | `raelu`, `moru`, and `CV-BUILD-01` | **IMPLEMENTED** | Tall describes extent and wall identifies one possible face; neither names the structure. Work-module `torali` supplies tower. |
+| Top as the upper endpoint of a vertical form | `raeli`, `lumae`, and `CV-SHAPE-03` | **COMPOSITIONAL** | `torali raeli lumae`, the end of the tower's height, identifies its top. This keeps `shuna` for an actual edge and does not extend anatomical `koma`, head, into an object part. |
+| Renown behind "make us a name" | `nomei`, `sano`, `sheloi`, `miona`, and `CV-REPUTE-01` | **COMPOSITIONAL** | A name known to many people states the desired public recognition. The surrounding account can still distinguish welcome recognition, notoriety, and a bare identifier. |
+| Descent without a context-free downward particle | source and destination phrases around a motion verb and `CV-MOTION-01` | **COMPOSITIONAL** | Coming from the sky to the earth supplies the path. Another setting can name its own higher source and lower destination rather than importing the English direction as a free modifier. |
+| Confounding a shared language | causative change, different languages, failed reciprocal understanding, and `CV-LANG-04` | **COMPOSITIONAL** | Unfamiliarity described the language only relative to prior experience. The repaired close translation states the caused change and then its intended communicative consequence. |
+| "Lest" as prevention of a feared outcome | `lila` with negative tense and voice under optative `su`, and `CV-PURPOSE-01` | **COMPOSITIONAL** | Phi places the unwanted outcome before the action meant to prevent it. The construction preserves both purpose and fear without adding a conjunction or weakening modifier-first order. |
+
+The batch adds one Work, Craft, and Repair root and one module membership. It adds no grammar. The close rendering now follows every source relation it can state, while the transmutation keeps the source detail until its declared changes of actor, judgement, and image.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -1809,4 +1829,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The decision queue is closed. The register holds 62 implemented decisions and 115 compositional decisions. It also preserves 31 deferrals with return conditions, 43 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,292 lexicon entries follow the target prose contract. Fifteen literary retrofits complete the shelf, the drafted Phi book is current through chapter 7, and all seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes without a new lexical decision. Resume SEM-09D with the current documents, before chapter 8. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
+The decision queue is closed. The register holds 63 implemented decisions and 119 compositional decisions. It also preserves 31 deferrals with return conditions, 43 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,293 lexicon entries follow the target prose contract. Fifteen post-migration literary retrofits complete the shelf, the stricter source-fidelity sweep is current through Babel, and all seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the paired-text fidelity sweep with the next recorded shelf candidate. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.

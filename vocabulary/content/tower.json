@@ -1,0 +1,33 @@
+{
+  "word": "torali",
+  "gloss": "tower",
+  "ipa": "/t̪o̞.ˈrä.li/",
+  "syllables": [
+    "to",
+    "ra",
+    "li"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "watchtower",
+    "bell tower",
+    "water tower"
+  ],
+  "description": "'torali' names a built structure whose height is central to its form, whether it stands alone or rises from another building. A bell may hang near its top, while a water tower holds a vessel above the ground. 'raelu' (tall) describes vertical extent, and 'moru' (wall) names one possible face; neither identifies the whole tower.",
+  "articulatory_notes": "Place the tongue tip against the upper teeth for unvoiced dental 't' and release into true-mid back rounded 'o'. Tap or briefly trill the tongue tip at the alveolar ridge before stressed open central 'a'. Return the tongue tip to the ridge for lateral 'l', let air pass along its sides, and finish on high-front unrounded 'i'.",
+  "sound_symbolism": "Rounded 'o' opens full, stressed 'a' broadens the middle, and final 'i' draws the sound to a fine point. The tap and lateral return make a brief upward ladder in the mouth, a contour that can call a tower to mind.",
+  "usage_notes": "'torali raeli lumae' (the end of a tower's height) names its top without extending the anatomical 'koma' (head). 'torali shuna' is an outer edge instead. The surrounding phrase can name what the tower carries or overlooks; exact architectural type, dimensions, materials, and source name remain separate.",
+  "examples": [
+    {
+      "phi": "lo miona torali lorima.",
+      "translation": "The people build a tower."
+    }
+  ],
+  "semantic_domains": {
+    "creation": "a tall structure assembled from material parts",
+    "spatial": "a built form defined by substantial vertical extent"
+  },
+  "modules": [
+    "work-craft-and-repair"
+  ]
+}

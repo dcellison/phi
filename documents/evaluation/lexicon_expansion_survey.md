@@ -1,6 +1,6 @@
 # Lexicon expansion survey (2026-07-21)
 
-This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,292 entries: 1,158 content words, 114 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become detailed where speakers need specialised discussion.
+This is a working map for vocabulary growth and profile vocabulary passes. The current inventory contains 1,293 entries: 1,159 content words, 114 function forms, and 20 interjections. Phi is not generally short of words, but its coverage is uneven and its modules are intended to become detailed where speakers need specialised discussion.
 
 A missing English headword is not automatically a Phi gap. A concept may already be covered elegantly by a broader root, ordinary composition, an event noun, a registered compound, or a separately presented source artifact plus Phi analysis. That observation does not prohibit coinage: a concept may receive a dedicated word because it is important, useful, beautiful, or worth making easy to discuss.
 
@@ -79,13 +79,13 @@ Affected standing and office structure remain compositional, as do meeting mecha
 
 ### Work, craft, and repair: current prose complete
 
-The [Work, Craft, and Repair profile](../modules/work_craft_and_repair.md) establishes 28 optional terms for tasks, projects, progress, blocked status, deadlines, schedules, assignment, coordination, supervision, handoffs, skills, competence, expertise, qualification, training, assessment, certification, design, testing, quality, workload, drudgery, exploitation, stock, inventories, supply, offcuts, and provenance. `winora` plan and `hasoru` pending belong in base vocabulary.
+The [Work, Craft, and Repair profile](../modules/work_craft_and_repair.md) established 28 optional terms in its first pass for tasks, projects, progress, blocked status, deadlines, schedules, assignment, coordination, supervision, handoffs, skills, competence, expertise, qualification, training, assessment, certification, design, testing, quality, workload, drudgery, exploitation, stock, inventories, supply, offcuts, and provenance. The later Babel fidelity review added `torali` tower when tall wall proved too narrow for the source's built form. `winora` plan and `hasoru` pending belong in base vocabulary.
 
 The pass keeps requests, offers, work sequences, completion criteria, job and profession categories, novice status, exact licenses and credentials, drawings and tolerances, inspection and approval relations, fatigue, accommodations, stop-work authority, wages, payments, prices, contracts, employment, warranties, liability, collective agreements, protective equipment, powered tools, software, and automation compositional, cross-module, or exact as appropriate. Systems supplies technical state and checking, Commons supplies authority and institutional relations, Medical and Accessibility preserve bodily and participation boundaries, and source material preserves exact economic, legal, credential, and technical identity.
 
 This domain also exposes a semantic risk rather than a simple absence: `riola`, `theko`, `molawi`, `wenola`, `pheloma`, `seru`, and `thonai` frame work, service, cooperation, commitment, or responsibility positively or voluntarily. The new `rimawu` drudgery, `pilora` exploitation, and neutral work-organization terms make criticism more direct, while base `kawhera` coercion and `whepelo` retaliation and explicit bodily, safety, authority, and obligation clauses remain necessary.
 
-All sixteen inherited Work entries now follow the target prose contract, and the completeness review adds no root. Thirteen new and twenty-two linked decisions settle the remaining workshop, labour, logistical, and institutional questions without turning the module into an employment code or an equipment catalogue. Work, Craft, and Repair keeps seventy current memberships and has no legacy prose.
+All sixteen inherited Work entries now follow the target prose contract, and the completeness review itself added no root. Thirteen new and twenty-two linked decisions settled the remaining workshop, labour, logistical, and institutional questions without turning the module into an employment code or an equipment catalogue. The source-led tower addition brings Work, Craft, and Repair to seventy-one current memberships with no legacy prose.
 
 ### Medical and bodily care: current prose complete
 
