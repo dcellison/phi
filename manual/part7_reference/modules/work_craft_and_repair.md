@@ -4,7 +4,7 @@ A chair comes back from the workshop with one leg pale and new. Whoever sits in 
 
 Like every module, its specialized vocabulary is optional and uses ordinary Phi grammar. A speaker who has not learned it can always ask for a core paraphrase. Learning the words gives no skill or authority over another person's labor; they describe work without handing it out.
 
-The chapter table below introduces 28 module roots. Current classifications and later source-led additions bring the optional learning list to 72 words; base `winora` plan and `hasoru` pending are taught alongside it. The complete list is under [Work, Craft, and Repair in the module lexicon](../lexicon/by_module.md#work-craft-and-repair).
+The chapter table below introduces 28 module roots. Current classifications and later source-led additions bring the optional learning list to 73 words; base `winora` plan and `hasoru` pending are taught alongside it. The complete list is under [Work, Craft, and Repair in the module lexicon](../lexicon/by_module.md#work-craft-and-repair).
 
 ## Core vocabulary used by the module
 
@@ -25,7 +25,7 @@ The sibling modules lend their own tools when work touches their ground: Systems
 
 ## Additional roots in this learning path
 
-Fourteen roots place the module's task and evaluation vocabulary among workshops, studios, working roles, and built forms.
+Fifteen roots place the module's task and evaluation vocabulary among workshops, studios, working roles, and built forms.
 
 | Phi | Working sense | Why it belongs here |
 |---|---|---|
@@ -43,6 +43,7 @@ Fourteen roots place the module's task and evaluation vocabulary among workshops
 | `telo` | farmer; a person whose work is growing food on cultivated land | Farming is sustained work in living material systems, which gives the word its ecological classification. |
 | `temu` | guild; a craft or professional association | A guild connects practical learning with collective organization, which gives it a second home in Commons. |
 | `torali` | tower; a built structure whose height is central to its form | A tower is more than a tall wall: it may stand alone or rise from another building, carry something aloft, or open a view. |
+| `thaweno` | reward; a benefit connected to an act, result, or condition | Work can be followed by a reward, but the word does not turn the work into an exchange or prove the reward fair. |
 
 In the Babel translation, a tall wall cannot honestly do a tower's work. `torali` names the whole structure, and the ordinary modifier-first phrase `torali raeli lumae`, the end of the tower's height, gives its top.
 
@@ -298,6 +299,16 @@ institution PL person exploit.
 ```
 
 Drudgery does not prove exploitation, and exploitation does not need every worker to name their work drudgery. The two claims can support each other without collapsing into one.
+
+## Reward beside gift and exchange
+
+A bowl offered after a repair might be a gift, a reward, or part of an exchange. `thaweno` says that the benefit answers an act, result, or condition. `loami` leaves that matching act unnecessary, while `wisola` names a reciprocal arrangement. The worker's consent and the fairness of the arrangement keep their own sentences.
+
+```
+ha siora shia thaweno nai.
+PROX joy 3SG reward be.
+(This joy is their reward.)
+```
 
 ## Stock, inventory, supply, offcuts, and provenance
 

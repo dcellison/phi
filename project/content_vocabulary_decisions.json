@@ -1038,6 +1038,17 @@
         "CV-VALUE-02",
         "CV-ROLE-01"
       ]
+    },
+    {
+      "id": "gibran-on-giving-fidelity-repair",
+      "heading": "Gibran's On Giving fidelity repair",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-VALUE-01",
+        "CV-VALUE-03",
+        "CV-EXCHANGE-01"
+      ]
     }
   ],
   "candidates": [
@@ -1952,10 +1963,10 @@
     },
     {
       "id": "CV-VALUE-01",
-      "concept": "importance, priority, merit, deservingness, dignity, worth, preciousness, and treasure",
+      "concept": "importance, priority, dignity, worth, preciousness, and treasure",
       "status": "compositional",
       "placement": "base value and worth vocabulary with Work priority where needed",
-      "summary": "Valuing is an act, worth is a claimed property, preciousness is a cherishing relation, treasure is its cherished referent, and priority orders attention under a purpose. Merit and deservingness can state the relevant conduct, contribution, need, criterion, or responsibility instead of ranking a whole person.",
+      "summary": "Valuing is an act, worth is a claimed property, preciousness is a cherishing relation, treasure is its cherished referent, and priority orders attention under a purpose.",
       "expressions": [
         "sone",
         "rolia",
@@ -1968,7 +1979,8 @@
       "batches": [
         "reason-belief-ritual-and-value",
         "roles-places-relations-and-remaining-concrete-nouns",
-        "velveteen-rabbit-fidelity-repair"
+        "velveteen-rabbit-fidelity-repair",
+        "gibran-on-giving-fidelity-repair"
       ]
     },
     {
@@ -5623,6 +5635,42 @@
       ],
       "batches": [
         "schleicher-fable-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-VALUE-03",
+      "concept": "deservingness or desert as a judgement connecting an outcome to a person under stated grounds",
+      "status": "implemented",
+      "placement": "Philosophical Reasoning; Commons and Collective Governance",
+      "summary": "A claim that someone deserves an outcome needs its own relation when worth, rights, qualification, and ordinary fit would each say something else. The verb reports the judgement and leaves its grounds available for challenge.",
+      "implementation": {
+        "words": [
+          "parelu"
+        ],
+        "files": [
+          "vocabulary/content/deserve.json"
+        ]
+      },
+      "batches": [
+        "gibran-on-giving-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-EXCHANGE-01",
+      "concept": "reward as a benefit received because of an act, result, or condition",
+      "status": "implemented",
+      "placement": "Philosophical Reasoning; Work, Craft, and Repair",
+      "summary": "Reward differs from a gift, which requires no matching act, and from exchange, which names a reciprocal arrangement. The new noun keeps the benefit distinct while its fairness and claimed deservingness remain open.",
+      "implementation": {
+        "words": [
+          "thaweno"
+        ],
+        "files": [
+          "vocabulary/content/reward.json"
+        ]
+      },
+      "batches": [
+        "gibran-on-giving-fidelity-repair"
       ]
     }
   ],

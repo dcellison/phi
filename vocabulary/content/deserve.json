@@ -1,0 +1,38 @@
+{
+  "word": "parelu",
+  "gloss": "deserve",
+  "ipa": "/pä.ˈre̞.lu/",
+  "syllables": [
+    "pa",
+    "re",
+    "lu"
+  ],
+  "pos": "verb",
+  "search_terms": [
+    "merit",
+    "warrant",
+    "be due"
+  ],
+  "description": "'parelu' says that a person is judged fitting for a benefit, response, or outcome because of an act or stated condition. The judgement belongs to whoever makes it, and stating it does not settle the grounds. 'rolia' (worth) needs no earning, while 'sherelo' (right) can survive a denial of merit.",
+  "articulatory_notes": "Close the lips for unvoiced 'p' and release into open central 'a'. Tap or briefly trill the tongue tip at the alveolar ridge before stressed true-mid front 'e'. Return the tongue tip to the ridge for voiced lateral 'l', let air pass along its sides, and finish with high-back rounded 'u'.",
+  "usage_notes": "The outcome judged deserved stands before the verb. A nearby clause can show whose judgement is being reported and why. 'kiranu' (qualified) asks the narrower question of whether stated prerequisites were met. In noun position, 'parelu' names deservingness or desert.",
+  "examples": [
+    {
+      "phi": "shia ha loami parelu.",
+      "translation": "They deserve this gift."
+    }
+  ],
+  "pillars": {
+    "secular-buddhist-philosophy": "Deservingness is a conditioned judgement rather than an essence lodged in a person. Its reasons can be attended to, questioned, and revised.",
+    "peace-linguistics-practices": "A speaker can report that an outcome is said to be deserved without making the person's worth depend on that claim or using merit to conceal coercion."
+  },
+  "semantic_domains": {
+    "cognition": "a judgement that an outcome fits someone under stated grounds",
+    "community": "a merit claim made within a social relation or practice",
+    "ethics": "deservingness distinguished from inherent worth and rights"
+  },
+  "modules": [
+    "commons-and-collective-governance",
+    "philosophical-reasoning"
+  ]
+}

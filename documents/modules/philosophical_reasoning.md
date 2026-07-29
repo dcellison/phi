@@ -1,6 +1,6 @@
 # Philosophical Reasoning
 
-**Status:** **Established vocabulary module** with 18 module roots coined in its first pass, seven later additions, 28 current memberships, and base-vocabulary `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion; ordinary Phi grammar.
+**Status:** **Established vocabulary module** with 18 module roots coined in its first pass, nine later additions, 30 current memberships, and base-vocabulary `sherewa` claim, `thesori` evidence, `remotha` reason, and `kirema` criterion; ordinary Phi grammar.
 
 ## Charter
 
@@ -93,6 +93,17 @@ The Metta Sutta's close translation needs three distinctions that reach beyond t
 | `wurashi` | crave; feel persistent pressure towards satisfaction | `rinu` leaves force and duration open. `wilao` may be intense or lasting without this pressure to satisfy the desire. |
 
 All three remain ordinary content words under ordinary Phi grammar. `serathi` is shared with Commons and Collective Governance, where institutions as well as people may be tested against stated commitments. `wurashi` is shared with Medical and Bodily Care so a person can report the pressure without receiving a diagnosis or a moral label.
+
+## Deservingness and reward
+
+Gibran's On Giving presses two relations that worth and gift cannot cover. `parelu` reports a judgement that a person deserves an outcome under stated grounds; it leaves inherent `rolia` worth and normative `sherelo` rights alone. `thaweno` names a benefit connected to an act, result, or condition, where `loami` gift requires no matching act and `wisola` names the reciprocal arrangement.
+
+| Phi | Working sense | Essential contrast |
+|---|---|---|
+| `parelu` | deserve; be judged fitting for an outcome under stated grounds | Deservingness joins a person to an outcome by an offered reason. It neither creates inherent worth nor proves the judgement true. |
+| `thaweno` | reward; a benefit connected to an act, result, or condition | A reward answers something. A gift need not, and an exchange names the arrangement rather than its benefit. |
+
+`parelu` is shared with Commons and Collective Governance, where a claim of desert may shape allocation or redress. `thaweno` is shared with Work, Craft, and Repair, where a promised or later benefit can be examined beside the act it answers.
 
 ## Concepts Kept Compositional
 

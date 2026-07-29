@@ -8,7 +8,7 @@
 *Content words grouped by semantic domain. Words in several domains appear under each one.*
 
 
-## activity (325)
+## activity (326)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -257,6 +257,7 @@
 | `tewema` | partner | a partner may share one bounded undertaking with another person |
 | `thalo` | walk | ordinary travel and practice on foot |
 | `thape` | burn | setting or allowing material to burn |
+| `thaweno` | reward | a benefit connected to an act or result |
 | `theala` | heal | care or remedy supporting recovery |
 | `theali` | fitting | an action or method suited to its present purpose and conditions |
 | `theama` | care | attentive practical work directed towards need or wellbeing |
@@ -416,7 +417,7 @@
 | `whilo` | white | achromatic color at high perceived lightness |
 | `woraka` | appreciate | positive recognition of a sensory or artistic quality |
 
-## cognition (246)
+## cognition (247)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -515,6 +516,7 @@
 | `nuwi` | clear | meaning or structure that can be followed without a tangle |
 | `palethu` | tactile | information distinguished through tactile perception |
 | `panoru` | support | evidence or reasoning that supports a claim |
+| `parelu` | deserve | a judgement that an outcome fits someone under stated grounds |
 | `pekira` | toxic | a conditioned assessment of biological harm capability |
 | `pelaku` | severity | a criterion-relative judgement of degree |
 | `pemaru` | hazard | a potential-harm classification kept distinct from likelihood and outcome |
@@ -808,7 +810,7 @@
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
-## community (272)
+## community (274)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -921,6 +923,7 @@
 | `nurome` | meal | food gathered for solitary or shared eating |
 | `panoru` | support | practical or social support for people and groups |
 | `panuri` | resource | availability whose access, authority, and governance may be shared or contested |
+| `parelu` | deserve | a merit claim made within a social relation or practice |
 | `pashenu` | petition | individual or collective petition within a social process |
 | `pawela` | participate | participating in shared work or collective decisions |
 | `peloma` | harmful | effects that diminish another person's or a community's wellbeing |
@@ -1017,6 +1020,7 @@
 | `thalume` | ancestor | a person related to later people through descent or recognised lineage |
 | `thaluni` | kin | people connected through an acknowledged family relation |
 | `thasu` | modest | unshowy self-presentation in relation to other people |
+| `thaweno` | reward | recognition or material benefit offered within a social relation |
 | `theama` | care | care given within a relationship or shared setting |
 | `thekamu` | intervene | an action affecting a person within a care relation |
 | `thekao` | acknowledge | acknowledging another participant or their stated position |
@@ -1355,7 +1359,7 @@
 | `woraka` | appreciate | the favourable response that accompanies recognised value |
 | `wurashi` | crave | desire experienced as pressure that is hard to set aside |
 
-## ethics (36)
+## ethics (38)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1371,6 +1375,7 @@
 | `naweri` | refuse | refusal as a condition of consent and personal agency |
 | `noemi` | authentic | fidelity between a person's conduct and the commitments they recognize as their own |
 | `nophei` | loyal | loyalty weighed alongside refusal and the effects of remaining |
+| `parelu` | deserve | deservingness distinguished from inherent worth and rights |
 | `peloma` | harmful | damage, suffering, or lost capacity as grounds for evaluating conduct and conditions |
 | `peshu` | lie | knowing deception distinguished from an honest mistake |
 | `phena` | kind | benevolent regard visible in conduct towards another person |
@@ -1384,6 +1389,7 @@
 | `sherelo` | right (normative) | a claim that can place a duty or limit on conduct |
 | `taleri` | virtuous | ethical excellence attributed to a person, act, or pattern of conduct |
 | `thaemu` | sincere | a claimed feeling or intention matched by its expression |
+| `thaweno` | reward | a reward whose fairness and claimed deservingness remain open questions |
 | `theama` | care | conduct that answers another being's welfare or a responsibility of upkeep |
 | `theloma` | justice | a normative account of what fair treatment and redress require |
 | `tholira` | forgive | forgiveness considered alongside harm, repair, and future boundaries |

@@ -1,0 +1,38 @@
+{
+  "word": "thaweno",
+  "gloss": "reward",
+  "ipa": "/θä.ˈwe̞.n̪o̞/",
+  "syllables": [
+    "tha",
+    "we",
+    "no"
+  ],
+  "pos": "noun",
+  "search_terms": [
+    "prize",
+    "recompense",
+    "benefit given for an act"
+  ],
+  "description": "'thaweno' is a benefit given or received because of an act, result, or condition. It may be promised beforehand or appear later as a shared meal or a period of rest. 'loami' (gift) requires no matching act, while 'wisola' (exchange) names the reciprocal arrangement; the reward's fairness and deservingness remain open.",
+  "articulatory_notes": "Place the tongue tip lightly against the upper teeth for unvoiced 'th', let air pass along it, and open into central 'a'. Round the lips and raise the back of the tongue for voiced 'w', then move forward and unround into stressed true-mid front 'e'. Touch the tongue tip to the backs of the upper teeth for voiced dental 'n', carry the voice through the nose, and finish with true-mid back rounded 'o'.",
+  "usage_notes": "A particular reward is countable; reward as a general relation can be mass-like. Surrounding clauses identify who receives it, where it comes from, and what it answers. When the source wording carries practical or legal force, keep it beside the Phi analysis.",
+  "examples": [
+    {
+      "phi": "ha siora shia thaweno nai.",
+      "translation": "This joy is their reward."
+    }
+  ],
+  "pillars": {
+    "secular-buddhist-philosophy": "A pleasant or material benefit can follow an act without proving that the act was wise. The word keeps the consequence available for attention.",
+    "peace-linguistics-practices": "Naming a reward makes its source and conditions easier to examine, especially when praise, access, or material benefit is being used to shape another person's conduct."
+  },
+  "semantic_domains": {
+    "activity": "a benefit connected to an act or result",
+    "community": "recognition or material benefit offered within a social relation",
+    "ethics": "a reward whose fairness and claimed deservingness remain open questions"
+  },
+  "modules": [
+    "philosophical-reasoning",
+    "work-craft-and-repair"
+  ]
+}

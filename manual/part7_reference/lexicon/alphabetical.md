@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1295 words.*
+*1297 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -589,6 +589,7 @@
 | `panoru` | support | /pä.ˈn̪o̞.ru/ | verb |
 | `panuri` | resource | /pä.ˈn̪u.ri/ | noun |
 | `pao` | goodbye | /ˈpä.o̞/ | interjection |
+| `parelu` | deserve | /pä.ˈre̞.lu/ | verb |
 | `pareshi` | cliff | /pä.ˈre̞.ʃi/ | noun |
 | `pasharo` | frustrated | /pä.ˈʃä.ro̞/ | adjective |
 | `pashenu` | petition | /pä.ˈʃe̞.n̪u/ | verb |
@@ -1022,6 +1023,7 @@
 | `thaluro` | ocean | /θä.ˈlu.ro̞/ | noun |
 | `thape` | burn | /ˈθä.pe̞/ | verb |
 | `thasu` | modest | /ˈθä.su/ | adjective |
+| `thaweno` | reward | /θä.ˈwe̞.n̪o̞/ | noun |
 | `theala` | heal | /θe̞.ˈä.lä/ | verb |
 | `theali` | fitting | /θe̞.ˈä.li/ | adjective |
 | `theama` | care | /θe̞.ˈä.mä/ | verb |

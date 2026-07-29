@@ -315,7 +315,7 @@
 | `weno` | when |
 | `wia` | how many |
 
-## noun (577)
+## noun (578)
 
 | Word | Gloss |
 |---|---|
@@ -787,6 +787,7 @@
 | `thalume` | ancestor |
 | `thaluni` | kin |
 | `thaluro` | ocean |
+| `thaweno` | reward |
 | `thekopa` | recipe |
 | `thelai` | balm |
 | `theloa` | truth |
@@ -1004,7 +1005,7 @@
 | `theula` | UNIV |
 | `wheli` | ANY |
 
-## verb (363)
+## verb (364)
 
 | Word | Gloss |
 |---|---|
@@ -1147,6 +1148,7 @@
 | `nurima` | wander |
 | `palo` | touch |
 | `panoru` | support |
+| `parelu` | deserve |
 | `pashenu` | petition |
 | `pawela` | participate |
 | `peki` | squeeze |

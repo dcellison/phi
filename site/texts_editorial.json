@@ -353,28 +353,32 @@
       "inner_dividers": 0
     },
     "texts/gibran/on_giving.md": {
-      "form": "transmutation",
+      "form": "paired",
       "phi_title": "loa",
       "motif": "people_equal",
       "sections": [
+        {
+          "title": "Close translation",
+          "kind": "translation"
+        },
         {
           "title": "Transmutation",
           "kind": "transmutation"
         },
         {
-          "title": "Source boundary",
-          "kind": "apparatus"
+          "title": "What changes between the two renderings",
+          "kind": "comparison"
         }
       ],
       "opening_paragraphs": 2,
-      "interlinear_blocks": 1,
-      "interlinear_stanzas": 7,
+      "interlinear_blocks": 10,
+      "interlinear_stanzas": 66,
       "source_free_blocks": 0,
       "source_free_stanzas": 0,
-      "complete_readings": 0,
-      "notes": 1,
-      "tables": 0,
-      "pillar_sections": 0,
+      "complete_readings": 1,
+      "notes": 10,
+      "tables": 2,
+      "pillar_sections": 5,
       "inner_dividers": 0
     },
     "texts/gibran/on_work.md": {

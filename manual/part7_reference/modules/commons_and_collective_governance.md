@@ -4,7 +4,7 @@ A council votes to allocate the season's grain, one member abstains, and someone
 
 Like every module, the specialized words are optional and use ordinary Phi grammar. A speaker who has not learned them can always ask for a core paraphrase. Learning them makes no one an authority, a lawyer, or a rightful decider for anyone else.
 
-The chapter table below introduces 29 module roots. Current classifications bring the optional learning list to 54 words; base `sirami`, `kawhera`, and `whepelo` are taught alongside it. The complete list is under [Commons and Collective Governance in the module lexicon](../lexicon/by_module.md#commons-and-collective-governance).
+The chapter table below introduces 29 module roots. Current classifications bring the optional learning list to 55 words; base `sirami`, `kawhera`, and `whepelo` are taught alongside it. The complete list is under [Commons and Collective Governance in the module lexicon](../lexicon/by_module.md#commons-and-collective-governance).
 
 ## Core vocabulary used by the module
 
@@ -25,7 +25,7 @@ Systems lends the technical state behind an institution's tools, Ecological supp
 
 ## Additional roots in this learning path
 
-Eleven established words give the path its concrete collective forms, group roles, ethical integrity, and general word for a normative right.
+Twelve established words give the path its concrete collective forms, group roles, ethical judgements, and general word for a normative right.
 
 | Phi | Working sense | Why it belongs here |
 |---|---|---|
@@ -40,6 +40,7 @@ Eleven established words give the path its concrete collective forms, group role
 | `theluo` | steward; one entrusted with care for shared land, resources, or community | The role raises collective responsibility and ecological care together. |
 | `thereo` | mediator; a third party helping people in conflict reach understanding | Mediation is a stated group role and does not grant power to impose an outcome. |
 | `thorae` | facilitator; a person who supports group process | The role concerns how a group works through a meeting, not which decision it should reach. |
+| `parelu` | deserve; be judged fitting for an outcome under stated grounds | Collective decisions often depend on who is said to deserve a benefit or response. The grounds remain open to challenge. |
 
 ## Records, coercion, and retaliation belong to base vocabulary
 
@@ -264,6 +265,16 @@ PROX person PROX material ownership claim.
 ```
 
 Scarcity can be stated as `henoi ma` (not enough), and priority as `sone noa` under a stated criterion. Where a source tradition's property category, public, private, communal, has its own force, it keeps its exact name.
+
+### Deservingness beside rights and entitlements
+
+A council may recognize an entitlement, hear a claimed right, and still dispute whether a particular response is deserved. `parelu` belongs here because the judgement can shape allocation, redress, or recognition. It stays apart from `rolia`, the worth no council grants, and from `sherelo`, a right that may survive denial.
+
+```
+shia ha loami parelu.
+3SG PROX gift deserve.
+(They deserve this gift.)
+```
 
 ## Obligation, accountability, redress, and enforcement
 
