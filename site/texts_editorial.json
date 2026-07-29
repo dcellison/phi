@@ -320,6 +320,18 @@
           "kind": "transmutation"
         },
         {
+          "title": "On work: close translation",
+          "kind": "translation"
+        },
+        {
+          "title": "On work: transmutation",
+          "kind": "transmutation"
+        },
+        {
+          "title": "On work: what changes between the two renderings",
+          "kind": "comparison"
+        },
+        {
           "title": "What the transmutations changed",
           "kind": "collection_detail"
         }
@@ -339,17 +351,22 @@
           "label": "On giving",
           "method": "Transmutation",
           "target": "On giving: transmutation"
+        },
+        {
+          "label": "On work",
+          "method": "Translation + transmutation",
+          "target": "On work: close translation"
         }
       ],
       "opening_paragraphs": 3,
-      "interlinear_blocks": 8,
-      "interlinear_stanzas": 58,
+      "interlinear_blocks": 16,
+      "interlinear_stanzas": 122,
       "source_free_blocks": 0,
       "source_free_stanzas": 0,
-      "complete_readings": 1,
-      "notes": 8,
-      "tables": 2,
-      "pillar_sections": 5,
+      "complete_readings": 2,
+      "notes": 16,
+      "tables": 4,
+      "pillar_sections": 10,
       "inner_dividers": 0
     },
     "texts/ring_verse_refusal.md": {
