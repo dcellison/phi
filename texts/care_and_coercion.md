@@ -1,6 +1,6 @@
 # theama weno kawhera kelu: When care becomes coercion
 
-On a hot afternoon, sanuwe brings water to telari's home and finds an argument already waiting. telari feels dizzy, hears the proposal, and refuses to leave. A cooler community room is nearby.
+On a hot afternoon, sanuwe brings water to telari's home and finds an argument already waiting. telari feels dizzy, hears the proposal, and refuses to leave. A cool community room is nearby.
 
 This is an original Phi dialogue. Phi is the source text, and the English lines follow it as close readings. `T` shortens `ne telari`; `S` shortens `ne sanuwe`. They are friends. sanuwe arrives with water, not a title.
 
@@ -19,8 +19,8 @@ S: kona ne telari. thia hina phaelo.
 VOC NAME telari. 2SG what feel.
 (telari, what do you feel?)
 
-T: mia wiloru phaelo. mia kishu nai. mia ki phialu milau.
-1SG dizziness feel. 1SG thirsty be. 1SG PFV water drink.
+T: mia wiloru phaelo. mia kishu nai. mia phialu ki milau.
+1SG dizziness feel. 1SG thirsty be. 1SG water PFV drink.
 (I feel dizziness. I am thirsty. I have drunk water.)
 
 S: mia tha thia wiloru phaelo tho thekao. mia thia siwe hi nila. ha sukaro howenu pemaru nai.
@@ -91,17 +91,17 @@ T: mia ha wi thesori kelomi. whekai mia thia remuma whamoi. thia sherewa tha mia
 1SG PROX two evidence accept. CONTR 1SG 2SG conclusion doubt. 2SG claim DECL.COMP 1SG NEC go DECL.COMP.CLOSE NEG entail.
 (I accept these two pieces of evidence. However, I doubt your conclusion. Your claim does not entail that I must go.)
 
-S: mia phelira to nai. shorela mia tha thia na wepu tho ma sherewa. mia tha thia theama phelona tho sherewa. ha wi sherewa senao ma nai.
-1SG mistaken PST be. REPH 1SG DECL.COMP 2SG NEC go DECL.COMP.CLOSE NEG claim. 1SG DECL.COMP 2SG care require DECL.COMP.CLOSE claim. PROX two claim same NEG be.
-(I was mistaken. In other words, I do not claim that you must go. I claim that you require care. These two claims are not the same.)
+S: mia to kanelu. mia ha remuma nosheku. mia tha thia theama phelona tho sherewa. ha wi sherewa senao ma nai.
+1SG PST err. 1SG PROX conclusion retract. 1SG DECL.COMP 2SG care require DECL.COMP.CLOSE claim. PROX two claim same NEG be.
+(I erred. I retract this conclusion. I claim that you require care. These two claims are not the same.)
 
 T: mia thia lilea woraka. theama karami ma nai. shorupo karami ma nai.
 1SG 2SG clarify appreciate. care authority NEG be. protect authority NEG be.
 (I appreciate your clarification. Care is not authority. Protection is not authority.)
 
-T: sua hina theama kanu.
-who what care choose.
-(Who chooses which care?)
+T: sua mia theama kanu.
+who 1SG care choose.
+(Who chooses my care?)
 
 S: thia waeli nai. thia mia lo remotha shelomu. thia po lonae. thelao thia ha kanu phelu.
 2SG conscious be. 2SG 1SG PL reason understand. 2SG POT respond. CONS 2SG PROX choose hold.
@@ -139,17 +139,17 @@ S: mia ha lesawi lilea. lu thia waeli ma nai. mia kau neri sila tholupi thia po 
 1SG PROX consent clarify. COND 2SG conscious NEG be. 1SG ALL cool community room 2SG POT carry. COND 2SG conscious be COORD 2SG POT respond. 1SG INT.COMP 2SG PROX carry consent INT.COMP.CLOSE inquire. Q PROX boundary accurate be.
 (I clarify this consent. If you are not conscious, I may carry you to the cool community room. If you are conscious and can respond, I ask whether you consent to this carrying. Is this boundary accurate?)
 
-T: ha norui telua nai. mia ha lesawi po naweri. thia ha naweri na thekao.
-PROX boundary accurate be. 1SG PROX consent POT refuse. 2SG PROX refuse NEC acknowledge.
-(This boundary is accurate. I can withdraw this consent. You must acknowledge this refusal.)
+T: ha norui telua nai. mia ha kolua te po lesawi. thia tha mia ha kolua te lesawi tho na thekao.
+PROX boundary accurate be. 1SG PROX carry CESS POT consent. 2SG DECL.COMP 1SG PROX carry CESS consent DECL.COMP.CLOSE NEC acknowledge.
+(This boundary is accurate. I can withdraw my consent to this carrying. You must acknowledge that withdrawal.)
 
 S: mia nawo. mia ha winora seru. pi wa mia mua ha womu nua thia po manolu.
 1SG agree. 1SG PROX plan commit. POL Q 1SG LOC PROX home COM 2SG POT stay.
-(I agree. I commit to this plan. May I stay here with you?)
+(I agree. I commit to this plan. May I stay with you in this home?)
 
 T: mia tha thia mua ha womu nua mia manolu tho lesawi. mia phialu rinu.
 1SG DECL.COMP 2SG LOC PROX home COM 1SG stay DECL.COMP.CLOSE consent. 1SG water want.
-(I consent to your staying here with me. I want water.)
+(I consent to your staying with me in this home. I want water.)
 
 S: lo mia remuma ma phelu. whekai lo mia ha norui phelu.
 PL 1SG conclusion NEG hold. CONTR PL 1SG PROX boundary hold.
@@ -170,11 +170,11 @@ NAME sanuwe water near bring COORD laugh.
 |---|---|---|
 | Bodily report | telari reports dizziness and thirst. sanuwe directly observes sweat. | Both speakers accept these as relevant evidence. |
 | Initial claim | sanuwe claims that telari is not safe in the hot home. | telari understands the claim without agreeing to the proposed departure. |
-| Inference challenge | The evidence supports care but leaves the response open. | sanuwe retracts the stronger framing and separates required care from required departure. |
+| Inference challenge | The observed signs support sanuwe's safety concern but do not entail that telari must leave. | sanuwe names the error, retracts the conclusion, and separates required care from required departure. |
 | Coercion boundary | Persuasion leaves refusal practically available. Coercion closes alternatives through power or threat. | Both speakers use the distinction, but neither treats courteous wording as proof that a choice remains free. |
 | Authority | Care can offer reasons, as can protection, desire, or a tradeoff. Authority still needs its own ground. | sanuwe accepts the distinction. |
 | Present choice | telari is conscious, understands the reasons, and can answer. | The present choice remains telari's. |
-| Conditional consent | telari consents to being carried to the cooler room only if consciousness is absent, and reserves withdrawal while an answer remains possible. | sanuwe repeats the boundary and commits to it. |
+| Conditional consent | telari consents to being carried to the cool community room only if consciousness is absent, and reserves withdrawal while an answer remains possible. | sanuwe repeats the boundary and commits to it. |
 | Unresolved case | The hard case is a person who cannot answer and has left no prior consent. | The friends settle this afternoon; the general question survives it. |
 
 ## Vocabulary under pressure
@@ -183,7 +183,7 @@ NAME sanuwe water near bring COORD laugh.
 |---|---|---|
 | Does interpersonal control need a root? | The dialogue separates `karami` authority, `kawhera` coercion, `lesawi` consent, and `naweri` refusal. Technical `ketora` control never enters the scene. | The dialogue needs no new root. The English umbrella word hides distinctions Phi can state directly. |
 | How should present decision-making ability be described? | Three ordinary observations carry the point: telari is `waeli`, understands the reasons with `shelomu`, and can `lonae`. Technical `henora` stays with systems. | The composition keeps the observed abilities visible. |
-| Can advance consent be expressed? | A `lu` condition precedes a complete act framed by `tha ... tho` as the object of `lesawi`. | The construction is long but clear. Repeated use can decide whether speakers need a shorter form. |
+| Can advance consent be expressed? | A `lu` condition precedes a complete act framed by `tha ... tho` as the object of `lesawi`. Cessative `te` ends that consent without turning withdrawal into refusal. | The grammar handles both. The sequence is long, but every boundary stays visible. |
 | Do persuasion and coercion remain distinct in use? | `sharemi` leaves the route of refusal open; `kawhera` closes practical alternatives. | The pair carries the argument in ordinary use. |
 | Does danger itself decide what follows? | `pemaru`, `thesori`, `panoru`, and `natheri` separate hazard, evidence, support, and entailment. | The language can acknowledge danger without letting one observation choose the response. |
 
@@ -191,9 +191,9 @@ NAME sanuwe water near bring COORD laugh.
 
 | Pillar | Work done in the dialogue |
 |---|---|
-| Solarpunk values | The cooler community room is shared infrastructure that creates another option. Its open door widens the choice rather than settling it. |
+| Solarpunk values | The cool community room is shared infrastructure that creates another option. Its presence widens the choice rather than settling it. |
 | Secular Buddhist philosophy | Both speakers return to present experience, admit uncertainty, and loosen their hold on a complete conclusion. Attention stays with the person in the room rather than with winning the argument. |
-| Art Nouveau aesthetics | Air, skin, water, window, and bodily movement keep the reasoning in living form. Even the absent breeze participates, though with rather less civic spirit than the speakers might have preferred. |
+| Art Nouveau aesthetics | Air, sweat, water, window, and bodily movement keep the reasoning in living form. Even the absent breeze participates, though with rather less civic spirit than the speakers might have preferred. |
 | Peace linguistics | Refusal remains an answer. The speakers name coercion plainly, separate understanding from agreement, and repair an overreach instead of rewarding it with consensus. |
 | Pre-industrial wisdom | The scene uses afternoon heat, moving air, water, and the community's nearby room rather than a clock or a numerical threshold. Exact records can still stand beside Phi when a real decision needs them. |
 
