@@ -985,55 +985,12 @@ for chapter in sorted(
         "morris", "texts/news_from_nowhere/source.txt"
     )
 
-PAIRED_CITATION_SCOPES = {
-    "texts/north_wind_and_sun.md": (
-        "## Close translation",
-        "## Transmutation",
-    ),
-    "texts/schleicher_fable.md": (
-        "## Close translation",
-        "## Transmutation",
-    ),
-    "texts/human_rights_article_one.md": (
-        "## Close translation",
-        "## Transmutation",
-    ),
-    "texts/babel_text.md": (
-        "## Close translation",
-        "## Transmutation",
-    ),
-    "texts/heart_sutra.md": (
-        "## Close translation",
-        "## Transmutation",
-    ),
-    "texts/tao_te_ching.md": (
-        "## Close translation",
-        "## Transmutation",
-    ),
-}
-
-
-def citation_scope(doc_rel, text, position):
-    """Return the paired-rendering section containing a citation."""
-    scopes = PAIRED_CITATION_SCOPES.get(doc_rel)
-    if not scopes:
-        return None
-    candidates = (
-        (text.rfind(heading, 0, position), heading)
-        for heading in scopes
-    )
-    start, heading = max(candidates)
-    return heading if start >= 0 else None
-
-
 def check_citations():
     """Source citations are ground truth: every fragment of every
     citation line must appear verbatim in the stored source text. A
-    source clause normally belongs to exactly one unit. A declared paired
-    work may cite it once in each rendering, but never twice inside one
-    rendering. Ellipses mark omissions and split a citation into
-    independently verified fragments; hyphenated line breaks in the
-    source are rejoined before matching."""
+    source clause normally belongs to exactly one unit. Ellipses mark
+    omissions and split a citation into independently verified fragments;
+    hyphenated line breaks in the source are rejoined before matching."""
     errors = []
     for doc_rel, (prefix, src_rel) in CITATION_SOURCES.items():
         doc_path = PROJECT_ROOT / doc_rel
@@ -1049,21 +1006,15 @@ def check_citations():
         for m in pattern.finditer(text):
             cite = m.group(1)
             lineno = text.count("\n", 0, m.start()) + 1
-            scope = citation_scope(doc_rel, text, m.start())
-            previous = seen.setdefault(cite, [])
-            shared_scope = next(
-                (line for line, prior_scope in previous
-                 if prior_scope == scope),
-                None,
-            )
-            if previous and (scope is None or shared_scope is not None):
-                prior_line = shared_scope or previous[0][0]
+            prior_line = seen.get(cite)
+            if prior_line is not None:
                 errors.append(
                     f"{doc_rel}:{lineno}: citation shared with line "
-                    f"{prior_line}: \"{cite[:50]}\" (each rendering "
-                    f"cites a source clause at most once)"
+                    f"{prior_line}: \"{cite[:50]}\" (a source clause "
+                    f"belongs to one aligned unit)"
                 )
-            previous.append((lineno, scope))
+            else:
+                seen[cite] = lineno
             for frag in cite.replace('\\"', '"').split("..."):
                 frag_norm = " ".join(frag.split())
                 if frag_norm and frag_norm not in src_norm:

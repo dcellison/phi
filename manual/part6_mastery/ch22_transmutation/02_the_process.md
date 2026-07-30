@@ -40,27 +40,27 @@ The Metta Sutta translation contains no unknown forms. A transmutation has the s
 
 ## The five moves
 
-Inside steps 2 through 4, the same five moves recur: the repertoire the shelf's texts were built with. The Tao Te Ching on the text shelf names them inline as a worked guide; here is the repertoire itself, each move with the shelf's clearest demonstrations.
+Inside steps 2 through 4, the same five moves recur. The shelf's current transmutations use them in different proportions; here is the repertoire with its clearest demonstrations.
 
 ### The refusal
 
-When Phi cannot rebuild a line directly, ask what the line's virtue or mechanism looks like in Phi's own economy. *Contend* became takes-nothing and *leader* became the one-who-guides (Tao Te Ching); *master* became the separate acts of coercion and exploitation (Schleicher's fable); the Ring Verse's refusal became its text. If the source wording itself matters, preserve it outside the Phi passage rather than presenting transmutation as quotation.
+When Phi cannot rebuild a line directly, ask what the line's virtue or mechanism looks like in Phi's own economy. The Ring Verse's purposes become present accusations: ruling becomes coercion, while binding uses the physical tie rather than a mutual bond. If the source wording itself matters, preserve it outside the Phi passage rather than presenting transmutation as quotation.
 
 ### The reframe
 
-Replace the source's imagery with imagery Phi already owns, at the same depth. The felled tree became the tree in the great wind (Tao Te Ching); the scattering of Babel became a sowing (the Babel text).
+Replace the source's imagery with imagery Phi already owns, at the same depth. In *The Little Prince*, taming becomes a mutual bond because the fox's own explanation makes relation, not training, the chosen centre of the passage.
 
 ### The lexical distinction
 
-When several Phi words meet one English word, their descriptions and usage notes decide. The Tao is `keiro`, not `ruela`, because the first is a guiding way and the second is ground or a route that can be travelled. Calm, peaceful, and tranquil likewise keep separate ranges.
+When several Phi words meet one English word, their descriptions and usage notes decide. The Ring Verse refuses mutual `nolami`, bond, where physical `tiwa`, tie, keeps imposed fastening uncomfortable. Calm, peaceful, and tranquil likewise keep separate ranges.
 
 ### The grammar-led choice
 
-Let a ruling shape the sentence, and trust the push. *Becoming Real* fell to tense and aspect, the nursery magic `to ki kelu` already complete while toyhood `to te nai` ceased (The Velveteen Rabbit); *useful* became the possibility particle `po` (Tao Te Ching: emptiness opens rather than adds).
+Let a ruling shape the sentence, and trust the push. *Becoming Real* fell to tense and aspect, the nursery magic `to ki kelu` already complete while toyhood `to te nai` ceased (*The Velveteen Rabbit*). In *The Little Prince*, perfective `ki` keeps the completed bond present when responsibility begins.
 
 ### Composition
 
-Build a thought from ordinary grammar when its parts deserve to remain visible. Quality nouns can name softness and hardness, event nouns can name living and dying, and `mu thena` gives the Tao Te Ching a count of zero things. A direct word such as `whemura` (dream) remains preferable when the text means that established concept rather than a newly made image.
+Build a thought from ordinary grammar when its parts deserve to remain visible. Quality nouns can name softness and hardness, event nouns can name living and dying, and `thumai sorui`, finger-circle, gives the Ring its ordinary object without giving dominion a title. A direct word such as `whemura` (dream) remains preferable when the text means that established concept rather than a newly made image.
 
 Coinage is one of the tools, not a penalty for exhausting the others. When a concept deserves its own root, leave the draft, follow the Word Creation Protocol, and return with a valid word. A shelf text may reach the end without a coin; that is evidence that composition did the work, not a target every text must meet.
 

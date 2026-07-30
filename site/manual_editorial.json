@@ -615,7 +615,7 @@
       "variant": "standard"
     },
     "manual/part7_reference/sample_texts.md": {
-      "shape": "h1,2,3,3,3,2,2;t3x4;f11,15,15,11,11,3,3;q-;u-;o-;r0",
+      "shape": "h1,2,3,3,3,2,2;t3x4;f11,15,15,11,11,3;q-;u-;o-;r0",
       "variant": "standard"
     },
     "manual/part7_reference/modules/README.md": {

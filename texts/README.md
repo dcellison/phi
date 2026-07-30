@@ -1,6 +1,6 @@
 # The texts
 
-This shelf holds translations, transmutations, and original Phi work. A translation stays answerable to the source's claims and distinctions. A transmutation lets the same source change under Phi's five pillars and habits of thought. In an original, Phi comes first and the English follows instead of governing it. Phi prefers transmutation when it works from inherited material, while paired renderings keep the close analogue beside the Phi-shaped work so a reader can see what changed.
+This shelf holds translations, transmutations, and original Phi work. A translation stays answerable to the source's claims and distinctions. A transmutation lets the source change under Phi's five pillars and habits of thought. In an original, Phi comes first and the English follows instead of governing it. Each source-led work names its method before the first line, so a reader knows whether the source is being carried or openly recast.
 
 Short works each have one Markdown file. An author collection gets its own directory and catalogue, so separate source works can stay together without pretending to be chapters. A book also gets a directory, where its chapter sequence and shared source witness stay together. The `sources/` directory holds source witnesses for the ungrouped works.
 
@@ -14,15 +14,15 @@ Short works each have one Markdown file. An author collection gets its own direc
 | The thing holds its mending | Original | An essay on a rebuilt wall that narrows its own claim under objection and leaves the chooser of criteria open. | [Read](the_mended_wall.md) |
 | When a report is enough | Original | An essay on a dusk warning that justifies one chosen inspection and leaves the next walk unassigned. | [Read](the_report_at_dusk.md) |
 | Worth does not require a valuer | Original | An essay on a fallen branch where a failed grammatical proof leaves a smaller claim about worth and a reason to attend. | [Read](the_worth_of_a_fallen_branch.md) |
-| The North Wind and the Sun | Translation + transmutation | The complete fable in two renderings, followed by their comparison. | [Read](north_wind_and_sun.md) |
-| Universal Declaration of Human Rights, Article 1 | Translation + transmutation | Both sentences in two renderings, followed by their comparison. | [Read](human_rights_article_one.md) |
-| The Babel text | Translation + transmutation | Genesis 11:1-9 in two renderings. | [Read](babel_text.md) |
+| The North Wind and the Sun | Translation | The complete fable, followed by its translation limits. | [Read](north_wind_and_sun.md) |
+| Universal Declaration of Human Rights, Article 1 | Translation | Both sentences, with rights, reason, conscience, and obligation kept distinct. | [Read](human_rights_article_one.md) |
+| The Babel text | Translation | Genesis 11:1-9 in close Phi translation. | [Read](babel_text.md) |
 | The Ring Verse | Transmutation | The familiar four lines answered with a refusal. | [Read](ring_verse_refusal.md) |
-| Schleicher's fable | Translation + transmutation | The complete fable in two renderings. | [Read](schleicher_fable.md) |
+| Schleicher's fable | Translation | The complete fable beside a controlled English source. | [Read](schleicher_fable.md) |
 | The Little Prince, selections | Transmutation | Three short passages from Katherine Woods's translation. | [Read](little_prince_excerpts.md) |
 | The Velveteen Rabbit | Transmutation | The complete story. | [Read](velveteen_rabbit.md) |
-| Tao Te Ching, selections | Translation + transmutation | Legge's chapters 8, 11, 17, 63, and 76 rendered both ways. | [Read](tao_te_ching.md) |
-| The Heart Sutra | Translation + transmutation | Müller's smaller Heart Sutra in two renderings. | [Read](heart_sutra.md) |
+| Tao Te Ching, selections | Translation | Legge's chapters 8, 11, 17, 63, and 76 in complete close translation. | [Read](tao_te_ching.md) |
+| The Heart Sutra | Translation | Müller's smaller Heart Sutra in complete close translation. | [Read](heart_sutra.md) |
 
 ## Author collections
 

@@ -17,7 +17,7 @@ Everything below is rendered to **[dcellison.github.io/phi](https://dcellison.gi
 | **The book** | [book/](book/) | Narrative nonfiction for a general reader: why the language works this way, and what the sciences of language and mind let it claim. A cold open, fourteen chapters, a close, and a consolidated bibliography. |
 | **The manual** | [manual/](manual/) | The complete reference: phonology, the particle system, ternary numerals, social practice, source-material boundaries, translation, and transmutation. For verification and depth. |
 | **The pamphlets** | [pamphlets/](pamphlets/) | Deep-dive companions to the manual: relative clauses and embedded speech, explained patiently, with exercises and answer keys. |
-| **The texts** | [texts/](texts/) | Phi's literature: nine close translations, eleven transmutations, and one original work. Seven of the source works have both versions. The Ring Verse is a refusal, and *News from Nowhere* keeps its opening chapters together as one book. |
+| **The texts** | [texts/](texts/) | Phi's literature: close translations answer to their sources, transmutations declare their changes, and original works begin in Phi. The Ring Verse is a refusal, and *News from Nowhere* keeps its opening chapters together as one book. |
 | **The lexicon** | [explorer on the site](https://dcellison.github.io/phi/explore.html) | Every word and registered compound, with meanings and relations close at hand. |
 
 `documents/` says what the language **is**, the manual explains it, the primer teaches it, and the book asks **why**. `texts/` is where Phi is **read**; the pamphlets are where it is **practiced**.

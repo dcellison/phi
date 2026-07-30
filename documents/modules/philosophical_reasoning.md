@@ -80,7 +80,7 @@ Article 1 of the Universal Declaration of Human Rights brings three further dist
 | `sherelo` | right; a normative claim that can bind conduct or institutions | A right can remain under dispute or denial. `shereni` entitlement begins with social recognition and a defined scope. |
 | `sharino` | conscience; moral self-appraisal | Conscience weighs one's own conduct. `waeli` consciousness is the wider fact of subjective awareness. |
 
-All three roots use ordinary nouns and ordinary Phi clauses. The paired [Article 1](../../texts/human_rights_article_one.md) sets the close translation's right, reason, and conscience beside the transmutation's entitlement, capacity, and heart-knowing.
+All three roots use ordinary nouns and ordinary Phi clauses. The close translation of [Article 1](../../texts/human_rights_article_one.md) tests right, reason, and conscience in adjacent claims.
 
 ## Integrity, virtue, and craving
 
