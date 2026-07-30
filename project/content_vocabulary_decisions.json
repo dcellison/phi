@@ -1049,6 +1049,17 @@
         "CV-VALUE-03",
         "CV-EXCHANGE-01"
       ]
+    },
+    {
+      "id": "gibran-on-work-fidelity-repair",
+      "heading": "Gibran's On Work fidelity repair",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-AFFECT-10",
+        "CV-POWER-01",
+        "CV-SACRED-03"
+      ]
     }
   ],
   "candidates": [
@@ -5671,6 +5682,52 @@
       },
       "batches": [
         "gibran-on-giving-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-AFFECT-10",
+      "concept": "distaste, grudge, reluctance, and unwillingness as related but non-identical stances towards an action",
+      "status": "compositional",
+      "placement": "base preference, desire, feeling, and refusal vocabulary",
+      "summary": "Absence of liking can describe distaste, while lack of wanting can describe reluctance. Refusal states an answer, and `kophinu` remains the stronger felt recoil of disgust. Gibran's two work passages use the first distinctions without creating a character judgement or one root for every shade of aversion.",
+      "expressions": [
+        "ma kaeli",
+        "whuo kaeli",
+        "ma rinu",
+        "naweri",
+        "kophinu"
+      ],
+      "batches": [
+        "gibran-on-work-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-POWER-01",
+      "concept": "submission as accepting another direction, authority, or control, distinct from presenting a document or proposal",
+      "status": "compositional",
+      "placement": "base relational clauses with Commons vocabulary where authority matters",
+      "summary": "Acceptance of guidance states the voluntary relation in Gibran's procession. Another account can name authority, coercion, or constrained choice when those are present. Petitions and proposals already have their own presentation verbs, so a generic submission root would join unrelated acts and hide the relation that matters.",
+      "expressions": [
+        "kulo",
+        "kelomi",
+        "karami",
+        "kawhera",
+        "pashenu",
+        "repora"
+      ],
+      "batches": [
+        "gibran-on-work-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-SACRED-03",
+      "concept": "curse as harmful speech or a rite claimed to impose harm or misfortune",
+      "status": "source-bound",
+      "placement": "exact religious, folkloric, or cultural source beside base speech and harm relations",
+      "summary": "Phi can report harmful speech, a burden, intended harm, attributed agency, and later misfortune. Those relations do not establish the tradition-specific act or mechanism called a curse.",
+      "source_rule": "Keep the named curse and its claimed mechanism in source wording. A Phi account may describe the speech or rite, intention, attributed power, burden, harm, and observed outcome without affirming or erasing the source tradition.",
+      "batches": [
+        "gibran-on-work-fidelity-repair"
       ]
     }
   ],
