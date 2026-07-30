@@ -234,7 +234,7 @@ PROX joy 3SG reward be.
 (This joy is their reward.)
 ```
 
-[On Giving](../../../texts/gibran/on_giving.md) needs both words in close translation. Gibran asks who deserves to receive and calls joy the giver's reward. The transmutation can then question desert and debt without blurring what it answers.
+[On Giving](../../../texts/gibran/on_giving.md) needs both words in close translation. Gibran asks who deserves to receive and calls joy the giver's reward. Keeping the relations distinct lets Phi translate him without turning worth into desert or reward into gift.
 
 ## Integrity, virtue, and craving
 

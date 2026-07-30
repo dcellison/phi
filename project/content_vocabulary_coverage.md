@@ -47,8 +47,8 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Module content prose migration | **DONE** | All eight learning paths are complete. The final Work, Craft, and Repair pass migrates sixteen inherited entries without adding a root. Every base and module entry now follows the same prose contract, voice, coverage gate, and validation standard. |
 | Post-migration active-corpus retrofit | **IN PROGRESS** | Fifteen literary passes complete the shelf, the drafted Phi book is current through chapter 7, and all seven manual parts, the primer, and three pamphlets have received contextual teaching passes. Continue with the other six pamphlets and current documents before returning to the book. |
 | Metta Sutta close-translation repair | **DONE** | Four roots separate integrity from honesty, virtue from one good act, pleasure from joy, and craving from neutral desire. Transparent clauses now preserve conscientiousness, non-arrogance, reproof, inclusive beings, transverse direction, obstruction, and the full span of wakefulness. |
-| Gibran's On Work fidelity repair | **DONE** | Both 32-unit citation streams remain complete. Nine correction classes repair modifier scope, negation, source intensity, causation, comparison, and derived English without adding a root. |
-| Gibran's On Love fidelity repair | **DONE** | Both complete source streams remain exact. Nineteen close units and nine transmutation units change; base `ratenu` and `salenu` replace two material workarounds, while direct current vocabulary repairs loudness, sufficiency, desire, waking, midday, lips, portion, and deservingness. |
+| Gibran's On Work fidelity repair | **DONE** | The 32-unit citation stream remains complete. The translation repairs modifier scope, source intensity, causation, comparison, and derived English without adding a root. |
+| Gibran's On Love fidelity repair | **DONE** | The complete 35-unit source stream remains exact. Nineteen units change; base `ratenu` and `salenu` replace two material workarounds, while direct current vocabulary repairs loudness, sufficiency, desire, waking, midday, lips, portion, and deservingness. |
 | Core speech and conversation | **DONE** | Fourteen inherited base verbs now use the target prose contract. Their speech distinctions remain covered, while a direct verb for meeting another person has its own open decision. |
 | Knowledge, understanding, belief, and memory | **DONE** | Six inherited base verbs now use the target prose contract. Knowledge, comprehension, belief, memory, forgetting, and recognition remain distinct; losing or misplacing a held thing no longer hides among them. |
 | Attention, observation, reflection, and imagination | **DONE** | Eight inherited base verbs now use the target prose contract. Directed attention, observation, reflection, contemplation, meditation, intuition, imagination, and dreaming remain distinct, and base `mewali` now names sustained interest. |
@@ -1806,7 +1806,7 @@ The batch adds one optional root with two module memberships and no compound or 
 
 ## Gibran's On Giving fidelity repair
 
-The rebuilt page follows the whole teaching in 33 close-translation units and 33 transmutation units. Both citation streams preserve the source order, and the complete close reading matches its detailed Phi blocks exactly. Gibran's dog, well, myrtle, orchard, ocean, baptism, divine parentage, and wings stay visible instead of being reduced to seven selected moments.
+The rebuilt page follows the whole teaching in 33 close-translation units. Its citation stream preserves the source order, and the complete reading matches its detailed Phi blocks exactly. Gibran's dog, well, myrtle, orchard, ocean, baptism, divine parentage, and wings stay visible instead of being reduced to seven selected moments.
 
 | Conceptual test | Present resources or decision | Status | Finding |
 |---|---|---|---|
@@ -1814,30 +1814,28 @@ The rebuilt page follows the whole teaching in 33 close-translation units and 33
 | Reward, gift, and exchange | new `thaweno`, `loami`, `wisola`, and `CV-EXCHANGE-01` | **IMPLEMENTED** | Gibran calls joy a reward. A gift requires no matching act, while exchange names the reciprocal arrangement; `thaweno` names the benefit that answers an act, result, or condition. |
 | Myrtle, baptism, God, holy city, and inheritors | Exact source wording beside shrub, sacred water ceremony, sacred spirit, sacred place, and descendant descriptions | **SOURCE-BOUND / COMPOSITIONAL** | Phi gives each passage a defensible material description while the citation preserves the identity and religious, botanical, or legal force that the description does not reproduce. |
 | Asking and unasked giving | A polite whole-clause question followed by `whuo ha haolu` | **COMPOSITIONAL** | Phi needs no request root. The question makes the proposed act and the addressee's answer audible; the second clause can then say that no such speech occurred. |
-| Receiver, debt, and freedom | `howela`, `naseru`, `ralu`, `tupeka`, and explicit burden clauses | **COVERED** | The transmutation lets the receiver accept freely and declines to turn gratitude into an imposed obligation. The close translation keeps Gibran's yoke and debt claim visible. |
+| Receiver, debt, and gratitude | `howela`, `naseru`, `tupeka`, and explicit burden clauses | **COVERED** | The translation keeps Gibran's receiver, weight of gratitude, yoke, and debt claim visible without collapsing receiving into owing. |
 
 The batch adds two optional roots with four module memberships and no registered compound or grammar.
 
 ## Gibran's On Work fidelity repair
 
-Both renderings already followed all 32 source units in order, and the continuous close reading matched the detailed close blocks. The semantic sweep found defects that those structural checks could not see: a modifier attached to the seeds instead of the sowing, an imperative lost its negation, a back-translation supplied an unattested superlative, and physical size words were used for changes in human worth.
+The translation follows all 32 source units in order, and its continuous reading matches the detailed blocks. The semantic sweep found defects that those structural checks could not see: a modifier attached to the seeds instead of the sowing, a back-translation supplied an unattested superlative, and physical size words had been used for degrees of human dignity.
 
 | Conceptual test | Present resources or decision | Status | Finding |
 |---|---|---|---|
 | Tender seeds or sowing with tenderness | `roe phaeli` before the object and verb | **COVERED** | Instrumental `roe` turns the quality noun into manner. Bare `phaeli` had modified the following seeds and made the derived English false. |
-| Self-compulsion under negation | fixed Slot 1 `miso ka ma` | **COVERED** | The transmutation now says not to make oneself work. The earlier `miso ka` commanded the opposite of its English line. |
 | Inmost depth | superlative `mo ko nulo` | **COVERED** | The Phi now contains the deepest secret claimed by its derived English rather than leaving the superlative below the line only. |
 | Curse and misfortune | `tupeka`, `peloma haolu`, `soleha`, and `CV-SACRED-03` | **SOURCE-BOUND / COMPOSITIONAL** | A spoken burden and harmful luck keep Gibran's two judgements distinct. The exact traditional mechanism of a curse remains in the cited source. |
 | Proud submission | `thoru`, `kulo`, `kelomi`, and `CV-POWER-01` | **COMPOSITIONAL** | The procession accepts the endless path's guidance with pride. Authority, coercion, and administrative presentation remain separate relations rather than senses of one submission root. |
 | Distaste, grudge, and disgust | `whuo kaeli`, `ma kaeli`, `ma rinu`, `naweri`, `kophinu`, and `CV-AFFECT-10` | **COMPOSITIONAL** | The close rendering now states absence of liking instead of escalating both passages to strong disgust. Desire and refusal remain available when a later context asks a different question. |
 | Seizing and muffling | `kema pilu` and caused cessation of `hewasu` | **COVERED** | The rainbow is forcefully taken rather than merely held. The final accusation now makes the worker cause the voices to cease being audible instead of reporting unexplained inaudibility. |
-| Work and inherent worth | causative `helui` with `rolia` | **COVERED** | The transmutation now says that work does not change a person's worth. It no longer borrows physical `thiku` or `whalo` for smaller or greater worth. |
 
 The batch adds no root, module membership, registered compound, or grammar. It records three lexical decisions so the source pressure around aversion, submission, and curses cannot disappear after the text repair.
 
 ## Gibran's On Love fidelity repair
 
-Both renderings still carry the whole 35-unit source sequence: the transmutation divides one fear-and-departure unit in two, giving it 36 aligned stanzas. Each 35- or 36-citation stream reconstructs Gibran's stored passage exactly, and the continuous close reading still matches its detailed Phi blocks. The sweep changes nineteen close units and nine transmutation units after checking the source, Phi, exact gloss, and derived English in that order.
+The translation carries the whole 35-unit source sequence. Its citation stream reconstructs Gibran's stored passage exactly, and the continuous reading matches its detailed Phi blocks. The sweep changes nineteen units after checking the source, Phi, exact gloss, and derived English in that order.
 
 | Conceptual test | Present resources or decision | Status | Finding |
 |---|---|---|---|
@@ -1847,7 +1845,7 @@ Both renderings still carry the whole 35-unit source sequence: the transmutation
 | Sufficiency, desire, and chosen willingness | `henoi`, `rinu`, and event-noun `kanu` | **COVERED** | Satisfaction is not sufficiency, a wish is not every desire, and acting with a wish does not establish willingness. The revised clauses say that love is enough, wants fullness, and accompanies blood or self-giving with choice. |
 | Portion and fragment | event/result-noun `phanoi` | **COVERED** | A small portion preserves the source's part-whole claim more closely than a small thing. The English suggestion of breakage stays in the source word *fragment* rather than entering the Phi relation. |
 | Worth and deservingness | `rolia`, `parelu`, and `CV-VALUE-03` | **COVERED** | The old close line treated worth as something love found and therefore risked making inherent worth an admission test. `parelu` states the source's judgement and names love's guidance as the outcome judged deserved. |
-| Following, yielding, and direction | `ruela`, `thalo`, `kelomi`, `kulo`, and `CV-BODY-15` | **COMPOSITIONAL** | The close version walks love's path and accepts love. A direct follow root still adds too little here, while the transmutation keeps acceptance and refusal separate. |
+| Following, yielding, and direction | `ruela`, `thalo`, `kelomi`, `kulo`, and `CV-BODY-15` | **COMPOSITIONAL** | The translation walks love's path and accepts love. A direct follow root still adds too little in this passage. |
 | Grain-floor work and pruning | material clauses, `CV-GRAIN-01`, `CV-HOUSE-05`, and `CV-CULT-01` | **COMPOSITIONAL / DEFERRED** | Forceful contact, release of coverings, movement through a net, folding, pressure, and branch cutting keep the operations visible. Exact agricultural terms remain in the source; repeated practical use, not this one metaphor, remains the gate for specialised cultivation roots. |
 | Sword, crucifixion, prayer, and praise | `CV-CONFLICT-01`, `CV-DEVOTION-01`, and exact Gibran wording | **DECLINED / COMPOSITIONAL** | Phi materially describes the source's weapon and execution without adding violence-centred roots. Blessing, appreciation, song, thanks, address, and sacred regard state devotional acts while Gibran's inherited categories remain exact beside them. |
 | Grammar and derived English | present tense, active `phelu`, modifier-first reason frames, exact glosses, and neutral third person | **COVERED** | The repair gives `tei` the event noun "your death" instead of a clause, keeps love as the subject that holds the listener rather than making the listener hold something, restores tense in the grain sequence, moves each `lao` reason ahead of its subject, and stops the English from adding gender that `shia` does not mark. |

@@ -1,14 +1,14 @@
 # lothea — On Love
 
-*Almitra asks about love, and Gibran answers with wings that hide a sword and a garden caught by the north wind. Later, grain passes under the millstone and bread enters sacred fire. The close translation includes the whole teaching, wounds and all. The transmutation listens to the same images and considers what love may invite without making suffering its proof.*
+*Almitra asks about love, and Gibran answers with wings that hide a sword and a garden caught by the north wind. Later, grain passes under the millstone and bread enters sacred fire. The Phi translation includes the whole teaching, wounds and all.*
 
-*Both renderings use four-line blocks: the Phi sentence, its exact lexicon gloss, a literal English back-translation, and Gibran's source wording. Their comparison follows the places where consent, injury, fear, and shared bread turn the second rendering onto another path.*
+*Each passage uses a four-line block: the Phi sentence, its exact lexicon gloss, a literal English back-translation, and Gibran's source wording. A continuous Phi reading and a table of translation limits follow.*
 
 ---
 
 ## Close translation
 
-This is the whole teaching, from Almitra's request to the prayer and song at night. The translation describes Gibran's sword and crown without adding roots for them. Crucifixion, threshing, and sacred feast receive the same treatment. The source says all it has to say before Phi answers.
+This is the whole teaching, from Almitra's request to the prayer and song at night. The translation describes Gibran's sword and crown without adding roots for them. Crucifixion, threshing, and sacred feast receive the same treatment. The source remains beside every passage, where its names and inherited identities stay visible.
 
 ### The summons and the wings
 
@@ -221,7 +221,7 @@ gibran: "And then to sleep with a prayer for the beloved in your heart and a son
 
 **Notes:** The close translation does not soften the final cost. Excessive tenderness has pain, understanding gives injury, and choice and joy accompany released blood. `wapile korua`, wing-heart, recalls the opening image when dawn returns. Phi's natural day supplies dawn, `thaeso` at midday, evening, and sleep without importing clock units. Intense joy renders ecstasy. Prayer and praise have no universal roots: a blessing for the cherished person rests in the heart, while a song of appreciation rests on the lips.
 
-### Complete translation
+## Complete translation
 
 ```
 ta himo miona sha no wei lo mia nia lothea haolu sho to haolu. phirae miona miso koma to ka rihe. shia lo miona to somela. lo miona maeli to kelu. shia roe theisa haoni to haolu.
@@ -239,7 +239,7 @@ lu thia lothea. no sha thoepa phiora mua mia korua nai sho ma haolu. no sha mia 
 su thia wo phaeli kipona sano. su thia lue miso lothea shelomu kaworu howela. su thia roe kanu nela siora lorika leiro. su thia mua horathe roe wapile korua nowae. su lao we ta lothea philo thia sha mea sho haolu. su thia mua thaeso therilu. su thia mua lothea ru siora phirena. su thia mua howai nemo kau womu turema. su thia nulae. su mua thia korua wei [whu thia meropi] miona thorai nai. su nia thia lo phimei ta woraka melira nai.
 ```
 
-### Translation limits
+## Translation limits
 
 | Gibran wording | Phi treatment | Remaining difference |
 |---|---|---|
@@ -254,269 +254,3 @@ su thia wo phaeli kipona sano. su thia lue miso lothea shelomu kaworu howela. su
 | But if | the condition opens with `lu`, and its consequence begins with `thelao` | Slot 0 `lu` must open its sentence, so the preceding contrast is carried by the passage rather than an added coordinator. |
 | worthy | deserving love's guidance | The judgment becomes explicit about the outcome that love finds deserved; it does not make human worth conditional. |
 | prayer; praise; ecstacy | a blessing, a song of appreciation, and intense joy | The close rendering describes the acts and feeling while the source retains its devotional categories and spelling. |
-
-## Transmutation
-
-The transmutation follows every source movement, but it does not make injury a credential of love. The invitation can be refused, and fear can speak. Grain passes through human hands and becomes bread for a shared table, while no person is sent into the fire.
-
-### Invitation and consent
-
-```
-ta himo miona sha no wei lo mia nia lothea haolu sho to haolu.
-one HUM.CLF person QUOT.COMP IMP DAT PL 1SG ON love speak QUOT.COMP.CLOSE PST speak.
-(A person said, "Speak to us about love.")
-gibran: "Then said Almitra, Speak to us of _Love_."
-
-phirae miona miso koma to ka rihe. shia lo miona to somela. lo miona maeli to kelu. shia roe theisa haoni to haolu.
-different person REFL head PST CAUS rise. 3SG PL person PST observe. PL person quiet PST become. 3SG INS loud voice PST speak.
-(A different person raised their head and observed the people. The people became quiet. They spoke with a loud voice.)
-gibran: "And he raised his head and looked upon the people, and there fell a stillness upon them. And with a great voice he said:"
-
-lu lothea thia whola. thia ha whola po kelomi. thia ha whola po naweri.
-COND love 2SG invite. 2SG PROX invite POT accept. 2SG PROX invite POT refuse.
-(When love invites you, you may accept this invitation. You may refuse it.)
-gibran: "When love beckons to you, follow him,"
-
-whekai lo lothea ruela kethua po nai. lo shia ruela ratenu po nai. thia po therilu.
-CONTR PL love path hard POT be. PL 3SG path steep POT be. 2SG POT rest.
-(However, love's paths may be hard and steep. You may rest.)
-gibran: "Though his ways are hard and steep."
-
-lu lothea lo wapile thia lomare. thia ha lomare po lesawi. thia ha lomare po naweri.
-COND love PL wing 2SG embrace. 2SG PROX embrace POT consent. 2SG PROX embrace POT refuse.
-(When love's wings embrace you, you may consent to this embrace. You may refuse it.)
-gibran: "And when his wings enfold you yield to him,"
-
-lu tiso thena thoa lo wapile se kupe. no pukea moreko. no pholeni.
-COND sharp thing AMONG PL wing PASS hide. IMP danger articulate. IMP depart.
-(If a sharp thing is hidden among the wings, put the danger into words. Leave.)
-gibran: "Though the sword hidden among his pinions may wound you."
-```
-
-**Notes:** Love still opens the scene, but an invitation does not carry its own answer. The listener may accept or refuse both the path and the embrace. Difficulty does not cancel rest. When the wing conceals something sharp, the transmutation stops treating the wound as love's private mystery. `moreko` gives the danger exact words, and `pholeni` tells the listener to leave. The source's sword sits beside the passage; Phi does not disguise it with a gentler name.
-
-### Voice, garden, branch, and root
-
-```
-lu lothea wei thia haolu. no shia haolu theonu. thia lila ha haolu nohero ralu nai. thia lila ha haolu naweri ralu nai.
-COND love DAT 2SG speak. IMP 3SG speak attend. 2SG PURP PROX speak believe free be. 2SG PURP PROX speak refuse free be.
-(When love speaks to you, attend to its speech. You are free to believe it. You are free to refuse it.)
-gibran: "And when he speaks to you believe in him,"
-
-lothea haoni lo thia whemura po helui. thepalu lue nitho howeli po pukeri. pukeri lothea shewo ka ma kelu.
-love voice PL 2SG dream POT change. garden ABL north wind POT damage. damage love true CAUS NEG become.
-(Love's voice may change your dreams. A garden may be damaged by the north wind. Damage does not make love true.)
-gibran: "Though his voice may shatter your dreams as the north wind lays waste the garden."
-
-lothea thia po keluro. kaworu lothea siru ma nai. lothea thia thuroa po panoru. lu loremi mokela nai. thesa kati phireo po panoru.
-love 2SG POT honor. injury love marker NEG be. love 2SG grow POT support. COND branch sick be. careful cut plant POT support.
-(Love may honour you. Injury is not a marker of love. Love may support your growth. When a branch is sick, careful cutting may support the plant.)
-gibran: "For even as love crowns you so shall he crucify you. Even as he is for your growth so is he for your pruning."
-
-lothea kau thia raeli kalei. shia lo [whu mua sileta phelo tiripe] mo ko phaeli loremi moli palo.
-love ALL 2SG height climb. 3SG PL [REL LOC sun light quiver] CMPR FOC tender branch gentle touch.
-(Love climbs to your height. It gently touches the most tender branches that quiver in sunlight.)
-gibran: "Even as he ascends to your height and caresses your tenderest branches that quiver in the sun,"
-
-lo thia tumeki muila kema phelu. lothea lo tumeki theonu.
-PL 2SG root earth strong hold. love PL root attend.
-(Your roots hold the earth strongly. Love attends to the roots.)
-gibran: "So shall he descend to your roots and shake them in their clinging to the earth."
-
-lo miona mua lothea nuawe sholei.
-PL person LOC love together gather.
-(People gather together in love.)
-gibran: "Like sheaves of corn he gathers you unto himself."
-```
-
-**Notes:** Instead of required belief, the listener attends. The words may be believed or refused, and that freedom is grammatical rather than tucked into a disclaimer. A voice can change a dream, and wind can damage a garden; the damage proves nothing about love. Crown and crucifixion separate into honour and injury, with `kaworu lothea siru ma nai` refusing their old equivalence. A sick branch may be cut carefully in support of the plant. Upper branches and lower roots belong to one living form, but love attends rather than shakes. People gather as people, not as sheaves.
-
-### Grain and the shared table
-
-```
-lo miona napuro kema palo. lo shia lue napuro lo tawemi leiro.
-PL person grain strong touch. PL 3SG ABL grain PL cover release.
-(People make forceful contact with grain. They release its coverings.)
-gibran: "He threshes you to make you naked."
-
-lo shia thue mera napuro ka roke. lo napuro leko tawemi lue napuro pholeni.
-PL 3SG THROUGH net grain CAUS move. PL grain surface cover ABL grain depart.
-(They move grain through a net. The grain's outer coverings depart from it.)
-gibran: "He sifts you to free you from your husks."
-
-lo shia napuro muo whilo kuremi.
-PL 3SG grain INTO white grind.
-(They grind the grain into whiteness.)
-gibran: "He grinds you to whiteness."
-
-lo shia napuro nela phialu welotu. lo shia ha welotu thena lupaki. lo shia ha welotu thena pesa. ha welotu thena luwi kelu.
-PL 3SG grain COORD water mix. PL 3SG PROX mix thing fold. PL 3SG PROX mix thing push. PROX mix thing flexible become.
-(They mix grain and water. They fold the mixture and press it. The mixture becomes flexible.)
-gibran: "He kneads you until you are pliant;"
-
-lila sila mua holia napa nuawe nuola lo shia muo moeli thero ha welotu thena sepho. ha welotu thena napa kelu.
-PURP community LOC festival bread together eat PL 3SG INTO hearth fire PROX mix thing send. PROX mix thing bread become.
-(So that the community may eat bread together at a festival, they send the mixture into the hearth fire. The mixture becomes bread.)
-gibran: "And then he assigns you to his sacred fire, that you may become sacred bread for God’s sacred feast."
-
-lu miona lothea. shia miso korua lo kupela po sano. sheno shia mua lioru po pawela.
-COND person love. 3SG REFL heart PL secret POT know. ADD 3SG LOC life POT participate.
-(When a person loves, they may know the secrets of their own heart. They may also participate in life.)
-gibran: "All these things shall love do unto you that you may know the secrets of your heart, and in that knowledge become a fragment of Life’s heart."
-```
-
-**Notes:** Gibran's grain-floor survives, though grain rather than a person receives the work. People work the grain; love does not work the people. Forceful contact loosens the covering, and the net separates it. Stones grind the grain white; hands mix, fold, and press. The purpose comes first: bread is for a community eating together at a festival. The fire belongs to a hearth, not a sacred trial, and the person participates in life instead of being made a fragment of another heart. Transformation needs no human raw material.
-
-### Fear and freedom
-
-```
-lu thia sukima phaelo. no ha sukima moreko. thia shea nela nirelo po kanu.
-COND 2SG fear feel. IMP PROX fear articulate. 2SG peace COORD pleasant POT choose.
-(When you feel fear, put this fear into words. You may choose peace and pleasure.)
-gibran: "But if in your fear you would seek only love’s peace and love’s pleasure,"
-
-thia lila manolu ralu nai. thia lila pholeni ralu nai.
-2SG PURP stay free be. 2SG PURP depart free be.
-(You are free to stay. You are free to leave.)
-gibran: "Then it is better for you that you cover your nakedness and pass out of love’s threshing-floor,"
-
-lu thia pholeni. thia lo meluna po hekawi. thia hola whoa po nai. thia nuhewa whoa po nai.
-COND 2SG depart. 2SG PL season POT find. 2SG laugh whole POT be. 2SG weep whole POT be.
-(If you leave, you may find the seasons. Your laughter may be whole. Your weeping may be whole.)
-gibran: "Into the seasonless world where you shall laugh, but not all of your laughter, and weep, but not all of your tears."
-
-lothea li miso loa. lothea li lue miso pilu.
-love RESTR REFL give. love RESTR ABL REFL take.
-(Love gives only itself; love takes only from itself.)
-gibran: "Love gives naught but itself and takes naught but from itself."
-
-lothea ma phelu. lothea se ma phelu.
-love NEG hold. love PASS NEG hold.
-(Love holds nothing, and is not held.)
-gibran: "Love possesses not nor would it be possessed;"
-
-lothea wei lothea henoi nai.
-love DAT love ENOUGH be.
-(Love is enough for love.)
-gibran: "For love is sufficient unto love."
-```
-
-**Notes:** Fear is testimony here, not a failed entrance examination. The speaker puts it into words and may choose peace or pleasure without being sent into an empty season. Staying and leaving are both free acts. If the person leaves, the seasons are still available, and neither laughter nor tears are made partial as a penalty. Gibran's next three claims pass through without dispute: love gives only itself, refuses possession, and is enough for love.
-
-### Guidance and desire
-
-```
-lu thia lothea. no sha liona mua mia korua nai sho ma haolu. no sha mia mua liona korua nai sho haolu.
-COND 2SG love. IMP QUOT.COMP live LOC 1SG heart be QUOT.COMP.CLOSE NEG speak. IMP QUOT.COMP 1SG LOC live heart be QUOT.COMP.CLOSE speak.
-(When you love, do not say, "Life is in my heart." Say, "I am in the heart of Life.")
-gibran: "When you love you should not say, “God is in my heart,” but rather, “I am in the heart of God.”"
-
-thia lothea po ma kulo. lu lothea tha thia henoi nai tho hekawi. lothea thia kulo.
-2SG love POT NEG guide. COND love DECL.COMP 2SG ENOUGH be DECL.COMP.CLOSE find. love 2SG guide.
-(You cannot guide love. If love finds that you are enough, love guides you.)
-gibran: "And think not you can direct the course of love, for love, if it finds you worthy, directs your course."
-
-lothea li tha miso pheno kelu tho rinu.
-love RESTR DECL.COMP REFL full become DECL.COMP.CLOSE want.
-(Love wants only to become full.)
-gibran: "Love has no other desire but to fulfil itself."
-
-lu thia lothea nela lo rinu phelu. su thia ha lo rinu phelu.
-COND 2SG love COORD PL want hold. OPT 2SG PROX PL want hold.
-(If you love and have desires, may these be the desires you hold.)
-gibran: "But if you love and must needs have desires, let these be your desires:"
-
-su thia phea thiku luphore kelu. su thia selu. su thia wei shero miso melira meliho.
-OPT 2SG AS small river become. OPT 2SG flow. OPT 2SG DAT night REFL song sing.
-(May you become like a small river. May you flow. May you sing your own song to the night.)
-gibran: "To melt and be like a running brook that sings its melody to the night."
-```
-
-**Notes:** Life occupies the divine heart's place. The earlier fragment already points there. The person is enough, not graded for entry. Guidance accompanies a path without taking control of it. Love may seek its own fullness, but the desires belong to the speaker. The brook has its flow and night-song; it need not melt before it can move.
-
-### Tenderness without tribute
-
-```
-su thia phaeli lothea sano. lu kipona shua. no ha kipona moreko.
-OPT 2SG tender love know. COND pain come. IMP PROX pain articulate.
-(May you know tender love. When pain comes, put this pain into words.)
-gibran: "To know the pain of too much tenderness."
-
-su thia lothea nulo shelomu. kaworu shelomu siru ma nai.
-OPT 2SG love deep understand. injury understand marker NEG be.
-(May you understand love deeply. Injury is not a marker of understanding.)
-gibran: "To be wounded by your own understanding of love;"
-
-lothea thia lorika ma phelona. su thia roe kanu nela siora miso loa.
-love 2SG blood NEG require. OPT 2SG INS choose COORD joy REFL give.
-(Love does not require your blood. May you give yourself by choice and with joy.)
-gibran: "And to bleed willingly and joyfully."
-
-su thia mua horathe roe wapile korua nowae. su lao we ta lothea philo thia liona whaline.
-OPT 2SG LOC dawn INS wing heart awaken. OPT BECAUSE ALSO one love day 2SG live thank.
-(May you awaken at dawn with a wing-heart, and thank Life for one more day of loving.)
-gibran: "To wake at dawn with a winged heart and give thanks for another day of loving;"
-
-su thia mua thaeso therilu. su thia mua lothea ru siora phirena.
-OPT 2SG LOC midday rest. OPT 2SG LOC love INTS joy meditate.
-(May you rest at midday, and meditate within love's intense joy.)
-gibran: "To rest at the noon hour and meditate love’s ecstacy;"
-
-su thia mua howai nemo kau womu turema.
-OPT 2SG LOC evening grateful ALL home return.
-(May you return home at evening with gratitude.)
-gibran: "To return home at eventide with gratitude;"
-
-su thia nulae. su mua thia korua wei [whu thia meropi] miona thorai nai. su nia thia lo phimei ta woraka melira nai.
-OPT 2SG sleep. OPT LOC 2SG heart DAT [REL 2SG cherish] person bless be. OPT ON 2SG PL lip one appreciate song be.
-(May you sleep, with a blessing in your heart for the person you cherish and a song of appreciation upon your lips.)
-gibran: "And then to sleep with a prayer for the beloved in your heart and a song of praise upon your lips."
-```
-
-**Notes:** Tenderness has no need of pain as its measure. When pain arrives, `moreko` makes it speakable. Understanding can deepen without injury, and love asks for no blood. The gift freely offered is the self rather than a wound. Dawn, midday, evening, and sleep follow Gibran's daily arc. The transmutation thanks Life, rests with love's intense joy, blesses the cherished person, and lets the final song carry what the singer actually appreciates.
-
-## What changes between the two renderings
-
-The close translation lets Gibran's love do everything the source requires of it, from commanding and wounding to crucifying and judging the fearful departure. It also puts the lover through threshing and grinding. The transmutation follows the hard path and transforming grain, but changes who chooses the path and what enters the mill. Read together, the two renderings separate an image of love that sanctifies suffering from one that can meet pain without claiming it as proof.
-
-### Rendering gap log
-
-| Moment | Close translation | Transmutation | Why they diverge |
-|---|---|---|---|
-| beckoning and following | Love invites, and the listener is told to walk its path. | The invitation may be accepted or refused. | An invitation cannot carry consent inside itself. |
-| enfolding wings | The listener yields to the embrace. | The embrace receives its own consent or refusal. | Affection does not remove the body's boundary. |
-| hidden sword | A long sharp metal thing may cause injury. | Hidden danger is articulated, and the person leaves. | Injury is information about safety, not a secret token of love. |
-| belief | The listener is told to trust love when it speaks. | The listener attends and is free to believe or refuse the words. | Attention can be wholehearted without surrendering judgment. |
-| dreams and north wind | Love's voice may shatter dreams as the north wind ruins a garden. | A voice may change dreams, and wind may damage a garden; neither damage proves love true. | Damage is observed without being recruited as evidence for love. |
-| crown and crucifixion | Material description preserves the pairing of honour and execution. | Love may honour, but injury is not its marker. | The transmutation breaks the source's symmetry between exaltation and inflicted death. |
-| growth and pruning | Love causes growth and cuts branches. | A sick branch is cut carefully in support of the plant. | Pruning is a situated act of care rather than a general claim that harm produces growth. |
-| roots and sheaves | Love shakes the lover's roots and gathers the lover to itself as tied grain. | Love attends the roots; people gather together as people. | Connection no longer requires destabilization or absorption into one figure. |
-| grain-floor | Love treats the person as grain through threshing, sifting, grinding, and kneading. | People process actual grain together. | The image still holds transformation while people cease to be raw material. |
-| sacred fire, feast, and fragment | The person enters sacred fire to become sacred bread for a divine feast, then a fragment of Life's heart. | A chosen mixture becomes festival bread in a hearth; the person participates in Life. | Shared nourishment and participation replace the use of a person as material. |
-| fear and departure | The fearful person leaves for a seasonless world of incomplete laughter and tears. | Fear is articulated; staying and leaving are free; seasons and whole feeling are still available. | A boundary does not forfeit emotional wholeness. |
-| God, worthiness, and direction | A sacred spirit contains the speaker; love finds worth and guides the path. | Life contains the speaker; love finds the person enough and offers guidance. | The transmutation is secular and refuses to make worth an admission test. |
-| desire and the brook | Love's desires arrive as necessary wishes to melt, flow, and sing. | The desires belong to the speaker; the brook may flow and sing without melting. | Movement does not require dissolution, and love's wish does not become the speaker's duty. |
-| tenderness, injury, and blood | The desires include pain, injury, and willing blood. | Pain is named, injury proves nothing, and the willing gift is the self. | Love may meet suffering without collecting it as tribute. |
-| prayer and praise | The day closes with a prayer for the beloved and praise for the sacred spirit. | The speaker blesses the cherished person, thanks Life, and sings what they appreciate. | The practices continue, but the speaker chooses their address. |
-
-### Solarpunk values
-
-Garden branches and roots place love in an ecology. Grain meets water, hearth, and bread to give it a material life. In the close rendering, those forms hold Gibran's account of surrender and transformation. The transmutation puts the grain into many hands and the bread on a shared table. Love is still intimate, but it is no longer private weather acting on an isolated body.
-
-### Secular Buddhist philosophy
-
-Attention comes before belief. Fear and pain are noticed and put into words without being made into failures of courage or stages of purification. The natural day offers four places to return: dawn, the day's middle, evening, and sleep. None requires the speaker to pretend that pain is wisdom.
-
-### Art Nouveau aesthetics
-
-Gibran's curves survive almost untouched. Wings fold around a body while branches quiver in sunlight and roots clasp earth. Water leaves the solid shape; bread changes under the hand. The close translation lets those lines tighten around sword and cross. The transmutation opens them again at the consenting body and the communal table.
-
-### Peace linguistics
-
-The close rendering describes the sword and crucifixion plainly because accuracy cannot hide them. It coins no weapon or execution root. The transmutation refuses the claim that injury marks love, makes hidden danger speakable, and leaves departure available. Its strongest sentence is ordinary: `lothea thia lorika ma phelona.` Love does not require your blood.
-
-### Pre-industrial wisdom
-
-The grain sequence belongs to work people knew through the hand. Hands loosen the covering, pass grain through a net, and grind it. Then they mix it with water, fold it, press it, and place it near fire. Gibran turns that labour upon the lover. Phi returns it to grain and shares the bread at a festival. The day passes by sunlight, not by an hour.
-
-Gibran asks the lover to become sacred bread. Phi leaves the person at the table, whole enough to eat.

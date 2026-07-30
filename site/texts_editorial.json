@@ -295,7 +295,7 @@
       "inner_dividers": 1
     },
     "texts/gibran/on_love.md": {
-      "form": "paired",
+      "form": "translation",
       "phi_title": "lothea",
       "motif": "heart_radiance",
       "sections": [
@@ -304,41 +304,12 @@
           "kind": "translation"
         },
         {
-          "title": "Transmutation",
-          "kind": "transmutation"
+          "title": "Complete translation",
+          "kind": "complete"
         },
         {
-          "title": "What changes between the two renderings",
-          "kind": "comparison"
-        }
-      ],
-      "opening_paragraphs": 2,
-      "interlinear_blocks": 12,
-      "interlinear_stanzas": 71,
-      "source_free_blocks": 0,
-      "source_free_stanzas": 0,
-      "complete_readings": 1,
-      "notes": 12,
-      "tables": 2,
-      "pillar_sections": 5,
-      "inner_dividers": 0
-    },
-    "texts/gibran/on_children.md": {
-      "form": "paired",
-      "phi_title": "phomila",
-      "motif": "words_seed",
-      "sections": [
-        {
-          "title": "Close translation",
-          "kind": "translation"
-        },
-        {
-          "title": "Transmutation",
-          "kind": "transmutation"
-        },
-        {
-          "title": "What changes between the two renderings",
-          "kind": "comparison"
+          "title": "Translation limits",
+          "kind": "apparatus"
         }
       ],
       "opening_paragraphs": 2,
@@ -348,12 +319,41 @@
       "source_free_stanzas": 0,
       "complete_readings": 1,
       "notes": 6,
-      "tables": 2,
-      "pillar_sections": 5,
+      "tables": 1,
+      "pillar_sections": 0,
+      "inner_dividers": 0
+    },
+    "texts/gibran/on_children.md": {
+      "form": "translation",
+      "phi_title": "phomila",
+      "motif": "words_seed",
+      "sections": [
+        {
+          "title": "Close translation",
+          "kind": "translation"
+        },
+        {
+          "title": "Complete translation",
+          "kind": "complete"
+        },
+        {
+          "title": "Translation limits",
+          "kind": "apparatus"
+        }
+      ],
+      "opening_paragraphs": 2,
+      "interlinear_blocks": 5,
+      "interlinear_stanzas": 18,
+      "source_free_blocks": 0,
+      "source_free_stanzas": 0,
+      "complete_readings": 1,
+      "notes": 5,
+      "tables": 1,
+      "pillar_sections": 0,
       "inner_dividers": 0
     },
     "texts/gibran/on_giving.md": {
-      "form": "paired",
+      "form": "translation",
       "phi_title": "loa",
       "motif": "people_equal",
       "sections": [
@@ -362,27 +362,27 @@
           "kind": "translation"
         },
         {
-          "title": "Transmutation",
-          "kind": "transmutation"
+          "title": "Complete translation",
+          "kind": "complete"
         },
         {
-          "title": "What changes between the two renderings",
-          "kind": "comparison"
+          "title": "Translation limits",
+          "kind": "apparatus"
         }
       ],
       "opening_paragraphs": 2,
-      "interlinear_blocks": 10,
-      "interlinear_stanzas": 66,
+      "interlinear_blocks": 5,
+      "interlinear_stanzas": 33,
       "source_free_blocks": 0,
       "source_free_stanzas": 0,
       "complete_readings": 1,
-      "notes": 10,
-      "tables": 2,
-      "pillar_sections": 5,
+      "notes": 5,
+      "tables": 1,
+      "pillar_sections": 0,
       "inner_dividers": 0
     },
     "texts/gibran/on_work.md": {
-      "form": "paired",
+      "form": "translation",
       "phi_title": "riola",
       "motif": "dwelling_garden",
       "sections": [
@@ -391,23 +391,23 @@
           "kind": "translation"
         },
         {
-          "title": "Transmutation",
-          "kind": "transmutation"
+          "title": "Complete translation",
+          "kind": "complete"
         },
         {
-          "title": "What changes between the two renderings",
-          "kind": "comparison"
+          "title": "Translation limits",
+          "kind": "apparatus"
         }
       ],
       "opening_paragraphs": 2,
-      "interlinear_blocks": 8,
-      "interlinear_stanzas": 64,
+      "interlinear_blocks": 4,
+      "interlinear_stanzas": 32,
       "source_free_blocks": 0,
       "source_free_stanzas": 0,
       "complete_readings": 1,
-      "notes": 8,
-      "tables": 2,
-      "pillar_sections": 5,
+      "notes": 4,
+      "tables": 1,
+      "pillar_sections": 0,
       "inner_dividers": 0
     },
     "texts/ring_verse_refusal.md": {

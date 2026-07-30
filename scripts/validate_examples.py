@@ -1010,22 +1010,6 @@ PAIRED_CITATION_SCOPES = {
         "## Close translation",
         "## Transmutation",
     ),
-    "texts/gibran/on_children.md": (
-        "## Close translation",
-        "## Transmutation",
-    ),
-    "texts/gibran/on_love.md": (
-        "## Close translation",
-        "## Transmutation",
-    ),
-    "texts/gibran/on_giving.md": (
-        "## Close translation",
-        "## Transmutation",
-    ),
-    "texts/gibran/on_work.md": (
-        "## Close translation",
-        "## Transmutation",
-    ),
 }
 
 

@@ -52,4 +52,4 @@ mia thia rolia nila.
 
 ## The gift in use
 
-The Prophet's teaching on giving lives on the texts shelf with reward transmuted as *loami*, while the Tao selection answers harm with kindness. Those are literary choices, not meanings forced by the grammar. **wisola** often takes the reciprocal, **sone** requires someone who does the valuing, and the dative gift sentence identifies its recipient. The words leave the terms of an exchange open enough for speakers to state them, refuse them, or change them together.
+The Prophet's teaching on giving lives on the texts shelf with Gibran's reward translated as *thaweno*, while the Tao selection answers harm with kindness. Those are literary choices, not meanings forced by the grammar. **wisola** often takes the reciprocal, **sone** requires someone who does the valuing, and the dative gift sentence identifies its recipient. The words leave the terms of an exchange open enough for speakers to state them, refuse them, or change them together.

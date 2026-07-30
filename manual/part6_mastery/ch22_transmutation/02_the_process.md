@@ -48,7 +48,7 @@ When Phi cannot rebuild a line directly, ask what the line's virtue or mechanism
 
 ### The reframe
 
-Replace the source's imagery with imagery Phi already owns, at the same depth. The archer, bow, and arrows became the wind, the tree, and living seeds (The Prophet); the felled tree became the tree in the great wind (Tao Te Ching); the scattering of Babel became a sowing (the Babel text).
+Replace the source's imagery with imagery Phi already owns, at the same depth. The felled tree became the tree in the great wind (Tao Te Ching); the scattering of Babel became a sowing (the Babel text).
 
 ### The lexical distinction
 
@@ -56,7 +56,7 @@ When several Phi words meet one English word, their descriptions and usage notes
 
 ### The grammar-led choice
 
-Let a ruling shape the sentence, and trust the push. *Belong* must go through `phelu` (The Prophet: the possession ruling made the verse truer); *becoming Real* fell to tense and aspect, the nursery magic `to ki kelu` already complete while toyhood `to te nai` ceased (The Velveteen Rabbit); *useful* became the possibility particle `po` (Tao Te Ching: emptiness opens rather than adds).
+Let a ruling shape the sentence, and trust the push. *Becoming Real* fell to tense and aspect, the nursery magic `to ki kelu` already complete while toyhood `to te nai` ceased (The Velveteen Rabbit); *useful* became the possibility particle `po` (Tao Te Ching: emptiness opens rather than adds).
 
 ### Composition
 

@@ -5821,6 +5821,12 @@ def text_contents_arrow():
 def text_collection_index(readme_source, collection, works):
     """Build one author-collection landing page from its README and catalogue."""
     collection_path = collection["path"]
+    collection_method = {
+        "Translation": "Close translations",
+        "Transmutation": "Transmutations",
+        "Translation + transmutation": "Translations and transmutations",
+        "Original": "Original Phi works",
+    }[collection["method"]]
     body = md_to_html(readme_source)
     body = re.sub(
         r'href="([a-z0-9_]+)\.md"',
@@ -5932,7 +5938,7 @@ def text_collection_index(readme_source, collection, works):
         f'<p class="text-phi-title" lang="art-x-phi">'
         f"{html_module.escape(phi_title)}</p>"
         f"<h1>{html_module.escape(english_title)}</h1>"
-        '<p class="news-book-author">Translations and transmutations</p>'
+        f'<p class="news-book-author">{collection_method}</p>'
         "</div>"
         f'{texts_motif("words_seed")}'
         "</div>"
