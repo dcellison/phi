@@ -1,4 +1,4 @@
-# keiro — from the Tao Te Ching
+# keiro — Selections from the Tao Te Ching
 
 *Water takes the low place. A wheel turns because its center is open. The best authority is barely noticed, the great begins small, and what yields stays alive. This page presents five chapters of the Tao Te Ching in Phi translation.*
 

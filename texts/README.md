@@ -8,20 +8,20 @@ Short works each have one Markdown file. An author collection gets its own direc
 
 | Work | Method | Coverage | Text |
 |---|---|---|---|
-| The Metta Sutta | Translation | All ten verses in Fausböll's English. | [Read](metta_sutta.md) |
+| The Practice of Love | Translation | All ten verses in Fausböll's English. | [Read](metta_sutta.md) |
 | A Solarpunk Manifesto | Translation | Five opening paragraphs and all 22 propositions. | [Read](solarpunk_manifesto.md) |
-| When care becomes coercion | Original | A sustained dialogue that ends with a bounded agreement and an unresolved general question. | [Read](care_and_coercion.md) |
-| The thing holds its mending | Original | An essay on a rebuilt wall that narrows its own claim under objection and leaves the chooser of criteria open. | [Read](the_mended_wall.md) |
-| When a report is enough | Original | An essay on a dusk warning that justifies one chosen inspection and leaves the next walk unassigned. | [Read](the_report_at_dusk.md) |
-| Worth does not require a valuer | Original | An essay on a fallen branch where a failed grammatical proof leaves a smaller claim about worth and a reason to attend. | [Read](the_worth_of_a_fallen_branch.md) |
+| When Care Becomes Coercion | Original | A sustained dialogue that ends with a bounded agreement and an unresolved general question. | [Read](care_and_coercion.md) |
+| The Thing Holds Its Mending | Original | An essay on a rebuilt wall that narrows its own claim under objection and leaves the chooser of criteria open. | [Read](the_mended_wall.md) |
+| When a Report Is Enough | Original | An essay on a dusk warning that justifies one chosen inspection and leaves the next walk unassigned. | [Read](the_report_at_dusk.md) |
+| Worth Does Not Require a Valuer | Original | An essay on a fallen branch where a failed grammatical proof leaves a smaller claim about worth and a reason to attend. | [Read](the_worth_of_a_fallen_branch.md) |
 | The North Wind and the Sun | Translation | The complete fable, followed by its translation limits. | [Read](north_wind_and_sun.md) |
-| Universal Declaration of Human Rights, Article 1 | Translation | Both sentences, with rights, reason, conscience, and obligation kept distinct. | [Read](human_rights_article_one.md) |
-| The Babel text | Translation | Genesis 11:1-9 in Phi translation. | [Read](babel_text.md) |
-| The Ring Verse | Refusal | The familiar four lines answered without claiming to translate them. | [Read](ring_verse_refusal.md) |
-| Schleicher's fable | Translation | The complete fable beside a controlled English source. | [Read](schleicher_fable.md) |
-| The Little Prince, selections | Translation | Three passages from Katherine Woods: the sheep, the secret, and responsibility for the tamed animal. | [Read](little_prince_excerpts.md) |
+| Article 1 of the Universal Declaration of Human Rights | Translation | Both sentences, with rights, reason, conscience, and obligation kept distinct. | [Read](human_rights_article_one.md) |
+| The Babel Text | Translation | Genesis 11:1-9 in Phi translation. | [Read](babel_text.md) |
+| The Ring Verse, Refused | Refusal | The familiar four lines answered without claiming to translate them. | [Read](ring_verse_refusal.md) |
+| Schleicher's Fable | Translation | The complete fable beside a controlled English source. | [Read](schleicher_fable.md) |
+| Selections from The Little Prince | Translation | Three passages from Katherine Woods: the sheep, the secret, and responsibility for the tamed animal. | [Read](little_prince_excerpts.md) |
 | The Velveteen Rabbit | Translation | The complete story, followed by its translation limits. | [Read](velveteen_rabbit.md) |
-| Tao Te Ching, selections | Translation | Legge's chapters 8, 11, 17, 63, and 76 in full Phi translation. | [Read](tao_te_ching.md) |
+| Selections from the Tao Te Ching | Translation | Legge's chapters 8, 11, 17, 63, and 76 in full Phi translation. | [Read](tao_te_ching.md) |
 | The Heart Sutra | Translation | Müller's smaller Heart Sutra in full Phi translation. | [Read](heart_sutra.md) |
 
 ## Author collections

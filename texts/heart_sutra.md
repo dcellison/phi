@@ -1,4 +1,4 @@
-# nulo sano korua — the Heart Sutra
+# nulo sano korua — The Heart Sutra
 
 *F. Max Müller's Smaller Pragñâ-pâramitâ-hridaya-sûtra begins with five gatherings. Within a few lines it counts each at zero. Form meets emptiness in both directions. The senses vanish from the inventory. Knowledge follows, then pain and the path. The last words cross to another shore.*
 

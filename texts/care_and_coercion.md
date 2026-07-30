@@ -1,4 +1,4 @@
-# theama weno kawhera kelu: When care becomes coercion
+# theama weno kawhera kelu: When Care Becomes Coercion
 
 On a hot afternoon, sanuwe brings water to telari's home and finds an argument already waiting. telari feels dizzy, hears the proposal, and refuses to leave. A cool community room is nearby.
 
