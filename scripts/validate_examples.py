@@ -974,6 +974,9 @@ CITATION_SOURCES = {
     "texts/human_rights_article_one.md": (
         "udhr", "texts/sources/udhr_1948.txt"
     ),
+    "texts/little_prince_excerpts.md": (
+        "woods", "texts/sources/little_prince_woods_excerpts.txt"
+    ),
     "texts/solarpunk_manifesto.md": (
         "solarpunk", "texts/sources/solarpunk_manifesto.txt"
     ),

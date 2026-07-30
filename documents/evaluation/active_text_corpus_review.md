@@ -76,7 +76,7 @@ The translation uses shared `mophiku` and Commons `phenori`. No other optional t
 
 ## Translation review: The Metta Sutta
 
-The ground truth is V. Fausböll's 1881 translation stored at `texts/sources/sutta_nipata_fausboll.txt`. Every cited clause in verses 1 through 10 is represented, including the final claim about return to a mother's womb. The close translation uses the full lexicon where the distinction fits: existing `thesani`, `naseru`, and `sharino` now stand beside `serathi`, `taleri`, and `wurashi`.
+The ground truth is V. Fausböll's 1881 translation stored at `texts/sources/sutta_nipata_fausboll.txt`. Every cited clause in verses 1 through 10 is represented, including the final claim about return to a mother's womb. The translation uses the full lexicon where the distinction fits: existing `thesani`, `naseru`, and `sharino` now stand beside `serathi`, `taleri`, and `wurashi`.
 
 | Area | Finding | Disposition |
 |---|---|---|
@@ -272,7 +272,7 @@ The pass changes seventeen aligned units without altering a source citation. It 
 
 | Question | Disposition | Reason |
 |---|---|---|
-| Complete source and parallel readings | Preserve all 38 citations; keep the continuous Phi stream identical to the annotated stream | The page remains a close translation rather than a selection. The source witness can be reconstructed in order, and the continuous reading cannot drift from the analysed blocks. |
+| Complete source and parallel readings | Preserve all 38 citations; keep the continuous Phi stream identical to the annotated stream | The page remains a translation rather than a selection. The source witness can be reconstructed in order, and the continuous reading cannot drift from the analysed blocks. |
 | Seeking an answer and embodying it | Use `mesatu`, attempt, for the search; state a self-sustaining society, arrival in the future, and living the way | Earlier intention language claimed a mental state rather than an effort. The repaired passage carries the civilization's sustainability, the motion endpoint, and embodiment in the Phi rather than in its note. |
 | Earthy and solid aesthetics | Replace intense hardness with `patoku muralo`, solid material | Solidity is a material state. `kethua` made the aesthetic hard in intensity or effort, which was not the source contrast. |
 | Calamity and struggles | Make damage and pain come upon the shared Earth in ongoing aspect | The earlier line made Earth hold abstract dangers. The repaired line keeps present turmoil while refusing to decorate calamity as a storm. |
@@ -291,44 +291,30 @@ The pass changes seventeen aligned units without altering a source citation. It 
 | Source boundaries and deliberate compositions | Preserve Solarpunk, the named genres, economic and political labels, Art Nouveau, Hayao Miyazaki, Jugaad, the 1800s, New Urbanism, and New Pedestrianism in the adjacent source lines | The Phi phrases expose the relation each term contributes to this manifesto. None pretends to exhaust the source identity, history, or theory. |
 | Active dependencies | Update the annotated blocks, continuous translation, limits table, review ledger, and phonetic-neighbor attestations | The source citations remain byte-for-byte unchanged. The revised annotated and continuous Phi passages contain the same sentence sequence. |
 
-## Transmutation review: The Little Prince excerpts
+## Translation review: The Little Prince excerpts
 
-The page holds three short passages from Katherine Woods's 1943 translation: the sheep request, the fox's secret, and the responsibility that follows a bond. Copyright keeps the English to those quoted excerpts rather than a stored source witness. The Phi title and passages use 36 unique forms, all from base vocabulary. That modest reach suits the page: its work happens in ordinary words whose relations have to be exact.
+The page translates three short passages from Katherine Woods's 1943 translation: the sheep request, the fox's secret, and the responsibility that follows taming. A compact source file stores the three quoted excerpts so citation validation can test every `woods:` line. The title and five interlinear units contain seven complete assertions and use 40 unique forms.
 
-### Post-migration contextual retrofit
+### Source-led rebuild
 
-Two changes are enough. One separates the English homonyms *plain* and *simple*; the other lets Phi's aspect agree with Woods's present perfect. The title, heart metaphor, and mutual bond remain deliberate transmutations rather than unfinished translations.
-
-| Question | Disposition | Reason |
-|---|---|---|
-| Simple and plain | Replace `ru mueli kupela` with `ru siloma kupela` | `mueli` describes something without ornament. Woods calls the secret simple, and `siloma` gives its thought an uncomplicated arrangement without turning simplicity into an aesthetic judgement. |
-| Have tamed | Replace past `to nolami` with perfective `ki nolami` | The bond is complete at the present reference time and grounds the responsibility that begins now. Simple past located it earlier but did not preserve Woods's present result. |
-| Drawing the sheep | Preserve `kire` | The verb shapes material or line, and its current definition uses a pencil giving a sheep its drawn outline as the concrete case. A narrower art-form root would work against Phi's established account of a work through its making. |
-| Heart, eyes, and seeing | Preserve `korua`, `mirae`, `nila`, and manner `theali` | The source turns on visual language and then denies the eye access to what matters. General `morae`, sense, would blur that contrast; `shelomu`, understand, would explain the metaphor instead of speaking it. |
-| Taming and mutual bond | Preserve `nolami` with its comitative gap | The fox explains taming through created ties, and this transmutation accepts that explanation. `woenu` describes an animal accustomed to human presence or handling. It would move the sentence back towards tameness just where the transmutation chooses a mutual relation. |
-| Responsibility, accountability, and obligation | Preserve base `thonai` | The speaker willingly takes up care for a relation. Optional `lothoni` requires answerability under review, while `naseru` names a requirement that may be imposed or disputed. Neither belongs in the fox's gift. |
-| Title and rank | Preserve `thiku miona lue silero` beside the source title | The English keeps Prince exact. Phi describes the small person from the stars and declines to turn rank into a reusable role word. |
-| Optional module vocabulary | Use none | The excerpts concern an ordinary request, perception, relationship, and care. The specialist distinctions considered above would change their centre rather than sharpen it. |
-| Active dependencies | Update the excerpt page, review ledger, progress records, and phonetic-neighbor attestations | The three Woods quotations and the shared title remain unchanged. Neither revised Phi phrase recurs in another active passage. |
-
-### Full source-fidelity pass
-
-The stricter pass changes two Phi units and four derived-English lines. It restores Woods's temporal turn, makes the source's essential thing rather than plural eyes the subject of invisibility, lets drawing read as drawing, and exposes the willingness already present in Phi responsibility. No source quotation, title, or philosophical departure changes.
+The page was translated afresh rather than repaired around its former relational reframe. Each Phi assertion was checked against Woods's wording, its exact gloss, and its derived English. The result preserves taming as taming, records the narrower and wider meanings that do not align exactly, and adds no root.
 
 | Question | Disposition | Reason |
 |---|---|---|
-| Draw me a sheep | Preserve `pi no wei mia ta mophira kire`; change the derived English from shape to draw | Drawing is an established sense of `kire`, including the pencil giving a sheep its outline. "Shape" was a valid gloss but an unnaturally narrow account of the Phi word in this scene. |
-| And now | Add clause-initial `nosa` | The previous unit carried the secret and its simplicity but omitted Woods's temporal turn. `nosa` restores it without treating the source's initial coordination as a separate event. |
-| See rightly | Preserve `miona li roe korua po theali nila` | `theali` is fitting manner and its usage notes explicitly license `theali nila` for see rightly. Restrictive `li` remains on the heart as instrument, not on the person or the act of seeing. |
-| Invisible to the eye | Replace plural-eye active inability with `whu noetha nai roe mirae se po ma nila` | The headless essential relative remains the subject. The instrumental singular eye and passive potential negation say that it cannot be seen with the eye, following Woods's proposition rather than merely reversing its participants. |
-| Tame and bond | Preserve `nolami` and its comitative gap; record exact taming as caused `woenu` | A close account could cause an animal to become accustomed to people. This transmutation chooses the fox's relational explanation, so the tamed object becomes one participant in a mutual bond. |
-| Forever and responsibility | Preserve `theula thimu` and `thonai kelu`; make willingness explicit in the derived English | All time retains the duration. `thonai` describes responsibility willingly taken up, a Phi distinction hidden by the earlier back-translation's bare "become responsible." |
-| Optional module vocabulary | Use none | All 36 forms remain base or function vocabulary. The source needs no specialist distinction and the transmutation's philosophical changes are already direct. |
-| Active dependencies | Update the page, catalogue summary, review ledger, vocabulary decision register, progress records, and phonetic-neighbour attestations | The renderer structure and the three short Woods quotations remain unchanged. No revised Phi unit recurs elsewhere. |
+| Source witness | Store the three quoted excerpts and register `woods:` citations | Every reproduced source fragment now has an exact local witness. The page does not claim coverage beyond those three passages. |
+| Draw me a sheep | Preserve `pi no wei mia ta mophira kire` | Polite imperative `pi no` carries the courtesy, `wei mia` names the recipient, and `kire` has an established drawing sense while retaining shape as its exact gloss. |
+| And now; simple secret | Add `sheno nosa`; turn the apposition into a second complete identity clause | `sheno` preserves the additive opening and `nosa` its present turn. Phi does not ask the colon alone to carry an incomplete clause. |
+| See rightly | Preserve `miona li roe korua po theali nila` | Restrictive `li` remains on the heart as instrument, and `theali` makes the seeing fitting for its purpose rather than asserting infallible perception. |
+| Invisible to the eye | Preserve `whu noetha nai roe mirae se po ma nila` | The essential thing remains the subject. Singular eye and passive potential negation preserve Woods's proposition. |
+| What you have tamed | Use `whu thia woenu ki ka kelu nolika` | Perfective causative becoming states that the listener made an animal tame. The explicit animal narrows Woods's open relative but gives the Phi relative clause an audible boundary. |
+| Forever and responsibility | Use `naseru pa phelu`, then restate the held obligation under `theula thimu` | Inchoative holding preserves the beginning of responsibility, while the second sentence gives it unbounded duration. `naseru` states an obligation under the fox's teaching without adding the willing acceptance built into `thonai`. |
+| Title and rank | Preserve `thiku miona lue silero` beside the source title | The English keeps Prince exact. Phi describes the small person from the stars without creating a general rank word. |
+| Optional module vocabulary | Use shared Commons and Work `naseru` | Responsibility as obligation is the specialist distinction the final excerpt needs. All other forms remain base or function vocabulary. |
+| Active dependencies | Update the page, source registry, catalogue, renderer contract, teaching references, review ledger, progress records, and phonetic-neighbour attestations | The detailed and continuous Phi streams must remain identical, and every Woods fragment must match the compact witness. |
 
 ## Transmutation review: the Ring Verse refusal
 
-The page quotes Tolkien's inscription and answers it with four Phi lines rather than promising a close translation. Its title and passage use 17 unique forms, all from base or function vocabulary. The first shelf rebuild correctly separated coercion and physical tying from guidance and mutual bond, but it widened the contextual **them** to all people. The stricter pass repairs that referent without softening the refusal.
+The page quotes Tolkien's inscription and answers it with four Phi lines rather than promising a translation. Its title and passage use 17 unique forms, all from base or function vocabulary. The first shelf rebuild correctly separated coercion and physical tying from guidance and mutual bond, but it widened the contextual **them** to all people. The stricter pass repairs that referent without softening the refusal.
 
 ### Post-migration contextual retrofit
 
@@ -352,7 +338,7 @@ The stricter pass changes all four Phi lines because their shared target was too
 |---|---|---|
 | Scope of the source witness | Keep the short inscription as the only quotation; discuss the surrounding stanza without reproducing it | The quoted words suffice for the refusal. The other Rings establish the antecedent, while lord and throne belong to the surrounding source context rather than to the quoted inscription. |
 | All and them | Use `theula whu phirae thumai sorui wenuha miona` in the first and third lines, then `lo shia` in the second and fourth | The old `theula miona` meant every person, a claim the source does not make. The headed relative follows dominion through the other Rings to everyone wearing a different finger-ring. The pronoun retains that set where the source says **them**. |
-| Purpose and accusation | Preserve the deliberate move from infinitive purpose to unmarked present clauses and record it in the introduction and gap log | A close rendering would present what the One Ring is for. This refusal instead accuses it of coercing, finding, bringing, and tying. The grammatical shift belongs to the transmutation and must not pass as accidental equivalence. |
+| Purpose and accusation | Preserve the deliberate move from infinitive purpose to unmarked present clauses and record it in the introduction and gap log | A translation would present what the One Ring is for. This refusal instead accuses it of coercing, finding, bringing, and tying. The grammatical shift belongs to the transmutation and must not pass as accidental equivalence. |
 | Rule, authority, and dominion | Preserve `kawhera`; keep `nasholu`, `nashaku`, `karami`, `kulo`, and `theluo` in the analysis | None of the neighbouring social relations means dominion. `kawhera` names the closing of practical choice without granting the Ring a legitimate role. |
 | Bind and bond | Preserve metaphorical `tiwa`; reject `nolami` | The physical tie remains an uncomfortable image of imposed restraint. A mutual bond would reverse the relation at the heart of the refusal. |
 | Optional module vocabulary | Use none | All 16 passage forms are base or function vocabulary. The relative clause needs no wearer role, specialist title, or new root. |
@@ -491,11 +477,10 @@ The review keeps the garment-and-hand composition, changes no source quotation, 
 
 ## Transmutation review
 
-The four transmuted works on the shelf were read from their stated sources before the Phi was judged. Repair was preferred when the narrative or argument already held together. A clean rebuild was reserved for the Ring Verse's central refusal, whose earlier substitute had turned coercion into guidance and imposed binding into mutual bond. No new root was needed; the completed module vocabulary supplied the missing distinctions.
+The three transmuted works on the shelf were read from their stated sources before the Phi was judged. Repair was preferred when the narrative or argument already held together. A clean rebuild was reserved for the Ring Verse's central refusal, whose earlier substitute had turned coercion into guidance and imposed binding into mutual bond. No new root was needed; the completed module vocabulary supplied the missing distinctions.
 
 | Work | Source and decision | Material repairs | Pillar disposition |
 |---|---|---|---|
-| *The Little Prince* excerpts | Three short Katherine Woods excerpts; repaired and current | The title describes the small person from the stars while the source keeps prince. The current turn, right seeing, singular eye, passive invisibility, completed bond, and willing responsibility are explicit. | Buddhist and peace readings support the deliberate move from taming to mutual bond and chosen responsibility. The sheep request and heart image keep the source's ordinary scale. |
 | Ring Verse refusal | Tolkien's quoted inscription; central Phi passage rebuilt and fidelity-repaired | Rule becomes an explicit analysis as coercion; bind becomes physical `tiwa` used metaphorically. The repaired referent follows the other Rings to their wearers instead of widening **them** to all people. | Peace linguistics makes the decisive change by naming constrained choice. Buddhist attention separates acts from permanent moral identities. The other pillars do not soften the source or invent a replacement moral. |
 | *The Velveteen Rabbit* | Complete Williams story; repaired and current | The post-migration pass changed 46 units; the later fidelity pass changes 69 of 427 stanzas, adds ant, and makes the stored witness reconstruct exactly. Brigand-play remains coercion-play, pain is not called small, and the child helps rather than single-handedly makes the rabbit Real. | Care, repair, natural transformation, material craft, and the story's organic beauty already engage all five pillars. Peace linguistics chiefly restores agency and names power; it does not remove fever, burning, loss, or grief. |
 | *News from Nowhere*, chapters 1-3 | Complete Morris chapters; repaired chapter by chapter | Chapter 1 separates views, membership, and authority. Chapter 2 gives waking, bodily sensation, household detail, work capacity, and the river their completed distinctions. Chapter 3 adds direct rooms, meals, body parts, responses, and craft while retaining commoners' entitlement and the political direction of reactionary novels. | Solarpunk and preindustrial commitments are native to Morris's work; Art Nouveau lives in architecture, clothing, and craft. Buddhist attention clarifies the narrator's inference. Peace linguistics names authority and stigma without cleaning the argument, coercion, or social contempt from the story. |
@@ -580,7 +565,7 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/schleicher_fable.md` | Translation | Reviewed | D074 adds direct shearing, removes a quoted fragment, restores cessative possession, treats the final glosses as one motion, and makes the citation stream reconstruct the stored source body exactly. |
 | `texts/babel_text.md` | Translation | Reviewed | Complete KJV alignment, continuous reading, and translation limits complete. |
 | `texts/human_rights_article_one.md` | Translation | Reviewed | Exact rights, reason, conscience, held obligation, source alignment, and translation limits complete. |
-| `texts/little_prince_excerpts.md` | Transmutation | Reviewed | The 36-form base-vocabulary work preserves all three short Woods excerpts, restores the current turn and passive invisibility, and makes its deliberate mutual bond and willing responsibility visible in the derived English. |
+| `texts/little_prince_excerpts.md` | Translation | Reviewed | Five interlinear units and seven assertions align with the three stored Woods excerpts. The 40-form rendering preserves the current turn, passive invisibility, taming, and obligation while recording Phi's narrower animal head. |
 | `texts/gibran/on_love.md` | Translation | Reviewed | The complete 35-unit citation stream reconstructs the 2,403-character source passage exactly. The fidelity pass changes 19 units and adds base `ratenu` and `salenu`. |
 | `texts/gibran/on_children.md` | Translation | Reviewed | All 18 source units align, the continuous reading matches the detailed blocks, and the limits table records Phi's material treatment of the archery scene. |
 | `texts/gibran/on_giving.md` | Translation | Reviewed | All 33 source units align. D075 adds direct deservingness and reward while preserving exact source identities beside material descriptions. |
@@ -593,4 +578,4 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/news_from_nowhere/chapter_02.md` | Transmutation | Reviewed | The 241-unit post-migration pass changes 57 units and uses five optional roots with seven memberships across four modules without altering Morris's source lines. |
 | `texts/news_from_nowhere/chapter_03.md` | Transmutation | Reviewed | The 245-unit post-migration pass changes 46 units and uses 14 optional roots with 15 memberships across five modules without altering Morris's source lines. |
 
-Every current translation, transmutation, and original has received the review appropriate to its declared method. The six formerly paired works now retain their close translations only. All four original Phi works have received Phi-first reviews. The Phi book and SEM-09D retrofit are complete.
+Every current translation, transmutation, and original has received the review appropriate to its declared method. The six formerly paired works and the Little Prince excerpts now stand as translations only. All four original Phi works have received Phi-first reviews. The Phi book and SEM-09D retrofit are complete.

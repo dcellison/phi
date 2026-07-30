@@ -70,7 +70,7 @@ B: su shea wei thia shua.
 
 ## A philosophical passage
 
-Chapter 22 gives Bashō's frog haiku two Phi renderings. The close rendering keeps the frog, jump, and sound:
+Chapter 22 gives Bashō's frog haiku two Phi renderings. The translation keeps the frog, jump, and sound:
 
 ```
 serao melothe.
@@ -104,9 +104,9 @@ water voice.
 
 ## The texts shelf
 
-Close translations on the shelf preserve the claims that fit Phi least comfortably as well as those the language meets easily. Their source lines stay beside the Phi, and each page records where the two languages do not quite meet.
+Translations on the shelf preserve the claims that fit Phi least comfortably as well as those the language meets easily. Their source lines stay beside the Phi, and each page records where the two languages do not quite meet.
 
-Gibran's four teachings are complete close translations. His bow, yoke, sword, and hard claims about work remain inside them, with the limits of Phi's descriptions recorded at the end of each page.
+Gibran's four teachings are complete translations. His bow, yoke, sword, and hard claims about work remain inside them, with the limits of Phi's descriptions recorded at the end of each page.
 
 The five Tao chapters bring a wheel, an empty vessel, barely seen authority, small beginnings, and a tree cutter into Phi. Legge's claims remain in place even where the language must describe a part or relation instead of naming it.
 
@@ -126,25 +126,26 @@ OPT UNIV person COORD UNIV creature joy heart hold.
 
 ***theama weno kawhera kelu*** (When Care Becomes Coercion) is the shelf's first original Phi work. Two friends sit with a hot room, a refusal to leave, and a danger neither can dismiss. Their dialogue separates evidence from entailment, persuasion from coercion, and care from authority. Conditional consent settles what the friends may do this afternoon; the harder case, when no prior answer can speak, still waits.
 
-***nitho howeli nela sileta*** (The North Wind and the Sun) is a close translation of Aesop's familiar linguistic benchmark. Past-tense scene chains carry the quarrel, wager, weather, and flight into shade. Base `sharemi` (persuade) lets the disputed moral stay whole, while the final limits table distinguishes what Phi says from stronger verbs in Aesop's line.
+***nitho howeli nela sileta*** (The North Wind and the Sun) is a translation of Aesop's familiar linguistic benchmark. Past-tense scene chains carry the quarrel, wager, weather, and flight into shade. Base `sharemi` (persuade) lets the disputed moral stay whole, while the final limits table distinguishes what Phi says from stronger verbs in Aesop's line.
 
 ***mophira nela lo kalora*** (The Sheep and the Horses) begins from a controlled English translation of Schleicher's 1868 German. It preserves the constricted heart, the horses' knowledge, the master claim, and Schleicher's three descriptions of one flight. `tupeka` (burden) and `phesari` (flee) belong to base vocabulary; Commons `phenori` (ownership) states the relation behind the source title without turning that title into a Phi role.
 
-***theula miona*** (All People) is a close translation of Article 1 of the Universal Declaration of Human Rights. It uses `sherelo` for a normative right that remains sayable under denial, `remori` for reason as a faculty, and `sharino` for conscience as moral self-appraisal. Passive endowment and sibling spirit remain, while `naseru phelu` carries the source's obligation without turning it into an unqualified must.
+***theula miona*** (All People) is a translation of Article 1 of the Universal Declaration of Human Rights. It uses `sherelo` for a normative right that remains sayable under denial, `remori` for reason as a faculty, and `sharino` for conscience as moral self-appraisal. Passive endowment and sibling spirit remain, while `naseru phelu` carries the source's obligation without turning it into an unqualified must.
 
-***ta haluma*** (One Language) is a close translation of Genesis 11:1-9. It leaves LORD in the source line and describes a nonhuman story creature through `karami`, authority. Work-module `torali` gives the tower a shape of its own. The loss of reciprocal understanding and the worldwide punitive dispersal remain where the King James account puts them.
+***ta haluma*** (One Language) is a translation of Genesis 11:1-9. It leaves LORD in the source line and describes a nonhuman story creature through `karami`, authority. Work-module `torali` gives the tower a shape of its own. The loss of reciprocal understanding and the worldwide punitive dispersal remain where the King James account puts them.
 
-***nulo sano korua*** (The Heart of Wisdom) is a close translation of Müller's smaller Heart Sutra. It counts five gatherings, preserves the source's four knowledge and ignorance terms, and gives the mantra one addressed traveler who has reached another `kerime`, shore. Tradition-specific names remain in the source lines rather than receiving improvised adaptations.
+***nulo sano korua*** (The Heart of Wisdom) is a translation of Müller's smaller Heart Sutra. It counts five gatherings, preserves the source's four knowledge and ignorance terms, and gives the mantra one addressed traveler who has reached another `kerime`, shore. Tradition-specific names remain in the source lines rather than receiving improvised adaptations.
 
-***keiro*** (The Way) contains complete close translations of five chapters from Legge's Tao Te Ching. Chapter 11's wheel turns around an open centre and support rod. Chapter 17 describes people who hold authority without adding a ruler class. In chapter 76, reliance on force fails and a tree cutter chooses the broad trunk. Phi has no axle or generic easy adjective, so material descriptions and source citations keep those distances visible.
+***keiro*** (The Way) contains complete translations of five chapters from Legge's Tao Te Ching. Chapter 11's wheel turns around an open centre and support rod. Chapter 17 describes people who hold authority without adding a ruler class. In chapter 76, reliance on force fails and a tree cutter chooses the broad trunk. Phi has no axle or generic easy adjective, so material descriptions and source citations keep those distances visible.
 
 ***phewo phelui*** (The Sage's Words) contains complete Phi translations of Gibran's teachings on love, children, giving, and work. Together they begin a translation of the whole of *The Prophet*. Love keeps its sword, cross, and grain-floor. Children lets Gibran draw his bow and send the arrow. Giving follows the prudent dog past the full well and orchard, while work carries the farmer to the temple gate. Each page leaves Gibran's exact wording beside the Phi and ends by naming the limits of the translation.
+
+***thiku miona lue silero*** (from The Little Prince) translates three Katherine Woods passages. A sheep must be drawn; the heart sees what the eye cannot; taming leaves an obligation behind. Existing `woenu`, tame, keeps the animal's change explicit. Module `naseru`, obligation, lets the final passage state the relation without adding willing acceptance.
 
 The rest of the shelf:
 
 | Phi title | Method | Text |
 |---|---|---|
-| `thiku miona lue silero` | Transmutation | three moments from *The Little Prince*: the request, the secret, the responsibility |
 | `naweri` | Transmutation | the Ring Verse, refused: the other Ring-wearers named and coercion exposed without granting it a neutral ruler |
 | `wuloe wetha tupiwa` | Transmutation | *The Velveteen Rabbit*, entire, with Medical, Accessibility, and Commons distinctions where the story needs them |
 | `nophi lue mawha lokue` | Transmutation | the opening chapters of *News from Nowhere*, reviewed against Morris chapter by chapter |
