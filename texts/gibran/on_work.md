@@ -1,8 +1,8 @@
 # riola — On Work
 
-*Gibran's farmer asks about work, and the answer runs from earth's pace to the voices of day and night. The close translation lets him finish that argument, including its hard edges. The transmutation preserves his reverence for making while changing what he asks of rest, pain, and ordinary weariness.*
+*Gibran's farmer asks about work, and the answer runs from earth's pace to the voices of day and night. The Phi translation lets him finish that argument, hard edges and all.*
 
-*Both renderings use four-line blocks: the Phi sentence, its exact lexicon gloss, a literal English back-translation, and Gibran's source wording. Their comparison names the deliberate divergences before reading the piece through Phi's five pillars.*
+*Each passage uses a four-line block: the Phi sentence, its exact lexicon gloss, a literal English back-translation, and Gibran's source wording. A continuous Phi reading and a table of translation limits follow.*
 
 ---
 
@@ -194,7 +194,7 @@ gibran: "And if you sing though as angels, and love not the singing, you muffle 
 
 **Notes:** `riola [whu se po nila] lothea nai` preserves Gibran's best-known line without adding a verb for visibility. The final judgment stays. The temple becomes the threshold of a sacred place, and alms become gifts received from joyful workers. Indifference is absence of care; the forbidden fraction becomes `li thiku`, only a little. Distaste becomes labour without liking, not the stronger recoil of `kophinu`, disgust. Grapes are vine-berries, and wine follows the established `lureko milau`, fruit drink. The worker's feeling makes the drink toxic. Gibran's distillation stays in his line. Angels are described as sacred spirits. The worker still causes the voices to cease being audible; Gibran keeps the physical image of muffled ears.
 
-### Complete translation
+## Complete translation
 
 ```
 ta himo [whu kosha sorila] telo sha no wei lo mia nia riola haolu sho to haolu. phirae miona to lonae.
@@ -208,7 +208,7 @@ roe lothea riola hina nai. lu he [whu thia meropi] miona ha wetha so wenuha. thi
 riola [whu se po nila] lothea nai. lu thia roe lothea po ma riola nela li whuo kaeli riola. thia lue riola pholeni. thia mua thunepa maewo meilo. thia lue [whu roe siora riola] miona loami howela. ha keiro sheo whuo kaeli riola mo welao nai. lu thia whuo theama napa napako. thia [whu miona li thiku lumera] puko napa napako. lu thia lo lowi mirulo peki ma kaeli. thia phaelo lureko milau pekira ka kelu. lu thia phea lo thoepa phiora meliho nela thia meliho ma lothea. thia philo haoni nela shero haoni wei lo miona hewasu te ka kelu.
 ```
 
-### Translation limits
+## Translation limits
 
 | Gibran wording | Phi treatment | Remaining difference |
 |---|---|---|
@@ -216,7 +216,7 @@ riola [whu se po nila] lothea nai. lu thia roe lothea po ma riola nela li whuo k
 | idle; stranger to the seasons; life's procession | not working; becoming unfamiliar to the seasons; departing from life's shared journey | Conditional clauses unfold Gibran's equivalence. `ma riola` does not add the moral judgment of lazy, and `laniru` is a journey rather than an ordered procession. |
 | majesty and proud submission | dignity; accepting the endless path's guidance with pride | The posture and direction survive. Submission's religious and hierarchical force stays in Gibran's wording rather than entering Phi as a generic virtue. |
 | hours | `thimu`, time | Phi does not divide the day into clock hours. The adjacent source preserves Gibran's measured image. |
-| curse; misfortune | a burden arising from harmful speech; harmful luck | The two judgments no longer collapse into the same phrase. A tradition's claimed mechanism of cursing stays with the source. |
+| curse; misfortune | a burden arising from harmful speech; harmful luck | The two judgments remain distinct. A tradition's claimed mechanism of cursing stays with the source. |
 | a part of earth's furthest dream | one purpose within earth's furthest dream | Purpose makes the contribution intelligible, but a purpose is not simply a part. |
 | intimate with life's inmost secret | know life's deepest secret deeply | The closeness becomes depth of understanding. English intimate also suggests a relation that the Phi does not separately assert. |
 | God | `thoepa phiora`, sacred spirit | The description marks a religious referent. Gibran's exact divine identity remains solely in his source line. |
@@ -228,232 +228,3 @@ riola [whu se po nila] lothea nai. lu thia roe lothea po ma riola nela li whuo k
 | distaste; grudge | labour without liking it; not liking the crushing | Phi states the aversion without escalating either feeling into `kophinu`, disgust. Gibran's stronger shades stay beside the Phi. |
 | grapes; wine; distils poison | vine-berries; fruit drink; the worker's feeling makes the drink toxic | The ingredients, feeling, and result are visible. Gibran's source supplies the fermentation, distillation, and named wine. |
 | angels; muffle ears | sacred spirits; making the voices cease to be audible | The religious beings are described, and the worker still causes the loss of hearing. The physical image of muffled ears stays in the source. |
-
-## Transmutation
-
-Gibran's praise of work has a warm centre and a hard edge. The flute, woven cloth, bread, and wind can all stay. The hard edge cannot: it exiles rest, makes pain a purifier, ranks the crafts, and demands constant love from useful work. Phi answers with chosen contribution, inherited skill, shared workload, and care that can survive an ordinary weary day.
-
-### Work and rest within the earth
-
-```
-ta himo [whu kosha sorila] telo sha no wei lo mia nia riola haolu sho to haolu.
-one HUM.CLF [REL field cultivate] farmer QUOT.COMP IMP DAT PL 1SG ON labor speak QUOT.COMP.CLOSE PST speak.
-(A farmer who cultivates a field said, "Speak to us about work.")
-gibran: "Then a ploughman said, Speak to us of _Work_."
-
-phirae miona to lonae.
-different person PST respond.
-(A different person answered.)
-gibran: "And he answered, saying:"
-
-lila thia muila lo nuri sano thia nua muila riola.
-PURP 2SG earth PL cycle know 2SG COM earth labor.
-(You work with earth so that you may know earth's cycles.)
-gibran: "You work that you may keep pace with the earth and the soul of the earth."
-
-lu thia therilu. thia wei lo meluna kuewa miona ma kelu. thia mua lioru nuri manolu. riola nela therilu lioru nuri nai.
-COND 2SG rest. 2SG DAT PL season strange person NEG become. 2SG LOC life cycle stay. labor COORD rest life cycle be.
-(When you rest, you do not become a stranger to the seasons. You remain within life's cycle. Work and rest are life's cycle.)
-gibran: "For to be idle is to become a stranger unto the seasons, and to step out of life’s procession, that marches in majesty and proud submission towards the infinite."
-
-lu thia thesua riola. thia korua thimu whishela melira ka kelu.
-COND 2SG mindful labor. 2SG heart time whisper song CAUS become.
-(When you work mindfully, your heart turns time's whisper into song.)
-gibran: "When you work you are a flute through whose heart the whispering of the hours turns to music."
-
-whau theula phirae miona nuawe meliho sua maeli po nai. ha maeli we melira monaki nai.
-SIMUL UNIV different person together sing who quiet POT be. PROX quiet ALSO song component be.
-(While everyone else sings together, who may be quiet? This quiet is also part of the song.)
-gibran: "Which of you would be a reed, dumb and silent, when all else sings together in unison?"
-
-wei thia tha riola tupeka nai tho to ro se ti haolu. whekai soli riola tupeka ma nai. soli riola rimawu nai.
-DAT 2SG DECL.COMP labor burden be DECL.COMP.CLOSE PST HAB PASS REP speak. CONTR SOME labor burden NEG be. SOME labor drudgery be.
-(You have long been told that work is a burden. Yet some work is not a burden, and some work is drudgery.)
-gibran: "Always you have been told that work is a curse and labour a misfortune."
-
-lu thia riola. thia wei muila nela sila ta loami shorema. thia pha ha loami thela se kire pho kanu.
-COND 2SG labor. 2SG DAT earth COORD community one gift contribute. 2SG INT.COMP PROX gift how PASS shape INT.COMP.CLOSE choose.
-(When you work, you contribute one gift to earth and community. You choose how this gift is shaped.)
-gibran: "But I say to you that when you work you fulfil a part of earth’s furthest dream, assigned to you when that dream was born,"
-
-lu thia roe theama riola. thia lioru lothea.
-COND 2SG INS care labor. 2SG life love.
-(When you work with care, you love life.)
-gibran: "And in keeping yourself with labour you are in truth loving life,"
-
-lu thia thue riola lioru lothea. thia lioru nulo kupela sano. thia mua lioru pawela.
-COND 2SG THROUGH labor life love. 2SG life deep secret know. 2SG LOC life participate.
-(When you love life through work, you know life's deep secret and participate in life.)
-gibran: "And to love life through labour is to be intimate with life’s inmost secret."
-```
-
-**Notes:** The purpose has changed. Work no longer asks a person to march at a prescribed pace; it offers a way to know the earth's cycles from within them. Rest stays inside that same cycle. Quiet is not a failed reed but one component of the song, `melira monaki`. The old curse becomes a distinction the worker can actually use: `riola`, purposeful work, is not automatically a burden, while optional `rimawu` names work experienced as draining and stripped of recognisable purpose. Gibran's assigned fragment of a dream becomes a gift whose shape the worker chooses. Care replaces mere continuance, and participation brings the secret back from a hidden chamber into lived work.
-
-### Pain, desire, and choice
-
-```
-lu thia mua riola kipona phaelo. thia ha kipona moreko. thia komeri siwe peloma haolu ma sawa.
-COND 2SG LOC labor pain feel. 2SG PROX pain articulate. 2SG forehead sweat harmful speak NEG wash.
-(When you feel pain in work, you put this pain into words. The sweat of your forehead does not wash away harmful speech.)
-gibran: "But if you in your pain call birth an affliction and the support of the flesh a curse written upon your brow, then I answer that naught but the sweat of your brow shall wash away that which is written."
-
-lu thia shorui nai. no therilu. thia lila lo shorui miona haolu thole ralu nai.
-COND 2SG weary be. IMP rest. 2SG PURP PL weary person speak practice free be.
-(When you are weary, rest. You need not rehearse the speech of weary people.)
-gibran: "You have been told also that life is darkness, and in your weariness you echo what was said by the weary."
-
-lu thia mawha thena rinu. lioru nuelo po nai. thia ha nuelo po moreko.
-COND 2SG NONE thing want. life dark POT be. 2SG PROX dark POT articulate.
-(When you want nothing, life may be dark. You may put this darkness into words.)
-gibran: "And I say that life is indeed darkness ‘save when there is urge,"
-
-rinu henoi ma nai. sano nela porua shia kulo.
-want ENOUGH NEG be. know COORD purpose 3SG guide.
-(Desire is not enough. Knowledge and purpose guide it.)
-gibran: "And all urge is blind save when there is knowledge,"
-
-lu sano muo riola ma shua. shia poru ma nai.
-COND know INTO labor NEG come. 3SG productive NEG be.
-(When knowledge does not enter work, it is not productive.)
-gibran: "And all knowledge is vain save when there is work,"
-
-lu riola whuo lothea shua. shia whemoa po nai.
-COND labor WITHOUT love come. 3SG empty POT be.
-(When work comes without love, it may be empty.)
-gibran: "And all work is empty save when there is love;"
-
-lu thia roe lothea riola. thia nua miso nela lo phirae miona nolami. thia we mua lioru pawela.
-COND 2SG INS love labor. 2SG COM REFL COORD PL different person bond. 2SG ALSO LOC life participate.
-(When you work with love, you bond with yourself and other people. You also participate in life.)
-gibran: "And when you work with love you bind yourself to yourself, and to one another, and to God."
-```
-
-**Notes:** Pain is testimony here, not a solvent. The worker names it with `moreko`; sweat cannot make harmful words disappear. Weariness receives rest before it receives philosophy. The transmutation also loosens Gibran's ladder. Desire is not the light by itself, and knowledge needs both purpose and a way into practice. Work without love may be empty, not damned. Work with love forms a mutual `nolami`, a bond that cannot mean imposed restraint, and participation in life replaces a theological attachment the Phi sentence cannot name exactly.
-
-### The hands remember
-
-```
-roe lothea riola hina nai.
-INS love labor what be.
-(What is work done with love?)
-gibran: "And what is it to work with love?"
-
-lu he [whu thia meropi] miona ha wetha so wenuha. thia roe [whu lue thia korua se natu] lo sima wetha selomi.
-COND IRR [REL 2SG cherish] person PROX cloth FUT wear. 2SG INS [REL ABL 2SG heart PASS pull] PL thread cloth weave.
-(If the person you cherish were to wear this cloth, you weave it with threads drawn from your heart.)
-gibran: "It is to weave the cloth with threads drawn from your heart, even as if your beloved were to wear that cloth."
-
-lu he [whu thia meropi] miona mua ha womu so menui. thia roe noeli lothea ha womu lorima.
-COND IRR [REL 2SG cherish] person LOC PROX home FUT dwell. 2SG INS warm (emotional) love PROX home build.
-(If the person you cherish were to dwell in this home, you build it with warm love.)
-gibran: "It is to build a house with affection, even as if your beloved were to dwell in that house."
-
-lu he [whu thia meropi] miona ha lureko so nuola. thia roe phaeli lo thinoe thophe. thia roe siora lureko muraki.
-COND IRR [REL 2SG cherish] person PROX fruit FUT eat. 2SG INS tender PL seed sow. 2SG INS joy fruit harvest.
-(If the person you cherish were to eat this fruit, you sow seeds tenderly and harvest fruit with joy.)
-gibran: "It is to sow seeds with tenderness and reap the harvest with joy, even as if your beloved were to eat the fruit."
-
-thia theula [whu thia kire] thena roe thesua whunei pheno ka kelu.
-2SG UNIV [REL 2SG shape] thing INS mindful breathe full CAUS become.
-(You fill all things you shape with mindful breath.)
-gibran: "It is to charge all things you fashion with a breath of your own spirit,"
-
-thia tha lo [whu to lumeo] miona thesani mua thia manuwe manolu tho sano.
-2SG DECL.COMP PL [REL PST die] person skill LOC 2SG hand stay DECL.COMP.CLOSE know.
-(You know that the skills of people who died remain in your hands.)
-gibran: "And to know that all the blessed dead are standing about you and watching."
-
-soli miona kerou kire. soli miona muila sorila. mawha riola phirae miona rolia ka helui.
-SOME person stone shape. SOME person earth cultivate. NONE labor different person worth CAUS change.
-(Some people shape stone. Some cultivate earth. No work changes another person's worth.)
-gibran: "Often have I heard you say, as if speaking in sleep, “He who works in marble, and finds the shape of his own soul in the stone, is nobler than he who ploughs the soil."
-
-soli miona roe loriphi welisha wetha kire. soli miona wei lo mia lo palowe theko. wi nophe riola lo miona pheloma.
-SOME person INS rainbow color cloth shape. SOME person DAT PL 1SG PL shoe craft. two ABST.CLF labor PL person serve.
-(Some people shape cloth with rainbow colours. Some craft shoes for us. The two works serve people.)
-gibran: "And he who seizes the rainbow to lay it on a cloth in the likeness of man, is more than he who makes the sandals for our feet.”"
-
-mua thaeso mia ha haolu. howeli wei lo whalo shiro kaelo haolu. shia wei mo ko thiku whelina senao keiro haolu.
-LOC midday 1SG PROX speak. wind DAT PL large tree sweet speak. 3SG DAT CMPR FOC small grass same way speak.
-(At midday I say this. The wind speaks sweetly to large trees, and it speaks in the same way to the smallest grass.)
-gibran: "But I say, not in sleep but in the overwakefulness of noontide, that the wind speaks not more sweetly to the giant oaks than to the least of all the blades of grass;"
-
-soli miona howeli haoni melira ka kelu. shia lothea ha melira mo kaelo ka kelu. ha riola shia rolia ka ma helui.
-SOME person wind voice song CAUS become. 3SG love PROX song CMPR sweet CAUS become. PROX labor 3SG worth CAUS NEG change.
-(A person turns the wind's voice into song. Their love makes this song sweeter. This work does not change their worth.)
-gibran: "And he alone is great who turns the voice of the wind into a song made sweeter by his own loving."
-```
-
-**Notes:** The cloth, home, and seed survive almost unchanged because the images already know how to live in Phi. `thesua whunei`, mindful breath, replaces personal spirit without taking the breath out of the making. The blessed dead no longer stand as an audience around the worker. Their `thesani`, skill, remains in the living hand, where teaching, imitation, and inherited practice can account for it. The hierarchy then comes apart. Shaping stone, cultivating earth, colouring cloth, and crafting shoes are different work. None enlarges the worker's `rolia`, inherent worth, and none makes another person's worth small. The wind still finds a song, but beauty is no longer a promotion.
-
-### Care made visible
-
-```
-riola [whu se po nila] theama nai.
-labor [REL PASS POT see] care be.
-(Work is care that can be seen.)
-gibran: "Work is love made visible."
-
-lu thia roe lothea po ma riola. no miso ka ma riola. thia therilu po nai. thia wei sila sha no mia ritako phowe sho po haolu.
-COND 2SG INS love POT NEG labor. IMP REFL CAUS NEG labor. 2SG rest POT be. 2SG DAT community QUOT.COMP IMP 1SG workload share QUOT.COMP.CLOSE POT speak.
-(When you cannot work with love, do not make yourself work. You may rest. You may say to the community, "Share my workload.")
-gibran: "And if you cannot work with love but only with distaste, it is better that you should leave your work and sit at the gate of the temple and take alms of those who work with joy."
-
-lu thia shorui nai. thia whuo lothea napa po napako. ha napa miona po pe lumera.
-COND 2SG weary be. 2SG WITHOUT love bread POT bake. PROX bread person POT SUFF nourish.
-(When you are weary, you may bake bread without love. This bread can nourish a person sufficiently.)
-gibran: "For if you bake bread with indifference, you bake a bitter bread that feeds but half man’s hunger."
-
-lu thia lo lowi mirulo peki ma kaeli. thia tha ha riola rimawu nai tho po haolu. sila ha riola po phowe. thia phaelo lureko milau pekira ka ma kelu.
-COND 2SG PL vine berry squeeze NEG like. 2SG DECL.COMP PROX labor drudgery be DECL.COMP.CLOSE POT speak. community PROX labor POT share. 2SG feel fruit drink toxic CAUS NEG become.
-(When you do not like squeezing vine-berries, you may say that this work is drudgery. The community may share this work. Your feeling does not make the fruit drink toxic.)
-gibran: "And if you grudge the crushing of the grapes, your grudge distils a poison in the wine."
-
-lu thia meliho ma lothea. philo haoni nela shero haoni hewasu manolu. no therilu. lu thia meliho lothea. no meliho.
-COND 2SG sing NEG love. day voice COORD night voice audible stay. IMP rest. COND 2SG sing love. IMP sing.
-(When you do not love singing, the voices of day and night remain audible. Rest. When you love singing, sing.)
-gibran: "And if you sing though as angels, and love not the singing, you muffle man’s ears to the voices of the day and the voices of the night."
-```
-
-**Notes:** Love becomes care in the visible line. Care can live in a finished loaf or repaired roof without demanding that the worker feel ardour at every moment. When love is absent, the transmutation does not send anyone to a temple gate. It stops self-compulsion, permits rest, and gives the worker plain words for asking a community to share `ritako`, workload. A weary baker's bread can still nourish. Disliking the grape press can make the work `rimawu`, drudgery, but it does not turn the drink toxic by moral chemistry. The last instruction is modest enough to use: rest when the song is not yours, and sing when it is.
-
-## What changes between the two renderings
-
-The close translation lets Gibran finish his argument. Work keeps pace with earth, fulfils an assigned dream, cleanses the brow through sweat, and reveals the worker's love. The transmutation keeps the reverence for making while declining the price he places on rest, pain, and ordinary reluctance. Read together, the two versions show where admiration for work becomes a moral demand upon the worker.
-
-### Rendering gap log
-
-| Moment | Close translation | Transmutation | Why they diverge |
-|---|---|---|---|
-| earth's pace | Work holds pace with earth and its soul. | Work offers a way to know the earth's cycles. | The translation follows Gibran's shared rhythm. The transmutation replaces prescribed pace with attentive participation. |
-| idleness | Not working makes a person strange to the seasons and removes them from life's journey. | Rest remains within life's cycle, and quiet remains part of the song. | Phi refuses to treat rest or silence as exile. |
-| curse and misfortune | Work is described as a burden arising from harmful speech and labour as harmful luck. | Some work is not a burden, while some work is `rimawu`, drudgery. | The transmutation centres the worker's account and distinguishes purposeful work from draining work. |
-| earth's dream | A purpose within the furthest dream is assigned at the dream's birth. | A gift enters earth and community, and the worker chooses its shape. | Assignment yields to agency without making contribution private or solitary. |
-| pain and sweat | Only brow-sweat washes away the curse written there. | Pain is articulated, and sweat cannot wash harmful speech away. | Phi does not make suffering redemptive or silence a report of harm. |
-| desire, knowledge, work, love | Each term rescues the one before it in Gibran's ladder. | Desire is insufficient; knowledge needs purpose and practice; work without love may be empty. | The transmutation preserves the relations without making them universal absolutes. |
-| God and the dead | A sacred spirit receives the worker's connection; the blessed dead stand and watch. | Participation in life replaces the divine bond, and inherited skill remains in the hands. | Secular language can preserve relation and inheritance without making a theological claim. |
-| artist and maker | Stone worker and rainbow artist are ranked above farmer and shoemaker, then Gibran rebukes the rank. | All four kinds of work stand together, and none changes anyone's worth. | The transmutation states the equality directly rather than rehearsing the hierarchy as sleep-talk. |
-| visible love | Work is love that can be seen. | Work is care that can be seen. | Care is available to practice even when feeling is quiet, tired, or absent. |
-| distaste | The unwilling worker should leave, receive alms, and expect diminished bread, poisoned wine, and muffled hearing. | The worker may rest, name drudgery, and ask the community to share the workload. | Phi separates the usefulness of work from compulsory enthusiasm and refuses contempt for the weary worker. |
-
-### Solarpunk values
-
-The close translation gives the earth a soul and a dream, then places the worker inside both. The transmutation makes the relation less possessive and more practical. To work with earth is to learn its cycles, contribute to a community, and recognise rest as part of the same living system. Shared workload belongs beside shared harvest.
-
-### Secular Buddhist philosophy
-
-Mindful work begins with attention to the act in front of the speaker. Pain is noticed and put into words rather than converted into merit. Desire does not become a lantern merely because it is strong, and work does not become a self. The hands can give care, then open.
-
-### Art Nouveau aesthetics
-
-Gibran supplies nearly everything this pillar could ask for. Flute answers reed; thread meets cloth; stone takes the rainbow. Tree and grass listen to the wind. Translation preserves the long curves and material surfaces, while transmutation changes their arrangement. Silence enters the music, inherited skill enters the hand, and the wind's song remains beautiful without becoming a badge of human rank.
-
-### Peace linguistics
-
-The close version preserves the source's accusations because accuracy must not hide them. The transmutation answers without attacking the worker. It names drudgery, refuses self-compulsion, and turns an individual failure story into a question of shared workload. Even the baker who feels no love remains a person whose bread may feed another.
-
-### Pre-industrial wisdom
-
-The teaching moves first through cultivation, weaving, house-building, and sowing. Stonework and shoemaking follow; bread and pressed fruit close it. None of these activities needs nostalgia to matter. Material and season stay close enough for the worker to see what the hands have done. Skill and use stay close as well. The dead endure through learned practice, not as supervisors at the shoulder.
-
-Gibran leaves the loveless worker at the temple gate. Phi brings them back to the table and asks who can take the next part of the work.

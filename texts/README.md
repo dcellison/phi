@@ -28,7 +28,7 @@ Short works each have one Markdown file. An author collection gets its own direc
 
 | Collection | Coverage | Text |
 |---|---|---|
-| Kahlil Gibran | Three teachings from *The Prophet*, with On Children rendered both ways. | [Open the collection](gibran/) |
+| Kahlil Gibran | Four complete teachings begin a close translation of *The Prophet*. | [Open the collection](gibran/) |
 
 ## Book-length work
 
