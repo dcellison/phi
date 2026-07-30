@@ -73,7 +73,7 @@ A new word records a pillar only when its connection is direct and specific. A w
 - [ ] **Keep the peace-linguistic refusal explicit**: Do not coin generic conflict or direct roots centred on violence, fighting, attack, defence, hunting, killing, weapons, enemies, or war; retain words that support care, consent, warning, testimony, accountability, protection, redress, and repair
 - [ ] **Prefer holistic concepts**: Combine rather than separate (e.g., womu = house+belonging, the dwelling-heart)
 - [ ] **Use compositional strategies**: Build complex ideas from simple roots
-- [ ] **Enable transmutation**: Concepts should reframe, not just translate (rebuild ideas from ground up using Phi concepts)
+- [ ] **Enable exact translation**: Concepts should carry difficult source claims without collapsing them into convenient near-synonyms
 - [ ] **Review refusals case by case**: A refusal must not obstruct care, self-identification, consent, safety, testimony, or philosophical critique
 - [ ] **Keep source artifacts outside Phi syntax**: Preserve foreign wording, source-form exact records and values, scripts, units, formulas, and identifiers in the surrounding medium while Phi points to, translates, or analyzes them; an integer from 0 through 242 may also be rendered internally when adequate
 - [ ] **Create semantic families**: Build interconnected word networks where shared roots illuminate meanings (mycelial approach)
@@ -116,7 +116,7 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 - Record only direct pillar connections, with a rationale specific to this word
 - Add `usage_notes` only when the entry needs guidance beyond its definition and examples
 - **Identify semantic family**: What roots does this share? What words does it illuminate?
-- **Check transmutation quality**: Does this enable reframing concepts, not just renaming?
+- **Check translation reach**: Does this let Phi carry a source distinction faithfully rather than merely renaming it?
 
 ### Step 5: Compositional Testing
 - Can this word combine with others meaningfully?
@@ -209,7 +209,7 @@ The protocol is a quality checklist, not a burden-of-proof process. Phi is a per
 - Treating efficiency or slowness as an unconditional virtue
 - Breaking core vowel hiatus or adding consonant clusters beyond the four digraphs
 - Creating words without testing composition and semantic-family relationships first
-- Presenting a word-for-word substitution as Phi where transmutation, explicit translation, or separate source presentation would be more honest
+- Presenting a word-for-word substitution as an adequate translation where composition, an explicit source gap, or separate source presentation would be more honest
 - Creating particles that violate slot positioning rules
 
 ## Core Philosophy Reminder
@@ -220,7 +220,7 @@ Every addition to Phi should make the following practices available without clai
 - Communication approached as collaborative art
 - Attention to ecological relationships and natural cycles
 - Semantic families that expose interconnection
-- Transmutation rather than automatic word substitution
+- Source fidelity rather than automatic word substitution
 - Faithful separate source presentation when Phi is not the right carrier
 
 **The constraints are part of the teaching. Their difficulty must earn its place in use.**
@@ -249,7 +249,7 @@ Install the pinned validation dependency with `python3 -m pip install --requirem
 - Validator evidence and ledgers → `/documents/validation/`
 - Python scripts → `/scripts/`
 - Manual content → `/manual/`
-- Literary translations, transmutations, and original Phi compositions → `/texts/`
+- Literary translations, source refusals, original Phi compositions, and the separately documented Morris project → `/texts/`
 - Focused deep-dives → `/pamphlets/`
 - Project operations and release records → `/project/`
 - Historical material → `/archive/` (never a reference for current canon)

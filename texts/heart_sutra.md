@@ -2,15 +2,15 @@
 
 *F. Max Müller's Smaller Pragñâ-pâramitâ-hridaya-sûtra begins with five gatherings. Within a few lines it counts each at zero. Form meets emptiness in both directions. The senses vanish from the inventory. Knowledge follows, then pain and the path. The last words cross to another shore.*
 
-*This page gives Müller's English a complete close Phi translation. It follows every proposition he prints. Where Müller writes "till we come to," the gap belongs to the ground truth. The translation does not claim to settle the Sanskrit behind this Victorian English text.*
+*This page gives Müller's English a complete Phi translation. It follows every proposition he prints. Where Müller writes "till we come to," the gap belongs to the ground truth. The translation does not claim to settle the Sanskrit behind this Victorian English text.*
 
 *The ground truth is Müller's 1894 translation in Buddhist Mahâyâna Texts, Sacred Books of the East, volume XLIX. It is stored verbatim in `texts/sources/buddhist_mahayana_texts_1894.txt`, and the citations retain the scan's spellings and broken words. The citations alone carry the personal names Avalokiteshvara and Sariputra. Prajnaparamita, Nirvana, and Svaha also remain there wherever a Phi description would falsely claim equivalence.*
 
-*Each block gives the Phi sentence, its word-by-word gloss, a literal English back-translation, and the source wording. The close rendering uses `nulo sholu sano`, deep complete knowing, for Prajnaparamita and `[whu se nelu nela wea nowae thalo] miona`, a revered person walking toward awakening, for the venerable Bodhisattva. They show how Phi approaches each relation; the source terms do the rest.*
+*Each block gives the Phi sentence, its word-by-word gloss, a literal English back-translation, and the source wording. The translation uses `nulo sholu sano`, deep complete knowing, for Prajnaparamita and `[whu se nelu nela wea nowae thalo] miona`, a revered person walking toward awakening, for the venerable Bodhisattva. They show how Phi approaches each relation; the source terms do the rest.*
 
 ---
 
-## Close translation
+## Translation
 
 ### Adoration and five gatherings
 
@@ -67,7 +67,7 @@ sense ALSO PROX hold. name ALSO PROX hold. concept ALSO PROX hold. know ALSO PRO
 muller: "' The same applies to perception, name, concep- tion, and knowledge.'"
 ```
 
-**Notes:** Müller's line supplies Sariputra's name; `kona miona` marks the direct address, and `shia to haolu` keeps the speech tag that follows it. `kire` is the form given to material and becomes form as an event noun. `whemoa` is the quality of an empty vessel and becomes emptiness in a noun position. The source denies difference twice, so the close translation repeats both directions instead of asking one symmetric relation to do the work. The four short clauses at the end let each listed term point back to the whole equation. Event-noun `morae` gives perception as an act of sensing, while `remole`, concept, separates Müller's conception from `remo`, the thinking activity used for mind below.
+**Notes:** Müller's line supplies Sariputra's name; `kona miona` marks the direct address, and `shia to haolu` keeps the speech tag that follows it. `kire` is the form given to material and becomes form as an event noun. `whemoa` is the quality of an empty vessel and becomes emptiness in a noun position. The source denies difference twice, so the translation repeats both directions instead of asking one symmetric relation to do the work. The four short clauses at the end let each listed term point back to the whole equation. Event-noun `morae` gives perception as an act of sensing, while `remole`, concept, separates Müller's conception from `remo`, the thinking activity used for mind below.
 
 ### The character of emptiness
 
@@ -259,7 +259,7 @@ kona nulo sano. thia ki wepu. thia ki wepu. thia kau phirae kerime ki wepu. thia
 | faultless and not faultless | holding no error and also holding error | Event-noun `kanelu` carries an error rather than a metaphysical fault. The positive and negative source claims both remain. |
 | not imperfect and not perfect | not what is incomplete, and not complete | Phi has no independent metaphysical imperfect quality. A headless relative places one negation inside another, so "not imperfect" remains intact before completeness is denied. |
 | ignorance; destruction | knowledge's emptiness; caused ending | Phi composes both ideas from the relation under discussion instead of turning them into independent technical roots. |
-| the omitted eighteen elements and causal links | Müller's printed abbreviations | The close translation does not reconstruct material absent from its English ground truth. |
+| the omitted eighteen elements and causal links | Müller's printed abbreviations | The translation does not reconstruct material absent from its English ground truth. |
 | obtaining Nirvana | no taking, with Nirvana in the source line | `pilu` gives obtaining the shape of reception; Phi does not supply its object. |
 | envelopment annihilated | consciousness around the person is caused to become an end | The force of ending survives, but Phi describes the spatial relation rather than naming annihilation. |
 | enjoying final Nirvana | pleasure felt from `sholu nulo shea`, complete deep peace | `nirelo` restores enjoyment, while the experience is stated without claiming that peace exhausts Nirvana. |

@@ -78,7 +78,7 @@ The chapters add sentence shapes in a fixed order, usually with a small set of w
 | 29 | Comparison *mo* and *mo ko*; *sheo* (than) | More and most |
 | 30 | Focus *ko*; only *li* | This one, only this one |
 
-**Capstone**: read the close translation of [*The North Wind and the Sun*](../texts/north_wind_and_sun.md) as an annotated bridge into the full corpus, then try its continuous Phi reading. The four-line blocks support vocabulary and grammar beyond the graded chapters, and the limits table shows where the source resisted. [The Metta Sutta](../texts/metta_sutta.md) then carries the language from household lessons into sustained compassionate expression.
+**Capstone**: read the translation of [*The North Wind and the Sun*](../texts/north_wind_and_sun.md) as an annotated bridge into the full corpus, then try its continuous Phi reading. The four-line blocks support vocabulary and grammar beyond the graded chapters, and the limits table shows where the source resisted. [The Metta Sutta](../texts/metta_sutta.md) then carries the language from household lessons into sustained compassionate expression.
 
 ## Status
 

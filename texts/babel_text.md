@@ -8,7 +8,7 @@
 
 ---
 
-## Close translation
+## Translation
 
 The King James story moves by command and consequence. Phi can follow that movement, but three source forms sit outside its sentences. Shinar and Babel have no community-approved Phi onyms, while LORD is a title Phi does not lexicalize. The citations present each form exactly. Inside Phi, the land is still land, the city receives a name, and the actor holds authority.
 

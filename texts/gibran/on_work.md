@@ -6,7 +6,7 @@
 
 ---
 
-## Close translation
+## Translation
 
 This is the whole teaching, from the farmer's request to the voices of day and night. The translation follows Gibran into his praise of work, his hierarchy of crafts, and his stern judgment of labour without love. Phi does not have to agree before it can listen accurately.
 
@@ -64,7 +64,7 @@ COND 2SG THROUGH labor life love. 2SG life CMPR FOC deep secret deep know.
 gibran: "And to love life through labour is to be intimate with life’s inmost secret."
 ```
 
-**Notes:** The opening farmer is a cultivator of a field rather than the operator of a named plough. `thimelo phelu`, hold pace, preserves the bodily rhythm of Gibran's first answer. The idle person is simply one who does not work, `ma riola`; the close translation does not smuggle in `wesha`, lazy, and its judgment belongs to Gibran. His procession becomes `lioru nuawe laniru`, life's shared journey. It goes with dignity towards an endless path and accepts that path's guidance with pride. Gibran's wording keeps the religious and hierarchical force of submission. Phi's natural time vocabulary has no hours, so `thimu whishela`, time's whisper, carries the flute image without importing the clock. A curse becomes a burden arising from harmful speech, while misfortune is harmful luck. One purpose within the dream stands for one part of it. Intimacy with the secret becomes deep knowledge, a closeness of understanding rather than an unmarked social relation.
+**Notes:** The opening farmer is a cultivator of a field rather than the operator of a named plough. `thimelo phelu`, hold pace, preserves the bodily rhythm of Gibran's first answer. The idle person is simply one who does not work, `ma riola`; the translation does not smuggle in `wesha`, lazy, and its judgment belongs to Gibran. His procession becomes `lioru nuawe laniru`, life's shared journey. It goes with dignity towards an endless path and accepts that path's guidance with pride. Gibran's wording keeps the religious and hierarchical force of submission. Phi's natural time vocabulary has no hours, so `thimu whishela`, time's whisper, carries the flute image without importing the clock. A curse becomes a burden arising from harmful speech, while misfortune is harmful luck. One purpose within the dream stands for one part of it. Intimacy with the secret becomes deep knowledge, a closeness of understanding rather than an unmarked social relation.
 
 ### Pain and the ladder
 

@@ -10,7 +10,7 @@ Automatic grammar frees attention for the utterance. Mindfulness still belongs t
 
 ## The language will keep growing
 
-Gaps remain in any language, and use will expose Phi's particular ones in journal margins, conversation, and texts that resist both translation and transmutation. Check the lexicon and compound registry first. Then weigh a transparent composition against coinage on their merits. A useful larger concept may deserve its own root even when a paraphrase is possible; a one-time exact identity may stay in an adjacent source record instead. The protocol keeps each decision visible and the shared lexicon coherent.
+Gaps remain in any language, and use will expose Phi's particular ones in journal margins, conversation, and difficult translations. Check the lexicon and compound registry first. Then weigh a transparent composition against coinage on their merits. A useful larger concept may deserve its own root even when a paraphrase is possible; a one-time exact identity may stay in an adjacent source record instead. The protocol keeps each decision visible and the shared lexicon coherent.
 
 ## The journey in the language's own words
 

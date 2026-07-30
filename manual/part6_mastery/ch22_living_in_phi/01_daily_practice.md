@@ -30,9 +30,9 @@ mia norawhi hi nila. mia shea phaelo.
 
 On a harder day the second sentence may be `mia nuhe phaelo`, *I feel sadness*. The exercise does not ask the feeling to improve before it can be written.
 
-## A recurring transmutation
+## A recurring translation
 
-Choose a recurring point in the week for one transmutation: a proverb, headline, or verse from chapter 22. Repeated retrieval can make vocabulary and grammar easier to reach, though the result may arrive unevenly and some sentences will continue to need the lexicon open.
+Choose a recurring point in the week for one short translation: a proverb, headline, or verse. Keep the source beside it, then check what the Phi preserves and where it needs a transparent description. Repeated retrieval can make vocabulary and grammar easier to reach, though the result may arrive unevenly and some sentences will continue to need the lexicon open.
 
 ## The rule of gentleness
 

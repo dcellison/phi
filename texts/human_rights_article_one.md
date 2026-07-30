@@ -6,7 +6,7 @@
 
 ---
 
-## Close translation
+## Translation
 
 Article 1 needs a right that can remain a right when an institution denies it, reason as a faculty rather than one offered justification, and a conscience distinct from awareness or a poetic knowing of the heart. `sherelo`, `remori`, and `sharino` supply those concepts. The rest comes from ordinary Phi grammar and existing words.
 

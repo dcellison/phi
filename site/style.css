@@ -2138,9 +2138,8 @@ table.primer-ladder {
   min-width: 0;
   padding-top: .75rem;
 }
-.text-index-method-translation,
-.text-index-method-paired { border-top-color: var(--gold); }
-.text-index-method-transmutation,
+.text-index-method-translation { border-top-color: var(--gold); }
+.text-index-method-refusal,
 .text-index-method-original { border-top-color: var(--sage); }
 .text-index-method header {
   align-items: start;
@@ -2276,11 +2275,10 @@ table.primer-ladder {
   margin: 0;
   text-align: right;
 }
-.text-index-entry-translation .text-index-entry-method,
-.text-index-entry-paired .text-index-entry-method {
+.text-index-entry-translation .text-index-entry-method {
   color: var(--gold);
 }
-.text-index-entry-transmutation .text-index-entry-method,
+.text-index-entry-refusal .text-index-entry-method,
 .text-index-entry-original .text-index-entry-method {
   color: var(--sage);
 }
@@ -2517,7 +2515,7 @@ table.primer-ladder {
 .text-translation-page .text-reading-map ol {
   grid-template-columns: repeat(auto-fit, minmax(8.5rem, 1fr));
 }
-.text-transmutation-page .text-reading-map ol {
+.text-refusal-page .text-reading-map ol {
   grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
 }
 .text-original-page .text-reading-map ol {
@@ -2560,7 +2558,6 @@ table.primer-ladder {
   margin-top: .14rem;
 }
 .text-rendering,
-.text-comparison,
 .text-complete-section,
 .text-apparatus,
 .text-context,
@@ -2600,11 +2597,7 @@ table.primer-ladder {
   stroke-width: 1.35;
   width: 2rem;
 }
-.text-transmutation-heading .text-section-icon { color: var(--sage); }
-.text-comparison-heading .text-section-icon {
-  color: var(--muted);
-  transform: rotate(90deg);
-}
+.text-refusal-heading .text-section-icon { color: var(--sage); }
 .text-complete-heading .text-section-icon { color: var(--sage); }
 .text-apparatus-heading .text-section-icon { color: var(--muted); }
 .text-context-heading .text-section-icon { color: var(--gold); }
@@ -2630,11 +2623,6 @@ table.primer-ladder {
   margin-bottom: .14rem;
 }
 .text-collection-page .text-rendering-kind { display: block; }
-.text-collection-page .text-transmutation + .text-translation,
-.text-collection-page .text-comparison + .text-transmutation {
-  border-top: 1px solid var(--gold);
-  padding-top: 1.25rem;
-}
 .text-collection-detail {
   border-top: 1px solid var(--gold);
   margin-top: 4rem;
@@ -2716,7 +2704,7 @@ table.primer-ladder {
   border-top: 1px solid var(--gold);
   padding-top: 1.25rem;
 }
-.text-transmutation-page .text-rendering + .text-rendering {
+.text-refusal-page .text-rendering + .text-rendering {
   border-top: 1px solid var(--hairline);
   padding-top: 1.25rem;
 }
@@ -2727,7 +2715,7 @@ table.primer-ladder {
   padding: 0 1.25rem;
 }
 .text-translation .text-interlinear { border-left: 2px solid var(--gold); }
-.text-transmutation .text-interlinear { border-left: 2px solid var(--sage); }
+.text-refusal .text-interlinear { border-left: 2px solid var(--sage); }
 .text-stanza {
   margin: 0;
   padding: 1rem 0 1.05rem;
@@ -2944,14 +2932,11 @@ table.primer-ladder {
   margin: 1.5rem 0 2rem;
   padding: 1rem 0;
 }
-.text-ring-refusal-page .text-transmutation .text-interlinear,
-.text-star-bond-page .text-transmutation .text-interlinear {
-  margin-left: 0;
-  margin-right: 0;
-}
-.text-ring-refusal-page .text-transmutation .text-interlinear {
+.text-ring-refusal-page .text-refusal .text-interlinear {
   background: var(--paper-raised);
   border-right: 1px solid var(--hairline);
+  margin-left: 0;
+  margin-right: 0;
 }
 .text-star-bond-page .text-rendering blockquote {
   border-left-color: var(--sage);
@@ -3017,7 +3002,6 @@ table.text-ledger {
   margin: 2rem 0 0;
   padding-top: 1rem;
 }
-.text-comparison { padding-top: 1rem; }
 .text-pillar-reflection {
   border-top: 1px solid var(--hairline);
   display: grid;
@@ -3034,14 +3018,6 @@ table.text-ledger {
 .text-pillar-reflection p {
   line-height: 1.62;
   margin: 0;
-}
-.text-comparison > p:last-child {
-  border-top: 1px solid var(--gold);
-  font-family: var(--serif);
-  font-size: 1.08rem;
-  line-height: 1.68;
-  margin: 2rem 0 0;
-  padding-top: 1rem;
 }
 .text-editorial code.phi-inline {
   -webkit-box-decoration-break: clone;
@@ -4422,7 +4398,7 @@ table.text-ledger {
   .text-translation-page .text-reading-map ol {
     grid-template-columns: minmax(0, 1fr);
   }
-  .text-transmutation-page .text-reading-map ol {
+  .text-refusal-page .text-reading-map ol {
     grid-template-columns: minmax(0, 1fr);
   }
   .text-original-page .text-reading-map ol {

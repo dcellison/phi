@@ -8,7 +8,7 @@ The manual moves through the language in this order:
 | II | Philosophy. |
 | III | Sounds. |
 | IV and V | Grammar. |
-| VI | Social practice, transmutation, and source material. |
+| VI | Social practice and source material. |
 | VII | Reference material. |
 | Appendices | Linguistic terms, comparisons with natural languages, and resources for further study. |
 

@@ -1,6 +1,6 @@
 # lothea thole — The Practice of Love
 
-*This close translation of the Karaniya Metta Sutta into Phi follows V. Fausböll's 1881 English and is the language's first complete text. It follows the source claim by claim, while the literal English stays close enough to expose every compromise. The notes and gap log name those compromises rather than quietly tidying them away.*
+*This translation of the Karaniya Metta Sutta into Phi follows V. Fausböll's 1881 English and is the language's first complete text. It follows the source claim by claim, while the literal English stays close enough to expose every compromise. The notes and gap log name those compromises rather than quietly tidying them away.*
 
 *The source is the Pali Karaniya Metta Sutta (Sn 1.8). The English ground truth is V. Fausböll's translation of the Sutta-Nipâta (Sacred Books of the East, volume X, part II, second edition; first published 1881), stored verbatim in `texts/sources/sutta_nipata_fausboll.txt`. Its scan spellings, broken words, and punctuation remain in the citations. All ten verses are represented.*
 
@@ -248,7 +248,7 @@ POST 3SG [PL sense pleasant crave] calm CAUS be 3SG NONE time INTO born parent b
 fausboll: "after subduing greediness for sensual pleasures, will never again go to a mother’s womb."
 ```
 
-**Notes:** `remo kire`, thought-shapes, is the registered composition for fixed views; `ma phelu` says that the person does not hold them. `taleri` gives virtue its own quality rather than replacing a disposition with one well-judged act. `sholu sorai` is complete insight; it accounts for perfection and the depth of vision. `lo morae nirelo` names sensory pleasures, and the event noun of `wurashi` names craving for them. Causative `shena ka nai` calms that craving, a close Phi rendering of subduing that does not borrow domination as a metaphor for the mind. `mawha thimu` says never, `turema` says return, and future `so` marks the prediction. `thowia phao mokura`, a birth parent's belly, keeps the womb concrete without pre-empting Phi's separate, scenario-led work on reproductive anatomy.
+**Notes:** `remo kire`, thought-shapes, is the registered composition for fixed views; `ma phelu` says that the person does not hold them. `taleri` gives virtue its own quality rather than replacing a disposition with one well-judged act. `sholu sorai` is complete insight; it accounts for perfection and the depth of vision. `lo morae nirelo` names sensory pleasures, and the event noun of `wurashi` names craving for them. Causative `shena ka nai` calms that craving, a Phi rendering of subduing that does not borrow domination as a metaphor for the mind. `mawha thimu` says never, `turema` says return, and future `so` marks the prediction. `thowia phao mokura`, a birth parent's belly, keeps the womb concrete without pre-empting Phi's separate, scenario-led work on reproductive anatomy.
 
 ---
 
@@ -337,4 +337,4 @@ The gap log records each place where Phi composes or narrows Fausböll's wording
 | perfect vision | `sholu sorai` | Complete insight accounts for vision and its perfection. |
 | greed for sensual pleasures | `lo morae nirelo wurashi shena ka nai` | Sensory pleasure stays distinct from craving; causative calm renders subduing without a domination metaphor. |
 | a mother's womb; never again | `thowia phao mokura`; `mawha thimu ... so turema` | A birth parent's belly is the nearest available anatomy; the prediction of no return remains explicit. |
-| optional vocabulary | `thesani`; `naseru`; `sharino`; `serathi`; `taleri`; `wurashi` | The close translation uses the full lexicon. Skill and obligation come from their existing paths; conscience, integrity, virtue, and craving use the modules in which their distinctions belong. |
+| optional vocabulary | `thesani`; `naseru`; `sharino`; `serathi`; `taleri`; `wurashi` | The translation uses the full lexicon. Skill and obligation come from their existing paths; conscience, integrity, virtue, and craving use the modules in which their distinctions belong. |

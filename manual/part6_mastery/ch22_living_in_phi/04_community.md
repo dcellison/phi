@@ -12,9 +12,9 @@ Two people are enough for an exchange. A partner, friend, child, or corresponden
 
 ## A circle
 
-A small group can form a practice circle. It can recite a metta verse in unison, work through one transmutation at a table, or test the disagreement language from chapter 21. The last activity matters because peace-oriented grammar still needs people to make difficult choices together.
+A small group can form a practice circle. It can recite a metta verse in unison, work through one short translation at a table, or test the disagreement language from chapter 21. The last activity matters because peace-oriented grammar still needs people to make difficult choices together.
 
-One possible structure is to let each gathering produce one modest artefact: a transmuted proverb, a proposed compound, or a few sentences written together. The object gives the next gathering somewhere concrete to begin.
+One possible structure is to let each gathering produce one modest artefact: a translated proverb with its source, a proposed compound, or a few sentences written together. The object gives the next gathering somewhere concrete to begin.
 
 ## The language as commons
 

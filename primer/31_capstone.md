@@ -12,7 +12,7 @@ A useful first pass stays with the annotated blocks until a sentence resists. Th
 
 Three roads leave the fable, in whatever order calls to you.
 
-[*The Metta Sutta*](../texts/metta_sutta.md) is a close translation of the loving-kindness meditation. It is harder than the fable, and a few lines at a time may be enough. Chapter twenty-seven introduced optative *su* over a garden and a parting; here the particle carries a whole practice of wishes and blessings.
+[*The Metta Sutta*](../texts/metta_sutta.md) is a translation of the loving-kindness meditation. It is harder than the fable, and a few lines at a time may be enough. Chapter twenty-seven introduced optative *su* over a garden and a parting; here the particle carries a whole practice of wishes and blessings.
 
 The three-line journal from chapter twelve remains available without becoming a daily quota. A time phrase such as *ha philo* can open whatever few sentences the day has given you. This is one place where the language can move from the page into ordinary thought.
 

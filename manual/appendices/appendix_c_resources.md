@@ -11,7 +11,7 @@ The manual is the teaching path. These are the other places the language keeps i
 | The short road | The whole language walked through in about twenty minutes |
 | The Phi book | Why the language works this way, tested against what linguistics can and cannot show |
 | The pamphlets | Focused companions with extended teaching, exercises, and answer keys |
-| The text shelf | Close translations, transmutations, and original Phi work, each beside its source |
+| The text shelf | Translations, original Phi work, and the Ring Verse refusal, with source witnesses where they apply |
 | Part VII, just behind you | The one-page grammar, the compound registry, and the lexicon listings |
 | The colophon | How Phi is made, and by whom |
 
@@ -26,7 +26,7 @@ The manual is the teaching path. These are the other places the language keeps i
 ## The philosophical roots
 
 - **Metta Sutta** (Sutta Nipāta 1.8) — many translations freely available; compare any of them with *lothea thole*.
-- **Nonviolent Communication** (Marshall Rosenberg) — the observation-feeling-request structure deliberately chosen in chapter 22's anger transmutation; Phi can express the pieces, but grammar does not choose them for the speaker.
+- **Nonviolent Communication** (Marshall Rosenberg) — Phi can express observation, feeling, and request as separate acts, but grammar does not choose that sequence for the speaker.
 - **Natural Semantic Metalanguage** (Wierzbicka & Goddard) — the semantic-primes research that shaped Phi's early vocabulary planning.
 - On peace linguistics: the field founded around Francisco Gomes de Matos's work on communicative peace.
 - On sufficiency and scale: E.F. Schumacher's *Small Is Beautiful*; on the critique of quantification, the literature on Goodhart's law and audit culture sits close to Phi's own refusals.
@@ -34,4 +34,4 @@ The manual is the teaching path. These are the other places the language keeps i
 
 ## Practicing
 
-There is no substitute for the practices of chapter 23: the morning sentence, the three-line journal, the weekly transmutation. The language's own texts are its best curriculum: read the Metta Sutta aloud until the refrain says itself, then read the fable until the wager scene parses without thinking. When both are easy, you are no longer studying Phi. You are speaking it.
+There is no substitute for the practices of chapter 22: the morning sentence, the three-line journal, the weekly translation. The language's own texts are its best curriculum: read the Metta Sutta aloud until the refrain says itself, then read the fable until the wager scene parses without thinking. When both are easy, you are no longer studying Phi. You are speaking it.

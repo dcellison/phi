@@ -6,7 +6,7 @@
 
 ---
 
-## Close translation
+## Translation
 
 The source is short enough that no detail needs to disappear. The whole wager and every bodily action remain, as does Aesop's moral judgment. Transparent compositions do most of the lexical work. One addition to base vocabulary, `sharemi` (persuade), gives the moral the distinction it requires.
 

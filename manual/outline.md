@@ -40,9 +40,8 @@ This is the manual at chapter scale. Page titles stay in their source files, and
 ## Part VI: Mastery
 
 - Chapter 21: Social context and nuance
-- Chapter 22: The art of transmutation
-- Chapter 23: Living in Phi
-- Chapter 24: Source material
+- Chapter 22: Living in Phi
+- Chapter 23: Source material
 
 ## Part VII: Reference
 

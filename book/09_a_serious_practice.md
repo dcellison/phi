@@ -128,4 +128,4 @@ Wilkie, Lowri, Zoe Fisher, Antonia Geidel, Isabel Goodall, Shannon Kamil, Elen D
 
 ### Phi sources
 
-The cat's exchanges are in the primer, `primer/04_at_the_door.md` among twenty-two of its chapters, with the habitual lesson in `primer/11_every_morning.md`; canon's own example of `ro` is the sleeping cat. The daily practices quoted are in `manual/part6_mastery/ch23_living_in_phi/01_daily_practice.md`, the journal form in `02_journaling.md`, and the meditation chapter's framing in `03_meditation.md`. The greeting and the optative are `kia` and `su` in the lexicon; the Metta Sutta is `texts/metta_sutta.md`.
+The cat's exchanges are in the primer, `primer/04_at_the_door.md` among twenty-two of its chapters, with the habitual lesson in `primer/11_every_morning.md`; canon's own example of `ro` is the sleeping cat. The daily practices quoted are in `manual/part6_mastery/ch22_living_in_phi/01_daily_practice.md`, the journal form in `02_journaling.md`, and the meditation chapter's framing in `03_meditation.md`. The greeting and the optative are `kia` and `su` in the lexicon; the Metta Sutta is `texts/metta_sutta.md`.

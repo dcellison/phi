@@ -398,4 +398,4 @@ cat RESTR food want.
 
 ## Coverage notes
 
-The primer also teaches, without needing patterns of their own: the pronouns `mia`, `thia`, and the many-I `lo mia` (we); nested announcements (`mua mia nuwera` — whose-grammar inside where-grammar, ch. 5); embedded `sola` choices inside `pha … pho` (ch. 20); and the stacking of everything above, since every pattern composes with every other by the one law — announce, then deliver. Transmutation itself — the reframing of concepts rather than the substitution of words — is deliberately not a pattern: it is judgment, taught by the texts, and no inventory can hold it.
+The primer also teaches, without needing patterns of their own: the pronouns `mia`, `thia`, and the many-I `lo mia` (we); nested announcements (`mua mia nuwera` — whose-grammar inside where-grammar, ch. 5); embedded `sola` choices inside `pha … pho` (ch. 20); and the stacking of everything above, since every pattern composes with every other by the one law — announce, then deliver. Source fidelity is likewise not a grammatical pattern. It is a judgement tested against each source, and no inventory can make it automatic.

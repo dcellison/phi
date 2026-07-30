@@ -6,7 +6,7 @@
 
 ---
 
-## Close translation
+## Translation
 
 This is the whole teaching, from the rich man's request to the freehearted earth and God. Wealth, baptism, myrtle, and God remain descriptions in Phi beside their exact source wording. Two recurring moral relations receive direct module words: `parelu` names a judgement of deservingness without confusing it with inherent worth, and `thaweno` names a reward without turning it into a gift or agreed exchange.
 

@@ -4,7 +4,7 @@
 
 Phi is a philosophical constructed language for practicing mindful and compassionate speech. It asks speakers to attend to the present utterance: what they know, what they intend, and how their words may enter a relationship. Its unhurried quality is freedom from needless haste, not a prescribed speaking speed.
 
-The language has one modifier-first organizing principle, regular forms, a lexicon past a thousand words, a literature shelf of translations, transmutations, and original work, and a published book asking what such a language can honestly claim.
+The language has one modifier-first organizing principle, regular forms, a lexicon past a thousand words, a literature shelf of translations and original work, and a published book asking what such a language can honestly claim.
 
 Everything below is rendered to **[dcellison.github.io/phi](https://dcellison.github.io/phi/)** on every merge; the site opens at hello and offers its doors from there. This page is the map of the repository.
 
@@ -15,9 +15,9 @@ Everything below is rendered to **[dcellison.github.io/phi](https://dcellison.gi
 | **The walk** | [short_road.md](short_road.md) | The whole language at walking pace: twenty minutes, one working example per idea. |
 | **The primer** | [primer/](primer/) | Learn Phi by reading it: a prelude, thirty graded chapters about one household, and a capstone. No prior knowledge assumed. |
 | **The book** | [book/](book/) | Narrative nonfiction for a general reader: why the language works this way, and what the sciences of language and mind let it claim. A cold open, fourteen chapters, a close, and a consolidated bibliography. |
-| **The manual** | [manual/](manual/) | The complete reference: phonology, the particle system, ternary numerals, social practice, source-material boundaries, translation, and transmutation. For verification and depth. |
+| **The manual** | [manual/](manual/) | The complete reference: phonology, the particle system, ternary numerals, social practice, source-material boundaries, and translation. For verification and depth. |
 | **The pamphlets** | [pamphlets/](pamphlets/) | Deep-dive companions to the manual: relative clauses and embedded speech, explained patiently, with exercises and answer keys. |
-| **The texts** | [texts/](texts/) | Phi's literature: close translations answer to their sources, transmutations declare their changes, and original works begin in Phi. The Ring Verse is a refusal, and *News from Nowhere* keeps its opening chapters together as one book. |
+| **The texts** | [texts/](texts/) | Phi's literature: translations answer to their sources, original works begin in Phi, and the Ring Verse receives a refusal rather than a softened rendering. *News from Nowhere* keeps its opening chapters together as one book. |
 | **The lexicon** | [explorer on the site](https://dcellison.github.io/phi/explore.html) | Every word and registered compound, with meanings and relations close at hand. |
 
 `documents/` says what the language **is**, the manual explains it, the primer teaches it, and the book asks **why**. `texts/` is where Phi is **read**; the pamphlets are where it is **practiced**.

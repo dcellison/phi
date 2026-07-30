@@ -18,7 +18,7 @@ That does not prove that every source claim has been translated. An omitted sent
 
 ## A whole shelf and one reader
 
-The shelf holds translations, transmutations, and original Phi compositions. Each work makes one promise and names it before the first rendering. The originals have no inherited author to answer to, which does not save them from answering for themselves.
+The shelf holds translations, original Phi compositions, and one refusal. Each work names its relationship to a source before the first rendering. The originals have no inherited author to answer to, which does not save them from answering for themselves.
 
 The Metta Sutta opens the shelf. Fables, sacred texts, political declarations, and children's stories follow. A translation of *A Solarpunk Manifesto* sits near the front, followed by an original dialogue about care and coercion. Original essays follow it, each opening on something domestic and arguing outward: a garden wall rebuilt after a storm, and whether it is the same wall; a friend's word at dusk that the footbridge is broken, and when a report is enough to act on; a fallen branch going quietly back into the ground with nobody there to price it. *News from Nowhere* has begun its planned thirty-two chapters. Literature is an accommodating word here: a declaration and a manifesto have been admitted without being made to pretend that they are novels.
 
@@ -40,7 +40,7 @@ That is why the shelf moves outward. *The Velveteen Rabbit* puts affection besid
 
 ## Three promises
 
-Every Phi text declares its method before the first rendering. A translation promises to remain answerable to the source's claims and distinctions as closely as Phi permits. A transmutation permits the source to change under Phi's five pillars and habits of thought. The methods do not borrow one another's names. A work that changes its source is not presented as a translation, and a translation does not improve its author by stealth.
+Every Phi text declares its relationship to a source before the first rendering. A translation promises to remain answerable to the source's claims and distinctions as closely as Phi permits. A refusal makes a new Phi answer beside the source and does not present that answer as the source author's work. A translation does not improve its author by stealth.
 
 An original makes a different promise. Phi comes first. English comes afterward and stays answerable to it. There is no inherited claim to preserve or recast, but the work still has to answer for what it says. A proposition record and vocabulary-pressure notes make that answer visible.
 
@@ -63,19 +63,19 @@ one finger circle UNIV REL different finger circle wear person coerce.
 (One finger-ring coerces everyone who wears a different finger-ring.)
 ```
 
-The refusal does not claim that Tolkien secretly wrote about `kawhera`, coercion. His inscription stays beside the work, while the Phi text declines to make ruler or lord ordinary roles. The gap log records the change from infinitive purpose to accusation and the decision to follow the other Rings to the people wearing them. Translation shows what Phi can carry while the source sets the terms. Transmutation accepts responsibility for setting different terms, on a different page.
+The refusal does not claim that Tolkien secretly wrote about `kawhera`, coercion. His inscription stays beside the work, while the Phi text declines to make ruler or lord ordinary roles. The notes record the change from infinitive purpose to accusation and the decision to follow the other Rings to the people wearing them. Translation shows what Phi can carry while the source sets the terms. A refusal accepts responsibility for its own terms, on a different page.
 
-The third method has no source to depart from, and four works on the shelf are written that way. In *When Care Becomes Coercion*, two friends argue in Phi about danger, refusal, evidence, and authority. The English beneath each line follows the Phi; it cannot quietly improve the reasoning or lend the speakers a distinction they did not make. The proposition record then shows where the argument revised itself and where it stopped without a complete conclusion.
+The third relationship has no source to depart from, and four works on the shelf are written that way. In *When Care Becomes Coercion*, two friends argue in Phi about danger, refusal, evidence, and authority. The English beneath each line follows the Phi; it cannot quietly improve the reasoning or lend the speakers a distinction they did not make. The proposition record then shows where the argument revised itself and where it stopped without a complete conclusion.
 
 ## The space between the lines
 
-A translated or transmuted block gives the reader four things: the Phi sentence, its exact lexicon gloss, a literal English back-translation, and the source wording. An original block gives the first three because Phi is the source. The gloss answers a narrow question about the words. The back-translation answers a harder one about the sentence those words actually made. In inherited work, the source line then shows what was gained, lost, or deliberately moved.
+A translated block gives the reader four things: the Phi sentence, its exact lexicon gloss, a literal English back-translation, and the source wording. The Ring refusal places Tolkien's wording before its three-line Phi answer. An original block also has three lines because Phi is the source. The gloss answers a narrow question about the words. The back-translation answers a harder one about the sentence those words actually made. In inherited work, the source line then shows what was gained or lost.
 
 Back-translation needs its own honesty because fluent English is very good at repairing a sentence without permission. In "The North Wind and the Sun," `tiripe` means *quiver*, not *whipped*, and a strong pull is not the same act as *tore*. Those stronger verbs belong to Aesop's line. Returning them to the English beside the Phi would make the translation look closer than it is.
 
 A translation then carries a limits table. Article 1's table records that `remori` names reason as a fallible faculty, while the source leaves that fallibility unstated. It places held obligation beside English *should* and explains why `lomea`, sibling, cannot preserve the gender in *brotherhood*. The Rabbit's table has harder nursery furniture to move: soldiers, Government, brigands, and money. Phi describes the relations; Williams keeps the names. The source survives, but surviving is not the same as arriving unchanged.
 
-A transmutation uses a gap log for a different purpose. The Ring Verse log records that Tolkien's inscription stays beside the passage, the surrounding stanza's lord and throne do not become Phi roles, and the four Phi lines name coercion and physical tying. *News from Nowhere* records where Hammersmith market becomes an exchange-place, clock hours yield to natural time, and exact London names remain with Morris. A gap log is not an apology tucked beneath the work. It is where the work signs its changes.
+A source-gap account has different work in the Ring refusal and the current *News from Nowhere*. The Ring's notes record that Tolkien's inscription stays beside the passage, the surrounding stanza's lord and throne do not become Phi roles, and the four Phi lines name coercion and physical tying. The Morris chapters record where Hammersmith market becomes an exchange-place, clock hours yield to natural time, and exact London names remain with Morris. The account is not an apology tucked beneath the work. It is where each departure is made visible.
 
 An original has no source gap to inventory. Its proposition record follows the claims instead: which evidence both speakers accept, which inference is challenged, what one speaker retracts, and what remains unanswered. A second record notes where the vocabulary had to work. In the care dialogue, the English umbrella *control* separates into authority, coercion, consent, and refusal; technical `ketora` never enters the room.
 
@@ -87,7 +87,7 @@ The validator checks more than quotations. It knows the whole lexicon. In a fenc
 
 Its competence has a clean edge. The validator can prove that `tiwa` exists and that its gloss is *tie*. Whether extending that physical tie metaphorically to Tolkien's *bind* makes an honest refusal lies beyond it. The code notices some prepositions with nowhere legal to stand, though it calls that check a net rather than a proof. A quotation missing one letter in a configured shelf citation fails; a complete set of perfectly cited bad judgments could pass.
 
-Source coverage therefore belongs to review as well as code. The corpus ledger asks whether every proposition and relation survives in a translation, whether every departure in a transmutation is deliberate, whether optional vocabulary earns the burden it places on a reader, and whether the English says only what the Phi says. For an original, it asks whether the proposition record matches the dialogue and whether an unresolved question was allowed to remain unresolved. It also records a decision to keep a transparent composition. A direct root is not automatically better merely because the lexicon has one.
+Source coverage therefore belongs to review as well as code. The corpus ledger asks whether every proposition and relation survives in a translation, whether each recorded departure in the Morris chapters is deliberate, whether optional vocabulary earns the burden it places on a reader, and whether the English says only what the Phi says. For an original, it asks whether the proposition record matches the dialogue and whether an unresolved question was allowed to remain unresolved. It also records a decision to keep a transparent composition. A direct root is not automatically better merely because the lexicon has one.
 
 The division of labor matters. Machines are excellent at refusing the same mistake for the thousandth time. People are better placed to decide whether the rule refusing it was sensible in the first place. The arrangement works only while neither party is credited with the other's judgment.
 
@@ -111,7 +111,7 @@ The same arrangement has an obvious weakness: the person who made the language a
 
 Nor is authored literature spontaneous speech. The writer may consult the lexicon, revise a clause six times, and discover on Thursday that Tuesday's elegant solution was using the wrong kind of *light*. Conversation does not usually pause for a schema search, though some conversations would benefit from one. Until Phi has recorded use by other people, the shelf cannot demonstrate acquisition, shared intuition, repair in real time, or the ordinary compression that speakers bring to a language they use together.
 
-Even source fidelity has only one primary judge at present. Tables and witnesses make that judge answerable, but they do not turn self-review into independent review. A future reader may find that a translation has hidden a relation, that a transmutation's gap log understates its departure, or that a poetic composition simply does not land. The corpus is built to make such disagreement local and repairable. It is not built to make disagreement impossible.
+Even source fidelity has only one primary judge at present. Tables and witnesses make that judge answerable, but they do not turn self-review into independent review. A future reader may find that a translation has hidden a relation, that a Morris chapter understates its departure, or that a poetic composition simply does not land. The corpus is built to make such disagreement local and repairable. It is not built to make disagreement impossible.
 
 Literature before community is therefore evidence of authored range, not evidence of adoption. Phi has carried stories and arguments under explicit constraints. It has also entered ritual language, bodily care, political claims, and sustained narrative. None of this shows that another person will want to carry them.
 
@@ -119,7 +119,7 @@ Literature before community is therefore evidence of authored range, not evidenc
 
 The absence of a community could have left Phi with a grammar, a dictionary, and many statements about what it might someday do. Instead, the shelf puts those claims into contact with writers who were not present when the language was designed. Morris insists on a price question. Aesop insists on persuasion. The United Nations insists on reason, conscience, and brotherhood. Phi may answer, approximate, or refuse, but the source line prevents it from pretending that the demand never arrived.
 
-A future community would receive more than a finished monument: readers could contest the decisions already recorded. Someone might question a translation choice, ask for a translation of a work that Phi has transmuted, find a gap the current notes missed, or bring a source whose pressure falls somewhere new. The literature does not pre-write the community's agreement. It gives disagreement a page number.
+A future community would receive more than a finished monument: readers could contest the decisions already recorded. Someone might question a translation choice, ask for a stricter translation of the current Morris chapters, find a gap the notes missed, or bring a source whose pressure falls somewhere new. The literature does not pre-write the community's agreement. It gives disagreement a page number.
 
 ## References
 

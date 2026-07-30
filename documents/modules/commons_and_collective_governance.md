@@ -86,7 +86,7 @@ Both words pass the lexical, example, character-neighbour, and phonetic-neighbou
 
 A `sherelo` is a normative right whose recognition or fulfillment may be contested. A `shereni` is a recognized and scoped entitlement. A denied human right therefore remains sayable as `sherelo`, while an institution's grain allotment may be a `shereni`; either claim still needs its source and circumstances.
 
-The close translation of [Article 1](../../texts/human_rights_article_one.md) puts the contrast in one place.
+The translation of [Article 1](../../texts/human_rights_article_one.md) puts the contrast in one place.
 
 It uses equal `sherelo` rights from birth; the narrower `shereni` entitlement would not carry the declaration's claim.
 

@@ -216,7 +216,7 @@ mia sharino mia phoa whakeru.
 (My conscience objects to my action.)
 ```
 
-The close translation of [Article 1](../../../texts/human_rights_article_one.md) tests all three distinctions in adjacent claims. It gives people equal rights, then presents reason and conscience as endowed faculties. The rendering draws on Commons `naseru` for the declaration's final obligation without moving that word into this learning path.
+The translation of [Article 1](../../../texts/human_rights_article_one.md) tests all three distinctions in adjacent claims. It gives people equal rights, then presents reason and conscience as endowed faculties. The rendering draws on Commons `naseru` for the declaration's final obligation without moving that word into this learning path.
 
 ## Deservingness and reward
 
@@ -234,7 +234,7 @@ PROX joy 3SG reward be.
 (This joy is their reward.)
 ```
 
-[On Giving](../../../texts/gibran/on_giving.md) needs both words in close translation. Gibran asks who deserves to receive and calls joy the giver's reward. Keeping the relations distinct lets Phi translate him without turning worth into desert or reward into gift.
+[On Giving](../../../texts/gibran/on_giving.md) needs both words in translation. Gibran asks who deserves to receive and calls joy the giver's reward. Keeping the relations distinct lets Phi translate him without turning worth into desert or reward into gift.
 
 ## Integrity, virtue, and craving
 
@@ -262,7 +262,7 @@ mia ha nuora rinu. whekai mia shia ma wurashi.
 (I want this food. However, I do not crave it.)
 ```
 
-The [Metta Sutta](../../../texts/metta_sutta.md) brings the three words into one close translation. Upright conduct uses `serathi`, virtue uses `taleri`, and greediness for sensory pleasure uses the event noun of `wurashi`. Conscientiousness stays compositional as careful attention to one's own `sharino`, so both the faculty and the act remain audible.
+The [Metta Sutta](../../../texts/metta_sutta.md) brings the three words into one translation. Upright conduct uses `serathi`, virtue uses `taleri`, and greediness for sensory pleasure uses the event noun of `wurashi`. Conscientiousness stays compositional as careful attention to one's own `sharino`, so both the faculty and the act remain audible.
 
 ## Doubt and confidence
 

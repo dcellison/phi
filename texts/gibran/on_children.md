@@ -6,7 +6,7 @@
 
 ---
 
-## Close translation
+## Translation
 
 The excerpt is the teaching entire, from the person holding a baby to the bow that is stable. The translation leaves Gibran's paradox whole and follows him into the weapon metaphor.
 
@@ -128,7 +128,7 @@ shia [whu wapi] lima tekari tiso thena lothea. shia we mureo [whu nira phelu] lu
 gibran: "For even as he loves the arrow that flies, so He loves also the bow that is stable."
 ```
 
-**Notes:** Phi has no bow, arrow, or archer root. The close translation therefore gives each object a visible body. A bow is a flexible cord-holding tool. An arrow is a straight, sharp thing that flies, alive because Gibran calls it so. The archer is the person who sends these things with the tool; plain action would leave that relation unnamed. The marker is the place towards which they fly. `puro`, strength, supplies the archer's might; the `lila` frame gives the purpose before the bending; and the path of the infinite becomes a path that holds no end. At the end, `senao keiro`, same way, carries the source's "even as ... so" parallel. Gibran's weapon terms and capitalised divine pronouns remain exact in the source lines.
+**Notes:** Phi has no bow, arrow, or archer root. The translation therefore gives each object a visible body. A bow is a flexible cord-holding tool. An arrow is a straight, sharp thing that flies, alive because Gibran calls it so. The archer is the person who sends these things with the tool; plain action would leave that relation unnamed. The marker is the place towards which they fly. `puro`, strength, supplies the archer's might; the `lila` frame gives the purpose before the bending; and the path of the infinite becomes a path that holds no end. At the end, `senao keiro`, same way, carries the source's "even as ... so" parallel. Gibran's weapon terms and capitalised divine pronouns remain exact in the source lines.
 
 ## Complete translation
 

@@ -47,7 +47,7 @@ Solarpunk keeps the future in view. Buddhist mindfulness and Right Speech contri
 
 The lexicon holds more than one thousand words, each checked against Phi's sound and structural rules. The primer teaches through one household; the manual gives the machinery room to spread out.
 
-The text shelf holds close translations, transmutations that declare where they recast a source, and works written directly in Phi. *The North Wind and the Sun* carries Aesop's complete fable into Phi, while the Ring Verse refusal shows what the other method permits. The shelf also holds the Metta Sutta, an original dialogue about care and coercion, and the opening chapters of *News from Nowhere*.
+The text shelf holds translations and works written directly in Phi. *The North Wind and the Sun* carries Aesop's complete fable into Phi, while the Ring Verse stands beside an original refusal rather than a softened version of Tolkien. The shelf also holds the Metta Sutta, an original dialogue about care and coercion, and the opening chapters of *News from Nowhere*.
 
 ## Seven doors
 
@@ -61,7 +61,7 @@ The manual waits behind **Verify**. It holds the full sound system and grammar, 
 
 **Consider** leads to the Phi book, which asks why the language works this way and tests its claims against linguistic evidence.
 
-**Read** opens the text shelf, where close translations keep their sources in view, transmutations declare their changes, and original compositions let Phi lead their English readings.
+**Read** opens the text shelf, where translations keep their sources in view, original compositions let Phi lead their English readings, and one small gold Ring is firmly shown the door.
 
 For longer lessons, exercises, and answers, **Practice** opens the pamphlets.
 

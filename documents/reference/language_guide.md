@@ -121,42 +121,15 @@ Use it to:
 
 ---
 
-## 6. Translation and transmutation
+## 6. Translation and source responsibility
 
-Phi carries a source by translation or transmutation. Neither practice substitutes words mechanically; both use Phi's own grammar and concept boundaries.
+Phi translates a source without treating its values as permission to improve another writer. A translation preserves the source's claims and distinctions, together with its important images, relationships, and force. Phi's grammar determines how those claims are built, but the source still determines what the translation must carry.
 
-A close **translation** preserves the source's claims and distinctions, together with its important images and force. When Phi must compose a source term or cannot keep a distinction whole, the notes name the loss. On the text shelf, the Metta Sutta tests philosophical precision, the Solarpunk Manifesto tests sustained political and cultural prose, and Aesop's fable and Schleicher's fable give Phi two familiar linguistic benchmarks.
+The work begins with a thorough search of the lexicon, compound registry, and grammar. A transparent description may keep a concept's parts visible; a recurring concept may need a new root. When Phi cannot keep a distinction whole, the notes name the distance instead of letting fluent English conceal it. The Metta Sutta tests philosophical precision, the Solarpunk Manifesto tests sustained political and cultural prose, and Aesop's fable and Schleicher's fable give Phi two familiar linguistic benchmarks.
 
-A **transmutation** makes a different promise. It understands the source and then rebuilds it through Phi's concepts, grammar, and philosophy, with permission to reframe or refuse what a translation would preserve. Exact source material remains outside the Phi passage whenever rebuilding would falsify wording or erase an identity that the record must keep.
+Some exact material belongs beside the Phi rather than inside it. Names, quotations, formulas, identifiers, source-script wording, and technical notation remain in the surrounding record when their exact form matters. The Phi passage may point to that record, describe it, translate it, or argue with it.
 
-### An example of transmutation
-
-Take an English sentence that describes the Solarpunk aesthetic:
-
-> "The aesthetics of solarpunk merge the practical with the beautiful, the well-designed with the green and lush, the bright and colorful with the earthy and solid."
-
-This exercise does not attempt a close translation. It chooses the relationships it wants to keep, then rebuilds them.
-
-#### 1. Choose the concepts
-
-The transmutation rebuilds four source concepts:
-
-*   "Aesthetics" becomes `lei ruela` (the path of harmony).
-*   "Practical" becomes `porua welao` (good for its purpose).
-*   "Lush" becomes `liro lioru` (green life).
-*   "Well-designed" becomes `thesua lorima` (mindful building).
-
-#### 2. Rebuild the structure
-
-The English sentence hangs every pair on the verb "merge." The Phi version gives each pair its own sentence, and repeated `lorea` supplies the rhythm.
-
-#### 3. Read the result
-
-*   **Phi:** `mua lei ruela porua welao nela mioru lorea. thesua lorima nela liro lioru lorea. keru nela muroa lorea.`
-*   **Gloss:** `in harmony path [purpose-good and beautiful] connect. [mindful-build and green life] connect. [bright and fertile] connect.`
-*   **Translation:** In the path of harmony, the practical and the beautiful connect. The well-designed and the green and lush connect. The bright and the fertile connect.
-
-The final form is Phi, but it does not claim to preserve every detail of the English sentence. It keeps the relationships the exercise chose and lets the rest fall away. That deliberate change is transmutation.
+An answer to a source is not presented as its translation. The Ring Verse therefore remains visible beside an original Phi refusal: Tolkien's line makes its own claim, and Phi makes another. Original Phi work takes the same responsibility from the other direction. Phi comes first, and the English beneath it must say exactly what the Phi says.
 
 ---
 

@@ -8,7 +8,7 @@ Phi takes neither. It leaves the source wording where the reader can see it, in 
 
 ## The act beneath the office
 
-Chapter 2 printed the case. Where Tolkien's verse crowns an office, the Phi line accuses an act, `kawhera`, coerce, and the last verb ties with a literal cord. What that chapter did not follow is the temptation the transmutation had to refuse first. The nearest respectable words are `kulo`, guide, and `theluo`, steward, and respectable is precisely the problem. An object seeking dominion has every reason to describe the position as stewardship, and the Ring would welcome either title on its papers.
+Chapter 2 printed the case. Where Tolkien's verse crowns an office, the Phi line accuses an act, `kawhera`, coerce, and the last verb ties with a literal cord. What that chapter did not follow is the temptation the refusal had to meet first. The nearest respectable words are `kulo`, guide, and `theluo`, steward, and respectable is precisely the problem. An object seeking dominion has every reason to describe the position as stewardship, and the Ring would welcome either title on its papers.
 
 `kawhera` gives it no such assistance. The word means closing practical alternatives through power or threat, and outside the verse it stays an accusation with work to do: in an ordinary dispute, the claim still has to answer to the demand, the power behind it, the alternatives that remained, and the affected person's account. The verse's last verb gets the same scrutiny from the other side. Calling the Ring's fastening a bond, `nolami`, the connection people form through experience and care, would make subjugation sound reciprocal. The gentler word would be the less truthful one.
 
@@ -80,4 +80,4 @@ United Nations General Assembly. 1948. Universal Declaration of Human Rights. A/
 
 ### Phi sources
 
-The Phi material in this chapter comes from `canon.md`, `project/development_protocol.md`, and `documents/design/word_shape_and_external_boundaries.md`. Source-boundary teaching is in `manual/part6_mastery/ch24_source_material/` and `pamphlets/source_material/`. Name teaching is in `pamphlets/naming/`, with the productive form checker in `scripts/name_forms.py`. The worked passages are in `texts/ring_verse_refusal.md` and `texts/human_rights_article_one.md`, with the exact UDHR witness in `texts/sources/udhr_1948.txt`.
+The Phi material in this chapter comes from `canon.md`, `project/development_protocol.md`, and `documents/design/word_shape_and_external_boundaries.md`. Source-boundary teaching is in `manual/part6_mastery/ch23_source_material/` and `pamphlets/source_material/`. Name teaching is in `pamphlets/naming/`, with the productive form checker in `scripts/name_forms.py`. The worked passages are in `texts/ring_verse_refusal.md` and `texts/human_rights_article_one.md`, with the exact UDHR witness in `texts/sources/udhr_1948.txt`.

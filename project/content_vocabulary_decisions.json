@@ -963,7 +963,7 @@
     },
     {
       "id": "babel-fidelity-repair",
-      "heading": "Babel translation and transmutation fidelity repair",
+      "heading": "Babel paired-rendering fidelity repair",
       "migration_status": "complete",
       "decision_status": "closed",
       "candidate_ids": [
@@ -5642,7 +5642,7 @@
       "concept": "turning aside, escaping, and making off as descriptions of one departure",
       "status": "compositional",
       "placement": "base direction, turning, manner, and flight vocabulary",
-      "summary": "Schleicher's German offers three descriptions of one motion rather than three successive departures. A turn towards the field followed by quick flight into it preserves the close reading; the transmutation keeps the quick flight alone. The separate verbs expose which part each rendering retains.",
+      "summary": "Schleicher's German offers three descriptions of one motion rather than three successive departures. A turn towards the field followed by quick flight into it preserves the close reading; the alternate rendering keeps the quick flight alone. The separate verbs expose which part each rendering retains.",
       "expressions": [
         "wea kosha rato",
         "kau kosha reshi phesari"
