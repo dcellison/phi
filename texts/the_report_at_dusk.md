@@ -1,4 +1,4 @@
-# shane weno phoa kirema heno: When a report is enough
+# shane weno phoa kirema heno: When a Report Is Enough
 
 A friend arrives at dusk and tells the speaker that the footbridge has broken. The speaker hears the friend but does not see the bridge. A child will use it in the morning, so someone must decide what one unverified report is enough to justify before the dark walk becomes a burden of its own.
 

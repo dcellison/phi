@@ -1,4 +1,4 @@
-# ta haluma — the Babel text
+# ta haluma — The Babel Text
 
 *For decades, the conlang community's handshake has been the same: show us your Babel text. Genesis 11:1-9 tells how one speech became many, and Jeffrey Henning proposed it as a standard conlang text in 1996. Phi uses the King James Version, the customary reference for this exercise, as its ground truth. The wording is stored in `texts/sources/kjv_genesis.txt` and cited below clause by clause.*
 

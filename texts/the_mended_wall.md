@@ -1,4 +1,4 @@
-# thena whori phelu: The thing holds its mending
+# thena whori phelu: The Thing Holds Its Mending
 
 A storm takes down a garden wall. A parent repairs it with stone, and today the cat is walking along the top as if the masonry had settled the question already. Anyone standing in the garden can ask whether this is the same wall. As it stands, the question has no answer, and the reason it has none turns out to be the interesting part.
 

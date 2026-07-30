@@ -1,4 +1,4 @@
-# naweri — the Ring Verse, refused
+# naweri — The Ring Verse, Refused
 
 *Among people who build languages, translating Tolkien's Ring Verse is a familiar custom. Phi answers the inscription with a refusal, but refusal cannot mean bleaching the menace away. Tolkien's words remain beside the Phi passage; the surrounding stanza's lords, throne, and other Rings are discussed without reproducing the rest. The four Phi lines turn the inscription's claims into accusations and decline to make ruler or lord ordinary roles. The verse is J. R. R. Tolkien's, from* The Lord of the Rings.
 

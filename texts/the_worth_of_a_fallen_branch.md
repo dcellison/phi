@@ -1,4 +1,4 @@
-# rolia sone ma phelona: Worth does not require a valuer
+# rolia sone ma phelona: Worth Does Not Require a Valuer
 
 A branch falls at the edge of a garden and stays there. Two summers pass without anyone valuing it or attending to it. When a speaker finally looks, moss is growing across its surface and insects are living inside. The branch did not wait for the visit. The harder question is whether its worth did.
 

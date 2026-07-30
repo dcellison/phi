@@ -1,4 +1,4 @@
-# thiku miona lue silero — from The Little Prince
+# thiku miona lue silero — Selections from The Little Prince
 
 *These three short passages come from Katherine Woods's 1943 English translation of Antoine de Saint-Exupéry's Le Petit Prince: the request for a sheep, the fox's secret, and the responsibility that follows taming. This page translates Woods's wording as it appears in those excerpts. Only the brief source lines under discussion are reproduced.*
 
