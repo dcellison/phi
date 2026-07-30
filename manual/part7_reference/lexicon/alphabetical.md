@@ -5,7 +5,7 @@
 
 # The Phi Lexicon: Alphabetical
 
-*1297 words.*
+*1299 words.*
 
 | Word | Gloss | IPA | Part of speech |
 |---|---|---|---|
@@ -758,6 +758,7 @@
 | `ralu` | free | /ˈrä.lu/ | adjective |
 | `rashelo` | run | /rä.ˈʃe̞.lo̞/ | verb |
 | `rashowe` | excited | /rä.ˈʃo̞.we̞/ | adjective |
+| `ratenu` | steep | /rä.ˈt̪e̞.n̪u/ | adjective |
 | `rato` | turn | /ˈrä.t̪o̞/ | verb |
 | `rei` | eighty-one-group | /ˈre̞.i/ | noun |
 | `relo` | symbol | /ˈre̞.lo̞/ | noun |
@@ -814,6 +815,7 @@
 | `sa` | HON.RESPECT | /ˈsä/ | particle |
 | `sahu` | forget | /ˈsä.hu/ | verb |
 | `sai` | ouch | /ˈsä.i/ | interjection |
+| `salenu` | unclothed | /sä.ˈle̞.n̪u/ | adjective |
 | `samethu` | equivalent | /sä.ˈme̞.θu/ | adjective |
 | `sano` | know | /ˈsä.n̪o̞/ | verb |
 | `sanowu` | predictable | /sä.ˈn̪o̞.wu/ | adjective |

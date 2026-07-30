@@ -325,10 +325,6 @@ The repaired paired section corrects a structural problem older vocabulary migra
 | Final comparison | Add `senao keiro` to both renderings | Additive `we` alone said also but did not carry the source's "even as ... so" relation. Same way restores the comparison without pretending the nouns match. |
 | Active dependencies | Update the paired page, its continuous translation, the manual shelf description, the review record, and phonetic-neighbour attestations | The repaired Phi lines recur nowhere else in the active corpus. Gibran's stored source, shelf links, registered compounds, and renderer structure remain unchanged. |
 
-### On Love legacy correction
-
-The whole-file sentence check exposed one older PHS111 error outside the paired On Children work. `lo ha` is a standalone plural pronoun, so the following noun phrase in `su lo ha thia pula nai` made its boundary unrecoverable. The repaired `su thia ha lo pula phelu`, may you hold these desires, repeats the source's possession through the same `phelu` used in the preceding condition. The cited Gibran line, stanza count, vocabulary, and method remain unchanged.
-
 ## Paired review: The Prophet, On Work
 
 The ground truth is the complete On Work teaching in Kahlil Gibran's 1923 *The Prophet*, stored in `texts/gibran/sources/the_prophet.txt`. The close translation and transmutation each follow all 32 source units in order. Both citation streams reconstruct the stored source exactly, and the continuous close reading has the same Phi sentence stream as the detailed blocks.
@@ -360,6 +356,24 @@ The ground truth is the complete On Giving teaching in Kahlil Gibran's 1923 *The
 | Gratitude, debt, and wings | Receivers take up no weight of gratitude, rise with the giver on gifts as wings, and avoid doubting the giver's divine parentage through overattention to debt. | Gratitude may be spoken without becoming a burden. The receiver keeps freedom to accept, refuse, or leave the relation without debt. |
 
 The two new roots are source-led but not source-specific. A council can dispute whether someone `parelu` redress, and a workshop can describe a `thaweno` promised after an act. Myrtle, baptism, God, pilgrimage, inheritance, and Gibran's metaphysical personification remain exact source identities beside material Phi descriptions. No registered compound or grammar is added.
+
+## Paired review: The Prophet, On Love
+
+The ground truth is the complete On Love teaching in Kahlil Gibran's 1923 *The Prophet*, stored in `texts/gibran/sources/the_prophet.txt`. The close translation follows all 35 source units in order; the transmutation has 36 stanzas because it separates Gibran's fearful search from his instruction to depart. Both citation streams reconstruct the same 2,403-character normalized source passage exactly, and the continuous close reading has the same Phi sentence stream as its detailed blocks.
+
+| Question | Close translation | Transmutation |
+|---|---|---|
+| Inclination and bodily state | Base `ratenu` restores steepness without making a slope fast. Base `salenu` directly names the unclothed result of threshing. | The path remains hard and steep, with rest still available. Grain keeps its coverings rather than borrowing a human clothing state. |
+| Existing direct vocabulary | `theisa`, `sheraki`, `henoi`, `rinu`, `nowae`, `thaeso`, `phimei`, `melira`, and `phanoi` replace physical-size words and older detours. | Loudness, sufficiency, desire, waking, midday, lips, song, and intense joy receive the same repairs wherever the deliberate answer does not change them. |
+| Worth and deservingness | `parelu` states that love finds its own guidance deserved; `rolia` no longer becomes a condition love tests. | The person remains `henoi`, enough, because the transmutation refuses Gibran's admission test rather than translating it. |
+| Yielding and consent | The listener accepts love when its wings enfold them. | Acceptance and refusal remain separate possible answers to both invitation and embrace. |
+| Crown, crucifixion, and grain-floor | The crown, tied wood, passive holding until death, pruning, threshing, sifting, grinding, folding, pressure, and sacred fire remain materially explicit. Their specialised or violent English identities stay in the citations. | Honour is separated from injury; people tend branches and roots, process actual grain, and place bread rather than a person in hearth fire. |
+| Fragment and participation | Event/result-noun `phanoi` makes the lover a small portion of Life's heart through the stated knowledge. | The person participates in Life without becoming material absorbed into another body. |
+| Fear and emotional wholeness | The close rendering keeps the seasonless world and incomplete laughter and tears as Gibran judges them. | Fear can speak. Staying and leaving remain free, and departure does not cost seasons or whole feeling. |
+| Devotional close | Blessing, thanks, a song of appreciation, and intense joy describe the acts and state while prayer, praise, and ecstacy remain exact in the source. | Life receives the thanks, the cherished person receives the blessing, and the final song keeps the singer's chosen address open. |
+| Grammar and derived English | Present tense returns to the grain-floor sequence; active `phelu` keeps love as the holder instead of making the listener hold something; `tei` takes the event noun "your death"; reason frames precede their subjects; `shia` no longer grows an English gender. | The same loudness, reason-frame, desire, waking, midday, and lip repairs apply without changing the transmutation's ethical direction. |
+
+The pass changes 19 of 35 close units and 9 of 36 transmutation units. It adds two base roots, no module membership, registered compound, function word, or grammar. `CV-GRAIN-01` and `CV-DEVOTION-01` preserve the compositional decisions around grain work, prayer, and praise; existing decisions continue to keep following and kneading compositional, pruning deferred, deservingness direct, and violence-centred roots declined.
 
 ## Paired review: Tao Te Ching selections
 
@@ -749,7 +763,7 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/babel_text.md` | Translation + transmutation | Reviewed | Complete KJV alignment, translation limits, deliberate Earth and sowing departures, and five-pillar comparison complete. |
 | `texts/human_rights_article_one.md` | Translation + transmutation | Reviewed | Paired source alignment, exact reason and conscience faculties, held obligation, translation limits, gap log, and five-pillar comparison complete. |
 | `texts/little_prince_excerpts.md` | Transmutation | Reviewed | The 36-form base-vocabulary work preserves all three short Woods excerpts, restores the current turn and passive invisibility, and makes its deliberate mutual bond and willing responsibility visible in the derived English. |
-| `texts/gibran/on_love.md` | Translation + transmutation | Reviewed | Seventy-one aligned stanzas cover the whole teaching twice; the comparison records every deliberate departure from Gibran's command, injury, grain-floor, and devotional imagery. |
+| `texts/gibran/on_love.md` | Translation + transmutation | Reviewed | Both complete citation streams reconstruct the 2,403-character source passage exactly. The fidelity pass changes 19 close units and 9 transmutation units, adds base `ratenu` and `salenu`, and records every deliberate departure from Gibran's command, injury, grain-floor, and devotional imagery. |
 | `texts/gibran/on_children.md` | Translation + transmutation | Reviewed | Complete source alignment, translation limits, and the five-pillar comparison are in place. |
 | `texts/gibran/on_giving.md` | Translation + transmutation | Reviewed | Both 33-unit renderings align with the complete source. D075 adds direct deservingness and reward, preserves exact source identities beside material descriptions, and records every deliberate transmutation departure. |
 | `texts/gibran/on_work.md` | Translation + transmutation | Reviewed | Both 32-unit renderings align exactly with the source, and the comparison records every deliberate divergence. |
