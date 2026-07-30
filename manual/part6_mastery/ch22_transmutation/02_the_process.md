@@ -30,7 +30,7 @@ Phi's shape is not English's shape. As you rebuild:
 
 Read the draft against the Five Pillars. Ask whether a number clarifies the source or merely ranks, whether an accusation names needed responsibility or turns disagreement into combat, and whether a borrowed hierarchy belongs to the source. Grammar will not answer those questions. It only keeps the available choices audible.
 
-Where the language resists the original, pause. An exact unit may need its source record, and an absent actor may need to remain visibly absent rather than being invented. Resistance is information, not permission to erase content. A transmutation may omit a detail when its source and the reason remain visible; a close translation must keep working until the relevant distinction has a place.
+Where the language resists the original, pause. An exact unit may need its source record, and an absent actor may need to remain visibly absent rather than being invented. Resistance is information, not permission to erase content. A transmutation may omit a detail when its source and the reason remain visible; a translation must keep working until the relevant distinction has a place.
 
 ## Step 5: Validate
 
@@ -48,7 +48,7 @@ When Phi cannot rebuild a line directly, ask what the line's virtue or mechanism
 
 ### The reframe
 
-Replace the source's imagery with imagery Phi already owns, at the same depth. In *The Little Prince*, taming becomes a mutual bond because the fox's own explanation makes relation, not training, the chosen centre of the passage.
+Rebuild a source image or institution around the relations the transmutation can defend. In *News from Nowhere*, Hammersmith market becomes `wisola lokue`, exchange-place. Morris's citations preserve market and selling; the Phi passage names food changing hands without smuggling currency into a society where money has disappeared.
 
 ### The lexical distinction
 
@@ -56,7 +56,7 @@ When several Phi words meet one English word, their descriptions and usage notes
 
 ### The grammar-led choice
 
-Let a ruling shape the sentence, and trust the push. *Becoming Real* fell to tense and aspect, the nursery magic `to ki kelu` already complete while toyhood `to te nai` ceased (*The Velveteen Rabbit*). In *The Little Prince*, perfective `ki` keeps the completed bond present when responsibility begins.
+Let a ruling shape the sentence, and trust the push. *Becoming Real* fell to tense and aspect, the nursery magic `to ki kelu` already complete while toyhood `to te nai` ceased (*The Velveteen Rabbit*).
 
 ### Composition
 

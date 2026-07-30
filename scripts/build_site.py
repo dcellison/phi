@@ -4930,7 +4930,7 @@ def apply_text_editorial(body, source, repo_path, treatment):
             '<span>paired teaching</span>'
         )
     elif treatment["form"] == "translation":
-        method_label = '<span>Close translation</span>'
+        method_label = '<span>Translation</span>'
     elif treatment["form"] == "transmutation":
         method_label = '<span>Transmutation</span>'
     else:
@@ -5200,7 +5200,7 @@ def texts_page(
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Phi literature in close translation, transmutation, and original composition, from the Metta Sutta to News from Nowhere.">
+<meta name="description" content="Phi literature in translation, transmutation, and original composition, from the Metta Sutta to News from Nowhere.">
 <title>Phi texts &mdash; {title}</title>
 <script src="{root_prefix}theme.js"></script>
 <script src="{root_prefix}reader.js" defer></script>
@@ -5741,13 +5741,12 @@ news_index_nav = (
 TEXT_CONTENTS_METHODS = (
     {
         "method": "Translation",
-        "label": "Close translation",
+        "label": "Translation",
         "kind": "translation",
         "icon": "translation",
         "description": (
-            "Close translation answers to the source's claims and "
-            "distinctions. It shows what Phi can carry when the source sets "
-            "the terms."
+            "Translation answers to the source's claims and distinctions. "
+            "It shows what Phi can carry when the source sets the terms."
         ),
     },
     {
@@ -5766,7 +5765,7 @@ TEXT_CONTENTS_METHODS = (
         "kind": "paired",
         "icon": "comparison",
         "description": (
-            "Paired renderings place close translation beside transmutation. "
+            "Paired renderings place a translation beside a transmutation. "
             "Their differences show what stayed near the source and what "
             "changed under Phi."
         ),
@@ -5822,7 +5821,7 @@ def text_collection_index(readme_source, collection, works):
     """Build one author-collection landing page from its README and catalogue."""
     collection_path = collection["path"]
     collection_method = {
-        "Translation": "Close translations",
+        "Translation": "Translations",
         "Transmutation": "Transmutations",
         "Translation + transmutation": "Translations and transmutations",
         "Original": "Original Phi works",
@@ -6162,8 +6161,8 @@ def text_contents_page(news_chapter_count):
         "<h1>The texts</h1>"
         '<p class="text-index-lede">This shelf holds work written in Phi and '
         "work brought into it. Each page says what it owes to a source. A "
-        "close translation and a transmutation can begin with the same "
-        "passage and end in different places.</p>"
+        "translation carries its source; a transmutation openly recasts it, "
+        "and original work begins in Phi.</p>"
         f'{texts_motif("words_seed")}'
         "</div>"
         "</header>"

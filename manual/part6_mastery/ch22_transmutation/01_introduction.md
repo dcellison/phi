@@ -2,7 +2,7 @@
 
 There is a question every learner eventually asks: "How do I say *X* in Phi?" And there is a moment, further along, when the question changes: "What would Phi *do* with this idea?" The distance between those two questions is the subject of this chapter.
 
-Translation and transmutation answer different questions. A close translation asks Phi to preserve the source's claims, distinctions, images, and force in sentences natural to the language. A transmutation asks what the source becomes when Phi's concepts and philosophy may change it. Neither practice is word-for-word substitution.
+Translation and transmutation answer different questions. A translation asks Phi to preserve the source's claims, distinctions, images, and force in sentences natural to the language. A transmutation asks what the source becomes when Phi's concepts and philosophy may change it. Neither practice is word-for-word substitution.
 
 Both practices meet the same resistance. Phi's analytic, verb-final grammar reorganises source sentence shapes. Its concept space draws different boundaries: `womu` names a home rather than every kind of house, while `kuri` names the right-hand bodily side rather than correctness or entitlement. Some vocabulary is absent by design. A translator treats the resistance as a problem to solve or a loss to name. A transmuter may choose the change, but the source and gap log must make that choice visible.
 
@@ -10,6 +10,6 @@ Both practices meet the same resistance. Phi's analytic, verb-final grammar reor
 
 The word comes from alchemy, where transmutation changes the substance rather than its label. A news article may become a community account that keeps its exact figures in a source record. An accusatory sentence may become an observation, feeling, and request. Those are editorial acts. The transmuter records them instead of pretending that Phi's grammar made them inevitable.
 
-The text shelf names the method used for each work. Its close translations range across fables, declarations, sacred writing, and four teachings from *The Prophet*: each claim in the chosen source remains answerable to the Phi. The Ring Verse refusal, three passages from *The Little Prince*, *The Velveteen Rabbit*, and *News from Nowhere* are transmutations. Their changes are part of the work rather than defects hidden behind a source citation.
+The text shelf names the method used for each work. Its translations range from fables and declarations to sacred writing. Four teachings from *The Prophet* and three passages from *The Little Prince* join them; each claim in the chosen source remains answerable to the Phi. The Ring Verse refusal, *The Velveteen Rabbit*, and *News from Nowhere* are transmutations. Their changes are part of the work rather than defects hidden behind a source citation.
 
 This chapter teaches transmutation. It still draws on choices visible in the Metta Sutta translation because both practices use composition and natural Phi grammar. Their obligations separate at the point of loss: a translation tries to repair it, while a transmutation may keep it and say why.

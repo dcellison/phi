@@ -102,7 +102,7 @@ Phi's peace-linguistic boundary was sharpened after a vocabulary audit found com
 
 Do not coin generic conflict or direct roots centred on violence, fighting, attack, defence, hunting, killing, weapons, enemies, or war. Do not normalize domination through rule, lordship, mastery, thrones, captivity, or master-and-servant metaphor. Do not use combat vocabulary as a casual metaphor for argument, debugging, design, medicine, or governance.
 
-This refusal does not require silence. Phi keeps direct language for danger, harm, injury, coercion, protection, warning, testimony, responsibility, accountability, redress, repair, and refusal. Faithful source material may preserve violent wording outside Phi. A close translation can describe the mechanism explicitly. A transmutation may refuse its direction only after the source has been heard.
+This refusal does not require silence. Phi keeps direct language for danger, harm, injury, coercion, protection, warning, testimony, responsibility, accountability, redress, repair, and refusal. Faithful source material may preserve violent wording outside Phi. A translation can describe the mechanism explicitly. A transmutation may refuse its direction only after the source has been heard.
 
 Phi has no general verb for "hit." `kema palo` reports forceful contact. Movement, damage, and bodily injury receive their own claims through `pesa`, `pukeri`, and `kaworu`. The retired `patore` cannot return to vocabulary, though a bearer may choose it as a valid onym.
 
@@ -137,7 +137,7 @@ A translation preserves the source's propositions, relations, images, and diffic
 
 A transmutation lets the source pass through Phi's five pillars and conceptual habits. That freedom does not permit lazy approximation. The Phi must agree with its exact gloss and back-translation, and the notes must identify deliberate changes and remaining losses.
 
-The literary shelf gives each source-led work one declared method. Close translation carries the source's propositions, relations, images, and difficult material as faithfully as Phi permits. Transmutation openly changes a source under Phi's five pillars and records every departure. Original Phi writing is the proper home for arguments that belong to Phi itself. *News from Nowhere* remains a transmutation-only 32-chapter project unless Daniel changes the plan.
+The literary shelf gives each source-led work one declared method. Translation carries the source's propositions, relations, images, and difficult material as faithfully as Phi permits. Transmutation openly changes a source under Phi's five pillars and records every departure. Original Phi writing is the proper home for arguments that belong to Phi itself. *News from Nowhere* remains a transmutation-only 32-chapter project unless Daniel changes the plan.
 
 In *News from Nowhere*, the narrator and the future people share the full vocabulary, including optional modules. Any new root keeps the three-syllable lexical ceiling; only a productive name may reach four syllables.
 

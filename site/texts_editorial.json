@@ -436,35 +436,31 @@
       "inner_dividers": 1
     },
     "texts/little_prince_excerpts.md": {
-      "form": "transmutation",
+      "form": "translation",
       "phi_title": "thiku miona lue silero",
       "motif": "star_bond",
       "sections": [
         {
-          "title": "The request",
-          "kind": "transmutation"
+          "title": "Translation",
+          "kind": "translation"
         },
         {
-          "title": "The secret",
-          "kind": "transmutation"
+          "title": "Complete translation",
+          "kind": "complete"
         },
         {
-          "title": "The responsibility",
-          "kind": "transmutation"
-        },
-        {
-          "title": "What the transmutation changed",
+          "title": "Translation limits",
           "kind": "apparatus"
         }
       ],
       "opening_paragraphs": 2,
-      "interlinear_blocks": 0,
-      "interlinear_stanzas": 0,
-      "source_free_blocks": 3,
-      "source_free_stanzas": 5,
-      "complete_readings": 0,
+      "interlinear_blocks": 3,
+      "interlinear_stanzas": 5,
+      "source_free_blocks": 0,
+      "source_free_stanzas": 0,
+      "complete_readings": 1,
       "notes": 3,
-      "tables": 0,
+      "tables": 1,
       "pillar_sections": 0,
       "inner_dividers": 0
     },

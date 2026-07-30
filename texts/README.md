@@ -16,19 +16,19 @@ Short works each have one Markdown file. An author collection gets its own direc
 | Worth does not require a valuer | Original | An essay on a fallen branch where a failed grammatical proof leaves a smaller claim about worth and a reason to attend. | [Read](the_worth_of_a_fallen_branch.md) |
 | The North Wind and the Sun | Translation | The complete fable, followed by its translation limits. | [Read](north_wind_and_sun.md) |
 | Universal Declaration of Human Rights, Article 1 | Translation | Both sentences, with rights, reason, conscience, and obligation kept distinct. | [Read](human_rights_article_one.md) |
-| The Babel text | Translation | Genesis 11:1-9 in close Phi translation. | [Read](babel_text.md) |
+| The Babel text | Translation | Genesis 11:1-9 in Phi translation. | [Read](babel_text.md) |
 | The Ring Verse | Transmutation | The familiar four lines answered with a refusal. | [Read](ring_verse_refusal.md) |
 | Schleicher's fable | Translation | The complete fable beside a controlled English source. | [Read](schleicher_fable.md) |
-| The Little Prince, selections | Transmutation | Three short passages from Katherine Woods's translation. | [Read](little_prince_excerpts.md) |
+| The Little Prince, selections | Translation | Three passages from Katherine Woods: the sheep, the secret, and responsibility for the tamed animal. | [Read](little_prince_excerpts.md) |
 | The Velveteen Rabbit | Transmutation | The complete story. | [Read](velveteen_rabbit.md) |
-| Tao Te Ching, selections | Translation | Legge's chapters 8, 11, 17, 63, and 76 in complete close translation. | [Read](tao_te_ching.md) |
-| The Heart Sutra | Translation | Müller's smaller Heart Sutra in complete close translation. | [Read](heart_sutra.md) |
+| Tao Te Ching, selections | Translation | Legge's chapters 8, 11, 17, 63, and 76 in full Phi translation. | [Read](tao_te_ching.md) |
+| The Heart Sutra | Translation | Müller's smaller Heart Sutra in full Phi translation. | [Read](heart_sutra.md) |
 
 ## Author collections
 
 | Collection | Coverage | Text |
 |---|---|---|
-| Kahlil Gibran | Four complete teachings begin a close translation of *The Prophet*. | [Open the collection](gibran/) |
+| Kahlil Gibran | Four complete teachings begin a translation of *The Prophet*. | [Open the collection](gibran/) |
 
 ## Book-length work
 
