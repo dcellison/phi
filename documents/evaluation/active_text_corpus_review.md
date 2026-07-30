@@ -409,6 +409,19 @@ D081 changes 29 aligned stanzas and presents the work solely as a translation. I
 | Vocabulary boundary | Add no root | Existing base and module vocabulary can carry the story. Expense, military service, government, hatred, brigandage, exact time, named products, and gem identities remain transparent descriptions or source-bound terms where Phi's philosophy does not support a general lexical root. |
 | Active dependencies | Update the story, catalogue, teaching references, shelf renderer contract, review ledger, progress records, handoff, and phonetic-neighbour attestations | Targeted validation checks the Phi, exact glosses, continuous reading, citations, and source reconstruction before full repository validation. |
 
+### Post-conversion fidelity confirmation
+
+D083 rereads all 427 aligned stanzas against Williams rather than limiting review to the D081 conversion diff. Eleven stanzas change. The 429 citations still reconstruct all 20,292 normalized characters of the stored story after Gutenberg's illustration captions are excluded, and the detailed Phi still matches the 22,372-character continuous reading.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| Pretence and deception | Use `phea ... phoa` for acting like a Real toy or governance-institution member; remove `peshu` | Williams reports pretence but does not establish the knowledge and intent required by Phi's verb for lying. The action remains visible without adding a performance root. |
+| Pain and careful keeping | Use `kelomi` for accepting pain and retain only `thesa` in carefully kept | `pheru` changed "don't mind being hurt" into endurance under pressure, while added `moli` supplied gentleness that Williams did not state. The revision keeps the source's difficult claim without enlarging it. |
+| Notice, discomfort, and fuss | Use `theonu`, little `thuleni`, and `wipha phoa` | Seeing is weaker than taking notice, negated contentment is not bodily discomfort, and `theko` is skilled craft rather than fuss. Existing vocabulary carries all three distinctions. |
+| Splendid rabbits and games | Use `ru mioru` for the rabbits and `ru welao` for the games | `horae` means light or delight reaching outward. Williams's general praise does not make either toy or game radiant. |
+| Thought before action | Restore `pha miso hina phoa pho` under `remo` | The earlier phrase said only "before thought." The framed content question preserves "before he thought what he was doing" and remains unambiguous under the question-complement rule. |
+| Vocabulary boundary | Add no root, module membership, registered compound, or grammar | Every correction uses the completed lexicon. The source-bound treatment of military service, Government, hatred, brigandage, exact time, named products, gems, and Fairy remains unchanged. |
+
 ## Transmutation review: News from Nowhere, chapter 1
 
 Morris's first chapter has 85 aligned source units. The revised Phi uses 232 unique forms. Six optional roots enter through four modules: Commons and Collective Governance, Household and Daily Life, Philosophical Reasoning, and Systems and Shared Infrastructure. The chapter needs those distinctions, but it still does most of its work in base vocabulary.
@@ -594,7 +607,7 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/tao_te_ching.md` | Translation | Reviewed | All 51 Legge units align in order, and the continuous reading follows every proposition in the detailed translation. |
 | `texts/heart_sutra.md` | Translation | Reviewed | All 34 Müller units align in order, and the translation preserves every printed proposition in the selected witness. |
 | `texts/ring_verse_refusal.md` | Transmutation | Reviewed | The 17-form base-only refusal keeps Tolkien's inscription exact, narrows its affected people to wearers of the other Rings, and records the deliberate change from purpose to accusation. |
-| `texts/velveteen_rabbit.md` | Translation | Reviewed | The 429 exact Williams fragments align across 427 Phi stanzas and reconstruct the stored story in order. D081 changes 29 stanzas, adds a matching continuous reading, and records the remaining descriptive limits without adding vocabulary. |
+| `texts/velveteen_rabbit.md` | Translation | Reviewed | The 429 exact Williams fragments align across 427 Phi stanzas and reconstruct the stored story in order. D083 rereads all 427 units after the translation conversion, changes eleven stanzas, and confirms the matching continuous reading without adding vocabulary. |
 | `texts/news_from_nowhere/chapter_01.md` | Transmutation | Reviewed | The 85-unit post-migration pass changes 29 units and uses six optional roots across four modules without altering Morris's source lines. |
 | `texts/news_from_nowhere/chapter_02.md` | Transmutation | Reviewed | The 241-unit post-migration pass changes 57 units and uses five optional roots with seven memberships across four modules without altering Morris's source lines. |
 | `texts/news_from_nowhere/chapter_03.md` | Transmutation | Reviewed | The 245-unit post-migration pass changes 46 units and uses 14 optional roots with 15 memberships across five modules without altering Morris's source lines. |
