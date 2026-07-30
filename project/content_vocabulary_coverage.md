@@ -1742,20 +1742,20 @@ The batch adds one Work, Craft, and Repair root and one module membership. It ad
 
 ## The Little Prince excerpt fidelity repair
 
-The three Katherine Woods quotations are the complete source witness available to this page. The fidelity review keeps their copyrighted wording short, checks each Phi unit against the words it actually contains, and records where the transmutation deliberately changes rank, taming, and responsibility.
+The three Katherine Woods quotations are the complete source witness available to this page. The fidelity review keeps their copyrighted wording short, stores them as one compact witness, and checks each translation unit through its Phi, exact gloss, and derived English.
 
 | Conceptual test | Present resources or decision | Status | Finding |
 |---|---|---|---|
-| Exact work title and three short Woods quotations | adjacent source excerpts and `CV-ART-03` | **SOURCE-BOUND** | The page preserves only the quoted lines needed for the three transmutations. No stored source witness or expanded English passage is required. |
+| Exact work title and three short Woods quotations | adjacent source excerpts and `CV-ART-03` | **SOURCE-BOUND** | The page preserves only the quoted lines needed for the three translations. Its five citations reconstruct the stored 238-character witness in order. |
 | Prince as a source rank | the exact English title, `thiku miona lue silero`, and `CV-ROLE-01` | **SOURCE-BOUND** | The source keeps Prince. Phi describes a small person from the stars without turning inherited rank into a reusable role word. |
 | Drawing a sheep | `kire`, `mophira`, and `CV-ART-01` | **COMPOSITIONAL** | `kire` includes a pencil giving a subject its drawn outline. The derived English can therefore say "draw" while the exact gloss remains shape. |
 | The current turn, simplicity, essentiality, and right seeing | `nosa`, `siloma`, `noetha`, and `theali nila` | **COMPOSITIONAL** | Existing base roots carry every distinction. `nosa` restores Woods's "now"; the intensifier belongs to simple; and `theali` is explicitly licensed as fitting manner before seeing. |
 | Invisibility to the singular eye | headless `whu noetha nai`, instrumental `roe mirae`, passive `se`, potential `po`, negation `ma`, and `CV-ACCESS-07` | **COMPOSITIONAL** | The essential thing remains the subject and cannot be seen with the eye. A dedicated visible or invisible adjective would hide the perceptual relation already stated by the clause. |
 | Forever | `theula thimu` and `CV-TIME-02` | **COMPOSITIONAL** | All time supplies the unbounded duration as a modifier-first fragment without importing exact clock or calendar measurement. |
-| Exact taming and the transmuted mutual bond | `nolika woenu ka kelu`, `nolami`, and `CV-ANIMAL-04` | **COMPOSITIONAL** | Phi can describe caused habituation to people when taming itself matters. The transmutation instead follows the fox's explanation and makes the other being a participant in a mutual bond. |
-| Responsibility after the bond | `thonai kelu` and `CV-PHIL-09` | **COMPOSITIONAL** | `thonai` is willingly assumed care or answerability. The derived English now makes that willingness audible instead of repeating Woods's unqualified "responsible." |
+| Taming and mutual bond | `whu thia woenu ki ka kelu nolika`, `nolami`, and `CV-ANIMAL-04` | **COMPOSITIONAL** | The translation describes the completed act of causing an animal to become tame. `nolami` remains available for a mutual bond, but it no longer substitutes one relation for the other. |
+| Responsibility after taming | `naseru pa phelu`, `theula thimu`, `thonai`, and `CV-PHIL-09` | **COMPOSITIONAL** | Inchoative holding gives the responsibility a beginning, and the repeated obligation lasts through all time. `naseru` avoids the willing acceptance that `thonai` would add to Woods's wording. |
 
-The batch adds no root, module membership, compound, or grammar. Its lexical result is a sharper division between what Phi can translate compositionally and what this transmutation chooses to change.
+The batch adds no root, module membership, compound, or grammar. The post-conversion sweep confirms all seven assertions and brings this lexical record into line with the finished translation.
 
 ## Ring Verse refusal fidelity repair
 

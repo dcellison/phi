@@ -312,6 +312,10 @@ The page was translated afresh rather than repaired around its former relational
 | Optional module vocabulary | Use shared Commons and Work `naseru` | Responsibility as obligation is the specialist distinction the final excerpt needs. All other forms remain base or function vocabulary. |
 | Active dependencies | Update the page, source registry, catalogue, renderer contract, teaching references, review ledger, progress records, and phonetic-neighbour attestations | The detailed and continuous Phi streams must remain identical, and every Woods fragment must match the compact witness. |
 
+### Post-conversion fidelity sweep
+
+D082 checks the finished translation again rather than relying on the conversion decision. Its five citations reconstruct all 238 normalized characters of the stored Woods witness in order. The detailed blocks and complete reading contain the same seven Phi assertions; their lexicon glosses, syntax, and derived English all agree. The animal head in the last passage remains a deliberate narrowing: in the present construction it ends the relative before `naseru`, which would otherwise be available as the head noun. No Phi line changes, and no new lexical decision is needed. The audit does repair the older coverage record, which still described `nolami` and willing `thonai` as choices made by a transmutation.
+
 ## Transmutation review: the Ring Verse refusal
 
 The page quotes Tolkien's inscription and answers it with four Phi lines rather than promising a translation. Its title and passage use 17 unique forms, all from base or function vocabulary. The first shelf rebuild correctly separated coercion and physical tying from guidance and mutual bond, but it widened the contextual **them** to all people. The stricter pass repairs that referent without softening the refusal.
@@ -582,7 +586,7 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/schleicher_fable.md` | Translation | Reviewed | D074 adds direct shearing, removes a quoted fragment, restores cessative possession, treats the final glosses as one motion, and makes the citation stream reconstruct the stored source body exactly. |
 | `texts/babel_text.md` | Translation | Reviewed | Complete KJV alignment, continuous reading, and translation limits complete. |
 | `texts/human_rights_article_one.md` | Translation | Reviewed | Exact rights, reason, conscience, held obligation, source alignment, and translation limits complete. |
-| `texts/little_prince_excerpts.md` | Translation | Reviewed | Five interlinear units and seven assertions align with the three stored Woods excerpts. The 40-form rendering preserves the current turn, passive invisibility, taming, and obligation while recording Phi's narrower animal head. |
+| `texts/little_prince_excerpts.md` | Translation | Reviewed | D082 confirms that five citations reconstruct the 238-character Woods witness and that all seven assertions align through Phi, exact gloss, and derived English. The 40-form rendering preserves the current turn, passive invisibility, taming, and obligation while recording Phi's narrower animal head. |
 | `texts/gibran/on_love.md` | Translation | Reviewed | The complete 35-unit citation stream reconstructs the 2,403-character source passage exactly. The fidelity pass changes 19 units and adds base `ratenu` and `salenu`. |
 | `texts/gibran/on_children.md` | Translation | Reviewed | All 18 source units align, the continuous reading matches the detailed blocks, and the limits table records Phi's material treatment of the archery scene. |
 | `texts/gibran/on_giving.md` | Translation | Reviewed | All 33 source units align. D075 adds direct deservingness and reward while preserving exact source identities beside material descriptions. |
