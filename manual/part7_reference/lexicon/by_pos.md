@@ -8,7 +8,7 @@
 *Content words appear under their listed lexical class. A rule-supplied event or quality noun does not add another class to the entry. Function words are grouped by grammatical class.*
 
 
-## adjective (218)
+## adjective (220)
 
 | Word | Gloss |
 |---|---|
@@ -134,10 +134,12 @@
 | `ralemi` | independent |
 | `ralu` | free |
 | `rashowe` | excited |
+| `ratenu` | steep |
 | `reshi` | fast |
 | `ruesha` | compassionate |
 | `ruka` | complex |
 | `rulo` | red |
+| `salenu` | unclothed |
 | `samethu` | equivalent |
 | `sanowu` | predictable |
 | `saphei` | shallow |

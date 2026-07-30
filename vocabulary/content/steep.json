@@ -1,0 +1,32 @@
+{
+  "word": "ratenu",
+  "gloss": "steep",
+  "ipa": "/rä.ˈt̪e̞.n̪u/",
+  "syllables": [
+    "ra",
+    "te",
+    "nu"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "strong incline",
+    "sharp slope"
+  ],
+  "description": "A lane that gains much height over a short stretch is 'ratenu'. The adjective describes a path, roof, slope, or face that rises or falls sharply along its course. 'raelu' (tall) says where something stands or how far it extends vertically; 'ratenu' says how strongly it inclines, so a low roof may still be steep.",
+  "articulatory_notes": "Tap or briefly trill the tongue tip at the alveolar ridge for 'r', then open into central 'a'. Place the tongue tip against the backs of the upper front teeth for unvoiced dental 't' and release into stressed middle-height front 'e'. Return the tongue tip to the teeth for voiced dental 'n', let air pass through the nose, and finish with high-back rounded 'u'.",
+  "sound_symbolism": "The open first syllable narrows through two dental contacts and ends with rounded lips. That gathering shape can recall the effort of a path pitching upwards.",
+  "usage_notes": "'ratenu' belongs before a route or surface and can predicate with 'nai'. It gives inclination without choosing a direction: uphill and downhill remain separate relations in the surrounding sentence.",
+  "examples": [
+    {
+      "phi": "ha ruela ratenu nai.",
+      "translation": "This path is steep."
+    }
+  ],
+  "pillars": {
+    "pre-industrial-wisdom": "The incline of a path, roof, field, or watercourse matters to feet, wheels, drainage, and hand work before it matters to a number."
+  },
+  "semantic_domains": {
+    "physical": "a surface whose height changes sharply along its course",
+    "spatial": "strong inclination in a path, slope, roof, or face"
+  }
+}

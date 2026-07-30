@@ -1,6 +1,6 @@
 # Current state
 
-This snapshot was first assembled after pull request #418 merged on 17 July 2026 and is current through pull request #657 on 29 July 2026 plus the pending On Work fidelity repair under D076. It covers the completed SEM-09D corpus retrofit and the stricter source-fidelity sweep through the first new Gibran selection. The finished book, the practice-complete pamphlet shelf, and the first six chapters of *News from Nowhere* are current here as well. It also records the writing-system consolidation that made Tengwar Phi's sole alternative to romanization, the four renderer-led shelf identities, and the complete entrance sequence for Kia, the Short Road, and the Phi Book contents page. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
+This snapshot was first assembled after pull request #418 merged on 17 July 2026 and is current through pull request #658 on 30 July 2026 plus the pending On Love fidelity repair under D077. It covers the completed SEM-09D corpus retrofit and the stricter source-fidelity sweep through all four Gibran selections. The finished book, the practice-complete pamphlet shelf, and the first six chapters of *News from Nowhere* are current here as well. It also records the writing-system consolidation that made Tengwar Phi's sole alternative to romanization, the four renderer-led shelf identities, and the complete entrance sequence for Kia, the Short Road, and the Phi Book contents page. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
 
 ## Active execution sequence
 
@@ -50,16 +50,16 @@ Kia opens the separate entrance-page sequence. Its first greeting sits in an ope
 
 | Inventory | Total | Target | Legacy |
 |---|---:|---:|---:|
-| Entire lexicon | 1,297 | 1,297 | 0 |
-| Content vocabulary | 1,163 | 1,163 | 0 |
-| Base content vocabulary | 894 | 894 | 0 |
+| Entire lexicon | 1,299 | 1,299 | 0 |
+| Content vocabulary | 1,165 | 1,165 | 0 |
+| Base content vocabulary | 896 | 896 | 0 |
 | Optional-module content vocabulary | 269 | 269 | 0 |
 | Function vocabulary | 114 | 114 | 0 |
 | Interjections | 20 | 20 | 0 |
 
 There are no partial or dual entries. A target entry has both `articulatory_notes` and structured `examples` and has neither legacy `concept` nor `grammatical_notes`. The committed evidence is [`documents/validation/vocabulary_prose_coverage.json`](../../documents/validation/vocabulary_prose_coverage.json).
 
-The latest source-led additions are D075, shared Philosophical and Commons `parelu` deserve and shared Philosophical and Work `thaweno` reward, from the On Giving fidelity repair. D076 then repairs On Work without adding vocabulary and records aversion, submission, and curse as compositional or source-bound decisions. D052 remains the last legacy-prose batch and brought the eighth learning path to zero legacy prose. D044 remains the base-first boundary. Do not reopen completed entries merely to make their English prose different; reopen one only for a real semantic, factual, voice, or corpus problem.
+The latest source-led additions are D075, shared Philosophical and Commons `parelu` deserve and shared Philosophical and Work `thaweno` reward, from the On Giving fidelity repair. D076 then repairs On Work without adding vocabulary and records aversion, submission, and curse as compositional or source-bound decisions. D077 adds base `ratenu` steep and `salenu` unclothed while repairing both On Love renderings. D052 remains the last legacy-prose batch and brought the eighth learning path to zero legacy prose. D044 remains the base-first boundary. Do not reopen completed entries merely to make their English prose different; reopen one only for a real semantic, factual, voice, or corpus problem.
 
 ## Decision register
 
@@ -67,17 +67,17 @@ The latest source-led additions are D075, shared Philosophical and Commons `pare
 
 | Item | Count |
 |---|---:|
-| Registered batches | 78 |
-| Decisions | 272 |
-| Implemented | 67 |
-| Compositional | 126 |
+| Registered batches | 79 |
+| Decisions | 276 |
+| Implemented | 69 |
+| Compositional | 128 |
 | Deferred with return condition | 31 |
 | Source-bound | 44 |
 | Declined | 4 |
 | Open | 0 |
 | Accepted but not implemented | 0 |
 
-The latest development decision is D076 in [`project/development_log.md`](../development_log.md). Check the live log before assigning the next identifier.
+The latest development decision is D077 in [`project/development_log.md`](../development_log.md). Check the live log before assigning the next identifier.
 
 ## Base queue complete
 
@@ -112,7 +112,7 @@ All eight profiles already have canonical JSON membership, a generated module in
 
 ## Corpus state
 
-The literary shelf has completed its full inherited-text review against the current lexicon. A stricter source-fidelity sweep is now current through D076: D070 adds `torali` and repairs Babel, D071 restores The Little Prince excerpts' current turn and source-shaped invisibility, D072 narrows the Ring refusal's affected people to wearers of the other Rings while declaring its change from purpose to accusation, D073 adds `tinemu` while making the complete Williams witness reconstruct exactly, D074 adds `mophiku` while repairing both Schleicher citation streams and renderings, D075 adds `parelu` and `thaweno` while giving On Giving two complete renderings, and D076 repairs modifier scope, negation, source intensity, causation, and worth language in On Work without a new root. The shelf holds seventeen works: ten include a close translation, eleven include a transmutation, four are original Phi compositions, and eight source works use both methods. *News from Nowhere* is one 32-chapter work with the first six chapters transmuted and reviewed. The current inherited-text review record is [`documents/evaluation/active_text_corpus_review.md`](../../documents/evaluation/active_text_corpus_review.md), while the original dialogue carries its proposition and vocabulary-pressure records in the work itself. The compound registry holds 77 rows at word-pair and word-triple scale by the maintainer's ruling of 23 July 2026. Its one four-word entry overreached from compound towards canonized phrase, so `lothea korua`, love-heart, is registered in its place and `mawha norui` composes freely before it in the Metta Sutta's lines. Chapter 4 adds `wisola lokue`, exchange-place, for a market; chapter 5 adds no root or registered compound.
+The literary shelf has completed its full inherited-text review against the current lexicon. A stricter source-fidelity sweep is now current through D077: D070 adds `torali` and repairs Babel, D071 restores The Little Prince excerpts' current turn and source-shaped invisibility, D072 narrows the Ring refusal's affected people to wearers of the other Rings while declaring its change from purpose to accusation, D073 adds `tinemu` while making the complete Williams witness reconstruct exactly, D074 adds `mophiku` while repairing both Schleicher citation streams and renderings, D075 adds `parelu` and `thaweno` while giving On Giving two complete renderings, D076 repairs modifier scope, negation, source intensity, causation, and worth language in On Work without a new root, and D077 adds base `ratenu` and `salenu` while repairing On Love. The shelf holds seventeen works: ten include a close translation, eleven include a transmutation, four are original Phi compositions, and eight source works use both methods. *News from Nowhere* is one 32-chapter work with the first six chapters transmuted and reviewed. The current inherited-text review record is [`documents/evaluation/active_text_corpus_review.md`](../../documents/evaluation/active_text_corpus_review.md), while the original dialogue carries its proposition and vocabulary-pressure records in the work itself. The compound registry holds 77 rows at word-pair and word-triple scale by the maintainer's ruling of 23 July 2026. Its one four-word entry overreached from compound towards canonized phrase, so `lothea korua`, love-heart, is registered in its place and `mawha norui` composes freely before it in the Metta Sutta's lines. Chapter 4 adds `wisola lokue`, exchange-place, for a market; chapter 5 adds no root or registered compound.
 
 SEM-09D is complete. Fifteen literary passes finished the shelf, including the first three *News from Nowhere* chapters then drafted. All seven manual parts, all twenty-seven primer files, and the nine pamphlets then on the shelf are reviewed without a lexical gap, and the current-documents sweep closed with the evaluation corpus. Parts IV and VI each use one explicitly labelled optional term with a base alternative; Part VII teaches module words only inside their named learning paths, while the general primer and every pamphlet except source-material use no module terms; the source-material pamphlet demonstrates the module choice it teaches. A Phi passage changes only when the current form is more faithful or natural there. A transparent composition stays when its parts still teach or express the thought better, and every changed sentence and dependency receives validation.
 
@@ -203,7 +203,7 @@ The live entries are:
 | Entrance and index pages | Complete | Kia, the Short Road, and the Phi Book contents page are finished without source decoration. Kia has its doorway masthead, two Tengwar greetings, six numbered encounters, and seven broad destination links. The Short Road has a twelve-stop map, joined waypoints, thirteen interlinear figures, and a final invitation in both hands. The book contents page maps the argument from boatman to door. Four movements hold its fourteen chapters, and the bibliography stays apart. Strict shape checks guard all three renderings, including exact agreement between the README's reading order and the published files. |
 | Legacy vocabulary prose audit | Complete | D044 completed the base queue, D045 through D052 completed all eight module learning paths, and SEM-09D completed the literary shelf, the drafted book, the manual, the primer, the nine pamphlets then current, and the current documents. Reopen a passage only for a real semantic, factual, voice, or corpus problem. |
 | Lexical relations between content words | Parked | The explorer or project needs curated related-word navigation strongly enough to add and maintain a schema field. |
-| Tengwar renderer verification | Parked, with a live review surface | The lexicon explorer now renders all 1,297 headwords in Tengwar, and the first finding is recorded and deferred: the a tehta sits slightly low over the h tengwa, to be adjusted through the placement tweaks in `tengwar/glyphs.json` when the maintainer reopens glyph tuning. |
+| Tengwar renderer verification | Parked, with a live review surface | The lexicon explorer now renders all 1,299 headwords in Tengwar, and the first finding is recorded and deferred: the a tehta sits slightly low over the h tengwa, to be adjusted through the placement tweaks in `tengwar/glyphs.json` when the maintainer reopens glyph tuning. |
 | Solarpunk community engagement | Open strategic question | Daniel is ready to offer Phi outside its repository and decide what a healthy invitation looks like. |
 
 Speech evidence, outside learner evidence, community governance, and a maintained print publication pipeline remain evidence-gated or deferred in the roadmap. The one-off book PDF does not close PUB-03 or create PUB-04 review evidence. Do not mark an evidence item complete because tools or materials exist, and do not invent participants, observations, or adoption.

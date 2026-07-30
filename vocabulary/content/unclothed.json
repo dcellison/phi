@@ -1,0 +1,32 @@
+{
+  "word": "salenu",
+  "gloss": "unclothed",
+  "ipa": "/sä.ˈle̞.n̪u/",
+  "syllables": [
+    "sa",
+    "le",
+    "nu"
+  ],
+  "pos": "adjective",
+  "search_terms": [
+    "naked",
+    "without clothes"
+  ],
+  "description": "A person or body area is 'salenu' when no garment covers it in the context at hand. The adjective reports a clothing state without importing shame or consent; those belong to separate statements. 'wenuha' (wear) says which garment is on the body, while 'salenu' says there is none.",
+  "articulatory_notes": "Hold the tongue blade near the alveolar ridge for unvoiced 's', pass air through the narrow central channel, and open into central 'a'. Place the tongue tip at the ridge for voiced lateral 'l' and release along its sides into stressed middle-height front 'e'. Press the tongue tip behind the upper teeth for voiced dental 'n', keep the airflow nasal, and finish with high-back rounded 'u'.",
+  "sound_symbolism": "The initial hiss opens into 'a', the lateral carries the middle forward, and the final nasal settles behind rounded lips. Within Phi, the contour suggests a surface left open rather than a body judged.",
+  "usage_notes": "'salenu' applies to a person or body area when the absence of clothing is the point. An uncovered object instead takes 'tawemi' (cover) under negation or a clause with 'phae' (open).",
+  "examples": [
+    {
+      "phi": "mia salenu nai.",
+      "translation": "I am unclothed."
+    }
+  ],
+  "pillars": {
+    "peace-linguistics-practices": "A neutral bodily description leaves shame, invitation, and consent to their own words instead of smuggling them into the state of dress."
+  },
+  "semantic_domains": {
+    "community": "a neutral clothing-state description where privacy, custom, and consent may matter",
+    "physical": "absence of clothing from a person or body area"
+  }
+}

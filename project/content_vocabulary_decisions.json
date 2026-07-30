@@ -1060,6 +1060,23 @@
         "CV-POWER-01",
         "CV-SACRED-03"
       ]
+    },
+    {
+      "id": "gibran-on-love-fidelity-repair",
+      "heading": "Gibran's On Love fidelity repair",
+      "migration_status": "complete",
+      "decision_status": "closed",
+      "candidate_ids": [
+        "CV-SPATIAL-01",
+        "CV-BODY-16",
+        "CV-BODY-15",
+        "CV-CULT-01",
+        "CV-HOUSE-05",
+        "CV-CONFLICT-01",
+        "CV-VALUE-03",
+        "CV-GRAIN-01",
+        "CV-DEVOTION-01"
+      ]
     }
   ],
   "candidates": [
@@ -1393,7 +1410,8 @@
       "decision": "Do not coin these roots in base vocabulary or a module. Describe mechanisms and effects with established Phi words, and preserve exact violent terminology beside Phi when faithful source wording is required.",
       "batches": [
         "ethics-care-and-candour",
-        "recovered-cross-inventory-prompts"
+        "recovered-cross-inventory-prompts",
+        "gibran-on-love-fidelity-repair"
       ]
     },
     {
@@ -2243,7 +2261,8 @@
       "batches": [
         "life-growth-cultivation-and-flourishing",
         "plants-animals-and-living-world",
-        "household-daily-life-module-prose"
+        "household-daily-life-module-prose",
+        "gibran-on-love-fidelity-repair"
       ]
     },
     {
@@ -4172,7 +4191,8 @@
         "kati"
       ],
       "batches": [
-        "household-daily-life-module-prose"
+        "household-daily-life-module-prose",
+        "gibran-on-love-fidelity-repair"
       ]
     },
     {
@@ -5292,7 +5312,8 @@
         "kulo"
       ],
       "batches": [
-        "narrative-body-and-onset"
+        "narrative-body-and-onset",
+        "gibran-on-love-fidelity-repair"
       ]
     },
     {
@@ -5663,7 +5684,8 @@
         ]
       },
       "batches": [
-        "gibran-on-giving-fidelity-repair"
+        "gibran-on-giving-fidelity-repair",
+        "gibran-on-love-fidelity-repair"
       ]
     },
     {
@@ -5728,6 +5750,80 @@
       "source_rule": "Keep the named curse and its claimed mechanism in source wording. A Phi account may describe the speech or rite, intention, attributed power, burden, harm, and observed outcome without affirming or erasing the source tradition.",
       "batches": [
         "gibran-on-work-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-SPATIAL-01",
+      "concept": "steep inclination as distinct from height, speed, and difficulty",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "A path, roof, slope, or face can change height sharply along its course without being high as a whole or traversed quickly. The distinction belongs in ordinary movement, shelter, landscape, and access descriptions.",
+      "implementation": {
+        "words": [
+          "ratenu"
+        ],
+        "files": [
+          "vocabulary/content/steep.json"
+        ]
+      },
+      "batches": [
+        "gibran-on-love-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-BODY-16",
+      "concept": "an unclothed person or body area without implied shame, invitation, or consent",
+      "status": "implemented",
+      "placement": "base",
+      "summary": "Absence of clothing is a common bodily state in dressing, bathing, care, privacy, intimacy, and source texts. A direct neutral adjective keeps that state apart from whether an object is uncovered and from what another person is permitted to do.",
+      "implementation": {
+        "words": [
+          "salenu"
+        ],
+        "files": [
+          "vocabulary/content/unclothed.json"
+        ]
+      },
+      "batches": [
+        "gibran-on-love-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-GRAIN-01",
+      "concept": "threshing, sifting, husks, and related small-scale grain-cleaning operations",
+      "status": "compositional",
+      "placement": "base material actions beside Ecological, Household, and Work vocabulary",
+      "summary": "Forceful contact can be paired with release of a covering, while movement through a net states sifting and the following separation. These clauses keep action and result visible in Gibran's grain-floor sequence. A named agricultural technique or grain product can retain its source identity when that exact practice matters.",
+      "expressions": [
+        "kema palo",
+        "tawemi",
+        "leiro",
+        "mera",
+        "thue",
+        "ka roke"
+      ],
+      "batches": [
+        "gibran-on-love-fidelity-repair"
+      ]
+    },
+    {
+      "id": "CV-DEVOTION-01",
+      "concept": "prayer and praise across distinct devotional, grateful, petitionary, and appreciative practices",
+      "status": "compositional",
+      "placement": "base speech, blessing, appreciation, song, and ritual vocabulary beside exact source traditions",
+      "summary": "A prayer can bless, ask, thank, grieve, attend, or address a sacred referent; praise can appreciate, honour, celebrate, or sing. Phi states the act and its addressee instead of giving unlike practices one universal religious label, while a source keeps the inherited category and formula exact.",
+      "expressions": [
+        "thorai",
+        "woraka",
+        "whaline",
+        "keluro",
+        "pharuki",
+        "melira",
+        "haolu",
+        "thoepa"
+      ],
+      "batches": [
+        "gibran-on-love-fidelity-repair"
       ]
     }
   ],

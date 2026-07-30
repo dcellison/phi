@@ -810,7 +810,7 @@
 | `whola` | invite | communicating an opening to enter or take part |
 | `wisola` | exchange | exchanging stories, knowledge, or other communicative material |
 
-## community (274)
+## community (275)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -972,6 +972,7 @@
 | `ruesha` | compassionate | concern for suffering that shapes a response to another person |
 | `ruloi` | flourish | vigorous growth in a community or language |
 | `ruweli` | access | practical entry into shared services and processes |
+| `salenu` | unclothed | a neutral clothing-state description where privacy, custom, and consent may matter |
 | `sano` | know | familiarity with people and knowledge held or exchanged within a group |
 | `seluwhe` | outage | loss of a stated shared or infrastructure service for affected participants |
 | `sephori` | supply | provision from one participant or place to another |
@@ -1655,7 +1656,7 @@
 | `wosanu` | absorb | soil or a living body taking in water or another material |
 | `wotami` | shrub | a usually low woody plant with several stems near the ground |
 
-## physical (516)
+## physical (518)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -1982,6 +1983,7 @@
 | `raelu` | tall | height from base to top in a person or upright structure |
 | `ralu` | free | an object released from fastening or confinement |
 | `rashelo` | run | the running gait and its unsupported intervals |
+| `ratenu` | steep | a surface whose height changes sharply along its course |
 | `rato` | turn | rotation around a point or axis |
 | `relua` | mirror | an object or surface prepared to return a visible image |
 | `reshi` | fast | a high rate of bodily or material movement |
@@ -2001,6 +2003,7 @@
 | `ruemi` | lie down | bodily posture supported along more than the feet or seat |
 | `rumeka` | belch | release of gas from the upper digestive tract through the mouth |
 | `runae` | resin | a sticky material that may harden into a solid |
+| `salenu` | unclothed | absence of clothing from a person or body area |
 | `saphei` | shallow | a vessel, cut, or body of water with little depth |
 | `sawa` | wash | water or another washing liquid carrying unwanted matter from a surface |
 | `sawathi` | soap | material that loosens oil and dirt in water |
@@ -2254,7 +2257,7 @@
 | `whekelu` | magic | magic described within a personal or inherited practice |
 | `whunei` | breathe | breath used as an observable object in meditation practice |
 
-## spatial (182)
+## spatial (183)
 
 | Word | Gloss | In this domain |
 |---|---|---|
@@ -2362,6 +2365,7 @@
 | `raeli` | height | distance between lower and upper reference points |
 | `raelu` | tall | a high vertical position or extent relative to a reference level |
 | `rashelo` | run | rapid foot travel across a place |
+| `ratenu` | steep | strong inclination in a path, slope, roof, or face |
 | `rato` | turn | a change of facing or direction |
 | `repha` | bridge | a crossing over an obstacle or gap |
 | `rihe` | rise | a path from a lower position to a higher one |
