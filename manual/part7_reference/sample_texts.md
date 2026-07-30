@@ -142,10 +142,11 @@ OPT UNIV person COORD UNIV creature joy heart hold.
 
 ***thiku miona lue silero*** (from The Little Prince) translates three Katherine Woods passages. A sheep must be drawn; the heart sees what the eye cannot; taming leaves an obligation behind. Existing `woenu`, tame, keeps the animal's change explicit. Module `naseru`, obligation, lets the final passage state the relation without adding willing acceptance.
 
+***wuloe wetha tupiwa*** (The Velveteen Rabbit) translates Williams's complete nursery story across eighteen scenes. The rabbit's material wear and the child's fever lead to the bonfire; love and magic carry him home. Household and Medical vocabulary enter the nursery and sickroom, while Commons and Work terms handle governance and craft. Williams's lines retain soldiers, Government, brigands, and exact clock or calendar terms beside Phi descriptions.
+
 The rest of the shelf:
 
 | Phi title | Method | Text |
 |---|---|---|
 | `naweri` | Transmutation | the Ring Verse, refused: the other Ring-wearers named and coercion exposed without granting it a neutral ruler |
-| `wuloe wetha tupiwa` | Transmutation | *The Velveteen Rabbit*, entire, with Medical, Accessibility, and Commons distinctions where the story needs them |
 | `nophi lue mawha lokue` | Transmutation | the opening chapters of *News from Nowhere*, reviewed against Morris chapter by chapter |

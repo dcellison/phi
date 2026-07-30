@@ -346,13 +346,13 @@ The stricter pass changes all four Phi lines because their shared target was too
 
 The refusal remains narrower than silence. Peace linguistics leaves the domination exposed while testimony stays possible. The Ring remains an instrument of coercion and imposed tying, not an office the lexicon makes clean.
 
-## Transmutation review: The Velveteen Rabbit
+## Translation review: The Velveteen Rabbit
 
-The complete Williams story remains a transmutation with 429 exact source fragments across 427 aligned Phi stanzas. Its revised Phi uses 427 unique forms. Fourteen optional roots have 19 memberships across six modules. Household vocabulary still does most of the optional work, as one might reasonably expect from a rabbit who spends so much of the story in a nursery.
+The complete Williams story is now a translation with 429 exact source fragments across 427 aligned Phi stanzas. The citation stream reconstructs the stored story exactly and in order. Optional vocabulary enters through six modules, with Household vocabulary doing most of that work.
 
 ### Post-migration contextual retrofit
 
-Forty-six aligned units change. The source lines remain byte-for-byte unchanged. Most repairs replace an old paraphrase that had become inaccurate after the base lexicon grew; a smaller set lets module vocabulary name familiar objects in the nursery and sickroom. The story keeps its declared changes around rank, coercion, gendered kinship, military source language, clock time, and the Child's share in making the rabbit Real.
+Forty-six aligned units changed in the earlier retrofit. The source lines remained byte-for-byte unchanged. Most repairs replaced an old paraphrase that had become inaccurate after the base lexicon grew; a smaller set let module vocabulary name familiar objects in the nursery and sickroom. At that stage, the story kept its declared changes around rank, coercion, gendered kinship, military source language, clock time, and the Child's share in making the rabbit Real.
 
 | Question | Disposition | Reason |
 |---|---|---|
@@ -372,7 +372,7 @@ Forty-six aligned units change. The source lines remain byte-for-byte unchanged.
 
 ### Full source-fidelity pass
 
-The stricter pass changes 69 of the 427 Phi stanzas and adds base `tinemu` (ant). The source witness now reconstructs Williams's complete stored story exactly and in order. The count falls from 430 citation fragments to 429 because the question "What is REAL?" and its following scene-setting tail return to their one original sentence; the aligned stanza count falls from 428 to 427 with it.
+The stricter fidelity pass changed 69 of the 427 Phi stanzas and added base `tinemu` (ant). The source witness then reconstructed Williams's complete stored story exactly and in order. The count fell from 430 citation fragments to 429 because the question "What is REAL?" and its following scene-setting tail returned to their one original sentence; the aligned stanza count fell from 428 to 427 with it.
 
 | Question | Disposition | Reason |
 |---|---|---|
@@ -386,6 +386,24 @@ The stricter pass changes 69 of the 427 Phi stanzas and adds base `tinemu` (ant)
 | Source-detail boundaries | Keep exact engine, chocolate almond, raspberry, sateen, shawl, pearl, emerald, crab, and role identities in Williams | Phi describes the visible material, use, colour, shape, or relation when that helps. One literary witness does not turn each English or cultural label into a reusable root. |
 | Optional module reach | Use 14 roots with 19 memberships across six modules | Household contributes six roots and shares `whemori`; Ecological contributes `reteru`, `hisophi`, and `whemori`; Systems shares `reteru` and contributes `nurako`; Commons contributes `punoki` and `wemari`; Medical contributes `hisophi` and `suloru`; Work contributes `hisophi`, `kolai`, and `whemori`. No optional word enters merely to raise the count. |
 | Active dependencies | Update the story, vocabulary, decision register, generated references, shelf renderer count, review ledger, roadmap, handoff, and phonetic-neighbour attestations | The new root passes the lexical ceiling, character and phonetic collision checks, retired-form check, and English-homonym review. The complete Phi, gloss, back-translation, and source structure remains machine-checked. |
+
+### Translation conversion
+
+D081 changes 29 aligned stanzas and presents the work solely as a translation. It also adds a continuous Phi reading assembled from the same 427 units. No source fragment, lexicon entry, module membership, registered compound, or grammatical rule changes.
+
+| Question | Disposition | Reason |
+|---|---|---|
+| Splendour and charm | Use `ru mioru` and record the narrower result | Beautiful preserves the favourable appearance without inventing radiance. The limits table states that Phi does not distinguish the source's splendour from its charm. |
+| Expense and price | Describe toys that require more things in exchange | The relation behind greater expense remains explicit without adding money or price vocabulary. Williams keeps the compact economic category. |
+| Pretence | Use `peshu` for knowingly false claims | The mechanical toys and Timothy no longer merely claim their status. The Phi states the source's pretence without creating a separate verb for social performance. |
+| Soldiers and Government | Describe disabled makers who belong to a group acting through force, and an institution of society's governance | Disability, organised force, membership, institution, society, and governance remain in Phi. The exact military role and capitalised political identity remain in Williams rather than becoming ordinary Phi titles. |
+| Love, play, pain, handling, and Real | Restore play as the excluded purpose, endurance through pain, careful gentle keeping, and permanent Real state | The earlier rendering replaced Williams's claims with guidance by pain, caregiving, and inherent worth. The translation now follows the Skin Horse's actual lesson without calling pain small, deserved, or spiritually useful. |
+| Nana, hatred, and brigands | Use nursery authority, dislike with heart-fire, and coercion-play | The source's power and aversion remain visible. Phi does not coin ruler, hatred, brigand, or combat-centred roots for one story. |
+| Time, tea, colour, and bodily action | Restore the first night and later nights, tea as a meal, rubbed-away pink, low-voiced grumbling, a forceful foot-noise, and joy in using hind legs | These details were expressible in current Phi and no longer needed approximation. Exact clock duration and calendar names stay in Williams. |
+| Scope and comparison | Restore ceasing to be Real, anything in the world, the unchanged strength of love, a warm deep jungle, and a flower needing no change | The revised clauses carry distinctions that the earlier back-translations had supplied more fully than the Phi. Tropical and perfect remain narrower descriptive renderings named in the limits table. |
+| Complete reading and source witness | Keep the continuous reading identical to the detailed units and retain all 429 source fragments in order | Readers can hear the story without the apparatus, while every interpretive decision remains inspectable against Williams. |
+| Vocabulary boundary | Add no root | Existing base and module vocabulary can carry the story. Expense, military service, government, hatred, brigandage, exact time, named products, and gem identities remain transparent descriptions or source-bound terms where Phi's philosophy does not support a general lexical root. |
+| Active dependencies | Update the story, catalogue, teaching references, shelf renderer contract, review ledger, progress records, handoff, and phonetic-neighbour attestations | Targeted validation checks the Phi, exact glosses, continuous reading, citations, and source reconstruction before full repository validation. |
 
 ## Transmutation review: News from Nowhere, chapter 1
 
@@ -477,15 +495,14 @@ The review keeps the garment-and-hand composition, changes no source quotation, 
 
 ## Transmutation review
 
-The three transmuted works on the shelf were read from their stated sources before the Phi was judged. Repair was preferred when the narrative or argument already held together. A clean rebuild was reserved for the Ring Verse's central refusal, whose earlier substitute had turned coercion into guidance and imposed binding into mutual bond. No new root was needed; the completed module vocabulary supplied the missing distinctions.
+The two transmuted works on the shelf were read from their stated sources before the Phi was judged. Repair was preferred when the narrative or argument already held together. A clean rebuild was reserved for the Ring Verse's central refusal, whose earlier substitute had turned coercion into guidance and imposed binding into mutual bond. No new root was needed; the completed module vocabulary supplied the missing distinctions.
 
 | Work | Source and decision | Material repairs | Pillar disposition |
 |---|---|---|---|
 | Ring Verse refusal | Tolkien's quoted inscription; central Phi passage rebuilt and fidelity-repaired | Rule becomes an explicit analysis as coercion; bind becomes physical `tiwa` used metaphorically. The repaired referent follows the other Rings to their wearers instead of widening **them** to all people. | Peace linguistics makes the decisive change by naming constrained choice. Buddhist attention separates acts from permanent moral identities. The other pillars do not soften the source or invent a replacement moral. |
-| *The Velveteen Rabbit* | Complete Williams story; repaired and current | The post-migration pass changed 46 units; the later fidelity pass changes 69 of 427 stanzas, adds ant, and makes the stored witness reconstruct exactly. Brigand-play remains coercion-play, pain is not called small, and the child helps rather than single-handedly makes the rabbit Real. | Care, repair, natural transformation, material craft, and the story's organic beauty already engage all five pillars. Peace linguistics chiefly restores agency and names power; it does not remove fever, burning, loss, or grief. |
 | *News from Nowhere*, chapters 1-3 | Complete Morris chapters; repaired chapter by chapter | Chapter 1 separates views, membership, and authority. Chapter 2 gives waking, bodily sensation, household detail, work capacity, and the river their completed distinctions. Chapter 3 adds direct rooms, meals, body parts, responses, and craft while retaining commoners' entitlement and the political direction of reactionary novels. | Solarpunk and preindustrial commitments are native to Morris's work; Art Nouveau lives in architecture, clothing, and craft. Buddhist attention clarifies the narrator's inference. Peace linguistics names authority and stigma without cleaning the argument, coercion, or social contempt from the story. |
 
-The source citations and gap logs in each work hold the detailed decisions. The table records why the text remains a transmutation and whether repair or replacement was warranted.
+The source citations and gap logs in each work hold the detailed decisions. The table records why each text remains a transmutation and whether repair or replacement was warranted.
 
 ## Phi-first review: When care becomes coercion
 
@@ -573,9 +590,9 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/tao_te_ching.md` | Translation | Reviewed | All 51 Legge units align in order, and the continuous reading follows every proposition in the detailed translation. |
 | `texts/heart_sutra.md` | Translation | Reviewed | All 34 Müller units align in order, and the translation preserves every printed proposition in the selected witness. |
 | `texts/ring_verse_refusal.md` | Transmutation | Reviewed | The 17-form base-only refusal keeps Tolkien's inscription exact, narrows its affected people to wearers of the other Rings, and records the deliberate change from purpose to accusation. |
-| `texts/velveteen_rabbit.md` | Transmutation | Reviewed | The 429 exact Williams fragments align across 427 Phi stanzas. The fidelity pass changes 69 stanzas, adds base `tinemu`, and uses 14 optional roots with 19 memberships across six modules. |
+| `texts/velveteen_rabbit.md` | Translation | Reviewed | The 429 exact Williams fragments align across 427 Phi stanzas and reconstruct the stored story in order. D081 changes 29 stanzas, adds a matching continuous reading, and records the remaining descriptive limits without adding vocabulary. |
 | `texts/news_from_nowhere/chapter_01.md` | Transmutation | Reviewed | The 85-unit post-migration pass changes 29 units and uses six optional roots across four modules without altering Morris's source lines. |
 | `texts/news_from_nowhere/chapter_02.md` | Transmutation | Reviewed | The 241-unit post-migration pass changes 57 units and uses five optional roots with seven memberships across four modules without altering Morris's source lines. |
 | `texts/news_from_nowhere/chapter_03.md` | Transmutation | Reviewed | The 245-unit post-migration pass changes 46 units and uses 14 optional roots with 15 memberships across five modules without altering Morris's source lines. |
 
-Every current translation, transmutation, and original has received the review appropriate to its declared method. The six formerly paired works and the Little Prince excerpts now stand as translations only. All four original Phi works have received Phi-first reviews. The Phi book and SEM-09D retrofit are complete.
+Every current translation, transmutation, and original has received the review appropriate to its declared method. The six formerly paired works, the Little Prince excerpts, and The Velveteen Rabbit now stand as translations only. All four original Phi works have received Phi-first reviews. The Phi book and SEM-09D retrofit are complete.

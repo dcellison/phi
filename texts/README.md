@@ -20,7 +20,7 @@ Short works each have one Markdown file. An author collection gets its own direc
 | The Ring Verse | Transmutation | The familiar four lines answered with a refusal. | [Read](ring_verse_refusal.md) |
 | Schleicher's fable | Translation | The complete fable beside a controlled English source. | [Read](schleicher_fable.md) |
 | The Little Prince, selections | Translation | Three passages from Katherine Woods: the sheep, the secret, and responsibility for the tamed animal. | [Read](little_prince_excerpts.md) |
-| The Velveteen Rabbit | Transmutation | The complete story. | [Read](velveteen_rabbit.md) |
+| The Velveteen Rabbit | Translation | The complete story, followed by its translation limits. | [Read](velveteen_rabbit.md) |
 | Tao Te Ching, selections | Translation | Legge's chapters 8, 11, 17, 63, and 76 in full Phi translation. | [Read](tao_te_ching.md) |
 | The Heart Sutra | Translation | Müller's smaller Heart Sutra in full Phi translation. | [Read](heart_sutra.md) |
 

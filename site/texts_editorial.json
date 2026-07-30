@@ -465,84 +465,88 @@
       "inner_dividers": 0
     },
     "texts/velveteen_rabbit.md": {
-      "form": "transmutation",
+      "form": "translation",
       "phi_title": "wuloe wetha tupiwa",
       "motif": "rabbit_heart",
       "sections": [
         {
-          "title": "horae thorui — The splendid beginning",
-          "kind": "transmutation"
+          "title": "mioru thorui — The splendid beginning",
+          "kind": "translation"
         },
         {
           "title": "lopia tholu — The nursery",
-          "kind": "transmutation"
+          "kind": "translation"
         },
         {
           "title": "kori kalora — The Skin Horse",
-          "kind": "transmutation"
+          "kind": "translation"
         },
         {
           "title": "shewo — What is Real",
-          "kind": "transmutation"
+          "kind": "translation"
         },
         {
           "title": "kori kalora nophi — The Skin Horse's story",
-          "kind": "transmutation"
+          "kind": "translation"
         },
         {
           "title": "tholu woru — The keeper of the nursery",
-          "kind": "transmutation"
+          "kind": "translation"
         },
         {
           "title": "lopia nuwera — In the child's bed",
-          "kind": "transmutation"
+          "kind": "translation"
         },
         {
           "title": "wirae — Spring",
-          "kind": "transmutation"
+          "kind": "translation"
         },
         {
           "title": "shewo haolu — The declaration",
-          "kind": "transmutation"
+          "kind": "translation"
         },
         {
           "title": "keloi — Summer",
-          "kind": "transmutation"
+          "kind": "translation"
         },
         {
           "title": "waeshi tupiwa — The wild rabbits",
-          "kind": "transmutation"
+          "kind": "translation"
         },
         {
           "title": "serao nela rohemi — Growing old and worn",
-          "kind": "transmutation"
+          "kind": "translation"
         },
         {
           "title": "rulo suloru — The scarlet fever",
-          "kind": "transmutation"
+          "kind": "translation"
         },
         {
           "title": "moriwhe remo — The seaside plan",
-          "kind": "transmutation"
+          "kind": "translation"
         },
         {
           "title": "lirupa — The sack",
-          "kind": "transmutation"
+          "kind": "translation"
         },
         {
           "title": "whekelu peloru — The magic flower",
-          "kind": "transmutation"
+          "kind": "translation"
         },
         {
           "title": "shelira — Into the wood",
-          "kind": "transmutation"
+          "kind": "translation"
         },
         {
           "title": "lumae — The return",
-          "kind": "transmutation"
+          "kind": "translation"
         },
         {
-          "title": "What the transmutation changed",
+          "title": "Complete translation",
+          "kind": "complete"
+        },
+        {
+          "title": "Translation limits",
           "kind": "apparatus"
         }
       ],
@@ -551,9 +555,9 @@
       "interlinear_stanzas": 427,
       "source_free_blocks": 0,
       "source_free_stanzas": 0,
-      "complete_readings": 0,
+      "complete_readings": 1,
       "notes": 18,
-      "tables": 0,
+      "tables": 1,
       "pillar_sections": 0,
       "inner_dividers": 0
     },
