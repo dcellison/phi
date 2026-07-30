@@ -216,7 +216,7 @@ mia sharino mia phoa whakeru.
 (My conscience objects to my action.)
 ```
 
-The paired [Article 1](../../../texts/human_rights_article_one.md) tests all three distinctions in adjacent claims. Its translation gives people equal rights, then presents reason and conscience as endowed faculties. Its transmutation gives them recognized entitlements, the capacity to think, and the heart's knowing. The close rendering draws on Commons `naseru` for the declaration's final obligation without moving that word into this learning path.
+The close translation of [Article 1](../../../texts/human_rights_article_one.md) tests all three distinctions in adjacent claims. It gives people equal rights, then presents reason and conscience as endowed faculties. The rendering draws on Commons `naseru` for the declaration's final obligation without moving that word into this learning path.
 
 ## Deservingness and reward
 

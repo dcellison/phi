@@ -117,7 +117,7 @@
       ]
     },
     "texts/north_wind_and_sun.md": {
-      "form": "paired",
+      "form": "translation",
       "phi_title": "nitho howeli nela sileta",
       "motif": "wind_sun",
       "sections": [
@@ -126,27 +126,27 @@
           "kind": "translation"
         },
         {
-          "title": "Transmutation",
-          "kind": "transmutation"
+          "title": "Complete translation",
+          "kind": "complete"
         },
         {
-          "title": "What changes between the two renderings",
-          "kind": "comparison"
+          "title": "Translation limits",
+          "kind": "apparatus"
         }
       ],
       "opening_paragraphs": 2,
-      "interlinear_blocks": 10,
-      "interlinear_stanzas": 48,
+      "interlinear_blocks": 5,
+      "interlinear_stanzas": 24,
       "source_free_blocks": 0,
       "source_free_stanzas": 0,
-      "complete_readings": 2,
-      "notes": 10,
-      "tables": 3,
-      "pillar_sections": 5,
-      "inner_dividers": 2
+      "complete_readings": 1,
+      "notes": 5,
+      "tables": 1,
+      "pillar_sections": 0,
+      "inner_dividers": 0
     },
     "texts/human_rights_article_one.md": {
-      "form": "paired",
+      "form": "translation",
       "phi_title": "theula miona",
       "motif": "people_equal",
       "sections": [
@@ -155,31 +155,27 @@
           "kind": "translation"
         },
         {
+          "title": "Complete translation",
+          "kind": "complete"
+        },
+        {
           "title": "Translation limits",
-          "kind": "translation_detail"
-        },
-        {
-          "title": "Transmutation",
-          "kind": "transmutation"
-        },
-        {
-          "title": "What changes between the two renderings",
-          "kind": "comparison"
+          "kind": "apparatus"
         }
       ],
       "opening_paragraphs": 2,
-      "interlinear_blocks": 7,
-      "interlinear_stanzas": 7,
+      "interlinear_blocks": 3,
+      "interlinear_stanzas": 3,
       "source_free_blocks": 0,
       "source_free_stanzas": 0,
-      "complete_readings": 2,
-      "notes": 7,
-      "tables": 3,
-      "pillar_sections": 5,
-      "inner_dividers": 4
+      "complete_readings": 1,
+      "notes": 3,
+      "tables": 1,
+      "pillar_sections": 0,
+      "inner_dividers": 0
     },
     "texts/babel_text.md": {
-      "form": "paired",
+      "form": "translation",
       "phi_title": "ta haluma",
       "motif": "dwelling_garden",
       "sections": [
@@ -188,27 +184,27 @@
           "kind": "translation"
         },
         {
-          "title": "Transmutation",
-          "kind": "transmutation"
+          "title": "Complete translation",
+          "kind": "complete"
         },
         {
-          "title": "What changes between the two renderings",
-          "kind": "comparison"
+          "title": "Translation limits",
+          "kind": "apparatus"
         }
       ],
       "opening_paragraphs": 3,
-      "interlinear_blocks": 9,
-      "interlinear_stanzas": 30,
-      "source_free_blocks": 1,
-      "source_free_stanzas": 2,
+      "interlinear_blocks": 4,
+      "interlinear_stanzas": 15,
+      "source_free_blocks": 0,
+      "source_free_stanzas": 0,
       "complete_readings": 1,
-      "notes": 10,
-      "tables": 2,
-      "pillar_sections": 5,
-      "inner_dividers": 1
+      "notes": 4,
+      "tables": 1,
+      "pillar_sections": 0,
+      "inner_dividers": 0
     },
     "texts/schleicher_fable.md": {
-      "form": "paired",
+      "form": "translation",
       "phi_title": "mophira nela lo kalora",
       "motif": "wool_journey",
       "sections": [
@@ -217,27 +213,27 @@
           "kind": "translation"
         },
         {
-          "title": "Transmutation",
-          "kind": "transmutation"
+          "title": "Complete translation",
+          "kind": "complete"
         },
         {
-          "title": "What changes between the two renderings",
-          "kind": "comparison"
+          "title": "Translation limits",
+          "kind": "apparatus"
         }
       ],
       "opening_paragraphs": 2,
-      "interlinear_blocks": 8,
-      "interlinear_stanzas": 29,
+      "interlinear_blocks": 4,
+      "interlinear_stanzas": 14,
       "source_free_blocks": 0,
       "source_free_stanzas": 0,
-      "complete_readings": 2,
-      "notes": 8,
-      "tables": 3,
-      "pillar_sections": 5,
+      "complete_readings": 1,
+      "notes": 4,
+      "tables": 1,
+      "pillar_sections": 0,
       "inner_dividers": 0
     },
     "texts/tao_te_ching.md": {
-      "form": "paired",
+      "form": "translation",
       "phi_title": "keiro",
       "motif": "water_open",
       "sections": [
@@ -246,27 +242,27 @@
           "kind": "translation"
         },
         {
-          "title": "Transmutation",
-          "kind": "transmutation"
+          "title": "Complete translation",
+          "kind": "complete"
         },
         {
-          "title": "What changes between the two renderings",
-          "kind": "comparison"
+          "title": "Translation limits",
+          "kind": "apparatus"
         }
       ],
       "opening_paragraphs": 4,
-      "interlinear_blocks": 16,
-      "interlinear_stanzas": 81,
+      "interlinear_blocks": 11,
+      "interlinear_stanzas": 51,
       "source_free_blocks": 0,
       "source_free_stanzas": 0,
       "complete_readings": 1,
       "notes": 0,
-      "tables": 3,
-      "pillar_sections": 5,
-      "inner_dividers": 1
+      "tables": 1,
+      "pillar_sections": 0,
+      "inner_dividers": 0
     },
     "texts/heart_sutra.md": {
-      "form": "paired",
+      "form": "translation",
       "phi_title": "nulo sano korua",
       "motif": "lotus_circle",
       "sections": [
@@ -275,24 +271,24 @@
           "kind": "translation"
         },
         {
-          "title": "Transmutation",
-          "kind": "transmutation"
+          "title": "Complete translation",
+          "kind": "complete"
         },
         {
-          "title": "What changes between the two renderings",
-          "kind": "comparison"
+          "title": "Translation limits",
+          "kind": "apparatus"
         }
       ],
       "opening_paragraphs": 4,
-      "interlinear_blocks": 14,
-      "interlinear_stanzas": 63,
+      "interlinear_blocks": 7,
+      "interlinear_stanzas": 34,
       "source_free_blocks": 0,
       "source_free_stanzas": 0,
       "complete_readings": 1,
       "notes": 7,
-      "tables": 2,
-      "pillar_sections": 5,
-      "inner_dividers": 1
+      "tables": 1,
+      "pillar_sections": 0,
+      "inner_dividers": 0
     },
     "texts/gibran/on_love.md": {
       "form": "translation",

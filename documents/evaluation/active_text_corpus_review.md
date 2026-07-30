@@ -30,130 +30,49 @@ Source-based work on the shelf uses two methods. A translation remains answerabl
 
 ## Modifier-first purpose migration
 
-D054 applies the same order to every purpose construction on the reviewed shelf: `[lila purpose clause] [main clause]`. Sixteen active attestations required reversal. This count includes the complete-text copies below their aligned examples. Their propositions and source citations remain unchanged. The Solarpunk Manifesto and the shelf's other existing purpose-first clauses already had the canonical order.
+D054 applies the same order to every purpose construction on the reviewed shelf: `[lila purpose clause] [main clause]`. Twelve retained attestations required reversal. This count includes the complete-text copies below their aligned examples. Their propositions and source citations remain unchanged. The Solarpunk Manifesto and the shelf's other existing purpose-first clauses already had the canonical order.
 
 | Text | Active attestations changed | Result |
 |---|---:|---|
 | Babel | 2 | Intended communicative loss now precedes the act that changes one shared language into different languages. |
 | *News from Nowhere*, chapter 2 | 2 | Helping precedes the offered hand; catching fish precedes the journey upriver. |
 | *News from Nowhere*, chapter 3 | 2 | Listening precedes the posture behind the narrator; seeing the departure precedes arrival at the porch. |
-| *The North Wind and the Sun* | 4 | Escape precedes the move into shade in both renderings and their complete copies. |
-| *The Prophet, On Children* | 4 | Becoming like the children and the flight of the living straight things precede the actions directed towards those ends. |
+| *The North Wind and the Sun* | 2 | Escape precedes the move into shade in the detailed translation and its complete copy. |
+| *The Prophet, On Children* | 2 | Becoming like the children and the flight of the living straight things precede the actions directed towards those ends. |
 | *Tao Te Ching* selections | 2 | Shaping the room precedes cutting its door and windows. |
 
-## Paired review: The North Wind and the Sun
+## Translation review: The North Wind and the Sun
 
-The ground truth is the 1919 *Aesop for Children* text stored at `texts/sources/aesop_for_children.txt`. The close translation uses 104 unique forms and the transmutation uses 98. Both still reach well beyond the preceding graded chapters, so the glosses and back-translations remain part of the reading method. Both renderings use base vocabulary throughout.
-
-### Close translation
+The ground truth is the 1919 *Aesop for Children* text stored at `texts/sources/aesop_for_children.txt`. The translation aligns every source clause with Phi, an exact gloss, a literal back-translation, and the adjacent Aesop wording. Its continuous reading has the same Phi sentence stream as the detailed blocks, and its vocabulary is entirely base.
 
 | Area | Finding | Disposition |
 |---|---|---|
-| Source coverage | The benchmark role requires Aesop's events and moral to survive rather than merely inspire a Phi retelling. | Every source clause has an aligned Phi block, literal back-translation, and exact adjacent citation. The translation precedes the transmutation on the shared page. |
-| Quarrel and bluster | Phi has no roots for either term, while `themore` is a reasoned argument and does not fit. | Discussion plus failed agreement forms the quarrel. Heart-fire and loud shouting supply the heat and bluster without creating two narrow roots. |
-| Strip and wrap | The transmutation made the winner cause the Traveler's release, which shifted the source's direct removal. Plain `lomare` also lacked the Traveler's agency in wrapping the cloak. | `lue ... wethalu leiro` makes the contestant release the garment from the Traveler. The causative makes the Traveler cause the garment to embrace them closely. |
-| Gust and whipping cloth | Quivering was an intentional softening, not a close transfer of the first gust's force. | `teku kema howeli` is a short, strong wind. Passive `wapho` throws the garment's edges around the Traveler's body. |
-| Loose cloak and anatomy | `luwi` cannot mean loose, and broad `menoa` loses the brow's location. | The Traveler causes the garment to stay `ralu`, free, on their shoulders. Base `komeri` now names the forehead directly; cap remains the transparent head-garment. |
-| Pulling off and throwing down | A single release loses the pull in "pulled off," while `ruemi` replaces the source's abrupt reflexive throw with an ordinary posture. | The garment is pulled from the body and then released. The Traveler flees (`phesari`) from the burning brightness and throws themself toward the earth into tree-shadow. |
-| Persuasion | `phena haolu` says kind speech but does not say that one person seeks to move another. Phi could state coercion without its communicative counterpart. | New base verb `sharemi` gives Phi persuasion while leaving refusal available. `phena` supplies the kindness that belongs to Aesop's phrase rather than to every act of persuasion. |
-| Winning and failing | `thonuki` is technical failure and `thenoi` is quantitative falling short. Neither belongs in a fable's general contest result. | `porua korei`, fulfill purpose, states success against the wager's aim; its negation states failure. The translation repeats Aesop's verdict even where the plot complicates it. |
-| Learning role | The fable introduces grammar and vocabulary beyond the graded primer. A second rendering could either support comparison or double the burden without guidance. | The primer sends the learner through the close translation first, then to the transmutation and comparison. Glosses and back-translations are part of the reading method. |
+| Source coverage | The benchmark must carry Aesop's events and moral rather than merely borrow the scene. | Every source clause appears once in the aligned reading. The complete Phi block and limits table make the work usable both as a sound sample and as a fidelity test. |
+| Quarrel and bluster | Phi has no dedicated roots for either term. | Discussion plus failed agreement forms the quarrel; heart-fire and loud shouting supply its felt manner without turning `themore`, reasoned argument, into a dispute. |
+| Clothing and weather | Cloak, cap, gust, whipping cloth, wrapping, and loose hanging require several ordinary relations. | Garment and head-garment remain transparent. A short strong wind, passive throwing of the cloth edges, close embrace, opening, and freedom preserve the physical sequence. |
+| Bodily action | The source distinguishes forehead, forceful pulling, flight, and a reflexive throw towards the ground. | Base `komeri`, `natu`, `phesari`, and `wapho` keep those actions distinct. The back-translation does not borrow Aesop's stronger verbs where Phi says less. |
+| Persuasion and outcome | Kind speech alone does not say that one person tries to move another; technical failure does not fit the wager. | Base `sharemi` names persuasion while leaving refusal available. Fulfilling a stated purpose and not fulfilling it carry Aesop's win and fail. |
+| Completed-vocabulary retrofit | Older phrases walked around try, forehead, and flee. | Base `mesatu`, `komeri`, and `phesari` now state the source distinctions directly. Warmth, intense heat, and giving brightness remain separate. |
+| Learning role | The fable reaches beyond the graded primer. | The capstone leads through the annotated blocks, then the complete reading and limits table. Glosses and back-translations remain part of the bridge. |
 
-### Transmutation
+No module word is required. Weather, clothing, bodily action, persuasion, and coercion all belong to ordinary speech.
 
-The companion rendering answers to its own method. Its departures are deliberate, its English follows the Phi rather than repairing it toward Aesop, and the paired comparison now gives each departure a close translation beside it.
+## Translation review: Schleicher's fable
 
-| Area | Finding | Disposition |
-|---|---|---|
-| Back-translation integrity | Several English lines restored source details that the Phi did not contain. `tiripe` became "whipped," `natu` became "tore," and transparent body or clothing terms became cloak, cap, and brow. | The English now follows the Phi literally. Aesop's wording remains on the next line, and the gap log accounts for the distance. |
-| Time and manner | `nosa` is the noun "now," but two clauses used it as the adverb "immediately." | Both clauses now use `to reshi` for fast past action. The note teaches the distinction without narrating the correction. |
-| Comparative escalation | The Wind blew more strongly, but the old response said that the Traveler also held more strongly. Aesop's relational contrast, tighter against harder, had flattened. | `mo noshi` makes the second grip closer. The two `mo` clauses now differ where the source differs. |
-| Traveler's agency | The Sun and Wind agree to act on a stranger who did not join their wager. Gendered English and passive paraphrase then hid several of the Traveler's choices. | Singular they follows Phi's ungendered `shia`. The Traveler holds, opens, releases, wipes, goes away, and lies down in the aligned account. |
-| Loose garment and final posture | `luwi` means flexible, not loose. `wapho` means throw, but the reflexive construction made the body sound like an object hurled into shade. | The Traveler stops holding the garment close. `ruemi` gives the final posture, while the `lila` frame places escape before the move into shade. |
-| The Sun's outcome | Aesop calls the Sun the winner, yet the gentle warmth only loosens the cloak. Escalating heat secures full release and sends the Traveler into shade. | Both outcomes appear. The notes treat the Sun's result as mixed. |
-| Moral semantics | `puro` is neutral strength, not violent force, and `theisa` is loudness, not bluster. The former moral blamed two ordinary qualities and claimed that pressure is fruitless even though the plot shows it working. | `keloa haolu` names rough speech and `kawhera` names coercion. Good fruit answers departure instead of victory answering failure. |
-| The Wind's motion | Phi gives the cloak a quiver and the Wind a pull. The source has whipping cloth and tearing effort. | The Phi stays as a deliberate softening, but the back-translation no longer borrows the stronger source verbs. |
-| Giving light | `phelo` means light in weight, so it cannot carry illumination through an English homonym. | `keru loa`, give brightness, covers shining, beams, and rays as one compositional event. Genuine weight uses of `phelo` are unchanged. |
-| Quarrel and argument | `themore` is an argument made of reasons, not a quarrel. Phi has no dedicated root for the source's dispute. | The interaction uses `shareo`; fire and a loud voice preserve its felt manner. Loudness itself receives no moral blame. |
-| Effort and failure | `theko` is skilled craft, `riola` is purposeful labor, and `thonuki` reports failure against a technical requirement. None fits the Wind's attempt or Aesop's contest result. | The event noun `mesatu` now names the Wind's attempts without turning them into labour. `whuo lureko` judges their immediate result without borrowing a systems term. |
-| Wager and governance vocabulary | `repora` is a proposal put before a collective process. This exchange needs no institution. | The Sun's spoken agreement uses the optative and `nawo`. The note also identifies the missing party: the Traveler. |
-| Active dependencies | The moral appears in two manual chapters, and the fable is the primer's annotated capstone. `keru loa` also reaches the compound registry and other literary texts. | The two manual citations follow the new moral. The capstone still presents the source line and back-translation as part of the reading method. |
-
-The comparison follows all five pillars without demanding an artificial change from each. Solarpunk and preindustrial commitments find the source's material scene already close to them. Art Nouveau changes the pressure of the organic line more than its objects. Secular Buddhist attention moves from rank toward consequence. Peace linguistics produces the widest divergence: translation states Aesop's claim, while transmutation leaves strength and volume neutral and lets the Traveler's departure answer the contest.
-
-No module word is required. Persuasion and coercion belong to ordinary social language, and the other compositions use equally general words. The paired page is still a capstone without asking a new learner to open a specialist lexicon.
-
-### Post-migration contextual retrofit
-
-Three old detours can now give way to direct base words in both renderings. Each replacement restores a source detail without changing the translation's fidelity or the transmutation's answer to Aesop. The remaining compositions stay because they still say the right thing.
-
-| Question | Disposition | Reason |
-|---|---|---|
-| Effort and attempt | Replace generic `theula whu shia to phoa` with `shia theula mesatu` | The older phrase said only "all that it did." The event noun of base `mesatu` now says "all its attempts" and leaves completion and success open until `whuo lureko` reports the fruit. |
-| Brow | Replace the descriptive location and broad `menoa` with `komeri` | Forehead is an ordinary bodily landmark in the source and in daily speech. The direct base noun is both shorter and more exact. |
-| Escape from the Sun | Replace `phei ... wepu`, go away from, with `lue ... phesari` | The Traveler now flees the burning brightness. `phesari` carries the danger or constraint that plain motion left unspoken. The close translation still throws the body down; the transmutation still uses an ordinary lying posture. |
-| Warmth, heat, and illumination | Preserve `sulae`, `sukaro`, and `keru loa` | The pleasant warmth is moderate, the later bodily heat is intense, and the registered expression "give brightness" presents a shining source. `sumeri` would turn the scene into a temperature parameter, while `keruma` concerns received illumination as a condition. |
-| Garment, pulling, and damage | Preserve `wethalu`, `lomare`, `ralu`, and `natu` | Head-garment remains a useful transparent composition, the cloak's embrace keeps wrapping embodied, and Aesop's "tore at" reports forceful pulling without proving that the cloth was damaged. `tawemi` and `pukeri` would change those claims. |
-| Optional module vocabulary | Use none | The fable's weather, clothing, bodily actions, persuasion, and coercion all belong to ordinary speech. No optional root improves either rendering. |
-
-## Paired review: Schleicher's fable
-
-The source chain begins with Schleicher's 1868 German rendering in `texts/sources/schleicher_1868.txt`. The controlled English source at `texts/sources/schleicher_1868_english.txt` translates the complete German wording and every explanatory parenthesis, while the German retains Schleicher's square brackets for words absent from his reconstructed Proto-Indo-European text. Each ordered citation stream reconstructs the complete stored source body exactly. The close translation uses 63 unique Phi forms; the transmutation uses 60. Both use shared Ecological and Work `mophiku` (shear). The first also uses Commons `phenori` (ownership), while the second uses `pilora` (exploit), shared by Work and Commons.
-
-### Close translation
+The source chain begins with Schleicher's 1868 German rendering in `texts/sources/schleicher_1868.txt`. The controlled English witness in `texts/sources/schleicher_1868_english.txt` preserves every explanation and parenthesis, while the German retains Schleicher's square brackets for words absent from his reconstructed Proto-Indo-European text. The ordered citations reconstruct that controlled witness exactly.
 
 | Area | Finding | Disposition |
 |---|---|---|
-| English ground truth | The common short English rendering omits Schleicher's explanations of shearing, grief, knowledge, comparative suffering, and the sheep making off. | A direct controlled translation from the German preserves all of them and supplies the aligned citation source for both Phi renderings. |
-| Constricted heart | `korua se peki` carried the bodily image but silently absorbed the parenthetical grief, while conditional `lu` turned simultaneous seeing into "if." | A duration phrase makes the seeing simultaneous. Intense `nuhe` states the emotional explanation in its own sentence. |
-| Great load | Plural large things lost both the singular object and the living bearer under its weight. Technical `takori` and interval-based `ritako` do not fit cargo on a horse. | New base noun `tupeka` names a burden borne by a living being and contrasts with both specialist load terms. |
-| The master | Canon refuses *master* as ordinary Phi vocabulary but does not allow translation to erase source power. Current Commons vocabulary can analyze one practical relation inside the title. | The exact title stays in English; `whu lo mophira phenori phelu miona` renders a person who holds ownership of the sheep. The limit is stated plainly. |
-| Worse off | `kipona` narrowed a general comparison of condition to pain. Phi still has no generic *bad* or *worse*. | The close translation reverses the comparison: the horses are more `towe`, well, than the sheep. The source's extra emphasis is recorded as a limit. |
-| Field and flight | `wemo` followed the common English *plain* rather than German *Feld*, and `rashelo` contradicted its own exclusion of flight from danger. | Existing `kosha` restores the field. New base verb `phesari` names flight; `rato` and fast `pholeni` retain Schleicher's other two motion descriptions. |
-| Sheep, wool, and carrying | The entries treated wool as a harmless gift, sheep as a fiber supply, and carrying as willing service. Those meanings prejudged the fable. | `mophira`, `mophi`, and `kolua` now describe the animal, material, and transport neutrally while leaving benefit, harm, and power to their own clauses. |
+| English ground truth | The common short English rendering omits shearing, grief, knowledge, comparative suffering, and the sheep making off. | The controlled translation from the German supplies the complete aligned witness. |
+| Constricted heart | The German gives both a bodily image and its emotional explanation. | Phi states the squeezed heart and intense sadness separately, during the act of seeing. |
+| Load and bodily burden | Physical heaviness alone loses the living bearer. | `tumoa` describes the wagon's weight; base `tupeka` names the burden carried by a horse. |
+| Shearing | Generic cutting did not identify removal of a fleece from its living bearer. | Shared Ecological and Work `mophiku` names shearing at both source occurrences and keeps the sheep as patient. |
+| The master | Phi has no ordinary person-role for *master*, but translation cannot erase the source relation. | The title stays in English. Commons `phenori` identifies a person who holds ownership of the sheep inside the Phi sentence. |
+| Worse off | Phi has no generic *bad* or *worse*. | The comparison reverses: the horses are more `towe`, well, than the sheep. The limits table records the source's extra emphasis. |
+| Final motion | Schleicher offers turned aside, escaped, and made off as descriptions of one departure. | Phi coordinates a turn towards the field with quick flight into it rather than making the sheep leave three times. |
+| Source reconstruction | The horses' quotation and final parenthetical descriptions must remain complete. | The citation stream includes the closing quotation mark and reconstructs the stored witness exactly. |
 
-### Transmutation
-
-The transmutation was written again from the controlled English source. Its source coverage matches the close translation, but each deliberate change now appears in the gap log and in the side-by-side comparison.
-
-| Area | Finding | Disposition |
-|---|---|---|
-| Driving and power | Neutral causative `ka` made the horses go but could not itself judge consent or method. The earlier notes incorrectly claimed that it did. | The transmutation uses base `kawhera` (coerce) for the horses and optional `pilora` (exploit) for the sheep. Both judgments are supported by the actions that follow. |
-| Refusal of the title | Simply replacing *master* with `pilu` both erased the rank and invoked a verb for receptive, mindful taking. | The title disappears from Phi but stays in the citation. Coercion and exploitation expose the relations without turning the human being into a fixed moral identity. |
-| Repeated shearing | The German says the sheep no longer have wool and are shorn; habitual repetition is an interpretation rather than an inflection hidden in the source. | The transmutation deliberately adds `ro` and records the amplification. The close translation stays with unmarked passive shearing. |
-| Ranking suffering | Schleicher says sheep fare worse than horses, although the animals bear different forms of labor and loss. | `lo phirae tupeka`, different burdens, refuses a common scale without denying either experience. This is the transmutation's clearest secular Buddhist and peace-linguistic change. |
-| Ending | The sheep still leaves alone, while the horses stay at work. A repaired ending could easily have invented solidarity or rescue. | Flight is an unresolved response rather than a moral failure or a solution to the scene. |
-| Learning role | Two optional power terms could burden an elementary reader, but replacing either with a soft base paraphrase would undo the text's central analysis. | Glosses, back-translations, and the module labels appear on the page. Base paraphrases are available through the ordinary module convention. |
-
-The page gives all five pillars their own material question. The widest changes come from peace linguistics and the secular Buddhist refusal to rank suffering. Solarpunk, Art Nouveau, and preindustrial sections stay anchored to the wagon, fleece, garment, and living bodies.
-
-### Post-migration contextual retrofit
-
-The post-migration pass checked every content phrase against the completed lexicon. Neither Phi rendering needs a change. The existing roots keep source distinctions that newer words would blur, and the transparent clauses still expose relations that a broader label would hide.
-
-| Question | Disposition | Reason |
-|---|---|---|
-| Physical weight and burden | Preserve `tumoa` and `tupeka` | `tumoa` gives the wagon the source's heavy judgement. `tupeka` keeps the living bearer inside the great load; newer `pamolu` would identify weight as a magnitude but lose the burden as an object carried by the horse. |
-| Heartfelt grief | Preserve intense `nuhe` | Schleicher's parenthesis describes immediate heartfelt distress without an identified loss. `nuhemi` is continuing grief after loss, so it would narrow the source more than `ru nuhe phaelo`. |
-| Warmth, shearing, and bodily consequence | Preserve `sulae`, passive `kati`, and the surrounding clauses | The garment is warm, not hot. The source establishes cutting and missing wool but does not separately establish damage, cruelty, or an act of covering. `sukaro`, `pukeri`, `lerasu`, and `tawemi` would add those claims rather than replace a workaround. |
-| Animal objects of power verbs | Repair the lexicon prose; preserve the Phi | The target entries for `kawhera` and `pilora` had narrowed their objects to people even though the transmutation validly applies coercion to horses and exploitation to sheep. D053 restores animals to both ranges and adds examples without changing a form or gloss. |
-| Optional module vocabulary | Preserve `phenori` and `pilora` only | Commons `phenori` supplies the practical ownership relation required by the close translation. Shared Work and Commons `pilora` supplies the transmutation's analysis. No other optional term makes either rendering more faithful or natural. |
-
-### Full source-fidelity repair
-
-The stricter pass reopens the earlier conclusion that no Phi line needed changing. Generic cutting did not identify shearing, one quoted noun phrase was not a complete assertion, "no longer" survived only in the source line, the transmutation dropped the causal force of "because we know," and the final German alternatives had become several successive departures. The citation stream also omitted the closing quotation mark after the horses' speech. D074 repairs all of them without changing the controlled source.
-
-| Question | Disposition | Reason |
-|---|---|---|
-| Shearing and cut wool | Add shared Ecological and Work `mophiku` and use it in both renderings | `kati` names division by an edge. It did not say that an animal's grown fleece was removed, the distinction Schleicher names twice. The new root keeps the sheep as patient and places the act in both animal-material and textile-work learning paths. |
-| "Listen, sheep" | Preserve canonical `kona mophira. no sheluo.` and repair the derived English | Phi's extra-clausal vocative comes before the directive it accompanies. "Sheep, listen" is an honest natural rendering of that order; the exact source remains beside it. |
-| Master and garment clause | Merge the close rendering's fragment with the causative garment assertion | The person identified through ownership now serves as the subject of one complete sentence. The source title remains exact in English, while Phi states the practical relation and the resulting garment without a stranded noun phrase. |
-| No longer | Replace present `nosa` with past cessative `to te phelu` | "Now have no wool" repeated the resulting state but did not carry the ending of possession. Cessative hold states that transition, while the preceding source-aligned clause still reports the current absence. |
-| Because we know | Restore `lao` in the transmutation | The transmutation has no philosophical reason to turn the source's causal explanation into an unrelated fact. Knowledge again precedes and explains the horses' deep sadness. |
-| Worse off | Preserve reversed comparative `towe` and keep generic bad compositional | The close rendering says that the horses fare better than the sheep. Exact "even worse" remains in the source line, with its unmarked emphasis recorded as a limit. |
-| One final motion | Coordinate turn and quick flight in the close rendering; use one quick flight in the transmutation | Schleicher's parentheses offer escaped and made off as explanations of the same reconstructed motion. The repair no longer makes the sheep depart three times. |
-| Source reconstruction | Add the missing closing quotation mark and combine final citations | Each rendering's ordered citations now reproduce the stored source body exactly, including the end of the horses' quotation. The page heading carries the title. |
-| Active dependencies | Update the paired page, its continuous readings, both module chapters, the decision register, the review record, the site stanza count, generated lexicon references, and phonetic-neighbour attestations | The stored German and controlled English remain unchanged. No other active Phi passage uses the new root. |
+The translation uses shared `mophiku` and Commons `phenori`. No other optional term makes the source more exact.
 
 ## Translation review: The Metta Sutta
 
@@ -187,107 +106,48 @@ The translation led to four roots. The remaining compositions fit Fausböll bett
 | Womb and birth parent | Preserve `thowia phao mokura` | `mokura` makes the bodily location concrete without pretending that belly and womb are identical. Reproductive anatomy has its own recorded return conditions and should not be settled by one traditional source. |
 | Inclusive beings | Preserve `theula miona nela theula limoe` | The composition includes people without asking the normally nonhuman `limoe` to absorb them. The wider generic-organism question remains under `CV-LIFE-01`. |
 
-## Paired review: UDHR Article 1
+## Translation review: UDHR Article 1
 
-The ground truth is the complete 1948 English Article 1 stored in `texts/sources/udhr_1948.txt`. The close translation uses 23 unique forms. Four optional roots preserve source distinctions: `sherelo` is a normative right that can survive denial, `remori` is reason as a faculty, `sharino` is conscience as moral self-appraisal, and `naseru` states the final obligation. The 21-form transmutation uses Commons `shereni` for recognised entitlement and `naseru` for obligation.
+The ground truth is the complete 1948 English Article 1 stored in `texts/sources/udhr_1948.txt`. Three aligned units preserve both source sentences. Four optional roots keep distinctions the declaration needs: `sherelo` is a normative right that can survive denial, `remori` is reason as a faculty, `sharino` is conscience as moral self-appraisal, and `naseru` states the final obligation.
 
-| Area | Close translation | Transmutation |
+| Area | Finding | Disposition |
 |---|---|---|
-| Birth and equality | A second Phi sentence says that equal worth and rights are held from birth and therefore preserves the scope of the English coordination. | Freedom stays tied to birth, while equality becomes a separate standing universal claim. |
-| Dignity and rights | `rolia` supplies inherent worth or dignity; `sherelo` leaves a right sayable before recognition or fulfillment. | Equal worth remains, but rights narrow to recognized `shereni` entitlements. |
-| Reason and conscience | Passive `se loa` retains the endowment metaphor. `remori` names reason as a fallible and revisable faculty, while `sharino` states conscience directly. | `po remo` gives a capacity to think, while `korua sano` turns conscience into the heart's knowing. |
-| Brotherhood and conduct | `lomea phiora` retains a sibling spirit, and reciprocal `wiso` directs the action toward one another. | People act as siblings, and `phena` makes kindness part of the observable conduct. |
-| Remaining limits | `phiora` is less idiomatic than English "spirit," `lomea` necessarily ungenders brotherhood, and `naseru phelu` makes the source modal's obligation explicit. | The gap log records each deliberate change, including the loss of birth scope on equality and the narrowing from rights to entitlements. |
+| Birth and equality | English coordinates freedom and equality under birth. | A second Phi sentence repeats the birth scope over equal dignity and rights. |
+| Dignity and rights | Recognition cannot be allowed to create the right it acknowledges. | `rolia` supplies inherent worth or dignity; `sherelo` keeps a right sayable under denial. |
+| Reason and conscience | Event-noun `remo` names thinking, not the endowed faculty in the source. | `remori` names the fallible faculty for weighing reasons. `sharino` names moral self-appraisal, and passive `se loa` preserves endowment without inventing a giver. |
+| Brotherhood | Phi has no universal male class. | `lomea phiora` retains sibling spirit while necessarily removing grammatical gender. |
+| Conduct and modality | Bare necessity would overstate English *should*. | Reciprocal `wiso` directs conduct towards one another, while `naseru phelu` presents a held obligation under the declaration's ethical source. |
+| Learning paths | The source draws distinctions from more than one optional domain. | Philosophical Reasoning supplies right, reason, and conscience; Commons supplies obligation. The page's limits table names the remaining distance. |
 
-The five-pillar comparison does not force five rewrites. Solarpunk thought tests whether a right survives institutional denial and whether an entitlement has practical form. Secular Buddhist attention shifts endowed faculties toward conditioned acts in the transmutation. Art Nouveau affects the line and repetition rather than the concepts. Peace linguistics moves the transmutation from prescribed feeling to accountable conduct. Preindustrial wisdom finds kinship and heart-knowing already present, without adding a village or tradition absent from the source.
+## Translation review: Babel
 
-### Fidelity repair
+The ground truth is KJV Genesis 11:1-9 stored in `texts/sources/kjv_genesis.txt`. The translation follows all nine verses in order. Commons `karami` and Work `noraku` and `torali` are the optional roots that the source needs; every other pressure resolves through base composition or an adjacent source identity.
 
-The source comparison exposed one lexical gap and one avoidable modal overstatement. Philosophical Reasoning `remori` now names the faculty of reason that event-noun `remo` could only approximate. Existing Commons `naseru` carries the final moral obligation without presenting it as unqualified necessity.
-
-| Question | Disposition | Reason |
+| Area | Finding | Disposition |
 |---|---|---|
-| Freedom, equality, and dignity | Preserve `ralu thowia` and `kolo rolia` | `ralu` leaves a course open from constraint, `kolo` supplies equal standing, and `rolia` belongs to every person without being earned. `thunoa` concerns dignified conduct or treatment and cannot replace inherent dignity here. |
-| Reason | Replace event-noun `remo` with `remori` in the close translation | `remori` names the faculty. `remo` remains thinking activity, `remotha` one stated ground for accepting a claim or choice, and `kethira` one act of inference. |
-| Rights and entitlements | Preserve `sherelo` in translation and `shereni` in transmutation | The declaration needs a right that can still be said when an institution denies it. The transmutation deliberately asks whether a social order has recognised the claim and made it usable. |
-| Conscience and heart-knowing | Preserve `sharino` in translation and `korua sano` in transmutation | `sharino` is the source's inward moral self-appraisal. The heart's knowing is a deliberate Phi reframing, while `naremu` is guilt felt after an act or omission rather than a moral faculty. |
-| Brotherhood and kinship | Preserve `lomea phiora` and `phea lomea` | The sibling noun keeps the source's specific kin relation without a universal male class. Wider `thaluni`, kin, would make the image less exact. |
-| Conduct and modality | Preserve reciprocal `wiso`; replace `na` with the action before `naseru phelu`; preserve transmuted `phena` | `wiso` gives action toward one another. The noun construction states the source's ethical obligation without turning it into an unqualified must, while kindness belongs only to the transmutation. |
-| Optional module vocabulary | Use close `sherelo`, `remori`, `sharino`, and `naseru`; use transmuted `shereni` and `naseru` | The translation now uses every specialist distinction needed by the source. The transmutation keeps entitlement and obligation while deliberately recasting the two faculties. |
-| Active dependencies | Update the Philosophical Reasoning chapter, module record, conscience entry, sample-text guide, and generated lexicon references | The new faculty must remain distinct from thinking activity and justificatory reason wherever Article 1 teaches the contrast. |
+| Source names | Shinar and Babel have no accepted Phi adaptations. | The land relation and naming event appear in Phi, while the exact names remain in their source lines. |
+| LORD | The title is outside Phi, but the source actor cannot disappear. | `whu karami phelu limoe` describes a nonhuman story creature who holds authority without settling its legitimacy or nature. |
+| Brick, mortar, city, and tower | Wall and oil were too broad for recurring built distinctions. | Clay-stone and thick black oil describe brick and bitumen. `whalo silawo` gives the city a human-scale form, while Work `torali` names the tower directly. |
+| Renown and feared dispersal | The builders seek public recognition and build to avoid scattering. | A wish to be known by many people carries renown. Purpose-first order places the feared result before the building intended to prevent it. |
+| Descent and descendants | The source gives downward motion and lineage without naming ordinary children. | Travel from sky to earth carries descent; descendants of people carry the genealogical relation. |
+| Confounding | A changed language alone does not state the intended communicative loss. | Phi states one shared language becoming different languages, then gives failed reciprocal understanding as the purpose. |
+| Dispersal | The KJV presents punishment, not sowing. | Authority remains the actor, `thiwera` reports scattering, and no seed comparison changes the event's force. |
+| Coverage | Every KJV clause must belong to one aligned unit. | The ordered citations reconstruct Genesis 11:1-9 exactly, and the continuous Phi reading matches the detailed blocks. |
 
-## Paired review: Babel
+## Translation review: Heart Sutra
 
-The ground truth is KJV Genesis 11:1-9 stored in `texts/sources/kjv_genesis.txt`. The repaired close translation uses 81 unique forms and three optional roots: Commons `karami` authority and Work `noraku` blocked and `torali` tower. The 74-form transmutation uses `torali` as its only optional root. The close rendering remains answerable to all nine verses, while the transmutation keeps source detail until its declared changes of actor, judgement, and image. The review adds `torali`; every other lexical pressure resolves through composition or an existing source boundary.
+The ground truth is F. Max Müller's 1894 Smaller Pragñâ-pâramitâ-hridaya-sûtra stored in `texts/sources/buddhist_mahayana_texts_1894.txt`. The translation follows the complete printed text and its colophon without reconstructing lists Müller abbreviates. Philosophical `remole`, concept, is its only optional root.
 
-| Area | Close translation | Transmutation |
+| Area | Finding | Disposition |
 |---|---|---|
-| Source names | Shinar and Babel stay exact beside the Phi. The passage gives the land relation and naming event without assigning adaptations. | The land relation survives and Shinar stays in the citation. Babel becomes `lo haluma`, Many Languages, a semantic place-name made for this retelling. |
-| LORD | The KJV title stays beside the Phi. Inside the passage, `whu karami phelu limoe` reports a nonhuman story creature who holds authority. Legitimacy and exact nature remain separate questions. | `muila`, the earth, replaces the source actor and needs no descent. |
-| Materials | Brick is the registered clay-stone. The KJV's bitumen becomes thick black oil and connects the clay-stones. | Brick stays clay-stone, while bitumen becomes mud that connects the pieces. |
-| Building | A great village and `torali` tower are built for the builders; the top may reach the sky, their name may become known to many people, and a negative purpose clause preserves their fear of dispersal. | The transmutation keeps the same structure, top, benefit, renown, possibility, and fear before it answers that fear differently. |
-| Human possibility | Actions the builders have imagined face no `noraku`, block. | The builders begin in the present moment and can do everything they have imagined doing. |
-| Confounding | The whole earth's one language is deliberately changed into different languages so speech from one another cannot be understood. | One language is not enough for the earth, and the shared language becomes different languages without the punitive purpose. |
-| Dispersal | Authority uses `thiwera` to scatter the people from the settlement across the earth. | The earth uses the same verb, compares the people to seed, and follows the comparison into gardens. |
-| Ending | The source's final explanation and repeated dispersal close the account. | Two uncited lines call every language a garden and place Phi among them. |
-
-`thiwera` stays neutral in both passages. It describes broadcast scattering and has an audible kinship with `thinoe`, seed, but it does not make every scattering innocent. Authority is the subject in the translation, and no seed comparison appears, so the punishment remains severe. The transmutation adds that comparison and follows it into gardens. This is the peace-linguistic test: refusing violence in Phi cannot mean concealing violence in a source.
-
-### Fidelity repair
-
-The completed lexicon exposed several semantic shortcuts, dropped source relations, and one genuine gap. The table records the repair and the expressions that remain transparent.
-
-| Question | Disposition | Reason |
-|---|---|---|
-| Brick and ceramic | Preserve registered `mueri kerou` | `mueri kerou`, clay-stone, is Phi's established brick expression and already includes clay hardened for a stone's work. `mueta` names the wider ceramic material class; it would not identify a brick's form or use by itself. |
-| Mortar and bond | Replace material `nolami` and the make-one clause with `lorea` | `nolami` is a mutual bond between beings, not the physical English homonym. In the close translation, bitumen is material that connects clay-stones. In the transmutation, mud connects them directly. |
-| Tower and top | Add Work `torali`; use `torali raeli lumae` for the top | `raelu moru`, tall wall, identifies a quality and one possible face rather than the complete structure. The bounded optional root names a freestanding tower or one rising from another building, while the end of its height identifies the upper endpoint without making edge mean top. |
-| Name, renown, and feared dispersal | Use a name known to many people; place the negative future passive outcome under purpose-first `lila` | The builders want public recognition and undertake the work to prevent a feared outcome. The repair carries both relations instead of substituting an identifier and a separate dislike statement. |
-| Downward path and divine actor | Use `lue waero kau muila` around motion; use `whu karami phelu limoe` inside the close Phi | Source and destination supply descent without another root. The exact title remains in the citation, while Phi reports only the nonhuman story participant and authority relation needed in the event. |
-| Beginning and imagined action | Preserve close `noraku`; give the transmutation `pa phoa`, `nosa`, future `so`, and potential `po` | `noraku` keeps the source's negative prediction and blocked action. The transmutation restores begin, now, and future time, then makes its declared affirmative turn through actions the builders will be able to do. |
-| Confounding and intended failure | Replace `kuewa` with caused change from one language to different languages plus a negative purpose clause | Unfamiliarity reports a listener's prior experience, not the source event. The repair states both the caused linguistic change and the intended loss of reciprocal understanding. |
-| Scattering and sowing | Preserve direct `thiwera`; keep transmuted `phea lo thinoe`; put source and extent before the object | The same neutral verb can report punitive dispersal and seed-shaped sowing. Authority and the absence of comparison keep the translation severe; seed and garden make the transmutation's ethical departure visible. Canonical S PP O V order now carries both occurrences. |
-| Face of the earth | Preserve `muila menoa` | The KJV itself offers the bodily image, and both renderings make that metaphor explicit. Replacing it with `muila leko`, earth's surface, would be denotationally tidy but would discard an image that the transmutation later answers with seed and garden. |
-| City, people, and source identities | Preserve `whalo silawo`, use `theula miona ta punoa nai` in both renderings, and keep Shinar, Babel, and LORD external | The settlement expression follows the standing city decision, while one society states the source's unity claim more clearly than bare one. Exact names and the title remain visible beside Phi rather than entering through improvised adaptations. |
-| Optional module vocabulary | Use close `karami`, `noraku`, and `torali`; use transmuted `torali` | Authority and blocked action fit the source's relations. Tower belongs to both methods because neither philosophical difference turns the structure into a wall. |
-| Active dependencies | Update the Work profile and speaker chapter, sample-text guide, chapter 7's two repeated Babel sentences, decision register, and generated lexicon references | The source-led root and repaired excerpts must remain identical wherever the project teaches the paired method. |
-
-## Paired review: Heart Sutra
-
-The ground truth is F. Max Müller's 1894 Smaller Pragñâ-pâramitâ-hridaya-sûtra stored in `texts/sources/buddhist_mahayana_texts_1894.txt`. The close translation uses 102 unique Phi forms and one optional root, Philosophical `remole` (concept). The 79-form transmutation uses base vocabulary throughout. The close rendering follows the complete printed text and its colophon, but does not reconstruct the lists Müller abbreviates with "till we come to." Names and tradition-specific terms remain in the adjacent source lines when no accepted form or exhaustive equivalent exists.
-
-| Area | Close translation | Transmutation |
-|---|---|---|
-| Five Skandhas | The ternary count appears at first mention, where each Skandha is a gathering and the same gatherings are empty by nature. Later, event-noun `morae` keeps perception distinct from conception and knowledge. | The category list has five entries but never announces its count or gathered character. `phaelo` deliberately turns perception towards felt experience. |
-| Address and identity | Exact names occur in cited English. Passive `nelu` carries venerable, `kona miona` carries the otherwise lost vocative, and a separate speech tag retains "he said." | A deep-seeing epithet replaces Avalokiteshvara; the listener receives no address. |
-| Equation | Deixis and focus reproduce "here" and "indeed." Two comparison clauses preserve the reversal. | Coordination makes non-difference mutual in one sentence. |
-| Contradictory qualities | Error is absent and present. A headless relative preserves "not imperfect" before the next clause denies completeness. | Purity and completeness are each asserted and denied. Those are declared departures from Müller's exact pairs. |
-| Absence chain | Before the abbreviation, the Phi zeroes knowing, its absence, and the end of both. | The transmutation passes directly from the senses to decay and death. |
-| Consciousness and fear | Quality-noun `waeli` forms the enclosure. Its caused ending leads to explicit freedom with `ralu`, and `nirelo` restores the source's enjoyment of final Nirvana without treating peace as an exhaustive equivalent. | `remo kire` places the walker among constructions of thought; release opens the way out. |
-| Verse and crossing | `melira`, song or poem, receives both rank claims. The addressed wisdom completes every movement to a literal shore. | The same noun carries fewer claims, and an optative opens the crossing first to us and then to everyone. |
-| Ending | Only Müller's citation carries Svaha; a Phi sentence carries the colophon. | `shea shua`, peace comes, answers Svaha and closes the spoken text. |
-
-No new root is needed. Philosophical `remole`, concept, separates conception from mind. Base `nelu` restores reverence, `morae` distinguishes perception from feeling, and `melira` gives the verse a work made for the voice. `kanelu`, `nirelo`, and `theloa` supply error, pleasure, and truth without asking a Buddhist source to borrow a looser English neighbour. `waeli`, `ralu`, `helui`, and `kerime` supply consciousness, freedom, change, and shore. The central boundary is textual: this is a translation of Müller's English, not a fresh adjudication of Sanskrit doctrine. The close version can therefore carry annihilation and superiority while the transmutation releases thought-shapes and invites company. Neither choice is disguised as a limit in Phi.
-
-### Post-migration contextual retrofit
-
-The paired page now uses direct words wherever the current entries provide the source's distinction. Transparent compositions remain where a dedicated Phi root would claim more than Müller's English establishes.
-
-| Question | Disposition | Reason |
-|---|---|---|
-| Venerable and dignified | Replace close `thunoa` with passive `nelu` | `thunoa` describes self-possessed conduct or treatment that accords dignity. Müller's venerable instead reports high regard, which `nelu`, revere, preserves without assigning a rank or office. |
-| Perception and feeling | Replace close event-noun `phaelo` with `morae`; preserve transmuted `phaelo` | `morae` is perception through one or more bodily channels, which fits Müller's printed term. `phaelo` reports felt sensation or emotion. The transmutation chooses that inward experience deliberately as one of its five ordinary bundles. |
-| Imperfection and quantitative shortfall | Use nested negation in the close translation; preserve completeness asserted and denied in the transmutation | `thenoi` compares a tested quantity with a required reference and needs Phi's `nela` construction. It cannot mean imperfect without such a comparison. The close rendering now denies the headless relative "what is not complete," while the transmutation retains its declared move to completeness. |
-| Verse, poem, and greatness | Replace close `phelui sena` and transmuted event-noun `meliho` with `melira`; replace `whalo` with `ru welao` and close `ru nulo` | `melira` already covers a song or poem shaped for the voice. `meliho` names the act of singing, while word-pattern is needlessly generic. `whalo` concerns physical size or broad scope, not the importance hidden inside the English homonym "great." Very good and very deep knowing state the two judgements directly. |
-| Form and formation | Preserve event-noun `kire` | `kire` names a thing's shape or form. `norelu` centres separate parts or material acquiring an organised structure, which would turn Müller's form into a process of formation. |
-| Faultlessness, purity, error, and technical fault | Use event-noun `kanelu` in the close translation; preserve transmuted `shiloa` | Holding no error and then holding error retains the close source pair without borrowing technical `kiphira`, fault. The transmutation keeps its deliberate move to purity and records the change in its gap log. |
-| Ignorance, destruction, and obtaining | Preserve `sano whemoa`, `lumae`, and `pilu` | Knowledge's emptiness, an ending, and active taking expose Phi's available relations without coining Buddhist technical vocabulary. Dissolution, breakage, and release answer different material or relational events. Müller's exact doctrine stays visible in the source lines and limits table. |
-| Consciousness, freedom, release, and change | Preserve close `waeli` and `ralu`; preserve transmuted `remo kire` and `leiro`; replace transmuted event-noun `kelu` with `helui` | The close rendering follows consciousness as subjective experience and the resulting freedom from fear. The transmutation makes its ethical turn openly by releasing thought-shapes instead of disguising annihilation as a direct equivalent. `kelu` is becoming, while Müller's change already has the direct base verb `helui`. |
-| Enjoyment, truth, and falsehood | Use `nirelo` for pleasure, `theloa` for truth, and nested negation for not false | The close translation had omitted "enjoying" and had used deliberate lying for falsehood. Pleasure is now explicit. Phi has no false adjective, so the source's own double negative is built from negated `shewo`, true, before `theloa` states truth. |
-| Aspect, deixis, and connective detail | Restore progressive practice, completed awakening, "he said," the second "here," and "but" | `to si` keeps the opening practice underway, while `ki` carries the later completed approach and awakening. Short clauses and current discourse forms recover the smaller relations rather than leaving them to the source line alone. |
-| Literal back-translation | Match `shemui` to uttered and `ra shuna` to that edge | The close Phi does not encode proclamation's public force, and the transmutation does not say far shore. The English below each rendering now states only what the Phi says; the limits table and gap log hold the rest. |
-| Names, sacred terms, and optional vocabulary | Preserve adjacent source forms and close `remole` only | Avalokiteshvara, Sariputra, Prajnaparamita, Nirvana, and Svaha keep their source identities beside the Phi. `remole` earns its Philosophical module place because conception must remain distinct from mind. No other optional root improves either rendering. |
-| Active dependencies | Update the paired page, review ledger, and phonetic-neighbour attestations | The changed Phi sentences recur in the page's complete translation block but nowhere else in the active corpus. The vocabulary forms and 250 neighbour pairs remain unchanged, while their active-corpus counts move with the revised text. The source file, shelf links, and registered compounds remain unchanged. |
+| Names and titles | Avalokiteshvara, Sariputra, and tradition-specific terms have no accepted Phi forms. | Exact identities remain in the source lines. Phi carries reverence, direct address, awakening, and the practical descriptions around them. |
+| Five Skandhas | The source names five gatherings and later distinguishes perception, conception, and mind. | The ternary count appears at first mention. `morae`, `remole`, and event-noun `remo` keep the later categories apart. |
+| Form and emptiness | The equation reverses itself explicitly. | Event-noun `kire` and quality-noun `whemoa` appear in both directions rather than relying on one symmetric paraphrase. |
+| Contradictory qualities | Faultless and not faultless, then not imperfect and not perfect, must all survive. | Error is absent and present. A nested headless relative preserves the double negative before completeness is denied. |
+| Absence chain | Müller abbreviates parts of the doctrinal lists. | Phi follows the printed abbreviation and does not invent what the English witness omits. |
+| Consciousness and fear | The source moves from annihilated envelopment to freedom and enjoyment of final Nirvana. | `waeli`, caused ending, `ralu`, and `nirelo` preserve that sequence while the limits table keeps Nirvana outside an exhaustive Phi equation. |
+| Verse and crossing | The verse makes rank claims and the mantra implies one traveller. | `melira` receives the source's two comparisons. Wisdom is addressed, `thia` carries the traveller, and `kerime` gives the crossing a shore. |
+| Literal English | Back-translation must not restore force absent from the Phi. | Uttered remains uttered rather than proclaimed, and edge remains edge rather than far shore. The source line retains the stronger wording. |
 
 ## Translation review: The Prophet, On Children
 
@@ -374,58 +234,22 @@ The ground truth is the complete On Love teaching in Kahlil Gibran's 1923 *The P
 
 The pass changed 19 of 35 units and added two base roots, with no module membership, registered compound, function word, or grammar. `CV-GRAIN-01` and `CV-DEVOTION-01` preserve the compositional decisions around grain work, prayer, and praise; existing decisions continue to keep following and kneading compositional, pruning deferred, deservingness direct, and violence-centred roots declined.
 
-## Paired review: Tao Te Ching selections
+## Translation review: Tao Te Ching selections
 
-The ground truth is James Legge's complete chapters 8, 11, 17, 63, and 76 from his 1891 *Tao Teh King*, stored in `texts/sources/tao_teh_king_1891.txt`. The close translation has 51 aligned units and 158 unique Phi forms. Its citations consume the complete selected source in order without an uncited word between them, and the continuous Phi block has the same word stream as the detailed rendering. Thirteen optional roots carry distinctions the source needs. The transmutation has 30 aligned units and 104 unique forms, all from the base vocabulary. It follows chapters 17 and 76 from beginning to end, selects the first section of chapter 8, the post-wheel argument of chapter 11, and four moments from chapter 63, and records every omission or redirect in its expanded gap log.
+The ground truth is James Legge's complete chapters 8, 11, 17, 63, and 76 from his 1891 *Tao Teh King*, stored in `texts/sources/tao_teh_king_1891.txt`. All 51 units align in order, their citations consume the selected source without an uncited word between them, and the continuous Phi reading has the same sentence stream as the detailed blocks.
 
-| Learning path | Optional roots in the close translation |
-|---|---|
-| Commons and Collective Governance | `karami` (authority), `kowanu` (governance) |
-| Commons and Collective Governance; Philosophical Reasoning | `whakeru` (object) |
-| Accessibility and Participation | `kelasu` (usable) |
-| Systems and Shared Infrastructure; Work, Craft, and Repair | `kelitho` (function) |
-| Ecological Systems and Material Life; Systems and Shared Infrastructure | `mirela` (state), `pherami` (depend) |
-| Ecological Systems and Material Life; Systems and Shared Infrastructure; Work, Craft, and Repair | `monaki` (component) |
-| Work, Craft, and Repair | `pokera` (competent), `rinoka` (project) |
-| Philosophical Reasoning | `norethi` (confident), `taleri` (virtuous) |
-| Household and Daily Life | `tholupi` (room) |
-
-| Area | Close translation | Transmutation |
+| Area | Finding | Disposition |
 |---|---|---|
-| Water and contention | Water does not persevere towards another place, and people dislike the low place it occupies. | Water helps everything and takes nothing. |
-| Six excellences | Residence, thinking, association with virtuous people, governance, affairs, and movement each receive the relation Legge gives them. | The whole sequence stays outside the selected reading. |
-| Useful emptiness | Thirty wheel components extend towards one centre; their open centre admits the straight, strong thing Legge identifies as an axle. Door-space stays distinct from the door panel. | The wheel is omitted; a pot, door-space, and window recast dependence as possibility and help. |
-| Political relation | Chapter 8 names governance. Chapter 17 preserves authority, spoken praise, observed lack of confidence, reticence, and completed undertakings. | Rulers become guides, praise becomes honour, and the appearance of irresolution and successful undertakings are reduced or omitted. |
-| Easy and difficult | `kethua` names difficult affairs and its negation supplies the easier state. Careless commitment replaces physical lightness, and a passive clause keeps apparent ease apart from fact. | Most of the preparation, promise, and difficulty chain stays outside the selection. |
-| Dry and withered | At death plants are dry and have withered. | The selected plant line now says both as well. |
-| Death and life | Rigidity and strength come with death; softness and weakness come with `lioru`, life. | The qualities remain companions of death and life. |
-| Force and conquest | A person trusts the strength of their own people who act through force, then fails to fulfill the purpose Legge names as conquest. | Trust in strength brings no fruit. |
-| Feller and wind | A broad tree is chosen by a tree cutter. | A rigid tree falls in wind while a flexible tree stays. |
+| Water and six excellences | The opening moves from water's low place through residence, mind, association, governance, affairs, and movement. | Each relation remains in the translation. `kowanu` names governance, while deep stillness and association with virtuous people keep their own clauses. |
+| Wheel and useful emptiness | Legge names spokes, nave, and axle as parts of one geometry. | `monaki` and the geometry carry the spokes, one centre carries the nave, and a straight strong thing sits beside Legge's axle. `ponu tholu` keeps an opening apart from a door panel. |
+| Political relation | Chapter 17 distinguishes barely seen authority, praise, irresolution, reticence, and completed work. | `karami`, spoken appreciation, observed lack of confidence, speaking little, and completed undertakings preserve those distinctions without adding a ruler class. |
+| Easy and difficult | Phi has no generic easy adjective. | `kethua` names difficulty and its negation supplies the easier side. Careless commitment replaces the false weight reading of a light promise. |
+| Recompense | The source states a general response rather than a command to the reader. | A person gives kindness to someone who acts harmfully towards them. The limits table records the accounting sense Phi leaves behind. |
+| Life and death | Dryness, completed withering, softness, weakness, rigidity, and strength remain separate. | `lioru` names life, `kurathi` names dry, and perfective `kureno` presents withering as complete. |
+| Force and conquest | The source links reliance on force with failure to conquer. | Phi preserves the reliance and failed purpose while Legge's line alone supplies the military body and conquest. |
+| Tree cutter | The final comparison names a role Phi does not lexicalize. | A person who cuts trees chooses the broad trunk. The source keeps *feller* exact. |
 
-No new root is needed. The close translation now uses `taleri` for virtuous people, composes spoken praise as `woraka phelui`, and uses observed lack of `norethi` for Legge's irresolution. `meloa` replaces intention in the striving line, while `whakeru` replaces the false use of logical `themore` for wrangling. Wheel parts remain source-facing descriptions: `monaki` and geometry carry the spokes, one centre carries the nave, and a straight, strong thing sits beside Legge's axle. `ponu tholu` keeps an opening apart from a movable door panel. The source alone still names Tao, conquest, and the feller at their full inherited scope. The transmutation can refuse or redirect those relations because its gap log says exactly where it does so.
-
-### Current lexical and fidelity rulings
-
-The present pass retains the useful decisions from the completed-vocabulary retrofit and corrects the semantic shortcuts that survived it.
-
-| Question | Disposition | Reason |
-|---|---|---|
-| Highest excellence, virtue, and broad goodness | Preserve the quality noun of `welao` for Legge's recurring excellence; use `taleri` only where the source says virtuous | `welao` can judge practical function and ethical benefit across all six settings. `taleri` would narrow the whole sequence to ethical conduct, but it is exact for the people named in the association line. |
-| Mind, thinking, calm, and stillness | Preserve event-noun `remo`, but replace `shena` with `moesha` | Phi still approaches the source's mind through thinking rather than a general mind noun. `remori` is the narrower faculty of reason and does not replace the source term here. `moesha` restores absence of movement instead of substituting low agitation. |
-| Striving, intention, wrangling, and argument | Use `meloa` for striving and `whakeru` for the objection; remove `thueli` and `themore` | Intention did not report effort, while `themore` explicitly names inferential structure rather than quarrel. Perseverance and objection each keep one visible part of Legge's wording, and the limits table names what remains narrower. |
-| Government, governance, authority, and guidance | Preserve close `kowanu` and `karami`; preserve transmuted `kulo` | Chapter 8 concerns collective arrangement, while chapter 17 needs the power relation itself. The transmutation deliberately turns rulers into guides; importing authority there would erase its reframe. |
-| Praise, honour, and appreciation | Compose close praise as spoken `woraka phelui`; preserve transmuted `keluro` | Legge names a spoken act, so honour alone was too broad in the translation. The transmutation may turn praise into visible or formal recognition because its gap log records the change. |
-| Irresolution, shyness, confidence, and reticence | Replace close `nilua` with a proposition seen as `norethi ma`; keep speaking little and valuing words | `nilua` is social shyness, which Legge did not claim. Lack of confidence approximates irresolution, while the two following acts carry the source's reticence. |
-| Spokes, pieces, material, nave, and axle | Remove invented wood and walking-staff `tolu`; keep `monaki`, geometry, one centre, and a straight strong thing | Legge does not name the spokes' material, and `tolu` is a staff used for bodily support. The exact craft nouns remain in the source line rather than acquiring false Phi equivalents. |
-| Door panel and doorway | Add transparent `ponu tholu`, door-space, wherever the text means the opening | `ponu` is the movable closure and cannot itself be the empty space through which a person enters. The composition repairs both renderings without a new root. |
-| Difficulty, lightness, careless commitment, and burden | Preserve `kethua`, its negation, and `tupeka`; replace `phelo seru` with `muko seru` | `kethua` covers effortful tasks, and `tupeka` gives the felt trouble of affairs. Legge's light promise concerns manner, not weight, so careless commitment avoids the English homonym. |
-| Recompense, command, and kindness | Replace the close conditional directive with a general person-to-person transfer | Chapter 63 describes the way's conduct rather than issuing a command to the reader. The repaired line gives kindness to the person who acted harmfully and still admits that recompense has an accounting sense Phi leaves behind. |
-| Apparent ease and greatest things | Use passive `se ma nila` for work not seen as difficult; restore plural `lo` on the greatest things | The first no longer invents a separate observer as the standard of ease. The second now matches Legge's number without changing the magnitude sense of `whalo`. |
-| Drying, withering, life, and concomitants | Preserve `kurathi`, perfective `kureno`, `lioru`, and close `nua ... shua`; preserve transmuted `melu` | Dry and withered remain separate states, life remains a condition rather than the activity of living, and only the transmutation personifies the qualities as companions. |
-| Small, large, brittle, and fragile | Preserve `thiku`, `whalo`, and `welua` | Chapter 63 compares magnitude and scope rather than importance. `welua` carries susceptibility to damage without importing the indentation sense of `kethua`. |
-| Tao, forces, conquest, and feller | Preserve transparent Phi descriptions beside exact Legge citations | `keiro` remains an ordinary way, while military force, conquest, and the feller retain their full source identity in English. The close rendering does not hide their relations, and the transmutation openly redirects them. |
-| Optional module vocabulary | Use thirteen optional roots in the close translation and none in the transmutation | Each close root carries a distinction used by Legge's argument or material example. The transmutation keeps its selected ordinary register. |
-| Active dependencies | Update the paired page, its continuous close block, the review record, and phonetic-neighbour attestations only | The changed Phi sentences recur nowhere else in the active corpus. Legge's stored source, shelf links, registered compounds, and renderer structure remain unchanged. |
+Thirteen optional roots carry source distinctions across Commons, Philosophical Reasoning, Accessibility, Systems, Ecological, Work, and Household. No new root is needed.
 
 ## Translation review: A Solarpunk Manifesto
 
@@ -665,22 +489,18 @@ The review keeps the garment-and-hand composition, changes no source quotation, 
 | Optional module reach | Add no optional root | The cold open's argument belongs to base vocabulary and grammar. Existing module vocabulary in later teaching examples remains where its subject needs it; no term enters merely to display the modules. |
 | Active dependencies | Update chapter 2, the treatment, review ledger, progress records, handoff, and phonetic-neighbour attestations | All Morris lines remain exact, and every drafted Phi book chapter is current through chapter 7. Resume the manual-led remainder of SEM-09D before drafting chapter 8. |
 
-## Transmutation review: the original shelf pass
+## Transmutation review
 
-Before selective pairing began, the eight transmuted works still on the shelf were read from their stated sources before the Phi was judged. Repair was preferred when the narrative or argument already held together. A clean rebuild was reserved for the Ring Verse's central refusal, whose earlier substitute had turned coercion into guidance and imposed binding into mutual bond. No new root was needed; the module vocabulary developed since these texts were written supplied the missing distinctions.
+The four transmuted works on the shelf were read from their stated sources before the Phi was judged. Repair was preferred when the narrative or argument already held together. A clean rebuild was reserved for the Ring Verse's central refusal, whose earlier substitute had turned coercion into guidance and imposed binding into mutual bond. No new root was needed; the completed module vocabulary supplied the missing distinctions.
 
 | Work | Source and decision | Material repairs | Pillar disposition |
 |---|---|---|---|
-| Babel | Complete KJV Genesis 11:1-9; repaired | Earth and sowing remain the chosen transmutation. Notes now describe that choice without claiming Phi is incapable of telling the punitive reading. | Solarpunk and Art Nouveau support the garden coda; preindustrial knowledge supports sowing; Buddhist and peace readings refuse punishment as the only account of diversity. The builders' fear and failed city remain. |
-| UDHR Article 1 | Complete 1948 English Article 1; materially rebuilt | Dignity and rights no longer collapse into worth alone. Commons `shereni` adds equal entitlements, `po remo` restores a capacity to think, and kind reciprocal conduct replaces compulsory love. | Peace linguistics leaves feeling free from command while preserving obligation in conduct. Solarpunk supports durable entitlement; Buddhist thought supports equal worth. The aesthetic and preindustrial pillars require no separate change. |
 | *The Little Prince* excerpts | Three short Katherine Woods excerpts; repaired and current | The title describes the small person from the stars while the source keeps prince. The current turn, right seeing, singular eye, passive invisibility, completed bond, and willing responsibility are explicit. | Buddhist and peace readings support the deliberate move from taming to mutual bond and chosen responsibility. The sheep request and heart image keep the source's ordinary scale. |
-| Tao Te Ching selections | Five chapters from Legge 1891; repaired translation and transmutation | The close rendering follows all 51 source units and now restores the six excellences, praise, irresolution, wheel geometry, the general recompense claim, careless commitment, apparent ease, plurality, and future aspect. The transmutation records its selected omissions and reframings. | Water, vessel, wind, and yielding give all five pillars material to examine. Peace linguistics changes conquest into fruitlessness in the transmutation while the paired translation keeps reliance on force and the feller visible. |
-| Heart Sutra | Müller's complete smaller sutra; repaired close translation and transmutation with omissions logged | The close rendering now preserves the source's aspect, speech tag, deixis, contradiction, enjoyment, and double negative. The transmutation names all five aggregates instead of expanding them prematurely to all things; release remains its declared answer to annihilation. | Buddhist analysis governs the work. Peace linguistics shapes the transmutation without softening the close translation. The remaining pillars do not justify added ecological, craft, or decorative imagery. |
 | Ring Verse refusal | Tolkien's quoted inscription; central Phi passage rebuilt and fidelity-repaired | Rule becomes an explicit analysis as coercion; bind becomes physical `tiwa` used metaphorically. The repaired referent follows the other Rings to their wearers instead of widening **them** to all people. | Peace linguistics makes the decisive change by naming constrained choice. Buddhist attention separates acts from permanent moral identities. The other pillars do not soften the source or invent a replacement moral. |
 | *The Velveteen Rabbit* | Complete Williams story; repaired and current | The post-migration pass changed 46 units; the later fidelity pass changes 69 of 427 stanzas, adds ant, and makes the stored witness reconstruct exactly. Brigand-play remains coercion-play, pain is not called small, and the child helps rather than single-handedly makes the rabbit Real. | Care, repair, natural transformation, material craft, and the story's organic beauty already engage all five pillars. Peace linguistics chiefly restores agency and names power; it does not remove fever, burning, loss, or grief. |
 | *News from Nowhere*, chapters 1-3 | Complete Morris chapters; repaired chapter by chapter | Chapter 1 separates views, membership, and authority. Chapter 2 gives waking, bodily sensation, household detail, work capacity, and the river their completed distinctions. Chapter 3 adds direct rooms, meals, body parts, responses, and craft while retaining commoners' entitlement and the political direction of reactionary novels. | Solarpunk and preindustrial commitments are native to Morris's work; Art Nouveau lives in architecture, clothing, and craft. Buddhist attention clarifies the narrator's inference. Peace linguistics names authority and stigma without cleaning the argument, coercion, or social contempt from the story. |
 
-The source citations and gap logs in each pamphlet hold the detailed decisions. The table records why the text remained a transmutation and whether repair or replacement was warranted.
+The source citations and gap logs in each work hold the detailed decisions. The table records why the text remains a transmutation and whether repair or replacement was warranted.
 
 ## Phi-first review: When care becomes coercion
 
@@ -754,23 +574,23 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/the_mended_wall.md` | Original | Reviewed | All 31 Phi-source units, exact glosses, derived readings, proposition structure, optional terms, and five-pillar claims have received a Phi-first review; function and wholeness no longer collapse into doing and identity. |
 | `texts/the_report_at_dusk.md` | Original | Reviewed | All 31 Phi-source units, exact glosses, derived readings, proposition structure, optional terms, and five-pillar claims have received a Phi-first review; `ti` now marks finite propositions, and reason no longer collapses into truth or obligation. |
 | `texts/the_worth_of_a_fallen_branch.md` | Original | Reviewed | All 33 Phi-source units, exact glosses, derived readings, proposition structure, optional terms, and five-pillar claims have received a Phi-first review; lexical commitment no longer masquerades as grammatical proof. |
-| `texts/north_wind_and_sun.md` | Translation + transmutation | Reviewed | Paired source, back-translation, vocabulary, and five-pillar comparison complete. |
+| `texts/north_wind_and_sun.md` | Translation | Reviewed | Complete Aesop alignment, literal back-translation, continuous reading, and translation limits complete. |
 | `texts/metta_sutta.md` | Translation | Reviewed | Full source-fidelity pass complete; two optional roots used where their distinctions matter. |
 | `texts/solarpunk_manifesto.md` | Translation | Reviewed | The 38-unit fidelity pass changes 17 units, aligns a 244-form Phi reading with the complete licensed witness, and uses 33 optional roots across all eight modules without altering a source line. |
-| `texts/schleicher_fable.md` | Translation + transmutation | Reviewed | D074 adds direct shearing, removes a quoted fragment, restores cessative possession and causal knowledge, treats the final glosses as one motion, and makes both citation streams reconstruct the stored source body exactly. |
-| `texts/babel_text.md` | Translation + transmutation | Reviewed | Complete KJV alignment, translation limits, deliberate Earth and sowing departures, and five-pillar comparison complete. |
-| `texts/human_rights_article_one.md` | Translation + transmutation | Reviewed | Paired source alignment, exact reason and conscience faculties, held obligation, translation limits, gap log, and five-pillar comparison complete. |
+| `texts/schleicher_fable.md` | Translation | Reviewed | D074 adds direct shearing, removes a quoted fragment, restores cessative possession, treats the final glosses as one motion, and makes the citation stream reconstruct the stored source body exactly. |
+| `texts/babel_text.md` | Translation | Reviewed | Complete KJV alignment, continuous reading, and translation limits complete. |
+| `texts/human_rights_article_one.md` | Translation | Reviewed | Exact rights, reason, conscience, held obligation, source alignment, and translation limits complete. |
 | `texts/little_prince_excerpts.md` | Transmutation | Reviewed | The 36-form base-vocabulary work preserves all three short Woods excerpts, restores the current turn and passive invisibility, and makes its deliberate mutual bond and willing responsibility visible in the derived English. |
 | `texts/gibran/on_love.md` | Translation | Reviewed | The complete 35-unit citation stream reconstructs the 2,403-character source passage exactly. The fidelity pass changes 19 units and adds base `ratenu` and `salenu`. |
 | `texts/gibran/on_children.md` | Translation | Reviewed | All 18 source units align, the continuous reading matches the detailed blocks, and the limits table records Phi's material treatment of the archery scene. |
 | `texts/gibran/on_giving.md` | Translation | Reviewed | All 33 source units align. D075 adds direct deservingness and reward while preserving exact source identities beside material descriptions. |
 | `texts/gibran/on_work.md` | Translation | Reviewed | All 32 source units align exactly, and the limits table records the distinctions that remain with Gibran's wording. |
-| `texts/tao_te_ching.md` | Translation + transmutation | Reviewed | All 51 Legge units align in order; the 158-form close translation follows every proposition, and the 104-form transmutation records each omission or redirect. |
-| `texts/heart_sutra.md` | Translation + transmutation | Reviewed | All 34 Müller units align in order; the 102-form close translation now preserves every printed proposition, and the 79-form transmutation records each deliberate departure. |
+| `texts/tao_te_ching.md` | Translation | Reviewed | All 51 Legge units align in order, and the continuous reading follows every proposition in the detailed translation. |
+| `texts/heart_sutra.md` | Translation | Reviewed | All 34 Müller units align in order, and the translation preserves every printed proposition in the selected witness. |
 | `texts/ring_verse_refusal.md` | Transmutation | Reviewed | The 17-form base-only refusal keeps Tolkien's inscription exact, narrows its affected people to wearers of the other Rings, and records the deliberate change from purpose to accusation. |
 | `texts/velveteen_rabbit.md` | Transmutation | Reviewed | The 429 exact Williams fragments align across 427 Phi stanzas. The fidelity pass changes 69 stanzas, adds base `tinemu`, and uses 14 optional roots with 19 memberships across six modules. |
 | `texts/news_from_nowhere/chapter_01.md` | Transmutation | Reviewed | The 85-unit post-migration pass changes 29 units and uses six optional roots across four modules without altering Morris's source lines. |
 | `texts/news_from_nowhere/chapter_02.md` | Transmutation | Reviewed | The 241-unit post-migration pass changes 57 units and uses five optional roots with seven memberships across four modules without altering Morris's source lines. |
 | `texts/news_from_nowhere/chapter_03.md` | Transmutation | Reviewed | The 245-unit post-migration pass changes 46 units and uses 14 optional roots with 15 memberships across five modules without altering Morris's source lines. |
 
-The full transmutation shelf has received its original review and its post-migration contextual retrofit. Selective paired work has added close translations where a second rendering exposes Phi's capacity or its limits without displacing the transmutation. All four original Phi works have now received their Phi-first reviews. The Phi book and SEM-09D retrofit are complete.
+Every current translation, transmutation, and original has received the review appropriate to its declared method. The six formerly paired works now retain their close translations only. All four original Phi works have received Phi-first reviews. The Phi book and SEM-09D retrofit are complete.

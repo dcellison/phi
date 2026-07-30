@@ -137,7 +137,7 @@ A translation preserves the source's propositions, relations, images, and diffic
 
 A transmutation lets the source pass through Phi's five pillars and conceptual habits. That freedom does not permit lazy approximation. The Phi must agree with its exact gloss and back-translation, and the notes must identify deliberate changes and remaining losses.
 
-The literary shelf prefers transmutation because it preserves Phi's own heart. Paired close translations demonstrate that the language can carry a source closely and make the divergence visible. Not every long work needs both. *News from Nowhere* remains a transmutation-only 32-chapter project unless Daniel changes the plan.
+The literary shelf gives each source-led work one declared method. Close translation carries the source's propositions, relations, images, and difficult material as faithfully as Phi permits. Transmutation openly changes a source under Phi's five pillars and records every departure. Original Phi writing is the proper home for arguments that belong to Phi itself. *News from Nowhere* remains a transmutation-only 32-chapter project unless Daniel changes the plan.
 
 In *News from Nowhere*, the narrator and the future people share the full vocabulary, including optional modules. Any new root keeps the three-syllable lexical ceiling; only a productive name may reach four syllables.
 

@@ -10,17 +10,17 @@ This is one of the first readers Phi's literature acquired. Before there was any
 
 The source check begins with a plain arrangement. A text keeps an English witness in the repository. Each aligned unit has a label such as `udhr:`, `kjv:`, or `morris:`. The validator knows which label belongs to which witness and asks whether the cited wording occurs there exactly. It forgives differences in whitespace and rejoins words broken across scanned lines. An ellipsis may separate two fragments, but each fragment must still be found. A synonym receives no such indulgence.
 
-Paired works have one further rule. The same cited wording may appear once in the close translation and once in the transmutation, because each rendering needs to show what it did with that passage. It may not be quietly reused twice within either one. The checker is incapable of boredom, but it has been instructed to recognize duplication.
+A source clause belongs to one aligned unit. If the same wording quietly appears twice in a work, the checker reports the repetition. It is incapable of boredom, but it has been instructed to recognize duplication.
 
-The current shelf contains nearly fourteen hundred of these labeled source lines. They run from the two sentences of Article 1 to all 429 Williams fragments aligned across 427 Phi stanzas in *The Velveteen Rabbit*, and onward through the first three chapters of *News from Nowhere*. Ten short works have their own source witnesses, and Morris's chapters share the complete novel stored beside them. For those configured shelf texts, a full validation checks every labeled fragment against its witness.
+The current shelf contains thousands of these labelled source lines. They run from the two sentences of Article 1 through the complete Williams story and onward through the opening chapters of *News from Nowhere*. Short works have their own source witnesses, while Morris's chapters share the complete novel stored beside them. For those configured shelf texts, a full validation checks every labelled fragment against its witness.
 
 That does not prove that every source claim has been translated. An omitted sentence leaves no bad citation for a machine to catch. Nor can string matching decide whether a Phi line has narrowed a metaphor, strengthened an obligation, or turned a punishment into a garden. The program guards the quotation. The review ledger and the reader have to judge what was done beside it.
 
 ## A whole shelf and one reader
 
-The shelf as it stands here contains seventeen works. Nine include a close translation, eleven include a transmutation, and four are original Phi compositions. Seven source works appear in both forms. The arithmetic overlaps on purpose. A paired work belongs to two counts; the originals have the decency to occupy only one apiece.
+The shelf holds close translations, transmutations, and original Phi compositions. Each work makes one promise and names it before the first rendering. The originals have no inherited author to answer to, which does not save them from answering for themselves.
 
-The Metta Sutta opens the shelf. Fables, sacred texts, political declarations, and children's stories follow. A translation of *A Solarpunk Manifesto* sits near the front, followed by an original dialogue about care and coercion. Original essays follow it, each opening on something domestic and arguing outward: a garden wall rebuilt after a storm, and whether it is the same wall; a friend's word at dusk that the footbridge is broken, and when a report is enough to act on; a fallen branch going quietly back into the ground with nobody there to price it. *News from Nowhere* has three of its planned thirty-two chapters. Literature is an accommodating word here: a declaration and a manifesto have been admitted without being made to pretend that they are novels.
+The Metta Sutta opens the shelf. Fables, sacred texts, political declarations, and children's stories follow. A translation of *A Solarpunk Manifesto* sits near the front, followed by an original dialogue about care and coercion. Original essays follow it, each opening on something domestic and arguing outward: a garden wall rebuilt after a storm, and whether it is the same wall; a friend's word at dusk that the footbridge is broken, and when a report is enough to act on; a fallen branch going quietly back into the ground with nobody there to price it. *News from Nowhere* has begun its planned thirty-two chapters. Literature is an accommodating word here: a declaration and a manifesto have been admitted without being made to pretend that they are novels.
 
 There is no Phi reading group behind these numbers. The language has one known learner and designer, and the same person has final responsibility for every rendering. The last chapter ended with the observation that people adopt a community rather than a grammar. Phi has not disproved it. Instead, the project has made the unusual choice available to a solitary language maker: build the shelf first, then let a possible reader see whether there is anything worth gathering around.
 
@@ -40,11 +40,11 @@ That is why the shelf moves outward. *The Velveteen Rabbit* puts affection besid
 
 ## Three promises
 
-Every Phi text declares its method before the first rendering. A translation promises to remain answerable to the source's claims and distinctions as closely as Phi permits. A transmutation permits the source to change under Phi's five pillars and habits of thought. Phi prefers transmutation when it works from inherited material. Close translation remains beside it because preference is easier to trust when the alternative has been attempted honestly.
+Every Phi text declares its method before the first rendering. A translation promises to remain answerable to the source's claims and distinctions as closely as Phi permits. A transmutation permits the source to change under Phi's five pillars and habits of thought. The methods do not borrow one another's names. A work that changes its source is not presented as a translation, and a translation does not improve its author by stealth.
 
 An original makes a different promise. Phi comes first. English comes afterward and stays answerable to it. There is no inherited claim to preserve or recast, but the work still has to answer for what it says. A proposition record and vocabulary-pressure notes make that answer visible.
 
-The paired Babel text makes the difference visible in one act. The close translation follows the King James account of dispersal:
+The Babel translation follows the King James account of dispersal:
 
 ```
 whu karami phelu limoe lue ha lokue nia theula muila menoa lo miona to thiwera.
@@ -53,20 +53,17 @@ REL authority hold creature ABL PROX place ON UNIV earth face PL person PST scat
 kjv: "So the LORD scattered them abroad from thence upon the face of all the earth:"
 ```
 
-The title LORD remains in the cited source. Inside Phi, `whu karami phelu limoe` identifies a nonhuman story creature who holds authority without declaring that authority legitimate. `thiwera` reports the scattering. Nothing in the Phi line makes the event welcome.
+The title LORD remains in the cited source. Inside Phi, `whu karami phelu limoe` identifies a nonhuman story creature who holds authority without declaring that authority legitimate. `thiwera` reports the scattering. Nothing in the Phi line makes the event welcome, and nothing changes punishment into planting.
 
-The transmutation stands against the same source clause:
+The Ring Verse refusal makes the other promise. Its first purpose becomes a present accusation:
 
 ```
-muila phea lo thinoe nia theula muila menoa lo miona to thiwera.
-earth AS PL seed ON UNIV earth face PL person PST scatter.
-(The earth scattered the people like seeds upon the face of the whole earth.)
-kjv: "So the LORD scattered them abroad from thence upon the face of all the earth:"
+ta thumai sorui theula whu phirae thumai sorui wenuha miona kawhera.
+one finger circle UNIV REL different finger circle wear person coerce.
+(One finger-ring coerces everyone who wears a different finger-ring.)
 ```
 
-The actor is now `muila`, earth. People move `phea lo thinoe`, like seeds. The shared verb has not become gentler, but the comparison alters what its motion may bring. Later, one language becomes many and the text adds a coda with no biblical citation. The transmutation does not claim that Genesis secretly meant sowing. It prints Genesis immediately below the changed line so that no one has to take the retelling's word for what happened.
-
-Calling both passages translations would hide the largest decision on the page. Calling the first one Phi's preferred telling would hide the claim that prompted the second. The paired form keeps two promises apart: translation shows what Phi can carry while staying close, and transmutation shows what Phi chooses when it accepts responsibility for changing the story.
+The refusal does not claim that Tolkien secretly wrote about `kawhera`, coercion. His inscription stays beside the work, while the Phi text declines to make ruler or lord ordinary roles. The gap log records the change from infinitive purpose to accusation and the decision to follow the other Rings to the people wearing them. Translation shows what Phi can carry while the source sets the terms. Transmutation accepts responsibility for setting different terms, on a different page.
 
 The third method has no source to depart from, and four works on the shelf are written that way. In *When Care Becomes Coercion*, two friends argue in Phi about danger, refusal, evidence, and authority. The English beneath each line follows the Phi; it cannot quietly improve the reasoning or lend the speakers a distinction they did not make. The proposition record then shows where the argument revised itself and where it stopped without a complete conclusion.
 
@@ -76,9 +73,9 @@ A translated or transmuted block gives the reader four things: the Phi sentence,
 
 Back-translation needs its own honesty because fluent English is very good at repairing a sentence without permission. In "The North Wind and the Sun," `tiripe` means *quiver*, not *whipped*, and a strong pull is not the same act as *tore*. Those stronger verbs belong to Aesop's line. Returning them to the English beside the Phi would make the translation look closer than it is.
 
-A close translation then carries a limits table. Article 1's table records that event-noun `remo`, thinking, is wider than the source's faculty of reason. It puts the greater force of `na`, necessity, beside English *should* and explains why `lomea`, sibling, cannot preserve the gender in *brotherhood*. The source survives, but surviving is not the same as arriving unchanged.
+A close translation then carries a limits table. Article 1's table records that `remori` names reason as a fallible faculty, while the source leaves that fallibility unstated. It places held obligation beside English *should* and explains why `lomea`, sibling, cannot preserve the gender in *brotherhood*. The source survives, but surviving is not the same as arriving unchanged.
 
-A transmutation uses a gap log for a different purpose. The Babel log says that the LORD becomes earth, punishment becomes sowing, and Babel becomes `lo haluma`, Many Languages. It names the added garden coda as Phi's own. The Ring Verse log records that Tolkien's inscription stays beside the passage, the surrounding stanza's lord and throne do not become Phi roles, and the four Phi lines name coercion and physical tying. A gap log is not an apology tucked beneath the work. It is where the work signs its changes.
+A transmutation uses a gap log for a different purpose. The Ring Verse log records that Tolkien's inscription stays beside the passage, the surrounding stanza's lord and throne do not become Phi roles, and the four Phi lines name coercion and physical tying. *The Little Prince* records where taming becomes mutual bond and responsibility becomes an act willingly taken up. A gap log is not an apology tucked beneath the work. It is where the work signs its changes.
 
 An original has no source gap to inventory. Its proposition record follows the claims instead: which evidence both speakers accept, which inference is challenged, what one speaker retracts, and what remains unanswered. A second record notes where the vocabulary had to work. In the care dialogue, the English umbrella *control* separates into authority, coercion, consent, and refusal; technical `ketora` never enters the room.
 
@@ -88,7 +85,7 @@ Each pillar changes a text only where the source and Phi actually meet. Article 
 
 The validator checks more than quotations. It knows the whole lexicon. In a fenced Phi example it rejects an unknown token, checks a gloss against the dictionary, and catches several detectable ordering errors. It also checks the reading-shelf catalogue: every short work and every book directory with a README must have one catalogue entry. That check stops at the book's front door. It does not compare the chapter files inside with the book's contents page, although the site builder discovers those files directly. A new chapter can therefore appear on the site without an index link, and an old link can survive after its chapter vanishes.
 
-Its competence has a clean edge. The validator can prove that `thiwera` exists and that its gloss is *scatter*. Whether scattering people like seeds is an honest transmutation or an evasive one lies beyond it. The code notices some prepositions with nowhere legal to stand, though it calls that check a net rather than a proof. A quotation missing one letter in a configured shelf citation fails; a complete set of perfectly cited bad judgments could pass.
+Its competence has a clean edge. The validator can prove that `nolami` exists and that its gloss is *bond*. Whether changing the fox's taming into a mutual bond is an honest transmutation or an evasive one lies beyond it. The code notices some prepositions with nowhere legal to stand, though it calls that check a net rather than a proof. A quotation missing one letter in a configured shelf citation fails; a complete set of perfectly cited bad judgments could pass.
 
 Source coverage therefore belongs to review as well as code. The corpus ledger asks whether every proposition and relation survives in a translation, whether every departure in a transmutation is deliberate, whether optional vocabulary earns the burden it places on a reader, and whether the English says only what the Phi says. For an original, it asks whether the proposition record matches the dialogue and whether an unresolved question was allowed to remain unresolved. It also records a decision to keep a transparent composition. A direct root is not automatically better merely because the lexicon has one.
 
@@ -122,21 +119,7 @@ Literature before community is therefore evidence of authored range, not evidenc
 
 The absence of a community could have left Phi with a grammar, a dictionary, and many statements about what it might someday do. Instead, the shelf puts those claims into contact with writers who were not present when the language was designed. Morris insists on a price question. Aesop insists on persuasion. The United Nations insists on reason, conscience, and brotherhood. Phi may answer, approximate, or refuse, but the source line prevents it from pretending that the demand never arrived.
 
-A future community would receive more than a finished monument: readers could contest the decisions already recorded. Someone might prefer the close Babel translation to the garden, ask for both versions of another work, find a gap the current notes missed, or bring a source whose pressure falls somewhere new. The literature does not pre-write the community's agreement. It gives disagreement a page number.
-
-The Babel transmutation ends by taking its own seed image one step beyond the biblical text:
-
-```
-theula haluma thepalu nai.
-UNIV language garden be.
-(Every language is a garden.)
-
-we ha haluma thepalu nai.
-ALSO PROX language garden be.
-(This language, too, is a garden.)
-```
-
-There is no `kjv:` line beneath that coda. The source did not say it, so the text does not borrow the source's authority. `we ha haluma thepalu nai.` is not a result. It is the claim Phi has put under test.
+A future community would receive more than a finished monument: readers could contest the decisions already recorded. Someone might question a translation choice, ask for a close translation of a work that Phi has transmuted, find a gap the current notes missed, or bring a source whose pressure falls somewhere new. The literature does not pre-write the community's agreement. It gives disagreement a page number.
 
 ## References
 
@@ -152,4 +135,4 @@ United Nations General Assembly. 1948. Universal Declaration of Human Rights. A/
 
 ### Phi sources
 
-The shelf catalogue and its three-method doctrine are in `texts/README.md` and `texts/catalogue.json`. The paired Babel renderings are in `texts/babel_text.md`; Article 1 is in `texts/human_rights_article_one.md`; the original care dialogue is in `texts/care_and_coercion.md`; the review method and corpus decisions are in `documents/evaluation/active_text_corpus_review.md`. Source witnesses live in `texts/sources/`, while the three current *News from Nowhere* chapters share `texts/news_from_nowhere/source.txt`. Source verification is configured in `scripts/validate_examples.py`; catalogue membership is checked in `scripts/content_catalogues.py`; chapter discovery belongs to `scripts/build_site.py`.
+The shelf catalogue and its three-method account are in `texts/README.md` and `texts/catalogue.json`. The Babel translation is in `texts/babel_text.md`; the Ring Verse refusal is in `texts/ring_verse_refusal.md`; Article 1 is in `texts/human_rights_article_one.md`; the original care dialogue is in `texts/care_and_coercion.md`; the review method and corpus decisions are in `documents/evaluation/active_text_corpus_review.md`. Source witnesses live in `texts/sources/`, while the current *News from Nowhere* chapters share `texts/news_from_nowhere/source.txt`. Source verification is configured in `scripts/validate_examples.py`; catalogue membership is checked in `scripts/content_catalogues.py`; chapter discovery belongs to `scripts/build_site.py`.

@@ -2,7 +2,7 @@
 
 *F. Max Müller's Smaller Pragñâ-pâramitâ-hridaya-sûtra begins with five gatherings. Within a few lines it counts each at zero. Form meets emptiness in both directions. The senses vanish from the inventory. Knowledge follows, then pain and the path. The last words cross to another shore.*
 
-*This page gives Müller's English two Phi renderings. The close translation follows every proposition he prints. Where Müller writes "till we come to," the gap belongs to the ground truth. The transmutation turns the zero litany toward Phi's ordinary body words and makes the mantra a communal wish. Neither rendering claims to settle the Sanskrit behind this Victorian English text.*
+*This page gives Müller's English a complete close Phi translation. It follows every proposition he prints. Where Müller writes "till we come to," the gap belongs to the ground truth. The translation does not claim to settle the Sanskrit behind this Victorian English text.*
 
 *The ground truth is Müller's 1894 translation in Buddhist Mahâyâna Texts, Sacred Books of the East, volume XLIX. It is stored verbatim in `texts/sources/buddhist_mahayana_texts_1894.txt`, and the citations retain the scan's spellings and broken words. The citations alone carry the personal names Avalokiteshvara and Sariputra. Prajnaparamita, Nirvana, and Svaha also remain there wherever a Phi description would falsely claim equivalence.*
 
@@ -165,7 +165,7 @@ change 3SG POT NEG take. 3SG ABL complete deep peace pleasant feel.
 muller: "beyond the reach of change, enjoying final Nirv^awa."
 ```
 
-**Notes:** Müller gives one person approaching the deep complete knowing associated with a Bodhisattva, so the first sentence assigns two roles. `waeli` becomes consciousness by the quality-noun rule, first around the person and then as the place where they dwell. `whekai` keeps the source's turn before the condition. To carry annihilation, that surrounding relation is caused to become an end. `ralu` makes the result freedom from fear; the transmutation will choose walking without fear. Final Nirvana has no exhaustive Phi equivalent. The source term remains in Müller's line, while `nirelo phaelo` restores the pleasure in "enjoying" and `sholu nulo shea` states the complete deep peace from which that pleasure comes.
+**Notes:** Müller gives one person approaching the deep complete knowing associated with a Bodhisattva, so the first sentence assigns two roles. `waeli` becomes consciousness by the quality-noun rule, first around the person and then as the place where they dwell. `whekai` keeps the source's turn before the condition. To carry annihilation, that surrounding relation is caused to become an end. `ralu` makes the result freedom from fear. Final Nirvana has no exhaustive Phi equivalent. The source term remains in Müller's line, while `nirelo phaelo` restores the pleasure in "enjoying" and `sholu nulo shea` states the complete deep peace from which that pleasure comes.
 
 ### Awakening
 
@@ -224,7 +224,7 @@ muller: "Thus ends the heart of the Pra^'waparamita."
 
 **Notes:** `melira` is a work shaped for voice, whether sung, recited, or held on a page, so it carries Müller's verse without inventing a ritual category. The English "great" cannot borrow `whalo`, which concerns size or scope. The first claim calls the song very good; the second deepens the knowing it carries. Müller's two rankings then receive their own tests: no song is better, and this one has no equal. `shena ka nai` calms pain rather than erasing it. Phi puts the reason before the truth claim. Because it has no separate false adjective, an outer `ma` denies `[whu shewo ma nai]`, what is untrue; `theloa` then names truth itself. In the mantra, wisdom is directly addressed and `thia` carries the implied traveler through three goings and one arrival. `kerime` gives the crossing a literal shore. The Phi mantra ends at arrival; Müller's Svaha follows outside it. The colophon receives its own sentence rather than being left to the title.
 
-### Complete translation
+## Complete translation
 
 ```
 nulo sano korua
@@ -246,7 +246,7 @@ thelao miona nulo sholu sano ru welao melira na sano. ha ru nulo sano melira nai
 kona nulo sano. thia ki wepu. thia ki wepu. thia kau phirae kerime ki wepu. thia mua phirae kerime ki kamo. thelao ha nulo sholu sano korua lumae nai.
 ```
 
-### Translation limits
+## Translation limits
 
 | Müller wording | Phi rendering | Remaining difference |
 |---|---|---|
@@ -268,242 +268,3 @@ kona nulo sano. thia ki wepu. thia ki wepu. thia kau phirae kerime ki wepu. thia
 | proclaimed in Prajnaparamita | passively uttered within deep complete knowing | `shemui` preserves the bounded words and their setting, but it does not add proclamation's public force. |
 | O wisdom, gone | wisdom is addressed; `thia` supplies the implied traveler | Müller's participles have no explicit subject. Phi's finite verbs require one. |
 | Svaha | source citation only | The ritual form receives no invented Phi meaning. |
-
----
-
-## Transmutation
-
-The transmutation follows Müller's sequence but lets Phi's ordinary words decide what its absences feel like. `mu` counts the litany, `remo kire` turns consciousness into thought-shapes, and the mantra widens from a single implied traveler to `lo mia`, all of us.
-
-### The seeing
-
-```
-wei [whu theula sano] keluro.
-DAT [REL UNIV know] honor.
-(Honor to the one who knows all.)
-muller: "Adoration to the Omniscient !"
-
-whu nulo nila nulo sano thole.
-REL deep see deep know practice.
-(The one who sees deeply practices deep knowing.)
-muller: "The venerable Bodhisattva Avalokite^vara, per- forming his study in the deep Pra^;^aparamita (perfection of wisdom),"
-
-shia tha kire whemoa nai nela phaelo whemoa nai nela nomei whemoa nai nela remo whemoa nai nela sano whemoa nai tho remo.
-3SG DECL.COMP shape empty be COORD feel empty be COORD name empty be COORD think empty be COORD know empty be DECL.COMP.CLOSE think.
-(They think that form is empty, feeling is empty, name is empty, thought is empty, and knowledge is empty.)
-muller: "thought thus : ' There are the five Skandhas, and these he considered as by their nature empty (phenomenal).'"
-```
-
-**Notes.** Müller opens with an invocation, and Phi answers with `keluro`, honor, offered to a headless relative: the one who knows all. The source citation supplies Avalokiteshvara while the Phi line describes the action, `whu nulo nila`, the one who sees deeply. The five bundles must stay five here. Form, feeling, name, thought, and knowledge each receive an empty predicate inside `tha ... tho`; the outer `remo` preserves Müller's verb "thought" without broadening the source to all things before the sutra itself does so.
-
-### The equation
-
-```
-kire whemoa nai. whemoa kire nai.
-shape empty be. empty shape be.
-(Form is empty. Emptiness is form.)
-muller: "form here is emptiness, and emptiness indeed is form."
-
-whemoa nela kire phirae ma nai.
-empty COORD shape different NEG be.
-(Emptiness and form are not different.)
-muller: "Emptiness is not different from form, form is not different from emptiness."
-
-[whu kire nai] whemoa nai. [whu whemoa nai] kire nai.
-[REL shape be] empty be. [REL empty be] shape be.
-(That which is form is emptiness; that which is emptiness is form.)
-muller: "What is form that is emptiness, what is emptiness that is form."
-
-phaelo we whemoa nai. nomei we whemoa nai. remo we whemoa nai. sano we whemoa nai.
-feel ALSO empty be. name ALSO empty be. think ALSO empty be. know ALSO empty be.
-(Feeling is also empty. Name is also empty. Thought is also empty. Knowledge is also empty.)
-muller: "' The same applies to perception, name, concep- tion, and knowledge.'"
-```
-
-**Notes.** The equation at the centre of the sutra uses two of Phi's ordinary grammatical bridges. `kire` (shape, the verb) gives its event noun, form; `whemoa` (empty, the adjective) gives its quality noun, emptiness; and `nai` holds each up to the other in both directions. Müller then denies the difference twice, once in each direction. Phi says it once on `nela` because `phirae`, difference, is one relation between two things. The third sentence turns the equation into headless relatives, that-which-is-form and that-which-is-emptiness trading places. The other four bundles take the same place in separate clauses: perception becomes `phaelo`, feeling, and conception becomes `remo`, thought. The litany below will count each one at zero.
-
-### What emptiness is not
-
-```
-theula thena whemoa kire phelu.
-UNIV thing empty shape hold.
-(All things hold the shape of emptiness.)
-muller: "' Here, O 6'ariputra, all things have the character of emptiness,"
-
-lo shia mawha thorui mawha lumae phelu.
-PL 3SG NONE beginning NONE end hold.
-(They hold no beginning and no end.)
-muller: "they have no beginning, no end,"
-
-lo shia shiloa nai. lo shia we shiloa ma nai.
-PL 3SG pure be. PL 3SG ALSO pure NEG be.
-(They are pure. They are also not pure.)
-muller: "they are faultless and not faultless,"
-
-lo shia sholu nai. lo shia we sholu ma nai.
-PL 3SG complete be. PL 3SG ALSO complete NEG be.
-(They are complete. They are also not complete.)
-muller: "they are not imperfect and not perfect."
-```
-
-**Notes.** "The character of emptiness" is `whemoa kire`, emptiness's shape, the same compound pattern that gives the registry its thought-shapes. Beginnings and ends are counted out with `mawha` before the nouns themselves, `thorui` and `lumae`. The sutra then asserts a predicate and its negation and leaves both standing. Faultlessness becomes `shiloa`, purity as an unmixed quality; they are pure and, `we`, also not pure. Müller's not-imperfect becomes completeness because Phi has no matching metaphysical quality. The next sentence denies that completeness, and `we` holds the contradiction open.
-
-### The zero litany
-
-```
-mua ha whemoa mu kire mu phaelo mu nomei mu remo mu sano nai.
-LOC PROX empty zero shape zero feel zero name zero think zero know be.
-(In this emptiness there is no form, no feeling, no name, no thought, no knowledge.)
-muller: "Therefore, O .Sariputra, in this emptiness there is no form, no perception, no name, no concepts, no knowledge."
-
-mu mirae mu shonui mu nophae mu lathoe mu weloni mu remo nai.
-zero eye zero ear zero nose zero tongue zero body zero think be.
-(No eye, no ear, no nose, no tongue, no body, no thought.)
-muller: "No eye, ear, nose, tongue, body, mind."
-
-mu kire mu shonuwa mu whinu mu thorima mu palo mu thena nai.
-zero shape zero sound zero smell zero taste zero touch zero thing be.
-(No form, no sound, no smell, no taste, no touch, no things.)
-muller: "No form, sound, smell, taste, touch, objects.'"
-
-mu serao kelu mu lumeo nai. mu serao kelu lumae mu lumeo lumae nai.
-zero old become zero die be. zero old become end zero die end be.
-(No becoming-old, no death. No end of becoming-old, no end of death.)
-muller: "' there is no decay and death, no destruction of decay and death ;"
-
-mu kipona mu kipona shua mu kipona lumae mu ruela nai.
-zero pain zero pain come zero pain end zero path be.
-(No pain, no coming of pain, no end of pain, no path.)
-muller: "there are not (the four truths, viz. that there) is pain, origin of pain, stoppage of pain, and the path to it."
-
-mu sano mu pilu nai.
-zero know zero take be.
-(No knowledge, no taking.)
-muller: "There is no knowledge, no obtaining (of Nirva;/a)."
-```
-
-**Notes.** This is `mu` doing in literature what it does in arithmetic: counting absence exactly. The five bundles go first, then the six senses over the body's own inventory, then the six objects those senses reach for, `shonuwa` the sound, `whinu` the smelling, `thorima` the tasting, `palo` the touching, and last `thena`, things themselves. Müller's "concepts" and "mind" are both `remo` in Phi, thought zeroed twice, once as content and once as organ. Müller next prints knowledge, ignorance, their destruction, and then abbreviates the causal chain until decay and death. This transmutation omits the printed opening as well as the links Müller leaves under "till we come to"; knowing's absence is not held as a separate noun. Decay is `serao kelu`, the becoming-old, composed the way deep knowing is; the four truths are zeroed as pain, pain's coming, pain's end, and the path; and the litany closes on `mu sano mu pilu`, no knowledge, no taking, where even `nulo sano` is not exempt from its own seeing.
-
-### The one who walks
-
-```
-[whu nulo sano thole] mua remo kire menui.
-[REL deep know practice] LOC think shape dwell.
-(The one who practices deep knowing dwells within thought-shapes.)
-muller: "' A man who has approached the Pra^;Hparamita of the Bodhisattva dwells enveloped in conscious- ness '."
-
-lu remo kire se leiro. shia whuo sukima thalo.
-COND think shape PASS release. 3SG WITHOUT fear walk.
-(When the thought-shapes are released, they walk without fear.)
-muller: "But when the envelopment of consciousness has been annihilated, then he becomes free of all fear,"
-
-helui shia po ma pilu. shia nulo shea phaelo.
-change 3SG POT NEG take. 3SG deep peace feel.
-(Change cannot take them. They feel the deep peace.)
-muller: "beyond the reach of change, enjoying final Nirv^awa."
-```
-
-**Notes.** Müller's "enveloped in consciousness" becomes `remo kire`, thought-shapes, the constructions within which a mind can dwell. This transmutation changes annihilation into release, `se leiro`, because it reads the passage as a loosening of those shapes rather than their ending. The walker then goes `whuo sukima`, without fear. Change itself, `helui`, cannot take them. Nirvana stays in the citation; the Phi line states the experience it can claim here, `nulo shea`, deep peace.
-
-### The awakened
-
-```
-theula [whu nowae] miona mua luera nela nosa nela wireo nulo sano ki thole. lo shia kau mo ko sholu sano ki nowae.
-UNIV [REL awaken] person LOC past COORD now COORD future deep know PFV practice. PL 3SG ALL CMPR FOC complete know PFV awaken.
-(All people who awaken, in the past and the present and the future, have practised deep knowing. They have awakened to the most complete knowledge.)
-muller: "' All Buddhas of the past, present, and future, after approaching the Pra^;7aparamita, have awoke to the highest perfect knowledge.'"
-```
-
-**Notes.** The Buddhas cross over the same way the bodhisattva did: not as a Phi title but as `whu nowae miona`, people who awaken. Their three times stand in one prepositional phrase, past and now and future on `nela`; their approach to the perfection of wisdom becomes the practice of `nulo sano`, deep knowing. Perfective `ki` keeps both acts complete in the source's own unusual three-time claim. The highest perfect knowledge is the superlative stacked on `sholu`, the most complete knowing, reached by the same waking metaphor that names the awakened.
-
-### The going
-
-```
-miona nulo sano ru welao melira na sano.
-person deep know INTS good song NEC know.
-(One must know the very good song of deep knowing.)
-muller: "' Therefore one ought to know the great verse of the Pra^;7aparamita, the verse of the great wisdom,"
-
-mawha melira mo welao nai.
-NONE song CMPR good be.
-(No song is better.)
-muller: "the unsurpassed verse, the peerless verse,"
-
-ha melira theula kipona leiro.
-PROX song UNIV pain release.
-(This song releases all pain.)
-muller: "which appeases all pain"
-
-lao ha [whu shewo ma nai] ma nai ha theloa nai.
-BECAUSE PROX [REL true NEG be] NEG be PROX truth be.
-(Because this is not what is untrue, this is truth.)
-muller: "it is truth, because it is not false"
-
-su lo mia wepu.
-OPT PL 1SG go.
-(May we go.)
-muller: "O wisdom, gone, gone,"
-
-su lo mia kau ra shuna wepu.
-OPT PL 1SG ALL DIST edge go.
-(May we go to that edge.)
-muller: "gone to the other shore,"
-
-su theula miona kau ra shuna shua.
-OPT UNIV person ALL DIST edge come.
-(May all people come to that edge.)
-muller: "landed at the other shore,"
-
-shea shua.
-peace come.
-(Peace comes.)
-muller: "Svaha !"
-```
-
-**Notes.** The verse is `melira`, a song or poem made for the voice. Calling it `ru welao`, very good, keeps the judgement in the source without stretching physical size into importance. No song is better, and this one releases all pain. The close translation renders "appeases" more quietly as `shena ka nai`, causes to be calm. The transmutation omits the proclamation relation; `ha melira`, this song, simply keeps the same work in view. The parenthesis of truth keeps its double negative, with the reason before the conclusion. Müller renders rather than transliterates the mantra, and Phi makes it a wish of passage. Optative `su` widens from us to all people. The source's other shore becomes `ra shuna`, that edge; deixis points towards it without giving the sacred image a fixed Phi definition. `wepu` gives the going and `shua` the arrival. Svāhā receives the text's last two words: peace comes. Two wishes set out, a third welcomes everyone to the edge, and peace arrives in the present tense.
-
----
-
-### Transmutation gap log
-
-*Gap log: the Omniscient → `whu theula sano`, the one who knows all; Avalokiteshvara → `whu nulo nila`, the one who sees deeply, while the name and office remain in the citation; five bundles → `kire`, `phaelo`, `nomei`, `remo`, and `sano`; natural and phenomenal → omitted; Sariputra → an unnamed listener; both therefore links → omitted; form → the event noun of `kire`; emptiness → the quality noun of `whemoa`; here and indeed → omitted; character of emptiness → `whemoa kire`; the two denials of difference → one relation on `nela`; "the same applies" → the four remaining bundles are called empty without repeating the full equation; faultless and not faultless → `shiloa` asserted and denied; not imperfect and not perfect → completeness asserted and denied; mind → `remo`; sense objects → sound, smell, taste, touch, and thing; the eighteen elements → omitted with Müller's "till we come to" abbreviation; knowledge, ignorance, and their destruction → omitted by the transmutation before Müller's causal-chain abbreviation; decay → `serao kelu`; four truths → pain, its coming, its end, and the path; obtaining → `pilu`; enveloped in consciousness → dwelling within `remo kire`; annihilated → released; Nirvana → `nulo shea`, deep peace, with the source term retained beside it; Buddhas → people who awaken; highest perfect knowledge → `mo ko sholu sano`; verse → `melira`, song or poem; great → `ru welao`, very good; peerless → folded into no song being better; proclamation within Prajnaparamita → omitted while `ha melira` continues the reference to the song; O wisdom → omitted as a direct address; mantra → an optative passage towards `ra shuna`, that edge; svāhā → `shea shua`, peace comes; wisdom → `nulo sano`; colophon → answered by the title `nulo sano korua`. New words coined: none.*
-
----
-
-## What changes between the two renderings
-
-Both renderings put form and emptiness face to face. After that equation, their obligations pull apart. The close translation follows Müller's printed terms through contradiction, annihilation, ranked verse, and a traveler who has already crossed. The transmutation asks what those movements become when Phi treats emptiness as an ordinary quality, release as an answer to mental enclosure, and passage as a wish shared with others.
-
-| Moment | Close translation | Transmutation | Why they diverge |
-|---|---|---|---|
-| source identities | Müller's lines supply Avalokiteshvara and Sariputra. Phi describes a Bodhisattva as a person walking toward awakening and marks Sariputra's address with `kona miona`. | Avalokiteshvara becomes the one who sees deeply. Sariputra disappears. | Translation carries the social acts while respecting the source-name boundary. Transmutation needs the seeing relation more than either identity. |
-| five Skandhas | `ta shao wi sholei` states five gatherings before the later list. | Five Phi words appear without an explicit count or aggregate description. | Translation owes the numbered category to Müller. Transmutation moves straight to the experiences it will empty. |
-| form and emptiness | The source's "here" and "indeed" survive, and each direction of non-difference gets a sentence. | The equation is bare, and one relational sentence replaces the two denials. | Translation retains rhetorical pressure as well as the proposition. Transmutation lets Phi's symmetric relation do the repetition's work. |
-| knowledge and ignorance | Knowledge, ignorance, and the end of each appear before Müller's causal-chain abbreviation. | All four printed terms are omitted along with the unprinted middle of the chain. | The distinction is source content. Translation composes ignorance as knowledge's emptiness; transmutation does not interrupt its body-centered litany to explain that composition. |
-| consciousness | Consciousness surrounds a person, and its surrounding is caused to end. | The person dwells in thought-shapes, which are released. | The close version follows Müller's enclosure and annihilation. Transmutation reads the same turn as loosening a construction of thought. |
-| freedom and Nirvana | The person becomes `ralu`, free from fear, and feels pleasure from complete deep peace beyond change. | The person walks without fear and feels deep peace. | Translation restores the explicit state of freedom, enjoyment, and Müller's finality. Both leave Nirvana itself in the source line. |
-| verse | A `melira`, song or poem, receives both rank claims, calms all pain, and is uttered within complete knowing. | The same noun receives one rank claim and releases pain. It omits the proclamation relation. | Translation accounts for each epithet and the setting of the utterance. Transmutation hears a performed song and lets fewer claims carry it. |
-| crossing | Wisdom is addressed as `thia`; it goes three times and arrives at the other `kerime`, shore. Svaha appears only in Müller's line. | `lo mia`, we, receive two optative wishes towards `ra shuna`, that edge; then all people may come there and peace comes. | Müller's traveler has no stated subject. Translation assigns it to the addressee; transmutation changes the shore to an edge, opens the passage into collective aspiration, and gives Svaha a peaceful answer. |
-| colophon | A final sentence identifies the end of the Heart of Complete Wisdom. | The title answers the colophon, and the spoken text ends at peace. | Translation follows the source past the mantra. Transmutation chooses the mantra's last image as its door. |
-
-### Solarpunk values
-
-The close translation does not turn the sutra into a program for collective life. One figure studies, another is addressed, and a traveler crosses. The transmutation changes the scale at its last moment: `lo mia` go together, then the wish opens to everyone. That is Phi's communal reading, not a social claim hidden in Müller's source.
-
-### Secular Buddhist philosophy
-
-The close version exposes the difficulty instead of explaining it away. Form is emptiness, error is absent and present, knowledge and ignorance both reach zero, and even obtaining disappears. The transmutation places the same pressure on words a learner already knows from bowls, bodies, thought, and peace. Its psychology is easier to inhabit, but it has moved away from several distinctions in the text.
-
-### Art Nouveau aesthetics
-
-The equation works like positive and negative space cut from one surface. Translation traces both edges: form into emptiness, emptiness into form, then each denial of difference. Transmutation joins the pair once with `nela`. Later, the close rendering reaches a literal shore while the transmutation follows the longer curve from solitary thought into a shared crossing.
-
-### Peace linguistics
-
-The close translation speaks annihilation and fear aloud. It also speaks pain and the verse's claims of superiority. A peaceful language would falsify the source if it quietly changed destruction into comfort. Transmutation makes its ethical change openly: thought-shapes and pain are released, then Svaha becomes the arrival of peace. The labels show which promises belong to Müller and which belong to Phi.
-
-### Pre-industrial wisdom
-
-The passage is remembered in the mouth. Both renderings call the verse a `melira`, a song or poem made for the voice. Close translation repeats each going, while transmutation gives the passage to a group voice. One reaches the shore named by the source; the other becomes a song people could carry towards that edge together.
-
-Close translation arrives with the traveler Müller leaves unnamed. Transmutation turns back, gathers company, and sets out again.

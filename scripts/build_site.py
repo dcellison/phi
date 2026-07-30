@@ -5756,8 +5756,8 @@ TEXT_CONTENTS_METHODS = (
         "kind": "transmutation",
         "icon": "transmutation",
         "description": (
-            "Phi prefers transmutation for inherited material. The source "
-            "stays in view, but the five pillars can reshape the work."
+            "A transmutation may reshape a source under Phi's five pillars. "
+            "Its citations and gap log keep the distance visible."
         ),
     },
     {
@@ -6041,6 +6041,8 @@ def text_contents_page(news_chapter_count):
     method_key = []
     for spec in TEXT_CONTENTS_METHODS:
         count = sum(work["method"] == spec["method"] for work in all_works)
+        if count == 0:
+            continue
         noun = "work" if count == 1 else "works"
         method_key.append(
             f'<article class="text-index-method text-index-method-{spec["kind"]}">'
