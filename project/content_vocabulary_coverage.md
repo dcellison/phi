@@ -47,6 +47,7 @@ Work package states in the next table use the [roadmap status vocabulary](roadma
 | Module content prose migration | **DONE** | All eight learning paths are complete. The final Work, Craft, and Repair pass migrates sixteen inherited entries without adding a root. Every base and module entry now follows the same prose contract, voice, coverage gate, and validation standard. |
 | Post-migration active-corpus retrofit | **IN PROGRESS** | Fifteen literary passes complete the shelf, the drafted Phi book is current through chapter 7, and all seven manual parts, the primer, and three pamphlets have received contextual teaching passes. Continue with the other six pamphlets and current documents before returning to the book. |
 | Metta Sutta close-translation repair | **DONE** | Four roots separate integrity from honesty, virtue from one good act, pleasure from joy, and craving from neutral desire. Transparent clauses now preserve conscientiousness, non-arrogance, reproof, inclusive beings, transverse direction, obstruction, and the full span of wakefulness. |
+| Gibran's On Work fidelity repair | **DONE** | Both 32-unit citation streams remain complete. Nine correction classes repair modifier scope, negation, source intensity, causation, comparison, and derived English without adding a root. |
 | Core speech and conversation | **DONE** | Fourteen inherited base verbs now use the target prose contract. Their speech distinctions remain covered, while a direct verb for meeting another person has its own open decision. |
 | Knowledge, understanding, belief, and memory | **DONE** | Six inherited base verbs now use the target prose contract. Knowledge, comprehension, belief, memory, forgetting, and recognition remain distinct; losing or misplacing a held thing no longer hides among them. |
 | Attention, observation, reflection, and imagination | **DONE** | Eight inherited base verbs now use the target prose contract. Directed attention, observation, reflection, contemplation, meditation, intuition, imagination, and dreaming remain distinct, and base `mewali` now names sustained interest. |
@@ -1816,6 +1817,23 @@ The rebuilt page follows the whole teaching in 33 close-translation units and 33
 
 The batch adds two optional roots with four module memberships and no registered compound or grammar.
 
+## Gibran's On Work fidelity repair
+
+Both renderings already followed all 32 source units in order, and the continuous close reading matched the detailed close blocks. The semantic sweep found defects that those structural checks could not see: a modifier attached to the seeds instead of the sowing, an imperative lost its negation, a back-translation supplied an unattested superlative, and physical size words were used for changes in human worth.
+
+| Conceptual test | Present resources or decision | Status | Finding |
+|---|---|---|---|
+| Tender seeds or sowing with tenderness | `roe phaeli` before the object and verb | **COVERED** | Instrumental `roe` turns the quality noun into manner. Bare `phaeli` had modified the following seeds and made the derived English false. |
+| Self-compulsion under negation | fixed Slot 1 `miso ka ma` | **COVERED** | The transmutation now says not to make oneself work. The earlier `miso ka` commanded the opposite of its English line. |
+| Inmost depth | superlative `mo ko nulo` | **COVERED** | The Phi now contains the deepest secret claimed by its derived English rather than leaving the superlative below the line only. |
+| Curse and misfortune | `tupeka`, `peloma haolu`, `soleha`, and `CV-SACRED-03` | **SOURCE-BOUND / COMPOSITIONAL** | A spoken burden and harmful luck keep Gibran's two judgements distinct. The exact traditional mechanism of a curse remains in the cited source. |
+| Proud submission | `thoru`, `kulo`, `kelomi`, and `CV-POWER-01` | **COMPOSITIONAL** | The procession accepts the endless path's guidance with pride. Authority, coercion, and administrative presentation remain separate relations rather than senses of one submission root. |
+| Distaste, grudge, and disgust | `whuo kaeli`, `ma kaeli`, `ma rinu`, `naweri`, `kophinu`, and `CV-AFFECT-10` | **COMPOSITIONAL** | The close rendering now states absence of liking instead of escalating both passages to strong disgust. Desire and refusal remain available when a later context asks a different question. |
+| Seizing and muffling | `kema pilu` and caused cessation of `hewasu` | **COVERED** | The rainbow is forcefully taken rather than merely held. The final accusation now makes the worker cause the voices to cease being audible instead of reporting unexplained inaudibility. |
+| Work and inherent worth | causative `helui` with `rolia` | **COVERED** | The transmutation now says that work does not change a person's worth. It no longer borrows physical `thiku` or `whalo` for smaller or greater worth. |
+
+The batch adds no root, module membership, registered compound, or grammar. It records three lexical decisions so the source pressure around aversion, submission, and curses cannot disappear after the text repair.
+
 ## Resolved review decisions
 
 Corpus pressure and the sharper semantic map support four base roots. None carries a module field because each distinction belongs in ordinary material, household, ecological, and reflective speech.
@@ -1907,4 +1925,4 @@ The gate applies only to content vocabulary. Phi's closed grammar remains closed
 
 ## Resume point
 
-The decision queue is closed. The register holds 67 implemented decisions and 124 compositional decisions. It also preserves 31 deferrals with return conditions, 43 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,297 lexicon entries follow the target prose contract. Fifteen post-migration literary retrofits complete the shelf, and the stricter source-fidelity sweep is current through Gibran's On Giving. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the paired-text fidelity sweep with the next recorded shelf candidate. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.
+The decision queue is closed. The register holds 67 implemented decisions and 126 compositional decisions. It also preserves 31 deferrals with return conditions, 44 source boundaries, and 4 deliberate refusals; no candidate is open or accepted but unfinished. All eight module paths and all 1,297 lexicon entries follow the target prose contract. Fifteen post-migration literary retrofits complete the shelf, and the stricter new-selection sweep has corrected Gibran's On Work after the complete On Giving repair. All seven manual parts, the primer, and all nine pamphlets have completed their teaching-corpus passes. Continue the paired-text fidelity sweep with On Love. A passage changes only when expanded vocabulary genuinely improves it; changing English lexicon prose alone is not a reason to reopen Phi text.

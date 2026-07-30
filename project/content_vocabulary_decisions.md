@@ -97,6 +97,7 @@ The register is a memory aid, not proof that Phi has no other gaps. An unnoticed
 | [The Velveteen Rabbit fidelity repair](#the-velveteen-rabbit-fidelity-repair) | complete | closed | 11 |
 | [Schleicher's fable fidelity repair](#schleicher-s-fable-fidelity-repair) | complete | closed | 4 |
 | [Gibran's On Giving fidelity repair](#gibran-s-on-giving-fidelity-repair) | complete | closed | 3 |
+| [Gibran's On Work fidelity repair](#gibran-s-on-work-fidelity-repair) | complete | closed | 3 |
 
 ## Core material qualities
 
@@ -915,6 +916,14 @@ No lexical question from this batch remains outside an explicit coverage decisio
 | `CV-VALUE-01` | importance, priority, dignity, worth, preciousness, and treasure | Compositional | base value and worth vocabulary with Work priority where needed | See the complete decision under [Reason, belief, ritual, and value](#reason-belief-ritual-and-value). |
 | `CV-VALUE-03` | deservingness or desert as a judgement connecting an outcome to a person under stated grounds | Implemented | Philosophical Reasoning; Commons and Collective Governance | Words: `parelu`. A claim that someone deserves an outcome needs its own relation when worth, rights, qualification, and ordinary fit would each say something else. The verb reports the judgement and leaves its grounds available for challenge. |
 | `CV-EXCHANGE-01` | reward as a benefit received because of an act, result, or condition | Implemented | Philosophical Reasoning; Work, Craft, and Repair | Words: `thaweno`. Reward differs from a gift, which requires no matching act, and from exchange, which names a reciprocal arrangement. The new noun keeps the benefit distinct while its fairness and claimed deservingness remain open. |
+
+## Gibran's On Work fidelity repair
+
+| ID | Concept | Status | Placement | Decision or return condition |
+|---|---|---|---|---|
+| `CV-AFFECT-10` | distaste, grudge, reluctance, and unwillingness as related but non-identical stances towards an action | Compositional | base preference, desire, feeling, and refusal vocabulary | `ma kaeli`, `whuo kaeli`, `ma rinu`, `naweri`, `kophinu`. Absence of liking can describe distaste, while lack of wanting can describe reluctance. Refusal states an answer, and `kophinu` remains the stronger felt recoil of disgust. Gibran's two work passages use the first distinctions without creating a character judgement or one root for every shade of aversion. |
+| `CV-POWER-01` | submission as accepting another direction, authority, or control, distinct from presenting a document or proposal | Compositional | base relational clauses with Commons vocabulary where authority matters | `kulo`, `kelomi`, `karami`, `kawhera`, `pashenu`, `repora`. Acceptance of guidance states the voluntary relation in Gibran's procession. Another account can name authority, coercion, or constrained choice when those are present. Petitions and proposals already have their own presentation verbs, so a generic submission root would join unrelated acts and hide the relation that matters. |
+| `CV-SACRED-03` | curse as harmful speech or a rite claimed to impose harm or misfortune | Source-bound | exact religious, folkloric, or cultural source beside base speech and harm relations | Keep the named curse and its claimed mechanism in source wording. A Phi account may describe the speech or rite, intention, attributed power, burden, harm, and observed outcome without affirming or erasing the source tradition. Phi can report harmful speech, a burden, intended harm, attributed agency, and later misfortune. Those relations do not establish the tradition-specific act or mechanism called a curse. |
 
 ## Prompt sources
 

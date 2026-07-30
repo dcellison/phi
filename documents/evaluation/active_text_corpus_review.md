@@ -329,6 +329,21 @@ The repaired paired section corrects a structural problem older vocabulary migra
 
 The whole-file sentence check exposed one older PHS111 error outside the paired On Children work. `lo ha` is a standalone plural pronoun, so the following noun phrase in `su lo ha thia pula nai` made its boundary unrecoverable. The repaired `su thia ha lo pula phelu`, may you hold these desires, repeats the source's possession through the same `phelu` used in the preceding condition. The cited Gibran line, stanza count, vocabulary, and method remain unchanged.
 
+## Paired review: The Prophet, On Work
+
+The ground truth is the complete On Work teaching in Kahlil Gibran's 1923 *The Prophet*, stored in `texts/gibran/sources/the_prophet.txt`. The close translation and transmutation each follow all 32 source units in order. Both citation streams reconstruct the stored source exactly, and the continuous close reading has the same Phi sentence stream as the detailed blocks.
+
+| Question | Close translation | Transmutation |
+|---|---|---|
+| Modifier scope and negation | Instrumental `roe phaeli` makes tenderness the manner of sowing rather than a property of the seeds. | The same scope repair applies, while `miso ka ma` restores the missing negation in "do not make yourself work." |
+| Source degree and force | `mo ko nulo` restores the inmost secret, `kema pilu` restores forceful capture of the rainbow, and caused cessation of audibility restores the worker's role in muffling. | The inherited-skill and shared-work answers remain, since their departures are declared by the method. |
+| Curse and misfortune | A burden arising from harmful speech stays distinct from harmful luck. Gibran's exact curse remains in the source line. | Burden and drudgery remain practical distinctions rather than inherited condemnation. |
+| Proud submission | The procession accepts the endless path's guidance with pride. The source preserves the force that the relational description does not. | Rest stays inside earth's cycle, so submission to a prescribed pace does not enter the answer. |
+| Distaste and grudge | Absence of liking replaces two incorrect uses of strong `kophinu`, disgust. The limits table states what remains. | Disliking the grape press remains a report rather than evidence that the worker poisons the drink. |
+| Human worth | Comparative dignity still follows Gibran's close hierarchy and rebuttal. | Work now leaves worth unchanged through `rolia ka ma helui`; physical `thiku` and `whalo` no longer grade it. |
+
+No new root is needed. `CV-AFFECT-10` records distaste and reluctance through preference, desire, and refusal clauses; `CV-POWER-01` keeps guidance, authority, coercion, and administrative presentation separate; `CV-SACRED-03` leaves the claimed mechanism of a curse with its religious or cultural source. The paired page adds no module membership, registered compound, or grammar.
+
 ## Paired review: The Prophet, On Giving
 
 The ground truth is the complete On Giving teaching in Kahlil Gibran's 1923 *The Prophet*, stored in `texts/gibran/sources/the_prophet.txt`. The close translation and transmutation each follow all 33 source units from the rich man's request to the earth as mother and God as father. The continuous close reading has the same Phi sentence stream as its detailed blocks, while both citation streams preserve the source order without ellipsis. The work adds `parelu`, deserve, and `thaweno`, reward, as optional roots with four module memberships.

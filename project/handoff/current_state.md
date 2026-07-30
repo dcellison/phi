@@ -1,6 +1,6 @@
 # Current state
 
-This snapshot was first assembled after pull request #418 merged on 17 July 2026 and is current through pull request #656 on 29 July 2026 plus the pending On Giving fidelity repair under D075. It covers the completed SEM-09D corpus retrofit and the stricter source-fidelity sweep through Gibran's On Giving. The finished book, the practice-complete pamphlet shelf, and the first six chapters of *News from Nowhere* are current here as well. It also records the writing-system consolidation that made Tengwar Phi's sole alternative to romanization, the four renderer-led shelf identities, and the complete entrance sequence for Kia, the Short Road, and the Phi Book contents page. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
+This snapshot was first assembled after pull request #418 merged on 17 July 2026 and is current through pull request #657 on 29 July 2026 plus the pending On Work fidelity repair under D076. It covers the completed SEM-09D corpus retrofit and the stricter source-fidelity sweep through the first new Gibran selection. The finished book, the practice-complete pamphlet shelf, and the first six chapters of *News from Nowhere* are current here as well. It also records the writing-system consolidation that made Tengwar Phi's sole alternative to romanization, the four renderer-led shelf identities, and the complete entrance sequence for Kia, the Short Road, and the Phi Book contents page. Its counts describe the current tracked work; Git history remains the source for branch and merge identifiers.
 
 ## Active execution sequence
 
@@ -59,7 +59,7 @@ Kia opens the separate entrance-page sequence. Its first greeting sits in an ope
 
 There are no partial or dual entries. A target entry has both `articulatory_notes` and structured `examples` and has neither legacy `concept` nor `grammatical_notes`. The committed evidence is [`documents/validation/vocabulary_prose_coverage.json`](../../documents/validation/vocabulary_prose_coverage.json).
 
-The latest source-led additions are D075, shared Philosophical and Commons `parelu` deserve and shared Philosophical and Work `thaweno` reward, from the On Giving fidelity repair. D052 remains the last legacy-prose batch and brought the eighth learning path to zero legacy prose. D044 remains the base-first boundary. Do not reopen completed entries merely to make their English prose different; reopen one only for a real semantic, factual, voice, or corpus problem.
+The latest source-led additions are D075, shared Philosophical and Commons `parelu` deserve and shared Philosophical and Work `thaweno` reward, from the On Giving fidelity repair. D076 then repairs On Work without adding vocabulary and records aversion, submission, and curse as compositional or source-bound decisions. D052 remains the last legacy-prose batch and brought the eighth learning path to zero legacy prose. D044 remains the base-first boundary. Do not reopen completed entries merely to make their English prose different; reopen one only for a real semantic, factual, voice, or corpus problem.
 
 ## Decision register
 
@@ -67,17 +67,17 @@ The latest source-led additions are D075, shared Philosophical and Commons `pare
 
 | Item | Count |
 |---|---:|
-| Registered batches | 77 |
-| Decisions | 269 |
+| Registered batches | 78 |
+| Decisions | 272 |
 | Implemented | 67 |
-| Compositional | 124 |
+| Compositional | 126 |
 | Deferred with return condition | 31 |
-| Source-bound | 43 |
+| Source-bound | 44 |
 | Declined | 4 |
 | Open | 0 |
 | Accepted but not implemented | 0 |
 
-The latest development decision is D075 in [`project/development_log.md`](../development_log.md). Check the live log before assigning the next identifier.
+The latest development decision is D076 in [`project/development_log.md`](../development_log.md). Check the live log before assigning the next identifier.
 
 ## Base queue complete
 
@@ -112,7 +112,7 @@ All eight profiles already have canonical JSON membership, a generated module in
 
 ## Corpus state
 
-The literary shelf has completed its full inherited-text review against the current lexicon. A stricter source-fidelity sweep is now current through Gibran's On Giving: D070 adds `torali` and repairs Babel, D071 restores The Little Prince excerpts' current turn and source-shaped invisibility, D072 narrows the Ring refusal's affected people to wearers of the other Rings while declaring its change from purpose to accusation, D073 adds `tinemu` while making the complete Williams witness reconstruct exactly, D074 adds `mophiku` while repairing both Schleicher citation streams and renderings, and D075 adds `parelu` and `thaweno` while giving On Giving two complete renderings. The shelf holds seventeen works: ten include a close translation, eleven include a transmutation, four are original Phi compositions, and eight source works use both methods. *News from Nowhere* is one 32-chapter work with the first six chapters transmuted and reviewed. The current inherited-text review record is [`documents/evaluation/active_text_corpus_review.md`](../../documents/evaluation/active_text_corpus_review.md), while the original dialogue carries its proposition and vocabulary-pressure records in the work itself. The compound registry holds 77 rows at word-pair and word-triple scale by the maintainer's ruling of 23 July 2026. Its one four-word entry overreached from compound towards canonized phrase, so `lothea korua`, love-heart, is registered in its place and `mawha norui` composes freely before it in the Metta Sutta's lines. Chapter 4 adds `wisola lokue`, exchange-place, for a market; chapter 5 adds no root or registered compound.
+The literary shelf has completed its full inherited-text review against the current lexicon. A stricter source-fidelity sweep is now current through D076: D070 adds `torali` and repairs Babel, D071 restores The Little Prince excerpts' current turn and source-shaped invisibility, D072 narrows the Ring refusal's affected people to wearers of the other Rings while declaring its change from purpose to accusation, D073 adds `tinemu` while making the complete Williams witness reconstruct exactly, D074 adds `mophiku` while repairing both Schleicher citation streams and renderings, D075 adds `parelu` and `thaweno` while giving On Giving two complete renderings, and D076 repairs modifier scope, negation, source intensity, causation, and worth language in On Work without a new root. The shelf holds seventeen works: ten include a close translation, eleven include a transmutation, four are original Phi compositions, and eight source works use both methods. *News from Nowhere* is one 32-chapter work with the first six chapters transmuted and reviewed. The current inherited-text review record is [`documents/evaluation/active_text_corpus_review.md`](../../documents/evaluation/active_text_corpus_review.md), while the original dialogue carries its proposition and vocabulary-pressure records in the work itself. The compound registry holds 77 rows at word-pair and word-triple scale by the maintainer's ruling of 23 July 2026. Its one four-word entry overreached from compound towards canonized phrase, so `lothea korua`, love-heart, is registered in its place and `mawha norui` composes freely before it in the Metta Sutta's lines. Chapter 4 adds `wisola lokue`, exchange-place, for a market; chapter 5 adds no root or registered compound.
 
 SEM-09D is complete. Fifteen literary passes finished the shelf, including the first three *News from Nowhere* chapters then drafted. All seven manual parts, all twenty-seven primer files, and the nine pamphlets then on the shelf are reviewed without a lexical gap, and the current-documents sweep closed with the evaluation corpus. Parts IV and VI each use one explicitly labelled optional term with a base alternative; Part VII teaches module words only inside their named learning paths, while the general primer and every pamphlet except source-material use no module terms; the source-material pamphlet demonstrates the module choice it teaches. A Phi passage changes only when the current form is more faithful or natural there. A transparent composition stays when its parts still teach or express the thought better, and every changed sentence and dependency receives validation.
 
