@@ -1,12 +1,12 @@
 # wuloe wetha tupiwa — The Velveteen Rabbit
 
-*Margery Williams published The Velveteen Rabbit in 1922: a nursery story about a cloth rabbit loved threadbare by a child, condemned to the bonfire after a fever, and carried at last by the nursery magic into being a real rabbit. A full narrative arc rather than excerpts, it turns on a becoming that is Phi's own: love working slow change until the change is complete. Thirteen words were coined; the gap log at the end names them. The recurring ants needed more than the broad insect word, just as the story needed a mouse rather than a small mammal with excellent timing. Real is `shewo` (true), defined in the story by the one who knows; the Skin Horse's "long, long time" is carried by the habitual `ro`; and the nursery magic Fairy steps out of the golden blossom exactly where the original has her, `whekelu miona`, the keeper of every toy a child has loved.*
+*Margery Williams published The Velveteen Rabbit in 1922. A cloth rabbit is loved threadbare by a child, condemned to the bonfire after a fever, and carried at last by nursery magic into the life of a wild rabbit. This translation follows the complete story. Williams's capitalised Real becomes `shewo`, true, while names and exact source-bound terms remain in her lines beside the Phi. The result has room for the mouse, the ants, the sawdust heart, and one rather consequential tear.*
 
-*Each block below carries four lines: the Phi sentence, its word-by-word gloss, a back-translation into English, and Williams's own original wording, so a reader can see exactly what the transmutation kept and what it changed.*
+*Each block carries the Phi sentence, its word-by-word gloss, a literal English back-translation, and Williams's original wording. The source line sets the terms. Where Phi must describe rather than name a clock unit, title, institution, or object, the translation limits at the end keep the remaining distance in view.*
 
 ---
 
-## horae thorui — The splendid beginning
+## mioru thorui — The splendid beginning
 
 ```
 ta wuloe wetha tupiwa to nai.
@@ -14,9 +14,9 @@ one soft cloth rabbit PST be.
 (There was once a velveteen rabbit.)
 williams: "HERE was once a velveteen rabbit,"
 
-mua thorui shia ru horae to nai.
-LOC beginning 3SG INTS radiant PST be.
-(In the beginning he was truly radiant.)
+mua thorui shia ru mioru to nai.
+LOC beginning 3SG INTS beautiful PST be.
+(In the beginning he was very beautiful.)
 williams: "and in the beginning he was really splendid."
 
 shia theru nela wuloe to nai.
@@ -120,7 +120,7 @@ soft cloth rabbit PST PASS forget.
 williams: "the Velveteen Rabbit was forgotten."
 ```
 
-**Notes:** `horae` (radiant) renders "really splendid" with an outward light, while `ru mioru` keeps "charming" as a simpler judgement of beauty. The rabbit is `theru nela wuloe`, plump and soft. Williams's "as a rabbit should be" gets a sentence of its own, complete with the obligation particle `na`, as though rabbit shape were a small law of nature. `piloe` (spot) describes the coat here and returns in the last scene, when those odd marks almost give the rabbit away. The stocking is `lopia paloi wethalu`, a child's foot-garment, and its open top is `thorui`. `se peki` says that the rabbit was squeezed into it. Holly becomes `shila liro loremi`, a branch of winter green. Canon does not count clock hours, so the child's "at least two hours" becomes `ta laeno shemu`, one long moment. The joke survives: the love is real, and not terribly durable. Aunts and Uncles become `lo thaluni`, kinfolk, because Phi leaves gender out of general kin terms. The stocking is already crowded. It holds stone-fruit nuts, fire-coloured oranges, a little railway device, brown sweet almonds, and `keli misuki`, the clockwork mouse. The passive `se sahu` closes the scene without assigning a culprit: the rabbit was forgotten.
+**Notes:** `ru mioru`, very beautiful, carries both "really splendid" and the later charming effect without inventing light around the rabbit. He is `theru nela wuloe`, plump and soft. Williams's "as a rabbit should be" gets a sentence of its own, complete with the obligation particle `na`, as though rabbit shape were a small law of nature. `piloe` (spot) describes the coat here and returns in the last scene, when those odd marks almost give the rabbit away. The stocking is `lopia paloi wethalu`, a child's foot-garment, and its open top is `thorui`. `se peki` says that the rabbit was squeezed into it. Holly becomes `shila liro loremi`, a branch of winter green. Canon does not count clock hours, so the child's "at least two hours" becomes `ta laeno shemu`, one long moment; the exact duration stays in Williams's line. The joke survives: the love is real, and not terribly durable. Aunts and Uncles become `lo thaluni`, kinfolk, because Phi leaves gender out of general kin terms. The stocking is already crowded. Stone-fruit nuts and fire-coloured oranges sit beside a little railway device. Brown sweet almonds keep company with `keli misuki`, the clockwork mouse. The passive `se sahu` closes the scene without assigning a culprit: the rabbit was forgotten.
 
 ## lopia tholu — The nursery
 
@@ -145,9 +145,9 @@ shia li wuloe wetha to nai.
 (He was only velveteen.)
 williams: "and being only made of velveteen,"
 
-thelao soli whu lo miona mo sone wilemo shia to thiku nila.
-CONS SOME REL PL person CMPR value toy 3SG PST small see.
-(And so some toys that people valued more looked down on him.)
+thelao soli whu mo thena wisola phelona wilemo shia to thiku nila.
+CONS SOME REL CMPR thing exchange require toy 3SG PST small see.
+(And so some toys that required more things in exchange looked down on him.)
 williams: "some of the more expensive toys quite snubbed him."
 
 lo keli wilemo ru thoru to nai.
@@ -165,9 +165,9 @@ PL 3SG MANY new think PST hold.
 (They held many new thoughts.)
 williams: "they were full of modern ideas,"
 
-lo shia tha miso shewo nai tho to ro sherewa.
-PL 3SG DECL.COMP REFL true be DECL.COMP.CLOSE PST HAB claim.
-(They kept claiming that they themselves were Real.)
+lo shia tha miso shewo nai tho to ro peshu.
+PL 3SG DECL.COMP REFL true be DECL.COMP.CLOSE PST HAB lie.
+(They kept pretending that they themselves were Real.)
 williams: "and pretended they were real."
 
 wilemo luphonu sui wi meluna to ki liona.
@@ -215,9 +215,9 @@ ALSO 3SG REL PL joint hold wood large cat PST be.
 (Even the wooden great-cat who had joints was there.)
 williams: "Even Timothy, the jointed wooden lion,"
 
-lo sowelu miona shia to pilewa.
-PL disabled person 3SG PST make.
-(Disabled people had made him.)
+lo sowelu miona shia to pilewa. lo shia whu roe puro phoa sholei wemari to nai.
+PL disabled person 3SG PST make. PL 3SG REL INS strength do gather member PST be.
+(Disabled people had made him. They were members of a group that acted through force.)
 williams: "who was made by the disabled soldiers,"
 
 thelao shia mo whalo remo to na phelu.
@@ -225,14 +225,14 @@ CONS 3SG CMPR large think PST NEC hold.
 (So he ought to have held broader thoughts.)
 williams: "and should have had broader views,"
 
-whekai shia thoru to kelu. shia tha miso whalo punoki wemari nai tho to ro sherewa.
-CONTR 3SG proud PST become. 3SG DECL.COMP REFL large institution member be DECL.COMP.CLOSE PST HAB claim.
-(But he put on airs and kept claiming membership in the great institution.)
+whekai shia thoru to kelu. shia tha miso punoa kowanu punoki wemari nai tho to ro peshu.
+CONTR 3SG proud PST become. 3SG DECL.COMP REFL society governance institution member be DECL.COMP.CLOSE PST HAB lie.
+(But he put on airs and kept pretending that he belonged to an institution of society's governance.)
 williams: "put on airs and pretended he was connected with Government."
 
-lo shia thiku tupiwa ru thiku to ka phaelo. shia thoa lo shia li ta wilemo to nai.
-PL 3SG small rabbit INTS small PST CAUS feel. 3SG AMONG PL 3SG RESTR one toy PST be.
-(Together they made the little rabbit feel very small, merely one toy among the rest.)
+tupiwa tha lo phirae wilemo tupiwa li thiku sone tho to phaelo. shia thoa lo shia li ta wilemo to nai.
+rabbit DECL.COMP PL different toy rabbit RESTR small value DECL.COMP.CLOSE PST feel. 3SG AMONG PL 3SG RESTR one toy PST be.
+(The Rabbit felt that the other toys valued him only a little. He was merely one toy among the rest.)
 williams: "Between them all the poor little Rabbit was made to feel himself very insignificant and commonplace,"
 
 li kori kalora wei shia phena to nai.
@@ -241,7 +241,7 @@ RESTR leather horse DAT 3SG kind PST be.
 williams: "and the only person who was kind to him at all was the Skin Horse."
 ```
 
-**Notes:** the expensive toys become `whu lo miona mo sone wilemo`, the toys people value more. That keeps their nursery rank without inventing a price. Their snub is `thiku nila`, a small view of someone, and the mechanical toys keep claiming that they themselves are Real until the boast acquires its proper tiresomeness. The model boat still has its ropes, sails, craft language, and two seasons, but Phi does not choose summer and autumn on Williams's behalf. `reteru` lets the rabbit deny being a model without turning a model into a mere symbol. The wooden great-cat has visible joints, `lo kiparu`, and was made by `lo sowelu miona`, disabled people. Williams's military description remains in the citation, while Phi names disability without turning it into concealed pain. The great-cat puts on airs and claims membership in `whalo punoki`, the great institution; Government does not get quietly improved into guidance. Phi has no useful core equivalent of "commonplace." Instead, the other toys make the rabbit feel very small, and the next sentence leaves him merely one toy among them.
+**Notes:** the expensive toys are `whu mo thena wisola phelona wilemo`, toys that require more things in exchange. Price stays outside the lexicon, but the material relation does not disappear with it. Their snub is an act of valuation: the Rabbit feels that the other toys value him only a little. The next sentence leaves him one toy among the rest, where Williams can call him "commonplace" in a single word. `peshu`, lie, keeps Williams's pretence instead of reporting it as a neutral claim. The model boat still has its ropes, sails, craft language, and two seasons. `reteru` lets the rabbit deny being a model without turning a model into a mere symbol. The wooden great-cat has visible joints, `lo kiparu`. His makers are disabled people and members of a group that acts through force; Williams's line keeps their exact military role. Government becomes `punoa kowanu punoki`, an institution of society's governance. The phrase states the relation and leaves its legitimacy open.
 
 ## kori kalora — The Skin Horse
 
@@ -342,9 +342,9 @@ QUOT.COMP true REL DAT 2SG become thing be QUOT.COMP.CLOSE PST speak.
 ("Real is a thing that happens to you.")
 williams: "\"It's a thing that happens to you."
 
-sha lu lopia sui ru laeno thimu thia lothea nela shia thia li wilemo ma nila nela shia thia ru lothea. pheo thena thia shewo kelu sho to haolu.
-QUOT.COMP COND child DUR INTS long time 2SG love COORD 3SG 2SG RESTR toy NEG see COORD 3SG 2SG INTS love. POST thing 2SG true become QUOT.COMP.CLOSE PST speak.
-("When a child loves you for a very long time, does not see you merely as a toy, and truly loves you, then you become Real.")
+sha lu lopia sui ru laeno thimu thia lothea nela shia thia lothea li wile porua ma phelu nela shia thia ru lothea. pheo thena thia shewo kelu sho to haolu.
+QUOT.COMP COND child DUR INTS long time 2SG love COORD 3SG 2SG love RESTR play purpose NEG hold COORD 3SG 2SG INTS love. POST thing 2SG true become QUOT.COMP.CLOSE PST speak.
+("When a child loves you for a very long time, their love for you does not have mere play as its purpose, and they really love you, then you become Real.")
 williams: "When a child loves you for a long, long time,"
 williams: "not just to play with, but REALLY loves you,"
 williams: "then you become Real.\""
@@ -364,9 +364,9 @@ shia theula thimu wero to nai.
 (He was always honest.)
 williams: "for he was always truthful."
 
-sha lu thia shewo nai. kipona thia ma kulo sho to haolu.
-QUOT.COMP COND 2SG true be. pain 2SG NEG guide QUOT.COMP.CLOSE PST speak.
-("When you are Real, pain does not guide you.")
+sha lu thia shewo nai. sui kipona thia pheru sho to haolu.
+QUOT.COMP COND 2SG true be. DUR pain 2SG endure QUOT.COMP.CLOSE PST speak.
+("When you are Real, you endure through pain.")
 williams: "\"When you are Real you don't mind being hurt.\""
 
 shia sha wa ha mua ta shemu kelu phea keli rato sola ha roe lo thiku helui kelu sho to thilou.
@@ -389,9 +389,9 @@ QUOT.COMP CONS PROX DAT PL fragile person FEW moment become QUOT.COMP.CLOSE PST 
 ("That is why it comes only rarely to fragile people.")
 williams: "That's why it doesn't happen often to people who break easily,"
 
-sha ha wei lo whu tiso shuna phelu miona nela lo whu se na moli phelu miona we phina shemu kelu sho to haolu.
-QUOT.COMP PROX DAT PL REL sharp edge hold person COORD PL REL PASS NEC gentle hold person ALSO FEW moment become QUOT.COMP.CLOSE PST speak.
-("To those who hold sharp edges, and those who must be gently kept, it also comes rarely.")
+sha ha wei lo whu tiso shuna phelu miona nela lo whu se na thesa moli phelu miona we phina shemu kelu sho to haolu.
+QUOT.COMP PROX DAT PL REL sharp edge hold person COORD PL REL PASS NEC careful gentle hold person ALSO FEW moment become QUOT.COMP.CLOSE PST speak.
+("To those who hold sharp edges, and those who must be carefully and gently kept, it also comes rarely.")
 williams: "or have sharp edges, or who have to be carefully kept."
 
 sha lu thia shewo kelu. pai theula thia whila lue lothea ki wepu sho to haolu.
@@ -404,9 +404,9 @@ QUOT.COMP 2SG eye fall. 2SG PL joint free become. 2SG INTS wear down QUOT.COMP.C
 ("Your eyes fall out. Your joints grow loose. You become very worn.")
 williams: "and your eyes drop out and you get loose in the joints and very shabby."
 
-sha whekai ha lo thena thia rolia ma helui sho to haolu.
-QUOT.COMP CONTR PROX PL thing 2SG worth NEG change QUOT.COMP.CLOSE PST speak.
-("But these things do not change your worth.")
+sha whekai thia ha lo thena ma sone sho to haolu.
+QUOT.COMP CONTR 2SG PROX PL thing NEG value QUOT.COMP.CLOSE PST speak.
+("But you do not care about these things.")
 williams: "But these things don't matter at all,"
 
 sha lu thia shewo kelu. li whu ma shelomu miona thia ma mioru nila sho to haolu.
@@ -430,7 +430,7 @@ CONTR leather horse RESTR PST smile.
 williams: "But the Skin Horse only smiled."
 ```
 
-**Notes:** the Skin Horse places love inside `sui ru laeno thimu`, for a very long time. His condition first refuses mere play and then names `ru lothea`, true love. The Rabbit's questions still come from the body of a cloth toy: noisy machinery, a winding handle, and the suspicion that becoming Real may hurt. `welua miona`, fragile people, now replaces the old phrase "people who break quickly." The body lesson is exact too. `kiparu` names the joints, `ralu` lets them become loose, and `rohemi` describes wear rather than age. The Skin Horse never says that pain is trivial. `kipona thia ma kulo`, pain does not guide you, leaves the hurt intact while showing what love has changed. The later answer is about worth: loose joints, fallen eyes, and a worn coat do not diminish it. Nearly all the hair has gone `lue lothea`, from love.
+**Notes:** the Skin Horse places love inside `sui ru laeno thimu`, for a very long time. Its purpose is not merely play, and the final `ru lothea` restores Williams's emphatic "REALLY loves you." The Rabbit's questions still come from the body of a cloth toy: noisy machinery, a winding handle, and the suspicion that becoming Real may hurt. `welua miona`, fragile people, carries "people who break easily," while `se na thesa moli phelu` keeps careful handling distinct from care as a relationship. The body lesson keeps pain present without making a virtue of it: `sui kipona thia pheru`, you endure through pain. `kiparu` names the joints, `ralu` lets them become loose, and `rohemi` describes wear rather than age. The Skin Horse's later answer is not a new claim about worth. He says that the Real toy no longer cares about the fallen eyes, loose joints, and shabby coat. Nearly all the hair has gone `lue lothea`, from love.
 
 ## kori kalora nophi — The Skin Horse's story
 
@@ -445,9 +445,9 @@ QUOT.COMP PROX ANT MANY year PST become QUOT.COMP.CLOSE PST speak.
 ("That happened a great many years before.")
 williams: "\"That was a great many years ago;"
 
-sha lu thia ta shemu shewo kelu. thia mawha thimu phirae thena kelu sho to haolu.
-QUOT.COMP COND 2SG one moment true become. 2SG NONE time different thing become QUOT.COMP.CLOSE PST speak.
-("Once you become Real, you never become a different thing again.")
+sha lu thia ta shemu shewo kelu. thia mawha thimu shewo te po nai sho to haolu.
+QUOT.COMP COND 2SG one moment true become. 2SG NONE time true CESS POT be QUOT.COMP.CLOSE PST speak.
+("Once you become Real, you can never cease to be Real.")
 williams: "but once you are Real you can't become unreal again."
 
 sha ha theula thimu manolu sho to haolu.
@@ -485,20 +485,20 @@ PROX think sadness PST bring.
 (That thought brought sadness.)
 williams: "was rather sad."
 
-shia tha miso whuo ha lo kipona thena shewo po kelu tho to pula.
-3SG DECL.COMP REFL WITHOUT PROX PL pain thing true POT become DECL.COMP.CLOSE PST wish.
-(He wished that he could become Real without these hurting things.)
+shia tha miso whuo lo whu wei shia thuleni ma thola thena shewo po kelu tho to pula.
+3SG DECL.COMP REFL WITHOUT PL REL DAT 3SG comfort NEG bring thing true POT become DECL.COMP.CLOSE PST wish.
+(He wished that he could become Real without the things that brought him no comfort.)
 williams: "He wished that he could become it without these uncomfortable things happening to him."
 ```
 
-**Notes:** canon has no general gendered kin terms, so the Uncle becomes `lopia lumani wheo`, the child's family elder. That is enough for this memory: he is an adult in the family whose old love completed the horse's change. "A great many years ago" keeps the counted years in `torua`, placed before the present by `phoe`. A sigh needs no special root; `laeno whunei` is one long breath. "This magic called Real" becomes `ha shewo whekelu`, this Real-magic. The Rabbit's two longings each receive their own `wilao` clause. He wants to become Real, and he wants to know how Real feels. Williams writes both wishes, so Phi does not fold one into the other. His final `pula` is the impossible bargain at the centre of the story: becoming, but without the cost.
+**Notes:** canon has no general gendered kin terms, so the Uncle becomes `lopia lumani wheo`, the child's family elder; Williams keeps the exact relation in her line. "A great many years ago" keeps the counted years in `torua`, placed before the present by `phoe`. Once Real, the horse can never `te po nai`, cease to be so. A sigh needs no special root; `laeno whunei` is one long breath. "This magic called Real" becomes `ha shewo whekelu`, this Real-magic. The Rabbit's two longings each receive their own `wilao` clause. He wants to become Real, and he wants to know how Real feels. Williams writes both wishes, so Phi does not fold one into the other. His final `pula` asks for the change without the things that bring him no `thuleni`, comfort.
 
 ## tholu woru — The keeper of the nursery
 
 ```
-ta whu lopia tholu kulo miona to nai.
-one REL child space guide person PST be.
-(There was a person who guided the nursery.)
+ta whu lopia tholu karami phelu miona to nai.
+one REL child space authority hold person PST be.
+(There was a person who held authority in the nursery.)
 williams: "There was a person called Nana who ruled the nursery."
 
 soli shemu shia lo whu ruemi wilemo to ma nila.
@@ -521,9 +521,9 @@ shia sha mia tholu hiso ka kelu sho ro haolu.
 (She kept saying: "I am making the room clean.")
 williams: "She called this \"tidying up,\""
 
-ha wei theula wilemo korua thero to thola.
-PROX DAT UNIV toy heart fire PST bring.
-(This brought heart-fire to every toy.)
+theula wilemo ha to ma kaeli nela korua thero to phaelo.
+UNIV toy PROX PST NEG like COORD heart fire PST feel.
+(Every toy disliked this and felt anger.)
 williams: "and the playthings all hated it,"
 
 lo ko keluo wilemo mo whalo korua thero to phaelo.
@@ -531,9 +531,9 @@ PL FOC metal toy CMPR large heart fire PST feel.
 (The metal toys especially felt the greater anger.)
 williams: "especially the tin ones."
 
-tupiwa ha to ma ru phaelo.
-rabbit PROX PST NEG INTS feel.
-(The rabbit did not feel it so strongly.)
+tupiwa li ha thiku korua thero to phaelo.
+rabbit RESTR PROX small heart fire PST feel.
+(The rabbit felt only a little anger about it.)
 williams: "The Rabbit didn't mind it so much,"
 
 lu shia kau hina se wapho. shia wuloe to lepa.
@@ -576,9 +576,9 @@ shia phea howeli to shua.
 (She came like the wind.)
 williams: "she made a swoop."
 
-shia sha no thia ha serao tupiwa howela. nua thia shia po nulae sho to haolu.
-3SG QUOT.COMP IMP 2SG PROX old rabbit receive. COM 2SG 3SG POT sleep QUOT.COMP.CLOSE PST speak.
-(She said: "Take this old rabbit. He can sleep with you.")
+shia sha no thia ha serao tupiwa howela. nua thia shia po nulae. ha henoi nai sho to haolu.
+3SG QUOT.COMP IMP 2SG PROX old rabbit receive. COM 2SG 3SG POT sleep. PROX ENOUGH be QUOT.COMP.CLOSE PST speak.
+(She said: "Take this old rabbit. He can sleep with you. That is good enough.")
 williams: "\"Here,\" she said, \"take your old Bunny! He'll do to sleep with you!\""
 
 shia roe ta shonui mue molu tupiwa to kema natu.
@@ -592,14 +592,14 @@ shia muo lopia pelio tupiwa to loa.
 williams: "and put him into the Boy's arms."
 ```
 
-**Notes:** Nana remains in Williams's citation. The transmutation follows its established custom of naming people by their place in the story, so she is first `whu lopia tholu kulo miona`, the person who guides the nursery, and then `tholu woru`, the room's keeper. `kulo` replaces Williams's "ruled" because Phi refuses the language of rule. Her rush through the room is already a ready-made simile, `phea whalo howeli`, like a great wind, and `whuo remo` keeps "for no reason whatever." She calls the commotion cleaning: `mia tholu hiso ka kelu`, I make the room clean. The toys' hatred becomes `korua thero`, heart-fire, which the metal toys feel most fiercely despite having the least accommodating hearts. The Rabbit survives each toss for Williams's own reason: wherever he is thrown, he lands soft. Searching for the china dog is `sheraki`, and `tupeka` makes that search too much of a burden for a hurried keeper. Her "Here" is carried by proximal `ha` inside the command rather than left as a Phi sentence fragment. One ear and `kema natu`, a strong pull, do the rest.
+**Notes:** Nana remains in Williams's line. Phi first describes her as the person who holds the nursery's `karami`, authority, and then uses the practical story-role `tholu woru`, room-keeper. The authority relation carries "ruled" without granting a general ruler title or deciding that her authority was legitimate. Her rush through the room is already a ready-made simile, `phea whalo howeli`, like a great wind, and `whuo remo` keeps "for no reason whatever." She calls the commotion cleaning: `mia tholu hiso ka kelu`, I make the room clean. The toys dislike it and feel `korua thero`, heart-fire, with the metal toys feeling the stronger anger. The Rabbit survives each toss for Williams's own reason: wherever he is thrown, he lands soft. Searching for the china dog is `sheraki`, and `tupeka` makes that search too much of a burden for a hurried keeper. Nana's "He'll do" gets its small judgement of sufficiency after the practical claim that the rabbit can sleep with the child. One ear and `kema natu`, a strong pull, do the rest.
 
 ## lopia nuwera — In the child's bed
 
 ```
-lue ha shero wuloe wetha tupiwa mua lopia nuwera to ro nulae.
-ABL PROX night soft cloth rabbit LOC child bed PST HAB sleep.
-(From that night on, the velveteen rabbit slept in the child's bed.)
+mua ha shero wuloe wetha tupiwa mua lopia nuwera to nulae. pheo ha shero wepu sui sheloi shero shia ra to ro nulae.
+LOC PROX night soft cloth rabbit LOC child bed PST sleep. POST PROX night go DUR MANY night 3SG DIST PST HAB sleep.
+(That night the velveteen rabbit slept in the child's bed. After that night passed, he slept there through many nights.)
 williams: "That night, and for many nights after, the Velveteen Rabbit slept in the Boy's bed."
 
 mua thorui shia nuloe to ma nai.
@@ -712,13 +712,13 @@ shia tulira pina to si phae.
 (His tail's sewing was coming open.)
 williams: "and his tail becoming unsewn,"
 
-mua whu lopia shia to phimela lokue horathe welisha lue shia nophae to ki wepu.
-LOC REL child 3SG PST kiss place dawn color ABL 3SG nose PST PFV go.
-(In the place where the child had kissed him, the pink had gone from his nose.)
+mua whu lopia shia to phimela lokue lue shia nophae theula horathe welisha to ki se rohi.
+LOC REL child 3SG PST kiss place ABL 3SG nose UNIV dawn color PST PFV PASS rub.
+(Where the child had kissed him, all the pink had been rubbed from his nose.)
 williams: "and all the pink rubbed off his nose where the Boy had kissed him."
 ```
 
-**Notes:** the Household module supplies `komalu` (pillow), `wethamo` (blanket), and `phelasi` (shelf). The night-light can therefore burn on the shelf above the hearth instead of hovering somewhere vaguely overhead. Phi still has no separate word for chin, but `kathoru` (jaw) places the rabbit much closer than the older `menoa` (face). "Clasped close" remains `noshi phelu`, held near with gentle, steady pressure. `numea` (nestle) and `whemura` (dream) give the bedtime ritual its verbs, while `roe whishela` treats whispering as the means by which the games are played. The nursery hours he misses are `lo laeno lunei shemu`, long moon-moments rather than clock units. The burrows use `phea` with an oblique relative: `whu lo shewo tupiwa mua liona nowhu`, caves that real rabbits live in. His fur does not merely become very worn in one leap; the imperfective and comparative let the wear keep deepening while he fails to notice. At the end, `mua whu ... lokue` fixes the loss of pink to the exact place where the kisses fell.
+**Notes:** the Household module supplies `komalu` (pillow), `wethamo` (blanket), and `phelasi` (shelf). The night-light can therefore burn on the shelf above the hearth instead of hovering somewhere vaguely overhead. Phi still has no separate word for chin, but `kathoru` (jaw) places the rabbit much closer than the older `menoa` (face). "Clasped close" remains `noshi phelu`, held near with gentle, steady pressure. `numea` (nestle) and `whemura` (dream) give the bedtime ritual its verbs, while `roe whishela` treats whispering as the means by which the games are played. One sentence names the first night and a second carries the many nights that follow. The nursery hours he misses are `lo laeno lunei shemu`, long moon-moments rather than clock units. The burrows use `phea` with an oblique relative: `whu lo shewo tupiwa mua liona nowhu`, caves that real rabbits live in. His fur does not merely become very worn in one leap; the imperfective and comparative let the wear keep deepening while he fails to notice. At the end, passive `rohi` restores the pink being rubbed from the exact place where the kisses fell.
 
 ## wirae — Spring
 
@@ -758,9 +758,9 @@ PL berry branch BEHIND flower edge PST stand.
 (The berry canes stood behind the flower border.)
 williams: "behind the flower border."
 
-ta shemu lopia kau howai nuola to se ka pakiro wepu.
-one moment child ALL evening eat PST PASS CAUS sudden go.
-(Once, the child was suddenly called away to the evening meal.)
+ta shemu lopia kau hasumi nurome to se ka pakiro wepu.
+one moment child ALL tea meal PST PASS CAUS sudden go.
+(Once, the child was suddenly called away to the tea meal.)
 williams: "And once, when the Boy was called away suddenly to go out to tea,"
 
 tupiwa tei pheo norawhi laeno shemu nia whelina to manolu.
@@ -798,9 +798,9 @@ child LOC flower earth DAT 3SG PL cave PST PFV make.
 (The child had made the burrows for him in the flower-bed.)
 williams: "the Boy had made for him in the flower bed,"
 
-shia sui hewe roe thiku korua thero to haolu.
-3SG DUR wipe INS small heart fire PST speak.
-(As she wiped, the keeper spoke with a small heart-fire.)
+shia sui hewe roe thiku korua thero nela mulu haoni to haolu.
+3SG DUR wipe INS small heart fire COORD low voice PST speak.
+(As she wiped, the keeper spoke with a little anger and a low voice.)
 williams: "and Nana grumbled"
 
 tholu woru roe shia theko wethalu shuna tupiwa to rohi.
@@ -809,7 +809,7 @@ space keeper INS 3SG craft garment edge rabbit PST rub.
 williams: "as she rubbed him off with a corner of her apron."
 ```
 
-**Notes:** the wheelbarrow is `manuwe rolutha`, the hand-wagon, and a picnic is simply eating together on the grass. The fairy huts are `lo mioru thiku whekelu womu`, lovely little magic-houses beneath `lo mirulo loremi`, the berry canes. `mirulo` (berry) names the later thicket consistently. "Wherever he went" begins with the bare question-word under `lu`; "unless he was there" negates the deictic `ra` at the bedside. The dusk vigil is `tei pheo norawhi laeno shemu`, until a long moment after dusk. Nana does not find the rabbit there. She comes with a candle and `sheraki`, searches for him, which keeps effort and success properly separate. `pakiro` makes the summons sudden rather than merely quick. Mud lies on the whole body, not merely somewhere upon it. Her grumble is speech with `thiku korua thero`, a small heart-fire. The apron is `theko wethalu`, a work-garment, and she `rohi`, rubs, with its edge.
+**Notes:** the wheelbarrow is `manuwe rolutha`, the hand-wagon, and a picnic is simply eating together on the grass. The fairy huts are `lo mioru thiku whekelu womu`, lovely little magic-houses beneath `lo mirulo loremi`, the berry canes. `mirulo` (berry) names the later thicket consistently. "Wherever he went" begins with the bare question-word under `lu`; "unless he was there" negates the deictic `ra` at the bedside. The dusk vigil is `tei pheo norawhi laeno shemu`, until a long moment after dusk. Nana does not find the rabbit there. She comes with a candle and `sheraki`, searches for him, which keeps effort and success properly separate. `pakiro` makes the summons sudden rather than merely quick. The new base word `hasumi`, tea, joins `nurome`, meal, rather than turning the British meal into a generic evening one. Mud lies on the whole body, not merely somewhere upon it. Nana's grumble becomes low-voiced speech with a little heart-fire. The apron is `theko wethalu`, a work-garment, and she `rohi`, rubs, with its edge.
 
 ## shewo haolu — The declaration
 
@@ -945,9 +945,9 @@ LOC PL long summer beginning evening child ALL forest go PST HAB like.
 (In the long evenings of early summer, the child liked going to the wood.)
 williams: "and in the long June evenings the Boy liked to go there"
 
-shia pheo howai nuola to ro wile.
-3SG POST evening eat PST HAB play.
-(After the evening meal, he would play there.)
+shia pheo hasumi nurome to ro wile.
+3SG POST tea meal PST HAB play.
+(After tea, he would play there.)
 williams: "after tea to play."
 
 shia nua miso wuloe wetha tupiwa to ro thola.
@@ -991,7 +991,7 @@ shia tha wi kuewa limoe pai miso mue raelu phero to maeli shua tho to nila.
 williams: "he saw two strange beings creep out of the tall bracken near him."
 ```
 
-**Notes:** `ru waora`, truly wondrous, is the summer's first judgement. June becomes `keloi thorui`, summer's beginning. Tea is the evening meal, and the picnic is eating together on the grass. The rabbit's nest is a little bed among the fern. Modifier-first order gives the wandering its two purposes before the walk begins: gathering flowers or playing at coercion among the trees. The second choice, `kawhera wile`, keeps both sides of the brigand game visible. `tinemu` names the ants that cross the story three times; their small, intent movement belongs to the scene, not merely to the insect class. `pai miso` restores the nearness of the two strangers as they creep from the tall fern.
+**Notes:** `ru waora`, truly wondrous, is the summer's first judgement. June becomes `keloi thorui`, summer's beginning; the exact month remains in Williams's line. The tea meal is `hasumi nurome`, and the picnic is eating together on the grass. The rabbit's nest is a little bed among the fern. Modifier-first order gives the wandering its two purposes before the walk begins: gathering flowers or playing at coercion among the trees. `kawhera wile`, coercion-play, describes the brigand game without making brigand an ordinary Phi role. `tinemu` names the ants that cross the story three times; their small, intent movement belongs to the scene, not merely to the insect class. `pai miso` restores the nearness of the two strangers as they creep from the tall fern.
 
 ## waeshi tupiwa — The wild rabbits
 
@@ -1211,14 +1211,14 @@ CONTR DUR UNIV PROX moment 3SG DECL.COMP REFL dance DECL.COMP.CLOSE PST long-for
 (But all the while he was longing to dance.)
 williams: "But all the while he was longing to dance,"
 
-ta monelu newu tiphori thue shia to rashelo.
-one amused new tingling THROUGH 3SG PST run.
-(For a funny new tingling ran through him.)
+ta kuewa newu tiphori thue shia to rashelo.
+one strange new tingling THROUGH 3SG PST run.
+(For a strange new tingling ran through him.)
 williams: "for a funny new tickly feeling ran through him,"
 
-shia tha miso wei phea ha lo tupiwa tupi theula muila thena so loa tho to phaelo.
-3SG DECL.COMP REFL DAT AS PROX PL rabbit jump UNIV earth thing FUT give DECL.COMP.CLOSE PST feel.
-(He felt that he would give every thing in the world to jump the way these rabbits jumped.)
+shia tha miso wei phea ha lo tupiwa tupi wheli muila thena so loa tho to phaelo.
+3SG DECL.COMP REFL DAT AS PROX PL rabbit jump ANY earth thing FUT give DECL.COMP.CLOSE PST feel.
+(He felt that he would give anything in the world to jump the way these rabbits jumped.)
 williams: "and he felt he would give anything in the world to be able to jump about like these rabbits did."
 
 kuewa tupiwa to te rotiku. shia ru noshi to shua.
@@ -1266,9 +1266,9 @@ child NEAR PL 3SG PST run.
 (The child ran past, near them.)
 williams: "and the Boy ran past near them,"
 
-roe paloi kohura nela whilo tulira keru loa wi kuewa tupiwa lue nila to wepu.
-INS foot noise COORD white tail bright give two strange rabbit ABL see PST go.
-(With a noise of feet and a flash of white tails, the two strange rabbits went from sight.)
+roe kema paloi kohura nela whilo tulira keru loa wi kuewa tupiwa lue nila to wepu.
+INS strong foot noise COORD white tail bright give two strange rabbit ABL see PST go.
+(With a forceful noise of feet and a flash of white tails, the two strange rabbits went from sight.)
 williams: "and with a stamp of feet and a flash of white tails the two strange rabbits disappeared."
 
 thiku tupiwa sha no turema. no nua mia wile sho roe kapura to haolu.
@@ -1337,7 +1337,7 @@ child PST come. 3SG ALL home rabbit PST carry.
 williams: "and the Boy came and carried him home."
 ```
 
-**Notes:** `tiripe` describes the quick involuntary motion of twitching noses and fluttering wings. The moth is `shero phiwapi`, a night butterfly, with flight and wing-quivering kept in separate clauses. The wild rabbits become `theru nela wuloe`, plump and soft, the same pair that described the cloth rabbit at the beginning. For them, however, the shape can change. Later vocabulary lets the scene say several things plainly. `wiloru` states dizziness directly, `tiphori` supplies the body-wide tickly feeling, and `kethua ma nai` says that dancing is not difficult rather than confusing ease with simplicity. The stranger wrinkles the skin of his nose with `pakiro lupaki`, and draws his ears back before he jumps away. His complaint concerns a scent that is not `theali`, fitting; `telua` (accurate) belongs to representations and was never at home in a rabbit's nose. The pincushion remains `tisu molu`, a needle-holder, while `ke` marks conclusions drawn from the invisible seams. The taunts remain taunts, including the laugh and "A rabbit without any hind legs!" Phi reports their astonishment without teaching contempt as a virtue. Their cries now reach speech through `roe kapura`, by means of a shout, rather than asking the shout verb to govern quoted content it cannot take. Once they leave, only the ants run and the fern dances gently where they passed. The cloth rabbit is left `ru sonu`, very much alone, with two questions rather than the three an older back-translation had invented.
+**Notes:** `tiripe` describes the quick involuntary motion of twitching noses and fluttering wings. The moth is `shero phiwapi`, a night butterfly, with flight and wing-quivering kept in separate clauses. The wild rabbits become `theru nela wuloe`, plump and soft, the same pair that described the cloth rabbit at the beginning. For them, however, the shape can change. `wiloru` states dizziness directly, and `tiphori` supplies the body-wide tickly feeling. The feeling is `kuewa`, strange, rather than amusing; `wheli muila thena` then restores anything in the world. The stranger wrinkles the skin of his nose with `pakiro lupaki` and draws his ears back before he jumps away. His complaint concerns a scent that is not `theali`, fitting; `telua` (accurate) belongs to representations and was never at home in a rabbit's nose. The pincushion remains `tisu molu`, a needle-holder, while `ke` marks conclusions drawn from the invisible seams. The taunts remain taunts. They include the laugh and "A rabbit without any hind legs!" Phi reports their astonishment without teaching contempt as a virtue. Their cries reach speech through `roe kapura`, by means of a shout. `kema paloi kohura`, forceful foot-noise, carries the stamp without adding a general impact verb. Once they leave, only the ants run and the fern dances gently where they passed. The cloth rabbit is left `ru sonu`, very much alone, with two questions rather than the three an older back-translation had invented.
 
 ## serao nela rohemi — Growing old and worn
 
@@ -1347,9 +1347,9 @@ PL week PST go. small rabbit INTS old PST become. 3SG PST INTS wear down.
 (Weeks passed. The little rabbit grew very old, and he became very worn.)
 williams: "Weeks passed, and the little Rabbit grew very old and shabby,"
 
-whekai lopia shia to ru lothea.
-CONTR child 3SG PST INTS love.
-(But the child loved him just as truly.)
+whekai lopia shia senao kema to lothea.
+CONTR child 3SG same strong PST love.
+(But the child loved him with the same strength.)
 williams: "but the Boy loved him just as much."
 
 shia shia to ru kema lothea. thelao theula shia menoa whila lue lothea to wepu.
@@ -1397,13 +1397,13 @@ BECAUSE child space magic 3SG true PST PFV CAUS become 3SG INT.COMP different pe
 (Because the nursery magic had made him Real, he did not care how other people saw him.)
 williams: "He didn't mind how he looked to other people, because the nursery magic had made him Real,"
 
-lu thia shewo nai. rohemi thia rolia ma helui.
-COND 2SG true be. wear down 2SG worth NEG change.
-(When you are Real, wear does not change your worth.)
+lu thia shewo nai. thia rohemi ma sone.
+COND 2SG true be. 2SG wear down NEG value.
+(When you are Real, you do not care about wear.)
 williams: "and when you are Real shabbiness doesn't matter."
 ```
 
-**Notes:** Williams makes this section answer the Skin Horse's lesson. `phaeno` restores the opening's weeks instead of leaving an indefinite heap of days. Age and wear are kept apart: the rabbit becomes `serao`, old, and he also `rohemi`, wears down. His whiskers go `lue lothea`, from love; his dawn-coloured ears turn stone-coloured; and the colour of his spots grows weak. Both occurrences of "care" use `sone`: the rabbit values something or does not, rather than merely thinking about it. The final judgement returns to the Skin Horse's: wear does not alter worth. It concerns appearance, not pain. Other people can scarcely see a rabbit, but `li wei lopia`, to the child alone, he is still one.
+**Notes:** Williams makes this section answer the Skin Horse's lesson. `phaeno` restores the opening's weeks instead of leaving an indefinite heap of days. Age and wear are kept apart: the rabbit becomes `serao`, old, and he also `rohemi`, wears down. `senao kema`, the same strength, keeps the child's love undiminished. The rabbit's whiskers go `lue lothea`, from love; his dawn-coloured ears turn stone-coloured; and the colour of his spots grows weak. Both occurrences of "care" use `sone`: the rabbit values something or does not. The final judgement now does the same. It says that a Real toy does not care about wear, rather than replacing Williams's claim with one about inherent worth. Other people can scarcely see a rabbit, but `li wei lopia`, to the child alone, he is still one.
 
 ## rulo suloru — The scarlet fever
 
@@ -1790,9 +1790,9 @@ shia pai miso mirulo loremi sholei to po nila.
 (Near him he could see the thicket of berry canes.)
 williams: "Near by he could see the thicket of raspberry canes,"
 
-lo shia to raelu thuroa. lo shia phea nulo shelira noshi to whano.
-PL 3SG PST tall grow. PL 3SG AS deep forest near PST stand.
-(They grew tall, and stood close together like a deep jungle.)
+lo shia to raelu thuroa. lo shia phea sulae nulo shelira noshi to whano.
+PL 3SG PST tall grow. PL 3SG AS warm deep forest near PST stand.
+(They grew tall, and stood close together like a warm, deep jungle.)
 williams: "growing tall and close like a tropical jungle,"
 
 mua lo shia shomelu tupiwa nua lopia mua lo luera kelua to ki wile.
@@ -1876,7 +1876,7 @@ shia nia shia thiku rohemi wuloe nophae to mulu wepu nela kau muila to lepa.
 williams: "trickled down his little shabby velvet nose and fell to the ground."
 ```
 
-**Notes:** this scene calls the sack `lirupa` and its rubbish `whemori`. The garden's keeper is `wo mehalu`, too busy, which is the capacity claim Williams makes rather than a mere count of tasks. The new rabbit is soft `liru`, fabric, rather than wool the source never supplied. In the sack, `sonu nuhe` composes loneliness from being alone and feeling sadness. The old coat has `rohemi`, worn down from hugging, before its thinness is stated separately; it no longer makes the rabbit warm. Around these repairs, the geography stays plain: the garden's `lumae`, its end; `pelori womu`, the birds' home; and the visible `mirulo loremi sholei`, gathering of berry canes. Potatoes are root-foods, peas are green seeds, and ants run over the remembered paws. His question now asks what good loving, losing beauty, and becoming Real have done if this is the end. Williams sets the tear apart in three exact units, so Phi does too: a tear exists, it is real, and then it runs down the worn velvet nose to the ground.
+**Notes:** this scene calls the sack `lirupa` and its rubbish `whemori`. The garden's keeper is `wo mehalu`, too busy, which is the capacity claim Williams makes rather than a mere count of tasks. The new rabbit is soft `liru`, fabric, rather than wool the source never supplied. In the sack, `sonu nuhe` composes loneliness from being alone and feeling sadness. The old coat has `rohemi`, worn down from hugging, before its thinness is stated separately; it no longer makes the rabbit warm. Around these repairs, the geography stays plain: the garden's `lumae`, its end; `pelori womu`, the birds' home; and the visible `mirulo loremi sholei`, gathering of berry canes. The canes stand close like a `sulae nulo shelira`, a warm, deep forest; Williams's tropical identity remains exact beside it. Potatoes are root-foods, peas are green seeds, and ants run over the remembered paws. His question asks what good loving, losing beauty, and becoming Real have done if this is the end. Williams sets the tear apart in three exact units, so Phi does too: a tear exists, it is real, and then it runs down the worn velvet nose to the ground.
 
 ## whekelu peloru — The magic flower
 
@@ -1946,9 +1946,9 @@ AROUND 3SG neck COORD LOC 3SG hair PL flower PST be.
 (There were flowers around her neck and in her hair.)
 williams: "and there were flowers round her neck and in her hair,"
 
-shia menoa phea mo ko seroli peloru to nai.
-3SG face AS CMPR FOC mature flower PST be.
-(And her face was like the most fully-opened flower of all.)
+shia menoa phea whu mawha helui phelona mo ko mioru peloru to nai.
+3SG face AS REL NONE change require CMPR FOC beautiful flower PST be.
+(And her face was like the most beautiful flower of all, which needed no change.)
 williams: "and her face was like the most perfect flower of all."
 
 shia kau thiku tupiwa to shua. shia muo miso pelio tupiwa to howela.
@@ -1986,9 +1986,9 @@ shia sha mia lopia tholu whekelu miona nai sho to haolu.
 (She said: "I am the nursery magic person.")
 williams: "\"I am the nursery magic Fairy,\" she said."
 
-sha mia theula whu lo lopia ki lothea wilemo woru nai sho to haolu.
-QUOT.COMP 1SG UNIV REL PL child PFV love toy keeper be QUOT.COMP.CLOSE PST speak.
-("I am the keeper of all the toys that children have loved.")
+sha mia theula whu lo lopia ki lothea wilemo theama sho to haolu.
+QUOT.COMP 1SG UNIV REL PL child PFV love toy care QUOT.COMP.CLOSE PST speak.
+("I care for all the toys that children have loved.")
 williams: "\"I take care of all the playthings that the children have loved."
 
 sha lu lo shia serao kelu nela rohemi nela lo lopia lo shia mawha thimu phelona. mia shua. mia nua mia lo shia kolua. mia lo shia shewo ka kelu sho to haolu.
@@ -2012,7 +2012,7 @@ QUOT.COMP now 2SG DAT UNIV person true FUT be QUOT.COMP.CLOSE PST speak.
 williams: "Now you shall be Real to every one.\""
 ```
 
-**Notes:** the Fairy steps out of the blossom where Williams puts her. Phi calls her `whekelu miona`, a magic person, and uses the familiar office `woru`, keeper. The nursery and garden have keepers too; hers is the care of toys that have grown old and `rohemi`, worn down. Her garment is made from `moriwhe kerou`, stones of the sea, which is enough to suggest pearls without borrowing their name. Dewdrops and flowers complete the description. Her face is like a fully opened flower, with `seroli` translating "perfect" as maturity rather than flawlessness. Her explanation keeps two kinds of Real apart. The rabbit was Real to the child because he was loved; next he will be Real to everyone. Emerald is `keru liro kerou`, bright green stone, so the gem takes its name from colour rather than adding an eighth basic hue. The golden-cup blossom grows `mua whu ... lokue`, in the place where the tear fell.
+**Notes:** the Fairy steps out of the blossom where Williams puts her. Phi calls her `whekelu miona`, a magic person, while `theama` makes her care for the toys a direct act rather than a title. Her garment is made from `moriwhe kerou`, stones of the sea, which is enough to suggest pearls without borrowing their name. Dewdrops and flowers complete the description. Her face is like the most beautiful flower that needs no change. The phrase carries the source's perfection as an explicit judgement in this scene rather than adding a general perfection root. Her explanation keeps two kinds of Real apart. The rabbit was Real to the child because he was loved; next he will be Real to everyone. Emerald is `keru liro kerou`, bright green stone, so the gem takes its name from colour rather than adding an eighth basic hue. The golden-cup blossom grows `mua whu ... lokue`, in the place where the tear fell.
 
 ## shelira — Into the wood
 
@@ -2142,9 +2142,9 @@ shia ta tupi to tupi.
 (He gave one leap.)
 williams: "He gave one leap"
 
-rokai tolae siora ru whalo to nai.
-back leg joy INTS large PST be.
-(And the joy of those hind legs was so great.)
+shia miso rokai tolae phoa siora ru whalo to nai.
+3SG REFL back leg do joy INTS large PST be.
+(And his joy in using his hind legs was so great.)
 williams: "and the joy of using those hind legs was so great"
 
 thelao shia roe miso rokai tolae nia whelina to tupi.
@@ -2178,7 +2178,7 @@ shia pheo laeno shemu shewo tupiwa to nai. shia nua lo phirae tupiwa mua womu to
 williams: "He was a Real Rabbit at last, at home with the other rabbits."
 ```
 
-**Notes:** moonlight makes the wood shine `phea theriko shioli`, like frost-silver. The glade is `shelira pelowa`, a forest meadow, where the wild rabbits dance with their own shadows and freeze into `sorui`, a ring. The counterfactual `lu he` lets shyness hold the rabbit still until he feels `sikoru`, an itch, on his nose. Before thought, `phoe remo`, he makes a hind toe rise and scratches with it; the body discovers itself by moving. Direct evidence `hi` stays beside the held hind legs, where it belongs. The last kiss is `lumae phimela`, the end-kiss. The dingy, worn velveteen ceases, and the new body has brown fur, self-moving ears, and whiskers that touch the grass. Sideways jumping now joins the whirl Williams gave him, while `sheraki` says that he looks for the Fairy without pretending that he finds her. His hind legs have their own joy, `rokai tolae siora`. The scene ends simply: `shewo tupiwa`, a Real rabbit at home.
+**Notes:** moonlight makes the wood shine `phea theriko shioli`, like frost-silver. The glade is `shelira pelowa`, a forest meadow, where the wild rabbits dance with their own shadows and freeze into `sorui`, a ring. The counterfactual `lu he` lets shyness hold the rabbit still until he feels `sikoru`, an itch, on his nose. Before thought, `phoe remo`, he makes a hind toe rise and scratches with it; the body discovers itself by moving. Direct evidence `hi` stays beside the held hind legs, where it belongs. The last kiss is `lumae phimela`, the end-kiss. The dingy, worn velveteen ceases, and the new body has brown fur, self-moving ears, and whiskers that touch the grass. Sideways jumping now joins the whirl Williams gave him, while `sheraki` says that he looks for the Fairy without pretending that he finds her. `miso rokai tolae phoa siora` is his joy in using the hind legs. The scene ends simply: `shewo tupiwa`, a Real rabbit at home.
 
 ## lumae — The return
 
@@ -2253,10 +2253,66 @@ williams: "come back to look at the child who had first helped him to be Real."
 
 ---
 
-## What the transmutation changed
+## Complete translation
 
-*Gap log, coined roots: magic → `whekelu`; strange → `kuewa`; wondrous → `waora`; kiss → `phimela`; whisper → `whishela`; quiver, twitch, shiver, and flutter → `tiripe`; spot → `piloe`; butterfly → `phiwapi`; berry → `mirulo`; mouse → `misuki`; nestle → `numea`; break → `pukate`; ant → `tinemu`. These thirteen roots recur across the story rather than solving one sentence each.*
+```
+ta wuloe wetha tupiwa to nai. mua thorui shia ru mioru to nai. shia theru nela wuloe to nai. tupiwa theru nela wuloe na nai. shia nolika whila lo mureli piloe nela lo whilo piloe to phelu. shia menoa whila shewo sima to nai. mua shia shonui horathe welisha wetha to nai. shila holia kelua to nai. shia mua lopia paloi wethalu thorui to se peki. thei shia paloi ta shila liro loremi to nai. shia ru mioru to nai. mua wethalu we phirae thena to nai. lo kerou lureko nela lo thero welisha lureko to nai. ta nurako keli wilemo to nai. lo mureli kaelo kerou lureko nela ta keli misuki to nai. whekai tupiwa mo ko welao to nai. lopia ta laeno shemu shia to lothea. pheo thena lo thaluni kau nuola to shua. ta whalo pelua kohura to nai. lo loami to se phae. lo miona theula newu loami to rashowe nila. wuloe wetha tupiwa to se sahu.
 
-*The material world still composes where the parts teach something useful. Velveteen is `wuloe wetha`, sawdust is `wolea muhena`, Christmas is `shila holia`, and the Skin Horse is `kori kalora`. The stocking becomes `lopia paloi wethalu`; holly is `shila liro loremi`; nuts and oranges are kinds of `lureko`, fruit. A mainspring is `keli korua`, a bead necklace is `nolue kerou`, a wheelbarrow is `manuwe rolutha`, and a picture-book is `kire shelu`. Sand castles, emeralds, pearls, and glades also keep transparent compounds. Household vocabulary now names `komalu` (pillow), `wethamo` (blanket), `lirupa` (bag or sack), and `phelasi` (shelf) directly. `whemori` names the rubbish as waste, while `liru` avoids claiming that plush is wool. The Medical module supplies `rulo suloru` for scarlet fever and `rulo suloru hisophi` for its contamination.*
+sui laeno thimu shia mua wilemo molu sola nia lopia tholu tomae to liona. mawha miona sheloi shemu shia to remo. shia woeli nilua to nai. shia li wuloe wetha to nai. thelao soli whu mo thena wisola phelona wilemo shia to thiku nila. lo keli wilemo ru thoru to nai. lo shia theula phirae wilemo to thiku nila. lo shia sheloi newu remo to phelu. lo shia tha miso shewo nai tho to ro peshu. wilemo luphonu sui wi meluna to ki liona. pai theula shia kolai to ki lepa. shia lue lo shia ha keno to howela. shia sheloi shemu roe theko haluma shia suro nela phora to therua thelima. lao shia tha lo shewo tupiwa to liona tho to ma sano tupiwa tha miso wheli thena reteru nai tho to po ma sherewa. shia tha theula tupiwa phea miso roe wolea muhena se pilewa tho to remo. shia tha wolea muhena nosa serao thena nai tho to shelomu. miona mawha thimu thoa lo newu remo miona wolea muhena na ma haolu. we shia whu lo kiparu phelu wolea whalo misheko to nai. lo sowelu miona shia to pilewa. lo shia whu roe puro phoa sholei wemari to nai. thelao shia mo whalo remo to na phelu. whekai shia thoru to kelu. shia tha miso punoa kowanu punoki wemari nai tho to ro peshu. tupiwa tha lo phirae wilemo tupiwa li thiku sone tho to phaelo. shia thoa lo shia li ta wilemo to nai. li kori kalora wei shia phena to nai.
 
-*The social changes are deliberate. Expensive toys become toys that people value more, which preserves nursery rank without inventing a price. Aunts and Uncles become kinfolk; the remembered Uncle is a family elder. Williams still calls the disabled makers soldiers in the citation, while Phi calls them `lo sowelu miona`, disabled people. Government becomes `whalo punoki`, the great institution, and the lion merely claims membership in it. Brigand-play is `kawhera wile`, coercion-play. Tidying still brings `korua thero`, heart-fire, because Phi composes both anger and hatred from that heat. Nana is the nursery's keeper. Timothy is the wooden great-cat, and the Fairy is `whekelu miona`, the magic person. `shewo`, Real, is defined by the Skin Horse and confirmed by the coda's `hi`: the wild rabbit truly is the child's old companion.*
+kori kalora sheo theula phirae wilemo mua lopia tholu mo laeno to ki liona. shia ru serao to nai. shia mureli nolika whila mua soli lokue to ki wepu. phou whila lo pina to se nila. pai theula shia tulira whila wei nolue kerou tiwa to ki se natu. shia phue to nai. shia tha sheloi keli wilemo shua tho to ki nila. lo shia to thoru haolu. lo shia to thoru thalo. pheo soli thimu lo shia keli korua to pukate. lo shia to lumeo. thelao shia tha lo shia li wilemo nai tho to sano. lo shia mawha thimu phirae thena so kelu. lopia tholu whekelu ru kuewa nela ru waora nai. li lo whu serao nela phue nela seroli nai wilemo phea kori kalora shia shelomu.
+
+phoe lila tholu hiso ka kelu tholu woru shua lo shia ta philo sio wiso pai moeli to ruemi. tupiwa sha hina shewo nai sho to thilou. tupiwa sha wa mua thia lo whu kohura pilewa thena nai. wa ta keli manuwe mue thia weloni whano sho to thilou. kori kalora sha shewo lue pilewa ma shua sho to haolu. sha shewo whu wei thia kelu thena nai sho to haolu. sha lu lopia sui ru laeno thimu thia lothea nela shia thia lothea li wile porua ma phelu nela shia thia ru lothea. pheo thena thia shewo kelu sho to haolu. tupiwa sha wa ha kipona thola sho to thilou. kori kalora sha soli shemu sho to haolu. shia theula thimu wero to nai. sha lu thia shewo nai. sui kipona thia pheru sho to haolu. shia sha wa ha mua ta shemu kelu phea keli rato sola ha roe lo thiku helui kelu sho to thilou. kori kalora sha ha mua ta shemu ma kelu sho to haolu. sha thia kelu. ha laeno thimu phelona sho to haolu. sha thelao ha wei lo welua miona phina shemu kelu sho to haolu. sha ha wei lo whu tiso shuna phelu miona nela lo whu se na thesa moli phelu miona we phina shemu kelu sho to haolu. sha lu thia shewo kelu. pai theula thia whila lue lothea ki wepu sho to haolu. sha thia mirae lepa. thia lo kiparu ralu kelu. thia ru rohemi sho to haolu. sha whekai thia ha lo thena ma sone sho to haolu. sha lu thia shewo kelu. li whu ma shelomu miona thia ma mioru nila sho to haolu. tupiwa sha thia shewo ho nai sho to haolu. lao shia tha kori kalora korua phaeli po nai tho to remo pheo thena shia tha miso ha to ma haolu tho to pula. whekai kori kalora li to seniku.
+
+shia sha lopia lumani wheo mia shewo ka kelu sho to haolu. sha ha phoe sheloi torua to kelu sho to haolu. sha lu thia ta shemu shewo kelu. thia mawha thimu shewo te po nai sho to haolu. sha ha theula thimu manolu sho to haolu. tupiwa to laeno whunei. shia tha ha shewo whekelu pheo laeno thimu wei shia so kelu tho to remo. shia tha miso shewo kelu tho to wilao. shia tha miso shewo phaelo sano tho to wilao. shia tha miso rohemi nela miso mirae nela menoa whila lepa tho to remo. ha remo nuhe to thola. shia tha miso whuo lo whu wei shia thuleni ma thola thena shewo po kelu tho to pula.
+
+ta whu lopia tholu karami phelu miona to nai. soli shemu shia lo whu ruemi wilemo to ma nila. soli shemu shia whuo remo phea whalo howeli to wepu. shia muo lo molu lo wilemo to reshi pesa. shia sha mia tholu hiso ka kelu sho ro haolu. theula wilemo ha to ma kaeli nela korua thero to phaelo. lo ko keluo wilemo mo whalo korua thero to phaelo. tupiwa li ha thiku korua thero to phaelo. lu shia kau hina se wapho. shia wuloe to lepa. ta howai lopia kau nuwera to wepu. shia whu nua shia ro nulae mueri lohau to po ma hekawi. tholu woru sheli to nai. mua nulae shemu mueri lohau sheraki wo tupeka to nai. thelao shia li roa miso to nila. shia tha wilemo molu ponu ki se phae tho to nila. shia phea howeli to shua. shia sha no thia ha serao tupiwa howela. nua thia shia po nulae. ha henoi nai sho to haolu. shia roe ta shonui mue molu tupiwa to kema natu. shia muo lopia pelio tupiwa to loa.
+
+mua ha shero wuloe wetha tupiwa mua lopia nuwera to nulae. pheo ha shero wepu sui sheloi shero shia ra to ro nulae. mua thorui shia nuloe to ma nai. lopia shia to ru kema lomare. soli shemu lopia nia shia to rato. soli shemu lopia phou komalu shia to nulo pesa. tupiwa to po ma ru whunei. shia we mua lopia tholu lo laeno lunei shemu to wilao. mua ha lo shemu theula womu maeli to nai. shia we nua kori kalora thorelu to wilao. whekai pheo teku shemu shia ha to pa kaeli. lopia wei shia to ro haolu. lopia phou wethamo wei shia lo welao nowhu to pilewa. lopia sha ha lo phea whu lo shewo tupiwa mua liona nowhu nai sho to haolu. lo shia roe whishela lo horae wile to nuawe wile. tholu woru kau shia nuola to ki wepu. shero luma nia moeli phelasi to si thape. lu lopia pa nulae. tupiwa phou shia thiku sulae kathoru to ro numea. tupiwa to ro whemura. lopia manuwe sui theula shero shia to noshi phelu. thimu to wepu. thiku tupiwa ru loshi to nai. thelao shia mawha thimu tha miso mioru whila mo rohemi to si kelu tho to nila. shia tulira pina to si phae. mua whu lopia shia to phimela lokue lue shia nophae theula horathe welisha to ki se rohi.
+
+wirae to shua. wei lo shia mua thepalu lo laeno philo to nai. lu lopia kau hina to wepu. tupiwa we to wepu. shia mua manuwe rolutha to wepu. lo shia nia whelina to nuawe nuola. lopia phou lo mirulo loremi wei shia lo mioru thiku whekelu womu to lorima. lo mirulo loremi noe peloru shuna to whano. ta shemu lopia kau hasumi nurome to se ka pakiro wepu. tupiwa tei pheo norawhi laeno shemu nia whelina to manolu. tholu woru roe philu to na shua. shia tupiwa to sheraki. lu tupiwa ra ma nai. lopia to po ma nulae. shia lue suilo ru wirua to nai. muphia nia theula shia weloni to nai. tupiwa muo lo nowhu to ki tupi. lopia mua peloru muila wei shia lo nowhu to ki pilewa. shia sui hewe roe thiku korua thero nela mulu haoni to haolu. tholu woru roe shia theko wethalu shuna tupiwa to rohi.
+
+shia sha thia thia serao tupiwa na phelu sho to haolu. sha wao. theula ha theko wei ta wilemo nai sho to haolu. lopia mua nuwera to meilo. lopia miso manuwe laeno to ka kelu. shia sha no wei mia mia tupiwa loa sho to haolu. sha thia ha na ma haolu sho to haolu. sha shia wilemo ma nai. shia shewo nai sho to haolu. thiku tupiwa ha to hea. shia ru loshi to kelu. shia tha kori kalora haolu pheo laeno shemu shewo nai tho to sano. lopia tholu whekelu wei shia to ki kelu. shia wilemo to te nai. shia shewo to nai. lopia miso ha to ki haolu. ha shero shia ru loshi to nai. thelao nulae wei shia to sheru shua. ru whalo lothea mua shia thiku wolea muhena korua to roke. shia korua pai pukate to nai. shia mirae palowe kerou to nai. lo shia phoe laeno thimu to te keru loa. muo ha lo mirae nulo sano nela mioru nila to shua. thelao wireo kelua we tholu woru ha to nila. shia tupiwa to howela. shia sha wao. ha serao tupiwa whu sano menoa phelu sho to haolu.
+
+ha keloi ru waora to nai. pai whu lo shia mua liona womu ta shelira to nai. mua lo laeno keloi thorui howai lopia kau shelira wepu to ro kaeli. shia pheo hasumi nurome to ro wile. shia nua miso wuloe wetha tupiwa to ro thola. lila lopia peloru muraki sola kawhera wile phoa lopia thoa lo shiro to ro thalo. phoe ha thalo lopia theula thimu thoa phero wei tupiwa ta thiku nuwera to pilewa. mua ha nuwera tupiwa sulae nela nuloe to nai. shia korua phena to nai. shia tha tupiwa nuloe nai tho to kaeli. ta howai tupiwa sonu to ruemi. shia lo whu mua whelina thei shia wuloe paloi to rashelo tinemu to laeno nila. shia tha wi kuewa limoe pai miso mue raelu phero to maeli shua tho to nila.
+
+lo shia phea miso tupiwa to nai. whekai lo shia sheloi nolika whila to phelu. lo shia ru newu to nai. lo shia to se ke ru welao pilewa. lo shia pina mawha thimu to se nila. lu lo shia roke. lo shia kire to kuewa helui. ta shemu lo shia laeno nela lemi to nai. wireo shemu lo shia theru nela wuloe to nai. whekai tupiwa theula thimu mua ta kire to manolu. lo shia paloi nia muila to wuloe thalo. lo shia kau tupiwa to maeli shua. lo shia nophae to si tiripe. tupiwa pha keli mue kua whano pho to laeno nila. shia tha lo whu tupi miona sheloi shemu whu lo shia ka rato thena phelu tho to sano. whekai shia ha to po ma nila. lo shia ru phirae newu tupiwa to ke nai. lo shia tupiwa to laeno nila. thiku tupiwa lo shia we to laeno nila. sui theula ha shemu lo shia nophae to tiripe. ta shia sha thia misa ma whano nela nua lo mia ma wile sho to thilou. tupiwa sha mia ma rinu sho to haolu. lao shia mawha keli to phelu shia tha miso ha solae tho to ma rinu. nolika whila tupiwa sha wao. ha kethua ma nai sho to haolu. shia kau shuna ta whalo tupi to tupi. shia nia miso rokai tolae to whano. shia sha mia tha thia ha po pilewa tho ma nohero sho to haolu. thiku tupiwa sha mia ha po pilewa. mia sheo theula thena mo raelu po tupi sho to haolu. shia lo whu lopia shia wapho shemu to thueli. whekai shia tha miso ha haolu tho to ma rinu. nolika whila tupiwa sha wa thia nia thia rokai tolae po tupi sho to thilou. ha thilou sukima to thola. wuloe wetha tupiwa mawha rokai tolae to phelu. shia rokai phea tisu molu lue ta thena to se pilewa. shia thoa phero to moesha meilo. shia tha lo phirae tupiwa ma nila tho to soliru. shia nu wi shemu sha mia ma rinu sho to haolu. whekai waeshi tupiwa ru nulo nila. ha shia miso nolue laeno to ka kelu. shia to nila. shia sha shia mawha rokai tolae phelu sho roe kapura to haolu. sha wao. tupiwa whuo rokai tolae nai sho to haolu. shia to pa hola. thiku tupiwa sha mia phelu. mia rokai tolae phelu. mia nia lo shia meilo sho roe kapura to haolu. waeshi tupiwa sha no lo shia laeno ka kelu. no phea ha wei mia lo shia ka nila sho to haolu. shia roa miso to pa rato. shia to pa rotiku. thiku tupiwa ru wiloru to phaelo. shia sha mia rotiku ma kaeli. mia moesha meilo mo rinu sho to haolu. whekai sui theula ha shemu shia tha miso rotiku tho to wilao. ta kuewa newu tiphori thue shia to rashelo. shia tha miso wei phea ha lo tupiwa tupi wheli muila thena so loa tho to phaelo. kuewa tupiwa to te rotiku. shia ru noshi to shua. shia laeno menoa whila wuloe wetha tupiwa shonui to moli palo. shia miso nophae hisae to pakiro lupaki. shia noe miso miso shonui to ka wepu. shia phei tupiwa to tupi. shia sha shia whinu theali ma nai. shia tupiwa ma nai. shia shewo ma nai sho roe kapura to haolu. thiku tupiwa sha mia shewo nai. mia shewo nai. lopia ha to haolu sho to haolu. shia pai nuhewa thorui to nai. mua ha shemu paloi shonuwa to nai. lopia pai lo shia to rashelo. roe kema paloi kohura nela whilo tulira keru loa wi kuewa tupiwa lue nila to wepu. thiku tupiwa sha no turema. no nua mia wile sho roe kapura to haolu. sha pi no turema. mia tha mia shewo nai tho sano sho to haolu. whekai mawha lonae to nai. li lo tinemu to rashelo. mua whu wi kuewa limoe thue to wepu lokue phero to moli rotiku. wuloe wetha tupiwa ru sonu to nai. sai. shia pha lo shia misa phea ha to rashelo pho nela pha lo shia misa nua mia thorelu to po ma manolu pho to remo. sui laeno thimu shia to ru moesha ruemi. shia phero to laeno nila. shia tha lo shia turema tho to soliru. whekai lo shia mawha thimu to turema. pheo soli shemu sileta mo mulu to lepa. lo thiku whilo shero phiwapi to wapi. lo shia wapile to tiripe. lopia to shua. shia kau womu tupiwa to kolua.
+
+lo phaeno to wepu. thiku tupiwa ru serao to kelu. shia to ru rohemi. whekai lopia shia senao kema to lothea. shia shia to ru kema lothea. thelao theula shia menoa whila lue lothea to wepu. mua shia shonui horathe welisha wetha kerou welisha to kelu. shia lo mureli piloe welisha to si huwa kelu. we shia kire to pa wepu. shia nosa phea tupiwa to se po ma ru nila. li wei lopia shia tupiwa to nai. wei shia tupiwa theula thimu mioru to nai. thiku tupiwa li ha to sone. lao lopia tholu whekelu shia shewo to ki ka kelu shia pha phirae miona miso thela to nila pho to ma sone. lu thia shewo nai. thia rohemi ma sone.
+
+pheo thena ta philo lopia mokela to kelu. shia menoa ru rulo to kelu. shia sui nulae to haolu. shia thiku weloni ru sukaro to nai. lu lopia shia noshi phelu. weloni tupiwa to thape. lo kuewa miona mua lopia tholu to shua. lo shia to wepu. ta luma sui theula shero to thape. sui theula ha thimu thiku wuloe wetha tupiwa to ruemi. shia phou wethamo lue nila to se kupe. shia mawha thimu to roke. shia sukima to phelu. shia tha lu lo shia miso hekawi. soli miona miso kau phirae lokue po kolua tho to remo. shia tha lopia miso phelona tho to sano. ha laeno nela shorui thimu to nai. lopia wo mokela to nai. thelao shia to po ma wile. thiku tupiwa sui theula philo moshaki to nai. shia mawha thena to po phoa. whekai shia to hurao numea. shia wea whu lopia towe kelu shemu to nila. mua ha shemu lo shia thoa lo peloru nela lo phiwapi mua thepalu so wepu. lo shia phea luera mua mirulo loremi lokue lo horae wile so wile. shia sheloi loshi thena to winora. sui lopia kesho nulae tupiwa kau komalu to maeli shua. shia muo lopia shonui ha lo thena to whishela. pheo soli shemu rulo suloru to rato. lopia towe to pa kelu. shia mua nuwera to po meilo. shia lo kire shelu to po nila. thiku tupiwa sio shia to numea. lila lopia whano mua ta philo lopia ralu to se ka kelu. shia miso wethalu to wenuha.
+
+keru sileta kelua to nai. lo wira to ki se ru phae. lo miona kau womu lerua raelu lokue lopia to kolua. shia roe sulae wethalu to se lomare. thiku tupiwa thoa lo wethamo lupaki to ruemi. shia to si remo. wireo philo lopia kau moriwhe kerime so wepu. theula thena to ki se thilonu. nosa li whu theala miona haolu se na teru. lo miona theula ha to shareo. thiku tupiwa phou wethamo to ruemi. li shia koma mue wetha to whano. shia to sheluo. tholu lue rulo suloru hisophi hiso se ka na kelu. theula whu lopia mua nuwera nua to wile shelu nela wilemo se na thape. thiku tupiwa to remo. hoi. wireo philo lo mia kau moriwhe kerime so wepu. lopia sheloi shemu moriwhe kerime to haolu. tupiwa tha miso lo whu shua whalo morilu nila tho to wilao. shia we lo ru thiku moriwhe limoe nela lo kirua womu nila to wilao. mua ha shemu tholu woru shia to nila. shia sha shia serao tupiwa thela nai sho to thilou. whu theala miona sha wa ha sho to thilou. sha ha sheloi rulo suloru hisophi phelu sho to haolu. sha no ha nosa thape sho to haolu. sha hina. tawimo haolu. no wei shia ta newu tupiwa loa sho to haolu. sha shia ha mawha thimu na ma phelu sho to haolu.
+
+thiku tupiwa nua lo serao kire shelu nela sheloi whemori muo ta lirupa to se pesa. shia kau thepalu lumae noe pelori womu to se kolua. ha wei whalo thero welao lokue to nai. whekai thepalu woru wo mehalu to nai. thelao shia thero to po ma pilewa. shia lo tumeki nuora na muholi. shia lo liro thinoe na muraki. whekai shia tha wireo kelua thorui shia so shua nela shia theula ha so thape tho to seru. ha shero lopia mua phirae tholu to nulae. ta newu tupiwa nua shia to nulae. ha ru horae tupiwa to nai. shia theula whilo wuloe liru to nai. shia mirae shewo phielo to nai. whekai lopia wo rashowe to nai. thelao shia ha to po ma ru theonu. lao wireo philo shia kau moriwhe kerime so wepu ha ru waora thena to nai. shia mawha phirae thena to po remo. lopia to nulae. shia moriwhe kerime to whemura. thiku tupiwa mua shuna noe pelori womu thoa lo serao kire shelu to ruemi. shia ru sonu nuhe to phaelo. lirupa to se ma tiwa. thelao shia miso to thiku roke. shia koma thue phae to wepu. shia mue lirupa to nila. shia to la tiripe. mua shewo nuwera nulae shia keno to nai. nosa shia nolika whila lue lomare to ki rohemi. shia ru lemi to ki kelu. thelao shia tupiwa sulae to te ka kelu. shia pai miso mirulo loremi sholei to po nila. lo shia to raelu thuroa. lo shia phea sulae nulo shelira noshi to whano. mua lo shia shomelu tupiwa nua lopia mua lo luera kelua to ki wile. shia mua thepalu lo laeno sileta shemu to remo. lo shia ru loshi to nai. ta whalo nuhe kau shia to shua. shia tha theula ha shemu neo miso wepu tho to ho nila. theli shemu sheo phirae shemu mo mioru to nai. shia mua peloru muila lo whekelu womu to nila. shia mua shelira lo maeli howai to nila. mua ha lo howai shia thoa phero to ruemi. lo tinemu nia shia paloi to rashelo. shia whu shia nu ta shemu tha miso shewo nai tho sano waora philo to nila. shia ru phue nela moli kori kalora to remo. shia theula kori kalora haolu to remo. lu theula thena lumae phea ha nai. lothea nela mioru lepa nela shewo kelu wei hina welao nai. ta mirae phialu to nai. ha shewo mirae phialu to nai. shia nia shia thiku rohemi wuloe nophae to mulu wepu nela kau muila to lepa.
+
+pheo thena ta kuewa thena to kelu. mua whu mirae phialu to lepa lokue ta peloru lue muila to thuroa. ha kuewa peloru to nai. shia phea mawha whu mua thepalu thuroa peloru to nai. shia lo lemi liro lirowa to phelu. lo shia phea keru liro kerou to nai. mua lirowa kesho ta phirali phea solai soeli to nai. shia ru mioru to nai. thelao thiku tupiwa nuhewa to sahu. shia li to ruemi. shia ha to laeno nila. pheo soli shemu phirali to phae. lue shia ta whekelu miona to shua. shia mua theula muila mo ko mioru whekelu miona to nai. shia wethalu moriwhe kerou nela suilo to nai. roa shia nolue nela mua shia whila lo peloru to nai. shia menoa phea whu mawha helui phelona mo ko mioru peloru to nai. shia kau thiku tupiwa to shua. shia muo miso pelio tupiwa to howela. shia lue nuhewa wirua wuloe wetha nophae to phimela. shia sha kona thiku tupiwa. wa thia pha mia sua nai pho ma sano sho to haolu. tupiwa wea shia to nila. shia tha miso mua luera shia menoa nila tho to ho remo. whekai shia pha miso mua kua shia menoa to nila pho to po ma halemu. shia sha mia lopia tholu whekelu miona nai sho to haolu. sha mia theula whu lo lopia ki lothea wilemo theama sho to haolu. sha lu lo shia serao kelu nela rohemi nela lo lopia lo shia mawha thimu phelona. mia shua. mia nua mia lo shia kolua. mia lo shia shewo ka kelu sho to haolu. thiku tupiwa sha wa mia mua luera shewo ma nai sho to thilou. whekelu miona sha lao shia thia to lothea thia wei lopia shewo to nai sho to haolu. sha nosa thia wei theula miona shewo so nai sho to haolu.
+
+shia mua miso pelio thiku tupiwa to noshi phelu. shia nua shia muo shelira to wapi. lao lunei to ki shua shero keru to nai. theula shelira mioru to nai. lo phero phea theriko shioli to keru loa. mua shelira pelowa thei lo shiro lo waeshi tupiwa nua lo miso shomelu nia wuloe whelina to rotiku. lu whekai lo shia whekelu miona nila. lo shia to te rotiku. lo shia mua sorui to whano. lo shia shia to laeno nila. whekelu miona sha mia wei lo thia ta newu wile melu ki thola sho to haolu. sha lo thia wei shia ru phena na nai sho to haolu. sha no wei shia theula whu shia mua tupiwa muila na sano thena thumela sho to haolu. sha shia nua lo thia theula thimu so liona sho to haolu. shia nu wi shemu thiku tupiwa to phimela. shia nia whelina tupiwa to loa. shia sha kona thiku tupiwa. no rashelo. no wile sho to haolu. whekai thiku tupiwa ta shemu to ru moesha meilo. shia to ma roke. lu shia tha theula waeshi tupiwa roa miso rotiku tho nila. shia miso rokai tolae to pakiro halemu. shia tha lo shia miso ta thena kire nila tho to ma rinu. shia tha whekelu miona roe lumae phimela miso ka ru helui tho to ma sano. shia wo nilua to nai. lu he shia mua nophae sikoru to ma phaelo. shia sui laeno thimu po meilo. phoe remo shia miso rokai paloi thumai to ka rihe. shia roe ha thumai miso nophae to rohi. shia tha miso rokai tolae hi phelu tho to hekawi. shia hureki nela rohemi wuloe wetha to te phelu. shia wuloe nela keru mureli nolika whila to phelu. shia shonui miso to tiripe. shia menoa whila ru laeno to nai. lo shia whelina to palo. shia ta tupi to tupi. shia miso rokai tolae phoa siora ru whalo to nai. thelao shia roe miso rokai tolae nia whelina to tupi. shia kau shuna to tupi nela phea lo phirae tupiwa roa miso to rato. shia ru rashowe to kelu. pheo laeno shemu shia to te tupi. shia whekelu miona to sheraki. whekai shia to ki wepu. shia pheo laeno shemu shewo tupiwa to nai. shia nua lo phirae tupiwa mua womu to nai.
+
+muero to wepu. shila we to wepu. mua wirae lo philo sulae nela keru to kelu. lopia wei wile kau noe womu shelira to wepu. sui shia wile wi tupiwa mue phero to maeli shua. lo shia shia to maeli nila. ta shia theula mureli to nai. whekai phirae shia phou whila lo kuewa piloe to phelu. mua nulo luera shia lo piloe to ho howela. lo piloe nosa we thue whila to se nila. roa shia thiku wuloe nophae nela shia sorui nuko mirae ta sano thena to nai. lopia miso to remo. nea. shia phea whu mua mia rulo suloru shemu lue mia wepu mia serao tupiwa nai. whekai shia tha ha miso tupiwa hi nai tho mawha thimu to sano. tupiwa wei whu mua nu ta shemu tupiwa shewo kelu to naphe lopia nila to turema.
+```
+
+---
+
+## Translation limits
+
+*Every Williams fragment appears verbatim and in story order beside its Phi unit. The translation uses optional vocabulary in the nursery and sickroom, and again where governance or material work needs a sharper distinction. It does not make every source identity into a Phi root. The rows below name the places where a description or compound still leaves something in Williams's keeping.*
+
+| Williams's wording | Phi rendering | Remaining difference |
+|---|---|---|
+| really splendid; charming | `ru mioru`, very beautiful | Phi keeps the positive appearance but does not distinguish splendour from charm. |
+| velveteen; sateen; plush; tissue paper | cloth, soft cloth, fabric, paper, colour, and texture descriptions | The exact textile and product identities remain in Williams's lines. |
+| Christmas; at least two hours; June | winter festival, one long moment, the beginning of summer | Phi preserves the lived sequence without importing a numbered clock or named calendar. |
+| Aunts and Uncles; Uncle; Nana | kinfolk, a family elder, and the person holding authority in the nursery | English gender and family titles, along with Nana's name, remain in the source. |
+| more expensive | toys that require more things in exchange | The exchange burden survives, but Phi supplies no monetary price word. |
+| disabled soldiers | disabled people who belong to a group acting through force | Disability and organised force remain explicit. The exact military role stays in Williams's line rather than becoming an ordinary Phi title. |
+| connected with Government | membership in an institution of society's governance | The political relation survives without deciding the institution's legitimacy or reproducing the capitalised identity. |
+| very insignificant and commonplace | feeling that the other toys value him only a little; one toy among the rest | Phi keeps the social judgement and the lack of distinction. Williams's two compact adjectives remain sharper. |
+| hated it | dislike together with `korua thero`, heart-fire | Phi composes the aversion and anger instead of adding a reusable root for hatred. |
+| brigands | `kawhera wile`, coercion-play | The game keeps coercion visible. The historical outlaw role remains source-bound. |
+| Real | `shewo`, true, as defined by the Skin Horse and the story | The English capitalisation and nursery-magic category live in Williams's telling rather than in the ordinary dictionary sense alone. |
+| Scarlet Fever; germs | `rulo suloru`, red fever, and its `hisophi`, contaminant | The exact diagnosis and the doctor's period wording remain in the source. |
+| pearl; emerald; perfect flower | sea-stones, a bright green stone, and the most beautiful flower needing no change | The gem names and Williams's compact perfection judgement remain more exact than the descriptions. |
+| tropical jungle | `sulae nulo shelira`, a warm, deep forest | Warmth and depth survive, while the precise climatic category stays in Williams's line. |
+| nursery magic Fairy | `whekelu miona`, magic person | Phi describes the being and her acts without making Fairy a general class or title. |

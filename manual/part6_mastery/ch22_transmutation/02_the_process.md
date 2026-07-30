@@ -40,7 +40,7 @@ The Metta Sutta translation contains no unknown forms. A transmutation has the s
 
 ## The five moves
 
-Inside steps 2 through 4, the same five moves recur. The shelf's current transmutations use them in different proportions; here is the repertoire with its clearest demonstrations.
+Inside steps 2 through 4, five moves recur. Four belong to deliberate transmutation. The grammar-led move belongs to any Phi rendering and therefore sets a boundary rather than granting permission.
 
 ### The refusal
 
@@ -56,7 +56,7 @@ When several Phi words meet one English word, their descriptions and usage notes
 
 ### The grammar-led choice
 
-Let a ruling shape the sentence, and trust the push. *Becoming Real* fell to tense and aspect, the nursery magic `to ki kelu` already complete while toyhood `to te nai` ceased (*The Velveteen Rabbit*).
+Let a ruling shape the sentence, but do not charge the ruling for an editorial choice it did not make. In *The Velveteen Rabbit* translation, nursery magic `to ki kelu` is already complete while toyhood `to te nai` has ceased. Tense and aspect change the route into Phi; they do not change Williams's claim.
 
 ### Composition
 
