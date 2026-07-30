@@ -50,7 +50,7 @@ When adding an artifact to an existing series, inherit the series' furniture exa
 
 ## The rules
 
-These are the manual's own rules, each stated with its reason. The exemplar chapters for the target voice are `manual/part6_mastery/ch22_transmutation/`, `manual/part6_mastery/ch23_living_in_phi/`, and `manual/appendices/appendix_b_natural_languages.md`.
+These are the manual's own rules, each stated with its reason. The exemplar chapters for the target voice are `manual/part6_mastery/ch22_living_in_phi/`, `manual/part6_mastery/ch23_source_material/`, and `manual/appendices/appendix_b_natural_languages.md`.
 
 **1. Concrete first, philosophy earned.** Every section opens with something checkable: an example, a contrast, a problem, a scene. A module chapter about work opens on a mended chair coming back from the workshop, not on a scope declaration. Philosophy is the payoff of the concrete thing, never the preamble, and never a closing recap of principles already stated.
 
@@ -76,7 +76,7 @@ These are the manual's own rules, each stated with its reason. The exemplar chap
 
 **12. Endings.** The last paragraph of a file is not a summary. It is the one thing the reader should walk away holding, stated once, cleanly, and then the door.
 
-**13. Now, not history.** Teaching prose states how the language is, never how it came to be: no retired forms, no past corrections, no decision dates, no audits, no project chronology, no draft narration. A learner reading "this was renamed in July" is being told about the project instead of the language. History lives in `/canon.md` and `/archive/` only. The one carve: a transmuted text's own gap log stays, because it is method, not chronology.
+**13. Now, not history.** Teaching prose states how the language is, never how it came to be: no retired forms, no past corrections, no decision dates, no audits, no project chronology, no draft narration. A learner reading "this was renamed in July" is being told about the project instead of the language. History lives in `/canon.md` and `/archive/` only. A text's own source-gap account stays because it explains the present rendering rather than the history of its drafts.
 
 ## The lexicon register
 

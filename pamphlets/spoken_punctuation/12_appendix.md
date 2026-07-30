@@ -67,7 +67,7 @@ The validator enforces lowercase, period-only Phi inside recognized examples and
 - [Manual chapter 9](../../manual/part4_grammar/ch09_particle_system/01_introduction.md) for particle scope and [chapter 10](../../manual/part4_grammar/ch10_mindful_sentence/05_questions_requests_conditions.md) for questions
 - [Manual chapter 17](../../manual/part5_complex/ch17_coordination/01_simple_conjunction.md) for coordination and [chapter 19](../../manual/part5_complex/ch19_subordinate_clauses/02_complement_clauses.md) for clause frames
 - [Manual chapter 18](../../manual/part5_complex/ch18_discourse/01_introduction.md) for the seven discourse markers behind Part 8
-- [Manual chapter 21](../../manual/part6_mastery/ch21_social_context/01_the_vocative_kona.md) for direct address and [chapter 24](../../manual/part6_mastery/ch24_source_material/01_where_source_material_lives.md) for source material
+- [Manual chapter 21](../../manual/part6_mastery/ch21_social_context/01_the_vocative_kona.md) for direct address and [chapter 23](../../manual/part6_mastery/ch23_source_material/01_where_source_material_lives.md) for source material
 - The complementizer, naming, and source-material pamphlets for extended practice
 
 `wa thia towe nai.` ends with the same period as an assertion. Its first syllable is enough to tell the listener which sentence they have entered.

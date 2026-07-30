@@ -79,4 +79,4 @@ Quantifier row: `theula` (UNIV), `sheloi` (MANY), `shelami` (MOST), `soli` (SOME
 - Doctrine: the manual, Part IV ch12 (foundation, building, approximation, position and kind, conscious calculation); `documents/grammar/numeral_reference.md` for the full inventory.
 - The classifier ruling and the nature-now rule: `canon.md`, Classifiers.
 - Measurement, power, and numeral design: `documents/design/psychological_violence_of_measurement.md`.
-- The scenes this pamphlet drills: primer ch15, *ta wi shao*, market day; the well of primer ch24, pronounced clear with `mawha suliwa`; the journal dates of manual ch23; the velveteen story's eighteen scenes.
+- The scenes this pamphlet drills: primer ch15, *ta wi shao*, market day; the well of primer ch24, pronounced clear with `mawha suliwa`; the journal dates of manual ch22; the velveteen story's eighteen scenes.

@@ -70,7 +70,7 @@ B: su shea wei thia shua.
 
 ## A philosophical passage
 
-Chapter 22 gives Bashō's frog haiku two Phi renderings. The translation keeps the frog, jump, and sound:
+Bashō's frog haiku has direct Phi words for its pond, frog, jump, and sound:
 
 ```
 serao melothe.
@@ -86,22 +86,6 @@ water sound.
 (The sound of water.)
 ```
 
-The deliberate transmutation changes the animal into an unnamed creature, the jump into an arrival, and the sound into a voice:
-
-```
-serao melothe.
-old pond.
-(The old pond.)
-
-limoe muo phialu kamo.
-creature INTO water arrive.
-(A creature arrives into the water.)
-
-phialu haoni.
-water voice.
-(The water's voice.)
-```
-
 ## The texts shelf
 
 Translations on the shelf preserve the claims that fit Phi least comfortably as well as those the language meets easily. Their source lines stay beside the Phi, and each page records where the two languages do not quite meet.
@@ -110,9 +94,9 @@ Gibran's four teachings are complete translations. His bow, yoke, sword, and har
 
 The five Tao chapters bring a wheel, an empty vessel, barely seen authority, small beginnings, and a tree cutter into Phi. Legge's claims remain in place even where the language must describe a part or relation instead of naming it.
 
-A **translation** keeps the source's claims and distinctions, along with its images and force, while letting Phi grammar do its own work. A **transmutation** may recast the source in Phi's own terms. Its citations and gap log make the distance visible. An **original** takes Phi as its source; the English is a close reading rather than a prior text waiting to be rendered. All three methods can compose a missing term or coin a word. What changes is the work each owes to a source, or to the propositions it makes on its own.
+A **translation** keeps the source's claims and distinctions, along with its images and force, while letting Phi grammar do its own work. An **original** takes Phi as its source; the English is a close reading rather than a prior text waiting to be rendered. A **refusal** answers a source without claiming to translate it. All three may use composition or coinage, but each owes the reader a different kind of fidelity.
 
-The complete texts live on the Phi text shelf. Each short work has one file; a longer book has its own directory, where the chapters and their shared source stay together. Translations and transmutations place source wording beneath their Phi, glosses, and back-translations where publication permits it. Original work uses three-line blocks because Phi is the source, then records its propositions and lexical pressure separately. The works below are the manual's touchstones.
+The complete texts live on the Phi text shelf. Each short work has one file; a longer book has its own directory, where the chapters and their shared source stay together. Translations place source wording beneath their Phi, glosses, and back-translations where publication permits it. Original work uses three-line blocks because Phi is the source, then records its propositions and lexical pressure separately. A refusal keeps the source outside its answer. The works below are the manual's touchstones.
 
 ***lothea thole*** (The Practice of Love) is a translation of the Karaniya Metta Sutta: ten verses of loving-kindness carried almost entirely by the optative `su`. Its refrain is the language in one line:
 
@@ -148,5 +132,5 @@ The rest of the shelf:
 
 | Phi title | Method | Text |
 |---|---|---|
-| `naweri` | Transmutation | the Ring Verse, refused: the other Ring-wearers named and coercion exposed without granting it a neutral ruler |
-| `nophi lue mawha lokue` | Transmutation | the opening chapters of *News from Nowhere*, reviewed against Morris chapter by chapter |
+| `naweri` | Refusal | the Ring Verse, answered: the other Ring-wearers named and coercion exposed without granting it a neutral ruler |
+| `nophi lue mawha lokue` | Book in progress | the opening chapters of *News from Nowhere*, reviewed against Morris chapter by chapter |

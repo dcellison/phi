@@ -6,7 +6,7 @@
 
 ---
 
-## Close translation
+## Translation
 
 This is the whole teaching, from Almitra's request to the prayer and song at night. The translation describes Gibran's sword and crown without adding roots for them. Crucifixion, threshing, and sacred feast receive the same treatment. The source remains beside every passage, where its names and inherited identities stay visible.
 
@@ -219,7 +219,7 @@ OPT 2SG sleep. OPT LOC 2SG heart DAT [REL 2SG cherish] person bless be. OPT ON 2
 gibran: "And then to sleep with a prayer for the beloved in your heart and a song of praise upon your lips."
 ```
 
-**Notes:** The close translation does not soften the final cost. Excessive tenderness has pain, understanding gives injury, and choice and joy accompany released blood. `wapile korua`, wing-heart, recalls the opening image when dawn returns. Phi's natural day supplies dawn, `thaeso` at midday, evening, and sleep without importing clock units. Intense joy renders ecstasy. Prayer and praise have no universal roots: a blessing for the cherished person rests in the heart, while a song of appreciation rests on the lips.
+**Notes:** The translation does not soften the final cost. Excessive tenderness has pain, understanding gives injury, and choice and joy accompany released blood. `wapile korua`, wing-heart, recalls the opening image when dawn returns. Phi's natural day supplies dawn, `thaeso` at midday, evening, and sleep without importing clock units. Intense joy renders ecstasy. Prayer and praise have no universal roots: a blessing for the cherished person rests in the heart, while a song of appreciation rests on the lips.
 
 ## Complete translation
 
@@ -253,4 +253,4 @@ su thia wo phaeli kipona sano. su thia lue miso lothea shelomu kaworu howela. su
 | fragment of Life's heart | a small portion of Life's heart | The part-whole relation is direct; Phi does not add the English suggestion of a jagged broken piece. |
 | But if | the condition opens with `lu`, and its consequence begins with `thelao` | Slot 0 `lu` must open its sentence, so the preceding contrast is carried by the passage rather than an added coordinator. |
 | worthy | deserving love's guidance | The judgment becomes explicit about the outcome that love finds deserved; it does not make human worth conditional. |
-| prayer; praise; ecstacy | a blessing, a song of appreciation, and intense joy | The close rendering describes the acts and feeling while the source retains its devotional categories and spelling. |
+| prayer; praise; ecstacy | a blessing, a song of appreciation, and intense joy | The translation describes the acts and feeling while the source retains its devotional categories and spelling. |

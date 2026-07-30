@@ -1,6 +1,6 @@
 # keiro — from the Tao Te Ching
 
-*Water takes the low place. A wheel turns because its center is open. The best authority is barely noticed, the great begins small, and what yields stays alive. This page presents five chapters of the Tao Te Ching in close Phi translation.*
+*Water takes the low place. A wheel turns because its center is open. The best authority is barely noticed, the great begins small, and what yields stays alive. This page presents five chapters of the Tao Te Ching in Phi translation.*
 
 *The translation follows every proposition in James Legge's chapters 8, 11, 17, 63, and 76. Water keeps its low place, and the wheel keeps its open center. Authority, force, and the tree cutter remain where Legge puts them.*
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Close translation
+## Translation
 
 ### Chapter 8: the water
 

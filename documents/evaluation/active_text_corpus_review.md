@@ -15,8 +15,8 @@ This ledger tracks roadmap item SEM-01C: the active Phi corpus is being reread a
 
 | Check | Question that decides the disposition |
 |---|---|
-| Declared method | Is the work identified as a translation or a transmutation before the reader reaches the Phi passage? |
-| Source and proposition | In a translation, does every source claim, distinction, image, and relation survive as closely as Phi permits? In a transmutation, is every departure deliberate, visible, and honestly represented by the back-translation? |
+| Declared relationship | Is the work identified as a translation, an original Phi work, a refusal, or a chapter of the current Morris project before the reader reaches the Phi passage? |
+| Source and proposition | In a translation, does every source claim, distinction, image, and relation survive as closely as Phi permits? In a refusal or Morris chapter, is every departure deliberate, visible, and honestly represented by the back-translation? |
 | Lexicon semantics | Does every content word fit its full concept and description rather than merely sharing an English gloss? |
 | Module vocabulary | Does an optional term say the thought more exactly, or would it only advertise a module and burden this text's intended reader? |
 | Composition | Is the existing phrase natural Phi, and does its transparency teach something a dedicated term would hide? |
@@ -26,7 +26,7 @@ This ledger tracks roadmap item SEM-01C: the active Phi corpus is being reread a
 
 Module vocabulary is adopted when its meaning earns the place. A transparent base expression remains when it is natural or better suited to the learning path, and a before-state passage stays unchanged when its limitations are evidence.
 
-Source-based work on the shelf uses two methods. A translation remains answerable to the source at every proposition; composition solves lexical differences without granting permission to rewrite the claim. A transmutation may change the source through the language's concepts and commitments, but its freedom is not vagueness. The Phi line must agree with its exact gloss and back-translation; the citation and gap log must show what shifted. Reviewing a transmutation does not turn it into a translation. It clears accidental loss, misleading back-translations, stale vocabulary, and unexamined approximation while leaving defended choices in place.
+Translations remain answerable to the source at every proposition; composition solves lexical differences without granting permission to rewrite the claim. The Ring Verse is an explicit refusal rather than a translation, and the current Morris chapters retain a source-gap account until that project receives its own review. In every case, the Phi line must agree with its exact gloss and derived English, while citations and notes must identify any deliberate departure. Original Phi work begins from Phi and asks whether its English reading follows it.
 
 ## Modifier-first purpose migration
 
@@ -314,9 +314,9 @@ The page was translated afresh rather than repaired around its former relational
 
 ### Post-conversion fidelity sweep
 
-D082 checks the finished translation again rather than relying on the conversion decision. Its five citations reconstruct all 238 normalized characters of the stored Woods witness in order. The detailed blocks and complete reading contain the same seven Phi assertions; their lexicon glosses, syntax, and derived English all agree. The animal head in the last passage remains a deliberate narrowing: in the present construction it ends the relative before `naseru`, which would otherwise be available as the head noun. No Phi line changes, and no new lexical decision is needed. The audit does repair the older coverage record, which still described `nolami` and willing `thonai` as choices made by a transmutation.
+D082 checks the finished translation again rather than relying on the conversion decision. Its five citations reconstruct all 238 normalized characters of the stored Woods witness in order. The detailed blocks and complete reading contain the same seven Phi assertions; their lexicon glosses, syntax, and derived English all agree. The animal head in the last passage remains a deliberate narrowing: in the present construction it ends the relative before `naseru`, which would otherwise be available as the head noun. No Phi line changes, and no new lexical decision is needed. The audit does repair the older coverage record, which still described `nolami` and willing `thonai` as choices made by the former adaptation.
 
-## Transmutation review: the Ring Verse refusal
+## Refusal review: the Ring Verse
 
 The page quotes Tolkien's inscription and answers it with four Phi lines rather than promising a translation. Its title and passage use 17 unique forms, all from base or function vocabulary. The first shelf rebuild correctly separated coercion and physical tying from guidance and mutual bond, but it widened the contextual **them** to all people. The stricter pass repairs that referent without softening the refusal.
 
@@ -331,7 +331,7 @@ The first retrofit left the four Phi lines unchanged. It brought the surrounding
 | Binding and mutual bond | Preserve metaphorical `tiwa` and reject `nolami` | `tiwa` keeps the image bodily through fastening with a flexible line. `nolami` belongs to participants who form or sustain a mutual connection. The Ring imposes restraint; it does not enter a relationship. |
 | Ring and darkness | Preserve `thumai sorui` and quality-noun `nuelo` | Finger-circle is the registered ordinary composition for a ring. Under the regular adjective rule, `nuelo` also covers darkness as a noun. Neither expression hides a source distinction or needs a specialist root. |
 | Throne and seat | Keep throne in the source; correct the account of `meipa` | `meipa` is an object or prepared place made for sitting and may be reserved or exalted. It is audibly related to `meilo`, sit, but it is not that verb with a place suffix. Raising a seat does not give its occupant an unmarked dominion role. |
-| Optional module vocabulary | Use none in the Phi lines | Commons vocabulary improves the analysis, not the transmutation. The verse's coercion, finding, bringing, darkness, and physical restraint are already expressible in ordinary Phi. |
+| Optional module vocabulary | Use none in the Phi lines | Commons vocabulary improves the analysis, not the refusal. The verse's coercion, finding, bringing, darkness, and physical restraint are already expressible in ordinary Phi. |
 | Source and active dependencies | Preserve Tolkien's quotation and synchronize the two repeated Phi lines | The source remains outside Phi byte-for-byte. The first and fourth lines recur in book chapter 2; the former chapter 6 duplication is no longer present. Canon's stale claim that the refusal uses `kulo`, `theluo`, and `nolami` also requires correction. |
 
 ### Full source-fidelity pass
@@ -342,7 +342,7 @@ The stricter pass changes all four Phi lines because their shared target was too
 |---|---|---|
 | Scope of the source witness | Keep the short inscription as the only quotation; discuss the surrounding stanza without reproducing it | The quoted words suffice for the refusal. The other Rings establish the antecedent, while lord and throne belong to the surrounding source context rather than to the quoted inscription. |
 | All and them | Use `theula whu phirae thumai sorui wenuha miona` in the first and third lines, then `lo shia` in the second and fourth | The old `theula miona` meant every person, a claim the source does not make. The headed relative follows dominion through the other Rings to everyone wearing a different finger-ring. The pronoun retains that set where the source says **them**. |
-| Purpose and accusation | Preserve the deliberate move from infinitive purpose to unmarked present clauses and record it in the introduction and gap log | A translation would present what the One Ring is for. This refusal instead accuses it of coercing, finding, bringing, and tying. The grammatical shift belongs to the transmutation and must not pass as accidental equivalence. |
+| Purpose and accusation | Preserve the deliberate move from infinitive purpose to unmarked present clauses and record it in the introduction and gap log | A translation would present what the One Ring is for. This refusal instead accuses it of coercing, finding, bringing, and tying. The grammatical shift belongs to the refusal and must not pass as accidental equivalence. |
 | Rule, authority, and dominion | Preserve `kawhera`; keep `nasholu`, `nashaku`, `karami`, `kulo`, and `theluo` in the analysis | None of the neighbouring social relations means dominion. `kawhera` names the closing of practical choice without granting the Ring a legitimate role. |
 | Bind and bond | Preserve metaphorical `tiwa`; reject `nolami` | The physical tie remains an uncomfortable image of imposed restraint. A mutual bond would reverse the relation at the heart of the refusal. |
 | Optional module vocabulary | Use none | All 16 passage forms are base or function vocabulary. The relative clause needs no wearer role, specialist title, or new root. |
@@ -371,7 +371,7 @@ Forty-six aligned units changed in the earlier retrofit. The source lines remain
 | Loneliness and commonplace status | Use settled `sonu nuhe`; replace the misuse of `siloma` with a second ordinary sentence | Loneliness composes from aloneness and sadness. Phi still has no useful core adjective for "commonplace," so the other toys make the rabbit feel small and leave him merely one toy among them. |
 | Picture-books and transparent compounds | Use `kire shelu`; preserve the other compounds that still teach | A picture is a made shape, not necessarily a coloured one. Compounds for velveteen, sawdust, the mainspring, pearls, the wheelbarrow, and the story's other material images remain expressive rather than obsolete. |
 | Optional module reach | Use 13 distinct roots with 18 memberships across six modules | Commons contributes `punoki` and `wemari`; Ecological contributes `hisophi` and `whemori`; Household contributes seven roots; Medical contributes `hisophi` and `suloru`; Systems contributes `nurako`; Work contributes `hisophi`, `kolai`, `riporu`, and `whemori`. No Philosophical or Accessibility root is forced into the story. |
-| Source boundaries and peace linguistics | Preserve the exact Williams witness and the established transmutation choices | The citation still contains soldiers, Government, brigands, burning, illness, and grief. Phi names disability, institution, coercion-play, fever, and contamination without erasing the source events or turning pain into a moral lesson. |
+| Source boundaries and peace linguistics | Preserve the exact Williams witness and the established adaptation choices | The citation still contains soldiers, Government, brigands, burning, illness, and grief. Phi names disability, institution, coercion-play, fever, and contamination without erasing the source events or turning pain into a moral lesson. |
 | Active dependencies | Update the story notes, gap account, review ledger, and progress records | All 430 source lines remain unchanged. The revised Phi, exact glosses, and English back-translations pass the targeted example validator. |
 
 ### Full source-fidelity pass
@@ -422,7 +422,7 @@ D083 rereads all 427 aligned stanzas against Williams rather than limiting revie
 | Thought before action | Restore `pha miso hina phoa pho` under `remo` | The earlier phrase said only "before thought." The framed content question preserves "before he thought what he was doing" and remains unambiguous under the question-complement rule. |
 | Vocabulary boundary | Add no root, module membership, registered compound, or grammar | Every correction uses the completed lexicon. The source-bound treatment of military service, Government, hatred, brigandage, exact time, named products, gems, and Fairy remains unchanged. |
 
-## Transmutation review: News from Nowhere, chapter 1
+## Source-gap review: News from Nowhere, chapter 1
 
 Morris's first chapter has 85 aligned source units. The revised Phi uses 232 unique forms. Six optional roots enter through four modules: Commons and Collective Governance, Household and Daily Life, Philosophical Reasoning, and Systems and Shared Infrastructure. The chapter needs those distinctions, but it still does most of its work in base vocabulary.
 
@@ -443,7 +443,7 @@ Twenty-nine aligned units change. Every `morris:` line remains byte-for-byte unc
 | Optional module reach | Use six roots with six memberships across four modules | Commons contributes `shalimo`, `wemari`, and `karami`; Household contributes `tholupi`; Philosophical contributes `themore`; Systems contributes `nurako`. No other module is imported merely to increase coverage. |
 | Active dependencies | Update the chapter notes, review ledger, progress records, handoff, and phonetic-neighbour attestations | All 85 source units retain their exact Morris lines. Chapters 2 and 3 carry the river, name, and authority choices forward in their own completed passes. |
 
-## Transmutation review: News from Nowhere, chapter 2
+## Source-gap review: News from Nowhere, chapter 2
 
 Morris's second chapter has 241 aligned source units. The revised Phi uses 361 unique forms. Five optional roots enter with seven memberships across four modules: Accessibility and Participation, Household and Daily Life, Systems and Shared Infrastructure, and Work, Craft, and Repair. The room, meals, and limits of work earn that vocabulary; the rest of the chapter remains largely in the base language.
 
@@ -466,7 +466,7 @@ Fifty-seven aligned units change. Every `morris:` line remains byte-for-byte unc
 | Optional module reach | Use five roots with seven memberships across four modules | Household contributes `tholupi`, `wethamo`, and `nurome`; Work contributes `kolai` and shares `pushali`, whose Accessibility and Systems memberships reflect the same capacity distinction. No module enters for decoration. |
 | Active dependencies | Update the chapter notes, review ledger, coverage record, roadmap, handoff, and phonetic-neighbour attestations | All 241 source units retain their exact Morris lines. Chapter 3 inherits the river, name, work, and source-boundary choices and completes the literary shelf. |
 
-## Transmutation review: News from Nowhere, chapter 3
+## Source-gap review: News from Nowhere, chapter 3
 
 Morris's third chapter has 245 aligned source units. The revised Phi uses 406 unique forms. Fourteen optional roots enter with 15 memberships across five modules: Accessibility and Participation, Commons and Collective Governance, Ecological Systems and Material Life, Household and Daily Life, and Work, Craft, and Repair. Breakfast and the weaver's trade give those words honest work; most of the hall still speaks in base Phi.
 
@@ -487,7 +487,7 @@ Forty-six aligned units change, and every `morris:` line remains byte-for-byte u
 | Notice and handiness | Use `morae` and Accessibility `kelasu` | The carriage catches the narrator's notice and proves handy in use. Low weight remains a separate quality under `phelo`. |
 | Transparent compositions | Keep stone rainbows, the fire-blowing device, the gray horse, the old oar-man, and the description of lead by inferred weight | These phrases remain more revealing than a narrow label. The exact metal and vanished occupations stay available in Morris's adjacent witness. |
 | Optional module reach | Use 14 roots with 15 memberships across five modules | Accessibility contributes `kelasu`; Commons contributes six roots; Ecological contributes `telo`; Household contributes `nurome` and `tholupi`; Work contributes five roots and shares `telo`. No module is added merely to raise the count. |
-| Source boundaries and peace linguistics | Preserve Morris's exact dates, places, gendered sorting, armor, and fighting language beside the established transmutation choices | Phi reports authority, harm, retaliation, and guardianship without cleaning the narrator's politics or importing martial vocabulary for the golden coat. |
+| Source boundaries and peace linguistics | Preserve Morris's exact dates, places, gendered sorting, armor, and fighting language beside the established adaptation choices | Phi reports authority, harm, retaliation, and guardianship without cleaning the narrator's politics or importing martial vocabulary for the golden coat. |
 | Active dependencies | Update the chapter notes, review ledger, progress records, handoff, and phonetic-neighbour attestations | All 245 source units retain their exact Morris lines. The literary retrofit is complete, and the drafted-book review now carries its method and vocabulary forward. |
 
 ## Contextual review: the drafted Phi book
@@ -503,23 +503,23 @@ The review keeps the garment-and-hand composition, changes no source quotation, 
 | Service and help | Replace `naphe` with `pheloma` in the quoted expectation and both dependent novel units | Morris names service, and Phi already distinguishes work done for another person's use from help offered to a particular activity. The narrator's assumption remains marked by `ho`. |
 | Quantity and the missing object | Describe `wia` as a quantity gap for counts or amounts | A numeral, estimate, quantifier, or unknown answer may fill the gap. The bare question becomes puzzling because the narrator assumes a payment custom that Dick does not share. |
 | The tide | Add the complete reply with `lunisa` and carry the same root through the dependent river scene | The joke lands on Dick's guess. Showing only his failure to understand left out the answer on which the cold open depends. |
-| Translation and transmutation | Name the method accurately and remove the claim that Phi produced Morris's joke without prompting | Morris supplied the misunderstanding. Phi changes its wording under a declared transmutation and exposes the missing economic expectation without claiming authorship of the joke. |
+| Source relationship | Name the current Morris treatment accurately and remove the claim that Phi produced Morris's joke without prompting | Morris supplied the misunderstanding. The Phi rendering changes its wording and exposes the missing economic expectation without claiming authorship of the joke. |
 | Transparent composition | Retain `muo wethalu manuwe sepho` for putting a hand into the garment | Phi has no pocket noun, and the composition preserves the physical act without pretending that the whole garment is a pocket. |
 | Lexicon prose contract | Replace chapter 5's retired `muila` symbolism and chapter 6's claim that names lack two supposedly required optional fields | `muila` now demonstrates articulatory description without a symbolic tale; `nuwera` supplies a genuine optional mnemonic through its audible kinship with `nulae`. A productive name lacks shared lexical definition and classification without being deficient in optional symbolism or philosophy. |
 | Preserved chapters and examples | Leave chapters 1, 3, 4, 7, and 11 unchanged; preserve every non-cold-open block in chapters 2, 4, 6, 7, and 11 | Chapters 1 and 3 contain no Phi sentence requiring retrofit. Chapter 7 copies three validated Babel passages exactly, and the remaining examples already agree with their literary or manual sources and the completed lexicon. |
 | Optional module reach | Add no optional root | The cold open's argument belongs to base vocabulary and grammar. Existing module vocabulary in later teaching examples remains where its subject needs it; no term enters merely to display the modules. |
 | Active dependencies | Update chapter 2, the treatment, review ledger, progress records, handoff, and phonetic-neighbour attestations | All Morris lines remain exact, and every drafted Phi book chapter is current through chapter 7. Resume the manual-led remainder of SEM-09D before drafting chapter 8. |
 
-## Transmutation review
+## Refusal and Morris source-gap review
 
-The two transmuted works on the shelf were read from their stated sources before the Phi was judged. Repair was preferred when the narrative or argument already held together. A clean rebuild was reserved for the Ring Verse's central refusal, whose earlier substitute had turned coercion into guidance and imposed binding into mutual bond. No new root was needed; the completed module vocabulary supplied the missing distinctions.
+The Ring Verse refusal and the first three Morris chapters were read from their stated sources before the Phi was judged. Repair was preferred when the narrative or argument already held together. A clean rebuild was reserved for the Ring Verse's central refusal, whose earlier substitute had turned coercion into guidance and imposed binding into mutual bond. No new root was needed; the completed module vocabulary supplied the missing distinctions.
 
 | Work | Source and decision | Material repairs | Pillar disposition |
 |---|---|---|---|
 | Ring Verse refusal | Tolkien's quoted inscription; central Phi passage rebuilt and fidelity-repaired | Rule becomes an explicit analysis as coercion; bind becomes physical `tiwa` used metaphorically. The repaired referent follows the other Rings to their wearers instead of widening **them** to all people. | Peace linguistics makes the decisive change by naming constrained choice. Buddhist attention separates acts from permanent moral identities. The other pillars do not soften the source or invent a replacement moral. |
 | *News from Nowhere*, chapters 1-3 | Complete Morris chapters; repaired chapter by chapter | Chapter 1 separates views, membership, and authority. Chapter 2 gives waking, bodily sensation, household detail, work capacity, and the river their completed distinctions. Chapter 3 adds direct rooms, meals, body parts, responses, and craft while retaining commoners' entitlement and the political direction of reactionary novels. | Solarpunk and preindustrial commitments are native to Morris's work; Art Nouveau lives in architecture, clothing, and craft. Buddhist attention clarifies the narrator's inference. Peace linguistics names authority and stigma without cleaning the argument, coercion, or social contempt from the story. |
 
-The source citations and gap logs in each work hold the detailed decisions. The table records why each text remains a transmutation and whether repair or replacement was warranted.
+The source citations and gap logs in each work hold the detailed decisions. The table records why each text remains outside the translation category and whether repair or replacement was warranted.
 
 ## Phi-first review: When care becomes coercion
 
@@ -606,10 +606,10 @@ Phi is the source for all 33 essay units and their 62 complete assertions. The r
 | `texts/gibran/on_work.md` | Translation | Reviewed | All 32 source units align exactly, and the limits table records the distinctions that remain with Gibran's wording. |
 | `texts/tao_te_ching.md` | Translation | Reviewed | All 51 Legge units align in order, and the continuous reading follows every proposition in the detailed translation. |
 | `texts/heart_sutra.md` | Translation | Reviewed | All 34 Müller units align in order, and the translation preserves every printed proposition in the selected witness. |
-| `texts/ring_verse_refusal.md` | Transmutation | Reviewed | The 17-form base-only refusal keeps Tolkien's inscription exact, narrows its affected people to wearers of the other Rings, and records the deliberate change from purpose to accusation. |
+| `texts/ring_verse_refusal.md` | Refusal | Reviewed | The 17-form base-only refusal keeps Tolkien's inscription exact, narrows its affected people to wearers of the other Rings, and records the deliberate change from purpose to accusation. |
 | `texts/velveteen_rabbit.md` | Translation | Reviewed | The 429 exact Williams fragments align across 427 Phi stanzas and reconstruct the stored story in order. D083 rereads all 427 units after the translation conversion, changes eleven stanzas, and confirms the matching continuous reading without adding vocabulary. |
-| `texts/news_from_nowhere/chapter_01.md` | Transmutation | Reviewed | The 85-unit post-migration pass changes 29 units and uses six optional roots across four modules without altering Morris's source lines. |
-| `texts/news_from_nowhere/chapter_02.md` | Transmutation | Reviewed | The 241-unit post-migration pass changes 57 units and uses five optional roots with seven memberships across four modules without altering Morris's source lines. |
-| `texts/news_from_nowhere/chapter_03.md` | Transmutation | Reviewed | The 245-unit post-migration pass changes 46 units and uses 14 optional roots with 15 memberships across five modules without altering Morris's source lines. |
+| `texts/news_from_nowhere/chapter_01.md` | Book in progress | Reviewed | The 85-unit post-migration pass changes 29 units and uses six optional roots across four modules without altering Morris's source lines. |
+| `texts/news_from_nowhere/chapter_02.md` | Book in progress | Reviewed | The 241-unit post-migration pass changes 57 units and uses five optional roots with seven memberships across four modules without altering Morris's source lines. |
+| `texts/news_from_nowhere/chapter_03.md` | Book in progress | Reviewed | The 245-unit post-migration pass changes 46 units and uses 14 optional roots with 15 memberships across five modules without altering Morris's source lines. |
 
-Every current translation, transmutation, and original has received the review appropriate to its declared method. The six formerly paired works, the Little Prince excerpts, and The Velveteen Rabbit now stand as translations only. All four original Phi works have received Phi-first reviews. The Phi book and SEM-09D retrofit are complete.
+Every current translation, refusal, original, and reviewed Morris chapter has received the review appropriate to its declared relationship with its source. The six formerly paired works, the Little Prince excerpts, and The Velveteen Rabbit now stand as translations only. All four original Phi works have received Phi-first reviews. The Phi book and SEM-09D retrofit are complete.

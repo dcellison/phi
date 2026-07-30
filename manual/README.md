@@ -1,6 +1,6 @@
 # Phi manual
 
-The manual is Phi's complete teaching and reference work. Read it from First light, or leave it open when a particle, sound, or clause refuses to come to mind. The website builds its contents from the live files and keeps all 145 readings in one sequence.
+The manual is Phi's complete teaching and reference work. Read it from First light, or leave it open when a particle, sound, or clause refuses to come to mind. The website builds its contents from the live files and keeps all 139 readings in one sequence.
 
 ## Reading order
 
@@ -11,7 +11,7 @@ The manual is Phi's complete teaching and reference work. Read it from First lig
 | III | Phonology | 7-8 | `part3_phonology/` |
 | IV | Grammar | 9-16 | `part4_grammar/` |
 | V | Complex structures | 17-20 | `part5_complex/` |
-| VI | Mastery | 21-24 | `part6_mastery/` |
+| VI | Mastery | 21-23 | `part6_mastery/` |
 | VII | Reference | - | `part7_reference/` |
 | Back matter | Appendices and colophon | - | `appendices/` and `/colophon.md` |
 

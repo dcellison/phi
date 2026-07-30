@@ -1,6 +1,6 @@
 # The texts
 
-This shelf holds translations, transmutations, and original Phi work. A translation stays answerable to the source's claims and distinctions. A transmutation lets the source change under Phi's five pillars and habits of thought. In an original, Phi comes first and the English follows instead of governing it. Each source-led work names its method before the first line, so a reader knows whether the source is being carried or openly recast.
+This shelf holds translations, original Phi work, and one refusal. A translation stays answerable to the source's claims and distinctions. In an original, Phi comes first and the English follows instead of governing it. The Ring Verse keeps Tolkien's wording outside Phi and answers it openly. Each work names its relationship to a source before the first line.
 
 Short works each have one Markdown file. An author collection gets its own directory and catalogue, so separate source works can stay together without pretending to be chapters. A book also gets a directory, where its chapter sequence and shared source witness stay together. The `sources/` directory holds source witnesses for the ungrouped works.
 
@@ -17,7 +17,7 @@ Short works each have one Markdown file. An author collection gets its own direc
 | The North Wind and the Sun | Translation | The complete fable, followed by its translation limits. | [Read](north_wind_and_sun.md) |
 | Universal Declaration of Human Rights, Article 1 | Translation | Both sentences, with rights, reason, conscience, and obligation kept distinct. | [Read](human_rights_article_one.md) |
 | The Babel text | Translation | Genesis 11:1-9 in Phi translation. | [Read](babel_text.md) |
-| The Ring Verse | Transmutation | The familiar four lines answered with a refusal. | [Read](ring_verse_refusal.md) |
+| The Ring Verse | Refusal | The familiar four lines answered without claiming to translate them. | [Read](ring_verse_refusal.md) |
 | Schleicher's fable | Translation | The complete fable beside a controlled English source. | [Read](schleicher_fable.md) |
 | The Little Prince, selections | Translation | Three passages from Katherine Woods: the sheep, the secret, and responsibility for the tamed animal. | [Read](little_prince_excerpts.md) |
 | The Velveteen Rabbit | Translation | The complete story, followed by its translation limits. | [Read](velveteen_rabbit.md) |
@@ -34,7 +34,7 @@ Short works each have one Markdown file. An author collection gets its own direc
 
 | Work | Method | Coverage | Text |
 |---|---|---|---|
-| News from Nowhere | Transmutation | The first six chapters of a planned 32. | [Open the book](news_from_nowhere/) |
+| News from Nowhere | Book in progress | The first six chapters of a planned 32. | [Open the book](news_from_nowhere/) |
 
 ## Maintaining the shelf
 

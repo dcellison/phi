@@ -6,7 +6,7 @@ Most projects that use these tools handle that fact the way a restaurant handles
 
 ## The blue hands
 
-The colophon's analogy is William Morris, and the choice is not decoration. Morris is already in this book; his novel supplied the boatman of the opening pages, and the language is transmuting all eighty thousand words of it. The same man ran a workshop.
+The colophon's analogy is William Morris, and the choice is not decoration. Morris is already in this book; his novel supplied the boatman of the opening pages, and Phi is carrying the book chapter by chapter. The same man ran a workshop.
 
 From 1881, Morris & Co. operated out of Merton Abbey, a seven-acre former silk-weaving works on the River Wandle, chosen for water of the special quality the dye vats needed (Mackail 1899). By the 1890s around a hundred people worked there (Grace's Guide n.d.). Dye vats sat below a stained-glass studio; chintzes were block-printed; carpets and tapestries were woven by hand. Morris designed the patterns. Employed printers and weavers executed them, to his standard, under his eye.
 

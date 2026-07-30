@@ -122,7 +122,7 @@
       "motif": "wind_sun",
       "sections": [
         {
-          "title": "Close translation",
+          "title": "Translation",
           "kind": "translation"
         },
         {
@@ -151,7 +151,7 @@
       "motif": "people_equal",
       "sections": [
         {
-          "title": "Close translation",
+          "title": "Translation",
           "kind": "translation"
         },
         {
@@ -180,7 +180,7 @@
       "motif": "dwelling_garden",
       "sections": [
         {
-          "title": "Close translation",
+          "title": "Translation",
           "kind": "translation"
         },
         {
@@ -209,7 +209,7 @@
       "motif": "wool_journey",
       "sections": [
         {
-          "title": "Close translation",
+          "title": "Translation",
           "kind": "translation"
         },
         {
@@ -238,7 +238,7 @@
       "motif": "water_open",
       "sections": [
         {
-          "title": "Close translation",
+          "title": "Translation",
           "kind": "translation"
         },
         {
@@ -267,7 +267,7 @@
       "motif": "lotus_circle",
       "sections": [
         {
-          "title": "Close translation",
+          "title": "Translation",
           "kind": "translation"
         },
         {
@@ -296,7 +296,7 @@
       "motif": "heart_radiance",
       "sections": [
         {
-          "title": "Close translation",
+          "title": "Translation",
           "kind": "translation"
         },
         {
@@ -325,7 +325,7 @@
       "motif": "words_seed",
       "sections": [
         {
-          "title": "Close translation",
+          "title": "Translation",
           "kind": "translation"
         },
         {
@@ -354,7 +354,7 @@
       "motif": "people_equal",
       "sections": [
         {
-          "title": "Close translation",
+          "title": "Translation",
           "kind": "translation"
         },
         {
@@ -383,7 +383,7 @@
       "motif": "dwelling_garden",
       "sections": [
         {
-          "title": "Close translation",
+          "title": "Translation",
           "kind": "translation"
         },
         {
@@ -407,7 +407,7 @@
       "inner_dividers": 0
     },
     "texts/ring_verse_refusal.md": {
-      "form": "transmutation",
+      "form": "refusal",
       "phi_title": "naweri",
       "motif": "ring_refusal",
       "sections": [
@@ -417,7 +417,7 @@
         },
         {
           "title": "What comes out instead",
-          "kind": "transmutation"
+          "kind": "refusal"
         },
         {
           "title": "Why this is the entry",

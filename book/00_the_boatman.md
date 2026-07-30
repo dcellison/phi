@@ -2,7 +2,7 @@
 
 A man falls asleep in the London of 1890 and wakes in the same house, on the same river, some two centuries on. This is a hazardous thing to do in a utopian novel, since breakfast is unlikely to follow the old rules. The novel is *News from Nowhere*, William Morris's picture of an England that has given up money, wages, and masters. Its narrator meets this enormous rearrangement in a recognizably modest way: he keeps trying to pay for things.
 
-A young waterman named Dick rows him across the Thames. At the landing-stage, Dick waits, and the narrator knows exactly why he waits, or thinks he does: "as if for the inevitable after-piece that follows the doing of a service to a fellow-citizen." In the Phi transmutation, that expectation arrives with its epistemology attached:
+A young waterman named Dick rows him across the Thames. At the landing-stage, Dick waits, and the narrator knows exactly why he waits, or thinks he does: "as if for the inevitable after-piece that follows the doing of a service to a fellow-citizen." In the current Phi rendering, that expectation arrives with its epistemology attached:
 
 ```
 mia tha shia whu pheo pheloma kamo thena hasi tho to ho remo.
@@ -18,7 +18,7 @@ Dick's answer is one of the book's quiet jokes. "He looked puzzled, and said, 'H
 
 Dick is not making a philosophical point. He genuinely needs to know what quantity is being asked about. In his England the customary answer, a price, has disappeared. Standing beside the Thames, he tries the changing quantity at hand: the tide. It is a sensible guess.
 
-More than a century after Morris, a small constructed language called Phi began transmuting his novel. Phi has no word for money or price. The same refusal covers paying and wages, as well as buying and selling. The gap is not an oversight waiting for someone to mint a word, despite the tempting metaphor. It is a refusal recorded in the language's design rulings beside its refusals of the counted hour and the measured mile. When the transmutation reached the landing-stage, the narrator's bare question became:
+More than a century after Morris, a small constructed language called Phi began rendering his novel. Phi has no word for money or price. The same refusal covers paying and wages, as well as buying and selling. The gap is not an oversight waiting for someone to mint a word, despite the tempting metaphor. It is a refusal recorded in the language's design rulings beside its refusals of the counted hour and the measured mile. When the work reached the landing-stage, the narrator's bare question became:
 
 ```
 thelao mia muo wethalu manuwe to sepho. mia sha wia. sho to haolu.
@@ -34,11 +34,11 @@ how many. 1SG REL 2SG speak thing POT NEG understand. Q 2SG tide speak. tide now
 ("How many? I don't quite understand what you are asking about. Do you mean the tide? If so, it is close on the turn now.")
 ```
 
-Morris wrote that confusion in 1890. Phi did not produce it unprompted; the source already turns on a payment question that no longer makes sense. The transmutation changes the context-laden "How much?" to bare `wia`, keeps the service distinct through `pheloma`, and lets Dick make the same guess. A joke crossing languages usually requires supervised travel. This one had already packed for the river.
+Morris wrote that confusion in 1890. Phi did not produce it unprompted; the source already turns on a payment question that no longer makes sense. The current rendering changes the context-laden "How much?" to bare `wia`, keeps the service distinct through `pheloma`, and lets Dick make the same guess. A joke crossing languages usually requires supervised travel. This one had already packed for the river.
 
 This book stays with the language behind that meeting. It is not a textbook; Phi's manual, primer, and texts already do that work. Instead, it asks why one person built a language that refuses the price tag and the clock, and what the sciences of language and mind permit such a language to claim. The answer is less than popular accounts sometimes promise, and the book will show its working. It also asks what someone can honestly gain by learning Phi now, and what might happen if some of its words travel beyond the person and repository where they began. Where the evidence is small, the book says small.
 
-For now, one scene is enough. A man thinks he knows why a boatman waits, and his grammar admits that he is guessing. His hand goes into his pocket anyway. Then the future looks at his perfectly ordinary question and, with considerable patience, offers him the tide. A designer wrote his values into a dictionary by leaving things out of it. When that dictionary met the novel, the wording changed, as a transmutation allows. The misunderstanding did not need to be invented. Morris had left it waiting at the landing-stage, where Dick was already watching the tide.
+For now, one scene is enough. A man thinks he knows why a boatman waits, and his grammar admits that he is guessing. His hand goes into his pocket anyway. Then the future looks at his perfectly ordinary question and, with considerable patience, offers him the tide. A designer wrote his values into a dictionary by leaving things out of it. When that dictionary met the novel, the current rendering changed Morris's wording and recorded the departure. The misunderstanding did not need to be invented. Morris had left it waiting at the landing-stage, where Dick was already watching the tide.
 
 ## References
 

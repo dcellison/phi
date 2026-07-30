@@ -39,7 +39,7 @@
     "part6_mastery": {
       "motif": "lived_practice",
       "title": "Mastery",
-      "summary": "Courtesy and social context open the part. Transmutation, daily practice, and exact source material bring the grammar into use."
+      "summary": "Courtesy and social context open the part. Daily practice and exact source material bring the grammar into use."
     },
     "part7_reference": {
       "motif": "open_reference",
@@ -79,9 +79,8 @@
     "ch19_subordinate_clauses": "Subordinate clauses",
     "ch20_relative_clauses": "Relative clauses",
     "ch21_social_context": "Social context and nuance",
-    "ch22_transmutation": "The art of transmutation",
-    "ch23_living_in_phi": "Living in Phi",
-    "ch24_source_material": "Source material"
+    "ch22_living_in_phi": "Living in Phi",
+    "ch23_source_material": "Source material"
   },
   "pages": {
     "manual/part1_first_light/ch01_why_new_language/01_invisible_architecture.md": {
@@ -542,63 +541,39 @@
       "shape": "h1,2,2,2,2,2;t-;f7,7,7;q-;u4;o-;r0",
       "variant": "standard"
     },
-    "manual/part6_mastery/ch22_transmutation/01_introduction.md": {
-      "shape": "h1;t-;f-;q-;u-;o-;r0",
-      "variant": "standard"
-    },
-    "manual/part6_mastery/ch22_transmutation/02_the_process.md": {
-      "shape": "h1,2,2,2,2,2,2,3,3,3,3,3,2;t-;f-;q-;u3;o3;r0",
-      "variant": "standard"
-    },
-    "manual/part6_mastery/ch22_transmutation/03_case_study_anger.md": {
-      "shape": "h1,2,2,2,2,2;t-;f11,3;q1;u-;o-;r0",
-      "variant": "standard"
-    },
-    "manual/part6_mastery/ch22_transmutation/04_case_study_news.md": {
-      "shape": "h1,2,2,2,2;t-;f15,3;q1;u6;o-;r0",
-      "variant": "standard"
-    },
-    "manual/part6_mastery/ch22_transmutation/05_case_study_poetry.md": {
-      "shape": "h1,2,2,2,2,2,2;t-;f11,11;q2;u4;o-;r0",
-      "variant": "standard"
-    },
-    "manual/part6_mastery/ch22_transmutation/06_practice.md": {
-      "shape": "h1,2,2,2,2,2,2;t-;f-;q1,1;u-;o-;r0",
-      "variant": "standard"
-    },
-    "manual/part6_mastery/ch23_living_in_phi/01_daily_practice.md": {
+    "manual/part6_mastery/ch22_living_in_phi/01_daily_practice.md": {
       "shape": "h1,2,2,2,2,2;t-;f3,3;q-;u-;o-;r0",
       "variant": "standard"
     },
-    "manual/part6_mastery/ch23_living_in_phi/02_journaling.md": {
+    "manual/part6_mastery/ch22_living_in_phi/02_journaling.md": {
       "shape": "h1,2,2,2,2;t-;f7;q-;u-;o3;r0",
       "variant": "standard"
     },
-    "manual/part6_mastery/ch23_living_in_phi/03_meditation.md": {
+    "manual/part6_mastery/ch22_living_in_phi/03_meditation.md": {
       "shape": "h1,2,2,2;t-;f11,3;q-;u-;o-;r0",
       "variant": "standard"
     },
-    "manual/part6_mastery/ch23_living_in_phi/04_community.md": {
+    "manual/part6_mastery/ch22_living_in_phi/04_community.md": {
       "shape": "h1,2,2,2;t-;f-;q-;u3;o-;r0",
       "variant": "standard"
     },
-    "manual/part6_mastery/ch23_living_in_phi/05_the_ongoing_journey.md": {
+    "manual/part6_mastery/ch22_living_in_phi/05_the_ongoing_journey.md": {
       "shape": "h1,2,2,2;t-;f11;q-;u-;o-;r0",
       "variant": "standard"
     },
-    "manual/part6_mastery/ch24_source_material/01_where_source_material_lives.md": {
+    "manual/part6_mastery/ch23_source_material/01_where_source_material_lives.md": {
       "shape": "h1;t2x5;f3;q-;u-;o-;r0",
       "variant": "standard"
     },
-    "manual/part6_mastery/ch24_source_material/02_names_across_languages.md": {
+    "manual/part6_mastery/ch23_source_material/02_names_across_languages.md": {
       "shape": "h1;t-;f3;q-;u-;o-;r0",
       "variant": "standard"
     },
-    "manual/part6_mastery/ch24_source_material/03_exact_records_and_technical_material.md": {
+    "manual/part6_mastery/ch23_source_material/03_exact_records_and_technical_material.md": {
       "shape": "h1;t-;f3,3;q-;u-;o-;r0",
       "variant": "standard"
     },
-    "manual/part6_mastery/ch24_source_material/04_translation_and_responsibility.md": {
+    "manual/part6_mastery/ch23_source_material/04_translation_and_responsibility.md": {
       "shape": "h1;t-;f3,3;q-;u-;o-;r0",
       "variant": "standard"
     },
@@ -615,7 +590,7 @@
       "variant": "standard"
     },
     "manual/part7_reference/sample_texts.md": {
-      "shape": "h1,2,3,3,3,2,2;t3x2;f11,15,15,11,11,3;q-;u-;o-;r0",
+      "shape": "h1,2,3,3,3,2,2;t3x2;f11,15,15,11,3;q-;u-;o-;r0",
       "variant": "standard"
     },
     "manual/part7_reference/modules/README.md": {
@@ -657,7 +632,7 @@
     "manual/appendices/appendix_a_glossary.md": {
       "shape": "h1,2;t4x70;f-;q-;u-;o-;r0",
       "variant": "glossary",
-      "definition_count": 28
+      "definition_count": 27
     },
     "manual/appendices/appendix_b_natural_languages.md": {
       "shape": "h1,2,2,2,2,2;t-;f-;q-;u-;o-;r0",

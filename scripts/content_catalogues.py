@@ -5,10 +5,10 @@ from pathlib import Path
 
 
 TEXT_METHODS = {
+    "Book in progress",
     "Original",
+    "Refusal",
     "Translation",
-    "Transmutation",
-    "Translation + transmutation",
 }
 
 

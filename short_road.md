@@ -118,7 +118,7 @@ Technical dimensions retain their source notation. The missing unit word is no r
 
 Phi has no words for money, price, or wage, nor verbs meaning pay, buy, or sell. What changes hands can be said through the acts themselves: `loa` (give), `howela` (receive), `phowe` (share), and `wisola` (exchange). A financial source can retain its own terms and figures when speakers need to report, study, or criticise them.
 
-The text shelf puts this refusal to work. In the second chapter of the *News from Nowhere* transmutation, William Morris's time traveler tries to tip his boatman:
+The text shelf puts this refusal to work. In the second chapter of the current Phi *News from Nowhere*, William Morris's time traveler tries to tip his boatman:
 
 ```
 thelao mia muo wethalu manuwe to sepho. mia sha wia. sho to haolu.
@@ -126,7 +126,7 @@ CONS 1SG INTO garment hand PST send. 1SG QUOT.COMP how many. QUOT.COMP.CLOSE PST
 (So I put my hand into my garment, and said, "How many?")
 ```
 
-Morris wrote "How much?" Phi's `wia.` means "how many", but the sentence supplies nothing to count. The boatman guesses that the stranger means the tide. This is a transmutation rather than a close translation: Morris supplies the moneyless society, Phi's lexical refusal reshapes the question, and the misunderstanding survives.
+Morris wrote "How much?" Phi's `wia.` means "how many", but the sentence supplies nothing to count. The boatman guesses that the stranger means the tide. The current rendering changes Morris's context-laden question, and its chapter records that departure: Morris supplies the moneyless society, Phi's lexical refusal reshapes the question, and the misunderstanding survives.
 
 ## Meanings can stay in view
 
@@ -142,13 +142,13 @@ Two conversion rules widen the vocabulary without changing a word's shape. A ver
 
 A content-word name retains its lexical association. A new onym can identify a person, place, work, or other referent without acquiring a shared dictionary gloss. In either case, Phi says aloud that the next form is a name.
 
-## Three ways through a text
+## Three relationships to a text
 
-The shelf distinguishes translation from transmutation when another work supplies the source. A close translation remains answerable to the source's claims and distinctions while using Phi grammar. A transmutation permits the work to change under Phi's five pillars, and its notes must say where it did so.
+A translation remains answerable to the source's claims and distinctions while using Phi grammar. It may need a description, a compound, or a new word, but Phi's five pillars do not grant permission to improve another writer.
 
-*The North Wind and the Sun*, Article 1, Babel, and the Heart Sutra are close translations. The Ring Verse refusal and the opening chapters of *News from Nowhere* are transmutations, each answerable for the distance it places between itself and the source. The Metta Sutta and *A Solarpunk Manifesto* also stay close to what they translate. The shelf catalogue holds the rest.
+*The North Wind and the Sun*, Article 1, Babel, the Heart Sutra, the Metta Sutta, and *A Solarpunk Manifesto* are translations. The Ring Verse is something else: Tolkien's words remain visible, and Phi answers them with a refusal that makes no claim to be Tolkien's meaning. *News from Nowhere* keeps its current chapter-by-chapter source account in a separate book section while that rendering awaits review.
 
-***theama weno kawhera kelu*** (*When Care Becomes Coercion*) takes the other direction. Phi supplies the dialogue, and English reads it afterward. Two friends reach a practical boundary without solving the whole argument. The open window contributes less.
+***theama weno kawhera kelu*** (*When Care Becomes Coercion*) begins in Phi, and English reads it afterward. Two friends reach a practical boundary without solving the whole argument. The open window contributes less.
 
 ## Where the choices come from
 

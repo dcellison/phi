@@ -6,7 +6,7 @@ A neighbor hands you a slip of paper: `nitrate: 18 mg/L`. The number matters exa
 
 Phi sentences contain canonical vocabulary, ordinary grammar, transparent expressions, module terms, and valid Phi-form names. Foreign wording, exact records, other scripts, formulas, identifiers, legal clauses, medical data, citations, and quotations remain beside Phi in the surrounding medium.
 
-This pamphlet practices four decisions: use Phi vocabulary, compose a clear expression, use a bearer-approved name after `ne`, or preserve a source artifact separately. It also practices translation without pretending that a translation is the source. It assumes the naming charter, which has a pamphlet of its own, and is a companion to manual Part VI, chapter 24.
+This pamphlet practices four decisions: use Phi vocabulary, compose a clear expression, use a bearer-approved name after `ne`, or preserve a source artifact separately. It also practices translation without pretending that a translation is the source. It assumes the naming charter, which has a pamphlet of its own, and is a companion to manual Part VI, chapter 23.
 
 ---
 

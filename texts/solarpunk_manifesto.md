@@ -1,6 +1,6 @@
 # sileta kenua wireo moenu lo sherewa: A Solarpunk Manifesto
 
-*The Solarpunk Community published this manifesto in 2019 as a shared account of the movement's hopes, politics, aesthetics, and practical direction. This page gives all five opening paragraphs and all 22 propositions a close Phi translation. The ground truth is the English witness in `texts/sources/solarpunk_manifesto.txt`, preserved from the maintained community mirror.*
+*The Solarpunk Community published this manifesto in 2019 as a shared account of the movement's hopes, politics, aesthetics, and practical direction. This page gives all five opening paragraphs and all 22 propositions a Phi translation. The ground truth is the English witness in `texts/sources/solarpunk_manifesto.txt`, preserved from the maintained community mirror.*
 
 *Solarpunk is the movement's own name. No relevant community has accepted a Phi-form onym for it, so the source name stays in the English lines. The Phi passage uses `sileta kenua wireo moenu`, solar-energy future culture, as a transparent description rather than a substitute name. Political and cultural labels receive the same treatment: the source keeps each exact term, while Phi states as much of its meaning as the present lexicon can carry.*
 

@@ -6,9 +6,9 @@
 
 ---
 
-## Close translation
+## Translation
 
-The source leans on shearing, not cutting in general. Ecological and Work `mophiku` names the removal of an animal's fleece by cutting; `kati` alone would leave the removal unsaid. Base `tupeka` keeps the great load with its living bearer, and base `phesari` keeps escape apart from ordinary departure. Commons `phenori` gives the close rendering a practical relation inside Schleicher's title "master," while the exact title remains in the English witness.
+The source leans on shearing, not cutting in general. Ecological and Work `mophiku` names the removal of an animal's fleece by cutting; `kati` alone would leave the removal unsaid. Base `tupeka` keeps the great load with its living bearer, and base `phesari` keeps escape apart from ordinary departure. Commons `phenori` gives the translation a practical relation inside Schleicher's title "master," while the exact title remains in the English witness.
 
 ### The sheep sees
 

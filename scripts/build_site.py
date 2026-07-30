@@ -468,7 +468,7 @@ SHORT_ROAD_SECTION_TITLES = (
     "The question with nothing to count",
     "Meanings can stay in view",
     "A name announces itself",
-    "Three ways through a text",
+    "Three relationships to a text",
     "Where the choices come from",
     "The door",
 )
@@ -3547,7 +3547,7 @@ book_readme = re.sub(
 )
 print(f"wrote build/site/book/: {len(book_chapters)} chapters + contents")
 
-# ---- the texts: translated, transmuted, and original literature rendered to build/site/texts/ ----
+# ---- the texts: translations, originals, and refusals rendered to build/site/texts/ ----
 
 PHI_WORDS = {e["word"] for e in entries}
 
@@ -3625,10 +3625,8 @@ def load_texts_editorial():
             raise ValueError(f"invalid texts editorial source: {repo_path}")
         form = treatment.get("form")
         form_fields = {
-            "paired": set(),
-            "collection": {"reading_map"},
             "translation": set(),
-            "transmutation": set(),
+            "refusal": set(),
             "original": {
                 "dialogue_blocks",
                 "dialogue_speakers",
@@ -3653,10 +3651,8 @@ def load_texts_editorial():
             raise ValueError(f"unknown texts editorial motif: {treatment['motif']}")
         work = catalogued[repo_path]
         expected_method = {
-            "paired": "Translation + transmutation",
-            "collection": "Translation + transmutation",
             "translation": "Translation",
-            "transmutation": "Transmutation",
+            "refusal": "Refusal",
             "original": "Original",
             "essay": "Original",
         }[form]
@@ -3689,9 +3685,7 @@ def load_texts_editorial():
         section_kinds = {
             "translation",
             "translation_detail",
-            "transmutation",
-            "comparison",
-            "collection_detail",
+            "refusal",
             "complete",
             "apparatus",
             "context",
@@ -3723,18 +3717,7 @@ def load_texts_editorial():
         ]
         major_kinds = [section["kind"] for section in major_sections]
         expected_kinds = {
-            "paired": ["translation", "transmutation", "comparison"],
-            "collection": [
-                "transmutation",
-                "translation",
-                "transmutation",
-                "comparison",
-                "transmutation",
-                "translation",
-                "transmutation",
-                "comparison",
-                "collection_detail",
-            ],
+            "refusal": ["context", "refusal", "apparatus"],
             "original": ["dialogue", "record", "record", "pillars"],
             "essay": ["essay", "record", "record", "pillars"],
         }
@@ -3764,33 +3747,6 @@ def load_texts_editorial():
                 raise ValueError(
                     "translation-only editorial sections must contain one or "
                     f"more translations, one complete reading, and apparatus: {repo_path}"
-                )
-        if form == "transmutation":
-            if "transmutation" not in major_kinds or "apparatus" not in major_kinds:
-                raise ValueError(
-                    "transmutation-only editorial sections require a rendering "
-                    f"and apparatus: {repo_path}"
-                )
-            first_transmutation = major_kinds.index("transmutation")
-            first_apparatus = major_kinds.index("apparatus")
-            if (
-                first_apparatus <= first_transmutation
-                or any(
-                    kind != "context"
-                    for kind in major_kinds[:first_transmutation]
-                )
-                or any(
-                    kind != "transmutation"
-                    for kind in major_kinds[first_transmutation:first_apparatus]
-                )
-                or any(
-                    kind != "apparatus"
-                    for kind in major_kinds[first_apparatus:]
-                )
-            ):
-                raise ValueError(
-                    "transmutation-only editorial sections must keep context "
-                    f"before renderings and apparatus after them: {repo_path}"
                 )
         if form == "original":
             if any(
@@ -3874,30 +3830,6 @@ def load_texts_editorial():
                 raise ValueError(
                     f"invalid essay editorial structure: {repo_path}"
                 )
-        if form == "collection":
-            reading_map = treatment["reading_map"]
-            reading_map_fields = {"label", "method", "target"}
-            section_titles = {section["title"] for section in sections}
-            if (
-                not isinstance(reading_map, list)
-                or len(reading_map) < 2
-                or any(
-                    not isinstance(item, dict)
-                    or set(item) != reading_map_fields
-                    or any(
-                        not isinstance(item[field], str) or not item[field]
-                        for field in reading_map_fields
-                    )
-                    or item["target"] not in section_titles
-                    for item in reading_map
-                )
-                or len({item["label"] for item in reading_map}) != len(reading_map)
-                or len({item["target"] for item in reading_map}) != len(reading_map)
-            ):
-                raise ValueError(
-                    f"texts editorial reading map differs from the source: "
-                    f"{repo_path}"
-                )
         for field in (
             "opening_paragraphs",
             "interlinear_blocks",
@@ -3958,7 +3890,7 @@ def load_news_editorial():
     english_title = book["english_title"]
     if (
         book["path"] != repo_path
-        or NEWS_WORK["method"] != "Transmutation"
+        or NEWS_WORK["method"] != "Book in progress"
         or not isinstance(phi_title, str)
         or not is_current_phi(phi_title)
         or not isinstance(english_title, str)
@@ -4200,14 +4132,10 @@ def text_section_icon(kind):
             '<path d="M21 6H3"/><path d="M15 12H3"/>'
             '<path d="M17 18H3"/>'
         ),
-        "transmutation": (
+        "refusal": (
             '<path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2'
             'c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10Z"/>'
             '<path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"/>'
-        ),
-        "comparison": (
-            '<path d="M8 3 4 7l4 4"/><path d="M4 7h16"/>'
-            '<path d="m16 21 4-4-4-4"/><path d="M20 17H4"/>'
         ),
         "collection_detail": (
             '<path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/>'
@@ -4273,14 +4201,14 @@ def text_heading_slug(title):
 
 def text_reading_map(treatment):
     """Build the reading map shown before a treated literary work."""
-    automatic_forms = {"paired", "translation", "transmutation", "original", "essay"}
+    automatic_forms = {"translation", "refusal", "original", "essay"}
     if treatment["form"] in automatic_forms:
         map_items = [
             {
                 "label": (
                     section["title"].split(" — ", 1)[1]
                     if (
-                        treatment["form"] == "transmutation"
+                        treatment["form"] == "refusal"
                         and " — " in section["title"]
                         and is_current_phi(section["title"].split(" — ", 1)[0])
                     )
@@ -4866,15 +4794,7 @@ def text_method_heading(title, kind, form, sequence_number=None):
     """Build a major method heading with its nonverbal mark."""
     kind_class = kind.replace("_", "-")
     heading = html_module.escape(title)
-    if form == "collection" and kind != "collection_detail" and ": " in title:
-        teaching, method = title.split(": ", 1)
-        heading = (
-            '<span class="text-heading-copy">'
-            f'<span class="text-teaching-name">{html_module.escape(teaching)}:</span> '
-            f'<span class="text-rendering-kind">{html_module.escape(method)}</span>'
-            "</span>"
-        )
-    elif form == "transmutation" and " — " in title:
+    if form == "refusal" and " — " in title:
         phi, english = title.split(" — ", 1)
         if is_current_phi(phi):
             heading = (
@@ -4919,20 +4839,10 @@ def apply_text_editorial(body, source, repo_path, treatment):
         if len(english_title) > 44
         else ""
     )
-    if treatment["form"] == "paired":
-        method_label = (
-            '<span>Translation</span><span aria-hidden="true">+</span>'
-            '<span>transmutation</span>'
-        )
-    elif treatment["form"] == "collection":
-        method_label = (
-            '<span>Transmutations</span><span aria-hidden="true">+</span>'
-            '<span>paired teaching</span>'
-        )
-    elif treatment["form"] == "translation":
+    if treatment["form"] == "translation":
         method_label = '<span>Translation</span>'
-    elif treatment["form"] == "transmutation":
-        method_label = '<span>Transmutation</span>'
+    elif treatment["form"] == "refusal":
+        method_label = '<span>Refusal</span>'
     else:
         method_label = '<span>Original</span>'
     header = f"""
@@ -5022,19 +4932,19 @@ def apply_text_editorial(body, source, repo_path, treatment):
         if section["kind"] != "translation_detail"
     ]
     markers = []
-    transmutation_total = sum(
-        section["kind"] == "transmutation"
+    refusal_total = sum(
+        section["kind"] == "refusal"
         for section in major_sections
     )
-    transmutation_index = 0
+    refusal_index = 0
     for section in major_sections:
         title = section["title"]
         kind = section["kind"]
         sequence_number = None
-        if kind == "transmutation":
-            transmutation_index += 1
-            if treatment["form"] == "transmutation" and transmutation_total > 1:
-                sequence_number = transmutation_index
+        if kind == "refusal":
+            refusal_index += 1
+            if treatment["form"] == "refusal" and refusal_total > 1:
+                sequence_number = refusal_index
         original = f"<h2>{html_module.escape(title, quote=False)}</h2>"
         if body.count(original) != 1:
             raise ValueError(
@@ -5057,12 +4967,10 @@ def apply_text_editorial(body, source, repo_path, treatment):
         end = positions[index + 1] if index + 1 < len(positions) else len(body)
         section = body[positions[index]:end]
         section = re.sub(r"\s*<hr>\s*$", "", section)
-        if kind in {"translation", "transmutation"}:
+        if kind in {"translation", "refusal"}:
             class_name = f"text-rendering text-{kind}"
         elif kind == "context":
             class_name = "text-context"
-        elif kind == "comparison":
-            class_name = "text-comparison"
         elif kind == "complete":
             class_name = "text-complete-section"
         elif kind == "apparatus":
@@ -5076,7 +4984,7 @@ def apply_text_editorial(body, source, repo_path, treatment):
         elif kind == "pillars":
             class_name = "text-pillars-section"
         else:
-            class_name = "text-collection-detail"
+            raise ValueError(f"unhandled texts editorial section kind: {kind}")
         sections.append(f'<section class="{class_name}">{section}</section>')
     body = prefix + "".join(sections)
     if body.count("<hr>") != treatment["inner_dividers"]:
@@ -5200,7 +5108,7 @@ def texts_page(
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Phi literature in translation, transmutation, and original composition, from the Metta Sutta to News from Nowhere.">
+<meta name="description" content="Phi literature in translation, original composition, and refusal, from the Metta Sutta to News from Nowhere.">
 <title>Phi texts &mdash; {title}</title>
 <script src="{root_prefix}theme.js"></script>
 <script src="{root_prefix}reader.js" defer></script>
@@ -5212,7 +5120,7 @@ def texts_page(
 {content}
 </main>
 <footer>
-  <p>Each work identifies itself as a translation, transmutation, or original Phi composition. Source witnesses, where a work has one, live with the texts in <a href="https://github.com/dcellison/phi/tree/main/texts">the repository</a>. The site renders them at build time.
+  <p>Each work identifies its relationship to a source. Source witnesses, where a work has one, live with the texts in <a href="https://github.com/dcellison/phi/tree/main/texts">the repository</a>. The site renders them at build time.
      The <a href="{root_prefix}colophon.html">colophon</a> records how Phi is made.</p>
 </footer>
 </body>
@@ -5499,7 +5407,7 @@ def apply_news_chapter_editorial(body, source, chapter, book):
             "marker": text_method_heading(
                 chapter["apparatus"],
                 "apparatus",
-                "transmutation",
+                "news",
             ),
         }
     )
@@ -5750,24 +5658,13 @@ TEXT_CONTENTS_METHODS = (
         ),
     },
     {
-        "method": "Transmutation",
-        "label": "Transmutation",
-        "kind": "transmutation",
-        "icon": "transmutation",
+        "method": "Refusal",
+        "label": "Refusal",
+        "kind": "refusal",
+        "icon": "refusal",
         "description": (
-            "A transmutation may reshape a source under Phi's five pillars. "
-            "Its citations and gap log keep the distance visible."
-        ),
-    },
-    {
-        "method": "Translation + transmutation",
-        "label": "Paired renderings",
-        "kind": "paired",
-        "icon": "comparison",
-        "description": (
-            "Paired renderings place a translation beside a transmutation. "
-            "Their differences show what stayed near the source and what "
-            "changed under Phi."
+            "A refusal answers a source without claiming to translate it. "
+            "The source remains visible beside Phi's answer."
         ),
     },
     {
@@ -5822,8 +5719,7 @@ def text_collection_index(readme_source, collection, works):
     collection_path = collection["path"]
     collection_method = {
         "Translation": "Translations",
-        "Transmutation": "Transmutations",
-        "Translation + transmutation": "Translations and transmutations",
+        "Refusal": "Refusals",
         "Original": "Original Phi works",
     }[collection["method"]]
     body = md_to_html(readme_source)
@@ -6034,7 +5930,10 @@ def text_contents_page(news_chapter_count):
         for spec in TEXT_CONTENTS_METHODS
     }
     all_works = [*TEXTS, *COLLECTION_TEXTS, NEWS_WORK]
-    if any(work["method"] not in method_specs for work in all_works):
+    if any(
+        work["method"] not in method_specs
+        for work in [*TEXTS, *COLLECTION_TEXTS]
+    ):
         raise ValueError("texts contents contain an unknown catalogue method")
 
     method_key = []
@@ -6119,7 +6018,6 @@ def text_contents_page(news_chapter_count):
         "</section>"
     )
 
-    news_spec = method_specs[NEWS_WORK["method"]]
     news_phi, news_english = text_contents_title(NEWS_WORK)
     chapter_noun = "chapter" if news_chapter_count == 1 else "chapters"
     book_entry = (
@@ -6142,8 +6040,7 @@ def text_contents_page(news_chapter_count):
         f'{html_module.escape(NEWS_WORK["summary"])}</p>'
         "</div>"
         '<div class="text-index-entry-meta">'
-        f'<p class="text-index-entry-method">'
-        f'{html_module.escape(news_spec["label"])}</p>'
+        '<p class="text-index-entry-method">Book in progress</p>'
         f'<p class="text-index-book-progress">{news_chapter_count:02d} '
         f"{chapter_noun} available</p>"
         "</div>"
@@ -6161,8 +6058,8 @@ def text_contents_page(news_chapter_count):
         "<h1>The texts</h1>"
         '<p class="text-index-lede">This shelf holds work written in Phi and '
         "work brought into it. Each page says what it owes to a source. A "
-        "translation carries its source; a transmutation openly recasts it, "
-        "and original work begins in Phi.</p>"
+        "translation carries its source, original work begins in Phi, and a "
+        "refusal answers a source without calling itself a translation.</p>"
         f'{texts_motif("words_seed")}'
         "</div>"
         "</header>"
