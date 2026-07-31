@@ -57,7 +57,7 @@
         "file": "chapter_02.md",
         "number": 2,
         "title": "A Morning Bath",
-        "method": "Transmutation",
+        "method": "Translation",
         "summary": "Summer arrives overnight, and the Thames is suddenly fit for a swim. The traveller meets a waterman there; a handful of old coins soon reveals that ordinary exchange no longer follows the rules he knows.",
         "movements": [
           {
@@ -98,16 +98,18 @@
           },
           {
             "level": 2,
-            "title": "ne selomi — The weaver"
+            "title": "selomi miona — The weaver"
           }
         ],
-        "apparatus": "What the transmutation changed",
+        "apparatus": "Translation limits",
         "opening_paragraphs": 2,
         "interlinear_blocks": 12,
         "interlinear_stanzas": 235,
         "notes": 12,
-        "tables": 0,
-        "ledger_rows": [],
+        "tables": 1,
+        "ledger_rows": [
+          6
+        ],
         "inner_dividers": 1
       },
       {
