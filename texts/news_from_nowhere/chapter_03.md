@@ -405,9 +405,9 @@ morris: "but I was born and bred on the edge of Epping Forest; Walthamstow and W
 ## shelira — The forest
 
 ```
-ne kulo muo haolu to pukate. shia sha ra lokue we mioru nai. sho to haolu.
-NAME kulo INTO speak PST break. 3SG QUOT.COMP DIST place ALSO beautiful be. QUOT.COMP.CLOSE PST speak.
-(Guide broke into the talk. "That place is beautiful too," he said.)
+ne kulo muo haolu to reshi koema. shia sha ra lokue we mioru nai. sho to haolu.
+NAME kulo INTO speak PST fast enter. 3SG QUOT.COMP DIST place ALSO beautiful be. QUOT.COMP.CLOSE PST speak.
+(Guide came swiftly into the talk. "That place is beautiful too," he said.)
 morris: "\"A pretty place, too,\" broke in Dick;"
 
 ra ru loshi lokue nai. lao pheo sheloi womu leiro lo shiro ruloi thimu to ki phelu.
@@ -1023,9 +1023,9 @@ mia phina thilou phelu. thelao mia tha thia wei mia lonae ma naweri tho ho remo.
 (I have a few questions, and I daresay you would not mind answering me. You see.)
 morris: "So I daresay you would not mind answering me a few questions; for you see--\""
 
-mua ha ne kulo muo haolu to pukate. tua. pi kona ne solai. no ha nosa leiro.
-LOC PROX NAME kulo INTO speak PST break. no. POL VOC NAME solai. IMP PROX now release.
-(Here Guide broke in: "No. Please, Gold! Let it alone for the present.")
+mua ha ne kulo muo haolu to reshi koema. tua. pi kona ne solai. no ha nosa leiro.
+LOC PROX NAME kulo INTO speak PST fast enter. no. POL VOC NAME solai. IMP PROX now release.
+(Here Guide came swiftly into the talk: "No. Please, Gold! Let it alone for the present.")
 morris: "Here Dick broke in: \"No, please, Boffin! let it alone for the present."
 
 thia tha phemi siora nela therilu phelu tho rinu. ha nuwi nai.
