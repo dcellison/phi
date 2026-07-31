@@ -124,9 +124,9 @@ PROX REL PL 1SG TOWARD go forest portion garden name hold.
 (The part of the forest we are approaching holds the name Gardens.)
 morris: "This part we are just coming to is called Kensington Gardens;"
 
-ne kulo sha whekai mia pha ha shelira phanoi misa thepalu nomei phelu pho ma sano sho to haolu.
-NAME kulo QUOT.COMP CONTR 1SG INT.COMP PROX forest portion why garden name hold INT.COMP.CLOSE NEG know QUOT.COMP.CLOSE PST speak.
-(Guide finished, "But why, I do not know.")
+whekai mia pha ha shelira phanoi misa thepalu nomei phelu pho ma sano.
+CONTR 1SG INT.COMP PROX forest portion why garden name hold INT.COMP.CLOSE NEG know.
+(But why, I do not know.)
 morris: "though why 'gardens' I don't know.\""
 
 mia tha mia sha ko mia sano sho haolu tho to la wilao.
@@ -420,9 +420,9 @@ CONC 2SG PL 3SG NEG utter 2SG PL 3SG think.
 (Though you do not utter them, you think them.)
 morris: "which you are thinking, even if you are not speaking them out;"
 
-ne kulo sha whekai mia lumani miona wei thia ha so mo solae sho to haolu.
-NAME kulo QUOT.COMP CONTR 1SG family person DAT 2SG PROX FUT CMPR explain QUOT.COMP.CLOSE PST speak.
-(But my kinsman will explain more of this to you.")
+whekai mia lumani miona wei thia ha so mo solae.
+CONTR 1SG family person DAT 2SG PROX FUT CMPR explain.
+(But my kinsman will explain more of this to you.)
 morris: "but my kinsman will tell you more about it.\""
 ```
 
@@ -622,9 +622,9 @@ mia sha whekai lo shia remo thela se thumela sho to thilou.
 (I asked, "But how are their minds taught?")
 morris: "\"Yes, but their mental education,"
 
-mia sha mia lo shia remo thumela reo phelu sho to haolu.
-1SG QUOT.COMP 1SG PL 3SG think teach meaning hold QUOT.COMP.CLOSE PST speak.
-(I said, "I mean the teaching of their minds.")
+mia lo shia remo thumela reo phelu.
+1SG PL 3SG think teach meaning hold.
+(I mean the teaching of their minds.)
 morris: "the teaching of their minds,\" said I,"
 
 mia ha phelui to phena solae.
@@ -732,9 +732,9 @@ BECAUSE PROX write concept DAT 1SG interested be 1SG PFV wander. POL IMP 1SG for
 (Because the subject of writing interests me, I have wandered. Please forgive me.)
 morris: "but you must excuse me, for I am interested in this matter of writing,"
 
-ne kulo sha sheno mia po mioru thekiro sho to haolu.
-NAME kulo QUOT.COMP ADD 1SG POT beautiful write QUOT.COMP.CLOSE PST speak.
-(Guide finished, "And I can write a fair hand myself.")
+sheno mia po mioru thekiro.
+ADD 1SG POT beautiful write.
+(And I can write a fair hand myself.)
 morris: "being myself a fair-writer.\""
 ```
 
@@ -868,9 +868,9 @@ mia sha lo shia phirae hina shonela sho to thilou.
 (I asked, "What else do they learn?")
 morris: "\"what else do they learn?"
 
-mia sha theula shia lo luera nophi ke ma shonela sho to haolu.
-1SG QUOT.COMP UNIV 3SG PL past story INFER NEG learn QUOT.COMP.CLOSE PST speak.
-(I said, "I suppose they do not all learn history.")
+theula shia lo luera nophi ke ma shonela.
+UNIV 3SG PL past story INFER NEG learn.
+(I suppose they do not all learn history.)
 morris: "I suppose they don't all learn history?\""
 
 ne kulo sha tua. tua sho to haolu.
@@ -923,9 +923,9 @@ mia pha ha welao nai pho ma sano.
 (I do not know whether that is good.)
 morris: "if that be good;"
 
-sheno soli miona phea whu mia tha mua ra selomi miona nai tho to hea melu nai.
-ADD SOME person AS REL 1SG DECL.COMP LOC DIST weave person be DECL.COMP.CLOSE PST hear friend be.
-(And some people are like a friend whom I heard was a weaver there.)
+sheno soli miona phea whu mia roa ra ki hea melu ne selomi nai.
+ADD SOME person AS REL 1SG AROUND DIST PFV hear friend NAME selomi be.
+(And some people are like my friend Weaver yonder, of whom you have heard.)
 morris: "and some, as you heard about friend Bob yonder,"
 
 lo shia wei tawi remo sheloi thimu ro loa.
@@ -1089,9 +1089,9 @@ PL 3SG UNIV person INTS eager teach. PL 3SG UNIV REL know HAB share.
 (They are eager to teach everyone and share all that they know.)
 morris: "and at the same time so anxious to teach everybody all that they know."
 
-shia sha mia lo whu ki haromi thunai ru kaeli sho to haolu.
-3SG QUOT.COMP 1SG PL REL PFV meet student INTS like QUOT.COMP.CLOSE PST speak.
-(He finished, "I like the students I have met enormously.")
+mia lo whu ki haromi thunai ru kaeli.
+1SG PL REL PFV meet student INTS like.
+(I like the students I have met enormously.)
 morris: "Really, I like those that I have met prodigiously.\""
 
 ha haolu wei mia ru kuewa to ke nai.
@@ -1200,9 +1200,9 @@ mia sha ra lo tholua karami lorima nai sho to haolu.
 (I exclaimed, "There are the old buildings of authority.")
 morris: "\"Why, there are the Houses of Parliament!"
 
-mia sha wa lo shia nosa kelitho phelu sho to thilou.
-1SG QUOT.COMP Q PL 3SG now function hold QUOT.COMP.CLOSE PST inquire.
-(I asked, "Do they still have a function?")
+wa lo shia nosa kelitho phelu.
+Q PL 3SG now function hold.
+(Do they still have a function?)
 morris: "Do you still use them?\""
 
 ne kulo to pa ru hola.
@@ -1255,9 +1255,9 @@ shia sha lo shia porua phelu sho roe kapura to haolu.
 (He cried, "They have a use!")
 morris: "Use them!"
 
-shia sha lia. lo shia phea thiku wisola lokue ro nai sho to haolu.
-3SG QUOT.COMP yes. PL 3SG AS small exchange place HAB be QUOT.COMP.CLOSE PST speak.
-(He said, "Yes. They are used as a smaller exchange-place.")
+lia. lo shia phea thiku wisola lokue ro nai.
+yes. PL 3SG AS small exchange place HAB be.
+(Yes. They are used as a smaller exchange-place.)
 morris: "Well, yes, they are used for a sort of subsidiary market,"
 
 lo shia nolika mokathi phelure lokue we ro nai.
@@ -1405,9 +1405,9 @@ BECAUSE 1SG NONE end DAT PROX labor see 1SG DECL.COMP PL person energy DAT PROX 
 (Because I can see no end to the work in that direction, I do think human energy is chiefly suited to it.)
 morris: "and indeed I _do_ think that the energies of mankind are chiefly of use to them for such work; for in that direction I can see no end to the work,"
 
-ne kulo sha whekai wei sheloi phirae riola mia tha norui po nai tho nila sho to haolu.
-NAME kulo QUOT.COMP CONTR DAT MANY different labor 1SG DECL.COMP boundary POT be DECL.COMP.CLOSE see QUOT.COMP.CLOSE PST speak.
-(Guide finished, "But in many other kinds of work I can see a possible limit.")
+whekai wei sheloi phirae riola mia tha norui po nai tho nila.
+CONTR DAT MANY different labor 1SG DECL.COMP boundary POT be DECL.COMP.CLOSE see.
+(But in many other kinds of work I can see a possible limit.)
 morris: "while in many others a limit does seem possible.\""
 ```
 
@@ -1425,7 +1425,8 @@ morris: "while in many others a limit does seem possible.\""
 | Oak, sweet chestnut, plane, sycamore, and bracken | `pilomu` names the sycamore and `phero` the fern. The remaining species keep their exact identities in Morris. |
 | Plaster, arcade, cottages, gipsy fashion, and the named forests | Phi gives another building material, a roof on stone arch-shapes, small homes with an old name, temporary shelters, and two source-named forests. Morris supplies the precise labels. |
 | School, education, Latin *educere*, and the herring and painting senses | Phi refers to the source word, carries each stated meaning, and describes the institution as a teaching system. The English and Latin forms remain in Morris's wording. |
-| French, German, English, Welsh, Irish, Latin, Greek, and Bob | Their identities stay in the source. Phi describes their relations and refers to Bob through the weaver role established earlier. |
+| French, German, English, Welsh, Irish, Latin, and Greek | Their identities stay in the source, and Phi describes their relations. |
+| Bob | The weaver keeps the onym he was given at the guest house, `ne selomi`, with the exact name in Morris's line. |
 | Boys, girls, lads, men, slaves, fools, knaves, and great-grandfather | Phi uses children, youths, adults, people denied freedom, described conduct, and the three-generation kinship chain. Morris's categories remain visible beside it. |
 | Six, eight, sixteen, seventeen, four, fifteen, twenty, fifty, and more than one hundred years | Every count used in the argument appears directly in Phi ternary numerals. None is replaced with a vague duration. |
 | Westminster Abbey, the Houses of Parliament, and St Paul's | Morris keeps the names. Phi describes the building forms, former authority, present functions, preservation, and public use. |

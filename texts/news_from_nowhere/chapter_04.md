@@ -302,14 +302,14 @@ mia sha lao mia ha nuwi nila mia lila pha ha wisola lokue nai pho thilou ralu na
 (I said, "Because I see this clearly, I need not ask whether this is an exchange-place.")
 morris: "I said, \"I need not ask if this is a market, for I see clearly that it is;"
 
-mia sha whekai ha hina wisola lokue nai. shia misa ru waora nai sho to haolu.
-1SG QUOT.COMP CONTR PROX what exchange place be. 3SG why INTS wondrous be QUOT.COMP.CLOSE PST speak.
-(I said, "But what exchange-place is this? Why is it so wondrous?")
+whekai ha hina wisola lokue nai. shia misa ru waora nai.
+CONTR PROX what exchange place be. 3SG why INTS wondrous be.
+(But what exchange-place is this? Why is it so wondrous?)
 morris: "but what market is it that it is so splendid?"
 
-mia sha ra ru waora whalo lona lokue hina nai. ronua ruela phanoi lorima hina nai sho to haolu.
-1SG QUOT.COMP DIST INTS wondrous large meeting place what be. south path portion build what be QUOT.COMP.CLOSE PST speak.
-(I said, "What is that glorious great hall, and what is the building on the south side of the road?")
+ra ru waora whalo lona lokue hina nai. ronua ruela phanoi lorima hina nai.
+DIST INTS wondrous large meeting place what be. south path portion build what be.
+(What is that glorious great hall, and what is the building on the south side of the road?)
 morris: "And what is the glorious hall there, and what is the building on the south side?\""
 
 ne kulo sha li ha lo mia wisola lokue nai sho to haolu.
@@ -317,34 +317,34 @@ NAME kulo QUOT.COMP RESTR PROX PL 1SG exchange place be QUOT.COMP.CLOSE PST spea
 (Guide said, "This is only our exchange-place.")
 morris: "\"O,\" said he, \"it is just our Hammersmith market;"
 
-ne kulo sha lao lo mia ru thoru nai mia tha thia shia ru kaeli tho ru siora nai sho to haolu.
-NAME kulo QUOT.COMP BECAUSE PL 1SG INTS proud be 1SG DECL.COMP 2SG 3SG INTS like DECL.COMP.CLOSE INTS joy be QUOT.COMP.CLOSE PST speak.
-(Guide said, "Because we are very proud of it, I am very glad that you like it so much.")
+lao lo mia ru thoru nai mia tha thia shia ru kaeli tho ru siora nai.
+BECAUSE PL 1SG INTS proud be 1SG DECL.COMP 2SG 3SG INTS like DECL.COMP.CLOSE INTS joy be.
+(Because we are very proud of it, I am very glad that you like it so much.)
 morris: "and I am glad you like it so much, for we are really proud of it."
 
-ne kulo sha ha lorima muwi lo mia shila lona lokue nai sho to haolu.
-NAME kulo QUOT.COMP PROX build interior PL 1SG winter meeting place be QUOT.COMP.CLOSE PST speak.
-(Guide said, "The interior of this building is our winter meeting-place.")
+ha lorima muwi lo mia shila lona lokue nai.
+PROX build interior PL 1SG winter meeting place be.
+(The interior of this building is our winter meeting-place.)
 morris: "Of course the hall inside is our winter Mote-House;"
 
-ne kulo sha lo mia shelami shemu mua keloi mua lo kosha sio luphore ro haromi sho to haolu.
-NAME kulo QUOT.COMP PL 1SG MOST moment LOC summer LOC PL field BESIDE river HAB meet QUOT.COMP.CLOSE PST speak.
-(Guide said, "In summer we usually meet in the fields beside the river.")
+lo mia shelami shemu mua keloi mua lo kosha sio luphore ro haromi.
+PL 1SG MOST moment LOC summer LOC PL field BESIDE river HAB meet.
+(In summer we usually meet in the fields beside the river.)
 morris: "for in summer we mostly meet in the fields down by the river"
 
-ne kulo sha luphore thei lo mia nela ra welamu lokue nai sho to haolu.
-NAME kulo QUOT.COMP river BETWEEN PL 1SG COORD DIST elm place be QUOT.COMP.CLOSE PST speak.
-(Guide said, "The river lies between us and that place of elms.")
+luphore thei lo mia nela ra welamu lokue nai.
+river BETWEEN PL 1SG COORD DIST elm place be.
+(The river lies between us and that place of elms.)
 morris: "opposite Barn Elms."
 
-ne kulo sha ha lorima shela wile lokue nai. shia mua lo mia kuri nai sho to haolu.
-NAME kulo QUOT.COMP PROX build art play place be. 3SG LOC PL 1SG right be QUOT.COMP.CLOSE PST speak.
-(Guide said, "This building is the theatre, the art-play place. It is on our right.")
+ha lorima shela wile lokue nai. shia mua lo mia kuri nai.
+PROX build art play place be. 3SG LOC PL 1SG right be.
+(This building is the theatre, the art-play place. It is on our right.)
 morris: "The building on our right hand is our theatre:"
 
-ne kulo sha mia tha thia shia kaeli tho soliru sho to haolu.
-NAME kulo QUOT.COMP 1SG DECL.COMP 2SG 3SG like DECL.COMP.CLOSE hope QUOT.COMP.CLOSE PST speak.
-(Guide said, "I hope you like it.")
+mia tha thia shia kaeli tho soliru.
+1SG DECL.COMP 2SG 3SG like DECL.COMP.CLOSE hope.
+(I hope you like it.)
 morris: "I hope you like it.\""
 
 mia sha lu he mia shia ma kaeli. mia tawimo nai sho to haolu.
@@ -397,9 +397,9 @@ mia sha wa ha lo whu thoa lo kosha ro menui miona nai sho to haolu.
 (I said, "Are these the people who usually live among the fields?")
 morris: "and said: \"Are these the regular country people?"
 
-mia sha lua. thoa lo shia sheloi ru mioru limu miona nai sho to haolu.
-1SG QUOT.COMP lovely. AMONG PL 3SG MANY INTS beautiful young person be QUOT.COMP.CLOSE PST speak.
-(I said, "Lovely. There are many very beautiful young people among them.")
+lua. thoa lo shia sheloi ru mioru limu miona nai.
+lovely. AMONG PL 3SG MANY INTS beautiful young person be.
+(Lovely. There are many very beautiful young people among them.)
 morris: "What very pretty girls there are amongst them.\""
 
 whau mia to haolu mia ta mioru miona menoa to nila.
@@ -438,7 +438,7 @@ mia sha mia tha mia mua wisola lokue lo whu phea lo kosha miona kire phelu miona
 morris: "\"I ask because I do not see any of the country-looking people I should have expected to see at a market--I mean selling things there.\""
 ```
 
-**Notes:** `wisola lokue` lets Guide call the market ordinary while Guest is still gawping at the roof. The winter Mote-House is the community's meeting hall. In summer the meeting moves to fields beside the river, with Barn Elms carried by chapter 2's `ra welamu lokue`. Theatre becomes `shela wile lokue`, art-play-place, narrow enough to avoid sweeping every gallery and workshop onto the stage. The doors use registered `welotu keluo`, mixed metal, for bronze; bright metal threads set into their surface carry the visible damascening. Guide's blush is small and bodily. Morris's "girls" and "woman" stay in the citations. Phi follows Guest's eye through the person's height, dark hair, white skin, pale-green garment, and kinder smile for Guide. His final question looks for `wisola piru`, traders exchanging things.
+**Notes:** `wisola lokue` lets Guide call the market ordinary while Guest is still gawping at the roof. His whole answer runs under one `sha ... sho`, opened where he starts and closed where he stops. The sentences between it run on, the way a speech does when nobody interrupts to ask who is talking. The winter Mote-House is the community's meeting hall. In summer the meeting moves to fields beside the river, with Barn Elms carried by chapter 2's `ra welamu lokue`. Theatre becomes `shela wile lokue`, art-play-place, narrow enough to avoid sweeping every gallery and workshop onto the stage. The doors use registered `welotu keluo`, mixed metal, for bronze; bright metal threads set into their surface carry the visible damascening. Guide's blush is small and bodily. Morris's "girls" and "woman" stay in the citations. Phi follows Guest's eye through the person's height, dark hair, white skin, pale-green garment, and kinder smile for Guide. His final question looks for `wisola piru`, traders exchanging things.
 
 ## lewonu phewani — The valley neighbours
 
@@ -448,54 +448,54 @@ NAME kulo QUOT.COMP 1SG INT.COMP 2SG what shape person POT see INT.COMP.CLOSE NE
 (Guide said, "I do not understand what sort of people you mean.")
 morris: "\"I don't understand,\" said he, \"what kind of people you would expect to see;"
 
-shia sha mia pha thia kosha miona phelui hina reo pho we ma shelomu sho to haolu.
-3SG QUOT.COMP 1SG INT.COMP 2SG field person word what meaning INT.COMP.CLOSE ALSO NEG understand QUOT.COMP.CLOSE PST speak.
-(Guide said, "I also do not understand what you mean by the words 'country people.'")
+mia pha thia kosha miona phelui hina reo pho we ma shelomu.
+1SG INT.COMP 2SG field person word what meaning INT.COMP.CLOSE ALSO NEG understand.
+(I also do not understand what you mean by the words 'country people.')
 morris: "nor quite what you mean by 'country' people."
 
-shia sha ha lo miona lo mia phewani nai sho to haolu.
-3SG QUOT.COMP PROX PL person PL 1SG neighbor be QUOT.COMP.CLOSE PST speak.
-(Guide said, "These people are our neighbours.")
+ha lo miona lo mia phewani nai.
+PROX PL person PL 1SG neighbor be.
+(These people are our neighbours.)
 morris: "These are the neighbours,"
 
-shia sha mua ha luphore lewonu lo miona phea lo shia nai sho to haolu.
-3SG QUOT.COMP LOC PROX river valley PL person AS PL 3SG be QUOT.COMP.CLOSE PST speak.
-(Guide said, "The people of this river valley are like them.")
+mua ha luphore lewonu lo miona phea lo shia nai.
+LOC PROX river valley PL person AS PL 3SG be.
+(The people of this river valley are like them.)
 morris: "and that like they run in the Thames valley."
 
-shia sha mua ha lo mola soli muila sheo ha lokue mo keloa nai sho to haolu.
-3SG QUOT.COMP LOC PROX PL island SOME earth THAN PROX place CMPR rough be QUOT.COMP.CLOSE PST speak.
-(Guide said, "On these islands, some lands are rougher than this place.")
+mua ha lo mola soli muila sheo ha lokue mo keloa nai.
+LOC PROX PL island SOME earth THAN PROX place CMPR rough be.
+(On these islands, some lands are rougher than this place.)
 morris: "There are parts of these islands which are rougher"
 
-shia sha lo muila sheo ha lokue mo pheralu phelu sho to haolu.
-3SG QUOT.COMP PL earth THAN PROX place CMPR rain hold QUOT.COMP.CLOSE PST speak.
-(Guide said, "Those lands receive more rain than this place.")
+lo muila sheo ha lokue mo pheralu phelu.
+PL earth THAN PROX place CMPR rain hold.
+(Those lands receive more rain than this place.)
 morris: "and rainier than we are here,"
 
-shia sha mua ra lo lokue lo miona mo keloa wethalu ro wenuha sho to haolu.
-3SG QUOT.COMP LOC DIST PL place PL person CMPR rough garment HAB wear QUOT.COMP.CLOSE PST speak.
-(Guide said, "In those places, people usually wear rougher clothes.")
+mua ra lo lokue lo miona mo keloa wethalu ro wenuha.
+LOC DIST PL place PL person CMPR rough garment HAB wear.
+(In those places, people usually wear rougher clothes.)
 morris: "and there people are rougher in their dress;"
 
-shia sha ra lo miona sheo lo mia mo kema kire to nai. lo shia menoa lo howenu kire to phelu sho to haolu.
-3SG QUOT.COMP DIST PL person THAN PL 1SG CMPR strong shape PST be. PL 3SG face PL weather shape PST hold QUOT.COMP.CLOSE PST speak.
-(Guide said, "Those people looked stronger than us, and their faces carried the marks of weather.")
+ra lo miona sheo lo mia mo kema kire to nai. lo shia menoa lo howenu kire to phelu.
+DIST PL person THAN PL 1SG CMPR strong shape PST be. PL 3SG face PL weather shape PST hold.
+(Those people looked stronger than us, and their faces carried the marks of weather.)
 morris: "and they themselves are tougher and more hard-bitten than we are to look at."
 
-shia sha whekai soli miona sheo lo mia kire ra lo miona kire mo kaeli sho to haolu.
-3SG QUOT.COMP CONTR SOME person THAN PL 1SG shape DIST PL person shape CMPR like QUOT.COMP.CLOSE PST speak.
-(Guide said, "But some people prefer their appearance to ours.")
+whekai soli miona sheo lo mia kire ra lo miona kire mo kaeli.
+CONTR SOME person THAN PL 1SG shape DIST PL person shape CMPR like.
+(But some people prefer their appearance to ours.)
 morris: "But some people like their looks better than ours;"
 
-shia sha lo shia tha ra lo menoa mo phirae kire phelu tho shane. ha phelui to nai sho to haolu.
-3SG QUOT.COMP PL 3SG DECL.COMP DIST PL face CMPR different shape hold DECL.COMP.CLOSE tell. PROX word PST be QUOT.COMP.CLOSE PST speak.
-(Guide said, "They say those faces have more distinctive form. That is the word they use.")
+lo shia tha ra lo menoa mo phirae kire phelu tho shane. ha phelui to nai.
+PL 3SG DECL.COMP DIST PL face CMPR different shape hold DECL.COMP.CLOSE tell. PROX word PST be.
+(They say those faces have more distinctive form. That is the word they use.)
 morris: "they say they have more character in them--that's the word."
 
-shia sha ha kaeli thena nai. sheno lo lue ra lokue miona nela lo lue ha lokue miona wiso lumani ro ka kelu. ra lo lumani welao ro nai sho to haolu.
-3SG QUOT.COMP PROX like thing be. ADD PL ABL DIST place person COORD PL ABL PROX place person RECP family HAB CAUS become. DIST PL family good HAB be QUOT.COMP.CLOSE PST speak.
-(Guide said, "It is a matter of liking. Besides, people from there and people from here often form families together. Those families usually turn out well.")
+ha kaeli thena nai. sheno lo lue ra lokue miona nela lo lue ha lokue miona wiso lumani ro ka kelu. ra lo lumani welao ro nai.
+PROX like thing be. ADD PL ABL DIST place person COORD PL ABL PROX place person RECP family HAB CAUS become. DIST PL family good HAB be.
+(It is a matter of liking. Besides, people from there and people from here often form families together. Those families usually turn out well.)
 morris: "Well, it's a matter of taste.--Anyhow, the cross between us and them generally turns out well,\""
 
 ne kulo ha to phenui haolu.
@@ -554,19 +554,19 @@ shia sha tua. ha woeli nai sho to haolu.
 (He said, "No. Naturally.")
 morris: "and said: \"No, naturally;"
 
-shia sha lu miona mokela nai. shia mua womu po manolu sola shia mua thepalu li mulu po thalo sho to haolu.
-3SG QUOT.COMP COND person sick be. 3SG LOC home POT stay DISJ 3SG LOC garden RESTR low POT walk QUOT.COMP.CLOSE PST speak.
-(He said, "If a person is sick, they are likely to stay indoors, or at best walk low in the garden.")
+lu miona mokela nai. shia mua womu po manolu sola shia mua thepalu li mulu po thalo.
+COND person sick be. 3SG LOC home POT stay DISJ 3SG LOC garden RESTR low POT walk.
+(If a person is sick, they are likely to stay indoors, or at best walk low in the garden.)
 morris: "if anybody is poorly, he is likely to be within doors, or at best crawling about the garden:"
 
-shia sha whekai mia tha nosa mawha miona mokela nai tho sano sho to haolu.
-3SG QUOT.COMP CONTR 1SG DECL.COMP now NONE person sick be DECL.COMP.CLOSE know QUOT.COMP.CLOSE PST speak.
-(He said, "But I know of no one who is sick now.")
+whekai mia tha nosa mawha miona mokela nai tho sano.
+CONTR 1SG DECL.COMP now NONE person sick be DECL.COMP.CLOSE know.
+(But I know of no one who is sick now.)
 morris: "but I don't know of any one sick at present."
 
-shia sha thia misa tha thia mua ruela mokela miona so nila tho remo sho to haolu.
-3SG QUOT.COMP 2SG why DECL.COMP 2SG LOC path sick person FUT see DECL.COMP.CLOSE think QUOT.COMP.CLOSE PST speak.
-(He said, "Why do you expect to see sick people on the road?")
+thia misa tha thia mua ruela mokela miona so nila tho remo.
+2SG why DECL.COMP 2SG LOC path sick person FUT see DECL.COMP.CLOSE think.
+(Why do you expect to see sick people on the road?)
 morris: "Why should you expect to see poorly people on the road?\""
 
 mia sha tua. tua. mia mokela miona ma shareo sho to haolu.
@@ -574,14 +574,14 @@ mia sha tua. tua. mia mokela miona ma shareo sho to haolu.
 (I said, "No, no. I am not speaking of sick people.")
 morris: "\"No, no,\" I said; \"I don't mean sick people."
 
-mia sha mia whu henoi panuri ma phelu miona shareo sho to haolu.
-1SG QUOT.COMP 1SG REL ENOUGH resource NEG hold person discuss QUOT.COMP.CLOSE PST speak.
-(I said, "I am speaking of people who do not have enough resources.")
+mia whu henoi panuri ma phelu miona shareo.
+1SG REL ENOUGH resource NEG hold person discuss.
+(I am speaking of people who do not have enough resources.)
 morris: "I mean poor people, you know;"
 
-mia sha mia lo whu keloa wethalu phelu miona shareo sho to haolu.
-1SG QUOT.COMP 1SG PL REL rough garment hold person discuss QUOT.COMP.CLOSE PST speak.
-(I said, "I am speaking of people whose clothes are rough.")
+mia lo whu keloa wethalu phelu miona shareo.
+1SG PL REL rough garment hold person discuss.
+(I am speaking of people whose clothes are rough.)
 morris: "rough people.\""
 
 ne kulo to siora seniku. shia sha tua sho to haolu.
@@ -594,19 +594,19 @@ shia sha mia ma ru sano sho to haolu.
 (He said, "I really do not know.")
 morris: "\"I really do not know."
 
-shia sha ha theloa nai. thia kau mia phao phao phao na reshi wepu sho to haolu.
-3SG QUOT.COMP PROX truth be. 2SG ALL 1SG parent parent parent NEC fast go QUOT.COMP.CLOSE PST speak.
-(He said, "The truth is this: you must come quickly to my great-grandparent.")
+ha theloa nai. thia kau mia phao phao phao na reshi wepu.
+PROX truth be. 2SG ALL 1SG parent parent parent NEC fast go.
+(The truth is this: you must come quickly to my great-grandparent.)
 morris: "The fact is, you must come along quick to my great-grandfather,"
 
-shia sha shia sheo mia thia so mo welao shelomu sho to haolu.
-3SG QUOT.COMP 3SG THAN 1SG 2SG FUT CMPR good understand QUOT.COMP.CLOSE PST speak.
-(He said, "My great-grandparent will understand you better than I do.")
+shia sheo mia thia so mo welao shelomu.
+3SG THAN 1SG 2SG FUT CMPR good understand.
+(My great-grandparent will understand you better than I do.)
 morris: "who will understand you better than I do."
 
-shia sha kona kerou welisha kalora. no wepu sho to haolu.
-3SG QUOT.COMP VOC stone color horse. IMP go QUOT.COMP.CLOSE PST speak.
-(He said, "Come on, grey horse!")
+kona kerou welisha kalora. no wepu.
+VOC stone color horse. IMP go.
+(Come on, grey horse!)
 morris: "Come on, Greylocks!\""
 
 ne kulo lo kalora nira to ka tiripe.
