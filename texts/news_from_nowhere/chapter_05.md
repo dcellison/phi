@@ -677,9 +677,9 @@ ANT PL 3SG one three-group one year hold PL 3SG read HAB learn.
 (Before they are four years old, they generally learn to read.)
 morris: "manage to read by the time they are four years old;"
 
-whekai mia tha ha theula thimu phea nosa to ma nai tho ti shane.
-CONTR 1SG DECL.COMP PROX UNIV time AS now PST NEG be DECL.COMP.CLOSE REP tell.
-(But I am told it was not always as it is now.)
+whekai ha theula thimu phea nosa to ti ma nai.
+CONTR PROX UNIV time AS now PST REP NEG be.
+(But, so I am told, it was not always as it is now.)
 morris: "though I am told it has not always been so."
 
 lo mia tha lo lopia mua wo limu thimu thekiro tho ma panoru.
@@ -1175,8 +1175,8 @@ DIST PL shape DIST build interior blocked PST CAUS become.
 (Those forms had once blocked the building's interior.)
 morris: "which once blocked it up,"
 
-ne kulo sha mia phao phao phao ha ti shane sho to haolu.
-NAME kulo QUOT.COMP 1SG parent parent parent PROX REP tell QUOT.COMP.CLOSE PST speak.
+ne kulo sha mia phao phao phao ha shane sho to haolu.
+NAME kulo QUOT.COMP 1SG parent parent parent PROX tell QUOT.COMP.CLOSE PST speak.
 (Guide finished, "That is what my great-grandparent says.")
 morris: "as great-grandfather says.\""
 
