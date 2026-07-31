@@ -273,7 +273,7 @@
         "file": "chapter_06.md",
         "number": 6,
         "title": "A Little Shopping",
-        "method": "Transmutation",
+        "method": "Translation",
         "summary": "Piccadilly looks reassuringly like a shopping street until the traveller tries to shop. Children answer his questions about money, weight, and payment with gifts; an elder then revives a sharp old satire about idleness, coerced work, and the people once judged unfit for it.",
         "movements": [
           {
@@ -305,13 +305,15 @@
             "title": "luera mokanu nophi — The old disease story"
           }
         ],
-        "apparatus": "What the transmutation changed",
+        "apparatus": "Translation limits",
         "opening_paragraphs": 2,
         "interlinear_blocks": 7,
         "interlinear_stanzas": 120,
         "notes": 7,
-        "tables": 0,
-        "ledger_rows": [],
+        "tables": 1,
+        "ledger_rows": [
+          8
+        ],
         "inner_dividers": 1
       }
     ]
